@@ -1,0 +1,1014 @@
+{
+ "psalm": 63,
+ "source": "content/do/horas/Latin/Psalterium/Psalmorum/Psalm63.txt",
+ "parser": "LatinCy la_core_web_lg 3.9.8, unreviewed",
+ "verses": [
+  {
+   "id": "63:2",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Exáudi, Deus, oratiónem meam cum déprecor:",
+     "tokens": [
+      {
+       "form": "Exáudi",
+       "after": ",",
+       "fold": "exaudi",
+       "lemma": "exaudio",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "Deus",
+       "after": ",",
+       "fold": "deus",
+       "lemma": "deus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "oratiónem",
+       "fold": "orationem",
+       "lemma": "oratio",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "meam",
+       "fold": "meam",
+       "lemma": "meus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "déprecor",
+       "after": ":",
+       "fold": "deprecor",
+       "lemma": "deprecor",
+       "pos": "VERB",
+       "morph": "Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "a timóre inimíci éripe ánimam meam.",
+     "tokens": [
+      {
+       "form": "a",
+       "fold": "a",
+       "lemma": "ab",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "timóre",
+       "fold": "timore",
+       "lemma": "timor",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "inimíci",
+       "fold": "inimici",
+       "lemma": "inimicus",
+       "pos": "NOUN",
+       "morph": "Case=Gen|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "éripe",
+       "fold": "eripe",
+       "lemma": "eripio",
+       "pos": "VERB",
+       "morph": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "ánimam",
+       "fold": "animam",
+       "lemma": "anima",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "meam",
+       "after": ".",
+       "fold": "meam",
+       "lemma": "meus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing|Person=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:3",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Protexísti me a convéntu malignántium:",
+     "tokens": [
+      {
+       "form": "Protexísti",
+       "fold": "protexisti",
+       "lemma": "protexisti",
+       "pos": "PROPN",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur",
+       "rare": true
+      },
+      {
+       "form": "me",
+       "fold": "me",
+       "lemma": "ego",
+       "pos": "PRON",
+       "morph": "Case=Acc|Number=Sing|Person=1"
+      },
+      {
+       "form": "a",
+       "fold": "a",
+       "lemma": "ab",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "convéntu",
+       "fold": "conuentu",
+       "lemma": "conuentus",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Masc|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "malignántium",
+       "after": ":",
+       "fold": "malignantium",
+       "lemma": "maligno",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "a multitúdine operántium iniquitátem.",
+     "tokens": [
+      {
+       "form": "a",
+       "fold": "a",
+       "lemma": "ab",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "multitúdine",
+       "fold": "multitudine",
+       "lemma": "multitudo",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "operántium",
+       "fold": "operantium",
+       "lemma": "operor",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      },
+      {
+       "form": "iniquitátem",
+       "after": ".",
+       "fold": "iniquitatem",
+       "lemma": "iniquitas",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:4",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Quia exacuérunt ut gládium linguas suas:",
+     "tokens": [
+      {
+       "form": "Quia",
+       "fold": "quia",
+       "lemma": "quia",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "exacuérunt",
+       "fold": "exacuerunt",
+       "lemma": "exacuo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+       "rare": true
+      },
+      {
+       "form": "ut",
+       "fold": "ut",
+       "lemma": "ut",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "gládium",
+       "fold": "gladium",
+       "lemma": "gladius",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "linguas",
+       "fold": "linguas",
+       "lemma": "lingua",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Plur"
+      },
+      {
+       "form": "suas",
+       "after": ":",
+       "fold": "suas",
+       "lemma": "suus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Fem|Number=Plur|Person=3"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "intendérunt arcum rem amáram, ut sagíttent in occúltis immaculátum.",
+     "tokens": [
+      {
+       "form": "intendérunt",
+       "fold": "intenderunt",
+       "lemma": "intendo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "arcum",
+       "fold": "arcum",
+       "lemma": "arcus",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "rem",
+       "fold": "rem",
+       "lemma": "res",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "amáram",
+       "after": ",",
+       "fold": "amaram",
+       "lemma": "amarus",
+       "pos": "ADJ",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "ut",
+       "fold": "ut",
+       "lemma": "ut",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "sagíttent",
+       "fold": "sagittent",
+       "lemma": "sagitto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "occúltis",
+       "fold": "occultis",
+       "lemma": "occultus",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "immaculátum",
+       "after": ".",
+       "fold": "immaculatum",
+       "lemma": "immaculo",
+       "pos": "ADJ",
+       "morph": "Case=Acc|Gender=Neut|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:6",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Súbito sagittábunt eum, et non timébunt:",
+     "tokens": [
+      {
+       "form": "Súbito",
+       "fold": "subito",
+       "lemma": "subito",
+       "pos": "ADV",
+       "morph": "",
+       "rare": true
+      },
+      {
+       "form": "sagittábunt",
+       "fold": "sagittabunt",
+       "lemma": "sagitto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "eum",
+       "after": ",",
+       "fold": "eum",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Acc|Gender=Masc|Number=Sing|Person=3"
+      },
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "non",
+       "fold": "non",
+       "lemma": "non",
+       "pos": "PART",
+       "morph": ""
+      },
+      {
+       "form": "timébunt",
+       "after": ":",
+       "fold": "timebunt",
+       "lemma": "timeo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "firmavérunt sibi sermónem nequam.",
+     "tokens": [
+      {
+       "form": "firmavérunt",
+       "fold": "firmauerunt",
+       "lemma": "firmo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "sibi",
+       "fold": "sibi",
+       "lemma": "sui",
+       "pos": "PRON",
+       "morph": "Case=Dat|Person=3"
+      },
+      {
+       "form": "sermónem",
+       "fold": "sermonem",
+       "lemma": "sermo",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "nequam",
+       "after": ".",
+       "fold": "nequam",
+       "lemma": "nequam",
+       "pos": "ADJ",
+       "morph": "",
+       "rare": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:6b",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Narravérunt ut abscónderent láqueos:",
+     "tokens": [
+      {
+       "form": "Narravérunt",
+       "fold": "narrauerunt",
+       "lemma": "narro",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "ut",
+       "fold": "ut",
+       "lemma": "ut",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "abscónderent",
+       "fold": "absconderent",
+       "lemma": "abscondo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "láqueos",
+       "after": ":",
+       "fold": "laqueos",
+       "lemma": "laqueus",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "dixérunt: Quis vidébit eos?",
+     "tokens": [
+      {
+       "form": "dixérunt",
+       "after": ":",
+       "fold": "dixerunt",
+       "lemma": "dico",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "Quis",
+       "fold": "quis",
+       "lemma": "quis",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "vidébit",
+       "fold": "uidebit",
+       "lemma": "uideo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "eos",
+       "after": "?",
+       "fold": "eos",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur|Person=3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:7",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Scrutáti sunt iniquitátes:",
+     "tokens": [
+      {
+       "form": "Scrutáti",
+       "fold": "scrutati",
+       "lemma": "scruto",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "sunt",
+       "fold": "sunt",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "iniquitátes",
+       "after": ":",
+       "fold": "iniquitates",
+       "lemma": "iniquitas",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Plur"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "defecérunt scrutántes scrutínio.",
+     "tokens": [
+      {
+       "form": "defecérunt",
+       "fold": "defecerunt",
+       "lemma": "deficio",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "scrutántes",
+       "fold": "scrutantes",
+       "lemma": "scruto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      },
+      {
+       "form": "scrutínio",
+       "after": ".",
+       "fold": "scrutinio",
+       "lemma": "scrutinium",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Neut|Number=Sing",
+       "rare": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:7b",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Accédet homo ad cor altum:",
+     "tokens": [
+      {
+       "form": "Accédet",
+       "fold": "accedet",
+       "lemma": "accedo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "homo",
+       "fold": "homo",
+       "lemma": "homo",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "ad",
+       "fold": "ad",
+       "lemma": "ad",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "cor",
+       "fold": "cor",
+       "lemma": "cor",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "altum",
+       "after": ":",
+       "fold": "altum",
+       "lemma": "altus",
+       "pos": "ADJ",
+       "morph": "Case=Acc|Gender=Neut|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et exaltábitur Deus.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "exaltábitur",
+       "fold": "exaltabitur",
+       "lemma": "exalto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass"
+      },
+      {
+       "form": "Deus",
+       "after": ".",
+       "fold": "deus",
+       "lemma": "deus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:8",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Sagíttæ parvulórum factæ sunt plagæ eórum:",
+     "tokens": [
+      {
+       "form": "Sagíttæ",
+       "fold": "sagittae",
+       "lemma": "sagitta",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Plur"
+      },
+      {
+       "form": "parvulórum",
+       "fold": "paruulorum",
+       "lemma": "paruulus",
+       "pos": "ADJ",
+       "morph": "Case=Gen|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "factæ",
+       "fold": "factae",
+       "lemma": "facio",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "sunt",
+       "fold": "sunt",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "plagæ",
+       "fold": "plagae",
+       "lemma": "plaga",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Plur"
+      },
+      {
+       "form": "eórum",
+       "after": ":",
+       "fold": "eorum",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Gen|Gender=Masc|Number=Plur|Person=3"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et infirmátæ sunt contra eos linguæ eórum.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "infirmátæ",
+       "fold": "infirmatae",
+       "lemma": "infirmo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "sunt",
+       "fold": "sunt",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "contra",
+       "fold": "contra",
+       "lemma": "contra",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "eos",
+       "fold": "eos",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur|Person=3"
+      },
+      {
+       "form": "linguæ",
+       "fold": "linguae",
+       "lemma": "lingua",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Plur"
+      },
+      {
+       "form": "eórum",
+       "after": ".",
+       "fold": "eorum",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Gen|Gender=Masc|Number=Plur|Person=3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:9",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Conturbáti sunt omnes qui vidébant eos:",
+     "tokens": [
+      {
+       "form": "Conturbáti",
+       "fold": "conturbati",
+       "lemma": "conturbo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "sunt",
+       "fold": "sunt",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "omnes",
+       "fold": "omnes",
+       "lemma": "omnis",
+       "pos": "DET",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "qui",
+       "fold": "qui",
+       "lemma": "qui",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "vidébant",
+       "fold": "uidebant",
+       "lemma": "uideo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "eos",
+       "after": ":",
+       "fold": "eos",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur|Person=3"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et tímuit omnis homo.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "tímuit",
+       "fold": "timuit",
+       "lemma": "timeo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "omnis",
+       "fold": "omnis",
+       "lemma": "omnis",
+       "pos": "DET",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "homo",
+       "after": ".",
+       "fold": "homo",
+       "lemma": "homo",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:10",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Et annuntiavérunt ópera Dei,",
+     "tokens": [
+      {
+       "form": "Et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "annuntiavérunt",
+       "fold": "annuntiauerunt",
+       "lemma": "annuntio",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "ópera",
+       "fold": "opera",
+       "lemma": "opus",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Neut|Number=Plur"
+      },
+      {
+       "form": "Dei",
+       "after": ",",
+       "fold": "dei",
+       "lemma": "deus",
+       "pos": "NOUN",
+       "morph": "Case=Gen|Gender=Masc|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et facta ejus intellexérunt.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "facta",
+       "fold": "facta",
+       "lemma": "facio",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Neut|Number=Plur"
+      },
+      {
+       "form": "ejus",
+       "fold": "eius",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=3"
+      },
+      {
+       "form": "intellexérunt",
+       "after": ".",
+       "fold": "intellexerunt",
+       "lemma": "intellego",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63:11",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Lætábitur justus in Dómino, et sperábit in eo,",
+     "tokens": [
+      {
+       "form": "Lætábitur",
+       "fold": "laetabitur",
+       "lemma": "laeto",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "justus",
+       "fold": "iustus",
+       "lemma": "iustus",
+       "pos": "ADJ",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "Dómino",
+       "after": ",",
+       "fold": "domino",
+       "lemma": "dominus",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "sperábit",
+       "fold": "sperabit",
+       "lemma": "spero",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "eo",
+       "after": ",",
+       "fold": "eo",
+       "lemma": "eo",
+       "pos": "PRON",
+       "morph": "Case=Abl|Gender=Masc|Number=Sing|Person=3"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et laudabúntur omnes recti corde.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "laudabúntur",
+       "fold": "laudabuntur",
+       "lemma": "laudo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass"
+      },
+      {
+       "form": "omnes",
+       "fold": "omnes",
+       "lemma": "omnis",
+       "pos": "DET",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "recti",
+       "fold": "recti",
+       "lemma": "rego",
+       "pos": "ADJ",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "corde",
+       "after": ".",
+       "fold": "corde",
+       "lemma": "cor",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Neut|Number=Sing"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

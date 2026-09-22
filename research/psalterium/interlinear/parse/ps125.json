@@ -1,0 +1,631 @@
+{
+ "psalm": 125,
+ "source": "content/do/horas/Latin/Psalterium/Psalmorum/Psalm125.txt",
+ "parser": "LatinCy la_core_web_lg 3.9.8, unreviewed",
+ "verses": [
+  {
+   "id": "125:1",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "In converténdo Dóminus captivitátem Sion:",
+     "tokens": [
+      {
+       "form": "In",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "converténdo",
+       "fold": "conuertendo",
+       "lemma": "conuerto",
+       "pos": "VERB",
+       "morph": "Aspect=Prosp|Case=Abl|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "Dóminus",
+       "fold": "dominus",
+       "lemma": "dominus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "captivitátem",
+       "fold": "captiuitatem",
+       "lemma": "captiuitas",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "Sion",
+       "after": ":",
+       "fold": "sion",
+       "lemma": "sion",
+       "pos": "PROPN",
+       "morph": "Case=Gen|Gender=Fem|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "facti sumus sicut consoláti:",
+     "tokens": [
+      {
+       "form": "facti",
+       "fold": "facti",
+       "lemma": "facio",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "sumus",
+       "fold": "sumus",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "sicut",
+       "fold": "sicut",
+       "lemma": "sicut",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "consoláti",
+       "after": ":",
+       "fold": "consolati",
+       "lemma": "consolor",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:2a",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Tunc replétum est gáudio os nostrum:",
+     "tokens": [
+      {
+       "form": "Tunc",
+       "fold": "tunc",
+       "lemma": "tunc",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "replétum",
+       "fold": "repletum",
+       "lemma": "repleo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "est",
+       "fold": "est",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "gáudio",
+       "fold": "gaudio",
+       "lemma": "gaudium",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "os",
+       "fold": "os",
+       "lemma": "os",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "nostrum",
+       "after": ":",
+       "fold": "nostrum",
+       "lemma": "noster",
+       "pos": "DET",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et lingua nostra exsultatióne.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "lingua",
+       "fold": "lingua",
+       "lemma": "lingua",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "nostra",
+       "fold": "nostra",
+       "lemma": "noster",
+       "pos": "DET",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "exsultatióne",
+       "after": ".",
+       "fold": "exsultatione",
+       "lemma": "exsultatio",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:2b",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Tunc dicent inter gentes:",
+     "tokens": [
+      {
+       "form": "Tunc",
+       "fold": "tunc",
+       "lemma": "tunc",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "dicent",
+       "fold": "dicent",
+       "lemma": "dico",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "inter",
+       "fold": "inter",
+       "lemma": "inter",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "gentes",
+       "after": ":",
+       "fold": "gentes",
+       "lemma": "gens",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Plur"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "Magnificávit Dóminus fácere cum eis.",
+     "tokens": [
+      {
+       "form": "Magnificávit",
+       "fold": "magnificauit",
+       "lemma": "magnifico",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "Dóminus",
+       "fold": "dominus",
+       "lemma": "dominus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "fácere",
+       "fold": "facere",
+       "lemma": "facio",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act"
+      },
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "eis",
+       "after": ".",
+       "fold": "eis",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Abl|Gender=Masc|Number=Plur|Person=3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:3",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Magnificávit Dóminus fácere nobíscum:",
+     "tokens": [
+      {
+       "form": "Magnificávit",
+       "fold": "magnificauit",
+       "lemma": "magnifico",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "Dóminus",
+       "fold": "dominus",
+       "lemma": "dominus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "fácere",
+       "fold": "facere",
+       "lemma": "facio",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act"
+      },
+      {
+       "form": "nobís",
+       "fold": "nobis",
+       "lemma": "nos",
+       "pos": "PRON",
+       "morph": "Case=Abl|Number=Plur|Person=1"
+      },
+      {
+       "form": "-cum",
+       "after": ":",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "ADP",
+       "morph": ""
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "facti sumus lætántes.",
+     "tokens": [
+      {
+       "form": "facti",
+       "fold": "facti",
+       "lemma": "facio",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass"
+      },
+      {
+       "form": "sumus",
+       "fold": "sumus",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin"
+      },
+      {
+       "form": "lætántes",
+       "after": ".",
+       "fold": "laetantes",
+       "lemma": "laetor",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:4",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Convérte, Dómine, captivitátem nostram,",
+     "tokens": [
+      {
+       "form": "Convérte",
+       "after": ",",
+       "fold": "conuerte",
+       "lemma": "conuertus",
+       "pos": "PROPN",
+       "morph": "Case=Voc|Gender=Masc|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "Dómine",
+       "after": ",",
+       "fold": "domine",
+       "lemma": "dominus",
+       "pos": "PROPN",
+       "morph": "Case=Voc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "captivitátem",
+       "fold": "captiuitatem",
+       "lemma": "captiuitas",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "nostram",
+       "after": ",",
+       "fold": "nostram",
+       "lemma": "noster",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "sicut torrens in Austro.",
+     "tokens": [
+      {
+       "form": "sicut",
+       "fold": "sicut",
+       "lemma": "sicut",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "torrens",
+       "fold": "torrens",
+       "lemma": "torreo",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "Austro",
+       "after": ".",
+       "fold": "austro",
+       "lemma": "auster",
+       "pos": "PROPN",
+       "morph": "Case=Abl|Gender=Masc|Number=Sing",
+       "rare": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:5",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Qui séminant in lácrimis,",
+     "tokens": [
+      {
+       "form": "Qui",
+       "fold": "qui",
+       "lemma": "qui",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "séminant",
+       "fold": "seminant",
+       "lemma": "semino",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act",
+       "rare": true
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "lácrimis",
+       "after": ",",
+       "fold": "lacrimis",
+       "lemma": "lacrima",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Fem|Number=Plur"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "in exsultatióne metent.",
+     "tokens": [
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "exsultatióne",
+       "fold": "exsultatione",
+       "lemma": "exsultatio",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "metent",
+       "after": ".",
+       "fold": "metent",
+       "lemma": "meto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act",
+       "rare": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:6a",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Eúntes ibant et flebant,",
+     "tokens": [
+      {
+       "form": "Eúntes",
+       "fold": "euntes",
+       "lemma": "euntes",
+       "pos": "PROPN",
+       "morph": "Case=Nom|Gender=Fem|Number=Plur",
+       "rare": true
+      },
+      {
+       "form": "ibant",
+       "fold": "ibant",
+       "lemma": "eo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "flebant",
+       "after": ",",
+       "fold": "flebant",
+       "lemma": "fleo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act",
+       "rare": true
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "mitténtes sémina sua.",
+     "tokens": [
+      {
+       "form": "mitténtes",
+       "fold": "mittentes",
+       "lemma": "mitto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      },
+      {
+       "form": "sémina",
+       "fold": "semina",
+       "lemma": "semen",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Neut|Number=Plur"
+      },
+      {
+       "form": "sua",
+       "after": ".",
+       "fold": "sua",
+       "lemma": "suus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Neut|Number=Plur"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "125:6b",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Veniéntes autem vénient cum exsultatióne,",
+     "tokens": [
+      {
+       "form": "Veniéntes",
+       "fold": "uenientes",
+       "lemma": "uenientes",
+       "pos": "ADJ",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur",
+       "rare": true
+      },
+      {
+       "form": "autem",
+       "fold": "autem",
+       "lemma": "autem",
+       "pos": "PART",
+       "morph": ""
+      },
+      {
+       "form": "vénient",
+       "fold": "uenient",
+       "lemma": "uenio",
+       "pos": "VERB",
+       "morph": "Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "exsultatióne",
+       "after": ",",
+       "fold": "exsultatione",
+       "lemma": "exsultatio",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "portántes manípulos suos.",
+     "tokens": [
+      {
+       "form": "portántes",
+       "fold": "portantes",
+       "lemma": "porto",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      },
+      {
+       "form": "manípulos",
+       "fold": "manipulos",
+       "lemma": "manipulus",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur",
+       "rare": true
+      },
+      {
+       "form": "suos",
+       "after": ".",
+       "fold": "suos",
+       "lemma": "suus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur|Person=3"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

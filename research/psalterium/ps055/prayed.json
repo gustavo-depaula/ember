@@ -1,0 +1,890 @@
+{
+  "psalm": 55,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "55:2": "Tende piedade de mim, Deus, porque o homem {conculcavit}: * o dia todo, {impugnans}.",
+    "55:3": "{conculcaverunt} os meus inimigos o dia todo: * porque são muitos os que {bellantes} contra mim.",
+    "55:4": "{altitudine} temerei: * eu, porém, esperarei em vós.",
+    "55:5": "Em Deus louvarei as minhas palavras, em Deus esperei: * não temerei {quid5} a carne.",
+    "55:6": "O dia todo {exsecrabantur} as minhas palavras: * contra mim {copula} todos os seus pensamentos para o mal.",
+    "55:7": "Habitarão e {abscondent}: * eles {observabunt} o meu calcanhar.",
+    "55:8": "Assim como {sustinuerunt}, {pronihilo} os salvareis: * {inira} quebrareis os povos.",
+    "55:9": "Deus, {vitam}: * pusestes as minhas lágrimas {conspectu}.",
+    "55:9b": "Assim como também na vossa promessa: * então os meus inimigos voltarão para trás:",
+    "55:10": "Em qualquer dia em que vos invocar: * {cognovi} o meu Deus.",
+    "55:11": "Em Deus louvarei a palavra, no Senhor louvarei {sermonem}: * em Deus esperei, não temerei {quid11} o homem.",
+    "55:12": "{inme}, Deus, {vota}, * que {reddam}: louvores a vós.",
+    "55:13": "Porque {eripuisti} a minha alma da morte, e os meus pés da queda: * para que eu {placeam} diante de Deus na luz dos vivos."
+  },
+  "decisions": [
+    {
+      "id": "conculcare",
+      "refs": [
+        "55:2",
+        "55:3"
+      ],
+      "latin": "conculcávit me … Conculcavérunt me",
+      "kind": "glossary",
+      "why": "The glossary row conculcáre is open: *calcar aos pés* (90:13) against *pisar aos pés*, which Ps 7:6 took after *calque* was unknown to the blind reader and 'pouco corrente' to the stylist, and which the row now proposes. Ps 55 has the verb twice in two verses (κατεπάτησεν … κατεπάτησαν), so one verb serves both. *aos pés* kept: bare *pisar* can be heard as merely stepping on. MS1932 has both verbs (*me calcou aos pés … Pisaram-me*), DRB 'trodden me under foot … trodden on me'. **v2:** the stylist refused *pisar aos pés* in both verses as a crossed idiom and asked for *calcar aos pés*; taken — the Ps 7 readers stumbled on the rare form *calque*, while *calcou / calcaram* are current; the ambiguity reader passed *calcou*-family words without remark.",
+      "options": [
+        {
+          "label": "me calcou aos pés / Calcaram-me aos pés",
+          "forms": {
+            "conculcavit": "me calcou aos pés",
+            "conculcaverunt": "Calcaram-me aos pés"
+          },
+          "note": "Ruling (v2); stylist v1: *pisar aos pés* is two idioms crossed, *calcar aos pés* the set phrase; = 90:13 and MS1932. Ps 7:6's trouble was the subjunctive *calque*, not the idiom.",
+          "from": "stylist"
+        },
+        {
+          "label": "me pisou aos pés / Pisaram-me aos pés",
+          "forms": {
+            "conculcavit": "me pisou aos pés",
+            "conculcaverunt": "Pisaram-me aos pés"
+          },
+          "note": "Draft 1; the row's proposal after Ps 7:6.",
+          "from": "glossary"
+        },
+        {
+          "label": "me pisou / Pisaram-me",
+          "forms": {
+            "conculcavit": "me pisou",
+            "conculcaverunt": "Pisaram-me"
+          },
+          "note": "shorter; loses the trampling the con- gives.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "impugnans",
+      "refs": [
+        "55:2"
+      ],
+      "latin": "tota die impúgnans tribulávit me",
+      "kind": "order",
+      "why": "The participle has no object in the Latin (πολεμῶν); *impugnáre → combater* as in 34:1 (*os que me combatem*); *tribuláre → atribular* (row). *tota die → o dia todo* (D24) first, as in the Latin, so it can go with either verb as it can there. The Lenten Gradual (Quad3-1, Quad5-1 by grep) sings this colon with *bellans* for *impúgnans*.",
+      "options": [
+        {
+          "label": "combatendo, me atribulou",
+          "forms": {
+            "impugnans": "combatendo, me atribulou"
+          },
+          "note": "Ruling; the participle without an object, as the Latin; the colon ends on the main verb, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "combatendo-me, atribulou-me",
+          "forms": {
+            "impugnans": "combatendo-me, atribulou-me"
+          },
+          "note": "DRB 'fighting against me'; supplies an object the Latin lacks, and two enclitics in a row.",
+          "from": "DRB"
+        },
+        {
+          "label": "me atribulou, combatendo",
+          "forms": {
+            "impugnans": "me atribulou, combatendo"
+          },
+          "note": "MS1932's order (*angustiou-me, combatendo*); cadence on a paroxytone.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "bellantes",
+      "refs": [
+        "55:3"
+      ],
+      "latin": "quóniam multi bellántes advérsum me",
+      "kind": "word",
+      "why": "*bellári* (only here in the psalter, grep) is 'to wage war'; the Greek πολεμοῦντες is the same verb as 55:2's πολεμῶν (*impúgnans* → *combater*), so D15's test would allow one Portuguese verb — but the Latin varies here, *combater* in both would drop *bellum*'s war, and Portuguese has a plain second verb. The copula *são* supplied (grammar, D2; MS1932 *porque são muitos os que pelejam*).",
+      "options": [
+        {
+          "label": "guerreiam",
+          "forms": {
+            "bellantes": "guerreiam"
+          },
+          "note": "Ruling; keeps *bellum*; plain.",
+          "from": "draft"
+        },
+        {
+          "label": "lutam",
+          "forms": {
+            "bellantes": "lutam"
+          },
+          "note": "plainest; loses the war.",
+          "from": "draft"
+        },
+        {
+          "label": "combatem",
+          "forms": {
+            "bellantes": "combatem"
+          },
+          "note": "one verb with 55:2, as the Greek; the Latin varies.",
+          "from": "draft"
+        },
+        {
+          "label": "pelejam",
+          "forms": {
+            "bellantes": "pelejam"
+          },
+          "note": "MS1932; dated in Brazilian speech.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "altitudine",
+      "refs": [
+        "55:4"
+      ],
+      "latin": "Ab altitúdine diéi timébo",
+      "kind": "ambiguity",
+      "why": "A crux: the Latin (ἀπὸ ὕψους ἡμέρας) can be the height of the day (noon — DRB 'From the height of the day') or height as haughtiness; the Hebrew מָרוֹם belongs to 55:3 ('proudly'), which is where the Latin's reading comes from, and MS1932 turns it to dawn (*desde que desponta o dia*). The Latin is kept as it stands; *altitúdo → altura* is the open row's word (11:9, 68:3, 102:11). *desde* holds both time and place in Portuguese, as *ab* does. **v2:** the Latinist asked for plain *da*, which keeps *ab* as open as the Latin (time from which, or cause); taken.",
+      "options": [
+        {
+          "label": "Da altura do dia",
+          "forms": {
+            "altitudine": "Da altura do dia"
+          },
+          "note": "Ruling (v2); latinist v1: *desde* makes *ab* only temporal; *da* keeps time, place and cause open.",
+          "from": "latinist"
+        },
+        {
+          "label": "Desde a altura do dia",
+          "forms": {
+            "altitudine": "Desde a altura do dia"
+          },
+          "note": "Draft 1; DRB's reading, the row's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "Do alto do dia",
+          "forms": {
+            "altitudine": "Do alto do dia"
+          },
+          "note": "plainer noun; *do alto* leans to a place.",
+          "from": "draft"
+        },
+        {
+          "label": "Desde que desponta o dia",
+          "forms": {
+            "altitudine": "Desde que desponta o dia"
+          },
+          "note": "MS1932; refused: it interprets (dawn), and the Latin says height.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quid",
+      "refs": [
+        "55:5",
+        "55:11"
+      ],
+      "latin": "non timébo quid fáciat mihi caro / homo",
+      "kind": "glossary",
+      "why": "The refrain's second half, and word for word Ps 117:6 *non timébo quid fáciat mihi homo* → *não temerei o que me faça o homem* (finished): identical Latin, identical Portuguese (rule 6). 55:5 differs only in *caro* → *a carne* (the flesh, kept concrete: 15:9, 27:7b); 55:11 is 117:6 exactly.",
+      "options": [
+        {
+          "label": "o que me faça",
+          "forms": {
+            "quid5": "o que me faça",
+            "quid11": "o que me faça"
+          },
+          "note": "Ruling; = 117:6.",
+          "from": "glossary"
+        },
+        {
+          "label": "o que me possa fazer",
+          "forms": {
+            "quid5": "o que me possa fazer",
+            "quid11": "o que me possa fazer"
+          },
+          "note": "MS1932; adds 'can'; would part from 117:6.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sermonem",
+      "refs": [
+        "55:11"
+      ],
+      "latin": "In Deo laudábo verbum, in Dómino laudábo sermónem",
+      "kind": "glossary",
+      "why": "D15 rules *verbum* and *sermo* both *palavra* and names 55:11 as a verse where the two stand side by side and 'decides locally'. Here the Greek differs too (ῥῆμα … λόγον), so by D15's own test the variation means something; but Portuguese has no plain second noun: *discurso* is a speech made, *fala* was refused three times by the Ps 118 stylist, *dito* is *elóquium*'s. Ruled for *palavra* twice: the verse's figure is the parallel (*In Deo laudábo … in Dómino laudábo …*), and it keeps the refrain whole — 55:5 *sermónes meos* and 55:6 *verba mea* are both *as minhas palavras* (both τοὺς λόγους μου in the Greek), so 55:11 still echoes 55:5. Cost, D15's accepted cost: the Latin's two nouns are one in Portuguese. The Lenten Gradual (Quad3-1) sings this verse. **v2:** the Latinist (minor) and the stylist both refused *a palavra … a palavra*: the Latin varies its noun, and the doubled word sounds like a copying slip. Taken, as the local decision D15 allows — the Greek differs here too, which is D15's own test. Of the two proposed nouns, the stylist's *a fala* (the thing spoken) over the Latinist's *o discurso* (a speech, heard as someone's oration). D15 refused *falas* in the plural with a possessive (*as vossas falas*, 118); the singular without one reads as the pair *palavra / fala*. Cost: 55:5 *sermónes meos* stays *as minhas palavras* (τοὺς λόγους, as 55:6 *verba*), so *sermo* has two Portuguese words in this psalm; the refrain's echo 55:5 / 55:11 still rests on *palavra*.",
+      "options": [
+        {
+          "label": "a fala",
+          "forms": {
+            "sermonem": "a fala"
+          },
+          "note": "Ruling (v2); stylist v1. The Latin's two nouns, and the Greek's (ῥῆμα / λόγον).",
+          "from": "stylist"
+        },
+        {
+          "label": "a palavra",
+          "forms": {
+            "sermonem": "a palavra"
+          },
+          "note": "Draft 1; D15. Both the Latinist and the stylist heard the repetition as a slip.",
+          "from": "glossary"
+        },
+        {
+          "label": "o discurso",
+          "forms": {
+            "sermonem": "o discurso"
+          },
+          "note": "latinist v1; a speech made — heard as praising someone's speech.",
+          "from": "latinist"
+        },
+        {
+          "label": "a sua palavra",
+          "forms": {
+            "sermonem": "a sua palavra"
+          },
+          "note": "DRB 'his speech'; supplies a possessive the Latin lacks.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "exsecrabantur",
+      "refs": [
+        "55:6"
+      ],
+      "latin": "verba mea exsecrabántur",
+      "kind": "word",
+      "why": "*exsecrári* is only here (grep; the noun 58:13); L&S 'to curse, execrate', with *detestor* and *abominor* as synonyms; the Greek ἐβδελύσσοντο is 'abhorred'. *abominar* is taken by *abominári* (5:7b, 118:163). *detestar* says abhorring, which the Greek confirms, and is plain; DRB 'detested'.",
+      "options": [
+        {
+          "label": "detestavam",
+          "forms": {
+            "exsecrabantur": "detestavam"
+          },
+          "note": "Ruling; DRB; the Greek's sense.",
+          "from": "DRB"
+        },
+        {
+          "label": "execravam",
+          "forms": {
+            "exsecrabantur": "execravam"
+          },
+          "note": "the cognate; holds curse and abhor, but bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "amaldiçoavam",
+          "forms": {
+            "exsecrabantur": "amaldiçoavam"
+          },
+          "note": "the Latin word's first classical sense; the Greek says abhor.",
+          "from": "draft"
+        },
+        {
+          "label": "abominavam",
+          "forms": {
+            "exsecrabantur": "abominavam"
+          },
+          "note": "MS1932; collides with *abominári*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "copula",
+      "refs": [
+        "55:6"
+      ],
+      "latin": "advérsum me omnes cogitatiónes eórum in malum",
+      "kind": "grammar",
+      "why": "A nominal clause; Portuguese needs a verb (D2). The imperfect follows *exsecrabántur* in the first colon (DRB 'were', MS1932 *eram*). Natural order, subject first. *cogitátio → pensamento* (row); *in malum → para o mal*. **v2:** the Latin order (*contra mim eram todos os seus pensamentos para o mal*), from the stylist: *para o mal* no longer trails after a comma. His present *são* refused — the first colon is past — and stays option 2.",
+      "options": [
+        {
+          "label": "eram",
+          "forms": {
+            "copula": "eram"
+          },
+          "note": "Ruling; DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "são",
+          "forms": {
+            "copula": "são"
+          },
+          "note": "a present state; the first colon is past.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abscondent",
+      "refs": [
+        "55:7"
+      ],
+      "latin": "Inhabitábunt et abscóndent",
+      "kind": "ambiguity",
+      "why": "Both Latin verbs are active and objectless (παροικήσουσιν καὶ κατακρύψουσιν): 'they will dwell and hide' — hide themselves, or hide (snares; cf. 9:16b, 30:5, 34:7 *abscondérunt láqueum*). Transitive *esconder* with no object is heard in Portuguese as a sentence cut off, so the reflexive is supplied as grammar (D2), as DRB 'hide themselves' and MS1932 *esconder-se-ão* do. *inhabitáre → habitar* (36:29). This is the one place the draft closes something the Latin leaves open; the bare verb is option 2 for the Latinist to weigh. **v2:** the Latinist marked the reflexive (minor) and asked for the bare verb; taken — it is the ambiguity the brief says to keep, and the ambiguity reader already heard the enemies lying hidden in draft 1.",
+      "options": [
+        {
+          "label": "esconderão",
+          "forms": {
+            "abscondent": "esconderão"
+          },
+          "note": "Ruling (v2); latinist v1: the Latin is active and objectless; the reflexive changed the voice and closed what it leaves open.",
+          "from": "draft"
+        },
+        {
+          "label": "se esconderão",
+          "forms": {
+            "abscondent": "se esconderão"
+          },
+          "note": "Draft 1; DRB, MS1932 — supplies the reflexive.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "observabunt",
+      "refs": [
+        "55:7"
+      ],
+      "latin": "ipsi calcáneum meum observábunt",
+      "kind": "glossary",
+      "why": "*observáre* a person with hostile intent → *espreitar* (open row, 36:12); the heel is kept, *calcáneum → calcanhar* (D43; 48:6). MS1932 *espiarão todos os meus passos* explains the image away. *ipsi* → *eles* (emphatic subject named).",
+      "options": [
+        {
+          "label": "espreitarão",
+          "forms": {
+            "observabunt": "espreitarão"
+          },
+          "note": "Ruling; the row's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "vigiarão",
+          "forms": {
+            "observabunt": "vigiarão"
+          },
+          "note": "plainer; less hostile.",
+          "from": "draft"
+        },
+        {
+          "label": "observarão",
+          "forms": {
+            "observabunt": "observarão"
+          },
+          "note": "the cognate; neutral, and *serváre*'s word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sustinuerunt",
+      "refs": [
+        "55:8"
+      ],
+      "latin": "Sicut sustinuérunt ánimam meam",
+      "kind": "glossary",
+      "why": "*sustinére* (ὑπέμειναν) with God as object is *esperar por* (D36); here the object is the psalmist's soul, and the waiting is the enemies' lying in wait for it. The same verb keeps the Latin's word; the hostility is in the context (55:7 *espreitarão*). *ánima mea → a minha alma* (row; *vida* is the idiom's sense and an option).",
+      "options": [
+        {
+          "label": "esperaram pela minha alma",
+          "forms": {
+            "sustinuerunt": "esperaram pela minha alma"
+          },
+          "note": "Ruling; D36's verb; DRB 'waited for my soul'.",
+          "from": "glossary"
+        },
+        {
+          "label": "aguardaram a minha alma",
+          "forms": {
+            "sustinuerunt": "aguardaram a minha alma"
+          },
+          "note": "*aguardar* is *exspectáre*'s (D36).",
+          "from": "draft"
+        },
+        {
+          "label": "esperaram pela minha vida",
+          "forms": {
+            "sustinuerunt": "esperaram pela minha vida"
+          },
+          "note": "MS1932 *tirar-me a vida*; the idiom's sense; the row keeps *alma*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pronihilo",
+      "refs": [
+        "55:8"
+      ],
+      "latin": "pro níhilo salvos fácies illos",
+      "kind": "ambiguity",
+      "why": "ὑπὲρ τοῦ μηθενὸς σώσεις αὐτούς: 'for nothing' — in no way, or for no price (DRB 'for nothing shalt thou save them'). *por nada* holds both, as the Latin does; MS1932 *de nenhum modo os salvarás* decides for the first. *salvum fácere → salvar* (row).",
+      "options": [
+        {
+          "label": "por nada",
+          "forms": {
+            "pronihilo": "por nada"
+          },
+          "note": "Ruling; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "de nenhum modo",
+          "forms": {
+            "pronihilo": "de nenhum modo"
+          },
+          "note": "MS1932; decides the ambiguity.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inira",
+      "refs": [
+        "55:8"
+      ],
+      "latin": "in ira pópulos confrínges",
+      "kind": "word",
+      "why": "The Latin has no possessive (30:10 *in ira* → *na ira*; 26:9 *com ira*); DRB and MS1932 supply 'thy'. Kept without. *confríngere → quebrar* (row; 2:9, 17:39).",
+      "options": [
+        {
+          "label": "na ira",
+          "forms": {
+            "inira": "na ira"
+          },
+          "note": "Ruling; as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "na vossa ira",
+          "forms": {
+            "inira": "na vossa ira"
+          },
+          "note": "DRB, MS1932; supplies *tua*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "vitam",
+      "refs": [
+        "55:9"
+      ],
+      "latin": "Deus, vitam meam annuntiávi tibi",
+      "kind": "order",
+      "why": "The colon is a versicle on its own (Psalmi matutinum [Daya3], Quad5-5: *V. Deus, vitam meam annuntiávi tibi. R. Posuísti lácrimas meas in conspéctu tuo*, grep), so each half must read alone. *annuntiáre → anunciar* (D41). Natural order with the subject pronoun (D2).",
+      "options": [
+        {
+          "label": "eu vos anunciei a minha vida",
+          "forms": {
+            "vitam": "eu vos anunciei a minha vida"
+          },
+          "note": "Ruling; natural order, cadence on *vida*.",
+          "from": "draft"
+        },
+        {
+          "label": "a minha vida vos anunciei",
+          "forms": {
+            "vitam": "a minha vida vos anunciei"
+          },
+          "note": "the Latin's order; oxytone cadence.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "55:9"
+      ],
+      "latin": "in conspéctu tuo",
+      "kind": "glossary",
+      "why": "The open row *in conspéctu* proposes *à vista de* (5:9, 9:20, 18:15a, 21:26); 40:13 and Ps 118 have *na vossa presença*. *pôr diante da vista* is the image here, of tears set where God sees them; *à vossa vista* follows the row.",
+      "options": [
+        {
+          "label": "à vossa vista",
+          "forms": {
+            "conspectu": "à vossa vista"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "na vossa presença",
+          "forms": {
+            "conspectu": "na vossa presença"
+          },
+          "note": "40:13, 118:168–170.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de vós",
+          "forms": {
+            "conspectu": "diante de vós"
+          },
+          "note": "plainest; drops the seeing.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cognovi",
+      "refs": [
+        "55:10"
+      ],
+      "latin": "ecce, cognóvi, quóniam Deus meus es",
+      "kind": "word",
+      "why": "The perfect of coming to know; 19:7a *nunc cognóvi* → *agora soube* after a Latinist major against the present. With a *que*-clause 118:75 has *Conheci, Senhor, que …*, which keeps the row's verb *conhecer*. *vós* named, so that *sois* is not left hanging after *eis*; DRB 'behold I know', MS1932 *logo conhecerei* (a future, not the Latin). **v2:** the stylist found *conheci que* not current and the bare *eis,* clipped; the ambiguity reader found the past after *em qualquer dia* jarring. Taken: *eis que* and *saber* (19:7a); the *quóniam*-clause said after a colon, which is how Portuguese says it. The perfect stays, as the Latin.",
+      "options": [
+        {
+          "label": "eis que eu soube: vós sois",
+          "forms": {
+            "cognovi": "eis que eu soube: vós sois"
+          },
+          "note": "Ruling (v2); the stylist's build (*eis que eu sei: vós sois*) with the Latin's perfect kept (19:7a *agora soube*, where the present drew a Latinist major).",
+          "from": "stylist"
+        },
+        {
+          "label": "conheci",
+          "forms": {
+            "cognovi": "eis, conheci que vós sois"
+          },
+          "note": "Draft 1 build; 118:75.",
+          "from": "glossary"
+        },
+        {
+          "label": "soube",
+          "forms": {
+            "cognovi": "eis, soube que vós sois"
+          },
+          "note": "19:7a's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "eu sei",
+          "forms": {
+            "cognovi": "eis, eu sei que vós sois"
+          },
+          "note": "DRB; the present, which drew a Latinist major at 19:7a.",
+          "from": "DRB"
+        },
+        {
+          "label": "eis que eu sei: vós sois",
+          "forms": {
+            "cognovi": "eis que eu sei: vós sois"
+          },
+          "note": "stylist v1 as proposed; refused: the present (see 19:7a).",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "inme",
+      "refs": [
+        "55:12"
+      ],
+      "latin": "In me sunt, Deus, vota tua",
+      "kind": "ambiguity",
+      "why": "*vota tua* are the vows owed to God (made to you); *in me* — upon me as a debt, or within me. Both kept open: *Em mim estão … os vossos votos*. MS1932 explains (*A meu cuidado estão … os votos que te fiz*); the Hebrew עָלַי 'upon me' is not the Latin's preposition.",
+      "options": [
+        {
+          "label": "Em mim estão / os vossos votos",
+          "forms": {
+            "inme": "Em mim estão",
+            "vota": "os vossos votos"
+          },
+          "note": "Ruling; DRB 'In me, O God, are vows to thee'.",
+          "from": "DRB"
+        },
+        {
+          "label": "Sobre mim estão / os vossos votos",
+          "forms": {
+            "inme": "Sobre mim estão",
+            "vota": "os vossos votos"
+          },
+          "note": "the debt made explicit; the Hebrew's preposition.",
+          "from": "draft"
+        },
+        {
+          "label": "Em mim estão / os votos que vos fiz",
+          "forms": {
+            "inme": "Em mim estão",
+            "vota": "os votos que vos fiz"
+          },
+          "note": "MS1932; explains *tua*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eripuisti",
+      "refs": [
+        "55:13"
+      ],
+      "latin": "eripuísti ánimam meam de morte",
+      "kind": "glossary",
+      "why": "The *erípere* row: *arrancar* where a *de …* names the source (53:9 *de toda tribulação me arrancastes*), *libertar* where none is named. Here there are two sources, death and the fall. Ps 114:8 (*erípuit ánimam meam de morte … pedes meos a lapsu*) should copy it. *lapsus → queda* (MS1932).",
+      "options": [
+        {
+          "label": "arrancastes",
+          "forms": {
+            "eripuisti": "arrancastes"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "livrastes",
+          "forms": {
+            "eripuisti": "livrastes"
+          },
+          "note": "MS1932; *livrar* is *liberáre*'s neighbour.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "placeam",
+      "refs": [
+        "55:13"
+      ],
+      "latin": "ut pláceam coram Deo",
+      "kind": "word",
+      "why": "*placére* (εὐαρεστῆσαι) → *agradar*, the *complacére* row's verb; *coram Deo* → *diante de Deus* (DRB 'in the sight of God'). *agradar diante de Deus* keeps both Latin words; MS1932 *seja agradável a Deus* drops *coram*. *vivéntium → dos vivos* (26:13 *na terra dos vivos*).",
+      "options": [
+        {
+          "label": "agrade",
+          "forms": {
+            "placeam": "agrade"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "seja agradável",
+          "forms": {
+            "placeam": "seja agradável"
+          },
+          "note": "MS1932's build, with *diante de* kept.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "reddam",
+      "refs": [
+        "55:12"
+      ],
+      "latin": "quæ reddam, laudatiónes tibi",
+      "kind": "glossary",
+      "why": "*vota réddere → pagar os votos* (the réddere row; 21:26 *pagarei os meus votos*, finished). The stylist (v1) finds *pagar votos* commercial and asks *cumprir*; refused for the formula's sake — it recurs at 49:14, 60:9, 65:13, 115:5, 115:9, and *pagar* keeps the debt the Latin and Greek (ἀποδώσω) name; the ambiguity reader heard 'I will fulfil them by praising you' without trouble. His colon before the apposition taken (v2).",
+      "options": [
+        {
+          "label": "pagarei",
+          "forms": {
+            "reddam": "pagarei"
+          },
+          "note": "Ruling; the row, 21:26.",
+          "from": "glossary"
+        },
+        {
+          "label": "cumprirei",
+          "forms": {
+            "reddam": "cumprirei"
+          },
+          "note": "stylist v1; MS1932 *cumprirei*. Would part from 21:26.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "55:2": "*Miserére mei, Deus* → *Tende piedade de mim, Deus* (formula row; no *ó*: the Latin has none). The Lenten Gradual (Quad3-1, Quad5-1) sings this verse with *bellans*.",
+    "55:4": "*ego vero* → *eu, porém* (118:70). *timébo* (future) kept against MS1932's *Estou temendo*; 55:5's *não temerei* answers it.",
+    "55:5": "The refrain: 55:5 and 55:11 share *Em Deus louvarei … em Deus esperei … não temerei o que me faça …*; they differ where the Latin differs (*sermónes meos / verbum … sermónem*, *caro / homo*). *In Deo laudábo sermónes meos* kept as the Latin has it — 'in God I will praise my words' — against MS1932's gloss (*as palavras que me dirigiu*).",
+    "55:6": "*verba mea* → *as minhas palavras*, the same words as 55:5's *sermónes meos*: the Greek has τοὺς λόγους μου in both (D15).",
+    "55:9b": "*Sicut et* → *Assim como também*, as 55:8's *Sicut* → *Assim como*. *converténtur retrórsum* → *voltarão para trás* (the *retrórsum* row, which named 55:9). Natural order, subject before verb; the trailing colon of the DO text kept.",
+    "55:10": "*invocávero* (future perfect) → *em que vos invocar* (19:10 *no dia em que vos invocarmos*).",
+    "55:12": "*laudatiónes tibi* in apposition to *vota*, as the Latin (αἰνέσεως σοι); *réddere vota → pagar os votos* (row; 21:26). v2: a colon before the apposition, from the stylist.",
+    "55:13": "*lapsus* only here and 114:8 (grep) → *queda*.",
+    "55:8": "*fácies … confrínges* → *salvareis … quebrareis*: the stylist (v1) heard a chime of *-areis* across the asterisk; the Latin has the same echo (two futures in *-es*), so it is kept (rule 5). His move (*quebrareis na ira os povos*) would put the two futures side by side across the mediant. *por nada* keeps the Latin's open *pro níhilo*: the ambiguity reader heard it split between \"in no way\" and \"freely\" — so is the Latin (DRB \"for nothing\"); *de nenhum modo* stays option 2."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm55.txt, 13 prayed verses (55:2–55:13 with 55:9b); no flex, one mediant per verse; no titulus (D7). Liturgical uses (ps032/uses.py): 55:2, 55:11, 55:9 in the Gradual/Tract of Quad3-1 (with *bellans* and *sperábo*), 55:2 in Quad5-1; 55:9 the Wednesday Matins versicle (Psalmi matutinum [Daya3]) and Quad5-5; 55:10 in a Redemptorist antiphon and Quad6-3."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps055.md (Latin, LXX, WLC, DRB, MS1932; no Diurnal for this psalm). DO's Portuguese not used (D12). Rulings applied: D2, D5 (not met), D15 (*palavra* for verbum/sermo, 55:11 decided locally), D24 (*o dia todo*), D36 (*esperar em*, *esperar por*), D41 (*anunciar*), D43 (*calcanhar*). Rows applied: conculcáre (*pisar aos pés*, the Ps 7 proposal), tribuláre, erípere, in conspéctu, retrórsum, réddere, observáre, cogitátio, confríngere, salvum fácere, invocáre, laudátio. The refrain copies 117:6 exactly (*não temerei o que me faça o homem*). Hard readings: 55:4 *ab altitúdine diéi*, 55:7 objectless *abscóndent*, 55:8 *pro níhilo*, 55:11 *verbum / sermónem*, 55:12 *In me … vota tua*."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Two soft flags accepted: 55:10b −3 (*ecce, cognóvi, quóniam* is long in Latin; *eis, conheci que* is how Portuguese says it, *vós* already supplied) and 55:13a −3 (the Latin's *ánimam meam*, *pedes meos* are three syllables each against two). No rhyme flags. Oxytone cadences (*pés*, *atribulou*, *temerei*, *vós*, *esperei*, *mim*, *mal*, *esconderão*, *calcanhar*, *salvareis*, *trás*, *invocar*, *Deus*) are the Latin's words in plain order; allowed by rule 4."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). Draft 1 handed to the coordinator for three fresh-context readers: latinist, stylist, ambiguity."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context). Three minors, all taken.",
+      "outcomes": [
+        {
+          "verse": "55:4",
+          "remark": "*desde* makes *ab* only temporal → *Da altura do dia*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "55:7",
+          "remark": "reflexive *se esconderão* changes the voice; objectless active",
+          "outcome": "taken"
+        },
+        {
+          "verse": "55:11",
+          "remark": "*verbum / sermónem* flattened into *palavra* twice → *o discurso*",
+          "outcome": "taken",
+          "reason": "a second noun taken; the stylist's *a fala* chosen over *o discurso*, which stays an option"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context). 7 remarks on 7 verses; best line 55:9, worst 55:11. 5 taken (55:2, 55:3, 55:6 order, 55:10, 55:11), 1 taken in part (55:12 colon; *cumprir* an option), 1 refused (55:8 rhyme).",
+      "outcomes": [
+        {
+          "verse": "55:2",
+          "remark": "*pisar aos pés* crossed idiom → *calcou aos pés*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "55:3",
+          "remark": "same → *Calcaram-me aos pés*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "55:6",
+          "remark": "*para o mal* trails → *contra mim são todos os seus pensamentos para o mal*",
+          "outcome": "taken",
+          "reason": "order taken; the present *são* refused (the first colon is past), option in `copula`"
+        },
+        {
+          "verse": "55:8",
+          "remark": "*salvareis … quebrareis* chime",
+          "outcome": "refused",
+          "reason": "the Latin has the same echo (*fácies … confrínges*); the proposed move sets the two futures side by side across the mediant"
+        },
+        {
+          "verse": "55:10",
+          "remark": "*conheci que* not current; bare *eis,* clipped → *eis que eu sei: vós sois*",
+          "outcome": "taken",
+          "reason": "build taken with the perfect *soube* (19:7a); the present is an option in `cognovi`"
+        },
+        {
+          "verse": "55:11",
+          "remark": "doubled *palavra* sounds a slip → *a fala*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "55:12",
+          "remark": "*pagar votos* commercial → *que cumprirei: louvores a vós*",
+          "outcome": "option",
+          "decision": "reddam",
+          "reason": "colon taken; *pagar* kept for the *vota réddere* formula (21:26 and five more places)"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context). 24 readings; the likely hearing was the intended one in most. Unknown: *atribulou*, *altura do dia*, *espreitarão* — two glossary words and the Latin's crux, kept.",
+      "outcomes": [
+        {
+          "verse": "55:4",
+          "remark": "*altura do dia* unclear",
+          "outcome": "refused",
+          "reason": "the Latin's crux; now *Da altura do dia* (Latinist)"
+        },
+        {
+          "verse": "55:5",
+          "remark": "*a carne* heard as one's own body",
+          "outcome": "refused",
+          "reason": "the Latin's word (σάρξ), kept concrete (rule 5); 55:11 *o homem* answers it"
+        },
+        {
+          "verse": "55:8",
+          "remark": "*esperaram pela minha alma*: hostile sense not obvious",
+          "outcome": "option",
+          "decision": "sustinuerunt",
+          "reason": "the context (55:7 *espreitarão*) gives it; *vida* is option 3"
+        },
+        {
+          "verse": "55:8",
+          "remark": "*por nada os salvareis* split, 'freely' possible",
+          "outcome": "refused",
+          "reason": "the Latin's own openness (*pro níhilo*); *de nenhum modo* is option 2"
+        },
+        {
+          "verse": "55:9b",
+          "remark": "*Assim como também na vossa promessa* seems incomplete",
+          "outcome": "refused",
+          "reason": "the Latin clause is as elliptical"
+        },
+        {
+          "verse": "55:10",
+          "remark": "past *conheci* jarring after *em qualquer dia*",
+          "outcome": "taken",
+          "reason": "*eis que eu soube:* — still the perfect, as the Latin, but *eis que* now carries it"
+        },
+        {
+          "verse": "55:12",
+          "remark": "*os vossos votos* can sound like God's; *Em mim estão* heard as 'within me'",
+          "outcome": "refused",
+          "reason": "*vota tua* and *in me* are as open; MS1932's explanation and *Sobre mim* are options in `inme`"
+        },
+        {
+          "verse": "55:2",
+          "remark": "*atribulou*, *espreitarão* unknown",
+          "outcome": "refused",
+          "reason": "glossary words (tribuláre, observáre); reported to the rows"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 55:2–3 *calcar aos pés*; 55:4 *Da altura do dia*; 55:6 Latin order; 55:7 bare *esconderão*; 55:10 *eis que eu soube: vós sois o meu Deus*; 55:11 *a fala*; 55:12 colon, and *pagar* made a decision (`reddam`). Draft 1 kept as prayed.v1.json. Checks on v2: hard pass; 55:10b and 55:13a still −3, accepted as in v1. Handed to the coordinator for the Latinist gate."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5 (fresh context), the gate on draft 2. No major; two minors, both refused with reasons below (both are options). He approved the kept hard spots (*Da altura do dia*, the objectless *esconderão*, *os vossos votos*, the elliptical 55:9b) and the pointing.",
+      "outcomes": [
+        {
+          "verse": "55:10",
+          "remark": "*quóniam* turned into a colon; *soube* narrower than *cognóvi* → *eis que conheci que vós sois o meu Deus*",
+          "outcome": "option",
+          "decision": "cognovi",
+          "reason": "his own note calls both defensible; draft 1's *conheci que* was refused by the v1 stylist as not current and the bare *eis,* as clipped; *soube* is the verb 19:7a took for *cognóvi* + *quóniam* after a Latinist major. *eis, conheci que vós sois* stays option 2."
+        },
+        {
+          "verse": "55:5",
+          "remark": "*sermónes* → *palavras* blurs sermo / verbum → *as minhas falas*",
+          "outcome": "refused",
+          "reason": "D15 rules sermo → palavra and refused the plural *falas* (the Ps 118 stylist, three times); 55:5 *sermónes meos* and 55:6 *verba mea* are the same Greek (τοὺς λόγους μου), so there the Latin's variation carries no sense; 55:11 took *fala* only because the Greek differs there too (ῥῆμα / λόγον) and both v1 readers heard the doubled noun as a slip."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+ "psalm": 132,
+ "source": "content/do/horas/Latin/Psalterium/Psalmorum/Psalm132.txt",
+ "parser": "LatinCy la_core_web_lg 3.9.8, unreviewed",
+ "verses": [
+  {
+   "id": "132:1",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Ecce quam bonum et quam jucúndum,",
+     "tokens": [
+      {
+       "form": "Ecce",
+       "fold": "ecce",
+       "lemma": "ecce",
+       "pos": "INTJ",
+       "morph": ""
+      },
+      {
+       "form": "quam",
+       "fold": "quam",
+       "lemma": "quam",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "bonum",
+       "fold": "bonum",
+       "lemma": "bonum",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "quam",
+       "fold": "quam",
+       "lemma": "quam",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "jucúndum",
+       "after": ",",
+       "fold": "iucundum",
+       "lemma": "iucundus",
+       "pos": "ADJ",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "habitáre fratres in unum:",
+     "tokens": [
+      {
+       "form": "habitáre",
+       "fold": "habitare",
+       "lemma": "habito",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|VerbForm=Inf|Voice=Act"
+      },
+      {
+       "form": "fratres",
+       "fold": "fratres",
+       "lemma": "frater",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "unum",
+       "after": ":",
+       "fold": "unum",
+       "lemma": "unus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Neut|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "132:2a",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Sicut unguéntum in cápite,",
+     "tokens": [
+      {
+       "form": "Sicut",
+       "fold": "sicut",
+       "lemma": "sicut",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "unguéntum",
+       "fold": "unguentum",
+       "lemma": "unguentum",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "cápite",
+       "after": ",",
+       "fold": "capite",
+       "lemma": "caput",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Neut|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "quod descéndit in barbam, barbam Aaron,",
+     "tokens": [
+      {
+       "form": "quod",
+       "fold": "quod",
+       "lemma": "qui",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "descéndit",
+       "fold": "descendit",
+       "lemma": "descendo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "barbam",
+       "after": ",",
+       "fold": "barbam",
+       "lemma": "barba",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "barbam",
+       "fold": "barbam",
+       "lemma": "barba",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "Aaron",
+       "after": ",",
+       "fold": "aaron",
+       "lemma": "aaron",
+       "pos": "PROPN",
+       "morph": "Gender=Masc|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "132:2b",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Quod descéndit in oram vestiménti ejus:",
+     "tokens": [
+      {
+       "form": "Quod",
+       "fold": "quod",
+       "lemma": "qui",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "descéndit",
+       "fold": "descendit",
+       "lemma": "descendo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "oram",
+       "fold": "oram",
+       "lemma": "ora",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "vestiménti",
+       "fold": "uestimenti",
+       "lemma": "uestimentum",
+       "pos": "NOUN",
+       "morph": "Case=Gen|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "ejus",
+       "after": ":",
+       "fold": "eius",
+       "lemma": "is",
+       "pos": "PRON",
+       "morph": "Case=Gen|Gender=Masc|Number=Sing|Person=3"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "sicut ros Hermon, qui descéndit in montem Sion.",
+     "tokens": [
+      {
+       "form": "sicut",
+       "fold": "sicut",
+       "lemma": "sicut",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "ros",
+       "fold": "ros",
+       "lemma": "ros",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "Hermon",
+       "after": ",",
+       "fold": "hermon",
+       "lemma": "hermon",
+       "pos": "PROPN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "qui",
+       "fold": "qui",
+       "lemma": "qui",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "descéndit",
+       "fold": "descendit",
+       "lemma": "descendo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "montem",
+       "fold": "montem",
+       "lemma": "mons",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "Sion",
+       "after": ".",
+       "fold": "sion",
+       "lemma": "sion",
+       "pos": "PROPN",
+       "morph": ""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "132:3b",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Quóniam illic mandávit Dóminus benedictiónem,",
+     "tokens": [
+      {
+       "form": "Quóniam",
+       "fold": "quoniam",
+       "lemma": "quoniam",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "illic",
+       "fold": "illic",
+       "lemma": "illic",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "mandávit",
+       "fold": "mandauit",
+       "lemma": "mando",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "Dóminus",
+       "fold": "dominus",
+       "lemma": "dominus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "benedictiónem",
+       "after": ",",
+       "fold": "benedictionem",
+       "lemma": "benedictio",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et vitam usque in sǽculum.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "vitam",
+       "fold": "uitam",
+       "lemma": "uita",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "usque",
+       "fold": "usque",
+       "lemma": "usque",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "in",
+       "fold": "in",
+       "lemma": "in",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "sǽculum",
+       "after": ".",
+       "fold": "saeculum",
+       "lemma": "saeculum",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Neut|Number=Sing"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -437,6 +437,33 @@ Six agents worked in parallel (Gustavo's request). Readers were again fresh-cont
 
 Cost of reversing: each is one glossary row and one decision in its psalm; *Dóminus virtútum* is three psalms so far.
 
+## D44 — Words settled from Pss 49–55 — Claude, for review
+
+Six agents in parallel again (49, 50, 51, 52, 54, 55; 53 was done). Readers fresh-context Claude Opus (D39). Every psalm passed its checks and a Latinist gate with no major left standing.
+
+- **Ps 49:**
+  - The formulas stand as written: ***A solis ortu usque ad occásum → Desde o nascer do sol até o poente*** (112:3 copies it); ***Deus deórum → o Deus dos deuses***, with the verb first at 49:1 so it is not heard as a vocative; ***Sacrifícium laudis → sacrifício de louvor***.
+  - ***vocáre / advocáre → chamar / convocar***, ***maniféste → abertamente***, ***válidus* (storm) → *violento***, ***ordináre testaméntum → firmar a aliança***, held twice against the Latinist's *ordenam*, which is heard as "command". Also ***testificári → dar testemunho***, ***hircus → bode***, ***silva → selva***, ***immoláre → imolar***, ***honorificáre → honrar***, ***existimáre → pensar***, and ***cognóvi* (present sense) → *conheço***.
+  - ***concinnáre → tramar*** (the weaver's verb); 57:3 follows. 51:4 *fecísti dolum → tramaste o engano* now shares the verb. The Latin and the Greek both differ there, and the two never meet in one psalm, so both stand. **For Gustavo:** 51:4 is the one place *tramar* renders *fácere*.
+  - **For Gustavo:** 49:21 ***iníque*** stays open. The adverb *iniquamente* (DRB, MS1932) is in the text, and the vocative *ó iníquo* (the Latinist, twice) is the option.
+- **Ps 50:**
+  - The texts said alone are settled as written: ***Aspérges me*** (50:9), ***Cor mundum*** (50:12), and ***Dómine, lábia mea apéries → Senhor, abrireis os meus lábios***, keeping the future, which also escapes rule 3's *Abri*.
+  - ***principális → soberano***, ***contribuláre → atribulado***, ***víscera → entranhas***, ***ámplius → ainda mais***, ***dealbári → ficar mais branco***, ***benígne fácere → tratar benignamente***, ***contra me* (ἐνώπιον) → *diante de mim***, ***audítus → ouvido***, ***hyssópus → hissopo***, ***delectári → deleitar-se***, ***exsultáre + accusative → exultar em***.
+  - **For Gustavo:** *espírito santo* (50:13) is lower case, as the DO Latin prints it. The bare vocative *Deus*, as in the finished psalms, is kept against the familiar *ó Deus*. 50:19 *desprezareis* leaves the *desdenhar* row open, because the Greek is 21:25's verb.
+- **Ps 51:**
+  - ***benígnitas → benignidade***, ***novácula → navalha*** (*afiado* for an edge, *agudo* for a point), ***præcipitátio → ruína***, ***emigráre* (transitive) → *desalojar*** (61:7's intransitive decides locally), ***radix → raiz***, ***olíva fructífera → oliveira frutífera***.
+- **Ps 52:** it copies Ps 13 wherever the Latin is identical. ***placére + dative → agradar a***, and 114:9 *Placébo Dómino* follows. The three reader remarks on wording shared with Ps 13 were refused for both psalms at once. **For Gustavo:** any of them he takes goes into both psalms.
+- **Ps 54:**
+  - ***contéxere → envolver***, ***solitúdo → solidão***, ***pusillanímitas → desânimo***, ***maledícere → amaldiçoar***, ***unánimis → de uma só alma***, ***notus → conhecido***, ***consénsus → concórdia***, ***contamináre → contaminar***, ***jáculum → dardo***, ***fluctuátio → não deixar vacilar***, ***dimidiáre → chegar à metade***, ***habitáculum → morada***.
+  - 54:4 *as iniquidades se voltaram contra mim*: all three readers heard bare *voltaram* as "came back". **20:12 has the same risk and wants a look.**
+  - **For Gustavo:** ***exercitátio → exercício*** stays open. It keeps Ps 118's family, but the blind reader heard a workout.
+- **Ps 55:**
+  - ***conculcáre → calcar aos pés*** (the stylist's request; 55:2–3, 56:4 and 90:13 follow), with Ps 7:6 *pise aos pés* as the one exception, since there *calque* failed two readers.
+  - ***bellári → guerrear***, ***exsecrári → detestar***, ***promíssio → promessa***, ***lapsus → queda*** (114:8 copies it), ***pro níhilo → por nada***, ***abscóndere* without an object → bare *esconderão***, ***placére coram → agradar diante de***, ***cognóvi, quóniam → eis que eu soube***.
+  - The refrain rows (55:5 ≈ 55:11), the 55:9 versicle and the 55:2 Gradual text are settled as written. 55:11 *verbum / sermónem → a palavra … a fala* decides locally, as D15 names it.
+
+Cost of reversing: each is one glossary row and one decision in its psalm. Ps 13 = 52 is two psalms at once.
+
 ---
 
 ## How agents decide

@@ -21,8 +21,9 @@ function loadState(data, storage) {
   // Ps 4 was first reviewed in review.html: bring those choices along once, if this page has none of its own
   const legacy = data.legacyStoreKey ? read(data.legacyStoreKey) : null;
   const saved = read(data.storeKey) ?? (legacy && { picks: legacy.picks, mine: legacy.mine, notes: legacy.notes, stumbles: legacy.stumbles, pointing: legacy.pointing });
-  const state = { view: 'facing', pointing: 'app', beside: 'none', picks: {}, notes: {}, stumbles: '', ...(saved ?? {}) };
+  const state = { version: 'standard', view: 'facing', pointing: 'app', beside: 'none', picks: {}, notes: {}, stumbles: '', ...(saved ?? {}) };
   if (!['facing', 'layers'].includes(state.view)) state.view = 'facing';
+  if (!['interlinear', 'literal', 'standard'].includes(state.version)) state.version = 'standard';
   const valid = (picks) => Object.fromEntries(Object.entries(picks ?? {}).filter(([id, i]) => data.decisions.some((d) => d.id === id && d.options[i])));
   state.picks = valid(state.picks);
   if (state.mine) state.mine = valid(state.mine);
@@ -182,6 +183,50 @@ function blocksHtml(state, compare) {
   return /<p /.test(html) ? `<div class="verse">${html}</div>` : '';
 }
 
+/* ───────── the other two versions: literal and interlinear (Berean's three tiers) ───────── */
+const hasLiteral = (data) => data.verses.some((v) => v.literal);
+const hasInterlinear = (data) => Object.keys(data.interlinear ?? {}).length > 0;
+
+// The Latin facing the literal tier, colon against colon, as the standard version faces the prayed text.
+function literalHtml(data, state) {
+  return data.verses.map(({ id, la, literal }) => {
+    const num = id.split(':')[1];
+    const pt = literal ? pointedHtml([{ text: literal }], state.pointing) : '<span class="absent">no literal rendering of this verse</span>';
+    return `<div class="verse" id="${verseAnchor(id)}">
+      <div class="side la" translate="no"><span class="num">${num}</span>${pointedHtml([{ text: la }], state.pointing)}</div>
+      <div class="side pt literal" lang="pt-BR"><span class="num">${num}</span>${pt}</div>
+    </div>`;
+  }).join('');
+}
+
+// An interlinear verse's pointing marks, as the chosen pointing shows them (the same rule as colons() above).
+function pointedWords(words, mode) {
+  if (mode !== 'app') return words;
+  let secondMediant = 'none';
+  return words.flatMap((w) => {
+    if (typeof w !== 'string') return [w];
+    if (w === '†') return [];
+    if (w === '‡' && secondMediant === 'none') { secondMediant = 'moved'; return ['*']; }
+    if (w === '*' && secondMediant === 'moved') { secondMediant = 'done'; return []; }
+    return [w];
+  });
+}
+
+const wordBlock = ([form, gloss, morph, lemma, rare]) => `<span class="w${rare ? ' rare' : ''}" title="${escapeHtml(lemma)}${rare ? ' — rare in the psalter' : ''}"><span class="lw" translate="no">${escapeHtml(form)}</span><span class="g${gloss === '…' ? ' missing' : ''}" lang="pt-BR">${escapeHtml(gloss)}</span><span class="m">${escapeHtml(morph)}</span></span>`;
+
+// Stacked word blocks, verse by verse (the Berean Interlinear): the Latin word, its gloss, its form; the pointing marks
+// stand between the cola; the prayed verse, as the reader has chosen it, in small type below.
+function interlinearHtml(data, state) {
+  const forms = currentForms(data, state);
+  return data.verses.map(({ id, pt }) => {
+    const words = data.interlinear?.[id];
+    const blocks = words
+      ? pointedWords(words, state.pointing).map((w) => (typeof w === 'string' ? `<span class="mk" aria-hidden="true">${w}</span>` : wordBlock(w))).join('')
+      : '<span class="absent">this verse has no interlinear</span>';
+    return `<div class="verse inter" id="${verseAnchor(id)}"><span class="inum">${id.split(':')[1]}</span>${blocks}<p class="under" lang="pt-BR">${pointedInline(pointedText(filledText(pt, forms), state.pointing))}</p></div>`;
+  }).join('');
+}
+
 /* ───────── the layers: the method's strata, verse by verse ───────── */
 // Word-level difference between two drafts (longest common subsequence over whitespace-separated words).
 function diffWords(before, after) {
@@ -225,7 +270,8 @@ function causeHtml(cause) {
 // beside → the reader's own choices where they differ. A verse no draft touched folds to one line.
 function layersHtml(data, state) {
   const forms = currentForms(data, state);
-  const { drafts, interlinear, causes } = data.layers;
+  const { drafts, causes } = data.layers;
+  const { interlinear } = data;
   const shown = (text) => pointedText(text, state.pointing);
   const stratum = (kind, label, body, beside = '') => `<div class="stratum ${kind}"><span class="label">${label}</span><div class="text">${body}</div><div class="cause">${beside}</div></div>`;
   return data.verses.map(({ id, la, pt, literal }) => {
@@ -236,9 +282,9 @@ function layersHtml(data, state) {
     const moved = texts.some((text, k) => k && text !== texts[k - 1]);
     const rows = [stratum('la', 'Latin', `<span translate="no">${pointedInline(shown(la))}</span>`)];
     if (interlinear?.[id]) {
-      const gloss = interlinear[id].map(([form, meaning]) => (/^[†‡*+]$/.test(form)
-        ? `<span class="gl"><span class="mark">${form}</span></span>`
-        : `<span class="gl"><span translate="no">${escapeHtml(form)}</span><span lang="pt-BR">${escapeHtml(meaning)}</span></span>`)).join('');
+      const gloss = pointedWords(interlinear[id], state.pointing).map((w) => (typeof w === 'string'
+        ? `<span class="gl"><span class="mark">${w}</span></span>`
+        : `<span class="gl"><span translate="no">${escapeHtml(w[0])}</span><span lang="pt-BR">${escapeHtml(w[1])}</span></span>`)).join('');
       rows.push(stratum('gloss', 'word by word', gloss));
     }
     if (literal) rows.push(stratum('literal', 'literal', `<span lang="pt-BR">${pointedInline(shown(literal))}</span>`));
@@ -342,11 +388,19 @@ function boot() {
   const pop = byId('pop');
 
   function renderPsalm() {
-    const layered = state.view === 'layers';
-    byId('blocks').innerHTML = layered ? '' : blocksHtml(state, compare());
-    byId('psalm').innerHTML = layered ? layersHtml(data, state) : psalmHtml(data, state, compare());
-    byId('legend').hidden = layered;
+    // a version with nothing to show (no literal.json, no interlinear yet) falls back to the standard
+    if ((state.version === 'literal' && !hasLiteral(data)) || (state.version === 'interlinear' && !hasInterlinear(data))) state.version = 'standard';
+    const standard = state.version === 'standard';
+    const layered = standard && state.view === 'layers';
+    byId('blocks').innerHTML = standard && !layered ? blocksHtml(state, compare()) : '';
+    byId('psalm').innerHTML = !standard
+      ? (state.version === 'literal' ? literalHtml(data, state) : interlinearHtml(data, state))
+      : layered ? layersHtml(data, state) : psalmHtml(data, state, compare());
+    byId('psalm').className = `psalm${state.version === 'interlinear' ? ' interlinear' : ''}`;
+    byId('legend').hidden = !standard || layered;
     byId('legend-layers').hidden = !layered;
+    byId('legend-literal').hidden = state.version !== 'literal';
+    byId('legend-interlinear').hidden = state.version !== 'interlinear';
   }
   function renderDecisions() {
     byId('decisions').innerHTML = data.decisions.length
@@ -355,17 +409,23 @@ function boot() {
   }
   function syncBar() {
     byId(`p-${state.pointing}`).checked = true;
+    byId('ver-literal').disabled = !hasLiteral(data);
+    byId('ver-interlinear').disabled = !hasInterlinear(data);
+    byId(`ver-${state.version}`).checked = true;
+    // the view, the wording and what stands beside belong to the standard version
+    const standard = state.version === 'standard';
+    byId('view-switch').hidden = !standard;
     // without a literal tier or the consult/ file there is nothing to set beside the psalm
-    const hasLiteral = data.verses.some((v) => v.literal);
-    byId('b-literal-wrap').hidden = !hasLiteral;
+    const literal = hasLiteral(data);
+    byId('b-literal-wrap').hidden = !literal;
     for (const id of ['b-pt-wrap', 'b-en-wrap', 'b-all-wrap']) byId(id).hidden = !compare();
     byId(`view-${state.view}`).checked = true;
     // the layers already hold the literal tier, and have no second column to set a psalter under
-    byId('beside-switch').hidden = state.view === 'layers' || (!hasLiteral && !compare());
-    if ((state.beside === 'literal' && !hasLiteral) || (['pt', 'en', 'all'].includes(state.beside) && !compare())) state.beside = 'none';
+    byId('beside-switch').hidden = !standard || state.view === 'layers' || (!literal && !compare());
+    if ((state.beside === 'literal' && !literal) || (['pt', 'en', 'all'].includes(state.beside) && !compare())) state.beside = 'none';
     byId(`b-${state.beside}`).checked = true;
     const open = wordings(data);
-    byId('wording-switch').hidden = !open.length;
+    byId('wording-switch').hidden = !standard || !open.length;
     const isDraft = open.every((d) => pickOf(d, state) === 0);
     const matched = isDraft ? undefined : data.presets.find((preset) => !preset.same && open.every((d) => pickOf(d, state) === presetIndex(d, preset.from)));
     byId(isDraft ? 'w-draft' : matched ? `w-${matched.from}` : 'w-mine').checked = true;
@@ -376,6 +436,7 @@ function boot() {
     const { name, value, type } = e.target;
     if (type !== 'radio') return;
     if (name === 'pointing') state.pointing = value;
+    else if (name === 'version') { state.version = value; pop.hidden = true; }
     else if (name === 'view') { state.view = value; pop.hidden = true; }
     else if (name === 'beside') state.beside = value;
     else if (name === 'preset') applyPreset(data, state, value);

@@ -1,0 +1,38 @@
+{
+  "append": [
+    {"row": "| miseratiónes |", "text": "**Ps 50:3b** *segundo a multidão das vossas compaixões* (beside *misericórdia* in 3a, ἔλεος / οἰκτιρμοί); the stylist heard the plural as translated and proposed *clemências* — refused for this row, kept as an option."},
+    {"row": "| mundáre / emundáre |", "text": "**Ps 50:4, 50:9 applied**: *purificai-me do meu pecado*, *e serei purificado*, echoing *coração puro* (50:12 *cor mundum*); *limpar* not needed. The three readers passed it."},
+    {"row": "| gáudium |", "text": "**Ps 50:10 applied**: *Ao meu ouvido dareis júbilo e alegria* (also the Matins versicle); passed the Latinist twice."},
+    {"row": "| vítulus |", "text": "**Ps 50:21 applied** *bezerros*, not the local *novilhos*: *então sobre o vosso altar porão bezerros* (the stylist's order, so *porão* is not heard as the noun; ends on the victims as the Latin)."},
+    {"row": "| proícere |", "text": "**Ps 50:13** *Não me lanceis para longe da vossa face* (as 2:3; the pencilled *lanceis da vossa face* kept as option)."},
+    {"row": "| confirmáre |", "text": "**Ps 50:14** *e firmai-me com um espírito soberano* (στήρισον): with a person as object *confirmai-me* is heard as the sacrament; *firmar* taken, passed the readers. Proposal: *firmar* whenever a person is the object."},
+    {"row": "| convértere |", "text": "**Ps 50:15** *e os ímpios se converterão a vós*: D25's exception (men turning to God → *converter*) extended from the imperative to the promise; *se voltarão para vós* option. Passed the Latinist twice."},
+    {"row": "| despícere (God) |", "text": "**Ps 50:19 departs: *não desprezareis*** — *despícies* is ἐξουθενώσει, the Greek of 21:25's *sprevit → desprezou* (D15's test), not 9:22's ὑπερορᾷς; the Friday Lauds antiphon *Cor contrítum … non despícies*. The row should split by the Greek: ἐξουδενόω/ἐξουθενόω → desprezar."},
+    {"row": "| réddere |", "text": "**Ps 50:14 *Redde mihi* 'give back' (ἀπόδος) → *Devolvei-me*** (a sense apart from paying): *Restituí-me* D13-legal but heard as 'I restored' at the head of a Preces versicle; *Tornai a dar-me*, *Dai-me* (MS1932) options."},
+    {"row": "| sanguínes (plural", "text": "Ps 50:16 applied *Livrai-me do sangue*; the Latinist asked for *dos sangues* at both reads — refused by this ruling; the ambiguity reader heard bloodshed rather than bloodguilt either way."},
+    {"row": "| contérere |", "text": "**Ps 50:19** *cor contrítum* → *coração contrito* (the sacramental word; beside *contribulátus → atribulado*)."},
+    {"row": "| oblátio |", "text": "Ps 50:21 applied: *as oferendas e os holocaustos*."},
+    {"row": "| *Miserére mei* |", "text": "Ps 50:3a *Tende piedade de mim, Deus* (bare vocative, as the psalter; *ó Deus* kept as option)."}
+  ],
+  "terms": [
+    "| principális (*spíritu principáli*) | soberano (*e firmai-me com um espírito soberano*) | open | Ps 50:14 (ἡγεμονικῷ, 'ruling'); *principal* means only 'main'; options *de príncipe*, *magnânimo* (MS1932), *generoso* (the Hebrew, refused). The ambiguity reader heard God's own sovereign spirit — a patristic reading the Latin allows; one blind reader listed *soberano* as unknown. |",
+    "| contribuláre (*spíritus contribulátus*) | atribulado (*Sacrifício a Deus é um espírito atribulado*) | open | Ps 50:19 (συντετριμμένον); kept apart from *contrítum → contrito* in the next colon; *quebrantado* (quebranto) and *compungido* (compúngere's) options. The ambiguity reader noted the everyday *atribulado* = 'hectic'; kept. |",
+    "| incértus (*incérta et occúlta*) | incerto (*as coisas incertas e ocultas da vossa sabedoria*) | open | Ps 50:8 (ἄδηλα); neuter plural → *coisas* supplied (as 16:14b); *obscuras* option. The ambiguity reader: *incertas* may sound 'doubtful'; *ocultas* steers it. |",
+    "| víscera | entranhas (*renovai nas minhas entranhas um espírito reto*) | open | Ps 50:12; the organ kept (MS1932 *entranhas*, DRB 'bowels'); one blind reader listed it as unknown. |",
+    "| ámplius (degree: *Ámplius lava me*) | ainda mais (*Lavai-me ainda mais da minha iniquidade*) | open | Ps 50:4 (ἐπὶ πλεῖον; DRB 'yet more'); *mais e mais* (MS1932) option; kept apart from *ámplius non* → *já não* (38:14). |",
+    "| dealbári (*super nivem dealbábor*) | ficar mais branco (*e ficarei mais branco que a neve*) | open | Ps 50:9; *ficar* + adjective as the resultative of the passive. The Latinist asked twice for the passive (*serei branqueado*, *serei alvejado*): refused — laundry/bleach and 'shot at'; kept as options. |",
+    "| benígne fácere (*Benígne fac … Sion*) | tratar benignamente (*Tratai benignamente, Senhor, a Sião, na vossa boa vontade*) | open | Ps 50:20 (ἀγάθυνον); the Latinist's fix, as 118:124 *Fac cum servo tuo → Tratai o vosso servo*; v1 *Sede benigno … com Sião* option. |",
+    "| impónere super | pôr sobre (*então sobre o vosso altar porão bezerros*) | open | Ps 50:21; the place first so *porão* is not heard as the noun 'hold, basement'; *colocarão* option. |",
+    "| contra me (ἐνώπιον: *peccátum meum contra me est semper*) | diante de mim | open | Ps 50:5 (DRB 'before me', MS1932); *contra mim* is heard only as hostility. |",
+    "| audítus (the hearing) | ouvido (*Ao meu ouvido dareis júbilo e alegria*) | open | Ps 50:10; the Latin build kept against DM1962 *Faze-me ouvir*. |",
+    "| hyssópus | hissopo (*Vós me aspergireis com o hissopo*) | open | Ps 50:9 (MS1932 *hissope*, older spelling); one blind reader listed *hissopo* and *aspergireis* as unknown — the Asperges words, kept. |",
+    "| delectári (deponent: *holocáustis non delectáberis*) | deleitar-se (*com holocaustos não vos deleitareis*) | open | Ps 50:18 (εὐδοκήσεις), as 36:4 *Deleita-te no Senhor*; the causative delectáre at 29:2 went to *alegrar* (εὐφραίνω). The same Greek is *acceptábis → aceitareis* in 50:21: the Latin's two verbs kept two. |",
+    "| exsultáre + accusative (*exsultábit lingua mea justítiam tuam*) | exultar em (*a minha língua exultará na vossa justiça*) | open | Ps 50:16; *exultar* takes no object in Portuguese (12:6b, 34:9 have *em*). The Latinist asked twice for the object (*exultará a vossa justiça*; *exaltará com júbilo a vossa justiça*); held, both kept as options. |",
+    "| spíritus sanctus tuus (50:13) | o vosso espírito santo (lower case) | open | Ps 50:13; lower case as the DO Latin prints it, beside *espírito reto* (12) and *soberano* (14); the Person is heard anyway (the ambiguity reader); *Espírito Santo* option. |"
+  ],
+  "formulas": [
+    "| *Dómine, lábia mea apéries. R. Et os meum annuntiábit laudem tuam* (50:17; the opening versicle of the Office, Psalterium/Common/Prayers.txt [Domine labia]) | *Senhor, abrireis os meus lábios. R. E a minha boca anunciará o vosso louvor* | working — Ps 50 (the future kept; *Abri* is also barred by rule 3) |",
+    "| *Aspérges me, (Dómine,) hyssópo, et mundábor: lavábis me, et super nivem dealbábor* (50:9; the Asperges antiphon, missa Ordo/Prayers) | *Vós me aspergireis (, Senhor,) com o hissopo, e serei purificado: vós me lavareis, e ficarei mais branco que a neve* | working — Ps 50 |",
+    "| *Cor mundum crea in me, Deus* (50:12; Lent I antiphon Quad1-0, Preces) | *Criai em mim, Deus, um coração puro* | working — Ps 50 |"
+  ]
+}

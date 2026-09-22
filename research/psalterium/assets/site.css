@@ -132,6 +132,30 @@ details.layered > .stratum { margin-left: 2.6rem; }
   .stratum .cause { padding-left: 1rem; }
 }
 
+/* the literal version: the scaffold faces the Latin as the prayed text does, a shade quieter */
+.side.literal { color: var(--ink-2); }
+.absent { font-style: italic; color: var(--ink-2); opacity: .75; }
+
+/* the interlinear version: stacked word blocks, verse by verse (Latin word · gloss · form), wrapping like prose */
+.psalm.interlinear { max-width: 60rem; }
+.verse.inter { display: block; position: relative; padding: 1rem 0 .9rem 2.8rem; border-top: 1px solid var(--rule); }
+.verse.inter:first-child { border-top: 0; }
+.inter .inum { position: absolute; left: 0; top: 1.3rem; width: 2rem; text-align: right; font-size: .78rem; color: var(--ink-2); font-feature-settings: 'lnum'; }
+.inter .w { display: inline-flex; flex-direction: column; vertical-align: top; max-width: 100%; margin: 0 1.05rem .7rem 0; line-height: 1.22; }
+.inter .lw { color: var(--ink); }
+/* a long gloss wraps under its word rather than pushing the line apart */
+.inter .g { max-width: 11em; font-size: .9rem; color: var(--ink); opacity: .85; overflow-wrap: anywhere; }
+.inter .g.missing { color: var(--ink-2); opacity: .6; }
+.inter .m { font-size: .72rem; color: var(--ink-2); letter-spacing: .02em; font-feature-settings: 'lnum'; }
+.inter .rare .lw { text-decoration: underline dotted var(--gold); text-decoration-thickness: 1.5px; text-underline-offset: .22em; }
+.inter .mk { display: inline-block; vertical-align: top; margin: 0 1.05rem 0 -.5rem; color: var(--rubric); }
+.inter .under { margin: .1rem 0 0; font-size: .98rem; line-height: 1.45; color: var(--ink-2); }
+@media (max-width: 760px) {
+  .verse.inter { padding-left: 0; }
+  .inter .inum { position: static; display: block; width: auto; text-align: left; padding: 0 0 .2rem; }
+  .inter .w { margin-right: .8rem; }
+}
+
 /* a decision, opened where the word stands */
 #pop {
   position: absolute; z-index: 10; width: min(27rem, 92vw); max-height: 80vh; overflow: auto;

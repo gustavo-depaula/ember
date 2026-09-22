@@ -1,0 +1,587 @@
+{
+ "psalm": 119,
+ "source": "content/do/horas/Latin/Psalterium/Psalmorum/Psalm119.txt",
+ "parser": "LatinCy la_core_web_lg 3.9.8, unreviewed",
+ "verses": [
+  {
+   "id": "119:1",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Ad Dóminum cum tribulárer clamávi:",
+     "tokens": [
+      {
+       "form": "Ad",
+       "fold": "ad",
+       "lemma": "ad",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "Dóminum",
+       "fold": "dominum",
+       "lemma": "dominus",
+       "pos": "PROPN",
+       "morph": "Case=Acc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "tribulárer",
+       "fold": "tribularer",
+       "lemma": "tribulo",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Sub|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass"
+      },
+      {
+       "form": "clamávi",
+       "after": ":",
+       "fold": "clamaui",
+       "lemma": "clamo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et exaudívit me.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "exaudívit",
+       "fold": "exaudiuit",
+       "lemma": "exaudio",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "me",
+       "after": ".",
+       "fold": "me",
+       "lemma": "ego",
+       "pos": "PRON",
+       "morph": "Case=Acc|Number=Sing|Person=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "119:2",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Dómine, líbera ánimam meam a lábiis iníquis,",
+     "tokens": [
+      {
+       "form": "Dómine",
+       "after": ",",
+       "fold": "domine",
+       "lemma": "dominus",
+       "pos": "NOUN",
+       "morph": "Case=Voc|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "líbera",
+       "fold": "libera",
+       "lemma": "libero",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "ánimam",
+       "fold": "animam",
+       "lemma": "anima",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "meam",
+       "fold": "meam",
+       "lemma": "meus",
+       "pos": "DET",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "a",
+       "fold": "a",
+       "lemma": "ab",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "lábiis",
+       "fold": "labiis",
+       "lemma": "labium",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Neut|Number=Plur"
+      },
+      {
+       "form": "iníquis",
+       "after": ",",
+       "fold": "iniquis",
+       "lemma": "iniquus",
+       "pos": "ADJ",
+       "morph": "Case=Abl|Gender=Fem|Number=Plur"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "et a lingua dolósa.",
+     "tokens": [
+      {
+       "form": "et",
+       "fold": "et",
+       "lemma": "et",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "a",
+       "fold": "a",
+       "lemma": "ab",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "lingua",
+       "fold": "lingua",
+       "lemma": "lingua",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "dolósa",
+       "after": ".",
+       "fold": "dolosa",
+       "lemma": "dolosus",
+       "pos": "ADJ",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "119:3",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Quid detur tibi, aut quid apponátur tibi",
+     "tokens": [
+      {
+       "form": "Quid",
+       "fold": "quid",
+       "lemma": "quid",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "detur",
+       "fold": "detur",
+       "lemma": "do",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass"
+      },
+      {
+       "form": "tibi",
+       "after": ",",
+       "fold": "tibi",
+       "lemma": "tu",
+       "pos": "PRON",
+       "morph": "Case=Dat|Number=Sing|Person=2"
+      },
+      {
+       "form": "aut",
+       "fold": "aut",
+       "lemma": "aut",
+       "pos": "CCONJ",
+       "morph": ""
+      },
+      {
+       "form": "quid",
+       "fold": "quid",
+       "lemma": "quis",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Neut|Number=Sing"
+      },
+      {
+       "form": "apponátur",
+       "fold": "apponatur",
+       "lemma": "appono",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass"
+      },
+      {
+       "form": "tibi",
+       "fold": "tibi",
+       "lemma": "tu",
+       "pos": "PRON",
+       "morph": "Case=Dat|Number=Sing|Person=2"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "ad linguam dolósam?",
+     "tokens": [
+      {
+       "form": "ad",
+       "fold": "ad",
+       "lemma": "ad",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "linguam",
+       "fold": "linguam",
+       "lemma": "lingua",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "dolósam",
+       "after": "?",
+       "fold": "dolosam",
+       "lemma": "dolosus",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "119:4",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Sagíttæ poténtis acútæ,",
+     "tokens": [
+      {
+       "form": "Sagíttæ",
+       "fold": "sagittae",
+       "lemma": "sagitta",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Plur"
+      },
+      {
+       "form": "poténtis",
+       "fold": "potentis",
+       "lemma": "potens",
+       "pos": "ADJ",
+       "morph": "Case=Gen|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "acútæ",
+       "after": ",",
+       "fold": "acutae",
+       "lemma": "acuo",
+       "pos": "ADJ",
+       "morph": "Case=Gen|Gender=Fem|Number=Sing"
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "cum carbónibus desolatóriis.",
+     "tokens": [
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "carbónibus",
+       "fold": "carbonibus",
+       "lemma": "carbo",
+       "pos": "NOUN",
+       "morph": "Case=Abl|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "desolatóriis",
+       "after": ".",
+       "fold": "desolatoriis",
+       "lemma": "desolatorius",
+       "pos": "ADJ",
+       "morph": "Case=Abl|Gender=Masc|Number=Plur",
+       "rare": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "119:5",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Heu mihi, quia incolátus meus prolongátus est:",
+     "tokens": [
+      {
+       "form": "Heu",
+       "fold": "heu",
+       "lemma": "heu",
+       "pos": "INTJ",
+       "morph": "",
+       "rare": true
+      },
+      {
+       "form": "mihi",
+       "after": ",",
+       "fold": "mihi",
+       "lemma": "ego",
+       "pos": "PRON",
+       "morph": "Case=Dat|Number=Sing|Person=1"
+      },
+      {
+       "form": "quia",
+       "fold": "quia",
+       "lemma": "quia",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "incolátus",
+       "fold": "incolatus",
+       "lemma": "incolatus",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing",
+       "rare": true
+      },
+      {
+       "form": "meus",
+       "fold": "meus",
+       "lemma": "meus",
+       "pos": "DET",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing"
+      },
+      {
+       "form": "prolongátus",
+       "fold": "prolongatus",
+       "lemma": "prolongo",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass",
+       "rare": true
+      },
+      {
+       "form": "est",
+       "after": ":",
+       "fold": "est",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+      }
+     ]
+    },
+    {
+     "mark": "†",
+     "latin": "habitávi cum habitántibus Cedar:",
+     "tokens": [
+      {
+       "form": "habitávi",
+       "fold": "habitaui",
+       "lemma": "habito",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "habitántibus",
+       "fold": "habitantibus",
+       "lemma": "habito",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Case=Abl|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act"
+      },
+      {
+       "form": "Cedar",
+       "after": ":",
+       "fold": "cedar",
+       "lemma": "cedar",
+       "pos": "PROPN",
+       "morph": "Case=Abl|Gender=Fem|Number=Sing",
+       "rare": true
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "multum íncola fuit ánima mea.",
+     "tokens": [
+      {
+       "form": "multum",
+       "fold": "multum",
+       "lemma": "multum",
+       "pos": "ADV",
+       "morph": ""
+      },
+      {
+       "form": "íncola",
+       "fold": "incola",
+       "lemma": "incola",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "fuit",
+       "fold": "fuit",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"
+      },
+      {
+       "form": "ánima",
+       "fold": "anima",
+       "lemma": "anima",
+       "pos": "NOUN",
+       "morph": "Case=Nom|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "mea",
+       "after": ".",
+       "fold": "mea",
+       "lemma": "meus",
+       "pos": "DET",
+       "morph": "Case=Nom|Gender=Fem|Number=Sing|Person=1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "119:7",
+   "cola": [
+    {
+     "mark": "",
+     "latin": "Cum his, qui odérunt pacem, eram pacíficus:",
+     "tokens": [
+      {
+       "form": "Cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "ADP",
+       "morph": ""
+      },
+      {
+       "form": "his",
+       "after": ",",
+       "fold": "his",
+       "lemma": "hic",
+       "pos": "DET",
+       "morph": "Case=Abl|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "qui",
+       "fold": "qui",
+       "lemma": "qui",
+       "pos": "PRON",
+       "morph": "Case=Nom|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "odérunt",
+       "fold": "oderunt",
+       "lemma": "odi",
+       "pos": "VERB",
+       "morph": "Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "pacem",
+       "after": ",",
+       "fold": "pacem",
+       "lemma": "pax",
+       "pos": "NOUN",
+       "morph": "Case=Acc|Gender=Fem|Number=Sing"
+      },
+      {
+       "form": "eram",
+       "fold": "eram",
+       "lemma": "sum",
+       "pos": "AUX",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin"
+      },
+      {
+       "form": "pacíficus",
+       "after": ":",
+       "fold": "pacificus",
+       "lemma": "pacificus",
+       "pos": "ADJ",
+       "morph": "Case=Nom|Gender=Masc|Number=Sing",
+       "rare": true
+      }
+     ]
+    },
+    {
+     "mark": "*",
+     "latin": "cum loquébar illis, impugnábant me gratis.",
+     "tokens": [
+      {
+       "form": "cum",
+       "fold": "cum",
+       "lemma": "cum",
+       "pos": "SCONJ",
+       "morph": ""
+      },
+      {
+       "form": "loquébar",
+       "fold": "loquebar",
+       "lemma": "loquor",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass"
+      },
+      {
+       "form": "illis",
+       "after": ",",
+       "fold": "illis",
+       "lemma": "ille",
+       "pos": "DET",
+       "morph": "Case=Dat|Gender=Masc|Number=Plur"
+      },
+      {
+       "form": "impugnábant",
+       "fold": "impugnabant",
+       "lemma": "impugno",
+       "pos": "VERB",
+       "morph": "Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act"
+      },
+      {
+       "form": "me",
+       "fold": "me",
+       "lemma": "ego",
+       "pos": "PRON",
+       "morph": "Case=Acc|Number=Sing|Person=1"
+      },
+      {
+       "form": "gratis",
+       "after": ".",
+       "fold": "gratis",
+       "lemma": "gratis",
+       "pos": "ADV",
+       "morph": ""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

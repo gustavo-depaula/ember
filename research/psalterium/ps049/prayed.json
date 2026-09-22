@@ -1,0 +1,1496 @@
+{
+  "psalm": 49,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "49:1": "{order1}: * e {vocavit} a terra,",
+    "49:1b": "{ortu}: * de Sião, {species}.",
+    "49:3": "Deus virá {manifeste}: * o nosso Deus, e não {silebit}.",
+    "49:3b": "Um fogo {exardescet} {conspectu_ejus}: * e ao seu redor, uma tempestade {valida}.",
+    "49:4": "{advocabit} o céu lá do alto: * e a terra, para {discernere} o seu povo.",
+    "49:5": "{congregate} os seus santos: * {ordinant} a sua aliança sobre os sacrifícios.",
+    "49:6": "E os céus anunciarão a sua justiça: * porque Deus é juiz.",
+    "49:7": "Ouve, meu povo, e eu falarei; Israel, e {testificabor}: * Deus, o teu Deus, sou eu.",
+    "49:8": "Não te repreenderei pelos teus sacrifícios: * {autem} estão sempre {conspectu_meo}.",
+    "49:9": "{order9}: * nem {hircos} dos teus rebanhos.",
+    "49:10": "Porque são minhas todas as feras {silvarum}: * {jumenta} nos montes, e os bois.",
+    "49:11": "{cognovi} todas as aves do céu: * e a beleza do campo está comigo.",
+    "49:12": "Se eu tiver fome, não te direi: * pois meu é {orbis}, e a sua plenitude.",
+    "49:13": "Acaso comerei {carnes} dos touros? * ou beberei o sangue {hircorum}?",
+    "49:14": "{immola} a Deus um sacrifício de louvor: * e paga ao Altíssimo os teus votos.",
+    "49:15": "E invoca-me no dia da tribulação: * eu te libertarei, e tu me {honorificabis}.",
+    "49:16": "Ao pecador, porém, disse Deus: * Por que tu {enarras} {justitias}, e tomas a minha aliança {peros}?",
+    "49:17": "Tu, porém, {odisti} a disciplina: * e lançaste para trás as minhas palavras:",
+    "49:18": "Se vias um ladrão, corrias com ele: * e com os adúlteros {portionem}.",
+    "49:19": "A tua boca abundou em malícia: * e a tua língua {concinnabat} enganos.",
+    "49:20": "Sentado, falavas contra o teu irmão, e contra o filho da tua mãe {scandalum}: * isto fizeste, e eu me calei.",
+    "49:21": "{inique} que eu seria semelhante a ti: * eu te repreenderei, e {statuam} diante da tua face.",
+    "49:22": "Entendei isto, vós que {oblivisci}: * para que não {rapiat}, e não haja quem {eripiat}.",
+    "49:23": "O sacrifício de louvor me {honorificabit}: * e ali {quo} lhe mostrarei a salvação de Deus."
+  },
+  "decisions": [
+    {
+      "id": "order1",
+      "refs": [
+        "49:1"
+      ],
+      "latin": "Deus deórum, Dóminus locútus est",
+      "kind": "order",
+      "why": "The stylist heard the opening *O Deus dos deuses* as the vocative *Ó*, re-parsed at *falou*. Putting the verb first (natural Portuguese order, D2) removes the misreading and keeps the Latin order of the names, *Deus deórum* before *Dóminus*. His own line (*Falou o Senhor, o Deus dos deuses*) swaps the two names; not needed.",
+      "options": [
+        {
+          "label": "Falou o Deus dos deuses, o Senhor",
+          "forms": {
+            "order1": "Falou o Deus dos deuses, o Senhor"
+          },
+          "note": "Ruling (v2): the stylist's verb-first order, the Latin's order of the names.",
+          "from": "stylist"
+        },
+        {
+          "label": "O Deus dos deuses, o Senhor, falou",
+          "forms": {
+            "order1": "O Deus dos deuses, o Senhor, falou"
+          },
+          "note": "draft 1, the Latin order; heard as a vocative first.",
+          "from": "draft"
+        },
+        {
+          "label": "Falou o Senhor, o Deus dos deuses",
+          "forms": {
+            "order1": "Falou o Senhor, o Deus dos deuses"
+          },
+          "note": "the stylist's line; the names reversed.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "vocavit",
+      "refs": [
+        "49:1",
+        "49:4"
+      ],
+      "latin": "et vocávit terram … Advocábit cælum desúrsum",
+      "kind": "word",
+      "why": "Two Latin verbs, and two Greek ones (ἐκάλεσεν / προσκαλέσεται): the simple verb and its compound. The simple *vocáre* is *chamar* (the vocáre row, 48:12); the compound *advocáre* takes *convocar*, which says the summons to a court the psalm is staging. MS1932 has *convocou* for the first and *Chamará* for the second, the other way round; DRB *called … shall call*. Keeping simple → simple and compound → compound follows the Latin's own shape.",
+      "options": [
+        {
+          "label": "chamou … Convocará",
+          "forms": {
+            "vocavit": "chamou",
+            "advocabit": "Convocará"
+          },
+          "note": "Ruling: simple and compound kept apart, as the Latin and the Greek have them.",
+          "from": "draft"
+        },
+        {
+          "label": "convocou … Chamará",
+          "forms": {
+            "vocavit": "convocou",
+            "advocabit": "Chamará"
+          },
+          "note": "MS1932's pair; it gives the compound's sense to the simple verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "chamou … Chamará",
+          "forms": {
+            "vocavit": "chamou",
+            "advocabit": "Chamará"
+          },
+          "note": "DRB's one verb; loses the compound.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ortu",
+      "refs": [
+        "49:1b"
+      ],
+      "latin": "A solis ortu usque ad occásum",
+      "kind": "glossary",
+      "why": "A formula: 112:3 has the same words (*A solis ortu usque ad occásum, laudábile nomen Dómini*) and 106:3 a near form (*A solis ortu, et occásu*) — grep. *nascer do sol* is the plain noun for *ortus solis*. For *occásus*, *poente* is the plain word; *ocaso* is the cognate and is understood, but literary. *Desde … até* is the Portuguese of *a … usque ad*. No article-less *sol posto*.",
+      "options": [
+        {
+          "label": "Desde o nascer do sol até o poente",
+          "forms": {
+            "ortu": "Desde o nascer do sol até o poente"
+          },
+          "note": "Ruling; proposed for 112:3 too.",
+          "from": "draft"
+        },
+        {
+          "label": "Desde o nascer do sol até o ocaso",
+          "forms": {
+            "ortu": "Desde o nascer do sol até o ocaso"
+          },
+          "note": "the cognate; literary.",
+          "from": "draft"
+        },
+        {
+          "label": "Do oriente até o ocidente",
+          "forms": {
+            "ortu": "Do oriente até o ocidente"
+          },
+          "note": "MS1932 *desde o oriente até ao ocidente*: the points of the compass for the sun's course — the image of the sun is lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "species",
+      "refs": [
+        "49:1b"
+      ],
+      "latin": "ex Sion spécies decóris ejus",
+      "kind": "glossary",
+      "why": "The spécies row left 49:1 to this psalm. spécies → *beleza* (46:5) and decor → *esplendor* (20:6, 25:8, 29:8, 44:12) are both kept, so two nouns stand as the Latin's two do (the Greek ἡ εὐπρέπεια τῆς ὡραιότητος is also two). The line has no verb in the Latin, and none is supplied (MS1932 supplies *virá*; DRB none): the colon is a cry, and the next verse gives the verb (*Deus maniféste véniet*).",
+      "options": [
+        {
+          "label": "a beleza do seu esplendor",
+          "forms": {
+            "species": "a beleza do seu esplendor"
+          },
+          "note": "Ruling; both rows applied.",
+          "from": "glossary"
+        },
+        {
+          "label": "o esplendor da sua beleza",
+          "forms": {
+            "species": "o esplendor da sua beleza"
+          },
+          "note": "MS1932's order of ideas (*o resplendor da sua formosura*); the two rows' words would then stand for the wrong Latin nouns.",
+          "from": "MS1932"
+        },
+        {
+          "label": "virá a beleza do seu esplendor",
+          "forms": {
+            "species": "virá a beleza do seu esplendor"
+          },
+          "note": "MS1932 supplies a verb; the Latin has none.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "manifeste",
+      "refs": [
+        "49:3"
+      ],
+      "latin": "Deus maniféste véniet",
+      "kind": "word",
+      "why": "ἐμφανῶς, openly, in plain sight. *manifestamente* is the cognate (MS1932) and keeps the syllable count of the Latin colon exactly (8/8); it is long but plain, and stressed on the penultimate before the asterisk. *às claras* is lighter and more spoken; *visivelmente* explains a little. v2: the blind reader listed *manifestamente* as unknown, and the stylist found it legal; *abertamente* is the plain word for ἐμφανῶς and keeps the sense (openly, not in secret).",
+      "options": [
+        {
+          "label": "abertamente",
+          "forms": {
+            "manifeste": "abertamente"
+          },
+          "note": "Ruling (v2): the stylist; ἐμφανῶς, openly. *manifestamente* was unknown to the blind reader and heavy to the stylist.",
+          "from": "stylist"
+        },
+        {
+          "label": "às claras",
+          "forms": {
+            "manifeste": "às claras"
+          },
+          "note": "lighter; puts the colon at 6 syllables.",
+          "from": "draft"
+        },
+        {
+          "label": "manifestamente",
+          "forms": {
+            "manifeste": "manifestamente"
+          },
+          "note": "draft 1; MS1932; unknown to the blind reader.",
+          "from": "MS1932"
+        },
+        {
+          "label": "visivelmente",
+          "forms": {
+            "manifeste": "visivelmente"
+          },
+          "note": "the Greek's sense; one step from the Latin word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "silebit",
+      "refs": [
+        "49:3"
+      ],
+      "latin": "Deus noster et non silébit",
+      "kind": "glossary",
+      "why": "The silére / tacére row keeps two Latin verbs apart: silére → *ficar em silêncio*, tacére → *calar-se* (49:20 *e eu me calei*). Here the Greek differs too (παρασιωπήσεται / ἐσίγησα). The stylist asks *não se calará* (shorter, oxytone close); refused, because it would make 49:3 and 49:20 one verb where the Latin has two.",
+      "options": [
+        {
+          "label": "ficará em silêncio",
+          "forms": {
+            "silebit": "ficará em silêncio"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "se calará",
+          "forms": {
+            "silebit": "se calará"
+          },
+          "note": "stylist; tacére's verb.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "exardescet",
+      "refs": [
+        "49:3b"
+      ],
+      "latin": "Ignis in conspéctu ejus exardéscet",
+      "kind": "glossary",
+      "why": "exardéscere → *inflamar-se* (the row; 38:4 *um fogo se inflamará*); *arder* is concaléscere's in 38:4, where the two stand in one verse. The stylist asks *arderá* (plainer); refused for that collision, kept as the option.",
+      "options": [
+        {
+          "label": "se inflamará",
+          "forms": {
+            "exardescet": "se inflamará"
+          },
+          "note": "Ruling; the row, 38:4.",
+          "from": "glossary"
+        },
+        {
+          "label": "arderá",
+          "forms": {
+            "exardescet": "arderá"
+          },
+          "note": "stylist; concaléscere's verb in 38:4.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "49:3b",
+        "49:8"
+      ],
+      "latin": "Ignis in conspéctu ejus exardéscet … in conspéctu meo sunt semper",
+      "kind": "glossary",
+      "why": "*in conspéctu* is still open (D22). The finished psalms say *na sua presença* where the one in whose sight it is, is God (17:7b, 17:13, 21:28b, 21:30, 40:13, 118:168–170), and *à vista de* mostly for men (9:26a, 15:8, 37:18). Here both are God: the fire before him, and God speaking of the holocausts *always before me*. *na sua presença / na minha presença* follows the finished psalms; *à vista dele* (the row's proposal) is the option.",
+      "options": [
+        {
+          "label": "na sua presença … na minha presença",
+          "forms": {
+            "conspectu_ejus": "na sua presença",
+            "conspectu_meo": "na minha presença"
+          },
+          "note": "Ruling; as 17:13, 21:30.",
+          "from": "draft"
+        },
+        {
+          "label": "à vista dele … à minha vista",
+          "forms": {
+            "conspectu_ejus": "à vista dele",
+            "conspectu_meo": "à minha vista"
+          },
+          "note": "the row's proposal (D22), as 9:26a, 37:18.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante dele … diante de mim",
+          "forms": {
+            "conspectu_ejus": "diante dele",
+            "conspectu_meo": "diante de mim"
+          },
+          "note": "MS1932 (*diante de mim*), DRB *before him / in my sight*; loses the noun.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "autem",
+      "refs": [
+        "49:8"
+      ],
+      "latin": "holocáusta autem tua in conspéctu meo sunt semper",
+      "kind": "grammar",
+      "why": "The blind reader heard *porém* as a contrast that turns the line into a reproach (I do not rebuke you, *but* your holocausts…). The Latin *autem* is here a weak connective: the holocausts are not blamed, they are always before God (DRB *and*). *e* says that.",
+      "options": [
+        {
+          "label": "e os teus holocaustos",
+          "forms": {
+            "autem": "e os teus holocaustos"
+          },
+          "note": "Ruling (v2): the ambiguity reader; DRB *and*.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "os teus holocaustos, porém,",
+          "forms": {
+            "autem": "os teus holocaustos, porém,"
+          },
+          "note": "draft 1; heard as a reproach.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "valida",
+      "refs": [
+        "49:3b"
+      ],
+      "latin": "tempéstas válida",
+      "kind": "word",
+      "why": "válidus is strong, powerful (καταιγὶς σφόδρα, a very great storm). *violenta* (MS1932) says the force of a storm as Portuguese says it; *forte* is the plainest word but is the *fortis* row's (7:12).",
+      "options": [
+        {
+          "label": "violenta",
+          "forms": {
+            "valida": "violenta"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "forte",
+          "forms": {
+            "valida": "forte"
+          },
+          "note": "plainest; shares the *fortis* word.",
+          "from": "draft"
+        },
+        {
+          "label": "poderosa",
+          "forms": {
+            "valida": "poderosa"
+          },
+          "note": "DRB *mighty*; *poder* is the *virtus* row's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "discernere",
+      "refs": [
+        "49:4"
+      ],
+      "latin": "et terram discérnere pópulum suum",
+      "kind": "glossary",
+      "why": "D42 settled discérnere → *separar* (42:1 *separai a minha causa*). The Greek is διακρῖναι, to judge by telling apart — which is what *separar* says of a judge who divides one from another (cf. the separating of sheep and goats). DRB and MS1932 say *to judge*; *julgar* is judicáre's (7:9b, 42:1 — in 42:1 both verbs stand side by side, so they must differ). The settled word is kept; *julgar* is the option.",
+      "options": [
+        {
+          "label": "separar",
+          "forms": {
+            "discernere": "separar"
+          },
+          "note": "Ruling; D42.",
+          "from": "glossary"
+        },
+        {
+          "label": "julgar",
+          "forms": {
+            "discernere": "julgar"
+          },
+          "note": "DRB, MS1932; judicáre's word.",
+          "from": "DRB"
+        },
+        {
+          "label": "discernir",
+          "forms": {
+            "discernere": "discernir"
+          },
+          "note": "the cognate; heard as 'perceive'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "congregate",
+      "refs": [
+        "49:5"
+      ],
+      "latin": "Congregáte illi sanctos ejus",
+      "kind": "grammar",
+      "why": "A plural imperative (to the heavens or the ministers of the court — the Latin does not say): *vós*. *Reuni* (the congregári row's verb) is also 'I gathered' — the bare form rule 3 bans, and this colon opens the verse. *Congregai* (the active verb of 15:4b) is safe (past *congreguei*). *illi* → *para ele* (DRB *to him*; MS1932 *diante dele*). v2: the stylist asked *Reuni para ele*; refused, as above (rule 3). *Congregai-lhe* is the option if *para ele* sits awkwardly.",
+      "options": [
+        {
+          "label": "Congregai para ele",
+          "forms": {
+            "congregate": "Congregai para ele"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Congregai-lhe",
+          "forms": {
+            "congregate": "Congregai-lhe"
+          },
+          "note": "shorter; the clitic *lhe* next to *os seus santos* is momentarily ambiguous.",
+          "from": "draft"
+        },
+        {
+          "label": "Reuni para ele",
+          "forms": {
+            "congregate": "Reuni para ele"
+          },
+          "note": "the congregári row's verb; bare *Reuni* = 'I gathered' (rule 3).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "ordinant",
+      "refs": [
+        "49:5"
+      ],
+      "latin": "qui órdinant testaméntum ejus super sacrifícia",
+      "kind": "word",
+      "why": "τοὺς διατιθεμένους τὴν διαθήκην αὐτοῦ ἐπὶ θυσίαις: those who make (ratify) his covenant upon sacrifices. ordináre is to set in order, establish. *firmar uma aliança* is the Portuguese idiom for making a covenant, and says the setting-in-place of ordináre without explaining; *ordenar* is the cognate but is heard in Brazil as 'command' (as the ordinátio row found, *ordenação* is holy orders). *super sacrifícia* → *sobre os sacrifícios*, the preposition kept (MS1932's *por meio de* explains). *os que* makes the relative a second vocative-like apposition after the colon break, easier to say than a bare *que*. Cost: *firmar* is also statúere's word elsewhere (118:38); here statúere (49:21) is *pôr*, so they do not meet. v2: the Latinist (minor) asked *ordenam* (ordain, set in order); refused because the blind reader heard the covenant rightly with *firmam*, while *ordenar* is heard first as command. It stays option 2.",
+      "options": [
+        {
+          "label": "os que firmam",
+          "forms": {
+            "ordinant": "os que firmam"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "os que ordenam",
+          "forms": {
+            "ordinant": "os que ordenam"
+          },
+          "note": "the cognate; heard as 'command'.",
+          "from": "draft"
+        },
+        {
+          "label": "os que dispõem",
+          "forms": {
+            "ordinant": "os que dispõem"
+          },
+          "note": "'arrange'; administrative.",
+          "from": "draft"
+        },
+        {
+          "label": "os que fizeram",
+          "forms": {
+            "ordinant": "os que fizeram"
+          },
+          "note": "MS1932 *fizeram aliança*; the Latin's present lost.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "testificabor",
+      "refs": [
+        "49:7"
+      ],
+      "latin": "Israël, et testificábor tibi",
+      "kind": "word",
+      "why": "διαμαρτύρομαί σοι: I will bear solemn witness to you (DRB *I will testify to thee*). *eu te darei testemunho* keeps the dative and the noun of witness (MS1932 the same). *testemunharei contra ti* is the Hebrew's sense (*bāk*, against you) and not the Latin's *tibi*. The *audi* of the first half governs *Israël* too; it is not repeated (MS1932 adds a second *ouve*).",
+      "options": [
+        {
+          "label": "eu te darei testemunho",
+          "forms": {
+            "testificabor": "eu te darei testemunho"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "eu testemunharei a ti",
+          "forms": {
+            "testificabor": "eu testemunharei a ti"
+          },
+          "note": "the verb kept; stiff.",
+          "from": "draft"
+        },
+        {
+          "label": "eu testemunharei contra ti",
+          "forms": {
+            "testificabor": "eu testemunharei contra ti"
+          },
+          "note": "the Hebrew's 'against'; not the Latin's dative.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hircus",
+      "refs": [
+        "49:9",
+        "49:13"
+      ],
+      "latin": "neque de grégibus tuis hircos … aut sánguinem hircórum potábo",
+      "kind": "word",
+      "why": "hircus is the he-goat (χίμαρος / τράγος; DRB *he goats … goats*). *bode* is the plain Brazilian word for the male goat; MS1932's *cabritos* are kids. One word in both verses, as the Latin has one.",
+      "options": [
+        {
+          "label": "bodes",
+          "forms": {
+            "hircos": "bodes",
+            "hircorum": "dos bodes"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "cabritos",
+          "forms": {
+            "hircos": "cabritos",
+            "hircorum": "dos cabritos"
+          },
+          "note": "MS1932; young goats.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "enarras",
+      "refs": [
+        "49:16"
+      ],
+      "latin": "Quare tu enárras justítias meas",
+      "kind": "glossary",
+      "why": "enarráre → *narrar* (the row; 18:2 *Os céus narram*). The stylist asks *proclamas* (stronger than a storyteller's *narrar*); refused: *proclamar* is prædicáre's (the enarráre row). The blind reader listed *narras* as unknown, which is surprising for a common verb; the form stands.",
+      "options": [
+        {
+          "label": "narras",
+          "forms": {
+            "enarras": "narras"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "proclamas",
+          "forms": {
+            "enarras": "proclamas"
+          },
+          "note": "stylist; prædicáre's word.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "order9",
+      "refs": [
+        "49:9"
+      ],
+      "latin": "Non accípiam de domo tua vítulos",
+      "kind": "order",
+      "why": "The stylist: the Latin order puts the object last, like an afterthought. Natural order is grammar (D2); taken. His *aceitarei* for *receberei* is refused: accípere → *receber* (the row).",
+      "options": [
+        {
+          "label": "Não receberei bezerros da tua casa",
+          "forms": {
+            "order9": "Não receberei bezerros da tua casa"
+          },
+          "note": "Ruling (v2): the stylist's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "Não receberei da tua casa bezerros",
+          "forms": {
+            "order9": "Não receberei da tua casa bezerros"
+          },
+          "note": "draft 1, the Latin order.",
+          "from": "draft"
+        },
+        {
+          "label": "Não aceitarei bezerros da tua casa",
+          "forms": {
+            "order9": "Não aceitarei bezerros da tua casa"
+          },
+          "note": "the stylist's verb; not accípere's row.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "silvarum",
+      "refs": [
+        "49:10"
+      ],
+      "latin": "omnes feræ silvárum",
+      "kind": "word",
+      "why": "silva, the wood (δρυμός, thicket). *selvas* is the cognate and MS1932's word; in Brazil it calls up the Amazon, but that is still wild forest, which is what the line needs. *matas* is the everyday Brazilian word; *bosques* is too tame for *feræ*. feræ → *feras* (the oves/boves row keeps *feras* for béstiæ / feræ); juménta → *os animais* (the juménta row: *jumento* is a donkey in Brazil).",
+      "options": [
+        {
+          "label": "das selvas",
+          "forms": {
+            "silvarum": "das selvas"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "das matas",
+          "forms": {
+            "silvarum": "das matas"
+          },
+          "note": "the everyday word.",
+          "from": "draft"
+        },
+        {
+          "label": "dos bosques",
+          "forms": {
+            "silvarum": "dos bosques"
+          },
+          "note": "DRB *woods*; tame beside *feras*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "jumenta",
+      "refs": [
+        "49:10"
+      ],
+      "latin": "juménta in móntibus et boves",
+      "kind": "glossary",
+      "why": "juménta → *os animais* (the row; κτήνη, as 8:8 pécora). The Latinist (minor) asks *o gado*: the row names it as its option, but here *o gado … e os bois* would say cattle twice, since oxen are cattle. Refused, kept as the option.",
+      "options": [
+        {
+          "label": "os animais",
+          "forms": {
+            "jumenta": "os animais"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "o gado",
+          "forms": {
+            "jumenta": "o gado"
+          },
+          "note": "Latinist; overlaps *os bois*.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "orbis",
+      "refs": [
+        "49:12"
+      ],
+      "latin": "meus est enim orbis terræ",
+      "kind": "glossary",
+      "why": "D30 settled *orbis terræ* → *o mundo* (*orbe* unknown to two blind readers). The Latinist (minor) asks *o orbe da terra*; refused under D30.",
+      "options": [
+        {
+          "label": "o mundo",
+          "forms": {
+            "orbis": "o mundo"
+          },
+          "note": "Ruling; D30.",
+          "from": "glossary"
+        },
+        {
+          "label": "o orbe da terra",
+          "forms": {
+            "orbis": "o orbe da terra"
+          },
+          "note": "Latinist; D30's refused option.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "carnes",
+      "refs": [
+        "49:13"
+      ],
+      "latin": "Numquid manducábo carnes taurórum?",
+      "kind": "grammar",
+      "why": "The Latin plural *carnes* is flesh as food; the carnes row has *as carnes* for a man's own flesh (118:120). The stylist heard *as carnes dos touros* as a butcher's counter; flesh as food is singular in Portuguese. Number is grammar (D2, as D29 did with *sangue*); taken. The singular also matches *o sangue* in the second colon.",
+      "options": [
+        {
+          "label": "a carne",
+          "forms": {
+            "carnes": "a carne"
+          },
+          "note": "Ruling (v2): the stylist; MS1932 *a carne dos touros*.",
+          "from": "stylist"
+        },
+        {
+          "label": "as carnes",
+          "forms": {
+            "carnes": "as carnes"
+          },
+          "note": "draft 1; the Latin's number.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cognovi",
+      "refs": [
+        "49:11"
+      ],
+      "latin": "Cognóvi ómnia volatília cæli",
+      "kind": "grammar",
+      "why": "A perfect with present sense (ἔγνωκα, 'I have come to know' = I know). DRB *I know*, MS1932 *Conheço*. In Portuguese *Conheci* reads as a past event ('I met'), so the tense yields to the sense (grammar, D2). The verb stays *conhecer* (the cognóscere row).",
+      "options": [
+        {
+          "label": "Conheço",
+          "forms": {
+            "cognovi": "Conheço"
+          },
+          "note": "Ruling; DRB, MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Conheci",
+          "forms": {
+            "cognovi": "Conheci"
+          },
+          "note": "the Latin's tense; heard as a past event.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "immola",
+      "refs": [
+        "49:14"
+      ],
+      "latin": "Ímmola Deo sacrifícium laudis",
+      "kind": "word",
+      "why": "immoláre (θῦσον) is to sacrifice a victim. *Imola* keeps the Latin's word and its weight — the psalm has just refused bulls and goats, and now names a sacrifice of another kind with the sacrificial verb. MS1932 *Oferece* is softer and makes it a general offering. The tu imperative *imola* is plain. v2: the blind reader listed *Imola* as unknown; kept — it is the Latin's word and the psalm's point (a sacrifice of another kind); *Oferece* is one touch away.",
+      "options": [
+        {
+          "label": "Imola",
+          "forms": {
+            "immola": "Imola"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Oferece",
+          "forms": {
+            "immola": "Oferece"
+          },
+          "note": "MS1932; DRB *Offer*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "honorificare",
+      "refs": [
+        "49:15",
+        "49:23"
+      ],
+      "latin": "et honorificábis me … Sacrifícium laudis honorificábit me",
+      "kind": "glossary",
+      "why": "One verb twice (δοξάσεις / δοξάσει), and the psalm turns on it: God asks to be honoured, and the sacrifice of praise honours him. *honrar* (36:20 *honrados*; MS1932 *honrarás … honrará*) keeps it apart from glorificáre → *glorificar* (the row). DRB has *glorify* for both, following the Greek; the Latin has chosen *honorificáre*.",
+      "options": [
+        {
+          "label": "honrarás … honrará",
+          "forms": {
+            "honorificabis": "honrarás",
+            "honorificabit": "honrará"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "glorificarás … glorificará",
+          "forms": {
+            "honorificabis": "glorificarás",
+            "honorificabit": "glorificará"
+          },
+          "note": "DRB; glorificáre's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "justitias",
+      "refs": [
+        "49:16"
+      ],
+      "latin": "Quare tu enárras justítias meas",
+      "kind": "glossary",
+      "why": "The plural justítiæ row names 49:16 as a place to decide locally. The Greek is τὰ δικαιώματά μου (ordinances), as at 17:23, where the finished psalm kept *as suas justiças*. Kept the same here: the Latin's word, and the echo with 49:6 *a sua justiça*. *os meus preceitos* would say the Greek's sense but would take *preceitos*, which D15 reserves for justificatiónes; *mandamentos* (MS1932) is mandáta's. enarráre → *narrar* (the row; the second of its two places).",
+      "options": [
+        {
+          "label": "as minhas justiças",
+          "forms": {
+            "justitias": "as minhas justiças"
+          },
+          "note": "Ruling; as 17:23.",
+          "from": "glossary"
+        },
+        {
+          "label": "os meus preceitos",
+          "forms": {
+            "justitias": "os meus preceitos"
+          },
+          "note": "the Greek's sense; justificatiónes' word (D15).",
+          "from": "draft"
+        },
+        {
+          "label": "os meus mandamentos",
+          "forms": {
+            "justitias": "os meus mandamentos"
+          },
+          "note": "MS1932; mandáta's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "peros",
+      "refs": [
+        "49:16"
+      ],
+      "latin": "et assúmis testaméntum meum per os tuum",
+      "kind": "grammar",
+      "why": "διὰ στόματός σου, 'through your mouth': to take the covenant upon one's lips. The Portuguese idiom is *tomar na boca* (DRB *in thy mouth*; MS1932 *na tua boca*); *pela tua boca* keeps the preposition but *tomar pela boca* is not said. assúmere → *tomar* here: the assúmere row's *recolher* (17:17, 26:10) is for a person taken up and does not fit a thing taken on the lips; noted for the row. v2: the Latinist (minor) asked *pela tua boca*; refused for the reason above, kept as option 2.",
+      "options": [
+        {
+          "label": "na tua boca",
+          "forms": {
+            "peros": "na tua boca"
+          },
+          "note": "Ruling; DRB, MS1932.",
+          "from": "DRB"
+        },
+        {
+          "label": "pela tua boca",
+          "forms": {
+            "peros": "pela tua boca"
+          },
+          "note": "the Latin's *per*; not said with *tomar*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "odisti",
+      "refs": [
+        "49:17"
+      ],
+      "latin": "Tu vero odísti disciplínam: et projecísti sermónes meos retrórsum",
+      "kind": "grammar",
+      "why": "odísse is a perfect with present sense, and the 2026-09-21 review made 118:104 *odeio* for that reason. But here it stands beside the perfect *projecísti* in an indictment told in the past (vias, corrias, fizeste), and the Greek is the aorist ἐμίσησας; DRB *thou hast hated … hast cast*. The past keeps the two verbs of the verse in one tense; the present (MS1932 *aborreces*) is the option. 44:8 *odísti iniquitátem* → *odiaste* is the precedent for the past beside another perfect.",
+      "options": [
+        {
+          "label": "odiaste",
+          "forms": {
+            "odisti": "odiaste"
+          },
+          "note": "Ruling; as 44:8.",
+          "from": "draft"
+        },
+        {
+          "label": "odeias",
+          "forms": {
+            "odisti": "odeias"
+          },
+          "note": "the present sense of *odi*; MS1932 *aborreces*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "portionem",
+      "refs": [
+        "49:18"
+      ],
+      "latin": "et cum adúlteris portiónem tuam ponébas",
+      "kind": "word",
+      "why": "μετὰ μοιχῶν τὴν μερίδα σου ἐτίθεις: 'you set your portion with adulterers' — cast in your lot with them. pórtio → *porção* (the row); pónere → *pôr*. The literal words are sayable and the sense is heard; MS1932 *fazias sociedade* and DRB *hast been a partaker* explain. v2: the stylist named 49:18 the worst line and asked *punhas a tua parte*; the blind reader heard it only roughly as 'you took part'. Refused for the pórtio row (kept apart from pars → *parte*); *parte* does not make the idiom any more Portuguese — *pôr a parte com* is no more said than *pôr a porção*. Kept as option 2; if Gustavo wants the sense heard plainly, *tomavas a tua parte* is the one to take.",
+      "options": [
+        {
+          "label": "punhas a tua porção",
+          "forms": {
+            "portionem": "punhas a tua porção"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "punhas a tua parte",
+          "forms": {
+            "portionem": "punhas a tua parte"
+          },
+          "note": "stylist (his worst line): *parte* plainer; pars's word (15:5).",
+          "from": "stylist"
+        },
+        {
+          "label": "tomavas a tua parte",
+          "forms": {
+            "portionem": "tomavas a tua parte"
+          },
+          "note": "the idiom; *parte* is pars's word.",
+          "from": "draft"
+        },
+        {
+          "label": "fazias sociedade",
+          "forms": {
+            "portionem": "fazias sociedade"
+          },
+          "note": "MS1932; explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "concinnabat",
+      "refs": [
+        "49:19"
+      ],
+      "latin": "et lingua tua concinnábat dolos",
+      "kind": "word",
+      "why": "concinnáre: to join fitly together, arrange (L&S); the Greek περιέπλεκεν, wove, entwined. *tramar* is the weaver's word (the *trama* is the weft) and is how Portuguese says contriving deceit; MS1932's *urdir* is the warp and the same image, but bookish. Proposed for 57:3 *injustítias … concínnant* too.",
+      "options": [
+        {
+          "label": "tramava",
+          "forms": {
+            "concinnabat": "tramava"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "urdia",
+          "forms": {
+            "concinnabat": "urdia"
+          },
+          "note": "MS1932; literary.",
+          "from": "MS1932"
+        },
+        {
+          "label": "compunha",
+          "forms": {
+            "concinnabat": "compunha"
+          },
+          "note": "L&S's *arrange*; DRB *framed*; flat.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "scandalum",
+      "refs": [
+        "49:20"
+      ],
+      "latin": "et advérsus fílium matris tuæ ponébas scándalum",
+      "kind": "glossary",
+      "why": "scándalum → *tropeço* (the row; 48:14, 118:165): *escândalo* is a public outrage in Portuguese. *pôr tropeço contra* keeps pónere and the preposition; MS1932 *armavas laços* changes the image (laço is láqueus).",
+      "options": [
+        {
+          "label": "punhas um tropeço",
+          "forms": {
+            "scandalum": "punhas um tropeço"
+          },
+          "note": "Ruling (v2): the stylist; the article is grammar.",
+          "from": "stylist"
+        },
+        {
+          "label": "punhas tropeço",
+          "forms": {
+            "scandalum": "punhas tropeço"
+          },
+          "note": "draft 1; the bare noun, clipped to the stylist.",
+          "from": "glossary"
+        },
+        {
+          "label": "punhas escândalo",
+          "forms": {
+            "scandalum": "punhas escândalo"
+          },
+          "note": "the cognate; a public outrage.",
+          "from": "draft"
+        },
+        {
+          "label": "armavas laços",
+          "forms": {
+            "scandalum": "armavas laços"
+          },
+          "note": "MS1932; another image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inique",
+      "refs": [
+        "49:21"
+      ],
+      "latin": "Existimásti, iníque, quod ero tui símilis",
+      "kind": "ambiguity",
+      "why": "*iníque* can be the adverb (unjustly) or the vocative of iníquus (O wicked one). The Vulgate-family witnesses both read the adverb (DRB *Thou thoughtest unjustly*; MS1932 *Pensaste iniquamente*), and 43:18 *iníque non égimus* → *não agimos iniquamente* is the psalter's adverb. The Greek ὑπέλαβες ἀνομίαν has a noun object and settles nothing for the Latin. Ruled for the adverb with the two witnesses; the vocative is the option. *quod ero* → *que eu seria*: Portuguese puts the future in the past after a past verb (grammar). existimáre → *pensar* (MS1932); æstimári → *ser tido* is another build. v2: the stylist found *iniquamente* bookish and asked the vocative; the blind reader listed it unknown and heard 'wrongly'. Refused: the stylist's wording takes the other reading of the Latin, which both Vulgate-family witnesses reject; it stays option 2 and the choice between the two readings is for Gustavo.",
+      "options": [
+        {
+          "label": "Pensaste iniquamente",
+          "forms": {
+            "inique": "Pensaste iniquamente"
+          },
+          "note": "Ruling; DRB, MS1932; as 43:18.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Pensaste, ó iníquo,",
+          "forms": {
+            "inique": "Pensaste, ó iníquo,"
+          },
+          "note": "the vocative reading.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "statuam",
+      "refs": [
+        "49:21"
+      ],
+      "latin": "árguam te, et státuam contra fáciem tuam",
+      "kind": "ambiguity",
+      "why": "*státuam* has no object in the Latin (the Greek παραστήσω has none either; the Hebrew 'set in order before your eyes' has an implied one). DRB keeps it bare (*and set before thy face*); MS1932 supplies *(tudo)*, marked as his gloss. Supplying *te* (set you before your own face) or *tudo* (your deeds) would resolve what the Latin leaves open. Kept bare. statúere → *pôr* here: the statúere row's *firmar* is for establishing and does not fit a setting-before. *contra fáciem* → *diante da tua face* (the fácies row). v2: the stylist asked for a neuter *o* (*e o porei*) so the ear is not left waiting; refused, because *o* is heard as 'him' and supplies an object. The Latinist passed the bare form as keeping the Latin's ellipsis.",
+      "options": [
+        {
+          "label": "porei",
+          "forms": {
+            "statuam": "porei"
+          },
+          "note": "Ruling; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "o porei",
+          "forms": {
+            "statuam": "o porei"
+          },
+          "note": "stylist: a neuter *o* as object.",
+          "from": "stylist"
+        },
+        {
+          "label": "te porei",
+          "forms": {
+            "statuam": "te porei"
+          },
+          "note": "the object *you* supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "porei tudo",
+          "forms": {
+            "statuam": "porei tudo"
+          },
+          "note": "MS1932's gloss.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "oblivisci",
+      "refs": [
+        "49:22"
+      ],
+      "latin": "qui obliviscímini Deum",
+      "kind": "grammar",
+      "why": "The oblivísci row takes a direct object (*não esqueci a vossa lei*); with a person Portuguese marks the object with *a*: *esqueceis a Deus*. *vos esqueceis de Deus* (MS1932) is the more common spoken build, and is the option.",
+      "options": [
+        {
+          "label": "esqueceis a Deus",
+          "forms": {
+            "oblivisci": "esqueceis a Deus"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "vos esqueceis de Deus",
+          "forms": {
+            "oblivisci": "vos esqueceis de Deus"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "rapiat",
+      "refs": [
+        "49:22"
+      ],
+      "latin": "nequándo rápiat, et non sit qui erípiat",
+      "kind": "ambiguity",
+      "why": "The *nequándo rápiat* row (7:3): no subject supplied; in 49:22 the one who seizes is God, and the Latin leaves it to be understood; it names no object either (DRB and MS1932 supply *you*). rápere → *arrebatar*; erípere with no source named → *libertar* (the erípere row). *para que não arrebate* keeps both open. v2: the Latinist and the stylist both asked *livre* (the stylist also a subject *ele*). Refused: *livrar* is liberáre's verb, and the erípere row gives *libertar* where no source is named (24:20, 90:15); the Latinist's point, that *liberte* loses the snatch that answers *rápiat*, is fair — the row's other verb, *arranque*, keeps it, and is option 3. The subject is left unnamed by the row (the blind reader still heard God).",
+      "options": [
+        {
+          "label": "arrebate … liberte",
+          "forms": {
+            "rapiat": "arrebate",
+            "eripiat": "liberte"
+          },
+          "note": "Ruling; the rápere and erípere rows.",
+          "from": "glossary"
+        },
+        {
+          "label": "arrebate … livre",
+          "forms": {
+            "rapiat": "arrebate",
+            "eripiat": "livre"
+          },
+          "note": "Latinist and stylist; *livrar* is liberáre's.",
+          "from": "latinist"
+        },
+        {
+          "label": "arrebate … arranque",
+          "forms": {
+            "rapiat": "arrebate",
+            "eripiat": "arranque"
+          },
+          "note": "the erípere row's other verb; keeps the snatching image the Latinist wants.",
+          "from": "draft"
+        },
+        {
+          "label": "ele arrebate … livre",
+          "forms": {
+            "rapiat": "ele arrebate",
+            "eripiat": "livre"
+          },
+          "note": "stylist: subject supplied.",
+          "from": "stylist"
+        },
+        {
+          "label": "vos arrebate … vos liberte",
+          "forms": {
+            "rapiat": "vos arrebate",
+            "eripiat": "vos liberte"
+          },
+          "note": "MS1932, DRB supply the object.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quo",
+      "refs": [
+        "49:23"
+      ],
+      "latin": "et illic iter, quo osténdam illi salutáre Dei",
+      "kind": "grammar",
+      "why": "The Latin has no verb in *illic iter*; Portuguese supplies *está* (grammar, D2). iter → *caminho* (the row). *quo* → *por onde*, lighter than *pelo qual* (MS1932) and the same sense. *illi* → *lhe*, the one who offers the sacrifice of praise. salutáre → *salvação* (D6).",
+      "options": [
+        {
+          "label": "está o caminho por onde",
+          "forms": {
+            "quo": "está o caminho por onde"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "está o caminho pelo qual",
+          "forms": {
+            "quo": "está o caminho pelo qual"
+          },
+          "note": "MS1932; heavier.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o caminho por onde",
+          "forms": {
+            "quo": "o caminho por onde"
+          },
+          "note": "verbless, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "49:1": "*Deus deórum, Dóminus*: the two names in apposition, set off with commas (DRB *The God of gods, the Lord*). *locútus est* → *falou*.",
+    "49:3": "silére → *ficar em silêncio* and tacére (49:20) → *calar-se*: the silére / tacére row keeps two Latin verbs apart; here the Greek differs too (παρασιωπήσεται / ἐσίγησα).",
+    "49:3b": "exardéscere → *inflamar-se*, *um fogo se inflamará* as 38:4. in circúitu → *ao seu redor* (17:12).",
+    "49:4": "*desúrsum* → *lá do alto*.",
+    "49:6": "annuntiáre → *anunciar* (D41). *judex est* → *é juiz*, no article, as the Latin.",
+    "49:7": "God speaks to Israel, one people: *tu* (rule 3; D17). *Deus, Deus tuus* → *Deus, o teu Deus*, as 44:8.",
+    "49:8": "árguere → *repreender* (D21), the same verb again in 49:21 as the Latin repeats *árguam te*. *in sacrifíciis* (ἐπί, 'concerning') → *pelos*. holocáustum → *holocausto* (the row).",
+    "49:9": "accípere → *receber* (the row). vítulus → *bezerro* (the row). Latin order kept (*da tua casa bezerros*), so that the mediant falls on *bezerros*.",
+    "49:10": "juménta → *os animais* (the row; *jumento* is a donkey).",
+    "49:11": "volatília cæli → *as aves do céu*; pulchritúdo → *beleza* (D43).",
+    "49:12": "orbis terræ → *o mundo* (D30); *et plenitúdo ejus* → *e a sua plenitude*, the formula of 23:1. *Si esuríero* → *Se eu tiver fome*.",
+    "49:13": "numquid → *acaso* (the row). carnes → *as carnes* (the row).",
+    "49:14": "vota réddere → *pagar os votos* (21:26). Altíssimus → *Altíssimo* (the row).",
+    "49:15": "invocáre → *invocar*; éruere with no source → *libertar* (as 24:20 *libertai-me*); *dia da tribulação* as 19:2.",
+    "49:16": "God now speaks to the sinner, one man: *tu*. *Quare tu* → *Por que tu*, the pronoun kept for its emphasis.",
+    "49:17": "sermónes → *palavras* (D15). projícere → *lançar*; retrórsum → *para trás* (the retrórsum row).",
+    "49:19": "malítia → *malícia* (the row); dolus → *engano* (the row).",
+    "49:20": "*Sedens* → *Sentado*, set off by a comma. *hæc* → *isto*, and the same in 49:22. *fílium matris tuæ* → *o filho da tua mãe*, the Hebraism kept.",
+    "49:22": "A plural audience (*obliviscímini*): *vós* (rule 3). intellégere → *entender*; *Entendei* is safe (past *entendi*).",
+    "49:23": "*Sacrifícium laudis* → *O sacrifício de louvor* here (a subject), *um sacrifício de louvor* in 49:14 (an object after an imperative), as 4:6 *um sacrifício de justiça*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (no Diurnal: not a day-hours psalm). God speaks in the first person from 49:7: to Israel (tu) and then to the sinner (tu); the heavens / the court (49:5) and the forgetful (49:22) are plural (vós). Hard readings: 49:5 *órdinant testaméntum super sacrifícia*; 49:21 *iníque* (adverb or vocative) and the object-less *státuam*; 49:17 the tense of *odísti*; 49:1b the verbless *spécies decóris*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft length flags accepted: 49:3 second colon +4 (*ficar em silêncio* is the silére row's, kept apart from tacére → *calar-se* in 49:20); 49:7 −3, 49:20 −3, 49:22 −3 (Portuguese shorter, no loss); 49:11 −3/+3 (the Latin order *mecum est* kept at the end); 49:21 +4/+3 (*iniquamente* and *semelhante a ti* are the words; *como tu* would save three syllables but lose símilis's word, which 48:13 keeps as *semelhante*); 49:23 +5 (the supplied *está*; the verbless option is 2 syllables shorter)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context). 5 minor, no major; all refused under glossary rows, each kept as an option.",
+      "outcomes": [
+        {
+          "verse": "49:5",
+          "remark": "ordinant → ordenam",
+          "outcome": "option",
+          "decision": "ordinant",
+          "reason": "ordenar is heard as command; firmar was heard rightly by the blind reader."
+        },
+        {
+          "verse": "49:10",
+          "remark": "juménta → o gado",
+          "outcome": "option",
+          "decision": "jumenta",
+          "reason": "the row; o gado overlaps os bois."
+        },
+        {
+          "verse": "49:12",
+          "remark": "orbis terræ → o orbe da terra",
+          "outcome": "option",
+          "decision": "orbis",
+          "reason": "D30."
+        },
+        {
+          "verse": "49:16",
+          "remark": "per os → pela tua boca",
+          "outcome": "option",
+          "decision": "peros",
+          "reason": "tomar pela boca is not said; DRB, MS1932 have in / na."
+        },
+        {
+          "verse": "49:22",
+          "remark": "eripiat → livre (snatch image)",
+          "outcome": "option",
+          "decision": "rapiat",
+          "reason": "livrar is liberáre's; the erípere row's arrancar, which keeps the image, is added as an option."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context). 13 remarks; worst line 49:18, best 49:19. 5 taken (order of 49:1 and 49:9, abertamente, a carne, um tropeço), 8 refused and kept as options.",
+      "outcomes": [
+        {
+          "verse": "49:1",
+          "remark": "O heard as vocative; verb first",
+          "outcome": "taken",
+          "reason": ""
+        },
+        {
+          "verse": "49:3",
+          "remark": "manifestamente → abertamente",
+          "outcome": "taken"
+        },
+        {
+          "verse": "49:3",
+          "remark": "ficará em silêncio → se calará",
+          "outcome": "option",
+          "decision": "silebit",
+          "reason": "silére / tacére kept apart (49:20)."
+        },
+        {
+          "verse": "49:3b",
+          "remark": "se inflamará → arderá",
+          "outcome": "option",
+          "decision": "exardescet",
+          "reason": "exardéscere row; arder is concaléscere's in 38:4."
+        },
+        {
+          "verse": "49:5",
+          "remark": "Congregai para ele → Reuni para ele",
+          "outcome": "refused",
+          "reason": "bare Reuni = I gathered (rule 3); already option 3 of congregate."
+        },
+        {
+          "verse": "49:9",
+          "remark": "order; aceitarei",
+          "outcome": "taken",
+          "reason": "order taken; the verb refused (accípere → receber), kept as option 3 of order9."
+        },
+        {
+          "verse": "49:13",
+          "remark": "as carnes → a carne",
+          "outcome": "taken"
+        },
+        {
+          "verse": "49:16",
+          "remark": "narras → proclamas",
+          "outcome": "option",
+          "decision": "enarras",
+          "reason": "enarráre row; proclamar is prædicáre's."
+        },
+        {
+          "verse": "49:18",
+          "remark": "porção → parte",
+          "outcome": "option",
+          "decision": "portionem",
+          "reason": "pórtio row; parte makes the idiom no more native."
+        },
+        {
+          "verse": "49:20",
+          "remark": "punhas tropeço → punhas um tropeço",
+          "outcome": "taken"
+        },
+        {
+          "verse": "49:21",
+          "remark": "iniquamente → ó iníquo",
+          "outcome": "option",
+          "decision": "inique",
+          "reason": "the other reading of iníque; DRB and MS1932 read the adverb."
+        },
+        {
+          "verse": "49:21",
+          "remark": "porei → o porei",
+          "outcome": "option",
+          "decision": "statuam",
+          "reason": "o supplies an object heard as him."
+        },
+        {
+          "verse": "49:22",
+          "remark": "ele arrebate … livre",
+          "outcome": "option",
+          "decision": "rapiat",
+          "reason": "the rápere row (no subject) and erípere row (libertar)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context). 30 readings; unknown: manifestamente, holocaustos, plenitude, Imola, narras, iniquamente, arrebate. One taken: 49:8 porém heard as a reproach. manifestamente replaced (with the stylist). holocausto, plenitude, arrebatar are glossary words already recorded as unknown to earlier readers; Imola and iniquamente noted in their decisions. 49:4 separar heard as set apart — the D42 cost; julgar remains the option. 49:5 aliança heard as ring as well as covenant, and firmam heard as sealed — as meant.",
+      "outcomes": [
+        {
+          "verse": "49:8",
+          "remark": "porém heard as a reproach",
+          "outcome": "taken"
+        },
+        {
+          "verse": "49:3",
+          "remark": "manifestamente unknown",
+          "outcome": "taken"
+        },
+        {
+          "verse": "49:14",
+          "remark": "Imola unknown",
+          "outcome": "option",
+          "decision": "immola",
+          "reason": "the Latin's sacrificial verb is the point of the line."
+        },
+        {
+          "verse": "49:21",
+          "remark": "iniquamente unknown; porei lacks an object",
+          "outcome": "option",
+          "decision": "statuam",
+          "reason": "the Latin has no object; kept open."
+        },
+        {
+          "verse": "49:22",
+          "remark": "subject and object of arrebate inaudible",
+          "outcome": "option",
+          "decision": "rapiat",
+          "reason": "the row keeps the Latin's ellipsis; the reader still heard God."
+        },
+        {
+          "verse": "49:4",
+          "remark": "separar heard as set apart",
+          "outcome": "option",
+          "decision": "discernere",
+          "reason": "D42; julgar is the option."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 49:1 verb first; 49:3 abertamente; 49:8 e for porém; 49:9 natural order; 49:13 a carne; 49:20 um tropeço. New decisions for the refused remarks (silebit, exardescet, jumenta, orbis, enarras) and options added to portionem, statuam, rapiat. prayed.v1.json kept."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass; the soft flags are those accepted on v1 (49:3 +4, 49:7 −3, 49:11 ±3, 49:21 +4/+3, 49:22 −3, 49:23 +5); 49:20's −3 is gone with *um tropeço*."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2, claude-opus-5-5 (fresh context). No critical or major; 8 minor issues in 7 verses, all refused under glossary rows or earlier reasons, each already selectable as an option except *jumentos* and *serei*. Its claim that the LXX has the vocative ἄνομε at 49:21 is contradicted by the Rahlfs text in consult/parallels/ps049.md (ὑπέλαβες ἀνομίαν, a noun object).",
+      "outcomes": [
+        {
+          "verse": "49:1b",
+          "remark": "decor → beleza, spécies → formosura",
+          "outcome": "refused",
+          "reason": "the decor row (esplendor, 20:6, 25:8, 29:8, 44:12) and the spécies row (beleza, 46:5); his wording would give each Latin noun the other's word."
+        },
+        {
+          "verse": "49:4",
+          "remark": "separar → discernir",
+          "outcome": "option",
+          "decision": "discernere",
+          "reason": "D42; discernir is heard as perceive."
+        },
+        {
+          "verse": "49:5",
+          "remark": "firmam → ordenam",
+          "outcome": "option",
+          "decision": "ordinant",
+          "reason": "as on v1: ordenar is heard as command."
+        },
+        {
+          "verse": "49:10",
+          "remark": "animais → jumentos",
+          "outcome": "refused",
+          "reason": "the juménta row: jumento is a donkey in Brazil, a wrong image."
+        },
+        {
+          "verse": "49:13",
+          "remark": "a carne → as carnes",
+          "outcome": "option",
+          "decision": "carnes",
+          "reason": "number is grammar (D2, D29); flesh as food is singular in Portuguese; the stylist's fix."
+        },
+        {
+          "verse": "49:16",
+          "remark": "na tua boca → pela tua boca",
+          "outcome": "option",
+          "decision": "peros",
+          "reason": "as on v1: tomar pela boca is not said."
+        },
+        {
+          "verse": "49:21",
+          "remark": "iniquamente → ó iníquo",
+          "outcome": "option",
+          "decision": "inique",
+          "reason": "DRB and MS1932 read the adverb; the Greek in the parallels is ἀνομίαν, not a vocative, so it does not support his reading. For Gustavo."
+        },
+        {
+          "verse": "49:21",
+          "remark": "seria → serei",
+          "outcome": "refused",
+          "reason": "sequence of tenses after a past verb (grammar, D2); he calls it defensible."
+        }
+      ]
+    },
+    {
+      "step": "final",
+      "note": "Draft 2 stands; status reviewed. No major left standing."
+    }
+  ]
+}

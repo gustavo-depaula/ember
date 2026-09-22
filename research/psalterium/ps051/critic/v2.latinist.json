@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "217eef6d15a1bc98701abea0cae2473f429b35869fe8fcba83ede6354a23a745",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-22T18:55:23+00:00",
+  "reply": "{\"verses\": [{\"id\": \"51:4\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"injustítiam cogitávit lingua tua\", \"portuguese\": \"a tua língua pensou em injustiça\", \"problem\": \"cogitare with a direct object means to devise or plot. 'Pensou em' (thought about) makes the object a topic and weakens the verb to mere thinking, where the Latin says the tongue plotted injustice.\", \"fix\": \"O dia todo a tua língua planejou a injustiça\"}]}, {\"id\": \"51:8\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"qui non pósuit Deum adjutórem suum\", \"portuguese\": \"que não fez de Deus o seu auxílio\", \"problem\": \"adjutor is an agent noun (helper), not the abstract 'help' (auxilium). 'Auxílio' turns the person into an abstraction.\", \"fix\": \"Eis o homem que não fez de Deus o seu ajudador\"}]}, {\"id\": \"51:6\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"verba præcipitatiónis\", \"portuguese\": \"palavras de ruína\", \"problem\": \"praecipitatio is a casting headlong, a hurling down (LXX katapontismos, drowning). 'Ruína' is the traditional rendering (Douay 'ruin') and defensible, but it softens the image of throwing down into a general abstraction.\", \"fix\": \"Amaste todas as palavras de precipício\"}]}], \"overall\": \"A faithful and close rendering. Sense, tense, person and number hold throughout, 'quia fecisti' and the ambiguous 'bonum est' are handled well, and the pointing marks match the Latin in every verse. The only faults are minor: a weakened verb in v. 4, an abstraction for 'adjutor' in v. 8, and a softened 'praecipitationis' in v. 6.\"}\n"
+}

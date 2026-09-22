@@ -1,0 +1,117 @@
+{
+  "psalm": 52,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "52:1": "Disse o insensato no seu coração: * Não há Deus.",
+    "52:2": "Corromperam-se, e tornaram-se abomináveis {iniquitatibus}: * não há quem faça o bem.",
+    "52:3": "Deus olhou do céu para os filhos dos homens, * para ver se há quem entenda, ou quem procure a Deus.",
+    "52:4": "Todos se desviaram, juntos se tornaram inúteis: * não há quem faça o bem, não há nem sequer um.",
+    "52:5": "Não hão de saber todos os que praticam a iniquidade, * os que devoram o meu povo como quem come pão?",
+    "52:6": "{invocaverunt}, * ali tremeram de temor, onde não havia temor.",
+    "52:6b": "Porque Deus {dissipavit} os ossos {placent}: * {confusi}, porque Deus os desprezou.",
+    "52:7": "Quem dará de Sião a salvação de Israel? * quando Deus {converterit} do seu povo, Jacó exultará, e Israel se alegrará."
+  },
+  "decisions": [
+    {
+      "id": "iniquitatibus",
+      "refs": ["52:2"],
+      "latin": "abominábiles facti sunt in iniquitátibus",
+      "kind": "grammar",
+      "why": "The one place where 52:2 departs from 13:1b in its first colon: Ps 13 has in stúdiis suis (→ nos seus feitos), Ps 52 in iniquitátibus, with no possessive (the Greek ἐν ἀνομίαις has none either). iníquitas → iniquidade (glossary). Douay-Rheims 'in iniquities'; Matos Soares 1932 'nas suas iniquidades' (supplies the possessive). The same phrase stands in 50:7 in iniquitátibus concéptus sum (Ps 50, being translated in parallel) and 105:43 humiliáti sunt in iniquitátibus suis (with suis).",
+      "options": [
+        {"label": "nas iniquidades", "forms": {"iniquitatibus": "nas iniquidades"}, "note": "Ruling: the plural kept, no possessive supplied — the Latin has none here where Ps 13 and 105:43 have suis, so a reader crossing the columns finds the difference. The article is Portuguese grammar (D2). Colon 21 syllables against the Latin's 21.", "from": "draft"},
+        {"label": "nas suas iniquidades", "forms": {"iniquitatibus": "nas suas iniquidades"}, "note": "Matos Soares 1932: the possessive supplied, which is how Portuguese most often says it; it adds a word the Latin lacks here and has in 105:43.", "from": "MS1932"},
+        {"label": "em iniquidades", "forms": {"iniquitatibus": "em iniquidades"}, "note": "Douay-Rheims' 'in iniquities', no article; stiffer.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "invocaverunt",
+      "refs": ["52:6"],
+      "latin": "Deum non invocavérunt",
+      "kind": "order",
+      "why": "13:5a is the same words with Dóminum (→ Ao Senhor não invocaram, the stylist's line in Ps 13, which is the Latin's own order and removed the rhyme Senhor / temor). With Deus there is no rhyme to avoid, so the reason for fronting in Ps 13 is absent here; but the Latin's order is the same in both twins and rule 6 asks that what the Latin repeats, the Portuguese repeat — Ps 13's decision note already named this wording for 52:6.",
+      "options": [
+        {"label": "A Deus não invocaram", "forms": {"invocaverunt": "A Deus não invocaram"}, "note": "Ruling: 13:5a with Deus for Senhor, as the Latin changes only that word; the object first, as in the Latin; the colon ends on a paroxytone.", "from": "draft"},
+        {"label": "Não invocaram a Deus", "forms": {"invocaverunt": "Não invocaram a Deus"}, "note": "Matos Soares 1932; the natural order, and here it rhymes with nothing — but the twins would part where the Latin does not.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "dissipavit",
+      "refs": ["52:6b"],
+      "latin": "Quóniam Deus dissipávit ossa",
+      "kind": "glossary",
+      "why": "Not in Ps 13 (13:6 has another verse here), so decided here. dissipáre: L&S 'to spread abroad, scatter, disperse'; the Greek διεσκόρπισεν. The glossary row dissipáre (open) names this verse and proposes 'dissipar' for a thing, 'dispersar' for people (17:15, 34:16 applied); bones are neither case, but 21:15 dispérsa sunt ómnia ossa mea (dispérgere, the same Greek family) already reads 'foram dispersos todos os meus ossos'. Douay-Rheims 'hath scattered the bones'; Matos Soares 1932 'dissipou os ossos'.",
+      "options": [
+        {"label": "dispersou", "forms": {"dissipavit": "dispersou"}, "note": "Ruling: the scattering of bones is a concrete image (the unburied dead), and 'dispersar' says it plainly and matches 21:15's bones; 'dissipou' was unknown to the blind reader of Ps 17. So the row's proposal gains a line: dispersar for people and for bones (things strewn), dissipar for what is undone (the law 118:126, designs 32:10).", "from": "draft"},
+        {"label": "dissipou", "forms": {"dissipavit": "dissipou"}, "note": "The cognate (Matos Soares 1932); in Portuguese 'dissipar' is said of mist, doubts, fortunes — of bones it is heard as 'made vanish'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "placent",
+      "refs": ["52:6b"],
+      "latin": "ossa eórum qui homínibus placent",
+      "kind": "ambiguity",
+      "why": "'Of those who please men' (the Greek has one word, ἀνθρωπαρέσκων, 'men-pleasers'; the Hebrew has another sense, not followed). placére + dative → agradar a (114:9 Placébo Dómino). The Latin leaves open whether they are pleasing to men or court men's favour; the Greek compound leans to the second. Douay-Rheims 'of them that please men'; Matos Soares 1932 'daqueles que procuram agradar aos homens' (supplies 'procuram').",
+      "options": [
+        {"label": "dos que agradam aos homens", "forms": {"placent": "dos que agradam aos homens"}, "note": "Ruling: the Latin's verb and dative, and its openness; ends on the paroxytone 'homens' at the mediant.", "from": "draft"},
+        {"label": "daqueles que agradam aos homens", "forms": {"placent": "daqueles que agradam aos homens"}, "note": "The same, one syllable heavier (the colon is −4 against the Latin).", "from": "draft"},
+        {"label": "dos que procuram agradar aos homens", "forms": {"placent": "dos que procuram agradar aos homens"}, "note": "Matos Soares 1932: closes the ambiguity toward the Greek's 'men-pleasers' by a verb the Latin lacks.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "confusi",
+      "refs": ["52:6b"],
+      "latin": "confúsi sunt",
+      "kind": "glossary",
+      "why": "confúndi → ser envergonhado (settled, D15: 'confundido' was heard as 'confused'). Perfect passive, κατῃσχύνθησαν. Douay-Rheims 'they have been confounded'; Matos Soares 1932 'foram confundidos'.",
+      "options": [
+        {"label": "foram envergonhados", "forms": {"confusi": "foram envergonhados"}, "note": "Ruling: D15, as 21:6 'não foram envergonhados'.", "from": "glossary"},
+        {"label": "foram confundidos", "forms": {"confusi": "foram confundidos"}, "note": "The traditional cognate (Matos Soares 1932); refused by D15.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "converterit",
+      "refs": ["52:7"],
+      "latin": "cum convérterit Deus captivitátem plebis suæ",
+      "kind": "word",
+      "why": "Here the twins part: 13:7 cum avérterit Dóminus (→ 'quando o Senhor afastar o cativeiro'), 52:7 cum convérterit Deus — one Greek for both (ἐν τῷ ἐπιστρέψαι), two Latin verbs; Ps 13's note foresaw that 52:7 would take convértere's verb and differ as the Latin does. The glossary's convértere → voltar (open) gives, transitive, 'fizer voltar o cativeiro' — but that is heard first as 'bring the captivity back again', the opposite of the sense (the captives brought back, the captivity turned). convértere captivitátem recurs at 125:1 In converténdo … captivitátem Sion and 125:4 Convérte, Dómine, captivitátem nostram (grep), so the ruling reaches them. Douay-Rheims 'when God shall bring back the captivity'; Matos Soares 1932 'Quando Deus puser fim ao cativeiro' (explains). Future perfect → future subjunctive, as 13:7.",
+      "options": [
+        {"label": "reverter o cativeiro", "forms": {"converterit": "reverter o cativeiro"}, "note": "Ruling: 'reverter' is the turn of con-vértere (same root, heard across the columns) and in current Portuguese 'reverter uma situação' is to turn it back, undo it — the sense, without an explanation and without the wrong hearing. It keeps 52:7 apart from 13:7's 'afastar' as the Latin keeps avértere / convértere apart. Safe at the vós imperative for 125:4 ('Revertei, Senhor, o nosso cativeiro'; past 'reverti'). Cost: the glossary's convértere verb is 'voltar'; revérti (return, intransitive: 77:34, 103:29, 145:4) is another verb and will be 'voltar', so nothing collides. Proposed as a glossary row for 125:1, 125:4.", "from": "draft"},
+        {"label": "fizer voltar o cativeiro", "forms": {"converterit": "fizer voltar o cativeiro"}, "note": "The glossary's verb, causative (as 9:4 'Ao fazer voltar para trás o meu inimigo'); heard first as the captivity returning.", "from": "glossary"},
+        {"label": "fizer voltar os cativos", "forms": {"converterit": "fizer voltar os cativos"}, "note": "The collective sense of captívitas (the captives) made explicit; clear, but it turns the Latin's abstract noun into persons and leaves the glossary's 'cativeiro' (13:7, 84:2).", "from": "draft"},
+        {"label": "puser fim ao cativeiro", "forms": {"converterit": "puser fim ao cativeiro"}, "note": "Matos Soares 1932: explains the image.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "52:1": "Copied from 13:1a (the Latin is identical, word for word; Latin capital 'Non' as 13:1a's 'non' — no difference in the Portuguese). Ps 13's decision insipiens (→ insensato) governs; the glossary row insípiens names 52:1.",
+    "52:2": "First colon copied from 13:1b ('Corromperam-se, e tornaram-se abomináveis' — decision corrupti in Ps 13; facti sunt → 'tornaram-se') up to the phrase that differs: in iniquitátibus for in stúdiis suis (decision iniquitatibus). Second colon: 52:2 has only 'non est qui fáciat bonum' — Ps 13's 'non est usque ad unum' is absent here, so the Portuguese stops where the Latin stops ('não há quem faça o bem', 13:1b's words).",
+    "52:3": "Copied from 13:2 with Deus for Dóminus, the one word the Latin changes (Ps 13 decisions prospexit → 'olhou do céu para', requirens → 'procure'). The verse now has 'Deus' twice (Deus … requírens Deum), as the Latin does. The Latin has ':' before 'ut vídeat' where 13:2 has ','; the Portuguese keeps Ps 13's comma — punctuation is grammar and a colon before 'para ver' is not Portuguese usage.",
+    "52:4": "Copied from 13:3a — identical Latin (= Rom 3:12). Ps 13 decisions declinaverunt, simul, usque govern.",
+    "52:5": "Copied from 13:4. The Latin differs twice, each time where the Greek is one: scient for cognóscent (γνώσονται both), ut cibum for sicut escam (βρώσει ἄρτου both) — the glossary rows esca / cibus and Ps 13's decision escam already give 'como quem come pão' for both (Matos Soares 1932 has it in this very verse). 'saber' is here the plain word for scire itself (Ps 13 chose it for cognóscere because 'conhecer' needs an object). Ps 13 decisions cognoscent, escam govern.",
+    "52:6": "Second colon copied from 13:5b — identical Latin (glossary timor: 'de temor … temor', the noun twice). First colon: Deum for Dóminum (decision invocaverunt). The Latin has ':' where 13:5 has ','; Ps 13's comma kept, as 52:3.",
+    "52:6b": "DO's second '52:6' line, id 52:6b as latin.py gives it. Not in Ps 13 (13:6 stands here), so decided here: dissipáre (decision dissipavit), placére (decision placent), confúndi (D15, decision confusi), spérnere → desprezar (glossary, as 21:25, 118:118). The Latin's two quóniam kept as two 'porque', as 13:6. This is the Septuagint's reading (ἀνθρωπαρέσκων); the Hebrew and the Diurnal-type versions have another verse — not followed (rule 1).",
+    "52:7": "First colon copied from 13:7a (identical Latin). Second colon: 'quando Deus … do seu povo, Jacó exultará, e Israel se alegrará' copies 13:7 except where the Latin differs — Deus for Dóminus, convérterit for avérterit (decision converterit). The end (captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël) is Ps 13's decision exsultabit, the direct order."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm52.txt, eight prayed verses; DO repeats the id 52:6, so the second is 52:6b (latin.py). The titulus (In finem, pro Maeleth, intellígentiæ David) is out (D7). Parallels: consult/parallels/ps052.md (Latin, LXX Rahlfs, WLC Hebrew Ps 53, Douay-Rheims, Matos Soares 1932); no Diurnal text in the file."
+    },
+    {
+      "step": "twin",
+      "note": "Ps 52 against Ps 13 (finished, draft 3), line by line: 52:1 = 13:1a → copied. 52:2 = 13:1b but in iniquitátibus for in stúdiis suis and no 'non est usque ad unum' → shared words copied, the phrase decided (iniquitatibus). 52:3 = 13:2 but Deus for Dóminus → copied with Deus. 52:4 = 13:3a → copied. 52:5 = 13:4 but scient / cognóscent, ut cibum / sicut escam (one Greek each) → copied. 52:6 = 13:5 but Deum / Dóminum → second colon copied, first decided (invocaverunt). 52:6b ≠ 13:6 → decided here. 52:7 = 13:7 but convérterit Deus / avérterit Dóminus → shared words copied, the verb decided (converterit). Ps 13:3b–3d (the Romans lines) have no counterpart. Checked every Ps 13 wording copied here against DECISIONS.md D1–D43 and the glossary: none has since been ruled against (the one later change in Ps 13, D38's 'carente' at 13:6, is in a verse Ps 52 does not share). Only difference of punctuation: the Latin of 52:3 and 52:6 has ':' where Ps 13 has ','; Ps 13's Portuguese punctuation kept."
+    },
+    {
+      "step": "draft",
+      "note": "Draft 1. Three things decided afresh: in iniquitátibus (no possessive), 52:6b whole (dissipáre → dispersar for bones, after 21:15; placére → agradar a; D15), and convértere captivitátem → 'reverter o cativeiro' (the glossary's 'fazer voltar' is heard as the captivity returning; proposed for 125:1, 125:4). Repeats found with ps005/grep_latin.py and ps038/xref.py: captivitátem (7 lines), dissipáre (4 translated), ossa (8 translated), placére (114:9), revérti (77:34, 103:29, 145:4 — intransitive, no collision with 'reverter'), in iniquitátibus (50:7, 105:43)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 52:3 first colon −3 (13:2's words with the one-syllable 'Deus' for 'o Senhor'; the Latin colon is long in proparoxytones); 52:6b first colon −3 (the Latin's 'Quóniam … homínibus' are long words; 'daqueles que' is an option in decision placent that recovers one). No rhyme flags."
+    }
+  ]
+}

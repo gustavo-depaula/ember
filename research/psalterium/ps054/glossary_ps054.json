@@ -1,0 +1,27 @@
+{
+  "append": [
+    {"row": "| declináre a |", "text": "**Ps 54:4 departs from the wording foreseen here:** *declinavérunt in me iniquitátes* → *Porque as iniquidades se voltaram contra mim* (v2). All three v1 readers heard bare *voltaram iniquidades contra mim* as \"came back, returned\"; the reflexive says \"turned against\". The object reading (LXX, DRB *cast*) survives only as the option *lançaram*. **20:12 *voltaram males contra vós* carries the same risk — for review.** Passed the Latinist gate."},
+    {"row": "| dedúcere, *deduc me* |", "text": "**Ps 54:24 *dedúces eos in púteum intéritus* → *os fareis descer ao poço da destruição*** (D25's build, κατάξεις); passed the Latinist twice."},
+    {"row": "| vir sánguinum |", "text": "Ps 54:24b applied as foreseen: *Os homens de sangue e enganadores*; the stylist's *e os enganadores* (two groups) is an option (decision `viri`); the blind reader heard violent men."},
+    {"row": "| enutríre |", "text": "Ps 54:23 applied: *e ele te nutrirá*; the blind reader heard 'sustain', with feeding behind it."},
+    {"row": "| molestus (*molésti esse*) |", "text": "Ps 54:4 applied: *e com ira me importunavam*; no reader remark."},
+    {"row": "| commutátio |", "text": "**Ps 54:20b *Non enim est illis commutátio* → *Pois para eles não há mudança*** — the local sense D43 allows (DRB 'change', MS1932 *mudança*; ἀντάλλαγμα is 'exchange'); *troca* the option. Passed the Latinist twice."},
+    {"row": "| contradíctio |", "text": "Ps 54:10 *contradictiónem in civitáte* → *a contenda na cidade* (the row). The Latinist asked *contradição* twice-minor (v1); refused for the row. The blind reader listed *contenda* as unknown."},
+    {"row": "| elongáre |", "text": "Ps 54:8 *Ecce, elongávi fúgiens* → *Eis que fui para longe, fugindo* (intransitive); the stylist asked *me afastei* (discédere's) — refused, option."}
+  ],
+  "terms": [
+    "| exercitátio | exercício (*Estou entristecido no meu exercício*) | open | Ps 54:3 only (grep); ἀδολεσχία; kept in the family of *exercéri* → *exercitar-se* (Ps 118). **The blind reader heard bodily exercise or a task**; options *meditação* (collides with meditátio), MS1932 *provação* (says trial). |",
+    "| contéxere | envolver (*e as trevas me envolveram*) | open | Ps 54:6 only (grep); ἐκάλυψεν; kept apart from coopérire → cobrir (43:20). Shares *envolver* with circumplécti (118:61). |",
+    "| solitúdo | solidão (*e permaneci na solidão*) | open | Ps 54:8; the place and the loneliness, as the Portuguese; the blind reader heard loneliness. *deserto* (MS1932) is desértum's. 101:7 *pellicáno solitúdinis*, 106:4 *Erravérunt in solitúdine* will test it. |",
+    "| pusillanímitas | desânimo (*do desânimo de espírito*) | open | Ps 54:9 only (grep); ὀλιγοψυχία; the cognate *pusilanimidade* long and bookish; MS1932 *abatimento*. |",
+    "| maledícere | amaldiçoar (*se o meu inimigo me tivesse amaldiçoado*) | open | Ps 54:13; against benedícere → bendizer (D11); 108:28 *Maledícent illi, et tu benedíces* will test whether the pair must be *maldizer … bendizer*. |",
+    "| unánimis | de uma só alma (*homem de uma só alma comigo*) | open | Ps 54:14; ἰσόψυχε. *comigo* supplied in v2: bare *de uma só alma* was heard as 'single-souled' / 'sincere' (stylist, blind reader). The Latinist gate asked *unânime* (said of groups) — refused. |",
+    "| notus (a person) | conhecido (*meu guia, e meu conhecido*) | open | Ps 54:14; 30:12 *notis meis* → *os meus conhecidos*; 87:9, 87:19. **Stylist and blind reader heard 'a mere acquaintance'**; held (notus is only 'known'); *íntimo* (DRB 'familiar') the option. |",
+    "| consénsus | concórdia (*na casa de Deus andávamos em concórdia*) | open | Ps 54:15 only (grep); ὁμόνοια; *consenso* a committee's word. |",
+    "| contamináre | contaminar (*Contaminaram a sua aliança*) | open | Ps 54:21; 105:39 *contamináta est* should agree; MS1932 *profanar* (the Greek) the option. |",
+    "| jáculum | dardo (*e elas mesmas são dardos*) | open | Ps 54:22; kept apart from sagítta → seta. |",
+    "| fluctuátio (*dare fluctuatiónem*) | não deixar vacilar (*para sempre não deixará vacilar o justo*) | open | Ps 54:23 only (grep); σάλος. dare + noun as 'allow' → *deixar* + inf.; *para sempre não* as 29:7, leaving the Latin's 'never' / 'not for ever' open. The Latinist gate asked *não dará … a vacilação* — refused (heavy), option. |",
+    "| dimidiáre | chegar à metade (*não chegarão à metade dos seus dias*) | open | Ps 54:24b only (grep); ἡμισεύσωσιν; MS1932's words; the blind reader heard 'die young'. |",
+    "| habitáculum | morada (*Porque há maldades nas moradas deles*) | open | Ps 54:16b; 32:14's word. |"
+  ]
+}

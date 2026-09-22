@@ -1,0 +1,1425 @@
+{
+  "psalm": 54,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "54:2": "{v2open} a minha oração, e não {despexeris} a minha prece: * atendei-me, e escutai-me.",
+    "54:3": "{sum3a} no meu {exercitatio}: * e {sum3b} pela voz do inimigo, e pela tribulação do pecador.",
+    "54:4": "Porque {declinaverunt}: * e com ira me importunavam.",
+    "54:5": "O meu coração {sum5} em mim: * e o pavor da morte caiu sobre mim.",
+    "54:6": "Temor e tremor vieram sobre mim: * e as trevas me {contexerunt}.",
+    "54:7": "E eu disse: Quem me dará asas como as da pomba, * {volabo}?",
+    "54:8": "{elongavi}: * e permaneci na {solitudine}.",
+    "54:9": "Eu aguardava aquele que me salvou * do {pusill} e da tempestade.",
+    "54:10": "{praecipita}, Senhor, {divide}: * porque vi a iniquidade e a {contradictio} na cidade.",
+    "54:11": "De dia e de noite a cercará por sobre os seus muros a iniquidade: * e no meio dela há fadiga, e injustiça.",
+    "54:12": "E não {defecit} das suas praças * a usura, e o engano.",
+    "54:13": "Porque, se o meu inimigo {maledixisset}, * eu o teria suportado, certamente.",
+    "54:13b": "E se aquele que me odiava tivesse falado grandezas contra mim, * talvez eu me tivesse escondido dele.",
+    "54:14": "{tuvero14}, homem {unanimis}: * meu guia, e meu {notus}:",
+    "54:15": "{qui15} comigo tomavas {cibos}: * na casa de Deus {ambulavimus} {consensu}.",
+    "54:16": "Venha a morte sobre eles: * e desçam vivos {infernum}:",
+    "54:16b": "Porque há maldades nas moradas deles: * no meio deles.",
+    "54:17": "Eu, porém, clamei a Deus: * e o Senhor me salvará.",
+    "54:18": "De tarde, e de manhã, e ao meio-dia narrarei e anunciarei: * e ele escutará a minha voz.",
+    "54:19": "Resgatará em paz a minha alma dos que se aproximam de mim: * {inter_multos}.",
+    "54:20": "Deus escutará, e os humilhará, * {ante_saecula}.",
+    "54:20b": "Pois para eles não há {commutatio}, e não temeram a Deus: * estendeu a sua mão {retribuendo}.",
+    "54:21": "{contaminaverunt} a sua aliança, foram divididos pela ira do seu rosto: * e o coração dele se aproximou.",
+    "54:22": "{molliti}: * e elas mesmas são dardos.",
+    "54:23": "Lança sobre o Senhor {cura}, e ele te nutrirá: * {fluctuatio}.",
+    "54:24": "{tuvero24}, Deus, os {deduces} * ao poço da destruição.",
+    "54:24b": "{viri} não {dimidiabunt}: * mas eu esperarei em vós, Senhor."
+  },
+  "decisions": [
+    {
+      "id": "v2open",
+      "refs": [
+        "54:2"
+      ],
+      "latin": "Exáudi, Deus, oratiónem meam",
+      "kind": "order",
+      "why": "Ps 53:4 has the same words in another order (Deus, exáudi oratiónem meam → 'Deus, escutai a minha oração'). Identical words get identical Portuguese (rule 6): escutai (D3), the bare vocative Deus (Ps 53's decision `deus`), a minha oração. The order follows each Latin line, since both orders are natural Portuguese; so a reader crossing columns finds the vocative where the Latin puts it.",
+      "options": [
+        {
+          "label": "Escutai, Deus,",
+          "forms": {
+            "v2open": "Escutai, Deus,"
+          },
+          "note": "Draft. The Latin's order; 53:4's words.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus, escutai",
+          "forms": {
+            "v2open": "Deus, escutai"
+          },
+          "note": "53:4's order, so that the two psalms open alike to the ear. The Latin does not open them alike.",
+          "from": "draft"
+        },
+        {
+          "label": "Escutai, ó Deus,",
+          "forms": {
+            "v2open": "Escutai, ó Deus,"
+          },
+          "note": "MS1932 ('Ouve, ó Deus'). The interjection is not in the Latin; Ps 53 refused it.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "despexeris",
+      "refs": [
+        "54:2"
+      ],
+      "latin": "ne despéxeris deprecatiónem meam",
+      "kind": "glossary",
+      "why": "despícere with God as subject → desdenhar (glossary, open: 9:22, 21:25 'nem desdenhou a prece do pobre', 26:9b 'nem me desdenheis'). 21:25 has the same object, deprecátio → prece (D35). The blind reader of Ps 9 did not know 'desdenhais' but heard 'despises'.",
+      "options": [
+        {
+          "label": "desdenheis",
+          "forms": {
+            "despexeris": "desdenheis"
+          },
+          "note": "Draft; the glossary row as applied in 21:25 and 26:9b.",
+          "from": "glossary"
+        },
+        {
+          "label": "desprezeis",
+          "forms": {
+            "despexeris": "desprezeis"
+          },
+          "note": "MS1932 'não desprezes'; the plainer word, but 21:25 keeps desprezar for spérnere beside it.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sum",
+      "refs": [
+        "54:3",
+        "54:5"
+      ],
+      "latin": "Contristátus sum … conturbátus sum … Cor meum conturbátum est",
+      "kind": "grammar",
+      "why": "Three perfect passives saying a state that holds now. Portuguese says the state with estar + participle ('estou perturbado'); the past tense ('entristeci-me') tells an event. Ps 6:3–4 said the same Latin as a state ('os meus ossos estão perturbados'). contristári → entristecer-se (D42), conturbáre → perturbar (glossary).",
+      "options": [
+        {
+          "label": "Estou entristecido … estou perturbado … está perturbado",
+          "forms": {
+            "sum3a": "Estou entristecido",
+            "sum3b": "estou perturbado",
+            "sum5": "está perturbado"
+          },
+          "note": "Draft; the state, as 6:3–4. MS1932 'Estou triste … estou conturbado … está perturbado'.",
+          "from": "draft"
+        },
+        {
+          "label": "Entristeci-me … perturbei-me … se perturbou",
+          "forms": {
+            "sum3a": "Entristeci-me",
+            "sum3b": "perturbei-me",
+            "sum5": "se perturbou"
+          },
+          "note": "The perfect as an event.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exercitatio",
+      "refs": [
+        "54:3"
+      ],
+      "latin": "in exercitatióne mea",
+      "kind": "word",
+      "why": "The only place of the noun. The verb exercéri stands seven times (76:4, 76:7, 76:13; 118:15, 23, 27, 48, 78) and Ps 118 renders it 'exercitar-se' ('Nos vossos mandamentos me exercitarei'); the Greek here is ἀδολεσχία, the noun of the verb behind 118:15 (musing, pondering). DRB 'I am grieved in my exercise'. The cognate keeps the family and the Latin word; the risk is that 'exercício' is heard as bodily exercise. MS1932's 'provação' explains, and says trial, which the Latin does not.",
+      "options": [
+        {
+          "label": "exercício",
+          "forms": {
+            "exercitatio": "exercício"
+          },
+          "note": "Draft. The Latin's word and Ps 118's family (exercitar-se); DRB 'exercise'.",
+          "from": "draft"
+        },
+        {
+          "label": "meditação",
+          "forms": {
+            "exercitatio": "meditação"
+          },
+          "note": "The Greek's sense (ἀδολεσχία); but meditátio is another Latin word (1:2, 18:15, 118:97), and this would collide with it.",
+          "from": "draft"
+        },
+        {
+          "label": "provação",
+          "forms": {
+            "exercitatio": "provação"
+          },
+          "note": "MS1932. Explains; says trial.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "declinaverunt",
+      "refs": [
+        "54:4"
+      ],
+      "latin": "declinavérunt in me iniquitátes",
+      "kind": "word",
+      "why": "The same build as 20:12 'declinavérunt in te mala' → 'voltaram males contra vós' (the stylist's verb, taken there). The Latin does not say whether iniquitátes is the subject (iniquities turned upon me) or the object (they turned iniquities upon me; the Greek has an object, ἐξέκλιναν … ἀνομίαν, and DRB 'they have cast iniquities upon me'). 'voltaram iniquidades contra mim' holds both readings, as 20:12 does. **v2:** all three readers heard *voltaram* first as \"came back\" (a second time), a sense the Latin has not; the reflexive *se voltaram* is \"turned against\" and nothing else. The price: *iniquitátes* becomes the subject, and the object reading (the Greek's, DRB's *cast*) is kept only in the option *lançaram*. The glossary row *declináre a* foresaw 20:12's wording here; 20:12 *voltaram males contra vós* carries the same risk — for review.",
+      "options": [
+        {
+          "label": "as iniquidades se voltaram contra mim",
+          "forms": {
+            "declinaverunt": "as iniquidades se voltaram contra mim"
+          },
+          "note": "v2; the stylist's wording; heard as \"turned against\", not \"returned\" (all three readers).",
+          "from": "stylist"
+        },
+        {
+          "label": "voltaram iniquidades contra mim",
+          "forms": {
+            "declinaverunt": "voltaram iniquidades contra mim"
+          },
+          "note": "Draft 1; 20:12's build. Heard as \"came back\" by all three readers.",
+          "from": "draft"
+        },
+        {
+          "label": "lançaram iniquidades sobre mim",
+          "forms": {
+            "declinaverunt": "lançaram iniquidades sobre mim"
+          },
+          "note": "DRB 'cast'. Makes the enemies the subject and changes the verb.",
+          "from": "DRB"
+        },
+        {
+          "label": "desviaram iniquidades contra mim",
+          "forms": {
+            "declinaverunt": "desviaram iniquidades contra mim"
+          },
+          "note": "Ps 20:12 draft 1 (declináre's own verb, 13:3a); refused there by the stylist.",
+          "from": "draft"
+        },
+        {
+          "label": "declinaram iniquidades sobre mim",
+          "forms": {
+            "declinaverunt": "declinaram iniquidades sobre mim"
+          },
+          "note": "The Latinist (v1). The cognate; in Portuguese *declinar* + object is first \"to decline, refuse\".",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "contexerunt",
+      "refs": [
+        "54:6"
+      ],
+      "latin": "contexérunt me ténebræ",
+      "kind": "word",
+      "why": "contéxere is to weave together, to cover over (only here in the psalter, grep); the Greek ἐκάλυψεν is 'covered'. 'envolveram' keeps something of the Latin's wrapping; 'cobriram' is the Greek and 43:20's word for coopérire ('a sombra da morte nos cobriu').",
+      "options": [
+        {
+          "label": "envolveram",
+          "forms": {
+            "contexerunt": "envolveram"
+          },
+          "note": "Draft; MS1932 'as trevas me envolveram'. Kept apart from coopérire → cobrir (43:20).",
+          "from": "draft"
+        },
+        {
+          "label": "cobriram",
+          "forms": {
+            "contexerunt": "cobriram"
+          },
+          "note": "The Greek; DRB 'covered'. Merges with coopérire.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "volabo",
+      "refs": [
+        "54:7"
+      ],
+      "latin": "et volábo, et requiéscam?",
+      "kind": "grammar",
+      "why": "The Latin coordinates two futures after the wish 'Quis dabit mihi…?' (DRB 'and I will fly and be at rest?'). MS1932 turns them into purpose ('para voar e descansar'), which is how Portuguese usually builds it. The coordination is kept: it is sayable and the question still carries it. requiéscere → repousar (glossary).",
+      "options": [
+        {
+          "label": "e voarei, e repousarei",
+          "forms": {
+            "volabo": "e voarei, e repousarei"
+          },
+          "note": "Draft; the Latin's futures and double 'et'.",
+          "from": "draft"
+        },
+        {
+          "label": "para voar e repousar",
+          "forms": {
+            "volabo": "para voar e repousar"
+          },
+          "note": "MS1932's build; purpose where the Latin coordinates.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "elongavi",
+      "refs": [
+        "54:8"
+      ],
+      "latin": "Ecce, elongávi fúgiens",
+      "kind": "word",
+      "why": "elongáre keeps the Latin's 'longe' in this project (glossary, open: 21:20, 39:12 'pôr longe'); here it is intransitive, 'I went far off' (ἐμάκρυνα). 'afastar-se' is discédere's (glossary). The participle fúgiens stays a participle.",
+      "options": [
+        {
+          "label": "Eis que fui para longe, fugindo",
+          "forms": {
+            "elongavi": "Eis que fui para longe, fugindo"
+          },
+          "note": "Draft; the 'longe' of the row; DRB 'I have gone far off flying away'.",
+          "from": "draft"
+        },
+        {
+          "label": "Eis que me afastei, fugindo",
+          "forms": {
+            "elongavi": "Eis que me afastei, fugindo"
+          },
+          "note": "The stylist (v1) and MS1932. afastar is discédere's; the Latin's *longe* lost.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "solitudine",
+      "refs": [
+        "54:8"
+      ],
+      "latin": "et mansi in solitúdine",
+      "kind": "word",
+      "why": "solitúdo is a lonely place, a wilderness (ἐρήμῳ), and also loneliness. Portuguese 'solidão' has both senses too, the second first. 'deserto' is the Greek and DRB's 'wilderness', MS1932's 'deserto', but it spends desértum's word (28:8, 77:40, 105:14 …). 101:7 'pellicáno solitúdinis' and 106:4 'Erravérunt in solitúdine' will test the row.",
+      "options": [
+        {
+          "label": "solidão",
+          "forms": {
+            "solitudine": "solidão"
+          },
+          "note": "Draft; the Latin's word with its two senses.",
+          "from": "draft"
+        },
+        {
+          "label": "deserto",
+          "forms": {
+            "solitudine": "deserto"
+          },
+          "note": "MS1932; the place only; desértum's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pusill",
+      "refs": [
+        "54:9"
+      ],
+      "latin": "a pusillanimitáte spíritus",
+      "kind": "word",
+      "why": "pusillanímitas (only here, grep) is smallness of soul, faint-heartedness (ὀλιγοψυχία). The cognate 'pusilanimidade' is a real word but six syllables and bookish; 'desânimo' says lack of heart plainly; MS1932 'abatimento' says dejection.",
+      "options": [
+        {
+          "label": "desânimo de espírito",
+          "forms": {
+            "pusill": "desânimo de espírito"
+          },
+          "note": "Draft; the plainer of two faithful words (D2).",
+          "from": "draft"
+        },
+        {
+          "label": "pusilanimidade de espírito",
+          "forms": {
+            "pusill": "pusilanimidade de espírito"
+          },
+          "note": "The cognate; DRB 'pusillanimity of spirit'. Long and learned.",
+          "from": "DRB"
+        },
+        {
+          "label": "abatimento de espírito",
+          "forms": {
+            "pusill": "abatimento de espírito"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praecipita",
+      "refs": [
+        "54:10"
+      ],
+      "latin": "Præcípita, Dómine",
+      "kind": "grammar",
+      "why": "The Latin imperative has no object of its own (καταπόντισον, 'sink them'). Bare 'Precipitai, Senhor' is heard in Portuguese as 'hasten, Lord' — a wrong first hearing. The object 'them' (the enemies of the next colon) is supplied, as MS1932 does ('Precipita-os'); DRB 'Cast down, O Lord'.",
+      "options": [
+        {
+          "label": "Precipitai-os",
+          "forms": {
+            "praecipita": "Precipitai-os"
+          },
+          "note": "Draft; the object supplied, as MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Precipitai",
+          "forms": {
+            "praecipita": "Precipitai"
+          },
+          "note": "The Latin's bare verb; heard as 'hasten'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "divide",
+      "refs": [
+        "54:10"
+      ],
+      "latin": "dívide linguas eórum",
+      "kind": "grammar",
+      "why": "The bare 'dividi as suas línguas' is banned (rule 3: 'dividi' is also 'I divided'). D13 lets the imperative stand with an enclitic pronoun: 'dividi-lhes as línguas'. Here the ear is helped further by the imperative 'Precipitai-os' and the vocative 'Senhor' just before it in the same colon. dividere comes back at 54:21 'divísi sunt' → 'foram divididos', so the psalm's one verb is kept. 'fendei' (split) avoids the question but loses that echo; MS1932 'confunde' says Babel, not the Latin.",
+      "options": [
+        {
+          "label": "dividi-lhes as línguas",
+          "forms": {
+            "divide": "dividi-lhes as línguas"
+          },
+          "note": "Draft; D13's enclitic imperative; the echo with 54:21 kept.",
+          "from": "draft"
+        },
+        {
+          "label": "fendei as suas línguas",
+          "forms": {
+            "divide": "fendei as suas línguas"
+          },
+          "note": "Safe at the vós imperative (fendei ≠ fendi); another verb from 54:21.",
+          "from": "draft"
+        },
+        {
+          "label": "dividi as suas línguas",
+          "forms": {
+            "divide": "dividi as suas línguas"
+          },
+          "note": "The bare form; banned by rule 3. For reference only.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "contradictio",
+      "refs": [
+        "54:10"
+      ],
+      "latin": "et contradictiónem in civitáte",
+      "kind": "glossary",
+      "why": "contradíctio → contenda (glossary, open: 17:44, 30:21b; ἀντιλογία). 54:10 is one of the places the row lists. The blind reader of Ps 17 heard 'contradições' as inconsistencies.",
+      "options": [
+        {
+          "label": "contenda",
+          "forms": {
+            "contradictio": "contenda"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "contradição",
+          "forms": {
+            "contradictio": "contradição"
+          },
+          "note": "MS1932, DRB; the cognate.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "defecit",
+      "refs": [
+        "54:12"
+      ],
+      "latin": "Et non defécit de platéis ejus",
+      "kind": "word",
+      "why": "defícere de: 'has not failed from, not gone out of' her streets (οὐκ ἐξέλιπεν ἐκ). The glossary's 'desfalecer' is for defícere of strength and soul; with 'de' and a place it is 'go missing from'. The Latin verb is singular with two subjects; Portuguese makes it plural (grammar).",
+      "options": [
+        {
+          "label": "desapareceram",
+          "forms": {
+            "defecit": "desapareceram"
+          },
+          "note": "Draft; 'failed from' as 'gone missing from'.",
+          "from": "draft"
+        },
+        {
+          "label": "se apartaram",
+          "forms": {
+            "defecit": "se apartaram"
+          },
+          "note": "The stylist (v1); MS1932 has *se afastaram*. apartar-se is declináre a's (glossary), afastar-se discédere's.",
+          "from": "stylist"
+        },
+        {
+          "label": "faltaram",
+          "forms": {
+            "defecit": "faltaram"
+          },
+          "note": "Literal 'failed'; 'faltar de' is awkward.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "maledixisset",
+      "refs": [
+        "54:13"
+      ],
+      "latin": "si inimícus meus maledixísset mihi",
+      "kind": "word",
+      "why": "maledícere is to curse or revile (the Greek ὠνείδισεν is 'reproached'; DRB 'reviled'). Proposed row: maledícere → amaldiçoar, against benedícere → bendizer (D11); 108:28 'Maledícent illi, et tu benedíces' will test whether the pair must become 'maldizer … bendizer'.",
+      "options": [
+        {
+          "label": "me tivesse amaldiçoado",
+          "forms": {
+            "maledixisset": "me tivesse amaldiçoado"
+          },
+          "note": "Draft; the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "tivesse falado mal de mim",
+          "forms": {
+            "maledixisset": "tivesse falado mal de mim"
+          },
+          "note": "MS1932; 'speak ill', the root's parts.",
+          "from": "MS1932"
+        },
+        {
+          "label": "me tivesse insultado",
+          "forms": {
+            "maledixisset": "me tivesse insultado"
+          },
+          "note": "The Greek's sense (ὠνείδισεν); obloqui → insultar (D43) already has it.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "tuvero",
+      "refs": [
+        "54:14",
+        "54:24"
+      ],
+      "latin": "Tu vero, homo … / Tu vero, Deus …",
+      "kind": "glossary",
+      "why": "The Latin turns twice with the same words: to the false friend (54:14) and to God (54:24). Rule 3 splits the pronoun (a singular man is tu, God is vós), so the echo can only be kept in the rest of the phrase: '… porém' in both. 'Vós, porém, Senhor' is 40:11's Tu autem.",
+      "options": [
+        {
+          "label": "Tu, porém / Vós, porém",
+          "forms": {
+            "tuvero14": "Tu, porém",
+            "tuvero24": "Vós, porém"
+          },
+          "note": "Draft; the two turns sound alike but for the pronoun; 40:11's build.",
+          "from": "draft"
+        },
+        {
+          "label": "Mas tu / Mas vós",
+          "forms": {
+            "tuvero14": "Mas tu",
+            "tuvero24": "Mas vós"
+          },
+          "note": "MS1932's 'Mas tu'; 'mas' is also the psalm's ego autem at 54:24b, so two 'mas' back to back at the close.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "unanimis",
+      "refs": [
+        "54:14"
+      ],
+      "latin": "homo unánimis",
+      "kind": "word",
+      "why": "unánimis, 'of one soul' (ἰσόψυχε, 'equal-souled'), of one man: of one mind with me. Portuguese 'unânime' is said of groups. 'de uma só alma' keeps both parts of the Latin word; whether 'with me' is heard is left to the verse's second colon and to 54:15 'comigo', as in the Latin. MS1932 'que eras um comigo' explains. **v2:** the stylist and the blind reader both heard *homem de uma só alma* as \"a man with a single soul\" or \"a sincere man\"; *comigo* is supplied (ἰσόψυχε is \"equal-souled\", equal to someone), as *Precipitai-os* supplies an object against a wrong first hearing. 54:15 repeats *comigo* for the Latin's *mecum*.",
+      "options": [
+        {
+          "label": "de uma só alma comigo",
+          "forms": {
+            "unanimis": "de uma só alma comigo"
+          },
+          "note": "v2; the stylist; *with me* supplied against the reading \"single-souled\".",
+          "from": "stylist"
+        },
+        {
+          "label": "de uma só alma",
+          "forms": {
+            "unanimis": "de uma só alma"
+          },
+          "note": "Draft 1; úna ánima, bare. Heard as \"only one soul\" or \"sincere\".",
+          "from": "draft"
+        },
+        {
+          "label": "unânime",
+          "forms": {
+            "unanimis": "unânime"
+          },
+          "note": "The cognate; DRB 'a man of one mind'. Said of groups in Portuguese. The v2 Latinist asked *homem unânime*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "notus",
+      "refs": [
+        "54:14"
+      ],
+      "latin": "et notus meus",
+      "kind": "word",
+      "why": "notus is 'one known to me', a familiar (γνωστέ). 30:12 'timor notis meis' → 'temor para os meus conhecidos', and 87:9, 87:19 have the plural. 'conhecido' in Brazil can sound like a mere acquaintance, which undercuts a lament about a close friend; but the Latin word is that word, and the verse says the closeness itself (unánimis, dux). **v2:** the stylist and the blind reader heard \"a mere acquaintance\". Held: *notus* is as plain as *conhecido* (only \"known\"); the closeness is said beside it by *de uma só alma comigo* and *meu guia*, and 54:15.",
+      "options": [
+        {
+          "label": "conhecido",
+          "forms": {
+            "notus": "conhecido"
+          },
+          "note": "Draft; 30:12's word.",
+          "from": "draft"
+        },
+        {
+          "label": "íntimo",
+          "forms": {
+            "notus": "íntimo"
+          },
+          "note": "The stylist (v1); DRB \"my familiar\". Says the closeness the Latin word does not say.",
+          "from": "stylist"
+        },
+        {
+          "label": "amigo",
+          "forms": {
+            "notus": "amigo"
+          },
+          "note": "MS1932. Another word (amícus, 87:19).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "qui15",
+      "refs": [
+        "54:15"
+      ],
+      "latin": "Qui simul mecum",
+      "kind": "grammar",
+      "why": "The relative runs on from 54:14's vocative. 'Que' at the head of a verse can be heard as an exclamation; 'Tu que' names the subject again. Draft keeps the Latin's bare relative after the colon that ends 54:14.",
+      "options": [
+        {
+          "label": "Que juntamente",
+          "forms": {
+            "qui15": "Que juntamente"
+          },
+          "note": "Draft; MS1932 'que tomavas juntamente comigo'.",
+          "from": "draft"
+        },
+        {
+          "label": "Tu que juntamente",
+          "forms": {
+            "qui15": "Tu que juntamente"
+          },
+          "note": "The subject named (D2). The stylist (v1) asked *Tu, que comigo juntamente*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cibos",
+      "refs": [
+        "54:15"
+      ],
+      "latin": "dulces capiébas cibos",
+      "kind": "word",
+      "why": "cibus → food (glossary esca / cibus, open); with dulces, 'sweet foods'. 'manjar' is a dish, a delicacy — current and not archaic; 'alimentos' is flat and clinical beside 'doces'. dulcis → doce (glossary).",
+      "options": [
+        {
+          "label": "doces manjares",
+          "forms": {
+            "cibos": "doces manjares"
+          },
+          "note": "Draft; MS1932 'doces manjares'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "doces alimentos",
+          "forms": {
+            "cibos": "doces alimentos"
+          },
+          "note": "The plainer noun.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ambulavimus",
+      "refs": [
+        "54:15"
+      ],
+      "latin": "in domo Dei ambulávimus",
+      "kind": "grammar",
+      "why": "ambulávimus is perfect, but in Portuguese 'andamos' is both present and preterite, and the present ('we walk') would say the friendship still stands, which is the opposite of the verse. The imperfect 'andávamos' matches 'tomavas' (capiébas) and says it was so and is no more. Tense is grammar (D2).",
+      "options": [
+        {
+          "label": "andávamos",
+          "forms": {
+            "ambulavimus": "andávamos"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "andamos",
+          "forms": {
+            "ambulavimus": "andamos"
+          },
+          "note": "The Latin's perfect; heard as present.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "consensu",
+      "refs": [
+        "54:15"
+      ],
+      "latin": "cum consénsu",
+      "kind": "word",
+      "why": "consénsus (only here) is agreement, concord (ἐν ὁμονοίᾳ, 'in one-mindedness'). 'com consenso' is a committee's word. 'em concórdia' is the plain Portuguese for walking together in agreement.",
+      "options": [
+        {
+          "label": "em concórdia",
+          "forms": {
+            "consensu": "em concórdia"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "de comum acordo",
+          "forms": {
+            "consensu": "de comum acordo"
+          },
+          "note": "Heard as 'by mutual decision'.",
+          "from": "draft"
+        },
+        {
+          "label": "com consenso",
+          "forms": {
+            "consensu": "com consenso"
+          },
+          "note": "The cognate; DRB 'with consent'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "infernum",
+      "refs": [
+        "54:16"
+      ],
+      "latin": "descéndant in inférnum vivéntes",
+      "kind": "glossary",
+      "why": "inférnus → inferno (glossary, open: 6:6, 17:6, 29:4, 30:18 'sejam conduzidos ao inferno'). Here the image is of the earth swallowing men alive (Num 16:33); 'desçam vivos ao inferno' is also MS1932's and DRB's ('go down alive into hell').",
+      "options": [
+        {
+          "label": "ao inferno",
+          "forms": {
+            "infernum": "ao inferno"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "à mansão dos mortos",
+          "forms": {
+            "infernum": "à mansão dos mortos"
+          },
+          "note": "The row's option: the abode of the dead.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "inter_multos",
+      "refs": [
+        "54:19"
+      ],
+      "latin": "quóniam inter multos erant mecum",
+      "kind": "ambiguity",
+      "why": "Obscure in the Latin, as in the Greek (ὅτι ἐν πολλοῖς ἦσαν σὺν ἐμοί): 'among many they were with me' — they were many with me (against me), or I was not alone. DRB keeps it word for word. MS1932 resolves it ('porque eles são muitos contra mim'), turning 'with' into 'against'.",
+      "options": [
+        {
+          "label": "porque entre muitos estavam comigo",
+          "forms": {
+            "inter_multos": "porque entre muitos estavam comigo"
+          },
+          "note": "Draft; the Latin's words, the ambiguity left.",
+          "from": "draft"
+        },
+        {
+          "label": "porque eram muitos contra mim",
+          "forms": {
+            "inter_multos": "porque eram muitos contra mim"
+          },
+          "note": "MS1932's reading; resolves, and changes 'with' to 'against'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ante_saecula",
+      "refs": [
+        "54:20"
+      ],
+      "latin": "qui est ante sǽcula",
+      "kind": "grammar",
+      "why": "The relative is God's, held back to the end of the verse. 'ele, que é antes dos séculos' names him again with the lightest word, so that the colon does not hang and is not heard as 'what is before the ages'; 'é' keeps est. MS1932 'aquele que existe antes dos séculos'; D39 keeps 'existir' for absolute esse, which this is not.",
+      "options": [
+        {
+          "label": "ele, que é antes dos séculos",
+          "forms": {
+            "ante_saecula": "ele, que é antes dos séculos"
+          },
+          "note": "Draft (after checks: 'aquele que é' was +4 against the Latin's seven syllables).",
+          "from": "checks"
+        },
+        {
+          "label": "aquele que é antes dos séculos",
+          "forms": {
+            "ante_saecula": "aquele que é antes dos séculos"
+          },
+          "note": "First pencilled form; +4.",
+          "from": "draft"
+        },
+        {
+          "label": "aquele que existe antes dos séculos",
+          "forms": {
+            "ante_saecula": "aquele que existe antes dos séculos"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "commutatio",
+      "refs": [
+        "54:20b"
+      ],
+      "latin": "Non enim est illis commutátio",
+      "kind": "glossary",
+      "why": "commutátio → troca is settled (D43) for 43:13, where it is a sale ('nas trocas deles'); D43 says 88:52 decides its own sense, and so must this verse. Here the Latin is read by both Vulgate-family witnesses as change (DRB 'there is no change with them', MS1932 'não há mudança neles'): they do not change, and do not fear God. The Greek ἀντάλλαγμα is 'something given in exchange' (a ransom), so 'troca' keeps the Greek, and 'mudança' the Latin as it was read. 'para eles' keeps the dative's openness ('they have no change' / 'there is none for them').",
+      "options": [
+        {
+          "label": "mudança",
+          "forms": {
+            "commutatio": "mudança"
+          },
+          "note": "Draft; DRB, MS1932; the local sense D43 allows.",
+          "from": "draft"
+        },
+        {
+          "label": "troca",
+          "forms": {
+            "commutatio": "troca"
+          },
+          "note": "D43's word; the Greek's 'exchange'. Heard as a swap.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "retribuendo",
+      "refs": [
+        "54:20b"
+      ],
+      "latin": "exténdit manum suam in retribuéndo",
+      "kind": "grammar",
+      "why": "in + gerund: 'in repaying'. Portuguese has no 'em retribuir'; 'para retribuir' makes it purpose (DRB 'to repay'), 'ao retribuir' makes it time. Who stretches out the hand — God or the traitor — the Latin leaves open, and so does 'estendeu a sua mão'. retribúere → retribuir (glossary). **v2:** the Latinist: *in* + ablative gerund is \"in the act of repaying\" (ἐν τῷ ἀποδιδόναι), not purpose. *ao retribuir* is the Portuguese of that build.",
+      "options": [
+        {
+          "label": "ao retribuir",
+          "forms": {
+            "retribuendo": "ao retribuir"
+          },
+          "note": "v2; the Latinist; \"in repaying\", the Latin's *in* + gerund.",
+          "from": "latinist"
+        },
+        {
+          "label": "para retribuir",
+          "forms": {
+            "retribuendo": "para retribuir"
+          },
+          "note": "Draft 1; DRB \"to repay\". Purpose, which the Latin has not.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "contaminaverunt",
+      "refs": [
+        "54:21"
+      ],
+      "latin": "Contaminavérunt testaméntum ejus",
+      "kind": "word",
+      "why": "contamináre (here and 105:39 'contamináta est in opéribus eórum') is to defile, pollute (ἐβεβήλωσαν, 'profaned'). The cognate is current and keeps the image of stain; 'profanar' (MS1932) is the Greek's word. testaméntum → aliança (glossary).",
+      "options": [
+        {
+          "label": "Contaminaram",
+          "forms": {
+            "contaminaverunt": "Contaminaram"
+          },
+          "note": "Draft; the Latin's word, as 105:39 will want.",
+          "from": "draft"
+        },
+        {
+          "label": "Profanaram",
+          "forms": {
+            "contaminaverunt": "Profanaram"
+          },
+          "note": "MS1932; the Greek.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "molliti",
+      "refs": [
+        "54:22"
+      ],
+      "latin": "Mollíti sunt sermónes ejus super óleum",
+      "kind": "word",
+      "why": "'His words were made soft beyond oil.' The verb is kept as a becoming ('tornaram-se mais brandas'); MS1932 'são mais suaves que o azeite' drops it. sermo → palavra (D15). oleum → óleo, as 22:5b and 44:8 have it ('azeite' is 4:8's oil as produce).",
+      "options": [
+        {
+          "label": "As suas palavras tornaram-se mais brandas que o óleo",
+          "forms": {
+            "molliti": "As suas palavras tornaram-se mais brandas que o óleo"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "As suas palavras amoleceram mais que o óleo",
+          "forms": {
+            "molliti": "As suas palavras amoleceram mais que o óleo"
+          },
+          "note": "The verb itself; 'amolecer' says soft, not smooth.",
+          "from": "draft"
+        },
+        {
+          "label": "As suas palavras são mais suaves que o azeite",
+          "forms": {
+            "molliti": "As suas palavras são mais suaves que o azeite"
+          },
+          "note": "MS1932; the verb dropped.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cura",
+      "refs": [
+        "54:23"
+      ],
+      "latin": "Jacta super Dóminum curam tuam",
+      "kind": "word",
+      "why": "Spoken to a single hearer: tu (rule 3). cura is care, anxiety (μέριμνα). 'o teu cuidado' is the Latin's number and word; MS1932 has the plural 'os teus cuidados', which is how the phrase is often said.",
+      "options": [
+        {
+          "label": "o teu cuidado",
+          "forms": {
+            "cura": "o teu cuidado"
+          },
+          "note": "Draft; DRB 'thy care'.",
+          "from": "DRB"
+        },
+        {
+          "label": "os teus cuidados",
+          "forms": {
+            "cura": "os teus cuidados"
+          },
+          "note": "MS1932; the plural.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a tua preocupação",
+          "forms": {
+            "cura": "a tua preocupação"
+          },
+          "note": "The plainest modern word for the anxiety; flatter.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fluctuatio",
+      "refs": [
+        "54:23"
+      ],
+      "latin": "non dabit in ætérnum fluctuatiónem justo",
+      "kind": "grammar",
+      "why": "'He will not give wavering to the just for ever' (οὐ δώσει … σάλον, a tossing like the sea's). L&S: fluctuátio, 'wavering, vacillation'. dare + noun is an idiom for 'allow'; Portuguese says it with 'deixar' + infinitive (the glossary's 'dare + inf. → deixar + inf.'). 'para sempre não …' is the build of 14:5b and 29:7 ('para sempre não será abalado'). The noun is made a verb: grammar, not sense. **v2:** the blind reader heard \"never\", with the weaker \"not for ever\" possible — which the Latin also allows (*non … in ætérnum*); kept open, as 29:7.",
+      "options": [
+        {
+          "label": "para sempre não deixará vacilar o justo",
+          "forms": {
+            "fluctuatio": "para sempre não deixará vacilar o justo"
+          },
+          "note": "Draft; ends on the Latin's last word.",
+          "from": "draft"
+        },
+        {
+          "label": "não dará para sempre agitação ao justo",
+          "forms": {
+            "fluctuatio": "não dará para sempre agitação ao justo"
+          },
+          "note": "dare and the noun kept; MS1932's 'agitação'.",
+          "from": "draft"
+        },
+        {
+          "label": "não deixará o justo para sempre vacilar",
+          "forms": {
+            "fluctuatio": "não deixará o justo para sempre vacilar"
+          },
+          "note": "The stylist (v1). Tips the colon to \"not waver for ever\" (but for a while).",
+          "from": "stylist"
+        },
+        {
+          "label": "não dará para sempre ao justo a vacilação",
+          "forms": {
+            "fluctuatio": "não dará para sempre ao justo a vacilação"
+          },
+          "note": "The v2 Latinist; dare and the noun kept. *vacilação* is abstract and heavy at the close.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "deduces",
+      "refs": [
+        "54:24"
+      ],
+      "latin": "dedúces eos, in púteum intéritus",
+      "kind": "glossary",
+      "why": "D22's 'guiar' is for guidance (deduc me). When dedúcere takes men or things down to a place below, the psalms so far said 'fazer descer' (7:6 'faça descer ao pó', 21:16 'me fizestes descer ao pó da morte'); 30:18 'deducántur in inférnum' has 'sejam conduzidos'. The Greek here is κατάξεις, 'bring down'. intéritus → destruição (glossary).",
+      "options": [
+        {
+          "label": "fareis descer",
+          "forms": {
+            "deduces": "fareis descer"
+          },
+          "note": "Draft; 7:6, 21:16; DRB 'bring them down'.",
+          "from": "draft"
+        },
+        {
+          "label": "conduzireis",
+          "forms": {
+            "deduces": "conduzireis"
+          },
+          "note": "MS1932; 30:18's verb. Safe outside the imperative.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dimidiabunt",
+      "refs": [
+        "54:24b"
+      ],
+      "latin": "non dimidiábunt dies suos",
+      "kind": "word",
+      "why": "dimidiáre (only here) is to halve: 'they will not halve their days', i.e. not live half of them (ἡμισεύσωσιν). The word for word 'não dividirão ao meio os seus dias' is not understood. MS1932 'não chegarão à metade dos seus dias' keeps the half and says it plainly.",
+      "options": [
+        {
+          "label": "chegarão à metade dos seus dias",
+          "forms": {
+            "dimidiabunt": "chegarão à metade dos seus dias"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "viverão a metade dos seus dias",
+          "forms": {
+            "dimidiabunt": "viverão a metade dos seus dias"
+          },
+          "note": "DRB 'shall not live out half their days'.",
+          "from": "DRB"
+        },
+        {
+          "label": "dividirão ao meio os seus dias",
+          "forms": {
+            "dimidiabunt": "dividirão ao meio os seus dias"
+          },
+          "note": "Word for word; opaque.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "viri",
+      "refs": [
+        "54:24b"
+      ],
+      "latin": "Viri sánguinum et dolósi",
+      "kind": "ambiguity",
+      "why": "The Latin lets *dolósi* be a second adjective of *viri* (men of blood and deceitful) or a second group (the bloody men and the deceitful). *Os homens de sangue e enganadores* keeps both; the stylist's second article picks the two groups. The glossary row (D29) foresaw this wording.",
+      "options": [
+        {
+          "label": "Os homens de sangue e enganadores",
+          "forms": {
+            "viri": "Os homens de sangue e enganadores"
+          },
+          "note": "Draft; both readings open.",
+          "from": "draft"
+        },
+        {
+          "label": "Os homens de sangue e os enganadores",
+          "forms": {
+            "viri": "Os homens de sangue e os enganadores"
+          },
+          "note": "The stylist (v1); two groups.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "54:2": "D3 escutar (twice, the Latin's repetition kept) and atender for inténde; 'atendei-me' has a pronoun object, so D40's 'atender em' does not arise. deprecátio → prece (D35).",
+    "54:3": "a voce … a tribulatióne: 'pela' for the cause, twice, as the Latin repeats 'a'. tribulátio → tribulação; peccátor → pecador.",
+    "54:4": "molésti esse → importunar, as the glossary row directs (34:13; this is the only other place). The Greek here is ἐνεκότουν ('bore a grudge'), not 34:13's παρενοχλεῖν; the Latin word is one, so the Portuguese is one. in ira → 'com ira' (the Latin has no possessive).",
+    "54:5": "in me → 'em mim', as 41:5; formído → pavor (the noun of the formidáre row).",
+    "54:6": "timor … tremor → temor … tremor (glossary; the Latin's own chime).",
+    "54:7": "pennæ → asas (glossary, open; no alæ in this psalm to collide with). sicut colúmbæ → 'como as da pomba'. Quis dabit → 'Quem … dará' (13:7).",
+    "54:8": "ecce → eis (glossary). manére → permanecer.",
+    "54:9": "exspectáre → aguardar (D24), imperfect as 118:166 'Eu aguardava'. salvum me fecit → 'me salvou' (17:20). tempéstas → tempestade.",
+    "54:11": "circumdáre → cercar (glossary). **v2:** the Latin's order (*circúmdabit eam super muros ejus iníquitas*), the subject last: the stylist heard *a iniquidade a cercará* as article and clitic colliding, and the blind reader could not parse it. *por sobre* (the stylist) for *super* of going along the walls; *os seus muros* is the city's, with *iniquidade* not yet said. labor → fadiga (glossary); injustítia → injustiça. 'há' supplied in the verbless second colon (D2). die ac nocte → 'de dia e de noite' (31:4, 41:4).",
+    "54:12": "usúra → usura (glossary); dolus → engano (glossary). **v2:** *das suas praças* (the stylist) for *dela*, the third *-dela* in two verses; *dela* of 54:11b just before says whose.",
+    "54:13": "sustinére of a thing endured → suportar (glossary row sustinére). útique → certamente, at the end as in the Latin — which also breaks the rhyme 'amaldiçoado / suportado' that checks flagged at mediant and final. The second colon stays +5: one Latin word (sustinuíssem) needs four. The two conditions of 54:13 and 54:13b are built alike.",
+    "54:13b": "magna loqui super me → falar grandezas contra mim (D39, as 37:17). fórsitan → talvez. The long first colon (+4 against the Latin) comes from Portuguese's compound pluperfect; no word is supplied. The stylist (v1) asked *dito contra mim grandes coisas*; refused (D39).",
+    "54:14": "A singular human addressee: tu (rule 3), the false friend. dux → guia (ἡγεμών). The vocative drops the article before the possessives ('meu guia'), as vocatives do.",
+    "54:15": "simul mecum → 'juntamente comigo'. dulcis → doce (glossary).",
+    "54:16b": "nequítia → maldade (glossary), plural as the Latin; 'há' supplied. habitáculum → morada (32:14). eórum … eórum → 'deles … deles': the Latin's echo kept.",
+    "54:17": "ego autem → 'eu, porém' here and 'mas eu' at 54:24b (the glossary row allows both). 'Mas eu clamei a Deus' was four syllables short of the Latin colon; 'Eu, porém' also answers 54:14's 'Tu, porém': the Latin's turn from the false friend to God and back.",
+    "54:18": "narráre → narrar; annuntiáre → anunciar (D41). 'ele' supplied as subject of exáudiet. véspere → 'de tarde', the hour of Vespers.",
+    "54:19": "redímere → resgatar (glossary); appropinquáre → aproximar-se (glossary), echoed at 54:21 'se aproximou'.",
+    "54:20": "exaudíre absolute → 'escutará'. humiliáre → humilhar (glossary).",
+    "54:21": "divísi sunt → 'foram divididos', the verb of 54:10 (dividi-lhes). ab ira vultus ejus → 'pela ira do seu rosto'; vultus → rosto. The Latin changes the pronoun (ejus … illíus); 'seu … dele' follows it without deciding who is meant.",
+    "54:22": "ipsi (the words) → 'elas mesmas'. jácula → dardos (MS1932); sagítta → seta stays apart.",
+    "54:23": "The second singular addressee (Jacta … te): tu (rule 3). enutríre → nutrir (glossary, 30:4). in ætérnum → para sempre (D23).",
+    "54:24": "God is vós; the echo with 54:14 is kept in 'porém' (decision `tuvero`). púteus → poço; intéritus → destruição (glossary).",
+    "54:24b": "viri sánguinum et dolósi → 'os homens de sangue e enganadores', as the glossary row foresaw (D29; dolósus → enganador). ego autem → 'mas eu'; speráre in → esperar em (D36).",
+    "54:20b": "**v2:** *para eles* before *não há* (the stylist): the verb and its noun no longer split. Who stretches out the hand is left open as in the Latin."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm54.txt, 27 prayed verses (54:2–54:24b; DO splits 54:13b, 54:16b, 54:20b, 54:24b; no titulus, D7). One mediant per verse, no flex, no ‡. No Diurnal Monástico for this psalm."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps054.md (Latin, LXX, WLC, DRB, MS1932). DO's Portuguese not used (D12). Formulas and neighbours checked with ps038/xref.py and ps005/grep_latin.py: 53:4 (the shared Exáudi … oratiónem meam), 20:12 (declinavérunt in), 118 (exercéri), 30:12 (noti), 7:6 / 21:16 / 30:18 (dedúcere down), 14:5b / 29:7 (para sempre não …). Rulings applied: D3, D22, D23, D29, D35, D36, D39, D41, D42, D43. Address: vós to God; tu to the false friend (54:14–15) and to the hearer of 54:23 (rule 3). Hard readings left open as the Latin leaves them: 54:4 subject or object of declinavérunt, 54:19 inter multos erant mecum, 54:20b who stretched out the hand, 54:21 whose heart drew near."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Fixed after the first run: a doubled comma in the `tuvero` forms; 54:13 rhyme (amaldiçoado / suportado) broken by the Latin's order (suportado, certamente); 54:17a −4 (Mas eu → Eu, porém; now −3); 54:20 second colon +4 (aquele que é → ele, que é; now +3). Accepted: 54:20a −3 (humiliábit is long); 54:2a −6 (the Latin's long compounds); 54:10b −4 (contradictiónem, civitáte); 54:16b a −4; 54:5a +3, 54:11a +3, 54:12b +3, 54:13b a +4, 54:15a +3, 54:18a +3, 54:21a +3, 54:22a +4, 54:24b a +4 (articles, compound tenses, Portuguese's longer words; none adds a word the Latin lacks beyond supplied copulas). Rhymes accepted because the Latin has the same echo: 54:5 mim / mim (in me / super me), 54:16b deles / deles (eórum / eórum), 54:9 / 54:10 tempestade / cidade (tempestáte / civitáte). Oxytone cadences where the Latin is paroxytone (mim, pecador, salvou, solidão, voz, Senhor …) are allowed by rule 4."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). The coordinator ran the three readers on draft 1 as fresh-context agents; each was claude-opus-5-5 (fresh context)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5 (fresh context). No major; four minors. Passed exercitátio, pusillanímitas, *super óleum*, *non dimidiábunt*, the ejus / illíus of 54:21 and the open *inter multos erant mecum*. One mediant per verse.",
+      "outcomes": [
+        {
+          "verse": "54:4",
+          "remark": "*voltaram* is \"returned\"; *declinaram iniquidades sobre mim*",
+          "outcome": "option",
+          "decision": "declinaverunt",
+          "reason": "The fault is taken (the stylist's *as iniquidades se voltaram contra mim*); his cognate is heard first as \"declined, refused\" in Portuguese. Kept as an option."
+        },
+        {
+          "verse": "54:10",
+          "remark": "*contenda* broader than contradíctio; *contradição*",
+          "outcome": "refused",
+          "decision": "contradictio",
+          "reason": "The glossary row (17:44, 30:21b, 54:10 named): the blind reader of Ps 17 heard *contradições* as inconsistencies. *contradição* is option 2."
+        },
+        {
+          "verse": "54:15",
+          "remark": "perfect *ambulávimus* against imperfect *capiébas*; *andamos*",
+          "outcome": "refused",
+          "decision": "ambulavimus",
+          "reason": "*andamos* is heard as present (\"we walk\"), saying the friendship stands — the opposite of the verse. Tense is grammar (D2). Option 2."
+        },
+        {
+          "verse": "54:20b",
+          "remark": "*in retribuéndo* is not purpose; *ao retribuir*",
+          "outcome": "taken",
+          "decision": "retribuendo"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5 (fresh context). Fourteen remarks on thirteen verses; worst line 54:11, best 54:6. Five taken (54:4, 54:11, 54:12 in part, 54:14 *comigo*, 54:20b); the rest kept as options or refused under rulings.",
+      "outcomes": [
+        {
+          "verse": "54:3",
+          "remark": "*Estou entristecido* heavy; *exercício* heard as a workout; *Entristeci-me em meu exercício*",
+          "outcome": "option",
+          "decision": "sum",
+          "reason": "the three perfect passives say one state (as 6:3–4) and must go alike; *Entristeci-me* alone would break the Latin's parallel with *conturbátus sum*. The event reading is option 2. *exercício* kept (decision `exercitatio`)."
+        },
+        {
+          "verse": "54:4",
+          "remark": "*voltaram* heard as \"returned\"; *as iniquidades se voltaram contra mim*",
+          "outcome": "taken",
+          "decision": "declinaverunt"
+        },
+        {
+          "verse": "54:8",
+          "remark": "*fui para longe* flat; *me afastei, fugindo*",
+          "outcome": "option",
+          "decision": "elongavi",
+          "reason": "elongáre keeps the Latin's *longe* (glossary row); *afastar-se* is discédere's."
+        },
+        {
+          "verse": "54:11",
+          "remark": "*a iniquidade a cercará sobre os muros dela* stumbles; *a rodeará por sobre os seus muros*",
+          "outcome": "taken",
+          "reason": "*por sobre* and *os seus muros* taken; *rodear* refused (circuíre's; circumdáre → cercar); the Latin's order (subject last) removes the a … a."
+        },
+        {
+          "verse": "54:12",
+          "remark": "*desapareceram* prosaic, a third *-dela*; *não se apartaram de suas praças*",
+          "outcome": "option",
+          "decision": "defecit",
+          "reason": "*das suas praças* taken; *apartar-se* is declináre a's (glossary), so the verb stays and his is option 2."
+        },
+        {
+          "verse": "54:13b",
+          "remark": "*falar grandezas* a calque; *dito contra mim grandes coisas*",
+          "outcome": "refused",
+          "reason": "D39 (magna loqui → falar grandezas), settled."
+        },
+        {
+          "verse": "54:14",
+          "remark": "*de uma só alma* heard as \"one soul\"; add *comigo*",
+          "outcome": "taken",
+          "decision": "unanimis"
+        },
+        {
+          "verse": "54:14",
+          "remark": "*conhecido* a mere acquaintance; *íntimo*",
+          "outcome": "option",
+          "decision": "notus",
+          "reason": "*notus* is only \"known\"; the closeness is said by *de uma só alma comigo* and *meu guia*; 30:12's word."
+        },
+        {
+          "verse": "54:15",
+          "remark": "bare *Que*, clumsy *juntamente comigo*; *Tu, que comigo juntamente*",
+          "outcome": "option",
+          "decision": "qui15",
+          "reason": "the Latin runs on from 54:14's vocative with a bare relative; after 54:14's colon it is heard as one. *Tu* is not in the Latin."
+        },
+        {
+          "verse": "54:20",
+          "remark": "*que é antes* unfinished; *ele que existe antes dos séculos*",
+          "outcome": "option",
+          "decision": "ante_saecula",
+          "reason": "D39 keeps *existir* for absolute esse; *est ante* has its complement. MS1932's *existe* is option 3."
+        },
+        {
+          "verse": "54:20b",
+          "remark": "*há … para eles … mudança* split; *para eles não há mudança*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "54:23",
+          "remark": "*para sempre não* stumbles; *não deixará o justo para sempre vacilar*",
+          "outcome": "option",
+          "decision": "fluctuatio",
+          "reason": "his order tips the colon to \"not waver for ever\" (but for a while); the draft keeps the Latin's both, and is 29:7's build."
+        },
+        {
+          "verse": "54:24b",
+          "remark": "lopsided pair; *os homens de sangue e os enganadores*",
+          "outcome": "option",
+          "decision": "viri",
+          "reason": "the second article picks two groups where the Latin leaves *dolósi* open; the glossary foresaw the draft's wording (D29)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5 (fresh context). 41 ambiguities, 6 unknown words (exercício in this sense, precipitai-os, contenda, usura, manjares, concórdia). Most are the Latin's own obscurities (54:19, 54:20b, 54:21, 54:23), kept open.",
+      "outcomes": [
+        {
+          "verse": "54:3",
+          "remark": "*exercício* puzzling, heard as physical exercise",
+          "outcome": "refused",
+          "decision": "exercitatio",
+          "reason": "the Latin's word and Ps 118's family (*exercitar-se*); *meditação* collides with meditátio, *provação* says trial. The risk is recorded."
+        },
+        {
+          "verse": "54:4",
+          "remark": "*voltaram* heard as \"came back again\"",
+          "outcome": "taken",
+          "decision": "declinaverunt"
+        },
+        {
+          "verse": "54:7",
+          "remark": "the futures after the wish sound odd",
+          "outcome": "refused",
+          "decision": "volabo",
+          "reason": "the Latin's futures; the wish was heard."
+        },
+        {
+          "verse": "54:9",
+          "remark": "*salvou* past beside *aguardava*",
+          "outcome": "refused",
+          "reason": "the Latin's perfect (*salvum me fecit*)."
+        },
+        {
+          "verse": "54:10",
+          "remark": "*dividi-lhes as línguas*: Babel or literal tongues",
+          "outcome": "refused",
+          "decision": "divide",
+          "reason": "the Latin's image, open as there; *confundi* would say Babel."
+        },
+        {
+          "verse": "54:11",
+          "remark": "hard to parse; *a … a … dela*",
+          "outcome": "taken",
+          "reason": "the Latin's order, subject last (with the stylist)."
+        },
+        {
+          "verse": "54:14",
+          "remark": "*homem de uma só alma* unclear",
+          "outcome": "taken",
+          "decision": "unanimis"
+        },
+        {
+          "verse": "54:14",
+          "remark": "*meu conhecido* heard as an acquaintance",
+          "outcome": "option",
+          "decision": "notus",
+          "reason": "the Latin word is as plain; *íntimo* recorded."
+        },
+        {
+          "verse": "54:15",
+          "remark": "*manjares* possibly heard as a pudding",
+          "outcome": "refused",
+          "decision": "cibos",
+          "reason": "heard as shared food — right; *doces manjares* is MS1932's."
+        },
+        {
+          "verse": "54:19",
+          "remark": "*entre muitos estavam comigo* heard as allies",
+          "outcome": "refused",
+          "decision": "inter_multos",
+          "reason": "the Latin's crux, left open on purpose; the Latinist passed it."
+        },
+        {
+          "verse": "54:20b",
+          "remark": "the subject of *estendeu* not audible",
+          "outcome": "refused",
+          "reason": "as the Latin (*exténdit*, no subject)."
+        },
+        {
+          "verse": "54:21",
+          "remark": "whose covenant, face, heart",
+          "outcome": "refused",
+          "reason": "the Latin's ejus / illíus followed without deciding; the Latinist passed it."
+        },
+        {
+          "verse": "54:23",
+          "remark": "*para sempre não* allows \"not for ever\"",
+          "outcome": "refused",
+          "decision": "fluctuatio",
+          "reason": "the Latin allows it too (*non … in ætérnum*)."
+        },
+        {
+          "verse": "54:24b",
+          "remark": "*homens de sangue* not common",
+          "outcome": "refused",
+          "reason": "D29; heard rightly as violent men."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 54:4 *as iniquidades se voltaram contra mim* (all three readers; departs from the glossary's foreseen 20:12 wording); 54:11 the Latin's order, *por sobre os seus muros* (stylist, blind reader); 54:12 *das suas praças* (stylist); 54:14 *de uma só alma comigo* (stylist, blind reader); 54:20b *para eles não há* (stylist) and *ao retribuir* (Latinist). New decision: viri."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. New length flags: 54:14a +5 (*comigo* supplied; unánimis is one Latin word for four Portuguese), 54:11a +3 (*por sobre*, articles); accepted. 54:4a now even (15/15). Others as draft 1; the same echo rhymes accepted (54:5, 54:16b, 54:9 / 54:10)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate, claude-opus-5-5 (fresh context). No critical or major; four minors, each on a wording weighed before; all held, each wording he asks for is an option. He passed the v2 changes at 54:4, 54:11, 54:12, 54:20b and the pointing.",
+      "outcomes": [
+        {
+          "verse": "54:10",
+          "remark": "*-os* supplies an object; *Precipitai, Senhor, dividi as suas línguas*",
+          "outcome": "refused",
+          "decision": "praecipita",
+          "reason": "bare *Precipitai* is heard as \"hasten\"; and bare *dividi* is banned (rule 3 / D13: also \"I divided\"). Both are options."
+        },
+        {
+          "verse": "54:14",
+          "remark": "*comigo* glosses unánimis; *homem unânime*",
+          "outcome": "refused",
+          "decision": "unanimis",
+          "reason": "*unânime* is said of groups in Portuguese; bare *de uma só alma* was heard as \"single-souled\" by two v1 readers. ἰσόψυχε is equal to someone. Options 2 and 3."
+        },
+        {
+          "verse": "54:15",
+          "remark": "perfect as imperfect; *andamos*",
+          "outcome": "refused",
+          "decision": "ambulavimus",
+          "reason": "as at v1: *andamos* is heard as present and says the friendship stands. He himself calls the imperfect defensible."
+        },
+        {
+          "verse": "54:23",
+          "remark": "noun and dative lost; *não dará para sempre ao justo a vacilação*",
+          "outcome": "refused",
+          "decision": "fluctuatio",
+          "reason": "dare + noun as \"allow\" is grammar (the glossary row dare + inf. → deixar); *vacilação* is heavy and not sayable; *vacilar* keeps the root. Option."
+        }
+      ]
+    },
+    {
+      "step": "glossary",
+      "note": "Rows appended to glossary.md (open, Ps 54): exercitátio, contéxere, solitúdo, pusillanímitas, maledícere, unánimis, notus, consénsus, contamináre, jáculum, fluctuátio, dimidiáre, dedúcere down, commutátio (54:20b), declináre in (54:4 departs). PROGRESS.md row added."
+    }
+  ]
+}

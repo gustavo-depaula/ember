@@ -1,0 +1,576 @@
+{
+  "psalm": 51,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "51:3": "Por que {gloriaris}, * tu que és poderoso na iniquidade?",
+    "51:4": "O dia todo a tua língua {cogitavit} injustiça: * como uma navalha {acuta}, {dolum}.",
+    "51:5": "Amaste a malícia mais que {benignitatem}: * a iniquidade mais do que {aequitatem}.",
+    "51:6": "Amaste todas as palavras {praecipitationis}, * {lingua}.",
+    "51:7": "Por isso Deus te destruirá {infinem}, * te arrancará, e {emigrabit} da tua tenda: {radicem} da terra dos vivos.",
+    "51:8": "Os justos verão, e temerão, e rirão dele, e dirão: * Eis o homem que {posuit}:",
+    "51:9": "Mas esperou na multidão das suas riquezas: * e {praevaluit}.",
+    "51:10": "Eu, porém, como uma oliveira frutífera na casa de Deus, * {speravi} na misericórdia de Deus para sempre: e pelos séculos dos séculos.",
+    "51:11": "Eu vos darei graças para sempre, {fecisti}: * e aguardarei o vosso nome, porque é bom {conspectu} dos vossos santos."
+  },
+  "decisions": [
+    {
+      "id": "gloriaris",
+      "refs": [
+        "51:3"
+      ],
+      "latin": "Quid gloriáris in malítia",
+      "kind": "glossary",
+      "why": "The gloriári in row gives *gloriar-se em*, and names this verse as the reason the verb was kept: the same word must say the just man's glorying in God (5:12b *em vós se gloriarão*) and the wicked man's boasting here. *na malícia* keeps the Latin's bare *in malítia*, without the possessive MS1932 supplies (*da tua malícia*). malítia → *malícia* (open row, κακία; this verse and 51:5 are two of its seven lines). Brazilian proclisis *te glorias* after *Por que*.",
+      "options": [
+        {
+          "label": "te glorias",
+          "forms": {
+            "gloriaris": "te glorias na malícia"
+          },
+          "note": "Ruling; the row (gloriar-se em).",
+          "from": "glossary"
+        },
+        {
+          "label": "te glorias da malícia",
+          "forms": {
+            "gloriaris": "te glorias da malícia"
+          },
+          "note": "the row's option *gloriar-se de*. Not taken: the row keeps *em*.",
+          "from": "glossary"
+        },
+        {
+          "label": "te gabas",
+          "forms": {
+            "gloriaris": "te gabas da malícia"
+          },
+          "note": "plain 'boast'; breaks the verb shared with 5:12b, 31:11.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cogitavit",
+      "refs": [
+        "51:4"
+      ],
+      "latin": "injustítiam cogitávit lingua tua",
+      "kind": "glossary",
+      "why": "cogitáre → *pensar em* (working row: 20:12 *pensaram em desígnios*, 34:4b *os que pensam em males*). The Latin makes the tongue the one that thinks (ἐλογίσατο ἡ γλῶσσά σου); the image is kept, not explained. DRB 'hath devised', MS1932 *meditou* — but *meditar* is meditári's (34:28 *A minha língua meditará*, a tongue again), so it cannot serve here without merging two Latin verbs. *maquinou* says 'devised' well, and is kept as the option.",
+      "options": [
+        {
+          "label": "pensou em",
+          "forms": {
+            "cogitavit": "pensou em"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "maquinou",
+          "forms": {
+            "cogitavit": "maquinou"
+          },
+          "note": "DRB 'devised'; a sharper word than the Latin's.",
+          "from": "DRB"
+        },
+        {
+          "label": "meditou",
+          "forms": {
+            "cogitavit": "meditou"
+          },
+          "note": "MS1932; meditári's verb (34:28).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "acuta",
+      "refs": [
+        "51:4"
+      ],
+      "latin": "sicut novácula acúta",
+      "kind": "word",
+      "why": "novácula is a razor (L&S; DRB 'a sharp razor') → *navalha* (MS1932). acútus is the same Greek as 44:6 *Sagíttæ tuæ acútæ* (ἠκονημένα / ἠκονημένον, 'whetted'), where Ps 44 has *agudas*. For arrows, Portuguese sharpness is the point (*agudo*); for a blade, the edge (*afiado*): *navalha afiada* is how a razor is said, *navalha aguda* (MS1932) is heard as a pointed one. Ruled for the idiom, the 44:6 link recorded. The article *uma* as in *como uma imagem* (38:7), *como um surdo* (37:14).",
+      "options": [
+        {
+          "label": "afiada",
+          "forms": {
+            "acuta": "afiada"
+          },
+          "note": "Ruling; the edge of a blade.",
+          "from": "draft"
+        },
+        {
+          "label": "aguda",
+          "forms": {
+            "acuta": "aguda"
+          },
+          "note": "MS1932; = 44:6 *agudas* (the same Greek).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dolum",
+      "refs": [
+        "51:4"
+      ],
+      "latin": "fecísti dolum",
+      "kind": "word",
+      "why": "dolus → *engano* (open row). The verb is *fácere*, and the psalm uses it twice: the wicked man *fecísti dolum* (51:4), God *quia fecísti* (51:11). *fizeste engano* (MS1932 word for word) keeps the verb so that the reader hears the one against the other — what the man made, what God has made. The Hebrew's participle ('working deceit') is not the Latin. *agiste com engano* is 35:3's build for another Latin (*dolóse egit*); *praticaste* is operári's.",
+      "options": [
+        {
+          "label": "fizeste engano",
+          "forms": {
+            "dolum": "fizeste engano"
+          },
+          "note": "Ruling; MS1932; the echo with 51:11 *o fizestes*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "urdiste o engano",
+          "forms": {
+            "dolum": "urdiste o engano"
+          },
+          "note": "more native; loses fácere and the echo.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benignitatem",
+      "refs": [
+        "51:5"
+      ],
+      "latin": "Dilexísti malítiam super benignitátem",
+      "kind": "word",
+      "why": "benígnitas (here ἀγαθωσύνη) is a Latin word of its own (3 lines: 51:5, 64:12, 84:13), apart from bónitas → *bondade* (row; 24:7b, 36:3, 118:65–66). *benignidade* is its cognate and known in Brazil (the fruit of the Spirit). *super* after *dilígere* → *mais que*, as 118:127 *diléxi … super aurum* → *amei … mais que o ouro*; the second colon's *magis quam* becomes *mais do que*, so the two Latin comparatives are not quite one. The rhyme *benignidade / equidade* is the Latin's own echo (*benignitátem / æquitátem*), so it is kept (rule 5). MS1932 flattens both nouns (*mais o mal que o bem*).",
+      "options": [
+        {
+          "label": "a benignidade",
+          "forms": {
+            "benignitatem": "a benignidade"
+          },
+          "note": "Ruling; its own word.",
+          "from": "draft"
+        },
+        {
+          "label": "a bondade",
+          "forms": {
+            "benignitatem": "a bondade"
+          },
+          "note": "plainer; bónitas's word (row).",
+          "from": "draft"
+        },
+        {
+          "label": "o bem",
+          "forms": {
+            "benignitatem": "o bem"
+          },
+          "note": "MS1932; bonum's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "aequitatem",
+      "refs": [
+        "51:5"
+      ],
+      "latin": "iniquitátem magis quam loqui æquitátem",
+      "kind": "grammar",
+      "why": "The accusative of content after *loqui* (row: *falar mentira*, 16:9b *falou soberba*). ǽquitas → *equidade* (working row; listed as unknown by blind readers, kept). The article *a equidade* is how the verb takes a single abstract (*falar a verdade*); DRB 'to speak righteousness', MS1932 *a linguagem … da justiça* (a paraphrase, and justítia's word).",
+      "options": [
+        {
+          "label": "falar a equidade",
+          "forms": {
+            "aequitatem": "falar a equidade"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "falar equidade",
+          "forms": {
+            "aequitatem": "falar equidade"
+          },
+          "note": "the bare noun, as *falar mentira*.",
+          "from": "draft"
+        },
+        {
+          "label": "falar o que é reto",
+          "forms": {
+            "aequitatem": "falar o que é reto"
+          },
+          "note": "plainer; explains the noun.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praecipitationis",
+      "refs": [
+        "51:6"
+      ],
+      "latin": "ómnia verba præcipitatiónis",
+      "kind": "word",
+      "why": "præcipitátio is a casting down headlong; the Greek καταποντισμοῦ is a drowning, a swallowing-up (the Hebrew בלע, 'devouring'). The words are those that hurl another to his fall. *precipitação* is heard in Brazil as haste or rainfall; *palavras de ruína* is DRB's 'words of ruin' and MS1932's own wording, and says the effect without explaining. The headlong image is lost; no plain Portuguese noun keeps it. Ps 54:10 *Præcípita, Dómine* (the verb) is being translated at the same time; the two need not agree, since the noun's cognate is unusable.",
+      "options": [
+        {
+          "label": "de ruína",
+          "forms": {
+            "praecipitationis": "de ruína"
+          },
+          "note": "Ruling; DRB, MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de perdição",
+          "forms": {
+            "praecipitationis": "de perdição"
+          },
+          "note": "the fall as perdition; more churchly.",
+          "from": "draft"
+        },
+        {
+          "label": "que precipitam",
+          "forms": {
+            "praecipitationis": "que precipitam"
+          },
+          "note": "keeps the root as a verb; explains a little.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "lingua",
+      "refs": [
+        "51:6"
+      ],
+      "latin": "lingua dolósa",
+      "kind": "ambiguity",
+      "why": "The Latin nominative *lingua dolósa* stands alone after the object: a vocative (DRB 'O deceitful tongue', MS1932 *ó língua enganadora*), or in apposition to the man addressed (you, a deceitful tongue); the Greek has the accusative (γλῶσσαν δολίαν), a second object. Bare *língua enganadora* after the comma leaves the three hearings open, as the Latin does; *ó* would close it. dolósus → *enganador* (open row, which names 51:6).",
+      "options": [
+        {
+          "label": "língua enganadora",
+          "forms": {
+            "lingua": "língua enganadora"
+          },
+          "note": "Ruling; keeps the Latin's openness.",
+          "from": "draft"
+        },
+        {
+          "label": "ó língua enganadora",
+          "forms": {
+            "lingua": "ó língua enganadora"
+          },
+          "note": "DRB, MS1932; the vocative made explicit.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "infinem",
+      "refs": [
+        "51:7"
+      ],
+      "latin": "déstruet te in finem",
+      "kind": "glossary",
+      "why": "D27 left *in finem* to each psalm and named this verse. εἰς τέλος can be 'for ever' or 'utterly'. Nothing is negated, so 9:19's fault does not arise; the verse is a future of destruction, where *para sempre* says the perpetuity DRB ('for ever') and MS1932 (*para sempre*) both read. *até o fim* (17:36b's rendering, for a past act) would make 'destroy you until the end' — heard as a limit. *por completo* is the Greek's other sense, kept as an option.",
+      "options": [
+        {
+          "label": "para sempre",
+          "forms": {
+            "infinem": "para sempre"
+          },
+          "note": "Ruling; the row's perpetuity rendering; DRB, MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "até o fim",
+          "forms": {
+            "infinem": "até o fim"
+          },
+          "note": "17:36b, 15:11; heard as a limit here.",
+          "from": "glossary"
+        },
+        {
+          "label": "por completo",
+          "forms": {
+            "infinem": "por completo"
+          },
+          "note": "εἰς τέλος as 'utterly'; resolves the phrase.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "emigrabit",
+      "refs": [
+        "51:7"
+      ],
+      "latin": "evéllet te, et emigrábit te de tabernáculo tuo",
+      "kind": "word",
+      "why": "emigráre is used transitively, 'make you migrate' (μεταναστεύσαι σε, 'remove you from your dwelling'). The only other place is 61:7 *non emigrábo* (intransitive, 'I shall not be moved'), so the word chosen should serve both: *emigrar* does (*te fará emigrar*, *não emigrarei*) and keeps the Latin's image of a man driven out of his home. MS1932 *te fará sair* is plainer but empties it. evéllere → *arrancar* (open row, which names 51:7). tabernáculum → *tenda* (row).",
+      "options": [
+        {
+          "label": "te fará emigrar",
+          "forms": {
+            "emigrabit": "te fará emigrar"
+          },
+          "note": "Ruling; the cognate, serves 61:7.",
+          "from": "draft"
+        },
+        {
+          "label": "te desterrará",
+          "forms": {
+            "emigrabit": "te desterrará"
+          },
+          "note": "one verb; 'banish', a little stronger.",
+          "from": "draft"
+        },
+        {
+          "label": "te fará sair",
+          "forms": {
+            "emigrabit": "te fará sair"
+          },
+          "note": "MS1932; plain, loses the migration.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "radicem",
+      "refs": [
+        "51:7"
+      ],
+      "latin": "et radícem tuam de terra vivéntium",
+      "kind": "ambiguity",
+      "why": "The Latin has no verb here: *radícem tuam* depends on *evéllet* or *emigrábit* above, and it does not say which (DRB keeps the ellipsis: 'and thy root out of the land of the living'). MS1932 supplies *arrancará*. Keeping the ellipsis keeps the choice open; Portuguese bears it after the two verbs. radix → *raiz*, the concrete image (rule 5); *terra vivéntium* → *terra dos vivos* (26:13).",
+      "options": [
+        {
+          "label": "e a tua raiz",
+          "forms": {
+            "radicem": "e a tua raiz"
+          },
+          "note": "Ruling; the Latin's ellipsis, DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "e arrancará a tua raiz",
+          "forms": {
+            "radicem": "e arrancará a tua raiz"
+          },
+          "note": "MS1932; supplies the verb and chooses it.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "posuit",
+      "refs": [
+        "51:8"
+      ],
+      "latin": "qui non pósuit Deum adjutórem suum",
+      "kind": "grammar",
+      "why": "pónere + predicate: the pónere row takes the verb the Portuguese build wants (17:12 *fez das trevas o seu esconderijo*). *fazer de Deus o seu auxílio* is that build. adjútor → *auxílio* (open row, uniform in the psalter so far; *auxiliador* is the Latinist's standing option). *Deus* without *a* as 53:5 *não puseram Deus*. MS1932 *não tomou a Deus por seu protector* (another noun, protéctor's). *Eis o homem* keeps *Ecce homo* (row *ecce → eis*).",
+      "options": [
+        {
+          "label": "não fez de Deus o seu auxílio",
+          "forms": {
+            "posuit": "não fez de Deus o seu auxílio"
+          },
+          "note": "Ruling; the pónere row's build.",
+          "from": "glossary"
+        },
+        {
+          "label": "não tomou Deus por seu auxílio",
+          "forms": {
+            "posuit": "não tomou Deus por seu auxílio"
+          },
+          "note": "MS1932's verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não pôs Deus como seu auxílio",
+          "forms": {
+            "posuit": "não pôs Deus como seu auxílio"
+          },
+          "note": "the literal tier; keeps pónere.",
+          "from": "draft"
+        },
+        {
+          "label": "não fez de Deus o seu auxiliador",
+          "forms": {
+            "posuit": "não fez de Deus o seu auxiliador"
+          },
+          "note": "the agent noun the Latinist has asked for elsewhere.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "praevaluit",
+      "refs": [
+        "51:9"
+      ],
+      "latin": "et præváluit in vanitáte sua",
+      "kind": "glossary",
+      "why": "præváler → *prevalecer* (open row, which names this verse; 12:4b *Prevaleci*). The Greek ἐδυναμώθη is 'grew strong'; the Latin is 'prevailed', and is followed (rule 1). vánitas → *vaidade* (working row, often heard as conceit; here conceit is one of the senses the verse can bear — the rich man's empty trust — so the hearing does no harm). DRB 'prevailed in his vanity'; MS1932 *prevaleceu na sua vaidade*.",
+      "options": [
+        {
+          "label": "prevaleceu na sua vaidade",
+          "forms": {
+            "praevaluit": "prevaleceu na sua vaidade"
+          },
+          "note": "Ruling; the rows; DRB, MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "se fortaleceu na sua vaidade",
+          "forms": {
+            "praevaluit": "se fortaleceu na sua vaidade"
+          },
+          "note": "the Greek's sense; refused, rule 1.",
+          "from": "draft"
+        },
+        {
+          "label": "prevaleceu no que é vão",
+          "forms": {
+            "praevaluit": "prevaleceu no que é vão"
+          },
+          "note": "the vánitas row's candidate for emptiness.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "speravi",
+      "refs": [
+        "51:10"
+      ],
+      "latin": "sperávi in misericórdia Dei",
+      "kind": "grammar",
+      "why": "sperávi is a perfect (ἤλπισα) → *esperei*, as 12:5b *mas eu esperei na vossa misericórdia*, 30:7b, 30:15. MS1932 supplies *sou* and turns it to the present (*Eu, porém, sou como oliveira … Espero*); the Latin's build — the comparison hanging on the subject, one verb — is kept, and is sayable. speráre in → *esperar em* (D36).",
+      "options": [
+        {
+          "label": "esperei",
+          "forms": {
+            "speravi": "esperei"
+          },
+          "note": "Ruling; the Latin's perfect.",
+          "from": "draft"
+        },
+        {
+          "label": "espero",
+          "forms": {
+            "speravi": "espero"
+          },
+          "note": "MS1932's present.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fecisti",
+      "refs": [
+        "51:11"
+      ],
+      "latin": "quia fecísti",
+      "kind": "grammar",
+      "why": "fácere with no object: 'because you have done (it)'. Bare *porque fizestes* is not a Portuguese sentence end; the neuter pronoun *o* (DRB 'thou hast done it'; MS1932's gloss *(isso)*) is the least that makes it one, and names nothing. The verb stays *fazer*, answering 51:4 *fizeste engano*. The address turns here from the wicked man (*tu*, 51:3–7) to God (*vós*), as the Latin turns from *tu* to *tibi* (rule 3).",
+      "options": [
+        {
+          "label": "porque o fizestes",
+          "forms": {
+            "fecisti": "porque o fizestes"
+          },
+          "note": "Ruling; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "porque fizestes",
+          "forms": {
+            "fecisti": "porque fizestes"
+          },
+          "note": "the bare verb, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "pelo que fizestes",
+          "forms": {
+            "fecisti": "pelo que fizestes"
+          },
+          "note": "turns the clause to 'for what you did'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "51:11"
+      ],
+      "latin": "quóniam bonum est in conspéctu sanctórum tuórum",
+      "kind": "glossary",
+      "why": "in conspéctu → *à vista de* where it is a predicate place (the conspéctus row: 9:20, 14:4a, 21:26 *à vista dos que o temem*). *bonum est* is neuter: either the name is good (nomen is neuter too), or 'it is good' to wait on it. *porque é bom* with no subject keeps both; 53:8 had to move a vocative to keep *bom* from being heard of the Lord, and here no vocative stands near. sanctus (ὅσιος) → *santo* (row).",
+      "options": [
+        {
+          "label": "à vista",
+          "forms": {
+            "conspectu": "à vista"
+          },
+          "note": "Ruling; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "na presença",
+          "forms": {
+            "conspectu": "na presença"
+          },
+          "note": "the row's option (17:7b, 21:28b).",
+          "from": "glossary"
+        },
+        {
+          "label": "diante",
+          "forms": {
+            "conspectu": "diante"
+          },
+          "note": "MS1932 *diante dos teus santos*; loses the noun.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "51:3": "*Quid* → *Por que* (τί). *qui potens es in iniquitáte* → *tu que és poderoso na iniquidade*: the subject named, as the Latin's *es* has it; *in iniquitáte* left open between 'mighty in doing iniquity' (MS1932's gloss) and 'mighty by it'. potens → *poderoso* (23:8). The psalm speaks to one man: *tu* (rule 3). The Greek joins *ὅλην τὴν ἡμέραν* to this verse; the Latin puts *Tota die* in 51:4, and is followed.",
+    "51:4": "*Tota die* → *o dia todo* (D24). *lingua tua* → *a tua língua*, subject after the time phrase in natural order (D2). *sicut novácula acúta* left open between the tongue and the man as what is like a razor, as DRB and the Latin leave it.",
+    "51:5": "*Dilexísti* → *Amaste* (dilígere → amar), twice at the head of 51:5 and 51:6 as in the Latin. See `benignitatem` for the two comparatives and the kept rhyme.",
+    "51:7": "*Proptérea* → *Por isso* (17:50, 44:3, 44:8). destrúere → *destruir* (row; not an imperative). *te* repeated with each verb, as the Latin's *te … te … te*. The verse is long (one colon of 22 Latin syllables after the asterisk) and has no flex in the Latin, so none here.",
+    "51:8": "*Vidébunt justi, et timébunt* → *Os justos verão, e temerão*, the build of 39:4b *Muitos verão, e temerão*. *super eum ridébunt* → *rirão dele* (the irridére row's *rir de*; γελάσονται, the simple verb). The speech runs on into 51:9, so the verse ends on a colon, as the Latin does; no quotation marks, as elsewhere in this psalter.",
+    "51:9": "*in multitúdine divitiárum suárum* → *na multidão das suas riquezas*, word for word 48:7 (multitúdo row). *sperávit in* → *esperou em* (D36).",
+    "51:10": "*Ego autem* → *Eu, porém,* (29:7, 30:7b, 30:15, 39:18). *olíva fructífera* → *uma oliveira frutífera* (κατάκαρπος; *uma* as 38:7). *in domo Dei* → *na casa de Deus* (domus row). *in ætérnum: et in sǽculum sǽculi* → *para sempre: e pelos séculos dos séculos* (the settled formula, D23, D27). The verse is the Alleluia verse of a Mass (missa/Sancti/10-09, from *Sicut olíva*), and Ambrose quotes it (horas Commune/C1); the colons read alone.",
+    "51:11": "*Confitébor tibi in sǽculum* → *Eu vos darei graças para sempre* (D5; 29:13, 43:9). exspectáre → *aguardar* (D24/D39), kept apart from *esperei* of 51:10 as the Latin keeps sperávi / exspectábo apart. *quóniam* → *porque*."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm51.txt, 9 prayed verses (51:3–51:11; the titulus 51:1–2 is not in DO, D7). One mediant per verse, no flex. Uses by grep: 51:10 as an Alleluia verse (missa/Sancti/10-09) and quoted by Ambrose in the Common of Apostles (horas Commune/C1)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps051.md (Latin, LXX, WLC, DRB, MS1932; no DM1962 for this psalm); DO's Portuguese not used (D12). Address *tu* to the wicked man in 51:3–7, *vós* to God in 51:11 (rule 3). Rows applied: gloriári in, malítia, tota die, cogitáre, dolus / dolósus, dilígere, ǽquitas, in finem (D27, perpetuity), destrúere, evéllere, tabernáculum, terra vivéntium (26:13), ecce, pónere + predicate, adjútor, speráre in (D36), multitúdo (= 48:7), præválere, vánitas, in ætérnum et in sǽculum sǽculi, confitéri (D5), exspectáre (D24), conspéctus, sanctus. Latin kept against the Greek: 51:3/4 verse division of *tota die*, 51:9 *præváluit*, 51:6 nominative *lingua dolósa*. New words proposed: benígnitas → benignidade, novácula → navalha (acútus → afiada for a blade), præcipitátio → ruína, emigráre → emigrar, radix → raiz, olíva fructífera → oliveira frutífera."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Length: 51:3b +3 (*tu* named, the subject of *es*), 51:4b +3 (*uma* as 51:10 and 38:7), 51:6a −3, 51:8a −3, 51:8b −3, 51:9a −4 (Portuguese is shorter than the Latin's endings; nothing left out), accepted. Rhyme *benignidade / equidade* in 51:5: the Latin's own echo (*benignitátem / æquitátem*), kept (rule 5). Oxytone cadences at 51:8a *dirão* and 51:10a *Deus*: rule 4 allows the last syllable."
+    },
+    {
+      "step": "readers",
+      "note": "codex.py not called (Codex out of credits since Ps 37). The coordinator runs the three readers on draft 1 as fresh-context agents."
+    }
+  ]
+}

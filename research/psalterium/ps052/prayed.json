@@ -1,0 +1,472 @@
+{
+  "psalm": 52,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "52:1": "Disse o insensato no seu coração: * Não há Deus.",
+    "52:2": "Corromperam-se, e tornaram-se abomináveis {iniquitatibus}: * não há quem faça o bem.",
+    "52:3": "Deus olhou do céu para os filhos dos homens, * para ver se há quem entenda, ou quem procure a Deus.",
+    "52:4": "Todos se desviaram, juntos se tornaram inúteis: * não há quem faça o bem, não há nem sequer um.",
+    "52:5": "Não hão de saber todos os que praticam a iniquidade, * os que devoram o meu povo {cibum}?",
+    "52:6": "{invocaverunt}, * ali tremeram de temor, onde não havia temor.",
+    "52:6b": "Porque Deus {dissipavit} os ossos {placent}: * {confusi}, porque Deus os desprezou.",
+    "52:7": "Quem dará de Sião a salvação de Israel? * quando Deus {converterit} do seu povo, Jacó exultará, e Israel se alegrará."
+  },
+  "decisions": [
+    {
+      "id": "iniquitatibus",
+      "refs": [
+        "52:2"
+      ],
+      "latin": "abominábiles facti sunt in iniquitátibus",
+      "kind": "grammar",
+      "why": "The one place where 52:2 departs from 13:1b in its first colon: Ps 13 has in stúdiis suis (→ nos seus feitos), Ps 52 in iniquitátibus, with no possessive (the Greek ἐν ἀνομίαις has none either). iníquitas → iniquidade (glossary). Douay-Rheims 'in iniquities'; Matos Soares 1932 'nas suas iniquidades' (supplies the possessive). The same phrase stands in 50:7 in iniquitátibus concéptus sum (Ps 50, being translated in parallel) and 105:43 humiliáti sunt in iniquitátibus suis (with suis).",
+      "options": [
+        {
+          "label": "nas iniquidades",
+          "forms": {
+            "iniquitatibus": "nas iniquidades"
+          },
+          "note": "Ruling: the plural kept, no possessive supplied — the Latin has none here where Ps 13 and 105:43 have suis, so a reader crossing the columns finds the difference. The article is Portuguese grammar (D2). Colon 21 syllables against the Latin's 21.",
+          "from": "draft"
+        },
+        {
+          "label": "nas suas iniquidades",
+          "forms": {
+            "iniquitatibus": "nas suas iniquidades"
+          },
+          "note": "Matos Soares 1932: the possessive supplied, which is how Portuguese most often says it; it adds a word the Latin lacks here and has in 105:43.",
+          "from": "MS1932"
+        },
+        {
+          "label": "em iniquidades",
+          "forms": {
+            "iniquitatibus": "em iniquidades"
+          },
+          "note": "Douay-Rheims' 'in iniquities', no article; stiffer.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "invocaverunt",
+      "refs": [
+        "52:6"
+      ],
+      "latin": "Deum non invocavérunt",
+      "kind": "order",
+      "why": "13:5a is the same words with Dóminum (→ Ao Senhor não invocaram, the stylist's line in Ps 13, which is the Latin's own order and removed the rhyme Senhor / temor). With Deus there is no rhyme to avoid, so the reason for fronting in Ps 13 is absent here; but the Latin's order is the same in both twins and rule 6 asks that what the Latin repeats, the Portuguese repeat — Ps 13's decision note already named this wording for 52:6.",
+      "options": [
+        {
+          "label": "A Deus não invocaram",
+          "forms": {
+            "invocaverunt": "A Deus não invocaram"
+          },
+          "note": "Ruling: 13:5a with Deus for Senhor, as the Latin changes only that word; the object first, as in the Latin; the colon ends on a paroxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "Não invocaram a Deus",
+          "forms": {
+            "invocaverunt": "Não invocaram a Deus"
+          },
+          "note": "Matos Soares 1932; the natural order, and here it rhymes with nothing — but the twins would part where the Latin does not.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cibum",
+      "refs": [
+        "52:5"
+      ],
+      "latin": "qui dévorant plebem meam ut cibum panis",
+      "kind": "word",
+      "why": "Ps 13:4 has sicut escam panis, 52:5 ut cibum panis; the Greek is one (βρώσει ἄρτου, the eating of bread), so by D15’s test and rule 6 the Portuguese is one: Ps 13’s decision escam, whose ruling this copies (glossary row esca / cibus). Matos Soares 1932 has “como quem come pão” in this very verse; Douay-Rheims “as they eat bread”. A change here should be made in 13:4 too.",
+      "options": [
+        {
+          "label": "como quem come pão",
+          "forms": {
+            "cibum": "como quem come pão"
+          },
+          "note": "Ruling: 13:4’s wording (Ps 13 decision escam), kept against the Latinist and the stylist.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como alimento de pão",
+          "forms": {
+            "cibum": "como alimento de pão"
+          },
+          "note": "The Latinist (v1, minor), as in Ps 13 draft 2: the noun kept, the people compared to food. Refused as in Ps 13: the Greek βρῶσις is the eating, and “alimento de pão” is not said in Portuguese.",
+          "from": "latinist"
+        },
+        {
+          "label": "como se come o pão",
+          "forms": {
+            "cibum": "como se come o pão"
+          },
+          "note": "The stylist (v1), to soften the “como … come” jingle, which he himself called mild and said to keep. An option in Ps 13 too.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "dissipavit",
+      "refs": [
+        "52:6b"
+      ],
+      "latin": "Quóniam Deus dissipávit ossa",
+      "kind": "glossary",
+      "why": "Not in Ps 13 (13:6 has another verse here), so decided here. dissipáre: L&S 'to spread abroad, scatter, disperse'; the Greek διεσκόρπισεν. The glossary row dissipáre (open) names this verse and proposes 'dissipar' for a thing, 'dispersar' for people (17:15, 34:16 applied); bones are neither case, but 21:15 dispérsa sunt ómnia ossa mea (dispérgere, the same Greek family) already reads 'foram dispersos todos os meus ossos'. Douay-Rheims 'hath scattered the bones'; Matos Soares 1932 'dissipou os ossos'.",
+      "options": [
+        {
+          "label": "dispersou",
+          "forms": {
+            "dissipavit": "dispersou"
+          },
+          "note": "Ruling: the scattering of bones is a concrete image (the unburied dead), and 'dispersar' says it plainly and matches 21:15's bones; 'dissipou' was unknown to the blind reader of Ps 17. So the row's proposal gains a line: dispersar for people and for bones (things strewn), dissipar for what is undone (the law 118:126, designs 32:10).",
+          "from": "draft"
+        },
+        {
+          "label": "dissipou",
+          "forms": {
+            "dissipavit": "dissipou"
+          },
+          "note": "The cognate (Matos Soares 1932); in Portuguese 'dissipar' is said of mist, doubts, fortunes — of bones it is heard as 'made vanish'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "placent",
+      "refs": [
+        "52:6b"
+      ],
+      "latin": "ossa eórum qui homínibus placent",
+      "kind": "ambiguity",
+      "why": "'Of those who please men' (the Greek has one word, ἀνθρωπαρέσκων, 'men-pleasers'; the Hebrew has another sense, not followed). placére + dative → agradar a (114:9 Placébo Dómino). The Latin leaves open whether they are pleasing to men or court men's favour; the Greek compound leans to the second. Douay-Rheims 'of them that please men'; Matos Soares 1932 'daqueles que procuram agradar aos homens' (supplies 'procuram').",
+      "options": [
+        {
+          "label": "dos que agradam aos homens",
+          "forms": {
+            "placent": "dos que agradam aos homens"
+          },
+          "note": "Ruling: the Latin's verb and dative, and its openness; ends on the paroxytone 'homens' at the mediant.",
+          "from": "draft"
+        },
+        {
+          "label": "daqueles que agradam aos homens",
+          "forms": {
+            "placent": "daqueles que agradam aos homens"
+          },
+          "note": "The same, one syllable heavier (the colon is −4 against the Latin).",
+          "from": "draft"
+        },
+        {
+          "label": "dos que procuram agradar aos homens",
+          "forms": {
+            "placent": "dos que procuram agradar aos homens"
+          },
+          "note": "Matos Soares 1932: closes the ambiguity toward the Greek's 'men-pleasers' by a verb the Latin lacks.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confusi",
+      "refs": [
+        "52:6b"
+      ],
+      "latin": "confúsi sunt",
+      "kind": "glossary",
+      "why": "confúndi → ser envergonhado (settled, D15: 'confundido' was heard as 'confused'). Perfect passive, κατῃσχύνθησαν. Douay-Rheims 'they have been confounded'; Matos Soares 1932 'foram confundidos'.",
+      "options": [
+        {
+          "label": "foram envergonhados",
+          "forms": {
+            "confusi": "foram envergonhados"
+          },
+          "note": "Ruling: D15, as 21:6 'não foram envergonhados'.",
+          "from": "glossary"
+        },
+        {
+          "label": "ficaram envergonhados",
+          "forms": {
+            "confusi": "ficaram envergonhados"
+          },
+          "note": "The stylist («a stiff, bookish passive»). Refused: “ficar envergonhado” is a feeling (embarrassed), where confúsi sunt (κατῃσχύνθησαν) is being put to shame by another — the next words say by whom (Deus sprevit eos); and D15’s passive stands so at 21:6 “não foram envergonhados”, 24:3.",
+          "from": "stylist"
+        },
+        {
+          "label": "foram confundidos",
+          "forms": {
+            "confusi": "foram confundidos"
+          },
+          "note": "The traditional cognate (Matos Soares 1932); refused by D15.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "converterit",
+      "refs": [
+        "52:7"
+      ],
+      "latin": "cum convérterit Deus captivitátem plebis suæ",
+      "kind": "word",
+      "why": "Here the twins part: 13:7 cum avérterit Dóminus (→ 'quando o Senhor afastar o cativeiro'), 52:7 cum convérterit Deus — one Greek for both (ἐν τῷ ἐπιστρέψαι), two Latin verbs; Ps 13's note foresaw that 52:7 would take convértere's verb and differ as the Latin does. The glossary's convértere → voltar (open) gives, transitive, 'fizer voltar o cativeiro' — but that is heard first as 'bring the captivity back again', the opposite of the sense (the captives brought back, the captivity turned). convértere captivitátem recurs at 125:1 In converténdo … captivitátem Sion and 125:4 Convérte, Dómine, captivitátem nostram (grep), so the ruling reaches them. Douay-Rheims 'when God shall bring back the captivity'; Matos Soares 1932 'Quando Deus puser fim ao cativeiro' (explains). Future perfect → future subjunctive, as 13:7. Heard (draft 1): the stylist — «“Reverter” sounds juridical and modern: you reverse a court decision or a trend, not a captivity» — asked for the glossary's “fizer voltar o cativeiro”; the blind reader listed “reverter o cativeiro” as unknown, though he heard “end the captivity” first.",
+      "options": [
+        {
+          "label": "fizer voltar o cativeiro",
+          "forms": {
+            "converterit": "fizer voltar o cativeiro"
+          },
+          "note": "Ruling (draft 2): the glossary's verb for convértere (voltar), causative as 9:4 “Ao fazer voltar para trás o meu inimigo”, asked for by the stylist. Draft 1 refused it for fear it would be heard as “bring the captivity back again”; no reader heard that — the stylist proposed it himself, and in a colon that ends in Jacob's rejoicing the ear has no room for the reverse. Not yet heard by a blind reader in this form. It reads as Douay-Rheims’ “bring back the captivity”. For 125:1, 125:4 (“Fazei voltar, Senhor, o nosso cativeiro”).",
+          "from": "stylist"
+        },
+        {
+          "label": "reverter o cativeiro",
+          "forms": {
+            "converterit": "reverter o cativeiro"
+          },
+          "note": "Draft 1. “reverter” is con-vértere’s own root and says “undo”; refused in draft 2 because the stylist heard it as juridical (a court ruling, a trend) and the blind reader listed it as unknown.",
+          "from": "draft"
+        },
+        {
+          "label": "fizer voltar os cativos",
+          "forms": {
+            "converterit": "fizer voltar os cativos"
+          },
+          "note": "The collective sense of captívitas (the captives) made explicit; clear, but it turns the Latin's abstract noun into persons and leaves the glossary's 'cativeiro' (13:7, 84:2).",
+          "from": "draft"
+        },
+        {
+          "label": "puser fim ao cativeiro",
+          "forms": {
+            "converterit": "puser fim ao cativeiro"
+          },
+          "note": "Matos Soares 1932: explains the image.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "52:1": "Copied from 13:1a (the Latin is identical, word for word; Latin capital 'Non' as 13:1a's 'non' — no difference in the Portuguese). Ps 13's decision insipiens (→ insensato) governs; the glossary row insípiens names 52:1.",
+    "52:2": "First colon copied from 13:1b ('Corromperam-se, e tornaram-se abomináveis' — decision corrupti in Ps 13; facti sunt → 'tornaram-se') up to the phrase that differs: in iniquitátibus for in stúdiis suis (decision iniquitatibus). Second colon: 52:2 has only 'non est qui fáciat bonum' — Ps 13's 'non est usque ad unum' is absent here, so the Portuguese stops where the Latin stops ('não há quem faça o bem', 13:1b's words).",
+    "52:3": "Copied from 13:2 with Deus for Dóminus, the one word the Latin changes (Ps 13 decisions prospexit → 'olhou do céu para', requirens → 'procure'). The verse now has 'Deus' twice (Deus … requírens Deum), as the Latin does. The Latin has ':' before 'ut vídeat' where 13:2 has ','; the Portuguese keeps Ps 13's comma — punctuation is grammar and a colon before 'para ver' is not Portuguese usage.",
+    "52:4": "Copied from 13:3a — identical Latin (= Rom 3:12). Ps 13 decisions declinaverunt, simul, usque govern.",
+    "52:5": "Copied from 13:4. The Latin differs twice, each time where the Greek is one: scient for cognóscent (γνώσονται both), ut cibum for sicut escam (βρώσει ἄρτου both) — the glossary rows esca / cibus and Ps 13's decision escam already give 'como quem come pão' for both (Matos Soares 1932 has it in this very verse). 'saber' is here the plain word for scire itself (Ps 13 chose it for cognóscere because 'conhecer' needs an object). Ps 13 decisions cognoscent, escam govern. Readers v1: the Latinist asked “como alimento de pão” and the stylist offered “como se come o pão” — both refused to keep 13:4’s wording (decision cibum).",
+    "52:6": "Second colon copied from 13:5b — identical Latin (glossary timor: 'de temor … temor', the noun twice). First colon: Deum for Dóminum (decision invocaverunt). The Latin has ':' where 13:5 has ','; Ps 13's comma kept, as 52:3.",
+    "52:6b": "DO's second '52:6' line, id 52:6b as latin.py gives it. Not in Ps 13 (13:6 stands here), so decided here: dissipáre (decision dissipavit), placére (decision placent), confúndi (D15, decision confusi), spérnere → desprezar (glossary, as 21:25, 118:118). The Latin's two quóniam kept as two 'porque', as 13:6. This is the Septuagint's reading (ἀνθρωπαρέσκων); the Hebrew and the Diurnal-type versions have another verse — not followed (rule 1).",
+    "52:7": "First colon copied from 13:7a (identical Latin). Second colon: 'quando Deus … do seu povo, Jacó exultará, e Israel se alegrará' copies 13:7 except where the Latin differs — Deus for Dóminus, convérterit for avérterit (decision converterit: draft 2 “fizer voltar o cativeiro”, the stylist’s and the glossary’s verb). The end (captivitátem plebis suæ, exsultábit Jacob, et lætábitur Israël) is Ps 13's decision exsultabit, the direct order."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm52.txt, eight prayed verses; DO repeats the id 52:6, so the second is 52:6b (latin.py). The titulus (In finem, pro Maeleth, intellígentiæ David) is out (D7). Parallels: consult/parallels/ps052.md (Latin, LXX Rahlfs, WLC Hebrew Ps 53, Douay-Rheims, Matos Soares 1932); no Diurnal text in the file."
+    },
+    {
+      "step": "twin",
+      "note": "Ps 52 against Ps 13 (finished, draft 3), line by line: 52:1 = 13:1a → copied. 52:2 = 13:1b but in iniquitátibus for in stúdiis suis and no 'non est usque ad unum' → shared words copied, the phrase decided (iniquitatibus). 52:3 = 13:2 but Deus for Dóminus → copied with Deus. 52:4 = 13:3a → copied. 52:5 = 13:4 but scient / cognóscent, ut cibum / sicut escam (one Greek each) → copied. 52:6 = 13:5 but Deum / Dóminum → second colon copied, first decided (invocaverunt). 52:6b ≠ 13:6 → decided here. 52:7 = 13:7 but convérterit Deus / avérterit Dóminus → shared words copied, the verb decided (converterit). Ps 13:3b–3d (the Romans lines) have no counterpart. Checked every Ps 13 wording copied here against DECISIONS.md D1–D43 and the glossary: none has since been ruled against (the one later change in Ps 13, D38's 'carente' at 13:6, is in a verse Ps 52 does not share). Only difference of punctuation: the Latin of 52:3 and 52:6 has ':' where Ps 13 has ','; Ps 13's Portuguese punctuation kept."
+    },
+    {
+      "step": "draft",
+      "note": "Draft 1. Three things decided afresh: in iniquitátibus (no possessive), 52:6b whole (dissipáre → dispersar for bones, after 21:15; placére → agradar a; D15), and convértere captivitátem → 'reverter o cativeiro' (the glossary's 'fazer voltar' is heard as the captivity returning; proposed for 125:1, 125:4). Repeats found with ps005/grep_latin.py and ps038/xref.py: captivitátem (7 lines), dissipáre (4 translated), ossa (8 translated), placére (114:9), revérti (77:34, 103:29, 145:4 — intransitive, no collision with 'reverter'), in iniquitátibus (50:7, 105:43)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 52:3 first colon −3 (13:2's words with the one-syllable 'Deus' for 'o Senhor'; the Latin colon is long in proparoxytones); 52:6b first colon −3 (the Latin's 'Quóniam … homínibus' are long words; 'daqueles que' is an option in decision placent that recovers one). No rhyme flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1, read by claude-opus-5-5 (fresh context). One minor, 52:5 ut cibum panis; everything else passed, the Septuagintal readings named as kept (trepidavérunt timóre, qui homínibus placent, dissipávit ossa, confúsi sunt) and the marks confirmed.",
+      "outcomes": [
+        {
+          "verse": "52:5",
+          "remark": "“como quem come pão” adds an eater; ut cibum panis is a noun phrase → “como alimento de pão” (minor)",
+          "outcome": "option",
+          "decision": "cibum",
+          "reason": "Ps 13 wording kept (13:4, rule 6: the Greek is one for both twins). The same remark was refused there (Ps 13 v2 gate): βρώσει is the eating, and “alimento de pão” is not Portuguese."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1, read by claude-opus-5-5 (fresh context). Five remarks on four verses; best line 52:6, worst 52:7. One taken (52:7 verb), four refused — three of them because they fall on words shared with Ps 13, which rule 6 keeps identical.",
+      "outcomes": [
+        {
+          "verse": "52:2",
+          "remark": "“Corromperam-se, e tornaram-se” trips on “-se, e tor-” → “fizeram-se abomináveis”",
+          "outcome": "refused",
+          "reason": "Ps 13 wording kept: the colon is 13:1b’s word for word (identical Latin up to in iniquitátibus); a change must be made in both twins. “fazer-se” is the fíeri row’s word for Ps 117, but 13:1b and 13:3a (= 52:4) chose “tornar-se” for a state that comes upon one, and 52:4 repeats it — the Latin’s facti sunt twice. For Gustavo, with Ps 13."
+        },
+        {
+          "verse": "52:5",
+          "remark": "“como … come” mild jingle → “como se come o pão” (he said keep it unless a plainer sound is wanted)",
+          "outcome": "option",
+          "decision": "cibum",
+          "reason": "Ps 13 wording kept (13:4); he himself advised keeping it."
+        },
+        {
+          "verse": "52:6b",
+          "remark": "“foram envergonhados” stiff, bookish → “ficaram envergonhados”",
+          "outcome": "option",
+          "decision": "confusi",
+          "reason": "“ficar envergonhado” is a feeling; confúsi sunt is being put to shame, and D15’s passive stands so elsewhere (21:6, 24:3)."
+        },
+        {
+          "verse": "52:7",
+          "remark": "“reverter” juridical, modern → “fizer voltar o cativeiro”",
+          "outcome": "taken",
+          "decision": "converterit",
+          "reason": "The glossary’s verb for convértere; draft 1’s fear that it would be heard as the captivity returning was not borne out by any reader."
+        },
+        {
+          "verse": "52:7",
+          "remark": "-ão/-ão in the first colon and -ará/-ará at the end are sing-song; → “Israel há de alegrar-se”",
+          "outcome": "refused",
+          "reason": "Ps 13 wording kept: the first colon is 13:7a word for word and the last clause is 13:7’s (decision exsultabit there); the paired futures are the Latin’s (exsultábit / lætábitur), as he says, and the Portuguese matches them in form."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only, read by claude-opus-5-5 (fresh context). 16 items and 2 unknown words (insensato; reverter o cativeiro). No wrong first hearing that the Latin excludes. “dos que agradam aos homens” heard as people-pleasers (the Greek’s sense) without the gloss; “A Deus não invocaram” heard rightly.",
+      "outcomes": [
+        {
+          "verse": "52:1",
+          "remark": "no seu coração: the fool’s own (heard first) / another’s",
+          "outcome": "refused",
+          "reason": "Heard rightly; Ps 13 wording."
+        },
+        {
+          "verse": "52:2",
+          "remark": "Corromperam-se: plural subject after the singular insensato",
+          "outcome": "refused",
+          "reason": "The Latin’s own shift (insípiens → corrúpti sunt), as in Ps 13."
+        },
+        {
+          "verse": "52:2",
+          "remark": "abomináveis nas iniquidades: by / while in iniquities",
+          "outcome": "refused",
+          "reason": "in + ablative is open the same way; the decision iniquitatibus keeps it without a possessive."
+        },
+        {
+          "verse": "52:3",
+          "remark": "quem entenda: no object",
+          "outcome": "refused",
+          "reason": "intéllegens has none; Ps 13 wording."
+        },
+        {
+          "verse": "52:4",
+          "remark": "inúteis: useless / depraved",
+          "outcome": "refused",
+          "reason": "The Latin’s word (inútiles); Ps 13 wording."
+        },
+        {
+          "verse": "52:5",
+          "remark": "Não hão de saber: judgment to come not heard; “won’t they ever learn?” heard first",
+          "outcome": "refused",
+          "reason": "Ps 13 wording kept (decision cognoscent in Ps 13); the Latin’s nonne scient is as open between knowing now and coming to know; Ps 13’s blind reader heard “they will come to know”."
+        },
+        {
+          "verse": "52:5",
+          "remark": "como quem come pão: as easily as eating bread (heard first) / as their food",
+          "outcome": "refused",
+          "reason": "Both are in the Latin’s image; Ps 13 wording (decision cibum)."
+        },
+        {
+          "verse": "52:6",
+          "remark": "ali: a place / then",
+          "outcome": "refused",
+          "reason": "illic is as unplaced; Ps 13 wording."
+        },
+        {
+          "verse": "52:6",
+          "remark": "onde não havia temor: nothing to fear (heard first) / no fear of God",
+          "outcome": "refused",
+          "reason": "The Latin’s repeated noun, open the same way; Ps 13 wording."
+        },
+        {
+          "verse": "52:6",
+          "remark": "A Deus não invocaram: could be misheard as God not calling them",
+          "outcome": "refused",
+          "reason": "Heard rightly first; the “a” marks the object (decision invocaverunt)."
+        },
+        {
+          "verse": "52:6b",
+          "remark": "dos que agradam aos homens: people-pleasers (heard first) / liked by men",
+          "outcome": "refused",
+          "reason": "Both are in placent; the first is the Greek’s ἀνθρωπαρέσκων, heard without being supplied (decision placent)."
+        },
+        {
+          "verse": "52:6b",
+          "remark": "foram envergonhados: who is shamed",
+          "outcome": "refused",
+          "reason": "The Latin’s subjectless confúsi sunt; heard rightly first."
+        },
+        {
+          "verse": "52:6b",
+          "remark": "os desprezou: whom",
+          "outcome": "refused",
+          "reason": "eos as open; heard rightly."
+        },
+        {
+          "verse": "52:7",
+          "remark": "Quem dará de Sião: the wish not heard",
+          "outcome": "refused",
+          "reason": "Ps 13 wording kept (decision quisdabit there): the Latin’s question, through which the wish sounds as in the Latin."
+        },
+        {
+          "verse": "52:7",
+          "remark": "reverter o cativeiro: end / undo the captivity / restore fortunes",
+          "outcome": "taken",
+          "reason": "Heard rightly, but listed as unknown; the verb was changed for the stylist’s “fizer voltar” (decision converterit).",
+          "decision": "converterit"
+        },
+        {
+          "verse": "52:7",
+          "remark": "do seu povo: God’s (heard first) / Israel’s",
+          "outcome": "refused",
+          "reason": "plebis suæ; Ps 13 wording."
+        },
+        {
+          "verse": "52:1",
+          "remark": "unknown word: insensato",
+          "outcome": "refused",
+          "reason": "Glossary insípiens (13:1a, 48:11, 48:13); Ps 13 wording."
+        },
+        {
+          "verse": "52:7",
+          "remark": "unknown word: reverter o cativeiro",
+          "outcome": "taken",
+          "reason": "Replaced (decision converterit).",
+          "decision": "converterit"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2. One verse changed: 52:7 “reverter o cativeiro” → “fizer voltar o cativeiro” (the stylist’s, the glossary’s verb). 52:5 and 52:6b gain decisions (cibum, and a stylist option in confusi) so the readers’ proposals are selectable; their text is unchanged. Every refusal that falls on a Ps 13 wording says so. Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, what the v1 readers read)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags as draft 1 (52:3 −3, 52:6b −3); 52:7 second colon now +2 against the Latin's 30, within bounds. No rhyme flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2 — the gate, read by claude-opus-5-5 (fresh context). No major. One minor, the same as on draft 1 (52:5 ut cibum panis); refused again. Passed the changed verse 52:7 ('fizer voltar o cativeiro', future perfect as future subjunctive) and 52:6b.",
+      "outcomes": [
+        {"verse": "52:5", "remark": "'como quem come pão' recasts ut cibum panis with an eater → 'como alimento de pão' (minor)", "outcome": "option", "decision": "cibum", "reason": "Ps 13 wording kept (13:4, rule 6; the Greek βρώσει ἄρτου is one for both twins and names the eating). 'alimento de pão' is not said in Portuguese; the same remark was refused at Ps 13's gate."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {"step": "readers", "note": "codex.py not called (Codex out of credits). The coordinator ran the three readers on draft 1 as fresh-context agents: claude-opus-5-5 (fresh context)."},
+  {"step": "latinist", "file": "critic/v1.latinist.json", "note": "claude-opus-5-5 (fresh context). No major; four minors on three verses. Tenses (the futures of 9, 10, 17, 18, 19, 21), moods, images and pointing approved. One taken (50:20), three refused and kept as options.", "outcomes": [
+    {"verse": "50:9", "remark": "*ficarei mais branco* loses the passive of *dealbábor*; fix *serei branqueado mais do que a neve*", "outcome": "option", "decision": "dealbabor", "reason": "*ficar* + adjective is the Portuguese resultative; *branqueado* is laundry and bleach"},
+    {"verse": "50:16", "remark": "plural *sanguínibus* → *dos sangues*", "outcome": "refused", "reason": "D29 (settled)"},
+    {"verse": "50:16", "remark": "*justítiam tuam* is an object: *exultará a vossa justiça*", "outcome": "option", "decision": "exsultabit", "reason": "*exultar* is never transitive in Portuguese nor in the fourteen finished uses; *na* is 12:6b, 34:9"},
+    {"verse": "50:20", "remark": "*benígne fac* is an act: *Tratai benignamente … a Sião*", "outcome": "taken"}
+  ]},
+  {"step": "stylist", "file": "critic/v1.stylist.json", "note": "claude-opus-5-5 (fresh context). Six remarks on six verses; best line 50:7, worst 50:8. Five taken (8, 9, 18, 20, 21), one refused (3b, a glossary row).", "outcomes": [
+    {"verse": "50:3b", "remark": "*compaixões* in the plural sounds translated → *clemências*", "outcome": "refused", "reason": "the miseratiónes row (24:6, passed twice); *clemências* is already an option"},
+    {"verse": "50:8", "remark": "*amastes … manifestastes* rhyme at mediant and final; long colon with the verb last", "outcome": "taken", "decision": "incerta", "reason": "*vós me manifestastes …* leads; the stylist's added *e* not taken (the Latin's asyndeton)"},
+    {"verse": "50:9", "remark": "*do que a neve* slack → *que a neve*", "outcome": "taken"},
+    {"verse": "50:18", "remark": "*eu certamente o teria dado* stumbles → *eu o teria dado certamente*", "outcome": "taken", "decision": "utique"},
+    {"verse": "50:20", "remark": "*com Sião* dangles → Sião before *na vossa boa vontade*", "outcome": "taken", "decision": "benigne"},
+    {"verse": "50:21", "remark": "*porão* heard as the noun → *sobre o vosso altar porão bezerros*", "outcome": "taken", "decision": "imponent"}
+  ]},
+  {"step": "ambiguity", "file": "critic/v1.ambiguity.json", "note": "claude-opus-5-5 (fresh context). 27 readings; the likely hearing was the intended one almost everywhere. Unclear hearings that are the Latin's own and kept: the purpose clause of 50:6 (Rom 3:4), the mother in 50:7, whose *espírito soberano* (14), *do sangue* as bloodshed (16, D29), who judges God (6), *Sacrifício a Deus* (19). Real risks: *porão* the noun (21, fixed by the stylist's order), *atribulado* = hectic (19, kept with note), *incertas* = doubtful (8, kept: *ocultas* steers). Unknown: hissopo, aspergireis (the Asperges words), holocaustos (row), entranhas (row, the organ kept), soberano — kept.", "outcomes": [
+    {"verse": "50:21", "remark": "*porão* heard as 'basement'", "outcome": "taken", "decision": "imponent"},
+    {"verse": "50:19", "remark": "*atribulado* heard as 'hectic'", "outcome": "refused", "reason": "beside *espírito* and *contrito* it is heard as afflicted; alternatives carry worse (quebranto) or another verb's word"},
+    {"verse": "50:8", "remark": "*incertas* may sound 'doubtful'", "outcome": "refused", "reason": "the Latin word; *obscuras* stays an option"},
+    {"verse": "50:14", "remark": "*soberano* unclear / unknown", "outcome": "refused", "reason": "the Greek's sense; God's own sovereign spirit is a reading the Latin allows"},
+    {"verse": "50:16", "remark": "bloodguilt not obvious in *do sangue*", "outcome": "refused", "reason": "D29"}
+  ]},
+  {"step": "revision", "version": 2, "note": "v2: 50:8 *vós me manifestastes as coisas incertas e ocultas da vossa sabedoria*; 50:9 *mais branco que a neve*; 50:18 *eu o teria dado certamente* (new decision `utique`); 50:20 *Tratai benignamente, Senhor, a Sião, na vossa boa vontade*; 50:21 *então sobre o vosso altar porão bezerros*. Refused proposals carried as options in `dealbabor`, `exsultabit`. Draft 1 kept as prayed.v1.json."}
+]

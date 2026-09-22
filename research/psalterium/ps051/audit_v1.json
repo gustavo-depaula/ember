@@ -1,0 +1,4 @@
+[
+  {"step": "checks", "note": "Draft 1: hard pass. Length: 51:3b +3 (*tu* named, the subject of *es*), 51:4b +3 (*uma* as 51:10 and 38:7), 51:6a −3, 51:8a −3, 51:8b −3, 51:9a −4 (Portuguese is shorter than the Latin's endings; nothing left out), accepted. Rhyme *benignidade / equidade* in 51:5: the Latin's own echo (*benignitátem / æquitátem*), kept (rule 5). Oxytone cadences at 51:8a *dirão* and 51:10a *Deus*: rule 4 allows the last syllable."},
+  {"step": "readers", "note": "codex.py not called (Codex out of credits since Ps 37). The coordinator runs the three readers on draft 1 as fresh-context agents."}
+]

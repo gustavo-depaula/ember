@@ -1,0 +1,11 @@
+[{"step": "latinist", "file": "critic/v2.latinist.json", "note": "Gate on draft 2, claude-opus-5-5 (fresh context). No critical or major; 8 minor issues in 7 verses, all refused under glossary rows or earlier reasons, each already selectable as an option except *jumentos* and *serei*. Its claim that the LXX has the vocative ἄνομε at 49:21 is contradicted by the Rahlfs text in consult/parallels/ps049.md (ὑπέλαβες ἀνομίαν, a noun object).",
+  "outcomes": [
+    {"verse": "49:1b", "remark": "decor → beleza, spécies → formosura", "outcome": "refused", "reason": "the decor row (esplendor, 20:6, 25:8, 29:8, 44:12) and the spécies row (beleza, 46:5); his wording would give each Latin noun the other's word."},
+    {"verse": "49:4", "remark": "separar → discernir", "outcome": "option", "decision": "discernere", "reason": "D42; discernir is heard as perceive."},
+    {"verse": "49:5", "remark": "firmam → ordenam", "outcome": "option", "decision": "ordinant", "reason": "as on v1: ordenar is heard as command."},
+    {"verse": "49:10", "remark": "animais → jumentos", "outcome": "refused", "reason": "the juménta row: jumento is a donkey in Brazil, a wrong image."},
+    {"verse": "49:13", "remark": "a carne → as carnes", "outcome": "option", "decision": "carnes", "reason": "number is grammar (D2, D29); flesh as food is singular in Portuguese; the stylist's fix."},
+    {"verse": "49:16", "remark": "na tua boca → pela tua boca", "outcome": "option", "decision": "peros", "reason": "as on v1: tomar pela boca is not said."},
+    {"verse": "49:21", "remark": "iniquamente → ó iníquo", "outcome": "option", "decision": "inique", "reason": "DRB and MS1932 read the adverb; the Greek in the parallels is ἀνομίαν, not a vocative, so it does not support his reading. For Gustavo."},
+    {"verse": "49:21", "remark": "seria → serei", "outcome": "refused", "reason": "sequence of tenses after a past verb (grammar, D2); he calls it defensible."}]},
+ {"step": "final", "note": "Draft 2 stands; status reviewed. No major left standing."}]

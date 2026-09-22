@@ -32,7 +32,7 @@ function stubDom(jsonById) {
 }
 
 const textOf = (h) => h.replace(/<span class="num">\d+[a-z]?<\/span>/g, '').replace(/<\/span><span class="colon">/g, ' / ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
-const ptLines = (psalmHtml) => psalmHtml.split('<div class="verse"').slice(1).map((row) => textOf(row.split(/<div class="side pt"[^>]*>/)[1].split('<div class="cf"')[0]));
+const ptLines = (psalmHtml) => psalmHtml.split('<div class="verse"').slice(1).map((row) => textOf(row.split(/<div class="side pt[^"]*"[^>]*>/)[1].split('<div class="cf"')[0]));
 const unsound = (html) => /\{\w+\}/.test(textOf(html)) || /<a [^>]*>[^<]*<a /.test(html);
 const readable = (html) => html.replace(/<\/div>|<\/details>|<\/summary>/g, '\n').replace(/<del>/g, '[-').replace(/<\/del>/g, '-]').replace(/<ins>/g, '[+').replace(/<\/ins>/g, '+]').replace(/<[^>]+>/g, ' ').replace(/[ \t]+/g, ' ').replace(/\n\s*\n+/g, '\n');
 
@@ -113,6 +113,35 @@ function checkFixture(siteDir) {
   p.fire('beside', 'literal');
   ok('the literal tier beside', psalm().includes('Busquei a face dele'));
 
+  // Berean's three versions: interlinear / literal / standard
+  ok('the version switch starts on the standard', p.els['ver-standard'].checked === true && p.api.page.state.version === 'standard');
+  p.fire('version', 'literal');
+  show('the literal version');
+  ok('literal: the literal tier faces the Latin, colon by colon', /class="side pt literal"/.test(psalm()) && ptLines(psalm())[1] === 'Busquei a face dele† / no dia da tribulação:* / escuta-me, Senhor.', ptLines(psalm())[1]);
+  ok('literal: the standard’s own switches step aside', p.els['view-switch'].hidden && p.els['wording-switch'].hidden && p.els['beside-switch'].hidden && p.els.blocks.innerHTML === '');
+  ok('literal: its legend, not the standard’s', !p.els['legend-literal'].hidden && p.els.legend.hidden);
+  p.fire('version', 'interlinear');
+  const inter = psalm();
+  console.log('\n== the interlinear version\n' + readable(inter));
+  ok('interlinear: a stacked block per word — Latin as printed, gloss, form', inter.includes('<span class="lw" translate="no">Quæsívi</span><span class="g" lang="pt-BR">buscar</span><span class="m">perf.1s</span>'));
+  ok('interlinear: the verse number opens the verse', /<div class="verse inter" id="v-999-2"><span class="inum">2<\/span>/.test(inter));
+  ok('interlinear: full pointing keeps the flex between the cola', /class="mk" aria-hidden="true">†</.test(inter));
+  ok('interlinear: a gloss not yet written shows as …, marked', inter.includes('<span class="g missing" lang="pt-BR">…</span>'));
+  ok('interlinear: a rare lemma is marked, the lemma in the title', /class="w rare" title="tribulatio — rare in the psalter"/.test(inter));
+  ok('interlinear: the prayed verse as chosen, below', (inter.match(/class="under"/g) || []).length === 3 && inter.includes('O semblante dele busquei'));
+  ok('interlinear: a verse without data says so', /id="v-999-3">[\s\S]*this verse has no interlinear/.test(inter));
+  ok('interlinear: its legend, with the abbreviations', !p.els['legend-interlinear'].hidden && p.els['legend-layers'].hidden && p.html.includes('impf'));
+  p.fire('pointing', 'app');
+  ok('interlinear: app pointing drops the flex and keeps the mediant', !psalm().includes('>†<') && /class="mk" aria-hidden="true">\*</.test(psalm()));
+  ok('the version is saved with the page’s state', JSON.parse(p.store['psalterium-ps999-v2']).version === 'interlinear');
+  const kept = p.api.page.data.interlinear;
+  delete p.api.page.data.interlinear; p.api.page.renderAll();
+  ok('a psalm without interlinear data: the option is disabled, the page falls back to the standard', p.els['ver-interlinear'].disabled === true && p.api.page.state.version === 'standard' && p.els['ver-standard'].checked === true);
+  p.api.page.data.interlinear = kept;
+  const page999 = fs.readFileSync(path.join(siteDir, 'ps999.html'), 'utf8');
+  ok('the switch is built in the page, in Berean’s order', /id="ver-interlinear"[^>]*><label[^>]*>interlinear<[\s\S]*id="ver-literal"[\s\S]*id="ver-standard"/.test(page999) && !/id="ver-interlinear"[^>]*disabled/.test(page999));
+  p.fire('version', 'standard'); p.fire('pointing', 'full');
+
   p.fire('view', 'layers');
   const layers = psalm();
   console.log('\n== layers\n' + readable(layers));
@@ -120,6 +149,7 @@ function checkFixture(siteDir) {
   ok('layers: the critic’s remark hangs beside the change', /stylist · gpt-6-astra<\/span>.*Chamar is too weak/.test(layers));
   ok('layers: the audit clause that names the verse', layers.includes('999:1 chamei → Clamei after the stylist.'));
   ok('layers: my choices as a further layer', layers.includes('my choices') && layers.includes('<ins>atendeu.</ins>'));
+  ok('layers: the word-by-word line from the generated interlinear', layers.includes('word by word') && layers.includes('<span translate="no">Quæsívi</span><span lang="pt-BR">buscar</span>'));
   ok('layers: an untouched verse folds to one line', /<details class="verse layered" id="v-999-3">/.test(layers) && layers.includes('unchanged through 2 drafts'));
   p.fire('view', 'facing');
 
@@ -184,7 +214,16 @@ function checkPilot(siteDir) {
   console.log('\n== layers, 4:6 and 4:9\n' + ['v-4-6', 'v-4-9'].map((id) => readable(layers.split(`id="${id}"`)[1].split('class="verse layered"')[0])).join('\n--\n'));
   ok('layers: draft 1 → 2 on real data', layers.includes('<ins>um</ins>') && layers.includes('<del>juntamente,</del>'));
   ok('layers: draft 2 → 3, the ruling on exaudíre', layers.includes('<del>atendei</del>') && layers.includes('<ins>escutai</ins>'));
-  ok('layers: the interlinear gloss line (Ps 4 only)', layers.includes('word by word') && layers.includes('class="gl"'));
+  ok('layers: the interlinear gloss line, now from interlinear/ps004.json', layers.includes('word by word') && layers.includes('<span translate="no">invocárem</span>'));
+  p.fire('view', 'facing');
+  p.fire('version', 'interlinear');
+  const inter = p.els.psalm.innerHTML;
+  console.log('\n== the interlinear, 4:2a\n' + readable(inter.split('id="v-4-2a"')[1].split('<div class="verse inter"')[0]));
+  ok('interlinear on real data: the settled gloss of exaudíre under exaudívit', /<span class="lw" translate="no">exaudívit<\/span><span class="g" lang="pt-BR">escutar<\/span><span class="m">perf.3s<\/span>/.test(inter));
+  ok('interlinear: miserére mei read as ego, not meus (a pair override)', /<span class="lw" translate="no">mei,<\/span><span class="g" lang="pt-BR">de mim<\/span><span class="m">gen.1s<\/span>/.test(inter));
+  p.fire('version', 'literal');
+  ok('literal on real data: Ps 4’s literal tier', p.els.psalm.innerHTML.includes('Quando eu invocava, ouviu-me o Deus da minha justiça'));
+  p.fire('version', 'standard'); p.fire('view', 'layers');
   ok('layers: the stylist’s remark beside 4:6, and not the remarks about words that did not move', /id="v-4-6"[\s\S]*?stylist · gpt-6-astra[\s\S]*?id="v-4-7"/.test(layers) && !/id="v-4-6"[\s\S]*?back-translate[\s\S]*?id="v-4-7"/.test(layers));
 }
 
@@ -204,6 +243,17 @@ function checkArrival(siteDir, key) {
   const untouchable = data.decisions.filter((d) => (d.refs ?? []).length && !d.decided && !p.els.psalm.innerHTML.includes(`href="#d-${d.id}"`)).map((d) => d.id);
   ok('every open wording has a word to touch in the psalm', !untouchable.length, untouchable.join(', '));
   for (const beside of ['literal', 'all', 'none']) p.fire('beside', beside);
+  const html = fs.readFileSync(path.join(siteDir, `${key}.html`), 'utf8');
+  if (data.interlinear && Object.keys(data.interlinear).length) {
+    p.fire('version', 'interlinear');
+    const inter = p.els.psalm.innerHTML;
+    ok('the interlinear renders every verse, each with its words', (inter.match(/class="verse inter"/g) || []).length === data.verses.length && !inter.includes('this verse has no interlinear'));
+    const missing = (inter.match(/class="g missing"/g) || []).length;
+    console.log(`   interlinear: ${(inter.match(/class="w[ "]/g) || []).length} words, ${missing} without a gloss yet`);
+  } else ok('no interlinear data: the option is disabled in the page', /id="ver-interlinear"[^>]*disabled/.test(html));
+  p.fire('version', data.verses.some((v) => v.literal) ? 'literal' : 'standard');
+  ok('the literal version renders (or is disabled)', data.verses.some((v) => v.literal) ? (p.els.psalm.innerHTML.match(/class="side pt literal"/g) || []).length === data.verses.length : /id="ver-literal"[^>]*disabled/.test(html));
+  p.fire('version', 'standard');
   p.fire('view', 'layers');
   ok('the layers render for every verse', (p.els.psalm.innerHTML.match(/class="verse layered"/g) || []).length === data.verses.length);
   ok('the export holds the whole psalm', data.verses.every((v) => p.api.asMarkdown(data, p.api.page.state, '2026-09-21').includes(`\n${v.id} `)));

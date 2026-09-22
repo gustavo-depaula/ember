@@ -1,0 +1,15 @@
+{
+ "order": "tense.mood.voice.person-number for verbs; case.number.gender for nouns, adjectives, participles; the indicative, the active and a noun’s gender go unsaid",
+ "abbreviations": {
+  "nom gen dat acc abl voc": "cases",
+  "sg pl": "singular, plural",
+  "m f n": "masculine, feminine, neuter",
+  "1s 2s 3s 1p 2p 3p": "person and number (acc.1s = me)",
+  "pres impf fut perf plqp futp": "present, imperfect, future, perfect, pluperfect, future perfect",
+  "subj imp": "subjunctive, imperative",
+  "pass": "passive (LatinCy parses most deponents so)",
+  "inf part ger gdv sup": "infinitive, participle, gerund, gerundive, supine",
+  "comp superl": "comparative, superlative",
+  "conj. prep. adv. interj. neg. num. n.pr.": "the words that do not inflect, and proper names"
+ }
+}

@@ -118,7 +118,7 @@ The pipeline replicates the Berean Bible's method: the translation is built as a
 | Tier | What it is | Produced by | Gate to next tier |
 | --- | --- | --- | --- |
 | 0. Source | Clementine Latin, per colon, with parse and lexicon notes | Scripts (LatinCy/CLTK, PROIEL, lexica) | Parse verified against treebank; rare words flagged |
-| 1. Interlinear | Word-by-word gloss under each Latin word, with lemma and morphology | Scripts plus glossary; LLM only for sense choice on flagged words | Latinist spot-check; every gloss traceable to a lemma |
+| 1. Interlinear | Word-by-word gloss under each Latin word, with lemma and morphology | Scripts (LatinCy parse, `interlinear/`) plus one psalter-wide lemma → gloss table; LLM only to write that table's glosses and correct misparses | Latinist spot-check; every gloss traceable to a lemma |
 | 2. Literal | Grammatical Portuguese that follows the Latin word order and imagery as far as the language allows | LLM drafter from the dossier | Latinist critic: adequacy, nothing added or lost |
 | 3. Prayed | The deliverable: cola aligned, cadenced, in the simple-nobility register | LLM drafter at psalm level, refiner at verse level, stylist critic | Script checks, model judges, human review, prayer test |
 | 4. Notes | Why a rendering was chosen; alternatives; Roman Psalter and antiphon divergences | Generated from the verse record's provenance | Human edit before publication |

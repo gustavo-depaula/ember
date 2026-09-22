@@ -325,6 +325,7 @@ def loadPsalm(folder, progress):
         'audit': merged.get('audit') or [], 'intro': merged.get('intro') or [],
         'notes': [merged[k] for k in ('note', 'producedBy') if isinstance(merged.get(k), str)],
         'legacyStoreKey': merged.get('legacyStoreKey'), 'warnings': warnings,
+        'interlinear': interlinearOf(folder.parent, key),
     }
 
 
@@ -356,18 +357,25 @@ def keptDrafts(p):
     return [*sorted(kept, key=lambda pair: pair[0]), (int(p['version']), p['flat'])]
 
 
-def interlinearOf(folder):
-    """The word-by-word gloss line, where a psalm has one (only the pilot does): {vid: [[form, gloss], …]}."""
-    path = folder / 'interlinear.md'
-    glosses, vid = {}, ''
-    for line in path.read_text(encoding='utf-8').splitlines() if path.exists() else []:
-        if line.startswith('## '):
-            vid = line[3:].strip()
-        elif line.startswith('|') and vid:
-            row = cells(line)
-            if len(row) >= 4 and row[0] != 'form' and not row[0].startswith('-'):
-                glosses.setdefault(vid, []).append([row[0].strip('`'), row[3]])
-    return glosses
+def interlinearOf(root, key):
+    """The generated interlinear (interlinear/build.py), where it is on disk: {vid: [[form, gloss, morph, lemma(, 1)] | mark, …]}."""
+    path = root / 'interlinear' / f'{key}.json'
+    if not path.exists():
+        return {}
+    try:
+        return readJson(path).get('verses') or {}
+    except ValueError:
+        return {}
+
+
+def interlinearLegend(root):
+    path = next((r / 'interlinear' / 'legend.json' for r in (root, here) if (r / 'interlinear' / 'legend.json').exists()), root / 'legend.json')
+    try:
+        legend = readJson(path) if path.exists() else {}
+    except ValueError:
+        legend = {}
+    pairs = ' · '.join(f'<i>{esc(k)}</i> {esc(v)}' for k, v in (legend.get('abbreviations') or {}).items())
+    return f"{esc(legend.get('order', ''))}. {pairs}" if pairs else ''
 
 
 def remarksByVerse(reply):
@@ -466,13 +474,13 @@ def pageData(p, full=True):
     if p['legacyStoreKey']:
         data['legacyStoreKey'] = p['legacyStoreKey']
     if full:
-        # the strata of the layers view; decisions.html carries every psalm at once and leaves them out
+        # the strata of the layers view and the interlinear; decisions.html carries every psalm at once and leaves them out
         drafts = keptDrafts(p)
         data['layers'] = {
             'drafts': [{'version': version, 'verses': flat} for version, flat in drafts],
-            'interlinear': interlinearOf(p['folder']),
             'causes': causesOf(p, drafts),
         }
+        data['interlinear'] = {v['id']: p['interlinear'][v['id']] for v in p['latin'] if v['id'] in p['interlinear']}
     return data
 
 
@@ -768,9 +776,18 @@ def switch(legend, name, options, elementId='', disabled=()):
 def psalmPage(p, previous, following):
     data = pageData(p)
     presets = [(f"w-{preset['from']}", preset['from'], preset['label']) for preset in data['presets']]
+    # Berean's three: the interlinear (generated), the literal tier (the scaffold), the standard (what is prayed)
+    hasInterlinear = bool(data['interlinear'])
+    hasLiteral = any(v['literal'] for v in data['verses'])
+    versions = [
+        ('ver-interlinear', 'interlinear', 'interlinear' if hasInterlinear else 'interlinear — not generated yet'),
+        ('ver-literal', 'literal', 'literal' if hasLiteral else 'literal — no literal tier'),
+        ('ver-standard', 'standard', 'standard'),
+    ]
     bar = (
         '<nav class="bar" aria-label="How the psalm is shown">'
-        + switch('view', 'view', [('view-facing', 'facing', 'facing columns'), ('view-layers', 'layers', 'the layers')])
+        + switch('version', 'version', versions, 'version-switch', disabled={oid for oid, value, _ in versions if (value == 'interlinear' and not hasInterlinear) or (value == 'literal' and not hasLiteral)})
+        + switch('view', 'view', [('view-facing', 'facing', 'facing columns'), ('view-layers', 'layers', 'the layers')], 'view-switch')
         + switch('pointing', 'pointing', [('p-app', 'app', 'as Ember shows it'), ('p-full', 'full', 'with flexes')])
         + switch('wording', 'preset', [('w-draft', 'draft', f"draft {p['version']}"), *presets, ('w-mine', 'mine', 'my choices')], 'wording-switch', disabled={f"w-{preset['from']}" for preset in data['presets'] if preset.get('same')})
         + switch('beside it', 'beside', [('b-none', 'none', 'nothing'), ('b-literal', 'literal', 'the literal tier'), ('b-pt', 'pt', 'português'), ('b-en', 'en', 'english'), ('b-all', 'all', 'both')], 'beside-switch')
@@ -801,6 +818,8 @@ def psalmPage(p, previous, following):
   <section class="psalm" id="blocks" aria-label="Other psalters, whole"></section><section class="psalm" id="psalm" aria-label="{esc(p['title'])}, Latin and Portuguese"></section>
   <p class="legend" id="legend">{legend}</p>
   <p class="legend" id="legend-layers" hidden>{layersLegend}</p>
+  <p class="legend" id="legend-literal" hidden>The literal tier: the Latin’s words and order kept as far as Portuguese grammar allows — the scaffold the prayed text was made from, not a text to pray.</p>
+  <p class="legend" id="legend-interlinear" hidden>Word by word: under each Latin word, its lemma’s dictionary sense and its form. Generated, not translated — LatinCy’s parse, unreviewed, and one gloss per lemma (<code>interlinear/</code>); … marks a gloss not yet written, and a dotted word a lemma rare in the psalter. Under each verse, the prayed text as you have chosen it. {interlinearLegend(p['folder'].parent)}</p>
 
   {marker('What is yours to decide', anchor='decide')}
   {'<div class="prose">' + ''.join(f'<p>{esc(para)}</p>' for para in p['intro']) + '</div>' if p['intro'] else ''}

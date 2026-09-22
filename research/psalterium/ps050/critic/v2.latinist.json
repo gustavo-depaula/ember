@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "396a709af2f37fcb48940bf82cb171c81b8a1fbccf6834f162150768042b93f1",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-22T19:00:32+00:00",
+  "reply": "{\"verses\": [{\"id\": \"50:9\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"super nivem dealbábor\", \"portuguese\": \"ficarei mais branco que a neve\", \"problem\": \"The Latin keeps the passive of the same pattern as 'mundábor' / 'lavábis me' (I shall be whitened, by God's action); 'ficarei mais branco' turns it into a stative intransitive and loses the voice.\", \"fix\": \"serei alvejado mais que a neve\"}]}, {\"id\": \"50:16\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"de sanguínibus\", \"portuguese\": \"do sangue\", \"problem\": \"The Latin plural (bloods = bloodguiltiness) is flattened to a singular; the plural is a Septuagintal/Hebraic oddity that should be kept.\", \"fix\": \"Livrai-me dos sangues\"}, {\"latin\": \"exsultábit lingua mea justítiam tuam\", \"portuguese\": \"a minha língua exultará na vossa justiça\", \"problem\": \"In the Latin 'justítiam tuam' is the direct object of 'exsultábit' (my tongue will extol with joy your justice); 'na vossa justiça' makes justice the ground of rejoicing rather than what the tongue proclaims.\", \"fix\": \"e a minha língua exaltará com júbilo a vossa justiça\"}]}], \"overall\": \"A close and faithful rendering: tenses (futures in 9, 10, 17, 18, 19, 21), the passive 'cum judicáris', 'spíritu principáli' and the Latin's 'Ecce enim' are all kept, and the pointing marks match the Latin (a single mediant in every verse). Only two minor points: the passive 'dealbábor' in v. 9 and, in v. 16, the plural 'sanguínibus' and the transitive 'exsultábit … justítiam tuam'.\"}\n"
+}

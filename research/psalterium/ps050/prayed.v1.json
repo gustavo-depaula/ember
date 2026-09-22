@@ -1,0 +1,1012 @@
+{
+  "psalm": 50,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "50:3a": "Tende piedade de mim, {v3deus}, * segundo a vossa grande misericórdia.",
+    "50:3b": "E segundo a multidão das vossas {miserationes}, * apagai a minha iniquidade.",
+    "50:4": "{amplius} da minha iniquidade: * e {v4b}.",
+    "50:5": "Porque eu conheço a minha iniquidade: * e o meu pecado está sempre {contra}.",
+    "50:6": "{tibisoli}, e fiz o mal diante de vós: * para que sejais {justificado} nas vossas palavras, e vençais quando fordes julgado.",
+    "50:7": "{ecce7} fui concebido em iniquidades: * e em pecados me concebeu a minha mãe.",
+    "50:8": "{ecce8} amastes a verdade: * {incerta}.",
+    "50:9": "{asperges}, e {mundabor}: * {lavabis}, e {dealbabor}.",
+    "50:10": "Ao meu ouvido dareis {gaudium} e alegria: * e exultarão os ossos humilhados.",
+    "50:11": "Desviai a vossa face dos meus pecados: * e {v11b}.",
+    "50:12": "{cormundum}: * e renovai nas minhas entranhas um espírito reto.",
+    "50:13": "Não me lanceis {proicias}: * e não tireis de mim o vosso {sanctum}.",
+    "50:14": "{redde} a alegria da vossa salvação: * e {confirma} com um espírito {principali}.",
+    "50:15": "Ensinarei aos iníquos os vossos caminhos: * e os ímpios {convertentur}.",
+    "50:16": "Livrai-me {sanguinibus}, {v16deus}, Deus da minha salvação: * e a minha língua {exsultabit}.",
+    "50:17": "Senhor, abrireis os meus lábios: * e a minha boca anunciará o vosso louvor.",
+    "50:18": "Porque, se quisésseis sacrifício, eu certamente o teria dado: * com holocaustos não vos {delectaberis}.",
+    "50:19": "Sacrifício a Deus é um espírito {contribulatus}: * um coração contrito e humilhado, {v19deus}, não {despicies}.",
+    "50:20": "{benigne}: * para que {aedificentur} os muros de Jerusalém.",
+    "50:21": "Então aceitareis o sacrifício de justiça, as oferendas e os holocaustos: * então {imponent}."
+  },
+  "decisions": [
+    {
+      "id": "deus",
+      "refs": [
+        "50:3a",
+        "50:12",
+        "50:16",
+        "50:19"
+      ],
+      "latin": "Miserére mei, Deus · crea in me, Deus · Deus, Deus salútis meæ · Deus, non despícies",
+      "kind": "glossary",
+      "why": "The vocative *Deus* has been bare in every finished psalm (16:6, 21:21, 24:22, 42:1, 43:10, 47:10–11: *Julgai-me, Deus*, *Acolhemos, Deus*); the glossary gives *ó* only where the Latin has *o*, and 44:7 took *ó Deus* only because the psalm says *tu* and the vocative had to be marked. The incipit *Tende piedade de mim, ó Deus* is the sound many Brazilians know, but that is memory, not a witness, and the psalter would then say *Deus* two ways. Ruled bare, in all four places at once.",
+      "options": [
+        {
+          "label": "Deus (bare)",
+          "forms": {
+            "v3deus": "Deus",
+            "v12deus": "Deus",
+            "v16deus": "Deus",
+            "v19deus": "Deus"
+          },
+          "note": "Ruling; the psalter's practice so far (47:10, 42:1 …).",
+          "from": "glossary"
+        },
+        {
+          "label": "ó Deus",
+          "forms": {
+            "v3deus": "ó Deus",
+            "v12deus": "ó Deus",
+            "v16deus": "ó Deus",
+            "v19deus": "ó Deus"
+          },
+          "note": "MS1932 and DM1962 *ó Deus* in 3a, 12, 19; more solemn at the incipit; adds a syllable in four places and breaks with the finished psalms.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "miserationes",
+      "refs": [
+        "50:3b"
+      ],
+      "latin": "secúndum multitúdinem miseratiónum tuárum",
+      "kind": "glossary",
+      "why": "The Latin says the mercy twice with two words, *misericórdia* (3a, ἔλεος) and *miseratiónes* (3b, οἰκτιρμοί), a pair the Greek has too, so by D15's test they stay two. The open row *miseratiónes → compaixões* has already been applied beside *misericórdias* in 24:6 and passed the Latinist twice. multitúdo → *multidão* (row, 5:7b).",
+      "options": [
+        {
+          "label": "compaixões",
+          "forms": {
+            "miserationes": "compaixões"
+          },
+          "note": "Ruling; the row (118:77, 24:6).",
+          "from": "glossary"
+        },
+        {
+          "label": "misericórdias",
+          "forms": {
+            "miserationes": "misericórdias"
+          },
+          "note": "merges the two Latin words (as MS1932 nearly does, *clemências*) — the Greek keeps them apart.",
+          "from": "draft"
+        },
+        {
+          "label": "clemências",
+          "forms": {
+            "miserationes": "clemências"
+          },
+          "note": "MS1932; a word of courts and pardons, bookish in the plural.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "amplius",
+      "refs": [
+        "50:4"
+      ],
+      "latin": "Ámplius lava me",
+      "kind": "word",
+      "why": "*Ámplius* is 'more, further' (ἐπὶ πλεῖον): wash me yet more. DRB 'Wash me yet more', MS1932 *Lava-me mais e mais*. The imperative goes first, as Portuguese wants, and the adverb follows it. *ainda mais* says 'yet more' in two plain words; *mais e mais* doubles a word the Latin has once. The Lauds antiphon *Ámplius lava me, Dómine, ab injustítia mea* reads with the same opening.",
+      "options": [
+        {
+          "label": "Lavai-me ainda mais",
+          "forms": {
+            "amplius": "Lavai-me ainda mais"
+          },
+          "note": "Ruling; DRB 'yet more'.",
+          "from": "DRB"
+        },
+        {
+          "label": "Lavai-me mais e mais",
+          "forms": {
+            "amplius": "Lavai-me mais e mais"
+          },
+          "note": "MS1932; the doubling is his, not the Latin's.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Lavai-me inteiramente",
+          "forms": {
+            "amplius": "Lavai-me inteiramente"
+          },
+          "note": "DM1962 (from the Hebrew, 'thoroughly'); the Latin's degree becomes completeness. Refused.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "munda",
+      "refs": [
+        "50:4",
+        "50:9"
+      ],
+      "latin": "a peccáto meo munda me · et mundábor",
+      "kind": "glossary",
+      "why": "The open row *mundáre → purificar* (18:13, 18:14b) named these two places, and said *limpar* was the fall-back if Ps 50 needed it. It does not: the psalm has the root three times — *munda me* (4), *mundábor* (9), *cor mundum* (12) — and *purificai-me … serei purificado … coração puro* keeps the echo in Portuguese, where *limpar … limpo … puro* would break it at the most famous of the three. The collision the row feared (11:7 *purgátum → purificada*) does not arise here.",
+      "options": [
+        {
+          "label": "purificai-me / serei purificado",
+          "forms": {
+            "munda4": "purificai-me",
+            "mundabor": "serei purificado"
+          },
+          "note": "Ruling; the row; MS1932 *purifica-me … serei purificado*; echoes *puro* (50:12).",
+          "from": "glossary"
+        },
+        {
+          "label": "limpai-me / ficarei limpo",
+          "forms": {
+            "munda4": "limpai-me",
+            "mundabor": "ficarei limpo"
+          },
+          "note": "the row's fall-back (DRB 'cleanse'; DM1962 *serei limpo*); plainer, shorter in 50:9, but loses the echo with *coração puro*.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "chiasm",
+      "refs": [
+        "50:4",
+        "50:11"
+      ],
+      "latin": "et a peccáto meo munda me · et omnes iniquitátes meas dele",
+      "kind": "order",
+      "why": "Both second cola put the imperative last (*a peccáto meo munda me*, *omnes iniquitátes meas dele*), a chiasm against the verb-first colon before them. D2 lets order follow the ear; the verb-first order is how a Brazilian asks, and it ends each colon on a paroxytone (*pecado*, *iniquidades*). The Preces say 50:11b alone as a response (*R. Et omnes iniquitátes meas dele*): *E apagai todas as minhas iniquidades* stands alone.",
+      "options": [
+        {
+          "label": "verb first",
+          "forms": {
+            "v4b": "{munda4} do meu pecado",
+            "v11b": "apagai todas as minhas iniquidades"
+          },
+          "note": "Ruling; MS1932 has both so.",
+          "from": "MS1932"
+        },
+        {
+          "label": "the Latin's chiasm",
+          "forms": {
+            "v4b": "do meu pecado {munda4}",
+            "v11b": "todas as minhas iniquidades apagai"
+          },
+          "note": "the Latin's order; sayable in 50:4, stiff in 50:11.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "contra",
+      "refs": [
+        "50:5"
+      ],
+      "latin": "et peccátum meum contra me est semper",
+      "kind": "word",
+      "why": "*contra* here is the old local sense, 'over against, facing' (L&S's first sense of the adverb and preposition), and the Greek is ἐνώπιόν μου, 'before me'. In Portuguese *contra mim* is heard only as hostility ('my sin is against me') — a sense the Greek excludes and the Latin does not need. DRB 'before me', MS1932 *diante de mim*. The same words close the Pent01-3 versicle (*et delíctum meum contra me est semper*).",
+      "options": [
+        {
+          "label": "diante de mim",
+          "forms": {
+            "contra": "diante de mim"
+          },
+          "note": "Ruling; DRB, MS1932, the Greek.",
+          "from": "DRB"
+        },
+        {
+          "label": "contra mim",
+          "forms": {
+            "contra": "contra mim"
+          },
+          "note": "the cognate; heard as 'against me', which is the Latin's secondary sense, not this verse's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "tibisoli",
+      "refs": [
+        "50:6"
+      ],
+      "latin": "Tibi soli peccávi",
+      "kind": "order",
+      "why": "The dative of the one sinned against → *contra vós*; *soli* must attach to *vós*, not to the speaker. *Só contra vós pequei* puts *só* where it can only mean 'against you alone', in five syllables against the Latin's seven, and reads alone as the Thursday Lauds antiphon (*Tibi soli peccávi, Dómine, miserére mei*). *Pequei contra vós só* dangles; *Contra vós só pequei* can be heard 'against you I only sinned'.",
+      "options": [
+        {
+          "label": "Só contra vós pequei",
+          "forms": {
+            "tibisoli": "Só contra vós pequei"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Contra vós somente pequei",
+          "forms": {
+            "tibisoli": "Contra vós somente pequei"
+          },
+          "note": "the Latin's order (the pronoun first); *somente* is heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "Pequei contra vós só",
+          "forms": {
+            "tibisoli": "Pequei contra vós só"
+          },
+          "note": "MS1932's order (*Pequei contra ti só*); ends on a dangling *só*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "justificado",
+      "refs": [
+        "50:6"
+      ],
+      "latin": "ut justificéris in sermónibus tuis, et vincas cum judicáris",
+      "kind": "word",
+      "why": "St Paul quotes this colon word for word in Rom 3:4 (Clementine, `consult/bolls-VULG-45-3.json`: *Ut justificeris in sermonibus tuis: et vincas cum judicaris*), so the Latin's verb, a theological word, stays: *justificado*. *reconhecido justo* (MS1932 *encontrado justo*) explains it. sermo → *palavra* (D15). *cum judicáris* is a present passive ('when you are judged', ἐν τῷ κρίνεσθαί σε); Portuguese says a general 'when' with the future subjunctive, *quando fordes julgado* — mood and tense are grammar (D2); DRB 'when thou art judged', MS1932 *quando fores julgado*.",
+      "options": [
+        {
+          "label": "justificado",
+          "forms": {
+            "justificado": "justificado"
+          },
+          "note": "Ruling; the Latin's (and Rom 3:4's) verb; DRB 'justified'.",
+          "from": "DRB"
+        },
+        {
+          "label": "reconhecido justo",
+          "forms": {
+            "justificado": "reconhecido justo"
+          },
+          "note": "explains the verb (MS1932 *encontrado justo*); the reader crossing to Rom 3:4 would lose it.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ecce",
+      "refs": [
+        "50:7",
+        "50:8"
+      ],
+      "latin": "Ecce enim (twice)",
+      "kind": "glossary",
+      "why": "The two verses open alike and must stay alike (rule 6). 53:6 rendered this very phrase *Pois eis que* (ecce → *eis*, enim → *pois*, both rows), and it is copied. MS1932 and DRB keep both words ('For behold'); dropping *pois* loses the link to 50:6 the Latin makes.",
+      "options": [
+        {
+          "label": "Pois eis que",
+          "forms": {
+            "ecce7": "Pois eis que",
+            "ecce8": "Pois eis que"
+          },
+          "note": "Ruling; = 53:6.",
+          "from": "glossary"
+        },
+        {
+          "label": "Eis que",
+          "forms": {
+            "ecce7": "Eis que",
+            "ecce8": "Eis que"
+          },
+          "note": "MS1932 (he drops *enim*); lighter, loses a word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "incerta",
+      "refs": [
+        "50:8"
+      ],
+      "latin": "incérta et occúlta sapiéntiæ tuæ manifestásti mihi",
+      "kind": "word",
+      "why": "*incérta* (ἄδηλα) is what is not known for certain, the unclear; *occúlta* (κρύφια) the hidden. The cognates keep both Latin words; *incertas* risks being heard as 'doubtful', but the Latin runs the same risk and the next word (*ocultas*) steers it. The neuter plurals take a noun (*coisas*), as 16:14b *abscóndita → coisas escondidas*. The Latin puts the objects first and the verb last; the draft keeps that, so that the colon ends on the revealing — Portuguese allows it in a solemn sentence, and *me manifestastes* is a clean paroxytone cadence. MS1932 *o segredo e o mistério* paraphrases.",
+      "options": [
+        {
+          "label": "objects first, verb last",
+          "forms": {
+            "incerta": "as coisas incertas e ocultas da vossa sabedoria me manifestastes"
+          },
+          "note": "Ruling; the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "verb first",
+          "forms": {
+            "incerta": "manifestastes-me as coisas incertas e ocultas da vossa sabedoria"
+          },
+          "note": "natural order; ends on *sabedoria*; the enclisis at the head of the colon is formal.",
+          "from": "draft"
+        },
+        {
+          "label": "obscuras e ocultas",
+          "forms": {
+            "incerta": "as coisas obscuras e ocultas da vossa sabedoria me manifestastes"
+          },
+          "note": "the Greek's 'unclear' without the risk of 'doubtful'; not the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "o segredo e o mistério",
+          "forms": {
+            "incerta": "me revelastes o segredo e o mistério da vossa sabedoria"
+          },
+          "note": "MS1932; paraphrase. Refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "asperges",
+      "refs": [
+        "50:9"
+      ],
+      "latin": "Aspérges me hyssópo … lavábis me",
+      "kind": "grammar",
+      "why": "Two futures with an object pronoun, each heading a colon. The mesóclise *Aspergir-me-eis … lavar-me-eis* is correct and bookish (rule 5); the Brazilian way is the subject named and the pronoun before the verb — the precedent is 17:44 *Vós me arrancareis* and 30:5 *Vós me tirareis*. The subject is named in both cola so that each stands by itself: the verse is the Asperges antiphon (*Aspérges me, Dómine, hyssópo …*, Ordo/Prayers) and is sung alone. The Latin is a future, not an imperative, and stays one. hyssópus → *hissopo* (the current spelling; MS1932 *hissope*).",
+      "options": [
+        {
+          "label": "Vós me aspergireis … vós me lavareis",
+          "forms": {
+            "asperges": "Vós me aspergireis com o hissopo",
+            "lavabis": "vós me lavareis"
+          },
+          "note": "Ruling; 17:44, 30:5.",
+          "from": "draft"
+        },
+        {
+          "label": "mesóclise",
+          "forms": {
+            "asperges": "Aspergir-me-eis com o hissopo",
+            "lavabis": "lavar-me-eis"
+          },
+          "note": "the Latin's verb-first order; correct, bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "second subject dropped",
+          "forms": {
+            "asperges": "Vós me aspergireis com o hissopo",
+            "lavabis": "me lavareis"
+          },
+          "note": "one syllable shorter; a colon opening on an unstressed *me*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dealbabor",
+      "refs": [
+        "50:9"
+      ],
+      "latin": "et super nivem dealbábor",
+      "kind": "word",
+      "why": "*dealbábor* is a passive, 'I shall be whitened', and *super nivem* 'above the snow' (ὑπὲρ χιόνα) — the comparison. *ficarei mais branco do que a neve* says the comparison as Portuguese says it and keeps the whiteness and the snow; the passive agent is lost (it is God, named in *lavareis* just before). *branqueado* is laundry, and in the other Portuguese it is money-laundering. DRB 'I shall be made whiter than snow', MS1932 *me tornarei mais branco que a neve*.",
+      "options": [
+        {
+          "label": "ficarei mais branco do que a neve",
+          "forms": {
+            "dealbabor": "ficarei mais branco do que a neve"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "serei feito mais branco que a neve",
+          "forms": {
+            "dealbabor": "serei feito mais branco que a neve"
+          },
+          "note": "keeps the passive (DRB 'made whiter'); heavier.",
+          "from": "DRB"
+        },
+        {
+          "label": "me tornarei mais branco que a neve",
+          "forms": {
+            "dealbabor": "me tornarei mais branco que a neve"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "gaudium",
+      "refs": [
+        "50:10"
+      ],
+      "latin": "gáudium et lætítiam",
+      "kind": "glossary",
+      "why": "The row *gáudium → júbilo* names this verse: *alegria* is lætítia's and both stand here, so they must differ; *gozo* is heard sexually in Brazil. D43 freed *júbilo* for gáudium by giving the *jubiláre* family *aclamar*. The blind reader of Ps 20 did not know *júbilo*; the Matins versicle (*V. Audítui meo dabis gáudium et lætítiam. R. Et exsultábunt ossa humiliáta*, Psalmi matutinum) makes this the most-heard place of the word.",
+      "options": [
+        {
+          "label": "júbilo",
+          "forms": {
+            "gaudium": "júbilo"
+          },
+          "note": "Ruling; the row (20:7, 29:12).",
+          "from": "glossary"
+        },
+        {
+          "label": "regozijo",
+          "forms": {
+            "gaudium": "regozijo"
+          },
+          "note": "free in the glossary; heavier.",
+          "from": "glossary"
+        },
+        {
+          "label": "gozo",
+          "forms": {
+            "gaudium": "gozo"
+          },
+          "note": "MS1932; refused by the row (heard sexually).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cormundum",
+      "refs": [
+        "50:12"
+      ],
+      "latin": "Cor mundum crea in me, Deus",
+      "kind": "order",
+      "why": "The Latin fronts the object; it is the Lent I antiphon (*Cor mundum * crea in me Deus*, Tempora/Quad1-0) and a Preces versicle. Portuguese says the imperative first, and the colon then ends on *puro*, a paroxytone, with the vocative inside it. Fronted (*Um coração puro criai em mim, Deus*) it is sayable and keeps the Latin's emphasis, but ends on the monosyllable. mundus → *puro* (the adjective of the mundáre row); víscera → *entranhas* (the organ kept, rule 5; MS1932 *entranhas*, DRB 'bowels'); *ínnova* → *renovai*; rectus → *reto*.",
+      "options": [
+        {
+          "label": "Criai em mim, Deus, um coração puro",
+          "forms": {
+            "cormundum": "Criai em mim, {v12deus}, um coração puro"
+          },
+          "note": "Ruling; MS1932's order.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Um coração puro criai em mim, Deus",
+          "forms": {
+            "cormundum": "Um coração puro criai em mim, {v12deus}"
+          },
+          "note": "the Latin's order; the antiphon's intonation would fall on *Um coração puro*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "proicias",
+      "refs": [
+        "50:13"
+      ],
+      "latin": "Ne proícias me a fácie tua",
+      "kind": "glossary",
+      "why": "The proícere row names this verse and pencils *Não me lanceis da vossa face*. But 2:3 took *lançar para longe de* after the stylist heard *lançar de* as a calque, and the same holds here; ἀπορρίψῃς is 'cast away'. *para longe* is supplied as there (D2: grammar), the face (fácies → face) kept. *lanceis* is safe (rule 3: *lancei* differs). It reads alone as a Preces versicle (*V. Ne projícias me a fácie tua*).",
+      "options": [
+        {
+          "label": "para longe da vossa face",
+          "forms": {
+            "proicias": "para longe da vossa face"
+          },
+          "note": "Ruling; as 2:3.",
+          "from": "glossary"
+        },
+        {
+          "label": "da vossa face",
+          "forms": {
+            "proicias": "da vossa face"
+          },
+          "note": "the row's pencilled form; shorter, a calque.",
+          "from": "glossary"
+        },
+        {
+          "label": "(arremesseis) da vossa presença",
+          "forms": {
+            "proicias": "da vossa presença"
+          },
+          "note": "MS1932 *Não me arremesses da tua presença* — the face turned into presence. Refused (the face is the Latin's image).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sanctum",
+      "refs": [
+        "50:13"
+      ],
+      "latin": "et spíritum sanctum tuum ne áuferas a me",
+      "kind": "ambiguity",
+      "why": "The DO Latin prints *spíritum sanctum tuum* in lower case, as it does *spíritum rectum* (12) and *spíritu principáli* (14): the psalm's three spirits are one word. A capital would decide for the Person of the Spirit, which the Christian reader hears anyway and the Latin leaves to him (rule 2: do not resolve what the Latin leaves open). MS1932 *o teu espírito santo*, lower case. auferre → *tirar* (D41).",
+      "options": [
+        {
+          "label": "espírito santo",
+          "forms": {
+            "sanctum": "espírito santo"
+          },
+          "note": "Ruling; as the Latin prints it.",
+          "from": "draft"
+        },
+        {
+          "label": "Espírito Santo",
+          "forms": {
+            "sanctum": "Espírito Santo"
+          },
+          "note": "decides for the Person; the Portuguese convention for the name.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "redde",
+      "refs": [
+        "50:14"
+      ],
+      "latin": "Redde mihi lætítiam salutáris tui",
+      "kind": "word",
+      "why": "*Redde* is 'give back' (ἀπόδος). The réddere row's *pagar* is for paying vows and repaying (7:5, 21:26, 27:4) and is wrong here; this verse decides locally. *Restituí-me* is the liturgical word, but *restituí* is also 'I restored' (rule 3); D13 lets the enclitic save it, yet *restituí-me* can still be heard as a first-person reflexive at the head of a verse said alone (the Preces versicle *V. Redde mihi lætítiam salutáris tui*). *Devolvei-me* is plain, exact and safe (*devolvi* differs). MS1932 *Dá-me* drops the 'back'.",
+      "options": [
+        {
+          "label": "Devolvei-me",
+          "forms": {
+            "redde": "Devolvei-me"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Restituí-me",
+          "forms": {
+            "redde": "Restituí-me"
+          },
+          "note": "allowed by D13 (enclitic); more liturgical; the homograph risk above.",
+          "from": "draft"
+        },
+        {
+          "label": "Tornai a dar-me",
+          "forms": {
+            "redde": "Tornai a dar-me"
+          },
+          "note": "DRB 'Restore unto me' in two verbs; longer.",
+          "from": "DRB"
+        },
+        {
+          "label": "Dai-me",
+          "forms": {
+            "redde": "Dai-me"
+          },
+          "note": "MS1932 and DM1962; drops the *re-*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "principali",
+      "refs": [
+        "50:14"
+      ],
+      "latin": "et spíritu principáli",
+      "kind": "word",
+      "why": "*principális* is 'of a prince, chief, ruling' (L&S); the Greek is ἡγεμονικῷ, 'leading, sovereign'. *principal* in Portuguese means only 'main' and would be wrong; *soberano* is the plain word for a ruling spirit, one that governs. DRB 'perfect', MS1932 *magnânimo*, DM1962 (from the Hebrew, 'willing') *entusiasmo*. The Friday Lauds antiphon (*Spíritu principáli * confírma cor meum, Deus*) opens with the phrase.",
+      "options": [
+        {
+          "label": "soberano",
+          "forms": {
+            "principali": "soberano"
+          },
+          "note": "Ruling; the Greek's sense.",
+          "from": "draft"
+        },
+        {
+          "label": "de príncipe",
+          "forms": {
+            "principali": "de príncipe"
+          },
+          "note": "keeps the Latin root's prince; a phrase where the Latin has an adjective.",
+          "from": "draft"
+        },
+        {
+          "label": "magnânimo",
+          "forms": {
+            "principali": "magnânimo"
+          },
+          "note": "MS1932; the greatness of soul, not the ruling.",
+          "from": "MS1932"
+        },
+        {
+          "label": "generoso",
+          "forms": {
+            "principali": "generoso"
+          },
+          "note": "the Hebrew's sense (נדיבה). Refused (rule 1).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confirma",
+      "refs": [
+        "50:14"
+      ],
+      "latin": "confírma me",
+      "kind": "glossary",
+      "why": "The confirmáre row is open: with a person as object *confirmar* was heard at 36:17 as 'attest', and in a Catholic mouth *confirmai-me* is heard first as the sacrament. στήρισόν με is 'make firm, prop up'. The row's option *firmar* (already used for *confirmáre* in Ps 17's *firmastes sobre mim a vossa mão*) keeps the root and the image. *firmai* is safe (rule 3). The imperative comes first and the colon ends on the adjective; the Preces say it alone (*R. Et spíritu principáli confírma me*).",
+      "options": [
+        {
+          "label": "firmai-me",
+          "forms": {
+            "confirma": "firmai-me"
+          },
+          "note": "Ruling; the row's option.",
+          "from": "glossary"
+        },
+        {
+          "label": "confirmai-me",
+          "forms": {
+            "confirma": "confirmai-me"
+          },
+          "note": "the cognate; heard as the sacrament or as 'attest'.",
+          "from": "glossary"
+        },
+        {
+          "label": "sustentai-me",
+          "forms": {
+            "confirma": "sustentai-me"
+          },
+          "note": "36:17's word for *confírmat justos*; loses the root.",
+          "from": "glossary"
+        },
+        {
+          "label": "fortalecei-me",
+          "forms": {
+            "confirma": "fortalecei-me"
+          },
+          "note": "MS1932 *conforta-me* nearby; *fortalecer* is confortáre's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "convertentur",
+      "refs": [
+        "50:15"
+      ],
+      "latin": "et ímpii ad te converténtur",
+      "kind": "glossary",
+      "why": "convértere → *voltar* is the row's verb; D25 made the exception *converter* where men are told to turn to God, because that sense is conversion and *voltar* can be heard as said of God. Here the ungodly turn to God — the same sense, said as a promise rather than a command — so the exception is extended. DRB 'shall be converted to thee', MS1932 *se converterão a ti*. The verse is the Quad5-2 responsory (*R. Docébo iníquos vias tuas: et ímpii ad te converténtur*). Proposed for the glossary as an extension of D25.",
+      "options": [
+        {
+          "label": "se converterão a vós",
+          "forms": {
+            "convertentur": "se converterão a vós"
+          },
+          "note": "Ruling; D25 extended.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se voltarão para vós",
+          "forms": {
+            "convertentur": "se voltarão para vós"
+          },
+          "note": "the row's verb; loses the conversion the verse promises.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "sanguinibus",
+      "refs": [
+        "50:16"
+      ],
+      "latin": "Líbera me de sanguínibus",
+      "kind": "glossary",
+      "why": "D29 rules the plural *sanguínes* → *sangue* in every place, and names this verse. *do sangue derramado* (DM1962) and MS1932's gloss (*o castigo … do sangue de Urias*) explain. liberáre → *livrar* (row).",
+      "options": [
+        {
+          "label": "do sangue",
+          "forms": {
+            "sanguinibus": "do sangue"
+          },
+          "note": "Ruling; D29; MS1932 *Livra-me do sangue*.",
+          "from": "glossary"
+        },
+        {
+          "label": "dos sangues",
+          "forms": {
+            "sanguinibus": "dos sangues"
+          },
+          "note": "the Latin's plural (the Latinist's request in Ps 15); heard as a slip.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exsultabit",
+      "refs": [
+        "50:16"
+      ],
+      "latin": "et exsultábit lingua mea justítiam tuam",
+      "kind": "grammar",
+      "why": "The Latin (and Greek, ἀγαλλιάσεται … τὴν δικαιοσύνην σου) makes *exsultáre* transitive: my tongue will exult your justice, i.e. exultantly tell it. Portuguese *exultar* takes no direct object. The verb is kept (the exsultáre row) and the relation given a preposition: *na vossa justiça* is the psalter's own (12:6b, 9:16a *exultar na vossa salvação*), which loses the telling-forth. MS1932 *exaltará* changes the verb; DRB 'extol' likewise. The bare transitive is offered for the readers to judge.",
+      "options": [
+        {
+          "label": "exultará na vossa justiça",
+          "forms": {
+            "exsultabit": "exultará na vossa justiça"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "exultará a vossa justiça",
+          "forms": {
+            "exsultabit": "exultará a vossa justiça"
+          },
+          "note": "the Latin's transitive; strained Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "cantará com exultação a vossa justiça",
+          "forms": {
+            "exsultabit": "cantará com exultação a vossa justiça"
+          },
+          "note": "keeps the object by adding a verb; adds a word the Latin lacks.",
+          "from": "draft"
+        },
+        {
+          "label": "exaltará a vossa justiça",
+          "forms": {
+            "exsultabit": "exaltará a vossa justiça"
+          },
+          "note": "MS1932; another Latin verb (exaltáre). Refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "delectaberis",
+      "refs": [
+        "50:18"
+      ],
+      "latin": "holocáustis non delectáberis",
+      "kind": "word",
+      "why": "delectári (deponent, 'take delight in') is *deleitar-se* in the finished 36:4 (*Deleita-te no Senhor*, a versicle). The causative *delectáre* at 29:2 went to *alegrar* because its Greek there is εὐφραίνω; here the Greek is εὐδοκήσεις ('be well pleased'), so that argument does not pull. Kept as 36:4. The Latin's future stays. Note: the same Greek verb returns in 50:21 as *acceptábis*; the Latin varies it with a word of another sense (accept), so the two stay two (*aceitareis*).",
+      "options": [
+        {
+          "label": "deleitareis",
+          "forms": {
+            "delectaberis": "deleitareis"
+          },
+          "note": "Ruling; = 36:4.",
+          "from": "glossary"
+        },
+        {
+          "label": "comprazereis",
+          "forms": {
+            "delectaberis": "comprazereis"
+          },
+          "note": "MS1932 *te comprazes*; bookish (the stylist, 25:3).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "contribulatus",
+      "refs": [
+        "50:19"
+      ],
+      "latin": "spíritus contribulátus",
+      "kind": "word",
+      "why": "*contribuláre* is 'crush', figuratively 'afflict much' (L&S cites this verse); συντετριμμένον 'broken'. *atribulado* keeps the Latin root (*tribulátio → tribulação*) and the affliction; it is plain Brazilian. *contrito* is kept for *contrítum* in the next colon (the contérere row foresaw it), so the two Latin words stay two. MS1932 *compungido* (compúngere's), DRB 'afflicted'.",
+      "options": [
+        {
+          "label": "atribulado",
+          "forms": {
+            "contribulatus": "atribulado"
+          },
+          "note": "Ruling; DRB 'afflicted'.",
+          "from": "DRB"
+        },
+        {
+          "label": "quebrantado",
+          "forms": {
+            "contribulatus": "quebrantado"
+          },
+          "note": "the Greek's 'broken'; *quebranto* is the evil eye in Brazil (the contrítio row).",
+          "from": "draft"
+        },
+        {
+          "label": "compungido",
+          "forms": {
+            "contribulatus": "compungido"
+          },
+          "note": "MS1932; compúngere's word (4:5 *compungi-vos*).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "despicies",
+      "refs": [
+        "50:19"
+      ],
+      "latin": "Deus, non despícies",
+      "kind": "glossary",
+      "why": "The open row *despícere (God) → desdenhar* (9:22, 21:25, 26:9b) would give *não desdenhareis*. By D15's test it should not: at 21:25 *non sprevit, neque despéxit* the Greek is οὐκ ἐξουδένωσεν οὐδὲ προσώχθισεν, and *sprevit* (ἐξουδένωσεν) became *desprezou*; here *despícies* is ἐξουθενώσει — the very Greek verb of 21:25's *desprezou* (read in `consult/parallels/ps021.md` and this psalm's parallels). 9:22 (ὑπερορᾷς) and 26:9b are other verbs. So *desprezareis*. It is also the plain word, and the blind reader of Ps 9 did not know *desdenhais*. The Friday Lauds antiphon (*Cor contrítum * et humiliátum, Deus, non despícies*) ends on it.",
+      "options": [
+        {
+          "label": "desprezareis",
+          "forms": {
+            "despicies": "desprezareis"
+          },
+          "note": "Ruling; the Greek of 21:25's *desprezou*; DRB 'despise', MS1932 *desprezarás*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "desdenhareis",
+          "forms": {
+            "despicies": "desdenhareis"
+          },
+          "note": "the open row's word (9:22, 21:25, 26:9b).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "benigne",
+      "refs": [
+        "50:20"
+      ],
+      "latin": "Benígne fac, Dómine, in bona voluntáte tua Sion",
+      "kind": "grammar",
+      "why": "*Benígne fac* is 'deal kindly' (ἀγάθυνον, 'do good to'), with *Sion* as its object. Portuguese has no light verb that takes the adverb well (*fazei benignamente a Sião* is not a sentence); the adverb becomes an adjective with the copula — grammar (D2), as MS1932 *sê benigno com Sião*. The Latin's order is kept, so that the antiphon (*Benígne fac, Dómine, * in bona voluntáte tua Sion*, Saturday Lauds) divides where it does: *Sede benigno, Senhor, * na vossa boa vontade, com Sião*. bona volúntas → *boa vontade* (row).",
+      "options": [
+        {
+          "label": "Sede benigno … com Sião",
+          "forms": {
+            "benigne": "Sede benigno, Senhor, na vossa boa vontade, com Sião"
+          },
+          "note": "Ruling; MS1932's build.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Fazei bem … a Sião",
+          "forms": {
+            "benigne": "Fazei bem, Senhor, na vossa boa vontade, a Sião"
+          },
+          "note": "the light verb kept (*fac*), the Greek's sense; *fazer bem a* is plain; the adverb's kindness becomes 'good'.",
+          "from": "draft"
+        },
+        {
+          "label": "Tratai com bondade … Sião",
+          "forms": {
+            "benigne": "Tratai com bondade, Senhor, na vossa boa vontade, Sião"
+          },
+          "note": "DRB 'Deal favourably'; *bondade* is bónitas's.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "aedificentur",
+      "refs": [
+        "50:20"
+      ],
+      "latin": "ut ædificéntur muri Jerúsalem",
+      "kind": "grammar",
+      "why": "ædificáre → *edificar* (27:5). The present passive subjunctive as the pronominal passive, *se edifiquem* (MS1932), one of Portuguese's two passives and the lighter. The Latin says 'be built', not 'rebuilt' (DM1962 *reedifica*, from the Hebrew's context).",
+      "options": [
+        {
+          "label": "se edifiquem",
+          "forms": {
+            "aedificentur": "se edifiquem"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sejam edificados",
+          "forms": {
+            "aedificentur": "sejam edificados"
+          },
+          "note": "the analytic passive; one syllable longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "imponent",
+      "refs": [
+        "50:21"
+      ],
+      "latin": "tunc impónent super altáre tuum vítulos",
+      "kind": "word",
+      "why": "impónere super → *pôr sobre* (*porão*; the subject unnamed, as the Latin). vítulus → *bezerro* (the row: *novilhos* was unknown to the blind reader of Ps 21; the row allowed *novilhos* here locally and I do not take it, so that one word serves the psalter). The Latin ends on *vítulos*; Portuguese puts the object before the place and ends on *altar*. *porão* is also the noun 'hold, basement'; in a verb slot after *então* it should not be heard so — the readers will say.",
+      "options": [
+        {
+          "label": "porão bezerros sobre o vosso altar",
+          "forms": {
+            "imponent": "porão bezerros sobre o vosso altar"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "porão sobre o vosso altar bezerros",
+          "forms": {
+            "imponent": "porão sobre o vosso altar bezerros"
+          },
+          "note": "the Latin's order, ending on the victims.",
+          "from": "draft"
+        },
+        {
+          "label": "colocarão bezerros sobre o vosso altar",
+          "forms": {
+            "imponent": "colocarão bezerros sobre o vosso altar"
+          },
+          "note": "MS1932 *serão colocados*; avoids the noun *porão*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "porão novilhos sobre o vosso altar",
+          "forms": {
+            "imponent": "porão novilhos sobre o vosso altar"
+          },
+          "note": "the row's local option (MS1932's *bezerros* aside, the sacrificial young bull).",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "50:3a": "miseréri → *ter piedade* (formula *Miserére mei → Tende piedade de mim*); misericórdia → *misericórdia*. The incipit, sung as the Monday Lauds antiphon (*Miserére * mei, Deus, secúndum magnam misericórdiam tuam*) and the Asperges psalm verse (Ordo/Prayers). *grande* before the noun, as the Latin's *magnam*.",
+    "50:3b": "delére → *apagar* (the commínuere / delére row names 50:3b and 50:11). The Tuesday Lauds antiphon *Dele iniquitátem meam, Dómine* reads from the second colon. *compaixões* is an oxytone at the mediant; allowed (rule 4). Length -4: *multidão das vossas compaixões* is shorter than the Latin genitives.",
+    "50:4": "iníquitas → *iniquidade*, peccátum → *pecado*: the psalm's two sin-words are kept two throughout (3b, 4, 5, 7, 11), as the Latin and the Greek (ἀνομία / ἁμαρτία).",
+    "50:5": "*ego cognósco*: the emphatic *ego* kept as *eu*; cognóscere → *conhecer* (row). *sempre* moves before the place, the Portuguese order.",
+    "50:6": "*malum coram te feci* → *e fiz o mal diante de vós*; coram → *diante de*. The first colon reads alone as the Thursday Lauds antiphon. *justificado … julgado*: an internal echo, the Latin's own (*justificéris … judicáris*); not at a mark. Length +6 in the second colon: *para que sejais* and *quando fordes* are the subjunctives Portuguese spells in full.",
+    "50:7": "The Latin plurals *iniquitátibus*, *peccátis* kept plural; *em pecados me concebeu a minha mãe* keeps the parallel fronting of the two phrases, and ends on *mãe* as the Latin on *mater mea*.",
+    "50:8": "dilígere → *amar* (row); véritas → *verdade* (row).",
+    "50:9": "The Asperges antiphon (with *Dómine*: *Vós me aspergireis, Senhor, com o hissopo …*). The Latin's future is kept against the memory of an imperative in Portuguese use (not verified, and not the Latin). Length +8/+4 (checks): the two named subjects and the Portuguese future and comparison; the subjects are kept so each colon stands alone (see `asperges`, option 3 is one syllable shorter).",
+    "50:10": "audítus → *ouvido* (the sense of hearing); *Ao meu ouvido dareis* keeps the Latin's build against DM1962's *Faze-me ouvir* (from the Hebrew). humiliáre → *humilhar* (row); ossa → *ossos*. The second colon stands alone as the Matins response and in the Office of the Dead antiphon (*Exsultábunt Dómino * ossa humiliáta*, Commune/C9).",
+    "50:11": "avértere fáciem → *desviar a face* (row, the formula of 12:1, 26:9). Both cola are Preces versicle and response.",
+    "50:12": "Both cola are Preces versicle and response; see `cormundum`, `deus`.",
+    "50:13": "Both cola are Preces versicle and response.",
+    "50:14": "salutáre → *salvação* (D6); lætítia → *alegria*. The psalm's three spirits (12, 13, 14) and the fourth (19) are all *espírito*. Both cola are Preces versicle and response.",
+    "50:15": "docére → *ensinar*; iníquus / ímpius → *iníquo / ímpio* (row: kept distinct). Future *Ensinarei* as the Latin. *vós* at the final: a stressed monosyllable, allowed (rule 4). Length +5: *aos iníquos os vossos caminhos* spells the articles Latin lacks; nothing to cut.",
+    "50:16": "salus → *salvação* (D6); *Deus, Deus da minha salvação* as 37:23 *Senhor, Deus da minha salvação*. The first colon is the Quad5-2 responsory's respond and reads alone. Length -5: *sanguínibus* (5 syllables) is *sangue* (2) by D29.",
+    "50:17": "The opening versicle of the Office (Psalterium/Common/Prayers.txt *[Domine labia]*: *V. Dómine, lábia ++ mea apéries. R. Et os meum annuntiábit laudem tuam.*) — each colon reads alone: *Senhor, abrireis os meus lábios. — E a minha boca anunciará o vosso louvor.* *apéries* is a future and stays one; the bare imperative *Abri os meus lábios* is also barred by rule 3 (*abri* = 'I opened'). annuntiáre → *anunciar* (D41); laus → *louvor*.",
+    "50:18": "*sacrifícium* without article, as 39:7 *Não quisestes sacrifício*; *dedíssem útique* → *eu certamente o teria dado* (the pronoun supplies the object Portuguese needs). holocáustum → *holocausto* (row).",
+    "50:19": "The copula supplied in the verbless first colon (D2). contrítum → *contrito* (the contérere row foresaw it); humiliátum → *humilhado*. The second colon is the Friday Lauds antiphon. Rhyme flag 50:18/19 (*deleitareis / desprezareis*): the Latin's two second-person futures (*delectáberis / despícies*), in the same place; kept.",
+    "50:20": "Sion → *Sião*; Jerúsalem → *Jerusalém*. *Sião* at the mediant and *Jerusalém* at the final are both oxytones: the names.",
+    "50:21": "sacrifícium justítiæ → *sacrifício de justiça* (4:6); oblátio → *oferenda* (D41); holocáustum → *holocausto*. *acceptáre* → *aceitar*. The Quad4-0 antiphon (*Tunc acceptábis * sacrifícium justítiæ …*) reads. Articles supplied before the list (Portuguese wants them after *o sacrifício*); *tunc … tunc* kept as *Então … então*."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm50.txt, 20 prayed verses (50:3a–50:21; DO's ids begin at 3, tituli out by D7). No flex; one mediant per verse. Liturgical uses found by grep (ps032/uses.py): the whole psalm at ferial Lauds (Psalmi major, Day0 Laudes2 and DayaC Laudes2 by reference ;;50) with antiphons from 3a, 3b, 4, 6a, 14b, 19b, 20a (Days 1–6 and the Monastic/Cistercian series); 50:17 the opening versicle of the Office (Common/Prayers.txt [Domine labia]); 50:11–14 as four versicle/response pairs in the Sunday Prime Preces (Special/Preces.txt); 50:9 the Asperges antiphon, with 50:3a as its psalm verse (missa Ordo/Prayers); 50:10 the Matins versicle (Psalmi matutinum); 50:10b the Office of the Dead Lauds antiphon (Commune/C9); 50:12 Lent I antiphon (Quad1-0); 50:15–17 the Quad5-2 responsory; 50:21 + 50:11 the Quad4-0 antiphon; 50:5–6 versicles (Pent01-3, Epi2-0); the whole psalm in OrdoA.txt ('the priest recites Psalms 50 and 42 on the way to the altar'). 50:6b = Rom 3:4 (Clementine, consult/bolls-VULG-45-3.json, fetched earlier). The Office of the Dead use of the whole psalm was not verified beyond the C9 antiphon."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps050.md (Latin, LXX, WLC, DRB, MS1932, DM1962). DO's Portuguese not used (D12). Rulings applied: D2, D3 n/a, D6 (*salvação* 14, 16), D15 (*palavras* 6), D29 (*do sangue* 16), D41 (*oferenda* 21), D13 (enclitic imperatives; see `redde`), rule 3 (50:17 future kept; *firmai*, *lanceis*, *devolvei* safe). Rows applied: miseréri, misericórdia, miseratiónes, multitúdo, delére, iníquitas, mundáre (purificar, and why not *limpar*), cognóscere, ecce / enim (= 53:6), dilígere, véritas, gáudium (*júbilo*), humiliáre, avértere fáciem, proícere, auferre, salutáre, docére, ímpius / iníquus, liberáre, annuntiáre, laus, holocáustum, contérere (*contrito*), bona volúntas, ædificáre, vítulus. Departures proposed for the glossary: *despícere* at 50:19 → *desprezar* (D15's Greek test against the open *desdenhar* row), *convértere* → *converter* (D25's exception extended), *réddere* 'give back' → *devolver*, *confirmáre* → *firmar* with persons, *principális* → *soberano*, *contribuláre* → *atribulado*, *delectári* → *deleitar-se* (= 36:4), *incértus* → *incerto*, *contra me* (facing) → *diante de mim*. Lines said alone checked: 3a, 3b (antiphon), 6a, 9, 10a/10b, 11a/11b, 12a/12b, 13a/13b, 14a/14b, 15, 16a, 17a/17b, 19b, 20a, 21a."
+    },
+    {
+      "step": "checks",
+      "note": "render.py and checks.py run: hard checks pass (ids, one * per verse). Soft flags accepted in choices: lengths 50:3b, 5, 6, 8, 9, 15, 16, 17, 20 (article and subjunctive expansion; D29 shortens 16); neighbouring finals rhyme 50:18/19 (-eis, the Latin's parallel futures). Oxytone finals are the Latin's own pronouns/names or Portuguese futures (rule 4 allows)."
+    }
+  ]
+}

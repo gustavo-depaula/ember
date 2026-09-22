@@ -1,0 +1,4 @@
+{"psalm":999,"parser":"hand-written for the test","missing":1,"verses":{
+"999:1":[["Clamávi","clamar","perf.1s","clamo"],["ad","a, para","prep.","ad"],["Dóminum,","Senhor","acc.sg","dominus"],"*",["et","e","conj.","et"],["exaudívit","escutar","perf.3s","exaudio"],["me.","eu, me, mim","acc.1s","ego"]],
+"999:2":[["Quæsívi","buscar","perf.1s","quaero"],["fáciem","face, rosto","acc.sg","facies"],["ejus","ele, o","gen.sg.m","is"],"†",["in","em","prep.","in"],["die","dia","abl.sg","dies"],["tribulatiónis:","…","gen.sg","tribulatio",1],"*",["exáudi","escutar","imp.2s","exaudio"],["me,","eu, me, mim","acc.1s","ego"],["Dómine.","Senhor","voc.sg","dominus"]]
+}}

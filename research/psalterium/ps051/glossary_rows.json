@@ -1,0 +1,21 @@
+{
+  "append": [
+    {"row": "| gloriári in |", "text": "**Ps 51:3 *Quid gloriáris in malítia* → *Por que te glorias na malícia*** — the wicked man's boasting, the place this row kept the verb for. No reader remarked."},
+    {"row": "| malítia |", "text": "Ps 51:3 *na malícia*, 51:5 *Amaste a malícia mais que a benignidade*: the blind reader heard slyness / innuendo first again (51:3); kept."},
+    {"row": "| cogitáre |", "text": "**Ps 51:4 *injustítiam cogitávit lingua tua* → *a tua língua pensou em injustiça*: the stylist (v1) and the Latinist (v2 gate, minor) both found *pensar em* weak where cogitáre has a direct object ('devise, plot'; they asked *maquinou* / *planejou*); the blind reader heard 'plotted' first.** Held for the row. **Proposal for the coordinator:** split — cogitáre + an evil thing as object (51:4, 34:4b *mala*, 20:12 *consília*, 35:5 *iniquitátem cogitávit*) → *maquinar*; *pensar em* elsewhere. Ps 51 decision `cogitavit` has both."},
+    {"row": "| dolus / dolósus / dolóse ágere |", "text": "**Ps 51:4 *fecísti dolum* → *tramaste o engano*:** draft 1 *fizeste engano* (MS1932) was heard by the blind reader as 'you made a mistake' — *engano* after *fazer* is an error in daily speech; the verb gave way (decision `dolum`), losing the echo with 51:11 *quia fecísti*. Watch *fazer engano* elsewhere. **Ps 51:6 *lingua dolósa* → *língua enganadora*** (bare, vocative or apposition left open; *ó* the option)."},
+    {"row": "| in finem |", "text": "**Ps 51:7 *déstruet te in finem* → *te destruirá para sempre*** — the place D27 named: a future of destruction, affirmative; DRB, MS1932 'for ever'; *até o fim* (heard as a limit) and *por completo* are options. Passed the Latinist twice."},
+    {"row": "| evéllere |", "text": "Ps 51:7 *evéllet te* → *te arrancará*; passed every reader."},
+    {"row": "| præválere (advérsus) |", "text": "**Ps 51:9 *et præváluit in vanitáte sua* → *e prevaleceu na sua vaidade*:** the stylist asked *se fez forte* (the Greek's ἐδυναμώθη) — refused, rule 1; the blind reader heard 'won out through his pride'."},
+    {"row": "| adjútor |", "text": "**Ps 51:8 *qui non pósuit Deum adjutórem suum* → *que não fez de Deus o seu auxílio*** — the Latinist asked for the agent noun on both runs (minor: *auxiliador*, then *ajudador*); held for this row."},
+    {"row": "| multitúdo (+ genitive) |", "text": "Ps 51:9 *in multitúdine divitiárum suárum* = 48:7 → *na multidão das suas riquezas*; the stylist asked *abundância* (refused: abundántia's), the blind reader heard a crowd second."}
+  ],
+  "terms": [
+    "| benígnitas | benignidade (*Amaste a malícia mais que a benignidade*) | open | Ps 51:5 (ἀγαθωσύνη); 64:12, 84:13 (grep, 3 lines). Kept apart from bónitas → bondade. The blind reader listed it as unknown; *bondade* is the option. The rhyme with 51:5b *equidade* is the Latin's own (-tátem / -tátem). |",
+    "| novácula; acútus (of a blade) | navalha; afiado (*como navalha afiada*) | open | Ps 51:4, only place of novácula. acútus is 44:6's word (*setas agudas*, the same Greek ἠκονημένος): *agudo* for a point, *afiado* for an edge — Portuguese idiom; *aguda* (MS1932) the option. |",
+    "| præcipitátio | ruína (*todas as palavras de ruína*) | open | Ps 51:6 (καταποντισμός); DRB, MS1932. *precipitação* is haste or rainfall; the headlong image is lost. The Latinist's *de precipício* refused (a place, not an act). 54:10 *Præcípita* (the verb) decides for itself. |",
+    "| emigráre | desalojar (transitive: *te desalojará da tua tenda*) | open | Ps 51:7 (μεταναστεύσαι σε). Draft 1 *te fará emigrar* was heard as going abroad by the stylist and the blind reader. **61:7 *non emigrábo*** (intransitive, the only other place, grep) decides for itself; *não serei desalojado* is available. Options *te fará sair* (MS1932), *te desterrará*. |",
+    "| radix | raiz | open | Ps 51:7 *et radícem tuam de terra vivéntium* → *e a tua raiz, da terra dos vivos* (the Latin's ellipsis kept, with a comma); 79:10 *plantásti radíces ejus* (grep). |",
+    "| olíva fructífera | oliveira frutífera (*como oliveira frutífera na casa de Deus*) | open | Ps 51:10 (κατάκαρπος); an Alleluia verse (missa/Sancti/10-09). fructíferus also 106:34, 148:9 (*ligna fructífera*); olíva also 127:3b *novéllæ olivárum*. |"
+  ]
+}

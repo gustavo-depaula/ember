@@ -6,7 +6,7 @@ import sys
 import unicodedata
 from pathlib import Path
 
-root = Path(__file__).resolve().parents[3] / 'content/do/web/www/horas/Latin/Psalterium/Psalmorum'
+root = Path(__file__).resolve().parents[3] / 'content/do/horas/Latin/Psalterium/Psalmorum'
 
 
 def plain(text):
