@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "63d9a6a997596460aa53d128dd248923ad6f215d47e8da289d9d0a4162d7ae8f",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T08:35:20+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"120:3\", \"fails\": [\"native\", \"sayable\"], \"remarks\": [\n{\"words\": \"Que ele não deixe vacilar o teu pé\", \"problem\": \"The opening 'Que ele' is a soft hiatus (que-e-le) and the explicit 'ele' sounds like written grammar, not prayer; the Latin names no subject, and the next colon already supplies 'aquele que te guarda' as the one who acts.\", \"alternative\": \"Que não deixe vacilar o teu pé: * nem dormite aquele que te guarda.\"},\n{\"words\": \"nem dormite\", \"problem\": \"'dormite' is correct (subjunctive of dormitar) but on the ear it can momentarily sound like 'dormi-te'; it is saved by the parallel with v. 4 'dormitará', so keep it, but the cleaner first colon helps the listener hear the subjunctive chain.\", \"alternative\": \"keep 'nem dormite aquele que te guarda'\"}\n]},\n{\"id\": \"120:5\", \"fails\": [\"sayable\"], \"remarks\": [\n{\"words\": \"O Senhor te guarda, o Senhor é a tua proteção,\", \"problem\": \"The first colon is the longest of the psalm and crowds articles (o... o... a tua); in choir it strains one breath. Dropping the article before 'tua proteção' lightens it without losing anything of the Latin.\", \"alternative\": \"O Senhor te guarda, o Senhor é tua proteção, * sobre a tua mão direita.\"}\n]}\n],\n\"overall\": \"A plain, quiet, very singable version: short cola, clean paroxytone and oxytone cadences, and the Latin repetitions (dormitará nem dormirá; guarda / guarde) are kept and ring well. Only the opening of v. 3 sounds translated, and v. 5 is a little heavy in its first half.\",\n\"worstLine\": \"120:3\",\n\"bestLine\": \"120:6\"}\n"
+}

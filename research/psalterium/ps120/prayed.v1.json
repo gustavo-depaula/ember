@@ -1,0 +1,283 @@
+{
+  "psalm": 120,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "120:1": "Levantei os meus olhos para os montes, * {unde}",
+    "120:2": "{auxilium2} {vem} do Senhor, * que fez o céu e a terra.",
+    "120:3": "{nondet} o teu pé: * nem {dormitet} aquele que te guarda.",
+    "120:4": "Eis que não {dormitabit} nem dormirá * aquele que guarda Israel.",
+    "120:5": "O Senhor te guarda, o Senhor é a tua proteção, * {super} a tua mão direita.",
+    "120:6": "{perdiem} o sol não te queimará: * nem a lua {pernoctem}.",
+    "120:7": "O Senhor te guarda de todo o mal: * {custodiat}.",
+    "120:8": "O Senhor guarde a tua entrada e a tua saída: * desde agora e para todo o sempre."
+  },
+  "decisions": [
+    {
+      "id": "unde",
+      "refs": [
+        "120:1"
+      ],
+      "latin": "unde véniet auxílium mihi",
+      "kind": "ambiguity",
+      "why": "The Latin 'unde' can be a relative ('whence', pointing back to the mountains) or open a question. The DO Latin ends the verse with a full stop and no question mark, and Douay-Rheims reads it as a relative ('from whence help shall come to me'); Matos Soares 1932 has no question mark either. The Hebrew (and the Greek πόθεν as usually read) is a question, which is what the CNBB Liturgia das Horas and the Diurnal Monástico 1962 print ('donde me virá socorro?'). The colon is also sung alone as a Vespers antiphon ('Unde véniet * auxílium mihi', Psalmi major, Daya1 Vespera).",
+      "options": [
+        {
+          "label": "de onde me virá o auxílio.",
+          "forms": {
+            "unde": "de onde me virá o {auxilium1}."
+          },
+          "note": "Draft. The Latin as printed: a relative, the mountains are where help comes from, and 120:2 names who sends it. A hearer can still hear a question in it, as a Latin hearer can; nothing is closed that the Latin leaves open. 'de onde' rather than 'donde': the plainer of two faithful words (D2).",
+          "from": "draft"
+        },
+        {
+          "label": "donde me virá o auxílio.",
+          "forms": {
+            "unde": "donde me virá o {auxilium1}."
+          },
+          "note": "Matos Soares 1932 and the Diurnal's word: one syllable shorter and familiar from prayer, but a literary contraction in current Brazilian speech.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de onde me virá o auxílio?",
+          "forms": {
+            "unde": "de onde me virá o {auxilium1}?"
+          },
+          "note": "The question the Hebrew asks (CNBB, Diurnal). Refused as the text: the Latin as printed in DO is not punctuated as a question, and the question mark would decide what the Latin leaves open.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "auxilium",
+      "refs": [
+        "120:1",
+        "120:2"
+      ],
+      "latin": "auxílium mihi … Auxílium meum",
+      "kind": "glossary",
+      "why": "The psalm repeats 'auxílium' across the two verses (the second picks up the last word of the first), so both must be the same word. The glossary gives 'auxílio' to adjutórium and to auxílium (59:13 'Dai-nos auxílio'), and 'socorro' is settled for ops (D41, 40:4). The CNBB Liturgia das Horas, from the Hebrew, has 'socorro' here (verified: consult/web-lh-salmo-120-121.md), and so do Matos Soares 1932 and the Diurnal; it is the word Brazilian ears know in this psalm.",
+      "options": [
+        {
+          "label": "auxílio",
+          "forms": {
+            "auxilium1": "auxílio",
+            "auxilium2": "O meu auxílio"
+          },
+          "note": "Draft, by the glossary. Keeps the psalter's one family (adjutórium, auxílium, adjuváre, adjútor) and leaves 'socorro' to ops.",
+          "from": "glossary"
+        },
+        {
+          "label": "socorro",
+          "forms": {
+            "auxilium1": "socorro",
+            "auxilium2": "O meu socorro"
+          },
+          "note": "Matos Soares 1932, the Diurnal, the CNBB Liturgia das Horas. The familiar line; it would take ops's word and split auxílium between psalms.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vem",
+      "refs": [
+        "120:2"
+      ],
+      "latin": "Auxílium meum a Dómino",
+      "kind": "grammar",
+      "why": "The Latin has no verb. Portuguese needs one; the question is which. 'a Dómino' is a source ('from the Lord'), so a verb of coming, which also answers 'véniet' of 120:1. The colon is sung alone as a Vespers antiphon ('Auxílium meum * a Dómino, qui fecit cælum et terram', Psalmi major, Day1 Vespera) and must stand by itself.",
+      "options": [
+        {
+          "label": "vem",
+          "forms": {
+            "vem": "vem"
+          },
+          "note": "Draft. Matos Soares 1932 ('O meu socorro vem do Senhor'); it takes up 'véniet' of the verse before, which the Latin invites by repeating 'auxílium'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "é",
+          "forms": {
+            "vem": "é"
+          },
+          "note": "The bare copula, as DRB 'is from'. Refused: 'O meu auxílio é do Senhor' is heard first as 'belongs to the Lord'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "nondet",
+      "refs": [
+        "120:3"
+      ],
+      "latin": "Non det in commotiónem pedem tuum",
+      "kind": "grammar",
+      "why": "A third-person jussive ('may he not let…') with no subject named; the glossary's wording for this Greek (εἰς σάλον) is 'não deixar vacilar' (54:23; 65:9 'não deixou vacilar os meus pés'). Said bare, 'Não deixe vacilar o teu pé' is heard in Brazil as a command to the listener, because 'deixe' is the everyday imperative — the Latin cannot be heard so. The subject hidden in the ending may be named (rule 2); 'ele' names no one the Latin does not point to (the Lord of 120:2, the keeper of the second colon).",
+      "options": [
+        {
+          "label": "Que ele não deixe",
+          "forms": {
+            "nondet": "Que ele não deixe vacilar"
+          },
+          "note": "Draft. 'Que' marks the wish, 'ele' the third person; the second colon ('nem dormite…') continues the same wish, as 'neque dormítet' does.",
+          "from": "draft"
+        },
+        {
+          "label": "Não deixe",
+          "forms": {
+            "nondet": "Não deixe vacilar"
+          },
+          "note": "The glossary's words with nothing supplied. Refused: heard as an imperative to the one addressed ('don't let your foot slip').",
+          "from": "glossary"
+        },
+        {
+          "label": "Não permita ele que vacile",
+          "forms": {
+            "nondet": "Não permita ele que vacile"
+          },
+          "note": "Matos Soares 1932 ('Não permita ele que vacile o teu pé'): the subject named by inversion. It leaves the glossary's 'deixar vacilar' (54:23, 65:9) for another verb and is an inversion the ear does not expect.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dormitare",
+      "refs": [
+        "120:3",
+        "120:4"
+      ],
+      "latin": "dormítet … dormitábit neque dórmiet",
+      "kind": "glossary",
+      "why": "The psalm sets two verbs side by side, as the Greek does (νυστάζω, 'to nod, drowse' / ὑπνόω, 'to sleep'): the keeper does not so much as doze, let alone sleep. The glossary keeps 'dormitar' for dormitáre, apart from 'dormir' (118:28; 75:7 beside 75:6 'Dormiram'), and the row names 120:4 as the reason. Two blind readers (118:28, 75:7) listed 'dormitar' as unknown. 'Cochilar' is the plain Brazilian word for exactly this (the Diurnal Monástico 1962: 'Não, não cochila, nem dorme'; the CNBB Liturgia das Horas: 'ele não dorme nem cochila', verified).",
+      "options": [
+        {
+          "label": "dormitar",
+          "forms": {
+            "dormitet": "dormite",
+            "dormitabit": "dormitará"
+          },
+          "note": "Draft, by the glossary. The Latin's own root; keeps the psalter's three places of dormitáre one word. Cost: a word some hearers do not know, and 'dormitará nem dormirá' is a near-jingle — but it is the Latin's own echo (dormitábit / dórmiet).",
+          "from": "glossary"
+        },
+        {
+          "label": "cochilar",
+          "forms": {
+            "dormitet": "cochile",
+            "dormitabit": "cochilará"
+          },
+          "note": "From the Diurnal Monástico 1962 (and the CNBB Liturgia das Horas). Everyone knows it and it is exactly the sense; its register is homely, and taking it here means 118:28 and 75:7 should follow (proposed in glossary.md, open).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "120:5"
+      ],
+      "latin": "super manum déxteram tuam",
+      "kind": "word",
+      "why": "'super' is 'over, upon' (DRB 'upon thy right hand'; the Greek ἐπί). The image is the Lord as a covering (protéctio, σκέπη) over the hand one works and fights with. The Hebrew 'at your right hand' (the Diurnal 'à tua direita caminha'; Matos Soares 1932 'ele está à tua direita') is a position beside, which the Latin preposition does not say. 'manus' is named, so 'mão direita', not the bare 'direita' of the déxtera row.",
+      "options": [
+        {
+          "label": "sobre",
+          "forms": {
+            "super": "sobre"
+          },
+          "note": "Draft. The Latin's preposition; with 'a tua proteção' before it, heard as a covering over the hand.",
+          "from": "draft"
+        },
+        {
+          "label": "à",
+          "forms": {
+            "super": "à"
+          },
+          "note": "'à tua mão direita': the familiar place of the protector, beside. Closer to the Hebrew than to super.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "perdiem",
+      "refs": [
+        "120:6"
+      ],
+      "latin": "Per diem … per noctem",
+      "kind": "glossary",
+      "why": "The glossary's working rows are 'per diem' → 'durante o dia' (12:2; open, 'de dia' its option) and 91:3 'per noctem' → 'durante a noite'. Here the two stand as a pair, one in each colon of a short verse, and the length of the colon matters for the tone.",
+      "options": [
+        {
+          "label": "De dia … de noite",
+          "forms": {
+            "perdiem": "De dia",
+            "pernoctem": "de noite"
+          },
+          "note": "Draft. The row's own option, and the Diurnal Monástico 1962's pair ('De dia o sol não te fará mal, * nem a lua, à noite'). 'de dia' is 'by day' exactly (per diem, ἡμέρας); it cannot be heard as 'all day long', which was the row's worry about 'durante' at 12:2 anyway. Both colons come within two syllables of the Latin.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Durante o dia … durante a noite",
+          "forms": {
+            "perdiem": "Durante o dia",
+            "pernoctem": "durante a noite"
+          },
+          "note": "The glossary's working rows (12:2 per diem; 91:3 per noctem), the Latin's 'per' twice; Matos Soares 1932 has 'Durante o dia'. Not taken: here the pair is the whole colon, and 'Durante o dia o sol não te queimará' is 13 syllables against the Latin's 8 (checks.py +5), 'nem a lua durante a noite' +3.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "custodiat",
+      "refs": [
+        "120:7"
+      ],
+      "latin": "custódiat ánimam tuam Dóminus",
+      "kind": "order",
+      "why": "The Latin frames the verse with 'Dóminus' at its head and its end (a chiasm: Dóminus custódit … custódiat … Dóminus). Kept in Portuguese it becomes an inversion no one would say; the word, the repetition and the wish all stay in either order. Rule 2 gives order to the ear.",
+      "options": [
+        {
+          "label": "o Senhor guarde a tua alma",
+          "forms": {
+            "custodiat": "o Senhor guarde a tua alma"
+          },
+          "note": "Draft. Natural order; the two colons now begin alike (O Senhor te guarda … o Senhor guarde), which is Matos Soares 1932's build too.",
+          "from": "draft"
+        },
+        {
+          "label": "guarde a tua alma o Senhor",
+          "forms": {
+            "custodiat": "guarde a tua alma o Senhor"
+          },
+          "note": "The Latin's order and its chiasm; an inversion in Portuguese.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "120:1": "No titulus: the psalm's heading 'Canticum graduum' is not in DO's psalm file, and the tituli are out of the first edition (D7); Ps 133, the other Gradual Psalm already done, carries none either, so the two match. leváre → levantar (glossary row, Ps 24:1); 122:1 'Ad te levávi óculos meos' should say 'levantei os meus olhos' too. The perfect 'Levávi' kept ('Levantei', not the CNBB's present). The verse is also read as a text in the Office of Our Lady Mediatrix (aliquibus locis, 05-31). The prayer is in the first person; from 120:3 the psalm speaks to one person, so tu (rule 3).",
+    "120:2": "'que fez o céu e a terra' is the formula row (113:23, 123:8, 133:3, 145:6) and stays word for word; here the relative follows 'Senhor' directly, so no 'ele' is needed (133:3 needed it only because of 'Sião'). Sung alone as the Monday Vespers antiphon of the older psalter (Psalmi major, Day1 Vespera): it reads alone.",
+    "120:3": "'dare in commotiónem' = 'deixar vacilar', by the fluctuátio row (54:23, 65:9; the same Greek σάλος). 'pedem' is singular: 'o teu pé' (65:9 had the plural). 'qui custódit te' → 'aquele que te guarda', and 120:4 'aquele que guarda Israel' — the same build for the same Latin. custodíre → guardar (glossary).",
+    "120:4": "ecce → 'Eis que' before a clause, as 7:15, 38:6, 118:40. 'dormitará … dormirá' echo each other at mediant: the Latin's own pairing (dormitábit / dórmiet), accepted. Second colon +3 by checks.py ('aquele que guarda Israel', 10 against 7), accepted: 'aquele que' matches 120:3 'aquele que te guarda' for the same Latin 'qui custódit', and 'o que guarda' can be heard as 'what guards'.",
+    "120:5": "The copula 'é' is supplied in 'o Senhor é a tua proteção' (rule 2). protéctio → proteção (glossary). Present 'te guarda' for the Latin's present 'custódit' (the Greek has a future; the Latin is followed).",
+    "120:6": "úrere → queimar, as 25:2 'queimai os meus rins'. The verb is gapped for the moon ('nem a lua de noite'), as in the Latin. 'De dia … de noite' departs from the working row per diem → durante o dia for length (see the decision; proposed in glossary.md).",
+    "120:7": "'custódit' (present) then 'custódiat' (wish): 'te guarda' then 'guarde', as the Latin moves. ánima → alma (glossary; 'vida' is the row's option, not taken: nothing here is the idiom for seeking a life). The whole verse is the Vespers antiphon of the Office of the Dead (Commune C9, Ant Vespera) and reads alone.",
+    "120:8": "'intróitum … éxitum': the Latin's order, entering then going out (the Hebrew and the Diurnal have going out first). 'ex hoc nunc, et usque in sǽculum' → 'desde agora e para todo o sempre', identical to 112:2b and 113:26 (the ex hoc nunc row and D37). Second colon +3 by checks.py, accepted: it is the fixed formula (D37)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm120.txt, 8 prayed verses. Parallels from consult/parallels/ps120.md (LXX, Hebrew, DRB, Matos Soares 1932, Diurnal Monástico 1962). Liturgical uses found by grep in the DO Latin: 120:7 is the Office of the Dead Vespers antiphon (Commune/C9.txt); 'Auxílium meum * a Dómino, qui fecit cælum et terram' the Monday Vespers antiphon (Psalmi major, Day1 Vespera); 'Unde véniet * auxílium mihi' (Daya1 Vespera); 120:1 as a text in 05-31-BMVMediatrix (aliquibus locis); Pss 119–121 at weekday Terce in one scheme (Psalmi minor). Circulation in Brazil verified by fetch, not memory: the CNBB Liturgia das Horas text of Ps 120(121), as printed at liturgiadashoras.online (saved in consult/web-lh-salmo-120-121.md) — from the Hebrew, 'socorro', 'cochila', a question in v1, 'partida … chegada'; used here only as evidence of what Brazilian ears know, never of sense."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft. No titulus (D7; matches Ps 133). Hard points: 'unde' relative or question (120:1), the jussive 'Non det' heard as a você-imperative if bare (120:3), dormitáre vs dormíre (120:3–4), 'super manum déxteram' (120:5). Glossary applied: custodíre → guardar, leváre → levantar, auxílium → auxílio, fluctuátio/commótio (σάλος) → deixar vacilar, dormitáre → dormitar, ecce → eis que, protéctio → proteção, per diem / per noctem → de dia / de noite (the row's option, taken for length — see the checks step),úrere → queimar (25:2), ánima → alma, ex hoc nunc et usque in sǽculum → desde agora e para todo o sempre, qui fecit cælum et terram → que fez o céu e a terra."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids and marks). Soft flags: 120:6 was +5/+3 with 'Durante o dia … durante a noite' → changed to 'De dia … de noite' before any reader (decision perdiem). Remaining: 120:4 second colon +3 (accepted, see choices), 120:8 second colon +3 (the D37 formula, accepted). No rhyme or cadence flags."
+    }
+  ]
+}
