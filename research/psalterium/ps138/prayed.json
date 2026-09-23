@@ -1008,6 +1008,36 @@
     {
       "step": "revision",
       "note": "Draft 3: 138:14 *e a minha alma conhece sem medida*. prayed.v2.json keeps v2. Draft 3 is unread by a gate (one pronoun dropped)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: one major (138:15 *os meum*, held with 101:6 and pending for Gustavo), two minors; the 138:14 change passed; no change.",
+      "outcomes": [
+        {
+          "verse": "138:15",
+          "remark": "*os meum* singular; *os meus ossos* plural (MAJOR)",
+          "outcome": "pending",
+          "decision": "os",
+          "reason": "held as at v1 and the v2 gate, with Ps 101:6’s ruling on the same collective singular: *o meu osso* is heard as one bone. Flagged for Gustavo with 101:6 — both change together or neither; option 1."
+        },
+        {
+          "verse": "138:6",
+          "remark": "*ex me*: *o vosso saber de mim* read as knowledge about me; *para mim*",
+          "outcome": "option",
+          "decision": "exme",
+          "reason": "the v1 gate asked the preposition’s own word (*de mim*, taken), the v2 gate *de mim* moved, this one *para mim*. *de mim* keeps “of / from me” open, as the Latin; *para mim* (DRB) is option 2."
+        },
+        {
+          "verse": "138:16",
+          "remark": "*imperféctum meum* a substantive; *viram o meu imperfeito*",
+          "outcome": "refused",
+          "decision": "imperfectum",
+          "reason": "*o meu imperfeito* is not Portuguese and is heard as “my flaw”; the neuter as a predicate on *me* is grammar (D2). *imperfeito* stays an option."
+        }
+      ]
     }
   ]
 }

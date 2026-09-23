@@ -787,6 +787,21 @@
       "step": "revision",
       "version": 3,
       "note": "v3: 63:7 *no seu sondar* → *no sondar* (the gate). No critic has read v3; the change removes one word the gate asked away. Script: gate_v2.py."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Final gate on draft 3 (the edit at 63:7, “no sondar”, had not been read). 63:7 clean. No major. One minor; not taken, it lives as an option. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "63:8",
+          "remark": "minor: the reversed order fixes plagæ eórum as subject; the Latin order keeps both parses → “Setas de pequeninos tornaram-se as feridas deles”",
+          "outcome": "option",
+          "decision": "plagae",
+          "reason": "The stylist named the Latin order the worst line and the blind reader could not say what it meant; the parse is the Greek’s (αἱ πληγαὶ αὐτῶν), which the Latin translates. Draft 1’s order is option 2."
+        }
+      ]
     }
   ]
 }

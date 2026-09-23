@@ -1498,6 +1498,68 @@
     {
       "step": "final",
       "note": "67:7b *os presos* → *os prisioneiros*, to match 68:34 (row *vincti*, at the Ps 68 agent's request). No critic has read it."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no major, eight minors, all repeats of settled questions or held as options; no change.",
+      "outcomes": [
+        {
+          "verse": "67:10",
+          "remark": "*segregábis* → *Separareis*: *reservar* shifts toward keeping back",
+          "outcome": "option",
+          "decision": "segregabis",
+          "reason": "*separar* is 67:15 *discérnit*’s word (D42), five verses on; *reservar para* is DRB’s “set aside for”. *Separareis* is option 1."
+        },
+        {
+          "verse": "67:14",
+          "remark": "*posterióra dorsi* is a noun phrase; *a parte de trás do seu dorso*",
+          "outcome": "refused",
+          "reason": "as at the v2 gate: that was draft 1, changed at the stylist’s request; the back, behind, is kept."
+        },
+        {
+          "verse": "67:19a",
+          "remark": "*levastes cativo* adds a predicate; *tomastes o cativeiro*",
+          "outcome": "option",
+          "decision": "captivitatem",
+          "reason": "as at the v2 gate: the Pauline form is this verse’s own tradition; *tomastes o cativeiro* is opaque aloud."
+        },
+        {
+          "verse": "67:19b",
+          "remark": "*étenim* inclusive, not causal; *E até os que não acreditavam*",
+          "outcome": "option",
+          "decision": "etenim",
+          "reason": "the v2 gate asked the *até* out as an added “even”; this run asks it back. The runs contradict; the row’s bare *pois* (καὶ γάρ) stands. *E até* is the last option."
+        },
+        {
+          "verse": "67:20",
+          "remark": "*salutárium* plural; *das nossas salvações*",
+          "outcome": "option",
+          "decision": "salutarium",
+          "reason": "as v1 and v2 (D27: number is grammar here)."
+        },
+        {
+          "verse": "67:24",
+          "remark": "*intingátur* is dip; *tingir-se* is dyed; *seja mergulhado*",
+          "outcome": "refused",
+          "reason": "*tingir* is the Latin’s own root (*in-tingo*), and the Greek βαφῇ is both “dip” and “dye”; *se tinja no sangue* keeps the foot reddened in the blood, the image of the verse. *seja mergulhado* adds a passive auxiliary and loses the colour."
+        },
+        {
+          "verse": "67:31a",
+          "remark": "*congregátio* nominative, not a second object; semicolon",
+          "outcome": "refused",
+          "reason": "DRB reads it as ours (“the wild beasts of the reeds, the congregation of bulls”); the comma leaves apposition or address open as the Latin does, where a semicolon strands a verbless phrase before *para que*."
+        },
+        {
+          "verse": "67:36",
+          "remark": "*seja* supplies a mood; *bendito Deus* as 67:20",
+          "outcome": "option",
+          "decision": "benedictus",
+          "reason": "as v1 and v2: 67:20 has an article and stands verbless; *bendito Deus* is heard as a noun phrase."
+        }
+      ]
     }
   ]
 }

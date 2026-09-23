@@ -1645,6 +1645,28 @@
       "step": "revision",
       "version": 4,
       "note": "v4, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 30:12 valde, “sobremaneira” → “grandemente” (unknown to the blind reader). No critic has read draft 4 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 4,
+      "file": "critic/v4.latinist.json",
+      "note": "Final gate on draft 4 (the edit at 30:12, “grandemente”, had not been read). 30:12 clean. No major. Two minors, both on wordings already weighed; neither taken, both live as options. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "30:13",
+          "remark": "minor: pérditum is “lost, ruined”; “destruído” narrows → “um vaso perdido”",
+          "outcome": "option",
+          "decision": "perditum",
+          "reason": "Draft 1’s “perdido” was heard by the blind reader first as a vase gone missing; “destruído” is Douay-Rheims’ and the ruin pérdere says. “perdido” is option 2."
+        },
+        {
+          "verse": "30:23",
+          "remark": "minor: “fora de mim” drops mentis meæ → “no arrebatamento da minha mente”",
+          "outcome": "option",
+          "decision": "excessu",
+          "reason": "“fora de mim” says the going-out (ex-cédere) plainly; his wording is heavy and heard as mystical rapture. It is option 2."
+        }
+      ]
     }
   ]
 }

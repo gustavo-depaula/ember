@@ -962,6 +962,29 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 90:15 erípiam, “eu o arrancarei” → “eu o libertarei” (erípere with no source named). No critic has read draft 3 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no remark on the 90:15 change (*libertarei*); two minors, both held as options already in the text’s decisions; no change.",
+      "outcomes": [
+        {
+          "verse": "90:6",
+          "remark": "*negótium* flattened to *coisa*; *o negócio*",
+          "outcome": "option",
+          "decision": "negotio",
+          "reason": "*a coisa* is L&S’s “like πρᾶγμα, a matter, thing”; in Brazil *o negócio* is commerce or slang and turns the line comic. It is option 1 (DRB)."
+        },
+        {
+          "verse": "90:16",
+          "remark": "*longitúdo diérum* a noun phrase; *longura de dias*",
+          "outcome": "option",
+          "decision": "longitudine",
+          "reason": "*longura* is a dictionary word nobody says; the image stays in *longos dias*. It is option 1."
+        }
+      ]
     }
   ]
 }

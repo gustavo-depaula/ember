@@ -902,6 +902,36 @@
       "step": "revision",
       "version": 3,
       "note": "v3: the two Latinist minors taken (89:5, 89:13); 89:9b *como a aranha* → *como uma aranha*, aligned with 38:12b (same comparison). Small wording changes after a clean gate; not re-read. Draft 2 kept as prayed.v2.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no major, three minors, all repeats held as options; no change.",
+      "outcomes": [
+        {
+          "verse": "89:8",
+          "remark": "*sǽculum* → *vida* glosses; *o nosso tempo*",
+          "outcome": "option",
+          "decision": "saeculum8",
+          "reason": "the v1 gate asked *a nossa vida*, the v2 gate and this one *o nosso tempo*; the ambiguity reader heard *tempo* as a schedule. Held; *o nosso tempo* is option 1."
+        },
+        {
+          "verse": "89:5",
+          "remark": "*coisas* added to the bare neuter *quæ*; *o que é tido por nada, isso*",
+          "outcome": "option",
+          "decision": "pronihilo",
+          "reason": "*coisas* is DRB’s and MS1932’s (“things that are counted nothing”), the neuter made audible; the bare relative form is option 2."
+        },
+        {
+          "verse": "89:10",
+          "remark": "*in potentátibus* → *se houver forças* abstract; *nos fortes*",
+          "outcome": "option",
+          "decision": "potentatibus",
+          "reason": "as at the v2 gate: *potentátus* is power, not persons (L&S); *nos fortes* is option 1."
+        }
+      ]
     }
   ]
 }

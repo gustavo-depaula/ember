@@ -564,6 +564,14 @@
     {
       "step": "finish",
       "note": "Glossary: evidence appended to nine rows (confitéri, exquírere, inítio · princípium — a proposal, miserátor et miséricors, mandáre, intelléctus, memória, memor esse, fit reverentia) and one formula row (9:2 = 110:1 = 137:1a; inítium sapiéntiæ timor Dómini), via ps110/glossary_insert.py. PROGRESS row via ps110/progress_insert.py."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no remarks — tenses, the Septuagintal *exquisita*, *facientibus eum* and the pointing confirmed.",
+      "outcomes": []
     }
   ]
 }

@@ -1176,6 +1176,43 @@
       "step": "revision",
       "version": 3,
       "note": "v3: 88:45 *Vós o destruístes, tirando-lhe a purificação* (the v2 Latinist's own wording). No reader has read draft 3 as a whole; its only difference from draft 2 is the gate's fix. Draft 2 kept as prayed.v2.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: one major (88:36, the oath formula — the question already held on v1 and v2 and pending for Gustavo with 94:10 and 131:3–5), two minors; no change.",
+      "outcomes": [
+        {
+          "verse": "88:36",
+          "remark": "*Si David méntiar* oath formula resolved into a negative future (MAJOR)",
+          "outcome": "pending",
+          "decision": "oath36",
+          "reason": "held with its written reason (v1, v2): *se eu mentir a Davi … a sua descendência permanecerá* is heard as a condition with the opposite sense. The ruling on the oath formula is pending for Gustavo across 88:36, 94:10 and 131:3–5; the literal forms are options 1–3."
+        },
+        {
+          "verse": "88:36",
+          "remark": "*in sancto meo* substantive; *santidade* the Hebrew abstract; *no meu santo*",
+          "outcome": "option",
+          "decision": "oath36",
+          "reason": "as at the v2 gate: after *jurei*, *pelo meu santo* / *no meu santo* is heard as a saint; DRB “by my holiness”. Both are options."
+        },
+        {
+          "verse": "88:45",
+          "remark": "*ab* separative with the person; *afastando-o da purificação*",
+          "outcome": "option",
+          "decision": "em45",
+          "reason": "the v1 gate asked *apartando-o da* (draft 2), the v2 gate refused the added participle and gave *tirando-lhe* (draft 3); this run asks the participle back. The runs contradict; draft 3 stands, draft 2’s form is option 1."
+        },
+        {
+          "verse": "88:4",
+          "remark": "*dispósui* ordained, *eléctis* dative; *Dispus uma aliança para*",
+          "outcome": "option",
+          "decision": "disp",
+          "reason": "the *testaméntum* row: *dispónere testaméntum → firmar aliança* (82:6); διεθέμην διαθήκην is making a covenant. *Dispus a aliança* is option 2."
+        }
+      ]
     }
   ]
 }

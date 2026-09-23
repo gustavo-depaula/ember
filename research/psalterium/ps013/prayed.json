@@ -1028,6 +1028,28 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 13:6 ínopis, “do indigente” → “do carente” (D38). No critic has read draft 3 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Final gate on draft 3 (the D38 edit, “carente” at 13:6, had not been read). No major; “carente” clean. Two minors, both repeats or wordings already weighed; none taken, both live as options. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "13:4",
+          "remark": "minor: “como quem come pão” moves the simile to the eater → “como alimento de pão”",
+          "outcome": "option",
+          "decision": "escam",
+          "reason": "The second time (v2 minor): esca is the Greek βρώσει, the eating (Douay-Rheims “as they eat bread”), and “alimento de pão” is not said in Portuguese. It is option 4."
+        },
+        {
+          "verse": "13:6",
+          "remark": "minor: the explicit “vós” invites hearing the line as said to God → “envergonhastes”",
+          "outcome": "option",
+          "decision": "confudistis",
+          "reason": "The named subject was put there as a test and the blind reader passed it: it was not heard as said to God. The bare verb, which Ps 10:2 showed to be the riskier form, is option 2."
+        }
+      ]
     }
   ]
 }

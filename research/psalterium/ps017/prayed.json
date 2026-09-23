@@ -2885,6 +2885,68 @@
       "step": "revision",
       "version": 6,
       "note": "v6, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 17:51 usque in sǽculum, “para sempre” → “para todo o sempre” (D37). No critic has read draft 6 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 6,
+      "file": "critic/v6.latinist.json",
+      "note": "Final gate on draft 6 (the D37 edit, 17:51 “para todo o sempre”, had not been read). 17:51 clean. No major. Eight minors, all on wordings earlier readers weighed or on choices already reasoned; none taken. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "17:3b",
+          "remark": "minor: adjútor is an agent noun → “o meu ajudador”",
+          "outcome": "option",
+          "decision": "adjutor",
+          "reason": "Held since draft 1 (D24, D27): the glossary word of Pss 9, 117, 118, the same metonymy as the settled suscéptor → amparo; the agent noun (auxiliador) is option 2 and waits on Gustavo with the adjútor row."
+        },
+        {
+          "verse": "17:18",
+          "remark": "minor: super me is “over/against me”; “mais do que eu” imports the Hebrew comparative → “se fortaleceram sobre mim”",
+          "outcome": "option",
+          "decision": "super",
+          "reason": "ὑπὲρ ἐμέ is “beyond me”, a comparison, and Douay-Rheims (“too strong for me”) and Matos Soares 1932 read it so; the stylist heard “acima de mim” as spatial. The preposition (“acima de mim”) and the hostile reading (“contra mim”) are options 2 and 3."
+        },
+        {
+          "verse": "17:27",
+          "remark": "minor: pervertéris is passive; the reflexive reads as self-corruption → “sereis pervertido”",
+          "outcome": "option",
+          "decision": "perverteris",
+          "reason": "In Brazil “pervertido” is first a sexual word; the pronominal form serves the passive with middle sense as elsewhere. Douay-Rheims’ passive is option 3."
+        },
+        {
+          "verse": "17:31",
+          "remark": "minor: the hanging nominative Deus meus folded into a genitive → “Meu Deus, sem mancha é o seu caminho”",
+          "outcome": "option",
+          "decision": "v31",
+          "reason": "Grammar (D2), with Matos Soares 1932; the Latin’s build is heard as a vocative with “o seu caminho” left hanging. It is option 2."
+        },
+        {
+          "verse": "17:31",
+          "remark": "minor: impollúta rendered with the word used for immaculátus in 17:24, 17:33",
+          "outcome": "option",
+          "decision": "v31",
+          "reason": "The Greek has ἄμωμος in all three, so one Portuguese word may serve (D15’s test), and the three are heard as one thread. The cognate “Impoluto” is option 3."
+        },
+        {
+          "verse": "17:33",
+          "remark": "minor: “Deus, qui” is appositional; the supplied “É” makes a cleft statement → “Deus, que me cingiu de poder”",
+          "outcome": "refused",
+          "reason": "The copula is supplied so that the three relatives of 17:33–35 have something to hang on, continuing the answer to 17:32 (“who is God but our God? God, who …”); a bare “Deus, que …” leaves the verse without a main clause."
+        },
+        {
+          "verse": "17:34",
+          "remark": "minor: cervórum is masculine; “corças” follows the Hebrew → “como os dos cervos”",
+          "outcome": "option",
+          "decision": "cervorum",
+          "reason": "The blind reader heard “cervos” as “servos”, a homophone the listener cannot undo; “corças” is the same animal and keeps the plural. The cost (the gender) is named; “dos cervos” is option 2."
+        },
+        {
+          "verse": "17:49",
+          "remark": "minor: ab is separative, not “above” → “E dos que se levantam contra mim me exaltareis”",
+          "outcome": "refused",
+          "reason": "“Acima dos que se levantam” is Douay-Rheims’ “above them that rise up”; lifted up away from them is lifted above them. “exaltar de” is not said in Portuguese and would be heard as “exalt by means of”."
+        }
+      ]
     }
   ]
 }

@@ -954,6 +954,46 @@
       "step": "revision",
       "version": 3,
       "note": "v3, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 11:6a ínopum, “dos indigentes” → “dos carentes” (D38). No critic has read draft 3 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Final gate on draft 3 (the D38 edit, “carentes” at 11:6a, had not been read). No major; 11:6a clean. Five minors, four on wordings already weighed; none taken. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "11:2",
+          "remark": "minor: a fíliis hóminum is separative; “entre” makes it locative → “da parte dos filhos dos homens”",
+          "outcome": "refused",
+          "reason": "a here is the Greek ἀπό “from among” (Douay-Rheims “decayed from among the children of men”), which “entre” keeps as Matos Soares 1932 does; “da parte dos” would make the sons of men the agents of the diminishing."
+        },
+        {
+          "verse": "11:3",
+          "remark": "minor: lábia dolósa stands bare, not instrumental; in corde → “em”, not “com” → “lábios enganadores, falaram num coração e noutro coração”",
+          "outcome": "refused",
+          "reason": "“com” before “lábios” is supplied so that the lips are not heard as the subject of “falaram”, which the masculine locúti excludes (choice); “com um coração” is Douay-Rheims’ “with a double heart”, and “num coração e noutro” would be heard as speaking in two places. The bare figure “com coração e coração” is option 2 of decision corde."
+        },
+        {
+          "verse": "11:5",
+          "remark": "minor: lowercase “senhor” decides a human master → “quem é o nosso Senhor?”",
+          "outcome": "option",
+          "decision": "dominus",
+          "reason": "Lower case with Matos Soares 1932 keeps both readings (no master at all, and so not the Lord either); the capital makes them name God. Aloud there is no difference. The capital is option 2."
+        },
+        {
+          "verse": "11:7",
+          "remark": "minor: casta flattened to “puras”, blurring with purgátum “purificada” → “palavras castas”",
+          "outcome": "option",
+          "decision": "eloquia",
+          "reason": "“castas” was heard as sexual chastity and listed as unknown by the blind reader; the stylist refused “ditos castos”. “palavras castas” is option 5 of decision eloquia."
+        },
+        {
+          "verse": "11:7",
+          "remark": "minor: terræ goes with probátum (δοκίμιον τῇ γῇ) → “provada pela terra, purificada sete vezes”",
+          "outcome": "refused",
+          "reason": "terræ is open between the two participles; “da terra” between “provada” and “purificada” can hang on either, as the Latin’s word can, where “pela terra” makes the earth the tester and decides one reading."
+        }
+      ]
     }
   ]
 }

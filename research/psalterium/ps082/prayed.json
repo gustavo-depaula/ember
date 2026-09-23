@@ -893,6 +893,14 @@
       "step": "revision",
       "version": 3,
       "note": "v3: 82:16 'na vossa tempestade' (the v2 Latinist's own wording, one preposition). No reader has read draft 3 as a whole; its one difference from draft 2 is the gate's fix. Draft 2 kept as prayed.v2.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no remarks — the 82:16 fix passed, and 82:5 *para não serem nação* judged a correct rendering of the idiom.",
+      "outcomes": []
     }
   ]
 }

@@ -128,6 +128,14 @@
           },
           "note": "stylist: lighter than 'maravilhosamente'; refused — admirável is admirábilis's word (and 'maravilhosamente' is mirabíliter at 44:5b)",
           "from": "stylist"
+        },
+        {
+          "label": "Vós, que iluminais",
+          "forms": {
+            "illuminans": "Vós, que iluminais"
+          },
+          "note": "the v3 gate (minor): the participle as a relative; the verse then hangs, an anacoluthon before *perturbaram-se*",
+          "from": "latinist"
         }
       ]
     },
@@ -873,6 +881,22 @@
       "step": "revision",
       "version": 3,
       "note": "v3: 75:4 back to 'as potências dos arcos' (draft 1's wording, passed by the v1 Latinist and asked back by the v2 gate). No other change; no reader has read draft 3 as a whole, but its one difference from draft 2 is text a Latinist has passed."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no major, one minor (75:5, the participle, now asked a third way), held as an option; no change.",
+      "outcomes": [
+        {
+          "verse": "75:5",
+          "remark": "*Illúminans tu* participle made finite; *Vós, que iluminais*",
+          "outcome": "option",
+          "decision": "illuminans",
+          "reason": "the Greek’s finite verb (φωτίζεις σύ) and DRB’s “Thou enlightenest”; supplying it is grammar (D2). The v2 gate asked a gerund, this one a relative, which leaves the verse an anacoluthon before *perturbaram-se*; both are options."
+        }
+      ]
     }
   ]
 }

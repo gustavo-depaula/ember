@@ -1137,6 +1137,29 @@
       "step": "revision",
       "version": 3,
       "note": "v3: 68:12 *um provérbio*, 68:16 *a tempestade da água* (the gate). No critic has read v3. prayed.v2.json was reconstructed from v3 by undoing these two edits (the v2 file was not copied before the gate edit)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: no major, two minors, both repeats held as options; no change.",
+      "outcomes": [
+        {
+          "verse": "68:13b",
+          "remark": "the verbless Latin; *dirijo* supplies a verb",
+          "outcome": "option",
+          "decision": "orationem",
+          "reason": "as at v1 and the v2 gate (he calls it defensible): a verbless Portuguese colon is not a sentence; *dirijo-vos* only restates *ad te*. The verbless line is option 3."
+        },
+        {
+          "verse": "68:18",
+          "remark": "*puer* → *servo* loses the child; *menino*",
+          "outcome": "option",
+          "decision": "puero",
+          "reason": "in address to God *puer* (παῖς) is the servant (DRB, MS1932); *menino* is heard wrongly in prayer. It is option 1."
+        }
+      ]
     }
   ]
 }

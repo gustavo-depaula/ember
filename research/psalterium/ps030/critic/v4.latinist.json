@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6b7054434b39dccb82936244c4e72b48cbc9ad698bd0342cbe84ba0e87ee2c75",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T13:40:08+00:00",
+  "reply": "{\"verses\": [{\"id\": \"30:13\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"vas pérditum\", \"portuguese\": \"vaso destruído\", \"problem\": \"perditum is 'lost, ruined, done for' (LXX apololos); 'destruído' narrows it to physical destruction. 'perdido' keeps the Latin's sense and its range.\", \"fix\": \"Tornei-me como um vaso perdido:\"}]}, {\"id\": \"30:23\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in excéssu mentis meæ\", \"portuguese\": \"fora de mim\", \"problem\": \"Idiomatic, but it drops the concrete 'mentis meae' and flattens excessus mentis (a going-out of the mind: alarm, ecstasy) into a colloquial phrase. A closer rendering keeps the noun phrase.\", \"fix\": \"Eu, porém, disse no arrebatamento da minha mente:\"}]}], \"overall\": \"A faithful, close rendering: tenses, persons and the Septuagintal readings (vanitates supervacue, in civitate munita, abusio, sortes meae) are kept, and the pointing marks match the Latin in every verse. Only two minor points, both where an idiomatic Portuguese choice narrows or loses a concrete Latin word.\"}\n"
+}

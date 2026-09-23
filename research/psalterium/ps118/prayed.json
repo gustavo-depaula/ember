@@ -7436,7 +7436,7 @@
     {
       "step": "draft",
       "version": 13,
-      "note": "Draft 13 = draft 12 (118:1–128, untouched, kept as prayed.v12.json) + the first draft of 118:129–176 (Phe, Sade, Coph, Res, Sin, Tau), by the fourth Ps 118 agent: the psalm is whole and \"range\" now reads 118:1–118:176. From the Latin, read with the Rahlfs Greek, Douay-Rheims and Matos Soares 1932 (the pdftotext layer in consult/parallels/ps118.md); the Diurnal Monástico 1962 for diction only; DO's Portuguese not consulted as a witness (D12). Lewis & Short looked up for declarátio, áttraho, tabésco, adulescéntulus, matúritas, dilúculum, formído, erúcto, postulátio, scándalum, nimis, éxitus — it cites three of these verses itself (118:130 declarátio, 118:165 scándalum, 118:170 postulátio). Verse lists checked with ps005/grep_latin.py. D15/D16/D23 vocabulary applied by adding slots to the existing term decisions (justificationes, testimonia, mandata, judicia, sermones, eloquia, scrutantur, exquirere, mandasti, vivifica, intellectum, supersperavi, in_aeternum, humilitate, praevaricantes, odio_habui, exspectare, fiat, concupivit, adjuva, erravi); 38 new verse-local decisions. elóquium: nine places (plural 118:148, 158, 162; singular 118:133, 140, 154, 169, 170, 172), the clause in all six singulars — none forced a noun. in ætérnum → para sempre at 118:142, 144, 152, 160 (D23). Where the Latin goes its own way against the Greek it is followed: 118:139 zelus meus (not \"of your house\"), 118:148 ad te, 118:151 viæ tuæ (not \"commandments\"), 118:154 elóquium (Greek λόγον), 118:156 misericórdiæ (Greek οἰκτιρμοί); and one slip in a witness: Douay-Rheims repeats \"mercy\" in 118:149b where the Latin has judícium. Variations the Latin makes inside one Greek word: merged where Portuguese has no plain pair (requíram with exquírere → procurar), kept where it has one (custodívit / Servávi → guardou / Observei; Inítio / Princípium → início / princípio; juxta / secúndum → conforme / segundo). Rule-3 traps met: \"Dirigi\" (118:133 → Endireitai), \"Redimi-me\" / \"Remi-me\" (also \"I redeemed myself\" → Resgatai-me), \"Ouvi\" (118:149 → Escutai, as the glossary row directs). Hard readings: 118:138 (double accusative), 118:131 attráxi spíritum, 118:136 Éxitus aquárum deduxérunt, 118:140 Ignítum, 118:147 in maturitáte, 118:176 quæ périit (perecer would make a dead sheep). The Hetzenauer print read is owed for these verses as for the rest."
+      "note": "Draft 13 = draft 12 (118:1–128, untouched, kept as prayed.v12.json) + the first draft of 118:129–176 (Phe, Sade, Coph, Res, Sin, Tau), by the fourth Ps 118 agent: the psalm is whole and \"range\" now reads 118:1–118:176. From the Latin, read with the Rahlfs Greek, Douay-Rheims and Matos Soares 1932 (the pdftotext layer in consult/parallels/ps118.md); the Diurnal Monástico 1962 for diction only; DO's Portuguese not consulted as a witness (D12). Lewis & Short looked up for declarátio, áttraho, tabésco, adulescéntulus, matúritas, dilúculum, formído, erúcto, postulátio, scándalum, nimis, éxitus — it cites three of these verses itself (118:130 declarátio, 118:165 scándalum, 118:170 postulátio). Verse lists checked with ps005/grep_latin.py. D15/D16/D23 vocabulary applied by adding slots to the existing term decisions (justificationes, testimonia, mandata, judicia, sermones, eloquia, scrutantur, exquirere, mandasti, vivifica, intellectum, supersperavi, in_aeternum, humilitate, praevaricantes, odio_habui, exspectare, fiat, concupivit, adjuva, erravi); 38 new verse-local decisions. elóquium: nine places (plural 118:148, 158, 162; singular 118:133, 140, 154, 169, 170, 172), the clause in all six singulars — none forced a noun. in ætérnum → para sempre at 118:142, 144, 152, 160 (D23). Where the Latin goes its own way against the Greek it is followed: 118:139 zelus meus (not \"of your house\"), 118:148 ad te, 118:151 viæ tuæ (not \"commandments\"), 118:154 elóquium (Greek λόγον), 118:156 misericórdiæ (Greek οἰκτιρμοί); and one slip in a witness: Douay-Rheims repeats \"mercy\" in 118:149b where the Latin has judícium. Variations the Latin makes inside one Greek word: merged where Portuguese has no plain pair (requíram with exquírere → procurar), kept where it has one (custodívit / Servávi → guardou / Observei; Inítio / Princípium → início / princípio; juxta / secúndum → conforme / segundo). Rule-3 traps met: \"Dirigi\" (118:133 → Endireitai), \"Redimi-me\" / \"Remi-me\" (also \"I redeemed myself\" → Resgatai-me), \"Ouvi\" (118:149 → Escutai, as the glossary row directs). Hard readings: 118:138 (double accusative), 118:131 attráxi spíritum, 118:136 Éxitus aquárum deduxérunt, 118:140 Ignítum, 118:147 in maturitáte, 118:176 quæ périit (perecer would make a dead sheep). The Hetzenauer print read is owed for these verses as for the rest. [2026-09-23: print read done for all 176 verses, Hetzenauer pp. 550–554: wording identical to DO; orthography, pointing and half-verse gaps recorded in collation/report.md.]"
     },
     {
       "step": "checks",
@@ -8270,6 +8270,26 @@
       "step": "revision",
       "version": 18,
       "note": "v18, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 118:104 odívi, “por isso odiei” → “por isso odeio” (odísse in present sense, as 24:19, 25:5). No critic has read draft 18 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 18,
+      "file": "critic/v18.latinist.part6.json",
+      "note": "Final gate on draft 18: the Mem stanza 118:97–104 (the only change since the last gate is 118:104 “por isso odeio”). No major; 118:104 clean — odívi as present confirmed by name. Two minors on unchanged words; neither taken. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "118:102",
+          "remark": "minor: “impusestes” adds constraint that pónere lacks → “me estabelecestes uma lei”",
+          "outcome": "refused",
+          "reason": "The same phrase as 118:33 (Legem pone mihi, the same Greek νομοθετέω), which takes “Imponde-me” because the blind reader misparsed “Ponde-me por lei”; rule 6 keeps the two verses on one verb, and im-pónere is still pónere."
+        },
+        {
+          "verse": "118:103",
+          "remark": "minor: the plural elóquia turned into a clause → “as vossas palavras”",
+          "outcome": "refused",
+          "reason": "D26 (for review): the clause “o que dissestes” in both numbers keeps elóquium apart from sermo/verbum → “palavras” (D15). His fix collides with D15; the ruling is the main session’s and stands."
+        }
+      ]
     }
   ]
 }

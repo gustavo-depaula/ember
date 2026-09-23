@@ -1194,6 +1194,35 @@
     {
       "step": "checks",
       "note": "Draft 3: hard pass; 38:3 first colon +8 (accepted: three verbs and the gate's open wording). The Hetzenauer print read is skipped and owed."
+    },
+    {
+      "step": "latinist",
+      "version": 3,
+      "file": "critic/v3.latinist.json",
+      "note": "Final gate on draft 3 (the edit at 38:3, “quanto às coisas boas”, had not been read). 38:3 clean. No major. Three minors, all on wordings earlier readers weighed; none taken, all live as options. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "38:6",
+          "remark": "minor: mensurábiles is a predicate adjective; “pusestes em medida” blurs → “fizestes mensuráveis”",
+          "outcome": "option",
+          "decision": "mensurabiles",
+          "reason": "“mensuráveis” was unknown to the blind reader and “technical” to the stylist; Matos Soares 1932’s wording keeps the verb and the measure. “tornastes mensuráveis” is option 2."
+        },
+        {
+          "verse": "38:9",
+          "remark": "minor: insipiénti is dative and dedísti flattened → “entregastes-me como opróbrio ao insensato”",
+          "outcome": "option",
+          "decision": "dedisti",
+          "reason": "The second time (v2): “afronta ao insensato” is heard as an insult offered to the fool; the genitive says whose scorn it is. “opróbrio” failed two blind readers. The verb-kept wording is option 3."
+        },
+        {
+          "verse": "38:14",
+          "remark": "minor: remítte mihi open between forgive and respite; “Perdoai-me” resolves it → “Dai-me trégua”",
+          "outcome": "option",
+          "decision": "remitte",
+          "reason": "The second time (v2 asked for “Relevai-me”): “Perdoai-me” is Douay-Rheims’ and the commonest sense of the Latin word, and the blind reader heard “relent” second. “Dai-me trégua” is option 3."
+        }
+      ]
     }
   ]
 }

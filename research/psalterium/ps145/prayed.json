@@ -715,6 +715,29 @@
       "version": 3,
       "note": "v3: 145:8b *derrubados* → *esmagados*, copying 144:14 (finished in parallel; rule 6, elísi row). Nothing else changed; the 145:4 major is held. **Draft 3 has not been read by a gate** (one word, to a glossary rendering). prayed.v2.json kept. Script: ps145/revise_v3.py.",
       "checks": "Hard checks pass; soft flags as v2."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v3.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "version": 3,
+      "note": "Final gate on draft 3: one major (145:4 *suam*, held at the v2 gate and pending for Gustavo), one minor held as the option; the 145:8b change passed; no change.",
+      "outcomes": [
+        {
+          "verse": "145:4",
+          "remark": "*suam* dropped: *voltará à terra*; *à sua terra* (MAJOR)",
+          "outcome": "pending",
+          "decision": "terram",
+          "reason": "held as at the v2 gate: with *sua* the blind ambiguity reader heard the native land, a wrong sense; without it only a reflexive possessive is lost. Flagged for Gustavo; *voltará à sua terra* is option 1, one touch."
+        },
+        {
+          "verse": "145:7a",
+          "remark": "relative chain *Qui* broken; *Que guarda*",
+          "outcome": "option",
+          "decision": "qui7",
+          "reason": "as v1 and v2 (he calls it defensible): a relative heading a prayed verse is heard as an exclamation. *Que guarda* is option 1."
+        }
+      ]
     }
   ]
 }

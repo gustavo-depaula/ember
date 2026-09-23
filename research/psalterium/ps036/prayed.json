@@ -2022,6 +2022,34 @@
       "step": "revision",
       "version": 5,
       "note": "v5, by the main session, applying the review of the finished work (DECISIONS.md, 2026-09-21): 36:14b ínopem, “o indigente” → “o carente” (D38). No critic has read draft 5 — these verses are unread. Every earlier wording stays selectable."
+    },
+    {
+      "step": "latinist",
+      "version": 5,
+      "file": "critic/v5.latinist.json",
+      "note": "Final gate on draft 5 (the D38 edit, 36:14b “o carente”, had not been read). 36:14b clean. No major. Three minors, one a third repeat; none taken. Reader: claude-opus-5-5 (fresh context, with latin.json), run by the coordinator.",
+      "outcomes": [
+        {
+          "verse": "36:17",
+          "remark": "minor: confirmáre is to make firm; “sustenta” drifts → “fortalece”",
+          "outcome": "option",
+          "decision": "confirmat",
+          "reason": "“confirma” was heard by the blind reader as “attests that they are just”; “sustenta” is the Greek’s ὑποστηρίζει. “fortalece” is confortári’s word in the glossary (9:20, 26:14); it is option 3."
+        },
+        {
+          "verse": "36:26",
+          "remark": "minor (third time): in benedictióne erit recast as a passive participle → “será em bênção”",
+          "outcome": "option",
+          "decision": "benedictione",
+          "reason": "As at drafts 3 and 4: “ser/estar em bênção” is not current Portuguese; “será abençoada” is the Latin’s sense (Matos Soares 1932). “estará na bênção” is option 2."
+        },
+        {
+          "verse": "36:33",
+          "remark": "minor: the dative illi not rendered → “quando se fizer juízo sobre ele”",
+          "outcome": "refused",
+          "reason": "Douay-Rheims (“when he shall be judged”) and Matos Soares 1932 leave the dative unsaid as well; the impersonal passive with a dative is said in Portuguese by the personal passive, and his wording adds a noun and three syllables."
+        }
+      ]
     }
   ]
 }

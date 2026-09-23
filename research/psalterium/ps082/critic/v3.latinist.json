@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "dd92947706423da13a2d98f495cfaee6f22cace70f923b4131b1ea1474710565",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T13:41:04+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation is faithful to the Latin throughout: tenses (futures in 82:2, 82:16, 82:17), moods (jussives in 82:18-19, imperatives in 82:10-14) and the Septuagintal readings (extulerunt caput, filiis Lot, stercus terrae, rotam) are all kept, and the pointing marks match the Latin verse by verse, including the second-half asterisk placement in 82:12. The one borderline choice, 82:5 'para não serem nação' for 'disperdamus eos de gente', renders the idiom 'destroy them from being a nation' correctly rather than explaining it, so it is not flagged.\"}\n"
+}

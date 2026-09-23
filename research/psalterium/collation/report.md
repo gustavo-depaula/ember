@@ -35,7 +35,15 @@ The SourceForge home of the Clementine Project no longer serves a current full t
 
 Also seen on p. 558: the Ps 135 refrain is *quoniam in æternum misericordia eius* in print as in DO — the *in sǽculum* / *in ætérnum* difference is the Clementine's, not a DO slip.
 
-The Prime psalms (53, 117, 118:1–32) and Ps 94 are checked against the digital Clementine only. Two digital texts could share an error, so:
+**Print check — Ps 118, all 176 verses.** Hetzenauer pp. 550–554 (scans in `consult/books/hetzenauer-1914/hetz-0550…0554.jpg`) read verse by verse against DO `Psalm118.txt`: identical wording. Set aside as not divergences:
+
+- Orthography: *iustitiæ*, *pronunciavi* (13, 172), *enunciavi* (26), *expectaverunt* (95), *expectatione* (116), *Expectabam* (166) against DO's *j*, *-nti-*, *exsp-*; and word division at 87, print *Paulominus* (so the Project), DO *Paulo minus*.
+- Numbering / omissions: the print heads the psalm *Alleluia. CXVIII.* (DO omits it) and sets the letter names as centred headings (*ALEPH … VAU, ZAIN, HETH, IOD … SADE, COPH, RES, SIN, TAU*); DO keeps them only as inline labels, spelled `(Vav)`, `(Zai)`, `(Joth)`, `(Thau)`.
+- Commas and stops: print adds commas at 39 *meum, quod*, 72 *auri, et argenti*, 114 *Adiutor, et*, 141 *ego, et contemptus*; lacks DO's at 40 *Ecce,* and 75 *Cognovi, Domine,*; has a colon, not DO's question mark, at 84 *servi tui:*; ends 17 with a stop, not DO's colon.
+
+Where the print's half-verse gap falls elsewhere than DO's `*` (informative for how a verse divides, not for wording): 13 after *pronunciavi* (DO after *meis,*); 18 after *considerabo* (DO after *meos:*); 20 after *desiderare* (DO after *tuas,*); 53 after *peccatoribus* (DO after *me,*); 65 after *tuo* (DO after *Dómine,*); 107 after *usquequaque* (DO after *Dómine:*); **112 after *tuas*, so *in æternum* reads with *propter retributionem*** (DO and the Project put the break after *in ætérnum,*; the print's own comma after *æternum* keeps both readings open); 125 after *intellectum,* (DO after *ego:*; the Project sides with the print); 176 after *servum tuum,* (DO after *périit:*; the Project sides with the print); at 47 the print shows no gap at all.
+
+The Prime psalms (53, 117) and Ps 94 are checked against the digital Clementine only (118:1–32 now print-read, above). Two digital texts could share an error, so:
 
 ## Rule
 
