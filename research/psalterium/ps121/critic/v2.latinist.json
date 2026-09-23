@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "fdb5ab3e6550cdf912e37abf1eb816d2e3306c3d43e3623355ed1d78834f2772",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T08:42:32+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"121:2\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Stantes erant pedes nostri\", \"portuguese\": \"Os nossos pés se detinham\", \"problem\": \"'stantes erant' is a periphrastic of state, 'were standing'. 'se detinham' ('were halting / stopping') adds a sense of stopping or coming to rest that the Latin does not have.\", \"fix\": \"Os nossos pés estavam parados\"}]},\n{\"id\": \"121:4\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"testimónium Israël\", \"portuguese\": \"testemunho de Israel\", \"problem\": \"Israël is indeclinable, and the Latin leaves it open whether it is genitive or dative. The LXX has the dative, τῷ Ισραηλ, 'a testimony for/to Israel'. 'de Israel' picks the genitive and closes off the other reading.\", \"fix\": \"testemunho para Israel\"}]}\n],\n\"overall\": \"This is a faithful, close rendering. It keeps the Latin's odd phrasing: 'cujus participatio ejus in idipsum', the imperfect 'loquebar', and 'sedes' as seats in judgment. The only issues are two minor ones: 'se detinham' shades 'stantes erant', and 'de Israel' decides the case of an indeclinable noun. All nine verses have the same pointing marks as the Latin, a single mediant each.\"}\n"
+}

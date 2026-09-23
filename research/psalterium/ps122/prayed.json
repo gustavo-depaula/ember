@@ -1,0 +1,445 @@
+{
+  "psalm": 122,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "122:1": "{adte}, * {quihabitas} nos céus.",
+    "122:2a": "{ecce}, como os olhos dos {servi} * {inmanibus} dos seus senhores,",
+    "122:2b": "Como os olhos da {ancilla} nas mãos da sua senhora: * {ita} Senhor, nosso Deus, {donec} piedade de nós.",
+    "122:3": "Tende piedade de nós, Senhor, tende piedade de nós: * porque estamos muito {repleti} de desprezo:",
+    "122:4": "Porque a nossa alma está muito {repleta}: * {v4b}."
+  },
+  "decisions": [
+    {
+      "id": "adte",
+      "refs": [
+        "122:1"
+      ],
+      "latin": "Ad te levávi óculos meos",
+      "kind": "order",
+      "why": "'Ad te … levávi' is a formula of the psalter: 24:1 'Ad te, Dómine, levávi ánimam meam' is already 'A vós, Senhor, levantei a minha alma' (glossary, leváre row), and 85:4 and 142:8 have the same words. Against it stands 120:1, two psalms back, 'Levávi óculos meos in montes' → 'Levantei os meus olhos para os montes', where the Latin itself puts the verb first. The Latin line is sung alone as the Tract of the 3rd Sunday of Lent and the verse of the Introit of Monday in the 1st week (grep; ps122/circulation.md). The CNBB Liturgia das Horas (fetched) has 'Eu levanto os meus olhos para vós'.",
+      "options": [
+        {
+          "label": "A vós levantei",
+          "forms": {
+            "adte": "A vós levantei os meus olhos"
+          },
+          "note": "Draft. The Latin's order, and 24:1's words for the same Latin (rule 6); 'levávi' kept as a perfect, as in 120:1. The pronoun that opens the psalm is picked up by the 'vós' of the second colon.",
+          "from": "draft"
+        },
+        {
+          "label": "Levantei … para vós",
+          "forms": {
+            "adte": "Levantei os meus olhos para vós"
+          },
+          "note": "Matos Soares 1932 ('Levantei os meus olhos para ti'), pt-PT and the CNBB order; would make the verse match 120:1 word for word up to the object. Refused because it breaks the 'Ad te levávi' formula of 24:1, 85:4, 142:8. If taken, the verse reads 'Levantei os meus olhos para vós, * que habitais nos céus' (the second colon then drops its 'vós', see quihabitas).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quihabitas",
+      "refs": [
+        "122:1"
+      ],
+      "latin": "qui hábitas in cælis",
+      "kind": "grammar",
+      "why": "A relative in the second person, hanging from 'te' at the head of the verse, with 'óculos meos' between. In Portuguese the plural verb 'habitais' shows who is meant, but the ear meets 'os meus olhos' last. The clause is also sung alone as the Monday Vespers antiphon 'Qui hábitas in cælis, * miserére nobis' (Psalmi major, Day2 Vespera), where it has no antecedent at all. 93:2 'qui júdicas terram' is already 'vós que julgais a terra'.",
+      "options": [
+        {
+          "label": "vós que habitais",
+          "forms": {
+            "quihabitas": "vós que habitais"
+          },
+          "note": "Draft. The subject hidden in the verb named (rule 2), as in 93:2; the antiphon reads alone ('Vós que habitais nos céus, * tende piedade de nós'). The Diurnal Monástico 1962 repeats the pronoun the same way ('a Ti, que moras no céu'). Same length as the Latin (7).",
+          "from": "DM1962"
+        },
+        {
+          "label": "que habitais",
+          "forms": {
+            "quihabitas": "que habitais"
+          },
+          "note": "Nothing supplied (the CNBB, Matos Soares 1932, pt-PT). Natural when 'vós' ends the first colon ('Levantei os meus olhos para vós'); after 'A vós levantei os meus olhos' the relative is heard a beat late.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ecce",
+      "refs": [
+        "122:2a"
+      ],
+      "latin": "Ecce, sicut",
+      "kind": "glossary",
+      "why": "ecce → eis (glossary, 133:1a). Here it opens a comparison that has no verb ('Ecce, sicut óculi … ita óculi nostri ad Dóminum'). Portuguese 'Eis que' is the standing biblical way to open a clause with ecce (72:12 'Eis que eles mesmos'); bare 'Eis,' before 'como' sounds cut off.",
+      "options": [
+        {
+          "label": "Eis que",
+          "forms": {
+            "ecce": "Eis que"
+          },
+          "note": "Draft. The glossary's word in its usual shape; one syllable over the Latin's two, and the colon is still the Latin's length (10).",
+          "from": "glossary"
+        },
+        {
+          "label": "Eis",
+          "forms": {
+            "ecce": "Eis"
+          },
+          "note": "The bare particle, with the Latin's comma. Heard as an interjection with nothing to point at.",
+          "from": "draft"
+        },
+        {
+          "label": "Vede",
+          "forms": {
+            "ecce": "Vede"
+          },
+          "note": "Matos Soares 1932 ('Vede que, assim como'). Turns the particle into a verb addressed to someone the psalm does not address.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "servi",
+      "refs": [
+        "122:2a",
+        "122:2b"
+      ],
+      "latin": "servórum … ancíllæ",
+      "kind": "glossary",
+      "why": "servus → servo (glossary, 133:1a) and ancílla → serva (85:16 'o filho da vossa serva'; the word of the Magnificat and of Lk 1:38 in Brazilian use). The CNBB Liturgia das Horas has 'escravos … escravas' here (fetched), Matos Soares 1932 'servos … escrava', the Diurnal 'escravo … escrava': the image is of slaves watching their owners' hands, and 'servo' is softer.",
+      "options": [
+        {
+          "label": "servos … serva",
+          "forms": {
+            "servi": "servos",
+            "ancilla": "serva"
+          },
+          "note": "Draft, by the glossary. Keeps the psalm's servants the same word as 'servus tuus' everywhere else, and 'serva' the word of the Magnificat's ancílla.",
+          "from": "glossary"
+        },
+        {
+          "label": "escravos … escrava",
+          "forms": {
+            "servi": "escravos",
+            "ancilla": "escrava"
+          },
+          "note": "CNBB and the Diurnal (both from the Hebrew). The harder social fact; it would part these servants from every 'servo' of the psalter.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "verbless",
+      "refs": [
+        "122:2a",
+        "122:2b"
+      ],
+      "latin": "sicut óculi servórum in mánibus … ita óculi nostri ad Dóminum",
+      "kind": "grammar",
+      "why": "The whole comparison has no verb in the Latin, nor in the Greek. 'in mánibus' (the Greek εἰς χεῖρας, 'toward the hands') and 'ad Dóminum' (πρὸς κύριον) are two prepositions of looking. Matos Soares 1932 supplies 'estão fixos' twice; the CNBB 'estão fitos' in the first two members and nothing in the third ('assim os nossos olhos, no Senhor'). Rule 2 allows a copula the language needs; a participle like 'fixos' is more than a copula.",
+      "options": [
+        {
+          "label": "no verb",
+          "forms": {
+            "inmanibus": "nas mãos",
+            "ita": "assim os nossos olhos para o"
+          },
+          "note": "Draft. As the Latin: 'como os olhos dos servos nas mãos dos seus senhores … assim os nossos olhos para o Senhor'. Portuguese carries a verbless comparison in a psalm (the CNBB's own third member is verbless). 'nas mãos' against 'para o Senhor' keeps the Latin's two prepositions. Cost: 122:2a's second colon is 7 syllables against the Latin's 11.",
+          "from": "draft"
+        },
+        {
+          "label": "estão (copula)",
+          "forms": {
+            "inmanibus": "estão nas mãos",
+            "ita": "assim os nossos olhos estão voltados para o"
+          },
+          "note": "A copula in the first member (the others follow it by ellipsis); the third member then needs 'voltados' to go with 'para', which is supplied. Brings 122:2a's second colon to 9.",
+          "from": "draft"
+        },
+        {
+          "label": "estão fixos",
+          "forms": {
+            "inmanibus": "estão fixos nas mãos",
+            "ita": "assim os nossos olhos estão fixos no"
+          },
+          "note": "Matos Soares 1932 (the CNBB has 'estão fitos'). Familiar in Brazil from the Liturgia das Horas; 'fixos' is not in the Latin, and 'fixos no Senhor' loses 'ad', the movement toward.",
+          "from": "MS1932"
+        },
+        {
+          "label": "assim estão os nossos olhos no Senhor",
+          "forms": {
+            "inmanibus": "nas mãos",
+            "ita": "assim estão os nossos olhos no"
+          },
+          "note": "The stylist's (v1: the colon is long and verbless, 'sayable' failed). Refused: 'no Senhor' turns 'ad Dóminum' (toward) into 'in'; and the ambiguity reader heard the verbless 'para o Senhor' as 'our eyes look toward the Lord' without difficulty. The colon has a natural breath at the comma after 'nosso Deus'.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "donec",
+      "refs": [
+        "122:2b"
+      ],
+      "latin": "donec misereátur nostri",
+      "kind": "grammar",
+      "why": "The subject of misereátur is the Lord of the same colon; Portuguese 'tenha' is also a first person ('até que eu tenha'), though nothing in the verse invites that hearing. The CNBB antiphon for this psalm names him ('até que ele tenha pena de seus servos', fetched).",
+      "options": [
+        {
+          "label": "até que tenha",
+          "forms": {
+            "donec": "até que tenha"
+          },
+          "note": "Draft. Nothing supplied; 'o Senhor, nosso Deus' stands just before. Matos Soares 1932 has the same.",
+          "from": "MS1932"
+        },
+        {
+          "label": "até que ele tenha",
+          "forms": {
+            "donec": "até que ele tenha"
+          },
+          "note": "The subject named (rule 2 allows it). One syllable more in a colon already two over the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "repleri",
+      "refs": [
+        "122:3",
+        "122:4"
+      ],
+      "latin": "multum repléti sumus despectióne … multum repléta est ánima nostra",
+      "kind": "glossary",
+      "why": "One verb twice, in the same words (quia multum repléti / Quia multum repléta), so one Portuguese word twice. The glossary's replére row gives 'estar cheio' (25:10, 64:5, 87:4 'a minha alma está cheia de males'). But 'estamos muito cheios de desprezo' is heard in Brazil first as 'we are full of contempt' — a feeling we have toward others — which is the opposite of the Latin (contempt suffered). 'Fartos de desprezo' can only be suffered: to be filled to the point of surfeit, which is also what πίμπλημι says, and the 62:6 row already gives 'fartar-se' to repléri (ἐμπλησθείη). The Diurnal Monástico 1962 ('Nossa alma já está farta') and the CNBB ('Estamos fartos do escárnio') both have it.",
+      "options": [
+        {
+          "label": "fartos … farta",
+          "forms": {
+            "repleti": "fartos",
+            "repleta": "farta"
+          },
+          "note": "Draft, from the Diurnal Monástico 1962. The repetition kept; the wrong hearing of 'cheios de desprezo' closed; the image (filled, sated) is the verb's. Departs from the replére row for this psalm: proposed in glossary.md (open). All three readers (v1) heard 'fartos / farta' as 'fed up with'. Kept: 'fed up with being scorned' (the ambiguity reader's likeliest hearing) is contempt suffered and had in excess, which is the Latin's sense; the alternatives bring back the wrong hearing or collide with another row.",
+          "from": "DM1962"
+        },
+        {
+          "label": "cheios … cheia",
+          "forms": {
+            "repleti": "cheios",
+            "repleta": "cheia"
+          },
+          "note": "The replére row (25:10, 87:4, whose 'a minha alma está cheia' is 122:4's nearest twin). Refused for 122:3: 'cheios de desprezo' is heard as contempt we feel.",
+          "from": "glossary"
+        },
+        {
+          "label": "repletos … repleta",
+          "forms": {
+            "repleti": "repletos",
+            "repleta": "repleta"
+          },
+          "note": "The Latinist's fix (v1, minor): replére's own cognate, no colloquial echo. Refused: 'repletos de desprezo' has the same wrong first hearing as 'cheios de desprezo' (contempt we feel).",
+          "from": "latinist"
+        },
+        {
+          "label": "saciados … saciada",
+          "forms": {
+            "repleti": "saciados",
+            "repleta": "saciada"
+          },
+          "note": "The stylist's (v1). Keeps the image of satiety without 'fed up'; refused because 'saciar' is the settled word of satiáre / saturáre, kept apart from replére (glossary), and 'saciados de desprezo' is a little literary.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "v4b",
+      "refs": [
+        "122:4"
+      ],
+      "latin": "oppróbrium abundántibus, et despéctio supérbis",
+      "kind": "ambiguity",
+      "why": "The hard reading of the psalm. Two nominatives with datives, no verb, hanging from 'our soul is filled': DRB takes it as 'we are a reproach to the rich, and contempt to the proud' (we are that in their eyes); Matos Soares 1932 'de ser o objecto de escárnio para os ricos'; the Hebrew has genitives ('the scorn of those at ease'), which the Greek and the Latin do not. The dative can mean 'in the eyes of' or 'for, against'; the translation keeps the dative and does not choose. The Greek has articles (τὸ ὄνειδος … ἡ ἐξουδένωσις). abundántes of persons (εὐθηνοῦντες, 'prospering') → 'prósperos' (72:12, the abundántia row: 'abundantes' of people is heard as 'numerous'). oppróbrium → afronta (row); despéctio → desprezo, as 122:3 (ἐξουδένωσις, the family of contémptus, abjéctio, abúsio → desprezo); supérbi → soberbos (93:2).",
+      "options": [
+        {
+          "label": "afronta para os prósperos, e desprezo para os soberbos",
+          "forms": {
+            "v4b": "afronta para os prósperos, e desprezo para os soberbos"
+          },
+          "note": "Draft 2, the Latinist's fix (v1, minor); the stylist asked the same bare nouns with 'aos'. The Latin nouns are bare, so no articles; 'para' is the Portuguese of 'in the eyes of' ('somos uma afronta para eles'), so the reading of DRB and Matos Soares 1932 ('we are a reproach to the rich') is heard, while 'for them' stays open as the Latin's dative allows. It also removes the stumble 'a‿afronta‿aos' the stylist heard. 19 syllables by checks.py against the Latin's 17.",
+          "from": "latinist"
+        },
+        {
+          "label": "afronta aos prósperos, e desprezo aos soberbos",
+          "forms": {
+            "v4b": "afronta aos prósperos, e desprezo aos soberbos"
+          },
+          "note": "The stylist's (v1): no articles, the plain dative kept. Shorter (15); but 'afronta aos …' is still heard first as an affront directed at them.",
+          "from": "stylist"
+        },
+        {
+          "label": "a afronta aos prósperos, e o desprezo aos soberbos",
+          "forms": {
+            "v4b": "a afronta aos prósperos, e o desprezo aos soberbos"
+          },
+          "note": "Draft 1. The Greek's articles and the plain dative. Refused: the Latinist and the stylist both found the articles detach the colon (a pair of headings, not the content of the filling), and the ambiguity reader's likeliest hearing was insult aimed AT the prosperous — the opposite of the psalm.",
+          "from": "draft"
+        },
+        {
+          "label": "a afronta aos ricos, e o desprezo aos soberbos",
+          "forms": {
+            "v4b": "a afronta aos ricos, e o desprezo aos soberbos"
+          },
+          "note": "Matos Soares 1932 and DRB have 'rich' (the CNBB 'ricaços'). Plainer; but it names wealth where εὐθηνέω and abundáre say ease and plenty, and parts from 72:12.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "122:1": "No titulus: 'Canticum graduum' is not in DO's psalm file and tituli are out of the first edition (D7) — as Ps 133 and Ps 120. 'in cælis' plural → 'nos céus' (2:4 'Aquele que habita nos céus'). habitáre → habitar. The perfect 'levávi' → 'levantei' (as 24:1 and 120:1; the CNBB has the present).",
+    "122:2a": "dóminus of the masters → 'senhores', and of God (122:2b) → 'Senhor': one Latin word, one Portuguese word, so the image of the servant's master and the Lord is heard as the Latin has it. Second colon 7 syllables against 11 (checks.py), accepted: nothing is dropped, Portuguese is shorter here.",
+    "122:2b": "'Dóminum, Deum nostrum' → 'o Senhor, nosso Deus' (apposition). 'misereátur nostri' → 'tenha piedade de nós' (the miseréri row), so that the next verse's 'Miserére nostri' is heard as the same words — the Latin's echo. The Missal's Tract (Quad3-0) has 'Et sicut' and later 'nobis'; the psalm's text is followed.",
+    "122:3": "'Miserére nostri, Dómine, miserére nostri' → 'Tende piedade de nós, Senhor, tende piedade de nós' (the miseréri formula, plural; the same words as the Te Deum and the Preces versicle in the Latin). First colon +3 on the Latin, accepted for the formula. multum → muito, in both verses. despéctio → desprezo (see v4b). The vocative 'Dómine' bare, as the glossary's rule (no 'ó' where the Latin has none; the CNBB adds one).",
+    "122:4": "'Quia multum repléta est ánima nostra' repeats 122:3's 'quia multum repléti sumus'; the Portuguese repeats 'porque … muito farto'. Subject-first order in the first colon (rule 2). ánima nostra → 'a nossa alma'. Draft 2: 'afronta para os prósperos, e desprezo para os soberbos' (the Latinist). The ambiguity reader noted 'soberbos' could be heard as 'superb'; beside 'desprezo' it heard 'the proud', and 93:2 has the same word. 'prósperos' heard as 'those who do well', neutral: the Latin's word is as neutral (72:12)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm122.txt. Liturgical use found by grep of content/do and Brazilian circulation fetched (CNBB Liturgia das Horas via liturgiadashoras.online): recorded in ps122/circulation.md. The fetch tool summarizes pages, so the CNBB wording quoted is probable, not guaranteed."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps122.md. The Latin follows the LXX against the Hebrew in 122:4 (datives, not the Hebrew's genitives 'the scorn of those at ease'), and the translation follows the Latin. Hard readings: the verbless comparison of 122:2, the ambiguous datives of 122:4, and 'repléti … despectióne' (heard wrongly with 'cheios'). Precedents checked in the prayed files: 24:1 (Ad te levávi), 120:1 (levantei os meus olhos), 93:2 (vós que julgais; soberbos), 72:12 (prósperos), 85:16 (serva), 87:4 and 25:10 (está cheia), 66:2 (tenha piedade de nós)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags: 122:2a second colon −4 (7 against 11), accepted — nothing is dropped, 'nas mãos dos seus senhores' is simply shorter than 'in mánibus dominórum suórum', and supplying a verb would add what the Latin lacks (see verbless). 122:3 first colon +3, accepted: the miseréri formula said twice, as the Latin. No rhyme or cadence flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with the Latin. Two minors, nothing major; tenses, persons, the subjunctive and the pointing confirmed.",
+      "outcomes": [
+        {
+          "verse": "122:3",
+          "remark": "'fartos' heard as 'fed up' → 'repletos'",
+          "outcome": "option",
+          "decision": "repleri",
+          "reason": "'repletos de desprezo' is heard as contempt we feel, the fault 'fartos' was chosen to avoid; 'fed up with being scorned' keeps the suffering and the excess."
+        },
+        {
+          "verse": "122:4",
+          "remark": "articles detach the bare nouns → 'afronta para os prósperos, e desprezo para os soberbos'",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with the Latin. Best line 122:1, worst 122:4. Four remarks: one taken in substance (the articles), three kept as options.",
+      "outcomes": [
+        {
+          "verse": "122:2b",
+          "remark": "long verbless colon → 'assim estão os nossos olhos no Senhor'",
+          "outcome": "option",
+          "decision": "verbless",
+          "reason": "'no' loses ad (toward); supplying the verb fills what the Latin leaves verbless; the ambiguity reader heard the colon rightly."
+        },
+        {
+          "verse": "122:3",
+          "remark": "'fartos' colloquial → 'saciados'",
+          "outcome": "option",
+          "decision": "repleri",
+          "reason": "saciar belongs to satiáre / saturáre (glossary); 'fed up with being scorned' is the Latin's sense, not against it."
+        },
+        {
+          "verse": "122:4",
+          "remark": "'a nossa alma está muito farta' → 'saciada'",
+          "outcome": "option",
+          "decision": "repleri",
+          "reason": "One verb twice, so it goes with 122:3."
+        },
+        {
+          "verse": "122:4",
+          "remark": "articles, 'a‿afronta‿aos' stumble → 'afronta aos prósperos, e desprezo aos soberbos'",
+          "outcome": "taken",
+          "reason": "Articles dropped as asked; 'para' (the Latinist's) preferred to 'aos'; 'aos' kept as an option."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. No unknown words. Eight items.",
+      "outcomes": [
+        {
+          "verse": "122:2a",
+          "remark": "verbless 'olhos … nas mãos' momentarily odd; likeliest hearing right (looking to their hands)",
+          "outcome": "refused",
+          "reason": "The Latin is verbless; heard rightly."
+        },
+        {
+          "verse": "122:2b",
+          "remark": "'tenha' could be first person; heard as the Lord",
+          "outcome": "refused",
+          "reason": "Heard rightly; 'até que ele tenha' stays an option (donec)."
+        },
+        {
+          "verse": "122:2b",
+          "remark": "'para o Senhor' turned toward / given to",
+          "outcome": "refused",
+          "reason": "Heard as 'look toward the Lord', the Latin's ad."
+        },
+        {
+          "verse": "122:3",
+          "remark": "'fartos de desprezo' heard as fed up with being scorned",
+          "outcome": "refused",
+          "reason": "That is the suffered sense the word was chosen for; 'we feel contempt' was only the third reading, not the first as with 'cheios'."
+        },
+        {
+          "verse": "122:4",
+          "remark": "'a nossa alma está muito farta' heard as fed up",
+          "outcome": "refused",
+          "reason": "As 122:3."
+        },
+        {
+          "verse": "122:4",
+          "remark": "'a afronta aos prósperos …' likeliest heard as insult aimed at them",
+          "outcome": "taken",
+          "reason": "The colon changed to 'afronta para os prósperos, e desprezo para os soberbos'."
+        },
+        {
+          "verse": "122:4",
+          "remark": "'prósperos' may be neutral",
+          "outcome": "refused",
+          "reason": "So is the Latin's abundántes (εὐθηνοῦντες); 72:12's word."
+        },
+        {
+          "verse": "122:4",
+          "remark": "'soberbos' could be 'superb'",
+          "outcome": "refused",
+          "reason": "Heard as 'the proud' beside 'desprezo'; 93:2's word."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 122:4 second colon 'a afronta aos prósperos, e o desprezo aos soberbos' → 'afronta para os prósperos, e desprezo para os soberbos'. Readers' alternatives added as options (repleri, verbless, v4b). Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the v1 readers read)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. 122:4 second colon 19 against 17, no flag; 122:2a −4 and 122:3 +3 as in draft 1, accepted for the same reasons."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2, claude-opus-5-5, fresh context, with the Latin. Clean: no remarks; the datives kept open with para, prósperos and fartos judged fair, the marks confirmed.",
+      "outcomes": []
+    }
+  ]
+}

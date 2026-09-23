@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "e761d5465820924e126b5e02285c05d9f3c8fb489146b7c20c284449bde1b5db",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T08:42:32+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation follows the Latin closely throughout: the vocatives, the double 'miserere nostri', the perfect passive 'repleti sumus' / 'repleta est', and the ambiguous datives 'abundantibus' and 'superbis' (kept open with 'para') are all rendered without adding, dropping or resolving anything. 'Prósperos' for 'abundantibus' and 'fartos' for 'repleti' are fair equivalents. The pointing marks match the Latin in kind and order in every verse.\"}\n"
+}

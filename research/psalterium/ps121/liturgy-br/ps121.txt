@@ -1,0 +1,34 @@
+Ps 121(122) as it circulates liturgically in Brazil — fetched 2026-09-23 for the Ps 121 agent.
+Both texts are CNBB translations FROM THE HEBREW (© CNBB); consulted only to know what the Brazilian ear already carries. Not a source of meaning (rule 1).
+
+1. Liturgia das Horas (CNBB), Salmo 121(122) "Jerusalém, cidade santa" — https://liturgiadashoras.online/salmo-121122/ (raw page: lho-salmo-121.html)
+
+–1 Que alegria, quando ouvi que me disseram: *
+“Vamos à casa do Senhor!”
+–2 † E agora nossos pés já se detêm, *
+Jerusalém, em tuas portas.
+–3 Jerusalém, cidade bem edificada *
+num conjunto harmonioso;
+–4 para lá sobem as tribos de Israel, *
+as tribos do Senhor.
+– Para louvar, segundo a lei de Israel, *
+o nome do Senhor.
+–5 A sede da justiça lá está *
+e o trono de Davi.
+–6 Rogai que viva em paz Jerusalém, *
+e em segurança os que te amam!
+–7 Que a paz habite dentro de teus muros, *
+tranquilidade em teus palácios!
+–8 Por amor a meus irmãos e meus amigos, *
+peço: “A paz esteja em ti!”
+–9 Pelo amor que tenho à casa do Senhor, *
+eu te desejo todo bem!
+
+2. Lecionário (CNBB), responsorial "Sl 121 (122), 1-2. 3-4a. (4b-5. 6-7) 8-9 (R. 1)" — https://fontedeaguavivaudia.com.br/salmo-sl-121-122-1-2-3-4a-4b-5-6-7-8-9-r-1/ (page dated 29 Nov 2021; says "Fonte: liturgiadiaria.cnbb.org.br"; raw page: fav-salmo-121.html)
+
+R. Que alegria, quando me disseram: 'Vamos à casa [do] Senhor!'
+Stanzas = the Liturgia das Horas text above.
+
+3. A web-search summary (not fetched) gave the CNBB Bible (gospelmais.com/biblia/cnbb/salmos/122) as opening "Fiquei alegre, quando me disseram: 'Vamos à casa do SENHOR!'". Page titles seen in the search: "Que Alegria Quando me Disseram - Salmo 121 (122) 1° Domingo Advento Ano A" (letras.mus.br, Canal Salmodiai) — the Sunday assignment is seen only in a title, UNVERIFIED.
+
+What this shows: Brazil's ear carries "Que alegria … Vamos à casa do Senhor!" — the Hebrew's cohortative (נֵלֵךְ, "let us go"), where the Latin (íbimus) and the Greek (πορευσόμεθα) have a future, "we shall go". The Latin liturgy uses 121:1 as the Introit verse of Lætáre (Quad4-0) and of Pent18-0, the Gradual of both (121:1 + V. 121:7), the Alleluia verse of Adv2-0, the Vespers antiphons "Lætátus sum * in his, quæ dicta sunt mihi" and "In domum Dómini * lætántes íbimus" (Psalmi major), and the versicle "V. Fiat pax in virtúte tua. R. Et abundántia in túrribus tuis" (Preces; Major Special) — all by grep in content/do/.

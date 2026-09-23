@@ -1,0 +1,150 @@
+{
+  "psalm": 121,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "121:1": "Alegrei-me {dicta}: * {ibimus} à casa do Senhor.",
+    "121:2": "Os nossos pés {stantes}, * nos teus átrios, Jerusalém.",
+    "121:3": "Jerusalém, {aedificatur} como cidade: * cuja {participatio} é {idipsum}.",
+    "121:4": "Pois para lá subiram as tribos, as tribos do Senhor: * testemunho {israel}, para dar graças ao nome do Senhor.",
+    "121:5": "Porque ali {sederunt} em juízo, * {sedes2} sobre a casa de Davi.",
+    "121:6": "Rogai o que é para a paz {jerusalem6}: * e abundância para os que te amam:",
+    "121:7": "{fiat} {virtute}: * e abundância nas tuas torres.",
+    "121:8": "{propter8} dos meus irmãos e dos meus próximos, * {loquebar}:",
+    "121:9": "{propter9} da casa do Senhor, nosso Deus, * busquei coisas boas para ti."
+  },
+  "decisions": [
+    {
+      "id": "dicta", "refs": ["121:1"], "latin": "in his, quæ dicta sunt mihi", "kind": "word",
+      "why": "The Latin says 'in the things that were said to me' — a neuter plural and a passive, with no speakers named. The Greek (τοῖς εἰρηκόσιν μοι) and the Hebrew (בְּאֹמְרִים לִי) have the people who said it; the Latin chose the things said. Brazil's ear carries the Hebrew-family 'Que alegria, quando ouvi que me disseram' (CNBB Liturgia das Horas and Lecionário, verified — liturgy-br/ps121.txt). This line is also said alone: the Introit verse of Lætáre (Quad4-0) and of the 18th Sunday after Pentecost, the Gradual of both, the Alleluia verse of Adv2-0, and the Vespers antiphon 'Lætátus sum * in his, quæ dicta sunt mihi' (grep in content/do/).",
+      "options": [
+        {"label": "com o que me foi dito", "forms": {"dicta": "com o que me foi dito"}, "note": "Ruling. Keeps the passive and names no speaker, as the Latin; the plural 'his … quæ' is carried by the neuter 'o que', which has no number. Matos Soares 1932 has the same build ('com isto que me foi dito'). Eleven syllables against the Latin's twelve, paroxytone at the mediant.", "from": "draft"},
+        {"label": "com o que me disseram", "forms": {"dicta": "com o que me disseram"}, "note": "Plainer speech, and near to the line Brazil sings ('quando me disseram'). But the impersonal 'disseram' brings in the sayers — the Greek's and the Hebrew's reading, not the Latin's things said.", "from": "draft"},
+        {"label": "com as coisas que me foram ditas", "forms": {"dicta": "com as coisas que me foram ditas"}, "note": "Douay-Rheims 'at the things that were said to me': keeps the plural; three syllables longer and heavier.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "ibimus", "refs": ["121:1"], "latin": "In domum Dómini íbimus", "kind": "word",
+      "why": "íbimus is a future, as the Greek πορευσόμεθα; the Hebrew נֵלֵךְ is a cohortative, 'let us go', and that is the line Brazil sings at Mass and in the Hours ('Vamos à casa do Senhor!', CNBB, verified). Rule 1: the Latin's tense stands. The capital of 'In' marks the words as the thing said; house style (4:6, 88:3) gives quoted speech a capital after the colon and no quotation marks.",
+      "options": [
+        {"label": "Iremos", "forms": {"ibimus": "Iremos"}, "note": "Ruling. The Latin's future (Douay-Rheims 'We shall go', Matos Soares 1932 'Iremos à casa do Senhor'). Nine syllables, as the Latin colon.", "from": "draft"},
+        {"label": "Vamos", "forms": {"ibimus": "Vamos"}, "note": "The Brazilian liturgical line (CNBB Liturgia das Horas and Lecionário, from the Hebrew). In Portuguese 'vamos' can be heard as a near future too, but first it is heard as 'let us go' — the Hebrew's mood. Flagged for Gustavo: it is the line the Brazilian ear knows.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "stantes", "refs": ["121:2"], "latin": "Stantes erant pedes nostri", "kind": "word",
+      "why": "A periphrastic imperfect, 'our feet were standing' (ἑστῶτες ἦσαν; Douay-Rheims 'Our feet were standing'). The glossary's stare → estar de pé (Ps 133:1b) cannot serve with feet as subject ('os pés estavam de pé'). The row stare-on-a-road → deter-se (1:1) would do, but it says an act of halting where the Latin says a state.",
+      "options": [
+        {"label": "estavam parados", "forms": {"stantes": "estavam parados"}, "note": "Ruling. The state, with the Latin's own build (estavam + participle for erant + participle): the pilgrims' feet standing still in the courts. Matos Soares 1932 'os nossos pés param'. Ten syllables against eight.", "from": "draft"},
+        {"label": "se detinham", "forms": {"stantes": "se detinham"}, "note": "The Diurnal Monástico 1962 ('Já nossos pés se detêm') and the CNBB wording; the deter-se row of 1:1 and 103:6. Eight syllables, a good cadence; but it is the act of stopping, and 37:12's blind reader heard 'se detiveram' as 'were detained'.", "from": "DM1962"},
+        {"label": "estavam firmes", "forms": {"stantes": "estavam firmes"}, "note": "stare also means to stand firm (L&S); here that reads a steadiness into the verse that the Latin does not stress.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "aedificatur", "refs": ["121:3"], "latin": "quæ ædificátur ut cívitas", "kind": "grammar",
+      "why": "ædificátur is a present passive (οἰκοδομουμένη, a present participle): the city is being built — the reading Augustine makes the heart of his sermon on this psalm. ædificáre is edificar in every finished place (50:20 'para que se edifiquem os muros de Jerusalém', 68:36, 101:17 — grep).",
+      "options": [
+        {"label": "que se edifica", "forms": {"aedificatur": "que se edifica"}, "note": "Ruling. The pronominal passive, as 50:20: keeps the present and the process open.", "from": "draft"},
+        {"label": "que é edificada", "forms": {"aedificatur": "que é edificada"}, "note": "The periphrastic passive, as 68:36 'serão edificadas'; in the present it tends to be heard as a finished state.", "from": "draft"},
+        {"label": "que está edificada", "forms": {"aedificatur": "que está edificada"}, "note": "Matos Soares 1932: a state ('which is built', Douay-Rheims). Closes the Latin's present into a perfect.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "participatio", "refs": ["121:3"], "latin": "cujus participátio ejus", "kind": "word",
+      "why": "participátio is 'a sharing, partaking' (L&S), the Greek μετοχή; the doubled pronoun (cujus … ejus, ἧς … αὐτῆς) is a Hebraism and is said once, as Douay-Rheims and Matos Soares 1932 do (grammar, D2). Douay-Rheims ('which is compact together') and Matos Soares ('cujas partes … estão em perfeita e mútua união') both leave the noun and paraphrase.",
+      "options": [
+        {"label": "participação", "forms": {"participatio": "participação"}, "note": "Ruling. The Latin's word, and the plain one: the city's sharing, what its people partake of together. It can sound administrative; the readers will say.", "from": "draft"},
+        {"label": "partilha", "forms": {"participatio": "partilha"}, "note": "The sharing out itself, shorter; but partilhar is distribúere's verb (47:14, D43).", "from": "draft"},
+        {"label": "comunhão", "forms": {"participatio": "comunhão"}, "note": "What a Christian ear hears in the verse, but it is communicátio / κοινωνία's word, not μετοχή's: it interprets.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "idipsum", "refs": ["121:3"], "latin": "in idípsum", "kind": "glossary",
+      "why": "The sixth place of D9 (deferred): 4:9 'a um só tempo', 33:4, 61:10, 73:6 'juntos' (persons acting together), 40:7 'no mesmo sentido'. The Greek ἐπὶ τὸ αὐτό is 'together, into one'. Here the subject is a thing (the city's sharing), so the plural 'juntos' cannot stand; the row's proposal gives 'a um só tempo' for a thing, but simultaneity is not the sense here — unity is. Augustine reads idípsum here as a name of God (the Selfsame, 'Ego sum qui sum'); no Portuguese phrase keeps both.",
+      "options": [
+        {"label": "em conjunto", "forms": {"idipsum": "em conjunto"}, "note": "Ruling. 'Together', the Greek's sense, in the form a singular noun can take; one family with 'juntos' of 33:4, 61:10, 73:6. The word 'conjunto' is also in the CNBB wording of this very verse ('num conjunto harmonioso'), so the Brazilian ear knows it here — that is a matter of the ear, not of sense.", "from": "draft"},
+        {"label": "em unidade", "forms": {"idipsum": "em unidade"}, "note": "Says the oneness, where the Latin says 'into the same'; a little more abstract.", "from": "draft"},
+        {"label": "no mesmo", "forms": {"idipsum": "no mesmo"}, "note": "Word for word, and the only wording that leaves Augustine's reading open; but in Portuguese it hangs, waiting for a noun.", "from": "draft"},
+        {"label": "a um só tempo", "forms": {"idipsum": "a um só tempo"}, "note": "4:9's wording and the glossary row's proposal for a thing; says simultaneity, which is not the point of a city built as one.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "israel", "refs": ["121:4"], "latin": "testimónium Israël", "kind": "ambiguity",
+      "why": "Israël is indeclinable: genitive ('the testimony of Israel', Douay-Rheims) or dative. The Greek has the dative (μαρτύριον τῷ Ισραηλ, 'an ordinance for Israel'), which Matos Soares 1932 paraphrases ('segundo a ordem dada a Israel'). The noun stands in apposition to the tribes' going up, without an article, as the Latin. testimónium singular → testemunho (18:8, 77:5).",
+      "options": [
+        {"label": "de Israel", "forms": {"israel": "de Israel"}, "note": "Ruling. The Latin's surface and Douay-Rheims; Portuguese 'de' is wide enough to be heard as 'of' or 'concerning'.", "from": "draft"},
+        {"label": "para Israel", "forms": {"israel": "para Israel"}, "note": "The Greek's dative, which the Latin can also mean; it closes the ambiguity the other way.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "sederunt", "refs": ["121:5"], "latin": "illic sedérunt sedes … sedes", "kind": "word",
+      "why": "A figura etymologica: 'seats sat' (Douay-Rheims 'their seats have sat in judgment'; ἐκάθισαν θρόνοι). sedes → trono (glossary; θρόνος). 'Assentar-se' is both 'to sit' and 'to be set up', so the Latin's odd image stays while the sense is plain. in judício with a throne → em juízo, as 9:8b 'Preparou o seu trono em juízo'.",
+      "options": [
+        {"label": "se assentaram tronos … tronos", "forms": {"sederunt": "se assentaram tronos", "sedes2": "tronos"}, "note": "Ruling. The sitting verb kept; the noun is the glossary's.", "from": "draft"},
+        {"label": "se assentaram assentos … assentos", "forms": {"sederunt": "se assentaram assentos", "sedes2": "assentos"}, "note": "Keeps the figura etymologica (Douay-Rheims 'seats'); but 'assentos' are chairs and bus seats in Brazil, and the jingle is heavy.", "from": "DRB"},
+        {"label": "se estabeleceram tronos … tronos", "forms": {"sederunt": "se estabeleceram tronos", "sedes2": "tronos"}, "note": "Matos Soares 1932's verb ('se estabeleceram os tribunais'): what the image means, without the image.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "jerusalem6", "refs": ["121:6"], "latin": "quæ ad pacem sunt Jerúsalem", "kind": "ambiguity",
+      "why": "Jerúsalem is indeclinable. The Greek has an accusative (ἐρωτήσατε … τὰ εἰς εἰρήνην τὴν Ιερουσαλημ), which can be 'ask Jerusalem about her welfare', i.e. greet her; the Latin reader takes a genitive (Douay-Rheims 'for the peace of Jerusalem'). Rogáte → rogai (safe at the vós imperative: the past is 'roguei'; 'pedi' would be 'I asked', rule 3).",
+      "options": [
+        {"label": "de Jerusalém", "forms": {"jerusalem6": "de Jerusalém"}, "note": "Ruling. Douay-Rheims; the reading a Latin ear makes first.", "from": "DRB"},
+        {"label": "para Jerusalém", "forms": {"jerusalem6": "para Jerusalém"}, "note": "Matos Soares 1932 ('graças de paz para Jerusalém'): Jerusalem the one the peace is asked for.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "fiat", "refs": ["121:7"], "latin": "Fiat pax", "kind": "glossary",
+      "why": "The glossary's jussive Fiat → 'Seja' (118:76, 80, 173) was built on verses with a subject and a predicate ('Seja a vossa misericórdia para me consolar'). Here fíeri is existential with a bare noun, 'let there be peace'; Portuguese says that with haver. The line is also said alone as the versicle 'V. Fiat pax in virtúte tua. R. Et abundántia in túrribus tuis' (Preces; Major Special) and in the Gradual of Lætáre (grep).",
+      "options": [
+        {"label": "Haja paz", "forms": {"fiat": "Haja paz"}, "note": "Ruling. The existential jussive; a supplied verb of Portuguese grammar, nothing else (D2). DRB 'Let peace be'.", "from": "draft"},
+        {"label": "Seja a paz", "forms": {"fiat": "Seja a paz"}, "note": "The glossary row's 'Seja'; with a locative after it, it hangs.", "from": "glossary"},
+        {"label": "Faça-se a paz", "forms": {"fiat": "Faça-se a paz"}, "note": "The echo of 'Fiat lux' / the Angelus; it failed the stylist twice in Ps 118.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "virtute", "refs": ["121:7"], "latin": "in virtúte tua", "kind": "glossary",
+      "why": "virtus (δύναμις) → poder by the glossary; a city's virtus was ruled 'no seu poder' at 47:14 (Sion). Here it stands parallel to the towers, so the city's strength — Douay-Rheims 'in thy strength'. força is fortitúdo's word.",
+      "options": [
+        {"label": "no teu poder", "forms": {"virtute": "no teu poder"}, "note": "Ruling. The row, as 47:14. Risk: heard as 'in your control'.", "from": "glossary"},
+        {"label": "na tua força", "forms": {"virtute": "na tua força"}, "note": "Douay-Rheims, Matos Soares 1932 at 47:14; the natural phrase, but força is fortitúdo's.", "from": "DRB"},
+        {"label": "na tua fortaleza", "forms": {"virtute": "na tua fortaleza"}, "note": "Both strength and stronghold, beside the towers; but it leans toward the Hebrew's rampart (חֵיל), and 88:41 uses 'fortaleza' for firmaméntum.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "propter", "refs": ["121:8", "121:9"], "latin": "Propter … Propter", "kind": "word",
+      "why": "The two last verses open alike, and the anaphora stays. propter → por causa de (glossary). In 121:9 it gives 'Por causa da casa', a causa/casa near-jingle.",
+      "options": [
+        {"label": "Por causa", "forms": {"propter8": "Por causa", "propter9": "Por causa"}, "note": "Ruling. The glossary's word, both times.", "from": "glossary"},
+        {"label": "Por amor", "forms": {"propter8": "Por amor", "propter9": "Por amor"}, "note": "Matos Soares 1932 in 121:9 ('Por amor da casa do Senhor'): avoids the jingle, but adds the love the Latin does not say.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "loquebar", "refs": ["121:8"], "latin": "loquébar pacem de te", "kind": "word",
+      "why": "loqui pacem is 'to speak peace', as 84:9 'ele falará paz ao seu povo' (the finished text); the imperfect is kept. de te (περὶ σοῦ) → 'sobre ti', which in Portuguese is 'about you' and can also be heard as peace spoken upon the city.",
+      "options": [
+        {"label": "eu falava paz sobre ti", "forms": {"loquebar": "eu falava paz sobre ti"}, "note": "Ruling. 84:9's 'falar paz'; the subject named, because 'falava' alone could be a third person. Nine syllables against seven.", "from": "draft"},
+        {"label": "eu falava de paz a teu respeito", "forms": {"loquebar": "eu falava de paz a teu respeito"}, "note": "As 27:3's 'falam de paz'; clearer, but four syllables over the Latin, and 'falar de paz' is to talk about peace, not to speak it.", "from": "draft"},
+        {"label": "eu pedia a paz para ti", "forms": {"loquebar": "eu pedia a paz para ti"}, "note": "Matos Soares 1932 ('pedi eu a paz para ti'): what the speaking means; the verb changes.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "121:1": "lætári → alegrar-se (glossary). 'Alegrei-me' at the head of the verse; 'Eu me alegrei' (Diurnal Monástico 1962) is as good and one syllable longer. No titulus: DO's Latin has none for this psalm or for Ps 133, and D7 keeps tituli out, so there is no title formula to match.",
+    "121:2": "Jerusalem is spoken to: a singular addressee, tu (rule 3), here and in 121:6–9. átrium → átrio (glossary; unknown to several blind readers, kept). No 'ó' supplied before the vocative.",
+    "121:3": "The resumptive ejus is not translated ('cuja participação' already says it). See the decisions participatio and idipsum.",
+    "121:4": "enim → pois (glossary). 'tribus, tribus Dómini' — the repetition kept. confitéri → dar graças a (D5); 'ad confiténdum nómini Dómini' keeps its dative. Dómini closes both cola, in Latin and Portuguese.",
+    "121:5": "Quia → porque; illic → ali.",
+    "121:6": "rogáre → rogar (new; 'Rogai' is also the CNBB wording of this verse). 'o que é para a paz' carries quæ ad pacem sunt; the plural 'as coisas que são' is the literal. abundántia → abundância (glossary; 121:6 and 121:7 are named in the row). The sudden 'te' (Jerusalem) inside a verse spoken to 'vós' is the Latin's.",
+    "121:7": "turris → torre (glossary, 60:4).",
+    "121:8": "'meus próximos' at the mediant is a proparoxytone, accepted as at 37:12 ('Os meus amigos e os meus próximos *'). próximus → próximo (glossary).",
+    "121:9": "quǽrere → buscar (glossary). bona → 'coisas boas' (the bona tríbuere row, 12:6b; 'bens' is heard as property). 'do Senhor, nosso Deus' as 112:5."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm121.txt. The Hetzenauer print read is skipped and owed."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps121.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Brazilian liturgical circulation verified by fetch, not from memory: CNBB Liturgia das Horas and a Lecionário responsorial (liturgy-br/ps121.txt, raw pages kept). Latin liturgical uses found by grep in content/do/ (Introit verse and Gradual of Quad4-0 and Pent18-0, Alleluia verse of Adv2-0, Vespers antiphons, the Fiat pax versicle). Hard readings: in idípsum (D9, sixth place), participátio, testimónium Israël, sedérunt sedes, quæ ad pacem sunt Jerúsalem, virtus of a city. Where the Latin follows the Greek against the Hebrew (121:1 things said, not sayers; íbimus future; 121:2 átria, not gates; 121:3 participátio … in idípsum), the Latin is followed. No title: DO's Latin has no titulus for Ps 121 (nor for Ps 133, whose 'title formula' the brief asked to match — there is none in ps133/prayed.json), and D7 keeps tituli out."},
+    {"step": "checks", "note": "Draft 1: hard pass. Every colon within ±2 syllables of the Latin (121:1–9). One rhyme flag, 121:4 (Senhor / Senhor at mediant and final): accepted, the Latin's own repetition at the same places (Dómini / Dómini), as 133:1a. The proparoxytone 'próximos' at the 121:8 mediant is accepted as at 37:12."}
+  ]
+}
