@@ -115,6 +115,24 @@ Every ruling in `DECISIONS.md` marked "Claude, for review" waits on him; D1, D12
     - 54:3 *exercitátio → exercício* was heard as a workout.
     - 54:4 *se voltaram contra mim*: 20:12 has the same *voltaram* risk.
     - *conculcáre → calcar aos pés* is settled, with Ps 7:6 *pise* the exception.
+24. From the follow-ups of 2026-09-23 (final gates, canticles). Each canticle's audit and glossary rows carry the reasons and the options; these are the places that want your ear:
+    - Gate majors still held in the psalms: 88:36, 138:15 *os meum* (with 101:6), 145:4 *terram suam*.
+    - ***ad ínferos*** (212, 223; also 234, the Athanasian Creed, not translated): *aos infernos* or *à morada dos mortos*. 223:9 now has *faz descer aos infernos* (the *dedúcere* row's verb), 212 still *conduzis*; if *fazer descer* stands, 212 becomes *fazeis descer aos infernos, e trazeis de volta*.
+    - ***superexaltáre*** (210, 220): *sumamente* or *muito*.
+    - 211: *ínclitum → glorioso* or *ilustre*.
+    - 214: *gáudium* / *júbilo*.
+    - 215: 45:23 *Nada* / *Não souberam*.
+    - 216: 36:13 *E os herdareis*; 36:14 *invocado o vosso nome*; 36:1 *Deus de todos*; 36:10 *quem escapa*.
+    - 221: 12:4 *fontes do Salvador*; 12:5 *invenções*; 12:1 *se afastou*.
+    - 222: *ceifou-me* (clashes with *métere*); *inferno*; *geração*; the verbless 38:20.
+    - 223: *Christus → Cristo* by D19, *o seu Ungido* the option (no finished psalm has *Ungido*; an earlier claim that one did was wrong).
+    - 224: 15:1 *se engrandeceu* against the Easter Vigil refrain's *fez brilhar a sua glória*; *derrubou* against the familiar *precipitou*; *sopro* at 15:7 but *espírito* at 15:11; *fizestes*, D43's option, against its settled *operastes*; *o terror e o pavor* moves off 54:5's *pavor* for *formído*; *e ainda além*.
+    - 225: 3:18 *meu Jesus*, where every Brazilian text has *meu Salvador*; 3:19 *corças* (the Latin *cervórum* is masculine; flagged by three Latinists, held under the 17:34 / 28:9 row); 3:2 *a vossa notícia*; 3:14 *era* against *é*; ten words the blind reader did not know (Farã, Madiã, quadrigas, proferistes, fulgurante, bramido, fervilhe, cingido, aprisco, corças).
+    - 226: the sung Lectionary refrain has *porção* where the draft keeps the glossary's *parte*; 32:7 *adquiriu* against the *possidére* row (*possuiu* with a person was heard as possession); 32:49 *tesouros* against the open *depósito* row; 32:15 *provoca*, with *incita* and *estimula* as options.
+    - 231: 1:78 *o Oriente do alto* against the familiar *Sol nascente*; 1:69 *chifre* (slang risk); 1:77 *o saber*; 1:70 *desde os tempos antigos* departs from the *a sǽculo → desde sempre* row when said of people.
+    - 232: 1:48 *humildade*, the LH's *pequenez* the option; 1:51 *agiu com potência*; 1:55 *pelos séculos* against the familiar *para sempre*.
+    - Tooling: the shared `checks.py` crashes on an empty colon ("Magníficat + *"); ps232 ran a local copy, `ps232/checks232.py`, that counts it as 0 syllables.
+    - Public history: ps213's `circulation.md` once held the full CNBB text; it is trimmed now, but the full text remains in earlier commits.
 
 Follow-ups after the Psalter (2026-09-23), all done and pushed: final Latinist gates on the 21 psalms whose last draft was unread (no new majors; 88:36, 138:15, 145:4 stay pending); the Ps 118 Hetzenauer print read (no wording divergence); and the canticles 210–216, 220–226, 231, 232 at draft 2, each with three fresh-context Opus readers and a Latinist gate, no majors. Each canticle folder has its own `show_parallels.py` (`parallels.py` takes psalm numbers only) and its "For Gustavo" points in the audit and glossary rows. The shared `checks.py` crashes on an empty colon ("Magníficat + *"); ps232 used a local copy, `ps232/checks232.py`. `tests/site_finished.py` builds the site from reviewed folders only; `check-site.js` rebuilds everything, drafts included, so run `site_finished.py` after it and before staging.
 
