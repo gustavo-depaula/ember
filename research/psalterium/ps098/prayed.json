@@ -1,0 +1,619 @@
+{
+  "psalm": 98,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "98:1": "O Senhor {regnavit}, {irascantur} os povos: * {sedet} sobre os querubins, abale-se a terra.",
+    "98:2": "O Senhor é grande em Sião: * e excelso sobre todos os povos.",
+    "98:3": "{confiteantur} ao vosso grande nome: porque é terrível e santo: * e a honra do rei ama o juízo.",
+    "98:4": "Vós preparastes {directiones}: * vós {fecisti} o juízo e a justiça em Jacó.",
+    "98:5": "Exaltai o Senhor, nosso Deus, e {adorate}: * porque {sanctumest}.",
+    "98:6": "Moisés e Aarão entre os seus sacerdotes: * e Samuel entre os que invocam o seu nome:",
+    "98:6b": "Invocavam o Senhor, e ele os escutava: * {columna}.",
+    "98:7": "Guardavam os seus testemunhos, * e o decreto que lhes deu.",
+    "98:8": "Senhor, nosso Deus, vós os escutáveis: * Deus, vós lhes fostes {propitius}, e {ulciscens} todas as {adinventiones}.",
+    "98:9": "Exaltai o Senhor, nosso Deus, e adorai no seu monte santo: * porque santo é o Senhor, nosso Deus."
+  },
+  "decisions": [
+    {
+      "id": "regnavit",
+      "refs": [
+        "98:1"
+      ],
+      "latin": "Dóminus regnávit",
+      "kind": "glossary",
+      "why": "The formula that opens Pss 92, 96 and 98. The glossary row (Ps 92) rules the Latin's perfect, *O Senhor reinou*, and says 96:1 and 98:1 should open with it; 96:1 does. Copied (rule 6). The known cost, noted in Pss 92 and 96: a reader may hear a finished past ('reigned once') where the aorist means a reign begun and standing.",
+      "options": [
+        {
+          "label": "reinou",
+          "forms": {
+            "regnavit": "reinou"
+          },
+          "note": "the formula as ruled in Ps 92 and copied in 96:1; DRB 'hath reigned', MS1932 'já reina' (with *já*, a present of a begun reign)",
+          "from": "glossary"
+        },
+        {
+          "label": "reina",
+          "forms": {
+            "regnavit": "reina"
+          },
+          "note": "the present, as the Hebrew-family versions; the Latin does not say it",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "irascantur",
+      "refs": [
+        "98:1"
+      ],
+      "latin": "irascántur pópuli",
+      "kind": "word",
+      "why": "*Irásci* is 'be angry' (ὀργιζέσθωσαν); the Hebrew *yirgezu* is 'tremble', which is where the modern 'tremam' comes from — not the Latin's sense (rule 1). The psalter's *irásci* is *irar(-se)* elsewhere (4:5 *Irai-vos*, 2:12 *não se ire*), so the jussive is *irem-se*. MS1932 has *irritem-se*, which is closer to 'be provoked' and is *irritáre*'s cognate (settled *provocar* for that verb, D27), so it would blur two Latin verbs. **v2:** the stylist and the ambiguity reader both heard *irem-se* first as *ir-se* ('let the peoples go away'), and the ambiguity reader listed it as unknown — a wrong first hearing, which D2 counts a fault. *Enfureçam-se* taken: it is anger, as *irásci* is, and the verb *enfurecer* renders no other Latin verb in the psalter (the noun *furor* is the ira / furor row, a different word class). *Irritem-se* (MS1932) is weaker in Brazil ('be annoyed'). *Irem-se* stays an option.",
+      "options": [
+        {
+          "label": "enfureçam-se",
+          "forms": {
+            "irascantur": "enfureçam-se"
+          },
+          "note": "plainer to some ears; *furor* is a separate Latin word (the ira / furor row), so it is avoided — v2: taken from the stylist; the ambiguity reader heard *irem-se* as \"go away\" too",
+          "from": "stylist"
+        },
+        {
+          "label": "irem-se",
+          "forms": {
+            "irascantur": "irem-se"
+          },
+          "note": "draft — the psalter's verb for *irásci* (4:5, 2:12)",
+          "from": "draft"
+        },
+        {
+          "label": "irritem-se",
+          "forms": {
+            "irascantur": "irritem-se"
+          },
+          "note": "MS1932; the cognate of *irritáre*, another Latin verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sedet",
+      "refs": [
+        "98:1"
+      ],
+      "latin": "qui sedet super Chérubim",
+      "kind": "grammar",
+      "why": "The relative hangs on *Dóminus* of the first colon, with no verb of its own in the main clause; the Latin then turns to a new jussive, *moveátur terra*. 79:2b has the same words said to God, *Vós que estais sentado sobre os querubins*, so the third person copies its verb (rule 6). *O que* keeps the Latin's bare relative; *aquele que* would be clearer that a person is meant but is two syllables longer in an already long colon (+3 after elision). MS1932 supplies a verb, *reina o que está sentado*, which the Latin does not have. **v2:** the stylist heard *o que* first as 'that which', and the ambiguity reader could not hear how the relative joins the verse. *Aquele que* names a person; *se senta* (the stylist's *se assenta*, in its current form) is two syllables shorter than *está sentado*, which pays for *aquele*. The departure from 79:2b's *estais sentado* is accepted: that verse is the second person, not identical Latin.",
+      "options": [
+        {
+          "label": "aquele que se senta",
+          "forms": {
+            "sedet": "aquele que se senta"
+          },
+          "note": "v2 — the stylist's *aquele que*, with the plain *se senta* for his *se assenta*",
+          "from": "stylist"
+        },
+        {
+          "label": "o que está sentado",
+          "forms": {
+            "sedet": "o que está sentado"
+          },
+          "note": "draft — 79:2b's verb in the third person",
+          "from": "draft"
+        },
+        {
+          "label": "aquele que está sentado",
+          "forms": {
+            "sedet": "aquele que está sentado"
+          },
+          "note": "clearer that it names the Lord; longer"
+        },
+        {
+          "label": "o que se senta",
+          "forms": {
+            "sedet": "o que se senta"
+          },
+          "note": "the act rather than the state; shorter; departs from 79:2b"
+        }
+      ]
+    },
+    {
+      "id": "confiteantur",
+      "refs": [
+        "98:3"
+      ],
+      "latin": "Confiteántur nómini tuo magno",
+      "kind": "glossary",
+      "why": "*Confitéri* to God → *dar graças a* (D5). The jussive has no subject named; the peoples of 98:1–2 are meant. 66:4 builds the jussive with *Que … deem graças*, but it has a subject (*os povos*) to hold the *que*; here *Que deem graças* would dangle, so the bare subjunctive stands at the head, as the Latin's verb does. *Deem* is the post-1990 spelling. **v2:** the ambiguity reader heard bare *Deem* as a plural imperative ('you all') and then *vosso* as the addressees' own name. Naming the subject the verb ending hides (D2) closes the misreading and gives 66:4's own build, *Que os povos vos deem graças*. The Latinist (minor) asked *Louvem* for *confitéri*: refused under D5 (settled), which keeps *louvar* for *laudáre*.",
+      "options": [
+        {
+          "label": "Que os povos deem graças",
+          "forms": {
+            "confiteantur": "Que os povos deem graças"
+          },
+          "note": "names the subject the verb ending hides (D2 allows it); +3 syllables in a long colon — v2: taken — names the subject, so *vosso* can only be God's",
+          "from": "ambiguity"
+        },
+        {
+          "label": "Deem graças",
+          "forms": {
+            "confiteantur": "Deem graças"
+          },
+          "note": "draft — D5, bare jussive",
+          "from": "draft"
+        },
+        {
+          "label": "Que deem graças",
+          "forms": {
+            "confiteantur": "Que deem graças"
+          },
+          "note": "66:4's build, without its subject"
+        }
+      ]
+    },
+    {
+      "id": "directiones",
+      "refs": [
+        "98:4"
+      ],
+      "latin": "Tu parásti directiónes",
+      "kind": "word",
+      "why": "*Diréctio* is 'uprightness' (L&S cites Ps 44:6 and 118:7, both *retidão* in this psalter); here it is plural (εὐθύτητας). The plural of the abstract is kept, as 16:2 *as equidades* and 10:8 *as justiças* keep theirs. *Paráre → preparar* (the glossary's working row) — the Hebrew *kônantā* 'established' is behind MS1932's *estabeleceste leis rectíssimas*, which also supplies 'laws' the Latin does not name. DRB: 'Thou hast prepared directions'. **v2:** the plural *retidões* was listed unknown by the ambiguity reader and heard as a coined word by the stylist, at the mediant. Number is grammar (D2); the singular *a retidão* is the psalter's word for *diréctio* (44:7, 118:7) and every reader knows it. The stylist's *as vias retas* is refused: it adds *vias* (an image of roads) the Latin does not name; kept as an option.",
+      "options": [
+        {
+          "label": "a retidão",
+          "forms": {
+            "directiones": "a retidão"
+          },
+          "note": "the singular; plainer, loses the Latin's number — v2: taken — the plural was unknown to the ambiguity reader and refused by the stylist"
+        },
+        {
+          "label": "as retidões",
+          "forms": {
+            "directiones": "as retidões"
+          },
+          "note": "draft — the Latin's plural, the psalter's word for *diréctio*",
+          "from": "draft"
+        },
+        {
+          "label": "o que é reto",
+          "forms": {
+            "directiones": "o que é reto"
+          },
+          "note": "a clause; interprets the plural as 'right things'"
+        },
+        {
+          "label": "as vias retas",
+          "forms": {
+            "directiones": "as vias retas"
+          },
+          "note": "the stylist's; supplies *vias*, a noun the Latin does not have",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "fecisti",
+      "refs": [
+        "98:4"
+      ],
+      "latin": "judícium et justítiam in Jacob tu fecísti",
+      "kind": "glossary",
+      "why": "The object pair is 118:121's *Feci judícium et justítiam*, which reads *Pratiquei o juízo e a justiça* (the stylist heard *Fiz juízo* as forming an opinion). Copied for the identical Latin (rule 6), though the *fácere judícium* row is open with four builds. *Praticar* said of God is slightly odd — it is the verb of a man's conduct — which is why *fizestes* and MS1932's *exercestes* are kept as options. The Latin's word order (object first, *tu fecísti* last) yields to Portuguese order; both *tu* are kept as *vós*. **v2:** the Latinist (minor) found *praticastes* adds habitual exercise and asked the plain *fizestes*. Taken: 118:121's reason for *praticar* (*Fiz juízo* heard as 'formed an opinion') does not arise when the object is *o juízo e a justiça em Jacó* after *vós*; and the *fácere judícium* row is open with four builds, so this is a fifth piece of evidence, not a departure from a ruling. Cost: the identical object pair reads *Pratiquei* in 118:121 — flagged in the row.",
+      "options": [
+        {
+          "label": "fizestes",
+          "forms": {
+            "fecisti": "fizestes"
+          },
+          "note": "the Latin's plain verb; DRB 'hast done' — v2: taken from the Latinist",
+          "from": "latinist"
+        },
+        {
+          "label": "praticastes",
+          "forms": {
+            "fecisti": "praticastes"
+          },
+          "note": "draft — 118:121's verb for the same object pair",
+          "from": "glossary"
+        },
+        {
+          "label": "exercestes",
+          "forms": {
+            "fecisti": "exercestes"
+          },
+          "note": "MS1932 'exerceste o julgamento e a justiça'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adorate",
+      "refs": [
+        "98:5"
+      ],
+      "latin": "adoráte scabéllum pedum ejus",
+      "kind": "word",
+      "why": "The Latin has *adoráre* with a direct object — the footstool itself is adored — where the Greek has a dative (προσκυνεῖτε τῷ ὑποποδίῳ, 'bow down to/before') and the Hebrew 'at'. The Latin is followed (rule 1): it is the reading Augustine famously comments on (not verified here). *Scabéllum* → *escabelo*, the cognate and MS1932's word, a concrete thing (rule 5); *estrado* is plainer but is a platform more than a footstool. Ps 109:1 *scabéllum pedum tuórum* should copy whichever word is ruled.",
+      "options": [
+        {
+          "label": "adorai o escabelo dos seus pés",
+          "forms": {
+            "adorate": "adorai o escabelo dos seus pés"
+          },
+          "note": "draft — the Latin's direct object; MS1932 (without his gloss 'a arca que é')",
+          "from": "draft"
+        },
+        {
+          "label": "adorai o estrado dos seus pés",
+          "forms": {
+            "adorate": "adorai o estrado dos seus pés"
+          },
+          "note": "plainer noun"
+        },
+        {
+          "label": "adorai diante do escabelo dos seus pés",
+          "forms": {
+            "adorate": "adorai diante do escabelo dos seus pés"
+          },
+          "note": "the Greek and Hebrew construction; not the Latin's"
+        }
+      ]
+    },
+    {
+      "id": "sanctumest",
+      "refs": [
+        "98:5"
+      ],
+      "latin": "quóniam sanctum est",
+      "kind": "ambiguity",
+      "why": "The Latin neuter *sanctum* agrees with *scabéllum*: 'for it is holy' (DRB). The Greek has the masculine ἅγιός ('he is holy'), and MS1932 follows that sense with *porque ele é santo*. Portuguese *santo* is masculine for both *escabelo* and *o Senhor*, so the bare *é santo* keeps the Latin's reading available without excluding the other — and keeps the psalm's threefold *santo* (98:3, 5, 9) as a refrain: *porque é terrível e santo … porque é santo … porque santo é o Senhor*.",
+      "options": [
+        {
+          "label": "é santo",
+          "forms": {
+            "sanctumest": "é santo"
+          },
+          "note": "draft — no subject named; the footstool (Latin) or the Lord",
+          "from": "draft"
+        },
+        {
+          "label": "ele é santo",
+          "forms": {
+            "sanctumest": "ele é santo"
+          },
+          "note": "MS1932; the Greek's masculine; closes what the Latin reads otherwise",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "columna",
+      "refs": [
+        "98:6b"
+      ],
+      "latin": "in colúmna nubis loquebátur ad eos",
+      "kind": "order",
+      "why": "The Latin puts the pillar first. Kept, with the pronoun before the verb, so the colon ends on *falava*, which echoes *escutava* at the mediant. The Latin has the same echo — both colons end in an imperfect with *eos* (*exaudiébat eos … loquebátur ad eos*) — so the rhyme is the Latin's, not a sought one (rule 5). MS1932's order *falava-lhes na coluna de nuvem* avoids it and ends on *nuvem*.",
+      "options": [
+        {
+          "label": "na coluna de nuvem lhes falava",
+          "forms": {
+            "columna": "na coluna de nuvem lhes falava"
+          },
+          "note": "draft — the Latin's order",
+          "from": "draft"
+        },
+        {
+          "label": "falava-lhes na coluna de nuvem",
+          "forms": {
+            "columna": "falava-lhes na coluna de nuvem"
+          },
+          "note": "MS1932's order; no echo",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "propitius",
+      "refs": [
+        "98:8"
+      ],
+      "latin": "Deus, tu propítius fuísti eis",
+      "kind": "glossary",
+      "why": "The *propitiári* row keeps *propício* where the object is a person, and names this verse (*propitius fuísti eis*); *clemente com* is ruled only where the object is a sin (78:9, 77:38). Two blind readers have listed *propício* as unknown (24:11, 64:4); here the object is people, so the 'favouring sin' misreading cannot arise.",
+      "options": [
+        {
+          "label": "propício",
+          "forms": {
+            "propitius": "propício"
+          },
+          "note": "draft — the row; DRB 'a merciful God to them', MS1932 'tu lhes foste propício'",
+          "from": "glossary"
+        },
+        {
+          "label": "clemente",
+          "forms": {
+            "propitius": "clemente"
+          },
+          "note": "the family's word where the object is a sin (78:9); plainer"
+        }
+      ]
+    },
+    {
+      "id": "ulciscens",
+      "refs": [
+        "98:8"
+      ],
+      "latin": "et ulcíscens in omnes adinventiónes eórum",
+      "kind": "word",
+      "why": "A participle coordinated with *propítius*: God was propitious to them *and* taking vengeance on all their devisings (ἐκδικῶν ἐπὶ πάντα τὰ ἐπιτηδεύματα αὐτῶν). *Ulcísci* with a non-personal object is 'to take vengeance for, punish' (L&S); *vingar-se de* carries both, and keeps the root the psalter uses for *últio* (*o Deus das vinganças*, 93:1). The gerund keeps the participle. MS1932's *até em punir todas as suas faltas* interprets (*faltas* for *adinventiónes*, and 'even in'). **v2:** the stylist named 98:8 the worst line — the gerund *vingando-vos* has no finite verb to hang on and the colon trails — and the ambiguity reader found the *e* + gerund link loose. The participle becomes a finite verb coordinated with *fostes* (*vós lhes fostes propício, e vos vingastes de …*): grammar, as D2 allows, with the verb and its object unchanged. The stylist's noun *vingador de* is refused because *vingador de alguém/algo* is heard as 'avenger on behalf of' — the opposite sense; kept as an option.",
+      "options": [
+        {
+          "label": "vos vingastes de",
+          "forms": {
+            "ulciscens": "vos vingastes de"
+          },
+          "note": "v2 — the participle as a finite verb, coordinated with *fostes*",
+          "from": "draft"
+        },
+        {
+          "label": "vingando-vos de",
+          "forms": {
+            "ulciscens": "vingando-vos de"
+          },
+          "note": "draft — the participle as gerund; vengeance kept",
+          "from": "draft"
+        },
+        {
+          "label": "castigando",
+          "forms": {
+            "ulciscens": "castigando"
+          },
+          "note": "'punishing' — softer, loses the vengeance root"
+        },
+        {
+          "label": "vingador de",
+          "forms": {
+            "ulciscens": "vingador de"
+          },
+          "note": "a noun parallel to *propício*; but *vingador de* is heard as 'avenger on behalf of'"
+        }
+      ]
+    },
+    {
+      "id": "adinventiones",
+      "refs": [
+        "98:8"
+      ],
+      "latin": "adinventiónes eórum",
+      "kind": "glossary",
+      "why": "The *adinvéntio* row (open) is *invenções*, applied at 27:4, 76:13 (God's), 80:13, and names this verse. *Deles* rather than *suas*: in a sentence addressed to God, *as suas invenções* is clear enough, but *deles* ties the devisings to *eis* / *eos* of the same verse — Moses, Aaron and Samuel, whose faults (Meribah) the psalm remembers — as the Latin's *eórum* does.",
+      "options": [
+        {
+          "label": "invenções deles",
+          "forms": {
+            "adinventiones": "invenções deles"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "suas invenções",
+          "forms": {
+            "adinventiones": "suas invenções"
+          },
+          "note": "27:4's possessive"
+        },
+        {
+          "label": "obras deles",
+          "forms": {
+            "adinventiones": "obras deles"
+          },
+          "note": "plainer; *opera* is another Latin word"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "98:2": "*excélsus → excelso* (D43). *Super omnes pópulos → sobre todos os povos*: the *super* (place) row. The copula is supplied once, in the first colon, and understood in the second, as the Latin.",
+    "98:3": "The Latin has a colon inside the first half, with no pointing mark; the Portuguese keeps it. *Quóniam terríbile, et sanctum est*: the neuters agree with *nómini* — the name is terrible and holy; *terríbilis → terrível* (D43). *Honor regis judícium díligit* is kept word for word, subject then verb then object, so that it cannot be heard the other way round; MS1932's *a honra do rei está em amar a justiça* interprets; the Hebrew 'the strength of the king' is not the Latin. *Dilígere → amar* as 32:5 *Ele ama a misericórdia e o juízo*. v2: the first colon is +2 after naming *os povos* (decision confiteantur).",
+    "98:4": "The Latin says *tu* twice, at the head of the verse and at its end; both are kept as *vós*, at the head of each colon.",
+    "98:6": "No verb, as the Latin (MS1932 supplies *estavam*). *In sacerdótibus … inter eos* both *entre*: *in* with a plural of persons is 'among'. *Invocáre → invocar*; *ínvocant* present, kept. Names: *Moisés, Aarão* (glossary), *Samuel*.",
+    "98:6b": "*Exaudíre → escutar* (D3), imperfect *escutava*, and again in 98:8 *escutáveis* — the Latin's repetition across the two verses. *Ipse* is plain 'he' here (αὐτός); *ele mesmo* would stress what the Latin does not.",
+    "98:7": "*Testimónia → testemunhos* (D15); *præcéptum → decreto* (D19, which lists this verse). *Dedit* perfect → *deu*.",
+    "98:8": "*Dómine, Deus noster* → *Senhor, nosso Deus*; the bare vocative *Deus* in the second colon, as the psalter keeps it.",
+    "98:9": "*Mons sanctus → monte santo* (the row). *Adoráte in monte* → *adorai no seu monte santo* (the Latin's ablative, not the Greek's εἰς). 98:5 and 98:9 open with the same words, as the Latin; *santo é o Senhor* puts the adjective first as *sanctus Dóminus*.",
+    "98:1": "Second colon flagged +6 by the counter, which does not elide; with *aquele‿que*, *sobre‿os*, *abale-se‿a* it is about +3. Accepted: the relative clause and the jussive are both needed, and *aquele* was asked for by the stylist and the ambiguity reader. *Moveátur → abale-se*: the movéri row and 95:9's jussive *Abale-se*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (Latin, LXX, Hebrew, DRB, MS1932; no DM1962 for this psalm). Hard readings: 98:1 *qui sedet* hanging on *Dóminus* (79:2b's verb copied); 98:4 *directiónes* plural (*as retidões*, as 16:2 *as equidades*); 98:5 *adoráte scabéllum* with a direct object and the neuter *sanctum est* (the footstool; the Greek says 'he'); 98:8 *ulcíscens in … adinventiónes* (gerund of *vingar-se de*, the open *invenções* row)."
+    },
+    {
+      "step": "checks",
+      "note": "hard pass. Soft flags: 98:1b +6 (≈+3 with elision, accepted — see choices); 98:8 −4 / −6 and 98:9a −4 (the Portuguese is more compact than the Latin's long words; no word omitted); 98:6b rhyme *escutava / falava* at mediant and final — accepted because the Latin has the same echo (*exaudiébat eos … loquebátur ad eos*); decision `columna` holds MS1932's order as the fix."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "3 minors, no major. One taken (98:4 *fizestes*), two refused under settled rulings (D5, D19). Overall: 'a faithful, close rendering'.",
+      "outcomes": [
+        {
+          "verse": "98:3",
+          "remark": "confitéri → louvem / confessem, not deem graças",
+          "outcome": "refused",
+          "decision": "confiteantur",
+          "reason": "D5 (settled): *dar graças a* for *confitéri* to God; *louvar* is kept for *laudáre*."
+        },
+        {
+          "verse": "98:4",
+          "remark": "praticastes adds habitual nuance; fizestes",
+          "outcome": "taken",
+          "decision": "fecisti"
+        },
+        {
+          "verse": "98:7",
+          "remark": "præcéptum → preceito, not decreto",
+          "outcome": "refused",
+          "reason": "D19 (settled) lists this verse: *preceitos* is *justificatiónes*' word in Ps 118, *decreto* is *præcéptum*'s across all eight places."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "4 remarks on 3 verses; best line 98:9, worst 98:8. Three taken (one in modified form), one refused and kept as an option.",
+      "outcomes": [
+        {
+          "verse": "98:1",
+          "remark": "irem-se heard as ir-se; enfureçam-se",
+          "outcome": "taken",
+          "decision": "irascantur"
+        },
+        {
+          "verse": "98:1",
+          "remark": "o que read as 'that which'; aquele que se assenta",
+          "outcome": "taken",
+          "decision": "sedet",
+          "reason": "taken as *aquele que se senta* (the current form of the verb)"
+        },
+        {
+          "verse": "98:4",
+          "remark": "retidões not current; as vias retas",
+          "outcome": "option",
+          "decision": "directiones",
+          "reason": "the fault taken (singular *a retidão*); his wording refused because it adds *vias*"
+        },
+        {
+          "verse": "98:8",
+          "remark": "hanging gerund; vingador de",
+          "outcome": "option",
+          "decision": "ulciscens",
+          "reason": "the fault taken (finite verb *vos vingastes de*); *vingador de* refused — heard as 'avenger on behalf of'"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "20 readings, 5 unknown words (irem-se, excelso, retidões, escabelo, propício). Changed: 98:1 twice, 98:3, 98:4, 98:8. Held: the Latin's own openness in 98:3 (*a honra do rei ama o juízo*), 98:5 (the footstool adored; *é santo*), 98:7 subject of *deu*.",
+      "outcomes": [
+        {
+          "verse": "98:1",
+          "remark": "irem-se heard as 'go away'; unknown",
+          "outcome": "taken",
+          "decision": "irascantur"
+        },
+        {
+          "verse": "98:1",
+          "remark": "link between the relative and the verse not audible",
+          "outcome": "taken",
+          "decision": "sedet"
+        },
+        {
+          "verse": "98:3",
+          "remark": "Deem … vosso heard as 'you all … your own name'",
+          "outcome": "taken",
+          "decision": "confiteantur"
+        },
+        {
+          "verse": "98:3",
+          "remark": "a honra do rei ama o juízo obscure",
+          "outcome": "refused",
+          "reason": "the Latin's own sentence, kept word for word (the Septuagintal reading); MS1932's *está em amar* interprets"
+        },
+        {
+          "verse": "98:3",
+          "remark": "porque é terrível e santo: the name or God",
+          "outcome": "refused",
+          "reason": "the Latin's neuters point to the name; the Portuguese keeps both hearings open, as the Latin reader also hears God behind his name"
+        },
+        {
+          "verse": "98:4",
+          "remark": "retidões unknown / unclear",
+          "outcome": "taken",
+          "decision": "directiones"
+        },
+        {
+          "verse": "98:5",
+          "remark": "adorai o escabelo: the footstool itself; escabelo unknown",
+          "outcome": "refused",
+          "decision": "adorate",
+          "reason": "the Latin's direct object is kept (rule 1); *escabelo* is the concrete noun (rule 5), *estrado* stays the option"
+        },
+        {
+          "verse": "98:5",
+          "remark": "é santo: footstool or God",
+          "outcome": "refused",
+          "decision": "sanctumest",
+          "reason": "the ambiguity is the one the decision keeps on purpose"
+        },
+        {
+          "verse": "98:2",
+          "remark": "excelso unknown",
+          "outcome": "refused",
+          "reason": "D43 settled *excélsus → excelso*"
+        },
+        {
+          "verse": "98:8",
+          "remark": "propício unknown",
+          "outcome": "refused",
+          "decision": "propitius",
+          "reason": "the propitiári row keeps *propício* where the object is a person and names this verse"
+        },
+        {
+          "verse": "98:8",
+          "remark": "e + gerund link loose; deles unclear",
+          "outcome": "taken",
+          "decision": "ulciscens",
+          "reason": "the gerund made finite; *deles* kept — it points to the same people, as the Latin's *eórum* does"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 98:1 *enfureçam-se* (stylist + ambiguity), *aquele que se senta* (stylist); 98:3 *Que os povos deem graças* (ambiguity); 98:4 *a retidão* (stylist + ambiguity), *fizestes* (Latinist); 98:8 *e vos vingastes de* (stylist + ambiguity). Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass. Soft flags as v1 (98:1b +6 ≈ +3 with elision; 98:8 and 98:9a short; 98:6b echo *escutava / falava*, the Latin's own). 98:3a now +2."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "Gate: 3 minors, no major. All three held, each with its alternative kept as an option.",
+      "outcomes": [
+        {
+          "verse": "98:4",
+          "remark": "directiones plural; as retidões",
+          "outcome": "refused",
+          "decision": "directiones",
+          "reason": "the plural was unknown to the ambiguity reader and heard as coined by the stylist, at the mediant; number is grammar (D2), and *a retidão* is the psalter's word for *diréctio* (44:7, 118:7). *as retidões* stays option 2."
+        },
+        {
+          "verse": "98:7",
+          "remark": "præcéptum → preceito",
+          "outcome": "refused",
+          "reason": "D19 (settled) lists 98:7 by name; *preceitos* is kept for *justificatiónes*. He raised it on v1 too."
+        },
+        {
+          "verse": "98:8",
+          "remark": "participle made finite; back to vingando-vos",
+          "outcome": "refused",
+          "decision": "ulciscens",
+          "reason": "the gerund was the stylist's worst line and the ambiguity reader heard its link as loose; Portuguese has no participle to coordinate with *fostes propício*, and the finite verb keeps the verb, the object and the coordination with *fostes* (same time frame); the gerund is option 2 (draft 1)."
+        }
+      ]
+    }
+  ]
+}

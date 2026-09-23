@@ -1,0 +1,18 @@
+{
+  "append": [
+    {"row": "| irásci |", "text": "**Ps 98:1 *irascántur pópuli* → *enfureçam-se os povos*** (v2): the jussive *irem-se* was heard as *ir-se* ('go away') by the stylist and the ambiguity reader, and listed unknown — so the third-person jussive takes *enfurecer-se* (no other Latin verb uses it; *furor* is a noun row). *irem-se*, *irritem-se* (MS1932) options. Wants a look wherever *irásci* is a 3rd-person subjunctive."},
+    {"row": "| diréctio (cordis) |", "text": "**Ps 98:4 *Tu parásti directiónes* → *Vós preparastes a retidão*** (v2): the plural *retidões* was unknown to the ambiguity reader and 'invented' to the stylist; the singular held against a Latinist minor (number, D2). *as retidões*, *as vias retas* (stylist) options. 44:7 *virga directiónis* is *retidão* too."},
+    {"row": "| paráre |", "text": "Ps 98:4 *parásti directiónes* → *preparastes* (MS1932 *estabeleceste*, the Hebrew's sense, not taken); no reader remarked."},
+    {"row": "| fácere judícium |", "text": "**Ps 98:4 *judícium et justítiam in Jacob tu fecísti* → *vós fizestes o juízo e a justiça em Jacó*** — a fifth build, and the same object pair as 118:121 *Pratiquei*: the Latinist (minor) asked the plain verb; with God as subject and *em Jacó* no reader heard 'form an opinion'. The row still wants one ruling; *praticastes* is the option."},
+    {"row": "| ulcísci in |", "text": "**Ps 98:8 *et ulcíscens in omnes adinventiónes eórum* → *e vos vingastes de todas as invenções deles*** (v2): the participle made finite after the stylist's worst line (gerund *vingando-vos* hanging); held against a Latinist minor at the gate. *vingador de* refused (heard 'avenger on behalf of')."},
+    {"row": "| propitiári (+ dative) |", "text": "**Ps 98:8 *propítius fuísti eis* → *vós lhes fostes propício*** — the row's person-object case, as named; the ambiguity reader listed *propício* unknown (the third reader to do so); no misreading of favouring arose. *clemente* option."},
+    {"row": "| adinvéntio |", "text": "Ps 98:8 *adinventiónes eórum* → *as invenções deles* (*deles* ties them to *eis*, Moses, Aaron, Samuel); the ambiguity reader heard 'inventions', then 'lies'. Held."},
+    {"row": "| movéri (*motus fúero*, *movébor*) |", "text": "Ps 98:1 *moveátur terra* → *abale-se a terra* (95:9's jussive); no reader remarked."},
+    {"row": "| præcéptum |", "text": "Ps 98:7 *præcéptum quod dedit illis* → *o decreto que lhes deu*: the Latinist asked *preceito* on v1 and at the v2 gate (minor); held under D19."},
+    {"row": "| *Dóminus regnávit, decórem", "text": "**Ps 98:1 opens *O Senhor reinou* — the formula copied.** No reader remarked on the tense here."}
+  ],
+  "terms": [
+    "| scabéllum pedum | escabelo dos … pés (*adorai o escabelo dos seus pés*) | open | Ps 98:5, with the Latin's direct object (the Greek and Hebrew have 'at / before'); the ambiguity reader listed *escabelo* unknown and heard 'adore the footstool itself' — the Latin's reading, kept. *estrado* the option. **109:1 *scabéllum pedum tuórum* should copy it** (and 131:7's *ubi stetérunt pedes*). |",
+    "| qui sedet super Chérubim | aquele que se senta sobre os querubins | open | Ps 98:1 (v2: *o que está sentado* was heard as 'that which' by the stylist; *aquele que* taken). 79:2b's second person *Vós que estais sentado sobre os querubins* is not identical Latin and stays; whoever rules may want the two verbs aligned. |"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "9b7c7be967af3c7315ddbec20b5ab064e79a0eef6107cf551ddfcd393b20b3ec",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:58:23+00:00",
+  "reply": "{\"verses\": [{\"id\": \"98:4\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Tu parásti directiónes\", \"portuguese\": \"Vós preparastes a retidão\", \"problem\": \"directiones is plural (LXX euthutētas, concrete 'right ways/directions'); the singular abstract 'a retidão' changes number and slightly abstracts the image.\", \"fix\": \"Vós preparastes as retidões\"}]}, {\"id\": \"98:7\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"et præcéptum quod dedit illis\", \"portuguese\": \"e o decreto que lhes deu\", \"problem\": \"praeceptum is a command/precept; 'decreto' is defensible but shifts toward a legal-edict nuance. 'preceito' is the direct equivalent.\", \"fix\": \"e o preceito que lhes deu\"}]}, {\"id\": \"98:8\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"et ulcíscens in omnes adinventiónes eórum\", \"portuguese\": \"e vos vingastes de todas as invenções deles\", \"problem\": \"The Latin has a present participle coordinated with propitius fuisti (you were propitious and avenging), not a second finite past verb; the finite perfect narrows it to a single past act.\", \"fix\": \"e vingando-vos de todas as invenções deles\"}]}], \"overall\": \"A faithful rendering that keeps the Latin's hard readings (the 'honor regis judicium diligit' clause, neuter 'sanctum est' ambiguity at v.5, 'adinventiones') without smoothing them toward the Hebrew. Pointing marks match the Latin in every verse. Only small closeness issues: the plural of directiones, praeceptum as 'decreto', and the participle ulciscens made finite.\"}\n"
+}

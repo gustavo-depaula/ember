@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "ee7a51bd9d1453af0c51c8fc20689989eac5e6e728cf8c6cf2eb01a5ef0afaf7",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:55:20+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"98:3\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Confiteántur nómini tuo magno\", \"portuguese\": \"Deem graças ao vosso grande nome\", \"problem\": \"confiteor + dative of the name is praise/acknowledgment of the name rather than thanksgiving specifically; 'deem graças' narrows the verb. Defensible, but 'louvem' or 'confessem' is closer.\", \"fix\": \"Louvem o vosso grande nome: porque é terrível e santo: * e a honra do rei ama o juízo.\"}]},\n{\"id\": \"98:4\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"judícium et justítiam in Jacob tu fecísti\", \"portuguese\": \"vós praticastes o juízo e a justiça em Jacó\", \"problem\": \"fecisti is plain 'made/did'; 'praticastes' adds a nuance of habitual exercise. 'fizestes' is closer.\", \"fix\": \"vós fizestes o juízo e a justiça em Jacó.\"}]},\n{\"id\": \"98:7\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"præcéptum\", \"portuguese\": \"decreto\", \"problem\": \"praeceptum is 'precept/command'; 'decreto' shifts toward a legal ordinance. 'preceito' is the direct equivalent.\", \"fix\": \"e o preceito que lhes deu.\"}]}\n], \"overall\": \"A faithful, close rendering: the Septuagintal readings (honor regis iudicium diligit, directiones, the neuter sanctum est, ulciscens in adinventiones) are all kept without smoothing, and tenses and persons follow the Latin. Only three small lexical tightenings are suggested; pointing marks match the Latin in every verse.\"}\n"
+}
