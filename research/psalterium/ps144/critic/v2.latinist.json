@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "9199b86c0405397272a22f352260747bfe71315e1e51841cc04f01f28cdac03d",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T09:28:51+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"144:2\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Per síngulos dies\", \"portuguese\": \"Todos os dias\", \"problem\": \"'Per singulos dies' is distributive, 'day by day / each single day'; 'todos os dias' is close but flattens the distributive singulos.\", \"fix\": \"Cada dia vos bendirei\"}]},\n{\"id\": \"144:13a\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in omni generatióne et generatiónem\", \"portuguese\": \"de geração em geração\", \"problem\": \"The idiom drops 'omni' (every generation); the Latin's odd ablative/accusative pairing is smoothed into a stock phrase.\", \"fix\": \"e o vosso domínio, em toda geração e geração\"}]}\n],\n\"overall\": \"A faithful and close rendering throughout: tenses, moods (confiteantur/benedicant/benedicat as jussives), persons and numbers are kept, and the Septuagintal features (eructabunt, the added 13b verse, suavis) are preserved. Only two minor points of closeness (per singulos dies, omni generatione); pointing marks match the Latin in every verse, including the ‡ in 144:19.\"}\n"
+}

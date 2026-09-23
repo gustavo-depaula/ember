@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "38e223524f14c51bda3f1acfd2ac2146ba253919cdc5180235e8f10270c12625",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T09:32:17+00:00",
+  "reply": "{\"verses\": [{\"id\": \"146:2\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"dispersiónes Israélis\", \"portuguese\": \"os dispersos de Israel\", \"problem\": \"The Latin has an abstract noun, 'the dispersions (scatterings) of Israel', a Septuagintal turn (diasporas). The translation replaces it with the concrete persons, which smooths the Latin toward the Hebrew sense.\", \"fix\": \"congregará as dispersões de Israel.\"}]}, {\"id\": \"146:7\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in confessióne\", \"portuguese\": \"ação de graças\", \"problem\": \"'in confessione' is adverbial ('with praise/acknowledgement'), not the object of the verb; the translation makes it the object of 'entoai' and narrows confessio to thanksgiving.\", \"fix\": \"Entoai ao Senhor com louvor: *\"}]}, {\"id\": \"146:9\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"juméntis\", \"portuguese\": \"aos animais\", \"problem\": \"jumenta are beasts of burden or cattle, not animals in general; 'animais' widens the word.\", \"fix\": \"Que dá ao gado o seu alimento, *\"}]}], \"overall\": \"A faithful, close rendering: tenses (including the futures in 146:2 and 146:10), persons and images are kept, and every verse has the same single mediant as the Latin. The only points are minor: an abstract Septuagintal noun made concrete in 146:2, 'in confessione' made into an object and narrowed in 146:7, and 'jumenta' widened in 146:9.\"}\n"
+}

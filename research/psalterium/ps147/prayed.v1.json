@@ -1,0 +1,506 @@
+{
+  "psalm": 147,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "147:1": "{v1open}, o Senhor: * louva o teu Deus, Sião.",
+    "147:2": "Porque fortaleceu {seras} das tuas portas: * {benedixit} os teus filhos {inte}.",
+    "147:3": "{q3} {fines}: * e {adipe} te sacia.",
+    "147:4": "{q4} envia à terra {eloquium}: * depressa corre a sua palavra.",
+    "147:5": "{q5} dá a neve como lã: * espalha a névoa como cinza.",
+    "147:6": "Lança o seu {crystallum} {buccellas}: * {faciem} do seu frio, quem subsistirá?",
+    "147:7": "Enviará a sua palavra, e os derreterá: * soprará o seu {spiritus}, e {fluent} as águas.",
+    "147:8": "{q8} anuncia a sua palavra a Jacó: * {justitias} e os seus juízos a Israel.",
+    "147:9": "Não fez assim {omni}: * e não lhes manifestou os seus juízos."
+  },
+  "decisions": [
+    {
+      "id": "v1open",
+      "refs": [
+        "147:1"
+      ],
+      "latin": "Lauda, Jerúsalem, Dóminum",
+      "kind": "grammar",
+      "why": "Jerusalem is a single addressee, not God: tu (rule 3), as the Latin's singular 'Lauda'. The Latin has no 'O'. The build is 112:1's ('Louvai, meninos, o Senhor', no 'ó'), so the same here. Row 'vocative plural of persons' (28:1) supplies 'ó' where a vocative can be heard as the object; here 'o Senhor' follows at once and the comma is sung, so it is left out, keeping the two colons alike as in the Latin. The Brazilian lectionary/LH line is 'Glorifica o Senhor, Jerusalém … celebra teu Deus, ó Sião' (circulation.md): from the Hebrew's verb; the Latin's is laudáre → louvar.",
+      "options": [
+        {
+          "label": "Louva, Jerusalém",
+          "forms": {
+            "v1open": "Louva, Jerusalém"
+          },
+          "note": "draft — as 112:1, no vocative particle, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "Louva, ó Jerusalém",
+          "forms": {
+            "v1open": "Louva, ó Jerusalém"
+          },
+          "note": "MS1932; the 'ó' tells the vocative from the object (row of 28:1)",
+          "from": "MS1932"
+        },
+        {
+          "label": "Glorifica, Jerusalém",
+          "forms": {
+            "v1open": "Glorifica, Jerusalém"
+          },
+          "note": "the Brazilian lectionary's verb (circulation.md). Refused: glorificáre has its own word, and laudáre is louvar in every psalm",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "147:3",
+        "147:4",
+        "147:5",
+        "147:8"
+      ],
+      "latin": "Qui pósuit … Qui emíttit … Qui dat … Qui annúntiat",
+      "kind": "grammar",
+      "why": "Four relative clauses hang from the God of 147:1 with no main verb (147:6–7 then go on with plain verbs, 'Mittit … Emíttet'). A bare 'Que pôs … Que envia … Que dá' at the head of a verse is heard as a question ('Que dá?') or a wish; MS1932 makes each a cleft ('É ele que'). The draft names the subject in a main clause, 'Ele …', four times, as 65:9 ('Ele pôs a minha alma para a vida') and 134:10 ('Ele feriu') did: the Latin's anaphora is kept as a repeated 'Ele', the relative is grammar (D2).",
+      "options": [
+        {
+          "label": "Ele pôs … Ele envia … Ele dá … Ele anuncia",
+          "forms": {
+            "q3": "Ele",
+            "q4": "Ele",
+            "q5": "Ele",
+            "q8": "Ele"
+          },
+          "note": "draft — 65:9, 134:10",
+          "from": "draft"
+        },
+        {
+          "label": "É ele que pôs … É ele que envia …",
+          "forms": {
+            "q3": "É ele que",
+            "q4": "É ele que",
+            "q5": "É ele que",
+            "q8": "É ele que"
+          },
+          "note": "MS1932 ('Foi ele que … É ele que'); two syllables longer in each colon",
+          "from": "MS1932"
+        },
+        {
+          "label": "Que pôs … Que envia …",
+          "forms": {
+            "q3": "Que",
+            "q4": "Que",
+            "q5": "Que",
+            "q8": "Que"
+          },
+          "note": "the Latin's relative; heard as a question at the head of a verse",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "seras",
+      "refs": [
+        "147:2"
+      ],
+      "latin": "seras portárum tuárum",
+      "kind": "word",
+      "why": "Sera is the bar put across a door (L&S). 106:16 'vectes férreos' is 'as trancas de ferro', and the glossary row (vectis) notes that 147:2 is another word. The Greek has μοχλούς in both places, so D15's test would allow one word; but the Latin has two and 'ferrolhos' costs nothing: it is plain, MS1932's, and one blind reader did not know 'trancas' (106:16).",
+      "options": [
+        {
+          "label": "os ferrolhos",
+          "forms": {
+            "seras": "os ferrolhos"
+          },
+          "note": "draft — MS1932 'os ferrolhos'; DRB 'the bolts'",
+          "from": "draft"
+        },
+        {
+          "label": "as trancas",
+          "forms": {
+            "seras": "as trancas"
+          },
+          "note": "= 106:16 vectis (the same Greek μοχλός)",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "benedixit",
+      "refs": [
+        "147:2"
+      ],
+      "latin": "benedíxit fíliis tuis",
+      "kind": "glossary",
+      "why": "The row benedícere (God → man) is open with 'bendizer' used in every psalm so far (5:12b, 28:11, 66, 84:2, 127:5, 131:15, 133:3); the dative made direct, as 28:11 'bendirá o seu povo'. 'abençoou' is every parallel's word (MS1932) and the option, one touch if the row moves.",
+      "options": [
+        {
+          "label": "bendisse",
+          "forms": {
+            "benedixit": "bendisse"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "abençoou",
+          "forms": {
+            "benedixit": "abençoou"
+          },
+          "note": "MS1932; the row's standing option",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inte",
+      "refs": [
+        "147:2"
+      ],
+      "latin": "in te",
+      "kind": "word",
+      "why": "The Latin says only 'in you'. 'em ti' keeps it, and with it the reading 'in you = through you' that the Latin does not exclude. DRB 'within thee' and MS1932 '(que habitam) dentro de ti' make it place.",
+      "options": [
+        {
+          "label": "em ti",
+          "forms": {
+            "inte": "em ti"
+          },
+          "note": "draft — as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "dentro de ti",
+          "forms": {
+            "inte": "dentro de ti"
+          },
+          "note": "DRB 'within thee', MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fines",
+      "refs": [
+        "147:3"
+      ],
+      "latin": "Qui pósuit fines tuos pacem",
+      "kind": "grammar",
+      "why": "A double accusative: 'set your borders (as) peace' (Greek ὁ τιθεὶς τὰ ὅριά σου εἰρήνην, the same build). 43:14 'Posuísti nos oppróbrium' became 'Fizestes de nós uma afronta', but 'fez das tuas fronteiras a paz' is not a sentence anyone says. The draft moves the peace into the object and the borders into a place, as both Vulgate-family versions do (DRB 'hath placed peace in thy borders', MS1932 'estabeleceu a paz nas tuas fronteiras'): words and image kept, grammar changed (D2). This is the line of the Corpus Christi and Marian Vespers; the Brazilian LH/lectionary has 'A paz em teus limites garantiu' (circulation.md, Hebrew-based). 'fines' of a city's territory is 'fronteiras'; the glossary's 'confins' (7:7a, 'fines terræ' → 'os confins da terra') is heard in Brazil as the far ends of the earth, and 'os teus confins' as remote corners.",
+      "options": [
+        {
+          "label": "pôs a paz nas tuas fronteiras",
+          "forms": {
+            "fines": "pôs a paz nas tuas fronteiras"
+          },
+          "note": "draft — DRB, MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "fez das tuas fronteiras a paz",
+          "forms": {
+            "fines": "fez das tuas fronteiras a paz"
+          },
+          "note": "the double accusative kept, as 43:14 'Fizestes de nós uma afronta'; strained",
+          "from": "draft"
+        },
+        {
+          "label": "pôs a paz nos teus confins",
+          "forms": {
+            "fines": "pôs a paz nos teus confins"
+          },
+          "note": "the glossary row fines → confins (7:7a); heard as far corners",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "adipe",
+      "refs": [
+        "147:3"
+      ],
+      "latin": "et ádipe fruménti sátiat te",
+      "kind": "glossary",
+      "why": "The same noun phrase as 80:17 'ex ádipe fruménti' → 'da gordura do trigo', so the same words (rule 6); the adeps row keeps the concrete fat (rule 5), and saturáre/satiáre → saciar. The Brazilian LH and lectionary say 'a flor do trigo' (circulation.md) — the Hebrew idiom's sense 'the finest', and MS1932's 'da flor da farinha'; kept as an option because it is the line Brazilians know from Corpus Christi, but it replaces the Latin's image with its meaning.",
+      "options": [
+        {
+          "label": "da gordura do trigo",
+          "forms": {
+            "adipe": "da gordura do trigo"
+          },
+          "note": "draft — = 80:17; DRB 'the fat of corn'",
+          "from": "glossary"
+        },
+        {
+          "label": "da flor do trigo",
+          "forms": {
+            "adipe": "da flor do trigo"
+          },
+          "note": "the Brazilian LH/lectionary wording (fetched); MS1932 'da flor da farinha'. An interpretation of 'adeps'",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eloquium",
+      "refs": [
+        "147:4"
+      ],
+      "latin": "Qui emíttit elóquium suum terræ: * velóciter currit sermo ejus",
+      "kind": "glossary",
+      "why": "One of the verses D15 and D26 left to decide locally: elóquium (λόγιον) and sermo (λόγος) side by side, and three verses on, verbum (λόγος again) twice → 'palavra'. D15's test keeps apart what the Greek keeps apart: sermo and verbum are one word (palavra), elóquium is another. Outside Ps 118 elóquium has gone to 'palavra' where it stood alone (11:7, 17:31, 104:19, 106:11); here that would give 'a sua palavra … a sua palavra' in one verse where the Latin varies. The draft uses D26's clause in the present, as 103:34 'o que digo': 'Ele envia à terra o que diz' — an object, so no genitive forces a noun. MS1932 'as suas ordens' interprets.",
+      "options": [
+        {
+          "label": "o que diz",
+          "forms": {
+            "eloquium": "o que diz"
+          },
+          "note": "draft — D26's clause, present as 103:34",
+          "from": "glossary"
+        },
+        {
+          "label": "a sua palavra (sermo → a sua fala)",
+          "forms": {
+            "eloquium": "a sua palavra"
+          },
+          "note": "as 11:7, 104:19; then the second colon would want 'fala' (55:11) to keep the Latin's variation — not filled here: this option alone repeats 'palavra' in the verse",
+          "from": "glossary"
+        },
+        {
+          "label": "o seu dito",
+          "forms": {
+            "eloquium": "o seu dito"
+          },
+          "note": "the noun D16 tried; refused by the stylist nine times in Pss 11 and 118",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "crystallum",
+      "refs": [
+        "147:6"
+      ],
+      "latin": "crystállum suam",
+      "kind": "word",
+      "why": "L&S gives 'ice' as the first sense of crystallum, and the Greek κρύσταλλος is ice; the verse is about cold ('frígoris ejus'). 'cristal' in Portuguese is only glass or quartz. DRB keeps 'his crystal'; MS1932 'o seu gelo'.",
+      "options": [
+        {
+          "label": "gelo",
+          "forms": {
+            "crystallum": "gelo"
+          },
+          "note": "draft — L&S sense 1; MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "cristal",
+          "forms": {
+            "crystallum": "cristal"
+          },
+          "note": "DRB 'his crystal'; the Latin's word, heard as glass",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "buccellas",
+      "refs": [
+        "147:6"
+      ],
+      "latin": "sicut buccéllas",
+      "kind": "word",
+      "why": "Buccella is a morsel, a mouthful of bread (L&S; Ruth 2:14); ψωμούς the same. The simile stays a simile (sicut → como) and the morsel stays a morsel: 'como bocados'. MS1932's 'aos pedaços' drops the comparison.",
+      "options": [
+        {
+          "label": "como bocados",
+          "forms": {
+            "buccellas": "como bocados"
+          },
+          "note": "draft — DRB 'like morsels'",
+          "from": "DRB"
+        },
+        {
+          "label": "como migalhas",
+          "forms": {
+            "buccellas": "como migalhas"
+          },
+          "note": "crumbs: smaller than the Latin's morsel",
+          "from": "draft"
+        },
+        {
+          "label": "aos pedaços",
+          "forms": {
+            "buccellas": "aos pedaços"
+          },
+          "note": "MS1932; loses 'sicut'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "faciem",
+      "refs": [
+        "147:6"
+      ],
+      "latin": "ante fáciem frígoris ejus",
+      "kind": "glossary",
+      "why": "The row 'ante fáciem → diante da face de' (open) keeps the Hebraism, as DRB 'before the face of his cold'. The face of the cold is odd in Portuguese as in Latin; it is the Latin's image. MS1932 'ao rigor do seu frio' explains it. The question ends as 129:3's formula 'quis sustinébit?' → 'quem subsistirá?'.",
+      "options": [
+        {
+          "label": "diante da face",
+          "forms": {
+            "faciem": "diante da face"
+          },
+          "note": "draft — the row; DRB",
+          "from": "glossary"
+        },
+        {
+          "label": "ao rigor",
+          "forms": {
+            "faciem": "ao rigor"
+          },
+          "note": "MS1932; the image explained away",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "spiritus",
+      "refs": [
+        "147:7"
+      ],
+      "latin": "flabit spíritus ejus",
+      "kind": "ambiguity",
+      "why": "Spíritus (πνεῦμα) is wind and spirit at once; in the thaw it is the wind first, and DRB and MS1932 both say 'wind'. The row of 102:16 chose 'sopro' to keep both, but here the verb is 'flabit' and 'soprará o seu sopro' makes a figure the Latin does not have (the Greek does: πνεύσει τὸ πνεῦμα). The draft keeps the Latin's word, 'espírito', lower case as D44 (50:13) and 142:10b: the Latin leaves the Spirit audible and 'vento' would close it. The ambiguity reader should say whether the wind is still heard.",
+      "options": [
+        {
+          "label": "espírito",
+          "forms": {
+            "spiritus": "espírito"
+          },
+          "note": "draft — the Latin's word, both senses open",
+          "from": "draft"
+        },
+        {
+          "label": "vento",
+          "forms": {
+            "spiritus": "vento"
+          },
+          "note": "DRB 'his wind', MS1932 'o seu vento'; closes the ambiguity",
+          "from": "MS1932"
+        },
+        {
+          "label": "sopro",
+          "forms": {
+            "spiritus": "sopro"
+          },
+          "note": "the row of 102:16; with 'soprará' it doubles the root",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "fluent",
+      "refs": [
+        "147:7"
+      ],
+      "latin": "et fluent aquæ",
+      "kind": "glossary",
+      "why": "The same words as 77:20 and 104:41 'et fluxérunt aquæ' → 'e correram as águas', so the same verb (rule 6). The row 'decúrrere / flúere → correr / escorrer' (57:8–9) split them only where both stand together; 96:5 has 'escorreram' of wax. Cost: 'correr' also renders 'currit' three verses up (147:4), a merger the Latin does not make.",
+      "options": [
+        {
+          "label": "correrão",
+          "forms": {
+            "fluent": "correrão"
+          },
+          "note": "draft — = 77:20, 104:41",
+          "from": "glossary"
+        },
+        {
+          "label": "escorrerão",
+          "forms": {
+            "fluent": "escorrerão"
+          },
+          "note": "the row's word for flúere (57:9); keeps it apart from currit in 147:4",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "justitias",
+      "refs": [
+        "147:8"
+      ],
+      "latin": "justítias, et judícia sua",
+      "kind": "glossary",
+      "why": "The plural justítiæ row (10:8) is open with 'as justiças'. Here the Greek is δικαιώματα, which elsewhere the Latin renders 'justificatiónes' (→ 'preceitos', D15); but the Latin says justítias and is followed (rule 1). DRB 'his justices', MS1932 'as suas justiças'. 'sua' governs both nouns; Portuguese repeats the possessive.",
+      "options": [
+        {
+          "label": "as suas justiças",
+          "forms": {
+            "justitias": "as suas justiças"
+          },
+          "note": "draft — DRB, MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "os seus preceitos",
+          "forms": {
+            "justitias": "os seus preceitos"
+          },
+          "note": "the Greek's word (δικαιώματα = justificatiónes); refused, not the Latin",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "omni",
+      "refs": [
+        "147:9"
+      ],
+      "latin": "Non fecit táliter omni natióni",
+      "kind": "ambiguity",
+      "why": "'Non … omni' is literally 'not to every nation', a Hebraism for 'to none (other)'. 'Não fez assim a todas as nações' keeps the Latin's form, and the Portuguese says what is meant: this was not done for all, only for Israel. 'a nenhuma outra nação' (DM1962 'a nenhum outro povo', from the Hebrew) resolves it and supplies 'outra'. The plural is grammar: 'a toda nação' is heard as 'to every nation' and blurs.",
+      "options": [
+        {
+          "label": "a todas as nações",
+          "forms": {
+            "omni": "a todas as nações"
+          },
+          "note": "draft — the Latin's form; MS1932 'a todas as outras nações' less 'outras'",
+          "from": "draft"
+        },
+        {
+          "label": "a nenhuma outra nação",
+          "forms": {
+            "omni": "a nenhuma outra nação"
+          },
+          "note": "resolves the idiom and adds 'outra'",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "147:1": "No title: DO's Psalm147.txt begins at 'Lauda, Jerúsalem'; it has no 'Allelúja' line (the LXX has αλληλουια Αγγαιου καὶ Ζαχαριου; MS1932 prints 'Aleluia'). Nothing to translate under D7. 'Sião' as the glossary.",
+    "147:2": "Quóniam → Porque (default). confortáre → fortalecer, the verb of the confortári row. The second colon has no 'and', as the Latin.",
+    "147:3": "saturáre/satiáre → saciar (row). Word order of the second colon kept from the Latin (verb last), as 80:17.",
+    "147:4": "velóciter → depressa (row); the Latin's order kept, adverb first, so the colon ends on 'palavra' (sermo → palavra, D15).",
+    "147:5": "'dá' for 'dat', the Latin's plain verb (MS1932 'faz cair' explains). nébula → névoa (ὁμίχλη, mist; the Hebrew's frost not followed).",
+    "147:6": "Mittit → Lança (βάλλοντος, throwing; as the míttere rows 21:18, 80:15) kept apart from emíttere → enviar (147:4, 147:7; row of 103:10). 'quem subsistirá?' = 129:3.",
+    "147:7": "'Emíttet verbum suum, et liquefáciet ea' is built as 106:20 'Misit verbum suum, et sanávit eos' → 'Enviou a sua palavra, e os curou'; so 'Enviará a sua palavra, e os derreterá'. 'ea' (neuter plural: the snow, mist and ice) → 'os'. liquefácere → derreter (row of 74:4). Soft flag: second colon +4 by the counter, which does not elide; sung, 'seu‿espírito' and 'e‿correrão' close it to about +2. Accepted: nothing can go without losing a word of the Latin.",
+    "147:8": "Jacob → Jacó; judícia → juízos (D15). Soft flag: first colon +4 by the counter; 'Ele‿anuncia‿a sua' elides to about +2. The named subject 'Ele' (decision qui) costs the rest.",
+    "147:9": "manifestáre → manifestar (row of 79:2b). The object moved after the verb (natural order, D2); the Latin puts 'judícia sua' first. Soft flag: second colon -3 (the Latin's long 'manifestávit'); accepted."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "v1 from the parallels (consult/parallels/ps147.md), glossary and concordance (ps147/concord.py). Brazilian circulation fetched (circulation.md): the lectionary/LH say 'Glorifica o Senhor, Jerusalém' and 'a flor do trigo', both Hebrew-based; neither taken. Hard readings: 147:3 the double accusative 'pósuit fines tuos pacem'; 147:4 elóquium beside sermo; 147:7 spíritus (wind/spirit); 147:9 'non … omni'. D7: no title line in DO's Latin, none added. Pss 145–146 are being drafted in parallel; neither folder had a prayed text when this was written."
+    },
+    {
+      "step": "checks",
+      "note": "hard pass (ids and marks). Soft: 147:7b +4, 147:8a +4, 147:9b -3 syllables by the heuristic counter, each accepted in choices; no rhyme or cadence flags."
+    }
+  ]
+}

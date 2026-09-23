@@ -1,0 +1,232 @@
+{
+  "psalm": 143,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "143:1": "Bendito o Senhor, meu Deus, que ensina as minhas mãos para a batalha, * e os meus dedos para a guerra.",
+    "143:2": "A minha misericórdia, e o meu refúgio: * o meu amparo, e o meu {liberator}:",
+    "143:2b": "O meu protetor, e nele esperei: * que sujeita o meu povo sob mim.",
+    "143:3": "Senhor, que é o homem, para que {innotuisti}? * ou o filho do homem, para que {reputas}?",
+    "143:4": "O homem {factus} semelhante {vanitati}: * os seus dias passam como a sombra.",
+    "143:5": "Senhor, inclinai os vossos céus, e descei: * tocai os montes, e fumegarão.",
+    "143:6": "{fulgura}, e os dispersareis: * enviai as vossas setas, e os perturbareis.",
+    "143:7": "Enviai a vossa mão do alto, {eripe7}, e livrai-me de muitas águas: * da mão dos filhos estranhos.",
+    "143:8": "Cuja boca falou {vanitatem8}: * e a sua direita é direita de iniquidade.",
+    "143:9": "Deus, eu vos cantarei um cântico novo: * com o saltério de dez cordas vos entoarei salmos.",
+    "143:10": "Vós que dais a salvação aos reis: * que resgatastes Davi, vosso servo, da espada {maligno}: {eripe10}.",
+    "143:11": "E {erue11} da mão dos filhos estranhos, cuja boca falou {vanitatem11}: * e a sua direita é direita de iniquidade:",
+    "143:12": "Cujos filhos são como {plantationes} * na sua juventude.",
+    "143:12b": "As suas filhas estão {compositae}: * adornadas em volta {similitudo}.",
+    "143:13": "Os seus celeiros estão cheios, * {eructantia} deste para aquele.",
+    "143:13b": "As suas ovelhas são fecundas, {egressibus}: * {boves}.",
+    "143:14": "Não há ruína de cerca, nem {transitus}: * nem clamor nas suas praças.",
+    "143:15": "{beatum} o povo que tem estas coisas: * bem-aventurado o povo cujo Deus é o Senhor."
+  },
+  "decisions": [
+    {
+      "id": "eripere",
+      "refs": ["143:7", "143:10", "143:11"],
+      "latin": "éripe me, et líbera me de aquis multis (7) · éripe me (10) · Et érue me de manu filiórum alienórum (11)",
+      "kind": "glossary",
+      "why": "Three Latin rescue verbs in five verses: erípere (7, 10), liberáre (7), érue (11). The glossary splits erípere by source — 'arrancar' where a 'de …' follows, 'libertar' where none is named — and gives éruere 'arrancar' with a source; liberáre is 'livrar'. 143:7 has a source after the pair (de aquis multis), so 'arrancai-me, e livrai-me' — as 81:4, where draft 1's 'libertai … livrai' drew a Latinist minor for sounding like one verb. 143:10 ends 'éripe me.' with no source (de gládio malígno belongs to redemísti, DO's colon) → 'libertai-me', as 118:153, 118:170, 68:19. 143:11 'érue me de manu' → 'arrancai-me'. So where éripe (10) and érue (11) touch, the Portuguese keeps them apart; the cost is that éripe (7) and érue (11), in two nearly identical lines, share 'arrancai-me'. Option 2 keeps éripe one verb inside the psalm at the price of the 'libertai … livrai' chime.",
+      "options": [
+        {"label": "arrancai-me (7) · libertai-me (10) · arrancai-me (11)", "forms": {"eripe7": "arrancai-me", "eripe10": "libertai-me", "erue11": "arrancai-me"}, "note": "Draft. The glossary's rule by source (erípere and éruere rows; 81:4, 30:3/30:16).", "from": "glossary"},
+        {"label": "libertai-me (7) · libertai-me (10) · arrancai-me (11)", "forms": {"eripe7": "libertai-me", "eripe10": "libertai-me", "erue11": "arrancai-me"}, "note": "One Portuguese verb per Latin verb inside the psalm (as 70:1 'livrai-me, e libertai-me'); 'libertai-me, e livrai-me' chimes, the 81:4 objection.", "from": "draft"},
+        {"label": "arrancai-me (7) · arrancai-me (10) · arrancai-me (11)", "forms": {"eripe7": "arrancai-me", "eripe10": "arrancai-me", "erue11": "arrancai-me"}, "note": "One verb throughout; at 10 'arrancai-me' hangs with nothing to be torn from (the row's Ps 6 / 118:153 finding).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "liberator",
+      "refs": ["143:2"],
+      "latin": "liberátor meus",
+      "kind": "glossary",
+      "why": "The liberátor row (working: libertador) notes a crossing: the noun sits in erípere's Portuguese family (libertar) while liberáre is 'livrar', and asks Ps 143 to decide, since this psalm has both verbs (143:7 líbera → livrai-me; 143:10 éripe → libertai-me). 'Livrador' is not current Portuguese; 'salvador' is salvátor's. Kept: the crossing is between verses eight apart and no Portuguese agent noun of 'livrar' exists. It also serves the Vespers antiphon 'Benedíctus Dóminus * suscéptor meus et liberátor meus' (Psalmi major, Saturday Vespers), which reads 'Bendito o Senhor, * o meu amparo e o meu libertador'. Same as 17:2, 17:48, 69:6b.",
+      "options": [
+        {"label": "libertador", "forms": {"liberator": "libertador"}, "note": "Draft = 17:2, 69:6b.", "from": "glossary"},
+        {"label": "livrador", "forms": {"liberator": "livrador"}, "note": "Keeps liberáre's family; not a current word.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "innotuisti",
+      "refs": ["143:3"],
+      "latin": "quid est homo, quia innotuísti ei?",
+      "kind": "grammar",
+      "why": "The near-twin of 8:5 (Quid est homo quod memor es ejus), whose Portuguese builds the question 'que é o homem, para que …?' with a subjunctive — held against the Latinist there (D25) because it is how Portuguese asks this question. Built the same way here so the two verses sound kin. innotéscere is 'become known' (ἐγνώσθης αὐτῷ, 'you made yourself known to him'; DRB 'thou art made known to him'); 'dar-se a conhecer' says exactly that, and the perfect is kept (innotuísti). MS1932 'te tenhas manifestado' uses another word.",
+      "options": [
+        {"label": "vos tenhais dado a conhecer a ele", "forms": {"innotuisti": "vos tenhais dado a conhecer a ele"}, "note": "Draft: the perfect kept; 8:5's build.", "from": "draft"},
+        {"label": "vos deis a conhecer a ele", "forms": {"innotuisti": "vos deis a conhecer a ele"}, "note": "Shorter by two syllables; the perfect lost.", "from": "draft"},
+        {"label": "vos tenhais manifestado a ele", "forms": {"innotuisti": "vos tenhais manifestado a ele"}, "note": "MS1932's verb; 'manifestar' is maniféstus's family.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "reputas",
+      "refs": ["143:3"],
+      "latin": "aut fílius hóminis, quia réputas eum?",
+      "kind": "word",
+      "why": "reputáre, to reckon, take into account (λογίζῃ αὐτόν; DRB 'makest account of him'). 'Levar em conta' is the plain Portuguese for it, present as the Latin. 'Ter em conta' would echo 'tenhais' of the first colon (a jingle the Latin, innotuísti … réputas, does not have); 118:119 reputávi → 'Tive por' is another sense (to hold someone as). MS1932 'estimares' means esteem, which is narrower.",
+      "options": [
+        {"label": "o leveis em conta", "forms": {"reputas": "o leveis em conta"}, "note": "Draft.", "from": "draft"},
+        {"label": "o tenhais em conta", "forms": {"reputas": "o tenhais em conta"}, "note": "Echoes 'tenhais' in the first colon.", "from": "draft"},
+        {"label": "o estimeis", "forms": {"reputas": "o estimeis"}, "note": "MS1932 'o estimares'; says esteem.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "vanitas",
+      "refs": ["143:4", "143:8", "143:11"],
+      "latin": "vanitáti símilis (4) · os locútum est vanitátem (8, 11)",
+      "kind": "glossary",
+      "why": "The vánitas row (working: vaidade) has been heard as conceit by blind readers in Pss 4/118, 30, 37, 39, 61, and flags 'o que é vão' for the coordinator. Kept to the row: vaidade is the Latin's word, the three places here repeat it (8 = 11 word for word), and 143:4 'semelhante à vaidade' is the Latin's image of emptiness (ματαιότητι). MS1932 has 'ao nada' at 4 (a paraphrase; his 'vaidade' at 8, 11). If the row moves, the three slots move together.",
+      "options": [
+        {"label": "vaidade", "forms": {"vanitati": "à vaidade", "vanitatem8": "vaidade", "vanitatem11": "vaidade"}, "note": "Draft; the row (4:3, 37:13 'falaram vaidades').", "from": "glossary"},
+        {"label": "o que é vão", "forms": {"vanitati": "ao que é vão", "vanitatem8": "o que é vão", "vanitatem11": "o que é vão"}, "note": "The row's candidate for the coordinator.", "from": "glossary"},
+        {"label": "ao nada / vaidade", "forms": {"vanitati": "ao nada", "vanitatem8": "vaidade", "vanitatem11": "vaidade"}, "note": "MS1932 at 4; splits one Latin word.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "factus",
+      "refs": ["143:4"],
+      "latin": "Homo vanitáti símilis factus est",
+      "kind": "glossary",
+      "why": "The same phrase as the refrain 48:13 = 48:21 'símilis factus est illis' → 'se fez semelhante a eles', so the same Portuguese (rule 6). The fíeri row keeps 'tornar-se' for a state come upon the subject (118:83, 13:1b), which is arguably the sense here; but the identical Latin phrase governs.",
+      "options": [
+        {"label": "se fez", "forms": {"factus": "se fez"}, "note": "Draft = 48:13, 48:21.", "from": "glossary"},
+        {"label": "se tornou", "forms": {"factus": "se tornou"}, "note": "The fíeri row's state-reading (118:83).", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "fulgura",
+      "refs": ["143:6"],
+      "latin": "Fúlgura coruscatiónem",
+      "kind": "word",
+      "why": "An imperative verb (fulguráre) with a noun object (coruscátio), 'flash forth a flash'; the Greek ἄστραψον ἀστραπήν is one root twice, the Latin varies it. The coruscátio row has 'relâmpago' (76:19, as fúlgur 17:15, 96:4) and says 143:6 needs its own look. Portuguese 'fulgurar' is intransitive, so 'Fazei fulgurar o relâmpago' keeps both the verb's root and the noun. 'Fazei brilhar' is plainer but makes lightning merely shine. 'Relampejai o relâmpago' would copy the Greek's figure, which the Latin does not have.",
+      "options": [
+        {"label": "Fazei fulgurar o relâmpago", "forms": {"fulgura": "Fazei fulgurar o relâmpago"}, "note": "Draft.", "from": "draft"},
+        {"label": "Fazei brilhar o relâmpago", "forms": {"fulgura": "Fazei brilhar o relâmpago"}, "note": "Plainer; MS1932 'Faze brilhar os teus raios'.", "from": "MS1932"},
+        {"label": "Lançai o relâmpago", "forms": {"fulgura": "Lançai o relâmpago"}, "note": "Loses the verb's light.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "maligno",
+      "refs": ["143:10"],
+      "latin": "de gládio malígno",
+      "kind": "glossary",
+      "why": "D24 settled malígnus → 'malvado' because 'o maligno' as a noun was heard as the devil. Here it is an adjective on a sword, where that hearing cannot arise, and 'espada malvada' puts a word for wicked people on a thing. 'maligna' (MS1932) keeps the Latin's word; πονηρᾶς is 'evil'.",
+      "options": [
+        {"label": "maligna", "forms": {"maligno": "maligna"}, "note": "Draft; MS1932.", "from": "MS1932"},
+        {"label": "malvada", "forms": {"maligno": "malvada"}, "note": "D24's word for persons.", "from": "glossary"},
+        {"label": "má", "forms": {"maligno": "má"}, "note": "Plainest; DRB 'malicious'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "plantationes",
+      "refs": ["143:12"],
+      "latin": "sicut novéllæ plantatiónes",
+      "kind": "glossary",
+      "why": "The novéllæ row (rebentos, 127:3b 'como rebentos de oliveiras') says 143:12 will test it; the Greek is the same νεόφυτα. But the Latin differs: at 127:3 novéllæ is the noun, here it is an adjective on plantatiónes, so rule 6 does not bind. 'Plantas novas' keeps both words in their roles; it is also MS1932's and the Ave Maria's phrase (circulation.md). 'Plantações' would be heard as plantations.",
+      "options": [
+        {"label": "plantas novas", "forms": {"plantationes": "plantas novas"}, "note": "Draft; MS1932; the Ave Maria (circulation.md).", "from": "MS1932"},
+        {"label": "rebentos plantados", "forms": {"plantationes": "rebentos plantados"}, "note": "Echoes 127:3b's 'rebentos'; the noun turned participle. 'rebentos' was unknown to one reader.", "from": "glossary"},
+        {"label": "novas plantações", "forms": {"plantationes": "novas plantações"}, "note": "The cognate; heard as fields of crops.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "compositae",
+      "refs": ["143:12b"],
+      "latin": "Fíliæ eórum compósitæ",
+      "kind": "word",
+      "why": "compósitus, 'well arranged, adorned' (L&S); the Greek κεκαλλωπισμέναι is 'made beautiful'. Portuguese 'compostas' now says 'composed, decent' (MS1932 'andam todas compostas' has the older sense). 'Enfeitadas' is the plain word for the Greek's sense and sets up the second colon's 'adornadas' (circumornátæ), two words of adornment as in the Latin.",
+      "options": [
+        {"label": "enfeitadas", "forms": {"compositae": "enfeitadas"}, "note": "Draft.", "from": "draft"},
+        {"label": "bem compostas", "forms": {"compositae": "bem compostas"}, "note": "The cognate, with 'bem' against the modern sense; MS1932 'compostas'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "similitudo",
+      "refs": ["143:12b"],
+      "latin": "circumornátæ ut similitúdo templi",
+      "kind": "grammar",
+      "why": "'ut similitúdo templi', 'as the likeness of a temple' (ὁμοίωμα ναοῦ; DRB 'after the similitude of a temple'). 'À semelhança de' is the living Portuguese for it and keeps the noun (105:20 'semelhança'); a literal 'como a semelhança de' is not a sentence (the similitúdo row, 57:5). The Hebrew's 'columns / pillars of the temple' (Ave Maria, CNBB) is another text. MS1932's 'como ídolos dum templo' is a gloss.",
+      "options": [
+        {"label": "à semelhança de um templo", "forms": {"similitudo": "à semelhança de um templo"}, "note": "Draft.", "from": "draft"},
+        {"label": "como a imagem de um templo", "forms": {"similitudo": "como a imagem de um templo"}, "note": "'imagem' is imágo's word (38:7).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "eructantia",
+      "refs": ["143:13"],
+      "latin": "eructántia ex hoc in illud",
+      "kind": "glossary",
+      "why": "The eructáre row: 'fazer jorrar' (18:3, 44:2a, 118:171), the gush kept, the belch not; 143:13 is one of its five places. Here the participle has no object, so the verb's intransitive 'jorrando' keeps the root without 'fazer'. 'ex hoc in illud' → 'deste para aquele', as 74:9 'ex hoc in hoc' → 'deste para aquele'. MS1932 'a trasbordar duns para outros' is another image (overflowing).",
+      "options": [
+        {"label": "jorrando", "forms": {"eructantia": "jorrando"}, "note": "Draft; the row's root.", "from": "glossary"},
+        {"label": "transbordando", "forms": {"eructantia": "transbordando"}, "note": "MS1932's image; plainer for storehouses.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "egressibus",
+      "refs": ["143:13b"],
+      "latin": "abundántes in egréssibus suis",
+      "kind": "word",
+      "why": "The sheep 'abounding in their goings-out' (πληθύνοντα ἐν ταῖς ἐξόδοις αὐτῶν; DRB 'abounding in their goings forth'). egréssio is 'saída' at 18:6b. Kept as noun and adjective; MS1932 turns it into a clause and adds 'a pastar'.",
+      "options": [
+        {"label": "abundantes nas suas saídas", "forms": {"egressibus": "abundantes nas suas saídas"}, "note": "Draft.", "from": "draft"},
+        {"label": "numerosas quando saem", "forms": {"egressibus": "numerosas quando saem"}, "note": "MS1932 without his 'a pastar'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "boves",
+      "refs": ["143:13b"],
+      "latin": "boves eórum crassæ",
+      "kind": "word",
+      "why": "The Latin adjective is feminine (crassæ), so the animals are cows; the Greek (οἱ βόες … παχεῖς) is masculine, and DRB says 'oxen'. Rule 1: the Latin. MS1932 reads it so: 'As suas vacas são gordas'. The cost: 8:8 and 49:10 have 'bois' for boves (no gender marked there).",
+      "options": [
+        {"label": "as suas vacas, gordas", "forms": {"boves": "as suas vacas, gordas"}, "note": "Draft; the Latin's feminine; MS1932.", "from": "MS1932"},
+        {"label": "os seus bois, gordos", "forms": {"boves": "os seus bois, gordos"}, "note": "8:8's word; the Greek's gender; DRB.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "transitus",
+      "refs": ["143:14"],
+      "latin": "Non est ruína macériæ, neque tránsitus",
+      "kind": "ambiguity",
+      "why": "tránsitus (διέξοδος) is left bare in the Latin: a passage through the broken wall, or a going-out (into exile, or of the flock). 'Nem passagem' keeps it as open as the Latin (DRB 'nor passage', MS1932 'nem passagem na sua cerca' with a gloss). macéria → 'cerca' as 61:4, 79:13; ruína as 105:29.",
+      "options": [
+        {"label": "passagem", "forms": {"transitus": "passagem"}, "note": "Draft; DRB, MS1932.", "from": "draft"},
+        {"label": "brecha", "forms": {"transitus": "brecha"}, "note": "Decides the sense (a hole in the wall); DM1962's word is for the Hebrew's first noun.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "beatum",
+      "refs": ["143:15"],
+      "latin": "Beátum dixérunt pópulum, cui hæc sunt",
+      "kind": "order",
+      "why": "The Latin opens both cola on 'beátus' (Beátum … beátus), and the second colon is the Saturday Vespers antiphon 'Beátus pópulus * cujus Dóminus Deus ejus', which must read alone. Setting 'disseram' between commas keeps the anaphora and the Latin's order; 'Chamaram bem-aventurado o povo' is plainer but buries the first 'bem-aventurado'. The 'but' of MS1932's gloss '(eu porém digo)' is not in the Latin and not added: the contrast is left to the reader, as the Latin leaves it. 'Cujo Deus é o Senhor' = 32:12 'Beáta gens, cujus est Dóminus, Deus ejus' → 'Bem-aventurada a nação cujo Deus é o Senhor'; it is also the Ave Maria's and the Almeida's wording (circulation.md). 'Cui hæc sunt' → 'que tem estas coisas' (possession, plainly).",
+      "options": [
+        {"label": "Bem-aventurado, disseram,", "forms": {"beatum": "Bem-aventurado, disseram,"}, "note": "Draft; the Latin's order and anaphora.", "from": "draft"},
+        {"label": "Chamaram bem-aventurado", "forms": {"beatum": "Chamaram bem-aventurado"}, "note": "Plainer order; DRB 'They have called the people happy'.", "from": "DRB"},
+        {"label": "Disseram bem-aventurado", "forms": {"beatum": "Disseram bem-aventurado"}, "note": "The Latin verb, natural order.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "143:1": "Head as the formula 'Bendito o Senhor, Deus de Israel' (40:14, 71:18; D41) — no 'seja'. The rest copies 17:35 'Que ensina as minhas mãos para a batalha' (prǽlium → batalha, bellum → guerra, as 17:40, 75:4). Also the Gradual of 03-27 (missa Sancti). No titulus (D7: DO's Psalm143.txt has none; the Greek's τῷ Δαυιδ πρὸς τὸν Γολιαδ and MS1932's 'Salmo de David, contra Golias' are not in the working text).",
+    "143:2": "Verbless appositions, as 17:3c 'O meu protetor, e o chifre da minha salvação, * e o meu amparo'; article kept before each possessive. suscéptor → amparo (D19). The first Vespers antiphon (Benedíctus Dóminus * suscéptor meus et liberátor meus) is built from these words: 'Bendito o Senhor, * o meu amparo e o meu libertador'.",
+    "143:2b": "'qui subdit pópulum meum sub me' follows 17:48 'sujeitais os povos sob mim' (subdere takes subjícere's verb; the row says 143:2 should follow). 'nele esperei' as 27:7.",
+    "143:4": "'como a sombra', with the article, as 101:12 and 108:23. prætéreunt → 'passam'.",
+    "143:5": "17:10 'Inclinou os céus, e desceu' and 103:32 'que toca os montes, e eles fumegam' — the same verbs. 'descei', 'tocai' are safe at the vós imperative (past 'desci', 'toquei').",
+    "143:6": "dissipáre with people as object → 'dispersar' (the row's proposal, 17:15 'e os dispersou', 67:31b 'Dispersai'); conturbáre → 'perturbar' (17:15). emíttere → 'enviar', one verb for 143:6 and 143:7 (the emíttere row; 17:15, 17:17 'enviou').",
+    "143:7": "'de muitas águas' without the article, as 17:17 'de muitas águas'; 'da mão dos filhos estranhos' as the aliénus row (17:46 'Os filhos estranhos'). The Latin order 'a vossa mão do alto' kept.",
+    "143:8": "Relative 'Cuja' opens the verse and hangs on 143:7, as the Latin's 'Quorum'. A copula is supplied in the second colon (the Latin has none); the repeated 'direita' kept. déxtera → 'direita' (row). 143:11 repeats 143:8 word for word, as the Latin does.",
+    "143:9": "The responsory of Pasc4-0 (R. Deus, cánticum novum cantábo tibi … In psaltério decem chordárum psallam tibi) reads from this verse. psaltério decachórdo → 'o saltério de dez cordas' (32:2; the decachórdum row names 143:9 for this). psállere → 'entoar salmos' (D25), 'vos entoarei salmos' as 137:1b. Bare vocative 'Deus' (D44).",
+    "143:10": "salus → 'salvação' (D6); MS1932's 'saúde' is the older sense. redímere perfect → 'resgatastes' (the row: 30:6, 70:23, 76:15). 'Davi, vosso servo' as 131:10. The LXX ends 143:10 at πονηρᾶς and has ῥῦσαί με in 143:11; the Latin moves 'éripe me' to the end of 10 — kept there.",
+    "143:12": "'Quorum' refers back to the 'filhos estranhos' (143:11), as in the Greek (ὧν): in the Latin, 143:12–14 describe the prosperity of the strangers, and 143:15a reports that men called such a people happy. The Hebrew (and so the CNBB and Ave Maria, circulation.md) reads 'our sons … our barns' as a wish; not followed. Copulas supplied at the head of 12, 12b, 13, 13b (grammar, D2); the second cola stay verbless as in the Latin.",
+    "143:14": "macéria → 'cerca' (61:4, 79:13); platéa → 'praças' (54:12 'das suas praças'); clamor → 'clamor' (row).",
+    "143:15": "The second colon is the Saturday Vespers antiphon 'Beátus pópulus * cujus Dóminus Deus ejus' (Psalmi major) and reads alone: 'Bem-aventurado o povo * cujo Deus é o Senhor'. beátus → 'bem-aventurado' (D19)."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps143.md, with precedent from ps143/concord.py over all finished psalms (Ps 17's twin lines, 8:5, 48:13, 32:12, 74:9, 101:12, 103:32, 127:3b) and the glossary rows. Brazilian circulation of the closing verses fetched, not asserted: ps143/circulation.md. Liturgical uses found by grep in DO's Latin: two Saturday Vespers antiphons (143:1–2, 143:15b), the Pasc4-0 responsory (143:9), a Gradual (03-27, 143:1). Hard readings: the three rescue verbs (7, 10, 11); fulgura coruscatiónem; the Latin's 'quorum' making 12–14 the strangers' prosperity against the Hebrew's wish; boves … crassæ (feminine)."},
+    {"step": "checks", "note": "Hard checks pass. Soft flags accepted: 143:3 +6 (the counter does not elide; sung, 'que‿é‿o … dado‿a … a‿ele' is ~18 against 16, and the 8:5 build needs the auxiliary; 'vos deis a conhecer' is the shorter option); 143:15 +5 (same elisions; the anaphora kept); 143:9 +3 (the 32:2 formula); 143:12b +3; short second cola at 143:7, 143:14 and first cola at 143:11, 143:12 (-3 to -6), where the Latin's long words have short Portuguese equivalents. Rhymes inside 143:6 (-reis/-reis) and 143:8 = 143:11 (vaidade/iniquidade) are the Latin's own echoes (dissipábis eos / conturbábis eos; vanitátem / iniquitátis)."}
+  ]
+}

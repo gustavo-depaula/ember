@@ -1,0 +1,181 @@
+{
+  "psalm": 146,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "146:1": "Louvai o Senhor, porque {psalmus}: * ao nosso Deus seja agradável e {decora} o louvor.",
+    "146:2": "{aedificans} * {congregabit} os {dispersiones} de Israel.",
+    "146:3": "Que cura os {contritos}, * e {alligat} as suas {contritiones}.",
+    "146:4": "Que conta a multidão das estrelas, * e {nomina}.",
+    "146:5": "Grande é o nosso Senhor, e grande o seu poder: * e a sua sabedoria não tem número.",
+    "146:6": "O Senhor ampara os mansos, * mas humilha os pecadores até {terram}.",
+    "146:7": "{praecinite} ao Senhor com ação de graças: * entoai salmos ao nosso Deus com a cítara.",
+    "146:8a": "Que cobre o céu de nuvens, * e prepara a chuva para a terra.",
+    "146:8b": "Que {producit} nos montes, * e erva para o serviço dos homens.",
+    "146:9": "Que dá aos {jumenta} o seu alimento, * e aos filhotes dos corvos que o invocam.",
+    "146:10": "Não {voluntas} força do cavalo, * nem {bp10} pernas do homem.",
+    "146:11": "O Senhor {bp11} que o temem, * e {bp11b} que esperam na sua misericórdia."
+  },
+  "decisions": [
+    {
+      "id": "psalmus",
+      "refs": ["146:1"],
+      "latin": "quóniam bonus est psalmus",
+      "kind": "order",
+      "why": "Only one parse is possible: 'bonus' agrees with 'psalmus', so 'because a psalm is good' (DRB 'because psalm is good'; LXX ὅτι ἀγαθὸν ψαλμός). In Portuguese, the Latin order 'porque é bom o salmo' puts 'porque é bom' right after 'Louvai o Senhor'. That is the start of the best-known formula in the psalter ('Louvai o Senhor, porque é bom', 134:3; the CNBB LH opens this very psalm with it). The ear hears 'the Lord is good' until 'o salmo' arrives. Putting the subject first removes that. Order is grammar (D2). The noun stays a noun: MS1932's 'é bom cantar-lhe hinos' makes the psalm into an act of singing and brings in 'hinos'.",
+      "options": [
+        {"label": "o salmo é bom", "forms": {"psalmus": "o salmo é bom"}, "note": "Ruling. Subject first; nothing in it can be taken for the formula about the Lord.", "from": "draft"},
+        {"label": "é bom o salmo", "forms": {"psalmus": "é bom o salmo"}, "note": "The Latin order. For one beat it is heard as 'the Lord is good'.", "from": "draft"},
+        {"label": "é bom cantar salmos", "forms": {"psalmus": "é bom cantar salmos"}, "note": "Near MS1932 ('é bom cantar-lhe hinos'). The noun becomes a verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "decora",
+      "refs": ["146:1"],
+      "latin": "sit jucúnda, decóraque laudátio",
+      "kind": "word",
+      "why": "The Greek has only ἡδυνθείη αἴνεσις ('may praise be sweet'). 'decóra' is the Latin's own second adjective (Hebrew נָאוָה 'comely, fitting'). L&S gives 'decorus' as 'becoming, seemly; beautiful, handsome'. The glossary gives the noun 'decor' → 'esplendor' (Ps 20:6 row, which lists 146:1), and its adjective 'esplêndido' says splendour, not seemliness. 'belo' is the plainest word that keeps the comeliness. 'digno' (MS1932) keeps the fittingness but is 'laudábilis'/'dignus' territory ('digno de louvor', 47:2). The cognate 'decoroso' is heard as 'decent, proper' and is prim. The Vespers/Lauds antiphon 'Deo nostro jucúnda sit laudátio' leaves this adjective out, so the two adjectives stay side by side and 'e belo' can drop cleanly: 'Ao nosso Deus seja agradável o louvor'. 'jucúndus → agradável' follows the glossary (118:39, 80:3; 103:34 'Seja-lhe agradável', the same build).",
+      "options": [
+        {"label": "belo", "forms": {"decora": "belo"}, "note": "Ruling. The plainest faithful word; 'comely' (DRB).", "from": "draft"},
+        {"label": "digno", "forms": {"decora": "digno"}, "note": "MS1932 'e digno dele'. The fitting side of decorus. Near 'digno de louvor' (laudábilis).", "from": "MS1932"},
+        {"label": "decoroso", "forms": {"decora": "decoroso"}, "note": "The cognate; heard as 'decent, proper'.", "from": "draft"},
+        {"label": "esplêndido", "forms": {"decora": "esplêndido"}, "note": "The decor row's family (esplendor). Says splendour rather than seemliness.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "aedificans",
+      "refs": ["146:2"],
+      "latin": "Ædíficans Jerúsalem Dóminus: * dispersiónes Israélis congregábit.",
+      "kind": "grammar",
+      "why": "The participle has no 'et' (the LXX has καί … ἐπισυνάξει), so the Latin is one sentence: the Lord, building Jerusalem, will gather. A relative clause keeps it one sentence, with the Lord as the subject of 'congregará' (MS1932 'O Senhor que edifica Jerusalém, congregará'). It also opens the run of relatives that follows ('Que cura', 'Que conta'). DRB and the Hebrew-family Bibles make two main clauses. The gerund keeps the participle's form but opens the verse bookishly. 'ædificáre → edificar' (the working row, 126:1a).",
+      "options": [
+        {"label": "O Senhor, que edifica Jerusalém,", "forms": {"aedificans": "O Senhor, que edifica Jerusalém,"}, "note": "Ruling. One sentence, as the Latin.", "from": "MS1932"},
+        {"label": "O Senhor edifica Jerusalém:", "forms": {"aedificans": "O Senhor edifica Jerusalém:"}, "note": "Two statements (DRB 'The Lord buildeth up Jerusalem: he will gather').", "from": "DRB"},
+        {"label": "Edificando Jerusalém, o Senhor", "forms": {"aedificans": "Edificando Jerusalém, o Senhor"}, "note": "The participle as a gerund.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "congregabit",
+      "refs": ["146:2"],
+      "latin": "dispersiónes Israélis congregábit",
+      "kind": "glossary",
+      "why": "Active 'congregáre' with God gathering his scattered people. 106:2 'de regiónibus congregávit eos' → 'os congregou das regiões' has the same thought, and so does 15:4b's active 'congregar' (the congregári row). 105:47 'cóngrega nos de natiónibus' → 'reuni-nos' is the other form in use. 'dispersiónes' (abstract for concrete, τὰς διασποράς) → 'os dispersos', with DRB 'the dispersed' and MS1932. 'as dispersões' is not something a person can be gathered as. The CNBB LH also has 'os dispersos de Israel'.",
+      "options": [
+        {"label": "congregará … dispersos", "forms": {"congregabit": "congregará", "dispersiones": "dispersos"}, "note": "Ruling. 106:2, 15:4b; MS1932.", "from": "glossary"},
+        {"label": "reunirá … dispersos", "forms": {"congregabit": "reunirá", "dispersiones": "dispersos"}, "note": "105:47 'reuni-nos dentre as nações'.", "from": "glossary"},
+        {"label": "congregará … dispersões", "forms": {"congregabit": "congregará", "dispersiones": "dispersões"}, "note": "The Latin's abstract noun kept.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "contritos",
+      "refs": ["146:3"],
+      "latin": "Qui sanat contrítos corde: * et álligat contritiónes eórum.",
+      "kind": "glossary",
+      "why": "The Greek is the same as 50:19: συντετριμμένους τὴν καρδίαν here, καρδίαν συντετριμμένην there. 50:19 'cor contrítum' → 'coração contrito', so by D15's test the same word. In Brazil 'contrito' is heard as penitent. The Latin word carries that reading in Christian use, but the image here is crushing, followed by binding up. 'quebrantado' says the crushing and is known from Bible reading, but it would break the link with 50:19. 'contritiónes' (συντρίμματα) is the noun of 59:4 'sana contritiónes ejus' → 'curai as suas fraturas', the same Greek, so 'fraturas'. The root echo 'contrítos … contritiónes' is lost: 'contrições' would mean acts of contrition. 'álligat' → 'enfaixa' is the concrete binding-up of a fracture or wound, and is what Brazilian ears know here (CNBB Bible and LH 'enfaixa suas feridas', fetched). MS1932's 'liga' is heard today as 'switch on / phone'. 'sanáre → curar' (6:3, 102:3). The Lauds antiphon joins 146:1a to 146:3 ('Louvai o Senhor, que cura …'), so the verse opens as a relative.",
+      "options": [
+        {"label": "de coração contrito … enfaixa … fraturas", "forms": {"contritos": "de coração contrito", "alligat": "enfaixa", "contritiones": "fraturas"}, "note": "Ruling. 50:19 and 59:4 kept, each with its own Greek.", "from": "glossary"},
+        {"label": "de coração quebrantado … enfaixa … fraturas", "forms": {"contritos": "de coração quebrantado", "alligat": "enfaixa", "contritiones": "fraturas"}, "note": "The crushing said outright; 50:19's echo lost.", "from": "draft"},
+        {"label": "de coração contrito … liga … chagas", "forms": {"contritos": "de coração contrito", "alligat": "liga", "contritiones": "chagas"}, "note": "MS1932 ('os atribulados de coração … liga as suas chagas').", "from": "MS1932"},
+        {"label": "de coração contrito … ata … fraturas", "forms": {"contritos": "de coração contrito", "alligat": "ata", "contritiones": "fraturas"}, "note": "'ata' is L&S's plain 'bind', without the bandage.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "nomina",
+      "refs": ["146:4"],
+      "latin": "et ómnibus eis nómina vocat",
+      "kind": "ambiguity",
+      "why": "'To all of them he calls names': this can mean he calls each by its name, or he names them. 'chamar pelo nome' is the Portuguese idiom for the first, and it is what Brazilian ears know (CNBB Bible 'chama cada uma pelo nome'; LH 'chama a cada uma por seu nome'). The plural 'nómina' becomes the distributive singular, which is number and so grammar. DRB and MS1932 keep the plural with a supplied possessive ('by their names', 'pelos seus nomes'). 'dá nome a todas elas' would settle on the second reading.",
+      "options": [
+        {"label": "chama a todas elas pelo nome", "forms": {"nomina": "chama a todas elas pelo nome"}, "note": "Ruling. The idiom; 'ómnibus eis' kept as 'a todas elas'.", "from": "draft"},
+        {"label": "a todas elas chama pelos seus nomes", "forms": {"nomina": "a todas elas chama pelos seus nomes"}, "note": "MS1932, DRB; the plural kept. Longer.", "from": "MS1932"},
+        {"label": "a todas elas dá nome", "forms": {"nomina": "a todas elas dá nome"}, "note": "Settles on 'names them'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "terram",
+      "refs": ["146:6"],
+      "latin": "humílians autem peccatóres usque ad terram",
+      "kind": "word",
+      "why": "'terra' is kept as 'terra' (ἕως τῆς γῆς), and to the ear 'humilha … até a terra' plainly means to the ground. Both CNBB texts say 'até o chão' (fetched), which is the idiom but a different word. 'usque ad' → 'até' (not 'até à', which is European). 'suscípere' with a person as object → 'amparar' (D19), and 'mansuétus → manso' (24:9, 36:11). The participles are made finite verbs, which is grammar. 'autem' → 'mas'.",
+      "options": [
+        {"label": "a terra", "forms": {"terram": "a terra"}, "note": "Ruling. The Latin's word.", "from": "draft"},
+        {"label": "o chão", "forms": {"terram": "o chão"}, "note": "The idiom; CNBB Bible and LH.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "praecinite",
+      "refs": ["146:7"],
+      "latin": "Præcínite Dómino in confessióne",
+      "kind": "word",
+      "why": "'præcínere' is to sing before, to lead the song (L&S). The Greek ἐξάρξατε is 'begin, lead off' (Miriam leading the women's song, Ex 15:21). This is its only place in the psalter (grep). The natural Portuguese word, 'entoar' ('to intone, to start the chant'), is already spent: 'psállere → entoar salmos' (D25) stands in the second colon of this same verse, and two Latin verbs (two Greek verbs) would become one. 'Começai o canto' keeps the leading-off without stealing that verb, and 'começai' is not a first-person past. DRB's plain 'Sing ye' drops the 'prae-'. MS1932's 'Entoai cânticos' collides with 'entoai salmos'. 'in confessióne → com ação de graças' (94:2, 99:3b). 'in cíthara → com a cítara' (32:2, 70:22, 97:5).",
+      "options": [
+        {"label": "Começai o canto", "forms": {"praecinite": "Começai o canto"}, "note": "Ruling. ἐξάρξατε; kept apart from 'entoar salmos'.", "from": "draft"},
+        {"label": "Cantai", "forms": {"praecinite": "Cantai"}, "note": "DRB 'Sing ye'. The 'prae-' is lost, and 'cantáre' has its own verb.", "from": "DRB"},
+        {"label": "Entoai cânticos", "forms": {"praecinite": "Entoai cânticos"}, "note": "MS1932. The same verb as 'entoai salmos' in the next colon.", "from": "MS1932"},
+        {"label": "Cantai primeiro", "forms": {"praecinite": "Cantai primeiro"}, "note": "'prae-' as 'first'. Heard as 'before anything else'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "producit",
+      "refs": ["146:8b"],
+      "latin": "Qui prodúcit in móntibus fænum: * et herbam servitúti hóminum.",
+      "kind": "glossary",
+      "why": "The second colon is 103:14b word for word ('e erva para o serviço dos homens') and is copied (rule 6). The first colon follows 103:14a 'Prodúcens fænum juméntis' → 'Produzindo feno': the same verb and noun as the twin, and 'herba → erva' is taken in the same verse, so 'fænum' cannot be 'erva' here, as it is at 71:16. The prodúcere row (131:17) gives 'fazer brotar' for ἐξανατέλλειν, which is the Greek here too, and names 'produzir' as the option where the object is the plant (103:14). 'fazer brotar feno' (hay sprouting) would sound odder than 'produz feno'.",
+      "options": [
+        {"label": "produz feno", "forms": {"producit": "produz feno"}, "note": "Ruling. 103:14's pair (produzir / feno / erva).", "from": "glossary"},
+        {"label": "faz brotar feno", "forms": {"producit": "faz brotar feno"}, "note": "The prodúcere row (131:17, ἐξανατέλλειν). Hay is heard as already cut.", "from": "glossary"},
+        {"label": "faz brotar a relva", "forms": {"producit": "faz brotar a relva"}, "note": "The growing grass (the LH's 'relva'). A new word for fænum.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "jumenta",
+      "refs": ["146:9"],
+      "latin": "Qui dat juméntis escam ipsórum",
+      "kind": "glossary",
+      "why": "The juménta row gives 'animais' (35:7b, 48:13; κτήνη). In Brazil 'jumento' is a donkey. 103:14 has 'gado', a local choice. 'esca' given by God → 'alimento' (135:25 'dá alimento a toda a carne', 110:4, 103:27). 'escam ipsórum' → 'o seu alimento': the possessive is clear once it follows 'aos animais'. 'pullus → filhote' (83:4). 'invocántibus eum → que o invocam' (85:5). The relative can attach to the ravens as well as to their young, where the Latin's dative ties it to 'pullis'. Accepted: the young call, and so do their kind.",
+      "options": [
+        {"label": "animais", "forms": {"jumenta": "animais"}, "note": "Ruling. The row.", "from": "glossary"},
+        {"label": "gado", "forms": {"jumenta": "gado"}, "note": "103:14 'Produzindo feno para o gado'; CNBB Bible 'para o gado'.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "voluntas",
+      "refs": ["146:10"],
+      "latin": "Non in fortitúdine equi voluntátem habébit",
+      "kind": "glossary",
+      "why": "'voluntátem habére in' renders θελήσει ἐν, the Hebraism for delighting in. It is the same Greek as 111:1 'in mandátis ejus volet nimis' → 'nos seus mandamentos muito se comprazerá' (the formula row). By D15's test one Greek gets one Portuguese, and 'comprazer-se em' also keeps the Latin's 'in'. The noun 'vontade' is lost. Kept literally, 'Não porá a sua vontade na força do cavalo', it is understood but is not how Portuguese says 'take pleasure in', and 'ter vontade' is 'feel like'. MS1932 has 'Não faz caso da'; DRB has 'He shall not delight in'. The future is kept (habébit, erit). 'fortitúdo → força' (45:4, 92:1a).",
+      "options": [
+        {"label": "se comprazerá na", "forms": {"voluntas": "se comprazerá na"}, "note": "Ruling. 111:1's verb for the same Greek.", "from": "glossary"},
+        {"label": "porá a sua vontade na", "forms": {"voluntas": "porá a sua vontade na"}, "note": "The Latin's noun kept. Not idiomatic.", "from": "draft"},
+        {"label": "terá prazer na", "forms": {"voluntas": "terá prazer na"}, "note": "DRB 'delight'.", "from": "DRB"},
+        {"label": "fará caso da", "forms": {"voluntas": "fará caso da"}, "note": "MS1932 (present 'faz').", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "beneplacitum",
+      "refs": ["146:10", "146:11"],
+      "latin": "nec in tíbiis viri beneplácitum erit ei. * Beneplácitum est Dómino super timéntes eum: et in eis …",
+      "kind": "glossary",
+      "why": "'beneplácitum est / erit' + dative (εὐδοκεῖ twice) appears in two verses in a row, and the Latin repeats it, so the Portuguese repeats one verb. The placére family is 'agradar' ('placére + dative → agradar a', D44; 67:17b 'beneplácitum est Deo habitáre' → 'agradou a Deus habitar'). Here the object is a person, so the verb is reflexive: 'agradar-se de'. 'comprazer-se' is taken by 146:10a (θελήσει, as in 111:1), so the verse keeps the Latin's two verbs as two. The prepositions 'in … super … in eis' become 'de', as the verb asks, which is grammar. 32:18b is identical Latin ('et in eis, qui sperant super misericórdia ejus'), but there it hangs on 'óculi Dómini super' and reads 'e sobre os que esperam na sua misericórdia'. The shared words 'os que esperam na sua misericórdia' are kept identical. 'tíbiæ' → 'pernas' (DRB 'legs'; κνήμαις), and 'vir → homem' (17:26, 17:49). The CNBB Bible's 'Agradam ao SENHOR os que o temem' (fetched) is a different build of the same verb.",
+      "options": [
+        {"label": "se agradará das … se agrada dos … daqueles", "forms": {"bp10": "se agradará das", "bp11": "se agrada dos", "bp11b": "daqueles"}, "note": "Ruling. The agradar family; one verb twice, as the Latin.", "from": "glossary"},
+        {"label": "lhe agradarão as … se agrada dos … daqueles", "forms": {"bp10": "lhe agradarão as", "bp11": "se agrada dos", "bp11b": "daqueles"}, "note": "10b as the Latin's dative ('ei'), 'nem lhe agradarão as pernas do homem'. 11 unchanged.", "from": "draft"},
+        {"label": "terá agrado nas … tem agrado nos … naqueles", "forms": {"bp10": "terá agrado nas", "bp11": "tem agrado nos", "bp11b": "naqueles"}, "note": "The noun kept and 'in' kept. Stiff.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "146:1": "The Alleluia title (LXX αλληλουια Αγγαιου καὶ Ζαχαριου; MS1932 'Aleluia.') is not in DO's Latin, which opens on 'Laudáte Dóminum'. As in Pss 110–112 and 134 it is not reproduced (D7). 'laudátio → louvor' (110:10b). 'Deo nostro' stands first in the colon, as in the Latin. Taking 'e belo' out leaves the antiphon text of Thursday Lauds and Saturday Vespers ('Deo nostro jucúnda sit laudátio').",
+    "146:3": "Opens as a relative ('Que cura'), hanging on 'o Senhor' of 146:2 as the Latin 'Qui' does. It also joins cleanly to 'Louvai o Senhor' in the Thursday Lauds antiphon.",
+    "146:4": "'numeráre → contar' (21:17b 'contaram'). The Latin's echo 'númerat … númerus' (146:4, 146:5) is lost: 'conta … número'. 'Não tem conta' would keep it, but it drops the noun 'número' that 39:13 and 104:34 use for 'non est númerus'.",
+    "146:5": "'Magnus Dóminus' as the formula 'Grande é o … Senhor' (47:2, 95:4). Each colon is also a short responsory text ('Magnus Dóminus noster, * et magna virtus ejus. V. Et sapiéntiæ ejus non est númerus') and a Gradual versicle (St Raphael), and each reads alone. 'non est númerus → não tem número' (39:13). 'virtus → poder' (the working row).",
+    "146:8a": "'operíre → cobrir' (108:19); 'paráre → preparar' (88:3). 'terræ' is a dative → 'para a terra'.",
+    "146:11": "'timéntes eum → os que o temem' (84:10, 102:17). 'speráre super → esperar em' (32:18b, word for word)."
+  },
+  "audit": [
+    {"step": "draft", "note": "Drafted at psalm level from the parallels, with lookups in the finished psalms (ps146/concord.py, adapted from ps145's) and circulation checked (ps146/circulation.md: CNBB LH page read verbatim from saved HTML, CNBB Bible fetched). The hard readings: 146:1 'bonus est psalmus' (order, so it is not heard as the Lord's goodness), 'decóra'; 146:3 'contrítos corde' against 50:19 and 'contritiónes' against 59:4 (same Greek both times); 146:7 'præcínite' beside 'psállite'; 146:10 'voluntátem habébit' as θελήσει = 111:1. Uses in the Latin books: the antiphons 'Deo nostro jucúnda sit laudátio' and 'Laudáte Dóminum qui sanat …', the short responsory and Gradual on 146:5."},
+    {"step": "checks", "note": "Hard checks pass. There are no rhyme flags. The length flags are accepted. 146:3a is +3 because 'de coração contrito' needs a preposition the Latin ablative doesn't. 146:7 is +3/+4: 'entoar salmos' is D25's two words for one, and 'Começai o canto' keeps 'præcínite' apart from it. 146:8a second colon is +4: the Latin dative 'terræ' becomes 'para a terra', and 'plúviam' keeps its article. 146:9a is +3, from the article and possessive. 146:10–11 run 3–4 short, because the Latin's 'beneplácitum est/erit' and 'voluntátem habébit' are periphrases and Portuguese says them with one verb. Every colon ends on a paroxytone or oxytone, except 146:5b 'número' and 146:7b 'cítara'. Both are proparoxytones exactly where the Latin has one ('númerus', 'cíthara')."}
+  ]
+}

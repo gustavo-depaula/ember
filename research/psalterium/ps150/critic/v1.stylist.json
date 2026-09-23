@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "bcf48ee4d0a3f841046105dd54ab742a1925f3b6d78ad231664dd67d1a10c2b9",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T09:36:44+00:00",
+  "reply": "{\"verses\": [{\"id\": \"150:2\", \"fails\": [\"native\"], \"remarks\": [{\"words\": \"segundo a multidão da sua grandeza\", \"problem\": \"Faithful to the Latin, but 'multidão' next to an abstract 'grandeza' makes the ear stop for a moment: in Portuguese 'multidão' calls up a crowd of people. It is the Latin image, so it must stay. The fix is to make it sit more easily: dropping 'sua' before the final word shortens the colon and lets it close cleanly.\", \"alternative\": \"louvai-o segundo a multidão de sua grandeza\"}]}, {\"id\": \"150:4\", \"fails\": [\"concrete\", \"plain\"], \"remarks\": [{\"words\": \"e o instrumento\", \"problem\": \"The only place in the psalm's list of instruments where a named instrument turns into a generic word. It lands flat and prosaic at the final cadence, just where the list should close on something you can see and hear. 'Órgão' keeps the Latin word, is what the Portuguese tradition uses, and gives a good paroxytone close.\", \"alternative\": \"louvai-o com as cordas e o órgão\"}]}, {\"id\": \"150:5\", \"fails\": [\"plain\"], \"remarks\": [{\"words\": \"címbalos de aclamação\", \"problem\": \"'Aclamação' sounds a bit official, like voting or applause, and it is long. 'Júbilo' is the plainer word, is closer to 'jubilatio', and is what Brazilian liturgical ears know. It also matches 'sonoros' in the first colon better, and the flex still falls on a stressed syllable (JÚ-bi-lo is proparoxytone, which a Gregorian flex handles well).\", \"alternative\": \"louvai-o com címbalos de júbilo\"}]}], \"overall\": \"A clean, strong doxology: the 'louvai-o' anaphora carries it, and the lines are short and easy to breathe through. The weak spots are in the instrument list, where the words go abstract ('instrumento', 'aclamação') at the moment the psalm most needs concrete, ringing nouns.\", \"worstLine\": \"150:4\", \"bestLine\": \"150:1\"}\n"
+}

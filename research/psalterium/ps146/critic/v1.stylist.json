@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "545d70358dfb46e139d20a5c67c5ac6d4e49135cc40e53b3e8d91424e1192479",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T09:30:38+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"146:3\", \"fails\": [\"concrete\"], \"remarks\": [{\"words\": \"os de coração contrito, * e enfaixa as suas fraturas\", \"problem\": \"The Latin binds the two cola with one root (contrítos / contritiónes); 'contrito' then 'fraturas' breaks the echo the ear expects, and 'fraturas' sounds clinical beside 'enfaixa'.\", \"alternative\": \"Que cura os de coração quebrantado, * e enfaixa os seus quebrantos.\"}]},\n{\"id\": \"146:7\", \"fails\": [\"sayable\", \"native\"], \"remarks\": [{\"words\": \"Começai o canto ao Senhor com ação de graças\", \"problem\": \"Wordy paraphrase of praecínite; 'ao Senhor com ação' chains nasal -ão/ao sounds and the colon runs long for one breath.\", \"alternative\": \"Entoai ao Senhor ação de graças: * cantai salmos ao nosso Deus com a cítara.\"}]},\n{\"id\": \"146:9\", \"fails\": [\"concrete\"], \"remarks\": [{\"words\": \"dá aos animais o seu alimento\", \"problem\": \"'animais' is generic where juménta names the working beasts; the plainer concrete word is available.\", \"alternative\": \"Que dá ao gado o seu alimento, * e aos filhotes dos corvos que o invocam.\"}]},\n{\"id\": \"146:10\", \"fails\": [\"native\"], \"remarks\": [{\"words\": \"Não se comprazerá na força do cavalo\", \"problem\": \"'se comprazerá' is bookish and sibilant-heavy in the mouth; the hard -zerá-na hurries into the image.\", \"alternative\": \"Não terá gosto na força do cavalo, * nem se agradará das pernas do homem.\"}]}\n],\n\"overall\": \"The psalm moves well: the chain of relative clauses ('Que cura... Que conta... Que cobre...') gives it a steady litany rhythm and the images stay concrete. Only v. 7 sounds translated rather than prayed, and v. 10 leans slightly bookish; the rest is plain, noble and easy to chant.\",\n\"worstLine\": \"146:7\",\n\"bestLine\": \"146:4\"}\n"
+}

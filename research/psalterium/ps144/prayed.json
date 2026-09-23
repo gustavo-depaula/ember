@@ -1,0 +1,905 @@
+{
+  "psalm": 144,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "144:1": "Eu vos exaltarei, {rex}: * e bendirei {bnomen1} para sempre, e pelos séculos dos séculos.",
+    "144:2": "{singulos} vos bendirei: * e louvarei o vosso nome para sempre, e pelos séculos dos séculos.",
+    "144:3": "Grande é o Senhor, e muito digno de louvor: * e a sua grandeza não tem fim.",
+    "144:4": "{generatio} louvará as vossas obras: * e {pronuntiabunt} {pot4}.",
+    "144:5": "Falarão da {magn5} da glória da vossa santidade: * e narrarão as vossas maravilhas.",
+    "144:6": "E dirão o poder {terribilium}: * e narrarão a vossa grandeza.",
+    "144:7": "{eructabunt} a memória da abundância {suav7}: * e exultarão na vossa justiça.",
+    "144:8": "Compassivo e misericordioso é o Senhor: * paciente e muito misericordioso.",
+    "144:9": "{suav9} é o Senhor para com todos: * e as suas compaixões estão sobre todas as suas obras.",
+    "144:10": "Que vos deem graças, Senhor, todas as vossas obras: * e os vossos santos vos bendigam.",
+    "144:11": "Dirão a glória do vosso reino: * e falarão {pot11}:",
+    "144:12": "{notam} aos filhos dos homens {pot12}: * e a glória da {magn12} do vosso reino.",
+    "144:13a": "O vosso reino é um reino de todos os séculos: * e o vosso domínio, {omni}.",
+    "144:13b": "Fiel é o Senhor em todas as suas palavras: * e santo em todas as suas obras.",
+    "144:14": "O Senhor {allevat} todos os que caem: * e ergue todos os {elisos}.",
+    "144:15": "Os olhos de todos esperam em vós, Senhor: * e vós lhes dais o seu alimento {tempore}.",
+    "144:16": "Vós abris a vossa mão: * e encheis de bênção {animal}.",
+    "144:17": "Justo é o Senhor em todos os seus caminhos: * e santo em todas as suas obras.",
+    "144:18": "Perto está o Senhor de todos os que o invocam: * de todos os que o invocam {veritate}.",
+    "144:19": "{ele19} a vontade dos que o temem: ‡ e escutará {eorum}: * e os salvará.",
+    "144:20": "O Senhor guarda todos os que o amam: * e {disperdet} todos os pecadores.",
+    "144:21": "A minha boca {loquetur} o louvor do Senhor: * {caro} para sempre, e pelos séculos dos séculos."
+  },
+  "decisions": [
+    {
+      "id": "rex",
+      "refs": [
+        "144:1"
+      ],
+      "latin": "Exaltábo te, Deus meus, rex",
+      "kind": "grammar",
+      "why": "Two vocatives, the second bare: 'my God, king'. The Greek has ὁ βασιλεύς μου ('my king'); the Latin drops the possessive, and rule 1 follows the Latin. A bare 'rei' after 'meu Deus' is not a Portuguese vocative, so a particle is supplied (grammar, D2); 'ó Rei' adds no word of meaning, where 'meu Rei' would add the Greek's possessive. Capital R as in 5:3, 43:5, 83:4b ('meu Rei').",
+      "options": [
+        {
+          "label": "meu Deus, ó Rei",
+          "forms": {
+            "rex": "meu Deus, ó Rei"
+          },
+          "note": "Draft. The Latin's words and order; the vocative particle supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "ó Deus, meu Rei",
+          "forms": {
+            "rex": "ó Deus, meu Rei"
+          },
+          "note": "MS1932 ('ó Deus, meu rei'), DRB 'O God my king' — the possessive moved to the king, as the Greek.",
+          "from": "MS1932"
+        },
+        {
+          "label": "meu Deus e Rei",
+          "forms": {
+            "rex": "meu Deus e Rei"
+          },
+          "note": "Smooth, but supplies 'e' and makes the two vocatives one phrase.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "bnomen",
+      "refs": [
+        "144:1",
+        "144:21"
+      ],
+      "latin": "benedícam nómini tuo · benedícat omnis caro nómini sancto ejus",
+      "kind": "glossary",
+      "why": "The benedícere row keeps the Latin's dative with 'ao' before 'o Senhor', but 95:2 ('benedícite nómini ejus' → 'bendizei o seu nome') made the dative direct with 'nome' as object, on the stylist's ear (D2: grammar). Followed here in both places, so that the psalm's first and last lines say the same thing the same way. 102:1's 'ao seu santo nome' is verbless, where the preposition carries the sense — not this case.",
+      "options": [
+        {
+          "label": "o vosso nome / o seu santo nome",
+          "forms": {
+            "bnomen1": "o vosso nome",
+            "bnomen21": "o seu santo nome"
+          },
+          "note": "Draft = 95:2's build.",
+          "from": "glossary"
+        },
+        {
+          "label": "ao vosso nome / ao seu santo nome",
+          "forms": {
+            "bnomen1": "ao vosso nome",
+            "bnomen21": "ao seu santo nome"
+          },
+          "note": "The row's dative kept (102:1, 105:47b 'ao vosso santo nome').",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "caroorder",
+      "refs": [
+        "144:21"
+      ],
+      "latin": "et benedícat omnis caro nómini sancto ejus",
+      "kind": "order",
+      "why": "The Latin puts the verb first. 'e bendiga toda a carne o seu santo nome' (MS1932's order) leaves two noun phrases after the verb, and the ear must decide which blesses which; subject first removes the doubt (order, D2). The object is filled by decision 'bnomen'.",
+      "options": [
+        {
+          "label": "e toda a carne bendiga o seu santo nome",
+          "forms": {
+            "caro": "e toda a carne bendiga {bnomen21}"
+          },
+          "note": "Draft: subject first.",
+          "from": "draft"
+        },
+        {
+          "label": "e bendiga toda a carne o seu santo nome",
+          "forms": {
+            "caro": "e bendiga toda a carne {bnomen21}"
+          },
+          "note": "MS1932's wording and the Latin's order.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "generatio",
+      "refs": [
+        "144:4"
+      ],
+      "latin": "Generátio et generátio laudábit ópera tua",
+      "kind": "word",
+      "why": "The noun twice with 'et' and a singular verb (γενεὰ καὶ γενεά, the Hebraism for 'each generation in turn'). 'Geração e geração' is not Portuguese. 'Geração após geração' keeps the word twice and the singular verb; it supplies 'após' for 'et', which says the succession the idiom means. The formula 'in generatióne et generatiónem → de geração em geração' is kept for 13a, where the Latin has the preposition; here the phrase is the subject, so it cannot copy it. The Latin itself turns plural in the second colon ('pronuntiábunt'); kept.",
+      "options": [
+        {
+          "label": "Geração após geração",
+          "forms": {
+            "generatio": "Geração após geração"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "Uma geração e outra geração",
+          "forms": {
+            "generatio": "Uma geração e outra geração"
+          },
+          "note": "Keeps 'e'; heavier, and wants a plural verb in Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "Geração e geração",
+          "forms": {
+            "generatio": "Geração e geração"
+          },
+          "note": "Word for word (DRB 'Generation and generation'); not Portuguese.",
+          "from": "DRB"
+        },
+        {
+          "label": "Todas as gerações",
+          "forms": {
+            "generatio": "Todas as gerações"
+          },
+          "note": "MS1932. Loses the repetition (refused by D2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pronuntiabunt",
+      "refs": [
+        "144:4"
+      ],
+      "latin": "et poténtiam tuam pronuntiábunt",
+      "kind": "glossary",
+      "why": "The pronuntiáre row is open: 'pronunciar' (118:13, 118:172, 70:17), but 141:3 departed to 'declarar' because 'pronunciar' with an abstract object is heard as uttering a word or a sentence. 'Pronunciarão a vossa potência' has the same fault. 'Declarar' is DRB's 'declare' and 141:3's word (the Greek ἀπαγγελοῦσιν, as there). The row stays open.",
+      "options": [
+        {
+          "label": "declararão",
+          "forms": {
+            "pronuntiabunt": "declararão"
+          },
+          "note": "Draft = 141:3's local departure.",
+          "from": "draft"
+        },
+        {
+          "label": "pronunciarão",
+          "forms": {
+            "pronuntiabunt": "pronunciarão"
+          },
+          "note": "The row's cognate.",
+          "from": "glossary"
+        },
+        {
+          "label": "proclamarão",
+          "forms": {
+            "pronuntiabunt": "proclamarão"
+          },
+          "note": "The Ps 70 stylist's request there.",
+          "from": "stylist"
+        },
+        {
+          "label": "publicarão",
+          "forms": {
+            "pronuntiabunt": "publicarão"
+          },
+          "note": "MS1932. Heard today as printing.",
+          "from": "MS1932"
+        },
+        {
+          "label": "anunciarão",
+          "forms": {
+            "pronuntiabunt": "anunciarão"
+          },
+          "note": "v1 stylist: 'declararão' clatters after 'louvará' and sounds notarial. Refused: 'anunciar' is annuntiáre's (D41), kept apart from pronuntiáre.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "potentia",
+      "refs": [
+        "144:4",
+        "144:11",
+        "144:12"
+      ],
+      "latin": "poténtiam tuam (×3)",
+      "kind": "glossary",
+      "why": "The poténtia row names Ps 144 (three times) as the place to settle it. 'Potência' is the row's word (64:7, 70:19, 79:3, 88:13); 'poder' is virtus's, and 144:6 has 'virtútem' two verses on, so 'poder' would merge them in one psalm. Kept 'potência' in all three for the repetition.",
+      "options": [
+        {
+          "label": "potência",
+          "forms": {
+            "pot4": "a vossa potência",
+            "pot11": "da vossa potência",
+            "pot12": "a vossa potência"
+          },
+          "note": "Draft = the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "poderio",
+          "forms": {
+            "pot4": "o vosso poderio",
+            "pot11": "do vosso poderio",
+            "pot12": "o vosso poderio"
+          },
+          "note": "The row's option (the 88:13 stylist).",
+          "from": "glossary"
+        },
+        {
+          "label": "poder",
+          "forms": {
+            "pot4": "o vosso poder",
+            "pot11": "do vosso poder",
+            "pot12": "o vosso poder"
+          },
+          "note": "MS1932, DRB 'power'. Merges with virtus in 144:6.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "magnificentia",
+      "refs": [
+        "144:5",
+        "144:12"
+      ],
+      "latin": "Magnificéntiam glóriæ sanctitátis tuæ · glóriam magnificéntiæ regni tui",
+      "kind": "glossary",
+      "why": "The magnificéntia row (open) lists both places. The two genitive chains mirror each other (magnificence of glory / glory of magnificence); keeping the cognate keeps the mirror. A blind reader elsewhere did not know the word; 'majestade' is majéstas's. The v1 stylist found 144:5 the worst line (a long run of 'da' genitives) and offered 'Falarão da glória magnífica da vossa santidade' — refused: it turns the Latin's noun into an adjective and drops the mirror with 144:12; he himself wrote 'if an adjective is judged too free, keep the chain'. His line is recorded here as the alternative for Gustavo; it is not a slot option because it reorders the chain.",
+      "options": [
+        {
+          "label": "magnificência",
+          "forms": {
+            "magn5": "magnificência",
+            "magn12": "magnificência"
+          },
+          "note": "Draft = the row (8:2b, 28:4, 70:21, 95:6, 110:3).",
+          "from": "glossary"
+        },
+        {
+          "label": "majestade",
+          "forms": {
+            "magn5": "majestade",
+            "magn12": "majestade"
+          },
+          "note": "Plainer; the word of majéstas (71:19).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "terribilium",
+      "refs": [
+        "144:6"
+      ],
+      "latin": "virtútem terribílium tuórum",
+      "kind": "word",
+      "why": "A neuter plural substantive, 'your terrible things' (τῶν φοβερῶν σου); DRB 'thy terrible acts'. Portuguese needs a noun. 105:21 'terribília' → 'coisas terríveis', but 'o poder das vossas coisas terríveis' is heavy and vague; 'feitos' names what the Latin means (acts) without a new image, and stays off 'obras' (ópera, in 144:4, 9, 10). MS1932 paraphrases ('quanto é terrível o teu poder'). The v1 Latinist (minor) asked 'das vossas coisas terríveis' (option 2): 'feitos' names what the Latin leaves unnamed. Held: the ambiguity reader heard 'awe-inspiring deeds', which is the sense; 'coisas terríveis' is vaguer and heavier.",
+      "options": [
+        {
+          "label": "dos vossos feitos terríveis",
+          "forms": {
+            "terribilium": "dos vossos feitos terríveis"
+          },
+          "note": "Draft; DRB 'acts'.",
+          "from": "draft"
+        },
+        {
+          "label": "das vossas coisas terríveis",
+          "forms": {
+            "terribilium": "das vossas coisas terríveis"
+          },
+          "note": "105:21's noun.",
+          "from": "glossary"
+        },
+        {
+          "label": "das vossas obras terríveis",
+          "forms": {
+            "terribilium": "das vossas obras terríveis"
+          },
+          "note": "Merges with ópera.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eructabunt",
+      "refs": [
+        "144:7"
+      ],
+      "latin": "Memóriam abundántiæ suavitátis tuæ eructábunt",
+      "kind": "glossary",
+      "why": "The eructáre row: 'fazer jorrar' (18:3, 44:2a, 118:171), the gush kept, the belch not. The verb goes first, so that its object — a three-link genitive chain — follows it as in 18:3 and 118:171 ('farão jorrar um hino'); verb-last in Portuguese would leave the ear without a verb for eleven syllables.",
+      "options": [
+        {
+          "label": "Farão jorrar",
+          "forms": {
+            "eructabunt": "Farão jorrar"
+          },
+          "note": "Draft = the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Proferirão",
+          "forms": {
+            "eructabunt": "Proferirão"
+          },
+          "note": "The row's option (DRB 'publish/utter').",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "suavis",
+      "refs": [
+        "144:7",
+        "144:9"
+      ],
+      "latin": "suavitátis tuæ · Suávis Dóminus univérsis",
+      "kind": "glossary",
+      "why": "The suávis row (open): 'suave' (33:9, 85:5, 99:4b, 108:21). The noun follows the adjective as 'suavidade', so the psalm's two places are one root, as in the Latin. The Greek (χρηστός, χρηστότης) means kindness; 'bom/bondade' is the row's option and MS1932's 'bondade' in 144:7.",
+      "options": [
+        {
+          "label": "suavidade / suave",
+          "forms": {
+            "suav7": "da vossa suavidade",
+            "suav9": "Suave"
+          },
+          "note": "Draft = the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "bondade / bom",
+          "forms": {
+            "suav7": "da vossa bondade",
+            "suav9": "Bom"
+          },
+          "note": "The Greek's sense; MS1932 'imensa bondade' at 144:7.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "allevat",
+      "refs": [
+        "144:14"
+      ],
+      "latin": "Állevat Dóminus omnes qui córruunt",
+      "kind": "word",
+      "why": "'Allevare' is 'lift up' (L&S); the Greek ὑποστηρίζει is 'props up', which MS1932 follows ('sustém'). The Latin decides. 'Levanta' is the plain verb for raising the fallen and stays apart from 'ergue' (érigit) in the second colon. 72:18 'dum allevaréntur' reads 'eram elevados' (passive of the proud); 'eleva' is the option that would keep the two places one verb.",
+      "options": [
+        {
+          "label": "levanta",
+          "forms": {
+            "allevat": "levanta"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "eleva",
+          "forms": {
+            "allevat": "eleva"
+          },
+          "note": "72:18's verb; heard as 'exalts' before 'lifts from the ground'.",
+          "from": "draft"
+        },
+        {
+          "label": "sustenta",
+          "forms": {
+            "allevat": "sustenta"
+          },
+          "note": "MS1932 'sustém', the Greek's sense, not the Latin's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "elisos",
+      "refs": [
+        "144:14"
+      ],
+      "latin": "et érigit omnes elísos",
+      "kind": "word",
+      "why": "'Elídere' is 'dash, shatter, crush' (L&S); the Greek κατερραγμένους 'broken down'. 'Esmagados' keeps the concrete blow (rule 5). DRB 'cast down' and MS1932 'prostrados' say the posture rather than the blow. 145:8 'Dóminus érigit elísos' is the same colon and should copy whatever is ruled here.",
+      "options": [
+        {
+          "label": "esmagados",
+          "forms": {
+            "elisos": "esmagados"
+          },
+          "note": "Draft; L&S.",
+          "from": "draft"
+        },
+        {
+          "label": "abatidos",
+          "forms": {
+            "elisos": "abatidos"
+          },
+          "note": "DRB 'cast down'; also heard as 'dejected'.",
+          "from": "DRB"
+        },
+        {
+          "label": "prostrados",
+          "forms": {
+            "elisos": "prostrados"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tempore",
+      "refs": [
+        "144:15"
+      ],
+      "latin": "in témpore opportúno",
+      "kind": "glossary",
+      "why": "The row 'in témpore opportúno → no tempo oportuno' (31:6) names this verse. The Brazilian lectionary's stanza has 'no tempo certo' (fetched, circulation.md; Hebrew-based), which Brazilian ears know from the 18th Sunday; kept as the option. 'Oportuno' is the Latin's word and plain enough.",
+      "options": [
+        {
+          "label": "no tempo oportuno",
+          "forms": {
+            "tempore": "no tempo oportuno"
+          },
+          "note": "Draft = the row; MS1932 'em tempo oportuno'.",
+          "from": "glossary"
+        },
+        {
+          "label": "no tempo certo",
+          "forms": {
+            "tempore": "no tempo certo"
+          },
+          "note": "The CNBB lectionary's words (fetched).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "animal",
+      "refs": [
+        "144:16"
+      ],
+      "latin": "et imples omne ánimal benedictióne",
+      "kind": "word",
+      "why": "'Ánimal' is any living, breathing being (ζῷον), not only beasts; Portuguese 'animal' now excludes man, and the grace before meals is said by men. 'Todo ser vivo' is the plain phrase for it and the lectionary's (fetched). 'Todo vivente' (MS1932 'todos os viventes') is a shade literary. 'Benedictióne' kept as 'bênção' against the Greek εὐδοκίας and the Hebrew's 'satisfy' (the lectionary's 'saciais … com fartura').",
+      "options": [
+        {
+          "label": "todo ser vivo",
+          "forms": {
+            "animal": "todo ser vivo"
+          },
+          "note": "Draft; the CNBB lectionary's words.",
+          "from": "draft"
+        },
+        {
+          "label": "todo animal",
+          "forms": {
+            "animal": "todo animal"
+          },
+          "note": "The cognate; heard as beasts only.",
+          "from": "draft"
+        },
+        {
+          "label": "todo vivente",
+          "forms": {
+            "animal": "todo vivente"
+          },
+          "note": "MS1932's word, in the singular.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "veritate",
+      "refs": [
+        "144:18"
+      ],
+      "latin": "ómnibus invocántibus eum in veritáte",
+      "kind": "word",
+      "why": "'In veritáte' without a possessive: 110:8 has 'em verdade'. 'Na verdade' is heard as 'actually'; 'com sinceridade' (MS1932) explains. 'Em verdade' keeps the noun; it is also the Gospel's 'truly' ('Em verdade vos digo'), a faint second hearing.",
+      "options": [
+        {
+          "label": "em verdade",
+          "forms": {
+            "veritate": "em verdade"
+          },
+          "note": "Draft = 110:8.",
+          "from": "draft"
+        },
+        {
+          "label": "na verdade",
+          "forms": {
+            "veritate": "na verdade"
+          },
+          "note": "Heard as 'actually'.",
+          "from": "draft"
+        },
+        {
+          "label": "com verdade",
+          "forms": {
+            "veritate": "com verdade"
+          },
+          "note": "Manner made explicit.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eorum",
+      "refs": [
+        "144:19"
+      ],
+      "latin": "et deprecatiónem eórum exáudiet",
+      "kind": "grammar",
+      "why": "D35 'prece', D3 'escutar'. 'A sua prece' after 'dos que o temem' could be the Lord's own; 'deles' fixes the Latin's 'eórum' (not 'suam'). The v1 stylist heard 'deles' as lowering the register at the flex and asked 'e atenderá a sua prece': the verb refused ('atender' is inténdere's, D3); his pronoun is option 2.",
+      "options": [
+        {
+          "label": "a prece deles",
+          "forms": {
+            "eorum": "a prece deles"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "a sua prece",
+          "forms": {
+            "eorum": "a sua prece"
+          },
+          "note": "Lighter; 'sua' ambiguous.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "loquetur",
+      "refs": [
+        "144:21"
+      ],
+      "latin": "Laudatiónem Dómini loquétur os meum",
+      "kind": "word",
+      "why": "'Loqui' is 'falar' in this psalm (144:5, 144:11), with an accusative of content as in 'falar paz' (121:8 row). 'Falará o louvor' keeps the verb; 'dirá' is dícere's (144:6, 11). The v1 stylist says 'falar' with a direct abstract object is not Portuguese and asks 'dirá' (option 2). Held: 144:5 and 144:11 keep loqui → falar and dícere → dizer apart (two Greek verbs, λαλέω / ἐρῶ), and the accusative of content stands in the 'falar paz' row (121:8). For Gustavo's ear: this is the line most likely to be changed.",
+      "options": [
+        {
+          "label": "falará",
+          "forms": {
+            "loquetur": "falará"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "dirá",
+          "forms": {
+            "loquetur": "dirá"
+          },
+          "note": "Smoother with an object; merges with dícere.",
+          "from": "draft"
+        },
+        {
+          "label": "publicará",
+          "forms": {
+            "loquetur": "publicará"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ele19",
+      "refs": [
+        "144:19"
+      ],
+      "latin": "Voluntátem timéntium se fáciet",
+      "kind": "grammar",
+      "why": "The Latin's subject is the Lord of 144:18, carried by the verb ending. The v1 ambiguity reader could not hear the subject in the verse and heard 'fazer a vontade' as obeying, or those who fear as the doers. The subject pronoun is supplied (grammar, D2), as MS1932 does ('Ele fará').",
+      "options": [
+        {
+          "label": "Ele fará",
+          "forms": {
+            "ele19": "Ele fará"
+          },
+          "note": "v2, from the ambiguity reader's finding; MS1932.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "Fará",
+          "forms": {
+            "ele19": "Fará"
+          },
+          "note": "v1: the Latin's bare verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "notam",
+      "refs": [
+        "144:12"
+      ],
+      "latin": "Ut notam fáciant",
+      "kind": "glossary",
+      "why": "The notum fácere row: 'fazer conhecer' (97:2 = 76:15, 15:11), kept for the cross-psalm repetition. The v1 stylist called it a calque and asked 'dar a conhecer' — the same request as Ps 97's stylist; refused for the row (rule 6). If the idiom is wanted, every place of the row follows.",
+      "options": [
+        {
+          "label": "Para fazerem conhecer",
+          "forms": {
+            "notam": "Para fazerem conhecer"
+          },
+          "note": "Draft = the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Para darem a conhecer",
+          "forms": {
+            "notam": "Para darem a conhecer"
+          },
+          "note": "v1 stylist; the Brazilian idiom.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "disperdet",
+      "refs": [
+        "144:20"
+      ],
+      "latin": "et omnes peccatóres dispérdet",
+      "kind": "glossary",
+      "why": "The dispérdere row: 'exterminar' (53:7, 17:41, 142:11b). The v1 stylist heard pest-control / genocide overtones and the hiatus 'e ex-', and asked 'destruirá'. Refused for the row (the future is safe from rule 3 here, but the verb is one decision across fifteen verses); kept as the option.",
+      "options": [
+        {
+          "label": "exterminará",
+          "forms": {
+            "disperdet": "exterminará"
+          },
+          "note": "Draft = the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "destruirá",
+          "forms": {
+            "disperdet": "destruirá"
+          },
+          "note": "v1 stylist.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "singulos",
+      "refs": [
+        "144:2"
+      ],
+      "latin": "Per síngulos dies",
+      "kind": "glossary",
+      "why": "The row 'per síngulos dies → todos os dias' (7:12, 41:11b). The v1 Latinist (minor) asked 'Cada dia': the distributive 'each day, one by one'. MS1932 has 'Cada dia'. Held for the row (rule 6: 7:12 and 41:11b read 'todos os dias'); if 'cada dia' is taken, the three places change together.",
+      "options": [
+        {
+          "label": "Todos os dias",
+          "forms": {
+            "singulos": "Todos os dias"
+          },
+          "note": "Draft = the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Cada dia",
+          "forms": {
+            "singulos": "Cada dia"
+          },
+          "note": "v1 Latinist; MS1932.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "omni",
+      "refs": [
+        "144:13a"
+      ],
+      "latin": "in omni generatióne et generatiónem",
+      "kind": "glossary",
+      "why": "The formula row: 'de geração em geração', copied from 44:18a (the same Latin), where the Latinist's 'em toda geração e geração' was refused twice as not Portuguese. The v2 gate here asked the same (minor); held for the formula (rule 6).",
+      "options": [
+        {
+          "label": "de geração em geração",
+          "forms": {
+            "omni": "de geração em geração"
+          },
+          "note": "Draft = 44:18a.",
+          "from": "glossary"
+        },
+        {
+          "label": "em toda geração e geração",
+          "forms": {
+            "omni": "em toda geração e geração"
+          },
+          "note": "v2 Latinist; 'omni' kept; not Portuguese.",
+          "from": "latinist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "144:1": "No titulus: DO's Latin file begins at 'Exaltábo te' (D7); the Greek's αἴνεσις τῷ Δαυιδ and MS1932's 'Louvor do mesmo David' are not rendered. 'in sǽculum, et in sǽculum sǽculi' → 'para sempre, e pelos séculos dos séculos' = 20:5 and the formula row (D23, D27); the same in 144:2, 144:21. 'Exaltábo te' → 'Eu vos exaltarei' = 29:2, 117:28a.",
+    "144:2": "'Per síngulos dies' → 'todos os dias' (the row; 7:12, 41:11b). The -éculos rhyme of 144:1/144:2 finals is the Latin's own (both end 'in sǽculum sǽculi') — accepted.",
+    "144:3": "Copied from 47:2 = 95:4 ('Grande é o Senhor, e muito digno de louvor'; D43). 'non est finis' → 'não tem fim': a verb Portuguese prefers (grammar, D2); the Latin's 'finis' stays 'fim'.",
+    "144:5": "'loquéntur' + accusative → 'falarão da …' (Portuguese needs the preposition). 'mirabília' → 'maravilhas' (70:17). 'sanctitátis' → 'santidade' (29:5).",
+    "144:6": "'dícere' → 'dizer' (with an object, as 28:9 'dirão glória'), kept apart from 'loqui → falar' and 'narráre → narrar' — the Latin varies three verbs of telling across 144:5–6 and 144:11, and so does the Portuguese. 'virtus' → 'poder' (the row); 'magnitúdo' → 'grandeza' (70:8, 78:11).",
+    "144:7": "'abundántia' → 'abundância' (the row). 'justítia tua exsultábunt' (ablative) → 'exultarão na vossa justiça' (the D44 build, 50:16).",
+    "144:8": "Copied from 102:8 word for word, as the miserátor row asks — though the Latin differs by one word: 102:8 has 'longánimis', 144:8 'pátiens'. Both are μακρόθυμος and both are 'paciente' by the row (D15's Greek test), so identical Portuguese is right here.",
+    "144:9": "'univérsis' → 'para com todos' (MS1932): the dative of interest. 'miseratiónes' → 'compaixões' (the row); the copula 'estão' supplied.",
+    "144:10": "The build of 137:4 ('Que vos deem graças, Senhor, todos os reis da terra'); D5. 'sancti' (ὅσιοι) → 'santos' (the row).",
+    "144:12": "'notam fácere' → 'fazer conhecer' (the notum fácere row, 97:2). 'poténtiam tuam': the Latin's 'your' kept against the Hebrew's 'his'.",
+    "144:13a": "'Regnum tuum regnum' — the repeated noun kept, 'um reino' supplied with the copula. 'in omni generatióne et generatiónem' → 'de geração em geração', copied from 44:18a as the formula row asks ('omni' absorbed). 'dominátio' → 'domínio' (102:22). Soft check: the mediant word 'séculos' is proparoxytone (Latin 'sæculórum' paroxytone) — accepted: the noun is the Latin's, and every rewording that moves it (e.g. 'de todos os séculos é o vosso reino') breaks the repeated 'reino … reino'. The second colon is 9 syllables short of the Latin because it copies the 44:18a formula.",
+    "144:13b": "The Gallican verse that the Hebrew (MT) lacks: the Hebrew file above has no line for it; the Greek (13a in Rahlfs) has it; the Latin follows the Greek. Built exactly as 144:17 so that the identical second colons read identically ('e santo em todas as suas obras'). 'verbis' → 'palavras' (verbum).",
+    "144:15": "144:15–16 are the grace before meals (Benedictio mensae, DO appendix) and the Gradual of Corpus Christi (with 'illis'): circulation.md. 'escam illórum' → 'lhes dais o seu alimento' — the genitive as a dative pronoun plus possessive (grammar); 'alimento' is the esca row's word for food God gives (135:25). The explicit 'tu' kept as 'vós'. 'Os olhos de todos esperam em vós, Senhor' is also the wording of every Brazilian text seen (fetched).",
+    "144:16": "'Áperis tu' → 'Vós abris' (pronoun kept; = the CNBB lectionary's words, fetched). 'abris' is indicative, so the ouvi/abri ban does not apply.",
+    "144:17": "'Justus' → 'justo' (the row); 'viis' → 'caminhos'. Second colon = 144:13b.",
+    "144:18": "The repetition 'ómnibus invocántibus eum … ómnibus invocántibus eum' kept word for word. Latin order ('Prope est Dóminus') kept.",
+    "144:19": "Pointing: the Latin has ‡ and * with no †; reproduced. Subject unexpressed, as in the Latin (the Lord of 144:18). 'salvos fáciet' → 'salvará' (the salvum fácere row).",
+    "144:20": "'dispérdere' → 'exterminar' (the row; 142:11b). 'dilígere' → 'amar'.",
+    "144:21": "'laudátio' → 'louvor' (110:10b)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps144.md; formulas checked with ps144/concord.py against every finished psalm (47:2, 102:8, 44:18a, 20:5, 137:4, 141:3, 95:2 copied or followed). No titulus (D7: DO's file has none). Brazilian circulation of 144:15–16 fetched, not asserted (circulation.md): the CNBB lectionary stanza is known; the mealtime use in Brazil was not confirmed by the pages fetched. Hard readings: 144:4 'Generátio et generátio'; 144:6 'terribílium tuórum' (neuter substantive); 144:14 'allevat … elísos'; 144:16 'omne ánimal'."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 144:1/144:2 final rhyme (the Latin's identical formula, accepted); 144:8 +4/+5 (copy of 102:8, 'misericordioso' is long); 144:13a mediant proparoxytone and second colon −9 (the 44:18a formula); 144:19 second and third colons short (−4, −3; the Latin's '‡ … exáudiet' has no shorter Portuguese that keeps 'eórum'); 144:2, 144:3, 144:4, 144:10, 144:12, 144:16, 144:20 within ±3–4 — accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Two minors, both held as options.",
+      "outcomes": [
+        {
+          "verse": "144:2",
+          "remark": "per síngulos dies distributive → 'Cada dia'",
+          "outcome": "option",
+          "decision": "singulos",
+          "reason": "The row's 'todos os dias' (7:12, 41:11b); the three places change together or not at all."
+        },
+        {
+          "verse": "144:6",
+          "remark": "'feitos' supplied → 'coisas terríveis'",
+          "outcome": "option",
+          "decision": "terribilium",
+          "reason": "The sense is acts (DRB), heard rightly by the ambiguity reader; 'coisas' vaguer."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Six remarks; none taken — each would swap a glossary word or construction; all kept as options. Best line 144:16, worst 144:5.",
+      "outcomes": [
+        {
+          "verse": "144:4",
+          "remark": "declararão → anunciarão",
+          "outcome": "option",
+          "decision": "pronuntiabunt",
+          "reason": "anunciar is annuntiáre's (D41)."
+        },
+        {
+          "verse": "144:5",
+          "remark": "genitive chain → 'glória magnífica'",
+          "outcome": "refused",
+          "reason": "Turns the Latin's noun into an adjective and breaks the mirror with 144:12; recorded in the decision's why."
+        },
+        {
+          "verse": "144:12",
+          "remark": "fazer conhecer → dar a conhecer",
+          "outcome": "option",
+          "decision": "notam",
+          "reason": "The notum fácere row (97:2, 76:15, 15:11), rule 6."
+        },
+        {
+          "verse": "144:19",
+          "remark": "deles → atenderá a sua prece",
+          "outcome": "option",
+          "decision": "eorum",
+          "reason": "atender is inténdere's (D3); 'sua' could be the Lord's."
+        },
+        {
+          "verse": "144:20",
+          "remark": "exterminará → destruirá",
+          "outcome": "option",
+          "decision": "disperdet",
+          "reason": "The dispérdere row, fifteen verses."
+        },
+        {
+          "verse": "144:21",
+          "remark": "falar o louvor → dirá",
+          "outcome": "option",
+          "decision": "loquetur",
+          "reason": "loqui / dícere kept apart in this psalm (λαλέω / ἐρῶ); 121:8 row."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 26 readings; unknown: 'magnificência' (both places). One fix taken.",
+      "outcomes": [
+        {
+          "verse": "144:19",
+          "remark": "subject of 'Fará' not audible; heard as obeying",
+          "outcome": "taken",
+          "decision": "ele19"
+        },
+        {
+          "verse": "144:5",
+          "remark": "magnificência unknown",
+          "outcome": "refused",
+          "reason": "The magnificéntia row (eighth place); 'majestade' is majéstas's; option kept."
+        },
+        {
+          "verse": "144:7",
+          "remark": "'farão jorrar a memória' image unclear; 'suavidade' heard as gentleness",
+          "outcome": "refused",
+          "reason": "The eructáre and suávis rows; 'proferirão' and 'bondade' are options."
+        },
+        {
+          "verse": "144:21",
+          "remark": "'o seu santo nome' could be the flesh's",
+          "outcome": "refused",
+          "reason": "Likely heard as the Lord's (the reader's own verdict)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 144:19 'Ele fará' (subject supplied, ambiguity reader). New decisions exposing held words: singulos (144:2), notam (144:12), disperdet (144:20). Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Gate on v2: no major; two minors, both held as options.",
+      "outcomes": [
+        {
+          "verse": "144:2",
+          "remark": "per síngulos dies → 'Cada dia' (repeated from v1)",
+          "outcome": "option",
+          "decision": "singulos",
+          "reason": "The row's 'todos os dias' (7:12, 41:11b); change together or not at all."
+        },
+        {
+          "verse": "144:13a",
+          "remark": "'omni' dropped → 'em toda geração e geração'",
+          "outcome": "option",
+          "decision": "omni",
+          "reason": "The 44:18a formula; the same remark refused there twice as not Portuguese."
+        }
+      ]
+    }
+  ]
+}

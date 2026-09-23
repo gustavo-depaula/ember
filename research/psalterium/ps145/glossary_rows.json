@@ -1,0 +1,23 @@
+{
+  "append": [
+    {"row": "| ánima mea |", "text": "**Ps 145:2a *Lauda, ánima mea, Dóminum* → *Louva, ó minha alma, o Senhor*** — 102:1's build (the Latin's order, *tu*, *ó*); head of the Tuesday Lauds antiphon (+ 145:8b) and of the Offertory Pasc3-0 / Pasc7-5. No reader objected."},
+    {"row": "| confídere in |", "text": "**Ps 145:2b *Nolíte confídere in princípibus* → *Nos príncipes não confieis*** — verb to the end of the colon for an oxytone mediant (the v1 stylist); *príncipes* as 117:9. The CNBB LH has *Não ponhais vossa fé nos que mandam* (Hebrew-based; fetched, ps145/circulation.md)."},
+    {"row": "| dispérdere |", "text": "**Ps 145:9 *et vias peccatórum dispérdet* → *e destruirá os caminhos dos pecadores*** — a local departure: the stylist found *exterminar* wrong with a thing as object and the ambiguity reader heard the sinners wiped out. **Proposed:** *destruir* where the object is a thing and the form is not an imperative (the rule-3 ban is on *destruí-os*); *exterminar* stays for people. 11:4 *lábios* would fall under it — not changed here."},
+    {"row": "| adjútor |", "text": "Ps 145:5 *Beátus, cujus Deus Jacob adjútor ejus* → *Bem-aventurado aquele cujo auxílio é o Deus de Jacó* (83:6's build); the Latinist (v1, minor) asked *auxiliador* again — held, option."},
+    {"row": "| íncola |", "text": "**Ps 145:9 *Dóminus custódit ádvenas* → *O Senhor guarda os forasteiros*** — here the Greek is προσηλύτους, not πάροικος; the Portuguese word serves both (= 93:6's widow–stranger–orphan triad). *estrangeiros* (DM1962, CNBB LH) the option. No reader objected."},
+    {"row": "| órphanus / pupíllus |", "text": "Ps 145:9 *pupíllum et víduam suscípiet* → *amparará o órfão e a viúva* (Latin order and future kept; D19 *amparar*)."},
+    {"row": "| fácere judícium |", "text": "**Ps 145:7a *facit judícium injúriam patiéntibus* → *faz juízo para os que sofrem injustiça*** (= 102:6). The stylist heard *faz juízo* as 'behaves sensibly' (*toma juízo*) and asked *julga a causa dos*; the ambiguity reader heard 'does justice for the wronged' first. Held; options *faz justiça aos* (MS1932, CNBB LH; spends *justítia*'s word, chimes with *injustiça*) and the stylist's."},
+    {"row": "| injúriam pati |", "text": "**Ps 145:7a applied** (*faz juízo para os que sofrem injustiça*)."},
+    {"row": "| compedíti · sólvere · interémpti |", "text": "**Ps 145:7b applied: *O Senhor solta os acorrentados*.** No reader objected."},
+    {"row": "| elísi (*érigit omnes elísos*) |", "text": "**Ps 145:8b copies it (v3): *O Senhor ergue os esmagados*** — Ps 145 drafts 1–2 had *derrubados* (understood by its ambiguity reader; option); changed for rule 6 and the Tuesday Lauds antiphon, which joins 145:2a + 8b (*Louva, ó minha alma, o Senhor, que ergue os esmagados e ama os justos*). Draft 3 unread by a gate."},
+    {"row": "| in sǽcula (alone) |", "text": "**Ps 145:10 applied** (*O Senhor reinará pelos séculos, ó Sião, o teu Deus*)."},
+    {"row": "| *In generatiónem et generatiónem* (118:90;", "text": "**Ps 145:10 applied.**"},
+    {"row": "| *qui fecit cælum et terram* (113:23, 120:2, 123:8, 133:3, 145:5–6) |", "text": "**Ps 145:5 applied** — *no Senhor, seu Deus: * que fez o céu e a terra, o mar, e tudo o que neles há*: the relative right after *seu Deus*; the ambiguity reader took it as God's."}
+  ],
+  "terms": [
+    "| revérti in terram suam (of a man at death) | voltar à terra (*Sairá o seu espírito, e voltará à terra*) | open — **for Gustavo** | Ps 145:4. *voltará à sua terra* (the Latin word for word, v1) was heard by the blind reader as going home to one's native land; v2 drops the possessive. **The v2 Latinist gate marked the lost *suam* major; held** (a wrong first hearing against a lost reflexive; D20's trade). Options: *à sua terra*, *ao seu pó* (MS1932; 103:29 is *in púlverem suum* → *ao seu pó*). Only place (grep). |"
+  ],
+  "formulas": [
+    "| *Lauda, ánima mea, Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero* (145:2a, the Missal has *ero*; Offertory Pasc3-0, Pasc7-5) · *Laudábo * Deum meum in vita mea* (antiphon, Psalmi major [Day3 Laudes1], [Daya6 Vespera], monastic feria 7 Vespers) · *Lauda * ánima mea Dóminum, qui érigit elísos et díligit justos* ([Day3 Laudes2]) — grep | *Louva, ó minha alma, o Senhor, louvarei o Senhor na minha vida: entoarei salmos ao meu Deus enquanto eu existir* · *Louvarei o meu Deus na minha vida* · *Louva, ó minha alma, o Senhor, que ergue os esmagados e ama os justos* | working — Ps 145; the last colon = 103:33 (*quámdiu sum*) |"
+  ]
+}

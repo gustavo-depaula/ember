@@ -1,0 +1,353 @@
+{
+  "psalm": 149,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "149:1": "Cantai ao Senhor um cântico novo: * {v1cop}.",
+    "149:2": "Alegre-se Israel naquele que o fez: * e os filhos de Sião exultem no seu rei.",
+    "149:3": "Louvem o seu nome {choro}: * com tamborim e saltério entoem-lhe salmos:",
+    "149:4": "Porque o Senhor {benepl}: * e exaltará os mansos {salutem}.",
+    "149:5": "Exultarão os santos na glória: * {cubil}.",
+    "149:6": "{v6cop}: * e espadas de dois gumes nas suas mãos.",
+    "149:7": "Para fazer vingança entre as nações: * {increp} entre os povos.",
+    "149:8": "Para {alligare} os seus reis em grilhões: * e os seus nobres em algemas de ferro.",
+    "149:9": "Para {judicium} o juízo escrito: * {gloria}."
+  },
+  "decisions": [
+    {
+      "id": "copula",
+      "refs": [
+        "149:1",
+        "149:6"
+      ],
+      "latin": "laus ejus in ecclésia sanctórum · Exaltatiónes Dei in gútture eórum",
+      "kind": "grammar",
+      "why": "Both colons are verbless in the Latin and in the Greek (ἡ αἴνεσις αὐτοῦ ἐν ἐκκλησίᾳ ὁσίων; αἱ ὑψώσεις τοῦ θεοῦ ἐν τῷ λάρυγγι αὐτῶν). A verb may be supplied (grammar, D2), but here any verb decides a question the Latin leaves open: DRB supplies a jussive in 149:1 ('let his praise be'), MS1932 a future in 149:6 ('estarão'), and MS1932's '(ressoe)' in 149:1 is his own bracketed gloss. Is the praise *now* in the assembly, or bidden to be? Are the praises in their throat a description or a wish? The verbless Portuguese is a sentence Portuguese knows (the psalter already has verbless colons standing: 83:4b 'meu Rei e meu Deus', 13:3b's third colon), and in 149:6 it is exactly what lets 149:7–9 hang on it as purposes, as the Latin's gerundives do. Kept verbless in both, so the two nominal colons of the psalm stay alike.",
+      "options": [
+        {
+          "label": "verbless (o seu louvor na assembleia … / As exaltações de Deus na sua garganta)",
+          "forms": {
+            "v1cop": "o seu louvor na assembleia dos santos",
+            "v6cop": "{exalt} na sua garganta"
+          },
+          "note": "Ruling: the Latin's nominal clauses, tense and mood left open.",
+          "from": "draft"
+        },
+        {
+          "label": "supplied verb (esteja / estarão)",
+          "forms": {
+            "v1cop": "o seu louvor esteja na assembleia dos santos",
+            "v6cop": "{exalt} estarão na sua garganta"
+          },
+          "note": "DRB's jussive in 149:1, MS1932's future in 149:6 ('Os louvores de Deus estarão na sua boca'); 33:2 supplies 'estará' for 'semper laus ejus in ore meo', where the adverb asks for a verb. Closes the open mood.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exalt",
+      "refs": [
+        "149:6"
+      ],
+      "latin": "Exaltatiónes Dei",
+      "kind": "word",
+      "why": "*exaltátio* (ὕψωσις) is the noun of *exaltáre → exaltar* (glossary): the lifting-up of God, sung. The plural is the Latin's. MS1932 and DRB have 'louvores / high praise', which is the sense but spends *louvor*, the word of *laus* two verses before (149:1, 149:3 *laudent*) — the psalm would say one word for two. DM1962 has the singular 'A exaltação de Deus'. The genitive is open as in Latin (God exalted, or God's own exalting); the plain reading is the first.",
+      "options": [
+        {
+          "label": "As exaltações de Deus",
+          "forms": {
+            "exalt": "As exaltações de Deus"
+          },
+          "note": "Ruling: the exaltáre row's noun, the Latin's plural.",
+          "from": "glossary"
+        },
+        {
+          "label": "A exaltação de Deus",
+          "forms": {
+            "exalt": "A exaltação de Deus"
+          },
+          "note": "DM1962's singular; lighter at the head of the verse, loses the Latin's number.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Os louvores de Deus",
+          "forms": {
+            "exalt": "Os louvores de Deus"
+          },
+          "note": "MS1932; merges exaltátio with laus of 149:1 and 149:3.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "choro",
+      "refs": [
+        "149:3"
+      ],
+      "latin": "in choro",
+      "kind": "word",
+      "why": "*chorus* is first a ring-dance with song (L&S 'a dance in a ring, a choral dance'), then the band that dances and sings, then a choir; the Greek ἐν χορῷ and the Hebrew בְמָחוֹל are the dance. The cognate *coro* keeps the Latin's word and its later, ecclesiastical sense (DRB 'in choir'; MS1932 'Louvem em coro'); 'com danças' (the CNBB Liturgia das Horas, from the Hebrew) names the dance and loses the singing. 'em coro' (together, in chorus) rather than 'no coro' (a place in a church). 150:4 *in týmpano et choro* will meet the same word and should agree.",
+      "options": [
+        {
+          "label": "em coro",
+          "forms": {
+            "choro": "em coro"
+          },
+          "note": "Ruling: the cognate, MS1932's wording.",
+          "from": "draft"
+        },
+        {
+          "label": "na dança",
+          "forms": {
+            "choro": "na dança"
+          },
+          "note": "The first classical sense and the Greek's; heard as dance only, without the song.",
+          "from": "draft"
+        },
+        {
+          "label": "no coro",
+          "forms": {
+            "choro": "no coro"
+          },
+          "note": "The Latin's preposition to the letter; heard as the choir-stalls.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benepl",
+      "refs": [
+        "149:4"
+      ],
+      "latin": "beneplácitum est Dómino in pópulo suo",
+      "kind": "glossary",
+      "why": "The impersonal *beneplácitum est Dómino* is 146:11 word for word (*Beneplácitum est Dómino super timéntes eum*), which Ps 146 (translated in parallel) renders 'O Senhor se agrada dos que o temem' (placére → agradar, D44). The same verb here; the Lord made subject is grammar (D2). *in pópulo* with *agradar-se de* becomes 'do seu povo'; MS1932's 'tem-se comprazido no seu povo' keeps the *in* but brings in a second verb and a perfect the Latin does not have. The CNBB 'o Senhor ama seu povo' (and the Lectionary refrain 'O Senhor ama seu povo de verdade', circulation.md) says love, another word.",
+      "options": [
+        {
+          "label": "se agrada do seu povo",
+          "forms": {
+            "benepl": "se agrada do seu povo"
+          },
+          "note": "Ruling: = 146:11's build.",
+          "from": "glossary"
+        },
+        {
+          "label": "se compraz no seu povo",
+          "forms": {
+            "benepl": "se compraz no seu povo"
+          },
+          "note": "MS1932's verb in the present; keeps *in*; breaks the kinship with 146:11.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "salutem",
+      "refs": [
+        "149:4"
+      ],
+      "latin": "in salútem",
+      "kind": "grammar",
+      "why": "*in* with the accusative: 'unto salvation' (DRB), the end the exalting reaches. The Greek has ἐν σωτηρίᾳ (in salvation), but the Latin's case is followed (rule 1). 'na salvação' would be the Greek's. MS1932 'e salvá-los' turns the noun into a verb. *salus → salvação* (D6).",
+      "options": [
+        {
+          "label": "para a salvação",
+          "forms": {
+            "salutem": "para a salvação"
+          },
+          "note": "Ruling: the Latin's accusative of goal.",
+          "from": "draft"
+        },
+        {
+          "label": "na salvação",
+          "forms": {
+            "salutem": "na salvação"
+          },
+          "note": "The Greek's ἐν σωτηρίᾳ, not the Latin's case.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cubil",
+      "refs": [
+        "149:5"
+      ],
+      "latin": "lætabúntur in cubílibus suis",
+      "kind": "order",
+      "why": "This verse is said alone as a versicle and response: V. *Exsultábunt Sancti in glória.* R. *Lætabúntur in cubílibus suis* (Commune C3, Sancti 11-09, missa Ordo/Post.txt, grep), so the second colon must open a sentence by itself. The verb at the head needs its pronoun: *alegrar-se-ão* (mesóclise, correct but stiff in a Brazilian mouth) or *se alegrarão* (proclisis at the head of a sentence, the spoken form, faulted in written norm). Moving the phrase first — 'nos seus leitos se alegrarão' — avoids both, but checks.py flagged its final as a rhyme with 149:4 'salvação', which the Latin does not have (rule 5 counts that a defect). So the Latin's order with the mesóclise: 'alegrar-se-ão nos seus leitos'. *cubíle → leito* as 4:5 'nos vossos leitos' (the lectus row notes the two never meet). MS1932's 'mansões' interprets.",
+      "options": [
+        {
+          "label": "alegrar-se-ão nos seus leitos",
+          "forms": {
+            "cubil": "alegrar-se-ão nos seus leitos"
+          },
+          "note": "Ruling: the Latin's order; the response reads alone. Mesóclise, which here, at the head of a versicle's response in a liturgical register, reads naturally enough and is the only correct form in that place.",
+          "from": "draft"
+        },
+        {
+          "label": "nos seus leitos se alegrarão",
+          "forms": {
+            "cubil": "nos seus leitos se alegrarão"
+          },
+          "note": "The phrase first (chiasm with the first colon); avoids the mesóclise, but its final 'alegrarão' rhymes with 149:4's final 'salvação' (checks.py flag), an echo the Latin (salútem / suis) does not have.",
+          "from": "draft"
+        },
+        {
+          "label": "se alegrarão nos seus leitos",
+          "forms": {
+            "cubil": "se alegrarão nos seus leitos"
+          },
+          "note": "The Latin's order, Brazilian spoken proclisis.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "increp",
+      "refs": [
+        "149:7"
+      ],
+      "latin": "increpatiónes in pópulis",
+      "kind": "glossary",
+      "why": "*increpátio → repreensão* is the glossary's (17:16b, 75:7, 103:7 'À vossa repreensão'; 38:12 plural 'nas repreensões'). ἐλεγμούς is reproof, conviction. DRB 'chastisements' and MS1932 'o castigo' (the CNBB 'castigo' too) lean to punishment; *castigar* is *corrípere*'s word (D21), so 'castigos' would both harden the Latin and take another verb's noun. The brief asks that 149:6–9 be neither softened nor intensified: the Latin's own word is kept, its plural too. The colon is elliptical in the Latin (it hangs on *ad faciéndam*) and stays so.",
+      "options": [
+        {
+          "label": "repreensões",
+          "forms": {
+            "increp": "repreensões"
+          },
+          "note": "Ruling: the increpátio row, the Latin's plural.",
+          "from": "glossary"
+        },
+        {
+          "label": "castigos",
+          "forms": {
+            "increp": "castigos"
+          },
+          "note": "DRB 'chastisements', MS1932 'o castigo'; corrípere's word (D21), harder than the Latin.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "alligare",
+      "refs": [
+        "149:8"
+      ],
+      "latin": "Ad alligándos",
+      "kind": "word",
+      "why": "*allígare* is to bind, tie to (δῆσαι). With fetters and manacles as the means, Portuguese says 'prender em grilhões' (MS1932 'prender … com grilhões'); 'atar' is the verb to the letter and keeps the cord of the image, but 'atar em grilhões' is not how one speaks of iron. *prender* is the open working word for *comprehéndere* (D25); the two never meet in this psalm. *compédes → grilhões* as 104:18; *mánicæ férreæ → algemas de ferro*; *in* kept as 'em'. The verb is neither softened nor made harsher.",
+      "options": [
+        {
+          "label": "prender",
+          "forms": {
+            "alligare": "prender"
+          },
+          "note": "Ruling: the idiom with fetters; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "atar",
+          "forms": {
+            "alligare": "atar"
+          },
+          "note": "Bind to the letter; odd with iron.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "judicium",
+      "refs": [
+        "149:9"
+      ],
+      "latin": "Ut fáciant in eis judícium conscríptum",
+      "kind": "glossary",
+      "why": "The *fácere judícium* row is open with two builds; 118:84 'quando fareis juízo sobre os que me perseguem?' is the one that fits a judgment carried out upon persons, and 'sobre eles' renders *in eis* as it does there. The personal infinitive 'fazerem' marks the Latin's change from the gerundives of 149:7–8 (*ad faciéndam, ad alligándos*) to *ut fáciant*, and keeps *fácere* the same verb as 149:7 'fazer vingança'. MS1932 'executar contra eles a sentença escrita' is plainer but another verb and another noun (*sentença*, which DM1962 uses for *judícia* in Ps 118 and the glossary does not). *judícium → juízo* (D15); *conscríptum → escrito*.",
+      "options": [
+        {
+          "label": "fazerem sobre eles",
+          "forms": {
+            "judicium": "fazerem sobre eles"
+          },
+          "note": "Ruling: 118:84's build; fácere kept, as in 149:7.",
+          "from": "glossary"
+        },
+        {
+          "label": "executarem sobre eles",
+          "forms": {
+            "judicium": "executarem sobre eles"
+          },
+          "note": "MS1932's verb; plainer, loses the repeated fácere.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fazerem neles",
+          "forms": {
+            "judicium": "fazerem neles"
+          },
+          "note": "*in eis* to the letter; 'fazer neles o juízo' is unclear.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gloria",
+      "refs": [
+        "149:9"
+      ],
+      "latin": "glória hæc est ómnibus sanctis ejus",
+      "kind": "ambiguity",
+      "why": "The Latin can be read 'this glory is for all his saints' (DRB) or 'this is (a) glory for all his saints' (*hæc* as subject; the Greek δόξα αὕτη ἐστίν, anarthrous, leans that way). The dative is 'for'. 'esta glória é para todos os seus santos' keeps the Latin's words in the Latin's order and leaves *hæc* where the Latin has it. The dative as 'para' also matches 148:14b 'Hino para todos os seus santos' (Ps 148, in parallel): the All Saints antiphon (Sancti 11-01) joins 148:14b to this colon — *Hymnus ómnibus Sanctis ejus … glória hæc est ómnibus sanctis ejus* — and the two halves now end alike. 'esta é a glória de todos os seus santos' is smoother but turns the dative into possession and decides the reading.",
+      "options": [
+        {
+          "label": "esta glória é para todos os seus santos",
+          "forms": {
+            "gloria": "esta glória é para todos os seus santos"
+          },
+          "note": "Ruling: DRB's reading, the Latin's order; = 148:14b's dative.",
+          "from": "DRB"
+        },
+        {
+          "label": "esta é a glória de todos os seus santos",
+          "forms": {
+            "gloria": "esta é a glória de todos os seus santos"
+          },
+          "note": "Smoother; *hæc* as subject, the dative made possessive.",
+          "from": "draft"
+        },
+        {
+          "label": "esta é uma glória para todos os seus santos",
+          "forms": {
+            "gloria": "esta é uma glória para todos os seus santos"
+          },
+          "note": "The Greek's anarthrous reading.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "149:1": "No title: DO's Psalm149.txt opens on 'Cantáte Dómino' and has no 'Allelúja' line (the LXX and MS1932 have one; DRB ends the psalm with 'Alleluia'). Nothing to translate under D7, as Pss 145–148. 'Cantai ao Senhor um cântico novo' = 95:1 and 97:1 (concord.py); 'na assembleia dos santos' = 88:6 'in ecclésia sanctórum' (D34 ecclésia → assembleia; sanctus ὅσιος → santo). The whole verse is a versicle in the Missal and Office (06-15, 10-31, 11-05 Reliquiae) and reads alone.",
+    "149:2": "'naquele que o fez': *fácere → fazer* as in 'que fez o céu e a terra' (120:2 etc.); MS1932 'criou' is *creáre*'s word. 'Alegre-se … exultem' as 47:12 'Alegre-se o monte Sião, e exultem as filhas de Judá'. *in rege suo → no seu rei*.",
+    "149:3": "*týmpanum → tamborim* (67:26, 80:3), *psaltérium → saltério* (32:2 'com o saltério'), *psállere → entoar salmos* (D25; 32:2 'entoai-lhe salmos'). The Latin's order, instruments before the verb, is sayable and kept. Final colon as the Latin. 'com tamborim e saltério' without articles, as the Latin: the colon was +3 syllables with them (checks.py).",
+    "149:5": "*exsultáre → exultar*, *sancti → os santos* (glossary). The first colon is also the versicle 'Exsultábunt Sancti in glória' and reads alone.",
+    "149:6": "*gládii ancípites → espadas de dois gumes* (plural kept; *gládius → espada*; DM1962 and the CNBB 'de dois gumes', MS1932 'de dois fios'). *guttur → garganta* (5:11a, 113:15; the Common of Martyrs antiphon has *fáucibus* here, also *garganta* by the fauces row). The two *eórum* are 'sua … suas'. Not softened: the swords stay in their hands.",
+    "149:7": "*vindícta → vingança* (57:11, 139:13 'a vingança dos pobres'); 'fazer vingança' keeps *fácere*, repeated in 149:9. *in natiónibus … in pópulis → entre as nações … entre os povos* (MS1932, DRB 'upon … among'); gentes/pópuli → nações/povos. Not softened: MS1932's bracketed '(a divina)' is a gloss and is not taken.",
+    "149:8": "'os seus reis … os seus nobres': the *eórum* is the nations', as in the Latin; *nóbiles → nobres* (DRB 'nobles'; MS1932 'príncipes' is *príncipes*' word). 'em grilhões … em algemas de ferro' keeps the Latin's *in* twice.",
+    "149:9": "No 'Alleluia' at the end: not in DO's Latin."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps149.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Precedents by ps149/concord.py (copied from ps145/concord.py): 95:1 / 97:1 (Cantáte Dómino cánticum novum), 88:6 (in ecclésia sanctórum), 47:12 (lætétur … exsúltent), 32:2 / 80:3 (saltério, tamborim, entoar salmos), 146:11 (beneplácitum est Dómino, Ps 146 in parallel), 4:5 (cubíle → leito), 5:11a / 113:15 (guttur), 104:18 (compédes → grilhões), 17:16b / 38:12 (increpátio), 57:11 / 139:13 (vindícta), 118:84 (fácere judícium sobre), 148:14b (dative 'para todos os seus santos', Ps 148 in parallel). Liturgical uses by grep of content/do Latin: 149:1 as versicle (missa 06-15, 10-31; horas 11-05 Reliquiae); 149:5 as V./R. (Commune C3, Sancti 11-09, missa Ordo/Post.txt) and with 149:6a as antiphon (Commune C3a, 'in fáucibus eórum') and Alleluia verse (missa 08-01r); 149:9b joined to 148:14b in the All Saints antiphon (horas Sancti 11-01). Brazilian circulation fetched: CNBB Liturgia das Horas Sl 149 (consult/lh-cnbb-salmo-149.html; circulation.md), Lectionary refrain from a web search. D7: no title in DO's Latin, none added. Hard readings: 149:1 / 149:6 verbless colons; 149:3 chorus; 149:5 the versicle's response; 149:7 increpatiónes; 149:9 glória hæc est."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. First run: 149:3b +3 (articles dropped, as the Latin has none); 149:4/149:5 finals rhymed (-ão), removed by giving 149:5b the Latin's order with mesóclise. Accepted: 149:4a −4, 149:6b −3, 149:8a −5 — Portuguese says these colons in fewer syllables with nothing left out (the Latin's long gerundive and proparoxytone endings); padding would add words the Latin lacks."
+    }
+  ]
+}

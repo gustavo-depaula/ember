@@ -1,0 +1,31 @@
+{
+  "append": [
+    {"row": "| præcéptum |", "text": "**Ps 148:6 *præcéptum pósuit, et non præteríbit* → *pôs um decreto, e não passará*** — the list's last place, held; the v1 stylist asked *lei* ('bureaucratic'), refused (lex's word), kept as an option."},
+    {"row": "| cornu |", "text": "**Ps 148:14a *exaltávit cornu pópuli sui* → *exaltou o chifre do seu povo*** — the row's last listed place; the stylist named the connotation and asked to keep the image; the ambiguity reader heard a literal horn or the insult. Kept."},
+    {"row": "| spíritus procellárum |", "text": "**Ps 148:8 copied (*Fogo, granizo, neve, gelo, vento de tempestades*).** The v1 stylist asked the article (*vento das tempestades*: 'a label, not a named power'); refused for 10:7's identity, option — if taken, both move."},
+    {"row": "| fácere verbum", "text": "**Ps 148:8 *quæ fáciunt verbum ejus* → *que cumprem a sua palavra*** — applied, 3rd person as the Latin (MS1932 and DM1962 turn it into 2nd). No reader remarked."},
+    {"row": "| collis |", "text": "Ps 148:9 *Montes, et omnes colles* → *Montes, e todas as colinas* — applied."},
+    {"row": "| oves / boves / pécora", "text": "**Ps 148:10 *Béstiæ, et univérsa pécora* → *Feras, e todo o gado*** — beside *béstiæ*, 8:8's *animais* would swallow the wild beasts; *gado* (134:7b) keeps wild / tame apart. *todos os animais* option. No reader remarked."},
+    {"row": "| statúere |", "text": "**Ps 148:6 *Státuit ea in ætérnum* → *Firmou-as para sempre*** — as 104:10 (statúere beside *præcéptum*); *-as* takes 148:5's *as coisas*. *Estabeleceu-as* (MS1932) option. No reader remarked."},
+    {"row": "| béstiæ (θηρία) |", "text": "Ps 148:10 *Béstiæ* → *Feras* (beside *pécora → gado*); the ambiguity reader heard wild animals."},
+    {"row": "| lignum (a tree) |", "text": "Ps 148:9 *ligna fructífera* → *árvores frutíferas* — applied; no remark."},
+    {"row": "| senes |", "text": "**Ps 148:12 *senes cum junióribus* → *os anciãos com os mais jovens*** — *junióres* (comparative of *júvenis*) keeps the echo of the verse's first word *Jovens*; the ambiguity reader found the overlap slightly confusing, as the Latin's is."},
+    {"row": "| pennæ |", "text": "Ps 148:10 *vólucres pennátæ* → *aves aladas*, as 77:27."},
+    {"row": "| mandáre |", "text": "**Ps 148:5 copies 32:9: *ele ordenou, e foram criadas*** — the formula; the v1 stylist kept *ordenou*."},
+    {"row": "| appropinquáre |", "text": "Ps 148:14b *pópulo appropinquánti sibi* → *o povo que dele se aproxima* (the stylist's order, so the colon does not end on *dele*)."},
+    {"row": "| virtus (δύναμις)", "text": "**Ps 148:2 *omnes virtútes ejus* → *todos os seus poderes*** (= 102:21, beside the angels); the ambiguity reader again heard abstract powers, not beings — the second place; *exércitos* option. The Benedicite (Dan 3:59 *omnes virtútes Dómini*) will meet it."},
+    {"row": "| confitéri (to God)", "text": "**Ps 148:14a the noun *Conféssio ejus super cælum et terram* → *A sua confissão está acima do céu e da terra*** — the fourth praise-place after 95:6, 103:1b, 110:3, held with them (for Gustavo together). With *ejus* the objective genitive may be heard as God's own confessing; the stylist and the ambiguity reader heard the confessional; the Latinist passed it twice. *O seu louvor* (MS1932, DRB) would merge with laudáre, said ten times in the psalm."},
+    {"row": "| abýssus / cataráctæ |", "text": "Ps 148:7 *dracónes, et omnes abýssi* → *dragões, e todos os abismos* (dracónes as 73:13)."},
+    {"row": "| exaltáre |", "text": "**Ps 148:12 *quia exaltátum est nomen ejus solíus* → *porque só o seu nome é exaltado*** (the state; the colon ends two antiphons, Quad3-0 and Nat2-0). The v2 Latinist (minor) wanted *só* on the person (*o nome só dele*); held, option. 148:14a *exaltávit cornu* → *exaltou o chifre*."}
+  ],
+  "terms": [
+    "| *de cælis … de terra* (Laudáte Dóminum …) | *desde os céus … desde a terra* (*Louvai o Senhor desde os céus*) | open | Ps 148:1, 148:7 (ἐκ). *dos céus* is heard as 'the Lord of the heavens'; *desde* keeps 'from'. The antiphon *Omnes Ángeli ejus * laudáte Dóminum de cælis* (Psalmi major; Michaelmas, martyrs) follows. The ambiguity reader heard 'those in the heavens, praise' — right. |",
+    "| glácies | gelo | open | Ps 148:8 (κρύσταλλος); kept apart from *pruína → geada* (77:47), since the Benedicite sets *rores et pruína* beside *glácies et nives* (Dan 3:63–64). 147:6 *crystállum* is another word. |",
+    "| *super cælos* where 'sobre' could be heard as 'about' | *acima de* (*as águas acima dos céus*; *acima do céu e da terra*) | open | Ps 148:4, 148:14a (the v1 stylist: *confissão … sobre o céu e a terra* heard as 'a confession about'); the relative *quæ super cælos sunt* folded into the phrase (grammar). 8:2b, 56:6, 107:5 keep *sobre os céus*, where no such hearing threatens. The Benedicite (Dan 3:59) has the same *aquæ omnes, quæ super cælos sunt*. |",
+    "| *Hymnus ómnibus sanctis ejus* (the datives, verbless) | *Hino para todos os seus santos: para os filhos de Israel, o povo que dele se aproxima* | open | Ps 148:14b; *para* keeps the hymn's owner open (theirs to sing or to receive) — MS1932 decides for singing; the ambiguity reader heard it addressed to the saints first. |"
+  ],
+  "formulas": [
+    "| *Quia (32:9 Quóniam) ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt* (32:9 = 148:5) | *Porque ele disse, e as coisas foram feitas: * ele ordenou, e foram criadas* | working — Ps 32, copied by Ps 148 (the v1 stylist of 148 asked it bare, the 32 stylist asked *as coisas*; held for identity) |",
+    "| *Laudáte Dóminum de cælis* · *Omnes Ángeli ejus * laudáte Dóminum de cælis* · *Sol et luna * laudáte Deum: quia exaltátum est nomen ejus solíus* · *Júvenes et vírgines, * senes cum junióribus laudáte nomen Dómini, quia exaltátum est nomen ejus solíus* (148:1–3, 12; Lauds antiphons, Psalmi major; Quad3-0; Nat2-0 — grep) | *Louvai o Senhor desde os céus* · *Todos os seus anjos, louvai o Senhor desde os céus* · *porque só o seu nome é exaltado* | open — Ps 148 (antiphon wordings not drafted, only the psalm's colons) |"
+  ]
+}

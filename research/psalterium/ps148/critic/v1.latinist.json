@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "087c0ae17565159ac80a2780d4ea89e1f762a52bd1fc8e9036b02e7d94af7838",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T09:31:39+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation follows the Latin closely throughout: tense, voice, number and person are kept, Septuagintal readings (dracones, cornu, confessio, populo appropinquanti sibi) are rendered literally, and the only additions are subjects and copulas Portuguese needs ('as coisas' in 148:5, 'está' in 148:14a). Pointing marks match the Latin in every verse (148:12 keeps † then *). The only difference is that the '(13)' verse-number annotation inside 148:12 does not appear in the Portuguese. That is a matter of layout, not content.\"}\n"
+}

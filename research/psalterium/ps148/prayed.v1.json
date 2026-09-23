@@ -1,0 +1,512 @@
+{
+  "psalm": 148,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "148:1": "Louvai o Senhor {decaelis}: * louvai-o nas alturas.",
+    "148:2": "Louvai-o, todos os seus anjos: * louvai-o, todos os seus {virtutes}.",
+    "148:3": "Louvai-o, sol e lua: * louvai-o, todas as estrelas {lumen}.",
+    "148:4": "Louvai-o, céus dos céus: * e todas as águas que estão sobre os céus louvem o nome do Senhor.",
+    "148:5": "Porque ele disse, e {facta}: * ele {mandavit}, e {creata}.",
+    "148:6": "{statuit} para sempre, e pelos séculos dos séculos: * pôs um decreto, e {praeteribit}.",
+    "148:7": "Louvai o Senhor {deterra}, * {dracones}, e todos os abismos.",
+    "148:8": "Fogo, granizo, neve, {glacies}, {spiritus}: * que {faciunt} a sua palavra:",
+    "148:9": "Montes, e todas as colinas: * árvores frutíferas, e todos os cedros.",
+    "148:10": "Feras, e {pecora}: * serpentes, e aves aladas:",
+    "148:11": "Reis da terra, e todos os povos: * príncipes, e todos os juízes da terra.",
+    "148:12": "Jovens e virgens: † {senes} louvem o nome do Senhor: * porque {solius}.",
+    "148:14a": "{confessio} sobre o céu e a terra: * e exaltou o chifre do seu povo.",
+    "148:14b": "{hymnus}: * {filiis}."
+  },
+  "decisions": [
+    {
+      "id": "decaelis",
+      "refs": [
+        "148:1",
+        "148:7"
+      ],
+      "latin": "Laudáte Dóminum de cælis … de terra",
+      "kind": "word",
+      "why": "*de* + ablative is 'from' (ἐκ τῶν οὐρανῶν … ἐκ τῆς γῆς): the praise is to rise from heaven and then from the earth — the psalm's two halves. *Louvai o Senhor dos céus* (the bare genitive-looking *dos*) is heard first as 'the Lord of the heavens', a wrong sense; the same trap at 148:7 (*o Senhor da terra*). *desde* keeps the Latin's direction and cannot be misheard. MS1932 turns it into *vós que estais nos céus* / *vós, criaturas da terra* (a supplied relative, and it changes the build); DRB 'from the heavens … from the earth'. The colon is also the antiphon *Omnes Ángeli ejus * laudáte Dóminum de cælis* (Lauds, Psalmi major; grep in DO) and of Michaelmas and the martyrs: *Todos os seus anjos, louvai o Senhor desde os céus* reads alone. The CNBB (Hebrew, metrical) has *nos altos céus* (consult: circulation.md).",
+      "options": [
+        {
+          "label": "desde os céus … desde a terra",
+          "forms": {
+            "decaelis": "desde os céus",
+            "deterra": "desde a terra"
+          },
+          "note": "Ruling: 'from', unmistakable; DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "dos céus … da terra",
+          "forms": {
+            "decaelis": "dos céus",
+            "deterra": "da terra"
+          },
+          "note": "The shortest calque; heard as 'the Lord of the heavens / of the earth'.",
+          "from": "draft"
+        },
+        {
+          "label": "nos céus … na terra",
+          "forms": {
+            "decaelis": "nos céus",
+            "deterra": "na terra"
+          },
+          "note": "Near MS1932 ('vós que estais nos céus'); loses the Latin's 'from', becomes place.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "virtutes",
+      "refs": [
+        "148:2"
+      ],
+      "latin": "omnes virtútes ejus",
+      "kind": "glossary",
+      "why": "The same phrase as 102:21 *Benedícite Dómino, omnes virtútes ejus* → *todos os seus poderes* (D43's plural of *virtus*; concord.py). Here, as there, they stand beside the angels, so the ear takes them as heavenly beings; the ambiguity reader at 102:21 heard abstract powers — the cost, recorded there. The Benedicite (Dan 3:59, *omnes virtútes Dómini*, not yet translated) will meet the same words. DRB 'all his hosts', MS1932 'potestades', DM1962 (Hebrew) 'exércitos'.",
+      "options": [
+        {
+          "label": "poderes",
+          "forms": {
+            "virtutes": "poderes"
+          },
+          "note": "Ruling: = 102:21, D43.",
+          "from": "glossary"
+        },
+        {
+          "label": "exércitos",
+          "forms": {
+            "virtutes": "exércitos"
+          },
+          "note": "DRB 'hosts', DM1962; the Hebrew's צְבָאָיו, and the option D43 keeps.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "lumen",
+      "refs": [
+        "148:3"
+      ],
+      "latin": "omnes stellæ et lumen",
+      "kind": "word",
+      "why": "The Latin (and the Greek: πάντα τὰ ἄστρα καὶ τὸ φῶς) has two things called on, the stars and the light. The Hebrew has 'stars of light', which is what MS1932 ('estrelas luzentes'), DM1962 ('estrêlas brilhantes') and the CNBB follow. We follow the Latin (rule 1); DRB 'all ye stars and light'. *lumen → luz* (row).",
+      "options": [
+        {
+          "label": "e a luz",
+          "forms": {
+            "lumen": "e a luz"
+          },
+          "note": "Ruling: the Latin's second vocative.",
+          "from": "draft"
+        },
+        {
+          "label": "luzentes",
+          "forms": {
+            "lumen": "luzentes"
+          },
+          "note": "MS1932; the Hebrew's reading, not the Latin's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facta",
+      "refs": [
+        "148:5"
+      ],
+      "latin": "Quia ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt",
+      "kind": "glossary",
+      "why": "Word for word 32:9 (there *Quóniam*, here *Quia*; both → *porque*), whose Portuguese is fixed: *Porque ele disse, e as coisas foram feitas: * ele ordenou, e foram criadas* (ps032 decisions `facta`, `mandavit`; the mandáre row: *ordenar* with no object or a thing). Copied (rule 6). Here the supplied *as coisas* also serves the next verse: *Firmou-as* (148:6, *ea*) has a feminine antecedent to take. The Benedicite does not have this line; the Genesis echo (*dixit … factum est*) is the Latin's. CNBB 'porque mandou e logo tudo foi criado' drops *dixit*.",
+      "options": [
+        {
+          "label": "as coisas foram feitas … ordenou … foram criadas",
+          "forms": {
+            "facta": "as coisas foram feitas",
+            "mandavit": "ordenou",
+            "creata": "foram criadas"
+          },
+          "note": "Ruling: = 32:9.",
+          "from": "glossary"
+        },
+        {
+          "label": "foram feitas … mandou … foram criadas",
+          "forms": {
+            "facta": "foram feitas",
+            "mandavit": "mandou",
+            "creata": "foram criadas"
+          },
+          "note": "Bare, MS1932's verb; 32:9's draft 1. Would separate the twins.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "statuit",
+      "refs": [
+        "148:6"
+      ],
+      "latin": "Státuit ea",
+      "kind": "glossary",
+      "why": "*statúere → firmar* (row, open: 39:3, 118:38, 17:34, 104:10 *státuit illud … in præcéptum* → *a firmou … como decreto*), kept apart from *constitúere → estabelecer*. 104:10 is the closest parallel — statúere beside *præcéptum* — and has *firmar*. *ea* (the neuter plural of 148:5) → *-as*, taking *as coisas* of 148:5. MS1932's *estabeleceu-as* would spend constitúere's verb. Enclitic after the verb at the head of the verse, as Brazilian speech allows at a sentence start.",
+      "options": [
+        {
+          "label": "Firmou-as",
+          "forms": {
+            "statuit": "Firmou-as"
+          },
+          "note": "Ruling: the row, as 104:10.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ele as firmou",
+          "forms": {
+            "statuit": "Ele as firmou"
+          },
+          "note": "The subject named, proclisis; one syllable more.",
+          "from": "draft"
+        },
+        {
+          "label": "Estabeleceu-as",
+          "forms": {
+            "statuit": "Estabeleceu-as"
+          },
+          "note": "MS1932, DRB 'established'; constitúere's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praeteribit",
+      "refs": [
+        "148:6"
+      ],
+      "latin": "præcéptum pósuit, et non præteríbit",
+      "kind": "ambiguity",
+      "why": "*præcéptum → decreto* (settled, D19; 148:6 is on its list). *pónere → pôr* (the Latin's verb; 26:11 *Ponde uma lei para mim*). *non præteríbit* has no subject: the decree will not pass away (DRB 'it shall not pass away'), or — as some read the Greek οὐ παρελεύσεται — the things will not pass beyond it. The Latin leaves it; the bare Portuguese leaves it too, with the nearest noun, *decreto*, the first hearing, as in the Latin. MS1932 'uma ordem que não será violada' chooses the second reading and changes the verb; DM1962 'uma lei que não passa' makes it a relative.",
+      "options": [
+        {
+          "label": "e não passará",
+          "forms": {
+            "praeteribit": "não passará"
+          },
+          "note": "Ruling: the Latin's bare coordination; subject left open.",
+          "from": "draft"
+        },
+        {
+          "label": "e ele não passará",
+          "forms": {
+            "praeteribit": "ele não passará"
+          },
+          "note": "Names the decree as subject; closes the ambiguity.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dracones",
+      "refs": [
+        "148:7"
+      ],
+      "latin": "dracónes",
+      "kind": "glossary",
+      "why": "The Latin's word (δράκοντες), as 73:13 *as cabeças dos dragões* and 90:13 *o leão e o dragão* (concord.py). The Hebrew תַּנִּינִים are sea creatures (DM1962 'monstros marinhos', CNBB 'grandes peixes'); the Latin says dragons, and the beside-it *abyssi* keeps the sea in view. DRB and MS1932 'dragões'.",
+      "options": [
+        {
+          "label": "dragões",
+          "forms": {
+            "dracones": "dragões"
+          },
+          "note": "Ruling: the Latin's word; 73:13.",
+          "from": "glossary"
+        },
+        {
+          "label": "monstros marinhos",
+          "forms": {
+            "dracones": "monstros marinhos"
+          },
+          "note": "DM1962; the Hebrew's sense.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "glacies",
+      "refs": [
+        "148:8"
+      ],
+      "latin": "glácies",
+      "kind": "word",
+      "why": "Ice (κρύσταλλος; L&S). *Geada* (MS1932) is hoar-frost, and this psalter already spends it on *pruína* (77:47 *com a geada*); the Benedicite has *rores et pruína* and *glácies et nives* side by side (Dan 3:63–64, DO Psalm210.txt), so the two must stay apart. 147:6 *crystállum* is being translated concurrently (its literal tier has *cristal*): a different Latin word, kept different.",
+      "options": [
+        {
+          "label": "gelo",
+          "forms": {
+            "glacies": "gelo"
+          },
+          "note": "Ruling; DRB 'ice'.",
+          "from": "draft"
+        },
+        {
+          "label": "geada",
+          "forms": {
+            "glacies": "geada"
+          },
+          "note": "MS1932; pruína's word in 77:47.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "spiritus",
+      "refs": [
+        "148:8"
+      ],
+      "latin": "spíritus procellárum",
+      "kind": "glossary",
+      "why": "The row *spíritus procellárum → vento de tempestades* (10:7, a bare list like this one: *fogo e enxofre e vento de tempestades*) says 148:8 should copy it. Copied. *espírito* is never wind in Portuguese.",
+      "options": [
+        {
+          "label": "vento de tempestades",
+          "forms": {
+            "spiritus": "vento de tempestades"
+          },
+          "note": "Ruling: = 10:7.",
+          "from": "glossary"
+        },
+        {
+          "label": "sopro das tempestades",
+          "forms": {
+            "spiritus": "sopro das tempestades"
+          },
+          "note": "The row's option; keeps 'breath'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "faciunt",
+      "refs": [
+        "148:8"
+      ],
+      "latin": "quæ fáciunt verbum ejus",
+      "kind": "glossary",
+      "why": "The row *fácere verbum → cumprir a palavra* (102:20 *faciéntes verbum illíus → que cumpris a sua palavra*) names 148:8 as a place that should follow. *fazer a palavra* is not Portuguese. Third person, as the Latin *fáciunt* (MS1932 and DM1962 turn it to second person, 'vós que executais'). *verbum → palavra* (D15).",
+      "options": [
+        {
+          "label": "cumprem",
+          "forms": {
+            "faciunt": "cumprem"
+          },
+          "note": "Ruling: the row, = 102:20.",
+          "from": "glossary"
+        },
+        {
+          "label": "executam",
+          "forms": {
+            "faciunt": "executam"
+          },
+          "note": "MS1932's verb (in the 2nd person there); administrative.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pecora",
+      "refs": [
+        "148:10"
+      ],
+      "latin": "univérsa pécora",
+      "kind": "glossary",
+      "why": "κτήνη, livestock. The row (8:8 *pécora campi → os animais do campo*; 134:7b *pecus → gado*) keeps *feras* for *béstiæ*. Beside *Feras*, *todos os animais* would swallow the wild beasts into the tame ones and blur the pair the Latin sets (wild / domestic). *gado* (134:7b's word, the row's named narrower option) keeps the pair; the collective singular for the plural is grammar (D2). DRB 'all cattle', MS1932 'todos os gados', DM1962 'animais domésticos'.",
+      "options": [
+        {
+          "label": "todo o gado",
+          "forms": {
+            "pecora": "todo o gado"
+          },
+          "note": "Ruling: = 134:7b's word; keeps wild / tame apart.",
+          "from": "draft"
+        },
+        {
+          "label": "todos os animais",
+          "forms": {
+            "pecora": "todos os animais"
+          },
+          "note": "8:8's word; beside *feras* it absorbs them.",
+          "from": "glossary"
+        },
+        {
+          "label": "todos os rebanhos",
+          "forms": {
+            "pecora": "todos os rebanhos"
+          },
+          "note": "The literal tier; keeps the plural, narrower (sheep, goats).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "senes",
+      "refs": [
+        "148:12"
+      ],
+      "latin": "senes cum junióribus",
+      "kind": "word",
+      "why": "*senes → anciãos* (row, 104:22, 118:100). *junióres* is the comparative of *júvenis*, which opens the verse: *os mais jovens* keeps the root echo the Latin has (*Júvenes … junióribus*), as 36:25 *Júnior fui → Fui jovem* kept the root. MS1932 'os velhos e os meninos' drops the comparative and the *cum*. The articles are supplied because a subject follows (*louvem*): *Jovens e virgens* is a vocative list, and *os anciãos com os mais jovens* the subject of the jussive — the Latin's shift from list to *laudent* is heard.",
+      "options": [
+        {
+          "label": "os anciãos com os mais jovens",
+          "forms": {
+            "senes": "os anciãos com os mais jovens"
+          },
+          "note": "Ruling: the rows, and the root echo kept.",
+          "from": "draft"
+        },
+        {
+          "label": "os velhos com os mais novos",
+          "forms": {
+            "senes": "os velhos com os mais novos"
+          },
+          "note": "Plainer; loses both the row and the echo with *Jovens*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "solius",
+      "refs": [
+        "148:12"
+      ],
+      "latin": "(13) quia exaltátum est nomen ejus solíus",
+      "kind": "grammar",
+      "why": "*exaltátum est* (ὑψώθη): perfect passive of *exaltáre → exaltar* (row). Read as the resulting state, 'is exalted' (DRB); *foi exaltado* makes it an event. *nomen ejus solíus* — 'the name of him alone' — is 'only his name': *só o seu nome* (70:16 *da vossa justiça solíus → só da vossa justiça*). The same colon ends two antiphons that read alone (grep): *Sol et luna * laudáte Deum: quia exaltátum est nomen ejus solíus* (Tempora/Quad3-0) and *Júvenes et vírgines, * senes cum junióribus laudáte nomen Dómini, quia exaltátum est nomen ejus solíus* (Tempora/Nat2-0, which turns *laudent* into *laudáte*).",
+      "options": [
+        {
+          "label": "só o seu nome é exaltado",
+          "forms": {
+            "solius": "só o seu nome é exaltado"
+          },
+          "note": "Ruling: state; DRB 'his name alone is exalted'.",
+          "from": "draft"
+        },
+        {
+          "label": "só o seu nome foi exaltado",
+          "forms": {
+            "solius": "só o seu nome foi exaltado"
+          },
+          "note": "The perfect as an event.",
+          "from": "draft"
+        },
+        {
+          "label": "foi exaltado só o seu nome",
+          "forms": {
+            "solius": "foi exaltado só o seu nome"
+          },
+          "note": "The Latin's order, verb first.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confessio",
+      "refs": [
+        "148:14a"
+      ],
+      "latin": "Conféssio ejus super cælum et terram",
+      "kind": "glossary",
+      "why": "The noun *conféssio* is left open by D5, which names 148:14a among the places where *ação de graças* will not follow. Its three praise-places, 95:6, 103:1b and 110:3, all ruled *confissão* and asked that Gustavo decide them together; this is a fourth. Kept with them: the Latin's word (ἐξομολόγησις, the noun of the verb D5 renders *dar graças*), whose range is the praise confessed. *Louvor* (MS1932, DRB 'the praise of him') would join it to *laudáre*, the verb this psalm says ten times — the collision D5 was built to prevent. Here the cost is larger than at the twins: with *ejus* the ear may take *a sua confissão* as God's own confessing, where the Latin means the confession of him (objective genitive). The verse ends a psalm of praise, so the context pulls toward praise; the readers are asked to test it. The copula is supplied (D2; the Latin has none); *super → sobre* as *super cælos* in 148:4.",
+      "options": [
+        {
+          "label": "A sua confissão está",
+          "forms": {
+            "confessio": "A sua confissão está"
+          },
+          "note": "Ruling: = 95:6, 103:1b, 110:3; for Gustavo with them.",
+          "from": "glossary"
+        },
+        {
+          "label": "O seu louvor está",
+          "forms": {
+            "confessio": "O seu louvor está"
+          },
+          "note": "MS1932, DRB; merges with laudáre.",
+          "from": "MS1932"
+        },
+        {
+          "label": "A ação de graças a ele está",
+          "forms": {
+            "confessio": "A ação de graças a ele está"
+          },
+          "note": "D5's family; heavy, and not what stands 'above heaven and earth'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "hymnus",
+      "refs": [
+        "148:14b"
+      ],
+      "latin": "Hymnus ómnibus sanctis ejus: * fíliis Israël, pópulo appropinquánti sibi",
+      "kind": "ambiguity",
+      "why": "A verbless line of datives: a hymn *for* (belonging to, fitting for, sung by) all his holy ones (ὅσιοι → *santos*, row), the sons of Israel, the people that draws near to him. The Latin does not say whether the hymn is theirs to sing or theirs to receive; *para* keeps both, where *a* would make the saints its addressees and MS1932's *Cantem-lhe hinos todos os seus santos* decides for singing. The second colon is in apposition: *para* repeated once for the sons of Israel, then *o povo* as a second apposition, without a third preposition. *appropinquáre → aproximar-se* (row). *hymnus → hino* (118:171, 64:2). The article *Um* is not supplied: the line reads as a heading, as the Latin.",
+      "options": [
+        {
+          "label": "Hino para todos os seus santos … para os filhos de Israel, o povo que se aproxima dele",
+          "forms": {
+            "hymnus": "Hino para todos os seus santos",
+            "filiis": "para os filhos de Israel, o povo que se aproxima dele"
+          },
+          "note": "Ruling: the datives as *para*, open.",
+          "from": "draft"
+        },
+        {
+          "label": "É um hino para todos os seus santos …",
+          "forms": {
+            "hymnus": "É um hino para todos os seus santos",
+            "filiis": "para os filhos de Israel, o povo que se aproxima dele"
+          },
+          "note": "A verb and article supplied (D2 allows it); refers the line back to 14a.",
+          "from": "draft"
+        },
+        {
+          "label": "Hino a todos os seus santos … aos filhos de Israel, ao povo que se aproxima dele",
+          "forms": {
+            "hymnus": "Hino a todos os seus santos",
+            "filiis": "aos filhos de Israel, ao povo que se aproxima dele"
+          },
+          "note": "The literal tier; *a* makes the saints the addressees.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "148:1": "*in excélsis → nas alturas* (the excélsa row; D42), as the Gloria is said in Brazil. No title line: DO's Psalm148.txt has none — the Greek's αλληλουια Αγγαιου καὶ Ζαχαριου is not in the working text (D7), as Pss 145–147 also begin at the first prayed verse.",
+    "148:2": "96:7b's build: *Louvai-o, todos os seus anjos* (the object *-o* expressed, so the noun is heard as the vocative). *ángelus → anjo* lowercase (row).",
+    "148:3": "Vocatives without articles, as the Latin.",
+    "148:4": "*cæli cælórum → céus dos céus* (MS1932, DRB). *super cælos → sobre os céus* (8:2b, 56:6, 107:5). *laudent* → the jussive *louvem*, 3rd person, as the Latin. *et aquæ omnes* → *e todas as águas* (plain order). The second colon is long, as the Latin's; no split possible without a mark.",
+    "148:6": "*in ætérnum, et in sǽculum sǽculi → para sempre, e pelos séculos dos séculos* (D23, D27; = 9:6).",
+    "148:9": "*ligna fructífera → árvores frutíferas* (lignum row); *colles → colinas* (collis row, which names 148:9).",
+    "148:10": "*béstiæ → feras* (row); *vólucres pennátæ → aves aladas* (77:27 *volatília pennáta*; the pennæ row warns against *penas*); *serpentes → serpentes* (57:5, 139:4).",
+    "148:11": "*reges terræ → os reis da terra* (2:2, 71:11, 137:4), here without article as vocatives; *júdices terræ → juízes da terra*.",
+    "148:12": "*Júvenes, et vírgines* → *Jovens e virgens* (77:63 has the pair: *os seus jovens … as suas virgens*). The Latin's comma before *et* dropped (Portuguese punctuation). The Latin's *(13)* marker not reproduced.",
+    "148:14a": "*exaltávit cornu pópuli sui → exaltou o chifre do seu povo* (cornu row, open, kept at every place; 88:25, 111:9 have the same verb with *chifre*). The ambiguity readers of 74, 91 and 111 heard the cuckold's horn; the image stands unexplained, as the Latin.",
+    "148:14b": "No closing *Aleluia*: the DO Latin has none."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels (consult/parallels/ps148.md) and concord.py over the finished psalms. Brazilian circulation fetched (circulation.md: CNBB Liturgia das Horas text, metrical, from the Hebrew — none of it taken). Formula copies: 148:5 = 32:9 whole; 148:8 *vento de tempestades* = 10:7, *cumprem a sua palavra* = 102:20; 148:2 *todos os seus poderes* = 102:21; 148:6 = 9:6's pair and D19's *decreto*. The Benedicite (DO Psalm210.txt) shares angels, *virtútes*, sun and moon, stars, the waters above the heavens, *glácies*, mountains and hills, beasts and cattle, birds — but it is not yet translated in research/psalterium (only the Nunc dimittis, ps233, among the canticles), so there is no precedent to follow; where it bears on a choice (glácies beside pruína) it is named. Hard readings: 148:14a *conféssio ejus* (objective genitive; D5 left the noun open), 148:6 *non præteríbit* (open subject), 148:14b the datives, 148:10 *pécora* beside *béstiæ*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft length flags accepted: 148:5a +4 (the 32:9 formula, *as coisas* supplied there by the stylist); 148:4b +3 (the Latin's own long colon, one breath with a pause after *céus*); 148:14a +3 (the copula D2 allows; the verbless *A sua confissão sobre o céu e a terra* reads as a fragment); 148:14b +4 (the second *para* keeps the datives in apposition; without it *os filhos de Israel* is heard as a new subject); 148:2a −3, 148:4a −4, 148:10a −3 (Portuguese shorter than the Latin, nothing missing). Oxytone endings (céus, luz, passará, Senhor) take the stress on the last syllable, as the brief allows."
+    }
+  ]
+}
