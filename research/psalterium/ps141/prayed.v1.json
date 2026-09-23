@@ -1,0 +1,162 @@
+{
+  "psalm": 141,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "141:2": "Com a minha voz {clamavi} ao Senhor: * com a minha voz {deprecatus} ao Senhor.",
+    "141:3": "Derramo {conspectu} a minha oração, * e {pronuntio} diante dele a minha tribulação.",
+    "141:4": "{deficiendo}, * {et_tu} conhecestes as minhas veredas.",
+    "141:4b": "Neste caminho por onde eu andava, * {laqueum}.",
+    "141:5": "{considerabam} à direita, e via: * e não havia quem me conhecesse.",
+    "141:5b": "{periit} a fuga, * e não há quem {requirat} a minha alma.",
+    "141:6": "Clamei a vós, Senhor, * eu disse: Vós sois a minha esperança, a minha porção na terra dos vivos.",
+    "141:7": "Atendei à minha prece: * porque fui humilhado sem medida.",
+    "141:7b": "Livrai-me dos que me perseguem: * porque se fortaleceram mais do que eu.",
+    "141:8": "Tirai da {custodia} a minha alma, para dar graças ao vosso nome: * {exspectant}, até que me retribuais."
+  },
+  "decisions": [
+    {
+      "id": "clamavi",
+      "refs": ["141:2"],
+      "latin": "Voce mea ad Dóminum clamávi: voce mea ad Dóminum deprecátus sum",
+      "kind": "glossary",
+      "why": "The first colon is word for word 3:5a and 76:2a, both already Com a minha voz clamei ao Senhor (concord.py) — identical Latin, identical Portuguese (rule 6). The second colon keeps the Latin's repetition (voz, ao Senhor) and deprecári → suplicar (D35). The whole verse is also sung alone as the Introit psalm verse of the Stigmata of St Francis (missa Sancti/09-17), so it must stand without context — it does. The CNBB (fetched, circulation.md) and a Protestant hymn have the present (imploro / clamo … suplico); the Latin has two perfects, and 129:1 kept the perfect against the familiar present clamo the same way.",
+      "options": [
+        {"label": "clamei … supliquei", "forms": {"clamavi": "clamei", "deprecatus": "supliquei"}, "note": "draft — the Latin's perfects; 3:5a, 76:2a", "from": "glossary"},
+        {"label": "clamo … suplico", "forms": {"clamavi": "clamo", "deprecatus": "suplico"}, "note": "the present, as the CNBB Liturgia das Horas and the HCC hymn (from the Hebrew's imperfects); breaks the doublet with 3:5a and 76:2a"}
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": ["141:3"],
+      "latin": "in conspéctu ejus",
+      "kind": "glossary",
+      "why": "The conspéctus row splits: à vista de where the phrase is a predicate or the place of witnesses, na … presença beside an act of worship (17:7b, 21:28b, 49:3b, 99:2b, 137:1b) and with third-person pronouns, where à vista dele was heard badly (79:10). Pouring out a prayer is an act of worship. Na sua presença is also exactly the CNBB's wording (fetched). It stays apart from ante ipsum → diante dele in the next colon, as the Latin has two phrases.",
+      "options": [
+        {"label": "na sua presença", "forms": {"conspectu": "na sua presença"}, "note": "draft — the row's worship sense; MS1932 na sua presença", "from": "glossary"},
+        {"label": "à vista dele", "forms": {"conspectu": "à vista dele"}, "note": "the row's other rendering, keeps the noun of seeing; 79:10 found à vista dele heard badly"}
+      ]
+    },
+    {
+      "id": "pronuntio",
+      "refs": ["141:3"],
+      "latin": "tribulatiónem meam ante ipsum pronúntio",
+      "kind": "glossary",
+      "why": "pronuntiáre (ἀπαγγελῶ, 'report, declare') has an open row, pronunciar (118:13, 118:172, 70:17), whose stylist already found it technical. Pronuncio a minha tribulação is heard as uttering a word or a sentence (a judge pronounces). Declaro is the plain Portuguese of saying something out openly and is DRB's 'declare'; exponho (MS1932, and the HCC hymn) is expónere, another Latin image (setting out). Ruled declaro; the row is left open, with this place recorded. The Latin's object-first order is not kept: it would put the verb at the cadence (e a minha tribulação diante dele declaro) in a verb-final order Portuguese uses only for effect; ending on tribulação keeps the noun at the cadence as the Latin ends on its verb.",
+      "options": [
+        {"label": "declaro", "forms": {"pronuntio": "declaro"}, "note": "draft — DRB 'declare'", "from": "draft"},
+        {"label": "pronuncio", "forms": {"pronuntio": "pronuncio"}, "note": "the open row's cognate (118:13, 172; 70:17)", "from": "glossary"},
+        {"label": "exponho", "forms": {"pronuntio": "exponho"}, "note": "MS1932; natural in Brazilian prayer, but another Latin verb's image", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "deficiendo",
+      "refs": ["141:4"],
+      "latin": "In deficiéndo ex me spíritum meum",
+      "kind": "grammar",
+      "why": "A gerund with an accusative subject, ἐν τῷ ἐκλείπειν ἐξ ἐμοῦ τὸ πνεῦμά μου: 'in my spirit's failing out of me'. Portuguese needs a clause. ex me is 'from / out of me' — the spirit failing and going out; em mim keeps the person without the motion, de mim after desfalecer would be heard as cause ('fainting from me'). desfalecer is the verb 76:4 already has for defécit spíritus meus; the CNBB has Quando em mim desfalece a minh'alma (fetched). The order puts em mim at the mediant so the colon does not end on the proparoxytone espírito (rule 4).",
+      "options": [
+        {"label": "Quando o meu espírito desfalecia em mim", "forms": {"deficiendo": "Quando o meu espírito desfalecia em mim"}, "note": "draft", "from": "draft"},
+        {"label": "Quando o meu espírito se esvaía de mim", "forms": {"deficiendo": "Quando o meu espírito se esvaía de mim"}, "note": "keeps the motion of ex me, but another verb than 76:4's desfalecer"},
+        {"label": "Quando o meu espírito me desfalecia", "forms": {"deficiendo": "Quando o meu espírito me desfalecia"}, "note": "a dative of the person, DRB's 'failed me'; desfalecer does not usually take one"}
+      ]
+    },
+    {
+      "id": "et_tu",
+      "refs": ["141:4"],
+      "latin": "et tu cognovísti",
+      "kind": "grammar",
+      "why": "The et opens the main clause after the temporal gerund — the Hebrew-and-Greek 'and' of the apodosis (καὶ σύ), which DRB turns to 'then' and MS1932 drops. In Portuguese quando …, e vós conhecestes reads as a broken sentence. The emphatic tu is kept as vós named; only the conjunction goes, as grammar (D2).",
+      "options": [
+        {"label": "vós", "forms": {"et_tu": "vós"}, "note": "draft — MS1932 also drops the et (tu conheceste)", "from": "draft"},
+        {"label": "e vós", "forms": {"et_tu": "e vós"}, "note": "the Latin's et kept"},
+        {"label": "então vós", "forms": {"et_tu": "então vós"}, "note": "DRB 'then thou knewest' — the sense of the apodotic et made a word", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "laqueum",
+      "refs": ["141:4b"],
+      "latin": "abscondérunt láqueum mihi",
+      "kind": "word",
+      "why": "abscóndere → esconder and láqueus → laço (63:6b esconderiam laços). The dative mihi is the one the snare is aimed at. Para mim says that and is DRB's 'for me'; esconderam-me um laço can be heard as 'hid a snare from me' (a true but different sense). MS1932 armaram-me laços ocultos changes the verb (láqueum pónere is armar / pôr, 118:110). The CNBB has contra mim ocultaram ciladas. In via hac: neste caminho keeps the demonstrative.",
+      "options": [
+        {"label": "esconderam um laço para mim", "forms": {"laqueum": "esconderam um laço para mim"}, "note": "draft — DRB 'hidden a snare for me'", "from": "draft"},
+        {"label": "esconderam-me um laço", "forms": {"laqueum": "esconderam-me um laço"}, "note": "shorter; can be heard as 'hid it from me'"},
+        {"label": "esconderam um laço contra mim", "forms": {"laqueum": "esconderam um laço contra mim"}, "note": "names the hostility the dative implies (CNBB's contra mim)"}
+      ]
+    },
+    {
+      "id": "considerabam",
+      "refs": ["141:5"],
+      "latin": "Considerábam ad déxteram, et vidébam",
+      "kind": "glossary",
+      "why": "consideráre (κατενόουν, looked closely) has the row: considerar for things, observar with a person (21:18) and in absolute use (93:9 não observa). Here it is absolute, with ad déxteram — the side where a defender or witness stood. Eu is supplied because observava is also 'he observed'. à direita: déxtera → a direita (row), with no possessive, as the Latin (MS1932 and DRB add 'my'). Two imperfects kept.",
+      "options": [
+        {"label": "Eu observava", "forms": {"considerabam": "Eu observava"}, "note": "draft — the row's absolute use (93:9)", "from": "glossary"},
+        {"label": "Eu olhava", "forms": {"considerabam": "Eu olhava"}, "note": "plainer; but olhar is the plain seeing verb, and vidébam follows"},
+        {"label": "Eu considerava", "forms": {"considerabam": "Eu considerava"}, "note": "the cognate; heard as 'I was pondering'"}
+      ]
+    },
+    {
+      "id": "periit",
+      "refs": ["141:5b"],
+      "latin": "Périit fuga a me",
+      "kind": "word",
+      "why": "períre → perecer (working row), but the row already names the other sense: 118:176 ovis quæ périit → se perdeu, because perecer is only 'die'. Flight (the way of escape) is not a thing that dies; it is lost to someone — ἀπώλετο φυγὴ ἀπ᾿ ἐμοῦ, the same Greek verb as 118:176. Perdeu-se para mim a fuga keeps the verb's sense, the noun, and a me as para mim; de mim would make a fuga de mim 'flight from me'. DRB 'Flight hath failed me'; MS1932 paraphrases (Não me ficou possibilidade de fuga).",
+      "options": [
+        {"label": "Perdeu-se para mim", "forms": {"periit": "Perdeu-se para mim"}, "note": "draft — períre as 'be lost', as 118:176", "from": "draft"},
+        {"label": "Pereceu para mim", "forms": {"periit": "Pereceu para mim"}, "note": "the row's working verb (9:7b Pereceu a memória deles)", "from": "glossary"},
+        {"label": "Foi-se de mim", "forms": {"periit": "Foi-se de mim"}, "note": "plain, keeps 'from me' as de mim; loses the sense of loss"}
+      ]
+    },
+    {
+      "id": "requirat",
+      "refs": ["141:5b"],
+      "latin": "qui requírat ánimam meam",
+      "kind": "ambiguity",
+      "why": "requírere → procurar (row; ἐκζητῶν). Here the seeking is a friend's care ('no one looks for me'), where elsewhere quǽrere ánimam is the enemies' hunt for a life (53:5 → buscar). procurar keeps requírere apart from quǽrere and ánima → a minha alma (row). Whether the ear hears care or hostility is for the ambiguity reader; MS1932 (se importe com a minha vida) and the CNBB (não importa a ninguém minha vida) turn it into care outright, which interprets.",
+      "options": [
+        {"label": "procure", "forms": {"requirat": "procure"}, "note": "draft — the row", "from": "glossary"},
+        {"label": "se importe com", "forms": {"requirat": "se importe com"}, "note": "MS1932's sense, plain; interprets the verb", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "custodia",
+      "refs": ["141:8"],
+      "latin": "Educ de custódia",
+      "kind": "word",
+      "why": "custódia is a guard, a watch, a prison; here φυλακή as the place one is brought out of — DRB 'prison', MS1932 desta prisão, the CNBB da prisão. The rows so far (38:2b guarda; 89:5, 129:6 vigília) are the other senses; this adds prisão for the place. edúcere de with a source → tirar de (row: 29:4, 30:5, 39:3). The colon is also the Thursday Vespers antiphon (Educ de custódia * ánimam meam, Dómine, ad confiténdum nómini tuo), and stands alone.",
+      "options": [
+        {"label": "prisão", "forms": {"custodia": "prisão"}, "note": "draft — DRB, MS1932", "from": "draft"},
+        {"label": "cárcere", "forms": {"custodia": "cárcere"}, "note": "same sense, more solemn, proparoxytone"}
+      ]
+    },
+    {
+      "id": "exspectant",
+      "refs": ["141:8"],
+      "latin": "me exspéctant justi",
+      "kind": "order",
+      "why": "exspectáre → aguardar (D39). The Latin puts me first and the subject last; os justos me aguardam is the plain order. The Latin's present is kept (the Greek has a future, ὑπομενοῦσιν; the Hebrew 'will surround me', which the CNBB follows — not taken).",
+      "options": [
+        {"label": "os justos me aguardam", "forms": {"exspectant": "os justos me aguardam"}, "note": "draft", "from": "draft"},
+        {"label": "aguardam-me os justos", "forms": {"exspectant": "aguardam-me os justos"}, "note": "the Latin's order, subject last"}
+      ]
+    }
+  ],
+  "choices": {
+    "141:2": "No title: DO's Latin file starts at 141:2 and has no titulus (D7); the Vulgate title Intellectus David, cum esset in spelunca, oratio is not translated. The whole verse is the Introit psalm verse of 09-17.",
+    "141:3": "oratiónem → oração (row), tribulátio → tribulação (row).",
+    "141:4b": "via → caminho, ambuláre → andar (rows); eu supplied because andava is also 'he walked'.",
+    "141:5": "cognóscere → conhecer (row); the imperfect subjunctive conhecesse as MS1932.",
+    "141:6": "Clamei a vós as 118:146; eu disse as 118:57, whose Pórtio mea is also a porção; terra vivéntium → terra dos vivos (26:13, 51:7). The monastic Vespers antiphon Pórtio mea, Dómine, sit in terra vivéntium is built from this colon. The second colon is long (the Latin's is 19 syllables); accepted.",
+    "141:7": "inténde → atendei (D3), deprecátio → prece (D35); humiliátus sum nimis → fui humilhado sem medida, as 37:9 and 115:1.",
+    "141:7b": "The second colon is 17:18's word for word (porque se fortaleceram mais do que eu, super me as a comparison). liberáre → livrar (row).",
+    "141:8": "ad confiténdum nómini tuo → para dar graças ao vosso nome (D5; 121:4's build). retribúere → retribuir; retribuais is the subjunctive, not the imperative the open row is about."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from parallels (Latin, LXX, Hebrew, DRB, MS1932; pt-PT looked at only as the text to be replaced; no DM1962 for this psalm). Title checked in DO's file: absent, so none (D7). Precedent by concord.py: 3:5a = 76:2a for the first colon; 17:18, 37:9, 115:1, 118:57, 118:146, 121:4. Liturgical use by grep and the CNBB Liturgia das Horas fetched: circulation.md. Hard readings: the gerund in deficiéndo ex me with the apodotic et, périit fuga a me (perecer or the 'lost' sense of 118:176), pronuntiáre (open row), consideráre absolute."},
+    {"step": "checks", "note": "Hard checks pass. Soft, all accepted: 141:4 first colon +3 and 141:4b first colon +3 by the non-eliding counter (o‿meu, desfalecia‿em, onde‿eu: about +1 said); 141:6 second colon +4 (the Latin's colon is already the longest, 19; the list of predicates is the Latin's); 141:7 first colon −4 (deprecatiónem is one long word; prece was chosen short on purpose, D35). Rhyme 141:2 Senhor / Senhor: the Latin's own repeated ad Dóminum, one word twice, not a rhyme to fix; the order follows 3:5a / 76:2a. Rhyme 141:3 oração / tribulação: the Latin has the same echo in its two parallel nouns (oratiónem meam / tribulatiónem meam); kept."}
+  ]
+}

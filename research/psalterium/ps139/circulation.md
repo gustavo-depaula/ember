@@ -1,0 +1,18 @@
+# Ps 139 — liturgical use and Brazilian circulation (checked 2026-09-23)
+
+## In the Latin books (grep of `content/do/horas/Latin`, `content/do/missa/Latin`)
+
+- **Good Friday Tract** (`missa/Latin/Tempora/Quad6-5.txt`, also `Quad6-5r`, `Quad6-5t`; rubric *Ps 139:2-10 et 14*): the psalm almost whole, in another Latin (Roman-psalter readings: *malítias in corde*, *líbera me* for the second *éripe me*, *láqueum pédibus meis*, *vocem oratiónis meæ*, the imperative *obúmbra caput meum*, *ne umquam exalténtur*). Not our text; our verses translate the DO Gallican. But 139:2, 4, 5, 5b, 6, 7, 8, 9, 10, 14 are all sung on Good Friday, so each colon should read well alone.
+- **Offertory of Tuesday in Holy Week** (`missa/Latin/Tempora/Quad6-2.txt`, *Ps 139:5*): *Custódi me, Dómine, de manu peccatóris: et ab homínibus iníquis éripe me* — our 139:5 word for word.
+- **Versicle** *V. Éripe me, Dómine, ab hómine malo. R. A viro iníquo éripe me* — Preces feriales at Prime (`Psalterium/Special/Preces.txt`), Passiontide None (`Minor Special.txt`), also `Major Special.txt`, `Matutinum Special.txt`; responsory form *a viro iníquo líbera me* (`horas/Latin/Tempora/Quad5-2.txt`). Each colon must stand alone.
+- **Thursday Vespers antiphon** (`Psalterium/Psalmi/Psalmi major.txt`, `[Day5 Vespera]`): *Ne derelínquas me, * Dómine, virtus salútis meæ* (139:9 + 139:8). Also *Inténde in adjutórium meum, * Dómine, virtus salútis meæ* (Matins antiphon, Psalmi matutinum; Introit of Quad2-3 — 37:23 adapted with this psalm's *virtus salútis meæ*).
+- A lesson for the Immaculate Conception (Sancti/aliquibus locis/12-10-Domus) quotes 139:14 *Verúmtamen justi confitebúntur nómini tuo*.
+- Titulus *In finem, Psalmus David* is in the LXX (εἰς τὸ τέλος ψαλμὸς τῷ Δαυιδ), DRB and MS1932 (*Para o fim: Salmo de David*), not in DO's Latin — D7.
+
+## Brazilian circulation (fetched with WebFetch, which summarizes through a model — wordings probable, not guaranteed). All Hebrew-based: evidence of what ears know, never of sense.
+
+- **Liturgia das Horas, CNBB**, https://liturgiadashoras.online/salmo-139140/ — title *Tu és o meu refúgio*; epigraph *O Filho do Homem é entregue nas mãos dos pecadores (Mt 26,45)*. Lines: *Livrai-me, ó Senhor, dos homens maus, / dos homens violentos defendei-me, / dos que tramam só o mal no coração / e planejam a discórdia todo o dia!* · *Como a serpente eles afiam suas línguas, * e em seus lábios têm veneno de uma víbora.* · *Os soberbos contra mim armaram laços, † estenderam-me uma rede sob os pés* · *Senhor meu Deus, sois meu auxílio poderoso, * vós protegeis minha cabeça no combate!* · *Sim, os justos louvarão o vosso nome, * e junto a vós habitarão os homens retos.* The hour/day was not stated on the page.
+- **Bíblia Ave Maria, Sl 139**, https://www.mundodoscatolicos.com.br/salmos/139/ — *Livrai-me, Senhor, do homem mau; preservai-me do homem violento* · *que aguçam a língua qual serpente, que ocultam nos lábios veneno viperino* · *Orgulhosos, armam laços contra mim e estendem suas redes* · *Digo ao Senhor: vós sois o meu Deus. Escutai, Senhor, a voz de minha súplica* · *Não terá duração na terra a má língua* · *Sei que o Senhor defende o desvalido*.
+- **Almeida RC 1969** (search-engine summary only, not fetched): *Não terá firmeza na terra o homem de má língua*. *linguarudo* was not found in any version searched.
+
+→ What Brazilian ears know: *Livrai-me, Senhor, do homem mau* (both Catholic versions open so — but *livrar* is liberáre's in this psalter, and the erípere row gives *arrancar* where a source is named, as 58:2, 30:16, 70:4); *afiam/aguçam a língua … como serpente*; *armam laços*; *o homem de má língua* (Almeida) for *linguósus*; *os retos* (both). Nothing Vulgate-based and Brazilian beyond MS1932 was found.

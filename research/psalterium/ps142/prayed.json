@@ -1,0 +1,761 @@
+{
+  "psalm": 142,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "142:1": "Senhor, escutai a minha oração: dai ouvidos à minha {obsecratio} na vossa verdade: * escutai-me na vossa justiça.",
+    "142:2": "E não entreis em juízo com o vosso servo: * porque {nonomnis} será justificado {conspectu}.",
+    "142:3a": "Porque o inimigo perseguiu a minha alma: * humilhou na terra a minha vida.",
+    "142:3b": "Colocou-me {obscuris} como os mortos {saeculi}: * {anxiatus}, em mim {turbatum} o meu coração.",
+    "142:5": "Lembrei-me dos dias antigos, meditei em todas as vossas obras: * {factis} das vossas mãos eu meditava.",
+    "142:6": "Estendi as minhas mãos para vós: * a minha alma {tibi}.",
+    "142:7a": "Escutai-me depressa, Senhor: * desfaleceu o meu espírito.",
+    "142:7b": "Não desvieis de mim a vossa face: * {similis} semelhante aos que descem à cova.",
+    "142:8a": "Fazei-me ouvir de manhã a vossa misericórdia: * porque em vós esperei.",
+    "142:8b": "Fazei-me conhecer o caminho {ambulem}: * porque a vós levantei a minha alma.",
+    "142:9": "Arrancai-me dos meus inimigos, Senhor, {confugi}: * ensinai-me a fazer a vossa vontade, porque vós sois o meu Deus.",
+    "142:10b": "{spiritus} me guiará {terramrectam}: * por causa do vosso nome, Senhor, vós me {vivificabis}, na vossa equidade.",
+    "142:11b": "Tirareis da tribulação a minha alma: * e {inmisericordia} vossa misericórdia exterminareis os meus inimigos.",
+    "142:12b": "E fareis perecer todos os que atribulam a minha alma: * porque eu sou o vosso servo."
+  },
+  "decisions": [
+    {
+      "id": "obsecratio",
+      "refs": [
+        "142:1"
+      ],
+      "latin": "obsecratiónem meam",
+      "kind": "glossary",
+      "why": "The only place of obsecrátio in the psalter (grep). Its Greek is δέησις — the word behind deprecátio (→ prece, D35) and prex (→ prece, 87:3). By D15's test (one Greek word, no difference of sense to carry) it may share their word. The verse has no deprecátio or prex beside it, so nothing collides.",
+      "options": [
+        {
+          "label": "prece",
+          "forms": {
+            "obsecratio": "prece"
+          },
+          "note": "Draft. The δέησις word of the psalter (D35, the prex row); a paroxytone before the colon's tail.",
+          "from": "draft"
+        },
+        {
+          "label": "súplica",
+          "forms": {
+            "obsecratio": "súplica"
+          },
+          "note": "DM1962 and the Ave Maria Bible (fetched, circulation.md). A word of its own for a Latin word of its own; costs a proparoxytone and D35's reasons against it.",
+          "from": "DM1962"
+        },
+        {
+          "label": "rogos",
+          "forms": {
+            "obsecratio": "rogos"
+          },
+          "note": "MS1932 'presta ouvidos aos meus rogos' — plural where the Latin is singular; closer to obsecráre 'to beseech'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nonomnis",
+      "refs": [
+        "142:2"
+      ],
+      "latin": "non justificábitur … omnis vivens",
+      "kind": "grammar",
+      "why": "The Hebraism non … omnis = 'no one' (the glossary row 'non … ómnia', D43, leaves 142:2 to decide locally). Word for word, 'todo vivente não será justificado' is heard as 'not every living being' — a wrong sense. DRB 'no man living', MS1932 'nenhum vivente'. Rom 3:20 and Gal 2:16 cite the line as 'no flesh shall be justified'. The Latin's 'vivens' is kept as a noun, and the passive 'justificábitur' is kept: in Portuguese 'ser justificado' of a man before God is the theological word St Paul's readers know (the CNBB's epigraph for the psalm is Gl 2,16 'Ninguém é justificado…'). The Brazilian Bibles' 'ninguém que viva é justo' is the Hebrew.",
+      "options": [
+        {
+          "label": "nenhum vivente",
+          "forms": {
+            "nonomnis": "nenhum vivente"
+          },
+          "note": "Draft. MS1932's words; the negation carried by the subject, as Portuguese does it.",
+          "from": "draft"
+        },
+        {
+          "label": "ninguém que vive",
+          "forms": {
+            "nonomnis": "ninguém que vive"
+          },
+          "note": "Plainer; the participle becomes a clause. One syllable longer.",
+          "from": "draft"
+        },
+        {
+          "label": "todo vivente não",
+          "forms": {
+            "nonomnis": "todo vivente não"
+          },
+          "note": "The calque, for the record: heard as 'not every living being will be justified'. Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "142:2"
+      ],
+      "latin": "in conspéctu tuo",
+      "kind": "glossary",
+      "why": "The conspéctus row splits: 'à vista de' for a predicate place and witnesses, 'na presença de' with acts before God and where 'à vista' would be heard as 'visible to' (95:6, 49:8, 60:8). Here a man is judged before God: being found just in his presence. 'será justificado à vossa vista' reads as 'in your eyes' — possible — but 'na vossa presença' is MS1932's and fits the court the first colon has opened.",
+      "options": [
+        {
+          "label": "na vossa presença",
+          "forms": {
+            "conspectu": "na vossa presença"
+          },
+          "note": "Draft. The row's presence (49:8, 118:168–170).",
+          "from": "draft"
+        },
+        {
+          "label": "à vossa vista",
+          "forms": {
+            "conspectu": "à vossa vista"
+          },
+          "note": "The row's other form (5:9, 9:20, 55:9).",
+          "from": "glossary"
+        },
+        {
+          "label": "diante de vós",
+          "forms": {
+            "conspectu": "diante de vós"
+          },
+          "note": "The Ave Maria Bible's words; loses the noun the row keeps.",
+          "from": "draft"
+        },
+        {
+          "label": "diante dos vossos olhos",
+          "forms": {
+            "conspectu": "diante dos vossos olhos"
+          },
+          "note": "The v2 Latinist (minor): the concrete gaze. Refused: 'olho' is óculus's (the conspéctus row, 14:4a, 85:14); 'à vossa vista' is the option that keeps the seeing.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "obscuris",
+      "refs": [
+        "142:3b"
+      ],
+      "latin": "in obscúris",
+      "kind": "word",
+      "why": "Neuter plural 'in dark places' (ἐν σκοτεινοῖς). 10:3 'in obscúro' (singular) is 'no escuro'; ténebræ are 'trevas' and 87:7 'in tenebrósis' is 'nos lugares tenebrosos', so the dark places here keep their own adjective. 'lugares' is supplied for the neuter plural, as MS1932 ('lugares obscuros').",
+      "options": [
+        {
+          "label": "em lugares escuros",
+          "forms": {
+            "obscuris": "em lugares escuros"
+          },
+          "note": "Draft. The plural kept; 'escuro' as 10:3.",
+          "from": "draft"
+        },
+        {
+          "label": "no escuro",
+          "forms": {
+            "obscuris": "no escuro"
+          },
+          "note": "10:3's words exactly; loses the plural; shorter colon.",
+          "from": "draft"
+        },
+        {
+          "label": "nas trevas",
+          "forms": {
+            "obscuris": "nas trevas"
+          },
+          "note": "DM1962 'relegou-me à treva'; 'trevas' is ténebræ's word, so refused.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "saeculi",
+      "refs": [
+        "142:3b"
+      ],
+      "latin": "sicut mórtuos sǽculi",
+      "kind": "ambiguity",
+      "why": "νεκροὺς αἰῶνος: 'the dead of the age' — long dead, or dead for ever. DRB 'those that have been dead of old', MS1932 'mortos de muito tempo'. 'os mortos do século' is heard as 'of the (twentieth) century'. 'de outrora' keeps the 'of old' that both Vulgate-family witnesses hear and is not archaic (DM1962 uses it in 142:5, 'os dias de outrora'); it loses the 'for ever' half of the ambiguity. v1 readers: the Latinist (minor) asked the genitive back ('do século'); the ambiguity reader listed 'outrora' as unknown but heard 'the long-dead'. 'de séculos' keeps the root but ends the mediant on a proparoxytone. Held.",
+      "options": [
+        {
+          "label": "de outrora",
+          "forms": {
+            "saeculi": "de outrora"
+          },
+          "note": "Draft. DRB's sense; a paroxytone at the mediant.",
+          "from": "draft"
+        },
+        {
+          "label": "de há muito",
+          "forms": {
+            "saeculi": "de há muito"
+          },
+          "note": "MS1932's sense; 'de há' is more Portuguese than Brazilian. Asked by the v2 Latinist (minor).",
+          "from": "MS1932"
+        },
+        {
+          "label": "antigos",
+          "forms": {
+            "saeculi": "antigos"
+          },
+          "note": "Plain; but 'antigos' is antíquus's word two verses on (142:5 'dias antigos').",
+          "from": "draft"
+        },
+        {
+          "label": "de séculos",
+          "forms": {
+            "saeculi": "de séculos"
+          },
+          "note": "Keeps the root sǽculum and some of 'for ages'; slightly colloquial.",
+          "from": "draft"
+        },
+        {
+          "label": "do século",
+          "forms": {
+            "saeculi": "do século"
+          },
+          "note": "The Latinist (v1, minor): the bare genitive kept. Refused: heard in Brazil first as 'of the century'. 'outrora' was listed unknown by the ambiguity reader, who still heard 'the long-dead' rightly.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "turbatum",
+      "refs": [
+        "142:3b"
+      ],
+      "latin": "in me turbátum est cor meum",
+      "kind": "grammar",
+      "why": "Perfect passive beside the perfect deponent 'anxiátus est' (both Greek aorists). The two halves are one figure (spirit … heart), so they share a tense. The psalter's formula 'cor meum conturbátum est' (37:11, 54:5, 108:22) reads 'o meu coração está perturbado', a state; here the colon begins with a narrative perfect ('se angustiou'), so 'se perturbou' keeps the pair.",
+      "options": [
+        {
+          "label": "se perturbou",
+          "forms": {
+            "turbatum": "se perturbou"
+          },
+          "note": "Draft. The two verbs in one tense, as in the Greek.",
+          "from": "draft"
+        },
+        {
+          "label": "está perturbado",
+          "forms": {
+            "turbatum": "está perturbado"
+          },
+          "note": "The state, as the conturbátum formula (54:5 'O meu coração está perturbado em mim').",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "factis",
+      "refs": [
+        "142:5"
+      ],
+      "latin": "in factis mánuum tuárum",
+      "kind": "word",
+      "why": "The Latin varies 'ópera' (first colon) and 'facta' (second), as the Greek does (ἔργοις / ποιήμασιν) — by D15's test the variation carries something and keeps a word. 'obras … obras' (MS1932, DRB 'works … works') would repeat what the Latin does not. 'feitos' is the participle-noun of 'fazer' as factum of fácere; its first sense in Brazil is 'deeds', which is the context (days of old, God's acts).",
+      "options": [
+        {
+          "label": "nos feitos",
+          "forms": {
+            "factis": "nos feitos"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "no que fizeram",
+          "forms": {
+            "factis": "no que fizeram"
+          },
+          "note": "A clause of the same root, as D26 did for elóquium: 'no que fizeram as vossas mãos'. Needs the order changed; longer.",
+          "from": "draft"
+        },
+        {
+          "label": "nas obras",
+          "forms": {
+            "factis": "nas obras"
+          },
+          "note": "MS1932, DRB — merges the two Latin words.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tibi",
+      "refs": [
+        "142:6"
+      ],
+      "latin": "ánima mea sicut terra sine aqua tibi",
+      "kind": "ambiguity",
+      "why": "The Latin has no verb, and the dative 'tibi' (σοι) at the end is open: 'before you', 'in your regard', 'thirsting for you'. MS1932 closes it as 'diante de ti', the Hebrew-based Bibles as 'tem sede de vós'. Left at the end ('terra sem água para vós') it is heard as 'water for you'. Put after the copula, 'é para vós' keeps the dative's openness and cannot be misparsed. 'terra sem água' is 106:35's words. v1: the stylist heard 'para vós … para vós' (ad te / tibi) as an accidental echo and asked 'é, diante de vós, como terra sem água' — that closes the dative to 'before you', which the Latin leaves open; the ambiguity reader heard 'thirsts for you' first, which the draft means to allow. Kept; his reading is option 1.",
+      "options": [
+        {
+          "label": "é para vós como terra sem água",
+          "forms": {
+            "tibi": "é para vós como terra sem água"
+          },
+          "note": "Draft. A copula supplied (D2); the dative moved up.",
+          "from": "draft"
+        },
+        {
+          "label": "é diante de vós como terra sem água",
+          "forms": {
+            "tibi": "é diante de vós como terra sem água"
+          },
+          "note": "MS1932; closes the dative to 'before you'.",
+          "from": "stylist"
+        },
+        {
+          "label": "como terra sem água, para vós",
+          "forms": {
+            "tibi": "como terra sem água, para vós"
+          },
+          "note": "Verbless, the Latin's order; the comma is all that keeps 'water for you' away.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "similis",
+      "refs": [
+        "142:7b"
+      ],
+      "latin": "et símilis ero",
+      "kind": "grammar",
+      "why": "After a negative request the Latin states the feared consequence with a plain 'et' and a future indicative (καὶ ὁμοιωθήσομαι). 27:1, the nearest twin, had 'nequándo' and so a subjunctive with a negation ('nem eu me torne'); the nequándo row itself notes that here the future can stand. Supplying 'senão' says the relation the Latin leaves to the ear; 'para que não' (MS1932, DRB 'lest') changes the grammar and adds a negation. v1: the ambiguity reader said the plain 'e' invites the wrong reading, though most would infer 'otherwise'. Held: the Latin says 'et' and the future; 'senão serei' is one touch away.",
+      "options": [
+        {
+          "label": "e serei",
+          "forms": {
+            "similis": "e serei"
+          },
+          "note": "Draft. The Latin's words. Test for the blind readers: is it heard as the consequence feared?",
+          "from": "draft"
+        },
+        {
+          "label": "senão serei",
+          "forms": {
+            "similis": "senão serei"
+          },
+          "note": "The relation named; DM1962 'ou serei'.",
+          "from": "draft"
+        },
+        {
+          "label": "para que eu não seja",
+          "forms": {
+            "similis": "para que eu não seja"
+          },
+          "note": "MS1932's build (27:1's shape).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ambulem",
+      "refs": [
+        "142:8b"
+      ],
+      "latin": "viam, in qua ámbulem",
+      "kind": "grammar",
+      "why": "A relative with the subjunctive: the way I am to walk in. ambuláre → andar (row). MS1932 'em que hei de andar'; DRB 'wherein I should walk'. The Portuguese relative subjunctive says the same without an auxiliary.",
+      "options": [
+        {
+          "label": "por onde eu ande",
+          "forms": {
+            "ambulem": "por onde eu ande"
+          },
+          "note": "v2, the stylist's: 'em que eu ande' is a calque; a road in Portuguese is walked 'por onde'. The mood and the verb unchanged.",
+          "from": "stylist"
+        },
+        {
+          "label": "em que eu ande",
+          "forms": {
+            "ambulem": "em que eu ande"
+          },
+          "note": "Draft 1. The Latin's 'in' kept; the stylist heard it as a calque.",
+          "from": "draft"
+        },
+        {
+          "label": "em que hei de andar",
+          "forms": {
+            "ambulem": "em que hei de andar"
+          },
+          "note": "MS1932; the auxiliary supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confugi",
+      "refs": [
+        "142:9"
+      ],
+      "latin": "ad te confúgi",
+      "kind": "word",
+      "why": "Only place of confúgere in the psalter (grep; the refúgium family → refúgio). 'I have fled to you for refuge' (κατέφυγον). 'refugiar-se' keeps the root and the refuge; Portuguese takes it with 'em' or 'junto de', not 'a'. The colon is Thursday's Lauds antiphon ('Éripe me de inimícis meis, Dómine, ad te confúgi') and the end of an Advent antiphon, so it must read alone.",
+      "options": [
+        {
+          "label": "em vós me refugiei",
+          "forms": {
+            "confugi": "em vós me refugiei"
+          },
+          "note": "Draft. The perfect kept; 'em vós' the Portuguese preposition for this verb.",
+          "from": "draft"
+        },
+        {
+          "label": "junto de vós me refugiei",
+          "forms": {
+            "confugi": "junto de vós me refugiei"
+          },
+          "note": "MS1932 'junto de ti me refugio' — the movement 'toward' kept better; two syllables longer.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a vós fugi",
+          "forms": {
+            "confugi": "a vós fugi"
+          },
+          "note": "DRB 'to thee have I fled'; the preposition kept, the refuge lost.",
+          "from": "DRB"
+        },
+        {
+          "label": "a vós me acolhi",
+          "forms": {
+            "confugi": "a vós me acolhi"
+          },
+          "note": "The v2 Latinist (minor): keeps the motion of 'ad te'. Refused: 'acolher' is suscípere's word (47:10 'Acolhemos'), and 'acolher-se a' is literary.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "spiritus",
+      "refs": [
+        "142:10b"
+      ],
+      "latin": "Spíritus tuus bonus",
+      "kind": "word",
+      "why": "DO prints lower case, as 50:13 'spíritus sanctus tuus' (D44: 'o vosso espírito santo', lower case). The adjective after the noun keeps it predicative-strong ('your spirit, the good one'); before it, 'o vosso bom espírito' (MS1932) risks 'good spirits', a mood. The Brazilian Bibles' 'Espírito de bondade' is the Hebrew's genitive.",
+      "options": [
+        {
+          "label": "O vosso espírito bom",
+          "forms": {
+            "spiritus": "O vosso espírito bom"
+          },
+          "note": "Draft; lower case as the DO Latin (D44).",
+          "from": "draft"
+        },
+        {
+          "label": "O vosso bom espírito",
+          "forms": {
+            "spiritus": "O vosso bom espírito"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "O vosso Espírito bom",
+          "forms": {
+            "spiritus": "O vosso Espírito bom"
+          },
+          "note": "The Person named by the capital, as the Church reads the line; D44 kept lower case for 50:13.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "terramrectam",
+      "refs": [
+        "142:10b"
+      ],
+      "latin": "in terram rectam",
+      "kind": "ambiguity",
+      "why": "rectus (εὐθεῖα) is 'straight, level' and 'upright'. The Latin leaves both: level ground to walk on (the image) and the land of the upright (the moral sense). 'terra reta' keeps both: the Portuguese word is the rectus row's ('reto', 26:11, 106:7 'caminho reto'). MS1932 'terra da rectidão' keeps only the moral sense; the Hebrew-based Bibles have 'caminho reto'.",
+      "options": [
+        {
+          "label": "à terra reta",
+          "forms": {
+            "terramrectam": "à terra reta"
+          },
+          "note": "Draft. Both senses open.",
+          "from": "draft"
+        },
+        {
+          "label": "à terra da retidão",
+          "forms": {
+            "terramrectam": "à terra da retidão"
+          },
+          "note": "MS1932; the moral sense only; retidão is diréctio's.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a uma terra reta",
+          "forms": {
+            "terramrectam": "a uma terra reta"
+          },
+          "note": "The Latin has no article; the indefinite makes it less a named place.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vivificabis",
+      "refs": [
+        "142:10b"
+      ],
+      "latin": "vivificábis me",
+      "kind": "glossary",
+      "why": "The vivificáre row (open) keeps 'vivificar'; six blind readers have listed it as unknown, and the row carries a proposal to use 'dar a vida' at the future and past. 137:7 has the same words 'vivificábis me' → 'vós me vivificareis'; identical Latin gets identical Portuguese until the row is ruled. v1: the stylist asked 'vós me dareis a vida' (five-syllable Latinism) and the ambiguity reader listed 'vivificareis' as unknown — the seventh psalm to report it. Held for the row's ruling, for identity with 137:7.",
+      "options": [
+        {
+          "label": "vivificareis",
+          "forms": {
+            "vivificabis": "vivificareis"
+          },
+          "note": "Draft; = 137:7.",
+          "from": "glossary"
+        },
+        {
+          "label": "dareis a vida",
+          "forms": {
+            "vivificabis": "dareis a vida"
+          },
+          "note": "MS1932 'me darás a vida'; the row's proposal.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "inmisericordia",
+      "refs": [
+        "142:11b"
+      ],
+      "latin": "et in misericórdia tua dispérdes",
+      "kind": "word",
+      "why": "The Latin's 'in' (ἐν τῷ ἐλέει σου) leaves open how mercy and destruction go together — mercy to me, shown in destroying my enemies. MS1932 'pela tua misericórdia' makes it the means. 'na' keeps the Latin's preposition and its openness, as 142:1 'na vossa verdade … na vossa justiça'.",
+      "options": [
+        {
+          "label": "na",
+          "forms": {
+            "inmisericordia": "na"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "pela",
+          "forms": {
+            "inmisericordia": "pela"
+          },
+          "note": "MS1932; the Ave Maria Bible 'Pela vossa bondade'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "anxiatus",
+      "refs": [
+        "142:3b"
+      ],
+      "latin": "et anxiátus est super me spíritus meus",
+      "kind": "order",
+      "why": "The stylist heard 'espírito se angustiou' as a stumble (the proclitic between a proparoxytone and the verb) and asked for the Latin's own order, verb first. The words are unchanged; the two halves of the colon now mirror each other as in the Latin (verb … subject · in me … verb … subject).",
+      "options": [
+        {
+          "label": "e angustiou-se sobre mim o meu espírito",
+          "forms": {
+            "anxiatus": "e angustiou-se sobre mim o meu espírito"
+          },
+          "note": "v2, the stylist's; the Latin's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "e o meu espírito se angustiou sobre mim",
+          "forms": {
+            "anxiatus": "e o meu espírito se angustiou sobre mim"
+          },
+          "note": "Draft 1; subject first.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "142:1": "The opening formula as 101:2 'Senhor, escutai a minha oração' (D3) and 53:4/83:9 'dai ouvidos' (D4). 'in veritáte tua' → 'na vossa verdade' (véritas row, 53:7), not the Hebrew-based 'pela vossa fidelidade'. The Latin's colon mark after 'meam' is a comma of sense, not a pointing mark; only the asterisk is reproduced.",
+    "142:2": "'E não entreis em juízo com o vosso servo' is word for word the wording Brazilian Catholics know (Ave Maria Bible, fetched — circulation.md); the Latin's 'Et' kept. The first colon is also said alone as a versicle (Epi2-3 responsory).",
+    "142:3a": "'humiliávit in terra vitam meam' follows 7:6 'in terra vitam meam' → 'na terra a minha vida' (the same three words, the same order); humiliáre → humilhar (row). MS1932 'até ao chão' follows the Greek εἰς γῆν.",
+    "142:3b": "collocáre → colocar (row, 22:1). 'anxiári' → 'angustiar-se' (row, 60:3); 'super me' → 'sobre mim' kept, as MS1932. 'in me' → 'em mim' (D42). The Latin's '(4)' marker not reproduced.",
+    "142:5": "'Memor fui' → 'Lembrei-me' (memor esse row; 76:12, 118:52, 118:55); 'dias antigos' as 76:6; 'meditei em todas as vossas obras' = 76:13's words; 'meditábar' imperfect → 'eu meditava' (118:47 'meditava'), the pronoun supplied so the imperfect is not heard as third person.",
+    "142:6": "expándere → estender (43:21, 87:10). 87:10 has 'estendi para vós as minhas mãos' because its Latin puts 'ad te' first; here the Latin order is kept.",
+    "142:7a": "= 101:3b and 68:18 'escutai-me depressa' (velóciter row); 'defécit spíritus meus' = 76:4 'desfaleceu o meu espírito' (defícere row allows things as subject).",
+    "142:7b": "'Non avértas fáciem tuam a me' = 26:9, 101:3 'Não desvieis de mim a vossa face'; 'descendéntibus in lacum' = 27:1, 29:4, 87:5 'os que descem à cova'.",
+    "142:8a": "'Audítam fac' → 'Fazei-me ouvir' (65:8 'fazei ouvir'); mane → 'de manhã' (row); 'in te sperávi' → 'em vós esperei' (7:2, 30:15).",
+    "142:8b": "'Notam fac' → 'fazer conhecer' (row, 15:11, 89:12); 'Ad te levávi ánimam meam' → 'a vós levantei a minha alma' (24:1, 85:3 formula).",
+    "142:9": "'Éripe me de inimícis meis' → 'Arrancai-me dos meus inimigos' (58:2 exactly; erípere row: a source named). 'doce me fácere voluntátem tuam' → 'ensinai-me a fazer a vossa vontade' — what Brazilians know (Ave Maria: 'Ensinai-me a fazer vossa vontade, pois sois o meu Deus', fetched); the article kept (rule 5). 'quia Deus meus es tu' → 'porque vós sois o meu Deus' (15:1, 30:15, 117:28 formula). The Latin's '(10a)' not reproduced. The first colon is the Thursday Lauds antiphon; the whole verse the Offertory of Monday in Holy Week — each half reads alone.",
+    "142:10b": "dedúcere → guiar (D22). 'propter nomen tuum' → 'por causa do vosso nome' (24:11, 30:4). 'in æquitáte tua' → 'na vossa equidade' (118:40), the Latin's comma kept before it. The subject 'vós' supplied, as 137:7.",
+    "142:11b": "edúcere + de → 'tirar de' (row; 29:4, 30:5 'Vós me tirareis deste laço'); tribulátio → tribulação. dispérdere → exterminar (row, which names this verse).",
+    "142:12b": "pérdere → fazer perecer (D24; the row names 142:12b and keeps it apart from dispérdere in the verse before). tribuláre → atribular (row). 'ego servus tuus sum' → 'eu sou o vosso servo' (118:125)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps142.md, the glossary rows and the finished psalms (concordance: ps142/concord.py). No titulus: DO's Latin file has none (D7). Liturgical uses (Thursday Lauds antiphon 142:9a, Advent antiphon, Epi2-3 versicle 142:2a, Offertory Quad6-1 and Gradual Quad5-0 142:9–10) and Brazilian circulation fetched — ps142/circulation.md. Hard readings: obsecrátio (δέησις → prece by D15), non … omnis vivens, mórtuos sǽculi, facta against ópera, the verbless dative of 142:6, 'et símilis ero', ad te confúgi, terram rectam."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 142:1 first colon -8 (the Latin colon is 34 syllables; the Portuguese formulas are shorter); 142:3b +3/+3 (lugares supplied for the neuter plural; the long second colon is the Latin's); 142:5 -6; 142:8b +3 (eu supplied); 142:12b +5 (fazer perecer, D24 settled — accepted); 142:7a ends on the proparoxytone espírito — the formula of 76:4, accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. One minor (142:3b 'de outrora' narrows sǽculi); held, 'do século' added as an option. Overall: faithful, tenses, moods and marks kept.",
+      "outcomes": [
+        {
+          "verse": "142:3b",
+          "remark": "sǽculi narrowed by 'de outrora'; wants 'do século'",
+          "outcome": "option",
+          "decision": "saeculi",
+          "reason": "'do século' is heard as 'of the century'; both Vulgate-family witnesses (DRB, MS1932) read 'of old'."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. 8 remarks: 2 taken (142:3b order, 142:8b 'por onde'), 6 refused (kept as options where they are renderings). Best 142:7a, worst 142:10b.",
+      "outcomes": [
+        {
+          "verse": "142:3b",
+          "remark": "'Colocou-me em lugares escuros' flat; wants 'Pôs-me nas trevas'",
+          "outcome": "refused",
+          "decision": "obscuris",
+          "reason": "collocáre → colocar (row; 'pôr' is pónere's) and 'trevas' is ténebræ's; 'nas trevas' is already option 2 of 'obscuris'."
+        },
+        {
+          "verse": "142:3b",
+          "remark": "'espírito se angustiou' stumbles; wants verb first",
+          "outcome": "taken",
+          "decision": "anxiatus"
+        },
+        {
+          "verse": "142:6",
+          "remark": "'para vós … para vós' accidental echo; wants 'diante de vós'",
+          "outcome": "option",
+          "decision": "tibi",
+          "reason": "'diante de vós' closes the Latin's open dative."
+        },
+        {
+          "verse": "142:8b",
+          "remark": "'em que eu ande' a calque; wants 'por onde eu ande'",
+          "outcome": "taken",
+          "decision": "ambulem"
+        },
+        {
+          "verse": "142:10b",
+          "remark": "'por causa do vosso nome' prosaic; wants 'pelo vosso nome'",
+          "outcome": "refused",
+          "reason": "the psalter's formula for 'propter nomen tuum' (24:11, 30:4, 43:26, 108:21); 'pelo' would also be heard as an oath."
+        },
+        {
+          "verse": "142:10b",
+          "remark": "'vivificareis' a Latinism; wants 'dareis a vida'",
+          "outcome": "option",
+          "decision": "vivificabis",
+          "reason": "held for identity with 137:7 until the vivificáre row is ruled; the evidence is added to the row."
+        },
+        {
+          "verse": "142:10b",
+          "remark": "'guiará à' vowel clash; wants 'há de guiar-me'",
+          "outcome": "refused",
+          "reason": "the Latin's plain future; the auxiliary adds a syllable to a colon already over the Latin, and 'guiará à' elides."
+        },
+        {
+          "verse": "142:12b",
+          "remark": "'fareis perecer' weak, breaks the disperdes/perdes echo; wants 'destruireis' in 11b and 12b",
+          "outcome": "refused",
+          "reason": "D24 settled pérdere → fazer perecer, apart from dispérdere → exterminar (the pérdere row names 142:12b); the Latin's two verbs are two (ἐξολεθρεύσεις / ἀπολεῖς), and merging them into 'destruir' loses one; 'destruir' also fails rule 3 at the imperative elsewhere."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 18 readings, nearly all heard as meant (142:2 'do not judge your servant'; 142:6 'thirsts for you'; 142:8b 'the way I should walk'). Unknown: vivente, outrora, vivificareis, equidade, atribulam — all glossary or formula words, kept.",
+      "outcomes": [
+        {
+          "verse": "142:7b",
+          "remark": "'e serei' may be heard as the result of the request",
+          "outcome": "option",
+          "decision": "similis",
+          "reason": "the reader says most infer 'otherwise'; the Latin's 'et' kept, 'senão serei' is option 1."
+        },
+        {
+          "verse": "142:3a",
+          "remark": "'humilhou na terra' heard as 'here on earth' first",
+          "outcome": "refused",
+          "reason": "the Latin 'in terra' carries both; 7:6 has the same words 'na terra a minha vida'."
+        },
+        {
+          "verse": "142:10b",
+          "remark": "'terra reta' image unclear",
+          "outcome": "refused",
+          "decision": "terramrectam",
+          "reason": "the reader heard both senses the draft means to keep open (level ground, upright land)."
+        },
+        {
+          "verse": "142:10b",
+          "remark": "unknown 'vivificareis', 'equidade'",
+          "outcome": "refused",
+          "decision": "vivificabis",
+          "reason": "glossary words (vivificáre row open; æquitas → equidade, 118:40); evidence added to the row."
+        },
+        {
+          "verse": "142:3b",
+          "remark": "unknown 'outrora'",
+          "outcome": "refused",
+          "decision": "saeculi",
+          "reason": "heard rightly in context ('the long-dead')."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 142:3b second colon in the Latin's order (stylist); 142:8b 'por onde eu ande' (stylist). Nothing else changed in the text; options added for the Latinist's 'do século'. prayed.v1.json kept."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. 142:8b first colon now +4 (por onde eu ande), accepted: sayable in one breath. Other soft flags as v1."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2, claude-opus-5-5, fresh context, read latin.json. No major; three minors, all held with options. Overall: close and faithful; tenses, the futures of 10b–12b and the literal 'e serei semelhante' kept; marks match.",
+      "outcomes": [
+        {
+          "verse": "142:2",
+          "remark": "'na vossa presença' abstracts conspéctus; wants 'diante dos vossos olhos'",
+          "outcome": "option",
+          "decision": "conspectu",
+          "reason": "'olho' is óculus's in the conspéctus row; the v1 run passed the verse; 'à vossa vista' remains option 1."
+        },
+        {
+          "verse": "142:3b",
+          "remark": "'de outrora' narrows sǽculi; wants 'de há muito' (second run in a row)",
+          "outcome": "option",
+          "decision": "saeculi",
+          "reason": "both runs minor and asking different fixes ('do século', 'de há muito'); 'de há muito' narrows the same way (to time past) and is European in ear. For Gustavo."
+        },
+        {
+          "verse": "142:9",
+          "remark": "'em vós me refugiei' loses the motion of 'ad te'; wants 'a vós me acolhi'",
+          "outcome": "option",
+          "decision": "confugi",
+          "reason": "'acolher' is suscípere's word; 'junto de vós me refugiei' (MS1932) is option 1 for whoever wants the direction back. The colon is the Thursday Lauds antiphon and reads alone either way."
+        }
+      ]
+    }
+  ]
+}

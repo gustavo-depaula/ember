@@ -1,0 +1,895 @@
+{
+  "psalm": 138,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "138:1": "Senhor, vós me provastes, e me conhecestes: * vós conhecestes {sessio}.",
+    "138:3": "De longe entendestes os meus pensamentos: * {investigasti} a minha vereda e {funiculus}.",
+    "138:4": "E previstes todos os meus caminhos: * porque não há palavra na minha língua.",
+    "138:5": "Eis, Senhor, que vós conhecestes todas as coisas, as últimas e as antigas: * vós me formastes, e pusestes sobre mim a vossa mão.",
+    "138:6": "Maravilhoso se tornou o vosso saber {exme}: * fortaleceu-se, e não {potero}.",
+    "138:7": "{quo} irei, {aspiritu} do vosso espírito? * e {quo2} fugirei da vossa face?",
+    "138:8": "Se eu subir ao céu, vós estais ali: * se eu descer ao {infernum}, estais presente.",
+    "138:9": "Se eu tomar {pennas} ao amanhecer, * e habitar nos extremos do mar:",
+    "138:10": "Pois também ali a vossa mão me guiará: * e me {tenebit} a vossa direita.",
+    "138:11": "E eu disse: Talvez as trevas {conculcabunt}: * e a noite {nox} a minha luz nas minhas delícias.",
+    "138:12": "Porque as trevas {obscurabuntur} para vós, † e a noite se iluminará como o dia: * como as suas trevas, assim também a sua luz.",
+    "138:13": "Porque vós possuístes os meus rins: * vós me amparastes desde {utero} da minha mãe.",
+    "138:14": "Eu vos darei graças, porque fostes engrandecido {terribiliter}: ‡ maravilhosas são as vossas obras, * e a minha alma {cognoscit} {nimis14}.",
+    "138:15": "Não vos foram ocultos {os}, que fizestes em oculto: * e o meu ser nas partes mais baixas da terra.",
+    "138:16": "Os vossos olhos me viram {imperfectum}, † e no vosso livro todos serão escritos: * dias serão formados, e ninguém neles.",
+    "138:17": "{mihi}, {nimis17} foram honrados os vossos amigos, Deus: * {nimis17b} se fortaleceu {principatus}.",
+    "138:18": "Eu os contarei, e se multiplicarão {superarenam}: * {exsurrexi}, e ainda estou convosco.",
+    "138:19": "{si} matardes, Deus, os pecadores: * homens de sangue, apartai-vos de mim:",
+    "138:20": "Porque dizeis em pensamento: * {accipient} as vossas cidades.",
+    "138:21": "Não odiava eu, Senhor, os que vos odeiam? * e não definhava por causa dos vossos inimigos?",
+    "138:22": "Com ódio perfeito eu os odiava: * e eles se tornaram meus inimigos.",
+    "138:23": "Provai-me, Deus, e {scito} o meu coração: * interrogai-me, e conhecei as minhas veredas.",
+    "138:24": "E vede se há em mim caminho de iniquidade: * e guiai-me no caminho eterno."
+  },
+  "decisions": [
+    {
+      "id": "sessio",
+      "refs": [
+        "138:1"
+      ],
+      "latin": "tu cognovísti sessiónem meam, et resurrectiónem meam",
+      "kind": "word",
+      "why": "Two nouns (καθέδραν … ἔγερσιν): my sitting and my rising. *resurréctio* in Church Latin is the word for resurrection (Lewis & Short know no other sense), and this very colon is the verse of the Easter Sunday Introit (missa Pasc0-0) — the Church hears the risen Christ in it, and the Fathers read *sessio* / *resurrectio* as passion and resurrection. The plain sense is sitting down and getting up. Ruled: two nominal infinitives, *o meu sentar e o meu ressurgir* — nouns as the Latin, the plain image of sitting and rising, and *ressurgir* (the glossary's verb for *resúrgere*, Ps 1:5, 40:9) keeps the rising-again that the Easter use hears, without forcing it. Cost: *o meu ressurgir* after a sitting is less plain than *levantar*.",
+      "options": [
+        {
+          "label": "o meu sentar e o meu ressurgir",
+          "forms": {
+            "sessio": "o meu sentar e o meu ressurgir"
+          },
+          "note": "Draft. Nouns kept as nominal infinitives; the resúrgere row's verb keeps the Easter echo open.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu assento e a minha ressurreição",
+          "forms": {
+            "sessio": "o meu assento e a minha ressurreição"
+          },
+          "note": "The Latin's nouns word for word; the Easter sense spoken outright, the plain sense (getting up) lost — *assento* is a seat.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu sentar e o meu levantar",
+          "forms": {
+            "sessio": "o meu sentar e o meu levantar"
+          },
+          "note": "The plain image only; the Easter echo gone.",
+          "from": "draft"
+        },
+        {
+          "label": "quando me sento e quando me levanto",
+          "forms": {
+            "sessio": "quando me sento e quando me levanto"
+          },
+          "note": "MS1932 (*tu sabes quando me sento e quando me levanto*); the CNBB's line from the Hebrew is close (circulation.md). Nouns turned to clauses; the Easter echo gone.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "funiculus",
+      "refs": [
+        "138:3"
+      ],
+      "latin": "sémitam meam, et funículum meum investigásti",
+      "kind": "word",
+      "why": "*funículus* (σχοῖνος) is a cord, a measuring line; beside *sémita* it is the line a life is laid out by (DRB 'my line'; MS1932 *o fio da minha carreira* explains). The glossary's *funículus → corda* (77:54b, 104:11) keeps the image. *investigáre* is to track by footprints (*vestigium*; ἐξιχνιάζω, 'follow the track'); *investigar* is its cognate and plain. Kept.",
+      "options": [
+        {
+          "label": "investigastes … a minha corda",
+          "forms": {
+            "investigasti": "investigastes",
+            "funiculus": "a minha corda"
+          },
+          "note": "Draft. The glossary's *corda*; the cognate verb. The Latin's order (object first) turned to Portuguese order.",
+          "from": "glossary"
+        },
+        {
+          "label": "rastreastes … a minha corda",
+          "forms": {
+            "investigasti": "rastreastes",
+            "funiculus": "a minha corda"
+          },
+          "note": "The track-following of *in-vestig-áre* made concrete; *rastrear* is also heard as surveillance.",
+          "from": "draft"
+        },
+        {
+          "label": "investigastes … o meu fio",
+          "forms": {
+            "investigasti": "investigastes",
+            "funiculus": "o meu fio"
+          },
+          "note": "MS1932's word (*o fio da minha carreira*), without his gloss; leaves the glossary's *corda*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exme",
+      "refs": [
+        "138:6"
+      ],
+      "latin": "Mirábilis facta est sciéntia tua ex me",
+      "kind": "ambiguity",
+      "why": "*ex me* (ἐξ ἐμοῦ) renders the Hebrew comparative *mimmenni* ('too wonderful for me'), but a Latin reader can also hear 'from me' or 'of me' — God's knowledge made wonderful from what he did in me (Augustine's reading). v1 ruled for MS1932's *acima de mim*, the comparison 6b supports; the v1 Latinist (minor) showed it closes what the Latin leaves open. v2 takes the preposition's own word, *de mim*: 'of me / from me' stays audible and 6b still says the knowledge is out of reach (D2). The colon is also in the Easter Introit; *o vosso saber* is the sciéntia row's word.",
+      "options": [
+        {
+          "label": "de mim",
+          "forms": {
+            "exme": "de mim"
+          },
+          "note": "v2, the v1 Latinist's fix: the preposition, the Latin's openness kept.",
+          "from": "latinist"
+        },
+        {
+          "label": "acima de mim",
+          "forms": {
+            "exme": "acima de mim"
+          },
+          "note": "v1; MS1932 *Maravilhosa acima de mim*. The comparison, as 6b supports; resolves the ambiguity.",
+          "from": "MS1932"
+        },
+        {
+          "label": "para mim",
+          "forms": {
+            "exme": "para mim"
+          },
+          "note": "DRB 'is become wonderful to me'.",
+          "from": "DRB"
+        },
+        {
+          "label": "a partir de mim",
+          "forms": {
+            "exme": "a partir de mim"
+          },
+          "note": "The preposition's source sense (Augustine); explains more than it says.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potero",
+      "refs": [
+        "138:6"
+      ],
+      "latin": "confortáta est, et non pótero ad eam",
+      "kind": "grammar",
+      "why": "*non pótero ad eam* has no infinitive ('I shall not be able [to reach] to it'); Portuguese needs one. *confortáta est* keeps the glossary's *fortalecer-se* (ἐκραταιώθη) — the Latin says 'grew strong', not the Hebrew's 'is high'.",
+      "options": [
+        {
+          "label": "poderei alcançá-lo",
+          "forms": {
+            "potero": "poderei alcançá-lo"
+          },
+          "note": "Draft. The verb supplied; MS1932 *não poderei atingi-la*.",
+          "from": "draft"
+        },
+        {
+          "label": "poderei chegar até ele",
+          "forms": {
+            "potero": "poderei chegar até ele"
+          },
+          "note": "*ad eam* kept as *até*; longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aspiritu",
+      "refs": [
+        "138:7"
+      ],
+      "latin": "Quo ibo a spíritu tuo?",
+      "kind": "grammar",
+      "why": "*ire a* is 'go away from'; *ir do vosso espírito* is not Portuguese. *longe* supplies the separation *a* carries; the second colon *fugirei da vossa face* (as 67:2 *fujam da sua face*; the CNBB's line has the same words, circulation.md) needs nothing. *Quo … quo* → *Aonde … aonde* (the verb of motion takes *aonde*); the parallel of the two questions kept, and the first colon one syllable shorter than *Para onde* (checks flagged +6).",
+      "options": [
+        {
+          "label": "longe",
+          "forms": {
+            "aspiritu": "longe",
+            "quo": "Aonde",
+            "quo2": "aonde"
+          },
+          "note": "Draft. DM1962 has the same build (*Aonde irei longe do teu espírito*).",
+          "from": "DM1962"
+        },
+        {
+          "label": "fugindo",
+          "forms": {
+            "aspiritu": "fugindo",
+            "quo": "Aonde",
+            "quo2": "aonde"
+          },
+          "note": "Anticipates 7b's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Para onde … para onde",
+          "forms": {
+            "quo": "Para onde",
+            "aspiritu": "longe",
+            "quo2": "para onde"
+          },
+          "note": "MS1932's *Para onde*; +2 syllables in a colon already long against the Latin's nine.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "infernum",
+      "refs": [
+        "138:8"
+      ],
+      "latin": "si descéndero in inférnum, ades",
+      "kind": "glossary",
+      "why": "The inférnus row names 138:8 as one of its hard tests: God present in the *inferno*. The Latin's word is kept, as in every translated place (6:6, 15:10, 29:4 …). Here the hell of the damned is not a wrong sense: God's presence even there is the point of the verse. The CNBB (from the Hebrew) has *abismo*; the Vatican's Portuguese Easter message of 2008 quotes *se descer aos infernos* (circulation.md).",
+      "options": [
+        {
+          "label": "inferno",
+          "forms": {
+            "infernum": "inferno"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "mundo dos mortos",
+          "forms": {
+            "infernum": "mundo dos mortos"
+          },
+          "note": "The row's option (Ps 29).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "pennas",
+      "refs": [
+        "138:9"
+      ],
+      "latin": "Si súmpsero pennas meas dilúculo",
+      "kind": "word",
+      "why": "The Latin (and the Greek τὰς πτέρυγάς μου κατ' ὄρθρον) says *my* wings, at daybreak — not the Hebrew's 'wings of the dawn' that the CNBB prays (*Se a aurora me emprestar as suas asas*). *penna* is feather and wing; *asas* is the plain word. *dilúculo* → *ao amanhecer* as 56:9 = 107:3.",
+      "options": [
+        {
+          "label": "as minhas asas",
+          "forms": {
+            "pennas": "as minhas asas"
+          },
+          "note": "Draft. The Latin's possessive kept.",
+          "from": "draft"
+        },
+        {
+          "label": "as minhas penas",
+          "forms": {
+            "pennas": "as minhas penas"
+          },
+          "note": "The cognate; *penas* is heard first as 'sorrows'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "tenebit",
+      "refs": [
+        "138:10"
+      ],
+      "latin": "et tenébit me déxtera tua",
+      "kind": "glossary",
+      "why": "The tenére row (open) has *tomar* in Ps 72 for a pair that must match there (pride seizing, God holding). Here there is no pair; the sense is holding fast. *segurar* is the row's own named option, plain, and the CNBB's verb here. Proposed for the row: *segurar* where *tenére* is God holding a person and no pair binds. v2: the second colon follows the Latin order (*et tenébit me déxtera tua → e me segurará a vossa direita*), which also breaks the v1 *guiará / segurará* rhyme at mediant and final (the v1 stylist).",
+      "options": [
+        {
+          "label": "segurará",
+          "forms": {
+            "tenebit": "segurará"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "tomará",
+          "forms": {
+            "tenebit": "tomará"
+          },
+          "note": "MS1932 *me tomará a tua direita*; the tenére row's word from Ps 72.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conculcabunt",
+      "refs": [
+        "138:11"
+      ],
+      "latin": "Fórsitan ténebræ conculcábunt me",
+      "kind": "grammar",
+      "why": "*fórsitan → talvez* (row). Portuguese puts *talvez* before a verb with the subjunctive; the Latin has a future. *conculcáre → calcar aos pés* (D44; this verse is on the row's list). Ps 7's readers stumbled on the subjunctive *calque*; the plural *calquem* is the form here. The future (*me calcarão aos pés*) keeps the Latin's tense but is school-grammar wrong after a leading *talvez*.",
+      "options": [
+        {
+          "label": "me calquem aos pés",
+          "forms": {
+            "conculcabunt": "me calquem aos pés"
+          },
+          "note": "Draft. The row's verb in the mood Portuguese needs.",
+          "from": "glossary"
+        },
+        {
+          "label": "me calcarão aos pés",
+          "forms": {
+            "conculcabunt": "me calcarão aos pés"
+          },
+          "note": "The Latin's future; colloquial after *talvez*.",
+          "from": "draft"
+        },
+        {
+          "label": "me pisem",
+          "forms": {
+            "conculcabunt": "me pisem"
+          },
+          "note": "The v1 stylist: plainer, but leaves the conculcáre row and loses the *con-*.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "nox",
+      "refs": [
+        "138:11"
+      ],
+      "latin": "et nox illuminátio mea in delíciis meis",
+      "kind": "grammar",
+      "why": "Verbless in the Latin and the Greek. A copula must be supplied for a Portuguese sentence; the future follows *conculcábunt* inside the same supposed speech (DRB 'and night shall be my light'). *illuminátio → luz* (row, 26:1); *delíciæ* (τρυφή) → *delícias*, the word 35:9 gives *voluptas* for the same Greek τρυφή (D15's test).",
+      "options": [
+        {
+          "label": "será",
+          "forms": {
+            "nox": "será"
+          },
+          "note": "Draft; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "é",
+          "forms": {
+            "nox": "é"
+          },
+          "note": "Present: a statement, not part of the fear.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "obscurabuntur",
+      "refs": [
+        "138:12"
+      ],
+      "latin": "Quia ténebræ non obscurabúntur a te",
+      "kind": "grammar",
+      "why": "Future passive with *a te* (ἀπὸ σοῦ): the darkness will not be dark to God. *por vós* would make God the one who darkens (a wrong sense); *para vós* is DRB's 'to thee'. The medio-passive keeps the verb.",
+      "options": [
+        {
+          "label": "não se escurecerão",
+          "forms": {
+            "obscurabuntur": "não se escurecerão"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "não serão escuras",
+          "forms": {
+            "obscurabuntur": "não serão escuras"
+          },
+          "note": "MS1932 *não são escuras* (present); the verb turned to an adjective.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "utero",
+      "refs": [
+        "138:13"
+      ],
+      "latin": "suscepísti me de útero matris meæ",
+      "kind": "glossary",
+      "why": "The *úterus* row: *seio* with *materno* (21:10, 70:6) because bare *seio* is the breast; here *da minha mãe* does the same work — *o seio da minha mãe* is heard as the womb (the CNBB has *no seio de minha mãe* in this psalm, circulation.md). *ventre* stays *venter*'s. *suscípere* (a person) → *amparar* (D19).",
+      "options": [
+        {
+          "label": "o seio",
+          "forms": {
+            "utero": "o seio"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "o ventre",
+          "forms": {
+            "utero": "o ventre"
+          },
+          "note": "Plainest, but it is venter's word (21:11, 70:6b *desde o ventre da minha mãe*).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "terribiliter",
+      "refs": [
+        "138:14"
+      ],
+      "latin": "quia terribíliter magnificátus es",
+      "kind": "word",
+      "why": "The Latin has God magnified (2nd person), where the Greek has ἐθαυμαστώθην (1st person, 'I was made wonderful') and the Hebrew likewise: the Latin is translated. *terríbilis → terrível* is settled (D43); the adverb *terrivelmente* is heard in Brazil as 'extremely' or 'badly', so the phrase *de modo terrível* keeps the root without the slang. *magnificáre → engrandecer* (row).",
+      "options": [
+        {
+          "label": "de modo terrível",
+          "forms": {
+            "terribiliter": "de modo terrível"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "terrivelmente",
+          "forms": {
+            "terribiliter": "terrivelmente"
+          },
+          "note": "The adverb; everyday 'awfully'. The v1 stylist asked for it in the Latin order (*porque terrivelmente fostes engrandecido*).",
+          "from": "draft"
+        },
+        {
+          "label": "de modo tremendo",
+          "forms": {
+            "terribiliter": "de modo tremendo"
+          },
+          "note": "Awe without the everyday 'horrible'; leaves the terríbilis row.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "138:14",
+        "138:17"
+      ],
+      "latin": "cognóscit nimis … nimis honorificáti sunt … nimis confortátus est",
+      "kind": "glossary",
+      "why": "Three times in the psalm, twice in one verse (17), where the repetition is the Latin's figure and must stay. The nimis row has no single rendering; *sem medida* (118:138, 45:2, 78:8, 106:38, 108:30, 115:1) keeps the 'beyond measure' that *nimis* says, where *muito* (47:2, as valde) flattens it. One word for all three places. 138:17 is the Apostles' Introit, Gradual and responsory (missa Sancti 02-24, 11-29; Commune C1) — the line will be said alone.",
+      "options": [
+        {
+          "label": "sem medida",
+          "forms": {
+            "nimis14": "sem medida",
+            "nimis17": "sem medida",
+            "nimis17b": "sem medida"
+          },
+          "note": "Draft. The row's most-used rendering.",
+          "from": "glossary"
+        },
+        {
+          "label": "muito",
+          "forms": {
+            "nimis14": "muito bem",
+            "nimis17": "muito",
+            "nimis17b": "muito"
+          },
+          "note": "As 47:2 (valde's word); plainer, weaker. In 14 it needs *bem*.",
+          "from": "glossary"
+        },
+        {
+          "label": "sobremaneira",
+          "forms": {
+            "nimis14": "sobremaneira",
+            "nimis17": "sobremaneira",
+            "nimis17b": "sobremaneira"
+          },
+          "note": "MS1932 in 17 (*honraste sobremaneira*); unknown to earlier blind readers (118:96, 30:12).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cognoscit",
+      "refs": [
+        "138:14"
+      ],
+      "latin": "et ánima mea cognóscit nimis",
+      "kind": "grammar",
+      "why": "*cognóscit* has no object; *conhecer* wants one (the cognóscere row: collocation governs). The object is plainly the works just named; *o* (neuter: 'it, this') is the lightest supply and does not narrow it to the works. The psalter's antiphon *Mirabília ópera tua, Dómine, et ánima mea cognóscit nimis* is said with this colon.",
+      "options": [
+        {
+          "label": "o conhece",
+          "forms": {
+            "cognoscit": "o conhece"
+          },
+          "note": "Draft; MS1932 *o conhece de sobra*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "as conhece",
+          "forms": {
+            "cognoscit": "as conhece"
+          },
+          "note": "The works named as object.",
+          "from": "draft"
+        },
+        {
+          "label": "o sabe",
+          "forms": {
+            "cognoscit": "o sabe"
+          },
+          "note": "The row's *saber* where there is no noun object (13:4).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "os",
+      "refs": [
+        "138:15"
+      ],
+      "latin": "Non est occultátum os meum a te, quod fecísti in occúlto",
+      "kind": "grammar",
+      "why": "*os meum* (τὸ ὀστοῦν μου) is a collective singular, the frame of the body. *o meu osso* is heard as one bone; the plural is how Portuguese says it (MS1932 *Os meus ossos*); number is grammar (D2). The Latin's echo *occultátum … in occúlto* is kept (*ocultos … em oculto*). 15b keeps *et*, not *nem*: *substántia mea* can hang on *non est occultátum* or on *fecísti*, and the Latin leaves it open. *substántia → o meu ser* (D39, which names 138:15); *inferióra terræ → as partes mais baixas da terra* (62:10; the row names 138:15).",
+      "options": [
+        {
+          "label": "os meus ossos",
+          "forms": {
+            "os": "os meus ossos"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o meu osso",
+          "forms": {
+            "os": "o meu osso"
+          },
+          "note": "The Latin's number (DRB 'my bone'); heard as a single bone.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "imperfectum",
+      "refs": [
+        "138:16"
+      ],
+      "latin": "Imperféctum meum vidérunt óculi tui",
+      "kind": "word",
+      "why": "A neuter adjective as noun, 'my unfinished (being)' (ἀκατέργαστον, 'unwrought'). L&S: *imperféctus* is first 'unfinished, incomplete'. The cognate *imperfeito* is heard today first as 'flawed' — the moral sense, which the Latin can carry (Augustine applies it to the weaker members of the Church) but not first. Ruled: *inacabado*, the plainer word for the first sense, with the noun turned to a predicate on *me* (grammar). *ser* is not supplied because 138:15 already spends it on *substántia*.",
+      "options": [
+        {
+          "label": "inacabado",
+          "forms": {
+            "imperfectum": "inacabado"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "imperfeito",
+          "forms": {
+            "imperfectum": "imperfeito"
+          },
+          "note": "The cognate; heard as 'flawed' first — both senses the Latin can have.",
+          "from": "draft"
+        },
+        {
+          "label": "ainda informe",
+          "forms": {
+            "imperfectum": "ainda informe"
+          },
+          "note": "MS1932 *quando era ainda informe*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mihi",
+      "refs": [
+        "138:17"
+      ],
+      "latin": "Mihi autem",
+      "kind": "word",
+      "why": "The dative of the one who judges: 'to me, in my eyes'. *Mas para mim* keeps the dative and the *autem*. MS1932's *Mas eu vejo que* explains it. The Apostles' Introit (02-24) keeps *Mihi autem*; the Gradual and the responsories drop it — the colon reads without it.",
+      "options": [
+        {
+          "label": "Mas para mim",
+          "forms": {
+            "mihi": "Mas para mim"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "Para mim, porém",
+          "forms": {
+            "mihi": "Para mim, porém"
+          },
+          "note": "*autem* after, as the Latin places it; heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "Mas para mim, Deus, … os vossos amigos",
+          "forms": {
+            "mihi": "Mas para mim"
+          },
+          "note": "The v1 stylist moved the vocative forward (*ó Deus*). Not taken: the bare *Deus* is house style, and the Apostles' Gradual lifts *Nimis honoráti sunt amíci tui, Deus* without *Mihi autem*, so the vocative has to stay in the colon's end.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "principatus",
+      "refs": [
+        "138:17"
+      ],
+      "latin": "nimis confortátus est principátus eórum",
+      "kind": "word",
+      "why": "*principátus* (αἱ ἀρχαί) is rule, pre-eminence (L&S). The cognate *principado* is heard in Brazil as a prince's territory (Monaco) — or as the angelic order. *domínio* is already shared by three Latin words (dominátio, impérium, potéstas: rows 85:16, 113:2). D44 gave the adjective *principális* → *soberano* (50:14); *soberania* keeps that family. The CNBB's line (from the Hebrew) is about God's thoughts, not his friends: no help.",
+      "options": [
+        {
+          "label": "a sua soberania",
+          "forms": {
+            "principatus": "a sua soberania"
+          },
+          "note": "Draft. The principális family (D44).",
+          "from": "draft"
+        },
+        {
+          "label": "o seu principado",
+          "forms": {
+            "principatus": "o seu principado"
+          },
+          "note": "The cognate (DRB 'principality').",
+          "from": "DRB"
+        },
+        {
+          "label": "o seu império",
+          "forms": {
+            "principatus": "o seu império"
+          },
+          "note": "MS1932; *império* was refused at 85:16 as 'empire'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o seu domínio",
+          "forms": {
+            "principatus": "o seu domínio"
+          },
+          "note": "Plain; a fourth Latin word on *domínio*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "superarenam",
+      "refs": [
+        "138:18"
+      ],
+      "latin": "et super arénam multiplicabúntur",
+      "kind": "grammar",
+      "why": "*super* is the comparison (ὑπὲρ ἄμμον), as 17:18 *super me* → *mais do que eu*. *sobre a areia* would be heard as 'on the sand'.",
+      "options": [
+        {
+          "label": "mais que a areia",
+          "forms": {
+            "superarenam": "mais que a areia"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "além da areia",
+          "forms": {
+            "superarenam": "além da areia"
+          },
+          "note": "Keeps *super* as a preposition.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exsurrexi",
+      "refs": [
+        "138:18"
+      ],
+      "latin": "exsurréxi, et adhuc sum tecum",
+      "kind": "glossary",
+      "why": "*exsúrgere → levantar-se* (row; 3:6 *e me levantei*, the same *exsurréxi*). The Easter Introit reads *Resurréxi* (the Roman psalter's word) where this psalter has *exsurréxi*; this text follows the psalter, and a Missal translation would render *Resurréxi* by its own verb. Circulating Portuguese renderings of the Introit (*Ressuscitei, estou convosco para sempre*; *ressuscitei e estou sempre contigo*; circulation.md) belong to that word, not this one. *adhuc → ainda* (not *para sempre*).",
+      "options": [
+        {
+          "label": "levantei-me",
+          "forms": {
+            "exsurrexi": "levantei-me"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "despertei",
+          "forms": {
+            "exsurrexi": "despertei"
+          },
+          "note": "ἐξηγέρθην as waking (MS1932 *Quando desperto*); leaves the row.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ressurgi",
+          "forms": {
+            "exsurrexi": "ressurgi"
+          },
+          "note": "The Easter Introit's *Resurréxi*; the resúrgere row's verb, not exsúrgere's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "si",
+      "refs": [
+        "138:19"
+      ],
+      "latin": "Si occíderis, Deus, peccatóres",
+      "kind": "ambiguity",
+      "why": "A protasis with no apodosis (ἐὰν ἀποκτείνῃς): the Hebrew *'im* here is a wish ('O that you would slay'), and MS1932 turns it into a question (*Não acabarás … ?*). The Latin says *Si*; the ellipsis is kept, as the Latin keeps it. *occídere → matar* (row).",
+      "options": [
+        {
+          "label": "Se",
+          "forms": {
+            "si": "Se"
+          },
+          "note": "Draft; DRB 'If thou wilt kill'.",
+          "from": "DRB"
+        },
+        {
+          "label": "Oxalá",
+          "forms": {
+            "si": "Oxalá"
+          },
+          "note": "The wish reading (the Hebrew's sense); it resolves what the Latin leaves open.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "accipient",
+      "refs": [
+        "138:20"
+      ],
+      "latin": "Accípient in vanitáte civitátes tuas",
+      "kind": "ambiguity",
+      "why": "*accípere → receber* (row); *in vanitáte* (εἰς ματαιότητα) → *em vão*, the phrase's Portuguese form (*receber na vaidade* is not said); the vánitas row's *vaidade* is for the noun standing alone. **A cost of *vós*:** *civitátes tuas* is God's (singular), inside a speech of men addressed as *vós* (*dícitis*, plural); in Portuguese *as vossas cidades* can be heard as the men's. v1 wrote *vós dizeis* (the Ps 10:2 remedy) to name the speakers; both v1 readers (stylist, ambiguity) heard that stressed *vós* as God, the psalm's addressee everywhere else. v2 drops it, as the Latin has no pronoun (*dícitis*): the plural ending after *apartai-vos* marks the men; *as vossas cidades* stays open. MS1932 glosses a whole subject in (*os justos possuirão*); not followed.",
+      "options": [
+        {
+          "label": "Receberão em vão",
+          "forms": {
+            "accipient": "Receberão em vão"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "Tomarão em vão",
+          "forms": {
+            "accipient": "Tomarão em vão"
+          },
+          "note": "The accípere row's option (DRB 23:4 'taken in vain'); heard as the commandment's 'take in vain'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "scito",
+      "refs": [
+        "138:23"
+      ],
+      "latin": "Proba me, Deus, et scito cor meum: intérroga me, et cognósce sémitas meas",
+      "kind": "glossary",
+      "why": "The Latin varies *scito … cognósce*; the Greek has γνῶθι twice. By D15's Greek test one verb serves, and the scire row already gives *conhecer* (118:125). *conhecei* is safe at the vós imperative (past *conheci*). *Provai-me* as 25:2; *interrogai-me* as the interrogáre row foresaw.",
+      "options": [
+        {
+          "label": "conhecei",
+          "forms": {
+            "scito": "conhecei"
+          },
+          "note": "Draft; the scire row; the Greek's repetition heard.",
+          "from": "glossary"
+        },
+        {
+          "label": "sabei",
+          "forms": {
+            "scito": "sabei"
+          },
+          "note": "Keeps the Latin's two verbs apart; *sabei o meu coração* is not said.",
+          "from": "draft"
+        },
+        {
+          "label": "sondai",
+          "forms": {
+            "scito": "sondai"
+          },
+          "note": "MS1932 *sonda o meu coração*; scrutári's word (7:10), refused.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "138:1": "No titulus (*In finem, Psalmus David* in the LXX and MS1932; not in DO's Latin): D7. *vós* supplied in 1a for a sayable opening with proclisis; 1b's *vós* is the Latin's *tu*. The verse number (2) inside the Latin is not reproduced. The whole verse is the Easter Introit's psalm verse and the Introit verse of 02-24 (circulation.md). *probáre → provar* (the examináre / probáre row, as 16:3, 25:2). The CNBB's familiar *vós me sondais e conheceis* is from the Hebrew: *sondar* is scrutári's word here.",
+    "138:3": "*intellígere → entender*; *de longe* moved to the head (natural order). *sémita → vereda* (D15).",
+    "138:4": "*sermo → palavra* (D15). The Latin (with the Greek) says only that there is no word on my tongue; MS1932 and the CNBB add 'before it / you know it all' (the Hebrew) — not added.",
+    "138:5": "*Ecce → Eis que* (the ecce row, 127:4). *novíssima … antíqua* → *as últimas e as antigas* with *coisas* supplied once; the *novíssima* row (72:17, *o fim deles*) is another build. 5b is in the Easter Introit.",
+    "138:8": "*illic → ali* (row). *ades → estais presente* (the CNBB has the same words, from the Hebrew).",
+    "138:9": "*extréma maris* → *os extremos do mar*; plural kept.",
+    "138:10": "*Étenim* (καὶ γάρ) → *Pois também*; *illuc* (whither) → *ali*, the row's word. *dedúcere → guiar* (D22; this verse is on the row's list).",
+    "138:12": "The middle colon *et nox sicut dies illuminábitur* → *e a noite se iluminará como o dia*: the medio-passive (MS1932 *a noite é clara como o dia*) and Portuguese order; the Latin-order *e a noite, como o dia, será iluminada* was +4 syllables. *sicut ténebræ ejus, ita et lumen ejus* → *como as suas trevas, assim também a sua luz* — *ejus* (the night's) kept as open as the Latin; *lumen → luz* (row). *illumináre → iluminar*.",
+    "138:13": "*possidére → possuir* (row); *renes → rins* (row; MS1932's gloss *afectos* not followed).",
+    "138:14": "*Confitébor tibi → Eu vos darei graças* (D5). *mirabília ópera tua* verbless in the Latin; copula supplied. The ‡ is kept.",
+    "138:16": "*omnes scribéntur* keeps the future and leaves *todos* open (all men, all days, all members); MS1932 glosses *os mortais*. *dies formabúntur, et nemo in eis* kept verbless in its second half, as the Latin: the Latin's riddle (the Hebrew's 'when as yet there was none of them') is not resolved.",
+    "138:17": "The Latin's own departure from the Hebrew: *amíci tui* (God's friends, honoured) where the Hebrew has 'thy thoughts, how precious'. Translated as the Latin. *honorificáre → honrar* (D44; this is the row's 'other place'). The Missal and the Office read *honoráti* (the same sense). The two *sem medida* stand at the head of each colon's predicate so the repetition is heard.",
+    "138:18": "*dinumeráre → contar* (row).",
+    "138:19": "*viri sánguinum → homens de sangue* (D29, row); *declináte a me → apartai-vos de mim* (118:115).",
+    "138:21": "*óderam* (pluperfect of a perfect-with-present-sense verb) → the imperfect *odiava*; *odérunt te* → *vos odeiam* (the odísse row, 24:19). *tabéscere → definhar* (row; 138:21 is the near twin of 118:158 *e definhava*). *super* → *por causa de* (DRB 'because of').",
+    "138:22": "*Perfécto ódio óderam illos* → *Com ódio perfeito eu os odiava* (the odísse row names this build). checks flags 138:21/22 ending both on *inimigos*: the Latin ends both on *inimícos / inimíci* — the echo is the Latin's, kept.",
+    "138:24": "*deduc me in via ætérna* → *guiai-me no caminho eterno* (D22). *via iniquitátis* without article in the Latin → *caminho de iniquidade*, without article as the Latin (MS1932 has the same words)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels (Latin, LXX, Hebrew, DRB, DM1962, MS1932), glossary rows looked up term by term (`gloss_lookup.py`), liturgical uses by grep and Brazilian circulation fetched (`circulation.md`). Hard readings: 138:1 *resurrectiónem* (the Easter Introit's verse), 138:6 *ex me*, 138:16 *imperféctum* and *dies formabúntur, et nemo in eis*, 138:17 *amíci tui* and *principátus* (the Apostles' texts), 138:20 *civitátes tuas* inside a plural address."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 138:7a was +6 → *Aonde* (−2; still +5, the Latin colon is nine syllables and *longe* is needed for *a*); 138:12 middle colon +4 → reordered (*se iluminará como o dia*); 138:24a +3 → article dropped. Accepted: 138:1b −5 (the nominal infinitives are short), 138:3a −3, 138:6a +3 (the Easter Introit line, every word needed), 138:8b +3 (*estais presente* for *ades*), 138:9a +3 (*ao amanhecer* for *dilúculo*), 138:14b and 138:17b +3 (*sem medida*), 138:15b −3, 138:20b −3, 138:21b +3 (*não* repeated for the second question). The 21/22 *inimigos* rhyme is the Latin's own echo."
+    },
+    {
+      "step": "latinist",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "No majors; two minors.",
+      "outcomes": [
+        "138:6 *ex me → acima de mim* resolves the Latin's ambiguity: taken, *de mim* (decision exme).",
+        "138:15 *os meum* made plural: declined. Collective singular; *o meu osso* is heard as one bone, number is grammar (D2); kept as option.",
+        "138:15 *substántia → o meu ser* too abstract: declined. D39 settles *o meu ser* and names 138:15."
+      ]
+    },
+    {
+      "step": "stylist",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "Worst line 138:20, best 138:16.",
+      "outcomes": [
+        "138:5 drop the first *vós*: declined. The Latin's *tu … tu* is a repetition D2 keeps.",
+        "138:10 *guiará / segurará* rhyme: taken, *e me segurará a vossa direita* (the Latin order).",
+        "138:11 *me calquem aos pés → me pisem*: declined, conculcáre row (D44); kept as option.",
+        "138:14 *de modo terrível → terrivelmente*: declined. The adverb is heard as 'awfully'; the option notes the request.",
+        "138:17 vocative forward (*ó Deus*): declined. Bare *Deus* is house style, and the Apostles' Gradual lifts the colon without *Mihi autem*, so *Deus* stays at its end; kept as option.",
+        "138:20 drop *vós*: taken, *Porque dizeis em pensamento* (the Latin has no pronoun), so the ear no longer hears God speaking."
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "Thirty-three items, mostly the Latin's own.",
+      "outcomes": [
+        "138:20 *vós* heard as God: fixed by the stylist's change (*Porque dizeis*). *as vossas cidades* stays God's cities (*civitátes tuas*) inside a plural address; the Latin is as obscure.",
+        "138:1 *o meu ressurgir* heard as resurrection: intended; the verse is the Easter Introit.",
+        "138:6 *acima de mim*: now *de mim* (Latinist).",
+        "138:14 *terrível* heard as 'bad': kept, D43's word.",
+        "Kept as the Latin's own obscurities: 138:3 *corda*, 138:4, 138:11b, 138:12 *suas*, 138:16 *todos* and *ninguém neles*, 138:17 *sua soberania*, 138:18 *Eu os contarei*, 138:19 the open conditional, 138:20b.",
+        "Unknown words (*vereda, calquem, amparastes, matardes, definhava*) are all settled glossary rows; not changed."
+      ]
+    },
+    {
+      "step": "revision",
+      "note": "v2: 138:6 *de mim*; 138:10 Latin order, rhyme broken; 138:20 *vós* dropped. prayed.v1.json keeps v1. Checks re-run: hard pass; 138:6a flag gone (15/15); 138:20a now −3 (the Latin has no pronoun), accepted; other flags as v1."
+    }
+  ]
+}

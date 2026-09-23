@@ -1,0 +1,537 @@
+{
+  "psalm": 139,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "139:2": "{eripe}, Senhor, do homem mau: * do homem iníquo {eripe2}.",
+    "139:3": "Os que {cogit} iniquidades no coração: * o dia todo {constit} batalhas.",
+    "139:4": "Afiaram as suas línguas {serp}: * veneno de áspides debaixo dos seus lábios.",
+    "139:5": "Guardai-me, Senhor, da mão do pecador: * e dos homens iníquos {eripe2}.",
+    "139:5b": "Os que {cogit} {supplant} os meus passos: * os soberbos esconderam um laço para mim:",
+    "139:6": "E estenderam cordas {inlaq}: * junto do caminho puseram um tropeço para mim.",
+    "139:7": "Eu disse ao Senhor: Vós sois o meu Deus: * escutai, Senhor, a voz da minha prece.",
+    "139:8": "Senhor, Senhor, {virtus} da minha salvação: * fizestes sombra sobre a minha cabeça no dia da guerra.",
+    "139:9": "Não me entregueis, Senhor, {adesid} ao pecador: * {cogit3} contra mim; não me abandoneis, {neforte}.",
+    "139:10": "A cabeça do seu cerco: * {labor} dos seus lábios os cobrirá.",
+    "139:11": "Cairão sobre eles {carb}, no fogo os {deicies}: * não subsistirão nas misérias.",
+    "139:12": "O homem {linguosus} não será {dirig} na terra: * {capient} {interitu}.",
+    "139:13": "{cognovi} que o Senhor fará {judic}: * e a vingança dos pobres.",
+    "139:14": "Todavia, os justos darão graças ao vosso nome: * e os retos habitarão com o vosso rosto."
+  },
+  "decisions": [
+    {
+      "id": "eripe",
+      "refs": [
+        "139:2",
+        "139:5"
+      ],
+      "latin": "Éripe me, Dómine, ab hómine malo: a viro iníquo éripe me … et ab homínibus iníquis éripe me",
+      "kind": "glossary",
+      "why": "Three *éripe me*, each with its source named (*ab hómine malo*, *a viro iníquo*, *ab homínibus iníquis*): the erípere row's *arrancar* (as 30:16, 58:2, 58:3, 70:4 *arrancai-me da mão do pecador*). The chiasm of 139:2 (verb … source : source … verb) is kept, so the verse opens and closes on the same word, as the Latin does. The Passiontide versicle *V. Éripe me, Dómine, ab hómine malo. R. A viro iníquo éripe me* (Preces at Prime; Passiontide None) reads each half alone. Both Brazilian Catholic versions open *Livrai-me, Senhor, do homem mau* (CNBB LH, Ave Maria; `circulation.md`) — but *livrar* is liberáre's, and the psalm's own Good Friday Tract text has *líbera me* in the second colon, so the two Latin verbs would merge.",
+      "options": [
+        {
+          "label": "Arrancai-me … arrancai-me",
+          "forms": {
+            "eripe": "Arrancai-me",
+            "eripe2": "arrancai-me"
+          },
+          "note": "Draft. The erípere row with a source named; the chiasm kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "Livrai-me … livrai-me",
+          "forms": {
+            "eripe": "Livrai-me",
+            "eripe2": "livrai-me"
+          },
+          "note": "The Brazilian familiar opening (CNBB LH, Ave Maria, both Hebrew-based); *livrar* is liberáre's in this psalter (58:2 has both verbs in one verse). Refused.",
+          "from": "draft"
+        },
+        {
+          "label": "Libertai-me … libertai-me",
+          "forms": {
+            "eripe": "Libertai-me",
+            "eripe2": "libertai-me"
+          },
+          "note": "The row's verb where no source is named (68:19, 118:153); here the source is always named. Kept as the gentler option.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "cogit",
+      "refs": [
+        "139:3",
+        "139:5b",
+        "139:9"
+      ],
+      "latin": "Qui cogitavérunt iniquitátes … Qui cogitavérunt supplantáre … cogitavérunt contra me",
+      "kind": "glossary",
+      "why": "The psalm has *cogitavérunt* three times, always of the enemies' plotting (ἐλογίσαντο, διελογίσαντο). The cogitáre row is *pensar em* (working), with a proposal from Pss 20, 34, 51, 61 to split: evil thing as object → *maquinar*; Ps 82:4, 6 took *maquinaram contra* as option 0 (the fourth vote). Here all three places qualify (an evil object; a hostile infinitive; *contra me*), and *pensaram contra mim* is hardly Portuguese, so one verb serves all three, as the Latin has one. MS1932 has *maquinam* / *maquinaram* at 139:3 and 139:9.",
+      "options": [
+        {
+          "label": "maquinaram (×3)",
+          "forms": {
+            "cogit": "maquinaram",
+            "cogit3": "maquinaram"
+          },
+          "note": "Draft. The split proposed in the cogitáre row, as 82:4, 82:6; MS1932's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "pensaram em (×3)",
+          "forms": {
+            "cogit": "pensaram em",
+            "cogit3": "pensaram"
+          },
+          "note": "The row's working verb; *pensaram contra mim* at 139:9 is not idiomatic, and *pensaram em iniquidades* is weak where the Latin means 'devised'.",
+          "from": "glossary"
+        },
+        {
+          "label": "tramaram (×3)",
+          "forms": {
+            "cogit": "tramaram",
+            "cogit3": "tramaram"
+          },
+          "note": "CNBB LH and Ave Maria *tramam o mal*; but *tramar* is concinnáre's (D44). Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "constit",
+      "refs": [
+        "139:3"
+      ],
+      "latin": "tota die constituébant prǽlia",
+      "kind": "word",
+      "why": "*constitúere* is *estabelecer* in the glossary, but *estabelecer batalhas* is not Portuguese; the Greek παρετάσσοντο πολέμους is 'drew up battles in array'. *armar* is the Portuguese verb for setting up a fight or a trap (MS1932 *armam combates*), and keeps the imperfect's repetition ('all day they kept setting up'). A local departure from the row, recorded. *prǽlium → batalha* (17:35, 23:8, 26:3b), kept apart from *bellum → guerra* in 139:8.",
+      "options": [
+        {
+          "label": "armavam",
+          "forms": {
+            "constit": "armavam"
+          },
+          "note": "Draft. MS1932's verb; idiomatic for a fight.",
+          "from": "MS1932"
+        },
+        {
+          "label": "dispunham",
+          "forms": {
+            "constit": "dispunham"
+          },
+          "note": "Closest to the array of the Greek; bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "estabeleciam",
+          "forms": {
+            "constit": "estabeleciam"
+          },
+          "note": "The constitúere row; not idiomatic with *batalhas*.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "serp",
+      "refs": [
+        "139:4"
+      ],
+      "latin": "Acuérunt linguas suas sicut serpéntis",
+      "kind": "grammar",
+      "why": "*sicut serpéntis* is a genitive: 'like (the tongue) of a serpent' (ὡσεὶ ὄφεως). *como a da serpente* keeps the genitive, as 57:5 *semelhante ao da serpente*; *como serpente* (CNBB LH, Ave Maria) makes the men the serpents. *acúere → afiar*, as 63:4 *afiaram as suas línguas como espada*. The second colon is 13:3b's third colon word for word (*venénum áspidum sub lábiis eórum* → *veneno de áspides debaixo dos seus lábios*; = Rom 3:13), verbless as the Latin.",
+      "options": [
+        {
+          "label": "como a da serpente",
+          "forms": {
+            "serp": "como a da serpente"
+          },
+          "note": "Draft. The genitive kept (57:5's build).",
+          "from": "draft"
+        },
+        {
+          "label": "como as da serpente",
+          "forms": {
+            "serp": "como as da serpente"
+          },
+          "note": "Agrees in number with *línguas*; a serpent has one tongue.",
+          "from": "draft"
+        },
+        {
+          "label": "como a serpente",
+          "forms": {
+            "serp": "como a serpente"
+          },
+          "note": "CNBB LH *Como a serpente eles afiam suas línguas*; plainer, but drops the genitive.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "supplant",
+      "refs": [
+        "139:5b"
+      ],
+      "latin": "supplantáre gressus meos",
+      "kind": "glossary",
+      "why": "The supplantáre row has *derrubar* (17:40; 36:31 *os seus passos não serão derrubados*, where *tropeçar* has no passive) and itself notes that 139:5, with *gressus* as object of an active verb, 'can still take *fazer tropeçar*'. *Derrubar os meus passos* knocks down steps; *fazer tropeçar os meus passos* is the heel-trip the word is made of (sub-planta), and pairs with the *tropeço* (scándalum) of 139:6.",
+      "options": [
+        {
+          "label": "fazer tropeçar",
+          "forms": {
+            "supplant": "fazer tropeçar"
+          },
+          "note": "Draft. As the row foresaw for this verse.",
+          "from": "draft"
+        },
+        {
+          "label": "derrubar",
+          "forms": {
+            "supplant": "derrubar"
+          },
+          "note": "The row's verb (36:31); one Portuguese verb for every supplantáre.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "inlaq",
+      "refs": [
+        "139:6"
+      ],
+      "latin": "Et funes extendérunt in láqueum",
+      "kind": "grammar",
+      "why": "*in láqueum*: *in* with the accusative of purpose or result, 'into a snare, to serve as a snare' (DRB 'for a snare'; the Greek has παγίδας τοῖς ποσίν μου, 'snares for my feet', which the Gallican does not carry). *em laço* keeps the preposition and the noun, as 68:23 *Torne-se … em laço*; *como laço* is plainer and makes the purpose a comparison. *funes → cordas* (15:6, 118:61); *láqueus → laço*. MS1932 *para me surpreender* explains.",
+      "options": [
+        {
+          "label": "em laço",
+          "forms": {
+            "inlaq": "em laço"
+          },
+          "note": "Draft. The Latin's *in*; 68:23's build.",
+          "from": "draft"
+        },
+        {
+          "label": "como laço",
+          "forms": {
+            "inlaq": "como laço"
+          },
+          "note": "Plainer; *in* read as 'as'.",
+          "from": "draft"
+        },
+        {
+          "label": "para um laço",
+          "forms": {
+            "inlaq": "para um laço"
+          },
+          "note": "DRB 'for a snare'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "virtus",
+      "refs": [
+        "139:8"
+      ],
+      "latin": "Dómine, Dómine, virtus salútis meæ",
+      "kind": "glossary",
+      "why": "God's *virtus* → *poder* (the row; 45:2 *refúgio e poder*); *vigor* is for a man's own strength, *força* is fortitúdo's. The phrase is also the Thursday Vespers antiphon (*Ne derelínquas me, * Dómine, virtus salútis meæ*) and closes the Matins antiphon / Quad2-3 Introit *Inténde in adjutórium meum … virtus salútis meæ*, so it will be said often. DRB 'the strength of my salvation'; MS1932 *fortaleza*; the CNBB LH paraphrases (*meu auxílio poderoso*).",
+      "options": [
+        {
+          "label": "poder",
+          "forms": {
+            "virtus": "poder"
+          },
+          "note": "Draft. The virtus row for God.",
+          "from": "glossary"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "virtus": "força"
+          },
+          "note": "DRB 'strength'; warmer in the mouth, but fortitúdo's word.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "adesid",
+      "refs": [
+        "139:9"
+      ],
+      "latin": "Ne tradas me, Dómine, a desidério meo peccatóri",
+      "kind": "ambiguity",
+      "why": "The crux of the psalm. The Latin follows the Greek (ἀπὸ τῆς ἐπιθυμίας μου ἁμαρτωλῷ), which misread the Hebrew ('grant not the desires of the wicked'). *a desidério meo* can be 'away from my desire' (deprive me of what I long for and hand me to the sinner) or 'against my desire' (MS1932 *contra o meu desejo*). DRB keeps it bare: 'Give me not up, O Lord, from my desire to the wicked.' The draft keeps it as open as the Latin: *do meu desejo ao pecador*, from one to the other. The Good Friday Tract has the same words.",
+      "options": [
+        {
+          "label": "do meu desejo",
+          "forms": {
+            "adesid": "do meu desejo"
+          },
+          "note": "Draft. DRB's literal build; open as the Latin.",
+          "from": "DRB"
+        },
+        {
+          "label": "contra o meu desejo",
+          "forms": {
+            "adesid": "contra o meu desejo"
+          },
+          "note": "MS1932; resolves the ambiguity.",
+          "from": "MS1932"
+        },
+        {
+          "label": "longe do meu desejo",
+          "forms": {
+            "adesid": "longe do meu desejo"
+          },
+          "note": "The separative reading made explicit; resolves the other way.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "neforte",
+      "refs": [
+        "139:9"
+      ],
+      "latin": "ne forte exalténtur",
+      "kind": "word",
+      "why": "*ne forte* (μήποτε) → *para que não* (78:10); 90:12 has *para que não venhas a …* for the 'perchance'. *exaltári* → *exaltar-se* (the exaltáre row; 65:7 *não se exaltem*). The colon is long already (the Latin's is too); the short form is ruled.",
+      "options": [
+        {
+          "label": "para que não se exaltem",
+          "forms": {
+            "neforte": "para que não se exaltem"
+          },
+          "note": "Draft. 78:10's *para que não*; 65:7's reflexive.",
+          "from": "draft"
+        },
+        {
+          "label": "para que não venham a exaltar-se",
+          "forms": {
+            "neforte": "para que não venham a exaltar-se"
+          },
+          "note": "Carries *forte* as 90:12 does; +3 syllables.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "labor",
+      "refs": [
+        "139:10"
+      ],
+      "latin": "Caput circúitus eórum: labor labiórum ipsórum opériet eos",
+      "kind": "word",
+      "why": "*labor* (κόπος) here is what the lips work — mischief, the trouble they cause — which returns to cover them. The labor row is *fadiga* (open), with a local departure *trabalho(s)* where the noun is the product of toil (77:46, 127:2). *a fadiga dos seus lábios* is heard as tired lips. The first colon stays verbless, as the Latin (*Caput circúitus eórum*, 'the head of their encircling'; DRB 'The head of them compassing me about'); *cerco* is *circúitus* (L&S 'a going round, a circling'); MS1932 builds a sentence with *cairá* and a gloss.",
+      "options": [
+        {
+          "label": "o trabalho",
+          "forms": {
+            "labor": "o trabalho"
+          },
+          "note": "Draft. What the lips wrought; the row's local departure for a product of toil.",
+          "from": "draft"
+        },
+        {
+          "label": "a fadiga",
+          "forms": {
+            "labor": "a fadiga"
+          },
+          "note": "The row's word; heard as weariness.",
+          "from": "glossary"
+        },
+        {
+          "label": "a maldade",
+          "forms": {
+            "labor": "a maldade"
+          },
+          "note": "The Hebrew's sense (CNBB *a malícia*); explains. Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "carb",
+      "refs": [
+        "139:11"
+      ],
+      "latin": "Cadent super eos carbónes, in ignem deícies eos",
+      "kind": "glossary",
+      "why": "*carbónes → carvões* (the row; 17:9, 17:13, 119:4 — the row names this verse). *brasas* (DM1962, Ave Maria *carvões ardentes*) is the row's option, to be taken for the whole row if at all. *deícere → abater* (the row, 36:14b, the same Greek καταβάλλω); *in ignem* is accusative, 'into the fire', and *no fogo* after *abater* carries the motion in Portuguese. *in misériis* (ταλαιπωρίαις) → *nas misérias*; *subsístere → subsistir* (102:16).",
+      "options": [
+        {
+          "label": "carvões … abatereis",
+          "forms": {
+            "carb": "carvões",
+            "deicies": "abatereis"
+          },
+          "note": "Draft. Both rows.",
+          "from": "glossary"
+        },
+        {
+          "label": "brasas … abatereis",
+          "forms": {
+            "carb": "brasas",
+            "deicies": "abatereis"
+          },
+          "note": "The carbónes row's option (119:4 decision `carbonibus`).",
+          "from": "glossary"
+        },
+        {
+          "label": "carvões … lançareis",
+          "forms": {
+            "carb": "carvões",
+            "deicies": "lançareis"
+          },
+          "note": "Plainer with *no fogo*; loses the downward stroke of *de-jícere*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "linguosus",
+      "refs": [
+        "139:12"
+      ],
+      "latin": "Vir linguósus non dirigétur in terra",
+      "kind": "word",
+      "why": "*linguósus* (γλωσσώδης), a psalter hapax: L&S 'talkative, loquacious'. *linguarudo* keeps the tongue the Latin names and means one who talks too much, as the word does; it is everyday Brazilian, perhaps a shade familiar. DRB 'a man full of tongue'; MS1932 *O caluniador* explains; Almeida *homem de má língua* is the Hebrew's 'man of tongue' made evil. *dirigétur → será dirigido*, the dirígere row (36:23, 101:29), keeps the Latin's image of a straight course (κατευθυνθήσεται); MS1932 *não prosperará* and Almeida *não terá firmeza* are the sense.",
+      "options": [
+        {
+          "label": "linguarudo … dirigido",
+          "forms": {
+            "linguosus": "linguarudo",
+            "dirig": "dirigido"
+          },
+          "note": "Draft. The tongue kept; the dirígere row.",
+          "from": "draft"
+        },
+        {
+          "label": "falador … dirigido",
+          "forms": {
+            "linguosus": "falador",
+            "dirig": "dirigido"
+          },
+          "note": "L&S's sense; loses the tongue.",
+          "from": "draft"
+        },
+        {
+          "label": "de má língua … firmado",
+          "forms": {
+            "linguosus": "de má língua",
+            "dirig": "firmado"
+          },
+          "note": "Almeida's build; adds *má*, the Hebrew's reading. Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "capient",
+      "refs": [
+        "139:12"
+      ],
+      "latin": "virum injústum mala cápient in intéritu",
+      "kind": "word",
+      "why": "*cápere* (θηρεύσει, 'hunt down') → *tomar*, the row (58:4 *tomaram a minha alma*, the same Greek). The Latin puts the object first; Portuguese puts the subject first (order, D2). *in intéritu* is ablative, 'in destruction' (the Greek's εἰς διαφθοράν is 'unto'); *intéritus → destruição* (9:16a *na destruição*). *vir* in both colons → *homem*, as *homo* in 139:2; Portuguese has no plain second word (*varão* would need a footnote).",
+      "options": [
+        {
+          "label": "os males tomarão … na destruição",
+          "forms": {
+            "capient": "os males tomarão o homem injusto",
+            "interitu": "na destruição"
+          },
+          "note": "Draft. The cápere and intéritus rows; the ablative kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "os males apanharão … para a destruição",
+          "forms": {
+            "capient": "os males apanharão o homem injusto",
+            "interitu": "para a destruição"
+          },
+          "note": "DRB 'shall catch … unto destruction'; the hunt's verb; *apanhar* was colloquial to the 58:4 stylist.",
+          "from": "DRB"
+        },
+        {
+          "label": "os males se apoderarão do homem injusto … na destruição",
+          "forms": {
+            "capient": "os males se apoderarão do homem injusto",
+            "interitu": "na destruição"
+          },
+          "note": "MS1932's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "judic",
+      "refs": [
+        "139:13"
+      ],
+      "latin": "Cognóvi quia fáciet Dóminus judícium ínopis: et vindíctam páuperum",
+      "kind": "word",
+      "why": "*Cognóvi* with a clause and no time-word → *sei* (the proposal in the cognóscere + *quóniam* row; DRB 'I know', MS1932 *Sei*). *judícium ínopis … vindíctam páuperum*: two genitives, the needy man's cause and the poor men's vindication (τὴν κρίσιν τοῦ πτωχοῦ καὶ τὴν δίκην τῶν πενήτων). *fará o juízo do carente* keeps the noun (judícium → juízo, D15) and the genitive, which leaves open, as the Latin does, whether the judgment is *for* him — the risk is that it is heard as judgment *on* him; *fará justiça ao carente* (MS1932) resolves it with justítia's word. *inops → carente* (D38). *vindícta → vingança* (57:11).",
+      "options": [
+        {
+          "label": "Eu sei … o juízo do carente",
+          "forms": {
+            "cognovi": "Eu sei",
+            "judic": "o juízo do carente"
+          },
+          "note": "Draft. Nouns and genitives kept.",
+          "from": "draft"
+        },
+        {
+          "label": "Eu sei … justiça ao carente",
+          "forms": {
+            "cognovi": "Eu sei",
+            "judic": "justiça ao carente"
+          },
+          "note": "MS1932, DRB 'do justice to the needy'; clear, but justítia's word for judícium.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Conheci … o juízo do carente",
+          "forms": {
+            "cognovi": "Conheci",
+            "judic": "o juízo do carente"
+          },
+          "note": "The Latin's perfect; read as 'I met' (cognóvi row).",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "139:2": "No title line (*In finem, Psalmus David*): DO's Latin has none; D7. *homo malus → homem mau*; *vir iníquus → homem iníquo* (17:49 *do homem iníquo me arrancareis*). The Latin's *homo / vir* variation cannot be kept (*varão* would need a footnote). Each colon reads alone (the Passiontide versicle).",
+    "139:3": "*Qui* → *Os que*, a substantive relative after the singular *homem iníquo*, as the Latin's plural *qui* turns to the whole band. *tota die → o dia todo* (D24). *in corde → no coração*.",
+    "139:4": "The second colon copies 13:3b exactly (glossary formula row, = Rom 3:13).",
+    "139:5": "= the Offertory of Tuesday in Holy Week (Quad6-2), word for word. *de manu peccatóris → da mão do pecador* (70:4).",
+    "139:5b": "The Latin's colon at the end is kept; the sentence runs into 139:6. *abscondérunt … láqueum mihi → esconderam um laço para mim* (30:5, 34:7 *esconderam para mim*; 118:110 *puseram um laço para mim*). *supérbi → os soberbos* (118:51, 78, 122).",
+    "139:6": "*juxta iter → junto do caminho* (*juxta* of place → *junto de*, 5:6, 37:12b; iter → caminho). *scándalum → tropeço* (the row); *mihi → para mim*, as 5b.",
+    "139:7": "*Dixi Dómino: Deus meus es tu* = 15:1 (*Eu disse ao Senhor: Vós sois o meu Deus*); *vocem deprecatiónis meæ → a voz da minha prece* (27:2, 27:6, 65:19, 85:6, 129:2b; D35).",
+    "139:8": "*Dómine, Dómine* both kept. *obumbrásti super caput meum → fizestes sombra sobre a minha cabeça* (obumbráre → fazer sombra a, 90:4; *super* kept). *in die belli → no dia da guerra* (77:9); *bellum → guerra* apart from *prǽlium → batalha* (139:3).",
+    "139:9": "Three clauses in the second colon, as the Latin; a semicolon after *contra mim* so that *não me abandoneis* is heard as a new plea. *ne derelínquas me → não me abandoneis* (26:9b, 37:22). *trádere → entregar* (118:121 *não me entregueis aos que me caluniam*).",
+    "139:10": "The first colon verbless, as the Latin; *seu* is theirs (God is *vosso* in this psalter). *opériet → cobrirá*.",
+    "139:13": "*Eu* supplied so the colon does not open on a bare verb that could be heard as a question; the subject is in the Latin's ending.",
+    "139:14": "*Verúmtamen → Todavia* (the row). *confitebúntur nómini tuo → darão graças ao vosso nome* (D5). *cum vultu tuo → com o vosso rosto*, word for word 15:11, 20:7 (the Latin's *cum*, σὺν τῷ προσώπῳ; CNBB *junto a vós*, Ave Maria *em vossa presença* explain). *recti → os retos* (the rectus row). This verse closes the Good Friday Tract.",
+    "139:11": "The second colon in the natural order (*não subsistirão nas misérias*; D2): in the Latin's order it ended on *subsistirão*, which rhymed with *destruição* at the end of 139:12, an echo the Latin (*subsístent / intéritu*) does not have. *in misériis → nas misérias* (ταλαιπωρίαις)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps139.md, L&S (*linguósus* 'talkative', *circúitus* 'a circling'), and precedent by concordance (`ps139/concord.py`, adapted from ps137's): erípere (30:16, 58:2–3, 70:4), 13:3b's venom colon, 63:4 *afiaram as suas línguas*, 57:5 *ao da serpente*, láqueus / funes / scándalum / supplantáre (36:31 and the row's note on this verse), cogitáre (82:4 *maquinaram contra*), virtus (God's → poder), obumbráre (90:4), carbónes (the row names 139:11), cápere (58:4, the same Greek), intéritus, *cum vultu tuo* (15:11, 20:7). Liturgical use by grep and Brazilian circulation fetched, not asserted (`circulation.md`: the Good Friday Tract, the Holy Tuesday Offertory, the Passiontide versicle, the Thursday Vespers antiphon; CNBB LH and Ave Maria open *Livrai-me, Senhor, do homem mau*). Hard readings: 139:9 *a desidério meo* (kept open), 139:10 *Caput circúitus eórum* (verbless, kept), 139:12 *linguósus* (hapax), 139:13 *judícium ínopis* (genitive kept)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags: 139:11/139:12 finals rhymed (*subsistirão / destruição*) — mended by the natural order in 139:11. 139:5b/139:6 finals both *para mim*: the Latin's own echo (*láqueum mihi / posuérunt mihi*), kept. Length: 139:12 first colon +5 (*vir* and the future passive need *O homem … não será dirigido*; *linguarudo* is one word for one), 139:8 second colon +4 (*fazer sombra* is two words for *obumbráre*, and *sobre* keeps *super*), 139:6 second colon +3 (*para mim* as in 5b) — accepted. Shorter colons (139:2a −3, 139:7b −4, 139:10b −3) are the Latin's longer words."
+    }
+  ]
+}

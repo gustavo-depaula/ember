@@ -1,0 +1,896 @@
+{
+  "psalm": 140,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "140:1": "Senhor, clamei a vós, escutai-me: * atendei à minha voz, quando eu clamar a vós.",
+    "140:2": "{dirigatur} como incenso na vossa presença: * {elevatio}.",
+    "140:3": "Ponde, Senhor, {custodiam} à minha boca: * {ostium}.",
+    "140:4": "Não {declines} o meu coração para palavras de malícia, * {excusandas} nos pecados.",
+    "140:4b": "Com os homens que praticam a iniquidade: * e não {communicabo} com {electis}.",
+    "140:5": "{corripiet} com misericórdia, e me repreenderá: * mas o óleo do pecador não {impinguet} a minha cabeça.",
+    "140:6": "Porque {adhucet} {beneplacitis}: * foram engolidos, {juncti}, os seus juízes.",
+    "140:7": "Ouvirão as minhas palavras, {potuerunt}: * como {crassitudo} sobre a terra.",
+    "140:8": "{dissipata} os nossos ossos junto ao {infernum}: * porque para vós, Senhor, Senhor, estão os meus olhos: em vós esperei, não tireis a minha alma.",
+    "140:9": "Guardai-me do laço que {statuerunt} para mim: * e dos tropeços dos que praticam a iniquidade.",
+    "140:10": "Cairão {ejus} os pecadores: * {singulariter}."
+  },
+  "decisions": [
+    {
+      "id": "dirigatur",
+      "refs": [
+        "140:2"
+      ],
+      "latin": "Dirigátur orátio mea",
+      "kind": "word",
+      "why": "The best-known line of the psalm: sung at the incensation of the altar in the traditional Mass (DO Ordo, with Dómine added), as a Gradual, and as the Sunday Vespers versicle, which splits it after orátio mea (circulation.md). Every Brazilian text found says 'suba' (Tridentine hand-missal, CNBB, the lectionary refrain 'Minha oração suba a vós como incenso'), and Matos Soares 1932 has 'Suba direita'. But the Latin verb is dirígere (κατευθυνθήτω, be set straight, be directed), not a verb of rising; and the rising is the second colon's own image (elevátio). 'Suba' would swap the Latin's word for another and anticipate elevátio, so under D2 it is refused and kept as the first option. The dirígere row is 'dirigir', with the passive kept where the Latin has it (118:5 'sejam dirigidos', 118:128). The subject is put first on purpose: 'Seja dirigida a minha oração' is heard as 'dirigida à minha oração' (addressed to my prayer), since a and à sound alike; 'Que' is the jussive head, as 87:3 'Que entre na vossa presença a minha oração'. The versicle split still falls cleanly: 'Que a minha oração seja dirigida. R. Como incenso na vossa presença.' Syllables 22 for the Latin's 21.",
+      "options": [
+        {
+          "label": "Que a minha oração seja dirigida",
+          "forms": {
+            "dirigatur": "Que a minha oração seja dirigida"
+          },
+          "note": "Draft. The Latin's verb and voice (DRB 'be directed'); 'oração dirigida a Deus' is ordinary Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "Suba a minha oração",
+          "forms": {
+            "dirigatur": "Suba a minha oração"
+          },
+          "note": "The Brazilian wording in every source found (circulation.md). Refused: another verb, and it takes the second colon's image.",
+          "from": "draft"
+        },
+        {
+          "label": "Suba direita a minha oração",
+          "forms": {
+            "dirigatur": "Suba direita a minha oração"
+          },
+          "note": "MS1932: keeps 'straight' in the adjective and adds the rising.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Que a minha oração se dirija",
+          "forms": {
+            "dirigatur": "Que a minha oração se dirija"
+          },
+          "note": "The pronominal form; lighter, but reads as the prayer heading off by itself, and would want 'à vossa presença'.",
+          "from": "draft"
+        },
+        {
+          "label": "Dirija-se a minha oração",
+          "forms": {
+            "dirigatur": "Dirija-se a minha oração"
+          },
+          "note": "The v1 stylist's ('verb first, like a prayer'). Refused: said aloud it is 'dirija-se à minha oração' (go to my prayer), the very mishearing the subject-first order avoids; and the pronominal would want 'à vossa presença'.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "elevatio",
+      "refs": [
+        "140:2"
+      ],
+      "latin": "elevátio mánuum meárum sacrifícium vespertínum",
+      "kind": "grammar",
+      "why": "The Latin colon has no verb and no 'sicut': the lifting of the hands is set beside the evening sacrifice. It is sung alone as the Gradual verse, so it must stand alone; the verbless apposition does. 'Elevação' keeps eleváre → elevar (glossary, which names 140:2). 'Vespertino' is the Latin's adjective and is everyday Brazilian (the afternoon school shift), and it ties the line to Vespers; the Tridentine hand-missal has 'sacrifício vespertino' (circulation.md). 'Da tarde' (MS1932, CNBB 'oferta da tarde') is plainer by a hair and two syllables shorter. v2: 'da tarde' — the ambiguity reader listed 'vespertino' among unknown words, and D2 gives the plainer of two faithful words the verse.",
+      "options": [
+        {
+          "label": "a elevação das minhas mãos, sacrifício da tarde",
+          "forms": {
+            "elevatio": "a elevação das minhas mãos, sacrifício da tarde"
+          },
+          "note": "v2. MS1932's noun phrase; the plainer of two faithful words (D2), taken after the v1 ambiguity reader listed 'vespertino' as unknown.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a elevação das minhas mãos, sacrifício vespertino",
+          "forms": {
+            "elevatio": "a elevação das minhas mãos, sacrifício vespertino"
+          },
+          "note": "v1. The Latin's adjective and the hand-missal's wording; ties the line to Vespers; unknown to the v1 ambiguity reader.",
+          "from": "draft"
+        },
+        {
+          "label": "e a elevação das minhas mãos seja o sacrifício vespertino",
+          "forms": {
+            "elevatio": "e a elevação das minhas mãos seja o sacrifício vespertino"
+          },
+          "note": "A copula supplied (D2 allows it); longer, and the Gradual verse would then need 'Que'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "custodiam",
+      "refs": [
+        "140:3"
+      ],
+      "latin": "custódiam",
+      "kind": "glossary",
+      "why": "The custodíre row asks 140:3 to copy the noun of 38:2b 'Pus guarda à minha boca' (Pósui ori meo custódiam), the same Latin words: bare 'guarda', as 'pôr guarda' (to post a guard). The verse is also a responsory and part of the incensation prayer, where Brazilian texts say 'uma guarda' (MS1932, CNBB, hand-missal).",
+      "options": [
+        {
+          "label": "guarda",
+          "forms": {
+            "custodiam": "guarda"
+          },
+          "note": "= 38:2b (rule 6).",
+          "from": "glossary"
+        },
+        {
+          "label": "uma guarda",
+          "forms": {
+            "custodiam": "uma guarda"
+          },
+          "note": "MS1932, CNBB, the hand-missal; breaks the echo with 38:2b.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ostium",
+      "refs": [
+        "140:3"
+      ],
+      "latin": "et óstium circumstántiæ lábiis meis",
+      "kind": "word",
+      "why": "Circumstántia is 'a standing round, a surrounding' (L&S); the Greek θύραν περιοχῆς is a door of enclosure. The cognate 'circunstância' means a circumstance in Portuguese and is refused. The noun becomes a relative clause ('que os cerque'), which is grammar (D2); 'cercar' is to enclose, of the family of 'cerca' (fence), which keeps the image of a surrounding wall. The dative 'lábiis meis' stays a dative ('aos meus lábios'), set chiastically against 'à minha boca'.",
+      "options": [
+        {
+          "label": "e aos meus lábios uma porta que os cerque",
+          "forms": {
+            "ostium": "e aos meus lábios uma porta que os cerque"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "e uma porta ao redor dos meus lábios",
+          "forms": {
+            "ostium": "e uma porta ao redor dos meus lábios"
+          },
+          "note": "DRB 'a door round about my lips'; loses the dative.",
+          "from": "DRB"
+        },
+        {
+          "label": "e aos meus lábios uma porta que os feche",
+          "forms": {
+            "ostium": "e aos meus lábios uma porta que os feche"
+          },
+          "note": "MS1932; closing is not in the word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e aos meus lábios uma porta de cerco",
+          "forms": {
+            "ostium": "e aos meus lábios uma porta de cerco"
+          },
+          "note": "The v1 Latinist's (minor): keeps the noun. Refused: 'cerco' is heard first as a siege.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "declines",
+      "refs": [
+        "140:4"
+      ],
+      "latin": "Non declínes cor meum in verba malítiæ",
+      "kind": "glossary",
+      "why": "Declináre here is transitive with God as subject: 'do not turn my heart aside to' (ἐκκλίνῃς). 'Inclinar' is what Brazil says (CNBB 'Meu coração não deixeis inclinar-se') but it is inclináre's verb, and 118:36 'Inclína cor meum in testimónia tua' → 'Inclinai o meu coração para os vossos testemunhos' is the same build with the other verb (κλῖνον): by D15's test the two stay two. The declináre row has 'apartar-se de' (with 'a'), 'se desviaram' (absolute) and 'voltar' (20:12, 54:4, evils turned against someone). 'Desviar para' says the turning aside that the prefix de- and ἐκ- carry; its cost is that the row keeps transitive 'desviar' for avértere, which is not in this psalm. Colon +3 syllables over the Latin.",
+      "options": [
+        {
+          "label": "desvieis",
+          "forms": {
+            "declines": "desvieis"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "volteis",
+          "forms": {
+            "declines": "volteis"
+          },
+          "note": "The row's transitive 'declináre in' (20:12); loses 'aside'.",
+          "from": "glossary"
+        },
+        {
+          "label": "inclineis",
+          "forms": {
+            "declines": "inclineis"
+          },
+          "note": "What Brazilian ears know; merges with inclináre (118:36).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "excusandas",
+      "refs": [
+        "140:4"
+      ],
+      "latin": "ad excusándas excusatiónes in peccátis",
+      "kind": "word",
+      "why": "A figura etymologica, verb and noun of one root, as in the Greek (τοῦ προφασίζεσθαι προφάσεις); D2 keeps the Latin's repetitions (cf. 4:6 'Sacrificai um sacrifício'). 'Desculpar-se com desculpas' keeps both halves and is Portuguese; the reflexive infinitive leaves the person open, as the gerundive does. MS1932 and the hand-missal ('buscar desculpas', 'procurando pretextos') drop the verb.",
+      "options": [
+        {
+          "label": "para se desculpar com desculpas",
+          "forms": {
+            "excusandas": "para se desculpar com desculpas"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "para buscar desculpas",
+          "forms": {
+            "excusandas": "para buscar desculpas"
+          },
+          "note": "MS1932; the repetition lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "para dar desculpas",
+          "forms": {
+            "excusandas": "para dar desculpas"
+          },
+          "note": "DRB 'to make excuses'; also the v1 Latinist's fix (minor: no reflexive in the gerundive). Refused: it drops the Latin's repetition (D2).",
+          "from": "latinist"
+        },
+        {
+          "label": "para me desculpar com desculpas",
+          "forms": {
+            "excusandas": "para me desculpar com desculpas"
+          },
+          "note": "The v1 stylist's: names the person. Refused: the gerundive has none; the ambiguity reader already heard 'so that I would make excuses' first.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "communicabo",
+      "refs": [
+        "140:4b"
+      ],
+      "latin": "et non communicábo cum",
+      "kind": "word",
+      "why": "Communicáre cum is 'to share, have fellowship with' (συνδυάσω, to be paired with). The cognate 'comunicar' is to communicate (talk) in Portuguese; 'comungar com' is heard first as receiving Communion. 'Ter comunhão com' keeps the root in the noun and the sense of fellowship. The future is kept (communicábo).",
+      "options": [
+        {
+          "label": "terei comunhão",
+          "forms": {
+            "communicabo": "terei comunhão"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "me associarei",
+          "forms": {
+            "communicabo": "me associarei"
+          },
+          "note": "Plainer; the root lost; wants 'aos'.",
+          "from": "draft"
+        },
+        {
+          "label": "comungarei",
+          "forms": {
+            "communicabo": "comungarei"
+          },
+          "note": "The root verb; heard as receiving Communion.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "electis",
+      "refs": [
+        "140:4b"
+      ],
+      "latin": "cum eléctis eórum",
+      "kind": "ambiguity",
+      "why": "Eléctis can be masculine (their chosen men, DRB 'the choicest of them') or neuter (their choice things, their dainties — which is the Hebrew's sense, MS1932 'as suas delícias', not followed). The Greek is as open as the Latin. 'Os escolhidos deles' is the glossary's word (104:43 'os seus escolhidos') and leans to persons, as Portuguese must; 'deles' rather than 'seus' so that it is not heard as the psalmist's or God's.",
+      "options": [
+        {
+          "label": "os escolhidos deles",
+          "forms": {
+            "electis": "os escolhidos deles"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "o que eles têm de mais escolhido",
+          "forms": {
+            "electis": "o que eles têm de mais escolhido"
+          },
+          "note": "The neuter reading; resolves the other way, and long.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "corripiet",
+      "refs": [
+        "140:5"
+      ],
+      "latin": "Corrípiet me justus … et increpábit me",
+      "kind": "grammar",
+      "why": "Both verbs are future indicative (παιδεύσει … ἐλέγξει), not wishes: 'the just man will chastise me in mercy'. MS1932 makes them jussive ('Corrija-me o justo'), the Hebrew's mood; the Latin's is kept. The verbs are the glossary's: corrípere → castigar (D21), increpáre → repreender. The row for corrípere names this verse. 'In misericórdia' → 'com misericórdia', the manner (ἐν ἐλέει).",
+      "options": [
+        {
+          "label": "O justo me castigará",
+          "forms": {
+            "corripiet": "O justo me castigará"
+          },
+          "note": "Draft: the future.",
+          "from": "draft"
+        },
+        {
+          "label": "Castigue-me o justo",
+          "forms": {
+            "corripiet": "Castigue-me o justo"
+          },
+          "note": "MS1932's jussive; the second verb would have to become 'e me repreenda'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "impinguet",
+      "refs": [
+        "140:5"
+      ],
+      "latin": "non impínguet caput meum",
+      "kind": "glossary",
+      "why": "The impinguáre row ('Ungistes com óleo a minha cabeça', 22:5b) says 140:5 must follow. The same oil and head: 'não unja a minha cabeça'. 'Untar' keeps the fat and was the row's option; 'engordar' is the Latin's first sense, withdrawn by the 22:5b Latinist himself.",
+      "options": [
+        {
+          "label": "unja",
+          "forms": {
+            "impinguet": "unja"
+          },
+          "note": "= 22:5b.",
+          "from": "glossary"
+        },
+        {
+          "label": "unte",
+          "forms": {
+            "impinguet": "unte"
+          },
+          "note": "The row's option.",
+          "from": "glossary"
+        },
+        {
+          "label": "engorde",
+          "forms": {
+            "impinguet": "engorde"
+          },
+          "note": "The Latin's literal 'fatten'; the v1 Latinist's fix (minor). Refused under the row (22:5b, where the Latinist withdrew the same request).",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "adhucet",
+      "refs": [
+        "140:6"
+      ],
+      "latin": "Quóniam adhuc et orátio mea",
+      "kind": "order",
+      "why": "Adhuc 'still' and et 'also, even' both stand before the subject. v1 split them round it ('ainda a minha oração também está'), which the stylist found had two adverbs pulling in two places (his worst line). His order is taken: et → 'até' (even), its other plain sense (MS1932 'até a minha oração'), and 'ainda' beside the verb. Order and the plainer of two faithful words (D2); no word lost. 'Porque' is kept for quóniam against his 'Pois' (the default).",
+      "options": [
+        {
+          "label": "até a minha oração ainda está",
+          "forms": {
+            "adhucet": "até a minha oração ainda está"
+          },
+          "note": "v2, the stylist's order (with 'Porque').",
+          "from": "stylist"
+        },
+        {
+          "label": "ainda a minha oração também está",
+          "forms": {
+            "adhucet": "ainda a minha oração também está"
+          },
+          "note": "v1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "beneplacitis",
+      "refs": [
+        "140:6"
+      ],
+      "latin": "Quóniam adhuc et orátio mea in beneplácitis eórum",
+      "kind": "ambiguity",
+      "why": "The Latin is obscure and has no verb: 'for still also my prayer [is] in their good pleasures'. DRB and MS1932 read 'in' as 'against' ('against the things with which they are well pleased', 'é contra o que lhe apraz') — that is the Hebrew's sense ('against their evil deeds') carried into the Latin, and it is not what 'in' says. The copula 'está' is supplied (D2) and 'in' kept as 'em'; the noun beneplácitum (row open; 'favor' at 88:18, but the plural 'favores' is 'favours done') becomes the relative 'o que lhes agrada' — grammar, the root of placére → agradar kept. Whether the prayer is set among, about or against what pleases them is left open, as the Latin leaves it. 'Et' → 'também'.",
+      "options": [
+        {
+          "label": "no que lhes agrada",
+          "forms": {
+            "beneplacitis": "no que lhes agrada"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "nos seus agrados",
+          "forms": {
+            "beneplacitis": "nos seus agrados"
+          },
+          "note": "Keeps a noun; 'agrados' is heard as small gifts or caresses.",
+          "from": "draft"
+        },
+        {
+          "label": "contra o que lhes agrada",
+          "forms": {
+            "beneplacitis": "contra o que lhes agrada"
+          },
+          "note": "DRB, MS1932: clearer, but it is the Hebrew's sense; refused.",
+          "from": "MS1932"
+        },
+        {
+          "label": "nas coisas que lhes agradam",
+          "forms": {
+            "beneplacitis": "nas coisas que lhes agradam"
+          },
+          "note": "The v2 Latinist's (minor): keeps the plural. Refused: 'coisas' is a noun the Latin does not have, and the relative 'o que' already covers many things; four syllables more.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "juncti",
+      "refs": [
+        "140:6"
+      ],
+      "latin": "absórpti sunt juncti petræ júdices eórum",
+      "kind": "ambiguity",
+      "why": "'Their judges, joined to the rock, were swallowed up' (the Greek ἐχόμενα πέτρας, 'close by the rock'). DRB's 'falling upon the rock' and MS1932's 'precipitados ao longo dos rochedos' explain; the Latin says only 'joined'. absorbére → engolir (row), petra → rocha (row), definite here as a named place in the image. Why they are joined to the rock is left as the Latin leaves it. 'Os seus juízes', since the first colon already has 'lhes'.",
+      "options": [
+        {
+          "label": "unidos à rocha",
+          "forms": {
+            "juncti": "unidos à rocha"
+          },
+          "note": "Draft: the participle kept.",
+          "from": "draft"
+        },
+        {
+          "label": "junto à rocha",
+          "forms": {
+            "juncti": "junto à rocha"
+          },
+          "note": "The Greek's 'beside'; the participle becomes a preposition.",
+          "from": "draft"
+        },
+        {
+          "label": "presos à rocha",
+          "forms": {
+            "juncti": "presos à rocha"
+          },
+          "note": "Vivid; says 'held fast', more than 'joined'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potuerunt",
+      "refs": [
+        "140:7"
+      ],
+      "latin": "quóniam potuérunt",
+      "kind": "ambiguity",
+      "why": "'Because they were able / had power' (the Latin read ἠδυνήθησαν; the Rahlfs text prints ἡδύνθησαν 'were sweet'; the Latin is followed). Who had power — the words or the men who will hear them — is open: MS1932 resolves it to the words ('porque elas são poderosas'). Bare 'porque puderam' is not a finished sentence in Portuguese ('because they could … what?'). 'Tiveram poder' keeps the root and the Latin's open subject, since it has no gender.",
+      "options": [
+        {
+          "label": "porque tiveram poder",
+          "forms": {
+            "potuerunt": "porque tiveram poder"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "porque puderam",
+          "forms": {
+            "potuerunt": "porque puderam"
+          },
+          "note": "The literal verb; heard as incomplete.",
+          "from": "draft"
+        },
+        {
+          "label": "porque foram poderosas",
+          "forms": {
+            "potuerunt": "porque foram poderosas"
+          },
+          "note": "MS1932: the words made the subject; resolves the ambiguity.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "crassitudo",
+      "refs": [
+        "140:7"
+      ],
+      "latin": "sicut crassitúdo terræ erúpta est super terram",
+      "kind": "word",
+      "why": "Crassitúdo is 'thickness' (L&S; πάχος), not a clod or a crust, which would explain. 'Espessura' is the word. Erúpta est (passive, perfect) → 'se rompeu', the pronominal form for a passive with a thing as subject (grammar); DRB 'is broken up'. The Latin says 'terra' twice (terræ … super terram) and so does the Portuguese; DRB varies it (earth / ground), and that is not followed. The obscurity is the Latin's own; the Hebrew's ploughing is not imported.",
+      "options": [
+        {
+          "label": "a espessura da terra se rompeu",
+          "forms": {
+            "crassitudo": "a espessura da terra se rompeu"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "a espessura da terra foi rompida",
+          "forms": {
+            "crassitudo": "a espessura da terra foi rompida"
+          },
+          "note": "The Latin's passive.",
+          "from": "draft"
+        },
+        {
+          "label": "a dureza da terra se desfez",
+          "forms": {
+            "crassitudo": "a dureza da terra se desfez"
+          },
+          "note": "MS1932 ('a dureza da terra se desfaz'); another noun and verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dissipata",
+      "refs": [
+        "140:8"
+      ],
+      "latin": "Dissipáta sunt ossa nostra",
+      "kind": "grammar",
+      "why": "dissipáre → dispersar for bones strewn (the row; 52:6b, 21:15). v1 had the periphrastic passive 'Foram dispersos'; the stylist heard 'dispersos os nossos ossos' hiss and blur in choir. The pronominal passive 'Dispersaram-se' is the same verb and the same sense, with a thing as subject (grammar, D2); taken. 21:15 'foram dispersos todos os meus ossos' is another Latin verb (dispérgere) in another psalm and stays.",
+      "options": [
+        {
+          "label": "Dispersaram-se",
+          "forms": {
+            "dissipata": "Dispersaram-se"
+          },
+          "note": "v2, the stylist's.",
+          "from": "stylist"
+        },
+        {
+          "label": "Foram dispersos",
+          "forms": {
+            "dissipata": "Foram dispersos"
+          },
+          "note": "v1: the Latin's passive; as 21:15.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "infernum",
+      "refs": [
+        "140:8"
+      ],
+      "latin": "secus inférnum",
+      "kind": "glossary",
+      "why": "The inférnus row is open and heavy (D22); the finished psalms keep 'inferno' (6:6, 15:10, 138:8 'se eu descer ao inferno'). Here 'beside hell' is where the bones lie scattered, which is the abode of the dead; 'inferno' is kept for the row. dissipáre → dispersar for bones strewn (the row's proposal; 52:6b, 21:15).",
+      "options": [
+        {
+          "label": "inferno",
+          "forms": {
+            "infernum": "inferno"
+          },
+          "note": "The row.",
+          "from": "glossary"
+        },
+        {
+          "label": "abismo",
+          "forms": {
+            "infernum": "abismo"
+          },
+          "note": "Avoids the hell of the damned; it is abýssus's word (41:8). Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "statuerunt",
+      "refs": [
+        "140:9"
+      ],
+      "latin": "a láqueo, quem statuérunt mihi",
+      "kind": "glossary",
+      "why": "The statúere row is 'firmar' (118:38, 17:34, 24:12), but 'firmar um laço' is not what one does with a snare. 'Armar um laço' is the Portuguese idiom for setting a trap and says what statúere says here (set up). MS1932 'armaram'. 'Pôr um laço' is pónere's (118:110 'puseram um laço para mim') and would merge two verbs. Cost: 'armar' is also 'inténdere arcum' (armar o arco); they do not meet here. 'Para mim' as 118:110.",
+      "options": [
+        {
+          "label": "armaram",
+          "forms": {
+            "statuerunt": "armaram"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "firmaram",
+          "forms": {
+            "statuerunt": "firmaram"
+          },
+          "note": "The statúere row; heard as odd for a trap.",
+          "from": "glossary"
+        },
+        {
+          "label": "puseram",
+          "forms": {
+            "statuerunt": "puseram"
+          },
+          "note": "= 118:110 (láqueum pónere), another Latin verb.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "ejus",
+      "refs": [
+        "140:10"
+      ],
+      "latin": "in retiáculo ejus",
+      "kind": "ambiguity",
+      "why": "Ejus is singular and not reflexive: 'his net', not 'their own net' (which would be suo / eórum). Whose — God's, or an enemy's — the Latin does not say. Portuguese 'na sua rede' would be heard as 'their own net' (MS1932 glosses 'sua (própria)'), a resolution the Latin's grammar excludes; 'dele' keeps singular and open. retiáculum → rede (rete's word; the diminutive is not marked).",
+      "options": [
+        {
+          "label": "na rede dele",
+          "forms": {
+            "ejus": "na rede dele"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "na sua rede",
+          "forms": {
+            "ejus": "na sua rede"
+          },
+          "note": "Heard as 'their own'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "singulariter",
+      "refs": [
+        "140:10"
+      ],
+      "latin": "singuláriter sum ego",
+      "kind": "glossary",
+      "why": "The singuláriter row is 'a sós' (4:10). Kept; 'eu' named as the Latin's 'ego' does, and again in 'até que eu passe' so that 'passe' is not heard as 'he passes'. MS1932 'estou só'.",
+      "options": [
+        {
+          "label": "a sós estou eu, até que eu passe",
+          "forms": {
+            "singulariter": "a sós estou eu, até que eu passe"
+          },
+          "note": "The row (4:10); tránseam is first person and says so.",
+          "from": "glossary"
+        },
+        {
+          "label": "a sós estou eu, até que passe",
+          "forms": {
+            "singulariter": "a sós estou eu, até que passe"
+          },
+          "note": "The v1 stylist's: the second 'eu' dropped. Refused: bare 'passe' is heard as 'until it (the danger) passes' — one of the readings the ambiguity reader listed — where the Latin's form is first person.",
+          "from": "stylist"
+        },
+        {
+          "label": "sozinho estou eu, até que eu passe",
+          "forms": {
+            "singulariter": "sozinho estou eu, até que eu passe"
+          },
+          "note": "Plainer; a masculine the Latin does not have.",
+          "from": "draft"
+        },
+        {
+          "label": "eu estou só, até que eu passe",
+          "forms": {
+            "singulariter": "eu estou só, até que eu passe"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "140:1": "No titulus: DO's file has none (D7), though the LXX and MS1932 print 'Salmo de David'. clamáre → clamar with the perfect kept ('clamei a vós', as 129:1); exáudi → escutai (D3), inténde → atendei (D3; the glossary lists 140:1 among the four places where the two stand parallel). 'eu' supplied in the second colon so that 'quando clamar' has its subject. The first colon reads alone as the antiphon 'Dómine, clamávi ad te, exáudi me'.",
+    "140:2": "The verse is said at the incensation and as a Gradual; each colon stands alone. The versicle split (after 'orátio mea') falls after 'seja dirigida'. in conspéctu → 'na vossa presença', the conspéctus row's split for an act of worship (137:1b, 87:3).",
+    "140:4": "The Latin's two cola run on into 140:4b ('Cum homínibus …'), so 140:4 ends with a comma as the Latin does.",
+    "140:4b": "operári iniquitátem → 'praticar a iniquidade' (glossary). 'os homens' with the article: 'com homens que praticam' would be heard as 'together with such men' only; the article keeps the class.",
+    "140:6": "absorbére → engolir (row open; 123:3b's 'tragado' was a local departure where two verbs stood together). The ambiguity reader found 'no que lhes agrada' contradictory on first hearing: the Latin is as obscure (decision beneplacitis); not clarified.",
+    "140:8": "The verse has one asterisk and an inner colon; the colon is kept as punctuation. 'Dómine, Dómine' repeated as the Latin. The copula 'estão' supplied (D2). auferre → tirar (D41). quia → porque (the default).",
+    "140:9": "scándalum → tropeço (row; 139:6 has the same word); custódi me → Guardai-me (custodíre row). 'tropeços' listed unknown by the ambiguity reader, as at 48:14; kept under the row. The stylist named 140:9 the best line.",
+    "140:3": "'guarda' is the noun, as 38:2b; the ambiguity reader noted it could be heard as the verb after 'Ponde', and took the noun. Kept.",
+    "140:7": "'espessura' was listed unknown by the ambiguity reader; it is crassitúdo's plain word and no plainer faithful one exists (decision crassitudo). Kept."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Draft 1 from the parallels. Liturgical use and Brazilian circulation fetched into circulation.md: every Brazilian text found has 'suba' for Dirigátur; refused for the Latin's verb (decision dirigatur). Hard readings: 140:6 (in beneplácitis, juncti petræ), 140:7 (potuérunt, crassitúdo), all left as obscure as the Latin is; the Hebrew's senses (DRB and MS1932's 'contra', 'precipitados', 'delícias') not imported."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft length flags accepted: 140:2 first colon +3 by the counter (Que‿a and minha‿oração elide in the mouth: about +1 said; the subject is first to avoid the a/à mishearing, decision dirigatur); 140:2 second colon -3 (verbless, as the Latin); 140:4 first colon +4 (Portuguese needs the article and 'para'; 'desvieis' four syllables for 'declínes' three); 140:6 second colon +3 (the participle and the article); 140:8 first colon +3 ('junto ao' for 'secus'). No cadence faults; no accidental rhyme at mediant and final."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Claude Opus 5.5, fresh context, with latin.json. 3 minor, no major; all three refused, each kept as an option.",
+      "outcomes": [
+        {
+          "verse": "140:3",
+          "remark": "relative clause for the noun genitive; asks 'uma porta de cerco'",
+          "outcome": "option",
+          "decision": "ostium",
+          "reason": "'cerco' is heard as a siege; a noun made a clause is grammar (D2)."
+        },
+        {
+          "verse": "140:4",
+          "remark": "reflexive added; asks 'para dar desculpas'",
+          "outcome": "option",
+          "decision": "excusandas",
+          "reason": "His fix drops the Latin's figura etymologica, which D2 keeps; the reflexive only gives the infinitive a Portuguese build."
+        },
+        {
+          "verse": "140:5",
+          "remark": "'unja' flattens impinguet; asks 'engorde'",
+          "outcome": "option",
+          "decision": "impinguet",
+          "reason": "The impinguáre row (22:5b) is ungir, and the 22:5b Latinist withdrew this very request."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Claude Opus 5.5, fresh context, with latin.json. 5 remarks: 2 taken (140:6 order, 140:8 voice), 3 kept as options. Worst line 140:6, best 140:9.",
+      "outcomes": [
+        {
+          "verse": "140:2",
+          "remark": "'Que … seja dirigida' flat; asks 'Dirija-se a minha oração'",
+          "outcome": "option",
+          "decision": "dirigatur",
+          "reason": "Heard aloud as 'dirija-se à minha oração' (go to my prayer)."
+        },
+        {
+          "verse": "140:4",
+          "remark": "'se desculpar' has no clear subject; asks 'me'",
+          "outcome": "option",
+          "decision": "excusandas",
+          "reason": "The gerundive names no person; the ambiguity reader heard the first person anyway."
+        },
+        {
+          "verse": "140:6",
+          "remark": "'ainda … também' split round the subject",
+          "outcome": "taken",
+          "decision": "adhucet"
+        },
+        {
+          "verse": "140:8",
+          "remark": "'Foram dispersos os nossos ossos' hisses",
+          "outcome": "taken",
+          "decision": "dissipata"
+        },
+        {
+          "verse": "140:10",
+          "remark": "second 'eu' redundant",
+          "outcome": "option",
+          "decision": "singulariter",
+          "reason": "Without it 'passe' is heard as 'until it passes'; tránseam is first person."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Claude Opus 5.5, fresh context. 24 ambiguities, nearly all the Latin's own (140:4b attachment, 140:6, 140:7, eléctis, ejus) and left open on purpose; unknown words: vespertino, unja, espessura, tropeços. One change: 'vespertino' → 'da tarde'.",
+      "outcomes": [
+        {
+          "verse": "140:2",
+          "remark": "'vespertino' unknown",
+          "outcome": "taken",
+          "decision": "elevatio"
+        },
+        {
+          "verse": "140:3",
+          "remark": "'guarda' could be heard as the verb",
+          "outcome": "refused",
+          "reason": "The reader took the noun; = 38:2b."
+        },
+        {
+          "verse": "140:4",
+          "remark": "subject of 'se desculpar' open",
+          "outcome": "refused",
+          "reason": "Heard first as the first person, the right sense; the Latin names no person."
+        },
+        {
+          "verse": "140:4b",
+          "remark": "first colon attaches forward or back; eléctis persons or things; comunhão Eucharistic",
+          "outcome": "refused",
+          "reason": "The attachment and eléctis are the Latin's ambiguities; 'comunhão' was heard as fellowship first."
+        },
+        {
+          "verse": "140:5",
+          "remark": "'unja' unknown; image of the oil unclear",
+          "outcome": "refused",
+          "reason": "The glossary word (22:5b); the image is the Latin's."
+        },
+        {
+          "verse": "140:6",
+          "remark": "'no que lhes agrada' heard as contradictory; rock image unclear",
+          "outcome": "refused",
+          "reason": "The Latin is this obscure; the Hebrew's 'against' is not imported."
+        },
+        {
+          "verse": "140:7",
+          "remark": "subject of 'tiveram poder' open; 'espessura' unknown; simile's attachment unclear",
+          "outcome": "refused",
+          "reason": "The open subject is the Latin's (decision potuerunt); espessura has no plainer faithful word."
+        },
+        {
+          "verse": "140:8",
+          "remark": "'inferno' heard as hell; 'porque' hard to connect",
+          "outcome": "refused",
+          "reason": "The inférnus row (open, D22); quia → porque is the default."
+        },
+        {
+          "verse": "140:9",
+          "remark": "'tropeços' unknown / whose stumbles",
+          "outcome": "refused",
+          "reason": "The scándalum row; heard as traps first, the right sense."
+        },
+        {
+          "verse": "140:10",
+          "remark": "'dele' owner unclear; 'passe' may be heard as dying",
+          "outcome": "refused",
+          "reason": "The owner is left open as ejus leaves it; 'passar' is the Latin's verb."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 140:2 'sacrifício da tarde'; 140:6 'Porque até a minha oração ainda está' (stylist's order); 140:8 'Dispersaram-se os nossos ossos' (stylist). Draft 1 kept as prayed.v1.json. Latinist gate owed on v2. Checks on v2: hard pass; 140:2 second colon now -4 (verbless, and 'da tarde' shorter than the Latin adjective), accepted; the other length flags as v1 (140:8 first colon still +3 with the pronominal form)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2 — Claude Opus 5.5, fresh context, with latin.json. 2 minor, no major; both refused and kept as options. Gate clean of majors.",
+      "outcomes": [
+        {
+          "verse": "140:5",
+          "remark": "'unja' drops the fattening; asks 'engorde' (again, as v1)",
+          "outcome": "option",
+          "decision": "impinguet",
+          "reason": "The impinguáre row (22:5b, where the Latinist withdrew the same request) is ungir; two minors on the same point are weighed, not obeyed."
+        },
+        {
+          "verse": "140:6",
+          "remark": "plural beneplácitis collapsed; asks 'nas coisas que lhes agradam'",
+          "outcome": "option",
+          "decision": "beneplacitis",
+          "reason": "Supplies 'coisas'; 'o que' is number-neutral in Portuguese."
+        }
+      ]
+    }
+  ]
+}
