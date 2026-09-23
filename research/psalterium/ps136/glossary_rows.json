@@ -1,0 +1,29 @@
+{
+  "append": [
+    {"row": "| interrogáre |", "text": "**Ps 136:3a *interrogavérunt nos … verba cantiónum* (double accusative: asked us for) → *nos pediram … palavras de canções*** — a local departure: *interrogar* cannot take the thing asked for; MS1932 *pediam*, DRB 'required of us'. *nos interrogaram sobre* the option."},
+    {"row": "| oblivióni dare |", "text": "Ps 136:5 *oblivióni detur déxtera mea* → *seja entregue ao esquecimento a minha direita* (as named; MS1932 the same words in the Latin's order, option). The ambiguity reader heard 'a minha direita' uncertainly as the hand; *mão direita* the option."},
+    {"row": "| adhærére |", "text": "**Ps 136:6a *Adhǽreat lingua mea fáucibus meis* → *Cole-se a minha língua à minha garganta*** — 21:16 in the jussive, as proposed; the Brazilian refrain's *ao céu da boca* (Lectionary, fetched) the option."},
+    {"row": "| fauces |", "text": "Ps 136:6a → *à minha garganta* (= 21:16); no reader remarked."},
+    {"row": "| exinaníre |", "text": "**Ps 136:7b *Exinaníte, exinaníte* → *Esvaziai, esvaziai*** — the Latin's and the Greek's image (ἐκκενοῦτε); the Latinist praised it as the Septuagintal reading kept; the ambiguity reader heard destruction only vaguely. *Arrasai* (DRB 'Rase', DM1962) the option. *usque ad fundaméntum in ea* → *até o fundamento dela* (the Latinist's *nela* refused, option)."},
+    {"row": "| allídere |", "text": "**Ps 136:9 *allídet … ad petram* → *arremessar … contra a rocha*** — the dashing, without the crushing (*esmagar*, DM1962) or the pieces (MS1932) the Latin leaves unsaid; *lançar* weaker. Unknown to the ambiguity reader; kept."},
+    {"row": "| petra |", "text": "Ps 136:9 *ad petram* → *contra a rocha* (generic definite, DRB); *uma rocha* option."},
+    {"row": "| tenére (*ténuit eos supérbia", "text": "Ps 136:9 *qui tenébit* (absolute) → *quem tomar* (v2; the stylist asked the row's verb, v1 *agarrar* was colloquial); no comma after the mark, so *tomar e arremessar* share the object."},
+    {"row": "| párvuli |", "text": "Ps 136:9 *párvulos tuos* → *os teus pequeninos*; heard as children."},
+    {"row": "| retribútio |", "text": "**Ps 136:8 *qui retríbuet tibi retributiónem tuam, quam retribuísti nobis* → *quem te retribuir a tua retribuição, que nos retribuíste*** — the Latin's triple root kept; heard as payback; *retribuíste* unknown to the ambiguity reader. *te pagar a tua paga, com que nos pagaste* (MS1932/DM1962's root) the option."},
+    {"row": "| aliénus |", "text": "Ps 136:4 *in terra aliéna* → *em terra estranha* (MS1932); heard as 'foreign land' by the ambiguity reader; the stylist's best line. CNBB *estrangeira* option."},
+    {"row": "| illic |", "text": "Ps 136:1, 136:3a → *ali*."},
+    {"row": "| inítio · princípium |", "text": "Ps 136:6b *in princípio lætítiæ meæ* → *no princípio da minha alegria* — heard as beginning first, chief and source next (the ambiguity reader): ἀρχή's openness kept."}
+  ],
+  "terms": [
+    "| órganum (*suspéndimus órgana nostra*) | instrumento (*os nossos instrumentos*) | open | Ps 136:2 (ὄργανα; DRB 'instruments'). *harpas* (CNBB, the Hebrew's kinnor) and *cítaras* (MS1932, cíthara's word) options; heard as musical instruments. |",
+    "| cántio | canção (*palavras de canções*) | open | Ps 136:3a, kept apart from cánticum → cântico in 136:3b–4. |",
+    "| abdúcere | levar para longe (*os que nos levaram para longe*) | open | Ps 136:3b (ἀπαγαγόντες), kin to 136:3a *captívos duxérunt → levaram cativos*; *arrastaram* (adds force) option. |",
+    "| propónere (*si non proposúero Jerúsalem*) | pôr (*Se eu não puser Jerusalém no princípio…*) | open | Ps 136:6b; *propor* heard as 'propose'. The Latinist (v2, minor) asked *propuser*; held, option; *antepuser* option. |",
+    "| míser (*Fília Babylónis mísera*) | infeliz | open | Ps 136:8 (ταλαίπωρος). v1 *miserável* heard as 'scoundrel' / 'stingy' by the stylist and the ambiguity reader; *desgraçada* (MS1932) a curse-word in Brazil; *mísera* option. |",
+    "| salix | salgueiro | working | Ps 136:2; unknown to the ambiguity reader, every version has it. |"
+  ],
+  "formulas": [
+    "| *Super flúmina Babylónis illic sédimus et flévimus: dum recordarémur tui, Sion* (136:1 with the Missal's *dum … tui*; the Offertory of Pent20-0 and Quad5-4; the V. of Responsory 1 of Pasc4-0 — grep) | the psalm: *Sobre os rios da Babilônia, ali nos sentamos e choramos: * lembrando-nos de Sião* | open — Ps 136; the Missal's *tui* would be *lembrando-nos de ti, Sião* |",
+    "| *Hymnum cantáte nobis * de cánticis Sion* (136:3b; Monastic Vespers antiphon, Psalmi major feria 4; respond of Responsory 6 of Pasc4-0 with 136:4 *Quómodo cantábimus cánticum Dómini in terra aliéna?*) · *Si oblítus fúero tui … Adhǽreat lingua mea fáucibus meis, si non memínero tui* (Responsory 1 of Pasc4-0, with *obliviscátur mei déxtera mea*) | *Cantai-nos um hino * dos cânticos de Sião* · *Como cantaremos o cântico do Senhor em terra estranha?* · *Se eu me esquecer de ti … Cole-se a minha língua à minha garganta, se eu não me lembrar de ti* | open — Ps 136; each colon reads alone |"
+  ]
+}

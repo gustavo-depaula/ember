@@ -1,0 +1,610 @@
+{
+  "psalm": 135,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "135:1": "Dai graças ao Senhor, porque ele é bom: * {refr}.",
+    "135:2": "Dai graças ao Deus dos deuses: * {refr}.",
+    "135:3": "Dai graças ao Senhor dos senhores: * {refr}.",
+    "135:4": "{qui} faz grandes maravilhas, {solus}: * {refr}.",
+    "135:5": "{qui} fez os céus {intellectu}: * {refr}.",
+    "135:6": "{qui} firmou a terra sobre as águas: * {refr}.",
+    "135:7": "{qui} fez os grandes {luminaria}: * {refr}.",
+    "135:8": "O sol {potd}: * {refr}.",
+    "135:9": "A lua e as estrelas {potn}: * {refr}.",
+    "135:10": "{qui} feriu o Egito {primog}: * {refr}.",
+    "135:11": "{qui} {eduxit1} Israel do meio deles: * {refr}.",
+    "135:12": "Com mão poderosa e braço {excelso}: * {refr}.",
+    "135:13": "{qui} {divisit}: * {refr}.",
+    "135:14": "E {eduxit2} Israel pelo meio dele: * {refr}.",
+    "135:15": "E {excussit} Faraó e {virtutem} no Mar Vermelho: * {refr}.",
+    "135:16": "{qui} {traduxit} o seu povo pelo deserto: * {refr}.",
+    "135:17": "{qui} feriu grandes reis: * {refr}.",
+    "135:18": "E matou reis fortes: * {refr}.",
+    "135:19": "{sehon}, rei dos amorreus: * {refr}.",
+    "135:20": "{og}, rei de Basã: * {refr}.",
+    "135:21": "E deu a terra deles em herança: * {refr}.",
+    "135:22": "Em herança a Israel, o seu servo: * {refr}.",
+    "135:23": "Porque na nossa {humilitate} se lembrou de nós: * {refr}.",
+    "135:24": "E nos resgatou dos nossos inimigos: * {refr}.",
+    "135:25": "{qui} dá {escam} a toda a carne: * {refr}.",
+    "135:26a": "Dai graças ao Deus do céu: * {refr}.",
+    "135:26b": "Dai graças ao Senhor dos senhores: * {refr}."
+  },
+  "decisions": [
+    {
+      "id": "refr",
+      "refs": [
+        "135:1",
+        "135:2",
+        "135:3",
+        "135:4",
+        "135:5",
+        "135:6",
+        "135:7",
+        "135:8",
+        "135:9",
+        "135:10",
+        "135:11",
+        "135:12",
+        "135:13",
+        "135:14",
+        "135:15",
+        "135:16",
+        "135:17",
+        "135:18",
+        "135:19",
+        "135:20",
+        "135:21",
+        "135:22",
+        "135:23",
+        "135:24",
+        "135:25",
+        "135:26a",
+        "135:26b"
+      ],
+      "latin": "quóniam in ætérnum misericórdia ejus",
+      "kind": "glossary",
+      "why": "The refrain, 27 times, and alone the Vespers antiphon 'Quóniam * in ætérnum misericórdia ejus' (Psalmi major l. 422). D14 ruled the word order for Ps 117's 'quóniam in sǽculum misericórdia ejus'; D23 merged 'in ætérnum' with 'in sǽculum' (one Greek phrase, εἰς τὸν αἰῶνα — read in the Rahlfs text of every verse here too) and said that 'Ps 135's refrain will be Ps 117's'. So the clause is word for word the refrain as it stands in 117:1–4, 29, 105:1 and 106:1 (checked in those prayed.vos.json files), and 99:4b's 'é para sempre a sua misericórdia' without the conjunction. One slot, 27 places: the refrain cannot drift. Brazil prays this psalm as 'Porque eterno é seu amor' (CNBB Liturgia das Horas, fetched: consult/web-lh-salmo-135-136.md) and 'pois eterno é seu amor' (CNBB Bible, consult/bolls-CNBB-19-136.json) — both from the Hebrew ḥesed read as love; the Latin's word is misericórdia, and 'eterno' would spend the word D23 gave up.",
+      "options": [
+        {
+          "label": "porque é para sempre a sua misericórdia",
+          "forms": {
+            "refr": "porque é para sempre a sua misericórdia"
+          },
+          "note": "Ruling: D14 + D23; = 117:1, 105:1, 106:1.",
+          "from": "glossary"
+        },
+        {
+          "label": "porque a sua misericórdia é para sempre",
+          "forms": {
+            "refr": "porque a sua misericórdia é para sempre"
+          },
+          "note": "Plain order (DRB 'for his mercy endureth for ever'); ends 27 cadences on the adverb — refused in D14.",
+          "from": "draft"
+        },
+        {
+          "label": "porque a sua misericórdia é eterna",
+          "forms": {
+            "refr": "porque a sua misericórdia é eterna"
+          },
+          "note": "MS1932's wording, word for word, in all 27 verses; keeps ætérnum apart from sǽculum, which D23 gave up; would part this refrain from Ps 117's.",
+          "from": "MS1932"
+        },
+        {
+          "label": "porque eterna é a sua misericórdia",
+          "forms": {
+            "refr": "porque eterna é a sua misericórdia"
+          },
+          "note": "The mercy last, as the Latin ends; 'eterna' as MS1932. The same cost as option 2.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "135:4",
+        "135:5",
+        "135:6",
+        "135:7",
+        "135:10",
+        "135:11",
+        "135:13",
+        "135:16",
+        "135:17",
+        "135:25"
+      ],
+      "latin": "Qui …",
+      "kind": "grammar",
+      "why": "Ten verses open with the relative 'Qui', hanging on 'Dómino dominórum' of 135:3 across the refrain (the Greek has datives, τῷ ποιοῦντι…, going on from 'give thanks to'). The repetition is the Latin's litany and stays (rule 6): one wording, ten times. After the refrain's full stop a bare 'Que fez os céus…' is heard as a question or exclamation ('What made the heavens?'), and 'O que fez…' (MS1932) as 'What he did…'. 'Aquele que' is unambiguous and is how 113:8 renders the same build ('Qui convértit petram' → 'Aquele que converteu a rocha'). Cost: two syllables more than the Latin's one in every such verse.",
+      "options": [
+        {
+          "label": "Aquele que",
+          "forms": {
+            "qui": "Aquele que"
+          },
+          "note": "Ruling: as 113:8; heard only as a relative.",
+          "from": "draft"
+        },
+        {
+          "label": "O que",
+          "forms": {
+            "qui": "O que"
+          },
+          "note": "MS1932; shorter, but heard first as 'what'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ele, que",
+          "forms": {
+            "qui": "Ele, que"
+          },
+          "note": "Names the subject; a comma before every relative.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "solus",
+      "refs": [
+        "135:4"
+      ],
+      "latin": "Qui facit mirabília magna solus",
+      "kind": "order",
+      "why": "'solus' (μόνῳ) says he alone does them. 71:18 'qui facit mirabília solus' reads 'que só ele faz maravilhas' — the same words wanted here. Inside 'Aquele que' a 'só ele' before the verb is ungrammatical, and a bare 'só' ('Aquele que só faz') is heard as 'who only does'. Placed where the Latin places it, at the end of the colon, 'só ele' keeps 71:18's words and the Latin's order.",
+      "options": [
+        {
+          "label": "grandes maravilhas, só ele",
+          "forms": {
+            "solus": "só ele"
+          },
+          "note": "Ruling: 71:18's 'só ele', at the Latin's place.",
+          "from": "draft"
+        },
+        {
+          "label": "sozinho",
+          "forms": {
+            "solus": "sozinho"
+          },
+          "note": "'Aquele que faz grandes maravilhas, sozinho' — heard as 'unaided', one sense of solus.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "intellectu",
+      "refs": [
+        "135:5"
+      ],
+      "latin": "in intelléctu",
+      "kind": "word",
+      "why": "ἐν συνέσει, understanding. The glossary row intelléctus → entendimento (118:34, 31:9, 15:7). 'Sabedoria' (MS1932, CNBB, the Liturgia das Horas 'com saber') is sapiéntia's word (103:24 'Fizestes tudo com sabedoria'). The preposition 'com' for the instrumental 'in' is grammar (DRB 'in understanding' keeps it, English allows it; Portuguese 'em entendimento' does not).",
+      "options": [
+        {
+          "label": "com entendimento",
+          "forms": {
+            "intellectu": "com entendimento"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "com inteligência",
+          "forms": {
+            "intellectu": "com inteligência"
+          },
+          "note": "MS1932's word for intelléctus elsewhere; proparoxytone at the mediant.",
+          "from": "MS1932"
+        },
+        {
+          "label": "com sabedoria",
+          "forms": {
+            "intellectu": "com sabedoria"
+          },
+          "note": "MS1932 here; merges with sapiéntia.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "potestatem",
+      "refs": [
+        "135:8",
+        "135:9"
+      ],
+      "latin": "in potestátem diéi / noctis",
+      "kind": "word",
+      "why": "εἰς ἐξουσίαν: the sun and moon set over day and night as their realm. The glossary row potéstas (ἐξουσία) → domínio was proposed at 113:2 and named 135:8–9 as its next test. The noun kept, with 'para' for 'in' + accusative of purpose. MS1932 'para presidir', CNBB 'para governar' turn the noun into a verb; that is grammar under D2 and stays an option, but the row's noun holds the two verses to 113:2 and keeps the Latin's word.",
+      "options": [
+        {
+          "label": "para o domínio do dia / da noite",
+          "forms": {
+            "potd": "para o domínio do dia",
+            "potn": "para o domínio da noite"
+          },
+          "note": "Ruling: the potéstas row (113:2).",
+          "from": "glossary"
+        },
+        {
+          "label": "para governar o dia / a noite",
+          "forms": {
+            "potd": "para governar o dia",
+            "potn": "para governar a noite"
+          },
+          "note": "Noun to verb; CNBB's wording (Hebrew family).",
+          "from": "draft"
+        },
+        {
+          "label": "para presidir ao dia / à noite",
+          "forms": {
+            "potd": "para presidir ao dia",
+            "potn": "para presidirem à noite"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "primog",
+      "refs": [
+        "135:10"
+      ],
+      "latin": "cum primogénitis eórum",
+      "kind": "grammar",
+      "why": "σὺν τοῖς πρωτοτόκοις αὐτῶν: Egypt struck together with its firstborn. 'eórum' is plural against singular 'Ægýptum' (the Egyptians); 'deles' keeps the Latin's plural and is echoed by 135:11 'do meio deles' (de médio eórum), which needs the same referent. 'com os seus primogênitos' could be heard as God's. 'nos seus primogênitos' (CNBB) is the Hebrew's 'in their firstborn'.",
+      "options": [
+        {
+          "label": "com os primogênitos deles",
+          "forms": {
+            "primog": "com os primogênitos deles"
+          },
+          "note": "Ruling: the Latin's 'cum' and plural; DRB 'with their firstborn', MS1932 'com os seus primogênitos'.",
+          "from": "DRB"
+        },
+        {
+          "label": "com os seus primogênitos",
+          "forms": {
+            "primog": "com os seus primogênitos"
+          },
+          "note": "MS1932; 'seus' may be heard as God's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eduxit",
+      "refs": [
+        "135:11",
+        "135:14"
+      ],
+      "latin": "edúxit Israël de médio eórum / per médium ejus",
+      "kind": "glossary",
+      "why": "The Latin has 'edúxit' in both verses (the Greek varies: ἐξαγαγόντι 11, διαγαγόντι 14), so the Portuguese repeats one verb (rule 6: the Latin's repetition, not the Greek's variation). The glossary row edúcere → fazer sair (17:20). 'fez sair … pelo meio dele' is DRB's 'brought out Israel through the midst thereof'. MS1932 and CNBB 'fez passar' at 14 is the Greek's and Hebrew's verb; here it is kept for 'tradúxit' (135:16), which would then collide.",
+      "options": [
+        {
+          "label": "fez sair … fez sair",
+          "forms": {
+            "eduxit1": "fez sair",
+            "eduxit2": "fez sair"
+          },
+          "note": "Ruling: one Latin verb, one Portuguese verb; the glossary row.",
+          "from": "glossary"
+        },
+        {
+          "label": "fez sair … fez passar",
+          "forms": {
+            "eduxit1": "fez sair",
+            "eduxit2": "fez passar"
+          },
+          "note": "MS1932's 14; follows the Greek, drops the Latin's repetition and meets 135:16.",
+          "from": "MS1932"
+        },
+        {
+          "label": "tirou … tirou",
+          "forms": {
+            "eduxit1": "tirou",
+            "eduxit2": "tirou"
+          },
+          "note": "MS1932's 11 ('O que tirou Israel'); 'tirou … pelo meio dele' does not say going through.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "excelso",
+      "refs": [
+        "135:12"
+      ],
+      "latin": "brácchio excélso",
+      "kind": "glossary",
+      "why": "ἐν βραχίονι ὑψηλῷ, a high (raised) arm. The glossary row excélsus → excelso (settled, D43). It is lofty rather than concrete for an arm; 'erguido' says the image plainly. Kept with the row because the row is settled and the word is the Latin's; 'erguido' is the option most worth Gustavo's ear. 'estendido' (CNBB, the Liturgia das Horas; DRB 'stretched out') is the Hebrew's nəṭûyâ, not the Latin.",
+      "options": [
+        {
+          "label": "excelso",
+          "forms": {
+            "excelso": "excelso"
+          },
+          "note": "Ruling: the settled row.",
+          "from": "glossary"
+        },
+        {
+          "label": "erguido",
+          "forms": {
+            "excelso": "erguido"
+          },
+          "note": "The concrete image of a raised arm; a local departure from the row.",
+          "from": "draft"
+        },
+        {
+          "label": "levantado",
+          "forms": {
+            "excelso": "levantado"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "divisit",
+      "refs": [
+        "135:13"
+      ],
+      "latin": "Qui divísit Mare Rubrum in divisiónes",
+      "kind": "word",
+      "why": "The Latin echoes verb and noun (divísit … in divisiónes; Greek καταδιελόντι … εἰς διαιρέσεις). Rule 2 keeps a repetition the Latin has. 'dividiu … em divisões' keeps it at the cost of an odd noun; 'partiu … em partes' keeps the echo with two plain words, and 'partir' is the ordinary verb for splitting a thing in two. 'em duas partes' (MS1932, CNBB) adds a number from the Hebrew.",
+      "options": [
+        {
+          "label": "partiu o Mar Vermelho em partes",
+          "forms": {
+            "divisit": "partiu o Mar Vermelho em partes"
+          },
+          "note": "Ruling: the echo kept in plain words.",
+          "from": "draft"
+        },
+        {
+          "label": "dividiu o Mar Vermelho em divisões",
+          "forms": {
+            "divisit": "dividiu o Mar Vermelho em divisões"
+          },
+          "note": "The cognates; 'divisões' is odd of water.",
+          "from": "draft"
+        },
+        {
+          "label": "dividiu o Mar Vermelho em partes",
+          "forms": {
+            "divisit": "dividiu o Mar Vermelho em partes"
+          },
+          "note": "DRB 'divided … into parts'; the echo lost.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "excussit",
+      "refs": [
+        "135:15"
+      ],
+      "latin": "Et excússit Pharaónem, et virtútem ejus in Mari Rubro",
+      "kind": "word",
+      "why": "excútere is 'shake out, shake off, throw off' (L&S: 'equus excussit equitem'; 'gubernatorem in mare e puppi'); the Greek is ἐκτινάσσω, the verb of 126:4 'fílii excussórum' → 'os filhos dos que foram sacudidos'. 'sacudiu' keeps the image and the link. 'virtus' of an army (δύναμις, the host): the row gives the singular 'poder', but 'sacudiu … o seu poder no Mar Vermelho' says an abstraction was shaken into the sea; D43 gave the plural 'virtútes nostræ' 'forças', which holds strength and armed forces as the Latin does, and here the singular takes it (number is grammar). 'exército' (MS1932, DRB 'host', CNBB) explains. Faraó without article, as MS1932 and the Latin's proper name.",
+      "options": [
+        {
+          "label": "sacudiu … as suas forças",
+          "forms": {
+            "excussit": "sacudiu",
+            "virtutem": "as suas forças"
+          },
+          "note": "Ruling: 126:4's verb; D43's 'forças'.",
+          "from": "draft"
+        },
+        {
+          "label": "sacudiu … o seu poder",
+          "forms": {
+            "excussit": "sacudiu",
+            "virtutem": "o seu poder"
+          },
+          "note": "The virtus row's singular.",
+          "from": "glossary"
+        },
+        {
+          "label": "precipitou … o seu exército",
+          "forms": {
+            "excussit": "precipitou",
+            "virtutem": "o seu exército"
+          },
+          "note": "MS1932; plainer, explains both words.",
+          "from": "MS1932"
+        },
+        {
+          "label": "derribou … o seu exército",
+          "forms": {
+            "excussit": "derribou",
+            "virtutem": "o seu exército"
+          },
+          "note": "DRB 'overthrew … his host'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "traduxit",
+      "refs": [
+        "135:16"
+      ],
+      "latin": "Qui tradúxit pópulum suum per desértum",
+      "kind": "word",
+      "why": "tra(ns)dúcere, to lead across (L&S). 'fez passar' keeps the 'across' of trans- and stays apart from edúxit (fez sair, 135:11, 14) and from perdúcere → conduzir (77:13, 77:52). MS1932 and DRB 'conduziu / led'.",
+      "options": [
+        {
+          "label": "fez passar",
+          "forms": {
+            "traduxit": "fez passar"
+          },
+          "note": "Ruling: the 'across' of trans-.",
+          "from": "draft"
+        },
+        {
+          "label": "conduziu",
+          "forms": {
+            "traduxit": "conduziu"
+          },
+          "note": "MS1932, DRB 'led'; perdúcere's verb in Ps 77.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "names",
+      "refs": [
+        "135:19",
+        "135:20"
+      ],
+      "latin": "Sehon, regem Amorrhæórum · Et Og, regem Basan",
+      "kind": "grammar",
+      "why": "Accusatives, objects of 'occídit' (135:18) across the refrain. Portuguese marks them with 'a' (MS1932 'a Seon … e a Og'; the Liturgia das Horas 'A Seon … E a Og'); without it the names are heard as a new apposition. Names: Seon, amorreus (gentilic lower case, as the Ps 82 names row), Og, Basã — Basã as 67:23 ('Farei voltar de Basã') and as Brazil prints them (CNBB Bible 'Seon, rei dos amorreus … Og, rei de Basã'; Liturgia das Horas the same names — both fetched). MS1932 prints 'Basan'. Ps 134:11 has the same names and is being translated at the same time: it should match.",
+      "options": [
+        {
+          "label": "A Seon … E a Og",
+          "forms": {
+            "sehon": "A Seon",
+            "og": "E a Og"
+          },
+          "note": "Ruling: the accusative marked; MS1932 and the Liturgia das Horas.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Seon … E Og",
+          "forms": {
+            "sehon": "Seon",
+            "og": "E Og"
+          },
+          "note": "Bare names, as the Latin prints them; CNBB Bible.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "humilitate",
+      "refs": [
+        "135:23"
+      ],
+      "latin": "in humilitáte nostra",
+      "kind": "glossary",
+      "why": "The row humílitas → humilhação (Pss 9, 24, 30, 89, 118): the state of being brought low. 'humildade' is the virtue. CNBB Bible 'Na nossa humilhação lembrou-se de nós'; MS1932 'Em nosso abatimento'. The verse is also the second half of a Vespers antiphon: 'Confitémini Dómino * quia in humilitáte nostra memor fuit nostri' (Psalmi major l. 102) → 'Dai graças ao Senhor, porque na nossa humilhação se lembrou de nós' — it reads whole.",
+      "options": [
+        {
+          "label": "humilhação",
+          "forms": {
+            "humilitate": "humilhação"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "pequenez",
+          "forms": {
+            "humilitate": "pequenez"
+          },
+          "note": "21:22's local departure (the lowly self); here it is a state suffered.",
+          "from": "glossary"
+        },
+        {
+          "label": "abatimento",
+          "forms": {
+            "humilitate": "abatimento"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "escam",
+      "refs": [
+        "135:25"
+      ],
+      "latin": "Qui dat escam omni carni",
+      "kind": "word",
+      "why": "esca is split in the finished psalms: 'alimento' where God gives food to creatures (103:21, 103:27 'que lhes deis o alimento a seu tempo'), 'comida' where men eat or crave (77:18, 77:30, 68:22, 106:18). This is God giving: 'alimento', with MS1932. 'toda a carne' keeps the Latin's flesh (64:3 'a vós virá toda a carne'); CNBB 'todo ser vivo' explains it.",
+      "options": [
+        {
+          "label": "alimento",
+          "forms": {
+            "escam": "alimento"
+          },
+          "note": "Ruling: 103:21, 103:27; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "comida",
+          "forms": {
+            "escam": "comida"
+          },
+          "note": "The other finished rendering (Ps 77, 68, 106); plainer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "luminaria",
+      "refs": [
+        "135:7"
+      ],
+      "latin": "luminária magna",
+      "kind": "word",
+      "why": "luminária (φῶτα): lamps, light-givers. 'luminares' is the word every Portuguese version has (MS1932, the Liturgia das Horas, CNBB); 'luzeiros' is older and rarer. Adjective before the noun, as Portuguese says it.",
+      "options": [
+        {
+          "label": "luminares",
+          "forms": {
+            "luminaria": "luminares"
+          },
+          "note": "Ruling: MS1932 and current use.",
+          "from": "MS1932"
+        },
+        {
+          "label": "luzeiros",
+          "forms": {
+            "luminaria": "luzeiros"
+          },
+          "note": "Plainer root (luz); older.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "135:1": "= 117:1, 105:1, 106:1 word for word (Confitémini → dar graças a, D5). Also the Vespers antiphon's first half 'Confitémini Dómino * quóniam in ætérnum misericórdia ejus' (Psalmi major l. 101), which reads whole as 'Dai graças ao Senhor, porque é para sempre a sua misericórdia'.",
+    "135:2": "'Deus deórum' → 'o Deus dos deuses' (D44, 49:1).",
+    "135:3": "'Dóminus dominórum' → 'o Senhor dos senhores', the same build; = 135:26b.",
+    "135:6": "firmáre → firmar (32:6 'os céus foram firmados'); DRB 'established'.",
+    "135:8": "The verse is the object of 'fez' in 135:7, across the refrain, as in the Latin.",
+    "135:9": "The Latin's comma after 'Lunam' is not reproduced: 'A lua e as estrelas' is one object in Portuguese.",
+    "135:12": "'In manu poténti' → 'Com mão poderosa' — the instrumental 'in', as MS1932; no article, as the Latin has none.",
+    "135:14": "'dele' = the sea (ejus, 135:13).",
+    "135:15": "'no Mar Vermelho' for 'in Mari Rubro' (ablative; the Greek εἰς θάλασσαν is 'into'). 'Mar Vermelho' capitalized, as 105:9, 105:21.",
+    "135:17": "percútere → ferir (row), as 135:10.",
+    "135:18": "occídere → matar (row, 1148). 'fortes' (κραταιούς) kept; CNBB 'poderosos' is the Hebrew family.",
+    "135:21": "'hereditátem' → 'em herança' (MS1932); 135:22 repeats it as the Latin repeats 'Hereditátem'.",
+    "135:22": "Article before the possessive, 'o seu servo' (rule 5); DRB 'to his servant Israel'.",
+    "135:23": "'Quia' → 'Porque', which stands next to the refrain's 'porque' (quóniam): the Latin has two causal words there too. memor esse + gen. → lembrar-se de (row). Proclisis 'se lembrou' after the adverbial.",
+    "135:24": "redímere → resgatar (row; 135:24 is in its list). Proclisis after 'E', as 105:10 'e os resgatou'.",
+    "135:26a": "'Deo cæli' → 'ao Deus do céu' (singular, as the Latin; MS1932 'a Deus do céu').",
+    "135:26b": "= 135:3 word for word."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Draft 1 (Claude Opus) from consult/parallels/ps135.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962) and literal.json. The refrain is the settled refrain of Pss 117, 105, 106 (D14, D23), checked in their prayed.vos.json files (ps135/tools/pt.py). Liturgical uses in the Latin books (grep of content/do): Vespers antiphons 'Confitémini Dómino * quóniam in ætérnum misericórdia ejus' (135:1–9), 'Confitémini Dómino * quia in humilitáte nostra memor fuit nostri' (135:10–26; built from 135:1a + 135:23), 'Quóniam * in ætérnum misericórdia ejus' (Psalmi major l. 101, 102, 422) — each reads whole from the psalm's colons. Brazilian circulation fetched: CNBB Liturgia das Horas (consult/web-lh-salmo-135-136.md, from liturgiadashoras.online) and CNBB Bible (consult/bolls-CNBB-19-136.json) — refrain 'eterno é seu amor', names Seon, amorreus, Og, Basã, Faraó; recorded in ps135/circulation.md. Hard readings: 135:4 solus, 135:8–9 potéstas, 135:13 divísit in divisiónes, 135:15 excússit / virtus, 135:14 edúxit against the Greek."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids, marks). Soft flags accepted: first colons of 135:5 (+3), 135:6 (+4), 135:10 (+4), 135:16 (+3), 135:25 (+7) are long by the two syllables of 'Aquele que' (decision qui) plus Portuguese articles; 135:25's Latin colon is only 8 syllables. 135:9 +5 ('para o domínio da noite', the potéstas row; 'para governar' is no shorter). Neighbouring finals '-ordia' in all 27 verses: the refrain, the Latin's own repetition."
+    }
+  ]
+}

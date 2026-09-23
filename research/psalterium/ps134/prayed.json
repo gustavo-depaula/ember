@@ -1,0 +1,734 @@
+{
+  "psalm": 134,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "134:1": "Louvai o nome do Senhor, * louvai, servos, o Senhor.",
+    "134:2": "{statis} de pé na casa do Senhor, * nos átrios da casa do nosso Deus.",
+    "134:3": "Louvai o Senhor, porque o Senhor é bom: * entoai salmos ao seu nome, porque é suave.",
+    "134:4": "Porque o Senhor escolheu para si Jacó, * Israel como sua posse.",
+    "134:5": "Porque {cognovi} que o Senhor é grande, * e o nosso Deus, acima de todos os deuses.",
+    "134:6": "Tudo o que quis, o Senhor fez no céu e na terra, * no mar e em todos os abismos.",
+    "134:7a": "{educens} as nuvens do extremo da terra: * {fulgura}.",
+    "134:7b": "{producit} {thesauris} os ventos: * {qui7b2} os primogênitos do Egito, desde o homem até o {pecus}.",
+    "134:9": "E enviou sinais e prodígios no meio de ti, Egito: * {pharao} todos os seus servos.",
+    "134:10": "{qui10} muitas nações: * e matou reis fortes:",
+    "134:11": "{sehon}, rei dos amorreus, e Og, rei de Basã, * e todos os reinos de Canaã.",
+    "134:12": "E deu a terra deles como herança, * como herança a Israel, o seu povo.",
+    "134:13": "Senhor, o vosso nome é para sempre: * Senhor, {memoriale}, de geração em geração.",
+    "134:14": "Porque o Senhor julgará o seu povo: * {deprec}.",
+    "134:15": "Os {simulacra} das nações são prata e ouro, * obras das mãos dos homens.",
+    "134:16": "Têm boca, e não falarão: * têm olhos, e não verão.",
+    "134:17": "Têm ouvidos, e não ouvirão: * {neque}.",
+    "134:18": "{fiant} semelhantes a eles aqueles que os fazem: * e todos os que confiam neles.",
+    "134:19": "Casa de Israel, bendizei ao Senhor: * casa de Aarão, bendizei ao Senhor.",
+    "134:20": "Casa de Levi, bendizei ao Senhor: * vós que temeis o Senhor, bendizei ao Senhor.",
+    "134:21": "{sion21}"
+  },
+  "decisions": [
+    {
+      "id": "statis",
+      "refs": [
+        "134:2"
+      ],
+      "latin": "Qui statis in domo Dómini",
+      "kind": "glossary",
+      "why": "134:2 is 133:1b word for word, and the formula row (working) gives 'Que estais de pé na casa do Senhor'. Rule 6 asks identical Portuguese. But here the bare relative 'Que' opens the verse right after '… louvai, servos, o Senhor.', so the ear can hang it on 'o Senhor' (the Lord who stands in his house); and the Tuesday Lauds antiphon (Psalmi major, [Day2 Laudes1]) sings 134:1a and 134:2a as one line — 'Louvai o nome do Senhor, que estais de pé na casa do Senhor' would make the Lord the one standing. 'Vós que estais' names the addressees, as the vocative plural already implies (the Ps 10:2 remedy: the subject named). DRB 'You that stand', MS1932 'vós … que assistis'. Departure from the formula recorded; proposed for 133:1b too (glossary). Cost: two syllables over the Latin colon.",
+      "options": [
+        {
+          "label": "Vós que estais",
+          "forms": {
+            "statis": "Vós que estais"
+          },
+          "note": "Ruling. The addressees named, so the relative cannot attach to 'o Senhor', in the psalm or in the antiphon.",
+          "from": "draft"
+        },
+        {
+          "label": "Que estais",
+          "forms": {
+            "statis": "Que estais"
+          },
+          "note": "133:1b's wording, identical (the formula row). Heard after 'o Senhor', the relative can take the Lord as antecedent.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "cognovi",
+      "refs": [
+        "134:5"
+      ],
+      "latin": "Quia ego cognóvi quod",
+      "kind": "glossary",
+      "why": "cognóvi + a 'that'-clause. v1 ruled 'eu soube' after 19:7a 'nunc cognóvi quóniam → agora soube que' and 55:10 'ecce, cognóvi → eis que eu soube'. Both the stylist and the ambiguity reader (v1) heard 'soube' as receiving news ('I found out, I heard'), not the settled knowledge of a confession. In 19:7a and 55:10 'nunc' and 'ecce' mark a moment, and 'soube' fits; here nothing does, and the Latin perfect of knowing states what is known (L&S; DRB 'I have known'). v2: 'eu sei' — the CNBB LH also has 'Eu bem sei que o Senhor é tão grande' (fetched, circulation.md; a witness of the ear only). The stylist's 'reconheci' is kept as an option: it is the cognate of recognóscere, and says acknowledgement more than knowledge.",
+      "options": [
+        {
+          "label": "eu sei",
+          "forms": {
+            "cognovi": "eu sei"
+          },
+          "note": "v2 ruling. The perfect's present sense; two readers refused 'soube'.",
+          "from": "stylist"
+        },
+        {
+          "label": "eu soube",
+          "forms": {
+            "cognovi": "eu soube"
+          },
+          "note": "v1; 19:7a and 55:10's verb, where 'nunc' / 'ecce' mark a moment. Heard as news by two readers.",
+          "from": "glossary"
+        },
+        {
+          "label": "eu reconheci",
+          "forms": {
+            "cognovi": "eu reconheci"
+          },
+          "note": "The stylist (v1): a confession. recognóscere's cognate.",
+          "from": "stylist"
+        },
+        {
+          "label": "eu conheci",
+          "forms": {
+            "cognovi": "eu conheci"
+          },
+          "note": "MS1932; DRB 'I have known'. The stylist refused 'conheci que' at 55:10.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "educens",
+      "refs": [
+        "134:7a",
+        "134:7b"
+      ],
+      "latin": "Edúcens nubes … Qui prodúcit ventos",
+      "kind": "word",
+      "why": "Two verbs of bringing stand in one verse: edúcens nubes and prodúcit ventos, both 'lead forth, bring out' in L&S. v1 took edúcere from its Greek (ἀνάγων, 'faz subir') and gave 'fazer sair' to prodúcere; the Latinist (v1, minor) objected that 'faz subir' follows the LXX, not the Latin verb (rule 1). v2: edúcere keeps its row ('fazer sair', 17:20) and the Latin's sense, the clouds brought out from the end of the earth; prodúcere, to stay apart in the same verse, takes 'tirar' — 'Tira dos seus depósitos os ventos', the verb of the Diurnal Monástico ('tira o vento dos cofres', DM1962 — borrowed for diction only). The participle is a finite verb (D2 grammar); the subject is the Lord of 134:6.",
+      "options": [
+        {
+          "label": "Faz sair … Tira",
+          "forms": {
+            "educens": "Faz sair",
+            "producit": "Tira"
+          },
+          "note": "v2 ruling. The Latinist's 'Faz sair' (the edúcere row); 'Tira' for prodúcere after DM1962.",
+          "from": "latinist"
+        },
+        {
+          "label": "Faz subir … Faz sair",
+          "forms": {
+            "educens": "Faz subir",
+            "producit": "Faz sair"
+          },
+          "note": "v1. ἀνάγων / ἐξάγων; MS1932 'faz subir … faz sair'. The Latinist: LXX, not the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Fazendo sair … Aquele que tira",
+          "forms": {
+            "educens": "Fazendo sair",
+            "producit": "Aquele que tira"
+          },
+          "note": "The Latin's participle and relative kept (103:14's gerund, 113:8's 'Aquele que').",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fulgura",
+      "refs": [
+        "134:7a"
+      ],
+      "latin": "fúlgura in plúviam fecit",
+      "kind": "ambiguity",
+      "why": "ἀστραπὰς εἰς ὑετὸν ἐποίησεν: 'made lightnings for the rain' (DRB) — lightning that goes with, or turns into, the rain. 'para a chuva' keeps the verb 'fez' and the purpose/direction of 'in' without deciding the physics. MS1932 'converte os relâmpagos em chuva' replaces the verb with 'converter' and decides 'into'. The perfect 'fecit' is kept after the present of the first colon, as the Latin shifts tense.",
+      "options": [
+        {
+          "label": "fez relâmpagos para a chuva",
+          "forms": {
+            "fulgura": "fez relâmpagos para a chuva"
+          },
+          "note": "Ruling. The Latin's verb; DRB 'he hath made lightnings for the rain'.",
+          "from": "draft"
+        },
+        {
+          "label": "fez dos relâmpagos chuva",
+          "forms": {
+            "fulgura": "fez dos relâmpagos chuva"
+          },
+          "note": "'in' read as 'into' (the pónere + two accusatives build of 104:32, 'Fez das chuvas deles granizo').",
+          "from": "draft"
+        },
+        {
+          "label": "converteu os relâmpagos em chuva",
+          "forms": {
+            "fulgura": "converteu os relâmpagos em chuva"
+          },
+          "note": "MS1932 (present 'converte'); another verb, decides the sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "thesauris",
+      "refs": [
+        "134:7b"
+      ],
+      "latin": "de thesáuris suis",
+      "kind": "glossary",
+      "why": "thesáurus → depósito is the row (32:7 'põe em depósitos os abismos'), which names this verse: θησαυροί are storehouses, and 'tesouros' was heard as riches. The row asks to keep the proparoxytone off a cadence, so the object moves after it: 'faz sair dos seus depósitos os ventos' (order, D2), and the mediant falls on 'ventos'. MS1932 'dos seus tesouros' is the option. v2: the stylist asked 'tesouros' (depósitos 'commercial'), and the ambiguity reader found 'depósitos' odd as God's storehouses. Held for the row (open; 32:7 already reads 'depósitos', and 'tesouros' was heard as riches there by two readers); 'tesouros' stays the option, for Gustavo with the row.",
+      "options": [
+        {
+          "label": "dos seus depósitos",
+          "forms": {
+            "thesauris": "dos seus depósitos"
+          },
+          "note": "Ruling. The row (32:7).",
+          "from": "glossary"
+        },
+        {
+          "label": "dos seus tesouros",
+          "forms": {
+            "thesauris": "dos seus tesouros"
+          },
+          "note": "MS1932; the stylist (v1). Heard as riches at 32:7.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "134:7b",
+        "134:10"
+      ],
+      "latin": "Qui prodúcit … qui percússit … Qui percússit",
+      "kind": "grammar",
+      "why": "From 134:7a the psalm is a chain of participles and relatives hanging on 'Dóminus' of 134:6 (Edúcens … Qui prodúcit … qui percússit … Qui percússit … et dedit). A Portuguese verse that opens on a bare relative has no main verb anywhere; the chain is made of main clauses, the Lord as subject throughout, named ('Ele') where a new sentence begins after the Egypt verse — grammar (D2). 113:8 kept 'Aquele que converteu', a single relative; here there are three in four verses. The relative chain ('Aquele que … que feriu … Aquele que feriu') is the option.",
+      "options": [
+        {
+          "label": "feriu … Ele feriu",
+          "forms": {
+            "qui7b2": "feriu",
+            "qui10": "Ele feriu"
+          },
+          "note": "Ruling. Main clauses; the subject carried from 134:6–7a and named again at 134:10, after the Egypt verse. (The head of 134:7b is in decision educens.)",
+          "from": "draft"
+        },
+        {
+          "label": "ele feriu … Ele feriu",
+          "forms": {
+            "qui7b2": "ele feriu",
+            "qui10": "Ele feriu"
+          },
+          "note": "The subject named in 134:7b too (+2 syllables). The ambiguity reader could briefly attach 'feriu' to the winds; the singular verb against plural 'ventos' prevents it grammatically.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "que feriu … Aquele que feriu",
+          "forms": {
+            "qui7b2": "que feriu",
+            "qui10": "Aquele que feriu"
+          },
+          "note": "The Latin's relatives kept (113:8's build).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pecus",
+      "refs": [
+        "134:7b"
+      ],
+      "latin": "ab hómine usque ad pecus",
+      "kind": "word",
+      "why": "pecus (κτήνους) is the livestock; the row 'oves / boves / pécora' (open) names this place and gives 'animais'; juménta is 'animais' too (77:48, 106:38). The singular is kept, as a pair with 'o homem'. 'gado' is the row's narrower option. v2: both the Latinist and the stylist asked 'gado'; taken — the concrete word (rule 5).",
+      "options": [
+        {
+          "label": "gado",
+          "forms": {
+            "pecus": "gado"
+          },
+          "note": "v2 ruling: the Latinist and the stylist (v1, both) — pecus is livestock, and 'animal' made the concrete word generic. The row's narrower option; DRB 'beast'.",
+          "from": "latinist"
+        },
+        {
+          "label": "animal",
+          "forms": {
+            "pecus": "animal"
+          },
+          "note": "v1; the row 'pécora → animais'; MS1932 'até ao animal'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "pharao",
+      "refs": [
+        "134:9"
+      ],
+      "latin": "in Pharaónem, et in omnes servos ejus",
+      "kind": "word",
+      "why": "in + accusative, ἐν Φαραω: the signs were sent upon Pharaoh. 'sobre' keeps the direction without naming hostility; MS1932 has 'contra'. 'Faraó' without an article, as a name (MS1932, DM1962). 'in … et in' is kept as a repeated preposition.",
+      "options": [
+        {
+          "label": "sobre Faraó e sobre",
+          "forms": {
+            "pharao": "sobre Faraó e sobre"
+          },
+          "note": "Ruling. DRB 'upon Pharao, and upon'.",
+          "from": "draft"
+        },
+        {
+          "label": "contra Faraó e contra",
+          "forms": {
+            "pharao": "contra Faraó e contra"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sehon",
+      "refs": [
+        "134:11"
+      ],
+      "latin": "Sehon … Og … Basan … Chánaan",
+      "kind": "glossary",
+      "why": "Proper names take their current Brazilian form: Basã (67:23), Canaã (104:11, 105:38) are settled in earlier psalms; 'amorreus' lower case as a people. For Sehon, 'Seon' is what circulates — MS1932 and the CNBB Liturgia das Horas ('A Seon que foi rei amorreu', fetched, circulation.md). The Latin's spelling 'Sehon' (DRB) is the option. Ps 135:19–20 has the same two kings and should use the same forms (proposed in glossary.md).",
+      "options": [
+        {
+          "label": "Seon",
+          "forms": {
+            "sehon": "Seon"
+          },
+          "note": "Ruling. MS1932; CNBB LH.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Sehon",
+          "forms": {
+            "sehon": "Sehon"
+          },
+          "note": "The Latin's spelling; DRB.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "deprec",
+      "refs": [
+        "134:14"
+      ],
+      "latin": "et in servis suis deprecábitur",
+      "kind": "word",
+      "why": "The Greek is παρακληθήσεται ἐπὶ τοῖς δούλοις αὐτοῦ, the same verb and preposition as 89:13 'deprecábilis esto super servos tuos' (παρακλήθητι ἐπὶ τοὺς δούλους σου), which reads 'deixai-vos aplacar para com os vossos servos' (row 'deprecábilis', open). The Latin passive of deprecári is 'will let himself be entreated' (DRB 'will be entreated in favour of his servants'); 'deixar-se aplacar' is that, and rule 6 wants the two verses kin. This colon is sung alone at the end of the Tuesday Lauds antiphon ([Day2 Laudes2]: 'Laudáte Dóminum quia benígnus est, et in servis suis deprecábitur') and reads alone. Natural order (verb before its complement) over the Latin's verb-last. Costs: 'aplacar' was listed unknown by one reader at 89:13; the link with deprecári → suplicar (D35) is lost, as there. v2: the stylist (v1) named this colon the worst line — 'aplacar para com' lumpy, breath out before the cadence; the ambiguity reader listed 'aplacar' unknown and was unsure what it meant; the Latinist (minor) found 'aplacar' leans to propitiation and asked 'se deixará rogar'. Refused: in Brazil 'deixar-se rogar' / 'fazer-se rogar' is heard as making oneself be begged (reluctance), the opposite of the sense; and it would split this verse from 89:13, same Greek. Taken in part from the stylist: the Latin's own order, verb last — the preposition early while there is breath, the colon closing on the stressed '-car'. His 'com os seus servos' (dropping 'para') is refused: 'aplacar-se com' is heard as 'appeased by' them. The words stay 89:13's; if 89:13 changes, this follows.",
+      "options": [
+        {
+          "label": "e para com os seus servos se deixará aplacar",
+          "forms": {
+            "deprec": "e para com os seus servos se deixará aplacar"
+          },
+          "note": "v2 ruling. The Latin's order (stylist, in part); 89:13's words.",
+          "from": "stylist"
+        },
+        {
+          "label": "e se deixará aplacar para com os seus servos",
+          "forms": {
+            "deprec": "e se deixará aplacar para com os seus servos"
+          },
+          "note": "v1; the stylist's worst line.",
+          "from": "draft"
+        },
+        {
+          "label": "e com os seus servos se deixará aplacar",
+          "forms": {
+            "deprec": "e com os seus servos se deixará aplacar"
+          },
+          "note": "The stylist's full proposal; 'com' heard as the agent ('appeased by his servants').",
+          "from": "stylist"
+        },
+        {
+          "label": "e se deixará rogar para com os seus servos",
+          "forms": {
+            "deprec": "e se deixará rogar para com os seus servos"
+          },
+          "note": "The Latinist (minor): the passive's 'be entreated'. 'deixar-se rogar' is heard as reluctance.",
+          "from": "latinist"
+        },
+        {
+          "label": "e se deixará vencer pelas preces dos seus servos",
+          "forms": {
+            "deprec": "e se deixará vencer pelas preces dos seus servos"
+          },
+          "note": "After MS1932 'se deixará vencer dos rogos dos seus servos': explains the passive with a noun the Latin lacks.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e terá compaixão dos seus servos",
+          "forms": {
+            "deprec": "e terá compaixão dos seus servos"
+          },
+          "note": "The Hebrew's sense (CNBB; DM1962 'tem dos seus servos compaixão'). Refused under rule 1.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "simulacra",
+      "refs": [
+        "134:15"
+      ],
+      "latin": "Simulácra géntium",
+      "kind": "glossary",
+      "why": "134:15 is 113:12 word for word; it copies 113:12 (rule 6; simulácrum row: 'ídolo', εἴδωλα). If 113:12 changes, this changes with it. v2: the Latinist asked 'simulacros' (minor), as he did at 113:12; refused for the same reason, and to keep the twins identical.",
+      "options": [
+        {
+          "label": "ídolos",
+          "forms": {
+            "simulacra": "ídolos"
+          },
+          "note": "Ruling, = 113:12; the CNBB also 'ídolos' / 'deuses pagãos'.",
+          "from": "glossary"
+        },
+        {
+          "label": "simulacros",
+          "forms": {
+            "simulacra": "simulacros"
+          },
+          "note": "The Latin's word (113:12's Latinist option); bookish.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "neque",
+      "refs": [
+        "134:17"
+      ],
+      "latin": "neque enim est spíritus in ore ipsórum",
+      "kind": "word",
+      "why": "The one colon of the idol-stanza not shared with Ps 113. spíritus is breath here (the spíritus row 'sopro', 102:16: wind and breath; 'espírito' would be heard as a soul). 'neque enim' = 'for there is not even': 'pois nem há' renders both words. 'sua' for ipsórum, as 113:15. MS1932 'porque não há alento de vida na sua boca' adds 'de vida'. v2: the stylist (v1) heard 'nem há' as a clipped calque and asked 'nem sequer'; taken — it is how Portuguese says 'not even', and renders neque's force better (grammar, D2). His 'em sua boca' is not taken: the article before the possessive (rule 5).",
+      "options": [
+        {
+          "label": "pois nem sequer há sopro na sua boca",
+          "forms": {
+            "neque": "pois nem sequer há sopro na sua boca"
+          },
+          "note": "v2 ruling; the stylist's 'nem sequer'.",
+          "from": "stylist"
+        },
+        {
+          "label": "pois nem há sopro na sua boca",
+          "forms": {
+            "neque": "pois nem há sopro na sua boca"
+          },
+          "note": "v1.",
+          "from": "draft"
+        },
+        {
+          "label": "pois nem há sopro na boca deles",
+          "forms": {
+            "neque": "pois nem há sopro na boca deles"
+          },
+          "note": "'deles' leaves no doubt whose mouth; rhymes with 134:18's 'neles'.",
+          "from": "draft"
+        },
+        {
+          "label": "porque não há sopro na sua boca",
+          "forms": {
+            "neque": "porque não há sopro na sua boca"
+          },
+          "note": "Plainer; 'enim' as 'porque', the 'even' of neque lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "pois nem há espírito na boca deles",
+          "forms": {
+            "neque": "pois nem há espírito na boca deles"
+          },
+          "note": "The cognate; heard as a soul, not breath.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fiant",
+      "refs": [
+        "134:18"
+      ],
+      "latin": "Símiles illis fiant qui fáciunt ea",
+      "kind": "glossary",
+      "why": "134:18 is 113:16 word for word; it copies 113:16 v2 (decision 'fiant' there: 'Façam-se' keeps the fiant / fáciunt play; 'aqueles que' avoids 'os que os'). v2: the stylist asked 'Tornem-se … os que os fazem' (the 'Façam-se … fazem' jingle, 'a eles aqueles'); refused: the echo is the Latin's fiant / fáciunt, and 113:16 made the same ruling against the same proposal; 'Tornem-se' stays option 2.",
+      "options": [
+        {
+          "label": "Façam-se",
+          "forms": {
+            "fiant": "Façam-se"
+          },
+          "note": "Ruling, = 113:16.",
+          "from": "glossary"
+        },
+        {
+          "label": "Tornem-se",
+          "forms": {
+            "fiant": "Tornem-se"
+          },
+          "note": "101:7's verb; loses the echo.",
+          "from": "stylist"
+        },
+        {
+          "label": "Sejam",
+          "forms": {
+            "fiant": "Sejam"
+          },
+          "note": "MS1932; loses the becoming.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sion21",
+      "refs": [
+        "134:21"
+      ],
+      "latin": "Benedíctus Dóminus ex Sion, * qui hábitat in Jerúsalem.",
+      "kind": "order",
+      "why": "'Benedíctus Dóminus' is verbless 'Bendito o Senhor' in every finished place (27:6, 30:22, 67:20, 123:6 …). 133:3 has 'ex Sion → de Sião', but 'Bendito o Senhor de Sião' is heard as 'the Lord of Zion'; 'desde Sião' (MS1932) says the place the blessing comes from. The relative is given 'ele', as 133:3 does, because it would otherwise attach to 'Sião'. MS1932's order ('Desde Sião seja bendito o Senhor, que habita…') lets the relative follow 'Senhor' directly, but supplies 'seja' against the formula.",
+      "options": [
+        {
+          "label": "Bendito o Senhor desde Sião, * ele que habita em Jerusalém.",
+          "forms": {
+            "sion21": "Bendito o Senhor desde Sião, * ele que habita em Jerusalém."
+          },
+          "note": "Ruling. The formula head; 133:3's 'ele'.",
+          "from": "draft"
+        },
+        {
+          "label": "Bendito o Senhor de Sião, * ele que habita em Jerusalém.",
+          "forms": {
+            "sion21": "Bendito o Senhor de Sião, * ele que habita em Jerusalém."
+          },
+          "note": "133:3's preposition; heard as 'the Lord of Zion'.",
+          "from": "glossary"
+        },
+        {
+          "label": "Desde Sião seja bendito o Senhor, * que habita em Jerusalém.",
+          "forms": {
+            "sion21": "Desde Sião seja bendito o Senhor, * que habita em Jerusalém."
+          },
+          "note": "MS1932's order and 'seja'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "memoriale",
+      "refs": [
+        "134:13"
+      ],
+      "latin": "memoriále tuum",
+      "kind": "glossary",
+      "why": "The memoriále row (open) asks 134:13 to copy 101:13 ('e o vosso memorial, de geração em geração'). The stylist (v1) heard 'memorial' as a monument or legal brief and asked 'memória'; the ambiguity reader listed it unknown but heard 'remembrance'. Held for rule 6 (101:13 is the same colon; μνημόσυνον, which in the Greek is the memorial name by which God is remembered and invoked — not the faculty 'memória', which 29:5 already uses for memória). 'a vossa memória' is the option, for Gustavo with the row.",
+      "options": [
+        {
+          "label": "o vosso memorial",
+          "forms": {
+            "memoriale": "o vosso memorial"
+          },
+          "note": "Ruling; = 101:13.",
+          "from": "glossary"
+        },
+        {
+          "label": "a vossa memória",
+          "forms": {
+            "memoriale": "a vossa memória"
+          },
+          "note": "The stylist (v1); MS1932 'a tua memória'.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "134:1": "The Alleluia title (LXX αλληλουια; MS1932 prints 'Aleluia.') is not in DO's Latin, which opens on 'Laudáte nomen Dómini'; as in Pss 110–113 it is not reproduced (D7). 'Louvai, servos, o Senhor': 112:1's build ('Louvai, meninos, o Senhor'), the vocative bare. 'Senhor … Senhor' at mediant and final is the Latin's own echo (Dómini / Dóminum). The first colon is sung alone as an antiphon ([Day2 Laudes1]). The checks flag the rhyme Senhor / Senhor: it is the Latin's Dómini / Dóminum, kept (as 134:19–20 keep Dómino / Dómino, and 134:16 falarão / verão = 113:13, the Latin's loquéntur / vidébunt).",
+    "134:2": "Otherwise 133:1b word for word (stare → estar de pé; átrium → átrio). See decision statis. +3 syllables on the first colon (the named 'Vós' and 'de pé'), accepted.",
+    "134:3": "quia / quóniam both → porque. 'quóniam suáve' (neuter; ὅτι καλόν): what is sweet may be the name (nomen is neuter) or the singing; 'porque é suave' keeps it open. suávis → suave (row, 99:4b). psállere → entoar salmos (D25).",
+    "134:4": "The verb and subject brought forward (natural order, D2); Jacó at the mediant. 'in possessiónem sibi' → 'como sua posse' after 32:12 'quem elégit in hereditátem sibi → que ele escolheu como sua herança' (sibi absorbed into the possessive). heréditas / posséssio → herança / posse (row). περιουσιασμός is a treasured possession; 'posse' is the row's word for the land (2:8).",
+    "134:5": "præ ómnibus diis → acima de todos os deuses (95:4 'acima de todos os deuses', 88:28 præ → acima de). The second colon is verbless as the Latin's.",
+    "134:6": "Its head copies 113:11's 'tudo o que quis, ele fez' with Dóminus named, as the glossary's 113:11 note asks; the antiphon 'Tudo o que quis, o Senhor fez' ([Daya4 Vespera], [Monastic Vespera] feria 4) reads alone. The first colon is short against the Latin (≈13 vs 20 syllables): Portuguese uses fewer. (checks: −6)",
+    "134:7a": "ab extrémo terræ → do extremo da terra (the CNBB LH has the same words, fetched). See decisions educens and fulgura. The ambiguity reader noticed the tense shift (Faz … fez), which is the Latin's (Edúcens … fecit), and still heard what God does; kept.",
+    "134:7b": "DO's (8) run in, not reproduced. primogénita → os primogênitos (77:51). See decisions educens (Tira), thesauris, qui, pecus.",
+    "134:9": "mittere → enviar (56:4b). signa et prodígia → sinais e prodígios (77:43, 104:27). The vocative 'Egito' without 'ó' (the psalter's rule: 'ó' only where the Latin has 'o').",
+    "134:10": "gentes multas → muitas nações (plainer than 96:1's 'numerosas'). reges fortes → reis fortes (fortes row: strong or mighty, open as the Latin; 135:18 has the same words).",
+    "134:12": "The Latin repeats 'hereditátem', and the Portuguese repeats 'como herança'. 'pópulo suo' → 'o seu povo', the article before the possessive.",
+    "134:13": "The second colon copies 101:13b ('e o vosso memorial, de geração em geração'), as the memoriále row asks; the copula supplied in the first ('é para sempre', D14's build) and understood in the second. in ætérnum → para sempre (D23). The second colon is 7 syllables short of the Latin (checks): 'de geração em geração' is the formula.",
+    "134:14": "judicáre → julgar (row). The second colon is +4 (checks): 89:13's phrase costs it.",
+    "134:16": "= 113:13 word for word; the Latin's futures kept, as there.",
+    "134:17": "The first colon = 113:14a. Ps 113 has two more pairs (nose, hands, feet); Ps 134 has not.",
+    "134:19": "benedícere + dative → 'bendizei ao Senhor' (row; 102:20–22, 113:26). Aaron → Aarão.",
+    "134:20": "'qui timétis Dóminum' → 'vós que temeis o Senhor' (21:24).",
+    "134:21": "See decision sion21.",
+    "134:18": "= 113:16 word for word (v2 there); +4 syllables on the first colon, as there."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps134.md, with ps113 (idols), ps133 (133:1b = 134:2; 133:3 ex Sion), 89:13 (deprecábilis, same Greek as 134:14), 101:13 (memoriále), 19:7a / 55:10 (cognóvi + clause) as precedents. Liturgical uses by grep (three antiphons) and Brazilian circulation (CNBB LH, fetched) in circulation.md. Hard readings: 134:14 deprecábitur, 134:7a fúlgura in plúviam, 134:2 against its formula."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 134:7a +4 and 134:7b second colon +5 in the first run — mended by leaving the subject unnamed ('Faz subir', 'Faz sair … feriu'), now within range; 134:17 'boca deles' rhymed with 134:18 'neles' — mended ('na sua boca', as 113:15). Accepted: 134:2 +3, 134:5 +3 ('acima de' for præ), 134:14 +4 (89:13's phrase), 134:18 +4 (= 113:16), 134:6 −6 and 134:13 −7 (Portuguese is shorter; the formula); the Senhor/Senhor, Dómino/Dómino echoes of 134:1, 19, 20 and falarão/verão of 134:16 are the Latin's."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "No critical or major; 4 minor. 2 taken (7a Faz sair; 7b gado), 2 refused (14 rogar; 15 simulacros).",
+      "outcomes": [
+        {
+          "verse": "134:7a",
+          "remark": "'Faz subir' follows the LXX anagon, not educere",
+          "outcome": "taken",
+          "reason": "rule 1; prodúcere moves to 'Tira' so the two verbs stay apart"
+        },
+        {
+          "verse": "134:7b",
+          "remark": "pecus is livestock: 'gado'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "134:14",
+          "remark": "'aplacar' leans to propitiation; 'se deixará rogar'",
+          "outcome": "option",
+          "decision": "deprec",
+          "reason": "'deixar-se rogar' is heard in Brazil as reluctance ('fazer-se rogar'); 89:13 has the same Greek and 'deixar-se aplacar'"
+        },
+        {
+          "verse": "134:15",
+          "remark": "'simulacros' for simulacra",
+          "outcome": "option",
+          "decision": "simulacra",
+          "reason": "the row (εἴδωλα) and 113:12, identical Latin, refused the same proposal"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "6 verses remarked; worst 134:14, best 134:16. Taken: 5 (in other words: 'sei'), 7b gado, 17 'nem sequer', 14 in part (order). Refused, kept as options: depósitos → tesouros, memorial → memória, 18 Tornem-se.",
+      "outcomes": [
+        {
+          "verse": "134:5",
+          "remark": "'eu soube' sounds like news; 'reconheci'",
+          "outcome": "taken",
+          "decision": "cognovi",
+          "reason": "taken as 'eu sei' (also the ambiguity reader's complaint); 'reconheci' kept as an option"
+        },
+        {
+          "verse": "134:7b",
+          "remark": "'depósitos' commercial; 'tesouros'",
+          "outcome": "option",
+          "decision": "thesauris",
+          "reason": "the thesáurus row and 32:7; 'tesouros' was heard as riches there"
+        },
+        {
+          "verse": "134:7b",
+          "remark": "'animal' generic; 'gado'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "134:13",
+          "remark": "'memorial' technical; 'memória'",
+          "outcome": "option",
+          "decision": "memoriale",
+          "reason": "= 101:13 (rule 6); the memoriále row"
+        },
+        {
+          "verse": "134:14",
+          "remark": "'aplacar para com' lumpy; 'e com os seus servos se deixará aplacar'",
+          "outcome": "taken",
+          "decision": "deprec",
+          "reason": "the verb-last order taken; 'com' for 'para com' refused — heard as the agent"
+        },
+        {
+          "verse": "134:17",
+          "remark": "'nem há' clipped; 'nem sequer há sopro em sua boca'",
+          "outcome": "taken",
+          "reason": "'nem sequer' taken; 'em sua' refused (the article before the possessive)"
+        },
+        {
+          "verse": "134:18",
+          "remark": "'Façam-se … fazem' jingle; 'Tornem-se … os que os fazem'",
+          "outcome": "option",
+          "decision": "fiant",
+          "reason": "the echo is the Latin's fiant / fáciunt; = 113:16, which refused the same proposal"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "23 items, 11 unknown words (átrios, depósitos, Seon, Og, amorreus, Basã, memorial, aplacar, Aarão, Levi, Sião). Acted on: 134:5 'soube' heard as news (→ 'sei'). Kept: 134:3 owner of 'suave' open (the Latin's neuter); 7a 'para a chuva' heard as accompanying (the Latin's 'in' left open); 7b 'feriu' briefly attachable to the winds (verb singular, ventos plural); 14 'julgará' with an overtone of condemnation (the Latin's word); 14 'aplacar' unclear (held with 89:13; order changed); proper names and átrio kept (the Latin's; rows).",
+      "outcomes": [
+        {
+          "verse": "134:5",
+          "remark": "'eu soube' heard as 'I found out / heard'",
+          "outcome": "taken",
+          "decision": "cognovi"
+        },
+        {
+          "verse": "134:7b",
+          "remark": "'feriu' can attach to the winds",
+          "outcome": "option",
+          "decision": "qui",
+          "reason": "singular verb against plural 'ventos'; naming 'ele' costs two syllables, kept as option"
+        },
+        {
+          "verse": "134:13",
+          "remark": "'memorial' unknown / monument",
+          "outcome": "option",
+          "decision": "memoriale",
+          "reason": "= 101:13"
+        },
+        {
+          "verse": "134:14",
+          "remark": "'aplacar' unknown; meaning unclear",
+          "outcome": "refused",
+          "reason": "89:13's words for the same Greek; order improved; alternatives recorded in decision deprec"
+        },
+        {
+          "verse": "134:7b",
+          "remark": "'depósitos' unknown as God's storehouses",
+          "outcome": "option",
+          "decision": "thesauris",
+          "reason": "the row"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 134:5 eu sei; 134:7a Faz sair (Latinist), 134:7b Tira … gado; 134:14 verb last; 134:17 nem sequer; memoriale made a decision. prayed.v1.json kept.",
+      "checks": "Hard checks pass. Soft flags: 134:5 now -3 (was +3); 134:14 +4 as v1 (the same syllables, verb last); 134:2 +3, 134:18 +4, 134:6 -6, 134:13 -7 as accepted in v1; Senhor/Senhor and ao/ao rhymes are the Latin repetitions."
+    },
+    {
+      "step": "latinist",
+      "version": 2,
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "Gate on v2: clean — no remark of any grade. He noted the futures (16–17), jussive fiant (18), deprecábitur rendered as the Latin reads it (not the Hebrew), the open quóniam suave (3), and the permitted liberties (copulas in 13 and 15; participle and relatives made finite in 7a–7b).",
+      "outcomes": []
+    },
+    {
+      "step": "finish",
+      "note": "Ps 135 (finished in parallel) has Seon, amorreus, Og, Basã at 135:19–20: 134:11 already agrees, no change. Glossary: evidence appended to 11 rows (ps134/glossary_rows.json via ps005/glossary_add.py); no new rows. PROGRESS row by ps134/progress_insert.py."
+    }
+  ]
+}

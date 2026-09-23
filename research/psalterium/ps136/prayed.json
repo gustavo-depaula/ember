@@ -1,0 +1,751 @@
+{
+  "psalm": 136,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "136:1": "{super} os rios da Babilônia, ali nos sentamos e choramos: * {recordaremur}:",
+    "136:2": "Nos salgueiros, no meio dela, * penduramos {organa}.",
+    "136:3a": "Porque ali {interrogaverunt} os que nos levaram cativos * palavras de canções:",
+    "136:3b": "E os que {abduxerunt}: * Cantai-nos um hino dos cânticos de Sião.",
+    "136:4": "Como cantaremos o cântico do Senhor * em terra {aliena}?",
+    "136:5": "{oblitus}, Jerusalém, * {oblivioni}.",
+    "136:6a": "{adhaereat}, * se eu não me lembrar de ti:",
+    "136:6b": "Se eu não {proposuero} Jerusalém * no princípio da minha alegria.",
+    "136:7a": "Lembrai-vos, Senhor, dos filhos de Edom, * no dia de Jerusalém:",
+    "136:7b": "{qui_dicunt}: {exinanite} * {in_ea}.",
+    "136:8": "Filha da Babilônia, {misera}: * bem-aventurado quem {retribuet}.",
+    "136:9": "Bem-aventurado quem {tenebit} * e {allidet} os teus pequeninos contra {petram}."
+  },
+  "decisions": [
+    {
+      "id": "super",
+      "refs": [
+        "136:1"
+      ],
+      "latin": "Super flúmina Babylónis",
+      "kind": "word",
+      "why": "The psalm's first words, and the Offertory of Pentecost XX and of Thursday in Passion Week. Super (ἐπὶ τῶν ποταμῶν) here means at, by the rivers; 'sobre' keeps the Latin's word and is how the line circulates in the Vulgate-family and older Portuguese (DM1962 'Sôbre os rios da Babilônia', the Portuguese lectionary 'Sobre os rios de Babilónia', both fetched or in the parallels). The Brazilian Liturgy of the Hours (CNBB, fetched) has 'Junto aos rios', the plainer sense; MS1932 'Junto dos'. Ruled for the Latin's word: 'sobre' in this phrase is not misheard as 'on top of' — the image of sitting by rivers is too well known — and it is the word a reader crossing columns meets.",
+      "options": [
+        {
+          "label": "Sobre",
+          "forms": {
+            "super": "Sobre"
+          },
+          "note": "Draft. The Latin's word; DM1962 and the Portuguese lectionary open so.",
+          "from": "draft"
+        },
+        {
+          "label": "Junto aos",
+          "forms": {
+            "super": "Junto aos"
+          },
+          "note": "The Brazilian Liturgy of the Hours (CNBB, fetched); MS1932 'Junto dos'. The sense made explicit.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "recordaremur",
+      "refs": [
+        "136:1"
+      ],
+      "latin": "cum recordarémur Sion",
+      "kind": "grammar",
+      "why": "cum + imperfect subjunctive: 'when we remembered' (DRB). The gerund is how Portuguese says an action that runs alongside another, and it is MS1932's wording. The Latin colon has 8 syllables; the gerund has 7, the finite clause 10. recordári → lembrar-se (the memory verbs are merged, row reminísci / memínisse; 136:6a has memínero → 'me lembrar' in the same psalm, so the echo is kept). The CNBB's 'com saudades de Sião' interprets.",
+      "options": [
+        {
+          "label": "lembrando-nos de Sião",
+          "forms": {
+            "recordaremur": "lembrando-nos de Sião"
+          },
+          "note": "Draft. MS1932's wording; the length of the Latin colon.",
+          "from": "MS1932"
+        },
+        {
+          "label": "quando nos lembrávamos de Sião",
+          "forms": {
+            "recordaremur": "quando nos lembrávamos de Sião"
+          },
+          "note": "The Latin's clause and tense (DRB 'when we remembered'); two syllables over.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "organa",
+      "refs": [
+        "136:2"
+      ],
+      "latin": "suspéndimus órgana nostra",
+      "kind": "word",
+      "why": "órgana (ὄργανα) is the generic word: instruments (L&S 'of musical instruments, a pipe'; DRB 'our instruments'). 'Harpas' (CNBB) and 'liras' are the Hebrew's kinnor; MS1932 has 'cítaras', which is another Latin word (cíthara → cítara, row). 'Órgãos' would be heard as the church organ. Ruled for the Latin's generic word, as rule 1 asks.",
+      "options": [
+        {
+          "label": "os nossos instrumentos",
+          "forms": {
+            "organa": "os nossos instrumentos"
+          },
+          "note": "Draft. DRB 'our instruments'.",
+          "from": "DRB"
+        },
+        {
+          "label": "as nossas harpas",
+          "forms": {
+            "organa": "as nossas harpas"
+          },
+          "note": "The CNBB (fetched) and the Brazilian ear; the Hebrew's instrument, not the Latin's word.",
+          "from": "draft"
+        },
+        {
+          "label": "as nossas cítaras",
+          "forms": {
+            "organa": "as nossas cítaras"
+          },
+          "note": "MS1932. Spends cíthara's word on órganum.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "interrogaverunt",
+      "refs": [
+        "136:3a"
+      ],
+      "latin": "interrogavérunt nos … verba cantiónum",
+      "kind": "word",
+      "why": "The glossary row interrogáre → interrogar (open) names this verse. Here the verb has a double accusative — they asked us for words of songs (ἐπηρώτησαν ἡμᾶς … λόγους ᾠδῶν; DRB 'required of us the words of songs'; MS1932 'pediam') — and Portuguese 'interrogar' cannot take the thing asked for: 'interrogaram-nos palavras de canções' is not a sentence. 'Pedir' is the plain verb for asking someone for something; 'perguntar' takes a question, not a request. A local departure from the row, because the construction differs from 10:5–6 (examining). v2: the Latin's own order (verb, then the subject clause, then the object after the mark), the stylist's: draft 1 put the subject clause first and the ear waited too long for the verb. cántio → canção, kept apart from cánticum → cântico in the next verse, as the Latin keeps them apart.",
+      "options": [
+        {
+          "label": "nos pediram",
+          "forms": {
+            "interrogaverunt": "nos pediram"
+          },
+          "note": "v1 and v2. MS1932 'pediam'; DRB 'required of us'. v2 in the Latin's order (stylist).",
+          "from": "draft"
+        },
+        {
+          "label": "nos interrogaram sobre",
+          "forms": {
+            "interrogaverunt": "nos interrogaram sobre"
+          },
+          "note": "The row's verb, made grammatical by a preposition; the questioning of a judge, not a request.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "abduxerunt",
+      "refs": [
+        "136:3b"
+      ],
+      "latin": "Et qui abduxérunt nos",
+      "kind": "word",
+      "why": "abdúcere, to lead away (οἱ ἀπαγαγόντες), after 3a's captívos duxérunt → 'levaram cativos'. 'Levar para longe' keeps the one verb and adds the 'away' of ab-, so the two cola are kin as the Latin's duxérunt / abduxérunt are. The Latin has no verb of saying before the quotation (interrogavérunt serves both); the ellipsis is kept — the colon mark and the imperative make the speech plain.",
+      "options": [
+        {
+          "label": "nos levaram para longe",
+          "forms": {
+            "abduxerunt": "nos levaram para longe"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "nos arrastaram",
+          "forms": {
+            "abduxerunt": "nos arrastaram"
+          },
+          "note": "Shorter; adds force the Latin does not name (MS1932 'à força nos tinham levado' adds it too).",
+          "from": "draft"
+        },
+        {
+          "label": "nos deportaram",
+          "forms": {
+            "abduxerunt": "nos deportaram"
+          },
+          "note": "Exact in sense, but a modern administrative word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aliena",
+      "refs": [
+        "136:4"
+      ],
+      "latin": "in terra aliéna",
+      "kind": "glossary",
+      "why": "aliénus → estranho (row). 'Em terra estranha' is an old Portuguese phrase for a foreign land, and MS1932's; the row's worry (17:46 'filhos estranhos' heard as 'odd children') does not reach 'terra estranha', which is heard as abroad. The CNBB and the Portuguese lectionary have 'terra estrangeira'. Also a responsory of Easter IV (Pasc4-0), sung alone.",
+      "options": [
+        {
+          "label": "estranha",
+          "forms": {
+            "aliena": "estranha"
+          },
+          "note": "Draft. The row; MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "estrangeira",
+          "forms": {
+            "aliena": "estrangeira"
+          },
+          "note": "The CNBB Liturgy of the Hours (fetched). 'estrangeiro' is alienígena's in the glossary (59:10).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "oblitus",
+      "refs": [
+        "136:5"
+      ],
+      "latin": "Si oblítus fúero tui",
+      "kind": "grammar",
+      "why": "oblivísci + genitive → 'esquecer-se de' (row, 58:12). 'Se eu me esquecer de ti' is MS1932's wording and the Brazilian sung refrain's ('se de ti, Jerusalém, eu me esquecer', Lectionary, 4th Sunday of Lent B — fetched). The subject 'eu' is named: without it 'Se me esquecer' can be heard as 'if it forgets me'. Future perfect → future subjunctive, as Portuguese says it.",
+      "options": [
+        {
+          "label": "Se eu me esquecer de ti",
+          "forms": {
+            "oblitus": "Se eu me esquecer de ti"
+          },
+          "note": "Draft. MS1932; the Brazilian refrain.",
+          "from": "draft"
+        },
+        {
+          "label": "Se eu te esquecer",
+          "forms": {
+            "oblitus": "Se eu te esquecer"
+          },
+          "note": "The direct-object build of the other oblivísci row; shorter.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "oblivioni",
+      "refs": [
+        "136:5"
+      ],
+      "latin": "oblivióni detur déxtera mea",
+      "kind": "glossary",
+      "why": "The row oblivióni dare → entregar ao esquecimento (30:12b) names this verse; MS1932 has the same words ('ao esquecimento seja entregue a minha direita'). The Latin's play of one root (oblítus … oblivióni) is kept (esquecer … esquecimento). déxtera → a direita (row); in 'a minha direita' after a curse on oneself the hand is heard. The verb is set first, the natural order of a Portuguese wish (D2); MS1932 keeps the Latin's order. The CNBB's 'que resseque a minha mão' is the Hebrew's reading, not the Latin's. v1 ambiguity reader: 'a minha direita' heard uncertainly as the hand (also side, entitlement), and 'a / à minha' sound alike. The row keeps 'direita' without 'mão' where the Latin has no manus; the hand is the likeliest hearing even to him. The option with 'mão' stays for Gustavo.",
+      "options": [
+        {
+          "label": "seja entregue ao esquecimento a minha direita",
+          "forms": {
+            "oblivioni": "seja entregue ao esquecimento a minha direita"
+          },
+          "note": "Draft. The row; natural order.",
+          "from": "glossary"
+        },
+        {
+          "label": "ao esquecimento seja entregue a minha direita",
+          "forms": {
+            "oblivioni": "ao esquecimento seja entregue a minha direita"
+          },
+          "note": "MS1932 word for word; the Latin's order.",
+          "from": "MS1932"
+        },
+        {
+          "label": "seja entregue ao esquecimento a minha mão direita",
+          "forms": {
+            "oblivioni": "seja entregue ao esquecimento a minha mão direita"
+          },
+          "note": "The hand named (as 120:5 has 'mão' where the Latin says manum); the Latin has no 'manus' here.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adhaereat",
+      "refs": [
+        "136:6a"
+      ],
+      "latin": "Adhǽreat lingua mea fáucibus meis",
+      "kind": "glossary",
+      "why": "21:16 has the same Latin in the perfect, 'lingua mea adhǽsit fáucibus meis' → 'a minha língua se colou à minha garganta'; rule 6 gives the same words here in the jussive. The adhærére row proposes 'colar-se' where a body part sticks and names 136:6a; fauces → garganta (row; λάρυγγι). The Brazilian refrain says 'ao céu da boca' (Lectionary, fetched) and every version has palate — kept as the option, because the row and 21:16 have ruled 'garganta'. Also Responsory 1 of Easter IV (Pasc4-0).",
+      "options": [
+        {
+          "label": "Cole-se a minha língua à minha garganta",
+          "forms": {
+            "adhaereat": "Cole-se a minha língua à minha garganta"
+          },
+          "note": "Draft. = 21:16 in the jussive.",
+          "from": "glossary"
+        },
+        {
+          "label": "Que se cole a minha língua à minha garganta",
+          "forms": {
+            "adhaereat": "Que se cole a minha língua à minha garganta"
+          },
+          "note": "The CNBB's build ('Que se cole a minha língua'); one syllable more, softer entry.",
+          "from": "draft"
+        },
+        {
+          "label": "Cole-se a minha língua ao céu da boca",
+          "forms": {
+            "adhaereat": "Cole-se a minha língua ao céu da boca"
+          },
+          "note": "The Brazilian refrain's image (fetched); breaks 21:16 and the fauces row.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "proposuero",
+      "refs": [
+        "136:6b"
+      ],
+      "latin": "Si non proposúero Jerúsalem, in princípio lætítiæ meæ",
+      "kind": "word",
+      "why": "propónere: to set before, place first (L&S; προανατάξωμαι, to set in front). DRB 'If I make not Jerusalem the beginning of my joy'; MS1932 'se não me propuser Jerusalém, como principal objecto da minha alegria' (his gloss). The cognate 'propor' is heard as 'to propose'. 'Pôr … no princípio da minha alegria' says what the Latin says: to put Jerusalem at the head, the beginning, of one's joy; 'princípio' keeps the double sense of ἀρχή (beginning, chief) that the Latin keeps (row inítium · princípium). lætítia → alegria (row).",
+      "options": [
+        {
+          "label": "puser",
+          "forms": {
+            "proposuero": "puser"
+          },
+          "note": "Draft. The plain verb; 'no princípio' carries the 'before'.",
+          "from": "draft"
+        },
+        {
+          "label": "antepuser",
+          "forms": {
+            "proposuero": "antepuser"
+          },
+          "note": "Keeps the prefix (set before), but 'antepor' is bookish.",
+          "from": "draft"
+        },
+        {
+          "label": "propuser",
+          "forms": {
+            "proposuero": "propuser"
+          },
+          "note": "The cognate (MS1932 'me propuser'); heard as 'propose'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "qui_dicunt",
+      "refs": [
+        "136:7b"
+      ],
+      "latin": "Qui dicunt",
+      "kind": "grammar",
+      "why": "The Latin's masculine plural 'Qui' can only be the sons of Edom; a bare Portuguese 'Que' after 'no dia de Jerusalém' could attach to Jerusalem or the day. 'Os que' is plural and so points back to 'os filhos'. dicunt is present (τῶν λεγόντων, a participle); kept present, as DRB 'Who say'. MS1932 'diziam' dates it.",
+      "options": [
+        {
+          "label": "Os que dizem",
+          "forms": {
+            "qui_dicunt": "Os que dizem"
+          },
+          "note": "Draft. Plural, present, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Que dizem",
+          "forms": {
+            "qui_dicunt": "Que dizem"
+          },
+          "note": "Word for word; the antecedent unclear aloud.",
+          "from": "draft"
+        },
+        {
+          "label": "Os que diziam",
+          "forms": {
+            "qui_dicunt": "Os que diziam"
+          },
+          "note": "MS1932's past; the Latin says present.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exinanite",
+      "refs": [
+        "136:7b"
+      ],
+      "latin": "Exinaníte, exinaníte",
+      "kind": "word",
+      "why": "The row exinaníre leaves 136:7 to decide between 'esvaziar' and 'arrasar'. The Latin word and the Greek behind it (ἐκκενοῦτε) are the same image: empty it — empty the city down to its foundation (L&S cites 'domos exinanire', 'agros' with vastare: to strip bare). 'Arrasar' (DM1962 from the Hebrew 'lay bare'; DRB 'Rase it') is levelling, another image. 'Esvaziai' keeps the Latin's; the doubled cry is kept. Both imperatives are safe under rule 3 (the enemies are plural; 'esvaziai' ≠ 'esvaziei').",
+      "options": [
+        {
+          "label": "Esvaziai, esvaziai",
+          "forms": {
+            "exinanite": "Esvaziai, esvaziai"
+          },
+          "note": "Draft. The Latin's and the Greek's image.",
+          "from": "draft"
+        },
+        {
+          "label": "Arrasai, arrasai",
+          "forms": {
+            "exinanite": "Arrasai, arrasai"
+          },
+          "note": "DRB 'Rase it, rase it'; DM1962 'Arrasai' (from the Hebrew). The familiar sense of a city razed.",
+          "from": "DRB"
+        },
+        {
+          "label": "Destruí, destruí",
+          "forms": {
+            "exinanite": "Destruí, destruí"
+          },
+          "note": "MS1932; generic, and 'destruí' is also 'I destroyed' (rule 3).",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "in_ea",
+      "refs": [
+        "136:7b"
+      ],
+      "latin": "usque ad fundaméntum in ea",
+      "kind": "grammar",
+      "why": "'in ea' is Jerusalem (feminine), the city whose foundation it is (ὁ θεμέλιος ἐν αὐτῇ). Portuguese says the foundation 'dela'; 'até o fundamento nela' is not a sentence. The singular fundaméntum is kept (MS1932 and DM1962 'os fundamentos'). 'dela' rather than 'seu', which could be Edom's.",
+      "options": [
+        {
+          "label": "até o fundamento dela",
+          "forms": {
+            "in_ea": "até o fundamento dela"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "até os seus fundamentos",
+          "forms": {
+            "in_ea": "até os seus fundamentos"
+          },
+          "note": "The familiar plural (MS1932, DM1962); 'seus' is ambiguous.",
+          "from": "MS1932"
+        },
+        {
+          "label": "até o fundamento nela",
+          "forms": {
+            "in_ea": "até o fundamento nela"
+          },
+          "note": "The Latinist (v1, minor): the locative kept. Not a Portuguese phrase aloud ('down to the foundation in her').",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "misera",
+      "refs": [
+        "136:8"
+      ],
+      "latin": "Fília Babylónis mísera",
+      "kind": "word",
+      "why": "mísera, wretched (ἡ ταλαίπωρος; DRB 'miserable'): the pitiable, doomed one, not the 'devastator' of the Hebrew-family (DM1962 'a devastadora'). MS1932 'desgraçada' is in Brazil first an insult (as a curse), which would intensify; 'mísera' is exact and keeps the Latin's proparoxytone at the mediant, but is literary. 'Miserável' is the plain word for wretched; its second sense ('vile') is heard only as an insult, and the curse the verse carries is the Latin's own. The daughter is 'tu' (rule 3; 44:11 'Ouve, filha'). v2: the stylist and the ambiguity reader both heard 'miserável' first as the insult (scoundrel), and the ambiguity reader as 'stingy' too — which intensifies the curse. 'Infeliz' (the stylist's) is plain, says the wretched and doomed one of ταλαίπωρος, and takes its stress on the last syllable at the mediant. Taken.",
+      "options": [
+        {
+          "label": "infeliz",
+          "forms": {
+            "misera": "infeliz"
+          },
+          "note": "v2, the stylist's: wretched, unfortunate; oxytone at the mediant.",
+          "from": "stylist"
+        },
+        {
+          "label": "mísera",
+          "forms": {
+            "misera": "mísera"
+          },
+          "note": "The Latin's word and cadence; literary.",
+          "from": "draft"
+        },
+        {
+          "label": "miserável",
+          "forms": {
+            "misera": "miserável"
+          },
+          "note": "v1; DRB 'miserable'. Heard as 'scoundrel' or 'stingy' by two readers.",
+          "from": "draft",
+          "warn": true
+        },
+        {
+          "label": "desgraçada",
+          "forms": {
+            "misera": "desgraçada"
+          },
+          "note": "MS1932. Heard in Brazil as a curse-word: it intensifies.",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "retribuet",
+      "refs": [
+        "136:8"
+      ],
+      "latin": "qui retríbuet tibi retributiónem tuam, quam retribuísti nobis",
+      "kind": "glossary",
+      "why": "Three words of one root, the Latin's own (ἀνταποδώσει … ἀνταπόδομα … ἀνταπέδωκας, the Greek likewise): the repetition is kept (rule 2). retribúere → retribuir, retribútio → retribuição (rows; neutral on purpose). 'a tua retribuição' is what is due to you — the Latin's 'tuam'. Beátus qui → 'bem-aventurado quem' (shorter than 64:5's 'aquele que', two syllables less in two long cola; the same sense). Neither softened (no 'justo castigo') nor intensified (no 'vingança'). MS1932 and DM1962 'pago / paga' keep a triple too with a plainer root; kept as the option.",
+      "options": [
+        {
+          "label": "te retribuir a tua retribuição, que nos retribuíste",
+          "forms": {
+            "retribuet": "te retribuir a tua retribuição, que nos retribuíste"
+          },
+          "note": "Draft. The rows; the triple root.",
+          "from": "glossary"
+        },
+        {
+          "label": "te pagar a tua paga, com que nos pagaste",
+          "forms": {
+            "retribuet": "te pagar a tua paga, com que nos pagaste"
+          },
+          "note": "The plainer root, as MS1932 ('te der o pago') and DM1962 ('te der a paga'); breaks the rows.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tenebit",
+      "refs": [
+        "136:9"
+      ],
+      "latin": "qui tenébit",
+      "kind": "word",
+      "why": "tenére with no object (κρατήσει, will take hold). v1 departed from the row tenére → tomar (72:6, 72:24) for 'agarrar', fearing that an absolute 'tomar' would be heard as drinking. The stylist found 'agarrar' grabby and colloquial, asked for the row's 'tomar', and removed the comma before 'e', so that 'tomar e arremessar' share the one object, as the Latin's 'tenébit, et allídet párvulos' do. With the comma gone the drinking sense has no room; no reader raised it. v2 returns to the row.",
+      "options": [
+        {
+          "label": "tomar",
+          "forms": {
+            "tenebit": "tomar"
+          },
+          "note": "v2. The row (72:6, 72:24); the stylist's.",
+          "from": "stylist"
+        },
+        {
+          "label": "agarrar",
+          "forms": {
+            "tenebit": "agarrar"
+          },
+          "note": "v1. Seize; the stylist: grabby, colloquial.",
+          "from": "draft"
+        },
+        {
+          "label": "segurar",
+          "forms": {
+            "tenebit": "segurar"
+          },
+          "note": "The row's option; hold, softer than seize.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "allidet",
+      "refs": [
+        "136:9"
+      ],
+      "latin": "et allídet párvulos tuos ad petram",
+      "kind": "word",
+      "why": "The verse must be neither softened nor intensified. allídere: to strike or dash one thing against another (L&S, citing this verse); the Greek ἐδαφιεῖ, dash down. 'Arremessar contra' is the act the Latin names — the dashing — without adding the result. 'Esmagar' (DM1962) and 'despedaçar' (the DO text; MS1932 'fizer em pedaços') add the crushing and the pieces the Latin leaves unsaid: intensified. 'Lançar' and 'bater' are weaker than 'dash': softened. The allídere row's 'derrubar' (101:11, cast down after lifting up) is another sense; the row says 136:9 decides locally. párvuli → pequeninos (row; heard as children, which is the Latin).",
+      "options": [
+        {
+          "label": "arremessar",
+          "forms": {
+            "allidet": "arremessar"
+          },
+          "note": "Draft. Dash against.",
+          "from": "draft"
+        },
+        {
+          "label": "esmagar",
+          "forms": {
+            "allidet": "esmagar"
+          },
+          "note": "DM1962. Adds the crushing: intensified.",
+          "from": "DM1962"
+        },
+        {
+          "label": "lançar",
+          "forms": {
+            "allidet": "lançar"
+          },
+          "note": "Plainer; weaker than 'dash'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "petram",
+      "refs": [
+        "136:9"
+      ],
+      "latin": "ad petram",
+      "kind": "glossary",
+      "why": "petra → rocha (row; lapis → pedra). The row keeps the Latin's lack of article as indefinite at 26:6, and uses the definite for a known rock (80:17). Here the generic definite is how Portuguese says 'against the rock' (DRB 'against the rock'); the indefinite (MS1932 'uma pedra') is the option.",
+      "options": [
+        {
+          "label": "a rocha",
+          "forms": {
+            "petram": "a rocha"
+          },
+          "note": "Draft. DRB 'the rock'.",
+          "from": "DRB"
+        },
+        {
+          "label": "uma rocha",
+          "forms": {
+            "petram": "uma rocha"
+          },
+          "note": "The row's indefinite (26:6); MS1932 'uma pedra'.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "136:1": "illic → ali (row). The Latin's comma and colon kept. Sion → Sião. The whole of 136:1 is the Offertory of Pentecost XX and Thursday in Passion Week in the form 'dum recordarémur tui, Sion' — the Missal's wording, not the psalm's; the psalm keeps its own.",
+    "136:2": "salix → salgueiro (every version). 'in médio ejus' → 'no meio dela': Babylon (feminine), as the Latin's ejus after Babylónis. The ambiguity reader could attach 'dela' to Sião, the last name heard. So can the Latin: Sion is indeclinable and 'ejus' can point to either; the Latin leaves it to the context, and so does this.",
+    "136:3a": "Latin order changed only to put the subject before the verb (D2). 'captívos duxérunt' → 'levaram cativos' (the captívitas row's family). The first half is the verse of Responsory 6 of Easter IV (Pasc4-0).",
+    "136:3b": "hymnus → hino, cantáre → cantar, cánticum → cântico (rows). 'Cantai-nos': the captors address the exiles, plural humans → vós. 'Hymnum cantáte nobis * de cánticis Sion' is the Monastic Vespers antiphon (Psalmi major, feria 4) and the respond of Responsory 6 of Easter IV: the words 'Cantai-nos um hino * dos cânticos de Sião' read alone.",
+    "136:4": "'Como cantaremos' — the Latin's plain future (the CNBB's 'Como havemos de cantar' is the option a stylist may want; not taken, the future is what the Latin says). The respond of Responsory 6 of Easter IV.",
+    "136:6a": "memínisse → lembrar-se (row). 'se eu não me lembrar de ti' = MS1932.",
+    "136:6b": "The Latin's comma after Jerúsalem is dropped: in Portuguese it would cut the verb from its complement (puser … no princípio).",
+    "136:7a": "Memor esto → 'Lembrai-vos' (memor esse row; 73:2 'Lembrai-vos, Senhor, da vossa congregação'). 'in die Jerúsalem' → 'no dia de Jerusalém', unexplained, as the Latin (MS1932's '(da ruína)' is his gloss). Edom as a name, unchanged.",
+    "136:8": "The curse is the Latin's and is translated as it stands: beátus → bem-aventurado (D19), not softened to 'feliz'. The daughter is 'tu' (rule 3). The second colon is long (the Latin's is 26 syllables); the triple root is the reason.",
+    "136:9": "Translated faithfully, as the brief requires for this verse: 'Bem-aventurado' (D19), 'tomar' for tenébit (row), 'arremessar … contra a rocha' for allídet ad petram, 'os teus pequeninos' (row) — the Latin's words, no gloss, no softening, no added violence. v2: no comma after the mediant (the stylist). The ambiguity reader listed 'arremessar' as unknown; it is kept — the everyday word of the throw in Brazil ('arremesso'), and 'lançar' (option) is weaker than 'dash'."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps136.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962) and L&S (órganum, exinanio, propono, allido). Liturgical uses (grep) and Brazilian circulation (fetched: CNBB Liturgy of the Hours 136:1–6, the Brazilian Lectionary refrain of Lent IV B) in ps136/circulation.md. No titulus (D7). Hard readings: 136:3a interrogavérunt with a double accusative; 136:6b proposúero … in princípio; 136:7b exinaníte and in ea; 136:8 mísera and the triple retribu-; 136:9 tenébit without object, allídet."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 136:9 'aquele que' → 'quem' in 136:8 and 136:9 to shorten two long cola (136:9 first colon was +6). Accepted: 136:3b first colon +4 ('para longe' carries ab-; 'arrastaram' would add force); 136:5 second colon +6 (the row's 'entregue ao esquecimento', MS1932 the same length); 136:8 second colon +2 and 136:9 +3 and +4 (bem-aventurado is D19's known cost; the triple retribu- is the Latin's). 136:8 mediant 'miserável' paroxytone where the Latin's 'mísera' is proparoxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. One minor (136:7b in ea); refused, kept as an option. Overall: faithful; Esvaziai praised as the Septuagintal reading kept.",
+      "outcomes": [
+        {
+          "verse": "136:7b",
+          "remark": "'dela' makes 'in ea' a genitive; fix 'até o fundamento nela'",
+          "outcome": "option",
+          "decision": "in_ea",
+          "reason": "'o fundamento nela' is not a Portuguese phrase aloud; 'dela' names the same city and keeps the singular."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 3 remarks, all taken. Best line 136:4, worst 136:3a.",
+      "outcomes": [
+        {
+          "verse": "136:3a",
+          "remark": "subject clause before the verb makes the colon top-heavy",
+          "outcome": "taken"
+        },
+        {
+          "verse": "136:8",
+          "remark": "'miserável' heard as scoundrel/stingy; 'infeliz'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "136:9",
+          "remark": "'agarrar' colloquial, dangling; 'tomar' and no comma",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context. 21 readings, 4 unknown words (Edom, salgueiros, arremessar, retribuíste). Acted on: miserável (with the stylist). The rest are the Latin's own openness or kept on purpose.",
+      "outcomes": [
+        {
+          "verse": "136:8",
+          "remark": "'miserável' likely heard as villainous",
+          "outcome": "taken"
+        },
+        {
+          "verse": "136:2",
+          "remark": "'no meio dela' may attach to Sião",
+          "outcome": "refused",
+          "reason": "Latin 'ejus' after indeclinable 'Sion' is open the same way; not resolved (rule 2)."
+        },
+        {
+          "verse": "136:5",
+          "remark": "'a minha direita' heard uncertainly as the hand",
+          "outcome": "option",
+          "decision": "oblivioni",
+          "reason": "The déxtera row; the hand still the likeliest hearing; 'mão direita' is an option."
+        },
+        {
+          "verse": "136:1",
+          "remark": "'Sobre os rios' literally 'on top of'",
+          "outcome": "refused",
+          "reason": "He himself names 'by the rivers' as what is heard; the Latin's word (decision super)."
+        },
+        {
+          "verse": "136:7a",
+          "remark": "'Lembrai-vos … dos filhos de Edom' hostile only from 7b; 'no dia de Jerusalém' unclear",
+          "outcome": "refused",
+          "reason": "The Latin's own ellipsis; MS1932's '(da ruína)' is a gloss."
+        },
+        {
+          "verse": "136:7b",
+          "remark": "'Esvaziai' only vaguely destruction",
+          "outcome": "refused",
+          "reason": "The Latin's and the Greek's image (decision exinanite); 'Arrasai' stays the option."
+        },
+        {
+          "verse": "136:9",
+          "remark": "'arremessar' unknown",
+          "outcome": "refused",
+          "reason": "Everyday Brazilian word (arremesso); weaker verbs soften the verse."
+        },
+        {
+          "verse": "136:8",
+          "remark": "triple 'retribuir' hard to parse; 'retribuíste' unknown",
+          "outcome": "refused",
+          "reason": "The Latin's triple root, kept (rule 2); the pagar-triple is the option."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 136:3a in the Latin's order (stylist); 136:8 'infeliz' for 'miserável' (stylist + ambiguity); 136:9 'tomar' (the row, stylist) and no comma after the mark. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass; soft flags as v1 (136:3b +4, 136:5 +6, 136:9 second colon +4), accepted for the reasons given there; 136:9 first colon now within range."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2: claude-opus-5-5, fresh context, with latin.json. No major; two minors, both already options, both held. Overall: faithful, close, no additions or omissions.",
+      "outcomes": [
+        {
+          "verse": "136:1",
+          "remark": "cum + imperfect subjunctive flattened into a gerund; quando nos lembrávamos",
+          "outcome": "option",
+          "decision": "recordaremur",
+          "reason": "Clause into gerund is grammar (D2); the time frame is carried by 'sentamos e choramos'; the gerund keeps the Latin colon length (7 against 8, the clause 10) and is MS1932's wording."
+        },
+        {
+          "verse": "136:6b",
+          "remark": "puser drops the pro- of proponere; propuser",
+          "outcome": "option",
+          "decision": "proposuero",
+          "reason": "'propor' is heard as 'to propose', a wrong first hearing; the before is carried by 'no princípio', as he concedes; 'antepuser' is the other option."
+        }
+      ]
+    }
+  ]
+}

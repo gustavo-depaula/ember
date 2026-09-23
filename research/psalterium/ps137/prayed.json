@@ -1,0 +1,565 @@
+{
+  "psalm": 137,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "137:1a": "Eu vos darei graças, Senhor, de todo o meu coração: * porque ouvistes as palavras da minha boca.",
+    "137:1b": "{conspectu} vos entoarei salmos: * {adorabo}, e darei graças ao vosso nome.",
+    "137:2b": "{super}: * porque engrandecestes {superomne}.",
+    "137:3": "Em qualquer dia {emque}, escutai-me: * multiplicareis {virtutem} na minha alma.",
+    "137:4": "Que vos deem graças, Senhor, todos os reis da terra: * porque ouviram todas as palavras da vossa boca:",
+    "137:5": "E cantem {inviis} do Senhor: * porque é grande a glória do Senhor.",
+    "137:6": "Porque o Senhor é excelso, e olha para {humilia}: * e conhece de longe {alta}.",
+    "137:7": "Se eu andar no meio da tribulação, {vivificabis}: ‡ e {superiram} dos meus inimigos estendestes a vossa mão, * e a vossa direita me salvou.",
+    "137:8": "O Senhor {retribuet}: ‡ Senhor, {misericordia}: * {despicias} as obras das vossas mãos."
+  },
+  "decisions": [
+    {
+      "id": "conspectu",
+      "refs": [
+        "137:1b"
+      ],
+      "latin": "In conspéctu Angelórum",
+      "kind": "glossary",
+      "why": "The conspéctus row is open and splits by use: 'à vista de' where the phrase names witnesses or a predicate place (9:20, 21:26, 115:9), 'na presença de' with an act of worship (21:28b adorábunt, 67:4 exsúltent, 97:6 jubiláte). Singing psalms to God is an act of worship, so 'na presença'. Ps 5's agent tried 'À vista dos anjos' on this line on paper; it circulates nowhere I found, while 'Na presença dos anjos' is what Brazilian Catholics know (Canção Nova and the Ave Maria Bible, fetched: circulation.md). The noun of 'conspéctus' is lost either way ('vista' keeps it).",
+      "options": [
+        {
+          "label": "Na presença dos anjos",
+          "forms": {
+            "conspectu": "Na presença dos anjos"
+          },
+          "note": "Draft. The row's split (worship → presença); the Brazilian wording (circulation.md); MS1932 'Em presença dos anjos'.",
+          "from": "draft"
+        },
+        {
+          "label": "À vista dos anjos",
+          "forms": {
+            "conspectu": "À vista dos anjos"
+          },
+          "note": "The row's noun kept (5:9's trial of this line). Heard as the angels watching rather than the singer standing before them.",
+          "from": "glossary"
+        },
+        {
+          "label": "Diante dos anjos",
+          "forms": {
+            "conspectu": "Diante dos anjos"
+          },
+          "note": "Plainest; loses the noun, and 'diante de' is coram's in this psalter (115:5a).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adorabo",
+      "refs": [
+        "137:1b"
+      ],
+      "latin": "adorábo ad templum sanctum tuum",
+      "kind": "glossary",
+      "why": "The same Latin as 5:8b, word for word, so the same Portuguese (rule 6): 'adorarei voltado para o vosso templo santo'. The Greek προσκυνήσω πρός keeps the direction, which MS1932's 'no teu santo templo' and the Brazilian 'Ante vosso santo templo' (Hebrew-based, circulation.md) drop. The glossary row (adoráre ad) is open and names the cost: a masculine participle the Latin does not have. Kept for the doublet; whoever rules the row rules both lines.",
+      "options": [
+        {
+          "label": "adorarei voltado para o vosso templo santo",
+          "forms": {
+            "adorabo": "adorarei voltado para o vosso templo santo"
+          },
+          "note": "Draft = 5:8b (gate clean there).",
+          "from": "glossary"
+        },
+        {
+          "label": "adorarei em direção ao vosso templo santo",
+          "forms": {
+            "adorabo": "adorarei em direção ao vosso templo santo"
+          },
+          "note": "The genderless fall-back the glossary row names (Ps 5 draft 1; the stylist heard a route).",
+          "from": "glossary"
+        },
+        {
+          "label": "adorarei no vosso templo santo",
+          "forms": {
+            "adorabo": "adorarei no vosso templo santo"
+          },
+          "note": "MS1932. Loses the 'ad' (towards); the worshipper is inside.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "137:2b"
+      ],
+      "latin": "Super misericórdia tua, et veritáte tua",
+      "kind": "glossary",
+      "why": "The same Latin as 113:10, which reads 'Pela vossa misericórdia e pela vossa verdade' — copied (rule 6). Here the phrase gives the ground of 'darei graças ao vosso nome' across the verse boundary (ἐπὶ τῷ ἐλέει σου, 'for your mercy'); 'pela' carries that. The Latin's 'super' is not locative here.",
+      "options": [
+        {
+          "label": "Pela vossa misericórdia e pela vossa verdade",
+          "forms": {
+            "super": "Pela vossa misericórdia e pela vossa verdade"
+          },
+          "note": "Draft = 113:10.",
+          "from": "glossary"
+        },
+        {
+          "label": "Por causa da vossa misericórdia e da vossa verdade",
+          "forms": {
+            "super": "Por causa da vossa misericórdia e da vossa verdade"
+          },
+          "note": "MS1932. Clearer as a ground, but four syllables longer and breaks 113:10.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "superomne",
+      "refs": [
+        "137:2b"
+      ],
+      "latin": "quóniam magnificásti super omne, nomen sanctum tuum",
+      "kind": "ambiguity",
+      "why": "DO prints a comma after 'omne', so 'super omne' is neuter, 'above everything', and 'nomen sanctum tuum' is the object (DRB 'thou hast magnified thy holy name above all'; MS1932 'engrandeceste sobre tudo o teu santo nome'). The Greek reads otherwise (ἐπὶ πᾶν ὄνομα τὸ λόγιόν σου, 'above every name, your word'), but the Latin decides. v1 put the object first, fearing 'de tudo o vosso' heard as 'all of your'; the v1 stylist heard the colon trail off on the adverb, and the ambiguity reader heard final 'acima de tudo' pulled toward the idiom 'above all, especially'. v2 returns to the Latin's order, which ends on the Name as the Latin does. 'santo nome' as 102:1 and 105:47b, where 'templo santo' in 137:1b follows the 5:8b doublet.",
+      "options": [
+        {
+          "label": "acima de tudo o vosso santo nome",
+          "forms": {
+            "superomne": "acima de tudo o vosso santo nome"
+          },
+          "note": "v2, the stylist's. The Latin's order (MS1932's too); ends on the Name.",
+          "from": "stylist"
+        },
+        {
+          "label": "o vosso santo nome acima de tudo",
+          "forms": {
+            "superomne": "o vosso santo nome acima de tudo"
+          },
+          "note": "v1. Ends on the adverb; heard as an afterthought and as the idiom 'above all'.",
+          "from": "draft"
+        },
+        {
+          "label": "acima de todo nome o vosso santo nome",
+          "forms": {
+            "superomne": "acima de todo nome o vosso santo nome"
+          },
+          "note": "Reads 'omne' with 'nomen' as the Greek does. Refused: against DO's comma, and it doubles 'nome'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "emque",
+      "refs": [
+        "137:3"
+      ],
+      "latin": "In quacúmque die invocávero te",
+      "kind": "glossary",
+      "why": "The same Latin as 101:3b and 55:10, which both read 'Em qualquer dia em que vos invocar' — copied (rule 6). The v1 stylist found 'Em … em que' clunky and 'vos invocar' open to being heard as an infinitive, and asked for 'eu'. The subject is grammar and D2 allows it, but it would break a formula that stands twice; refused here, kept as an option, and if taken it should be taken in all three places.",
+      "options": [
+        {
+          "label": "em que vos invocar",
+          "forms": {
+            "emque": "em que vos invocar"
+          },
+          "note": "Draft = 101:3b, 55:10.",
+          "from": "glossary"
+        },
+        {
+          "label": "em que eu vos invocar",
+          "forms": {
+            "emque": "em que eu vos invocar"
+          },
+          "note": "The v1 stylist's: the subject named.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "virtutem",
+      "refs": [
+        "137:3"
+      ],
+      "latin": "multiplicábis in ánima mea virtútem",
+      "kind": "glossary",
+      "why": "The virtus row keeps 'poder' for God's own power and proposes 'vigor' for a man's own strength (21:16, 29:8 'destes vigor ao meu esplendor', 37:11, 70:9, 101:24). Here the strength is in my soul, given by God, as 29:8 — so 'vigor'. The Greek differs (πολυωρήσεις με … ἐν δυνάμει); the Latin is followed. 'fortitúdo → força' is not in the psalm, so 'força' is free as an option; MS1932 'a fortaleza'.",
+      "options": [
+        {
+          "label": "o vigor",
+          "forms": {
+            "virtutem": "o vigor"
+          },
+          "note": "Draft. The row's proposal for a man's strength (29:8).",
+          "from": "glossary"
+        },
+        {
+          "label": "a força",
+          "forms": {
+            "virtutem": "a força"
+          },
+          "note": "DRB 'strength'; plainer, but 'força' is fortitúdo's word in the row.",
+          "from": "DRB"
+        },
+        {
+          "label": "o poder",
+          "forms": {
+            "virtutem": "o poder"
+          },
+          "note": "The row's word for God's virtus; in a soul it sounds like authority.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "inviis",
+      "refs": [
+        "137:5"
+      ],
+      "latin": "Et cantent in viis Dómini",
+      "kind": "ambiguity",
+      "why": "'in viis' may be where they sing (walking in the Lord's ways) or what they sing of; the Latin leaves it open, and so does 'nos caminhos'. MS1932 and the Diurnal drop the preposition ('cantem os caminhos'), which decides for 'what they sing'. Kept open (rule 2).",
+      "options": [
+        {
+          "label": "nos caminhos",
+          "forms": {
+            "inviis": "nos caminhos"
+          },
+          "note": "Draft. The Latin's preposition; 127:1 'nos seus caminhos'.",
+          "from": "draft"
+        },
+        {
+          "label": "os caminhos",
+          "forms": {
+            "inviis": "os caminhos"
+          },
+          "note": "MS1932 (and the Diurnal). Decides the ambiguity.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "neuters",
+      "refs": [
+        "137:6"
+      ],
+      "latin": "et humília réspicit: * et alta a longe cognóscit",
+      "kind": "glossary",
+      "why": "'humília' copies 112:5 'as coisas humildes' (glossary row humília, which names this verse; there draft 1's 'o que é humilde' was heard as a person). 'alta' is its neuter pair (τὰ ὑψηλά), so 'as coisas altas' keeps the pair and the Latin's refusal to say 'the proud'. The v1 stylist called the doubled 'coisas' a gloss and asked 'o que é humilde / o que é alto' — refused for the 112:5 formula and the heard-as-a-person fault, kept as an option. The Diurnal's 'o soberbo' is the Hebrew-based interpretation; refused.",
+      "options": [
+        {
+          "label": "as coisas humildes / as coisas altas",
+          "forms": {
+            "humilia": "as coisas humildes",
+            "alta": "as coisas altas"
+          },
+          "note": "Draft; 112:5; MS1932 'as coisas humildes … as coisas altas'; DRB 'the low … the high'.",
+          "from": "glossary"
+        },
+        {
+          "label": "o que é humilde / o que é alto",
+          "forms": {
+            "humilia": "o que é humilde",
+            "alta": "o que é alto"
+          },
+          "note": "The v1 stylist's. Lighter; breaks 112:5, whose draft 1 had this build and was heard as a person.",
+          "from": "stylist"
+        },
+        {
+          "label": "as coisas humildes / os soberbos",
+          "forms": {
+            "humilia": "as coisas humildes",
+            "alta": "os soberbos"
+          },
+          "note": "The Diurnal's sense. Refused: interprets (rule 2).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "vivificabis",
+      "refs": [
+        "137:7"
+      ],
+      "latin": "vivificábis me",
+      "kind": "glossary",
+      "why": "The vivificáre row (open) is 'vivificar'; 79:19 and 84:7 have 'vós nos vivificareis'. Blind readers have listed the verb as unknown in five psalms, and the row says it is worth a ruling; until then the row's word stands, with MS1932's 'me dareis a vida' one touch away. The subject 'vós' is named because it stands after a first-person clause.",
+      "options": [
+        {
+          "label": "vós me vivificareis",
+          "forms": {
+            "vivificabis": "vós me vivificareis"
+          },
+          "note": "Draft; the row (79:19, 84:7).",
+          "from": "glossary"
+        },
+        {
+          "label": "vós me dareis a vida",
+          "forms": {
+            "vivificabis": "vós me dareis a vida"
+          },
+          "note": "MS1932 'tu me darás a vida'; the row's option. Plainer; two words for one.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "superiram",
+      "refs": [
+        "137:7"
+      ],
+      "latin": "et super iram inimicórum meórum extendísti manum tuam",
+      "kind": "word",
+      "why": "'super iram' (ἐπ᾿ ὀργήν) is 'over / upon the wrath'; DRB and MS1932 both say 'against'. 'sobre' keeps the Latin's preposition and its image (a hand stretched out over the enemies' wrath, to hold it down), and is not unclear; 'contra' makes the sense explicit. The Latin's word kept; 'contra' the option.",
+      "options": [
+        {
+          "label": "sobre a ira",
+          "forms": {
+            "superiram": "sobre a ira"
+          },
+          "note": "Draft. The Latin's 'super'.",
+          "from": "draft"
+        },
+        {
+          "label": "contra a ira",
+          "forms": {
+            "superiram": "contra a ira"
+          },
+          "note": "MS1932 'contra a ira', DRB 'against'. Explains the preposition.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "retribuet",
+      "refs": [
+        "137:8"
+      ],
+      "latin": "Dóminus retríbuet pro me",
+      "kind": "word",
+      "why": "'retribúere → retribuir' (17:21, 102:10, 115:3). 'pro me' (ὑπὲρ ἐμοῦ) is 'on my behalf': the Lord will repay for me what I cannot. 'retribuirá por mim' is the Latin word for word (DRB 'will repay for me'); it can be heard as 'in my place', which is close to the sense. MS1932 paraphrases ('tomará a minha defesa'); the Ave Maria's 'completará o que em meu auxílio começou' is the Hebrew's.",
+      "options": [
+        {
+          "label": "retribuirá por mim",
+          "forms": {
+            "retribuet": "retribuirá por mim"
+          },
+          "note": "Draft; DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "retribuirá em meu favor",
+          "forms": {
+            "retribuet": "retribuirá em meu favor"
+          },
+          "note": "Makes 'on my behalf' explicit; +2 syllables.",
+          "from": "draft"
+        },
+        {
+          "label": "tomará a minha defesa",
+          "forms": {
+            "retribuet": "tomará a minha defesa"
+          },
+          "note": "MS1932. Drops the verb of repaying; refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "misericordia",
+      "refs": [
+        "137:8"
+      ],
+      "latin": "Dómine, misericórdia tua in sǽculum",
+      "kind": "order",
+      "why": "The refrain of Pss 105, 106, 117, 135 is 'porque é para sempre a sua misericórdia' (D14, D23): there 'quóniam' begins it and the copula is moved up so the line ends on the mercy. Here there is no 'quóniam', the Latin puts the noun first and ends on 'in sǽculum', and the colon is the middle of three: the Latin's order is followed, the copula supplied (D2). The refrain's order is the option, for whoever wants the kinship heard.",
+      "options": [
+        {
+          "label": "a vossa misericórdia é para sempre",
+          "forms": {
+            "misericordia": "a vossa misericórdia é para sempre"
+          },
+          "note": "Draft. The Latin's order; MS1932 'a tua misericórdia é eterna' has the same order.",
+          "from": "draft"
+        },
+        {
+          "label": "é para sempre a vossa misericórdia",
+          "forms": {
+            "misericordia": "é para sempre a vossa misericórdia"
+          },
+          "note": "The refrain's build (D14).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "despicias",
+      "refs": [
+        "137:8"
+      ],
+      "latin": "ópera mánuum tuárum ne despícias",
+      "kind": "glossary",
+      "why": "The despícere (God) row is 'desdenhar' (9:22, 21:25, 26:9b 'nem me desdenheis', 54:2 'não desdenheis a minha prece'); it splits off ἐξουθενόω → 'desprezar' (50:19). The Greek here is a third verb, μὴ παρῇς ('do not let go, neglect'), which belongs to neither branch, so the row's default stands. 'Não desprezeis' (MS1932 'não desprezes') is the familiar ring and the option. The verb is moved to the head of the colon, the natural order for a prohibition (D2); the colon still ends on 'mãos', as the Latin's ends on the verb.",
+      "options": [
+        {
+          "label": "não desdenheis",
+          "forms": {
+            "despicias": "não desdenheis"
+          },
+          "note": "Draft; the row (26:9b, 54:2).",
+          "from": "glossary"
+        },
+        {
+          "label": "não desprezeis",
+          "forms": {
+            "despicias": "não desprezeis"
+          },
+          "note": "MS1932. The other branch of the row (ἐξουθενόω), which is not this Greek.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "137:1a": "= 9:2 = 110:1 first colon, copied (glossary formula row; confitéri → dar graças, D5). No titulus: DO's file has none (D7), though the LXX, MS1932 and the Ave Maria print 'De Davi'.",
+    "137:1b": "'psallam tibi' → 'vos entoarei salmos' (D25; 107:4 'e vos entoarei salmos'). 'confitébor nómini tuo' → 'darei graças ao vosso nome' (glossary formula row, 53:8). DO's inline '(2a)' not reproduced. Second colon long (checks), accepted: both halves are formulas already fixed elsewhere.",
+    "137:3": "Latin as 101:3b's first colon; 'exáudi me' → 'escutai-me' (D3).",
+    "137:4": "'Confiteántur tibi' → 'Que vos deem graças', as 66:4.",
+    "137:6": "'excélsus' → 'excelso' (D43; 46:3 'Porque o Senhor é excelso'); listed as unknown by the v1 ambiguity reader, kept (settled). 'réspicit' → 'olha para', as 112:5. The ambiguity reader noted colloquial 'de longe' = 'by far'; the Latin's 'a longe' kept, the context (knows … from afar) governs.",
+    "137:7": "'Si ambulávero in médio' → 'Se eu andar no meio', the future subjunctive for the future perfect (22:4 builds the same phrase). 'salvum me fecit' → 'me salvou' (salvum fácere row). 'déxtera' → 'a direita' (row).",
+    "137:8": "'Dómine' as a bare vocative, as everywhere ('Senhor', without 'ó')."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "v1 from parallels (LXX, DRB, MS1932, Diurnal) and the finished corpus via ps137/concord.py (adapted from ps131's, accent-folded). Doublets and formulas copied: 137:1a = 9:2 = 110:1; 1b adorábo = 5:8b; 2b Super misericórdia = 113:10; 3 = 101:3b's first colon; 4 = 66:4's jussive; 6 humília réspicit = 112:5. Brazilian circulation fetched, not assumed (circulation.md). Hard readings: 2b 'super omne, nomen' (the DO comma followed against the Greek), 7 'super iram', 8 'retríbuet pro me'."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 137:1b second colon +6 (two fixed formulas side by side — 5:8b's adorarei voltado para o vosso templo santo and 53:8's darei graças ao vosso nome; nothing in it is free to cut); 137:6 +3 in both cola (112:5's 'olha para as coisas humildes' and its pair 'as coisas altas'; the neuter plurals cost 'coisas' twice); 137:5 rhyme Senhor/Senhor is the Latin's own Dómini/Dómini; 137:7 first colon and 137:8 last colon −3, within breath."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. No remarks: tenses, moods and marks all passed.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 5 remarks: 1 taken (2b order), 4 kept as options (formulas and glossary rows). Worst line 137:6, best 137:7.",
+      "outcomes": [
+        {
+          "verse": "137:2b",
+          "remark": "colon trails off on 'acima de tudo'; weight should fall on the Name",
+          "outcome": "taken",
+          "reason": "order only (D2), and it is the Latin's order"
+        },
+        {
+          "verse": "137:3",
+          "remark": "'Em … em que vos invocar' clunky; add 'eu'",
+          "outcome": "option",
+          "decision": "emque",
+          "reason": "101:3b and 55:10 have the same Latin and the same words; the formula holds"
+        },
+        {
+          "verse": "137:6",
+          "remark": "'as coisas humildes / altas' glossing; 'o que é humilde / alto'",
+          "outcome": "option",
+          "decision": "neuters",
+          "reason": "112:5 formula; 'o que é humilde' was heard as a person there"
+        },
+        {
+          "verse": "137:7",
+          "remark": "'vivificareis' bookish; 'me dareis vida'",
+          "outcome": "option",
+          "decision": "vivificabis",
+          "reason": "the vivificáre row is cross-psalm (79:19, 84:7, Ps 118); proposed for a ruling in glossary.md rather than departed from here"
+        },
+        {
+          "verse": "137:8",
+          "remark": "'desdenheis' literary; 'desprezeis'",
+          "outcome": "option",
+          "decision": "despicias",
+          "reason": "the despícere (God) row is desdenhar (26:9b, 54:2); desprezar is the ἐξουθενόω branch, not this Greek"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context. 12 readings, 3 unknown words; every likely hearing is a sense the Latin allows; 2b's 'acima de tudo' idiom risk removed by the reorder.",
+      "outcomes": [
+        {
+          "verse": "137:2b",
+          "remark": "'Pela vossa misericórdia…' hooks back to 'darei graças' (heard so)",
+          "outcome": "refused",
+          "reason": "heard as intended; = 113:10"
+        },
+        {
+          "verse": "137:2b",
+          "remark": "'acima de tudo' as the idiom 'above all'",
+          "outcome": "taken",
+          "decision": "superomne",
+          "reason": "reordered (with the stylist); no longer final"
+        },
+        {
+          "verse": "137:5",
+          "remark": "'nos caminhos' where or about; 'cantem' subject",
+          "outcome": "refused",
+          "decision": "inviis",
+          "reason": "both open in the Latin; kept open"
+        },
+        {
+          "verse": "137:6",
+          "remark": "'as coisas humildes/altas' impersonal; the rebuff of the proud missed; 'de longe' = 'by far'",
+          "outcome": "refused",
+          "decision": "neuters",
+          "reason": "the Latin's neuters; interpreting them as persons is the Hebrew-family reading"
+        },
+        {
+          "verse": "137:7",
+          "remark": "'sobre a ira' heard as 'against'; future/past shift; 'direita' hand or side",
+          "outcome": "refused",
+          "decision": "superiram",
+          "reason": "heard in the right sense; the tense shift and 'déxtera' are the Latin's"
+        },
+        {
+          "verse": "137:8",
+          "remark": "'retribuirá por mim' vengeance or reward",
+          "outcome": "refused",
+          "decision": "retribuet",
+          "reason": "the Latin 'retríbuet pro me' is as open"
+        },
+        {
+          "verse": "137:6,7,8",
+          "remark": "unknown words: excelso, vivificareis, desdenheis",
+          "outcome": "refused",
+          "reason": "all three are glossary words (D43; vivificáre and despícere rows); vivificáre flagged for a ruling in glossary.md"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 137:2b to the Latin's order 'porque engrandecestes acima de tudo o vosso santo nome' (stylist + ambiguity reader). 137:3 and 137:6 unchanged in wording; their slots made decisions so the stylist's proposals are selectable (emque, neuters, which replaces 'alta'). prayed.v1.json kept."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass. New soft flag: 137:1b / 137:2b finals both end on nome — the Latin has the same echo (nómini tuo / nomen sanctum tuum); accepted. Other flags as v1."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2, claude-opus-5-5, fresh context, with latin.json. No major; one minor, held: 137:1b voltado para (he asks em direção ao). Otherwise faithful throughout; he notes 2b follows the Breviary comma.",
+      "outcomes": [
+        {
+          "verse": "137:1b",
+          "remark": "voltado adds a participle of posture; em direção ao",
+          "outcome": "option",
+          "decision": "adorabo",
+          "reason": "the same Latin as 5:8b, whose gate passed voltado para after em direção ao was heard as a route by the stylist; the doublet keeps one wording, and the open adoráre ad row rules both lines at once"
+        }
+      ]
+    }
+  ]
+}

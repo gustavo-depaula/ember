@@ -1,0 +1,710 @@
+{
+  "psalm": 131,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "131:1": "Lembrai-vos, Senhor, de Davi, * e de toda a sua mansidão:",
+    "131:2": "{sicut} ao Senhor, * {votum} ao Deus de Jacó:",
+    "131:3": "{v3a} na tenda da minha casa, * {v3b} {strati}:",
+    "131:4": "{v4a} sono aos meus olhos, * {v4b} às minhas pálpebras {dormit}:",
+    "131:5": "{v5a} repouso às minhas {tempora}: até que eu encontre um lugar para o Senhor, * uma tenda para o Deus de Jacó.",
+    "131:6": "Eis que {audivimus} em Éfrata: * nós a encontramos nos campos da selva.",
+    "131:7": "Entraremos na sua tenda: * adoraremos no lugar onde {steterunt}.",
+    "131:8": "Levantai-vos, Senhor, {surge_in}, * vós e a arca {sanct8}.",
+    "131:9": "Os vossos sacerdotes se vistam de justiça: * e os vossos santos exultem.",
+    "131:10": "Por causa de Davi, vosso servo, * não desvieis a face do vosso Cristo.",
+    "131:11": "{veritatem}, e {frustr}: * Do fruto do teu ventre porei sobre o teu trono.",
+    "131:12a": "Se os teus filhos guardarem a minha aliança, * e estes meus testemunhos, que eu lhes ensinarei:",
+    "131:12b": "{et_filii} deles, para todo o sempre, * se sentarão sobre o teu trono.",
+    "131:13": "Porque o Senhor escolheu Sião: * escolheu-a {sibi}.",
+    "131:14": "Este é o meu repouso pelos séculos dos séculos: * aqui habitarei, porque {eam14}.",
+    "131:15": "{benedicens}: * saciarei {panibus} os seus pobres.",
+    "131:16": "Vestirei de salvação os seus sacerdotes: * e os seus santos {exsult}.",
+    "131:17": "Ali {producam} {cornu}, * preparei uma lâmpada para o meu Cristo.",
+    "131:18": "Vestirei de vergonha os seus inimigos: * mas sobre ele florescerá {sanct18}."
+  },
+  "decisions": [
+    {
+      "id": "si_oath",
+      "refs": [
+        "131:3",
+        "131:4",
+        "131:5"
+      ],
+      "latin": "Si introíero … si ascéndero … Si dédero … et … Et réquiem … donec invéniam",
+      "kind": "grammar",
+      "why": "David's vow is the Hebrew oath formula: 'if I enter …' with the curse left unsaid means 'I will not enter'. The Latin keeps the bare *si* (as the Greek εἰ); a Portuguese *Se eu entrar…* is heard as a condition waiting for its main clause, which never comes, and the sense is lost. The glossary row *si of oath* gives the plain negative, applied already at 94:10 (*Não entrarão no meu repouso*) and 88:36 (*não mentirei a Davi*); DRB keeps *If*, MS1932 and every Brazilian text (DM1962, the CNBB) have *Não entrarei … não subirei … não darei*. The two *et* members that continue the third *si* become *nem*.",
+      "options": [
+        {
+          "label": "Não entrarei … não subirei … não darei … nem … nem",
+          "forms": {
+            "v3a": "Não entrarei",
+            "v3b": "não subirei",
+            "v4a": "não darei",
+            "v4b": "nem",
+            "v5a": "nem"
+          },
+          "note": "Draft, the glossary row (94:10, 88:36); MS1932 word for word.",
+          "from": "glossary"
+        },
+        {
+          "label": "Se eu entrar … se eu subir … Se eu der … e … e",
+          "forms": {
+            "v3a": "Se eu entrar",
+            "v3b": "se eu subir",
+            "v4a": "Se eu der",
+            "v4b": "e",
+            "v5a": "E"
+          },
+          "note": "The Latin's conditional form (DRB). Refused: heard as an unfinished condition, not as an oath; the vow's sense disappears for a Portuguese ear.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "strati",
+      "refs": [
+        "131:3"
+      ],
+      "latin": "in lectum strati mei",
+      "kind": "word",
+      "why": "The glossary's pair *lectus → leito*, *stratum → cama* (6:7, 40:4, 62:7) meets here in one phrase, 'the bed of my bedding' (ἐπὶ κλίνης στρωμνῆς μου), which the row said would have to decide locally. The Latin is pleonastic; D2 keeps its two words.",
+      "options": [
+        {
+          "label": "ao leito da minha cama",
+          "forms": {
+            "strati": "ao leito da minha cama"
+          },
+          "note": "Draft: both nouns kept with the row's words. The phrase is as full as the Latin's; *leito* can also be heard as the lying-place of the bed.",
+          "from": "draft"
+        },
+        {
+          "label": "ao leito em que me deito",
+          "forms": {
+            "strati": "ao leito em que me deito"
+          },
+          "note": "DRB 'the bed wherein I lie' — turns the noun into a clause and adds a jingle (*leito / deito*).",
+          "from": "DRB"
+        },
+        {
+          "label": "ao leito do meu estrado",
+          "forms": {
+            "strati": "ao leito do meu estrado"
+          },
+          "note": "MS1932. *estrado* is a platform or a bed-frame in Brazil — refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dormit",
+      "refs": [
+        "131:4"
+      ],
+      "latin": "et pálpebris meis dormitatiónem",
+      "kind": "word",
+      "why": "*dormitátio* (νυσταγμός, nodding, dozing) is the noun of *dormitáre*, whose row keeps *dormitar* while *cochilar* is proposed (open). The noun *dormitação* would be unknown. The Latin's order (dative first) keeps *pálpebras*, a proparoxytone, off the final cadence.",
+      "options": [
+        {
+          "label": "sonolência",
+          "forms": {
+            "dormit": "sonolência"
+          },
+          "note": "Draft: the plain noun of drowsiness; *dar sonolência* as *dar sono* in the first colon.",
+          "from": "draft"
+        },
+        {
+          "label": "o cochilo",
+          "forms": {
+            "dormit": "o cochilo"
+          },
+          "note": "The dormitáre row's open proposal (*cochilar*; the CNBB LH has *nem cochilarem … minhas pálpebras*); homely.",
+          "from": "glossary"
+        },
+        {
+          "label": "adormecimento",
+          "forms": {
+            "dormit": "adormecimento"
+          },
+          "note": "MS1932; heavy, and it is falling asleep rather than dozing.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tempora",
+      "refs": [
+        "131:5"
+      ],
+      "latin": "réquiem tempóribus meis",
+      "kind": "word",
+      "why": "*témpora* here are the temples of the head (κρόταφοι), the concrete image (rule 5).",
+      "options": [
+        {
+          "label": "têmporas",
+          "forms": {
+            "tempora": "têmporas"
+          },
+          "note": "Draft; DRB 'temples'.",
+          "from": "draft"
+        },
+        {
+          "label": "fontes",
+          "forms": {
+            "tempora": "fontes"
+          },
+          "note": "MS1932. In Brazil *fontes* is heard as springs first.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sicut",
+      "refs": [
+        "131:2"
+      ],
+      "latin": "Sicut jurávit Dómino",
+      "kind": "grammar",
+      "why": "*Sicut* (ὡς) after *Meménto … David* says 'how' — what is to be remembered. DRB 'How he swore'; MS1932 supplies *(Lembra-te) que*. The subject is David, from 131:1.",
+      "options": [
+        {
+          "label": "Como jurou",
+          "forms": {
+            "sicut": "Como jurou"
+          },
+          "note": "Draft: *como* holds 'how' and 'as', the Latin's two senses.",
+          "from": "draft"
+        },
+        {
+          "label": "Como ele jurou",
+          "forms": {
+            "sicut": "Como ele jurou"
+          },
+          "note": "The hidden subject named (D2 allows); not needed, since *Davi* ends the line before.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "votum",
+      "refs": [
+        "131:2"
+      ],
+      "latin": "votum vovit",
+      "kind": "word",
+      "why": "The Latin's figura etymologica (ηὔξατο only in the Greek; the Latin makes it noun + verb). The vovére row gives *fazer votos*; *votar* is voting.",
+      "options": [
+        {
+          "label": "fez um voto",
+          "forms": {
+            "votum": "fez um voto"
+          },
+          "note": "Draft: the noun kept, the verb is the row's *fazer* (DRB 'vowed a vow').",
+          "from": "glossary"
+        },
+        {
+          "label": "votou um voto",
+          "forms": {
+            "votum": "votou um voto"
+          },
+          "note": "The figure kept, but *votar* is heard as casting a vote — refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "audivimus",
+      "refs": [
+        "131:6"
+      ],
+      "latin": "audívimus eam in Éphrata",
+      "kind": "grammar",
+      "why": "*audíre* + accusative of a thing is 'hear of' (DRB 'we have heard of it'). *eam* has no antecedent in the Latin (neither *locus* nor *tabernáculum* is feminine); the Church hears the ark of 131:8. The feminine pronoun is kept and nothing named.",
+      "options": [
+        {
+          "label": "ouvimos falar dela",
+          "forms": {
+            "audivimus": "ouvimos falar dela"
+          },
+          "note": "Draft: *ouvir falar de* is how Portuguese says 'hear of'; the pronoun stays unnamed, as the Latin's. MS1932 *ouvimos dizer que a arca estava* names the ark (a gloss, refused).",
+          "from": "draft"
+        },
+        {
+          "label": "a ouvimos",
+          "forms": {
+            "audivimus": "a ouvimos"
+          },
+          "note": "Literal; heard as hearing a sound or a woman's voice in Ephrata.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "steterunt",
+      "refs": [
+        "131:7"
+      ],
+      "latin": "ubi stetérunt pedes ejus",
+      "kind": "glossary",
+      "why": "The stare row's *estar de pé* cannot take feet as subject; 121:2 *Stantes erant pedes nostri* went to *deter-se* (*Os nossos pés se detinham*), and this is the same build.",
+      "options": [
+        {
+          "label": "se detiveram os seus pés",
+          "forms": {
+            "steterunt": "se detiveram os seus pés"
+          },
+          "note": "Draft, as 121:2 (DM1962's verb there).",
+          "from": "glossary"
+        },
+        {
+          "label": "estiveram os seus pés",
+          "forms": {
+            "steterunt": "estiveram os seus pés"
+          },
+          "note": "Flat but plain.",
+          "from": "draft"
+        },
+        {
+          "label": "pousaram os seus pés",
+          "forms": {
+            "steterunt": "pousaram os seus pés"
+          },
+          "note": "MS1932; *pousar* is alighting, not standing.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "surge_in",
+      "refs": [
+        "131:8"
+      ],
+      "latin": "Surge, Dómine, in réquiem tuam",
+      "kind": "grammar",
+      "why": "*in* + accusative gives the rising a direction: 'arise into your rest'. The glossary gives *Surge / Exsúrge → Levantai-vos* (81:8). Brazil sings the Hebrew-based *Subi, Senhor, para o lugar de vosso pouso* (the Assumption vigil refrain, fetched — `ps131/circulation.md`); *subir* is not the Latin's verb.",
+      "options": [
+        {
+          "label": "para o vosso repouso",
+          "forms": {
+            "surge_in": "para o vosso repouso"
+          },
+          "note": "Draft: *para* carries the Latin's direction; the Brazilian refrain has the same preposition.",
+          "from": "draft"
+        },
+        {
+          "label": "ao vosso repouso",
+          "forms": {
+            "surge_in": "ao vosso repouso"
+          },
+          "note": "As 114:7 *Volta … ao teu repouso*; after *levantar-se* it is weaker.",
+          "from": "draft"
+        },
+        {
+          "label": "e entrai no vosso repouso",
+          "forms": {
+            "surge_in": "e entrai no vosso repouso"
+          },
+          "note": "MS1932 and Portugal's lectionary supply a verb — refused, a word the Latin lacks.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sanctificatio",
+      "refs": [
+        "131:8",
+        "131:18"
+      ],
+      "latin": "arca sanctificatiónis tuæ … efflorébit sanctificátio mea",
+      "kind": "glossary",
+      "why": "Both are ἁγίασμα in the Greek (checked in the parallels), the Greek of 77:54 and 95:6, where the open sanctificátio row keeps *santificação*. The Latin repeats its word at the two ends of the psalm's second half; the Portuguese keeps one word for both. (96:12 went to *santidade* because its Greek is ἁγιωσύνη.)",
+      "options": [
+        {
+          "label": "santificação",
+          "forms": {
+            "sanct8": "da vossa santificação",
+            "sanct18": "a minha santificação"
+          },
+          "note": "Draft, the row. The ambiguity reader of 95:6 did not know the word — the cost.",
+          "from": "glossary"
+        },
+        {
+          "label": "santidade",
+          "forms": {
+            "sanct8": "da vossa santidade",
+            "sanct18": "a minha santidade"
+          },
+          "note": "MS1932 in both places; plainer, but it is *sánctitas*'s word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "que santificastes (131:8)",
+          "forms": {
+            "sanct8": "que santificastes",
+            "sanct18": "a minha santificação"
+          },
+          "note": "DRB 'which thou hast sanctified' — a clause for the genitive; only in 131:8.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "veritatem",
+      "refs": [
+        "131:11"
+      ],
+      "latin": "Jurávit Dóminus David veritátem",
+      "kind": "order",
+      "why": "The object *veritátem* stands without article. Verb first as the Latin (and as 109:4 *Jurou o Senhor*). *David* indeclinable, the Greek's dative τῷ Δαυιδ.",
+      "options": [
+        {
+          "label": "Jurou o Senhor a verdade a Davi",
+          "forms": {
+            "veritatem": "Jurou o Senhor a verdade a Davi"
+          },
+          "note": "Draft: *jurar a verdade* is sayable; the following *a* (it) then points to the truth, as *eam*.",
+          "from": "draft"
+        },
+        {
+          "label": "Jurou o Senhor a Davi a verdade",
+          "forms": {
+            "veritatem": "Jurou o Senhor a Davi a verdade"
+          },
+          "note": "The Latin's order; *a Davi a verdade* stacks three *a*s.",
+          "from": "draft"
+        },
+        {
+          "label": "Jurou o Senhor uma verdade a Davi",
+          "forms": {
+            "veritatem": "Jurou o Senhor uma verdade a Davi"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "frustr",
+      "refs": [
+        "131:11"
+      ],
+      "latin": "et non frustrábitur eam",
+      "kind": "word",
+      "why": "*frustrári* (deponent): to deceive, to make vain (L&S); the Greek ἀθετήσει 'will not set it aside'. Portuguese *frustrar* is 'to make fail, bring to nothing' — the cognate carries the sense.",
+      "options": [
+        {
+          "label": "não a frustrará",
+          "forms": {
+            "frustr": "não a frustrará"
+          },
+          "note": "Draft, the cognate.",
+          "from": "draft"
+        },
+        {
+          "label": "não a anulará",
+          "forms": {
+            "frustr": "não a anulará"
+          },
+          "note": "The Greek's sense; another word.",
+          "from": "draft"
+        },
+        {
+          "label": "não deixará de cumpri-la",
+          "forms": {
+            "frustr": "não deixará de cumpri-la"
+          },
+          "note": "MS1932 — explains; refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "et_filii",
+      "refs": [
+        "131:12b"
+      ],
+      "latin": "Et fílii eórum usque in sǽculum",
+      "kind": "grammar",
+      "why": "*Et* opens the main clause after the condition of 12a: 'their sons also'. A Portuguese *E* at the head of an apodosis is heard as a second condition.",
+      "options": [
+        {
+          "label": "Também os filhos",
+          "forms": {
+            "et_filii": "Também os filhos"
+          },
+          "note": "Draft; MS1932 and DM1962 *também*.",
+          "from": "draft"
+        },
+        {
+          "label": "E os filhos",
+          "forms": {
+            "et_filii": "E os filhos"
+          },
+          "note": "Literal.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sibi",
+      "refs": [
+        "131:13"
+      ],
+      "latin": "elégit eam in habitatiónem sibi",
+      "kind": "order",
+      "why": "The habitátio row gives *habitação*; *para sua habitação* ends the verse in *-ão* against *Sião* at the mediant, a rhyme the Latin does not have (rule 5). The Latin's order puts the possessive after.",
+      "options": [
+        {
+          "label": "para habitação sua",
+          "forms": {
+            "sibi": "para habitação sua"
+          },
+          "note": "Draft: the Latin's order, no rhyme; slightly formal.",
+          "from": "draft"
+        },
+        {
+          "label": "para sua habitação",
+          "forms": {
+            "sibi": "para sua habitação"
+          },
+          "note": "MS1932; the natural order, rhymes with *Sião*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eam14",
+      "refs": [
+        "131:14"
+      ],
+      "latin": "quóniam elégi eam",
+      "kind": "ambiguity",
+      "why": "*eam* may be Sion (13) or *réquies* (both feminine in Latin; the Greek αὐτήν and κατάπαυσις too). Portuguese must choose a gender: *a* points to Sião, *o* to *repouso*. The feminine repeats 13b *escolheu-a* (*elégit eam*) word for word, which the Latin does.",
+      "options": [
+        {
+          "label": "a escolhi",
+          "forms": {
+            "eam14": "a escolhi"
+          },
+          "note": "Draft: Sion, the echo of 13b.",
+          "from": "draft"
+        },
+        {
+          "label": "o escolhi",
+          "forms": {
+            "eam14": "o escolhi"
+          },
+          "note": "MS1932: the rest.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "benedicens",
+      "refs": [
+        "131:15"
+      ],
+      "latin": "Víduam ejus benedícens benedícam",
+      "kind": "word",
+      "why": "Participle + finite verb of one root, the Hebraic intensive (εὐλογῶν εὐλογήσω); D2 keeps the repetition. Verb: the open benedícere (God → man) row keeps *bendizer* (133:3, 127:5); every Brazilian text says *abençoar*. *viúva*: the Latin (with a Greek variant χήραν) where the Rahlfs text and the Hebrew have 'her provision' — the Latin is followed.",
+      "options": [
+        {
+          "label": "Bendizendo, bendirei a sua viúva",
+          "forms": {
+            "benedicens": "Bendizendo, bendirei a sua viúva"
+          },
+          "note": "Draft: the figure and the row's verb, in Portuguese order.",
+          "from": "draft"
+        },
+        {
+          "label": "Abençoando, abençoarei a sua viúva",
+          "forms": {
+            "benedicens": "Abençoando, abençoarei a sua viúva"
+          },
+          "note": "The familiar verb, if the row moves to *abençoar*.",
+          "from": "draft"
+        },
+        {
+          "label": "A sua viúva, bendizendo, bendirei",
+          "forms": {
+            "benedicens": "A sua viúva, bendizendo, bendirei"
+          },
+          "note": "The Latin's order, object first — an inversion for its own sake in Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "Abençoarei copiosamente a sua viúva",
+          "forms": {
+            "benedicens": "Abençoarei copiosamente a sua viúva"
+          },
+          "note": "MS1932 — dissolves the repetition; refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "panibus",
+      "refs": [
+        "131:15"
+      ],
+      "latin": "saturábo pánibus",
+      "kind": "glossary",
+      "why": "Plural *panes* for bread is the Latin's idiom (ἄρτων); D42 settled *o meu pão* for *panes* at 41:4. *saturáre → saciar* (row).",
+      "options": [
+        {
+          "label": "de pão",
+          "forms": {
+            "panibus": "de pão"
+          },
+          "note": "Draft (D42); DM1962 *fartarei de pão*.",
+          "from": "glossary"
+        },
+        {
+          "label": "de pães",
+          "forms": {
+            "panibus": "de pães"
+          },
+          "note": "MS1932; the Latin's number.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exsult",
+      "refs": [
+        "131:16"
+      ],
+      "latin": "et sancti ejus exsultatióne exsultábunt",
+      "kind": "word",
+      "why": "Noun + verb of one root (ἀγαλλιάσει ἀγαλλιάσονται), which answers 131:9 *et sancti tui exsúltent*. D2 keeps the repetition; the exsultáre row gives *exultar / exultação*; 125:6b *cum exsultatióne → com exultação*.",
+      "options": [
+        {
+          "label": "exultarão com exultação",
+          "forms": {
+            "exsult": "exultarão com exultação"
+          },
+          "note": "Draft: the figure kept, with the instrumental *com*.",
+          "from": "draft"
+        },
+        {
+          "label": "exultarão de exultação",
+          "forms": {
+            "exsult": "exultarão de exultação"
+          },
+          "note": "*de* for the ablative of cause; heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "exultarão de alegria",
+          "forms": {
+            "exsult": "exultarão de alegria"
+          },
+          "note": "The CNBB's (from the Hebrew); loses the repetition — refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "producam",
+      "refs": [
+        "131:17"
+      ],
+      "latin": "Illuc prodúcam cornu David",
+      "kind": "word",
+      "why": "*prodúcere* here renders ἐξανατελῶ, 'make to spring up' (as a plant); L&S gives 'bring forth, produce' of growing things. 103:14 *prodúcens fænum* → *produzindo*, where the object is the grass itself.",
+      "options": [
+        {
+          "label": "farei brotar",
+          "forms": {
+            "producam": "farei brotar"
+          },
+          "note": "Draft: the causative of springing (DM1962 *Farei brotar*, from the Hebrew, where the image is the same).",
+          "from": "DM1962"
+        },
+        {
+          "label": "produzirei",
+          "forms": {
+            "producam": "produzirei"
+          },
+          "note": "The cognate; 'produce a horn' sounds made.",
+          "from": "draft"
+        },
+        {
+          "label": "farei surgir",
+          "forms": {
+            "producam": "farei surgir"
+          },
+          "note": "Plainer, loses the growing.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cornu",
+      "refs": [
+        "131:17"
+      ],
+      "latin": "cornu David … lucérnam Christo meo",
+      "kind": "ambiguity",
+      "why": "*David* is indeclinable: genitive ('David's horn') or dative ('a horn for David'). The Greek is dative (κέρας τῷ Δαυιδ) and the second colon's *Christo meo* is dative, so the verse is a pair of gifts. *cornu → chifre* (row).",
+      "options": [
+        {
+          "label": "um chifre para Davi",
+          "forms": {
+            "cornu": "um chifre para Davi"
+          },
+          "note": "Draft: dative, with the Greek, DRB 'a horn to David', and the parallel *para o meu Cristo*.",
+          "from": "draft"
+        },
+        {
+          "label": "o chifre de Davi",
+          "forms": {
+            "cornu": "o chifre de Davi"
+          },
+          "note": "Genitive (MS1932 *o poder de David*, whose noun is a gloss).",
+          "from": "MS1932"
+        },
+        {
+          "label": "a Davi um chifre",
+          "forms": {
+            "cornu": "a Davi um chifre"
+          },
+          "note": "Keeps the Latin's double reading as far as Portuguese can; the order is forced.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "131:1": "The second colon is the Vespers antiphon *Et omnis * mansuetúdinis ejus* and reads alone: *E de toda a sua mansidão*. *mansuetúdo → mansidão* as 44:5b, 89:10b (the Latin with the Greek πραΰτης, against the Hebrew 'hardships'). No titulus (D7).",
+    "131:3": "tabernáculum → *tenda* (row), here a man's tent, as God's in 131:5 and 131:7 — the psalm plays one against the other. Length flag 3a (−4) accepted: the oath's plain future is shorter than the Latin's conditional (si_oath).",
+    "131:5": "*donec invéniam* → *até que eu encontre* (subject named: *até que encontre* could be heard in the third person). *réquies → repouso* (row), the same noun as 131:8 and 131:14. *Deus Jacob → o Deus de Jacó* (formula). Length flag 5a (+4) accepted: *até que eu encontre um lugar para o Senhor* has no shorter sayable form.",
+    "131:6": "*nós a encontramos*: the pronoun is proclitic after a named subject (not the bookish *encontramo-la*). *silva → selva* (D44), *campi → campos*.",
+    "131:7": "The first colon is the Dedication versicle *Introíbimus in tabernáculum ejus* and reads alone. Future kept (*Entraremos*, *adoraremos*); the CNBB's hortatives *Entremos … prostremo-nos* are the Hebrew's. Length flag 7a (−4) accepted: *tenda* (row) against *tabernáculum*.",
+    "131:8": "The versicle of Pasc4-0 (TemporaM) and C4c. *Levantai-vos* is the glossary's form for *Surge / Exsúrge* (81:8, 3:7). Length flag 8a (+3) accepted: *para o vosso* is the Latin's possessive.",
+    "131:9": "The Preces versicle *V. Sacerdótes tui induántur justítiam. R. Et sancti tui exsúltent* — each colon reads alone. *induántur* + accusative → *se vistam de* as 34:26b *Vistam-se de vergonha*; subject first as the Latin, proclisis after the subject. *sancti (ὅσιοι) → santos* (row).",
+    "131:10": "*Propter → por causa de* (row); *avértere fáciem → desviar a face* (row); *Christus → Cristo* (D19 names this verse). *Davi, vosso servo* without article, as 77:70 *Davi, seu servo* and 88:21.",
+    "131:11": "God speaks to David: *tu* (D17). The second colon is the Christmas antiphon *De fructu * ventris tui ponam super sedem tuam* and reads alone: *Do fruto do teu ventre * porei sobre o teu trono* (partitive *de*, as MS1932). *fructus ventris → o fruto do ventre* as 126:2b; *sedes → trono* (row).",
+    "131:12a": "A real condition here (not the oath of 131:3). *testaméntum → aliança* (row), *testimónia → testemunhos* (D15), *docére → ensinar* (row). *hæc* kept as *estes*.",
+    "131:12b": "*usque in sǽculum → para todo o sempre* (D37). *sedébunt super sedem tuam* repeats 11's *super sedem tuam* → *sobre o teu trono* both times.",
+    "131:13": "*elégit … elégit* kept twice (the Greek varies its verb; the Latin does not). *habitátio → habitação* (row).",
+    "131:14": "*in sǽculum sǽculi → pelos séculos dos séculos* (D27); the formula puts a proparoxytone at the mediant, as at 44:7. *habitáre → habitar*. Length flag 14a (+4) accepted: the D27 formula.",
+    "131:15": "*pauper → pobre* (D38 row).",
+    "131:16": "God's answer to 131:9: *justítiam → salutári*, *exsúltent → exsultatióne exsultábunt*. *salutáre → salvação* (D6). With 131:17 the Gradual of C4-1 and 10-23r.",
+    "131:17": "*Illuc → Ali*. *parávi* perfect kept (*preparei*), against the future of the first colon, as the Latin. *lucérna → lâmpada* as 17:29, 118:105. *Christo meo → para o meu Cristo* (D19). Length flags 17a/b (+4 each) accepted: the two *para* datives are kept parallel (*um chifre para Davi … uma lâmpada para o meu Cristo*); the shorter *a Davi … ao meu Cristo* is noted for the stylist.",
+    "131:18": "*confúsio → vergonha* and *índuere … confusióne → vestir de vergonha*, as 34:26b and 108:29. *efflorescere → florescer* as 102:14. *super ipsum → sobre ele*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps131.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932, DM1962); DO's Portuguese not used (D12). Liturgical uses by grep of DO Latin and Brazilian circulation fetched, not asserted — both in ps131/circulation.md (CNBB LH page saved as consult/web-lh-salmo-131-132.html; CNBB Bible consult/bolls-CNBB-19-132.json; the Brazilian Assumption-vigil refrain *Subi, Senhor, para o lugar de vosso pouso* from search results only). Glossary and finished psalms consulted with ps131/gloss_look.py and ps131/concord.py. Hard readings: the oath *si* (3–5), *lectum strati mei*, *audívimus eam*, *sanctificátio* (8, 18), *benedícens benedícam* and *exsultatióne exsultábunt*, *cornu David* (genitive or dative), *elégi eam*."
+    },
+    {
+      "step": "checks",
+      "file": "checks.md",
+      "note": "render.py + checks.py: hard checks pass (ids, pointing). Soft flags are length only (131:3a, 5a, 7a, 8a, 14a, 17a, 17b), all accepted in choices['131:length']. The one accidental rhyme found, *Sião / habitação* in 131:13, was removed in the draft by the ruling on sibi."
+    }
+  ]
+}

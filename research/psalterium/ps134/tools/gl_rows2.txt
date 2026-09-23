@@ -1,0 +1,302 @@
+35 | judícia / judícium | juízos / juízo | settled (D15) | Ps 118 — confirmed by the study (23× there, 66× in the psalter; κρίμα and κρίσις merged by the Latin). DM1962 *sentenças* is the option in Ps 118; *julgamentos* refused (rhymes with *mandamentos*) Ps 100:1 *Misericórdiam, et judícium* → *A misericórdia e o juízo * eu vos cantarei, Senhor* (MS1932 *justiça* option); the ambiguity reader noted 'ter juízo' but heard judgment. |
+
+39 | verbum / sermo / elóquium | palavra / **palavra** / ***o que dissestes*** in both numbers (before D26 the plural was *os vossos ditos*) (*segundo o que dissestes*, *guardei o que dissestes*). *sermo*: the main session overruled the agent's *fala* (D15: one Greek word, the stylist refused *falas* three times; verses that set the two side by side decide locally). *elóquium*: the noun *o vosso dito* failed the stylist six times out of six; the clause was the blind reader's own paraphrase and h
+
+83 | clamáre | clamar | working | Ps 4, Ps 90:15 Ps 129:1 *De profúndis clamávi ad te, Dómine* → *Das profundezas clamei a vós, Senhor* — the perfect kept (29:3, 85:7, 87:14 *clamei a vós*) against the CNBB's familiar present *clamo* (option); no reader remarked. |
+
+91 | domus | casa | working | Ps 133:1b |
+
+108 | judicáre, *júdica me* | julgar (*julgai-me*), bare | open | Ps 53:3; 7:9b, 25:1, 34:24, 42:1 (*Júdica me, Deus, et discérne causam meam* — *causa* is a word of its own there); the blind reader heard "pass sentence on me" before "do justice to my cause" — the Latin is open in the same way; MS1932 *julga a minha causa* Ps 5:11a *júdica illos* → *julgai-os*: heard by the blind reader first as "condemn them" — the Latin's range. Ps 7:9b *Julgai-me, Senhor, segundo a minha justiça* (= 25:1's op
+
+111 | fortes (κραταιοί) | os fortes | working | Ps 53:5; open between strong and powerful, as the Latin is Ps 58:4 *irruérunt in me fortes* → *lançaram-se sobre mim os fortes*; the ambiguity reader heard powerful men. |
+
+134 | laus | louvor | working | Ps 117:14; free because *confitéri* is *dar graças* Ps 8:3 *aperfeiçoastes o louvor*. |
+
+139 | narráre / ópera | narrar / obras | working | Ps 117:17 Ps 18:2 *Cæli enárrant … ópera mánuum ejus* → *Os céus narram … as obras das suas mãos*: the compound enarráre on the simple verb (one Greek verb, διηγοῦνται); the stylist named 18:2 the psalm's best line. See the new row enarráre. Ps 87:12 *Numquid narrábit áliquis in sepúlcro* → *Acaso alguém narrará no sepulcro*; the stylist asked *contará* (the r-a run, 'literary') — refused for the row, option. |
+
+145 | fíeri, *factus est* | fazer-se | open | Ps 117:14, 21, 22, 23, 28b; the psalm runs on *fácere* (*fecit virtútem, factus est, factum est istud, quam fecit Dóminus*); MS1932 *tornar-se* is the option. Ps 118:83 *factus sum sicut uter* → *me tornei como um odre* (a state that came upon the speaker: *me fiz* would be his own doing), and 118:56 *facta est mihi* → *me aconteceu*: fazer-se cannot serve everywhere Ps 13:1b, 13:3a *abominábiles facti sunt … inútiles facti sunt* → *tornaram-se abomi
+
+183 | confirmáre | confirmar | open | Ps 118:28 *confirmai-me nas vossas palavras*; options *fortalecer* (MS1932), *firmar* **Ps 36:17 *confírmat autem justos Dóminus* → draft 2 *mas o Senhor sustenta os justos*:** draft 1 *confirma os justos* was heard by the blind reader as 'reconhece ou atesta que eles são justos'. With persons as object *confirmar* is heard as attesting; *sustentar* (ὑποστηρίζει, 'props up'; free — sustinére is *esperar por*, D36) passed the Latinist. The Tuesday Matins anti
+
+262 | peregrinátio | peregrinação | working | Ps 118:54; apart from íncola → forasteiro; heard as a religious journey first |
+
+278 | plasmáre | moldar | open | Ps 118:73; the potter's verb; apart from fíngere and formáre; DM1962 *plasmaram* is the option |
+
+280 | fíeri, jussive *Fiat* | *Seja* | open | Ps 118:76, 80 (118:173 next): *Faça-se* (the glossary's fazer-se, and the Angelus') failed the stylist twice; DRB "let … be", MS1932 *Seja*; the row *fíeri, factus est → fazer-se* stands for the perfect **118:173 *Fiat manus tua ut salvet me* → *Seja a vossa mão para me salvar*: REFUSED BY THE STYLIST TWICE** ("parece anunciar uma identificação que não chega"; he wants *Que a vossa mão me venha salvar* / *Venha a vossa mão me salvar*). Held, because 
+
+303 | mendácium, *loqui mendácium* | mentira, *falar mentira* | working | Ps 5:7a **Ps 16:9b *os eórum locútum est supérbiam* → *a boca deles falou soberba*** — the same accusative of content: draft 1 *falou com soberba* (DRB, MS1932: the manner) was marked MAJOR by the Latinist («A soberba é o conteúdo proferido»); taken on this row's precedent. 30:24, 100:7 *fácere supérbiam* are another build. **Ps 57:4 *locúti sunt falsa* → *falaram mentiras*** — *falsa* shares *mentira* by D15's test (ψεύδη
+
+330 | consummáre (a person) | acabar com (*Por pouco não acabaram comigo*) | open | Ps 118:87; the cognate *consumar* takes no personal object. The echo with *consummátio* (118:96) is lost |
+
+333 | ordinátio | ordem (*Pela vossa ordem o dia permanece*) | open | Ps 118:91; both command and arrangement, as the Latin; *ordenação* is holy orders; heard by the blind reader as "because God so orders" |
+
+350 | fácere judícium | fazer juízo sobre (118:84) / praticar o juízo (118:121) | open | two builds: 118:84 *quando fareis juízo sobre os que me perseguem?* (no reader heard "form an opinion of", which bare *fazer juízo de* would mean); 118:121 *Feci judícium et justítiam* → *Pratiquei o juízo e a justiça* after the stylist heard *Fiz juízo* as forming an opinion. **Collision:** *praticar* is operári's verb (*praticar a iniquidade*; 14:2 *operátur justítiam*), and 9:5, 75:9, 105:3 *fáciunt justí
+
+359 | **elóquium — evidence from 118:81–128 for whoever reviews D16** | clause kept (118:82, 116); plural *os vossos ditos* kept (118:103); noun *o dito da vossa justiça* (118:123) | open | The **clause** passed the stylist twice and the blind reader; the Latinist, on his third reading only, marked its past tense minor (118:82, 116) — D16's named cost. The **plural** *ditos*, which had passed every reader at 118:11, was **refused by the stylist twice at 118:103** ("maxims, popular sayings … a tr
+
+374 | judex / fortis / pátiens | juiz / forte / paciente | working | Ps 7:12; *pátiens* 85:15, 144:8 (μακρόθυμος) Ps 74:7 *quóniam Deus judex est* → *pois Deus é juiz* (49:6's build, no article). **Ps 102:8 *longánimis* → *paciente*** — μακρόθυμος, the Greek of *pátiens* at 85:15 (D15). The Latinist (v2, minor) asked the cognate *longânime*; option, as a dictionary word. |
+
+396 | vidére | ver | working | Ps 8:4 *Porque verei os vossos céus* — the Latin's *Quóniam* + future (ὅτι ὄψομαι), not the Hebrew's "When I see" (MS1932, DM1962 *Quando contemplo*) |
+
+426 | laudem dícere | dar louvor (*Sete vezes por dia vos dei louvor*) | working | Ps 118:164; the noun *laus* → louvor kept, the light verb yields (as *bonitátem fácere* → usar de bondade) |
+
+429 | longe fíeri a | ficar longe de | working | Ps 118:150 *a lege autem tua longe facti sunt* → *mas da vossa lei ficaram longe*; *longe* and *perto* kept as words through 118:150, 151, 155 |
+
+445 | magníloquus | que fala grandezas (*e a língua que fala grandezas*) | open | Ps 11:4 only (grep); L&S "vaunting, boastful" (citing this verse), μεγαλορήμων. Keeps *magni-* and *-loquus*, and echoes 11:5 *magnificábimus* → *Engrandeceremos*. **The Latinist asked twice (minor) for the boasting to be explicit** — *com arrogância* (MS1932), then *com altivez*; refused: both blind readings heard boasting first |
+
+518 | claudicáre | mancar (*e mancaram fora das suas veredas*) | working | Ps 17:46 only (grep); *coxearam* was unknown to the blind reader and uncurrent to the stylist; *claudicar* (MS1932) is literary |
+
+527 | providére (*Providébam*) | ver (*Eu via o Senhor sempre à minha vista*) | open | Ps 15:8 only (grep). Draft 1 *antevia* (pro-vidére part for part) fell to a Latinist major, the stylist and the blind reader (unknown word; heard as 'foresaw'): the προ- is 'before me' in place, carried by *à minha vista*. Acts 2:25 quotes it; 2:31 *providens* (Peter's foresight) is Acts' reading, not the verse's |
+
+541 | dívidere at the *vós* imperative | *separai* (*separai-os dos poucos da terra*) | open | Ps 16:14b *dívide eos*; **rule-3 trap: *dividi* and *dividi-os* are 'I divided (them)'**. DRB and MS1932 give the sense 'divide … from' / *Separa-os*. 54:10 *Præcípita, Dómine, dívide linguas eórum* is the other imperative (grep) — *separai as suas línguas*? or *dividi*-free *repartir* (also a trap: *reparti*); decide there |
+
+548 | fíeri + adjective (*pingue fiat*) | tornar-se (*e o teu holocausto se torne gordo*) | open | Ps 19:4; the Latinist's major against *seja* (a state). Keeps *Seja* for *Fiat* standing alone (118:76, 80) |
+
+565 | loquéla | linguagem (*Não há linguagens nem palavras*) | open | Ps 18:4 only (grep). λαλιαί; L&S 'speech, language, words, discourse'. A second word needed because sermo → palavra (D15) stands beside it. DRB *speeches*, MS1932 *linguagem*; *falas* the option. No reader remarked |
+
+633 | dilúvium; *inhabitáre facit* | dilúvio; *fazer habitar* (*O Senhor faz habitar o dilúvio*) | open | Ps 28:10 (31:6 *in dilúvio aquárum multárum*; 67:7a *qui inhabitáre facit* — grep). The Latin's causative left open (who dwells); the blind reader heard the doubt, as the Latin has it; MS1932 *faz do dilúvio a sua habitação* decides. Ps 31:6b *in dilúvio aquárum multárum* → *no dilúvio das muitas águas* — applied. **Ps 112:9 *Qui habitáre facit stérilem in domo* → *Ele faz habitar numa casa 
+
+637 | indignátio | indignação (*há ira na sua indignação*) | working | Ps 29:6 (θυμῷ); kept apart from ira → ira and furor → furor. |
+
+647 | illuminátio | luz (*O Senhor é a minha luz e a minha salvação*) | open | Ps 26:1 (the Monday Prime antiphon; Introits) — God named as the one who gives light; *iluminação* makes him a process and is heard as lighting. Cost: *lumen* → luz too; they never meet in a verse (grep), but 4:7 *lumen vultus tui* and 43:4, 89:8 *illuminátio vultus tui* are near-formulas and may keep them apart with *iluminação* (free). DRB *light*, MS1932 *luz*. **Ps 43:4b *e a luz do vosso rosto*:** the row held — 
+
+683 | collaudátio | louvor → draft 2 *aos retos convém louvar* | open | Ps 32:1 only (αἴνεσις). *convém o louvor* was heard as praise the upright deserve; the verb says the praise they give. The Matins antiphon *Rectos decet * collaudátio* (Psalmi matutinum) then sings *Aos retos * convém louvar*. |
+
+695 | laudári (the soul *in Dómino*) | ser louvado (*No Senhor será louvada a minha alma*) | open | Ps 33:3; 62:12, 63:11 *laudabúntur* (grep). The Latin's passive (ἐπαινεσθήσεται); Matos Soares 1932 *se gloriará* is the Hebrew's. The blind reader heard the soul praising, noticing the build said otherwise. **Ps 63:11 *et laudabúntur omnes recti corde* → *e serão louvados todos os retos de coração*** — the passive held (MS1932 agrees here); heard as 'praised by others'; passed the Latinist twice.
+
+705 | firmáre (eyes) | firmar (*firmarei sobre ti os meus olhos*) | open | Ps 31:8 *firmábo super te óculos meos* (ἐπιστηριῶ); the blind reader heard care; *fixar* the option. Apart from *confirmáre* → confirmar. |
+
+751 | magna loqui (*super me*) | falar grandezas (contra mim) | settled (D39) | 11:4 *magníloquam* → *que fala grandezas*, 34:26b, 37:17, 54:13 (grep). **Ps 37:17: the stylist asked *grandes coisas* ('grandezas suggests quantities or splendours') and the blind reader listed *grandezas* (as boasts) unknown** — kept for 11:4 and 34:26b; if it changes, the three change together. |
+
+779 | quia, before *quare* | pois (*Pois vós sois, Deus, a minha força*) | settled (D42) | Ps 42:2. *porque* is the default (30:4, 90:9 *Porque vós sois*); where *por que* questions follow, *porque* is heard as one (stylist and blind reader). Local, not a new default. |
+
+805 | plaudere mánibus | bater palmas (*Todas as nações, batei palmas*) | settled (D43) | Ps 46:2; *aplaudi* is a bare -ir imperative (rule 3). 97:8 *Flúmina plaudent manu* decides locally. **Ps 97:8 *Flúmina plaudent manu* → *Os rios baterão palmas*** — the singular *manu* folded into the idiom; the Latinist (minor, v1 and v2 gate) asked for the hand; held, *aplaudirão com a mão* the option. |
+
+811 | obloqui | insultar (*do que me afronta e do que me insulta*) | settled (D43) | Ps 43:17 (παραλαλέω; L&S cites this verse); once in the psalter. *difamar* is detráhere's (D41), *censura* vituperátio's. Two persons (article repeated, v2, the Latinist); the supplied *me* held as grammar against him (twice, minor). |
+
+818 | æstimári | ser tido (*fomos tidos como ovelhas de matança*) | settled (D43) | Ps 43:22b (= Rom 8:36; v2, the stylist; draft 1 *considerados*). 87:5 *æstimátus sum* (grep) should follow. **Ps 87:5 *Æstimátus sum cum descendéntibus in lacum* → *Fui contado entre os que descem à cova*** — a local departure: 'reckoned among a company', not 'regarded as' (43:22b). The Latinist and the stylist both asked for *contado*; the ambiguity reader did not know *tido*. The row stands where the sense is '
+
+867 | cognóscere + *quóniam* (55:10 *ecce, cognóvi, quóniam Deus meus es*) | *eis que eu soube: vós sois o meu Deus* | settled (D44) | Ps 55:10 v2: the stylist found *conheci que* not current and the bare *eis,* clipped; the perfect kept as 19:7a (*agora soube*). The v2 gate (minor) asked back *eis que conheci que vós sois* — held (option): he called both defensible. |
+
+881 | existimáre | pensar | settled (D44) | Ps 49:21 *Existimásti* → *Pensaste*; *quod ero tui símilis* → *que eu seria semelhante a ti* (sequence of tenses; the Latinist's *serei* refused). Apart from cogitáre (see its row). **Ps 72:16 *Existimábam ut cognóscerem hoc* → *Eu pensava em conhecer isto*** — applied (D44); passed. |
+
+920 | *recta judicáre* | julgar retamente (*julgai retamente, filhos dos homens*) | open | Ps 57:2 (εὐθεῖα κρίνετε). The adverb of *reto*: *com retidão* is diréctio's, *o que é reto* was heard as 'assess'. Cf. 74:3 *justítias judicábo* (grep). |
+
+934 | partíri / divídere (land) | repartir (*e repartirei Siquém*) | open | Ps 59:8 *partíbor*; 107:8 *dívidam* is the same Greek (διαμεριῶ) and should copy; = 21:18 *repartiram*. Rule 3 applies only at the imperative (*reparti*). **Ps 107:8 *dívidam Síchimam* → *repartirei Siquém*** — copied from 59:8 as the row proposed (διαμεριῶ in both); *dividirei* option. *dimétiar* likewise copies 59:8's *medirei* (διαμετρήσω in both). |
+
+936 | convéntus | ajuntamento (*do ajuntamento dos malvados*) | open | Ps 63:3 only (grep: the Paschaltide martyrs' Introit too); συστροφή. The root and word of 15:4b *conventículum*; keeps apart *concílium malignántium → congregação* (21:17) and *ecclésia malignántium → assembleia* (25:5). Unknown to the ambiguity reader; kept. Options *conluio*, *conspiração* (MS1932, explains), *reunião*. |
+
+1016 | liquefácere (*liquefácta est terra*) | derreter-se (*Derreteu-se a terra*) | open | Ps 74:4 (ἐτάκη; 21:15b *cera que se derrete* is liquéscere). Concrete, as the Greek's melting; MS1932 *dissolveu-se* option. The ambiguity reader heard it literally, 'a strange image' — the Latin's. |
+
+1028 | lingere terram | lamber a terra (*e os seus inimigos lamberão a terra*) | open | Ps 71:9b (λείξουσιν χοῦν — 'dust', but the Latin says *terram*); the Latin's image kept against *beijarão*; *lamberão o pó* (the Greek) the option. No reader remarked. |
+
+1033 | cognátio | parentela (*os da parentela deles*) | open | Ps 73:8; the collective subject made plural for the plural verb. The ambiguity reader listed *parentela* unknown; kept. |
+
+1039 | tenére (*ténuit eos supérbia … Tenuísti manum déxteram meam*) | tomar (*a soberba os tomou … Tomastes a minha mão direita*) | open | Ps 72:6, 72:24: one verb (ἐκράτησεν / ἐκράτησας) for pride seizing the wicked and God holding the psalmist — the psalm's turn. The Latinist asked 'held' three times (*reteve*, *prendeu*, *Segurastes*); held, since his fixes split the pair. *segurar* for both is the option — **for Gustavo**. |
+
+1042 | nátio (*natiónem filiórum tuórum*) | nação | open | Ps 72:15 (γενεά); *geração* (DRB) is generátio's. Collides only with *gentes → nações*; they do not meet here. *reprobávi* kept indicative → *rejeitei* (the reprobáre row). Passed the Latinist twice. |
+
+1049 | quiéscere (*terra trémuit et quiévit*) | aquietar-se (*a terra tremeu e se aquietou*) | open | Ps 75:9 (ἡσύχασεν); the Easter Offertory. Kept apart from requiéscere → *repousar*; MS1932 *ficou em sossego*, *silenciou* options. The stylist named 75:9 the best line. |
+
+1064 | Aaron, Móyses, Joseph | Aarão, Moisés, José | working | Ps 117:3 *Aarão*; 76:15, 76:21. |
+
+1078 | míttere manum super | lançar a mão sobre (*teria lançado a minha mão sobre aqueles que os atribulam*) | open | Ps 80:15 (ἐπέβαλον); *lançar* with *super* as 21:18 *lançaram sortes*. *pôr*, *estender* options. |
+
+1080 | dijudicáre (*in médio autem deos dijúdicat*) | julgar (*e julga os deuses no meio deles*) | open | Ps 81:1, the only place in the psalter (grep; Isaiah 66:16 in the canticles). L&S: judge, decide between. Merged with *judicáre* so that the psalm's one root sounds four times; *faz juízo entre* (the *di-*) is the option. *deles* supplied for bare *in médio* — the Latinist asked twice (minor) for *e no meio* and *porém* for *autem*; held, both options. |
+
+1124 | elátio (*elatiónes maris*) | vagalhões (*Maravilhosos são os vagalhões do mar*) | open | Ps 92:4b only (grep the psalter before settling); μετεωρισμοί, the Greek 41:8b renders *excélsa* (→ *alturas*, D42) — *alturas* cannot serve here because *in altis → nas alturas* stands in the same verse. L&S cites this verse: 'high waves'; DRB 'surges'. Draft 1 *as elevações* (MS1932; keeps the lifting and the echo with *elevaram*) was heard as terrain by the stylist and the ambiguity reader. *vagas*
+
+1165 | inflammáre (fire, persons as object) | queimar (*e queimará ao redor os seus inimigos*) | open | Ps 96:3 (φλογιεῖ). Draft 1 *abrasará* (MS1932) was unknown to the ambiguity reader and heard as *abraçará* ('will embrace'); *queimar* is DRB's 'burn'. 72:21 *inflammátum est cor meum → se inflamou* (the heart; another Greek) and 104:19 *elóquium Dómini inflammávit eum* decide by their own object. **Ps 104:19 *Elóquium Dómini inflammávit eum* → *A palavra do Senhor o inflamou*** — a word as su
+
+1176 | rex Dóminus (apposition) | *o rei, o Senhor* (*Aclamai na presença do rei, o Senhor*) | open | Ps 97:6 *regis Dómini*; the Latin's order, comma for the apposition; the ambiguity reader heard the apposition. *do Senhor, o rei*, DM1962's *do Rei Senhor* options. |
+
+1227 | laudáre laudem | louvar o louvor (*e louvaram o seu louvor*) | open | Ps 105:12 — the Latin's figura kept (the Greek ᾖσαν 'sang'); MS1932 *cantaram* option. No reader objected. |
+
+1260 | exsultáre (σκιρτάω, leaping of animals) | saltar (*Os montes saltaram como carneiros*) | open | Ps 113:4, 113:6 — the only σκιρτάω in the psalter (LXX elsewhere: Gen 25:22, Wis 17:18, Wis 19:9 'like lambs', Joel 1:17, Mal 3:20, Jer 27:11 — consult/lxx-text_accented.csv). L&S's first sense 'to leap, bound'. DRB 'skipped', MS1932 *saltaram (de alegria)*. Split from the exsultáre row by D15; *exultaram* option. None of the v1 or v2 readers objected. |
+
+1269 | loqui pacem (*de* / *in*) | falar paz (*eu falava paz sobre ti*; 84:9 *falará paz ao seu povo*) | open | Ps 121:8; the accusative of content kept, as the mendácium row's 16:9b *falou soberba*. The stylist heard a calque and asked *falava de paz a teu respeito* (option; 27:3 *loqui pacem cum próximo* → *falam de paz*, another build). *de te* (περὶ σοῦ) → *sobre ti*, heard as 'about you' first. |
+
+1300 | *Quóniam in sǽculum misericórdia ejus* | *porque é para sempre a sua misericórdia* — proposed by Ps 117 in place of *porque para sempre é a sua misericórdia* | settled (D14; D23 gives Ps 135's *in ætérnum* refrain the same words) — Ps 117 said the old form four times running (117:1–4): *porque para* stutters and *sempre é a sua* piles three vowels. The new form has the same words with the copula moved up, still closes on *misericórdia*, and passed the stylist without remark; it gives Ps 1
+
+1301 | *Dicat nunc Israël quóniam bonus: quóniam…* (117:2–4; *dicat nunc Israël* also 123:1, 128:1 → *diga agora Israel*) | *Diga agora Israel: porque ele é bom, porque…* — the refrain quoted with its conjunction, identical in all five verses | open — DRB and MS1932 read *quóniam* as 'that' (*que ele é bom: que…*), which is the option; Ps 117's decision `dicat` Ps 123:1 *dicat nunc Israël* (no *quóniam*) → *diga agora Israel* — applied. Ps 128:1 applied (*diga agora Israel*, after what is to be 
+
+1303 | *et in nómine Dómini quia ultus sum in eos* (117:10–12) | *e foi em nome do Senhor que me vinguei deles* | working — a cleft, so that *quia* is heard as its *que*; *deles* follows the Latin's *eos* (after *gentes*) and avoids *delas* falling after *abelhas* in 117:12 |
+
+1306 | *Confitémini Dómino quóniam bonus* | *Dai graças ao Senhor, porque ele é bom* (117:1, 117:29; D5) — until the 2026-09-21 review this cell said *Louvai o Senhor, porque ele é bom*, the pre-D5 verb | settled (D5); was: open (hangs on *confitéri*; see that row) |
+
+1314 | *et Dóminus suscépit me* (117:13) = *quia Dóminus suscépit me* (3:6) | *(porque) o Senhor me amparou* | working — identical in both psalms |
+
+1317 | *judícia justítiæ tuæ* (118:7, 106, 160, 164) | *os juízos da vossa justiça* | working — Ps 118:7; **not** 118:62 *judícia justificatiónis tuæ*, a different Latin |
+
+1319 | *qui fecit cælum et terram* (113:23, 120:2, 123:8, 133:3, 145:5–6) | *que fez o céu e a terra* | working — Ps 133:3 puts *ele* before it only because *Sião* would otherwise be the antecedent Ps 120:2 *O meu auxílio vem do Senhor, * que fez o céu e a terra* — the formula as it stands, the relative right after *Senhor*; the Monday Vespers antiphon of the older psalter. **Ps 123:8** — applied; the relative follows *Senhor* directly, so no *ele* is needed (133:3's reason does not arise). |
+
+1320 | *Qui statis in domo Dómini, in átriis domus Dei nostri* (133:1b = 134:2) | *Que estais de pé na casa do Senhor, nos átrios da casa do nosso Deus* | working (hangs on *stare*) |
+
+1322 | *secúndum elóquium tuum* (118:41, 58, 76; 116, 133, 170 to come; 118:154 has *propter*, 118:169 *juxta*) | ***segundo o que dissestes*** — settled (D16), replacing *segundo o vosso dito* | The clause held on a second blind stylist pass (four of six places passed outright, two mended by word order). History: *segundo o vosso dito* was **tested in Ps 118:33–80 and refused by the stylist in all six places where the singular stands** ("a quoted phrase", "bookish", "guardar um dito is to keep 
+
+1327 | *super judícia justítiæ / justificatiónis tuæ* (118:62, 164) | *pelos juízos da vossa …* | working — Ps 118:62 |
+
+1330 | *Rex meus et Deus meus* (5:3, 43:5, 83:4) | *meu Rei e meu Deus* | working — Ps 5 Ps 83:4b applied (*Os vossos altares, Senhor dos poderes: * meu Rei e meu Deus* — verbless, as the Latin). |
+
+1338 | *Súscipe me secúndum elóquium tuum, et vivam: et non confúndas me ab exspectatióne mea* (118:116) | *Amparai-me segundo o que dissestes, e viverei: e não me envergonheis pelo que aguardo* | open — hangs on D16, D19 and *exspectáre*. From general knowledge, unverified on disk: this is the verse sung at monastic profession, where *súscipe* is understood as "receive"; *Recebei-me* is an option in decision `suscipe` |
+
+1344 | *Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!* (8:2a = 8:10) | *Senhor, nosso Senhor, * como é admirável o vosso nome em toda a terra!* | open — Ps 8; both verses are built from the same two slots (decisions `domine`, `quam`), so they cannot drift; the stylist's best line |
+
+1345 | *Quid est homo quod memor es ejus? * aut fílius hóminis, quóniam vísitas eum?* (8:5 = Heb 2:6; 143:3 is the near twin: *quid est homo, quia innotuísti ei? aut fílius hóminis, quia réputas eum?*) | *Que é o homem, para que vos lembreis dele? * ou o filho do homem, para que o visiteis?* | open — Ps 8; **stands against the Latinist (major, twice)**, who wants the Latin's indicatives (*pois vos lembrais dele*; then *que vos lembrais dele … pois o visitais*): held because *que é X, para que …?
+
+1347 | *Ex ore infántium et lacténtium perfecísti laudem* (8:3a = Mt 21:16) | *Da boca das crianças e dos que mamam aperfeiçoastes o louvor* | open (hangs on *perfícere*) — Ps 8 |
+
+1350 | *secúndum judícium tuum vivífica me* (118:149b, with *et*; 118:156b) | *segundo o vosso juízo vivificai-me* | working — Ps 118; *vivificai-me* always last, as *vivífica me* is (nine verses) |
+
+1355 | *Elóquia Dómini … igne examináta* (11:7 *Elóquia Dómini, elóquia casta: argéntum igne examinátum*; 17:31 *elóquia Dómini igne examináta*) | *As palavras do Senhor … examinada(s) no fogo* | settled (D27) **D27: settled — outside Ps 118 the psalm decides (D26); 17:31 follows.** |
+
+1371 | *Dómine, salvum fac regem: * et exáudi nos in die, qua invocavérimus te* (19:10; the Preces feriales at Lauds, and Vespers by reference: *V. Dómine, salvum fac regem. R. Et exáudi nos in die, qua invocavérimus te*) | *Senhor, salvai o rei: * e escutai-nos no dia em que vos invocarmos* | working — Ps 19; the stylist's best line; stands alone as a versicle |
+
+1373 | *In omnem terram exívit sonus eórum: * et in fines orbis terræ verba eórum* (18:5 = Rom 10:18) | *O som deles saiu por toda a terra: * e as palavras deles, até os confins do mundo* | working — Ps 18; the apostle's quotation, word for word in the Vulgate (consult/bolls-VULG-45-10.json); keep it identical wherever the Office quotes the verse |
+
+1377 | *Narrábo nomen tuum frátribus meis: * in médio ecclésiæ laudábo te* (21:23; Heb 2:12 Clementine *Nuntiabo …*, fetched) | *Narrarei o vosso nome aos meus irmãos: * no meio da assembleia vos louvarei* | open (hangs on *ecclésia*) — Ps 21 |
+
+1379 | *Quóniam Dómini est regnum* (21:29; cf. 3:9 *Dómini est salus*) | *Porque do Senhor é o reino* | working — Ps 21, built as 3:9 |
+
+1384 | *Dómini est terra, et plenitúdo ejus* (23:1 = 1 Cor 10:26) | *Do Senhor é a terra, e a sua plenitude* | open — Ps 23; St Paul's quotation is word for word (Clementine, fetched) |
+
+1387 | *Delícta juventútis meæ, et ignorántias meas ne memíneris* (24:7; Office of the Dead antiphon, asterisk after *Delícta*) | *Das faltas da minha juventude, e das minhas ignorâncias não vos lembreis* | open — Ps 24; the Latin order kept so the antiphon can open on the faults |
+
+1392 | *Exaltábo te, Dómine, quóniam suscepísti me: * nec delectásti inimícos meos super me* (29:2; Matins antiphon; versicle and responsory of 12-08 and Our Lady Aparecida; Introit verse, Commune/C4b — grep) | *Eu vos exaltarei, Senhor, porque me amparastes: * e não alegrastes os meus inimigos à minha custa* | open — Ps 29 |
+
+1394 | *Lavábo inter innocéntes manus meas: * et circúmdabo altáre tuum, Dómine* … *in ecclésiis benedícam te, Dómine* (25:6–12, the Lavabo of the Mass, identical in DO Ordo.txt / Ordo67.txt; Quad5-3's Communion is another wording, *circuíbo*) | *Lavarei as minhas mãos entre os inocentes: * e cercarei o vosso altar, Senhor:* … *nas assembleias vos bendirei, Senhor.* | open — Ps 25; the whole stretch must read alone from 25:6 (it does: 25:6 opens a sentence) **Merged from a duplicate row (a term 
+
+1396 | *Júdica me, Dómine, quóniam ego in innocéntia mea ingréssus sum* (25:1; Introit of Quad2-1) | *Julgai-me, Senhor, porque eu andei na minha inocência* | open — Ps 25 |
+
+1397 | *Dóminus illuminátio mea, et salus mea: quem timébo?* (26:1; the Monday Prime antiphon *Illuminátio mea * et salus mea Dóminus*, Psalmi minor.txt; Introits Pent04-0 and others) | *O Senhor é a minha luz e a minha salvação: a quem temerei?* — the antiphon in its own order: *A minha luz * e a minha salvação é o Senhor* | open — Ps 26 |
+
+1398 | *Credo vidére bona Dómini in terra vivéntium* (26:13; antiphon of the Office of the Dead and Holy Saturday, Commune/C9.txt, Quad6-6.txt) | *Creio que verei os bens do Senhor * na terra dos vivos* | open — Ps 26; **the Latinist's MAJOR (*Creio ver*) held**: *Creio ver* is heard as 'I think I see' |
+
+1405 | *In manus tuas comméndo spíritum meum: redemísti me, Dómine, Deus veritátis* (30:6; the Compline short responsory, Special/Minor Special.txt: *R.br. In manus tuas, Dómine, * Comméndo spíritum meum. V. Redemísti nos, Dómine, Deus veritátis*; Lk 23:46) | *Nas vossas mãos entrego o meu espírito: vós me resgatastes, Senhor, Deus da verdade* — responsory: *Nas vossas mãos, Senhor, * entrego o meu espírito. V. Vós nos resgatastes, Senhor, Deus da verdade* | open — Ps 30 |
+
+1411 | *Rectos decet * collaudátio* (32:1b; Matins antiphon, Psalmi matutinum) | *Aos retos * convém louvar* | open — Ps 32 |
+
+1412 | *Quóniam ipse dixit, et facta sunt: * ipse mandávit, et creáta sunt* (32:9; 148:5 the same but *Quia* for *Quóniam* — grep) | *Porque ele disse, e as coisas foram feitas: * ele ordenou, e foram criadas* | open — Ps 32; **148:5 should copy it** |
+
+1414 | *Misericórdia Dómini plena est terra: * verbo Dómini cæli firmáti sunt* (32:5b–6a; Introit of Easter II, Pasc2-0) | *a terra está cheia da misericórdia do Senhor … Pela palavra do Senhor os céus foram firmados* | open — Ps 32 |
+
+1415 | *Gustáte, et vidéte quóniam suávis est Dóminus* (33:9; Communion of Pentecost VIII, Pent08-0; an Alleluia 10-03; antiphon in Pent02-5 — grep; 1 Pet 2:3 another wording) | *Provai, e vede que o Senhor é suave* | open — Ps 33 |
+
+1424 | *Júdica, Dómine, nocéntes me, * expúgna impugnántes me* (34:1; Introit / Tract of Passion Monday; the Tuesday Matins antiphon *Expúgna, Dómine, * impugnántes me*) | *Julgai, Senhor, os que me fazem mal, * combatei os que me combatem* | working (Ps 34) |
+
+1425 | *V. Lingua mea meditábitur justítiam tuam. R. Tota die laudem tuam, Dómine* (34:28, the Tuesday Matins versicle) | *A minha língua meditará a vossa justiça. R. O vosso louvor o dia todo, Senhor* | working (Ps 34) |
+
+1428 | *Exspécta Dóminum, et custódi viam ejus: et exaltábit te ut hereditáte cápias terram* (36:34; the Tuesday Matins versicle *V. Exspécta Dóminum, et custódi viam ejus. R. Exaltábit te, ut hereditáte cápias terram*) | *Aguarda o Senhor, e guarda o seu caminho: e te exaltará, para que tomes a terra por herança* — as versicle: *R. Ele te exaltará, para que tomes a terra por herança* | open — Ps 36 |
+
+1429 | *Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus* (36:30–31; Commune C4a, C5 and the Mass of confessors, grep) | *A boca do justo meditará a sabedoria, * e a sua língua falará o juízo. A lei do seu Deus está no seu coração, * e os seus passos não serão derrubados* | open — Ps 36 |
+
+1432 | *V. Dómine, in cælo misericórdia tua. R. Et véritas tua usque ad nubes* (35:6; the Wednesday Matins versicle; *Dómine, * in cælo misericórdia tua* the Wednesday Lauds I antiphon) | *Senhor, no céu está a vossa misericórdia. R. E a vossa verdade, até as nuvens* | working (Ps 35) — the ellipsis kept so the response reads alone; the stylist's *chega até* is an option |
+
+1437 | *Exáudi oratiónem meam, Dómine, et deprecatiónem meam: áuribus pércipe lácrimas meas: quóniam ádvena ego sum apud te et peregrínus* (38:13–13b; a versicle for St Benedict Joseph Labre, Sancti/aliquibus locis/04-16; the responsory Epi2-2 *Auribus pércipe, Deus, lácrimas meas: ne síleas a me, remítte mihi*, and the Matins versicle *Deus, ne síleas a me, remítte mihi* mix 38:13–14 with 27:1 — grep) | *Escutai a minha oração, Senhor, e a minha prece: dai ouvidos às minhas lágrimas … porque eu
+
+1445 | *Spera in Deo, quóniam adhuc confitébor illi: * salutáre vultus mei, et Deus meus* (41:6b = 41:12 = 42:6; the close of the prayers at the foot of the altar, missa/Ordo) | *Espera em Deus, porque ainda lhe darei graças: * a salvação do meu rosto, e o meu Deus* | settled (D42); was: open — Ps 41 (draft 1, decision `salutare`); D36, D5, D6, vultus → rosto. **Ps 42 should copy it.** **Ps 42:6 copies it (draft 2).** **Ps 41 reviewed (v2 gate): the rows stand as written; Ps 42 copies them (42:5
+
+1446 | *Introíbo ad altáre Dei: * ad Deum, qui lætíficat juventútem meam* (42:4; the antiphon at the foot of the altar, split priest/server at the mediant; Sexagesima Communion) | *E entrarei até o altar de Deus: * até o Deus que alegra a minha juventude* | settled (D42); was: open — Ps 42 (decision `introibo`); the second colon reads alone. |
+
+1449 | *Omnes gentes, pláudite mánibus: * jubiláte Deo in voce exsultatiónis* (46:2; Introit of Pentecost VII, Ascension Alleluia, palm procession — grep) | *Todas as nações, batei palmas: * aclamai a Deus com voz de exultação* | settled (D43); was: open — Ps 46; second colon's *com voz de exultação* = 41:5b |
+
+1450 | *Tu es ipse Rex meus et Deus meus: qui mandas salútes Jacob* (43:5; a versicle of the Redeemer's feast, aliquibus locis, with *in Jacob*) | *Vós mesmo sois meu Rei e meu Deus: * que ordenais as salvações de Jacó* | settled (D43); was: open — Ps 43; *meu Rei e meu Deus* = 5:3 |
+
+1452 | *Quóniam propter te mortificámur tota die: æstimáti sumus sicut oves occisiónis* (43:22b = Rom 8:36, Clementine fetched, consult/bolls-VULG-45-8.json; Commune C3, 02-01) | *Porque por vossa causa somos entregues à morte o dia todo: * fomos tidos como ovelhas de matança* | settled (D43); was: open — Ps 43 (v2) |
+
+1453 | *Magnus Dóminus, et laudábilis nimis* (47:2; 95:4 *Quóniam magnus Dóminus et laudábilis nimis*, 144:3 — grep; the Matins antiphon, the Pent08-0 Gradual (*valde*), the Holy Thursday Mandatum) | *Grande é o Senhor, e muito digno de louvor* | settled (D43); was: open — Ps 47 **Ps 95:4 → *Porque grande é o Senhor, e muito digno de louvor*** — copied; the v1 stylist heard *Senhor … louvor* as a jingle at the mediant and asked *o Senhor é grande*: refused for the formula (option in Ps 95 decisi
+
+1454 | *Suscépimus, Deus, misericórdiam tuam, * in médio templi tui* … *Secúndum nomen tuum, Deus, sic et laus tua in fines terræ: * justítia plena est déxtera tua* (47:10–11; the Introit of the Purification and of Pent08-0 with *ita et*; the Holy Name antiphon; the Purification responsory with *Justítia plena est déxtera tua* as its respond — grep) | *Acolhemos, Deus, a vossa misericórdia, * no meio do vosso templo* … *Segundo o vosso nome, Deus, assim também o vosso louvor até os confins da te
+
+1456 | *In Deo laudábo sermónes meos / verbum, in Dómino laudábo sermónem: in Deo sperávi: non timébo quid fáciat mihi caro / homo* (55:5 ≈ 55:11, the refrain; 55:11 in the Gradual of Quad3-1 with *sperábo*) | 55:5 *Em Deus louvarei as minhas palavras, em Deus esperei: * não temerei o que me faça a carne*; 55:11 *Em Deus louvarei a palavra, no Senhor louvarei a fala: * em Deus esperei, não temerei o que me faça o homem* | settled (D44); was: open — Ps 55; *não temerei o que me faça o homem* = 11
+
+1458 | *Miserére mei, Deus, quóniam conculcávit me homo: tota die impúgnans (bellans) tribulávit me* (55:2; Gradual/Tract of Quad3-1 and Quad5-1 with *bellans*, grep) | *Tende piedade de mim, Deus, porque o homem me calcou aos pés: * o dia todo, combatendo, me atribulou* | settled (D44); was: open — Ps 55 |
+
+1461 | *Sacrifícium laudis* (49:14, 49:23; 106:22 — grep; 115:8 *hóstiam laudis* is another noun) | *sacrifício de louvor* | settled (D44); was: open — Ps 49; *Imola a Deus um sacrifício de louvor* / *O sacrifício de louvor me honrará* |
+
+1462 | *Dómine, lábia mea apéries. R. Et os meum annuntiábit laudem tuam* (50:17; the opening versicle of the Office, Psalterium/Common/Prayers.txt [Domine labia]) | *Senhor, abrireis os meus lábios. R. E a minha boca anunciará o vosso louvor* | settled (D44); was: working — Ps 50 (the future kept; *Abri* is also barred by rule 3) |
+
+1468 | *Factus es spes mea, Dómine: turris fortitúdinis a fácie inimíci. V. Inhabitábo in tabernáculo tuo in sǽcula: prótegar in velaménto alárum tuárum. V. Quóniam tu, Deus, exaudísti oratiónem meam: dedísti hereditátem timéntibus nomen tuum* (60:4–6; the Tract of 01-31, missa) | *… vos fizestes a minha esperança, Senhor: torre de força diante do inimigo …* — the psalm's colons | open — Ps 60; the Tract adds *Dómine* and drops *meus* |
+
+1469 | *Exaltáre super cælos, Deus, et in (56:6) / super (56:12, 107:6) omnem terram glória tua* | *Exaltai-vos sobre os céus, Deus, * e por / sobre toda a terra a vossa glória* | open — Ps 56 (the refrain; the Latin varies *in / super*, and the Portuguese with it). **107:6 copies *Exaltai-vos sobre os céus, Deus, e sobre toda a terra a vossa glória*** **Ps 107:6 done:** copied, with its Latin's comma after *Deus* (the asterisk falls after *glória tua*). |
+
+1471 | *Confitébor tibi in pópulis, Dómine: et psalmum dicam tibi in géntibus* (56:10; the Pasc4-0 versicle; 107:4 with *psallam tibi in natiónibus*) · *Misit Deus misericórdiam suam et veritátem suam: ánimam meam erípuit de médio catulórum leónum* (56:4b; versicle of 111-1, Pent01-1) | *Eu vos darei graças entre os povos, Senhor: * e vos entoarei um salmo entre as nações* · *Enviou Deus a sua misericórdia e a sua verdade, * e arrancou a minha alma do meio dos filhotes de leões* | open — Ps 56; 
+
+1472 | *Da nobis, (Dómine,) auxílium de tribulatióne: quia vana salus hóminis* (59:13 = 107:13; the Matins antiphon *Da nobis * Dómine auxílium de tribulatióne*, Psalmi matutinum; versicles of 08-SanteDultim, aliquibus locis — grep) | *Dai-nos auxílio na tribulação: * porque é vã a salvação do homem* | open — Ps 59; *contra a tribulação* the option (the Latinist's two runs disagree); 107:13 copies |
+
+1475 | *Protexísti me, Deus, a convéntu malignántium, allelúja: a multitúdine operántium iniquitátem* (63:3 with *Deus*; the Paschaltide martyrs, Commune C2p, Quad6-5 lesson — grep) | *Vós me protegestes, Deus, do ajuntamento dos malvados: * da multidão dos que praticam a iniquidade* | open — Ps 63 (the psalm has no *Deus*; the proper adds it) |
+
+1476 | *Lætábitur justus in Dómino, et sperábit in eo: et laudabúntur omnes recti corde* (63:11; versicle and responsory of the martyrs, Commune C2, C2p, C2a-1, CommuneM — grep) | *O justo se alegrará no Senhor, e esperará nele, * e serão louvados todos os retos de coração* | open — Ps 63; each half reads alone (V / R) |
+
+1477 | *Deus, Deus meus, * ad te de luce vígilo* (62:2a; Lauds antiphon, Psalmi major, Quadp1-0, Quadp2-0) · *Lábia mea * laudábunt te in vita mea, Deus meus* (62:4b + 62:5a) · *In matutínis * (Dómine,) meditábor in te. R. Quia fuísti adjútor meus* (62:7) · *Me suscépit * déxtera tua* (62:8b) · *Adhǽsit ánima mea post te* (62:8b; St Stephen, St Lawrence) | *Deus, meu Deus, * para vós vigio desde a aurora* · *Os meus lábios vos louvarão na minha vida, meu Deus* · *Nas madrugadas meditarei em vós.
+
+1479 | *Ego autem cantábo fortitúdinem tuam: et exsultábo mane misericórdiam tuam. V. Quia factus es suscéptor meus, et refúgium meum in die tribulatiónis meæ* (58:17–17b; the Alleluia of 03-28) | *Eu, porém, cantarei a vossa força: * e de manhã exultarei na vossa misericórdia. … Porque vos fizestes o meu amparo, * e o meu refúgio, no dia da minha tribulação.* | open — Ps 58 |
+
+1480 | *Adjútor meus, tibi psallam, quia, Deus, suscéptor meus es: * Deus meus, misericórdia mea* (58:18; the respond of the Epi2-3 responsory) — its middle = 58:10 | *Meu auxílio, a vós entoarei salmos, porque vós, Deus, sois o meu amparo: * meu Deus, minha misericórdia* | open — Ps 58; 58:10's *porque vós, Deus, sois o meu amparo* identical |
+
+1485 | *Deus misereátur nostri, et benedícat nobis* (66:2a; the Lauds antiphon, Psalmi major; Quad3-0 *et benedícat nos*; the whole of 66:2 in several Tracts — 05-03, 09-14, Quad6-2, Quad6-4, Quad6-5) · *Benedícat nos Deus, Deus noster, benedícat nos Deus* · *Et métuant eum omnes fines terræ* (66:7b, each colon alone: Benedictions.txt; Pent01-0 responsory) | *Deus tenha piedade de nós, e nos bendiga* · *Deus nos bendiga, o nosso Deus, Deus nos bendiga* · *E que o temam todos os confins da terra*
+
+1486 | *Te decet hymnus, Deus, in Sion: et tibi reddétur votum in Jerúsalem* (64:2; the Lauds antiphon *Te decet hymnus, * Deus, in Sion*, Psalmi major; the Requiem Introit verse with 64:3, Commune/C9.txt; the Alleluia of Pent10-0) · *Exáudi, Dómine, * oratiónem meam: ad te omnis caro véniet* (the Office of the Dead antiphon, C9, adds *Dómine*) · *R. Spes ómnium fínium terræ, et in mari longe* (Special/Preces.txt, 64:6b) · *Visitásti terram et inebriásti eam, multiplicásti locupletáre eam* (miss
+
+1488 | *Salvum me fac, Deus: quóniam intravérunt aquæ usque ad ánimam meam* (68:2; Introit Quadp3-3 verse, Tract Quad6-3, Holy Week responsory — grep) | *Salvai-me, Deus: * porque as águas entraram até a minha alma* | open — Ps 68 |
+
+1489 | *Zelus domus tuæ comédit me* (68:10; Holy Thursday Matins antiphon Quad6-4; Jn 2:17) | *o zelo da vossa casa me devorou* | open — Ps 68 |
+
+1492 | *Deus in loco sancto suo: Deus qui inhabitáre facit unánimes in domo: ipse dabit virtútem et fortitúdinem plebi suæ* (Introit of Pent11-0, from 67:6b + 67:36 — grep; the Missal reads *unánimes* for *uníus moris*) | *Deus está no seu lugar santo: Deus, que faz habitar numa casa os de um só costume: ele mesmo dará poder e força ao seu povo* | open — Ps 67; the Missal's *unánimes* would need its own word |
+
+1494 | *Reges Tharsis et ínsulæ múnera ófferent: * reges Árabum et Saba dona addúcent. Et adorábunt eum omnes reges terræ: * omnes gentes sérvient ei* (71:10–11; Epiphany, Sancti/01-06 — Offertory and Office, grep) · *Oriétur in diébus ejus justítia et abundántia pacis* (71:7; Advent — Adv1-1, Adv2-0, Adv3-0, Adv3-3) · *Et dominábitur a mari usque ad mare* (71:8; Advent, 10-DU) | *Os reis de Társis e as ilhas oferecerão dádivas: * os reis dos árabes e de Sabá levarão presentes. E o adorarão todo
+
+1496 | *Réspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et júdica causam tuam, et ne obliviscáris voces quæréntium te* (Introit of Pent13-0, from 73:20, 19, 22, 23 adapted, with verse 73:1 — grep; its Gradual *Réspice … V. Exsúrge … memor esto oppróbrii servórum tuórum* also in Quad4-4) | *Olhai, Senhor, para a vossa aliança, e não abandoneis para sempre as almas dos vossos pobres: levantai-vos, Senhor, e julgai a vossa causa, e não esque
+
+1497 | *Quam bonus Israël Deus, his, qui recto sunt corde!* (72:1; Graduals 02-27, 03-27, 06-04 and the Tract of Palm Sunday, Quad6-0, with 72:2–3) · *Tenuísti manum déxteram meam: et in voluntáte tua deduxísti me: et cum glória assumpsísti me* (72:24; Gradual 03-27, Quad6-0) | *Como Deus é bom para Israel, * para os que são retos de coração!* · *Tomastes a minha mão direita: e pela vossa vontade me guiastes, * e com glória me acolhestes* — the Missal's *assumpsísti* would need its own verb | op
+
+1499 | *Tu es Deus * qui facis mirabília* (76:14b; Matins antiphon, Psalmi matutinum; the Tract of Quadp3-0 adds *solus: notam fecísti in géntibus virtútem tuam*) · *V. Deus, in sancto via tua. R. Quis Deus magnus sicut Deus noster* (76:14a; Psalmi matutinum; the responsory Pent01-0 with 76:15a) · *Vidérunt te aquæ, Deus, vidérunt te aquæ, et timuérunt* (76:17, responsory Pasc4-0) · *Deduxísti sicut oves pópulum tuum in manu Móysi et Aaron* (76:21, Quad4-0 responsory) | *Vós sois o Deus * que fa
+
+1500 | *Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, libera nos: et propítius esto peccátis nostris, propter nomen tuum* (78:8–9; the Lenten Tract *Dómine, non secúndum*, missa Quadp3-3 and the Lenten ferias — grep) · *Ádjuva nos, * Deus, salutáris noster: et propítius esto peccátis nostris* (the Thursday Matins antiphon, Psalmi matutinum
+
+1502 | *Quam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini* (83:2; Gradual/responsory — missa Pent05-0, Epi1-0, horas Commune C8, grep) · *Beáti qui hábitant in domo tua, Dómine. R. In sǽcula sæculórum laudábunt te* (83:5, versicle and response) · *Protéctor noster, áspice, Deus, et réspice in fáciem Christi tui: quia mélior est dies una in átriis tuis super mília* (83:10–11a; Introit of Pent14-0; the Preces versicle) · *Dómine, Deus virtútum, exáudi
+
+1503 | *Suscitávit Dóminus * testimónium in Jacob: et legem pósuit in Israël* · *Coram pátribus eórum * fecit Deus mirabília* · *Jánuas cæli apéruit * Dóminus, et pluit illis manna ad manducándum* · *Deus adjútor * est eórum: et Excélsus redémptor eórum est* · *Redémit eos * Dóminus de manu tribulántis* · *Ædificávit * Deus sanctifícium suum in terra* (the six Thursday Matins antiphons, Psalmi matutinum [Day5]) · *V. Deus percússit petram et fluxérunt aquæ. R. Et torréntes inundavérunt* · *V. El
+
+1504 | *Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob* (84:2; Introit of Advent III, Adv3-0, and Adv3-5 — grep) · *V. Convérte nos, Deus, salutáris noster. R. Et avérte iram tuam a nobis* (84:5; Compline, Common/Prayers.txt) · *V. Osténde nobis, Dómine, misericórdiam tuam. R. Et salutáre tuum da nobis* (84:8; the Preces and Advent — Minor Special, Psalmi major, Adv3-5, 02-02 — grep) · *Véritas de terra * orta est, et justítia de cælo prospéxit* (84:12; Christmas antiphon, Sancti
+
+1505 | *Salvum fac servum tuum, Deus meus, sperántem in te* (85:2b; the Preces: *V. Salvos fac servos tuos. R. Deus meus, sperántes in te*, and *R. Salvos fac servos tuos, Deus meus, sperántes in te* — Special/Preces.txt) · *Inclína, Dómine, aurem tuam, et exáudi me: quóniam inops et pauper sum ego* (85:1; Introit Quad3-5; Pent16-0 with *mihi*; the gradual Pent15-0 is 85:1–3) · *Fac mecum, Dómine, signum in bonum: ut vídeant, qui me odérunt, et confundántur: quóniam tu, Dómine, adjuvísti me, et 
+
+1506 | *Fundaménta ejus * in móntibus sanctis* (86:1; Matins antiphon, Psalmi matutinum; with the whole verse, 12-12n versicle and missa 12-08, 08-26pl — grep) · *Gloriósa * dicta sunt de te, cívitas Dei* (86:3; 12-08, Aparecida; the missa 12-08 has *de te, María*) · *Sicut lætántium * ómnium (nostrum) habitátio est in te* (86:7; C11, 08-15t, 05-31, 02-10 Scholastica, Pent02-5o; versicle 02-11, Aparecida) | *Os seus fundamentos * estão nos montes santos* · *Coisas gloriosas foram ditas de ti, * 
+
+1507 | *Dóminus regnávit, decórem indútus est: * indútus est Dóminus fortitúdinem, et præcínxit se* (92:1a; *Dóminus regnávit* opens 96:1 and 98:1; the antiphon *Dóminus regnávit, decórem índuit*, Psalmi major and missa Nat1-0 — grep) | *O Senhor reinou, vestiu-se de esplendor: * vestiu-se o Senhor de força, e se cingiu* | open — Ps 92; *reinou* the Latin's perfect (DRB, MS1932; *reina* DM1962 option); 96:1 and 98:1 should open *O Senhor reinou*. **Ps 95:9 *dícite in géntibus quia Dóminus regnáv
+
+1511 | *Quam magnificáta sunt * ópera tua, Dómine* (91:6a; the Sunday Vespers short responsory and an antiphon, Psalmi major — grep) | *Como se engrandeceram * as vossas obras, Senhor* | open — Ps 91 (*foram engrandecidas*, *são grandes* options) **Ps 103:24a copies it** (*Como se engrandeceram as vossas obras, Senhor!*); the Latinist asked the passive twice, refused for the formula. |
+
+1513 | *Misericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo* (88:2–2b; missa Sancti 07-01 and others — grep) · *Invéni David servum meum: óleo sancto meo unxi eum. Manus enim mea auxiliábitur ei … Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei* (88:21–23; graduals and responsories, Commune C4) · *V. Ipse invocábit me. R. Pater meus es tu* (88:27; Christmas Matins, horas Sancti 12-25) · *Semel jurávi in sancto meo: Se
+
+1515 | *quóniam venit judicáre terram* (95:12b = 97:8b, grep) · *Judicábit orbem terræ in æquitáte* (95:13a; 9:9 → 9:8b) | *porque vem julgar a terra* · *Julgará o mundo com equidade* | working — Ps 95; 97:8b should copy the colon; 97:9 checks its own Latin **Ps 97:8b copies the colon; 97:9 *Judicábit orbem terrárum in justítia, et pópulos in æquitáte* → *Julgará o mundo com justiça, * e os povos com equidade*** (9:8b's *com justiça*); stylist's best line of Ps 97. |
+
+1518 | *Quóniam Deus magnus Dóminus, et Rex magnus super omnem terram* (Alleluia of Pent15-0; 94:3 with 46:3's *super omnem terram*) | *Porque o Senhor é grande Deus: e grande Rei sobre toda a terra* | open — Ps 94 (46:3's *grande Rei*) |
+
+1520 | *quóniam non repéllet Dóminus plebem suam* (Invitatorium.txt, the invitatory's wording after 94:3; = 93:14a with *quóniam* for *Quia*) | *porque o Senhor não repelirá o seu povo* (93:14) | open — not in the Gallican Psalm94.txt, so Ps 94 does not use it; for whoever translates Invitatorium.txt |
+
+1528 | *Quia magna est super cælos misericórdia tua: et usque ad nubes véritas tua* (107:5; near-twin of 56:11 *Quóniam magnificáta est usque ad cælos*) | *Porque é grande sobre os céus a vossa misericórdia: * e até as nuvens a vossa verdade* | open — Ps 107 (*super* → *sobre* as in 107:6 = 56:12, one Latin word in the psalm; *acima dos céus* option; second colon = 56:11b) |
+
+1531 | *Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum* (106:8 = 15 = 21 = 31; Gradual / Alleluia verse — missa Epi2-0, Sancti 02-22, 06-30, 10-20, Commune Coronatio, horas C4b) | *Que as suas misericórdias deem graças ao Senhor: * e as suas maravilhas, aos filhos dos homens* | open — Ps 106 (v2); misericórdiæ nominative, the subject (DRB); see the confitéri row. |
+
+1533 | *Exáltent eum in ecclésia plebis: * et in cáthedra seniórum laudent eum* (106:32 without *Et*; the Gradual of St Peter's Chair, missa Sancti 02-22, and of the Common of Popes, C4b, Coronatio; V. *Exáltent eum in Ecclésia plebis*) | *Exaltem-no na assembleia do povo: * e o louvem na cátedra dos anciãos* | open — Ps 106 (v2); read alone; in the psalm *E o exaltem*. |
+
+1537 | *V. Potens in terra erit semen ejus. R. Generátio rectórum benedicétur* (111:2; versicle of the Commons, C4 and others — grep) | *Poderosa na terra será a sua descendência: * a geração dos retos será bendita* | open — Ps 111; each colon reads alone |
+
+1541 | *Laudáte, púeri, Dóminum: laudáte nomen Dómini* (112:1; Alleluia of the Holy Innocents, missa 12-28; Masses 01-31, 10-03, 07-10 with 112:9, Pasc0-6; horas SanctiM/02-10 — grep) | *Louvai, meninos, o Senhor: * louvai o nome do Senhor* | open — Ps 112 (*servos* option, for Gustavo) |
+
+1543 | *Excélsus super omnes gentes Dóminus* (112:4a; versicle, Psalterium/Special/Major Special — grep) | *Excelso é o Senhor sobre todas as nações* | open — Ps 112 |
+
+1544 | *Súscitans a terra ínopem, et de stércore érigens páuperem* (112:7; a versicle, alone and with 112:8 — grep) | *Ele levanta da terra o carente, * e do esterco ergue o pobre* | open — Ps 112 (the gerunds *Levantando … erguendo* option) |
+
+1546 | *Laudáte * Dóminum omnes gentes* · *Laudáte * Dóminum quóniam confirmáta est super nos misericórdia ejus* (116:1a, 116:1a + 116:2a; the antiphons of Monday Lauds, Psalmi major [Day1 Laudes1/2]; *Laudáte * Dóminum omnes Gentes* at Vespers before 1911 and in the Cistercian office) · the whole psalm is customary at Benediction (not checked in DO) | *Louvai * o Senhor, todas as nações* · *Louvai * o Senhor, porque se firmou sobre nós a sua misericórdia* | open — Ps 116; each reads alone |
+
+1547 | *Quid retríbuam Dómino, pro ómnibus, quæ retríbuit mihi? Cálicem salutáris accípiam: et nomen Dómini invocábo* (115:3–4; the priest's communion in the Tridentine Ordo; Sacred Heart antiphon *Quid retríbuam * Dómino*; Maundy Thursday antiphon *Cálicem * salutáris accípiam*; Corpus Christi *Cálicem salutáris * accípiam: et sacrificábo hóstiam laudis*) · *Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis* (Apostles, C1) · *Pretiósa in conspéctu Dómini (mors sanctórum ejus)* (
+
+1552 | *Adjutórium nostrum in nómine Dómini. R. Qui fecit cælum et terram* (123:8; the versicle of the Ordo Missæ, Prime, Compline and blessings — Prayers.txt, missa Ordo.txt; Vespers antiphon *Adjutórium nostrum * in nómine Dómini*, Psalmi major; 123:7b–8 the Alleluia verse of 12-28 and C3a — grep) | *O nosso auxílio está no nome do Senhor. R. Que fez o céu e a terra.* | working — Ps 123; the Brazilian versicle word for word (CNBB Liturgia das Horas and Lectionary; the bishop's blessing — fetch
+
+1554 | *Non confundétur * cum loquétur inimícis suis in porta* (126:5; Vespers antiphon, DO Psalmi major [Daya3 Vespera]) · *Dóminus ædíficet * nobis domum, et custódiat civitátem* ([Day2 Vespera]; adapted from 126:1) | *Não será envergonhado * quando falar aos seus inimigos à porta* · *O Senhor edifique * para nós a casa, e guarde a cidade* (the adapted antiphon not yet translated elsewhere; this wording proposed) | open — Ps 126 |
+
+1555 | *Sæpe expugnavérunt me a juventúte mea* (128:1–2; the Vespers antiphon *Sæpe * expugnavérunt me a juventúte mea*, Psalmi major Daya3 / Monastic feria 2; the Tract of Passion Sunday, Quad5-0, 128:1–4 — grep) | *Muitas vezes me combateram desde a minha juventude* | open — Ps 128; reads alone |
+

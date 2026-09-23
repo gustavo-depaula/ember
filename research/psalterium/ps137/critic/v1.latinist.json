@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "a62eb677fd8c29a4f16664705350096446002119bb3fd1238071f956535febae",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T09:07:36+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation is adequate throughout: tenses are preserved, including the perfect 'extendisti' among the futures in v. 7 and the perfect 'audierunt' in v. 4. The jussives (confiteantur, cantent) and the prohibition 'ne despicias' keep their mood, and the only additions are permitted ones, the copulas in vv. 6 and 8 and 'voltado para' for 'ad templum'. The pointing marks match the Latin in every verse, in the same order.\"}\n"
+}
