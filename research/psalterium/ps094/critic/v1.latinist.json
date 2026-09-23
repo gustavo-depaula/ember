@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "4d6dd7ce2973534fb70a32b0b5f39824a9c55769c327291a2640b7296a518df7",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:47:54+00:00",
+  "reply": "{\"verses\": [{\"id\": \"94:2\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in confessióne\", \"portuguese\": \"com ação de graças\", \"problem\": \"Confessio in the Psalter is praise/acknowledgement of God (LXX exomologesis); 'ação de graças' narrows it to thanksgiving, a sense the Latin word does not name.\", \"fix\": \"Adiantemo-nos à sua face com louvor:\"}]}, {\"id\": \"94:10\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Si introíbunt in réquiem meam\", \"portuguese\": \"Não entrarão no meu repouso\", \"problem\": \"The Latin keeps the Hebraic oath formula 'si' (= 'they shall not'); the translation resolves it into a plain negative. The sense is correct, but the project rule keeps Septuagintal oddities rather than smoothing them; if a literal rendering is judged unintelligible, the current reading is defensible.\", \"fix\": \"Se entrarão no meu repouso!\"}]}], \"overall\": \"A faithful, close translation: no additions or omissions, tenses and persons preserved, and the pointing marks match the Latin's in every verse. The only points are 'confessio' narrowed to 'ação de graças' and the oath formula 'si introibunt' resolved into a plain negative, both defensible.\"}\n"
+}

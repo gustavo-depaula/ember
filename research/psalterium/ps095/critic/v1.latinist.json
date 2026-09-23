@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "6aef37679922dbdcaf3ecb23f3b208cf516ccf27672f5abfc065713bf2f81bf9",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:47:22+00:00",
+  "reply": "{\"verses\": [{\"id\": \"95:8\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Tóllite hóstias\", \"portuguese\": \"Erguei vítimas\", \"problem\": \"'Tollite' here is 'take up / take and bring' (LXX ἄρατε, 'bring an offering'); 'erguei' can do this, but it tends to suggest only lifting the victims into the air, not taking them up to carry into the courts.\", \"fix\": \"Tomai vítimas, e entrai nos seus átrios: * adorai o Senhor no seu átrio santo.\"}]}], \"overall\": \"The translation follows the Latin closely throughout. It keeps the Septuagintal readings ('demônios', 'corrigiu o mundo, que não será abalado', 'famílias das nações', 'confissão e beleza'), and nothing is added or dropped. The pointing marks match the Latin in every verse. My only note is a minor one on the verb for 'tollite'.\"}\n"
+}

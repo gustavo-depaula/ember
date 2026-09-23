@@ -1,0 +1,551 @@
+{
+  "psalm": 95,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "95:1": "Cantai ao Senhor um cântico novo: * cantai ao Senhor, toda a terra.",
+    "95:2": "Cantai ao Senhor, e {benedicite}: * anunciai de dia em dia a sua salvação.",
+    "95:3": "Anunciai entre as nações a sua glória, * entre todos os povos as suas maravilhas.",
+    "95:4": "Porque grande é o Senhor, e muito digno de louvor: * é terrível {super} todos os deuses.",
+    "95:5": "Porque todos os deuses das nações são {daemonia}: * o Senhor, porém, fez os céus.",
+    "95:6": "{confessio} estão {conspectu}: * {sanctimonia} {sanctificatio}.",
+    "95:7": "Trazei ao Senhor, ó {patriae} das nações, trazei ao Senhor glória e honra: * trazei ao Senhor glória ao seu nome.",
+    "95:8": "{tollite} vítimas, e entrai nos seus átrios: * adorai o Senhor no seu átrio santo.",
+    "95:9": "{commoveatur9} {afacie9} toda a terra: * dizei entre as {regnavit}.",
+    "95:10": "Pois ele {correxit} o mundo, que não será abalado: * julgará os povos com equidade.",
+    "95:11": "Alegrem-se os céus, e exulte a terra: {commoveatur11} o mar, e a sua plenitude: * os campos {gaudebunt}, e tudo o que neles há.",
+    "95:12": "Então exultarão todas as árvores das {silva} {afacie12}, porque vem: * porque vem julgar a terra.",
+    "95:13": "Julgará o mundo com equidade, * e os povos {veritate}."
+  },
+  "decisions": [
+    {
+      "id": "benedicite",
+      "refs": [
+        "95:2"
+      ],
+      "latin": "benedícite nómini ejus",
+      "kind": "glossary",
+      "why": "The Latin has the dative (εὐλογήσατε τὸ ὄνομα, accusative in the Greek). The glossary row benedícere (man → God) keeps the Latin's case at no cost: accusative → *bendizei o*, dative → *bendizei ao*. Applied; MS1932's accusative is the option.",
+      "options": [
+        {
+          "label": "bendizei ao seu nome",
+          "forms": {
+            "benedicite": "bendizei ao seu nome"
+          },
+          "note": "draft — the row: the Latin's dative kept",
+          "from": "glossary"
+        },
+        {
+          "label": "bendizei o seu nome",
+          "forms": {
+            "benedicite": "bendizei o seu nome"
+          },
+          "note": "MS1932; the everyday construction, the Greek's case",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "95:4"
+      ],
+      "latin": "terríbilis est super omnes deos",
+      "kind": "word",
+      "why": "*super* here is rank (ἐπὶ πάντας τοὺς θεούς; DRB 'above all gods'; MS1932 turns it into a comparative, *mais terrível que*). *sobre* is the Latin's word, but *terrível sobre* can be heard as 'terrible against / towards'; *acima de* says the rank plainly. The copula *é* is the Latin's own (*est*); the subject stays implied, carried from the first colon. Ps 94:3 (*Rex magnus super omnes deos*) and 96:9 (*super omnes deos*) are being or will be translated elsewhere; whichever word stands should be one in all three.",
+      "options": [
+        {
+          "label": "acima de",
+          "forms": {
+            "super": "acima de"
+          },
+          "note": "draft — rank, heard at once",
+          "from": "draft"
+        },
+        {
+          "label": "sobre",
+          "forms": {
+            "super": "sobre"
+          },
+          "note": "the Latin's preposition; DRB 'above'",
+          "from": "DRB"
+        },
+        {
+          "label": "mais que",
+          "forms": {
+            "super": "mais que"
+          },
+          "note": "MS1932's comparative (*mais terrível que todos os deuses*) — it turns the preposition into a comparison",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "daemonia",
+      "refs": [
+        "95:5"
+      ],
+      "latin": "omnes dii géntium dæmónia",
+      "kind": "word",
+      "why": "The Latin and the Greek say *demons* (δαιμόνια); the Hebrew says 'nothings / idols'. Rule 1: the Latin. *demônios* is DRB's 'devils' and MS1932's word, and the same word as 90:6 *o demônio do meio-dia*. The copula *são* is supplied (grammar).",
+      "options": [
+        {
+          "label": "demônios",
+          "forms": {
+            "daemonia": "demônios"
+          },
+          "note": "draft — the Latin's word; MS1932, DRB",
+          "from": "draft"
+        },
+        {
+          "label": "ídolos",
+          "forms": {
+            "daemonia": "ídolos"
+          },
+          "note": "the Hebrew's sense — refused under rule 1; shown so that the difference is visible",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confessio",
+      "refs": [
+        "95:6"
+      ],
+      "latin": "Conféssio, et pulchritúdo",
+      "kind": "glossary",
+      "why": "The noun *conféssio* is left open by D5 and the glossary names 95:6 as a place where *ação de graças* does not fit (what stands before God here is an attribute, beside beauty, not the people's thanks). ἐξομολόγησις is the noun of the verb D5 renders *dar graças*. *Louvor* (MS1932, DRB 'praise') is refused because this psalm spends *louvor* on *laudábilis* two verses earlier (95:4 *muito digno de louvor*) — two Latin roots would become one. *Confissão* keeps the Latin's word and its open range: the praise confessed and the sin confessed (the second is the reading an old commentator is remembered for — Augustine's 'Do you love beauty? Confess' — cited from memory, NOT verified). Its cost: a Brazilian hears the sacrament first. The nouns go without articles, as the Latin's two pairs do (a litany of attributes); MS1932 supplies them. Ruling: *Confissão*, for Gustavo's ear. 103:1 *Confessiónem et decórem induísti* is the twin and should decide with this.",
+      "options": [
+        {
+          "label": "Confissão",
+          "forms": {
+            "confessio": "Confissão e beleza",
+            "sanctimonia": "santidade e magnificência"
+          },
+          "note": "draft — the Latin's word; keeps both senses the Latin leaves open",
+          "from": "draft"
+        },
+        {
+          "label": "Ação de graças",
+          "forms": {
+            "confessio": "Ação de graças e beleza",
+            "sanctimonia": "santidade e magnificência"
+          },
+          "note": "D5's family (dar graças); narrows to thanks, and the glossary itself says it does not fit here",
+          "from": "glossary"
+        },
+        {
+          "label": "Louvor",
+          "forms": {
+            "confessio": "Louvor e beleza",
+            "sanctimonia": "santidade e magnificência"
+          },
+          "note": "MS1932, DRB 'praise'; collides with laudábilis → digno de louvor in 95:4",
+          "from": "MS1932"
+        },
+        {
+          "label": "A confissão e a beleza",
+          "forms": {
+            "confessio": "A confissão e a beleza",
+            "sanctimonia": "a santidade e a magnificência"
+          },
+          "note": "the articles supplied in both colons, as MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "95:6"
+      ],
+      "latin": "in conspéctu ejus",
+      "kind": "glossary",
+      "why": "The glossary's *conspéctus* row is open: *à vista de* (Ps 5:9, 14:4a) or *na sua presença* (21:28b, 21:30, 49:3b — the same *in conspéctu ejus*). With a verbless copula (*estão*), *estão à vista dele* is heard as 'are visible to him'; *na sua presença* says where they stand. The Latin repeats *in … ejus* across the colons (*in conspéctu ejus … in sanctificatióne ejus*) and so does the Portuguese (*na sua presença … na sua santificação*).",
+      "options": [
+        {
+          "label": "na sua presença",
+          "forms": {
+            "conspectu": "na sua presença"
+          },
+          "note": "draft — as 21:28b, 49:3b",
+          "from": "draft"
+        },
+        {
+          "label": "à vista dele",
+          "forms": {
+            "conspectu": "à vista dele"
+          },
+          "note": "the conspéctus row's proposal (5:9, 14:4a); keeps the seeing",
+          "from": "glossary"
+        },
+        {
+          "label": "diante dele",
+          "forms": {
+            "conspectu": "diante dele"
+          },
+          "note": "MS1932, DRB 'before him'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sanctificatio",
+      "refs": [
+        "95:6"
+      ],
+      "latin": "in sanctificatióne ejus",
+      "kind": "word",
+      "why": "ἐν τῷ ἁγιάσματι αὐτοῦ — the Greek word is the holy place, and DRB and MS1932 both say sanctuary. But the Latin chose *sanctificátio*, the act or state of hallowing, not *sanctuárium*; 77:54 already keeps it as *o monte da sua santificação* (the same Greek), so the Latin's word stands and the place is left for the ear to find. *sanctimónia* (ἁγιωσύνη, the Greek of 29:5 *sanctitátis* → *santidade*) takes *santidade* by D15's Greek test.",
+      "options": [
+        {
+          "label": "na sua santificação",
+          "forms": {
+            "sanctificatio": "na sua santificação"
+          },
+          "note": "draft — the Latin's word; = 77:54",
+          "from": "draft"
+        },
+        {
+          "label": "no seu santuário",
+          "forms": {
+            "sanctificatio": "no seu santuário"
+          },
+          "note": "the Greek's sense; DRB, MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "patriae",
+      "refs": [
+        "95:7"
+      ],
+      "latin": "pátriæ géntium",
+      "kind": "word",
+      "why": "*pátria* here is not the fatherland but the clan: αἱ πατριαὶ τῶν ἐθνῶν, the same Greek as 21:28b *univérsæ famíliæ géntium* → *todas as famílias das nações* (read in consult/parallels/ps021.md). By D15's test the two Latin words share a Portuguese word. MS1932 *ó famílias das nações*, DRB 'kindreds of the Gentiles'. *ó* before the vocative as 28:1 *ó filhos de Deus*. The rest of the verse copies the formula of 28:2 (glossary row *Afférte Dómino*), as the row asks.",
+      "options": [
+        {
+          "label": "famílias",
+          "forms": {
+            "patriae": "famílias"
+          },
+          "note": "draft — = 21:28b, one Greek word; MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "linhagens",
+          "forms": {
+            "patriae": "linhagens"
+          },
+          "note": "keeps pátria apart from família; DRB 'kindreds'",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "tollite",
+      "refs": [
+        "95:8"
+      ],
+      "latin": "Tóllite hóstias",
+      "kind": "word",
+      "why": "ἄρατε θυσίας — the same Greek imperative as 23:7 *Attóllite portas* → *Erguei … as vossas portas*; by D15's test one Portuguese verb. It keeps the image of lifting the offering. MS1932 *Tomai vítimas*, but *tomar* already renders *súmere* in 80:3 *Súmite psalmum → Tomai um salmo* (λάβετε, another Greek verb). *Trazei* is refused: the Latin has just changed verbs (*afférte* → *tóllite*). *hóstia → vítima* (glossary row, open: the cognate is heard as the Host).",
+      "options": [
+        {
+          "label": "Erguei",
+          "forms": {
+            "tollite": "Erguei"
+          },
+          "note": "draft — = 23:7, one Greek verb",
+          "from": "draft"
+        },
+        {
+          "label": "Tomai",
+          "forms": {
+            "tollite": "Tomai"
+          },
+          "note": "MS1932; merges with súmere (80:3)",
+          "from": "MS1932"
+        },
+        {
+          "label": "Levai",
+          "forms": {
+            "tollite": "Levai"
+          },
+          "note": "DRB 'Bring up'; *levar* is addúcere's (D42)",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "commoveatur",
+      "refs": [
+        "95:9",
+        "95:11"
+      ],
+      "latin": "Commoveátur … commoveátur mare",
+      "kind": "glossary",
+      "why": "*commovéri → ser abalado* (glossary; one Greek, σαλεύω), and 95:10 *qui non commovébitur → que não será abalado* keeps the passive. The two jussives take the pronominal form of the same verb, *abale-se*: it is lighter than *seja abalada / seja abalado*, puts the verb first as the Latin does, and needs no gendered participle. The Latin says the same thing three times in three verses; so does the Portuguese. MS1932 *Trema … comova-se* are other verbs.",
+      "options": [
+        {
+          "label": "Abale-se",
+          "forms": {
+            "commoveatur9": "Abale-se",
+            "commoveatur11": "abale-se"
+          },
+          "note": "draft — the row's verb, pronominal",
+          "from": "draft"
+        },
+        {
+          "label": "Seja abalada / seja abalado",
+          "forms": {
+            "commoveatur9": "Seja abalada",
+            "commoveatur11": "seja abalado"
+          },
+          "note": "the row's passive, as 95:10",
+          "from": "glossary"
+        },
+        {
+          "label": "Estremeça",
+          "forms": {
+            "commoveatur9": "Estremeça",
+            "commoveatur11": "estremeça"
+          },
+          "note": "another verb (MS1932 *Trema*); breaks the psalm's threefold verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "afacie",
+      "refs": [
+        "95:9",
+        "95:12"
+      ],
+      "latin": "a fácie ejus … a fácie Dómini",
+      "kind": "glossary",
+      "why": "ἀπὸ προσώπου / πρὸ προσώπου. The face is kept (rule 5; row *fácies*, and 17:43, 34:5, 41:3, 82:14 *diante da face de*). Both places the same, as the Latin. *da face dele* (the row *a fácie → da face de*, used after verbs of flight) would be heard here as the earth being shaken off his face. 95:12 runs about two syllables over the Latin with it; accepted. Ps 67 used *à face de* (shorter; *A terra foi abalada … à face do Deus do Sinai*, 67:9) — the option.",
+      "options": [
+        {
+          "label": "diante da face",
+          "forms": {
+            "afacie9": "diante da sua face",
+            "afacie12": "diante da face do Senhor"
+          },
+          "note": "draft — as 17:43, 41:3",
+          "from": "draft"
+        },
+        {
+          "label": "à face",
+          "forms": {
+            "afacie9": "à sua face",
+            "afacie12": "à face do Senhor"
+          },
+          "note": "Ps 67:9's form; shorter",
+          "from": "glossary"
+        },
+        {
+          "label": "à vista",
+          "forms": {
+            "afacie9": "à sua vista",
+            "afacie12": "à vista do Senhor"
+          },
+          "note": "MS1932 in 95:12; loses the face",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "regnavit",
+      "refs": [
+        "95:9"
+      ],
+      "latin": "dícite in géntibus quia Dóminus regnávit",
+      "kind": "grammar",
+      "why": "The Latin's *quia* makes it reported speech; the Greek has none (εἴπατε … ὁ κύριος ἐβασίλευσεν, direct). Rule 1: the Latin → *que*. *Dóminus regnávit → o Senhor reinou* is the formula of 92:1a (glossary), the Latin's perfect (DRB 'hath reigned'); MS1932 has *reina*.",
+      "options": [
+        {
+          "label": "que o Senhor reinou",
+          "forms": {
+            "regnavit": "nações que o Senhor reinou"
+          },
+          "note": "draft — the Latin's quia; = 92:1a",
+          "from": "draft"
+        },
+        {
+          "label": "nações: O Senhor reinou",
+          "forms": {
+            "regnavit": "nações: O Senhor reinou"
+          },
+          "note": "direct speech, the Greek's build; the formula heard whole",
+          "from": "draft"
+        },
+        {
+          "label": "que o Senhor reina",
+          "forms": {
+            "regnavit": "nações que o Senhor reina"
+          },
+          "note": "MS1932's present; against 92:1a",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "correxit",
+      "refs": [
+        "95:10"
+      ],
+      "latin": "Étenim corréxit orbem terræ",
+      "kind": "word",
+      "why": "*corrígere → corrigir* (glossary row *corrípere* names 95:10 for it; 17:36b). Lewis & Short: 'to make straight, set right, bring into order', mostly 'to amend'; the Greek κατώρθωσεν is 'set upright, establish'. *corrigiu* keeps the Latin's word and its moral overtone; its cost is that the ear hears 'amended' before 'set straight'. *endireitou* is the literal image, but *endireitar* is held for *dirígere* (D22). *firmou* (MS1932) is *firmáre*'s, and 92:1b has that verb in this very phrase (*Pois ele firmou o mundo, que não será abalado*) — the two psalms differ in the Latin at exactly this word, so they differ here. *Pois ele* as 92:1b (étenim row; the subject named). *orbis terræ → o mundo* (D30).",
+      "options": [
+        {
+          "label": "corrigiu",
+          "forms": {
+            "correxit": "corrigiu"
+          },
+          "note": "draft — the Latin's word; DRB 'corrected'",
+          "from": "draft"
+        },
+        {
+          "label": "endireitou",
+          "forms": {
+            "correxit": "endireitou"
+          },
+          "note": "the root image and the Greek's; collides with dirígere (D22)",
+          "from": "draft"
+        },
+        {
+          "label": "firmou",
+          "forms": {
+            "correxit": "firmou"
+          },
+          "note": "MS1932; firmáre's (92:1b) — would erase the difference between the two psalms",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "gaudebunt",
+      "refs": [
+        "95:11"
+      ],
+      "latin": "gaudébunt campi",
+      "kind": "word",
+      "why": "One verse has three verbs of joy: *læténtur* (εὐφραινέσθωσαν) → *alegrem-se*, *exsúltet* (ἀγαλλιάσθω) → *exulte*, *gaudébunt* (χαρήσεται) → a third word, because the Greek is a third verb too (D15's test). *regozijar-se* is free (the gáudium row lists *regozijo* as unused). MS1932 has *alegrar-se-ão*, which merges it with *lætári* two cola earlier. The subject first, then the verb (*os campos se regozijarão*): natural order, no mesóclise.",
+      "options": [
+        {
+          "label": "se regozijarão",
+          "forms": {
+            "gaudebunt": "se regozijarão"
+          },
+          "note": "draft — a third verb for a third Latin (and Greek) verb",
+          "from": "draft"
+        },
+        {
+          "label": "se alegrarão",
+          "forms": {
+            "gaudebunt": "se alegrarão"
+          },
+          "note": "MS1932; merges gaudére with lætári",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "silva",
+      "refs": [
+        "95:12"
+      ],
+      "latin": "ómnia ligna silvárum",
+      "kind": "glossary",
+      "why": "*lignum → árvore* (glossary, open; 1:3 — it names 95:12) and *silva → selva* (D44; MS1932 *árvores das selvas*, word for word). Two readers have heard *selva* as jungle (73:6, 82:15), and the row is flagged for the coordinator; applied as settled until it is ruled.",
+      "options": [
+        {
+          "label": "selvas",
+          "forms": {
+            "silva": "selvas"
+          },
+          "note": "draft — D44; MS1932",
+          "from": "glossary"
+        },
+        {
+          "label": "matas",
+          "forms": {
+            "silva": "matas"
+          },
+          "note": "the everyday word; the stylist's at 73:6",
+          "from": "stylist"
+        },
+        {
+          "label": "florestas",
+          "forms": {
+            "silva": "florestas"
+          },
+          "note": "the Ps 82 stylist's word",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "veritate",
+      "refs": [
+        "95:13"
+      ],
+      "latin": "et pópulos in veritáte sua",
+      "kind": "ambiguity",
+      "why": "*sua* is reflexive: the truth is the judge's. *na sua verdade* after *os povos* can be heard as the peoples' own truth; *dele* would fix it at the cost of an awkward cadence. *in veritáte → na … verdade* is the glossary's form (53:7 *na vossa verdade*); MS1932 *segundo a sua verdade* interprets the preposition. Kept the plain form for the readers to test. 9:8b (*julgará o mundo com equidade*) is copied in the first colon.",
+      "options": [
+        {
+          "label": "na sua verdade",
+          "forms": {
+            "veritate": "na sua verdade"
+          },
+          "note": "draft — the row's form",
+          "from": "draft"
+        },
+        {
+          "label": "na verdade dele",
+          "forms": {
+            "veritate": "na verdade dele"
+          },
+          "note": "the owner named; heavier cadence",
+          "from": "draft"
+        },
+        {
+          "label": "segundo a sua verdade",
+          "forms": {
+            "veritate": "segundo a sua verdade"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "95:1": "*cantáre → cantar*, *cánticum novum → cântico novo* as 32:3, 39:4. The vocative *omnis terra → toda a terra* without *ó*, as the Latin.",
+    "95:2": "*annuntiáre → anunciar* (D41), *de die in diem → de dia em dia* (row, 60:9), *salutáre → salvação* (D6).",
+    "95:3": "The second colon has no verb, as the Latin; *anunciai … entre as nações* as 9:12. *mirabília → maravilhas*.",
+    "95:4": "The first colon is the formula of 47:2 (*Grande é o Senhor, e muito digno de louvor*, settled D43), with *Porque* for *Quóniam*.",
+    "95:5": "*Dóminus autem → o Senhor, porém,* (26:10's placing of *autem*).",
+    "95:6": "*pulchritúdo → beleza* (row decor: kept apart from *esplendor* for exactly this verse and 103:1); *sanctimónia → santidade* (ἁγιωσύνη = 29:5 *sanctitátis*); *magnificéntia → magnificência* (row, open; unknown to two blind readers, kept).",
+    "95:7": "Copies the formula of 28:1–2 (*Trazei ao Senhor … glória e honra … trazei ao Senhor glória ao seu nome*) as the glossary row asks.",
+    "95:8": "The second colon copies 28:2 (*adorai o Senhor no seu átrio santo*), word for word as the Latin; *átrio* is the Latin's word (unknown to three blind readers, kept by the row). *introíte → entrai* (safe: *entrai* ≠ *entrei*).",
+    "95:12": "*quia venit … quóniam venit → porque vem … porque vem*: the Latin varies the conjunction, the Greek repeats ὅτι; the doubled *porque vem* is the psalm's climax and is kept. *exsultáre → exultar*.",
+    "95:13": "First colon = 9:8b *julgará o mundo com equidade* (twin, D30). *æquitas → equidade* (row; 66:5 *julgais os povos com equidade* is 95:10's second colon)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps095.md (no Diurnal section for this psalm) and the glossary. Formulas copied: 28:1–2 (95:7), 28:2 (95:8b), 47:2 (95:4a), 92:1a *o Senhor reinou* (95:9), 92:1b *Pois ele … o mundo, que não será abalado* (95:10a), 9:8b (95:13a). Hard readings: *conféssio* (open noun, D5), *sanctificátio* (sanctuary in the Greek), *corréxit* (against 92:1b *firmávit*), *tóllite* (Greek = 23:7). Words decided by D15's Greek test: pátriæ = famíliæ (21:28b), sanctimónia = sanctitas (29:5), tóllere = attóllere (23:7), gaudére ≠ lætári."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 95:6b −4 and 95:8 −5/−3 (Latin polysyllables — sanctificatióne, introíte, átria — against short Portuguese words; each colon still one breath, nothing to add that the Latin has); 95:11b +3 (*se regozijarão*, the third verb of joy — see gaudebunt); 95:12 +3/−3 (the face kept, *diante da face do Senhor*; *à face* is the shorter option); rhyme *equidade / verdade* in 95:13 — the Latin has the same echo (*æquitáte / veritáte*), so it stays."
+    }
+  ]
+}

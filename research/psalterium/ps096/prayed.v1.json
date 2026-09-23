@@ -1,0 +1,534 @@
+{
+  "psalm": 96,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "96:1": "O Senhor {regnavit}, exulte a terra: * alegrem-se {insulae}.",
+    "96:2": "Nuvem e {caligo} estão ao seu redor: * justiça e juízo são {correctio} do seu trono.",
+    "96:3": "Um fogo {praecedet}, * e {inflammabit} ao redor os seus inimigos.",
+    "96:4": "Os seus relâmpagos iluminaram o mundo: * a terra viu, e se abalou.",
+    "96:5": "Os montes, como cera, {fluxerunt} {afacie1}: * {afacie2}{omnisterra}.",
+    "96:6": "Os céus anunciaram a sua justiça: * e todos os povos viram a sua glória.",
+    "96:7": "Sejam envergonhados todos os que adoram {sculptilia}: * e os que se gloriam nos seus {simulacra}.",
+    "96:7b": "Adorai-o, vós, todos os seus anjos: * {sion}.",
+    "96:8": "E exultaram as filhas de Judá, * por causa dos vossos juízos, Senhor:",
+    "96:9": "Porque vós sois o Senhor altíssimo sobre toda a terra: * sois {nimis} sobre todos os deuses.",
+    "96:10": "Vós que amais o Senhor, odiai o mal: * o Senhor guarda as almas dos seus santos, {liberabit}.",
+    "96:11": "{lux} para o justo, * e a alegria para os retos de coração.",
+    "96:12": "Alegrai-vos, ó justos, no Senhor: * e dai graças à memória da sua {sanctificatio}."
+  },
+  "decisions": [
+    {
+      "id": "regnavit",
+      "refs": [
+        "96:1"
+      ],
+      "latin": "Dóminus regnávit",
+      "kind": "glossary",
+      "why": "The formula opens Pss 92, 96 and 98. Ps 92 ruled the Latin's perfect (*O Senhor reinou*, following the Greek aorist ἐβασίλευσεν; DRB 'hath reigned', MS1932 *é rei* here but *reinou* at 92:1) and asked Pss 96 and 98 to open the same way (glossary row 92:1a). Copied.",
+      "options": [
+        {
+          "label": "reinou",
+          "forms": {
+            "regnavit": "reinou"
+          },
+          "note": "the Latin's perfect; the Ps 92 formula",
+          "from": "glossary"
+        },
+        {
+          "label": "é rei",
+          "forms": {
+            "regnavit": "é rei"
+          },
+          "note": "MS1932 at this verse: the state, not the act; interprets the aorist",
+          "from": "MS1932"
+        },
+        {
+          "label": "reina",
+          "forms": {
+            "regnavit": "reina"
+          },
+          "note": "the Hebrew family's present; the Latin does not say it"
+        }
+      ]
+    },
+    {
+      "id": "insulae",
+      "refs": [
+        "96:1"
+      ],
+      "latin": "læténtur ínsulæ multæ",
+      "kind": "word",
+      "why": "*multæ* is a plain 'many'; the Latin has no article. *as muitas ilhas* is the plain word in natural order; MS1932 has *as numerosas ilhas*. Without the article (*alegrem-se muitas ilhas*) Portuguese hears 'a good number of islands (but not all)', a restriction the Latin does not make.",
+      "options": [
+        {
+          "label": "as muitas ilhas",
+          "forms": {
+            "insulae": "as muitas ilhas"
+          },
+          "note": "draft — the plainer of two faithful words",
+          "from": "draft"
+        },
+        {
+          "label": "as numerosas ilhas",
+          "forms": {
+            "insulae": "as numerosas ilhas"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "muitas ilhas",
+          "forms": {
+            "insulae": "muitas ilhas"
+          },
+          "note": "no article, as the Latin; heard as 'a number of islands'"
+        }
+      ]
+    },
+    {
+      "id": "caligo",
+      "refs": [
+        "96:2"
+      ],
+      "latin": "Nubes, et calígo",
+      "kind": "glossary",
+      "why": "The glossary row *calígo → névoa escura* (17:10, γνόφος — the same Greek here) named this verse as its next place, beside *nubes → nuvem*. *trevas* is *ténebræ*'s; *escuridão* (MS1932) is plainer but loses the mist the Latin word holds. *Nubes* is singular in the Latin and stays so.",
+      "options": [
+        {
+          "label": "névoa escura",
+          "forms": {
+            "caligo": "névoa escura"
+          },
+          "note": "the glossary row (17:10)",
+          "from": "glossary"
+        },
+        {
+          "label": "escuridão",
+          "forms": {
+            "caligo": "escuridão"
+          },
+          "note": "MS1932; plainer, loses the mist",
+          "from": "MS1932"
+        },
+        {
+          "label": "treva",
+          "forms": {
+            "caligo": "treva"
+          },
+          "note": "collides with ténebræ → trevas"
+        }
+      ]
+    },
+    {
+      "id": "correctio",
+      "refs": [
+        "96:2"
+      ],
+      "latin": "corréctio sedis ejus",
+      "kind": "word",
+      "why": "*Corréctio* is the Latin's calque of κατόρθωσις, 'a setting upright, establishment' (DRB 'the establishment of his throne'); Lewis & Short has only 'amendment, correction'. The cognate *correção* would be heard as the throne being corrected — a wrong first hearing. *firmeza* keeps the upright, established throne without interpreting it into a building part; *base* (MS1932) turns it into a foundation (that is 88:15's *præparátio*, and the Hebrew's מְכוֹן). *retidão* is taken by *diréctio*.",
+      "options": [
+        {
+          "label": "a firmeza",
+          "forms": {
+            "correctio": "a firmeza"
+          },
+          "note": "draft — the throne set upright and established (κατόρθωσις)",
+          "from": "draft"
+        },
+        {
+          "label": "a base",
+          "forms": {
+            "correctio": "a base"
+          },
+          "note": "MS1932; a foundation — nearer the Hebrew's 'foundation'",
+          "from": "MS1932"
+        },
+        {
+          "label": "o aprumo",
+          "forms": {
+            "correctio": "o aprumo"
+          },
+          "note": "the literal 'uprightness'; in current speech 'poise, elegance'"
+        },
+        {
+          "label": "a correção",
+          "forms": {
+            "correctio": "a correção"
+          },
+          "note": "the cognate; heard as correcting the throne",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "praecedet",
+      "refs": [
+        "96:3"
+      ],
+      "latin": "Ignis ante ipsum præcédet",
+      "kind": "glossary",
+      "why": "The Ps 87 agent proposed *preceder* for the friendly transitive *præveníre* (87:14 *a minha oração vos precederá*; 58:10 to follow) and flagged that *præcédere* here would then need another word. *Ir adiante de* is the plain Portuguese for 'go before', is the Greek (πῦρ ἐναντίον αὐτοῦ προπορεύσεται) and is MS1932's wording (*O fogo irá adiante dele*); it absorbs the Latin's *ante ipsum* + *præ-* in one phrase. 88:15 *præcédent fáciem tuam* has the same Greek verb and should follow (*irão adiante da vossa face*). 84:14 *Justítia ante eum ambulábit* is the same Greek phrase but another Latin verb, and keeps its *andará diante dele*.",
+      "options": [
+        {
+          "label": "irá adiante dele",
+          "forms": {
+            "praecedet": "irá adiante dele"
+          },
+          "note": "draft — MS1932; leaves preceder to præveníre",
+          "from": "draft"
+        },
+        {
+          "label": "andará diante dele",
+          "forms": {
+            "praecedet": "andará diante dele"
+          },
+          "note": "84:14's wording for the same Greek phrase; but that is ambuláre"
+        },
+        {
+          "label": "o precederá",
+          "forms": {
+            "praecedet": "o precederá"
+          },
+          "note": "the cognate; collides with the Ps 87 proposal for præveníre",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "inflammabit",
+      "refs": [
+        "96:3"
+      ],
+      "latin": "et inflammábit in circúitu inimícos ejus",
+      "kind": "word",
+      "why": "The fire sets the enemies aflame (φλογιεῖ). The cognate *inflamará* is used for a heart catching fire at 72:21 (another Greek verb), but with persons as object current Portuguese hears 'stir them up' or a medical inflammation. *abrasar* is the fire's own verb (MS1932), *queimar* the plainest.",
+      "options": [
+        {
+          "label": "abrasará",
+          "forms": {
+            "inflammabit": "abrasará"
+          },
+          "note": "draft — MS1932; keeps the flame",
+          "from": "MS1932"
+        },
+        {
+          "label": "queimará",
+          "forms": {
+            "inflammabit": "queimará"
+          },
+          "note": "plainest; DRB 'shall burn'",
+          "from": "DRB"
+        },
+        {
+          "label": "inflamará",
+          "forms": {
+            "inflammabit": "inflamará"
+          },
+          "note": "the cognate (72:21 se inflamou); with persons heard as 'stir up'"
+        }
+      ]
+    },
+    {
+      "id": "fluxerunt",
+      "refs": [
+        "96:5"
+      ],
+      "latin": "Montes, sicut cera fluxérunt a fácie Dómini: * a fácie Dómini",
+      "kind": "word",
+      "why": "The row *flúere → escorrer* (57:9 *como a cera que escorre*; 67:3 *como escorre a cera à face do fogo*) and *a fácie → à face de* (Ps 67, seven times, the same melting-wax image) are applied, so the three wax verses of the psalter say the same thing. The Greek has 'melted' (ἐτάκησαν; MS1932 *fundiram-se*), but the Latin says 'flowed'. The repetition *a fácie Dómini … a fácie Dómini* is kept.",
+      "options": [
+        {
+          "label": "escorreram à face do Senhor",
+          "forms": {
+            "fluxerunt": "escorreram",
+            "afacie1": "à face do Senhor",
+            "afacie2": "à face do Senhor"
+          },
+          "note": "draft — the rows of 57:9 and 67:3",
+          "from": "glossary"
+        },
+        {
+          "label": "derreteram-se diante do Senhor",
+          "forms": {
+            "fluxerunt": "derreteram-se",
+            "afacie1": "diante do Senhor",
+            "afacie2": "diante do Senhor"
+          },
+          "note": "the Greek's verb (MS1932 fundiram-se … diante do Senhor); the face lost",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "omnisterra",
+      "refs": [
+        "96:5"
+      ],
+      "latin": "a fácie Dómini omnis terra",
+      "kind": "ambiguity",
+      "why": "The Latin's *omnis terra* is nominative: 'before the face of the Lord, all the earth [flowed]' — the verb is carried over from the first colon. The Greek reads a genitive, 'the Lord of all the earth' (DRB follows it); MS1932 supplies a verb (*se funde toda a terra*). The Latin's ellipsis is kept, which leaves the verb to be heard from the first colon as the Latin does; supplying *escorreu* would be allowed as grammar, but the bare colon is sayable and keeps the echo clean.",
+      "options": [
+        {
+          "label": "toda a terra (ellipsis)",
+          "forms": {
+            "omnisterra": ", toda a terra"
+          },
+          "note": "draft — the Latin's ellipsis",
+          "from": "draft"
+        },
+        {
+          "label": "escorreu toda a terra",
+          "forms": {
+            "omnisterra": " escorreu toda a terra"
+          },
+          "note": "the verb supplied (MS1932 supplies one)",
+          "from": "MS1932"
+        },
+        {
+          "label": "do Senhor de toda a terra",
+          "forms": {
+            "omnisterra": " de toda a terra"
+          },
+          "note": "the Greek's genitive, DRB; not the Latin",
+          "from": "DRB",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "sculptilia",
+      "refs": [
+        "96:7"
+      ],
+      "latin": "qui adórant sculptília",
+      "kind": "glossary",
+      "why": "77:58 *in sculptílibus suis* → *com as suas imagens esculpidas*; copied. The colon runs long (~+5 syllables) for it; *esculturas* is shorter but is heard as works of art, *ídolos* is needed for *simulácra* in the next colon.",
+      "options": [
+        {
+          "label": "imagens esculpidas",
+          "forms": {
+            "sculptilia": "imagens esculpidas"
+          },
+          "note": "77:58",
+          "from": "glossary"
+        },
+        {
+          "label": "esculturas",
+          "forms": {
+            "sculptilia": "esculturas"
+          },
+          "note": "shorter; heard as art"
+        },
+        {
+          "label": "ídolos",
+          "forms": {
+            "sculptilia": "ídolos"
+          },
+          "note": "MS1932; merges with simulácra in the next colon",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "simulacra",
+      "refs": [
+        "96:7"
+      ],
+      "latin": "in simulácris suis",
+      "kind": "glossary",
+      "why": "First place of *simulácrum* (εἴδωλον; 113:12 = 134:15 *Simulácra géntium* to come). The cognate *simulacros* (MS1932) is bookish and would need a footnote; *ídolos* is the Greek's word and the plain one. Proposed as a new glossary row.",
+      "options": [
+        {
+          "label": "ídolos",
+          "forms": {
+            "simulacra": "ídolos"
+          },
+          "note": "draft — εἴδωλα; DRB 'idols'",
+          "from": "draft"
+        },
+        {
+          "label": "simulacros",
+          "forms": {
+            "simulacra": "simulacros"
+          },
+          "note": "MS1932; the cognate, bookish",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sion",
+      "refs": [
+        "96:7b"
+      ],
+      "latin": "audívit, et lætáta est Sion",
+      "kind": "order",
+      "why": "The Latin puts *Sion* last, after both verbs. Coming straight after *Adorai-o … anjos*, a verse-initial *ouviu* leaves the ear asking who heard; the subject is moved to the head (natural order, D2). The Latin's order is an option.",
+      "options": [
+        {
+          "label": "Sião ouviu, e se alegrou",
+          "forms": {
+            "sion": "Sião ouviu, e se alegrou"
+          },
+          "note": "draft — natural order",
+          "from": "draft"
+        },
+        {
+          "label": "ouviu, e alegrou-se Sião",
+          "forms": {
+            "sion": "ouviu, e alegrou-se Sião"
+          },
+          "note": "the Latin's order"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "96:9"
+      ],
+      "latin": "nimis exaltátus es",
+      "kind": "glossary",
+      "why": "The *nimis* row has no single rendering. The nearest formula, *laudábilis nimis* (47:2 = 95:4), is settled (D43) as *muito digno de louvor*; 95:4 stands two verses before this in the Office. *muito* keeps that; *sem medida* (118:138) is closer to 'beyond measure' but adds three syllables.",
+      "options": [
+        {
+          "label": "muito",
+          "forms": {
+            "nimis": "muito exaltado"
+          },
+          "note": "draft — as 47:2 = 95:4 (D43)",
+          "from": "glossary"
+        },
+        {
+          "label": "sem medida",
+          "forms": {
+            "nimis": "exaltado sem medida"
+          },
+          "note": "118:138; 'beyond measure'"
+        }
+      ]
+    },
+    {
+      "id": "liberabit",
+      "refs": [
+        "96:10"
+      ],
+      "latin": "de manu peccatóris liberábit eos",
+      "kind": "order",
+      "why": "The Latin has no *et* and puts the verb last; kept so, which closes the long colon on the oxytone *livrará*. MS1932's mesóclise *livrá-los-á* is exact but stiff at a cadence; *e os livrará* adds a conjunction.",
+      "options": [
+        {
+          "label": "da mão do pecador os livrará",
+          "forms": {
+            "liberabit": "da mão do pecador os livrará"
+          },
+          "note": "draft — the Latin's order, no conjunction",
+          "from": "draft"
+        },
+        {
+          "label": "livrá-los-á da mão do pecador",
+          "forms": {
+            "liberabit": "livrá-los-á da mão do pecador"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "e os livrará da mão do pecador",
+          "forms": {
+            "liberabit": "e os livrará da mão do pecador"
+          },
+          "note": "a conjunction supplied"
+        }
+      ]
+    },
+    {
+      "id": "lux",
+      "refs": [
+        "96:11"
+      ],
+      "latin": "Lux orta est justo",
+      "kind": "glossary",
+      "why": "The row *oríri → nascer* (71:7; 84:12 *A verdade nasceu da terra*) names this verse. ἀνέτειλεν is the rising of a star; *nascer* is what the sun does in Portuguese (*o sol nasce*), so the image holds. Subject first, as 84:12; MS1932 has *Nasceu a luz para os justos*.",
+      "options": [
+        {
+          "label": "A luz nasceu",
+          "forms": {
+            "lux": "A luz nasceu"
+          },
+          "note": "the oríri row; subject first as 84:12",
+          "from": "glossary"
+        },
+        {
+          "label": "Nasceu a luz",
+          "forms": {
+            "lux": "Nasceu a luz"
+          },
+          "note": "MS1932's order",
+          "from": "MS1932"
+        },
+        {
+          "label": "A luz surgiu",
+          "forms": {
+            "lux": "A luz surgiu"
+          },
+          "note": "the row's option; loses the dawn"
+        }
+      ]
+    },
+    {
+      "id": "sanctificatio",
+      "refs": [
+        "96:12"
+      ],
+      "latin": "memóriæ sanctificatiónis ejus",
+      "kind": "glossary",
+      "why": "29:5 has *confitémini memóriæ sanctitátis ejus* → *dai graças à memória da sua santidade*, and its row says 96:12 should copy the colon 'with its own noun'. But the Greek of both is one word, τῆς ἁγιωσύνης αὐτοῦ (checked in consult/parallels/ps029.md and ps096.md): by D15's test the Latin's variation carries no sense to keep, and DRB says 'holiness' in both. *santificação* would say an act of making holy, which ἁγιωσύνη is not. (95:6 *in sanctificatióne ejus* is ἁγίασμα, the sanctuary — another sense; Ps 95 decides it.)",
+      "options": [
+        {
+          "label": "santidade",
+          "forms": {
+            "sanctificatio": "santidade"
+          },
+          "note": "draft — one Greek word with 29:5; the colon identical to 29:5b",
+          "from": "draft"
+        },
+        {
+          "label": "santificação",
+          "forms": {
+            "sanctificatio": "santificação"
+          },
+          "note": "the cognate; the Latin's own noun kept apart from 29:5; heard as the act of sanctifying"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "96:1": "*exsúltet / læténtur → exulte / alegrem-se* (the exsultáre / lætári row).",
+    "96:2": "Both copulas supplied (the Latin is verbless in both colons), as 92:2. *in circúitu ejus → ao seu redor* (75:12's form). *sedes → trono* (the row).",
+    "96:3": "*Ignis* without article → *Um fogo* (as 38:4 *um fogo se inflamará*); MS1932 *O fogo*. *in circúitu → ao redor* with no object, as 11:9.",
+    "96:4": "Copies 76:19 *Os vossos relâmpagos iluminaram o mundo: * a terra se abalou e estremeceu*: *fúlgura* here and *coruscatiónes* there are one Greek word (ἀστραπαί), so one Portuguese word (D15; 17:15 *relâmpagos* for *fúlgura* too). *orbis terræ → o mundo* (D30). *commóta est → se abalou* (76:19, 17:8). Subject named first in the second colon (natural order).",
+    "96:6": "Plain; natural order (subject first).",
+    "96:7": "*Confundántur → Sejam envergonhados* (D15; 34:4). The first colon runs long for *imagens esculpidas* (see decision). *gloriári in → gloriar-se em*: the row kept the verb for exactly this place (sinners' boasting).",
+    "96:7b": "*vós* supplied before the vocative, as 29:5 and 30:24 (*vós, todos os seus santos*): without it *todos os seus anjos* can be heard as the object. *ángelus → anjo*, lowercase. *Adorai-o* is safe under rule 3 (past *adorei*). The line is quoted at Heb 1:6.",
+    "96:8": "Second colon identical to 47:12b (*por causa dos vossos juízos, Senhor*); *exsultáre → exultar* as 47:12a. The psalm turns to address the Lord here (*tua*), so *vossos*.",
+    "96:9": "*tu Dóminus Altíssimus → vós sois o Senhor altíssimo*: copula supplied; lowercase adjective as 7:18 (*altíssimo Senhor*), after the noun here because the colon's cadence is on *terra*. *super … super → sobre … sobre*, the Latin's repetition kept.",
+    "96:10": "*odíte → odiai* (safe: past *odiei*). *Vós que amais* names the plural humans (D1, Ps 10:2 remedy) — the Lord is in the third person here, so no confusion with the address of 96:8–9. *sanctus (ὅσιος) → santo*; *peccátor* singular kept.",
+    "96:11": "*justo* singular kept (MS1932 pluralizes). *rectus corde → reto de coração* (the row). Order: *e a alegria para os retos de coração* — the Latin ends on *lætítia*; the natural order closes on the oxytone *coração*.",
+    "96:12": "*Lætámini, justi, in Dómino* in the Latin's order with *ó* before the vocative (31:11, 32:1 have *ó justos*). *confitéri → dar graças a* (D5). Second colon = 29:5b."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps096.md (no DM1962 section for this psalm) and the glossary. Rows applied: Dóminus regnávit (92:1a), exsultáre/lætári, calígo (17:10), in circúitu (75:12), sedes, orbis terræ (D30), commovére (76:19), flúere (57:9, 67:3), a fácie (67), confúndi (D15), gloriári in, sculptília (77:58), ángelus, 47:12b, Altíssimus, nimis (47:2, D43), odísse, custodíre, liberáre, sanctus, peccátor, oríri (84:12), rectus corde, confitéri (D5), memória / 29:5b. Hard readings: *corréctio sedis* (κατόρθωσις), *a fácie Dómini omnis terra* (nominative in the Latin, genitive in the Greek), *præcédere* against the Ps 87 proposal for *præveníre*, *sanctificátio* = ἁγιωσύνη as 29:5's *sánctitas*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 96:7 first colon +7 (imagens esculpidas, 77:58's term; still one breath — esculturas, −3, is an option); 96:11 +3 / +6 (the Latin is at its tersest; Portuguese needs articles and prepositions for the two datives); 96:2 first colon +3 (copula supplied in a verbless Latin colon, as 92:2); 96:10 second colon −5 and 96:12 second colon −4 (Latin polysyllables against Portuguese elisions). No rhyme flags."
+    }
+  ]
+}

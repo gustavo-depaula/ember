@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "a6a861208368dd2a0b4a6255facd306aa6da6c7eda6233550a99ce551cac7589",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:47:35+00:00",
+  "reply": "{\"verses\": [{\"id\": \"96:5\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"fluxerunt a facie Domini\", \"portuguese\": \"escorreram à face do Senhor\", \"problem\": \"'a facie' is 'from before / at the presence of' (ablative of source/cause); 'à face' reads more like 'in front of, facing'. Defensible, but 'diante da face' is closer. Applies to both occurrences.\", \"fix\": \"Os montes, como cera, escorreram diante da face do Senhor: * diante da face do Senhor, toda a terra.\"}]}, {\"id\": \"96:12\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"memoriae sanctificationis ejus\", \"portuguese\": \"à memória da sua santidade\", \"problem\": \"'sanctificatio' is the verbal-action noun (sanctification, hallowing), not the quality 'sanctitas'; 'santidade' flattens it slightly.\", \"fix\": \"e dai graças à memória da sua santificação.\"}]}], \"overall\": \"A faithful rendering: tenses (praecedet, inflammabit, custodit/liberabit), the elliptical 'a facie Domini omnis terra', and 'correctio sedis' are all kept without smoothing. Only two minor closeness points; pointing marks match the Latin in every verse (a single * each, in place).\"}\n"
+}

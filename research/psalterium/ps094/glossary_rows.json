@@ -1,0 +1,71 @@
+{
+  "append": [
+    {
+      "row": "| exsultáre + dative |",
+      "text": "**Ps 94:1 *Veníte, exsultémus Dómino* → *Vinde, exultemos ao Senhor*** — ruled in the psalm against the row, and **proposed for the row: *exultar a***. Grounds: the verse is two parallel datives (*Dómino … Deo*), and *exultemos ao Senhor: aclamemos a Deus* keeps them alike where *para o Senhor … a Deus* breaks the parallel; the stylists of 2:11 and 80:2 both asked for *a*; the Invitatory is the most prayed text of the Office. Passed the Latinist twice; no stylist or ambiguity remark on it. *para o Senhor* is option 1. If ruled, 2:11 *exultai a ele* and 80:2 *Exultai a Deus* follow (until then the three places differ)."
+    },
+    {
+      "row": "| præoccupáre |",
+      "text": "**Ps 94:2 *Præoccupémus fáciem ejus* (friendly; προφθάσωμεν) → *Cheguemo-nos primeiro à sua face*** — the stylist's line (v2). Draft 1's *Adiantemo-nos à sua face* (the prævenire row's verb, one Greek) was the stylist's worst line and the ambiguity reader heard 'hurry / get ahead of him' and did not know the word. *primeiro* carries prae-. So the row has two senses: hostile *surpreender* (17:6), friendly *chegar-se primeiro* (94:2). Passed the v2 Latinist. The Septuagesima Invitatory antiphon (Quadp1-0) has the same words with *Dómini*."
+    },
+    {
+      "row": "| erráre (de) |",
+      "text": "**Ps 94:9 *Semper hi errant corde* → *Estes sempre se extraviam no coração*** — the row applied (*no coração*, not *de coração*, heard as 'sincerely'); the colon is +6; the ambiguity reader heard it rightly but listed *extraviam* as unknown. Passed the Latinist twice."
+    },
+    {
+      "row": "| salutáris (of God, in apposition) · salvátor |",
+      "text": "**Ps 94:1 *jubilémus Deo salutári nostro* → *aclamemos a Deus, nosso Salvador*** — the row applied (τῷ σωτῆρι). The stylist asked *nossa salvação* to break the *Senhor / Salvador* rhyme at the cadences; refused (salutáre's word, D6), option. Passed the Latinist twice."
+    },
+    {
+      "row": "| páscua |",
+      "text": "**Ps 94:7 *pópulus páscuæ ejus* → *o povo da sua pastagem*** — as the row foresaw; *oves manus ejus* → *as ovelhas da sua mão* (MS1932's *manada* refused as explaining the image). No reader remark."
+    },
+    {
+      "row": "| tentáre |",
+      "text": "**Ps 94:8 *tentavérunt me patres vestri, probavérunt me* → *os vossos pais me tentaram, me provaram*; *diem tentatiónis* → *o dia da tentação*** — the row applied (men tempting God). The ambiguity reader heard the noun *tentação* as the people being tempted (or Christ's temptation), and *provaram* possibly as 'tasted'; kept — the Latin *tentátio* is as open. Passed the Latinist twice."
+    },
+    {
+      "row": "| irritáre |",
+      "text": "**Ps 94:8 *Sicut in irritatióne* → *Como na provocação*** — the noun, as the row named; the ambiguity reader heard a general provocation, not the event. Passed the Latinist twice."
+    },
+    {
+      "row": "| fines (of a people) |",
+      "text": "Ps 94:4 *omnes fines terræ* → *todos os confins da terra* (= 66:7b); the ambiguity reader listed *confins* as unknown once more; kept."
+    },
+    {
+      "row": "| altitúdo |",
+      "text": "Ps 94:4 *altitúdines móntium* → *as alturas dos montes* — heard as the peaks; no remark."
+    },
+    {
+      "row": "| árida |",
+      "text": "Ps 94:5 *et siccam* (the Gallican's word; the Invitatorium wording has *áridam*; the same Greek ξηράν) → *a terra seca* — the row's words extended to *sicca*. MS1932 *a terra enxuta* option."
+    },
+    {
+      "row": "| prócidere |",
+      "text": "Ps 94:6 is not in DO's Psalm94.txt (the Epiphany form); the psalm's choices record a rendering for the missing verse by the row: *Vinde, adoremos e prostremo-nos: e choremos diante do Senhor que nos fez. * Porque ele é o Senhor nosso Deus* — unread by any critic."
+    },
+    {
+      "row": "| confitéri (to God) |",
+      "text": "**Ps 94:2 *in confessióne* → *com ação de graças*** — the noun as this row foresaw. The Latinist (v1, minor) asked *com louvor* (conféssio is praise, not only thanks); refused, option; the v2 Latinist called *ação de graças* within range."
+    },
+    {
+      "row": "| jubiláre / jubilátio / júbilus |",
+      "text": "**Ps 94:1 *jubilémus Deo* → *aclamemos a Deus*; 94:2 *in psalmis jubilémus ei* → *e com salmos o aclamemos*** — re-heard as D43 asked: no reader remarked on either."
+    }
+  ],
+  "terms": [
+    "| offénsus esse + dative (*Quadragínta annis offénsus fui generatióni illi*) | estar ofendido com (*Com aquela geração estive ofendido por quarenta anos*) | open | Ps 94:9 (προσώχθισα; L&S *offensus* 'displeased'); a lasting state. MS1932 *estive irritado contra* would take irritáre's family (94:8 *provocação*); *desgostoso* option. The first colon reordered (stylist) so *geração* does not rhyme with *coração* at the final. The ambiguity reader heard 'offended' as milder than anger. Passed the Latinist twice. Cf. 105:40 *irátus est furóre*, 77:59 (grep *offen*) |",
+    "| obduráre (*nolíte obduráre corda vestra*) | endurecer, with *nolíte* → the negative imperative (*não endureçais os vossos corações*) | open | Ps 94:7 (= Heb 3:8, 3:15; the Passiontide Invitatory antiphon). MS1932 *não queirais endurecer* option; the ambiguity reader listed *endureçais* as unknown, kept |",
+    "| réquies | repouso (*no meu repouso*) | open | Ps 94:10 (κατάπαυσιν; MS1932); *descanso* free. Cf. 131:8, 131:14 *réquies mea* (grep) |",
+    "| *si* of oath (Hebraic: *Si introíbunt* = they shall not enter) | the plain negative (*Não entrarão no meu repouso*) | open | Ps 94:10 (= Heb 3:11); the formula is grammar under D2 and a literal *Se entrarão* is not heard as an oath. The Latinist (v1 and v2, minor) asked *Se entrarão no meu repouso!* and called the negative defensible; option. Recurs 88:36 *si Davidi mentiar* (ps088 in progress), 131:3–4 *Si introíero … si dédero* — grep; one ruling wanted for all |",
+    "| secúndum (likeness: *secúndum diem tentatiónis*) | como (*como no dia da tentação*) | open | Ps 94:8 (κατὰ τὴν ἡμέραν; the Hebrew 'as on the day'); *segundo o dia* is heard as 'the second day'. Kept apart from the measuring *secúndum → segundo* (118, 47:11). MS1932 drops the word (*no dia*), option. Passed the Latinist twice |",
+    "| ut + indicative (*ut jurávi in ira mea*) | como (*como jurei na minha ira*) | open | Ps 94:10 (ὡς ὤμοσα); DRB *so I swore*, MS1932 *pelo que jurei* resolve it as consequence (options). The ambiguity reader found the link unclear — the Latin's own openness. Passed the Latinist twice |"
+  ],
+  "formulas": [
+    "| *Veníte, exsultémus Dómino: * jubilémus Deo salutári nostro* (94:1; Alleluia of Pent14-0; Introit verse of 093-6; a Dominican Invitatory antiphon, Matutinum Special *Invit 1*) | *Vinde, exultemos ao Senhor: * aclamemos a Deus, nosso Salvador* | open — Ps 94 (hangs on the exsultáre + dative row) |",
+    "| *Præoccupémus fáciem Dómini: * Et in psalmis jubilémus ei* (the Septuagesima Invitatory antiphon, Quadp1-0; 94:2 with *Dómini* for *ejus*) | *Cheguemo-nos primeiro à face do Senhor: * e com salmos o aclamemos* | open — Ps 94 |",
+    "| *Quóniam Deus magnus Dóminus, et Rex magnus super omnem terram* (Alleluia of Pent15-0; 94:3 with 46:3's *super omnem terram*) | *Porque o Senhor é grande Deus: e grande Rei sobre toda a terra* | open — Ps 94 (46:3's *grande Rei*) |",
+    "| *Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra* (the Passiontide Invitatory antiphon, Matutinum Special *Invit Quad5*; 94:7b with *Dómini*; Heb 3:7–8, 15 in Epi6-1; the Rule's prologue) | *Hoje, se ouvirdes a voz do Senhor, * não endureçais os vossos corações* | open — Ps 94 |",
+    "| *quóniam non repéllet Dóminus plebem suam* (Invitatorium.txt, the invitatory's wording after 94:3; = 93:14a with *quóniam* for *Quia*) | *porque o Senhor não repelirá o seu povo* (93:14) | open — not in the Gallican Psalm94.txt, so Ps 94 does not use it; for whoever translates Invitatorium.txt |"
+  ]
+}

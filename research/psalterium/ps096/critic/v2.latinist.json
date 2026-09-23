@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "8c098a6c45561e384bde2f324a236cb848a7a1cd0a44fc6100210054de66d908",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:49:07+00:00",
+  "reply": "{\"verses\": [{\"id\": \"96:2\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"corréctio sedis ejus\", \"portuguese\": \"a firmeza do seu trono\", \"problem\": \"Correctio (LXX katorthōsis) is the act of setting upright / establishing, not a quality; 'firmeza' turns it into a static attribute. Defensible, but 'estabelecimento' or 'retidão' stays closer to the Latin noun of action.\", \"fix\": \"justiça e juízo são o estabelecimento do seu trono.\"}]}, {\"id\": \"96:12\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"memóriæ sanctificatiónis ejus\", \"portuguese\": \"à memória da sua santidade\", \"problem\": \"Latin has sanctificatio, not sanctitas; 'santidade' is the right sense (LXX hagiōsynē) but 'santificação' keeps the Latin word the psalter chose.\", \"fix\": \"e dai graças à memória da sua santificação.\"}]}], \"overall\": \"A faithful rendering: tenses (praecedet/inflammabit future, custodit present vs liberabit future), the elliptical 'a facie Domini omnis terra' and the Septuagintal verse division of 7b/8 are all kept, and the pointing marks match the Latin in every verse. Only two minor lexical points, neither of which changes the sense.\"}\n"
+}

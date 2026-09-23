@@ -1,0 +1,467 @@
+{
+  "psalm": 94,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "hour": "Epiphany Matins, third nocturn (DO's Psalm94.txt); the daily Invitatory in DO is Invitatorium.txt, another wording",
+  "verses": {
+    "94:1": "Vinde, {exsultemus}: * aclamemos a Deus, nosso Salvador:",
+    "94:2": "{praeoccupemus} {confessione}: * e com salmos o aclamemos.",
+    "94:3": "Porque o Senhor é {deusMagnus}: * e {rexMagnus} sobre todos os deuses.",
+    "94:4": "Porque na sua mão estão todos os confins da terra: * e as alturas dos montes {ipsiusSunt}.",
+    "94:5": "Porque dele é o mar, e ele mesmo o fez: * e as suas mãos formaram {siccam}.",
+    "94:7": "E nós somos o povo da sua pastagem, e as ovelhas {manusEjus}. * Hoje, se ouvirdes a sua voz, {nolite} os vossos corações:",
+    "94:8": "Como na provocação, {secundum} da tentação no deserto: * onde os vossos pais me tentaram, me provaram, e viram as minhas obras.",
+    "94:9": "Por quarenta anos {offensus} com aquela geração, * e disse: Estes sempre {errant} no coração.",
+    "94:10": "E estes não conheceram os meus caminhos, {ut} na minha ira: * {si} no meu repouso."
+  },
+  "decisions": [
+    {
+      "id": "exsultemus",
+      "refs": [
+        "94:1"
+      ],
+      "latin": "exsultémus Dómino",
+      "kind": "glossary",
+      "why": "exsultáre with the dative (LXX ἀγαλλιασώμεθα τῷ κυρίῳ). The glossary row 'exsultáre + dative → exultar para' is open; 2:11 and 80:2 follow it, and the stylists of both psalms refused 'para' (heard as a direction of travel). The row itself flags 94:1 for a ruling. Here the verse is built on two datives, Dómino and Deo, in two parallel cola: 'exultemos ao Senhor: aclamemos a Deus' keeps the two datives alike, where 'para o Senhor … a Deus' breaks the parallel the Latin makes. 'exultar a' is not ordinary prose Portuguese (exultar takes no object), but it is heard at once as the dative of the psalms' 'cantai ao Senhor'; and this is the most prayed text of the Office. 'no Senhor' is exsultáre in (32:1) and says where the joy rests, not to whom it goes. Ruled 'ao' here; proposed in the glossary for 2:11 and 80:2 (the main session rules; until then the three places differ).",
+      "options": [
+        {
+          "label": "exultemos ao Senhor",
+          "forms": {
+            "exsultemus": "exultemos ao Senhor"
+          },
+          "note": "Ruling: the dative kept as a dative, parallel to 'aclamemos a Deus'; the Ps 2 and Ps 80 stylists' request.",
+          "from": "stylist"
+        },
+        {
+          "label": "exultemos para o Senhor",
+          "forms": {
+            "exsultemus": "exultemos para o Senhor"
+          },
+          "note": "The open glossary row, as 2:11 and 80:2 have it. Passed the Latinist in both; refused by both stylists.",
+          "from": "glossary"
+        },
+        {
+          "label": "exultemos no Senhor",
+          "forms": {
+            "exsultemus": "exultemos no Senhor"
+          },
+          "note": "MS1932 'regozijemo-nos no Senhor'; the natural Portuguese, but it is exsultáre in (32:1 'Exultai no Senhor').",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praeoccupemus",
+      "refs": [
+        "94:2"
+      ],
+      "latin": "Præoccupémus fáciem ejus",
+      "kind": "word",
+      "why": "præoccupáre, 'take beforehand, anticipate' (L&S); LXX προφθάσωμεν, the verb the Latin gives as præveníre elsewhere. The glossary's præoccupáre row (17:6) has 'surpreender', which is hostile and cannot serve here; the prævenire row has 'adiantar-se' for the intransitive (118:147 'Adiantei-me', heard rightly) and 'adiantar-se a' for God forestalling (16:13, 20:4); 87:14 has just proposed 'preceder' for the friendly transitive. 'Adiantemo-nos' keeps the 'before' and is also heard as 'let us come forward', which is the Invitatory's movement; the face stays the face. MS1932 and DRB say 'come before his presence', which loses prae-. The same words open the Septuagesima Invitatory antiphon (Quadp1-0: 'Præoccupémus fáciem Dómini: * Et in psalmis jubilémus ei').",
+      "options": [
+        {
+          "label": "Adiantemo-nos à sua face",
+          "forms": {
+            "praeoccupemus": "Adiantemo-nos à sua face"
+          },
+          "note": "Ruling: the prævenire row's verb (the same Greek), intransitive-reflexive with the face as goal.",
+          "from": "draft"
+        },
+        {
+          "label": "Precedamos a sua face",
+          "forms": {
+            "praeoccupemus": "Precedamos a sua face"
+          },
+          "note": "87:14's proposed verb for friendly præveníre; but here it can be heard as walking ahead of him.",
+          "from": "glossary"
+        },
+        {
+          "label": "Apresentemo-nos diante da sua face",
+          "forms": {
+            "praeoccupemus": "Apresentemo-nos diante da sua face"
+          },
+          "note": "MS1932 'Apresentemo-nos diante dele', DRB 'come before his presence'; plainest, loses the 'before-hand'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Antecipemo-nos à sua face",
+          "forms": {
+            "praeoccupemus": "Antecipemo-nos à sua face"
+          },
+          "note": "Closest to L&S 'anticipate', but antecipar is anticipáre's (76:5, 78:8).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confessione",
+      "refs": [
+        "94:2"
+      ],
+      "latin": "in confessióne",
+      "kind": "glossary",
+      "why": "The noun conféssio is open; the confitéri row (D5, 'dar graças') names 94:2 among the places where 'ação de graças' fits. LXX ἐν ἐξομολογήσει. MS1932 'com louvores' would take laudáre's word.",
+      "options": [
+        {
+          "label": "com ação de graças",
+          "forms": {
+            "confessione": "com ação de graças"
+          },
+          "note": "Ruling: the noun that follows D5's verb, as the confitéri row foresaw for this verse.",
+          "from": "glossary"
+        },
+        {
+          "label": "com louvor",
+          "forms": {
+            "confessione": "com louvor"
+          },
+          "note": "MS1932 'com louvores'; collides with laus / laudáre.",
+          "from": "MS1932"
+        },
+        {
+          "label": "em confissão",
+          "forms": {
+            "confessione": "em confissão"
+          },
+          "note": "The Latin's word; heard as confession of sins.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deusMagnus",
+      "refs": [
+        "94:3"
+      ],
+      "latin": "Deus magnus Dóminus … Rex magnus",
+      "kind": "order",
+      "why": "The predicate stands first in the Latin (Deus magnus, then Dóminus); Portuguese names the subject first. 46:3 has 'Rex magnus' → 'grande Rei', without article, so 94:3b copies it and 94:3a is built alike. The first colon is also the Alleluia of Pentecost XV (missa Pent15-0, with 'super omnem terram') and must read alone.",
+      "options": [
+        {
+          "label": "grande Deus … grande Rei",
+          "forms": {
+            "deusMagnus": "grande Deus",
+            "rexMagnus": "grande Rei"
+          },
+          "note": "Ruling: 46:3's 'grande Rei', and 'grande Deus' beside it.",
+          "from": "glossary"
+        },
+        {
+          "label": "um Deus grande … um Rei grande",
+          "forms": {
+            "deusMagnus": "um Deus grande",
+            "rexMagnus": "um Rei grande"
+          },
+          "note": "DRB 'a great God, and a great King'; 'grande' after the noun as the Latin has it; the article is supplied.",
+          "from": "DRB"
+        },
+        {
+          "label": "o Deus grande … o Rei grande",
+          "forms": {
+            "deusMagnus": "o Deus grande",
+            "rexMagnus": "o Rei grande"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipsiusSunt",
+      "refs": [
+        "94:4"
+      ],
+      "latin": "ipsíus sunt",
+      "kind": "word",
+      "why": "ipsíus is emphatic ('his own'), and 94:5 opens with the same word (ipsíus est mare): 'dele … dele' keeps the repetition across the two verses. 'são suas' (MS1932) is lighter and loses the echo.",
+      "options": [
+        {
+          "label": "são dele",
+          "forms": {
+            "ipsiusSunt": "são dele"
+          },
+          "note": "Ruling: echoes 94:5 'dele é o mar'.",
+          "from": "draft"
+        },
+        {
+          "label": "são suas",
+          "forms": {
+            "ipsiusSunt": "são suas"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "siccam",
+      "refs": [
+        "94:5"
+      ],
+      "latin": "siccam",
+      "kind": "word",
+      "why": "The adjective used as a noun (terram understood; LXX τὴν ξηράν). The glossary's árida row (65:6) has 'terra seca' for the same Greek; the invitatory's wording has áridam here. MS1932 'a terra enxuta'.",
+      "options": [
+        {
+          "label": "a terra seca",
+          "forms": {
+            "siccam": "a terra seca"
+          },
+          "note": "Ruling: the árida row (65:6), the same Greek.",
+          "from": "glossary"
+        },
+        {
+          "label": "a terra enxuta",
+          "forms": {
+            "siccam": "a terra enxuta"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o seco",
+          "forms": {
+            "siccam": "o seco"
+          },
+          "note": "Keeps the bare adjective; not heard as land.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "manusEjus",
+      "refs": [
+        "94:7"
+      ],
+      "latin": "oves manus ejus",
+      "kind": "word",
+      "why": "The sheep 'of his hand' (LXX χειρὸς αὐτοῦ): the flock he leads and made (his hands made the dry land in 94:5, and the word repeats). MS1932 'da sua manada' explains the image away.",
+      "options": [
+        {
+          "label": "da sua mão",
+          "forms": {
+            "manusEjus": "da sua mão"
+          },
+          "note": "Ruling: the Latin's image and its repetition from 94:4–5.",
+          "from": "draft"
+        },
+        {
+          "label": "do seu rebanho",
+          "forms": {
+            "manusEjus": "do seu rebanho"
+          },
+          "note": "The sense, as MS1932's 'manada'; drops the hand.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nolite",
+      "refs": [
+        "94:7"
+      ],
+      "latin": "nolíte obduráre",
+      "kind": "grammar",
+      "why": "nolíte + infinitive is the Latin prohibition. MS1932 'não queirais endurecer' renders nolle as a verb of will; the plain negative imperative is the Portuguese prohibition. The second colon is the Passiontide Invitatory antiphon ('Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra', Matutinum Special, Invit Quad5) and Heb 3:8, 3:15 (Epi6-1 lessons).",
+      "options": [
+        {
+          "label": "não endureçais",
+          "forms": {
+            "nolite": "não endureçais"
+          },
+          "note": "Ruling: the Portuguese prohibition.",
+          "from": "draft"
+        },
+        {
+          "label": "não queirais endurecer",
+          "forms": {
+            "nolite": "não queirais endurecer"
+          },
+          "note": "MS1932; keeps nolle as a verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "secundum",
+      "refs": [
+        "94:8"
+      ],
+      "latin": "secúndum diem tentatiónis",
+      "kind": "grammar",
+      "why": "secúndum here is 'like, as on' (LXX κατὰ τὴν ἡμέραν; the Hebrew 'as on the day'); DRB 'according to the day'. 'segundo o dia' is heard as 'the second day' or 'according to the day'. 'como no dia' gives secúndum its sense of likeness and carries the Latin's second term of comparison; MS1932 drops the word ('no dia da tentação').",
+      "options": [
+        {
+          "label": "como no dia",
+          "forms": {
+            "secundum": "como no dia"
+          },
+          "note": "Ruling: secúndum rendered, in its sense of likeness.",
+          "from": "draft"
+        },
+        {
+          "label": "no dia",
+          "forms": {
+            "secundum": "no dia"
+          },
+          "note": "MS1932; secúndum left unsaid.",
+          "from": "MS1932"
+        },
+        {
+          "label": "segundo o dia",
+          "forms": {
+            "secundum": "segundo o dia"
+          },
+          "note": "The Latin's word; heard as 'the second day'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "offensus",
+      "refs": [
+        "94:9"
+      ],
+      "latin": "offénsus fui generatióni illi",
+      "kind": "word",
+      "why": "offénsus + dative, 'displeased with, offended at' (L&S; LXX προσώχθισα, 'was vexed'). 'estive ofendido com' keeps the Latin's word and the lasting state of the forty years. MS1932 'estive irritado contra' takes irritáre's family, which this psalm uses for 94:8 'provocação'.",
+      "options": [
+        {
+          "label": "estive ofendido",
+          "forms": {
+            "offensus": "estive ofendido"
+          },
+          "note": "Ruling: the Latin's word, a lasting state.",
+          "from": "draft"
+        },
+        {
+          "label": "estive desgostoso",
+          "forms": {
+            "offensus": "estive desgostoso"
+          },
+          "note": "Plainer displeasure; loses the root.",
+          "from": "draft"
+        },
+        {
+          "label": "estive irritado",
+          "forms": {
+            "offensus": "estive irritado"
+          },
+          "note": "MS1932; echoes irritátio in 94:8.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "errant",
+      "refs": [
+        "94:9"
+      ],
+      "latin": "errant corde",
+      "kind": "glossary",
+      "why": "The erráre row (open) has 'extraviar-se', chosen so that 'errar' is not heard as 'make a mistake'; it names 94:9, and 57:4 applied it. The wandering fits the forty years in the desert. corde is the ablative of respect: 'no coração' (DRB 'err in heart'); 'de coração' would be heard as 'sincerely'.",
+      "options": [
+        {
+          "label": "se extraviam",
+          "forms": {
+            "errant": "se extraviam"
+          },
+          "note": "Ruling: the erráre row.",
+          "from": "glossary"
+        },
+        {
+          "label": "erram",
+          "forms": {
+            "errant": "erram"
+          },
+          "note": "Shorter by three syllables; heard as 'make mistakes'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ut",
+      "refs": [
+        "94:10"
+      ],
+      "latin": "ut jurávi in ira mea",
+      "kind": "ambiguity",
+      "why": "ut with the indicative is 'as' (LXX ὡς ὤμοσα); DRB 'so I swore', MS1932 'pelo que jurei', both making it a consequence. 'como jurei' keeps the Latin's word and leaves open whether the oath matches or follows their not knowing.",
+      "options": [
+        {
+          "label": "como jurei",
+          "forms": {
+            "ut": "como jurei"
+          },
+          "note": "Ruling: the Latin's comparison, left open.",
+          "from": "draft"
+        },
+        {
+          "label": "por isso jurei",
+          "forms": {
+            "ut": "por isso jurei"
+          },
+          "note": "MS1932 'pelo que jurei'; resolves it as consequence.",
+          "from": "MS1932"
+        },
+        {
+          "label": "assim jurei",
+          "forms": {
+            "ut": "assim jurei"
+          },
+          "note": "DRB 'so I swore'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "si",
+      "refs": [
+        "94:10"
+      ],
+      "latin": "Si introíbunt in réquiem meam",
+      "kind": "grammar",
+      "why": "The Hebrew oath formula ('if they enter …' = 'they shall not enter'), carried into Greek (εἰ εἰσελεύσονται) and Latin. In Portuguese a bare 'Se entrarão no meu repouso' is not understood as an oath; the formula is grammar, not image, so under D2 its meaning is given: 'Não entrarão', as MS1932 and DRB ('that they shall not enter'). Heb 3:11 quotes the verse. The oath formula recurs (88:36 'si Davidi mentiar', 131:3–4) — proposed for the glossary.",
+      "options": [
+        {
+          "label": "Não entrarão",
+          "forms": {
+            "si": "Não entrarão"
+          },
+          "note": "Ruling: the oath's meaning, as MS1932 and DRB.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Se entrarão",
+          "forms": {
+            "si": "Se entrarão"
+          },
+          "note": "The Latin's words; not heard as an oath in Portuguese.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "94:1": "Deo salutári nostro → 'a Deus, nosso Salvador' (the salutáris row: τῷ σωτῆρι, the person; 64:6, 78:9, 84:5). jubiláre → aclamar (D43). The first colon is the Alleluia of Pentecost XIV (missa Pent14-0), the Introit verse of Ember Saturday of September (missa 093-6) and an Invitatory antiphon of the Dominican rubrics (Matutinum Special, 'Invit 1', under 'rubrica praedicatorum'); each colon reads alone. Soft flag accepted: Senhor / Salvador rhyme at mediant and final. The Latin's two datives end alike (Dómino … nostro), and the rhyme falls on the two names of God that the parallel sets side by side; the only cure would be an inversion ('ao Senhor exultemos') or dropping the title, both worse.",
+    "94:2": "jubilémus ei → 'o aclamemos' (aclamar takes a direct object in Portuguese; D43's verb). The whole verse is the Septuagesima Invitatory antiphon with 'Dómini' for 'ejus': 'Adiantemo-nos à face do Senhor: * e com salmos o aclamemos.'",
+    "94:4": "Quia → 'Porque', as quóniam in 94:3 and 94:5 (one Greek ὅτι; 'porque' the default). fines terræ → 'os confins da terra' (fines row); altitúdines → 'alturas' (altitúdo row, which names 94:4).",
+    "94:5": "ipse fecit → 'ele mesmo o fez': the Latin repeats the pronoun of ipsíus (and 94:4 ipsíus sunt), and the emphatic form also brings the first colon to within two syllables of the Latin (checks: 'e ele o fez' was −4). formáre → 'formar', kept apart from plasmáre → moldar.",
+    "94:7": "DO's Psalm94.txt is the Epiphany Matins form: it lacks 94:6 and 94:7a ('Veníte adorémus, et procidámus: et plorémus ante Dóminum, qui fecit nos. * Quia ipse est Dóminus Deus noster:', which is in Psalm94C.txt), because the Epiphany antiphon sung in the $ant slots is that verse (collation/report.md; Sancti/01-06: 'Veníte adorémus eum: * quia ipse est Dóminus Deus noster'). Only DO's ids are translated. For the record, a rendering of the missing verse by this psalm's rules: 'Vinde, adoremos e prostremo-nos: e choremos diante do Senhor que nos fez. * Porque ele é o Senhor nosso Deus:' (prócidere → prostrar-se, the row 71:9). 'somos' is the copula Portuguese needs. páscua → 'pastagem' (the row names 94:7: 'o povo da sua pastagem'). The people are addressed as vós (plural humans). Soft flags accepted: the first colon is +5 (the supplied 'somos'), the second −3; the verse as a whole is within two syllables of the Latin. Without 'somos' the line hangs verbless in Portuguese (in the Latin it hangs on the antiphon's 'quia ipse est Dóminus Deus noster').",
+    "94:8": "irritátio → 'provocação' (D27, the row names 94:8). tentáre → 'tentar' where men tempt God (the tentáre row names 94:8); probáre → 'provar'.",
+    "94:9": "hi and 94:10 isti are both 'estes', as DRB 'these … these men'. Soft flags accepted: the second colon is +6 ('se extraviam' is the erráre row's word; 'erram' would save three syllables and is option 1), and 'geração / coração' rhyme at mediant and final; the Latin has no such echo, but 'coração' is the Latin's corde and 'geração' its generatióni, neither replaceable without loss — flagged for the stylist.",
+    "94:10": "réquies → 'repouso' (MS1932). cognóscere → 'conhecer'; via → 'caminho'."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps094.md (no Diurnal: a Matins psalm). Source: DO's Psalm94.txt, the Epiphany form (no 94:6–7a). Liturgical uses found by grep in content/do: Invitatory antiphons 'Præoccupémus fáciem Dómini: * Et in psalmis jubilémus ei' (Septuagesima, Quadp1-0), 'Hódie, si vocem Dómini audiéritis, * Nolíte obduráre corda vestra' (Passiontide, Invit Quad5), 'Veníte, exsultémus Dómino: * Jubilémus Deo, salutári nostro' (Dominican); Mass: Alleluia 94:1 (Pent14-0), Alleluia 94:3 with 'super omnem terram' (Pent15-0), Introit verse 94:1 (093-6); Heb 3:7–8, 15 (Epi6-1 lessons) and the Rule's prologue (Regula/01-02). The daily Invitatory (Invitatorium.txt) uses another wording and is not translated here. Hard readings: 94:1 exsultáre + dative (the open row, ruled 'ao'), 94:2 præoccupáre, 94:8 secúndum diem, 94:10 ut jurávi and the oath 'Si introíbunt'."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 94:5 first colon −4 in draft, mended ('ele mesmo'); accepted with reasons in choices: 94:1 and 94:9 rhymes, 94:7 +5 / −3, 94:8 −3 / −3, 94:9b +6."
+    }
+  ]
+}

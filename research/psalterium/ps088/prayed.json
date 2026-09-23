@@ -1,0 +1,1181 @@
+{
+  "psalm": 88,
+  "tier": 3,
+  "version": 3,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "88:2": "As misericórdias do Senhor * cantarei para sempre.",
+    "88:2b": "De geração em geração * anunciarei a vossa verdade {ore}.",
+    "88:3": "Porque dissestes: Para sempre a misericórdia será edificada nos céus: * a vossa verdade será {p3} neles.",
+    "88:4": "{disp} com os meus escolhidos, jurei a Davi, meu servo: * Para todo o sempre {p4} a tua descendência.",
+    "88:5": "E edificarei de geração em geração * o teu trono.",
+    "88:6": "Os céus {c6a}, Senhor: * {c6b} na assembleia dos santos.",
+    "88:7": "Pois quem nas nuvens se igualará ao Senhor: * será semelhante a Deus entre os filhos de Deus?",
+    "88:8": "Deus, que é glorificado no conselho dos santos: * grande e terrível sobre todos os que estão ao redor dele.",
+    "88:9": "Senhor, Deus dos poderes, quem é semelhante a vós? * Poderoso sois, Senhor, e a vossa verdade está ao vosso redor.",
+    "88:10": "Vós dominais o poder do mar: * e vós abrandais o movimento das suas ondas.",
+    "88:11": "Vós humilhastes o soberbo como a um ferido: * com o braço do vosso poder dispersastes os vossos inimigos.",
+    "88:12": "Vossos são os céus, e vossa é a terra, o mundo e a sua plenitude, vós os fundastes: * o norte e o mar, vós os criastes.",
+    "88:13": "O Tabor e o Hermon exultarão no vosso nome: * {b13}.",
+    "88:14": "Firme-se a vossa mão, e exalte-se a vossa direita: * a justiça e o juízo são {p14} do vosso trono.",
+    "88:15": "A misericórdia e a verdade irão diante da vossa face: * bem-aventurado o povo que conhece a aclamação.",
+    "88:16": "Senhor, na luz do vosso rosto andarão, e no vosso nome exultarão o dia todo: * e na vossa justiça serão exaltados.",
+    "88:18": "Porque a glória do poder deles sois vós: * e {bene} será exaltado o nosso chifre.",
+    "88:19": "Porque do Senhor é {as19}, * e do Santo de Israel, nosso rei.",
+    "88:20": "Então falastes em visão aos vossos santos, e dissestes: * Pus o auxílio num poderoso: e exaltei um escolhido do meu povo.",
+    "88:21": "Encontrei Davi, meu servo: * com o meu óleo santo o ungi.",
+    "88:22": "Pois a minha mão o ajudará: * e o meu braço o fortalecerá.",
+    "88:23": "O inimigo nada conseguirá contra ele, * e o filho da iniquidade não voltará a fazer-lhe mal.",
+    "88:24": "E {c24} diante dele os seus inimigos: * e porei em fuga os que o odeiam.",
+    "88:25": "E a minha verdade e a minha misericórdia estarão com ele: * e no meu nome será exaltado o seu chifre.",
+    "88:26": "E porei no mar a sua mão: * e nos rios a sua direita.",
+    "88:27": "Ele me invocará: {pater}: * meu Deus, e o amparo da minha salvação.",
+    "88:28": "E eu o farei primogênito, * excelso acima dos reis da terra.",
+    "88:29": "Para sempre lhe conservarei a minha misericórdia: * e a minha aliança lhe será fiel.",
+    "88:30": "E {pon30} a sua descendência pelos séculos dos séculos: * e o seu trono como os dias do céu.",
+    "88:31": "Se, porém, os seus filhos abandonarem a minha lei: * e não andarem nos meus juízos:",
+    "88:32": "Se profanarem {j32}: * e não guardarem os meus mandamentos:",
+    "88:33": "Visitarei com a vara as suas iniquidades: * e com {v33} os seus pecados.",
+    "88:34": "Mas não {d34} dele a minha misericórdia: * nem {n34}:",
+    "88:35": "Nem profanarei a minha aliança: * e o que sai dos meus lábios, não o tornarei vão.",
+    "88:36": "Uma vez jurei {s36}: {si36}: * a sua descendência permanecerá para sempre.",
+    "88:37": "E o seu trono será como o sol à minha vista, * e como a lua perfeita para sempre: e testemunha fiel no céu.",
+    "88:39": "Mas vós repelistes e desdenhastes: * {dist} o vosso Cristo.",
+    "88:40": "{ev40} a aliança do vosso servo: * profanastes {t40} o seu santuário.",
+    "88:41": "Destruístes todas as suas {sep}: * {f41}.",
+    "88:42": "Saquearam-no todos os que passam pelo caminho: * tornou-se uma afronta para os seus vizinhos.",
+    "88:43": "Exaltastes a direita dos que o oprimem: * alegrastes todos os seus inimigos.",
+    "88:44": "{av44} o auxílio da sua espada: * e não o ajudastes na guerra.",
+    "88:45": "{em45}: * e esmagastes por terra o seu trono.",
+    "88:46": "Abreviastes os dias do seu tempo: * {pf46} de vergonha.",
+    "88:47": "Até quando, Senhor, {av47} para sempre: * se inflamará como fogo a vossa ira?",
+    "88:48": "Lembrai-vos do que é o meu ser: * pois acaso em vão {con48} todos os filhos dos homens?",
+    "88:49": "Quem é o homem que viverá, e não verá a morte: * que arrancará a sua alma da mão do inferno?",
+    "88:50": "Onde estão as vossas misericórdias antigas, Senhor, * como jurastes a Davi na vossa verdade?",
+    "88:51": "Lembrai-vos, Senhor, da afronta dos vossos servos, * que de muitas nações {ct51} no meu seio.",
+    "88:52": "Com que afrontaram os vossos inimigos, Senhor, * com que afrontaram {cm52} do vosso Cristo.",
+    "88:53": "Bendito o Senhor para sempre: * assim seja, assim seja."
+  },
+  "decisions": [
+    {
+      "id": "ore",
+      "refs": [
+        "88:2b"
+      ],
+      "latin": "annuntiábo veritátem tuam in ore meo",
+      "kind": "word",
+      "why": "*in ore meo* (ἐν τῷ στόματί μου) is instrumental: 'with my mouth' (DRB). *na minha boca* keeps the Latin's preposition, but in Portuguese it places the truth inside the mouth rather than saying it aloud. 88:2–2b is also the Introit/antiphon text *Misericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo* (missa Sancti 07-01, grep), so the colon is also sung on its own.",
+      "options": [
+        {
+          "label": "com a minha boca",
+          "forms": {
+            "ore": "com a minha boca"
+          },
+          "note": "Ruling: the instrumental sense, DRB 'with my mouth'.",
+          "from": "draft"
+        },
+        {
+          "label": "pela minha boca",
+          "forms": {
+            "ore": "pela minha boca"
+          },
+          "note": "MS1932 (and DO pt).",
+          "from": "MS1932"
+        },
+        {
+          "label": "na minha boca",
+          "forms": {
+            "ore": "na minha boca"
+          },
+          "note": "The Latin's *in*, kept literally.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praep",
+      "refs": [
+        "88:3",
+        "88:4",
+        "88:14"
+      ],
+      "latin": "præparábitur véritas tua … præparábo semen tuum … præparátio sedis tuæ",
+      "kind": "word",
+      "why": "The psalm uses *præparáre* three times, all built on ἑτοιμάζω, which also means 'establish, make ready' (Hebrew *kûn*, 'set firm'). MS1932 turns each one into a different word (*solidamente estabelecida*, *conservarei*, *a base*). Keeping *preparar* all three times lets the Latin's repetition be heard (rule 6), and every use is still intelligible: a truth made ready in the heavens, a descendance made ready, and justice and judgement as what makes the throne ready. *Preparar* is also this psalter's word for the verb (22:5, 64:7, 67:11). The cost is that *preparar a tua descendência* is thinner in Portuguese than 'establish'.",
+      "options": [
+        {
+          "label": "preparar ×3",
+          "forms": {
+            "p3": "preparada",
+            "p4": "prepararei",
+            "p14": "a preparação"
+          },
+          "note": "Ruling: the Latin's one word, kept three times.",
+          "from": "draft"
+        },
+        {
+          "label": "firmar ×2, base",
+          "forms": {
+            "p3": "firmada",
+            "p4": "firmarei",
+            "p14": "a base"
+          },
+          "note": "The Hebrew sense of *kûn*, which the Greek also allows. It collides with *Firmei aliança* (88:4) and *Firme-se* (88:14).",
+          "from": "draft"
+        },
+        {
+          "label": "MS1932",
+          "forms": {
+            "p3": "solidamente estabelecida",
+            "p4": "conservarei",
+            "p14": "a base"
+          },
+          "note": "Matos Soares 1932: three words for one.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "disp",
+      "refs": [
+        "88:4"
+      ],
+      "latin": "Dispósui testaméntum",
+      "kind": "glossary",
+      "why": "*dispónere testaméntum* (διεθέμην διαθήκην) means to make a covenant. The glossary's *testaméntum* row gives *firmar aliança* for *dispónere/ordináre testaméntum*, and 82:6 reads *firmaram aliança*. *Fazer aliança* (MS1932) is the plainer everyday idiom.",
+      "options": [
+        {
+          "label": "Firmei aliança",
+          "forms": {
+            "disp": "Firmei aliança"
+          },
+          "note": "Ruling: the glossary row, as 82:6.",
+          "from": "glossary"
+        },
+        {
+          "label": "Fiz aliança",
+          "forms": {
+            "disp": "Fiz aliança"
+          },
+          "note": "MS1932 and DO pt.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Dispus a aliança",
+          "forms": {
+            "disp": "Dispus a aliança"
+          },
+          "note": "The Latin's own verb; heard as 'arranged'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conf6",
+      "refs": [
+        "88:6"
+      ],
+      "latin": "Confitebúntur cæli mirabília tua … étenim veritátem tuam",
+      "kind": "glossary",
+      "why": "D5 settles *confitéri* (to God) as *dar graças a*, but here the verb takes an accusative of the thing praised (*mirabília tua*, and *veritátem tuam* in the second colon). The precedent is 70:22, where *confitébor tibi … veritátem tuam* became *vos darei graças pela vossa verdade*: the thing is taken with *por*, and the second colon carries *por* over. *Celebrar* would keep the transitive build but gives up D5's verb. The Latinist (minor) asked for *celebrarão* (the accusative kept) and *deveras* for *étenim*. Refused: D5 is settled and 70:22 already has *dar graças por* with an accusative. *e também* renders *étenim* (καί). *Celebrarão* stays option 1.",
+      "options": [
+        {
+          "label": "darão graças pelas",
+          "forms": {
+            "c6a": "darão graças pelas vossas maravilhas",
+            "c6b": "e também pela vossa verdade"
+          },
+          "note": "Ruling: D5 with 70:22's *por*.",
+          "from": "glossary"
+        },
+        {
+          "label": "celebrarão",
+          "forms": {
+            "c6a": "celebrarão as vossas maravilhas",
+            "c6b": "e também a vossa verdade"
+          },
+          "note": "Keeps the accusative; loses D5's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "publicarão (MS1932)",
+          "forms": {
+            "c6a": "publicarão as vossas maravilhas",
+            "c6b": "e também a vossa verdade"
+          },
+          "note": "MS1932's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "brac13",
+      "refs": [
+        "88:13"
+      ],
+      "latin": "tuum brácchium cum poténtia",
+      "kind": "grammar",
+      "why": "The colon has no verb. The Greek σὸς ὁ βραχίων μετὰ δυναστείας makes *tuum* the predicate ('yours is the arm, with might'), and that continues 88:12's *Tui sunt cæli, et tua est terra*. So the draft reads *vosso é o braço*, which echoes *Vossos são os céus*. *O vosso braço está com potência* reads *tuum* as a plain possessive. *Poténtia* → *potência* follows the glossary row (64:7, 79:3). The Latinist (minor) asked for the verbless *o vosso braço com potência*. This is refused because the Greek fixes the predicate reading and the echo of 88:12 is the Latin's own (*Tui … tua … tuum*); his form is kept as an option. The stylist's *poderio* was refused because *poténtia → potência* is the row (64:7, 70:16, 79:3).",
+      "options": [
+        {
+          "label": "vosso é o braço com potência",
+          "forms": {
+            "b13": "vosso é o braço com potência"
+          },
+          "note": "Ruling: the Greek's predicate, the echo of 88:12.",
+          "from": "draft"
+        },
+        {
+          "label": "o vosso braço está com potência",
+          "forms": {
+            "b13": "o vosso braço está com potência"
+          },
+          "note": "*tuum* as a plain possessive, with a copula supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "cheio de potência (MS1932)",
+          "forms": {
+            "b13": "o vosso braço está cheio de potência"
+          },
+          "note": "MS1932's *está cheio de poder*, with the row's noun.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o vosso braço com potência",
+          "forms": {
+            "b13": "o vosso braço com potência"
+          },
+          "note": "The Latinist: verbless, as the Latin.",
+          "from": "latinist"
+        },
+        {
+          "label": "o vosso braço é com potência",
+          "forms": {
+            "b13": "o vosso braço é com potência"
+          },
+          "note": "The v2 Latinist: *cum potentia* the predicate.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "bene",
+      "refs": [
+        "88:18"
+      ],
+      "latin": "in beneplácito tuo",
+      "kind": "word",
+      "why": "*Beneplácitum* as a noun (εὐδοκία, good pleasure) has no settled row. Draft 1 had *no vosso beneplácito*; the stylist called it chancery Latin and the blind reader listed it as unknown. *Boa vontade* is already the word for *bona volúntas* (5:13b, 50:20), so it is not free. *Favor* is plain and keeps the sense of goodwill freely given.",
+      "options": [
+        {
+          "label": "no vosso favor",
+          "forms": {
+            "bene": "no vosso favor"
+          },
+          "note": "Ruling (v2): the stylist's word, with the Latin's *in*.",
+          "from": "stylist"
+        },
+        {
+          "label": "no vosso beneplácito",
+          "forms": {
+            "bene": "no vosso beneplácito"
+          },
+          "note": "Draft 1: the Latin's word; unknown to the blind reader.",
+          "from": "draft"
+        },
+        {
+          "label": "no vosso agrado",
+          "forms": {
+            "bene": "no vosso agrado"
+          },
+          "note": "Closer to *placére → agradar* (row).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "assump",
+      "refs": [
+        "88:19"
+      ],
+      "latin": "Dómini est assúmptio nostra",
+      "kind": "word",
+      "why": "*Assúmptio* renders ἀντίλημψις, 'support, protection', which shares its root with 88:27's ἀντιλήμπτωρ (Latin *suscéptor*). D19 and the glossary give *suscéptor* the word *amparo*, so *o nosso amparo* keeps the Greek link between the two verses. DRB has 'our protection'. MS1932 (*o Senhor tomou-nos por seus*) reads the word as 'taking up', which is the Latin's surface sense. The cost: 88:27 *suscéptor* is also *amparo*, so two Latin words share one Portuguese word, but they are the same word in the Greek. The Latinist (minor) asked for *acolhimento*, to keep 88:19 and 88:27 apart. Refused for the Greek link (D15's test); it remains option 3.",
+      "options": [
+        {
+          "label": "o nosso amparo",
+          "forms": {
+            "as19": "o nosso amparo"
+          },
+          "note": "Ruling: the ἀντίλημψις / ἀντιλήμπτωρ pair (88:19, 27).",
+          "from": "draft"
+        },
+        {
+          "label": "a nossa proteção",
+          "forms": {
+            "as19": "a nossa proteção"
+          },
+          "note": "DRB 'protection'; a separate word from 88:27.",
+          "from": "DRB"
+        },
+        {
+          "label": "o nosso acolhimento",
+          "forms": {
+            "as19": "o nosso acolhimento"
+          },
+          "note": "Close to the Latin's surface (*assúmere*, taking up).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "c24",
+      "refs": [
+        "88:24"
+      ],
+      "latin": "concídam a fácie ipsíus inimícos ejus",
+      "kind": "word",
+      "why": "*concídere* means 'to cut down, cut to pieces' (L&S); συγκόψω means 'to strike down'. *Destroçar* keeps the violence of cutting to pieces. *Abater* is the glossary's word for *depónere* (people). *a fácie ipsíus* becomes *diante dele*, as the *a fácie* row does where 'from the face of' is not Portuguese (37:4, 60:4).",
+      "options": [
+        {
+          "label": "destroçarei",
+          "forms": {
+            "c24": "destroçarei"
+          },
+          "note": "Ruling: 'cut to pieces'.",
+          "from": "draft"
+        },
+        {
+          "label": "abaterei",
+          "forms": {
+            "c24": "abaterei"
+          },
+          "note": "'Strike down'; shared with *depónere*.",
+          "from": "draft"
+        },
+        {
+          "label": "exterminarei (MS1932)",
+          "forms": {
+            "c24": "exterminarei"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pater",
+      "refs": [
+        "88:27"
+      ],
+      "latin": "Pater meus es tu",
+      "kind": "glossary",
+      "why": "D17 (address follows the speaker) names 88:27–28. The whole oracle 88:20–37 is God's speech, and in it the Anointed's cry to the Father is quoted. The line mirrors 2:7 *Fílius meus es tu* → *Tu és meu Filho*, the other side of the same relation, so *tu* makes the pair answer each other. *Vós* (D1) is the voice of the one praying, and this line is spoken inside God's own words. The Christmas versicle *V. Ipse invocábit me. R. Pater meus es tu* (horas Sancti 12-25, grep) puts it in the choir's mouth; there *vós* would be defensible, which is why it stays an option. MS1932 has *Tu és meu Pai*.",
+      "options": [
+        {
+          "label": "Tu és meu Pai",
+          "forms": {
+            "pater": "Tu és meu Pai"
+          },
+          "note": "Ruling: D17, the mirror of 2:7.",
+          "from": "draft"
+        },
+        {
+          "label": "Vós sois meu Pai",
+          "forms": {
+            "pater": "Vós sois meu Pai"
+          },
+          "note": "D1, the praying voice (DO pt).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pon30",
+      "refs": [
+        "88:30"
+      ],
+      "latin": "Et ponam in sǽculum sǽculi semen ejus",
+      "kind": "word",
+      "why": "*Ponam* is the third *pónere* in five verses (88:26 *ponam in mari*, 88:28 *primogénitum ponam*, 88:30). *Porei* keeps the Latin's verb and its sense of setting in place, which the ear follows after 88:26's *porei*. *Estabelecerei* reads more smoothly but belongs to *constitúere* (row; 88:48). DRB's 'make … to endure' adds a verb.",
+      "options": [
+        {
+          "label": "porei",
+          "forms": {
+            "pon30": "porei"
+          },
+          "note": "Ruling: the Latin's verb, as 88:26.",
+          "from": "draft"
+        },
+        {
+          "label": "estabelecerei",
+          "forms": {
+            "pon30": "estabelecerei"
+          },
+          "note": "Smoother; *constitúere*'s word.",
+          "from": "draft"
+        },
+        {
+          "label": "farei durar",
+          "forms": {
+            "pon30": "farei durar"
+          },
+          "note": "DRB 'make to endure'; MS1932 *farei que … subsista*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "j32",
+      "refs": [
+        "88:32"
+      ],
+      "latin": "Si justítias meas profanáverint",
+      "kind": "glossary",
+      "why": "The plural *justítiæ* renders δικαιώματα, 'ordinances'. The open glossary row gives *as justiças* and says it 'may want *preceitos*' where the Greek is δικαιώματα, which is the case here. Beside *lex*, *judícia* and *mandáta* (88:31–32), a word for statutes is clearly meant. *As minhas justiças* keeps the Latin's word. It also keeps this psalm's other *justítia* (88:14, 88:16) audible, but a Brazilian ear hears it as abstract. DRB has 'my justices'. The ruling keeps the row's word until the row is settled, and offers *preceitos* as the option.",
+      "options": [
+        {
+          "label": "as minhas justiças",
+          "forms": {
+            "j32": "as minhas justiças"
+          },
+          "note": "Ruling: the row (open) and the Latin's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "os meus preceitos",
+          "forms": {
+            "j32": "os meus preceitos"
+          },
+          "note": "The row's δικαιώματα note.",
+          "from": "glossary"
+        },
+        {
+          "label": "as minhas justas disposições",
+          "forms": {
+            "j32": "as minhas justas disposições"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v33",
+      "refs": [
+        "88:33"
+      ],
+      "latin": "in verbéribus",
+      "kind": "word",
+      "why": "*verbera* means blows or lashes (μάστιξιν). D39 gives *flagelo* to *plaga/flagéllum*. *Açoites* (MS1932, DRB 'stripes') keeps *verbera* distinct from those words.",
+      "options": [
+        {
+          "label": "açoites",
+          "forms": {
+            "v33": "açoites"
+          },
+          "note": "Ruling: MS1932; distinct from *flagelo* (D39).",
+          "from": "MS1932"
+        },
+        {
+          "label": "flagelos",
+          "forms": {
+            "v33": "flagelos"
+          },
+          "note": "Merges with *plaga/flagéllum*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "d34",
+      "refs": [
+        "88:34"
+      ],
+      "latin": "Misericórdiam autem meam non dispérgam ab eo: neque nocébo in veritáte mea",
+      "kind": "word",
+      "why": "*Dispérgere* (διασκεδάσω, 'scatter, break up') has *dispersar* in 88:11, but *dispersar a misericórdia dele* is not Portuguese, so the draft reads *retirar* (MS1932), which yields to the ear. The second colon, *nocébo in veritáte mea* (ἀδικήσω, 'deal wrongly'), keeps *nocére → fazer mal* from 88:23, so the oracle's two *nocére* answer each other: the enemy will not harm David, and God will not do harm against his own truth. It is obscure in Portuguese. MS1932's *nem lhe faltarei à verdade* gives the sense. Draft 2 (the Latinist): *dissiparei*, which keeps the scattering and still reads as Portuguese. The blind reader found *nem farei mal na minha verdade* obscure; kept, for the Latin's echo of 88:23 (no Latinist remark), with MS1932's sense as the option.",
+      "options": [
+        {
+          "label": "dissiparei / farei mal",
+          "forms": {
+            "d34": "dissiparei",
+            "n34": "farei mal na minha verdade"
+          },
+          "note": "Ruling (v2): the Latinist's *dissipar*, which keeps the image of scattering and is Portuguese with *misericórdia*.",
+          "from": "latinist"
+        },
+        {
+          "label": "retirarei / farei mal",
+          "forms": {
+            "d34": "retirarei",
+            "n34": "farei mal na minha verdade"
+          },
+          "note": "Draft 1: *retirar* (MS1932), the ear for *dispérgere*; the Latinist found the image lost.",
+          "from": "draft"
+        },
+        {
+          "label": "dispersarei para longe",
+          "forms": {
+            "d34": "dispersarei para longe",
+            "n34": "farei mal na minha verdade"
+          },
+          "note": "The Latin's verb kept, with a supplied *para longe*.",
+          "from": "draft"
+        },
+        {
+          "label": "faltarei à minha verdade",
+          "forms": {
+            "d34": "retirarei",
+            "n34": "faltarei à minha verdade"
+          },
+          "note": "MS1932's sense ('nor will I fail my truth', DRB).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "oath36",
+      "refs": [
+        "88:36"
+      ],
+      "latin": "Semel jurávi in sancto meo: Si David méntiar",
+      "kind": "grammar",
+      "why": "*Si … méntiar* is the Hebrew oath formula ('if I lie' = 'I will surely not lie'). Portuguese has no such idiom, and *Se eu mentir a Davi: a sua descendência permanecerá* reads as a condition with the opposite sense, so the formula yields to grammar (D2): *não mentirei a Davi* (DRB, MS1932). *In sancto meo* (ἐν τῷ ἁγίῳ μου; the Hebrew is 'by my holiness') is the thing sworn by. *Pela minha santidade* (MS1932, DRB 'by my holiness') gives the sense. *No meu santo* is 59:8's wording for *in sancto suo* (with *falou*), but after *jurei* it names no oath. The responsory in Commune C2 (grep) reads *Semel jurávi in sancto meo: Semen ejus in ætérnum manébit*, omitting *Si David méntiar*, so each half must stand alone. Both do. The Latinist (minor) asked for the formula to be kept (*se eu mentir a Davi!*). Refused: the blind reader would hear a condition that says the opposite. His form is option 2 (*pela minha santidade: se eu mentir*). The v2 Latinist repeated the formula point and added *pelo meu santo* (*sanctum* substantive). Both were refused (minor): after *jurei*, *pelo meu santo* is heard as a saint. His form is the last option.",
+      "options": [
+        {
+          "label": "pela minha santidade: não mentirei",
+          "forms": {
+            "s36": "pela minha santidade",
+            "si36": "não mentirei a Davi"
+          },
+          "note": "Ruling: the sense of both idioms.",
+          "from": "draft"
+        },
+        {
+          "label": "no meu santo: se eu mentir",
+          "forms": {
+            "s36": "no meu santo",
+            "si36": "se eu mentir a Davi!"
+          },
+          "note": "Both kept literally (59:8's *no seu santo*); the oath is left for the reader to recognize.",
+          "from": "draft"
+        },
+        {
+          "label": "pela minha santidade: se eu mentir",
+          "forms": {
+            "s36": "pela minha santidade",
+            "si36": "se eu mentir a Davi!"
+          },
+          "note": "Only the oath formula kept literally.",
+          "from": "draft"
+        },
+        {
+          "label": "pelo meu santo: se eu mentir",
+          "forms": {
+            "s36": "pelo meu santo",
+            "si36": "se eu mentir a Davi!"
+          },
+          "note": "The v2 Latinist: *sanctum meum* substantive, the formula kept.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "dist",
+      "refs": [
+        "88:39"
+      ],
+      "latin": "distulísti Christum tuum",
+      "kind": "glossary",
+      "why": "The glossary gives *différre → adiar* (77:21 *ouviu, e adiou*). ἀνεβάλου means 'you put off, deferred', and the Hebrew means 'you were enraged with' (which DRB follows here, against its own Latin). The Latin says 'put off': the Anointed's day is postponed. *Christus → Cristo* (D19; *o vosso Cristo*, as 83:10). MS1932 *repeliste* would merge with *repulísti* in the same verse.",
+      "options": [
+        {
+          "label": "adiastes",
+          "forms": {
+            "dist": "adiastes"
+          },
+          "note": "Ruling: the row, as 77:21.",
+          "from": "glossary"
+        },
+        {
+          "label": "retardastes",
+          "forms": {
+            "dist": "retardastes"
+          },
+          "note": "'Held back'; the Greek's sense, more concrete.",
+          "from": "draft"
+        },
+        {
+          "label": "repelistes (MS1932)",
+          "forms": {
+            "dist": "repelistes"
+          },
+          "note": "MS1932; doubles *repulísti*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ev40",
+      "refs": [
+        "88:40"
+      ],
+      "latin": "Evertísti testaméntum … profanásti in terra Sanctuárium ejus",
+      "kind": "word",
+      "why": "*evértere* means 'to overturn' (κατέστρεψας). *Derrubar* keeps the image of a covenant thrown down like a building. *Anular* (MS1932) gives the legal sense and drops the image. *in terra* is εἰς τὴν γῆν, '(down) to the ground': *profanastes por terra* says it, while *na terra* (DRB 'on the earth') keeps the Latin's ambiguity.",
+      "options": [
+        {
+          "label": "Derrubastes / por terra",
+          "forms": {
+            "ev40": "Derrubastes",
+            "t40": "por terra"
+          },
+          "note": "Ruling: the image; the Greek's sense of *in terra*.",
+          "from": "draft"
+        },
+        {
+          "label": "Desfizestes / na terra",
+          "forms": {
+            "ev40": "Desfizestes",
+            "t40": "na terra"
+          },
+          "note": "'Undid'; *na terra* literal.",
+          "from": "draft"
+        },
+        {
+          "label": "Anulastes (MS1932)",
+          "forms": {
+            "ev40": "Anulastes",
+            "t40": "por terra"
+          },
+          "note": "MS1932's verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sep",
+      "refs": [
+        "88:41"
+      ],
+      "latin": "Destruxísti omnes sepes ejus: posuísti firmaméntum ejus formídinem",
+      "kind": "word",
+      "why": "*sepes* means hedges or fences (φραγμούς). 79:13 used *cerca* for *macéria*, so *sebes* keeps the two Latin words apart. *Firmaméntum* here is neither God nor the sky: D31 leaves it to the verse. Its Greek is ὀχυρώματα, 'strongholds', and *fortaleza* holds both 'stronghold' and 'firmness'. *Pónere* + predicate follows its row (*fazer de*, 17:12). *formído → pavor* (54:5). Draft 2: *cercas*: the blind reader listed *sebes* as unknown, and a word nobody knows is a higher cost than sharing *cerca* with 79:13.",
+      "options": [
+        {
+          "label": "cercas / fortaleza",
+          "forms": {
+            "sep": "cercas",
+            "f41": "fizestes da sua fortaleza um pavor"
+          },
+          "note": "Ruling (v2): *cercas*, since the blind reader did not know *sebes*; it shares 79:13's word for *macéria*.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "sebes / fortaleza (draft 1)",
+          "forms": {
+            "sep": "sebes",
+            "f41": "fizestes da sua fortaleza um pavor"
+          },
+          "note": "Draft 1: *sebes* keeps *sepes* apart from 79:13's *macéria*.",
+          "from": "draft"
+        },
+        {
+          "label": "cercas / firmeza",
+          "forms": {
+            "sep": "cercas",
+            "f41": "fizestes da sua firmeza um pavor"
+          },
+          "note": "79:13's *cerca*; 72:4's *firmeza*.",
+          "from": "draft"
+        },
+        {
+          "label": "muralhas (MS1932)",
+          "forms": {
+            "sep": "muralhas",
+            "f41": "pusestes o pavor nas suas fortalezas"
+          },
+          "note": "MS1932's reading.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "avert",
+      "refs": [
+        "88:44",
+        "88:47"
+      ],
+      "latin": "Avertísti adjutórium … Úsquequo, Dómine, avértis in finem",
+      "kind": "glossary",
+      "why": "*Avértere* occurs twice. 88:47 has no object, as 84:4 *avertísti ab ira*, which was ruled reflexive *afastastes-vos* with *afastar* for the whole of Ps 84. The draft follows that psalm: *Afastastes o auxílio*, and *vos afastais*. 88:47 is D27's formula *Até quando, Senhor, … para sempre?* (78:5). *Exardéscere → inflamar-se* as 38:4.",
+      "options": [
+        {
+          "label": "afastar",
+          "forms": {
+            "av44": "Afastastes",
+            "av47": "vos afastais"
+          },
+          "note": "Ruling: Ps 84's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "desviar",
+          "forms": {
+            "av44": "Desviastes",
+            "av47": "vos desviais"
+          },
+          "note": "The face-formula row's verb.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "em45",
+      "refs": [
+        "88:45"
+      ],
+      "latin": "Destruxísti eum ab emundatióne",
+      "kind": "grammar",
+      "why": "The Greek is κατέλυσας ἀπὸ καθαρισμοῦ αὐτόν, 'you made him cease from (his) cleansing'. DRB reads 'thou hast made his purification to cease'. Portuguese cannot say *destruir de*. *Destruístes-lhe a purificação* keeps *destruir* (the row names 88:45), *eum* as the one it happens to, and *purificação*. It loses only the preposition, and it fits the Latin's length. *emundátio* follows the *mundáre/emundáre* row (*purificar*). Draft 2: the Latinist showed that draft 1 made the purification the object; *apartando-o da* restores both *eum* and *ab* at the cost of about two syllables. Draft 3 (the v2 Latinist, minor): *tirando-lhe a purificação*, which keeps *eum* as the object without the added verb of separation.",
+      "options": [
+        {
+          "label": "Vós o destruístes, tirando-lhe",
+          "forms": {
+            "em45": "Vós o destruístes, tirando-lhe a purificação"
+          },
+          "note": "Ruling (v3): the v2 Latinist's fix — *eum* the object, *ab* as loss, shorter than draft 2.",
+          "from": "latinist"
+        },
+        {
+          "label": "Vós o destruístes, apartando-o (draft 2)",
+          "forms": {
+            "em45": "Vós o destruístes, apartando-o da purificação"
+          },
+          "note": "Draft 2: the v1 Latinist's reading; the v2 Latinist found *apartando-o* an added participle.",
+          "from": "latinist"
+        },
+        {
+          "label": "Destruístes-lhe a purificação (draft 1)",
+          "forms": {
+            "em45": "Destruístes-lhe a purificação"
+          },
+          "note": "Draft 1: purification made the thing destroyed (Latinist, minor); the stylist found *-lhe* stiff.",
+          "from": "draft"
+        },
+        {
+          "label": "Destruístes a sua purificação",
+          "forms": {
+            "em45": "Destruístes a sua purificação"
+          },
+          "note": "The stylist's plain form; the same reading as draft 1.",
+          "from": "stylist"
+        },
+        {
+          "label": "privando-o da purificação",
+          "forms": {
+            "em45": "Vós o destruístes, privando-o da purificação"
+          },
+          "note": "Keeps *eum* as the object and the *ab*; four syllables long.",
+          "from": "draft"
+        },
+        {
+          "label": "Fizestes cessar (DRB)",
+          "forms": {
+            "em45": "Fizestes cessar a sua purificação"
+          },
+          "note": "DRB; the Greek's sense.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "pf46",
+      "refs": [
+        "88:46"
+      ],
+      "latin": "perfudísti eum confusióne",
+      "kind": "word",
+      "why": "*perfúndere* means to pour over or drench (κατέχεας αὐτοῦ αἰσχύνην, 'you poured shame on him'). *Banhar* keeps the liquid image. *Cobrir* (MS1932) is the usual Portuguese build, and it is the word already given to *operíre* (70:13) and *cooperíre* (43:16, 68:8). *Confúsio → vergonha*, as 70:13 and 43:16.",
+      "options": [
+        {
+          "label": "vós o banhastes",
+          "forms": {
+            "pf46": "vós o banhastes"
+          },
+          "note": "Ruling: the Latin's image.",
+          "from": "draft"
+        },
+        {
+          "label": "vós o cobristes",
+          "forms": {
+            "pf46": "vós o cobristes"
+          },
+          "note": "MS1932 *cobriste-o de confusão*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "con48",
+      "refs": [
+        "88:48"
+      ],
+      "latin": "numquid enim vane constituísti omnes fílios hóminum?",
+      "kind": "glossary",
+      "why": "The glossary gives *constitúere → estabelecer*. The Greek has ἔκτισας ('created'), and MS1932 has *criaste*, but the Latin chose another verb than 88:13's *creásti*. *Estabelecestes em vão* is a little stiff. The row is followed and *fizestes* offered.",
+      "options": [
+        {
+          "label": "estabelecestes",
+          "forms": {
+            "con48": "estabelecestes"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "fizestes",
+          "forms": {
+            "con48": "fizestes"
+          },
+          "note": "Plainer.",
+          "from": "draft"
+        },
+        {
+          "label": "criastes (MS1932)",
+          "forms": {
+            "con48": "criastes"
+          },
+          "note": "The Greek's sense; merges with *creáre* (88:13).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ct51",
+      "refs": [
+        "88:51"
+      ],
+      "latin": "quod contínui in sinu meo multárum géntium",
+      "kind": "word",
+      "why": "The Greek is ὑπέσχον, 'I held up under, bore'. The Hebrew means 'I carry in my bosom'. The glossary gives *continére → conter* (76:10), and *conter no meu seio* here means holding the reproach in, not restraining it. *Guardei* (DO; MS1932 *conservo*) and *carreguei* (the Hebrew and Greek image) are the options. *multárum géntium* depends on *oppróbrii*: the reproach of many nations. Draft 2 moves *de muitas nações* forward, next to *que* (the stylist): at the end it dangled, and the blind reader lost the parse. The genitive still belongs to the reproach.",
+      "options": [
+        {
+          "label": "guardei",
+          "forms": {
+            "ct51": "guardei"
+          },
+          "note": "Ruling (v2): the stylist and the blind reader both heard *contive* as 'I restrained'.",
+          "from": "stylist"
+        },
+        {
+          "label": "contive",
+          "forms": {
+            "ct51": "contive"
+          },
+          "note": "Draft 1: the row (76:10); heard in Brazil as 'restrained'.",
+          "from": "glossary"
+        },
+        {
+          "label": "carreguei",
+          "forms": {
+            "ct51": "carreguei"
+          },
+          "note": "The Greek and Hebrew 'bore'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cm52",
+      "refs": [
+        "88:52"
+      ],
+      "latin": "exprobravérunt commutatiónem Christi tui",
+      "kind": "glossary",
+      "why": "*Commutátio* is settled as *troca* (D43, 43:13), but the row says 88:52 'will want its own look'. The Greek ἀντάλλαγμα means 'exchange, what is given in exchange'. DRB reads 'the change of thy anointed', MS1932 *mudança*, and 54:20b already took the local sense *mudança*. Here *a mudança do vosso Cristo* is the reversal of the Anointed's fortune, the theme of 88:39–46. *A troca* is kept as the option.",
+      "options": [
+        {
+          "label": "a mudança",
+          "forms": {
+            "cm52": "a mudança"
+          },
+          "note": "Ruling: DRB, MS1932, 54:20b.",
+          "from": "draft"
+        },
+        {
+          "label": "a troca",
+          "forms": {
+            "cm52": "a troca"
+          },
+          "note": "D43's word, the Greek's 'exchange'.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "88:2": "*in ætérnum → para sempre* (D23). Read alone as the Introit/antiphon incipit.",
+    "88:3": "*Quóniam dixísti:* introduces God's words, which run on in the first person in 88:4–5 (as the Latin punctuates). *ædificáre → edificar* (77:69).",
+    "88:4": "God to David: *tu* (D17). *Usque in ætérnum → para todo o sempre* (D37). *semen → descendência* (D32). *eléctus → escolhido* (77:31).",
+    "88:5": "*sedes → trono* (row). *In generatiónem et generatiónem → de geração em geração* (formula).",
+    "88:6": "*ecclésia → assembleia* (D34 names this verse).",
+    "88:7": "The Latin has no second *quis* in the second colon; the question runs on from the first, and the draft keeps that (no *e quem*). *æquábitur → se igualará*. Draft 2: *Quóniam → Pois* here (the stylist: *Porque quem* stutters /ke ke/ at the opening, and the blind reader heard *Porque* as 'because', not as a question).",
+    "88:8": "*consílium sanctórum → conselho dos santos* (D33: a deliberating body). *terríbilis → terrível*; *in circúitu → ao redor* (row names 88:9).",
+    "88:9": "*Deus virtútum → Deus dos poderes* (D43).",
+    "88:10": "The emphatic *tu … tu* (88:10–12) kept as *vós* every time. *mitigáre → abrandar* (84:4). *potéstas maris → o poder do mar*: *poder* is *virtus*'s word in this psalter too (88:9, 11, 18); DRB 'the power of the sea' has the same pair. Option *o domínio do mar*.",
+    "88:11": "*dispérgere → dispersar* (row, 88:11 named). Natural order *o soberbo como a um ferido*.",
+    "88:12": "*orbis terræ → o mundo* (D30); *plenitúdo → plenitude*; *aquilo → norte* (D43). The resumptive *vós os fundastes … vós os criastes* supplies the object that the Latin's fronted accusatives carry. Rhyme *fundastes … criastes* accepted (checks): it is the Latin's own parallel *tu fundásti … tu creásti*.",
+    "88:13": "*Thabor → Tabor*, *Hermon → Hermon* (D42).",
+    "88:14": "*Firmétur … exaltétur* as reflexive jussives (*Firme-se … exalte-se*); *firmáre → firmar* (row). *déxtera → direita* (row). Articles supplied to *justiça e juízo*.",
+    "88:15": "*præcédent fáciem tuam → irão diante da vossa face*. *scire → conhecer* (row, open); *jubilátio → aclamação* (D43 names 88:15).",
+    "88:16": "*tota die → o dia todo* (D24). The first colon carries two clauses, as in the Latin.",
+    "88:18": "*eórum → deles*, so that *seu* is not heard as God's. *cornu → chifre* (row). The blind reader flagged *chifre* for the Brazilian slang sense; the row (open) keeps the image, as 88:25.",
+    "88:20": "*sanctis tuis* (ὁσίοις) → *aos vossos santos* (row). *adjutórium → auxílio*; *in poténte → num poderoso* (the responsory in Commune C4 reads *super poténtem*; *num* follows the psalter's *in*). *plebs → povo*.",
+    "88:21": "Read alone as a gradual/responsory (Commune C4, missa Sancti, grep). *óleum sanctum meum → o meu óleo santo* (adjective after, as *monte santo*).",
+    "88:22": "*auxiliári → ajudar* here and in 88:44, so that 88:44's *adjutórium* (*auxílio*) and *auxiliátus* stay distinct as they are in the Latin. *confortáre → fortalecer*.",
+    "88:23": "*non appónet nocére → não voltará a fazer-lhe mal* (the *appónere ut* row). The responsory's variant *non nocébit ei* would be *não lhe fará mal*.",
+    "88:26": "*déxtera → direita*.",
+    "88:27": "*suscéptor → amparo* (D19 names 88:27).",
+    "88:28": "*pónere* + predicate → *fazer* (row). *excélsus → excelso*; *præ → acima de*.",
+    "88:29": "*serváre* with a dative of person → *conservar* (the *serváre* row lists 88:29; *guardar* is kept for *custodíre*, 88:32). *fidélis → fiel*; the copula *será* supplied.",
+    "88:31": "*derelínquere → abandonar*; *judícia → juízos*; *ambuláre → andar* (rows).",
+    "88:32": "*profanáre → profanar* (row, 88:32, 35); *custodíre → guardar*; *mandáta → mandamentos*.",
+    "88:33": "*visitáre → visitar* and *virga → vara* (rows name 88:33).",
+    "88:35": "*írrita fácere → tornar vão*; the resumptive *o* supplied after the fronted object.",
+    "88:37": "*in conspéctu meo → à minha vista* (22:5, 55:9). The copula *será* supplied in the first colon. *testis in cælo fidélis → e testemunha fiel no céu*: the Latin leaves open whether the moon is the witness or another; the draft does not decide (MS1932 adds *(Deus)*).",
+    "88:39": "*repéllere → repelir* (D42 names 88:39); *despícere → desdenhar* (row, 21:25). The Latin gives both verbs no object; kept.",
+    "88:42": "*diripere → saquear* (D43 names 88:42). *transeúntes viam → os que passam pelo caminho* (79:13). *oppróbrium → afronta* (78:4, 43:14).",
+    "88:43": "*depriméntium → dos que o oprimem*: *deprímere* is 'press down'. *oprimir* is its nearest plain verb; *rebaixam* is an option not taken because it is weaker. *lætificáre → alegrar* (row).",
+    "88:44": "*bellum → guerra*.",
+    "88:45": "*collídere → esmagar* (row, passive, open); *in terram → por terra* (motion).",
+    "88:46": "*minoráre → abreviar* (MS1932): 'make smaller' of days. *diminuir* is the *diminúere* row's.",
+    "88:47": "D27's formula; *in finem → para sempre*. *exardéscere → inflamar-se* (38:4).",
+    "88:48": "*Memoráre → Lembrai-vos* (safe: enclitic, D13). *substántia mea → o meu ser* (D39). Draft 2 (the stylist): *do que é* for *quæ* (draft 1 *de qual é* sounded translated), and *em vão* before the verb, which is the Latin's order (*vane constituísti*).",
+    "88:49": "The Latin has no relative before *éruet*; *que* supplied (grammar, D2) so that the second colon is heard as the same man. *éruere … de manu → arrancar … da mão* (85:13). *ínferi → inferno* (row).",
+    "88:50": "*antíquæ → antigas*, after the noun (78:8 *iniquidades antigas*).",
+    "88:51": "*Memor esto → Lembrai-vos* (row); *sinus → seio*.",
+    "88:52": "*Quod exprobravérunt* → *Com que afrontaram*: *quod* resumes *oppróbrii* (51), an internal accusative ('the reproach with which they reproached'). *exprobráre → afrontar* (row).",
+    "88:53": "*Benedíctus Dóminus → Bendito o Senhor* (row); *fiat, fiat → assim seja, assim seja* (D41 names 88:53)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps088.md (no Diurnal: not a day-hour psalm) and the glossary rows. Hard readings: 88:13 *tuum brácchium cum poténtia* with no verb; 88:19 *assúmptio* (tied to 88:27 through the Greek); 88:27 the address inside God's speech (D17); 88:34 *dispérgere* and *nocére in veritáte*; 88:36 the oath formula *Si … méntiar*; 88:39 *distulísti*; 88:41 *sepes* and *firmaméntum*; 88:45 *ab emundatióne*; 88:51 *contínui in sinu*; 88:52 *commutátio*. Liturgical colons that are read alone (DO, grep): 88:2–2b (Introit/antiphon), 88:21–23 (gradual, responsories in Commune C4), 88:20a (responsory, *super poténtem*), 88:27 (Christmas versicle), 88:36–38 (responsory in Commune C2)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Soft flags accepted: 88:2b and 88:5 −6 (the formula *de geração em geração* is shorter than the Latin's); 88:4b +4 (*para todo o sempre*, D37); 88:9b +3 and 88:25a +4 (copula *está / estarão* and articles supplied); 88:15 +3/+4 (*irão diante da*, *bem-aventurado*); 88:16a −3; 88:22a −4 (*ajudará* is shorter than *auxiliábitur*); 88:30a +5 (*pelos séculos dos séculos*, the formula); 88:31b −4, 88:35b −4, 88:44b −3, 88:51a −3 (the Portuguese is complete); 88:36 +4/+5 (the oath made explicit, *permanecerá*); 88:42b +3; 88:47a +3 (D27 formula); 88:53b +4 (D41 *assim seja*); 88:12 rhyme (the Latin's parallel)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 7 minor, no major. Taken 2 (88:34, 88:45); refused 5 (88:6, 88:13, 88:15, 88:19, 88:36), each kept as an option where it had a form.",
+      "outcomes": [
+        {
+          "verse": "88:6",
+          "remark": "dar graças por turns objects into causes; étenim = 'deveras'",
+          "outcome": "option",
+          "decision": "conf6",
+          "reason": "D5 is settled; 70:22 already renders confitéri + accusative with *por*."
+        },
+        {
+          "verse": "88:13",
+          "remark": "no copula: 'o vosso braço com potência'",
+          "outcome": "option",
+          "decision": "brac13",
+          "reason": "The Greek fixes the predicate reading; it echoes 88:12."
+        },
+        {
+          "verse": "88:15",
+          "remark": "jubilatio → júbilo",
+          "outcome": "refused",
+          "reason": "D43 settled *jubilátio → aclamação* and names 88:15."
+        },
+        {
+          "verse": "88:19",
+          "remark": "amparo blurs assúmptio with suscéptor; 'acolhimento'",
+          "outcome": "option",
+          "decision": "assump",
+          "reason": "ἀντίλημψις / ἀντιλήμπτωρ are one word in the Greek (D15's test)."
+        },
+        {
+          "verse": "88:34",
+          "remark": "retirar loses dispérgere; 'dissiparei'",
+          "outcome": "taken",
+          "decision": "d34"
+        },
+        {
+          "verse": "88:36",
+          "remark": "keep the oath formula 'se eu mentir a Davi!'",
+          "outcome": "option",
+          "decision": "oath36",
+          "reason": "Heard as a condition with the opposite sense; D2 lets grammar yield."
+        },
+        {
+          "verse": "88:45",
+          "remark": "eum is the object; 'apartando-o da purificação'",
+          "outcome": "taken",
+          "decision": "em45"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 7 verses; best 88:33, worst 88:48. Taken 5 (88:7, 88:18, 88:45 in part, 88:48, 88:51); refused 2 (88:13, 88:39).",
+      "outcomes": [
+        {
+          "verse": "88:7",
+          "remark": "'Porque quem' stutters; 'Pois quem'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "88:13",
+          "remark": "'com potência' technical; 'poderio'",
+          "outcome": "refused",
+          "reason": "*poténtia → potência* is the row (64:7, 70:16, 79:3); *poderio* is its option there."
+        },
+        {
+          "verse": "88:18",
+          "remark": "'beneplácito' chancery Latin; 'por vosso favor'",
+          "outcome": "taken",
+          "decision": "bene"
+        },
+        {
+          "verse": "88:39",
+          "remark": "'desdenhastes' harsh and rare; 'desprezastes'",
+          "outcome": "refused",
+          "reason": "*desprezar* is *spérnere*'s word; *despícere → desdenhar* (row, 21:25 keeps both apart)."
+        },
+        {
+          "verse": "88:45",
+          "remark": "'Destruístes-lhe' stiff; 'Destruístes a sua purificação'",
+          "outcome": "option",
+          "decision": "em45",
+          "reason": "The Latinist's reading (eum as the object) was taken; the stylist's form keeps draft 1's reading."
+        },
+        {
+          "verse": "88:48",
+          "remark": "'de qual é' translated; 'do que é'; 'em vão' before the verb",
+          "outcome": "taken"
+        },
+        {
+          "verse": "88:51",
+          "remark": "'contive' = restrained; 'de muitas nações' dangles",
+          "outcome": "taken",
+          "decision": "ct51"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, blind. 66 readings and 7 unknown words. Acted on: 88:7 (question not heard, *Pois*), 88:18 *beneplácito* unknown (*favor*), 88:41 *sebes* unknown (*cercas*), 88:51 parse lost (order and *guardei*). The rest are accepted: the Latin's own obscurities (88:34b, 88:37 the witness, 88:45 purification, 88:52 *mudança*), settled words (*Cristo* D19, *poderes* D43, *para sempre* in D27's formula, *voltará a* in the *appónere* row), and *chifre* (row, open; the image stays, rule 5). *Tabor*, *Hermon*, *profanastes*, *açoites* stay as they are: they are proper names and words that belong to the register.",
+      "outcomes": [
+        {
+          "verse": "88:7",
+          "remark": "'Porque quem' not heard as a question",
+          "outcome": "taken"
+        },
+        {
+          "verse": "88:18",
+          "remark": "beneplácito unknown; chifre slang",
+          "outcome": "taken",
+          "decision": "bene"
+        },
+        {
+          "verse": "88:41",
+          "remark": "sebes unknown",
+          "outcome": "taken",
+          "decision": "sep"
+        },
+        {
+          "verse": "88:51",
+          "remark": "parse lost; 'seio' odd",
+          "outcome": "taken",
+          "decision": "ct51"
+        },
+        {
+          "verse": "88:34",
+          "remark": "'nem farei mal na minha verdade' obscure",
+          "outcome": "option",
+          "decision": "d34",
+          "reason": "Kept for the Latin's echo of 88:23; MS1932's sense is the option."
+        },
+        {
+          "verse": "88:36",
+          "remark": "'Uma vez' heard as 'one time'",
+          "outcome": "refused",
+          "reason": "*Semel → uma vez* (61:12); in an oath, 'once' is enough."
+        },
+        {
+          "verse": "88:47",
+          "remark": "'até quando … para sempre' sounds contradictory",
+          "outcome": "refused",
+          "reason": "D27's formula (78:5)."
+        },
+        {
+          "verse": "88:52",
+          "remark": "'a mudança do vosso Cristo' incomprehensible; 'Com que' parse",
+          "outcome": "option",
+          "decision": "cm52",
+          "reason": "The Latin is itself obscure; *troca* is no clearer."
+        },
+        {
+          "verse": "88:39",
+          "remark": "'Cristo' heard as Jesus",
+          "outcome": "refused",
+          "reason": "D19: *Christus → Cristo* on purpose."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 88:7 *Pois quem*; 88:18 *no vosso favor* (new decision `bene`); 88:34 *dissiparei*; 88:41 *cercas*; 88:45 *Vós o destruístes, apartando-o da purificação*; 88:48 *do que é* and *em vão* before the verb; 88:51 *que de muitas nações guardei no meu seio*. Draft 1 is kept as prayed.v1.json. Re-checked: hard pass. The only new soft flag is 88:45a +4, the cost of restoring *eum* and *ab*, which is accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2 — claude-opus-5-5, fresh context, with latin.json. Clean of majors: four minors, of which one was taken (88:45) and three held with options (88:13, 88:19, 88:36, each repeated from v1). The other v2 changes (88:7, 18, 34, 41, 48, 51) passed without remark.",
+      "outcomes": [
+        {
+          "verse": "88:13",
+          "remark": "predicate shifted to ownership; 'o vosso braço é com potência'",
+          "outcome": "option",
+          "decision": "brac13",
+          "reason": "The Greek σὸς ὁ βραχίων fixes the predicate reading; it echoes 88:12 *Tui … tua*."
+        },
+        {
+          "verse": "88:19",
+          "remark": "amparo shared with suscéptor; 'acolhimento'",
+          "outcome": "option",
+          "decision": "assump",
+          "reason": "ἀντίλημψις / ἀντιλήμπτωρ: one word in the Greek (D15's test)."
+        },
+        {
+          "verse": "88:36",
+          "remark": "oath formula resolved; 'pelo meu santo'",
+          "outcome": "option",
+          "decision": "oath36",
+          "reason": "*se eu mentir … a sua descendência permanecerá* is heard as a condition with the opposite sense; *pelo meu santo* is heard as a saint."
+        },
+        {
+          "verse": "88:45",
+          "remark": "'apartando-o' adds a participle; 'tirando-lhe a purificação'",
+          "outcome": "taken",
+          "decision": "em45"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 3,
+      "note": "v3: 88:45 *Vós o destruístes, tirando-lhe a purificação* (the v2 Latinist's own wording). No reader has read draft 3 as a whole; its only difference from draft 2 is the gate's fix. Draft 2 kept as prayed.v2.json."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{"append": [
+ {"row": "| præcéptum |", "text": "Ps 93:20 *vós que formais a fadiga no decreto* — held against the stylist (v1) and the Latinist (v2 gate), who both asked for *preceito*; kept as an option."},
+ {"row": "| fíngere |", "text": "Ps 93:9 *quem formou o olho*, 93:20 *vós que formais a fadiga no decreto* (second person kept, D2)."},
+ {"row": "| mitigáre |", "text": "Ps 93:13 *mítiges ei a diébus malis* departs: *Para que lhe deis alívio dos dias maus* (the Latinist's fix; *abrandeis* was unknown to the ambiguity reader and the construction with *a* would not carry)."},
+ {"row": "| movéri (", "text": "Ps 93:18 *Motus est pes meus* → *O meu pé foi abalado* (the stylist's worst line; *vacilou* kept as an option)."},
+ {"row": "| adhærére |", "text": "Ps 93:20 *Numquid adhæret tibi sedes iniquitatis* → *Acaso se apega a vós o trono da iniquidade*."},
+ {"row": "| órphanus / pupíllus |", "text": "Ps 93:6 *e mataram os órfãos* (plural, *pupíllos*)."},
+ {"row": "| insípiens / insipiéntia |", "text": "Ps 93:8 *insipiéntes in pópulo* → *insensatos entre o povo*, with *stulti* → *tolos* (D43)."},
+ {"row": "| inférnus / ínferi |", "text": "Ps 93:17 *por pouco teria habitado no inferno a minha alma* — the ambiguity reader heard hell; kept (the Latin's word)."},
+ {"row": "| sciéntia |", "text": "Ps 93:10 *quem ensina ao homem o saber*."},
+ {"row": "| *Exaltáre* (passive imperative, to God) |", "text": "Ps 93:2 *Exaltai-vos, vós que julgais a terra* — addressed to God (*qui júdicas*); the ambiguity reader heard human judges, kept (the Latin's apostrophe)."},
+ {"row": "| lacus / fóvea |", "text": "Ps 93:13 *donec fodiátur peccatóri fóvea* → *até que se cave o fosso para o pecador*."},
+ {"row": "| consideráre |", "text": "Ps 93:9 absolute use *non consíderat* → *não observa* (no object; *considera* hung in the air)."},
+ {"row": "| stare |", "text": "Ps 93:16 *quis stabit mecum* → *quem estará de pé comigo* (the stylist's *ficará firme* kept as an option)."},
+ {"row": "| úsquequo |", "text": "Ps 93:3 twice, *Até quando os pecadores, Senhor, * até quando os pecadores se gloriarão?*"},
+ {"row": "| gloriári in |", "text": "Ps 93:3 absolute *gloriabúntur* → *se gloriarão*."},
+ {"row": "| plebs |", "text": "Ps 93:14 *não repelirá o seu povo* — also the Invitatory (Psalterium/Invitatorium.txt; Ps 94 should copy the line)."},
+ {"row": "| réddere |", "text": "Ps 93:2 *pagai a retribuição aos soberbos*, 93:23 *E lhes pagará a iniquidade deles* (the stylist's *dai* kept as an option)."},
+ {"row": "| vindíctæ |", "text": "Ps 93:1 *O Deus das vinganças é o Senhor* (twice)."},
+ {"row": "| convértere in (a thing into another) |", "text": "Ps 93:15 *quoadúsque justítia convertátur in judícium* → *Até que a justiça se converta em juízo*."}
+],
+"terms": [
+ "| vexáre | maltratar | open | Ps 93:5 *e maltrataram a vossa herança* (κακόω); also 105:32, 106:39. The cognate *vexar* means to shame in pt-BR (false friend); *afligir* belongs to afflígere. |",
+ "| interfícere / occídere | assassinar / matar | open | Ps 93:6 *Assassinaram a viúva e o forasteiro: * e mataram os órfãos* — two verbs in the Latin, two in Portuguese; grep before reuse. |",
+ "| effári | proferir | open | Ps 93:4 *Proferirão e falarão iniquidade* — the ambiguity reader did not know the word; kept (loquor → falar is taken). |",
+ "| líbere ágere | agir livremente | open | Ps 93:1 *o Deus das vinganças agiu livremente* (παρρησιάζομαι). |",
+ "| captáre in | dar caça a | open | Ps 93:21 *Darão caça à alma do justo* — the stylist's best line. |",
+ "| sápere (imperative *sápite*) | ser sábio (*sede sábios enfim*) | open | Ps 93:8 *stulti aliquándo sápite* → *e vós, tolos, sede sábios enfim*. |"
+]}
