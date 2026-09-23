@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "830759e79ffc3d32bd5277cc84f4e96647de412a84fb0fdb11c8f9da9926d001",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T14:07:37+00:00",
+  "reply": "{\"verses\": [{\"id\": \"36:10\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"qui salvátur\", \"portuguese\": \"quem escapa\", \"problem\": \"The Latin is passive ('he who is saved, who is being kept safe'); 'escapa' makes it active and narrows it to escaping. The sense, the survivor, is right, but the voice is changed.\", \"fix\": \"Na ira da chama seja devorado quem se salva:\"}]}, {\"id\": \"36:11\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"caput príncipum inimicórum\", \"portuguese\": \"a cabeça dos príncipes inimigos\", \"problem\": \"'inimicorum' can be the adjective ('hostile princes') or the noun ('the princes of the enemies'). The Latin leaves both open; 'príncipes inimigos' reads mostly as the adjective. It is defensible, and Portuguese keeps some of the ambiguity, so this is noted only.\", \"fix\": \"Quebrai a cabeça dos príncipes dos inimigos,\"}]}], \"overall\": \"A faithful, close rendering of Sirach 36:1-16 that keeps the Latin's imperatives, tenses, and concrete images (the hand, the right arm, the flame), including the Septuagintal 'qui salvatur'. The pointing marks match the Latin in every verse (one mediant each, no flex or second mediant). The only points are two minor ones: the passive 'salvatur' is rendered as the active 'escapa', and the genitive 'inimicorum' is read as an adjective.\"}\n"
+}

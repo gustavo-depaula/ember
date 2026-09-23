@@ -1,0 +1,684 @@
+{
+  "psalm": 215,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "45:15": "{vere}, vós sois um Deus escondido, * Deus de Israel, Salvador.",
+    "45:16": "Foram envergonhados, e coraram todos: * juntos {abierunt} os {fabricatores} de erros.",
+    "45:17": "Israel foi salvo no Senhor com uma salvação eterna: * não sereis envergonhados, e não corareis {saeculi}.",
+    "45:18": "Porque isto diz o Senhor, {creans} os céus, * o próprio Deus que formou a terra e a fez, {plastes}:",
+    "45:19": "Não a criou em vão, formou-a para que fosse habitada: * Eu sou o Senhor, e não há outro.",
+    "45:20": "Não falei às escondidas, * num lugar tenebroso da terra:",
+    "45:21": "{frustra}: * eu sou o Senhor, que falo justiça, que anuncio {recta}.",
+    "45:22": "Reuni-vos, e vinde, e aproximai-vos juntos, * vós que fostes salvos dentre as nações:",
+    "45:23": "{nescierunt} os que levantam {lignum}, * e rogam a um deus que não salva.",
+    "45:24": "Anunciai, e vinde, e {consiliamini} juntos: * Quem {auditum} desde o início, e desde então o predisse?",
+    "45:25": "Acaso não sou eu o Senhor, e não há mais Deus além de mim? * Deus justo, e que salve, não há {praeter}.",
+    "45:26": "{convertimini} a mim, e sereis salvos, todos os confins da terra: * porque eu sou Deus, e não há outro.",
+    "45:27": "Por mim mesmo jurei: sairá da minha boca a palavra de justiça, * e não {revertetur}:",
+    "45:28": "Porque a mim {curvabitur} todo joelho, * e {jurabit} toda língua.",
+    "45:29": "Portanto, no Senhor, dirá, estão {justitiae} e o domínio: * a ele virão, e serão envergonhados todos os que lhe resistem.",
+    "45:30": "No Senhor será justificada, e {laudabitur} * toda a descendência de Israel."
+  },
+  "decisions": [
+    {
+      "id": "vere",
+      "refs": [
+        "45:15"
+      ],
+      "latin": "Vere tu es",
+      "kind": "word",
+      "why": "The adverb opens the canticle and is said aloud at the head of Friday Lauds. MS1932 'verdadeiramente'; DM1962 'Em verdade'; the CNBB Liturgia das Horas 'realmente' (circulation.md). 'Tu es' is the subject named, as the Latin names it: 'vós sois'.",
+      "options": [
+        {
+          "label": "Em verdade",
+          "forms": {
+            "vere": "Em verdade"
+          },
+          "note": "Draft. Plain and biblical ('Em verdade vos digo'); three syllables for the Latin's two, where 'Verdadeiramente' is six and puts the colon +4 on the Latin. DM1962 has it, at the head of this same Latin.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Verdadeiramente",
+          "forms": {
+            "vere": "Verdadeiramente"
+          },
+          "note": "MS1932's word and the closest adverb; long at the head of a line meant for one breath.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Na verdade",
+          "forms": {
+            "vere": "Na verdade"
+          },
+          "note": "Refused: in current Brazilian speech 'na verdade' means 'actually, in fact' and corrects what went before.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abierunt",
+      "refs": [
+        "45:16"
+      ],
+      "latin": "simul abiérunt in confusiónem",
+      "kind": "word",
+      "why": "abíre is 'go away, depart'; in + accusative is motion into. confúsio → 'vergonha' as confúndi → 'ser envergonhado' in the first colon (D15; 39:16, 68:20, 70:13, 131:18 have confúsio → vergonha). simul → 'juntos' (the working row).",
+      "options": [
+        {
+          "label": "se foram para a vergonha",
+          "forms": {
+            "abierunt": "se foram para a vergonha"
+          },
+          "note": "Draft. 'ir-se' keeps the going-away of ab-íre; 'para' the motion of in + accusative.",
+          "from": "draft"
+        },
+        {
+          "label": "foram para a vergonha",
+          "forms": {
+            "abierunt": "foram para a vergonha"
+          },
+          "note": "Shorter; loses the 'away' of ab-.",
+          "from": "draft"
+        },
+        {
+          "label": "caíram na vergonha",
+          "forms": {
+            "abierunt": "caíram na vergonha"
+          },
+          "note": "Idiomatic, but 'fall' is another image than the Latin's going (rule 2).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fabricatores",
+      "refs": [
+        "45:16"
+      ],
+      "latin": "fabricatóres errórum",
+      "kind": "word",
+      "why": "The makers of 'errors' — the idols, but the Latin says errors, and the image stays (MS1932 glosses '(ou ídolos)'; DM1962 'fabricadores de ídolos' follows the Hebrew-family sense). The verb fabricári has 'formar' (73:16) and 'forjar' (128:3) in the glossary; formar is formáre's here (45:18), so it cannot serve.",
+      "options": [
+        {
+          "label": "fabricantes",
+          "forms": {
+            "fabricatores": "fabricantes"
+          },
+          "note": "Draft; MS1932 'os fabricantes de erros', DRB 'forgers of errors'. The cognate; a stylist once heard factories in 'fabricastes' (73:16) — here, of idol-makers, the workshop is the point.",
+          "from": "MS1932"
+        },
+        {
+          "label": "forjadores",
+          "forms": {
+            "fabricatores": "forjadores"
+          },
+          "note": "The 128:3 verb (forjaram) as a noun: craft and contriving at once, as DRB's 'forgers'. Rarer as a noun.",
+          "from": "glossary"
+        },
+        {
+          "label": "artífices",
+          "forms": {
+            "fabricatores": "artífices"
+          },
+          "note": "Dignified; proparoxytone, and it would praise them.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "saeculi",
+      "refs": [
+        "45:17"
+      ],
+      "latin": "usque in sǽculum sǽculi",
+      "kind": "glossary",
+      "why": "Two glossary rows meet: in sǽculum sǽculi → 'pelos séculos dos séculos' (D27) and usque in ætérnum / in sǽculum → 'para todo o sempre' (D37: usque is carried by 'todo'). The phrase usque in sǽculum sǽculi has no precedent in the finished psalms (concord.py). The Hebrew-family CNBB LH has 'eternamente pelos séculos'.",
+      "options": [
+        {
+          "label": "pelos séculos dos séculos",
+          "forms": {
+            "saeculi": "pelos séculos dos séculos"
+          },
+          "note": "Draft: D27's formula, the words the Latin has; usque ('all the way') is left inside 'pelos', which already says 'throughout'. MS1932 'pelos séculos dos séculos'. The colon ends on a proparoxytone, as the Latin's does (sǽculi).",
+          "from": "glossary"
+        },
+        {
+          "label": "para todo o sempre",
+          "forms": {
+            "saeculi": "para todo o sempre"
+          },
+          "note": "D37 extended; keeps usque but drops the doubled sǽculum.",
+          "from": "glossary"
+        },
+        {
+          "label": "até os séculos dos séculos",
+          "forms": {
+            "saeculi": "até os séculos dos séculos"
+          },
+          "note": "usque as 'até'; the formula bent out of shape.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "creans",
+      "refs": [
+        "45:18"
+      ],
+      "latin": "Dóminus creans cælos … Deus formans terram, et fáciens eam",
+      "kind": "grammar",
+      "why": "Three present participles (creans, formans, fáciens) used as titles: the one who creates, forms, makes. The next verse turns them into perfects of the same acts (creávit eam … formávit eam), so the creating is a done thing. Portuguese has no present participle for this; a relative clause must choose a tense. DRB 'that created … that formed'; MS1932 'que criou … que formou'; DM1962 'criador dos céus'.",
+      "options": [
+        {
+          "label": "que criou",
+          "forms": {
+            "creans": "que criou"
+          },
+          "note": "Draft: the past, as DRB and MS1932, and as 45:19 itself says it (creávit, formávit); 'que formou … e a fez' follow in the second colon.",
+          "from": "draft"
+        },
+        {
+          "label": "que cria",
+          "forms": {
+            "creans": "que cria"
+          },
+          "note": "The Latin's present tense; heard as continuing creation, which the participle does not assert either.",
+          "from": "draft"
+        },
+        {
+          "label": "criador dos",
+          "forms": {
+            "creans": "criador dos"
+          },
+          "note": "DM1962's noun: timeless like the participle, but a noun for a verb, and the other two participles would have to follow.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "plastes",
+      "refs": [
+        "45:18"
+      ],
+      "latin": "ipse plastes ejus",
+      "kind": "word",
+      "why": "plastes (πλάστης) is 'a moulder, potter, modeller' — L&S cites this verse under the ecclesiastical sense 'creator, maker'. The Latin makes it a noun in apposition, and repeats ipse (ipse Deus … ipse plastes). The Hebrew has 'he established it' (MS1932 'que a dispôs assim', DM1962 'consolidou' — Hebrew family). The glossary gives plasmáre → 'moldar' (118:73, the potter's verb, same Greek root). 'o próprio … ele próprio' keeps the repeated ipse.",
+      "options": [
+        {
+          "label": "ele próprio a moldou",
+          "forms": {
+            "plastes": "ele próprio a moldou"
+          },
+          "note": "Draft: the noun made a clause (grammar, as D16), keeping the potter's image in the glossary's verb for the same root; the colon ends on an oxytone.",
+          "from": "draft"
+        },
+        {
+          "label": "ele próprio o seu modelador",
+          "forms": {
+            "plastes": "ele próprio o seu modelador"
+          },
+          "note": "The Latin's noun kept; 'modelador' is heard as a craftsman's trade word, not a title.",
+          "from": "draft"
+        },
+        {
+          "label": "ele próprio o seu artífice",
+          "forms": {
+            "plastes": "ele próprio o seu artífice"
+          },
+          "note": "A noun, L&S's 'maker'; loses the moulding, and ends on a proparoxytone.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "frustra",
+      "refs": [
+        "45:21"
+      ],
+      "latin": "Non dixi sémini Jacob frustra: Quǽrite me",
+      "kind": "ambiguity",
+      "why": "Where does frustra belong? In the Latin it stands between 'I did not say to the seed of Jacob' and 'Seek me', so it can go with either: 'I did not say in vain … Seek me' or 'I did not say … Seek me in vain' (DRB moves it into the quotation; the Hebrew has tohu 'in emptiness' before 'seek me', DM1962 'em vão me procurareis'). The Latin's order leaves it open; so does the draft's. semen → 'descendência' (D32; no plant image here).",
+      "options": [
+        {
+          "label": "Não disse à descendência de Jacó em vão: Buscai-me",
+          "forms": {
+            "frustra": "Não disse à descendência de Jacó em vão: Buscai-me"
+          },
+          "note": "Draft: the Latin's order, the adverb between the two, open both ways. quǽrere → 'buscar' (glossary); 'Buscai' ≠ 'busquei' (rule 3).",
+          "from": "draft"
+        },
+        {
+          "label": "Não disse em vão à descendência de Jacó: Buscai-me",
+          "forms": {
+            "frustra": "Não disse em vão à descendência de Jacó: Buscai-me"
+          },
+          "note": "Resolves it: the saying was not in vain.",
+          "from": "draft"
+        },
+        {
+          "label": "Não disse à descendência de Jacó: Buscai-me em vão",
+          "forms": {
+            "frustra": "Não disse à descendência de Jacó: Buscai-me em vão"
+          },
+          "note": "DRB's reading; resolves it the other way, and puts a Hebrew sense on the Latin.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "recta",
+      "refs": [
+        "45:21"
+      ],
+      "latin": "annúntians recta",
+      "kind": "grammar",
+      "why": "A neuter plural adjective as object: 'right things'. loquens justítiam → 'que falo justiça', the accusative of content without article as 57:2 (justítiam loquímini → falais justiça). ego Dóminus → 'eu sou o Senhor' (the copula supplied, as in 45:19 and 45:26).",
+      "options": [
+        {
+          "label": "o que é reto",
+          "forms": {
+            "recta": "o que é reto"
+          },
+          "note": "Draft; MS1932 'o que é recto'. The glossary notes 'o que é reto' was once heard as 'assess' beside judging (57:2); beside 'anunciar' there is no such risk.",
+          "from": "MS1932"
+        },
+        {
+          "label": "coisas retas",
+          "forms": {
+            "recta": "coisas retas"
+          },
+          "note": "Word for word (DRB 'right things'); a noun supplied, as 2:1 'coisas vãs'.",
+          "from": "draft"
+        },
+        {
+          "label": "a retidão",
+          "forms": {
+            "recta": "a retidão"
+          },
+          "note": "A noun for the adjective; retidão is diréctio's word (glossary).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nescierunt",
+      "refs": [
+        "45:23"
+      ],
+      "latin": "Nesciérunt",
+      "kind": "glossary",
+      "why": "Absolute: 'they have not known' — they are without knowledge (DRB 'they have no knowledge'; MS1932 'insensatos se têm mostrado'). 81:5 has the same word at the head of a verse: 'Não souberam, nem entenderam'.",
+      "options": [
+        {
+          "label": "Não souberam",
+          "forms": {
+            "nescierunt": "Não souberam"
+          },
+          "note": "Draft: the Latin's perfect, as 81:5 has it (rule 6).",
+          "from": "glossary"
+        },
+        {
+          "label": "Nada sabem",
+          "forms": {
+            "nescierunt": "Nada sabem"
+          },
+          "note": "The stative sense, and 'nada' gives the absolute verb an object Portuguese likes; supplies a word.",
+          "from": "draft"
+        },
+        {
+          "label": "Não têm conhecimento",
+          "forms": {
+            "nescierunt": "Não têm conhecimento"
+          },
+          "note": "DRB's build; heard as office language ('não tenho conhecimento').",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "lignum",
+      "refs": [
+        "45:23"
+      ],
+      "latin": "levant lignum sculptúræ suæ",
+      "kind": "word",
+      "why": "'The wood of their carving'. lignum here is not a tree (the glossary's 'árvore' is for the living tree, 1:3) but the carved block. sculptúra → the glossary has sculptília → 'imagens esculpidas' and notes that 'esculturas' was heard as art. leváre → 'levantar' (glossary): both lifting up and setting up, as levant can be (DRB 'set up'; the LXX and Hebrew 'carry').",
+      "options": [
+        {
+          "label": "o seu lenho esculpido",
+          "forms": {
+            "lignum": "o seu lenho esculpido"
+          },
+          "note": "Draft: wood and carving both kept, the genitive made an adjective (grammar); 'lenho' is a piece of wood, known from the Santo Lenho; the colon is +2 on the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "a sua madeira esculpida",
+          "forms": {
+            "lignum": "a sua madeira esculpida"
+          },
+          "note": "Plainer word; 'madeira' is the material rather than the block.",
+          "from": "draft"
+        },
+        {
+          "label": "o lenho da sua escultura",
+          "forms": {
+            "lignum": "o lenho da sua escultura"
+          },
+          "note": "The Latin's genitive kept; +4 on the Latin, and 'escultura' leans to art.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "consiliamini",
+      "refs": [
+        "45:24"
+      ],
+      "latin": "consiliámini simul",
+      "kind": "glossary",
+      "why": "consiliári, 'to take counsel, consult' (L&S). The glossary's open row gives 'planejar' from 30:14, its only psalm place, where the wicked plot to take a life; here the nations are summoned to deliberate together, with no object — 'planejai juntos' would ask what they are to plan. DRB 'consult together'; MS1932 'tomai conselho'. Departing from the row here; the row stays for plotting.",
+      "options": [
+        {
+          "label": "tomai conselho",
+          "forms": {
+            "consiliamini": "tomai conselho"
+          },
+          "note": "Draft: keeps consílium's word ('conselho', D33) inside the verb's rendering; MS1932 has it.",
+          "from": "MS1932"
+        },
+        {
+          "label": "planejai",
+          "forms": {
+            "consiliamini": "planejai"
+          },
+          "note": "The glossary row (30:14); wants an object here.",
+          "from": "glossary"
+        },
+        {
+          "label": "aconselhai-vos",
+          "forms": {
+            "consiliamini": "aconselhai-vos"
+          },
+          "note": "One verb for one; 'aconselhar-se' is 'seek advice from someone', which the summons does not mean.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "auditum",
+      "refs": [
+        "45:24"
+      ],
+      "latin": "Quis audítum fecit hoc",
+      "kind": "grammar",
+      "why": "audítum fácere, 'to make heard' (the Hebrew causative 'who announced'); audítus elsewhere is the hearing (D44, 50:10). DRB 'who hath declared this'. The Latin then goes on without a conjunction (ex tunc prædíxit illud); 'e' is supplied so that the second verb is heard as the same 'who'. ab inítio → 'desde o início' (glossary; 73:2, 76:12); ex tunc → 'desde então' (75:8, 92:2).",
+      "options": [
+        {
+          "label": "fez ouvir isto",
+          "forms": {
+            "auditum": "fez ouvir isto"
+          },
+          "note": "Draft: the Latin's build (fácere + the hearing), plain Portuguese.",
+          "from": "draft"
+        },
+        {
+          "label": "deu a ouvir isto",
+          "forms": {
+            "auditum": "deu a ouvir isto"
+          },
+          "note": "Also idiomatic; 'dar' is not the Latin's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "anunciou isto",
+          "forms": {
+            "auditum": "anunciou isto"
+          },
+          "note": "DRB's and MS1932's sense; 'anunciar' is annuntiáre's, which stands at the head of this very verse — two Latin words would merge.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praeter",
+      "refs": [
+        "45:25"
+      ],
+      "latin": "absque me … præter me",
+      "kind": "word",
+      "why": "Two prepositions in one verse: absque me → 'além de mim' (ultra → 'mais', as 9:39, 82:5); præter me → 'senão eu', as præter in 17:32 (quis Deus præter Dóminum → quem é Deus senão o Senhor). salvans (participle) is kept apart from Salvátor (45:15): 'que salve'.",
+      "options": [
+        {
+          "label": "senão eu",
+          "forms": {
+            "praeter": "senão eu"
+          },
+          "note": "Draft: 17:32's 'senão'; keeps the two prepositions two.",
+          "from": "glossary"
+        },
+        {
+          "label": "fora de mim",
+          "forms": {
+            "praeter": "fora de mim"
+          },
+          "note": "MS1932 ('não o há fora de mim'); keeps 'mim' as the Latin keeps me; 'estar fora de mim' is also 'to be beside myself'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "além de mim",
+          "forms": {
+            "praeter": "além de mim"
+          },
+          "note": "The same words as absque me in the first colon: two Latin prepositions merged.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "convertimini",
+      "refs": [
+        "45:26"
+      ],
+      "latin": "Convertímini ad me",
+      "kind": "glossary",
+      "why": "convértere → 'voltar' is the glossary's verb, with D25's exception: 'converter' where men are told to turn to God (7:13 'Se não vos converterdes'). This is that case: the ends of the earth summoned to God. The Brazilian LH and Lectionary have 'Voltai-vos para mim' (circulation.md).",
+      "options": [
+        {
+          "label": "Convertei-vos",
+          "forms": {
+            "convertimini": "Convertei-vos"
+          },
+          "note": "Draft: D25's exception, the Latin's own word; 'convertei' ≠ 'converti' (rule 3).",
+          "from": "glossary"
+        },
+        {
+          "label": "Voltai-vos",
+          "forms": {
+            "convertimini": "Voltai-vos"
+          },
+          "note": "The row's verb and the Brazilian liturgical wording; 'Voltai-vos' is also what the psalter says to God (6:5), so the address could blur.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "revertetur",
+      "refs": [
+        "45:27"
+      ],
+      "latin": "et non revertétur",
+      "kind": "word",
+      "why": "'And it shall not return' — the word that goes out of the mouth does not come back (cf. Isa 55:11, not quoted here). The Brazilian Lectionary has 'a palavra que não volta atrás' (circulation.md), the idiom for not revoking; MS1932 'não será revogada' explains.",
+      "options": [
+        {
+          "label": "voltará",
+          "forms": {
+            "revertetur": "voltará"
+          },
+          "note": "Draft: the Latin's image, and the verb revérti has in 103:29 and 145:4.",
+          "from": "draft"
+        },
+        {
+          "label": "voltará atrás",
+          "forms": {
+            "revertetur": "voltará atrás"
+          },
+          "note": "The Lectionary's idiom: clearer, but 'atrás' supplies the sense of revoking the Latin leaves as an image.",
+          "from": "draft"
+        },
+        {
+          "label": "será revogada",
+          "forms": {
+            "revertetur": "será revogada"
+          },
+          "note": "MS1932: an explanation, not the Latin's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "curvabitur",
+      "refs": [
+        "45:28"
+      ],
+      "latin": "Quia mihi curvábitur omne genu",
+      "kind": "word",
+      "why": "Quoted by Paul (Rom 14:11, Phil 2:10), but in other Latin words: flectétur (Rom), flectátur (Phil) — see circulation.md. Isaiah's Latin has curváre, which the glossary renders 'curvar' (incurváre 56:7; curvátus 37:7). For a knee Portuguese says 'dobrar'; every Brazilian text seen has it (LH, Lectionary, DM1962, MS1932). mihi is a dative: 'a mim'. omne genu → 'todo joelho' without article ('todo o joelho' in Brazil is 'the whole knee').",
+      "options": [
+        {
+          "label": "se dobrará",
+          "forms": {
+            "curvabitur": "se dobrará"
+          },
+          "note": "Draft: what a knee does in Portuguese, and what the Brazilian ear knows of this line; the glossary's 'curvar' is kept for the bending of backs and souls.",
+          "from": "draft"
+        },
+        {
+          "label": "se curvará",
+          "forms": {
+            "curvabitur": "se curvará"
+          },
+          "note": "The glossary's verb for the root; 'curvar o joelho' is understood but not said.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "jurabit",
+      "refs": [
+        "45:28"
+      ],
+      "latin": "et jurábit omnis lingua",
+      "kind": "word",
+      "why": "Isaiah's Latin says 'shall swear' (the Hebrew likewise). Paul quotes the line from the Greek, where the tongue 'confesses' (LXX ἐξομολογήσεται; Vulgate Rom 14:11 confitébitur, Phil 2:11 confiteátur). The Latin being translated is Isaiah's, so the tongue swears — as in the Brazilian LH and Lectionary, which also keep 'jurar'.",
+      "options": [
+        {
+          "label": "jurará",
+          "forms": {
+            "jurabit": "jurará"
+          },
+          "note": "Draft: the Latin's verb, echoing 'jurei' at the head of 45:27.",
+          "from": "draft"
+        },
+        {
+          "label": "confessará",
+          "forms": {
+            "jurabit": "confessará"
+          },
+          "note": "Paul's verb (Rom 14:11, Phil 2:11), refused: it is not in this Latin, and it would break the echo with 45:27 'jurávi'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "justitiae",
+      "refs": [
+        "45:29"
+      ],
+      "latin": "meæ sunt justítiæ et impérium",
+      "kind": "grammar",
+      "why": "The plural justítiæ with meæ, and impérium without a possessive. The finished psalms keep the plural 'as minhas justiças' (49:16, 88:32; 147:8 'as suas justiças'). impérium → 'domínio' (the open row, 85:16; canticle 211, 29:12b). 'dicet' is left without a subject, as the Latin leaves it. ergo → 'Portanto' (72:13 has 'Então', where it is a thought; here it draws a consequence).",
+      "options": [
+        {
+          "label": "as minhas justiças",
+          "forms": {
+            "justitiae": "as minhas justiças"
+          },
+          "note": "Draft: the Latin's number, as 49:16 and 88:32.",
+          "from": "glossary"
+        },
+        {
+          "label": "a minha justiça",
+          "forms": {
+            "justitiae": "a minha justiça"
+          },
+          "note": "The singular: plainer, 'justiças' can be heard as courts; the number is lost.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laudabitur",
+      "refs": [
+        "45:30"
+      ],
+      "latin": "In Dómino justificábitur, et laudábitur",
+      "kind": "glossary",
+      "why": "33:3 has the same build: In Dómino laudábitur ánima mea → 'No Senhor será louvada a minha alma'. laudáre → 'louvar' (the laus row). The Brazilian Lectionary and DM1962 antiphon say 'será justificada e glorificada toda a descendência de Israel'; 'glorificar' is glorificáre's word (85:9). justificábitur → 'será justificada' as 142:2 'non justificábitur … omnis vivens → será justificado'; the active 'justificar' was heard as 'make excuses' (glossary, 72:13, 81:3), the passive of God's justifying is not.",
+      "options": [
+        {
+          "label": "louvada",
+          "forms": {
+            "laudabitur": "louvada"
+          },
+          "note": "Draft: the Latin's word, as 33:3.",
+          "from": "glossary"
+        },
+        {
+          "label": "glorificada",
+          "forms": {
+            "laudabitur": "glorificada"
+          },
+          "note": "The Brazilian Lectionary and DM1962 wording; another Latin word's.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "45:15": "DO's file opens with the heading line '(Canticum Isaiæ * Isa 45:15-30)'; it is not a verse (readVerses skips it) and is not translated (D7, as ps233, ps211). If a Portuguese file is made for DO, the heading would read '(Cântico de Isaías * Isa 45:15-30)' — DO's range is its own line numbering; the text is Isa 45:15–25 of the Vulgate. 'Deus abscónditus' → 'um Deus escondido': the article supplied (DRB 'a hidden God'; MS1932, DM1962 'um Deus escondido'), the plain adjective as every Brazilian text has it. 'Salvátor' → 'Salvador' (the salvátor row, 24:5), capitalised as a title.",
+    "45:16": "confúndi → 'ser envergonhado' (D15), erubéscere → 'corar' (the working row; 6:11, 82:18): 'Foram envergonhados, e coraram'. The Latin's order, subject last ('todos'), is also good Portuguese. The subject is not named in the Latin; not supplied (DM1962 'os seus adversários' follows the LXX).",
+    "45:17": "salvátus … salúte: the figura (salvo … salvação) kept; the indefinite article supplied before 'salvação eterna'. non confundémini, et non erubescétis → the same pair of verbs as 45:16. Addressed to Israel, plural (vós).",
+    "45:18": "hæc dicit Dóminus → 'isto diz o Senhor' (the Brazilian Lectionary opens the same verse 'Isto diz o Senhor'; 11:6a 'diz o Senhor'). ipse Deus → 'o próprio Deus', and the second ipse 'ele próprio' (decision plastes), so the repetition stands. cælos plural → 'os céus'. formáre → 'formar', fácere → 'fazer' (94:5, 138:5). Both cola end on an oxytone (céus, moldou), which the brief allows.",
+    "45:19": "The Latin sets two clauses back to back without a conjunction (non in vanum creávit eam, ut habitarétur, formávit eam); the natural order puts the purpose after 'formou-a' (D2, order). in vanum → 'em vão' (the working row). Ego Dóminus, et non est álius → 'Eu sou o Senhor, e não há outro', identical at 45:26b ('eu sou Deus, e não há outro'), and kept apart from ultra (45:25, 'mais') and præter.",
+    "45:20": "in abscóndito → 'às escondidas', as 9:30a (the same Latin phrase, adverbial); it keeps the root of 'escondido' (45:15): the hidden God did not speak in hiding. The glossary's 'no lugar escondido' (26:5, 30:21) is for a hidden place; here the second colon names the place. tenebrósus → 'tenebroso' as 17:12 ('água tenebrosa') and 87:7; a blind reader once listed 'tenebrosos' as unknown — 'escuro' is the plainer word if a reader stumbles.",
+    "45:22": "congregári → 'reunir-se' (D43); 'Reuni-vos' carries the enclitic, so D13 allows it though 'reuni' is also 'I gathered'. accédite → 'aproximai-vos' (33:6), simul → 'juntos'. The polysyndeton (et … et) kept. qui salváti estis → 'vós que fostes salvos': the subject named. ex géntibus → 'dentre as nações' (gentes → nações).",
+    "45:23": "rogáre → 'rogar' (121:6). deum lowercase, as the Latin prints it: a god that does not save. 'não salva' against 'Salvador' / 'salvos': the Latin's word-family runs through the canticle (salvátor, salvátus, salus, salváti, salvántem, salvans, salvi) and is kept in one Portuguese family. Colon 1 is +3 syllables on the Latin: 'os que levantam' for qui levant, and the genitive sculptúræ made an adjective (decision lignum). Accepted.",
+    "45:24": "annuntiáre → 'anunciar' (D41); 'Anunciai' ≠ 'anunciei'. Colon 1 is −3 syllables on the Latin, colon 2 +2. Colon 1's −3 is the Latin's long consiliámini against 'tomai conselho'.",
+    "45:25": "numquid → 'acaso' (the open row, 7:12; the Lectionary has 'Acaso não sou eu o Senhor?'). 'Deus justo, e que salve, não há senão eu': the subjunctive in a negated relative; the participle salvans kept apart from Salvátor.",
+    "45:26": "omnes fines terræ → 'todos os confins da terra' (21:28, 66:7b, 94:4). quia → 'porque'.",
+    "45:27": "juráre in → 'jurar por' (62:12); in memetípso → 'por mim mesmo'. The comma after jurávi is made a colon: what follows is the oath's content (punctuation is grammar). justítiæ verbum → 'a palavra de justiça' (verbum → palavra); the article supplied. Colon 1 is −3 on the Latin (memetípso, egrediétur are long words). Colon 2 ends on an oxytone, 'voltará'.",
+    "45:28": "Quia → 'Porque'. Both cola keep the Latin's order, verb before subject, so the two lines answer each other as in the Latin.",
+    "45:29": "dicet → 'dirá', no subject supplied (DM1962 'dirão', MS1932 'Dir-se-á' both decide). ad eum vénient → 'a ele virão' (85:9 'virão'). repugnáre → 'resistir' (DRB 'resist', the Brazilian Lectionary 'os que lhe resistem'); the one place in the corpus, no glossary row. confundéntur → 'serão envergonhados' (D15).",
+    "45:30": "omne semen Israël → 'toda a descendência de Israel' (D32: offspring, no plant image; 'toda a' = the whole, which a collective wants). The Brazilian Lectionary line is 'no Senhor será justificada e glorificada toda a descendência de Israel': the draft differs only in 'louvada' (decision laudabitur). Colon 2 is +4 on the Latin: 'descendência' for the one-syllable semen (D32) and the article of 'toda a'. Accepted; no shorter word keeps D32. Colon 1 does not repeat 'será' before 'louvada': the Latin repeats the verb form in two words (justificábitur, laudábitur), Portuguese carries both on one auxiliary.",
+    "45:21": "Colon 2 is +4 syllables on the Latin (checks.py): the copula 'sou' and two relative 'que' are supplied for two participles (loquens, annúntians) Portuguese cannot keep as participles; 'o que é reto' adds one more (decision recta). Accepted."
+  },
+  "audit": [
+    {
+      "step": "setup",
+      "note": "Latin = DO Psalm215.txt (DO files the canticles as Psalms 210–273; Friday Lauds I in the Roman psalter). Its sixteen line ids 45:15–45:30 are DO's own: the text is Isa 45:15–25 of the Vulgate (DO splits Vulgate 45:18, 20, 21, 23 each in two). Compared with the Clementine Vulgate from Bolls (consult/ps215/bolls-VULG-23-45.json): the same words. The heading line '(Canticum Isaiæ * Isa 45:15-30)' is not a verse and is left out (D7). render.py and checks.py take the DO number 215 unchanged (they read the file by number and key on its ids). parallels.py handles psalm numbers only, so ps215/show_parallels.py builds consult/parallels/ps215.md (gitignored) (Vulgate, DRB, WLC from Bolls; LXX from consult/lxx-*.csv; MS1932 from the pdftotext text layer of printed pp. 494–495, consult/ps215/ms1932-isa45-p494-495.txt; DM1962 Friday Lauds festive canticle; DO Portuguese, no authority), as ps211 and ps214 did. concord.py and gloss.py are local helpers (concord copied from ps211). The Latin here is Jerome's Isaiah from the Hebrew, not the Gallican psalter: the LXX is a distant witness (its 45:15 'and we did not know', 45:20–21 differ widely) and was not followed where it differs."
+    },
+    {
+      "step": "draft",
+      "note": "Canticle-level draft from the parallels, the glossary and concord.py precedents (81:5 Nesciérunt; 33:3 In Dómino laudábitur; 142:2 justificábitur; 17:32 præter; 9:30a in abscóndito; 49:16, 88:32 justítias meas; 85:16 impérium; 7:13 D25 convertímini). Brazilian circulation fetched and recorded in circulation.md (CNBB LH Friday Lauds I; Lectionary, Advent III Wednesday, Is 45,6b-8.18.21b-25). Hard readings: plastes (45:18), the position of frustra (45:21), audítum fecit (45:24), the Pauline line (45:28: Isaiah's Latin says jurábit, Paul's confitébitur), meæ justítiæ (45:29)."
+    },
+    {
+      "step": "checks",
+      "note": "render.py and checks.py run with DO number 215 unchanged (no shared tool failed on the canticle). Hard checks pass: ids and pointing match the Latin. Soft flags: length +4 at 45:21b and 45:30b, +3 at 45:23a, −3 at 45:24a and 45:27a; each explained in choices and accepted. Output in checks.md."
+    }
+  ]
+}

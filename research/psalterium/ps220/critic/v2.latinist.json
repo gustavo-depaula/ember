@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "4f2be115d6d78437b78def5921ed0f3170c5561f3f894b0e7431df54c34ddd26",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T14:10:08+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation renders every clause of Daniel 3:52-58 faithfully: laudabilis as 'digno de louvor', the super- compounds consistently as 'sumamente', in saecula / in omnibus saeculis kept distinct, and the attributive sanctum in 3:53 correctly placed with nomen. No content is added or lost, tense, person and mood are preserved, and each verse carries the single mediant * in the same position as the Latin.\"}\n"
+}

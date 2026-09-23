@@ -1,0 +1,753 @@
+{
+  "psalm": 216,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "36:1": "Tende piedade de nós, {omnium}, e olhai para nós, * e mostrai-nos a luz das vossas compaixões:",
+    "36:2": "E {immitte} o vosso temor sobre as nações * que não vos procuraram,",
+    "36:3": "Para que {cognoscant} que não há Deus senão vós, * e narrem as vossas grandes coisas.",
+    "36:4": "Levantai a vossa mão sobre as nações estranhas, * para que vejam a vossa potência.",
+    "36:5": "Pois, assim como {conspA} fostes santificado em nós, * assim {conspB} sereis engrandecido neles,",
+    "36:6": "Para que vos conheçam, como {cognovimus}, * que não há Deus {praeterA}, Senhor.",
+    "36:7": "Renovai os sinais, e {immuta} as maravilhas. * Glorificai a mão, e o braço direito.",
+    "36:8": "Despertai o furor, e derramai a ira. * {tolle} o adversário, e {affige}.",
+    "36:9": "Apressai o tempo, e lembrai-vos do fim, * para que narrem as vossas maravilhas.",
+    "36:10": "Na ira da chama seja devorado {salvatur}: * e os que {pessimant} o vosso povo encontrem a perdição.",
+    "36:11": "Quebrai a cabeça dos príncipes inimigos, * que dizem: Não há outro {praeterB}.",
+    "36:12": "{congrega} todas as tribos de Jacó: para que {cognoscant} que não há Deus senão vós, * e narrem as vossas grandes coisas:",
+    "36:13": "{hereditabis}, * como desde o início.",
+    "36:14": "Tende piedade do vosso povo, {invocatum}: * e de Israel, {coaequasti}.",
+    "36:15": "Tende piedade da cidade da vossa {sanctificatio}, Jerusalém, * da cidade do vosso repouso.",
+    "36:16": "Enchei Sião das vossas palavras {inenarrabilibus}, * e da vossa glória o vosso povo."
+  },
+  "decisions": [
+    {
+      "id": "omnium",
+      "refs": [
+        "36:1"
+      ],
+      "latin": "Deus ómnium",
+      "kind": "ambiguity",
+      "why": "*Ómnium* is genitive plural and gender-open: God of all people or of all things (LXX ὁ θεὸς πάντων, open too). The canticle is about the nations coming to know him, which leans to persons, but the Latin does not decide. *Deus de todos* keeps the form and most of the openness (a Portuguese ear hears persons first). MS1932 and DM1962 *Deus de todas as coisas*, the CNBB LH *Deus do universo*, the Lectionary *Deus do mundo inteiro*: all three decide for things (circulation.md).",
+      "options": [
+        {
+          "label": "Deus de todos",
+          "forms": {
+            "omnium": "Deus de todos"
+          },
+          "note": "Draft. The Latin's bare plural; persons heard first, things not shut out.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus de todas as coisas",
+          "forms": {
+            "omnium": "Deus de todas as coisas"
+          },
+          "note": "MS1932, DM1962. Decides for the neuter; three syllables longer.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Deus do universo",
+          "forms": {
+            "omnium": "Deus do universo"
+          },
+          "note": "The CNBB LH. A paraphrase; it names a noun the Latin lacks.",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "immitte",
+      "refs": [
+        "36:2"
+      ],
+      "latin": "Et immítte timórem tuum super gentes",
+      "kind": "word",
+      "why": "*Immíttere* is 'send in, let loose upon' (L&S); LXX ἐπίβαλε 'cast upon'; DRB *send*. The psalter's rows for the verb are local (33:8 *acampar*, 39:4 *pôs*), so none binds here. *Enviar* is the plain 'send' and is *míttere*'s family (103:30 *Enviareis o vosso espírito*), which is the Latin's own root. *Infundi* (the Lectionary) falls to the homograph ban: it is also 'I infused'.",
+      "options": [
+        {
+          "label": "enviai",
+          "forms": {
+            "immitte": "enviai"
+          },
+          "note": "Draft; DRB 'send'. Safe at the *vós* imperative (past *enviei*).",
+          "from": "draft"
+        },
+        {
+          "label": "lançai",
+          "forms": {
+            "immitte": "lançai"
+          },
+          "note": "The Greek's image (ἐπίβαλε), as 80:15 *lançar a mão sobre*. Stronger; it keeps *super* as a motion onto.",
+          "from": "draft"
+        },
+        {
+          "label": "espalhai",
+          "forms": {
+            "immitte": "espalhai"
+          },
+          "note": "MS1932, the CNBB LH. 'Scatter' is another image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cognoscant",
+      "refs": [
+        "36:3",
+        "36:12"
+      ],
+      "latin": "ut cognóscant quia non est Deus nisi tu",
+      "kind": "glossary",
+      "why": "The glossary's *cognóscere* row: *conhecer* wants an object; with a *that*-clause, *saber que* (13:4, 118:152, 134:5 *Porque eu sei que o Senhor é grande*). The CNBB LH and the Lectionary both have *para que saibam que … não há … Deus* (circulation.md). The line comes twice word for word (36:3, 36:12) and one slot fills both. The cost: 36:6 has *cognóscant te* with an object, which takes *conhecer*, so the canticle's three *cognóscant* become two verbs in Portuguese.",
+      "options": [
+        {
+          "label": "saibam",
+          "forms": {
+            "cognoscant": "saibam"
+          },
+          "note": "Draft; the glossary's collocation rule and both Brazilian texts.",
+          "from": "glossary"
+        },
+        {
+          "label": "conheçam",
+          "forms": {
+            "cognoscant": "conheçam"
+          },
+          "note": "One verb in all three places, as the Latin; *conhecer que* is bookish (the stylist refused *conheci que* at 55:10).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "36:5"
+      ],
+      "latin": "in conspéctu eórum … in conspéctu nostro",
+      "kind": "glossary",
+      "why": "The glossary's *in conspéctu* + genitive → *à vista de* (5:9, 115:15, 55:9 versicle), which keeps the seeing: the nations see God made holy in Israel, Israel will see him made great in the nations. The 79:10 caution: bare *à vista* is 'in cash'; with *deles* after it that reading does not arise. The two phrases mirror each other, so they are one decision.",
+      "options": [
+        {
+          "label": "à vista deles … à nossa vista",
+          "forms": {
+            "conspA": "à vista deles",
+            "conspB": "à nossa vista"
+          },
+          "note": "Draft; the glossary's phrase, and the seeing kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante deles … diante de nós",
+          "forms": {
+            "conspA": "diante deles",
+            "conspB": "diante de nós"
+          },
+          "note": "Plainer; loses the seeing, which the verse turns on (*ut vídeant* in 36:4).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cognovimus",
+      "refs": [
+        "36:6"
+      ],
+      "latin": "sicut et nos cognóvimus, quóniam non est Deus præter te",
+      "kind": "grammar",
+      "why": "The perfect *cognóvimus* has no object of its own. It borrows *te* from *cognóscant te*, and the *quóniam* clause is the content of both knowings. *Conhecemos* is the Portuguese present and perfect at once ('we know' / 'we came to know'), as the Latin perfect is. Left bare, it keeps the Latin's build: *vos conheçam … nós conhecemos … que*. The Lectionary supplies *reconhecemos*, another verb.",
+      "options": [
+        {
+          "label": "nós também conhecemos",
+          "forms": {
+            "cognovimus": "nós também conhecemos"
+          },
+          "note": "v2, the stylist's order: *nós também* puts the verb where the *que* clause follows at once. Bare, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "nós também vos conhecemos",
+          "forms": {
+            "cognovimus": "nós também vos conhecemos"
+          },
+          "note": "Supplies the object from the first half; clearer, one syllable more, and the *que* clause then hangs on both.",
+          "from": "draft"
+        },
+        {
+          "label": "nós também sabemos",
+          "forms": {
+            "cognovimus": "nós também sabemos"
+          },
+          "note": "Makes the *quóniam* clause its object (the glossary's *saber que*); splits the Latin's one verb inside the line.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "praeter",
+      "refs": [
+        "36:6",
+        "36:11"
+      ],
+      "latin": "non est Deus præter te … Non est álius præter nos",
+      "kind": "glossary",
+      "why": "The glossary's *præter* after a negation → *senão* (17:32; canticle 212, Tob 13:5). The Latin has *nisi tu* in 36:3 and 36:12 and *præter te* in 36:6. Portuguese *senão* serves both, so the Latin's variation is not heard. The Lectionary has *além de vós* in 36:6, which is the row's option. The boast in 36:11 mirrors God's own claim, so the two *præter* stay alike.",
+      "options": [
+        {
+          "label": "senão vós … senão nós",
+          "forms": {
+            "praeterA": "senão vós",
+            "praeterB": "senão nós"
+          },
+          "note": "Draft; the row's word. The enemies' boast echoes the confession word for word, as in the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "além de vós … além de nós",
+          "forms": {
+            "praeterA": "além de vós",
+            "praeterB": "além de nós"
+          },
+          "note": "The Lectionary (36:6), DRB 'besides'. It marks *præter* off from *nisi*.",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "immuta",
+      "refs": [
+        "36:7"
+      ],
+      "latin": "Ínnova signa, et immúta mirabília",
+      "kind": "word",
+      "why": "*Immutáre* → *mudar* (108:24). LXX ἀλλοίωσον θαυμάσια is 'make wonders of another kind', and DRB paraphrases *work new miracles*. *Mudai as maravilhas* can sound like 'alter the wonders already done', but that is the Latin's word too, and it is parallel to *renovai*. *Innováre → renovar* (50:12), *signa → sinais* (77:43), *mirabília → maravilhas*.",
+      "options": [
+        {
+          "label": "mudai",
+          "forms": {
+            "immuta": "mudai"
+          },
+          "note": "Draft; the psalter's verb (108:24).",
+          "from": "glossary"
+        },
+        {
+          "label": "variai",
+          "forms": {
+            "immuta": "variai"
+          },
+          "note": "Closer to the Greek's 'make them different'; a word the psalter has not used.",
+          "from": "draft"
+        },
+        {
+          "label": "fazei outras",
+          "forms": {
+            "immuta": "fazei outras"
+          },
+          "note": "Explains. Refused.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "tolle",
+      "refs": [
+        "36:8"
+      ],
+      "latin": "Tolle adversárium",
+      "kind": "word",
+      "why": "*Tóllere* here is 'take away, remove' (L&S; LXX ἔξαρον; DRB *Take away*). The glossary's *tóllere (hóstias) → tomar* (95:8) is the sense 'take up', which would read *Tomai o adversário*, 'take hold of the adversary', which is wrong. *Tirar* is *auferre*'s word (D41) and means just this. The two never meet here. *Adversárius → adversário* (73:10).",
+      "options": [
+        {
+          "label": "Tirai",
+          "forms": {
+            "tolle": "Tirai"
+          },
+          "note": "Draft; DRB's 'take away'.",
+          "from": "draft"
+        },
+        {
+          "label": "Eliminai",
+          "forms": {
+            "tolle": "Eliminai"
+          },
+          "note": "Closer to ἔξαρον 'destroy'; a Latinate modern word.",
+          "from": "draft"
+        },
+        {
+          "label": "Tomai",
+          "forms": {
+            "tolle": "Tomai"
+          },
+          "note": "The 95:8 row. Here it means 'seize'. Refused.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "affige",
+      "refs": [
+        "36:8"
+      ],
+      "latin": "et afflíge inimícum",
+      "kind": "homograph",
+      "why": "*Afflígere → afligir* is the glossary's (16:8b). But the *vós* imperative *afligi* is also 'I afflicted', and the object is a noun, so D13's enclitic exception does not reach it (D18). The bare form is banned. v1 took *atormentai*. The Latinist (minor) found it narrower than the Latin, which is 'strike down, dash, afflict' (L&S; LXX ἔκτριψον 'crush, wipe out'), and named *abatei*. *Abater* is the psalter's word for *deícere* (Ps 36:14b) and *depónere* (58:12b *abatei-os*), and the verse meets neither verb. It is the plain 'strike down', parallel to *Tirai o adversário*.",
+      "options": [
+        {
+          "label": "abatei o inimigo",
+          "forms": {
+            "affige": "abatei o inimigo"
+          },
+          "note": "v2, the Latinist's word: 'strike down'. Safe at the imperative (past *abati*). It shares *abater* with deícere and depónere, neither of which occurs here.",
+          "from": "latinist"
+        },
+        {
+          "label": "atormentai o inimigo",
+          "forms": {
+            "affige": "atormentai o inimigo"
+          },
+          "note": "v1. A free verb, but it narrows the Latin to lasting torment (the Latinist).",
+          "from": "draft"
+        },
+        {
+          "label": "e o inimigo, afligi-o",
+          "forms": {
+            "affige": "o inimigo, afligi-o"
+          },
+          "note": "Keeps the glossary's verb; the enclitic makes it an imperative (D13). The fronted object breaks the parallel with *Tirai o adversário*.",
+          "from": "draft"
+        },
+        {
+          "label": "afligi o inimigo",
+          "forms": {
+            "affige": "afligi o inimigo"
+          },
+          "note": "Word for word, and what the Latinist asked first. Banned: 'and I afflicted the enemy'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "salvatur",
+      "refs": [
+        "36:10"
+      ],
+      "latin": "In ira flammæ devorétur qui salvátur",
+      "kind": "ambiguity",
+      "why": "*Qui salvátur* (LXX ὁ σῳζόμενος) is the one who escapes, the survivor of the enemy: let fire devour whoever escapes the sword. DRB *him that escapeth*, MS1932 and DM1962 *o que escapar*. The Latin keeps the verb *salvári*. Portuguese *salvar-se* also means to escape danger (*salve-se quem puder*), so *quem se salva* keeps the word and the sense. The risk: an ear may hear 'whoever is saved' in the religious sense. *In ira flammæ → na ira da chama*: the Latin's genitive, kept. v2: the ambiguity reader heard exactly that, 'whoever is saved' in the religious sense, as a curse on the saved. In a prayer that misreading is too costly, so the plain sense is taken. *Escapar* is the sense of σῳζόμενος here, and DRB, MS1932 and DM1962 all have it. The Latin's verb stays as option 2.",
+      "options": [
+        {
+          "label": "quem escapa",
+          "forms": {
+            "salvatur": "quem escapa"
+          },
+          "note": "v2. DRB 'him that escapeth', MS1932 *o que escapar*. Loses the Latin's verb, and keeps its sense.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "quem se salva",
+          "forms": {
+            "salvatur": "quem se salva"
+          },
+          "note": "v1; the Latin's verb in its everyday sense. Heard as \"whoever is saved\" by the ambiguity reader. The v2 Latinist gate (minor) asked it back for the voice. It is held as the option; see the audit.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pessimant",
+      "refs": [
+        "36:10"
+      ],
+      "latin": "qui péssimant plebem tuam",
+      "kind": "word",
+      "why": "*Pessimáre* is 'to make very bad, to ruin, to abuse' (L&S), a rare verb built on *péssimus* (LXX κακοῦντες 'maltreat'). DRB *oppress*, MS1932 *tiranizam*. *Maltratar* is the Greek's sense in the plain word; *oprimir* would take *opprímere*'s place. *Plebs → povo* (the glossary's row 101).",
+      "options": [
+        {
+          "label": "maltratam",
+          "forms": {
+            "pessimant": "maltratam"
+          },
+          "note": "Draft; κακοῦντες.",
+          "from": "draft"
+        },
+        {
+          "label": "arruínam",
+          "forms": {
+            "pessimant": "arruínam"
+          },
+          "note": "L&S's 'ruin', closer to the Latin's root 'make worst'.",
+          "from": "draft"
+        },
+        {
+          "label": "tiranizam",
+          "forms": {
+            "pessimant": "tiranizam"
+          },
+          "note": "MS1932; another image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "congrega",
+      "refs": [
+        "36:12"
+      ],
+      "latin": "Cóngrega omnes tribus Jacob",
+      "kind": "homograph",
+      "why": "*Reuni* (the CNBB LH, and 105:47 *reuni-nos*) is also 'I gathered'. With a noun object there is no enclitic to save it (D18). *Congregar* is the psalter's other word for the active verb (15:4b, 106:2), and *congregai* is safe (past *congreguei*).",
+      "options": [
+        {
+          "label": "Congregai",
+          "forms": {
+            "congrega": "Congregai"
+          },
+          "note": "Draft; the cognate, the psalter's active *congregar*.",
+          "from": "glossary"
+        },
+        {
+          "label": "Juntai",
+          "forms": {
+            "congrega": "Juntai"
+          },
+          "note": "Plain; DM1962 *Ajunta*. *Juntar-se* is conveníre's (34:15).",
+          "from": "DM1962"
+        },
+        {
+          "label": "Reuni",
+          "forms": {
+            "congrega": "Reuni"
+          },
+          "note": "The CNBB LH. Banned: 'I gathered all the tribes'.",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "hereditabis",
+      "refs": [
+        "36:13"
+      ],
+      "latin": "Et hereditábis eos",
+      "kind": "ambiguity",
+      "why": "The Latin is future indicative, where the Greek (κατακληρονόμησον, 'give them their inheritance') has an imperative. *Hereditáre* with a personal object can be 'take them as your inheritance' or, in later Latin, 'make them heirs'. DRB *thou shalt inherit them*; MS1932 and DM1962 *sejam herança tua*; the Lectionary *dai-lhes a herança*. The glossary's *herdar* (81:8 *vós herdareis em todas as nações*) keeps the verb and its openness. Portuguese *herdar alguém* can also be heard as 'inherit from them', which is the cost.",
+      "options": [
+        {
+          "label": "E os herdareis",
+          "forms": {
+            "hereditabis": "E os herdareis"
+          },
+          "note": "Draft; the Latin's tense and verb (81:8). Proclisis after *E* (the clitic row).",
+          "from": "glossary"
+        },
+        {
+          "label": "E os tereis por herança",
+          "forms": {
+            "hereditabis": "E os tereis por herança"
+          },
+          "note": "Decides for 'take them as your inheritance' (DRB's sense, MS1932's *herança tua*).",
+          "from": "MS1932"
+        },
+        {
+          "label": "E lhes dareis a herança",
+          "forms": {
+            "hereditabis": "E lhes dareis a herança"
+          },
+          "note": "The Greek's sense (the Lectionary); the Latin does not say it.",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "invocatum",
+      "refs": [
+        "36:14"
+      ],
+      "latin": "super quam invocátum est nomen tuum",
+      "kind": "word",
+      "why": "The Hebraism 'upon whom your name has been called' means the people is named as God's own (LXX ἐφ' ᾧ ἐπικέκληται τὸ ὄνομά σου; DRB *upon whom thy name is invoked*). The glossary's *invocáre → invocar* keeps the Latin's words. The Lectionary's *povo chamado pelo vosso nome* gives the sense and loses the idiom.",
+      "options": [
+        {
+          "label": "sobre o qual foi invocado o vosso nome",
+          "forms": {
+            "invocatum": "sobre o qual foi invocado o vosso nome"
+          },
+          "note": "Draft; the Latin's idiom, word for word.",
+          "from": "draft"
+        },
+        {
+          "label": "que é chamado pelo vosso nome",
+          "forms": {
+            "invocatum": "que é chamado pelo vosso nome"
+          },
+          "note": "The Lectionary's sense; plain, but not the Latin's words.",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "coaequasti",
+      "refs": [
+        "36:14"
+      ],
+      "latin": "quem coæquásti primogénito tuo",
+      "kind": "word",
+      "why": "*Coæquáre* is 'to make equal to' (L&S); the LXX has another text (ὃν πρωτογόνῳ ὡμοίωσας, 'likened to a firstborn'). DRB *whom thou hast raised up to be thy firstborn* paraphrases it; MS1932 *tratado como teu primogênito*. *Igualar a* is the verb and its dative. *Primogénitus → primogênito* (77:51, 88:28).",
+      "options": [
+        {
+          "label": "que igualastes",
+          "forms": {
+            "coaequasti": "que igualastes ao vosso primogênito"
+          },
+          "note": "Draft; the Latin's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "que tornastes igual",
+          "forms": {
+            "coaequasti": "que tornastes igual ao vosso primogênito"
+          },
+          "note": "Softer; two words for one.",
+          "from": "draft"
+        },
+        {
+          "label": "que tratastes como",
+          "forms": {
+            "coaequasti": "que tratastes como vosso primogênito"
+          },
+          "note": "MS1932, the Lectionary; a paraphrase.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sanctificatio",
+      "refs": [
+        "36:15"
+      ],
+      "latin": "civitáti sanctificatiónis tuæ",
+      "kind": "glossary",
+      "why": "The glossary row names this verse: *sanctificátio* (ἁγίασμα, a holy place) → *santificação*, as 77:54 *o monte da sua santificação* and 95:6. DRB *city of thy sanctification*, the word kept. *Santuário* is the row's option. The CNBB LH has *o lugar santificado*.",
+      "options": [
+        {
+          "label": "santificação",
+          "forms": {
+            "sanctificatio": "santificação"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "santidade",
+          "forms": {
+            "sanctificatio": "santidade"
+          },
+          "note": "*Da vossa santa cidade* in sense (the Lectionary *vossa santa cidade*); takes sanctitas's word.",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "inenarrabilibus",
+      "refs": [
+        "36:16"
+      ],
+      "latin": "Reple Sion inenarrabílibus verbis tuis",
+      "kind": "word",
+      "why": "*Inenarrábilis* is 'that cannot be told' (L&S), built on *enarráre*. The canticle has twice prayed *ut enárrent* (36:3, 36:9, 36:12 → *narrem*), and *inenarráveis* keeps that echo. DRB *unspeakable words*, MS1932 *palavras inefáveis*. The LXX has another text (ἀρεταλογίας σου, 'the praise of your mighty deeds'). *Indizíveis* is plainer and loses the echo.",
+      "options": [
+        {
+          "label": "inenarráveis",
+          "forms": {
+            "inenarrabilibus": "inenarráveis"
+          },
+          "note": "Draft; the cognate, echoing *narrem*.",
+          "from": "draft"
+        },
+        {
+          "label": "indizíveis",
+          "forms": {
+            "inenarrabilibus": "indizíveis"
+          },
+          "note": "Plainer (DRB 'unspeakable').",
+          "from": "DRB"
+        },
+        {
+          "label": "inefáveis",
+          "forms": {
+            "inenarrabilibus": "inefáveis"
+          },
+          "note": "MS1932; *ineffábilis*'s word.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "36:1": "DO's first line, *(Canticum Ecclesiastici * Sir 36:1-16)*, is a heading with the book reference. It is not a prayed verse and is not translated (D7; readVerses skips it, as for 233, 211, 213). DO's ids are the canticle's own line numbers, not the Clementine verses (see the head of consult/parallels/ps216.md). The Latin is the Vulgate of Sirach (the Old Latin, which Jerome did not revise), not the Gallican psalter. *Miserére nostri → Tende piedade de nós* (122:3). *Réspice nos → olhai para nós* (21:2, 24:16 *olhai para mim*). *Miseratiónum → das vossas compaixões* (24:6, 50:3b). The second colon is the antiphon *Osténde nobis, Dómine, * lucem miseratiónum tuárum* (Saturday Lauds): *Mostrai-nos, Senhor, a luz das vossas compaixões* reads alone.",
+    "36:2": "No comma before the mediant: the relative is restrictive (the nations that have not sought you), and the Latin's comma at the asterisk is DO's punctuation, not a pause the Portuguese needs. *Exquisiérunt → procuraram* (118:155 *não procuraram*). *Timor → temor*.",
+    "36:3": "*Enárrent → narrem* (the glossary's *enarráre → narrar*, 18:2). *Magnália → as vossas grandes coisas* (70:19, 105:21), kept apart from *mirabília → maravilhas* in 36:7 and 36:9. 36:12 repeats this verse word for word, and so does the Portuguese.",
+    "36:4": "*Álleva → Levantai* (the *alleváre* row, 144:14). *Gentes aliénas → nações estranhas*. *Poténtiam → potência* (64:7, 70:19). *Super* kept as *sobre*: 'lift your hand over', the gesture of power; *contra* (the CNBB LH) decides.",
+    "36:5": "*Sicut enim … sic → Pois, assim como … assim*. *Sanctificátus es in nobis → fostes santificado em nós*; *magnificáberis in eis → sereis engrandecido neles* (*magnificáre → engrandecer*, 103:1). The two passives kept, as the Latin's mirror.",
+    "36:6": "*Cognóscant te → vos conheçam*: with an object, *conhecer* (the row). *Dómine → Senhor*, vocative without *ó*.",
+    "36:7": "*Glorífica manum, et brácchium dextrum → Glorificai a mão, e o braço direito*: the Latin has no possessive; kept bare (D2). *Brácchium → braço*; *dexter* as an adjective → *direito*.",
+    "36:8": "*Éxcita furórem → Despertai o furor*: the glossary's row for *excitáre* names this verse (79:3). *Effúnde iram → derramai a ira* (68:25, 78:6, there with *vossa*; here bare, as the Latin).",
+    "36:9": "*Festína tempus → Apressai o tempo*: transitive here, so not the reflexive of 69:2b. *Meménto finis → lembrai-vos do fim*. *Ut enárrent mirabília tua → para que narrem as vossas maravilhas*: the same verb as 36:3, and the other noun.",
+    "36:10": "*Devorétur → seja devorado* (the *devoráre* row). *Invéniant perditiónem → encontrem a perdição* (*inveníre → encontrar*, 20:9, 88:21; *perdítio → perdição*, 87:12).",
+    "36:11": "*Cóntere caput → Quebrai a cabeça* (9:36 *Quebrai o braço*). *Príncipum inimicórum → dos príncipes inimigos*. *Dicéntium* agrees with the princes → *que dizem*. The boast mirrors the confession (see decision `praeter`).",
+    "36:12": "DO prints a colon before *ut cognóscant*, kept. No flex mark in the Latin, so none here.",
+    "36:13": "*Sicut ab inítio → como desde o início* (73:2, the *inítio* row). The last line of the shorter form (`216(1-13)`).",
+    "36:14": "*Miserére plebi tuæ → Tende piedade do vosso povo*: the dative after *miseréri* becomes *de*. *Plebs → povo* (row 101). *Israël → Israel*.",
+    "36:15": "*Civitáti … civitáti*: the Latin repeats the noun in the dative, so *da cidade … da cidade*. *Réquies → repouso* (131:8, 131:14). *Jerúsalem* stands in apposition after the first *cidade*, as in the Latin.",
+    "36:16": "*Reple → Enchei* (active, as 102:5 *enche*). The second colon borrows the verb: *e da vossa glória o vosso povo* (DRB 'and thy people with thy glory'). *Verbum → palavra*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Canticle-level draft. parallels.py handles psalm numbers only, so ps216/show_parallels.py builds consult/parallels/ps216.md from: the DO Latin; the Bolls Vulgate of Sirach 36 (book 71); Douay-Rheims from drbo.org, since Bolls DRB has no deuterocanonicals; the Rahlfs LXX from consult/lxx-*.csv (the Latin's source text, with some lines of another text); Matos Soares 1932 from the pdftotext layer of the 1932 PDF, pp. 386–387; the Diurnal Monástico 1962 (Saturday Lauds, Eclo 36,1-13, a Vulgate-family text close to MS1932, *tu* address); and DO's Portuguese (no authority). The downloaded third-party texts live in consult/ps216/, which is gitignored. No Hebrew is at hand. Precedent checked with ps216/concord.py and ps216/gloss.py (copies of ps210's and ps212's). Brazilian circulation fetched and recorded in ps216/circulation.md: the CNBB LH (Monday Lauds, Week II, Eclo 36,1-7.13-16, a metrical paraphrase from the Greek that omits the verses of wrath) and the Lectionary (Wednesday, Week 8, Year I, Eclo 36,1-2a.5-6.13-19). Homograph ban applied twice: *afligi* (36:8) and *reuni* (36:12) are refused, decisions `affige` and `congrega`. Hard readings: *Deus ómnium*, *qui salvátur*, *hereditábis eos*, *coæquásti*, *immúta mirabília*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass: ids and marks match DO's Latin. render.py and checks.py work unchanged with DO number 216, and readVerses skips the heading line. Soft flags, all length, all accepted. 36:1b −5: Portuguese is shorter than the Latin's *miseratiónum tuárum*, and the colon is the antiphon. 36:6a +3: the object *vos* and *como também*. 36:6b −4: *Dómine → Senhor*. 36:10a +3: *quem se salva* (decision `salvatur`). 36:13a −3. 36:14a +6: the Latin's idiom kept (decision `invocatum`). 36:14b +4. Not flagged but noted: 36:14 ends on the proparoxytone *primogênito*, where the Latin's cadence is *tuo*; the Portuguese possessive cannot follow the noun without sounding foreign. No colon is too long for one breath; 36:12a is the Latin's longest too."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Reader: claude-opus-5-5, fresh context, with latin.json. One minor remark; everything else judged faithful, with the pointing correct.",
+      "outcomes": [
+        {
+          "verse": "36:8",
+          "remark": "atormentai narrows afflíge to prolonged torment; asks afligi (or abatei)",
+          "outcome": "taken",
+          "reason": "*abatei*, his second word. His first, *afligi*, falls to the homograph ban (D18) and stays as a marked, refused option in `affige`."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Reader: claude-opus-5-5, fresh context, with latin.json. 8 remarks: 1 taken, 7 refused (six against glossary rows). Worst line 36:1, best 36:9.",
+      "outcomes": [
+        {
+          "verse": "36:1",
+          "remark": "compaixões sounds coined; asks misericórdias",
+          "outcome": "refused",
+          "reason": "*Miseratiónes → compaixões* is the glossary's row (24:6, 50:3b, 102:4), kept apart from *misericórdia* because the Greek has two words too. The stylist asked *clemências* at 50:3b, also refused. *Misericórdias* would merge the two families."
+        },
+        {
+          "verse": "36:3, 36:12",
+          "remark": "grandes coisas flat; asks grandes obras",
+          "outcome": "refused",
+          "reason": "*Magnália → as grandes coisas* is the glossary's row (70:19, 105:21). *Grandes obras* was refused at 105:21 as *ópera*'s word."
+        },
+        {
+          "verse": "36:4",
+          "remark": "estranhas heard as odd; asks estrangeiras",
+          "outcome": "refused",
+          "reason": "*Aliénus → estranho* is the glossary's row, wider than 'foreign' (anyone not one's own; 17:46). The ambiguity reader heard 'foreign nations' first."
+        },
+        {
+          "verse": "36:4",
+          "remark": "potência technical; asks o vosso poder",
+          "outcome": "refused",
+          "reason": "*Poténtia → potência* is the glossary's row (64:7, 70:19, Ps 144). *Poder* is *virtus*'s word."
+        },
+        {
+          "verse": "36:6",
+          "remark": "conhecemos dangles; move também: como nós também conhecemos",
+          "outcome": "taken",
+          "reason": "Order only (D2); decision `cognovimus`."
+        },
+        {
+          "verse": "36:13",
+          "remark": "início administrative; asks princípio",
+          "outcome": "refused",
+          "reason": "*Ab inítio → desde o início* is the glossary's row (73:2, where the stylist asked for *princípio* and was refused). *Princípio* is *princípium*'s."
+        },
+        {
+          "verse": "36:14",
+          "remark": "ends on a proparoxytone; inversion que ao vosso primogênito igualastes",
+          "outcome": "refused",
+          "reason": "He calls it tolerable, since the Latin has the same stress. The inversion costs more naturalness than the cadence costs sound."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Reader: claude-opus-5-5, fresh context. 27 readings, most of them as intended. Unknown words: inenarráveis, compaixões, primogênito.",
+      "outcomes": [
+        {
+          "verse": "36:10",
+          "remark": "quem se salva heard as 'whoever is saved', a curse on the saved",
+          "outcome": "taken",
+          "reason": "*quem escapa* (DRB, MS1932, DM1962); decision `salvatur`."
+        },
+        {
+          "verse": "36:13",
+          "remark": "E os herdareis: 'os' has no audible referent; herdar suggests receiving after a death",
+          "outcome": "refused",
+          "reason": "*Os* is the tribes of 36:12, the line before. *Herdar* is the Latin's verb and its openness, as at 81:8. The options that decide stay in `hereditabis`. Hold for Gustavo's ear."
+        },
+        {
+          "verse": "36:14",
+          "remark": "sobre o qual foi invocado o vosso nome heard as 'the people who called upon your name'",
+          "outcome": "option",
+          "decision": "invocatum",
+          "reason": "The Latin's idiom, a Hebraism the LXX keeps too (ἐπικέκληται). The misreading is pious and close. The Lectionary's *que é chamado pelo vosso nome* stays option 2 if the ear should win."
+        },
+        {
+          "verse": "36:14",
+          "remark": "primogênito heard as Christ",
+          "outcome": "refused",
+          "reason": "The Latin's word; the Christian reading is one the Church's use of the canticle invites."
+        },
+        {
+          "verse": "36:7",
+          "remark": "braço direito may evoke 'right-hand man'; no possessive said",
+          "outcome": "refused",
+          "reason": "The Latin has no possessive (D2). *Glorificai a mão* just before fixes the sense as God's arm; the reader himself heard 'your hand and your right arm'."
+        },
+        {
+          "verse": "36:7",
+          "remark": "mudai as maravilhas: new wonders or altered ones",
+          "outcome": "refused",
+          "reason": "The Latin's *immúta* is just as open; *variai* stays as option 2 in `immuta`."
+        },
+        {
+          "verse": "36:11",
+          "remark": "quebrar a cabeça is also the idiom 'to puzzle over'",
+          "outcome": "refused",
+          "reason": "He heard the literal sense first. The idiom needs a person as subject puzzling; here God breaks the princes' head. 9:36 *Quebrai o braço* is the precedent."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 36:8 *abatei o inimigo* (the Latinist); 36:6 *como nós também conhecemos* (the stylist, order); 36:10 *quem escapa* (the ambiguity reader). The draft is kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2. Reader: claude-opus-5-5, fresh context, with latin.json. Two minors, no majors; pointing correct. Both are held as written, with the reasons recorded.",
+      "outcomes": [
+        {
+          "verse": "36:10",
+          "remark": "qui salvátur is passive; escapa is active and narrows it; asks quem se salva back",
+          "outcome": "option",
+          "decision": "salvatur",
+          "reason": "He grants that the sense, the survivor, is right. *Quem se salva* is reflexive and so is not the passive either. The ambiguity reader heard it as 'whoever is saved' in the religious sense, a curse on the saved, and that misreading costs more in a prayer than the voice does. The v1 Latinist had passed *se salva*, so the two readers split. Held for Gustavo, with *quem se salva* as option 2."
+        },
+        {
+          "verse": "36:11",
+          "remark": "inimicórum as noun or adjective; príncipes inimigos reads as the adjective; offers príncipes dos inimigos, noted only",
+          "outcome": "refused",
+          "reason": "He calls it defensible and noted it only. *Príncipes inimigos* keeps some of the openness: they are the enemies' princes, and they are hostile. *dos príncipes dos inimigos* stacks two *dos* in a short colon."
+        }
+      ]
+    }
+  ]
+}

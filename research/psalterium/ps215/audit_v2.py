@@ -1,0 +1,66 @@
+# exec'd by revise_v2.py: appends the v1 reader steps and the v2 revision step to d['audit'].
+m = 'claude-opus-5-5'
+d['audit'] += [
+    {'step': 'latinist', 'file': 'critic/v1.latinist.json',
+     'note': f'Draft 1, read by {m} in a fresh context with latin.json (run by the coordinator). No majors; three minors, all taken. '
+             'It called the translation faithful in sense, tense, voice, person and number, and passed the open placement of frustra (45:21).',
+     'outcomes': [
+         {'verse': '45:18', 'remark': 'creans, formans, fáciens are present participles; v1 put them in the past (que criou, formou, fez)',
+          'outcome': 'taken', 'decision': 'creans',
+          'reason': 'The present is as timeless as the participle; the perfects of the same acts follow in 45:19, as in the Latin.'},
+         {'verse': '45:18', 'remark': 'plastes is a noun; v1 made it a fourth finite verb (ele próprio a moldou); asks ele próprio, o seu modelador',
+          'outcome': 'taken', 'decision': 'plastes',
+          'reason': 'The apposition is the Latin\'s build, and with the present tense the verb would have to be "a molda", a fourth act in the list. v1\'s verb stays option 2.'},
+         {'verse': '45:24', 'remark': '"e desde então" adds a conjunction the Latin lacks', 'outcome': 'taken', 'decision': 'auditum',
+          'reason': 'The two phrases (ab inítio, ex tunc) stand side by side in the Latin; the asyndeton is sayable.'}]},
+    {'step': 'stylist', 'file': 'critic/v1.stylist.json',
+     'note': f'Draft 1, {m}, fresh context, with latin.json. Eight verses remarked; five changes taken, the rest refused where a decision '
+             'or precedent holds them. Best line 45:28, worst 45:29 (taken).',
+     'outcomes': [
+         {'verse': '45:16', 'remark': '"Foram envergonhados … se foram" chimes two verbs; asks partiram, and "Todos foram envergonhados e coraram"',
+          'outcome': 'taken', 'decision': 'abierunt',
+          'reason': '"partiram" keeps the going-away of ab-íre without the chime. The reordering of "todos" is refused: "coraram todos" is good Portuguese and keeps omnes where the Latin puts it.'},
+         {'verse': '45:17', 'remark': '"com uma salvação eterna": the article limps', 'outcome': 'taken',
+          'reason': 'The Latin has none (salúte ætérna); one syllable fewer in a long colon.'},
+         {'verse': '45:21', 'remark': '"em vão" stranded after Jacó; asks "Não disse em vão à descendência de Jacó"', 'outcome': 'option',
+          'decision': 'frustra',
+          'reason': 'The placement is the decision: the Latin sets frustra between the saying and the quotation, and the ambiguity reader heard both readings. His order is option 2.'},
+         {'verse': '45:21', 'remark': '"que falo justiça" stiff; asks "que digo a justiça"', 'outcome': 'refused',
+          'reason': 'loquens justítiam as 57:2 (justítiam loquímini → falais justiça); "dizer a justiça" adds an article and is heard as "telling (someone) justice".'},
+         {'verse': '45:23', 'remark': 'bare "Não souberam" sounds unfinished; asks "Nada souberam"', 'outcome': 'taken',
+          'decision': 'nescierunt',
+          'reason': 'Keeps the perfect; "Nada" gives the absolute verb the absolute Portuguese form. 81:5\'s "Não souberam" is completed there by "nem entenderam", which is absent here.'},
+         {'verse': '45:24', 'remark': '"tomai conselho" bookish; asks "aconselhai-vos"', 'outcome': 'option', 'decision': 'consiliamini',
+          'reason': '"aconselhar-se" is heard as "seek advice from someone"; the ambiguity reader heard "tomai conselho juntos" as "deliberate", the sense wanted. His form is option 3.'},
+         {'verse': '45:24', 'remark': 'two "desde" blur; asks "desde o princípio, e já desde então"', 'outcome': 'refused',
+          'reason': 'The two phrases are the Latin\'s parallel (ab inítio, ex tunc; "desde o início" as 73:2, 76:12; "desde então" as 75:8, 92:2); the latinist asked for no conjunction here.'},
+         {'verse': '45:25', 'remark': 'commas chop the colon; asks "Deus justo e que salve não há fora de mim"', 'outcome': 'taken',
+          'decision': 'praeter',
+          'reason': 'The commas are dropped. "fora de mim" is refused (option 2): it would lose "senão" for præter (17:32) and can be heard as "beside myself".'},
+         {'verse': '45:29', 'remark': 'parenthetical "dirá" unsayable; asks "Portanto, dirá: No Senhor estão …"', 'outcome': 'taken',
+          'reason': 'Order yields to the ear (D2); every word kept, the speaker still unnamed; DRB does the same.'},
+         {'verse': '45:30', 'remark': 'comma before "e louvada" stops the voice twice before the mediant', 'outcome': 'taken',
+          'reason': 'Punctuation only.'}]},
+    {'step': 'ambiguity', 'file': 'critic/v1.ambiguity.json',
+     'note': f'Draft 1, Portuguese only, {m}, fresh context. Twenty-four items, four unknown words. Only 45:25 led to a change (with the stylist).',
+     'outcomes': [
+         {'verse': '45:21', 'remark': 'frustra heard both as "did not speak in vain" and "seek me in vain"', 'outcome': 'refused',
+          'decision': 'frustra', 'reason': 'The Latin\'s own openness, kept on purpose.'},
+         {'verse': '45:16', 'remark': '"fabricantes de erros": the idol sense is not audible', 'outcome': 'refused', 'decision': 'fabricatores',
+          'reason': 'The Latin says errors, not idols (rule 2); 45:23 names the carved wood.'},
+         {'verse': '45:25', 'remark': 'with commas, heard as two claims', 'outcome': 'taken', 'decision': 'praeter',
+          'reason': 'Commas dropped (with the stylist).'},
+         {'verse': '45:29', 'remark': 'speaker of "dirá" unclear; "as minhas justiças" heard as God\'s', 'outcome': 'refused',
+          'reason': 'The Latin leaves dicet without a subject; v2 moves the verb first, which does not name him.'},
+         {'verse': '45:29', 'remark': '"domínio" as a territory', 'outcome': 'refused',
+          'reason': 'Heard first as power/rule; impérium → domínio (85:16; canticle 211, 29:12b).'},
+         {'verse': '45:16, 45:23, 45:26', 'remark': 'unknown words coraram, lenho, rogam, confins', 'outcome': 'refused',
+          'reason': 'Glossary rows or settled precedent: corar (erubéscere), rogar (121:6), confins (21:28, 66:7b); lenho is decision lignum ("madeira" option 2).'},
+         {'verse': '45:17, 45:22, 45:26, 45:27, 45:30', 'remark': 'addressee of "sereis", who "fostes salvos", vocative vs subject, "não voltará", justified/praised',
+          'outcome': 'refused', 'reason': 'Each is the Latin\'s own openness; the heard reading is the intended one or one the Latin also allows.'}]},
+    {'step': 'revision', 'version': 2,
+     'note': 'v2: 45:16 partiram; 45:17 no article; 45:18 present tense (cria, forma, faz) and the noun "o seu modelador"; 45:23 "Nada souberam"; '
+             '45:24 asyndeton; 45:25 commas dropped; 45:29 "dirá" moved before the saying; 45:30 comma dropped. Draft 1 is prayed.v1.json '
+             '(flat text prayed.v1.vos.json, the file the v1 readers read). Downloaded third-party texts moved to consult/ps215/ and the '
+             'parallels to consult/parallels/ps215.md (gitignored; the repo is public); show_parallels.py, circulation.md and these notes repointed.'},
+]

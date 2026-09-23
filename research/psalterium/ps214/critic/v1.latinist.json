@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "36996dac0dd3aa84c6dd23cf2c8550bacac685c4b13e232c1c6d81491466bf89",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T13:54:13+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"31:14\", \"severity\": \"minor\", \"issues\": [\n{\"latin\": \"Super fruménto, et vino, et óleo\", \"portuguese\": \"Ao trigo, e ao vinho, e ao azeite\", \"problem\": \"'Super' with ablative ('over, on account of') marks what they rejoice/stream in about, not a further goal parallel to 'ad bona Domini'; 'ao' turns it into an apposition to 'aos bens', making the list the definition of 'bona Domini', which the Latin does not state.\", \"fix\": \"Pelo trigo, e pelo vinho, e pelo azeite\"},\n{\"latin\": \"fœtu pécorum et armentórum\", \"portuguese\": \"crias das ovelhas e das vacas\", \"problem\": \"'pecora' is flocks/small cattle in general and 'armenta' herds of large cattle; 'ovelhas' and 'vacas' narrow both to single species.\", \"fix\": \"e pelas crias dos rebanhos e das manadas\"}\n]},\n{\"id\": \"31:17\", \"severity\": \"minor\", \"issues\": [\n{\"latin\": \"lætificábo a dolóre suo\", \"portuguese\": \"os alegrarei depois da sua dor\", \"problem\": \"'a dolore' is 'from their sorrow' (away from / out of it); 'depois da' resolves it as purely temporal. Defensible (Douay reads 'after'), but narrower than the Latin.\", \"fix\": \"e os alegrarei, livres da sua dor\"},\n{\"latin\": \"in gáudium\", \"portuguese\": \"em júbilo\", \"problem\": \"'gaudium' is joy; 'júbilo' leans toward exultatio/jubilatio, a louder register than the Latin word.\", \"fix\": \"em alegria\"}\n]}\n], \"overall\": \"A faithful, close rendering: no content is added or dropped, tenses and persons are kept, and the single mediant in each verse matches the Latin. The only points are small precision matters: 'super' in 31:14 flattened into an apposition, the species narrowed in 'pecorum et armentorum', and 'a dolore' read temporally in 31:17.\"}\n"
+}

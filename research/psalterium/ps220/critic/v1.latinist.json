@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "167c7e9332d675032532d4c2d0398182461ade638dbf6df3c1f041cb7649588d",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T14:08:44+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation follows the Latin closely in every verse: the super- compounds are consistently rendered with 'sumamente', the elided copula of 3:53 is left elided as in the Latin, 'in omnibus saeculis' is distinguished from 'in saecula', and 'intueris abyssos' / 'sedes super Cherubim' keep their person, tense and concrete images. Each verse carries a single mediant '*' in the same position as the Latin, with no flex or second mediant in either text.\"}\n"
+}

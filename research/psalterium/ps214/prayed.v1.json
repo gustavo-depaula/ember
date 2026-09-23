@@ -1,0 +1,618 @@
+{
+  "psalm": 214,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "31:10": "{audite} {v10order}, * e {annuntiate} nas ilhas, {procul},",
+    "31:11": "E dizei: {qui} dispersou Israel o congregará: * e o guardará {pastor}.",
+    "31:12": "Pois o Senhor {redemit} Jacó, * e o livrou da mão {potentioris}.",
+    "31:13": "E virão, e louvarão no monte Sião: * e {confluent} aos bens do Senhor,",
+    "31:14": "{super}, * e às crias {pecorum}:",
+    "31:15": "E a alma deles será como {hortus}, * e não terão mais fome.",
+    "31:16": "Então se alegrará a virgem {choro}, * os jovens e os anciãos juntos:",
+    "31:17": "E converterei o {luctum} deles em {gaudium}, * e os consolarei, e os alegrarei {adolore}.",
+    "31:18": "{v18a}: * e o meu povo {adimplebitur} dos meus bens."
+  },
+  "decisions": [
+    {
+      "id": "audite",
+      "refs": [
+        "31:10"
+      ],
+      "latin": "Audíte",
+      "kind": "glossary",
+      "why": "The Brazilian line everyone knows is 'Ouvi, nações, a palavra do Senhor'. The CNBB Liturgy of the Hours, the Lectionary, Matos Soares 1932 and DM1962 all have it (circulation.md). But bare 'Ouvi' is the vós imperative that equals 'I heard' (rule 3; D1, D13). The glossary row audíre says: never 'ouvi' at the vós imperative, use 'escutar' there. Ps 48:2 'Audíte hæc, omnes gentes' → 'Escutai isto, todas as nações' is the same Latin, said to the same addressee.",
+      "options": [
+        {
+          "label": "Escutai",
+          "forms": {
+            "audite": "Escutai"
+          },
+          "note": "Draft. It follows the glossary row and Ps 48:2 / 65:16. It opens the canticle, a fresh intonation, where the homograph would be heard at its worst.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ouvi",
+          "forms": {
+            "audite": "Ouvi"
+          },
+          "note": "The circulating line (CNBB, Lectionary, MS1932, DM1962), and the Latin's own verb. Barred by rule 3 unless Gustavo lifts the ban for a text this well known (compare D18, which he was asked to hear).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v10order",
+      "refs": [
+        "31:10"
+      ],
+      "latin": "verbum Dómini, gentes",
+      "kind": "order",
+      "why": "The Latin puts the vocative at the end of the colon. Every Portuguese version puts it straight after the verb ('Ouvi, nações, a palavra do Senhor'). Order is the ear's (D2).",
+      "options": [
+        {
+          "label": "a palavra do Senhor, nações",
+          "forms": {
+            "v10order": "a palavra do Senhor, nações"
+          },
+          "note": "Draft. The Latin's order: the mediant falls on 'nações', the addressee, as on 'gentes'. Without 'ó' to stay within two syllables of the Latin; the pause before a closing vocative marks it.",
+          "from": "draft"
+        },
+        {
+          "label": "a palavra do Senhor, ó nações",
+          "forms": {
+            "v10order": "a palavra do Senhor, ó nações"
+          },
+          "note": "The vocative marked, as 65:8 'Bendizei, ó nações'; checks.py +3 on the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "nações, a palavra do Senhor",
+          "forms": {
+            "v10order": "nações, a palavra do Senhor"
+          },
+          "note": "The circulating order (MS1932, CNBB, DM1962), with 'Senhor' at the mediant.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "annuntiate",
+      "refs": [
+        "31:10"
+      ],
+      "latin": "et annuntiáte in ínsulis",
+      "kind": "grammar",
+      "why": "The Latin has no object: what is announced is what they are told to say in the next line ('Et dícite: …'). Every Portuguese version supplies 'a' (the word). The Greek (ἀναγγείλατε) has no object either.",
+      "options": [
+        {
+          "label": "anunciai",
+          "forms": {
+            "annuntiate": "anunciai"
+          },
+          "note": "Draft. It keeps the verb absolute, as in the Latin. 'e anunciai nas ilhas' is complete Portuguese, and the next line's 'E dizei:' supplies the content.",
+          "from": "draft"
+        },
+        {
+          "label": "anunciai-a",
+          "forms": {
+            "annuntiate": "anunciai-a"
+          },
+          "note": "MS1932, DM1962 and the CNBB. It adds a pronoun that ties the announcing to 'a palavra'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "procul",
+      "refs": [
+        "31:10"
+      ],
+      "latin": "quæ procul sunt",
+      "kind": "word",
+      "why": "A relative clause with an adverb ('which are far off'). The Portuguese versions turn it into an adjective: MS1932 and DM1962 'longínquas', the CNBB 'mais distantes'. The glossary keeps 'longe' as a word (longe fíeri a, 21:2).",
+      "options": [
+        {
+          "label": "que estão longe",
+          "forms": {
+            "procul": "que estão longe"
+          },
+          "note": "Draft. It keeps the Latin's clause and the plain adverb 'longe'. The comma after 'ilhas' is the Latin's.",
+          "from": "draft"
+        },
+        {
+          "label": "longínquas",
+          "forms": {
+            "procul": "longínquas"
+          },
+          "note": "MS1932 and DM1962. Shorter and a little literary. It is proparoxytone and would stand at the end of the verse.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "31:11"
+      ],
+      "latin": "Qui dispérsit Israël, congregábit eum",
+      "kind": "grammar",
+      "why": "A headless relative is the subject of the main verb. Right after 'E dizei:', a Portuguese 'Quem dispersou Israel…' is heard first as a question ('Who scattered Israel?') and is set right only by 'o congregará'.",
+      "options": [
+        {
+          "label": "Aquele que",
+          "forms": {
+            "qui": "Aquele que"
+          },
+          "note": "Draft. It cannot be heard as a question. It has the same syllable count as the Latin colon (17).",
+          "from": "draft"
+        },
+        {
+          "label": "Quem",
+          "forms": {
+            "qui": "Quem"
+          },
+          "note": "The CNBB and the Lectionary ('Quem dispersou Israel, vai congregá-lo'). Shorter, and familiar, but it opens with a question-word.",
+          "from": "draft"
+        },
+        {
+          "label": "O que",
+          "forms": {
+            "qui": "O que"
+          },
+          "note": "MS1932. It can be heard as 'what'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pastor",
+      "refs": [
+        "31:11"
+      ],
+      "latin": "sicut pastor gregem suum",
+      "kind": "grammar",
+      "why": "The Latin leaves the verb out of the comparison ('as a shepherd [keeps] his flock'). Portuguese 'como um pastor o seu rebanho' can be misparsed, with 'o' heard as a pronoun or the shepherd as object. MS1932 repeats the verb. grex → rebanho as 77:52.",
+      "options": [
+        {
+          "label": "como um pastor guarda o seu rebanho",
+          "forms": {
+            "pastor": "como um pastor guarda o seu rebanho"
+          },
+          "note": "Draft, with MS1932. It supplies the elided verb, which is grammar (D2): the same verb, not a new word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como um pastor, o seu rebanho",
+          "forms": {
+            "pastor": "como um pastor, o seu rebanho"
+          },
+          "note": "DM1962. It keeps the ellipsis, marked by a comma. It is harder to hear.",
+          "from": "DM1962"
+        },
+        {
+          "label": "como o pastor ao seu rebanho",
+          "forms": {
+            "pastor": "como o pastor ao seu rebanho"
+          },
+          "note": "It comes near the Lectionary refrain ('qual pastor a seu rebanho'), but 'guardar a' is not the verb's regency.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "redemit",
+      "refs": [
+        "31:12"
+      ],
+      "latin": "Redémit",
+      "kind": "glossary",
+      "why": "redímere → resgatar is the working row, and 77:42 and 105:10 are 'os resgatou da mão de…', the same build as here. The CNBB has 'remiu' (Hebrew-based).",
+      "options": [
+        {
+          "label": "resgatou",
+          "forms": {
+            "redemit": "resgatou"
+          },
+          "note": "Draft, from the glossary. MS1932 has it too.",
+          "from": "glossary"
+        },
+        {
+          "label": "remiu",
+          "forms": {
+            "redemit": "remiu"
+          },
+          "note": "The CNBB. The traditional verb, held open in the glossary row.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potentioris",
+      "refs": [
+        "31:12"
+      ],
+      "latin": "de manu potentióris",
+      "kind": "word",
+      "why": "A comparative used as a noun: 'of one stronger (than he)'. DRB has 'of one that was mightier than he'. In Portuguese 'o mais poderoso' between two parties is 'the stronger', but alone it can be heard as a superlative. The glossary row potens → 'o poderoso' (119:4, 126:4).",
+      "options": [
+        {
+          "label": "do mais poderoso",
+          "forms": {
+            "potentioris": "do mais poderoso"
+          },
+          "note": "Draft, MS1932, DM1962. The comparison is with Jacob, just named.",
+          "from": "MS1932"
+        },
+        {
+          "label": "de quem era mais poderoso",
+          "forms": {
+            "potentioris": "de quem era mais poderoso"
+          },
+          "note": "It makes the comparative unmistakable, with a supplied copula. Three syllables longer.",
+          "from": "DRB"
+        },
+        {
+          "label": "do mais forte",
+          "forms": {
+            "potentioris": "do mais forte"
+          },
+          "note": "Shorter. But 'forte' is fortis's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confluent",
+      "refs": [
+        "31:13"
+      ],
+      "latin": "et cónfluent ad bona Dómini",
+      "kind": "word",
+      "why": "confluere is 'to flow together', and of a multitude 'to flock together' (L&S). It is the image of streams of people. MS1932 and DM1962 flatten it to 'correr'; the CNBB has 'afluirão'.",
+      "options": [
+        {
+          "label": "afluirão",
+          "forms": {
+            "confluent": "afluirão"
+          },
+          "note": "Draft. It keeps the flowing, is current for crowds ('os fiéis afluem'), and is the word Brazilians already pray here (CNBB).",
+          "from": "draft"
+        },
+        {
+          "label": "acorrerão",
+          "forms": {
+            "confluent": "acorrerão"
+          },
+          "note": "It keeps the movement of a crowd and loses the water.",
+          "from": "draft"
+        },
+        {
+          "label": "correrão",
+          "forms": {
+            "confluent": "correrão"
+          },
+          "note": "MS1932. The plainest, and the image is gone.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "31:14"
+      ],
+      "latin": "Super fruménto, et vino, et óleo",
+      "kind": "grammar",
+      "why": "super + ablative continues 'cónfluent ad bona Dómini' and names the goods: DRB has 'for the corn, and wine, and oil'. 'pelo trigo' after 'afluirão' can be heard as 'through the wheat', and 'por causa do' explains. The Latin repeats 'et' (polysyndeton), and that stays. óleum as food → azeite, as 4:8 'trigo, vinho e azeite'; the anointing oil stays 'óleo' (44:8, 88:21).",
+      "options": [
+        {
+          "label": "Ao trigo, e ao vinho, e ao azeite",
+          "forms": {
+            "super": "Ao trigo, e ao vinho, e ao azeite"
+          },
+          "note": "Draft, with MS1932. It stands beside 'aos bens do Senhor' and says what they are. 'ao' is light and keeps the three 'e'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Pelo trigo, e pelo vinho, e pelo azeite",
+          "forms": {
+            "super": "Pelo trigo, e pelo vinho, e pelo azeite"
+          },
+          "note": "DRB's 'for'. Three syllables over, and 'afluirão pelo trigo' can mean 'through'.",
+          "from": "DRB"
+        },
+        {
+          "label": "Ao trigo, e ao vinho, e ao óleo",
+          "forms": {
+            "super": "Ao trigo, e ao vinho, e ao óleo"
+          },
+          "note": "The óleum → óleo of the anointing psalms. Heard as lamp or machine oil beside wheat and wine.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pecorum",
+      "refs": [
+        "31:14"
+      ],
+      "latin": "et fœtu pécorum et armentórum",
+      "kind": "word",
+      "why": "pecus against armentum is small livestock (esp. sheep) against the herd of large cattle (L&S: 'greges armentorum reliquique pecoris'). fœtus, singular and collective, is the young. The generic pair 'rebanhos e manadas' is the most exact, but 'rebanho' is 'gregem' three lines above, and would make an echo the Latin does not have. The glossary's 'gado' (pecus, 134:7b, 148:10) here would name the other animal, the cattle.",
+      "options": [
+        {
+          "label": "das ovelhas e das vacas",
+          "forms": {
+            "pecorum": "das ovelhas e das vacas"
+          },
+          "note": "Draft, MS1932's words. Concrete, and 'crias' of female animals reads naturally. It takes pecus in its narrower sense, which the contrast with armenta brings out.",
+          "from": "MS1932"
+        },
+        {
+          "label": "dos rebanhos e das manadas",
+          "forms": {
+            "pecorum": "dos rebanhos e das manadas"
+          },
+          "note": "The generic flock / herd pair. It costs a double 'rebanho' against the Latin's grex / pecus.",
+          "from": "draft"
+        },
+        {
+          "label": "das ovelhas e do gado",
+          "forms": {
+            "pecorum": "das ovelhas e do gado"
+          },
+          "note": "'gado' is the Brazilian word for armenta exactly, but elsewhere it is pecus's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hortus",
+      "refs": [
+        "31:15"
+      ],
+      "latin": "quasi hortus irríguus",
+      "kind": "word",
+      "why": "hortus is a garden, originally a kitchen-garden or orchard. irríguus is 'well-watered' (L&S, with Horace's 'hortus irriguus'). 'horto' is the cognate and names Gethsemane in Brazilian devotion. 'horta' is a vegetable plot. The same phrase is Isa 58:11, said in DO at Lent and on St Scholastica.",
+      "options": [
+        {
+          "label": "um jardim regado",
+          "forms": {
+            "hortus": "um jardim regado"
+          },
+          "note": "Draft, DM1962 ('jardim regado'). Plain, with a paroxytone cadence.",
+          "from": "DM1962"
+        },
+        {
+          "label": "um jardim bem regado",
+          "forms": {
+            "hortus": "um jardim bem regado"
+          },
+          "note": "It carries the intensive 'well-' of irríguus. The CNBB has 'bem irrigado'.",
+          "from": "draft"
+        },
+        {
+          "label": "um horto regado",
+          "forms": {
+            "hortus": "um horto regado"
+          },
+          "note": "The cognate. A little literary, and it brings in the Garden of Olives.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "choro",
+      "refs": [
+        "31:16"
+      ],
+      "latin": "in choro",
+      "kind": "glossary",
+      "why": "The same Latin as 149:3 'Laudent nomen ejus in choro', where the glossary has 'em coro'. L&S: first a ring-dance with song, then the band, then a choir. Here the Vulgate-family witnesses read dance (DRB 'in the dance', MS1932 'na dança'), and so do the Hebrew-family ones (CNBB 'dançará', DM1962 'em côros'). With a singular subject 'em coro' reads by itself as 'in unison'. But the second colon ('os jovens e os anciãos juntos') makes the whole line one company, which is what 'coro' says.",
+      "options": [
+        {
+          "label": "em coro",
+          "forms": {
+            "choro": "em coro"
+          },
+          "note": "Draft. The glossary's word for the same Latin (149:3, 150:4). It keeps the Latin's word and leaves song and dance both open.",
+          "from": "glossary"
+        },
+        {
+          "label": "na dança",
+          "forms": {
+            "choro": "na dança"
+          },
+          "note": "DRB and MS1932, the Vulgate family's reading of this verse. Also the glossary row's option.",
+          "from": "MS1932"
+        },
+        {
+          "label": "no coro",
+          "forms": {
+            "choro": "no coro"
+          },
+          "note": "The noun with the article: in the circle / choir.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "luctum",
+      "refs": [
+        "31:17"
+      ],
+      "latin": "luctum",
+      "kind": "glossary",
+      "why": "luctus is mourning (DRB), the Greek πένθος. The glossary has planctus → lamento (29:12, the same 'convértere … in gáudium' build) and fletus → pranto (29:6b). 'luto' is free and exact, and it is the CNBB's word here.",
+      "options": [
+        {
+          "label": "luto",
+          "forms": {
+            "luctum": "luto"
+          },
+          "note": "Draft. Proposed as the row luctus → luto.",
+          "from": "draft"
+        },
+        {
+          "label": "pranto",
+          "forms": {
+            "luctum": "pranto"
+          },
+          "note": "MS1932. But it is fletus's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "gaudium",
+      "refs": [
+        "31:17"
+      ],
+      "latin": "in gáudium",
+      "kind": "glossary",
+      "why": "The glossary row gáudium → júbilo, followed at 29:12 'Convertestes o meu lamento em júbilo', the same build. 'alegria' is lætítia's, and here lætári and lætificáre are both 'alegrar' in the verses around it. 'gozo' (MS1932) is heard sexually in Brazil (glossary). 'júbilo' is proparoxytone at the mediant, but so is 'gáudium'.",
+      "options": [
+        {
+          "label": "júbilo",
+          "forms": {
+            "gaudium": "júbilo"
+          },
+          "note": "Draft, from the glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "alegria",
+          "forms": {
+            "gaudium": "alegria"
+          },
+          "note": "The CNBB. It would chime with 'se alegrará' and 'alegrarei', where the Latin has another root.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adolore",
+      "refs": [
+        "31:17"
+      ],
+      "latin": "et lætificábo a dolóre suo",
+      "kind": "ambiguity",
+      "why": "'a' + ablative is 'from': away from their sorrow, or after it. DRB has 'make them joyful after their sorrow', MS1932 'passada a sua dor', the CNBB 'após a pena'. A calque 'da sua dor' is heard as the cause ('rejoice over their sorrow'). dolor → dor (glossary).",
+      "options": [
+        {
+          "label": "depois da sua dor",
+          "forms": {
+            "adolore": "depois da sua dor"
+          },
+          "note": "Draft, DRB's reading. Plain, and nothing is added.",
+          "from": "DRB"
+        },
+        {
+          "label": "após a sua dor",
+          "forms": {
+            "adolore": "após a sua dor"
+          },
+          "note": "'após' is post's word in the glossary; the Latin here is not post.",
+          "from": "draft"
+        },
+        {
+          "label": "passada a sua dor",
+          "forms": {
+            "adolore": "passada a sua dor"
+          },
+          "note": "MS1932. An absolute participle, more bookish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "v18a",
+      "refs": [
+        "31:18"
+      ],
+      "latin": "Et inebriábo ánimam sacerdótum pinguédine",
+      "kind": "order",
+      "why": "In the Latin order ('a alma dos sacerdotes de gordura') the ear takes 'sacerdotes de gordura' as 'fat priests'. The order yields (D2). inebriáre → embriagar (glossary, 22:5b, 35:9, 64:10). pinguédo → gordura (62:6). The image is kept: the Latin's 'make drunk with fatness'.",
+      "options": [
+        {
+          "label": "E embriagarei de gordura a alma dos sacerdotes",
+          "forms": {
+            "v18a": "E embriagarei de gordura a alma dos sacerdotes"
+          },
+          "note": "Draft, MS1932's order.",
+          "from": "MS1932"
+        },
+        {
+          "label": "E embriagarei a alma dos sacerdotes com gordura",
+          "forms": {
+            "v18a": "E embriagarei a alma dos sacerdotes com gordura"
+          },
+          "note": "The Latin's order, with the image at the mediant as in the Latin, and 'com' as in 35:9. 'com gordura' at a cadence sounds culinary.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adimplebitur",
+      "refs": [
+        "31:18"
+      ],
+      "latin": "bonis meis adimplébitur",
+      "kind": "glossary",
+      "why": "adimplére → encher (glossary; 15:11, 16:14b 'foi enchido'). 64:5b 'Replébimur in bonis domus tuæ' → 'Seremos cheios dos bens da vossa casa' is almost the same phrase. This colon is also the Thursday Lauds antiphon, which must read alone: 'O meu povo, diz o Senhor, será cheio dos meus bens'. DM1962's antiphon has 'será cumulado de benefícios', the CNBB 'há de fartar-se' (satiety, saturáre's family).",
+      "options": [
+        {
+          "label": "será cheio",
+          "forms": {
+            "adimplebitur": "será cheio"
+          },
+          "note": "Draft, MS1932's words. It is 64:5b's form of the shared verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "será enchido",
+          "forms": {
+            "adimplebitur": "será enchido"
+          },
+          "note": "The adimplére row's passive participle (16:14b).",
+          "from": "glossary"
+        },
+        {
+          "label": "será cumulado",
+          "forms": {
+            "adimplebitur": "será cumulado"
+          },
+          "note": "DM1962's antiphon. It gives the 'ad-' (filled up to the brim), but it is a word apart from the glossary's encher.",
+          "from": "DM1962"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "31:10": "DO's Latin file opens with '(Canticum Jeremiæ * Jer 31:10-18)'. It is DO's heading for the canticle, not a titulus, and it is not a prayed verse. Under D7 it is not translated, as the Nunc dimittis did with its '(Canticum Simeonis …)'. Were it ever shown, it would be '(Cântico de Jeremias * Jr 31,10-14)'. DO's '31:10-18' counts its own nine lines, not Jeremiah's verses. DO's ids 31:10–31:18 are kept as they stand (rule 4), though the text is Jer 31:10–14. gentes → nações (glossary). ínsulæ → ilhas (71:10, 96:1).",
+    "31:11": "dispérgere (people) → dispersar (43:12, 88:11; Tob 13:4 in ps212). congregáre active → congregar (15:4b, 106:2, and 146:2 'congregará os dispersos de Israel', the same promise). custodíre → guardar (glossary). Israel has no article, as in the Latin.",
+    "31:12": "enim → pois, the psalter's use (9:27, 43:8, 49:12). The Latin opens with the verb; the order is natural (D2). Jacob → Jacó (77:71). liberáre → livrar (glossary; 105:10 has 'da mão do inimigo' in the same build).",
+    "31:13": "laudábunt is absolute in the Latin → 'louvarão', with no object (MS1932 glosses '(a Deus)', not followed). mons Sion → o monte Sião (124:1). bona Dómini → os bens do Senhor (26:13). The chain virão / louvarão / Sião / afluirão is the Latin's own -ent / -unt / -ent chain in Portuguese dress. Mediant and final ('Sião' / 'Senhor') do not rhyme.",
+    "31:15": "Erítque → 'E … será'. eórum → 'deles', against the 'sua' that follows in 31:17 for suo: the Latin's two pronouns stay apart, and 'deles' cannot be heard as 'your'. ultra non esúrient → 'e não terão mais fome' (MS1932's words; ultra → mais, as 9:39, 82:5). The Hebrew / CNBB 'de sede e fome' adds thirst, which the Latin does not have.",
+    "31:16": "Tunc → Então (125:2a). júvenes → jovens, senes → anciãos (148:12). simul → juntos (glossary). The articles are supplied (grammar). virgo is singular, as in the Latin (the Greek has plural παρθένοι): 'a virgem'.",
+    "31:17": "convértere in (a change of state) → converter em (glossary row, 29:12, 65:6). consolári → consolar (70:21, 85:17). lætificáre → alegrar (glossary). suo → 'sua'. The mediant 'júbilo' is proparoxytone, and so is the Latin 'gáudium'. Accepted.",
+    "31:18": "This colon, with 'ait Dóminus', is the canticle's antiphon (Thursday Lauds; circulation.md). As an antiphon: 'O meu povo, * diz o Senhor, será cheio dos meus bens.' pópulus meus → o meu povo (72:10, 80:12). The colon is 4 syllables under the Latin; nothing in the Latin is left out."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm214.txt (DO files the canticles as Psalms 210–273). Nine lines, ids 31:10–31:18 as DO numbers them, which are not Jeremiah's verses: the text is Vulgate Jer 31:10–14, checked word for word against the Bolls VULG text (ps214/bolls-VULG-24-31.json). DO drops only the closing 'ait Dominus' of Jer 31:14, which survives in the antiphon. The heading line '(Canticum Jeremiæ * Jer 31:10-18)' is skipped by latin.readVerses and is not translated (D7). render.py and checks.py are run with the DO number 214, as the Nunc dimittis was with 233; both worked unchanged."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py cannot build a canticle, so ps214/show_parallels.py writes ps214/parallels.md. It includes: the Vulgate, DRB and WLC from Bolls (fetched into ps214/); the LXX Jer 38:10–14 from the Rahlfs CSVs, a different recension; Matos Soares 1932 from pdftotext of printed p. 584 (ps214/ms1932-jer31-p584.txt); DM1962, which prints this canticle at Thursday Lauds (consult/diurnal-1.md); and DO's Portuguese, not an authority. The glossary lookups were done with ps214/gloss.py and precedent with ps214/concord.py, a copy of ps210's. Brazilian circulation (CNBB LH, Lectionary refrain 'O Senhor nos guardará qual pastor a seu rebanho') is in circulation.md. Hard readings: Audíte under rule 3; in choro (glossary 'em coro' against the witnesses' 'dance'); pécora / armenta; a dolóre suo; the canticle's antiphon at 31:18b."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass (ids 31:10–31:18, one '*' per line). Soft flags: 31:10 first colon was +3 with 'ó nações' → 'ó' dropped (option kept). Accepted: 31:11b +4 (the supplied 'guarda' of the elided comparison; the ellipsis is option 2 of 'pastor'); 31:14a +3 and 31:16a +3 are heuristic overcounts — 'ao', 'se alegrará a' elide when said (about 12 and 11); 31:12b −3 and 31:18b −3 leave nothing of the Latin out. No rhyme flags. The only proparoxytone cadence is 31:17 'júbilo', which matches 'gáudium'."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+ "append": [
+  {
+   "row": "| audíre |",
+   "text": "**Canticle 214 (Jer 31:10) *Audíte verbum Dómini, gentes* → *Escutai a palavra do Senhor, nações*** — rule 3, as 48:2, against the circulating *Ouvi, nações, a palavra do Senhor* (CNBB LH, Lectionary, DM1962). No reader remarked."
+  },
+  {
+   "row": "| dispérgere (things, bones) |",
+   "text": "**Canticle 214 (Jer 31:11) *Qui dispérsit Israël, congregábit eum* → *Aquele que dispersou Israel o congregará*** (people, active; *congregar* as 146:2's promise)."
+  },
+  {
+   "row": "| redímere |",
+   "text": "**Canticle 214 (Jer 31:12) *Redémit enim Dóminus Jacob* → *Pois o Senhor resgatou Jacó*** (as 77:42, 105:10). The CNBB's *remiu* is the option."
+  },
+  {
+   "row": "| potens (substantive) |",
+   "text": "**Canticle 214 (Jer 31:12) the comparative *de manu potentióris* → *da mão do mais poderoso*** (DRB 'one that was mightier than he'). The ambiguity reader heard it as a superlative; *de quem era mais poderoso* is the option. The stylist's *do mais forte* was refused: *forte* is fortis's."
+  },
+  {
+   "row": "| oves / boves / pécora (campi) |",
+   "text": "**Canticle 214 (Jer 31:14) *fœtu pécorum et armentórum* → *as crias dos rebanhos e das manadas*** (v2): the flock / herd pair. Draft 1's *ovelhas e vacas* (MS1932) was refused by the Latinist, who said it narrows both words to one species, and by the stylist (register). The cost: *rebanho* is also *gregem* (31:11). *crias* as 77:70 *dar cria* (fœtáre)."
+  },
+  {
+   "row": "| chorus (*in choro*) |",
+   "text": "**Canticle 214 (Jer 31:16) *Tunc lætábitur virgo in choro* → *Então se alegrará a virgem em coro*** — 149:3's form. The ambiguity reader heard singing in chorus, and *a virgem* possibly as Mary. The Latinist passed it on v2. *na dança* (the CNBB's *dançará*, DRB 'in the dance', MS1932 *na dança*) is the option."
+  },
+  {
+   "row": "| convértere in (a thing into another) |",
+   "text": "**Canticle 214 (Jer 31:17) *convértam luctum eórum in gáudium* → *converterei o luto deles em júbilo***."
+  },
+  {
+   "row": "| gáudium |",
+   "text": "**Canticle 214 (Jer 31:17) *convértam luctum eórum in gáudium* → *em júbilo***, built as 29:12, so the row is followed. **Evidence for the ruling:** the v1 Latinist found *júbilo* louder than gaudium and asked *alegria*, which chimes with *os alegrarei* (lætificábo) in the same verse. The stylist found the proparoxytone mediant flat and asked *regozijo*. Both are options there."
+  },
+  {
+   "row": "| inebriáre |",
+   "text": "**Canticle 214 (Jer 31:18) *Et inebriábo ánimam sacerdótum pinguédine* → *E embriagarei de gordura a alma dos sacerdotes*** — the order yields, because *a alma dos sacerdotes de gordura* is heard as 'fat priests'. The stylist's object-first *E a alma dos sacerdotes embriagarei* was refused (rule 5)."
+  },
+  {
+   "row": "| adeps |",
+   "text": "**Canticle 214 (Jer 31:18) *pinguédo* alone → *gordura***."
+  },
+  {
+   "row": "| adimplére |",
+   "text": "**Canticle 214 (Jer 31:18) *pópulus meus bonis meis adimplébitur* → *o meu povo será cheio dos meus bens*** — the short participle, as replére's 64:5b *Seremos cheios dos bens*. *será enchido* and *será cumulado* (DM1962) are options."
+  }
+ ],
+ "terms": [
+  "| luctus | luto (*E converterei o luto deles em júbilo*) | open | Canticle 214 (Jer 31:17); not in the psalter (grep). DRB 'mourning'; also the CNBB LH's word. *pranto* (MS1932) is the fletus row's word, so it is the option. |",
+  "| confluere (*ad*) | afluir a (*e afluirão aos bens do Senhor*) | open | Canticle 214 (Jer 31:13); not in the psalter. *con-fluere*, 'to flow together'; the CNBB LH has *afluirão* in the same line. The ambiguity reader listed it as unknown, but it was kept as the one word that keeps the flowing. *acorrerão*, *correrão* (MS1932) are options. |",
+  "| super + ablative (what one comes for) | pelo (*Pelo trigo, e pelo vinho, e pelo azeite*) | open | Canticle 214 (Jer 31:14, v2), after *afluirão aos bens do Senhor*. The v1 Latinist: *ao trigo* (MS1932) made the list an apposition that defines *bona Dómini*, where the Latin's *super* is 'for, on account of' (DRB 'for the corn'). The polysyndeton is kept. |",
+  "| hortus irríguus | jardim regado (*como um jardim regado*) | open | Canticle 214 (Jer 31:15); the same image in Isa 58:11 (missa Quadp3-6 and others; circulation.md). *horto* is Gethsemane's; *jardim bem regado* is the option. The stylist named 31:15 the best line. |"
+ ],
+ "formulas": [
+  "| *Pópulus meus, * ait Dóminus, bonis meis adimplébitur* (antiphon of canticle 214, Thursday Lauds I and the monastic ferial canticles; = 31:18b + *ait Dóminus*) | *O meu povo, * diz o Senhor, será cheio dos meus bens* | open — follows canticle 214's 31:18b. The CNBB antiphon is *O meu povo há de fartar-se de meus bens*; DM1962's is *O meu povo será cumulado de benefícios, diz o Senhor*. |"
+ ]
+}

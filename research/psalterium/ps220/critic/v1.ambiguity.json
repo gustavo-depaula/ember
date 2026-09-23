@@ -1,0 +1,11 @@
+{
+  "role": "ambiguity",
+  "prompt": "../../prompts/ambiguity.md",
+  "promptSha256": "91174d66e8dadefa9d058b3c9802fca0a69f74b7d8ef9724f667f11a82b67fca",
+  "target": "prayed.vos.json",
+  "targetSha256": "167c7e9332d675032532d4c2d0398182461ade638dbf6df3c1f041cb7649588d",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-23T14:08:44+00:00",
+  "reply": "{\"ambiguities\": [{\"id\": \"3:52\", \"words\": \"Deus dos nossos pais\", \"readings\": [\"God of our ancestors (the patriarchs, forefathers)\", \"God of our own fathers/parents\"], \"likelyHeard\": \"God of our ancestors, from familiar biblical usage\"}, {\"id\": \"3:52\", \"words\": \"pelos séculos\", \"readings\": [\"forever, for all ages\", \"through the centuries (a long but finite historical span)\"], \"likelyHeard\": \"forever, as in the familiar liturgical formula\"}, {\"id\": \"3:53\", \"words\": \"e digno de louvor, e sumamente exaltado\", \"readings\": [\"the holy name is worthy of praise and exalted\", \"God (addressed as vós) is worthy of praise and exalted\"], \"likelyHeard\": \"the name, since it is the subject of this verse, though some will hear it as God\"}, {\"id\": \"3:53\", \"words\": \"o santo nome da vossa glória\", \"readings\": [\"your glorious holy name\", \"the holy name that belongs to or designates your glory\"], \"likelyHeard\": \"your glorious holy name\"}, {\"id\": \"3:56\", \"words\": \"olhais os abismos\", \"readings\": [\"you look down into / see into the depths\", \"you watch over / keep an eye on the abysses (guard them)\"], \"likelyHeard\": \"you see into the depths\"}, {\"id\": \"3:58\", \"words\": \"Bendizei, todas as obras do Senhor, ao Senhor\", \"readings\": [\"vocative: all you works of the Lord, bless the Lord\", \"imperative to the assembly with object: (you all) bless all the works of the Lord, [giving them] to the Lord\"], \"likelyHeard\": \"mostly the vocative reading, but the word order and the reading-aloud pause make the second parse audible, with the assembly heard as blessing the works\"}], \"unknownWords\": [{\"id\": \"3:56\", \"word\": \"querubins\"}, {\"id\": \"3:57\", \"word\": \"firmamento\"}]}\n"
+}
