@@ -1,0 +1,651 @@
+{
+  "psalm": 100,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "100:1": "A misericórdia e o {judicium} * eu vos cantarei, Senhor:",
+    "100:2": "Entoarei salmos e {intellegam} no caminho imaculado, * {quando}",
+    "100:2b": "Eu andava na inocência do meu coração, * no meio da minha casa.",
+    "100:3": "Eu não punha diante dos meus olhos coisa injusta: * {odivi} {facientes}.",
+    "100:4": "Não se apegou a mim coração {pravum}: * {declinantem}",
+    "100:5": "Quem difamava o seu próximo em segredo, * a {hunc} eu perseguia.",
+    "100:5b": "{superbo}, * com {hoc} eu não comia.",
+    "100:6": "{oculi}: * quem andava no caminho imaculado, {hic} me servia.",
+    "100:7": "Não habitará no meio da minha casa quem {facit}: * quem fala coisas iníquas {direxit} à vista dos meus olhos.",
+    "100:8": "Pela manhã eu {interficiebam} todos os pecadores da terra: * para exterminar da cidade do Senhor todos os que praticam a iniquidade."
+  },
+  "decisions": [
+    {
+      "id": "judicium",
+      "refs": [
+        "100:1"
+      ],
+      "latin": "Misericórdiam, et judícium",
+      "kind": "glossary",
+      "why": "judícium → juízo is settled (D15). Here it stands beside misericórdia as the king's two virtues, and Matos Soares 1932 writes 'justiça'; DRB keeps 'judgment'. 'Justiça' is justítia's word and would merge two Latin nouns; 'juízo' keeps the glossary. Risk: in Brazil 'ter juízo' is good sense — the pairing with misericórdia should steer the ear to judgment.",
+      "options": [
+        {
+          "label": "juízo",
+          "forms": {
+            "judicium": "juízo"
+          },
+          "note": "draft — D15; DRB 'judgment'",
+          "from": "glossary"
+        },
+        {
+          "label": "justiça",
+          "forms": {
+            "judicium": "justiça"
+          },
+          "note": "MS1932 — explains the sense, but takes justítia's word",
+          "from": "MS1932"
+        },
+        {
+          "label": "julgamento",
+          "forms": {
+            "judicium": "julgamento"
+          },
+          "note": "plain, but D15 refused it for the root (rhymes with mandamentos in Ps 118); unambiguous here"
+        }
+      ]
+    },
+    {
+      "id": "intellegam",
+      "refs": [
+        "100:2"
+      ],
+      "latin": "et intéllegam in via immaculáta",
+      "kind": "word",
+      "why": "intellégere → entender (glossary). 'Entender no caminho' is as unusual in Portuguese as 'intellegere in via' is in Latin (συνήσω ἐν ὁδῷ: to have understanding, to act wisely, in the way). DRB keeps it word for word ('I will understand in the unspotted way'); MS1932 turns it into 'procurarei conhecer o caminho da perfeição', which changes both the verb and the image. The preposition kept: the way is where he understands, not what he understands. Also a Lauds antiphon (Psalmi major, [Day3 Laudes1], i.e. Wednesday: 'Tibi, Dómine, psallam, * et intéllegam in via immaculáta').",
+      "options": [
+        {
+          "label": "entenderei",
+          "forms": {
+            "intellegam": "entenderei"
+          },
+          "note": "draft — the glossary verb, the Latin's preposition kept; DRB",
+          "from": "draft"
+        },
+        {
+          "label": "terei entendimento",
+          "forms": {
+            "intellegam": "terei entendimento"
+          },
+          "note": "the root in a noun; smoother with 'no caminho', two syllables longer"
+        },
+        {
+          "label": "procurarei conhecer (o caminho)",
+          "forms": {
+            "intellegam": "procurarei conhecer"
+          },
+          "note": "MS1932's gloss; would also need 'o caminho' for 'no caminho' — refused, another verb and an added effort",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "quando",
+      "refs": [
+        "100:2"
+      ],
+      "latin": "quando vénies ad me",
+      "kind": "ambiguity",
+      "why": "Latin 'quando' with a future indicative can be temporal ('when you come to me') or a question ('when will you come to me?'); the Greek πότε ἥξεις and the Hebrew are a question. Portuguese must choose by mood: 'quando vierdes' is only temporal, 'quando vireis?' only a question. The DO Latin ends the verse with a full stop, DRB ('when thou shalt come to me') and MS1932 ('quando vieres a mim') read it as temporal, and the responsory (Epi2-6) sets it as the close of a statement. Ruled temporal; the question kept as an option, since the Greek behind the Latin is interrogative.",
+      "options": [
+        {
+          "label": "quando vierdes a mim.",
+          "forms": {
+            "quando": "quando vierdes a mim."
+          },
+          "note": "draft — temporal, as DRB, MS1932 and the DO punctuation",
+          "from": "draft"
+        },
+        {
+          "label": "quando vireis a mim?",
+          "forms": {
+            "quando": "quando vireis a mim?"
+          },
+          "note": "the question of the Greek πότε (and of the Hebrew); a Latin reader may hear it too"
+        }
+      ]
+    },
+    {
+      "id": "odivi",
+      "refs": [
+        "100:3"
+      ],
+      "latin": "faciéntes prævaricatiónes odívi",
+      "kind": "grammar",
+      "why": "odívi is read with present sense where its context is present (25:5 'Odeio', 118:104 'odeio' — the review's ruling). Here it stands inside a narrative of imperfects (proponébam, cognoscébam, persequébar, edébam), so the perfect's past is the natural reading: DRB 'I hated', the Greek aorist ἐμίσησα. MS1932 has the imperfect 'aborrecia'. Ruled 'odiei', the perfect for the perfect; the verb first (natural order), the object after it.",
+      "options": [
+        {
+          "label": "odiei",
+          "forms": {
+            "odivi": "odiei"
+          },
+          "note": "draft — perfect, DRB 'I hated', ἐμίσησα",
+          "from": "draft"
+        },
+        {
+          "label": "odiava",
+          "forms": {
+            "odivi": "odiava"
+          },
+          "note": "in step with the surrounding imperfects; MS1932 'aborrecia' — but the Latin changes tense here",
+          "from": "MS1932"
+        },
+        {
+          "label": "odeio",
+          "forms": {
+            "odivi": "odeio"
+          },
+          "note": "the present sense ruled in 25:5 and 118:104; jars inside a past narrative"
+        }
+      ]
+    },
+    {
+      "id": "facientes",
+      "refs": [
+        "100:3"
+      ],
+      "latin": "faciéntes prævaricatiónes",
+      "kind": "word",
+      "why": "prævaricatiónes → 'transgressões', the noun of 118:119/158 'transgressores' (the cognate 'prevaricação' is administrative law in Brazil). fácere with it: 'fazer transgressões' is the calque; 'cometer' is the verb Portuguese uses with the noun — a collocation, not a new sense (D2: the plainer of two faithful words). The participle put in the past, in step with the verse's narrative (MS1932 'os que cometiam'). v2: the stylist asked 'praticavam' — refused: 'praticar' is operári's verb (100:8 'os que praticam a iniquidade'), and the Latin has fácere here. Option.",
+      "options": [
+        {
+          "label": "os que cometiam transgressões",
+          "forms": {
+            "facientes": "os que cometiam transgressões"
+          },
+          "note": "draft — MS1932's verb; the glossary's noun",
+          "from": "draft"
+        },
+        {
+          "label": "os que faziam transgressões",
+          "forms": {
+            "facientes": "os que faziam transgressões"
+          },
+          "note": "fácere → fazer, as the row fácere iniquitátem (36:1); stiffer"
+        },
+        {
+          "label": "os que cometem transgressões",
+          "forms": {
+            "facientes": "os que cometem transgressões"
+          },
+          "note": "the participle timeless, as in the formula 'os que praticam a iniquidade' (100:8)"
+        },
+        {
+          "label": "os que praticavam transgressões",
+          "forms": {
+            "facientes": "os que praticavam transgressões"
+          },
+          "note": "stylist; praticar is operári's",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "pravum",
+      "refs": [
+        "100:4"
+      ],
+      "latin": "cor pravum",
+      "kind": "word",
+      "why": "pravus is 'crooked', then 'perverse'; the Greek here is σκαμβή, 'crooked, bent'. Ps 77 has both uses: 77:8 generátio prava → 'geração perversa', 77:57 arcum pravum → 'um arco torto'. For a heart the moral sense is the one the Latin reader hears; 'perverso' matches 77:8. 'torto' keeps the image of the bent thing and is kept as the option. No article, as the Latin, and as MS1932 ('Não se unia a mim coração depravado'): 'any perverse heart'.",
+      "options": [
+        {
+          "label": "perverso",
+          "forms": {
+            "pravum": "perverso"
+          },
+          "note": "draft — as 77:8",
+          "from": "draft"
+        },
+        {
+          "label": "torto",
+          "forms": {
+            "pravum": "torto"
+          },
+          "note": "the image of σκαμβή and of 77:57; odd for a heart in Portuguese"
+        },
+        {
+          "label": "depravado",
+          "forms": {
+            "pravum": "depravado"
+          },
+          "note": "MS1932; the cognate, heard today as sexual vice",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "declinantem",
+      "refs": [
+        "100:4"
+      ],
+      "latin": "declinántem a me malígnum non cognoscébam",
+      "kind": "order",
+      "why": "The participle goes with malígnum: 'the malign man who turned aside from me I did not know' (DRB). malígnus → 'malvado' (D24), declináre a → 'apartar-se de' (glossary). The Latin puts the object first; unlike 100:5 and 5b it has no resumptive pronoun. Natural Portuguese order puts the verb first, and 'eu' must be named because 'conhecia' is also third person (the ear could make 'coração perverso' its subject). MS1932 splits it into two clauses ('o mau afastava-se de mim, e eu não o conhecia'), which makes the turning away a fact rather than a description — refused.",
+      "options": [
+        {
+          "label": "eu não conhecia o malvado que se apartava de mim.",
+          "forms": {
+            "declinantem": "eu não conhecia o malvado que se apartava de mim."
+          },
+          "note": "draft — natural order; the verse's two colons both open with 'não'-clauses",
+          "from": "draft"
+        },
+        {
+          "label": "o malvado que se apartava de mim, eu não o conhecia.",
+          "forms": {
+            "declinantem": "o malvado que se apartava de mim, eu não o conhecia."
+          },
+          "note": "the Latin's order, with a resumptive pronoun Portuguese needs; matches 100:5, 5b, 6b"
+        },
+        {
+          "label": "o malvado afastava-se de mim, e eu não o conhecia.",
+          "forms": {
+            "declinantem": "o malvado afastava-se de mim, e eu não o conhecia."
+          },
+          "note": "MS1932 — two clauses; turns the participle into a statement",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "superbo",
+      "refs": [
+        "100:5b"
+      ],
+      "latin": "Supérbo óculo, et insatiábili corde",
+      "kind": "grammar",
+      "why": "Two ablatives of quality describing the person whom 'cum hoc' then resumes; the Latin names no noun and no verb. Portuguese needs one of the two: a verb ('quem tinha', built like 100:5 'Quem difamava … a esse') or a noun (MS1932 'Com homem de olhos soberbos'). The verb keeps the two verses parallel as the Latin's are (participle / ablatives, then hunc / hoc). 'ter o coração X' is the build of 4:3 ('tereis o coração pesado'). Singular 'olho', as the Latin (glossary: óculus singular where the Latin is).",
+      "options": [
+        {
+          "label": "Quem tinha o olho soberbo e o coração insaciável",
+          "forms": {
+            "superbo": "Quem tinha o olho soberbo e o coração insaciável"
+          },
+          "note": "draft — a verb supplied (grammar, D2)",
+          "from": "draft"
+        },
+        {
+          "label": "O de olho soberbo e de coração insaciável",
+          "forms": {
+            "superbo": "O de olho soberbo e de coração insaciável"
+          },
+          "note": "nothing supplied but the article; the ablatives as 'de' + noun; stiff"
+        },
+        {
+          "label": "Com o homem de olho soberbo e de coração insaciável",
+          "forms": {
+            "superbo": "Com o homem de olho soberbo e de coração insaciável"
+          },
+          "note": "MS1932's build (with his plural 'olhos' made singular); supplies a noun and doubles 'com'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "hic",
+      "refs": [
+        "100:5",
+        "100:5b",
+        "100:6"
+      ],
+      "latin": "hunc persequébar · cum hoc non edébam · hic mihi ministrábat",
+      "kind": "word",
+      "why": "Three resumptive demonstratives take up the person just described; the Latin repeats hic, so the Portuguese repeats one word. The glossary's 'hic est → este é' (D43) is for a pointing 'this'; for a pronoun that takes up what was just said Brazilian usage is 'esse', as MS1932 has twice ('com esse não comia', 'esse me servia').",
+      "options": [
+        {
+          "label": "esse",
+          "forms": {
+            "hunc": "esse",
+            "hoc": "esse",
+            "hic": "esse"
+          },
+          "note": "draft — MS1932 in 5b and 6",
+          "from": "draft"
+        },
+        {
+          "label": "este",
+          "forms": {
+            "hunc": "este",
+            "hoc": "este",
+            "hic": "este"
+          },
+          "note": "hic → este, as D43; heard as more pointed"
+        }
+      ]
+    },
+    {
+      "id": "oculi",
+      "refs": [
+        "100:6"
+      ],
+      "latin": "Óculi mei ad fidéles terræ ut sédeant mecum",
+      "kind": "grammar",
+      "why": "The first clause has no verb; Portuguese needs one (a copula, D2). Its tense is open in the Latin: 'sédeant' is present, 'ministrábat' in the second colon past. DRB ('My eyes were upon') and MS1932 ('buscavam') put it in the past with the narrative of 100:2b–6; ruled so. 'para se sentarem' (DRB 'to sit with me') leaves the tense of the purpose unmarked and is two syllables shorter than 'para que se sentassem'. 'estavam nos fiéis' for 'ad': eyes resting on someone; 'voltados para' (9:30a's formula for 'in … respíciunt') is closer to 'ad' but longer. MS1932's 'buscavam' supplies a verb of meaning — refused. v2: the stylist heard 'estavam nos fiéis' as eyes put 'in' people and asked 'postos' — taken: a participle that belongs to the copula, the idiom for eyes set on someone, nothing of meaning added. His 'para que se sentassem' refused: two syllables more on the longest colon of the psalm, and the blind reader heard 'para se sentarem' rightly. The Latinist (minor) would keep the clause tenseless ('Os meus olhos, sobre os fiéis da terra'); the copula is allowed, as he says, and the second colon's 'ministrábat' is past, so the past stands — the tenseless forms are options. v2 gate (minor): 'postos' is a participle beyond the bare copula; held — it belongs to the copula (eyes 'set on'), adds no sense the Latin lacks, and answers the stylist's fault; his 'estavam sobre' is option 3.",
+      "options": [
+        {
+          "label": "Os meus olhos estavam postos nos fiéis da terra, para se sentarem comigo",
+          "forms": {
+            "oculi": "Os meus olhos estavam postos nos fiéis da terra, para se sentarem comigo"
+          },
+          "note": "v2 — the stylist's 'postos'; past copula as DRB",
+          "from": "stylist"
+        },
+        {
+          "label": "Os meus olhos estavam nos fiéis da terra, para se sentarem comigo",
+          "forms": {
+            "oculi": "Os meus olhos estavam nos fiéis da terra, para se sentarem comigo"
+          },
+          "note": "draft 1",
+          "from": "draft"
+        },
+        {
+          "label": "Os meus olhos estavam sobre os fiéis da terra, para se sentarem comigo",
+          "forms": {
+            "oculi": "Os meus olhos estavam sobre os fiéis da terra, para se sentarem comigo"
+          },
+          "note": "the v2 gate's fix: the bare copula, 'sobre' as 33:16",
+          "from": "latinist"
+        },
+        {
+          "label": "Os meus olhos, sobre os fiéis da terra, para se sentarem comigo",
+          "forms": {
+            "oculi": "Os meus olhos, sobre os fiéis da terra, para se sentarem comigo"
+          },
+          "note": "the Latinist's: verbless and tenseless, as the Latin",
+          "from": "latinist"
+        },
+        {
+          "label": "Os meus olhos postos nos fiéis da terra, para se sentarem comigo",
+          "forms": {
+            "oculi": "Os meus olhos postos nos fiéis da terra, para se sentarem comigo"
+          },
+          "note": "tenseless with the participle; reads as a fragment"
+        },
+        {
+          "label": "Os meus olhos estavam postos nos fiéis da terra, para que se sentassem comigo",
+          "forms": {
+            "oculi": "Os meus olhos estavam postos nos fiéis da terra, para que se sentassem comigo"
+          },
+          "note": "the stylist's whole line; +2 syllables",
+          "from": "stylist"
+        },
+        {
+          "label": "Os meus olhos estão nos fiéis da terra, para que se sentem comigo",
+          "forms": {
+            "oculi": "Os meus olhos estão nos fiéis da terra, para que se sentem comigo"
+          },
+          "note": "present, as 'sédeant' suggests; the tense then changes inside the verse"
+        },
+        {
+          "label": "Os meus olhos buscavam os fiéis da terra, para que se sentassem comigo",
+          "forms": {
+            "oculi": "Os meus olhos buscavam os fiéis da terra, para que se sentassem comigo"
+          },
+          "note": "MS1932 — supplies a verb the Latin lacks",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "facit",
+      "refs": [
+        "100:7"
+      ],
+      "latin": "qui facit supérbiam",
+      "kind": "glossary",
+      "why": "The glossary row fácere supérbiam → 'agir com soberba' (30:24, the stylist's there, for MS1932's 'procedem com soberba'). The Latinist (minor) reads soberba as the thing done, not the manner, and asks 'pratica a soberba' — but 'praticar' is operári's verb (100:8), and the row keeps the two psalms alike. 'faz soberba' is the calque. Held; his readings are options.",
+      "options": [
+        {
+          "label": "age com soberba",
+          "forms": {
+            "facit": "age com soberba"
+          },
+          "note": "draft — the row, = 30:24",
+          "from": "glossary"
+        },
+        {
+          "label": "pratica a soberba",
+          "forms": {
+            "facit": "pratica a soberba"
+          },
+          "note": "latinist — soberba as object; spends operári's verb",
+          "from": "latinist"
+        },
+        {
+          "label": "faz soberba",
+          "forms": {
+            "facit": "faz soberba"
+          },
+          "note": "the calque",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "direxit",
+      "refs": [
+        "100:7"
+      ],
+      "latin": "non diréxit in conspéctu oculórum meórum",
+      "kind": "word",
+      "why": "dirígere without an object (κατεύθυνεν): 'went straight', and so 'held his course, prospered'. The same Latin build in 58:5 ('sine iniquitáte cucúrri, et diréxi') is 'segui reto', and the same words keep the same Portuguese. DRB 'did not prosper' interprets toward success; MS1932 'não pôde tornar-se agradável aos meus olhos' paraphrases. 'não seguiu reto' keeps the Latin's image and its double sense (did not go straight / did not get on). in conspéctu oculórum → 'à vista dos meus olhos', as 17:25. v2: the stylist heard 'seguir reto' as a street direction and asked 'não andou reto' — refused: 'andar' is ambuláre's verb, and ambuláre stands in the verse before ('quem andava no caminho imaculado'), so two Latin verbs would sound as one; 58:5 has 'segui reto' for the same Latin. His line is an option. v2 gate (minor, first raised at v2): asks 'não prosperou' for the intransitive sense; held — 58:5 'segui reto' renders the same Latin build, and 'seguir reto' keeps the image and both senses where 'prosperar' keeps one; DRB's word is option 3.",
+      "options": [
+        {
+          "label": "não seguiu reto",
+          "forms": {
+            "direxit": "não seguiu reto"
+          },
+          "note": "draft — = 58:5 'segui reto'",
+          "from": "draft"
+        },
+        {
+          "label": "não andou reto",
+          "forms": {
+            "direxit": "não andou reto"
+          },
+          "note": "stylist — the natural idiom; merges with ambuláre → andar (100:6)",
+          "from": "stylist"
+        },
+        {
+          "label": "não prosperou",
+          "forms": {
+            "direxit": "não prosperou"
+          },
+          "note": "DRB 'did not prosper'; one sense of two",
+          "from": "DRB"
+        },
+        {
+          "label": "não se manteve de pé",
+          "forms": {
+            "direxit": "não se manteve de pé"
+          },
+          "note": "'was not established'; interprets"
+        }
+      ]
+    },
+    {
+      "id": "interficiebam",
+      "refs": [
+        "100:8"
+      ],
+      "latin": "interficiébam",
+      "kind": "glossary",
+      "why": "The glossary row interfícere / occídere → assassinar / matar (open) was made for 93:6, where the two verbs stand side by side and must differ. Alone, interfícere is 'matar' in 9:29 ('para matar o inocente'). Here the king puts evildoers to death at the morning court; 'assassinar' is 'murder', a judgment the Latin does not make. DRB 'I put to death'; MS1932 'exterminava' spends dispérdere's word, which follows in the same verse.",
+      "options": [
+        {
+          "label": "matava",
+          "forms": {
+            "interficiebam": "matava"
+          },
+          "note": "draft — as 9:29",
+          "from": "draft"
+        },
+        {
+          "label": "fazia morrer",
+          "forms": {
+            "interficiebam": "fazia morrer"
+          },
+          "note": "DRB 'put to death'; softer, longer",
+          "from": "DRB"
+        },
+        {
+          "label": "assassinava",
+          "forms": {
+            "interficiebam": "assassinava"
+          },
+          "note": "the row's word from 93:6; 'murder'",
+          "warn": true
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "100:1": "The article supplied before both nouns (the object fronted, as in the Latin). 'eu vos cantarei': the subject named so the colon does not open on a clitic. cantáre → cantar here, psállere → 'entoar salmos' in the next verse (D25) — the two verbs kept apart as the Latin keeps them. Responsory R. of Epi2-6 opens with this verse.",
+    "100:2": "psállere → 'Entoarei salmos' (D25). immaculátus → 'imaculado' (glossary; 17:33, 118:1); 'no caminho imaculado' is repeated identically at 100:6, as the Latin repeats 'in via immaculáta'. The Lauds antiphon (Psalmi major, Day3 Laudes1) 'Tibi, Dómine, psallam, * et intéllegam in via immaculáta' would read 'A vós, Senhor, entoarei salmos, * e entenderei no caminho imaculado'. v2: the comma after 'salmos' removed at the stylist's request, so the colon is said in one run (the two verbs are one sentence).",
+    "100:2b": "perambuláre → 'andar' (the row names 100:2 for L&S's Church sense, 'walk, conduct oneself'). The versicle of Epi2-6 reads it alone; it stands alone.",
+    "100:3": "'Eu' named: 'punha' is also third person. rem injústam → 'coisa injusta', no article (MS1932's wording). prævaricatiónes → 'transgressões', the noun of 118:119 'transgressores'.",
+    "100:4": "adhærére → 'apegar-se a' (24:21, 62:9, 72:28, 93:20). The two colons open 'Não … / eu não …', the Latin's two negatives.",
+    "100:5": "detráhere + dative → 'difamar' (settled, D39; the row names 100:5). 'o seu próximo' moved off the mediant (a proparoxytone at a cadence — glossary row próximus), and 'em segredo' (secréto) takes the cadence. The preposed 'a esse' is the Latin's fronted 'hunc'.",
+    "100:5b": "édere → 'comer' (glossary). The -ia imperfects at the finals of 100:5, 5b, 6 (perseguia, comia, servia) echo as the Latin's -bar / -bam / -bat do: accepted as the Latin's own echo.",
+    "100:6": "'os fiéis da terra' as 118:119 'os pecadores da terra', and 100:8 below. ministráre → 'servir' (DRB, MS1932 'esse me servia'); servíre's imperative is 'Sede servos' (D18), and the two Latin verbs never meet in a verse. 'quem andava' for the participle 'ámbulans', in step with 'ministrábat'. The ambiguity reader heard 'esse me servia' also as colloquial 'that one suited me'; the servant sense came first, and the second colon's 'hic mihi ministrábat' is plain enough in context — kept.",
+    "100:7": "fácere supérbiam → 'agir com soberba' (row, 30:24). loqui iníqua → 'falar coisas iníquas' (the neuter plural as 25:4 'coisas iníquas'). The future 'Não habitará' kept: the Latin moves from past to future here. The ambiguity reader found the switch from 'habitará' to the past 'seguiu' confusing: it is the Latin's (habitábit / diréxit), kept.",
+    "100:8": "in matutíno → 'Pela manhã', as 48:15b (in matutíno), kept apart from mane → 'de manhã'. dispérdere → 'exterminar' (glossary). operántes iniquitátem → 'os que praticam a iniquidade' (formula, 5:7a, 93:16). 'omnes peccatóres terræ' = 118:119 'todos os pecadores da terra'. 'para exterminar' for ut + subjunctive with the same subject (grammar)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps100.md (no Diurnal section for this psalm). Glossary rows read for every controlled word (ps100/gloss_grep.py); finished psalms consulted for adhærére, pravus, dirígere absolute (58:5), in matutíno (48:15b), interfícere (9:29), in conspéctu oculórum (17:25), prævaricántes (118:119). Liturgical uses found by grep: responsory and versicle in Tempora/Epi2-6 (100:1–2b), antiphon 'Tibi, Dómine, psallam' in Psalmi major. Hard readings: 100:2 'quando vénies' (temporal or question), 100:3 odívi in a past narrative, 100:6 the verbless first clause, 100:7 'non diréxit' absolute."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: length +5 at 100:2a (psállere → 'entoar salmos' is two words for one, D25, and 'imaculado' is long) and 100:6a (a copula supplied for the verbless clause); +4 at 100:4a/b (the reflexive 'se apegou a mim'; 'eu' named against a third-person hearing) and 100:5b (a verb supplied for the ablatives of quality); +3 at 100:5b ('a esse eu' for 'hunc'). Each is one breath; accepted. Rhyme flag -ia at the finals of 100:5, 5b, 6 (perseguia / comia / servia): the Latin's own echo (persequébar / edébam / ministrábat), accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. No major; two minors, both held as options.",
+      "outcomes": [
+        {
+          "verse": "100:6",
+          "remark": "supplied 'estavam' fixes a past the verbless Latin leaves open",
+          "outcome": "option",
+          "decision": "oculi",
+          "reason": "The copula is allowed (he says so); the second colon is past; his tenseless line is an option."
+        },
+        {
+          "verse": "100:7",
+          "remark": "'age com soberba' makes soberba manner, not object; 'pratica a soberba'",
+          "outcome": "option",
+          "decision": "facit",
+          "reason": "Glossary row fácere supérbiam (30:24); 'praticar' is operári's (100:8)."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Four remarks: one taken, one taken in part, two refused as options. Best line 100:5, worst 100:7.",
+      "outcomes": [
+        {
+          "verse": "100:2",
+          "remark": "comma before 'e entenderei' breaks the colon",
+          "outcome": "taken"
+        },
+        {
+          "verse": "100:6",
+          "remark": "'estavam nos fiéis' odd, 'para se sentarem' heavy: 'estavam postos … para que se sentassem'",
+          "outcome": "taken",
+          "decision": "oculi",
+          "reason": "'postos' taken; 'para que se sentassem' refused for length (option) — the blind reader heard the infinitive rightly."
+        },
+        {
+          "verse": "100:7",
+          "remark": "'seguiu reto' a street direction; 'não andou reto'",
+          "outcome": "option",
+          "decision": "direxit",
+          "reason": "'andar' is ambuláre's verb in 100:6; 58:5 'segui reto' for the same Latin."
+        },
+        {
+          "verse": "100:3",
+          "remark": "'cometiam transgressões' legal and heavy; 'praticavam'",
+          "outcome": "option",
+          "decision": "facientes",
+          "reason": "'praticar' is operári's verb (100:8)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. Heard every verse in the Latin's sense first. Noted: 'juízo' may be 'good sense' (likely heard as judgment — kept, D15); 'entenderei no caminho' unusual (the Latin's; kept, decision intellegam); 'esse me servia' also 'suited me' (kept); tense switch in 100:7 (the Latin's). Unknown: vierdes, imaculado, transgressões, difamava, soberbo, iníquas, soberba, iniquidade — all glossary words or forced by vós; none changed.",
+      "outcomes": [
+        {
+          "verse": "100:1",
+          "remark": "'juízo' may be heard as good sense",
+          "outcome": "refused",
+          "decision": "judicium",
+          "reason": "Likely heard as judgment; D15."
+        },
+        {
+          "verse": "100:2",
+          "remark": "'entenderei no caminho' unusual",
+          "outcome": "refused",
+          "decision": "intellegam",
+          "reason": "The Latin's own oddity (intéllegam in via); 'terei entendimento' is the option."
+        },
+        {
+          "verse": "100:6",
+          "remark": "'esse me servia' may be 'suited me'",
+          "outcome": "refused",
+          "reason": "Servant sense heard first; DRB/MS1932 wording."
+        },
+        {
+          "verse": "100:7",
+          "remark": "future → past switch confusing",
+          "outcome": "refused",
+          "reason": "The Latin's tenses (habitábit / diréxit)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 100:2 comma removed (stylist); 100:6 'estavam postos nos fiéis' (stylist); new decision 'facit' makes the row's 'age com soberba' explicit against the Latinist's 'pratica a soberba'. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. 100:6a now +7 ('postos' added): the longest colon of the psalm; it has a natural comma after 'terra', and the Latin colon is itself long (17). Accepted for the stylist's gain in sense; draft 1's line (+5) is option 2. Other soft flags as v1."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Gate clean of majors; two minors, both held as options.",
+      "outcomes": [
+        {
+          "verse": "100:6",
+          "remark": "'postos' adds a participle beyond the copula; 'estavam sobre'",
+          "outcome": "option",
+          "decision": "oculi",
+          "reason": "The participle belongs to the copula and adds no sense; it answers the stylist's fault ('eyes in people')."
+        },
+        {
+          "verse": "100:7",
+          "remark": "intransitive diréxit = prospered; 'não prosperou'",
+          "outcome": "option",
+          "decision": "direxit",
+          "reason": "58:5 'segui reto' for the same Latin; the image and both senses kept."
+        }
+      ]
+    }
+  ]
+}

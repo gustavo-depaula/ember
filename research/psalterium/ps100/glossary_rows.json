@@ -1,0 +1,22 @@
+{"append": [
+ {"row": "| judícia / judícium |", "text": "Ps 100:1 *Misericórdiam, et judícium* → *A misericórdia e o juízo * eu vos cantarei, Senhor* (MS1932 *justiça* option); the ambiguity reader noted 'ter juízo' but heard judgment."},
+ {"row": "| intellégere |", "text": "Ps 100:2 *intéllegam in via immaculáta* → *entenderei no caminho imaculado* (the Latin's preposition kept; the ambiguity reader found *entender em* unusual; *terei entendimento* option). The Lauds antiphon (Psalmi major Day3 Laudes1) *Tibi, Dómine, psallam, * et intéllegam in via immaculáta* would read *A vós, Senhor, entoarei salmos, * e entenderei no caminho imaculado*."},
+ {"row": "| immaculátus |", "text": "Ps 100:2, 100:6 *in via immaculáta* → *no caminho imaculado*, twice identically; *imaculado* listed unknown by the ambiguity reader again."},
+ {"row": "| perambuláre |", "text": "Ps 100:2b *Perambulábam in innocéntia cordis mei* → *Eu andava na inocência do meu coração* — the row's Church sense applied."},
+ {"row": "| prævaricári, *prævaricántes* |", "text": "Ps 100:3 the noun *faciéntes prævaricatiónes* → *os que cometiam transgressões* (*cometer* the noun's collocation; the stylist's *praticavam* refused for operári's verb, option)."},
+ {"row": "| odísse / ódio habére |", "text": "Ps 100:3 *odívi* in a narrative of imperfects → *odiei* (the perfect's past: DRB 'I hated', ἐμίσησα), not the present sense of 25:5 / 118:104; *odiava*, *odeio* options. Context decides."},
+ {"row": "| adhærére |", "text": "Ps 100:4 *Non adhǽsit mihi cor pravum* → *Não se apegou a mim coração perverso*."},
+ {"row": "| declináre a |", "text": "Ps 100:4 *declinántem a me malígnum* → *o malvado que se apartava de mim* (D24 with this row)."},
+ {"row": "| detráhere + dative |", "text": "Ps 100:5 *Detrahéntem secréto próximo suo* → *Quem difamava o seu próximo em segredo* — applied; *próximo* kept off the mediant."},
+ {"row": "| óculus |", "text": "Ps 100:5b *Supérbo óculo* → *o olho soberbo* (singular kept, with *Quem tinha … o coração insaciável* supplied, as 4:3 *tereis o coração pesado*)."},
+ {"row": "| dirígere |", "text": "Ps 100:7 intransitive *non diréxit in conspéctu oculórum meórum* → *não seguiu reto à vista dos meus olhos*, = 58:5 *segui reto*; held against the stylist's *andou reto* (ambuláre's verb in 100:6) and the v2 Latinist's *não prosperou* (DRB), both options."},
+ {"row": "| fácere supérbiam |", "text": "Ps 100:7 *qui facit supérbiam* → *quem age com soberba* — applied; the Latinist (minor) asked *pratica a soberba* (soberba as object) — held for this row and operári's *praticar*, option."},
+ {"row": "| interfícere / occídere |", "text": "Ps 100:8 *interficiébam* alone → *matava* (as 9:29 *para matar o inocente*): *assassinar* is 'murder', a judgment the Latin does not make; the split is needed only where the two verbs meet (93:6). Proposed: interfícere → *matar* unless occídere stands beside it."},
+ {"row": "| matutína (*in matutínis*) |", "text": "Ps 100:8 singular *in matutíno* → *Pela manhã*, = 48:15b; kept apart from mane → *de manhã*."}
+],
+"terms": [
+ "| pravus | perverso (*coração perverso*) · torto for a bent thing | open | Ps 100:4 *cor pravum* (σκαμβή) → *coração perverso*, as 77:8 *generátio prava* → *geração perversa*; 77:57 *arcum pravum* → *arco torto* (the image). Shares *perverso* with pervérsus (17:27); they do not meet in a verse. *torto*, *depravado* (MS1932, heard as sexual) options in Ps 100 |",
+ "| ministráre | servir (*esse me servia*) | open | Ps 100:6 (ἐλειτούργει); DRB, MS1932. servíre's imperative is *Sede servos* (D18); the two never meet in a verse. The ambiguity reader heard 'suited me' as a second reading. 102:21 *minístri* / 103:4 *minístros* (nouns) decide their own word |",
+ "| hic / hunc / hoc (resumptive, after a described person) | esse (*a esse eu perseguia · com esse eu não comia · esse me servia*) | open | Ps 100:5, 5b, 6 — one word for the Latin's repeated pronoun; MS1932 *com esse*, *esse me servia*. D43's *hic est → este é* is the pointing 'this'. *este* option |",
+ "| secréto (adverb) | em segredo | open | Ps 100:5 *Detrahéntem secréto* (λάθρᾳ); kept apart from *in abscóndito → às escondidas* and *in occúltis → em lugares ocultos* |"
+]}
