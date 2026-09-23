@@ -1,0 +1,369 @@
+{
+  "psalm": 129,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "129:1": "{deprofundis} {clamavi} a vós, Senhor: * Senhor, escutai a minha voz:",
+    "129:2b": "{fiant} os vossos ouvidos {intendentes}, * à voz da minha prece.",
+    "129:3": "Se {observaveris} as iniquidades, Senhor: * Senhor, quem {sustinebit}?",
+    "129:4a": "Porque junto de vós está {propitiatio}: * e por causa da vossa lei esperei por vós, Senhor.",
+    "129:4b": "A minha alma esperou {inverbo}: * a minha alma esperou no Senhor.",
+    "129:6": "Desde a vigília da manhã até a noite: * espere Israel no Senhor.",
+    "129:7": "Porque junto do Senhor está a misericórdia: * {copiosa}.",
+    "129:8": "E ele mesmo {redimet} Israel, * de todas as suas iniquidades."
+  },
+  "decisions": [
+    {
+      "id": "deprofundis",
+      "refs": [
+        "129:1"
+      ],
+      "latin": "De profúndis",
+      "kind": "word",
+      "why": "The neuter plural 'the depths' (ἐκ βαθέων). The psalter's own precedent is 68:15 'de profúndis aquárum' → 'das profundezas das águas' (profúndum row, 68:3, 68:16, 106:24). Brazil knows the line as 'Das profundezas (eu) clamo a vós, Senhor' (CNBB Liturgia das Horas and Hebrew-based devotions, fetched — ps129/circulation.md); the Vulgate-based devotions have 'Do profundo abismo' / 'Dos profundos abismos', which add the abyss (abýssus is another word, D42); MS1932 'Desde o mais profundo'.",
+      "options": [
+        {
+          "label": "Das profundezas",
+          "forms": {
+            "deprofundis": "Das profundezas"
+          },
+          "note": "Draft. The plural kept; one root with 68:15; the wording Brazilian ears already have. Four syllables for the Latin's four.",
+          "from": "draft"
+        },
+        {
+          "label": "Do profundo",
+          "forms": {
+            "deprofundis": "Do profundo"
+          },
+          "note": "The singular substantive, as DO's Portuguese and the start of the devotional 'Do profundo abismo'. Loses the plural and reads as unfinished without 'abismo'.",
+          "from": "draft"
+        },
+        {
+          "label": "Desde o mais profundo",
+          "forms": {
+            "deprofundis": "Desde o mais profundo"
+          },
+          "note": "MS1932. 'mais' is his intensifier, not the Latin's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "clamavi",
+      "refs": [
+        "129:1"
+      ],
+      "latin": "clamávi ad te",
+      "kind": "grammar",
+      "why": "The Latin perfect (Greek aorist ἐκέκραξα). The CNBB and the Hebrew-based devotions say the present 'clamo', which is how most Brazilians have the opening in their ear; MS1932 and both Vulgate-based devotional texts found keep the past ('clamei'). 'clamei a vós' is already the psalter's formula for 'clamávi ad te' (29:3, 85:7, 87:14; the clamáre row).",
+      "options": [
+        {
+          "label": "clamei",
+          "forms": {
+            "clamavi": "clamei"
+          },
+          "note": "Draft. The Latin's tense and the formula of 29:3, 87:14 (whose V. is said alone, as this line is said alone in the Office of the Dead). Tense is not free under D2 where Portuguese has the same tense.",
+          "from": "draft"
+        },
+        {
+          "label": "clamo",
+          "forms": {
+            "clamavi": "clamo"
+          },
+          "note": "CNBB 'Das profundezas eu clamo a vós, Senhor' (Hebrew-based). The familiar sound; but it turns a cry already made into one being made, which the Latin does not say.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fiant",
+      "refs": [
+        "129:2b"
+      ],
+      "latin": "Fiant aures tuæ intendéntes",
+      "kind": "word",
+      "why": "'Fiant' is 'let them become / be made' (γενηθήτω). Portuguese says this with 'estar' (MS1932 'estejam atentos os teus ouvidos'; the Diurnal and the CNBB 'estejam'); 'tornar-se' keeps the becoming (the fíeri + adjective row, 19:4 'se torne gordo', where the Latinist asked for it) but here it would suggest ears that were not attentive before.",
+      "options": [
+        {
+          "label": "Estejam",
+          "forms": {
+            "fiant": "Estejam"
+          },
+          "note": "Draft. The jussive every Portuguese witness uses; the Latin's order kept (verb, ears, attentive).",
+          "from": "MS1932"
+        },
+        {
+          "label": "Tornem-se",
+          "forms": {
+            "fiant": "Tornem-se"
+          },
+          "note": "The becoming of fíeri kept (19:4 row). Heard as a reproach: 'let your ears (at last) become attentive'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "intendentes",
+      "refs": [
+        "129:2b"
+      ],
+      "latin": "intendéntes, in vocem",
+      "kind": "glossary",
+      "why": "The present participle of inténdere (D3 → atender), with 'in' + accusative (προσέχοντα εἰς). A participle 'atendendo à voz' keeps D3's verb; the adjective 'atentos' is what every witness writes (MS1932, DRB 'attentive', the CNBB) and is the plain Portuguese for ears that attend. The Latin's 'in vocem' (motion toward) becomes 'à voz'.",
+      "options": [
+        {
+          "label": "atentos",
+          "forms": {
+            "intendentes": "atentos"
+          },
+          "note": "Draft. The adjective of the same idea; D3's verb is heard in it only by kinship (atentos / atender). The word before the mark is a paroxytone.",
+          "from": "MS1932"
+        },
+        {
+          "label": "atendendo",
+          "forms": {
+            "intendentes": "atendendo"
+          },
+          "note": "D3's verb itself, as a gerund. 'Estejam os vossos ouvidos atendendo à voz' is clumsy and heard as a progressive.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "observaveris",
+      "refs": [
+        "129:3"
+      ],
+      "latin": "Si iniquitátes observáveris",
+      "kind": "word",
+      "why": "observáre here is παρατηρέω, the Greek of 36:12 and 55:7, where the observáre row gives 'espreitar' (to lie in wait) — hostile watching by men, which cannot be said of God. L&S: 'to watch, note, heed'; DRB 'wilt mark'. The Vulgate-based devotional text found has 'Se Vós, Senhor, observardes as iniquidades' (circulation.md); the other 'Se considerardes'; the CNBB 'Se levardes em conta' (Hebrew 'keep, guard'). The line is said alone as the antiphon of the Office of the Dead (C9) and in the Gradual of Pent22.",
+      "options": [
+        {
+          "label": "observardes",
+          "forms": {
+            "observaveris": "observardes"
+          },
+          "note": "Draft. The Latin's word, in the sense it still has in Portuguese (watch closely, take note); future subjunctive for the Latin's future perfect. No article or possessive is added to 'iniquitátes' beyond the definite article ('as nossas' of MS1932 and the CNBB is supplied).",
+          "from": "draft"
+        },
+        {
+          "label": "tiverdes em conta",
+          "forms": {
+            "observaveris": "tiverdes em conta"
+          },
+          "note": "The sense made explicit (keep an account). Clearer to the ear; an interpretation of the watching the Latin names, and the CNBB's (Hebrew-based) idiom.",
+          "from": "draft"
+        },
+        {
+          "label": "espreitardes",
+          "forms": {
+            "observaveris": "espreitardes"
+          },
+          "note": "The observáre (hostile) row, by the Greek παρατηρέω. Refused: it makes God a spy.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "sustinebit",
+      "refs": [
+        "129:3"
+      ],
+      "latin": "quis sustinébit?",
+      "kind": "glossary",
+      "why": "sustinére with no object: 'who will bear (it) / hold out' (τίς ὑποστήσεται, 'who will stand'; DRB 'who shall stand it'). The sustinére row names this very verse for 'suportar' (a thing endured), apart from 'esperar por' (God as object, D36) which 129:4a and 4b use. So the Latin's one verb, three times in two verses, is two Portuguese verbs — the row's split, recorded here. 'Subsistir' is what MS1932, the CNBB and the devotions say ('quem poderá subsistir?'), and it is the word Brazilian ears expect; it is also nearest the Greek (ὑφίστημι), but it is not the Latin's verb.",
+      "options": [
+        {
+          "label": "suportará",
+          "forms": {
+            "sustinebit": "suportará"
+          },
+          "note": "Draft, by the sustinére row, which names 129:3. The Latin's future, no object supplied (the Latin has none). Seven syllables to the Latin's eight; ends on a stressed syllable.",
+          "from": "glossary"
+        },
+        {
+          "label": "subsistirá",
+          "forms": {
+            "sustinebit": "subsistirá"
+          },
+          "note": "The traditional wording (MS1932 'poderá subsistir', the CNBB, the devotions). Says 'remain standing', the Greek's image; not the Latin's word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "resistirá",
+          "forms": {
+            "sustinebit": "resistirá"
+          },
+          "note": "'hold out'; would be heard as resisting God.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "propitiatio",
+      "refs": [
+        "129:4a"
+      ],
+      "latin": "apud te propitiátio est",
+      "kind": "glossary",
+      "why": "propitiátio = ἱλασμός, atonement, propitiation (L&S, citing 1 Jn 2:2 'ipse est propitiatio pro peccatis nostris'). The glossary's placátio row (48:8, ἐξίλασμα, the same Greek root) settled 'propiciação' (D43) and says 129:4 would share it; the propitiári row ruled 'sede clemente' for the verb with a sin as object (78:9) and left 129:4a to be decided here. 'propiciação' was unknown to a blind reader at 48:8. The Vulgate-based devotional De profundis found has 'Mas em vós se encontra a propiciação'; the other 'tudo é clemência'; MS1932 'a clemência'; the CNBB 'o perdão' (Hebrew סְלִיחָה). 'apud te' → 'junto de vós' (row; 35:10 'Porque junto de vós está a fonte da vida' is the same build), and 129:7 repeats it.",
+      "options": [
+        {
+          "label": "propiciação",
+          "forms": {
+            "propitiatio": "a propiciação"
+          },
+          "note": "Draft. The Latin's word and the Church's word for atonement; one family with placátio (48:8) as the Greek is one family; in circulation in the devotional De profundis. Cost: the word may be unknown to some who pray it (as at 48:8) — the ambiguity reader is asked to test it.",
+          "from": "draft"
+        },
+        {
+          "label": "clemência",
+          "forms": {
+            "propitiatio": "a clemência"
+          },
+          "note": "MS1932, and kin with the propitiári proposal ('sede clemente', 78:9). Plain; but it names God's mildness where the Latin names the means of reconciliation — a loss of sense.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o perdão",
+          "forms": {
+            "propitiatio": "o perdão"
+          },
+          "note": "The CNBB and the Diurnal (both from the Hebrew). Plain and prayable; the Hebrew's sense, and 'perdoar' is dimíttere's.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "inverbo",
+      "refs": [
+        "129:4b"
+      ],
+      "latin": "Sustínuit ánima mea in verbo ejus",
+      "kind": "ambiguity",
+      "why": "sustinére again (ὑπέμεινεν … εἰς τὸν λόγον σου): D36's 'esperar por' keeps it one verb with 4a's 'sustínui te → esperei por vós' and apart from the next colon's 'sperávit … in → esperou no' (speráre in → esperar em). DRB 'hath relied on his word', MS1932 'está confiada na sua palavra', a devotional 'Susteve-se a minha alma na sua palavra'. The Latin has 'ejus' (his word) where the Greek has σου: the Latin is followed — the psalm turns from speaking to God to speaking of him. Portuguese 'sua' could in principle be read as the soul's own word; the next colon's 'no Senhor' points it to the Lord.",
+      "options": [
+        {
+          "label": "pela sua palavra",
+          "forms": {
+            "inverbo": "pela sua palavra"
+          },
+          "note": "Draft. D36's verb and preposition; the Latin's pair sustínuit / sperávit heard as 'esperou pela … esperou no' — one verb with two prepositions (D36's known cost), the anaphora 'a minha alma … a minha alma' kept.",
+          "from": "draft"
+        },
+        {
+          "label": "pela palavra dele",
+          "forms": {
+            "inverbo": "pela palavra dele"
+          },
+          "note": "Closes the doubt about whose word; colloquial after 'a minha alma'.",
+          "from": "draft"
+        },
+        {
+          "label": "se susteve na sua palavra",
+          "forms": {
+            "inverbo": "se susteve na sua palavra"
+          },
+          "note": "The devotional text's 'Susteve-se', nearest the Latin root and to DRB's 'relied'; breaks the echo with 4a's 'esperei por vós' and the D36 row. The verse would read 'A minha alma se susteve na sua palavra'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "copiosa",
+      "refs": [
+        "129:7"
+      ],
+      "latin": "et copiósa apud eum redémptio",
+      "kind": "order",
+      "why": "Verbless like its first colon; 'apud' repeated (apud Dóminum … apud eum), which the Portuguese repeats ('junto do Senhor … junto dele'). 'copiósa' is the Latin's word (πολλή); 'copiosa redenção' is how the line lives in Brazil (CNBB 'e copiosa redenção', both Vulgate-based devotions 'copiosa'); MS1932 'e há nele copiosa redenção'. The line is also said alone as the Christmas II Vespers antiphon (12-25) and a Pent02-5 antiphon. redémptio → redenção (the redímere row: the noun keeps the Christian word; 110:9a).",
+      "options": [
+        {
+          "label": "e junto dele há copiosa redenção",
+          "forms": {
+            "copiosa": "e junto dele há copiosa redenção"
+          },
+          "note": "Draft. A copula supplied (D2), 'há' because 'está copiosa redenção' has no article to lean on; the adjective before the noun, as the Latin and the familiar wording. 13 syllables to the Latin's 14.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e junto dele a redenção é copiosa",
+          "forms": {
+            "copiosa": "e junto dele a redenção é copiosa"
+          },
+          "note": "Takes copiósa as predicate. Ends on the adjective, not on redemption where the Latin ends; the familiar pairing broken.",
+          "from": "draft"
+        },
+        {
+          "label": "e junto dele, copiosa redenção",
+          "forms": {
+            "copiosa": "e junto dele, copiosa redenção"
+          },
+          "note": "Verbless, as the Latin. Would need the first colon verbless too ('Porque junto do Senhor, a misericórdia').",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "redimet",
+      "refs": [
+        "129:8"
+      ],
+      "latin": "Et ipse rédimet Israël",
+      "kind": "glossary",
+      "why": "redímere → resgatar (the row, applied at 25:11, 30:6, 33:23, 48:8, 48:16, 70:23, 76:15, 102:4, 106:2, 118:134, 118:154). The row names 129:8. Cost: the Latin's echo redémptio (129:7) / rédimet (129:8) is lost — 'redenção … resgatará'. Ps 48 kept its echo by making the noun 'resgate' (48:9, prétium redemptiónis, a ransom); here the noun is the familiar 'copiosa redenção' and the Christmas antiphon, and 'copioso resgate' would sound like money. MS1932 'redimirá', the devotions 'há de remir'. 'ipse' → 'ele mesmo' (row, 94:5, 99:3).",
+      "options": [
+        {
+          "label": "resgatará",
+          "forms": {
+            "redimet": "resgatará"
+          },
+          "note": "Draft, by the row: one verb for λυτρόομαι through the psalter.",
+          "from": "glossary"
+        },
+        {
+          "label": "redimirá",
+          "forms": {
+            "redimet": "redimirá"
+          },
+          "note": "MS1932. Keeps the echo with 'redenção' in the verse before; safe here (the row's objection is to the imperative 'redimi-me'), but it would split the verb from its twenty other places.",
+          "from": "MS1932"
+        },
+        {
+          "label": "remirá",
+          "forms": {
+            "redimet": "remirá"
+          },
+          "note": "The devotional 'há de remir'; the traditional verb, rare in speech.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "129:1": "No titulus: 'Canticum graduum' is in the LXX and MS1932 ('Cântico gradual') but not in DO's psalm file (D7; as Pss 119–123, 133). The inline '(2a)' marker is not reproduced. The vocative repeated across the mark ('Senhor: * Senhor'), as the Latin; bare, no 'ó'. exáudi vocem meam → 'escutai a minha voz' (D3; 26:7 'Escutai, Senhor, a minha voz'). The Office of the Dead says the verse alone as a versicle; it reads alone.",
+    "129:2b": "deprecátio → prece, and 'a voz da minha prece' as 27:2, 27:6, 65:19, 85:6 (D35). Second colon 7 syllables against the Latin's 11 — the Latin's long genitive; accepted, as at 85:6. The Septuagesima Tract reads 'in oratiónem servi tui' here; the psalm's text is followed.",
+    "129:3": "The Latin's repeated vocative kept across the mark. 'as iniquidades' with the article only (iníquitas → iniquidade, row); no 'nossas' supplied. The line is the Office of the Dead antiphon and reads alone.",
+    "129:4a": "'Quia' → 'Porque' (default; MS1932's 'Mas' is freer). propter → 'por causa de' (row). 'sustínui te' → 'esperei por vós' (D36, God as object). 'Porque junto de vós está a …' and 129:7 'Porque junto do Senhor está a …' keep the Latin's parallel (Quia apud te … Quia apud Dóminum).",
+    "129:4b": "Subject-first order (D2) in both colons, so that 'a minha alma … a minha alma' stands as the Latin's repetition does. The DO id '129:4b' covers biblical 4b–5; the '(5)' marker is not reproduced. speráre in → 'esperar em' (D36). The finals of 129:4a, 4b and 6 all end on 'Senhor' as the Latin ends on Dómine / Dómino (checks flag it as rhyme; accepted).",
+    "129:6": "custódia → vigília, as 89:5 ('a vigília na noite'; the custódia row); matutína → 'da manhã' (MS1932 'Desde a vigília da manhã até à noite'). The jussive 'speret' → 'espere' (D36 esperar em). 'Israel' without article, as the psalter's usage. The Latin (with the Greek) makes the watch the time of Israel's hoping, not the Hebrew's watchmen waiting for dawn (CNBB 'mais que o vigia pela aurora') — the Latin is followed.",
+    "129:7": "A copula supplied in the first colon (D2); misericórdia → misericórdia (row).",
+    "129:8": "'ejus' → 'suas' (Israel's): the Portuguese hears it so. +2 syllables in the first colon (ele mesmo for ipse), accepted: the emphasis is the Latin's."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm129.txt. Liturgical uses found by grep of content/do (Vespers antiphon; Office of the Dead antiphon and versicle; Christmas and Pent02-5 antiphons; the Septuagesima Tract, the Pent22 Gradual, the Pent23 Introit). Brazilian circulation fetched (CNBB Liturgia das Horas, two Vulgate-based and two Hebrew-based devotional De profundis): ps129/circulation.md. The fetch tool summarizes pages, so the wordings quoted are probable, not guaranteed."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps129.md. The Latin follows the LXX against the Hebrew in 129:4a ('propter legem tuam', νόμου, against the Hebrew 'that you may be feared'), in 129:4b ('in verbo ejus'), and in 129:6 (the watch as a span of time, not watchmen waiting for dawn); the translation follows the Latin. Hard readings: propitiátio; the three places of sustinére in two verses (row split: suportar / esperar por); observáre said of God (its Greek is espreitar's)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. Soft flags accepted: 129:2b second colon −4 (the Latin genitive deprecatiónis is long; 'a voz da minha prece' is the settled formula of 27:6, 65:19, 85:6); 129:8 first colon +3 ('ele mesmo' for ipse — the Latin's emphasis); neighbouring finals in -or at 129:4a / 4b / 6 ('Senhor' three times), the Latin's own echo (Dómine / Dómino at the same finals)."
+    }
+  ]
+}

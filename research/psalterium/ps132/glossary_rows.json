@@ -1,0 +1,23 @@
+{
+  "append": [
+    {"row": "| jucúndus |", "text": "**Ps 132:1 *quam bonum et quam jucúndum* → *como é bom e como é agradável*** — the split applied (a thing → *agradável*); also the familiar Brazilian wording of the line (Ave Maria by search summary, the Catholic song; the CNBB LH and MS1932 have *suave*, refused as suávis' word, option). No reader objected."},
+    {"row": "| in unum |", "text": "**Ps 132:1 *habitáre fratres in unum* → *que os irmãos habitem juntos*** — the row held (place and concord both open); the finite clause is the stylist's (v1 had the personal infinitive *os irmãos habitarem juntos*). *viverem em união* (MS1932), *viverem juntos* (CNBB) options."},
+    {"row": "| ecce |", "text": "**Ps 132:1 *Ecce quam bonum* → *Eis como é bom*** — *eis* before an exclamation; no reader objected. The CNBB (*Vinde e vede*) and DM1962 (*Vede*) and the familiar *Oh, como é bom* (Ave Maria, by summary) are options."},
+    {"row": "| mandáre |", "text": "**Ps 132:3b *mandávit Dóminus benedictiónem* → *o Senhor ordenou a bênção*** — the row's *ordenar* for a thing as object, against 41:9's *mandou* for the same build; the ambiguity reader heard 'commanded' first. *mandou* option. 41:9 is now the odd one out."},
+    {"row": "| quómodo / quam (exclamation) |", "text": "Ps 132:1 *quam … quam* → *como é … como é* — applied, the repetition and the *et* kept."},
+    {"row": "| Hermóniim / Hermon |", "text": "Ps 132:2b *sicut ros Hermon* → *como o orvalho do Hermon* — applied."},
+    {"row": "| illic |", "text": "Ps 132:3b *Quóniam illic* → *Porque ali* — open between Sion and the brothers' dwelling, as the Latin (the ambiguity reader heard Sion first). The stylist's *Pois* option."},
+    {"row": "| vestítus / vestiménta |", "text": "Ps 132:2b *in oram vestiménti ejus* → *sobre a orla da sua veste* — applied."},
+    {"row": "| Aaron, Móyses, Joseph |", "text": "Ps 132:2a *barbam, barbam Aaron* → *a barba, a barba de Aarão* (the doubled noun kept)."},
+    {"row": "| *usque in ætérnum / usque in sǽculum*", "text": "**Ps 132:3b *et vitam usque in sǽculum* → *e a vida para todo o sempre*** — applied; the Latinist asked *para sempre* on both readings (minor), refused for D37."}
+  ],
+  "terms": [
+    "| unguéntum | unguento (*Como o unguento na cabeça*) | open | Ps 132:2a only (μύρον; grep). The ointment of anointing, apart from *óleum → óleo*; every Brazilian text follows the Hebrew's oil (CNBB *óleo perfumado*, DM1962 *óleo de preço*), MS1932 *perfume*. Listed unknown by the ambiguity reader; *o perfume*, *o óleo perfumado* options. |",
+    "| ora (vestiménti) | orla (*sobre a orla da sua veste*) | working | Ps 132:2b (ᾤα); the word of MS1932 and every Brazilian text of the verse. Listed unknown by the ambiguity reader; *borda*, *fímbria* options. |",
+    "| descéndere | descer (*que desce sobre*) | working | Ps 132:2a–2b three times in one form, present with the Greek participles (καταβαῖνον) and MS1932; *in* + accusative → *sobre* each time. *desceu* option. |",
+    "| ros | orvalho | working | Ps 132:2b *ros Hermon*; 109:3 *ante lucíferum … rorem* and 71:6 *sicut stillicídia* will check it. |"
+  ],
+  "formulas": [
+    "| *Ecce quam bonum et quam jucúndum habitáre fratres in unum. V. Sicut unguéntum in cápite, quod descéndit in barbam, barbam Aaron* (132:1–2a; Gradual of Pent22-0, 03-10, 06-26; 08-02; Vespers antiphon Day4 / Daya4 / Monastic feria 3; Matins versicle in C3, 02-12, 09-26n — grep) | *Eis como é bom e como é agradável que os irmãos habitem juntos! V. Como o unguento na cabeça, que desce sobre a barba, a barba de Aarão* | open — Ps 132; each verse reads alone |"
+  ]
+}

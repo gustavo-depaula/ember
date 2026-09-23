@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "5ea1255ec9aa6b062b6df24bb8d711639a5ded3d4fc7ebc111ebcf38783a5130",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T08:59:43+00:00",
+  "reply": "{\"verses\": [{\"id\": \"132:1\", \"fails\": [\"native\"], \"remarks\": [{\"words\": \"os irmãos habitarem juntos!\", \"problem\": \"The personal infinitive with its subject placed before it, straight after the mediant, reads like a grammar exercise. Said aloud it stalls on 'os irmãos habitarem'. A finite clause brought in with 'que' is the natural Brazilian way to finish 'como é bom...', and it keeps the same words and the same stress on the final 'juntos'.\", \"alternative\": \"Eis como é bom e como é agradável, * que os irmãos habitem juntos!\"}]}, {\"id\": \"132:3b\", \"fails\": [\"sayable\"], \"remarks\": [{\"words\": \"Porque ali o Senhor\", \"problem\": \"'ali o' makes a hiatus right at the start of the verse. The mouth has to choose between running the two together and pausing between them, and 'Porque' is heavy for a short opening. 'Pois' is lighter, the clause runs smoothly, and it still carries 'quoniam'.\", \"alternative\": \"Pois ali o Senhor ordenou a bênção, * e a vida para todo o sempre.\"}]}], \"overall\": \"This is a short, clear psalm, and it sounds like Portuguese prayer. The repeated 'desce sobre' stays in, as it should, and gives the middle verses a gentle falling rhythm. Every cadence lands well. The two verses in a row that end on -ão (Aarão, Sião) are a rhyme the proper names force, and they do no harm. Only the infinitive clause in the first verse sounds translated.\", \"worstLine\": \"132:1\", \"bestLine\": \"132:2b\"}\n"
+}

@@ -1,0 +1,269 @@
+{
+  "psalm": 132,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "132:1": "{ecce} como é bom e como é {jucundum}, * {habitare}!",
+    "132:2a": "Como {unguentum} na cabeça, * que {descendit} sobre a barba, a barba de Aarão,",
+    "132:2b": "Que {descendit} sobre {ora} da sua veste: * como o orvalho do Hermon, que {descendit} sobre o monte Sião.",
+    "132:3b": "Porque ali o Senhor {mandavit} a bênção, * e a vida para todo o sempre."
+  },
+  "decisions": [
+    {
+      "id": "ecce",
+      "refs": [
+        "132:1"
+      ],
+      "latin": "Ecce quam bonum",
+      "kind": "glossary",
+      "why": "ecce (ἰδοὺ δή) before an exclamation of quam. The glossary's working row is ecce → eis (133:1a Eis agora, 120:4 and 127:4 Eis que). Brazilian texts divide: the CNBB Liturgia das Horas opens Vinde e vede como é bom (fetched, circulation.md), the Diurnal Vede como é bom; the Ave Maria Bible (search summary) and the familiar song have Oh, como é bom; Matos Soares 1932 Ó quão bom. This line is also sung alone as a Gradual and a Vespers antiphon, so it must stand without a verse before it. Ruled: Eis — the particle kept as the particle, one word with the other psalms; the exclamation mark and the repeated como é make the line heard as an exclamation, not as 'here is how'.",
+      "options": [
+        {
+          "label": "Eis",
+          "forms": {
+            "ecce": "Eis"
+          },
+          "note": "Draft, by the ecce row (working). Keeps the particle, adds no addressee.",
+          "from": "glossary"
+        },
+        {
+          "label": "Vede",
+          "forms": {
+            "ecce": "Vede"
+          },
+          "note": "Turns the particle into a verb, as DRB's Behold and the Diurnal (DM1962 Vêde como é bom); the CNBB's Vinde e vede adds a second verb. Supplies an audience (vós, plural men) the Latin only implies.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Oh",
+          "forms": {
+            "ecce": "Oh"
+          },
+          "note": "The familiar Brazilian opening (Ave Maria Bible by search summary; the song Como é bom e agradável; ARA). An interjection where the Latin has a presentative: ecce is not heard.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "jucundum",
+      "refs": [
+        "132:1"
+      ],
+      "latin": "quam jucúndum",
+      "kind": "glossary",
+      "why": "The jucúndus row (open) was just split by Ps 111: agradável of things, amável of persons; the row names 132:1 as a thing (quam jucúndum, neuter, of the dwelling together). τερπνόν, delightful. Brazil knows the line with agradável (Ave Maria by search summary, the Catholic song, ARA/NVI — fetched) and with suave (CNBB LH, MS1932, ARC).",
+      "options": [
+        {
+          "label": "agradável",
+          "forms": {
+            "jucundum": "agradável"
+          },
+          "note": "Draft, by the row: of a thing. Also the most familiar Brazilian wording of this very line.",
+          "from": "glossary"
+        },
+        {
+          "label": "suave",
+          "forms": {
+            "jucundum": "suave"
+          },
+          "note": "Matos Soares 1932 and the CNBB LH. Refused: suave is suávis' word in the glossary (80:3 was refused the same way).",
+          "from": "MS1932"
+        },
+        {
+          "label": "delicioso",
+          "forms": {
+            "jucundum": "delicioso"
+          },
+          "note": "DM1962 (Vêde como é bom e delicioso). Stronger than the Latin, and deleitoso/delícia belong to delectáre/delíciæ.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "habitare",
+      "refs": [
+        "132:1"
+      ],
+      "latin": "habitáre fratres in unum",
+      "kind": "glossary",
+      "why": "habitáre → habitar (the commorári row keeps morar apart for it); in unum → juntos (open row, six places, held in 2:2, 47:5, 101:23). ἐπὶ τὸ αὐτό is 'together, in the same place': juntos keeps both the place and the concord open, as the Latin does; em união (MS1932) and unidos (the song, ARA) say only the concord. The personal infinitive with its subject before it is the natural Brazilian build.",
+      "options": [
+        {
+          "label": "os irmãos habitarem juntos",
+          "forms": {
+            "habitare": "os irmãos habitarem juntos"
+          },
+          "note": "Draft: habitar and juntos by the glossary. Nine syllables for the Latin's nine.",
+          "from": "glossary"
+        },
+        {
+          "label": "os irmãos viverem juntos",
+          "forms": {
+            "habitare": "os irmãos viverem juntos"
+          },
+          "note": "viver is how every Brazilian text says it (MS1932 viverem, CNBB viverem juntos, Ave Maria by summary). But viver is vívere's; habitar is the Latin's verb and is what the psalm's dwelling-image needs.",
+          "from": "MS1932"
+        },
+        {
+          "label": "os irmãos viverem em união",
+          "forms": {
+            "habitare": "os irmãos viverem em união"
+          },
+          "note": "Matos Soares 1932 word for word; DRB 'in unity'. Reads in unum as concord only.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "unguentum",
+      "refs": [
+        "132:2a"
+      ],
+      "latin": "Sicut unguéntum in cápite",
+      "kind": "word",
+      "why": "unguéntum (μύρον) is a perfumed ointment — only here in the psalter (grep). The Hebrew has 'the good oil', which is what the CNBB (óleo perfumado), the Ave Maria (óleo suave, by summary) and the Diurnal (óleo de preço) translate. The Latin names the ointment of anointing, not oil as such (óleum → óleo stays for 44:8, 88:21, 108:24).",
+      "options": [
+        {
+          "label": "o unguento",
+          "forms": {
+            "unguentum": "o unguento"
+          },
+          "note": "Draft: the Latin's word, current in Portuguese Bibles for μύρον (known, if a little churchly). Keeps the anointing.",
+          "from": "draft"
+        },
+        {
+          "label": "o perfume",
+          "forms": {
+            "unguentum": "o perfume"
+          },
+          "note": "Matos Soares 1932 (É como o perfume derramado na cabeça). Plainer, but loses the ointment: a perfume is not poured on a head to anoint it.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o óleo perfumado",
+          "forms": {
+            "unguentum": "o óleo perfumado"
+          },
+          "note": "CNBB LH (Hebrew-based). Keeps the anointing and the scent; óleo is óleum's word, and it adds a syllable pair.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "descendit",
+      "refs": [
+        "132:2a",
+        "132:2b"
+      ],
+      "latin": "quod descéndit … quod descéndit … qui descéndit",
+      "kind": "grammar",
+      "why": "The Latin says descéndit three times, in one form that is both present and perfect. The Greek has present participles all three times (τὸ καταβαῖνον, ἡ καταβαίνουσα); DRB reads past for the ointment (ran down) and present for the dew (descendeth); MS1932 present all three times. The repetition is the psalm's own movement downward, and it stays three times in one form.",
+      "options": [
+        {
+          "label": "desce (three times)",
+          "forms": {
+            "descendit": "desce"
+          },
+          "note": "Draft: present, with the Greek and MS1932; one form for all three, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "desceu (three times)",
+          "forms": {
+            "descendit": "desceu"
+          },
+          "note": "The perfect reading of the form (DRB for the ointment). Makes the dew's descent a past event too, which no witness does.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ora",
+      "refs": [
+        "132:2b"
+      ],
+      "latin": "in oram vestiménti ejus",
+      "kind": "word",
+      "why": "ora is the edge, border of a garment (L&S cites vestimentorum, Vulg. Exod. 26:10); the Greek ᾤα is the hem or border. vestiméntum → veste by the row (44:9, 101:27). Every Brazilian text has orla (MS1932, CNBB, Ave Maria by summary).",
+      "options": [
+        {
+          "label": "a orla",
+          "forms": {
+            "ora": "a orla"
+          },
+          "note": "Draft, with MS1932 and the Brazilian texts.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a borda",
+          "forms": {
+            "ora": "a borda"
+          },
+          "note": "Plainer, the everyday word for an edge; less used of cloth.",
+          "from": "draft"
+        },
+        {
+          "label": "a fímbria",
+          "forms": {
+            "ora": "a fímbria"
+          },
+          "note": "The Latin's own synonym (fimbria), the Gospel word for the hem Christ's garment; a proparoxytone before the cadence and less known.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mandavit",
+      "refs": [
+        "132:3b"
+      ],
+      "latin": "illic mandávit Dóminus benedictiónem",
+      "kind": "glossary",
+      "why": "The mandáre row (open) now reads: mandar only with que or beside mandáta; with a thing as object, ordenar (32:9, 43:5, 110:9a, 104:8). But 41:9 mandávit Dóminus misericórdiam suam — the same build, the Lord commanding a gift — reads o Senhor mandou. ἐνετείλατο, commanded (DRB hath commanded). MS1932 derramou and the CNBB/Diurnal dá are both freer.",
+      "options": [
+        {
+          "label": "ordenou",
+          "forms": {
+            "mandavit": "ordenou"
+          },
+          "note": "Draft, by the row's ruling for a thing as object; 'commanded the blessing' without the 'sent' that mandou carries in Brazil.",
+          "from": "glossary"
+        },
+        {
+          "label": "mandou",
+          "forms": {
+            "mandavit": "mandou"
+          },
+          "note": "41:9's word for the same build; of one family with mandamentos. Heard in Brazil first as 'sent' — a sense the Latin does not have here.",
+          "from": "draft"
+        },
+        {
+          "label": "derramou",
+          "forms": {
+            "mandavit": "derramou"
+          },
+          "note": "Matos Soares 1932: an image the Latin does not have (and the Ave Maria's derrama, by summary). Refused under D2.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "132:1": "No titulus (D7), as Pss 119–127 and 133. quam … quam → como é … como é (the exclamation row; quão is the option there): the repetition is the Latin's, and the et is kept (e como é), where the familiar Brazilian line drops it. Exclamation mark supplied; the Latin's colon at the end of the verse leads into 132:2a. The line is sung alone as a Gradual and antiphon and stands alone. checks.py: first colon +3 by the counter (como‿é twice elides: +1 said).",
+    "132:2a": "Sicut → Como, verbless as the Latin (the comparison hangs on 132:1); the Gradual verse sings it alone as a fragment in the Latin too. MS1932 and the CNBB supply É como (the verbless-comparison row: decide per psalm) — not supplied here, because the verse continues the sentence of 132:1. in cápite → na cabeça. barbam, barbam Aaron → a barba, a barba de Aarão: the Latin's (and Greek's) doubled noun kept (MS1932 drops it). Aaron → Aarão (row).",
+    "132:2b": "The relative que (Latin quod, neuter) is the ointment's, not the beard's; the anaphora que desce … que desce shows it, though Portuguese cannot mark the gender — to be tested on the ambiguity reader. ejus → sua (Aaron's). ros Hermon → o orvalho do Hermon (the Hermon row, D42). in montem Sion → sobre o monte Sião: the Latin's singular kept against the Greek and Hebrew plural (τὰ ὄρη, the CNBB's os montes); sobre three times for the Latin's three in + accusative. (3a) marker not reproduced. checks.py: second colon +5 by the counter, which does not elide (co-mo‿o, so-bre‿o: about +3 said); accepted — que desce ao monte Sião would save two syllables at the cost of the threefold sobre. The finals Aarão / Sião rhyme (flag): the Latin has the same echo, Aaron / Sion, both names kept at the ends where the Latin has them; accepted.",
+    "132:3b": "Quóniam → Porque. illic → ali (row). benedictiónem → a bênção, with the article the Greek has (τὴν εὐλογίαν); no sua added (MS1932, the Diurnal add it). vitam → e a vida, the article matching a bênção; e vida (MS1932) is the bare Latin. usque in sǽculum → para todo o sempre (D37; the row lists 132:3b). Natural order (o Senhor before the verb). checks.py: first colon −4, accepted: nothing is dropped; benedictiónem is six syllables, bênção two."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (Latin, LXX, Hebrew, DRB, MS1932, DM1962; pt-PT looked at only as the text to be replaced). Liturgical use by grep and Brazilian circulation fetched: circulation.md. Hard readings: ecce before an exclamation (eis against the Brazilian Vede / Oh), jucúndus (agradável by the newly split row — and the familiar Brazilian word), unguéntum (the Latin's ointment against the Hebrew's oil every Brazilian text follows), mandávit with a thing as object (the row's ordenar against 41:9's mandou)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 132:1a +3 and 132:2b second colon +5 by the non-eliding counter (≈+1 and +3 said), 132:2a second colon +3, 132:3b first colon −4 — all accepted (choices). Rhyme Aarão / Sião accepted: the Latin's own Aaron / Sion echo."
+    }
+  ]
+}

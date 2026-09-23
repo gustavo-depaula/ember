@@ -1,0 +1,18 @@
+{
+  "append": [
+    {"row": "| exaltáre |", "text": "**Ps 130:1a *non est exaltátum cor meum* → *o meu coração não se exaltou*; 130:2a *exaltávi ánimam meam* → *exaltei a minha alma*** — the passive as the reflexive (middle sense, ὑψώθη), keeping the psalm's echo; the ambiguity reader heard the colloquial 'got worked up' as available but pride first (Lc 14:11 *quem se exalta*; RB ch. 7 quotes the verse beside *qui se exáltat*). *não foi exaltado*, *não se elevou*, MS1932 *não se ensoberbeceu* options."},
+    {"row": "| ambuláre |", "text": "Ps 130:1b *Neque ambulávi in magnis: neque in mirabílibus super me* → *Nem andei em grandezas: nem em maravilhas acima de mim* (*grandezas* as D39's *falar grandezas*; *entre* and *coisas grandes* options)."},
+    {"row": "| ex hoc nunc |", "text": "Ps 130:3 → *desde agora e para todo o sempre* (= 112:2b, 113:26, 120:8, 124:2b); the Latinist asked *para sempre* twice (minor), refused under D37."},
+    {"row": "| retribútio |", "text": "**Ps 130:2b *ita retribútio in ánima mea* → *assim, na minha alma, a retribuição*** — verbless, as the Latin (the Greek read *gemul* 'recompense' where the Hebrew has the weaned child); neutral as the row says. The ambiguity reader heard payback or reward and found the mood open (curse or statement) — the Latin's own; MS1932's *assim seja* (RB ch. 7 *ita retríbues*) is the option."},
+    {"row": "| húmilis |", "text": "Ps 130:2a the adverb *humíliter sentíre* (ταπεινοφρονεῖν) → *sentir com humildade* (the stylist's; *pensar com humildade* draft 1)."},
+    {"row": "| speráre in |", "text": "Ps 130:3 *Speret Israël in Dómino* → *Espere Israel no Senhor* (= 129:6)."},
+    {"row": "| *si* of oath", "text": "**Ps 130:2a is not this build:** *Si non humíliter sentiébam … sicut … ita retribútio* has its apodosis (a requital), so *Se* stays — a real conditional, as the Greek and RB ch. 7 read it."}
+  ],
+  "terms": [
+    "| efférre (*eláti sunt óculi*) | elevar-se (*nem os meus olhos se elevaram*) | open | Ps 130:1a only (grep; ἐμετεωρίσθησαν). Apart from *exaltáre* in the same verse; shares *elevar-se* with eleváre (8:2b, 23:7), which never meets it and has another Greek (ἐπαίρω). *se ergueram*, DRB's *foram altivos*, MS1932's *se mostraram altivos* options. No reader remarked. |",
+    "| ablactátus (substantive) | a criança desmamada | open | Ps 130:2b (τὸ ἀπογεγαλακτισμένον); *criança* generic as the Latin masculine and the Greek neuter; Almeida's word. The ambiguity reader listed *desmamada* unknown — kept, the everyday verb. MS1932 *o menino* option. *est* read as copula (*está sobre a sua mãe*); the perfect-passive parse refused. |"
+  ],
+  "formulas": [
+    "| *Dómine, * non est exaltátum cor meum* (130:1a; Wednesday Vespers antiphon, Psalmi major Day3 Vespera) · *Speret * Israël in Dómino* (130:3; antiphon of another scheme, Psalmi major l. 246, 416) | *Senhor, o meu coração não se exaltou* · *Espere Israel no Senhor* | open — Ps 130 |"
+  ]
+}
