@@ -1,0 +1,71 @@
+{
+  "append": [
+    {
+      "row": "| avértere (+ dative) |",
+      "text": "**Ps 84:2, 84:4, 84:5 — *afastar* all three times** (*afastastes o cativeiro de Jacó*; *afastastes-vos da ira da vossa indignação*, reflexive because the Latin has no object; *e afastai de nós a vossa ira*, the Compline response): one verb for the psalm's one verb, three times in four verses (rule 6), where this row would give *desviar* for anger (77:38b). MS1932 *afasta de nós a tua ira*. Cost: *avértere iram* is *afastar* here, *desviar* at 77:38b. The split is option 1 of Ps 84's `avertere`. Both Latinist gates passed it."
+    },
+    {
+      "row": "| captívitas |",
+      "text": "Ps 84:2 *avertísti captivitátem Jacob* → *afastastes o cativeiro de Jacó*, as named; no reader remarked (the ambiguity reader: the people's captivity)."
+    },
+    {
+      "row": "| salutáris (of God, in apposition) · salvátor |",
+      "text": "**Ps 84:5 *Convérte nos, Deus, salutáris noster* → *Convertei-nos, Deus, nosso Salvador*** — the third place the row named; the Greek here is τῶν σωτηρίων ἡμῶν, but the Latin's title is followed. Passed the Latinist twice."
+    },
+    {
+      "row": "| convértere |",
+      "text": "**Ps 84:5 *Convérte nos* → *Convertei-nos*** — follows Ps 79's refrain (D25's exception, at the Ps 79 agent's request); the ambiguity reader heard religious conversion first. 84:7 *convérsus* of God → *voltando-vos* (70:20), so the root is two verbs, as in Ps 79. **Ps 84:9b *qui convertúntur ad cor* → *que se convertem ao coração*** (D25: men turning; *ad cor* kept, not MS1932's *de coração*; the ambiguity reader heard 'sincerely' first and 'back to their own heart' second — the Latin's openness)."
+    },
+    {
+      "row": "| vivificáre, *vivífica me* |",
+      "text": "**Ps 84:7 *Deus, tu convérsus vivificábis nos* → *Deus, voltando-vos, vós nos vivificareis*** (= 79:19). The stylist named it the worst line of the psalm and asked *nos dareis a vida* (option, drops *tu*); the ambiguity reader listed *vivificareis* as unknown — the fifth psalm where a blind reader has not known this verb. **Worth a ruling.**"
+    },
+    {
+      "row": "| dimíttere (sins) |",
+      "text": "Ps 84:3 *Remisísti iniquitátem* → *Perdoastes a iniquidade*, as named."
+    },
+    {
+      "row": "| tégere |",
+      "text": "Ps 84:3 *operuísti ómnia peccáta eórum* → *cobristes todos os seus pecados*, as named. The ambiguity reader noted *cobristes* is near *cobrastes*; kept."
+    },
+    {
+      "row": "| verúmtamen |",
+      "text": "**Ps 84:10 *Verúmtamen prope timéntes eum salutáre ipsíus* → *Todavia, perto dos que o temem está a sua salvação*** — the row, though here there is no contrast (πλήν asseverative; DRB 'Surely', MS1932 *Sim*); the ambiguity reader heard a contrast 'that is not obvious'. *Na verdade* the option. Passed the Latinist twice."
+    },
+    {
+      "row": "| oríri |",
+      "text": "**Ps 84:12 *Véritas de terra orta est* → *A verdade nasceu da terra*** — the row (the Christmas antiphon, Sancti/12-25); *brotou* (MS1932, DM1962) the option. No reader remarked."
+    },
+    {
+      "row": "| prospícere |",
+      "text": "Ps 84:12 *justítia de cælo prospéxit* → *e a justiça olhou do céu*, as named; the ambiguity reader heard 'looked down from heaven'."
+    },
+    {
+      "row": "| benígnitas |",
+      "text": "**Ps 84:13 *Dóminus dabit benignitátem* → *o Senhor dará benignidade*** — no article (the stylist: the article made it a particular benignity); unknown to the ambiguity reader, the third time. *bondade* the option."
+    },
+    {
+      "row": "| benedícere (God → man) |",
+      "text": "**Ps 84:2 *Benedixísti, Dómine, terram tuam* → *Bendissestes, Senhor, a vossa terra*** (God blessing a land, as 64:12); the Advent III Introit. *Abençoastes* (MS1932) the option. No reader remarked."
+    },
+    {
+      "row": "| irásci |",
+      "text": "Ps 84:6 *Numquid in ætérnum irascéris nobis?* → *Acaso estareis irado conosco para sempre?* — the copula future of 79:5 (*vos irareis* a knot of r's); *vos irareis* the option."
+    },
+    {
+      "row": "| mendácium, *loqui mendácium* |",
+      "text": "**Ps 84:9 *loquétur pacem in plebem suam* → *falará paz ao seu povo*** — the same accusative of content; the ambiguity reader heard 'announce peace' first. *falará de paz*, *anunciará a paz* (MS1932) options."
+    },
+    {
+      "row": "| *Deus, convérte nos: et osténde fáciem tuam",
+      "text": "**Ps 84:5 follows it: *Convertei-nos, Deus, nosso Salvador*** (decision `conv`, *Fazei-nos voltar* the option); the Compline versicle so reads with its response *E afastai de nós a vossa ira*. Passed the Latinist twice; the ambiguity reader heard conversion first."
+    }
+  ],
+  "terms": [
+    "| mitigáre | abrandar (*Abrandastes toda a vossa ira*) | open | Ps 84:4 only (grep the psalter before use); L&S 'to make mild, soften … iras'; κατέπαυσας. The verb's own image (*mitis → brando*), plainer than the cognate *mitigar* (MS1932, DRB), which is the option. No reader remarked. |",
+    "| obviáre (*obviavérunt sibi*) · osculári | encontrar-se · beijar (*A misericórdia e a verdade se encontraram: * a justiça e a paz se beijaram*) | open | Ps 84:11 (L&S cites the verse for *obvio*). *se oscularam* (MS1932, DM1962) bookish; the stylist named the verse the psalm's best. The *-aram / -aram* rhyme is the Latin's two perfects at the two cadences. |"
+  ],
+  "formulas": [
+    "| *Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob* (84:2; Introit of Advent III, Adv3-0, and Adv3-5 — grep) · *V. Convérte nos, Deus, salutáris noster. R. Et avérte iram tuam a nobis* (84:5; Compline, Common/Prayers.txt) · *V. Osténde nobis, Dómine, misericórdiam tuam. R. Et salutáre tuum da nobis* (84:8; the Preces and Advent — Minor Special, Psalmi major, Adv3-5, 02-02 — grep) · *Véritas de terra * orta est, et justítia de cælo prospéxit* (84:12; Christmas antiphon, Sancti/12-25) · *V. Dóminus dabit benignitátem. R. Et terra nostra dabit fructum suum* (84:13 without *Étenim*; Advent) | *Bendissestes, Senhor, a vossa terra: * afastastes o cativeiro de Jacó* · *V. Convertei-nos, Deus, nosso Salvador. R. E afastai de nós a vossa ira.* · *V. Mostrai-nos, Senhor, a vossa misericórdia. R. E dai-nos a vossa salvação.* · *A verdade nasceu da terra, * e a justiça olhou do céu* · *V. O Senhor dará benignidade. R. E a nossa terra dará o seu fruto.* | open — Ps 84; each colon reads alone; *salutáre tuum* = the Nunc dimittis (D6); *convertei-nos* = Ps 79's refrain; the Latinist passed all twice |"
+  ]
+}

@@ -1,0 +1,1413 @@
+{
+  "psalm": 77,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "77:1": "Atendei, povo meu, à minha lei: * inclinai o vosso ouvido às palavras da minha boca.",
+    "77:2": "Abrirei em parábolas a minha boca: * falarei {propositiones} desde o princípio.",
+    "77:3": "{quanta3} ouvimos e conhecemos, * e os nossos pais nos narraram.",
+    "77:4": "Não foram escondidas {occultata}, * em outra geração.",
+    "77:4b": "Narrando os louvores do Senhor, e os seus poderes, * e as suas maravilhas, que ele fez.",
+    "77:5": "E suscitou um testemunho em Jacó, * e pôs uma lei em Israel.",
+    "77:5b": "{quanta5} mandou aos nossos pais que fizessem conhecer aos seus filhos: * para que a outra geração as conheça.",
+    "77:6": "Os filhos {nascentur}, e se levantarão, * e narrarão aos seus filhos.",
+    "77:7": "Para que ponham em Deus a sua esperança, e não se esqueçam das obras de Deus, * e procurem os seus mandamentos.",
+    "77:8": "Para que não sejam como os pais deles: * geração perversa {exasperans}.",
+    "77:8b": "Geração que não {direxit} o seu coração, * e o seu espírito não foi fiel para com Deus.",
+    "77:9": "Os filhos de Efraim, que armavam e disparavam o arco, * voltaram-se no dia da guerra.",
+    "77:10": "Não guardaram a aliança de Deus, * e não quiseram andar na sua lei.",
+    "77:11": "E esqueceram-se dos seus benefícios, * e das suas maravilhas que lhes mostrou.",
+    "77:12": "Diante dos pais deles fez maravilhas na terra do Egito, * no campo de Tânis.",
+    "77:13": "{interrupit13} o mar, e os conduziu, * e {statuit} as águas como num odre.",
+    "77:14": "E os guiou de dia com uma nuvem, * e a noite toda com a luz do fogo.",
+    "77:15": "{interrupit15} a rocha no deserto, * e deu-lhes de beber como num grande abismo.",
+    "77:16": "E tirou água da rocha, * e fez descer as águas como rios.",
+    "77:17": "E {apposuerunt} pecar contra ele: * {excitaverunt} no lugar sem água.",
+    "77:18": "E tentaram a Deus nos seus corações, * para pedirem comida para as suas almas.",
+    "77:19": "E falaram mal de Deus, * disseram: Acaso poderá Deus preparar uma mesa no deserto?",
+    "77:20": "{quoniam20} a rocha, e correram as águas, * e as torrentes {inundaverunt}.",
+    "77:20b": "Acaso poderá também dar pão, * ou preparar uma mesa para o seu povo?",
+    "77:21": "Por isso o Senhor ouviu, {distulit}: * e um fogo se acendeu em Jacó, e a ira subiu {ira21}.",
+    "77:22": "Porque não creram em Deus, * nem esperaram na sua salvação.",
+    "77:23": "E deu ordem às nuvens do alto, * e abriu as portas do céu.",
+    "77:24": "E fez chover para eles o maná, para comerem, * e deu-lhes o pão do céu.",
+    "77:25": "O homem comeu o pão dos anjos: * enviou-lhes provisões em abundância.",
+    "77:26": "{transtulit} do céu {austrum}, * e fez entrar com o seu poder {africum}.",
+    "77:27": "E fez chover sobre eles carne como pó, * e {volatilia} como a areia do mar.",
+    "77:28": "E caíram no meio do acampamento deles, * ao redor das tendas deles.",
+    "77:29": "E comeram, e foram muito saciados, e trouxe-lhes o seu desejo: * não foram privados do seu desejo.",
+    "77:30": "Ainda estava a comida deles na sua boca, * e a ira de Deus subiu sobre eles.",
+    "77:31": "E matou {pinguis} dentre eles, * e {impedivit} os escolhidos de Israel.",
+    "77:32": "Em tudo isto pecaram ainda, * e não creram nas suas maravilhas.",
+    "77:33": "E os seus dias {defecerunt} na vaidade, * e os seus anos, com pressa.",
+    "77:34": "Quando os matava, buscavam-no, * e voltavam, e ao amanhecer vinham a ele.",
+    "77:35": "E lembraram-se de que Deus é o seu auxílio, * e o Deus excelso é o seu redentor.",
+    "77:36": "E o amaram com a sua boca, * e com a sua língua lhe mentiram.",
+    "77:37": "Mas o coração deles não era reto com ele, * nem foram tidos por fiéis na sua aliança.",
+    "77:38": "Ele, porém, é misericordioso, e {propitius}: * e não os exterminará.",
+    "77:38b": "{abundavit} a sua ira, * e não acendeu toda a sua ira.",
+    "77:39": "E lembrou-se de que são carne: * {spiritus} que vai e não volta.",
+    "77:40": "Quantas vezes o provocaram no deserto, * o incitaram à ira no lugar sem água?",
+    "77:41": "E voltaram, e tentaram a Deus, * e provocaram o Santo de Israel.",
+    "77:42": "Não se lembraram da sua mão, * no dia em que os resgatou da mão do que atribula.",
+    "77:43": "Como pôs no Egito os seus sinais, * e os seus prodígios no campo de Tânis.",
+    "77:44": "E converteu em sangue os rios deles, * e as suas chuvas, para que não bebessem.",
+    "77:45": "Enviou contra eles {coenomyia}, {comedit}, * e a rã, {disperdidit}.",
+    "77:46": "E deu {aerugo} os frutos deles, * e {labores46} ao gafanhoto.",
+    "77:47": "E matou com o granizo as vinhas deles, * e {moros} com a geada.",
+    "77:48": "E entregou ao granizo os animais deles, * e a sua posse ao fogo.",
+    "77:49": "Enviou contra eles a ira da sua indignação: * indignação, e ira, e tribulação: {immissiones}.",
+    "77:50": "{viam} à vereda da sua ira, não poupou da morte as almas deles, * e encerrou na morte os seus animais.",
+    "77:51": "E feriu todo primogênito na terra do Egito: * as primícias de {labores51} nas tendas de Cam.",
+    "77:52": "E tirou o seu povo como ovelhas, * e conduziu-os como um rebanho no deserto.",
+    "77:53": "E guiou-os na esperança, e não temeram, * e o mar cobriu os inimigos deles.",
+    "77:54": "E fê-los entrar no monte da sua santificação, * o monte que a sua direita adquiriu.",
+    "77:54b": "E expulsou de diante deles as nações, * e repartiu-lhes a terra por sorte, com a corda da distribuição.",
+    "77:55": "E fez habitar nas tendas deles * as tribos de Israel.",
+    "77:56": "E tentaram, e provocaram o Deus excelso, * e não guardaram os seus testemunhos.",
+    "77:57": "E desviaram-se, e não observaram o pacto: * assim como os pais deles, converteram-se num arco torto.",
+    "77:58": "Incitaram-no à ira nas suas colinas, * e com as suas {sculptilia} {aemulatio}.",
+    "77:59": "Deus ouviu, e desprezou, * e {valde}.",
+    "77:60": "E repeliu a tenda de Silo, * a sua tenda, onde habitou entre os homens.",
+    "77:61": "E entregou ao cativeiro o poder deles, * e a sua beleza nas mãos do inimigo.",
+    "77:62": "E encerrou o seu povo {gladio}, * e desprezou a sua herança.",
+    "77:63": "O fogo devorou os seus jovens, * e as suas virgens não foram pranteadas.",
+    "77:64": "Os seus sacerdotes caíram pela espada, * e as suas viúvas não eram choradas.",
+    "77:65": "E o Senhor despertou como quem dorme, * como {potens} {crapulatus}.",
+    "77:66": "E feriu {posteriora} os seus inimigos: * deu-lhes uma afronta eterna.",
+    "77:67": "E repeliu a tenda de José, * e não escolheu a tribo de Efraim.",
+    "77:68": "Mas escolheu a tribo de Judá, * o monte Sião, que amou.",
+    "77:69": "E edificou o seu santuário, como de unicórnios, na terra * que fundou para sempre.",
+    "77:70": "E escolheu Davi, seu servo, e {sustulit} dos rebanhos de ovelhas: * de trás {foetantes} {accepit},",
+    "77:71": "Para apascentar Jacó, seu servo, * e Israel, sua herança.",
+    "77:72": "E apascentou-os na inocência do seu coração, * e {intellectibus} os guiou."
+  },
+  "decisions": [
+    {
+      "id": "propositiones",
+      "refs": [
+        "77:2"
+      ],
+      "latin": "loquar propositiónes ab inítio",
+      "kind": "glossary",
+      "why": "D43 settled propósitio as the root made a clause (48:5 *o que proponho*), and its row named this verse as the test: a plural, after *loqui*, and followed by *ab inítio*. *o que proponho desde o princípio* would tie *desde o princípio* to my proposing (heard 'from the start of my speech'); the Latin's things are old (προβλήματα ἀπ᾿ ἀρχῆς). So the clause keeps D43's root but turns passive, so that the old things were put forward from the beginning. The noun *proposições* (DRB 'propositions') was bookish to the Ps 48 stylist and unknown to its blind reader.",
+      "options": [
+        {
+          "label": "o que foi proposto",
+          "forms": {
+            "propositiones": "o que foi proposto"
+          },
+          "note": "Draft: D43's clause, passive so that *desde o princípio* belongs to the old things.",
+          "from": "draft"
+        },
+        {
+          "label": "o que proponho",
+          "forms": {
+            "propositiones": "o que proponho"
+          },
+          "note": "D43's wording at 48:5, copied as it stands.",
+          "from": "glossary"
+        },
+        {
+          "label": "proposições",
+          "forms": {
+            "propositiones": "proposições"
+          },
+          "note": "The noun and the Latin plural (DRB 'propositions'); bookish.",
+          "from": "DRB"
+        },
+        {
+          "label": "enigmas",
+          "forms": {
+            "propositiones": "enigmas"
+          },
+          "note": "The Greek's sense (πρόβλημα, a riddle); not the Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "quanta",
+      "refs": [
+        "77:3",
+        "77:5b"
+      ],
+      "latin": "Quanta audívimus … Quanta mandávit",
+      "kind": "word",
+      "why": "*Quanta* opens two verses: 'how great / how many things' or 'all the things that' (ὅσα). *Quantas coisas* keeps the Latin's word and both hearings (an exclamation, DRB 'How great things', and the relative), and gives 77:4 *escondidas* a feminine noun to agree with. *Tudo quanto* is only the relative.",
+      "options": [
+        {
+          "label": "Quantas coisas … Quantas coisas",
+          "forms": {
+            "quanta3": "Quantas coisas",
+            "quanta5": "Quantas coisas"
+          },
+          "note": "Draft: the Latin's word, both senses; the same form twice as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Tudo quanto … Tudo quanto",
+          "forms": {
+            "quanta3": "Tudo quanto",
+            "quanta5": "Tudo quanto"
+          },
+          "note": "The relative only (MS1932 *o que*); 77:4 *escondidas* then lacks a noun.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "occultata",
+      "refs": [
+        "77:4"
+      ],
+      "latin": "Non sunt occultáta a fíliis eórum",
+      "kind": "grammar",
+      "why": "*a fíliis* is 'from their children' (ἀπὸ τῶν τέκνων; DRB 'hidden from their children'); MS1932 turns it active ('they did not hide them from'), which the Latin is not. *dos filhos* is the everyday build of *esconder de*; *aos filhos* is the older one.",
+      "options": [
+        {
+          "label": "dos filhos deles",
+          "forms": {
+            "occultata": "dos filhos deles"
+          },
+          "note": "Draft (DRB).",
+          "from": "draft"
+        },
+        {
+          "label": "aos filhos deles",
+          "forms": {
+            "occultata": "aos filhos deles"
+          },
+          "note": "*esconder a alguém*; the same sense, older.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nascentur",
+      "refs": [
+        "77:6"
+      ],
+      "latin": "Fílii qui nascéntur",
+      "kind": "word",
+      "why": "The plain future *nascerão* sits next to two more futures (*se levantarão … narrarão*) and blurs which verbs belong to the relative; *que hão de nascer* (MS1932) marks the relative off.",
+      "options": [
+        {
+          "label": "que hão de nascer",
+          "forms": {
+            "nascentur": "que hão de nascer"
+          },
+          "note": "Draft (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "que nascerão",
+          "forms": {
+            "nascentur": "que nascerão"
+          },
+          "note": "The Latin's plain future.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exasperans",
+      "refs": [
+        "77:8"
+      ],
+      "latin": "generátio prava et exásperans",
+      "kind": "glossary",
+      "why": "The exasperáre row (open) keeps παραπικραίνω's own verb, absolute at 67:7b *os que exasperam*. The adjective *exasperante* is 'infuriating, annoying' in Brazil, so the participle is made a clause with the row's verb and no object (the Latin has none). MS1932's *rebelde* is the Hebrew's sense.",
+      "options": [
+        {
+          "label": "e que exaspera",
+          "forms": {
+            "exasperans": "e que exaspera"
+          },
+          "note": "Draft: the row's verb, absolute as 67:7b.",
+          "from": "glossary"
+        },
+        {
+          "label": "e exasperante",
+          "forms": {
+            "exasperans": "e exasperante"
+          },
+          "note": "The Latin's participle as adjective; heard as 'annoying'.",
+          "from": "draft"
+        },
+        {
+          "label": "e rebelde",
+          "forms": {
+            "exasperans": "e rebelde"
+          },
+          "note": "MS1932; the Hebrew's sense, not the Latin's word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "direxit",
+      "refs": [
+        "77:8b"
+      ],
+      "latin": "quæ non diréxit cor suum",
+      "kind": "word",
+      "why": "The dirígere row gives *dirigir* outside the imperative, but *dirigir o coração* is heard as 'turn it towards something'; the Latin (κατεύθυνεν) is 'set straight', the verb's first sense, as the row's *endireitar* for the imperative. The past *endireitou* has no homograph.",
+      "options": [
+        {
+          "label": "endireitou",
+          "forms": {
+            "direxit": "endireitou"
+          },
+          "note": "Draft: the verb's first sense (L&S 'lay straight'), the Greek's.",
+          "from": "draft"
+        },
+        {
+          "label": "dirigiu",
+          "forms": {
+            "direxit": "dirigiu"
+          },
+          "note": "The glossary's working verb outside the imperative.",
+          "from": "glossary"
+        },
+        {
+          "label": "encaminhou reto",
+          "forms": {
+            "direxit": "encaminhou reto"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "interrupit",
+      "refs": [
+        "77:13",
+        "77:15"
+      ],
+      "latin": "Interrúpit mare … Interrúpit petram",
+      "kind": "word",
+      "why": "One verb twice (διέρρηξεν both times), for the sea and the rock: one Portuguese verb that fits both. *Fender* splits sea and stone alike; *romper* fits the rock better than the sea; MS1932 varies (*Dividiu … Fendeu*).",
+      "options": [
+        {
+          "label": "Fendeu … Fendeu",
+          "forms": {
+            "interrupit13": "Fendeu",
+            "interrupit15": "Fendeu"
+          },
+          "note": "Draft: one verb for both, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Rompeu … Rompeu",
+          "forms": {
+            "interrupit13": "Rompeu",
+            "interrupit15": "Rompeu"
+          },
+          "note": "The Latin's root (*rúmpere*).",
+          "from": "draft"
+        },
+        {
+          "label": "Dividiu … Fendeu",
+          "forms": {
+            "interrupit13": "Dividiu",
+            "interrupit15": "Fendeu"
+          },
+          "note": "MS1932; two verbs for one.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "statuit",
+      "refs": [
+        "77:13"
+      ],
+      "latin": "et státuit aquas quasi in utre",
+      "kind": "glossary",
+      "why": "statúere → firmar (open row): the waters made to stand firm as in a wineskin (ἔστησεν). *deteve* (MS1932 *conteve*) says the stopping but loses the standing.",
+      "options": [
+        {
+          "label": "firmou",
+          "forms": {
+            "statuit": "firmou"
+          },
+          "note": "The glossary's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "deteve",
+          "forms": {
+            "statuit": "deteve"
+          },
+          "note": "MS1932 *conteve*; the sense, not the image.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fez parar",
+          "forms": {
+            "statuit": "fez parar"
+          },
+          "note": "DRB-like sense; +1 syllable.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "apposuerunt",
+      "refs": [
+        "77:17"
+      ],
+      "latin": "Et apposuérunt adhuc peccáre ei",
+      "kind": "glossary",
+      "why": "The appónere ut row (76:8 *voltará a*) asked that this verse look at it: the same Hebraism 'do again' (προσέθεντο τοῦ ἁμαρτάνειν). *voltar* is already convértere's three times in this psalm (77:9, 34, 41), so *tornar a*, the row's draft-1 form, is used here.",
+      "options": [
+        {
+          "label": "tornaram ainda a",
+          "forms": {
+            "apposuerunt": "tornaram ainda a"
+          },
+          "note": "Draft: 76:8's draft-1 verb; keeps *voltar* for convértere in this psalm.",
+          "from": "draft"
+        },
+        {
+          "label": "voltaram ainda a",
+          "forms": {
+            "apposuerunt": "voltaram ainda a"
+          },
+          "note": "The row's wording at 76:8; collides with convértere here.",
+          "from": "glossary"
+        },
+        {
+          "label": "continuaram ainda a",
+          "forms": {
+            "apposuerunt": "continuaram ainda a"
+          },
+          "note": "MS1932; 'go on' rather than 'add, do again'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "excitaverunt",
+      "refs": [
+        "77:17"
+      ],
+      "latin": "in iram excitavérunt Excélsum in inaquóso",
+      "kind": "order",
+      "why": "*excitáre* → despertar here and at 77:65 (*excitátus est … Dóminus* → *o Senhor despertou*), so the psalm's echo is heard: they rouse God to anger, and later God rouses himself. The Latin has God as object; *despertaram o Excelso para a ira* keeps that build but is stiff; the draft makes the anger the object. *in iram concitáre* (77:40, 58) keeps its own *incitar à ira*.",
+      "options": [
+        {
+          "label": "despertaram a ira do Excelso",
+          "forms": {
+            "excitaverunt": "despertaram a ira do Excelso"
+          },
+          "note": "Draft: the verb kept, the build eased (D28).",
+          "from": "draft"
+        },
+        {
+          "label": "despertaram o Excelso para a ira",
+          "forms": {
+            "excitaverunt": "despertaram o Excelso para a ira"
+          },
+          "note": "The Latin's build: God the object.",
+          "from": "draft"
+        },
+        {
+          "label": "excitaram a ira do Excelso",
+          "forms": {
+            "excitaverunt": "excitaram a ira do Excelso"
+          },
+          "note": "MS1932; *excitar* has sexual senses in Brazil and loses the echo with 77:65.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "quoniam20",
+      "refs": [
+        "77:20"
+      ],
+      "latin": "Quóniam percússit petram",
+      "kind": "word",
+      "why": "The murmurers' speech goes on: 'since he struck the rock …, can he also give bread?' (ἐπεί). *Porque* keeps the Latin's word; the Thursday Matins versicle *Deus percússit petram* takes the colon with *Deus* in place of *Quóniam*, which *Deus feriu a rocha* serves either way.",
+      "options": [
+        {
+          "label": "Porque feriu",
+          "forms": {
+            "quoniam20": "Porque feriu"
+          },
+          "note": "Draft (DRB 'Because').",
+          "from": "DRB"
+        },
+        {
+          "label": "Visto que feriu",
+          "forms": {
+            "quoniam20": "Visto que feriu"
+          },
+          "note": "'Since'; clearer as a premise, heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "É verdade que feriu",
+          "forms": {
+            "quoniam20": "É verdade que feriu"
+          },
+          "note": "MS1932 *Sem dúvida*; the concession, added words.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inundaverunt",
+      "refs": [
+        "77:20"
+      ],
+      "latin": "et torréntes inundavérunt",
+      "kind": "word",
+      "why": "No object in the Latin (κατεκλύσθησαν). *inundaram* alone asks 'flooded what?' (MS1932 supplies *a terra*); *transbordaram* is the intransitive of the same thing. The colon is also the Thursday Matins response *Et torréntes inundavérunt*, said alone.",
+      "options": [
+        {
+          "label": "transbordaram",
+          "forms": {
+            "inundaverunt": "transbordaram"
+          },
+          "note": "Draft: intransitive, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "inundaram",
+          "forms": {
+            "inundaverunt": "inundaram"
+          },
+          "note": "The cognate; wants an object.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "distulit",
+      "refs": [
+        "77:21"
+      ],
+      "latin": "Ídeo audívit Dóminus, et dístulit",
+      "kind": "word",
+      "why": "*dístulit* (ἀνεβάλετο) is 'put off, deferred': God heard and held back. DRB 'was angry' and MS1932 *irritou-se* translate the Hebrew — refused (rule 1). *adiou* is the plain word; *diferiu* is the cognate family but heard as 'differed'.",
+      "options": [
+        {
+          "label": "e adiou",
+          "forms": {
+            "distulit": "e adiou"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "e demorou-se",
+          "forms": {
+            "distulit": "e demorou-se"
+          },
+          "note": "'held back, delayed'; more personal.",
+          "from": "draft"
+        },
+        {
+          "label": "e irritou-se",
+          "forms": {
+            "distulit": "e irritou-se"
+          },
+          "note": "MS1932 / DRB, the Hebrew; not the Latin (rule 1) — listed for comparison only.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ira21",
+      "refs": [
+        "77:21"
+      ],
+      "latin": "et ira ascéndit in Israël",
+      "kind": "word",
+      "why": "*in Israël* (ἐπὶ τὸν Ισραηλ): the anger rose against Israel. *em Israel* keeps the Latin's preposition, parallel with *em Jacó* just before, but is heard as 'anger arose within Israel'. 77:30 *super eos* → *sobre eles* is its own.",
+      "options": [
+        {
+          "label": "contra Israel",
+          "forms": {
+            "ira21": "contra Israel"
+          },
+          "note": "Draft (DRB, MS1932 'against').",
+          "from": "draft"
+        },
+        {
+          "label": "em Israel",
+          "forms": {
+            "ira21": "em Israel"
+          },
+          "note": "The Latin's *in*, parallel to *em Jacó*; heard as inside Israel.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "transtulit",
+      "refs": [
+        "77:26"
+      ],
+      "latin": "Tránstulit Austrum de cælo",
+      "kind": "glossary",
+      "why": "transférre → transportar is settled (D43) at 45:3, where the Greek is μετατίθεσθαι; here it is ἀπῆρεν ('set moving, removed'), so D15 would allow another word. The draft keeps the settled verb for the Latin's sake; DRB 'removed' and MS1932 *Retirou* say the wind was taken away, which is only half of it (it was sent across the sky).",
+      "options": [
+        {
+          "label": "Transportou",
+          "forms": {
+            "transtulit": "Transportou"
+          },
+          "note": "The settled verb (45:3).",
+          "from": "glossary"
+        },
+        {
+          "label": "Removeu",
+          "forms": {
+            "transtulit": "Removeu"
+          },
+          "note": "DRB 'removed'.",
+          "from": "DRB"
+        },
+        {
+          "label": "Fez partir",
+          "forms": {
+            "transtulit": "Fez partir"
+          },
+          "note": "The Greek ἀπῆρεν; says the wind set out.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "venti",
+      "refs": [
+        "77:26"
+      ],
+      "latin": "Austrum … Áfricum",
+      "kind": "word",
+      "why": "Two named winds: *Auster* the south wind, *Áfricus* the south-west wind (λίψ; DRB 'south wind … southwest wind'). The Latin names are unknown to most Brazilian ears; the draft names the directions.",
+      "options": [
+        {
+          "label": "o vento sul … o vento sudoeste",
+          "forms": {
+            "austrum": "o vento sul",
+            "africum": "o vento sudoeste"
+          },
+          "note": "Draft (DRB).",
+          "from": "DRB"
+        },
+        {
+          "label": "o Austro … o Áfrico",
+          "forms": {
+            "austrum": "o Austro",
+            "africum": "o Áfrico"
+          },
+          "note": "The Latin names (MS1932 *vento Áfrico*).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "volatilia",
+      "refs": [
+        "77:27"
+      ],
+      "latin": "volatília pennáta",
+      "kind": "glossary",
+      "why": "The pennæ row (open) warns that *penas* is heard as 'sorrows'. *aves aladas* keeps the Latin's doubling (a flying thing that is winged) without the word.",
+      "options": [
+        {
+          "label": "aves aladas",
+          "forms": {
+            "volatilia": "aves aladas"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "aves de penas",
+          "forms": {
+            "volatilia": "aves de penas"
+          },
+          "note": "MS1932; *penas* risks 'sorrows' (pennæ row).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "pinguis",
+      "refs": [
+        "77:31"
+      ],
+      "latin": "Et occídit pingues eórum",
+      "kind": "glossary",
+      "why": "pinguis → gordo (open row; 21:30 *todos os gordos da terra*). The fat ones are the well-fed, the strong (ἐν τοῖς πίοσιν; DRB 'the fat ones', MS1932 *os mais robustos*). The image kept.",
+      "options": [
+        {
+          "label": "os gordos",
+          "forms": {
+            "pinguis": "os gordos"
+          },
+          "note": "The glossary's word (21:30).",
+          "from": "glossary"
+        },
+        {
+          "label": "os mais robustos",
+          "forms": {
+            "pinguis": "os mais robustos"
+          },
+          "note": "MS1932; the sense without the image.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "impedivit",
+      "refs": [
+        "77:31"
+      ],
+      "latin": "et eléctos Israël impedívit",
+      "kind": "word",
+      "why": "*impedíre* is to shackle the feet (συνεπόδισεν, 'tripped up, fettered'). *entravar* is the same image; DRB 'brought down' and MS1932 *derribou* give the result.",
+      "options": [
+        {
+          "label": "entravou",
+          "forms": {
+            "impedivit": "entravou"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "derrubou",
+          "forms": {
+            "impedivit": "derrubou"
+          },
+          "note": "DRB, MS1932; *derrubar* is supplantáre's (17:40).",
+          "from": "MS1932"
+        },
+        {
+          "label": "impediu",
+          "forms": {
+            "impedivit": "impediu"
+          },
+          "note": "The cognate; says little.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "defecerunt",
+      "refs": [
+        "77:33"
+      ],
+      "latin": "Et defecérunt in vanitáte dies eórum",
+      "kind": "glossary",
+      "why": "defícere → desfalecer (the deféctio family). Days that fail in vanity; DRB 'were consumed'.",
+      "options": [
+        {
+          "label": "desfaleceram",
+          "forms": {
+            "defecerunt": "desfaleceram"
+          },
+          "note": "The glossary's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "consumiram-se",
+          "forms": {
+            "defecerunt": "consumiram-se"
+          },
+          "note": "DRB.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "propitius",
+      "refs": [
+        "77:38"
+      ],
+      "latin": "et propítius fiet peccátis eórum",
+      "kind": "glossary",
+      "why": "The propitiári row was left open after 64:4, where two blind readers heard *propício às nossas impiedades* as God favouring sin, and asked that this verse be rendered so that it cannot be heard so. The Ps 78 agent ruled 78:9 *sede clemente com os nossos pecados* and proposed the same here: clemency is shown only toward a wrong, so *clemente com os pecados* asks mildness in judging (ἱλάσεται; DRB 'will forgive', MS1932 *perdoava*) and can't be heard as favour. *clemens* never occurs in the Latin psalter, so it collides with nothing; *perdoar* stays dimíttere's, and *misericordioso* (miséricors) stands in the same line. Taken. Cost: the Latin's word *propício* is lost where its object is a sin.",
+      "options": [
+        {
+          "label": "será clemente com os pecados deles",
+          "forms": {
+            "propitius": "será clemente com os pecados deles"
+          },
+          "note": "Draft: 78:9's ruling, as the row proposes for the family where the object is a sin.",
+          "from": "glossary"
+        },
+        {
+          "label": "será propício aos pecados deles",
+          "forms": {
+            "propitius": "será propício aos pecados deles"
+          },
+          "note": "24:11 / 64:4's build; heard as favouring sin by two readers.",
+          "from": "glossary"
+        },
+        {
+          "label": "perdoará os pecados deles",
+          "forms": {
+            "propitius": "perdoará os pecados deles"
+          },
+          "note": "DRB, MS1932; *perdoar* is dimíttere's.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "abundavit",
+      "refs": [
+        "77:38b"
+      ],
+      "latin": "Et abundávit ut avérteret iram suam",
+      "kind": "grammar",
+      "why": "*abundávit ut* (πληθυνεῖ τοῦ ἀποστρέψαι) is 'he did it abundantly, many times'; DRB 'many a time did he turn away', MS1932 *muitas vezes*. The literal *abundou em desviar* is not Portuguese.",
+      "options": [
+        {
+          "label": "E muitas vezes desviou",
+          "forms": {
+            "abundavit": "E muitas vezes desviou"
+          },
+          "note": "Draft (DRB, MS1932).",
+          "from": "DRB"
+        },
+        {
+          "label": "E abundou em desviar",
+          "forms": {
+            "abundavit": "E abundou em desviar"
+          },
+          "note": "The Latin's verb; not idiomatic.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "spiritus",
+      "refs": [
+        "77:39"
+      ],
+      "latin": "spíritus vadens et non rédiens",
+      "kind": "ambiguity",
+      "why": "*spíritus* is breath, wind and spirit at once (πνεῦμα). *sopro* is breath and wind, and is also said of the soul (*sopro de vida*); *espírito* keeps only the soul.",
+      "options": [
+        {
+          "label": "um sopro",
+          "forms": {
+            "spiritus": "um sopro"
+          },
+          "note": "Draft (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "um espírito",
+          "forms": {
+            "spiritus": "um espírito"
+          },
+          "note": "The Latin's word; loses the breath.",
+          "from": "draft"
+        },
+        {
+          "label": "um vento",
+          "forms": {
+            "spiritus": "um vento"
+          },
+          "note": "DRB 'a wind'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "coenomyia",
+      "refs": [
+        "77:45"
+      ],
+      "latin": "Misit in eos cœnomyíam",
+      "kind": "word",
+      "why": "*cœnomyía* is the Greek κυνόμυια, the dog-fly, a biting fly, in the collective singular like *ranam* after it. DRB 'divers sorts of flies' and MS1932 *todo o gênero de moscas* follow a later reading.",
+      "options": [
+        {
+          "label": "a mosca canina",
+          "forms": {
+            "coenomyia": "a mosca canina"
+          },
+          "note": "Draft: the Latin's (Greek) creature, singular.",
+          "from": "draft"
+        },
+        {
+          "label": "moscas de toda espécie",
+          "forms": {
+            "coenomyia": "moscas de toda espécie"
+          },
+          "note": "DRB, MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "comedit",
+      "refs": [
+        "77:45"
+      ],
+      "latin": "et comédit eos … et dispérdidit eos",
+      "kind": "grammar",
+      "why": "The Latin coordinates (*et comédit … et dispérdidit*), with the fly and the frog as subjects; a bare *e os devorou* is heard with God as subject. DRB turns both into relatives, which the draft follows. comédere → devorar (68:10), manducáre → comer (77:24–29).",
+      "options": [
+        {
+          "label": "que os devorou … que os exterminou",
+          "forms": {
+            "comedit": "que os devorou",
+            "disperdidit": "que os exterminou"
+          },
+          "note": "Draft (DRB).",
+          "from": "DRB"
+        },
+        {
+          "label": "e os devorou … e os exterminou",
+          "forms": {
+            "comedit": "e os devorou",
+            "disperdidit": "e os exterminou"
+          },
+          "note": "The Latin's coordination; subject unclear.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aerugo",
+      "refs": [
+        "77:46"
+      ],
+      "latin": "Et dedit ærúgini fructus eórum",
+      "kind": "word",
+      "why": "*ærúgo* is rust, and the blight of grain (ἐρυσίβη, 'mildew, rust'); *ferrugem* is also the Portuguese name of that crop disease. MS1932 *alforra* is correct but unknown.",
+      "options": [
+        {
+          "label": "à ferrugem",
+          "forms": {
+            "aerugo": "à ferrugem"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "à alforra",
+          "forms": {
+            "aerugo": "à alforra"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "à praga",
+          "forms": {
+            "aerugo": "à praga"
+          },
+          "note": "The sense; general.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "labores",
+      "refs": [
+        "77:46",
+        "77:51"
+      ],
+      "latin": "et labóres eórum locústæ … primítias omnis labóris eórum",
+      "kind": "glossary",
+      "why": "labor (noun) → fadiga (open row; 72:5, 72:16). Here the toil stands for what toil produced (DRB 'labours'; MS1932 *searas*), and the firstborn are 'the first-fruits of all their toil'. The row kept.",
+      "options": [
+        {
+          "label": "as suas fadigas … toda a sua fadiga",
+          "forms": {
+            "labores46": "as suas fadigas",
+            "labores51": "toda a sua fadiga"
+          },
+          "note": "The glossary's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "os seus trabalhos … todo o seu trabalho",
+          "forms": {
+            "labores46": "os seus trabalhos",
+            "labores51": "todo o seu trabalho"
+          },
+          "note": "DRB 'labours'; *trabalho* also the product of work.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "moros",
+      "refs": [
+        "77:47"
+      ],
+      "latin": "et moros eórum in pruína",
+      "kind": "word",
+      "why": "*morus* is the mulberry (συκάμινος; DRB 'mulberry trees'); MS1932 *sicómoros* is the Hebrew's tree.",
+      "options": [
+        {
+          "label": "as suas amoreiras",
+          "forms": {
+            "moros": "as suas amoreiras"
+          },
+          "note": "Draft (DRB).",
+          "from": "DRB"
+        },
+        {
+          "label": "os seus sicômoros",
+          "forms": {
+            "moros": "os seus sicômoros"
+          },
+          "note": "MS1932; the Hebrew.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "immissiones",
+      "refs": [
+        "77:49"
+      ],
+      "latin": "immissiónes per ángelos malos",
+      "kind": "word",
+      "why": "*immissiónes* are 'things sent in upon' them (ἀποστολή), the same root as *Misit* opening the verse; D16's move makes the noun a clause with *enviar*, so the verse's repetition is heard. *anjos maus* is the Latin's phrase: evil angels or angels of evil — both heard.",
+      "options": [
+        {
+          "label": "o que enviou por meio de anjos maus",
+          "forms": {
+            "immissiones": "o que enviou por meio de anjos maus"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "envios por meio de anjos maus",
+          "forms": {
+            "immissiones": "envios por meio de anjos maus"
+          },
+          "note": "The noun kept; awkward.",
+          "from": "draft"
+        },
+        {
+          "label": "flagelos enviados por meio de anjos maus",
+          "forms": {
+            "immissiones": "flagelos enviados por meio de anjos maus"
+          },
+          "note": "MS1932 *flagelos*; supplies a noun.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "viam",
+      "refs": [
+        "77:50"
+      ],
+      "latin": "Viam fecit sémitæ iræ suæ",
+      "kind": "word",
+      "why": "'He made a way for the path of his anger' (ὡδοποίησεν τρίβον). *Abriu caminho* is the idiom for *viam fácere*; *Fez caminho* is word for word.",
+      "options": [
+        {
+          "label": "Abriu caminho",
+          "forms": {
+            "viam": "Abriu caminho"
+          },
+          "note": "Draft (MS1932 *Abriu*).",
+          "from": "MS1932"
+        },
+        {
+          "label": "Fez caminho",
+          "forms": {
+            "viam": "Fez caminho"
+          },
+          "note": "Word for word (DRB 'made a way').",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "sculptilia",
+      "refs": [
+        "77:58"
+      ],
+      "latin": "et in sculptílibus suis",
+      "kind": "word",
+      "why": "*sculptília*, carved things (γλυπτοῖς); idols in fact, but the Latin says carved. *imagens esculpidas* says it without naming the idol; MS1932 *ídolos que esculpiram*.",
+      "options": [
+        {
+          "label": "imagens esculpidas",
+          "forms": {
+            "sculptilia": "imagens esculpidas"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "esculturas",
+          "forms": {
+            "sculptilia": "esculturas"
+          },
+          "note": "Shorter; heard as art.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aemulatio",
+      "refs": [
+        "77:58"
+      ],
+      "latin": "ad æmulatiónem eum provocavérunt",
+      "kind": "word",
+      "why": "God's jealousy (παρεζήλωσαν; DRB 'moved him to jealousy'). *provocar* is exacerbáre's (D27, three times in this psalm), so *mover*; *æmulári* → *ter inveja* is for men (36:1), and envy is not God's.",
+      "options": [
+        {
+          "label": "o moveram ao ciúme",
+          "forms": {
+            "aemulatio": "o moveram ao ciúme"
+          },
+          "note": "Draft (DRB).",
+          "from": "DRB"
+        },
+        {
+          "label": "o provocaram ao ciúme",
+          "forms": {
+            "aemulatio": "o provocaram ao ciúme"
+          },
+          "note": "The Latin's verb; collides with exacerbáre → provocar.",
+          "from": "draft"
+        },
+        {
+          "label": "lhe inflamaram o zelo",
+          "forms": {
+            "aemulatio": "lhe inflamaram o zelo"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "valde",
+      "refs": [
+        "77:59"
+      ],
+      "latin": "et ad níhilum redégit valde Israël",
+      "kind": "order",
+      "why": "redígere ad níhilum → reduzir a nada; valde → muito. *muito* before the verb (as *muito amou*) is the natural place. DRB 'as it were to nothing' softens the Latin.",
+      "options": [
+        {
+          "label": "muito reduziu Israel a nada",
+          "forms": {
+            "valde": "muito reduziu Israel a nada"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "reduziu Israel quase a nada",
+          "forms": {
+            "valde": "reduziu Israel quase a nada"
+          },
+          "note": "DRB; softens.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "gladio",
+      "refs": [
+        "77:62"
+      ],
+      "latin": "Et conclúsit in gládio pópulum suum",
+      "kind": "word",
+      "why": "conclúdere → encerrar (the row names 77:50 and 77:62): shut them up to the sword (εἰς ῥομφαίαν; DRB 'under the sword').",
+      "options": [
+        {
+          "label": "na espada",
+          "forms": {
+            "gladio": "na espada"
+          },
+          "note": "Draft: the Latin's *in*.",
+          "from": "draft"
+        },
+        {
+          "label": "sob a espada",
+          "forms": {
+            "gladio": "sob a espada"
+          },
+          "note": "DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "à espada",
+          "forms": {
+            "gladio": "à espada"
+          },
+          "note": "The Greek's *εἰς*; 'handed to'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potens",
+      "refs": [
+        "77:65"
+      ],
+      "latin": "tamquam potens",
+      "kind": "word",
+      "why": "*potens* here is a mighty man, a warrior (δυνατός; DRB 'a mighty man'). *poderoso* alone is heard as 'a powerful one'; MS1932 *valente*.",
+      "options": [
+        {
+          "label": "um valente",
+          "forms": {
+            "potens": "um valente"
+          },
+          "note": "Draft (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "um poderoso",
+          "forms": {
+            "potens": "um poderoso"
+          },
+          "note": "The Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "crapulatus",
+      "refs": [
+        "77:65"
+      ],
+      "latin": "crapulátus a vino",
+      "kind": "word",
+      "why": "*crapulári* is to be surfeited, heavy with drink (κεκραιπαληκώς). The mighty man waking from wine.",
+      "options": [
+        {
+          "label": "embriagado de vinho",
+          "forms": {
+            "crapulatus": "embriagado de vinho"
+          },
+          "note": "Draft (MS1932).",
+          "from": "MS1932"
+        },
+        {
+          "label": "farto de vinho",
+          "forms": {
+            "crapulatus": "farto de vinho"
+          },
+          "note": "DRB 'surfeited'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "posteriora",
+      "refs": [
+        "77:66"
+      ],
+      "latin": "Et percússit inimícos suos in posterióra",
+      "kind": "ambiguity",
+      "why": "*in posterióra* (εἰς τὰ ὀπίσω) is 'to the rear': struck from behind as they fled, or on the hinder parts (DRB, MS1932; 1 Sam 5). *por trás* keeps the first and lets the second be heard.",
+      "options": [
+        {
+          "label": "por trás",
+          "forms": {
+            "posteriora": "por trás"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "nas partes posteriores",
+          "forms": {
+            "posteriora": "nas partes posteriores"
+          },
+          "note": "MS1932, DRB 'hinder parts'; clinical.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sustulit",
+      "refs": [
+        "77:70"
+      ],
+      "latin": "et sústulit eum de grégibus óvium: * de post fœtántes accépit eum",
+      "kind": "word",
+      "why": "Two verbs, *sústulit* (ἀνέλαβεν, 'took up') and *accépit* (ἔλαβεν). *levantou-o* keeps the lifting; *o tomou* follows 17:17 *me tomou* and 74:3 (accípere of God taking, not receiving).",
+      "options": [
+        {
+          "label": "levantou-o … o tomou",
+          "forms": {
+            "sustulit": "levantou-o",
+            "accepit": "o tomou"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "tomou-o … o recebeu",
+          "forms": {
+            "sustulit": "tomou-o",
+            "accepit": "o recebeu"
+          },
+          "note": "DRB 'took'; accípere → receber (row).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "foetantes",
+      "refs": [
+        "77:70"
+      ],
+      "latin": "de post fœtántes",
+      "kind": "word",
+      "why": "*fœtántes* are the ewes bearing young (λοχευομένων); the shepherd boy walked behind them. *das que davam cria* keeps the Latin's bare participle (the ewes are named just before).",
+      "options": [
+        {
+          "label": "das que davam cria",
+          "forms": {
+            "foetantes": "das que davam cria"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "das ovelhas prenhes",
+          "forms": {
+            "foetantes": "das ovelhas prenhes"
+          },
+          "note": "DRB 'ewes great with young'; supplies *ovelhas*.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "intellectibus",
+      "refs": [
+        "77:72"
+      ],
+      "latin": "et in intelléctibus mánuum suárum dedúxit eos",
+      "kind": "glossary",
+      "why": "intelléctus → entendimento (row 247). The Latin plural (ἐν ταῖς συνέσεσι) made singular (D28); 'the understanding of his hands' is the skill of a shepherd, as the Latin's image. DRB 'skilfulness', MS1932 *sabedoria*.",
+      "options": [
+        {
+          "label": "com o entendimento das suas mãos",
+          "forms": {
+            "intellectibus": "com o entendimento das suas mãos"
+          },
+          "note": "The glossary's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "com a destreza das suas mãos",
+          "forms": {
+            "intellectibus": "com a destreza das suas mãos"
+          },
+          "note": "DRB 'skilfulness'.",
+          "from": "DRB"
+        },
+        {
+          "label": "com a sabedoria das suas mãos",
+          "forms": {
+            "intellectibus": "com a sabedoria das suas mãos"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "77:1": "The Thursday Matins psalm and the Introit verse of several Lenten and Paschal Masses; its verse there is 77:2. *atténdere* → *atender* (προσέχω), the verb *inténdere* shares; the plural people is *vós*. *inclinai o vosso ouvido* = the formula (auris → ouvido).",
+    "77:4": "Feminine *escondidas* agrees with 77:3 *coisas* (the Latin's neuter plural).",
+    "77:4b": "*Narrántes* continues the fathers of 77:3; *virtútes* → poderes (D43).",
+    "77:5": "Thursday Matins antiphon *Suscitávit Dóminus testimónium in Jacob: et legem pósuit in Israël* reads the verse with *Dóminus*. *levantar testemunho* avoided (false witness).",
+    "77:5b": "*nota fácere* → *fazer conhecer* (76:15's build); *as* refers to 77:5b *coisas*.",
+    "77:8": "*pravus* split by D15: σκολιά here → *perversa*, στρεβλόν at 77:57 → *torto*.",
+    "77:8b": "*non est créditus cum Deo* → *não foi fiel para com Deus* (ἐπιστώθη; DRB 'was not faithful').",
+    "77:9": "*inténdere arcum* → *armar o arco* (row 375). *convérsi sunt* → *voltaram-se* (convértere → voltar).",
+    "77:10": "*testaméntum* → aliança; *custodíre* → guardar; *ambuláre* → andar.",
+    "77:12": "Thursday Matins antiphon *Coram pátribus eórum fecit Deus mirabília* (with *Deus*). *Táneos* → Tânis.",
+    "77:13": "*perdúcere* → *conduzir* here and at 77:52 (one Latin verb, two places); *uter* → odre.",
+    "77:14": "*dedúcere* (ὁδηγέω) → *guiar* here, 77:53, 77:72; *illuminátio* → *luz*.",
+    "77:15": "*abýssus* → abismo; *adaquáre* → *dar de beber*.",
+    "77:16": "*dedúcere* (κατήγαγεν) → *fazer descer* (D25); *edúcere de* → *tirar de*.",
+    "77:17": "*inaquósum* → *lugar sem água* here and 77:40 (62:3 *sem água*; DRB 'place without water'). *Excélsum* substantive → *o Excelso* (excélsus kept apart from Altíssimus).",
+    "77:18": "*esca* → comida (68:22), singular as the Latin's plural is a meal.",
+    "77:19": "*numquid* → *acaso* (row 371), here and 77:20b.",
+    "77:20": "Thursday Matins versicle *Deus percússit petram et fluxérunt aquæ. R. Et torréntes inundavérunt*: both colons read alone.",
+    "77:21": "*ídeo* → *por isso*; *accéndere* → *acender* (also 77:38b). *um fogo se acendeu em Jacó* keeps the Latin's *in*.",
+    "77:23": "*mandáre* with a dative and no object → *dar ordem* (90:11). Thursday Matins antiphon *Jánuas cæli apéruit Dóminus, et pluit illis manna ad manducándum* (from 23b–24a).",
+    "77:24": "*plúere* → *fazer chover*; *manducáre* → *comer*. Corpus Christi versicle *Panem cæli dedit eis* = 24b, said alone.",
+    "77:25": "Corpus Christi response *Panem Angelórum manducávit homo* = 25a; the Latin order (bread first) yields to the ear (D28). *cibária* → *provisões* (DRB 'provisions'); *míttere* → *enviar* (as 77:45, 49), keeping *mandar* for mandáre (77:5b).",
+    "77:26": "*indúcere* → *fazer entrar* (row, as 77:54). 77:26b +1 syllable against the Latin.",
+    "77:27": "*carnes* as food → singular *carne* (49:13 row); *pulvis* → pó.",
+    "77:28": "*castra* → acampamento; *tabernáculum* → tenda; *deles* named so that the camp is Israel's, not the birds'.",
+    "77:29": "*saturári* → *ser saciado*; *nimis* → *muito*; *afférre* → *trazer*; *fraudáre* → *privar* (row named 77:29). The first colon is shorter than the Latin (the Latin's is long).",
+    "77:32": "*In ómnibus his* → *Em tudo isto* (DRB 'In all these things'); MS1932's *Depois de* interprets.",
+    "77:34": "*dilúculo* → *ao amanhecer* (row 409); *revérti* → *voltar*.",
+    "77:35": "*rememorári* / *recordári* (77:39, 42) → *lembrar-se* (all μιμνῄσκομαι); *adjútor* → *auxílio*, *redémptor* → *redentor*; *excélsus* → *excelso*. Thursday Matins antiphon *Deus adjútor est eórum: et Excélsus redémptor eórum est* (77:35 abridged).",
+    "77:36": "*dilexérunt* is the Latin (ἠπάτησαν 'deceived' is the Greek) — rule 1: *amaram*.",
+    "77:37": "*rectus* → reto; *æstimári / habéri* → *ser tido por*.",
+    "77:38": "*dispérdere* → *exterminar* (also 77:45). See decision `propitius`.",
+    "77:40": "*exacerbáre* → *provocar* (D27; 77:40, 41, 56); *in iram concitáre* → *incitar à ira* (also 77:58).",
+    "77:41": "*convérsi sunt* → *voltaram* (no *-se*): 'came back' and 'did again', as the Latin; *Sanctus Israël* → *o Santo de Israel*.",
+    "77:42": "*redímere* → *resgatar*; *tribuláre* → *atribular* (*da mão do que atribula*). Thursday Matins antiphon *Redémit eos Dóminus de manu tribulántis*.",
+    "77:43": "*signa* → sinais, *prodígia* → prodígios (45:9).",
+    "77:44": "*convértere in* → *converter em*; *imbres* → *chuvas*.",
+    "77:46": "*fructus* → fruto (1:3, 20:11); *locústa* → gafanhoto (collective singular kept).",
+    "77:47": "*occídere* → *matar* even of vines (the Latin's word, DRB 'destroyed'); *grando* → granizo; *pruína* → geada.",
+    "77:48": "*juménta* → animais; *posséssio* → posse (row 221).",
+    "77:49": "*indignátio* → indignação; *ira* → ira; *tribulátio* → tribulação.",
+    "77:50": "*sémita* → vereda; *párcere* → poupar; *conclúdere* → encerrar.",
+    "77:51": "*percútere* → ferir; *primogénitum* → primogênito; *primítiæ* → primícias; *Cham* → Cam.",
+    "77:52": "*auférre* → *tirar* (D41); *oves* → ovelhas; *grex* → rebanho.",
+    "77:53": "*operíre* → cobrir; *inimícos eórum* → *os inimigos deles* so that the sea is not heard as owning them.",
+    "77:54": "*indúcere in* → *fazer entrar* (row 980); *sanctificátio* → santificação (kept apart from sánctitas); *déxtera* → *a direita* (row 136); *acquírere* → adquirir.",
+    "77:54b": "*ejícere a fácie* → *expulsar de diante de* (expéllere's verb; no row for ejícere till now); *dívidere* land → *repartir* (row 929); *funículus distributiónis* → *a corda da distribuição* (the measuring line).",
+    "77:55": "*habitáre fácere* → *fazer habitar* (28:10 row).",
+    "77:56": "*testimónia* → testemunhos.",
+    "77:57": "*avértere se* → *desviar-se*; *pactum* → pacto (kept apart from testaméntum → aliança); *serváre* → observar; *quemádmodum* comparative → *assim como*; *convértere in* → *converter em*; *pravus* (στρεβλόν) → torto.",
+    "77:58": "*collis* → colina.",
+    "77:59": "*spérnere* → desprezar (also 77:62).",
+    "77:60": "*repéllere* (no *a*) → repelir (D42; the row names 77:60, 67). *Silo* the place name.",
+    "77:61": "*virtus* → poder (singular row); *captívitas* → cativeiro; *pulchritúdo* → beleza. MS1932 glosses both as the Ark — not followed (rule 1).",
+    "77:63": "*comédere* → *devorar* (68:10); *lamentári* (ἐπενθήθησαν) → *prantear*, kept apart from *ploráre* (77:64) → *chorar*.",
+    "77:64": "*plorabántur* imperfect kept (*não eram choradas*); the Greek's future is not followed.",
+    "77:65": "*excitári* → *despertar*, the echo of 77:17. *dórmiens* → *quem dorme*.",
+    "77:66": "*oppróbrium* → afronta; *sempitérnus* → eterno.",
+    "77:67": "*elígere* → escolher (also 77:68, 70).",
+    "77:68": "Thursday Matins versicle *Elégit Dóminus tribum Juda. R. Montem Sion quem diléxit*: the second colon reads alone. *dilígere* → amar.",
+    "77:69": "*unicórnis* → unicórnio (row 584, the Latin's animal); *sanctifícium* → santuário; *fundáre* → fundar; *in sǽcula* → para sempre (D23). Thursday Matins antiphon *Ædificávit Deus sanctifícium suum in terra*: the draft puts *o seu santuário* next to the verb so the antiphon can be cut from it.",
+    "77:70": "*David* → Davi (17:51). The sentence runs on into 77:71, as the Latin (comma).",
+    "77:71": "*páscere* → apascentar; *servus* → servo; *heréditas* → herança. The Latin keeps *servum suum* where the Greek has 'his people' — the Latin followed.",
+    "77:72": "*innocéntia* → inocência; *dedúcere* → guiar."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels file (Latin, LXX, Hebrew, DRB, MS1932; no Diurnal: a Matins psalm). The Latin's duplicate ids made b-ids: 4b, 5b, 8b, 20b, 38b, 54b. Liturgical uses grepped and every colon said alone checked (Introit verse 77:1–2; Corpus Christi versicle 24b/25a; the six Thursday Matins antiphons; the versicles 77:20 and 77:68). Glossary applied throughout; new points: 77:38 *propítius fiet* → *será clemente com os pecados deles*, taking the Ps 78 agent's ruling (78:9) for the family where the object is a sin; 77:2 D43's *propósitio* clause turned passive; 77:17 appónere → *tornar a* (76:8 row asked); *excitáre* → *despertar* in 77:17 and 77:65 for the echo. Helper: gl.py (glossary rows by Latin head)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids, pointing). Soft length flags accepted: most are ±3–4 where the Latin's long words (e.g. *cum festinatióne*, 77:33 −5) or the Portuguese article/possessive system shift weight; 77:55 −6 because the Latin's subject *tribus Israël* stands alone in the second colon and is kept there; 77:29 −5 because the Latin's first colon is very long. Neighbouring rhymes accepted: 77:23/24 *céu* (the Latin repeats *cæli*), 77:63/64 *pranteadas / choradas* (the Latin's parallel passives)."
+    }
+  ]
+}

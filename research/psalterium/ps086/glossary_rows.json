@@ -1,0 +1,24 @@
+{
+  "append": [
+    {"row": "| alienígenæ |", "text": "**Ps 86:4b *Ecce, alienígenæ, et Tyrus* → *Eis os estrangeiros, e Tiro*** — applied; no reader remarked."},
+    {"row": "| Æthíopes / Ethan |", "text": "**Ps 86:4b *pópulus Æthíopum* → *o povo da Etiópia*** — 73:14's land, here at the mediant; *dos etíopes* option. No reader remarked."},
+    {"row": "| numquid |", "text": "**Ps 86:5 *Numquid Sion dicet* → *Acaso Sião dirá*** — the Latin's reading of μήτηρ Σιων as μή τῇ. **The ambiguity reader heard a question expecting 'no', which inverts the sense of the verses around it**; DRB and MS1932 both add 'not' (*Acaso não dirá Sião* is option 2, decision `numquid`). Held; the Latinist passed it twice. For Gustavo."},
+    {"row": "| habitátio (God's dwelling) |", "text": "**Ps 86:7 *Sicut lætántium ómnium * habitátio est in te* → *Como de todos os que se alegram * é a habitação em ti*** (the city's dwelling; the Marian antiphon). The stylist asked *morada* ('habitação' bureaucratic); refused for this row and habitáculum's *morada* (D44), option."},
+    {"row": "| fundáre |", "text": "**Ps 86:5 *et ipse fundávit eam Altíssimus* → *e o próprio Altíssimo a fundou*** — echoes 86:1 *Fundaménta → fundamentos*; the name moved off the final cadence (as 7:18)."},
+    {"row": "| tabernáculum |", "text": "**Ps 86:1 *super ómnia tabernácula Jacob* → *mais que todas as tendas de Jacó*** — applied; the ambiguity reader heard literal tents (the Latin's image)."},
+    {"row": "| scire |", "text": "**Ps 86:4 *Babylónis sciéntium me* → *de Babilônia, que me conhecem*** (the Latin's genitive, against the Greek's dative τοῖς γινώσκουσίν με). Passed the Latinist twice."},
+    {"row": "| memor esse (+ genitive) |", "text": "Ps 86:4 *Memor ero* → *Eu me lembrarei* (the subject named, proclisis; *Lembrar-me-ei* MS1932 the option)."},
+    {"row": "| mons sanctus |", "text": "Ps 86:1 *Fundaménta ejus in móntibus sanctis* → *Os seus fundamentos estão nos montes santos* (copula supplied; the Matins antiphon's first colon)."},
+    {"row": "| Ps 82 names |", "text": "**Ps 86:4 *Rahab, Babylónis* → *Raab, Babilônia*; 86:4b *Tyrus* → *Tiro*** (MS1932's forms, the same rule). The ambiguity reader did not know *Raab* or *Tiro* (heard 'gunshot' for a moment) — expected for names."}
+  ],
+  "terms": [
+    "| illic | ali | working | Ps 13:5 = 52:6 *illic trepidavérunt* → *ali tremeram*; Ps 86:4b *hi fuérunt illic* → *estes ali estiveram* (order the stylist's: *estes estiveram* ran es-tes es-ti-). 121:5, 132:3b, 103:16, 103:25–26, 136:1, 136:3a (grep). |",
+    "| fuérunt (were, of place) | estiveram | open | Ps 86:4b *hi fuérunt illic*, 86:6 *qui fuérunt in ea* — one word in both, as the Latin. The Greek (ἐγενήθησαν, γεγενημένων) and the Hebrew say 'were born'; the Latin says 'were' — rule 1; *nasceram* option (decision `fuerunt`). MS1932's future *estarão* is a gloss. |",
+    "| scriptúra (a register) | escrituras (*nas escrituras dos povos*) | open | Ps 86:6 *in scriptúris populórum*, the Latin's word and plural (ἐν γραφῇ singular). The ambiguity reader heard the Holy Scriptures among other readings — a sense the Fathers read here. *escritos*, *registro* (MS1932) options. |",
+    "| *homo, et homo* | *um homem e outro homem* (verb first: *Nasceu nela um homem e outro homem*) | open | Ps 86:5; ἄνθρωπος καὶ ἄνθρωπος (the Hebrew idiom 'each one'). The repetition kept (MS1932's *um grande número* refused); the singular verb kept by putting it first. The v2 Latinist (minor) wants the bare *homem e homem*; held as option — no determiner is not Portuguese. The ambiguity reader heard 'two particular men'. |",
+    "| super (more than, after a verb of loving) | mais que (*ama as portas de Sião mais que todas as tendas de Jacó*) | open | Ps 86:1 (ὑπέρ); MS1932's words. *sobre* (the catechism's *sobre todas as coisas*) option: after *portas* it is heard as a place. |"
+  ],
+  "formulas": [
+    "| *Fundaménta ejus * in móntibus sanctis* (86:1; Matins antiphon, Psalmi matutinum; with the whole verse, 12-12n versicle and missa 12-08, 08-26pl — grep) · *Gloriósa * dicta sunt de te, cívitas Dei* (86:3; 12-08, Aparecida; the missa 12-08 has *de te, María*) · *Sicut lætántium * ómnium (nostrum) habitátio est in te* (86:7; C11, 08-15t, 05-31, 02-10 Scholastica, Pent02-5o; versicle 02-11, Aparecida) | *Os seus fundamentos * estão nos montes santos* · *Coisas gloriosas foram ditas de ti, * cidade de Deus* · *Como de todos os que se alegram * é a habitação em ti* | open — Ps 86; each first colon reads alone. The antiphons with added words (*fundávit te Dóminus in móntibus sanctis*; *nostrum … sancta Dei Génetrix*) need their own wording when the Office is translated |"
+  ]
+}

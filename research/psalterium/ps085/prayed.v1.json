@@ -1,0 +1,220 @@
+{
+  "psalm": 85,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "85:1": "Inclinai, Senhor, o vosso ouvido, e escutai-me: * porque eu sou carente e pobre.",
+    "85:2": "Guardai a minha alma, porque sou santo: * {servum}",
+    "85:3": "Tende piedade de mim, Senhor, porque a vós clamei o dia todo: * alegrai a alma do vosso servo, porque a vós, Senhor, levantei a minha alma.",
+    "85:5": "Porque vós, Senhor, sois {suavis} e manso: * e {multae} para todos os que vos invocam.",
+    "85:6": "Dai ouvidos, Senhor, à minha oração: * e atendei à voz da minha prece.",
+    "85:7": "No dia da minha tribulação clamei a vós: * porque me escutastes.",
+    "85:8": "Não há semelhante a vós entre os deuses, Senhor: * e não há {secundum}.",
+    "85:9": "Todas as nações que fizestes virão, e adorarão diante de vós, Senhor: * e glorificarão o vosso nome.",
+    "85:10": "Porque vós sois grande, e fazeis maravilhas: * {solus}.",
+    "85:11": "Guiai-me, Senhor, {invia}, e andarei na vossa verdade: * alegre-se o meu coração {ut}.",
+    "85:12": "Eu vos darei graças, Senhor, meu Deus, de todo o meu coração, * e glorificarei o vosso nome para sempre:",
+    "85:13": "Porque a vossa misericórdia é grande {superme}: * e arrancastes a minha alma do inferno {inferiori}.",
+    "85:14": "Deus, os iníquos se levantaram contra mim, e a congregação dos poderosos buscou a minha alma: * e não vos puseram {conspectu}.",
+    "85:15": "{ettu} Deus {miserator} e misericordioso, * paciente, e {multae}, e verdadeiro,",
+    "85:16": "Olhai para mim, e tende piedade de mim, * dai o vosso {imperium} ao vosso {puer}: e salvai o filho da vossa serva.",
+    "85:17": "{signum}, para que vejam os que me odeiam, e sejam envergonhados: * porque vós, Senhor, me auxiliastes e me consolastes."
+  },
+  "decisions": [
+    {
+      "id": "servum",
+      "refs": ["85:2"],
+      "latin": "salvum fac servum tuum, Deus meus, sperántem in te",
+      "kind": "order",
+      "why": "The Latin puts the vocative between 'servum tuum' and its participle 'sperántem in te'. This colon is also said alone and split in two: the Preces have 'V. Salvos fac servos tuos. R. Deus meus, sperántes in te' (Special/Preces.txt), the Lenten gradual Quad1-5 'Salvum fac servum tuum. Deus meus, sperántem in te' — the split falls exactly at the vocative, so the Latin order lets the Portuguese split in the same place. The risk is that 'meu Deus, que espera em vós' is heard with 'que' taken to God; it cannot stand ('Deus … espera em vós', said to God), so the ear goes back to 'servo'. Ruled: the Latin's order. Matos Soares 1932 moves the vocative up ('salva, Deus meu, o teu servo, que espera em ti'), which is the option. 'esperar em' is speráre's (D36); the relative 'que espera' for the participle as 16:7 'os que esperam em vós'.",
+      "options": [
+        {"label": "salvai o vosso servo, meu Deus, que espera em vós.", "forms": {"servum": "salvai o vosso servo, meu Deus, que espera em vós."}, "note": "Ruling: the Latin's order; the Preces and Quad1-5 split at the vocative.", "from": "draft"},
+        {"label": "salvai, meu Deus, o vosso servo que espera em vós.", "forms": {"servum": "salvai, meu Deus, o vosso servo que espera em vós."}, "note": "MS1932's order: the relative touches its noun; the split of the versicle would then fall elsewhere.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "suavis",
+      "refs": ["85:5"],
+      "latin": "suávis",
+      "kind": "glossary",
+      "why": "suávis → suave (row, open; 33:9 'que o Senhor é suave'). χρηστός, good-and-kind. The row's options are 'bom' (the Greek's sense) and 'doce'. Matos Soares 1932 'suave'; Douay-Rheims 'sweet'. Kept with the row so that the seven places read alike; the verse is also the tail of the Offertory of Nat2-0 (85:12 + 85:5).",
+      "options": [
+        {"label": "suave", "forms": {"suavis": "suave"}, "note": "Ruling: the row (33:9), MS1932.", "from": "glossary"},
+        {"label": "bom", "forms": {"suavis": "bom"}, "note": "The Greek's sense; loses the Latin's sweetness.", "from": "glossary"},
+        {"label": "doce", "forms": {"suavis": "doce"}, "note": "DRB 'sweet'; beside 'manso' it leans to a mood.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "multae",
+      "refs": ["85:5", "85:15"],
+      "latin": "multæ misericórdiæ",
+      "kind": "glossary",
+      "why": "A genitive of quality (πολυέλεος), twice in the psalm, the second time in the divine-name formula of 85:15. Said the same both times. 'de muita misericórdia' keeps the Latin's build and is Matos Soares 1932's wording in both verses; the Latin does not say 'rich' (that is 'dives in misericórdia', Eph 2:4) nor 'full'. 102:8 and 144:8 have another build ('multum miséricors') and decide for themselves.",
+      "options": [
+        {"label": "de muita misericórdia", "forms": {"multae": "de muita misericórdia"}, "note": "Ruling: the Latin's genitive; MS1932 both times.", "from": "draft"},
+        {"label": "cheio de misericórdia", "forms": {"multae": "cheio de misericórdia"}, "note": "Smoother, but 'cheio' is plenus's word and supplies an image.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "secundum",
+      "refs": ["85:8"],
+      "latin": "et non est secúndum ópera tua",
+      "kind": "grammar",
+      "why": "The Latin has no subject: 'there is not [anything] according to your works' (κατὰ τὰ ἔργα σου). A calque with 'segundo' is not Portuguese in this sense and is heard as 'according to'. 'não há nada como' supplies only the pronoun Portuguese needs and keeps the Latin's 'non est … non est' repeated ('Não há … e não há'). Douay-Rheims 'there is none according to thy works'; Matos Soares 1932 'nada há comparável às tuas obras'. 'obras como as vossas' supplies the noun 'obras' as subject, which is the Hebrew's build.",
+      "options": [
+        {"label": "nada como as vossas obras", "forms": {"secundum": "nada como as vossas obras"}, "note": "Ruling: the pronoun supplied, the repetition 'não há … não há' kept.", "from": "draft"},
+        {"label": "obras como as vossas", "forms": {"secundum": "obras como as vossas"}, "note": "Supplies the noun; the Hebrew's sense.", "from": "draft"},
+        {"label": "nada segundo as vossas obras", "forms": {"secundum": "nada segundo as vossas obras"}, "note": "The Latin's preposition; heard as 'according to'.", "warn": true, "from": "DRB"}
+      ]
+    },
+    {
+      "id": "solus",
+      "refs": ["85:10"],
+      "latin": "tu es Deus solus",
+      "kind": "order",
+      "why": "The Latin puts 'solus' last. 'só vós sois Deus' is the natural Portuguese and Matos Soares 1932's; Douay-Rheims 'thou art God alone'. The Latin's order 'vós sois Deus, só vós' is sayable and ends on an oxytone, but reads as an afterthought. 'o único Deus' turns the adverb into an adjective of Deus. The Rahlfs text adds ὁ μέγας; the Latin does not, and neither does this.",
+      "options": [
+        {"label": "só vós sois Deus", "forms": {"solus": "só vós sois Deus"}, "note": "Ruling: MS1932's order.", "from": "MS1932"},
+        {"label": "vós sois Deus, só vós", "forms": {"solus": "vós sois Deus, só vós"}, "note": "The Latin's order.", "from": "draft"},
+        {"label": "vós sois o único Deus", "forms": {"solus": "vós sois o único Deus"}, "from": "draft"}
+      ]
+    },
+    {
+      "id": "invia",
+      "refs": ["85:11"],
+      "latin": "Deduc me … in via tua",
+      "kind": "word",
+      "why": "dedúcere → guiar (D22; 5:9 'guiai-me na vossa justiça'). 'in via tua' (LXX dative τῇ ὁδῷ σου): 'no vosso caminho' keeps the Latin's 'in', as 5:9 keeps it; 'pelo vosso caminho' (MS1932) is the more usual Portuguese with 'guiar'. Kept 'no': the verse sets 'in via tua … in veritáte tua' side by side, and 'no … na' keeps them paired.",
+      "options": [
+        {"label": "no vosso caminho", "forms": {"invia": "no vosso caminho"}, "note": "Ruling: the Latin's 'in', paired with 'na vossa verdade'.", "from": "draft"},
+        {"label": "pelo vosso caminho", "forms": {"invia": "pelo vosso caminho"}, "note": "MS1932; the usual idiom with 'guiar'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "ut",
+      "refs": ["85:11"],
+      "latin": "lætétur cor meum ut tímeat nomen tuum",
+      "kind": "ambiguity",
+      "why": "The Latin 'ut' + subjunctive says purpose or result: the heart is to rejoice so that it fears the name. The Greek has an articular infinitive (τοῦ φοβεῖσθαι), which can also mean 'in fearing'; Matos Soares 1932 reads it so ('ponha a sua alegria em temer'). Douay-Rheims keeps the Latin: 'that it may fear thy name'. Ruled for the Latin's 'ut'.",
+      "options": [
+        {"label": "para que tema o vosso nome", "forms": {"ut": "para que tema o vosso nome"}, "note": "Ruling: the Latin's ut; DRB.", "from": "draft"},
+        {"label": "em temer o vosso nome", "forms": {"ut": "em temer o vosso nome"}, "note": "The Greek's infinitive as MS1932 reads it; says what the joy is.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "superme",
+      "refs": ["85:13"],
+      "latin": "misericórdia tua magna est super me",
+      "kind": "word",
+      "why": "ἐπ᾽ ἐμέ. 'sobre mim' keeps the Latin's preposition and the image of mercy over the one who prays, as 32:22 'Seja sobre nós, Senhor, a vossa misericórdia'. Matos Soares 1932 'para comigo' and Douay-Rheims 'towards me' take it as the relation. The gloating 'super me' of 29:2 ('à minha custa') is another sense, and the hostile one of 85:14 is 'contra mim'.",
+      "options": [
+        {"label": "sobre mim", "forms": {"superme": "sobre mim"}, "note": "Ruling: the Latin's preposition; as 32:22.", "from": "draft"},
+        {"label": "para comigo", "forms": {"superme": "para comigo"}, "note": "MS1932; DRB 'towards me'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "inferiori",
+      "refs": ["85:13"],
+      "latin": "ex inférno inferióri",
+      "kind": "word",
+      "why": "inférnus → inferno (row, open; kept, as 29:4 'tirastes do inferno a minha alma', a soul brought back). The comparative 'inferióri' (the Greek's superlative κατωτάτου): 'mais baixo' keeps the root and the direction, as 62:10 'as partes mais baixas da terra' (the inferióra row); Douay-Rheims 'the lower hell'. 'mais profundo' (MS1932) is the more usual phrase and turns lowness into depth. éruere with a source → arrancar (row).",
+      "options": [
+        {"label": "mais baixo", "forms": {"inferiori": "mais baixo"}, "note": "Ruling: the root of inferior, as 62:10; DRB 'lower'.", "from": "draft"},
+        {"label": "mais profundo", "forms": {"inferiori": "mais profundo"}, "note": "MS1932.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": ["85:14"],
+      "latin": "et non proposuérunt te in conspéctu suo",
+      "kind": "glossary",
+      "why": "85:14 is a near-twin of 53:5 ('et non proposuérunt Deum ante conspéctum suum' → 'e não puseram Deus diante da sua vista'); the insúrgere row asks that Ps 85 echo it. The Latin here has 'in conspéctu' where 53:5 has 'ante conspéctum'. The conspéctus row's 'à vista de' was heard by the Ps 79 stylist as 'in cash' with a third-person pronoun (79:10), which is this build. Ruled: 53:5's words, so that the twin is heard as one line; 'à sua vista' (the row) is the option.",
+      "options": [
+        {"label": "diante da sua vista", "forms": {"conspectu": "diante da sua vista"}, "note": "Ruling: 53:5's words.", "from": "glossary"},
+        {"label": "à sua vista", "forms": {"conspectu": "à sua vista"}, "note": "The conspéctus row's 'in conspéctu' → 'à vista de'; failed with a third-person pronoun at 79:10.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "ettu",
+      "refs": ["85:15"],
+      "latin": "Et tu, Dómine, Deus miserátor et miséricors",
+      "kind": "ambiguity",
+      "why": "The Latin has no verb: 85:15 is either a string of vocatives that runs into the imperative of 85:16 ('Réspice in me'), or a nominal sentence ('you are…'). Douay-Rheims and Matos Soares 1932 supply 'art / és'. D2 allows a copula, but here supplying one closes what the Latin leaves open, so the verse stays verbless and ends on a comma as the Latin does. 'E vós' for 'Et tu', not MS1932's 'Mas'.",
+      "options": [
+        {"label": "E vós, Senhor, (verbless)", "forms": {"ettu": "E vós, Senhor,"}, "note": "Ruling: verbless, as the Latin; both readings stay open.", "from": "draft"},
+        {"label": "E vós, Senhor, sois", "forms": {"ettu": "E vós, Senhor, sois"}, "note": "DRB 'art', MS1932 'és': the copula decides it is a statement.", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "miserator",
+      "refs": ["85:15"],
+      "latin": "miserátor et miséricors",
+      "kind": "glossary",
+      "why": "The pair recurs (102:8, 110:4, 111:4, 144:8; the first here). miséricors → misericordioso, the family of misericórdia. miserátor (οἰκτίρμων) → compassivo, the family of miseratiónes → compaixões (row; 24:6, 50:3b), so the Greek's two words stay two. Matos Soares 1932 has 'compassivo e clemente'. Proposed as a glossary row.",
+      "options": [
+        {"label": "compassivo", "forms": {"miserator": "compassivo"}, "note": "Ruling: the miseratiónes family; MS1932's first word.", "from": "MS1932"},
+        {"label": "clemente", "forms": {"miserator": "clemente"}, "note": "MS1932's second word; no root link to compaixões.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "imperium",
+      "refs": ["85:16"],
+      "latin": "da impérium tuum",
+      "kind": "word",
+      "why": "impérium (κράτος): command, authority, might (L&S). The only place in the psalms (grep). The cognate 'império' is heard first as 'empire'. 'poder' is Matos Soares 1932's word and the plainest; its cost is that 'poder' is the virtus row's word (δύναμις, a different Greek) — they do not meet in this psalm. 'domínio' keeps the sense of rule; Douay-Rheims 'command'.",
+      "options": [
+        {"label": "poder", "forms": {"imperium": "poder"}, "note": "Ruling: MS1932; plain.", "from": "MS1932"},
+        {"label": "domínio", "forms": {"imperium": "domínio"}, "note": "Keeps 'rule'; also heard as 'domain'.", "from": "draft"},
+        {"label": "império", "forms": {"imperium": "império"}, "note": "The cognate; heard as 'empire'.", "warn": true, "from": "draft"}
+      ]
+    },
+    {
+      "id": "puer",
+      "refs": ["85:16"],
+      "latin": "púero tuo",
+      "kind": "glossary",
+      "why": "púer (addressed to God) → servo (row, open, 68:18; παῖς). Here the psalm also has servus (δοῦλος) in 85:2 and 85:3, so the Greek's two words become one Portuguese word within the psalm, though not within a verse. Kept with the row: 'servo … serva' in the same colon gives the pair the Latin builds ('púero tuo … fílium ancíllæ tuæ'), and 'menino' was heard wrongly at 68:18. 'criado' would keep the words apart, but is a household word and dated.",
+      "options": [
+        {"label": "servo", "forms": {"puer": "servo"}, "note": "Ruling: the row (68:18); pairs with 'serva'.", "from": "glossary"},
+        {"label": "criado", "forms": {"puer": "criado"}, "note": "Keeps púer apart from servus (85:2, 3).", "from": "draft"},
+        {"label": "menino", "forms": {"puer": "menino"}, "note": "The word's first sense; heard wrongly at 68:18.", "warn": true, "from": "glossary"}
+      ]
+    },
+    {
+      "id": "signum",
+      "refs": ["85:17"],
+      "latin": "Fac mecum signum in bonum",
+      "kind": "word",
+      "why": "ποίησον μετ᾽ ἐμοῦ σημεῖον εἰς ἀγαθόν. The fácere cum row gives 'tratar' for a person treated; here there is an object, a sign, so the verb stays 'fazer' ('Fazei' is safe: past 'fiz'). 'comigo' keeps 'mecum'; 'para o bem' keeps 'in bonum'. Douay-Rheims 'Shew me a token for good'; Matos Soares 1932 'Opera em meu favor algum prodígio' (paraphrase). The same words open the Introit verse and Gradual of Quad3-5 (with 'Dómine' added), so the line must stand alone.",
+      "options": [
+        {"label": "Fazei comigo um sinal para o bem", "forms": {"signum": "Fazei comigo um sinal para o bem"}, "note": "Ruling: word for word.", "from": "draft"},
+        {"label": "Fazei em meu favor um sinal para o bem", "forms": {"signum": "Fazei em meu favor um sinal para o bem"}, "note": "MS1932's 'em meu favor': says what 'mecum' means here, at the cost of the word.", "from": "MS1932"},
+        {"label": "Mostrai-me um sinal para o bem", "forms": {"signum": "Mostrai-me um sinal para o bem"}, "note": "DRB 'Shew me'; another verb.", "from": "DRB"}
+      ]
+    }
+  ],
+  "choices": {
+    "85:1": "inclína aurem → inclinai … o vosso ouvido (formula row; no 'ad me' here, so no 'para mim'); exáudi me → escutai-me (D3; the enclitic makes it safe anyway). inops et pauper → carente e pobre (D38), 'porque eu sou' as 24:16 'porque eu sou só e pobre' (the same 'sum ego'). The missa texts of Quad3-5 and Pent16-0 (the latter with 'mihi') sing this verse alone.",
+    "85:2": "sanctus (ὅσιος) → santo (row). Matos Soares 1932 'porque sou santo' (his note glosses it as God's intimate); Douay-Rheims 'for I am holy'. The Hebrew's 'faithful/devout' is not imported (rule 1).",
+    "85:3": "DO joins Vulgate 3 and 4 in one prayed verse with one mediant. Latin perfect 'clamávi' kept (the Greek has a future, κεκράξομαι). 'a vós clamei … a vós, Senhor, levantei' keeps the Latin's twice-fronted 'ad te'. The second half is the formula of 24:1 'A vós, Senhor, levantei a minha alma'. tota die → o dia todo (D24). lætificáre → alegrar (row). Long verse, as the Latin.",
+    "85:5": "'Quóniam tu' → 'Porque vós' (the pronoun kept). mitis → manso (mansuétus / mitis row; the Greek here is ἐπιεικής, not πραΰς). 85:12 + 85:5 are the Offertory of Nat2-0.",
+    "85:6": "D4 (áuribus pércipe → dar ouvidos a; its row names 85:6), D3 (inténde → atendei), D35 (deprecátio → prece). 'a voz da minha prece' as 27:6 and 65:19.",
+    "85:7": "quia exaudísti me → porque me escutastes, as 16:6 'Eu clamei, porque me escutastes, Deus' (the same Latin, the same odd causality: the psalmist cries because he has been heard). Matos Soares 1932 inserts '(sempre)'; not taken.",
+    "85:8": "'in diis' → 'entre os deuses' (as 81:6 'Sois deuses', 49:1 'o Deus dos deuses'). 'Não há semelhante a vós' as 70:19 'quem é semelhante a vós?'",
+    "85:9": "'quascúmque fecísti' → 'que fizestes' (fácere kept; MS1932 'criaste' is creáre's). coram te → diante de vós. The first colon is also a responsory (Pent02-5: 'Omnes gentes quascúmque fecísti, vénient').",
+    "85:10": "'fáciens mirabília' → 'e fazeis maravilhas', the participle made a finite verb beside 'sois' (76:14 'que fazeis maravilhas').",
+    "85:11": "ingrédi (walking) → andar (row; πορεύσομαι). lætári → alegrar-se, jussive 'alegre-se'.",
+    "85:12": "Copies 9:2 'Eu vos darei graças, Senhor, de todo o meu coração' with 'meu Deus' added (the Dómine, Deus meus formula → Senhor, meu Deus). confitéri → dar graças (D5); in ætérnum → para sempre (D23). The Latin's closing colon kept.",
+    "85:13": "éruere with a source → arrancar (row; 21:21, 38:9).",
+    "85:14": "Near-twin of 53:5: insúrgere super → se levantaram contra (row; hostile 'super me' → 'contra mim', as Ps 34). iníqui → os iníquos (26:12 'testemunhas iníquas'). synagóga → congregação (row, 7:7b, 81:1). quæsiérunt ánimam meam → buscaram a minha alma (53:5; ánima row: 'alma' kept, 'vida' the option there). The Latin's plural verb after the collective 'synagóga' is made singular ('buscou') — grammar (D2). 'puseram' is plural, the iníqui and the synagoga together. poténtes → os poderosos (κραταιῶν), kept apart from 53:5's 'fortes'.",
+    "85:15": "pátiens → paciente (row); verax → verdadeiro (ἀληθινός; DRB 'true', MS1932 'verdadeiro'); proposed as a row. 'misericordioso … misericórdia' repeats the root as the Latin's 'miséricors … misericórdiæ' does.",
+    "85:16": "Réspice in me, et miserére mei → Olhai para mim, e tende piedade de mim (formula, 24:16). ancílla → serva (the word of Lk 1:38 in Brazilian use; MS1932 'escrava').",
+    "85:17": "odérunt (present sense) → odeiam (odísse row). confúndi → ser envergonhado (D15). adjuváre → auxiliar (row); consolári → consolar. The whole verse is the Introit verse / Gradual of Quad3-5 (with 'Dómine' added after 'mecum'); each colon stands alone."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps085.md (no Diurnal: Ps 85 is not in the day hours). DO's Portuguese not used (D12). Formulas followed: inclína aurem (16:6), Ad te Dómine levávi ánimam meam (24:1), Réspice in me et miserére mei (24:16), Confitébor tibi … in toto corde meo (9:2), 53:5 (the twin of 85:14), 16:6 'porque me escutastes', 16:7 'que esperam em vós'. Settled words: D3, D4, D5, D22, D23, D24, D35, D38. Liturgical texts that read alone, checked by grep of content/do: 85:2b (Preces 'Salvos fac servos tuos … sperántes in te', Quad1-5 gradual), 85:1 (Introit Quad3-5; Pent16-0 with 'mihi'), 85:1–3 (Pent15-0 gradual, with 'ad me' and 'mihi'), 85:9a (responsory Pent02-5), 85:12 + 85:5 (Offertory Nat2-0), 85:17 (Quad3-5 Introit verse and Gradual). Hard readings: 85:8 'non est secúndum ópera tua', 85:11 'ut tímeat', 85:13 'inférno inferióri', 85:15 verbless, 85:16 'impérium' and 'púero'."},
+    {"step": "checks", "note": "Hard pass. Soft, all accepted: 85:6 −4 / −3 (D4's 'dai ouvidos' and D35's 'prece' are shorter than the Latin; the formula as 5:2, 16:1b); 85:10 first colon −3 (Portuguese finite verbs are shorter than 'fáciens mirabília'); 85:11 second colon +5 ('para que' for 'ut', articles and possessives; the option 'em temer' is one shorter); 85:15 second colon +4 ('de muita misericórdia, e verdadeiro' against 'multæ misericórdiæ, et verax'); 85:17 first colon +9 — the Latin's words each need more syllables in Portuguese ('Fazei comigo um sinal para o bem' 10 against 7; D15's 'sejam envergonhados' 7 against 5); a shorter line would have to drop a word the Latin has, and the colon is long in the Latin too (22). No rhyme flag."}
+  ]
+}

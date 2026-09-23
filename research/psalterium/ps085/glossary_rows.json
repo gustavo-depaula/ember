@@ -1,0 +1,73 @@
+{
+  "append": [
+    {
+      "row": "| inops / pauper / egénus |",
+      "text": "**Ps 85:1 *quóniam inops, et pauper sum ego* → *porque eu sou carente e pobre*** (the ruling). Evidence against it: the stylist (*necessitado e pobre*, refused under D38) and the ambiguity reader both heard *carente* as emotional neediness first; the ambiguity reader listed its material sense as unknown. Two readers in one psalm — worth Gustavo's look at D38."
+    },
+    {
+      "row": "| insúrgere in / advérsum |",
+      "text": "**Ps 85:14 done as the twin of 53:5:** *Deus, os iníquos se levantaram contra mim, e a congregação dos poderosos buscou a minha alma: * e não vos puseram diante da sua vista*. The ambiguity reader listed *iníquos* unknown; kept (the Latin's word)."
+    },
+    {
+      "row": "| conspéctus, *ante conspéctum suum* |",
+      "text": "Ps 85:14 *et non proposuérunt te in conspéctu suo* → *e não vos puseram diante da sua vista* (53:5's words). The stylist called it a calque and asked *diante dos seus olhos* — refused, *olho* is *óculus*'s and 53:5 is the twin; an option in Ps 85's `conspectu`."
+    },
+    {
+      "row": "| púer (servant, addressed to God) |",
+      "text": "**Ps 85:16 *da impérium tuum púero tuo* → *dai o vosso domínio ao vosso servo*** — here servus (85:2, 85:3) and púer do meet in one psalm, not in one verse. The Latinist asked *criado* (v1) and *menino* (v2), both minor, both held: *servo … serva* pairs with *fílium ancíllæ tuæ* in one colon; *criado* is also heard as 'created'. Options 2 and 3 in Ps 85's `puer`."
+    },
+    {
+      "row": "| suávis |",
+      "text": "Ps 85:5 *Quóniam tu, Dómine, suávis, et mitis* → *Porque vós, Senhor, sois suave e manso*. The ambiguity reader heard 'gentle' first, 'soft, bland' second, 'somewhat vague'; kept."
+    },
+    {
+      "row": "| mansuétus / mitis |",
+      "text": "Ps 85:5 *mitis* → *manso*, as named; no reader remarked."
+    },
+    {
+      "row": "| lætificáre |",
+      "text": "Ps 85:3 *Lætífica ánimam servi tui* → *alegrai a alma do vosso servo*, as named."
+    },
+    {
+      "row": "| éruere |",
+      "text": "Ps 85:13 *eruísti ánimam meam ex inférno inferióri* → *arrancastes a minha alma do inferno mais profundo*, with its source, as named."
+    },
+    {
+      "row": "| inférnus / ínferi |",
+      "text": "**Ps 85:13 *ex inférno inferióri* → *do inferno mais profundo*** (v1 *mais baixo*; *mais profundo* the stylist's). The ambiguity reader again heard the hell of the damned first; kept, the Latin's word."
+    },
+    {
+      "row": "| synagóga |",
+      "text": "Ps 85:14 *synagóga poténtium* → *a congregação dos poderosos*; the ambiguity reader heard a band of powerful men, with a religious body behind it; kept."
+    },
+    {
+      "row": "| sanctus (ὅσιος) |",
+      "text": "Ps 85:2 *quóniam sanctus sum* → *porque sou santo*; the ambiguity reader heard a boast of sanctity (*presumptuous*); kept, the Latin's claim (ὅσιος, devoted); the Latinist passed it."
+    },
+    {
+      "row": "| fácere cum (+ person) |",
+      "text": "**Ps 85:17 → *Fazei comigo um sinal para o bem*** — *fazer* kept, because the object is *signum*, not a manner (*tratar* would lose the sign). *in bonum* → *para o bem*, as 118:122. The stylist asked *um sinal de bem* (an option); the ambiguity reader heard 'a good sign' first."
+    },
+    {
+      "row": "| *inclína (ad me) aurem tuam (mihi)* (16:6;",
+      "text": "Ps 85:1 *Inclína, Dómine, aurem tuam, et exáudi me* → *Inclinai, Senhor, o vosso ouvido, e escutai-me* — no reader remarked."
+    },
+    {
+      "row": "| *Ad te, Dómine, levávi ánimam meam* (24:1;",
+      "text": "Ps 85:3b → *porque a vós, Senhor, levantei a minha alma* — followed."
+    },
+    {
+      "row": "| *Réspice in me, et miserére mei* (24:16;",
+      "text": "Ps 85:16a → *Olhai para mim, e tende piedade de mim* — followed."
+    }
+  ],
+  "terms": [
+    "| miserátor et miséricors | compassivo e misericordioso (*Deus compassivo e misericordioso*) | open | Ps 85:15 (οἰκτίρμων καὶ ἐλεήμων); the pair returns at 102:8, 110:4, 111:4, 144:8 (grep) — copy it. *miserátor* is kept apart from *miséricors* (misericórdia's adjective) by *compassivo*; no reader remarked. |",
+    "| multæ misericórdiæ (genitive of quality) | de muita misericórdia | open | Ps 85:5, 85:15 (πολυέλεος). The genitive kept as *de* + noun; 102:8, 144:8 have *multum miséricors* (a different Latin) — do not copy blindly. |",
+    "| verax | verdadeiro | open | Ps 85:15 (ἀληθινός); only here in the psalter (grep). |",
+    "| impérium | domínio (*dai o vosso domínio ao vosso servo*) | open | Ps 85:16 (κράτος); only here in the psalms (canticles 2:16, 9:7, 29:12, 45:29 — grep). v1 *poder* was *potéstas*'s territory; the Latinist asked *império* — refused, heard as 'empire'; the ambiguity reader heard 'give strength' for *poder*. |"
+  ],
+  "formulas": [
+    "| *Salvum fac servum tuum, Deus meus, sperántem in te* (85:2b; the Preces: *V. Salvos fac servos tuos. R. Deus meus, sperántes in te*, and *R. Salvos fac servos tuos, Deus meus, sperántes in te* — Special/Preces.txt) · *Inclína, Dómine, aurem tuam, et exáudi me: quóniam inops et pauper sum ego* (85:1; Introit Quad3-5; Pent16-0 with *mihi*; the gradual Pent15-0 is 85:1–3) · *Fac mecum, Dómine, signum in bonum: ut vídeant, qui me odérunt, et confundántur: quóniam tu, Dómine, adjuvísti me, et consolátus es me* (85:17 with *Dómine* added; Quad3-5 — grep) · 85:12 + 85:5 (Offertory Nat2-0) | *salvai o vosso servo, meu Deus, que espera em vós* (plural in the Preces: *V. Salvai os vossos servos. R. Meu Deus, que esperam em vós*); *Inclinai, Senhor, o vosso ouvido, e escutai-me: * porque eu sou carente e pobre*; *Fazei comigo, Senhor, um sinal para o bem: para que vejam os que me odeiam, e sejam envergonhados: porque vós, Senhor, me auxiliastes e me consolastes* | open — Ps 85. 85:2b keeps the Latin's order (object, vocative, participle) so the Preces' split *Salvos fac servos tuos. R. Deus meus, sperántes in te* falls on a phrase boundary; *que espera(m) em vós* is 16:7's. |"
+  ]
+}

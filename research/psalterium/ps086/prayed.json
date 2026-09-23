@@ -1,0 +1,709 @@
+{
+  "psalm": 86,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "86:1": "{ejus} {inmontibus} montes santos: * o Senhor ama as portas de Sião {super} todas as tendas de Jacó.",
+    "86:3": "Coisas gloriosas {dicta} de ti, * {civitas} de Deus.",
+    "86:4": "{memor} de Raab e de Babilônia, * {scientium}.",
+    "86:4b": "Eis os estrangeiros, e Tiro, e {aethiopum}, * estes ali {fuerunt}.",
+    "86:5": "{numquid}: {homo}: * e {ipse}?",
+    "86:6": "O Senhor narrará {scripturis} {populorum}: * {horum} {fuerunt6} nela.",
+    "86:7": "{sicut} todos os que se alegram * é a {habitatio} em ti."
+  },
+  "decisions": [
+    {
+      "id": "ejus",
+      "refs": [
+        "86:1"
+      ],
+      "latin": "Fundaménta ejus",
+      "kind": "ambiguity",
+      "why": "The psalm opens with a pronoun that has nothing before it: whose foundations? The city named in 86:3, or the Lord named in the same verse (αὐτοῦ, masculine or neuter; the Hebrew is 'his foundation'). Portuguese 'seus' is as open as 'ejus'; 'dela' would decide for the city.",
+      "options": [
+        {
+          "label": "Os seus fundamentos",
+          "forms": {
+            "ejus": "Os seus fundamentos"
+          },
+          "note": "Ruling: as open as the Latin. MS1932 has the same words.",
+          "from": "draft"
+        },
+        {
+          "label": "Os fundamentos dela",
+          "forms": {
+            "ejus": "Os fundamentos dela"
+          },
+          "note": "Decides for the city, which the Latin does not. Refused (rule 2).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inmontibus",
+      "refs": [
+        "86:1"
+      ],
+      "latin": "in móntibus sanctis",
+      "kind": "grammar",
+      "why": "The Latin colon has no verb. Portuguese needs a copula (D2 allows one) or a comma that leaves the colon hanging. 'in' is 'in, on': MS1932 'sobre os montes' says the city stands on them; 'nos montes' is the Latin's own preposition. The colon also opens the Matins antiphon 'Fundaménta ejus * in móntibus sanctis' and must stand alone.",
+      "options": [
+        {
+          "label": "estão nos",
+          "forms": {
+            "inmontibus": "estão nos"
+          },
+          "note": "Ruling: copula supplied; 'in' kept as 'em'. mons sanctus → monte santo (row, adjective after).",
+          "from": "draft"
+        },
+        {
+          "label": "estão sobre os",
+          "forms": {
+            "inmontibus": "estão sobre os"
+          },
+          "note": "MS1932: the picture of the city on the hills made explicit.",
+          "from": "MS1932"
+        },
+        {
+          "label": "(no verb) nos",
+          "forms": {
+            "inmontibus": "nos"
+          },
+          "note": "Verbless, as the Latin: 'Os seus fundamentos nos montes santos' — heard as a fragment.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "86:1"
+      ],
+      "latin": "super ómnia tabernácula Jacob",
+      "kind": "word",
+      "why": "super + accusative after a verb of loving is 'more than, above' (DRB 'above'; MS1932 'mais que'; ὑπέρ). 'sobre todas' keeps the Latin's preposition and the catechism's 'amar a Deus sobre todas as coisas', but after 'portas' it can be heard as a place ('gates over the tents'). tabernáculum → tenda (row).",
+      "options": [
+        {
+          "label": "mais que",
+          "forms": {
+            "super": "mais que"
+          },
+          "note": "Ruling: the comparison said plainly; MS1932's words.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobre",
+          "forms": {
+            "super": "sobre"
+          },
+          "note": "The Latin's preposition and the catechism's idiom; risk of a spatial hearing.",
+          "from": "draft"
+        },
+        {
+          "label": "acima de",
+          "forms": {
+            "super": "acima de"
+          },
+          "note": "DRB 'above'; one syllable more, the spatial hearing too.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "dicta",
+      "refs": [
+        "86:3"
+      ],
+      "latin": "Gloriósa dicta sunt de te",
+      "kind": "grammar",
+      "why": "The Latin perfect passive (ἐλαλήθη, aorist). DRB turns it into a present ('are said'), MS1932 a present perfect ('se têm dito'). The perfect is kept: what was said of the city was said. The colon opens the Immaculate Conception antiphon 'Gloriósa * dicta sunt de te, cívitas Dei'. Three syllables over the Latin, accepted: every sayable wording is as long.",
+      "options": [
+        {
+          "label": "foram ditas",
+          "forms": {
+            "dicta": "foram ditas"
+          },
+          "note": "Ruling: the Latin's tense and voice.",
+          "from": "draft"
+        },
+        {
+          "label": "se dizem",
+          "forms": {
+            "dicta": "se dizem"
+          },
+          "note": "DRB's present; shorter by one syllable; drops the perfect.",
+          "from": "DRB"
+        },
+        {
+          "label": "se têm dito",
+          "forms": {
+            "dicta": "se têm dito"
+          },
+          "note": "MS1932's present perfect; bookish in Brazil.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "civitas",
+      "refs": [
+        "86:3"
+      ],
+      "latin": "cívitas Dei",
+      "kind": "grammar",
+      "why": "A vocative: the city is addressed (de te), as a singular addressee, so tu (rule 3; 86:7 'em ti' too). The glossary's rule is no 'ó' unless the Latin has 'o'; MS1932 adds it.",
+      "options": [
+        {
+          "label": "cidade",
+          "forms": {
+            "civitas": "cidade"
+          },
+          "note": "Ruling: the bare vocative, as the Latin and the glossary.",
+          "from": "glossary"
+        },
+        {
+          "label": "ó cidade",
+          "forms": {
+            "civitas": "ó cidade"
+          },
+          "note": "MS1932; marks the vocative for the ear at the head of a colon.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "memor",
+      "refs": [
+        "86:4"
+      ],
+      "latin": "Memor ero",
+      "kind": "order",
+      "why": "memor esse → lembrar-se de (row). Who speaks is not said (MS1932's note: God). The future kept. Brazilian speech puts the pronoun before the verb once a subject stands first; 'Lembrar-me-ei' (MS1932) is the mesoclisis the style rules allow only where it reads naturally, and at the head of a verse it is formal.",
+      "options": [
+        {
+          "label": "Eu me lembrarei",
+          "forms": {
+            "memor": "Eu me lembrarei"
+          },
+          "note": "Ruling: the subject hidden in the Latin ending named (D2), the natural order after it.",
+          "from": "draft"
+        },
+        {
+          "label": "Lembrar-me-ei",
+          "forms": {
+            "memor": "Lembrar-me-ei"
+          },
+          "note": "MS1932; the mesoclisis; one syllable less.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scientium",
+      "refs": [
+        "86:4"
+      ],
+      "latin": "sciéntium me",
+      "kind": "grammar",
+      "why": "The Latin genitive plural agrees with Rahab and Babylon, taken as peoples: 'of Rahab and Babylon, who know me' (DRB 'Babylon knowing me'; MS1932 'que me conhecem'). The Greek has a dative, τοῖς γινώσκουσίν με, 'to those who know me' — rule 1: the Latin is followed. scire → conhecer (row; 68:6 'vós conheceis').",
+      "options": [
+        {
+          "label": "que me conhecem",
+          "forms": {
+            "scientium": "que me conhecem"
+          },
+          "note": "Ruling: the Latin's construction; MS1932's words.",
+          "from": "MS1932"
+        },
+        {
+          "label": "entre os que me conhecem",
+          "forms": {
+            "scientium": "entre os que me conhecem"
+          },
+          "note": "The Greek's dative read as 'among' — not the Latin's syntax. Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aethiopum",
+      "refs": [
+        "86:4b"
+      ],
+      "latin": "pópulus Æthíopum",
+      "kind": "glossary",
+      "why": "Æthíopes → Etiópia (row, Ps 73:14 'aos povos da Etiópia', moved there from 'dos etíopes' for the cadence: the stylist heard a clipped proparoxytone close). Here the word stands before the asterisk. alienígenæ → estrangeiros (row; 82:8 follows it); Tyrus → Tiro (MS1932's form, as the Ps 82 names row).",
+      "options": [
+        {
+          "label": "o povo da Etiópia",
+          "forms": {
+            "aethiopum": "o povo da Etiópia"
+          },
+          "note": "Ruling: the row, as 73:14.",
+          "from": "glossary"
+        },
+        {
+          "label": "o povo dos etíopes",
+          "forms": {
+            "aethiopum": "o povo dos etíopes"
+          },
+          "note": "MS1932; the Latin's people-name; proparoxytone at the mediant.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fuerunt",
+      "refs": [
+        "86:4b",
+        "86:6"
+      ],
+      "latin": "hi fuérunt illic · qui fuérunt in ea",
+      "kind": "word",
+      "why": "The same verb twice, closing 86:4b and 86:6, and the Portuguese keeps it one. The Greek has ἐγενήθησαν / γεγενημένων ('came to be, were born') and the Hebrew 'was born there' — MS1932's note says so; the Latin says only 'were'. Rule 1: 'estiveram' (were there), not 'nasceram'. MS1932 turns 86:4b into a future ('estarão lá'), DRB keeps 'were there'. illic → ali (13:5).",
+      "options": [
+        {
+          "label": "estiveram",
+          "forms": {
+            "fuerunt": "estiveram",
+            "fuerunt6": "estiveram"
+          },
+          "note": "Ruling: the Latin's verb and tense, one word in both verses; DRB 'were there', 'have been in her'.",
+          "from": "draft"
+        },
+        {
+          "label": "nasceram",
+          "forms": {
+            "fuerunt": "nasceram",
+            "fuerunt6": "nasceram"
+          },
+          "note": "The Greek and the Hebrew; says what 86:5 says ('natus est'). Refused (rule 1).",
+          "from": "draft"
+        },
+        {
+          "label": "estarão / estiveram",
+          "forms": {
+            "fuerunt": "estarão",
+            "fuerunt6": "estiveram"
+          },
+          "note": "MS1932's future in 86:4b — a gloss (the conversion of the nations), not the Latin's tense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "numquid",
+      "refs": [
+        "86:5"
+      ],
+      "latin": "Numquid Sion dicet",
+      "kind": "ambiguity",
+      "why": "The Latin read the Greek μήτηρ Σιων ('mother Sion') as μή τῇ, and so asks a question with numquid, which classically expects 'no'. DRB ('Shall not Sion say') and MS1932 ('Porventura não se dirá a Sião') turn it into a question expecting 'yes', adding 'not'. numquid → acaso (row, open; 7:12, 49:13, 76:8). The question is the Latin's and is kept as the Latin has it; the 'não' of the two witnesses resolves it and is the option.",
+      "options": [
+        {
+          "label": "Acaso Sião dirá",
+          "forms": {
+            "numquid": "Acaso Sião dirá"
+          },
+          "note": "Ruling: the row, the Latin's question unresolved.",
+          "from": "glossary"
+        },
+        {
+          "label": "Acaso não dirá Sião",
+          "forms": {
+            "numquid": "Acaso não dirá Sião"
+          },
+          "note": "DRB and MS1932 both add 'not': the sense of the surrounding verses, at the cost of a word the Latin lacks.",
+          "from": "DRB"
+        },
+        {
+          "label": "Porventura Sião dirá",
+          "forms": {
+            "numquid": "Porventura Sião dirá"
+          },
+          "note": "MS1932's particle; the row keeps 'acaso'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "homo",
+      "refs": [
+        "86:5"
+      ],
+      "latin": "Homo, et homo natus est in ea",
+      "kind": "grammar",
+      "why": "The doubled 'homo' is the Latin's (ἄνθρωπος καὶ ἄνθρωπος, the Hebrew 'a man and a man' = each one), and it stays (rule 2); MS1932's 'um grande número de homens' explains it away. The verb is singular. Portuguese will not put a singular verb after two subjects without strain, but takes it after them when the verb comes first; so the order yields, the number stays.",
+      "options": [
+        {
+          "label": "Nasceu nela um homem e outro homem",
+          "forms": {
+            "homo": "Nasceu nela um homem e outro homem"
+          },
+          "note": "Ruling: both 'homem', the singular verb, the verb first.",
+          "from": "draft"
+        },
+        {
+          "label": "Nasceu nela homem e homem",
+          "forms": {
+            "homo": "Nasceu nela homem e homem"
+          },
+          "note": "The v2 Latinist's (minor): the bare repetition, no 'um … outro'. Held as an option: a Portuguese subject of two bare singular nouns with no determiner is barely a sentence, and 'um … outro' is the least Portuguese needs (grammar, D2); every Vulgate witness supplies something (DRB 'this man and that man').",
+          "from": "latinist"
+        },
+        {
+          "label": "Um homem e outro homem nasceram nela",
+          "forms": {
+            "homo": "Um homem e outro homem nasceram nela"
+          },
+          "note": "The Latin's order; the verb made plural (number is grammar, D2) — but the plural sounds like two particular men.",
+          "from": "draft"
+        },
+        {
+          "label": "Este homem e aquele homem nasceu nela",
+          "forms": {
+            "homo": "Este homem e aquele homem nasceu nela"
+          },
+          "note": "DRB 'This man and that man is born in her'; adds the demonstratives.",
+          "from": "DRB"
+        },
+        {
+          "label": "Um grande número de homens nasceu nela",
+          "forms": {
+            "homo": "Um grande número de homens nasceu nela"
+          },
+          "note": "MS1932; paraphrase, the repetition lost. Refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipse",
+      "refs": [
+        "86:5"
+      ],
+      "latin": "et ipse fundávit eam Altíssimus",
+      "kind": "order",
+      "why": "The Latin holds the name to the end ('and he himself founded her, the Most High'). At the end of a Portuguese verse 'Altíssimo' is a proparoxytone close, which the pointing rules avoid (7:18 moved it for the same reason). fundáre → fundar (row); it echoes 'fundamentos' of 86:1, as the Latin does.",
+      "options": [
+        {
+          "label": "o próprio Altíssimo a fundou",
+          "forms": {
+            "ipse": "o próprio Altíssimo a fundou"
+          },
+          "note": "Ruling: ipse joined to its noun; closes on an oxytone. DRB 'the Highest himself hath founded her', MS1932 'o mesmo Altíssimo a fundou'.",
+          "from": "draft"
+        },
+        {
+          "label": "ele mesmo a fundou, o Altíssimo",
+          "forms": {
+            "ipse": "ele mesmo a fundou, o Altíssimo"
+          },
+          "note": "The Latin's order; ends on a proparoxytone.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "scripturis",
+      "refs": [
+        "86:6"
+      ],
+      "latin": "in scriptúris populórum",
+      "kind": "word",
+      "why": "scriptúra is 'a writing' (L&S), here a register of peoples (ἐν γραφῇ, singular in the Greek). 'escrituras' is the Latin's word and number; a Brazilian ear hears the Scriptures in it, which the Latin word also carries in the Church's mouth, and which the Fathers read here. 'escritos' is plainer; MS1932 'no registo' interprets the book as a census.",
+      "options": [
+        {
+          "label": "nas escrituras",
+          "forms": {
+            "scripturis": "nas escrituras"
+          },
+          "note": "Ruling: the Latin's word and plural.",
+          "from": "draft"
+        },
+        {
+          "label": "nos escritos",
+          "forms": {
+            "scripturis": "nos escritos"
+          },
+          "note": "The plain noun, without the Scriptures overtone.",
+          "from": "draft"
+        },
+        {
+          "label": "no registro",
+          "forms": {
+            "scripturis": "no registro"
+          },
+          "note": "MS1932's sense ('registo'); interprets.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "populorum",
+      "refs": [
+        "86:6"
+      ],
+      "latin": "populórum, et príncipum",
+      "kind": "order",
+      "why": "The stylist asked to swap the pair so the mediant does not fall on the proparoxytone 'príncipes'. Refused: the order of the list is the Latin's, and 'príncipum' stands next to 'horum, qui fuérunt in ea' across the asterisk — in the Greek τούτων belongs to the rulers, so moving them away weakens the one reading the Greek makes plain. The Latin's mediant is a proparoxytone too.",
+      "options": [
+        {
+          "label": "dos povos e dos príncipes",
+          "forms": {
+            "populorum": "dos povos e dos príncipes"
+          },
+          "note": "Ruling: the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "dos príncipes e dos povos",
+          "forms": {
+            "populorum": "dos príncipes e dos povos"
+          },
+          "note": "The stylist: an oxytone-free paroxytone mediant; the list reversed.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "horum",
+      "refs": [
+        "86:6"
+      ],
+      "latin": "horum, qui fuérunt in ea",
+      "kind": "ambiguity",
+      "why": "A third genitive after the asterisk: 'of these, who were in her' — either in apposition to the princes (the Greek: τούτων τῶν γεγενημένων, 'of these rulers who were born in her') or a new group the Lord recounts. The comma and the demonstrative keep both readings, as the Latin does. MS1932 supplies 'o número daqueles', a noun the Latin lacks.",
+      "options": [
+        {
+          "label": "daqueles que",
+          "forms": {
+            "horum": "daqueles que"
+          },
+          "note": "Ruling (v2): the stylist's request — 'destes' after a comma hung loose, and the ambiguity reader heard an unclear fragment. Both readings (apposition to the princes, or a new group) survive. Cost: 'these' becomes 'those'. DRB 'of them that'.",
+          "from": "stylist"
+        },
+        {
+          "label": "destes, que",
+          "forms": {
+            "horum": "destes, que"
+          },
+          "note": "Draft 1: 'hic' as 'este', the relative after a comma; heard as Latin carried over.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sicut",
+      "refs": [
+        "86:7"
+      ],
+      "latin": "Sicut lætántium ómnium * habitátio est in te",
+      "kind": "grammar",
+      "why": "'As (the dwelling) of all who rejoice is the dwelling in thee' (DRB 'The dwelling in thee is as it were of all rejoicing'). Portuguese needs the pronoun 'a' (that of) to carry the comparison; the Latin's order is kept, so that the first colon still opens the Marian antiphon 'Sicut lætántium * ómnium nostrum habitátio est in te'. MS1932's 'Estão cheios de alegria todos os que habitam dentro de ti' paraphrases (refused). lætári → alegrar-se (row).",
+      "options": [
+        {
+          "label": "Como de",
+          "forms": {
+            "sicut": "Como de"
+          },
+          "note": "Ruling (v2): the stylist's; no supplied pronoun, as the Latin. Read as Portuguese 'é de' (belongs to): the dwelling in thee is as the dwelling of all who rejoice. One syllable shorter.",
+          "from": "stylist"
+        },
+        {
+          "label": "Como a de",
+          "forms": {
+            "sicut": "Como a de"
+          },
+          "note": "Draft 1: the supplied pronoun 'a'; the stylist and the ambiguity reader both heard a word missing before anything was named.",
+          "from": "draft"
+        },
+        {
+          "label": "Como a morada de",
+          "forms": {
+            "sicut": "Como a morada de"
+          },
+          "note": "The implied noun supplied; says the dwelling twice.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "habitatio",
+      "refs": [
+        "86:7"
+      ],
+      "latin": "habitátio",
+      "kind": "glossary",
+      "why": "habitátio → habitação (row, open; 75:3, 68:26), kept apart from habitáculum → morada (D44). Here it is the dwelling in the city — of those who live in her; the row's word serves.",
+      "options": [
+        {
+          "label": "habitação",
+          "forms": {
+            "habitatio": "habitação"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "morada",
+          "forms": {
+            "habitatio": "morada"
+          },
+          "note": "The stylist's request (v1): plainer. Refused: morada is habitáculum's (D44), and the habitátio row keeps habitação.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "86:1": "mons sanctus → monte santo (row, adjective after); tabernáculum → tenda (row); Jacob → Jacó; Sion → Sião. The pointing has one mark; the second colon is long, as the Latin's is.",
+    "86:3": "The city is addressed as tu (rule 3); 86:7 'em ti' agrees. Checks: first colon +3 syllables, accepted (see decision dicta).",
+    "86:4": "Rahab → Raab and Babylon → Babilônia (MS1932's forms, the Ps 82 names row's rule). Who speaks is left unsaid, as the Latin leaves it. Checks: first colon +3 syllables with 'Eu me lembrarei' (+2 with the mesoclisis); accepted — the two names and their prepositions cannot be shortened.",
+    "86:4b": "The polysyndeton 'e … e' kept; 'Eis' for ecce (row). v2: 'estes ali estiveram' (the stylist's order, keeping ali for illic as 13:5): 'estes estiveram' ran es-tes es-ti- together before the cadence.",
+    "86:5": "The echo fundaménta (86:1) / fundávit kept in 'fundamentos' / 'fundou'. The quotation mark is the colon, as the Latin prints it; where the quotation ends is left to the Latin's punctuation. The ambiguity reader heard 'Acaso Sião dirá' as a question expecting 'no', which inverts the sense of the verses around it — the known cost of the numquid row (7:12), sharper here; the Latin's numquid has the same formal lean. Held; 'Acaso não dirá Sião' (DRB, MS1932) is option 2 — for Gustavo. He also heard 'um homem e outro homem' as two particular men: the Latin's image, as DRB's 'this man and that man'; kept.",
+    "86:6": "narráre → narrar (row). pópuli → povos (row). Checks: the mediant closes on the proparoxytone 'príncipes', as the Latin's 'príncipum' does; accepted rather than reorder the pair.",
+    "86:7": "lætári → alegrar-se (row). Checks: first colon +3 syllables, the price of 'os que se alegram' for one participle; accepted."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps086.md (no Diurnal: a Matins psalm). Hard readings: 86:5 numquid (the Latin's misreading of μήτηρ, kept), 86:5 homo et homo with a singular verb, 86:4 sciéntium me (genitive, against the Greek's dative), 86:4b/86:6 fuérunt (not 'born', against the Greek and Hebrew), 86:7 the elliptical comparison. Liturgical uses found by grep in content/do: Matins antiphon 'Fundaménta ejus * in móntibus sanctis' (Psalmi matutinum), 'Gloriósa * dicta sunt de te, cívitas Dei' (12-08, Aparecida), 'Sicut lætántium * ómnium (nostrum) habitátio est in te' (Marian antiphon and versicle: C11, 08-15t, 05-31, 02-11); each first colon reads alone."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: +3 syllables at the first colon of 86:3, 86:4, 86:7 (accepted, reasons in choices); 86:6 proparoxytone mediant mirrors the Latin."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. No remarks: the copula, the genitives of 86:4 and 86:7, the doubled homo and the tenses all passed.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Five remarks; best line 86:3, worst 86:7. Three taken (86:4b order, 86:6 daqueles, 86:7 Como de), two refused and kept as options.",
+      "outcomes": [
+        {
+          "verse": "86:4b",
+          "remark": "estes estiveram ali: es-tes es-ti- run together; 'estes lá estiveram'",
+          "outcome": "taken",
+          "reason": "Order taken; 'ali' kept for illic (13:5) rather than 'lá'."
+        },
+        {
+          "verse": "86:6",
+          "remark": "proparoxytone mediant 'príncipes'; swap to 'dos príncipes e dos povos'",
+          "outcome": "option",
+          "decision": "populorum",
+          "reason": "The Latin's order and mediant; 'príncipum' next to 'horum' keeps the Greek's reading."
+        },
+        {
+          "verse": "86:6",
+          "remark": "'destes' hangs loose; 'daqueles que'",
+          "outcome": "taken",
+          "decision": "horum"
+        },
+        {
+          "verse": "86:7",
+          "remark": "'Como a de' sounds like a missing word; 'Como de'",
+          "outcome": "taken",
+          "decision": "sicut"
+        },
+        {
+          "verse": "86:7",
+          "remark": "'habitação' bureaucratic; 'morada'",
+          "outcome": "option",
+          "decision": "habitatio",
+          "reason": "morada is habitáculum's (D44); the habitátio row keeps habitação."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. Sixteen readings; unknown: Raab, Tiro, Sião (proper names, kept). Most are the Latin's own openness (whose foundations, who speaks in 86:4, where 'ali' is, what 'escrituras' are).",
+      "outcomes": [
+        {
+          "verse": "86:1",
+          "remark": "'Os seus fundamentos' heard as the Lord's",
+          "outcome": "refused",
+          "decision": "ejus",
+          "reason": "The Latin's ejus is as open; 'dela' would decide."
+        },
+        {
+          "verse": "86:1",
+          "remark": "'tendas de Jacó' heard as literal tents",
+          "outcome": "refused",
+          "reason": "The Latin's image (tabernáculum → tenda, row)."
+        },
+        {
+          "verse": "86:4",
+          "remark": "speaker of 'Eu me lembrarei' unclear; 'que me conhecem' unclear",
+          "outcome": "refused",
+          "reason": "The Latin does not name the speaker; the genitive agrees with the names as the Latin's does."
+        },
+        {
+          "verse": "86:5",
+          "remark": "'Acaso Sião dirá' heard as expecting 'no', inverting the sense",
+          "outcome": "option",
+          "decision": "numquid",
+          "reason": "The numquid row and the Latin's particle; the 'não' of DRB and MS1932 is option 2, flagged for Gustavo."
+        },
+        {
+          "verse": "86:5",
+          "remark": "'um homem e outro homem' heard as two particular men",
+          "outcome": "refused",
+          "decision": "homo",
+          "reason": "The Latin's doubled homo; explaining it (MS1932) is refused by rule 2."
+        },
+        {
+          "verse": "86:6",
+          "remark": "'destes, que estiveram nela' an unclear fragment",
+          "outcome": "taken",
+          "decision": "horum"
+        },
+        {
+          "verse": "86:6",
+          "remark": "'escrituras' heard as Holy Scripture or writings by the peoples",
+          "outcome": "refused",
+          "decision": "scripturis",
+          "reason": "The Latin's word carries the same range."
+        },
+        {
+          "verse": "86:7",
+          "remark": "'Como a de …' hard to parse aloud",
+          "outcome": "taken",
+          "decision": "sicut"
+        },
+        {
+          "verse": "86:7",
+          "remark": "'em ti' heard as God",
+          "outcome": "refused",
+          "reason": "The te is the city of 86:3; in this psalter God is vós, so 'ti' already points away from him."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (revise2.py from prayed.v1.json): 86:4b order 'estes ali estiveram'; 86:6 'daqueles que'; 86:7 'Como de'; new decision populorum recording the refused swap."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2 (claude-opus-5-5, fresh context, with latin.json): no major; one minor, held with an option. He passed the v2 changes (86:4b order, 86:6 'daqueles que', 86:7 'Como de').",
+      "outcomes": [
+        {
+          "verse": "86:5",
+          "remark": "'outro' is an addition to 'homo, et homo'; 'Homem e homem nasceu nela'",
+          "outcome": "option",
+          "decision": "homo",
+          "reason": "Bare 'homem e homem' as a subject lacks the determiner Portuguese grammar needs; 'um … outro' is grammar under D2, not an interpretation of the idiom; kept as option 2."
+        }
+      ]
+    }
+  ]
+}

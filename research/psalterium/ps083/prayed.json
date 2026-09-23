@@ -1,0 +1,788 @@
+{
+  "psalm": 83,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "83:2": "Como são {dilecta} as vossas tendas, Senhor {virtutum}: * a minha alma anseia e desfalece {inatria} do Senhor.",
+    "83:3": "O meu coração e a minha carne * exultaram {indeum} Deus vivo.",
+    "83:4": "Pois o pardal encontrou para si uma casa: * e {turtur}, {sibi2}, onde ponha os seus {pullos}.",
+    "83:4b": "{altaria}, Senhor {virtutum}: * meu Rei e meu Deus.",
+    "83:5": "Bem-aventurados os que habitam na vossa casa, Senhor: * pelos séculos dos séculos vos louvarão.",
+    "83:6": "Bem-aventurado o homem cujo auxílio {abste}: * dispôs {ascensiones} no seu coração, no vale de lágrimas, no lugar {posuit}.",
+    "83:8": "Pois o legislador dará a bênção, irão {devirtute}: * o Deus dos deuses {videbitur} em Sião.",
+    "83:9": "Senhor, Deus {virtutum}, escutai a minha oração: * dai ouvidos, Deus de Jacó.",
+    "83:10": "{v10a}: * e {respice} a face do vosso Cristo:",
+    "83:11": "Porque {diesuna} nos vossos átrios é melhor * do que milhares.",
+    "83:11b": "Escolhi ser {abjectus} na casa do meu Deus: * {magisquam} habitar nas tendas dos pecadores.",
+    "83:12": "Porque Deus ama a misericórdia e a verdade: * o Senhor dará a graça e a glória.",
+    "83:13": "Não privará {bonis} os que andam na inocência: * Senhor {virtutum}, bem-aventurado o homem que espera em vós."
+  },
+  "decisions": [
+    {
+      "id": "dilecta",
+      "refs": [
+        "83:2"
+      ],
+      "latin": "Quam dilécta tabernácula tua",
+      "kind": "word",
+      "why": "dilécta is the participle 'beloved' (Greek ἀγαπητά); the glossary row diléctus → amado (59:7 *os vossos amados*). MS1932 and DRB say 'lovely' (*amáveis*), the familiar line; but *amável* in Brazil today is said of kind people, and of a place it sounds literary. *Amadas* is the Latin's word and the row's; it leaves open by whom they are loved, as the Latin does. v2: the blind reader heard 'how loved your tents are, by people' — the Latin's participle is open the same way; kept.",
+      "options": [
+        {
+          "label": "amadas",
+          "forms": {
+            "dilecta": "amadas"
+          },
+          "note": "Ruling: the participle, as the diléctus row.",
+          "from": "draft"
+        },
+        {
+          "label": "amáveis",
+          "forms": {
+            "dilecta": "amáveis"
+          },
+          "note": "MS1932 *Quão amáveis*, DRB 'lovely' — the familiar wording; 'worthy of love' rather than 'loved'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "queridas",
+          "forms": {
+            "dilecta": "queridas"
+          },
+          "note": "Plain and warm; colloquial beside *tendas*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "virtutum",
+      "refs": [
+        "83:2",
+        "83:4b",
+        "83:9",
+        "83:13"
+      ],
+      "latin": "Dómine virtútum (83:2, 4b, 13); Dómine, Deus virtútum (83:9)",
+      "kind": "glossary",
+      "why": "D43 settles *Dóminus virtútum → o Senhor dos poderes* and flags it for Gustavo: MS1932 and DRB have *dos exércitos* (the Hebrew's Sabaoth); the Latin's *virtútes* (δυνάμεις) are powers. Four places in this psalm, one touch changes all four. Note 83:8 *de virtúte in virtútem*, decided apart (decision `devirtute`).",
+      "options": [
+        {
+          "label": "dos poderes",
+          "forms": {
+            "virtutum": "dos poderes"
+          },
+          "note": "Ruling: D43.",
+          "from": "glossary"
+        },
+        {
+          "label": "dos exércitos",
+          "forms": {
+            "virtutum": "dos exércitos"
+          },
+          "note": "MS1932, DRB 'hosts'; the Hebrew's reading, the name Brazilian ears know.",
+          "from": "MS1932"
+        },
+        {
+          "label": "das virtudes",
+          "forms": {
+            "virtutum": "das virtudes"
+          },
+          "note": "The cognate; would echo 83:8 *de virtude em virtude*; *virtude* is a moral quality to most ears.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inatria",
+      "refs": [
+        "83:2"
+      ],
+      "latin": "concupíscit, et déficit ánima mea in átria Dómini",
+      "kind": "grammar",
+      "why": "*in átria* (accusative, εἰς τὰς αὐλάς) is what both verbs reach for. The glossary proposes *defícere in → desfalecer à espera de* (118:81), because bare *por* was heard as cause once (118:82 *pelo que dissestes*); it names 83:2 as the same build. Here *por* follows *anseia* (the concupíscere row's *ansiar por*), where it can only be the object of longing, and *à espera dos átrios* would make the soul wait for a place. Subject moved first (natural order, D2).",
+      "options": [
+        {
+          "label": "pelos átrios",
+          "forms": {
+            "inatria": "pelos átrios"
+          },
+          "note": "Ruling: *ansiar por*, one preposition for both verbs, as the Latin has one.",
+          "from": "draft"
+        },
+        {
+          "label": "à espera dos átrios",
+          "forms": {
+            "inatria": "à espera dos átrios"
+          },
+          "note": "The *defícere in* row's wording (118:81).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "indeum",
+      "refs": [
+        "83:3"
+      ],
+      "latin": "exsultavérunt in Deum vivum",
+      "kind": "grammar",
+      "why": "*in* + accusative (ἐπὶ θεὸν ζῶντα): the joy is turned towards God. Portuguese *exultar* takes *em* (D44, *exultar em*); *para* (the open row *exsultáre* + dative) keeps the motion but is stiff. MS1932 *regozijam-se no Deus vivo*.",
+      "options": [
+        {
+          "label": "no",
+          "forms": {
+            "indeum": "no"
+          },
+          "note": "Ruling: D44's *exultar em*.",
+          "from": "glossary"
+        },
+        {
+          "label": "para o",
+          "forms": {
+            "indeum": "para o"
+          },
+          "note": "The accusative's direction kept.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "turtur",
+      "refs": [
+        "83:4"
+      ],
+      "latin": "et turtur",
+      "kind": "word",
+      "why": "*turtur* is the turtledove (τρυγών). *Rola* is the dictionary word and MS1932's, but the blind ambiguity reader listed it as unknown and warned that in Brazil *rola* is vulgar slang for the penis — heard in a prayer said aloud, it would be comic or jarring. *Rolinha* is the everyday Brazilian name of the small doves (my knowledge, not checked in a source); the diminutive is part of the name, not an added tenderness. *Pomba* is refused: it is *colúmba*'s word (54:7, 67:14). *Pomba-rola* keeps the slang inside it.",
+      "options": [
+        {
+          "label": "a rolinha",
+          "forms": {
+            "turtur": "a rolinha"
+          },
+          "note": "Ruling: the bird's everyday name; avoids the slang.",
+          "from": "ambiguity"
+        },
+        {
+          "label": "a rola",
+          "forms": {
+            "turtur": "a rola"
+          },
+          "note": "MS1932; the dictionary word; slang risk.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a pomba-rola",
+          "forms": {
+            "turtur": "a pomba-rola"
+          },
+          "note": "Compound name; still carries *rola*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sibi2",
+      "refs": [
+        "83:4"
+      ],
+      "latin": "et turtur nidum sibi",
+      "kind": "word",
+      "why": "The Latin says *sibi* twice (*invénit sibi domum … nidum sibi*), as the Greek does (ἑαυτῷ … ἑαυτῇ). Kept (repetitions stay, D2). Dropping the second makes the colon two syllables shorter. v2: a comma after the subject (the stylist: without it *a rola um ninho* ran together as one noun phrase).",
+      "options": [
+        {
+          "label": "um ninho para si",
+          "forms": {
+            "sibi2": "um ninho para si"
+          },
+          "note": "Ruling: the repetition kept.",
+          "from": "draft"
+        },
+        {
+          "label": "um ninho",
+          "forms": {
+            "sibi2": "um ninho"
+          },
+          "note": "*e a rolinha, um ninho, onde ponha …* — lighter; loses the Latin's second *sibi*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pullos",
+      "refs": [
+        "83:4"
+      ],
+      "latin": "ubi ponat pullos suos",
+      "kind": "word",
+      "why": "*pullus* is a young animal, a chick (L&S). *Filhotes* is the plain Brazilian word for young birds; MS1932's *filhinhos* is tender but a diminutive the Latin does not have.",
+      "options": [
+        {
+          "label": "filhotes",
+          "forms": {
+            "pullos": "filhotes"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "filhinhos",
+          "forms": {
+            "pullos": "filhinhos"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "altaria",
+      "refs": [
+        "83:4b"
+      ],
+      "latin": "Altária tua, Dómine virtútum: Rex meus, et Deus meus.",
+      "kind": "ambiguity",
+      "why": "The Latin verse has no verb. *Altária* can be read as an accusative in apposition to *domum … nidum* (what the birds found: your altars), or as an exclamation of the soul. MS1932 supplies *(Sejam minha casa)* in parentheses; the Hebrew reads 'at your altars' (where the bird nests). The verbless phrase is kept: Portuguese *Os vossos altares* allows both readings, as the Latin does. Nothing supplied.",
+      "options": [
+        {
+          "label": "Os vossos altares",
+          "forms": {
+            "altaria": "Os vossos altares"
+          },
+          "note": "Ruling: verbless, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Junto aos vossos altares",
+          "forms": {
+            "altaria": "Junto aos vossos altares"
+          },
+          "note": "Explains the link to the nest; the Hebrew's sense, which the Latin does not state.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "abste",
+      "refs": [
+        "83:6"
+      ],
+      "latin": "cujus est auxílium abs te",
+      "kind": "grammar",
+      "why": "'whose help is from you' (DRB 'whose help is from thee'). *é de vós* is literal but is heard as 'belongs to you'; *vem de* gives *abs* its motion with the plainest verb. MS1932 turns it into hope (*que de ti espera socorro*), which is another sentence.",
+      "options": [
+        {
+          "label": "vem de vós",
+          "forms": {
+            "abste": "vem de vós"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "é de vós",
+          "forms": {
+            "abste": "é de vós"
+          },
+          "note": "Word for word; may be heard as possession.",
+          "from": "draft"
+        },
+        {
+          "label": "está em vós",
+          "forms": {
+            "abste": "está em vós"
+          },
+          "note": "Closer to the Hebrew ('whose strength is in you'); loses *abs*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ascensiones",
+      "refs": [
+        "83:6"
+      ],
+      "latin": "ascensiónes in corde suo dispósuit",
+      "kind": "word",
+      "why": "*ascénsio* is 'an ascent' (L&S cites this very verse under 'a rising'); Greek ἀναβάσεις. The image is of climbs laid out in the heart — the pilgrim going up to the house of v. 2. *Subidas* is the concrete plain word. *Ascensões* keeps the Latin's word but is heard first as the Ascension; DRB paraphrases ('to ascend by steps'); MS1932 *elevações*. v2: the blind ambiguity reader listed *subidas* as unknown in this place and could not say what 'climbs set in the heart' means — but the Latin is as dark (DRB and MS1932 both gloss it); kept, the options stand.",
+      "options": [
+        {
+          "label": "subidas",
+          "forms": {
+            "ascensiones": "subidas"
+          },
+          "note": "Ruling: concrete, plain.",
+          "from": "draft"
+        },
+        {
+          "label": "ascensões",
+          "forms": {
+            "ascensiones": "ascensões"
+          },
+          "note": "The cognate; the feast is heard first.",
+          "from": "draft"
+        },
+        {
+          "label": "elevações",
+          "forms": {
+            "ascensiones": "elevações"
+          },
+          "note": "MS1932; also 'hills'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "degraus",
+          "forms": {
+            "ascensiones": "degraus"
+          },
+          "note": "DRB 'by steps'; a supplied image (steps, not ascents).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "posuit",
+      "refs": [
+        "83:6"
+      ],
+      "latin": "in loco, quem pósuit",
+      "kind": "word",
+      "why": "The Latin echoes *dispósuit … pósuit*, and Portuguese has the same two roots (*dispôs … pôs*). Who 'set' the place is left open by the Latin (the man, or God in the third person; MS1932 glosses *(Deus)*); the bare verb keeps it open. The echo was the draft's first choice, but *que pôs* at the final rhymes with *vem de vós* at the mediant (checks: an accidental rhyme the Latin does not have, a defect under rule 5), and *o lugar que pôs* sounds unfinished. *Estabeleceu* is the plain sense of *pónere* with a place as object (L&S 'to set, appoint'), and keeps the subject as open as the Latin.",
+      "options": [
+        {
+          "label": "que estabeleceu",
+          "forms": {
+            "posuit": "que estabeleceu"
+          },
+          "note": "Ruling: the plain sense; the root echo lost to avoid the rhyme.",
+          "from": "checks"
+        },
+        {
+          "label": "que pôs",
+          "forms": {
+            "posuit": "que pôs"
+          },
+          "note": "The root echo *dispôs … pôs* kept; rhymes with *vós* at the mediant.",
+          "from": "draft"
+        },
+        {
+          "label": "que destinou",
+          "forms": {
+            "posuit": "que destinou"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "devirtute",
+      "refs": [
+        "83:8"
+      ],
+      "latin": "ibunt de virtúte in virtútem",
+      "kind": "glossary",
+      "why": "The *virtus* row gives *poder* for God's virtus and *vigor* for a man's strength; *Dóminus virtútum* is *Senhor dos poderes* four times in this psalm. Here the pilgrims go 'from strength to strength' (ἐκ δυνάμεως εἰς δύναμιν). Both Vulgate-family witnesses say *virtue* (DRB 'from virtue to virtue', MS1932 *de virtude em virtude*), and the phrase lives in Catholic Portuguese in that form. Latin *virtus* holds strength and excellence at once; Portuguese *virtude* still keeps 'power, efficacy' (*em virtude de*, *a virtude de um remédio*), so it is the one word that holds both, as the Latin does. *De poder em poder* would keep the echo with *Senhor dos poderes* but is heard as a climb in rank; *de força em força* takes *fortitúdo*'s word. Cost, accepted: the echo of *virtútum* inside the psalm is lost unless option `das virtudes` of `virtutum` is taken.",
+      "options": [
+        {
+          "label": "de virtude em virtude",
+          "forms": {
+            "devirtute": "de virtude em virtude"
+          },
+          "note": "Ruling: DRB, MS1932; keeps the Latin's double sense.",
+          "from": "draft"
+        },
+        {
+          "label": "de poder em poder",
+          "forms": {
+            "devirtute": "de poder em poder"
+          },
+          "note": "The virtus row; echoes *Senhor dos poderes*.",
+          "from": "glossary"
+        },
+        {
+          "label": "de força em força",
+          "forms": {
+            "devirtute": "de força em força"
+          },
+          "note": "The sense of the Greek; *força* is fortitúdo's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "videbitur",
+      "refs": [
+        "83:8"
+      ],
+      "latin": "vidébitur Deus deórum in Sion",
+      "kind": "word",
+      "why": "Future passive of *vidére* (ὀφθήσεται). *Será visto* keeps the passive and the verb *ver*; MS1932 has the same words. *Aparecerá* is the plain meaning but is *apparére*'s verb (41:3 *aparecerei*). v2: natural order, subject first (the stylist; D2) — the verse still ends on *Sião*.",
+      "options": [
+        {
+          "label": "será visto",
+          "forms": {
+            "videbitur": "será visto"
+          },
+          "note": "Ruling; MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "aparecerá",
+          "forms": {
+            "videbitur": "aparecerá"
+          },
+          "note": "Plainer; takes 41:3's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "respice",
+      "refs": [
+        "83:10"
+      ],
+      "latin": "Protéctor noster, áspice, Deus: et réspice in fáciem Christi tui",
+      "kind": "word",
+      "why": "The glossary foresaw this verse: *áspice* and *réspice* stand side by side and must be decided locally. The rows give both *olhar para*. The Greek splits them: *áspice* here is ἴδε ('see, behold'), *réspice* is ἐπίβλεψον, the verb that 118:132 and 12:3 render *olhai (para)*. So *áspice* takes *vede* (absolute, as the Latin — DRB 'Behold'), and *réspice in* keeps the rows' *olhai para*. *Vede* is safe under rule 3 (the past is *vi*). The vocatives are joined at the head (*Deus, nosso protetor*), natural order (D2); the Latin splits them around the verb. The colon is also the Preces versicle (*Protéctor noster áspice Deus, et réspice in fáciem Christi tui*) and the Introit of Pentecost XIV (with 83:11a).",
+      "options": [
+        {
+          "label": "Deus, nosso protetor, vede … olhai para",
+          "forms": {
+            "v10a": "Deus, nosso protetor, vede",
+            "respice": "olhai para"
+          },
+          "note": "Ruling: the Greek's two verbs kept apart; natural vocative order.",
+          "from": "draft"
+        },
+        {
+          "label": "Nosso protetor, vede, Deus … olhai para",
+          "forms": {
+            "v10a": "Nosso protetor, vede, Deus",
+            "respice": "olhai para"
+          },
+          "note": "The Latin's order of words.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus, nosso protetor, olhai … voltai os olhos para",
+          "forms": {
+            "v10a": "Deus, nosso protetor, olhai",
+            "respice": "voltai os olhos para"
+          },
+          "note": "Keeps *olhar* for *áspice* (the aspícere row); supplies *os olhos* for the re-.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus, nosso protetor, olhai … olhai para",
+          "forms": {
+            "v10a": "Deus, nosso protetor, olhai",
+            "respice": "olhai para"
+          },
+          "note": "Both rows as written; one verb twice where the Latin and Greek have two.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "diesuna",
+      "refs": [
+        "83:11"
+      ],
+      "latin": "mélior est dies una",
+      "kind": "word",
+      "why": "*una* stands after the noun to weigh the number against *míllia*. *Um dia* alone is also 'a day'; *um só dia* (MS1932) keeps the count. *Mélior … super* → *melhor … do que* (the comparative takes *do que*, not the super row's *mais que*, as the *Bonum est … quam* row). v2 gate: the Latinist (minor) said *só* adds a restrictive 'only' that *dies una* does not carry — the contrast with *míllia* does that work. Taken: with *é melhor … do que milhares* now joined across the mark, *um dia* is heard as one day against thousands, not as 'some day'.",
+      "options": [
+        {
+          "label": "um dia",
+          "forms": {
+            "diesuna": "um dia"
+          },
+          "note": "Ruling (after the v2 gate).",
+          "from": "latinist"
+        },
+        {
+          "label": "um só dia",
+          "forms": {
+            "diesuna": "um só dia"
+          },
+          "note": "Draft 1–2; MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "abjectus",
+      "refs": [
+        "83:11b"
+      ],
+      "latin": "Elégi abjéctus esse in domo Dei mei",
+      "kind": "word",
+      "why": "*abjéctus*, from *ab-jácio* 'to throw away, cast down' (L&S; as adjective 'low, mean'); the Greek παραρριπτεῖσθαι is 'to be cast aside'. *Posto de lado* keeps the throwing-aside of both words and the lowly place inside the house. *Abjeto* in Portuguese is moral vileness — a wrong sense. *Desprezado* is the abjéctio row's (21:7 *desprezo*, another Greek word) and puts contempt from others where the Latin has a low place. MS1932 *ser o último* interprets (and DRB 'an abject' is the cognate). v2: the Latinist (minor) asked for *rejeitado* — 'posto de lado softens it into neglect'. Refused: *rejeitar* is *reprobáre*'s (117:22), and *rejeitado na casa do meu Deus* says God's house turned him away, the opposite of the choice the verse makes. The blind reader heard *posto de lado* as 'cast aside, of little account' — the Greek's sense. v2 gate: the Latinist again (minor) wants abasement, now *rebaixado* (already option 4). Held: *rebaixado* is heard first as demoted in rank; the Greek's παραρριπτεῖσθαι is 'to be cast aside', which *posto de lado* says, and the verse's contrast is of place (a cast-aside place in God's house against dwelling in sinners' tents). For Gustavo's ear: two Latinist runs asked for more lowliness.",
+      "options": [
+        {
+          "label": "posto de lado",
+          "forms": {
+            "abjectus": "posto de lado"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "rejeitado",
+          "forms": {
+            "abjectus": "rejeitado"
+          },
+          "note": "The Latinist's fix; *reprobáre*'s word; heard as refused by the house.",
+          "from": "latinist"
+        },
+        {
+          "label": "desprezado",
+          "forms": {
+            "abjectus": "desprezado"
+          },
+          "note": "The abjéctio row's root; contempt rather than a low place.",
+          "from": "draft"
+        },
+        {
+          "label": "o último",
+          "forms": {
+            "abjectus": "o último"
+          },
+          "note": "MS1932; interprets.",
+          "from": "MS1932"
+        },
+        {
+          "label": "rebaixado",
+          "forms": {
+            "abjectus": "rebaixado"
+          },
+          "note": "L&S 'cast down to a lower grade'; heard as demoted. The v2 Latinist's fix.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "magisquam",
+      "refs": [
+        "83:11b"
+      ],
+      "latin": "magis quam habitáre",
+      "kind": "grammar",
+      "why": "*Elégi … magis quam* is 'I chose … rather than'. *Mais do que* keeps *magis*; *em vez de* is the plain Portuguese of 'rather than' but is another word; MS1932 changes the verb to *Preferi … a morar*. v2: the stylist called *Escolhi … mais do que* a calque. *Em vez de* is how Portuguese says 'chose X rather than Y'; it changes how, not what (D2) — taken. His *antes que habitar* is refused: *antes que* is the conjunction 'before' and takes a subjunctive.",
+      "options": [
+        {
+          "label": "em vez de",
+          "forms": {
+            "magisquam": "em vez de"
+          },
+          "note": "Ruling (v2): the stylist's point, the plain Portuguese of 'rather than'.",
+          "from": "stylist"
+        },
+        {
+          "label": "mais do que",
+          "forms": {
+            "magisquam": "mais do que"
+          },
+          "note": "Draft 1: keeps *magis* word for word.",
+          "from": "draft"
+        },
+        {
+          "label": "antes que",
+          "forms": {
+            "magisquam": "antes que"
+          },
+          "note": "The stylist's wording; heard as 'before'.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "bonis",
+      "refs": [
+        "83:13"
+      ],
+      "latin": "Non privábit bonis eos",
+      "kind": "word",
+      "why": "*bona* (τὰ ἀγαθά), 'good things' (DRB). The *bona tríbuere* row (12:6b) found *bens* heard as property by the blind reader and took *coisas boas*. MS1932 *dos seus bens*.",
+      "options": [
+        {
+          "label": "de coisas boas",
+          "forms": {
+            "bonis": "de coisas boas"
+          },
+          "note": "Ruling: 12:6b's precedent.",
+          "from": "glossary"
+        },
+        {
+          "label": "dos bens",
+          "forms": {
+            "bonis": "dos bens"
+          },
+          "note": "Shorter; heard as property.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "83:2": "Subject first in the second colon (natural order, D2); the Latin puts the two verbs first. *tabernácula → tendas* (row, plural as 42:3). *concupíscere → ansiar por* (row). *átrium → átrio* (row; two blind readers did not know it — kept, the Latin's word). The first colon is sung alone as a responsory and Gradual (Commune C8, Pent05-0, Epi1-0).",
+    "83:3": "*caro → carne*; *Deus vivus → o Deus vivo* (41:3's words without *forte*). First colon +3: the articles before possessives (rule 5).",
+    "83:4": "*étenim → pois* (row). *passer → pardal* (row, which names this verse). *turtur → rola* (MS1932). *invénit* perfect → *encontrou*. *ubi ponat* subjunctive → *onde ponha*. Second colon +5 in v2: the second *para si* kept (decision `sibi2`) and *rolinha* (decision `turtur`); accepted.",
+    "83:4b": "*Rex meus et Deus meus → meu Rei e meu Deus* (formula row, 5:3, 43:5). Second colon −3: the formula; the Latin's *et* is kept. The blind reader could not tell what is said about the altars: the Latin is verbless and says no more (decision `altaria`).",
+    "83:5": "*in sǽcula sæculórum → pelos séculos dos séculos* (D27). The second colon is a responsory R. alone (*In sǽcula sæculórum laudábunt te*) and reads alone. Vocative *Senhor* kept at the end of its colon, where the Latin has it. First colon +3: *bem-aventurados* (D19).",
+    "83:6": "*beátus vir → bem-aventurado o homem* (D19). *auxílium → auxílio*. *in valle lacrimárum → no vale de lágrimas* — the Salve Regina's phrase. The two *in* are both kept (*no vale …, no lugar*). Verb moved before its object (*dispôs no seu coração subidas*), natural order. Length: first colon +4 (*bem-aventurado*, D19's known cost); second colon about −2 against the Latin's 28 syllables.",
+    "83:8": "*legislátor → legislador* (DRB 'lawgiver', MS1932). *benedictiónem* singular (the Greek has the plural εὐλογίας; the Latin followed). *a bênção*: Portuguese needs an article or *uma*; *a* is lighter. Subject of *ibunt* left unnamed, as the Latin. *Deus deórum → o Deus dos deuses* (D44). The blind reader heard *legislador* first as a lawmaker in the modern sense (and listed it as unknown); the Latin's word, DRB and MS1932 alike — kept. First colon −4 against the Latin, accepted.",
+    "83:9": "*exáudi → escutai* (D3); *áuribus pércipe → dai ouvidos* (D4, which names this verse: *dai ouvidos, Deus de Jacó*). *Deus virtútum* follows *Dóminus virtútum* (decision `virtutum`), as 79:8.",
+    "83:10": "*protéctor → protetor* (row). *Christus → Cristo* (D19; the row names 83:10). Ends with a colon, as the Latin runs on into 83:11 *Quia*.",
+    "83:11": "v2: *é melhor* moved to the mediant (the stylist: *átrios* left two weak syllables before the mark); *melhor do que milhares* now joins across the mark as the Latin's *mélior … super míllia* does. The Introit of Pentecost XIV (*… quia mélior est dies una in átriis tuis super mília*) joins 83:10 and 83:11a. *super míllia → do que milhares*. First colon −3 after the v2 gate removed *só*; accepted.",
+    "83:11b": "*tabernáculis peccatórum → nas tendas dos pecadores* (the tabernáculum row names this place). *habitáre → habitar*, as 83:5. Second colon −3, accepted.",
+    "83:12": "Natural order (subject before verb in both colons, D2); the Latin ends each colon on the divine name. *díligere → amar* (row). *misericórdia*, *véritas → verdade* (rows). *grátia → graça*.",
+    "83:13": "*beátus homo → bem-aventurado o homem*: *homo* and *vir* (83:6) become one word, as in MS1932 and DRB ('the man'); Portuguese has no plain second word (*varão* is archaic). *ambuláre → andar*, *innocéntia → inocência*, *speráre in → esperar em* (rows). Second colon +5: *bem-aventurado* (D19)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (no Diurnal Monástico for this psalm). Hard readings: 83:4b verbless *Altária tua*; 83:6 *ascensiónes … in loco, quem pósuit*; 83:8 *de virtúte in virtútem* against D43's *Senhor dos poderes*; 83:10 *áspice / réspice* side by side (the glossary said decide locally); 83:11b *abjéctus*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 83:6 rhyme *vós / pôs* at mediant and final — fixed (decision `posuit` now rules *que estabeleceu*; the echo *que pôs* kept as option). Length flags accepted (83:3 +3, 83:4 +4, 83:4b −3, 83:5 +3, 83:6 +4, 83:13 +5 — articles, the kept *para si*, *bem-aventurado*; reasons in `choices`)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "One minor (83:11b *abjéctus*), refused and kept as an option. Overall: faithful, Septuagintal readings kept, marks right.",
+      "outcomes": [
+        {
+          "verse": "83:11b",
+          "remark": "posto de lado softens abiectus → rejeitado",
+          "outcome": "option",
+          "decision": "abjectus",
+          "reason": "*rejeitar* is reprobáre's (117:22); *rejeitado na casa do meu Deus* says the house turned him away."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "5 remarks; 4 taken (all order or punctuation), 1 partly taken (the construction, not his wording). Best line 83:3, worst 83:6.",
+      "outcomes": [
+        {
+          "verse": "83:4",
+          "remark": "comma after *a rola*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "83:6",
+          "remark": "*dispôs subidas no seu coração*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "83:8",
+          "remark": "subject first: *o Deus dos deuses será visto em Sião*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "83:11",
+          "remark": "mediant on *átrios*; move *é melhor*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "83:11b",
+          "remark": "*mais do que* a calque → *antes que*",
+          "outcome": "option",
+          "decision": "magisquam",
+          "reason": "The point taken as *em vez de*; *antes que* is the conjunction 'before'."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "26 readings, 5 unknown words (átrios, desfalece, rola, subidas, legislador). One fault acted on: *rola* (slang).",
+      "outcomes": [
+        {
+          "verse": "83:4",
+          "remark": "*rola* unknown and vulgar slang",
+          "outcome": "taken",
+          "decision": "turtur"
+        },
+        {
+          "verse": "83:2",
+          "remark": "*amadas* heard as loved by people",
+          "outcome": "refused",
+          "reason": "The Latin participle is open the same way."
+        },
+        {
+          "verse": "83:2",
+          "remark": "*Senhor dos poderes* heard abstract",
+          "outcome": "refused",
+          "reason": "D43; flagged for Gustavo there."
+        },
+        {
+          "verse": "83:4b",
+          "remark": "verbless altars unclear",
+          "outcome": "refused",
+          "reason": "The Latin is verbless; nothing supplied (decision `altaria`)."
+        },
+        {
+          "verse": "83:6",
+          "remark": "*subidas* unclear/unknown",
+          "outcome": "refused",
+          "reason": "The Latin image is as dark; options stand."
+        },
+        {
+          "verse": "83:8",
+          "remark": "*legislador* heard as a modern lawmaker",
+          "outcome": "refused",
+          "reason": "The Latin's word, DRB and MS1932."
+        },
+        {
+          "verse": "83:11b",
+          "remark": "*posto de lado* heard as cast aside",
+          "outcome": "refused",
+          "reason": "That is the Greek's sense; intended."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 83:4 *a rolinha,* (comma, and the slang avoided); 83:6 object before the adverbial; 83:8 subject first; 83:11 *é melhor* at the mediant; 83:11b *em vez de*. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass; 83:4 second colon +5 accepted (see choices); no rhyme flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "Gate: no major. Two minors: 83:11 *só* taken; 83:11b *rebaixado* held (option).",
+      "outcomes": [
+        {
+          "verse": "83:11",
+          "remark": "*só* adds 'only' to dies una",
+          "outcome": "taken"
+        },
+        {
+          "verse": "83:11b",
+          "remark": "*posto de lado* is neglect, not abasement → *rebaixado*",
+          "outcome": "option",
+          "decision": "abjectus",
+          "reason": "*rebaixado* is heard as demoted; the Greek is 'cast aside', which the ruling says."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "After the v2 gate: 83:11 *um só dia* → *um dia* (one word removed; not re-read)."
+    }
+  ]
+}

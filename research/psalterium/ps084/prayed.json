@@ -1,0 +1,651 @@
+{
+  "psalm": 84,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "84:2": "{bened}, Senhor, a vossa terra: * {av2} o cativeiro de Jacó.",
+    "84:3": "Perdoastes a iniquidade do vosso povo: * cobristes todos os seus pecados.",
+    "84:4": "{mitig} toda a vossa ira: * {av4} da ira da vossa indignação.",
+    "84:5": "{conv}, Deus, {salut}: * e {av5} de nós a vossa ira.",
+    "84:6": "Acaso {irasc} conosco para sempre? * ou estendereis a vossa ira de geração em geração?",
+    "84:7": "Deus, voltando-vos, {vivif}: * e o vosso povo se alegrará em vós.",
+    "84:8": "Mostrai-nos, Senhor, a vossa misericórdia: * e dai-nos a vossa salvação.",
+    "84:9": "Ouvirei o que o Senhor Deus {loq} em mim: * porque ele {pax9}.",
+    "84:9b": "{sup9b}: * {in9b} que se {adcor}.",
+    "84:10": "{verum}, perto dos que o temem está a sua salvação: * para que habite a glória na nossa terra.",
+    "84:11": "A misericórdia e a verdade se encontraram: * a justiça e a paz {oscul}.",
+    "84:12": "A verdade {orta} da terra: * e a justiça olhou do céu.",
+    "84:13": "Pois o Senhor dará {benign}: * e a nossa terra dará o seu fruto.",
+    "84:14": "A justiça andará diante dele: * e porá {order14}."
+  },
+  "decisions": [
+    {
+      "id": "bened",
+      "refs": [
+        "84:2"
+      ],
+      "latin": "Benedixísti … terram tuam",
+      "kind": "glossary",
+      "why": "God blessing a thing. The row *benedícere* (God → man) is *bendizer*, open (D11), and it has been used where God blesses: 5:12b *bendireis ao justo*, 28:11 *bendirá o seu povo*, 64:12 *Bendireis a coroa do ano*, 66:2 *nos bendiga*. The Greek here is εὐδόκησας ('you were pleased with'), but the Latin says *bless* and is followed. This line is the Introit of Advent III (and the Mass of Advent I, Adv3-5 — grep), so it will be said and sung alone; every Portuguese parallel has *abençoar*.",
+      "options": [
+        {
+          "label": "Bendissestes",
+          "forms": {
+            "bened": "Bendissestes"
+          },
+          "note": "Ruling: the row, as 64:12, 28:11 — one verb for blessing in the psalter while D11 is open.",
+          "from": "glossary"
+        },
+        {
+          "label": "Abençoastes",
+          "forms": {
+            "bened": "Abençoastes"
+          },
+          "note": "MS1932 *Abençoaste*; the common verb for God blessing; one syllable lighter in the ear.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "avertere",
+      "refs": [
+        "84:2",
+        "84:4",
+        "84:5"
+      ],
+      "latin": "avertísti captivitátem … avertísti ab ira … avérte iram tuam",
+      "kind": "glossary",
+      "why": "*Avértere* three times in four verses: the psalm turns on it (and on *convértere*, 84:5, 84:7). The row *avértere* names 84:2 for *afastar o cativeiro* (as 13:7) and keeps *desviar* for anger (77:38b *desviou a sua ira*). Taking the row literally would split the psalm's one verb into two within four verses. Ruled: *afastar* all three times, so the repetition the Latin has is heard (rule 6). 84:4 has no object in Latin or Greek (ἀπέστρεψας ἀπό, DRB 'thou hast turned away from'), so the verb is reflexive — *vos afastastes da ira*; MS1932's *suspendeste o furor* supplies another verb and object. 84:5 is the second half of the Compline versicle (*R. Et avérte iram tuam a nobis* → *E afastai de nós a vossa ira*), and MS1932 has *afasta de nós a tua ira* there. Cost: 84:5 and 77:38b render *avértere iram* with two verbs. Draft 2: 84:4 *afastastes-vos* (the stylist, v1): the enclitic after the verb, as the register wants; *vos afastastes* opened the colon on a clitic and the ambiguity reader found it hard to parse.",
+      "options": [
+        {
+          "label": "afastar ×3",
+          "forms": {
+            "av2": "afastastes",
+            "av4": "afastastes-vos",
+            "av5": "afastai"
+          },
+          "note": "Ruling: one verb for the psalm's one verb; the row's 84:2 wording.",
+          "from": "draft"
+        },
+        {
+          "label": "afastar / desviar",
+          "forms": {
+            "av2": "afastastes",
+            "av4": "desviastes-vos",
+            "av5": "desviai"
+          },
+          "note": "the row as written: *desviar* with anger, as 77:38b; splits the repetition.",
+          "from": "glossary"
+        },
+        {
+          "label": "vos afastastes (draft 1)",
+          "forms": {
+            "av2": "afastastes",
+            "av4": "vos afastastes",
+            "av5": "afastai"
+          },
+          "note": "draft 1's proclisis.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "mitig",
+      "refs": [
+        "84:4"
+      ],
+      "latin": "Mitigásti",
+      "kind": "word",
+      "why": "L&S: to make mild or soft; of anger, to soothe, assuage (*iras*, Ovid). *Abrandar* is the verb's own image (*mitis* → *brando*) and the plainer word; the cognate *mitigar* is understood but formal (MS1932, DRB 'mitigated'). The Greek κατέπαυσας ('made cease') is not followed. Not in the glossary; proposed as a row.",
+      "options": [
+        {
+          "label": "Abrandastes",
+          "forms": {
+            "mitig": "Abrandastes"
+          },
+          "note": "Ruling: the image of softening, plain.",
+          "from": "draft"
+        },
+        {
+          "label": "Mitigastes",
+          "forms": {
+            "mitig": "Mitigastes"
+          },
+          "note": "MS1932, DRB; the cognate.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Aplacastes",
+          "forms": {
+            "mitig": "Aplacastes"
+          },
+          "note": "appease; L&S gives the sense, but it is *placáre*'s word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conv",
+      "refs": [
+        "84:5"
+      ],
+      "latin": "Convérte nos",
+      "kind": "glossary",
+      "why": "The same imperative as Ps 79's refrain (*Deus, convérte nos*, 79:4, 8, 20), which the Ps 79 agent ruled *convertei-nos* under D25's exception as extended at 18:8 and 22:2 (God turning souls), and which asked that 84:5 follow it; the formula row for 79:4 names 84:5. Followed: ἐπίστρεψον ἡμᾶς holds both 'bring us back' and 'turn us to you', and *convertei-nos* holds both, the religious sense first — how this line is prayed at Compline (Common/Prayers.txt: *V. Convérte nos, Deus, salutáris noster. R. Et avérte iram tuam a nobis*) and in the Lenten collect (Quad1-1). DRB 'Convert us'; MS1932 *Converte-nos*. Cost: 84:7 *convérsus* (God turning) is *voltando-vos*, so one root becomes two verbs two verses apart, as in Ps 79 (79:15).",
+      "options": [
+        {
+          "label": "Convertei-nos",
+          "forms": {
+            "conv": "Convertei-nos"
+          },
+          "note": "Ruling: Ps 79's formula; D25; DRB, MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "Fazei-nos voltar",
+          "forms": {
+            "conv": "Fazei-nos voltar"
+          },
+          "note": "the *convértere* row's verb, causative (52:7); keeps the echo with 84:7 *voltando-vos*; heavier; Ps 79's option 1.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "salut",
+      "refs": [
+        "84:5"
+      ],
+      "latin": "Deus, salutáris noster",
+      "kind": "glossary",
+      "why": "The row *salutáris* (of God, in apposition) → *Salvador*, applied at 64:6 *Escutai-nos, Deus, nosso Salvador* and 78:9 *Deus, nosso Salvador*; this is the third of the three places the row named. The Greek here is τῶν σωτηρίων ἡμῶν ('God of our salvations'), but the Latin makes it a title, and the Latin is followed; DRB 'O God our saviour', MS1932 *ó Deus, salvador nosso*. Kept apart from 84:8, 84:10 *salutáre* → *salvação* (D6).",
+      "options": [
+        {
+          "label": "nosso Salvador",
+          "forms": {
+            "salut": "nosso Salvador"
+          },
+          "note": "Ruling: the row, as 64:6, 78:9.",
+          "from": "glossary"
+        },
+        {
+          "label": "nossa salvação",
+          "forms": {
+            "salut": "nossa salvação"
+          },
+          "note": "closer to the Greek's σωτηρίων and echoes 84:8, 84:10; but *salutáris* is masculine, a person.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "irasc",
+      "refs": [
+        "84:6"
+      ],
+      "latin": "irascéris nobis",
+      "kind": "grammar",
+      "why": "The row is *irar-se*. The future *vos irareis* is a knot of r's (the Ps 79 stylist on 79:5 *quoúsque irascéris*), and Ps 79 took *estareis irado* — the root kept, the future said with a copula, which D2 allows. Same here, for the same Latin form. *nobis* → *conosco*.",
+      "options": [
+        {
+          "label": "estareis irado",
+          "forms": {
+            "irasc": "estareis irado"
+          },
+          "note": "Ruling: as 79:5; MS1932 *estarás … irado*.",
+          "from": "draft"
+        },
+        {
+          "label": "vos irareis",
+          "forms": {
+            "irasc": "vos irareis"
+          },
+          "note": "the row's verb, one word for one.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "vivif",
+      "refs": [
+        "84:7"
+      ],
+      "latin": "tu convérsus vivificábis nos",
+      "kind": "glossary",
+      "why": "*vivificáre → vivificar* (row; 118, 40:3, 70:20 *voltando-vos, me vivificastes*, 79:19 *vós nos vivificareis*). The Latin's emphatic *tu* is kept as *vós*, placed after the participle so that neither *vós, voltando-vos* stammers nor the clause opens on a clitic. The blind readers have not known *vivificar* several times; the row keeps it. The stylist (v1) named 84:7 the worst line (the v/s pile-up, five-syllable verb) and asked *Deus, voltando-vos, nos dareis a vida*; refused as a ruling — it drops the Latin's emphatic *tu* and the row's verb — and kept as an option. The ambiguity reader listed *vivificareis* as unknown (again, as in Pss 40, 70, 118).",
+      "options": [
+        {
+          "label": "vós nos vivificareis",
+          "forms": {
+            "vivif": "vós nos vivificareis"
+          },
+          "note": "Ruling: the row; = 79:19.",
+          "from": "glossary"
+        },
+        {
+          "label": "vós nos dareis a vida",
+          "forms": {
+            "vivif": "vós nos dareis a vida"
+          },
+          "note": "MS1932 *restituir-nos-ás a vida*; the row's option.",
+          "from": "MS1932"
+        },
+        {
+          "label": "nos dareis a vida",
+          "forms": {
+            "vivif": "nos dareis a vida"
+          },
+          "note": "the stylist's line: drops *vós* (the Latin's *tu*) and the row's verb; the smoothest.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "loq",
+      "refs": [
+        "84:9"
+      ],
+      "latin": "quid loquátur in me Dóminus Deus",
+      "kind": "word",
+      "why": "*loquátur* is a present subjunctive in an indirect question (the Greek has a future, λαλήσει); the same verb returns at once as *loquétur pacem*, so *falar* both times keeps the Latin's repetition. *in me → em mim*, not MS1932's *me disser*: the Latin places the speaking inside the psalmist. The Latin's order (*o que fala em mim o Senhor Deus*) was weighed and refused: *o que fala* can be heard as 'the one who speaks'.",
+      "options": [
+        {
+          "label": "fala",
+          "forms": {
+            "loq": "fala"
+          },
+          "note": "Ruling: present, as the Latin's tense.",
+          "from": "draft"
+        },
+        {
+          "label": "dirá",
+          "forms": {
+            "loq": "dirá"
+          },
+          "note": "the Greek's future; another verb, loses the repetition.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pacem",
+      "refs": [
+        "84:9",
+        "84:9b"
+      ],
+      "latin": "quóniam loquétur pacem in plebem suam. Et super sanctos suos: et in eos …",
+      "kind": "word",
+      "why": "*loquétur pacem* is the accusative of content, as *loqui mendácium → falar mentira* (row; 16:9b *falou soberba*), so *falará paz*: God speaks peace, he does not talk about it (*falar de paz*) or announce it (*anunciar*, MS1932, which is another verb). The Latin varies its prepositions (*in … super … in*) where the Greek has ἐπί three times; kept as *para … sobre … para* — each is natural Portuguese, and *sobre os seus santos* keeps the picture of a word spoken over them. Subject *ele* supplied. Draft 2: the stylist (v1) found *para o seu povo* slack and asked the dative *ao seu povo*; taken — the preposition is grammar (D2), the Greek's ἐπί is one word, and the second *in* follows it (*e aos que*) so the two *in* stay one; *sobre* for *super* stays. The ambiguity reader heard 'announce peace' first for *falará paz* — the sense.",
+      "options": [
+        {
+          "label": "falará paz ao … sobre … aos",
+          "forms": {
+            "pax9": "falará paz ao seu povo",
+            "sup9b": "E sobre os seus santos",
+            "in9b": "e aos"
+          },
+          "note": "Ruling (draft 2): the stylist's plain dative for *in plebem* (and so for the second *in*); *super → sobre* kept.",
+          "from": "stylist"
+        },
+        {
+          "label": "falará paz para … sobre … para (draft 1)",
+          "forms": {
+            "pax9": "falará paz para o seu povo",
+            "sup9b": "E sobre os seus santos",
+            "in9b": "e para os"
+          },
+          "note": "draft 1: *para* for *in*; the stylist heard it slack at the cadence.",
+          "from": "draft"
+        },
+        {
+          "label": "falará de paz ao … aos … aos",
+          "forms": {
+            "pax9": "falará de paz ao seu povo",
+            "sup9b": "E aos seus santos",
+            "in9b": "e aos"
+          },
+          "note": "the Greek's one preposition, and *falar de*, the common build; *de paz* can be heard as 'about peace'.",
+          "from": "draft"
+        },
+        {
+          "label": "anunciará a paz ao … aos … aos",
+          "forms": {
+            "pax9": "anunciará a paz ao seu povo",
+            "sup9b": "E aos seus santos",
+            "in9b": "e aos"
+          },
+          "note": "MS1932, DM1962 (from the Hebrew); another verb.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adcor",
+      "refs": [
+        "84:9b"
+      ],
+      "latin": "qui convertúntur ad cor",
+      "kind": "ambiguity",
+      "why": "The Latin *ad cor* ('to the heart') is the Latin's own; the Greek has 'those who turn their heart to him', the Hebrew something else again. It can be heard as turning back into oneself (*redíte ad cor*, Is 46:8) or turning with the whole heart — the ambiguity is kept. The verb: men turning, and conversion the sense (DRB 'converted', MS1932 *se convertem*), so D25's exception, *converter*. MS1932's *de coração* ('sincerely') resolves the phrase and is refused as a ruling.",
+      "options": [
+        {
+          "label": "convertem ao coração",
+          "forms": {
+            "adcor": "convertem ao coração"
+          },
+          "note": "Ruling: the Latin's words; D25; DRB 'converted to the heart'.",
+          "from": "draft"
+        },
+        {
+          "label": "voltam para o coração",
+          "forms": {
+            "adcor": "voltam para o coração"
+          },
+          "note": "the *convértere* row's default verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "convertem de coração",
+          "forms": {
+            "adcor": "convertem de coração"
+          },
+          "note": "MS1932; the easier idiom, but it says 'sincerely', which the Latin does not.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "verum",
+      "refs": [
+        "84:10"
+      ],
+      "latin": "Verúmtamen",
+      "kind": "glossary",
+      "why": "The row is *todavia* (applied in Pss 31, 38, 48, 61, 72, 74). Here there is no contrast to answer: the Greek πλήν is asseverative, and DRB has 'Surely', MS1932 *Sim*. The row is followed; *Na verdade* (Ps 38's option) is kept as the option, for this verse especially.",
+      "options": [
+        {
+          "label": "Todavia",
+          "forms": {
+            "verum": "Todavia"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Na verdade",
+          "forms": {
+            "verum": "Na verdade"
+          },
+          "note": "the asseverative sense (DRB 'Surely'); Ps 38's option; collides with *véritas → verdade* in 84:11–12.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "oscul",
+      "refs": [
+        "84:11"
+      ],
+      "latin": "osculátæ sunt",
+      "kind": "word",
+      "why": "The plain word for the image: *se beijaram* (DRB 'have kissed'). MS1932's *se oscularam* is the cognate, a bookish word in Brazil now. The verse is famous as it stands; the image is kept concrete (rule 5).",
+      "options": [
+        {
+          "label": "se beijaram",
+          "forms": {
+            "oscul": "se beijaram"
+          },
+          "note": "Ruling: plain and concrete.",
+          "from": "draft"
+        },
+        {
+          "label": "se oscularam",
+          "forms": {
+            "oscul": "se oscularam"
+          },
+          "note": "MS1932, DM1962; the cognate.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "orta",
+      "refs": [
+        "84:12"
+      ],
+      "latin": "Véritas de terra orta est",
+      "kind": "glossary",
+      "why": "*oríri → nascer* (row; 71:7 *Nascerá nos seus dias a justiça*). ἀνέτειλεν is used of a star rising and a plant springing. The Christmas office sets this verse as an antiphon (Sancti/12-25, *Véritas de terra * orta est*) and the Fathers read the birth in it; *nasceu* carries both the birth and the springing. MS1932 and DM1962 *brotou* choose the plant only.",
+      "options": [
+        {
+          "label": "nasceu",
+          "forms": {
+            "orta": "nasceu"
+          },
+          "note": "Ruling: the row, as 71:7.",
+          "from": "glossary"
+        },
+        {
+          "label": "brotou",
+          "forms": {
+            "orta": "brotou"
+          },
+          "note": "MS1932, DM1962: the plant image alone.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "benign",
+      "refs": [
+        "84:13"
+      ],
+      "latin": "dabit benignitátem",
+      "kind": "glossary",
+      "why": "*benígnitas → benignidade* (settled, D44; the row names 84:13). The Latin has no possessive; the article is what Portuguese needs before an abstract object. MS1932 adds *a sua*. The blind readers have not known *benignidade* twice; *bondade* stays the option (it is *bónitas*'s word). Draft 2: the article dropped at the stylist's request (v1): the bare noun is native after *dar* and supplies nothing. Unknown to the ambiguity reader (the third time across psalms).",
+      "options": [
+        {
+          "label": "benignidade",
+          "forms": {
+            "benign": "benignidade"
+          },
+          "note": "Ruling (draft 2): the stylist — no article, as the Latin; nothing added.",
+          "from": "stylist"
+        },
+        {
+          "label": "a benignidade (draft 1)",
+          "forms": {
+            "benign": "a benignidade"
+          },
+          "note": "draft 1: the article; the stylist heard translationese (a particular benignity).",
+          "from": "glossary"
+        },
+        {
+          "label": "a sua benignidade",
+          "forms": {
+            "benign": "a sua benignidade"
+          },
+          "note": "MS1932 *a sua bondade*; supplies a possessive.",
+          "from": "MS1932"
+        },
+        {
+          "label": "a bondade",
+          "forms": {
+            "benign": "a bondade"
+          },
+          "note": "the row's option; *bónitas*'s word.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "order14",
+      "refs": [
+        "84:14"
+      ],
+      "latin": "et ponet in via gressus suos",
+      "kind": "order",
+      "why": "The stylist (v1) heard *porá no caminho os seus passos* as an inversion copied from the Latin, and asked for the natural order, which also closes on the paroxytone *caminho*. Taken (order, D2). *os seus passos* keeps the Latin's open owner (*suos*: justice's or the Lord's), which the ambiguity reader could not decide — as the Latin.",
+      "options": [
+        {
+          "label": "os seus passos no caminho",
+          "forms": {
+            "order14": "os seus passos no caminho"
+          },
+          "note": "Ruling (draft 2): the stylist's natural order.",
+          "from": "stylist"
+        },
+        {
+          "label": "no caminho os seus passos",
+          "forms": {
+            "order14": "no caminho os seus passos"
+          },
+          "note": "draft 1: the Latin's order.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "84:2": "Introit of Advent III; each colon reads alone. *captívitas → cativeiro*, *Jacob → Jacó* (13:7).",
+    "84:3": "*remíttere → perdoar* (row, 31:5b); *opérire → cobrir* (the *tégere* row names this verse, 31:1). *plebs → povo* (row). *eórum → os seus*: after *vosso povo* the possessive can only be theirs. The ambiguity reader noted *cobristes* is near *cobrastes* ('you charged'); kept — the *tégere / opérire* row's verb (31:1), and the context (*Perdoastes*) settles it.",
+    "84:4": "*ira … ira* is the Latin's repetition, kept. *indignátio → indignação* (row).",
+    "84:5": "The Compline versicle: *V. Convertei-nos, Deus, nosso Salvador. R. E afastai de nós a vossa ira.* Natural order in the second colon (*de nós* before the object).",
+    "84:6": "*numquid → acaso* (row). *a generatióne in generatiónem → de geração em geração*, as 76:9 and the formula row.",
+    "84:7": "*convérsus* of God → *voltando-vos*, as 70:20 (*voltando-vos, me vivificastes*). *lætári → alegrar-se* (row).",
+    "84:8": "The Preces and Advent versicle, which must stand alone as V and R: *V. Mostrai-nos, Senhor, a vossa misericórdia. R. E dai-nos a vossa salvação.* *salutáre tuum → a vossa salvação*, = the Nunc dimittis (D6). Natural order (*dai-nos* before the object). *Mostrai* and *dai* are safe under rule 3 (past *mostrei*, *dei*). The glossary had no formula row for it; one is proposed.",
+    "84:9": "*audíre → ouvir* (not an imperative, D3 allows it).",
+    "84:10": "The copula *está* supplied (D2). *timéntes eum → os que o temem* (33:8). *ut inhábitet → para que habite*, the purpose clause kept (22:6b row); MS1932 turns it into a statement. The stylist's *em nossa terra* (v1) refused: rule 5 keeps the article before possessives. The ambiguity reader heard *Todavia* as a contrast (the cost named in decision `verum`).",
+    "84:11": "*obviáre sibi → encontrar-se* (L&S cites this verse: 'to meet'); *uma com a outra* not added — *se encontraram* is already reciprocal. Soft check: rhyme *encontraram / beijaram* accepted — the Latin sets two perfects at the two cadences (*obviavérunt / osculátæ sunt*), and every Portuguese perfect plural ends in *-aram* (the option *oscularam* too); reordering to avoid it would be inversion for its own sake.",
+    "84:12": "*prospícere → olhar* (row, which names this verse; 13:2 *olhou do céu*). The Christmas antiphon is the first colon.",
+    "84:13": "*étenim → pois* (row). *dabit … dabit* kept as *dará … dará* (MS1932 varies the second, *produzirá*); 66:6 *a terra deu o seu fruto*. The Advent versicle (*V. Dóminus dabit benignitátem, et terra nostra dabit fructum suum*) is this verse without *Étenim*.",
+    "84:14": "*ambuláre → andar* (row); *gressus → passos* (16:5). *os seus passos* keeps the Latin's open reference (justice's own steps or the Lord's: *suos* against the Greek αὐτοῦ)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps084.md (with the Diurnal Monástico 1962). Hard readings: 84:4 *avertísti ab ira* with no object (reflexive); 84:9 *loquátur in me* and *loquétur pacem in plebem … super … in*; 84:9b *convertúntur ad cor*; 84:10 *Verúmtamen* without contrast; 84:14 *suos*. Liturgical texts that read alone: 84:2 (Introit, Advent III), 84:5 (Compline versicle), 84:8 (Preces / Advent versicle), 84:12a (Christmas antiphon), 84:13 (Advent versicle). The glossary had no formula row for 84:8; the Ps 79 refrain row fixes *Convérte nos* (followed, at the Ps 79 agent's request)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Soft, all accepted: 84:3b -4 (*cobristes todos os seus pecados* is complete; nothing to add); 84:6a +4 (*estareis irado*, the copula future — option *vos irareis* is 3 shorter) and 84:6b -4 (the formula *de geração em geração*); 84:7b +3 (*e o vosso povo* — article and possessive); 84:8a -3 (Portuguese *misericórdia* carries the colon); 84:9b second colon +3 (*ao coração*, the Latin's words); 84:11 rhyme accepted (see choices)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. No remarks: 'adequate throughout', tenses, the reflexive 84:4, *salutáris noster*, *ad cor* and the open *suos* named as kept.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 6 remarks in 6 verses; best 84:11, worst 84:7. Taken 4 (84:4, 84:9, 84:13, 84:14), refused 2 (84:7 kept as an option; 84:10 against rule 5).",
+      "outcomes": [
+        {
+          "verse": "84:4",
+          "remark": "'vos afastastes' opens on a clitic; 'afastastes-vos'",
+          "outcome": "taken",
+          "decision": "avertere"
+        },
+        {
+          "verse": "84:7",
+          "remark": "'voltando-vos, vós nos vivificareis' trips; 'nos dareis a vida'",
+          "outcome": "option",
+          "decision": "vivif",
+          "reason": "Drops the Latin's emphatic *tu* and the *vivificáre* row's verb (79:19, 70:20)."
+        },
+        {
+          "verse": "84:9",
+          "remark": "'para o seu povo' slack; 'ao seu povo'",
+          "outcome": "taken",
+          "decision": "pacem"
+        },
+        {
+          "verse": "84:10",
+          "remark": "'na nossa' stutters; 'em nossa terra'",
+          "outcome": "refused",
+          "reason": "Rule 5: the article stays before possessives (*na nossa terra*, as 84:13 *a nossa terra*)."
+        },
+        {
+          "verse": "84:13",
+          "remark": "article before 'benignidade' is translationese",
+          "outcome": "taken",
+          "decision": "benign"
+        },
+        {
+          "verse": "84:14",
+          "remark": "inversion; 'porá os seus passos no caminho'",
+          "outcome": "taken",
+          "decision": "order14"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 18 readings; unknown words *vivificareis*, *benignidade*, *indignação*. Most readings are the Latin's own openness (84:9 *em mim*, 84:9b *ao coração*, 84:14 *os seus passos*). Acted on: 84:4 (the proclitic, mended with the stylist). Refused: the rest, with reasons.",
+      "outcomes": [
+        {
+          "verse": "84:3",
+          "remark": "'cobristes' near 'cobrastes'",
+          "outcome": "refused",
+          "reason": "The row's verb (31:1); *Perdoastes* in the same verse settles it."
+        },
+        {
+          "verse": "84:4",
+          "remark": "proclitic 'vos' hard to parse",
+          "outcome": "taken",
+          "decision": "avertere"
+        },
+        {
+          "verse": "84:7",
+          "remark": "'vivificareis' unknown; gerund hard aloud",
+          "outcome": "option",
+          "decision": "vivif",
+          "reason": "The row keeps *vivificar*; *dareis a vida* is the option."
+        },
+        {
+          "verse": "84:9b",
+          "remark": "'ao coração' unclear; 'E sobre os seus santos' a fragment",
+          "outcome": "refused",
+          "decision": "adcor",
+          "reason": "The Latin's *ad cor* and its verse division (DO's ids); the openness is the Latin's."
+        },
+        {
+          "verse": "84:10",
+          "remark": "'Todavia' suggests a contrast",
+          "outcome": "option",
+          "decision": "verum",
+          "reason": "The row; *Na verdade* is the option and flagged for this verse."
+        },
+        {
+          "verse": "84:13",
+          "remark": "'benignidade' unknown",
+          "outcome": "option",
+          "decision": "benign",
+          "reason": "D44 settled; *bondade* is the option."
+        },
+        {
+          "verse": "84:14",
+          "remark": "subject/owner of 'seus passos' unclear",
+          "outcome": "refused",
+          "decision": "order14",
+          "reason": "The Latin's *suos* is open in the same way."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 84:4 *afastastes-vos*; 84:9 *ao seu povo* and 84:9b *e aos que* (dative); 84:13 *benignidade* without article; 84:14 natural order *os seus passos no caminho*. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Gate on draft 2: no remarks (tenses, *in me*, *ad cor*, the images and the reflexive *afastastes-vos* named as kept; marks match).",
+      "outcomes": []
+    }
+  ]
+}
