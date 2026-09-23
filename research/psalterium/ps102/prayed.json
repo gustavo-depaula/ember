@@ -1,0 +1,1167 @@
+{
+  "psalm": 102,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "102:1": "Bendize, {anima1}, {dom1}: * {omnia}.",
+    "102:2": "Bendize, {anima2}, {dom2}: * e não esqueças {retributiones}.",
+    "102:3": "{qui3} {propitiatur} todas as tuas iniquidades: * que cura todas as tuas enfermidades.",
+    "102:4": "{qui4} resgata {interitu} a tua vida: * que te coroa de misericórdia e de compaixões.",
+    "102:5": "{qui5} {replet} o teu desejo: * {renovabitur}:",
+    "102:6": "O Senhor faz misericórdias: * e {judicium} para todos os que sofrem {injuria}.",
+    "102:7": "Fez conhecer a Moisés os seus caminhos, * aos filhos de Israel as suas vontades.",
+    "102:8": "{miserator}: * {longanimis} e muito misericordioso.",
+    "102:9": "Não {irascetur} {perpetuum}: * nem ameaçará para sempre.",
+    "102:10": "Não nos tratou segundo os nossos pecados: * nem nos retribuiu segundo as nossas iniquidades.",
+    "102:11": "Porque, segundo a altura do céu acima da terra, * {corroboravit} a sua misericórdia sobre os que o temem.",
+    "102:12": "Quanto dista o oriente do ocidente, * {longe} as nossas iniquidades.",
+    "102:13": "Como um pai tem piedade dos filhos, {sic} teve piedade dos que o temem: * porque {figmentum}.",
+    "102:14": "Lembrou-se de que somos pó: * {homo}, como a flor do campo, assim florescerá.",
+    "102:16": "Porque {spiritus} passará por ele, e não subsistirá: * e já não conhecerá o seu lugar.",
+    "102:17": "Mas a misericórdia do Senhor é desde sempre, * e para todo o sempre sobre os que o temem.",
+    "102:17b": "E a sua justiça, {infilios} os filhos dos filhos, * para os que {servant} a sua aliança:",
+    "102:18": "E lembram-se dos seus mandamentos, * para {facere18}.",
+    "102:19": "O Senhor preparou no céu o seu trono: * e o seu reino dominará {omnibus}.",
+    "102:20": "Bendizei {dom3}, todos os seus anjos: * poderosos em {virtute}, que {facere20} a sua palavra, para ouvir a voz {sermonum}.",
+    "102:21": "Bendizei {dom4}, todos os seus {virtutes}: * seus ministros, que {facere21} a sua vontade.",
+    "102:22": "Bendizei {dom5}, todas as suas obras: * em todo lugar do seu domínio, bendize, {anima3}, {dom6}."
+  },
+  "decisions": [
+    {
+      "id": "benedic",
+      "refs": [
+        "102:1",
+        "102:2",
+        "102:20",
+        "102:21",
+        "102:22"
+      ],
+      "latin": "Bénedic / Benedícite … Dómino (dative, six times)",
+      "kind": "glossary",
+      "why": "The benedícere (man → God) row keeps the Latin's two cases at no cost: accusative *bendizei o Senhor* (133), dative *bendizei ao Senhor*, and names 102:20–22 among the datives. Every Ps 102 place is the dative. The Greek has the accusative everywhere (εὐλόγει … τὸν κύριον), so by D15's test the Latin's case is not a difference of sense; but the row is working and Portuguese carries the dative with no loss, and in 102:1 the *ao* is what lets the verbless second colon (*ao seu santo nome*) be heard as a second 'bless'. Ps 95:2 turned a dative noun object direct on the stylist's word ('dated'); the row itself says it may want revisiting. Ruled for the row; the direct object is one touch away.",
+      "options": [
+        {
+          "label": "ao Senhor",
+          "forms": {
+            "dom1": "ao Senhor",
+            "dom2": "ao Senhor",
+            "dom3": "ao Senhor",
+            "dom4": "ao Senhor",
+            "dom5": "ao Senhor",
+            "dom6": "ao Senhor"
+          },
+          "note": "draft — the row's dative; parallel to *ao seu santo nome* in 102:1",
+          "from": "glossary"
+        },
+        {
+          "label": "o Senhor",
+          "forms": {
+            "dom1": "o Senhor",
+            "dom2": "o Senhor",
+            "dom3": "o Senhor",
+            "dom4": "o Senhor",
+            "dom5": "o Senhor",
+            "dom6": "o Senhor"
+          },
+          "note": "direct object, as 133 and as MS1932 here (*Bendize, ó minha alma, o Senhor*); with it 102:1b should become *o seu santo nome* (decision omnia)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "anima",
+      "refs": [
+        "102:1",
+        "102:2",
+        "102:22"
+      ],
+      "latin": "ánima mea (vocative)",
+      "kind": "word",
+      "why": "The soul is addressed, singular, so *tu* (*Bendize*). The vocative is marked with *ó* so that *minha alma* is not heard as the subject of a third person *bendize* ('my soul blesses'); MS1932 has *ó minha alma* in all three places. The refrain 41:6 / 42:5 has no *ó* (*Por que estás triste, minha alma?*), but there the verb is a question in the second person and cannot be misheard.",
+      "options": [
+        {
+          "label": "ó minha alma",
+          "forms": {
+            "anima1": "ó minha alma",
+            "anima2": "ó minha alma",
+            "anima3": "ó minha alma"
+          },
+          "note": "draft; MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "minha alma",
+          "forms": {
+            "anima1": "minha alma",
+            "anima2": "minha alma",
+            "anima3": "minha alma"
+          },
+          "note": "bare vocative, as 41:6",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "omnia",
+      "refs": [
+        "102:1"
+      ],
+      "latin": "et ómnia, quæ intra me sunt, nómini sancto ejus",
+      "kind": "grammar",
+      "why": "The Latin gaps the verb: *ómnia quæ intra me sunt* is a second addressee of *Bénedic*, and *nómini sancto ejus* its dative. MS1932 supplies *(bendigam)* in parentheses, a gloss. Kept verbless: the dative *ao* in both colons makes the parallel audible (bless the Lord … all within me, his holy name). *dentro de mim* keeps *intra*; *há* is the plain verb for *sunt* here.",
+      "options": [
+        {
+          "label": "verbless (Latin)",
+          "forms": {
+            "omnia": "e tudo o que há dentro de mim, ao seu santo nome"
+          },
+          "note": "draft — the Latin's ellipsis",
+          "from": "draft"
+        },
+        {
+          "label": "verb supplied",
+          "forms": {
+            "omnia": "e tudo o que há dentro de mim bendiga o seu santo nome"
+          },
+          "note": "MS1932's gloss made text; supplies a verb the Latin leaves out"
+        },
+        {
+          "label": "verbless, direct object",
+          "forms": {
+            "omnia": "e tudo o que há dentro de mim, o seu santo nome"
+          },
+          "note": "goes with decision benedic option 2",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "retributiones",
+      "refs": [
+        "102:2"
+      ],
+      "latin": "et noli oblivísci omnes retributiónes ejus",
+      "kind": "grammar",
+      "why": "*retribútio → retribuição* (the row: 'neutral on purpose — it is a good thing in 102:2'). *noli oblivísci omnes* is 'forget none of': Portuguese *não esqueças todas* would say 'do not forget all of them (some you may)', a scope the Latin does not have. *nenhuma das* is grammar (the negation's scope), under D2. MS1932 and DRB both render the sense (*nenhum dos seus benefícios*; 'all he hath done for thee').",
+      "options": [
+        {
+          "label": "nenhuma das suas retribuições",
+          "forms": {
+            "retributiones": "nenhuma das suas retribuições"
+          },
+          "note": "draft — the row's noun, negation scope made Portuguese",
+          "from": "draft"
+        },
+        {
+          "label": "todas as suas retribuições",
+          "forms": {
+            "retributiones": "todas as suas retribuições"
+          },
+          "note": "word for word; heard as 'not all of them'"
+        },
+        {
+          "label": "nenhum dos seus benefícios",
+          "forms": {
+            "retributiones": "nenhum dos seus benefícios"
+          },
+          "note": "MS1932; *benefício* interprets the neutral *retribútio* and breaks the row",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "propitiatur",
+      "refs": [
+        "102:3"
+      ],
+      "latin": "Qui propitiátur ómnibus iniquitátibus tuis",
+      "kind": "glossary",
+      "why": "**Flagged for Gustavo: this verse is named in the propitiári row as awaiting his ruling on the family.** The row's current state: where the object is a sin, *ser clemente com* (78:9 *sede clemente com os nossos pecados*; 77:38 *será clemente com os pecados deles*), because *ser propício a* was heard by two blind readers (24:11, 64:4) as God favouring the sin, and *propício* was listed as unknown. The row proposes for this verse, word for word, *que é clemente com todas as tuas iniquidades*; applied. *perdoar* stays dimíttere's; *misericórdia* has its own word in 102:4. The Greek is εὐιλατεύοντα, 'being gracious towards'.",
+      "options": [
+        {
+          "label": "é clemente com",
+          "forms": {
+            "propitiatur": "é clemente com"
+          },
+          "note": "the row's proposal for the family where the object is a sin (as 77:38, 78:9); awaits Gustavo",
+          "from": "glossary"
+        },
+        {
+          "label": "é propício a",
+          "forms": {
+            "propitiatur": "é propício a"
+          },
+          "note": "24:11 / 64:4's build; misheard twice as favouring sin"
+        },
+        {
+          "label": "perdoa",
+          "forms": {
+            "propitiatur": "perdoa"
+          },
+          "note": "MS1932, DRB 'forgiveth'; *perdoar* is dimíttere's",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "qui",
+      "refs": [
+        "102:3",
+        "102:4",
+        "102:5"
+      ],
+      "latin": "Qui … qui … Qui … qui … Qui …",
+      "kind": "grammar",
+      "why": "Five relative clauses hang on *Dómino … ejus* of 102:2, three of them opening a verse. Kept as bare *Que … que …*, the Latin's build and its anaphora: the sentence runs on from 102:2 as the Latin does. The risk is that a verse-initial *Que* is heard as a question; the colons end in plain nouns and no question follows, so the risk was judged small — the ambiguity reader is the test. MS1932 makes each verse a cleft main clause (*É ele que perdoa …*), which reads cleanly but collides with *é clemente* (*É ele que é clemente*).",
+      "options": [
+        {
+          "label": "Que",
+          "forms": {
+            "qui3": "Que",
+            "qui4": "Que",
+            "qui5": "Que"
+          },
+          "note": "draft — the Latin's relatives",
+          "from": "draft"
+        },
+        {
+          "label": "É ele que",
+          "forms": {
+            "qui3": "É ele que",
+            "qui4": "É ele que",
+            "qui5": "É ele que"
+          },
+          "note": "MS1932's cleft; with *é clemente* it doubles the *é*",
+          "from": "MS1932"
+        },
+        {
+          "label": "Ele, que",
+          "forms": {
+            "qui3": "Ele, que",
+            "qui4": "Ele, que",
+            "qui5": "Ele, que"
+          },
+          "note": "a named subject for the chain; heard as an appositive fragment"
+        }
+      ]
+    },
+    {
+      "id": "interitu",
+      "refs": [
+        "102:4"
+      ],
+      "latin": "de intéritu",
+      "kind": "glossary",
+      "why": "*intéritus → destruição* (row, 9:16a, 34:7). DRB 'destruction'. MS1932 *da morte* interprets. The Greek φθορά is 'corruption', which the Latin does not say.",
+      "options": [
+        {
+          "label": "da destruição",
+          "forms": {
+            "interitu": "da destruição"
+          },
+          "note": "row",
+          "from": "glossary"
+        },
+        {
+          "label": "da morte",
+          "forms": {
+            "interitu": "da morte"
+          },
+          "note": "MS1932; interprets",
+          "from": "MS1932"
+        },
+        {
+          "label": "da ruína",
+          "forms": {
+            "interitu": "da ruína"
+          },
+          "note": "*ruína* is præcipitátio's (51:6)"
+        }
+      ]
+    },
+    {
+      "id": "replet",
+      "refs": [
+        "102:5"
+      ],
+      "latin": "Qui replet in bonis desidérium tuum",
+      "kind": "word",
+      "why": "*replére → encher* (row, passive so far; kept apart from *satiáre / saturáre → saciar*). Active here, *encher de bens*. *bens* can be heard as possessions (Ps 4's ambiguity reader); after *encher de* it is the phrase of good things (the Magnificat's *bonis* is commonly *encheu de bens* in Brazil — from memory, not verified). MS1932 *sacia* is satiáre's verb.",
+      "options": [
+        {
+          "label": "enche de bens",
+          "forms": {
+            "replet": "enche de bens"
+          },
+          "note": "row verb",
+          "from": "glossary"
+        },
+        {
+          "label": "sacia de bens",
+          "forms": {
+            "replet": "sacia de bens"
+          },
+          "note": "MS1932; saciar is satiáre's",
+          "from": "MS1932"
+        },
+        {
+          "label": "enche de coisas boas",
+          "forms": {
+            "replet": "enche de coisas boas"
+          },
+          "note": "12:6's *coisas boas*; no possessions reading; +2 syllables"
+        }
+      ]
+    },
+    {
+      "id": "renovabitur",
+      "refs": [
+        "102:5"
+      ],
+      "latin": "renovábitur ut áquilæ juvéntus tua",
+      "kind": "order",
+      "why": "The subject comes last in the Latin, and *juventude* is a good paroxytone close; *águia* at the end would put the final stress three syllables back. The verb moved after the comparison to avoid mesóclise (*renovar-se-á*, MS1932's order) — order only. v2: the stylist and the ambiguity reader both stumbled on *como a da águia* at the head (the pronoun comes before its noun); the plain order taken.",
+      "options": [
+        {
+          "label": "a tua juventude se renovará como a da águia",
+          "forms": {
+            "renovabitur": "a tua juventude se renovará como a da águia"
+          },
+          "note": "v2 — the stylist's (and the ambiguity reader could not catch *a da* ahead of its noun): plain order, so the ellipsis follows its noun; order only (D2). *águia* is said as two syllables (*á-guia*) in speech, so the final is paroxytone",
+          "from": "stylist"
+        },
+        {
+          "label": "como a da águia se renovará a tua juventude",
+          "forms": {
+            "renovabitur": "como a da águia se renovará a tua juventude"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "renovar-se-á como a da águia a tua juventude",
+          "forms": {
+            "renovabitur": "renovar-se-á como a da águia a tua juventude"
+          },
+          "note": "MS1932; the Latin's order, with mesóclise",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "judicium",
+      "refs": [
+        "102:6"
+      ],
+      "latin": "et judícium ómnibus injúriam patiéntibus",
+      "kind": "glossary",
+      "why": "*judícium → juízo* (D15). *fáciens* governs both nouns; the second colon keeps the Latin's gapping, so the ear does not meet the colloquial *fazer juízo* ('come to one's senses', 118:121's stylist). MS1932 *faz justiça* is the Portuguese idiom, but *justiça* is justítia's, and justítia is in this psalm (102:17b). *para todos* for the dative of advantage.",
+      "options": [
+        {
+          "label": "juízo",
+          "forms": {
+            "judicium": "juízo"
+          },
+          "note": "D15, gapped",
+          "from": "glossary"
+        },
+        {
+          "label": "justiça",
+          "forms": {
+            "judicium": "justiça"
+          },
+          "note": "MS1932's idiom; merges with 102:17b justítia",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "injuria",
+      "refs": [
+        "102:6"
+      ],
+      "latin": "injúriam patiéntibus",
+      "kind": "word",
+      "why": "'Those who suffer wrong' (ἀδικουμένοις). *injúria* in Brazil is chiefly an insult; MS1932 *agravos* is correct but formal. *injustiça* is the plain word and is heard rightly; it shares a word with injustítia (a different Latin noun, the same Greek root), which never stands in this verse.",
+      "options": [
+        {
+          "label": "injustiça",
+          "forms": {
+            "injuria": "injustiça"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "agravo",
+          "forms": {
+            "injuria": "agravo"
+          },
+          "note": "MS1932 (plural *agravos*)",
+          "from": "MS1932"
+        },
+        {
+          "label": "injúria",
+          "forms": {
+            "injuria": "injúria"
+          },
+          "note": "the cognate; heard as insult"
+        }
+      ]
+    },
+    {
+      "id": "miserator",
+      "refs": [
+        "102:8"
+      ],
+      "latin": "Miserátor, et miséricors Dóminus",
+      "kind": "order",
+      "why": "The pair is the row's *compassivo e misericordioso* (85:15). The Latin sets the adjectives first. The plain order (*O Senhor é compassivo e misericordioso*) would end the mediant on *misericordioso* and the verse on *misericordioso* too — a rhyme at mediant and final the Latin does not have (its mediant is *Dóminus*). The Latin's order keeps *o Senhor* at the mediant, as the Latin does, and the second *misericordioso* at the end, where the Latin puts its second *miséricors*. 144:8 has the same line and should copy it.",
+      "options": [
+        {
+          "label": "Compassivo e misericordioso é o Senhor",
+          "forms": {
+            "miserator": "Compassivo e misericordioso é o Senhor"
+          },
+          "note": "draft — the Latin's order",
+          "from": "draft"
+        },
+        {
+          "label": "O Senhor é compassivo e misericordioso",
+          "forms": {
+            "miserator": "O Senhor é compassivo e misericordioso"
+          },
+          "note": "MS1932's order; mediant and final both *misericordioso*",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "longanimis",
+      "refs": [
+        "102:8"
+      ],
+      "latin": "longánimis",
+      "kind": "glossary",
+      "why": "μακρόθυμος — the Greek of *pátiens* in 85:15, which the row renders *paciente*; by D15's test one Greek word, one Portuguese word. MS1932 *paciente* here. *longânime* is the cognate, a dictionary word most will not know (rule 5).",
+      "options": [
+        {
+          "label": "paciente",
+          "forms": {
+            "longanimis": "paciente"
+          },
+          "note": "row pátiens; MS1932",
+          "from": "glossary"
+        },
+        {
+          "label": "longânime",
+          "forms": {
+            "longanimis": "longânime"
+          },
+          "note": "the cognate; bookish"
+        }
+      ]
+    },
+    {
+      "id": "perpetuum",
+      "refs": [
+        "102:9"
+      ],
+      "latin": "Non in perpétuum irascétur: * neque in ætérnum comminábitur",
+      "kind": "glossary",
+      "why": "Two phrases in one verse: *in perpétuum* (εἰς τέλος — the Greek of *in finem*) and *in ætérnum* (εἰς τὸν αἰῶνα → *para sempre*, D23). D27 keeps εἰς τέλος apart from *in ætérnum*, and merged, the verse would say *para sempre* twice where the Latin varies. *perpetuamente* is the cognate, plain, and MS1932's word (*perpètuamente*). *in perpétuum* occurs nowhere else in the Gallican psalter (grep; only in canticles). *até o fim* would fail in the negative as 9:19 did.",
+      "options": [
+        {
+          "label": "perpetuamente",
+          "forms": {
+            "perpetuum": "perpetuamente"
+          },
+          "note": "draft; the cognate; MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "perpetuum": "para sempre"
+          },
+          "note": "D27's perpetuity reading of εἰς τέλος; the verse then repeats *para sempre*"
+        },
+        {
+          "label": "até o fim",
+          "forms": {
+            "perpetuum": "até o fim"
+          },
+          "note": "misheard in a negation (9:19, D27)"
+        },
+        {
+          "label": "para sempre … eternamente",
+          "forms": {
+            "perpetuum": "para sempre"
+          },
+          "note": "the stylist's swap (*Não estará irado para sempre: * nem ameaçará eternamente*); needs the second colon changed too and breaks D23 (*in ætérnum → para sempre*, *eternamente* its refused option)",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "irascetur",
+      "refs": [
+        "102:9"
+      ],
+      "latin": "irascétur",
+      "kind": "grammar",
+      "why": "The Latinist (v1, minor) asks the simple future *se irará* (the act, not a state), parallel to *ameaçará*. Held for the irásci row: 79:5 and 84:6 made the future a copula + participle because *vos irareis* is a knot of r's, and *se irará perpetuamente* is the same knot. The state reading is inside the verse's sense (not angry for ever).",
+      "options": [
+        {
+          "label": "estará irado",
+          "forms": {
+            "irascetur": "estará irado"
+          },
+          "note": "draft — the row's copula future (79:5, 84:6)",
+          "from": "glossary"
+        },
+        {
+          "label": "se irará",
+          "forms": {
+            "irascetur": "se irará"
+          },
+          "note": "the Latinist's simple future",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "corroboravit",
+      "refs": [
+        "102:11"
+      ],
+      "latin": "corroborávit misericórdiam suam",
+      "kind": "word",
+      "why": "ἐκραταίωσεν. No row. κραταιόω is the Greek of *confortétur* in 26:14 (*que o teu coração se fortaleça*), so by D15's test the verb is *fortalecer*. MS1932 *firmou* would collide with *firmáre / confirmáre* (32:6, 118:38).",
+      "options": [
+        {
+          "label": "fortaleceu",
+          "forms": {
+            "corroboravit": "fortaleceu"
+          },
+          "note": "D15 test via 26:14",
+          "from": "draft"
+        },
+        {
+          "label": "firmou",
+          "forms": {
+            "corroboravit": "firmou"
+          },
+          "note": "MS1932; firmáre's verb",
+          "from": "MS1932"
+        },
+        {
+          "label": "fez forte",
+          "forms": {
+            "corroboravit": "fez forte"
+          },
+          "note": "keeps 'strong' without a verb shared with another Latin word"
+        }
+      ]
+    },
+    {
+      "id": "longe",
+      "refs": [
+        "102:12"
+      ],
+      "latin": "Quantum distat … longe fecit a nobis",
+      "kind": "word",
+      "why": "*longe fecit* keeps the adverb (the perto / longe row: *pôr longe*); *tão* supplies the correlative Portuguese needs for *Quantum* (grammar). MS1932 *tanto ele afastou* loses *longe*.",
+      "options": [
+        {
+          "label": "tão longe pôs de nós",
+          "forms": {
+            "longe": "tão longe pôs de nós"
+          },
+          "note": "draft; the row's *pôr longe*",
+          "from": "glossary"
+        },
+        {
+          "label": "tanto afastou de nós",
+          "forms": {
+            "longe": "tanto afastou de nós"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "pôs longe de nós",
+          "forms": {
+            "longe": "pôs longe de nós"
+          },
+          "note": "no correlative, as the Latin"
+        }
+      ]
+    },
+    {
+      "id": "sic",
+      "refs": [
+        "102:13"
+      ],
+      "latin": "Quómodo miserétur pater … misértus est Dóminus",
+      "kind": "grammar",
+      "why": "The Latin has no *sic*; Portuguese carries *Como … , o Senhor …* without it, so none is supplied. *miseréri → ter piedade* (row), twice, as the Latin repeats the verb (MS1932 *compadece … compadeceu*).",
+      "options": [
+        {
+          "label": "o Senhor",
+          "forms": {
+            "sic": "o Senhor"
+          },
+          "note": "draft — no correlative, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "assim o Senhor",
+          "forms": {
+            "sic": "assim o Senhor"
+          },
+          "note": "MS1932, DRB 'so'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "figmentum",
+      "refs": [
+        "102:13"
+      ],
+      "latin": "quóniam ipse cognóvit figméntum nostrum",
+      "kind": "word",
+      "why": "*figméntum* (πλάσμα) is the thing formed — the potter's work; the next verse says what it is made of (*pulvis*). No plain Portuguese noun: *feitura* is factúra's (91:5), *formação* is heard as schooling, *massa* adds. The noun is said as a clause, as D16 did with *elóquium*: *de que somos formados* is MS1932's own wording, and with a clause for object *cognóscere* takes *saber* (the row, 13:4). *cognóvit* is the perfect of knowing, present in sense (DRB 'knoweth'; D44 *conheço*). *ipse → ele mesmo*, as 67:36 and 43:5.",
+      "options": [
+        {
+          "label": "ele mesmo sabe de que somos formados",
+          "forms": {
+            "figmentum": "ele mesmo sabe de que somos formados"
+          },
+          "note": "draft; MS1932's clause",
+          "from": "MS1932"
+        },
+        {
+          "label": "ele mesmo conhece a nossa feitura",
+          "forms": {
+            "figmentum": "ele mesmo conhece a nossa feitura"
+          },
+          "note": "a noun; factúra's word (91:5)"
+        },
+        {
+          "label": "ele mesmo conhece o nosso barro",
+          "forms": {
+            "figmentum": "ele mesmo conhece o nosso barro"
+          },
+          "note": "the image made concrete; supplies clay"
+        }
+      ]
+    },
+    {
+      "id": "homo",
+      "refs": [
+        "102:14"
+      ],
+      "latin": "homo, sicut fænum dies ejus, tamquam flos agri sic efflorébit",
+      "kind": "grammar",
+      "why": "*homo* hangs at the head and is the subject of *efflorébit*. Kept as a hanging subject so that *florescerá* is still the man's; MS1932 and DRB make it *os dias do homem*, after which *florescerá* could belong to the days. The Latin order of the comparison (*sicut fænum dies ejus*) is kept so that the two *como* answer each other. *fænum → erva*: the fænum row splits by what the grass does; here it stands beside the flower of the field and the next verse is a wind passing over it — living grass, not hay (the row: *erva* is the candidate if one word is wanted). v2: the stylist's order taken for the comparison; the hanging *o homem* stays.",
+      "options": [
+        {
+          "label": "o homem, os seus dias são como a erva",
+          "forms": {
+            "homo": "o homem, os seus dias são como a erva"
+          },
+          "note": "v2 — the stylist's: the hanging subject kept (so *florescerá* stays the man's), the comparison in plain order; order only (D2)",
+          "from": "stylist"
+        },
+        {
+          "label": "o homem, como a erva são os seus dias",
+          "forms": {
+            "homo": "o homem, como a erva são os seus dias"
+          },
+          "note": "draft 1 — the Latin order of *sicut fænum dies ejus*; the stylist and the ambiguity reader could not place the double inversion at speed",
+          "from": "draft"
+        },
+        {
+          "label": "os dias do homem são como a erva",
+          "forms": {
+            "homo": "os dias do homem são como a erva"
+          },
+          "note": "MS1932 / DRB build; *florescerá* loses its subject",
+          "from": "MS1932"
+        },
+        {
+          "label": "o homem, como o feno são os seus dias",
+          "forms": {
+            "homo": "o homem, como o feno são os seus dias"
+          },
+          "note": "*feno* (MS1932, 36:2)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "spiritus",
+      "refs": [
+        "102:16"
+      ],
+      "latin": "Quóniam spíritus pertransíbit in illo",
+      "kind": "ambiguity",
+      "why": "*spíritus* (πνεῦμα) is wind and breath at once: a wind passing over the flower, or the life-breath passing out of the man. Portuguese *espírito* has lost 'wind' and would be heard as the soul or the Holy Spirit; *vento* keeps only the wind (MS1932 *sopro de vento*). *sopro* is both breath and gust, so it keeps the Latin's openness. *e não subsistirá* keeps the Latin's open subject (the man or the flower).",
+      "options": [
+        {
+          "label": "um sopro",
+          "forms": {
+            "spiritus": "um sopro"
+          },
+          "note": "draft — breath and wind",
+          "from": "draft"
+        },
+        {
+          "label": "o espírito",
+          "forms": {
+            "spiritus": "o espírito"
+          },
+          "note": "the cognate, DRB 'the spirit'; heard as the soul",
+          "from": "DRB"
+        },
+        {
+          "label": "um vento",
+          "forms": {
+            "spiritus": "um vento"
+          },
+          "note": "MS1932's reading (*um sopro de vento*); closes the ambiguity",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "infilios",
+      "refs": [
+        "102:17b"
+      ],
+      "latin": "Et justítia illíus in fílios filiórum",
+      "kind": "word",
+      "why": "*in* + accusative, 'unto, towards' (ἐπὶ υἱοὺς υἱῶν). *para* is the plain preposition and is echoed by *para os que* (the dative *his*), as the two members are one extent. *sobre* would echo *super timéntes* of 102:17 but the Latin changes preposition; *até* makes it a limit.",
+      "options": [
+        {
+          "label": "para",
+          "forms": {
+            "infilios": "para"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "sobre",
+          "forms": {
+            "infilios": "sobre"
+          },
+          "note": "MS1932 (*sobre os filhos dos filhos*)",
+          "from": "MS1932"
+        },
+        {
+          "label": "até",
+          "forms": {
+            "infilios": "até"
+          },
+          "note": "DRB 'unto'; heard as a limit",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "servant",
+      "refs": [
+        "102:17b"
+      ],
+      "latin": "his qui servant testaméntum ejus",
+      "kind": "glossary",
+      "why": "*serváre* (a law, a covenant) → *observar* (open row; 102:17 named among its five places); *custodíre* keeps *guardar*. *testaméntum → aliança* (row). MS1932 *guardam*, the idiom, is the option.",
+      "options": [
+        {
+          "label": "observam",
+          "forms": {
+            "servant": "observam"
+          },
+          "note": "row",
+          "from": "glossary"
+        },
+        {
+          "label": "guardam",
+          "forms": {
+            "servant": "guardam"
+          },
+          "note": "MS1932; custodíre's verb; the stylist (v1) asked it as plainer — refused for the row (custodíre keeps *guardar*); the ambiguity reader heard *observam* as keep",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facere",
+      "refs": [
+        "102:18",
+        "102:20",
+        "102:21"
+      ],
+      "latin": "ad faciéndum ea · faciéntes verbum illíus · qui fácitis voluntátem ejus",
+      "kind": "word",
+      "why": "One Latin verb three times in four verses. *fazer* cannot take *palavra* or *mandamentos* in Portuguese; *cumprir* can (the row fácere (justificatiónes) → *cumprir*). *fácere voluntátem* is *fazer a vontade* in 39:9 (*que eu faça a vossa vontade*), the Our Father's verb, so 102:21 keeps it; the repetition is kept in two of three. The option makes all three *cumprir* and breaks 39:9's formula.",
+      "options": [
+        {
+          "label": "cumprir … cumprir … fazer",
+          "forms": {
+            "facere18": "cumpri-los",
+            "facere20": "cumpris",
+            "facere21": "fazeis"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "cumprir ×3",
+          "forms": {
+            "facere18": "cumpri-los",
+            "facere20": "cumpris",
+            "facere21": "cumpris"
+          },
+          "note": "the repetition whole; breaks 39:9's *fazer a vontade*"
+        },
+        {
+          "label": "MS1932",
+          "forms": {
+            "facere18": "os observar",
+            "facere20": "executais",
+            "facere21": "fazeis"
+          },
+          "note": "MS1932 (*para os observar*, *executores da sua palavra*); *observar* is serváre's (102:17b)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "omnibus",
+      "refs": [
+        "102:19"
+      ],
+      "latin": "et regnum ipsíus ómnibus dominábitur",
+      "kind": "ambiguity",
+      "why": "*ómnibus* can be masculine or neuter (all men, all things); the Greek πάντων is as open. *sobre todos* leans to persons but does not exclude all things; *sobre tudo* closes it the other way. MS1932 *sobre todos*.",
+      "options": [
+        {
+          "label": "sobre todos",
+          "forms": {
+            "omnibus": "sobre todos"
+          },
+          "note": "draft; MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "sobre tudo",
+          "forms": {
+            "omnibus": "sobre tudo"
+          },
+          "note": "the neuter"
+        }
+      ]
+    },
+    {
+      "id": "virtute",
+      "refs": [
+        "102:20"
+      ],
+      "latin": "poténtes virtúte",
+      "kind": "glossary",
+      "why": "δυνατοὶ ἰσχύι. The virtus row: *poder* for God's, *vigor* for a creature's own strength where the Greek is ἰσχύς (21:16, 37:11, 70:9). *poderosos em poder* would stutter; *força* is fortitúdo's. DRB 'mighty in strength'. v2: the stylist's *força* taken as a local departure; *vigor* stays the option.",
+      "options": [
+        {
+          "label": "força",
+          "forms": {
+            "virtute": "força"
+          },
+          "note": "v2 — the stylist's (and DRB 'mighty in strength'): *poderosos em vigor* heard as tautological and stiff. A local departure from the virtus row's *vigor*: the angels' ἰσχύς; fortitúdo does not occur in this psalm",
+          "from": "stylist"
+        },
+        {
+          "label": "vigor",
+          "forms": {
+            "virtute": "vigor"
+          },
+          "note": "draft 1 — the virtus row's proposal for ἰσχύς; the stylist heard *poderosos em vigor* as a tautology",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "sermonum",
+      "refs": [
+        "102:20"
+      ],
+      "latin": "faciéntes verbum illíus, ad audiéndam vocem sermónum ejus",
+      "kind": "glossary",
+      "why": "D15 names this verse: *verbum* and *sermo* side by side, one Greek word (and here the Greek repeats it: τὸν λόγον … τῶν λόγων), so *palavra … palavras* as D15 rules; the verse decides locally. 55:11 kept the Latin's variation with *fala*; that is the option. MS1932 and DRB *ordens / orders* interpret. v2: the stylist heard *palavra … palavras* as a jingle at the cadence and asked *do seu falar*; refused for D15 (the Greek has the same repetition), kept as an option.",
+      "options": [
+        {
+          "label": "palavras",
+          "forms": {
+            "sermonum": "das suas palavras"
+          },
+          "note": "D15; the Greek repeats too",
+          "from": "glossary"
+        },
+        {
+          "label": "falas",
+          "forms": {
+            "sermonum": "das suas falas"
+          },
+          "note": "55:11's variation"
+        },
+        {
+          "label": "ordens",
+          "forms": {
+            "sermonum": "das suas ordens"
+          },
+          "note": "MS1932, DRB; interprets",
+          "from": "MS1932"
+        },
+        {
+          "label": "do seu falar",
+          "forms": {
+            "sermonum": "do seu falar"
+          },
+          "note": "the stylist (v1): the echo *palavra … palavras* lands on the final cadence. Refused: the Greek repeats λόγος, D15 merges verbum and sermo; *falar* as a noun is a third shape",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "virtutes",
+      "refs": [
+        "102:21"
+      ],
+      "latin": "omnes virtútes ejus",
+      "kind": "glossary",
+      "why": "πᾶσαι αἱ δυνάμεις αὐτοῦ, the heavenly powers. D43 renders *Dóminus virtútum* 'o Senhor dos poderes', the same plural; kept, so the Latin's one word stays one. DRB 'hosts', MS1932 'milícia' (the Hebrew's *ṣәbā'āyw*).",
+      "options": [
+        {
+          "label": "poderes",
+          "forms": {
+            "virtutes": "poderes"
+          },
+          "note": "D43's plural",
+          "from": "glossary"
+        },
+        {
+          "label": "exércitos",
+          "forms": {
+            "virtutes": "exércitos"
+          },
+          "note": "DRB 'hosts'",
+          "from": "DRB"
+        },
+        {
+          "label": "virtudes",
+          "forms": {
+            "virtutes": "virtudes"
+          },
+          "note": "the cognate (83:8's choice); heard as moral virtues"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "102:1": "The soul is a singular addressee: *tu* (*Bendize*). *intra me → dentro de mim*.",
+    "102:3": "*sanáre → curar* (row); *infirmitátes → enfermidades* (the infírmus row names this verse). **propitiári: flagged for Gustavo** (see decision).",
+    "102:4": "*redímere → resgatar* (row). *coronáre → coroar* (row) with *de*, as 8:6 *de glória e de honra o coroastes*. *miseratiónes → compaixões* (row; side by side with *misericórdia* as 24:6, 50:3).",
+    "102:5": "*juvéntus → juventude* (42:4). The verse ends with a colon, as the Latin, running into 102:6.",
+    "102:6": "*Fáciens* made a finite verb (grammar); *misericórdias* plural as the Latin (ἐλεημοσύνας; MS1932 *faz misericórdias*).",
+    "102:7": "*Notas fecit → Fez conhecer* (the notum fácere row: 15:11, 76:15, 97:2). No *e* between the colons, as the Latin (MS1932 adds one). *Móyses → Moisés* (row). *voluntátes* plural kept (*vontades*, MS1932).",
+    "102:8": "144:8 has the same Latin and should copy this verse. *multum miséricors → muito misericordioso*, not 85:15's *de muita misericórdia* (a different Latin, as the multæ misericórdiæ row warns).",
+    "102:9": "*irascétur → estará irado*, the copula future of 79:5 / 84:6 (*se irará* is a knot of r's). *comminári → ameaçar*.",
+    "102:10": "*fácere + dative → tratar* (the fácere cum row: *Tratai o vosso servo*); MS1932 *Não nos tratou*. *retríbuit → retribuiu* (17:21).",
+    "102:11": "*secúndum altitúdinem → segundo a altura* (the altitúdo row names this verse: the concrete word). *a terra* ('from the earth') → *acima da terra*, the height measured upward. *super timéntes se → sobre os que o temem*.",
+    "102:12": "*ortus / occidens → oriente / ocidente* (MS1932): *ortus* alone is the rising quarter; 49:1's *Desde o nascer do sol até o poente* is a different phrase (*a solis ortu usque ad occásum*).",
+    "102:13": "First colon long (the Latin's is long too).",
+    "102:14": "*Recordátus est → Lembrou-se de que*. *pulvis → pó* (row). *efflorébit → florescerá*; the prefix of ἐξανθήσει is not rendered separately (*desabrochar* would lose the root of *flos*).",
+    "102:16": "*ámplius non → já não*, as 38:14. *cognóscet → conhecerá* (with an object, the row). *subsístet → subsistirá* (MS1932). No subject supplied for *subsistirá*: the man or the flower, as the Latin.",
+    "102:17": "*ab ætérno … usque in ætérnum → desde sempre … para todo o sempre* — D37 for *usque in ætérnum* (the row names 102:17), and *desde sempre* for the first member as 40:14 *a sǽculo* (D41). *autem → Mas*. Copula supplied (*é*).",
+    "102:17b": "*justítia → justiça*; *filii filiórum → os filhos dos filhos* (MS1932). The verse ends with a colon, as the Latin.",
+    "102:18": "*mémores sunt → se lembram* (memor esse row). *mandáta → mandamentos* (D15). v2: *E se lembram* was heard by the ambiguity reader as 'and if they remember' (conditional *se*); enclisis *E lembram-se* cannot be. *E que se lembram* (a relative continuing 102:17b) is the alternative the Latin's main clause does not ask for.",
+    "102:19": "*sedes → trono* (row, which names 102:19); *paráre → preparar* (row). The Latin's order *in cælo parávit* kept with the place before the object.",
+    "102:20": "*ángelus → anjo*, lowercase (row); *todos os seus anjos* as 96:7b. The participles addressed to the angels become *que* + second person plural (plural addressee, *vós*). Second colon long, as the Latin's.",
+    "102:21": "*minístri → ministros*; bare vocative *seus ministros*.",
+    "102:22": "*ómnia ópera ejus → todas as suas obras* (row). *in omni loco → em todo lugar* (every place; *em todo o lugar* is 'in the whole place'). *dominátio → domínio*. The last words repeat 102:1a."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps102.md (no DM1962 section for this psalm) and the glossary. Rows applied: benedícere (man → God, dative), ánima mea, retribútio, oblivísci, propitiári (the row's proposal for 102:3, flagged), sanáre, infírmus, redímere, intéritus, coronáre, miseratiónes, replére, juventude (42:4), judícium (D15), notum fácere, Móyses, miserátor et miséricors (85:15), pátiens (via μακρόθυμος), irásci (84:6's copula future), in ætérnum (D23), usque in ætérnum (D37), a sǽculo (D41), fácere cum, retribúere, altitúdo, miseréri, cognóscere, pulvis, fænum (the split), serváre, testaméntum, memor esse, mandáta, sedes, paráre, dominári, ángelus, virtus (vigor for ἰσχύς), verbum/sermo (D15), Dóminus virtútum (D43), fácere voluntátem (39:9), ópera. Hard readings: 102:3 *propitiátur* (awaiting Gustavo), 102:9 *in perpétuum* beside *in ætérnum*, 102:13 *figméntum*, 102:14 the hanging *homo*, 102:16 *spíritus*, 102:20 *verbum / sermónum*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 102:3 rhyme inside the verse (*iniquidades / enfermidades*) — the Latin has the same echo (*iniquitátibus / infirmitátes*). Length flags are mostly the counter's lack of elision (102:12 *Quanto dista‿o‿oriente do‿ocidente* is ~12 said; 102:5b, 102:9a likewise); 102:8 +4 / +4 (Portuguese *compassivo, misericordioso, paciente* against Latin trisyllables; the row's words); 102:14b +6 (the Latin's colon is long already, and elisions *como‿a‿erva*, *são‿os* bring it near); 102:4b and 102:14a −4 (Latin polysyllables against *compaixões*, *pó*); 102:17b +4 (*observam a sua aliança*, the rows' words). 102:11 takes a comma before the mediant: the Latin's colon would cut the correlative from its main verb."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. One minor, no major; held as an option.",
+      "outcomes": [
+        {
+          "verse": "102:9",
+          "remark": "irascétur is a future of the act: se irará",
+          "outcome": "option",
+          "decision": "irascetur",
+          "reason": "the irásci row's copula future (79:5, 84:6), for the r-knot *se irará perpetuamente*"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 6 remarks on 5 verses; best line 102:17, worst 102:20. 3 taken (102:5 order, 102:14 order, 102:20 força), 3 refused and kept as options.",
+      "outcomes": [
+        {
+          "verse": "102:5",
+          "remark": "elliptical como a da águia at the head → a tua juventude se renovará como a da águia",
+          "outcome": "taken"
+        },
+        {
+          "verse": "102:9",
+          "remark": "perpetuamente heavy → para sempre … eternamente",
+          "outcome": "option",
+          "decision": "perpetuum",
+          "reason": "breaks D23 (in ætérnum → para sempre) and D27's keeping εἰς τέλος apart; perpetuamente is the cognate and MS1932's word"
+        },
+        {
+          "verse": "102:14",
+          "remark": "double inversion → o homem, os seus dias são como a erva",
+          "outcome": "taken"
+        },
+        {
+          "verse": "102:17b",
+          "remark": "observam legal → guardam",
+          "outcome": "option",
+          "decision": "servant",
+          "reason": "the serváre row keeps guardar for custodíre"
+        },
+        {
+          "verse": "102:20",
+          "remark": "poderosos em vigor tautological → força",
+          "outcome": "taken"
+        },
+        {
+          "verse": "102:20",
+          "remark": "palavra … palavras jingle → do seu falar",
+          "outcome": "option",
+          "decision": "sermonum",
+          "reason": "D15; the Greek repeats λόγος as well"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 28 readings; unknown words: retribuições, clemente, compaixões, dista, subsistirá, cumpris, fazeis (the last two are verb forms of the vós plural, not words). One fault taken (102:18); 102:5 and 102:14 mended with the stylist.",
+      "outcomes": [
+        {
+          "verse": "102:18",
+          "remark": "E se lembram heard as 'and if they remember'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "102:5",
+          "remark": "a da águia hard to catch",
+          "outcome": "taken"
+        },
+        {
+          "verse": "102:14",
+          "remark": "syntax hard to follow; florescerá heard as a promise",
+          "outcome": "taken",
+          "reason": "order mended; the flowering is the Latin's own word, its transience comes in 102:16"
+        },
+        {
+          "verse": "102:2",
+          "remark": "retribuições heard as rewards or punishment; unknown",
+          "outcome": "refused",
+          "reason": "the retribútio row keeps it neutral on purpose; benefícios (MS1932) is an option"
+        },
+        {
+          "verse": "102:3",
+          "remark": "verse-initial Que may sound like a question; clemente unknown",
+          "outcome": "refused",
+          "reason": "heard as a relative first; clemente is the propitiári row's proposal awaiting Gustavo"
+        },
+        {
+          "verse": "102:11",
+          "remark": "segundo a altura heard as a vague according to",
+          "outcome": "refused",
+          "reason": "secúndum and altitúdo are the Latin's words (the altitúdo row names this verse); the MS1932 correlative would paraphrase"
+        },
+        {
+          "verse": "102:16",
+          "remark": "sopro heard as God's breath; conhecer o seu lugar as the social idiom",
+          "outcome": "refused",
+          "reason": "the openness of spíritus is the Latin's; the place-verb is the Latin's own words"
+        },
+        {
+          "verse": "102:17b",
+          "remark": "observam heard as watch, but keep first",
+          "outcome": "refused",
+          "reason": "heard rightly first; row"
+        },
+        {
+          "verse": "102:21",
+          "remark": "poderes heard abstract; ministros as clergy",
+          "outcome": "refused",
+          "reason": "D43 poderes (exércitos option); minister is the Latin's word"
+        },
+        {
+          "verse": "102:12",
+          "remark": "dista unknown",
+          "outcome": "refused",
+          "reason": "the Latin's verb, plain in written Portuguese"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 102:5 plain order (stylist, ambiguity); 102:14 comparison in plain order, hanging subject kept (stylist); 102:18 *E lembram-se* (ambiguity: conditional *se*); 102:20 *poderosos em força* (stylist; local departure from the virtus row) and the slot *sermonum* widened to carry *do seu falar* as an option; 102:9 new decision `irascetur` recording the Latinist's simple future. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass; the same soft flags as v1 (accepted there). 102:5b ends on *águia*, which the checker counts paroxytone (said *á-guia*)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on draft 2: claude-opus-5-5, fresh context, with latin.json. Three minors, no major; all three held as existing options.",
+      "outcomes": [
+        {
+          "verse": "102:8",
+          "remark": "longánimis → longânime (the cognate)",
+          "outcome": "option",
+          "decision": "longanimis",
+          "reason": "one Greek word with pátiens (μακρόθυμος, 85:15 paciente), D15; longânime is a dictionary word (rule 5); he calls paciente defensible"
+        },
+        {
+          "verse": "102:9",
+          "remark": "irascétur → se irará (the act)",
+          "outcome": "option",
+          "decision": "irascetur",
+          "reason": "the irásci row's copula future (79:5, 84:6) for the r-knot; repeated from v1"
+        },
+        {
+          "verse": "102:13",
+          "remark": "figméntum a noun → a nossa feitura",
+          "outcome": "option",
+          "decision": "figmentum",
+          "reason": "feitura is factúra's (91:5, ποίημα, a different Greek word); the clause is MS1932's wording and D16's device; sense kept, as he says"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+  "psalm": 101,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "101:2": "Senhor, escutai a minha oração: * e {veniat} o meu clamor.",
+    "101:3": "Não desvieis de mim a vossa face: * em qualquer dia em que {tribulor}, inclinai para mim o vosso ouvido.",
+    "101:3b": "Em qualquer dia em que vos invocar, * escutai-me depressa.",
+    "101:4": "Porque os meus dias desfaleceram como a fumaça: * e os meus ossos {aruerunt} como {cremium}.",
+    "101:5": "Fui ferido como o {fenum1}, e o meu coração {aruit}: * porque me esqueci de comer o meu pão.",
+    "101:6": "{avoce} do meu gemido * {os}.",
+    "101:7": "Tornei-me semelhante ao pelicano {solitudinis}: * tornei-me como {nycticorax} {domicilio}.",
+    "101:8": "{vigilavi}, * e tornei-me como um pardal solitário no telhado.",
+    "101:9": "O dia todo me afrontavam os meus inimigos: * e os que me louvavam {jurabant}.",
+    "101:10": "Porque eu comia cinza como pão, * e misturava a minha bebida com pranto.",
+    "101:11": "{afacie} da vossa ira e indignação: * porque, elevando-me, {allisisti}.",
+    "101:12": "Os meus dias declinaram como a sombra: * e eu {arui} como o {fenum2}.",
+    "101:13": "Vós, porém, Senhor, permaneceis para sempre: * e o vosso {memoriale}, de geração em geração.",
+    "101:14": "Vós, levantando-vos, tereis piedade de Sião: * porque é tempo de ter piedade dela, porque {venit} o tempo.",
+    "101:15": "Porque as suas pedras agradaram aos vossos servos: * e terão piedade {terraejus}.",
+    "101:16": "E as nações temerão o vosso nome, Senhor, * e todos os reis da terra, a vossa glória.",
+    "101:17": "Porque o Senhor edificou Sião: * e será visto na sua glória.",
+    "101:18": "Olhou para a oração dos humildes: * e não desprezou a prece deles.",
+    "101:19": "Sejam escritas estas coisas {altera}: * e o povo que será criado louvará o Senhor:",
+    "101:20": "Porque {prospexit} {excelso}: * o Senhor olhou do céu para a terra:",
+    "101:21": "Para ouvir os gemidos {compeditorum}: * para {solveret} os filhos {interemptorum}:",
+    "101:22": "Para que anunciem em Sião o nome do Senhor: * e o seu louvor em Jerusalém.",
+    "101:23": "Quando os povos se reunirem juntos, * e os reis, para servirem ao Senhor.",
+    "101:24": "Respondeu-lhe no caminho {virtutis}: * {paucitatem}.",
+    "101:25": "{revoces} na metade dos meus dias: * de geração em geração {anni}.",
+    "101:26": "{initio}, Senhor, vós fundastes a terra: * e os céus são obras das vossas mãos.",
+    "101:27": "Eles perecerão, vós, porém, permaneceis: * e todos envelhecerão como uma veste.",
+    "101:28": "E como {opertorium} os mudareis, e serão mudados: * vós, porém, sois {idem}, e os vossos anos {deficient}.",
+    "101:29": "Os filhos dos vossos servos habitarão: * e a sua descendência {dirigetur} para sempre."
+  },
+  "decisions": [
+    {
+      "id": "veniat",
+      "refs": [
+        "101:2",
+        "101:14"
+      ],
+      "latin": "et clamor meus ad te véniat … quia venit tempus",
+      "kind": "word",
+      "why": "101:2 is the versicle and response said at every Hour (Psalterium/Common/Prayers.txt: V. Dómine, exáudi oratiónem meam. R. Et clamor meus ad te véniat), so its wording is the most-said line of the psalm. *E chegue até vós o meu clamor* is how the response already circulates in Brazil (words/exaudire.md; Ember's own Preces and Little Office carry it) — *chegar* for *veníre* is the plain verb for a cry reaching its hearer (ἐλθάτω). The psalm's other *veníre* (101:14 *quia venit tempus*, ἥκει 'has come') takes the same verb, so the one Latin verb stays one Portuguese verb inside the psalm. MS1932 *chegue a ti o meu clamor … e a hora já chegou*. *vir* (DRB 'come') is the literal option.",
+      "options": [
+        {
+          "label": "chegue até vós … chegou o tempo",
+          "forms": {
+            "veniat": "chegue até vós",
+            "venit": "chegou"
+          },
+          "note": "Ruling: the response as it is said in Brazil; one verb for the psalm's one verb; MS1932 has *chegar* in both.",
+          "from": "draft"
+        },
+        {
+          "label": "venha a vós … veio o tempo",
+          "forms": {
+            "veniat": "venha a vós",
+            "venit": "veio"
+          },
+          "note": "The literal verb (DRB 'come'); *venha a vós o meu clamor* is not how the versicle is known.",
+          "from": "DRB"
+        },
+        {
+          "label": "chegue a vós … chegou o tempo",
+          "forms": {
+            "veniat": "chegue a vós",
+            "venit": "chegou"
+          },
+          "note": "*ad te* as bare *a*; MS1932 *chegue a ti*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tribulor",
+      "refs": [
+        "101:3"
+      ],
+      "latin": "in quacúmque die tríbulor",
+      "kind": "grammar",
+      "why": "The Latin has a present indicative passive; 68:18 renders *quóniam tríbulor* as *porque estou atribulado* (the *tribuláre → atribular* row), and this keeps it. After *em qualquer dia em que* Portuguese grammar books want the subjunctive; the indicative is how it is said of what really recurs, and it keeps the Latin's present. The colon is long (Latin 18 syllables, Portuguese about 26) because it keeps both *quacúmque* and the whole formula *inclinai para mim o vosso ouvido* (16:6, 30:3, 70:2).",
+      "options": [
+        {
+          "label": "estou atribulado",
+          "forms": {
+            "tribulor": "estou atribulado"
+          },
+          "note": "Ruling: 68:18's form.",
+          "from": "draft"
+        },
+        {
+          "label": "eu estiver atribulado",
+          "forms": {
+            "tribulor": "eu estiver atribulado"
+          },
+          "note": "The textbook subjunctive; MS1932 *em que me achar atribulado*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "sou atribulado",
+          "forms": {
+            "tribulor": "sou atribulado"
+          },
+          "note": "The Latin's passive, word for word; heavier to the ear."
+        }
+      ]
+    },
+    {
+      "id": "arere",
+      "refs": [
+        "101:4",
+        "101:5",
+        "101:12"
+      ],
+      "latin": "aruérunt … áruit cor meum … árui",
+      "kind": "grammar",
+      "why": "One Latin verb three times in the psalm (the bones, the heart, the man) — one Portuguese verb, the plain intransitive *secar*. 21:16 said *O meu vigor secou-se* with the pronoun; both are Portuguese and mean the same; the bare verb is lighter and avoids *eu me sequei*. No row yet; proposed in the glossary.",
+      "options": [
+        {
+          "label": "secaram · secou · sequei",
+          "forms": {
+            "aruerunt": "secaram",
+            "aruit": "secou",
+            "arui": "sequei"
+          },
+          "note": "Ruling: the intransitive, three times.",
+          "from": "draft"
+        },
+        {
+          "label": "se secaram · secou-se · me sequei",
+          "forms": {
+            "aruerunt": "se secaram",
+            "aruit": "secou-se",
+            "arui": "me sequei"
+          },
+          "note": "The pronominal, as 21:16; MS1932 *se secaram … secou-se … sequei-me*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cremium",
+      "refs": [
+        "101:4"
+      ],
+      "latin": "sicut crémium",
+      "kind": "word",
+      "why": "*Crémium* (not in Lewis & Short; the Greek φρύγιον) is dry wood for burning — sticks, brushwood. *gravetos* is the plain Brazilian word for dry sticks (MS1932); DRB 'fuel for the fire'. *lenha* is firewood in general and is heard as logs.",
+      "options": [
+        {
+          "label": "gravetos",
+          "forms": {
+            "cremium": "gravetos"
+          },
+          "note": "Ruling: MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "lenha",
+          "forms": {
+            "cremium": "lenha"
+          },
+          "note": "Firewood; DRB 'fuel'.",
+          "from": "DRB"
+        },
+        {
+          "label": "lenha seca",
+          "forms": {
+            "cremium": "lenha seca"
+          },
+          "note": "The dryness explicit; echoes the verb (tautology)."
+        }
+      ]
+    },
+    {
+      "id": "fenum",
+      "refs": [
+        "101:5",
+        "101:12"
+      ],
+      "latin": "ut fænum … sicut fænum",
+      "kind": "glossary",
+      "why": "The *fænum* row splits by what the verse does: *feno* where the grass dries (36:2), *erva* where it springs up or flowers (71:16, 91:8). Here it is struck and dries, both times (*áruit*, *árui*), so *feno*; the psalm's two places keep one word. MS1932 *como feno* both times. *erva* is the row's candidate if one word is ever wanted everywhere.",
+      "options": [
+        {
+          "label": "feno",
+          "forms": {
+            "fenum1": "feno",
+            "fenum2": "feno"
+          },
+          "note": "Ruling: the row (drying); MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "erva",
+          "forms": {
+            "fenum1": "erva",
+            "fenum2": "erva"
+          },
+          "note": "The living grass (χόρτος); the row's alternative."
+        }
+      ]
+    },
+    {
+      "id": "avoce",
+      "refs": [
+        "101:6"
+      ],
+      "latin": "A voce gémitus mei",
+      "kind": "word",
+      "why": "*A voce* (ἀπὸ φωνῆς) gives the cause: from the sound of my groaning. *Pela voz* keeps the voice and says the cause; DRB 'Through the voice'. *À voz* is how 41:8 renders *in voce cataractárum*, a different preposition. MS1932 paraphrases (*À força de soltar gemidos*) — refused: the voice is the Latin's word.",
+      "options": [
+        {
+          "label": "Pela voz",
+          "forms": {
+            "avoce": "Pela voz"
+          },
+          "note": "Ruling: DRB 'Through the voice'.",
+          "from": "draft"
+        },
+        {
+          "label": "À voz",
+          "forms": {
+            "avoce": "À voz"
+          },
+          "note": "At the sound of; the cause less plain."
+        },
+        {
+          "label": "Por causa da voz",
+          "forms": {
+            "avoce": "Por causa da voz"
+          },
+          "note": "The cause spelled out; three syllables more."
+        }
+      ]
+    },
+    {
+      "id": "os",
+      "refs": [
+        "101:6"
+      ],
+      "latin": "adhǽsit os meum carni meæ",
+      "kind": "grammar",
+      "why": "*os* is singular (ὀστοῦν), a collective: the frame of the body. *o meu osso colou-se* is heard in Portuguese as one particular bone; the plural says what the Latin means, and number is grammar (D2; D29 did the same the other way for *sanguínes*). The *adhærére* row proposes *colar-se* where a body part sticks (21:16), naming this verse.",
+      "options": [
+        {
+          "label": "os meus ossos se colaram à minha carne",
+          "forms": {
+            "os": "os meus ossos se colaram à minha carne"
+          },
+          "note": "Ruling: the collective as a plural; the row's *colar-se*.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu osso se colou à minha carne",
+          "forms": {
+            "os": "o meu osso se colou à minha carne"
+          },
+          "note": "The Latin's number, word for word; DRB 'my bone hath cleaved'.",
+          "from": "DRB"
+        },
+        {
+          "label": "os meus ossos se apegaram à minha carne",
+          "forms": {
+            "os": "os meus ossos se apegaram à minha carne"
+          },
+          "note": "The row's *apegar-se* (for the soul); heard as affection."
+        }
+      ]
+    },
+    {
+      "id": "solitudinis",
+      "refs": [
+        "101:7"
+      ],
+      "latin": "pellicáno solitúdinis",
+      "kind": "glossary",
+      "why": "D44 settled *solitúdo → solidão* and named this verse as a test. *Pelicano da solidão* keeps the Latin genitive and both its senses (a lonely place, loneliness), and it answers 101:8's *solitário*. *do deserto* (MS1932; DRB 'of the wilderness') is desértum's word.",
+      "options": [
+        {
+          "label": "da solidão",
+          "forms": {
+            "solitudinis": "da solidão"
+          },
+          "note": "Ruling: D44's row.",
+          "from": "glossary"
+        },
+        {
+          "label": "do deserto",
+          "forms": {
+            "solitudinis": "do deserto"
+          },
+          "note": "MS1932, DRB; *deserto* is desértum's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nycticorax",
+      "refs": [
+        "101:7"
+      ],
+      "latin": "sicut nyctícorax",
+      "kind": "word",
+      "why": "Lewis & Short: 'the night-raven'; the Greek νυκτικόραξ is a night bird, an owl or night heron. *coruja* is the night bird every Brazilian knows (MS1932); *corvo noturno* keeps the compound's two parts but names no bird anyone has seen. The concrete image stays (rule 5): a bird of the night.",
+      "options": [
+        {
+          "label": "coruja",
+          "forms": {
+            "nycticorax": "a coruja"
+          },
+          "note": "Ruling: MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "corvo noturno",
+          "forms": {
+            "nycticorax": "o corvo noturno"
+          },
+          "note": "The compound's parts (L&S 'night-raven', DRB).",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "domicilio",
+      "refs": [
+        "101:7"
+      ],
+      "latin": "in domicílio",
+      "kind": "word",
+      "why": "*Domicílium* is a dwelling (οἰκόπεδον, a house-site, often a ruin). *domicílio* in Brazil is a postal and legal word; *morada* and *habitação* are held by *habitáculum* and *habitátio*; *na casa* is the plain dwelling (DRB 'in the house'). It shares *casa* with *domus*; they do not meet in this psalm. The Greek's ruins are not the Latin's word.",
+      "options": [
+        {
+          "label": "na casa",
+          "forms": {
+            "domicilio": "na casa"
+          },
+          "note": "Ruling: DRB 'in the house'.",
+          "from": "DRB"
+        },
+        {
+          "label": "na moradia",
+          "forms": {
+            "domicilio": "na moradia"
+          },
+          "note": "A word of its own for *domicílium*; unusual in this sense."
+        },
+        {
+          "label": "entre as ruínas",
+          "forms": {
+            "domicilio": "entre as ruínas"
+          },
+          "note": "The Greek's οἰκόπεδον; not the Latin's word — refused."
+        }
+      ]
+    },
+    {
+      "id": "vigilavi",
+      "refs": [
+        "101:8"
+      ],
+      "latin": "Vigilávi",
+      "kind": "word",
+      "why": "ἠγρύπνησα: I lay awake. The *vigiláre* row keeps *vigiar* (62:2) and leaves 101:8 to decide. *Vigiei* keeps the root and the one word of the Latin colon, and a vigil is a night kept awake; *Velei* (MS1932) is the older word for staying awake, but in Brazil it is heard first with the dead (*velar*, *velório*). *Fiquei acordado* explains.",
+      "options": [
+        {
+          "label": "Vigiei",
+          "forms": {
+            "vigilavi": "Vigiei"
+          },
+          "note": "Ruling: the row's verb.",
+          "from": "glossary"
+        },
+        {
+          "label": "Velei",
+          "forms": {
+            "vigilavi": "Velei"
+          },
+          "note": "MS1932; heard with *velório*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Fiquei acordado",
+          "forms": {
+            "vigilavi": "Fiquei acordado"
+          },
+          "note": "Plain; says the Greek's sense, loses the vigil."
+        }
+      ]
+    },
+    {
+      "id": "jurabant",
+      "refs": [
+        "101:9"
+      ],
+      "latin": "advérsum me jurábant",
+      "kind": "ambiguity",
+      "why": "The Latin says they swore against me — an oath or a curse made against the man (the Hebrew idiom is swearing by his name as a curse; the Latin does not say which). *juravam contra mim* keeps it open (DRB 'did swear against me'). MS1932 *conjuravam-se contra mim* makes it a plot — another verb.",
+      "options": [
+        {
+          "label": "juravam contra mim",
+          "forms": {
+            "jurabant": "juravam contra mim"
+          },
+          "note": "Ruling: DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "conjuravam contra mim",
+          "forms": {
+            "jurabant": "conjuravam contra mim"
+          },
+          "note": "MS1932: a conspiracy; closes the reading.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "afacie",
+      "refs": [
+        "101:11"
+      ],
+      "latin": "A fácie iræ et indignatiónis tuæ",
+      "kind": "glossary",
+      "why": "The *a fácie* row: of a cause, *diante de* (37:4 *diante da vossa ira*), which holds both 'because of' and 'before'. The colon hangs on 101:10 (I ate ashes … before your wrath). *Por causa de* (DRB 'Because of', MS1932 *à vista de*) closes the second sense.",
+      "options": [
+        {
+          "label": "Diante",
+          "forms": {
+            "afacie": "Diante"
+          },
+          "note": "Ruling: the row, as 37:4.",
+          "from": "glossary"
+        },
+        {
+          "label": "Por causa",
+          "forms": {
+            "afacie": "Por causa"
+          },
+          "note": "DRB 'Because of'.",
+          "from": "DRB"
+        },
+        {
+          "label": "À vista",
+          "forms": {
+            "afacie": "À vista"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "allisisti",
+      "refs": [
+        "101:11"
+      ],
+      "latin": "quia élevans allisísti me",
+      "kind": "word",
+      "why": "*Allídere* is to dash one thing against another (L&S; κατέρραξας 'dashed down'); after *élevans* the picture is lifting up and throwing down. *me derrubastes* is the plain verb for throwing a man down; it loses some of the violence. *me arrojastes* (MS1932) keeps the hurling but is bookish in Brazil. *elevando-me* keeps the participle with *eleváre*'s own verb; *levantar* is kept for *exsúrgere* three verses on (101:14).",
+      "options": [
+        {
+          "label": "me derrubastes",
+          "forms": {
+            "allisisti": "me derrubastes"
+          },
+          "note": "Ruling: plain; the fall said.",
+          "from": "draft"
+        },
+        {
+          "label": "me arrojastes",
+          "forms": {
+            "allisisti": "me arrojastes"
+          },
+          "note": "MS1932; the hurling kept, the word bookish.",
+          "from": "MS1932"
+        },
+        {
+          "label": "me lançastes por terra",
+          "forms": {
+            "allisisti": "me lançastes por terra"
+          },
+          "note": "Hurled to the ground; *por terra* supplied."
+        }
+      ]
+    },
+    {
+      "id": "memoriale",
+      "refs": [
+        "101:13"
+      ],
+      "latin": "et memoriále tuum",
+      "kind": "word",
+      "why": "*Memoriále* (μνημόσυνον) is what keeps God remembered — his name as it is called on; the same colon is 134:13. *memorial* is the Latin's word and the Church's (the Eucharist is a memorial); *memória* belongs to *memória* (29:5). MS1932 paraphrases *a memória de teu nome*.",
+      "options": [
+        {
+          "label": "memorial",
+          "forms": {
+            "memoriale": "memorial"
+          },
+          "note": "Ruling: the cognate; DRB 'memorial'.",
+          "from": "DRB"
+        },
+        {
+          "label": "memória",
+          "forms": {
+            "memoriale": "memória"
+          },
+          "note": "Plainer; *memória*'s word."
+        },
+        {
+          "label": "lembrança",
+          "forms": {
+            "memoriale": "lembrança"
+          },
+          "note": "The act of remembering, not the thing that keeps it."
+        }
+      ]
+    },
+    {
+      "id": "terraejus",
+      "refs": [
+        "101:15"
+      ],
+      "latin": "et terræ ejus miserebúntur",
+      "kind": "grammar",
+      "why": "*ejus* is Sion's, not the servants' (the Latin would say *suæ* for their own). After *os vossos servos* as the subject, *da sua terra* is heard as their own land; *da terra dela* keeps the Latin's reference. The first colon's *as suas pedras* stands before the servants are named and is heard as Sion's. *miserebúntur* keeps 101:14's verb: the servants share God's pity.",
+      "options": [
+        {
+          "label": "da terra dela",
+          "forms": {
+            "terraejus": "da terra dela"
+          },
+          "note": "Ruling: the reference kept.",
+          "from": "draft"
+        },
+        {
+          "label": "da sua terra",
+          "forms": {
+            "terraejus": "da sua terra"
+          },
+          "note": "Smoother; heard as the servants' own land."
+        },
+        {
+          "label": "do seu pó",
+          "forms": {
+            "terraejus": "do seu pó"
+          },
+          "note": "The Greek χοῦν ('dust'); not the Latin's word — refused."
+        }
+      ]
+    },
+    {
+      "id": "altera",
+      "refs": [
+        "101:19"
+      ],
+      "latin": "in generatióne áltera",
+      "kind": "word",
+      "why": "*áltera* is 'another', not 'future'; MS1932's *para a geração futura* interprets. The Latin's *in* + ablative says where (in another generation); the Greek εἰς and DRB 'unto' say for whom. *para outra geração* is the natural Portuguese and holds both: written down for it, read in it.",
+      "options": [
+        {
+          "label": "para outra geração",
+          "forms": {
+            "altera": "para outra geração"
+          },
+          "note": "Ruling: DRB 'unto another generation'.",
+          "from": "DRB"
+        },
+        {
+          "label": "em outra geração",
+          "forms": {
+            "altera": "em outra geração"
+          },
+          "note": "The Latin's preposition; heard as the time of the writing."
+        },
+        {
+          "label": "para a geração futura",
+          "forms": {
+            "altera": "para a geração futura"
+          },
+          "note": "MS1932; *áltera* is not 'future'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "prospexit",
+      "refs": [
+        "101:20",
+        "101:18"
+      ],
+      "latin": "Quia prospéxit de excélso … aspéxit (101:18 respéxit in)",
+      "kind": "glossary",
+      "why": "Three look-verbs in three verses: 101:18 *respéxit in* (ἐπέβλεψεν), 101:20a *prospéxit* (ἐξέκυψεν, looked forth), 101:20b *aspéxit* (ἐπέβλεψεν again). The rows give *olhar para* to *respícere in* and *aspícere*, and *olhar* to *prospícere* (13:2 *O Senhor olhou do céu*; 84:12). The two with one Greek verb share *olhou para*; 101:20a keeps the row's bare *olhou*, with a source (*da sua santa altura*), as DRB separates them by 'looked forth … looked upon'. The Latin's third verb is not heard as a third word. *se debruçou* is the row's option (the Greek's image of leaning out).",
+      "options": [
+        {
+          "label": "olhou",
+          "forms": {
+            "prospexit": "olhou"
+          },
+          "note": "Ruling: the row (13:2).",
+          "from": "glossary"
+        },
+        {
+          "label": "se debruçou",
+          "forms": {
+            "prospexit": "se debruçou"
+          },
+          "note": "The row's option, the Greek's image; keeps the verbs of 20a and 20b apart."
+        }
+      ]
+    },
+    {
+      "id": "excelso",
+      "refs": [
+        "101:20"
+      ],
+      "latin": "de excélso sancto suo",
+      "kind": "word",
+      "why": "The Greek is ἐξ ὕψους ἁγίου αὐτοῦ, 'from his holy height': *excélsum* the noun (D42 gives the neuter plural *excélsa → alturas*), *sanctum* its adjective. *da sua santa altura* keeps both words and the height. MS1932 *do alto do seu santuário* and DRB 'from his high sanctuary' read *sancto* as the noun — possible in the Latin, but the Greek decides which is the noun.",
+      "options": [
+        {
+          "label": "da sua santa altura",
+          "forms": {
+            "excelso": "da sua santa altura"
+          },
+          "note": "Ruling: the Greek's build; D42's *altura*.",
+          "from": "draft"
+        },
+        {
+          "label": "do alto do seu santuário",
+          "forms": {
+            "excelso": "do alto do seu santuário"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "do seu alto santuário",
+          "forms": {
+            "excelso": "do seu alto santuário"
+          },
+          "note": "DRB 'from his high sanctuary'.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "compediti",
+      "refs": [
+        "101:21"
+      ],
+      "latin": "gémitus compeditórum … ut sólveret fílios interemptórum",
+      "kind": "word",
+      "why": "*compedíti* are men in fetters (*compes*, a shackle; πεπεδημένων) — *acorrentados* is the plain word and keeps the chain (MS1932's *encarcerados* loses it). *sólvere* is to loose, which the fetters call for: *soltar*, apart from *liberáre → libertar*; 145:7b *Dóminus solvit compedítos* should copy both words. *interempti* are the slain, those put to death (τεθανατωμένων): *dos que foram mortos*, a passive as the Latin's participle; MS1932 *dos condenados à morte* interprets.",
+      "options": [
+        {
+          "label": "dos acorrentados · soltar · dos que foram mortos",
+          "forms": {
+            "compeditorum": "dos acorrentados",
+            "solveret": "soltar",
+            "interemptorum": "dos que foram mortos"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "dos que estão em grilhões · libertar · dos condenados à morte",
+          "forms": {
+            "compeditorum": "dos que estão em grilhões",
+            "solveret": "libertar",
+            "interemptorum": "dos condenados à morte"
+          },
+          "note": "Closer to MS1932's sense of the second colon.",
+          "from": "MS1932"
+        },
+        {
+          "label": "dos acorrentados · soltar · dos mortos",
+          "forms": {
+            "compeditorum": "dos acorrentados",
+            "solveret": "soltar",
+            "interemptorum": "dos mortos"
+          },
+          "note": "Shorter; *mortos* would be *mórtui*, the dead, not the slain."
+        }
+      ]
+    },
+    {
+      "id": "virtutis",
+      "refs": [
+        "101:24"
+      ],
+      "latin": "Respóndit ei in via virtútis suæ",
+      "kind": "glossary",
+      "why": "Whose strength? *suæ* is the one who answers — the psalmist, not God (MS1932 glosses *o justo*). The *virtus* row proposes *vigor* for a man's own strength (21:16, 30:11b, 37:11 all say *o meu vigor*) and keeps *poder* for God's. *no caminho do seu vigor* says 'in the course of his strength' — mid-life, which is what 101:25 then begs not to be cut off. Who answers whom stays as open as the Latin leaves it.",
+      "options": [
+        {
+          "label": "do seu vigor",
+          "forms": {
+            "virtutis": "do seu vigor"
+          },
+          "note": "Ruling: the row's proposal for a man's strength.",
+          "from": "glossary"
+        },
+        {
+          "label": "da sua força",
+          "forms": {
+            "virtutis": "da sua força"
+          },
+          "note": "DRB 'strength', MS1932; *força* is *fortitúdo*'s.",
+          "from": "DRB"
+        },
+        {
+          "label": "do seu poder",
+          "forms": {
+            "virtutis": "do seu poder"
+          },
+          "note": "The row's word for God's *virtus*; would make the strength God's."
+        }
+      ]
+    },
+    {
+      "id": "paucitatem",
+      "refs": [
+        "101:24"
+      ],
+      "latin": "Paucitátem diérum meórum núntia mihi",
+      "kind": "word",
+      "why": "*Paucitas* is fewness — a count, not a length (DRB 'the fewness of my days'). *o pequeno número* says it; *a brevidade* turns it into shortness. *núntia* is the verb of 101:22 *annúntient* in the Greek (ἀναγγέλλω both times), so *anunciar* both times (D41). The Latin ends the colon on the imperative; Portuguese puts it first.",
+      "options": [
+        {
+          "label": "Anunciai-me o pequeno número dos meus dias",
+          "forms": {
+            "paucitatem": "Anunciai-me o pequeno número dos meus dias"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Anunciai-me a brevidade dos meus dias",
+          "forms": {
+            "paucitatem": "Anunciai-me a brevidade dos meus dias"
+          },
+          "note": "Shorter; length for number."
+        },
+        {
+          "label": "Fazei-me conhecer o pequeno número dos meus dias",
+          "forms": {
+            "paucitatem": "Fazei-me conhecer o pequeno número dos meus dias"
+          },
+          "note": "Another verb; loses the echo with 101:22."
+        }
+      ]
+    },
+    {
+      "id": "revoces",
+      "refs": [
+        "101:25"
+      ],
+      "latin": "Ne révoces me",
+      "kind": "word",
+      "why": "*revocáre* is to call back (DRB 'Call me not away'); the Greek ἀναγάγῃς is 'take up'. *Não me chameis de volta* keeps both the call and the *re-*: back to the dust, to you. MS1932 *Não me chames* drops the *re-*.",
+      "options": [
+        {
+          "label": "Não me chameis de volta",
+          "forms": {
+            "revoces": "Não me chameis de volta"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "Não me chameis",
+          "forms": {
+            "revoces": "Não me chameis"
+          },
+          "note": "MS1932; the *re-* lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Não me leveis",
+          "forms": {
+            "revoces": "Não me leveis"
+          },
+          "note": "The Greek's verb; not the Latin's."
+        }
+      ]
+    },
+    {
+      "id": "anni",
+      "refs": [
+        "101:25"
+      ],
+      "latin": "in generatiónem et generatiónem anni tui",
+      "kind": "grammar",
+      "why": "The Latin has no verb. 101:13 borrows *permaneceis* from its first colon; here the first colon's verb (*chamar*) cannot be borrowed, so the copula is supplied, as 118:90 (*De geração em geração é a vossa verdade*). The formula *de geração em geração* stands first, as the Latin.",
+      "options": [
+        {
+          "label": "são os vossos anos",
+          "forms": {
+            "anni": "são os vossos anos"
+          },
+          "note": "Ruling: the copula supplied (D2; 118:90).",
+          "from": "draft"
+        },
+        {
+          "label": "os vossos anos",
+          "forms": {
+            "anni": "os vossos anos"
+          },
+          "note": "The verbless phrase, as 99:4b; heard as a fragment."
+        }
+      ]
+    },
+    {
+      "id": "initio",
+      "refs": [
+        "101:26"
+      ],
+      "latin": "Inítio",
+      "kind": "glossary",
+      "why": "The row keeps *inítium → início* apart from *princípium → princípio* (118:152, 160). *No princípio* is the familiar opening (Gen 1:1, Heb 1:10 in Portuguese Bibles) but that is *In princípio*.",
+      "options": [
+        {
+          "label": "No início",
+          "forms": {
+            "initio": "No início"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "No princípio",
+          "forms": {
+            "initio": "No princípio"
+          },
+          "note": "MS1932, the familiar ring; *princípium*'s word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "opertorium",
+      "refs": [
+        "101:28"
+      ],
+      "latin": "sicut opertórium",
+      "kind": "word",
+      "why": "Two garment words in two verses: *vestiméntum* (ἱμάτιον) → *veste* (D43 row) in 101:27, *opertórium* (περιβόλαιον, a wrap; L&S 'a garment', citing this verse) here. They are different words in the Greek too, so they stay apart. *manto* is a garment wrapped round, concrete and plain. *coberta* keeps *opertórium*'s root sense (cover) but is a blanket in Brazil.",
+      "options": [
+        {
+          "label": "um manto",
+          "forms": {
+            "opertorium": "um manto"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "uma coberta",
+          "forms": {
+            "opertorium": "uma coberta"
+          },
+          "note": "The root sense; heard as a blanket."
+        },
+        {
+          "label": "uma roupa",
+          "forms": {
+            "opertorium": "uma roupa"
+          },
+          "note": "MS1932 *roupa*; plain but general.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "idem",
+      "refs": [
+        "101:28"
+      ],
+      "latin": "tu autem idem ipse es",
+      "kind": "word",
+      "why": "*idem ipse* renders the Greek ὁ αὐτός, 'the same'; the doubling is the Latin's way of saying it, not an extra word. DRB 'always the selfsame' and MS1932 *sempre o mesmo* add 'always', which the Latin does not have.",
+      "options": [
+        {
+          "label": "o mesmo",
+          "forms": {
+            "idem": "o mesmo"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "sempre o mesmo",
+          "forms": {
+            "idem": "sempre o mesmo"
+          },
+          "note": "DRB, MS1932; 'always' supplied.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deficient",
+      "refs": [
+        "101:28",
+        "101:4"
+      ],
+      "latin": "et anni tui non defícient (cf. 101:4 defecérunt … dies mei)",
+      "kind": "glossary",
+      "why": "The psalm opens with *defecérunt … dies mei* and closes this stanza with *anni tui non defícient*: my days failed, your years will not. The *defícere* row keeps *desfalecer* with days as subject (89:9), and the echo is the psalm's own; *não terão fim* (MS1932) is plainer and loses it. The ambiguity reader of Ps 89 listed *desfalecemos* as unknown.",
+      "options": [
+        {
+          "label": "não desfalecerão",
+          "forms": {
+            "deficient": "não desfalecerão"
+          },
+          "note": "Ruling: the row; the echo of 101:4 kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "não terão fim",
+          "forms": {
+            "deficient": "não terão fim"
+          },
+          "note": "MS1932; the echo lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "não se acabarão",
+          "forms": {
+            "deficient": "não se acabarão"
+          },
+          "note": "The row's option at 72:19."
+        }
+      ]
+    },
+    {
+      "id": "dirigetur",
+      "refs": [
+        "101:29"
+      ],
+      "latin": "et semen eórum in sǽculum dirigétur",
+      "kind": "glossary",
+      "why": "*dirígere → dirigir* (row; κατευθυνθήσεται, set straight). *será dirigida* keeps the Latin's passive and the guiding; MS1932 *será estável* is the Hebrew's 'established'. *semen → descendência* (D32; no plant beside it), *in sǽculum → para sempre* (D23).",
+      "options": [
+        {
+          "label": "será dirigida",
+          "forms": {
+            "dirigetur": "será dirigida"
+          },
+          "note": "Ruling: the row; DRB 'directed'.",
+          "from": "glossary"
+        },
+        {
+          "label": "será encaminhada",
+          "forms": {
+            "dirigetur": "será encaminhada"
+          },
+          "note": "Guided on its way; 7:10's option."
+        },
+        {
+          "label": "será firmada",
+          "forms": {
+            "dirigetur": "será firmada"
+          },
+          "note": "The Hebrew's sense (MS1932 *estável*); not the Latin's."
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "101:2": "The formula *Senhor, escutai a minha oração* (D3); the response of the versicle — see decision `veniat`.",
+    "101:3": "*Não desvieis de mim a vossa face* = 26:9, 12:1 (the *avértere* row); *inclinai para mim o vosso ouvido* is the formula of 16:6, 30:3, 70:2.",
+    "101:3b": "= 55:10's first colon (*Em qualquer dia em que vos invocar*); *escutai-me depressa* = 68:18 (the *velóciter* row). The future subjunctive for *invocávero*.",
+    "101:4": "*desfaleceram como a fumaça* agrees with 36:20 (the *defícere* row named this verse); *fumus → fumaça* (row). Natural order, subject first.",
+    "101:5": "*percútere → ferir* (row). *oblítus sum comédere* with the infinitive: *esquecer-se de* (the row's genitive form).",
+    "101:7": "*factus sum* twice here and once in 101:8: *tornei-me* all three times.",
+    "101:8": "*passer → pardal* (row, 101:8 named); *in tecto* → *no telhado* (the roof; *teto* is a ceiling in Brazil).",
+    "101:9": "*tota die → o dia todo* (D24); *exprobráre → afrontar* (row, 41:11 *afrontaram-me*). The Latin's order kept.",
+    "101:10": "*manducáre → comer* (row); *fletus → pranto* (row). *eu* named: *comia* is also 'he ate'.",
+    "101:12": "*declinavérunt* of a shadow → *declinaram*: the shadow lengthens at evening (ἐκλίθησαν); the *declináre a* row names this verse as another build.",
+    "101:13": "*Tu autem, Dómine* → *Vós, porém, Senhor* (3:4, 40:11); the three *tu autem* of the psalm (13, 27, 28) are all *vós, porém*. *pérmanes → permaneceis* (row), present as the Latin, in 13 and 27 alike. The second colon borrows the verb of the first, as the Latin does; formula *de geração em geração*.",
+    "101:14": "*exsúrgens → levantando-vos* (row *exsúrgere*); *miseréri → ter piedade* three times in 14–15, as the Latin's one verb.",
+    "101:15": "*placére + dative → agradar a* (D44).",
+    "101:16": "*gentes → nações* (row). The Latin has *nomen tuum* against the Greek's *κυρίου*; the Latin followed. The rhyme flagged with 101:17 (*glória … glória*) is the Latin's own echo.",
+    "101:17": "*ædificávit* is perfect in the Latin (the Greek is future); the perfect kept. *edificar* as 50:20, 68:36, 88:3.",
+    "101:18": "*respícere in → olhar para* (row); *prex → prece* (row); *eórum → deles* so that the prayer is not heard as God's.",
+    "101:19": "*creábitur* → *que será criado*; the Latin's commas around the relative dropped (Portuguese punctuates a restrictive clause without them).",
+    "101:22": "*annuntiáre → anunciar* (D41).",
+    "101:23": "*In conveniéndo* (gerund) → *Quando … se reunirem*; *convenire in unum → reunir-se juntos* (2:2, 47:5; the *in unum* row names 101:23). *servíre* is not imperative here, so D18 does not reach it.",
+    "101:26": "*ópera mánuum tuárum* → *obras das vossas mãos* (18:2, 91:5), plural as the Latin.",
+    "101:27": "*vestiméntum → veste* (D43; the row asked for 101:27 to be checked beside *opertórium*, see decision `opertorium`). *períre → perecer* (row).",
+    "101:29": "*habitábunt* absolute, as the Latin (MS1932's gloss *tranquilos em Jerusalém* is his)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (Latin, LXX, Hebrew, DRB, MS1932; no DM1962 section for this psalm). Hard readings: 101:24 *in via virtútis suæ* (whose strength — *vigor*, the man's), 101:20 three look-verbs in three verses, 101:21 *compedíti / interempti*, 101:11 *élevans allisísti*, 101:2 as the versicle of every Hour."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: 101:3 second colon +9 (keeps *quacúmque* and the whole *inclinai para mim o vosso ouvido* formula; accepted); 101:4, 5, 6, 10, 14, 22, 29 +3/+4 (article and possessive before nouns; *descendência* D32) accepted; 101:13 −6, 25 −4, 26 −3, 7 −3 short, accepted. Rhyme 101:16/17 *glória … glória*: the Latin has the same echo (*glóriam tuam … in glória sua*), kept."
+    }
+  ]
+}

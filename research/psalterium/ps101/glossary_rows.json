@@ -1,0 +1,38 @@
+{
+  "append": [
+    {"row": "| *Dómine, exáudi oratiónem meam* |", "text": "**Ps 101:2 applied, with the response: *Senhor, escutai a minha oração: * e chegue até vós o meu clamor*** — the versicle and response of every Hour (Common/Prayers.txt); see the new formula row."},
+    {"row": "| fænum |", "text": "**Ps 101:5, 101:12 *Percússus sum ut fænum … sicut fænum árui* → *feno* both times** (struck and drying, the row's split); the ambiguity reader found *ferido como o feno* vague; *erva* option."},
+    {"row": "| adhærére |", "text": "**Ps 101:6 *adhǽsit os meum carni meæ* → *os meus ossos se colaram à minha carne*** — *colar-se* as proposed; the collective singular made plural (the Latinist, minor on v1 and the v2 gate, asked *o meu osso*: held, heard as one bone; option). The stylist asked *aderiram* (option)."},
+    {"row": "| solitúdo |", "text": "**Ps 101:7 *pellicáno solitúdinis* → *ao pelicano da solidão*** — tested as named: the ambiguity reader heard both the lonely pelican and the wilderness; no reader objected."},
+    {"row": "| passer |", "text": "**Ps 101:8 *sicut passer solitárius in tecto* → *como um pardal solitário no telhado*** — applied; no reader remarked."},
+    {"row": "| vigiláre (*ad te de luce vígilo*) |", "text": "**Ps 101:8 *Vigilávi* → *Vigiei*** (the row's verb; *Velei*, MS1932, is heard with *velório*, option). The ambiguity reader heard 'kept watch' before 'lay awake'."},
+    {"row": "| deféctio / defícere |", "text": "**Ps 101:4 *defecérunt sicut fumus dies mei* → *os meus dias desfaleceram como a fumaça*** (agrees with 36:20) **and 101:28 *anni tui non defícient* → *os vossos anos não desfalecerão*** — the psalm's own echo kept; the ambiguity reader listed both forms unknown again; *não terão fim* option."},
+    {"row": "| fumus / grando |", "text": "Ps 101:4 *sicut fumus* → *como a fumaça* — applied."},
+    {"row": "| *a fácie* (terræ) |", "text": "**Ps 101:11 *A fácie iræ et indignatiónis tuæ* → *Diante da vossa ira e indignação*** (as 37:4); the ambiguity reader heard it attached to 101:10's weeping, as the Latin is."},
+    {"row": "| prospícere |", "text": "**Ps 101:20 *prospéxit de excélso sancto suo … aspéxit* → *olhou da sua santa altura … olhou do céu para a terra*** — the row's bare *olhou* against *olhou para* (aspícere, and 101:18 *respéxit in*, one Greek verb): DRB's 'looked forth … looked upon' made by the preposition. *se debruçou* option."},
+    {"row": "| virtus (δύναμις), *in virtúte tua* |", "text": "**Ps 101:24 *in via virtútis suæ* → *no caminho do seu vigor*** — the row's proposal for a man's strength (the one who answers); the ambiguity reader heard 'while still strong'. *força*, *poder* options."},
+    {"row": "| in unum |", "text": "**Ps 101:23 *In conveniéndo pópulos in unum* → *Quando os povos se reunirem juntos*** — as named; the stylist heard the pleonasm again and asked *num só* (refused for the formula, option `inunum`)."},
+    {"row": "| inítio · princípium |", "text": "**Ps 101:26 *Inítio tu, Dómine, terram fundásti* → *No início, Senhor, vós fundastes a terra*** — the stylist asked *No princípio* (the creation echo); refused for the row, option."},
+    {"row": "| vestítus / vestiménta |", "text": "**Ps 101:27–28 checked: *sicut vestiméntum* → *como uma veste*; *opertórium* (περιβόλαιον, another Greek word) → *manto*** — see its row."},
+    {"row": "| dirígere |", "text": "**Ps 101:29 *semen eórum in sǽculum dirigétur* → *a sua descendência será dirigida para sempre*** — the stylist heard *dirigida* as administrative and asked *guiada* (refused: *guiar* is *dedúcere*'s, D22; option)."},
+    {"row": "| velóciter |", "text": "**Ps 101:3b *velóciter exáudi me* → *escutai-me depressa*** = 68:18, applied."}
+  ],
+  "terms": [
+    "| arére | secar (intransitive: *secaram … secou … sequei*) | open | Ps 101:4, 5, 12 — one verb three times in the psalm; 21:16 has the pronominal *secou-se* (same sense). The pronominal is option `arere` in Ps 101. |",
+    "| crémium | gravetos (*como gravetos*) | open | Ps 101:4 only (φρύγιον, dry sticks for burning; not in L&S); MS1932. *lenha* option. |",
+    "| nyctícorax | coruja (*como a coruja na casa*) | open | Ps 101:7 only (L&S 'night-raven'); MS1932; *corvo noturno* option. |",
+    "| domicílium | casa (*na casa*) | open | Ps 101:7 only; *morada* / *habitação* are held by habitáculum / habitátio; shares *casa* with domus (they do not meet). DRB 'in the house'. |",
+    "| memoriále | memorial (*e o vosso memorial, de geração em geração*) | open | Ps 101:13; 134:13 has the same colon and should copy it. The ambiguity reader listed *memorial* as unknown but heard 'remembrance'; *memória* option. |",
+    "| allídere | derrubar (*porque me elevastes e me derrubastes*) | open | Ps 101:11 (κατέρραξας, after *élevans*); 136:9 *allídet párvulos tuos ad petram* is a dashing against, and decides locally. *arrojar* (MS1932) option. |",
+    "| compedíti · sólvere · interémpti | acorrentados · soltar · os que foram mortos | open | Ps 101:21 (*Para ouvir os gemidos dos acorrentados: * para soltar os filhos dos que foram mortos*); *soltar* kept apart from liberáre. **145:7b *Dóminus solvit compedítos* should copy *solta os acorrentados*.** |",
+    "| opertórium | manto (*E como um manto os mudareis*) | open | Ps 101:28 (περιβόλαιον), kept apart from *vestiméntum → veste* in 101:27. *coberta*, *roupa* options. |",
+    "| paucitas (*paucitátem diérum meórum*) | *quão poucos são os meus dias* | open | Ps 101:24 (v2, the stylist): fewness as a clause; *o pequeno número dos meus dias* option. *núntia* → *anunciai-me* (the Greek of 101:22's *annúntient*, D41). |",
+    "| revocáre (*Ne révoces me*) | chamar de volta (*Não me chameis de volta*) | open | Ps 101:25; DRB 'call me not away'. |",
+    "| in dimídio (diérum) | no meio (*no meio dos meus dias*) | open | Ps 101:25 (v2, the stylist); *na metade* (MS1932) option. |",
+    "| idem ipse (*tu autem idem ipse es*) | o mesmo (*vós, porém, sois o mesmo*) | open | Ps 101:28 (ὁ αὐτός). The Latinist asked (v1, minor) for *o mesmo, vós mesmo*; DRB/MS1932 add 'always'. Both options. |",
+    "| excélsum (singular noun, *de excélso sancto suo*) | altura (*da sua santa altura*) | open | Ps 101:20 (ἐξ ὕψους ἁγίου); follows D42's *excélsa → alturas*. MS1932 *do alto do seu santuário* option. |"
+  ],
+  "formulas": [
+    "| *Dómine, exáudi oratiónem meam. R. Et clamor meus ad te véniat* (101:2; the versicle of every Hour, Psalterium/Common/Prayers.txt) | *Senhor, escutai a minha oração. R. E chegue até vós o meu clamor* | open — Ps 101; *chegar* for *veníre* (101:14 *chegou o tempo* the same), as the response already circulates in Brazil (words/exaudire.md); *venha a vós* option |"
+  ]
+}
