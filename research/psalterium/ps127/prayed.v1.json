@@ -1,0 +1,470 @@
+{
+  "psalm": 127,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "127:1": "{beati} todos os que temem o Senhor, * os que andam nos seus caminhos.",
+    "127:2": "Porque comerás {labores} das tuas mãos: * {beatus2}, {bene}.",
+    "127:3a": "A tua {v3a} {vitis}, * {lateribus} da tua casa.",
+    "127:3b": "Os teus {v3b} {novellae}, * ao redor da tua mesa.",
+    "127:4": "{ecce} {benedicetur} o homem * que teme o Senhor.",
+    "127:5": "O Senhor {benedicat} de Sião: * {videas5} {bona} de Jerusalém todos os dias da tua vida.",
+    "127:6": "{videas6} os filhos dos teus filhos, * {pacem} sobre Israel."
+  },
+  "decisions": [
+    {
+      "id": "beati",
+      "refs": [
+        "127:1",
+        "127:2"
+      ],
+      "latin": "Beáti … beátus es",
+      "kind": "glossary",
+      "why": "D19 settles beátus → bem-aventurado (29 places; the Latin psalter never says felix). Brazil knows this psalm as 'Felizes os que temem o Senhor e trilham seus caminhos' (the Lectionary refrain for the Holy Family and the 33rd Sunday, Year A) and 'Feliz és tu se temes o Senhor' (CNBB Liturgia das Horas) — both fetched, see circulation.md; both from the Hebrew. The psalm says the word twice (127:1 plural, 127:2 'beátus es'), and the two must stay one word.",
+      "options": [
+        {
+          "label": "Bem-aventurados … bem-aventurado és",
+          "forms": {
+            "beati": "Bem-aventurados",
+            "beatus2": "bem-aventurado és"
+          },
+          "note": "Draft, by D19; Matos Soares 1932 has exactly these words in both verses. 127:1's first colon runs +4 syllables over the Latin (15 against 11), as 118:1 did; accepted.",
+          "from": "glossary"
+        },
+        {
+          "label": "Felizes … feliz és",
+          "forms": {
+            "beati": "Felizes",
+            "beatus2": "feliz és"
+          },
+          "note": "The familiar Brazilian wording (Lectionary refrain, CNBB LH, the Diurnal Monástico 1962 'FELIZ'); two syllables shorter. Refused under D19.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "labores",
+      "refs": [
+        "127:2"
+      ],
+      "latin": "Labóres mánuum tuárum quia manducábis",
+      "kind": "grammar",
+      "why": "The Latin fronts the object before 'quia' ('the labours of your hands, because you will eat'), the Greek's order too (τοὺς πόνους τῶν καρπῶν σου φάγεσαι — the Greek has 'fruits', the Latin 'hands'; the Latin is followed). Portuguese cannot keep the object before 'porque'; the conjunction goes first. 'labóres' is the fruit of toil, and 104:44 already has 'os trabalhos dos povos' for it. 'Eat the labours' is the Latin's concrete image and is kept; the question is only the article or the partitive.",
+      "options": [
+        {
+          "label": "comerás dos trabalhos",
+          "forms": {
+            "labores": "dos trabalhos"
+          },
+          "note": "Draft. The partitive 'comer de' is how Portuguese says eating from a store ('comer do pão'); Matos Soares 1932 'comerás dos trabalhos das tuas mãos'. The plural of labóres kept.",
+          "from": "MS1932"
+        },
+        {
+          "label": "comerás os trabalhos",
+          "forms": {
+            "labores": "os trabalhos"
+          },
+          "note": "The Latin's plain accusative, as Douay-Rheims 'thou shalt eat the labours of thy hands'. Heard as eating the labour itself — stranger in Portuguese than in English.",
+          "from": "DRB"
+        },
+        {
+          "label": "do trabalho",
+          "forms": {
+            "labores": "do trabalho"
+          },
+          "note": "Singular, as the CNBB 'Do trabalho de tuas mãos hás de viver' and the Diurnal. Loses the Latin's plural for no gain of sense.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "bene",
+      "refs": [
+        "127:2"
+      ],
+      "latin": "et bene tibi erit",
+      "kind": "word",
+      "why": "An impersonal 'it will be well with you' (καλῶς σοι ἔσται). Portuguese has the impersonal 'ir bem a alguém'. The CNBB's 'tudo irá bem' supplies a subject.",
+      "options": [
+        {
+          "label": "e te irá bem",
+          "forms": {
+            "bene": "e te irá bem"
+          },
+          "note": "Draft; Matos Soares 1932's words. Impersonal as the Latin; ends on the stressed 'bem'. The pronoun before the verb is the Brazilian placement after 'e'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e tudo te irá bem",
+          "forms": {
+            "bene": "e tudo te irá bem"
+          },
+          "note": "More native (the CNBB's 'tudo irá bem'), but 'tudo' is a subject the Latin does not have.",
+          "from": "draft"
+        },
+        {
+          "label": "e estarás bem",
+          "forms": {
+            "bene": "e estarás bem"
+          },
+          "note": "Makes the addressee the subject; a state of health rather than of fortune.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "verbless",
+      "refs": [
+        "127:3a",
+        "127:3b"
+      ],
+      "latin": "Uxor tua sicut vitis … Fílii tui sicut novéllæ",
+      "kind": "grammar",
+      "why": "Both images have no verb in the Latin or the Greek. Matos Soares 1932 supplies 'será' and 'estarão', the CNBB 'é' and 'são'. A copula is allowed (rule 2), but any copula chooses a tense the Latin leaves open between the future of 127:2 ('manducábis') and 127:4 ('benedicétur') and a timeless picture; Ps 122:2 kept its verbless comparison. The comma after 'abúndans' and 'olivárum' is the Latin's.",
+      "options": [
+        {
+          "label": "verbless",
+          "forms": {
+            "v3a": "esposa,",
+            "v3b": "filhos,"
+          },
+          "note": "Draft. A tableau, as the Latin: 'A tua esposa, como videira abundante, * nos lados da tua casa.' The two members stay built alike.",
+          "from": "draft"
+        },
+        {
+          "label": "será … serão",
+          "forms": {
+            "v3a": "esposa será",
+            "v3b": "filhos serão"
+          },
+          "note": "Matos Soares 1932 (future, following 127:2). 'A tua esposa será como videira abundante'. Decides the tense.",
+          "from": "MS1932"
+        },
+        {
+          "label": "é … são",
+          "forms": {
+            "v3a": "esposa é",
+            "v3b": "filhos são"
+          },
+          "note": "The CNBB's present. Decides the tense the other way.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vitis",
+      "refs": [
+        "127:3a"
+      ],
+      "latin": "sicut vitis abúndans",
+      "kind": "word",
+      "why": "vitis is the plant (videira), not the vineyard (vínea → vinha, 79:9). abúndans is 'overflowing, rich' (εὐθηνοῦσα, 'thriving'); Matos Soares 1932 and the CNBB have 'fecunda', which names fertility where the Latin names abundance — the reading of the wife as mother is left to the next line, which the Latin also does. The glossary keeps the abund- family on its root (abundántia → abundância).",
+      "options": [
+        {
+          "label": "como videira abundante",
+          "forms": {
+            "vitis": "como videira abundante"
+          },
+          "note": "Draft. The Latin's word kept by its cognate. 12 syllables against the Latin's 11.",
+          "from": "draft"
+        },
+        {
+          "label": "como videira fecunda",
+          "forms": {
+            "vitis": "como videira fecunda"
+          },
+          "note": "Matos Soares 1932 ('vide fecunda') and the CNBB ('videira bem fecunda'); the wording Brazil knows. Interprets abúndans as fertility.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como videira viçosa",
+          "forms": {
+            "vitis": "como videira viçosa"
+          },
+          "note": "'Flourishing' — close to the Greek, but a different word from the Latin's.",
+          "from": "draft"
+        },
+        {
+          "label": "como uma videira abundante",
+          "forms": {
+            "vitis": "como uma videira abundante"
+          },
+          "note": "With the article; one more beat, nothing more said.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "lateribus",
+      "refs": [
+        "127:3a"
+      ],
+      "latin": "in latéribus domus tuæ",
+      "kind": "word",
+      "why": "latus is 'side, flank', of a building its side walls (the Greek ἐν τοῖς κλίτεσι, 'on the sides'); the image the Latin makes is a vine grown along the walls of the house — Douay-Rheims 'on the sides of thy house'. The Hebrew has 'the inner recesses', which is why Matos Soares 1932 has 'no interior' and the CNBB and the Diurnal 'no coração da tua casa'. The glossary already has 'os lados do norte' for látera Aquilónis (D43).",
+      "options": [
+        {
+          "label": "nos lados",
+          "forms": {
+            "lateribus": "nos lados"
+          },
+          "note": "Draft. The Latin's word, as D43's 'lados'. Risk: 'nos lados da tua casa' may be heard vaguely, 'around your house' — for the readers to test.",
+          "from": "DRB"
+        },
+        {
+          "label": "junto às paredes",
+          "forms": {
+            "lateribus": "junto às paredes"
+          },
+          "note": "Makes the image plain (a vine along the walls), but names walls the Latin calls sides.",
+          "from": "draft"
+        },
+        {
+          "label": "no interior",
+          "forms": {
+            "lateribus": "no interior"
+          },
+          "note": "Matos Soares 1932 — the Hebrew's sense, not the Latin's. Refused under rule 1.",
+          "from": "MS1932"
+        },
+        {
+          "label": "no coração",
+          "forms": {
+            "lateribus": "no coração"
+          },
+          "note": "The CNBB and the Diurnal Monástico 1962, from the Hebrew; the wording Brazil knows. Refused under rule 1 (and a metaphor the Latin does not make).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "novellae",
+      "refs": [
+        "127:3b"
+      ],
+      "latin": "sicut novéllæ olivárum",
+      "kind": "word",
+      "why": "novéllæ (plantæ) are young plants, new shoots (νεόφυτα, 'new-planted'). olivárum is plural. The half-verse is also the Corpus Christi Vespers antiphon ('Sicut novéllæ olivárum, * Ecclésiæ fílii sint in circúitu mensæ Dómini', DO Tempora/Pent01-4), so it must read alone. 'Rebentos' already renders propágines at 79:12 (a different word, a different Greek, never in one psalm).",
+      "options": [
+        {
+          "label": "como rebentos de oliveira",
+          "forms": {
+            "novellae": "como rebentos de oliveira"
+          },
+          "note": "Draft. The CNBB's 'rebentos de oliveira', the wording Brazil sings at the Holy Family and at weddings (circulation.md). The generic singular 'de oliveira' for olivárum: number is grammar (D2), and 'rebentos de oliveiras' makes a string of sibilants. 10 syllables against the Latin's 11.",
+          "from": "draft"
+        },
+        {
+          "label": "como rebentos de oliveiras",
+          "forms": {
+            "novellae": "como rebentos de oliveiras"
+          },
+          "note": "The Latin's plural.",
+          "from": "draft"
+        },
+        {
+          "label": "como renovos de oliveira",
+          "forms": {
+            "novellae": "como renovos de oliveira"
+          },
+          "note": "'renovo' keeps the nov- of novéllæ and stays apart from 79:12's 'rebentos'; less current in Brazil.",
+          "from": "draft"
+        },
+        {
+          "label": "como mudas de oliveira",
+          "forms": {
+            "novellae": "como mudas de oliveira"
+          },
+          "note": "The Diurnal Monástico 1962: the nurseryman's word, very plain.",
+          "from": "DM1962"
+        },
+        {
+          "label": "como pimpolhos de oliveiras",
+          "forms": {
+            "novellae": "como pimpolhos de oliveiras"
+          },
+          "note": "Matos Soares 1932. In Brazil 'pimpolho' is first a nickname for a small child.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ecce",
+      "refs": [
+        "127:4"
+      ],
+      "latin": "Ecce, sic benedicétur homo",
+      "kind": "glossary",
+      "why": "ecce → eis (glossary); 122:2a 'Eis que' is the particle's usual shape before a clause. sic is 'thus', pointing back at 127:2–3. Matos Soares 1932 and the CNBB turn it into 'Eis como' / 'Será assim'. The line is the Communion of the Nuptial Mass ('Ecce sic benedicetur omnis homo, qui timet Dominum', fetched) and reads alone.",
+      "options": [
+        {
+          "label": "Eis que assim",
+          "forms": {
+            "ecce": "Eis que assim"
+          },
+          "note": "Draft. Both particles kept, 'assim' for sic; 122:2a's shape.",
+          "from": "glossary"
+        },
+        {
+          "label": "Eis como",
+          "forms": {
+            "ecce": "Eis como"
+          },
+          "note": "Matos Soares 1932 and the Diurnal. Idiomatic, but 'como' turns 'thus' into 'how', an exclamation.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Eis: assim",
+          "forms": {
+            "ecce": "Eis: assim"
+          },
+          "note": "The bare particle with the Latin's pause.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "benedicat",
+      "refs": [
+        "127:4",
+        "127:5"
+      ],
+      "latin": "benedicétur homo … Benedícat tibi Dóminus ex Sion",
+      "kind": "glossary",
+      "why": "The benedícere (God → man) row keeps 'bendizer' (133:3 'O Senhor te bendiga de Sião', 66:7b, 84:2, 111:2 'será bendita'), open for Gustavo's ruling. The glossary's formula row names 127:5 beside 133:3 as the same blessing (dative here, accusative there — Portuguese 'te' serves both). Brazil knows this psalm with 'abençoar' ('Será assim abençoado todo homem', 'O Senhor te abençoe de Sião', CNBB, fetched); Matos Soares 1932 likewise. The psalm's two places must stay one verb.",
+      "options": [
+        {
+          "label": "será bendito … te bendiga",
+          "forms": {
+            "benedicetur": "será bendito",
+            "benedicat": "te bendiga"
+          },
+          "note": "Draft, by the row; 127:5's first colon is 133:3's word for word.",
+          "from": "glossary"
+        },
+        {
+          "label": "será abençoado … te abençoe",
+          "forms": {
+            "benedicetur": "será abençoado",
+            "benedicat": "te abençoe"
+          },
+          "note": "Matos Soares 1932, the CNBB, the Diurnal: the familiar verb. Goes with the row, not alone: 133:3 would follow.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "bona",
+      "refs": [
+        "127:5"
+      ],
+      "latin": "et vídeas bona Jerúsalem",
+      "kind": "glossary",
+      "why": "bona (τὰ ἀγαθά), 'good things'. The glossary has 'coisas boas' (bona tríbuere, 12:6b; 83:13), and 121:9 'busquei coisas boas para ti', said to Jerusalem, is the nearest place; 26:13 kept 'os bens do Senhor' because the antiphon is known so. 'os bens de Jerusalém' (Matos Soares 1932) is heard first as the city's property.",
+      "options": [
+        {
+          "label": "as coisas boas",
+          "forms": {
+            "bona": "as coisas boas"
+          },
+          "note": "Draft, with 121:9 (the same city) and the row. Second colon 22 syllables against the Latin's 20.",
+          "from": "glossary"
+        },
+        {
+          "label": "os bens",
+          "forms": {
+            "bona": "os bens"
+          },
+          "note": "Matos Soares 1932; 26:13's word. Shorter by two; heard as goods.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "videas",
+      "refs": [
+        "127:5",
+        "127:6"
+      ],
+      "latin": "et vídeas … Et vídeas",
+      "kind": "grammar",
+      "why": "A subjunctive of wish, twice, continuing 'Benedícat'. Portuguese can carry the bare optative after a wish ('e vejas'), as Matos Soares 1932 does; 'e que vejas' is the everyday build and one syllable longer. The anaphora (vídeas … vídeas) stays either way.",
+      "options": [
+        {
+          "label": "e vejas … E vejas",
+          "forms": {
+            "videas5": "e vejas",
+            "videas6": "E vejas"
+          },
+          "note": "Draft; Matos Soares 1932. Heard as a wish because it follows 'O Senhor te bendiga'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "e que vejas … E que vejas",
+          "forms": {
+            "videas5": "e que vejas",
+            "videas6": "E que vejas"
+          },
+          "note": "The ordinary Portuguese wish; one syllable more in each place.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pacem",
+      "refs": [
+        "127:6"
+      ],
+      "latin": "pacem super Israël",
+      "kind": "ambiguity",
+      "why": "The Latin has the accusative: 'pacem' is a second object of 'vídeas' — may you see your children's children, (and) peace upon Israel. The Greek has the nominative εἰρήνη, a bare blessing, and so does 124:5 in the Latin ('pax super Israël', drafted there as 'paz sobre Israel'). The Latin of the two psalms differs by case, so rule 6 does not bind them to one wording; the Latin is followed here (rule 1). Douay-Rheims keeps an apposition ('thy children's children, peace upon Israel'); Matos Soares 1932 adds 'e a paz'.",
+      "options": [
+        {
+          "label": "a paz sobre Israel",
+          "forms": {
+            "pacem": "a paz"
+          },
+          "note": "Draft. The article makes 'a paz' a second object of 'vejas', in apposition as the Latin has it, without adding 'e'; the ear can still hear the closing blessing. 7 syllables, the Latin's count.",
+          "from": "draft"
+        },
+        {
+          "label": "paz sobre Israel",
+          "forms": {
+            "pacem": "paz"
+          },
+          "note": "124:5's words: a bare blessing, the Greek's nominative. Loses the Latin's accusative.",
+          "from": "draft"
+        },
+        {
+          "label": "e a paz sobre Israel",
+          "forms": {
+            "pacem": "e a paz"
+          },
+          "note": "Matos Soares 1932. Makes the object plain by supplying 'e'.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "127:1": "No title line: the Latin of DO has none, and D7 keeps the tituli out (as Pss 119–122, 133). 'qui timent Dóminum' → 'os que temem o Senhor' (113:19, 117:4). The second 'qui' is resumed as 'os que' (118:1's build), with no 'e' (Matos Soares 1932 adds one). ámbulant → 'andam' (row: not 'caminhar' beside 'caminho'); 'nos seus caminhos' as 118:3. The Monastic None antiphon and the Vespers antiphon are the first colon's first words, 'Bem-aventurados todos * os que temem o Senhor' reads alone.",
+    "127:2": "The singular 'tu' begins here: the psalm turns to one man (rule 3: a singular human addressee is 'tu'). 'Porque' for quia at the head of the clause. manducáre → comer (row).",
+    "127:3a": "uxor → 'esposa': 'mulher' is heard first as 'woman'. The article before the possessive (rule 5). 3a and 3b are built alike, as in the Latin. The half-verse is the Gradual of the Nuptial Mass (fetched) and reads alone.",
+    "127:3b": "in circúitu → 'ao redor de' (row; the row names this verse). 'mensa' → 'mesa'. The Corpus Christi antiphon is made of this line.",
+    "127:4": "homo → 'o homem' (not 'todo homem': 'omnis' is the Nuptial Communion's addition, not the psalm's). 'qui timet Dóminum' → 'que teme o Senhor', as 111:1. No comma before the relative: in Portuguese it would make it non-restrictive.",
+    "127:5": "ex Sion → 'de Sião', as 133:3 (the ps133 note asked 127:5 to follow). 'ómnibus diébus vitæ tuæ' → 'todos os dias da tua vida', 22:6's 'todos os dias da minha vida'.",
+    "127:6": "fílios filiórum → 'os filhos dos teus filhos' (102:17b 'os filhos dos filhos'; the pronoun is the Latin's tuórum)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Liturgical use by grep and Brazilian circulation fetched: circulation.md. Hard readings: 127:6 pacem (accusative, against the Greek's and 124:5's nominative), 127:3a in latéribus (the Latin's sides against the Hebrew's recesses that all Brazilian versions follow), 127:4–5 benedícere (the row's bendizer against the familiar abençoar)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids and marks). Soft flags accepted: 127:1 first colon +4 (bem-aventurados, D19, as 118:1); 127:3a first colon +4 by the heuristic count, ~+2 once esposa‿como and videira‿abundante elide; 127:5 second colon +3 (as coisas boas; os bens is the shorter option); 127:6 first colon -4 (Latin inflections; nothing to add). Oxytone cadences at 127:1, 2, 4b, 5a, 6b fall on Senhor, mãos, bem, Sião, Israel — stressed last syllables, allowed by rule 4."
+    }
+  ]
+}

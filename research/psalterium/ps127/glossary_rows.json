@@ -1,0 +1,20 @@
+{
+  "append": [
+    {"row": "| beátus vir |", "text": "**Ps 127:1–2 *Beáti omnes … beátus es* → *Bem-aventurados todos … és bem-aventurado*** — D19 held against the Brazilian refrain *Felizes os que temem o Senhor* (Lectionary, fetched); 127:2 in the natural order (the stylist). *Felizes / és feliz* the option."},
+    {"row": "| via |", "text": "Ps 127:1 *qui ámbulant in viis ejus* → *os que andam nos seus caminhos* (= 118:3); the stylist heard *seus* as 'their own', the ambiguity reader the Lord's first; *nos caminhos dele* the option."},
+    {"row": "| benedícere (God → man) |", "text": "**Ps 127:4 *sic benedicétur homo* → *assim será bendito o homem*; 127:5 *Benedícat tibi Dóminus ex Sion* → *O Senhor te bendiga de Sião*** (133:3 word for word; the dative as *te*). No reader objected to the verb; the familiar Brazilian text has *abençoado … te abençoe* (CNBB, fetched), the option, one decision (`benedicat`)."},
+    {"row": "| ecce |", "text": "Ps 127:4 *Ecce, sic* → *Eis que assim* (122:2a's *Eis que*); MS1932 *Eis como* the option."},
+    {"row": "| in circúitu |", "text": "Ps 127:3b *in circúitu mensæ tuæ* → *ao redor da tua mesa*, as the row foresaw."},
+    {"row": "| labor (noun) |", "text": "**Ps 127:2 *Labóres mánuum tuárum … manducábis* → *comerás dos trabalhos das tuas mãos*** — the fruit of toil, as 104:44; the partitive held twice against a Latinist minor (*os trabalhos*, option)."},
+    {"row": "| manducáre / édere |", "text": "Ps 127:2 → *comerás dos* (partitive; see labor)."},
+    {"row": "| abundántia |", "text": "Ps 127:3a *vitis abúndans* → *videira abundante* (the root kept against MS1932 / CNBB *fecunda*)."},
+    {"row": "| bona tríbuere |", "text": "**Ps 127:5 *vídeas bona Jerúsalem* → *vejas os bens de Jerusalém*** — the stylist's (v1 *as coisas boas* was flat and made the psalm's longest colon +3); 26:13's *os bens*. Against 121:9 *coisas boas* for the same city: bare *bona* as object now reads *os bens* (26:13, 127:5) and *coisas boas* (12:6b, 83:13, 121:9) — a split worth ruling."}
+  ],
+  "terms": [
+    "| vitis | videira | working | Ps 127:3a *sicut vitis abúndans* → *como videira abundante*; the plant, apart from *vínea → vinha* (79:9). MS1932 *vide*. |",
+    "| latus, -eris (side of a house) | lado (*nos lados da tua casa*) | open | Ps 127:3a *in latéribus domus tuæ* (ἐν τοῖς κλίτεσι); the Latin's sides (a vine along the walls), as D43's *os lados do norte*, against the Hebrew's 'recesses' that MS1932 (*no interior*), the CNBB and DM1962 (*no coração*) follow. The stylist found *nos lados* colloquial and asked *aos lados* (option; puts the vine beside the house); the ambiguity reader heard the walls. Distinct from the adjective *latus → amplo*. |",
+    "| novéllæ (olivárum) | rebentos (*como rebentos de oliveiras*) | open | Ps 127:3b (νεόφυτα); the CNBB's word for this verse, plural *oliveiras* from the Latinist (v1 minor). Unknown to the ambiguity reader; *mudas* (DM1962), *renovos* options. *rebentos* also renders *propágines* at 79:12 (another Greek word; never in one psalm). 143:12 *novéllæ plantatiónes* will test it. |",
+    "| uxor | esposa | working | Ps 127:3a; *mulher* is heard first as 'woman'. |",
+    "| nominal comparison with no verb (*Uxor tua sicut vitis …*) | a present copula may be supplied (*A tua esposa é como videira*) | open | Ps 127:3a–3b, the stylist's (the verbless line was his worst of the psalm; the ambiguity reader heard it as present anyway); 122:2 kept its verbless comparison. Decide per psalm. |"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "append": [
+    {"row": "| potens (substantive) |", "text": "**Ps 126:4 *Sicut sagíttæ in manu poténtis* → *Como setas na mão do poderoso*** — copied as foreseen; the ambiguity reader heard a warrior (the Latin's openness kept); the Latinist passed it twice."},
+    {"row": "| laboráre |", "text": "**Ps 126:1a *in vanum laboravérunt* → *em vão trabalharam*** — *trabalhar* as the row foresaw; the Latin's perfect kept (DRB, MS1932 present; the CNBB LH *trabalharão*, options). The ambiguity reader heard a general statement."},
+    {"row": "| vigiláre (", "text": "**Ps 126:1b *frustra vígilat qui custódit eam* → *em vão vigia o que a guarda*** (ἀγρυπνέω; the row's verb; *vela* the option)."},
+    {"row": "| sagítta |", "text": "Ps 126:4 *Como setas na mão do poderoso* — the ambiguity reader listed *setas* unknown (first time); kept (the CNBB LH has *flechas*)."},
+    {"row": "| diléctus (substantive) |", "text": "Ps 126:2b *diléctis suis* → *aos seus amados* (59:7's plural); heard as the Lord's beloved."},
+    {"row": "| confúndi |", "text": "Ps 126:5 *non confundétur* → *não será envergonhado* (the CNBB LH has the same words, fetched); the stylist asked *confundido* — refused under D15."}
+  ],
+  "terms": [
+    "| in vanum / frustra / vanum est (εἰς μάτην) | em vão; *vanum est* → *é vão* | working | Ps 126:1a, 1b, 2a — three Latin wordings of one Greek phrase in three lines (D15's test), as 38:7 *frustra* / 38:12b *vane*. *Vanum est vobis … súrgere* → *É vão para vós levantar-vos* (the adjective predicated of the infinitive); MS1932's *Em vão vos levantais* the option. The ambiguity reader listed *vão* unknown in 2a. |",
+    "| ædificáre | edificar (both God's building and man's) | working | Ps 126:1a *Nisi Dóminus ædificáverit domum … qui ædíficant eam* → *Se o Senhor não edificar a casa … os que a edificam* — the repetition kept; = 50:20, 68:36, 77:69, 88:3, 101:17, 121:3. The substantive *ædificántes* (117:22) is *os construtores*. The CNBB LH's *construir … construtores* (fetched, `ps126/circulation.md`) is the option in Ps 126. |",
+    "| excússi (*fílii excussórum*) | *os filhos dos que foram sacudidos* | open | Ps 126:4 only (grep). ἐκτετιναγμένων, 'shaken out/off/cast out' (L&S); the Greek read the Hebrew's 'youth' as 'shaken'. DRB 'of them that have been shaken'. Who they are is left open (exiles, oppressed, those who shook off the world). Unknown to the ambiguity reader; passed the Latinist twice. Options *dos sacudidos*, *dos expulsos*, *dos oprimidos* (MS1932, explains). |",
+    "| merces | recompensa | open | Ps 126:2b *merces, fructus ventris* → *a recompensa, o fruto do ventre* (apposition, as the Latin; the Greek has a genitive). Only here in the psalter (grep); canticles Isa 40:10, Eccli 36:18, Psalm255 10:17 will follow. *salário*, *prêmio* (DM1962) options. Cost: shares a root with 118:17 *Recompensai* (retribúere). |",
+    "| sedére (*súrgite postquam sedéritis*) | *levantai-vos depois de vos sentardes* | open | Ps 126:2a; the image of sitting kept (MS1932 *depois que tiverdes repousado* explains). Draft 1 *depois de vos terdes sentado* was heavy to the stylist. The ambiguity reader found the command puzzling — as the Latin is. |",
+    "| implére desidérium (*ex ipsis*) | encher (*encheu deles o seu desejo*) | open | Ps 126:5; = 102:5 *replet … desidérium* → *enche … o teu desejo*. *ex* as source → *deles*, before the object (the Latinist's minor on draft 1's *com eles*). The stylist called *encher o desejo* unidiomatic and asked *saciou* (satiáre's) — option. |"
+  ],
+  "formulas": [
+    "| *Non confundétur * cum loquétur inimícis suis in porta* (126:5; Vespers antiphon, DO Psalmi major [Daya3 Vespera]) · *Dóminus ædíficet * nobis domum, et custódiat civitátem* ([Day2 Vespera]; adapted from 126:1) | *Não será envergonhado * quando falar aos seus inimigos à porta* · *O Senhor edifique * para nós a casa, e guarde a cidade* (the adapted antiphon not yet translated elsewhere; this wording proposed) | open — Ps 126 |"
+  ]
+}

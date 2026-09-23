@@ -1,0 +1,474 @@
+{
+  "psalm": 126,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "126:1a": "Se o Senhor não {aedif1} a casa, * em vão {laboraverunt} os que a {aedif2}.",
+    "126:1b": "Se o Senhor não guardar a cidade, * em vão {vigilat} o que a guarda.",
+    "126:2a": "{vanum} antes da luz: * levantai-vos {sederitis}, vós que comeis o pão da dor.",
+    "126:2b": "Quando ele der o sono aos seus amados: * {hereditas}: {merces}, o fruto do ventre.",
+    "126:4": "Como setas na mão do poderoso: * assim são os filhos {excussorum}.",
+    "126:5": "Bem-aventurado o homem que {implevit}: * não será envergonhado quando falar aos seus inimigos à porta."
+  },
+  "decisions": [
+    {
+      "id": "aedificare",
+      "refs": [
+        "126:1a"
+      ],
+      "latin": "Nisi Dóminus ædificáverit domum … qui ædíficant eam",
+      "kind": "glossary",
+      "why": "The Latin says one verb twice in one line, God's building and the builders' (οἰκοδομήσῃ … οἰκοδομοῦντες in the Greek too), and the line turns on it: the repetition stays (rule 2). *edificar* is the psalter's verb so far (50:20, 68:36, 77:69, 88:3, 88:5, 101:17, 121:3 — grep of the prayed files) and Matos Soares 1932's here. The CNBB Liturgia das Horas (fetched, `consult/web-lh-salmo-126-127.html`) and DM1962 say *construir … construtores*, and 117:22 has *os construtores* for the noun *ædificántes*; a Brazilian ear may know the line with *construir*. The moral sense of *edificar* ('edify') was heard once, at 121:3; here the object *a casa* closes it.",
+      "options": [
+        {
+          "label": "edificar … edificam",
+          "forms": {
+            "aedif1": "edificar",
+            "aedif2": "edificam"
+          },
+          "note": "Ruling: the psalter's verb, both times; MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "construir … constroem",
+          "forms": {
+            "aedif1": "construir",
+            "aedif2": "constroem"
+          },
+          "note": "The CNBB LH's verb (with the noun *construtores*) and DM1962's *construir*; plainer to the ear; breaks the row with 50:20, 68:36, 101:17, 121:3.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laboraverunt",
+      "refs": [
+        "126:1a"
+      ],
+      "latin": "in vanum laboravérunt",
+      "kind": "grammar",
+      "why": "A perfect (Greek aorist ἐκοπίασαν) after a future-perfect condition: gnomic, or 'will have laboured'. Douay-Rheims and Matos Soares 1932 turn it into the present (*they labour in vain*; *é em vão que trabalham*). The Latin's perfect is kept: in Portuguese *em vão trabalharam* after *Se o Senhor não edificar* is heard as the result already sealed — the Latin's own logic — and the verb is *trabalhar*, as the *laboráre* row foresaw for this verse (48:9 *trabalhará*).",
+      "options": [
+        {
+          "label": "trabalharam",
+          "forms": {
+            "laboraverunt": "trabalharam"
+          },
+          "note": "Ruling: the Latin's tense.",
+          "from": "draft"
+        },
+        {
+          "label": "trabalham",
+          "forms": {
+            "laboraverunt": "trabalham"
+          },
+          "note": "DRB, MS1932: the gnomic sense as a present; matches 1b *vigia*.",
+          "from": "DRB"
+        },
+        {
+          "label": "trabalharão",
+          "forms": {
+            "laboraverunt": "trabalharão"
+          },
+          "note": "The CNBB LH's future (from the Hebrew's perfect read as consequence).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vigilat",
+      "refs": [
+        "126:1b"
+      ],
+      "latin": "frustra vígilat qui custódit eam",
+      "kind": "word",
+      "why": "*vigiláre* here is ἀγρυπνέω, to stay awake (the *vigiláre* row leaves 126:1b to be decided locally). *vigiar* keeps the Latin's word and is the row's verb (62:2a, 101:8); it says both watching and staying awake, and the watchman is named by the next words, *o que a guarda*. *frustra* → *em vão*, as 38:7 (*frustra* and *vane* are one Greek word, μάτην): here *in vanum*, *frustra* and *vanum est* are all εἰς μάτην, so the three are one Portuguese phrase (D15's test).",
+      "options": [
+        {
+          "label": "vigia",
+          "forms": {
+            "vigilat": "vigia"
+          },
+          "note": "Ruling: the row's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "vela",
+          "forms": {
+            "vigilat": "vela"
+          },
+          "note": "Stays awake, the Greek's sense; but *velar* is heard with *velório*, as the row records at 101:8.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "vanum",
+      "refs": [
+        "126:2a"
+      ],
+      "latin": "Vanum est vobis ante lucem súrgere",
+      "kind": "grammar",
+      "why": "The Latin predicates *vanum* of the infinitive, with a dative of the persons. Kept as it is built: *É vão para vós levantar-vos*, so that the infinitive *súrgere* and the imperative *súrgite* are one verb in both cola (*levantar … levantai-vos*), as the Latin repeats it. Matos Soares 1932 makes it a finite verb (*Em vão vos levantais*), which asserts that they do rise — grammar, and allowed by D2, but the Latin only weighs the act. *ante lucem* → *antes da luz* (DRB 'before light', DM1962): the image kept, not *antes do amanhecer*.",
+      "options": [
+        {
+          "label": "É vão para vós levantar-vos",
+          "forms": {
+            "vanum": "É vão para vós levantar-vos"
+          },
+          "note": "Ruling (v2, the stylist's): the reflexive in both cola, so the pair *levantar-vos … levantai-vos* is heard as one verb, as *súrgere … súrgite*.",
+          "from": "stylist"
+        },
+        {
+          "label": "É vão para vós levantar",
+          "forms": {
+            "vanum": "É vão para vós levantar"
+          },
+          "note": "Draft 1: 12 syllables on the Latin's 12; the stylist heard the pair mismatched.",
+          "from": "draft"
+        },
+        {
+          "label": "Em vão vos levantais",
+          "forms": {
+            "vanum": "Em vão vos levantais"
+          },
+          "note": "MS1932's build; shorter, and echoes the *em vão* of 1a and 1b.",
+          "from": "MS1932"
+        },
+        {
+          "label": "É em vão levantar-vos",
+          "forms": {
+            "vanum": "É em vão levantar-vos"
+          },
+          "note": "The three *em vão* of the Greek audible, the infinitive kept; *vobis* folded into the reflexive.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sederitis",
+      "refs": [
+        "126:2a"
+      ],
+      "latin": "súrgite postquam sedéritis",
+      "kind": "word",
+      "why": "The Latin has an imperative, *súrgite* (the Greek has a second infinitive, ἐγείρεσθαι μετὰ τὸ καθῆσθαι); the Latin is followed. *sedére* is to sit, and in the Vulgate family's reading to sit at rest: Matos Soares 1932 *depois que tiverdes repousado* (his note: they wear themselves out and despise God's help), Douay-Rheims 'after you have sitten'. The image of sitting is kept (rule 2: images stay, no explaining). The ambiguity reader found the command puzzling ('the point of *sentado* is unclear') — which is the Latin's own difficulty, not the Portuguese's; the Fathers argue over it too. Not explained.",
+      "options": [
+        {
+          "label": "depois de vos sentardes",
+          "forms": {
+            "sederitis": "depois de vos sentardes"
+          },
+          "note": "Ruling (v2, the stylist's): the image kept, lighter; *depois de* + infinitive already says the act is done, so the future perfect is carried without the compound.",
+          "from": "stylist"
+        },
+        {
+          "label": "depois de vos terdes sentado",
+          "forms": {
+            "sederitis": "depois de vos terdes sentado"
+          },
+          "note": "Draft 1: the future perfect spelled out; the stylist found it heavy and bookish, a third *vos* before *vós que*.",
+          "from": "draft"
+        },
+        {
+          "label": "depois de terdes repousado",
+          "forms": {
+            "sederitis": "depois de terdes repousado"
+          },
+          "note": "MS1932: the sense of the sitting made explicit — explains (rule 2).",
+          "from": "MS1932"
+        },
+        {
+          "label": "depois de estardes sentados",
+          "forms": {
+            "sederitis": "depois de estardes sentados"
+          },
+          "note": "*sedére* as a state; can be heard as 'while you are seated'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "hereditas",
+      "refs": [
+        "126:2b"
+      ],
+      "latin": "ecce heréditas Dómini fílii",
+      "kind": "order",
+      "why": "Verbless, with no article: *fílii* is apposition or predicate, and the Latin does not say which. *eis a herança do Senhor, os filhos* keeps the Latin's order and leaves both open; Douay-Rheims supplies a copula ('the inheritance of the Lord are children'), Matos Soares 1932 *Eis como herança do Senhor, os filhos*. *ecce → eis* (row), *heréditas → herança* (row). The clause *Cum déderit diléctis suis somnum* is left to run into it as DO's pointing has it; whether it closes 2a or opens 2b is left open, as in the Latin.",
+      "options": [
+        {
+          "label": "eis a herança do Senhor, os filhos",
+          "forms": {
+            "hereditas": "eis a herança do Senhor, os filhos"
+          },
+          "note": "Ruling: the Latin's order and openness.",
+          "from": "draft"
+        },
+        {
+          "label": "eis que os filhos são a herança do Senhor",
+          "forms": {
+            "hereditas": "eis que os filhos são a herança do Senhor"
+          },
+          "note": "DRB's copula, in natural order; closes the apposition as a predicate.",
+          "from": "DRB"
+        },
+        {
+          "label": "eis a herança do Senhor: os filhos; a recompensa: o fruto do ventre",
+          "forms": {
+            "hereditas": "eis a herança do Senhor: os filhos;",
+            "merces": "a recompensa:"
+          },
+          "note": "Stylist: punctuation that pairs the appositions for the voice. Refused: the draft's punctuation is the Latin's own (*fílii: merces, fructus ventris*) and the ambiguity reader heard the pairs rightly; the Latin leaves the grouping to the reader.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "merces",
+      "refs": [
+        "126:2b"
+      ],
+      "latin": "merces, fructus ventris",
+      "kind": "word",
+      "why": "*merces* is wage, hire, reward (L&S; μισθός); only here in the psalter (grep; among the canticles, Isa 40:10, Eccli 36:18 and the canticle filed as Psalm255, 10:17). The Latin sets it in apposition to *fructus ventris* — the Greek has a genitive (ὁ μισθὸς τοῦ καρποῦ τῆς γαστρός, 'the reward of the fruit of the womb'); the Latin is followed. *recompensa* (MS1932, DRB 'reward') is the plain word; *salário* and *paga* are the wage and sound mercenary. The *retribúere* row uses *Recompensai* at 118:17 for another verb, in another psalm. *fructus ventris → o fruto do ventre* (*venter → ventre*, row), the words of the Ave Maria, which the Latin also shares.",
+      "options": [
+        {
+          "label": "a recompensa",
+          "forms": {
+            "merces": "a recompensa"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "o salário",
+          "forms": {
+            "merces": "o salário"
+          },
+          "note": "The wage: the Latin's first sense, after the labour of 1a; heard as money.",
+          "from": "draft"
+        },
+        {
+          "label": "o prêmio",
+          "forms": {
+            "merces": "o prêmio"
+          },
+          "note": "DM1962's word (from the Hebrew); a prize rather than a due.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "excussorum",
+      "refs": [
+        "126:4"
+      ],
+      "latin": "ita fílii excussórum",
+      "kind": "ambiguity",
+      "why": "The crux of the psalm. *excússi* (ἐκτετιναγμένων) are 'those shaken out / off / cast out' — the Greek read the Hebrew's 'youth' (נְעוּרִים) as from a root 'to shake'. Who they are the Latin does not say: exiles shaken out of their land, the oppressed (Matos Soares 1932's *dos oprimidos*, an interpretation), or, in the Fathers' reading, those who have shaken off the world. Douay-Rheims keeps the image: 'the children of them that have been shaken'. Kept (rule 2), as a clause, because the bare participle *dos sacudidos* is not heard as persons. Cost: +4 syllables on the Latin's short colon.",
+      "options": [
+        {
+          "label": "dos que foram sacudidos",
+          "forms": {
+            "excussorum": "dos que foram sacudidos"
+          },
+          "note": "Ruling: DRB's wording; the image open.",
+          "from": "DRB"
+        },
+        {
+          "label": "dos sacudidos",
+          "forms": {
+            "excussorum": "dos sacudidos"
+          },
+          "note": "The Latin's length; opaque.",
+          "from": "draft"
+        },
+        {
+          "label": "dos expulsos",
+          "forms": {
+            "excussorum": "dos expulsos"
+          },
+          "note": "L&S 'cast out, drive out': the exiles' reading; closes the image to one sense.",
+          "from": "draft"
+        },
+        {
+          "label": "dos oprimidos",
+          "forms": {
+            "excussorum": "dos oprimidos"
+          },
+          "note": "MS1932: explains — refused (rule 2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "implevit",
+      "refs": [
+        "126:5"
+      ],
+      "latin": "qui implévit desidérium suum ex ipsis",
+      "kind": "word",
+      "why": "*implére desidérium* is 'to fill / satisfy a desire' (πληρώσει τὴν ἐπιθυμίαν; the Hebrew's 'quiver' read as 'desire'). *encher* keeps the verb's own image, as 102:5 *Qui replet … desidérium tuum* → *enche … o teu desejo* already has it, and 128:7 *non implévit manum suam* will have *encher* with a hand. *ex ipsis → deles* (v2): *encher de* is the Portuguese build for what fills, and *de* keeps the Latin's 'out of' that draft 1's *com eles* lost (the Latinist, minor); placed before the object, so that the colon ends on *desejo* and not on a weak pronoun (the stylist). The sons are meant, the arrows of 126:4 behind them. Matos Soares 1932's *viu cumprido o seu desejo acerca de tais filhos* explains.",
+      "options": [
+        {
+          "label": "encheu deles o seu desejo",
+          "forms": {
+            "implevit": "encheu deles o seu desejo"
+          },
+          "note": "Ruling: 102:5's verb. The stylist called *encher o desejo* unidiomatic ('one fills a container') and asked *saciou*; refused — *saciar* is satiáre's, and 102:5 already fills a desire; the image is the Latin's (and the quiver's behind it).",
+          "from": "draft"
+        },
+        {
+          "label": "cumpriu o seu desejo com eles",
+          "forms": {
+            "implevit": "cumpriu o seu desejo com eles"
+          },
+          "note": "The idiom for a desire in Portuguese; loses the filling (and the quiver behind it).",
+          "from": "MS1932"
+        },
+        {
+          "label": "com eles saciou o seu desejo",
+          "forms": {
+            "implevit": "com eles saciou o seu desejo"
+          },
+          "note": "The stylist's (*que com eles saciou o seu desejo*); *saciar* is satiáre's / saturáre's verb (102:5's decision).",
+          "from": "stylist"
+        },
+        {
+          "label": "encheu o seu desejo com eles",
+          "forms": {
+            "implevit": "encheu o seu desejo com eles"
+          },
+          "note": "Draft 1: instrument for the Latin's source (Latinist, minor), a weak pronoun at the mediant (stylist).",
+          "from": "draft"
+        },
+        {
+          "label": "encheu o seu desejo deles",
+          "forms": {
+            "implevit": "encheu o seu desejo deles"
+          },
+          "note": "The Latinist's fix as he wrote it; *o seu desejo deles* is heard as 'their desire'.",
+          "from": "latinist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "126:1a": "No titulus: *Canticum graduum* (Salomonis) is not reproduced (D7; as Pss 119, 120, 133). *in vanum → em vão*; *domus → casa* (row).",
+    "126:1b": "*custodíre → guardar* (row), twice as the Latin has it (*custodíerit … custódit*). *frustra → em vão* (38:7).",
+    "126:2a": "*súrgere / súrgite → levantar / levantai-vos*: the Latin's one verb twice. *manducáre → comer* (row); *panis dolóris → o pão da dor* (MS1932; *dolor → dor*, row). *qui manducátis* → the vocative *vós que comeis*. The second colon is long, as the Latin's is (19 syllables).",
+    "126:2b": "*Cum déderit* → *Quando ele der*: the subject hidden in the verb named (D2); lowercase. *diléctis suis → aos seus amados* (the *diléctus* row; 59:7 *os vossos amados*). *somnus → sono*. Natural order puts *o sono* before the dative; the colon still ends on a paroxytone.",
+    "126:4": "*sagítta → seta* (row); *potens → o poderoso*, the row Ps 119:4 set up for this verse (*Setas agudas do poderoso*): God or a warrior left open. *in manu → na mão*. v2: the copula *são* supplied (the stylist: without it the colon sounds a fragment; D2 allows a copula). Colon now +5 on the Latin's 9. *setas* was listed unknown by the ambiguity reader: the *sagítta* row keeps it (14 verses). The ambiguity reader heard *o poderoso* as a warrior — the row leaves it open.",
+    "126:5": "*Beátus vir → Bem-aventurado o homem* (D19). *confúndi → ser envergonhado* (D15); singular as the Latin (the Greek is plural). *loqui* + dative → *falar aos*; *in porta → à porta* (68:13: the city gate, where *na porta* is heard as 'in the doorway'). The second colon is a Vespers antiphon ([Daya3 Vespera], DO Psalmi major) *Non confundétur * cum loquétur inimícis suis in porta* and reads alone: *Não será envergonhado * quando falar aos seus inimigos à porta*. The ambiguity reader heard *à porta* as the door of the house: kept, the Latin's singular (68:13); *às portas* (72:28b, for *in portis*) would change the number. The stylist asked *confundido*: refused, D15 (settled)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps126.md (Latin, LXX, WLC, Douay-Rheims, Matos Soares 1932, DM1962). DO's Portuguese not used (D12). Liturgical uses by grep of DO Latin: 126 is the fourth psalm of Vespers of Our Lady (antiphons ;;126 at 07-02, 08-15t, 09-08, 10-11, 12-08, 02-11 and others, none cut from the psalm); two psalter antiphons from it in DO's Psalmi major — *Dóminus ædíficet * nobis domum, et custódiat civitátem* ([Day2 Vespera]; a paraphrase, not the psalm's wording) and *Non confundétur * cum loquétur inimícis suis in porta* ([Daya3 Vespera]). Brazilian circulation fetched, not asserted: the CNBB Liturgia das Horas text (Hebrew-based: *construir … construtores*, *sentinelas*, *flechas*, *aljava*, *junto às portas da cidade*) is saved in consult/web-lh-salmo-126-127.html and quoted in ps126/circulation.md. Hard readings: 126:4 *excussórum*; 126:2a *súrgite postquam sedéritis*; 126:2b the verbless apposition *heréditas Dómini fílii: merces, fructus ventris*; 126:5 *implévit desidérium … ex ipsis*."
+    },
+    {
+      "step": "checks",
+      "note": "v1: hard pass (ids and marks). Soft flags accepted (the counter does not elide): 126:2b first colon +4 (*ele* names the hidden subject, D2; *Quando der* alone could be heard as 'when I give') and second +4 (the Latin's four nouns and two articles Portuguese needs); 126:4 second colon +4 (the clause for *excussórum*, see the decision); 126:5 second colon +5 (*aos seus inimigos à porta* — every word is the Latin's; with elision nearer +3). 126:2a both cola end oxytone (*luz*, *dor*): allowed (stress on the last syllable). No rhyme flags."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. One minor (126:5 *ex ipsis*), taken in substance with another order. Passed *panem dolóris*, *fílii excussórum*, *merces* as apposition, the perfects.",
+      "outcomes": [
+        {
+          "verse": "126:5",
+          "remark": "'ex ipsis' is source, not instrument; fix 'que encheu o seu desejo deles'",
+          "outcome": "taken",
+          "decision": "implevit",
+          "reason": "Taken as *encheu deles o seu desejo*: *encher de* keeps the source; his exact order is heard as 'their desire' and stays an option."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. 7 remarks; 3 taken (all grammar), 3 refused and kept as options, 1 refused by a settled ruling. Best 126:1b, worst 126:5.",
+      "outcomes": [
+        {
+          "verse": "126:2a",
+          "remark": "'depois de vos terdes sentado' heavy → 'depois de vos sentardes'",
+          "outcome": "taken",
+          "decision": "sederitis"
+        },
+        {
+          "verse": "126:2a",
+          "remark": "reflexive missing in 'levantar' → 'levantar-vos'",
+          "outcome": "taken",
+          "decision": "vanum"
+        },
+        {
+          "verse": "126:2b",
+          "remark": "punctuation → 'eis a herança do Senhor: os filhos; a recompensa: o fruto do ventre'",
+          "outcome": "option",
+          "decision": "hereditas",
+          "reason": "The draft's punctuation is the Latin's; the ambiguity reader heard the pairs rightly; the Latin leaves the grouping open."
+        },
+        {
+          "verse": "126:4",
+          "remark": "supply copula 'assim são'",
+          "outcome": "taken",
+          "reason": "A copula is grammar (D2)."
+        },
+        {
+          "verse": "126:5",
+          "remark": "'encher o desejo com' unidiomatic → 'que com eles saciou o seu desejo'",
+          "outcome": "option",
+          "decision": "implevit",
+          "reason": "*saciar* is satiáre's; 102:5 already has *enche … o teu desejo*; the filling is the Latin's image. The weak pronoun at the mediant is removed by the Latinist's fix (*deles* before the object)."
+        },
+        {
+          "verse": "126:5",
+          "remark": "'ser envergonhado' stiff → 'confundido'",
+          "outcome": "refused",
+          "reason": "D15 (settled): *confundido* is heard as 'confused'."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. 15 readings; unknown words *sacudidos*, *setas*, *vão*. Heard rightly: *levantar* as getting up, *o pão da dor*, the Lord's beloved, *herança* and the appositions, *o poderoso* as a warrior (open, as the row), the man as subject of 126:5. Nothing changed on its account alone: *sacudidos* is the Latin's crux kept open (decision `excussorum`); *setas* the row's word; *à porta* heard as the house door, kept (the Latin's singular, 68:13); *Quando ele der* heard hanging either way — the Latin's own openness; *trabalharam* heard as a general statement, the sense the ruling wanted.",
+      "outcomes": [
+        {
+          "verse": "126:4",
+          "remark": "'sacudidos' unknown; whose children unclear",
+          "outcome": "refused",
+          "decision": "excussorum",
+          "reason": "The Latin's image, itself obscure; options keep *expulsos* and MS1932's *oprimidos*."
+        },
+        {
+          "verse": "126:5",
+          "remark": "'à porta' heard as the door of the house",
+          "outcome": "refused",
+          "reason": "The Latin's singular; 68:13 *à porta*; *da cidade* would explain."
+        },
+        {
+          "verse": "126:5",
+          "remark": "'encheu o desejo' an odd image",
+          "outcome": "taken",
+          "decision": "implevit",
+          "reason": "Order changed (*encheu deles o seu desejo*); verb kept."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 126:2a *levantar-vos* and *depois de vos sentardes* (stylist); 126:4 *assim são* (stylist); 126:5 *que encheu deles o seu desejo* (Latinist's source, the stylist's weak mediant). Checks: hard pass; soft +4/+5 flags on 2b, 4, 5 accepted as in v1 (126:4 now +5 with the copula)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. Gate clean: no remark. Passed the tenses, *qui custódit* singular, *fílii excussórum* kept, the supplied *ele* (2b) and *são* (4).",
+      "outcomes": []
+    }
+  ]
+}

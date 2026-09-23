@@ -1,0 +1,26 @@
+{
+  "append": [
+    {"row": "| impugnáre |", "text": "Ps 128:1–2 *Sæpe expugnavérunt me* → *Muitas vezes me combateram* (twice, identical; = 108:3 *me combateram*); the Diurnal and CNBB *perseguiram* (Hebrew) the refused option."},
+    {"row": "| étenim / nam et / enim |", "text": "**Ps 128:2 *étenim non potuérunt mihi* → *mas não puderam comigo*** — a local departure, as the row's 64:14 note foresaw: καὶ γάρ for the Hebrew 'and yet', and *pois* would be heard as 'because'; DRB and MS1932 both 'but'. The v2 gate called it within idiom. *pois* and *e* options."},
+    {"row": "| dare dorsum (inimícos … dorsum) |", "text": "Ps 128:3 the literal back, *supra dorsum meum* → *Sobre as minhas costas*; MS1932 and the CNBB *o meu dorso* the option."},
+    {"row": "| fabricári |", "text": "**Ps 128:3 *fabricavérunt* without an object → *forjaram*** (v2; the stylist's): *formar* needs an object; v1 *trabalharam* (MS1932) was found generic by all three readers; the Latinist's cognate *fabricaram* refused (no object, factories). *forjar* keeps both craft and contriving."},
+    {"row": "| fænum |", "text": "Ps 128:6 *fænum tectórum* → *a erva dos telhados* — grass growing, to be pulled up, so *erva* by the split; MS1932, DM1962 and the CNBB (fetched) have the same words."},
+    {"row": "| sinus (the hand in the bosom) |", "text": "**Ps 128:7 *sinum suum* (the garment's fold that carries sheaves) → *o regaço*** — a local departure (v2, the stylist): the stylist and the ambiguity reader both heard *seio* as the breast. Where the hand is in the bosom (34:13b, 73:11) *seio* still serves."},
+    {"row": "| retrórsum (*Avertántur / Convertántur retrórsum*) |", "text": "Ps 128:5 (DO 128:4b) *confundántur et convertántur retrórsum* → *sejam envergonhados e voltem para trás*, as the row foresaw (the Latin's order: *confundántur* first); heard as retreat."},
+    {"row": "| benedícere (men → men), *Benedíximus vobis* |", "text": "**Ps 128:8b *benedíximus vobis in nómine Dómini* → *nós vos bendissemos em nome do Senhor*** (117:26b's words, rule 6). The ambiguity reader did not know *bendissemos* and heard a present; the CNBB (fetched) has *vos bendizemos* — the option. No *mas* supplied: who speaks the colon stays open."},
+    {"row": "| *in nómine Dómini* |", "text": "Ps 128:8b → *em nome do Senhor* (with *bendizer*, as 117:26a)."},
+    {"row": "| evéllere |", "text": "Ps 128:6 *priúsquam evellátur* → *antes de ser arrancada* (the grass)."},
+    {"row": "| semináre / métere / manípulus |", "text": "Ps 128:7 *qui metit … qui manípulos cólligit* → *quem ceifa … quem recolhe os feixes* (v2, the stylist: *o que ceifa* wavered between 'what' and 'who')."},
+    {"row": "| *Dicat nunc Israël quóniam bonus: quóniam…* (117:2–4; *dicat nunc Israël* also 123:1, 128:1 → *diga agora Israel*) |", "text": "Ps 128:1 applied (*diga agora Israel*, after what is to be said, which 128:2 repeats); MS1932 *diga-o* option."}
+  ],
+  "terms": [
+    "| sæpe | muitas vezes | working | Ps 128:1–2 (= 105:42 *muitas vezes os livrou*). |",
+    "| concídere (cut) | cortar (*O Senhor, que é justo, cortou os pescoços dos pecadores*) | open | Ps 128:4 (συνέκοψεν; L&S 'cut to pieces'); the form is present and perfect at once, the Greek's aorist decides for *cortou* (*corta* option). |",
+    "| cervix | pescoço (*os pescoços dos pecadores*) | open | Ps 128:4, the plain word (DRB 'necks'); *cerviz* (MS1932, 'dura cerviz') the option; the ambiguity reader heard beheading first — the Latin's image is as violent. |",
+    "| prolongáre | prolongar (*prolongaram a sua iniquidade*) | working | Ps 128:3; 119:5 *se prolongou*. |",
+    "| præteríre (passers-by) | *os que passavam* | working | Ps 128:8 *qui præteríbant* (imperfect; MS1932). |"
+  ],
+  "formulas": [
+    "| *Sæpe expugnavérunt me a juventúte mea* (128:1–2; the Vespers antiphon *Sæpe * expugnavérunt me a juventúte mea*, Psalmi major Daya3 / Monastic feria 2; the Tract of Passion Sunday, Quad5-0, 128:1–4 — grep) | *Muitas vezes me combateram desde a minha juventude* | open — Ps 128; reads alone |"
+  ]
+}

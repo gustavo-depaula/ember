@@ -1,0 +1,171 @@
+{
+  "psalm": 128,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "128:1": "Muitas vezes me {expugnaverunt} desde a minha juventude, * {dicat}.",
+    "128:2": "Muitas vezes me {expugnaverunt} desde a minha juventude: * {etenim} não puderam comigo.",
+    "128:3": "Sobre {dorsum} {fabricaverunt} os pecadores: * prolongaram a sua iniquidade.",
+    "128:4": "{justus} {concidit} {cervices} dos pecadores: * sejam envergonhados e voltem para trás todos os que odeiam Sião.",
+    "128:6": "Sejam como {fenum} dos telhados: * que, antes de ser {evellatur}, secou:",
+    "128:7": "{dequo} não encheu a sua mão o que ceifa, * nem {sinum} o que recolhe os feixes.",
+    "128:8": "E não disseram os que passavam: A bênção do Senhor {supervos}: * {benediximus} em nome do Senhor."
+  },
+  "decisions": [
+    {
+      "id": "expugnaverunt",
+      "refs": ["128:1", "128:2"],
+      "latin": "expugnavérunt me",
+      "kind": "glossary",
+      "why": "The same Latin twice, so one wording twice (rule 6). expugnáre / impugnáre are one family (34:1 'expúgna impugnántes me' → 'combatei os que me combatem'), and 108:3 'expugnavérunt me gratis' already reads 'me combateram sem motivo'. The Greek is ἐπολέμησάν, to make war on: 'combater' keeps the war. The Diurnal and the CNBB have 'perseguiram', from the Hebrew (צְרָרוּנִי, 'they distressed me').",
+      "options": [
+        {"label": "combateram", "forms": {"expugnaverunt": "combateram"}, "note": "Draft. The glossary's verb for this family (34:1, 108:3); the war of the Greek.", "from": "glossary"},
+        {"label": "atacaram", "forms": {"expugnaverunt": "atacaram"}, "note": "Matos Soares 1932. Plain, but breaks the one verb 34:1 and 108:3 already have.", "from": "MS1932"},
+        {"label": "perseguiram", "forms": {"expugnaverunt": "perseguiram"}, "note": "The Diurnal Monástico 1962 and the CNBB Liturgia das Horas ('Quanto eu fui perseguido desde jovem', fetched): the Hebrew's sense, not the Latin's. Refused under rule 1.", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "dicat",
+      "refs": ["128:1"],
+      "latin": "dicat nunc Israël",
+      "kind": "glossary",
+      "why": "A formula: 117:2 'Diga agora Israel' and 123:1 (in parallel, same words). Here it follows what Israel is to say, and 128:2 then repeats it — the Passion Sunday Tract (Quad5-0) even sings 'Dicat nunc Israël: sæpe expugnavérunt me…', so the repetition is what Israel says. The bare formula lets the line point both ways, back to 128:1 and forward to 128:2, as the Latin does.",
+      "options": [
+        {"label": "diga agora Israel", "forms": {"dicat": "diga agora Israel"}, "note": "Draft. The glossary formula (117:2, 123:1); no object supplied.", "from": "glossary"},
+        {"label": "diga-o agora Israel", "forms": {"dicat": "diga-o agora Israel"}, "note": "Matos Soares 1932. The 'o' ties the saying back to 128:1 only, and breaks the formula.", "from": "MS1932"},
+        {"label": "Israel que o diga", "forms": {"dicat": "Israel que o diga"}, "note": "The Diurnal Monástico 1962's idiom. Lively, but 'que o diga' is colloquial ('just ask Israel'), and 'nunc' is lost.", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "etenim",
+      "refs": ["128:2"],
+      "latin": "étenim non potuérunt mihi",
+      "kind": "word",
+      "why": "The glossary's 'étenim → pois' (working) explains. Here nothing is explained: καὶ γάρ stands for the Hebrew גַּם, 'and yet', and after 'they fought me often' 'pois' would be heard as 'because' — 'they fought me often, because they could not overcome me'. The glossary row itself warns (64:14) to watch 'pois' where 'étenim' follows a verb it does not explain. Both Vulgate-family witnesses read it as 'but' (Douay-Rheims 'but they could not prevail over me', Matos Soares 1932 'mas não prevaleceram contra mim').",
+      "options": [
+        {"label": "mas", "forms": {"etenim": "mas"}, "note": "Draft. What DRB and MS1932 hear in this 'étenim'. Cost: a local departure from the glossary row.", "from": "draft"},
+        {"label": "pois", "forms": {"etenim": "pois"}, "note": "The glossary's word. Heard as 'because'.", "from": "glossary"},
+        {"label": "e", "forms": {"etenim": "e"}, "note": "The 'et' kept and the 'enim' dropped: adds no adversative, but loses the particle's weight.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "dorsum",
+      "refs": ["128:3"],
+      "latin": "supra dorsum meum",
+      "kind": "word",
+      "why": "The literal back. 'costas' is the psalter's word so far (17:41, 20:13, the glossary row 'dare dorsum', which lists 128:3 as the literal back). 'dorso' is Matos Soares's and the CNBB's word here ('Aravam lavradores o meu dorso', fetched), and it is known to Brazilian ears in this psalm; but in current speech it is an animal's back or the back of a hand or a book.",
+      "options": [
+        {"label": "as minhas costas", "forms": {"dorsum": "as minhas costas"}, "note": "Draft. The plain word for a man's back, and the psalter's word for dorsum (17:41, 20:13). St Bernard read the verse of the scourging (V6.txt), and it is a man's back.", "from": "glossary"},
+        {"label": "o meu dorso", "forms": {"dorsum": "o meu dorso"}, "note": "Matos Soares 1932 and the CNBB Liturgia das Horas — the wording Brazilians know from this psalm.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "fabricaverunt",
+      "refs": ["128:3"],
+      "latin": "fabricavérunt peccatóres",
+      "kind": "word",
+      "why": "fabricári without an object: the craftsman's verb (L&S 'to make out of wood, stone, metal… frame, forge'; the Greek ἐτέκταινον, the carpenter's or smith's work). The Hebrew has ploughers ploughing (the Diurnal and the CNBB). The glossary's 'fabricári → formar' (73:16) needs an object and cannot stand here. 'Trabalhar' is the one verb that takes no object and keeps the sense of labour done on the back, without saying what the work was — which the Latin does not say either (Augustine's anvil is an interpretation).",
+      "options": [
+        {"label": "trabalharam", "forms": {"fabricaverunt": "trabalharam"}, "note": "Draft. Matos Soares 1932 ('trabalharam os pecadores'); DRB 'wrought'. The plainer word; the smith or carpenter is not named.", "from": "MS1932"},
+        {"label": "forjaram", "forms": {"fabricaverunt": "forjaram"}, "note": "The smith's image of the Greek and of Augustine's reading (the back as an anvil). Without an object 'forjaram' is incomplete in Portuguese, and it interprets.", "from": "draft"},
+        {"label": "fabricaram", "forms": {"fabricaverunt": "fabricaram"}, "note": "The cognate. The 73:16 stylist heard factories in it; and without an object it is not Portuguese.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "justus",
+      "refs": ["128:4"],
+      "latin": "Dóminus justus",
+      "kind": "grammar",
+      "why": "'justus' stands beside 'Dóminus' as an attribute. The Hebrew reads a predicate ('The Lord is just'), which the CNBB and the Diurnal follow; the Latin does not. Two ways to say the attribute.",
+      "options": [
+        {"label": "O Senhor justo", "forms": {"justus": "O Senhor justo"}, "note": "Draft. Word for word; a verb follows at once, so 'O' is heard as the article, not 'Ó'.", "from": "draft"},
+        {"label": "O Senhor, que é justo,", "forms": {"justus": "O Senhor, que é justo,"}, "note": "Matos Soares 1932 and DRB ('The Lord who is just'); the relative supplies a copula (rule 2). Three syllables more in an already full colon.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "concidit",
+      "refs": ["128:4"],
+      "latin": "concídit",
+      "kind": "ambiguity",
+      "why": "concīdo (from caedo): 'to cut up, cut to pieces' (L&S). The form concīdit is present and perfect at once. The Greek συνέκοψεν is an aorist, so the perfect; DRB 'will cut' follows another reading. The Tract of Passion Sunday sings it after 'Prolongavérunt iniquitátes suas', where a past reads as God's answer already given.",
+      "options": [
+        {"label": "cortou", "forms": {"concidit": "cortou"}, "note": "Draft. The perfect, with the Greek; Matos Soares 1932 'cortou'.", "from": "draft"},
+        {"label": "corta", "forms": {"concidit": "corta"}, "note": "The present, which the Latin form also allows.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "cervices",
+      "refs": ["128:4"],
+      "latin": "cervíces peccatórum",
+      "kind": "word",
+      "why": "cervix is the ordinary Latin word for the neck (the nape). 'Cerviz' survives in Brazilian church speech mostly in 'povo de dura cerviz' — the stiff neck of pride, which is the image here too — but its plural 'cervizes' is rarely heard. 'Pescoços' is the plain word and keeps the image concrete (rule 5).",
+      "options": [
+        {"label": "os pescoços", "forms": {"cervices": "os pescoços"}, "note": "Draft. The plainer of two faithful words (rule 2); DRB 'the necks'.", "from": "draft"},
+        {"label": "as cervizes", "forms": {"cervices": "as cervizes"}, "note": "Matos Soares 1932. The biblical word, with the echo of 'dura cerviz'; the plural may be unknown to some ears.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "fenum",
+      "refs": ["128:6", "128:7"],
+      "latin": "fænum tectórum … quod priúsquam evellátur … De quo",
+      "kind": "glossary",
+      "why": "The glossary splits fænum by what the verse does: 'feno' where it is dry (36:2, 101:5, 101:12), 'erva' where it grows (71:16, 91:8, 102:14). Here it is grass growing on the roofs, to be pulled up, which withers first: living grass, so 'erva'. It is also the wording Brazilians know: Matos Soares 1932, the Diurnal and the CNBB all have 'a erva dos telhados' (CNBB fetched). The noun's gender carries into 'arrancada' and 'Da qual'.",
+      "options": [
+        {"label": "a erva", "forms": {"fenum": "a erva", "evellatur": "arrancada", "dequo": "Da qual"}, "note": "Draft. The glossary's split; MS1932, DM1962, CNBB.", "from": "glossary"},
+        {"label": "o feno", "forms": {"fenum": "o feno", "evellatur": "arrancado", "dequo": "Do qual"}, "note": "The word at 36:2 and 101:12, where it dries. But hay does not grow on roofs, nor is it pulled up.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "sinum",
+      "refs": ["128:7"],
+      "latin": "sinum suum",
+      "kind": "word",
+      "why": "sinus is the fold of the garment at the chest, in which a gatherer carries what he gathers. The glossary has 'seio' (open; 34:13b, 73:11), and the Latin's image is kept. 'Regaço' is the fold of a garment used as a carrier, but in Brazil it is heard first as a lap. Matos Soares's 'braços' is a paraphrase (he marks the verb as his own).",
+      "options": [
+        {"label": "seio", "forms": {"sinum": "o seu seio"}, "note": "Draft. The glossary's word; DRB 'bosom'. It may sound odd on a reaper; the Latin is as concrete.", "from": "glossary"},
+        {"label": "regaço", "forms": {"sinum": "o seu regaço"}, "note": "The garment's fold used to carry things; heard first as a lap.", "from": "draft"},
+        {"label": "os seus braços", "forms": {"sinum": "os seus braços"}, "note": "Matos Soares 1932; a paraphrase. Refused: it changes the image (rule 2).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "supervos",
+      "refs": ["128:8"],
+      "latin": "Benedíctio Dómini super vos",
+      "kind": "grammar",
+      "why": "The harvest greeting the passers-by did not give has no verb in the Latin (nor in the Greek). A verbless greeting is sayable in Portuguese and leaves open, as the Latin does, whether it is a wish or a statement. Matos Soares and DRB supply 'seja' / 'be'.",
+      "options": [
+        {"label": "sobre vós", "forms": {"supervos": "sobre vós"}, "note": "Draft. No verb, as the Latin; the colon ends on an oxytone.", "from": "draft"},
+        {"label": "esteja sobre vós", "forms": {"supervos": "esteja sobre vós"}, "note": "A copula supplied as a wish (rule 2 allows it); +2 syllables.", "from": "draft"},
+        {"label": "seja sobre vós", "forms": {"supervos": "seja sobre vós"}, "note": "Matos Soares 1932.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "benediximus",
+      "refs": ["128:8"],
+      "latin": "benedíximus vobis in nómine Dómini",
+      "kind": "glossary",
+      "why": "Two things. (1) The wording: 117:26b 'Benedíximus vobis de domo Dómini' is already 'Nós vos bendissemos da casa do Senhor' (glossary row 'benedícere (men → men)', open), and identical Latin gets identical Portuguese (rule 6); 'in nómine Dómini' → 'em nome do Senhor' (the row, 117:26a). The CNBB says 'Em nome do Senhor vos bendizemos' (present, fetched); MS1932 'nós vos abençoamos'. The Greek perfect εὐλογήκαμεν can carry a present sense; the Latin form is a perfect. (2) Who speaks: the Latin leaves open whether this colon is still the greeting the passers-by did not give (the reapers' answer, as in Ruth 2:4), or the psalmist's own blessing. No 'but' is supplied, so both readings stay; the Diurnal's 'Mas nós vos abençoamos' closes it.",
+      "options": [
+        {"label": "nós vos bendissemos", "forms": {"benediximus": "nós vos bendissemos"}, "note": "Draft. 117:26b's words (rule 6); the Latin's perfect; the one verb of 'Benedíctio … benedíximus' kept in one root.", "from": "glossary"},
+        {"label": "nós vos bendizemos", "forms": {"benediximus": "nós vos bendizemos"}, "note": "The present of the CNBB Liturgia das Horas (the line Brazilians know) and the Greek perfect's present force; would split from 117:26b.", "from": "draft"},
+        {"label": "nós vos abençoamos", "forms": {"benediximus": "nós vos abençoamos"}, "note": "Matos Soares 1932; the familiar verb, but the benedícere rows keep 'bendizer'.", "from": "MS1932"},
+        {"label": "mas nós vos bendizemos", "forms": {"benediximus": "mas nós vos bendizemos"}, "note": "The Diurnal Monástico 1962's reading: the psalmist blesses where the passers-by did not. Refused: it closes an ambiguity the Latin leaves open.", "from": "DM1962"}
+      ]
+    }
+  ],
+  "choices": {
+    "128:1": "Per D7 the titulus 'Canticum graduum' is not reproduced (Matos Soares prints 'Cântico gradual'). 'juventus → juventude' as in 42:4 and 24:7 (MS1932 'mocidade'; the CNBB 'desde jovem'). 'sæpe → muitas vezes' as in 105:42. The first colon is sung alone as a Vespers antiphon (Psalmi major, Daya3 Vespera and Monastic Vespera feria 2) and reads alone.",
+    "128:2": "Identical to 128:1's first colon, word for word, as the Latin repeats. 'non potuérunt mihi' (οὐκ ἠδυνήθησάν μοι) → 'não puderam comigo': the Portuguese idiom 'poder com alguém' is exactly 'to prevail over', and keeps the Latin's bare verb with a pronoun; MS1932's 'prevaleceram contra mim' supplies a stronger verb.",
+    "128:3": "'prolongáre → prolongar', as 119:5 'se prolongou' (MS1932 'prolongaram a sua iniquidade'). The Passion Sunday Tract has the plural 'iniquitátes suas'; the psalm's singular is followed. 'os pecadores' after the verb, as in the Latin, puts a paroxytone at the mediant.",
+    "128:4": "The second colon is DO's verse 5 run in ('(5)' not reproduced). 'confundántur … convertántur retrórsum' → 'sejam envergonhados e voltem para trás': D15's 'confúndi → ser envergonhado' and the glossary row 'retrórsum', which names 128:5 as a place to copy 34:4b ('Voltem para trás, e sejam envergonhados'); here the Latin's order is confundántur first, so the Portuguese follows it. 'odérunt' → present 'odeiam' (the odísse row: a perfect of a state). 'Sion → Sião'. The colon is long (≈22 syllables against the Latin's 20), as the Latin is.",
+    "128:6": "'Fiant sicut' → 'Sejam como' (MS1932, CNBB 'Sejam eles como'). 'exáruit' → 'secou' (arescere → secar, as 36:2, 101:12), kept a perfect and kept at the end of the colon where the Latin puts it. The verse ends in a colon, as the Latin, because 128:7 continues the sentence.",
+    "128:7": "The Latin order kept in both colons (verb and object first, the reaper last), so that the two colons run in parallel: 'não encheu a sua mão o que ceifa, * nem o seu seio o que recolhe os feixes'. 'qui metit … qui manípulos cólligit' as relative clauses, not agent nouns, to keep the parallel. 'métere → ceifar' and 'manípulus → feixe' as 125:5–6b (in parallel). 'et' after a negative → 'nem'.",
+    "128:8": "'qui præteríbant' → 'os que passavam' (imperfect; MS1932). The greeting is not set in quotation marks; a capital after the colon marks it, as elsewhere in this psalter (4:6). The addressees of 'vós' are the reapers of 128:7 (plural humans, vós)."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from the parallels (Latin, LXX, Hebrew, DRB, MS1932, DM1962) and the glossary. Liturgical use checked by grep (the Tract of Passion Sunday, the Vespers antiphon, St Bernard's reading of 128:3) and the CNBB wording fetched; see circulation.md. Hard readings: 'étenim' (not causal here), 'fabricavérunt' without an object, 'concídit' present or perfect, 'fænum' living grass, and who speaks in 128:8b."},
+    {"step": "checks", "note": "Hard checks pass. One soft flag, twice: 128:1 and 128:2 first colon +4 syllables (19 against 15). Accepted: 'sæpe' (2) can only be 'muitas vezes' (4), and 'desde a minha juventude' is the Latin's words; dropping 'minha' or taking the CNBB's 'desde jovem' would change the text for the count. The antiphon use (the first colon alone) is not harmed by the length."}
+  ]
+}
