@@ -1,0 +1,190 @@
+=== ^ *stare
+89: | stare | estar de pé | open | Ps 133:1b (= 134:2); 121:2 *Stantes erant pedes nostri*; pt-PT flattens to *estar* Ps 17:39 *nec póterunt stare* → *e não poderão estar de pé*; no reader remarked. Ps 23:3 *aut quis stabit in loco sancto ejus?* → *ou quem estará 
+191: | stare (on a road), *non stetit* | deter-se (*não se deteve*) | open | Ps 1:1; MS1932's verb, taken from the stylist against draft 1 *não parou*, which rhymed with *não se sentou* at mediant and final; *estar de pé* (Ps 133:1b) stays for standing in God's hou
+=== in conspectu
+1061: | intróire in conspéctu (78:10b) | *chegar à presença* (*chegue à vossa presença o gemido*) | open | Ps 78:10b only; 118:170 *Intret … in conspéctu tuo → Entre … na vossa presença* stands. Here the subjunctive *entre* followed two prepositional *entre* (78:10)
+1254: | *in conspéctu tuo* (118:168, 169, 170) | *na / da / na vossa presença* | open (hangs on *conspéctus*) — Ps 118: the noun phrase repeats, each verb takes its own preposition |
+1360: | *V. Deus, vitam meam annuntiávi tibi. R. Posuísti lácrimas meas in conspéctu tuo* (55:9; the Wednesday Matins versicle, Psalmi matutinum [Daya3]; Quad5-5; Tract of Quad3-1) | *Deus, eu vos anunciei a minha vida. R. Pusestes as minhas lágrimas à vossa vista* 
+1412: | *Intret orátio mea (*) in conspéctu tuo(, Dómine): inclína aurem tuam ad precem meam* (87:3; Saturday minor-hours antiphon, Psalmi minor; Introit of Quad1-6, with 87:2 *Dómine, Deus salútis meæ: in die clamávi, et nocte coram te*, also its Offertory) · *V. E
+=== placare
+=== ascend
+1050: | ascéndere equos | montar cavalos (*os que montaram cavalos*) | open | Ps 75:7 (οἱ ἐπιβεβηκότες τοὺς ἵππους). The perfect, as the v1 Latinist asked (MS1932 *montavam*); *equos* kept as the object. |
+1351: | *Ascéndit Deus in júbilo: * et Dóminus in voce tubæ* (46:6; the Ascension's versicle, antiphon, Offertory and Alleluia have *in jubilatióne* — horas/missa Pasc5-4, Pasc6-0, Sancti/10-07, Benedictio mensae, grep) | *Subiu Deus entre aclamações: * e o Senhor, 
+=== increpare
+173: | increpáre | repreender | working | Ps 118:21. Since D21 it shares the word with *árguere* (different Greek verbs, never in one verse); a good second word for God’s rebuke at the sea and the nations (*ab increpatióne tua fúgient*) would restore the split **Ps
+=== deducere
+248: | dedúcere, *deduc me* | guiar (*Guiai-me à vereda*) | settled (D22) | Ps 118:35; ὁδηγέω; 5:9, 22:3, 42:3, 60:4, 138:10. The cognate fails rule 3 even with its enclitic: *conduzi-me* is also "I behaved myself" (D13 does not rescue it); MS1932 *Guia-me* **Ps 5:
+490: | dedúcere / redígere ad níhilum | reduzir a nada (*o malvado foi reduzido a nada*) | open | Ps 14:4a (ἐξουδένωται). The same phrase 58:9, 59:14 = 107:14 (*ad níhilum dedúcet* → *reduzirá a nada*), with redígere 72:20, 77:59, 72:21 *ad níhilum redáctus sum* (g
+=== odiens|odisse
+327: | odísse / ódio habére | odiar / ter ódio a, object first (*Aos iníquos tive ódio*) | open | Ps 118:104 *odívi* → *odiei*; 118:113, 128 (163 to come) *ódio hábui*. Draft 7 merged them (one Greek verb, ἐμίσησα); the stylist then faulted the proparoxytone cadenc
+=== tribulare
+236: | tribuláre | atribular (*os que me atribulam*) | working | Ps 3:2; family of *tribulátio* → tribulação; the blind reader listed *atribulam* as unknown Ps 12:5b *Os que me atribulam* — listed as unknown by both blind readings of Ps 12; kept. Ps 22:5 *os que me
+879: | contribuláre (*spíritus contribulátus*) | atribulado (*Sacrifício a Deus é um espírito atribulado*) | settled (D44) | Ps 50:19 (συντετριμμένον); kept apart from *contrítum → contrito* in the next colon; *quebrantado* (quebranto) and *compungido* (compúngere'
+1023: | contribuláre (a thing crushed) | esmagar (*esmagastes as cabeças dos dragões nas águas*) | open | Ps 73:13 (συνέτριψας), beside 73:14 *confregísti → quebrastes*; *atribulado* belongs to 50:19's spirit and cannot crush a head. No reader remarked. |
+=== operire
+=== oblivisci
+159: | oblivísci, *non sum oblítus* | esquecer (direct object), *não esqueci* | working | Ps 118:16, 30; the phrase closes six more verses of the psalm **Ps 49:22 *qui oblivíscimini Deum* → *vós que esqueceis a Deus*** — the direct object, marked with *a* before a 
+455: | oblivísci, *obliviscéris* (12:1) | esquecer (*me esquecereis*) | open | Ps 12:1 — **the future, by the accent**: *obliviscéris* (long ē) against the present 43:24 *oblivísceris* (Greek ἐπιλήσῃ, future). **The Latinist (Ps 12 draft 2, MAJOR) read a present an
+950: | oblivísci + genitive (*nequándo obliviscántur pópuli mei*) | esquecer-se de (*para que não se esqueçam do meu povo*) | open | Ps 58:12: *pópuli mei* read as the genitive object, as the Greek τοῦ λαοῦ μου; DRB and MS1932 make *my people* the subject (option).
+=== magnalia
+1003: | magnália | as grandes coisas (*as grandes coisas que fizestes*) | open | Ps 70:19; μεγαλεῖα; DRB *great things*. Apart from magnitúdo → grandeza and mirabília → maravilhas. 105:21 *qui fecit magnália in Ægýpto* should copy. *grandes obras* option. |
+=== terribil
+794: | terríbilis | terrível (*o Senhor é excelso, terrível*) | settled (D43) | Ps 46:3 (φοβερός); DRB, MS1932. The blind reader heard awe, but said the everyday 'awful' grates; *temível* the option. 65:3, 75:8, 88:8, 95:4, 98:3, 110:9 *sanctum et terríbile nomen e
+1047: | apud (of persons, not *apud te / me*: *terríbili apud reges terræ*) | diante de (*ao terrível diante dos reis da terra*) | open | Ps 75:13 (παρά). The stylist heard MS1932's *para os reis* as 'in the kings' opinion'; *diante* taken in draft 2; *para os*, *ju
+=== disperdere
+117: | dispérdere | exterminar | working | Ps 53:7; about fifteen verses, twin line 142:11b; **not** *dispérgere* (scatter, 58:12); *destruir* fails rule 3 (*destruí-os* = I destroyed them); MS1932, pt-PT Ps 11:4 *Extermine o Senhor todos os lábios enganadores* — t
+=== pro nihilo
+859: | pro níhilo (55:8 *pro níhilo salvos fácies illos*) | por nada | settled (D44) | Ps 55:8 (ὑπὲρ τοῦ μηθενὸς); DRB 'for nothing'. The blind reader heard it split between 'in no way' and 'freely' — the Latin's openness; MS1932 *de nenhum modo* decides (option). 
+=== desiderabil
+567: | desiderabílis + super | mais desejável que (*Mais desejáveis que o ouro e que muitas pedras preciosas*) | open | Ps 18:11 — *super* with the positive is the comparative, as the next colon's *dulcióra super* → *mais doces que*; the Latin's verbless line kept.
+=== murmur
+=== tabernacul
+77: | tabernáculum | tenda | open | Ps 90:10; the same word must serve God's tent (14:1, 30:21, 60:5) **Ps 14:1 *Dómine, quis habitábit in tabernáculo tuo?* → *Senhor, quem habitará na vossa tenda?*** — God's tent, as this row foresaw; passed the Latinist twice; t
+1371: | *Factus es spes mea, Dómine: turris fortitúdinis a fácie inimíci. V. Inhabitábo in tabernáculo tuo in sǽcula: prótegar in velaménto alárum tuárum. V. Quóniam tu, Deus, exaudísti oratiónem meam: dedísti hereditátem timéntibus nomen tuum* (60:4–6; the Tract of
+1405: | *Quam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini* (83:2; Gradual/responsory — missa Pent05-0, Epi1-0, horas Commune C8, grep) · *Beáti qui hábitant in domo tua, Dómine. R. In sǽcula sæculórum laudábunt te* (83
+=== prosternere
+=== deicere
+724: | deícere | abater (*Para abater o pobre e o indigente*) | open | Ps 36:14b (καταβαλεῖν); *derrubar* is supplantáre's (17:40, 36:31). |
+=== semen
+517: | semen (offspring) | descendência (*e com a sua descendência para sempre*) | settled (D32) | Ps 17:51; 16 other lines (grep: 20:11, 21:24, 21:25, 21:31, 24:13, 36:25, 36:26, 36:28, 68:37, 88:4, 88:30, 88:36, 101:29, 104:6, 105:27, 111:2) — *semen Ábraham* (10
+1416: | *Misericórdias Dómini in ætérnum cantábo: in generatiónem et generatiónem annuntiábo veritátem tuam in ore meo* (88:2–2b; missa Sancti 07-01 and others — grep) · *Invéni David servum meum: óleo sancto meo unxi eum. Manus enim mea auxiliábitur ei … Nihil prof
+=== dispergere
+590: | dispérgere (things, bones) | dispersar, passive (*e foram dispersos todos os meus ossos*) | open | Ps 21:15; one family with 88:11 *dispersísti* (see *dissipáre*, whose people-places took *dispersar*). MS1932 *se desconjuntaram* explains. No reader remarked 
+=== regio
+=== adinvent
+653: | adinvéntio | invenções (*segundo a maldade das suas invenções*) | open | Ps 27:4; six lines (27:4, 76:13 God's *in adinventiónibus tuis*, 80:13, 98:8, 105:29, 105:39) — must serve God's works too, so not *maquinações*; the blind reader heard schemes (the sen
+=== reputare|imputare
+693: | imputáre | atribuir (*a quem o Senhor não atribuiu pecado*) | open | Ps 31:2, only place in the psalter (grep); λογίζομαι. Draft 1 *imputou* (MS1932): the stylist heard it juridical, the blind reader did not know it; *atribuir* the plainer of two faithful wo
+=== contradict
+513: | contradíctio | contenda (*das contendas do povo*) | open | Ps 17:44 (ἀντιλογία). **The blind reader heard *as contradições do povo* first as the people's inconsistencies.** 30:21 *a contradictióne linguárum*, 54:10; 80:8, 105:32 *aqua contradictiónis* is a p
+=== vexare
+1141: | vexáre | maltratar | open | Ps 93:5 *e maltrataram a vossa herança* (κακόω); also 105:32, 106:39. The cognate *vexar* means to shame in pt-BR (false friend); *afligir* belongs to afflígere. |
+=== commisc
+=== discere
+158: | docére / díscere | ensinar / aprender | working | Ps 118:7, 12, 26; *ensinai* is safe at the *vós* imperative Ps 17:35 *Qui docet manus meas ad prǽlium* → *Que ensina as minhas mãos para a batalha*, echoed by 17:36b *docébit* → *me ensinará*; the stylist ask
+=== immolare
+870: | immoláre | imolar | settled (D44) | Ps 49:14 (*Imola a Deus um sacrifício de louvor*); keeps the sacrificial verb after the refused bulls and goats. Unknown to the blind reader; kept. MS1932 *Oferece* option. 26:6, 105:37 (grep). |
+=== daemon
+=== innocens
+606: | innocens | inocente (*Aquele que tem mãos inocentes e coração puro*) | open | Ps 23:4 *Ínnocens mánibus et mundo corde* — draft 1 *O inocente de mãos e puro de coração* (the Latin's adjectives; DRB, MS1932) was the stylist's worst line («calcado no latim»); 
+=== sanguin
+286: | vir sánguinum | homem de sangue | open | Ps 5:7b (DM1962's words); the Hebraism kept concrete, the plural lost (as in DRB); 25:9, 54:24 *Viri sánguinum, et dolósi* (→ *Os homens de sangue e enganadores*), 138:19; MS1932 *sanguinário* everywhere **Ps 15:4b *c
+521: | sanguínes (plural: *vir sánguinum*, *de sanguínibus*) | *sangue* (singular) | settled (D29) | Ps 5:7b, 15:4b (*ajuntamentos de sangue*), 25:9, 50:16 *Líbera me de sanguínibus*, 54:24, 138:19. The Latinist (MAJOR, held twice in Ps 15) wants the plural *sangue
+1298: | *Ne perdas cum ímpiis, Deus, ánimam meam. R. Et cum viris sánguinum vitam meam* (25:9; the Passiontide versicle, Minor Special.txt, Psalmi matutinum.txt) | *Deus, não façais perecer com os ímpios a minha alma. R. Nem com os homens de sangue a minha vida.* | 
+1403: | *Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, libera nos: et propítius esto peccátis nostris, prop
+=== irasci
+216: | irásci | irar-se | working | Ps 4:5, Ps 2:12 **Ps 79:5 *quoúsque irascéris super oratiónem* → *até quando estareis irado contra a oração*** — the future as copula + participle (the stylist: *vos irareis* is a knot of r's); *super* → *contra* as 73:1. Passed 
+=== furor
+215: | ira / furor | ira / furor | working | Ps 2:5, 2:12–13 |
+318: | *a furóre* (6:8) | pelo furor | open | the Latin names no owner; with the article it may point back to 6:2 *no vosso furor*. The blind reader heard the speaker's own rage first, the Lord's second, the enemies' third |
+1234: | *Dómine, ne in furóre tuo árguas me, * neque in ira tua corrípias me* (6:2 = 37:2, word for word) | *Senhor, não me repreendais no vosso furor, * nem me castigueis na vossa ira* | settled (D21); was: open (hangs on *árguere*, *corrípere*) — Ps 6; **Ps 37 cop
+=== hereditas
+221: | heréditas / posséssio | herança / posse | working | Ps 2:8 **Ps 32:12 *quem elégit in hereditátem sibi* → *que ele escolheu como sua herança*** (draft 2): draft 1's *para sua herança* (MS1932) was heard by the blind reader as 'chosen to receive an inheritanc
+=== tradere
+140: | castigáre / trádere | castigar / entregar | working | Ps 117:18 |
+=== humiliare
+256: | humílitas / humiliáre | humilhação / humilhar | open | Ps 118:50, 67, 71, 75 (also 92, 107, 153; 9:14, 24:18 *vide humilitátem meam*); one family, as the psalm sets them together; *humildade* is heard as the virtue (but is the Magnificat's traditional word —
+=== liberare
+66: | liberáre | livrar | working | Ps 90:3, 90:14 Ps 96:10 *de manu peccatóris liberábit eos* → *da mão do pecador os livrará* (the Latin's order, no *e*; MS1932 *livrá-los-á* an option). |
+=== saepe
+=== testament
+615: | testaméntum | aliança (*a sua aliança e os seus testemunhos*) | open | Ps 24:10, 24:14; διαθήκη, the covenant; 21 lines (grep: 43:18, 49:5, 49:16, 54:21, 73:20, 77:10, 77:37, 82:6, 88:4 …). *testamento* is a will in Brazil. No reader remarked Ps 49:5 *órdina
+866: | ordináre (testaméntum) | firmar (*os que firmam a sua aliança*) | settled (D44) | Ps 49:5 (τοὺς διατιθεμένους τὴν διαθήκην). *firmar uma aliança* is the Portuguese idiom. The Latinist asked *ordenam* on v1 and at the gate (minor): option — heard as 'command'
+1399: | *Réspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et júdica causam tuam, et ne obliviscáris voces quæréntium te* (Introit of Pent13-0, from 73:20, 19, 22, 23 adapted, with verse 73:1 — grep; its Gradua
+=== memor
+311: | memor esse (+ genitive) | lembrar-se de | working | Ps 6:6 *quem se lembre de vós*; as Ps 118:49, 52, 55 Ps 8:5 *para que vos lembreis dele*. Ps 86:4 *Memor ero* → *Eu me lembrarei* (the subject named, proclisis; *Lembrar-me-ei* MS1932 the option). **Ps 102:
+632: | memória (of God, *memóriæ sanctitátis ejus*) | memória (*dai graças à memória da sua santidade*) | open | Ps 29:5; 96:12 *confitémini memóriæ sanctificatiónis ejus* (another noun, grep). μνήμη. MS1932 *celebrai a sua santa memória*. The blind reader understo
+1182: | memoriále | memorial (*e o vosso memorial, de geração em geração*) | open | Ps 101:13; 134:13 has the same colon and should copy it. The ambiguity reader listed *memorial* as unknown but heard 'remembrance'; *memória* option. |
+1248: | *Quid est homo quod memor es ejus? * aut fílius hóminis, quóniam vísitas eum?* (8:5 = Heb 2:6; 143:3 is the near twin: *quid est homo, quia innotuísti ei? aut fílius hóminis, quia réputas eum?*) | *Que é o homem, para que vos lembreis dele? * ou o filho do h
+1296: | *Psállite Dómino, sancti ejus: * et confitémini memóriæ sanctitátis ejus* (29:5 = the Matins versicle; 96:12 *et confitémini memóriæ sanctificatiónis ejus*, a near twin) | *Entoai salmos ao Senhor, vós, seus santos: * e dai graças à memória da sua santidade*
+1398: | *Memor esto congregatiónis tuæ, Dómine, quam possedísti ab inítio* (73:2; Thursday minor-hours antiphon, Psalmi minor) · *V. Meménto Congregatiónis tuæ. R. Quam possedísti ab inítio* (Preces; Psalmi graduales — grep) | *Lembrai-vos, Senhor, da vossa congrega
+1399: | *Réspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et júdica causam tuam, et ne obliviscáris voces quæréntium te* (Introit of Pent13-0, from 73:20, 19, 22, 23 adapted, with verse 73:1 — grep; its Gradua
+=== misericordiae
+=== gens
+=== laetitia
+=== bonitas
+271: | bónitas · *bonitátem fácere cum* | bondade · *usar de bondade com* | open | Ps 118:65, 66, 68; the light verb yields (MS1932), the noun stays so that Teth's run on *bon-* is heard Ps 24:7b *por causa da vossa bondade, Senhor*. Ps 36:3 *fac bonitátem* (no per
+=== electus
+=== verbum
+39: | verbum / sermo / elóquium | palavra / **palavra** / ***o que dissestes*** in both numbers (before D26 the plural was *os vossos ditos*) (*segundo o que dissestes*, *guardei o que dissestes*). *sermo*: the main session overruled the agent's *fala* (D15: one G
+1197: | fácere verbum / voluntátem (angels, 102:20–21) | *cumprir a palavra* / *fazer a vontade* | open | Ps 102:18 *ad faciéndum ea* → *para cumpri-los*, 102:20 *faciéntes verbum illíus* → *que cumpris a sua palavra*, 102:21 *qui fácitis voluntátem ejus* → *que faz
+1218: | *secúndum verbum tuum* (118:25, 65, 107; Nunc dimittis) | *segundo a vossa palavra* | working — Ps 118:25 |
+1238: | *et in verbum tuum supersperávi* (118:81b = 118:114b) | *e pus toda a esperança na vossa palavra* | working — Ps 118; hangs on *supersperáre* |
+1239: | *vivífica me secúndum verbum tuum* (118:25b = 118:107b) | *vivificai-me segundo a vossa palavra* | working — Ps 118 |
+1242: | *Lucérna pédibus meis verbum tuum, et lumen sémitis meis* (118:105) | *Lâmpada para os meus pés é a vossa palavra, e luz para as minhas veredas* | working — Ps 118 |
+1359: | *In Deo laudábo sermónes meos / verbum, in Dómino laudábo sermónem: in Deo sperávi: non timébo quid fáciat mihi caro / homo* (55:5 ≈ 55:11, the refrain; 55:11 in the Gradual of Quad3-1 with *sperábo*) | 55:5 *Em Deus louvarei as minhas palavras, em Deus espe
+=== anima
+53: | ánima mea | a minha alma | working | Ps 53:5–6 shows the cost: in *quæsiérunt ánimam meam* (the idiom for seeking someone's death) the blind reader heard the spiritual soul first and "my life" second; MS1932, pt-PT and DM1962 write *vida* there; kept, with *
+783: | effúndere ánimam (*effúdi in me ánimam meam*) | derramar a alma (*derramei em mim a minha alma*) | settled (D42) | Ps 41:5; *in me* open between 'within' and 'upon' (ἐπ᾿ ἐμέ), kept *em mim*; *dentro de mim* option 2. The blind reader heard all three senses. 
+946: | cápere (*cepérunt ánimam meam*) | tomar (*tomaram a minha alma*) | open | Ps 58:4 (ἐθήρευσαν 'hunted'). Draft 1 *apanharam* (DRB *caught*) was colloquial for the stylist and heard 'be beaten' by the ambiguity reader; *prender* is comprehéndere's (58:13). 36:
+1288: | *Ad te, Dómine, levávi ánimam meam* (24:1; 85:3, 142:8b; the Advent Introit; Epiphany II Responsory 7) | *A vós, Senhor, levantei a minha alma* | open — Ps 24 Ps 85:3b → *porque a vós, Senhor, levantei a minha alma* — followed. |
+1298: | *Ne perdas cum ímpiis, Deus, ánimam meam. R. Et cum viris sánguinum vitam meam* (25:9; the Passiontide versicle, Minor Special.txt, Psalmi matutinum.txt) | *Deus, não façais perecer com os ímpios a minha alma. R. Nem com os homens de sangue a minha vida.* | 
+1325: | *Confundántur et revereántur, * quæréntes / qui quærunt ánimam meam* (34:4; 69:3; 39:15 with *simul* and *ut áuferant eam*) | *Sejam envergonhados e desonrados, * os que buscam a minha alma* | working (Ps 34) **Ps 39:15 → *Sejam envergonhados e desonrados ju
+1347: | *Quare tristis es, ánima mea? * et quare contúrbas me?* (41:6; the same words close 41:11b and 42:5, after the asterisk, in lower case) | *Por que estás triste, minha alma? * e por que me perturbas?* — after the asterisk: *… * por que estás triste, minha alm
+1374: | *Confitébor tibi in pópulis, Dómine: et psalmum dicam tibi in géntibus* (56:10; the Pasc4-0 versicle; 107:4 with *psallam tibi in natiónibus*) · *Misit Deus misericórdiam suam et veritátem suam: ánimam meam erípuit de médio catulórum leónum* (56:4b; versicle
+1377: | *Exáudi, Deus, oratiónem meam cum déprecor: a timóre inimíci éripe ánimam meam* (63:2; Introit of 04-25, Commune C2a-1, C2p — grep) | *Escutai, Deus, a minha oração quando suplico: * arrancai a minha alma do temor do inimigo* | open — Ps 63 |
+1380: | *Deus, Deus meus, * ad te de luce vígilo* (62:2a; Lauds antiphon, Psalmi major, Quadp1-0, Quadp2-0) · *Lábia mea * laudábunt te in vita mea, Deus meus* (62:4b + 62:5a) · *In matutínis * (Dómine,) meditábor in te. R. Quia fuísti adjútor meus* (62:7) · *Me sus
+1385: | *Nonne Deo * subjécta erit ánima mea* (Matins antiphon, 61:2) | *Não estará a minha alma * sujeita a Deus?* | working — Ps 61 |
+1391: | *Salvum me fac, Deus: quóniam intravérunt aquæ usque ad ánimam meam* (68:2; Introit Quadp3-3 verse, Tract Quad6-3, Holy Week responsory — grep) | *Salvai-me, Deus: * porque as águas entraram até a minha alma* | open — Ps 68 |
+1399: | *Réspice, Dómine, in testaméntum tuum, et ánimas páuperum tuórum ne derelínquas in finem: exsúrge, Dómine, et júdica causam tuam, et ne obliviscáris voces quæréntium te* (Introit of Pent13-0, from 73:20, 19, 22, 23 adapted, with verse 73:1 — grep; its Gradua
+1405: | *Quam dilécta tabernácula tua, Dómine virtútum! Concupíscit, et déficit ánima mea in átria Dómini* (83:2; Gradual/responsory — missa Pent05-0, Epi1-0, horas Commune C8, grep) · *Beáti qui hábitant in domo tua, Dómine. R. In sǽcula sæculórum laudábunt te* (83
+1425: | *Bénedic, ánima mea, Dómino* (102:1, 102:2, 102:22 end; 103:1, 103:35 end — grep) | *Bendize, ó minha alma, ao Senhor* | open — Ps 102; 103:1 and 103:35 should copy it (decisions `benedic`, `anima`). |
+=== petitio
+1330: | *Delectáre in Dómino: * et dabit tibi petitiónes cordis tui* (36:4; the monastic Matins versicle, Psalmi matutinum.txt; the Alleluia of 01-31 has 36:4–5 — grep) | *Deleita-te no Senhor: * e ele te dará as petições do teu coração* | open — Ps 36; the stylist 
+=== saturare
+531: | saturáre / satiáre | saciar (*Foram saciados de filhos … serei saciado quando aparecer a vossa glória*) | open | Ps 16:14c, 16:15 — two Latin verbs, one Greek (ἐχορτάσθησαν / χορτασθήσομαι), and the psalm ends on the contrast: one Portuguese verb, both passi
+=== castra
+645: | castra | acampamento (*Se um acampamento se instalar contra mim*) | open | Ps 26:3 (παρεμβολή; the Eastertide responsory, Pasc2-3.txt); the Latin names the camp, not the army. *consístere* → *instalar-se* here (the stylist wanted the subject first; *postar* 
+=== vitulus
+579: | vítulus | bezerro (*Cercaram-me muitos bezerros*) | open | Ps 21:13; 7 lines (grep: 28:6, 49:9, 50:21, 68:32 *vítulum novéllum*, 105:19–20 the golden calf). Draft 1 *novilhos* (MS1932) was unknown to the blind reader; *bezerros* (DRB *calves*) serves 105:19–
+=== sculptil
+1160: | sculptília / scúlptile | imagens esculpidas / imagem esculpida | working | Ps 77:58 (*com as suas imagens esculpidas*), 96:7 *qui adórant sculptília* → *os que adoram imagens esculpidas* (colon +7, accepted; *esculturas* heard as art). 105:19, 105:35, 105:38
+=== similitud
+808: | similitúdo (παραβολή, a byword) | termo de comparação (*Fizestes de nós um termo de comparação para as nações*) | settled (D43) | Ps 43:15 (v2, the stylist; draft 1 *uma comparação*). The Latinist at the gate called it paraphrase and asked *semelhança* (mino
+924: | similitúdo (ὁμοίωσις, likeness) | semelhante (*O furor deles é semelhante ao da serpente*) | open | Ps 57:5; the noun made adjective at the stylist's request (*é à semelhança* a calque). The byword sense (παραβολή, 43:15) keeps *termo de comparação*. |
+=== fenum|foenum
+=== mutare
+=== mirabil
+146: | mirábilis | maravilhoso | working | Ps 117:23; family of *mirificáre* → fazer maravilhoso; MS1932 *admirável* **Ps 92:4b *Mirábiles elatiónes maris: mirábilis in altis Dóminus* → *Maravilhosos são os vagalhões do mar: maravilhoso é o Senhor nas alturas*** — 
+386: | admirábilis | admirável | open | Ps 8:2a = 8:10; 41:5 *tabernáculi admirábilis*; the cognate, a step apart from *mirábilis* → maravilhoso (DRB, MS1932). The Greek has θαυμαστός for both, so a merge into *maravilhoso* is defensible on D15's test and is the op
+1049: | mirabíliter | maravilhosamente | open | Ps 44:5b, 75:5 (θαυμαστῶς). The stylist asked *admiravelmente* at 75:5 (lighter) — refused, admirábilis's word; an option. |
+1247: | *Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!* (8:2a = 8:10) | *Senhor, nosso Senhor, * como é admirável o vosso nome em toda a terra!* | open — Ps 8; both verses are built from the same two slots (decisions `domine`, `quam`), 
+1402: | *Tu es Deus * qui facis mirabília* (76:14b; Matins antiphon, Psalmi matutinum; the Tract of Quadp3-0 adds *solus: notam fecísti in géntibus virtútem tuam*) · *V. Deus, in sancto via tua. R. Quis Deus magnus sicut Deus noster* (76:14a; Psalmi matutinum; the r
+1406: | *Suscitávit Dóminus * testimónium in Jacob: et legem pósuit in Israël* · *Coram pátribus eórum * fecit Deus mirabília* · *Jánuas cæli apéruit * Dóminus, et pluit illis manna ad manducándum* · *Deus adjútor * est eórum: et Excélsus redémptor eórum est* · *Red
+=== potentia
+963: | poténtia | potência (*cingido de potência*) | open | Ps 64:7, where *virtus → poder* stands in the same verse (δυναστεία). *força* is fortitúdo's, *vigor* a man's virtus. *poderio* the option. Recurs (70:19 *Poténtiam tuam*, Ps 144 three times — grep all pla
+=== loqui
+39: | verbum / sermo / elóquium | palavra / **palavra** / ***o que dissestes*** in both numbers (before D26 the plural was *os vossos ditos*) (*segundo o que dissestes*, *guardei o que dissestes*). *sermo*: the main session overruled the agent's *fala* (D15: one G
+302: | mendácium, *loqui mendácium* | mentira, *falar mentira* | working | Ps 5:7a **Ps 16:9b *os eórum locútum est supérbiam* → *a boca deles falou soberba*** — the same accusative of content: draft 1 *falou com soberba* (DRB, MS1932: the manner) was marked MAJOR 
+358: | **elóquium — evidence from 118:81–128 for whoever reviews D16** | clause kept (118:82, 116); plural *os vossos ditos* kept (118:103); noun *o dito da vossa justiça* (118:123) | open | The **clause** passed the stylist twice and the blind reader; the Latinist
+746: | magna loqui (*super me*) | falar grandezas (contra mim) | settled (D39) | 11:4 *magníloquam* → *que fala grandezas*, 34:26b, 37:17, 54:13 (grep). **Ps 37:17: the stylist asked *grandes coisas* ('grandezas suggests quantities or splendours') and the blind rea
+806: | obloqui | insultar (*do que me afronta e do que me insulta*) | settled (D43) | Ps 43:17 (παραλαλέω; L&S cites this verse); once in the psalter. *difamar* is detráhere's (D41), *censura* vituperátio's. Two persons (article repeated, v2, the Latinist); the sup
+1225: | *secúndum elóquium tuum* (118:41, 58, 76; 116, 133, 170 to come; 118:154 has *propter*, 118:169 *juxta*) | ***segundo o que dissestes*** — settled (D16), replacing *segundo o vosso dito* | The clause held on a second blind stylist pass (four of six places pa
+1241: | *Súscipe me secúndum elóquium tuum, et vivam: et non confúndas me ab exspectatióne mea* (118:116) | *Amparai-me segundo o que dissestes, e viverei: e não me envergonheis pelo que aguardo* | open — hangs on D16, D19 and *exspectáre*. From general knowledge, u
+1258: | *Elóquia Dómini … igne examináta* (11:7 *Elóquia Dómini, elóquia casta: argéntum igne examinátum*; 17:31 *elóquia Dómini igne examináta*) | *As palavras do Senhor … examinada(s) no fogo* | settled (D27) **D27: settled — outside Ps 118 the psalm decides (D26)
+=== auditam|auditus
+887: | audítus (the hearing) | ouvido (*Ao meu ouvido dareis júbilo e alegria*) | settled (D44) | Ps 50:10; the Latin build kept against DM1962 *Faze-me ouvir*. |
+=== custodire
+80: | custodíre | guardar | working | Ps 90:11 Ps 16:4 *ego custodívi vias duras* → *eu guardei caminhos duros* (as 17:22 *guardei os caminhos do Senhor*): the blind reader was unsure what *guardar caminhos* means (followed? watched? remembered?), heard 'followed'
+=== judicium
+35: | judícia / judícium | juízos / juízo | settled (D15) | Ps 118 — confirmed by the study (23× there, 66× in the psalter; κρίμα and κρίσις merged by the Latin). DM1962 *sentenças* is the option in Ps 118; *julgamentos* refused (rhymes with *mandamentos*) Ps 100:
+349: | fácere judícium | fazer juízo sobre (118:84) / praticar o juízo (118:121) | open | two builds: 118:84 *quando fareis juízo sobre os que me perseguem?* (no reader heard "form an opinion of", which bare *fazer juízo de* would mean); 118:121 *Feci judícium et j
+1253: | *secúndum judícium tuum vivífica me* (118:149b, with *et*; 118:156b) | *segundo o vosso juízo vivificai-me* | working — Ps 118; *vivificai-me* always last, as *vivífica me* is (nine verses) |
+1332: | *Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus* (36:30–31; Commune C4a, C5 and the Mass of confessors, grep) | *A boca do justo meditará a sabedoria, * e a sua língua fala
+=== injuste|iniquitatem facere
+281: | *iniquitátem fácere in* | tratar com iniquidade | open | Ps 118:78 (from the stylist); the light verb yields; *praticar a iniquidade* stays operári's |
+=== intellegere|intelligere
+227: | intellégere | entender | working | Ps 2:10; *entendei* is safe at the *vós* imperative (past *entendi*) Ps 18:13 *Delícta quis intéllegit?* → *Quem entende as faltas?* **Ps 57:10 *Priúsquam intellégerent spinæ vestræ rhamnum* → *Antes que os vossos espinhos 
+=== exsicc
+=== abyss
+776: | abýssus / cataráctæ | abismo / cataratas (*O abismo invoca o abismo, * à voz das vossas cataratas*) | settled (D42) | Ps 41:8; *cataratas* heard as waterfalls (the blind reader), the sense. abýssus recurs 32:7, 35:7, 76:17, 103:6, 106:26, 148:7. |
+1350: | *Abýssus abýssum ínvocat, * in voce cataractárum tuárum* (41:8; no liturgical use in DO by grep — kept as a formula for the quotation) | *O abismo invoca o abismo, * à voz das vossas cataratas* | settled (D42); was: open — Ps 41; *invocar* (row) keeps the ve
+=== redimere
+359: | redímere | resgatar (*enquanto não há quem resgate, nem quem salve*) | open | Ps 7:3; λυτρόομαι; 12 verses with the present stem (grep: 7:3, 25:11, 33:23, 43:26, 48:8, 48:16, 54:19, 71:14, 102:4, 118:134, 118:154, 129:8) and 9 with the perfect (30:6 *redemís
+=== remanere
+=== fiat
+279: | fíeri, jussive *Fiat* | *Seja* | open | Ps 118:76, 80 (118:173 next): *Faça-se* (the glossary's fazer-se, and the Angelus') failed the stylist twice; DRB "let … be", MS1932 *Seja*; the row *fíeri, factus est → fazer-se* stands for the perfect **118:173 *Fiat
+544: | fíeri + adjective (*pingue fiat*) | tornar-se (*e o teu holocausto se torne gordo*) | open | Ps 19:4; the Latinist's major against *seja* (a state). Keeps *Seja* for *Fiat* standing alone (118:76, 80) |
+1316: | *Fiat misericórdia tua, Dómine, super nos: * quemádmodum sperávimus in te* (32:22; the Te Deum, Common/Prayers.txt, and the Preces versicle) | *Seja sobre nós, Senhor, a vossa misericórdia: * assim como esperamos em vós* | open — Ps 32; the stylist's best li
+1342: | *fiat, fiat* (40:14; 71:19, 88:53, 105:48 *Fiat, fiat* — the closes of Books I–IV, grep) | *assim seja, assim seja* | settled (D41); was: open — Ps 40: *Fiat* with no subject renders the Hebrew *amen* (γένοιτο); *Seja, seja* is not Portuguese, *faça-se* fail
+=== a saeculo

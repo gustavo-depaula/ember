@@ -1,0 +1,546 @@
+{
+  "psalm": 109,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "hour": "Sunday Vespers (first psalm)",
+  "verses": {
+    "109:1a": "Disse o Senhor ao meu Senhor: * {sede} à minha direita:",
+    "109:1b": "Até que eu ponha os teus inimigos * {scab}.",
+    "109:2": "O Senhor {emittet} de Sião a {virga} do teu poder: * {dominare} no meio dos teus inimigos.",
+    "109:3": "Contigo está o {principium} no dia do teu poder, {splend}: * {utero}, {lucif}, eu te gerei.",
+    "109:4": "Jurou o Senhor, e não se arrependerá: * Tu és sacerdote {aet}, segundo a ordem de {melch}.",
+    "109:5": "{v5a} * {confregit} os reis no dia da sua ira.",
+    "109:6": "Julgará entre as nações, {ruinas}: * {conquass} as cabeças na terra de muitos.",
+    "109:7": "Beberá da torrente no caminho: * por isso {exalt} a cabeça."
+  },
+  "decisions": [
+    {
+      "id": "sede",
+      "refs": [
+        "109:1a"
+      ],
+      "latin": "Sede a dextris meis",
+      "kind": "word",
+      "why": "God speaks to one addressee, so the imperative is *tu* (D17, which named this verse). *Senta-te* is the plain verb, and the wording of Matos Soares 1932 and of the Diurnal Monástico 1962 (consult/parallels/ps109.md). The responsorial psalm of the Brazilian lectionary (CNBB, Corpus Christi, year C — fetched, consult/ps109-cnbb-remicon.txt) has *Assenta-te ao lado meu direito*: *assentar-se* is its verb, and the rest of that line is a paraphrase made for a sung meter.",
+      "options": [
+        {
+          "label": "Senta-te",
+          "forms": {
+            "sede": "Senta-te"
+          },
+          "note": "draft — MS1932 and DM1962 have it",
+          "from": "draft"
+        },
+        {
+          "label": "Assenta-te",
+          "forms": {
+            "sede": "Assenta-te"
+          },
+          "note": "the verb of the CNBB lectionary text; slightly more formal",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "scab",
+      "refs": [
+        "109:1b"
+      ],
+      "latin": "Donec ponam inimícos tuos, * scabéllum pedum tuórum",
+      "kind": "glossary",
+      "why": "The glossary row *scabéllum pedum → escabelo dos … pés* (Ps 98:5) says this verse should copy it; *escabelo* is also the word of MS1932, DM1962 and the CNBB lectionary (verified), so it is the word Brazilians know in this very line. The Latin is a double accusative (put X as Y). Portuguese says it with *por* (as *ter por*, *tomar por*): MS1932's build, the one that keeps the verb *pôr*. *como* (CNBB) and *para* (DM1962) are the options. The row *pónere + predicate → fazer de* (17:12) would give *faça dos teus inimigos o escabelo*, which gives up *pôr* where the familiar line keeps it.",
+      "options": [
+        {
+          "label": "por escabelo dos teus pés",
+          "forms": {
+            "scab": "por escabelo dos teus pés"
+          },
+          "note": "draft — MS1932's construction; the glossary word",
+          "from": "MS1932"
+        },
+        {
+          "label": "como escabelo dos teus pés",
+          "forms": {
+            "scab": "como escabelo dos teus pés"
+          },
+          "note": "the CNBB lectionary's *como escabelo* (it adds *por debaixo de*)",
+          "from": "CNBB"
+        },
+        {
+          "label": "para escabelo dos teus pés",
+          "forms": {
+            "scab": "para escabelo dos teus pés"
+          },
+          "note": "DM1962",
+          "from": "DM1962"
+        },
+        {
+          "label": "por estrado dos teus pés",
+          "forms": {
+            "scab": "por estrado dos teus pés"
+          },
+          "note": "the glossary row's option: a plainer noun, but a platform more than a footstool"
+        }
+      ]
+    },
+    {
+      "id": "emittet",
+      "refs": [
+        "109:2"
+      ],
+      "latin": "Virgam virtútis tuæ emíttet Dóminus ex Sion",
+      "kind": "word",
+      "why": "*emíttere* is here ἐξαποστελεῖ, the Greek of 103:10 and 103:30, where the glossary gives *enviar*; so *enviará*, as Douay-Rheims' *send forth*. *Estenderá* (DM1962, CNBB) is the Hebrew's image of stretching out a sceptre, not the Latin's; *fará sair* (MS1932) is a fair rendering of *e-mittere* but a paraphrase of the verb. Order: the Latin puts the rod first; Portuguese natural order (subject, verb) is taken under D2, and the rod still ends the colon.",
+      "options": [
+        {
+          "label": "enviará",
+          "forms": {
+            "emittet": "enviará"
+          },
+          "note": "draft — the glossary verb for emíttere (ἐξαποστέλλω); DRB 'send forth'",
+          "from": "glossary"
+        },
+        {
+          "label": "fará sair",
+          "forms": {
+            "emittet": "fará sair"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "estenderá",
+          "forms": {
+            "emittet": "estenderá"
+          },
+          "note": "DM1962 and the CNBB lectionary; the Hebrew's image",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "virga",
+      "refs": [
+        "109:2"
+      ],
+      "latin": "virgam virtútis tuæ",
+      "kind": "glossary",
+      "why": "The glossary keeps *virga → vara* (2:9, 44:7) and says *cetro* interprets. In 44:7 the blind reader heard sceptre anyway. Here the context (a king, Sion, rule) makes the same hearing likely. *Cetro* is the word of MS1932, DM1962 and the CNBB lectionary, so it will be missed; it stays an option. *virtus → poder* (the glossary row).",
+      "options": [
+        {
+          "label": "vara",
+          "forms": {
+            "virga": "vara"
+          },
+          "note": "draft — glossary row virga",
+          "from": "glossary"
+        },
+        {
+          "label": "cetro",
+          "forms": {
+            "virga": "cetro"
+          },
+          "note": "MS1932, DM1962, CNBB; interprets the rod as the king's sceptre",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dominare",
+      "refs": [
+        "109:2"
+      ],
+      "latin": "domináre in médio inimicórum tuórum",
+      "kind": "grammar",
+      "why": "The *tu* imperative *domina* is also the third person present (\"he rules\"), and it follows a colon whose subject is *o Senhor*. Without help the ear can take the second colon as a statement about the Lord. Naming the subject (*domina tu*) makes it an imperative addressed to the king, as the Latin's deponent imperative is. This is grammar under D2, and it is MS1932's wording.",
+      "options": [
+        {
+          "label": "domina tu",
+          "forms": {
+            "dominare": "domina tu"
+          },
+          "note": "draft — MS1932; the subject named so the imperative is heard",
+          "from": "MS1932"
+        },
+        {
+          "label": "domina",
+          "forms": {
+            "dominare": "domina"
+          },
+          "note": "bare; one syllable shorter, can be heard as 'he rules'"
+        }
+      ]
+    },
+    {
+      "id": "principium",
+      "refs": [
+        "109:3"
+      ],
+      "latin": "Tecum princípium",
+      "kind": "ambiguity",
+      "why": "*Princípium* is first 'beginning, origin' (Lewis & Short), but late Latin also has it as 'dominion' for ἀρχή. L&S quotes Tertullian: the Greek word takes in 'not only order but power'. Douay-Rheims (*principality*) and MS1932 (*principado*) both read rule, and the context (*in die virtútis tuæ*) leans that way. But the Latin's own word is open, and a Christian ear has long heard eternal origin in this verse (the second colon is *génui te*). *Princípio* is the cognate and the glossary's word for *princípium* (118:160). It keeps the first sense and leaves the verse open to what follows. *Principado* would close it to rule and drop 'beginning'. Neither Portuguese word holds both senses. Ruled for the Latin's first sense, and the Latinist should look at it.",
+      "options": [
+        {
+          "label": "princípio",
+          "forms": {
+            "principium": "princípio"
+          },
+          "note": "draft — the cognate and the glossary word (118:160); the Latin's first sense",
+          "from": "glossary"
+        },
+        {
+          "label": "principado",
+          "forms": {
+            "principium": "principado"
+          },
+          "note": "DRB 'principality', MS1932; closes the word to rule",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "splend",
+      "refs": [
+        "109:3"
+      ],
+      "latin": "in splendóribus sanctórum",
+      "kind": "word",
+      "why": "The glossary row *splendor → esplendor* (89:17) named this verse. The Latin's plural is kept: *nos esplendores*, as MS1932 has *resplendores* and DRB 'brightness' (singular). *Sanctórum* may be the saints or the holy things/places (neuter); *dos santos* keeps both, as the Latin does.",
+      "options": [
+        {
+          "label": "nos esplendores dos santos",
+          "forms": {
+            "splend": "nos esplendores dos santos"
+          },
+          "note": "draft — the glossary word, the Latin's plural",
+          "from": "glossary"
+        },
+        {
+          "label": "no esplendor dos santos",
+          "forms": {
+            "splend": "no esplendor dos santos"
+          },
+          "note": "singular, smoother; loses the plural"
+        },
+        {
+          "label": "entre os resplendores dos santos",
+          "forms": {
+            "splend": "entre os resplendores dos santos"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "utero",
+      "refs": [
+        "109:3"
+      ],
+      "latin": "ex útero",
+      "kind": "glossary",
+      "why": "The glossary row *úterus → o seio materno* (21:11, 57:4, 70:6) says this verse decides for itself. Here the speaker is God, the Father. *Materno* was only there to make *seio* mean womb, and here it would say what the Latin does not. Bare *seio* is heard today as the breast. *Ventre* is *venter*'s word, but *venter* is not in this psalm, and 57:4 already used it for *vulva*. It keeps the bodily image of the Latin and of the Greek γαστρός. MS1932's *das minhas entranhas* supplies *my* and spends *víscera*'s word (D44).",
+      "options": [
+        {
+          "label": "do ventre",
+          "forms": {
+            "utero": "do ventre"
+          },
+          "note": "draft — the bodily image, no word supplied; γαστρός",
+          "from": "draft"
+        },
+        {
+          "label": "do seio",
+          "forms": {
+            "utero": "do seio"
+          },
+          "note": "the theological 'bosom' (*no seio do Pai*), but bare *seio* is heard as the breast"
+        },
+        {
+          "label": "das minhas entranhas",
+          "forms": {
+            "utero": "das minhas entranhas"
+          },
+          "note": "MS1932; supplies 'my'; *entranhas* is víscera's word (D44)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "lucif",
+      "refs": [
+        "109:3"
+      ],
+      "latin": "ante lucíferum",
+      "kind": "word",
+      "why": "*Lucífer* is the morning star (L&S; the Greek ἑωσφόρος), and a concrete image stays concrete (rule 5). The name *Lúcifer* cannot stand in Portuguese, where it means the devil. *antes da estrela da manhã* keeps the star. *antes da aurora* (MS1932, DM1962, the CNBB lectionary, verified) is the familiar line, but it turns the star into the dawn.",
+      "options": [
+        {
+          "label": "antes da estrela da manhã",
+          "forms": {
+            "lucif": "antes da estrela da manhã"
+          },
+          "note": "draft — the Latin's star; DRB 'before the day star'",
+          "from": "draft"
+        },
+        {
+          "label": "antes da aurora",
+          "forms": {
+            "lucif": "antes da aurora"
+          },
+          "note": "MS1932, DM1962, CNBB — the familiar wording, the dawn for the star",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "aet",
+      "refs": [
+        "109:4"
+      ],
+      "latin": "Tu es sacérdos in ætérnum",
+      "kind": "glossary",
+      "why": "*in ætérnum → para sempre* is settled (D23). This is the line where the ruling costs most: *Tu és sacerdote eternamente* is MS1932's wording and the refrain Brazilians sing on Corpus Christi (the CNBB lectionary, verified: *Tu és eternamente sacerdote segundo a ordem do rei Melquisedec* in the refrain, *Tu és sacerdote eternamente* in the strophe), and it is said at ordinations. D23 held and flagged: Gustavo's ear may want this one line to keep the adverb.",
+      "options": [
+        {
+          "label": "para sempre",
+          "forms": {
+            "aet": "para sempre"
+          },
+          "note": "draft — D23",
+          "from": "glossary"
+        },
+        {
+          "label": "eternamente",
+          "forms": {
+            "aet": "eternamente"
+          },
+          "note": "MS1932 and the CNBB lectionary; the familiar line",
+          "from": "CNBB"
+        }
+      ]
+    },
+    {
+      "id": "melch",
+      "refs": [
+        "109:4"
+      ],
+      "latin": "Melchísedech",
+      "kind": "word",
+      "why": "The spelling of the name. *Melquisedec* is the one the CNBB lectionary prints in this verse (verified) and MS1932's. *Melquisedeque* (DM1962) is the fully Portuguese spelling. Both end with the stress on the last syllable, as the cadence wants. Ruled for the spelling this verse already has in Brazilian liturgical use. Any other place that names him (none in the psalter) would follow.",
+      "options": [
+        {
+          "label": "Melquisedec",
+          "forms": {
+            "melch": "Melquisedec"
+          },
+          "note": "draft — CNBB lectionary, MS1932",
+          "from": "CNBB"
+        },
+        {
+          "label": "Melquisedeque",
+          "forms": {
+            "melch": "Melquisedeque"
+          },
+          "note": "DM1962; the fully Portuguese spelling",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "v5a",
+      "refs": [
+        "109:5"
+      ],
+      "latin": "Dóminus a dextris tuis, * confrégit …",
+      "kind": "grammar",
+      "why": "The first colon has no verb. Read with the second, it is the subject of *confrégit*: 'the Lord at thy right hand hath broken kings' (Douay-Rheims). The draft keeps it one sentence, with the phrase set off by commas. MS1932 supplies *está* and makes two clauses, which states what the Latin only places. That option stays.",
+      "options": [
+        {
+          "label": "O Senhor, à tua direita,",
+          "forms": {
+            "v5a": "O Senhor, à {dex5} direita,"
+          },
+          "note": "draft — one sentence, as DRB",
+          "from": "DRB"
+        },
+        {
+          "label": "O Senhor está à tua direita:",
+          "forms": {
+            "v5a": "O Senhor está à {dex5} direita:"
+          },
+          "note": "MS1932 and DM1962; a copula supplied, two clauses",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dex5",
+      "refs": [
+        "109:5"
+      ],
+      "latin": "a dextris tuis",
+      "kind": "ambiguity",
+      "why": "Who is *tu* here? The Latin does not say. After 109:2–4, where the king is addressed, the plain reading goes on with him: the Lord stands at the king's right hand (MS1932's gloss: *ele te assiste*). A long Christian reading turns instead to God: the Lord (Christ, seated at God's right hand in 109:1) is at *your* right hand, O God. Portuguese forces a choice the Latin does not make, because God is *vós* in this psalter and the king *tu*. *Tua* goes on with the address of the verses before, which is how the Latin reads on its face. *Vossa* would choose the second reading.",
+      "options": [
+        {
+          "label": "tua",
+          "forms": {
+            "dex5": "tua"
+          },
+          "note": "draft — continues the address of 109:2–4; MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "vossa",
+          "forms": {
+            "dex5": "vossa"
+          },
+          "note": "addressed to God; the Lord of 109:1 at God's right hand"
+        }
+      ]
+    },
+    {
+      "id": "confregit",
+      "refs": [
+        "109:5"
+      ],
+      "latin": "confrégit … reges",
+      "kind": "glossary",
+      "why": "*confríngere → quebrar* (the glossary row), with *despedaçar* its option where it must stand apart. Here it doesn't need to: 109:6 *conquassábit* is another Latin verb, given its own word (see *conquass*). Natural order: the object comes after the verb and the colon ends on *ira*.",
+      "options": [
+        {
+          "label": "quebrou",
+          "forms": {
+            "confregit": "quebrou"
+          },
+          "note": "draft — glossary row",
+          "from": "glossary"
+        },
+        {
+          "label": "despedaçou",
+          "forms": {
+            "confregit": "despedaçou"
+          },
+          "note": "MS1932; the row's option",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ruinas",
+      "refs": [
+        "109:6"
+      ],
+      "latin": "implébit ruínas",
+      "kind": "ambiguity",
+      "why": "*Ruínas* is the accusative object of *implébit*: 'he shall fill ruins' (DRB), as open in Latin as in English. It could mean filling a place with fallen things, or filling up what has fallen. The Greek πληρώσει πτώματα has the same build. *encherá de ruínas* (MS1932 adds *tudo*) reads *ruínas* as what fills. That would need an ablative, so it closes the Latin to one sense. *encherá as ruínas* keeps the Latin's object. Ruled for the Latin's construction. The ambiguity reader should say what it hears.",
+      "options": [
+        {
+          "label": "encherá as ruínas",
+          "forms": {
+            "ruinas": "encherá as ruínas"
+          },
+          "note": "draft — the Latin's object kept",
+          "from": "draft"
+        },
+        {
+          "label": "encherá de ruínas",
+          "forms": {
+            "ruinas": "encherá de ruínas"
+          },
+          "note": "the ruins as what fills; no object named"
+        },
+        {
+          "label": "encherá tudo de ruínas",
+          "forms": {
+            "ruinas": "encherá tudo de ruínas"
+          },
+          "note": "MS1932, DM1962; supplies 'everything'",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conquass",
+      "refs": [
+        "109:6"
+      ],
+      "latin": "conquassábit cápita",
+      "kind": "glossary",
+      "why": "New row. *conquassáre* is 'shake violently, shatter' (L&S). The Greek has συνθλάσει, the verb of 109:5 συνέθλασεν, so by D15's test the Latin's change of verb could be merged into *quebrará*. But the Latin varies the verb within two lines. *esmagar* is the word of MS1932 and DM1962, and it keeps the two verses apart. Cost: *esmagar* is already *contribuláre*'s (73:13, open); the two never meet.",
+      "options": [
+        {
+          "label": "esmagará",
+          "forms": {
+            "conquass": "esmagará"
+          },
+          "note": "draft — MS1932, DM1962",
+          "from": "MS1932"
+        },
+        {
+          "label": "quebrará",
+          "forms": {
+            "conquass": "quebrará"
+          },
+          "note": "one Greek verb with 109:5; merges the Latin's two"
+        },
+        {
+          "label": "despedaçará",
+          "forms": {
+            "conquass": "despedaçará"
+          },
+          "note": "'dash to pieces'; but confríngere's option in 45:10, 57:7"
+        }
+      ]
+    },
+    {
+      "id": "exalt",
+      "refs": [
+        "109:7"
+      ],
+      "latin": "proptérea exaltábit caput",
+      "kind": "glossary",
+      "why": "*exaltáre → exaltar* (the glossary row, one verb in every use). 74:5 kept it with a concrete object (*Não exalteis o chifre*) and refused *levantar* as *leváre*'s. *Exaltará a cabeça* is the Latin's word. *levantará a cabeça* (MS1932, DM1962, DRB 'lift up') is the idiom of a man raising his head after the struggle, and it stays an option.",
+      "options": [
+        {
+          "label": "exaltará",
+          "forms": {
+            "exalt": "exaltará"
+          },
+          "note": "draft — glossary row",
+          "from": "glossary"
+        },
+        {
+          "label": "levantará",
+          "forms": {
+            "exalt": "levantará"
+          },
+          "note": "MS1932, DM1962, DRB; the idiom",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "109:1a": "Address follows the speaker (D17, which names this verse): God speaks to one addressee, so *tu* in 109:1, 109:3, 109:4. In 109:2 the psalmist speaks to the king: *tu*, as D43 ruled for the Messiah-king of Ps 44. *Disse o Senhor ao meu Senhor* is word for word the Latin, and the wording of MS1932, DM1962 and Mt 22:44 as Brazilians know it. Both *Senhor* capitalised, as the Latin column's *Dómino*. The speech is introduced with a colon, no quotation marks, as 88:3 and 2:7. The CNBB lectionary's *Palavra do Senhor ao meu Senhor* (verified) is a paraphrase from the Hebrew (*ne'um*) and not the Latin's *Dixit*.",
+    "109:1b": "*eu* is supplied before *ponha* so that the first person is heard (*que ponha* could be 'that he put').",
+    "109:3": "*está* is supplied: the Latin's first colon has no verb (D2, grammar). *eu te gerei* echoes Ps 2:7 *eu hoje te gerei* (the same *génui te*). The first colon is long, as the Latin's is (about 22 syllables against 23).",
+    "109:4": "*não se arrependerá* for the impersonal *non pœnitébit eum*, as MS1932 and DM1962.",
+    "109:6": "*Julgará entre as nações* (DRB 'among nations'); *judicáre → julgar* bare. *na terra de muitos* is in the Latin's order and leaves *multórum* where the Latin leaves it (with *terra*, or with *cápita* across the phrase). MS1932 resolves it to 'the heads of many'.",
+    "109:7": "*Beberá da torrente no caminho*: natural order (D2); *torrens → torrente* (glossary).",
+    "109:2": "Soft check: second colon 3 syllables short of the Latin (13 against 16), accepted. The Latin colon is long because of *domináre* and *inimicórum*, and the Portuguese says every word of it. *de Sião* is placed after the verb, in natural order."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps109.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962) and the glossary rows for scabéllum pedum (98:5), virga, virtus, emíttere, déxtera, úterus, splendor, confríngere, exaltáre, torrens, in ætérnum (D23) and the address rule D17. Liturgical circulation in Brazil checked, not asserted: the CNBB lectionary's responsorial psalm for Corpus Christi (fetched from remicon-salmo.blogspot.com, kept as consult/ps109-cnbb-remicon.txt) and a sung setting from the Archdiocese of Belo Horizonte (consult/ps109-lh-arqbh.txt) both read *Palavra do Senhor ao meu Senhor: Assenta-te ao lado meu direito … como escabelo por debaixo de teus pés … como o orvalho, antes da aurora, eu te gerei … Tu és sacerdote eternamente, segundo a ordem do rei Melquisedec*, a Hebrew-based paraphrase. Whether the Brazilian Liturgia das Horas prints the same text at Sunday Vespers was not verified. Hard readings: *princípium* (beginning or rule), *ex útero* said by God, *lucíferum*, *implébit ruínas*, the *tuis* of 109:5."
+    },
+    {
+      "step": "checks",
+      "note": "v1: hard pass (ids and marks). One soft flag: 109:2 second colon -3 syllables, accepted (see choices). Cadences all oxytone or paroxytone."
+    }
+  ]
+}

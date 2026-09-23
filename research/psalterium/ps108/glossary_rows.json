@@ -1,0 +1,24 @@
+{
+  "append": [
+    {"row": "| adjútor |", "text": "**Ps 108:12 *Non sit illi adjútor* → *Não haja quem o auxilie*** — a local departure (decision `adjutor`): the v1 Latinist and stylist both asked for the person, and the clause gives the Latin's *Non sit … nec sit qui* its parallel. *auxílio para ele* the option."},
+    {"row": "| scrutári |", "text": "Ps 108:11 *Scrutétur fænerátor* → *O usurário sonde* (subject first: the ambiguity reader heard *Sonde o usurário* as an imperative). *esquadrinhe* the option."},
+    {"row": "| nimis |", "text": "Ps 108:30 *Confitébor Dómino nimis in ore meo* → *Com a minha boca darei graças ao Senhor sem medida* (as 118:138, 45:2, 78:8). No reader remarked."},
+    {"row": "| fácere cum (+ person) |", "text": "**Ps 108:21 *fac mecum propter nomen tuum* → *tratai-me por causa do vosso nome*** (v2; decision `facmecum`): the v1 draft *fazei comigo* was heard as cut off by the stylist and the ambiguity reader; *agi comigo* (asked by the stylist and the v2 Latinist) falls to rule 3. The row applies even with no manner after it."},
+    {"row": "| inops / pauper / egénus |", "text": "Ps 108:17 *hóminem ínopem, et mendícum* → *o homem carente, e mendigo*; 108:22 *egénus, et pauper* → *necessitado e pobre*; 108:31 *páuperis* → *do pobre*. The stylist heard *carente* as emotional need and asked *indigente* — refused, D38."},
+    {"row": "| silére / tacére |", "text": "Ps 108:2 *laudem meam ne tacúeris* → *não caleis o meu louvor* (transitive *calar*, MS1932; decision `tacueris`) — the reflexive row needs a preposition here, and *laudem meam* stays open (my praise of God / God's word for me). The v2 Latinist asked *não vos caleis ao meu louvor* — option."},
+    {"row": "| disperíre / interíre |", "text": "**Ps 108:15 *dispéreat de terra memória eórum* → *da terra pereça a memória deles*** — *de todo* dropped locally (decision `dispereat`): the v1 Latinist called it an addition and the stylist found *pereça de todo a memória* trips. *pereça de todo* the option. Worth weighing for the row."},
+    {"row": "| detráhere + dative |", "text": "Ps 108:4, 20, 29 → *me difamavam*, *dos que me difamam*, *os que me difamam* (the Greek's ἐνδιαβάλλω, not linked by the Latin to *diábolus* in 108:6). No reader remarked."},
+    {"row": "| maledícere |", "text": "**Ps 108:28 *Maledícent illi, et tu benedíces* → *Eles maldirão, e vós bendireis*** — the row's proposal (*maldizer* beside *benedícere*, as 61:5) applied; no reader remarked. 108:17–18 *maledíctio → maldição*. *amaldiçoarão* the option."},
+    {"row": "| substántia (a person's being: *substántia mea*) |", "text": "Ps 108:11 *omnem substántiam ejus* (property, as D39 notes) → *todos os seus bens* (MS1932; local)."}
+  ],
+  "terms": [
+    "| episcopátus | episcopado (*e outro receba o seu episcopado*) | open | Ps 108:8, the only place in Pss 1–150. Lewis & Short cite this verse; Acts 1:20 applies it to Judas (Vulgate *episcopatum eius accipiat alter*). DRB 'bishopric'. The ambiguity reader listed it as unknown and puzzling; the Latinist passed it on both drafts. *cargo*, *ministério* (MS1932) options. |",
+    "| nutáre | vacilar (*Sejam transportados, vacilantes, os seus filhos*) | open | Ps 108:10; σαλευόμενοι, the root 54:23 renders *vacilar*. v2: the verb first (stylist: the participle at the head stumbled); D43 *transportar* kept against the stylist's *levados*. MS1932 *Andem vagabundos* (the Hebrew) refused. |",
+    "| fænerátor | usurário (*O usurário sonde todos os seus bens*) | open | Ps 108:11; L&S 'money-lender … a usurer'; MS1932, DRB; the usura row's family (14:5). *o credor* the option. |",
+    "| diábolus | diabo (*e o diabo esteja à sua direita*) | open | Ps 108:6; the Latin's loanword, not 'accuser' (the Greek's and Hebrew's sense). *o demônio* is dæmónium's (95:5). No reader remarked. |",
+    "| diplóis | capa dupla (*como de uma capa dupla*) | open | Ps 108:29; L&S 'a double robe … cloak', citing this verse; MS1932. *manto* is opertórium's (101:27). |",
+    "| interióra | entranhas (*e entrou como água nas suas entranhas*) | open | Ps 108:18b; εἰς τὰ ἔγκατα, the Greek of 50:12 *víscera → entranhas* (D44), so D15's test joins them. |",
+    "| propter óleum (108:24) | *por causa do óleo* | open | Ps 108:24; δι᾿ ἔλαιον kept open (MS1932's gloss *por falta de* is the Hebrew's sense, an option). The ambiguity reader found it confusing; kept, because the Latin is. *óleum → óleo* as 44:8, 88:21. |",
+    "| opus (108:20 *Hoc opus eórum*) | a obra | open | Ps 108:20; the Hebrew's 'wages' (MS1932 *o lucro*) refused; the Latin leaves 'deed' and 'due' open. |"
+  ]
+}

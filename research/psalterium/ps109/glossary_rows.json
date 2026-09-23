@@ -1,0 +1,70 @@
+{
+  "append": [
+    {
+      "row": "| God speaking to a single addressee",
+      "text": "**Ps 109 applied:** 109:1a *Senta-te à minha direita*, 109:3 *eu te gerei* (echoing 2:7), 109:4 *Tu és sacerdote para sempre*. No reader remarked on the address."
+    },
+    {
+      "row": "| address — the psalmist to the Messiah-king",
+      "text": "**Ps 109:2** (the psalmist to the king) → *tu*, as this row: *domina tu no meio dos teus inimigos*. **109:5 *Dóminus a dextris tuis*** keeps *à tua direita*: it continues the address of 109:2–4, and *vossa* (addressed to God, with the Lord at God's right hand) is the option (decision `dex5`). The ambiguity reader could not tell who *tu* is. The Latin cannot tell either."
+    },
+    {
+      "row": "| scabéllum pedum |",
+      "text": "**Ps 109:1b copies it:** *Até que eu ponha os teus inimigos * por escabelo dos teus pés* (the double accusative with *por*, MS1932's build). The CNBB lectionary prints *escabelo* in this very line (verified, `consult/ps109-cnbb-remicon.txt`). The stylist asked for *estrado* (option), and the ambiguity reader again listed *escabelo* unknown. The Latinist passed it twice."
+    },
+    {
+      "row": "| splendor |",
+      "text": "**Ps 109:3 *in splendóribus sanctórum* → *nos esplendores dos santos*** (the plural kept; MS1932 *resplendores*). Passed the Latinist twice."
+    },
+    {
+      "row": "| venter / úbera / úterus |",
+      "text": "**Ps 109:3 *ex útero … génui te* (God speaking) → *do ventre*:** *materno* would say what the Latin does not, and bare *seio* is the breast. *venter* is not in the psalm (as at 57:4). *do seio* and MS1932's *das minhas entranhas* are the options. The ambiguity reader heard God speaking, and asked whose the womb was, as the Latin leaves it."
+    },
+    {
+      "row": "| virga |",
+      "text": "Ps 109:2 *Virgam virtútis tuæ* → *a vara do teu poder*. *cetro* (MS1932, DM1962, CNBB) is the option. The ambiguity reader heard a rod, not necessarily a sceptre."
+    },
+    {
+      "row": "| emíttere (springs",
+      "text": "Ps 109:2 *Virgam … emíttet Dóminus ex Sion* (ἐξαποστελεῖ) → *O Senhor enviará de Sião a vara*. *fará sair* (MS1932) and *estenderá* (DM1962, CNBB, the Hebrew's image) are options. No reader remarked."
+    },
+    {
+      "row": "| confríngere |",
+      "text": "Ps 109:5 *confrégit … reges* → *quebrou os reis*. It is kept apart from 109:6 *conquassábit → esmagará* (new row), although the Greek is one verb (συνέθλασεν / συνθλάσει). No reader remarked."
+    },
+    {
+      "row": "| exaltáre |",
+      "text": "**Ps 109:7 *exaltábit caput* → *exaltará a cabeça*.** The stylist asked for *erguerá* because of the hiatus *-rá a*; *levantará* (MS1932, DRB) is the other option. Refused for this row. The ambiguity reader heard 'lift his head high'."
+    },
+    {
+      "row": "| in ætérnum |",
+      "text": "**Ps 109:4 *Tu es sacérdos in ætérnum* → *Tu és sacerdote para sempre*** — D23 held where it costs most. *Tu és sacerdote eternamente* is MS1932's wording and the Corpus Christi refrain of the CNBB lectionary (verified). **Flagged for Gustavo** (decision `aet`). No reader remarked, and the stylist named 109:4 the best line."
+    },
+    {
+      "row": "| déxtera |",
+      "text": "Ps 109:1a *Sede a dextris meis* → *Senta-te à minha direita*; 109:5 *a dextris tuis* → *à tua direita* (15:8's *à*)."
+    },
+    {
+      "row": "| torrens |",
+      "text": "Ps 109:7 *De torrénte in via bibet* → *Beberá da torrente no caminho*. The ambiguity reader listed *torrente* as unknown."
+    },
+    {
+      "row": "| inítio · princípium |",
+      "text": "**Ps 109:3 *Tecum princípium* → *Contigo está o princípio*.** *princípium* is here open between 'beginning' and 'dominion' (L&S, late sense, quoting Tertullian on ἀρχή). *principado* (DRB, MS1932) is the option. The ambiguity reader heard 'the beginning'; the Latinist passed it twice."
+    },
+    {
+      "row": "| dominári (+ gen.) |",
+      "text": "**Ps 109:2 *domináre* (imperative) → *domina tu*** (MS1932): the subject is named, because bare *domina* after *o Senhor enviará* can be heard as 'he rules'. The stylist asked for *tu, domina* (option). The ambiguity reader heard the imperative."
+    }
+  ],
+  "terms": [
+    "| conquassáre | esmagar (*esmagará as cabeças na terra de muitos*) | open | Ps 109:6, its only place in the psalter (grep of the DO Latin). συνθλάσει, the Greek of 109:5 *confrégit → quebrou*: kept apart because the Latin varies the verb in consecutive verses. Shares *esmagar* with contribuláre (73:13), which it never meets. *quebrará* and *despedaçará* are options. |",
+    "| lucíferum (*ante lucíferum*) | antes da estrela da manhã | open | Ps 109:3 (ἑωσφόρου). The concrete star is kept (rule 5). *Lúcifer* is the devil in Portuguese. *antes da aurora* (MS1932, DM1962, the CNBB lectionary, verified) is the familiar option. The ambiguity reader heard 'before daybreak', and some a Marian title. |",
+    "| implére ruínas | encher as ruínas | open | Ps 109:6 (πληρώσει πτώματα). The Latin's object is kept, 'he shall fill ruins' (DRB). *encher de ruínas* would need an ablative. The ambiguity reader heard filling or rebuilding, which is the Latin's own openness. The Latinist passed it twice. *encherá (tudo) de ruínas* (MS1932) is the option. |",
+    "| Melchísedech | Melquisedec | open | Ps 109:4. The spelling of the CNBB lectionary in this verse (verified) and of MS1932. *Melquisedeque* (DM1962) is the option. |"
+  ],
+  "formulas": [
+    "| *Dixit Dóminus Dómino meo: Sede a dextris meis: Donec ponam inimícos tuos, scabéllum pedum tuórum* (109:1; the Sunday Vespers antiphon *Dixit Dóminus * Dómino meo: Sede a dextris meis*, Psalmi major.txt, grep; quoted in the Gospels and Acts, not fetched) | *Disse o Senhor ao meu Senhor: * Senta-te à minha direita: Até que eu ponha os teus inimigos * por escabelo dos teus pés* | open — Ps 109; the CNBB lectionary's *Palavra do Senhor ao meu Senhor: Assenta-te ao lado meu direito* is a Hebrew-based paraphrase (verified) |",
+    "| *Tu es sacérdos in ætérnum secúndum órdinem Melchísedech* (109:4; Heb 5:6, 7:17 — not fetched) | *Tu és sacerdote para sempre, segundo a ordem de Melquisedec* | open — Ps 109; *eternamente* (MS1932, CNBB) is the option, for Gustavo (D23) |"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "21eb6c7ed144e95cc34253b5e1f860bcd5dee0dbf6293be70b7734b159a1df58",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T04:20:28+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"106:20\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"et erípuit eos de interitiónibus eórum\", \"portuguese\": \"e os arrancou da sua destruição\", \"problem\": \"Latin plural interitionibus is rendered as a singular.\", \"fix\": \"e os arrancou das suas destruições\"}]},\n{\"id\": \"106:34\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Terram fructíferam in salsúginem\", \"portuguese\": \"A terra frutífera em sal\", \"problem\": \"salsugo means saltness, salt ground, not 'salt'. Portuguese has the direct cognate.\", \"fix\": \"A terra frutífera em salsugem\"}]},\n{\"id\": \"106:37\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"et fecérunt fructum nativitátis\", \"portuguese\": \"e fizeram nascer fruto\", \"problem\": \"The genitive noun nativitatis ('fruit of birth', i.e. produce) becomes a verb. The sense survives, but the Latin's concrete phrase is paraphrased.\", \"fix\": \"e produziram fruto de nascimento\"}]}\n], \"overall\": \"A faithful, close rendering. It keeps the Latin's Septuagintal oddities, above all the refrain 'Que as suas misericórdias deem graças ao Senhor', where misericordiae is the subject. Only three minor points stand: a plural made singular (v. 20), 'sal' for salsugo (v. 34), and a paraphrase of fructum nativitatis (v. 37). The pointing marks match the Latin in every verse: one mediant each, no flex or second mediant.\"}\n"
+}

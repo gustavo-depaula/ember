@@ -1,0 +1,168 @@
+{
+  "psalm": 110,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "hour": "Sunday Vespers",
+  "verses": {
+    "110:1": "{confitebor}, Senhor, de todo o meu coração: * {congregatione}.",
+    "110:2": "Grandes são as obras do Senhor: * {exquisita} todas as suas vontades.",
+    "110:3": "{v3a}: * e a sua justiça permanece pelos séculos dos séculos.",
+    "110:4": "{memoriam} das suas maravilhas, † {dominus4}: * deu alimento aos que o temem.",
+    "110:5b": "{memor} para sempre da sua aliança: * anunciará ao seu povo o poder das suas obras:",
+    "110:7": "Para lhes dar a herança das nações: * as obras das suas mãos são verdade e juízo.",
+    "110:8": "Fiéis são todos os seus mandamentos: † confirmados pelos séculos dos séculos, * feitos em verdade e equidade.",
+    "110:9a": "Enviou redenção ao seu povo: * {mandavit} para sempre a sua aliança.",
+    "110:9b": "{reverentia} Santo e terrível é o seu nome: * {initium}.",
+    "110:10b": "{intellectus}: * o seu louvor permanece pelos séculos dos séculos."
+  },
+  "decisions": [
+    {
+      "id": "confitebor",
+      "refs": ["110:1"],
+      "latin": "Confitébor tibi, Dómine, in toto corde meo",
+      "kind": "glossary",
+      "why": "D5: *confitéri* said to God is *dar graças a*. The whole first colon is 9:2a word for word in the Latin (and 137:1), so it copies 9:2's Portuguese exactly: *Eu vos darei graças, Senhor, de todo o meu coração* (*in toto corde → de todo o coração*, the formula row). This is the opening of a Sunday Vespers psalm; the Brazilian Lectionary's stanza (CNBB, from the Hebrew; fetched, see liturgy-br.txt) begins *Eu agradeço a Deus de todo o coração* — the same verb family and the same *de todo o coração*, so the ear that knows the Mass psalm is not surprised. *Louvar* is refused under D5 (it is *laudáre*'s word; 110:10b *laudátio* in this psalm).",
+      "options": [
+        {"label": "Eu vos darei graças", "forms": {"confitebor": "Eu vos darei graças"}, "note": "Ruling: D5; = 9:2 word for word.", "from": "glossary"},
+        {"label": "Eu vos louvarei", "forms": {"confitebor": "Eu vos louvarei"}, "note": "MS1932 *Louvar-te-ei*, DRB *I will praise thee*; refused under D5 (collides with *laudátio → louvor* in 110:10b).", "from": "MS1932"},
+        {"label": "Eu vos confessarei", "forms": {"confitebor": "Eu vos confessarei"}, "note": "the cognate; refused under D5 (heard as professing faith, or opaque).", "from": "draft"}
+      ]
+    },
+    {
+      "id": "congregatione",
+      "refs": ["110:1"],
+      "latin": "in consílio justórum, et congregatióne",
+      "kind": "ambiguity",
+      "why": "The Latin names the just once and leaves *congregatióne* bare: whose congregation is not said (the Greek is the same, ἐν βουλῇ εὐθείων καὶ συναγωγῇ). Kept open, in the Latin's order, *congregação* by the *congregátio* row (61:9) and *conselho* by D33 (which names 110:1 as a deliberating body). MS1932 (*no conselho e na assembleia dos justos*) and DM1962 (from the Hebrew) move *dos justos* to govern both — that closes what the Latin leaves open, and spends *assembleia*, which is *ecclésia*'s (D34).",
+      "options": [
+        {"label": "no conselho dos justos, e na congregação", "forms": {"congregatione": "no conselho dos justos, e na congregação"}, "note": "Ruling: the Latin's order; the genitive stays with *consílio* only.", "from": "draft"},
+        {"label": "no conselho e na congregação dos justos", "forms": {"congregatione": "no conselho e na congregação dos justos"}, "note": "MS1932's build (with the row's *congregação*); smoother, but makes *justórum* govern both nouns.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "exquisita",
+      "refs": ["110:2"],
+      "latin": "exquisíta in omnes voluntátes ejus",
+      "kind": "word",
+      "why": "*Exquisíta* is the participle of *exquírere* ('sought out'; L&S also 'carefully devised, choice'); the Greek ἐξεζητημένα is the same. The glossary gives *exquírere → procurar* (Ps 118, 13:2), so the participle keeps the row: *procuradas*. *In omnes voluntátes ejus* (εἰς πάντα τὰ θελήματα αὐτοῦ): *in* + accusative, 'unto / according to all his wills' — DRB *according to*; the *ejus* is the Lord's (singular). *Segundo* is DRB's reading and the least forced Portuguese; it leaves open whether the works are sought out by men or wrought to suit God's wills, as the Latin does. The Hebrew's 'studied by all who delight in them' (DM1962 *contempladas por todos os que as amam*) is not followed (rule 1). The cognate *exquisitas* is 'odd' in Brazil and is refused.",
+      "options": [
+        {"label": "procuradas segundo", "forms": {"exquisita": "procuradas segundo"}, "note": "Ruling: the *exquírere* row; DRB 'sought out according to'.", "from": "glossary"},
+        {"label": "procuradas em", "forms": {"exquisita": "procuradas em"}, "note": "the Latin's *in* as bare *em*: more open, harder to parse aloud.", "from": "draft"},
+        {"label": "proporcionadas a", "forms": {"exquisita": "proporcionadas a"}, "note": "MS1932: the sense 'fitted to' made explicit — an interpretation of the participle.", "from": "MS1932"},
+        {"label": "buscadas segundo", "forms": {"exquisita": "buscadas segundo"}, "note": "*buscar* is *quǽrere*'s verb; refused for the row.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "v3a",
+      "refs": ["110:3"],
+      "latin": "Conféssio et magnificéntia opus ejus",
+      "kind": "glossary",
+      "why": "The noun *conféssio* is left open by D5; its twins 95:6 (*Conféssio, et pulchritúdo*) and 103:1b (*Confessiónem, et decórem*) both ruled *confissão* — the Latin's word and its range (praise confessed; for some readers sin confessed), and the noun of the verb that opens this very psalm (ἐξομολογέομαι / ἐξομολόγησις). Followed, so that the three attribute-pairs read alike. *Magnificéntia → magnificência* (row; 95:6 has it too). Order: the Latin puts the predicate first and has no verb; the copula is supplied (D2) and the Latin's order kept, so that the line begins, like 95:6, on *Confissão*. The cost, as at 95:6: *confissão* is heard first as the sacrament. MS1932 *A sua obra é glória e magnificência* and the Lectionary *Que beleza e esplendor são os seus feitos* go their own ways.",
+      "options": [
+        {"label": "Confissão e magnificência é a sua obra", "forms": {"v3a": "Confissão e magnificência é a sua obra"}, "note": "Ruling: the noun of 95:6 / 103:1b; Latin order; copula supplied.", "from": "glossary"},
+        {"label": "A sua obra é confissão e magnificência", "forms": {"v3a": "A sua obra é confissão e magnificência"}, "note": "plain order (MS1932's, DRB's): subject first.", "from": "MS1932"},
+        {"label": "Louvor e magnificência é a sua obra", "forms": {"v3a": "Louvor e magnificência é a sua obra"}, "note": "DRB *praise*; refused: *louvor* is *laudátio*'s in 110:10b (and *laus*'s), and breaks the twin rulings.", "from": "DRB"},
+        {"label": "Glória e magnificência é a sua obra", "forms": {"v3a": "Glória e magnificência é a sua obra"}, "note": "MS1932's noun; refused: *glória* is *glória*'s.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "memoriam",
+      "refs": ["110:4"],
+      "latin": "Memóriam fecit mirabílium suórum",
+      "kind": "word",
+      "why": "The Latin's noun and light verb: *memóriam fecit* (μνείαν ἐποιήσατο). *Fez memória de* is living Brazilian church speech ('to make memory of, commemorate'), keeps both words and leaves open, as the Latin does, whether he himself remembers or leaves a remembrance to men. *memória* is the row's word (29:5, 96:12); *memorial* is *memoriále*'s (101:13) and is kept apart. *mirabília → maravilhas* (9:2 and passim). The Lectionary has *nos deixou a lembrança de suas grandes maravilhas*.",
+      "options": [
+        {"label": "Fez memória", "forms": {"memoriam": "Fez memória"}, "note": "Ruling: both Latin words kept.", "from": "draft"},
+        {"label": "Deixou memória", "forms": {"memoriam": "Deixou memória"}, "note": "closes it towards the remembrance left to men (the Lectionary's *deixou a lembrança*).", "from": "draft"},
+        {"label": "Instituiu um memorial", "forms": {"memoriam": "Instituiu um memorial"}, "note": "MS1932; spends *memoriále*'s word and interprets *fecit*.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "dominus4",
+      "refs": ["110:4"],
+      "latin": "miséricors et miserátor Dóminus",
+      "kind": "grammar",
+      "why": "The pair of 85:15 and 102:8 (*miserátor → compassivo*, *miséricors → misericordioso*, the row), here in the other order, which is kept: *misericordioso e compassivo*. The Latin has no verb; DRB reads the words as in apposition to the subject of *fecit* ('being a merciful and gracious Lord'), and so does the ruling: *o Senhor misericordioso e compassivo* names the subject of *Fez memória* and *deu alimento* without supplying anything. 102:8's build (*Compassivo e misericordioso é o Senhor*) stands alone there, where there is no verb to hang the subject on; here the copula would make the middle colon a sentence of its own and cut the subject from both verbs.",
+      "options": [
+        {"label": "o Senhor misericordioso e compassivo", "forms": {"dominus4": "o Senhor misericordioso e compassivo"}, "note": "Ruling: apposition, nothing supplied; DRB.", "from": "draft"},
+        {"label": "misericordioso e compassivo é o Senhor", "forms": {"dominus4": "misericordioso e compassivo é o Senhor"}, "note": "102:8's build, copula supplied; a verbless exclamation made a clause.", "from": "glossary"},
+        {"label": "ele que é misericordioso e compassivo, o Senhor", "forms": {"dominus4": "ele que é misericordioso e compassivo, o Senhor"}, "note": "MS1932's relative (*ele que é misericordioso e compassivo*); explains, and too long for the colon.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "memor",
+      "refs": ["110:5b"],
+      "latin": "Memor erit in sǽculum testaménti sui",
+      "kind": "grammar",
+      "why": "*memor esse* → *lembrar-se de* (row); *in sǽculum → para sempre* (D23); *testaméntum → aliança* (row). The subject is named with proclisis, as the row did at 86:4 (*Eu me lembrarei*), to avoid the mesóclise *Lembrar-se-á* at the head of a verse; the future is the Latin's (*erit*; the Lectionary's refrain *O Senhor se lembra sempre da aliança* is a present from the Hebrew). 104:8 (*Memor fuit in sǽculum testaménti sui*, being translated in parallel) should read *Lembrou-se para sempre da sua aliança* in the same words, past for past.",
+      "options": [
+        {"label": "Ele se lembrará", "forms": {"memor": "Ele se lembrará"}, "note": "Ruling: subject named, proclisis (the row, 86:4).", "from": "glossary"},
+        {"label": "Lembrar-se-á", "forms": {"memor": "Lembrar-se-á"}, "note": "MS1932; the mesóclise, correct but bookish at the head of a verse.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "mandavit",
+      "refs": ["110:9a"],
+      "latin": "mandávit in ætérnum testaméntum suum",
+      "kind": "glossary",
+      "why": "*mandáre* with a thing as object is *ordenar* in the finished psalms (32:9 *ele ordenou*, 43:5 *que ordenais as salvações de Jacó*, and 104:8 in draft *da palavra que ordenou*). *Mandou* would keep the echo of 110:8 *mandáta → mandamentos*, but in Brazil *mandar* + a thing is heard first as 'sent' — and it would stand beside *Enviou* in the same verse, making two sendings of one. *in ætérnum → para sempre* (D23). MS1932 and DM1962 *estabeleceu* interpret.",
+      "options": [
+        {"label": "ordenou", "forms": {"mandavit": "ordenou"}, "note": "Ruling: the finished psalms' verb for *mandáre* + thing.", "from": "glossary"},
+        {"label": "mandou", "forms": {"mandavit": "mandou"}, "note": "keeps the root of 110:8 *mandamentos*; heard as 'sent' beside *Enviou*.", "from": "draft"},
+        {"label": "estabeleceu", "forms": {"mandavit": "estabeleceu"}, "note": "MS1932, DM1962; another verb's meaning.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "reverentia",
+      "refs": ["110:9b"],
+      "latin": "(fit reverentia)",
+      "kind": "glossary",
+      "why": "DO's text carries the rubric *(fit reverentia)* before *Sanctum, et terríbile nomen ejus* (a bow at the holy name). The glossary row (Ps 67:5a) keeps it translated in parentheses, *(faz-se reverência)*, and asks Gustavo whether rubrics are kept or dropped (also 112:2). Followed as the row stands; it is not prayed aloud. Inline verse markers *(10a)* are not reproduced.",
+      "options": [
+        {"label": "(faz-se reverência) Santo", "forms": {"reverentia": "(faz-se reverência)"}, "note": "Ruling: the row, as 67:5a.", "from": "glossary"},
+        {"label": "dropped", "forms": {"reverentia": ""}, "note": "no rubric in the prayed text (the ambiguity reader of Ps 67 noted it would be heard if read aloud).", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "initium",
+      "refs": ["110:9b"],
+      "latin": "inítium sapiéntiæ timor Dómini",
+      "kind": "glossary",
+      "why": "Two questions. (1) The word: the *inítium* row gives *início* (kept apart from *princípium → princípio*, 118:152/160). Here it departs from the row: *O temor do Senhor é o princípio da sabedoria* is one of the best-known lines of Scripture in Portuguese — MS1932 and DM1962 (parallels file) both have exactly these words, as do the Almeida Bibles for Ps 111:10 (fetched, liturgy-br.txt) — and this psalm has no *princípium* to be kept apart from; ἀρχή is the Greek of both Latin words, so D15's test allows it (77:2 *ab inítio → desde o princípio* already departs from the row). (2) The order: the Latin is verbless with the predicate first; the copula is supplied and the subject put first (D2: natural order), which is also the order every Portuguese witness has and ends the colon on *sabedoria*, where the Latin's *Dómini* is replaced by a paroxytone.",
+      "options": [
+        {"label": "o temor do Senhor é o princípio da sabedoria", "forms": {"initium": "o temor do Senhor é o princípio da sabedoria"}, "note": "Ruling: MS1932, DM1962 word for word; the known line.", "from": "MS1932"},
+        {"label": "o princípio da sabedoria é o temor do Senhor", "forms": {"initium": "o princípio da sabedoria é o temor do Senhor"}, "note": "the Latin's order (predicate first).", "from": "draft"},
+        {"label": "o temor do Senhor é o início da sabedoria", "forms": {"initium": "o temor do Senhor é o início da sabedoria"}, "note": "the *inítium* row's word; loses the known line for a distinction this psalm does not need.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "intellectus",
+      "refs": ["110:10b"],
+      "latin": "Intelléctus bonus ómnibus faciéntibus eum",
+      "kind": "grammar",
+      "why": "Verbless, with a dative of possession: 'good understanding [is] to all who do it'. *têm* is supplied, the plainest Portuguese for the dative of possession (grammar, D2). *intelléctus → entendimento* (row, 31:8–9). *eum* is masculine in the Latin (the Greek has αὐτήν, wisdom): it can refer to *timor* or to *intelléctus*; Portuguese *o* is masculine too and keeps both open. *fácere* → *praticar*: *fazer o temor* is not Portuguese; *praticar* is *operári*'s verb elsewhere, but *operári* is not in this psalm (DM1962 *os que o praticam*, from the Hebrew, for rhythm only). MS1932 *São sábios todos aqueles que procedem segundo este temor* glosses.",
+      "options": [
+        {"label": "Bom entendimento têm todos os que o praticam", "forms": {"intellectus": "Bom entendimento têm todos os que o praticam"}, "note": "Ruling: *têm* supplied; *o* left open between temor and entendimento.", "from": "draft"},
+        {"label": "Bom entendimento é para todos os que o praticam", "forms": {"intellectus": "Bom entendimento é para todos os que o praticam"}, "note": "keeps the dative as *para*; copula supplied instead.", "from": "draft"},
+        {"label": "Bom entendimento têm todos os que o fazem", "forms": {"intellectus": "Bom entendimento têm todos os que o fazem"}, "note": "the Latin's light verb; *fazer o temor* is heard as nothing.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "110:1": "Soft flag accepted: *coração / congregação* rhyme at mediant and final, which the Latin (*meo / congregatióne*) does not have. Both words are fixed by rulings — the first colon copies 9:2a (D5 formula), *congregação* is the *congregátio* row — and the only escapes are to reorder the Latin's two nouns or to spend *assembleia* (*ecclésia*'s, D34). Left for the stylist's ear.",
+    "110:2": "*Grandes são as obras do Senhor*: copula supplied (D2); MS1932 word for word. *voluntátes* plural kept (*vontades*, as 15:3 *todas as minhas vontades*).",
+    "110:3": "The second colon *e a sua justiça permanece pelos séculos dos séculos* is repeated in 110:10b with *o seu louvor*, as the Latin repeats *manet in sǽculum sǽculi*; *pelos séculos dos séculos* (D27) ends on a proparoxytone, as *sǽculi* does.",
+    "110:4": "*escam dedit timéntibus se → deu alimento aos que o temem*: *esca* given → *alimento* (the *esca* row; 103:27); MS1932 word for word.",
+    "110:5b": "*virtútem óperum suórum annuntiábit pópulo suo* → *anunciará ao seu povo o poder das suas obras*: *annuntiáre → anunciar* (D41), *virtus → poder* (row); the Latin's future kept (the Greek's aorist ἀνήγγειλεν is not followed, rule 1); natural order puts the indirect object first. The verse ends in a colon, as the Latin does, because 110:7 continues it.",
+    "110:7": "*Ut det illis → Para lhes dar* (purpose; proclisis after *para*). *véritas, et judícium → verdade e juízo*: the rows (*juízo*, not the Lectionary's *justiça*, which is *justítia*'s, 110:3). Copula supplied.",
+    "110:8": "*Fidélia → Fiéis são* (copula supplied, the Latin's order); *confirmáta → confirmados* (the *confirmáre* row: with things as object the cognate is right; the Lectionary has *confirmados* too); *in veritáte et æquitáte → em verdade e equidade*, no articles, as the Latin (*equidade* is the row's word, noted unknown by some readers; kept). The mediant falls on *séculos* (proparoxytone), as the Latin's *sǽculi*: the formula is not bent for the cadence.",
+    "110:9a": "*Redemptiónem → redenção* (the *redímere* row: the noun keeps the Christian word), without an article as the Latin; MS1932 *a redenção*. *misit → Enviou*.",
+    "110:9b": "*Sanctum, et terríbile nomen ejus → Santo e terrível é o seu nome*: *terríbilis → terrível* (D43; the row names 110:9), the Latin's order, copula supplied; MS1932 word for word."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps110.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Rows applied: D5 *dar graças* (110:1 copies 9:2a), D33 *conselho*, *congregátio → congregação*, *exquírere → procurar*, *conféssio → confissão* (95:6, 103:1b), *magnificência*, *miséricors / miserátor* (85:15, 102:8), *memor esse*, D23, *testaméntum → aliança*, D41, *virtus → poder*, *juízo*, *mandáta → mandamentos*, *equidade*, *redenção*, *mandáre → ordenar* (32:9, 43:5), D43 *terrível*, *intelléctus → entendimento*, D27 *pelos séculos dos séculos*, the *(fit reverentia)* row. Departure: *inítium → princípio* in the known line (decision `initium`). Brazilian liturgical circulation checked (liturgy-br.txt): the CNBB Lectionary's psalm 110(111) — *Eu agradeço a Deus de todo o coração*, refrain *O Senhor se lembra sempre da aliança* — is from the Hebrew and paraphrastic; used only to confirm that *dar graças … de todo o coração*, *alimento aos que o temem* and *confirmados* are what the ear knows. The CNBB Liturgia das Horas page could not be fetched."},
+    {"step": "checks", "note": "Hard checks pass (ids 110:1–10b, every † and *). Soft flags, all accepted: 110:1 rhyme *coração / congregação* (see choices); 110:3b and 110:10b the formula *pelos séculos dos séculos* (+4, +2); 110:4 first colon −3 and middle colon +3 (they balance; the pair of adjectives is fixed by the row); 110:5b first colon +3 (the subject named, D2); 110:9b second colon +3 (the known line, decision `initium`)."}
+  ]
+}

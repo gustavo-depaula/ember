@@ -1,0 +1,966 @@
+{
+  "psalm": 108,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "108:2": "Deus, {tacueris}: * porque a boca do pecador e a boca do enganador se abriram {superme}.",
+    "108:3": "Falaram contra mim com língua enganadora, e com palavras de ódio me cercaram: * e me combateram sem motivo.",
+    "108:4": "Em vez de me amarem, me difamavam: * eu, porém, orava.",
+    "108:5": "E puseram contra mim {pro1}: * e ódio {pro2}.",
+    "108:6": "Estabelecei sobre ele um pecador: * e {diabolus} {stet} à sua direita.",
+    "108:7": "Quando for julgado, saia condenado: * e a sua oração se torne pecado.",
+    "108:8": "{fiant8} poucos os seus dias: * e outro receba {episcopatum}.",
+    "108:9": "{fiant9} órfãos os seus filhos: * e a sua mulher, viúva.",
+    "108:10": "{nutantes} os seus filhos, e mendiguem: * e sejam lançados fora das suas habitações.",
+    "108:11": "{fenerator} {scrutetur} {substantia}: * e estranhos saqueiem os seus trabalhos.",
+    "108:12": "Não haja {adjutor}: * nem haja quem tenha piedade dos seus órfãos.",
+    "108:13": "{fiant13} {nati} {interitum}: * numa só geração se apague o seu nome.",
+    "108:14": "Volte à memória a iniquidade dos seus pais à vista do Senhor: * e não se apague o pecado da sua mãe.",
+    "108:15": "Estejam sempre {contradom}, e da terra {dispereat} a memória deles: * porque não se lembrou de fazer misericórdia.",
+    "108:17": "E perseguiu o homem carente, e mendigo, * e o compungido de coração, para lhe dar a morte.",
+    "108:18": "E amou a maldição, e ela lhe virá: * e não quis a bênção, e ela ficará longe dele.",
+    "108:18b": "E vestiu a maldição como uma veste, * e {intravit} como água nas suas {interiora}, e como {oleum1} nos seus ossos.",
+    "108:19": "Seja para ele como a veste com que se cobre: * e como o cinto com que sempre se cinge.",
+    "108:20": "Esta é {opus} dos que me difamam junto do Senhor: * e dos que falam males contra a minha alma.",
+    "108:21": "E vós, Senhor, Senhor, {facmecum} por causa do vosso nome: * porque é suave a vossa misericórdia.",
+    "108:22": "Livrai-me, porque eu sou necessitado e pobre: * e o meu coração está perturbado dentro de mim.",
+    "108:23": "Como a sombra quando declina, {ablatus}: * e fui sacudido como os gafanhotos.",
+    "108:24": "Os meus joelhos enfraqueceram pelo jejum: * e a minha carne foi mudada {propteroleum} {oleum2}.",
+    "108:25": "E eu me tornei uma afronta para eles: * viram-me, e moveram as suas cabeças.",
+    "108:26": "Auxiliai-me, Senhor, meu Deus: * salvai-me segundo a vossa misericórdia.",
+    "108:27": "E saibam que esta é a vossa mão: * {eam}.",
+    "108:28": "{maledicent}: * sejam envergonhados os que se levantam contra mim: mas o vosso servo se alegrará.",
+    "108:29": "Vistam-se de desonra os que me difamam: * e sejam cobertos da sua vergonha como de {diplois}.",
+    "108:30": "{nimis}: * e no meio de muitos o louvarei.",
+    "108:31": "Porque se pôs à direita do pobre, * para salvar a minha alma {persequentibus}."
+  },
+  "decisions": [
+    {
+      "id": "tacueris",
+      "refs": [
+        "108:2"
+      ],
+      "latin": "Deus, laudem meam ne tacúeris",
+      "kind": "ambiguity",
+      "why": "*tacére* with an object is 'to pass over in silence' (μὴ παρασιωπήσῃς). *laudem meam* is open: the praise I give God, or my good name that God should speak for (MS1932's note: 'do not cease to show my innocence'). The transitive *calar* keeps both ('calar a verdade' = keep the truth unsaid) in the Latin's three words. The glossary's reflexive *calar-se* (tacére, 27:1, 31:3, 49:20) needs a preposition here, and *sobre* adds a word the Latin lacks. DRB 'be not thou silent in thy praise'; MS1932 *não cales o meu louvor*.",
+      "options": [
+        {
+          "label": "não caleis o meu louvor",
+          "forms": {
+            "tacueris": "não caleis o meu louvor"
+          },
+          "note": "draft — transitive *calar*, as MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "não vos caleis sobre o meu louvor",
+          "forms": {
+            "tacueris": "não vos caleis sobre o meu louvor"
+          },
+          "note": "the row's reflexive verb; adds *sobre*",
+          "from": "glossary"
+        },
+        {
+          "label": "não deixeis em silêncio o meu louvor",
+          "forms": {
+            "tacueris": "não deixeis em silêncio o meu louvor"
+          },
+          "note": "the Greek's 'pass over in silence' made explicit; longer"
+        },
+        {
+          "label": "não vos caleis ao meu louvor",
+          "forms": {
+            "tacueris": "não vos caleis ao meu louvor"
+          },
+          "note": "v2 Latinist minor: God not silent toward the one who praises; the calar-se row",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "superme",
+      "refs": [
+        "108:2"
+      ],
+      "latin": "super me apértum est",
+      "kind": "word",
+      "why": "*super* (place) → *sobre* is the glossary's row, and the image is of mouths gaping over the speaker. DRB and MS1932 read it as hostility, 'against me' (ἐπ᾿ ἐμέ can mean both). *sobre mim* holds both; *contra mim* would also merge it with *advérsum me* in 108:3 and 108:5. The Latin's singular *apértum est* with two subjects becomes the plural, which is Portuguese grammar.",
+      "options": [
+        {
+          "label": "sobre mim",
+          "forms": {
+            "superme": "sobre mim"
+          },
+          "note": "draft — the row's *sobre*",
+          "from": "draft"
+        },
+        {
+          "label": "contra mim",
+          "forms": {
+            "superme": "contra mim"
+          },
+          "note": "DRB 'against me', MS1932; merges with *advérsum me*",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "pro",
+      "refs": [
+        "108:5"
+      ],
+      "latin": "mala pro bonis: * et ódium pro dilectióne mea",
+      "kind": "word",
+      "why": "*mala pro bonis* is word for word 37:21 (*retribuem males por bens*), so the first colon copies it (rule 6). The second *pro* is kept as *por* too, so that the Latin's repetition stays and the verse reads as one exchange twice. The risk: *ódio pelo meu amor* taken alone could be heard as 'hatred of my love'; after *males por bens* the exchange should be heard. MS1932 has *em troca de* in both colons; that is the option if a reader mishears.",
+      "options": [
+        {
+          "label": "por … pelo",
+          "forms": {
+            "pro1": "males por bens",
+            "pro2": "pelo meu amor"
+          },
+          "note": "draft — 37:21's wording, the repetition kept",
+          "from": "draft"
+        },
+        {
+          "label": "por … em troca do",
+          "forms": {
+            "pro1": "males por bens",
+            "pro2": "em troca do meu amor"
+          },
+          "note": "the second colon unambiguous; the repetition lost"
+        },
+        {
+          "label": "em troca de … em troca do",
+          "forms": {
+            "pro1": "males em troca de bens",
+            "pro2": "em troca do meu amor"
+          },
+          "note": "MS1932; the repetition kept, 37:21 left",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "diabolus",
+      "refs": [
+        "108:6"
+      ],
+      "latin": "et diábolus stet a dextris ejus",
+      "kind": "word",
+      "why": "The Latin carries the Greek διάβολος over as a name, as a Latin ear hears it: 'the devil' (DRB). The Greek also means 'slanderer, accuser' (Hebrew *satan*, 'adversary'), and the Greek ties it to ἐνδιαβάλλω in 108:4, 20, 29. The Latin does not make that tie (it has *detráhere* there), and an 'accuser' would read the Hebrew into the Latin. So *o diabo*. MS1932's *o demônio* is another word (*dæmónium*, 95:5).",
+      "options": [
+        {
+          "label": "o diabo",
+          "forms": {
+            "diabolus": "o diabo"
+          },
+          "note": "draft — the Latin's word; DRB 'the devil'",
+          "from": "draft"
+        },
+        {
+          "label": "o demônio",
+          "forms": {
+            "diabolus": "o demônio"
+          },
+          "note": "MS1932; *dæmónium*'s word",
+          "from": "MS1932"
+        },
+        {
+          "label": "o acusador",
+          "forms": {
+            "diabolus": "o acusador"
+          },
+          "note": "the Greek word's first sense and the Hebrew's; interprets the Latin"
+        }
+      ]
+    },
+    {
+      "id": "stet",
+      "refs": [
+        "108:6"
+      ],
+      "latin": "stet a dextris ejus",
+      "kind": "glossary",
+      "why": "The *stare* row gives *estar de pé*, and the posture matters: the accuser stood at the right hand in court. But *esteja de pé à sua direita* makes the colon 16 syllables against the Latin's 10, and the jussive *esteja* with *à direita* already says where he stands. MS1932 *esteja o demônio à sua direita*. The row's full form is the option.",
+      "options": [
+        {
+          "label": "esteja",
+          "forms": {
+            "stet": "esteja"
+          },
+          "note": "draft — MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "esteja de pé",
+          "forms": {
+            "stet": "esteja de pé"
+          },
+          "note": "the *stare* row; +3 syllables",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "fiant",
+      "refs": [
+        "108:8",
+        "108:9",
+        "108:13"
+      ],
+      "latin": "Fiant dies ejus pauci … Fiant fílii ejus órphani … Fiant nati ejus in intéritum",
+      "kind": "grammar",
+      "why": "Three verses open on *Fiant*, and the Portuguese opens all three on *Sejam* so that the anaphora stays (rule 2). The glossary's row for *fíeri* + adjective asks for *tornar-se* (19:4, a Latinist major against *seja*). Here the verb is a curse, and *Sejam poucos os seus dias* is heard as 'may they become few'. *Tornem-se* would be exact, but it is heavy three times running, and *Tornem-se órfãos os seus filhos* is not how Portuguese says it. MS1932 varies (*Sejam abreviados … Fiquem … Sejam exterminados*). 108:15 *Fiant contra Dóminum* is a place, so it takes *Estejam*.",
+      "options": [
+        {
+          "label": "Sejam ×3",
+          "forms": {
+            "fiant8": "Sejam",
+            "fiant9": "Sejam",
+            "fiant13": "Sejam"
+          },
+          "note": "draft — the anaphora kept",
+          "from": "draft"
+        },
+        {
+          "label": "Tornem-se … Fiquem … Sejam",
+          "forms": {
+            "fiant8": "Tornem-se",
+            "fiant9": "Fiquem",
+            "fiant13": "Sejam"
+          },
+          "note": "the becoming spelled out; the anaphora lost",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "episcopatum",
+      "refs": [
+        "108:8"
+      ],
+      "latin": "et episcopátum ejus accípiat alter",
+      "kind": "word",
+      "why": "The Latin's word is *episcopátus* (Lewis & Short: 'the office and dignity of a bishop', citing this verse), and this is the line St Peter applies to Judas in Acts 1:20 (in the Vulgate: *episcopatum eius accipiat alter*). The Greek ἐπισκοπή is 'office of oversight'. *O seu episcopado* keeps the Latin's word and the apostolic reading the Church gave it; DRB keeps 'bishopric'. A Brazilian ear will find it pointed, and the Latin is pointed too. *cargo* is plain and loses the word; MS1932's *ministério* interprets.",
+      "options": [
+        {
+          "label": "o seu episcopado",
+          "forms": {
+            "episcopatum": "o seu episcopado"
+          },
+          "note": "draft — the Latin's word; DRB 'bishopric'",
+          "from": "draft"
+        },
+        {
+          "label": "o seu cargo",
+          "forms": {
+            "episcopatum": "o seu cargo"
+          },
+          "note": "the Greek's plain sense"
+        },
+        {
+          "label": "o seu ministério",
+          "forms": {
+            "episcopatum": "o seu ministério"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "nutantes",
+      "refs": [
+        "108:10"
+      ],
+      "latin": "Nutántes transferántur fílii ejus",
+      "kind": "word",
+      "why": "*nutáre* is to sway, totter, waver (L&S); the Greek is σαλευόμενοι, the root that 54:23 *fluctuátio* already renders as *vacilar*. *transférre → transportar* is settled (D43). The participle stays at the head, as in the Latin. DRB 'carried about vagabonds' and MS1932 *Andem vagabundos dum lugar para outro* read the Hebrew's wandering into it, and they drop *transférre*. v2: the stylist found the detached participle at the head made the colon stumble. The verb now leads and the participle follows between commas; D43 *transportar* is kept (the stylist's *levados* is addúcere's verb, D42).",
+      "options": [
+        {
+          "label": "Sejam transportados, vacilantes,",
+          "forms": {
+            "nutantes": "Sejam transportados, vacilantes,"
+          },
+          "note": "v2 — the verb first (stylist); D43 kept",
+          "from": "stylist"
+        },
+        {
+          "label": "Vacilantes, sejam transportados",
+          "forms": {
+            "nutantes": "Vacilantes, sejam transportados"
+          },
+          "note": "v1 draft — the Latin order; stumbles at the head",
+          "from": "draft"
+        },
+        {
+          "label": "Sejam levados daqui para ali, vacilantes,",
+          "forms": {
+            "nutantes": "Sejam levados daqui para ali, vacilantes,"
+          },
+          "note": "plainer verb for persons; adds 'from here to there'; breaks D43"
+        },
+        {
+          "label": "Andem errantes de um lugar para outro",
+          "forms": {
+            "nutantes": "Andem errantes de um lugar para outro"
+          },
+          "note": "MS1932's sense; the Hebrew's wandering; drops *transférre*",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scrutetur",
+      "refs": [
+        "108:11"
+      ],
+      "latin": "Scrutétur",
+      "kind": "glossary",
+      "why": "*scrutári → sondar* is the row (7:10, 63:7, Ps 118). Here it is a creditor searching out every last possession. *Sonde* keeps the row. *Esquadrinhe* is more vivid for the ransacking, and the row lists it as its option; MS1932 has *dê caça a*. v2: follows the subject (see fenerator).",
+      "options": [
+        {
+          "label": "Sonde",
+          "forms": {
+            "scrutetur": "sonde"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "Esquadrinhe",
+          "forms": {
+            "scrutetur": "esquadrinhe"
+          },
+          "note": "the row's option; closer to 'ransack'"
+        }
+      ]
+    },
+    {
+      "id": "fenerator",
+      "refs": [
+        "108:11"
+      ],
+      "latin": "fænerátor",
+      "kind": "word",
+      "why": "Lewis & Short: 'one who lends on interest, a money-lender … with an odious secondary idea, a usurer'. *usura → usura* is the glossary's row (14:5), and *o usurário* keeps the family. MS1932 and DRB ('userer') have the same word. *o credor* is plainer and loses the odium the Latin word has. v2: the ambiguity reader heard *Sonde o usurário* as an imperative (\"probe the usurer\"). The subject now comes first, so the jussive is heard, and the colon matches the second (*e estranhos saqueiem*).",
+      "options": [
+        {
+          "label": "o usurário",
+          "forms": {
+            "fenerator": "O usurário"
+          },
+          "note": "draft — MS1932, DRB; the usura row's family",
+          "from": "draft"
+        },
+        {
+          "label": "o credor",
+          "forms": {
+            "fenerator": "O credor"
+          },
+          "note": "plainer; loses the odium"
+        }
+      ]
+    },
+    {
+      "id": "substantia",
+      "refs": [
+        "108:11"
+      ],
+      "latin": "omnem substántiam ejus",
+      "kind": "glossary",
+      "why": "D39 names this verse: *substántia* here is property, and it is decided locally (the row's *o meu ser* is for a person's being). The Greek πάντα ὅσα ὑπάρχει αὐτῷ is 'all that he has'. *todos os seus bens* is MS1932's wording; DRB's 'all his substance' is the old English sense of property, and Portuguese *substância* does not carry it.",
+      "options": [
+        {
+          "label": "todos os seus bens",
+          "forms": {
+            "substantia": "todos os seus bens"
+          },
+          "note": "draft — D39's note for this verse; MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "toda a sua substância",
+          "forms": {
+            "substantia": "toda a sua substância"
+          },
+          "note": "the cognate; heard as chemistry"
+        }
+      ]
+    },
+    {
+      "id": "adjutor",
+      "refs": [
+        "108:12"
+      ],
+      "latin": "Non sit illi adjútor",
+      "kind": "glossary",
+      "why": "*adjútor → auxílio* is the row (open, for Gustavo; uniform in 14 places). Here the Latin is 'let there be no helper for him'. *Não haja auxílio para ele* keeps the row and the Latin's *sit … sit* repetition (*Não haja … nem haja*). The Latinist has asked for the agent noun in other psalms; *quem o auxilie* makes the person audible and matches the second colon's *quem tenha piedade*. v2: the Latinist and the stylist both asked for the person. *quem o auxilie* keeps the row's verb, makes the helper audible and gives the Latin's *Non sit … nec sit qui* its parallel; *illi* is carried by *o*. A local departure from the open row.",
+      "options": [
+        {
+          "label": "quem o auxilie",
+          "forms": {
+            "adjutor": "quem o auxilie"
+          },
+          "note": "v2 — Latinist + stylist; parallels *quem tenha piedade*",
+          "from": "latinist"
+        },
+        {
+          "label": "auxílio para ele",
+          "forms": {
+            "adjutor": "auxílio para ele"
+          },
+          "note": "v1 draft — the row; abstract",
+          "from": "glossary"
+        },
+        {
+          "label": "para ele auxiliador",
+          "forms": {
+            "adjutor": "para ele auxiliador"
+          },
+          "note": "the agent noun; rare in speech"
+        }
+      ]
+    },
+    {
+      "id": "nati",
+      "refs": [
+        "108:13"
+      ],
+      "latin": "Fiant nati ejus in intéritum",
+      "kind": "word",
+      "why": "The Latin varies *fílii* (108:9, 108:10) and *nati* (108:13), as the Greek does (υἱοί / τέκνα). Portuguese has no plain pair: *os que dele nasceram* keeps the root but adds four syllables, and *prole* and *descendência* are taken or learned (D32 *semen → descendência*). So *os seus filhos*, the merge DRB avoids ('posterity') and MS1932 makes. *in intéritum* is 'into destruction' (*intéritus → destruição*, the row). A bare *Sejam para a destruição* is ambiguous in Portuguese (it can mean 'for destroying others'), so *entregues à* is supplied, as 43:22b's *somos entregues à morte* supplied it for *mortificámur*. MS1932 *Sejam exterminados* turns the noun into a verb.",
+      "options": [
+        {
+          "label": "os seus filhos … entregues à destruição",
+          "forms": {
+            "nati": "os seus filhos",
+            "interitum": "entregues à destruição"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "os que dele nasceram … para a destruição",
+          "forms": {
+            "nati": "os que dele nasceram",
+            "interitum": "para a destruição"
+          },
+          "note": "the root of *nati* kept, no participle supplied; +3 syllables"
+        },
+        {
+          "label": "exterminados … os seus filhos",
+          "forms": {
+            "nati": "os seus filhos",
+            "interitum": "exterminados"
+          },
+          "note": "MS1932; *intéritus* made a verb",
+          "from": "MS1932"
+        },
+        {
+          "label": "os seus filhos … votados à destruição",
+          "forms": {
+            "nati": "os seus filhos",
+            "interitum": "votados à destruição"
+          },
+          "note": "v2 Latinist minor: no act of handing over",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "contradom",
+      "refs": [
+        "108:15"
+      ],
+      "latin": "Fiant contra Dóminum semper",
+      "kind": "word",
+      "why": "*contra* here is 'facing' (ἔναντι κυρίου, 'before the Lord'), as at 50:5 *contra me*, which D44 settled as *diante de mim*. *contra o Senhor* would be heard as 'against the Lord', a wrong sense. The subject is left unnamed, as in the Latin: the sins of 108:14, or the fathers and mother. MS1932 supplies *(os seus crimes)* as a gloss.",
+      "options": [
+        {
+          "label": "diante do Senhor",
+          "forms": {
+            "contradom": "diante do Senhor"
+          },
+          "note": "draft — D44's *contra* = ἐνώπιον; DRB 'before the lord'",
+          "from": "draft"
+        },
+        {
+          "label": "perante o Senhor",
+          "forms": {
+            "contradom": "perante o Senhor"
+          },
+          "note": "the same sense; keeps it apart from other *diante de*"
+        }
+      ]
+    },
+    {
+      "id": "intravit",
+      "refs": [
+        "108:18b"
+      ],
+      "latin": "et intrávit sicut aqua in interióra ejus",
+      "kind": "ambiguity",
+      "why": "The Latin leaves the subject of *intrávit* unexpressed. It is the curse he put on, and MS1932 names it (*e ela penetrou*). Portuguese can leave it unexpressed too, and the sense still comes through from *vestiu a maldição*. Kept unexpressed, so as not to add a word the Latin lacks. If a reader hears 'he entered', *ela entrou* is the fix.",
+      "options": [
+        {
+          "label": "entrou",
+          "forms": {
+            "intravit": "entrou"
+          },
+          "note": "draft — subject unexpressed, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "ela entrou",
+          "forms": {
+            "intravit": "ela entrou"
+          },
+          "note": "the curse named as subject, as MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "interiora",
+      "refs": [
+        "108:18b"
+      ],
+      "latin": "in interióra ejus",
+      "kind": "glossary",
+      "why": "The Greek is εἰς τὰ ἔγκατα αὐτοῦ, the same word the Greek has at 50:12 *in viscéribus meis*, which D44 settled as *entranhas*. By D15's test (one Greek word, one Portuguese word) *interióra* joins it. MS1932 and DRB also have entrails. The literal *no seu interior* is abstract where the Latin is bodily, beside *ossos*.",
+      "options": [
+        {
+          "label": "entranhas",
+          "forms": {
+            "interiora": "entranhas"
+          },
+          "note": "draft — D44 víscera's word (same Greek); MS1932, DRB",
+          "from": "draft"
+        },
+        {
+          "label": "interior",
+          "forms": {
+            "interiora": "interior"
+          },
+          "note": "the cognate, needing *no seu*; abstract"
+        }
+      ]
+    },
+    {
+      "id": "oleum",
+      "refs": [
+        "108:18b",
+        "108:24"
+      ],
+      "latin": "sicut óleum in óssibus ejus … propter óleum",
+      "kind": "glossary",
+      "why": "*óleum → óleo* is what the psalter already has (44:8 *óleo de alegria*, 88:21 *o meu óleo santo*). MS1932 has *azeite*, which is concrete and Brazilian, but it would split the word from the anointing verses. The same word serves both places in this psalm.",
+      "options": [
+        {
+          "label": "óleo",
+          "forms": {
+            "oleum1": "óleo",
+            "oleum2": "óleo"
+          },
+          "note": "draft — 44:8, 88:21",
+          "from": "draft"
+        },
+        {
+          "label": "azeite",
+          "forms": {
+            "oleum1": "azeite",
+            "oleum2": "azeite"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "propteroleum",
+      "refs": [
+        "108:24"
+      ],
+      "latin": "et caro mea immutáta est propter óleum",
+      "kind": "ambiguity",
+      "why": "The Latin says 'on account of oil' (δι᾿ ἔλαιον). Whether that means 'for lack of oil' (MS1932's reading, and the Hebrew's 'without fat') or something else, the Latin does not say, and the translation must not settle it. *por causa do óleo* keeps it open. *immutáre → mudar*, as 72:21 *foram mudados*.",
+      "options": [
+        {
+          "label": "por causa do óleo",
+          "forms": {
+            "propteroleum": "por causa do"
+          },
+          "note": "draft — the Latin's *propter*",
+          "from": "draft"
+        },
+        {
+          "label": "por falta de óleo",
+          "forms": {
+            "propteroleum": "por falta de"
+          },
+          "note": "MS1932's gloss made text; resolves the Latin",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "opus",
+      "refs": [
+        "108:20"
+      ],
+      "latin": "Hoc opus eórum",
+      "kind": "word",
+      "why": "*opus* is 'work' (ἔργον). The Hebrew has 'wages' here, and MS1932's *o lucro* follows that sense. The Latin says *opus*, so *a obra*: 'this is what they do', or read with the curses before it, 'this is what they have earned'. The Latin leaves both open.",
+      "options": [
+        {
+          "label": "a obra",
+          "forms": {
+            "opus": "a obra"
+          },
+          "note": "draft — DRB 'the work'",
+          "from": "draft"
+        },
+        {
+          "label": "o salário",
+          "forms": {
+            "opus": "o salário"
+          },
+          "note": "the Hebrew's sense; not the Latin"
+        },
+        {
+          "label": "o lucro",
+          "forms": {
+            "opus": "o lucro"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facmecum",
+      "refs": [
+        "108:21"
+      ],
+      "latin": "fac mecum propter nomen tuum",
+      "kind": "grammar",
+      "why": "*fac mecum* has no object in the Latin (the Greek adds ἔλεος, 'mercy'). The row *fácere cum → tratar* (118:124) works when a manner follows (*segundo a vossa misericórdia*); here only *propter nomen tuum* follows. *Agi comigo* falls to rule 3 (*agi* = 'I acted'). *fazei comigo* is the Latin as it stands, open-ended as the Latin is. DRB 'do with me'; MS1932 paraphrases (*toma à tua conta a minha defesa*). v2: the stylist and the ambiguity reader both heard *fazei comigo* as cut off, a word missing. The stylist's *agi comigo* falls to rule 3. The row's *tratai-me* is complete in Portuguese without an object and adds nothing.",
+      "options": [
+        {
+          "label": "tratai-me",
+          "forms": {
+            "facmecum": "tratai-me"
+          },
+          "note": "v2 — the fácere cum row; complete without an object",
+          "from": "glossary"
+        },
+        {
+          "label": "fazei comigo",
+          "forms": {
+            "facmecum": "fazei comigo"
+          },
+          "note": "v1 draft — the Latin as it stands; heard as cut off",
+          "from": "draft"
+        },
+        {
+          "label": "agi em meu favor",
+          "forms": {
+            "facmecum": "agi em meu favor"
+          },
+          "note": "idiomatic; adds 'in my favour'"
+        }
+      ]
+    },
+    {
+      "id": "ablatus",
+      "refs": [
+        "108:23"
+      ],
+      "latin": "ablátus sum",
+      "kind": "glossary",
+      "why": "*auferre → tirar* is settled (D41). The Greek ἀντανῃρέθην is 'I was taken away'. *fui tirado* keeps the row. It is a little thin without a 'from where', and the Latin has none either. *fui levado* is plainer but is *addúcere*'s verb (D42).",
+      "options": [
+        {
+          "label": "fui tirado",
+          "forms": {
+            "ablatus": "fui tirado"
+          },
+          "note": "draft — D41",
+          "from": "glossary"
+        },
+        {
+          "label": "fui levado",
+          "forms": {
+            "ablatus": "fui levado"
+          },
+          "note": "plainer; *addúcere*'s verb"
+        }
+      ]
+    },
+    {
+      "id": "eam",
+      "refs": [
+        "108:27"
+      ],
+      "latin": "Et sciant quia manus tua hæc: * et tu, Dómine, fecísti eam",
+      "kind": "ambiguity",
+      "why": "The second colon has no *quia* of its own. It can be a second thing they are to know ('and that you did it', as DRB and MS1932 supply) or the psalmist's own statement ('and you, Lord, have done it'). Kept without *que*, which holds both. *eam* is feminine, as *mão* is, so *a fizestes* keeps the Latin's reference: the hand, or what the hand did.",
+      "options": [
+        {
+          "label": "e vós, Senhor, a fizestes",
+          "forms": {
+            "eam": "e vós, Senhor, a fizestes"
+          },
+          "note": "draft — no *que* supplied",
+          "from": "draft"
+        },
+        {
+          "label": "e que vós, Senhor, a fizestes",
+          "forms": {
+            "eam": "e que vós, Senhor, a fizestes"
+          },
+          "note": "DRB, MS1932 supply 'that'",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "maledicent",
+      "refs": [
+        "108:28"
+      ],
+      "latin": "Maledícent illi, et tu benedíces",
+      "kind": "glossary",
+      "why": "The *maledícere* row (D44: *amaldiçoar*) proposes *maldizer* wherever *benedícere* stands beside it, as 61:5 did (*bendiziam … maldiziam*), and names this verse. One root (*-dizer*) keeps the Latin's pair audible. Both verbs have no object, as in the Latin (MS1932 supplies *me*). *illi* is expressed in the Latin, so *Eles* stays. The *vós* future *bendireis* is safe under rule 3.",
+      "options": [
+        {
+          "label": "Eles maldirão, e vós bendireis",
+          "forms": {
+            "maledicent": "Eles maldirão, e vós bendireis"
+          },
+          "note": "draft — the row's proposal for this verse (61:5)",
+          "from": "glossary"
+        },
+        {
+          "label": "Eles amaldiçoarão, e vós bendireis",
+          "forms": {
+            "maledicent": "Eles amaldiçoarão, e vós bendireis"
+          },
+          "note": "D44's settled verb; the pair's root lost"
+        },
+        {
+          "label": "Eles amaldiçoarão, e vós abençoareis",
+          "forms": {
+            "maledicent": "Eles amaldiçoarão, e vós abençoareis"
+          },
+          "note": "the everyday pair; leaves the benedícere row",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "diplois",
+      "refs": [
+        "108:29"
+      ],
+      "latin": "sicut diplóide",
+      "kind": "word",
+      "why": "Lewis & Short: 'a double robe to be wrapped around the body, a cloak, mantle', citing this verse (διπλοΐς). *manto* is already *opertórium*'s word (101:27, another Greek word). *capa dupla* (MS1932) keeps both the garment and the 'double', and stays apart from *manto*.",
+      "options": [
+        {
+          "label": "uma capa dupla",
+          "forms": {
+            "diplois": "uma capa dupla"
+          },
+          "note": "draft — MS1932",
+          "from": "draft"
+        },
+        {
+          "label": "um manto duplo",
+          "forms": {
+            "diplois": "um manto duplo"
+          },
+          "note": "DRB 'double cloak'; *manto* is opertórium's",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "108:30"
+      ],
+      "latin": "Confitébor Dómino nimis in ore meo",
+      "kind": "glossary",
+      "why": "*confitéri → dar graças* (D5). This is one of the three verses D5 names where it stands beside *laudáre*, and the pair is kept apart (*darei graças … o louvarei*). *nimis* has no single rendering (its row). *sem medida* is the row's rendering where it is 'beyond measure' (118:138, 45:2, 78:8; L&S). *Com a minha boca* is moved to the head so that the mediant falls on *medida* and not on *boca … medida* crowding. *Darei muitas graças* is plainer, but it makes a *muitas … muitos* echo the Latin does not have.",
+      "options": [
+        {
+          "label": "Com a minha boca darei graças ao Senhor sem medida",
+          "forms": {
+            "nimis": "Com a minha boca darei graças ao Senhor sem medida"
+          },
+          "note": "draft — the nimis row's *sem medida*; D5",
+          "from": "draft"
+        },
+        {
+          "label": "Darei muitas graças ao Senhor com a minha boca",
+          "forms": {
+            "nimis": "Darei muitas graças ao Senhor com a minha boca"
+          },
+          "note": "plainer; the Latin's order; echoes *muitos*"
+        },
+        {
+          "label": "Darei graças ao Senhor grandemente com a minha boca",
+          "forms": {
+            "nimis": "Darei graças ao Senhor grandemente com a minha boca"
+          },
+          "note": "30:12's *grandemente* (valde)"
+        }
+      ]
+    },
+    {
+      "id": "dispereat",
+      "refs": [
+        "108:15"
+      ],
+      "latin": "et dispéreat de terra memória eórum",
+      "kind": "glossary",
+      "why": "The disperíre row (open) gives *perecer de todo* for the intensive *dis-*. The Latinist found *de todo* an added phrase; the stylist found *pereça de todo a memória* trips (heard for a moment as *de todo a…*). *pereça* alone is the Latin's verb, and the curse is not weakened: a memory that perishes from the earth is gone. A local departure; the row stays open.",
+      "options": [
+        {
+          "label": "pereça",
+          "forms": {
+            "dispereat": "pereça"
+          },
+          "note": "v2 — Latinist",
+          "from": "latinist"
+        },
+        {
+          "label": "pereça de todo",
+          "forms": {
+            "dispereat": "pereça de todo"
+          },
+          "note": "v1 draft — the row; trips",
+          "from": "glossary"
+        },
+        {
+          "label": "desapareça",
+          "forms": {
+            "dispereat": "desapareça"
+          },
+          "note": "stylist; another verb",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "persequentibus",
+      "refs": [
+        "108:31"
+      ],
+      "latin": "a persequéntibus ánimam meam",
+      "kind": "word",
+      "why": "*a persequéntibus* has no object in the Latin (the Greek: ἐκ τῶν καταδιωκόντων). *dos que a perseguem* supplies *a* (the soul), which the Latin leaves open; the v2 Latinist asked for the bare noun. Kept: *dos perseguidores* is heavier at the close and the soul is what they pursue, as the Latin says at 7:6 (*persequátur inimícus ánimam meam*).",
+      "options": [
+        {
+          "label": "dos que a perseguem",
+          "forms": {
+            "persequentibus": "dos que a perseguem"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "dos perseguidores",
+          "forms": {
+            "persequentibus": "dos perseguidores"
+          },
+          "note": "v2 Latinist minor; the Latin's absolute participle",
+          "from": "latinist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "108:2": "*dolósus → enganador* (the dolus row; 51:6 *língua enganadora*).",
+    "108:3": "*gratis → sem motivo* (row; 34:7, 68:5). *expugnáre → combater* (34:1). *sermo → palavra* (D15). The Latin's plural *locúti sunt* after a singular *lingua dolósa* kept.",
+    "108:4": "*Pro eo ut me dilígerent* → *Em vez de me amarem*: the Latin makes them the subject (the Greek infinitive and the Hebrew are 'in return for my love'; the Latin is followed). *detráhere → difamar* (D39), also 108:20 and 108:29. *ego autem → eu, porém,* (row).",
+    "108:6": "*constitúere → estabelecer* (row); *Estabelecei* is safe under rule 3. *a dextris ejus* here and *a dextris páuperis* in 108:31 both say *à … direita*: the psalm's turn (the devil at the wicked man's right, the Lord at the poor man's) is kept.",
+    "108:7": "*Cum judicátur* → *Quando for julgado* (the Portuguese future subjunctive for a general 'when'). *fiat in peccátum* → *se torne pecado* (*fíeri* in the sense of becoming: row 544).",
+    "108:9": "*Sejam órfãos os seus filhos: * e a sua mulher, viúva* — the Latin's gapped verb kept, marked by a comma. *órphanus / pupíllus → órfão* (row), also 108:12.",
+    "108:10": "*eícere → lançar fora* (row, 79:9). *habitátio → habitação* (row; *morada* is habitáculum's, D44).",
+    "108:11": "*aliéni → estranhos* (row), no article, as the Latin. *labóres ejus → os seus trabalhos*: the fruit of his toil, as 77:46 (a local departure from the row's *fadiga*, which there was heard as tiredness). v2: subject first (decision fenerator).",
+    "108:13": "*delére → apagar* (row); 108:13 and 108:14 have the same form *deleátur* and say *se apague* both times.",
+    "108:14": "*in conspéctu Dómini → à vista do Senhor* (the row's proposal, 5:9; no verb of motion here). *In memóriam rédeat → Volte à memória*: *memória* also in 108:15, where the Latin repeats it.",
+    "108:15": "*dispéreat → pereça* (decision dispereat). *eórum → deles*, apart from the singular *ejus → seu* of the curses. *fácere misericórdiam → fazer misericórdia* (102:6 *faz misericórdias*). The subject of *Estejam* is unnamed, as in the Latin (the sins of 108:14); the ambiguity reader heard it as people, but naming it would add a word. The Latin's 108:15 includes the Greek and Hebrew v. 16; DO has no 108:16.",
+    "108:17": "*inops → carente* (D38), *mendícus → mendigo* (D41), *compúnctus corde → compungido de coração* (the passive participle of the compúngi row, 29:13, 34:16). *mortificáre → dar a morte* (row); *lhe* is supplied, as 36:32.",
+    "108:18": "*elongáre → ficar longe* (row). The future tenses of *véniet … elongábitur* kept after the perfects: the Latin's own turn from what he did to what will come. *ela* supplied for the curse and the blessing in turn, so that each second half is not heard as 'he will come'.",
+    "108:18b": "*índuit maledictiónem* → *vestiu a maldição* (transitive, as the Latin: he put it on). *vestiméntum → veste* (D43), also 108:19.",
+    "108:19": "*Fiat ei → Seja para ele* (the *Fiat* row). *zona → cinto*: Brazilian *cinta* is also a girdle worn under clothes. *præcíngere → cingir* (17:33, 64:7).",
+    "108:20": "*apud Dóminum → junto do Senhor* (the apud row, 36:23; the Greek παρὰ κυρίου 'from the Lord' is not followed). *loqui mala advérsus → falar males contra* (as *mala mihi*, row 1007).",
+    "108:21": "*Dómine, Dómine* → *Senhor, Senhor*: the doubled cry is the Latin's and the Greek's, so it is kept. The 8:2a row refused a doubling there only because the Latin had *Dómine, Dóminus noster*. *suávis → suave* (row).",
+    "108:22": "*egénus → necessitado*, *pauper → pobre* (D38). *conturbáre → perturbar* (row). *intra me → dentro de mim* (38:4).",
+    "108:23": "*declináre* (of the shadow) → *declinar*, as 101:12 *Os meus dias declinaram como a sombra*. *locústa → gafanhoto* (77:46, 104:34).",
+    "108:24": "*infirmári → enfraquecer* (the infírmus / languére rows). *a jejúnio → pelo jejum*: the Latin's *a* and *propter* differ, and so do *pelo* and *por causa*.",
+    "108:25": "*oppróbrium → afronta* (row); *factus sum oppróbrium illis → me tornei uma afronta para eles* (30:12, 78:4). *movérunt cápita sua → moveram as suas cabeças*: the plural of the Latin, where 21:8 has the singular *caput*.",
+    "108:26": "The formula *Senhor, meu Deus* (row). *adjuváre → auxiliar* (row), *salvum me fac → salvai-me* (row).",
+    "108:28": "*insúrgere in → levantar-se contra* (row). *confúndi → ser envergonhado* (D15); *sejam envergonhados* comes first, where Portuguese puts a jussive. The Latin's second colon is 17 syllables, and the Portuguese is longer because D15's verb is. Accepted.",
+    "108:29": "*pudor → desonra*, *confúsio → vergonha*: the pair as 70:13 *sejam cobertos de vergonha e de desonra* (ἐντροπή / αἰσχύνη, the reveréri row). *Induántur … pudóre* → *Vistam-se de desonra*, as 34:26b.",
+    "108:31": "*astáre a dextris → pôr-se à direita* (the astáre row's split, 44:10b). *a persequéntibus → dos que a perseguem*: *a* is supplied (the Latin's participle has no object). DRB 'from persecutors'."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels file (Latin, LXX, Hebrew, DRB, MS1932; no DM1962 section for this psalm). Glossary rows read for every controlled word. The curses of 108:6–19 are rendered as the Latin has them, jussive for jussive, with nothing softened or explained. Hard readings: 108:2 *laudem meam ne tacúeris*; 108:8 *episcopátum*; 108:10 *nutántes transferántur*; 108:13 *fiant … in intéritum*; 108:15 *contra Dóminum* = 'before'; 108:24 *propter óleum*; 108:27 the second colon without *quia*."
+    },
+    {
+      "step": "checks",
+      "note": "render.py + checks.py: hard checks pass (ids, one `*` per verse; no 108:16, as DO). Soft flags accepted: 108:28 second colon +7 (D15's *sejam envergonhados* is longer than *confundántur*; the Latin's colon is already the psalm's longest); 108:2 +6 and 108:17 +6 (Portuguese needs *se abriram* and *lhe dar a morte*); 108:15 -5 (*pro eo quod* → *porque*). Rhyme 108:7 *julgado / condenado* is the Latin's own *judicátur / condemnátus*; 108:7/108:8 *pecado / episcopado* is incidental and far apart in the verse. Readers to be run by the coordinator: claude-opus-5-5 in fresh context (latinist, stylist, ambiguity).",
+      "outcomes": [
+        "hard checks pass",
+        "soft flags accepted with reasons"
+      ]
+    },
+    {
+      "step": "critics v1",
+      "note": "Latinist, stylist and ambiguity readers (claude-opus-5-5, fresh context; Latinist and stylist with latin.json), stored in critic/v1.*.json.",
+      "outcomes": [
+        "latinist 108:12 adjutor as a person — accepted: *Não haja quem o auxilie* (with the stylist)",
+        "latinist 108:15 *de todo* added — accepted: *pereça* (new decision dispereat)",
+        "stylist 108:7 -ado rhyme — refused: *julgado / condenado* is the Latin's *judicátur / condemnátus*, and the fix inverts the colon to an oxytone end; logged",
+        "stylist 108:10 stumbling head, *transportados* — partly accepted: verb first (*Sejam transportados, vacilantes,*); *levados* refused (D43 transportar settled; levar is addúcere's)",
+        "stylist 108:12 auxílio abstract — accepted (as the Latinist)",
+        "stylist 108:15 *pereça de todo a* trips — accepted (as the Latinist); *desapareça* kept as an option",
+        "stylist 108:17 *carente* heard as emotional — refused: D38 inops → carente is settled; *indigente* is not the ruling",
+        "stylist 108:21 *fazei comigo* cut off — accepted in part: *tratai-me* (the fácere cum row); *agi comigo* refused by rule 3",
+        "stylist 108:23 *fui levado* — refused: D41 auferre → tirar settled; levar is addúcere's (D42)",
+        "ambiguity 108:11 *Sonde o usurário* heard as an imperative — accepted: *O usurário sonde todos os seus bens*",
+        "ambiguity 108:21 *fazei comigo* incomplete — accepted (tratai-me)",
+        "ambiguity 108:15 subject of *Estejam*, *não se lembrou* near *o Senhor*; 108:6 *sobre ele*; 108:24 *por causa do óleo*; 108:27 *a fizestes*; 108:31 subject of *se pôs* — kept: the Latin is open in each, and the translation keeps it open",
+        "ambiguity unknown words (episcopado, vacilantes, usurário, sonde, compungido, cinge, desonra) — kept: each is the ruling for its Latin word (episcopátus, nutáre, fænerátor, scrutári row, compúngi row, præcíngere, pudor)"
+      ]
+    },
+    {
+      "step": "checks v2",
+      "note": "Re-rendered and re-checked: hard checks pass; soft flags as v1.",
+      "outcomes": [
+        "hard checks pass"
+      ]
+    },
+    {
+      "step": "gate v2",
+      "note": "Latinist gate (claude-opus-5-5, fresh context, with latin.json), critic/v2.latinist.json: no majors or criticals; five minors.",
+      "outcomes": [
+        "108:2 *não caleis o meu louvor* may read as God stifling the praise — held as option (decision tacueris): the transitive *calar* keeps both senses of *laudem meam*; *ao meu louvor* picks one",
+        "108:13 *entregues* adds an act — held as option *votados à destruição* (decision nati); *entregues* follows 43:22b and keeps *Sejam … para* from being heard as purpose",
+        "108:21 *agi comigo* — refused: rule 3 (*agi* = first-person past); *tratai-me* is the fácere cum row",
+        "108:29 *pudor → vergonha, confúsio → confusão* — refused: the pair follows 70:13 and 34:26b (*desonra / vergonha*, the reveréri row); *confusão* is D15's rejected sense",
+        "108:31 supplied *a* — held as option *dos perseguidores* (new decision persequentibus)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "psalm": 106,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "106:1": "Dai graças ao Senhor, porque ele é bom: * porque é para sempre a sua misericórdia.",
+    "106:2": "{dicant} os {redempti} pelo Senhor, os que ele {redemit} da mão do inimigo: * e os congregou das regiões:",
+    "106:3": "Do nascer do sol, e do poente: * do norte, e do mar.",
+    "106:4": "Extraviaram-se na {solitudo}, no lugar sem água: * não encontraram o caminho de uma cidade de {habitaculi}.",
+    "106:5": "Famintos e sedentos: * a sua alma desfaleceu neles.",
+    "106:6": "E clamaram ao Senhor {tribul}: * e ele os {eripuit} das suas {necess}.",
+    "106:7": "E os guiou ao caminho reto: * para irem a uma cidade de {habitationis}.",
+    "106:8": "{refrainA}: * {refrainB}.",
+    "106:9": "Porque saciou a alma vazia: * e saciou de bens a alma faminta.",
+    "106:10": "Sentados nas trevas e na sombra da morte: * presos na {mendicitate} e no ferro.",
+    "106:11": "Porque {exacerb} {eloquia}: * e o conselho do Altíssimo provocaram.",
+    "106:12": "E o seu coração foi humilhado nas fadigas: * enfraqueceram, e não houve quem auxiliasse.",
+    "106:13": "E clamaram ao Senhor {tribul}: * e ele os livrou das suas {necess}.",
+    "106:14": "E os tirou das trevas e da sombra da morte: * e rompeu as suas cadeias.",
+    "106:15": "{refrainA}: * {refrainB}.",
+    "106:16": "Porque quebrou as portas de bronze: * e despedaçou as {vectes} de ferro.",
+    "106:17": "{suscepit} do caminho da sua iniquidade: * pois por causa das suas injustiças foram humilhados.",
+    "106:18": "A sua alma abominou toda comida: * e aproximaram-se até as portas da morte.",
+    "106:19": "E clamaram ao Senhor {tribul}: * e ele os livrou das suas {necess}.",
+    "106:20": "Enviou a sua palavra, e os curou: * e os {eripuit} {interitio}.",
+    "106:21": "{refrainA}: * {refrainB}.",
+    "106:22": "E sacrifiquem um sacrifício de louvor: * e anunciem as suas obras com exultação.",
+    "106:23": "Os que descem ao mar em navios, * fazendo o seu trabalho em muitas águas,",
+    "106:24": "Esses viram as obras do Senhor, * e as suas maravilhas na profundeza.",
+    "106:25": "Disse, e {stetit} o vento da tempestade: * e {exaltati} as suas ondas.",
+    "106:26": "Sobem até os céus, e descem até os abismos: * a sua alma definhava nos males.",
+    "106:27": "Ficaram perturbados, e {moti} como um {ebrius}: * e toda a sua sabedoria foi devorada.",
+    "106:28": "E clamaram ao Senhor {tribul}: * e ele os tirou das suas {necess}.",
+    "106:29": "E {statuit}: * e as suas ondas ficaram em silêncio.",
+    "106:30": "E se alegraram, porque ficaram em silêncio: * e ele os guiou ao porto da vontade deles.",
+    "106:31": "{refrainA}: * {refrainB}.",
+    "106:32": "E o exaltem na assembleia do povo: * e o louvem na cadeira dos anciãos.",
+    "106:33": "{posuit} os rios em deserto: * e as nascentes de água em sede.",
+    "106:34": "a terra frutífera em {salsuginem}: * pela malícia dos que nela habitam.",
+    "106:35": "{posuit} o deserto em lagoas de água: * e a terra sem água em nascentes de água.",
+    "106:36": "E ali colocou os famintos: * e eles estabeleceram uma cidade de {habitationis}.",
+    "106:37": "E semearam campos, e plantaram vinhas: * e {nativitatis}.",
+    "106:38": "E os bendisse, e se multiplicaram {nimis}: * e não diminuiu os seus animais.",
+    "106:39": "E ficaram poucos: * e foram maltratados pela tribulação dos males, e pela dor.",
+    "106:40": "Sobre os príncipes se derramou o desprezo: * e os fez extraviar-se no lugar sem caminho, e não no caminho.",
+    "106:41": "E auxiliou o pobre {deinopia}: * e pôs as famílias como ovelhas.",
+    "106:42": "Os retos verão, e se alegrarão: * e toda iniquidade tapará a sua boca.",
+    "106:43": "Quem é sábio, e guardará estas coisas? * e entenderá as misericórdias do Senhor."
+  },
+  "decisions": [
+    {
+      "id": "refrain",
+      "refs": ["106:8", "106:15", "106:21", "106:31"],
+      "latin": "Confiteántur Dómino misericórdiæ ejus: * et mirabília ejus fíliis hóminum",
+      "kind": "ambiguity",
+      "why": "The psalm's refrain, four times word for word, so one set of slots fills all four. The verb is D5's (confitéri to God → dar graças a) and the jussive is built as 66:4 builds it (Que os povos vos deem graças: the conjunction, with a named subject). The question is the grammar of misericórdiæ ejus. The Latin form is not an accusative (that would be misericórdias), so the thing thanked-for reading of the Hebrew (let them thank the LORD for his hesed) and of MS1932 (Glorifiquem o Senhor pelas suas misericórdias) is not what the Latin says. Read as a nominative plural it is the subject, in parallel with mirabília ejus, and Dómino / fíliis hóminum are the two datives: 'let his mercies give thanks to the Lord, and his wonders to the children of men' — which is how Douay-Rheims reads it (Let the mercies of the Lord give glory to him: and his wonderful works to the children of men). The Greek τὰ ἐλέη αὐτοῦ is nominative or accusative; the Latin chose a form that can only be the subject here. Ruled for the subject, placed first so that the two cola are built alike (subject, verb understood in the second, dative) and the ellipsis of the second colon is audible; the comma before 'aos filhos dos homens' marks it. The refrain is also a Gradual verse (missa Epi2-0, Sancti 02-22, 06-30, 10-20; Commune Coronatio; horas C4b), where it reads alone unchanged.",
+      "options": [
+        {"label": "Que as suas misericórdias deem graças ao Senhor: e as suas maravilhas, aos filhos dos homens", "forms": {"refrainA": "Que as suas misericórdias deem graças ao Senhor", "refrainB": "e as suas maravilhas, aos filhos dos homens"}, "note": "draft — misericórdiæ as subject (DRB), subject first so the two cola match; D5 verb; 66:4's Que", "from": "draft"},
+        {"label": "Que deem graças ao Senhor as suas misericórdias", "forms": {"refrainA": "Que deem graças ao Senhor as suas misericórdias", "refrainB": "e as suas maravilhas, aos filhos dos homens"}, "note": "the Latin's order; 'suas' then follows 'Senhor' and is surely his — but the ear may first take the mercies as a loose object and supply 'pelas'"},
+        {"label": "Que as misericórdias do Senhor lhe deem graças", "forms": {"refrainA": "Que as misericórdias do Senhor lhe deem graças", "refrainB": "e as suas maravilhas, aos filhos dos homens"}, "note": "Douay-Rheims' build: the name moved to the mercies so ejus cannot be misread; ends on a clitic + 'graças'", "from": "DRB"},
+        {"label": "Deem graças ao Senhor pelas suas misericórdias: e pelas suas maravilhas para com os filhos dos homens", "forms": {"refrainA": "Deem graças ao Senhor pelas suas misericórdias", "refrainB": "e pelas suas maravilhas para com os filhos dos homens"}, "note": "MS1932 and the Hebrew's sense — refused: the Latin nominative cannot be the thing thanked for, and 'para com' is supplied", "from": "MS1932", "warn": true}
+      ]
+    },
+    {
+      "id": "dicant",
+      "refs": ["106:2"],
+      "latin": "Dicant qui redémpti sunt a Dómino",
+      "kind": "grammar",
+      "why": "Dicant has no object in the Latin or the Greek; what they are to say is the verse before (the refrain of 106:1). Bare 'Digam os resgatados' leaves the verb hanging; the Portuguese idiom 'Que o digam X' says exactly 'let X say it, X can bear witness' and builds the jussive as the refrain does (Que …). The pronoun 'o' is supplied grammar (D2). MS1932 has 'Digam-no', the same pronoun enclitic, which is correct but bookish at a verse's head. 'qui redémpti sunt' becomes the participle-noun 'os resgatados' (grammar; the colon is 23 Latin syllables and the relative clause would add four).",
+      "options": [
+        {"label": "Que o digam", "forms": {"dicant": "Que o digam"}, "note": "draft — the Portuguese idiom of witness; the Que of the refrain", "from": "draft"},
+        {"label": "Digam-no", "forms": {"dicant": "Digam-no"}, "note": "MS1932; the same pronoun, enclitic", "from": "MS1932"},
+        {"label": "Digam", "forms": {"dicant": "Digam"}, "note": "no pronoun, as the Latin; heard as a bare imperative to 'vocês' before the subject arrives"}
+      ]
+    },
+    {
+      "id": "redimere",
+      "refs": ["106:2"],
+      "latin": "qui redémpti sunt … quos redémit",
+      "kind": "glossary",
+      "why": "The redímere row (open) names 106:2 among the perfects where 'resgatar' must be weighed against 'remir'. Resgatar is kept: it is the row's verb, used in the settled 43:26 (resgatai-nos) and 30:6, and it is plain Brazilian speech; 'remir' is the traditional theological verb but is literary and would split the family. The Latin repeats the verb (participle and perfect) and so does the Portuguese.",
+      "options": [
+        {"label": "resgatados … resgatou", "forms": {"redempti": "resgatados", "redemit": "resgatou"}, "note": "draft — the redímere row", "from": "glossary"},
+        {"label": "remidos … remiu", "forms": {"redempti": "remidos", "redemit": "remiu"}, "note": "the traditional verb, named in the row as the alternative for the perfects"}
+      ]
+    },
+    {
+      "id": "solitudo",
+      "refs": ["106:4"],
+      "latin": "Erravérunt in solitúdine",
+      "kind": "glossary",
+      "why": "solitúdo → solidão is settled (D44), and its row names 106:4 as a test: here the solitude is plainly a place, a wilderness (ἐν τῇ ἐρήμῳ). 'Deserto' would be the natural word (MS1932, DRB 'wilderness'), but this psalm has desértum itself at 106:33 and 106:35, so taking 'deserto' here would make one word of the Latin's two inside the psalm. 'Na solidão' is heard as a place as well as a state (the Ps 54 reader heard both) and, joined to 'no lugar sem água', the place is clear.",
+      "options": [
+        {"label": "solidão", "forms": {"solitudo": "solidão"}, "note": "draft — D44; keeps desértum's 'deserto' free for 106:33, 35", "from": "glossary"},
+        {"label": "deserto", "forms": {"solitudo": "deserto"}, "note": "MS1932, DRB's sense; merges with desértum two stanzas later", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "habitatio",
+      "refs": ["106:4", "106:7", "106:36"],
+      "latin": "viam civitátis habitáculi … in civitátem habitatiónis … civitátem habitatiónis",
+      "kind": "glossary",
+      "why": "The psalm's own echo: the wanderers do not find the way to a city to dwell in (106:4), God leads them to one (106:7), and later he settles the hungry who found one (106:36). The Latin says habitáculi the first time and habitatiónis the other two; the Greek has one word, κατοικητηρίου, at 4 and 7 (κατοικεσίας at 36). By D15's test (one Greek word, the Latin's variation an elegance) the three may share a Portuguese word, and the echo that carries the stanza is then heard. The glossary keeps habitáculum → morada (settled, D44) and habitátio → habitação (open, 75:3, 86:7); 'cidade de habitação' is heard in Brazil as housing-office language. Ruled: 'morada' all three times; the habitátio row is only open, and this is recorded against it.",
+      "options": [
+        {"label": "cidade de morada (all three)", "forms": {"habitaculi": "morada", "habitationis": "morada"}, "note": "draft — D15's Greek test; the psalm's echo kept", "from": "draft"},
+        {"label": "morada (4) / habitação (7, 36)", "forms": {"habitaculi": "morada", "habitationis": "habitação"}, "note": "the two glossary rows kept apart, as the Latin varies", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "tribul",
+      "refs": ["106:6", "106:13", "106:19", "106:28"],
+      "latin": "Et clamavérunt ad Dóminum cum tribularéntur",
+      "kind": "glossary",
+      "why": "The second refrain, four times; the first colon is identical each time and one slot fills it. cum tribularéntur is a verb (passive imperfect subjunctive), and tribuláre → atribular is the row (the family of tribulação). 'Quando estavam atribulados' keeps the verb and its passive; DRB and MS1932 make it a noun ('in their tribulation', 'no meio das suas tribulações'), shorter, but a noun is not what the Latin has. Several blind readers listed 'atribulam' as unknown in other psalms; the participle 'atribulados' is the commonest form of the family.",
+      "options": [
+        {"label": "quando estavam atribulados", "forms": {"tribul": "quando estavam atribulados"}, "note": "draft — the verb kept (row tribuláre)", "from": "draft"},
+        {"label": "na sua tribulação", "forms": {"tribul": "na sua tribulação"}, "note": "DRB, MS1932's build; the verb made a noun; 5 syllables shorter", "from": "DRB"},
+        {"label": "quando eram atribulados", "forms": {"tribul": "quando eram atribulados"}, "note": "the passive as an action, to the letter"}
+      ]
+    },
+    {
+      "id": "eripuit",
+      "refs": ["106:6", "106:20"],
+      "latin": "erípuit eos (de necessitátibus; de interitiónibus)",
+      "kind": "glossary",
+      "why": "The four answers of the second refrain have three Latin verbs: erípuit (106:6), liberávit (106:13, 19), edúxit (106:28). They are kept as three Portuguese verbs: erípere with a source → arrancar (glossary row; 53:9 'de toda tribulação me arrancastes'), liberáre → livrar, edúcere with a source → tirar (row; 29:4, 39:3). 106:20 has erípuit again and takes the same verb. 'Arrancar' of distresses is a strong image; it is the Latin's (erípere, 'snatch away').",
+      "options": [
+        {"label": "arrancou", "forms": {"eripuit": "arrancou"}, "note": "draft — the erípere row with a source", "from": "glossary"},
+        {"label": "libertou", "forms": {"eripuit": "libertou"}, "note": "the row's word when no source is named; softer"},
+        {"label": "livrou", "forms": {"eripuit": "livrou"}, "note": "MS1932, DRB — merges erípere with liberáre of 106:13, 19, which the Latin varies", "warn": true}
+      ]
+    },
+    {
+      "id": "necess",
+      "refs": ["106:6", "106:13", "106:19", "106:28"],
+      "latin": "de necessitátibus eórum",
+      "kind": "glossary",
+      "why": "necéssitas (plural) → necessidades is the open row (24:17, 30:8), which names these four places. The Greek ἀνάγκαι are straits, distresses; the blind readers of 24:17 and 30:8 heard privations, 'near the straits'. In this psalm the straits are hunger and thirst, prison, sickness and storm, so 'necessidades' is heard as the Latin means it more readily than elsewhere. Kept, with 'angústias' as the option the row names. 'ele' is named in each answer so the change of subject (they cried / he freed) is heard at once (MS1932 does the same).",
+      "options": [
+        {"label": "necessidades", "forms": {"necess": "necessidades"}, "note": "draft — the row; MS1932", "from": "glossary"},
+        {"label": "angústias", "forms": {"necess": "angústias"}, "note": "the row's option; nearer ἀνάγκαι as straits"}
+      ]
+    },
+    {
+      "id": "mendicitate",
+      "refs": ["106:10"],
+      "latin": "vinctos in mendicitáte et ferro",
+      "kind": "word",
+      "why": "mendícitas is beggary (L&S 'beggary, mendicity, pauperism'), the noun of mendícus → mendigo (D41); only here in the psalter. 'Mendicância' keeps the root and the image of begging; it is a current word in Brazil (in the news and law), if not a common one in speech. DRB 'want', MS1932 'indigência' (inops' row found 'indigente' unknown to four readers of four). The Greek πτωχεία is the noun of πτωχός (pauper → pobre), so 'pobreza' has a Greek-test claim, but it drops the begging the Latin names.",
+      "options": [
+        {"label": "mendicância", "forms": {"mendicitate": "mendicância"}, "note": "draft — the Latin's own root (mendícus → mendigo)", "from": "draft"},
+        {"label": "pobreza", "forms": {"mendicitate": "pobreza"}, "note": "plainer; the Greek πτωχεία (pauper's family)"},
+        {"label": "miséria", "forms": {"mendicitate": "miséria"}, "note": "misería's word elsewhere"},
+        {"label": "indigência", "forms": {"mendicitate": "indigência"}, "note": "MS1932; the inops family failed four blind readers", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "exacerb",
+      "refs": ["106:11"],
+      "latin": "Quia exacerbavérunt … et … irritavérunt",
+      "kind": "glossary",
+      "why": "exacerbáre and irritáre stand in one verse; D27 settled both as 'provocar' where alone and asked a verse with both to decide locally. Here the Greek has two verbs as well: παρεπίκραναν (embitter, rebel) for exacerbavérunt and παρώξυναν (provoke) for irritavérunt. So irritáre keeps its settled 'provocar' and exacerbáre takes a second word. 'Exasperar' is L&S's first sense and DRB's ('exasperated the words of God'); one blind reader in Ps 9 did not know it, but it is current Brazilian ('ficou exasperado'). 'Amargurar' would keep the bitter root that the Latin (acerbus) and the Greek (πικρός) share, but with words as its object it says they made the words bitter. MS1932 'tinham sido rebeldes às palavras' is the Hebrew's verb (המרו).",
+      "options": [
+        {"label": "exasperaram", "forms": {"exacerb": "exasperaram"}, "note": "draft — L&S, DRB; irritáre keeps 'provocar' (D27)", "from": "DRB"},
+        {"label": "amarguraram", "forms": {"exacerb": "amarguraram"}, "note": "the bitter root of acerbus and παραπικραίνω; odd with a thing as object"},
+        {"label": "se rebelaram contra", "forms": {"exacerb": "se rebelaram contra"}, "note": "MS1932 — the Hebrew's sense, refused (rule 1)", "from": "MS1932", "warn": true}
+      ]
+    },
+    {
+      "id": "eloquia",
+      "refs": ["106:11"],
+      "latin": "elóquia Dei",
+      "kind": "glossary",
+      "why": "Outside Ps 118 the psalm decides elóquium between the clause (D26), 'ditos' and 'palavras', and says why (D26, D27). This psalm has verbum at 106:20 (Misit verbum suum → a sua palavra), so 'palavras' here would make one word of λόγια and λόγος nine verses apart — D15's test says keep them apart. The clause D26 ruled works here as it does not in 11:7 (where it would be a predicate twice): 'o que Deus disse', the counsel of the Most High beside it. It is heard naturally, and it keeps elóquium distinct.",
+      "options": [
+        {"label": "o que Deus disse", "forms": {"eloquia": "o que Deus disse"}, "note": "draft — D26's clause; apart from verbum (106:20)", "from": "glossary"},
+        {"label": "as palavras de Deus", "forms": {"eloquia": "as palavras de Deus"}, "note": "11:7's choice, DRB, MS1932; merges with 106:20 'a sua palavra'"},
+        {"label": "os ditos de Deus", "forms": {"eloquia": "os ditos de Deus"}, "note": "the noun; refused by stylists eight times in Ps 118 (D26)"}
+      ]
+    },
+    {
+      "id": "vectes",
+      "refs": ["106:16"],
+      "latin": "et vectes férreos confrégit",
+      "kind": "word",
+      "why": "vectis is a bar, the beam that bars a gate (μοχλοὺς). 'Trancas' is the plain Brazilian word for a door's bar. MS1932 'ferrolhos' (bolts) is also right, but 'ferrolhos de ferro' makes a jingle the Latin (vectes férreos) does not have. contérere and confríngere stand side by side, with two Greek verbs (συνέτριψεν … συνέκλασεν): as 45:10 decided, quebrar and despedaçar.",
+      "options": [
+        {"label": "trancas", "forms": {"vectes": "trancas"}, "note": "draft — the bar of a gate, plain", "from": "draft"},
+        {"label": "ferrolhos", "forms": {"vectes": "ferrolhos"}, "note": "MS1932; 'ferrolhos de ferro' echoes", "from": "MS1932"},
+        {"label": "barras", "forms": {"vectes": "barras"}, "note": "DRB 'bars'; heard as ingots or rods", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "suscepit",
+      "refs": ["106:17"],
+      "latin": "Suscépit eos de via iniquitátis eórum",
+      "kind": "word",
+      "why": "suscípere of persons → amparar (D19), but here it takes a source (de via; ἀντελάβετο αὐτῶν ἐξ ὁδοῦ), and 'amparar de' is not Portuguese: 'amparou-os do caminho' would be heard as 'protected them from the road'. The verb's root sense is 'take up'; 'recolher' is taking up someone fallen by the road (recolher os desabrigados), and it takes 'de' naturally. DRB 'He took them out of the way', MS1932 'Retirou-os' say the sense with another verb. Local departure from D19, recorded. (17:17 has 'me recolheu de muitas águas' for assúmpsit; the two never meet.)",
+      "options": [
+        {"label": "Recolheu-os", "forms": {"suscepit": "Recolheu-os"}, "note": "draft — 'take up', with the source the Latin names", "from": "draft"},
+        {"label": "Amparou-os, fora", "forms": {"suscepit": "Amparou-os, fora"}, "note": "D19's verb; 'fora' supplied for de", "from": "glossary"},
+        {"label": "Tirou-os", "forms": {"suscepit": "Tirou-os"}, "note": "DRB 'took them out', MS1932 'Retirou-os'; edúcere's verb in 106:14, 28", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "interitio",
+      "refs": ["106:20"],
+      "latin": "de interitiónibus eórum",
+      "kind": "grammar",
+      "why": "interítio (ruin, destruction; διαφθοραί) is plural in the Latin. The intéritus row has 'destruição' (9:16a, 34:7, 102:4); the plural 'destruições' is not said of what threatens a person in Portuguese. Number is grammar (D2): the singular. DRB 'their destructions' keeps the plural; MS1932 paraphrases ('do que lhes era mortal').",
+      "options": [
+        {"label": "da sua destruição", "forms": {"interitio": "da sua destruição"}, "note": "draft — the singular (D2); intéritus' word", "from": "draft"},
+        {"label": "das suas destruições", "forms": {"interitio": "das suas destruições"}, "note": "the Latin's plural, DRB", "from": "DRB"},
+        {"label": "da corrupção", "forms": {"interitio": "da sua corrupção"}, "note": "the Greek διαφθορά; corrúptio's word (15:10)"}
+      ]
+    },
+    {
+      "id": "stetit",
+      "refs": ["106:25"],
+      "latin": "Dixit, et stetit spíritus procéllæ: * et exaltáti sunt fluctus ejus",
+      "kind": "word",
+      "why": "stetit (ἔστη) is 'stood', here 'stood up, arose'; 'se levantou' (MS1932) is the natural verb for a wind rising, and it keeps the standing image. spíritus procéllæ → 'o vento da tempestade', the singular of 10:7's spíritus procellárum → vento de tempestades. exaltáti sunt → 'se elevaram': exaltáre is 'exaltar' of persons and God (106:32 'o exaltem'), but of waves the plain Portuguese is 'elevar-se'; 'se exaltaram' would be heard of tempers.",
+      "options": [
+        {"label": "se levantou … se elevaram", "forms": {"stetit": "se levantou", "exaltati": "se elevaram"}, "note": "draft; MS1932 'levantou-se'", "from": "draft"},
+        {"label": "ficou de pé … se elevaram", "forms": {"stetit": "ficou de pé", "exaltati": "se elevaram"}, "note": "stare → estar/ficar de pé, the row's words — heard as a standing wind"},
+        {"label": "se levantou … se exaltaram", "forms": {"stetit": "se levantou", "exaltati": "se exaltaram"}, "note": "exaltáre's own verb, echoing 106:32"}
+      ]
+    },
+    {
+      "id": "moti",
+      "refs": ["106:27"],
+      "latin": "et moti sunt sicut ébrius",
+      "kind": "word",
+      "why": "movéri → 'ser abalado' is the open row, with 'vacilar' named as its option. Beside 'as a drunk man' (ἐσαλεύθησαν ὡς ὁ μεθύων) the motion is swaying, and 'vacilar' is the drunkard's word; 'foram abalados como um ébrio' is not how a drunk moves. ébrius → 'ébrio', a paroxytone before the asterisk: 'bêbado', the everyday word, is a proparoxytone at the mediant (rule 4) and a little coarse; 'embriagado' adds two syllables to a colon already +3.",
+      "options": [
+        {"label": "vacilaram como um ébrio", "forms": {"moti": "vacilaram", "ebrius": "ébrio"}, "note": "draft — the movéri row's option; stress at the mediant", "from": "draft"},
+        {"label": "foram abalados como um ébrio", "forms": {"moti": "foram abalados", "ebrius": "ébrio"}, "note": "the movéri row's main word", "from": "glossary"},
+        {"label": "cambalearam como um bêbado", "forms": {"moti": "cambalearam", "ebrius": "bêbado"}, "note": "MS1932's verb; the plain noun, proparoxytone at the mediant", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "statuit",
+      "refs": ["106:29"],
+      "latin": "Et státuit procéllam ejus in auram",
+      "kind": "word",
+      "why": "státuit … in: 'set, made to stand' the storm into a breeze (the Greek is otherwise: ἐπέταξεν τῇ καταιγίδι καὶ ἔστη εἰς αὔραν). The statúere row has 'firmar', which here would be heard as nothing ('firmou a tempestade em brisa'). The sense is a change of state; 'fazer de X Y' is the plain Portuguese for it and keeps procéllam and auram as they are. pónere … in (106:33, 35) is another verb, so this one does not take 'tornar'. ejus is left open ('a sua tempestade': the sea's, or the Lord's who raised it in 106:25).",
+      "options": [
+        {"label": "fez da sua tempestade uma brisa", "forms": {"statuit": "fez da sua tempestade uma brisa"}, "note": "draft — the change of state, plainly", "from": "draft"},
+        {"label": "firmou a sua tempestade em brisa", "forms": {"statuit": "firmou a sua tempestade em brisa"}, "note": "the statúere row; unclear", "from": "glossary"},
+        {"label": "mudou a sua tempestade em brisa", "forms": {"statuit": "mudou a sua tempestade em brisa"}, "note": "DRB 'turned'; mutáre's verb", "from": "DRB"},
+        {"label": "assentou a sua tempestade numa brisa", "forms": {"statuit": "assentou a sua tempestade numa brisa"}, "note": "'set down' — the storm settles; nearer 'make to stand'"}
+      ]
+    },
+    {
+      "id": "posuit",
+      "refs": ["106:33", "106:35"],
+      "latin": "Pósuit flúmina in desértum … Pósuit desértum in stagna aquárum",
+      "kind": "word",
+      "why": "pónere … in (ἔθετο εἰς) is 'turn into'. 'Pôs os rios em deserto' is heard first as 'put the rivers in the desert' — a blessing, the opposite of the verse. 'Tornar X em Y' is Portuguese for making one thing into another and keeps the two cola parallel. The two verses begin alike in the Latin, and so they do here. convértere in → converter em is another Latin verb (its row lists 106:33, but the Latin here is pósuit).",
+      "options": [
+        {"label": "Tornou", "forms": {"posuit": "Tornou"}, "note": "draft — 'turned into'; the verse-pair kept alike", "from": "draft"},
+        {"label": "Pôs", "forms": {"posuit": "Pôs"}, "note": "pónere's verb to the letter; heard as placing rivers in a desert", "warn": true},
+        {"label": "Converteu", "forms": {"posuit": "Converteu"}, "note": "MS1932; convértere's verb", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "salsuginem",
+      "refs": ["106:34"],
+      "latin": "Terram fructíferam in salsúginem",
+      "kind": "word",
+      "why": "salsúgo is saltness, brine (L&S; terra salsuginis = a desert). The cognate 'salsugem' exists but few know it; 'salina' is a salt-works in Brazil (Cabo Frio). 'Em sal' says the image — a fruitful land turned to salt — in one plain word; MS1932 'em puro sal'.",
+      "options": [
+        {"label": "sal", "forms": {"salsuginem": "sal"}, "note": "draft — the plain image; MS1932 'puro sal'", "from": "draft"},
+        {"label": "salsugem", "forms": {"salsuginem": "salsugem"}, "note": "the cognate; rare"},
+        {"label": "terra salgada", "forms": {"salsuginem": "terra salgada"}, "note": "'terra' repeated, a noun supplied"}
+      ]
+    },
+    {
+      "id": "nativitatis",
+      "refs": ["106:37"],
+      "latin": "et fecérunt fructum nativitátis",
+      "kind": "ambiguity",
+      "why": "fructus nativitátis (καρπὸν γενήματος, 'fruit of produce') is a Latin calque: nativitas is birth, and DRB keeps it ('fruit of birth'). 'Fruto de nascimento' is opaque in Portuguese and 'fazer fruto' is not said. 'Fizeram nascer fruto' keeps both Latin words — the making and the birth — and says the produce of the land in natural speech; the genitive becomes the verb's complement (grammar, D2). MS1932 'colheram frutos abundantes' is a paraphrase and refused.",
+      "options": [
+        {"label": "fizeram nascer fruto", "forms": {"nativitatis": "fizeram nascer fruto"}, "note": "draft — fecérunt and nativitas both kept, as a verb", "from": "draft"},
+        {"label": "fizeram fruto de nascimento", "forms": {"nativitatis": "fizeram fruto de nascimento"}, "note": "the Latin's build, DRB 'fruit of birth'; opaque", "from": "DRB"},
+        {"label": "colheram frutos abundantes", "forms": {"nativitatis": "colheram frutos abundantes"}, "note": "MS1932 — paraphrase, refused", "from": "MS1932", "warn": true}
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": ["106:38"],
+      "latin": "et multiplicáti sunt nimis",
+      "kind": "glossary",
+      "why": "nimis has no single rendering (open row): 'sem medida' (118:138, 78:8 'pobres sem medida' — L&S: 'beyond measure') and 'muito' (118:96; D22 for valde / veheménter). 'Sem medida' is taken here: a multiplication beyond measure is the image, and it echoes the psalter's other nimis of number.",
+      "options": [
+        {"label": "sem medida", "forms": {"nimis": "sem medida"}, "note": "draft — 118:138, 78:8", "from": "glossary"},
+        {"label": "muito", "forms": {"nimis": "muito"}, "note": "118:96; plainer, weaker"},
+        {"label": "em extremo", "forms": {"nimis": "em extremo"}, "note": "MS1932", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "deinopia",
+      "refs": ["106:41"],
+      "latin": "Et adjúvit páuperem de inópia",
+      "kind": "grammar",
+      "why": "Two things. inópia: the row (open) proposed 'penúria' after 'carência' was heard as emotional lack at 87:9 (43:24 and 106:41 to follow if ruled); taken. de: 'out of' (ἐκ πτωχείας); 'auxiliar de' is not Portuguese. The same build is 59:13 Da nobis auxílium de tribulatióne → 'na tribulação' (MS1932), with 'contra' the option after the Latinist's runs disagreed; followed here for consistency. 'livrando-o da penúria' would say 'out of' but adds a verb.",
+      "options": [
+        {"label": "na penúria", "forms": {"deinopia": "na penúria"}, "note": "draft — 59:13's build; the inópia row's proposal", "from": "draft"},
+        {"label": "contra a penúria", "forms": {"deinopia": "contra a penúria"}, "note": "59:13's option (31:7 'refúgio contra a tribulação')"},
+        {"label": "a sair da penúria", "forms": {"deinopia": "a sair da penúria"}, "note": "'out of' said, with a verb supplied (DRB 'helped the poor out of poverty')", "from": "DRB"},
+        {"label": "na carência", "forms": {"deinopia": "na carência"}, "note": "43:24's noun; heard as emotional lack at 87:9"}
+      ]
+    }
+  ],
+  "choices": {
+    "106:1": "Identical to 117:1 and 117:29 (D5, D14): the formula rows. 105:1 has the same Latin and should read the same.",
+    "106:2": "The verse ends in a colon, as the Latin, running into 106:3. congregáre active → congregar (the row: 15:4b active). regio → regiões (χωρῶν). The subject 'ele' is named in the relative (os que ele resgatou) so the Lord is the agent of both verbs.",
+    "106:3": "a solis ortu, et occásu → 'Do nascer do sol, e do poente' — the formula row (Desde o nascer do sol até o poente, 49:1b) adapted to this Latin, which has et, not usque ad; the commas are the Latin's. aquilo → norte (D43, and its row names 106:3). mare → mar: the Latin's word; the west or south it stands for is not explained (MS1932 glosses it).",
+    "106:4": "in inaquóso → 'no lugar sem água', word for word as 77:40 (the same Latin). The object of the second colon comes after the verb (natural order); the verse ends on 'morada' (paroxytone).",
+    "106:5": "Esuriéntes, et sitiéntes: the participles kept as adjectives with no verb, as the Latin, so that 106:10 (Sedéntes …) can open the same way. First colon -3 syllables, accepted. in ipsis → 'neles'.",
+    "106:6": "The first colon is one slot for 106:6, 13, 19, 28 (decision tribul); the second varies the verb as the Latin does (arrancou / livrou / livrou / tirou). 'ele' named: the subject changes from them to the Lord.",
+    "106:7": "dedúcere → guiar (D22), and the same verb at 106:30 (dedúxit eos in portum). in viam rectam → 'ao caminho reto' (into, motion), ut irent → 'para irem' (the same subject).",
+    "106:9": "satiáre → saciar (row), twice as the Latin; inánis → vazio (row names 106:9). The Latin's chiasmus (satiávit … satiávit bonis) yields to natural order in the second colon; the verb repeats.",
+    "106:10": "Sedéntes (nominative) and vinctos (accusative) are two participles with no main verb, the Latin's (and the Greek's) hanging description; kept verbless. umbra mortis → sombra da morte (22:4, 43:20). vinctos → 'presos': the vincti row has the noun 'prisioneiros' (68:34), but with 'in mendicitáte et ferro' the participle is needed.",
+    "106:11": "irritáre → provocar (D27, settled). consílium Altíssimi → 'o conselho do Altíssimo': D33 keeps 'conselho' where a verse can mean both counsel and plan, and here it stands beside what God said. The second colon keeps the Latin's order (object first, verb last): with the verb first the colon would end on 'Altíssimo', a proparoxytone at the final (rule 4).",
+    "106:12": "labor → fadiga (row), plural 'nas fadigas' as the Latin. humiliáre → humilhar; infirmári → enfraquecer (row, 9:4, 108:24). nec fuit qui adjuváret → 'e não houve quem auxiliasse', no object, as the Latin and 21:12 'não há quem auxilie'.",
+    "106:14": "edúcere de → tirar de (row), the same verb as 106:28. víncula → cadeias (row names 106:14). disrúmpere → romper.",
+    "106:16": "contérere → quebrar, confríngere → despedaçar, as 45:10 decided where the two stand together (two Greek verbs here too). ǽreus → de bronze.",
+    "106:17": "injustítia → injustiça, iníquitas → iniquidade (rows; the Latin has both and so does the Portuguese). enim → 'pois'.",
+    "106:18": "esca → 'comida' (the esca row foresees 'alimento or comida'; the plainer). 'toda comida', no article: every kind of food (omnem escam). abomináre → abominar (row names 106:18). appropinquáre → aproximar-se (row); 'até as portas' without crase, the Brazilian use.",
+    "106:20": "The Matins versicle (Psalterium/Special/Matutinum Special) reads 'Misit verbum suum, et sanávit eos' alone: 'Enviou a sua palavra, e os curou' stands alone. sanáre → curar (row names 106:20). verbum → palavra (D15). Second colon -7 syllables (the Latin's interitiónibus is long); accepted.",
+    "106:22": "sacrificáre sacrifícium → 'sacrifiquem um sacrifício': the row keeps the verb so that the Latin's figure repeats (4:6). Sacrifícium laudis → sacrifício de louvor (formula row). in exsultatióne → 'com exultação' (41:5b 'com voz de exultação'). The bare jussive 'E sacrifiquem' follows the refrain's Que; the E keeps it from being heard as an imperative to 'vocês'.",
+    "106:23": "navis → navio (D43, row names 106:23). in aquis multis → 'em muitas águas' (76:20, 17:17). operátio → 'o seu trabalho' (ἐργασίαν, DRB 'doing business'); the possessive supplied. The verse ends with a comma, as the Latin, running into 106:24.",
+    "106:24": "Ipsi → 'Esses' (DRB 'These'), the emphasis kept. profúndum → profundeza (row, βυθός here as at 68:3). mirabília → maravilhas.",
+    "106:26": "Present tenses kept (ascéndunt, descéndunt), then the imperfect tabescébat → 'definhava' (row names 106:26; unknown to blind readers twice, kept). abýssus → abismo (D42). in malis → 'nos males'. First colon -5 syllables, accepted.",
+    "106:27": "turbári → 'ficaram perturbados' (the build of 76:5, 89:7). devoráre → devorar (not absorbére's engolir). 'toda a sua sabedoria' with the article: the whole of it.",
+    "106:29": "silére → 'ficar em silêncio' (row; 106:29–30 named there), kept apart from tacére's calar-se. Subject first (natural order); the colon ends on 'silêncio', paroxytone. 'as suas ondas', ejus left open as in 106:25.",
+    "106:30": "lætári → alegrar-se. quia siluérunt → 'porque ficaram em silêncio': the subject is not named in the Latin (the waves of 106:29, most naturally), and not named here. volúntas → vontade; 'da vontade deles' (voluntátis eórum) rather than 'da sua vontade', which could be heard as the Lord's.",
+    "106:32": "ecclésia → assembleia (D34), plebs → povo (row), cáthedra → cadeira (the row names 106:32), senióres → anciãos (senes row). The verse (without Et) and the refrain are the Gradual of St Peter's Chair (missa Sancti 02-22) and of the Common of Popes (C4b, Coronatio); read alone it is 'Exaltem-no na assembleia do povo: e o louvem na cadeira dos anciãos'.",
+    "106:33": "éxitus aquárum → 'nascentes de água' (row, which names 106:33, 35). in sitim → 'em sede': the Latin's abstract noun kept (DRB and MS1932 turn it into dry ground).",
+    "106:34": "The verse has no verb; it hangs on 106:33's, as in the Latin; it begins in lower case for that reason. fructíferus → frutífero (row). malítia → malícia (row names 106:34). a (cause) → 'pela'. inhabitántium in ea → 'dos que nela habitam'. First colon -3.",
+    "106:35": "stagna aquárum → 'lagoas de água' (λίμνας): 'tanques' (MS1932) are tanks in Brazil. The Latin's three 'water' words in one verse are kept.",
+    "106:36": "collocáre → colocar (row; 22:1 'ali me colocou'). constitúere → estabelecer (row). 'eles' named for the change of subject.",
+    "106:37": "ager → campo; víneæ → vinhas.",
+    "106:38": "benedícere God → man → bendizer (row; 5:12b, 28:11). juménta → animais (row names 106:38; κτήνη). non minorávit: active, God the subject ('não diminuiu os seus animais'); the plural 'animais' cannot be the subject of 'diminuiu'.",
+    "106:39": "pauci facti sunt → 'ficaram poucos'. vexáre → maltratar (row names 106:39). a tribulatióne malórum, et dolóre: dolóre is ablative, coordinated with tribulatióne, not with malórum — so 'pela tribulação dos males, e pela dor', the preposition repeated to keep the parse.",
+    "106:40": "effúndere → derramar (D43); contémptio → desprezo (contémptus row). The first colon is reordered so that it does not end on 'príncipes', a proparoxytone at the mediant. erráre → extraviar-se (row, as 106:4; erráre fecit → 'os fez extraviar-se'). in ínvio, et non in via → 'no lugar sem caminho, e não no caminho': the ínvius row's 'sem caminho', built as 106:4's 'no lugar sem água' (in inaquóso), so that the two wildernesses of the psalm sound alike. Second colon +3.",
+    "106:41": "pónere sicut → 'pôs … como': kept as the Latin's plain verb (the misreading of 106:33 does not arise with 'como'). oves → ovelhas; família → famílias. Natural order (the Latin ends on famílias).",
+    "106:42": "recti → os retos (rectus corde row, without corde). oppiláre → 'tapar' (L&S 'to stop up'); MS1932 'fechará'. 'toda iniquidade' with no article: every iniquity (omnis). os suum → 'a sua boca', its own mouth.",
+    "106:43": "The question mark after the first colon and the lower case after it are the Latin's. custodíre → guardar (row), intellégere → entender (row). Quis sápiens et custódiet → 'Quem é sábio, e guardará': the copula supplied, the et kept."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps106.md (no Diurnal section for this psalm). Glossary rows read for every controlled word (ps106/gl.py, ps106/ctx.py); finished psalms consulted for the shared phrases: 117:1 (the opening), 66:4 and 98:3 (the jussive of confitéri), 77:40 (in inaquóso), 76:20 and 17:17 (aquæ multæ), 45:10 (contérere + confríngere), 59:13 (auxílium de), 22:4 and 43:20 (umbra mortis). Liturgical uses found by grep: the refrain and 106:32 are Graduals (missa Epi2-0; Sancti 02-22, 06-30, 10-20; Commune Coronatio; horas C4b); 106:20a is a Matins versicle. Hard readings: the refrain's misericórdiæ ejus (subject, with DRB, against MS1932 and the Hebrew), 106:11 exacerbáre beside irritáre (two Greek verbs), 106:29 státuit … in auram, 106:37 fructum nativitátis, and the three words for the psalm's city (habitáculum / habitátio)."},
+    {"step": "checks", "note": "render.py and checks.py run. Hard checks pass (verse ids, pointing marks). No proparoxytone at any mediant or final. Soft length flags accepted: 106:2 +5/-4 (the relative 'os que ele resgatou' and the idiom 'Que o digam'; the verse's total is +1), the second refrain's first colon +4 (106:6, 13, 19, 28: the verb kept, decision tribul has the shorter noun as its option), 106:20b -6 (interitiónibus is long), 106:25a +4, 106:27a +4, 106:29b and 106:30a +4 (silére's row phrase 'ficar em silêncio'), 106:40b +4 (ínvius → 'no lugar sem caminho', built like 106:4), 106:4b, 106:43a +3, 106:5a, 9b, 26a, 37 -3. Rhyme água/água in 106:35: the Latin's own aquárum … aquárum, kept."}
+  ]
+}

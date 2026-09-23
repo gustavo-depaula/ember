@@ -1,0 +1,11 @@
+{
+  "role": "stylist",
+  "prompt": "../prompts/stylist.md",
+  "promptSha256": "260498aa6198335d4fa2ef8b021f2fa61da8211258ce10efe7a511258d27f294",
+  "target": "prayed.vos.json",
+  "targetSha256": "94e826238697636199b2ae890e13150695783edfe1be105ddf98a39fb36817ff",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T04:20:19+00:00",
+  "reply": "{\"verses\": [{\"id\": \"110:1\", \"fails\": [\"noRhyme\"], \"remarks\": [{\"words\": \"de todo o meu coração: * no conselho dos justos, e na congregação.\", \"problem\": \"Mediant and final both land on -ção (coração / congregação), an accidental rhyme that chimes loudly under the psalm tone; 'congregação' also sounds bureaucratic or religious-order in Brazilian ears.\", \"alternative\": \"Eu vos darei graças, Senhor, de todo o meu coração: * no conselho dos justos, e na assembleia.\"}]}, {\"id\": \"110:2\", \"fails\": [\"native\", \"plain\"], \"remarks\": [{\"words\": \"procuradas segundo todas as suas vontades\", \"problem\": \"'Procuradas' reads as 'searched for / in demand' and the colon doesn't parse on first hearing; 'todas as suas vontades' in the plural sounds foreign. The line sounds like a gloss, not like prayer.\", \"alternative\": \"Grandes são as obras do Senhor: * primorosas segundo todas as suas vontades.\"}]}, {\"id\": \"110:3\", \"fails\": [\"native\"], \"remarks\": [{\"words\": \"Confissão e magnificência\", \"problem\": \"In current Brazilian usage 'confissão' means the sacrament or an admission of guilt; opening the verse with it makes the ear hear 'his work is a confession'. The sense here is praise.\", \"alternative\": \"Louvor e magnificência é a sua obra: * e a sua justiça permanece pelos séculos dos séculos.\"}]}], \"overall\": \"The psalm sounds sober, even and prayable: the short declarative cola fall naturally and the refrains 'pelos séculos dos séculos' anchor it well. Its weak spots are a few Latinate calques in the opening verses (procuradas, confissão, congregação) that sound translated rather than prayed; from v.4 on it is clean and dignified.\", \"worstLine\": \"110:2\", \"bestLine\": \"110:9b\"}\n"
+}

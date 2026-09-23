@@ -1,0 +1,20 @@
+How Ps 110(111) circulates in Brazilian liturgy — fetched 2026-09-23 (WebFetch summaries of the pages; wording quoted as the tool returned it)
+
+Mass Lectionary (CNBB), responsorial psalm 110(111), as printed by Paulus "Liturgia diária":
+  https://www.paulus.com.br/portal/liturgia-diaria/8-segunda-feira/   (2026-09-08)
+  https://www.paulus.com.br/portal/liturgia-diaria/21-terca-feira-9/  (2025-01-21)
+  https://www.paulus.com.br/portal/liturgia-diaria/dia-20-quinta-feira-3/ (2026-09-20)
+  Refrains: "O Senhor se lembra sempre da aliança." (v. 5b) · "Vossas obras, ó Senhor, são verdade e são justiça." (v. 7b)
+  Stanzas:
+    Eu agradeço a Deus de todo o coração, / junto com todos os seus justos reunidos! / Que grandiosas são as obras do Senhor, / elas merecem todo o amor e admiração!
+    Que beleza e esplendor são os seus feitos! / Sua justiça permanece eternamente! / O Senhor bom e clemente nos deixou / a lembrança de suas grandes maravilhas.
+    Ele dá o alimento aos que o temem / e jamais esquecerá sua Aliança.
+    Suas obras são verdade e são justiça, / seus preceitos, todos eles, são estáveis, / confirmados para sempre e pelos séculos, / realizados na verdade e retidão.
+    Enviou libertação para o seu povo, / confirmou sua Aliança para sempre. / Seu nome é santo e é digno de respeito. / Permaneça eternamente o seu louvor.
+  (v. 10a is not in any stanza fetched.)
+
+Liturgia das Horas (CNBB) — liturgiadashoras.online/salmo-110111/ refused a direct fetch (mod_security); a search-engine summary gives the same opening as the Lectionary ("Eu agradeço a Deus de todo o coração junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!") and the title "As grandes obras do Senhor". Not verified on the page itself.
+
+v. 10a "O temor do Senhor é o princípio da sabedoria": verified in Almeida (ARA/NAA/ACF, bible.com, bibliaonline) — Protestant, Hebrew-based, cited only as evidence of how the line is known; MS1932 and DM1962 (parallels file) have the same words. A search summary also gave "Temer a Deus é o princípio do saber, e é sábio todo aquele que o pratica" — source page not identified; UNVERIFIED (possibly the CNBB LH wording).
+
+All CNBB wording is from the Hebrew (Ps 111) and paraphrastic; it is evidence of what a Brazilian ear knows, never of sense (rule 1).

@@ -1,0 +1,1245 @@
+{
+  "psalm": 105,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "105:1": "Dai graças ao Senhor, porque ele é bom: * porque é para sempre a sua misericórdia.",
+    "105:2": "Quem falará das potências do Senhor, * quem fará ouvir todos os seus louvores?",
+    "105:3": "Bem-aventurados os que guardam o juízo, * e {faciunt} a justiça em todo tempo.",
+    "105:4": "Lembrai-vos de nós, Senhor, {beneplacito} do vosso povo: * visitai-nos na vossa salvação:",
+    "105:5": "{videndum} dos vossos escolhidos, para nos alegrarmos na alegria da vossa nação: * {lauderis} com a vossa herança.",
+    "105:6": "Pecamos com os nossos pais: * agimos injustamente, fizemos a iniquidade.",
+    "105:7": "Os nossos pais no Egito não entenderam as vossas maravilhas: * não se lembraram da multidão da vossa misericórdia.",
+    "105:7b": "{irritaverunt}, subindo ao mar, * ao Mar Vermelho.",
+    "105:8": "E os salvou por causa do seu nome: * para fazer conhecer a sua potência.",
+    "105:9": "E repreendeu o Mar Vermelho, e ficou seco, * e os guiou pelos abismos como pelo deserto.",
+    "105:10": "E os salvou da mão dos que os odiavam: * e os resgatou da mão do inimigo.",
+    "105:11": "E a água cobriu os que os atribulavam: * não restou um só deles.",
+    "105:12": "E acreditaram nas suas palavras: * {laudaverunt}.",
+    "105:13": "{cito}: esqueceram-se das suas obras: * e não esperaram pelo seu desígnio.",
+    "105:14": "{concupierunt} no deserto: * e tentaram a Deus no lugar sem água.",
+    "105:15": "E deu-lhes a petição deles: * e enviou {saturitatem} às suas almas.",
+    "105:16": "E provocaram Moisés no acampamento: * Aarão, o santo do Senhor.",
+    "105:17": "Abriu-se a terra, e engoliu Datan: * e cobriu a congregação de Abiron.",
+    "105:18": "E um fogo se inflamou na congregação deles, * a chama queimou os pecadores.",
+    "105:19": "E fizeram um bezerro em Horeb, * e adoraram uma imagem esculpida.",
+    "105:20": "E trocaram a sua glória * pela semelhança de um bezerro que come feno.",
+    "105:21": "Esqueceram a Deus, que os salvou, * que fez grandes coisas no Egito, maravilhas na terra de Cam: coisas terríveis no Mar Vermelho.",
+    "105:23": "E disse que os exterminaria: * se Moisés, o seu escolhido, {stetisset} na brecha diante dele:",
+    "105:24": "Para desviar a sua ira, para que não os exterminasse: * e {pro_nihilo} a terra desejável:",
+    "105:25": "Não acreditaram na sua palavra, e murmuraram nas suas tendas: * não escutaram a voz do Senhor.",
+    "105:26": "E levantou a sua mão sobre eles: * para os prostrar no deserto:",
+    "105:27": "E para abater a descendência deles entre as nações: * e para os dispersar pelas regiões.",
+    "105:28": "{initiati}: * e comeram os sacrifícios dos mortos.",
+    "105:29": "E o provocaram com as suas invenções: * e se multiplicou entre eles a ruína.",
+    "105:30": "{stetit}, e aplacou: * e cessou {quassatio}.",
+    "105:31": "E lhe foi {reputatum} como justiça: * de geração em geração para todo o sempre.",
+    "105:32": "E o provocaram {aquas}: * e Moisés {vexatus} por causa deles: porque {exacerbaverunt} o seu espírito.",
+    "105:33": "{distinxit}. * Não exterminaram as nações {quas}.",
+    "105:35": "E se misturaram entre as nações, e aprenderam as obras delas: e serviram às imagens esculpidas delas: * e isso se tornou para eles um tropeço.",
+    "105:37": "E imolaram os seus filhos, * e as suas filhas aos demônios.",
+    "105:38": "E derramaram o sangue inocente: * o sangue dos seus filhos e das suas filhas, que sacrificaram às imagens esculpidas de Canaã.",
+    "105:39": "E a terra foi {infecta} de sangue, e foi contaminada pelas obras deles: * e se prostituíram nas suas invenções.",
+    "105:40": "E o Senhor se irou com furor contra o seu povo: * e abominou a sua herança.",
+    "105:41": "E os entregou nas mãos das nações: * {proclisis} aqueles que os odiavam.",
+    "105:42": "E os inimigos deles os atribularam, e foram humilhados sob as mãos deles: * muitas vezes os livrou.",
+    "105:43": "Eles, porém, o provocaram com o seu desígnio: * e foram humilhados nas suas iniquidades.",
+    "105:44": "E viu, quando eram atribulados: * e ouviu a oração deles.",
+    "105:45": "E se lembrou da sua aliança: * e {poenituit} segundo a multidão da sua misericórdia.",
+    "105:46": "{dedit} * diante de todos os que {ceperant}.",
+    "105:47": "Salvai-nos, Senhor, nosso Deus: * e {congrega} dentre as nações:",
+    "105:47b": "Para darmos graças ao vosso santo nome: * e nos gloriarmos no vosso louvor.",
+    "105:48": "Bendito o Senhor, Deus de Israel, desde sempre e para todo o sempre: * e todo o povo dirá: Assim seja, assim seja."
+  },
+  "decisions": [
+    {
+      "id": "faciunt",
+      "refs": [
+        "105:3"
+      ],
+      "latin": "et fáciunt justítiam",
+      "kind": "glossary",
+      "why": "fácere justítiam: the light verb kept as 'fazer', because 'praticar' is operári's verb (100:8 'os que praticam a iniquidade'; the ps100 ruling). DRB 'do justice'. MS1932 has 'praticam'. Also the Gradual of Quad2-0 and Commune C4c (105:3), where the colon must stand alone.",
+      "options": [
+        {
+          "label": "fazem",
+          "forms": {
+            "faciunt": "fazem"
+          },
+          "note": "draft — fácere → fazer; DRB 'do'",
+          "from": "draft"
+        },
+        {
+          "label": "praticam",
+          "forms": {
+            "faciunt": "praticam"
+          },
+          "note": "the natural collocation, MS1932; but operári's verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "beneplacito",
+      "refs": [
+        "105:4"
+      ],
+      "latin": "in beneplácito pópuli tui",
+      "kind": "glossary",
+      "why": "beneplácitum → favor (the 88:18 row, open): 'the favour of your people' keeps the Latin's openness (God's favour toward the people, or the people's delight). The versicle 'Meménto nostri, Dómine, in beneplácito pópuli tui. R. Vísita nos in salutári tuo' (Minor Special Advent, Adv4-0; missa Quad2-0) must read alone: it does.",
+      "options": [
+        {
+          "label": "no favor",
+          "forms": {
+            "beneplacito": "no favor"
+          },
+          "note": "draft — the 88:18 row; DRB \"in the favour of thy people\"",
+          "from": "draft"
+        },
+        {
+          "label": "no agrado",
+          "forms": {
+            "beneplacito": "no agrado"
+          },
+          "note": "the row's option; heard as the people's pleasure more than God's"
+        },
+        {
+          "label": "segundo a benevolência que tendes para com",
+          "forms": {
+            "beneplacito": "segundo a benevolência que tendes para com"
+          },
+          "note": "explains; resolves the genitive — refused (rule 2)",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "videndum",
+      "refs": [
+        "105:5"
+      ],
+      "latin": "Ad vidéndum in bonitáte electórum tuórum",
+      "kind": "grammar",
+      "why": "Ad + gerund three times in the verse (ad vidéndum, ad lætándum, ut laudéris). 'in bonitáte' after 'see': the Latin keeps the preposition (to see [us] in the good of your chosen). DRB 'see the good of thy chosen' drops it; MS1932 'vejamos a felicidade'. bónitas → bondade (row). Kept 'in' would read 'Para vermos, na bondade dos vossos escolhidos' — a dangling comma that the ear cannot resolve; dropped it, as DRB. v2: the Latinist (minor) asked the preposition back — 'to see in the goodness', the Hebraism for enjoying it, parallel to 'ad lætándum in lætítia' → 'na alegria'; with the parallel colon beside it the ear resolves it, and the ambiguity reader heard 'a bondade' as the chosen ones' virtue. Taken.",
+      "options": [
+        {
+          "label": "Para vermos na bondade",
+          "forms": {
+            "videndum": "Para vermos na bondade"
+          },
+          "note": "v2 — the Latinist; parallel to 'na alegria'",
+          "from": "latinist"
+        },
+        {
+          "label": "Para vermos a bondade",
+          "forms": {
+            "videndum": "Para vermos a bondade"
+          },
+          "note": "v1 draft — DRB's build; heard as the chosen ones' virtue",
+          "from": "draft"
+        },
+        {
+          "label": "Para vermos o bem",
+          "forms": {
+            "videndum": "Para vermos o bem"
+          },
+          "note": "the Hebrew's prosperity; bónum, not bónitas",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "lauderis",
+      "refs": [
+        "105:5"
+      ],
+      "latin": "ut laudéris cum hereditáte tua",
+      "kind": "ambiguity",
+      "why": "laudéris is 2nd singular passive: God is praised together with his inheritance. The Greek τοῦ ἐπαινεῖσθαι and the Hebrew (lehithallel, 'to glory') make the people the subject. Rule 1: the Latin. DRB 'that thou mayst be praised with thy inheritance'.",
+      "options": [
+        {
+          "label": "para serdes louvado",
+          "forms": {
+            "lauderis": "para serdes louvado"
+          },
+          "note": "draft — the Latin's person; DRB",
+          "from": "draft"
+        },
+        {
+          "label": "para nos gloriarmos",
+          "forms": {
+            "lauderis": "para nos gloriarmos"
+          },
+          "note": "the Greek and the Hebrew — against the Latin",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "irritaverunt",
+      "refs": [
+        "105:7b"
+      ],
+      "latin": "Et irritavérunt ascendéntes in mare, * Mare Rubrum",
+      "kind": "grammar",
+      "why": "irritáre → provocar (D27). The Latin has no object (the Greek παρεπίκραναν neither); MS1932 supplies 'te', DRB 'provoked to wrath'. The participle kept as a gerund. 'ao Mar Vermelho' in apposition to 'ao mar', as the Latin repeats 'mare … Mare Rubrum'.",
+      "options": [
+        {
+          "label": "E provocaram",
+          "forms": {
+            "irritaverunt": "E provocaram"
+          },
+          "note": "draft — absolute, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "E provocaram-vos",
+          "forms": {
+            "irritaverunt": "E provocaram-vos"
+          },
+          "note": "MS1932's 'te' — the verse before addresses God; adds an object"
+        },
+        {
+          "label": "E provocaram-no",
+          "forms": {
+            "irritaverunt": "E provocaram-no"
+          },
+          "note": "the third person of verse 8; adds an object"
+        }
+      ]
+    },
+    {
+      "id": "laudaverunt",
+      "refs": [
+        "105:12"
+      ],
+      "latin": "et laudavérunt laudem ejus",
+      "kind": "word",
+      "why": "The Latin's figura etymologica (laudáre laudem), where the Greek has ᾖσαν τὴν αἴνεσιν 'sang'. Rule 2 keeps the repetition; laus → louvor (row), laudáre → louvar. MS1932 'cantaram o seu louvor' follows the Greek.",
+      "options": [
+        {
+          "label": "e louvaram o seu louvor",
+          "forms": {
+            "laudaverunt": "e louvaram o seu louvor"
+          },
+          "note": "draft — the Latin's repetition kept",
+          "from": "draft"
+        },
+        {
+          "label": "e cantaram o seu louvor",
+          "forms": {
+            "laudaverunt": "e cantaram o seu louvor"
+          },
+          "note": "MS1932 and the Greek; cantáre is not in the Latin",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cito",
+      "refs": [
+        "105:13"
+      ],
+      "latin": "Cito fecérunt, oblíti sunt óperum ejus",
+      "kind": "grammar",
+      "why": "Cito fecérunt: the Greek ἐτάχυναν 'they hastened' — the Latin makes two words of it, 'they did quickly'. DRB 'They had quickly done, they forgot his works'; MS1932 folds it into 'depressa esqueceram'. 'Depressa o fizeram' keeps the verb and lets 'o' point forward to the forgetting, as the Latin's bare fecérunt does. v2: the Latinist (minor) faulted 'o' as an added object and asked 'Depressa agiram' — refused: agir is ágere's verb in 105:6 ('agimos injustamente'), and Portuguese 'fazer' needs an object, which rule 2 lets us supply; the stylist's colon makes 'o' point forward to the forgetting (the ambiguity reader could not place it). Option. Gate (v2 Latinist, minor): asked 'Depressa fizeram' and the comma — held: the bare transitive is ungrammatical, and the ambiguity reader could not place 'o' until the colon.",
+      "options": [
+        {
+          "label": "Depressa o fizeram",
+          "forms": {
+            "cito": "Depressa o fizeram"
+          },
+          "note": "draft — both Latin words; DRB",
+          "from": "draft"
+        },
+        {
+          "label": "Apressaram-se",
+          "forms": {
+            "cito": "Apressaram-se"
+          },
+          "note": "the Greek verb; drops fácere"
+        },
+        {
+          "label": "Depressa (esqueceram-se)",
+          "forms": {
+            "cito": "Depressa"
+          },
+          "note": "MS1932: the adverb only — drops fecérunt; would need 'esqueceram-se' to follow without comma",
+          "from": "MS1932",
+          "warn": true
+        },
+        {
+          "label": "Depressa agiram",
+          "forms": {
+            "cito": "Depressa agiram"
+          },
+          "note": "the Latinist; ágere's verb (105:6)",
+          "from": "latinist"
+        },
+        {
+          "label": "Depressa fizeram,",
+          "forms": {
+            "cito": "Depressa fizeram,"
+          },
+          "note": "the v2 Latinist; 'fazer' without its object is not Portuguese",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "concupierunt",
+      "refs": [
+        "105:14"
+      ],
+      "latin": "Et concupiérunt concupiscéntiam in desérto",
+      "kind": "glossary",
+      "why": "concupíscere: the row (open) proposes cobiçar for goods, ansiar por for the good; the craving for meat in the desert is the first. The cognate object kept (rule 2) as 'com cobiça', the Portuguese figura (cf. 'desejei com desejo'). DRB 'they coveted their desire'; MS1932 'cobiçaram delícias'.",
+      "options": [
+        {
+          "label": "E cobiçaram com cobiça",
+          "forms": {
+            "concupierunt": "E cobiçaram com cobiça"
+          },
+          "note": "draft — the row's split, the repetition kept",
+          "from": "draft"
+        },
+        {
+          "label": "E arderam de cobiça",
+          "forms": {
+            "concupierunt": "E arderam de cobiça"
+          },
+          "note": "natural, but one verb and an image not in the Latin"
+        },
+        {
+          "label": "E ansiaram com ânsia",
+          "forms": {
+            "concupierunt": "E ansiaram com ânsia"
+          },
+          "note": "the row's main word; for a sinful craving too gentle"
+        }
+      ]
+    },
+    {
+      "id": "saturitatem",
+      "refs": [
+        "105:15"
+      ],
+      "latin": "et misit saturitátem in ánimas eórum",
+      "kind": "word",
+      "why": "saturitas: L&S 'fullness, plenty'. The Latin follows the Greek πλησμονή against the Hebrew's 'leanness' (rule 1). The saciar family (saturáre row) gives 'saciedade'; 'fartura' is the plainer concrete word (MS1932 'fartou-os').",
+      "options": [
+        {
+          "label": "fartura",
+          "forms": {
+            "saturitatem": "fartura"
+          },
+          "note": "draft — plenty, concrete",
+          "from": "draft"
+        },
+        {
+          "label": "saciedade",
+          "forms": {
+            "saturitatem": "saciedade"
+          },
+          "note": "the noun of saciar (the saturáre row); abstract"
+        },
+        {
+          "label": "magreza",
+          "forms": {
+            "saturitatem": "magreza"
+          },
+          "note": "the Hebrew — against the Latin",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "stetisset",
+      "refs": [
+        "105:23",
+        "105:30"
+      ],
+      "latin": "si non Móyses … stetísset in confractióne",
+      "kind": "word",
+      "why": "stare → estar de pé (row, open). The counterfactual pluperfect with 'estar de pé' is heavy ('não tivesse estado de pé'); 'pôr-se' says the taking of a stand, and 105:30 'stetit Phínees' takes the same verb ('se pôs de pé'). confráctio → brecha: L&S cite this verse, 'a breach' (the Greek θραῦσις).",
+      "options": [
+        {
+          "label": "não se tivesse posto",
+          "forms": {
+            "stetisset": "não se tivesse posto"
+          },
+          "note": "draft — MS1932 \"se não tivesse posto\"",
+          "from": "MS1932"
+        },
+        {
+          "label": "não estivesse de pé",
+          "forms": {
+            "stetisset": "não estivesse de pé"
+          },
+          "note": "the row's verb, the imperfect subjunctive"
+        },
+        {
+          "label": "não se tivesse mantido",
+          "forms": {
+            "stetisset": "não se tivesse mantido"
+          },
+          "note": "firmness; a new verb"
+        }
+      ]
+    },
+    {
+      "id": "initiati",
+      "refs": [
+        "105:28"
+      ],
+      "latin": "Et initiáti sunt Beélphegor",
+      "kind": "word",
+      "why": "initiári + dative: L&S 'to initiate into mysteries' (the Greek ἐτελέσθησαν). The passive kept. MS1932 'consagraram-se a' turns it active. Beelfegor as MS1932 (59:9's rule: MS1932's forms of names).",
+      "options": [
+        {
+          "label": "E foram iniciados em Beelfegor",
+          "forms": {
+            "initiati": "E foram iniciados em Beelfegor"
+          },
+          "note": "draft — the Latin's passive and verb",
+          "from": "draft"
+        },
+        {
+          "label": "E consagraram-se a Beelfegor",
+          "forms": {
+            "initiati": "E consagraram-se a Beelfegor"
+          },
+          "note": "MS1932; another verb, active",
+          "from": "MS1932"
+        },
+        {
+          "label": "E iniciaram-se no culto de Beelfegor",
+          "forms": {
+            "initiati": "E iniciaram-se no culto de Beelfegor"
+          },
+          "note": "explains 'culto' — refused (rule 2)",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "stetit",
+      "refs": [
+        "105:30"
+      ],
+      "latin": "Et stetit Phínees",
+      "kind": "word",
+      "why": "The same verb as 105:23 (stare), so the same Portuguese. Phínees → Finéas, MS1932's form (59:9's rule); modern Bibles write Fineias. v2: proclisis (see 105:8). The stylist asked 'E levantou-se Fineias': the current spelling is an option (59:9's rule keeps MS1932's forms; the ambiguity reader did not know the name, as expected for names); 'levantar-se' would break the echo with 105:23. The stylist's form added as an option.",
+      "options": [
+        {
+          "label": "E Finéas se pôs de pé",
+          "forms": {
+            "stetit": "E Finéas se pôs de pé"
+          },
+          "note": "draft — MS1932's name; 105:23's verb",
+          "from": "draft"
+        },
+        {
+          "label": "E Fineias se pôs de pé",
+          "forms": {
+            "stetit": "E Fineias se pôs de pé"
+          },
+          "note": "the current spelling"
+        },
+        {
+          "label": "E apresentou-se Finéas",
+          "forms": {
+            "stetit": "E apresentou-se Finéas"
+          },
+          "note": "MS1932; another verb than 105:23",
+          "from": "MS1932"
+        },
+        {
+          "label": "E levantou-se Fineias",
+          "forms": {
+            "stetit": "E levantou-se Fineias"
+          },
+          "note": "the stylist; another verb than 105:23's",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "quassatio",
+      "refs": [
+        "105:30"
+      ],
+      "latin": "et cessávit quassátio",
+      "kind": "word",
+      "why": "quassátio: L&S 'a shaking; a disturbance, affliction', citing this verse; the Greek θραῦσις (a smashing, a slaughter) is the same word as 105:23's confráctio, which the Latin splits. 'Flagelo' (MS1932) belongs to flagéllum (D39); 'aflição' to afflíctio; 'ruína' is 105:29's. 'abalo' is the shaking, but may be heard as an earthquake.",
+      "options": [
+        {
+          "label": "o abalo",
+          "forms": {
+            "quassatio": "o abalo"
+          },
+          "note": "draft — the root sense (quassáre, shake)",
+          "from": "draft"
+        },
+        {
+          "label": "a mortandade",
+          "forms": {
+            "quassatio": "a mortandade"
+          },
+          "note": "DRB 'the slaughter'; the event, named more than the Latin does"
+        },
+        {
+          "label": "o flagelo",
+          "forms": {
+            "quassatio": "o flagelo"
+          },
+          "note": "MS1932; flagéllum's word (D39)",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "aquas",
+      "refs": [
+        "105:32"
+      ],
+      "latin": "ad aquas contradictiónis",
+      "kind": "glossary",
+      "why": "contradíctio → contenda (row), which notes 105:32 as a proper name may keep 'contradição'. 'Águas da contradição' is the traditional Catholic name (MS1932 'Águas da contradição'), the Latin word kept; 'Meribá' is the Hebrew.",
+      "options": [
+        {
+          "label": "junto às águas da contradição",
+          "forms": {
+            "aquas": "junto às águas da contradição"
+          },
+          "note": "draft — MS1932; ad → junto a",
+          "from": "MS1932"
+        },
+        {
+          "label": "junto às águas da contenda",
+          "forms": {
+            "aquas": "junto às águas da contenda"
+          },
+          "note": "the row's word"
+        },
+        {
+          "label": "junto às águas de Meribá",
+          "forms": {
+            "aquas": "junto às águas de Meribá"
+          },
+          "note": "the Hebrew — against the Latin",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "exacerbaverunt",
+      "refs": [
+        "105:32"
+      ],
+      "latin": "quia exacerbavérunt spíritum ejus",
+      "kind": "glossary",
+      "why": "exacerbáre beside irritáre in one verse: D27 decides locally. Both are παροξύνω/παραπικραίνω in the Greek; here the Greek is παρεπίκραναν 'embittered', and acerbus is bitter. 'amargurar' gives the Latin root. 'o seu espírito' left open between Moses' and God's, as 'ejus'.",
+      "options": [
+        {
+          "label": "amarguraram",
+          "forms": {
+            "exacerbaverunt": "amarguraram"
+          },
+          "note": "draft — the root (acerbus), the Greek πικρ-",
+          "from": "draft"
+        },
+        {
+          "label": "exasperaram",
+          "forms": {
+            "exacerbaverunt": "exasperaram"
+          },
+          "note": "the row's earlier proposal; unknown to a blind reader in Ps 9"
+        },
+        {
+          "label": "perturbaram",
+          "forms": {
+            "exacerbaverunt": "perturbaram"
+          },
+          "note": "MS1932; conturbáre's word",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "distinxit",
+      "refs": [
+        "105:33"
+      ],
+      "latin": "Et distínxit in lábiis suis",
+      "kind": "glossary",
+      "why": "distínguere lábia → pronunciar (the 65:13 row, the same Greek διέστειλεν, to utter distinctly). The Latin names no object; the Hebrew 'spoke rashly' is not in it. MS1932 'foi duvidoso nas suas palavras' is a gloss. v2: the Latinist (minor) asked 'proferiu distintamente' for the note of distinct utterance — refused: the 65:13 row (the same Greek) has 'pronunciou', whose root is already 'utter clearly'; option. The ambiguity reader heard the next colon as what was pronounced: the colon punctuation replaced by a full stop (the Latin verse joins Greek 33 and 34, two sentences). Gate (v2 Latinist, minor): asked 'distinguiu' — held under the 65:13 row; already an option (DRB).",
+      "options": [
+        {
+          "label": "E pronunciou com os seus lábios",
+          "forms": {
+            "distinxit": "E pronunciou com os seus lábios"
+          },
+          "note": "draft — 65:13",
+          "from": "draft"
+        },
+        {
+          "label": "E distinguiu com os seus lábios",
+          "forms": {
+            "distinxit": "E distinguiu com os seus lábios"
+          },
+          "note": "DRB 'he distinguished with his lips'",
+          "from": "DRB"
+        },
+        {
+          "label": "E proferiu distintamente com os seus lábios",
+          "forms": {
+            "distinxit": "E proferiu distintamente com os seus lábios"
+          },
+          "note": "the Latinist; longer, adds an adverb",
+          "from": "latinist"
+        },
+        {
+          "label": "E foi duvidoso nas suas palavras",
+          "forms": {
+            "distinxit": "E foi duvidoso nas suas palavras"
+          },
+          "note": "MS1932 — a gloss",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "quas",
+      "refs": [
+        "105:33"
+      ],
+      "latin": "gentes, quas dixit Dóminus illis",
+      "kind": "grammar",
+      "why": "quas dixit: 'the nations the Lord told them of'. DRB 'the nations of which the Lord spoke unto them'; MS1932 'que o Senhor lhes tinha indicado'. dícere → dizer would need 'que o Senhor lhes dissera', which Portuguese hears as 'the nations the Lord said'.",
+      "options": [
+        {
+          "label": "de que o Senhor lhes tinha falado",
+          "forms": {
+            "quas": "de que o Senhor lhes tinha falado"
+          },
+          "note": "draft — DRB's build",
+          "from": "DRB"
+        },
+        {
+          "label": "que o Senhor lhes dissera",
+          "forms": {
+            "quas": "que o Senhor lhes dissera"
+          },
+          "note": "dícere → dizer, word for word"
+        },
+        {
+          "label": "que o Senhor lhes tinha indicado",
+          "forms": {
+            "quas": "que o Senhor lhes tinha indicado"
+          },
+          "note": "MS1932; another verb",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "infecta",
+      "refs": [
+        "105:39"
+      ],
+      "latin": "Et infécta est terra in sanguínibus",
+      "kind": "word",
+      "why": "infícere: L&S 'to stain, dye, taint'. in sanguínibus → 'de sangue' (D29, singular). MS1932 'infeccionada'; DRB 'polluted'. v2: the Latinist (minor) asked the plural 'com sangues' — refused: D29 settled the singular for sanguínes (the row cites 105:39). Gate: the plural asked again — held, D29.",
+      "options": [
+        {
+          "label": "manchada",
+          "forms": {
+            "infecta": "manchada"
+          },
+          "note": "draft — the stain",
+          "from": "draft"
+        },
+        {
+          "label": "infectada",
+          "forms": {
+            "infecta": "infectada"
+          },
+          "note": "the cognate, MS1932; heard as disease",
+          "from": "MS1932"
+        },
+        {
+          "label": "poluída",
+          "forms": {
+            "infecta": "poluída"
+          },
+          "note": "DRB 'polluted'; heard as environmental",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "poenituit",
+      "refs": [
+        "105:45"
+      ],
+      "latin": "et pœnítuit eum",
+      "kind": "word",
+      "why": "pœnitére of God (μετεμελήθη): DRB 'repented'; MS1932 'teve piedade deles' explains. The Latin says repent; the tradition reads it of God's turning from wrath.",
+      "options": [
+        {
+          "label": "arrependeu-se",
+          "forms": {
+            "poenituit": "arrependeu-se"
+          },
+          "note": "draft — the Latin; DRB",
+          "from": "draft"
+        },
+        {
+          "label": "teve compaixão",
+          "forms": {
+            "poenituit": "teve compaixão"
+          },
+          "note": "MS1932's sense — explains",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "dedit",
+      "refs": [
+        "105:46"
+      ],
+      "latin": "Et dedit eos in misericórdias",
+      "kind": "grammar",
+      "why": "dare … in misericórdias: 'gave them over to mercies' (the Greek εἰς οἰκτιρμούς), i.e. made them objects of pity before their captors. The plural kept; 'dar' kept (trádere → entregar is 105:41's). v2: the ambiguity reader heard 'deu-os às misericórdias diante de … os que os tinham capturado' as 'gave them over to the mercy of their captors' — the opposite of the Latin (made them objects of pity). A literal wording heard in reverse fails rule 2's purpose; 'fez que achassem misericórdia' keeps the noun and the captors, and says who is pitied. The singular, as the Portuguese idiom 'achar misericórdia'. Gate (v2 Latinist, minor): called 'fez que achassem' a paraphrase and asked 'E os entregou às misericórdias' — held: the word-for-word build was heard by the blind reader as its opposite, and 'entregar' is trádere's (105:41). His form added as an option. For Gustavo.",
+      "options": [
+        {
+          "label": "E fez que achassem misericórdia",
+          "forms": {
+            "dedit": "E fez que achassem misericórdia"
+          },
+          "note": "v2 — the literal build was heard as its opposite (ambiguity reader)",
+          "from": "draft"
+        },
+        {
+          "label": "E deu-os às misericórdias",
+          "forms": {
+            "dedit": "E deu-os às misericórdias"
+          },
+          "note": "v1 draft — word for word; heard as 'at the captors' mercy'",
+          "from": "draft",
+          "warn": true
+        },
+        {
+          "label": "E entregou-os à misericórdia",
+          "forms": {
+            "dedit": "E entregou-os à misericórdia"
+          },
+          "note": "smoother; trádere's verb and a singular"
+        },
+        {
+          "label": "E os entregou às misericórdias",
+          "forms": {
+            "dedit": "E os entregou às misericórdias"
+          },
+          "note": "the v2 Latinist; trádere's verb; risk of 'at their mercy'",
+          "from": "latinist",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "ceperant",
+      "refs": [
+        "105:46"
+      ],
+      "latin": "ómnium qui céperant eos",
+      "kind": "glossary",
+      "why": "cápere → tomar (the 58:4 row). With persons as object 'tomar' is unclear in Portuguese; 'capturar' says taking prisoners (the Greek αἰχμαλωτισάντων, 'made captive').",
+      "options": [
+        {
+          "label": "os tinham capturado",
+          "forms": {
+            "ceperant": "os tinham capturado"
+          },
+          "note": "draft — a local departure from the row",
+          "from": "draft"
+        },
+        {
+          "label": "os tinham tomado",
+          "forms": {
+            "ceperant": "os tinham tomado"
+          },
+          "note": "the row's verb (58:4)"
+        },
+        {
+          "label": "os tinham levado cativos",
+          "forms": {
+            "ceperant": "os tinham levado cativos"
+          },
+          "note": "the Greek; longer"
+        }
+      ]
+    },
+    {
+      "id": "congrega",
+      "refs": [
+        "105:47"
+      ],
+      "latin": "et cóngrega nos de natiónibus",
+      "kind": "glossary",
+      "why": "congregáre with people as object: congregári → reunir-se (D43) for people gathering; the active 15:4b took 'congregar'. 'reuni-nos' has an enclitic, so no clash with a past. Also the Introit of Nat2-0 and the Matins V/R (105:47–47b).",
+      "options": [
+        {
+          "label": "reuni-nos",
+          "forms": {
+            "congrega": "reuni-nos"
+          },
+          "note": "draft — the people-gathering verb (D43)",
+          "from": "draft"
+        },
+        {
+          "label": "congregai-nos",
+          "forms": {
+            "congrega": "congregai-nos"
+          },
+          "note": "the cognate; 15:4b"
+        }
+      ]
+    },
+    {
+      "id": "vexatus",
+      "refs": [
+        "105:32"
+      ],
+      "latin": "et vexátus est Móyses propter eos",
+      "kind": "glossary",
+      "why": "vexáre → maltratar (the 93:5 row names 105:32). v2: the Latinist (minor) said 'maltratado' implies a mistreating agent and asked 'afligido' — refused, afflígere's word; the row holds. MS1932 'foi castigado' names God as agent. Option.",
+      "options": [
+        {
+          "label": "foi maltratado",
+          "forms": {
+            "vexatus": "foi maltratado"
+          },
+          "note": "draft — the row (93:5)",
+          "from": "draft"
+        },
+        {
+          "label": "foi afligido",
+          "forms": {
+            "vexatus": "foi afligido"
+          },
+          "note": "the Latinist; afflígere's word",
+          "from": "latinist"
+        },
+        {
+          "label": "foi castigado",
+          "forms": {
+            "vexatus": "foi castigado"
+          },
+          "note": "MS1932; names an agent",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "proclisis",
+      "refs": [
+        "105:8",
+        "105:9",
+        "105:10",
+        "105:18",
+        "105:29",
+        "105:31",
+        "105:32",
+        "105:35",
+        "105:39",
+        "105:40",
+        "105:41",
+        "105:42",
+        "105:43",
+        "105:45"
+      ],
+      "latin": "(Portuguese clitic placement)",
+      "kind": "order",
+      "why": "v1 had European enclisis after 'E' throughout the narrative (salvou-os, provocaram-no, dominaram-nos). The stylist: in vv. 41–42 'dominaram-nos', 'atribularam-nos' are heard as 'us' in a psalm that alternates we and they; '-no' blurs into '-nos' in choir (29, 32, 43). Proclisis is current Brazilian usage after 'E' and after a subject (Ps 104:37 'E os tirou'). Taken psalm-wide; sentence-initial verbs keep enclisis ('Abriu-se a terra', 'Esqueceram-se', imperatives). The slot sits on 105:41 (the worst case); the other refs follow the same ruling.",
+      "options": [
+        {
+          "label": "proclisis after E / subject",
+          "forms": {
+            "proclisis": "e os dominaram"
+          },
+          "note": "v2 — the stylist",
+          "from": "stylist"
+        },
+        {
+          "label": "enclisis (v1)",
+          "forms": {
+            "proclisis": "e dominaram-nos"
+          },
+          "note": "v1; 'dominaram-nos' heard as 'us'",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "pro_nihilo",
+      "refs": [
+        "105:24"
+      ],
+      "latin": "et pro níhilo habuérunt terram desiderábilem",
+      "kind": "glossary",
+      "why": "pro níhilo habére is 'to count as nothing, despise' (the Greek ἐξουδένωσαν). v1 'tiveram por nada' followed the D44 row pro níhilo → por nada (55:8, another sense: 'for nothing'), and the ambiguity reader heard exactly that ('they got the land for nothing'). 'ter em nada' is the Portuguese idiom for despising (the stylist). Taken; D44 stands for 55:8, where pro níhilo is adverbial, not the object's value.",
+      "options": [
+        {
+          "label": "tiveram em nada",
+          "forms": {
+            "pro_nihilo": "tiveram em nada"
+          },
+          "note": "v2 — the stylist; the idiom",
+          "from": "stylist"
+        },
+        {
+          "label": "tiveram por nada",
+          "forms": {
+            "pro_nihilo": "tiveram por nada"
+          },
+          "note": "v1 — D44's words; heard as 'for free'",
+          "warn": true
+        },
+        {
+          "label": "desprezaram",
+          "forms": {
+            "pro_nihilo": "desprezaram"
+          },
+          "note": "MS1932-like sense; drops the Latin build"
+        }
+      ]
+    },
+    {
+      "id": "reputatum",
+      "refs": [
+        "105:31"
+      ],
+      "latin": "Et reputátum est ei in justítiam",
+      "kind": "word",
+      "why": "v1 borrowed imputáre's 'atribuir' (31:2, the same Greek λογίζομαι). But reputáre is another Latin verb (L&S 'to reckon, count'), so it may keep its own word; the stylist asked 'contado como justiça', the phrase Portuguese ears know from Gen 15:6 and Rom 4. Taken, without the stylist's added 'isto' (the Latin is impersonal).",
+      "options": [
+        {
+          "label": "contado",
+          "forms": {
+            "reputatum": "contado"
+          },
+          "note": "v2 — the stylist, without \"isto\"",
+          "from": "stylist"
+        },
+        {
+          "label": "atribuído",
+          "forms": {
+            "reputatum": "atribuído"
+          },
+          "note": "v1 — imputáre's word (31:2)"
+        },
+        {
+          "label": "imputado",
+          "forms": {
+            "reputatum": "imputado"
+          },
+          "note": "MS1932; juridical",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "105:1": "= 117:1 word for word (D5, D14).",
+    "105:2": "poténtia → potência (row; 70:19). v2: 'quem' repeated in the second colon (the stylist: the ear loses the subject); the Latin's one 'quis' governs both — a pronoun Portuguese needs, not an addition of sense. The ambiguity reader heard 'potências' vaguely: kept, the row.",
+    "105:3": "Gradual of Quad2-0 and Commune C4c; stands alone.",
+    "105:4": "Versicle and response (Minor Special Advent, Adv4-0; missa Quad2-0): both colons stand alone. 'Lembrai-vos', 'visitai-nos': enclitics, so no clash with a past.",
+    "105:5": "gens (singular) → nação (42:1).",
+    "105:6": "A versicle in 093-0. 'Pecamos' is also the present in pt-BR; the verse's other perfects fix the past. iniquitátem fácere → 'fizemos a iniquidade' (row).",
+    "105:7": "memor esse → lembrar-se de (row); multitúdo → multidão (row 5:7b).",
+    "105:7b": "The Latin repeats mare; kept.",
+    "105:8": "Matins antiphon 'Salvávit eos Dóminus propter nomen suum' → 'Salvou-os o Senhor por causa do seu nome'. notam fácere → 'fazer conhecer' (97:2). v2: 'fazer conhecer' kept against the stylist's 'dar a conhecer' — the 97:2 row, whose stylist asked the same and was refused for the cross-psalm repetition (rule 6).",
+    "105:9": "increpáre → repreender (row); dedúcere → guiar (D22). v2: 'e ficou seco' for exsiccátum est (the stylist; the passive's state, no pronoun for the sea).",
+    "105:10": "redímere → resgatar (row).",
+    "105:11": "operíre → cobrir, as 105:17. tribuláre → atribular (row).",
+    "105:12": "crédere + dative → acreditar em (row, open). Ps 77:22 'non credidérunt in Deo' has 'creram em' — another construction.",
+    "105:13": "oblivísci + genitive → esquecer-se de (58:12 row); sustinére with a non-divine object → esperar por (the D36 build); consílium (God's purpose) → desígnio (D33).",
+    "105:14": "tentáre Deum → tentar a Deus; in inaquóso → 'no lugar sem água' (Ps 77:17, 40). v2: the stylist asked 'na terra sem água' — refused, Ps 77's formula (rule 6).",
+    "105:15": "petítio → petição (36:4); 'deles' for ipsórum, so the gift is not heard as God's own petition. v2: the stylist asked 'o seu pedido' — refused: petítio → petição (36:4), and 'o seu' would be heard as God's.",
+    "105:16": "irritáre → provocar (D27); castra → acampamento (26:3); Aarão (the names row, 117:3; Ps 104:26).",
+    "105:17": "deglutíre → engolir (the absorbére row prefers it to tragar). Datan, Abiron as MS1932 (59:9's rule). 'opéruit super' → 'cobriu' — the Latin's 'super' is the Greek ἐπί and adds no sense in Portuguese.",
+    "105:18": "synagóga → congregação (the row names 105:17–18: the Greek has συναγωγή in both). exardéscere → inflamar-se, built as 38:4 'um fogo se inflamará'. v2: the stylist asked 'acendeu-se … assembleia' — refused, the rows (assembleia would open a third collision); proclisis taken.",
+    "105:19": "vítulus → bezerro (the 21:13 row foresaw 105:19–20); scúlptile → imagem esculpida (77:58, 96:7).",
+    "105:20": "mutáre … in → trocar … por.",
+    "105:21": "Matins antiphon 'Oblíti sunt Deum qui salvávit eos' → 'Esqueceram a Deus, que os salvou' — the accusative, as 49:22 (the verb without 'se', against 105:13's genitive). magnália → grandes coisas (70:19 row); Cam, Egito (Ps 77 names). v2: the stylist asked 'grandes obras … prodígios terríveis' — refused: magnália → grandes coisas (70:19 row), ópera → obras, prodígia → prodígios; option noted here.",
+    "105:23": "dispérdere → exterminar (row), three times in 105:23–24 and again 105:33 — kept. in conspéctu ejus → 'diante dele' (as 105:46).",
+    "105:24": "avértere iram → desviar a ira (77:38b); pro níhilo → por nada (D44); desiderábilis → desejável.",
+    "105:25": "exaudíre → escutar (D3); murmuráre → murmurar; tabernáculum → tenda (row).",
+    "105:26": "eleváre manum → levantar a mão; prostérnere → prostrar.",
+    "105:27": "deícere → abater (36:14b row); semen → descendência (D32; the row lists 105:27); dispérgere → dispersar.",
+    "105:29": "irritáre → provocar (D27); adinvéntio → invenções (27:4 row, which names 105:29 and 39); 'com' here, 'nas' at 105:39, where the verb takes 'em'.",
+    "105:31": "reputáre in justítiam → 'atribuído como justiça' (imputáre → atribuir, 31:2; the same Greek λογίζομαι). in generatiónem et generatiónem usque in sempitérnum → 'de geração em geração para todo o sempre' (D37).",
+    "105:32": "vexáre → maltratar (93:5 row, which names 105:32).",
+    "105:35": "scándalum → tropeço (row names 105:35); 'e isso se tornou para eles' as 68:11's build. 'delas' twice for eórum (the nations'), where 'suas' would be heard as Israel's own. v2: the stylist asked 'às suas imagens esculpidas' to lighten the second 'delas' — refused: 'suas' would give Israel the idols the Latin's eórum gives the nations.",
+    "105:37": "immoláre → imolar (D44 row names 105:37).",
+    "105:38": "Canaã, as Ps 104:11 (MS1932 'Canaan').",
+    "105:39": "contamináre → contaminar (D44 row names 105:39); fornicári → prostituir-se (72:27 row names 105:39).",
+    "105:40": "irásci → irar-se; abominári → abominar (row names 105:40).",
+    "105:41": "trádere → entregar; dominári → dominar. v2: proclisis and 'aqueles que' (the stylist, worst line): 'dominaram-nos' was heard as 'us'.",
+    "105:42": "sæpe → 'muitas vezes'; liberáre → livrar; humiliáre → humilhar. v2: subject first and proclisis (the stylist): 'atribularam-nos' was heard as 'us'.",
+    "105:43": "exacerbáre alone → provocar (D27). consílium (their purpose) → desígnio (D33), as 105:13.",
+    "105:44": "Matins antiphon 'Cum tribularéntur vidit Dóminus: et audívit oratiónem eórum' → 'Quando eram atribulados, viu o Senhor: e ouviu a oração deles' — reads alone. No object supplied for vidit, as the Latin.",
+    "105:45": "testaméntum → aliança (row); 'segundo a multidão da sua misericórdia' (5:7b build).",
+    "105:47": "Introit of Nat2-0; with 105:47b the Matins V/R (Psalmi matutinum). Both colons stand alone.",
+    "105:47b": "confitéri → dar graças a (D5); gloriári in → gloriar-se em (row); laus → louvor.",
+    "105:48": "= 40:14 with 'e todo o povo dirá' (D41: fiat, fiat → assim seja, assim seja). a sǽculo et usque in sǽculum → 'desde sempre e para todo o sempre' (40:14)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps105.md. Glossary rows read for every controlled word (ps077/gl.py; dump in ps105/tools/gl_dump.txt); twins by ps105/tools/twins.py (117:1, 40:14, 70:19, 97:2, 65:13, 72:27, 93:5); Ps 77's narrative wording and Ps 104's draft names (Aarão, Canaã, Cam) followed. Liturgical uses by ps105/tools/uses.py: V/R 105:4 (Advent), 105:47–47b (Matins V/R, Introit Nat2-0), 105:6 (093-0), 105:2–3 (Quad2-0), 105:3 (C4c); Matins antiphons 105:8, 105:21a, 105:44. Hard readings: 105:13 Cito fecérunt, 105:30 quassátio, 105:33 distínxit in lábiis, 105:46 dedit in misericórdias, 105:5 laudéris (Latin against Greek/Hebrew)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft: length -6 at 105:31b (the D37 formula 'de geração em geração para todo o sempre' is shorter than the Latin), -5 at 105:29a ('invenções' for adinventiónibus), +5 at 105:19b ('imagem esculpida', the row, for scúlptile), +4 at 105:24a, 105:33b, 105:35b, 105:44a, 105:48b (the D41 formula), -4 at 105:4a, 105:15a, 105:39a, 105:43a; +3/-3 elsewhere — each one breath, accepted. Rhyme -ões at 105:27 (nações / regiões): the Latin's own echo (natiónibus / regiónibus), accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. No major; five minors: one taken, four refused as options.",
+      "outcomes": [
+        {
+          "verse": "105:5",
+          "remark": "'in bonitáte' dropped",
+          "outcome": "taken",
+          "decision": "videndum"
+        },
+        {
+          "verse": "105:13",
+          "remark": "'o' adds an object; 'Depressa agiram'",
+          "outcome": "option",
+          "decision": "cito",
+          "reason": "agir is ágere's (105:6); fazer needs its object; the colon makes it point forward."
+        },
+        {
+          "verse": "105:32",
+          "remark": "'maltratado' implies an agent; 'afligido'",
+          "outcome": "option",
+          "decision": "vexatus",
+          "reason": "vexáre → maltratar row (93:5); afligir is afflígere's."
+        },
+        {
+          "verse": "105:33",
+          "remark": "'pronunciou' weak; 'proferiu distintamente'",
+          "outcome": "option",
+          "decision": "distinxit",
+          "reason": "65:13 row, the same Greek."
+        },
+        {
+          "verse": "105:39",
+          "remark": "plural 'sangues'",
+          "outcome": "refused",
+          "decision": "infecta",
+          "reason": "D29 settled the singular."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. Sixteen remarks; worst line 105:41, best 105:47b. Proclisis taken psalm-wide (decision proclisis); 105:2, 9, 13, 24, 31, 41, 42, 43 taken; 105:8 fazer conhecer, 14, 15, 18, 21, 30 name, 35 refused for glossary rows or rule 6.",
+      "outcomes": [
+        {
+          "verse": "105:2",
+          "remark": "repeat 'quem'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "105:8",
+          "remark": "proclisis; 'dar a conhecer'",
+          "outcome": "taken in part",
+          "reason": "proclisis taken; 'fazer conhecer' is the 97:2 row (rule 6)."
+        },
+        {
+          "verse": "105:9",
+          "remark": "'e ficou seco', proclisis",
+          "outcome": "taken"
+        },
+        {
+          "verse": "105:10",
+          "remark": "proclisis",
+          "outcome": "taken",
+          "decision": "proclisis"
+        },
+        {
+          "verse": "105:13",
+          "remark": "colon after 'Depressa o fizeram'",
+          "outcome": "taken",
+          "decision": "cito"
+        },
+        {
+          "verse": "105:14",
+          "remark": "'na terra sem água'",
+          "outcome": "refused",
+          "reason": "Ps 77's formula 'no lugar sem água'."
+        },
+        {
+          "verse": "105:15",
+          "remark": "'o seu pedido'",
+          "outcome": "refused",
+          "reason": "petítio → petição (36:4); \"o seu\" heard as God's."
+        },
+        {
+          "verse": "105:18",
+          "remark": "'acendeu-se … assembleia'",
+          "outcome": "refused",
+          "reason": "exardéscere and synagóga rows; proclisis taken."
+        },
+        {
+          "verse": "105:21",
+          "remark": "'coisas' twice; 'grandes obras … prodígios'",
+          "outcome": "refused",
+          "reason": "magnália row (70:19); obras and prodígios belong to other Latin words."
+        },
+        {
+          "verse": "105:24",
+          "remark": "'ter em nada' is the idiom",
+          "outcome": "taken",
+          "decision": "pro_nihilo"
+        },
+        {
+          "verse": "105:30",
+          "remark": "'E levantou-se Fineias'",
+          "outcome": "option",
+          "decision": "stetit",
+          "reason": "59:9's rule for names; 105:23's verb."
+        },
+        {
+          "verse": "105:31",
+          "remark": "'contado como justiça'",
+          "outcome": "taken",
+          "decision": "reputatum",
+          "reason": "without the added 'isto'."
+        },
+        {
+          "verse": "105:35",
+          "remark": "'às suas imagens esculpidas'",
+          "outcome": "refused",
+          "reason": "eórum is the nations'; 'suas' would be Israel's."
+        },
+        {
+          "verse": "105:41",
+          "remark": "'dominaram-nos' heard as 'us'",
+          "outcome": "taken",
+          "decision": "proclisis"
+        },
+        {
+          "verse": "105:42",
+          "remark": "'atribularam-nos' heard as 'us'",
+          "outcome": "taken",
+          "decision": "proclisis"
+        },
+        {
+          "verse": "105:43",
+          "remark": "'provocaram-no' blurs into '-nos'",
+          "outcome": "taken",
+          "decision": "proclisis"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, blind. Two wrong hearings fixed: 105:24 'tiveram por nada' heard as 'for free' (→ 'em nada'), 105:46 'deu-os às misericórdias' heard as 'at the captors' mercy' (→ 'fez que achassem misericórdia'). 105:41–42 '-nos' heard as 'us' (proclisis). 105:33 heard the second colon as what was pronounced (full stop). Kept as the Latin's openness: 105:3 juízo (D15's known risk), 105:30 'aplacou' without object and 'abalo', 105:45 'arrependeu-se', subjects unnamed in 105:15, 23, 42. Unknown: atribulavam, desígnio, the names, brecha, aplacou, águas da contradição — kept (rows; names expected).",
+      "outcomes": [
+        {
+          "verse": "105:24",
+          "remark": "'por nada' heard as 'for free'",
+          "outcome": "taken",
+          "decision": "pro_nihilo"
+        },
+        {
+          "verse": "105:46",
+          "remark": "heard as the captors' mercy",
+          "outcome": "taken",
+          "decision": "dedit"
+        },
+        {
+          "verse": "105:41",
+          "remark": "'-nos' heard as 'us'",
+          "outcome": "taken",
+          "decision": "proclisis"
+        },
+        {
+          "verse": "105:33",
+          "remark": "second colon heard as content of the utterance",
+          "outcome": "taken",
+          "decision": "distinxit"
+        },
+        {
+          "verse": "105:5",
+          "remark": "'bondade' heard as virtue",
+          "outcome": "taken",
+          "decision": "videndum"
+        },
+        {
+          "verse": "105:13",
+          "remark": "'o' unclear",
+          "outcome": "taken",
+          "decision": "cito"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "note": "v2: proclisis psalm-wide after 'E' and after a subject; 105:2 'quem' repeated; 105:5 'na bondade'; 105:9 'ficou seco'; 105:13 colon; 105:24 'tiveram em nada'; 105:31 'contado'; 105:33 full stop; 105:46 'E fez que achassem misericórdia'. Ps 104 v2 checked for shared narrative words (Aarão, Cam, Canaã, Egito, 'deles', proclisis 'E os tirou') — agrees."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. Soft flags as v1 (accepted there); 105:13a +3 with the colon, 105:24b -3 ('em nada'), 105:46a now within range. Rhyme -ões at 105:27, the Latin's echo."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate: claude-opus-5-5, fresh context, with latin.json. No major; four minors, all held with reasons (three repeat v1).",
+      "outcomes": [
+        {
+          "verse": "105:13",
+          "remark": "'o' added; 'Depressa fizeram'",
+          "outcome": "option",
+          "decision": "cito",
+          "reason": "fazer needs an object in Portuguese; rule 2."
+        },
+        {
+          "verse": "105:33",
+          "remark": "'distinguiu'",
+          "outcome": "option",
+          "decision": "distinxit",
+          "reason": "65:13 row (the same Greek)."
+        },
+        {
+          "verse": "105:39",
+          "remark": "plural 'sangues'",
+          "outcome": "refused",
+          "decision": "infecta",
+          "reason": "D29."
+        },
+        {
+          "verse": "105:46",
+          "remark": "paraphrase; 'E os entregou às misericórdias'",
+          "outcome": "option",
+          "decision": "dedit",
+          "reason": "the literal build was heard as the captors' mercy; entregar is trádere's."
+        }
+      ]
+    }
+  ]
+}
