@@ -1,0 +1,25 @@
+{
+  "append": [
+    {"row": "| confídere in |", "text": "Ps 124:1 *Qui confídunt in Dómino* → *Os que confiam no Senhor* (the CNBB LH also *Quem confia no Senhor*)."},
+    {"row": "| *Qui facit hæc: * non movébitur in ætérnum*", "text": "**Ps 124:1 *non commovébitur in ætérnum, qui hábitat in Jerúsalem* → *para sempre não será abalado quem habita em Jerusalém*** — the row applied (the fourth place); *jamais* and MS1932's *nunca* options in decision `nonmov`. No reader objected this time (Latinist ×2, stylist, ambiguity). The Latin order *não será abalado para sempre* refused (scope, as D27). The Tract of Lætáre and of the Dedication."},
+    {"row": "| in circúitu |", "text": "Ps 124:2b *Montes in circúitu ejus: et Dóminus in circúitu pópuli sui* → *Os montes estão ao seu redor: e o Senhor está ao redor do seu povo* — the repetition kept; *ejus* left open (*ao redor dela*, the Greek's feminine, option)."},
+    {"row": "| ex hoc nunc |", "text": "Ps 124:2b → *desde agora e para todo o sempre* (= 112:2b, 113:26, 120:8)."},
+    {"row": "| virga |", "text": "Ps 124:3 *virgam peccatórum* → *a vara dos pecadores*; the ambiguity reader heard a stick for beating more than rule (kept)."},
+    {"row": "| rectus corde |", "text": "Ps 124:4 *et rectis corde* → *e aos retos de coração* — applied."},
+    {"row": "| operári iniquitátem |", "text": "Ps 124:5 *cum operántibus iniquitátem* → *com os que praticam a iniquidade*."},
+    {"row": "| addúcere |", "text": "Ps 124:5 *Declinántes … addúcet Dóminus* → *o Senhor os levará* (ἀπάξει)."},
+    {"row": "| declináre a |", "text": "Ps 124:5 *declináre in* (a goal) → *desviar-se para* (*os que se desviam para os laços*), as 13:3a; *apartar-se* is for *a*."},
+    {"row": "| láqueus |", "text": "**Ps 124:5 *in obligatiónes* (στραγγαλιάς, a psalter hapax) → *para os laços*** — the word shared, by exception: draft 1 *as amarras* was unknown to the ambiguity reader and 'mooring ropes' to the stylist, who asked *laços*; the Latinist passed both. Cost: láqueus stands next door (123:7)."},
+    {"row": "| benefácere |", "text": "**Ps 124:4 *Bénefac, Dómine, bonis* → *Fazei o bem, Senhor, aos bons*** — the proposed alternative taken locally: with *aos bons* the article keeps the Latin's *bene / bonis* echo and the right hearing; the CNBB LH has the same words; the stylist's best line. *Fazei bem* option. Supports taking *fazer o bem* for the row."},
+    {"row": "| benígne fácere", "text": "Ps 124:4 *Bénefac* has the same Greek (ἀγάθυνον) but another Latin word and the *bonis* echo: kept apart (*Fazei o bem*); *Tratai benignamente* option there."},
+    {"row": "| sors (dividing land) |", "text": "**Ps 124:3 *super sortem justórum* (κλῆρος, the lot that fell) → *sobre o quinhão dos justos*** — draft 1 *a sorte* (the CNBB LH's word) was heard as luck/fate by the stylist and the ambiguity reader; *a sorte*, *a partilha* (stylist) and MS1932's *herança* (heréditas's) are options."}
+  ],
+  "terms": [
+    "| relínquere | deixar (*não deixará a vara dos pecadores sobre…*) | working | Ps 124:3 (ἀφήσει); 48:11 *relínquent aliénis* (grep, the other place in the psalter); apart from derelínquere → abandonar. |",
+    "| obligátio | laço (*os que se desviam para os laços*) | open | Ps 124:5 only (στραγγαλιάς; L&S 'an ensnaring, entangling', citing this verse); shares láqueus's word by exception — see that row. *amarras*, *enredos* options; MS1932's *caminhos tortuosos* is the Hebrew. |"
+  ],
+  "formulas": [
+    "| *pax super Israël* (124:5, 127:6 — grep) | *paz sobre Israel* (verbless, as the Latin) | open — Ps 124; MS1932's *a paz seja sobre Israel* the option; 127:6 should copy |",
+    "| *Qui confídunt in Dómino, sicut mons Sion: non commovébitur in ætérnum, qui hábitat in Jerúsalem. V. Montes in circúitu ejus: et Dóminus in circúitu pópuli sui, ex hoc nunc et usque in sǽculum* (124:1–2b; the Tract of Lætáre, missa Quad4-0, and of the Dedication, Commune C8 — grep) | *Os que confiam no Senhor são como o monte Sião: para sempre não será abalado quem habita em Jerusalém. V. Os montes estão ao seu redor: e o Senhor está ao redor do seu povo, desde agora e para todo o sempre* | open — Ps 124; each verse reads alone |"
+  ]
+}

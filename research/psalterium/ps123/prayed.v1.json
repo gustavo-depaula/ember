@@ -1,0 +1,446 @@
+{
+  "psalm": 123,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "123:1": "{nisi} {innobis}, diga agora Israel: * {nisi_lc} {innobis},",
+    "123:2b": "quando os homens se levantaram contra nós, * {forte} nos teriam {deglutissent} vivos:",
+    "123:3b": "Quando o furor deles {irasceretur} contra nós, * {forte} a água nos teria {absorbuisset}.",
+    "123:5": "A nossa alma {pertransivit} a torrente: * {forte} a nossa alma teria {pertransisset} a água {intolerabilem}.",
+    "123:6": "Bendito o Senhor, * que não nos entregou {captionem} aos dentes deles.",
+    "123:7a": "A nossa alma, como um pardal, foi arrancada * do laço dos caçadores:",
+    "123:7b": "O laço foi quebrado, * e nós {liberati}.",
+    "123:8": "{adjutorium} {innomine} do Senhor, * que fez o céu e a terra."
+  },
+  "decisions": [
+    {
+      "id": "nisi",
+      "refs": [
+        "123:1"
+      ],
+      "latin": "Nisi quia Dóminus erat… (twice)",
+      "kind": "grammar",
+      "why": "'Nisi quia' with the imperfect indicative 'erat' states the fact (the Lord was with us); only the apodoses (deglutíssent, absorbuísset, pertransísset, pluperfect subjunctives) are unreal. Portuguese puts the whole period in the unreal mood. DRB ('If it had not been that the Lord was with us') and MS1932 ('Se o Senhor não tivesse estado connosco') do the same; 93:17 (Nisi quia Dóminus adjúvit me) was ruled so, as 118:92 (D24). Mood is grammar (D2). The two protases are identical in the Latin and stay identical here.",
+      "options": [
+        {
+          "label": "Se o Senhor não estivesse",
+          "forms": {
+            "nisi": "Se o Senhor não estivesse",
+            "nisi_lc": "se o Senhor não estivesse"
+          },
+          "note": "Draft. The imperfect subjunctive keeps 'erat' as a lasting state (the Lord was there, with us) rather than a completed past; it is also how the line already circulates in Brazil (the CNBB Liturgia das Horas, liturgiadashoras.online/salmo-123124/, fetched and stored in consult/liturgy-br/lho-salmo-123.html, has 'Se o Senhor não estivesse ao nosso lado' — a Hebrew-family text, cited for diction only; the Diurnal Monástico 1962 'Se o Senhor não estivesse conosco'). 11 syllables for the Latin's 11.",
+          "from": "draft"
+        },
+        {
+          "label": "Se o Senhor não tivesse estado",
+          "forms": {
+            "nisi": "Se o Senhor não tivesse estado",
+            "nisi_lc": "se o Senhor não tivesse estado"
+          },
+          "note": "MS1932. The pluperfect puts the Lord's presence wholly in the past; two syllables longer and heavier to say twice.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Se não fosse que o Senhor estava",
+          "forms": {
+            "nisi": "Se não fosse que o Senhor estava",
+            "nisi_lc": "se não fosse que o Senhor estava"
+          },
+          "note": "The indicative 'erat' kept, as a Latinist may ask (cf. 93:17's v2 gate). Grammatical but laboured, and said twice.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "innobis",
+      "refs": [
+        "123:1"
+      ],
+      "latin": "erat in nobis",
+      "kind": "word",
+      "why": "'in nobis' (ἐν ἡμῖν, a Hebraism for 'for us, on our side') can be read by a Latin ear as 'among us', 'with us' or 'in us'. DRB and MS1932 both say 'with us'; the Diurnal too.",
+      "options": [
+        {
+          "label": "conosco",
+          "forms": {
+            "innobis": "conosco"
+          },
+          "note": "Draft. The plainest word, and the one both Vulgate-family witnesses chose; it keeps the Lord present to the people without choosing between 'among' and 'on the side of'.",
+          "from": "draft"
+        },
+        {
+          "label": "entre nós",
+          "forms": {
+            "innobis": "entre nós"
+          },
+          "note": "Keeps the preposition's locative sense ('among us'); it narrows the Latin to presence in the midst, and loses 'on our side'.",
+          "from": "draft"
+        },
+        {
+          "label": "em nós",
+          "forms": {
+            "innobis": "em nós"
+          },
+          "note": "Word for word. In Portuguese 'estar em nós' is heard as indwelling — a sense the psalm does not have.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "forte",
+      "refs": [
+        "123:2b",
+        "123:3b",
+        "123:5"
+      ],
+      "latin": "forte … fórsitan … fórsitan",
+      "kind": "glossary",
+      "why": "Three apodoses, each opened by a 'perhaps': 'forte' once, 'fórsitan' twice. Both render one Greek word, ἄρα (with ἄν: 'then … would have'), so by D15's test one Portuguese word serves both. The glossary row fórsitan → talvez (54:13b, 80:15) keeps the Latin's word. MS1932 turns them into certainties ('de certo', 'sem dúvida'), which is the Hebrew's 'then' read as emphasis, not the Latin. After a counterfactual 'Se', Brazilian Portuguese says 'talvez' with the conditional ('talvez nos teriam engolido'); the subjunctive ('talvez nos tivessem engolido') would be heard as a real past possibility, 'maybe they did swallow us'.",
+      "options": [
+        {
+          "label": "talvez",
+          "forms": {
+            "forte": "talvez"
+          },
+          "note": "Draft, the glossary's word, three times as the Latin has it three times (DRB 'perhaps' ×3). Cost: 'talvez' + conditional is spoken, not school, grammar — accepted because the subjunctive would change the sense.",
+          "from": "glossary"
+        },
+        {
+          "label": "certamente",
+          "forms": {
+            "forte": "certamente"
+          },
+          "note": "MS1932's reading ('de certo', 'sem dúvida'). Smooth, and matches the conditional; but it says the opposite of 'perhaps'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "então",
+          "forms": {
+            "forte": "então"
+          },
+          "note": "The Greek's ἄρα (and the Hebrew's 'then'); not the Latin's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deglutissent",
+      "refs": [
+        "123:2b"
+      ],
+      "latin": "deglutíssent",
+      "kind": "glossary",
+      "why": "Two Latin verbs of swallowing in two verses: deglutíre (κατέπιον) here, absorbére (κατεπόντισεν, 'sank, drowned') in 123:3b. The psalter otherwise uses both for καταπίνω (deglutíre 105:17 → 'engoliu'; absorbére 57:10, 68:16 → 'engolir', the glossary row), so one Portuguese verb is the psalter's own practice for them. The question is whether to vary here, where they stand in adjacent verses.",
+      "options": [
+        {
+          "label": "engolido",
+          "forms": {
+            "deglutissent": "engolido"
+          },
+          "note": "Draft. The psalter's verb for both (105:17 engoliu; the absorbére row). The repetition makes the parallel of the two apodoses audible, as the Greek and Hebrew parallelism is; the Latin's variation of verb is lost. 'engolir vivo' is idiom.",
+          "from": "glossary"
+        },
+        {
+          "label": "tragado",
+          "forms": {
+            "deglutissent": "tragado"
+          },
+          "note": "Keeps two verbs for the Latin's two, one syllable shorter; 'tragar vivo' is also idiom. It departs from 105:17's 'engoliu' for the same Latin verb.",
+          "from": "draft"
+        },
+        {
+          "label": "devorado",
+          "forms": {
+            "deglutissent": "devorado"
+          },
+          "note": "MS1932 (and the Brazilian liturgical text). Another image: chewing, not swallowing.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "absorbuisset",
+      "refs": [
+        "123:3b"
+      ],
+      "latin": "absorbuísset",
+      "kind": "glossary",
+      "why": "absorbére → engolir is the glossary row (57:10, 68:16), which named 123:3b as a test. Here the Greek is not καταπίνω but καταποντίζω, 'plunge under, drown'; the Latin's word is still 'swallow up'.",
+      "options": [
+        {
+          "label": "engolido",
+          "forms": {
+            "absorbuisset": "engolido"
+          },
+          "note": "Draft, the row's verb; 'a água nos teria engolido' is plain Portuguese and keeps the Latin's image of the water swallowing.",
+          "from": "glossary"
+        },
+        {
+          "label": "submergido",
+          "forms": {
+            "absorbuisset": "submergido"
+          },
+          "note": "The Greek's sense; but submergir is demérgere's verb (68:3b, 68:16), and it is not the Latin's image.",
+          "from": "draft"
+        },
+        {
+          "label": "sorvido",
+          "forms": {
+            "absorbuisset": "sorvido"
+          },
+          "note": "MS1932. Exact for absorbére (to suck in), but 'sorver' is heard as sipping a drink.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "irasceretur",
+      "refs": [
+        "123:3b"
+      ],
+      "latin": "Cum irascerétur furor eórum in nos",
+      "kind": "word",
+      "why": "The fury itself is the subject of 'grow angry' (Greek ἐν τῷ ὀργισθῆναι τὸν θυμὸν αὐτῶν): a figure, the anger angered. DRB 'was enkindled', MS1932 'se irritou o seu furor'. irásci → irar-se is the glossary's verb; furor → furor.",
+      "options": [
+        {
+          "label": "se irou",
+          "forms": {
+            "irasceretur": "se irou"
+          },
+          "note": "Draft. Both the Latin's words kept (furor, irásci), in the glossary's forms; a strong, slightly strange phrase, as the Latin's is. 'o furor deles' (not 'o seu furor') so that the fury is not heard as the Lord's.",
+          "from": "glossary"
+        },
+        {
+          "label": "se inflamou",
+          "forms": {
+            "irasceretur": "se inflamou"
+          },
+          "note": "DRB's image ('enkindled'); natural Portuguese ('inflamar-se de ira'). It is an image the Latin does not have.",
+          "from": "DRB"
+        },
+        {
+          "label": "se enfureceu",
+          "forms": {
+            "irasceretur": "se enfureceu"
+          },
+          "note": "Plain; but 'o furor se enfureceu' makes a jingle of one root where the Latin has two.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pertransivit",
+      "refs": [
+        "123:5"
+      ],
+      "latin": "pertransívit … pertransísset",
+      "kind": "glossary",
+      "why": "The verb is said twice in the verse, once as fact, once as the unreal alternative; the repetition stays. The pertransíre row (104:13, 18) has 'passar' with 'traspassar' for a blade and 'atravessar' as the option for both. Crossing a stream in Portuguese is 'passar o rio' or 'atravessar o rio'. MS1932 'passou a torrente'.",
+      "options": [
+        {
+          "label": "passou / passado",
+          "forms": {
+            "pertransivit": "passou",
+            "pertransisset": "passado"
+          },
+          "note": "Draft, the row's verb; MS1932's wording. 'passar a torrente' is heard as crossing it.",
+          "from": "glossary"
+        },
+        {
+          "label": "atravessou / atravessado",
+          "forms": {
+            "pertransivit": "atravessou",
+            "pertransisset": "atravessado"
+          },
+          "note": "More unmistakably 'went through'; one syllable more each time; the row's own option.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "intolerabilem",
+      "refs": [
+        "123:5"
+      ],
+      "latin": "aquam intolerábilem",
+      "kind": "word",
+      "why": "intolerábilis: 'that cannot be borne' (L&S; also 'irresistible', Livy). The Greek ἀνυπόστατον is 'not to be withstood'. DRB 'insupportable', MS1932 'insuperável'.",
+      "options": [
+        {
+          "label": "insuportável",
+          "forms": {
+            "intolerabilem": "insuportável"
+          },
+          "note": "Draft. The plainer of two faithful words (DRB's), paroxytone at the final.",
+          "from": "DRB"
+        },
+        {
+          "label": "intolerável",
+          "forms": {
+            "intolerabilem": "intolerável"
+          },
+          "note": "The cognate; exact, a little more formal.",
+          "from": "draft"
+        },
+        {
+          "label": "irresistível",
+          "forms": {
+            "intolerabilem": "irresistível"
+          },
+          "note": "The Greek's sense and one of the Latin's; heard first of charm, not of floodwater.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "captionem",
+      "refs": [
+        "123:6"
+      ],
+      "latin": "in captiónem",
+      "kind": "word",
+      "why": "captio is 'a catching' (L&S); the Greek is θήρα, the hunt or its prey — the same word as at 34:8, where the glossary row cáptio → armadilha fits a trap. Here the thing is given 'to their teeth', so what is meant is the catch itself: prey. Decided locally, as the row allows; DRB 'to be a prey', MS1932 'por presa'.",
+      "options": [
+        {
+          "label": "como presa",
+          "forms": {
+            "captionem": "como presa"
+          },
+          "note": "Draft. The catch named by the plain word; 'dar como presa' is idiom.",
+          "from": "draft"
+        },
+        {
+          "label": "em presa",
+          "forms": {
+            "captionem": "em presa"
+          },
+          "note": "Closer to 'in' + accusative; stiffer.",
+          "from": "draft"
+        },
+        {
+          "label": "à captura",
+          "forms": {
+            "captionem": "à captura"
+          },
+          "note": "The Latin's own noun; 'to their teeth' then reads oddly (a capture given to teeth).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "liberati",
+      "refs": [
+        "123:7b"
+      ],
+      "latin": "et nos liberáti sumus",
+      "kind": "glossary",
+      "why": "liberáre → livrar (glossary, working), kept apart from erípere → arrancar/libertar, which the verse before uses ('foi arrancada'). The two Latin verbs stand side by side and the Greek has one (ἐρρύσθη … ἐρρύσθημεν) — but the Latin chose two, and the Portuguese keeps them apart as the glossary does throughout.",
+      "options": [
+        {
+          "label": "fomos livrados",
+          "forms": {
+            "liberati": "fomos livrados"
+          },
+          "note": "Draft. The Latin's passive and the glossary verb; parallel to 'O laço foi quebrado'.",
+          "from": "glossary"
+        },
+        {
+          "label": "ficamos livres",
+          "forms": {
+            "liberati": "ficamos livres"
+          },
+          "note": "MS1932. More natural; the passive (someone freed us) becomes a state.",
+          "from": "MS1932"
+        },
+        {
+          "label": "fomos libertados",
+          "forms": {
+            "liberati": "fomos libertados"
+          },
+          "note": "Natural too; but 'libertar' is erípere's verb in the glossary, so the two Latin verbs would blur.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adjutorium",
+      "refs": [
+        "123:8"
+      ],
+      "latin": "Adjutórium nostrum",
+      "kind": "glossary",
+      "why": "The glossary row adjutórium → auxílio (working; 90, 7:11). This verse is said alone as the versicle 'V. Adjutórium nostrum in nómine Dómini. R. Qui fecit cælum et terram' (DO: Psalterium/Common/Prayers.txt, the Ordo Missæ prayers at the foot of the altar, Prime, Compline), and as a Vespers antiphon ('Adjutórium nostrum * in nómine Dómini', Psalmi major). Brazilian circulation, verified by fetch: 'O nosso auxílio está no nome do Senhor' is the CNBB Liturgia das Horas line (consult/liturgy-br/lho-salmo-123.html) and the refrain of the Brazilian lectionary's responsorial psalm (content/of/formularies/tempore/ordinary-time/week-15/monday.json: 'Nosso auxílio está no nome do Senhor'); the bishop's blessing at Mass as printed by Aleteia's Portuguese edition (consult/liturgy-br/aleteia-bencao-pontificia.html) has 'Nosso auxílio está no nome do Senhor. — Que fez o céu e a terra.' MS1932 and the Diurnal have 'socorro'.",
+      "options": [
+        {
+          "label": "O nosso auxílio está",
+          "forms": {
+            "adjutorium": "O nosso auxílio está"
+          },
+          "note": "Draft. The glossary word, the article before the possessive (rule 5), and the copula Portuguese needs. It is word for word the versicle as Brazilians already say it.",
+          "from": "glossary"
+        },
+        {
+          "label": "O nosso socorro está",
+          "forms": {
+            "adjutorium": "O nosso socorro está"
+          },
+          "note": "MS1932 and the Diurnal Monástico 1962. Good, but socorro is not the glossary's word for adjutórium, and it departs from the versicle in circulation.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "innomine",
+      "refs": [
+        "123:8"
+      ],
+      "latin": "in nómine Dómini",
+      "kind": "glossary",
+      "why": "The glossary row 'in nómine Dómini → em nome do Senhor' (117:10–12, 26; 19:6, 8) was made where the phrase is adverbial ('in the Lord's name I will…'). Here it is a predicate with 'está': 'O nosso auxílio está em nome do Senhor' is heard as 'is registered in the Lord's name', as a property is. With the article, 'no nome', the name is the place where the help is — which is the sense, and the form in which the versicle circulates in Brazil (see 'adjutorium').",
+      "options": [
+        {
+          "label": "no nome",
+          "forms": {
+            "innomine": "no nome"
+          },
+          "note": "Draft. A local departure from the row, for the reason given; the Vespers antiphon and the versicle read the same.",
+          "from": "draft"
+        },
+        {
+          "label": "em nome",
+          "forms": {
+            "innomine": "em nome"
+          },
+          "note": "The row's form. Misheard as a title of ownership after 'está'.",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "123:1": "No titulus: DO's Latin has none ('Canticum graduum' is omitted in every Gradual Psalm), and D7 keeps tituli out; Ps 133 has none, and this psalm follows it. The Latin's shape is kept: the protasis, the aside 'diga agora Israel' (glossary row 'dicat nunc Israël' → 'diga agora Israel', as 117:2), the protasis again, and the apodosis only in the next verse. 'Senhor' is not a vocative here. Address: the psalm speaks of God in the third person throughout; there is no 'vós' in it.",
+    "123:2b": "Continues the sentence of 123:1, so it opens lower-case, as the Latin runs on. exsúrgere in → levantar-se contra (glossary row exsúrgere). The Latin's imperfect subjunctive after 'cum' is a past event → 'se levantaram' (MS1932 'se levantavam' is the option a reader could want; the event reads better against 'teriam'). 'vivos' at the end: the Latin puts it before the verb, Portuguese idiom after ('engolir vivo'); order yields (D2). Length flags (+4, +3) accepted: see the checks step.",
+    "123:3b": "'Quando' capitalised because the Latin verse is capitalised ('Cum'), though the sentence runs on from 123:2b, as MS1932 prints it. 'aqua' singular → 'a água'. The two apodoses ('talvez nos teriam engolido vivos' / 'talvez a água nos teria engolido') are built alike on purpose, as the Latin's are.",
+    "123:5": "The first colon is a fact (pertransívit, perfect indicative), the second unreal (pertransísset): the Portuguese keeps the change of mood. The Latin's object-first order ('Torréntem pertransívit') yields to Portuguese order (D2). 'ánima nostra' twice → 'a nossa alma' twice (glossary 'ánima mea' → 'a minha alma'); the repetition is the Latin's. torrens → torrente (glossary).",
+    "123:6": "'Benedíctus Dóminus' verbless → 'Bendito o Senhor' (27:6; the row 'Benedíctus Deus' keeps 'seja' only for 65:20, 67:36). 'dedit … in' → 'entregou' (the 'dare in oppróbrium' row: dare as a giving-over). 'déntibus eórum' → 'aos dentes deles', not 'aos seus dentes', which could be heard as the Lord's.",
+    "123:7a": "passer → pardal (glossary; this verse is named in the row). erípere with a source named ('de láqueo') → arrancar (glossary row erípere). láqueus → laço (glossary). The passive 'erépta est' is kept (MS1932 turns it active, 'escapou'). venántium → dos caçadores. The verse is also a Mass verse (missa Sancti 09-26n) and, with 7b–8, the Alleluia/Gradual verse of the Holy Innocents and of Common C3a ('Láqueus contrítus est … qui fecit cœlum et terram') — grep in content/do.",
+    "123:7b": "contérere → quebrar (glossary). 'O laço foi quebrado' keeps the Latin's passive, parallel with 'fomos livrados'.",
+    "123:8": "'que fez o céu e a terra' is the glossary formula (113:23, 120:2, 133:3, 145:6); here the relative follows 'Senhor' directly, so no 'ele' is needed (133:3 needed one because of Sião). The whole verse matches the versicle already said in Brazil (see decision 'adjutorium')."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm123.txt, 8 prayed verses (DO ids 123:1, 2b, 3b, 5, 6, 7a, 7b, 8; the inline (2a), (3a), (4) markers not reproduced)."
+    },
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps123.md. Hard readings: the imperfect indicative 'erat' after 'Nisi quia' against three unreal apodoses; forte/fórsitan (ἄρα) as 'perhaps'; two swallowing verbs in adjacent verses, the second rendering the Greek's 'drown'; 'irascerétur furor'; 'in captiónem' (θήρα) against the cáptio row's 'armadilha'; the closing versicle. Liturgical uses found by grep in content/do (Latin): the versicle 'Adjutórium nostrum in nómine Dómini' (Ordo Missæ, Prayers.txt, Prime), the Vespers antiphon (Psalmi major), 123:7b–8 as the Alleluia verse of 12-28 and Common C3a, 123:7a in missa Sancti/09-26n. Brazilian circulation of 123:8 checked by fetch (CNBB Liturgia das Horas; Brazilian lectionary refrain in content/of; Aleteia on the bishop's blessing) — pages stored under consult/liturgy-br/. Title: none, as Ps 133 (D7)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass. 123:2b first colon +4 (14 against 10) and second colon +3 (12 against 9), accepted: nothing is supplied — Portuguese needs the reflexive 'se' and the compound conditional 'teriam engolido' for one Latin pluperfect subjunctive; 'quando‿os' and 'teriam‿engolido' run together in the mouth. No rhyme or cadence flags."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "psalm": 124,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "124:1": "Os que confiam no Senhor {copula} como o monte Sião: * {nonmov} quem habita em Jerusalém.",
+    "124:2b": "{montes} {ejus}: ‡ e o Senhor está ao redor do seu povo, * desde agora e para todo o sempre.",
+    "124:3": "Porque o Senhor não deixará a vara dos pecadores sobre {sortem} dos justos: * para que os justos não estendam as suas mãos {adiniq}.",
+    "124:4": "{benefac}, Senhor, aos bons, * e aos retos de coração.",
+    "124:5": "Mas os que {declin} para {oblig}, o Senhor os levará com os que praticam a iniquidade: * {pax} sobre Israel."
+  },
+  "decisions": [
+    {
+      "id": "copula", "refs": ["124:1"], "latin": "Qui confídunt in Dómino, sicut mons Sion", "kind": "grammar",
+      "why": "The first colon has no verb in the Latin (nor in the Greek, οἱ πεποιθότες ἐπὶ κύριον ὡς ὄρος Σιων). Portuguese needs one (rule 2). Douay-Rheims supplies a future ('shall be as mount Sion'); Matos Soares 1932 supplies 'estão (firmes)', the adjective being his gloss.",
+      "options": [
+        {"label": "são", "forms": {"copula": "são"}, "note": "Draft. The plainest copula, and the present of a nominal sentence says a standing truth, which is how a verbless Latin line is read; it adds no tense the Latin does not have.", "from": "draft"},
+        {"label": "serão", "forms": {"copula": "serão"}, "note": "Douay-Rheims 'shall be': matches the future of the next colon ('non commovébitur'), but puts the likeness in the future, where the Latin states it without tense.", "from": "DRB"},
+        {"label": "estão", "forms": {"copula": "estão"}, "note": "Matos Soares 1932 without his parenthetical 'firmes'. 'Estar como' is weaker Portuguese than 'ser como' for a likeness.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "nonmov", "refs": ["124:1"], "latin": "non commovébitur in ætérnum", "kind": "glossary",
+      "why": "The glossary formula row for 14:5b 'non movébitur in ætérnum' (which lists 124:1 and 111:6 as the same formula) has 'para sempre não será abalado', kept in 14:5b, 29:7 and 111:6. It is still open: three stylists have refused the build as transposed, with 'jamais' as the option. The Latin order here ('non … in ætérnum') is 14:5b's. The Latin word order ('não será abalado para sempre') was weighed and refused: after the negation 'para sempre' can be heard as bounding it ('not shaken for good', but for a while), the fault D27 found with 'até o fim'. The sense is 'never' (Greek οὐ σαλευθήσεται εἰς τὸν αἰῶνα; Douay-Rheims 'he shall not be moved for ever'; Matos Soares 1932 'nunca será abalado'). 'abalado' is masculine because its subject is 'quem habita', as in the Latin (the one who dwells), not the mountain.",
+      "options": [
+        {"label": "para sempre não será abalado", "forms": {"nonmov": "para sempre não será abalado"}, "note": "Draft, from the glossary row (14:5b, 29:7, 111:6), so that the formula reads the same in all four psalms; keeps both words of 'in ætérnum' (D23 'para sempre').", "from": "glossary"},
+        {"label": "jamais será abalado", "forms": {"nonmov": "jamais será abalado"}, "note": "The option the row already carries, asked by three stylists in other psalms. No scope doubt; costs D23's 'para sempre'. If the row is ruled this way, it changes here in one touch.", "from": "glossary"},
+        {"label": "nunca será abalado", "forms": {"nonmov": "nunca será abalado"}, "note": "Matos Soares 1932's wording. Same gain and cost as 'jamais', one syllable shorter and plainer.", "from": "MS1932"},
+        {"label": "não será abalado para sempre", "forms": {"nonmov": "não será abalado para sempre"}, "note": "The Latin order. Refused: 'para sempre' after the negation may be heard as limiting it.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "montes", "refs": ["124:2b"], "latin": "Montes in circúitu ejus", "kind": "grammar",
+      "why": "Again a verbless colon; a copula is supplied (rule 2). Portuguese does not start a sentence on a bare plural subject before 'estão', so either an article or 'há'. The Latin repeats 'in circúitu' in the next colon, and the Portuguese repeats 'está / estão ao redor' with it.",
+      "options": [
+        {"label": "Os montes estão", "forms": {"montes": "Os montes estão"}, "note": "Draft. The article is grammar; 'estão … está' makes the two colons match as the Latin's two 'in circúitu' do. Nine syllables against the Latin's nine.", "from": "draft"},
+        {"label": "Há montes", "forms": {"montes": "Há montes"}, "note": "No article; says the mountains are there rather than that the (known) mountains stand around. Shorter and flatter; breaks the 'estão / está' parallel.", "from": "draft"},
+        {"label": "Montes", "forms": {"montes": "Montes"}, "note": "The Latin verbless, word for word; not a Portuguese sentence.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "ejus", "refs": ["124:2b"], "latin": "in circúitu ejus", "kind": "ambiguity",
+      "why": "Whose surroundings? The Greek has the feminine αὐτῆς, Jerusalem; the Latin 'ejus' has no gender and follows 'qui hábitat in Jerúsalem', so it could be read of Jerusalem or of the one who dwells there (or of Mount Sion). Douay-Rheims 'round about it' (the city); Matos Soares 1932 turns it to 'Ela está cercada de montes' (the city named as subject). The Latin leaves it to the reader; so does 'ao seu redor'.",
+      "options": [
+        {"label": "ao seu redor", "forms": {"ejus": "ao seu redor"}, "note": "Draft, the glossary's possessive form (75:12, 96:2). Leaves 'ejus' as open as the Latin does; the nearest antecedent, Jerusalem, will be heard first by most.", "from": "glossary"},
+        {"label": "ao redor dela", "forms": {"ejus": "ao redor dela"}, "note": "The Greek's feminine: Jerusalem, decided. Closes what the Latin leaves open.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "sortem", "refs": ["124:3"], "latin": "super sortem justórum", "kind": "word",
+      "why": "sors (κλῆρος) is the lot, the portion that fell to the just — here their land. Douay-Rheims 'the lot of the just'; Matos Soares 1932 'a herança dos justos', which would take heréditas's word (glossary heréditas → herança). 'Sorte' in Portuguese is heard as fate or luck first; in 30:15 'sortes' was kept as 'as minhas sortes'. The Brazilian Liturgia das Horas (CNBB; fetched, ps124/circulation.md) has 'sobre a sorte dos seus justos', so the phrase is already prayed in Brazil in this form.",
+      "options": [
+        {"label": "a sorte", "forms": {"sortem": "a sorte"}, "note": "Draft. The Latin's word, as 30:15, and the CNBB's; 'the fate of the just' is a hearing the Latin word itself allows, and the land is not lost because 'sobre' keeps the image of a rod lying on something.", "from": "draft"},
+        {"label": "o quinhão", "forms": {"sortem": "o quinhão"}, "note": "The allotted share, concrete and free in the glossary; not the Latin's word.", "from": "draft"},
+        {"label": "a herança", "forms": {"sortem": "a herança"}, "note": "Matos Soares 1932. Refused: it is heréditas's word throughout the psalter.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "adiniq", "refs": ["124:3"], "latin": "ad iniquitátem", "kind": "word",
+      "why": "'Stretch out the hands to iniquity' (Douay-Rheims 'to iniquity'; Greek ἐν ἀνομίᾳ, which the Latin turns into a goal). The preposition only.",
+      "options": [
+        {"label": "à iniquidade", "forms": {"adiniq": "à iniquidade"}, "note": "Draft. 'Estender as mãos a' is the natural idiom for reaching out to something; avoids a second 'para' after 'para que'.", "from": "draft"},
+        {"label": "para a iniquidade", "forms": {"adiniq": "para a iniquidade"}, "note": "Matos Soares 1932. The same sense; 'para que … para a' in one colon.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "benefac", "refs": ["124:4"], "latin": "Bénefac, Dómine, bonis", "kind": "word",
+      "why": "The Latin plays 'bene' against 'bonis', as the Greek does (ἀγάθυνον … τοῖς ἀγαθοῖς). The same Greek verb stands behind 50:20 'Benígne fac' → 'Tratai benignamente' (glossary, D44), so by D15's test the two could share a verb; but the Latin gives this verse another word, and the echo with 'bons' is the verse. The CNBB Liturgia das Horas (fetched) has 'Fazei o bem, Senhor, aos bons'.",
+      "options": [
+        {"label": "Fazei o bem", "forms": {"benefac": "Fazei o bem"}, "note": "Draft. 'bem … bons' keeps the Latin's echo; eight syllables against eight. The vós imperative 'fazei' is safe (not 'fiz').", "from": "draft"},
+        {"label": "Fazei bem", "forms": {"benefac": "Fazei bem"}, "note": "Matos Soares 1932 ('Faze bem'). Closer to one word 'bénefac', but 'fazer bem a' is heard first as 'be good for (one's health)'.", "from": "MS1932"},
+        {"label": "Tratai benignamente", "forms": {"benefac": "Tratai benignamente"}, "note": "50:20's verb (same Greek). Loses the echo with 'bons' and renders 'benígne', which is not here.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "declin", "refs": ["124:5"], "latin": "Declinántes … in", "kind": "glossary",
+      "why": "The glossary row 'declináre a → apartar-se de' is for turning away from; here the verb has 'in', a goal ('turning aside into'), and the absolute 'declinavérunt' is already 'se desviaram' (13:3a). Douay-Rheims 'such as turn aside into'; Matos Soares 1932 'os que se desviam para'.",
+      "options": [
+        {"label": "se desviam", "forms": {"declin": "se desviam"}, "note": "Draft. Turning off the road into something; 13:3a's verb.", "from": "draft"},
+        {"label": "se apartam", "forms": {"declin": "se apartam"}, "note": "The row's verb; with 'para' it reads as parting company, not turning aside.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "oblig", "refs": ["124:5"], "latin": "in obligatiónes", "kind": "word",
+      "why": "The hardest word of the psalm. obligátio is a binding (from ligáre); Lewis & Short gives 'an ensnaring, entangling' and cites this very verse ('evil devices'); the Greek στραγγαλιάς is knots, twisted things. Douay-Rheims 'bonds'. Matos Soares 1932 'caminhos tortuosos' is the Hebrew's sense (crooked ways). The cognate 'obrigações' is heard as duties, which is wrong. 'laços' is láqueus's (glossary) and 'cadeias' víncula's.",
+      "options": [
+        {"label": "as amarras", "forms": {"oblig": "as amarras"}, "note": "Draft. The binding image kept, in a plain word no other Latin noun holds in the glossary. Those who turn aside run into what ties them up.", "from": "draft"},
+        {"label": "os enredos", "forms": {"oblig": "os enredos"}, "note": "Entanglements and intrigues at once, close to L&S 'evil devices'; but in Brazil 'enredo' is heard first as the plot of a story or a samba school's theme.", "from": "draft"},
+        {"label": "os laços", "forms": {"oblig": "os laços"}, "note": "The snare image; collides with láqueus → laço.", "from": "draft"},
+        {"label": "os caminhos tortuosos", "forms": {"oblig": "os caminhos tortuosos"}, "note": "Matos Soares 1932. What the Hebrew says, not the Latin; refused under rule 1.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "pax", "refs": ["124:5"], "latin": "pax super Israël", "kind": "glossary",
+      "why": "A verbless blessing, which closes this psalm and 127:6 identically (DO Latin). Matos Soares 1932 supplies a wish ('A paz seja sobre Israel'); the CNBB paraphrases ('Que venha a paz a Israel!'). Proposed as a glossary formula so that 127:6 matches.",
+      "options": [
+        {"label": "paz", "forms": {"pax": "paz"}, "note": "Draft. Verbless as the Latin, and Portuguese says blessings this way ('Paz a vós', 'paz a esta casa'); four syllables against five.", "from": "draft"},
+        {"label": "a paz seja", "forms": {"pax": "a paz seja"}, "note": "Matos Soares 1932. Makes the wish explicit; supplies a verb the ear does not need.", "from": "MS1932"}
+      ]
+    }
+  ],
+  "choices": {
+    "124:1": "No titulus: 'Canticum graduum' is not in DO's psalm file (D7), and Ps 133 and Pss 119–120 carry none; the glossary's proposed formula if tituli are ever added is 'Cântico dos degraus' (open, Ps 119). The DO verse runs into biblical 2a ('(2a)' before 'in Jerúsalem'); the marker is not reproduced. confídere in → confiar em (row); Sion → Sião, 'o monte Sião' (47:12, 73:2b, 77:68). 'qui hábitat' → 'quem habita': the Latin (after the Greek ὁ κατοικῶν) makes the dweller in Jerusalem the subject of 'non commovébitur'; the Hebrew's sense (the mountain abides for ever; the Diurnal's 'estável para sempre') is not followed. 124:1–2b is the Tract of the 4th Sunday of Lent (missa Quad4-0) and of the Dedication (Commune C8), so both verses are made to read alone.",
+    "124:2b": "'et Dóminus in circúitu' → 'e o Senhor está ao redor': 'in circúitu' → 'ao redor (de)' (row), repeated as the Latin repeats it. 'ex hoc nunc, et usque in sǽculum' → 'desde agora e para todo o sempre', identical to 112:2b, 113:26 and 120:8 (ex hoc nunc row; D37); third colon +3 syllables, the fixed formula.",
+    "124:3": "relínquere → deixar (the plain verb; Douay-Rheims 'leave', Matos Soares 1932 'deixará', without his gloss 'por muito tempo'); derelínquere keeps 'abandonar'. virga → vara (row), peccátor → pecador, justus → justo (row). 'Quia' → 'Porque' (default, D42). 'manus suas' → 'as suas mãos' with the article (rule 5).",
+    "124:4": "rectus corde → 'os retos de coração' (row; the row already lists 124:4).",
+    "124:5": "'autem' → 'Mas'. The Latin puts the object first ('Declinántes … addúcet Dóminus'); kept first with a resumptive 'os', which is natural Portuguese; Matos Soares 1932's mesóclise 'levá-los-á' refused as bookish. addúcere → levar (D42; Greek ἀπάξει 'lead away'). operári iniquitátem → 'praticar a iniquidade' (row)."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm124.txt, five prayed verses. Liturgical use found by grep in content/do: 124:1–2 is the Tract of Laetare Sunday (missa/Latin/Tempora/Quad4-0.txt, Quad4-0t.txt) and a Tract of the Dedication (horas/Latin/Commune/C8.txt). Brazilian circulation fetched: ps124/circulation.md."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps124.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962; DO pt-PT not used as evidence). Glossary applied: confiar em, Sião, in circúitu → ao redor, ex hoc nunc et usque in sǽculum (D37), virga → vara, reto de coração, levar (D42), praticar a iniquidade, and the open formula 'para sempre não será abalado' (14:5b row). Hard readings: 124:5 'in obligatiónes' (L&S cites the verse: entangling; Greek στραγγαλιάς), 124:2b 'ejus' (the Greek feminine, the Latin open), 124:3 'sortem'. Titulus none, as Ps 133."},
+    {"step": "checks", "note": "Draft 1: hard pass. Length flags accepted: 124:1a +3 (the supplied copula 'são', and 'que‿o', 'como‿o' elide in the mouth); 124:2b third colon +3 (the fixed formula, D37); 124:3 both colons +3 ('que‿o', 'a‿sorte', 'que‿os', 'mãos‿à' elide; nothing added but articles); 124:4b +4 ('rectis corde' → 'os retos de coração', the glossary formula). No rhyme or cadence flags."}
+  ]
+}

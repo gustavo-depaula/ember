@@ -1,0 +1,588 @@
+{
+  "psalm": 125,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "125:1": "{quando} {cap1}: * {facti1} {consolati}:",
+    "125:2a": "Então {replere} de {gaudium} a nossa boca: * e a nossa língua de {ex2}.",
+    "125:2b": "Então dirão entre as nações: * {magnif} {cum_eis}.",
+    "125:3": "{magnif3} {cum_nos}: * {facti3} alegres.",
+    "125:4": "Fazei voltar, Senhor, {cap4}, * {sicut} {auster}.",
+    "125:5": "{v5a}, * {v5b}.",
+    "125:6a": "{euntes}, * lançando as suas sementes.",
+    "125:6b": "Vindo, porém, virão {ex6}, * {portantes} os seus feixes."
+  },
+  "decisions": [
+    {
+      "id": "convertendo",
+      "refs": [
+        "125:1"
+      ],
+      "latin": "In converténdo Dóminus",
+      "kind": "grammar",
+      "why": "The Latin is a gerund with its own subject in the nominative (ἐν τῷ ἐπιστρέψαι κύριον, the Greek articular infinitive): 'in the Lord's turning'. It has no tense; the perfect *facti sumus* of the second colon puts it in the past. Ps 9:4 met the same build (*In converténdo inimícum meum retrórsum*) and rendered it *Ao fazer voltar para trás o meu inimigo*; there the subject was the speaker's and needed no naming.",
+      "options": [
+        {
+          "label": "Quando o Senhor fez voltar",
+          "forms": {
+            "quando": "Quando o Senhor fez voltar"
+          },
+          "note": "Draft. A temporal clause, the way Portuguese says 'in the doing of X by Y'; the tense is taken from *facti sumus*. DRB 'When the lord brought back', MS1932 'Quando o Senhor fez voltar' — both Vulgate witnesses build it so.",
+          "from": "draft"
+        },
+        {
+          "label": "Ao fazer o Senhor voltar",
+          "forms": {
+            "quando": "Ao fazer o Senhor voltar"
+          },
+          "note": "Keeps the infinitive, as 9:4 did. With a named subject between the two verbs it is bookish and splits *fazer voltar*; refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "captivitas",
+      "refs": [
+        "125:1",
+        "125:4"
+      ],
+      "latin": "captivitátem Sion … captivitátem nostram",
+      "kind": "glossary",
+      "why": "The glossary row *captívitas → cativeiro* names 125:1 and 125:4 and gives the build for 125:4 in advance (*Fazei voltar, Senhor, o nosso cativeiro*), after 52:7 *quando Deus fizer voltar o cativeiro do seu povo*. The abstract noun stands for the captives (a Hebraism the Greek and Latin keep: αἰχμαλωσίαν). MS1932 and the CNBB Liturgia das Horas (consult/web-lh-salmo-125-126.md, from the Hebrew) say 'os cativos'.",
+      "options": [
+        {
+          "label": "o cativeiro",
+          "forms": {
+            "cap1": "o cativeiro de Sião",
+            "cap4": "o nosso cativeiro"
+          },
+          "note": "Draft, by the glossary and 52:7. The Latin's noun; 'make the captivity turn back' is the Latin's own figure, and the same verb and object repeat across 125:1 and 125:4 as in the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "os cativos",
+          "forms": {
+            "cap1": "os cativos de Sião",
+            "cap4": "os nossos cativos"
+          },
+          "note": "MS1932. Plainer, but explains the figure (a person for an abstract) and breaks the glossary row that 13:7, 52:7 and 84:2 follow.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "facti",
+      "refs": [
+        "125:1",
+        "125:3"
+      ],
+      "latin": "facti sumus sicut consoláti … facti sumus lætántes",
+      "kind": "glossary",
+      "why": "The psalm says *facti sumus* twice, at the end of its two halves of thanksgiving, so one verb twice. The glossary row *fíeri* gives *tornar-se* for a state that comes upon the subject (13:3a, 82:11, 118:83), and 78:4 *facti sumus oppróbrium* → *Tornamo-nos uma afronta* is the same form. The Tuesday Vespers antiphon is 125:3 whole (*Magnificávit Dóminus * fácere nobíscum: facti sumus lætántes*, Psalmi major, Day2 Vespera), so the colon must read alone.",
+      "options": [
+        {
+          "label": "ficamos",
+          "forms": {
+            "facti1": "ficamos",
+            "facti3": "ficamos"
+          },
+          "note": "The plainest Brazilian verb for 'became (a state)'; precedent 50:9 *dealbári → ficar mais branco*. One syllable shorter. Kept as the option in case the reflexive sounds stiff at a cadence start. Taken in v2 at the stylist's request (125:3; he named 125:1 too): the plain Brazilian verb, no change of sense. The ambiguity reader heard the past in both.",
+          "from": "stylist"
+        },
+        {
+          "label": "tornamo-nos",
+          "forms": {
+            "facti1": "tornamo-nos",
+            "facti3": "tornamo-nos"
+          },
+          "note": "Draft 1, by the fíeri row and 78:4. The stylist found the pronominal bookish in the short colon of 125:3.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "consolati",
+      "refs": [
+        "125:1"
+      ],
+      "latin": "sicut consoláti",
+      "kind": "word",
+      "why": "The Latin follows the Greek ὡς παρακεκλημένοι, 'as men comforted', against the Hebrew 'like dreamers' (which the Diurnal and the CNBB have: *parecia um sonho*, *parecíamos sonhar*). The Latin's sense is kept.",
+      "options": [
+        {
+          "label": "como consolados",
+          "forms": {
+            "consolati": "como consolados"
+          },
+          "note": "Draft. DRB 'like men comforted'. The participle as the Latin has it.",
+          "from": "DRB"
+        },
+        {
+          "label": "como quem é consolado",
+          "forms": {
+            "consolati": "como quem é consolado"
+          },
+          "note": "Clearer for the ear that *consolados* is a condition, not a verb; two syllables longer.",
+          "from": "draft"
+        },
+        {
+          "label": "cheios de consolação",
+          "forms": {
+            "consolati": "cheios de consolação"
+          },
+          "note": "MS1932. Drops *sicut* (the Latin says 'as if', not 'full of'); refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "gaudium",
+      "refs": [
+        "125:2a"
+      ],
+      "latin": "replétum est gáudio os nostrum",
+      "kind": "glossary",
+      "why": "The glossary row *gáudium → júbilo* (open, for a ruling) names 125:2a; it is applied at 20:7, 29:12, 50:10. *Alegria* is lætítia's; *gozo* is heard sexually in Brazil (the row's note). The passive *replétum est* is given as the Portuguese se-passive (grammar, D2).",
+      "options": [
+        {
+          "label": "se encheu de júbilo",
+          "forms": {
+            "replere": "se encheu",
+            "gaudium": "júbilo"
+          },
+          "note": "Draft, by the row. The CNBB (from the Hebrew) also says *encheu-se … nossa boca*.",
+          "from": "glossary"
+        },
+        {
+          "label": "foi cheia de júbilo",
+          "forms": {
+            "replere": "foi cheia",
+            "gaudium": "júbilo"
+          },
+          "note": "The Latin's passive as a passive, as the open *replére (passive)* row does at 64:5b, 64:12. Stiffer.",
+          "from": "glossary"
+        },
+        {
+          "label": "se encheu de alegria",
+          "forms": {
+            "replere": "se encheu",
+            "gaudium": "alegria"
+          },
+          "note": "The familiar word; takes lætítia's, and *alegres* in 125:3 renders another Latin root (lætántes).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exsultatio",
+      "refs": [
+        "125:2a",
+        "125:5",
+        "125:6b"
+      ],
+      "latin": "exsultatióne … in exsultatióne metent … cum exsultatióne",
+      "kind": "glossary",
+      "why": "The Latin has *exsultátio* three times (ἀγαλλίασις each time) and the psalm's two halves close on it; the glossary row *exsultátio → exultação* is working, kept in 41:5b, 99:2b, 104:43, 117:15 although blind readers have repeatedly listed it as unfamiliar. Draft 1 gave both *in* (125:5) and *cum* (125:6b) as *com*, as 99:2b; v2 follows the Latin's two prepositions (Latinist).",
+      "options": [
+        {
+          "label": "exultação",
+          "forms": {
+            "ex2": "exultação",
+            "ex5": "em exultação",
+            "ex6": "com exultação"
+          },
+          "note": "By the row; the Latin's repetition kept across the three places. v2: 125:5 *in exsultatióne* → *em exultação* (the Latinist: the Latin sets *in lácrimis* against *in exsultatióne* with one preposition and keeps *cum* for 125:6b, so *em* / *com* as the Latin has them).",
+          "from": "glossary"
+        },
+        {
+          "label": "alegria",
+          "forms": {
+            "ex2": "alegria",
+            "ex5": "em alegria",
+            "ex6": "com alegria"
+          },
+          "note": "MS1932 at 125:5 and the CNBB (*ceifarão com alegria*) — the line as Brazilians know it. Takes lætítia's word; refused under the glossary.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "magnif",
+      "refs": [
+        "125:2b",
+        "125:3"
+      ],
+      "latin": "Magnificávit Dóminus fácere cum eis … Magnificávit Dóminus fácere nobíscum",
+      "kind": "word",
+      "why": "The Latin follows the Greek ἐμεγάλυνεν κύριος τοῦ ποιῆσαι, 'the Lord made great the doing': a verb of making-great governing an infinitive. Portuguese cannot say it verb for verb (*engrandeceu o fazer* is not a sentence). Every witness turns it into 'did great things' (DRB, MS1932). The two lines repeat the phrase (the end of 2b is the head of 3), so one wording twice; 125:3 opens the Tuesday Vespers antiphon. The glossary's *magnália → as grandes coisas* (70:19, 105:21) is another Latin word; the two never meet.",
+      "options": [
+        {
+          "label": "Grandes coisas fez o Senhor",
+          "forms": {
+            "magnif": "Grandes coisas fez o Senhor",
+            "magnif3": "Grandes coisas fez o Senhor"
+          },
+          "note": "Draft. MS1932's order: the greatness comes first, as *Magnificávit* does, and the phrase is a familiar liturgical build.",
+          "from": "MS1932"
+        },
+        {
+          "label": "O Senhor fez grandes coisas",
+          "forms": {
+            "magnif": "O Senhor fez grandes coisas",
+            "magnif3": "O Senhor fez grandes coisas"
+          },
+          "note": "Plain order. Loses the Latin's fronted verb of greatness.",
+          "from": "draft"
+        },
+        {
+          "label": "Maravilhas fez o Senhor",
+          "forms": {
+            "magnif": "Maravilhas fez o Senhor",
+            "magnif3": "Maravilhas fez o Senhor"
+          },
+          "note": "The CNBB's word (from the Hebrew). *Maravilhas* is mirabília's; refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cum",
+      "refs": [
+        "125:2b",
+        "125:3"
+      ],
+      "latin": "fácere cum eis … fácere nobíscum",
+      "kind": "word",
+      "why": "The Latin and Greek say 'with' (μετ᾿ αὐτῶν). DRB and MS1932 turn it to 'for'. The CNBB Liturgia das Horas, prayed daily in Brazil, keeps 'with': *Maravilhas fez com eles o Senhor … fez conosco o Senhor* (verified, consult/web-lh-salmo-125-126.md) — so *fazer com* is a line Brazilian ears already know in this psalm.",
+      "options": [
+        {
+          "label": "com eles / conosco",
+          "forms": {
+            "cum_eis": "com eles",
+            "cum_nos": "conosco"
+          },
+          "note": "Draft. The Latin's preposition; 'did great things with us' = dealt greatly with us.",
+          "from": "draft"
+        },
+        {
+          "label": "por eles / por nós",
+          "forms": {
+            "cum_eis": "por eles",
+            "cum_nos": "por nós"
+          },
+          "note": "DRB 'for them', MS1932 'em favor deles … por nós'. Explains the relation; kept as option.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "auster",
+      "refs": [
+        "125:4"
+      ],
+      "latin": "sicut torrens in Austro",
+      "kind": "ambiguity",
+      "why": "*Auster* is first the south wind and by metonymy the south (Lewis & Short, both senses); Greek νότος is the same pair. DRB 'as a stream in the south' and MS1932 'na terra do meio-dia' read the region; Augustine reads the wind — the warm south wind melts the ice and fills the winter torrents (Enarr. in Ps. 125, checked in consult/newadvent-augustine-ps125.htm). No plain Portuguese word keeps both: *austro* has both senses in the dictionary but is unknown to most ears; *sul* is the region, *vento sul* the wind (the glossary gives *Auster → o vento sul* at 77:26, where the wind is plain from the verb).",
+      "options": [
+        {
+          "label": "no sul",
+          "forms": {
+            "auster": "no sul"
+          },
+          "note": "Draft. Both Vulgate-family witnesses; the image of the torrent that fills the dry south is plain. Loses Augustine's wind.",
+          "from": "DRB"
+        },
+        {
+          "label": "no vento sul",
+          "forms": {
+            "auster": "no vento sul"
+          },
+          "note": "Augustine's reading and L&S's first sense; the glossary's word at 77:26. Closes the ambiguity the other way, and a torrent 'in the south wind' needs Augustine to be understood.",
+          "from": "draft"
+        },
+        {
+          "label": "no austro",
+          "forms": {
+            "auster": "no austro"
+          },
+          "note": "Keeps both senses, as the Latin does, but would need a footnote (rule 5); refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v5b",
+      "refs": [
+        "125:5"
+      ],
+      "latin": "in exsultatióne metent",
+      "kind": "order",
+      "why": "The Latin sets the joy first and ends on the verb, against *in lácrimis* at the end of the first colon (a chiasm: sow — tears / joy — reap). *Metere* is to reap, to cut the grain; *ceifar* is the exact image and goes with the sheaves of 125:6b. The CNBB has *ceifarão com alegria* (verified), MS1932 *com alegria ceifarão*, so *ceifar* is the word Brazilian ears know here.",
+      "options": [
+        {
+          "label": "em exultação ceifarão",
+          "forms": {
+            "v5b": "{ex5} {metent}",
+            "metent": "ceifarão"
+          },
+          "note": "Draft (with v2's *em*). The Latin's order; ends on the verb as the Latin ends on *metent*. The stylist heard *exultação ceifarão* as a double -ão clang and asked the plain order; refused: the clang is two stressed -ão, the second at the cadence, and the plain order would end the verse on the word that ends 125:2a and stands at 125:6b's mediant.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ceifarão em exultação",
+          "forms": {
+            "v5b": "{metent} {ex5}",
+            "metent": "ceifarão"
+          },
+          "note": "Plain order (the CNBB's *ceifarão com alegria*; the stylist's *ceifarão com exultação*). Kept as the option for Gustavo's ear.",
+          "from": "stylist"
+        },
+        {
+          "label": "em exultação colherão",
+          "forms": {
+            "v5b": "{ex5} {metent}",
+            "metent": "colherão"
+          },
+          "note": "*Colher* is the commoner harvest verb but is 'gather'; *ceifar* keeps the sickle and goes with *feixes*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "euntes",
+      "refs": [
+        "125:6a"
+      ],
+      "latin": "Eúntes ibant et flebant",
+      "kind": "word",
+      "why": "The Latin keeps the Greek's doubled verb (πορευόμενοι ἐπορεύοντο, the Hebrew infinitive absolute) and sets *Veniéntes … vénient* against it in 125:6b: going went / coming will come. The repetition and the pairing are the Latin's (rule 2); DRB 'Going they went and wept'. The colon is also sung alone as an antiphon of the Common of Apostles (*Eúntes ibant * et flebant, mitténtes sémina sua*, Commune/C1).",
+      "options": [
+        {
+          "label": "Iam indo e choravam",
+          "forms": {
+            "euntes": "Iam indo e choravam"
+          },
+          "note": "The Brazilian progressive *ir + gerúndio* ('they kept on going'); natural, keeps both forms, but the order no longer mirrors 125:6b. Taken in v2 from the stylist (his worst line was draft 1's *Indo, iam*: the i-i-a hiatus and a participle set before its own verb). Order only (D2): both forms of *ire* and *flebant* stay. Cost: 125:6b *Vindo, porém, virão* no longer mirrors it word for word; the pairing going/coming is still heard.",
+          "from": "stylist"
+        },
+        {
+          "label": "Indo, iam e choravam",
+          "forms": {
+            "euntes": "Indo, iam e choravam"
+          },
+          "note": "Draft 1. The Latin's order, mirroring 125:6b; refused by the stylist as unsayable (hiatus, fronted participle).",
+          "from": "draft"
+        },
+        {
+          "label": "Iam e vinham chorando",
+          "forms": {
+            "euntes": "Iam e vinham chorando"
+          },
+          "note": "MS1932. Adds a coming the Latin puts only in 125:6b and drops the doubling; refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "portantes",
+      "refs": [
+        "125:6b"
+      ],
+      "latin": "portántes manípulos suos",
+      "kind": "word",
+      "why": "*Portáre* is to carry; *manípulus* is a handful, a bundle (L&S) — the reaper's sheaf. MS1932 *trazendo os seus feixes*; the CNBB *carregando os seus feixes* (verified).",
+      "options": [
+        {
+          "label": "trazendo",
+          "forms": {
+            "portantes": "trazendo"
+          },
+          "note": "Draft. MS1932. Goes with *Vindo … virão*: they come bringing.",
+          "from": "MS1932"
+        },
+        {
+          "label": "carregando",
+          "forms": {
+            "portantes": "carregando"
+          },
+          "note": "The CNBB's; the weight is heard, one syllable longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sicut",
+      "refs": [
+        "125:4"
+      ],
+      "latin": "sicut torrens",
+      "kind": "grammar",
+      "why": "The Latin has no article. Draft 1 gave the simile an indefinite one; the stylist heard a slack run *co-mo-u-ma* and asked the definite, generic article.",
+      "options": [
+        {
+          "label": "como a torrente",
+          "forms": {
+            "sicut": "como a torrente"
+          },
+          "note": "v2, the stylist's. The generic article; lighter, and the image is unchanged.",
+          "from": "stylist"
+        },
+        {
+          "label": "como uma torrente",
+          "forms": {
+            "sicut": "como uma torrente"
+          },
+          "note": "Draft 1.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v5a",
+      "refs": [
+        "125:5"
+      ],
+      "latin": "Qui séminant in lácrimis",
+      "kind": "order",
+      "why": "Draft 1 kept the Latin's order, which ends the colon on the proparoxytone *lágrimas* (as the Latin's *lácrimis*). The stylist asked for the verb last, so the mediant falls on a paroxytone.",
+      "options": [
+        {
+          "label": "Os que em lágrimas semeiam",
+          "forms": {
+            "v5a": "Os que em lágrimas semeiam"
+          },
+          "note": "v2, the stylist's. Order only (D2); the cadence lands on *semeiam*. With the Latinist's *em* in the second colon the two halves now run *em lágrimas semeiam / em exultação ceifarão* — tears and joy each before their verb.",
+          "from": "stylist"
+        },
+        {
+          "label": "Os que semeiam em lágrimas",
+          "forms": {
+            "v5a": "Os que semeiam em lágrimas"
+          },
+          "note": "Draft 1; the Latin's order and MS1932's.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "125:1": "No title line (*Canticum graduum*): D7, as in ps120 and ps133. The Latin's colon ends with ':' and so does the Portuguese.",
+    "125:2b": "*dicent* is future in the Latin and the Greek (ἐροῦσιν) — 'then they will say among the nations' — after the past of 125:1–2a; kept (DRB 'Then shall they say'). The CNBB (from the Hebrew) has *se dizia*. *gentes → nações* (glossary). The quoted words are not set in quotation marks, as the Latin has none; the capital after the colon marks them. The ambiguity reader heard the future *dirão* as clashing with the past of 2a; it is the Latin's own tense shift, kept.",
+    "125:3": "The whole verse is the Tuesday Vespers antiphon (Psalmi major, Day2 Vespera) and reads alone.",
+    "125:4": "*Convérte* → *Fazei voltar*: the causative the captívitas row prescribes for 125:4; *fazei* is not a homograph of a first-person past (*fiz*). *torrens → torrente* (glossary; 7 lines), singular as the Latin, with an indefinite article as a simile needs. The ambiguity reader heard *no sul* as possibly southern Brazil and the image as unclear; the wind reading stays option 2 of `auster`. He also heard *Fazei voltar … o nosso cativeiro* (and 125:1) as possibly 'make captivity come back upon us', while naming the restoration as the likely hearing — the risk the captívitas row already records; *os cativos* stays the option. Not changed: the glossary row governs 13:7, 52:7, 84:2 too, and a change belongs to the row.",
+    "125:5": "v2: the mediant is now *semeiam* (paroxytone); the proparoxytone *lágrimas* of draft 1 moved inside the colon.",
+    "125:6a": "*mitténtes sémina sua* → *lançando as suas sementes*: the sower's cast (MS1932 *lançavam*). *semen* → *sementes* here, not *descendência*: D32's exception, the verse itself is a sowing.",
+    "125:6b": "*autem* → *porém*, after the participle, where the Latin has it. *manípulos → feixes* (MS1932, CNBB)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps125.md, the glossary rows captívitas, convértere, fíeri, gáudium, exsultátio, torrens, semen (D32), and a fetched CNBB Liturgia das Horas text (consult/web-lh-salmo-125-126.md) to check what circulates in Brazil: it confirms *ceifarão*, *feixes* and *fazer com / conosco*. Augustine on *Auster* checked in consult/newadvent-augustine-ps125.htm. Liturgical uses found by grep in the DO Latin: 125:3 is the Tuesday Vespers antiphon; 125:6a the antiphon *Eúntes ibant* of the Common of Apostles (C1); 125:5–6 the Tract of the martyrs (C3, C3a; Mass 01-19, 01-20, 08-08 …), whose text reads *in gáudio metent* where the psalm has *in exsultatióne* — the psalm's word is followed. Hard readings: *magnificávit … fácere*, *in Austro*, *eúntes ibant*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids and marks). Soft flags accepted: 125:2a first colon +3 (the counter does not elide *se‿encheu*, *júbilo‿a*; about +1 when said); 125:2b and 125:3 second/first colon −3 (the Latin's infinitive *fácere* is folded into *fez*, see decision `magnif`); 125:6b first colon −5 (the Latin's long participle and verb, *Veniéntes … vénient … exsultatióne*, against short Portuguese *Vindo … virão*; nothing to add that the Latin has). 125:5 mediant *lágrimas* is proparoxytone, as *lácrimis* is."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "One minor, taken.",
+      "outcomes": [
+        {
+          "verse": "125:5",
+          "remark": "in exsultatióne → em, not com (parallel with in lácrimis; cum kept for 6b)",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "Four remarks: three taken whole, one taken in part (first colon of 125:5) with the rest kept as an option. Best line 125:2a, worst 125:6a.",
+      "outcomes": [
+        {
+          "verse": "125:5",
+          "remark": "proparoxytone mediant; move to 'Os que em lágrimas semeiam'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "125:5",
+          "remark": "second colon inverted, 'exultação ceifarão' clangs; 'ceifarão com exultação'",
+          "outcome": "option",
+          "decision": "v5b",
+          "reason": "The Latin ends on the verb; the plain order would end the verse on the word that closes 125:2a."
+        },
+        {
+          "verse": "125:6a",
+          "remark": "'Indo, iam' stumbles; 'Iam indo e choravam'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "125:4",
+          "remark": "'como uma' slack; 'como a torrente'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "125:3",
+          "remark": "'tornamo-nos' bookish; 'ficamos' (also 125:1)",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "Thirteen readings, the likely hearing right in all but the image of 125:4. Unknown words listed: cativeiro, júbilo, exultação, torrente, ceifarão, feixes — all kept (glossary words or the concrete images of rule 5; *ceifarão* and *feixes* are what the CNBB prints).",
+      "outcomes": [
+        {
+          "verse": "125:1",
+          "remark": "'fez voltar o cativeiro' can be heard as captivity returning",
+          "outcome": "refused",
+          "reason": "Likely hearing is the restoration (his own note); the captívitas row governs four psalms; 'os cativos' stays the option."
+        },
+        {
+          "verse": "125:4",
+          "remark": "same for 'Fazei voltar … o nosso cativeiro'",
+          "outcome": "refused",
+          "reason": "As 125:1."
+        },
+        {
+          "verse": "125:4",
+          "remark": "'no sul' heard as southern Brazil, image unclear",
+          "outcome": "option",
+          "decision": "auster",
+          "reason": "Both Vulgate-family witnesses read the region; the wind is option 2."
+        },
+        {
+          "verse": "125:2b",
+          "remark": "future 'dirão' clashes with past of 2a",
+          "outcome": "refused",
+          "reason": "The Latin's and the Greek's future."
+        },
+        {
+          "verse": "125:1",
+          "remark": "tornamo-nos past/present",
+          "outcome": "taken",
+          "reason": "Moot: the stylist's ficamos taken; past still heard from context."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: ficamos (125:1, 3); Iam indo e choravam (6a); como a torrente (4); Os que em lágrimas semeiam, * em exultação ceifarão (5). Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "Gate on draft 2: clean, no remark. Overall note: *ficamos alegres* \"flattens the participle slightly but is defensible\" — no fix proposed; kept (the stylist asked *ficamos*, and *alegres* is the plain predicative of *lætántes*, as the lætans row gives).",
+      "outcomes": []
+    }
+  ]
+}
