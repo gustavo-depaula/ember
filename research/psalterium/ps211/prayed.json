@@ -1,0 +1,535 @@
+{
+  "psalm": 211,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "29:10": "Bendito sois, Senhor, {patris}, * {aeterno}.",
+    "29:11": "Vossa é, Senhor, a {magnificentia}, e a potência, * e a glória, e a vitória:",
+    "29:11b": "{laus}: * pois {cuncta} no céu e na terra {tuasunt}:",
+    "29:11c": "Vosso, Senhor, é o reino, * {super}.",
+    "29:12": "Vossas são as riquezas, e vossa é a glória: * vós dominais {omnium1},",
+    "29:12b": "Na vossa mão estão o poder e a potência: * na vossa mão, a grandeza e o {imperium} {omnium2}.",
+    "29:13": "Agora, pois, nosso Deus, {confitemur}, * e louvamos o vosso nome {inclitum}."
+  },
+  "decisions": [
+    {
+      "id": "patris",
+      "refs": [
+        "29:10"
+      ],
+      "latin": "Deus Israël patris nostri",
+      "kind": "order",
+      "why": "In the Latin the genitive patris agrees with Israël: 'the God of Israel our father' — Israel (Jacob) is the father. The Greek has a nominative, ὁ πατὴρ ἡμῶν, which makes God the father; the Latin does not follow it (rule 1). In Portuguese 'Deus de Israel, nosso pai' at the end of a string of vocatives (Senhor, Deus…) is heard first as God addressed as our father — an ambiguity the Latin does not have. Moving 'nosso pai' before Israel is order, which D2 gives to the ear, and it keeps every word.",
+      "options": [
+        {
+          "label": "Deus do nosso pai Israel",
+          "forms": {
+            "patris": "Deus do nosso pai Israel"
+          },
+          "note": "Draft. Unambiguous, as the Latin's case is; DRB 'the God of Israel, our father' keeps the Latin order but English, like Portuguese, then leaves it open. Costs the formula 'Deus de Israel' (D41) its exact shape here; the Latin is not that formula either — it adds patris nostri.",
+          "from": "draft"
+        },
+        {
+          "label": "Deus de Israel, nosso pai",
+          "forms": {
+            "patris": "Deus de Israel, nosso pai"
+          },
+          "note": "The Latin order and D41's 'Deus de Israel' intact; heard first as 'God, our father' (the Greek's sense, not the Latin's).",
+          "from": "draft"
+        },
+        {
+          "label": "Deus de Israel, o nosso pai",
+          "forms": {
+            "patris": "Deus de Israel, o nosso pai"
+          },
+          "note": "The CNBB Liturgia das Horas wording of this line (ps211/circulation.md); the same ambiguity, with the article.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aeterno",
+      "refs": [
+        "29:10"
+      ],
+      "latin": "ab ætérno in ætérnum",
+      "kind": "glossary",
+      "why": "ab ætérno → 'desde sempre' is 102:17's (ab ætérno, et usque in ætérnum → desde sempre, e para todo o sempre); bare in ætérnum → 'para sempre' (D23; D37 keeps 'para todo o sempre' for usque, which is absent here). The Latin joins the two phrases without a conjunction; Portuguese needs 'e' — a supplied word, grammar (D2). The Greek ἀπὸ τοῦ αἰῶνος καὶ ἕως τοῦ αἰῶνος has both καί and ἕως, the Latin neither.",
+      "options": [
+        {
+          "label": "desde sempre e para sempre",
+          "forms": {
+            "aeterno": "desde sempre e para sempre"
+          },
+          "note": "Draft: the two glossary phrases, joined.",
+          "from": "glossary"
+        },
+        {
+          "label": "desde a eternidade até a eternidade",
+          "forms": {
+            "aeterno": "desde a eternidade até a eternidade"
+          },
+          "note": "Word for word (DRB 'from eternity to eternity'); keeps the noun the Latin repeats, but breaks D23 and is +5 syllables on the colon.",
+          "from": "DRB"
+        },
+        {
+          "label": "desde sempre e por toda a eternidade",
+          "forms": {
+            "aeterno": "desde sempre e por toda a eternidade"
+          },
+          "note": "The CNBB Liturgia das Horas and Lectionary wording (circulation.md) — what Brazilian ears know; adds 'toda' and breaks D23.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "magnificentia",
+      "refs": [
+        "29:11"
+      ],
+      "latin": "magnificéntia",
+      "kind": "glossary",
+      "why": "The glossary's row (open) gives magnificência for μεγαλοπρέπεια in all eight psalm places. Here the Greek is μεγαλωσύνη, but the canticle itself has magnitúdo in 29:12b, which is 'grandeza' (70:8, 144:3, 150:2), so the two Latin words must stay apart inside one canticle. A blind reader once listed magnificência as a word churchgoers may not know.",
+      "options": [
+        {
+          "label": "magnificência",
+          "forms": {
+            "magnificentia": "magnificência"
+          },
+          "note": "Draft: the glossary's word; stays apart from 'grandeza' (magnitúdo) three verses later.",
+          "from": "glossary"
+        },
+        {
+          "label": "grandeza",
+          "forms": {
+            "magnificentia": "grandeza"
+          },
+          "note": "The CNBB Liturgia das Horas word here ('a grandeza e o poder'); plainer, but it would say magnitúdo's word twice in the canticle for two Latin words.",
+          "from": "draft"
+        },
+        {
+          "label": "majestade",
+          "forms": {
+            "magnificentia": "majestade"
+          },
+          "note": "MS1932's word for magnificéntia in the psalms (glossary row); majéstas's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laus",
+      "refs": [
+        "29:11b"
+      ],
+      "latin": "Et tibi laus",
+      "kind": "grammar",
+      "why": "Verbless, with a dative: 'and to you (is) praise'. Portuguese can say it verbless as well ('A vós a glória'); laus → louvor (glossary), tibi → a vós (64:2 'A vós convém o hino').",
+      "options": [
+        {
+          "label": "E a vós o louvor",
+          "forms": {
+            "laus": "E a vós o louvor"
+          },
+          "note": "Draft: verbless like the Latin; the dative kept; four-five syllables for the Latin's four.",
+          "from": "draft"
+        },
+        {
+          "label": "E vosso é o louvor",
+          "forms": {
+            "laus": "E vosso é o louvor"
+          },
+          "note": "Carries on the 'Vossa é… Vosso…' of the verses around it, but that anaphora is the Latin's tuus, and here the Latin changes to the dative tibi.",
+          "from": "draft"
+        },
+        {
+          "label": "E a vós pertence o louvor",
+          "forms": {
+            "laus": "E a vós pertence o louvor"
+          },
+          "note": "A supplied verb (CNBB LH has 'A vós pertencem' for Tua est); clearer, longer (+3).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cuncta",
+      "refs": [
+        "29:11b"
+      ],
+      "latin": "cuncta enim quæ in cælo sunt, et in terra, tua sunt",
+      "kind": "grammar",
+      "why": "cuncta (neuter plural, 'all things') with a plural verb twice (sunt… sunt). Portuguese 'tudo' is the plain word for it and takes the singular. DRB 'all that is in heaven, and in earth, is thine' makes the same move. enim → pois (glossary).",
+      "options": [
+        {
+          "label": "tudo o que está … é vosso",
+          "forms": {
+            "cuncta": "tudo o que está",
+            "tuasunt": "é vosso"
+          },
+          "note": "Draft: plain; the number is lost, which is grammar (D2).",
+          "from": "draft"
+        },
+        {
+          "label": "todas as coisas que estão … são vossas",
+          "forms": {
+            "cuncta": "todas as coisas que estão",
+            "tuasunt": "são vossas"
+          },
+          "note": "The Latin's plural kept and its syllable count matched; heavier, and 'todas as coisas' is already the canticle's rendering of ómnium (29:12, 29:12b), a different Latin word.",
+          "from": "draft"
+        },
+        {
+          "label": "tudo o que há … é vosso",
+          "forms": {
+            "cuncta": "tudo o que há",
+            "tuasunt": "é vosso"
+          },
+          "note": "Plainest; 'há' says existence where the Latin says 'is in' (place).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "29:11c"
+      ],
+      "latin": "et tu es super omnes príncipes",
+      "kind": "word",
+      "why": "super omnes with esse: the psalter's precedents are 'sobre todos' (94:3 Rex magnus super omnes deos → sobre todos os deuses; 96:9; 98:2 excélsus super omnes pópulos → excelso sobre todos os povos) and once 'acima de todos' (95:4). tu es → 'vós estais': the subject named, since the Latin names it (tu). The stylist (v1) heard the proparoxytone final príncipes as a weak cadence and asked for the order \"e sobre todos os príncipes estais vós\". Refused: the Latin ends on the same word with the same stress (PRÍN-ci-pes), so the tone meets the Portuguese exactly as it meets the Latin; and ending on \"estais vós\" is an inversion the ear notices as literary, which rule 5 forbids for its own sake. Kept as an option.",
+      "options": [
+        {
+          "label": "sobre",
+          "forms": {
+            "super": "e vós estais sobre todos os príncipes"
+          },
+          "note": "Draft 1 and 2: the majority precedent (94:3, 96:9, 98:2); 12 syllables against the Latin's 10; the Latin's final word and stress.",
+          "from": "draft"
+        },
+        {
+          "label": "acima de",
+          "forms": {
+            "super": "e vós estais acima de todos os príncipes"
+          },
+          "note": "95:4's build; says rank more plainly; +4 syllables on the colon.",
+          "from": "draft"
+        },
+        {
+          "label": "e sobre todos os príncipes estais vós",
+          "forms": {
+            "super": "e sobre todos os príncipes estais vós"
+          },
+          "note": "Stylist v1: an oxytone final for the tone; an inversion, and it moves tu from the head of the clause to its end.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "omnium",
+      "refs": [
+        "29:12",
+        "29:12b"
+      ],
+      "latin": "tu domináris ómnium … impérium ómnium",
+      "kind": "ambiguity",
+      "why": "ómnium is masculine or neuter — 'all men' or 'all things' — and the Latin says it twice, closing two verses. The Greek is open too (πάντων); DRB reads things at 29:12b ('the empire of all things'), 'over all' at 29:12. The context leans to things (cuncta… tua sunt, 29:11b), and 12b's Greek τὰ πάντα is neuter. Portuguese must choose a gender; one rendering for both places keeps the Latin's repetition. Draft 2: in 29:12b the genitive after domínio is objective (dominion over all), and \"o domínio de todas as coisas\" was heard by the ambiguity reader as possibly \"the domain that all things have\"; the stylist asked for \"sobre\", and the Latinist's own proposal also has \"o domínio sobre\". A preposition is grammar (D2). The gender question (the Latinist's minor) stays ruled for the neuter: 29:12b's Greek τὰ πάντα is neuter and 29:11b has just said cuncta.",
+      "options": [
+        {
+          "label": "todas as coisas (both)",
+          "forms": {
+            "omnium1": "todas as coisas",
+            "omnium2": "sobre todas as coisas"
+          },
+          "note": "Draft 2: the neuter reading in both places; \"sobre\" in 29:12b (stylist, ambiguity reader).",
+          "from": "stylist"
+        },
+        {
+          "label": "todas as coisas, with \"de\" in 29:12b",
+          "forms": {
+            "omnium1": "todas as coisas",
+            "omnium2": "de todas as coisas"
+          },
+          "note": "Draft 1: the Latin genitive as a Portuguese \"de\"; heard once as the domain things have.",
+          "from": "draft"
+        },
+        {
+          "label": "tudo (both)",
+          "forms": {
+            "omnium1": "tudo",
+            "omnium2": "de tudo"
+          },
+          "note": "Shorter and plainer; \"sobre tudo\" is avoided because it is heard as \"sobretudo\".",
+          "from": "draft"
+        },
+        {
+          "label": "sobre todos (both)",
+          "forms": {
+            "omnium1": "sobre todos",
+            "omnium2": "sobre todos"
+          },
+          "note": "The masculine reading (the Latinist's fix, v1 minor): all men, picking up omnes príncipes; as 102:19 \"dominará sobre todos\". It closes the Latin the other way.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "imperium",
+      "refs": [
+        "29:12b"
+      ],
+      "latin": "impérium",
+      "kind": "glossary",
+      "why": "The glossary row (open, from 85:16, κράτος) gives 'domínio' and lists this canticle place (29:12) among the uses to come. 'império' was refused there because it is heard as 'empire'. Cost: 'dominais' (domináris) and 'domínio' (impérium) share a root in Portuguese that the Latin does not have, one colon apart.",
+      "options": [
+        {
+          "label": "domínio",
+          "forms": {
+            "imperium": "domínio"
+          },
+          "note": "Draft: the glossary's word.",
+          "from": "glossary"
+        },
+        {
+          "label": "império",
+          "forms": {
+            "imperium": "império"
+          },
+          "note": "The cognate (DRB 'empire'); breaks the root echo with 'dominais', but heard as a state.",
+          "from": "DRB"
+        },
+        {
+          "label": "poder",
+          "forms": {
+            "imperium": "poder"
+          },
+          "note": "Plain, but 'poder' is virtus's word in the same verse.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confitemur",
+      "refs": [
+        "29:13"
+      ],
+      "latin": "confitémur tibi, * et laudámus",
+      "kind": "glossary",
+      "why": "D5: confitéri to God → 'dar graças a', precisely because it stands beside laudáre, as here; 'nós vos damos graças' names the subject the verb ending hides, as the glossary's 'Eu vos darei graças' (56:10). The Greek ἐξομολογούμεθά … αἰνοῦμεν keeps the two verbs apart as well.",
+      "options": [
+        {
+          "label": "nós vos damos graças",
+          "forms": {
+            "confitemur": "nós vos damos graças"
+          },
+          "note": "Draft (D5).",
+          "from": "glossary"
+        },
+        {
+          "label": "nós vos louvamos",
+          "forms": {
+            "confitemur": "nós vos louvamos"
+          },
+          "note": "Refused: it collides with laudámus in the next colon — the collision D5 was ruled to avoid.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inclitum",
+      "refs": [
+        "29:13"
+      ],
+      "latin": "nomen tuum ínclitum",
+      "kind": "word",
+      "why": "ínclitus is 'much heard of, praised; celebrated, renowned, illustrious, glorious' (L&S, from κλυτός); it is not a psalter word. The Greek has τὸ ὄνομα τῆς καυχήσεώς σου ('the name of your glorying'). 'glorioso' is DRB's 'glorious' and is what the CNBB Liturgia das Horas and the Brazilian Lectionary say at this very line ('o vosso nome glorioso', circulation.md). Its cost: the canticle has the noun glória twice, and 'glorioso' is gloriósus's word (86:3), so a reader crossing columns sees a glória-word where the Latin has another; gloriósus and ínclitus never meet.",
+      "options": [
+        {
+          "label": "glorioso",
+          "forms": {
+            "inclitum": "glorioso"
+          },
+          "note": "Draft: plain, one of L&S's senses, and the line Brazilian Catholics already pray.",
+          "from": "DRB"
+        },
+        {
+          "label": "ilustre",
+          "forms": {
+            "inclitum": "ilustre"
+          },
+          "note": "Keeps a word of its own for ínclitus; in current Brazilian use it sounds social ('um ilustre visitante').",
+          "from": "draft"
+        },
+        {
+          "label": "ínclito",
+          "forms": {
+            "inclitum": "ínclito"
+          },
+          "note": "The cognate; literary (Camões), a word needing a footnote (rule 5).",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "29:10": "DO's file opens with the heading line '(Canticum David * 1 Par. 29:10-13)'; it is not a verse (render.py/readVerses skip it) and is not translated, as the Nunc dimittis heading was not (D7). Benedíctus es, Dómine → 'Bendito sois, Senhor', word for word 118:12 (identical Latin). The DO text agrees with the Clementine Vulgate at 1 Chr 29:10–13 (Bolls VULG, consult/bolls-VULG-13-29.json; only spelling inclytum/ínclitum). First colon 3 syllables short of the Latin, accepted to keep 118:12's wording.",
+    "29:11": "Tua est → 'Vossa é', as 73:16 (Tuus est dies, et tua est nox → Vosso é o dia, e vossa é a noite). poténtia → potência (glossary row, open; 64:7, 70:19, 79:3). victória → vitória (not a psalter word). atque → 'e': it is only a weightier 'and', and a 'e também' would add emphasis the ear hears as more. The Latin's polysyndeton (et… et… atque) kept.",
+    "29:11b": "enim → pois (glossary). in cælo… et in terra: the Latin's second member hangs after a comma; Portuguese joins it without one.",
+    "29:11c": "Tuum, Dómine, regnum → 'Vosso, Senhor, é o reino': the copula supplied, as 21:29 'do Senhor é o reino'. príncipes → príncipes (2:2, 46:10). The colon ends proparoxytone, as the Latin's does.",
+    "29:12": "Built as 73:16 and 88:12 (Vossos são… vossa é…). divítiæ → riquezas (36:16, 48:11b, 111:3). domináris → dominais (88:10 Tu domináris → Vós dominais), transitive as 21:29.",
+    "29:12b": "In manu tua … in manu tua: the repetition kept, 'Na vossa mão … na vossa mão'. virtus → poder, poténtia → potência, the pair of 64:7. The Latin is verbless twice; 'estão' is supplied in the first colon (grammar), and the second colon gaps it, as Portuguese does naturally in a parallel. magnitúdo → grandeza (70:8, 144:3, 144:6, 150:2). checks.py flags the finals of 29:12 and 29:12b as rhyming (-oisas): the Latin has the same echo, ómnium closing both verses, and the rhyme is that repetition kept (rule 5 allows it where the Latin has it).",
+    "29:13": "Nunc → 'Agora', as the Nunc dimittis; ígitur → 'pois'. The vocative Deus noster → 'nosso Deus', without 'ó', as 98:8 'Senhor, nosso Deus'. laudáre → louvar; nomen tuum → o vosso nome."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm211.txt (DO files the canticles as Psalms 210–273). Verse ids are the file's own, 1 Chronicles numbering: 29:10, 29:11 (three lines → 29:11, 29:11b, 29:11c by readVerses), 29:12 (two → 29:12, 29:12b), 29:13. The heading line '(Canticum David * 1 Par. 29:10-13)' is not a verse and is left out (D7, as ps233). Compared with the Clementine Vulgate from Bolls (consult/bolls-VULG-13-29.json): identical wording."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py 211 gives only the Latin and DO's Portuguese for a canticle (it looks up psalm numbers). Worked around inside the folder: ps211/show_parallels.py builds ps211/parallels.md from the Rahlfs LXX csv (1Chr 29:10–13), Douay-Rheims and the Hebrew (WLC) fetched from Bolls (consult/bolls-{DRB,WLC}-13-29.json). No Matos Soares 1932 or Diurnal Monástico text exists for this canticle in the consult files. ps211/concord.py (copied from ps150's) was used for precedent: 118:12 Benedíctus es, Dómine; 102:17 ab ætérno; 73:16 and 88:12 Tuus est / tua est; 94:3, 96:9, 98:2 super omnes; 88:10 domináris; 85:16 impérium; 86:3 gloriósus. Brazilian circulation fetched into ps211/circulation.md. Hard readings: patris nostri (genitive with Israël, against the Greek), ómnium (gender), ínclitum."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 1: hard pass (ids 29:10, 29:11, 29:11b, 29:11c, 29:12, 29:12b, 29:13; '*' in each). render.py and checks.py ran unchanged on DO number 211. Soft flags: 29:10 first colon -3 (kept for 118:12's identical 'Bendito sois, Senhor'); neighbouring finals rhyme 29:12/29:12b (-oisas) — the Latin's own ómnium … ómnium, accepted. 29:12b second colon +2, 29:11c second colon +2, 29:13 second colon +2: within bounds."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Draft 1, read by claude-opus-5-5 in a fresh context with latin.json (run by the coordinator; Codex out of credits). No majors; three minors, all on words the draft had already made decisions of. All held; each stays an option.",
+      "outcomes": [
+        {
+          "verse": "29:12",
+          "remark": "ómnium resolved as neuter (todas as coisas); asks sobre todos, or keep if ruled",
+          "outcome": "option",
+          "decision": "omnium",
+          "reason": "Held for the neuter: 29:12b's Greek τὰ πάντα is neuter, 29:11b has just said cuncta, and DRB reads \"all things\" at 29:12b. Portuguese must choose a gender; the masculine is option 4. His \"sobre\" in 29:12b is taken."
+        },
+        {
+          "verse": "29:13",
+          "remark": "confitémur → damos graças follows the Hebrew; asks louvamos or confessamos",
+          "outcome": "refused",
+          "decision": "confitemur",
+          "reason": "D5 (settled): confitéri to God is \"dar graças a\", ruled precisely because it stands beside laudáre, as here — \"nós vos louvamos, e louvamos\" is the collision D5 avoids; \"confessamos\" is heard as professing faith or confessing sin."
+        },
+        {
+          "verse": "29:13",
+          "remark": "ínclitum is renowned, not glorious; glorioso repeats glória as if the same word; asks ínclito or insigne",
+          "outcome": "option",
+          "decision": "inclitum",
+          "reason": "The echo was the cost named in the draft. Held: L&S gives \"glorious\" among its senses, DRB has \"glorious\", and it is the wording of both the CNBB Liturgia das Horas and the Brazilian Lectionary at this line (circulation.md). \"ínclito\" and \"insigne\" are words needing a footnote (rule 5); \"ilustre\" (option 2) sounds social."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Draft 1, claude-opus-5-5, fresh context, with latin.json. Two remarks; one taken, one kept as an option. Best line 29:12, worst 29:11c. It judged the polysyndeton and the \"vossa… na vossa mão\" anaphora to carry well and the -ência/-ória echoes of 29:11 to be the Latin's litany, not rhyme.",
+      "outcomes": [
+        {
+          "verse": "29:11c",
+          "remark": "proparoxytone final príncipes; asks e sobre todos os príncipes estais vós",
+          "outcome": "option",
+          "decision": "super",
+          "reason": "The Latin ends on the same word with the same stress, so the tone fits both columns alike; the inversion to \"estais vós\" is literary (rule 5)."
+        },
+        {
+          "verse": "29:12b",
+          "remark": "second colon long and piled up; asks o domínio sobre todas as coisas",
+          "outcome": "taken",
+          "decision": "omnium",
+          "reason": "A preposition (grammar, D2); it also removes the ambiguity reader's third reading."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Draft 1, Portuguese only, claude-opus-5-5, fresh context. Eight items, one unknown word (magnificência). Only the 29:12b attachment led to a change.",
+      "outcomes": [
+        {
+          "verse": "29:10",
+          "remark": "Deus do nosso pai Israel heard as the people Israel more than Jacob",
+          "outcome": "refused",
+          "reason": "The Latin says the same words: Israel, called our father; whether a listener pictures the patriarch or the nation descended from him is the Latin's own openness. The reading the order was built to exclude (God as our father) was not heard."
+        },
+        {
+          "verse": "29:11",
+          "remark": "potência as a world power",
+          "outcome": "refused",
+          "reason": "He heard \"power, might\" first; potência is the glossary row's word (64:7, 70:19)."
+        },
+        {
+          "verse": "29:11b",
+          "remark": "E a vós o louvor: possession or offering",
+          "outcome": "refused",
+          "reason": "The Latin is verbless too (Et tibi laus) and open the same way; the options with a verb are in decision laus."
+        },
+        {
+          "verse": "29:11c",
+          "remark": "sobre: rank or physically upon",
+          "outcome": "refused",
+          "reason": "He heard rank first; the precedents for super omnes (94:3, 98:2) say sobre."
+        },
+        {
+          "verse": "29:11c",
+          "remark": "príncipes heard as sons of kings",
+          "outcome": "refused",
+          "reason": "The psalter's word for príncipes throughout (2:2, 46:10, 82:12); a local change would break it."
+        },
+        {
+          "verse": "29:12",
+          "remark": "riches belong to you / come from you",
+          "outcome": "refused",
+          "reason": "He heard possession first, which is the Latin (Tuæ divítiæ)."
+        },
+        {
+          "verse": "29:12b",
+          "remark": "poder e potência heard as one doubled idea",
+          "outcome": "refused",
+          "reason": "The Latin doubles near-synonyms too (virtus et poténtia), as in 64:7; both keep their glossary words."
+        },
+        {
+          "verse": "29:12b",
+          "remark": "de todas as coisas: attachment, and possibly the domain things have",
+          "outcome": "taken",
+          "decision": "omnium",
+          "reason": "\"sobre todas as coisas\" makes the objective genitive plain."
+        },
+        {
+          "verse": "29:11",
+          "remark": "unknown word: magnificência",
+          "outcome": "refused",
+          "decision": "magnificentia",
+          "reason": "Known cost of the glossary word (8 psalm places); grandeza is magnitúdo's in 29:12b of this canticle."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 29:12b \"o domínio de todas as coisas\" → \"o domínio sobre todas as coisas\" (stylist; ambiguity reader; the Latinist's own fix has sobre). 29:11c text unchanged; its whole second colon became the slot of decision super so that the stylist's order stands as an option. Draft 1 is prayed.v1.json (flat text prayed.v1.vos.json, the file the v1 readers read)."
+    },
+    {
+      "step": "checks",
+      "note": "Draft 2: hard pass. Soft flags: 29:10 first colon -3 (as draft 1); 29:12b second colon now +3 (sobre for de adds a syllable) — accepted: the colon keeps the Latin's four members and the stylist, who raised its length, asked for this very wording; neighbouring finals rhyme 29:12/29:12b — the Latin's ómnium … ómnium, accepted."
+    },
+    {
+      "step": "latinist",
+      "version": 2,
+      "file": "critic/v2.latinist.json",
+      "note": "Draft 2, claude-opus-5-5 in a fresh context with latin.json (run by the coordinator). No majors; one minor, the same as v1 (ínclitum). It called the rendering faithful and complete, every item of the lists kept in order and number, and passed \"damos graças\" as a legitimate sense of confitéri. Gate clean of majors.",
+      "outcomes": [
+        {
+          "verse": "29:13",
+          "remark": "ínclitum is renowned/illustrious, not glorious; glorioso blurs it with glória (29:11, 29:12); asks \"o vosso nome ilustre\"",
+          "outcome": "option",
+          "decision": "inclitum",
+          "reason": "Held a second time, and flagged for Gustavo because two readings raised it. \"glorious\" is among L&S's senses of inclutus and is DRB's word; it is what the CNBB Liturgia das Horas and the Brazilian Lectionary say at this line; \"ilustre\" (option 2, his fix) is heard as social rank in current Brazilian use. The echo with glória is the cost the draft named; ínclitus and gloriósus never meet in the Latin."
+        }
+      ]
+    }
+  ]
+}

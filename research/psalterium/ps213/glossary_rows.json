@@ -1,0 +1,22 @@
+{
+  "append": [
+    {"row": "| præclárus |", "text": "**Canticle 213 (Jdt 16:16) *præclárus in virtúte tua*, said of God → *esplêndido no vosso poder*** (v2). A local departure. Draft 1 had the row's *excelente*, and the stylist ('a school grade or a sales pitch') and the ambiguity reader ('the everyday very good') both heard it flat. *Esplêndido* is the row's own option and keeps *clarus*'s light, and here it does not stand at a cadence. **Proposal: præclárus of God → *esplêndido*; the row stays *excelente* for things (15:6, 22:5b).** Passed the v2 gate."},
+    {"row": "| petra |", "text": "**Canticle 213 (Jdt 16:19) *petræ, sicut cera, liquéscent* → *as rochas, como cera, se derreterão*** (plural and definite: rocks in general)."},
+    {"row": "| movéri", "text": "**Canticle 213 (Jdt 16:19) *Montes a fundaméntis movebúntur cum aquis* → *Os montes, com as águas, serão abalados desde os fundamentos*** (81:5's future passive). *Com as águas* is moved after *montes* in v2, because the stylist and the ambiguity reader heard the Latin order as the waters shaking them."},
+    {"row": "| fácies, ", "text": "**Canticle 213 (Jdt 16:19) *ante fáciem tuam* → *diante da vossa face*** (the row's form for *ante*; *à face de* stays *a fácie*'s)."},
+    {"row": "| apud te |", "text": "**Canticle 213 (Jdt 16:20) *magni erunt apud te per ómnia* → *serão grandes junto de vós em tudo*** (the CNBB LH has *junto a vós … em tudo* in the same line). No reader remarked."},
+    {"row": "| visitáre |", "text": "**Canticle 213 (Jdt 16:21) *in die judícii visitábit illos* → *no dia do juízo os visitará*** (punitive, as 88:33). The ambiguity reader said a kindly visit might be heard; kept as the Latin's word."},
+    {"row": "| carnes (plural) |", "text": "**Canticle 213 (Jdt 16:22) *vermes in carnes eórum* → *vermes nas carnes deles*** (a man's own flesh; the row)."},
+    {"row": "| insúrgere in / advérsum |", "text": "**Canticle 213 (Jdt 16:21) *genti insurgénti super genus meum* → *da nação que se levanta contra*** (the participle as a present; *super* as *contra*). The stylist's *que se ergue* was refused."},
+    {"row": "| ulcísci in |", "text": "**Canticle 213 (Jdt 16:21) *vindicáre in* (*vindicábit in eis*) → *se vingará deles*** (the same build; *vindicáre* is not a psalter word)."},
+    {"row": "| *Quia (32:9", "text": "**Canticle 213 (Jdt 16:17–18) in the second person: *quia dixísti, et facta sunt: … misísti spíritum tuum, et creáta sunt* → *porque dissestes, e as coisas foram feitas: … Enviastes o vosso espírito, e foram criadas*** — the formula kept with *as coisas* (+4 syllables). The stylist asked *e tudo foi feito* (the CNBB LH's words), which is kept as an option; it would leave *foram criadas* without a subject."},
+    {"row": "| *usque in ætérnum / usque in sǽculum*", "text": "**Canticle 213 (Jdt 16:22) *usque in sempitérnum* → *para todo o sempre*** (as 105:31)."}
+  ],
+  "terms": [
+    "| genus (*genus meum*, a people as stock) | linhagem (*contra a minha linhagem*) | open | **Canticle 213 (Jdt 16:21)**; not a psalter word (concord). v1 had *raça*: the stylist and the ambiguity reader heard modern ethnicity or slang grit. The v2 Latinist (minor) asked *o meu povo*, which is held as an option because *povo* is *pópulus*'s word (DRB and MS1932 merge them). *raça*, *o meu povo* are the options. |",
+    "| omnípotens | todo-poderoso (*o Senhor todo-poderoso*) | open | **Canticle 213 (Jdt 16:21)**; not a psalter word (concord). This is the Brazilian Creed's and collects' rendering (*Deus Pai todo-poderoso*, *Deus eterno e todo-poderoso*; `ps213/circulation.md`). *onipotente* is the option. |",
+    "| superáre | superar (*e ninguém vos pode superar*) | open | **Canticle 213 (Jdt 16:16)**; not a psalter word. The cognate keeps both 'overcome' and 'surpass'. *vencer* (DRB) is the option; it is *vincere*'s (50:6). |",
+    "| creatúra (*omnis creatúra tua*) | criatura (*Toda a vossa criatura vos sirva*) | open | **Canticle 213 (Jdt 16:17)**; the CNBB LH's own line. The singular keeps 'every creature' and 'the whole creation' both open. *criação*, *todas as vossas criaturas* are options. |",
+    "| Adonái | Adonai (kept; *Adonai, Senhor*) | open | **Canticle 213 (Jdt 16:16)**. The Latin keeps the Hebrew name and glosses it with *Dómine*; MS1932, DRB and the CNBB LH (*Senhor-Adonai*) keep it too. The ambiguity reader did not know it. |"
+  ]
+}

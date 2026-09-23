@@ -1,0 +1,19 @@
+{
+  "append": [
+    {"row": "| magnificéntia |", "text": "**Canticle 211 (1 Chr 29:11) *Tua est, Dómine, magnificéntia* → *Vossa é, Senhor, a magnificência*** — the row followed (the Greek there is μεγαλωσύνη); it had to stay apart from *magnitúdo → grandeza* in 29:12b of the same canticle. Unknown to the ambiguity reader again; *grandeza* (CNBB LH) and *majestade* are options."},
+    {"row": "| poténtia |", "text": "**Canticle 211 (1 Chr 29:11, 29:12b) → *a potência*; 29:12b *virtus et poténtia* → *o poder e a potência*** (64:7's pair). The ambiguity reader heard one doubled idea — as the Latin's near-synonyms are — and 'might' first for *potência*."},
+    {"row": "| impérium |", "text": "**Canticle 211 (1 Chr 29:12b) *impérium ómnium* → *o domínio sobre todas as coisas*** — the row followed; *sobre* for the objective genitive (the stylist; *de* was heard once as 'the domain things have'). Cost: *dominais* (*domináris*, 29:12) and *domínio* share a root the Latin does not. *império* option."},
+    {"row": "| confitéri (to God) |", "text": "**Canticle 211 (1 Chr 29:13) *confitémur tibi, et laudámus* → *nós vos damos graças, e louvamos*** — D5's collision case once more; the v1 Latinist asked *louvamos / confessamos* (minor), refused; the v2 gate passed *damos graças*."},
+    {"row": "| dominári (+ gen.) |", "text": "**Canticle 211 (1 Chr 29:12) *tu domináris ómnium* → *vós dominais todas as coisas*** (transitive, as 21:29; 88:10 *Vós dominais*). *ómnium* read as neuter (29:12b's Greek τὰ πάντα; *cuncta* in 29:11b); the Latinist's masculine *sobre todos* is an option. *dominais sobre tudo* avoided — heard as *sobretudo*."},
+    {"row": "| *usque in ætérnum / usque in sǽculum*", "text": "**Canticle 211 (1 Chr 29:10) *ab ætérno in ætérnum*** (no *usque*, no *et*) → ***desde sempre e para sempre*** — 102:17's *desde sempre* with D23's bare *para sempre*; the *e* supplied. CNBB LH and Lectionary: *desde sempre e por toda a eternidade*."}
+  ],
+  "terms": [
+    "| ínclitus (*nomen tuum ínclitum*) | glorioso (*e louvamos o vosso nome glorioso*) | open | **Canticle 211 (1 Chr 29:13)**; not a psalter word. L&S 'celebrated, renowned, illustrious, glorious' (κλυτός); DRB 'glorious'; the CNBB Liturgia das Horas and the Brazilian Lectionary both say *o vosso nome glorioso* at this line. **The Latinist asked twice (v1, v2 gate: minor) for *ilustre*** — *glorioso* blurs it with *glória* (twice in the canticle) and is gloriósus's word (86:3). Held; *ilustre* (heard as social rank), *ínclito* (footnote word) are options. For Gustavo. |",
+    "| divítiæ | riquezas | working | 36:16, 48:11b, 61:11, 72:12, 111:3; **Canticle 211 (1 Chr 29:12) *Tuæ divítiæ, et tua est glória* → *Vossas são as riquezas, e vossa é a glória*** (built as 73:16). |",
+    "| victória | vitória | working | **Canticle 211 (1 Chr 29:11)**; not a psalter word. *atque victória* → *e a vitória* (*atque* a plain *e*). |",
+    "| cuncta (*cuncta quæ … sunt*) | tudo (*pois tudo o que está no céu e na terra é vosso*) | working | **Canticle 211 (1 Chr 29:11b)**; the Latin's plural (*sunt … tua sunt*) becomes the singular *tudo* (DRB 'all that is … is thine'); kept apart from *ómnium → todas as coisas* two lines later. *todas as coisas que estão … são vossas* option. |"
+  ],
+  "formulas": [
+    "| *Benedíctus es, Dómine* (118:12; canticle 211 = 1 Chr 29:10 *Benedíctus es, Dómine, Deus Israël patris nostri, * ab ætérno in ætérnum*) | *Bendito sois, Senhor* · canticle 211: *Bendito sois, Senhor, Deus do nosso pai Israel, * desde sempre e para sempre* | working — canticle 211 copies 118:12. *patris nostri* (genitive, with Israël; the Greek's nominative makes God the father) → *Deus do nosso pai Israel*, reordered so that God is not heard addressed as 'our father'; *Deus de Israel, (o) nosso pai* (CNBB LH) are options. Not D41's *Benedíctus Dóminus, Deus Israël* formula. |"
+  ]
+}

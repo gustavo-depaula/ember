@@ -1,0 +1,459 @@
+{
+  "psalm": 212,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "13:1": "{magnus}, Senhor, para sempre, * {regnum}:",
+    "13:2": "Porque vós flagelais, e salvais: conduzis {inferos}, e {reducis}: * e não há quem escape da vossa mão.",
+    "13:3": "Dai graças ao Senhor, filhos de Israel, * e à vista das nações louvai-o:",
+    "13:4": "{ideo} entre as nações {ignorant}, * para que vós narreis as suas maravilhas,",
+    "13:5": "E lhes façais saber * que não há outro Deus {omnipotens} {praeter}.",
+    "13:6": "{ipse1} nos castigou por causa das nossas iniquidades: * e {ipse2} nos salvará por causa da sua misericórdia.",
+    "13:7": "Olhai, pois, o que ele fez conosco, e com temor e tremor dai-lhe graças: * e exaltai o Rei dos séculos {operibus}.",
+    "13:8": "Eu, porém, na terra do meu cativeiro lhe darei graças: * porque mostrou a sua majestade {ingentem} uma nação pecadora.",
+    "13:9": "Convertei-vos, portanto, pecadores, e {facite} diante de Deus, * crendo que ele {faciat}:",
+    "13:10": "Eu, porém, e a minha alma * nele nos alegraremos.",
+    "13:11": "Bendizei o Senhor, todos os seus escolhidos: * celebrai dias de alegria, e dai-lhe graças."
+  },
+  "decisions": [
+    {
+      "id": "magnus",
+      "refs": [
+        "13:1"
+      ],
+      "latin": "Magnus es, Dómine",
+      "kind": "order",
+      "why": "The canticle opens on the predicate, an acclamation, as the psalter's own Magnus Dóminus does (47:2, 95:4, 144:3, all 'Grande é o Senhor' in the finished psalms). Portuguese can front the adjective in an exclamation without strain; the pronoun is supplied because a bare 'Grande sois, Senhor' is clipped.",
+      "options": [
+        {
+          "label": "Grande sois vós",
+          "forms": {
+            "magnus": "Grande sois vós"
+          },
+          "note": "Draft. Keeps the Latin's first word first, as 47:2 / 95:4 / 144:3 'Grande é o Senhor'; ten syllables for the Latin's ten.",
+          "from": "draft"
+        },
+        {
+          "label": "Vós sois grande",
+          "forms": {
+            "magnus": "Vós sois grande"
+          },
+          "note": "Plain order, as 85:10 'Porque vós sois grande' (magnus es tu, where the Latin itself has the pronoun after the verb). Loses the acclamation's lead.",
+          "from": "draft"
+        },
+        {
+          "label": "Grande sois",
+          "forms": {
+            "magnus": "Grande sois"
+          },
+          "note": "The Latin word for word; eight syllables, and 'sois, Senhor' crowds the vocative.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "regnum",
+      "refs": [
+        "13:1"
+      ],
+      "latin": "et in ómnia sǽcula regnum tuum",
+      "kind": "grammar",
+      "why": "The colon has no verb in the Latin. DRB supplies 'is' (thy kingdom is unto all ages), MS1932 'existe'. In Portuguese the verbless colon still reads as a statement after 'Grande sois vós … para sempre', and the Latin's order puts the kingdom last, at the cadence, which a paroxytone 'reino' allows; the plain order would end on the proparoxytone 'séculos'. in ómnia sǽcula = 'por todos os séculos', as 144:13a regnum ómnium sæculórum → 'um reino de todos os séculos'; kept apart from bare in sǽcula → 'pelos séculos' (D43), since ómnia is the Latin's own word.",
+      "options": [
+        {
+          "label": "e por todos os séculos o vosso reino",
+          "forms": {
+            "regnum": "e por todos os séculos o vosso reino"
+          },
+          "note": "Draft: verbless, as the Latin; ends on 'reino'.",
+          "from": "draft"
+        },
+        {
+          "label": "e o vosso reino é por todos os séculos",
+          "forms": {
+            "regnum": "e o vosso reino é por todos os séculos"
+          },
+          "note": "DRB's copula supplied; natural order, but the cadence falls on the proparoxytone 'séculos'.",
+          "from": "DRB"
+        },
+        {
+          "label": "e o vosso reino permanece por todos os séculos",
+          "forms": {
+            "regnum": "e o vosso reino permanece por todos os séculos"
+          },
+          "note": "MS1932 supplies a full verb ('existe'); a verb the Latin does not have, and +3 syllables.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inferos",
+      "refs": [
+        "13:2"
+      ],
+      "latin": "dedúcis ad ínferos",
+      "kind": "glossary",
+      "why": "The psalter has the singular inférnus (19 verses), always 'inferno' in the finished psalms (open row: the blind readers hear the hell of the damned first). Here the Latin has the plural ínferi, the same phrase as the Canticle of Anna (DO Ps 223, 1 Sam 2:6 dedúcit ad ínferos et redúcit) and the Creed of DO Ps 234 (descéndit ad ínferos). The sense is death and return from it (God 'leads down … and brings back'), which the hell of the damned cannot carry. The Portuguese plural 'os infernos' is the traditional word for the realm of the dead, and keeps the Latin's number. dedúcere 'lead down' → 'conduzir', as 30:18 deducántur in inférnum → 'sejam conduzidos ao inferno' (the row's guiar is for guidance, D22).",
+      "options": [
+        {
+          "label": "aos infernos",
+          "forms": {
+            "inferos": "aos infernos"
+          },
+          "note": "Draft: the Latin's plural and word, the traditional Portuguese term for the realm of the dead. Not the living Creed wording — the Brazilian Apostles' Creed says 'desceu à mansão dos mortos' (circulation.md); the CNBB LH paraphrases this line as 'aos abismos da terra'. Proposed as a formula row for the three DO canticles that have ad ínferos (212, 223, 234).",
+          "from": "draft"
+        },
+        {
+          "label": "ao inferno",
+          "forms": {
+            "inferos": "ao inferno"
+          },
+          "note": "The row's singular, as 30:18; drops the Latin's number and invites the hell of the damned, where God 'brings back'.",
+          "from": "glossary"
+        },
+        {
+          "label": "à morada dos mortos",
+          "forms": {
+            "inferos": "à morada dos mortos"
+          },
+          "note": "Clear, and near the Brazilian Creed's 'mansão dos mortos' (verified, circulation.md); a paraphrase of one word (rule 2). MS1932 has 'até ao sepulcro', DRB 'to hell'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "reducis",
+      "refs": [
+        "13:2"
+      ],
+      "latin": "et redúcis",
+      "kind": "word",
+      "why": "redúcere → trazer is the open row (70:20 íterum reduxísti me → 'de novo me trouxestes', where íterum carried the return). Here there is no íterum, so bare 'trazeis' would lose the re-. MS1932 explains ('ressuscitas'); DRB 'bringest up again'.",
+      "options": [
+        {
+          "label": "trazeis de volta",
+          "forms": {
+            "reducis": "trazeis de volta"
+          },
+          "note": "Draft: the row's verb with 'de volta' for re-, as 70:20 took 'de novo'.",
+          "from": "draft"
+        },
+        {
+          "label": "fazeis voltar",
+          "forms": {
+            "reducis": "fazeis voltar"
+          },
+          "note": "Shorter, but 'voltar' is convértere's verb in the glossary.",
+          "from": "draft"
+        },
+        {
+          "label": "reconduzis",
+          "forms": {
+            "reducis": "reconduzis"
+          },
+          "note": "The cognate, echoing 'conduzis'; draft 1 of 70:20 had it and the stylist heard it as bureaucratic.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ideo",
+      "refs": [
+        "13:4"
+      ],
+      "latin": "Quóniam ídeo dispérsit vos",
+      "kind": "order",
+      "why": "Quóniam → Porque (the default); ídeo 'for this reason' points forward to 'ut vos enarrétis'. Word for word 'Porque por isso vos dispersou' stutters (the porque/para fault D14 names). A cleft ('foi por isso que') keeps ídeo as 'por isso' and lets it point ahead; it supplies only a copula (D2). dispérgere → dispersar: 43:12 in géntibus dispersísti nos → 'e nos dispersastes entre as nações'.",
+      "options": [
+        {
+          "label": "Porque foi por isso que vos dispersou",
+          "forms": {
+            "ideo": "Porque foi por isso que vos dispersou"
+          },
+          "note": "Draft. +2–3 syllables on the Latin colon.",
+          "from": "draft"
+        },
+        {
+          "label": "Porque por isso vos dispersou",
+          "forms": {
+            "ideo": "Porque por isso vos dispersou"
+          },
+          "note": "Word for word; 'Porque por' stutters.",
+          "from": "draft"
+        },
+        {
+          "label": "Pois para isso vos dispersou",
+          "forms": {
+            "ideo": "Pois para isso vos dispersou"
+          },
+          "note": "Shortest, and 'para isso' makes the purpose plain; but 'pois' is kept for quia before questions (D42), and 'para' reads ídeo as purpose, which it only implies.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ignorant",
+      "refs": [
+        "13:4"
+      ],
+      "latin": "quæ ignórant eum",
+      "kind": "word",
+      "why": "ignoráre is 'not to know'. The cognate 'ignorar alguém' is heard in Brazil first as 'to snub, to disregard someone' — a wrong sense. 34:15 et ignorávi → 'e eu não soube' already took the plain negated verb. 'não o conhecem' (DRB 'who know not him'; MS1932 'que o não conhecem') is the plain form; the cost is that 78:6 gentes quæ te non novérunt → 'as nações que não vos conhecem' has a different Latin verb, and here the two meet in one Portuguese.",
+      "options": [
+        {
+          "label": "que não o conhecem",
+          "forms": {
+            "ignorant": "que não o conhecem"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "que o ignoram",
+          "forms": {
+            "ignorant": "que o ignoram"
+          },
+          "note": "The cognate; heard as 'who ignore him'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "omnipotens",
+      "refs": [
+        "13:5"
+      ],
+      "latin": "Deus omnípotens",
+      "kind": "word",
+      "why": "omnípotens is not in the 150 psalms (no row). 'todo-poderoso' is the plain Portuguese word and the Brazilian Creed's ('Creio em Deus, Pai todo-poderoso', verified, circulation.md); 'onipotente' is the learned cognate. MS1932 keeps 'omnipotente'.",
+      "options": [
+        {
+          "label": "todo-poderoso",
+          "forms": {
+            "omnipotens": "todo-poderoso"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "onipotente",
+          "forms": {
+            "omnipotens": "onipotente"
+          },
+          "note": "The cognate (MS1932's, in the old spelling); one syllable shorter, more bookish.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "praeter",
+      "refs": [
+        "13:5"
+      ],
+      "latin": "præter eum",
+      "kind": "glossary",
+      "why": "17:32 quis Deus præter Dóminum? → 'quem é Deus senão o Senhor?' fixes præter after a negation or question as 'senão'. MS1932 has 'senão ele' too; DRB 'besides him'.",
+      "options": [
+        {
+          "label": "senão ele",
+          "forms": {
+            "praeter": "senão ele"
+          },
+          "note": "Draft, as 17:32.",
+          "from": "glossary"
+        },
+        {
+          "label": "além dele",
+          "forms": {
+            "praeter": "além dele"
+          },
+          "note": "'besides him'; also good Portuguese, but departs from 17:32.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "ipse",
+      "refs": [
+        "13:6"
+      ],
+      "latin": "Ipse castigávit nos … et ipse salvábit nos",
+      "kind": "word",
+      "why": "The Latin names the subject twice where the verb alone would do: it is the same one who struck and who will save. 'Ele … e ele' keeps the repetition and the stress of a named subject; 'ele mesmo' (the ipse row, 94:5, 99:3a) says it more strongly but adds 3–4 syllables to cola already longer than the Latin. 98:6b et ipse exaudiébat → 'e ele os escutava' is the plain precedent.",
+      "options": [
+        {
+          "label": "Ele … ele",
+          "forms": {
+            "ipse1": "Ele",
+            "ipse2": "ele"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "Ele mesmo … ele mesmo",
+          "forms": {
+            "ipse1": "Ele mesmo",
+            "ipse2": "ele mesmo"
+          },
+          "note": "The ipse row's 'ele mesmo'; heavy at both heads.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ele … ele mesmo",
+          "forms": {
+            "ipse1": "Ele",
+            "ipse2": "ele mesmo"
+          },
+          "note": "MS1932's build: the emphasis only on the turn to salvation; the Latin's two ipse are the same word.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "operibus",
+      "refs": [
+        "13:7"
+      ],
+      "latin": "in opéribus vestris",
+      "kind": "word",
+      "why": "in + ablative of means or sphere: exalt the King 'in' (by) your works. 'nas vossas obras' keeps the preposition, as 91:5 in opéribus mánuum tuárum → 'nas obras das vossas mãos'. MS1932 'com as vossas obras' makes the instrument explicit.",
+      "options": [
+        {
+          "label": "nas vossas obras",
+          "forms": {
+            "operibus": "nas vossas obras"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "com as vossas obras",
+          "forms": {
+            "operibus": "com as vossas obras"
+          },
+          "note": "MS1932; reads the in as instrument.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ingentem",
+      "refs": [
+        "13:8"
+      ],
+      "latin": "osténdit majestátem suam in gentem peccatrícem",
+      "kind": "ambiguity",
+      "why": "in + accusative: 'toward' (DRB) or 'upon / against'. The majesty was shown to a sinful nation — in the exile that punished it, or in the mercy that will save it; the verses around it say both (13:6). 'sobre' (MS1932) keeps both. 'a uma nação pecadora' reads as 'revealed to', and 'contra' decides for punishment. gens singular → 'nação' (42:1).",
+      "options": [
+        {
+          "label": "sobre",
+          "forms": {
+            "ingentem": "sobre"
+          },
+          "note": "Draft: 'mostrou a sua majestade sobre' — power displayed over.",
+          "from": "draft"
+        },
+        {
+          "label": "a",
+          "forms": {
+            "ingentem": "a"
+          },
+          "note": "'mostrou … a uma nação pecadora': revelation to them.",
+          "from": "draft"
+        },
+        {
+          "label": "para com",
+          "forms": {
+            "ingentem": "para com"
+          },
+          "note": "DRB 'toward'; leans to favour.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "facite",
+      "refs": [
+        "13:9"
+      ],
+      "latin": "et fácite justítiam coram Deo",
+      "kind": "word",
+      "why": "fácere justítiam → 'fazer a justiça' as 105:3 (et fáciunt justítiam → 'e fazem a justiça'); 'praticar' is kept for operári (14:2 operátur justítiam → 'pratica a justiça'). The article matters: bare 'fazei justiça' is heard in Brazil as 'take justice, avenge'. coram Deo → 'diante de Deus', as 55:13. MS1932 paraphrases ('sede justos').",
+      "options": [
+        {
+          "label": "fazei a justiça",
+          "forms": {
+            "facite": "fazei a justiça"
+          },
+          "note": "Draft, as 105:3.",
+          "from": "glossary"
+        },
+        {
+          "label": "praticai a justiça",
+          "forms": {
+            "facite": "praticai a justiça"
+          },
+          "note": "Clearer (no hearing of 'avenge'), but it is operári's verb.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "faciat",
+      "refs": [
+        "13:9"
+      ],
+      "latin": "credéntes quod fáciat vobíscum misericórdiam suam",
+      "kind": "word",
+      "why": "fácere misericórdiam cum aliquo has taken the idiom 'usar de misericórdia com' in 17:51 (fáciens misericórdiam Christo suo → 'usando de misericórdia com o seu Cristo'); 102:6 Fáciens misericórdias → 'faz misericórdias' kept the verb where there was no person. The Latin's subjunctive in reported belief is a future in Portuguese. vobíscum → 'convosco' (plural men; the vocative 'pecadores' in the first colon makes the addressee plain).",
+      "options": [
+        {
+          "label": "usará convosco da sua misericórdia",
+          "forms": {
+            "faciat": "usará convosco da sua misericórdia"
+          },
+          "note": "Draft, as 17:51.",
+          "from": "glossary"
+        },
+        {
+          "label": "fará convosco a sua misericórdia",
+          "forms": {
+            "faciat": "fará convosco a sua misericórdia"
+          },
+          "note": "The Latin's verb, as 102:6; 'fazer misericórdia com' is a biblical calque.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "13:1": "DO's Latin file opens with a heading line, '(Canticum Tobiæ * Tob. 13:1-11)', and DO's Portuguese file has its own heading ('(Cântico de Tobias * Tob. 13:1-11)'). It is DO's label, not a prayed verse and not a titulus of the book (the Clementine's 13:1 begins 'Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit', which DO leaves out); render.py and checks.py skip it, as for the Nunc dimittis (233). Under D7 it is not translated here; if it is wanted for DO, 'Cântico de Tobias' is the plain rendering. DO's verse ids are its own: 13:1–13:11, where the Clementine numbers these lines 13:1–13:10 (DO splits Clementine 13:4 into 13:4 and 13:5) — DO's are kept. in ætérnum → 'para sempre' (D23). The Latin text is Jerome's Vulgate of Tobit, translated from an Aramaic text, not the Gallican psalter; the Greek (LXX 13:1–8) is a different text of the same prayer and not a witness of this Latin's sense. DRB and MS1932 (Tob 13:1b–10 in his numbering) translate this same Latin.",
+    "13:2": "Quóniam → Porque; 'vós' kept because the Latin has tu. flagelláre → flagelar (the flagéllum row, D39; 72:14 'fui flagelado'): kept apart from castigáre → castigar, which the canticle has four verses on (13:6); MS1932 'castigas' merges them. effúgere (not in the psalter) → 'escapar de', the Brazilian regency; MS1932 'subtrair-se à tua mão', DRB 'escape thy hand'. The first colon is 22 syllables for the Latin's 21.",
+    "13:3": "Confitémini Dómino → 'Dai graças ao Senhor' (D5). fílii Israël → 'filhos de Israel' (102:7, 148:14b), vocative without 'ó' (the Dóminus row's rule). in conspéctu géntium → 'à vista das nações', exactly 97:2. The Latin order is kept in the second colon (the nations before the verb, the verb last, a chiasm with the first colon); it is natural Portuguese, and it puts the nations where the next verse picks them up. The second colon is 3 syllables short of the Latin's 13 (checks) — accepted: nothing is dropped, Portuguese is simply terser here.",
+    "13:4": "enarráre → narrar (the open row; 47:14 ut enarrétis → 'para que narreis'); the Latin's own 'vos' is kept ('para que vós narreis') — the subject named, which also marks the plural men (glossary, Ps 10:2 remedy). mirabília ejus → 'as suas maravilhas' (104:2, 95:3). gentes → 'nações' (twice in 13:3–4, as the Latin repeats géntium / gentes). The verse ends on a comma and runs on into 13:5, as the Latin does.",
+    "13:5": "faciátis scire eos → 'lhes façais saber' — 'fazer saber' is the Portuguese idiom for 'make know that'; scire here takes a 'that'-clause, which 'conhecer' (the open scire row) cannot, and notum fácere → 'fazer conhecer' is another Latin phrase. eos is masculine (the peoples, ad sensum); 'lhes' shows no gender. quia after scire is 'that' → 'que'. The first colon is 3 syllables short of the Latin's 9 — accepted: 'E façais que eles saibam' (−2) is heavier and adds a subjunctive the Latin does not have.",
+    "13:6": "castigáre → castigar (the working row castigáre / trádere, 117:18). propter → 'por causa de' (the row; 6:5 'por causa da vossa misericórdia'). iniquitátes nostras → 'as nossas iniquidades' (102:10). The two cola are built alike, as in the Latin.",
+    "13:7": "Aspícite → 'Olhai' (the aspícere row 'olhar para'; with a clause object Portuguese says 'olhai o que'). ergo → 'pois'. fecit nobíscum → 'fez conosco' (125:3 'fez conosco'); 'ele' supplied as subject after a string of imperatives addressed to the hearers. cum timóre et tremóre → 'com temor e tremor', the pair and its rhyme kept as in 2:11 (the working row). confitémini illi → 'dai-lhe graças' (D5, dative kept). Regem sæculórum → 'o Rei dos séculos': sæcula in the plural genitive, as 144:13a 'de todos os séculos'; not the D23 formula. exaltáre → exaltar (the row). Natural order in the second colon (the Latin fronts Regem with -que); the cola are 6 and 3 syllables short of the Latin's 28 and 18 (checks), accepted: every word is rendered, and 'confitémini' / 'Aspícite' shrink to 'dai graças' / 'Olhai'. The second colon's order also matches DO's antiphon for this canticle, 'Exaltáte Regem sæculórum in opéribus vestris' (Psalmi major.txt 47, 325), so the antiphon can be cut from the verse.",
+    "13:8": "Ego autem → 'Eu, porém,' (the row; 58:17, 74:10). captívitas → cativeiro (the row). majéstas → majestade (28:3, 71:19). osténdere → mostrar (4:6, 77:11). peccatrix → 'pecadora', the feminine of peccátor → pecador. confitébor illi → 'lhe darei graças' (D5). The first colon is 3 syllables short of the Latin's 20 (checks), accepted.",
+    "13:9": "Convertímini → 'Convertei-vos', as 89:3 (D25's exception: men told to turn to God, where 'voltai-vos' is also God's imperative in this psalter). ítaque → 'portanto', kept apart from ergo → 'pois' two verses before. peccatóres vocative, without 'ó'. credéntes → 'crendo' (the participle as a gerund, agreeing with the addressed sinners).",
+    "13:10": "The Latin's plural verb with a double subject ('I and my soul … we shall rejoice') is kept: 'nos alegraremos'. lætári → alegrar-se (the row). 'nele' before the verb, as the Latin's 'in eo' before lætábimur, and it keeps the unstressed 'nos' from opening the colon after the pause (65:6 'ali nos alegraremos nele'). MS1932 recasts ('eu me regozijarei nele com toda a minha alma'); DRB keeps the double subject.",
+    "13:11": "Benedícite Dóminum (accusative) → 'Bendizei o Senhor', as 133:1a 'bendizei o Senhor, todos os servos do Senhor'. elécti → 'escolhidos' (the open eléctus row; 104:6, 104:43). ágite dies lætítiæ → 'celebrai dias de alegria' — the diem festum ágere row's verb, 'celebrar' (75:11); lætítia → alegria (104:43 'com alegria'). confitémini illi → 'dai-lhe graças', the same words as 13:7, as the Latin repeats them; the canticle ends as it has run, on thanksgiving (confitéri four times: 13:3, 7, 8, 11). The CNBB LH / Lectionary text has 'seus eleitos' here (circulation.md); 'escolhidos' is kept for the open eléctus row."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm212.txt (DO files the canticles as Psalms 210–273; this is the Tuesday Lauds canticle of the Roman psalter). Its first line is DO's heading '(Canticum Tobiæ * Tob. 13:1-11)', skipped by latin.py as every parenthesised line is. Compared with the Clementine Vulgate from bolls (consult/bolls-VULG-68-13.json, Tobiæ 13): the same words, the Clementine's intro clause of 13:1 omitted by DO, and DO's 13:4–13:5 = Clementine 13:4, so DO's 13:6–13:11 = Clementine 13:5–13:10. The printed Hetzenauer read was not done."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py 212 gives only the Latin and pt-PT for a canticle. Fetched: Clementine Vulgate and LXX Tobit 13 from bolls (consult/bolls-VULG-68-13.json, bolls-LXX-68-13.json — the LXX file is lemmatised, not the running text, and bolls has no DRB Tobit); DRB from drbo.org (consult/drbo-tobit13.htm → consult/drb-tobit13.txt); Matos Soares 1932 Tob 13 by pdftotext from the same PDF parallels.py uses (consult/ms1932-tobit13.txt; copyright, not committed). ps212/show.py prints the first three. The Vulgate of Tobit is Jerome's version from an Aramaic text and differs throughout from the Greek (LXX 13:2 εὐλογητὸς ὁ θεὸς ὁ ζῶν where the Latin has Magnus es); so the Greek, used elsewhere as a test (D15), gives no evidence here, and the psalter's usage (concord.py) and DRB / MS1932 are the witnesses. No DM1962 text for this canticle. Precedents taken from the finished psalms by ps212/concord.py: 43:12 (dispersar entre as nações), 97:2 (à vista das nações), 17:32 (senão), 17:51 (usar de misericórdia com), 105:3 (fazer a justiça), 89:3 (Convertei-vos), 30:18 (conduzir ao inferno), 70:20 (trazer), 133:1a (bendizei o Senhor, todos…), 75:11 (celebrar), 2:11 (temor … tremor), 125:3 (fez conosco). Hardest: ad ínferos (the plural, and a formula shared with DO canticles 223 and 234), ídeo (a cleft), ignórant (a false friend in Brazil)."
+    },
+    {
+      "step": "checks",
+      "note": "render.py and checks.py run with the DO number (212): hard checks pass (ids and pointing marks match the Latin; the heading line is skipped as for 233). Soft length flags on 13:3b (−3), 13:5a (−3), 13:7a (−6), 13:7b (−3), 13:8a (−3), each accepted in choices; no cadence flags. Circulation checked and recorded in ps212/circulation.md (CNBB LH Tb 13,2-8, Tuesday Lauds of week I, and the Lectionary's Tb 13 responsorial are the same Brazilian paraphrase of the Greek-based text; the Apostles' Creed wording). Shared tools: parallels.py gives only the Latin and pt-PT for a canticle (as for 233); worked around inside ps212/ with concord.py (the psalm number printed beside each hit), gloss.py, show.py and strip.py (HTML → text for circulation). No shared script was edited."
+    }
+  ]
+}

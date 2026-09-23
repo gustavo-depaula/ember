@@ -1,0 +1,613 @@
+{
+  "psalm": 213,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "16:15": "Cantemos um hino ao Senhor, * cantemos um {hymnumnovum} ao nosso Deus.",
+    "16:16": "{adonai}, vós sois grande, e {praeclarus} no vosso poder, * {superare}.",
+    "16:17": "{creatura} vos sirva: * porque dissestes, e {factasunt}:",
+    "16:18": "Enviastes o vosso espírito, e foram criadas, * e não há quem resista à vossa voz.",
+    "16:19": "{montes}: * as rochas, como cera, se derreterão diante da vossa face.",
+    "16:20": "Mas os que vos temem, * serão grandes junto de vós {peromnia}.",
+    "16:21": "Ai da nação {insurgenti} contra {genus}: pois o Senhor {omnipotens} se vingará deles, * no dia do juízo os visitará.",
+    "16:22": "Pois {dabit} fogo e vermes nas carnes deles, * para que {urantur}, e {sentiant} para todo o sempre."
+  },
+  "decisions": [
+    {
+      "id": "hymnumnovum",
+      "refs": [
+        "16:15"
+      ],
+      "latin": "hymnum novum",
+      "kind": "glossary",
+      "why": "The adjective follows the noun in the glossary's formula *Cantáte Dómino cánticum novum → Cantai ao Senhor um cântico novo* (95:1, 97:1, 149:1). *Hymnus → hino* (64:2, 118:171, 136:3b, 148:14b). The CNBB Liturgia das Horas, praying the Greek of this canticle, says *novo hino* (circulation.md).",
+      "options": [
+        {
+          "label": "hino novo",
+          "forms": {
+            "hymnumnovum": "hino novo"
+          },
+          "note": "Draft. The psalter's order for *cánticum novum*, kept for *hymnum novum*. The verse repeats *cantemos um hino* as the Latin repeats *hymnum … cantémus*.",
+          "from": "glossary"
+        },
+        {
+          "label": "novo hino",
+          "forms": {
+            "hymnumnovum": "novo hino"
+          },
+          "note": "The CNBB LH's order (from the Greek text). A little more lyrical; it breaks the kinship with *cântico novo*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adonai",
+      "refs": [
+        "16:16"
+      ],
+      "latin": "Adonái, Dómine",
+      "kind": "word",
+      "why": "The Latin keeps a Hebrew divine name untranslated, then adds its Latin equivalent: two vocatives, the second glossing the first. DRB *O Adonai, Lord*; MS1932 *Adonai, Senhor* (his note: 'one of the Hebrew names of God'); the CNBB LH *Senhor-Adonai*. The name is the Latin's word, so it stays (rule 2); vocative without *ó*, as the glossary rules for *Dómine*.",
+      "options": [
+        {
+          "label": "Adonai, Senhor",
+          "forms": {
+            "adonai": "Adonai, Senhor"
+          },
+          "note": "Draft; MS1932's wording. Two vocatives in the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "Ó Adonai, Senhor",
+          "forms": {
+            "adonai": "Ó Adonai, Senhor"
+          },
+          "note": "DRB's *O*. The glossary adds *ó* only where the Latin has *o*.",
+          "from": "DRB"
+        },
+        {
+          "label": "Senhor, Senhor",
+          "forms": {
+            "adonai": "Senhor, Senhor"
+          },
+          "note": "Translates the name, which the Latin chose not to do. Refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeclarus",
+      "refs": [
+        "16:16"
+      ],
+      "latin": "præclárus in virtúte tua",
+      "kind": "glossary",
+      "why": "The glossary's *præclárus → excelente* (open; 15:6 twice, 22:5b). Here, for the first time, it is said of God. L&S: 'very bright, splendid, illustrious, glorious'. DRB *glorious*; MS1932 *magnífico*; the LXX has another text (ἔνδοξος θαυμαστός). *Virtus* of God → *poder* (the glossary; 20:2, 53:3 *in virtúte tua → no vosso poder*). Kept on the glossary's word, as the brief asks where the same Latin appears. A reader may find *excelente* too everyday in God's praise; the options are there. v2: the glossary row is departed from here. Said of God, *excelente* was heard as the everyday word by two readers; *esplêndido* is the row's own option and keeps the root sense of *clarus*. Proposed in the glossary as: præclárus of God → esplêndido (the row stays *excelente* for things, 15:6, 22:5b).",
+      "options": [
+        {
+          "label": "esplêndido",
+          "forms": {
+            "praeclarus": "esplêndido"
+          },
+          "note": "v2: taken, after the stylist (who heard \"a school grade or a sales pitch\" and the e-ex hiatus) and the ambiguity reader (who heard the everyday \"very good\") both objected. The row's option: brightness, the root sense of *clarus*. It is a proparoxytone, but it does not stand at a cadence here.",
+          "from": "glossary"
+        },
+        {
+          "label": "excelente",
+          "forms": {
+            "praeclarus": "excelente"
+          },
+          "note": "Draft. The glossary's row, one word for the four places. It elides cleanly after *e*.",
+          "from": "glossary"
+        },
+        {
+          "label": "glorioso",
+          "forms": {
+            "praeclarus": "glorioso"
+          },
+          "note": "DRB. It would take *gloriósus*'s word (86:3 and others).",
+          "from": "DRB"
+        },
+        {
+          "label": "magnífico",
+          "forms": {
+            "praeclarus": "magnífico"
+          },
+          "note": "MS1932. Too close to *magnificéntia → magnificência*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "superare",
+      "refs": [
+        "16:16"
+      ],
+      "latin": "et quem superáre nemo potest",
+      "kind": "grammar",
+      "why": "A relative clause hangs on the second-person *tu*: 'and [you are one] whom no one can overcome'. Portuguese cannot hang *a quem* on *vós sois*. DRB and MS1932 both make a main clause of it (*and no one can overcome thee*; *e ninguém pode superar-te*), which is grammar under D2. *Superáre* means both to overcome and to surpass (L&S), and so does Portuguese *superar*. The cognate keeps the Latin's openness, where *vencer* (DRB's 'overcome') would decide it. The verb never occurs in the psalter (concord), so it collides with nothing.",
+      "options": [
+        {
+          "label": "e ninguém vos pode superar",
+          "forms": {
+            "superare": "e ninguém vos pode superar"
+          },
+          "note": "Draft. The relative becomes a main clause. The cognate verb holds both senses. Nine syllables for ten.",
+          "from": "draft"
+        },
+        {
+          "label": "e ninguém vos pode vencer",
+          "forms": {
+            "superare": "e ninguém vos pode vencer"
+          },
+          "note": "DRB's sense: overcome only. It shares *vencer* with *vincere* (50:6).",
+          "from": "DRB"
+        },
+        {
+          "label": "e a quem ninguém pode superar",
+          "forms": {
+            "superare": "e a quem ninguém pode superar"
+          },
+          "note": "Keeps the relative. After *vós sois grande … e excelente*, the ear finds no antecedent.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "creatura",
+      "refs": [
+        "16:17"
+      ],
+      "latin": "Tibi sérviat omnis creatúra tua",
+      "kind": "word",
+      "why": "*Omnis creatúra* can be 'every creature' or 'the whole creation', and the Latin singular holds both. *Toda a vossa criatura* is the CNBB Liturgia das Horas's own phrase for this line (circulation.md), so the Brazilian ear knows it. It keeps the Latin's noun and number. *Tibi* stands first in the Latin for emphasis. Portuguese puts the subject first and the clitic before the verb, which is order (D2). The jussive is a bare subjunctive, as the Latin has it.",
+      "options": [
+        {
+          "label": "Toda a vossa criatura",
+          "forms": {
+            "creatura": "Toda a vossa criatura"
+          },
+          "note": "Draft: the CNBB LH's words, and the Latin's noun and number. Eleven syllables for thirteen.",
+          "from": "draft"
+        },
+        {
+          "label": "Toda a vossa criação",
+          "forms": {
+            "creatura": "Toda a vossa criação"
+          },
+          "note": "Clearer as 'the whole creation', but it closes the reading 'every creature'. It also names the act of creating.",
+          "from": "draft"
+        },
+        {
+          "label": "Todas as vossas criaturas",
+          "forms": {
+            "creatura": "Todas as vossas criaturas"
+          },
+          "note": "MS1932 and DRB (*all thy creatures*). The plural decides for 'each creature'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "factasunt",
+      "refs": [
+        "16:17",
+        "16:18"
+      ],
+      "latin": "quia dixísti, et facta sunt … et creáta sunt",
+      "kind": "glossary",
+      "why": "The Latin is the second-person form of the formula *Quia ipse dixit, et facta sunt: ipse mandávit, et creáta sunt* (32:9 = 148:5), which the glossary renders *Porque ele disse, e as coisas foram feitas: * ele ordenou, e foram criadas*, supplying *as coisas* for the neuter plural. Supplied here too, so the formula is recognised and *foram criadas* in 16:18 has a feminine plural to agree with. Without it, *feitas* would dangle after the singular *criatura*.",
+      "options": [
+        {
+          "label": "e as coisas foram feitas",
+          "forms": {
+            "factasunt": "as coisas foram feitas"
+          },
+          "note": "Draft, the glossary's formula (32:9, 148:5). Twelve syllables for nine: the supplied noun costs three.",
+          "from": "glossary"
+        },
+        {
+          "label": "e foram feitas",
+          "forms": {
+            "factasunt": "foram feitas"
+          },
+          "note": "Bare, as the Latin; syllable count exact. 148's v1 stylist asked for it there. Here it would seem to agree with *criatura*, and wrongly.",
+          "from": "draft"
+        },
+        {
+          "label": "e tudo foi feito",
+          "forms": {
+            "factasunt": "tudo foi feito"
+          },
+          "note": "The CNBB LH's words. It turns the plural into *tudo*, and 16:18 *foram criadas* would lose its subject.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "montes",
+      "refs": [
+        "16:19"
+      ],
+      "latin": "Montes a fundaméntis movebúntur cum aquis",
+      "kind": "order",
+      "why": "*Movéri → ser abalado* is the glossary's verb, with the future passive as at 81:5 *movebúntur ómnia fundaménta terræ → serão abalados todos os fundamentos da terra*. *A fundaméntis → desde os fundamentos* (DRB 'from the foundations', MS1932). *Cum aquis* is sociative, 'together with the waters' (LXX σὺν ὕδασιν). The Latin places it last, where it could also be heard as the waters shaking them. MS1932 resolves it into *Os montes e as águas*. The draft keeps the Latin's order and its looseness. The colon runs 19 syllables for 15; nothing shorter keeps both *desde os fundamentos* and the passive. v2: order moved (D2): two readers hung *com as águas* on the foundations or took the waters as the cause; placed after *montes* it says \"together with\", the Latin's sense.",
+      "options": [
+        {
+          "label": "Os montes, com as águas, …",
+          "forms": {
+            "montes": "Os montes, com as águas, serão abalados desde os fundamentos"
+          },
+          "note": "v2: taken from the stylist; the ambiguity reader heard the Latin order as the waters shaking the mountains, which the sociative cum does not say. Makes 'together with' certain and closes the instrumental hearing. Same length.",
+          "from": "draft"
+        },
+        {
+          "label": "… desde os fundamentos com as águas",
+          "forms": {
+            "montes": "Os montes serão abalados desde os fundamentos com as águas"
+          },
+          "note": "Draft; the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "Os montes e as águas …",
+          "forms": {
+            "montes": "Os montes e as águas serão abalados desde os fundamentos"
+          },
+          "note": "MS1932. It makes the waters a second subject: a resolution. Refused.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "peromnia",
+      "refs": [
+        "16:20"
+      ],
+      "latin": "magni erunt apud te per ómnia",
+      "kind": "word",
+      "why": "*Apud te → junto de vós* is the glossary's row (21:26, 35:10, 38:8, 129:4). *Per ómnia* is 'in all things' (DRB, MS1932 *em todas as coisas*) and can also be 'throughout, always'. *Em tudo* is plain, keeps the breadth, and is the CNBB LH's wording in the same line (*junto a vós serão grandes em tudo*). The colon is exactly the Latin's eleven syllables.",
+      "options": [
+        {
+          "label": "em tudo",
+          "forms": {
+            "peromnia": "em tudo"
+          },
+          "note": "Draft. It fits the syllable count, and a paroxytone closes the verse.",
+          "from": "draft"
+        },
+        {
+          "label": "em todas as coisas",
+          "forms": {
+            "peromnia": "em todas as coisas"
+          },
+          "note": "MS1932, DRB. Four syllables longer.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "insurgenti",
+      "refs": [
+        "16:21"
+      ],
+      "latin": "Væ genti insurgénti super genus meum",
+      "kind": "grammar",
+      "why": "The present participle names whatever nation rises (or is rising) against Judith's people: Assyria in the story, any enemy in the prayer. *Insúrgere → levantar-se contra* is the psalter's (3:2, 17:40, 58:2, 108:28). The present indicative keeps both the particular and the general. MS1932's future subjunctive *que se levantar* makes it only general, the natural Portuguese build for a threat. *Gens → nação* (the glossary, singular 42:1 *de uma nação*). v2: the stylist's *que se ergue* was refused, since *levantar-se contra* is the psalter's verb.",
+      "options": [
+        {
+          "label": "que se levanta",
+          "forms": {
+            "insurgenti": "que se levanta"
+          },
+          "note": "Draft: the participle's present. Particular and general both open.",
+          "from": "draft"
+        },
+        {
+          "label": "que se levantar",
+          "forms": {
+            "insurgenti": "que se levantar"
+          },
+          "note": "MS1932. The idiomatic generic threat ('whatever nation shall rise'); it closes the particular reading.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "genus",
+      "refs": [
+        "16:21"
+      ],
+      "latin": "genus meum",
+      "kind": "word",
+      "why": "*Genus* is stock, race, descent (L&S; LXX γένει). It is not *pópulus*, which is *povo* throughout the psalter, and it never occurs in the psalter (concord), so it needs a word of its own. The Latin also chimes *genti … genus*, which Portuguese cannot keep. *A minha gente* would echo *gens* and mean 'my folks'; *povo* merges it with *pópulus* (DRB and MS1932 both do this). *Raça* is the plain word for *genus* in this sense. A modern ear may hear ethnicity sharply, but that is the Latin's sense here: Judith's people as a lineage. v2: two readers (the stylist and the ambiguity reader) heard *raça* first as modern ethnicity or as slang grit. That is a wrong first hearing (D2), so *linhagem* is taken: descent and stock, which is genus, still apart from *povo*. The stylist found it a little formal, but it was his own proposal.",
+      "options": [
+        {
+          "label": "a minha linhagem",
+          "forms": {
+            "genus": "a minha linhagem"
+          },
+          "note": "v2: taken, after the stylist and the ambiguity reader both heard *raça* as modern ethnicity or slang grit. Descent rather than people; a little formal.",
+          "from": "draft"
+        },
+        {
+          "label": "a minha raça",
+          "forms": {
+            "genus": "a minha raça"
+          },
+          "note": "Draft. genus's own sense in one plain word, with no collision in the psalter.",
+          "from": "draft"
+        },
+        {
+          "label": "o meu povo",
+          "forms": {
+            "genus": "o meu povo"
+          },
+          "note": "DRB, MS1932; the most natural to say. It merges genus with pópulus.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "omnipotens",
+      "refs": [
+        "16:21"
+      ],
+      "latin": "Dóminus enim omnípotens",
+      "kind": "glossary",
+      "why": "*Omnípotens* does not occur in the psalter (concord). *Todo-poderoso* is how Brazilian liturgy renders it: *Creio em Deus Pai todo-poderoso*, and the collects' *Deus eterno e todo-poderoso* (circulation.md). It is the plainer of the two faithful words. *Enim → pois*, as throughout the psalter (9:27, 43:4, 50:7 …).",
+      "options": [
+        {
+          "label": "todo-poderoso",
+          "forms": {
+            "omnipotens": "todo-poderoso"
+          },
+          "note": "Draft; the Creed's and the Missal's word in Brazil.",
+          "from": "draft"
+        },
+        {
+          "label": "onipotente",
+          "forms": {
+            "omnipotens": "onipotente"
+          },
+          "note": "The cognate (MS1932 *omnipotente*, European spelling). One syllable shorter, more learned.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dabit",
+      "refs": [
+        "16:22"
+      ],
+      "latin": "Dabit enim ignem, et vermes in carnes eórum",
+      "kind": "word",
+      "why": "*Dare in* + accusative is 'to put into' (L&S *do*, to put, place), as DRB's 'he will give fire, and worms into their flesh' tries to keep. Portuguese *dar fogo* is heard as handing someone a light. *Pôr fogo em* is the native phrase for setting fire to, and *pôr vermes em* follows it without strain. *Pôr* is within *dare*'s range, the plainer faithful word (D2). *Carnes* plural for a man's own flesh is the glossary's row (118:120). *Deles* rather than *suas* keeps *vossas* and *suas* from being confused and follows the Latin's plural *eórum*. v2: the Latinist and the stylist both asked for *dará*. It is the Latin's verb, and in *dará fogo e vermes nas carnes deles* the objects make the sense plain, so the lighter hearing does not really arise. *Porá* stays as an option.",
+      "options": [
+        {
+          "label": "dará",
+          "forms": {
+            "dabit": "dará"
+          },
+          "note": "v2: taken, from the Latinist (minor) and the stylist, who both asked for the Latin verb. *nas carnes* is kept for *in carnes*. Word for word (DRB 'give'). *Dar fogo* is heard as lending a light.",
+          "from": "DRB"
+        },
+        {
+          "label": "porá",
+          "forms": {
+            "dabit": "porá"
+          },
+          "note": "Draft. *Pôr fogo em*, native.",
+          "from": "draft"
+        },
+        {
+          "label": "enviará",
+          "forms": {
+            "dabit": "enviará"
+          },
+          "note": "MS1932. Another verb; a paraphrase.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "urantur",
+      "refs": [
+        "16:22"
+      ],
+      "latin": "ut urántur",
+      "kind": "word",
+      "why": "*Urántur* is passive, 'that they may be burned', and serves as a middle, 'burn' (DRB 'that they may burn'; MS1932 *para arderem*). *Ardam* is plain and two syllables long, and the fire of the first colon is its agent anyway.",
+      "options": [
+        {
+          "label": "ardam",
+          "forms": {
+            "urantur": "ardam"
+          },
+          "note": "Draft; DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "sejam queimados",
+          "forms": {
+            "urantur": "sejam queimados"
+          },
+          "note": "The Latin's passive, marked. Three syllables longer.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sentiant",
+      "refs": [
+        "16:22"
+      ],
+      "latin": "et séntiant usque in sempitérnum",
+      "kind": "ambiguity",
+      "why": "*Séntiant* has no object: they will feel (pain, the fire, their punishment) for ever. MS1932 supplies it in a parenthesis, *(este suplício)*, which the brief tells us to ignore. The Greek has another text (κλαύσονται ἐν αἰσθήσει). Kept bare, as the Latin. *Usque in sempitérnum → para todo o sempre* (D37; 105:31). *para que … para todo o sempre* repeats *para*; accepted, since both are the settled words.",
+      "options": [
+        {
+          "label": "sintam",
+          "forms": {
+            "sentiant": "sintam"
+          },
+          "note": "Draft; bare, as the Latin and DRB ('may feel').",
+          "from": "draft"
+        },
+        {
+          "label": "sintam a dor",
+          "forms": {
+            "sentiant": "sintam a dor"
+          },
+          "note": "Supplies the object MS1932 glosses. It explains what the Latin leaves unsaid. Refused.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "16:15": "DO's first line, *(Canticum Judith * Judith 16:15-22)*, is a heading with the book reference, not a prayed verse and not a titulus. readVerses skips it, as it did for the Nunc dimittis (ps233), and D7 keeps tituli out anyway. When the canticle is delivered to DO, its Portuguese heading can stay as DO has it: *(Cântico de Judite * Jdt 16:15-22)*. The verse numbers are DO's, not the Clementine's: DO splits Vulgate 16:17 into 16:17–18 and so runs to 16:22 where the Vulgate ends at 16:21. The Latin is Jerome's Judith (from an Aramaic text), not the Gallican psalter. The LXX is a different recension and explains little. *Hymnum cantémus* → *Cantemos um hino* (natural order; *cantar* is cantáre's and *hino* hymnus's in the glossary). The Latin's repetition *hymnum … cantémus / hymnum … cantémus* is kept whole.",
+    "16:16": "*Magnus es tu* → *vós sois grande* (75:8 *Vós sois terrível*). *In virtúte tua* → *no vosso poder* (the glossary; 20:2).",
+    "16:18": "*Misísti spíritum tuum, et creáta sunt* echoes 103:30 *Emíttes spíritum tuum, et creabúntur → Enviareis o vosso espírito, e serão criados*: the same verb, *enviar*, and *espírito*. *Foram criadas* agrees with 16:17's *as coisas* (32:9). *Resístere → resistir* (16:8a, 75:8). The second colon is the Latin's eleven syllables.",
+    "16:19": "*Petræ → as rochas* (the glossary's *petra → rocha*; plural and definite, since the Latin's plural names rocks in general). *Sicut cera → como cera*, as 96:5 *Os montes, como cera, escorreram*. *Liquéscere → derreter-se*, as 21:15b *cera que se derrete*. *Ante fáciem tuam → diante da vossa face*, the row's form (Nunc dimittis 2:31). *À face de* is kept for *a fácie* (67, 96:5). The second colon is +4 syllables on the Latin; accepted, since every word is a settled one.",
+    "16:20": "*Qui autem timent te* → *Mas os que vos temem* (118:74 *Os que vos temem*). Six syllables for six.",
+    "16:21": "The only mark is the mediant; the colon break the Latin prints as a colon after *meum* is punctuation, kept as *:*. *Vindicábit in eis* → *se vingará deles* (98:8 *vos vingastes de*). The plural *eis* after the singular *genti* is kept, as the Latin has it (MS1932 normalises to *dela*). *In die judícii* → *no dia do juízo* (*judícium → juízo*, D15). *Visitábit* → *visitará* (the glossary's *visitáre*). Here the visit is punitive (as 88:33 *Visitarei com a vara*), and that is the Latin's word.",
+    "16:22": "*Enim → pois*, as in 16:21: the Latin repeats it, and so does the Portuguese. *Et vermes* follows *ignem* under the one verb, as in the Latin."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Canticle-level draft. parallels.py handles only psalm numbers and gives only Latin + pt-PT for canticles, so ps213/show_parallels.py builds ps213/parallels.md from the Bolls Vulgate of Judith 16 (ps213/bolls-VULG-69-16.json), Douay-Rheims from drbo.org (ps213/drbo-judith16.htm), the Rahlfs LXX from consult/lxx-*.csv (a different recension), and Matos Soares 1932 from the pdftotext text layer of the 1932 PDF (ps213/ms1932-judith16.txt). No Diurnal (the canticle is not in it) and no Hebrew (none exists). Precedent checked with ps213/concord.py, a copy of ps212's. Brazilian circulation fetched and recorded in ps213/circulation.md: CNBB LH Wednesday Lauds, Week I, prays the Greek text as a paraphrase and omits 16:21–22. Hard readings: *genus meum* (new word), *dabit … in carnes*, the relative *et quem superáre*, the bare *séntiant*."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids and marks match DO's Latin; render.py and checks.py work unchanged with the DO number 213, and readVerses skips the heading line). Soft flags, all length and all accepted: 16:17b +4, because *as coisas* is the glossary's formula (32:9, 148:5); 16:18a +4, from *enviastes o vosso espírito*, as in 103:30; 16:19a +6 and 16:19b +4, because every word there is a settled one (*serão abalados* 81:5, *desde os fundamentos*, *diante da vossa face*) and the pronominal *se abalarão* would save only one syllable; 16:21a +3 in a 29-syllable colon. No colon is too long for one breath (the longest, 16:21a, is the Latin's longest too). Cadences: every Portuguese colon ends on an oxytone or paroxytone."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Reader: claude-opus-5-5, fresh context, with latin.json. One minor remark, taken. Everything else was judged faithful.",
+      "outcomes": [
+        {
+          "verse": "16:22",
+          "remark": "dabit is 'will give': dará, not porá",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Reader: claude-opus-5-5, fresh context, with latin.json. 6 remarks: 4 taken, 2 refused. Worst line 16:21, best 16:15.",
+      "outcomes": [
+        {
+          "verse": "16:16",
+          "remark": "excelente sounds like a school grade; e ex- hiatus; asks esplêndido",
+          "outcome": "taken"
+        },
+        {
+          "verse": "16:16",
+          "remark": "em vosso poder instead of no vosso poder",
+          "outcome": "refused",
+          "reason": "The brief keeps the article before possessives (rule 5), and *no vosso poder* is the glossary's formula (20:2, 53:3)."
+        },
+        {
+          "verse": "16:17",
+          "remark": "as coisas is prosy; asks e tudo foi feito",
+          "outcome": "option",
+          "decision": "factasunt",
+          "reason": "*as coisas* is the glossary's formula for this Latin (32:9 = 148:5); *tudo foi feito* turns the plural into a singular and leaves 16:18 *foram criadas* without a subject."
+        },
+        {
+          "verse": "16:19",
+          "remark": "com as águas trails; move it after os montes",
+          "outcome": "taken"
+        },
+        {
+          "verse": "16:21",
+          "remark": "raça jars (ethnic, slang); asks linhagem",
+          "outcome": "taken"
+        },
+        {
+          "verse": "16:21",
+          "remark": "que se ergue, one syllable shorter",
+          "outcome": "refused",
+          "reason": "*Insúrgere → levantar-se contra* is the psalter's verb (3:2, 17:40, 58:2, 108:28); a single syllable does not justify a second verb."
+        },
+        {
+          "verse": "16:22",
+          "remark": "porá stammers after pois; asks dará … às carnes",
+          "outcome": "taken",
+          "reason": "*dará* taken with the Latinist; *às carnes* refused, since *in carnes* is 'into', so *nas carnes* is kept."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Reader: claude-opus-5-5, fresh context. 16 readings, most of them as intended.",
+      "outcomes": [
+        {
+          "verse": "16:16",
+          "remark": "Adonai unknown; could be heard as another figure",
+          "outcome": "refused",
+          "reason": "The Latin keeps the Hebrew name and glosses it with *Dómine* at once; the CNBB LH has it too (*Senhor-Adonai*). Kept as the Latin's word."
+        },
+        {
+          "verse": "16:16",
+          "remark": "excelente heard as everyday 'very good'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "16:19",
+          "remark": "heard the waters as cause (flood)",
+          "outcome": "taken"
+        },
+        {
+          "verse": "16:21",
+          "remark": "raça has ethnic / slang overtones",
+          "outcome": "taken"
+        },
+        {
+          "verse": "16:21",
+          "remark": "os visitará may be heard as a kindly visit",
+          "outcome": "refused",
+          "reason": "*Visitáre → visitar* is the glossary's verb, used punitively at 88:33 too. The next verse makes the sense plain, and the Latin's word stays."
+        },
+        {
+          "verse": "16:22",
+          "remark": "sintam with no object sounds incomplete",
+          "outcome": "refused",
+          "reason": "The Latin's *séntiant* is absolute. Supplying 'a dor' explains what the Latin leaves unsaid; that stays as an option in `sentiant`."
+        },
+        {
+          "verse": "16:18",
+          "remark": "o vosso espírito heard as the Holy Spirit",
+          "outcome": "refused",
+          "reason": "The Latin's *spíritum tuum*, as 103:30. It stays open to the Christian reading, as the Latin does."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 16:16 *esplêndido* (glossary option, for God); 16:19 *com as águas* moved after *os montes*; 16:21 *linhagem*; 16:22 *dará*. The draft is kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2. Reader: claude-opus-5-5, fresh context, with latin.json. One minor remark, no majors. Held as written; the reason is recorded.",
+      "outcomes": [
+        {
+          "verse": "16:21",
+          "remark": "genus meum: linhagem narrows to pedigree; asks o meu povo",
+          "outcome": "option",
+          "decision": "genus",
+          "reason": "*Povo* is *pópulus*'s word throughout the psalter; DRB and MS1932 merge the two, and the gate on v1 passed *raça*. *Genus* is stock, a people seen as a descent, and *linhagem* keeps that without the ethnic charge two readers heard in *raça*. *O meu povo* stays option 3, the retreat if Gustavo prefers the ear."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "c2790e9968405cc5624257f148063e40c7a193db9ae73c738075fd2af9965fb5",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T13:48:43+00:00",
+  "reply": "{\"verses\": [{\"id\": \"29:12\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"tu domináris ómnium\", \"portuguese\": \"vós dominais todas as coisas\", \"problem\": \"ómnium is a genitive plural that can be either masculine (all people, picking up omnes príncipes in 29:11c) or neuter (all things). 'todas as coisas' settles it as neuter. The same thing happens in 29:12b with 'impérium ómnium' rendered 'o domínio de todas as coisas'. This is defensible, but it resolves an ambiguity the Latin keeps.\", \"fix\": \"vós dominais sobre todos, (and in 29:12b: o domínio sobre todos), or keep as is if the project has already ruled on ómnium\"}]}, {\"id\": \"29:13\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"confitémur tibi\", \"portuguese\": \"nós vos damos graças\", \"problem\": \"Confitéri means to acknowledge or praise openly. 'Damos graças' follows the Hebrew and the Douay rather than the Latin sense. This is common in the liturgy and defensible, but it could be closer.\", \"fix\": \"nós vos louvamos (or: nós vos confessamos), then keep 'e louvamos' or adjust to avoid repetition\"}, {\"latin\": \"nomen tuum ínclitum\", \"portuguese\": \"o vosso nome glorioso\", \"problem\": \"Ínclitus means renowned or illustrious, not 'glorious'. 'Glorioso' also repeats the glória of 29:11 and 29:12 as if it were the same word.\", \"fix\": \"e louvamos o vosso nome ínclito (or: insigne)\"}]}], \"overall\": \"A faithful rendering that keeps every element of the Latin, including the doubled 'in manu tua' and the full list of divine attributes. The pointing marks match the Latin in every verse. The only issues are minor: ómnium is resolved as neuter, confitémur is rendered as thanksgiving, and ínclitum is flattened to 'glorioso'.\"}\n"
+}
