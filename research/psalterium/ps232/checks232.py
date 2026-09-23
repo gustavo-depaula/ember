@@ -1,0 +1,162 @@
+# Local copy of checks.py for canticle 232: the shared script crashes on an empty colon (Latin "Magníficat + *"). Only change: empty cola measure 0.
+"""Deterministic checks on a prayed tier — no model calls.
+
+Run from the repo root:  python3.13 research/psalterium/checks.py research/psalterium/ps004 4
+Reads <workdir>/prayed.json and the DO Latin; writes <workdir>/checks.md; exits 1 on a hard failure.
+
+Hard (must pass): same verse ids in the same order; same pointing marks in the same order per verse.
+Soft (flags for a human ear): colon length more than 2 syllables off the Latin; cadence word not singable
+(stress further back than the antepenult); the same rhyme at mediant and final, or at the finals of neighbouring verses.
+Syllable counts are spelling heuristics — no sinalefa, no regional hiatus — so read them as ±1.
+"""
+
+import re
+import sys
+import json
+import unicodedata
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from latin import cola, doLatin, marks, readVerses, resolve  # noqa: E402
+
+ptVowels = 'aeiouáéíóúâêôãõàü'
+ptAccented = 'áéíóúâêô'
+stressNames = {0: 'oxytone', 1: 'paroxytone', 2: 'proparoxytone'}
+
+
+def strip(char):
+    return unicodedata.normalize('NFD', char)[0]
+
+
+def ptSyllables(word):
+    """Syllable nuclei of a Portuguese word as (start, end) spans over the lowercase word."""
+    word = word.lower()
+    nuclei, i = [], 0
+    while i < len(word):
+        char = word[i]
+        if char not in ptVowels:
+            i += 1
+            continue
+        if char == 'u' and i and word[i - 1] in 'qg' and i + 1 < len(word) and word[i + 1] in 'eiéíê':
+            i += 1  # silent u in que/gui
+            continue
+        end = i + 1
+        # falling diphthongs and nasal diphthongs stay in one syllable; a marked i/u (saída, saúde) breaks them
+        if end < len(word) and word[end] in 'iu' and word[i] not in 'iu' and not (end + 1 < len(word) and word[end + 1] in 'nmrlz' and end + 2 >= len(word)):
+            end += 1
+        elif end < len(word) and word[i] in 'ãõ' and word[end] in 'eo':
+            end += 1
+        nuclei.append((i, end))
+        i = end
+    # unstressed final rising diphthong (gló-ria, his-tó-ria, á-gua) counts as one syllable when the accent is earlier
+    if len(nuclei) >= 2 and any(c in ptAccented for c in word[: nuclei[-2][0]]):
+        (a0, a1), (b0, _) = nuclei[-2], nuclei[-1]
+        if a1 == b0 and word[a0] in 'iu' and a1 - a0 == 1:
+            nuclei[-2:] = [(a0, nuclei[-1][1])]
+    return nuclei
+
+
+def ptStress(word):
+    """Syllables after the stressed one: 0 oxytone, 1 paroxytone, 2 proparoxytone."""
+    # an enclitic carries no stress of its own but is sung: compungi-vos ends paroxytone
+    word, enclitics = re.subn(r'-(vos|me|te|se|nos|lhe|lhes|o|a|os|as)$', '', word.lower())
+    nuclei = ptSyllables(word)
+    if len(nuclei) <= 1:
+        return enclitics
+    for index, (start, end) in enumerate(nuclei):
+        if any(c in ptAccented for c in word[start:end]):
+            return len(nuclei) - 1 - index + enclitics
+    if re.search(r'[ãõ]', word[nuclei[-1][0] :]) or not re.search(r'(a|e|o|as|es|os|am|em|ens)$', word):
+        return enclitics
+    return 1 + enclitics
+
+
+def ptRhyme(word):
+    word = re.sub(r'-(vos|me|te|se|nos|lhe|lhes|o|a|os|as)$', '', word.lower())
+    nuclei = ptSyllables(word)
+    if not nuclei:
+        return ''
+    stressed = nuclei[max(0, len(nuclei) - 1 - ptStress(word))]
+    return ''.join(strip(c) for c in word[stressed[0] :])
+
+
+def laSyllableCount(word):
+    word = ''.join(strip(c) for c in word.lower().replace('æ', 'E').replace('œ', 'E').replace('ǽ', 'E'))
+    word = re.sub(r'qu', 'q', word)
+    word = re.sub(r'au', 'A', word)
+    return len(re.findall(r'[aeiouyEA]', word))
+
+
+def laStress(word):
+    lower = word.lower().replace('ǽ', 'é')
+    count = laSyllableCount(word)
+    if count <= 1:
+        return 0
+    match = re.search(r'[áéíóúý]', lower)
+    if not match:
+        return 1  # DO leaves disyllables unmarked: always paroxytone
+    return laSyllableCount(lower[match.end() :]) if lower[match.end() :] else 0
+
+
+def wordsOf(text):
+    return re.findall(r"[^\W\d_]+(?:-[^\W\d_]+)*", text)
+
+
+def measure(colon, language):
+    found = wordsOf(colon)
+    if not found:
+        return 0, 0  # an empty colon: the Magnificat's "Magníficat + *" leaves nothing between the cross and the mediant
+    if language == 'la':
+        return sum(laSyllableCount(w) for w in found), laStress(found[-1])
+    return sum(len(ptSyllables(w)) for part in found for w in part.split('-')), ptStress(found[-1])
+
+
+def main():
+    workdir, psalm = Path(sys.argv[1]), sys.argv[2]
+    latin = readVerses(doLatin / f'Psalmorum/Psalm{psalm}.txt')
+    prayed = resolve(json.loads((workdir / 'prayed.json').read_text(encoding='utf-8')))
+    hard, out = [], [f'# Ps {psalm} — deterministic checks\n', 'Generated by `checks.py`; do not edit. Syllable counts are heuristic (±1).\n']
+    if [v['id'] for v in latin] != list(prayed):
+        hard.append(f"verse ids differ: Latin {[v['id'] for v in latin]} vs prayed {list(prayed)}")
+    finals = {}
+    allNames = sorted({key for r in prayed.values() if isinstance(r, dict) for key in r}) or ['']
+    for verse in latin:
+        rendering = prayed.get(verse['id'])
+        variants = rendering if isinstance(rendering, dict) else {'': rendering}
+        for name, text in variants.items():
+            label = f"{verse['id']} {name}".strip()
+            if marks(text) != marks(verse['text']):
+                hard.append(f"{label}: marks `{marks(text)}` ≠ Latin `{marks(verse['text'])}`")
+                continue
+            out.append(f'## {label}\n\n| colon | Latin | syl | cadence | Portuguese | syl | cadence | flags |\n| --- | --- | --- | --- | --- | --- | --- | --- |')
+            rhymes = []
+            for laColon, ptColon in zip(cola(verse['text']), cola(text)):
+                laCount, laCadence = measure(laColon['text'], 'la')
+                ptCount, ptCadence = measure(ptColon['text'], 'pt')
+                flags = []
+                if abs(ptCount - laCount) > 2:
+                    flags.append(f'length {ptCount - laCount:+d}')
+                if ptCadence > 2:
+                    flags.append('cadence too far back')
+                rhymes.append(ptRhyme((wordsOf(ptColon['text']) or [''])[-1]))
+                out.append(
+                    f"| `{laColon['mark'] or '·'}` | {laColon['text']} | {laCount} | {stressNames.get(laCadence, laCadence)} "
+                    f"| {ptColon['text']} | {ptCount} | {stressNames.get(ptCadence, ptCadence)} | {'; '.join(flags)} |"
+                )
+            if len(rhymes) > 1 and len(set(rhymes)) < len(rhymes) and all(len(r) > 1 for r in rhymes):
+                out.append(f'\n⚑ rhyme inside the verse: {rhymes}')
+            # a verse with one rendering is a neighbour in every variant's run of the psalm
+            for run in [name] if name else allNames:
+                finals.setdefault(run, []).append((label, rhymes[-1]))
+            out.append('')
+    for name, sequence in finals.items():
+        for (a, rhymeA), (b, rhymeB) in zip(sequence, sequence[1:]):
+            if rhymeA == rhymeB and len(rhymeA) > 1:
+                out.append(f'⚑ neighbouring finals rhyme: {a} / {b} (-{rhymeA})')
+    out.insert(2, '**Hard failures:**\n\n' + '\n'.join(f'- {h}' for h in hard) + '\n' if hard else '**Hard checks pass:** verse ids and pointing marks match the Latin.\n')
+    (workdir / 'checks.md').write_text('\n'.join(out), encoding='utf-8')
+    print('\n'.join(out))
+    sys.exit(1 if hard else 0)
+
+
+main()

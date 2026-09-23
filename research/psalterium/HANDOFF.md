@@ -116,4 +116,6 @@ Every ruling in `DECISIONS.md` marked "Claude, for review" waits on him; D1, D12
     - 54:4 *se voltaram contra mim*: 20:12 has the same *voltaram* risk.
     - *conculcáre → calcar aos pés* is settled, with Ps 7:6 *pise* the exception.
 
+Follow-ups after the Psalter (2026-09-23), all done and pushed: final Latinist gates on the 21 psalms whose last draft was unread (no new majors; 88:36, 138:15, 145:4 stay pending); the Ps 118 Hetzenauer print read (no wording divergence); and the canticles 210–216, 220–226, 231, 232 at draft 2, each with three fresh-context Opus readers and a Latinist gate, no majors. Each canticle folder has its own `show_parallels.py` (`parallels.py` takes psalm numbers only) and its "For Gustavo" points in the audit and glossary rows. The shared `checks.py` crashes on an empty colon ("Magníficat + *"); ps232 used a local copy, `ps232/checks232.py`. `tests/site_finished.py` builds the site from reviewed folders only; `check-site.js` rebuilds everything, drafts included, so run `site_finished.py` after it and before staging.
+
 Older and still open: *in idípsum* (D9); tituli (D7); the Ps 4 verse decisions; Rahlfs-via-CCAT licensing before any CC0 publication; a human Latinist reviewer; the owed Hetzenauer print reads (every psalm's audit says so).

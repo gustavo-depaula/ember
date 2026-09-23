@@ -1,0 +1,724 @@
+{
+  "psalm": 232,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "1:46": "{v46}.",
+    "1:47": "E o meu espírito {exsultavit} * em Deus, meu Salvador.",
+    "1:48": "Porque olhou para a {humilitas} da sua serva: * pois eis que, desde agora, {dicent}.",
+    "1:49": "Porque {fecit} grandes coisas {potens}: * e santo é o seu nome.",
+    "1:50": "{v50a} * {timentibus}.",
+    "1:51": "{v51a}: * dispersou os soberbos {mente} do seu coração.",
+    "1:52": "{deposuit} do trono os poderosos, * e exaltou os humildes.",
+    "1:53": "Encheu de bens os famintos, * e {dimisit} vazios os ricos.",
+    "1:54": "{suscepit} Israel, seu servo, * {recordatus} da sua misericórdia.",
+    "1:55": "Como falou aos nossos pais, * {abraham} {insaecula}."
+  },
+  "decisions": [
+    {
+      "id": "v46",
+      "refs": [
+        "1:46"
+      ],
+      "latin": "Magníficat + * ánima mea Dóminum",
+      "kind": "order",
+      "why": "The Latin's first colon is the verb alone (four syllables), with the '+' where the sign of the cross is made, directly before the mediant; subject and object follow in the second colon. Portuguese cannot open on the bare verb without a verb–subject–object order in which either noun can be heard as the subject ('Engrandece a minha alma o Senhor' is also 'the Lord magnifies my soul'). The Diurnal Monástico 1962, the one Brazilian book that points this Latin for chant, puts the mediant after the subject: 'Minha alma * engrandece ao Senhor'. magnificáre → engrandecer is the glossary's verb, and 33:4 'Magnificáte Dóminum mecum' → 'Engrandecei comigo o Senhor' takes a bare object. The Lectionary has 'A minha alma engrandece o Senhor' word for word; the LH has 'ao Senhor'.",
+      "options": [
+        {
+          "label": "A minha alma + * engrandece o Senhor",
+          "forms": {
+            "v46": "A minha alma + * engrandece o Senhor"
+          },
+          "note": "Draft. Natural order (D2), the Diurnal's pointing, 4 + 6 syllables against the Latin's 4 + 8, and the Lectionary's words. The verb crosses to the second colon: a reader of the Latin column finds 'Magníficat' opposite 'A minha alma'. The '+' keeps its place before the mediant, which is where the Latin has it; it still falls at the opening words.",
+          "from": "draft"
+        },
+        {
+          "label": "A minha alma + * engrandece ao Senhor",
+          "forms": {
+            "v46": "A minha alma + * engrandece ao Senhor"
+          },
+          "note": "The LH and the Diurnal: the prepositional object that the Brazilian ear knows from Vespers. Refused only because the glossary's 33:4 has the bare object for the same Latin, and the Lectionary has it too.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Engrandece + * a minha alma ao Senhor",
+          "forms": {
+            "v46": "Engrandece + * a minha alma ao Senhor"
+          },
+          "note": "The Latin's order: the verb alone before the '+' and the mediant, as 'Magníficat'. It needs 'ao' so that 'o Senhor' is not heard as the subject, and it is an inversion Portuguese does not need.",
+          "from": "draft"
+        },
+        {
+          "label": "A minha alma engrandece + * o Senhor",
+          "forms": {
+            "v46": "A minha alma engrandece + * o Senhor"
+          },
+          "note": "Keeps the verb in the first colon, in natural order; but the colons become 7 + 3 against the Latin's 4 + 8, and the second colon is too short to carry the chant's final cadence.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exsultavit",
+      "refs": [
+        "1:47"
+      ],
+      "latin": "Et exsultávit spíritus meus",
+      "kind": "word",
+      "why": "exsultávit is a perfect (Greek aorist ἠγαλλίασεν) beside the present Magníficat; the Latin keeps the shift. exsultáre → exultar is the glossary's verb, and canticle 223 (1 Sam 2:1, the song this one echoes) has 'O meu coração exultou no Senhor'. MS1932 and the Diurnal make it a present ('exulta (de alegria)'); the Lectionary has 'se alegra', the LH 'se alegrou'. Subject first, as 96:8, because 'E exultou' clashes two e's.",
+      "options": [
+        {
+          "label": "exultou",
+          "forms": {
+            "exsultavit": "exultou"
+          },
+          "note": "Draft: the Latin's tense and verb; 223's 'exultou'.",
+          "from": "draft"
+        },
+        {
+          "label": "exulta",
+          "forms": {
+            "exsultavit": "exulta"
+          },
+          "note": "MS1932 and the Diurnal: the present, matching Magníficat. It evens out a tense shift the Latin has.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se alegrou",
+          "forms": {
+            "exsultavit": "se alegrou"
+          },
+          "note": "The LH's words (the Lectionary has 'se alegra'). Refused: 'alegrar-se' is lætári's, kept apart from exsultáre across the psalter.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "humilitas",
+      "refs": [
+        "1:48"
+      ],
+      "latin": "respéxit humilitátem ancíllæ suæ",
+      "kind": "glossary",
+      "why": "The humílitas row is 'humilhação' (open), and 30:8 has almost this phrase: 'respexísti humilitátem meam' → 'olhastes para a minha humilhação'. But there the blind reader heard 'the shame I suffered', which fits a psalm of affliction and not the Virgin's state. The Greek ταπείνωσις is low estate. Latin humílitas is first of all lowness and then, in church Latin, humility. DRB has 'the humility of his handmaid'. The Brazilian books divide: the Lectionary has 'humildade', the LH 'pequenez', MS1932 'baixeza'. Portuguese 'humildade' carries both senses the Latin carries: the virtue, and a humble condition ('a humildade da sua origem'). It also keeps the canticle's own echo, humilitátem (1:48) → húmiles (1:52) = 'humildade … humildes' (the Greek has the same echo, ταπείνωσιν … ταπεινούς). The glossary's 'humildes' is settled (D27).",
+      "options": [
+        {
+          "label": "humildade",
+          "forms": {
+            "humilitas": "humildade"
+          },
+          "note": "Draft: the Lectionary's word and DRB's; the root echo with 1:52 kept. The risk is that it is heard as the virtue only; the Latin allows that reading too.",
+          "from": "draft"
+        },
+        {
+          "label": "pequenez",
+          "forms": {
+            "humilitas": "pequenez"
+          },
+          "note": "The LH's word, said every evening, and the psalter's own local departure at 21:22. It names the low estate exactly but loses the echo with 'humildes' and closes the Latin's second sense.",
+          "from": "draft"
+        },
+        {
+          "label": "humilhação",
+          "forms": {
+            "humilitas": "humilhação"
+          },
+          "note": "The glossary row and 30:8's formula. Refused: in the Virgin's mouth it is heard as shame suffered, as the 30:8 blind reader heard it.",
+          "from": "glossary"
+        },
+        {
+          "label": "baixeza",
+          "forms": {
+            "humilitas": "baixeza"
+          },
+          "note": "MS1932. In current Portuguese 'baixeza' is first a mean act, a vileness.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dicent",
+      "refs": [
+        "1:48"
+      ],
+      "latin": "beátam me dicent omnes generatiónes",
+      "kind": "order",
+      "why": "The Latin ends on 'generatiónes'. beátus → bem-aventurado (D19); dícere with a predicate → chamar (MS1932, DM1962, the Lectionary). The natural order puts the subject first and ends the colon on 'bem-aventurada'.",
+      "options": [
+        {
+          "label": "todas as gerações me chamarão bem-aventurada",
+          "forms": {
+            "dicent": "todas as gerações me chamarão bem-aventurada"
+          },
+          "note": "Draft: natural order (D2), as MS1932, the Diurnal and the Lectionary; a paroxytone close.",
+          "from": "draft"
+        },
+        {
+          "label": "me chamarão bem-aventurada todas as gerações",
+          "forms": {
+            "dicent": "me chamarão bem-aventurada todas as gerações"
+          },
+          "note": "The Latin's order, the generations last; Portuguese allows it, but the pronoun then opens the clause after 'agora', which is less natural.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "fecit",
+      "refs": [
+        "1:49"
+      ],
+      "latin": "fecit mihi magna",
+      "kind": "word",
+      "why": "mihi is a dative (Greek μοι): done to or for me. MS1932 and the Diurnal say 'fez em mim', the LH 'fez por mim', the Lectionary 'em meu favor'. magna → 'grandes coisas' (the magnália row, 70:19, 105:21; the Lectionary has these words; the LH's 'maravilhas' is mirabília's). v2: the v1 stylist heard *me fez grandes coisas* as \"made me into great things\", and the ambiguity reader also listed that hearing, second. The clitic dative is not safe here, and D2 gives way to the ear on grammar. *por mim* is the dative of advantage, as the LH has it. Gate: the v2 Latinist (minor) heard *por mim* as \"through me\" or \"in my place\", which the dative does not carry, and asked for *fez em mim*. Taken after the gate. Two readers have now struck the bare clitic and *por*; *em mim* is the MS1932 and Diurnal wording, and the gate asked for it.",
+      "options": [
+        {
+          "label": "fez em mim",
+          "forms": {
+            "fecit": "fez em mim"
+          },
+          "note": "Gate (v2 Latinist): MS1932 and the Diurnal. The great things are done in her; it avoids *por mim* (\"through me\") and the bare clitic (\"made me into\").",
+          "from": "latinist"
+        },
+        {
+          "label": "fez por mim",
+          "forms": {
+            "fecit": "fez por mim"
+          },
+          "note": "v2: the LH's preposition; the dative of advantage made explicit so that *me* is not heard as the object (the v1 stylist).",
+          "from": "stylist"
+        },
+        {
+          "label": "me fez",
+          "forms": {
+            "fecit": "me fez"
+          },
+          "note": "v1 draft: the Latin's dative as a clitic. The v1 stylist heard \"made me into great things\".",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potens",
+      "refs": [
+        "1:49"
+      ],
+      "latin": "qui potens est",
+      "kind": "grammar",
+      "why": "The Latin has a relative clause, where the Greek has the substantive ὁ δυνατός. The potens row is 'o poderoso' for the bare substantive (119:4). 'quem é poderoso' is the Latin's clause in its lightest Portuguese form. The LH has 'O Poderoso', the Lectionary 'o Todo-poderoso' (omnípotens's word), and MS1932 'aquele que é poderoso'.",
+      "options": [
+        {
+          "label": "quem é poderoso",
+          "forms": {
+            "potens": "quem é poderoso"
+          },
+          "note": "Draft: the clause kept, +1 syllable on the Latin colon.",
+          "from": "draft"
+        },
+        {
+          "label": "aquele que é poderoso",
+          "forms": {
+            "potens": "aquele que é poderoso"
+          },
+          "note": "MS1932: the same clause, with two syllables more.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o Poderoso",
+          "forms": {
+            "potens": "o Poderoso"
+          },
+          "note": "The LH and the Greek: a title. Two syllables shorter; it turns the Latin's clause into a name.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v50a",
+      "refs": [
+        "1:50"
+      ],
+      "latin": "Et misericórdia ejus, a progénie in progénies",
+      "kind": "grammar",
+      "why": "The Latin has no verb, and nor does the Greek. The glossary row for nominal clauses with no verb allows a present copula. MS1932, the Diurnal and the Lectionary supply 'se estende', which adds an image. a progénie in progénies → 'de geração em geração', as 48:12 'in progénie et progénie' and the generátio formula. The Latin's plural 'progénies' (DRB 'unto generations') is not heard in the formula.",
+      "options": [
+        {
+          "label": "E a sua misericórdia é de geração em geração",
+          "forms": {
+            "v50a": "E a sua misericórdia é de geração em geração"
+          },
+          "note": "Draft: the copula only (grammar, D2); 'is from generation to generation', as DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "E a sua misericórdia, de geração em geração,",
+          "forms": {
+            "v50a": "E a sua misericórdia, de geração em geração,"
+          },
+          "note": "Verbless, as the Latin. It hangs on 'e santo é o seu nome' before it, which a listener may hear as a list.",
+          "from": "draft"
+        },
+        {
+          "label": "… de geração em gerações",
+          "forms": {
+            "v50a": "E a sua misericórdia é de geração em gerações"
+          },
+          "note": "The Latin's plural kept. The phrase is not Portuguese and breaks the formula of 48:12.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "timentibus",
+      "refs": [
+        "1:50"
+      ],
+      "latin": "timéntibus eum",
+      "kind": "word",
+      "why": "The Latin has a dative. The psalter has both 'para os que vos temem' (30:20) and 'aos que o temem' (33:10) for the same case. After the copula, 'para' says whom the mercy is for. The LH has 'chega a todos que o respeitam', but timére is fear, not respect.",
+      "options": [
+        {
+          "label": "para os que o temem",
+          "forms": {
+            "timentibus": "para os que o temem"
+          },
+          "note": "Draft, as 30:20.",
+          "from": "draft"
+        },
+        {
+          "label": "aos que o temem",
+          "forms": {
+            "timentibus": "aos que o temem"
+          },
+          "note": "33:10's form; lighter, but after 'é de geração em geração' the bare 'a' is less clear.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "v51a",
+      "refs": [
+        "1:51"
+      ],
+      "latin": "Fecit poténtiam in brácchio suo",
+      "kind": "word",
+      "why": "fácere with an abstract noun of strength has a glossary answer: fácere virtútem → 'agir com poder' (117:16, 59:14, open). Here the noun is poténtia (Greek κράτος), whose row is 'potência' (64:7, 88:13 'o braço com potência'). 'in brácchio' → 'com o … braço' (76:15, 88:11). Putting the arm first keeps the two 'com' apart. MS1932 has 'Manifestou o poder do seu braço', the Lectionary 'mostrou a força', the LH 'demonstrou o poder'. All three supply a verb of showing and make the arm a genitive. v2: the Latinist (minor) asked for fecit to stay transitive, as *fez potência*. The stylist asked for *mostrou o seu poder*, finding *com … com* and *potência* flat. Both are held: row 135 (*agir com poder*) was held against the same Latinist request at 107:14, and *potência* is the poténtia row, held against stylists at 88:13 and 216. A colon is added before the mediant, so the two actions are heard apart; the ambiguity reader had heard *com potência* possibly running on into *dispersou*.",
+      "options": [
+        {
+          "label": "Com o seu braço agiu com potência",
+          "forms": {
+            "v51a": "Com o seu braço agiu com potência"
+          },
+          "note": "Draft: the row's build (117:16) with poténtia's word; the arm first.",
+          "from": "draft"
+        },
+        {
+          "label": "Agiu com potência com o seu braço",
+          "forms": {
+            "v51a": "Agiu com potência com o seu braço"
+          },
+          "note": "The Latin's order, and a paroxytone before the mediant; two 'com' in four words.",
+          "from": "draft"
+        },
+        {
+          "label": "Fez proezas com o seu braço",
+          "forms": {
+            "v51a": "Fez proezas com o seu braço"
+          },
+          "note": "The fácere virtútem row's named option; keeps 'fez', but 'proezas' is plural deeds, not might.",
+          "from": "draft"
+        },
+        {
+          "label": "Mostrou o poder do seu braço",
+          "forms": {
+            "v51a": "Mostrou o poder do seu braço"
+          },
+          "note": "MS1932, the Lectionary and the LH in substance; familiar, but it supplies 'showing' and moves the arm into a genitive.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Com o seu braço fez potência",
+          "forms": {
+            "v51a": "Com o seu braço fez potência"
+          },
+          "note": "The v1 Latinist: potentia kept as the object of fecit. It is not Portuguese (*fazer potência*).",
+          "from": "latinist"
+        },
+        {
+          "label": "Com o seu braço mostrou o seu poder",
+          "forms": {
+            "v51a": "Com o seu braço mostrou o seu poder"
+          },
+          "note": "The v1 stylist. It supplies \"showing\" (as MS1932 and the books do) and spends virtus's word *poder*.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "mente",
+      "refs": [
+        "1:51"
+      ],
+      "latin": "dispérsit supérbos mente cordis sui",
+      "kind": "ambiguity",
+      "why": "mente is an ablative (Greek διανοίᾳ): proud 'in the thought of their heart' (DRB 'in the conceit of their heart'). sui is open in the Latin: reflexive to the subject (God), or 'their' as the Greek αὐτῶν. 'do seu coração' keeps the openness. The Lectionary and the Diurnal drop mente ('os soberbos de coração'), and the LH drops the whole phrase. dispérgere → 'dispersar' (88:11, 214 31:11); supérbus → 'soberbo' (118:21).",
+      "options": [
+        {
+          "label": "no pensamento",
+          "forms": {
+            "mente": "no pensamento"
+          },
+          "note": "Draft: the plain sense of mens / διάνοια here. 'pensamento' is also cogitátio's word in the psalter; the two never meet in this canticle.",
+          "from": "draft"
+        },
+        {
+          "label": "na mente",
+          "forms": {
+            "mente": "na mente"
+          },
+          "note": "The Latin's word (76:6 'in mente hábui' → 'tive em mente'). 'a mente do coração' is strange in Portuguese, though exact.",
+          "from": "draft"
+        },
+        {
+          "label": "nos pensamentos",
+          "forms": {
+            "mente": "nos pensamentos"
+          },
+          "note": "MS1932's plural, which is also his gloss 'que se orgulhavam'. The Latin is singular.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deposuit",
+      "refs": [
+        "1:52"
+      ],
+      "latin": "Depósuit poténtes de sede",
+      "kind": "word",
+      "why": "depónere is to put down, and of a ruler to depose. The Greek καθεῖλεν is 'took down'. The row depónere (people) → 'abater' (58:12b, where the Greek is κατάγαγε; open) records that the imperative 'deponde-os' is bookish. But the indicative 'depôs do trono' is ordinary Portuguese, and it is MS1932's word. The Lectionary, the LH and the Diurnal all have 'Derrubou'. sedes → 'trono' (the sedes row: 'sede' is headquarters or thirst). The Latin's singular is kept, where the Greek has the plural. The order is the natural one that all four Brazilian witnesses share, 'do trono os poderosos'. 'os poderosos do trono' could be heard as one phrase. v2: the ambiguity reader listed *Depôs* as an unknown word. Both CNBB books and the Diurnal say *Derrubou do trono os poderosos*. Taking a ruler down from the throne is the sense of depónere and of καθεῖλεν, so under the brief's rule the familiar word is taken.",
+      "options": [
+        {
+          "label": "Derrubou",
+          "forms": {
+            "deposuit": "Derrubou"
+          },
+          "note": "v2: the Lectionary, the LH and the Diurnal, word for word with the draft's order; the sense of the Latin (to put a ruler down from his seat). The v1 ambiguity reader did not know *Depôs*.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Depôs",
+          "forms": {
+            "deposuit": "Depôs"
+          },
+          "note": "v1 draft and MS1932: the Latin's own verb (*depor* a king). The v1 ambiguity reader listed it as unknown.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Abateu",
+          "forms": {
+            "deposuit": "Abateu"
+          },
+          "note": "The depónere row's word (58:12b, canticle 224). The row was made on a different Greek verb.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "dimisit",
+      "refs": [
+        "1:53"
+      ],
+      "latin": "et dívites dimísit inánes",
+      "kind": "glossary",
+      "why": "The dimíttere (let go) row → 'deixar ir' (Nunc dimittis 233; 80:13) says that the Magnificat's dimísit inánes is 'the other sense and need not match'. Here the Greek is ἐξαπέστειλεν, 'sent away', and God is the agent of both halves of the antithesis (he filled, he sent away). MS1932 and the LH have 'despediu' ('despediu vazios os ricos' is MS1932 word for word), and the Lectionary 'despediu … de mãos vazias'. inánis → 'vazio' (the row).",
+      "options": [
+        {
+          "label": "despediu",
+          "forms": {
+            "dimisit": "despediu"
+          },
+          "note": "Draft: 'sent away'. The firing sense that kept it out of the Nunc dimittis does not arise when the rich are sent away empty.",
+          "from": "MS1932"
+        },
+        {
+          "label": "deixou ir",
+          "forms": {
+            "dimisit": "deixou ir"
+          },
+          "note": "The row's words and the Diurnal's verb ('deixou aos ricos vazios'). It keeps one verb with 233, but it makes God merely let the rich go.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "suscepit",
+      "refs": [
+        "1:54"
+      ],
+      "latin": "Suscépit Israël púerum suum",
+      "kind": "glossary",
+      "why": "suscípere with a person as object → 'amparar' (D19); the Greek ἀντελάβετο is the verb D19 was built on. The LH has 'Acolheu' (the thing-object row's word), and the Lectionary 'Socorreu'. puer → 'servo', as the Benedictus (231, 1:69 David) and 104:42 'Abraão, seu servo'.",
+      "options": [
+        {
+          "label": "Amparou",
+          "forms": {
+            "suscepit": "Amparou"
+          },
+          "note": "Draft, D19.",
+          "from": "glossary"
+        },
+        {
+          "label": "Acolheu",
+          "forms": {
+            "suscepit": "Acolheu"
+          },
+          "note": "The LH's word. In the glossary it is suscípere's with a thing as object, or προσλαμβάνω (72:24).",
+          "from": "draft"
+        },
+        {
+          "label": "Socorreu",
+          "forms": {
+            "suscepit": "Socorreu"
+          },
+          "note": "The Lectionary. It is the sense of the Greek, but it is another verb's word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "recordatus",
+      "refs": [
+        "1:54"
+      ],
+      "latin": "recordátus misericórdiæ suæ",
+      "kind": "grammar",
+      "why": "recordátus is a deponent perfect participle, 'having remembered'. The Greek has an infinitive, μνησθῆναι, which the Latin does not follow. recordári → 'lembrar-se de', as 97:3 'Recordátus est misericórdiæ suæ' → 'Lembrou-se da sua misericórdia'. MS1932 and the Diurnal have 'lembrado da', the Lectionary 'lembrando-se de'.",
+      "options": [
+        {
+          "label": "lembrando-se",
+          "forms": {
+            "recordatus": "lembrando-se"
+          },
+          "note": "Draft: the Lectionary's words; the participle as a gerund, 97:3's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "lembrado",
+          "forms": {
+            "recordatus": "lembrado"
+          },
+          "note": "MS1932 and the Diurnal: closer to the Latin participle's form, but the adjective 'lembrado de' is dated in Brazil.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "insaecula",
+      "refs": [
+        "1:55"
+      ],
+      "latin": "in sǽcula",
+      "kind": "glossary",
+      "why": "in sǽcula alone → 'pelos séculos' is settled (D43), and canticles 210 and 220 held it against a stylist. Here the Greek behind it is εἰς τὸν αἰῶνα, which D23 renders 'para sempre' when the Latin says in ætérnum or in sǽculum. The Latin still says in sǽcula, and rule 1 follows the Latin. MS1932, the Lectionary and the LH have 'para sempre'.",
+      "options": [
+        {
+          "label": "pelos séculos",
+          "forms": {
+            "insaecula": "pelos séculos"
+          },
+          "note": "Draft, D43. A proparoxytone at the final, as in 220.",
+          "from": "glossary"
+        },
+        {
+          "label": "para sempre",
+          "forms": {
+            "insaecula": "para sempre"
+          },
+          "note": "The Lectionary, the LH and MS1932, and the Greek phrase's word under D23. A paroxytone close.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "abraham",
+      "refs": [
+        "1:55"
+      ],
+      "latin": "Ábraham, et sémini ejus",
+      "kind": "ambiguity",
+      "why": "Ábraham does not decline, so it may be a dative beside sémini (he spoke *to Abraham and to his seed*, DRB, the Vulgate's usual reading) or stand in apposition to patres. *a Abraão e à sua descendência* is the dative pair. The v1 stylist heard a stumble in *a Abraão e à* and asked to drop the preposition. The hiatus is accepted, as 104:42 *a Abraão, seu servo* and 231 1:73 *a Abraão, nosso pai*.",
+      "options": [
+        {
+          "label": "a Abraão e à sua descendência",
+          "forms": {
+            "abraham": "a Abraão e à sua descendência"
+          },
+          "note": "Draft: the dative pair, as 104:42 and 231.",
+          "from": "draft"
+        },
+        {
+          "label": "Abraão, e à sua descendência",
+          "forms": {
+            "abraham": "Abraão, e à sua descendência"
+          },
+          "note": "The v1 stylist. It takes Abraham as apposition to *pais* and leaves *e à sua descendência* hanging on *falou*.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "1:46": "DO keys the canticle by Luke's own verses (1:46–1:55), as 231 and 233. The '+' (where the sign of the cross is made; not a flex, see 233) is kept directly before the mediant, as in the Latin. The heading line (Canticum B. Mariæ Virginis * Luc. 1:46-55) is not translated (D7). ánima mea → 'a minha alma' (the row).",
+    "1:47": "salutári meo → 'meu Salvador': the salutáris-of-God row (Greek σωτῆρι, a person), as 94:1 'a Deus, nosso Salvador'. D6's 'salvação' is for the neuter salutáre. spíritus meus → 'o meu espírito' (76:4, 142:7a). The colon after 'exultou' in the Latin is not reproduced: Portuguese syntax runs on into 'em Deus'. Second colon −3 on the Latin; the name 'Salvador' is shorter than salutári meo.",
+    "1:48": "quia → 'Porque' (the default), in both 1:48 and 1:49, keeping the Latin's repetition. respícere → 'olhar para' (30:8, 101:18). ancílla → 'serva' (the row; 85:16, 115:7a). ecce enim → 'pois eis que' (the ecce and enim rows). ex hoc (ἀπὸ τοῦ νῦν) → 'desde agora', as the formula ex hoc nunc (112:2); the Lectionary's 'Doravante' is one word, but it is literary. beátam → 'bem-aventurada' (D19) against the LH's 'bendita', which is benedícta's word. v2: commas around *desde agora*, as the v1 stylist asked, so that the voice rests after *pois eis que*; *pois* stays for enim.",
+    "1:49": "'e santo é o seu nome': the copula supplied, as 110:9b 'Santo e terrível é o seu nome'. The LH ends on the same words.",
+    "1:50": "misericórdia → misericórdia (the LH's 'amor' refused). eum → 'o' (God, third person, as the canticle speaks of him).",
+    "1:51": "dispersou the soberbos: 'soberbos' is the row (118:21 'Repreendestes os soberbos'); the LH's 'orgulhosos' refused. First colon −2, second +3/+4 on the Latin: the phrase mente cordis sui is kept whole. v2: a colon before the mediant, as the Latin has.",
+    "1:52": "Derrubou (v2; decision deposuit). exaltáre → 'exaltar' (26:6); húmiles → 'os humildes' (D27, 101:18). The hiatus 'e exaltou' is accepted: there is no natural order that avoids it, and the LH's 'e os humildes exaltou' is an inversion.",
+    "1:53": "esuriéntes → 'famintos' (106:36, 145:7a); impléri bonis → 'encher de bens', as 106:9 'saciou de bens'. dívites → 'os ricos' (33:11). The two cola mirror each other (verb + complement + noun), as the Latin's chiasm does in its own way; the Lectionary's first colon is the same words.",
+    "1:54": "Israël → Israel. The commas around 'seu servo' mark the apposition, as 104:42.",
+    "1:55": "sicut → 'Como' (231, 1:70). locútus est ad → 'falou a'. patres nostros → 'os nossos pais' (21:5, 43:2; 231). Ábraham → 'Abraão' (104:42). semen → 'descendência' (D32). The Latin leaves open whether 'Ábraham, et sémini ejus' depends on 'locútus est' (he spoke to Abraham) or on 'misericórdiæ' in 1:54 (mercy to Abraham). 'a Abraão' after the mediant keeps both readings open. First colon −3 on the Latin."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm232.txt. It is the Clementine Vulgate of Luke 1:46–55, not the Gallican, and it matches the Bolls VULG text word for word (consult/ps232/bolls-VULG-42-1.json). The Diurnal Monástico 1962 prints the same Latin (Sunday Vespers, OCR p. 199). Verse ids are Luke's, as in 231 and 233."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py builds only Latin + pt-PT for a canticle, so ps232/show_parallels.py (adapted from ps231) builds consult/parallels/ps232.md. Its sources are: Bolls VULG, TISCH and DRB of Luke 1 (copied from consult/ps231); Challoner's notes from drbo.org; MS1932 from the text layer of the 1932 PDF (pdftotext, consult/ps232/ms1932-luke1-46.txt); and the Diurnal Monástico 1962, Sunday Vespers, retyped from its OCR (consult/ps232/dm1962-magnificat.txt). DO's Portuguese of this canticle is the Diurnal's text. The CNBB LH (Vespers) and Lectionary wordings were fetched and are recorded in circulation.md. Copied from the glossary and finished texts: magnificáre (33:4), exsultávit (223 2:1), salutáris of God (94:1), respícere + humílitas (30:8), ancílla (85:16), beátus (D19), magna (magnália row), sanctum nomen (110:9b), progénies (48:12), timéntibus (30:20), in brácchio (76:15), dispérgere (88:11), supérbus (118:21), sedes → trono, húmiles (D27), esuriéntes + bonis (106:9), suscípere (D19), puer → servo (231, 104:42), recordári (97:3), patres nostri (231), semen (D32), in sǽcula (D43). Hardest: 1:48 humílitas (humildade, against the row's humilhação and the LH's pequenez), 1:46 the order around the '+' and the mediant, and 1:51 fecit poténtiam."
+    },
+    {
+      "step": "checks",
+      "note": "The shared checks.py crashes on this Latin: \"Magníficat + *\" leaves an empty colon between the cross and the mediant, and measure() indexes the last word of an empty list. It was not edited; ps232/checks232.py is a local copy whose only change is that an empty colon measures 0. Hard checks pass: verse ids and marks (+ and * in 1:46) match the Latin. Soft flags: 1:47 second colon -3 (meu Salvador is shorter than salutári meo); 1:48 second colon +4 (desde agora, bem-aventurada); 1:51 second colon +5 (no pensamento do seu coração keeps mente cordis sui whole); 1:55 second colon +4 (descendência, pelos séculos). The finals of 1:46 and 1:47 rhyme (Senhor / Salvador): it is the pair both Brazilian books have, and the words are the Latin's; kept, flagged for the stylist."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. One minor, no majors. It confirmed the tenses, persons, images (dimisit inanes, mente cordis sui), the open Abraham construction, and the + and * marks.",
+      "outcomes": [
+        {
+          "verse": "1:51",
+          "remark": "fecit potentiam: the object turned into a manner; fez potência",
+          "outcome": "option",
+          "decision": "v51a",
+          "reason": "Row 135 agir com poder was held against the same request at 107:14; *fazer potência* is not Portuguese. It is recorded as an option."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. Four remarks: two taken, two held as options. Worst line 1:51, best 1:53.",
+      "outcomes": [
+        {
+          "verse": "1:48",
+          "remark": "pois eis que runs together, long colon; commas",
+          "outcome": "taken",
+          "reason": "Commas around desde agora; pois kept for enim, as the stylist allowed."
+        },
+        {
+          "verse": "1:49",
+          "remark": "me fez grandes coisas heard as \"made me into\"; fez por mim … aquele que é poderoso",
+          "outcome": "taken",
+          "decision": "fecit",
+          "reason": "fez por mim taken. aquele que refused: +2 syllables, and quem é poderoso was heard rightly by the ambiguity reader. The subject stays last, as in the Latin."
+        },
+        {
+          "verse": "1:51",
+          "remark": "com … com; potência technical; no pause; mostrou o seu poder",
+          "outcome": "option",
+          "decision": "v51a",
+          "reason": "The pause is taken (a colon before *). potência is the poténtia row, refused to stylists at 88:13 and 216; mostrou adds a verb and spends virtus's poder."
+        },
+        {
+          "verse": "1:55",
+          "remark": "a Abraão e à hiatus; Abraão in apposition",
+          "outcome": "option",
+          "decision": "abraham",
+          "reason": "The dative pair is the Latin's likelier construction, and the hiatus has precedent (104:42; 231 1:73)."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, read the Portuguese only. Thirteen readings; two unknown words (soberbos, Depôs).",
+      "outcomes": [
+        {
+          "verse": "1:48",
+          "remark": "humildade heard as the virtue first",
+          "outcome": "refused",
+          "decision": "humilitas",
+          "reason": "The Latin carries both senses; the lowliness reading is listed second. pequenez stays the option for Gustavo."
+        },
+        {
+          "verse": "1:49",
+          "remark": "me fez … heard as \"made me into\"; quem as a question",
+          "outcome": "taken",
+          "decision": "fecit",
+          "reason": "fez por mim."
+        },
+        {
+          "verse": "1:51",
+          "remark": "com potência may run into dispersou",
+          "outcome": "taken",
+          "reason": "A colon before the mediant."
+        },
+        {
+          "verse": "1:51",
+          "remark": "seu coração: God's heart possible",
+          "outcome": "refused",
+          "decision": "mente",
+          "reason": "sui is open in the Latin; kept deliberately."
+        },
+        {
+          "verse": "1:52",
+          "remark": "Depôs unknown",
+          "outcome": "taken",
+          "decision": "deposuit",
+          "reason": "Derrubou, the word in both CNBB books and the Diurnal, in the Latin's sense."
+        },
+        {
+          "verse": "1:51",
+          "remark": "soberbos unknown",
+          "outcome": "refused",
+          "reason": "The supérbus row (118:21), used across the psalter."
+        },
+        {
+          "verse": "1:55",
+          "remark": "pelos séculos attached to falou or descendência",
+          "outcome": "refused",
+          "reason": "The Latin has the same attachment question; the likely hearing is the Latin's."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 1:48 commas around desde agora; 1:49 fez por mim (decision fecit); 1:51 a colon before *; 1:52 Derrubou (decision deposuit). New decision abraham for the stylist's refused form. prayed.v1.json and prayed.v1.vos.json are kept: they are the text the v1 readers read."
+    },
+    {
+      "step": "checks",
+      "note": "v2, run with ps232/checks232.py (the shared checks.py still fails on the empty colon in \"Magníficat + *\"). Hard checks pass. New soft flag, accepted: 1:49a +3 (\"fez por mim\", which removes the \"made me into\" hearing that two readers reported). 1:47b −3, 1:48b +4, 1:51b +5 and 1:55b +4 are unchanged from v1, and so is the Senhor / Salvador rhyme."
+    },
+    {
+      "step": "latinist",
+      "version": 2,
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2: claude-opus-5-5, fresh context, with latin.json. No majors, one minor, taken. It confirmed the tenses, persons, images, the open Abraham apposition, and the + and * marks in every verse.",
+      "outcomes": [
+        {
+          "verse": "1:49",
+          "remark": "por mim may be heard as \"through me\" / \"in my place\"; fez em mim",
+          "outcome": "taken",
+          "decision": "fecit",
+          "reason": "Only this preposition changes, to the MS1932 and Diurnal wording; checks re-run and they pass."
+        }
+      ]
+    }
+  ]
+}
