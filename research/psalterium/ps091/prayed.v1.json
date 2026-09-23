@@ -1,0 +1,229 @@
+{
+  "psalm": 91,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "91:2": "É bom dar graças ao Senhor: * e entoar salmos{altissime}.",
+    "91:3": "Para anunciar de manhã a vossa misericórdia: * e a vossa verdade durante a noite.",
+    "91:4": "{decachordo}: * com cântico, com a cítara.",
+    "91:5": "Porque me alegrastes, Senhor, {factura}: * e nas obras das vossas mãos exultarei.",
+    "91:6": "{magnificata} as vossas obras, Senhor! * {profundae} os vossos pensamentos.",
+    "91:7": "O homem insensato não {cognoscet}: * e o tolo não entenderá estas coisas.",
+    "91:8": "Quando os pecadores {exorti} como {faenum}: * e aparecerem todos os que praticam a iniquidade:",
+    "91:9": "{ut} {intereant} pelos séculos dos séculos: * mas vós sois {altissimus} para sempre, Senhor.",
+    "91:10": "Porque eis que os vossos inimigos, Senhor, porque eis que os vossos inimigos perecerão: * e serão dispersos todos os que praticam a iniquidade.",
+    "91:11": "E o meu chifre será exaltado {unicornis}: * e a minha velhice{v11b} {uber}.",
+    "91:12": "E o meu olho {despexit} os meus inimigos: * e {ininsurg} que se levantam contra mim ouvirá o meu ouvido.",
+    "91:13": "{v13a}: * como o cedro do Líbano {multiplicabitur}.",
+    "91:14": "Plantados na casa do Senhor, * nos átrios da casa do nosso Deus florescerão.",
+    "91:15": "Ainda {multiplicabuntur} numa velhice {uber}: * e {benepatientes}, para que anunciem:",
+    "91:16": "{v16a}: * e não há iniquidade nele."
+  },
+  "decisions": [
+    {
+      "id": "altissime", "refs": ["91:2"], "latin": "et psállere nómini tuo, Altíssime", "kind": "order",
+      "why": "The Latin closes the verse on the vocative Altíssime, a proparoxytone; the brief wants the last stress on the last or second-last syllable. Ps 9:3 (the same colon, psallam nómini tuo, Altíssime) moved the vocative to the head of the colon. Here the colon opens with 'e entoar', so the vocative goes inside, after the verb — which also keeps the Responsory's split (R. Bonum est confitéri Dómino, allelúja: * Et psállere, allelúja) whole: 'e entoar salmos' stands by itself.",
+      "options": [
+        {"label": ", Altíssimo, ao vosso nome", "forms": {"altissime": ", Altíssimo, ao vosso nome"}, "note": "draft — vocative moved inside the colon; closes on 'nome'", "from": "draft"},
+        {"label": "ao vosso nome, Altíssimo", "forms": {"altissime": " ao vosso nome, Altíssimo"}, "note": "the Latin's order; the verse ends on a proparoxytone, as the Latin's does", "from": "draft"},
+        {"label": "ao vosso nome, ó Altíssimo", "forms": {"altissime": " ao vosso nome, ó Altíssimo"}, "note": "MS1932's 'ó Altíssimo'; same cadence problem", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "decachordo", "refs": ["91:4"], "latin": "In decachórdo, psaltério", "kind": "word",
+      "why": "The DO Latin has a comma: two nouns, decachórdum (Lewis & Short: 'a musical instrument of ten strings', citing this very verse) and psaltérium; the Greek ἐν δεκαχόρδῳ ψαλτηρίῳ is one instrument, 'a ten-stringed psaltery' (MS1932 follows that). 'As dez cordas' keeps the Latin's noun (the ten-string thing) in one short phrase and still lets the ear take it as the psaltery's strings — the Latin's two readings both stay open. 'Com o instrumento de dez cordas' is +6 syllables; 'decacórdio' is a dictionary word no one knows. 'Com' for in + instrument follows 32:2 and 48:5.",
+      "options": [
+        {"label": "Com as dez cordas, com o saltério", "forms": {"decachordo": "Com as dez cordas, com o saltério"}, "note": "draft — two nouns as the DO Latin punctuates, the first named by its strings", "from": "draft"},
+        {"label": "Com o saltério de dez cordas", "forms": {"decachordo": "Com o saltério de dez cordas"}, "note": "one instrument, as the Greek and MS1932; = 32:2's wording for in psaltério decem chordárum", "from": "MS1932"},
+        {"label": "Com o instrumento de dez cordas, com o saltério", "forms": {"decachordo": "Com o instrumento de dez cordas, com o saltério"}, "note": "DRB 'upon an instrument of ten strings, upon the psaltery'; +6 syllables", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "factura", "refs": ["91:5"], "latin": "in factúra tua", "kind": "word",
+      "why": "Factúra (ποίημα, 'a thing made') is a second word beside ópera (ἔργα) in the same verse, so it should not also be 'obra' (MS1932 merges them: 'com as tuas obras … com as obras'). The cognate 'feitura' is exact but is heard as Bible-speak or as 'the making of' something. The clause 'o que fizestes' keeps the root of fácere, stays apart from 'obras', and is how D16 handled a noun Portuguese has no plain word for.",
+      "options": [
+        {"label": "com o que fizestes", "forms": {"factura": "com o que fizestes"}, "note": "draft — the noun as a clause of the same root", "from": "draft"},
+        {"label": "com a vossa feitura", "forms": {"factura": "com a vossa feitura"}, "note": "the exact cognate; rare in this sense", "from": "draft"},
+        {"label": "com a vossa obra", "forms": {"factura": "com a vossa obra"}, "note": "plain, but merges factúra with ópera in the next colon", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "magnificata", "refs": ["91:6"], "latin": "Quam magnificáta sunt ópera tua", "kind": "word",
+      "why": "Magnificáre → engrandecer (glossary). The Latin perfect passive (ἐμεγαλύνθη) says the works have become great; the second colon says the thoughts 'factæ sunt' deep — two verbs of becoming. 'Como se engrandeceram' keeps the verb and matches 'se tornaram' in the second colon. 'Foram engrandecidas' keeps the voice but is heard as 'have been praised' (by men). 'Como são grandes' (DRB) drops the verb. The colon is also the Sunday Vespers short responsory (Quam magnificáta sunt * ópera tua, Dómine): 'Como se engrandeceram * as vossas obras, Senhor' divides there cleanly.",
+      "options": [
+        {"label": "Como se engrandeceram", "forms": {"magnificata": "Como se engrandeceram"}, "note": "draft — the verb kept, as a verb of becoming", "from": "draft"},
+        {"label": "Como foram engrandecidas", "forms": {"magnificata": "Como foram engrandecidas"}, "note": "the Latin passive to the letter", "from": "draft"},
+        {"label": "Como são grandes", "forms": {"magnificata": "Como são grandes"}, "note": "DRB 'how great are thy works'; the verb lost", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "profundae", "refs": ["91:6"], "latin": "nimis profúndæ factæ sunt", "kind": "word",
+      "why": "Nimis here is σφόδρα, the Greek of valde: 'muito', as the nimis row does at 47:2 and 118:96 ('sem medida' is kept for places where 'beyond measure' is the sense). Factæ sunt → 'se tornaram' (the fíeri row's word for a state that came about).",
+      "options": [
+        {"label": "Muito profundos se tornaram", "forms": {"profundae": "Muito profundos se tornaram"}, "note": "draft", "from": "draft"},
+        {"label": "Sem medida profundos se tornaram", "forms": {"profundae": "Sem medida profundos se tornaram"}, "note": "the nimis row's 118:138 rendering; heavy here", "from": "glossary"},
+        {"label": "Muito profundos se fizeram", "forms": {"profundae": "Muito profundos se fizeram"}, "note": "fazer-se, the fíeri row's first word", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "cognoscet", "refs": ["91:7"], "latin": "Vir insípiens non cognóscet", "kind": "word",
+      "why": "Cognóscere with no object of its own (hæc comes only at the end of the second colon). The glossary's rule: 'conhecer' wants an object, so 13:4 Nonne cognóscent omnes took 'saber'. 'Não saberá' is how Portuguese says 'will not know' absolutely; 'não conhecerá' keeps the row's verb and can take hæc as a shared object.",
+      "options": [
+        {"label": "saberá", "forms": {"cognoscet": "saberá"}, "note": "draft — as 13:4", "from": "glossary"},
+        {"label": "conhecerá", "forms": {"cognoscet": "conhecerá"}, "note": "the row's verb; MS1932 'não conhecerá'", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "exorti", "refs": ["91:8"], "latin": "Cum exórti fúerint peccatóres sicut fænum", "kind": "word",
+      "why": "Exóriri is 'rise, spring up' (ἀνατεῖλαι, used of the sun and of plants); with grass beside it the plant's sense is the one the image makes. 'Brotar' is MS1932's word and says it concretely. The future perfect is given as the Portuguese future subjunctive (grammar).",
+      "options": [
+        {"label": "brotarem", "forms": {"exorti": "brotarem"}, "note": "draft; MS1932 'tiverem brotado'", "from": "MS1932"},
+        {"label": "surgirem", "forms": {"exorti": "surgirem"}, "note": "keeps the 'rising' of the verb, loses the plant", "from": "draft"},
+        {"label": "tiverem brotado", "forms": {"exorti": "tiverem brotado"}, "note": "the future perfect to the letter", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "faenum", "refs": ["91:8"], "latin": "sicut fænum", "kind": "glossary",
+      "why": "The fænum row splits by what the verse does: hay where it dries (36:2 'feno'), grass where it grows (71:16 'erva', after two readers refused flowering hay). Here it springs up: 'erva'.",
+      "options": [
+        {"label": "a erva", "forms": {"faenum": "a erva"}, "note": "draft — the row's word for growing grass; MS1932 'a erva'", "from": "glossary"},
+        {"label": "o feno", "forms": {"faenum": "o feno"}, "note": "the row's other word; wrong for springing up", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "ut", "refs": ["91:9"], "latin": "Ut intéreant", "kind": "grammar",
+      "why": "91:8 is a when-clause with no main verb; the Latin answers it with a bare purpose clause (Cum … : Ut intéreant — '[it is] that they may perish'). Portuguese needs the copula to make it a sentence ('Quando … : é para que …'); a copula is what D2 lets the ear supply. Without it the purpose clause hangs. MS1932 instead supplies a new verb ('imediatamente perecerão'), which changes the Latin.",
+      "options": [
+        {"label": "É para que", "forms": {"ut": "É para que"}, "note": "draft — the copula supplied", "from": "draft"},
+        {"label": "Para que", "forms": {"ut": "Para que"}, "note": "the Latin's bare clause (DRB 'That they may perish')", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "intereant", "refs": ["91:9"], "latin": "intéreant", "kind": "glossary",
+      "why": "Interíre (ἐξολεθρευθῶσιν, the Greek behind both disperíre and interíre in Ps 36) → 'extinguir-se' by the disperíre / interíre row (36:38 'se extinguirá'); 'morrer' is for a man's death (48:18). It stays apart from períre → 'perecer', which follows in the next verse (períbunt).",
+      "options": [
+        {"label": "se extingam", "forms": {"intereant": "se extingam"}, "note": "draft — the row's word", "from": "glossary"},
+        {"label": "pereçam", "forms": {"intereant": "pereçam"}, "note": "DRB, MS1932 'perish'; merges with períbunt in 91:10", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "altissimus", "refs": ["91:9"], "latin": "tu autem Altíssimus in ætérnum, Dómine", "kind": "word",
+      "why": "Altíssimus is the predicate. 'O Altíssimo' makes it the divine name, echoing the vocative Altíssime of 91:2; 'altíssimo' (DRB 'most high') makes it a description. The Greek ὕψιστος is both. The name is kept for the echo; the Latin order keeps the vocative last, so the verse ends on 'Senhor'.",
+      "options": [
+        {"label": "o Altíssimo", "forms": {"altissimus": "o Altíssimo"}, "note": "draft; MS1932 'és eternamente o Altíssimo'", "from": "MS1932"},
+        {"label": "altíssimo", "forms": {"altissimus": "altíssimo"}, "note": "the adjective, DRB 'art most high'", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "unicornis", "refs": ["91:11"], "latin": "sicut unicórnis cornu meum", "kind": "grammar",
+      "why": "Unicórnis is nominative or genitive (the forms are the same); the Greek μονοκέρωτος is genitive, 'as a unicorn's'. 'Como o do unicórnio' takes that reading, the one DRB and MS1932 take; 'como um unicórnio' compares the horn with the whole animal. The unicorn stays (the unicórnis row).",
+      "options": [
+        {"label": "como o do unicórnio", "forms": {"unicornis": "como o do unicórnio"}, "note": "draft — MS1932 'como a do unicórnio'", "from": "MS1932"},
+        {"label": "como o de um unicórnio", "forms": {"unicornis": "como o de um unicórnio"}, "note": "indefinite", "from": "draft"},
+        {"label": "como um unicórnio", "forms": {"unicornis": "como um unicórnio"}, "note": "the nominative reading", "from": "draft"}
+      ]
+    },
+    {
+      "id": "v11b", "refs": ["91:11"], "latin": "et senéctus mea in misericórdia úberi", "kind": "grammar",
+      "why": "The second colon has no verb: exaltábitur carries over. The Latin reads misericórdia where the Greek has ἐλαίῳ ('in rich oil' — ἐλαίῳ / ἐλέει); the Latin is followed (rule 1). The ellipsis is kept, with a comma to mark it; supplying 'estará' would say what the Latin leaves to the first verb.",
+      "options": [
+        {"label": ", numa misericórdia", "forms": {"v11b": ", numa misericórdia"}, "note": "draft — ellipsis kept", "from": "draft"},
+        {"label": "estará numa misericórdia", "forms": {"v11b": " estará numa misericórdia"}, "note": "a verb supplied", "from": "draft"},
+        {"label": "na misericórdia", "forms": {"v11b": " na misericórdia"}, "note": "DRB 'and my old age in plentiful mercy'", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "uber", "refs": ["91:11", "91:15"], "latin": "in misericórdia úberi · in senécta úberi", "kind": "word",
+      "why": "The same adjective twice (úber: 'rich, fruitful, fertile, abundant' — Lewis & Short; from 'udder'; the Greek πίων, 'fat'), so one word for both (rule 6). 'Fecunda' fits both: MS1932 has 'velhice fecunda', and the fruitfulness belongs to a psalm of trees that flower and multiply. 'Abundante' is right for mercy but odd for old age; 'farta' (ubértas → fartura, 35:9) is odd for both; 'rica' would make the old age wealthy.",
+      "options": [
+        {"label": "fecunda", "forms": {"uber": "fecunda"}, "note": "draft — one word for both places", "from": "MS1932"},
+        {"label": "abundante", "forms": {"uber": "abundante"}, "note": "DRB 'plentiful mercy'; odd with velhice", "from": "DRB"},
+        {"label": "farta", "forms": {"uber": "farta"}, "note": "the ubértas row's root", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "despexit", "refs": ["91:12"], "latin": "Et despéxit óculus meus inimícos meos", "kind": "glossary",
+      "why": "The same words as 53:9 (despéxit óculus meus), which reads 'o meu olho olhou de cima para os meus inimigos'; here the accusative takes 117:7's build without 'para'. The despícere (enemies) row keeps both the literal 'look down on' and its contempt. The jingle 'olho olhou' is the row's known cost, accepted at 53:9; 'viu de cima' is the row's alternative.",
+      "options": [
+        {"label": "olhou de cima", "forms": {"despexit": "olhou de cima"}, "note": "draft — = 53:9, 117:7", "from": "glossary"},
+        {"label": "viu de cima", "forms": {"despexit": "viu de cima"}, "note": "the row's alternative, against the jingle", "from": "glossary"},
+        {"label": "olhou com desprezo para", "forms": {"despexit": "olhou com desprezo para"}, "note": "MS1932; the contempt only", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "ininsurg", "refs": ["91:12"], "latin": "et in insurgéntibus in me malignántibus áudiet auris mea", "kind": "ambiguity",
+      "why": "The Latin gives no object to 'hear': in + ablative, 'in the case of / concerning' the malignant who rise against me. DRB supplies 'the downfall'; MS1932 'ouvirão falar (sem medo)'. 'Ouvir dos malvados' is 'hear of' and also 'hear from' — both open, and nothing supplied. Malignántes → malvados (D24); insúrgere in → levantar-se contra.",
+      "options": [
+        {"label": "dos malvados", "forms": {"ininsurg": "dos malvados"}, "note": "draft — nothing supplied", "from": "draft"},
+        {"label": "acerca dos malvados", "forms": {"ininsurg": "acerca dos malvados"}, "note": "'concerning', the one reading", "from": "draft"},
+        {"label": "a queda dos malvados", "forms": {"ininsurg": "a queda dos malvados"}, "note": "DRB's supplied 'downfall' — refused: says what the Latin does not", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "v13a", "refs": ["91:13"], "latin": "Justus, ut palma florébit", "kind": "order",
+      "why": "The Latin order keeps the two colons parallel — comparison, then verb: 'como a palmeira florescerá: * como o cedro do Líbano se multiplicará' — and both colons end on an oxytone future. The plain order 'O justo florescerá como a palmeira' is the familiar line and is the option. The verse is said alone as a versicle (V. Justus ut palma florébit. R. Sicut cedrus Líbani multiplicábitur) and as the Introit of Doctors with 91:14's 'in domo Dómini'; both orders read alone.",
+      "options": [
+        {"label": "O justo, como a palmeira, florescerá", "forms": {"v13a": "O justo, como a {palma}, florescerá"}, "note": "draft — the Latin's order", "from": "draft"},
+        {"label": "O justo florescerá como a palmeira", "forms": {"v13a": "O justo florescerá como a {palma}"}, "note": "natural order; MS1932", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "palma", "refs": ["91:13"], "latin": "ut palma", "kind": "word",
+      "why": "Palma is the tree (φοῖνιξ, the date palm). In Brazil 'palma' is first the palm of the hand or a palm branch (and a cactus in the northeast); 'palmeira' is the tree.",
+      "options": [
+        {"label": "palmeira", "forms": {"palma": "palmeira"}, "note": "draft", "from": "draft"},
+        {"label": "palma", "forms": {"palma": "palma"}, "note": "the cognate; MS1932", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "multiplicabitur", "refs": ["91:13", "91:15"], "latin": "multiplicábitur · multiplicabúntur", "kind": "word",
+      "why": "Multiplicári → multiplicar-se (glossary), twice in the psalm, so one verb. Of a single cedar it is strange (DRB turns it 'grow up', from the Hebrew's sense); the Latin (πληθυνθήσεται) says multiply, and in 91:15 the just in the plural 'multiply' in old age. Kept.",
+      "options": [
+        {"label": "se multiplicará / se multiplicarão", "forms": {"multiplicabitur": "se multiplicará", "multiplicabuntur": "se multiplicarão"}, "note": "draft — the row's verb; MS1932", "from": "glossary"},
+        {"label": "crescerá / crescerão", "forms": {"multiplicabitur": "crescerá", "multiplicabuntur": "crescerão"}, "note": "DRB 'grow up'; another verb (créscere)", "from": "DRB"}
+      ]
+    },
+    {
+      "id": "benepatientes", "refs": ["91:15"], "latin": "et bene patiéntes erunt", "kind": "ambiguity",
+      "why": "Bene patiéntes is a calque of εὐπαθοῦντες, 'faring well'; Lewis & Short give pati its sense 'to experience, be in a certain state'. A Latin ear can also hear 'enduring well' (a reading of patience is said to be Augustine's — from memory, unverified). Portuguese has no phrase that holds both; word for word ('bem sofrendo', 'bem pacientes') is not a sentence or says 'very patient'. The draft takes the sense the calque was made to carry, plainly and without adding (MS1932 'cheios de vigor' and DRB 'well treated' each add).",
+      "options": [
+        {"label": "estarão bem", "forms": {"benepatientes": "estarão bem"}, "note": "draft — the Greek's sense, nothing added", "from": "draft"},
+        {"label": "passarão bem", "forms": {"benepatientes": "passarão bem"}, "note": "'passar' as 'undergo', like pati; colloquial, and 'passarão' can be heard as 'pass by'", "from": "draft"},
+        {"label": "serão pacientes", "forms": {"benepatientes": "serão pacientes"}, "note": "the word patiens kept; the patience reading only, bene lost", "from": "draft"},
+        {"label": "estarão cheios de vigor", "forms": {"benepatientes": "estarão cheios de vigor"}, "note": "MS1932", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "v16a", "refs": ["91:16"], "latin": "Quóniam rectus Dóminus, Deus noster", "kind": "order",
+      "why": "Quóniam here is 'that' (ut annúntient quóniam — announce that), continuing 91:15. 'Que o Senhor, nosso Deus, é reto' is a plain content clause. With the Latin's order, 'Que reto é o Senhor' is heard as an exclamation ('how upright the Lord is!'), which the Latin is not. The Latin's noster is followed against the Greek μου.",
+      "options": [
+        {"label": "Que o Senhor, nosso Deus, é reto", "forms": {"v16a": "Que o Senhor, nosso Deus, é reto"}, "note": "draft; MS1932 'que o Senhor nosso Deus é recto'", "from": "MS1932"},
+        {"label": "Que é reto o Senhor, nosso Deus", "forms": {"v16a": "Que é reto o Senhor, nosso Deus"}, "note": "closer to the Latin's order; closes on 'Deus'", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "91:2": "confitéri → dar graças a (D5); psállere → entoar salmos (D25). 'É bom' for Bonum est (not 'Bom é'), the natural order. The verse is the Offertory / Gradual of several Masses and a Responsory (R. Bonum est confitéri Dómino, allelúja: * Et psállere, allelúja); it reads alone. The switch from 'Dómino' (third person) to 'nómini tuo' (second) is the Latin's and is kept.",
+    "91:3": "annuntiáre → anunciar (D41); mane → de manhã (row); per noctem → durante a noite (the nox row's build, singular here). véritas → verdade (row), not the Hebrew-based 'fidelidade'. Read alone as a Gradual/Alleluia verse (Ad annuntiándum mane …): it does.",
+    "91:4": "in + instrument → com, as 32:2 and 48:5; cum cántico → com cântico. The Latin's in / cum distinction is lost (grammar). The colon ends on 'cítara', a proparoxytone, as the Latin's ends on 'cíthara' — accepted as at 56:9. cíthara → cítara, psaltérium → saltério (rows).",
+    "91:5": "delectáre (causative, εὔφρανας) → alegrar, as 29:2 and 64:8 (the delectári row). exsultáre in → exultar em (row). The Latin's verb-last order kept in the second colon: it ends on an oxytone.",
+    "91:6": "cogitátio → pensamento (row; this verse named there).",
+    "91:7": "vir → homem; insípiens → insensato, stultus → tolo (D43; 48:11 has the pair: 'o insensato e o tolo'); intellégere → entender.",
+    "91:8": "apparére → aparecer; operári iniquitátem → praticar a iniquidade (row, = 91:10). The verse ends on a colon: its sentence runs into 91:9.",
+    "91:9": "in sǽculum sǽculi → pelos séculos dos séculos (D27); in ætérnum → para sempre (D23).",
+    "91:10": "The Latin's repetition 'quóniam ecce inimíci tui … quóniam ecce inimíci tui' kept whole, vocative and all. ecce → eis (que); períre → perecer; dispérgere (people) → dispersar, passive, as 58:16. Long verse, as the Latin's.",
+    "91:11": "cornu → chifre (row), exaltáre → exaltar (row: 74:11 'serão exaltados os chifres do justo'). senéctus → velhice.",
+    "91:12": "óculus singular → o meu olho (row); auris → o meu ouvido (singular, as the Latin). The tenses are the Latin's: perfect despéxit, future áudiet.",
+    "91:13": "cedrus Líbani → o cedro do Líbano (36:35 'os cedros do Líbano').",
+    "91:14": "'na casa do Senhor … nos átrios da casa do nosso Deus' = the formula of 133:1b / 134:2 (átrium → átrio, domus → casa).",
+    "91:15": "senécta → velhice (as senéctus in 91:11; 70:18). adhuc → ainda (41:6b). ut annúntient → para que anunciem; the verse ends on a colon, its object is 91:16.",
+    "91:16": "rectus → reto; iníquitas → iniquidade (row), where the Greek has ἀδικία."
+  },
+  "audit": [
+    {"step": "source", "note": "Latin = DO Psalm91.txt (15 prayed verses, 91:2–91:16; no titulus, D7)."},
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps091.md. Hard readings: 91:4 decachórdum as a noun (L&S cites this verse); 91:5 factúra beside ópera; 91:8–9 the when-clause answered by a bare purpose clause; 91:11 misericórdia where the Greek has 'oil' (followed, rule 1), and the verbless second colon; 91:12 'hear' with no object; 91:15 bene patiéntes (calque of εὐπαθοῦντες). Liturgical pieces checked by grep in content/do (Latin): 91:2 (Offertory, Responsory), 91:3 (Gradual verse), 91:6a (Sunday Vespers short responsory Quam magnificáta sunt * ópera tua, Dómine), 91:13 (versicle; with 91:14's in domo Dómini the Introit/Gradual of Commune C4a, C5)."},
+    {"step": "checks", "note": "Draft 1: hard pass. Soft, all accepted: 91:2b +3 (the vocative moved inside the colon; two-word 'entoar salmos', D25's known cost); 91:3b +3 ('durante a noite' for per noctem); 91:5b −4 (Portuguese is shorter than 'opéribus mánuum tuárum'); 91:7b +4 ('estas coisas' for hæc); 91:9a +5 (the supplied copula and the reflexive 'se extingam'); 91:11a +3 ('como o do' for the genitive); 91:13a +5 (the article and 'palmeira'). 91:4b closes on the proparoxytone 'cítara', as the Latin closes on 'cíthara' (as 56:9). No rhyme flags."}
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "psalm": 87,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "87:2": "Senhor, Deus da minha salvação: * de dia clamei, e de noite diante de vós.",
+    "87:3": "{intret} a minha oração: * inclinai o vosso ouvido à minha {precem}.",
+    "87:4": "Porque a minha alma está cheia de males: * e a minha vida se aproximou do {inferno}.",
+    "87:5": "Fui tido {cum} os que descem à cova: * tornei-me como um homem sem auxílio, {liber}.",
+    "87:6": "Como os feridos que dormem nos sepulcros, de quem já não vos lembrais: * e eles foram repelidos da vossa mão.",
+    "87:7": "Puseram-me na cova mais baixa: * {tenebrosis}, e na sombra da morte.",
+    "87:8": "Sobre mim {confirmatus} o vosso furor: * {v8b}.",
+    "87:9": "{longe} os meus conhecidos: * {abominationem}.",
+    "87:9b": "Fui entregue, e {egrediebar}: * os meus olhos {languerunt}.",
+    "87:10": "Clamei a vós, Senhor, o dia todo: * estendi para vós as minhas mãos.",
+    "87:11": "Acaso fareis maravilhas para os mortos: * ou os médicos {suscitabunt}, e vos darão graças?",
+    "87:12": "Acaso alguém narrará no sepulcro a vossa misericórdia, * e a vossa verdade {perditione}?",
+    "87:13": "Acaso serão conhecidas nas trevas as vossas maravilhas, * e a vossa justiça na terra do esquecimento?",
+    "87:14": "E eu clamei a vós, Senhor: * e de manhã a minha oração {praeveniet}.",
+    "87:15": "Por que, Senhor, {repellis} a minha oração: * desviais de mim a vossa face?",
+    "87:16": "Eu sou pobre, e em fadigas desde a minha juventude: * {exaltatus} fui humilhado e perturbado.",
+    "87:17": "Sobre mim passaram as vossas iras: * e os vossos terrores me perturbaram.",
+    "87:18": "Cercaram-me como água o dia todo: * {simul}.",
+    "87:19": "{elongasti} o amigo e o próximo: * e os meus conhecidos, {amiseria}."
+  },
+  "decisions": [
+    {
+      "id": "intret",
+      "refs": ["87:3"],
+      "latin": "Intret in conspéctu tuo orátio mea",
+      "kind": "glossary",
+      "why": "A verb of motion with in conspéctu: the conspéctus row says 'à vista de' fails with verbs of motion, and 118:170 (the same words, Intret … in conspéctu tuo) stands as 'Entre … na vossa presença'. 78:10b took MS1932's 'chegue' only because two prepositional 'entre' came just before it; nothing comes before it here. The colon is also the Saturday minor-hours antiphon (Intret orátio mea * in conspéctu tuo, Dómine; Psalmi minor) and the Introit of Quad1-6 (with 87:2), so it must read alone. It does. Verb first, subject last, as in the Latin and in 118:170.",
+      "options": [
+        {"label": "Entre na vossa presença", "forms": {"intret": "Entre na vossa presença"}, "note": "Ruling: the Latin's verb (intróire → entrar), as 118:170.", "from": "glossary"},
+        {"label": "Chegue à vossa presença", "forms": {"intret": "Chegue à vossa presença"}, "note": "MS1932; 78:10b's wording. Plainer, but 'chegar' is not intróire.", "from": "MS1932"},
+        {"label": "Entre à vossa vista", "forms": {"intret": "Entre à vossa vista"}, "note": "The conspéctus row's noun. Refused: the row itself says it fails with a verb of motion.", "from": "glossary"}
+      ]
+    },
+    {
+      "id": "precem",
+      "refs": ["87:3"],
+      "latin": "ad precem meam",
+      "kind": "glossary",
+      "why": "prex (δέησις) has no row; 39:2 exaudívit preces meas → 'escutou as minhas preces'. D35 gave 'prece' to deprecátio too, so one Portuguese word serves two Latin nouns; they do not meet in this psalm, where the pair is orátio / prex → 'oração / prece'. 'súplica' (MS1932) would end the verse on a proparoxytone.",
+      "options": [
+        {"label": "prece", "forms": {"precem": "prece"}, "note": "Ruling: as 39:2; paroxytone at the cadence.", "from": "glossary"},
+        {"label": "súplica", "forms": {"precem": "súplica"}, "note": "MS1932; proparoxytone at the final; also D35's option for deprecátio.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "inferno",
+      "refs": ["87:4"],
+      "latin": "et vita mea inférno appropinquávit",
+      "kind": "glossary",
+      "why": "The inférnus row (open, for Gustavo) has kept 'inferno' in every psalm so far (6:6, 9:18, 15:10, 17:6, 29:4, 30:18, 48:15). Here, as in 29:4, it is the realm of the dead that the psalmist is nearing, and a blind reader may hear the hell of the damned first. That is the row's known cost. Kept for the row.",
+      "options": [
+        {"label": "inferno", "forms": {"inferno": "inferno"}, "note": "Ruling: the row's word; DRB 'hell'.", "from": "glossary"},
+        {"label": "mundo dos mortos", "forms": {"inferno": "mundo dos mortos"}, "note": "29:4's option; a paraphrase.", "from": "glossary"},
+        {"label": "sepulcro", "forms": {"inferno": "sepulcro"}, "note": "MS1932. Refused: sepúlcrum is the Latin's own word in 87:6 and 87:12.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "cum",
+      "refs": ["87:5"],
+      "latin": "Æstimátus sum cum descendéntibus in lacum",
+      "kind": "grammar",
+      "why": "æstimári → 'ser tido' (D43); descendéntibus in lacum → 'os que descem à cova' (lacus row; 27:1, 29:4). cum is 'with', but 'fui tido com' is not how Portuguese says being reckoned among a company; 'entre' is (MS1932 'contado entre'). A preposition is grammar (D2). Cost: the same verse has inter → 'entre' in its second colon, so the Latin's two prepositions become one word.",
+      "options": [
+        {"label": "entre", "forms": {"cum": "entre"}, "note": "Ruling: the natural preposition; MS1932.", "from": "MS1932"},
+        {"label": "com", "forms": {"cum": "com"}, "note": "The Latin's preposition; 'tido com' is heard as 'held together with'.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "liber",
+      "refs": ["87:5"],
+      "latin": "inter mórtuos liber",
+      "kind": "ambiguity",
+      "why": "The famous crux: 'free among the dead' (ἐν νεκροῖς ἐλεύθερος; DRB 'free among the dead'), which the Fathers read of Christ. MS1932's 'abandonado' interprets, following the Hebrew's 'cast loose', and D2 refuses that. The Latin's word stays. The order is natural Portuguese (D2). The Latin's order, which ends the verse on the adjective, is option 2.",
+      "options": [
+        {"label": "livre entre os mortos", "forms": {"liber": "livre entre os mortos"}, "note": "Ruling: the Latin's word, natural order.", "from": "draft"},
+        {"label": "entre os mortos livre", "forms": {"liber": "entre os mortos livre"}, "note": "The Latin's order: the paradox falls at the cadence. An inversion.", "from": "draft"},
+        {"label": "abandonado entre os mortos", "forms": {"liber": "abandonado entre os mortos"}, "note": "MS1932. Refused: it interprets (rule 2).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "tenebrosis",
+      "refs": ["87:7"],
+      "latin": "in tenebrósis",
+      "kind": "word",
+      "why": "A neuter plural adjective used as a noun: 'dark places' (DRB; σκοτεινοῖς). Portuguese needs a noun, so 'lugares' is supplied, as in MS1932. 'nas trevas' would take the noun ténebræ, a different word that comes in 87:13.",
+      "options": [
+        {"label": "nos lugares tenebrosos", "forms": {"tenebrosis": "nos lugares tenebrosos"}, "note": "Ruling: the adjective kept, a noun supplied (grammar).", "from": "MS1932"},
+        {"label": "nas trevas", "forms": {"tenebrosis": "nas trevas"}, "note": "Shorter, but it merges with 87:13 in ténebris. Refused.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "confirmatus",
+      "refs": ["87:8"],
+      "latin": "Super me confirmátus est furor tuus",
+      "kind": "word",
+      "why": "ἐπεστηρίχθη is the same Greek as 70:6 In te confirmátus sum → 'Em vós fui firmado'. The confirmáre row takes 'firmar' where 'confirmar' would be misheard. The fury is set, planted on him (DRB 'is strong over me'). MS1932 and DM1962 have 'pesou', which is the Hebrew's 'lay heavy'. The middle voice 'se firmou' is how Portuguese says the Greek's passive of state.",
+      "options": [
+        {"label": "se firmou", "forms": {"confirmatus": "se firmou"}, "note": "Ruling: firmar (the row; 70:6).", "from": "glossary"},
+        {"label": "foi firmado", "forms": {"confirmatus": "foi firmado"}, "note": "The Latin's passive, as 70:6; heavier here with no agent.", "from": "draft"},
+        {"label": "pesou", "forms": {"confirmatus": "pesou"}, "note": "MS1932, DM1962: the Hebrew's sense. Refused (rule 1).", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "v8b",
+      "refs": ["87:8"],
+      "latin": "et omnes fluctus tuos induxísti super me",
+      "kind": "order",
+      "why": "fluctus → 'ondas' (D42). indúcere super (ἐπήγαγες) → 'trazer sobre'. The indúcere in row's 'fazer entrar' is for a place entered, and there is none here. The Latin frames the verse with super me … super me. Ruled for natural order (D2): verb first, 'ondas' at the cadence. The Latin's order (object first, 'sobre mim' closing the frame) is option 2.",
+      "options": [
+        {"label": "e trouxestes sobre mim todas as vossas ondas", "forms": {"v8b": "e trouxestes sobre mim todas as vossas ondas"}, "note": "Ruling: natural order, plain verb.", "from": "draft"},
+        {"label": "e todas as vossas ondas trouxestes sobre mim", "forms": {"v8b": "e todas as vossas ondas trouxestes sobre mim"}, "note": "The Latin's order; keeps the frame, at the price of an inversion.", "from": "draft"},
+        {"label": "e fizestes vir sobre mim todas as vossas ondas", "forms": {"v8b": "e fizestes vir sobre mim todas as vossas ondas"}, "note": "MS1932; causative, longer.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "longe",
+      "refs": ["87:9", "87:19"],
+      "latin": "Longe fecísti notos meos a me · Elongásti a me amícum et próximum",
+      "kind": "glossary",
+      "why": "Both verses have the same Greek verb (ἐμάκρυνας), and the Latin has 'longe' in both (longe fácere, elongáre). The elongáre row gives 'pôr longe', and 39:12's longe fácias gives 'ponhais longe'. So one Portuguese phrase serves both (D15's test), and the psalm's last verse echoes 87:9 as the Greek has it. notus → 'conhecido' (D44; 87:9, 87:19 named there). Cost: in 87:9 'Pusestes' sits next to 'puseram-me' (posuérunt), an echo the Latin (fecísti / posuérunt) does not have. The stylist of Ps 21 and 72 asked for 'afastar', which is amovére's verb.",
+      "options": [
+        {"label": "Pusestes longe de mim", "forms": {"longe": "Pusestes longe de mim", "elongasti": "Pusestes longe de mim"}, "note": "Ruling: the elongáre row; keeps the Latin's 'longe'.", "from": "glossary"},
+        {"label": "Afastastes de mim", "forms": {"longe": "Afastastes de mim", "elongasti": "Afastastes de mim"}, "note": "MS1932. Plainer, but it drops 'longe' and takes amovére's verb.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "abominationem",
+      "refs": ["87:9"],
+      "latin": "posuérunt me abominatiónem sibi",
+      "kind": "grammar",
+      "why": "A double accusative (ἔθεντό με βδέλυγμα ἑαυτοῖς). ponere → 'pôr' repeats 87:7 Posuérunt me → 'Puseram-me', as the Latin does. Portuguese needs a link for the predicate: 'por' (as 118:33 'Imponde-me por lei'). sibi → 'para si'.",
+      "options": [
+        {"label": "puseram-me por abominação para si", "forms": {"abominationem": "puseram-me por abominação para si"}, "note": "Ruling: keeps the verb of 87:7.", "from": "draft"},
+        {"label": "fizeram de mim uma abominação para si", "forms": {"abominationem": "fizeram de mim uma abominação para si"}, "note": "Plainer, but it takes fácere for ponere and loses the echo of 87:7; MS1932 is close to it.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "egrediebar",
+      "refs": ["87:9b"],
+      "latin": "Tráditus sum, et non egrediébar",
+      "kind": "grammar",
+      "why": "The imperfect (ἐξεπορευόμην) describes a lasting state: shut in, he did not go out. MS1932 'sem poder sair' and the literal 'e não saía' both carry it. 'podia' adds a modal the Latin does not have, so the bare imperfect is ruled. A reader may hear a habit ('I used not to go out'). That is the cost.",
+      "options": [
+        {"label": "não saía", "forms": {"egrediebar": "não saía"}, "note": "Ruling: the Latin's imperfect, nothing added.", "from": "draft"},
+        {"label": "não podia sair", "forms": {"egrediebar": "não podia sair"}, "note": "MS1932's sense ('sem poder sair'); supplies 'could'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "languerunt",
+      "refs": ["87:9b"],
+      "latin": "óculi mei languérunt præ inópia",
+      "kind": "word",
+      "why": "languére has no row. The Greek is ἠσθένησαν, the verb behind infirmári → 'enfraquecer' (9:4, 30:11b, 108:24), so D15's test gives 'enfraquecer'. inópia → 'carência', the noun of D38's 'carente', as 43:24. præ, meaning cause → 'de'. MS1932's 'desfaleceram de miséria' takes defícere's verb and the noun of 87:19's miséria (ταλαιπωρία, another word).",
+      "options": [
+        {"label": "se enfraqueceram de carência", "forms": {"languerunt": "se enfraqueceram de carência"}, "note": "Ruling: infirmári's verb (one Greek), inópia's row.", "from": "glossary"},
+        {"label": "definharam de carência", "forms": {"languerunt": "definharam de carência"}, "note": "A verb of its own for languére; more concrete (wasting).", "from": "draft"},
+        {"label": "se enfraqueceram de pobreza", "forms": {"languerunt": "se enfraqueceram de pobreza"}, "note": "'pobreza' is paupértas's (30:11b); refused as at 43:24.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "suscitabunt",
+      "refs": ["87:11"],
+      "latin": "aut médici suscitábunt, et confitebúntur tibi?",
+      "kind": "grammar",
+      "why": "The Latin's 'médici' (ἰατροί; the Hebrew has 'shades') is kept: rule 1, and DRB and MS1932 keep it too. suscitáre is transitive, 'raise up'; its object, the dead, is understood from the first colon. Portuguese 'ressuscitar' with no object means 'rise from the dead' itself, and would make the physicians the ones who rise, a sense the Latin's active verb excludes. So the pronoun is supplied (grammar; MS1932 'os ressuscitarão'). Who gives thanks stays open, as in the Latin (the physicians, or the raised).",
+      "options": [
+        {"label": "os ressuscitarão", "forms": {"suscitabunt": "os ressuscitarão"}, "note": "Ruling: the object pronoun supplied (MS1932).", "from": "MS1932"},
+        {"label": "ressuscitarão", "forms": {"suscitabunt": "ressuscitarão"}, "note": "No object, as the Latin; heard as the physicians rising. Refused.", "from": "draft"}
+      ]
+    },
+    {
+      "id": "perditione",
+      "refs": ["87:12"],
+      "latin": "et veritátem tuam in perditióne",
+      "kind": "word",
+      "why": "perdítio (ἀπώλεια) is the place of ruin, parallel to the sepulchre. 'perdição' is the cognate (DRB 'destruction'); in Brazil it can be heard as moral ruin or damnation. 'destruição' is the intéritus row's word, so it is not free. Kept as the cognate; ambiguity readers are asked.",
+      "options": [
+        {"label": "na perdição", "forms": {"perditione": "na perdição"}, "note": "Ruling: the cognate.", "from": "draft"},
+        {"label": "na destruição", "forms": {"perditione": "na destruição"}, "note": "DRB's sense; collides with intéritus → destruição.", "from": "DRB"},
+        {"label": "no lugar da perdição", "forms": {"perditione": "no lugar da perdição"}, "note": "DM1962 ('no lugar da perdição'); supplies a noun.", "from": "DM1962"}
+      ]
+    },
+    {
+      "id": "praeveniet",
+      "refs": ["87:14"],
+      "latin": "et mane orátio mea prævéniet te",
+      "kind": "glossary",
+      "why": "The friendly transitive præveníre, which the prævenire row leaves open and names 87:14 as its next test. 16:13, 20:4 and 58:10 have 'adiantar-se a', so it is used here: the prayer is there before God, in the morning. 58:10's stylist found 'se adiantará a mim' bureaucratic and asked 'me precederá'. 78:8's 'vir ao encontro' is anticipáre's. The colon is the R. of the Sunday Prime preces (V. Et ego ad te, Dómine, clamávi. R. Et mane orátio mea prævéniet te) and reads alone. The first colon was ordered 'clamei a vós, Senhor' so that 'a vós' does not stand at both cadences.",
+      "options": [
+        {"label": "se adiantará a vós", "forms": {"praeveniet": "se adiantará a vós"}, "note": "Ruling: the row's verb (16:13, 20:4, 58:10).", "from": "glossary"},
+        {"label": "vos precederá", "forms": {"praeveniet": "vos precederá"}, "note": "58:10's stylist option; lighter.", "from": "stylist"},
+        {"label": "irá ao vosso encontro", "forms": {"praeveniet": "irá ao vosso encontro"}, "note": "Close to MS1932 'vai diante de ti'; loses the 'before'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "repellis",
+      "refs": ["87:15"],
+      "latin": "Ut quid, Dómine, repéllis oratiónem meam",
+      "kind": "glossary",
+      "why": "repéllere without 'a' → 'repelir' (settled, D42), and 87:15 is on that row's list. The row notes that blind readers twice did not know 'repelistes'. The present 'repelis' is shorter and commoner. Ut quid → 'Por que' (73:1, 79:13). The Greek has 'my soul' (τὴν ψυχήν μου), the Latin 'my prayer': the Latin is followed.",
+      "options": [
+        {"label": "repelis", "forms": {"repellis": "repelis"}, "note": "Ruling: the row.", "from": "glossary"},
+        {"label": "rejeitais", "forms": {"repellis": "rejeitais"}, "note": "MS1932. Refused: rejeitar is reprobáre's.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "exaltatus",
+      "refs": ["87:16"],
+      "latin": "exaltátus autem, humiliátus sum et conturbátus",
+      "kind": "grammar",
+      "why": "exaltáre → 'exaltar', humiliáre → 'humilhar', conturbáre → 'perturbar' (rows). The three participles in -átus give three in -ado. The Latin has the same echo, so it is kept, not treated as a defect. autem → 'porém', inside the phrase. MS1932 adds 'depois de ter sido'.",
+      "options": [
+        {"label": "exaltado, porém,", "forms": {"exaltatus": "exaltado, porém,"}, "note": "Ruling: the participle bare, as the Latin.", "from": "draft"},
+        {"label": "e, depois de exaltado,", "forms": {"exaltatus": "e, depois de exaltado,"}, "note": "MS1932's build; supplies the time relation.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "simul",
+      "refs": ["87:18"],
+      "latin": "circumdedérunt me simul",
+      "kind": "order",
+      "why": "The Latin repeats circumdedérunt me at the head of both cola; the Portuguese repeats 'Cercaram-me' the same way (circumdáre row; 21:13, 21:17 kept the repetition). simul → 'juntos' (row, open; DRB 'together'). MS1932's 'todos à uma' supplies 'todos'.",
+      "options": [
+        {"label": "cercaram-me juntos", "forms": {"simul": "cercaram-me juntos"}, "note": "Ruling: the repetition identical.", "from": "draft"},
+        {"label": "juntos me cercaram", "forms": {"simul": "juntos me cercaram"}, "note": "More natural order; the repetition becomes a chiasm.", "from": "draft"},
+        {"label": "cercaram-me todos à uma", "forms": {"simul": "cercaram-me todos à uma"}, "note": "MS1932; supplies 'todos'.", "from": "MS1932"}
+      ]
+    },
+    {
+      "id": "amiseria",
+      "refs": ["87:19"],
+      "latin": "et notos meos a miséria",
+      "kind": "ambiguity",
+      "why": "'a miséria' (ἀπὸ ταλαιπωρίας) is read by DRB and MS1932 as cause ('because of misery'). It could also be heard as separation ('put far from misery'), which makes little sense here. Bare 'da miséria' would be heard in Portuguese as a genitive ('my acquaintances of misery'), a sense the Latin lacks. So the reading of both Vulgate-family witnesses is taken. The verbless second colon stays verbless: 'Pusestes longe' governs both.",
+      "options": [
+        {"label": "por causa da miséria", "forms": {"amiseria": "por causa da miséria"}, "note": "Ruling: DRB, MS1932.", "from": "DRB"},
+        {"label": "pela miséria", "forms": {"amiseria": "pela miséria"}, "note": "Shorter; 'pela' can be heard as 'through / by means of'.", "from": "draft"},
+        {"label": "da miséria", "forms": {"amiseria": "da miséria"}, "note": "As bare as the Latin; heard as a genitive. Refused.", "from": "draft"}
+      ]
+    }
+  ],
+  "choices": {
+    "87:2": "Deus salútis meæ → 'Deus da minha salvação' (17:47; D6). in die … nocte → 'de dia … e de noite' (the pair; 21:3's per diem was 'durante o dia'). coram te → 'diante de vós'. Verse 87:2 + 87:3 is the Introit and Offertory of Quad1-6.",
+    "87:4": "repléta est → 'está cheia' (the replére row: estar cheio). appropinquáre → 'aproximar-se' (row).",
+    "87:6": "vulneráti → 'feridos' (MS1932; L&S 'wounded'; DRB 'slain' — τραυματίαι covers both, and 'feridos' keeps the Latin's word). memor esse → 'lembrar-se de' (row); ámplius → 'já não'. repúlsi sunt de manu tua → 'foram repelidos da vossa mão': the same Greek as 87:15 (ἀπωθέω), so the same verb, repelir (D42's row).",
+    "87:7": "lacus → 'cova' (row); inferióri → 'mais baixa' (the inferióra terræ row, 62:10). umbra mortis → 'sombra da morte' (22:4, 43:20).",
+    "87:10": "tota die → 'o dia todo' (D24). expándere manus → 'estender as mãos'.",
+    "87:11": "numquid → 'Acaso' in all three questions (row; the row names five places in Ps 87, and the Latin has it three times, 87:11–13). mirabília → 'maravilhas' (87:11, 87:13, identical). confitéri → 'dar graças' (D5).",
+    "87:12": "narráre → 'narrar' (row). véritas → 'verdade' (row), not the Hebrew family's 'fidelidade'.",
+    "87:13": "oblívio → 'esquecimento'. The first colon is long (the Latin's is too).",
+    "87:14": "The V. of the Sunday Prime preces reads alone: 'E eu clamei a vós, Senhor.'",
+    "87:16": "pauper → 'pobre' (D38). labor → 'fadiga' (row), plural as the Latin. juvéntus → 'juventude' (24:7, 42:4, 70:5).",
+    "87:17": "iræ (plural) → 'iras', the Latin's number kept (MS1932). terróres → 'terrores'. conturbáre → 'perturbar' (row) — the same verb as 87:16's conturbátus, as in the Latin."
+  },
+  "audit": [
+    {"step": "draft", "note": "Psalm-level draft from consult/parallels/ps087.md (with the Diurnal: a Saturday minor-hours psalm). Hard readings: 87:5 inter mórtuos liber (kept 'livre'), 87:11 médici (the Latin's physicians kept, the object of suscitábunt supplied), 87:14 prævéniet te (the friendly transitive the prævenire row left open), 87:9 / 87:19 longe fácere / elongáre (one Greek verb, one Portuguese phrase), 87:19 a miséria. Liturgical uses found by grep: Saturday minor-hours antiphon 'Intret orátio mea * in conspéctu tuo, Dómine' (Psalmi minor); Sunday Prime preces V/R from 87:14 (Preces.txt); Introit and Offertory of Quad1-6 from 87:2–3."},
+    {"step": "checks", "note": "Hard checks pass. Soft flags accepted: 87:6a −3 (the Latin's long relative clause said plainly); 87:7 −3 / +4 (a noun, 'lugares', must be supplied for in tenebrósis, decision tenebrosis); 87:14 −3 / +4 (the V. is short and the R. carries the row's 'se adiantará a vós'; 'vos precederá' is the shorter option); 87:19 +3 / +4 ('pôr longe' and 'por causa da' spell out what the Latin says in one word each; 'pela miséria' is the shorter option). 87:19a ends on a proparoxytone ('próximo'), as the Latin does ('próximum'). The -ado run in 87:16b mirrors the Latin's -átus run."}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "f0307d8618ef2787845c054227b78d1b513cc2bcd12912899611260a566e436c",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:41:33+00:00",
+  "reply": "{\"verses\": [{\"id\": \"91:5\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"delectásti me, Dómine, in factúra tua\", \"portuguese\": \"me alegrastes, Senhor, com a vossa feitura\", \"problem\": \"'in' + ablative is rendered as instrumental 'com', which narrows it; the Latin 'in' (in/by your work) is parallel to 'in opéribus' in the second half, which the translation renders 'nas obras'. Using 'na' keeps the parallel and the Latin's openness.\", \"fix\": \"me alegrastes, Senhor, na vossa feitura\"}]}, {\"id\": \"91:12\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in insurgéntibus in me malignántibus áudiet auris mea\", \"portuguese\": \"o meu ouvido ouvirá dos malvados que se levantam contra mim\", \"problem\": \"'ouvir dos malvados' reads most naturally in Portuguese as 'hear from the wicked' (they speak), whereas 'audire in' here means to hear about or concerning them (their fate), in parallel with the eye looking down on the enemies. 'acerca de' would be clearer, though 'de' can carry that sense.\", \"fix\": \"o meu ouvido ouvirá acerca dos malvados que se levantam contra mim\"}]}], \"overall\": \"The translation is faithful to the Latin throughout. It keeps the Septuagintal features (the unicorn's horn, 'bene patientes' as 'passarão bem', 'despexit' as 'olhou de cima'), and tense, person and number are preserved. The pointing marks match the Latin in every verse. The only points are two minor prepositional nuances.\"}\n"
+}

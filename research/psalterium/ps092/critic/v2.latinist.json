@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "cf16e34a3ad8277477655d941fce92031a0f1683cabf55561ebe791609d8e9fa",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:39:58+00:00",
+  "reply": "{\"verses\": [{\"id\": \"92:1a\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"decórem indútus est\", \"portuguese\": \"vestiu-se de esplendor\", \"problem\": \"decor is comeliness/beauty (LXX εὐπρέπεια, Douay 'beauty'); 'esplendor' shifts it toward brightness/radiance.\", \"fix\": \"vestiu-se de beleza\"}]}, {\"id\": \"92:3b\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"a vócibus aquárum multárum\", \"portuguese\": \"pelas vozes das muitas águas\", \"problem\": \"Latin 'a' (LXX ἀπὸ) is open: 'from/with/at' the voices, or comparative with what follows. 'pelas' fixes a causal/agent reading the Latin does not commit to.\", \"fix\": \"com as vozes das muitas águas\"}]}, {\"id\": \"92:5\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"in longitúdinem diérum\", \"portuguese\": \"por longos dias\", \"problem\": \"'length of days' is a set phrase meaning the whole extent of days (for ever); 'por longos dias' weakens it to 'for many days' and loses the noun 'longitudo'.\", \"fix\": \"pela longura dos dias\"}]}], \"overall\": \"A faithful, close rendering with no critical or major faults; tenses, persons and the Septuagintal structure (including the 3b/4a split) are kept. Three minor points: 'esplendor' for decor, 'pelas' narrowing the open 'a vocibus', and 'por longos dias' weakening 'in longitudinem dierum'. Pointing marks match the Latin in every verse.\"}\n"
+}

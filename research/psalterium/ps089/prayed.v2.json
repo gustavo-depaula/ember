@@ -1,0 +1,845 @@
+{
+  "psalm": 89,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "89:1": "Senhor, {factus}: * de geração em geração.",
+    "89:2": "Antes que se fizessem os montes, ou se formassem a terra e o mundo: * {asaeculo} {deus2}.",
+    "89:3": "{avertas} o homem {humilitas}: * e dissestes: Convertei-vos, filhos dos homens.",
+    "89:4": "Porque mil anos diante dos vossos olhos * são como o dia de ontem, {praeteriit},",
+    "89:5": "{tamquam5} na noite, * {pronihilo}.",
+    "89:6": "{mood6}",
+    "89:7": "Porque desfalecemos na vossa ira, * e no vosso furor {turbati}.",
+    "89:8": "Pusestes as nossas iniquidades à vossa vista: * {saeculum8} à luz do vosso rosto.",
+    "89:9": "Porque todos os nossos dias {defecerunt}: * e na vossa ira desfalecemos.",
+    "89:9b": "Os nossos anos {meditabuntur} como a aranha: * os dias dos nossos anos são neles setenta anos.",
+    "89:10": "Mas, se {potentatibus}, oitenta anos: * e {amplius} é fadiga e dor.",
+    "89:10b": "Porque sobreveio a mansidão: * e seremos castigados.",
+    "89:11": "Quem conhece o poder da vossa ira: * e sabe, {timore}, contar a vossa ira?",
+    "89:12": "Assim fazei conhecer a vossa direita: * e os de coração instruído na sabedoria.",
+    "89:13": "Voltai-vos, Senhor, até quando? * e {deprecabilis}.",
+    "89:14": "De manhã {repleti} da vossa misericórdia: * e exultamos, e nos deleitamos em todos os nossos dias.",
+    "89:15": "Alegramo-nos pelos dias em que nos humilhastes: * pelos anos em que vimos males.",
+    "89:16": "Olhai para os vossos servos e para as vossas obras: * e {dirige16} os seus filhos.",
+    "89:17": "E esteja sobre nós o esplendor do Senhor, nosso Deus, e {dirige17a} sobre nós as obras das nossas mãos: * e {dirige17b} a obra das nossas mãos."
+  },
+  "decisions": [
+    {
+      "id": "factus",
+      "refs": [
+        "89:1"
+      ],
+      "latin": "refúgium factus es nobis",
+      "kind": "grammar",
+      "why": "factus es is 'you became / were made' (ἐγενήθης), not the bare 'you are'. The draft keeps the becoming with 'vos tornastes' and turns the dative nobis into the possessive, which is how Portuguese says 'a refuge for us'. MS1932 'tu tens sido' and DRB 'thou hast been' flatten the verb to being. v2: the stylist heard 'vós vos tornastes' as a stutter on the opening line; his order ('Senhor, para nós vos tornastes refúgio') is grammar and order only (D2) and returns the dative to the letter; taken.",
+      "options": [
+        {
+          "label": "para nós vos tornastes refúgio",
+          "forms": {
+            "factus": "para nós vos tornastes refúgio"
+          },
+          "note": "v2 — the stylist's order: removes the stutter 'vós vos' and keeps the dative nobis as 'para nós'",
+          "from": "stylist"
+        },
+        {
+          "label": "vós vos tornastes o nosso refúgio",
+          "forms": {
+            "factus": "vós vos tornastes o nosso refúgio"
+          },
+          "note": "draft — the becoming kept; nobis as a possessive",
+          "from": "draft"
+        },
+        {
+          "label": "vós vos tornastes refúgio para nós",
+          "forms": {
+            "factus": "vós vos tornastes refúgio para nós"
+          },
+          "note": "the dative to the letter (literal tier); heavier at the mediant",
+          "from": "draft"
+        },
+        {
+          "label": "vós fostes o nosso refúgio",
+          "forms": {
+            "factus": "vós fostes o nosso refúgio"
+          },
+          "note": "DRB 'thou hast been', MS1932 'tens sido' — the becoming lost",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "deus2",
+      "refs": [
+        "89:2"
+      ],
+      "latin": "tu es, Deus",
+      "kind": "ambiguity",
+      "why": "The DO Latin prints a comma: 'tu es, Deus' can be 'you are, O God' (you exist before the mountains) or 'you are God' (DRB, MS1932). The Rahlfs Greek in the parallels ends at σὺ εἶ, 'you are', which favours the absolute sense. The draft copies the Latin's comma and the bare vocative (as the finished psalms have it, D44): the ear takes the vocative first but the predicate can still be heard. The bare predicate would close the question the other way. v1 ambiguity reader: heard the predicate ('you are God') first, the comma being inaudible — so the line carries both readings to the ear, which is what the Latin does.",
+      "options": [
+        {
+          "label": "vós sois, Deus",
+          "forms": {
+            "deus2": "vós sois, Deus"
+          },
+          "note": "draft — the Latin's comma; bare vocative as elsewhere",
+          "from": "draft"
+        },
+        {
+          "label": "vós sois Deus",
+          "forms": {
+            "deus2": "vós sois Deus"
+          },
+          "note": "DRB 'thou art God', MS1932 'tu és Deus' — predicate only",
+          "from": "DRB"
+        },
+        {
+          "label": "vós sois, ó Deus",
+          "forms": {
+            "deus2": "vós sois, ó Deus"
+          },
+          "note": "vocative made certain",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "asaeculo",
+      "refs": [
+        "89:2"
+      ],
+      "latin": "a sǽculo et usque in sǽculum",
+      "kind": "glossary",
+      "why": "The Latinist (minor) asked for the concrete 'desde os séculos e até os séculos'. Refused: the phrase is settled across the psalter as 'desde sempre e para todo o sempre' (40:14 = 105:48, D37, D41; the glossary row names 89:2 as a copy), and the plural 'os séculos' is not the Latin's number either. D23 merged in sǽculum with in ætérnum on the Greek test (εἰς τὸν αἰῶνα).",
+      "options": [
+        {
+          "label": "desde sempre e para todo o sempre",
+          "forms": {
+            "asaeculo": "desde sempre e para todo o sempre"
+          },
+          "note": "the formula (D37, D41)",
+          "from": "glossary"
+        },
+        {
+          "label": "desde os séculos e até os séculos",
+          "forms": {
+            "asaeculo": "desde os séculos e até os séculos"
+          },
+          "note": "the Latinist's (v1, minor)",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "avertas",
+      "refs": [
+        "89:3"
+      ],
+      "latin": "Ne avértas hóminem in humilitátem",
+      "kind": "word",
+      "why": "avértere → desviar (glossary row, open; 53:7 'Desviai os males para …'), humílitas → humilhação (row). The verse plays avértas against Convertímini, which Portuguese cannot keep with these verbs (converter is kept for men told to turn to God, D25). MS1932 'Não reduzas o homem ao abatimento' explains the turning as reducing. 'Fazer voltar' would echo 'Convertei-vos' but is convértere's verb (voltar), not avértere's.",
+      "options": [
+        {
+          "label": "Não desvieis … para a humilhação",
+          "forms": {
+            "avertas": "Não desvieis",
+            "humilitas": "para a humilhação"
+          },
+          "note": "draft — the glossary's verb and noun",
+          "from": "glossary"
+        },
+        {
+          "label": "Não reduzais … à humilhação",
+          "forms": {
+            "avertas": "Não reduzais",
+            "humilitas": "à humilhação"
+          },
+          "note": "MS1932's verb — explains the turning",
+          "from": "MS1932"
+        },
+        {
+          "label": "Não façais … voltar à humilhação",
+          "forms": {
+            "avertas": "Não façais",
+            "humilitas": "voltar à humilhação"
+          },
+          "note": "echoes the turning, but spends convértere's verb",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeteriit",
+      "refs": [
+        "89:4"
+      ],
+      "latin": "quæ prætériit",
+      "kind": "word",
+      "why": "prætérire (διῆλθεν) and transíre (89:6, παρέλθοι, twice) are two Latin verbs and two Greek; 'passar' is the plain word for both. The draft keeps them apart: 'que se foi' for yesterday, 'passe' for the grass, so that 89:6's own repetition (tránseat … tránseat) stays the only 'passar' in the psalm.",
+      "options": [
+        {
+          "label": "que se foi",
+          "forms": {
+            "praeteriit": "que se foi"
+          },
+          "note": "draft — kept apart from tránseat → passar",
+          "from": "draft"
+        },
+        {
+          "label": "que passou",
+          "forms": {
+            "praeteriit": "que passou"
+          },
+          "note": "DRB 'which is past', MS1932 'que passou' — merges with 89:6",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "tamquam5",
+      "refs": [
+        "89:5"
+      ],
+      "latin": "Et custódia in nocte",
+      "kind": "grammar",
+      "why": "The Latin's tamquam (89:4) governs this member too; it runs on after a comma. Without 'como' the ear, meeting 89:5 as a fresh verse, could take 'a vigília na noite' as a new subject of 'serão'. 'Como' supplied is the ellipsis made explicit (DRB 'And as a watch in the night'). custódia → vigília: the night watch; MS1932 'vigília da noite'.",
+      "options": [
+        {
+          "label": "E como a vigília",
+          "forms": {
+            "tamquam5": "E como a vigília"
+          },
+          "note": "draft — tamquam carried over (DRB)",
+          "from": "draft"
+        },
+        {
+          "label": "E a vigília",
+          "forms": {
+            "tamquam5": "E a vigília"
+          },
+          "note": "the Latin's ellipsis to the letter",
+          "from": "draft"
+        },
+        {
+          "label": "E como a guarda",
+          "forms": {
+            "tamquam5": "E como a guarda"
+          },
+          "note": "custódia's root; heard as a guard (person) first",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pronihilo",
+      "refs": [
+        "89:5"
+      ],
+      "latin": "quæ pro níhilo habéntur, eórum anni erunt",
+      "kind": "grammar",
+      "why": "Neuter plural relative with no antecedent: 'things that are held for nothing — such will their years be' (DRB 'things that are counted nothing, shall their years be'). pro níhilo habéri is another build than 55:8's pro níhilo (glossary row, 'decide locally'); æstimári → ser tido (D43) gives the idiom 'ter por nada'. The draft names 'coisas' as DRB and MS1932 do; 'os seus anos' = theirs (God is vós, so 'seus' cannot be heard as his).",
+      "options": [
+        {
+          "label": "coisas tidas por nada serão os seus anos",
+          "forms": {
+            "pronihilo": "coisas tidas por nada serão os seus anos"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "o que se tem por nada, isso serão os seus anos",
+          "forms": {
+            "pronihilo": "o que se tem por nada, isso serão os seus anos"
+          },
+          "note": "no noun supplied; longer",
+          "from": "draft"
+        },
+        {
+          "label": "coisas que em nada se estimam serão os seus anos",
+          "forms": {
+            "pronihilo": "coisas que em nada se estimam serão os seus anos"
+          },
+          "note": "MS1932's idiom",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mood6",
+      "refs": [
+        "89:6"
+      ],
+      "latin": "tránseat, flóreat, tránseat … décidat, indúret, aréscat",
+      "kind": "grammar",
+      "why": "Six subjunctives (the Greek has optatives: παρέλθοι, ἀνθήσαι, ἀποπέσοι, σκληρυνθείη, ξηρανθείη) with no named subject — man of 89:3, or the years of 89:5. DRB turns them into futures, MS1932 into presents; both resolve the mood. The draft keeps the bare subjunctive and leaves the subject unnamed, as the Latin does: it can be heard as a wish or as 'let it be so'. aréscere → secar, décidere → cair (as 36:2); herba → erva.",
+      "options": [
+        {
+          "label": "subjunctive: passe … floresça e passe … caia, endureça e seque",
+          "forms": {
+            "mood6": "De manhã passe como a erva, de manhã floresça e passe: * à tarde caia, endureça e seque."
+          },
+          "note": "draft — the Latin's mood",
+          "from": "draft"
+        },
+        {
+          "label": "future: passará … florescerá e passará … cairá, endurecerá e secará",
+          "forms": {
+            "mood6": "De manhã passará como a erva, de manhã florescerá e passará: * à tarde cairá, endurecerá e secará."
+          },
+          "note": "DRB 'shall grow up … shall fall'; rhymes on -ará five times",
+          "from": "DRB"
+        },
+        {
+          "label": "present: passa … floresce e passa … cai, endurece e seca",
+          "forms": {
+            "mood6": "De manhã passa como a erva, de manhã floresce e passa: * à tarde cai, endurece e seca."
+          },
+          "note": "MS1932 — a statement of fact",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "turbati",
+      "refs": [
+        "89:7"
+      ],
+      "latin": "turbáti sumus",
+      "kind": "grammar",
+      "why": "turbáre → perturbar (row). Ps 76:5 turned turbátus sum into 'fiquei perturbado' after the stylist heard 'fui perturbado' as someone else disturbing the speaker; here the agent is named ('no vosso furor'), so either works. The draft follows 76:5.",
+      "options": [
+        {
+          "label": "ficamos perturbados",
+          "forms": {
+            "turbati": "ficamos perturbados"
+          },
+          "note": "draft — as 76:5",
+          "from": "glossary"
+        },
+        {
+          "label": "fomos perturbados",
+          "forms": {
+            "turbati": "fomos perturbados"
+          },
+          "note": "the passive to the letter",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "saeculum8",
+      "refs": [
+        "89:8"
+      ],
+      "latin": "sǽculum nostrum",
+      "kind": "word",
+      "why": "sǽculum here is a lifetime or an age (αἰών ἡμῶν), set in the light of God's face beside 'our iniquities'. DRB 'our life' and MS1932 'o nosso proceder' interpret; 'o nosso século' is heard as a hundred years or 'our era'. The draft takes 'o nosso tempo', a time word that keeps both lifetime and age open. illuminátio → luz (row; 43:4b 'a luz do vosso rosto', which the row foresaw here). v2: the Latinist's fix taken — 'tempo' was vaguer than the Latin, not more open.",
+      "options": [
+        {
+          "label": "a nossa vida",
+          "forms": {
+            "saeculum8": "a nossa vida"
+          },
+          "note": "v2 — the Latinist (minor): sǽculum here is the span of our life; DRB 'our life'. The ambiguity reader heard 'o nosso tempo' also as hours or a schedule.",
+          "from": "latinist"
+        },
+        {
+          "label": "o nosso tempo",
+          "forms": {
+            "saeculum8": "o nosso tempo"
+          },
+          "note": "draft 1 — a time word; heard as 'our era' (Latinist) or a schedule (ambiguity reader)",
+          "from": "draft"
+        },
+        {
+          "label": "a nossa idade",
+          "forms": {
+            "saeculum8": "a nossa idade"
+          },
+          "note": "an age; heard as years of age",
+          "from": "draft"
+        },
+        {
+          "label": "o nosso século",
+          "forms": {
+            "saeculum8": "o nosso século"
+          },
+          "note": "the cognate; heard as a century",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "defecerunt",
+      "refs": [
+        "89:9"
+      ],
+      "latin": "omnes dies nostri defecérunt … defécimus",
+      "kind": "word",
+      "why": "The Latin says defícere twice in one verse (and 89:7 once more): the days fail, we fail. The draft keeps one verb for the three, the glossary's desfalecer. With days as subject it is unusual ('the days fainted') — the image of the Latin, which MS1932 breaks into 'se desvaneceram … fomos consumidos'.",
+      "options": [
+        {
+          "label": "desfaleceram",
+          "forms": {
+            "defecerunt": "desfaleceram"
+          },
+          "note": "draft — the repetition kept",
+          "from": "draft"
+        },
+        {
+          "label": "se acabaram",
+          "forms": {
+            "defecerunt": "se acabaram"
+          },
+          "note": "plainer with days, but breaks the repetition",
+          "from": "draft"
+        },
+        {
+          "label": "se desvaneceram",
+          "forms": {
+            "defecerunt": "se desvaneceram"
+          },
+          "note": "MS1932",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "meditabuntur",
+      "refs": [
+        "89:9b"
+      ],
+      "latin": "Anni nostri sicut aránea meditabúntur",
+      "kind": "ambiguity",
+      "why": "The crux of the psalm. meditabúntur is a deponent future with the years as subject; L&S gives meditor a passive sense in late Latin ('considered, weighed'), and DRB ('shall be considered as a spider') and MS1932 ('serão considerados') both read it so. The Greek ἐμελέτων has the years as object (someone 'was pondering our years like a spider'). The draft follows the two Vulgate witnesses with 'considerados', the plainer of two faithful words (L&S 'consider'); the glossary's 'meditar' (row, working) would keep the verb one through the psalter but 'serão meditados' is not heard as Portuguese. MS1932's 'teia de' is his gloss and is not taken: the Latin names the spider. v2: the stylist found 'considerados' a heavy report word and asked for 'meditados'; that is the glossary's verb for meditári, so both the ear and consistency point the same way. The strangeness that remains is the Latin's own (the ambiguity reader could not tell the point of the spider in either wording). Taken.",
+      "options": [
+        {
+          "label": "serão meditados",
+          "forms": {
+            "meditabuntur": "serão meditados"
+          },
+          "note": "v2 — the stylist's request and the glossary's verb (meditári → meditar); the deponent read with a passive sense, as L&S allows in late Latin and as DRB and MS1932 read it",
+          "from": "stylist"
+        },
+        {
+          "label": "serão considerados",
+          "forms": {
+            "meditabuntur": "serão considerados"
+          },
+          "note": "draft 1 — DRB, MS1932 'considerados'; the stylist heard it as office-report prose; the ambiguity reader found the line puzzling either way",
+          "from": "draft"
+        },
+        {
+          "label": "meditarão",
+          "forms": {
+            "meditabuntur": "meditarão"
+          },
+          "note": "the deponent read as active: the years ponder like a spider",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "potentatibus",
+      "refs": [
+        "89:10"
+      ],
+      "latin": "Si autem in potentátibus",
+      "kind": "word",
+      "why": "potentátus is power (L&S), plural here (δυναστείαις): 'if in strength(s)', of a strong life. The glossary row (19:7b 'atos de poder') foresaw that this line needs its own word. The draft supplies a verb, 'se houver forças', keeping the plural; DRB 'in the strong' and MS1932 'nos mais robustos' make it persons. 'Forças' also renders virtútes nostræ in 43:10 (D43) — different Latin, never in one psalm. v2: the colon now opens 'Mas, se …' (the stylist: 'Se, porém,' is written style); autem → mas; order only.",
+      "options": [
+        {
+          "label": "houver forças",
+          "forms": {
+            "potentatibus": "houver forças"
+          },
+          "note": "draft — plural kept, a verb supplied",
+          "from": "draft"
+        },
+        {
+          "label": "nos fortes",
+          "forms": {
+            "potentatibus": "nos fortes"
+          },
+          "note": "DRB 'in the strong' — persons",
+          "from": "DRB"
+        },
+        {
+          "label": "houver vigor",
+          "forms": {
+            "potentatibus": "houver vigor"
+          },
+          "note": "singular; plainer sound",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "amplius",
+      "refs": [
+        "89:10"
+      ],
+      "latin": "et ámplius eórum",
+      "kind": "grammar",
+      "why": "ámplius as a noun, 'what is more of them' (DRB 'what is more of them'; τὸ πλεῖον αὐτῶν): the years beyond eighty. 'O mais deles' is the letter but can be heard as 'most of them' (the Hebrew's reading, DM1962 'a maior parte'). The draft makes the excess a clause. MS1932 'o que passa destes' would add a third 'passar'.",
+      "options": [
+        {
+          "label": "o que for além deles",
+          "forms": {
+            "amplius": "o que for além deles"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "o mais deles",
+          "forms": {
+            "amplius": "o mais deles"
+          },
+          "note": "the letter; heard as 'most of them'",
+          "from": "draft"
+        },
+        {
+          "label": "o que passa deles",
+          "forms": {
+            "amplius": "o que passa deles"
+          },
+          "note": "MS1932 — collides with tránseat → passar",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "timore",
+      "refs": [
+        "89:11"
+      ],
+      "latin": "et præ timóre tuo iram tuam dinumeráre",
+      "kind": "grammar",
+      "why": "novit governs both halves: who knows the power of your wrath, and (knows how) to count your wrath for fear of you. Portuguese needs 'sabe' for the infinitive — supplied (grammar). præ is causal; 'timor tuus' is fear of you. The draft keeps the possessive 'o vosso temor', as the Latin does, with 'pelo' for the cause. dinumeráre → contar (row).",
+      "options": [
+        {
+          "label": "pelo vosso temor",
+          "forms": {
+            "timore": "pelo vosso temor"
+          },
+          "note": "draft — the Latin's possessive",
+          "from": "draft"
+        },
+        {
+          "label": "por temor de vós",
+          "forms": {
+            "timore": "por temor de vós"
+          },
+          "note": "objective sense made explicit",
+          "from": "draft"
+        },
+        {
+          "label": "diante do vosso temor",
+          "forms": {
+            "timore": "diante do vosso temor"
+          },
+          "note": "præ as 'before' (the literal tier)",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "deprecabilis",
+      "refs": [
+        "89:13"
+      ],
+      "latin": "et deprecábilis esto super servos tuos",
+      "kind": "word",
+      "why": "deprecábilis: 'that may be entreated, exorable' (L&S, citing this verse); the Greek παρακλήθητι is 'relent, be comforted'. MS1932 'Sê exorável' is the exact word but one few Brazilians know. The draft turns the adjective into 'deixai-vos aplacar' — letting oneself be won by entreaty, which is the sense — and super into DRB's 'in favour of'. The link with deprecári → suplicar (D35) is lost either way.",
+      "options": [
+        {
+          "label": "deixai-vos aplacar em favor dos vossos servos",
+          "forms": {
+            "deprecabilis": "deixai-vos aplacar em favor dos vossos servos"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "sede exorável para com os vossos servos",
+          "forms": {
+            "deprecabilis": "sede exorável para com os vossos servos"
+          },
+          "note": "MS1932 — the exact word, little known",
+          "from": "MS1932"
+        },
+        {
+          "label": "sede propício aos vossos servos",
+          "forms": {
+            "deprecabilis": "sede propício aos vossos servos"
+          },
+          "note": "plain, but drops the entreaty",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "repleti",
+      "refs": [
+        "89:14"
+      ],
+      "latin": "Repléti sumus mane misericórdia tua",
+      "kind": "glossary",
+      "why": "The passive of replére → encher, 'ser cheio' (row, 64:5b 'Seremos cheios dos bens da vossa casa'). The Greek ἐνεπλήσθημεν is 62:6's verb, where the row has 'fartar-se' — but 'fartamo-nos da vossa misericórdia' is heard first as 'we grew sick of your mercy' (fartar-se de = be fed up with), a wrong hearing, so the passive 'encher' is taken. v2: 'de manhã' moved to the head of the verse — the stylist heard 'cheios de manhã' as 'full of morning' (worst line); order only.",
+      "options": [
+        {
+          "label": "fomos cheios",
+          "forms": {
+            "repleti": "fomos cheios"
+          },
+          "note": "draft — the row's passive, as 64:5b",
+          "from": "glossary"
+        },
+        {
+          "label": "fartamo-nos",
+          "forms": {
+            "repleti": "fartamo-nos"
+          },
+          "note": "62:6's verb (same Greek); 'fartar-se de' is heard as 'be fed up with'",
+          "from": "draft"
+        },
+        {
+          "label": "fomos saciados",
+          "forms": {
+            "repleti": "fomos saciados"
+          },
+          "note": "satiáre's verb",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dirige",
+      "refs": [
+        "89:16",
+        "89:17"
+      ],
+      "latin": "dírige fílios eórum … ópera mánuum nostrárum dírige … opus mánuum nostrárum dírige",
+      "kind": "glossary",
+      "why": "Three dírige in two verses; one verb for the three keeps the Latin's repetition. The glossary row (open) gives 'endireitai' for dirígere at the vós imperative ('dirigi' = 'I directed') and names 89:16–17; with persons as object it leaves the psalm to decide ('encaminhai' a candidate). 'Endireitai os seus filhos' is heard as setting children right — correcting them — so the draft takes 'encaminhai' for all three. The Greek differs (ὁδήγησον in 16, κατεύθυνον in 17), but the Latin is one word and it is translated. 'guiai' is dedúcere's (D22).",
+      "options": [
+        {
+          "label": "encaminhai",
+          "forms": {
+            "dirige16": "encaminhai",
+            "dirige17a": "encaminhai",
+            "dirige17b": "encaminhai"
+          },
+          "note": "draft — one verb, fits persons and works",
+          "from": "draft"
+        },
+        {
+          "label": "endireitai",
+          "forms": {
+            "dirige16": "endireitai",
+            "dirige17a": "endireitai",
+            "dirige17b": "endireitai"
+          },
+          "note": "the glossary row; with the sons heard as correcting them",
+          "from": "glossary"
+        },
+        {
+          "label": "guiai … endireitai",
+          "forms": {
+            "dirige16": "guiai",
+            "dirige17a": "endireitai",
+            "dirige17b": "endireitai"
+          },
+          "note": "split by the Greek; guiai is dedúcere's (D22)",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "89:1": "a generatióne in generatiónem → 'de geração em geração', the formula row's words (In generatiónem et generatiónem).",
+    "89:2": "orbis beside terra → 'a terra e o mundo' (D30 names 89:2). a sǽculo et usque in sǽculum → 'desde sempre e para todo o sempre' (40:14, D37, D41; the row says 89:2 should copy it). fíerent / formarétur → 'se fizessem / se formassem', the passive as reflexive and the verb before its subjects, to keep the first colon near the Latin's length (checks flagged +5 on 'fossem feitos … fossem formados'); the plural verb for terra et orbis is agreement, grammar.",
+    "89:3": "Convertímini said to men → 'Convertei-vos' (D25's exception for convértere; safe at the vós imperative with the enclitic, D13). fílii hóminum → 'filhos dos homens' (4:3). 'e dissestes' keeps the Latin's et.",
+    "89:4": "ante óculos tuos → 'diante dos vossos olhos' (as 13:3d / 35:2b). The copula 'são' supplied (D2). The verse ends on a comma and runs into 89:5, as the Latin does.",
+    "89:6": "The subject of the six verbs is left unnamed, as in the Latin; DRB supplies 'man'.",
+    "89:7": "Quia → 'Porque'; defícere → desfalecer (row); ira / furor → ira / furor (row).",
+    "89:8": "in conspéctu tuo → 'à vossa vista' (row; 55:9's versicle 'Pusestes as minhas lágrimas à vossa vista' is the same build). vultus → rosto (row).",
+    "89:9b": "in ipsis → 'neles', now after the copula (v2, the stylist: a comma-cut 'neles' at the head was a false start); 'são' supplied. aránea → 'a aranha', with the article, as a kind.",
+    "89:10": "labor et dolor → 'fadiga e dor' (row, 9:28). 'é' supplied.",
+    "89:10b": "mansuetúdo → 'mansidão' (row, noun of manso); corrípere → castigar (D21; the row names 89:10). The sense of the verse (mildness came, and we shall be chastened) is the Latin's own puzzle and is not explained. The ambiguity reader listed 'sobreveio' as unknown; kept — supervénit's own verb, and 'veio sobre nós' would add the Greek's ἐφ᾿ ἡμᾶς, which the Latin lacks.",
+    "89:11": "novit → 'conhece' (perfect with present sense). potéstas → 'poder'. The Latin's iræ tuæ … iram tuam is kept twice.",
+    "89:12": "notam fac → 'fazei conhecer' (row, 76:15 'Fizestes conhecer'). erudíti → 'instruídos' (erudíre → instruir, row); the Latin follows the reading πεπαιδευμένους, not Rahlfs' πεπεδημένους 'fettered', and the Latin is followed. The second colon is a second object of 'fazei conhecer', verbless as in the Latin. v2: 'os de coração instruído' (the stylist: 'os instruídos de coração' is stiff and 'de coração' can be heard as 'sincerely'); the participle and the heart kept, order only.",
+    "89:13": "The formula 'Voltai-vos, Senhor, até quando?' (row: 6:5, 79:15, 89:13). The ambiguity reader listed 'aplacar' as unknown; kept (decision deprecabilis, where 'sede propício' is the plain option).",
+    "89:14": "exsultáre → exultar; delectári → deleitar-se (D44). ómnibus diébus nostris → 'em todos os nossos dias'. The Portuguese -amos forms are past and present at once; the context (repléti sumus) gives the past.",
+    "89:15": "pro → 'pelos'; the bare ablative annis takes the same 'pelos' (grammar). mala → 'males' (row). The ambiguity reader heard 'Alegramo-nos' as present or exhortative; the form is the Portuguese past as well, and 89:14's 'fomos cheios' sets the tense; accepted.",
+    "89:16": "Réspice in → 'Olhai para' (formula, 68:17, 73:20). ópera tua → 'as vossas obras'; 'seus filhos' = the servants' sons.",
+    "89:17": "splendor → 'esplendor' (λαμπρότης). sit → 'esteja' (jussive). 'sobre nós' twice, as the Latin. The last colon keeps the Latin's plain 'et' (MS1932's 'sim' is emphasis the Latin does not have). ópera (plural) and opus (singular) keep their numbers."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from the parallels, glossary and DECISIONS. Hard readings: 89:9b aránea … meditabúntur; 89:10 potentátibus and ámplius eórum; 89:13 deprecábilis; 89:6's six subjunctives; 89:16–17 dírige against the glossary's endireitai."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 89:1 second colon −6 (the formula 'de geração em geração'); 89:8 second colon −5 (the Latin's long illuminatióne against 'luz', row); 89:9b first colon +3 ('considerados'); 89:10 first colon −3; 89:12 +4 / +3 (the Latin's terse 'notam fac' and 'erudítos corde' need Portuguese periphrasis); the rhymes ira / ira (89:11) and mãos / mãos (89:17) are the Latin's own repetitions. 89:2 first colon was +5 and was shortened with reflexive passives to +4 (the counter does not elide; with sinalefa it is about +2), accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Reader: claude-opus-5-5, fresh context (run by the coordinator). 2 minor, no major: 89:8 taken; 89:2 refused for the settled formula.",
+      "outcomes": [
+        {
+          "verse": "89:2",
+          "remark": "a sǽculo et usque in sǽculum flattened to 'desde sempre … para todo o sempre'",
+          "outcome": "option",
+          "decision": "asaeculo",
+          "reason": "settled formula (D37, D41; 40:14 = 105:48); the glossary row names 89:2"
+        },
+        {
+          "verse": "89:8",
+          "remark": "sǽculum nostrum: 'o nosso tempo' vaguer than 'a nossa vida'",
+          "outcome": "taken",
+          "decision": "saeculum8"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Reader: claude-opus-5-5, fresh context. 6 remarks in 5 verses, all order or a choice between faithful words; all taken. Best line 89:9, worst 89:14.",
+      "outcomes": [
+        {
+          "verse": "89:1",
+          "remark": "'vós vos tornastes' stutters",
+          "outcome": "taken",
+          "decision": "factus"
+        },
+        {
+          "verse": "89:9b",
+          "remark": "'considerados' heavy; use 'meditados'",
+          "outcome": "taken",
+          "decision": "meditabuntur"
+        },
+        {
+          "verse": "89:9b",
+          "remark": "'neles,' at the head is a false start",
+          "outcome": "taken"
+        },
+        {
+          "verse": "89:10",
+          "remark": "'Se, porém,' written style",
+          "outcome": "taken"
+        },
+        {
+          "verse": "89:12",
+          "remark": "'os instruídos de coração' stiff; 'de coração' = sincerely",
+          "outcome": "taken"
+        },
+        {
+          "verse": "89:14",
+          "remark": "'cheios de manhã' heard as 'full of morning'",
+          "outcome": "taken",
+          "decision": "repleti"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Reader: claude-opus-5-5, fresh context. Most readings listed are the Latin's own openness; one taken (89:8).",
+      "outcomes": [
+        {
+          "verse": "89:2",
+          "remark": "predicate heard first",
+          "outcome": "refused",
+          "reason": "both readings are the Latin's; the line still carries both"
+        },
+        {
+          "verse": "89:3",
+          "remark": "plea vs past 'e dissestes' unclear link",
+          "outcome": "refused",
+          "reason": "the Latin's own juxtaposition (Ne avértas … et dixísti)"
+        },
+        {
+          "verse": "89:5",
+          "remark": "'vigília' heard as a vigil, not a watch",
+          "outcome": "refused",
+          "reason": "vigília is the Portuguese for the night watch (MS1932); 'guarda' is heard as a person — option in tamquam5"
+        },
+        {
+          "verse": "89:5",
+          "remark": "'seus anos' referent unclear",
+          "outcome": "refused",
+          "reason": "eórum is as open in the Latin"
+        },
+        {
+          "verse": "89:6",
+          "remark": "no subject; subjunctive heard as a wish",
+          "outcome": "refused",
+          "reason": "the Latin's mood and missing subject, kept on purpose (decision mood6)"
+        },
+        {
+          "verse": "89:8",
+          "remark": "'o nosso tempo' heard as a schedule",
+          "outcome": "taken",
+          "decision": "saeculum8"
+        },
+        {
+          "verse": "89:9b",
+          "remark": "point of the spider unclear",
+          "outcome": "refused",
+          "reason": "the Latin's crux; no gloss added"
+        },
+        {
+          "verse": "89:10b",
+          "remark": "mansidão then castigados clash",
+          "outcome": "refused",
+          "reason": "the Latin's puzzle, not explained (D2)"
+        },
+        {
+          "verse": "89:11",
+          "remark": "'vosso temor' could be God's own fear",
+          "outcome": "refused",
+          "reason": "timóre tuo is as open; 'por temor de vós' is an option"
+        },
+        {
+          "verse": "89:12",
+          "remark": "second colon heard as a fragment",
+          "outcome": "refused",
+          "reason": "verbless in the Latin; reordered for the stylist"
+        },
+        {
+          "verse": "89:15",
+          "remark": "'Alegramo-nos' heard present/exhortative",
+          "outcome": "refused",
+          "reason": "the form is past too; 89:14 sets the tense"
+        },
+        {
+          "verse": "89:17",
+          "remark": "'sobre nós' with encaminhai puzzling",
+          "outcome": "refused",
+          "reason": "the Latin's dírige super nos"
+        },
+        {
+          "verse": "89:13 / 89:7 / 89:10b",
+          "remark": "unknown words: aplacar, desfalecemos, sobreveio",
+          "outcome": "refused",
+          "reason": "desfalecer is the glossary's; sobreveio is supervénit's verb; aplacar has 'sede propício' as option"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 89:1 order (para nós vos tornastes refúgio); 89:8 a nossa vida; 89:9b meditados and 'são neles'; 89:10 Mas, se; 89:12 os de coração instruído; 89:14 De manhã fomos cheios. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass. Soft flags as v1; 89:10 first colon now −4 ('Mas, se houver forças'), accepted — the Latin's long potentátibus against a plain verb phrase."
+    }
+  ]
+}

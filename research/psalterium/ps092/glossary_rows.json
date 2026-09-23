@@ -1,0 +1,27 @@
+{
+  "append": [
+    {"row": "| decor |", "text": "**Ps 92:1a *decórem indútus est* → *vestiu-se de esplendor*** — the row; the Latinist (minor, v1 and v2 gate) asked *beleza*, held as at 44:12; the stylist named 92:1a the best line."},
+    {"row": "| fortitúdo |", "text": "**Ps 92:1a *indútus est Dóminus fortitúdinem* → *vestiu-se o Senhor de força*** — no reader remarked."},
+    {"row": "| *præcínxit / præcinxísti me virtúte* (17:33, 17:40; cf. 92:1a *indútus est Dóminus fortitúdinem, et præcínxit se*) |", "text": "**Ps 92:1a *et præcínxit se* → *e se cingiu*** (no complement, as the Latin; MS1932 *cingiu-se dela* and the antiphon's *virtúte* are other texts). The ambiguity reader listed *cingiu* as unknown, as at 64:7; kept."},
+    {"row": "| étenim / nam et / enim |", "text": "**Ps 92:1b *Étenim firmávit* → *Pois ele firmou*** — the subject named (short colon; the Lord, not the girding)."},
+    {"row": "| orbis terræ |", "text": "**Ps 92:1b *firmávit orbem terræ, qui non commovébitur* → *Pois ele firmou o mundo, que não será abalado*** (D30); the participle agrees with *o mundo* because the relative names the subject (D43's *não se abalará* is for the subjectless verb). 95:10 is the near-twin (*corréxit*)."},
+    {"row": "| sedes (God's) |", "text": "**Ps 92:2 *Paráta sedes tua ex tunc* → *O vosso trono está preparado desde então*** — no reader objected to *trono*."},
+    {"row": "| parátus (adjective: ready) |", "text": "**Ps 92:2 *Paráta sedes tua* → *preparado*, a local departure** (ἕτοιμος): said of a throne *pronto* sounds domestic ('finished'); *preparado* keeps the participle. *pronto* option (saves two syllables on a +6 colon)."},
+    {"row": "| ex tunc (*ex tunc ira tua*) |", "text": "**Ps 92:2 *ex tunc* → *desde então*** — the ambiguity reader asked what point it names; as unanchored as the Latin."},
+    {"row": "| a sǽculo |", "text": "**Ps 92:2 *a sǽculo tu es* → *vós sois desde sempre*** — the stylist: 'exactly the right weight'."},
+    {"row": "| fluctus |", "text": "**Ps 92:3b *fluctus suos* → *as suas ondas*** — and *elatiónes maris* (92:4b) is not *ondas*: it has its own row, *vagalhões*."},
+    {"row": "| mirábilis |", "text": "**Ps 92:4b *Mirábiles elatiónes maris: mirábilis in altis Dóminus* → *Maravilhosos são os vagalhões do mar: maravilhoso é o Senhor nas alturas*** — the repetition kept, copulas supplied."},
+    {"row": "| nimis |", "text": "**Ps 92:5 *credibília facta sunt nimis* → *se tornaram muito dignos de fé*** — as 47:2; the stylist's *sobremaneira* refused (unknown to earlier blind readers), option. 95:4 and 144:3 still to copy 47:2."},
+    {"row": "| longitúdo diérum |", "text": "**Ps 92:5 *in longitúdinem diérum* → *por longos dias*** (as 22:6b; the Dedication antiphon C8). The Latinist asked *pela longura dos dias* twice (minor: 'an idiom for unending duration'); refused, *longura* archaic; option. The ambiguity reader heard 'for a long time, possibly forever'."}
+  ],
+  "terms": [
+    "| elátio (*elatiónes maris*) | vagalhões (*Maravilhosos são os vagalhões do mar*) | open | Ps 92:4b only (grep the psalter before settling); μετεωρισμοί, the Greek 41:8b renders *excélsa* (→ *alturas*, D42) — *alturas* cannot serve here because *in altis → nas alturas* stands in the same verse. L&S cites this verse: 'high waves'; DRB 'surges'. Draft 1 *as elevações* (MS1932; keeps the lifting and the echo with *elevaram*) was heard as terrain by the stylist and the ambiguity reader. *vagas* (the stylist's) refused: heard as vacancies, and near *ondas* (*fluctus*). |",
+    "| credíbilis | digno de fé (*muito dignos de fé*) | open | Ps 92:5 (ἐπιστώθησαν); keeps *fé*, the root of *crédere*; *críveis* bookish, *fidedignos* legal — options. 110:8 *fidélia* is another word. |",
+    "| sanctitúdo | santidade (*à vossa casa convém a santidade*) | open | Ps 92:5 (ἁγίασμα, which can be 'sanctuary'; the Latin chose the abstract noun — DRB 'holiness'); shares *santidade* with *sanctitas* (29:5); the Dedication antiphon *Domum tuam, Dómine, decet sanctitúdo* (C8). |",
+    "| a (+ ablative of sound: *a vócibus aquárum multárum*) | pelas (*pelas vozes das muitas águas*) | open | Ps 92:3b (DO's 4a; ἀπό, the Greek's verse 4 opens with it; the Hebrew's comparative is not the Latin's). v1 *com as* (DRB, MS1932) was marked by the v1 Latinist as closing the Latin's openness; the v2 gate asked for *com* back — the runs contradict; *pelas* held. *vox → voz* keeps the echo with 92:3a *vocem suam*. |"
+  ],
+  "formulas": [
+    "| *Dóminus regnávit, decórem indútus est: * indútus est Dóminus fortitúdinem, et præcínxit se* (92:1a; *Dóminus regnávit* opens 96:1 and 98:1; the antiphon *Dóminus regnávit, decórem índuit*, Psalmi major and missa Nat1-0 — grep) | *O Senhor reinou, vestiu-se de esplendor: * vestiu-se o Senhor de força, e se cingiu* | open — Ps 92; *reinou* the Latin's perfect (DRB, MS1932; *reina* DM1962 option); 96:1 and 98:1 should open *O Senhor reinou*. |",
+    "| *Domum tuam, Dómine, decet sanctitúdo in longitúdinem diérum* (92:5b; the Dedication antiphon and versicle, Commune/C8 — grep) · *Deus firmávit orbem terræ, qui non commovébitur: paráta sedes tua, Deus, ex tunc, a sǽculo tu es* (92:1b–2 with *Deus* added; the Offertory of Nat1-0) | *à vossa casa convém a santidade, Senhor, por longos dias* (read alone: *À vossa casa, Senhor, convém a santidade por longos dias*) · *Pois ele firmou o mundo, que não será abalado … O vosso trono está preparado desde então: vós sois desde sempre* | open — Ps 92 |"
+  ]
+}

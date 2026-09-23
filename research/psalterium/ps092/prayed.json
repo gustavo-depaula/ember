@@ -1,0 +1,560 @@
+{
+  "psalm": 92,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "92:1a": "O Senhor {regnavit}, {indutus1} de {decor}: * {indutus2} o Senhor de força, {praecinxit}.",
+    "92:1b": "{etenim} o mundo, * que não será abalado.",
+    "92:2": "O vosso trono está {parata} desde então: * vós sois desde sempre.",
+    "92:3a": "{elev1}, Senhor: * os rios elevaram a sua voz.",
+    "92:3b": "{elev3b} as suas ondas, * {avocibus} vozes das muitas águas.",
+    "92:4b": "{elationes} do mar: * maravilhoso é o Senhor nas alturas.",
+    "92:5": "Os vossos testemunhos se tornaram {credibilia}: * à vossa casa convém a santidade, Senhor, {longitudo}."
+  },
+  "decisions": [
+    {
+      "id": "regnavit",
+      "refs": [
+        "92:1a"
+      ],
+      "latin": "Dóminus regnávit",
+      "kind": "grammar",
+      "why": "The Latin perfect follows the Greek aorist ἐβασίλευσεν, which can be read as 'has become king' (a reign begun and standing). The Hebrew-family versions say 'reigns' (DM1962 *O Senhor reina*). Ruled: the Latin's tense, as both Vulgate-family witnesses keep it (DRB 'hath reigned', MS1932 *reinou*); the enthronement sense stays in the reader's ear, as it does in the Latin. The same words open Pss 96 and 98 and the Christmas and Epiphany antiphon *Dóminus regnávit, decórem índuit* (grep: Psalmi major; Nat1-0 missa), so this is a formula those psalms should copy.",
+      "options": [
+        {
+          "label": "reinou",
+          "forms": {
+            "regnavit": "reinou"
+          },
+          "note": "Ruling: the Latin's perfect; DRB, MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "reina",
+          "forms": {
+            "regnavit": "reina"
+          },
+          "note": "Present, as the Hebrew-family versions (DM1962). The Latin does not say it.",
+          "from": "DM1962"
+        },
+        {
+          "label": "é rei",
+          "forms": {
+            "regnavit": "é rei"
+          },
+          "note": "The state, not the act; interprets the aorist."
+        }
+      ]
+    },
+    {
+      "id": "indutus",
+      "refs": [
+        "92:1a"
+      ],
+      "latin": "decórem indútus est: indútus est Dóminus fortitúdinem",
+      "kind": "word",
+      "why": "The Latin repeats *indútus est* across the mediant, and the repetition is kept (rule 2). *Vestir-se de* is the plain verb and the one Ps 34 settled for *indúere* reflexive (34:13, 34:26b); MS1932 has *vestiu-se* both times. *Revestir-se* is more ceremonious and adds a syllable to each colon (the second colon is short); kept as the option.",
+      "options": [
+        {
+          "label": "vestiu-se … vestiu-se",
+          "forms": {
+            "indutus1": "vestiu-se",
+            "indutus2": "vestiu-se"
+          },
+          "note": "Ruling: the plain verb, twice, as the Latin; MS1932.",
+          "from": "draft"
+        },
+        {
+          "label": "revestiu-se … revestiu-se",
+          "forms": {
+            "indutus1": "revestiu-se",
+            "indutus2": "revestiu-se"
+          },
+          "note": "More solemn; one syllable more each time."
+        }
+      ]
+    },
+    {
+      "id": "decor",
+      "refs": [
+        "92:1a"
+      ],
+      "latin": "decórem",
+      "kind": "glossary",
+      "why": "The glossary row *decor → esplendor* (open) names this verse among its eight places and has been applied at 20:6, 25:8, 29:8, 44:12. It keeps *decor* apart from *pulchritúdo → beleza* (95:6 / 103:1 are twins). DRB 'beauty', MS1932 *magnificência* (a word the glossary keeps for *magnificéntia*), DM1962 *majestade* (from the Hebrew 'majesty'). Followed. v1: the Latinist (minor) asked for *beleza* ('decor is comeliness, not radiance'). Refused under the row, as at 44:12 where the same minor was refused twice: *beleza* is *pulchritúdo*'s, and 95:6 / 103:1 need the two apart. The ambiguity reader and the stylist passed *esplendor* (the stylist called 92:1a the best line).",
+      "options": [
+        {
+          "label": "esplendor",
+          "forms": {
+            "decor": "esplendor"
+          },
+          "note": "Ruling: the glossary row.",
+          "from": "glossary"
+        },
+        {
+          "label": "beleza",
+          "forms": {
+            "decor": "beleza"
+          },
+          "note": "DRB 'beauty'; the row keeps it for *pulchritúdo*. Also the v1 Latinist's fix.",
+          "from": "DRB"
+        },
+        {
+          "label": "majestade",
+          "forms": {
+            "decor": "majestade"
+          },
+          "note": "DM1962, from the Hebrew; not the Latin's word.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "praecinxit",
+      "refs": [
+        "92:1a"
+      ],
+      "latin": "et præcínxit se",
+      "kind": "grammar",
+      "why": "*præcíngere → cingir* (glossary, 17:33, 17:40; the 17:33 row names this verse). The Latin gives the verb no complement: girded himself — with the strength just named, but the Latin does not say so; MS1932 adds *dela*, and the liturgical form of the antiphon adds *virtúte* (grep: Psalmi major, *præcínxit se virtúte*) — both are other texts, not this one. Proclisis after *e* is the Brazilian order and ends the verse on the verb's stressed syllable.",
+      "options": [
+        {
+          "label": "e se cingiu",
+          "forms": {
+            "praecinxit": "e se cingiu"
+          },
+          "note": "Ruling: nothing added; Brazilian proclisis.",
+          "from": "draft"
+        },
+        {
+          "label": "e cingiu-se",
+          "forms": {
+            "praecinxit": "e cingiu-se"
+          },
+          "note": "Enclitic, echoing *vestiu-se*; ends paroxytone."
+        },
+        {
+          "label": "e cingiu-se dela",
+          "forms": {
+            "praecinxit": "e cingiu-se dela"
+          },
+          "note": "MS1932: supplies what the Latin leaves unsaid.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "etenim",
+      "refs": [
+        "92:1b"
+      ],
+      "latin": "Étenim firmávit orbem terræ",
+      "kind": "grammar",
+      "why": "*étenim → pois* (glossary, working). *Orbis terræ → o mundo* (D30, settled; this verse is in its list), which leaves the colon four syllables under the Latin; the subject pronoun *ele* is supplied (grammar, D2) — it also makes the Lord the one who establishes, where a bare *Pois firmou* after *e se cingiu* could be heard for a moment as continuing the girding. *firmáre → firmar* (MS1932 *firmou*; DM1962 too).",
+      "options": [
+        {
+          "label": "Pois ele firmou",
+          "forms": {
+            "etenim": "Pois ele firmou"
+          },
+          "note": "Ruling: the subject named (grammar, D2).",
+          "from": "draft"
+        },
+        {
+          "label": "Pois firmou",
+          "forms": {
+            "etenim": "Pois firmou"
+          },
+          "note": "The Latin's bare verb; a short colon."
+        }
+      ]
+    },
+    {
+      "id": "parata",
+      "refs": [
+        "92:2"
+      ],
+      "latin": "Paráta sedes tua ex tunc",
+      "kind": "word",
+      "why": "The Latin has no verb; the copula is supplied (D2). *Paráta* is a participle, but the Greek is the adjective ἕτοιμος 'ready', and the glossary row *parátus (adjective) → pronto* (16:12, 56:8) would give *pronto*. Ruled for *preparado* here: said of a throne, *pronto* is heard as 'finished, done' (furniture ready for delivery), while *preparado* keeps the participle the Latin has and the sense 'made ready of old'; DRB 'prepared'. *sedes → trono* (glossary), *ex tunc → desde então* (glossary, 75:8b). The first colon runs long against the Latin's nine syllables; accepted, since natural order needs the copula. v1: the stylist found the colon long and asked to drop the article (*Vosso trono*); refused, the article before possessives is a style rule (rule 5); *pronto* (option) is the way to shorten it. The ambiguity reader asked what *desde então* points to — the Latin's *ex tunc* is as unanchored; kept.",
+      "options": [
+        {
+          "label": "preparado",
+          "forms": {
+            "parata": "preparado"
+          },
+          "note": "Ruling: the participle; DRB 'prepared'.",
+          "from": "draft"
+        },
+        {
+          "label": "pronto",
+          "forms": {
+            "parata": "pronto"
+          },
+          "note": "The glossary's *parátus* row (ἕτοιμος); shorter, but said of a throne it sounds domestic.",
+          "from": "glossary"
+        },
+        {
+          "label": "firme",
+          "forms": {
+            "parata": "firme"
+          },
+          "note": "DM1962, from the Hebrew 'established'; not the Latin's word.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "elev1",
+      "refs": [
+        "92:3a",
+        "92:3b"
+      ],
+      "latin": "Elevavérunt flúmina, Dómine",
+      "kind": "ambiguity",
+      "why": "*Elevavérunt* opens three colons running; the anaphora is kept, verb first each time. In the first colon the verb has no object, and *flúmina* is nominative or accusative alike: the Latin, for one breath, can be heard as 'they lifted up the rivers'. Verb-first Portuguese has the same momentary openness, which the second colon closes, as the Latin's does. MS1932 turns the order (*Os rios, Senhor, levantaram*), which closes it at once and breaks the anaphora. *eleváre → elevar* (glossary, kept apart from *leváre → levantar* and *attóllere → erguer*). v2: the stylist heard the verb-first colon as 'they raised up the rivers' and asked for the subject first; the ambiguity reader listed the same reading. A Latin ear takes *flúmina* as the subject without effort, so the misparse is the Portuguese order's, not the Latin's ambiguity; order is grammar (D2). Taken in all three colons, so the repetition stays exact: *Os rios elevaram … os rios elevaram … Os rios elevaram*.",
+      "options": [
+        {
+          "label": "Os rios elevaram",
+          "forms": {
+            "elev1": "Os rios elevaram",
+            "elev3b": "Os rios elevaram"
+          },
+          "note": "Ruling (v2): subject first, the anaphora kept in all three colons; the stylist's, and MS1932's order.",
+          "from": "stylist"
+        },
+        {
+          "label": "Elevaram os rios",
+          "forms": {
+            "elev1": "Elevaram os rios",
+            "elev3b": "Elevaram os rios"
+          },
+          "note": "Draft 1: the Latin's verb-first order; heard as 'they raised the rivers' by two readers.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "avocibus",
+      "refs": [
+        "92:3b"
+      ],
+      "latin": "a vócibus aquárum multárum",
+      "kind": "ambiguity",
+      "why": "The Vulgate division joins this phrase to 92:3b (DO marks it 4a); in the Greek it opens v. 4 (ἀπὸ φωνῶν ὑδάτων πολλῶν), and in the Hebrew it is a comparative ('more than the voices'), which the Latin *a* + ablative does not give. *A* is open between source, cause and accompaniment; both Vulgate-family witnesses say 'with' (DRB 'with the noise of many waters', MS1932 *com o estrondo*), the lightest reading. *vox → voz* keeps the echo with 92:3a *vocem suam*, which *estrondo* or *som* would lose. *aquæ multæ → as muitas águas*, as 31:6b. v2: the Latinist (minor) held that *com* reduces *a* to accompaniment and closes what the Latin leaves open; he asked for *pelas*. Taken: Portuguese *por* spans cause, agent and means as *a* + ablative does, where *com* is only accompaniment — the ambiguity reader heard 'accompanied' first with *com*. v2 gate: the Latinist asked back for *com* — contradicting his v1 request; held (see audit).",
+      "options": [
+        {
+          "label": "pelas",
+          "forms": {
+            "avocibus": "pelas"
+          },
+          "note": "Ruling (v2): the Latinist's; *por* is as open as *a*.",
+          "from": "latinist"
+        },
+        {
+          "label": "com as",
+          "forms": {
+            "avocibus": "com as"
+          },
+          "note": "Draft 1: DRB 'with', MS1932 *com*; accompaniment only.",
+          "from": "draft"
+        },
+        {
+          "label": "ao som das",
+          "forms": {
+            "avocibus": "ao som das"
+          },
+          "note": "Adds 'sound' beside 'voices'; a word the Latin lacks."
+        }
+      ]
+    },
+    {
+      "id": "elationes",
+      "refs": [
+        "92:4b"
+      ],
+      "latin": "elatiónes maris",
+      "kind": "word",
+      "why": "*elátio* is 'a lifting up'; Lewis & Short cite this verse: *maris, i.e. high waves*. The Greek μετεωρισμοί is the word the Latin renders *excélsa* at 41:8b (ruled *alturas*, D42); *alturas* cannot serve here, because *in altis → nas alturas* stands in the same verse. *Elevações* keeps the Latin's image of lifting and echoes the threefold *elevaram* just before (as *elatiónes* echoes *elevavérunt* in sound); MS1932 has *as elevações do mar*. *Ondas* is taken by *fluctus* one verse up (D42). The risk is a reader hearing a landscape word; the sea after it should prevent it. v2: the stylist (fails 'concrete', 'native') and the ambiguity reader both heard *elevações* as terrain, and the ambiguity reader listed it as unknown in this sense. Two readers, one fault: a wrong first hearing. Ruled for *os vagalhões*, L&S's own gloss for this verse ('high waves') — a concrete sea word, distinct from *ondas* (*fluctus*, 92:3b); the image of lifting survives in the size of the wave. The stylist's *as vagas* was weighed and refused: in Brazil *vagas* is heard first as vacancies, and it is a near-synonym of *ondas* that would blur *fluctus* and *elatiónes*. The adjective agrees with the noun chosen (*Maravilhosos são os vagalhões*), so the slot carries it.",
+      "options": [
+        {
+          "label": "os vagalhões",
+          "forms": {
+            "elationes": "Maravilhosos são os vagalhões"
+          },
+          "note": "Ruling (v2): L&S 'high waves', DRB 'surges'; concrete.",
+          "from": "DRB"
+        },
+        {
+          "label": "as elevações",
+          "forms": {
+            "elationes": "Maravilhosas são as elevações"
+          },
+          "note": "Draft 1, MS1932: the Latin's image of lifting; heard as terrain by two readers.",
+          "from": "draft"
+        },
+        {
+          "label": "as vagas",
+          "forms": {
+            "elationes": "Maravilhosas são as vagas"
+          },
+          "note": "The stylist's; *vagas* is heard first as vacancies, and blurs with *ondas*.",
+          "from": "stylist"
+        },
+        {
+          "label": "a ressaca",
+          "forms": {
+            "elationes": "Maravilhosas são a ressaca"
+          },
+          "note": "DM1962, from the Hebrew 'breakers'.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "credibilia",
+      "refs": [
+        "92:5"
+      ],
+      "latin": "credibília facta sunt nimis",
+      "kind": "word",
+      "why": "*credíbilis* (ἐπιστώθησαν, 'were made sure, confirmed'). *Dignos de fé* is plain and keeps *fé*, the root of *crédere* (MS1932 *digníssimos de fé*). *Críveis* is the cognate but a bookish word in speech; *fidedignos* is legal register. *facta sunt → se tornaram* (DRB 'are become'). *nimis → muito*, as 47:2 *laudábilis nimis → muito digno de louvor* (the *nimis* row), the same build; *sem medida* (118:138, 37:9) the option. v1: the stylist found the colon prosaic and asked for *sobremaneira* and no article (*Vossos testemunhos*). Refused: *sobremaneira* was unknown to blind readers at 118:96 and 30:12 (the *nimis* row, D38 review), and the article before a possessive is a style rule (rule 5). The ambiguity reader heard *se tornaram* as implying they were once less credible — that is the Latin's *facta sunt* (ἐπιστώθησαν, 'were confirmed'); kept.",
+      "options": [
+        {
+          "label": "muito dignos de fé",
+          "forms": {
+            "credibilia": "muito dignos de fé"
+          },
+          "note": "Ruling: as 47:2; MS1932's words without the superlative.",
+          "from": "draft"
+        },
+        {
+          "label": "dignos de fé sem medida",
+          "forms": {
+            "credibilia": "dignos de fé sem medida"
+          },
+          "note": "The *nimis* row's other form (118:138).",
+          "from": "glossary"
+        },
+        {
+          "label": "muito críveis",
+          "forms": {
+            "credibilia": "muito críveis"
+          },
+          "note": "The cognate; bookish in speech."
+        },
+        {
+          "label": "sobremaneira dignos de fé",
+          "forms": {
+            "credibilia": "sobremaneira dignos de fé"
+          },
+          "note": "The stylist's; *sobremaneira* unknown to earlier blind readers.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "longitudo",
+      "refs": [
+        "92:5"
+      ],
+      "latin": "in longitúdinem diérum",
+      "kind": "glossary",
+      "why": "The glossary row *longitúdo diérum → longos dias* names this verse; 22:6b has the same phrase with *in* → *por longos dias* (heard as 'many years'), and it is copied. The colon is also the Dedication antiphon and versicle (*Domum tuam, Dómine, decet sanctitúdo in longitúdinem diérum*, C8 — grep), which reads alone with these words. DM1962 *para sempre* interprets. v1: the Latinist (minor) said *por longos dias* reduces an idiom of unending duration to a finite span and asked for *pela longura dos dias*. Refused: *longura* is archaic in Brazil (rule 5), and the row, set at 22:6b, is kept so the phrase reads alike in both psalms; the ambiguity reader heard 'for a long time, possibly forever', which is the Latin's own openness. His wording is an option.",
+      "options": [
+        {
+          "label": "por longos dias",
+          "forms": {
+            "longitudo": "por longos dias"
+          },
+          "note": "Ruling: the row, as 22:6b.",
+          "from": "glossary"
+        },
+        {
+          "label": "para longos dias",
+          "forms": {
+            "longitudo": "para longos dias"
+          },
+          "note": "*in* + accusative as direction."
+        },
+        {
+          "label": "pela longura dos dias",
+          "forms": {
+            "longitudo": "pela longura dos dias"
+          },
+          "note": "The v1 Latinist's; *longura* archaic.",
+          "from": "latinist"
+        },
+        {
+          "label": "pela longa duração dos dias",
+          "forms": {
+            "longitudo": "pela longa duração dos dias"
+          },
+          "note": "Near MS1932 *em toda a duração dos dias*; keeps the noun, long.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "92:1a": "The same Latin opens Pss 96 and 98 (*Dóminus regnávit*) and the antiphon of Christmas and Epiphany *Dóminus regnávit, decórem índuit* (Psalmi major; Nat1-0 missa, grep): *O Senhor reinou, vestiu-se de esplendor* reads alone. *fortitúdo → força* (glossary). The second colon runs a few syllables under the Latin; accepted rather than padded.",
+    "92:1b": "*non commovébitur* has a subject here (the relative, antecedent *orbis*), so the participle *abalado* agrees with *o mundo* (as 20:8 *não será abalado*); D43's pronominal *não se abalará* is for the verb without a named subject. The Christmas Offertory (Nat1-0 missa) quotes 92:1b–2 with *Deus* added: *Deus firmávit orbem terræ … paráta sedes tua, Deus, ex tunc*.",
+    "92:2": "*a sǽculo → desde sempre* (glossary row, which names 92:2). The Latin's explicit *tu es* keeps its pronoun: *vós sois*.",
+    "92:3a": "*Dómine* as vocative *Senhor* between the verb and the second colon, as the Latin places it.",
+    "92:3b": "The inline '(4a)' marker is not reproduced. *fluctus → ondas* (D42).",
+    "92:4b": "*mirábilis → maravilhoso* (glossary), twice, as the Latin repeats it; copulas supplied (D2), as 47:2 *Grande é o Senhor*. *in altis → nas alturas* (ἐν ὑψηλοῖς).",
+    "92:5": "*testimónia → testemunhos* (D15). *decet → convém* (as 64:2 *A vós convém o hino*). *sanctitúdo → santidade* (the Greek ἁγίασμα can be 'sanctuary', but the Latin chose the abstract noun; DRB 'holiness', MS1932 *santidade*). The vocative *Senhor* stays where the Latin has it; the colon reads alone as the Dedication antiphon."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps092.md and the glossary. Hard readings: *elatiónes maris* (the Greek word 41:8b renders *excélsa*); *a vócibus* (the Greek and Hebrew divide and construe it otherwise; the Latin's division followed); *paráta* against the *parátus → pronto* row. Glossary rows applied: decor, orbis terræ (D30), sedes, ex tunc, a sǽculo, eleváre, fluctus (D42), aquæ multæ (31:6b), mirábilis, testimónia (D15), nimis (47:2), longitúdo diérum (22:6b), præcíngere, fortitúdo, étenim."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 92:2 first colon +6 (the Latin is verbless; natural order needs the copula and *preparado* — *pronto*, the option, saves two; still one breath); 92:4b second colon +3 (the copula supplied, as 47:2); 92:5 second colon −3 (Portuguese elides where the Latin does not). 92:1b first colon is two under even with *ele* supplied."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context. 3 minor, no major. 92:3b taken; 92:1a and 92:5 refused under glossary rows.",
+      "outcomes": [
+        {
+          "verse": "92:1a",
+          "remark": "decor is beauty, not radiance: vestiu-se de beleza",
+          "outcome": "option",
+          "decision": "decor",
+          "reason": "glossary row decor → esplendor, beleza kept for pulchritúdo (95:6/103:1); the same minor refused twice at 44:12"
+        },
+        {
+          "verse": "92:3b",
+          "remark": "'com' flattens a + ablative; pelas",
+          "outcome": "taken"
+        },
+        {
+          "verse": "92:5",
+          "remark": "por longos dias finite; pela longura dos dias",
+          "outcome": "option",
+          "decision": "longitudo",
+          "reason": "longura archaic; row and 22:6b kept"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context. 5 remarks; best line 92:1a, worst 92:5. 3a/3b order taken; 4b taken in another word (vagalhões, not vagas); 92:2 and 92:5 refused.",
+      "outcomes": [
+        {
+          "verse": "92:2",
+          "remark": "drop article: Vosso trono",
+          "outcome": "refused",
+          "reason": "article before possessives is rule 5"
+        },
+        {
+          "verse": "92:3a",
+          "remark": "verb-first misheard as 'they raised the rivers'; Os rios elevaram",
+          "outcome": "taken"
+        },
+        {
+          "verse": "92:3b",
+          "remark": "keep anaphora parallel: Os rios elevaram",
+          "outcome": "taken"
+        },
+        {
+          "verse": "92:4b",
+          "remark": "elevações is terrain; as vagas",
+          "outcome": "option",
+          "decision": "elationes",
+          "reason": "the fault taken, but os vagalhões chosen: vagas heard as vacancies and blurs with ondas (fluctus)"
+        },
+        {
+          "verse": "92:5",
+          "remark": "prosaic; sobremaneira, drop article",
+          "outcome": "option",
+          "decision": "credibilia",
+          "reason": "sobremaneira unknown to earlier blind readers; article is rule 5"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context. 13 readings, 2 unknown words (cingiu; elevações in this sense). Acted on elevações and the 3a verb-first reading; the rest are the Latin's own openness.",
+      "outcomes": [
+        {
+          "verse": "92:1a",
+          "remark": "e se cingiu: with strength or bare; cingiu unknown",
+          "outcome": "refused",
+          "reason": "the Latin's complement-less verb; cingir is the glossary's (17:33, 64:7)"
+        },
+        {
+          "verse": "92:2",
+          "remark": "desde então unanchored; switch ele→vós abrupt",
+          "outcome": "refused",
+          "reason": "both are the Latin's (ex tunc; the turn to tu)"
+        },
+        {
+          "verse": "92:3a",
+          "remark": "Elevaram os rios read as 'they raised the rivers'",
+          "outcome": "taken"
+        },
+        {
+          "verse": "92:3b",
+          "remark": "com as vozes: accompaniment first",
+          "outcome": "taken"
+        },
+        {
+          "verse": "92:4b",
+          "remark": "elevações heard as terrain; unknown in this sense",
+          "outcome": "taken"
+        },
+        {
+          "verse": "92:5",
+          "remark": "se tornaram implies once less credible; convém as 'advisable'; por longos dias finite",
+          "outcome": "refused",
+          "reason": "facta sunt is the Latin's; convém is the row (64:2); longos dias the row (22:6b)"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: subject first in 92:3a/3b (anaphora kept in three colons); a vócibus → pelas; elatiónes → os vagalhões. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass; same soft flags as v1 (92:2 +6, 92:4b second colon +3, 92:5 second colon −3), accepted for the same reasons. 92:4b's adjective now agrees with *vagalhões* (masculine)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2, claude-opus-5-5, fresh context, with latin.json. No major. Three minors, the same three verses as v1: 92:1a and 92:5 repeated and held under their rows; 92:3b now asks back for *com*, the very wording v1 asked him to leave — the two runs contradict each other, so *pelas* stands (the gate's inconsistency between runs, as D24 and D43 found) and *com as* stays option 2.",
+      "outcomes": [
+        {
+          "verse": "92:1a",
+          "remark": "decor is comeliness: vestiu-se de beleza (repeated)",
+          "outcome": "option",
+          "decision": "decor",
+          "reason": "glossary row decor → esplendor; beleza is pulchritúdo's (95:6/103:1)"
+        },
+        {
+          "verse": "92:3b",
+          "remark": "'pelas' fixes a causal reading; com as vozes",
+          "outcome": "option",
+          "decision": "avocibus",
+          "reason": "v1's gate asked for pelas against com; the two runs contradict; por is the broader preposition and com was heard as accompaniment by the ambiguity reader"
+        },
+        {
+          "verse": "92:5",
+          "remark": "por longos dias weakens length of days; pela longura dos dias (repeated)",
+          "outcome": "option",
+          "decision": "longitudo",
+          "reason": "longura archaic; the row and 22:6b kept"
+        }
+      ]
+    }
+  ]
+}
