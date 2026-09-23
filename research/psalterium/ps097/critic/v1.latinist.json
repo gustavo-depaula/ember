@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "2ce944b885dee8024365109b58825c7d157d152e34c285f206c9be7e39453253",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T03:50:32+00:00",
+  "reply": "{\"verses\": [{\"id\": \"97:1b\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Salvávit sibi déxtera ejus\", \"portuguese\": \"A sua direita salvou para ele\", \"problem\": \"'sibi' is reflexive (for himself, i.e. the subject's owner, God); 'para ele' is looser and could be read as pointing to someone else. 'para si' keeps the reflexive.\", \"fix\": \"A sua direita salvou para si, * e o seu braço santo.\"}]}, {\"id\": \"97:8\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Flúmina plaudent manu\", \"portuguese\": \"Os rios baterão palmas\", \"problem\": \"'manu' (with the hand, singular) is absorbed into the idiom 'bater palmas'; defensible, but the concrete instrument could be kept.\", \"fix\": \"Os rios aplaudirão com a mão\"}]}], \"overall\": \"The translation is faithful throughout: tenses, moods, persons and the Septuagintal imagery (trumpets of beaten metal, horn trumpet, voice of psalm) are kept, and the pointing marks match the Latin in every verse. Only two minor points: the reflexive 'sibi' in 97:1b and the singular 'manu' in 97:8.\"}\n"
+}

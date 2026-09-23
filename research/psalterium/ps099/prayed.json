@@ -1,0 +1,530 @@
+{
+  "psalm": 99,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "99:2a": "Aclamai a Deus, toda a terra: * {servite} {laetitia}.",
+    "99:2b": "Entrai {conspectu}, * com exultação.",
+    "99:3a": "Sabei que {ipse} é Deus: * {ipsefecit} nos fez, e não nós mesmos.",
+    "99:3b": "{populus} e as ovelhas da sua {pascua}: ‡ entrai com {confessione} {portas}, * com hinos {atria}: dai-lhe graças.",
+    "99:4b": "Louvai o seu nome, porque o Senhor é {suavis}, † é para sempre a sua misericórdia, * e {usque} a sua verdade."
+  },
+  "decisions": [
+    {
+      "id": "servite",
+      "refs": [
+        "99:2a"
+      ],
+      "latin": "servíte Dómino",
+      "kind": "glossary",
+      "why": "D18 (settled): servíre at the vós imperative → 'Sede servos do Senhor', because bare 'Servi ao Senhor' is also 'I served the Lord'. D18 named this verse as the one place where context could carry the bare form — an unambiguous imperative ('Aclamai') has already sounded in the same verse — and recorded that as a possible rule for Gustavo, not adopted. So the ruling is followed here and the bare form is kept one touch away. After the mediant a lower-case 'sede' continues the verse. v1: the Latinist (minor) and the stylist both asked for 'servi ao Senhor', as for 2:11. Refused under settled D18; the option stands for Gustavo. The ambiguity reader noted 'sede' may flash as the noun 'thirst' for a moment before the imperative is heard — the vós form's known cost.",
+      "options": [
+        {
+          "label": "sede servos do Senhor",
+          "forms": {
+            "servite": "sede servos do Senhor"
+          },
+          "note": "Ruling: D18, as 2:11. Keeps the root (servo); the dative becomes a genitive.",
+          "from": "glossary"
+        },
+        {
+          "label": "servi ao Senhor",
+          "forms": {
+            "servite": "servi ao Senhor"
+          },
+          "note": "Matos Soares 1932 ('servi o Senhor', without the preposition) and DM1962 ('serve ao Senhor', tu). The verse D18 said would be freed by the rule 'the bare form is allowed when an unambiguous imperative has already sounded in the same verse' — here 'Aclamai' precedes it. Refused only because that rule was not adopted.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "laetitia",
+      "refs": [
+        "99:2a"
+      ],
+      "latin": "in lætítia",
+      "kind": "grammar",
+      "why": "The psalm has four 'in' + ablative phrases of manner (in lætítia, in exsultatióne, in confessióne, in hymnis); all four take 'com', so the reader hears the Latin's one preposition as one Portuguese preposition. 2:11 has 'no temor' for 'in timóre', but 'viver no temor de Deus' is a state one lives in; 'na alegria' after 'sede servos' would be heard as 'in times of joy'. lætítia → alegria (glossary: lætári → alegrar-se; gáudium keeps júbilo).",
+      "options": [
+        {
+          "label": "com alegria",
+          "forms": {
+            "laetitia": "com alegria"
+          },
+          "note": "Ruling. Matos Soares 1932 and DM1962 both 'com alegria'; DRB 'with gladness'.",
+          "from": "draft"
+        },
+        {
+          "label": "na alegria",
+          "forms": {
+            "laetitia": "na alegria"
+          },
+          "note": "The Latin's preposition and 2:11's build ('no temor'); heard as a circumstance of time.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "99:2b"
+      ],
+      "latin": "Introíte in conspéctu ejus",
+      "kind": "glossary",
+      "why": "The conspéctus row keeps 'à vista de' for predicates and notes that it fails with verbs of motion (118:170 'Entre … na vossa presença'); here the verb is introíre. The Latin has the ablative after a verb of motion, as 118:170 'Intret … in conspéctu tuo'. introíre → entrar ('Entrai' ≠ 'entrei', safe; 95:8 'entrai nos seus átrios').",
+      "options": [
+        {
+          "label": "na sua presença",
+          "forms": {
+            "conspectu": "na sua presença"
+          },
+          "note": "Ruling: the row's noun phrase for motion, as 118:170.",
+          "from": "glossary"
+        },
+        {
+          "label": "diante dele",
+          "forms": {
+            "conspectu": "diante dele"
+          },
+          "note": "Plainer; loses the noun the Latin names.",
+          "from": "draft"
+        },
+        {
+          "label": "à sua vista",
+          "forms": {
+            "conspectu": "à sua vista"
+          },
+          "note": "The row's usual phrase; with 'Entrai' it is heard as 'enter where he can see you'.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "ipse",
+      "refs": [
+        "99:3a"
+      ],
+      "latin": "Dóminus ipse est Deus",
+      "kind": "word",
+      "why": "The verse has 'ipse' twice and 'ipsi' once (ipse est Deus; ipse fecit nos; non ipsi nos). The first 'ipse' is emphatic and resumptive — 'the Lord, he is God' (DRB 'the Lord he is God'); Matos Soares 1932 drops it ('Sabei que o Senhor é Deus'). A resumptive 'ele' after a comma keeps the pronoun and is how Portuguese speech sets a subject apart; 'o próprio Senhor' would suggest 'the Lord in person'.",
+      "options": [
+        {
+          "label": "o Senhor, ele",
+          "forms": {
+            "ipse": "o Senhor, ele"
+          },
+          "note": "Ruling: 'o Senhor, ele é Deus' — the pronoun kept, the emphasis heard.",
+          "from": "DRB"
+        },
+        {
+          "label": "o Senhor",
+          "forms": {
+            "ipse": "o Senhor"
+          },
+          "note": "Matos Soares 1932: 'o Senhor é Deus' — smoothest; loses ipse.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o próprio Senhor",
+          "forms": {
+            "ipse": "o próprio Senhor"
+          },
+          "note": "Keeps a word for ipse, but is heard as 'the Lord in person'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ipsefecit",
+      "refs": [
+        "99:3a"
+      ],
+      "latin": "ipse fecit nos, et non ipsi nos",
+      "kind": "word",
+      "why": "'ipse … ipsi' is the Latin's contrast of agents: he made us, not we ourselves. 94:5 (in parallel) has 'ipse fecit illud' → 'ele mesmo o fez'; the same two Latin words here take the same Portuguese, and 'mesmo … mesmos' then carries ipse / ipsi as the Latin pairs them. 'nós mesmos' is the subject form, so it is heard as 'not we ourselves [made us]', as DRB and MS1932 ('e não nós a nós mesmos') read it; the Latin's ellipsis is kept, not filled.",
+      "options": [
+        {
+          "label": "ele mesmo",
+          "forms": {
+            "ipsefecit": "ele mesmo"
+          },
+          "note": "Ruling: as 94:5; keeps the ipse / ipsi echo.",
+          "from": "draft"
+        },
+        {
+          "label": "ele",
+          "forms": {
+            "ipsefecit": "ele"
+          },
+          "note": "Lighter; the echo with 'nós mesmos' is weaker.",
+          "from": "draft"
+        },
+        {
+          "label": "foi ele que",
+          "forms": {
+            "ipsefecit": "foi ele que"
+          },
+          "note": "Cleft: the emphasis made explicit ('foi ele que nos fez'); more words than the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "populus",
+      "refs": [
+        "99:3b"
+      ],
+      "latin": "Pópulus ejus, et oves páscuæ ejus:",
+      "kind": "ambiguity",
+      "why": "A verbless nominative. It is read as '[we are] his people' — the nominative ties it to 'ipsi nos' before it, and the Greek and DRB ('We are his people'), Matos Soares 1932 ('Nós somos o seu povo') and the Hebrew verse grouping all take it so. A nominative can also stand for a vocative, addressing the people before 'introíte'; DO's verse division joins it to the imperatives. Portuguese needs the copula for the first reading; the bare phrase at the head of the verse would be heard as the vocative, which closes the question the other way. The copula is supplied (rule 2), and the vocative reading kept as an option. oves páscuæ → 'as ovelhas da sua pastagem' (páscua row; 73:1, 78:13). v2: the Latinist and the stylist both refused the supplied 'Somos' (minor) as closing the apposition-or-vocative question the Latin keeps open. Taken: the verbless phrase returns, with its articles (rule 5). At the head of the verse it may be heard either as '[we,] his people' continuing 99:3a or as the address to those told 'entrai' — the two readings the Latin allows. The Latinist's 'Povo seu' and the stylist's 'Seu povo e ovelhas' drop the articles; refused for rule 5.",
+      "options": [
+        {
+          "label": "O seu povo",
+          "forms": {
+            "populus": "O seu povo"
+          },
+          "note": "Ruling (v2): the Latin's verbless nominative, both readings open.",
+          "from": "latinist"
+        },
+        {
+          "label": "Somos o seu povo",
+          "forms": {
+            "populus": "Somos o seu povo"
+          },
+          "note": "Draft 1: copula supplied (DRB, MS1932); refused by the Latinist and the stylist as closing the ambiguity.",
+          "from": "draft"
+        },
+        {
+          "label": "Povo seu",
+          "forms": {
+            "populus": "Povo seu"
+          },
+          "note": "Latinist's fix (with 'e ovelhas' it would drop the articles); refused, rule 5.",
+          "from": "latinist"
+        },
+        {
+          "label": "Nós somos o seu povo",
+          "forms": {
+            "populus": "Nós somos o seu povo"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "portas",
+      "refs": [
+        "99:3b"
+      ],
+      "latin": "introíte portas ejus … átria ejus",
+      "kind": "grammar",
+      "why": "introíre with a plain accusative (the gates, the courts), and the verb understood in the second member. One goes in 'through' gates and 'into' courts; Portuguese wants the preposition, and the second member can take its own after the elided verb. 95:8 has 'entrai nos seus átrios' for 'introíte in átria ejus'. v2: the stylist heard 'graças' at mediant and final as a chime and asked for the order 'entrai com ação de graças por suas portas, * com hinos por seus átrios'. Order is grammar (D2): taken, so the manner phrase comes first and the nouns close each colon; the Latin's root echo (confessióne / confitémini) still sounds, but no longer on both marks. His article-less 'por suas' is refused (rule 5): 'pelas suas portas … nos seus átrios' kept. The v1 order (Latin order, graças at both marks) is in prayed.v1.json.",
+      "options": [
+        {
+          "label": "pelas suas portas … nos seus átrios",
+          "forms": {
+            "portas": "pelas suas portas",
+            "atria": "nos seus átrios"
+          },
+          "note": "Ruling: each noun its natural preposition; the second member agrees with 95:8. v2: placed after the manner phrase (stylist's order).",
+          "from": "draft"
+        },
+        {
+          "label": "nas suas portas … nos seus átrios",
+          "forms": {
+            "portas": "nas suas portas",
+            "atria": "nos seus átrios"
+          },
+          "note": "One preposition for both, as the Latin has one case; 'entrar nas portas' is a little odd.",
+          "from": "draft"
+        },
+        {
+          "label": "pelas suas portas … pelos seus átrios",
+          "forms": {
+            "portas": "pelas suas portas",
+            "atria": "pelos seus átrios"
+          },
+          "note": "Parallel; 'pelos átrios' is heard as passing through them.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confessione",
+      "refs": [
+        "99:3b"
+      ],
+      "latin": "in confessióne … confitémini illi",
+      "kind": "glossary",
+      "why": "D5: confitéri to God → 'dar graças a'; the confitéri row names 99:3b among the places where the noun follows as 'ação de graças' (94:2 has 'com ação de graças'). The noun and the verb stand in one verse, at the mediant and the final, and the Latin echoes its own root there (confessióne / confitémini); the Portuguese echoes 'graças / graças' at the same two places. Rule 5 accepts an echo the Latin has. v2: after the stylist's reorder the echo stays inside the verse but off the mediant. v2 gate (minor): the Latinist asked 'louvor … louvai-o' as closer to confessio (praise and acknowledgement), calling it defensible. Held under D5, as at 94:2; 'louvor' is option 2.",
+      "options": [
+        {
+          "label": "ação de graças",
+          "forms": {
+            "confessione": "ação de graças"
+          },
+          "note": "Ruling: as 94:2; noun and verb kept one family, as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "louvor",
+          "forms": {
+            "confessione": "louvor"
+          },
+          "note": "MS1932 'com louvor'; DRB 'with praise'. louvor is laus's, and 99:4b has 'Laudáte' one verse later.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "suavis",
+      "refs": [
+        "99:4b"
+      ],
+      "latin": "quóniam suávis est Dóminus",
+      "kind": "glossary",
+      "why": "suávis → suave (row; 33:9 'que o Senhor é suave', 85:5). χρηστός, 'good, kind'; the blind readers of 33 and 85 heard 'gentle, kind' first.",
+      "options": [
+        {
+          "label": "suave",
+          "forms": {
+            "suavis": "suave"
+          },
+          "note": "Ruling: the row; MS1932 'o Senhor é suave'; DRB 'sweet'.",
+          "from": "glossary"
+        },
+        {
+          "label": "bom",
+          "forms": {
+            "suavis": "bom"
+          },
+          "note": "The Greek's sense (and the Hebrew's); the row's option.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "usque",
+      "refs": [
+        "99:4b"
+      ],
+      "latin": "et usque in generatiónem et generatiónem véritas ejus",
+      "kind": "word",
+      "why": "The only 'usque in generatiónem et generatiónem' in the psalter (grep). The formula row gives 'de geração em geração' for 'in generatiónem et generatiónem'; 'usque' adds 'all the way to'. Portuguese has no natural way to say 'até geração e geração'; the idiom of succession already reaches forward without end, and Matos Soares 1932 absorbs usque the same way. The colon keeps the Latin's ellipsis (no verb), parallel with the first colon's 'é para sempre a sua misericórdia', whose 'é' carries over. v1 Latinist (minor) asked 'e até geração e geração a sua verdade' for 'usque in'. Refused: 'até geração e geração' is not a Portuguese phrase, and the formula row (18 places) is 'de geração em geração'; kept as an option.",
+      "options": [
+        {
+          "label": "de geração em geração",
+          "forms": {
+            "usque": "de geração em geração"
+          },
+          "note": "Ruling: the formula; usque absorbed, as 44:18a absorbs omni.",
+          "from": "glossary"
+        },
+        {
+          "label": "até a última geração",
+          "forms": {
+            "usque": "até a última geração"
+          },
+          "note": "Keeps usque as 'até'; loses the doubled noun and the formula.",
+          "from": "draft"
+        },
+        {
+          "label": "de geração em geração permanece",
+          "forms": {
+            "usque": "de geração em geração permanece"
+          },
+          "note": "MS1932 supplies 'permanece'; a verb the Latin does not have.",
+          "from": "MS1932"
+        },
+        {
+          "label": "até geração e geração",
+          "forms": {
+            "usque": "até geração e geração"
+          },
+          "note": "Latinist v1 (minor): the letter of 'usque in … et …'; not idiomatic.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "pascua",
+      "refs": [
+        "99:3b"
+      ],
+      "latin": "oves páscuæ ejus",
+      "kind": "glossary",
+      "why": "The páscua row: 'pastagem', applied at 73:1, 78:13 and 94:7 ('o povo da sua pastagem', the Invitatory). The stylist (v1) found 'pastagem' agricultural and asked 'pasto', the traditional word. Refused for the row: 94:7, 73:1 and 78:13 have the same phrase and the reader should meet it identically; kept as an option.",
+      "options": [
+        {
+          "label": "pastagem",
+          "forms": {
+            "pascua": "pastagem"
+          },
+          "note": "Ruling: the row, as 73:1, 78:13, 94:7.",
+          "from": "glossary"
+        },
+        {
+          "label": "pasto",
+          "forms": {
+            "pascua": "pasto"
+          },
+          "note": "Stylist v1; MS1932 'do seu pasto'. Would need 73:1, 78:13, 94:7 to follow.",
+          "from": "stylist"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "99:2a": "The first colon is 65:1's 'Aclamai a Deus, toda a terra' (D43, jubiláre → aclamar), word for word as the Latin.",
+    "99:2b": "in exsultatióne → 'com exultação' (row exsultátio; the fourth 'com' of the psalm's manner phrases). A short second colon, as the Latin's.",
+    "99:3a": "Scitóte quóniam → 'Sabei que' (4:4 'E sabei que o Senhor'). 'Sabei' is safe under rule 3 (past 'soube'). 'Deus' at the mediant is a stressed monosyllable.",
+    "99:3b": "átria → átrios (row; unknown to the v1 ambiguity reader again, kept as the Latin's word). hymnus → hino. 'dai-lhe graças': D5 with the dative pronoun; 'dai' ≠ 'dei'. v2 order after the stylist.",
+    "99:4b": "in ætérnum → para sempre (D23), with D14's build: the copula first ('é para sempre a sua misericórdia'), so the line ends on the mercy as the Latin does. 'Laudáte nomen ejus' → 'Louvai o seu nome' (laudáre → louvar, apart from confitéri, D5). The colon ends 'suave' at the flex (paroxytone). quóniam → porque. The ambiguity reader heard 'suave' as kind/gentle, with a risk of the colloquial 'chill'; the suávis row keeps it (33:9, 85:5). 'verdade' heard as truth; the véritas row."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (LXX, DRB, MS1932, DM1962 for cadence only). Hard readings: 99:3b 'Pópulus ejus' (copula vs vocative); the 'ipse … ipse … ipsi' chain of 99:3a; D18's servíte in the one verse D18 itself named; the only 'usque in generatiónem et generatiónem'."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 99:3a first colon −4 (the Latin's 'Scitóte quóniam Dóminus' is long; the Portuguese keeps every word); 99:3b first colon +4 (the copula 'Somos' supplied, and 'e as ovelhas' / 'da sua' elide when sung), third colon −4 (the Latin's proparoxytones); 99:4b third colon −7 (the formula 'de geração em geração' against 'usque in generatiónem et generatiónem'). The rhyme flag in 99:3b ('graças … graças' at mediant and final) is the Latin's own echo, confessióne / confitémini, at the same two places — kept (rule 5; decision 'confessione'). 'pastagem' at the ‡ does not rhyme with them."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 3 minor, no major: 99:3b taken; 99:2a refused (D18); 99:4b refused (not Portuguese), option.",
+      "outcomes": [
+        {
+          "verse": "99:2a",
+          "remark": "'sede servos' turns the imperative into a status; asks 'servi ao Senhor'",
+          "outcome": "refused",
+          "decision": "servite",
+          "reason": "D18 is settled: the bare 'servi' is also 'I served'; kept as option 2 for Gustavo."
+        },
+        {
+          "verse": "99:3b",
+          "remark": "supplied 'Somos' closes the apposition/vocative ambiguity",
+          "outcome": "taken",
+          "decision": "populus"
+        },
+        {
+          "verse": "99:4b",
+          "remark": "'usque in' flattened; asks 'até geração e geração'",
+          "outcome": "refused",
+          "decision": "usque",
+          "reason": "not a Portuguese phrase; the formula row 'de geração em geração'; option."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context. Worst line 99:3b, best 99:4b. 4 remarks: 2 taken, 2 refused as options.",
+      "outcomes": [
+        {
+          "verse": "99:2a",
+          "remark": "'sede servos' heavy; asks 'servi ao Senhor'",
+          "outcome": "option",
+          "decision": "servite",
+          "reason": "D18 (settled)."
+        },
+        {
+          "verse": "99:3b",
+          "remark": "'Somos' decides the construction",
+          "outcome": "taken",
+          "decision": "populus"
+        },
+        {
+          "verse": "99:3b",
+          "remark": "'pastagem' agricultural; asks 'pasto'",
+          "outcome": "option",
+          "decision": "pascua",
+          "reason": "the páscua row, identical at 73:1, 78:13, 94:7."
+        },
+        {
+          "verse": "99:3b",
+          "remark": "'graças' chimes at mediant and final; reorder",
+          "outcome": "taken",
+          "decision": "portas",
+          "reason": "order only (D2); his article-less 'por suas' refused for rule 5."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context. Every likely hearing is the intended one; unknown words: átrios, exultação (both rows, kept).",
+      "outcomes": [
+        {
+          "verse": "99:2a",
+          "remark": "'sede' may flash as 'thirst'",
+          "outcome": "refused",
+          "decision": "servite",
+          "reason": "likely heard as the imperative; D18."
+        },
+        {
+          "verse": "99:3a",
+          "remark": "'e não nós mesmos' takes a moment to resolve; heard rightly",
+          "outcome": "refused",
+          "decision": "ipsefecit",
+          "reason": "the Latin's ellipsis, heard as intended."
+        },
+        {
+          "verse": "99:3b",
+          "remark": "'átrios' unknown",
+          "outcome": "refused",
+          "reason": "the átrium row keeps the Latin's word."
+        },
+        {
+          "verse": "99:2b",
+          "remark": "'exultação' unknown",
+          "outcome": "refused",
+          "reason": "the exsultátio row keeps it."
+        },
+        {
+          "verse": "99:4b",
+          "remark": "'suave' may be heard colloquially",
+          "outcome": "refused",
+          "decision": "suavis",
+          "reason": "likely heard as gentle/kind; the suávis row."
+        },
+        {
+          "verse": "99:4b",
+          "remark": "'verdade' truth or faithfulness",
+          "outcome": "refused",
+          "reason": "the Latin's word; véritas row."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 99:3b only — the verbless 'O seu povo' (Latinist + stylist) and the stylist's order that moves 'graças' off the mediant. Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2, claude-opus-5-5, fresh context, with latin.json. 2 minor, no major; both held with options. Clean of majors.",
+      "outcomes": [
+        {
+          "verse": "99:2a",
+          "remark": "'sede servos' recasts the imperative; asks 'servi ao Senhor' (repeated from v1)",
+          "outcome": "option",
+          "decision": "servite",
+          "reason": "D18 is settled (the bare 'servi' is also 'I served'); the option stands for Gustavo, and D18 itself named this verse."
+        },
+        {
+          "verse": "99:3b",
+          "remark": "confessio / confiteri narrowed to thanksgiving; suggests 'louvor … louvai-o' (he called the rendering defensible)",
+          "outcome": "option",
+          "decision": "confessione",
+          "reason": "D5 gives confitéri to God 'dar graças'; the confitéri row names 99:3b for 'ação de graças', as 94:2; 'louvor / louvai' is laus / laudáre's, and 99:4b has 'Laudáte' in the next verse."
+        }
+      ]
+    }
+  ]
+}

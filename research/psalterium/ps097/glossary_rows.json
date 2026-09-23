@@ -1,0 +1,49 @@
+{
+  "append": [
+    {
+      "row": "| términi terræ |",
+      "text": "**Ps 97:3b *Vidérunt omnes términi terræ* → *Todos os confins da terra viram*** — 64:8's *confins* (πέρατα, as *fines terræ* 21:28, 66:7b; D15's Greek test). **Proposed: the row → *os confins* everywhere**, 2:8 and 73:17 (still *limites*) to follow; *os limites* stays an option. No reader remarked."
+    },
+    {
+      "row": "| conspéctus, *ante conspéctum suum* |",
+      "text": "**Ps 97 (one decision `conspectu`, three slots):** 97:2 *in conspéctu géntium* → *à vista das nações* (witnesses of a revelation); 97:6 *Jubiláte in conspéctu regis Dómini* → *Aclamai na presença do rei, o Senhor* (acclamation, as 67:4); **97:8 *a conspéctu Dómini* (the only *a conspéctu*, πρὸ προσώπου) → *à vista do Senhor*** (MS1932's words). No reader objected; the ambiguity reader heard 97:8 as 'in the Lord's presence'."
+    },
+    {
+      "row": "| movéri (*motus fúero*, *movébor*) |",
+      "text": "**Ps 97:6 *moveátur mare, et plenitúdo ejus* → *abale-se o mar, e a sua plenitude*** — identical with 95:11 *commoveátur* (σαλευθήτω both). The ambiguity reader heard *abale-se* as possibly 'be troubled / damaged', against the joyful context — a cost for 95:9, 95:11 and 97:6 together; *seja abalado*, *agite-se* options."
+    },
+    {
+      "row": "| simul |",
+      "text": "**Ps 97:8 *simul montes exsultábunt* → *os montes exultarão juntos*** — the stylist's order (at the clause head *juntos* dangled between rivers and mountains); passed the Latinist."
+    },
+    {
+      "row": "| plaudere mánibus |",
+      "text": "**Ps 97:8 *Flúmina plaudent manu* → *Os rios baterão palmas*** — the singular *manu* folded into the idiom; the Latinist (minor, v1 and v2 gate) asked for the hand; held, *aplaudirão com a mão* the option."
+    },
+    {
+      "row": "| cíthara |",
+      "text": "Ps 97:5 *in cíthara, in cíthara et voce psalmi* → *com a cítara, com a cítara e a voz do salmo* (one *com* for both nouns, as the Latin's one *in*); unknown to the ambiguity reader again."
+    },
+    {
+      "row": "| plenitúdo |",
+      "text": "Ps 97:6 *et plenitúdo ejus* → *e a sua plenitude* (the formula; = 95:11). Unknown to the ambiguity reader again."
+    },
+    {
+      "row": "| déxtera |",
+      "text": "Ps 97:1b *Salvávit sibi déxtera ejus* → *A sua direita salvou para si* (Latinist and stylist; *para ele* left the ambiguity reader asking who). The ambiguity reader heard the hand first, the side second."
+    },
+    {
+      "row": "| *Cantáte Dómino cánticum novum* (95:1;",
+      "text": "**Ps 97:1 copies it** (*Cantai ao Senhor um cântico novo: * porque fez maravilhas*); no reader remarked."
+    },
+    {
+      "row": "| *quóniam venit judicáre terram* (95:12b",
+      "text": "**Ps 97:8b copies the colon; 97:9 *Judicábit orbem terrárum in justítia, et pópulos in æquitáte* → *Julgará o mundo com justiça, * e os povos com equidade*** (9:8b's *com justiça*); stylist's best line of Ps 97."
+    }
+  ],
+  "terms": [
+    "| notum fácere | fazer conhecer (*O Senhor fez conhecer a sua salvação*) | open | Ps 97:2; = 76:15 *Notam fecísti … Fizestes conhecer*, 15:11 *Fizestes-me conhecer*. The stylist called it a calque and asked *deu a conhecer* — kept for the cross-psalm repetition (rule 6); if the idiom is wanted, 76:15 and 15:11 follow. Options *deu a conhecer*, *manifestou* (MS1932). |",
+    "| tuba ductílis · tuba córnea | trombeta de metal batido · trombeta de chifre (*com trombetas de metal batido, e a voz da trombeta de chifre*) | open | Ps 97:5 only (grep). L&S *ductilis* 'hammered out' (Num 8:4 *aurum ductile*; ἐλαταῖς); *córneus* 'of horn' (κερατίνης). *trombeta* repeated as the Latin repeats *tuba* (46:6, 80:4's word). *de metal* (MS1932) and *corneta* (MS1932; a bugle in Brazil) options. The ambiguity reader found *batido* unclear; the Latinist passed both. |",
+    "| rex Dóminus (apposition) | *o rei, o Senhor* (*Aclamai na presença do rei, o Senhor*) | open | Ps 97:6 *regis Dómini*; the Latin's order, comma for the apposition; the ambiguity reader heard the apposition. *do Senhor, o rei*, DM1962's *do Rei Senhor* options. |"
+  ]
+}

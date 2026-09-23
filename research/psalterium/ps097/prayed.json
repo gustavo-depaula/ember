@@ -1,0 +1,588 @@
+{
+  "psalm": 97,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "97:1": "Cantai ao Senhor um cântico novo: * porque fez maravilhas.",
+    "97:1b": "A sua direita {salvavit}, * e o seu braço santo.",
+    "97:2": "O Senhor {notum} a sua salvação: * {conspectu1} revelou a sua justiça.",
+    "97:3": "Lembrou-se da sua misericórdia, * e da sua verdade {domui}.",
+    "97:3b": "{termini} * a salvação do nosso Deus.",
+    "97:4": "Aclamai a Deus, toda a terra: * cantai, e exultai, e entoai salmos.",
+    "97:5": "Entoai salmos ao Senhor com a cítara, com a cítara {voce1}: * com trombetas {ductilibus}, {voce2} {cornea}.",
+    "97:6": "Aclamai {conspectu2}: * {moveatur} o mar, e a sua plenitude: o mundo, e os que nele habitam.",
+    "97:8": "Os rios {plaudent}, os montes exultarão {simul} {conspectu3}: * porque vem julgar a terra.",
+    "97:9": "Julgará o mundo com justiça, * e os povos com equidade."
+  },
+  "decisions": [
+    {
+      "id": "salvavit",
+      "refs": [
+        "97:1b"
+      ],
+      "latin": "Salvávit sibi déxtera ejus",
+      "kind": "grammar",
+      "why": "The Latin verb has no object, and *sibi* (ἔσωσεν αὐτῷ) is 'for him', the Lord of 97:1: his right hand won salvation for him. Put first, as the Latin has it, the verb makes *a sua direita* its object (*Salvou … a sua direita* = 'he saved his right hand'), so the subject goes first (order, D2). *para ele* names the one the Latin's indirect reflexive points to; Portuguese *para si* would point to the right hand itself. DRB supplies a noun ('hath wrought for him salvation'), MS1932 recasts (*fizeram-no triunfar*); both are kept as options, since the Latin says neither. v2: the draft's worry about *para si* was not borne out — the Latinist and the stylist both asked for it, and none of the three readers heard the right hand saving itself; *para ele* instead left the ambiguity reader asking who *ele* was. Taken.",
+      "options": [
+        {
+          "label": "salvou para si",
+          "forms": {
+            "salvavit": "salvou para si"
+          },
+          "note": "Ruling (v2): reflexive for reflexive, as the Latinist and the stylist both asked; the readers hear it as the Lord's own, which is the sense of the indirect reflexive.",
+          "from": "latinist"
+        },
+        {
+          "label": "salvou para ele",
+          "forms": {
+            "salvavit": "salvou para ele"
+          },
+          "note": "v1 draft. The ambiguity reader could not tell who *ele* is or what was saved; both other readers asked for *para si*.",
+          "from": "draft"
+        },
+        {
+          "label": "lhe obteve a salvação",
+          "forms": {
+            "salvavit": "lhe obteve a salvação"
+          },
+          "note": "Supplies the object, as DRB 'wrought for him salvation'; keeps the *salv-* root through 97:1–3b, but adds a verb and a noun.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "notum",
+      "refs": [
+        "97:2"
+      ],
+      "latin": "Notum fecit Dóminus",
+      "kind": "word",
+      "why": "The stylist calls *fez conhecer* a calque and asks for the idiom *deu a conhecer*. The meaning is the same, so under D2 it would be taken — but the identical Latin *Notam fecísti* is already *Fizestes conhecer* at 76:15 (and 15:11 *Fizestes-me conhecer*), and what repeats in the Latin repeats in the Portuguese (rule 6). Kept; if Gustavo prefers the idiom, it should go into 76:15 as well. Proposed as a glossary row.",
+      "options": [
+        {
+          "label": "fez conhecer",
+          "forms": {
+            "notum": "fez conhecer"
+          },
+          "note": "Ruling: as 76:15, 15:11; *fácere* kept.",
+          "from": "draft"
+        },
+        {
+          "label": "deu a conhecer",
+          "forms": {
+            "notum": "deu a conhecer"
+          },
+          "note": "The stylist's: the ordinary idiom; would need 76:15 to follow.",
+          "from": "stylist"
+        },
+        {
+          "label": "manifestou",
+          "forms": {
+            "notum": "manifestou"
+          },
+          "note": "MS1932's verb; one word, loses *notum*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "97:2",
+        "97:6",
+        "97:8"
+      ],
+      "latin": "in conspéctu géntium · in conspéctu regis Dómini · a conspéctu Dómini",
+      "kind": "glossary",
+      "why": "Three *conspéctus* in one psalm. The glossary row (open) has found *à vista de* right where the phrase names witnesses or a predicate place (21:26 *à vista dos que o temem*) and *na presença de* beside acts of worship and joy (21:28b, 67:4 *exultem na presença de Deus*). 97:2 is the nations as witnesses of a revelation → *à vista das nações*. 97:6 is acclamation → *na presença*; *Aclamai à vista do rei* is stiff, as *adorarão à vista dele* was in Ps 21. 97:8 *a conspéctu* (πρὸ προσώπου; the only *a conspéctu* in the psalter, by grep) → *à vista do Senhor*, MS1932's own words, keeping the row's noun; *diante do* would drop it.",
+      "options": [
+        {
+          "label": "à vista das nações · na presença do rei · à vista do Senhor",
+          "forms": {
+            "conspectu1": "à vista das nações",
+            "conspectu2": "na presença {regis}",
+            "conspectu3": "à vista do Senhor"
+          },
+          "note": "Ruling: the row's split by use.",
+          "from": "glossary"
+        },
+        {
+          "label": "à vista, all three",
+          "forms": {
+            "conspectu1": "à vista das nações",
+            "conspectu2": "à vista {regis}",
+            "conspectu3": "à vista do Senhor"
+          },
+          "note": "One noun for one Latin noun; stiff at 97:6."
+        },
+        {
+          "label": "na presença, all three",
+          "forms": {
+            "conspectu1": "na presença das nações",
+            "conspectu2": "na presença {regis}",
+            "conspectu3": "na presença do Senhor"
+          },
+          "note": "One noun; loses the seeing at 97:2, where the nations are witnesses."
+        },
+        {
+          "label": "diante de, all three",
+          "forms": {
+            "conspectu1": "diante das nações",
+            "conspectu2": "diante {regis}",
+            "conspectu3": "diante do Senhor"
+          },
+          "note": "Plainest; drops the Latin's noun."
+        }
+      ]
+    },
+    {
+      "id": "regis",
+      "refs": [
+        "97:6"
+      ],
+      "latin": "regis Dómini",
+      "kind": "order",
+      "why": "Two nouns in apposition, *rex* first (ἐνώπιον τοῦ βασιλέως κυρίου). Kept in the Latin's order with a comma, so that *o Senhor* is heard as naming the king. DRB adds 'our'; DM1962 prints *do Rei Senhor* without comma, which in Portuguese reads as a title.",
+      "options": [
+        {
+          "label": "do rei, o Senhor",
+          "forms": {
+            "regis": "do rei, o Senhor"
+          },
+          "note": "Ruling: the Latin's order, the apposition marked.",
+          "from": "draft"
+        },
+        {
+          "label": "do Senhor, o rei",
+          "forms": {
+            "regis": "do Senhor, o rei"
+          },
+          "note": "Plainer to the ear; reverses the Latin's order."
+        },
+        {
+          "label": "do rei Senhor",
+          "forms": {
+            "regis": "do rei Senhor"
+          },
+          "note": "DM1962's words; heard as a compound title.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "domui",
+      "refs": [
+        "97:3"
+      ],
+      "latin": "et veritátis suæ dómui Israël",
+      "kind": "grammar",
+      "why": "A dative with no preposition: the truth (or the mercy and the truth) he keeps toward Israel. *para com* is Portuguese's preposition for dealings toward someone and keeps the Latin's openness about how far back the dative reaches; it costs four syllables over the Latin colon (checks.py). *à casa* is as short as the Latin but after *lembrou-se … da sua verdade* it can be heard as place. *verdade*, not *fidelidade*, by the *véritas* row. The Greek has a second dative (τῷ Ιακωβ) after the mercy that the Latin lacks; not supplied (rule 1).",
+      "options": [
+        {
+          "label": "para com a casa de Israel",
+          "forms": {
+            "domui": "para com a casa de Israel"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "à casa de Israel",
+          "forms": {
+            "domui": "à casa de Israel"
+          },
+          "note": "The bare dative; the Latin's length."
+        },
+        {
+          "label": "em favor da casa de Israel",
+          "forms": {
+            "domui": "em favor da casa de Israel"
+          },
+          "note": "MS1932's; reads the dative as advantage, which the Latin does not specify.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "termini",
+      "refs": [
+        "97:3b"
+      ],
+      "latin": "Vidérunt omnes términi terræ",
+      "kind": "glossary",
+      "why": "The glossary row *términi terræ* is open: *os limites da terra* at 2:8 and 73:17, but *os confins* at 64:8 and 71:8 (*términos*, πέρατα, as here), because the stylist heard *limites* as administrative and the blind reader as frontiers. *fines terræ* already has *confins* (21:28, 66:7b *todos os confins da terra*), and it is the same Greek word; by D15's test the two Latin nouns share a Portuguese word. Subject before the verb (natural order, D2); the Latin's verb-first order is an option.",
+      "options": [
+        {
+          "label": "Todos os confins da terra viram",
+          "forms": {
+            "termini": "Todos os confins da terra viram"
+          },
+          "note": "Ruling: 64:8's word; the natural order.",
+          "from": "glossary"
+        },
+        {
+          "label": "Todos os limites da terra viram",
+          "forms": {
+            "termini": "Todos os limites da terra viram"
+          },
+          "note": "The row's working word (2:8, 73:17).",
+          "from": "glossary"
+        },
+        {
+          "label": "Viram todos os confins da terra",
+          "forms": {
+            "termini": "Viram todos os confins da terra"
+          },
+          "note": "The Latin's order, verb first."
+        }
+      ]
+    },
+    {
+      "id": "voce",
+      "refs": [
+        "97:5"
+      ],
+      "latin": "in cíthara et voce psalmi … in tubis ductílibus, et voce tubæ córneæ",
+      "kind": "grammar",
+      "why": "*voce* twice, each time joined by *et* under the *in* of its colon. The Portuguese does the same: one *com* serves the instrument and the voice (*com a cítara e voz de salmo*, *com trombetas … e voz de trombeta*), with no article, as 46:2 *com voz de exultação*. *Voz* is the Latin's word (φωνῇ), kept both times; *som* would be a gloss. The article-and-preposition form is the option; it adds two syllables to each colon. v2: the stylist found the article-less form clipped and the *de … de* pile-up at the end hard to say; an article is grammar (D2), taken. It adds about one syllable to each colon.",
+      "options": [
+        {
+          "label": "e a voz do salmo · e a voz da",
+          "forms": {
+            "voce1": "e a voz do salmo",
+            "voce2": "e a voz da"
+          },
+          "note": "Ruling (v2): the stylist's; *com* still serves both nouns, the article eases the breath and matches *com a cítara*.",
+          "from": "stylist"
+        },
+        {
+          "label": "e voz de salmo · e voz de",
+          "forms": {
+            "voce1": "e voz de salmo",
+            "voce2": "e voz de"
+          },
+          "note": "v1 draft, as 46:2 *com voz de exultação*; the stylist found it clipped.",
+          "from": "draft"
+        },
+        {
+          "label": "e com a voz do salmo · e com a voz da",
+          "forms": {
+            "voce1": "e com a voz do salmo",
+            "voce2": "e com a voz da"
+          },
+          "note": "Fullest; a further syllable each."
+        }
+      ]
+    },
+    {
+      "id": "ductilibus",
+      "refs": [
+        "97:5"
+      ],
+      "latin": "in tubis ductílibus",
+      "kind": "word",
+      "why": "L&S: *ductilis* of metal 'that may be hammered out thin' (*aurum ductile*, Num 8:4); the Greek ἐλαταῖς is 'beaten'. These are the trumpets of beaten silver of Num 10:2. *de metal batido* says what the adjective says; MS1932's *de metal* (the option) is two syllables shorter and loses the hammering. The cognate *dúcteis* needs a footnote. The colon runs about four syllables over the Latin; accepted.",
+      "options": [
+        {
+          "label": "de metal batido",
+          "forms": {
+            "ductilibus": "de metal batido"
+          },
+          "note": "Ruling: the adjective's meaning (L&S; ἐλαταῖς).",
+          "from": "draft"
+        },
+        {
+          "label": "de metal",
+          "forms": {
+            "ductilibus": "de metal"
+          },
+          "note": "MS1932; shorter; the metal is implied, the beating lost.",
+          "from": "MS1932"
+        },
+        {
+          "label": "batidas",
+          "forms": {
+            "ductilibus": "batidas"
+          },
+          "note": "The Latin's length; may be heard as trumpets being struck."
+        }
+      ]
+    },
+    {
+      "id": "cornea",
+      "refs": [
+        "97:5"
+      ],
+      "latin": "tubæ córneæ",
+      "kind": "word",
+      "why": "*córneus* is 'of horn' (L&S); the Greek κερατίνης the same. The Latin repeats *tuba* inside one colon (*tubis … tubæ*), so the Portuguese repeats *trombeta* (rule 6: repetitions stay), and the horn stays concrete (rule 5). *corneta* (MS1932) is a bugle in Brazil and drops both the repetition and the horn; *córnea* is the eye's. *trombeta*, the *tuba* word of 46:6 and 80:4.",
+      "options": [
+        {
+          "label": "trombeta de chifre",
+          "forms": {
+            "cornea": "trombeta de chifre"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "trompa de chifre",
+          "forms": {
+            "cornea": "trompa de chifre"
+          },
+          "note": "Another word for the second *tuba*; the Latin repeats one."
+        },
+        {
+          "label": "corneta",
+          "forms": {
+            "cornea": "corneta"
+          },
+          "note": "MS1932; heard as a military bugle.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "moveatur",
+      "refs": [
+        "97:6"
+      ],
+      "latin": "moveátur mare, et plenitúdo ejus",
+      "kind": "glossary",
+      "why": "*movéri / commovéri → ser abalado* (glossary; one Greek, σαλεύω — σαλευθήτω here). 95:11 has the same line with *commoveátur* and is being drafted in parallel as *abale-se o mar, e a sua plenitude*: identical Greek, so identical Portuguese (rule 6). The pronominal jussive puts the verb first as the Latin does and needs no participle. Its known risk: in 47:6 the stylist heard *abalaram-se* as colloquial 'took off'. *e a sua plenitude* is the formula of 23:1 and 49:12.",
+      "options": [
+        {
+          "label": "abale-se",
+          "forms": {
+            "moveatur": "abale-se"
+          },
+          "note": "Ruling: as 95:9, 95:11.",
+          "from": "glossary"
+        },
+        {
+          "label": "seja abalado",
+          "forms": {
+            "moveatur": "seja abalado"
+          },
+          "note": "The row's passive; heavier."
+        },
+        {
+          "label": "agite-se",
+          "forms": {
+            "moveatur": "agite-se"
+          },
+          "note": "Plainer for the sea; another verb than the row's."
+        }
+      ]
+    },
+    {
+      "id": "plaudent",
+      "refs": [
+        "97:8"
+      ],
+      "latin": "Flúmina plaudent manu",
+      "kind": "word",
+      "why": "*plaudere mánibus → bater palmas* (D43; 46:2); the glossary leaves 97:8's singular *manu* (χειρί) to this psalm. *bater palmas* keeps the hands in its noun and is how Portuguese says the gesture; the singular is idiom in the Latin and Greek alike and cannot be carried without a stiff line. *aplaudirão com a mão* keeps the number and is the option. v2: the Latinist (minor) asked for *aplaudirão com a mão*; refused — the idiom keeps the hands in *palmas*, D43 set the phrase, and the Latinist himself called the draft defensible. v2 gate: asked again (*baterão palmas com a mão*), minor; held.",
+      "options": [
+        {
+          "label": "baterão palmas",
+          "forms": {
+            "plaudent": "baterão palmas"
+          },
+          "note": "Ruling: D43's phrase; MS1932 the same.",
+          "from": "glossary"
+        },
+        {
+          "label": "aplaudirão com a mão",
+          "forms": {
+            "plaudent": "aplaudirão com a mão"
+          },
+          "note": "Keeps *manu*'s noun and number; unidiomatic."
+        }
+      ]
+    },
+    {
+      "id": "simul",
+      "refs": [
+        "97:8"
+      ],
+      "latin": "simul montes exsultábunt",
+      "kind": "glossary",
+      "why": "*simul → juntos* (row, open). DO's comma puts *simul* with the mountains (the Greek has ἐπὶ τὸ αὐτό between the two clauses); *juntos* at the head of the second clause keeps the Latin's placement and lets the ear join rivers and mountains, as the Latin does. MS1932 *ao mesmo tempo*, the option (87:18 took it where *juntos* gave the subject a gender). v2: the stylist heard *juntos* dangling between the clauses at the head of the second and asked for it after the verb; the Latin's comma already binds *simul* to the mountains (the ambiguity reader heard it so), so moving it is order only (D2). Taken.",
+      "options": [
+        {
+          "label": "juntos",
+          "forms": {
+            "simul": "juntos"
+          },
+          "note": "Ruling: the row; after the verb (v2, the stylist's order).",
+          "from": "glossary"
+        },
+        {
+          "label": "ao mesmo tempo",
+          "forms": {
+            "simul": "ao mesmo tempo"
+          },
+          "note": "MS1932; as 87:18. After the verb, as the ruling.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "97:1": "*Cantáte Dómino cánticum novum* → *Cantai ao Senhor um cântico novo*, the formula of 95:1 and 149:1 (95 drafted in parallel with the same words; 32:3 *Cantai-lhe um cântico novo*). *quia mirabília fecit → porque fez maravilhas*, as 77:12, 85:10.",
+    "97:1b": "*déxtera → a direita* (row, open; 43:4b *a vossa direita, e o vosso braço*). *brácchium sanctum → o seu braço santo*, adjective after, as *monte santo*. The second colon is elliptic, as the Latin: the arm is a second subject of *salvou*.",
+    "97:2": "*Notum fecit → fez conhecer*, as 76:15 *Fizestes conhecer*; subject first, since *Fez conhecer o Senhor* would make the Lord the object. *salutáre → salvação* (D6), three times in the psalm (97:1b's root, 97:2, 97:3b).",
+    "97:3": "*Recordátus est → Lembrou-se*, as 77:39. *véritas → verdade* (row).",
+    "97:3b": "*salutáre Dei nostri → a salvação do nosso Deus* (D6). Isaiah 52:10 has the same words; not checked here.",
+    "97:4": "First colon = 65:1 *Aclamai a Deus, toda a terra* (D43). *psállite → entoai salmos* (D25). The Latin's polysyndeton *cantáte, et exsultáte, et psállite* kept.",
+    "97:5": "*Psállite … psalmi*: the Latin's root echo survives in *entoai salmos … voz de salmo*. *cíthara → cítara* (row, open; known to be unknown to blind readers, kept). *cítara* repeated as the Latin repeats it. First colon runs a few syllables over the Latin (the price of *entoar salmos*, D25).",
+    "97:6": "DO joins 97:6 and 97:7 into one prayed verse with an inner colon (':'), not a mark; kept as one verse. *orbis terrárum → o mundo* (D30); *et qui hábitant in eo → e os que nele habitam*, as 23:1 (which has *univérsi*, not here).",
+    "97:8": "Second colon = 95:12b *porque vem julgar a terra*. *exsultáre → exultar*.",
+    "97:9": "As 9:8b and 95:13: *julgará o mundo … com equidade*, *in justítia → com justiça* (9:8b). The first colon is four syllables under the Latin (D30's cost: *orbem terrárum* is one word, *mundo*)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps097.md, the glossary and DECISIONS.md. Hard readings: *salvávit sibi* (objectless verb and the indirect reflexive), *tubis ductílibus* and *tubæ córneæ* (L&S), *a conspéctu Dómini* (the only place). Formulas copied from finished psalms: 65:1 (97:4a), 23:1 and 49:12 (*e a sua plenitude*), 9:8b (97:9), 46:6/80:4 (*trombeta*); from Ps 95, drafted in parallel: 95:1 (97:1a), 95:11 (*abale-se o mar*), 95:12b (97:8b). Glossary rows applied: D6, D25, D30, D43 (*aclamar*, *bater palmas*), *déxtera*, *véritas*, *ǽquitas*, *simul*, *movéri*, *cíthara*, *conspéctus*; proposed: *términi terræ → confins* here."
+    },
+    {
+      "step": "checks",
+      "note": "v1: hard checks pass. Soft flags accepted: 97:3 second colon +4 (*para com*, for the dative's sense; *à casa* is the Latin's length and option 1 of `domui`); 97:5 first colon +5 (*entoar salmos*, D25's two words for *psállite*, and the article with *cítara* as everywhere in the psalter) and second colon +4 (*de metal batido*; *de metal* saves two, option 1 of `ductilibus`) — both still one breath each on a long verse; 97:8 second colon −3 (= 95:12b, word for word); 97:9 first colon −4 (D30: *orbem terrárum* is *o mundo*)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, with latin.json. 2 minor, no major. 97:1b taken; 97:8 refused (option).",
+      "outcomes": [
+        {
+          "verse": "97:1b",
+          "remark": "sibi is reflexive: para si",
+          "outcome": "taken"
+        },
+        {
+          "verse": "97:8",
+          "remark": "manu absorbed by bater palmas: aplaudirão com a mão",
+          "outcome": "option",
+          "decision": "plaudent",
+          "reason": "D43's idiom keeps the hands in palmas; the Latinist himself called it defensible; the singular is idiom in Latin and Greek alike"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context. 4 remarks; 3 taken (97:1b, 97:5, 97:8), 1 kept as an option (97:2). Worst line 97:1b (now mended); best 97:9.",
+      "outcomes": [
+        {
+          "verse": "97:1b",
+          "remark": "salvou para ele sounds like a gloss: para si",
+          "outcome": "taken"
+        },
+        {
+          "verse": "97:2",
+          "remark": "fez conhecer a calque: deu a conhecer",
+          "outcome": "option",
+          "decision": "notum",
+          "reason": "76:15 renders the identical Latin Notam fecísti as Fizestes conhecer (and 15:11); rule 6 — changing it here would split one Latin phrase in two"
+        },
+        {
+          "verse": "97:5",
+          "remark": "e voz de clipped: e a voz do salmo / e a voz da trombeta",
+          "outcome": "taken"
+        },
+        {
+          "verse": "97:8",
+          "remark": "juntos dangles: os montes exultarão juntos",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, prayed text only. 19 readings, 4 unknown words (cítara, equidade, plenitude, entoai — the first three known costs of their rows). One acted on (97:1b *ele*); the rest are the Latin's own openness or glossary rows.",
+      "outcomes": [
+        {
+          "verse": "97:1b",
+          "remark": "who is ele, what was saved",
+          "outcome": "taken",
+          "reason": "para si (see salvavit)"
+        },
+        {
+          "verse": "97:1b",
+          "remark": "direita alone may sound like the right side",
+          "outcome": "refused",
+          "reason": "déxtera row (bare direita), held as at 76:11; heard as the hand first"
+        },
+        {
+          "verse": "97:1b",
+          "remark": "e o seu braço santo could parse as object",
+          "outcome": "refused",
+          "reason": "the Latin's ellipsis; the reader heard it as second subject, which is right"
+        },
+        {
+          "verse": "97:3",
+          "remark": "para com a casa de Israel applies to one or both",
+          "outcome": "refused",
+          "reason": "the Latin's own openness, kept on purpose (decision domui)"
+        },
+        {
+          "verse": "97:6",
+          "remark": "abale-se may be heard as troubled / damaged",
+          "outcome": "refused",
+          "reason": "kept identical with 95:11 (same Greek σαλεύω); seja abalado and agite-se remain options of moveatur; flagged for the coordinator with 95"
+        },
+        {
+          "verse": "97:6",
+          "remark": "o Senhor heard as apposition (right) or vocative",
+          "outcome": "refused",
+          "reason": "heard as apposition; do Senhor, o rei is an option"
+        },
+        {
+          "verse": "97:8",
+          "remark": "juntos with rivers or mountains",
+          "outcome": "taken",
+          "reason": "moved after the verb (stylist)"
+        },
+        {
+          "verse": "97:5",
+          "remark": "voz de salmo opaque; batido unclear",
+          "outcome": "refused",
+          "reason": "the Latin's words; de metal is an option of ductilibus"
+        },
+        {
+          "verse": "97:2",
+          "remark": "justiça / verdade / julgar heard judicially",
+          "outcome": "refused",
+          "reason": "the Latin's own range; glossary rows"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 97:1b *salvou para si* (Latinist + stylist); 97:5 articles with *voz* (stylist); 97:8 *juntos* after the verb (stylist); 97:2 unchanged in wording, the stylist's *deu a conhecer* recorded as option of new decision `notum`. v1 kept as prayed.v1.json."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard checks pass. 97:5 now +6 / +5 (the stylist's articles add one each): the longest verse of the psalm, each colon still one breath; *de metal* (option of `ductilibus`) would bring the second to +3. Other flags as v1 (97:3 +4, 97:8b −3 = 95:12b, 97:9 −4 by D30)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2, claude-opus-5-5, fresh context, with latin.json. No major. One minor, repeated from v1: 97:8 *manu*; held with the option (reason below). He passed the three v2 changes (97:1b *para si*, 97:5 articles, 97:8 *juntos* after the verb) without remark.",
+      "outcomes": [
+        {
+          "verse": "97:8",
+          "remark": "manu unexpressed: baterão palmas com a mão",
+          "outcome": "option",
+          "decision": "plaudent",
+          "reason": "D43's idiom already holds the hands in *palmas*; *baterão palmas com a mão* is a redundant line no one says, and the singular is idiom in the Latin and the Greek alike; *aplaudirão com a mão* remains the option"
+        }
+      ]
+    }
+  ]
+}
