@@ -1,0 +1,1197 @@
+{
+  "psalm": 103,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "103:1": "{benedic1}: * Senhor, meu Deus, {magnificatus}.",
+    "103:1b": "{confessio}: * {amictus1} em luz como numa veste:",
+    "103:2": "Estendendo o céu como {pellem}: * vós que cobris de águas {superiora2}.",
+    "103:3": "Vós que pondes a nuvem {ascensum}: * vós que andais sobre as asas dos ventos.",
+    "103:4": "Vós que fazeis dos vossos anjos {spiritus}: * e dos vossos ministros fogo ardente.",
+    "103:5": "Vós que fundastes a terra sobre {stabilitas}: * não se inclinará pelos séculos dos séculos.",
+    "103:6": "O abismo, como uma veste, é {amictus6}: * sobre os montes {stabunt} as águas.",
+    "103:7": "À vossa repreensão fugirão: * à voz do vosso trovão {formidabunt}.",
+    "103:8": "Sobem os montes: e descem os campos * ao lugar que lhes fundastes.",
+    "103:9": "Pusestes um limite, que não transporão: * nem voltarão a cobrir a terra.",
+    "103:10": "Vós que {emittis}: * pelo meio dos montes passarão as águas.",
+    "103:11": "Beberão todas as {bestiae11} do campo: * os asnos selvagens aguardarão na sua sede.",
+    "103:12": "Sobre elas habitarão as aves do céu: * do meio das rochas farão ouvir vozes.",
+    "103:13": "Regando os montes {superiora13}: * do fruto das vossas obras se saciará a terra:",
+    "103:14": "Produzindo feno para {jumenta}, * e erva para o serviço dos homens:",
+    "103:14b": "Para que façais sair o pão da terra: * e que o vinho alegre o coração do homem:",
+    "103:15": "Para que {exhilaret} o rosto com o óleo: * e que o pão {confirmet} o coração do homem.",
+    "103:16": "As árvores do campo se saciarão, e os cedros do Líbano, que ele plantou: * ali os pardais farão os seus ninhos.",
+    "103:17": "{herodius}: * os montes excelsos são para os cervos: a rocha, refúgio para os ouriços.",
+    "103:19": "Fez a lua para os tempos: * o sol {cognovit}.",
+    "103:20": "Pusestes as trevas, e fez-se a noite: * nela passarão todas as {bestiae20} da selva.",
+    "103:21": "Os filhotes de leões, rugindo para arrebatar, * e para buscar de Deus o seu alimento.",
+    "103:22": "Nasceu o sol, e eles se reuniram: * e nos seus covis {collocabuntur}.",
+    "103:23": "Sairá o homem para a sua obra: * e para o seu trabalho até a tarde.",
+    "103:24": "Como se engrandeceram as vossas obras, Senhor! * Fizestes {omnia24} com sabedoria: a terra se encheu {possessio}.",
+    "103:25": "Este mar, grande e {manibus}: * {reptilia}.",
+    "103:26": "Animais pequenos com os grandes: * ali passarão os navios.",
+    "103:27": "Este dragão, que formastes {illudendum}: * {omnia27} aguardam de vós que lhes deis o alimento a seu tempo.",
+    "103:28": "Dando-lhes vós, eles recolherão: * abrindo vós a vossa mão, {omnia28} se encherão de bondade.",
+    "103:29": "Mas, desviando vós a face, se perturbarão: * tirareis o espírito deles, e desfalecerão, e voltarão ao seu pó.",
+    "103:30": "Enviareis o vosso espírito, e serão criados: * e renovareis a face da terra.",
+    "103:31": "Seja a glória do Senhor para sempre: * o Senhor se alegrará nas suas obras:",
+    "103:32": "Ele, que olha para a terra, e a faz tremer: * que toca os montes, e eles fumegam.",
+    "103:33": "Cantarei ao Senhor na minha vida: * entoarei salmos ao meu Deus, enquanto eu existir.",
+    "103:34": "Seja-lhe agradável {eloquium}: * eu, porém, me deleitarei no Senhor.",
+    "103:35": "{deficiant} os pecadores, e os iníquos, até não existirem mais: * {benedic35}."
+  },
+  "decisions": [
+    {
+      "id": "benedic",
+      "refs": [
+        "103:1",
+        "103:35"
+      ],
+      "latin": "Bénedic, ánima mea, Dómino",
+      "kind": "glossary",
+      "why": "The psalm opens and closes on the same words (the Latin's frame), so one slot fills both. The soul is a single addressee → *tu* (rule 3). The glossary row *benedícere* (man → God) keeps the dative → *bendizei ao Senhor*; Ps 95:2 moved a dative to the direct object because *ao seu nome* blurred into *ao Senhor* — that reason is absent here. The vocative without *ó*, as the settled refrain 41:6 *Por que estás triste, minha alma?*. The same line opens Ps 102 (102:1, 102:2, 102:22), translated in parallel by another agent: **the coordinator should make the two psalms agree**. **Finish:** Ps 102 set the formula row *Bendize, ó minha alma, ao Senhor* (dative kept, with *ó*); 103:1 and 103:35 copy it.",
+      "options": [
+        {
+          "label": "Bendize, ó minha alma, ao Senhor",
+          "forms": {
+            "benedic1": "Bendize, ó minha alma, ao Senhor",
+            "benedic35": "bendize, ó minha alma, ao Senhor"
+          },
+          "note": "v2 gate — copies the Ps 102 formula row (102:1, 2, 22), so both psalms say the frame alike",
+          "from": "glossary"
+        },
+        {
+          "label": "Bendize, minha alma, ao Senhor",
+          "forms": {
+            "benedic1": "Bendize, minha alma, ao Senhor",
+            "benedic35": "bendize, minha alma, ao Senhor"
+          },
+          "note": "v1 — without *ó*, as 41:6",
+          "from": "v1"
+        },
+        {
+          "label": "Bendize, minha alma, o Senhor",
+          "forms": {
+            "benedic1": "Bendize, minha alma, o Senhor",
+            "benedic35": "bendize, minha alma, o Senhor"
+          },
+          "note": "the direct object, as 95:2 and MS1932 (*Bendize, ó minha alma, o Senhor*)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "magnificatus",
+      "refs": [
+        "103:1"
+      ],
+      "latin": "magnificátus es veheménter",
+      "kind": "grammar",
+      "why": "ἐμεγαλύνθης σφόδρα: a passive whose sense is 'you have become great'. The formula 91:6 = 103:24 *Quam magnificáta sunt ópera tua* is already *Como se engrandeceram*, the reflexive; the same verb in the same psalm should read the same, so the reflexive here too (MS1932 *tu te engrandeceste sumamente*). The enclisis *engrandecestes-vos* answers *Vestistes-vos* at the head of 1b. *veheménter → muito* (row *valde / veheménter*, as 20:2 *exultará muito*). **v2:** the Latinist asked the passive and the ambiguity reader heard *engrandecer-se* as possibly self-aggrandizement, said of God; taken. 103:24 keeps the 91:6 formula (the works, where the reflexive cannot mislead); the root still links the two verses.",
+      "options": [
+        {
+          "label": "fostes muito engrandecido",
+          "forms": {
+            "magnificatus": "fostes muito engrandecido"
+          },
+          "note": "v2 — the Latin's passive (Latinist); the reflexive could be heard as self-aggrandizement (ambiguity reader)",
+          "from": "latinist"
+        },
+        {
+          "label": "engrandecestes-vos muito",
+          "forms": {
+            "magnificatus": "engrandecestes-vos muito"
+          },
+          "note": "v1 — reflexive, as 91:6 / 103:24",
+          "from": "v1"
+        },
+        {
+          "label": "vós vos engrandecestes grandemente",
+          "forms": {
+            "magnificatus": "vós vos engrandecestes grandemente"
+          },
+          "note": "proclisis; *grandemente* the row's local option for *veheménter*",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "confessio",
+      "refs": [
+        "103:1b"
+      ],
+      "latin": "Confessiónem, et decórem induísti",
+      "kind": "glossary",
+      "why": "The twin of 95:6 *Conféssio, et pulchritúdo*, which ruled *Confissão* (the Latin's word, keeping the praise confessed and, for some readers, the sin confessed) and asked that 103:1 decide with it. Decided with it: the same noun. *decor → esplendor* (row; 92:1a *vestiu-se de esplendor*), kept apart from 95:6 *pulchritúdo → beleza*, as the *decor* row wants, so a reader hears two twins with one different word, as in the Latin. *induísti* (active, ἐνεδύσω middle) → *Vestistes-vos de*, the verb of 92:1a. Cost, as at 95:6: *confissão* is heard first as the sacrament. The Latin puts the objects first; Portuguese order puts the verb first (D2).",
+      "options": [
+        {
+          "label": "Vestistes-vos de confissão e de esplendor",
+          "forms": {
+            "confessio": "Vestistes-vos de confissão e de esplendor"
+          },
+          "note": "draft — = 95:6 *Confissão*; 92:1a's verb and *decor*",
+          "from": "draft"
+        },
+        {
+          "label": "Vestistes-vos de louvor e de esplendor",
+          "forms": {
+            "confessio": "Vestistes-vos de louvor e de esplendor"
+          },
+          "note": "DRB 'praise'; spends *louvor*, which is *laus / laudáre*'s",
+          "from": "DRB"
+        },
+        {
+          "label": "Vestistes-vos de ação de graças e de esplendor",
+          "forms": {
+            "confessio": "Vestistes-vos de ação de graças e de esplendor"
+          },
+          "note": "D5's family; the glossary itself says it does not fit a garment of God",
+          "from": "glossary"
+        },
+        {
+          "label": "Vestistes-vos de majestade e de esplendor",
+          "forms": {
+            "confessio": "Vestistes-vos de majestade e de esplendor"
+          },
+          "note": "MS1932 — the Hebrew's *hod*, not the Latin's word; listed for completeness",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "amictus",
+      "refs": [
+        "103:1b",
+        "103:6"
+      ],
+      "latin": "amíctus lúmine sicut vestiménto … sicut vestiméntum, amíctus ejus",
+      "kind": "word",
+      "why": "The Latin uses *amíctus* twice, first as a participle (God 'wrapped' in light), then as a noun (the abyss is 'its cloak'), each time beside *sicut vestiméntum*. Portuguese has no participle and noun of one root that both sound natural (*envolto / envoltório*). *vestiméntum → veste* is kept in both verses, so the pairing is still heard; *amíctus* becomes *envolto* and *manto*. In 103:6 *ejus* is the earth's or God's (Latin and Greek leave it open; MS1932 decides *cinge-a*, the earth): *o seu manto* keeps both.",
+      "options": [
+        {
+          "label": "envolto … o seu manto",
+          "forms": {
+            "amictus1": "envolto",
+            "amictus6": "o seu manto"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "coberto … o seu manto",
+          "forms": {
+            "amictus1": "coberto",
+            "amictus6": "o seu manto"
+          },
+          "note": "MS1932 *coberto de luz*; but *cobrir* is *tégere*'s in 103:2",
+          "from": "MS1932"
+        },
+        {
+          "label": "envolto … o que o envolve",
+          "forms": {
+            "amictus1": "envolto",
+            "amictus6": "o que o envolve"
+          },
+          "note": "one root twice, as the Latin; but the pronoun must take a gender and so decides whose cloak it is",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "pellem",
+      "refs": [
+        "103:2"
+      ],
+      "latin": "sicut pellem",
+      "kind": "word",
+      "why": "*pellis* is a hide (δέρριν), the stuff tents were made of (L&S: *sub pellibus* 'in camp'). The concrete image stays (rule 5): the sky stretched out like a skin. DRB 'pavilion' and MS1932 *pavilhão* explain it as the tent; that is the image behind it, not the word.",
+      "options": [
+        {
+          "label": "uma pele",
+          "forms": {
+            "pellem": "uma pele"
+          },
+          "note": "draft — the Latin's word",
+          "from": "draft"
+        },
+        {
+          "label": "uma tenda de peles",
+          "forms": {
+            "pellem": "uma tenda de peles"
+          },
+          "note": "keeps the skin and says what it is for; adds the tent",
+          "from": "draft"
+        },
+        {
+          "label": "um pavilhão",
+          "forms": {
+            "pellem": "um pavilhão"
+          },
+          "note": "MS1932, DRB",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "superiora",
+      "refs": [
+        "103:2",
+        "103:13"
+      ],
+      "latin": "superióra ejus … de superióribus suis",
+      "kind": "word",
+      "why": "The same Latin noun twice (τὰ ὑπερῷα, 'upper rooms'), so one Portuguese phrase twice. *alturas* is taken by *excélsa* (D42). *partes altas* is the plain sense of the neuter plural and MS1932's (*a sua parte superior*); DRB keeps the Greek's rooms. In 103:13 *suis* is God's, though he is addressed as *vós* two words later (*óperum tuórum*): the Latin's shift of person is kept.",
+      "options": [
+        {
+          "label": "as suas partes altas",
+          "forms": {
+            "superiora2": "as suas partes altas",
+            "superiora13": "das suas partes altas"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "os seus aposentos altos",
+          "forms": {
+            "superiora2": "os seus aposentos altos",
+            "superiora13": "dos seus aposentos altos"
+          },
+          "note": "DRB 'higher rooms' — the Greek's picture",
+          "from": "DRB"
+        },
+        {
+          "label": "as suas alturas",
+          "forms": {
+            "superiora2": "as suas alturas",
+            "superiora13": "das suas alturas"
+          },
+          "note": "plainest; collides with *excélsa → alturas* (D42)",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "ascensum",
+      "refs": [
+        "103:3"
+      ],
+      "latin": "Qui ponis nubem ascénsum tuum",
+      "kind": "word",
+      "why": "*ascénsus* is an ascent, or (L&S, by metonymy) 'a place by which one ascends'; ἐπίβασις the same. God sets the cloud as his way up. DRB 'chariot' is the Hebrew's picture. *pôr … como* for the double accusative. **v2:** *pôr … por* (stylist; the ambiguity reader also heard *como* as a simile).",
+      "options": [
+        {
+          "label": "por vossa subida",
+          "forms": {
+            "ascensum": "por vossa subida"
+          },
+          "note": "v2 — the stylist: *pôr por* = set as (as *ter por*, *tomar por*); *como* was heard as a comparison",
+          "from": "stylist"
+        },
+        {
+          "label": "como vossa subida",
+          "forms": {
+            "ascensum": "como vossa subida"
+          },
+          "note": "v1 — the Latin's word",
+          "from": "v1"
+        },
+        {
+          "label": "como vosso carro",
+          "forms": {
+            "ascensum": "como vosso carro"
+          },
+          "note": "DRB 'chariot' — the Hebrew's sense",
+          "from": "DRB"
+        },
+        {
+          "label": "como vosso degrau",
+          "forms": {
+            "ascensum": "como vosso degrau"
+          },
+          "note": "the concrete 'place by which one ascends'",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "spiritus",
+      "refs": [
+        "103:4"
+      ],
+      "latin": "Qui facis ángelos tuos, spíritus",
+      "kind": "ambiguity",
+      "why": "*spíritus* (πνεύματα) is 'spirits' and 'winds'; after 103:3's winds the verse can mean either, and Heb 1:7 quotes it for the angels' nature. *espíritos* keeps the Latin's word and the reading the Church kept; *ventos* is MS1932's gloss. *fazer de X Y* is how Portuguese says the double accusative.",
+      "options": [
+        {
+          "label": "espíritos",
+          "forms": {
+            "spiritus": "espíritos"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "ventos",
+          "forms": {
+            "spiritus": "ventos"
+          },
+          "note": "MS1932's gloss; closes the ambiguity the other way",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "stabilitas",
+      "refs": [
+        "103:5"
+      ],
+      "latin": "super stabilitátem suam",
+      "kind": "word",
+      "why": "*stabílitas* (ἀσφάλεια) is firmness, steadiness. *estabilidade* is the cognate and plain; *firmeza* is shorter but 96:2 has just given it to *corréctio*; MS1932 and DRB say 'bases', which is the Hebrew's word. **v2:** *firmeza* (stylist; +4 syllables in v1). It meets 96:2 *corréctio → firmeza* (an open row) in another psalm; noted for the glossary.",
+      "options": [
+        {
+          "label": "a sua firmeza",
+          "forms": {
+            "stabilitas": "a sua firmeza"
+          },
+          "note": "v2 — the stylist: plainer, and the colon loses two syllables; the 96:2 *corréctio* row is open and far away",
+          "from": "stylist"
+        },
+        {
+          "label": "a sua estabilidade",
+          "forms": {
+            "stabilitas": "a sua estabilidade"
+          },
+          "note": "v1",
+          "from": "v1"
+        },
+        {
+          "label": "as suas bases",
+          "forms": {
+            "stabilitas": "as suas bases"
+          },
+          "note": "MS1932, DRB — the Hebrew",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "stabunt",
+      "refs": [
+        "103:6"
+      ],
+      "latin": "super montes stabunt aquæ",
+      "kind": "word",
+      "why": "*stare* → *estar de pé* (open row), but waters 'standing up' is odd; the row's other form, *deter-se* (1:1 *non stetit*), says that the waters stand still over the mountains — and in 103:7 they flee. MS1932 *elevam-se* interprets.",
+      "options": [
+        {
+          "label": "se deterão",
+          "forms": {
+            "stabunt": "se deterão"
+          },
+          "note": "draft — as 1:1",
+          "from": "draft"
+        },
+        {
+          "label": "estarão de pé",
+          "forms": {
+            "stabunt": "estarão de pé"
+          },
+          "note": "the *stare* row's word",
+          "from": "glossary"
+        },
+        {
+          "label": "estarão",
+          "forms": {
+            "stabunt": "estarão"
+          },
+          "note": "plain; weak at the cadence",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "formidabunt",
+      "refs": [
+        "103:7"
+      ],
+      "latin": "a voce tonítrui tui formidábunt",
+      "kind": "glossary",
+      "why": "The row *formidáre (a) → ter pavor de* names this verse as the same build as 118:161. Kept apart from *timére → temer*. *À vossa repreensão* is the formula of 17:16b and 75:7; the second *a* is given the same crasis (*à voz*), as 41:8 *à voz das vossas cataratas*.",
+      "options": [
+        {
+          "label": "terão pavor",
+          "forms": {
+            "formidabunt": "terão pavor"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "temerão",
+          "forms": {
+            "formidabunt": "temerão"
+          },
+          "note": "MS1932; merges with *timére*",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "emittis",
+      "refs": [
+        "103:10"
+      ],
+      "latin": "Qui emíttis fontes in convállibus",
+      "kind": "word",
+      "why": "*emíttere* is the verb of 103:30 *Emíttes spíritum tuum* (both ἐξαποστέλλω): the psalm sends forth springs and then the spirit. The repetition is kept with *enviar* in both. *Enviar fontes* is less usual than *fazer brotar*, which would say the image more easily and lose the echo. *pelos vales* rather than *nos vales*: with *enviar* the place needs a preposition of movement. **v2:** *nos vales* (Latinist).",
+      "options": [
+        {
+          "label": "enviais as fontes nos vales",
+          "forms": {
+            "emittis": "enviais as fontes nos vales"
+          },
+          "note": "v2 — the Latinist: *in convállibus* is *nos vales*; *pelos* borrowed 10b's movement",
+          "from": "latinist"
+        },
+        {
+          "label": "enviais as fontes pelos vales",
+          "forms": {
+            "emittis": "enviais as fontes pelos vales"
+          },
+          "note": "v1 — the echo of 103:30",
+          "from": "v1"
+        },
+        {
+          "label": "fazeis brotar as fontes nos vales",
+          "forms": {
+            "emittis": "fazeis brotar as fontes nos vales"
+          },
+          "note": "the plainer image; the echo with 103:30 lost",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "refs": [
+        "103:11",
+        "103:14",
+        "103:20"
+      ],
+      "latin": "béstiæ agri · juméntis · béstiæ silvæ (and 103:26 animália)",
+      "kind": "glossary",
+      "why": "Three Latin words for animals stand in the psalm: *béstiæ* (θηρία, wild beasts, 103:11, 20), *juménta* (κτήνη, beasts kept by man, 103:14), *animália* (ζῷα, 103:26). The *juménta* row gives *animais*, but here *animália* needs that word, and the Greek keeps all three apart. So: *béstiæ → feras* (49:10 *feræ silvárum → as feras das selvas* is the same Greek, θηρία τοῦ δρυμοῦ, so they share it), *juménta → o gado* (the row's own option), *animália → animais*.",
+      "options": [
+        {
+          "label": "feras · o gado",
+          "forms": {
+            "bestiae11": "feras",
+            "bestiae20": "feras",
+            "jumenta": "o gado"
+          },
+          "note": "draft — three words for three",
+          "from": "draft"
+        },
+        {
+          "label": "feras · os animais",
+          "forms": {
+            "bestiae11": "feras",
+            "bestiae20": "feras",
+            "jumenta": "os animais"
+          },
+          "note": "the *juménta* row; *animais* then serves two Latin words in one psalm",
+          "from": "glossary"
+        },
+        {
+          "label": "animais · o gado",
+          "forms": {
+            "bestiae11": "animais",
+            "bestiae20": "animais",
+            "jumenta": "o gado"
+          },
+          "note": "MS1932 *animais do campo / da selva*",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exhilaret",
+      "refs": [
+        "103:15"
+      ],
+      "latin": "Ut exhílaret fáciem in óleo",
+      "kind": "word",
+      "why": "*exhilaráre* (ἱλαρῦναι) is a different verb from *lætificáre* (εὐφραίνει) one colon earlier; *alegrar* is already *lætificáre*'s. *animar* is the Brazilian verb for cheering someone up and keeps them apart. Who does it is left open, as in the Latin (third person, no subject: the man, the oil, God). *óleo*, as 22:5, 44:8, 54:22.",
+      "options": [
+        {
+          "label": "anime",
+          "forms": {
+            "exhilaret": "anime"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "torne alegre",
+          "forms": {
+            "exhilaret": "torne alegre"
+          },
+          "note": "the sense exactly; shares the root of *alegre* in 103:14b",
+          "from": "draft"
+        },
+        {
+          "label": "faça brilhar",
+          "forms": {
+            "exhilaret": "faça brilhar"
+          },
+          "note": "the Hebrew's picture; not the Latin's word",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "confirmet",
+      "refs": [
+        "103:15"
+      ],
+      "latin": "et panis cor hóminis confírmet",
+      "kind": "glossary",
+      "why": "The *confirmáre* row: with a person or a heart as object *confirmar* is heard as attesting; the row proposes *firmar* for persons, and 36:17 took *sustentar* (ὑποστηρίζει; here στηρίζει). Bread sustains, so *sustentar* is the sense and the verb 36:17 already gave. *firme o coração* would be the row's proposal; MS1932 *fortifique*. **v2:** *fortaleça* (Latinist: στηρίζει, make firm; *sustente* feeds rather than strengthens). Avoids *confirmar* as the row asks; the 26:14 formula already uses *fortalecer-se* for *confortári*, a different Latin verb, in another psalm.",
+      "options": [
+        {
+          "label": "fortaleça",
+          "forms": {
+            "confirmet": "fortaleça"
+          },
+          "note": "v2 — the Latinist: *confirmáre* is to make strong; *sustentar* softened it. MS1932, DRB",
+          "from": "latinist"
+        },
+        {
+          "label": "sustente",
+          "forms": {
+            "confirmet": "sustente"
+          },
+          "note": "v1 — as 36:17",
+          "from": "v1"
+        },
+        {
+          "label": "firme",
+          "forms": {
+            "confirmet": "firme"
+          },
+          "note": "the row's proposal for persons (40:13, 50:14)",
+          "from": "glossary"
+        },
+        {
+          "label": "confirme",
+          "forms": {
+            "confirmet": "confirme"
+          },
+          "note": "the cognate; heard as attesting",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "herodius",
+      "refs": [
+        "103:17"
+      ],
+      "latin": "Heródii domus dux est eórum",
+      "kind": "word",
+      "why": "A hard line in the Latin too. *heródius* is the Greek ἐρωδιός, the heron; L&S: 'an unknown bird, perhaps the stork'; MS1932 *cegonha* (the Hebrew's bird). The Latin says 'the heron's house is their leader' (ἡ οἰκία ἡγεῖται αὐτῶν); DRB turns it into 'the highest of them is the house of the heron'. Kept as the Latin says it, without explaining. *dux → guia* (open row).",
+      "options": [
+        {
+          "label": "A casa da garça é o guia deles",
+          "forms": {
+            "herodius": "A casa da garça é o guia deles"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "A casa da cegonha é o guia deles",
+          "forms": {
+            "herodius": "A casa da cegonha é o guia deles"
+          },
+          "note": "MS1932's bird",
+          "from": "MS1932"
+        },
+        {
+          "label": "A casa da garça os guia",
+          "forms": {
+            "herodius": "A casa da garça os guia"
+          },
+          "note": "noun made verb; shorter",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cognovit",
+      "refs": [
+        "103:19"
+      ],
+      "latin": "sol cognóvit occásum suum",
+      "kind": "grammar",
+      "why": "*cognóvit* is a perfect with present sense (ἔγνω, gnomic; DRB 'knoweth'), like *cognóvi → conheço* (D44); *conheceu* would be heard as a single event, even the sun's death. *occásus → poente*, as the settled formula 49:1 *até o poente*.",
+      "options": [
+        {
+          "label": "conhece o seu poente",
+          "forms": {
+            "cognovit": "conhece o seu poente"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "conheceu o seu poente",
+          "forms": {
+            "cognovit": "conheceu o seu poente"
+          },
+          "note": "the Latin's tense",
+          "from": "draft"
+        },
+        {
+          "label": "conhece o seu ocaso",
+          "forms": {
+            "cognovit": "conhece o seu ocaso"
+          },
+          "note": "MS1932's noun",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "collocabuntur",
+      "refs": [
+        "103:22"
+      ],
+      "latin": "et in cubílibus suis collocabúntur",
+      "kind": "word",
+      "why": "The *collocáre* row gives *colocar* (22:1 *ali me colocou*). Here the passive is 'they will be laid down' in their dens (κοιτασθήσονται, 'will lie down'; L&S *collocare in cubili*). *serão colocados nos seus covis* is not how Portuguese says an animal lying down. *se deitarão* is the sense of the Latin word in this use.",
+      "options": [
+        {
+          "label": "se deitarão",
+          "forms": {
+            "collocabuntur": "se deitarão"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "se recolherão",
+          "forms": {
+            "collocabuntur": "se recolherão"
+          },
+          "note": "withdrawing to rest; MS1932 *vão esconder-se*",
+          "from": "draft"
+        },
+        {
+          "label": "serão colocados",
+          "forms": {
+            "collocabuntur": "serão colocados"
+          },
+          "note": "the row's verb",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "possessio",
+      "refs": [
+        "103:24"
+      ],
+      "latin": "impléta est terra possessióne tua",
+      "kind": "glossary",
+      "why": "*posséssio* (κτῆσις, what one has acquired). The row *heréditas / posséssio* keeps *posse* for land; 77:48 took *bens* where the goods were meant, because *posse* is heard as the right of owning. Here too the earth is full of what God owns. DRB 'riches', MS1932 *riquezas*.",
+      "options": [
+        {
+          "label": "dos vossos bens",
+          "forms": {
+            "possessio": "dos vossos bens"
+          },
+          "note": "draft — as 77:48",
+          "from": "draft"
+        },
+        {
+          "label": "da vossa posse",
+          "forms": {
+            "possessio": "da vossa posse"
+          },
+          "note": "the row's word",
+          "from": "glossary"
+        },
+        {
+          "label": "das vossas riquezas",
+          "forms": {
+            "possessio": "das vossas riquezas"
+          },
+          "note": "MS1932, DRB",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "manibus",
+      "refs": [
+        "103:25"
+      ],
+      "latin": "Hoc mare magnum, et spatiósum mánibus",
+      "kind": "word",
+      "why": "'Wide of hands' (εὐρύχωρος; the Hebrew's idiom). Portuguese cannot say a sea is wide of hands, but it says *braços de mar*, and MS1932 *de longos braços*: the limb is kept, only its name changes. The verse is verbless in the Latin and stays so.",
+      "options": [
+        {
+          "label": "de largos braços",
+          "forms": {
+            "manibus": "de largos braços"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "espaçoso de mãos",
+          "forms": {
+            "manibus": "espaçoso de mãos"
+          },
+          "note": "the Latin word for word; not Portuguese",
+          "from": "draft"
+        },
+        {
+          "label": "espaçoso",
+          "forms": {
+            "manibus": "espaçoso"
+          },
+          "note": "the sense; the hands dropped",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "reptilia",
+      "refs": [
+        "103:25"
+      ],
+      "latin": "illic reptília, quorum non est númerus",
+      "kind": "grammar",
+      "why": "The *reptília* row gives *tudo o que rasteja* (68:35, where the Latin has *ómnia*); here there is no *ómnia*. *répteis* is zoological. The neuter plural becomes a verb with a supplied noun (grammar, D2); *quorum non est númerus* → *sem número*, the same compression 104:34 and 146:5 will face.",
+      "options": [
+        {
+          "label": "ali rastejam seres sem número",
+          "forms": {
+            "reptilia": "ali rastejam seres sem número"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "ali, o que rasteja, que não tem número",
+          "forms": {
+            "reptilia": "ali, o que rasteja, que não tem número"
+          },
+          "note": "closer to the row; clumsy",
+          "from": "glossary"
+        },
+        {
+          "label": "ali há répteis sem número",
+          "forms": {
+            "reptilia": "ali há répteis sem número"
+          },
+          "note": "the cognate",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "illudendum",
+      "refs": [
+        "103:27"
+      ],
+      "latin": "Draco iste, quem formásti ad illudéndum ei",
+      "kind": "ambiguity",
+      "why": "*illúdere* + dative: 'to play with' or 'to make sport of, mock' (L&S). *ei* can be the sea (DRB 'to play therein', MS1932 *brincar entre as suas ondas*) or the dragon (God made him to make sport of him; ἐμπαίζειν αὐτῷ). *brincar com ele* keeps both: *ele* is *o mar* or *o dragão*. *zombar dele* decides for the mockery and the dragon; *illúsio → escárnio* (D39) is that sense's word elsewhere.",
+      "options": [
+        {
+          "label": "para brincar com ele",
+          "forms": {
+            "illudendum": "para brincar com ele"
+          },
+          "note": "draft — keeps *ei* open",
+          "from": "draft"
+        },
+        {
+          "label": "para zombar dele",
+          "forms": {
+            "illudendum": "para zombar dele"
+          },
+          "note": "the mocking sense; decides the pronoun",
+          "from": "draft"
+        },
+        {
+          "label": "para brincar nele",
+          "forms": {
+            "illudendum": "para brincar nele"
+          },
+          "note": "DRB, MS1932 — the sea",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "omnia",
+      "refs": [
+        "103:24",
+        "103:27",
+        "103:28"
+      ],
+      "latin": "ómnia in sapiéntia fecísti · ómnia a te exspéctant · ómnia implebúntur",
+      "kind": "grammar",
+      "why": "Three times *ómnia*, neuter plural. In 103:24 it is 'all things' (*tudo*). In 103:27–28 the neuter is the creatures who wait and are fed (*illis*); *todas as coisas aguardam … que lhes deis o alimento* makes 'things' eat. MS1932 has *todos* there. The repetition is kept between 27 and 28; 24 differs by one word's grammar.",
+      "options": [
+        {
+          "label": "tudo · todos · todos",
+          "forms": {
+            "omnia24": "tudo",
+            "omnia27": "todos",
+            "omnia28": "todos"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "todas as coisas ×3",
+          "forms": {
+            "omnia24": "todas as coisas",
+            "omnia27": "todas as coisas",
+            "omnia28": "todas as coisas"
+          },
+          "note": "the Latin's neuter everywhere",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "eloquium",
+      "refs": [
+        "103:34"
+      ],
+      "latin": "Jucúndum sit ei elóquium meum",
+      "kind": "glossary",
+      "why": "D16 and D26 make *elóquium* the clause *o que dissestes* when it is God's word; D16 names 103:34, a man's word, as a place the verse decides. The clause works here as a subject, in the present because the psalmist's speech is the psalm now being said (διαλογή, his discourse): *o que eu digo*. It stays apart from *palavra* (*verbum*, *sermo*). *jucúndus → agradável* (row). **v2:** the Latinist and the stylist both asked *a minha palavra*; refused — *palavra* already carries *verbum* and *sermo* (glossary row), and D16/D26 keep *elóquium* apart. The stylist's cadence point taken by dropping *eu*: *o que DI-go*, and the emphatic *eu, porém* of 34b now answers it alone.",
+      "options": [
+        {
+          "label": "o que digo",
+          "forms": {
+            "eloquium": "o que digo"
+          },
+          "note": "v2 — D26's clause without *eu*, which the stylist found weak at the mediant; *eu* now stands only in 34b (*ego vero*)",
+          "from": "stylist"
+        },
+        {
+          "label": "o que eu digo",
+          "forms": {
+            "eloquium": "o que eu digo"
+          },
+          "note": "v1 — D26's clause, present tense",
+          "from": "v1"
+        },
+        {
+          "label": "a minha palavra",
+          "forms": {
+            "eloquium": "a minha palavra"
+          },
+          "note": "Latinist and stylist, v1; merges with *verbum / sermo*",
+          "from": "latinist"
+        },
+        {
+          "label": "o meu dito",
+          "forms": {
+            "eloquium": "o meu dito"
+          },
+          "note": "the noun D16 keeps available",
+          "from": "glossary"
+        },
+        {
+          "label": "as minhas palavras",
+          "forms": {
+            "eloquium": "as minhas palavras"
+          },
+          "note": "MS1932; merges with *verbum*",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "deficiant",
+      "refs": [
+        "103:35"
+      ],
+      "latin": "Defíciant peccatóres a terra",
+      "kind": "word",
+      "why": "*defícere → desfalecer* (row) stands in 103:29 (*e desfalecerão*); but *desfalecer da terra* is not Portuguese. ἐκλίποισαν: 'fail, vanish'. *Desapareçam da terra* (MS1932) says it; the echo with 103:29 is lost.",
+      "options": [
+        {
+          "label": "Desapareçam da terra",
+          "forms": {
+            "deficiant": "Desapareçam da terra"
+          },
+          "note": "draft — MS1932",
+          "from": "MS1932"
+        },
+        {
+          "label": "Desfaleçam da terra",
+          "forms": {
+            "deficiant": "Desfaleçam da terra"
+          },
+          "note": "the row's verb and 103:29's; not idiomatic with *da terra*",
+          "from": "glossary"
+        },
+        {
+          "label": "Acabem-se da terra",
+          "forms": {
+            "deficiant": "Acabem-se da terra"
+          },
+          "note": "",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "103:1": "The frame of the psalm (103:1a = 103:35b) fills both places from one decision. *Dómine, Deus meus → Senhor, meu Deus* (formula row). The soul is *tu*, God is *vós*, both in one verse as the Latin has it. Checks: The remaining ±3–4 flags (103:1, 2, 3, 5, 6, 11, 12, 14, 14b, 15, 21, 22, 23, 24, 28, 30, 32) come from Portuguese articles and analytic verbs; none moves a cadence off oxytone/paroxytone.",
+    "103:2": "The participles of 103:1b–2 (*amíctus … Exténdens*) and the relatives *qui* (103:2b–5, 103:10) hang on *Dómine* of 103:1 without a main verb; kept so. *Qui* → *vós que* each time: the anaphora is the Latin's. *tégere → cobrir* (row); 103:9 *operíre* also becomes *cobrir* (a different Greek verb: στεγάζω / καλύπτω) — they do not meet in one verse.",
+    "103:4": "*urens* → *ardente*; MS1932 *abrasador*.",
+    "103:5": "*inclináre* → *inclinar-se* (settled row, of kingdoms); DRB 'moved'. *in sǽculum sǽculi → pelos séculos dos séculos* (D27).",
+    "103:7": "*Ab increpatióne tua → À vossa repreensão*, the formula of 17:16b and 75:7. *tonítruum → trovão* (row *in rota*).",
+    "103:8": "The Latin's ':' after *montes* and the mediant after *campi* are both kept. *campi → campos*, as 95:11 *campi gaudébunt → os campos*; *ager* (103:11) also becomes *campo*, so two Latin words (πεδίον, ἀγρός) share one Portuguese — they are eight verses apart. *fundásti* repeats 103:5's *fundastes*.",
+    "103:9": "*transgrédi → transpor* (row); *convérti → voltar* (row).",
+    "103:10": "*pertransíre → passar* (38:7), kept one verb in all three places of the psalm (103:10, 20, 26).",
+    "103:11": "*Potábunt* — in Vulgate Latin *potáre* can mean 'give to drink' (the Greek ποτιοῦσιν does), but *béstiæ* is nominative, so in the Latin the beasts drink. *ónager → asnos selvagens* (*jumento* is a donkey in Brazil, *onagro* unknown). *exspectáre → aguardar* (D39).",
+    "103:12": "*Super ea* is neuter in the Latin (Greek αὐτά, the waters, ὕδατα neuter); *Sobre elas* refers the ear to *as águas* of 103:10b. *vocem dare → fazer ouvir a voz* (row; 17:14); the plural kept; no possessive, as the Latin (*dabunt voces*; v2 gate). *petra → rocha* (row). **v2 (ambiguity reader):** *Sobre elas* may be heard with *feras* (103:11); the Latin *ea* is equally a bare pronoun (the waters of 103:10). Kept, not glossed.",
+    "103:13": "*rigáre → regar* (row). *satiáre / saturáre → saciar* (row; one Greek verb, χορτάζω, in 103:13 and 103:16), passive as in the Latin. **v2:** *se saciará* (stylist: the analytic passive was heavy); the Latin passive is medio-passive (D2). 103:16 takes the same form, so one Greek verb (χορτάζω) keeps one shape.",
+    "103:14": "*fænum → feno* here (fodder for the herd; the row's split: *erva* where it flowers), *herba → erva* (row), so the two words stay apart in one verse. *servitúti hóminum* kept as *o serviço dos homens* (DRB 'the service of men').",
+    "103:14b": "*edúcere → fazer sair* (row). The subjunctive of the second colon is announced with *que* (*e que o vinho alegre*), because *e o vinho alegre …* is first heard as 'the cheerful wine'. *lætificáre → alegrar* (row). 103:15 repeats the build.",
+    "103:15": "Checks: the rhyme 103:14b/103:15 (*homem*) is the Latin's own repetition (*cor hóminis* twice); kept. v2 checks: 15b +5 with *fortaleça* (the Latinist's verb); accepted.",
+    "103:16": "*que ele plantou*: the Latin's third person (God), inside a psalm that addresses him. *cedri* is feminine in Latin, *cedros* masculine; nothing hangs on it. *passer → pardal* (row, which names this verse). *nidificáre → fazer ninho*. **v2:** *As árvores do campo se saciarão* — the stylist asked a pronominal (his *Saciam-se* changes the tense; refused); the subject is put first to avoid a proclitic at the head of the verse. Checks: +6 (the Portuguese articles and the supplied *ele*); accepted.",
+    "103:17": "*excélsus → excelso* (D43). *cervus → cervo* kept: the row allows it where the animal's context is clear, as here between the heron and the hedgehog. *herinácius* (hedgehog; χοιρογρύλλιος, the rock-badger) → *ouriços*, MS1932. The second half is verbless in the Latin; one copula is supplied (*são*), the second clause keeps the Latin's ellipsis. Checks: +6 — the supplied *são* and prepositions; accepted. **v2 (ambiguity reader):** *ouriços* may be heard as sea urchins; *ouriço* is also the land animal (MS1932), and *porco-espinho* is another animal. Kept.",
+    "103:19": "*in témpora → para os tempos* (MS1932 adds *marcar*).",
+    "103:20": "*Posuísti* repeats 103:9 *Pusestes*. *silva → selva* (D44), though readers have objected to it in three psalms; left for the coordinator.",
+    "103:21": "The verse has no main verb in the Latin: the lion cubs are in apposition to the beasts of 103:20b. The gerund keeps that. *cátulus → filhote* (row; 16:12 *um filhote de leão*); *rugíre → rugir*; *rápere → arrebatar* (row); *quǽrere → buscar* (row); *esca → alimento* (the row foresees *alimento* or *comida* for food given; 103:27 has the same word, and *alimento* serves both).",
+    "103:22": "*oríri → nascer* (row); *congregári → reunir-se* (D43); the subject pronoun *eles* supplied (D2), otherwise the sun seems to gather. *cubíle → covil*.",
+    "103:23": "*opus → obra* (as 103:13, 24, 31); *operátio → trabalho* (a different noun of the same root; *operação* is not said of a man's labour). *usque ad vésperum → até a tarde* (58:7 *à tarde*).",
+    "103:24": "The formula of 91:6a: *Como se engrandeceram as vossas obras, Senhor!* *implére → encher*, in 103:24 and 103:28 alike. *in sapiéntia → com sabedoria*.",
+    "103:26": "*navis → navio* (D43).",
+    "103:27": "*formáre → formar* (94:5). *in témpore → a seu tempo*, the Portuguese idiom for 'in due time' (Greek εὔκαιρον).",
+    "103:28": "The two absolute ablatives stay gerunds, each with its subject *vós* (MS1932's build). *bónitas → bondade* (row). *aperíre* is not an imperative here, so rule 3 does not apply.",
+    "103:29": "*avértere fáciem → desviar a face* (row, 12:1); the Latin has no *tuam* and the Portuguese none. *turbári → perturbar-se* (row). *auferre → tirar* (D41). *spíritum eórum … spíritum tuum* (103:30): *espírito* both times, so the play between their spirit taken and yours sent is heard; lower case, as the DO Latin and 50:13 (D44). *defícere → desfalecer* (row); *revérti → voltar*; *pulvis → pó*.",
+    "103:30": "Lower case *espírito*, as the DO Latin prints *spíritum*. The Pentecost versicle's words (*Emítte Spíritum tuum*) are an imperative in the liturgy, a future here; the psalm's future is kept.",
+    "103:31": "*Sit … in sǽculum → Seja … para sempre* (D23). *lætári → alegrar-se* (row).",
+    "103:32": "*respícere → olhar para* (row). *Ele, que* opens the verse: the Latin's *Qui* hangs on *Dóminus* of 103:31b, and a verse cannot open on a bare *Que*. *eles fumegam*: the subject supplied (D2).",
+    "103:33": "*Cantábo … psallam*: *cantar* and *entoar salmos* side by side, as 12:6b (D25). *in vita mea → na minha vida* (62:5). *quámdiu sum → enquanto eu existir* (*esse* absolute → *existir*, D39). Checks: +8 syllables — *psallam → entoarei salmos* (D25) and *sum → eu existir* (D39) each cost a word; accepted for the formulas.",
+    "103:34": "*delectári → deleitar-se* (D44). *ego vero → eu, porém*.",
+    "103:35": "*ita ut non sint → de modo que já não existam* (*esse* absolute → *existir*, D39; *já* as 38:14 *e já não existirei*). *peccátor / iníquus → pecador / iníquo* (row). Checks: the rhyme 103:34/103:35 (*Senhor*) — the Latin ends both on *Dómino*; kept. **v2:** *ita ut non sint → até não existirem mais* (stylist: *de modo que* was the register of an explanation); *até* keeps the result, *não … mais* the *já* of 38:14. v2 checks: +6; accepted."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps103.md (Latin, LXX, Hebrew, DRB, MS1932; no DM1962 section for this psalm) and the glossary rows found with ps103/gl.py. Hard readings: 103:1b *Confessiónem* (decided with 95:6), 103:2 *pellem*, 103:3 *ascénsum*, 103:4 *spíritus*, 103:17 *Heródii domus dux est eórum*, 103:25 *spatiósum mánibus*, 103:27 *ad illudéndum ei*, 103:34 *elóquium* (a man's). Formulas copied: 91:6a (103:24), 17:16b (103:7), 92:1a's verb and *decor* (103:1b), 49:1 *poente* (103:19), 12:6b (103:33), 62:5 (103:33)."
+    },
+    {
+      "step": "checks",
+      "note": "v1: hard pass; soft flags recorded in choices (103:1, 15, 16, 17, 33, 35)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "11 minors on 10 verses, no major. Three taken, eight refused under rulings or kept as options. Overall: 'a faithful, close translation … no verse adds or drops content'.",
+      "outcomes": [
+        {
+          "verse": "103:1",
+          "remark": "passive fostes … engrandecido",
+          "outcome": "taken",
+          "decision": "magnificatus"
+        },
+        {
+          "verse": "103:10",
+          "remark": "nos vales",
+          "outcome": "taken",
+          "decision": "emittis"
+        },
+        {
+          "verse": "103:15",
+          "remark": "fortaleça",
+          "outcome": "taken",
+          "decision": "confirmet"
+        },
+        {
+          "verse": "103:34",
+          "remark": "a minha palavra",
+          "outcome": "refused",
+          "decision": "eloquium",
+          "reason": "*palavra* is *verbum / sermo*'s (glossary, D16, D26); *eu* dropped instead."
+        },
+        {
+          "verse": "103:1b",
+          "remark": "decor → formosura, not esplendor",
+          "outcome": "refused",
+          "decision": "confessio",
+          "reason": "The *decor* row: *esplendor* (92:1a *vestiu-se de esplendor*, the same verb); kept apart from 95:6 *pulchritúdo → beleza*, as the twin requires."
+        },
+        {
+          "verse": "103:6",
+          "remark": "stabunt → estarão, not se deterão",
+          "outcome": "refused",
+          "decision": "stabunt",
+          "reason": "The *stare* row gives *deter-se* where the thing stands still (1:1); *estarão* is flat at the cadence; option 2."
+        },
+        {
+          "verse": "103:19",
+          "remark": "cognovit → conheceu",
+          "outcome": "refused",
+          "decision": "cognovit",
+          "reason": "D44 (settled): *cognóvi* with present sense → *conheço*; the perfect would be heard as a single past event."
+        },
+        {
+          "verse": "103:24a",
+          "remark": "passive, as 103:1",
+          "outcome": "refused",
+          "decision": "magnificatus",
+          "reason": "The formula of 91:6a (*Como se engrandeceram*), kept word for word; 103:1 took the passive (v2)."
+        },
+        {
+          "verse": "103:24b",
+          "remark": "possessio → possessão",
+          "outcome": "refused",
+          "decision": "possessio",
+          "reason": "*possessão* is heard first as demonic possession in Brazil; *bens* as 77:48; *posse* option 1."
+        },
+        {
+          "verse": "103:25",
+          "remark": "manibus → mãos; reptilia → répteis",
+          "outcome": "refused",
+          "decision": "manibus",
+          "reason": "*espaçoso de mãos* is not Portuguese (option 1); *braços de mar* keeps a limb. *répteis* is zoological (option 2)."
+        },
+        {
+          "verse": "103:27",
+          "remark": "omnia → todas as coisas (27, 28)",
+          "outcome": "refused",
+          "decision": "omnia",
+          "reason": "*todas as coisas aguardam … que lhes deis o alimento* makes things eat; option 1 keeps the neuter."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "7 remarks; best line 103:8, worst 103:3. Five taken (two in modified form), two refused.",
+      "outcomes": [
+        {
+          "verse": "103:3",
+          "remark": "pôr … como → pôr … por",
+          "outcome": "taken",
+          "decision": "ascensum"
+        },
+        {
+          "verse": "103:5",
+          "remark": "estabilidade → firmeza",
+          "outcome": "taken",
+          "decision": "stabilitas"
+        },
+        {
+          "verse": "103:13",
+          "remark": "será saciada → se saciará",
+          "outcome": "taken"
+        },
+        {
+          "verse": "103:14b",
+          "remark": "façais sair → tireis",
+          "outcome": "refused",
+          "reason": "*tirar* is *auferre*'s (D41) and stands in 103:29 of this psalm; *edúcere → fazer sair* (row)."
+        },
+        {
+          "verse": "103:16",
+          "remark": "Serão saciadas → Saciam-se",
+          "outcome": "modified",
+          "reason": "pronominal taken, tense kept: *As árvores do campo se saciarão*."
+        },
+        {
+          "verse": "103:34",
+          "remark": "o que eu digo → a minha palavra",
+          "outcome": "modified",
+          "decision": "eloquium",
+          "reason": "*palavra* refused (D16, D26); the weak mediant fixed by dropping *eu*."
+        },
+        {
+          "verse": "103:35",
+          "remark": "de modo que já não existam → até não existirem mais",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "model": "claude-opus-5-5 (fresh context)",
+      "note": "60 readings; most are the Latin's own (subject of 103:7, 9, 14, 15; 103:27 *ele*; third person 103:16, 19). Acted on: 103:1 *engrandecestes-vos* as self-aggrandizement (→ passive, with the Latinist); 103:3 *como* as simile (→ *por*, with the stylist). Recorded, kept: 103:1b *confissão* as the sacrament (the known cost, 95:6); 103:12 *Sobre elas* heard with *feras*; 103:17 *ouriços* as sea urchins; 103:23 *tarde* as afternoon (58:7); 103:29 *desfalecerão* as fainting (row). Unknown words (transporão, garça, covis, iníquos …) are the settled vocabulary."
+    },
+    {
+      "step": "gate",
+      "file": "critic/v2.latinist.json",
+      "model": "claude-opus-5-5 (fresh context, with latin.json)",
+      "note": "7 minors on 6 verses, no major. One taken (103:12); the rest are v1 remarks already refused under rulings. Overall: 'a faithful, close rendering of the whole psalm'.",
+      "outcomes": [
+        {
+          "verse": "103:6",
+          "remark": "se deterão → estarão",
+          "outcome": "refused",
+          "decision": "stabunt",
+          "reason": "the *stare* row: *deter-se* (1:1) where a thing stands still; option 2."
+        },
+        {
+          "verse": "103:12",
+          "remark": "as suas vozes → vozes",
+          "outcome": "taken"
+        },
+        {
+          "verse": "103:19",
+          "remark": "conhece → conheceu",
+          "outcome": "refused",
+          "decision": "cognovit",
+          "reason": "D44 (settled): *cognóvi* present sense."
+        },
+        {
+          "verse": "103:24",
+          "remark": "bens → possessão",
+          "outcome": "refused",
+          "decision": "possessio",
+          "reason": "*possessão* is heard as demonic possession; 77:48 *bens*."
+        },
+        {
+          "verse": "103:25",
+          "remark": "braços → mãos; rastejam seres → há répteis",
+          "outcome": "refused",
+          "decision": "manibus",
+          "reason": "*espaçoso de mãos* is not Portuguese; *répteis* zoological; both options."
+        },
+        {
+          "verse": "103:34",
+          "remark": "o que digo → a minha palavra",
+          "outcome": "refused",
+          "decision": "eloquium",
+          "reason": "D16, D26: *palavra* is *verbum / sermo*'s."
+        }
+      ]
+    },
+    {
+      "step": "finish",
+      "note": "103:1, 103:35 copy the Ps 102 formula row (*ó minha alma*). Glossary rows and PROGRESS row added."
+    }
+  ]
+}
