@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "04e3fe44d75168bffd9642c565a820512f912bb5d5d6f9fa2e35e9e6af2bd424",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T04:10:03+00:00",
+  "reply": "{\"verses\": [{\"id\": \"107:13\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Da nobis auxílium de tribulatióne\", \"portuguese\": \"Dai-nos auxílio na tribulação\", \"problem\": \"'de' (LXX ek) marks help out of / from the tribulation, not help given while in it; 'na' shifts the preposition's sense slightly.\", \"fix\": \"Dai-nos auxílio desde a tribulação\"}]}, {\"id\": \"107:14\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"faciémus virtútem\", \"portuguese\": \"agiremos com poder\", \"problem\": \"Latin keeps a verb plus object noun ('we shall do/make strength', i.e. do valiantly); 'agiremos com poder' turns the object into a manner adverbial. Defensible, but closer is possible.\", \"fix\": \"Em Deus faremos proezas\"}]}], \"overall\": \"A faithful, close rendering: content, tenses, persons and the Latin's ambiguities (in sancto suo, verbless clauses of vv. 6, 9, 10) are kept, and the Septuagintal images (lebes spei meae, suscéptio cápitis mei) are preserved concretely. Pointing marks match the Latin in every verse. Only two minor prepositional/phrasing points.\"}\n"
+}

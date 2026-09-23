@@ -1,0 +1,18 @@
+{
+  "append": [
+    {"row": "| olla / lebes (Moab's pot) |", "text": "**Ps 107:10 *Moab lebes spei meæ* → *Moab é o caldeirão da minha esperança*** (v2): the row's second way taken. Draft 1 copied *panela* by D15's test; the v1 stylist named it the psalm's worst line (kitchen comedy when chanted; asked *caldeira*, refused — boiler / crater) and the ambiguity reader heard the image as positive; with Ps 59's reader, three remarks against *panela*. *caldeirão* is L&S's own gloss of *lebes*, so the twins now differ where their Latin does. *a panela* option; if Gustavo wants the doublet identical, 59:9b could take *o caldeirão* instead. **Proposed: *olla → panela*, *lebes → caldeirão*.**"},
+    {"row": "| partíri / divídere (land) |", "text": "**Ps 107:8 *dívidam Síchimam* → *repartirei Siquém*** — copied from 59:8 as the row proposed (διαμεριῶ in both); *dividirei* option. *dimétiar* likewise copies 59:8's *medirei* (διαμετρήσω in both)."},
+    {"row": "| alienígenæ |", "text": "Ps 107:10b *mihi alienígenæ amíci facti sunt* → *os estrangeiros se tornaram meus amigos* — applied; the Latin departs from Rahlfs's ὑπετάγησαν and is followed (DRB, MS1932 the same)."},
+    {"row": "| suscéptor |", "text": "**Ps 107:9 *suscéptio cápitis mei* → *o amparo da minha cabeça*** — the noun (only here in the psalter, grep) joins the D19 family: ἀντίλημψις, the noun beside ἀντιλήμπτωρ = *suscéptor*. The twin 59:9 has another Latin and Greek (*fortitúdo*, κραταίωσις → *a força*). Latinist passed it twice; the ambiguity reader found the image unclear (kept, rule 5)."},
+    {"row": "| exsultáre, exsultátio / lætári |", "text": "**Ps 107:8 *Exsultábo* → *Exultarei*** where the twin 59:8 has *lætábor → eu me alegrarei*: the Latin varies and the row keeps the verbs apart (Rahlfs has ὑψωθήσομαι here, not followed)."},
+    {"row": "| fácere virtútem |", "text": "Ps 107:14 copies 59:14a; the Latinist (v1 and v2 gate) asked *faremos proezas* as a minor, calling the row's wording defensible; held."},
+    {"row": "| tribulátio |", "text": "**Ps 107:13 = 59:13 copied (*na tribulação*).** Its Latinist runs added two more proposals: v1 *desde a tribulação*, v2 *contra a tribulação* — four runs across the twins, three different fixes; held with Ps 59, for Gustavo."},
+    {"row": "| psállere |", "text": "**Ps 107:2 *cantábo, et psallam in glória mea* → *cantarei, e entoarei salmos na minha glória*; 107:4 *et psallam tibi* → *e vos entoarei salmos*** — where the twin 56:8, 56:10 has *psalmum dicam* → *entoarei um salmo* (the same Greek ψαλῶ): the Latin's verb/noun kept visible; copying Ps 56 is the option. No reader remarked."},
+    {"row": "| liberáre |", "text": "Ps 107:6b copies 59:7a *para que sejam livrados os vossos amados*; the v1 stylist heard *livrados … amados* as a chime and asked *libertos* (erípere's verb) — refused for the twin, option."},
+    {"row": "| inimíci |", "text": "Ps 107:14 *inimícos nostros → os nossos inimigos*, where the twin 59:14 has *tribulántes nos → os que nos atribulam* (the Greek differs too)."},
+    {"row": "| calceaméntum |", "text": "Ps 107:10b copies 59:10a (*Sobre a Idumeia estenderei o meu calçado*); the ambiguity reader heard marching, or a literal shoe — the Latin's image."}
+  ],
+  "formulas": [
+    "| *Quia magna est super cælos misericórdia tua: et usque ad nubes véritas tua* (107:5; near-twin of 56:11 *Quóniam magnificáta est usque ad cælos*) | *Porque é grande sobre os céus a vossa misericórdia: * e até as nuvens a vossa verdade* | open — Ps 107 (*super* → *sobre* as in 107:6 = 56:12, one Latin word in the psalm; *acima dos céus* option; second colon = 56:11b) |"
+  ]
+}

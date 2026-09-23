@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "927dd5f5410830866d3faa50f805a8c5eb1e7dc6c808f07f34b7179ae000946c",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T04:12:17+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"107:13\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Da nobis auxílium de tribulatióne\", \"portuguese\": \"Dai-nos auxílio na tribulação\", \"problem\": \"'de' + ablative is 'from/out of' tribulation (help that delivers from it), not 'in' it; 'na' shifts the preposition's sense slightly.\", \"fix\": \"Dai-nos auxílio contra a tribulação\"}]},\n{\"id\": \"107:14\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"In Deo faciémus virtútem\", \"portuguese\": \"Em Deus agiremos com poder\", \"problem\": \"The Latin has a verb with a direct object ('we shall do/make strength', i.e. act valiantly); the translation recasts the noun object as an adverbial phrase. Defensible, but a noun object would be closer.\", \"fix\": \"Em Deus faremos proezas\"}]}\n],\n\"overall\": \"A faithful, close rendering: the Septuagintal images (susceptio capitis, lebes spei, calceamentum, in sancto suo, virtutibus as 'forças') are kept without smoothing, and the ambiguities of 'Salvum fac' without object and 'in sancto suo' are preserved. Only two minor points of closeness in vv. 13-14; pointing marks match the Latin in every verse.\"}\n"
+}

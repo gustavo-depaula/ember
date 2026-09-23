@@ -1,0 +1,8 @@
+{
+  "append": [
+    {"row": "| Ps 59:7–14 ↔ Ps 107:6b–14", "text": "**Ps 107 done (v2): every identical colon copied.** Where the Latin differs: *Exultarei* (exsultábo), *repartirei … medirei* (copied — same Greek), *o amparo* (suscéptio), *o caldeirão* (lebes; draft 1 *panela*), *os estrangeiros se tornaram meus amigos*, *saireis* (exíbis, copied — same Greek), *os nossos inimigos*; 107:12 keeps its Latin's comma (one question across the asterisk)."},
+    {"row": "| *Parátum cor meum, Deus", "text": "**Ps 107 done (v2):** 107:2a and 107:3 copied; 107:2b *cantarei, e entoarei salmos na minha glória* (D25)."},
+    {"row": "| *Confitébor tibi in pópulis", "text": "**Ps 107 done (v2):** 107:4a and 107:5b copied; 107:4b *e vos entoarei salmos entre as nações* (*in natiónibus*, ἐν ἔθνεσιν as 56:10)."},
+    {"row": "| *Exaltáre super cælos, Deus, et in", "text": "**Ps 107:6 done:** copied, with its Latin's comma after *Deus* (the asterisk falls after *glória tua*)."}
+  ]
+}
