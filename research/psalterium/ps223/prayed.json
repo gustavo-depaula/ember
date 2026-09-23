@@ -1,0 +1,1120 @@
+{
+  "psalm": 223,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "2:1": "O meu coração exultou no Senhor, * e foi exaltado o meu {cornu} no meu Deus.",
+    "2:2": "{dilatatum} a minha boca {super} os meus inimigos: * porque me alegrei na vossa salvação.",
+    "2:3": "{nonest} como é o Senhor: pois não há outro fora de vós, * e não há forte como o nosso Deus.",
+    "2:4": "Não multipliqueis {sublimia}, * {gloriantes}:",
+    "2:5": "Afastem-se da vossa boca {vetera}: porque o Senhor é {scientiarum}, * e {ipsi} são preparados os pensamentos.",
+    "2:6": "O arco dos fortes foi {superatus}, * e os fracos foram cingidos de {robore}.",
+    "2:7": "Os que antes estavam fartos {locaverunt} por pão: * e os famintos foram saciados.",
+    "2:8": "Até que a estéril deu à luz {plurimos}: * e a que tinha muitos filhos enfraqueceu.",
+    "2:9": "O Senhor {vivificat}, * {deducit} {inferos} e {reducit}.",
+    "2:10": "O Senhor {facit}, * humilha e {sublevat}.",
+    "2:11": "Levanta do pó o necessitado, * e do esterco eleva o pobre:",
+    "2:12": "Para que se sente com os príncipes, * e {teneat} um trono de glória.",
+    "2:13": "Porque do Senhor são {cardines} da terra, * e sobre eles pôs o mundo.",
+    "2:14": "Guardará os pés dos seus santos, e os ímpios {conticescent} nas trevas: * {roborabitur}.",
+    "2:15": "{formidabunt}: * e sobre eles trovejará nos céus:",
+    "2:16": "O Senhor julgará os confins da terra, e dará o {imperium} ao seu rei, * e {sublimabit} o {cornu} do seu {christi}."
+  },
+  "decisions": [
+    {
+      "id": "cornu",
+      "refs": [
+        "2:1",
+        "2:16"
+      ],
+      "latin": "cornu meum … cornu Christi sui",
+      "kind": "glossary",
+      "why": "The canticle opens and closes on the horn: *exaltátum est cornu meum* (2:1) and *sublimábit cornu Christi sui* (2:16), an inclusio the Latin builds with one noun. The glossary's *cornu → chifre* has been kept in every place of the psalter (17:3c, 74:5–11, 88:18, 88:25, 91:11, 111:9, 131:17, 148:14a; 88:25 *exaltábitur cornu ejus → será exaltado o seu chifre* is this very build). The blind readers there heard the cuckold's horn now and then; the row keeps the image unexplained, as the Latin does (rule 5). The Brazilian liturgy, praying from the Hebrew-family text, says *se eleva a minha fronte* and *exaltará o seu Ungido com poder* (circulation.md): it drops the image both times.",
+      "options": [
+        {
+          "label": "chifre",
+          "forms": {
+            "cornu": "chifre"
+          },
+          "note": "Draft; the glossary's word, both times, so the inclusio is heard.",
+          "from": "glossary"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "cornu": "força"
+          },
+          "note": "MS1932 at 2:1 (*a minha força foi exaltada*); it explains the image and takes *fortitúdo*'s word (2:14 in this canticle).",
+          "from": "MS1932"
+        },
+        {
+          "label": "fronte",
+          "forms": {
+            "cornu": "fronte"
+          },
+          "note": "The CNBB LH / Lectionary at 2:1. Another image; refused.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "dilatatum",
+      "refs": [
+        "2:2"
+      ],
+      "latin": "Dilatátum est os meum super inimícos meos",
+      "kind": "word",
+      "why": "The idiom is a mouth opened wide over the enemies: triumph, the boldness of one who may now answer (MS1932's gloss *para responder*). The dilatáre row has three renderings by context: *dilatar* for the heart (118:32), *abre bem a tua boca* (80:11, the living idiom), *escancararam contra mim a sua boca* (34:21, the mockers' gape). Here the speaker is the rejoicing mother; *escancarar* is coarse in her mouth, *dilatou-se a minha boca* (MS1932) is heard as medical. *Abriu-se bem* is 80:11's idiom in the passive's middle voice. *super*: see decision `super`. v2: the Latinist (minor) and the stylist both named *Abriu-se bem* a paraphrase with a filler *bem* (the stylist: 'a dentist's instruction'), and the ambiguity reader heard *bem* also as 'rightly'. Both asked *Dilatou-se*, MS1932's cognate and 118:32's verb (*dilatastes o meu coração*); the medical colour feared in v1 was heard by no reader. Taken.",
+      "options": [
+        {
+          "label": "Dilatou-se",
+          "forms": {
+            "dilatatum": "Dilatou-se"
+          },
+          "note": "v2; the Latinist and the stylist; MS1932; the cognate, as 118:32.",
+          "from": "latinist"
+        },
+        {
+          "label": "Abriu-se bem",
+          "forms": {
+            "dilatatum": "Abriu-se bem"
+          },
+          "note": "v1; the 80:11 idiom. *bem* heard as a filler (stylist) and as \"rightly\" (ambiguity reader).",
+          "from": "draft"
+        },
+        {
+          "label": "Escancarou-se",
+          "forms": {
+            "dilatatum": "Escancarou-se"
+          },
+          "note": "= 34:21's word for the same Latin; the mockers' gape.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "2:2"
+      ],
+      "latin": "super inimícos meos",
+      "kind": "word",
+      "why": "v1 and v2 had *contra*, from 34:21 (*escancararam contra mim a sua boca*, the mockers). The gate Latinist (minor) found that it narrows *super* to hostility, where here it is the mouth opened wide in triumph *over* the enemies. He is right: this is the mother's triumph, not a mocker's attack, and the psalter keeps *sobre* with a mouth (21:14 *Abriram sobre mim a sua boca*) and with the enemies (58:12 *sobre os meus inimigos*). After *Dilatou-se a minha boca*, *sobre* is not heard as 'about'. Taken after the gate: one word, toward the Latin, as the gate asked.",
+      "options": [
+        {
+          "label": "sobre",
+          "forms": {
+            "super": "sobre"
+          },
+          "note": "The gate Latinist; 21:14, 58:12.",
+          "from": "latinist"
+        },
+        {
+          "label": "contra",
+          "forms": {
+            "super": "contra"
+          },
+          "note": "v1–v2; = 34:21. Narrows to hostility.",
+          "from": "draft"
+        },
+        {
+          "label": "acima de",
+          "forms": {
+            "super": "acima dos"
+          },
+          "note": "26:6's *acima dos meus inimigos* (a head raised); heavy with a mouth.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "nonest",
+      "refs": [
+        "2:3"
+      ],
+      "latin": "Non est sanctus, ut est Dóminus … et non est fortis sicut Deus noster",
+      "kind": "order",
+      "why": "Three *non est* in one verse; the Latin's anaphora is kept (*Não há … não há outro … não há forte*). *ut est Dóminus* keeps its verb: *como é o Senhor*. *fortis* is a noun here, as *sanctus* is: *não há forte* matches *não há santo*. MS1932 turns both into *não há quem seja*; the CNBB LH has *Não há santo como é santo o nosso Deus, ninguém é forte à semelhança do Senhor*. The address turns to God in the middle (*extra te*) and back (*Deus noster*); kept, as the Latin has it.",
+      "options": [
+        {
+          "label": "Não há santo",
+          "forms": {
+            "nonest": "Não há santo"
+          },
+          "note": "Draft; the anaphora kept.",
+          "from": "draft"
+        },
+        {
+          "label": "Ninguém é santo",
+          "forms": {
+            "nonest": "Ninguém é santo"
+          },
+          "note": "More natural alone, but breaks the three *não há*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sublimia",
+      "refs": [
+        "2:4"
+      ],
+      "latin": "Nolíte multiplicáre loqui sublímia",
+      "kind": "grammar",
+      "why": "*multiplicáre loqui sublímia* is 'multiply to speak lofty things' (DRB word for word). Portuguese cannot give *multiplicar* an infinitive; MS1932 makes the infinitive and its object one noun (*multiplicar palavras altivas*), which is grammar under D2. *sublímia* in this context, beside *gloriántes*, is haughty talk (L&S: 'high, lofty', and of speech 'haughty'); *altivas* keeps the height inside the word, where *sublimes* is praise in Portuguese and *orgulhosas* (CNBB) drops the height.",
+      "options": [
+        {
+          "label": "palavras altivas",
+          "forms": {
+            "sublimia": "palavras altivas"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o falar de coisas altivas",
+          "forms": {
+            "sublimia": "o falar de coisas altivas"
+          },
+          "note": "The Latinist (minor): keeps *loqui* as a verb. Heavy.",
+          "from": "latinist"
+        },
+        {
+          "label": "palavras orgulhosas",
+          "forms": {
+            "sublimia": "palavras orgulhosas"
+          },
+          "note": "The CNBB LH's word; it explains and drops the height.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gloriantes",
+      "refs": [
+        "2:4"
+      ],
+      "latin": "gloriántes",
+      "kind": "grammar",
+      "why": "The participle stands alone after the mark. *gloriári → gloriar-se* (the row: 5:12b, 48:7, 96:7 of boasting). *gloriando-vos* is the participle's shape but stresses the third syllable from the end at the final cadence; *vós que vos gloriais* names the subject and ends on a stressed syllable, and is grammar only (D2). MS1932 *vangloriando-vos* adds 'vain'.",
+      "options": [
+        {
+          "label": "vós que vos gloriais",
+          "forms": {
+            "gloriantes": "vós que vos gloriais"
+          },
+          "note": "Draft; relative for participle, stress at the end.",
+          "from": "draft"
+        },
+        {
+          "label": "gloriando-vos",
+          "forms": {
+            "gloriantes": "gloriando-vos"
+          },
+          "note": "The participle's form; the cadence falls on the antepenult.",
+          "from": "draft"
+        },
+        {
+          "label": "vangloriando-vos",
+          "forms": {
+            "gloriantes": "vangloriando-vos"
+          },
+          "note": "MS1932; adds 'vain'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "vetera",
+      "refs": [
+        "2:5"
+      ],
+      "latin": "Recédant vétera de ore vestro",
+      "kind": "word",
+      "why": "*vétera*, 'old things' (DRB 'old matters'): the stale boasts. *antíquus → antigo* is taken in the psalter (43:2b, 76:6, 142:5) for a word that honours the past; *velho* is *vetus*'s own sense, and keeps the two apart. MS1932 *a antiga linguagem* explains. *recédere* 'withdraw' → *afastar-se*; the jussive subjunctive, as the Latin.",
+      "options": [
+        {
+          "label": "as coisas velhas",
+          "forms": {
+            "vetera": "as coisas velhas"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "as coisas antigas",
+          "forms": {
+            "vetera": "as coisas antigas"
+          },
+          "note": "*antíquus*'s word in the psalter.",
+          "from": "draft"
+        },
+        {
+          "label": "a antiga linguagem",
+          "forms": {
+            "vetera": "a antiga linguagem"
+          },
+          "note": "MS1932; explains.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "scientiarum",
+      "refs": [
+        "2:5"
+      ],
+      "latin": "Deus scientiárum, Dóminus est",
+      "kind": "glossary",
+      "why": "*sciéntia → o saber* (the row: 18:3, 72:11; *ciência* was heard as science). The Latin's plural (the Hebrew's too, דֵּעוֹת) says every kind of knowing; *saberes* is current Brazilian and keeps it. DRB 'a God of all knowledge' supplies *all*; MS1932 *o Deus das ciências*. The order is made natural: *o Senhor é o Deus …*.",
+      "options": [
+        {
+          "label": "o Deus dos saberes",
+          "forms": {
+            "scientiarum": "o Deus dos saberes"
+          },
+          "note": "Draft; the row's noun in the Latin's number.",
+          "from": "glossary"
+        },
+        {
+          "label": "o Deus do saber",
+          "forms": {
+            "scientiarum": "o Deus do saber"
+          },
+          "note": "The row's singular; the number lost.",
+          "from": "glossary"
+        },
+        {
+          "label": "o Deus de todo o saber",
+          "forms": {
+            "scientiarum": "o Deus de todo o saber"
+          },
+          "note": "DRB's 'all'; adds a word.",
+          "from": "DRB"
+        },
+        {
+          "label": "o Deus das ciências",
+          "forms": {
+            "scientiarum": "o Deus das ciências"
+          },
+          "note": "MS1932; heard as the sciences.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ipsi",
+      "refs": [
+        "2:5"
+      ],
+      "latin": "et ipsi præparántur cogitatiónes",
+      "kind": "ambiguity",
+      "why": "*ipsi* is a dative: 'to him are thoughts prepared' (DRB) — laid ready before him, or made ready by him; the Latin leaves it open, and so does *para ele*. *præparáre → preparar* and *cogitátio → pensamento* are the glossary's. MS1932 (*os seus desígnios são rectos*) paraphrases toward the Hebrew.",
+      "options": [
+        {
+          "label": "para ele",
+          "forms": {
+            "ipsi": "para ele"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "a ele",
+          "forms": {
+            "ipsi": "a ele"
+          },
+          "note": "The bare dative; stiffer.",
+          "from": "draft"
+        },
+        {
+          "label": "diante dele",
+          "forms": {
+            "ipsi": "diante dele"
+          },
+          "note": "Decides one reading.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "superatus",
+      "refs": [
+        "2:6"
+      ],
+      "latin": "Arcus fórtium superátus est",
+      "kind": "glossary",
+      "why": "Canticle 213 proposed *superáre → superar* (open) for *quem superáre nemo potest*, where 'overcome' and 'surpass' both stand. Here the bow of the strong is beaten, and *o arco … foi superado* is heard first as 'surpassed' or 'got over'. *vencido* is DRB's 'overcome'; it touches *víncere → vencer* (50:6), which is not in this canticle. A local departure from an open row, recorded for the row.",
+      "options": [
+        {
+          "label": "vencido",
+          "forms": {
+            "superatus": "vencido"
+          },
+          "note": "Draft; DRB 'overcome'.",
+          "from": "DRB"
+        },
+        {
+          "label": "superado",
+          "forms": {
+            "superatus": "superado"
+          },
+          "note": "Canticle 213's row; heard as 'surpassed'.",
+          "from": "glossary"
+        },
+        {
+          "label": "quebrado",
+          "forms": {
+            "superatus": "quebrado"
+          },
+          "note": "MS1932; the Hebrew's image, not the Latin's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "robore",
+      "refs": [
+        "2:6"
+      ],
+      "latin": "infírmi accíncti sunt róbore",
+      "kind": "word",
+      "why": "*róbur* (the oak's hardness, strength) is not a psalter word. *força* is *fortitúdo*'s (2:14 in this canticle), *poder* is *virtus*'s; *vigor* is free for it and is the CNBB's word in the same line. *accíngere → cingir* (64:7 *cingido de potência*, 64:13). *infírmi* against *fórtium* → *os fracos* (the infírmus row notes the family's sense of weakness; *enfermos* would be heard as the sick).",
+      "options": [
+        {
+          "label": "vigor",
+          "forms": {
+            "robore": "vigor"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "robustez",
+          "forms": {
+            "robore": "robustez"
+          },
+          "note": "The cognate family; heavier.",
+          "from": "draft"
+        },
+        {
+          "label": "força",
+          "forms": {
+            "robore": "força"
+          },
+          "note": "MS1932; merges with *fortitúdo* (2:14).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "locaverunt",
+      "refs": [
+        "2:7"
+      ],
+      "latin": "pro pánibus se locavérunt",
+      "kind": "word",
+      "why": "*se locáre* is 'to hire oneself out' (DRB 'have hired out themselves for bread'). *alugar-se* is the literal verb but is heard in Brazil of renting property; *assalariar-se* (MS1932) is bookish; *empregar-se* is the plain verb for taking work, and the CNBB's in the same line. *panes → pão*, the idiom (D42).",
+      "options": [
+        {
+          "label": "se empregaram",
+          "forms": {
+            "locaverunt": "se empregaram"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "se alugaram",
+          "forms": {
+            "locaverunt": "se alugaram"
+          },
+          "note": "Literal; heard as renting.",
+          "from": "draft"
+        },
+        {
+          "label": "se assalariaram",
+          "forms": {
+            "locaverunt": "se assalariaram"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "plurimos",
+      "refs": [
+        "2:8"
+      ],
+      "latin": "Donec stérilis péperit plúrimos",
+      "kind": "word",
+      "why": "*plúrimos* is a superlative beside *multos* in the next colon; in this Latin the superlative is mostly elative, 'very many'. *donec* 'until' kept as *até que* (MS1932 *até*; DRB 'so that'). *párere → dar à luz* (the row). Draft 1 first had *numerosos filhos*, which ran five syllables over the Latin colon (checks); *a muitos* keeps the colon's length and the cadence, at the cost of the step from *plúrimos* to *multos*.",
+      "options": [
+        {
+          "label": "a muitos",
+          "forms": {
+            "plurimos": "a muitos"
+          },
+          "note": "Draft; the length of the Latin colon. MS1932 *teve muitos filhos*.",
+          "from": "draft"
+        },
+        {
+          "label": "muitíssimos",
+          "forms": {
+            "plurimos": "muitíssimos"
+          },
+          "note": "The superlative kept; a proparoxytone at the mediant, heavy.",
+          "from": "draft"
+        },
+        {
+          "label": "numerosos filhos",
+          "forms": {
+            "plurimos": "numerosos filhos"
+          },
+          "note": "A step above *muitos*; +5 syllables.",
+          "from": "checks"
+        }
+      ]
+    },
+    {
+      "id": "vivificat",
+      "refs": [
+        "2:9"
+      ],
+      "latin": "Dóminus mortíficat et vivíficat",
+      "kind": "glossary",
+      "why": "*mortificáre → dar a morte* (the row: 36:32; the cognate is ascetic). *vivificáre → vivificar* is the open row, with *dar a vida* (MS1932) as its option. The Latin builds a pair of twin verbs; *dá a morte e vivifica* breaks it, and *vivifica* was unknown to blind readers in Pss 40 and 118. *dá a morte e dá a vida* keeps the pair, and is the Brazilian Lectionary's line (circulation.md). A local use of the row's option, recorded for the row.",
+      "options": [
+        {
+          "label": "dá a morte e dá a vida",
+          "forms": {
+            "vivificat": "dá a morte e dá a vida"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "dá a morte e vivifica",
+          "forms": {
+            "vivificat": "dá a morte e vivifica"
+          },
+          "note": "Both rows as they stand.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "deducit",
+      "refs": [
+        "2:9"
+      ],
+      "latin": "dedúcit ad ínferos et redúcit",
+      "kind": "glossary",
+      "why": "v1 copied canticle 212 (*conduzis aos infernos, e trazeis de volta*) so that the two would move together. The Latinist (minor) found that *conduz* loses the downward motion of *de-dúcere* that pairs with *re-dúcere*. He is right, and the psalter already says so: the *dedúcere* row (D22, with the *dedúcere* row's note (D25)'s note) keeps *guiar* for guidance and makes *dedúcere* of a descent *fazer descer* (7:6, 21:16, 54:24 *os fareis descer ao poço*). 212's *conduzis* predates no rule; it simply did not meet the *dedúcere* row's note (D25). So 223 now differs from 212 in the verb only, and the *ad ínferos* row (for Gustavo) should rule both, *fazer descer* included. The stylist asked *conduz … e reconduz* for the paired prefix: kept as option; *reconduzir* is heard as re-electing an official.",
+      "options": [
+        {
+          "label": "faz descer … e traz de volta",
+          "forms": {
+            "deducit": "faz descer",
+            "reducit": "traz de volta"
+          },
+          "note": "v2; the Latinist; the *dedúcere* row's note (D25) (DM1962 and the Brazilian liturgy also *faz descer*).",
+          "from": "latinist"
+        },
+        {
+          "label": "conduz … e traz de volta",
+          "forms": {
+            "deducit": "conduz",
+            "reducit": "traz de volta"
+          },
+          "note": "v1; = canticle 212.",
+          "from": "draft"
+        },
+        {
+          "label": "conduz … e reconduz",
+          "forms": {
+            "deducit": "conduz",
+            "reducit": "reconduz"
+          },
+          "note": "The stylist: the paired prefix. *reconduzir* is heard of officials.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "inferos",
+      "refs": [
+        "2:9"
+      ],
+      "latin": "dedúcit ad ínferos et redúcit",
+      "kind": "glossary",
+      "why": "The same phrase as canticle 212 (Tob 13:2 *dedúcis ad ínferos, et redúcis → conduzis aos infernos, e trazeis de volta*); the open glossary row *ad ínferos* names this verse and is for Gustavo. Copied word for word in the third person, so that the two canticles move together whatever he rules. Against it: the Brazilian liturgy says *faz descer à sepultura e faz voltar* here (LH and Lectionary, from the Hebrew), MS1932 *leva à habitação dos mortos*, the Diurnal *faz descer à morada dos mortos*, DRB 'to hell'.",
+      "options": [
+        {
+          "label": "aos infernos",
+          "forms": {
+            "inferos": "aos infernos"
+          },
+          "note": "Draft; = canticle 212.",
+          "from": "glossary"
+        },
+        {
+          "label": "à morada dos mortos",
+          "forms": {
+            "inferos": "à morada dos mortos"
+          },
+          "note": "The row's alternative; the DM1962 wording.",
+          "from": "DM1962"
+        },
+        {
+          "label": "ao inferno",
+          "forms": {
+            "inferos": "ao inferno"
+          },
+          "note": "The psalter's singular; loses the Latin's plural.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "facit",
+      "refs": [
+        "2:10"
+      ],
+      "latin": "Dóminus páuperem facit et ditat",
+      "kind": "grammar",
+      "why": "*páuperem facit* 'makes poor', against *ditat* 'enriches'. *faz o pobre* would be heard as 'makes the poor man'; *empobrece* is the one verb Portuguese has for it and pairs with *enriquece*, as the Latin pairs *humíliat et súblevat* (MS1932 the same).",
+      "options": [
+        {
+          "label": "empobrece e enriquece",
+          "forms": {
+            "facit": "empobrece e enriquece"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "torna pobre e enriquece",
+          "forms": {
+            "facit": "torna pobre e enriquece"
+          },
+          "note": "Keeps *facit* as a verb with its predicate.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sublevat",
+      "refs": [
+        "2:10"
+      ],
+      "latin": "humíliat et súblevat",
+      "kind": "word",
+      "why": "The canticle has four verbs of raising: *exaltáre* (2:1), *sublevare* (2:10), *suscitáre*, *eleváre* (2:11), *sublimáre* (2:16). The glossary gives *suscitáre → levantar* (112:7), *eleváre → elevar*, *exaltáre → exaltar*; *erguer* is free inside this canticle (112:7 uses it for *érigens*, another psalm). MS1932 and the CNBB have *exalta*, which would merge with 2:1.",
+      "options": [
+        {
+          "label": "ergue",
+          "forms": {
+            "sublevat": "ergue"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "exalta",
+          "forms": {
+            "sublevat": "exalta"
+          },
+          "note": "MS1932, CNBB; *exaltáre*'s word.",
+          "from": "MS1932"
+        },
+        {
+          "label": "soergue",
+          "forms": {
+            "sublevat": "soergue"
+          },
+          "note": "The exact compound; literary.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "teneat",
+      "refs": [
+        "2:12"
+      ],
+      "latin": "et sólium glóriæ téneat",
+      "kind": "glossary",
+      "why": "The *tenére* row is *tomar* (72:6, 72:24), built on seizing and grasping. *tome um trono* is heard as usurping power. The poor man is given a seat and holds it: *ocupe* (MS1932). *sólium → trono* (as *sedes*, the row); no article, as the Latin (DRB 'the throne').",
+      "options": [
+        {
+          "label": "ocupe",
+          "forms": {
+            "teneat": "ocupe"
+          },
+          "note": "Draft; MS1932.",
+          "from": "MS1932"
+        },
+        {
+          "label": "tome",
+          "forms": {
+            "teneat": "tome"
+          },
+          "note": "The row's verb; heard as seizing.",
+          "from": "glossary"
+        },
+        {
+          "label": "tenha",
+          "forms": {
+            "teneat": "tenha"
+          },
+          "note": "Literal; weak.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "cardines",
+      "refs": [
+        "2:13"
+      ],
+      "latin": "Dómini enim sunt cárdines terræ",
+      "kind": "word",
+      "why": "*cardo*: a door's hinge, then the pivot on which the sky turns, the pole (L&S cites the astronomers). DRB 'the poles of the earth', MS1932 *os polos da terra*; the Hebrew-family CNBB and DM1962 have *colunas*. *polos* is concrete and both Vulgate witnesses have it; *gonzos* keeps the first image but few know it. v2: the stylist and the ambiguity reader both heard *polos* as the North and South Poles, a geography lesson. The stylist asked *eixos*: the pivot, which is *cardo*'s own second sense (L&S), and a thing a world can be set upon. Taken; *polos* (DRB, MS1932) stays option 2.",
+      "options": [
+        {
+          "label": "os eixos",
+          "forms": {
+            "cardines": "os eixos"
+          },
+          "note": "v2; the stylist; the pivot.",
+          "from": "stylist"
+        },
+        {
+          "label": "os polos",
+          "forms": {
+            "cardines": "os polos"
+          },
+          "note": "v1; DRB, MS1932. Heard as the geographic poles by two readers.",
+          "from": "MS1932"
+        },
+        {
+          "label": "os gonzos",
+          "forms": {
+            "cardines": "os gonzos"
+          },
+          "note": "The hinge; little known.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "conticescent",
+      "refs": [
+        "2:14"
+      ],
+      "latin": "ímpii in ténebris conticéscent",
+      "kind": "word",
+      "why": "*conticéscere*, 'fall silent' (inchoative of *tacére*). *tacére → calar-se* (the row), *obmutéscere → emudecer* (D39), *silére → ficar em silêncio*. *se calarão* is the root it grows from. MS1932 *ficarão mudos*.",
+      "options": [
+        {
+          "label": "se calarão",
+          "forms": {
+            "conticescent": "se calarão"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "emudecerão",
+          "forms": {
+            "conticescent": "emudecerão"
+          },
+          "note": "*obmutéscere*'s word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "roborabitur",
+      "refs": [
+        "2:14"
+      ],
+      "latin": "quia non in fortitúdine sua roborábitur vir",
+      "kind": "order",
+      "why": "The negation falls on the phrase, not the verb: 'not by his own strength shall a man be strong'. Portuguese marks that with a cleft (*não é … que*), grammar under D2. *fortitúdo → força* (the row), *roboráre* → *fortalecer-se* (with *corroboráre → fortalecer*, 102:11), *vir → homem*. v2: the stylist found the cleft prosaic and too long for the breath, and asked the plain order *porque o homem não se fortalecerá pela sua força*. Every word is kept; in Portuguese the negation before the verb still falls on *pela sua força* when it closes the line. Order only (D2); taken. The cleft stays as option.",
+      "options": [
+        {
+          "label": "porque o homem não se fortalecerá pela sua força",
+          "forms": {
+            "roborabitur": "porque o homem não se fortalecerá pela sua força"
+          },
+          "note": "v2; the stylist; the plain order.",
+          "from": "stylist"
+        },
+        {
+          "label": "porque não é pela sua força que o homem se fortalecerá",
+          "forms": {
+            "roborabitur": "porque não é pela sua força que o homem se fortalecerá"
+          },
+          "note": "v1; the cleft puts the negation on the phrase, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "porque não pela sua força se fortalecerá o homem",
+          "forms": {
+            "roborabitur": "porque não pela sua força se fortalecerá o homem"
+          },
+          "note": "The Latin's order; stiff.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "formidabunt",
+      "refs": [
+        "2:15"
+      ],
+      "latin": "Dóminum formidábunt adversárii ejus",
+      "kind": "order",
+      "why": "*formidáre → ter pavor de* (the row: 118:161, 103:7 *formidábunt → terão pavor*). The Latin fronts *Dóminum*; the Portuguese keeps him first so that *os seus adversários* is heard as his.",
+      "options": [
+        {
+          "label": "Do Senhor terão pavor os seus adversários",
+          "forms": {
+            "formidabunt": "Do Senhor terão pavor os seus adversários"
+          },
+          "note": "Draft; the Latin's order.",
+          "from": "draft"
+        },
+        {
+          "label": "Os adversários do Senhor terão pavor dele",
+          "forms": {
+            "formidabunt": "Os adversários do Senhor terão pavor dele"
+          },
+          "note": "Plain order; the pronoun moves.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "imperium",
+      "refs": [
+        "2:16"
+      ],
+      "latin": "et dabit impérium regi suo",
+      "kind": "glossary",
+      "why": "The *impérium → domínio* row (85:16; canticles 211 and 215, which the row names together with this verse). *império* (DRB 'empire', MS1932) was refused there as heard 'empire'.",
+      "options": [
+        {
+          "label": "domínio",
+          "forms": {
+            "imperium": "domínio"
+          },
+          "note": "Draft; the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "império",
+          "forms": {
+            "imperium": "império"
+          },
+          "note": "MS1932, DRB.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "sublimabit",
+      "refs": [
+        "2:16"
+      ],
+      "latin": "et sublimábit cornu Christi sui",
+      "kind": "word",
+      "why": "*sublimáre* 'raise on high' (L&S cites this verse). The Latin closes on a verb other than 2:1's *exaltáre*; *exaltará* (MS1932, CNBB) would merge them, *elevará* is *eleváre*'s (2:11), *erguerá* is 2:10's. *alçar* is plain and says height; *sublimar* is chemistry or psychology.",
+      "options": [
+        {
+          "label": "alçará",
+          "forms": {
+            "sublimabit": "alçará"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "exaltará",
+          "forms": {
+            "sublimabit": "exaltará"
+          },
+          "note": "MS1932, CNBB; merges with 2:1.",
+          "from": "MS1932"
+        },
+        {
+          "label": "elevará ao alto",
+          "forms": {
+            "sublimabit": "elevará ao alto"
+          },
+          "note": "Merges with *eleváre* (2:11).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "christi",
+      "refs": [
+        "2:16"
+      ],
+      "latin": "Christi sui",
+      "kind": "glossary",
+      "why": "D19 (settled): *Christus* (singular) → *Cristo* — the Latin borrows the Greek word and a Latin ear hears 'Christ'; kept at 2:2, 17:51, 19:7, 27:8, 83:10, 88:52, 131:10, 131:17. MS1932 *do seu Cristo* in this very verse, DRB 'his Christ'. The Brazilian LH and Lectionary say *o seu Ungido* (from the Hebrew-family text), as does DO's Portuguese, which is no authority (D12); the Diurnal *do seu Ungido*. No finished psalm uses *Ungido*.",
+      "options": [
+        {
+          "label": "Cristo",
+          "forms": {
+            "christi": "Cristo"
+          },
+          "note": "Draft; D19, MS1932.",
+          "from": "glossary"
+        },
+        {
+          "label": "Ungido",
+          "forms": {
+            "christi": "Ungido"
+          },
+          "note": "The CNBB LH, DM1962; would depart from D19.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "2:1": "Heading *(Canticum Annæ * 3 Reg 2:1-16)* not translated (D7, as 211, 213, 233). *exsultáre / exaltáre → exultar / exaltar* (the row); 12:6b *O meu coração exultará* is the same subject-first build. *in Dómino … in Deo meo* kept as two phrases.",
+    "2:2": "*lætáta sum* is feminine (Anna); Portuguese *me alegrei* has no gender, nothing lost. *in salutári tuo → na vossa salvação* (D6; 9:16a). The sudden *tuo* (to God) is the Latin's.",
+    "2:3": "*extra te → fora de vós* (MS1932 *fora de ti*). No † in DO, so the first colon carries two clauses.",
+    "2:7": "*repléti* → *fartos*: those full of bread (the repléri row gives *estar farto* where the fullness is the point, 122:3). *famélici → famintos* (as *esuriéntes*, 106:5; the two never meet here). *saturáre → saciar*, passive as the row.",
+    "2:8": "*infirmári → enfraquecer* (the row: 9:4, 106:12).",
+    "2:11": "*suscitáre → levantar*, *stercus → esterco*, *pauper → pobre* (112:7's build), *egénus → necessitado* (34:10b, 40:2, 69:6, 81:3–4, 108:22). No subject named: the Lord of 2:10 goes on.",
+    "2:13": "*orbis → o mundo* (D30). *pónere super → pôr sobre*.",
+    "2:14": "*serváre* of feet (a person kept safe) → *guardar*; the row's *observar* is for a law. MS1932 *guardará os pés*.",
+    "2:15": "*tonáre → trovejar* (17:14, 28:3 *intonáre → trovejar*). *in cælis → nos céus*."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm223.txt. DO's heading says '3 Reg 2:1-16'; the text is 1 Samuel (Vulgate 1 Kings) 2:1–10, and DO's ids 2:1–2:16 are its own line numbers (map in consult/parallels/ps223.md). Collated by me against the Bolls Clementine (VULG 9/2): no difference of wording; DO splits vv. 1, 3, 5, 8 and 10 into lines. The Diurnal Monastico prints † in DO's 2:3 and 2:5 where DO has none; DO's marks are followed."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py 223 gives only the Latin and DO's Portuguese for a canticle, so ps223/show_parallels.py builds consult/parallels/ps223.md from Bolls VULG, DRB and WLC (1 Sam 2), the Rahlfs LXX csv, MS1932 (pdftotext of printed pp. 107–108 of vol. 1, 'I Reis'), and the Diurnal Monastico 1962 (Wednesday Lauds). Shared scripts not edited. Glossary words applied: chifre, exultar/exaltar, salvação, sciéntia → saber, preparar, pensamento, cingir, saciar, dar à luz, enfraquecer, dar a morte, conduzir aos infernos + trazer de volta (= canticle 212), humilhar, levantar, esterco, necessitado, pobre, trono, mundo, ímpio, força, fortalecer, ter pavor de, trovejar, confins da terra, domínio, Cristo (D19). The brief given to me mentioned 'o seu Ungido' as precedent for *Christus*; I found none in the finished psalms or the glossary (D19 is settled for *Cristo*; *Ungido* appears only in the CNBB LH, DM1962 and DO's Portuguese), so D19 is followed and *Ungido* is an option."
+    },
+    {
+      "step": "circulation",
+      "note": "Brazilian use fetched and recorded in ps223/circulation.md: the CNBB LH (Wednesday Lauds, Week II) and the Lectionary (22 December; Tuesday of Week 1 in Ordinary Time, even years) share one metrical text from the Hebrew-family original. Taken where it is also faithful to the Latin: vigor, se empregaram por pão, dá a morte e dá a vida."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass. Soft flags accepted: 2:4a −3 (the Latin's *multiplicáre loqui* made one noun phrase, grammar); 2:14b +3 (the cleft *não é … que* that places the negation on *pela sua força*, as the Latin does). 2:8a was +5 with *numerosos filhos*; changed to *a muitos* (decision `plurimos`), which the heuristic still counts +3 (the elisions *que‿a*, *luz‿a* bring it to about +1 when said). Every cadence on the last or second-last syllable except 2:12a *príncipes*, a proparoxytone at the mediant, as the Latin's *princípibus*; accepted (the word is fixed, 112:8)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "Reader: claude-opus-5-5, fresh context, with latin.json. Four minor remarks, no major; judged a faithful, close rendering with the Septuagintal features kept and the pointing correct in every verse.",
+      "outcomes": [
+        {
+          "verse": "2:2",
+          "remark": "abriu-se bem paraphrases dilatatum with an added intensifier; asks Dilatou-se",
+          "outcome": "taken",
+          "decision": "dilatatum",
+          "reason": "The stylist asked the same; MS1932, 118:32."
+        },
+        {
+          "verse": "2:4",
+          "remark": "loqui nominalized into palavras; asks o falar de coisas altivas",
+          "outcome": "option",
+          "decision": "sublimia",
+          "reason": "*multiplicar* takes no infinitive in Portuguese; making verb and object one noun is grammar (D2), MS1932's. His wording replaces option 2."
+        },
+        {
+          "verse": "2:7",
+          "remark": "panibus plural; asks por pães",
+          "outcome": "refused",
+          "reason": "D42: *panes → pão*, the idiom (settled). The plural is heard as loaves counted."
+        },
+        {
+          "verse": "2:9",
+          "remark": "conduz loses the downward motion of deducit; asks faz descer",
+          "outcome": "taken",
+          "decision": "deducit",
+          "reason": "the *dedúcere* row's note (D25) (*dedúcere* of a descent → *fazer descer*, 7:6, 21:16, 54:24). It parts 223 from 212's *conduzis*; flagged for the *ad ínferos* row."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "Reader: claude-opus-5-5, fresh context, with latin.json. 8 remarks: 3 taken, 5 refused or kept as options. Worst line 2:7, best 2:10.",
+      "outcomes": [
+        {
+          "verse": "2:1",
+          "remark": "inverted passive reads as translation; asks e o meu chifre foi exaltado no meu Deus",
+          "outcome": "refused",
+          "reason": "The Latin's order, and the psalter's for this very phrase: 74:11, 88:18, 88:25, 91:11 all *será exaltado o … chifre*. The verb next to *exultou* also keeps the echo at the colon's head."
+        },
+        {
+          "verse": "2:2",
+          "remark": "bem a filler; asks Dilatou-se",
+          "outcome": "taken",
+          "decision": "dilatatum",
+          "reason": "With the Latinist."
+        },
+        {
+          "verse": "2:5",
+          "remark": "saberes academic; asks o Deus dos conhecimentos",
+          "outcome": "refused",
+          "reason": "*sciéntia → o saber* is the glossary's row (18:3, 72:11); *conhecimento* would be a new word for it, and no plainer. *o Deus do saber* stays option 2 if the plural should go."
+        },
+        {
+          "verse": "2:7",
+          "remark": "se empregaram sounds like a job search; asks alugaram-se, eram fartos",
+          "outcome": "option",
+          "decision": "locaverunt",
+          "reason": "*alugar-se* is the literal verb but in Brazil is heard of renting property; the ambiguity reader heard *se empregaram* as intended, 'hired themselves out for bread'. *se alugaram* stays option 2. *estavam fartos* kept: the state before the fall."
+        },
+        {
+          "verse": "2:9",
+          "remark": "traz de volta colloquial; asks conduz aos infernos e reconduz",
+          "outcome": "option",
+          "decision": "deducit",
+          "reason": "The Latinist's *faz descer* took the verb; *reconduzir* is heard of officials. Option 3."
+        },
+        {
+          "verse": "2:12",
+          "remark": "ocupe administrative; asks tenha",
+          "outcome": "refused",
+          "reason": "*tenha um trono* is weak and possessive; *ocupar um trono* is the ordinary Portuguese for a king in his seat (MS1932). *tenha* stays option 3."
+        },
+        {
+          "verse": "2:13",
+          "remark": "polos heard as the geographic poles; asks os eixos",
+          "outcome": "taken",
+          "decision": "cardines",
+          "reason": "The ambiguity reader heard the same; *eixos* is the pivot, cardo's own sense."
+        },
+        {
+          "verse": "2:14",
+          "remark": "the cleft is long and prosaic; asks porque o homem não se fortalecerá pela sua força",
+          "outcome": "taken",
+          "decision": "roborabitur",
+          "reason": "Order only (D2); every word kept."
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "Reader: claude-opus-5-5, fresh context. 24 readings, most heard as intended. Unknown words: chifre (as a metaphor), altivas, cingidos, alçará.",
+      "outcomes": [
+        {
+          "verse": "2:1, 2:16",
+          "remark": "chifre heard as a literal horn",
+          "outcome": "refused",
+          "reason": "*cornu → chifre* is the glossary's row across the psalter (74:11, 88:18, 91:11, 111:9); *força* and *fronte* stay options in `cornu`."
+        },
+        {
+          "verse": "2:2",
+          "remark": "Abriu-se bem heard also as 'opened rightly'",
+          "outcome": "taken",
+          "decision": "dilatatum",
+          "reason": "*Dilatou-se* (Latinist and stylist)."
+        },
+        {
+          "verse": "2:3",
+          "remark": "santo heard as the noun, 'no saint like the Lord'",
+          "outcome": "option",
+          "decision": "nonest",
+          "reason": "The reading is near the sense and the Latin's *sanctus* is as open; *Ninguém é santo* stays option 2."
+        },
+        {
+          "verse": "2:4, 2:5",
+          "remark": "vós shifts from God (2:2–2:3) to the proud",
+          "outcome": "refused",
+          "reason": "The Latin's shift of address (*tuo*, *te*, then *nolíte*); the reader resolved it himself."
+        },
+        {
+          "verse": "2:5",
+          "remark": "as coisas velhas vague; para ele são preparados os pensamentos unclear",
+          "outcome": "refused",
+          "reason": "Both as open in the Latin (*vétera*; *ipsi præparántur cogitatiónes*). Options stay in `vetera` and `ipsi`."
+        },
+        {
+          "verse": "2:8",
+          "remark": "Até que heard as temporal, confusing",
+          "outcome": "refused",
+          "reason": "The Latin's *donec* (DRB 'so that'); the climax it marks survives."
+        },
+        {
+          "verse": "2:9",
+          "remark": "infernos heard as the hell of the damned",
+          "outcome": "refused",
+          "decision": "inferos",
+          "reason": "Foreseen; the open *ad ínferos* row, with 212, for Gustavo. *traz de volta* in the line says it is a place one returns from."
+        },
+        {
+          "verse": "2:12",
+          "remark": "se sente also sentir-se",
+          "outcome": "refused",
+          "reason": "He heard *sits* from context; *com os príncipes* and *trono* fix it."
+        },
+        {
+          "verse": "2:13",
+          "remark": "polos heard as the geographic poles",
+          "outcome": "taken",
+          "decision": "cardines",
+          "reason": "*os eixos* (the stylist)."
+        },
+        {
+          "verse": "2:16",
+          "remark": "Cristo heard as Jesus Christ",
+          "outcome": "refused",
+          "decision": "christi",
+          "reason": "D19 (settled): *Christus → Cristo*; the Christian reading is the one the Church sings. *Ungido* stays option 2."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 2:2 *Dilatou-se* (Latinist and stylist); 2:9 *faz descer aos infernos* (the Latinist, the *dedúcere* row's note (D25); now differs from 212's *conduzis* in the verb — for the *ad ínferos* row); 2:13 *os eixos* (stylist and ambiguity reader); 2:14 *porque o homem não se fortalecerá pela sua força* (stylist, order). The draft is kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2. Reader: claude-opus-5-5, fresh context, with latin.json. Three minors, no majors; pointing correct in every verse. One taken (a single word), two held with reasons.",
+      "outcomes": [
+        {
+          "verse": "2:2",
+          "remark": "super is over (triumph); contra narrows it to hostility; asks sobre os meus inimigos",
+          "outcome": "taken",
+          "decision": "super",
+          "reason": "21:14 *sobre mim a sua boca*, 58:12 *sobre os meus inimigos*; the triumph is the sense."
+        },
+        {
+          "verse": "2:4",
+          "remark": "loqui sublímia compressed into palavras altivas; asks o falar de coisas altivas (again, as v1)",
+          "outcome": "option",
+          "decision": "sublimia",
+          "reason": "Portuguese *multiplicar* takes no infinitive; one noun for verb and object is grammar (D2), MS1932's. His wording is option 2. *altivas* for *sublímia* beside *gloriántes* is the haughty talk the context means (L&S)."
+        },
+        {
+          "verse": "2:7",
+          "remark": "pánibus plural; asks por pães (again, as v1)",
+          "outcome": "refused",
+          "reason": "D42 (settled): *panes → pão*, the idiom."
+        }
+      ]
+    }
+  ]
+}

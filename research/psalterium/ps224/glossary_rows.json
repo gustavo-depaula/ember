@@ -1,0 +1,40 @@
+{
+  "append": [
+    {"row": "| fortitúdo |", "text": "**Canticle 224 (Exod 15:2) copies Ps 117:14 word for word** (*O Senhor é a minha força e o meu louvor: * e se fez salvação para mim*); it is also the Thursday Lauds II antiphon. The circulating *O Senhor é minha força* (CNBB LH, Vigil) lacks the articles."},
+    {"row": "| magnificáre |", "text": "**Canticle 224 (Exod 15:1) *glorióse enim magnificátus est* → *pois gloriosamente se engrandeceu***; 15:6 *Déxtera tua … magnificáta est in fortitúdine* → *A vossa direita, Senhor, se engrandeceu em força* (one verb twice). The Vigil refrain *que fez brilhar a sua glória* is the option; the ambiguity reader heard triumph."},
+    {"row": "| déxtera |", "text": "**Canticle 224 (Exod 15:6)** *A vossa direita, Senhor* twice; the Brazilian Lectionary's *braço* is the Hebrew paraphrase's. The ambiguity reader noted 'side' as a possible hearing, but likely heard the hand."},
+    {"row": "| currus |", "text": "**Canticle 224 (Exod 15:4, 15:21) *Currus Pharaónis* → *Os carros de Faraó*; *cum cúrribus* → *com os seus carros*** — beside Pharaoh and his army the ambiguity reader heard chariots from context (as 67:18); *carros de guerra* option."},
+    {"row": "| omnípotens |", "text": "**Canticle 224 (Exod 15:4) *Omnípotens nomen ejus* → *Todo-Poderoso é o seu nome*** (capitalized as the name); the CNBB LH's *Onipotente* is the option. No reader remarked."},
+    {"row": "| spíritus (wind and breath at once) |", "text": "**Canticle 224 (Exod 15:7) *in spíritu furóris tui* → *ao sopro do vosso furor*** (the blast of God's anger; 17:16's build), while 15:11 *Flavit spíritus tuus* → *Soprou o vosso espírito* (147:7). The Latinist asked, as a minor, twice for *espírito* at 15:7 too, to keep one word; this was held and kept as an option."},
+    {"row": "| comprehéndere |", "text": "**Canticle 224 (Exod 15:9) *Pérsequar et comprehéndam* → *Perseguirei e prenderei*** — the third time after *pérsequi*."},
+    {"row": "| repléri (jussive, *repleátur*) |", "text": "**Canticle 224 (Exod 15:9) *implébitur ánima mea* (implére) → *a minha alma se fartará*** (v2): the ambiguity reader heard draft 1's *se encherá* as a spiritual filling, the reverse of the enemy's glut. So implére borrows this row's verb here."},
+    {"row": "| stare (on a road), *non stetit* |", "text": "**Canticle 224 (Exod 15:8) *Stetit unda fluens* → *Deteve-se a onda que corria*** (as 103:6's waters); the stylist named it the best line."},
+    {"row": "| operári (opus) |", "text": "**Canticle 224 (Exod 15:19) *habitáculo tuo quod operátus es* → *que fizestes*** (v2): the object is a dwelling, not *opus*. The stylist said *operastes* sounded like surgery or machinery, and the ambiguity reader heard 'operated'. *operastes* is kept as the option."},
+    {"row": "| habitáculum |", "text": "**Canticle 224 (Exod 15:14, 15:19) *ad habitáculum sanctum tuum* → *à vossa morada santa*; *firmíssimo habitáculo tuo* → *na vossa morada firmíssima***."},
+    {"row": "| profúndum (βυθός, the deep) |", "text": "**Canticle 224 (Exod 15:5) *descendérunt in profúndum quasi lapis* → *desceram à profundeza como uma pedra*** (beside *abýssi → os abismos* in the same colon)."},
+    {"row": "| formidáre (a) |", "text": "**Canticle 224 (Exod 15:17) the noun *formído et pavor* → *o terror e o pavor***: 54:5's *pavor* for formído yields to the Latin's own *pavor* beside it. The option is *o pavor e o espanto*."},
+    {"row": "| irrúere in |", "text": "**Canticle 224 (Exod 15:17) jussive *Írruat super eos* → *Lance-se sobre eles***."},
+    {"row": "| apprehéndere (a fear seizing) |", "text": "**Canticle 224 (Exod 15:15–16) *obtinére* (another verb) → *tomar*: *dores tomaram os habitantes*, *o tremor tomou os robustos de Moab*** — kept apart from this row's *apoderar-se* (MS1932's) though 15:16 nearly repeats 47:6; *se apoderar* is the option."},
+    {"row": "| depónere (people) |", "text": "**Canticle 224 (Exod 15:6) *deposuísti adversários tuos* → *abatestes os vossos adversários***."},
+    {"row": "| dux |", "text": "**Canticle 224 (Exod 15:13) *Dux fuísti in misericórdia tua pópulo* → *Na vossa misericórdia fostes o guia do povo*** (v2 order, from the stylist)."},
+    {"row": "| redúcere |", "text": "**Canticle 224 (Exod 15:21) *redúxit super eos Dóminus aquas maris* → *o Senhor fez voltar sobre eles as águas do mar*** (v2): the stylist said 212's *trazer de volta* sounded like errands with waters as the object. The causative form carries the return."},
+    {"row": "| stípula |", "text": "**Canticle 224 (Exod 15:7) *devorávit eos sicut stípulam* → *que os devorou como palha***."},
+    {"row": "| árida |", "text": "**Canticle 224 (Exod 15:22) *per siccum* → *pela terra seca*** (as 104:41 *in sicco*); *in médio ejus* → *no meio do mar* (v2, for audibility; the Latinist's pronoun is the option)."},
+    {"row": "| eléctus (substantive) |", "text": "**Canticle 224 (Exod 15:5) attributive *Elécti príncipes ejus* → *Os seus príncipes escolhidos*** (MS1932 *os melhores* option)."}
+  ],
+  "terms": [
+    "| dejícere (*in*) | derrubar (*derrubou no mar o cavalo e o cavaleiro*) | open | Canticle 224 (Exod 15:1); as 72:18 *derrubastes*, 73:6. Kept apart from *projícere → lançar* (30:23, 49:17; 15:4 *lançou-os ao mar*); 139:11 *in ignem deícies → ao fogo os lançareis* is the other use. *precipitou* (MS1932, CNBB LH, the Vigil strophe) is the Brazilian line and the option. No reader remarked. |",
+    "| obtinére (a feeling seizing) | tomar (*dores tomaram os habitantes*) | open | Canticle 224 (Exod 15:15, 15:16); not 72:12's *obtiveram* (riches). Kept apart from apprehéndere → *apoderar-se* (47:6). No reader remarked. |",
+    "| obrigéscere | gelar (*gelaram todos os habitantes de Canaã*) | open | Canticle 224 (Exod 15:16); stiffening with fear; MS1932 *ficaram gelados*. The ambiguity reader heard 'froze with fear'. *ficaram hirtos*, *enrijeceram* options. |",
+    "| vir pugnátor | guerreiro (*O Senhor é como um guerreiro*) | open | Canticle 224 (Exod 15:4; = the Quad4-0 responsory V.); every Brazilian version says *guerreiro*. *como um homem de guerra* (keeps *vir*, DRB) option. |",
+    "| unda | onda (*Deteve-se a onda que corria*) | open | Canticle 224 (Exod 15:8); shares the word with fluctus (D42), which the canticle does not have. |",
+    "| magníficus | magnífico (*magnífico em santidade*) | open | Canticle 224 (Exod 15:12); the adjective of magnificéntia (8:2b). No reader remarked. |",
+    "| in ætérnum et ultra | para sempre e ainda além | open | Canticle 224 (Exod 15:20); D23's *para sempre* + *ultra*. The v1 *e mais além* was heard by the stylist as spatial and as the pop catchphrase. MS1932 *e além da eternidade* option. |",
+    "| eques (predicative) | a cavalo (*Pois Faraó entrou a cavalo no mar*) | open | Canticle 224 (Exod 15:21); DRB 'on horseback'; the ambiguity reader heard Pharaoh riding. *equítes* → cavaleiros; *ascensor* (15:1) → cavaleiro. |",
+    "| Philísthiim | a Filisteia (*os habitantes da Filisteia*) | open | Canticle 224 (Exod 15:15); pairs with Edom, Moab, Canaã. The ambiguity reader listed it as unknown; *dos filisteus* option. MS1932 *Palestina* not taken. |"
+  ],
+  "formulas": [
+    "| *Cantémus Dómino * glorióse* (antiphon of canticle 224, Thursday Lauds I and the monastic ferial canticles; = the opening of Exod 15:1) | *Cantemos ao Senhor * gloriosamente* | open — follows canticle 224's 15:1. The Brazilian Vigil refrain is *Cantemos ao Senhor que fez brilhar a sua glória!*; DM1962's antiphon is *Cantarei ao Senhor, que manifestou a sua glória*. |",
+    "| *Fortitúdo mea * et laus mea Dóminus: et factus est mihi in salútem* (antiphon, Thursday Lauds II; = Exod 15:2 = Ps 117:14) | *O Senhor é a minha força * e o meu louvor: e se fez salvação para mim* | open — follows Ps 117:14 and canticle 224's 15:2. The CNBB LH antiphon is a paraphrase from the Hebrew. |"
+  ]
+}

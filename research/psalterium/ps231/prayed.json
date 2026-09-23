@@ -1,0 +1,816 @@
+{
+  "psalm": 231,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "1:68": "Bendito + o Senhor, Deus de Israel: * porque visitou e fez {redemptio} do seu povo:",
+    "1:69": "E ergueu para nós {cornu}: * na casa de Davi, {puer}.",
+    "1:70": "Como falou pela boca {sanctorum}:",
+    "1:71": "{salutem} nossos inimigos, * e da mão de todos os que nos odeiam.",
+    "1:72": "Para usar de misericórdia com os nossos pais: * e lembrar-se da sua santa aliança.",
+    "1:73": "O juramento que {jusjurandum} a Abraão, nosso pai, * {daturum}:",
+    "1:74": "Que, sem temor, {liberati} da mão dos nossos inimigos, * {serviamus}.",
+    "1:75": "Em santidade e justiça diante dele, * todos os nossos dias.",
+    "1:76": "E tu, menino, {vocaberis}: * pois irás {praeibis} do Senhor, para preparar os seus caminhos:",
+    "1:77": "Para dar {scientia} ao seu povo: * {remissio} {eorum}:",
+    "1:78": "Pelas entranhas de misericórdia do nosso Deus: * {inquibus} nos visitou {oriens}:",
+    "1:79": "Para iluminar os que {sedent} nas trevas e na sombra da morte: * para dirigir os nossos pés {inviam} da paz."
+  },
+  "decisions": [
+    {
+      "id": "redemptio",
+      "refs": [
+        "1:68"
+      ],
+      "latin": "fecit redemptiónem plebis suæ",
+      "kind": "word",
+      "why": "The Latin has a verb and a noun (fecit redemptiónem; Greek ἐποίησεν λύτρωσιν). The psalter's redémptio is 'redenção' (110:9a Redemptiónem misit → Enviou redenção; 129:7 copiosa redenção); 'resgate' is kept for prétium redemptiónis (48:9). Every Portuguese witness turns noun + verb into one verb: MS1932 'resgatou o seu povo', DM1962 'resgatou seu povo', the CNBB Liturgia das Horas and Lectionary 'a seu povo visitou e libertou'.",
+      "options": [
+        {
+          "label": "fez a redenção",
+          "forms": {
+            "redemptio": "a redenção"
+          },
+          "note": "Draft. The Latin's noun, the psalter's word for it, and DRB's build ('wrought the redemption'). Keeping the noun keeps the line tied to 110:9 and 129:7, where the same word is said of the same God and people.",
+          "from": "draft"
+        },
+        {
+          "label": "operou a redenção",
+          "forms": {
+            "redemptio": "a redenção"
+          },
+          "note": "Not selectable as a slot (the verb would change): 'operar' is the operári row's verb (D43) and would be a second Latin word in one Portuguese. Recorded only.",
+          "from": "draft"
+        },
+        {
+          "label": "resgatou",
+          "forms": {
+            "redemptio": "o resgate"
+          },
+          "note": "MS1932 and DM1962 turn it into the verb 'resgatou o seu povo'; that also makes 'o seu povo' the object of 'visitou', which the Latin leaves without one. Refused: it drops the noun and closes an openness. (The slot form here is the nearest noun, 'fez o resgate do seu povo'.)",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "cornu",
+      "refs": [
+        "1:69"
+      ],
+      "latin": "Et eréxit cornu salútis nobis",
+      "kind": "glossary",
+      "why": "cornu → 'chifre' is the glossary's word in every place of the psalter, and 17:3c has this very phrase (cornu salútis meæ → o chifre da minha salvação). Challoner's note says horn means strength and power; MS1932 renders 'uma força para nos salvar' (with the gloss 'um Salvador poderoso'), the CNBB 'um poderoso Salvador', DM1962 'uma força salvadora'. Rule 5 names horn among the images that stay concrete. The risk is known from 131:17: the dative 'um chifre para Davi' was heard as cuckoldry. Here the dative nobis is the Latin's (ἡμῖν) and cannot go; I put 'para nós' before the noun so that 'chifre' is followed at once by 'de salvação', which is what the ear then hears.",
+      "options": [
+        {
+          "label": "um chifre de salvação",
+          "forms": {
+            "cornu": "um chifre de salvação"
+          },
+          "note": "Draft, with the glossary and 17:3c. erígere → erguer (112:7, 144:14, 145:8b).",
+          "from": "glossary"
+        },
+        {
+          "label": "uma força de salvação",
+          "forms": {
+            "cornu": "uma força de salvação"
+          },
+          "note": "MS1932's reading of the image. Refused: it explains the horn, which rule 5 and the cornu row forbid.",
+          "from": "MS1932"
+        },
+        {
+          "label": "um poderoso Salvador",
+          "forms": {
+            "cornu": "um poderoso Salvador"
+          },
+          "note": "The CNBB's line, known by heart in Brazil. Refused: it drops the image and turns salus (salvation) into a person.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "puer",
+      "refs": [
+        "1:69"
+      ],
+      "latin": "in domo David, púeri sui",
+      "kind": "word",
+      "why": "The Latin says puer twice: of David (1:69, the servant — Greek παιδός) and of John (1:76 Et tu, puer — Greek παιδίον, the little child). The psalter's puer of a servant of God is 'servo' (68:18, 85:16, 104:42 Abraão, seu servo), and puer as a child is 'menino' (112:1 Louvai, meninos). The Greek has two words, so by D15's test the Portuguese may have two.",
+      "options": [
+        {
+          "label": "seu servo",
+          "forms": {
+            "puer": "seu servo"
+          },
+          "note": "Draft, with 104:42, DRB 'his servant', MS1932, DM1962 and the CNBB ('seu servidor'). The echo of puer between 1:69 and 1:76 is lost.",
+          "from": "draft"
+        },
+        {
+          "label": "seu menino",
+          "forms": {
+            "puer": "seu menino"
+          },
+          "note": "Keeps the Latin's one word in both verses, so that John in 1:76 is heard as the new 'puer' of God after David. Refused: 'Davi, seu menino' is heard as David being God's little boy, which is neither the Latin's sense here nor the Greek's.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sanctorum",
+      "refs": [
+        "1:70"
+      ],
+      "latin": "per os sanctórum, * qui a sǽculo sunt, prophetárum ejus",
+      "kind": "order",
+      "why": "The Latin splits sanctórum from prophetárum ejus across the relative clause and the asterisk; it most naturally reads as one phrase, \"his holy prophets\" (Greek τῶν ἁγίων ἀπ' αἰῶνος προφητῶν αὐτοῦ), but a noun \"the saints\" with \"his prophets\" in apposition is grammatical. Portuguese cannot hold an adjective across a clause, so it must either resolve or keep two nouns.",
+      "options": [
+        {
+          "label": "dos santos, * dos seus profetas, que são …",
+          "forms": {
+            "sanctorum": "dos santos, * dos seus profetas, {asaeculo}"
+          },
+          "note": "Draft (v1, v2): two nouns, the second in apposition; the relative after \"profetas\" inside the second colon. The v2 Latinist (minor) found the apposition reading allowed but not favoured.",
+          "from": "draft"
+        },
+        {
+          "label": "dos seus santos, * que são …, os seus profetas",
+          "forms": {
+            "sanctorum": "dos seus santos, * {asaeculo}, os seus profetas"
+          },
+          "note": "The v2 Latinist's fix: the Latin's order. \"seus\" twice, and \"os seus profetas\" hangs without \"de\" after the clause.",
+          "from": "latinist"
+        },
+        {
+          "label": "dos seus santos profetas, * que são …",
+          "forms": {
+            "sanctorum": "dos seus santos profetas, * {asaeculo}"
+          },
+          "note": "MS1932 and DRB's sense (\"his holy prophets\"); resolves the Latin's reading, but the first colon then carries the prophets and the second only the clause (lengths 13 / 9).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "asaeculo",
+      "refs": [
+        "1:70"
+      ],
+      "latin": "qui a sǽculo sunt",
+      "kind": "glossary",
+      "why": "The glossary's a sǽculo → 'desde sempre', and 24:6 has this very clause (quæ a sǽculo sunt → que são desde sempre). Said of prophets it could be heard as 'who have always existed'; the Greek ἀπ' αἰῶνος means 'from of old', and MS1932 and the CNBB both say 'desde os tempos antigos', DM1962 'antiquíssimos'. The row keeps one rendering so that the phrase is heard as the same phrase across the psalter. v2: the row's \"desde sempre\" fits a sǽculo when the subject is God or his mercies; here it is men, and every reader heard eternity, so the sense splits (a context split the Latin permits: a sǽculo itself is \"from the age\").",
+      "options": [
+        {
+          "label": "que são desde os tempos antigos",
+          "forms": {
+            "asaeculo": "que são desde os tempos antigos"
+          },
+          "note": "v2, taken from the v1 Latinist and stylist (the ambiguity reader heard \"prophets who have always existed\" as the likely meaning). The Greek ἀπ' αἰῶνος and the Latin a sǽculo said of men mean \"from of old\"; MS1932 and the CNBB say the same (CNBB \"desde os tempos mais antigos\"). The row keeps \"desde sempre\" where the subject is God's (24:6 mercies, 92:2, 40:14); a person cannot be \"desde sempre\". +2 syllables.",
+          "from": "MS1932"
+        },
+        {
+          "label": "que são desde sempre",
+          "forms": {
+            "asaeculo": "que são desde sempre"
+          },
+          "note": "v1, the row word for word (24:6). Refused in v2: said of the prophets it was heard as eternity by all three readers.",
+          "from": "glossary"
+        },
+        {
+          "label": "que são de outrora",
+          "forms": {
+            "asaeculo": "que são de outrora"
+          },
+          "note": "DM1962's word, the row's own named option; a little literary.",
+          "from": "DM1962"
+        },
+        {
+          "label": "desde os séculos antigos",
+          "forms": {
+            "asaeculo": "desde os séculos antigos"
+          },
+          "note": "The v1 stylist's form: keeps sǽculum concrete, drops sunt.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "salutem",
+      "refs": [
+        "1:71"
+      ],
+      "latin": "Salútem ex inimícis nostris",
+      "kind": "grammar",
+      "why": "Salútem is an accusative standing in apposition to cornu salútis (or as what was spoken, 1:70); it has no verb of its own. DRB keeps the bare noun ('Salvation from our enemies'). MS1932 turns it into a clause ('que nos livraria de nossos inimigos'), DM1962 and the CNBB into a purpose ('Para nos salvar dos inimigos', 'para salvar-nos do poder dos inimigos'). A bare 'Salvação dos nossos inimigos' could be heard for a moment as the enemies' own salvation; the second colon, 'e da mão de todos os que nos odeiam', makes the 'from' plain. v2: the Latinist, the stylist and the ambiguity reader all heard the genitive; the relative \"que nos livra\" is taken.",
+      "options": [
+        {
+          "label": "Salvação que nos livra dos",
+          "forms": {
+            "salutem": "Salvação que nos livra dos"
+          },
+          "note": "v2. The noun stays (and its apposition to the horn); a relative verb carries ex, and it governs the second colon too: \"que nos livra dos nossos inimigos, e da mão de todos\". livrar is liberáre's verb (1:74 livrados), so ex and liberáti share a verb in Portuguese; the sense is the same (rescue out of). +3 syllables.",
+          "from": "draft"
+        },
+        {
+          "label": "Salvação dos",
+          "forms": {
+            "salutem": "Salvação dos"
+          },
+          "note": "v1, with DRB. Refused: all three readers heard \"our enemies' salvation\" first.",
+          "from": "draft"
+        },
+        {
+          "label": "Para nos salvar dos",
+          "forms": {
+            "salutem": "Para nos salvar dos"
+          },
+          "note": "DM1962 and the CNBB. Clear and familiar; the noun becomes a verb and a purpose is added.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Salvação contra os",
+          "forms": {
+            "salutem": "Salvação contra os"
+          },
+          "note": "The v1 Latinist's fix. The noun alone; but the second colon \"e da mão\" then has no preposition to hang on.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "jusjurandum",
+      "refs": [
+        "1:73"
+      ],
+      "latin": "Jusjurándum, quod jurávit",
+      "kind": "word",
+      "why": "The Latin repeats the root (jusjurándum … jurávit; Greek ὅρκον ὃν ὤμοσεν). MS1932 and DM1962 say 'o juramento que fez', the CNBB just 'o juramento a Abraão'. Rule 2 keeps a repetition the Latin has (as 4:6 Sacrificai um sacrifício).",
+      "options": [
+        {
+          "label": "jurou",
+          "forms": {
+            "jusjurandum": "jurou"
+          },
+          "note": "Draft: 'O juramento que jurou', the Latin's figure kept.",
+          "from": "draft"
+        },
+        {
+          "label": "fez",
+          "forms": {
+            "jusjurandum": "fez"
+          },
+          "note": "MS1932 and DM1962; the ordinary Portuguese collocation, the figure gone.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "daturum",
+      "refs": [
+        "1:73"
+      ],
+      "latin": "datúrum se nobis",
+      "kind": "grammar",
+      "why": "'That he would grant us' — what is granted is the ut-clause of 1:74 (ut … serviámus). Portuguese 'dar que …' is not a sentence; 'conceder que …' is, and it is MS1932's word ('de nos conceder que … o sirvamos'), the CNBB's ('de conceder-nos que'), and DRB's 'grant'.",
+      "options": [
+        {
+          "label": "de nos conceder",
+          "forms": {
+            "daturum": "de nos conceder"
+          },
+          "note": "Draft, with MS1932. dare → conceder only here, because the object is a clause.",
+          "from": "MS1932"
+        },
+        {
+          "label": "que nos havia de dar",
+          "forms": {
+            "daturum": "que nos havia de dar"
+          },
+          "note": "Keeps 'dar' and the future sense of datúrum, but then 1:74 'Que … sirvamos' hangs on 'dar', which Portuguese does not build.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "liberati",
+      "refs": [
+        "1:74"
+      ],
+      "latin": "de manu inimicórum nostrórum liberáti",
+      "kind": "word",
+      "why": "liberáre → 'livrar' is the glossary's verb (123:7b nos liberáti sumus → nós fomos livrados). MS1932 and DM1962 have the adjective 'livres', the CNBB 'libertos'. The participle keeps that someone did the freeing.",
+      "options": [
+        {
+          "label": "livrados",
+          "forms": {
+            "liberati": "livrados"
+          },
+          "note": "Draft, the row's participle.",
+          "from": "glossary"
+        },
+        {
+          "label": "livres",
+          "forms": {
+            "liberati": "livres"
+          },
+          "note": "MS1932 and DM1962. Lighter, but a state, not an act.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "serviamus",
+      "refs": [
+        "1:74"
+      ],
+      "latin": "serviámus illi",
+      "kind": "word",
+      "why": "The Latin has the dative illi after the verb. The v1 stylist asked for the proclitic \"o sirvamos\" as more natural.",
+      "options": [
+        {
+          "label": "sirvamos a ele",
+          "forms": {
+            "serviamus": "sirvamos a ele"
+          },
+          "note": "Kept: the dative and its place kept, 6 syllables as the Latin, a paroxytone close; \"servir a Deus\" is the ordinary Brazilian regency.",
+          "from": "draft"
+        },
+        {
+          "label": "o sirvamos",
+          "forms": {
+            "serviamus": "o sirvamos"
+          },
+          "note": "MS1932 and the v1 stylist: lighter, -2 syllables; for Gustavo.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "vocaberis",
+      "refs": [
+        "1:76"
+      ],
+      "latin": "Prophéta Altíssimi vocáberis",
+      "kind": "order",
+      "why": "Natural Portuguese order puts the verb first and ends the colon on 'Altíssimo', a proparoxytone at the mediant; the Latin's order (the verb last) ends it on 'chamado'. The Altíssimus row lets the proparoxytone stand at a mediant (90:1). Profeta is capitalised as the DO Latin prints Prophéta.",
+      "options": [
+        {
+          "label": "serás chamado Profeta do Altíssimo",
+          "forms": {
+            "vocaberis": "serás chamado Profeta do Altíssimo"
+          },
+          "note": "Draft: natural order (D2), as MS1932, DM1962 and DRB.",
+          "from": "draft"
+        },
+        {
+          "label": "Profeta do Altíssimo serás chamado",
+          "forms": {
+            "vocaberis": "Profeta do Altíssimo serás chamado"
+          },
+          "note": "The Latin's order, and a paroxytone before the asterisk; an inversion Portuguese does not need.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "praeibis",
+      "refs": [
+        "1:76"
+      ],
+      "latin": "præíbis enim ante fáciem Dómini",
+      "kind": "word",
+      "why": "ante fáciem is 'diante da face de' in the Nunc dimittis (233, 2:31), said the same day at Compline. præ-íre already means to go before, so 'irás diante da face' says it once; MS1932 has 'irás adiante da face do Senhor', DM1962 'irás na frente do Senhor', the CNBB 'irás andando à frente do Senhor'. enim → pois (the glossary's étenim / enim row).",
+      "options": [
+        {
+          "label": "diante da face",
+          "forms": {
+            "praeibis": "diante da face"
+          },
+          "note": "Draft: 233's phrase, the face kept.",
+          "from": "draft"
+        },
+        {
+          "label": "adiante da face",
+          "forms": {
+            "praeibis": "adiante da face"
+          },
+          "note": "MS1932. 'adiante' marks the going-ahead of præ-; the phrase differs from 233's by one letter.",
+          "from": "MS1932"
+        },
+        {
+          "label": "à frente",
+          "forms": {
+            "praeibis": "à frente"
+          },
+          "note": "DM1962 and the CNBB, the face dropped. Refused (rule 5).",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "scientia",
+      "refs": [
+        "1:77"
+      ],
+      "latin": "sciéntiam salútis",
+      "kind": "glossary",
+      "why": "The glossary's sciéntia → 'o saber' (18:3, 72:11, 93:10, 138:6), because 'ciência' was heard as science; 'conhecimento' is the row's named option. MS1932 and DM1962 say 'o conhecimento da salvação'. The Latin's order (the knowledge, then the people) is kept, which ends the colon on 'povo'.",
+      "options": [
+        {
+          "label": "o saber da salvação",
+          "forms": {
+            "scientia": "o saber da salvação"
+          },
+          "note": "Draft, the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "o conhecimento da salvação",
+          "forms": {
+            "scientia": "o conhecimento da salvação"
+          },
+          "note": "MS1932 and DM1962; the row's option; +2 syllables.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eorum",
+      "refs": [
+        "1:77"
+      ],
+      "latin": "in remissiónem peccatórum eórum",
+      "kind": "word",
+      "why": "The Latin has ejus (God's people) and eórum (the people's sins): two pronouns. Portuguese \"seu … seus\" does not mark the change of possessor; \"deles\" does, but it is heavy at the close of a prayed line.",
+      "options": [
+        {
+          "label": "dos seus pecados",
+          "forms": {
+            "eorum": "dos seus pecados"
+          },
+          "note": "Draft: with the people just named, \"seus\" is heard as theirs (the v1 ambiguity reader heard it so). MS1932, DM1962.",
+          "from": "draft"
+        },
+        {
+          "label": "dos pecados deles",
+          "forms": {
+            "eorum": "dos pecados deles"
+          },
+          "note": "The v2 Latinist (minor) and the literal: marks eórum; a colloquial close (\"deles\") on the cadence.",
+          "from": "latinist"
+        }
+      ]
+    },
+    {
+      "id": "remissio",
+      "refs": [
+        "1:77"
+      ],
+      "latin": "in remissiónem peccatórum eórum",
+      "kind": "word",
+      "why": "remíssio is not a psalter word (the verb remíttere is 'perdoar', 31:1, 38:14, 84:3). 'Remissão dos pecados' is the Creed's phrase in Brazil and DRB's word; MS1932 and DM1962 have 'para a remissão dos seus pecados'. The Latin in + accusative says 'unto'; the Greek ἐν ἀφέσει says 'in', which the CNBB follows ('que está na remissão').",
+      "options": [
+        {
+          "label": "para a remissão",
+          "forms": {
+            "remissio": "para a remissão"
+          },
+          "note": "Draft, with MS1932, DM1962 and DRB 'unto the remission'.",
+          "from": "draft"
+        },
+        {
+          "label": "na remissão",
+          "forms": {
+            "remissio": "na remissão"
+          },
+          "note": "The Greek's preposition and the CNBB's; not the Latin's.",
+          "from": "draft"
+        },
+        {
+          "label": "para o perdão",
+          "forms": {
+            "remissio": "para o perdão"
+          },
+          "note": "The verb's word in the psalter; plainer, but it loses the Creed's phrase that the Latin shares.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inquibus",
+      "refs": [
+        "1:78"
+      ],
+      "latin": "in quibus visitávit nos",
+      "kind": "grammar",
+      "why": "The relative refers to víscera: 'in which' (ἐν οἷς, a Hebraism for 'by which'). DM1962 'pela qual', MS1932 'graças à qual', the CNBB 'que … fará brilhar'. 'nas quais' keeps the Latin's preposition; 'pelas quais' is plain but echoes 'Pelas' at the head of the verse, which the Latin (Per … in quibus) does not.",
+      "options": [
+        {
+          "label": "nas quais",
+          "forms": {
+            "inquibus": "nas quais"
+          },
+          "note": "Draft, word for word; DRB 'in which'.",
+          "from": "draft"
+        },
+        {
+          "label": "pelas quais",
+          "forms": {
+            "inquibus": "pelas quais"
+          },
+          "note": "DM1962's preposition (in the plural); the instrumental sense spelled out, and an echo of 'Pelas'.",
+          "from": "DM1962"
+        },
+        {
+          "label": "com as quais",
+          "forms": {
+            "inquibus": "com as quais"
+          },
+          "note": "Instrumental, without the echo; it decides what the Latin 'in' leaves open.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "oriens",
+      "refs": [
+        "1:78"
+      ],
+      "latin": "óriens ex alto",
+      "kind": "word",
+      "why": "óriens is 'rising' — the rising sun, the east — and in the Vulgate a Messianic name: MS1932 prints Zech 3:8 'o meu servo Oriente' and Zech 6:12 'o homem cujo nome é oriente' (checked in the text layer), and Challoner's note on this verse calls 'the Orient' a title of the Messias. The Greek ἀνατολή carries both the sunrise and, in the LXX of Zechariah, the 'shoot'. MS1932 here, and the CNBB, say 'o Sol nascente'; DM1962 'a luz do alto'. The ortus row of the psalter already has 'oriente' (102:12). Both readings of the Latin stay open with 'Oriente'; 'Sol' closes them onto the sun.",
+      "options": [
+        {
+          "label": "o Oriente do alto",
+          "forms": {
+            "oriens": "o Oriente do alto"
+          },
+          "note": "Draft, with DRB 'the Orient from on high' and MS1932's Zechariah. Capitalised as a name. A first hearing may take it for the East; that is the Latin's own word.",
+          "from": "draft"
+        },
+        {
+          "label": "o Sol nascente do alto",
+          "forms": {
+            "oriens": "o Sol nascente do alto"
+          },
+          "note": "MS1932 in this verse and the CNBB ('o Sol nascente') — what Brazilian ears expect. It supplies 'Sol', which the Latin does not name (an explanation, rule 2). +2 syllables.",
+          "from": "MS1932"
+        },
+        {
+          "label": "o Sol que nasce do alto",
+          "forms": {
+            "oriens": "o Sol que nasce do alto"
+          },
+          "note": "The participle as a clause; same objection.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sedent",
+      "refs": [
+        "1:79"
+      ],
+      "latin": "qui in ténebris, et in umbra mortis sedent",
+      "kind": "word",
+      "why": "sedére is to sit; the psalter's 106:10 Sedéntes in ténebris, et umbra mortis → 'Sentados nas trevas e na sombra da morte', the same image (Luke echoes it). MS1932, DM1962 and the CNBB all say 'jazem' (lie), which is another posture; the CNBB adds 'e na sombra da morte estão sentados'.",
+      "options": [
+        {
+          "label": "estão sentados",
+          "forms": {
+            "sedent": "estão sentados"
+          },
+          "note": "Draft: the state the Latin present names, and 106:10's word.",
+          "from": "draft"
+        },
+        {
+          "label": "jazem",
+          "forms": {
+            "sedent": "jazem"
+          },
+          "note": "MS1932, DM1962, CNBB. Shorter and familiar, but 'lie' is not 'sit'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "se sentam",
+          "forms": {
+            "sedent": "se sentam"
+          },
+          "note": "The finite verb; heard as the act of sitting down rather than the state.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inviam",
+      "refs": [
+        "1:79"
+      ],
+      "latin": "ad dirigéndos pedes nostros in viam pacis",
+      "kind": "word",
+      "why": "in viam is an accusative of motion, 'into the way' (DRB; Greek εἰς ὁδόν). The psalter's dírige me in sémitam rectam (26:11) is 'encaminhai-me à vereda reta'. MS1932, DM1962 and the CNBB all have 'no caminho da paz', the line Brazilians know; 'dirigir no caminho' is guidance along a road already taken, a shade from the Latin's 'into'. The brief lets the familiar wording stand only where it is also the Latin's sense, so the draft takes the Latin's motion. viam pacis → 'o caminho da paz' as 13:3d.",
+      "options": [
+        {
+          "label": "para o caminho",
+          "forms": {
+            "inviam": "para o caminho"
+          },
+          "note": "v2, taken from the v1 stylist (\"ao\" unidiomatic after dirigir). Motion into, as the Latin; 118:128 ad ómnia mandáta tua dirigébar → \"dirigido para\". The repeated \"para\" follows the Latin's ad … in.",
+          "from": "stylist"
+        },
+        {
+          "label": "ao caminho",
+          "forms": {
+            "inviam": "ao caminho"
+          },
+          "note": "v1 (26:11 \"à vereda\"); the stylist found \"dirigir … ao caminho\" unidiomatic.",
+          "from": "draft"
+        },
+        {
+          "label": "no caminho",
+          "forms": {
+            "inviam": "no caminho"
+          },
+          "note": "MS1932, DM1962, CNBB: the familiar line. Guidance within the way rather than into it.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "1:68": "DO keys the canticle by Luke's own verses (1:68–1:79) and prints '+' after the first word; both reproduced, as ps233 did (the '+' is where the sign of the cross is made, not a flex; it stands where the Latin has it, after the first word). Heading line (Canticum Zachariæ * Luc. 1:68-79) not translated (D7). The head is the settled formula of 40:14 / 71:18 / 105:48 (Bendito o Senhor, Deus de Israel), which the glossary row says the canticle should copy; verbless, as the Latin. quia → porque. 'visitou' is left without an object, as the Latin and Greek leave it (the CNBB and DM1962 make 'o seu povo' its object). plebis → povo (233; plebs row). The CNBB and Nova Vulgata futures elsewhere do not concern this verse; our Latin has perfects throughout.",
+    "1:69": "'para nós' before the object (see cornu). David → Davi (the psalter's form). The comma before 'seu servo' marks the apposition, as 104:42.",
+    "1:70": "sicut → como; locútus est → falou; per os → pela boca. v2: \"desde os tempos antigos\" (decision asaeculo). The Latin's hyperbaton (sanctórum … prophetárum ejus) is kept across the asterisk: 'dos santos, * dos seus profetas' — the ambiguity whether sanctórum is a noun or the adjective of prophetárum is the Latin's own; moving 'dos seus profetas' ahead of the relative clause is natural Portuguese order inside the second colon.",
+    "1:71": "odérunt → 'odeiam' (the perfect of state, present sense: 24:19, 43:11 'os que nos odeiam'). de manu → da mão. v2: \"Salvação que nos livra dos\" (decision salutem).",
+    "1:72": "fácere misericórdiam cum → 'usar de misericórdia com', 17:51's build (fáciens misericórdiam Christo suo → usando de misericórdia com). memorári + genitive → 'lembrar-se de' (memor esse row; 104:8, 105:45 'lembrou-se da sua aliança'). testaméntum → aliança (the row; 'testamento' is a will in Brazil). 'santa aliança': the adjective before the noun, as the CNBB and MS1932 ('santo pacto'); 'aliança santa' would end on a stressed pair of short words.",
+    "1:73": "Jusjurándum is an accusative in apposition to the covenant; 'O juramento' stands in apposition in the same way (DRB 'The oath, which'). ad Ábraham → 'a Abraão' (104:42). patrem nostrum → 'nosso pai', the article dropped in apposition as 104:42 'seu servo'.",
+    "1:74": "ut → 'Que' after 'conceder' (1:73). sine timóre is placed first as in the Latin, where it can go with 'livrados' or with 'sirvamos' (the Greek ἀφόβως goes with serving); the commas leave both open. serviámus illi → decision serviamus. checks.py flags length −5 on the first colon: the Latin's own long colon (21 syllables, five-syllable words inimicórum nostrórum) against compact Portuguese; nothing is dropped, so left.",
+    "1:75": "coram ipso → 'diante dele'. One preposition for the pair (In sanctitáte, et justítia), as the Latin; the CNBB repeats it ('em santidade e em justiça'). sanctitas → santidade (29:5). ómnibus diébus nostris → 'todos os nossos dias', ablative of time with no preposition (89:14 has 'em todos os nossos dias', where the Latin has in); the CNBB paraphrases.",
+    "1:76": "A singular human addressee → tu (rule 3). puer → 'menino' (112:1; παιδίον). paráre → preparar (paráre row, 233). enim → pois. 'para preparar' supplies the preposition Portuguese needs before an infinitive of purpose. checks.py flags +3 and a proparoxytone mediant ('Altíssimo'); the Altíssimus row tolerates it (90:1), and the Latin-order option (decision vocaberis) cures the cadence at the same length.",
+    "1:77": "plebi ejus → 'ao seu povo'; peccatórum eórum → 'dos seus pecados': with the people just named, 'seus' is heard as theirs.",
+    "1:78": "víscera → entranhas (D44). 'entranhas de misericórdia' (misericórdiæ as a genitive of quality, the Portuguese idiom), then 'do nosso Deus'; MS1932 has 'da misericórdia'. visitávit → visitou (the visitáre row; the same verb as 1:68, the repetition the Latin has).",
+    "1:79": "Illumináre is a bare infinitive of purpose continuing 1:78; Portuguese needs 'Para'. his (dative) → 'os que' (iluminar takes a direct object). The Latin's verb comes last in the colon; natural order puts it first so that the colon ends on 'morte'. ténebræ, umbra mortis → trevas, sombra da morte (106:10, 106:14, 87:7). v2: \"para o caminho\" (decision inviam). pedes → pés; pax → paz. checks.py flags +4 on the first colon: 'Para' and 'estão sentados' (106:10's periphrasis for the one word sedent) are what Portuguese needs; 'se sentam' (option) saves one syllable, 'jazem' two, at the cost the sedent decision records."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm231.txt: the Clementine Vulgate of Luke 1:68–79, not the Gallican. It matches the Bolls VULG text of Luke 1 word for word (consult/ps231/bolls-VULG-42-1.json); the Diurnal Monástico 1962 prints the same Latin (pp. 56–57 of its OCR). Verse ids are Luke's, 1:68–1:79, as ps233 used Luke 2's."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py builds only Latin + pt-PT for a canticle, so ps231/show_parallels.py (adapted from ps221) builds consult/parallels/ps231.md from: Bolls VULG, TISCH (Tischendorf Greek) and DRB of Luke 1; Challoner's notes from drbo.org; MS1932 from the text layer of the 1932 PDF (found by pdftotext + grep; consult/ps231/ms1932-luke1.txt); the Diurnal Monástico 1962 Sunday Lauds (consult/ps231/dm1962-benedictus.txt). DO's Portuguese of this canticle is the DM1962 text in the old spelling, so it adds nothing. The CNBB Liturgia das Horas and Lectionary wording was fetched and is recorded in circulation.md. Copied from the glossary and finished psalms: the Benedíctus Dóminus, Deus Israël formula (40:14, 71:18), redémptio (110:9a, 129:7), cornu salútis (17:3c), puer = servo (104:42) / menino (112:1), a sǽculo … sunt (24:6), qui odérunt nos (43:11), fáciens misericórdiam (17:51), memor esse + testaméntum (104:8, 105:45), liberáre (123:7b), ante fáciem (233), sciéntia (18:3), víscera (D44), sedére in ténebris et umbra mortis (106:10), dirígere in (26:11), via pacis (13:3d). Hardest: 1:78 óriens (Oriente, a Vulgate name, against the familiar Sol nascente), 1:79 in viam (ao caminho against the familiar no caminho), 1:71 the bare apposition Salvação."
+    },
+    {
+      "step": "checks",
+      "note": "v1: hard pass (ids 1:68–1:79; \"+\" and \"*\" in 1:68, \"*\" elsewhere). Soft: 1:68b −3, 1:74a −5, 1:76a +3 with the proparoxytone Altíssimo at the mediant, 1:79a +4; each recorded in the choices."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. Two minors, no majors; clauses, tenses and moods, images and marks confirmed.",
+      "outcomes": [
+        {
+          "verse": "1:70",
+          "remark": "desde sempre overstates a sǽculo; desde os tempos antigos",
+          "outcome": "taken"
+        },
+        {
+          "verse": "1:71",
+          "remark": "dos read as genitive; Salvação contra",
+          "outcome": "taken",
+          "reason": "Fixed with \"Salvação que nos livra dos\" rather than \"contra\", which leaves \"e da mão\" hanging (decision salutem)."
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. Five remarks: three taken, two kept as options. Worst line 1:71, best 1:78.",
+      "outcomes": [
+        {
+          "verse": "1:70",
+          "remark": "desde sempre sounds eternal/careless; desde os séculos antigos",
+          "outcome": "taken",
+          "reason": "Taken as \"desde os tempos antigos\" with the Latinist; the stylist's form is an option."
+        },
+        {
+          "verse": "1:71",
+          "remark": "dos heard as possessive; Salvação, livres dos",
+          "outcome": "taken",
+          "reason": "Fixed with the relative \"que nos livra dos\"."
+        },
+        {
+          "verse": "1:74",
+          "remark": "sirvamos a ele stiff, livrados heavy; livres … o sirvamos",
+          "outcome": "option",
+          "decision": "serviamus",
+          "reason": "livrados is the liberáre row's participle (123:7b); \"sirvamos a ele\" keeps the Latin's dative and length. Both kept as options for Gustavo (decisions liberati, serviamus)."
+        },
+        {
+          "verse": "1:77",
+          "remark": "o saber academic; o conhecimento",
+          "outcome": "option",
+          "decision": "scientia",
+          "reason": "The sciéntia row (18:3, 72:11, 93:10, 138:6) has passed readers in four psalms; conhecimento is its named option. For Gustavo with the row."
+        },
+        {
+          "verse": "1:79",
+          "remark": "dirigir … ao caminho unidiomatic; para o caminho",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, read the Portuguese only. Nineteen readings, four unknown words (chifre as strength, remissão, Oriente as a title, entranhas as compassion).",
+      "outcomes": [
+        {
+          "verse": "1:70",
+          "remark": "desde sempre heard as eternal prophets",
+          "outcome": "taken"
+        },
+        {
+          "verse": "1:71",
+          "remark": "our enemies' salvation; Salvação hangs without a verb",
+          "outcome": "taken",
+          "reason": "The relative clause fixes the first; the verbless apposition is the Latin's (Salútem continues 1:69–70)."
+        },
+        {
+          "verse": "1:69",
+          "remark": "chifre puzzling / slang",
+          "outcome": "refused",
+          "reason": "The cornu row and 17:3c; rule 5 keeps the horn. The dative is placed before the noun to avoid 131:17's cuckold reading (decision cornu)."
+        },
+        {
+          "verse": "1:78",
+          "remark": "Oriente heard as the East",
+          "outcome": "option",
+          "decision": "oriens",
+          "reason": "That is the Latin's own word and its double sense (DRB \"the Orient\"; the Vulgate's Messianic name in Zech 3:8, 6:12). \"o Sol nascente\" (MS1932, CNBB) is option 2, for Gustavo."
+        },
+        {
+          "verse": "1:78",
+          "remark": "entranhas heard as guts",
+          "outcome": "refused",
+          "reason": "D44."
+        },
+        {
+          "verse": "1:73",
+          "remark": "O juramento hangs; conceder has no object",
+          "outcome": "refused",
+          "reason": "The Latin's apposition (Jusjurándum, accusative) and its ut-clause carried into 1:74, as DRB."
+        },
+        {
+          "verse": "1:77",
+          "remark": "o saber heard as o sabor",
+          "outcome": "refused",
+          "reason": "Second reading only; likely heard as knowledge. The row stands (see the stylist's 1:77)."
+        },
+        {
+          "verse": "1:68, 1:70, 1:72, 1:76, 1:77, 1:79",
+          "remark": "unstated subjects and seu/seus referents",
+          "outcome": "refused",
+          "reason": "Each heard correctly as likely; the Latin leaves the same subjects and pronouns."
+        },
+        {
+          "verse": "1:77",
+          "remark": "remissão unknown",
+          "outcome": "refused",
+          "reason": "The Creed's word (\"a remissão dos pecados\"), and the CNBB's here (decision remissio)."
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 1:70 \"que são desde os tempos antigos\"; 1:71 \"Salvação que nos livra dos nossos inimigos\"; 1:79 \"para o caminho da paz\". New decision serviamus for the stylist's refused \"o sirvamos\". prayed.v1.json / prayed.v1.vos.json kept (the text the v1 readers read)."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass. New soft flags, accepted: 1:70b +3 (\"desde os tempos antigos\", the sense two readers asked for; synalepha \"desde os\" makes it +2 aloud), 1:71a +4 (the relative \"que nos livra\" that fixes the genitive reading all three readers heard), 1:79b +3 (\"para o caminho\", the stylist's preposition). 1:74a −5, 1:76a +3 and 1:79a +4 as in v1."
+    },
+    {
+      "step": "latinist",
+      "version": 2,
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2: claude-opus-5-5, fresh context, read latin.json. No majors; two minors, both held as options, and v2 stands. It confirmed the perfect visitávit, óriens as a noun, the images, and the marks.",
+      "outcomes": [
+        {
+          "verse": "1:70",
+          "remark": "sanctórum … prophetárum read as one phrase; the Latin order",
+          "outcome": "option",
+          "decision": "sanctorum",
+          "reason": "The apposition reading is the Latin's grammar too; the fix repeats \"seus\" and leaves \"os seus profetas\" without its preposition. The one-phrase reading is option 3."
+        },
+        {
+          "verse": "1:77",
+          "remark": "seu … seus blurs ejus / eórum; dos pecados deles",
+          "outcome": "option",
+          "decision": "eorum",
+          "reason": "The v1 ambiguity reader heard \"seus\" as the people's, so the blur is not heard; \"deles\" is a heavy close."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "psalm": 224,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "15:1": "Cantemos ao Senhor: pois {magnificatus}, * {dejecit}.",
+    "15:2": "O Senhor é a minha força e o meu louvor: * e se fez salvação para mim.",
+    "15:3": "Este é o meu Deus, e eu o glorificarei: * o Deus do meu pai, e eu o exaltarei.",
+    "15:4": "O Senhor é {pugnator}, Todo-Poderoso é o seu nome. * Os {currus} de Faraó e o seu exército, lançou-os ao mar.",
+    "15:5": "{electi} foram submersos no Mar Vermelho: * os abismos os cobriram, desceram à profundeza como uma pedra.",
+    "15:6": "A vossa direita, Senhor, se engrandeceu em força: a vossa direita, Senhor, feriu o inimigo. * E na multidão da vossa glória abatestes os vossos adversários:",
+    "15:7": "Enviastes a vossa ira, que os devorou como palha. * E {spiritu7} se juntaram as águas:",
+    "15:8": "{unda}, * juntaram-se os abismos no meio do mar.",
+    "15:9": "Disse o inimigo: Perseguirei e prenderei, * repartirei os despojos, {implebitur}:",
+    "15:10": "Desembainharei a minha espada, * a minha mão os matará.",
+    "15:11": "Soprou o vosso {spiritus11}, e o mar os cobriu: * foram submersos como chumbo nas águas impetuosas.",
+    "15:12": "Quem é semelhante a vós entre os fortes, Senhor? * quem é semelhante a vós, magnífico em santidade, terrível e digno de louvor, que fazeis maravilhas?",
+    "15:13": "Estendestes a vossa mão, e a terra os devorou. * Fostes guia, na vossa misericórdia, do povo que resgatastes:",
+    "15:14": "E vós o levastes na vossa força * à vossa morada santa.",
+    "15:15": "Subiram os povos, e se iraram: * {obtinuerunt} {philisthiim}.",
+    "15:16": "Então se perturbaram os príncipes de Edom, {obtinuit}: * {obriguerunt} todos os habitantes de Canaã.",
+    "15:17": "Lance-se sobre eles {formido}, * na grandeza do vosso braço:",
+    "15:18": "Fiquem imóveis como uma pedra, até que passe o vosso povo, Senhor, * até que passe este vosso povo, que possuístes.",
+    "15:19": "{introduces} no monte da vossa herança, * na vossa morada firmíssima que {operatus}, Senhor:",
+    "15:20": "O vosso santuário, Senhor, que as vossas mãos firmaram. * O Senhor reinará para sempre {ultra}.",
+    "15:21": "Pois Faraó entrou {eques} no mar com os seus carros e os seus cavaleiros: * e o Senhor trouxe de volta sobre eles as águas do mar:",
+    "15:22": "Mas os filhos de Israel andaram pela terra seca * {medio}."
+  },
+  "decisions": [
+    {
+      "id": "magnificatus",
+      "refs": [
+        "15:1"
+      ],
+      "latin": "glorióse enim magnificátus est",
+      "kind": "word",
+      "why": "magnificáre → engrandecer (glossary). The deponent-looking passive of God, 'he has been magnified / has shown himself great', is 56:11's and 91:6a's reflexive: 'se engrandeceu'. 15:6 has the same verb of the right hand, so the two keep one word. The Brazilian ear knows 'fez brilhar a sua glória' (Vigil refrain, LH, MS1932), which turns the adverb into a clause and drops the verb. The Lauds antiphon 'Cantémus Dómino * glorióse' must read alone: 'Cantemos ao Senhor * gloriosamente' does.",
+      "options": [
+        {
+          "label": "gloriosamente se engrandeceu",
+          "forms": {
+            "magnificatus": "gloriosamente se engrandeceu"
+          },
+          "note": "Draft. The glossary's verb, the Latin's adverb, the Latin's order (adverb first). Antiphon: 'Cantemos ao Senhor gloriosamente'.",
+          "from": "glossary"
+        },
+        {
+          "label": "foi gloriosamente engrandecido",
+          "forms": {
+            "magnificatus": "foi gloriosamente engrandecido"
+          },
+          "note": "The passive form kept (DRB 'he is gloriously magnified'); heavier, and 'engrandecido' closes on a participle.",
+          "from": "draft"
+        },
+        {
+          "label": "fez brilhar a sua glória",
+          "forms": {
+            "magnificatus": "fez brilhar a sua glória"
+          },
+          "note": "The Vigil refrain, LH and MS1932: what Brazilians sing. A paraphrase: neither 'magnificáre' nor the adverb survives as such.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dejecit",
+      "refs": [
+        "15:1"
+      ],
+      "latin": "equum et ascensórem dejécit in mare",
+      "kind": "word",
+      "why": "dejícere has no row; the psalter renders it 'derrubar' (72:18 'vós os derrubastes', 73:6 'a derrubaram') and, with 'in' + a place, 'lançar' (139:11 'ao fogo os lançareis'). 15:4 has projécit → 'lançar' (30:23, 49:17, 222's 38:21), so the canticle's two verbs stay two with 'derrubar' here — apt for a rider thrown from his horse. 'precipitou' is the Brazilian line (Vigil strophe, LH, MS1932). The Latin puts the objects first; Portuguese puts the verb first (D2). ascensor → cavaleiro; equus → cavalo.",
+      "options": [
+        {
+          "label": "derrubou no mar o cavalo e o cavaleiro",
+          "forms": {
+            "dejecit": "derrubou no mar o cavalo e o cavaleiro"
+          },
+          "note": "Draft. The psalter's verb for dejícere; distinct from 15:4 'lançou'.",
+          "from": "draft"
+        },
+        {
+          "label": "precipitou no mar o cavalo e o cavaleiro",
+          "forms": {
+            "dejecit": "precipitou no mar o cavalo e o cavaleiro"
+          },
+          "note": "MS1932, LH and the Vigil strophe: the line Brazilians know. 'Precipitar' is a good sense of dejícere (throw down headlong).",
+          "from": "MS1932"
+        },
+        {
+          "label": "lançou ao mar o cavalo e o cavaleiro",
+          "forms": {
+            "dejecit": "lançou ao mar o cavalo e o cavaleiro"
+          },
+          "note": "139:11's construction; merges dejécit with 15:4 projécit.",
+          "from": "concord"
+        }
+      ]
+    },
+    {
+      "id": "pugnator",
+      "refs": [
+        "15:4"
+      ],
+      "latin": "quasi vir pugnátor",
+      "kind": "word",
+      "why": "'vir pugnátor', a fighting man (Hebrew 'ish milḥamah', 'man of war'). pugnáre → combater in the psalter (34:1, 55:2), but 'homem combatente' is not Portuguese speech. Every Brazilian version says 'guerreiro' (MS1932 'como um guerreiro', LH 'um Deus guerreiro', DM1962 'Guerreiro é o Senhor'). The responsory V. of Quad4-0 is this colon and must read alone: it does. 'Omnípotens' → todo-poderoso (glossary, canticles 212, 213); capitalized, since here it is the name.",
+      "options": [
+        {
+          "label": "como um guerreiro",
+          "forms": {
+            "pugnator": "como um guerreiro"
+          },
+          "note": "Draft. MS1932's and the circulating word; 'vir' is folded into the agent noun.",
+          "from": "MS1932"
+        },
+        {
+          "label": "como um homem de guerra",
+          "forms": {
+            "pugnator": "como um homem de guerra"
+          },
+          "note": "Keeps 'vir' (DRB 'as a man of war'); supplies 'guerra' for the agent noun.",
+          "from": "DRB"
+        },
+        {
+          "label": "como um homem guerreiro",
+          "forms": {
+            "pugnator": "como um homem guerreiro"
+          },
+          "note": "Word for word; stiff.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "currus",
+      "refs": [
+        "15:4"
+      ],
+      "latin": "Currus Pharaónis",
+      "kind": "glossary",
+      "why": "currus → 'carros de guerra' at 19:8 because the blind reader heard automobiles; 67:18 'O carro de Deus' decided for itself. Here Pharaoh and his army stand beside the word, as God and Sinai did at 67:18, so plain 'carros' is heard as chariots. 15:21 'cum cúrribus' is then 'com os seus carros'. The object is fronted as in the Latin and taken up by '-os' (Portuguese topicalization), since 'Os carros … lançou ao mar' with no pronoun leaves the subject in doubt.",
+      "options": [
+        {
+          "label": "carros",
+          "forms": {
+            "currus": "carros"
+          },
+          "note": "Draft. The Vigil strophe and LH say 'os carros do Faraó'.",
+          "from": "draft"
+        },
+        {
+          "label": "carros de guerra",
+          "forms": {
+            "currus": "carros de guerra"
+          },
+          "note": "19:8's row word; +2 syllables; would want 15:21 too.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "electi",
+      "refs": [
+        "15:5"
+      ],
+      "latin": "Elécti príncipes ejus",
+      "kind": "word",
+      "why": "eléctus → escolhido (104:43, 140:4b); princeps → príncipe. 'Elécti' is attributive: the picked captains. The adjective goes after the noun in Portuguese. MS1932 'os melhores dos seus capitães' and the Vigil 'seus melhores capitães' give the sense.",
+      "options": [
+        {
+          "label": "Os seus príncipes escolhidos",
+          "forms": {
+            "electi": "Os seus príncipes escolhidos"
+          },
+          "note": "Draft. The glossary's two words.",
+          "from": "glossary"
+        },
+        {
+          "label": "Os melhores dos seus príncipes",
+          "forms": {
+            "electi": "Os melhores dos seus príncipes"
+          },
+          "note": "MS1932's sense, with the glossary's 'príncipes'.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "spiritu7",
+      "refs": [
+        "15:7"
+      ],
+      "latin": "in spíritu furóris tui",
+      "kind": "word",
+      "why": "spíritus here is the blast of God's anger (Hebrew 'ruaḥ appeykha', the breath of your nostrils) that heaped up the waters. The glossary's 'sopro' row is for spíritus as wind and breath at once (102:16), and Ps 17:16 has the same image: 'ab inspiratióne spíritus iræ tuæ' → 'ao sopro do espírito da vossa ira'. Without 'inspirátio' beside it, 'sopro' carries the word. 'in' + ablative as instrument/occasion → 'ao', as 17:16. Cost: 15:11 'spíritus tuus' is 'espírito' (147:7 precedent), so the Latin's one word is two here.",
+      "options": [
+        {
+          "label": "ao sopro do vosso furor",
+          "forms": {
+            "spiritu7": "ao sopro do vosso furor"
+          },
+          "note": "Draft. The 'sopro' row; 17:16's build.",
+          "from": "glossary"
+        },
+        {
+          "label": "ao espírito do vosso furor",
+          "forms": {
+            "spiritu7": "ao espírito do vosso furor"
+          },
+          "note": "Keeps one word with 15:11; 'espírito do furor' is heard as a temper, not a blast.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "unda",
+      "refs": [
+        "15:8"
+      ],
+      "latin": "Stetit unda fluens",
+      "kind": "word",
+      "why": "stare of waters stopping → 'deter-se' (glossary row; 103:6 'se deterão as águas'). unda → onda (fluctus's word under D42 too, but fluctus is not in this canticle). fluens → 'que corria' (77:20 'correram as águas'). +4 syllables on a 6-syllable Latin colon; the participle wants a clause.",
+      "options": [
+        {
+          "label": "Deteve-se a onda que corria",
+          "forms": {
+            "unda": "Deteve-se a onda que corria"
+          },
+          "note": "Draft. The glossary's verb; MS1932 'parou a onda em sua corrente' has the same sense.",
+          "from": "glossary"
+        },
+        {
+          "label": "Parou a onda que corria",
+          "forms": {
+            "unda": "Parou a onda que corria"
+          },
+          "note": "MS1932's verb; shorter (+2).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "implebitur",
+      "refs": [
+        "15:9"
+      ],
+      "latin": "implébitur ánima mea",
+      "kind": "glossary",
+      "why": "implére → encher (glossary); repléri → fartar-se (62:6) is another verb. The Latin is absolute: filled, with nothing said of what (spoil, and the enemy's lust: Hebrew 'my desire shall be filled with them'). MS1932 'satisfazer-se-á a minha alma'.",
+      "options": [
+        {
+          "label": "a minha alma se encherá",
+          "forms": {
+            "implebitur": "a minha alma se encherá"
+          },
+          "note": "Draft. The glossary's verb, absolute as the Latin.",
+          "from": "glossary"
+        },
+        {
+          "label": "a minha alma se fartará",
+          "forms": {
+            "implebitur": "a minha alma se fartará"
+          },
+          "note": "62:6's verb (repléri); the sense of glutting is clearer.",
+          "from": "concord"
+        },
+        {
+          "label": "a minha alma ficará satisfeita",
+          "forms": {
+            "implebitur": "a minha alma ficará satisfeita"
+          },
+          "note": "MS1932's sense.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "spiritus11",
+      "refs": [
+        "15:11"
+      ],
+      "latin": "Flavit spíritus tuus",
+      "kind": "glossary",
+      "why": "Ps 147:7 'flabit spíritus ejus' → 'soprará o seu espírito' (lower case): the same verb and noun. The ear hears the wind from 'Soprou' and God's spirit from 'espírito', as the Latin keeps both. LH has 'soprou o vosso vento'.",
+      "options": [
+        {
+          "label": "espírito",
+          "forms": {
+            "spiritus11": "espírito"
+          },
+          "note": "Draft. 147:7's words.",
+          "from": "concord"
+        },
+        {
+          "label": "vento",
+          "forms": {
+            "spiritus11": "vento"
+          },
+          "note": "LH, MS1932 has 'espirito'; closes the Latin's double sense.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "obtinere",
+      "refs": [
+        "15:15",
+        "15:16"
+      ],
+      "latin": "dolóres obtinuérunt habitatóres … robústos Moab obtínuit tremor",
+      "kind": "word",
+      "why": "One Latin verb twice, one Portuguese verb twice. 72:12 'obtiveram riquezas' is the other sense. 47:6 'tremor apprehéndit eos' → 'o tremor se apoderou deles' is nearly this line, but apprehéndere (D43 row) owns 'apoderar-se'. 'tomar' (of a feeling: 'tomado de tremor') keeps the Latin's two verbs apart. MS1932 has 'apoderaram-se' / 'apossou-se'. robústi → 'os robustos' (the cognate; MS1932 'valentes').",
+      "options": [
+        {
+          "label": "tomaram / tomou",
+          "forms": {
+            "obtinuerunt": "dores tomaram os habitantes",
+            "obtinuit": "o tremor tomou os robustos de Moab"
+          },
+          "note": "Draft. Distinct from apprehéndere's 'apoderar-se'.",
+          "from": "draft"
+        },
+        {
+          "label": "se apoderaram / se apoderou",
+          "forms": {
+            "obtinuerunt": "dores se apoderaram dos habitantes",
+            "obtinuit": "o tremor se apoderou dos robustos de Moab"
+          },
+          "note": "MS1932 and 47:6's line; merges obtinére with apprehéndere.",
+          "from": "MS1932"
+        },
+        {
+          "label": "valentes",
+          "forms": {
+            "obtinuerunt": "dores tomaram os habitantes",
+            "obtinuit": "o tremor tomou os valentes de Moab"
+          },
+          "note": "MS1932's noun for robústos.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "philisthiim",
+      "refs": [
+        "15:15"
+      ],
+      "latin": "habitatóres Philísthiim",
+      "kind": "word",
+      "why": "Philísthiim is the Hebrew plural (Philistines) used as the land. The psalter has only 'alienígenæ' for them (59:10, 82:8, 86:4). 'da Filisteia' pairs with 'Edom', 'Moab', 'Canaã' in 15:16, all places. MS1932 'Palestina' is anachronistic in the ear.",
+      "options": [
+        {
+          "label": "da Filisteia",
+          "forms": {
+            "philisthiim": "da Filisteia"
+          },
+          "note": "Draft.",
+          "from": "draft"
+        },
+        {
+          "label": "dos filisteus",
+          "forms": {
+            "philisthiim": "dos filisteus"
+          },
+          "note": "The Latin's plural as a people.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "obriguerunt",
+      "refs": [
+        "15:16"
+      ],
+      "latin": "obriguérunt",
+      "kind": "word",
+      "why": "obrigéscere: to stiffen, to freeze (with cold or fear). No psalter row. MS1932 'ficaram gelados'; Brazilian speech 'gelar (de medo)'.",
+      "options": [
+        {
+          "label": "gelaram",
+          "forms": {
+            "obriguerunt": "gelaram"
+          },
+          "note": "Draft. The everyday verb of freezing with fear.",
+          "from": "MS1932"
+        },
+        {
+          "label": "ficaram hirtos",
+          "forms": {
+            "obriguerunt": "ficaram hirtos"
+          },
+          "note": "Stiffened; literary.",
+          "from": "draft"
+        },
+        {
+          "label": "enrijeceram",
+          "forms": {
+            "obriguerunt": "enrijeceram"
+          },
+          "note": "The literal stiffening.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "formido",
+      "refs": [
+        "15:17"
+      ],
+      "latin": "Írruat super eos formído et pavor",
+      "kind": "word",
+      "why": "formído → 'pavor' at 54:5 ('o pavor da morte'), but here the Latin 'pavor' stands beside it and wants its own cognate. So formído → 'terror', pavor → 'pavor'. irrúere → lançar-se sobre (glossary; 58:4, 61:4); the jussive → 'Lance-se'; singular verb with two subjects, as in the Latin. in magnitúdine brácchii tui → 'na grandeza do vosso braço' (78:11's words).",
+      "options": [
+        {
+          "label": "o terror e o pavor",
+          "forms": {
+            "formido": "o terror e o pavor"
+          },
+          "note": "Draft. pavor keeps its cognate; formído moves off 54:5's word because of the collision.",
+          "from": "draft"
+        },
+        {
+          "label": "o pavor e o espanto",
+          "forms": {
+            "formido": "o pavor e o espanto"
+          },
+          "note": "formído keeps 54:5's word; pavor → 'espanto', which also means astonishment.",
+          "from": "concord"
+        },
+        {
+          "label": "o medo e o pavor",
+          "forms": {
+            "formido": "o medo e o pavor"
+          },
+          "note": "MS1932; 'medo' is timor's in the ear.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "introduces",
+      "refs": [
+        "15:19"
+      ],
+      "latin": "Introdúces eos, et plantábis",
+      "kind": "word",
+      "why": "Future indicatives with the force of confidence. introdúcere: no row; the cognate 'introduzir' is plain speech (MS1932 'Tu os introduzirás'). 'plantábis' has no object in the Latin; Portuguese needs 'os' (LH 'o plantareis'). plantáre → plantar (43:3, 79:9). 'Vós' opens as subject so the line does not begin with an enclitic.",
+      "options": [
+        {
+          "label": "Vós os introduzireis, e os plantareis",
+          "forms": {
+            "introduces": "Vós os introduzireis, e os plantareis"
+          },
+          "note": "Draft. MS1932's verb.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Vós os fareis entrar, e os plantareis",
+          "forms": {
+            "introduces": "Vós os fareis entrar, e os plantareis"
+          },
+          "note": "Plainer; two words for one.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "operatus",
+      "refs": [
+        "15:19"
+      ],
+      "latin": "quod operátus es",
+      "kind": "glossary",
+      "why": "operári (opus) → operar (D43, settled; 43:2b 'a obra que operastes', 67:29 'isto que operastes em nós'). Here its object is the dwelling, not an 'opus'; D43's own option is 'fizestes'. firmíssimo habitáculo tuo → 'na vossa morada firmíssima' (habitáculum → morada, D44). The superlative kept.",
+      "options": [
+        {
+          "label": "operastes",
+          "forms": {
+            "operatus": "operastes"
+          },
+          "note": "Draft. D43.",
+          "from": "glossary"
+        },
+        {
+          "label": "fizestes",
+          "forms": {
+            "operatus": "fizestes"
+          },
+          "note": "D43's option; plain for a building.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "ultra",
+      "refs": [
+        "15:20"
+      ],
+      "latin": "in ætérnum et ultra",
+      "kind": "word",
+      "why": "in ætérnum → para sempre (D23; 9:37 'O Senhor reinará para sempre'). 'et ultra', 'and beyond', is the Latin's own excess (Hebrew 'le'olam va'ed', LXX 'καὶ ἔτι'). MS1932 'e além da eternidade' explains; LH 'eternamente, pelos séculos' is the Hebrew's.",
+      "options": [
+        {
+          "label": "e mais além",
+          "forms": {
+            "ultra": "e mais além"
+          },
+          "note": "Draft. 'ultra' as an adverb of going past.",
+          "from": "draft"
+        },
+        {
+          "label": "e além",
+          "forms": {
+            "ultra": "e além"
+          },
+          "note": "Barer; the line ends on a short stressed syllable.",
+          "from": "draft"
+        },
+        {
+          "label": "e além da eternidade",
+          "forms": {
+            "ultra": "e além da eternidade"
+          },
+          "note": "MS1932; supplies the noun.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "eques",
+      "refs": [
+        "15:21"
+      ],
+      "latin": "Ingréssus est enim eques Phárao",
+      "kind": "grammar",
+      "why": "'eques' is predicative: Pharaoh went in as a horseman, on horseback (DRB 'Pharao went in on horseback'). equítes later in the line → cavaleiros; cum cúrribus → com os seus carros (see 'currus'). enim → pois. The Latin puts 'in mare' last; Portuguese brings it next to the verb.",
+      "options": [
+        {
+          "label": "a cavalo",
+          "forms": {
+            "eques": "a cavalo"
+          },
+          "note": "Draft. DRB's sense.",
+          "from": "DRB"
+        },
+        {
+          "label": "como cavaleiro",
+          "forms": {
+            "eques": "como cavaleiro"
+          },
+          "note": "The noun kept; collides with 'cavaleiros' in the same colon.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "medio",
+      "refs": [
+        "15:22"
+      ],
+      "latin": "in médio ejus",
+      "kind": "ambiguity",
+      "why": "'ejus' is the sea (mare, 15:21). 'no meio dele' after 'os filhos de Israel … pela terra seca' may be heard as Israel or the dry land. DM1962 'pelo meio do mar'. per siccum → 'pela terra seca' (árida / sicca row, 65:6, 94:5; 104:41 'pela terra seca').",
+      "options": [
+        {
+          "label": "no meio dele",
+          "forms": {
+            "medio": "no meio dele"
+          },
+          "note": "Draft. The Latin's pronoun.",
+          "from": "draft"
+        },
+        {
+          "label": "no meio do mar",
+          "forms": {
+            "medio": "no meio do mar"
+          },
+          "note": "Names the sea; +1; loses nothing but the pronoun.",
+          "from": "DM1962"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "15:1": "DO's Latin file opens with '(Canticum Moysis * Exod. 15:1-22)'. It is DO's heading for the canticle, not a titulus, and not a prayed verse: under D7 it is not translated (as 214, 233). Were it shown: '(Cântico de Moisés * Ex 15,1-19)'. DO's ids 15:1–15:22 count its own lines, not Exodus verses; kept (rule 4). cantáre → cantar; the cohortative → 'Cantemos'. enim → pois. The Lauds antiphon 'Cantémus Dómino * glorióse' → 'Cantemos ao Senhor * gloriosamente'.",
+    "15:2": "Copied word for word from Ps 117:14 (the same Latin) and canticle 221's 12:3 (less its 'Porque'). It is also the antiphon of Thursday Lauds II and reads alone.",
+    "15:3": "Iste → Este é (the copula supplied). glorificáre → glorificar, exaltáre → exaltar (117:28a 'e eu vos exaltarei'). 'eu' supplied twice, as 117:28a, so the futures are heard as vows. pater → pai.",
+    "15:4": "Pharao → Faraó (134:9, 135:15, no article). exércitus → exército. projícere → lançar (30:23, 49:17, canticle 222 38:21), kept apart from 15:1 dejícere. The responsory V. 'Dóminus quasi vir pugnátor, Omnípotens nomen ejus' is the first colon and reads alone.",
+    "15:5": "Mare Rubrum → Mar Vermelho (105:7b, 105:9, 135:13). submérgere → submergir (68:3b). abýssus → abismo (D42). operíre → cobrir (77:53, 105:11). profúndum (βυθός) → profundeza (68:3, 68:16), kept apart from abýssus. quasi lapis → como uma pedra, identical at 15:18.",
+    "15:6": "déxtera → a vossa direita (glossary; the Lectionary's 'braço' is the Hebrew paraphrase's). magnificáta est → se engrandeceu, as 15:1. in fortitúdine → em força (fortitúdo → força). percútere → ferir. in multitúdine → na multidão (5:7b, 68:14). depónere (people) → abater (58:12b row). adversárius → adversário. Only the one '*' the Latin has.",
+    "15:7": "míttere iram → enviar (the psalter's 'enviar' for míttere; 'Derramai' is effúndere's). devoráre → devorar. stípula → palha (82:14). congregári of waters → juntar-se (32:7 'Ele junta … as águas do mar'); the same at 15:8.",
+    "15:8": "in médio mari → no meio do mar. congregátæ sunt abýssi → juntaram-se os abismos (as 15:7).",
+    "15:9": "The enemy speaks in the first person, all futures: 'Perseguirei e prenderei' (pérsequi → perseguir; comprehéndere → prender, the row, twice after pérsequi at 17:38, 70:11). dívidere spólia → repartir os despojos (67:13).",
+    "15:10": "evagináre → desembainhar (36:14). gládius → espada. interfícere alone → matar (9:29, 100:8).",
+    "15:11": "operíre → cobrir, as 15:5. plumbum → chumbo. vehemens → impetuoso (D43; 47:7 'vento impetuoso'). The Latin repeats 'submérsi sunt' from 15:5; the Portuguese repeats 'foram submersos'.",
+    "15:12": "Quis símilis tui → quem é semelhante a vós (34:10, 70:19, 88:9, and 85:8 'semelhante a vós' for 'símilis tui'). in fórtibus → entre os fortes (fortes row; LH the same; the Hebrew/85:8 'gods' is not the Latin). magníficus → magnífico (no row; the adjective of magnificéntia, 8:2b). sanctitas → santidade. terríbilis → terrível (D43). laudábilis → digno de louvor (47:2, 95:4, 144:3). atque → e. fáciens mirabília → que fazeis maravilhas (76:14b, 85:10).",
+    "15:13": "extendísti manum tuam → estendestes a vossa mão (137:7; LH the same). Dux fuísti → Fostes guia (79:10). in misericórdia tua → na vossa misericórdia. redímere → resgatar (73:2b 'Resgatastes', 76:15).",
+    "15:14": "portáre → levar (90:12 'Nas mãos te levarão'). 'vós' supplied as subject (checks −4 without it). in fortitúdine tua → na vossa força. habitáculum → morada (D44); the adjective after, as the Latin ('habitáculum sanctum'). ad → 'à'.",
+    "15:15": "ascéndere → subir (121:4). irásci → irar-se. dolor → dor (47:7).",
+    "15:16": "Tunc → Então. conturbáre → perturbar (47:6, 63:9). Edom, Moab (82:8, 136:7a), Canaã (104:11, 134:11). tremor → tremor (47:6). habitatóres → habitantes.",
+    "15:17": "See 'formido'.",
+    "15:18": "Fiant immóbiles → Fiquem imóveis. donec → até que. pertransíre → passar (104:13 row). pópulus tuus iste → este vosso povo. possidére → possuir (73:2 'que possuístes'). The Latin's repeated 'donec pertránseat pópulus tuus' is repeated.",
+    "15:19": "mons hereditátis tuæ → o monte da vossa herança (heréditas → herança).",
+    "15:20": "Sanctuárium → santuário (72:17, 73:7). firmáre → firmar (92:1b, 135:6). manus tuæ → as vossas mãos. regnábit → reinará (9:37).",
+    "15:21": "íngredi → entrar (row). redúcere → trazer (70:20), with 212's 'trazer de volta' where no 'íterum' carries the return. aquæ maris → as águas do mar (32:7).",
+    "15:22": "Fílii Israël → os filhos de Israel. autem → mas. ambuláre → andar (row)."
+  },
+  "audit": [
+    {
+      "step": "source",
+      "note": "Latin = DO Psalm224.txt (DO files the canticles as Psalms 210–273). 22 lines, ids 15:1–15:22 as DO numbers them; the text is Vulgate Exod 15:1–19 (DO 1–3 = V 1–2, 4 = V 3–4a … 22 = V 19b; map in consult/parallels/ps224.md), checked against Bolls VULG (consult/ps224/bolls-VULG-2-15.json). The heading line '(Canticum Moysis * Exod. 15:1-22)' is skipped by latin.readVerses and not translated (D7). render.py and checks.py are run with the DO number 224, as for 214 and 233."
+    },
+    {
+      "step": "draft",
+      "note": "parallels.py cannot build a canticle (it expects a psalm number), so ps224/show_parallels.py writes consult/parallels/ps224.md (not inside ps224/, the repo being public): Vulgate, DRB, WLC and CNBB from Bolls (consult/ps224/); the LXX Exod 15 from the Rahlfs CSVs; Matos Soares 1932 from pdftotext of printed pp. 125–127 (consult/ps224/ms1932-ex15-p125-127.txt); DM1962, Thursday Lauds (consult/diurnal-1.md); DO's Portuguese, marked not an authority. No shared script was edited. Glossary lookups via ps224/gloss.py and ps224/gloss_brief.py; precedent via ps224/concord.py (copies of ps214's). Circulation (CNBB LH Saturday Lauds I; the Vigil responsory 'Cantemos ao Senhor que fez brilhar a sua glória!') in circulation.md. Hard readings: magnificátus est (engrandecer against the Vigil's 'fez brilhar'); dejécit / projécit kept apart; spíritus at 15:7 ('sopro') and 15:11 ('espírito'); obtinére against apprehéndere's 'apoderar-se'; formído et pavor (collision with 54:5's 'pavor'); in ætérnum et ultra; eques Phárao."
+    },
+    {
+      "step": "checks",
+      "note": "Hard pass (ids 15:1–15:22, marks as the Latin: one '*' per line, no † ‡). Soft flags: 15:14a was −4 → 'vós' supplied (now −3). Accepted: 15:8a +5 (a 6-syllable Latin colon; the participle 'fluens' needs a clause — 'Parou a onda que corria', +2, is option 2 of 'unda'); 15:4a +4 and 15:16a +4 (heuristic overcounts: 'como um', 'é o', 'perturbaram os', 'príncipes de Edom' elide when said; nothing added to the Latin); 15:21b +3 ('trazer de volta', 212's); 15:6 −3/−3, 15:10b −3, 15:19b −3 (nothing of the Latin left out). Rhyme flag 15:3 'glorificarei / exaltarei': the Latin's own parallel 'glorificábo / exaltábo', kept."
+    }
+  ]
+}
