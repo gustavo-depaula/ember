@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "62b51ba38d7ded509b2bbb5e9972c97b23f5d46647032421cfa76f7df33c2121",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T08:32:52+00:00",
+  "reply": "{\"verses\": [], \"overall\": \"The translation is adequate throughout: tense, person and voice match the Latin (acreditei/falei, fui humilhado, retribuirei, tomarei, sacrificarei), the Septuagintal 'in excessu meo' is kept as 'fora de mim' without being resolved into a Hebrew-style 'in my haste', and the Latin's distinction between 'coram omni populo' (diante de) and 'in conspectu omnis populi' (à vista de) is preserved. Supplied copulas (é mentiroso, é preciosa, eu sou) are the permitted kind, and the pointing marks (*, and ‡ then * in 7b) match the Latin in kind and order.\"}\n"
+}

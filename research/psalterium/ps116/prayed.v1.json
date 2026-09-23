@@ -1,0 +1,133 @@
+{
+  "psalm": 116,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "hour": "Monday Lauds (1911 psalter, last psalm; DO Psalmi major [Day1 Laudes1/2]); Monday Vespers before 1911 ([Daya1 Vespera]) and in the Monastic and Cistercian Vespers (joined to 115); Benediction",
+  "verses": {
+    "116:1": "{v1a}: * louvai-o, todos os povos:",
+    "116:2": "Porque {confirmata} sobre nós a sua misericórdia: * e a verdade do Senhor permanece {aet}."
+  },
+  "decisions": [
+    {
+      "id": "v1a",
+      "refs": [
+        "116:1"
+      ],
+      "latin": "Laudáte Dóminum, omnes gentes",
+      "kind": "order",
+      "why": "Two questions in one slot. (1) Order: the Latin puts the verb first and the vocative after, in both cola, and the two cola are built alike (*Laudáte … omnes gentes: laudáte eum, omnes pópuli*); keeping that order keeps the parallel and the repeated verb at the head of each colon. Matos Soares 1932 fronts the vocative and splits *todas* from its noun (*Nações, louvai todas o Senhor*), which is an inversion for its own sake (rule 5). (2) Regency: the line is widely known in Brazil as *Louvai ao Senhor* (Almeida, Hebrew-based, and the Diurnal 1962 — both in `liturgy-br.txt` / parallels, neither a witness of sense). *Louvar* is a direct transitive verb, the Latin has an accusative, and the finished psalms say *louvai o nome* (99:4b) and *louvai-o* (21:24); Ps 112:1, drafted in parallel, has *Louvai, … o Senhor*. *Ao* is kept as an option because many Brazilian ears expect it.",
+      "options": [
+        {
+          "label": "Louvai o Senhor, todas as nações",
+          "forms": {
+            "v1a": "Louvai o Senhor, todas as nações"
+          },
+          "note": "Ruling: the Latin's order (verb, object, vocative), parallel to the second colon; direct object as the Latin's accusative; the same shape as the circulating Benediction rendering (unverified source, liturgy-br.txt).",
+          "from": "draft"
+        },
+        {
+          "label": "Louvai ao Senhor, todas as nações",
+          "forms": {
+            "v1a": "Louvai ao Senhor, todas as nações"
+          },
+          "note": "the regency the line is widely known with (Almeida; DM1962 *LOUVAI ao Senhor*); refused because *louvar* takes a direct object and the psalter has *louvai o nome* (99:4b), *louvai-o* (21:24).",
+          "from": "DM1962"
+        },
+        {
+          "label": "Nações, louvai todas o Senhor",
+          "forms": {
+            "v1a": "Nações, louvai todas o Senhor"
+          },
+          "note": "MS1932's order; refused: an inversion for its own sake (rule 5), and it breaks the parallel with the second colon unless that becomes *povos, louvai-o todos*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "confirmata",
+      "refs": [
+        "116:2"
+      ],
+      "latin": "confirmáta est super nos misericórdia ejus",
+      "kind": "glossary",
+      "why": "The Greek is ἐκραταιώθη, 'was made strong, prevailed' (DRB *is confirmed*). The *confirmáre* row takes *firmar* wherever *confirmar* would be heard as 'attested, proved' (36:17, 50:14), and has already given *firmar* to the same Greek verb under the same Latin verb (73:13, 79:16 ἐκραταίωσας → *firmastes*). The build *confirmátus est super me* is 87:8, rendered *Sobre mim se firmou o vosso furor*; this verse takes the same shape. The Brazilian ear's reading of *confirmada* is shown by the CNBB Liturgy of the Hours itself, which says *comprovado é seu amor* ('proved') — exactly the sense the Latin does not have. The cost: MS1932, DRB and the sung Benediction rendering (unverified source) all keep the cognate; a reader crossing columns loses *confirm-* for *firm-*, the same root. Ps 102:11 *corroborávit misericórdiam* (also κραταιόω) chose *fortaleceu* by the Greek; that is another Latin verb, so the Latin row governs here.",
+      "options": [
+        {
+          "label": "se firmou",
+          "forms": {
+            "confirmata": "se firmou"
+          },
+          "note": "Ruling: the confirmáre row's *firmar*; = 87:8's build (*se firmou sobre*).",
+          "from": "glossary"
+        },
+        {
+          "label": "foi confirmada",
+          "forms": {
+            "confirmata": "foi confirmada"
+          },
+          "note": "MS1932, DRB: the cognate and the Latin's passive; refused because it is heard as 'was proved true' (the CNBB's *comprovado*).",
+          "from": "MS1932"
+        },
+        {
+          "label": "foi firmada",
+          "forms": {
+            "confirmata": "foi firmada"
+          },
+          "note": "the Latin's passive with the row's verb (70:6 *fui firmado*); heavier, and with no agent the passive hangs.",
+          "from": "draft"
+        },
+        {
+          "label": "se fortaleceu",
+          "forms": {
+            "confirmata": "se fortaleceu"
+          },
+          "note": "the Greek's κραταιόω as 102:11 renders it; refused: that is *corroboráre*'s word, and the Latin here is *confirmáre*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "aet",
+      "refs": [
+        "116:2"
+      ],
+      "latin": "manet in ætérnum",
+      "kind": "glossary",
+      "why": "D23: *in ætérnum → para sempre*. *manére → permanecer* as 32:11 (*permanece para sempre*, the same two words) and 110:3, 111:3. MS1932 and the circulating Benediction rendering have *eternamente*; the CNBB has *para sempre ele é fiel*.",
+      "options": [
+        {
+          "label": "para sempre",
+          "forms": {
+            "aet": "para sempre"
+          },
+          "note": "Ruling: D23; = 32:11.",
+          "from": "glossary"
+        },
+        {
+          "label": "eternamente",
+          "forms": {
+            "aet": "eternamente"
+          },
+          "note": "MS1932; D23's option; five syllables where the Latin phrase is light.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "116:1": "*laudáre → louvar* (kept apart from *confitéri → dar graças*, D5), repeated in both cola as the Latin repeats *laudáte* — the Greek varies (αἰνεῖτε / ἐπαινέσατε) and DM1962, from the Hebrew, varies (*celebrai*); the Latin's repetition is kept (rule 2). *gentes → nações*, *pópuli → povos* (glossary rows; *todas as nações* as 48:2, 46:2). *Louvai* and *louvai-o* are safe at the *vós* imperative (past *louvei*). Plural humans → *vós*. The Latin's colon at the end is kept (the sentence runs on into 116:2).",
+    "116:2": "*quóniam → porque*. The Latin's order is kept: the mercy stands at the mediant and the truth at the close, as in the Latin; *sobre nós* after the verb as *super nos*. *misericórdia → misericórdia* (row; the CNBB's *amor* and Almeida's *benignidade* are the Hebrew's). *véritas Dómini → a verdade do Senhor* (row: not the Hebrew-based *fidelidade*; the CNBB's *ele é fiel*). *manet → permanece* (as 32:11, 110:3). checks: first colon −3, second +3 on the Latin (heuristic): accepted — the first cannot grow without supplying a word, the second has nothing to cut (*e a verdade do Senhor* is the Latin's four words; *para sempre* is D23's phrase). Both antiphons of Monday Lauds are cut from this psalm (*Laudáte * Dóminum omnes gentes*; *Laudáte * Dóminum quóniam confirmáta est super nos misericórdia ejus*, DO Psalmi major): *Louvai * o Senhor, todas as nações* and *Louvai * o Senhor, porque se firmou sobre nós a sua misericórdia* read alone."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Draft from the parallels (Latin, LXX, Hebrew, DRB, MS1932, DM1962 v. 1 only). Brazilian liturgical use checked on the web (liturgy-br.txt): the CNBB Liturgy of the Hours text (fetched) is from the Hebrew and paraphrastic; no official Portuguese Benediction text was found. Hard reading: *confirmáta est* (decision `confirmata`)."
+    },
+    {
+      "step": "checks",
+      "note": "hard pass; soft: 116:2 first colon −3, second +3 syllables, accepted (see choices). All cadences oxytone or paroxytone."
+    }
+  ]
+}

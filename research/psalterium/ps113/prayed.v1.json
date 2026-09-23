@@ -1,0 +1,535 @@
+{
+  "psalm": 113,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "113:1": "{exitu} do Egito, * a casa de Jacó, de um povo {barbaro}:",
+    "113:2": "A Judeia tornou-se {sanctificatio}, * Israel, {potestas}.",
+    "113:3": "O mar viu, e fugiu: * o Jordão voltou para trás.",
+    "113:4": "Os montes {exs4} como carneiros, * e as colinas como cordeiros das ovelhas.",
+    "113:5": "Que tens tu, mar, que fugiste: * e tu, Jordão, que voltaste para trás?",
+    "113:6": "Montes, {exs6} como carneiros, * e colinas, {q6}",
+    "113:7": "À face do Senhor a terra se abalou, * à face do Deus de Jacó.",
+    "113:8": "Que converteu a rocha em lagoas de água, * e o {rupem} em fontes de água.",
+    "113:9": "Não a nós, Senhor, não a nós: * mas ao vosso nome dai glória.",
+    "113:10": "{super}: * para que não digam as nações: Onde está o Deus deles?",
+    "113:11": "O nosso Deus, porém, está no céu: * tudo o que quis, ele fez.",
+    "113:12": "Os ídolos das nações são prata e ouro, * obras das mãos dos homens.",
+    "113:13": "Têm boca, e não {loq}: * têm olhos, e não {vid}.",
+    "113:14": "Têm ouvidos, e não {aud}: * têm nariz, e não {odo}.",
+    "113:15": "Têm mãos, e não {palp}: † têm pés, e não {amb}: * não {clam} com a sua garganta.",
+    "113:16": "{fiant} semelhantes a eles os que os fazem: * e todos os que confiam neles.",
+    "113:17": "A casa de Israel esperou no Senhor: * {adj},",
+    "113:18": "A casa de Aarão esperou no Senhor: * {adj},",
+    "113:19": "Os que temem o Senhor esperaram no Senhor: * {adj}.",
+    "113:20a": "O Senhor se lembrou de nós: * e nos bendisse:",
+    "113:20b": "Bendisse a casa de Israel: * bendisse a casa de Aarão.",
+    "113:21": "Bendisse todos os que temem o Senhor, * os pequenos com os {maj}.",
+    "113:22": "O Senhor acrescente {adic1}: * {adic2}.",
+    "113:23": "{benedicti} pelo Senhor, * que fez o céu e a terra.",
+    "113:24": "O céu do céu é do Senhor: * a terra, porém, deu-a aos filhos dos homens.",
+    "113:25": "{mortui}, Senhor: * {neque} que descem ao inferno.",
+    "113:26": "Mas nós, que vivemos, bendizemos ao Senhor, * desde agora e para todo o sempre."
+  },
+  "decisions": [
+    {
+      "id": "exitu",
+      "refs": [
+        "113:1"
+      ],
+      "latin": "In éxitu Israël de Ægýpto",
+      "kind": "grammar",
+      "why": "The Latin opens with a noun phrase (ἐν ἐξόδῳ, 'in the going-out'). Portuguese says the event as a clause; turning a verbal noun into its verb is grammar (D2), and the sense is unchanged. MS1932 'Quando Israel saiu do Egito' and 80:6 'quando saía da terra do Egito' (in éxitu de terra Ægýpti) are the witnesses. The noun is kept at 73:5 because there it is a place ('na saída'), not a time. This line is the psalm's incipit and must read alone.",
+      "options": [
+        {
+          "label": "Quando Israel saiu",
+          "forms": {
+            "exitu": "Quando Israel saiu"
+          },
+          "note": "Ruling: the event as a clause; MS1932 and 80:6.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Na saída de Israel",
+          "forms": {
+            "exitu": "Na saída de Israel"
+          },
+          "note": "The Latin's noun kept. It is heard as a place ('at the exit') before it is heard as a time.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "barbaro",
+      "refs": [
+        "113:1"
+      ],
+      "latin": "de pópulo bárbaro",
+      "kind": "word",
+      "why": "Latin bárbarus and Greek βάρβαρος both mean a people of foreign speech; the Hebrew is 'of strange tongue'. Portuguese 'bárbaro' now means 'savage' first, which the Latin does not say, but it is the Latin's own word, and MS1932 and DRB ('barbarous people') keep it. The image of a foreign tongue is inside the word's history; 'estrangeiro' would explain it away. Kept by D2 (words stay), with the plainer word as the option.",
+      "options": [
+        {
+          "label": "bárbaro",
+          "forms": {
+            "barbaro": "bárbaro"
+          },
+          "note": "Ruling: the Latin's word, with MS1932 and DRB. Risk: heard as 'savage'.",
+          "from": "MS1932"
+        },
+        {
+          "label": "estrangeiro",
+          "forms": {
+            "barbaro": "estrangeiro"
+          },
+          "note": "The sense of foreign speech without the modern 'savage'; loses the word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "sanctificatio",
+      "refs": [
+        "113:2"
+      ],
+      "latin": "Facta est Judǽa sanctificátio ejus",
+      "kind": "glossary",
+      "why": "The sanctificátio row gives 'santificação' (95:6 'na sua santificação'). The Greek ἁγίασμα can be a holy place, and the CNBB (Hebrew) says 'templo'; DRB 'sanctuary'; MS1932 paraphrases ('Deus consagrou ao seu serviço o povo de Judá'). The Latin noun is the abstract, and D2 keeps it: Judea became the thing God made holy. Ps 131:8 'arca sanctificatiónis' and 131:18 will meet the same row. 'ejus' is God (the Hebrew and the sense), and 'a sua' is unambiguous after 'Israel … Jacó' only by context; a reader may hear 'Israel's'. That is the Latin's own ambiguity.",
+      "options": [
+        {
+          "label": "a sua santificação",
+          "forms": {
+            "sanctificatio": "a sua santificação"
+          },
+          "note": "Ruling: the row; the Latin abstract.",
+          "from": "glossary"
+        },
+        {
+          "label": "o seu santuário",
+          "forms": {
+            "sanctificatio": "o seu santuário"
+          },
+          "note": "The Greek's possible concrete sense, DRB's word. Resolves the abstract.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "potestas",
+      "refs": [
+        "113:2"
+      ],
+      "latin": "Israël potéstas ejus",
+      "kind": "glossary",
+      "why": "potéstas is elsewhere 'poder' (61:12, 88:10, 89:11), where the Greek is κράτος (strength). Here the Greek is ἐξουσία, rule over a domain: Israel became the realm God rules, which is how dominátio 'domínio' is rendered (102:22 ἐν παντὶ τόπῳ τῆς δεσποτείας). By the D15 Greek test one Latin word splits where the Greek differs. 'Israel, o seu poder' would say Israel is God's strength, which is not the sense. DRB 'his dominion'; MS1932 paraphrases ('estabeleceu em Israel o seu império'), also a realm. Proposed row: potéstas (ἐξουσία) → domínio; 135:8–9 (in potestátem diéi / noctis) is the next test.",
+      "options": [
+        {
+          "label": "o seu domínio",
+          "forms": {
+            "potestas": "o seu domínio"
+          },
+          "note": "Ruling: the Greek ἐξουσία, with DRB.",
+          "from": "DRB"
+        },
+        {
+          "label": "o seu poder",
+          "forms": {
+            "potestas": "o seu poder"
+          },
+          "note": "The potéstas row where the Greek is κράτος; here it would make Israel God's strength.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "exsultare",
+      "refs": [
+        "113:4",
+        "113:6"
+      ],
+      "latin": "Montes exsultavérunt ut aríetes … Montes, exsultástis sicut aríetes",
+      "kind": "glossary",
+      "why": "The exsultáre row gives 'exultar', and the Latin verb is the same as in 15:9 or 83:3. But the Greek here is σκιρτάω, 'to leap, skip' (of young animals), the only place in the psalter the Septuagint uses it (the LXX's other uses, from consult/lxx-text_accented.csv: Gen 25:22, Wis 17:18, Wis 19:9 'leaped like lambs', Joel 1:17, Mal 3:20, Jer 27:11 — leaping, mostly of young animals). Lewis & Short gives exsultáre's first sense as 'to leap up, spring, bound', of animals. The image is rams skipping, and 'as montanhas exultaram como carneiros' loses it: rams do not rejoice, they leap. D15 splits a Latin word where the Greek behind it differs; D2 keeps the image. DRB 'skipped'; MS1932 'saltaram (de alegria)', adding the joy; DM1962 (Hebrew) 'pularam'. The cost is that the Latin's exsultáre is no longer heard as the psalter's word of joy. Proposed row: exsultáre (σκιρτάω) → saltar.",
+      "options": [
+        {
+          "label": "saltaram / saltastes",
+          "forms": {
+            "exs4": "saltaram",
+            "exs6": "saltastes"
+          },
+          "note": "Ruling: the Greek σκιρτάω and the literal sense of the Latin, with DRB and MS1932's verb. 'saltastes' is not a first-person homograph.",
+          "from": "DRB"
+        },
+        {
+          "label": "exultaram / exultastes",
+          "forms": {
+            "exs4": "exultaram",
+            "exs6": "exultastes"
+          },
+          "note": "The exsultáre row. Keeps the Latin word identical to the rest of the psalter; the rams stop leaping.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "refs": [
+        "113:6"
+      ],
+      "latin": "et colles, sicut agni óvium.",
+      "kind": "grammar",
+      "why": "DO's Latin prints 113:6 as a statement (period), after the question of 113:5; the verse still begins with vocatives. DRB and MS1932 continue the question. Our Latin is the source, so the period stays. Read as a statement, the verse answers the question of 113:5 with the psalmist's own wonder ('you, mountains, leapt like rams').",
+      "options": [
+        {
+          "label": "statement",
+          "forms": {
+            "q6": "como cordeiros das ovelhas."
+          },
+          "note": "Ruling: DO's punctuation.",
+          "from": "draft"
+        },
+        {
+          "label": "question",
+          "forms": {
+            "q6": "como cordeiros das ovelhas?"
+          },
+          "note": "DRB and MS1932: the question of 113:5 continues.",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "rupem",
+      "refs": [
+        "113:8"
+      ],
+      "latin": "et rupem in fontes aquárum",
+      "kind": "word",
+      "why": "petra and rupes are two words in the Latin (πέτρα / ἀκρότομος, 'sheer cliff'), and 'rocha' is taken by petra (row). The second word needs its own Portuguese: 'penhasco' is the steep rock face, the Greek's sense. 'rochedo' is a synonym of 'rocha' and would blur the pair. MS1932 takes 'pedras' for petra and 'rocha' for rupes; DRB 'stony hill'.",
+      "options": [
+        {
+          "label": "penhasco",
+          "forms": {
+            "rupem": "penhasco"
+          },
+          "note": "Ruling: the Greek ἀκρότομος, a steep rock; distinct from rocha.",
+          "from": "draft"
+        },
+        {
+          "label": "rochedo",
+          "forms": {
+            "rupem": "rochedo"
+          },
+          "note": "Plainer, but a near-twin of 'rocha'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "super",
+      "refs": [
+        "113:10"
+      ],
+      "latin": "Super misericórdia tua, et veritáte tua",
+      "kind": "word",
+      "why": "super with the ablative (ἐπὶ τῷ ἐλέει σου) gives the ground: 'for the sake of, on account of'. 'Pela' is the plain Portuguese for a ground and keeps the colon short; 'por causa da' is heavier and says the same. The colon hangs on 113:9's 'dai glória': give glory for your mercy's sake. The repeated 'tua' is kept as 'vossa … vossa'.",
+      "options": [
+        {
+          "label": "Pela vossa misericórdia e pela vossa verdade",
+          "forms": {
+            "super": "Pela vossa misericórdia e pela vossa verdade"
+          },
+          "note": "Ruling: plain ground, the Latin pair repeated. (MS1932 paraphrases with a purpose clause.)",
+          "from": "draft"
+        },
+        {
+          "label": "Por causa da vossa misericórdia e da vossa verdade",
+          "forms": {
+            "super": "Por causa da vossa misericórdia e da vossa verdade"
+          },
+          "note": "Explicit ground; longer by three syllables.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "futures",
+      "refs": [
+        "113:13",
+        "113:14",
+        "113:15"
+      ],
+      "latin": "Os habent, et non loquéntur … non clamábunt in gútture suo",
+      "kind": "grammar",
+      "why": "The Latin (and the Greek) puts every 'not' verb in the future: loquéntur, vidébunt, áudient, odorábunt, palpábunt, ambulábunt, clamábunt; 'habent' is present. DRB and MS1932 turn them to the present ('speak not'). The future says more than the present: the idols never will, however long they are waited on. D2 keeps the tense because the tense carries sense, not only grammar. The seven '-ão' endings are the Latin's own echo (its seven '-bunt / -ent'), so the rhyme is not sought (rule 5).",
+      "options": [
+        {
+          "label": "futures",
+          "forms": {
+            "loq": "falarão",
+            "vid": "verão",
+            "aud": "ouvirão",
+            "odo": "cheirarão",
+            "palp": "apalparão",
+            "amb": "andarão",
+            "clam": "clamarão"
+          },
+          "note": "Ruling: the Latin tense.",
+          "from": "draft"
+        },
+        {
+          "label": "presents",
+          "forms": {
+            "loq": "falam",
+            "vid": "veem",
+            "aud": "ouvem",
+            "odo": "cheiram",
+            "palp": "apalpam",
+            "amb": "andam",
+            "clam": "clamam"
+          },
+          "note": "DRB and MS1932: the general present. Shorter; loses the never.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "fiant",
+      "refs": [
+        "113:16"
+      ],
+      "latin": "Símiles illis fiant qui fáciunt ea",
+      "kind": "word",
+      "why": "fíeri with símilis is 'become like' (48:13 'se fez semelhante a eles'; 101:7 'Tornei-me semelhante'). The Latin has a play, fiant / fáciunt ('let them be made … who make them'), and 'Façam-se … os que os fazem' keeps it, as 48:13 keeps 'se fez'. It is a wish (subjunctive), not a statement: DRB 'Let them that make them become like unto them'. 'Sejam semelhantes' is MS1932's and loses the becoming. The parallel 134:18 has the same Latin and should copy.",
+      "options": [
+        {
+          "label": "Façam-se",
+          "forms": {
+            "fiant": "Façam-se"
+          },
+          "note": "Ruling: keeps the fiant/fáciunt echo; 48:13's verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Tornem-se",
+          "forms": {
+            "fiant": "Tornem-se"
+          },
+          "note": "101:7's verb; plainer, loses the echo.",
+          "from": "draft"
+        },
+        {
+          "label": "Sejam",
+          "forms": {
+            "fiant": "Sejam"
+          },
+          "note": "MS1932; loses the becoming.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "adj",
+      "refs": [
+        "113:17",
+        "113:18",
+        "113:19"
+      ],
+      "latin": "adjútor eórum et protéctor eórum est",
+      "kind": "ambiguity",
+      "why": "The refrain repeats eórum twice and closes on est; the subject (God) is in the verb. The name 'ele' is supplied (D2, a subject hidden in the verb). 'eórum' is plural while 'casa' is singular: the Latin thinks of the house as its members. 'o seu auxílio e o seu protetor' after 'A casa … esperou no Senhor' could be heard as 'the Lord's own help', or as the house's; 'deles' names the people and keeps the repetition. adjútor → auxílio (row, uniform), so the pair is an abstract and an agent: the Latin has two agent nouns; this is a known cost of the row.",
+      "options": [
+        {
+          "label": "ele é o auxílio deles e o protetor deles",
+          "forms": {
+            "adj": "ele é o auxílio deles e o protetor deles"
+          },
+          "note": "Ruling: the plural eórum as the people; the repetition kept.",
+          "from": "draft"
+        },
+        {
+          "label": "ele é o seu auxílio e o seu protetor",
+          "forms": {
+            "adj": "ele é o seu auxílio e o seu protetor"
+          },
+          "note": "Lighter; 'seu' may be heard as the Lord's own.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "maj",
+      "refs": [
+        "113:21"
+      ],
+      "latin": "pusíllis cum majóribus",
+      "kind": "word",
+      "why": "majóribus is a comparative ('the greater'). 103:26 'pusílla cum magnis' was rendered 'pequenos com os grandes', but there the Latin has the positive. Portuguese 'os maiores' beside 'os pequenos' is the Latin's own slight unevenness; 'os grandes' is the idiom 'pequenos e grandes'. Plainer word taken: the comparative and positive say the same here (all, small and great), and the idiom reads alone.",
+      "options": [
+        {
+          "label": "os grandes",
+          "forms": {
+            "maj": "grandes"
+          },
+          "note": "Ruling: the idiom 'pequenos e grandes', as 103:26.",
+          "from": "draft"
+        },
+        {
+          "label": "os maiores",
+          "forms": {
+            "maj": "maiores"
+          },
+          "note": "The Latin comparative. DRB 'both little and great' and MS1932 'os pequenos e os grandes' agree with the ruling.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "adiciat",
+      "refs": [
+        "113:22"
+      ],
+      "latin": "Adíciat Dóminus super vos: * super vos, et super fílios vestros.",
+      "kind": "glossary",
+      "why": "adícere super (προσθείη … ἐφ᾽ ὑμᾶς) is 'add upon you', the Hebrew idiom of increase; the Latin gives no object, and 'bênçãos' (MS1932) would supply one. The adícere row is 'acrescentar a' with 'sobre' as the option. The three-fold super must stay three-fold (D2, repetition): 'a vós: a vós, e aos vossos filhos' keeps it. The jussive is 'O Senhor acrescente', as 133:3 'O Senhor te bendiga'.",
+      "options": [
+        {
+          "label": "a vós",
+          "forms": {
+            "adic1": "a vós",
+            "adic2": "a vós, e aos vossos filhos"
+          },
+          "note": "Ruling: the row, the repetition kept.",
+          "from": "glossary"
+        },
+        {
+          "label": "sobre vós",
+          "forms": {
+            "adic1": "sobre vós",
+            "adic2": "sobre vós, e sobre os vossos filhos"
+          },
+          "note": "The row's option; the Latin's super, heard as something poured upon.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "benedicti",
+      "refs": [
+        "113:23"
+      ],
+      "latin": "Benedícti vos a Dómino",
+      "kind": "grammar",
+      "why": "No verb in the Latin; the Greek εὐλογημένοι ὑμεῖς is a wish or a statement. Supplying the subjunctive 'sejais' gives the wish that the verse's place (after 113:22's jussive) asks for, and keeps the Latin's 'vos'. 'Sede benditos' (MS1932) turns it into a command to the people. a Dómino → 'pelo Senhor' (agent).",
+      "options": [
+        {
+          "label": "Benditos sejais vós",
+          "forms": {
+            "benedicti": "Benditos sejais vós"
+          },
+          "note": "Ruling: the wish, the Latin's vos kept.",
+          "from": "draft"
+        },
+        {
+          "label": "Sede benditos",
+          "forms": {
+            "benedicti": "Sede benditos"
+          },
+          "note": "MS1932: an imperative.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "mortui",
+      "refs": [
+        "113:25"
+      ],
+      "latin": "Non mórtui laudábunt te, Dómine",
+      "kind": "order",
+      "why": "The Latin puts 'non' on 'mórtui', not on the verb: 'not the dead will praise you', answered by 113:26 'Sed nos qui vívimus'. The cleft 'Não são os mortos que vos louvarão' keeps the negation where the Latin put it and prepares the 'Mas nós'. 'Os mortos não vos louvarão' (MS1932 'Os mortos, Senhor, não te louvarão'; DRB 'The dead shall not praise thee') is plainer and says the same fact, but loses the contrast.",
+      "options": [
+        {
+          "label": "Não são os mortos que vos louvarão",
+          "forms": {
+            "mortui": "Não são os mortos que vos louvarão"
+          },
+          "note": "Ruling: the negation on the noun, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "Os mortos não vos louvarão",
+          "forms": {
+            "mortui": "Os mortos não vos louvarão"
+          },
+          "note": "Plainer, MS1932 and DRB.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "neque",
+      "refs": [
+        "113:25"
+      ],
+      "latin": "neque omnes, qui descéndunt in inférnum",
+      "kind": "ambiguity",
+      "why": "'neque omnes' means 'nor any of those who', but word for word it can be heard as 'nor all' (some will). The Latin has the same surface; D2 keeps it and the parallel with 'Não … os mortos' leads the ear to the right sense. DRB 'nor any of them'. 'nem quantos' says 'none of them' without that risk; MS1932 'nem os que' drops omnes.",
+      "options": [
+        {
+          "label": "nem todos os",
+          "forms": {
+            "neque": "nem todos os"
+          },
+          "note": "Ruling: the Latin's words; heard as 'nor all' only by a hurried ear.",
+          "from": "draft"
+        },
+        {
+          "label": "nem quantos",
+          "forms": {
+            "neque": "nem quantos"
+          },
+          "note": "Resolves the reading: none of those who descend.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "113:1": "domus Jacob → a casa de Jacó (domus → casa). The commas keep 'de um povo bárbaro' with 'saiu' (from a foreign people).",
+    "113:2": "Judǽa → Judeia (75:2 'na Judeia'). 'Facta est' → 'tornou-se' (a state come upon the subject, fíeri row). The second colon's verb is understood, as in the Latin.",
+    "113:3": "retrórsum → voltar para trás (row; 9:4, 43:11). Jordánis → Jordão (41:7).",
+    "113:4": "aríes → carneiro (64:14 'carneiros das ovelhas'); collis → colina (row); agni óvium → cordeiros das ovelhas, the Latin's genitive kept.",
+    "113:5": "'Quid est tibi' → 'Que tens tu' (the Portuguese idiom for 'what ails you'); the sea and the Jordan are singular non-divine addressees, so tu (rule 3). quia after convérsus es is 'that', so 'que voltaste' parallels 'que fugiste'.",
+    "113:7": "A fácie → À face de (row, 96:5 'à face do Senhor'); movéri → abalar-se (45:7). The repeated 'a fácie' repeats.",
+    "113:8": "'Que' opens the verse for the Latin relative Qui (as 104:9 'Que'). stagna aquárum → lagoas de água (106:35, identical Latin). fontes aquárum → fontes de água, so the Latin's repeated aquárum repeats.",
+    "113:9": "The familiar head 'Não a nós, Senhor, não a nós' is kept word for word from the Brazilian use (CNBB LH, Mass refrain; see liturgical-use-brazil.md), without 'ó' by the vocative rule. da glóriam is an imperative → 'dai glória' (safe: not a first-person past).",
+    "113:10": "nequándo → para que não (row). Deus eórum → o Deus deles, since 'o seu Deus' would be heard as the nations' own god or as ours ambiguously (41:4 'Onde está o teu Deus?' is the same question).",
+    "113:11": "autem → porém (row). The Latin copula is supplied ('está'). 'ómnia quæcúmque vóluit, fecit' → 'tudo o que quis, ele fez', the Latin order kept with the object first; 134:6 has the same Latin with Dóminus and should match.",
+    "113:12": "simulácrum → ídolo (row, open; 134:15 is identical Latin and should copy). The copula 'são' supplied. ópera → obras (plural kept).",
+    "113:13": "os → boca; verbs in the Latin's future (decision futures). Order 'Têm boca' puts the verb first as Portuguese does; the Latin's object-first order is an inversion Portuguese does not need (D2 order). 113:13–15 is identical Latin with 134:16–17 in part and should copy.",
+    "113:14": "nares → nariz, DM1962's word (the singular is the Portuguese body noun; MS1932 'narizes'; 'narinas' is anatomical). aures → ouvidos.",
+    "113:15": "palpáre → apalpar (feel with the hands); 'in gútture suo' → 'com a sua garganta' (the Latin in of instrument; 'na garganta' would be where, not with what).",
+    "113:16": "'ea' (the idols, neuter) → 'os'. confídere in → confiar em (row).",
+    "113:17": "speráre in → esperar em (D36). The comma at the end of 113:17 and 113:18 follows the Latin.",
+    "113:19": "Qui timent Dóminum → Os que temem o Senhor (117:4). The Latin comma between subject and verb is not reproduced, since Portuguese does not put one there.",
+    "113:20a": "memor esse → lembrar-se de (row); proclisis 'se lembrou' after the subject (Brazilian order). benedícere God→man: the dative is made direct (row): 'nos bendisse'.",
+    "113:20b": "dómui Israël → a casa de Israel, the dative made direct (row); 'a casa de Aarão' (117:3).",
+    "113:21": "'Bendisse todos os que temem': direct object (row).",
+    "113:23": "'qui fecit cælum et terram' → 'que fez o céu e a terra' (formula; 133:3 has 'ele que fez' because the verse there begins with a vocative clause; here the relative follows its noun directly).",
+    "113:24": "'Cælum cæli' → 'O céu do céu' (67:33b); the copula 'é' supplied; autem → porém (row). 'deu-a' takes up the fronted 'a terra' with the pronoun (the Latin fronts terram; Portuguese needs the resumptive), as MS1932 'mas a terra deu-a'.",
+    "113:25": "te → vos (God is vós). inférnus → inferno (row, open). The Latin comma after omnes is not reproduced, since it falls inside 'nem todos os que'.",
+    "113:26": "benedícere man→God keeps the dative: 'bendizemos ao Senhor' (row, Ps 102). 'ex hoc nunc et usque in sǽculum' → 'desde agora e para todo o sempre', identical to 112:2 (sibling psalm, same Latin) and D37."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Draft 1 (Claude Opus) from the parallels (Latin, LXX, Hebrew, DRB, MS1932, DM1962) and the literal scaffold. DO's Latin was read for the ids: 113:1 … 113:19, 113:20a, 113:20b, 113:21 … 113:26 (27 prayed verses; the Hebrew 114 + 115 are one psalm here). 113:15 is the only verse with †. The Exodus words follow Pss 77, 104, 105 and 106 (Egito, Jacó, Aarão, rocha, lagoas de água). 113:12–16 is written as the model for 134:15–18, which is not yet done. The Brazilian liturgical wording was fetched (liturgiadashoras.online, CNBB LH) and is recorded in liturgical-use-brazil.md; only 'Não a nós, Senhor, não a nós' is shared. Hard readings: 113:2 (sanctificátio, potéstas), 113:4/6 (exsultáre = σκιρτάω), 113:6 (statement or question), 113:13–15 (futures), 113:22 (adícere without object), 113:25 (neque omnes)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 113:4 and 113:6 second colon +4/+3 ('cordeiros das ovelhas', the Latin genitive and 64:14's wording); 113:5 −3 and 113:11 −3, 113:13 −3, 113:15 † −3 (Portuguese is shorter than the Latin's futures and 'quia convérsus es'; not padded); 113:26 +3 (the formula of 112:2 and D37). Rhymes accepted as the Latin's own echoes: 113:8 'água … água' (aquárum … aquárum); 113:13–15 the '-ão' futures (the Latin's -bunt / -ent, decision futures); 113:16–19 '-eles' (eis, then eórum … eórum in the refrain). 113:24 shortened from 'ele a deu' (+4) to 'deu-a'."
+    }
+  ]
+}

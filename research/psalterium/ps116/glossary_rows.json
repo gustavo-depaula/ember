@@ -1,0 +1,12 @@
+{
+  "append": [
+    {"row": "| confirmáre |", "text": "**Ps 116:2 *Quóniam confirmáta est super nos misericórdia ejus* → *Porque se firmou sobre nós a sua misericórdia*** (ἐκραταιώθη; the build of 87:8 *Sobre mim se firmou*). The CNBB Liturgia das Horas has *comprovado é seu amor* (fetched, ps116/liturgy-br.txt) — the 'proved' hearing of *confirmada* printed in the official book, so the row's *firmar* holds. The v1 Latinist and the blind reader passed it (heard 'established upon us'); the v2 gate asked the passive *foi confirmada* (minor, voice), held; *foi confirmada* (MS1932, DRB) and *foi firmada* are options. Note 102:11 *corroborávit* (the same Greek) is *fortaleceu*: two Latin verbs, two Portuguese."},
+    {"row": "| in ætérnum |", "text": "**Ps 116:2 *véritas Dómini manet in ætérnum* → *a verdade do Senhor permanece para sempre*** (D23; = 32:11's *permanece para sempre*); *eternamente* (MS1932, and the Portuguese sung with Mozart's setting, unverified source) the option. No reader remarked."},
+    {"row": "| véritas |", "text": "**Ps 116:2 *véritas Dómini* → *a verdade do Senhor*** (MS1932, DRB); the CNBB's *ele é fiel* and Almeida's are the Hebrew's. The blind reader heard doctrinal truth first, faithfulness second (as 53:7); kept."},
+    {"row": "| misericórdia |", "text": "Ps 116:2 *misericórdia ejus* → *a sua misericórdia*, at the mediant as in the Latin (CNBB *seu amor*, Almeida *benignidade*: the Hebrew's)."},
+    {"row": "| gentes |", "text": "**Ps 116:1 *Laudáte Dóminum, omnes gentes: laudáte eum, omnes pópuli* → *Louvai o Senhor, todas as nações: * louvai-o, todos os povos*** — *louvar* with a direct object (the regency *Louvai ao Senhor* of Almeida and DM1962 is an option); the Latin's repeated *laudáte* kept (DM1962 varies to *celebrai*)."}
+  ],
+  "formulas": [
+    "| *Laudáte * Dóminum omnes gentes* · *Laudáte * Dóminum quóniam confirmáta est super nos misericórdia ejus* (116:1a, 116:1a + 116:2a; the antiphons of Monday Lauds, Psalmi major [Day1 Laudes1/2]; *Laudáte * Dóminum omnes Gentes* at Vespers before 1911 and in the Cistercian office) · the whole psalm is customary at Benediction (not checked in DO) | *Louvai * o Senhor, todas as nações* · *Louvai * o Senhor, porque se firmou sobre nós a sua misericórdia* | open — Ps 116; each reads alone |"
+  ]
+}

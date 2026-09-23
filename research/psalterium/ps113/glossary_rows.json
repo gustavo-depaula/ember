@@ -1,0 +1,25 @@
+{
+  "append": [
+    {"row": "| adjútor |", "text": " **Ps 113:17–19 *adjútor eórum et protéctor eórum est* (×3) → *ele é o auxílio deles e o protetor deles*** — the Latinist asked (minor) for the agent noun at v1 (*auxiliador*) and again at the v2 gate (*ajudador*); refused on this row, kept as an option. The mixed abstract/agent pair is the row's known cost."},
+    {"row": "| exsultáre, exsultátio / lætári |", "text": " **Ps 113:4, 113:6 *Montes exsultavérunt / exsultástis ut aríetes* → *saltaram / saltastes*** — split off by D15: the Greek is σκιρτάω (leap, of young animals; the only psalter use), see the new row *exsultáre (σκιρτάω)*. *exultaram* option."},
+    {"row": "| inférnus / ínferi |", "text": " **Ps 113:25 *neque omnes, qui descéndunt in inférnum* → *nem todos os que descem ao inferno*** — the ambiguity reader again heard the hell of the damned; kept."},
+    {"row": "| adícere (days) |", "text": " **Ps 113:22 *Adíciat Dóminus super vos: * super vos, et super fílios vestros* (no object) → *O Senhor acrescente sobre vós: * sobre vós, e sobre os vossos filhos*** — v1 *a vós* (this row) was not Portuguese without an object (stylist) and lost the image of super (Latinist); *sobre* taken ×3. With no object, *sobre* is the form; with an object (60:7, 70:14) *a* stays."},
+    {"row": "| sanctificátio (ἁγίασμα, a holy place) |", "text": " **Ps 113:2 *Facta est Judǽa sanctificátio ejus* → *A Judeia tornou-se a sua santificação*** — the row kept; DRB 'sanctuary', MS1932 paraphrases, the CNBB (Hebrew) *templo*. The ambiguity reader heard 'the process of being made holy', and *a sua* as Judea's own; *o seu santuário* option."},
+    {"row": "| simulácrum |", "text": " **Ps 113:12 *Simulácra géntium argéntum, et aurum* → *Os ídolos das nações são prata e ouro*** — the Latinist asked for *simulacros* (minor, 'likenesses'); refused on the row, kept as an option. 134:15 is identical Latin and copies 113:12."},
+    {"row": "| stagna aquárum |", "text": " **Ps 113:8 copied: *converteu a rocha em lagoas de água*.** *fontes aquárum* → *fontes de água* in the same verse, so the Latin's repeated *aquárum* repeats."},
+    {"row": "| ex hoc nunc |", "text": " **Ps 113:26 copied: *desde agora e para todo o sempre*.**"},
+    {"row": "| collis |", "text": " **Ps 113:4, 113:6 applied (*as colinas como cordeiros das ovelhas*).**"},
+    {"row": "| aríes |", "text": " **Ps 113:4, 113:6 *ut aríetes … sicut agni óvium* → *como carneiros … como cordeiros das ovelhas*** (64:14's genitive kept)."},
+    {"row": "| petra |", "text": " **Ps 113:8 *petram … et rupem* → *a rocha … e o penhasco*** — rupes (ἀκρότομος) kept apart; see the new row *rupes*."}
+  ],
+  "terms": [
+    "| exsultáre (σκιρτάω, leaping of animals) | saltar (*Os montes saltaram como carneiros*) | open | Ps 113:4, 113:6 — the only σκιρτάω in the psalter (LXX elsewhere: Gen 25:22, Wis 17:18, Wis 19:9 'like lambs', Joel 1:17, Mal 3:20, Jer 27:11 — consult/lxx-text_accented.csv). L&S's first sense 'to leap, bound'. DRB 'skipped', MS1932 *saltaram (de alegria)*. Split from the exsultáre row by D15; *exultaram* option. None of the v1 or v2 readers objected. |",
+    "| potéstas (ἐξουσία, a realm ruled) | domínio (*Israel, o seu domínio*) | open | Ps 113:2 (DRB 'his dominion'). Where the Greek is κράτος (61:12, 88:10, 89:11) potéstas stays *poder*; *Israel, o seu poder* would make Israel God's strength. Shares *domínio* with dominátio (102:22) and impérium (85:16). The ambiguity reader heard 'Israel gained its own dominion' — the Latin's unnamed ejus. Next tests 135:8–9 *in potestátem diéi / noctis* (grep). *poder* option. |",
+    "| rupes | penhasco (*e o penhasco em fontes de água*) | open | Ps 113:8 (ἀκρότομος, a sheer rock), paired with petra → rocha. *rochedo* option (a near-twin of rocha). The ambiguity reader listed *penhasco* as unknown; kept. |",
+    "| nares | narinas (*têm narinas, e não cheirarão*) | open | Ps 113:14 (μυκτῆρας); 134:17 has no nares (grep before copying). v1 *nariz* (DM1962) changed the number — Latinist minor, taken. |",
+    "| pusílli cum majóribus | os pequenos com os grandes | open | Ps 113:21, after 103:26 *pusílla cum magnis* → *pequenos com os grandes*; the comparative is heard in the idiom (DRB, MS1932 agree). *maiores* option. |"
+  ],
+  "formulas": [
+    "| *Non nobis, Dómine, non nobis: * sed nómini tuo da glóriam* (113:9; V. and R. in the thanksgiving after Mass, missa Ordo/Post.txt — grep) · *Deus autem noster * in cælo: ómnia quæcúmque vóluit, fecit* (113:11) and *Nos qui vívimus * benedícimus Dómino* (113:26) (Sunday Vespers antiphons, Psalmi major — grep) | *Não a nós, Senhor, não a nós: * mas ao vosso nome dai glória* · *O nosso Deus, porém, está no céu: tudo o que quis, ele fez* · *Nós, que vivemos, bendizemos ao Senhor* | open — Ps 113 (the familiar head *Não a nós, (ó) Senhor, não a nós* of the CNBB LH and the Mass refrain kept; verified, ps113/liturgical-use-brazil.md) |"
+  ]
+}

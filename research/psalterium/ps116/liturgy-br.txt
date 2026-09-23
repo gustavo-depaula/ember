@@ -1,0 +1,17 @@
+How Ps 116(117) circulates in Brazilian liturgy — fetched 2026-09-23 (WebSearch / WebFetch summaries; wording quoted as the tool returned it)
+
+Liturgia das Horas (CNBB), Salmo 116(117), as printed by liturgiadashoras.online (page says it uses the CNBB translation with authorization):
+  https://liturgiadashoras.online/salmo-116117/
+    Cantai louvores ao Senhor, todas as gentes, / povos todos, festejai-o!
+    Pois comprovado é seu amor para conosco, / para sempre ele é fiel!
+  (Fetched on the page itself. No antiphon shown there.)
+
+Mass Lectionary (CNBB): the psalm is used as the responsorial psalm (search summary: refrain from v. 1a; also a refrain "Ide, por todo o mundo, a todos pregai o Evangelho" — Músicas para Missa pages, lyrics not quoted by the tool for copyright). The stanza wording was NOT verified; presumably the same CNBB text as the LH, unverified.
+
+Benediction / Latin use: in Brazil the Latin "Laudate Dominum" is sung as is; a Portuguese rendering circulating with Mozart's setting (search summary of a lyrics site, not a liturgical book, UNVERIFIED as to source):
+    "Louvai o Senhor, todas as nações! Louvai-o, todos os povos. Porque se confirmou sua misericórdia sobre nós, e a verdade do Senhor permanecerá eternamente."
+  Evidence only that "Louvai o Senhor, todas as nações ... louvai-o, todos os povos" is a familiar shape; no official Brazilian Portuguese text for Benediction was found.
+
+Protestant Almeida (ARC/ACF, bible.com, bibliaonline; Hebrew-based): "Louvai ao Senhor, todas as nações; louvai-o, todos os povos. Porque a sua benignidade é grande para conosco, e a verdade do Senhor é para sempre." Cited only as how the line is widely known in Brazil (the "ao" regency), never as sense. Rom 15:11 in a Portuguese Bible (bibliaportugues.com) "Louvai ao Senhor, todos os gentios, e louvem-no todos os povos".
+
+All CNBB wording is from the Hebrew (Ps 117: gabar "prevailed", 'emet "faithfulness") and paraphrastic ("comprovado é seu amor", "ele é fiel"); evidence of what a Brazilian ear knows, never of sense (rule 1). Note that the CNBB "comprovado" shows the "proved / attested" sense a Brazilian ear gives to "confirmado" — the reading this draft avoids (decision `confirmata`).

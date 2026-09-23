@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "199e0566947504c17d74ada618bb6f8cf18aedbfd5dc854e02cb59f3f1cff2fa",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T08:31:45+00:00",
+  "reply": "{\"verses\": [\n{\"id\": \"113:17\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"adjútor eórum et protéctor eórum est\", \"portuguese\": \"ele é o auxílio deles e o protetor deles\", \"problem\": \"adjutor is an agent noun (helper), paired with the agent noun protector; 'auxílio' turns the person into the abstraction 'help' and breaks the parallel with 'protetor'.\", \"fix\": \"ele é o ajudador deles e o protetor deles,\"}]},\n{\"id\": \"113:18\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"adjútor eórum et protéctor eórum est\", \"portuguese\": \"ele é o auxílio deles e o protetor deles\", \"problem\": \"Same as 113:17: agent noun adjutor rendered as the abstraction 'auxílio'.\", \"fix\": \"ele é o ajudador deles e o protetor deles,\"}]},\n{\"id\": \"113:19\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"adjútor eórum et protéctor eórum est\", \"portuguese\": \"ele é o auxílio deles e o protetor deles\", \"problem\": \"Same as 113:17: agent noun adjutor rendered as the abstraction 'auxílio'.\", \"fix\": \"ele é o ajudador deles e o protetor deles.\"}]},\n{\"id\": \"113:23\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"Benedícti vos a Dómino\", \"portuguese\": \"Benditos sejais vós pelo Senhor\", \"problem\": \"The Latin is verbless and keeps open whether this is a declaration (you are blessed) or a wish; 'sejais' resolves it to the optative. Defensible after the jussive of v. 22, but a verbless rendering keeps the Latin's openness.\", \"fix\": \"Benditos vós pelo Senhor,\"}]}\n], \"overall\": \"A faithful and close rendering: the futures of vv. 13-15 are kept, the Septuagintal 'cordeiros das ovelhas', 'céu do céu' and 'inferno' are preserved, and the pointing marks match the Latin throughout (only 113:15 carries a flex). The only points are the recurring abstraction of adjutor as 'auxílio' in vv. 17-19 and the optative supplied in v. 23, both minor.\"}\n"
+}

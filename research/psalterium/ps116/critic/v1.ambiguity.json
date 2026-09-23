@@ -1,0 +1,11 @@
+{
+  "role": "ambiguity",
+  "prompt": "../../prompts/ambiguity.md",
+  "promptSha256": "91174d66e8dadefa9d058b3c9802fca0a69f74b7d8ef9724f667f11a82b67fca",
+  "target": "prayed.vos.json",
+  "targetSha256": "38d039e0e87c30994474036b2e1320f407d42028774fa4c93cb23a046abbf56b",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context)",
+  "at": "2026-09-23T04:34:36+00:00",
+  "reply": "{\"ambiguities\": [{\"id\": \"116:2\", \"words\": \"se firmou sobre nós\", \"readings\": [\"his mercy has been made strong / prevailed over us (was confirmed toward us)\", \"his mercy settled / came to rest upon us (was placed over us)\", \"his mercy was established concerning us (sobre = a respeito de)\"], \"likelyHeard\": \"his mercy was established / firmly placed upon us\"}, {\"id\": \"116:2\", \"words\": \"a verdade do Senhor\", \"readings\": [\"the Lord's truth (true doctrine, what is true)\", \"the Lord's faithfulness to his word (fidelidade)\"], \"likelyHeard\": \"the Lord's truth in the doctrinal sense\"}, {\"id\": \"116:2\", \"words\": \"Porque\", \"readings\": [\"causal: praise him because his mercy...\", \"start of a new independent statement (for / indeed)\"], \"likelyHeard\": \"causal: the reason for the praise in 116:1\"}], \"unknownWords\": []}\n"
+}

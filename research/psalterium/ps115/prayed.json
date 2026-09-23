@@ -1,0 +1,500 @@
+{
+  "psalm": 115,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "115:1": "{credidi}, por isso falei: * mas eu fui humilhado {nimis}.",
+    "115:2": "Eu disse, {excessu}: * Todo homem é mentiroso.",
+    "115:3": "Que retribuirei ao Senhor, * por tudo o que {retribuit}?",
+    "115:4": "{accipiam} o cálice da salvação, * e invocarei o nome do Senhor.",
+    "115:5": "{reddam5} {c5}: * {pretiosa} a morte dos seus santos.",
+    "115:7a": "Ó Senhor, {quia} eu sou o vosso servo: * eu sou o vosso servo, e o filho da vossa serva.",
+    "115:7b": "Rompestes as minhas cadeias: ‡ a vós sacrificarei {hostia} de louvor, * e invocarei o nome do Senhor.",
+    "115:9": "{reddam9} {c9}: * nos átrios da casa do Senhor, no meio de ti, Jerusalém."
+  },
+  "decisions": [
+    {
+      "id": "credidi",
+      "refs": [
+        "115:1"
+      ],
+      "latin": "Crédidi, propter quod locútus sum",
+      "kind": "glossary",
+      "why": "*Crédidi* is absolute here (no object), ἐπίστευσα; the line is quoted by St Paul (2 Cor 4:13, in DO's Latin reading *Crédidi, propter quod locútus sum*). The *crédere* row is *acreditar* (118:66 *acreditei nos vossos mandamentos*; 105:12 *acreditaram*) and notes that *cri* is the Latin's length but almost never said. Ruled: *Acreditei*, the row's verb. *Eu cri* is MS1932's wording and the form in which the Pauline quotation circulates (NVI *Cri, por isso falei*, seen in search titles) — it is the strongest option, kept as option 1. *propter quod* → *por isso* (DRB 'therefore', MS1932 *por isso*).",
+      "options": [
+        {
+          "label": "Acreditei",
+          "forms": {
+            "credidi": "Acreditei"
+          },
+          "note": "draft — the *crédere* row (118:66)",
+          "from": "glossary"
+        },
+        {
+          "label": "Eu cri",
+          "forms": {
+            "credidi": "Eu cri"
+          },
+          "note": "MS1932 *Eu cri, por isso falei*; the 2 Cor 4:13 form; *cri* is rare in speech",
+          "from": "MS1932"
+        },
+        {
+          "label": "Cri",
+          "forms": {
+            "credidi": "Cri"
+          },
+          "note": "the Latin's length; a bare monosyllable at the head of the psalm",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "nimis",
+      "refs": [
+        "115:1"
+      ],
+      "latin": "humiliátus sum nimis",
+      "kind": "glossary",
+      "why": "The *nimis* row has no single rendering; *sem medida* is the one used most with a verb (118:138, 45:2, 78:8, 106:38, 108:30), *muito* with an adjective (47:2, 92:5). *humiliáre → humilhar* (the row; 114:6 *fui humilhado*, the psalm this one continues; 118:107 *Fui de todo humilhado*). DRB 'humbled exceedingly'; MS1932 *estive na última humilhação* paraphrases. Ruled: *sem medida*, which also ends the verse on a paroxytone.",
+      "options": [
+        {
+          "label": "sem medida",
+          "forms": {
+            "nimis": "sem medida"
+          },
+          "note": "draft — the *nimis* row with a verb",
+          "from": "glossary"
+        },
+        {
+          "label": "em extremo",
+          "forms": {
+            "nimis": "em extremo"
+          },
+          "note": "a plainer adverb phrase; *muito humilhado* would need the order changed",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "excessu",
+      "refs": [
+        "115:2"
+      ],
+      "latin": "Ego dixi in excéssu meo",
+      "kind": "glossary",
+      "why": "ἐν τῇ ἐκστάσει μου — the same phrase as 30:23 (*in excéssu mentis meæ*), whose row the glossary says 115:2 can follow: *fora de mim*, the going-out said plainly. The Latin leaves open whether it is panic (30:23) or rapture (67:28a *em êxtase*); Augustine and the Fathers read the second here, DRB keeps 'in my excess', MS1932 *no meu abatimento extremo* decides for dismay. *fora de mim* keeps both open better than either alternative. The possessive is carried by *mim*.",
+      "options": [
+        {
+          "label": "fora de mim",
+          "forms": {
+            "excessu": "fora de mim"
+          },
+          "note": "draft — the row (30:23 *Eu, porém, disse, fora de mim*)",
+          "from": "glossary"
+        },
+        {
+          "label": "no meu êxtase",
+          "forms": {
+            "excessu": "no meu êxtase"
+          },
+          "note": "the Greek's word; heard as mystical joy, which decides the openness (cf. 67:28a *em êxtase*)",
+          "from": "draft"
+        },
+        {
+          "label": "no meu abatimento",
+          "forms": {
+            "excessu": "no meu abatimento"
+          },
+          "note": "MS1932's reading; interprets",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "retribuit",
+      "refs": [
+        "115:3"
+      ],
+      "latin": "Quid retríbuam … quæ retríbuit mihi?",
+      "kind": "word",
+      "why": "One verb twice, as the Greek (ἀνταποδώσω … ἀνταπέδωκεν): what shall I give back for all he has given back to me. The repetition is the Latin's (rule 2) and is kept, though God 'repaying' me is strange — the strangeness is the Latin's. MS1932 (*benefícios que me tem feito*) and the Brazilian Ordo (*por tudo o que me tem concedido*, fetched, `liturgical-use-brazil.md`) both drop it. The subject *ele* is named so that *tudo* is not heard as the subject of *retribuiu*. The head *Que retribuirei ao Senhor* is the Ordo's wording word for word. v2: the subject pronoun *ele* dropped at the stylist's request (grammar, D2): after *ao Senhor* the ear takes the Lord as subject, and *o que ele me* thickened the line. v1's form is option 1.",
+      "options": [
+        {
+          "label": "me retribuiu",
+          "forms": {
+            "retribuit": "me retribuiu"
+          },
+          "note": "v2 — the stylist's line; the repetition kept",
+          "from": "stylist"
+        },
+        {
+          "label": "ele me retribuiu",
+          "forms": {
+            "retribuit": "ele me retribuiu"
+          },
+          "note": "v1 — the subject named, so that *tudo* cannot be heard as subject",
+          "from": "draft"
+        },
+        {
+          "label": "me concedeu",
+          "forms": {
+            "retribuit": "me concedeu"
+          },
+          "note": "the Brazilian Ordo's sense (*me tem concedido*); drops the repetition",
+          "from": "draft",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "accipiam",
+      "refs": [
+        "115:4"
+      ],
+      "latin": "Cálicem salutáris accípiam",
+      "kind": "glossary",
+      "why": "The *accípere* row is *receber* (open), with *tomar* where the subject takes rather than is given (74:3, 17:17). Here one takes up a cup to drink (λήμψομαι), and in Brazil *tomar* is also the everyday verb for drinking. *Tomarei o cálice da salvação* is DRB's 'take', MS1932's wording, and the Brazilian Ordo's (the priest's communion, fetched) — the one Latin-family form of this line Brazilian ears know. The CNBB's familiar *Elevo o cálice* is from the Hebrew (*esa*, lift) and is not followed. *salutáris* (genitive of *salutáre*) → *salvação* (D6). *Cálice* is off the cadence, as the row asks.",
+      "options": [
+        {
+          "label": "Tomarei",
+          "forms": {
+            "accipiam": "Tomarei"
+          },
+          "note": "draft — DRB, MS1932, Brazilian Ordo; a local departure from the row, as 74:3",
+          "from": "draft"
+        },
+        {
+          "label": "Receberei",
+          "forms": {
+            "accipiam": "Receberei"
+          },
+          "note": "the *accípere* row; makes the cup given rather than taken",
+          "from": "glossary"
+        },
+        {
+          "label": "Erguerei",
+          "forms": {
+            "accipiam": "Erguerei"
+          },
+          "note": "DM1962 / CNBB (*Elevo*): the Hebrew's verb, not the Latin's",
+          "from": "DM1962",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "vota",
+      "refs": [
+        "115:5",
+        "115:9"
+      ],
+      "latin": "Vota mea Dómino reddam",
+      "kind": "glossary",
+      "why": "The *réddere* row names these two verses: *vota réddere → pagar os votos* (21:26, 49:14, 55:12, 60:9, 65:13), held against the stylist's *cumprir* twice (Pss 55, 60). The first colon repeats in 115:9 with only *coram* changed to *in conspéctu*, so the two verses are built from the same slots and differ only there. Natural order (verb first, D2), as 21:26 *pagarei os meus votos*.",
+      "options": [
+        {
+          "label": "Pagarei os meus votos ao Senhor",
+          "forms": {
+            "reddam5": "Pagarei os meus votos ao Senhor",
+            "reddam9": "Pagarei os meus votos ao Senhor"
+          },
+          "note": "draft — the row",
+          "from": "glossary"
+        },
+        {
+          "label": "Cumprirei os meus votos ao Senhor",
+          "forms": {
+            "reddam5": "Cumprirei os meus votos ao Senhor",
+            "reddam9": "Cumprirei os meus votos ao Senhor"
+          },
+          "note": "MS1932; the stylists of Pss 55 and 60; would move the whole formula",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "conspectu",
+      "refs": [
+        "115:5",
+        "115:9"
+      ],
+      "latin": "coram omni pópulo ejus … pretiósa in conspéctu Dómini … in conspéctu omnis pópuli ejus",
+      "kind": "glossary",
+      "why": "The Latin uses two words in the same formula: *coram* (115:5a) and *in conspéctu* (115:5b, 115:9a). *coram → diante de* (55:13 row); *in conspéctu → à vista de* where it is the place of witnesses (21:26 *pagarei os meus votos à vista dos que o temem* — the same formula) and as a predicate; the *conspéctus* row names 115:5b *preciosa à vista do Senhor* as a test it passes. So 115:5a and 115:9a differ exactly where the Latin does. *Aos olhos do Senhor* (MS1932, and one of the two Portuguese forms of the line in circulation) is refused because *olho* is *óculus*'s; *à vista do Senhor* is the other form in circulation (Almeida-family Bibles, seen in search titles).",
+      "options": [
+        {
+          "label": "diante de … / à vista do Senhor / à vista de …",
+          "forms": {
+            "c5": "diante de todo o seu povo",
+            "c9": "à vista de todo o seu povo",
+            "pv": "à vista do Senhor"
+          },
+          "note": "draft — the rows",
+          "from": "glossary"
+        },
+        {
+          "label": "aos olhos do Senhor (115:5b)",
+          "forms": {
+            "c5": "diante de todo o seu povo",
+            "c9": "à vista de todo o seu povo",
+            "pv": "aos olhos do Senhor"
+          },
+          "note": "MS1932 *É preciosa aos olhos do Senhor*; the most familiar form; spends *olho*",
+          "from": "MS1932"
+        },
+        {
+          "label": "na presença de todo o seu povo (115:9a)",
+          "forms": {
+            "c5": "diante de todo o seu povo",
+            "c9": "na presença de todo o seu povo",
+            "pv": "à vista do Senhor"
+          },
+          "note": "the row's other branch; DM1962 *na presença de todo o seu povo*",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "pretiosa",
+      "refs": [
+        "115:5"
+      ],
+      "latin": "pretiósa in conspéctu Dómini mors sanctórum ejus",
+      "kind": "order",
+      "why": "Verbless, predicate first. The copula is supplied (D2). *Preciosa é à vista* puts *é* and *à* together (a hiatus the voice stumbles on); *é preciosa … a morte* is MS1932's build and plain Portuguese, and keeps the predicate at the head as the Latin does. Said alone as a versicle (*Pretiósa in conspéctu Dómini*, Commons of Martyrs) it reads *É preciosa à vista do Senhor*. *sanctórum* (ὁσίων) → *santos* (the row). The stylist (v1) asked to front *à vista do Senhor* ('the weight at the front'; he said it is nearer the Latin, but the Latin's first word is *pretiósa*). Refused, kept as option 2: it moves the predicate off the head where the Latin has it, and the versicle said alone (*Pretiósa in conspéctu Dómini*) would lose its opening word.",
+      "options": [
+        {
+          "label": "é preciosa …",
+          "forms": {
+            "pretiosa": "é preciosa {pv}"
+          },
+          "note": "draft — MS1932's order",
+          "from": "MS1932"
+        },
+        {
+          "label": "preciosa é …",
+          "forms": {
+            "pretiosa": "preciosa é {pv}"
+          },
+          "note": "the Latin's order; the Almeida form (search titles); *é à* hiatus",
+          "from": "draft"
+        },
+        {
+          "label": "à vista … é preciosa",
+          "forms": {
+            "pretiosa": "{pv} é preciosa"
+          },
+          "note": "the stylist (v1): place first, then predicate",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "quia",
+      "refs": [
+        "115:7a"
+      ],
+      "latin": "O Dómine, quia ego servus tuus",
+      "kind": "ambiguity",
+      "why": "*quia* (ὅτι is not in Rahlfs here: ὦ κύριε ἐγὼ δοῦλος σός) gives the reason for what follows or precedes — 'because I am your servant (you broke my bonds)'. DRB 'O Lord, for I am thy servant'. MS1932 drops it. The Hebrew's particle is emphatic ('truly'), which the Latin does not say. Ruled: *porque*, leaving it open whether it leans back or forward, as the Latin does. The ambiguity reader felt the main clause missing after *porque* — which is the Latin's own suspense (*quia* reaches across the asterisk and into 7b) — and noted the homophone *por que*; kept.",
+      "options": [
+        {
+          "label": "porque",
+          "forms": {
+            "quia": "porque"
+          },
+          "note": "draft — DRB 'for'",
+          "from": "draft"
+        },
+        {
+          "label": "pois",
+          "forms": {
+            "quia": "pois"
+          },
+          "note": "lighter; leans back to what precedes",
+          "from": "draft"
+        },
+        {
+          "label": "sim,",
+          "forms": {
+            "quia": "sim,"
+          },
+          "note": "the Hebrew's emphatic sense (CNBB *Eis que sou*); not the Latin's",
+          "from": "draft",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "hostia",
+      "refs": [
+        "115:7b"
+      ],
+      "latin": "tibi sacrificábo hóstiam laudis",
+      "kind": "glossary",
+      "why": "The *hóstia* row (open) is *vítima* (26:6b *uma vítima de aclamação*, 95:8 *Tomai vítimas*); it names this verse and says the word must differ from *sacrifício* (*sacrificáre* is here) — both candidates do. v1 kept the row. Both the stylist and the ambiguity reader faulted *vítima de louvor* (heard as 'someone harmed', 'victim of praise'; the ambiguity reader listed the sacrificial sense as unknown) — as the Ps 26 blind reader did before. v2 takes the stylist's *hóstia*: it is the Latin's own word (rule 2 keeps words), MS1932's (*uma hóstia de louvor*), and in this psalm the Church reads the verse eucharistically (Corpus Christi Vespers antiphon *Cálicem salutáris accípiam: et sacrificábo hóstiam laudis*, DO Pent01-4), so the first hearing the row feared — the Host — is here the liturgy's own. Cost: a local departure — one Latin word is *vítima* at 26:6b and 95:8 and *hóstia* here. Proposed in the glossary row for a ruling across the three places.",
+      "options": [
+        {
+          "label": "uma hóstia",
+          "forms": {
+            "hostia": "uma hóstia"
+          },
+          "note": "v2 — the stylist; MS1932; the Latin's word",
+          "from": "stylist"
+        },
+        {
+          "label": "uma vítima",
+          "forms": {
+            "hostia": "uma vítima"
+          },
+          "note": "v1 — the *hóstia* row; heard as someone harmed by two readers",
+          "from": "glossary"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "115:1": "*ego autem → mas eu* (the *ego autem* row). *humiliáre → humilhar* as 114:6, the psalm this one continues (MS1932 prints Ps 115 as *Continuação do anterior*).",
+    "115:2": "*mendax* is an adjective with the copula understood → *é mentiroso*, supplied (D2). *Todo homem* without the article (Brazilian use; CNBB *Todo homem é mentiroso*).",
+    "115:3": "*retríbuam* (deliberative subjunctive) → future, as DRB and the Ordo; *pro ómnibus* → *por tudo*, number as grammar. The *retribúere* row: the bare verb is *retribuir* (it names 115:3).",
+    "115:4": "Second colon = 115:7b's third colon word for word, as in the Latin (rule 6). *invocáre → invocar* (the row; 114:3b *invoquei o nome do Senhor*).",
+    "115:5": "The inline marker (6) is not reproduced. The verse ends with a period where the Latin has a colon (the Latin runs on into 7a; a Portuguese colon at a verse end reads as unfinished).",
+    "115:7a": "The repetition *ego servus tuus … ego servus tuus* kept, with the copula supplied both times. *ancílla → serva* and the article, as 85:16 *o filho da vossa serva*. The *servo / serva* echo at mediant and final is the Latin's own (*tuus / tuæ*, *servus / ancíllæ*).",
+    "115:7b": "*dirúmpere → romper* (2:3 *Rompamos as cadeias deles*, 106:14 *rompeu as suas cadeias*); *víncula → cadeias* (the row, which names this verse). *sacrificáre → sacrificar*, *tibi → a vós* first as in the Latin (53:8 *sacrificarei a vós*). *laus → louvor*. v2 *hóstia* (decision `hostia`). **Accepted rhyme** *louvor / Senhor* at the second mediant and the final: the Latin has no such echo (*laudis / invocábo*), but both words are fixed — *louvor* by the *laus* row and the final colon by 115:4, which it must repeat word for word; no order of the middle colon removes it without a paraphrase.",
+    "115:9": "The inline marker (10) is not reproduced. *átrium → átrio*, *nos átrios da casa do Senhor* as 133:1b / 91:14 (*nos átrios da casa do nosso Deus*). Jerusalem, a single addressee who is not God, is *tu* (rule 3): *no meio de ti* (MS1932 the same). The ambiguity reader listed *átrios* as unknown (the fourth blind reader to do so; the row keeps it, the Latin's word) and heard *no meio de ti* rightly as said to the city."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from parallels (Latin, LXX, DRB, MS1932, DM1962). Shared vocabulary with Ps 114 (in progress): *humilhar*, *invocar o nome do Senhor*, *ó Senhor*. Liturgical use in Brazil fetched and recorded in `liturgical-use-brazil.md`: the CNBB wordings are from the Hebrew; the Brazilian Tridentine Ordo's *Que retribuirei ao Senhor … Tomarei o cálice da salvação e invocarei o nome do Senhor* is the one Latin-family wording in circulation and 115:3a / 115:4 keep it. Hard readings: *in excéssu meo*, the doubled *retribúere*, *hóstia*, *quia* in 7a, and the *coram / in conspéctu* split in the repeated vow formula."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass. Soft flags accepted: 115:2 first colon −3 (*fora de mim* is the row's phrase; the Latin's *in excéssu meo* is long by itself) and second colon +3 (the copula *é* supplied and *mentiroso* is four syllables for *mendax*'s two); 115:5 first colon +3 (*diante de* for *coram*, the row); 115:7b middle colon +3 (*vítima* three syllables, *a vós* for *tibi*); 115:7b rhyme *louvor / Senhor* accepted for the reason in `choices` (two fixed rows)."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context. No remarks: tense, person, voice, the Septuagintal *in excéssu*, the *coram / in conspéctu* split and the pointing all passed.",
+      "outcomes": []
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context. 3 remarks; 2 taken, 1 kept as an option. Best line 115:4, worst 115:7b.",
+      "outcomes": [
+        {
+          "verse": "115:3",
+          "remark": "drop the subject *ele*",
+          "outcome": "taken"
+        },
+        {
+          "verse": "115:5",
+          "remark": "front *à vista do Senhor* before *é preciosa*",
+          "outcome": "option",
+          "decision": "pretiosa",
+          "reason": "the Latin's head word is *pretiósa*; the versicle said alone would lose it"
+        },
+        {
+          "verse": "115:7b",
+          "remark": "*vítima de louvor* heard as a crime victim; use *hóstia*",
+          "outcome": "taken",
+          "decision": "hostia"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context. 12 readings, 3 unknown words.",
+      "outcomes": [
+        {
+          "verse": "115:1",
+          "remark": "*Acreditei* heard as faith first",
+          "outcome": "refused",
+          "reason": "the Latin's sense; no change needed"
+        },
+        {
+          "verse": "115:2",
+          "remark": "*fora de mim* heard as distress first, ecstasy second",
+          "outcome": "refused",
+          "reason": "the Latin leaves it open; the row's phrase keeps both (decision `excessu`)"
+        },
+        {
+          "verse": "115:2",
+          "remark": "*Todo homem* human / male",
+          "outcome": "refused",
+          "reason": "the Latin's *homo*; heard as every human being"
+        },
+        {
+          "verse": "115:4",
+          "remark": "*Tomarei* drink / take up",
+          "outcome": "refused",
+          "reason": "both are in the image; the eucharistic hearing is the liturgy's"
+        },
+        {
+          "verse": "115:5",
+          "remark": "*votos* as votes / good wishes",
+          "outcome": "refused",
+          "reason": "heard as vows first; the *réddere* row"
+        },
+        {
+          "verse": "115:5",
+          "remark": "*preciosa* valued / costly",
+          "outcome": "refused",
+          "reason": "the Latin's *pretiósa* holds both"
+        },
+        {
+          "verse": "115:7a",
+          "remark": "*porque* with the main clause felt missing; homophone *por que*",
+          "outcome": "refused",
+          "reason": "the Latin's own suspense (decision `quia`)"
+        },
+        {
+          "verse": "115:7a",
+          "remark": "*serva* social status",
+          "outcome": "refused",
+          "reason": "heard rightly first"
+        },
+        {
+          "verse": "115:7b",
+          "remark": "*Rompestes* unknown / heard as third person",
+          "outcome": "refused",
+          "reason": "the *vós* past, required by D1; heard rightly first"
+        },
+        {
+          "verse": "115:7b",
+          "remark": "*vítima* in its everyday sense; sacrificial sense unknown",
+          "outcome": "taken",
+          "decision": "hostia"
+        },
+        {
+          "verse": "115:9",
+          "remark": "*átrios* unknown",
+          "outcome": "refused",
+          "reason": "the Latin's word, kept by the *átrium* row"
+        },
+        {
+          "verse": "115:9",
+          "remark": "*de ti* before the vocative",
+          "outcome": "refused",
+          "reason": "heard rightly (the city)"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2: 115:3 *ele* dropped (stylist); 115:7b *uma vítima* → *uma hóstia* (stylist + ambiguity reader; a local departure from the open *hóstia* row, proposed in the glossary). Draft 1 kept as prayed.v1.json."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "Gate on v2, claude-opus-5-5, fresh context, with latin.json. No remarks: *uma hóstia* passed (the article noted as a permitted supply); tense, person, voice, number, *fora de mim*, the *coram / in conspéctu* split and the pointing all passed. Clean.",
+      "outcomes": []
+    }
+  ]
+}
