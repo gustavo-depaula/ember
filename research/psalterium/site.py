@@ -313,6 +313,31 @@ def loadPsalm(folder, progress):
             if unknown:
                 warnings.append(f"decision {d['id']}: option “{option['label']}” fills {unknown[0]}, a slot no first option has")
 
+    # ear.json: the few places on this page that most want Gustavo's ear, shown in the margin beside their verse
+    ear = []
+    if (folder / 'ear.json').exists():
+        try:
+            items = readJson(folder / 'ear.json')
+        except ValueError as error:
+            items = []
+            warnings.append(f'ear.json does not parse ({error})')
+        ids = {d['id'] for d in decisions}
+        # once Gustavo rules a decision, its note has done its work and leaves the margin
+        ruled = {d['id'] for d in decisions if not isOpen(d)}
+        for item in items if isinstance(items, list) else []:
+            if item.get('decision') in ruled:
+                continue
+            refs = [ref for ref in item.get('refs') or [] if ref in latinIds]
+            if not refs or not item.get('note'):
+                warnings.append(f"ear.json: an item has no note or no verse of this page ({str(item)[:60]})")
+                continue
+            entry = {'refs': refs, 'note': item['note']}
+            if item.get('decision') in ids:
+                entry['decision'] = item['decision']
+            elif item.get('decision'):
+                warnings.append(f"ear.json: no decision {item['decision']} on this page")
+            ear.append(entry)
+
     version = merged.get('version', 1)
     incipit = incipitOf(latin)
     return {
@@ -325,7 +350,7 @@ def loadPsalm(folder, progress):
         'audit': merged.get('audit') or [], 'intro': merged.get('intro') or [],
         'notes': [merged[k] for k in ('note', 'producedBy') if isinstance(merged.get(k), str)],
         'legacyStoreKey': merged.get('legacyStoreKey'), 'warnings': warnings,
-        'interlinear': interlinearOf(folder.parent, key),
+        'interlinear': interlinearOf(folder.parent, key), 'ear': ear,
     }
 
 
@@ -469,7 +494,7 @@ def pageData(p, full=True):
         'key': p['key'], 'psalm': p['number'], 'title': p['title'], 'short': p['short'], 'version': p['version'],
         'storeKey': f"psalterium-{p['key']}-v{p['version']}",
         'verses': [{'id': v['id'], 'la': v['text'], 'pt': p['templates'][v['id']], 'literal': p['literal'].get(v['id'], '')} for v in p['latin']],
-        'decisions': p['decisions'], 'presets': presets,
+        'decisions': p['decisions'], 'presets': presets, 'ear': p['ear'],
     }
     if p['legacyStoreKey']:
         data['legacyStoreKey'] = p['legacyStoreKey']
@@ -812,9 +837,12 @@ def psalmPage(p, previous, following):
         + (f'<a href="{following["key"]}.html">{esc(following["title"])} →</a>' if following else '<span></span>')
         + '</nav>'
     )
+    earLinks = ' · '.join(f'<a href="#v-{item["refs"][0].replace(":", "-")}">{esc(item["refs"][0])}</a>' for item in p['ear'])
+    earSummary = f'<p class="ear-summary">For your ear first: {earLinks}</p>' if p['ear'] else ''
     body = f'''{bar}
 {head(p['title'], f'<span translate="no">{esc(p["incipit"])}</span>', standing, ' '.join(p['warnings']))}
 <main>
+  {earSummary}
   <section class="psalm" id="blocks" aria-label="Other psalters, whole"></section><section class="psalm" id="psalm" aria-label="{esc(p['title'])}, Latin and Portuguese"></section>
   <p class="legend" id="legend">{legend}</p>
   <p class="legend" id="legend-layers" hidden>{layersLegend}</p>
@@ -854,7 +882,43 @@ def psalmPage(p, previous, following):
     return shell(f"{p['title']} — Psalterium", body, scripts=scripts)
 
 
-def indexPage(psalms, incomplete):
+def pointedText(text):
+    """A verse as typeset: its pointing marks in rubric, as on the psalm pages."""
+    return re.sub(r'([*†‡+])', r'<span class="mark">\1</span>', esc(text))
+
+
+def frontDoor(root, built, earTotal):
+    """The top of the index: what this is, its one rule, one verse as it is prayed, and three ways in.
+    The rule is read from method.md, so the two never say it differently."""
+    method = (root / 'method.md').read_text(encoding='utf-8') if (root / 'method.md').exists() else ''
+    rule = re.search(r'^## The one rule\s+^> (.+)$', method, re.M)
+    sample = next((built[n] for n in (1, *sorted(built)) if n in built), None)
+    lede = (
+        '<p>The psalter of the Roman Breviary — the Gallican Psalter, St Jerome’s — in Brazilian Portuguese, '
+        'made <em>to be prayed aloud</em>, verse by verse, beside the Latin.</p>'
+        '<p>It is drafted by language models, read by other models that do not know how it was made, and decided in the open: '
+        'every alternative that was weighed, every reader’s remark and what became of it, stays one touch away. '
+        'Nothing here has yet had a philologist’s sign-off.</p>'
+    )
+    ruleHtml = f'<blockquote class="rule"><p>{inline(rule.group(1).replace("'", '’'))}</p><cite>the one rule</cite></blockquote>' if rule else ''
+    verse = ''
+    if sample:
+        first = sample['latin'][0]
+        verse = (
+            f'<figure class="sample"><div class="verse"><div class="side la">{pointedText(first["text"])}</div>'
+            f'<div class="side pt" lang="pt-BR">{pointedText(sample["flat"][first["id"]])}</div></div>'
+            f'<figcaption><a href="{sample["key"]}.html">{esc(f'Ps {first["id"]}' if sample['number'] <= 150 else f'{sample["short"]} {first["id"]}')} — the whole psalm, as it is prayed</a></figcaption></figure>'
+        )
+    doors = [
+        (f'{sample["key"]}.html' if sample else 'index.html#psalter', 'Pray a psalm', 'The Latin and the Portuguese facing, as in choir. A dotted word is a decision: touch it for what else it could have said, and why.'),
+        ('method.html', 'How it is made', 'A literal version, a draft, three readers who never saw it made, a Latinist’s gate — and every step kept.'),
+        ('decisions.html', 'For your ear', f'{earTotal} places where a ruling is wanted first, each beside its verse.' if earTotal else 'Every open decision, psalm by psalm, to be chosen and handed back.'),
+    ]
+    doorsHtml = ''.join(f'<a class="door" href="{href}"><span class="door-title">{esc(title)}</span><span class="door-line">{esc(line)}</span></a>' for href, title, line in doors)
+    return f'<section class="front" aria-label="What this is"><div class="lede">{lede}</div>{ruleHtml}{verse}<nav class="doors" aria-label="Ways in">{doorsHtml}</nav></section>'
+
+
+def indexPage(root, psalms, incomplete):
     built = {p['number']: p for p in psalms}
     broken = {number: reason for number, reason in incomplete}
 
@@ -867,7 +931,7 @@ def indexPage(psalms, incomplete):
             openCount = sum(1 for d in p['decisions'] if isOpen(d))
             return (
                 f'<a class="row" href="{p["key"]}.html"><span class="n">{number}</span>{name}<span class="status">{esc(p["status"])}</span>'
-                f'<span class="count">{len(p["latin"])} verses · {openCount} open</span><span class="version">v{esc(str(p["version"]))}</span></a>'
+                f'<span class="count">{len(p["latin"])} verses · {openCount} open{f" · {len(p["ear"])} for your ear" if p["ear"] else ""}</span><span class="version">v{esc(str(p["version"]))}</span></a>'
             )
         if number in broken:
             return f'<div class="row"><span class="n">{number}</span>{name}<span class="status incomplete" title="{esc(broken[number])}">incomplete</span>{count}<span class="version"></span></div>'
@@ -881,11 +945,19 @@ def indexPage(psalms, incomplete):
     if broken:
         notes = ''.join(f'<li>{esc(titleOf(n))}: {esc(reason)}</li>' for n, reason in sorted(broken.items()))
         sections.append(marker('Incomplete', '❧') + f'<div class="prose"><p>These folders exist but could not be built; they are skipped until the next run finds them whole.</p><ul>{notes}</ul></div>')
-    done = len(built)
+    done = sum(1 for n in built if n <= 150)
+    cantDone = sum(1 for n in built if n > 150)
     openTotal = sum(1 for p in psalms for d in p['decisions'] if isOpen(d))
-    standing = f'The Gallican Psalter in Brazilian Portuguese, to be prayed beside the Latin. {done} of 150 psalms and canticles drafted; {openTotal} decisions open.'
+    earTotal = sum(len(p['ear']) for p in psalms)
+    standing = (
+        f'The Gallican Psalter in Brazilian Portuguese, to be prayed beside the Latin. {done} of 150 psalms'
+        + (f' and {cantDone} canticles' if cantDone else '')
+        + f' drafted; {openTotal} decisions open'
+        + (f'; {earTotal} places marked for your ear first.' if earTotal else '.')
+    )
+    front = frontDoor(root, built, earTotal)
     contents = '<p class="contents"><a href="glossary.html">the glossary</a> <a href="words/index.html">word studies</a> <a href="decisions.html">every open decision</a> <a href="decisions.html#decided">what is decided</a> <a href="method.html">the method</a> <a href="notes.html">working notes</a></p>'
-    return shell('Psalterium', head('Psalterium', 'Psalmi Davidis, lingua Brasiliensi', standing) + f'<main>{contents}{"".join(sections)}<div class="handback"></div></main>', current='index.html')
+    return shell('Psalterium', head('Psalterium', 'Psalmi Davidis, lingua Brasiliensi') + f'<main>{front}<p class="tally">{standing}</p>{contents}{"".join(sections)}<div class="handback"></div></main>', current='index.html')
 
 
 def makeLinker(sourceDir, root, base, builtKeys, wordNames):
@@ -1017,7 +1089,8 @@ def decisionsPage(root, psalms):
     data = {'psalms': [pageData(p, full=False) for p in psalms], 'kindIds': {kind: f'k-{slug(kind)}' for kind in kinds}}
     bar = (
         '<nav class="bar" aria-label="Which decisions are shown">'
-        + switch('kind', 'kind', [('k-all', 'all', 'all'), *[(f'k-{slug(kind)}', kind, kind) for kind in kinds]])
+        + switch('show', 'show', [('s-ear', 'ear', 'for your ear first'), ('s-all', 'all', 'every open decision')])
+        + switch('kind', 'kind', [('k-all', 'all', 'all'), *[(f'k-{slug(kind)}', kind, kind) for kind in kinds]], 'kind-switch')
         + '<label class="switch"><span style="color:var(--ink-2);font-style:italic;margin-right:.9rem">psalm</span><select id="psalm-filter" aria-label="Psalm"><option value="all">all</option>'
         + ''.join(f'<option value="{p["key"]}">{esc(p["short"])}</option>' for p in psalms)
         + '</select></label></nav>'
@@ -1029,7 +1102,7 @@ def decisionsPage(root, psalms):
         if len(row) >= 3 and 'decided' in [c.strip().lower() for c in row[2:4]]:
             decided.append(f'<div class="fix"><span class="ref"><a href="glossary.html">glossary</a></span><div><p>{inline(row[0])} — {inline(row[1])}</p></div></div>')
     body = f'''{bar}
-{head('Decisions', '', 'Every open decision in every psalm, so that a glossary-grade choice can be made once. A choice made here is the same choice on the psalm’s own page: both keep it in this browser.')}
+{head('Decisions', '', 'First the few places in each psalm that most want your ear — the same notes the psalm pages carry in the margin; then, if you want them, every open decision in every psalm, so that a glossary-grade choice can be made once. A choice made here is the same choice on the psalm’s own page: both keep it in this browser.')}
 <main>
   <div id="decisions"></div>
   <div class="handback">
@@ -1100,7 +1173,7 @@ def main():
 
     wordNames = attempt('words', lambda: wordPages(root, out, {p['key'] for p in psalms}, written)) or []
     for name, build in [
-        ('index.html', lambda: indexPage(psalms, incomplete)),
+        ('index.html', lambda: indexPage(root, psalms, incomplete)),
         ('glossary.html', lambda: glossaryPage(root, psalms, wordNames)),
         ('method.html', lambda: methodPage(root, psalms, wordNames)),
         ('notes.html', lambda: notesPage(root, psalms, wordNames)),
@@ -1122,4 +1195,5 @@ def main():
         print(f'  failed      {failure}')
 
 
-main()
+if __name__ == '__main__':
+    main()

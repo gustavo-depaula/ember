@@ -1,0 +1,5 @@
+[
+  {"refs": ["91:5"], "decision": "factura", "note": "*com a vossa feitura*: the stylist asked *com a vossa obra*, refused because it merges *factúra* with *ópera*; the gate asked *na vossa feitura*, held (*com* as 29:2, 64:8)."},
+  {"refs": ["91:12"], "decision": "despexit", "note": "*o meu olho olhou de cima*: the stylist hears a jingle and asks *viu do alto*. Held because the Latin is identical to 53:9 (rule 6); flagged in the *despícere* row."},
+  {"refs": ["91:11", "91:15"], "decision": "uber", "note": "*fecunda* for *úber* in both verses was unknown to the blind reader. *abundante* is the option, but it does not fit *velhice* in 91:15."}
+]

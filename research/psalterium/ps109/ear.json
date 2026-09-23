@@ -1,0 +1,30 @@
+[
+ {
+  "refs": [
+   "109:1a"
+  ],
+  "decision": "sede",
+  "note": "*Senta-te à minha direita*, against the CNBB's *Assenta-te*, which is the option."
+ },
+ {
+  "refs": [
+   "109:1b"
+  ],
+  "decision": "scab",
+  "note": "*por escabelo dos teus pés*: the stylist asked *estrado*; the CNBB also has *escabelo* (*como escabelo*), so it stays."
+ },
+ {
+  "refs": [
+   "109:3"
+  ],
+  "decision": "lucif",
+  "note": "*antes da estrela da manhã* for *ante lucíferum*, against Matos Soares 1932's *antes da aurora*."
+ },
+ {
+  "refs": [
+   "109:4"
+  ],
+  "decision": "aet",
+  "note": "*Tu és sacerdote para sempre*: D23's *para sempre*, against the CNBB's *eternamente*."
+ }
+]

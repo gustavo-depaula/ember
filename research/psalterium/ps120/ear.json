@@ -1,0 +1,23 @@
+[
+ {
+  "refs": [
+   "120:1"
+  ],
+  "decision": "unde",
+  "note": "*de onde me virá o auxílio* is a relative clause; the CNBB has a question."
+ },
+ {
+  "refs": [
+   "120:1"
+  ],
+  "decision": "auxilium",
+  "note": "*de onde me virá o auxílio*: the *auxílio* row, against Matos Soares 1932's *socorro*."
+ },
+ {
+  "refs": [
+   "120:3"
+  ],
+  "decision": "dormitare",
+  "note": "*nem dormite*: the blind reader did not know *dormitar*; *cochilar* was proposed."
+ }
+]

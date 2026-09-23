@@ -1,0 +1,6 @@
+[
+  {"refs": ["147:1"], "decision": "v1open", "note": "*Louva, Jerusalém, o Senhor*, as 112:1, with no *ó*. Brazilian lectionary and LH say *Glorifica o Senhor, Jerusalém*, refused because glorificáre has its own word; MS1932 adds *ó*."},
+  {"refs": ["147:3"], "decision": "adipe", "note": "*e te sacia com a gordura do trigo* copies 80:17. Brazilians know *a flor do trigo* from Corpus Christi (LH, lectionary), and the blind reader found the fat puzzling; *flor* interprets adeps."},
+  {"refs": ["147:4"], "decision": "eloquium", "note": "*a sua fala* for elóquium, beside *a sua palavra* for sermo: the Latinist and stylist both asked it against v1's *o que diz*. *palavra* twice would merge what the Latin varies."},
+  {"refs": ["147:7"], "decision": "spiritus", "note": "*soprará o seu espírito* keeps the Latin's word open to wind and Spirit; the blind reader heard the Spirit first. DRB and MS1932 say wind (*vento*)."}
+]

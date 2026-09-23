@@ -1,0 +1,5 @@
+[
+  {"refs": ["32:7"], "decision": "thesauris", "note": "*põe em depósitos os abismos*, taken after a Latinist minor and the blind reader, who heard *tesouros* as riches. The *depósito* row is still open (canticle 226's 32:49 keeps *tesouros*)."},
+  {"refs": ["32:10", "32:11"], "decision": "consilia", "note": "D33's *desígnios* passed the Latinist and the stylist but was unknown to the blind reader (HANDOFF 16). *planos* is the agents' fallback; *conselhos* is the other option."},
+  {"refs": ["32:20"], "decision": "adjutor", "note": "*o nosso auxílio e protetor*, held against Latinist majors on both drafts asking *auxiliador*. Beside *protetor*, this is the pairing case where the agents would allow *auxiliador* (D19, D24; HANDOFF 15–16)."}
+]

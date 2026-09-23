@@ -1,0 +1,7 @@
+[
+  {"refs": ["50:3a", "50:12", "50:16", "50:19"], "decision": "deus", "note": "*Tende piedade de mim, Deus*: the bare vocative of every finished psalm, ruled in all four places at once. The familiar incipit has *ó Deus*, option 2 (D44, HANDOFF 23)."},
+  {"refs": ["50:4", "50:9"], "decision": "munda", "note": "*purificai-me … serei purificado … coração puro* keeps the root's echo; *limpar … limpo* would break it at *Cor mundum*. HANDOFF 13 asked you to settle *purificar* against *limpar* before this psalm."},
+  {"refs": ["50:9"], "decision": "dealbabor", "note": "*ficarei mais branco que a neve*, held against two Latinist minors that want the passive kept: *branqueado* is laundry, *alvejado* is heard as \"shot at\". The *Aspérges* text, settled by D44."},
+  {"refs": ["50:13"], "decision": "sanctum", "note": "*o vosso espírito santo* in lower case, as the DO Latin prints it and as MS1932 has it; a capital would decide for the Person (D44, HANDOFF 23). *Espírito Santo* is option 2."},
+  {"refs": ["50:19"], "decision": "despicies", "note": "*não desprezareis*, not the open row's *desdenhareis*: the Greek is 21:25's *desprezou* (D15's test). It ends the Friday Lauds antiphon. The *desdenhar* row stays open (HANDOFF 23)."}
+]

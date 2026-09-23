@@ -1,0 +1,16 @@
+[
+ {
+  "refs": [
+   "123:2b"
+  ],
+  "decision": "forte",
+  "note": "*talvez nos teriam engolido vivos*: the *forte* row's *talvez*, against Matos Soares 1932's *certamente*."
+ },
+ {
+  "refs": [
+   "123:8"
+  ],
+  "decision": "adjutorium",
+  "note": "*O nosso auxílio está no nome do Senhor*: the *adjutórium* row, against Matos Soares 1932's *socorro*."
+ }
+]

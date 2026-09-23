@@ -4,6 +4,8 @@
 
 const escapeHtml = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const verseAnchor = (id) => `v-${id.replace(':', '-')}`;
+// notes are written with *word* for a quoted wording; a pointing mark (" * ", "+ *") has a space inside and stays as it is
+const emphasis = (s) => escapeHtml(s).replace(/\*(?=\S)([^*\n]*?\S)\*/g, '<i>$1</i>');
 // a standing question changes no word (no refs, no forms); it starts unanswered, where a wording starts on the draft
 const isStanding = (d) => !(d.refs ?? []).length;
 const isOpen = (d) => !d.decided;
@@ -104,7 +106,10 @@ function colons(runs, mode) {
         if (mark === '‡' && secondMediant === 'none') { secondMediant = 'moved'; mark = '*'; }
         else if (mark === '*' && secondMediant === 'moved') { secondMediant = 'done'; return; }
       }
-      out[out.length - 1].mark = mark;
+      // two marks with no word between (the Magnificat's "+ *") close one colon together, not an empty second one
+      const empty = out.length > 1 && !out[out.length - 1].pieces.some((p) => p.text.trim());
+      if (empty) { out.pop(); out[out.length - 1].mark += ` ${mark}`; }
+      else out[out.length - 1].mark = mark;
       out.push({ pieces: [], mark: '' });
     });
   }
@@ -130,11 +135,23 @@ const pointedInline = (text) => escapeHtml(text).replace(/\s*([†‡*+])/g, '<s
 const pointedText = (text, mode) => colons([{ text }], mode).map((c) => c.pieces.map((p) => p.text).join('').replace(/\s+/g, ' ').trim() + (c.mark ? ` ${c.mark}` : '')).join(' ');
 
 /* ───────── the psalm ───────── */
+// the few places that most want Gustavo's ear (ear.json): in the margin beside their first verse; one touch opens the
+// decision where it stands. First in the markup so that the columns after it are read as they always were.
+function earHtml(data, id) {
+  const notes = (data.ear ?? []).filter((item) => item.refs[0] === id);
+  if (!notes.length) return '';
+  return `<aside class="ear" lang="en">${notes.map((item) => {
+    const refs = item.refs.length > 1 ? `<span class="eref">${escapeHtml(shortRefs(item.refs))}</span> ` : '';
+    const body = `${refs}${emphasis(item.note)}`;
+    return item.decision ? `<a class="open ear-note" href="#d-${item.decision}">${body}</a>` : `<p class="ear-note">${body}</p>`;
+  }).join('')}</aside>`;
+}
+
 function psalmHtml(data, state, compare) {
   const forms = currentForms(data, state);
   return data.verses.map(({ id, la, pt }, index) => {
     const num = id.split(':')[1];
-    return `<div class="verse" id="${verseAnchor(id)}">
+    return `<div class="verse" id="${verseAnchor(id)}">${earHtml(data, id)}
       <div class="side la" translate="no"><span class="num">${num}</span>${pointedHtml([{ text: la }], state.pointing)}</div>
       <div class="side pt" lang="pt-BR"><span class="num">${num}</span>${pointedHtml(segments(pt, forms), state.pointing)}</div>
       ${besideHtml(data, state, compare, index)}
@@ -308,6 +325,8 @@ function layersHtml(data, state) {
 
 /* ───────── decisions ───────── */
 const shortRefs = (refs) => refs.map((ref, i) => (i && ref.split(':')[0] === refs[0].split(':')[0] ? ref.split(':')[1] : ref)).join(' · ');
+// a psalm's verses already carry its number (Ps 1:1); a canticle's are named by its incipit (Magníficat 1:48)
+const placeLabel = (data, refs) => (data.psalm <= 150 && refs[0].startsWith(`${data.psalm}:`) ? `Ps ${shortRefs(refs)}` : `${data.short} ${shortRefs(refs)}`);
 
 function optionTags(option, index) {
   const label = option.from ? (fromLabels[option.from] ?? option.from) : '';
@@ -324,20 +343,20 @@ function decisionHtml(data, state, d, prefix = '', refHref = '') {
   const refLink = refHref || (isStanding(d) ? '' : `#${verseAnchor(d.refs[0])}`);
   const title = d.title
     ? `${refHref ? `<span class="ref"><a href="${refHref}">${escapeHtml(data.title)}</a></span>` : ''}${escapeHtml(d.title)}`
-    : `<span class="ref"><a href="${refLink}">${refHref ? `${escapeHtml(data.short)} ` : ''}${escapeHtml(refs)}</a></span><i translate="no">${escapeHtml(d.latin)}</i>${d.kind ? ` <span class="tag">— ${escapeHtml(d.kind)}</span>` : ''}`;
+    : `<span class="ref"><a href="${refLink}">${escapeHtml(refHref ? placeLabel(data, d.refs) : refs)}</a></span><i translate="no">${escapeHtml(d.latin)}</i>${d.kind ? ` <span class="tag">— ${escapeHtml(d.kind)}</span>` : ''}`;
   const current = pickOf(d, state);
   const group = `${prefix}${d.id}`;
   const options = d.options.map((option, i) => {
     const tags = optionTags(option, i);
     // an option's label may show another decision's current word ({signatum} inside the two word orders of 4:7)
-    const shown = `${escapeHtml(filledText(option.label, forms))}${tags ? ` <span class="tag${option.warn ? ' warn' : ''}" lang="en">— ${escapeHtml(tags)}</span>` : ''}`;
+    const shown = `${escapeHtml(filledText(option.label, forms))}${tags ? ` <span class="tag${option.warn ? ' warn' : ''}" lang="en">— ${emphasis(tags)}</span>` : ''}`;
     if (!isOpen(d)) return `<li><input type="radio" disabled ${i === 0 ? 'checked' : ''} id="${group}-${i}"><label for="${group}-${i}" lang="pt-BR">${shown}</label></li>`;
     return `<li><input type="radio" name="${group}" data-psalm="${data.key}" data-decision="${d.id}" id="${group}-${i}" value="${i}" ${current === i ? 'checked' : ''}>
       <label for="${group}-${i}" lang="pt-BR">${shown}</label></li>`;
   }).join('');
   const settled = isOpen(d) ? '' : `<p class="why">Decided${d.decided === true ? '' : `: ${escapeHtml(d.decided)}`}.</p>`;
   return `<section class="decision" ${prefix ? '' : `id="d-${d.id}"`}>
-    <h3>${title}</h3><p class="why">${escapeHtml(d.why)}</p>${settled}
+    <h3>${title}</h3><p class="why">${emphasis(d.why)}</p>${settled}
     <ul class="options${isOpen(d) ? '' : ' settled'}">${options}</ul>
     ${isOpen(d) ? `<textarea data-psalm="${data.key}" data-note="${d.id}" placeholder="Your decision, and why" aria-label="Note on ${escapeHtml(d.latin || d.title)}">${escapeHtml(state.notes[d.id] ?? '')}</textarea>` : ''}
   </section>`;
@@ -396,7 +415,8 @@ function boot() {
     byId('psalm').innerHTML = !standard
       ? (state.version === 'literal' ? literalHtml(data, state) : interlinearHtml(data, state))
       : layered ? layersHtml(data, state) : psalmHtml(data, state, compare());
-    byId('psalm').className = `psalm${state.version === 'interlinear' ? ' interlinear' : ''}`;
+    const margin = standard && !layered && (data.ear ?? []).length;
+    byId('psalm').className = `psalm${state.version === 'interlinear' ? ' interlinear' : ''}${margin ? ' with-ear' : ''}`;
     byId('legend').hidden = !standard || layered;
     byId('legend-layers').hidden = !layered;
     byId('legend-literal').hidden = state.version !== 'literal';

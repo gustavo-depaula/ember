@@ -1,0 +1,7 @@
+[
+  {"refs": ["9:6"], "decision": "saeculi", "note": "*pelos séculos dos séculos*: the Latinist asked five times for the singular *pelo século do século*, and the stylist for the members reversed. D27 settles the plural: it is how the phrase lives in Portuguese."},
+  {"refs": ["9:8b"], "decision": "orbem", "note": "D30's headline: *orbis terræ → o mundo*. Two blind readers did not know *orbe*; the Latin psalter never has *mundus* for the world, so nothing collides. *o orbe da terra* stays selectable."},
+  {"refs": ["9:10"], "decision": "adjutor", "note": "*auxílio* for *adjútor*, held against three Latinist readings (minor, then two majors asking *auxiliador*), as at 118:114 (D24, D27). HANDOFF: this row wants your ruling more than any other word."},
+  {"refs": ["9:13"], "decision": "requirens", "note": "*ao pedir contas do sangue deles*: held against two Latinist majors reading *eórum* with *recordátus est*, words he had passed twice (D27). The Latin follows the Greek, where the pronoun is the blood's. His reading is an option."},
+  {"refs": ["9:19"], "decision": "in_finem", "note": "*não perecerá para sempre*: *até o fim* failed here (Latinist major, blind reader) because *até* bounds the negation. D27 keeps *in finem* its own row, not merged with *in ætérnum*."}
+]

@@ -85,6 +85,8 @@ function checkFixture(siteDir) {
   ok('a multi-verse decision stands in both verses', (psalm().match(/href="#d-exaudire"/g) || []).length === 2);
   ok('nested: the inner word keeps its own link', /href="#d-facies">rosto<\/a>/.test(psalm()) && /href="#d-ordo">Busquei o<\/a>/.test(psalm()));
   ok('the bar starts on the draft', p.els['w-draft'].checked === true);
+  ok('ear notes stand beside their first verse, linked to their decision', /id="v-999-2"><aside class="ear" lang="en"><a class="open ear-note" href="#d-ordo">/.test(psalm()) && /<p class="ear-note"><span class="eref">999:1 · 2<\/span>/.test(psalm()), psalm().slice(0, 400));
+  ok('the page opens with the ear summary', p.html.includes('class="ear-summary"') && p.html.includes('href="#v-999-2"'));
 
   p.fire('pointing', 'full'); p.pick('facies', 1); p.pick('ordo', 1); p.pick('exaudire', 1);
   show('flexes; semblante, the Latin’s order, atender');
@@ -168,7 +170,9 @@ function checkFixture(siteDir) {
 
   const all = runPage(path.join(siteDir, 'decisions.html'));
   const count = () => (all.els.decisions.innerHTML.match(/<section class="decision"/g) || []).length;
-  ok('decisions.html renders every open decision', count() === 4);
+  ok('decisions.html opens on the ear notes, each leading its decision or standing alone', /class="ear-item"><p class="ear-lead"><a href="ps999.html#v-999-2">/.test(all.els.decisions.innerHTML) && count() === 1 && all.els.decisions.innerHTML.includes('ear-item alone') && all.els['kind-switch'].hidden);
+  all.fire('show', 'all');
+  ok('decisions.html renders every open decision', count() === 4 && !all.els['kind-switch'].hidden);
   all.fire('kind', 'glossary');
   ok('decisions.html filters by kind', count() === 1);
   all.fire('kind', 'all');

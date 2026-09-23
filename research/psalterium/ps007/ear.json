@@ -1,0 +1,6 @@
+[
+  {"refs": ["7:5"], "decision": "ab_inimicis", "note": "*caia eu vazio, com razão, diante dos meus inimigos*: held against the Latinist's major, twice (*por obra dos meus inimigos*). D25: neither Vulgate-family version has an agent, and his fix supplies one the Latin lacks."},
+  {"refs": ["7:6"], "decision": "conculcet", "note": "*pise aos pés*: the blind reader and the stylist did not know *calque*. HANDOFF: *conculcáre → calcar aos pés* is now settled psalter-wide, with this verse the exception; *calque aos pés* is option 2."},
+  {"refs": ["7:13"], "decision": "conversi", "note": "D25: *Se não vos converterdes*, overruling the agent's *voltardes*, which the blind reader could hear as said to God. It costs the echo with 7:17 *se voltará*; *voltardes* is the option."},
+  {"refs": ["7:18"], "decision": "psallam", "note": "D25's headline: *psállere → entoar salmos*. *salmodiarei* failed the stylist and the blind reader; *cantarei* cannot stand because *psállere* sits beside *cantáre* in 12:6b and elsewhere."}
+]

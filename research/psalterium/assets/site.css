@@ -97,6 +97,27 @@ h1 { font-weight: 400; font-size: clamp(2.6rem, 6vw, 3.9rem); line-height: 1.05;
 .open { text-decoration: underline dotted var(--gold); text-decoration-thickness: 1.5px; text-underline-offset: .22em; }
 .open:hover { text-decoration-style: solid; }
 .changed { background: linear-gradient(transparent 62%, color-mix(in srgb, var(--gold-soft) 55%, transparent) 62%); }
+/* for your ear first (ear.json): a note in the margin, level with its verse; below the verse where there is no margin */
+.ear-summary { max-width: 34rem; margin: -1rem auto 1.5rem; padding: 0 1.5rem; text-align: center; font-style: italic; color: var(--ink-2); font-size: 1rem; }
+.ear-summary a { color: var(--rubric); text-decoration: none; font-style: normal; font-feature-settings: 'lnum'; }
+.ear { grid-column: 1 / -1; order: 99; margin: .35rem 0 .2rem 2.6rem; }
+.ear-note { display: block; margin: 0 0 .5rem; font-size: .92rem; line-height: 1.42; color: var(--ink-2); text-decoration: none; }
+.ear-note i { color: var(--ink); }
+a.ear-note:hover { color: var(--ink); }
+a.ear-note::before { content: '❧ '; color: var(--gold); font-style: normal; }
+.ear .eref { color: var(--rubric); font-feature-settings: 'lnum'; }
+/* on the decisions page, the margin note leads the decision it names */
+.ear-item { max-width: 40rem; margin: 0 auto; padding-top: 2.4rem; }
+.ear-item .decision { padding-top: .6rem; }
+.ear-lead { margin: 0 1.5rem; font-size: 1.05rem; line-height: 1.5; color: var(--ink); }
+.ear-lead::before { content: '❧ '; color: var(--gold); }
+.ear-lead a { color: var(--rubric); text-decoration: none; margin-right: .3rem; font-feature-settings: 'lnum'; }
+@media (min-width: 1100px) {
+  .psalm.with-ear { max-width: 84rem; padding-right: 19rem; }
+  .psalm.with-ear .verse { position: relative; }
+  .psalm.with-ear .ear { position: absolute; top: .7rem; left: calc(100% + 2.2rem); width: 14.5rem; margin: 0; }
+}
+
 /* what stands beside the psalm, under the column of its language */
 .cf { padding: .35rem 0 .5rem 2.6rem; font-size: .98rem; line-height: 1.4; color: var(--ink-2); }
 .cf p { margin: 0 0 .3rem; }
@@ -175,6 +196,8 @@ details.layered > .stratum { margin-left: 2.6rem; }
 
 @media (max-width: 760px) {
   body { font-size: 1.15rem; }
+  /* five switches wrap to a third of a phone's height: they stay at the top of the page instead of over the psalm */
+  .bar { position: static; }
   .verse { grid-template-columns: 1fr; row-gap: .15rem; padding: .7rem 0; }
   .la { font-size: .92em; }
   .la .num { display: none; }
@@ -217,6 +240,32 @@ details.layered > .stratum { margin-left: 2.6rem; }
 .prose td .links { display: block; font-size: .9rem; font-style: italic; color: var(--ink-2); }
 .prose td .links a { margin-right: .6rem; }
 .scroll { overflow-x: auto; }
+/* ── the front door of the index: what this is, its rule, one verse, three ways in ── */
+.front { max-width: 58rem; margin: 0 auto; padding: 0 1.5rem; }
+.lede { max-width: 36rem; margin: 0 auto; text-align: center; font-size: 1.32rem; line-height: 1.5; }
+.lede p { margin: 0 0 1rem; }
+.lede p + p { font-size: 1.08rem; color: var(--ink-2); }
+.rule { margin: 3rem auto 0; max-width: 40rem; text-align: center; }
+.rule p { margin: 0; font-style: italic; font-size: clamp(1.45rem, 3vw, 1.85rem); line-height: 1.3; }
+.rule cite { display: block; margin-top: .7rem; font-style: normal; font-family: var(--caps); font-size: .78rem; letter-spacing: .24em; text-transform: uppercase; color: var(--rubric); }
+.rule::before { content: '❦'; display: block; color: var(--gold); font-size: 1.3rem; margin-bottom: 1rem; }
+.sample { margin: 3.2rem 0 0; }
+.sample .verse { padding: 0; }
+.sample .side { padding-left: 0; }
+.sample .mark { padding-left: 0; }
+.sample figcaption { text-align: center; margin-top: 1rem; font-style: italic; font-size: 1rem; color: var(--ink-2); }
+.sample figcaption a { text-decoration-color: var(--gold-soft); text-underline-offset: 3px; }
+.doors { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem 3rem; margin: 3.6rem 0 0; }
+.door { display: block; text-decoration: none; text-align: center; }
+.door-title { display: block; font-family: var(--caps); font-size: .92rem; letter-spacing: .2em; text-transform: uppercase; color: var(--rubric); }
+.door-title::after { content: '❧'; display: block; margin: .35rem 0 .45rem; font-family: var(--serif); letter-spacing: 0; color: var(--gold); }
+.door-line { display: block; font-size: 1.05rem; line-height: 1.45; color: var(--ink-2); }
+.door:hover .door-line { color: var(--ink); }
+.tally { max-width: 36rem; margin: 3.6rem auto 1.4rem; padding: 0 1.5rem; text-align: center; font-size: 1rem; font-style: italic; color: var(--ink-2); }
+@media (max-width: 760px) {
+  .doors { grid-template-columns: 1fr; gap: 2rem; }
+  .lede { font-size: 1.2rem; }
+}
 .contents { text-align: center; font-style: italic; color: var(--ink-2); font-size: 1.08rem; max-width: 46rem; margin: 0 auto; padding: 0 1.5rem; }
 .contents a { margin: 0 .7rem; white-space: nowrap; }
 
@@ -282,8 +331,8 @@ textarea:focus { outline: none; border-bottom-color: var(--gold); }
 .empty { text-align: center; color: var(--ink-2); font-style: italic; }
 
 /* ── the psalter at a glance ── */
-.ledger { max-width: 50rem; margin: 0 auto; padding: 0 1.5rem; }
-.row { display: grid; grid-template-columns: 2.6rem 1fr 6.5rem 6.5rem 3.5rem; column-gap: 1.2rem; align-items: baseline; padding: .32rem 0; border-top: 1px solid var(--rule); font-size: 1.08rem; text-decoration: none; }
+.ledger { max-width: 56rem; margin: 0 auto; padding: 0 1.5rem; }
+.row { display: grid; grid-template-columns: 2.6rem 1fr 6.5rem 12.5rem 3.5rem; column-gap: 1.2rem; align-items: baseline; padding: .32rem 0; border-top: 1px solid var(--rule); font-size: 1.08rem; text-decoration: none; }
 .row:last-child { border-bottom: 1px solid var(--rule); }
 .row.head { border-top: 0; font-style: italic; font-size: .95rem; color: var(--ink-2); }
 .row .n { text-align: right; font-feature-settings: 'lnum'; color: var(--ink-2); }

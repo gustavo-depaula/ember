@@ -5,21 +5,40 @@ function bootDecisions() {
   const { psalms, kindIds } = JSON.parse(document.getElementById('decisions-data').textContent);
   const byId = (id) => document.getElementById(id);
   const states = Object.fromEntries(psalms.map((data) => [data.key, loadState(data, localStorage)]));
-  const filter = { kind: 'all', psalm: 'all' };
+  // opens on the margin notes (ear.json) when any page has them: the few places that most want Gustavo's ear
+  const hasEar = psalms.some((data) => (data.ear ?? []).length);
+  const filter = { show: hasEar ? 'ear' : 'all', kind: 'all', psalm: 'all' };
+  const pageHref = (data, ref) => `${data.key}.html#${verseAnchor(ref)}`;
+
+  // an ear note leads its decision; a note with no decision behind it (a held gate major) links to its verse
+  function earHtml(data) {
+    return (data.ear ?? []).map((item) => {
+      const d = item.decision && data.decisions.find((x) => x.id === item.decision);
+      const lead = `<p class="ear-lead"><a href="${pageHref(data, item.refs[0])}">${escapeHtml(placeLabel(data, item.refs))}</a> ${emphasis(item.note)}</p>`;
+      return d && isOpen(d)
+        ? `<div class="ear-item">${lead}${decisionHtml(data, states[data.key], d, `${data.key}--`, pageHref(data, d.refs[0] ?? item.refs[0]))}</div>`
+        : `<div class="ear-item alone">${lead}</div>`;
+    });
+  }
 
   function render() {
-    const shown = psalms.filter((data) => filter.psalm === 'all' || filter.psalm === data.key).flatMap((data) =>
+    const inView = psalms.filter((data) => filter.psalm === 'all' || filter.psalm === data.key);
+    const shown = filter.show === 'ear' ? inView.flatMap(earHtml) : inView.flatMap((data) =>
       data.decisions
         .filter((d) => isOpen(d) && (filter.kind === 'all' || d.kind === filter.kind))
         .map((d) => decisionHtml(data, states[data.key], d, `${data.key}--`, `${data.key}.html#${isStanding(d) ? 'decide' : verseAnchor(d.refs[0])}`)));
-    byId('decisions').innerHTML = shown.join('') || '<p class="empty">No open decision matches.</p>';
+    byId('decisions').innerHTML = shown.join('') || `<p class="empty">${filter.show === 'ear' ? 'Nothing is marked for your ear here.' : 'No open decision matches.'}</p>`;
+    byId(`s-${filter.show}`).checked = true;
     byId(filter.kind === 'all' ? 'k-all' : kindIds[filter.kind]).checked = true;
+    // the kinds sort every open decision; the ear notes are already few
+    byId('kind-switch').hidden = filter.show === 'ear';
   }
 
   document.addEventListener('change', (e) => {
     const { name, value, type, id } = e.target;
     if (id === 'psalm-filter') filter.psalm = value;
     else if (type !== 'radio') return;
+    else if (name === 'show') filter.show = value;
     else if (name === 'kind') filter.kind = value;
     else {
       const data = psalms.find((x) => x.key === e.target.dataset.psalm);
