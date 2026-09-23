@@ -1,0 +1,28 @@
+{
+  "append": [
+    {"row": "| púer (servant, addressed to God) |", "text": " **Ps 112:1 the bare vocative plural *Laudáte, púeri, Dóminum* → *Louvai, meninos, o Senhor*** — not this row's case (no possessive); the Latin's first sense (L&S 'a child'), DRB 'ye children', and the Latin liturgy's hearing (Alleluia of the Holy Innocents, Masses of Bosco, Thérèse of the Child Jesus, the Seven Brothers, Easter Saturday — grep). The ambiguity reader heard literal children ('an adult congregation may not feel addressed'); the v1 and v2 Latinists passed it. *servos* (MS1932; the CNBB *ó servos do Senhor*, from the Hebrew, verified) is option 1 — **for Gustavo**; see the new row *púeri* (vocative)."},
+    {"row": "| inops / pauper / egénus |", "text": " **Ps 112:7 *Súscitans a terra ínopem* → *o carente*** (D38) — the stylist heard social-work / emotional 'uma pessoa carente' and asked *necessitado*; the ambiguity reader named the emotional sense second. Kept under D38; more evidence for the fault already noted at 85:1, 87:9."},
+    {"row": "| respícere (in) |", "text": " **Ps 112:5 *et humília réspicit* → *e olha para as coisas humildes*** — *olhar para*, as 103:32, 30:8, 32:14. Draft 1's neuter clause *o que é humilde* drew a Latinist minor (plural lost) and was heard as a person; the plural noun taken."},
+    {"row": "| collocáre |", "text": " **Ps 112:8 *Ut cóllocet eum cum princípibus* → *Para colocá-lo com os príncipes*** — the stylist asked *o assentar* (the Greek καθίσαι / the Hebrew 'seat'); refused, rule 1; *Para o colocar* (MS1932) option."},
+    {"row": "| *usque in ætérnum / usque in sǽculum*", "text": " **Ps 112:2 *ex hoc nunc, et usque in sǽculum* → *desde agora e para todo o sempre*** — applied (new row *ex hoc nunc*)."},
+    {"row": "| *A solis ortu usque ad occásum*", "text": " **Ps 112:3 done: copied** (*Desde o nascer do sol até o poente, * é digno de louvor o nome do Senhor* — *laudábilis → digno de louvor* as 47:2, a copula supplied)."},
+    {"row": "| excélsus (adjective) |", "text": " **Ps 112:4 *Excélsus super omnes gentes Dóminus* → *Excelso é o Senhor sobre todas as nações*** (MS1932's order; the versicle). The ambiguity reader listed *Excelso* as unknown again."},
+    {"row": "| fit reverentia (rubric in DO's text) |", "text": " Ps 112:2 followed: *(faz-se reverência) Bendito seja o nome do Senhor*."},
+    {"row": "| dilúvium; *inhabitáre facit* |", "text": " **Ps 112:9 *Qui habitáre facit stérilem in domo* → *Ele faz habitar numa casa a estéril*** — 67:6b's words and order (*faz habitar numa casa …*); the relative made a main verb after the stylist heard *Ele, que …* wait for a predicate."}
+  ],
+  "terms": [
+    "| púeri (vocative plural, no possessive) | meninos (*Louvai, meninos, o Senhor*) | open | Ps 112:1 (the only vocative in the psalter — grep; the Benedictus 1:69 *púeri sui* is the servant sense, under the *púer* row). παῖδες holds child and servant; the Latin liturgy hears children (Holy Innocents, Bosco, Thérèse, the Seven Brothers, Easter Saturday). *servos* (MS1932; CNBB from the Hebrew) option — **for Gustavo**: it is the line Brazil knows; *crianças* option. |",
+    "| ex hoc nunc | desde agora | open | Ps 112:2 (*desde agora e para todo o sempre*); returns 113:26, 120:8, 124:2b, 130:3 (grep). Keeps *ex* (MS1932, DRB 'from henceforth now'); the CNBB's *agora e por toda a eternidade* drops it. |",
+    "| humília (neuter plural) | as coisas humildes | open | Ps 112:5 (τὰ ταπεινά; DRB 'the low things'); 137:6 *et humília réspicit* will copy. *o que é humilde* (draft 1) was heard as a person. |",
+    "| suscitáre (to lift up) | levantar (*Ele levanta da terra o carente*) | open | Ps 112:7; the cognate *suscitar* is 'provoke' in Brazil (77:5 *suscitou um testemunho* is another sense). |",
+    "| stercus | esterco (*e do esterco ergue o pobre*) | open | Ps 112:7 (κοπρία); the concrete image kept (rule 5); *monturo* (DM1962) and *imundície* (MS1932) options. Listed as unknown by one blind reader. |",
+    "| stérilis | a estéril | working | Ps 112:9; every witness. |",
+    "| lætans (predicative, of a person) | alegre (*alegre mãe de filhos*) | open | Ps 112:9 *matrem filiórum lætántem*; the adjective cannot be misattached to *filhos*, as *que se alegra* could; the plural substantive *lætántium* stays *os que se alegram* (86:7, 67:18). |"
+  ],
+  "formulas": [
+    "| *Laudáte, púeri, Dóminum: laudáte nomen Dómini* (112:1; Alleluia of the Holy Innocents, missa 12-28; Masses 01-31, 10-03, 07-10 with 112:9, Pasc0-6; horas SanctiM/02-10 — grep) | *Louvai, meninos, o Senhor: * louvai o nome do Senhor* | open — Ps 112 (*servos* option, for Gustavo) |",
+    "| *Sit nomen Dómini benedíctum* (112:2; versicle in several offices; the antiphon *Sit nomen Dómini * benedíctum in sǽcula* — grep) · with *ex hoc nunc, et usque in sǽculum* (112:2b; 07-10 Introit) | *Bendito seja o nome do Senhor* · *desde agora e para todo o sempre* | open — Ps 112 (the CNBB Liturgia das Horas line, verified; *Seja bendito* MS1932 option). The bishop's-blessing response *Agora e para sempre* seen only in a search summary — unverified |",
+    "| *Excélsus super omnes gentes Dóminus* (112:4a; versicle, Psalterium/Special/Major Special — grep) | *Excelso é o Senhor sobre todas as nações* | open — Ps 112 |",
+    "| *Súscitans a terra ínopem, et de stércore érigens páuperem* (112:7; a versicle, alone and with 112:8 — grep) | *Ele levanta da terra o carente, * e do esterco ergue o pobre* | open — Ps 112 (the gerunds *Levantando … erguendo* option) |"
+  ]
+}

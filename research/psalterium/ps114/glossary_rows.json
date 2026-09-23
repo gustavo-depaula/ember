@@ -1,0 +1,36 @@
+{
+  "append": [
+    {
+      "row": "| benefácere |",
+      "text": "**Ps 114:7 *quia Dóminus benefécit tibi* → *porque o Senhor te fez bem*** — the row applied. The v1 stylist heard *te fez bem* as therapeutic ('was good for you', as a walk *faz bem*) and asked *te fez o bem*; the ambiguity reader heard 'has been good to you' first, 'made you well' second. Held for the row (three places, one wording); **proposed: *fazer o bem* as the row's alternative, to be taken in 48:19, 56:3 and 114:7 together if wanted** (decision `benefecit`)."
+    },
+    {
+      "row": "| lapsus |",
+      "text": "Ps 114:8 *pedes meos a lapsu* → *os meus pés da queda* — copied from 55:13 as the row asked, with 55:13's *arrancar a minha alma da morte* (person changed to the Latin's third, *erípuit*). The ambiguity reader heard stumbling first, a moral overtone second, once 'the Fall'. The stylist asked to front the complements (*da queda os meus pés*) for the cadence; refused, option `lacrimis`."
+    },
+    {
+      "row": "| placére + dative (*qui",
+      "text": "**Ps 114:9 *Placébo Dómino * in regióne vivórum* → *Agradarei ao Senhor * na região dos vivos*** — applied; = the Vespers antiphon of the Office of the Dead (DO C9), the verse reads as the antiphon unchanged. *régio* (χώρα) kept apart from *terra* (26:13 *na terra dos vivos*) as *região*; *terra* the option. The ambiguity reader warned *agradarei* may be misheard as *agradecerei*; held. The CNBB Liturgia das Horas line (*Andarei na presença de Deus, junto a ele na terra dos vivos*, fetched) is from the Hebrew."
+    },
+    {
+      "row": "| inférnus / ínferi |",
+      "text": "Ps 114:3a *perícula inférni* → *os perigos do inferno* (= 17:6's *dores do inferno*; parallel to *dores da morte*); the ambiguity reader heard the hell of the damned first again. Kept; *abismo* and *mundo dos mortos* options."
+    },
+    {
+      "row": "| párvuli |",
+      "text": "Ps 114:6 *Custódiens párvulos Dóminus* → *O Senhor guarda os pequeninos* (participle as a finite present, D2); heard as the lowly first, children second — both the Latin's."
+    },
+    {
+      "row": "| réquies |",
+      "text": "Ps 114:7 *in réquiem tuam* → *ao teu repouso* (MS1932); heard as peace, once as the grave (the Office of the Dead reads both)."
+    },
+    {
+      "row": "| *inclína (ad me) aurem tuam",
+      "text": "Ps 114:2 *Quia inclinávit aurem suam mihi* → *Porque inclinou para mim o seu ouvido* — the row in the third person. The Monday Vespers antiphon *Inclinávit Dóminus * aurem suam mihi* (DO Psalmi major) would read *O Senhor inclinou * para mim o seu ouvido*."
+    },
+    {
+      "row": "| *Bénedic, ánima mea, Dómino*",
+      "text": "Ps 114:7 *Convértere, ánima mea* → *Volta, ó minha alma* — this row's vocative with *ó* (the same build: imperative, vocative, complement), not 41:6's bare *minha alma*: without *ó*, *Volta minha alma* can be heard as 'he turns my soul back'. MS1932 has *ó* too. No reader remarked (decision `anima`)."
+    }
+  ]
+}

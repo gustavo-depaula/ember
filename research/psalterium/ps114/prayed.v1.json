@@ -1,0 +1,357 @@
+{
+  "psalm": 114,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "verses": {
+    "114:1": "{dilexi}, porque o Senhor escutará * a voz da minha oração.",
+    "114:2": "Porque inclinou para mim o seu ouvido: * e {indiebus} {invocabo}.",
+    "114:3a": "Cercaram-me as dores da morte: * e os perigos do {inferni} me {invenerunt}.",
+    "114:3b": "{inveni}: * e invoquei o nome do Senhor.",
+    "114:4b": "Ó Senhor, livrai a minha alma: ‡ {misericors}, * e o nosso Deus tem piedade.",
+    "114:6": "{custodiens}: * fui humilhado, e {liberavit}.",
+    "114:7": "Volta, {anima}, ao teu repouso: * porque o Senhor te fez bem.",
+    "114:8": "Porque arrancou a minha alma da morte: ‡ os meus olhos das lágrimas, * os meus pés da queda.",
+    "114:9": "Agradarei ao Senhor * na {regione} dos vivos."
+  },
+  "decisions": [
+    {
+      "id": "dilexi",
+      "refs": [
+        "114:1"
+      ],
+      "latin": "Diléxi, quóniam exáudiet",
+      "kind": "ambiguity",
+      "why": "The Latin says 'I loved' with no object, and a perfect beside a future (the Greek has the same: ἠγάπησα … εἰσακούσεται). Who or what is loved is left open, and so is *quóniam*: 'because' or 'that'. MS1932 supplies the object (*Amo o Senhor*), which is the Hebrew family's reading and closes the openness. Ruled: *Amei*, bare, the Latin's tense; *porque* as DRB 'because'. The strangeness of loving because of a future hearing is the Latin's own.",
+      "options": [
+        {
+          "label": "Amei",
+          "forms": {
+            "dilexi": "Amei"
+          },
+          "note": "draft — the Latin's perfect, no object supplied; DRB 'I have loved'",
+          "from": "draft"
+        },
+        {
+          "label": "Eu amo",
+          "forms": {
+            "dilexi": "Eu amo"
+          },
+          "note": "the perfect read as a present state (as D44 did for *cognóvi → conheço*); but *dilígere* is not a verb whose perfect is a present",
+          "from": "draft"
+        },
+        {
+          "label": "Amo o Senhor",
+          "forms": {
+            "dilexi": "Amo o Senhor"
+          },
+          "note": "MS1932; supplies the object and then says *o Senhor* twice in one colon; refused (closes the Latin's openness)",
+          "from": "MS1932",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "indiebus",
+      "refs": [
+        "114:2"
+      ],
+      "latin": "in diébus meis",
+      "kind": "word",
+      "why": "'In my days' = as long as I live. MS1932 explains it (*todos os dias da minha vida*). Ruled: the Latin's words, which Portuguese understands as they stand.",
+      "options": [
+        {
+          "label": "nos meus dias",
+          "forms": {
+            "indiebus": "nos meus dias"
+          },
+          "note": "draft; DRB 'in my days'",
+          "from": "draft"
+        },
+        {
+          "label": "em todos os meus dias",
+          "forms": {
+            "indiebus": "em todos os meus dias"
+          },
+          "note": "adds *todos*, which the Latin lacks",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "invocabo",
+      "refs": [
+        "114:2"
+      ],
+      "latin": "invocábo",
+      "kind": "grammar",
+      "why": "The Latin verb has no object here (nor has the Greek ἐπικαλέσομαι); the object is understood from *aurem suam*. Portuguese *invocar* can stand absolute, a little bare at the cadence. Ruled: bare, as the Latin; the supplied pronoun is the option (MS1932 supplies it).",
+      "options": [
+        {
+          "label": "invocarei",
+          "forms": {
+            "invocabo": "invocarei"
+          },
+          "note": "draft — no object, as the Latin",
+          "from": "draft"
+        },
+        {
+          "label": "o invocarei",
+          "forms": {
+            "invocabo": "o invocarei"
+          },
+          "note": "MS1932 *eu o invocarei*; supplies the object",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "inferni",
+      "refs": [
+        "114:3a"
+      ],
+      "latin": "perícula inférni",
+      "kind": "glossary",
+      "why": "The *inférnus* row is open and flagged for Gustavo (D22): the blind reader of Ps 6 heard the hell of the damned first. Here the colon is parallel to *dolóres mortis*, so the sense is the realm of death (κίνδυνοι ᾅδου); 17:6 *Dolóres inférni* already reads *as dores do inferno*, and this psalm keeps the row. In the Office of the Dead the Christian overtone is read on purpose.",
+      "options": [
+        {
+          "label": "inferno",
+          "forms": {
+            "inferni": "inferno"
+          },
+          "note": "the row; DRB 'the perils of hell', MS1932 *perigos do inferno*; = 17:6",
+          "from": "glossary"
+        },
+        {
+          "label": "abismo",
+          "forms": {
+            "inferni": "abismo"
+          },
+          "note": "the Diurnal's word (from the Hebrew *she'ol*); *abismo* is *abýssus*'s (D42)",
+          "from": "DM1962",
+          "warn": true
+        },
+        {
+          "label": "mundo dos mortos",
+          "forms": {
+            "inferni": "mundo dos mortos"
+          },
+          "note": "explains; cf. MS1932 at 6:6 *habitação dos mortos*",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inven",
+      "refs": [
+        "114:3a",
+        "114:3b"
+      ],
+      "latin": "invenérunt me … invéni",
+      "kind": "word",
+      "why": "The Latin turns one verb round: the perils of hell *found me*, and I *found* tribulation. MS1932 loses it (*vieram sobre mim … Encontrei-me na tribulação*). Ruled: one verb, *encontrar*, both times, so the echo stays (rule 2).",
+      "options": [
+        {
+          "label": "encontrar",
+          "forms": {
+            "invenerunt": "encontraram",
+            "inveni": "Tribulação e dor encontrei"
+          },
+          "note": "draft — the echo kept; DRB 'have found me … I met with'",
+          "from": "draft"
+        },
+        {
+          "label": "achar",
+          "forms": {
+            "invenerunt": "acharam",
+            "inveni": "Tribulação e dor achei"
+          },
+          "note": "the same echo with the shorter verb",
+          "from": "draft"
+        },
+        {
+          "label": "Encontrei tribulação e dor",
+          "forms": {
+            "invenerunt": "encontraram",
+            "inveni": "Encontrei tribulação e dor"
+          },
+          "note": "plain order; *dor* then rhymes at the mediant with *Senhor* at the final — a rhyme the Latin does not have (rule 5)",
+          "from": "draft",
+          "warn": true
+        }
+      ]
+    },
+    {
+      "id": "misericors",
+      "refs": [
+        "114:4b"
+      ],
+      "latin": "miséricors Dóminus, et justus",
+      "kind": "order",
+      "why": "Verbless in the Latin, predicate first, *et justus* added as an afterthought. Ruled: the copula supplied and natural order (D2), with the comma that keeps *e justo* as the Latin's afterthought. The Latin's order is the option.",
+      "options": [
+        {
+          "label": "o Senhor é misericordioso, e justo",
+          "forms": {
+            "misericors": "o Senhor é misericordioso, e justo"
+          },
+          "note": "draft; MS1932 *O Senhor é misericordioso e justo*",
+          "from": "draft"
+        },
+        {
+          "label": "misericordioso é o Senhor, e justo",
+          "forms": {
+            "misericors": "misericordioso é o Senhor, e justo"
+          },
+          "note": "the Latin's order; an inversion Portuguese tolerates in praise",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "custodiens",
+      "refs": [
+        "114:6"
+      ],
+      "latin": "Custódiens párvulos Dóminus",
+      "kind": "grammar",
+      "why": "A participle with no finite verb: 'the Lord (is) one who keeps the little ones'. A Portuguese gerund or relative would leave the colon hanging before the asterisk. Ruled: a finite present (grammar, D2). *párvuli → pequeninos* (the row; DRB 'little ones'), not the Hebrew family's *simples* / DM1962 *humildes*.",
+      "options": [
+        {
+          "label": "O Senhor guarda os pequeninos",
+          "forms": {
+            "custodiens": "O Senhor guarda os pequeninos"
+          },
+          "note": "draft",
+          "from": "draft"
+        },
+        {
+          "label": "É o Senhor que guarda os pequeninos",
+          "forms": {
+            "custodiens": "É o Senhor que guarda os pequeninos"
+          },
+          "note": "MS1932's build (*é que guarda*); adds an emphasis the Latin does not mark",
+          "from": "MS1932"
+        },
+        {
+          "label": "O Senhor é o guarda dos pequeninos",
+          "forms": {
+            "custodiens": "O Senhor é o guarda dos pequeninos"
+          },
+          "note": "noun for the participle, as DRB 'the keeper'; *guarda* is heard as a person (cf. the *custódia in nocte* row)",
+          "from": "DRB"
+        }
+      ]
+    },
+    {
+      "id": "liberavit",
+      "refs": [
+        "114:6"
+      ],
+      "latin": "humiliátus sum, et liberávit me",
+      "kind": "grammar",
+      "why": "The subject changes inside the colon (I was humbled, he freed me). Ruled: the subject named, as D2 allows, so the ear does not carry *eu* into the second verb. *humiliáre → humilhar* (the row; 118:107 *Fui de todo humilhado*); DRB's 'I was little' is not followed.",
+      "options": [
+        {
+          "label": "e ele me livrou",
+          "forms": {
+            "liberavit": "ele me livrou"
+          },
+          "note": "draft; MS1932 *e ele me livrou*",
+          "from": "draft"
+        },
+        {
+          "label": "e livrou-me",
+          "forms": {
+            "liberavit": "livrou-me"
+          },
+          "note": "no subject, as the Latin",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "anima",
+      "refs": [
+        "114:7"
+      ],
+      "latin": "Convértere, ánima mea",
+      "kind": "glossary",
+      "why": "The soul is *tu*. Two forms of the vocative stand in the psalter: *minha alma* (41:6, settled D42) and *ó minha alma* (102:1, 103:1, the *Bénedic, ánima mea* row). The build here is 102:1's — imperative, vocative, complement — and without *ó* the bare *Volta minha alma* can be heard as 'he turns my soul back' (*volta* is also the third person). Ruled: *ó minha alma*.",
+      "options": [
+        {
+          "label": "ó minha alma",
+          "forms": {
+            "anima": "ó minha alma"
+          },
+          "note": "draft; = 102:1; MS1932 *Volta, ó minha alma, ao teu repouso*",
+          "from": "glossary"
+        },
+        {
+          "label": "minha alma",
+          "forms": {
+            "anima": "minha alma"
+          },
+          "note": "= 41:6 (D42); the third-person hearing of *Volta* is possible",
+          "from": "glossary"
+        },
+        {
+          "label": "alma minha",
+          "forms": {
+            "anima": "alma minha"
+          },
+          "note": "the Latin's order; marked, poetic",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "regione",
+      "refs": [
+        "114:9"
+      ],
+      "latin": "in regióne vivórum",
+      "kind": "word",
+      "why": "The Vespers antiphon of the Office of the Dead (DO Commune C9: *Placébo Dómino * in regióne vivórum*, the asterisk where the verse has it, so the verse reads as the antiphon unchanged). The Latin's word is *régio* (χώρα), not *terra* (γῆ) as in 26:13 *in terra vivéntium* → *na terra dos vivos*; by D15's test two Greek words keep two Portuguese words. *Placére + dative → agradar a* is settled (D44, the row names this verse). Liturgy in Brazil, checked 2026-09-23: the CNBB Liturgia das Horas (Hebrew-based, Ps 114[116A]) reads 9 as *Andarei na presença de Deus, junto a ele na terra dos vivos* (liturgiadashoras.online, fetched), which is also the responsorial refrain sung at Mass (24th Sunday B, per music sites found by search) — a Hebrew-family line (אֶתְהַלֵּךְ), so no witness of the Latin's *Placébo*. MS1932 has *Agradarei ao Senhor na região dos vivos*. **Unverified:** no printed Brazilian pre-conciliar Office of the Dead wording of the antiphon was found on the web; DO's own Portuguese C9 has *Agradarei ao Senhor * na região dos vivos*, which is no evidence (D12).",
+      "options": [
+        {
+          "label": "região",
+          "forms": {
+            "regione": "região"
+          },
+          "note": "draft; MS1932; keeps *régio* apart from *terra*",
+          "from": "MS1932"
+        },
+        {
+          "label": "terra",
+          "forms": {
+            "regione": "terra"
+          },
+          "note": "DRB 'land'; the phrase Brazilian ears know from 26:13 and the CNBB refrain; merges *régio* with *terra*",
+          "from": "DRB"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "114:1": "*vocem oratiónis meæ → a voz da minha oração* (the *orátio* row). *exaudíre → escutar* (D3). The subject moved before the verb so that *escutará* takes the mediant; *porque escutará o Senhor* would hear *o Senhor* as the object.",
+    "114:2": "*inclináre aurem* → *inclinou para mim o seu ouvido*, the third person of the formula row (*inclinai para mim o vosso ouvido*, 16:6, 30:3). The Monday Vespers antiphon *Inclinávit Dóminus * aurem suam mihi* (DO Psalmi major, grep) adds *Dóminus*; as an antiphon it would read *O Senhor inclinou * para mim o seu ouvido*.",
+    "114:3a": "First colon = 17:5a word for word (*Cercaram-me as dores da morte*), as the Latin is identical (rule 6). *periculum → perigo*, the plain cognate.",
+    "114:3b": "The Latin's order (object first, verb at the mediant) is kept: it holds *encontrei* at the same place as *encontraram* at the end of 3a, and it avoids the *dor / Senhor* rhyme at mediant and final that the plain order makes (decision `inven`). *invocávi → invoquei*, the *invocáre* row; the second colon is in natural order.",
+    "114:4b": "*líbera → livrai* (the *liberáre* row; safe under rule 3, past *livrei*). *miserétur → tem piedade* (the *miseréri* row); the family link with *misericordioso* is lost, as in every Portuguese version. *O Dómine* → *Ó Senhor*, the interjection kept.",
+    "114:7": "*convértere → voltar* (the row; here the soul's turning back, not conversion). *réquies → repouso* (the row, 94:11; MS1932). *benefácere → fazer bem* (the row; 56:3 *ao Deus que me fez bem*; the row names this verse).",
+    "114:8": "Near-twin of 55:13 *Quóniam eripuísti ánimam meam de morte, et pedes meos de lapsu*: its words are copied (*arrancar* with a source named, the *erípere* row; *lapsus → queda*, D44, which names this verse), with the person changed to the Latin's third (*erípuit*; the Hebrew has the second — not followed). *lácrimæ → lágrimas* (the row). The proparoxytone *lágrimas* at the mediant mirrors the Latin's own *lácrimis*; accepted.",
+    "114:9": "= the Office of the Dead Vespers antiphon (see decision `regione`)."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps114.md (no Diurnal-specific concern: it is printed, Hebrew-based). Formulas copied: 17:5a (114:3a), 55:13 (114:8), the *inclína aurem* row (114:2), 102:1's vocative (114:7). Glossary rows applied: *exaudíre*, *orátio*, *invocáre*, *inférnus* (open, kept), *liberáre*, *miseréri*, *custodíre*, *párvuli*, *humiliáre*, *convértere*, *réquies*, *benefácere*, *erípere*, *lácrimæ*, *lapsus*, *placére* + dative. Liturgical use checked by grep in DO: 114:9 is the Vespers antiphon of the Office of the Dead (C9); 114:2 gives the Monday Vespers antiphon. Brazilian circulation checked on the web (decision `regione`). Hard readings: the objectless *Diléxi*; *Custódiens* without a finite verb; the *invenérunt / invéni* echo."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids 114:1–9 with 3a, 3b, 4b; every mark). Soft length flags accepted: 114:3b first colon −4 (*Tribulação e dor encontrei* — the Latin needs thirteen syllables for three words; one breath either way); 114:4b ‡ colon +4 (*misericordioso* is six syllables for four, and the copula is supplied — D2); 114:7b −3 (*te fez bem*, the benefácere row). The proparoxytone *lágrimas* before * in 114:8 mirrors the Latin *lácrimis*. No rhyme flags (the plain order of 3b would have made *dor / Senhor*)."
+    }
+  ]
+}

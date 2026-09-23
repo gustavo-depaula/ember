@@ -1,0 +1,11 @@
+{
+  "role": "latinist",
+  "prompt": "../prompts/latinist.md",
+  "promptSha256": "9f40b084795a3766164ed989dbd2eff53d580ede6d4cfbe3a6fa4ccc51b7726f",
+  "target": "prayed.vos.json",
+  "targetSha256": "3d1ff1a6ca4b64d98c8fd9937920f52d18834829dced962fe07447afa032e5fd",
+  "runner": "claude-code agent (fresh context)",
+  "model": "claude-opus-5-5 (fresh context, with latin.json)",
+  "at": "2026-09-23T04:28:01+00:00",
+  "reply": "{\"verses\": [{\"id\": \"112:5\", \"severity\": \"minor\", \"issues\": [{\"latin\": \"humília réspicit\", \"portuguese\": \"olha para o que é humilde\", \"problem\": \"humília is a neuter plural ('lowly things'); the singular collective 'o que é humilde' is defensible but shifts the number.\", \"fix\": \"e olha para as coisas humildes no céu e na terra?\"}]}], \"overall\": \"A faithful rendering: the Latin participles (Súscitans, érigens) are kept as gerunds, the ambiguous attachment of 'in cælo et in terra' is preserved, and nothing is added or explained. Pointing marks match the Latin in every verse (one mediant each). Only a small number shift in 112:5 is worth considering.\"}\n"
+}

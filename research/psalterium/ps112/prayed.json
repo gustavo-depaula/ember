@@ -1,0 +1,717 @@
+{
+  "psalm": 112,
+  "tier": 3,
+  "version": 2,
+  "address": "vós",
+  "status": "reviewed",
+  "verses": {
+    "112:1": "Louvai, {pueri}, o Senhor: * louvai o nome do Senhor.",
+    "112:2": "{reverentia} {sitnomen}, * {exhoc}.",
+    "112:3": "Desde o nascer do sol até o poente, * {laudabile} o nome do Senhor.",
+    "112:4": "{excelsus}, * {gloria4}.",
+    "112:5": "{quis} o Senhor, nosso Deus, que habita nas alturas, * e {humilia} no céu e na terra?",
+    "112:7": "{suscitans} da terra o {inops}, * e {stercore} {erigens} o pobre:",
+    "112:8": "{collocet} com os príncipes, * com os príncipes do seu povo.",
+    "112:9": "{qui9} {indomo} a estéril, * {matrem}."
+  },
+  "decisions": [
+    {
+      "id": "pueri",
+      "refs": [
+        "112:1"
+      ],
+      "latin": "Laudáte, púeri, Dóminum",
+      "kind": "glossary",
+      "why": "The psalm's first word of address. *Púer* is first a child (L&S: 'orig. a child, whether boy or girl'), and also a servant; the Greek παῖδες holds both senses; the Hebrew has 'servants of the LORD' (עַבְדֵי), which the CNBB Liturgia das Horas and Lecionário follow (*ó servos do Senhor*, verified, liturgy-br/ps112.txt), as do MS1932 (*vós, seus servos*) and DM1962. Rule 1: the Hebrew does not decide the Latin's sense. The Latin Church plainly hears children in this verse: DO sets *Laudáte, púeri, Dóminum* as the Alleluia of the Holy Innocents (missa Sancti/12-28), and in the Masses of St John Bosco (01-31), St Thérèse of the Child Jesus (10-03), the Seven Holy Brothers with their mother (07-10, joined to 112:9), and Easter Saturday for the neophytes (Pasc0-6) — grep. Douay-Rheims: *ye children*. The glossary row *púer → servo* (open, Ps 68:18, 85:16) is for *púer tuus*, a servant of God addressed to God, where a possessive makes the servant sense; here the vocative plural stands bare. Ruled *meninos*: the Latin's first sense and its liturgy's; *servos* kept as option 1 and **flagged for Gustavo** — it is the line Brazil knows.",
+      "options": [
+        {
+          "label": "meninos",
+          "forms": {
+            "pueri": "meninos"
+          },
+          "note": "Ruling. DRB 'ye children'; the Latin liturgy's reading (Holy Innocents, Bosco, Thérèse, Easter Saturday). Masculine plural as the generic 'children'.",
+          "from": "draft"
+        },
+        {
+          "label": "servos",
+          "forms": {
+            "pueri": "servos"
+          },
+          "note": "The glossary row púer → servo (for púer tuus); MS1932 'vós, seus servos'; the CNBB 'ó servos do Senhor' (from the Hebrew) — the familiar line. Closes the Latin's ambiguity the other way.",
+          "from": "glossary"
+        },
+        {
+          "label": "crianças",
+          "forms": {
+            "pueri": "crianças"
+          },
+          "note": "Gender-neutral as *púer* 'boy or girl' is; heard as small children only, and of a catechism register.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "reverentia",
+      "refs": [
+        "112:2"
+      ],
+      "latin": "(fit reverentia)",
+      "kind": "glossary",
+      "why": "DO's Latin carries the rubric *(fit reverentia)* inside the verse, at the Name (a bow). The glossary row (Ps 67:5a; also 110:9b) keeps it translated in parentheses and asks Gustavo whether rubrics are kept or dropped. Followed as the row stands; it is not prayed aloud (the checks strip parentheses).",
+      "options": [
+        {
+          "label": "(faz-se reverência)",
+          "forms": {
+            "reverentia": "(faz-se reverência)"
+          },
+          "note": "Ruling: the row, as 67:5a and 110:9b.",
+          "from": "glossary"
+        },
+        {
+          "label": "(dropped)",
+          "forms": {
+            "reverentia": ""
+          },
+          "note": "No rubric in the prayed text; the Latin column keeps it.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "sitnomen",
+      "refs": [
+        "112:2"
+      ],
+      "latin": "Sit nomen Dómini benedíctum",
+      "kind": "order",
+      "why": "A formula said alone as a versicle (DO: *V. Sit nomen Dómini benedíctum*, several offices; the antiphon *Sit nomen Dómini * benedíctum in sǽcula*) and, in Brazil, the opening of the CNBB Liturgia das Horas verse: *Bendito seja o nome do Senhor* (verified). The words are the Latin's one for one (*sit* → *seja*, *benedíctum* → *bendito*, the benedícere row); only the order is at stake, and D2 lets natural order lead. The adjective-first order is how Portuguese says a wish of blessing (cf. the settled *Bendito o Senhor*, D41) and is the line the ear already has.",
+      "options": [
+        {
+          "label": "Bendito seja o nome do Senhor",
+          "forms": {
+            "sitnomen": "Bendito seja o nome do Senhor"
+          },
+          "note": "Ruling; natural order; = the CNBB Liturgia das Horas line (verified).",
+          "from": "draft"
+        },
+        {
+          "label": "Seja bendito o nome do Senhor",
+          "forms": {
+            "sitnomen": "Seja bendito o nome do Senhor"
+          },
+          "note": "MS1932; the jussive first, as the Latin.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Seja o nome do Senhor bendito",
+          "forms": {
+            "sitnomen": "Seja o nome do Senhor bendito"
+          },
+          "note": "The Latin's order word for word; DM1962 has it; ends on the participle, an inversion Portuguese does not need.",
+          "from": "DM1962"
+        }
+      ]
+    },
+    {
+      "id": "exhoc",
+      "refs": [
+        "112:2"
+      ],
+      "latin": "ex hoc nunc, et usque in sǽculum",
+      "kind": "glossary",
+      "why": "*Usque in sǽculum* is D37's formula (*para todo o sempre*; the row lists 112:2). *Ex hoc nunc* ('from this now') is new to the glossary (it returns at 113:26, 120:8, 124:2b, 130:3 — grep): *desde agora* keeps the 'from' (*ex*) the Latin names and that MS1932 and DRB ('from henceforth now') keep; the CNBB's *agora e por toda a eternidade* drops it and spends *eternidade*. The Latin's *et* kept. The bishop's blessing dialogue is reported as *Agora e para sempre* — seen only in a search summary, not fetched: unverified, and it drops *ex* and *usque* both.",
+      "options": [
+        {
+          "label": "desde agora e para todo o sempre",
+          "forms": {
+            "exhoc": "desde agora e para todo o sempre"
+          },
+          "note": "Ruling; D37 for *usque in sǽculum*; *ex hoc nunc → desde agora* (new row).",
+          "from": "glossary"
+        },
+        {
+          "label": "desde agora e para sempre",
+          "forms": {
+            "exhoc": "desde agora e para sempre"
+          },
+          "note": "MS1932; the bare D23 form — drops *usque*, against D37.",
+          "from": "MS1932"
+        },
+        {
+          "label": "agora e por toda a eternidade",
+          "forms": {
+            "exhoc": "agora e por toda a eternidade"
+          },
+          "note": "CNBB Liturgia das Horas (from the Hebrew; verified). Refused: drops *ex*, and *eternidade* is not the *sǽculum* rows' word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "laudabile",
+      "refs": [
+        "112:3"
+      ],
+      "latin": "laudábile nomen Dómini",
+      "kind": "grammar",
+      "why": "The first colon copies the settled formula of 49:1b (*Desde o nascer do sol até o poente*, D44; the row says 112:3 should copy it). The Latin has an adjective, *laudábile*, where the Greek has the imperative αἰνεῖτε and the Hebrew a participle (CNBB *louvado seja*): the Latin is followed. *Digno de louvor* is the settled rendering of *laudábilis* (47:2 formula *muito digno de louvor*). The Latin is a nominal sentence; a copula is supplied (D2), as MS1932 does. The colon runs +3 syllables on the Latin's 9 — accepted: the formula's words cannot be shortened, and the copula makes it a sentence. The colon ends on *nome do Senhor* as 112:1b does, as the Latin does.",
+      "options": [
+        {
+          "label": "é digno de louvor",
+          "forms": {
+            "laudabile": "é digno de louvor"
+          },
+          "note": "Ruling; copula supplied; MS1932 'é digno de louvor o nome do Senhor'.",
+          "from": "draft"
+        },
+        {
+          "label": "digno de louvor",
+          "forms": {
+            "laudabile": "digno de louvor"
+          },
+          "note": "The Latin's nominal sentence kept, as *Bendito o Senhor* (D41); after a long adverbial first colon it may be heard as a fragment.",
+          "from": "draft"
+        },
+        {
+          "label": "louvável",
+          "forms": {
+            "laudabile": "louvável é"
+          },
+          "note": "The cognate adjective, shorter (fits the Latin's length); in Brazil *louvável* is 'commendable', as of an initiative — too slight for the Name.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "excelsus",
+      "refs": [
+        "112:4"
+      ],
+      "latin": "Excélsus super omnes gentes Dóminus",
+      "kind": "order",
+      "why": "Words by the rows: *excélsus → excelso* (D43), *gentes → nações*, *super → sobre* (the *super* (place) row; 98:2 *excelso sobre todos os povos*). The Latin frames the colon *Excélsus … Dóminus*; the ruling keeps *Excelso* first and moves the subject up with its copula, the natural order (D2), as MS1932 does. This colon is also said alone as a versicle (DO, Major Special: *V. Excélsus super omnes gentes Dóminus*).",
+      "options": [
+        {
+          "label": "Excelso é o Senhor sobre todas as nações",
+          "forms": {
+            "excelsus": "Excelso é o Senhor sobre todas as nações"
+          },
+          "note": "Ruling; MS1932's order.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Excelso sobre todas as nações é o Senhor",
+          "forms": {
+            "excelsus": "Excelso sobre todas as nações é o Senhor"
+          },
+          "note": "The Latin's frame, with the subject last.",
+          "from": "draft"
+        },
+        {
+          "label": "O Senhor é excelso sobre todas as nações",
+          "forms": {
+            "excelsus": "O Senhor é excelso sobre todas as nações"
+          },
+          "note": "Plain prose order (cf. 98:2 in its second colon); loses the Latin's first word.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gloria4",
+      "refs": [
+        "112:4"
+      ],
+      "latin": "et super cælos glória ejus",
+      "kind": "order",
+      "why": "The stylist heard the verse trail off on *glória* and asked *e a sua glória, sobre os céus*. Refused: the Latin ends on *glória ejus*; the build is 56:6's refrain (*e por toda a terra a vossa glória*), where the glory ends the verse too; and *glória* is paroxytone for the tone (gló-ria). Kept as option.",
+      "options": [
+        {
+          "label": "e sobre os céus a sua glória",
+          "forms": {
+            "gloria4": "e sobre os céus a sua glória"
+          },
+          "note": "Ruling; the Latin's order; as 56:6.",
+          "from": "draft"
+        },
+        {
+          "label": "e a sua glória, sobre os céus",
+          "forms": {
+            "gloria4": "e a sua glória, sobre os céus"
+          },
+          "note": "The stylist's; ends on an oxytone.",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "quis",
+      "refs": [
+        "112:5"
+      ],
+      "latin": "Quis sicut Dóminus",
+      "kind": "grammar",
+      "why": "The Latin has no verb; Portuguese needs one (D2). *Quem é como* is the plain question and DM1962's; MS1932 has *Quem há como*, which asks whether any exists.",
+      "options": [
+        {
+          "label": "Quem é como",
+          "forms": {
+            "quis": "Quem é como"
+          },
+          "note": "Ruling; DM1962 diction.",
+          "from": "DM1962"
+        },
+        {
+          "label": "Quem há como",
+          "forms": {
+            "quis": "Quem há como"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "humilia",
+      "refs": [
+        "112:5"
+      ],
+      "latin": "et humília réspicit in cælo et in terra",
+      "kind": "ambiguity",
+      "why": "*Humília* is a neuter plural (τὰ ταπεινά): lowly things, not lowly people. DRB 'the low things'; MS1932 glosses 'as criaturas humildes'. *O que é humilde* keeps the neuter and the *húmilis → humilde* row (D27) in one plain clause; *os humildes* would make it persons. *Réspicere → olhar para*, as in the finished 103:32 *Ele, que olha para a terra*, 30:8, 32:14 (the glossary row is open; *estar voltado para* is for eyes, 10:5b). *In cælo et in terra* is left at the end, where the Latin has it, so that it may go with *réspicit* or with both verbs, as the Latin allows. **v2:** the plural noun *as coisas humildes* taken from the Latinist and the stylist; *o que é humilde* was heard as a person by the ambiguity reader. The attachment of *no céu e na terra* stays open, as the Latin's.",
+      "options": [
+        {
+          "label": "olha para as coisas humildes",
+          "forms": {
+            "humilia": "olha para as coisas humildes"
+          },
+          "note": "Ruling in v2: the Latinist (minor: the neuter's plural lost), the stylist (hiatus *o-que-é-hu*, abstract) and the ambiguity reader (heard *o que é humilde* as a humble person) all pointed here. DRB 'the low things'.",
+          "from": "latinist"
+        },
+        {
+          "label": "olha para o que é humilde",
+          "forms": {
+            "humilia": "olha para o que é humilde"
+          },
+          "note": "Draft 1: the neuter as a clause; heard as a person, and loses the plural.",
+          "from": "draft"
+        },
+        {
+          "label": "olha as coisas humildes",
+          "forms": {
+            "humilia": "olha as coisas humildes"
+          },
+          "note": "The stylist's: *olhar* without *para*; the finished psalms say *olhar para* for *réspicere* (103:32, 30:8, 32:14).",
+          "from": "stylist"
+        },
+        {
+          "label": "olha para os humildes",
+          "forms": {
+            "humilia": "olha para os humildes"
+          },
+          "note": "Makes it persons (MS1932's gloss); closes what the neuter leaves wide.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "suscitans",
+      "refs": [
+        "112:7"
+      ],
+      "latin": "Súscitans … érigens",
+      "kind": "grammar",
+      "why": "Two participles hanging on *Dóminus* of 112:5, with no main verb. The gerund keeps the Latin's build, as the finished 17:51 *Engrandecendo as salvações do seu Rei* does (magnificáre row: 'the participle as a gerund, dangling as the Latin's does'). *Suscitáre* here is to lift up (L&S); the cognate *suscitar* in Brazil means 'to provoke, arouse' (77:5 *suscitou um testemunho* is a different sense), so *levantar*; *érigere → erguer* (the row, 19:9). The CNBB and DM1962 make finite verbs (*Levanta*). **v2:** finite verbs taken (see option 0); 7b now follows the Latin's order *de stércore érigens* → *e do esterco ergue* (the stylist's).",
+      "options": [
+        {
+          "label": "Ele levanta … ergue",
+          "forms": {
+            "suscitans": "Ele levanta",
+            "erigens": "ergue"
+          },
+          "note": "Ruling in v2: the stylist (worst line: 'dangling gerunds … read like a translation') and the ambiguity reader (heard it 'broken off'). Finite verbs are grammar (D2); the subject named is the Lord of 112:5. DM1962 and the CNBB make the same move.",
+          "from": "stylist"
+        },
+        {
+          "label": "Levantando … erguendo",
+          "forms": {
+            "suscitans": "Levantando",
+            "erigens": "erguendo"
+          },
+          "note": "Draft 1: the Latin's participles as gerunds (as 17:51); the Latinist praised it; the two other readers heard a sentence without a verb.",
+          "from": "draft"
+        },
+        {
+          "label": "Suscitando … erguendo",
+          "forms": {
+            "suscitans": "Suscitando",
+            "erigens": "erguendo"
+          },
+          "note": "The cognate; heard as 'provoking'.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "inops",
+      "refs": [
+        "112:7"
+      ],
+      "latin": "ínopem",
+      "kind": "glossary",
+      "why": "D38 settles *inops → carente*. The stylist heard *carente* as social-work or emotional ('uma pessoa carente') and asked *necessitado*; the ambiguity reader named the same second sense (it heard 'the needy person' first). This is the fault the row already records at 85:1 and 87:9. Kept under D38 — *necessitado* is reserved for *egénus*, and *inops* is the row's to change, not this psalm's; the evidence is added to the row for the coordinator.",
+      "options": [
+        {
+          "label": "carente",
+          "forms": {
+            "inops": "carente"
+          },
+          "note": "Ruling; D38.",
+          "from": "glossary"
+        },
+        {
+          "label": "necessitado",
+          "forms": {
+            "inops": "necessitado"
+          },
+          "note": "The stylist's; *egénus*'s reserved word (D38 row).",
+          "from": "stylist"
+        },
+        {
+          "label": "desvalido",
+          "forms": {
+            "inops": "desvalido"
+          },
+          "note": "MS1932 *o desvalido*; D38's named option (one reader did not know it).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "stercore",
+      "refs": [
+        "112:7"
+      ],
+      "latin": "de stércore",
+      "kind": "word",
+      "why": "Concrete images stay concrete (rule 5): *stercus* is dung. *Esterco* is the plain Brazilian word for it. MS1932 *da imundície* abstracts; the CNBB *do lixo* changes the thing; DM1962 *do monturo* (dunghill) is exact but a word many will not know.",
+      "options": [
+        {
+          "label": "do esterco",
+          "forms": {
+            "stercore": "do esterco"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "do monturo",
+          "forms": {
+            "stercore": "do monturo"
+          },
+          "note": "DM1962; the dunghill; less current.",
+          "from": "DM1962"
+        },
+        {
+          "label": "da imundície",
+          "forms": {
+            "stercore": "da imundície"
+          },
+          "note": "MS1932; the image softened.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "collocet",
+      "refs": [
+        "112:8"
+      ],
+      "latin": "Ut cóllocet eum",
+      "kind": "word",
+      "why": "*Collocáre* is 'to place, station, set, lodge' (L&S); the Greek καθίσαι and the Hebrew are 'to seat', which is where the stylist's *assentar* (and the CNBB's *assentar-se*) comes from. Rule 1: the Latin's verb, *colocar* (the row, 22:1; MS1932 *para o colocar*). The stylist found *colocá-lo* flat and clipped; the proclitic *para o colocar* (MS1932) is the other Brazilian-possible order and is kept as option.",
+      "options": [
+        {
+          "label": "Para colocá-lo",
+          "forms": {
+            "collocet": "Para colocá-lo"
+          },
+          "note": "Ruling; the everyday Brazilian enclisis after an infinitive.",
+          "from": "draft"
+        },
+        {
+          "label": "Para o colocar",
+          "forms": {
+            "collocet": "Para o colocar"
+          },
+          "note": "MS1932; proclitic, ends the phrase on the verb's stress.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Para o assentar",
+          "forms": {
+            "collocet": "Para o assentar"
+          },
+          "note": "The stylist's; the Greek's and the Hebrew's 'seat', not *collocáre*. Refused (rule 1).",
+          "from": "stylist"
+        }
+      ]
+    },
+    {
+      "id": "qui9",
+      "refs": [
+        "112:9"
+      ],
+      "latin": "Qui habitáre facit",
+      "kind": "grammar",
+      "why": "*Qui* continues the chain begun at *Dóminus* (112:5), across the gerunds and the purpose clause. A bare *Que* at the head of a verse is heard as 'that' or as an exclamation; the pronoun is named, as the finished 103:32 does (*Ele, que olha para a terra*). *Habitáre facit → faz habitar*, as 28:10 and 67:6b (*Deus, que faz habitar numa casa…*), whose Latin is nearly this colon's; the verse keeps the echo with 112:5 *hábitat → habita*. **v2:** the relative becomes a main verb; see option 0. The stylist's own order (*Ele faz a estéril habitar numa casa*) was weighed: it separates *faz habitar*, the formula of 28:10 and 67:6b.",
+      "options": [
+        {
+          "label": "Ele faz habitar … a estéril",
+          "forms": {
+            "qui9": "Ele faz habitar"
+          },
+          "note": "Ruling in v2: the stylist heard *Ele, que …* wait for a main verb that never comes. A main verb (grammar, D2), matching 112:7 *Ele levanta*; the object after *numa casa*, as 67:6b *faz habitar numa casa os de um só costume*, which also sets *a estéril* beside its apposition *alegre mãe de filhos* across the asterisk.",
+          "from": "stylist"
+        },
+        {
+          "label": "Ele, que faz habitar",
+          "forms": {
+            "qui9": "Ele, que faz habitar"
+          },
+          "note": "Draft 1 (the relative kept, as 103:32); heard as unfinished.",
+          "from": "draft"
+        },
+        {
+          "label": "Que faz habitar",
+          "forms": {
+            "qui9": "Que faz habitar"
+          },
+          "note": "The bare relative, as the Latin.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "indomo",
+      "refs": [
+        "112:9"
+      ],
+      "latin": "in domo",
+      "kind": "word",
+      "why": "No possessive in the Latin (οἴκῳ). *Numa casa*, as 67:6b *faz habitar numa casa* (*inhabitáre facit … in domo*). MS1932 and the CNBB add *sua*.",
+      "options": [
+        {
+          "label": "numa casa",
+          "forms": {
+            "indomo": "numa casa"
+          },
+          "note": "Ruling; = 67:6b.",
+          "from": "glossary"
+        },
+        {
+          "label": "na sua casa",
+          "forms": {
+            "indomo": "na sua casa"
+          },
+          "note": "MS1932 'em sua casa'; supplies a possessive.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "matrem",
+      "refs": [
+        "112:9"
+      ],
+      "latin": "matrem filiórum lætántem",
+      "kind": "order",
+      "why": "In apposition to *stérilem*: the barren one dwells as a mother of sons, rejoicing; *lætántem* agrees with *matrem*, not *filiórum*. The adjective *alegre* is the plainer of two faithful words for the participle (D2) and cannot be read with *filhos*; *que se alegra* after *filhos* could. DM1962 *mãe alegre de filhos* puts it between noun and complement. The colon runs 2 syllables short of the Latin — accepted.",
+      "options": [
+        {
+          "label": "alegre mãe de filhos",
+          "forms": {
+            "matrem": "alegre mãe de filhos"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "mãe alegre de filhos",
+          "forms": {
+            "matrem": "mãe alegre de filhos"
+          },
+          "note": "DM1962's order.",
+          "from": "DM1962"
+        },
+        {
+          "label": "mãe de filhos, que se alegra",
+          "forms": {
+            "matrem": "mãe de filhos, que se alegra"
+          },
+          "note": "Keeps the verb of the participle (*lætári → alegrar-se*); the relative can be misattached to *filhos* by the ear.",
+          "from": "draft"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "112:1": "*laudáre → louvar* (D5 keeps it apart from *confitéri → dar graças*); *Louvai* is safe at the *vós* imperative (past *louvei*). The echo *Senhor … Senhor* at mediant and final is the Latin's own (*Dóminum … Dómini*). Plural humans → *vós* (decided). The ambiguity reader heard *meninos* as young children and said an adult congregation may not feel addressed: that is the cost of decision `pueri`, flagged for Gustavo.",
+    "112:2": "Second colon flagged +3 by the counter, which does not elide: said aloud, *desde‿agora‿e para todo‿o sempre* is 10 syllables, the Latin's count. Accepted.",
+    "112:3": "First colon = 49:1b word for word (the formula row, D44).",
+    "112:4": "*et super cælos glória ejus → e sobre os céus a sua glória*: the ellipsis of the verb kept, as 56:6 *e por toda a terra a vossa glória*. The ambiguity reader listed *Excelso* as unknown — D43's known cost (the Ps 46 reader too); kept.",
+    "112:5": "*in altis → nas alturas*, as 92:4b. DO's inline *(6)* is not reproduced.",
+    "112:7": "*pauper → pobre*; *inops → carente* (decision `inops`). The ambiguity reader listed *esterco* as unknown; kept — the concrete image (rule 5), and the alternatives are rarer (*monturo*) or change the thing (*lixo*).",
+    "112:8": "*collocáre → colocar* (row open; 22:1). The Latin's anadiplosis *cum princípibus, cum princípibus* kept whole. *príncipes* is proparoxytone before the asterisk — the Latin's *princípibus* is too, and the repetition forbids any other word; accepted. *princeps → príncipe* as 81:7, 117:9 (the CNBB's *nobres* is not taken).",
+    "112:9": "*stérilis → a estéril*, as every witness."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps112.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Rows applied: D5 (laudáre stays *louvar*), D37 *para todo o sempre*, D44 formula *Desde o nascer do sol até o poente*, *laudábilis → digno de louvor* (47:2), D43 *excelso*, *gentes → nações*, *super → sobre*, D27 *humilde*, D38 *carente*, *érigere → erguer*, *collocáre → colocar*, *habitáre facit → faz habitar* (28:10, 67:6b), the *(fit reverentia)* row. New: *púeri* (vocative, bare) → *meninos* against the *púer → servo* row, which is for *púer tuus* (decision `pueri`, flagged); *ex hoc nunc → desde agora*. Brazilian liturgical circulation checked by fetch (ps112/liturgy-br/ps112.txt): the CNBB Liturgia das Horas Sl 112(113) (*Louvai, louvai, ó servos do Senhor … Bendito seja o nome do Senhor, agora e por toda a eternidade!*) and the Lecionário refrain *Louvai o Senhor, que eleva os pobres!* (25th Sunday, year C) — both from the Hebrew; used only to see what the ear knows. The bishop's-blessing dialogue *Bendito seja o nome do Senhor. — Agora e para sempre* is reported in a search summary only, unverified."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (exit 0). Soft: 112:1 rhyme *Senhor … Senhor* — the Latin's own echo (*Dóminum … Dómini*), kept; 112:2b +3 — the counter does not elide, 10 when said; 112:3b +3 — the settled *digno de louvor* plus a copula, accepted (decision `laudabile`); 112:8a proparoxytone *príncipes* before the asterisk — the Latin's *princípibus* too, the repetition forbids another word."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v1.latinist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. One minor (112:5 *humília*'s plural); taken. Praised the gerunds and the open attachment of *in cælo et in terra*.",
+      "outcomes": [
+        {
+          "verse": "112:5",
+          "remark": "o que é humilde shifts the neuter plural",
+          "outcome": "taken"
+        }
+      ]
+    },
+    {
+      "step": "stylist",
+      "file": "critic/v1.stylist.json",
+      "note": "claude-opus-5-5, fresh context, read latin.json. Best line 112:2, worst 112:7. Five remarks: three taken (112:5, 112:7 finite verbs and order, 112:9 main verb), two refused as options (112:4 order; 112:8 *assentar*), and one word refused under D38 (*carente*).",
+      "outcomes": [
+        {
+          "verse": "112:4",
+          "remark": "ends on glória, trails; reorder",
+          "outcome": "option",
+          "decision": "gloria4",
+          "reason": "the Latin ends on glória ejus; = 56:6's build; glória is paroxytone"
+        },
+        {
+          "verse": "112:5",
+          "remark": "o que é humilde wordy, hiatus",
+          "outcome": "taken"
+        },
+        {
+          "verse": "112:7",
+          "remark": "dangling gerunds → finite verbs",
+          "outcome": "taken"
+        },
+        {
+          "verse": "112:7",
+          "remark": "carente social-work register → necessitado",
+          "outcome": "option",
+          "decision": "inops",
+          "reason": "D38 settles carente; necessitado is egénus's; evidence passed to the row"
+        },
+        {
+          "verse": "112:8",
+          "remark": "colocá-lo flat → o assentar",
+          "outcome": "option",
+          "decision": "collocet",
+          "reason": "assentar is the Greek/Hebrew 'seat'; collocáre is 'place' (rule 1)"
+        },
+        {
+          "verse": "112:9",
+          "remark": "Ele, que … never reaches a main verb",
+          "outcome": "taken",
+          "decision": "qui9"
+        }
+      ]
+    },
+    {
+      "step": "ambiguity",
+      "file": "critic/v1.ambiguity.json",
+      "note": "claude-opus-5-5, fresh context, Portuguese only. Ten readings, two unknown words (*Excelso*, *esterco*). Acted on: 112:5 *o que é humilde* heard as a person (with the Latinist); 112:7 heard broken off (with the stylist). Kept: *meninos* heard as literal children (the ruling's known cost, flagged); *carente* emotional sense (D38); *Excelso* (D43), *esterco* (rule 5). The rest (*do seu povo* = God's people; *colocá-lo* = the poor man; *numa casa* dwelling/household; *da terra* ground) are the Latin's own openness or the intended first hearing.",
+      "outcomes": [
+        {
+          "verse": "112:1",
+          "remark": "meninos heard as literal children",
+          "outcome": "option",
+          "decision": "pueri",
+          "reason": "the Latin's first sense and its liturgy's; servos is option 1, flagged for Gustavo"
+        },
+        {
+          "verse": "112:5",
+          "remark": "o que é humilde heard as a humble person",
+          "outcome": "taken"
+        },
+        {
+          "verse": "112:5",
+          "remark": "no céu e na terra attaches to humilde or olha",
+          "outcome": "refused",
+          "reason": "the Latin's own ambiguity, kept on purpose"
+        },
+        {
+          "verse": "112:7",
+          "remark": "gerunds heard as broken off",
+          "outcome": "taken"
+        },
+        {
+          "verse": "112:7",
+          "remark": "carente emotional sense",
+          "outcome": "option",
+          "decision": "inops",
+          "reason": "D38"
+        },
+        {
+          "verse": "112:4",
+          "remark": "Excelso unknown",
+          "outcome": "refused",
+          "reason": "D43 settled; known cost"
+        },
+        {
+          "verse": "112:7",
+          "remark": "esterco unknown",
+          "outcome": "refused",
+          "reason": "concrete image (rule 5); monturo rarer, lixo another thing"
+        },
+        {
+          "verse": "112:8",
+          "remark": "seu povo: God's or the poor man's",
+          "outcome": "refused",
+          "reason": "the Latin's pópuli sui is as open; the first hearing is the intended one"
+        },
+        {
+          "verse": "112:9",
+          "remark": "numa casa: dwelling or household",
+          "outcome": "refused",
+          "reason": "domus holds both; = 67:6b"
+        }
+      ]
+    },
+    {
+      "step": "revision",
+      "version": 2,
+      "note": "v2 (revise_v2.py; v1 kept as prayed.v1.json): 112:5 *as coisas humildes*; 112:7 *Ele levanta da terra o carente, e do esterco ergue o pobre*; 112:9 *Ele faz habitar numa casa a estéril*. New decisions recording refusals: `gloria4`, `inops`, `collocet`. Wording changed materially in 7 and 9: Latinist gate re-run requested."
+    },
+    {
+      "step": "checks",
+      "note": "v2: hard pass (exit 0). New soft flag 112:7a +3 (*Ele levanta da terra o carente*; 11 with *terra‿o* elided, the named subject is the cost of the finite verb) — accepted. The v1 flags stand as accepted."
+    },
+    {
+      "step": "latinist",
+      "file": "critic/v2.latinist.json",
+      "note": "v2 gate, claude-opus-5-5, fresh context, read latin.json. No major. One minor, refused: the inline '(6)' marker in 112:5 — AGENT-BRIEF rule 4 says inline (20)-style markers are not reproduced (as every finished psalm). Passed *meninos*, *coisas humildes*, the open attachment, and the finite verbs of 7 and 9 as allowed by D2.",
+      "outcomes": [
+        {
+          "verse": "112:5",
+          "remark": "inline (6) marker dropped",
+          "outcome": "refused",
+          "reason": "rule 4: inline verse markers are not translated and not reproduced"
+        }
+      ]
+    }
+  ]
+}

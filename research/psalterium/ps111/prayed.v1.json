@@ -1,0 +1,526 @@
+{
+  "psalm": 111,
+  "tier": 3,
+  "version": 1,
+  "address": "vós",
+  "status": "draft",
+  "hour": "Sunday Vespers",
+  "verses": {
+    "111:1": "Bem-aventurado o homem que teme o Senhor: * {volet}.",
+    "111:2": "Poderosa na terra será a sua descendência: * a geração dos retos {benedicetur}.",
+    "111:3": "{gloria3} na sua casa: * e a sua justiça permanece pelos séculos dos séculos.",
+    "111:4": "{exortum} nas trevas {lumen} para os retos: * {miser}.",
+    "111:5": "{jucundus} o homem que tem piedade e empresta, † disporá as suas palavras {judicio}: * porque {commov6}.",
+    "111:7a": "Em memória eterna estará o justo: * não temerá {auditio}.",
+    "111:7b": "O seu coração está {paratum} para esperar no Senhor, † o seu coração está {confirmatum}: * não será abalado até que olhe de cima os seus inimigos.",
+    "111:9": "{dispersit}, deu aos pobres: † a sua justiça permanece pelos séculos dos séculos, * o seu chifre será exaltado {ingloria}.",
+    "111:10": "O pecador verá, e {irascetur}, † {fremet}, e {tabescet}: * o desejo dos pecadores perecerá."
+  },
+  "decisions": [
+    {
+      "id": "volet",
+      "refs": [
+        "111:1"
+      ],
+      "latin": "in mandátis ejus volet nimis",
+      "kind": "word",
+      "why": "*velle in* is the Greek's θέλειν ἐν (θελήσει σφόδρα), a Hebraism for delighting in something; DRB 'shall delight exceedingly'. The glossary keeps *velle → querer* (36:23 *et viam ejus volet → e ele quererá o seu caminho*), and Portuguese *querer muito* (to want much, and to love dearly — *eu te quero muito*) carries the delight without spending another Latin word. The preposition gives way to a direct object, which is grammar (D2). *nimis* is σφόδρα here, so *muito*, as 47:2, 92:5, 96:9 (the *nimis* row).",
+      "options": [
+        {
+          "label": "quererá muito os seus mandamentos",
+          "forms": {
+            "volet": "quererá muito os seus mandamentos"
+          },
+          "note": "Ruling: the *velle* row (*querer*, as 36:23) and the *nimis* row's *muito* for σφόδρα.",
+          "from": "glossary"
+        },
+        {
+          "label": "terá muito prazer nos seus mandamentos",
+          "forms": {
+            "volet": "terá muito prazer nos seus mandamentos"
+          },
+          "note": "DRB 'delight'; keeps the preposition, but *prazer* is a noun the Latin does not have and spends the word for *voluptas*.",
+          "from": "DRB"
+        },
+        {
+          "label": "porá nos seus mandamentos toda a sua vontade",
+          "forms": {
+            "volet": "porá nos seus mandamentos toda a sua vontade"
+          },
+          "note": "An echo of Ps 1:2 *a sua vontade está na lei do Senhor* (*volúntas*, the same root); refused: a verb and *toda* supplied, and *nimis* is lost in *toda*.",
+          "from": "draft"
+        },
+        {
+          "label": "quererá sem medida os seus mandamentos",
+          "forms": {
+            "volet": "quererá sem medida os seus mandamentos"
+          },
+          "note": "The *nimis* row's other rendering (118:138, 45:2); kept for *nimis* where it is not σφόδρα.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "benedicetur",
+      "refs": [
+        "111:2"
+      ],
+      "latin": "generátio rectórum benedicétur",
+      "kind": "glossary",
+      "why": "*benedícere* God → man is the open row (*bendizer*, Ps 133 and 5:12b). The passive is the easiest place for it: *bendita* is the participle every Brazilian knows from the Ave Maria, and 9:24 *iníquus benedícitur → o iníquo é bendito* is already standing. The CNBB Liturgia das Horas (from the Hebrew; fetched, `consult/lh-ps111-liturgiadashoras-online.html`) sings *abençoada a geração dos homens retos*, and 36:26 has *será abençoada* — but there the Latin is another phrase (*in benedictióne erit*).",
+      "options": [
+        {
+          "label": "será bendita",
+          "forms": {
+            "benedicetur": "será bendita"
+          },
+          "note": "Ruling: the *benedícere* row, as 9:24.",
+          "from": "glossary"
+        },
+        {
+          "label": "será abençoada",
+          "forms": {
+            "benedicetur": "será abençoada"
+          },
+          "note": "MS1932 has *bendita*; *abençoada* is the Brazilian LH's and DM1962's word, and 36:26's (another Latin).",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "gloria3",
+      "refs": [
+        "111:3"
+      ],
+      "latin": "Glória, et divítiæ in domo ejus",
+      "kind": "grammar",
+      "why": "The Latin has no verb; Portuguese needs one (D2). *estão* keeps the Latin's order, so that the colon opens on *Glória* beside the Latin column; *Há* (MS1932, and the Brazilian LH, fetched) is the commoner build but moves the house up. *divítiæ* is plural → *riquezas*, as 36:16, 48:7, 51:9.",
+      "options": [
+        {
+          "label": "Glória e riquezas estão",
+          "forms": {
+            "gloria3": "Glória e riquezas estão"
+          },
+          "note": "Ruling: the Latin's order, a copula supplied.",
+          "from": "draft"
+        },
+        {
+          "label": "Há glória e riquezas",
+          "forms": {
+            "gloria3": "Há glória e riquezas"
+          },
+          "note": "MS1932 (*Há glória e riqueza na sua casa*).",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "exortum",
+      "refs": [
+        "111:4"
+      ],
+      "latin": "Exórtum est in ténebris lumen rectis",
+      "kind": "word",
+      "why": "ἐξανέτειλεν: light rising, as the sun rises. The *oríri* row says *nascer*, and the nearest line in the psalter is 96:11 *Lux orta est justo → A luz nasceu para o justo* (ἀνέτειλεν); *exoríri* is the same verb with a prefix. The line is also the Transfiguration versicle (Sancti/08-06, *lumen rectis corde*). 91:8 *exórti fúerint peccatóres sicut fænum → brotarem* is plants, not light. The article: *a luz* as 96:11; *uma luz* (MS1932) is equally faithful — the Latin has none.",
+      "options": [
+        {
+          "label": "Nasceu … a luz",
+          "forms": {
+            "exortum": "Nasceu",
+            "lumen": "a luz"
+          },
+          "note": "Ruling: the *oríri* row and 96:11.",
+          "from": "glossary"
+        },
+        {
+          "label": "Nasceu … uma luz",
+          "forms": {
+            "exortum": "Nasceu",
+            "lumen": "uma luz"
+          },
+          "note": "MS1932's article (*surgiu uma luz*).",
+          "from": "MS1932"
+        },
+        {
+          "label": "Surgiu … uma luz",
+          "forms": {
+            "exortum": "Surgiu",
+            "lumen": "uma luz"
+          },
+          "note": "MS1932 word for word; *surgir* is the *oríri* row's option.",
+          "from": "MS1932"
+        },
+        {
+          "label": "Brotou … a luz",
+          "forms": {
+            "exortum": "Brotou",
+            "lumen": "a luz"
+          },
+          "note": "91:8's *exoríri* of plants; refused for light.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "miser",
+      "refs": [
+        "111:4"
+      ],
+      "latin": "miséricors, et miserátor, et justus",
+      "kind": "ambiguity",
+      "why": "The Latin names no subject. In the Hebrew acrostic the man is meant; in Ps 110:4 the same two words are said of the Lord, and the Fathers read this line of Christ, the light risen in darkness. MS1932 supplies *ele é*, which still leaves open who *ele* is, but makes a sentence of what the Latin leaves as a cry of attributes. Kept bare, with the Latin's three *et* (a repetition, D2). *miséricors → misericordioso*, *miserátor → compassivo*: the pair row (85:15, 102:8), here in this Latin's order.",
+      "options": [
+        {
+          "label": "misericordioso, e compassivo, e justo",
+          "forms": {
+            "miser": "misericordioso, e compassivo, e justo"
+          },
+          "note": "Ruling: no subject, as the Latin.",
+          "from": "draft"
+        },
+        {
+          "label": "ele é misericordioso, e compassivo, e justo",
+          "forms": {
+            "miser": "ele é misericordioso, e compassivo, e justo"
+          },
+          "note": "MS1932 (*ele é misericordioso, compassivo e justo*); DRB *he is*.",
+          "from": "MS1932"
+        },
+        {
+          "label": "misericordioso, compassivo e justo",
+          "forms": {
+            "miser": "misericordioso, compassivo e justo"
+          },
+          "note": "The plain list; drops the Latin's first *et*.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "jucundus",
+      "refs": [
+        "111:5"
+      ],
+      "latin": "Jucúndus homo",
+      "kind": "glossary",
+      "why": "The *jucúndus* row is *agradável* (118:39, 80:3), and this verse is on its list. χρηστός is 'good, kind'; DRB 'acceptable'; MS1932 *Ditoso*, which makes it a second *beátus*. The line answers 111:1 (*Beátus vir … Jucúndus homo*), and *vir / homo* are kept apart as the Latin keeps them (*homem* both: Portuguese has one word). *é* supplied (D2).",
+      "options": [
+        {
+          "label": "Agradável é",
+          "forms": {
+            "jucundus": "Agradável é"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Bom é",
+          "forms": {
+            "jucundus": "Bom é"
+          },
+          "note": "χρηστός; but *bom* is *bonus*'s word.",
+          "from": "draft"
+        },
+        {
+          "label": "Ditoso",
+          "forms": {
+            "jucundus": "Ditoso"
+          },
+          "note": "MS1932; refused — a synonym of *bem-aventurado*, which the Latin does not say, and a word the ear finds old.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "judicio",
+      "refs": [
+        "111:5"
+      ],
+      "latin": "dispónet sermónes suos in judício",
+      "kind": "ambiguity",
+      "why": "*in judício* can be 'with discretion' (DRB 'with judgment', MS1932 *com juízo*) or 'at the judgment / in court' (ἐν κρίσει). Ps 1:5 has the same two words (*non resúrgent ímpii in judício → no juízo*), and the next colon (*in ætérnum non commovébitur*) and 111:7a (*in memória ætérna*) look to the end. *no juízo* keeps the Latin's word and both hearings of a court; *com juízo* chooses prudence. *sermónes → palavras* (D15).",
+      "options": [
+        {
+          "label": "no juízo",
+          "forms": {
+            "judicio": "no juízo"
+          },
+          "note": "Ruling: as 1:5.",
+          "from": "draft"
+        },
+        {
+          "label": "com juízo",
+          "forms": {
+            "judicio": "com juízo"
+          },
+          "note": "MS1932; DRB 'with judgment' — the sense of discretion only.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "commov6",
+      "refs": [
+        "111:5"
+      ],
+      "latin": "(6) quia in ætérnum non commovébitur",
+      "kind": "glossary",
+      "why": "The formula row *non (com)movébitur in ætérnum* (14:5b, 29:7; 124:1 and this verse listed): *para sempre não será abalado*. Here the Latin itself puts *in ætérnum* before the negation, so the row's order is the Latin's. Two stylists (Pss 14, 29) refused the build and asked *jamais*, which drops *in ætérnum*'s word (D23); the row still waits for a ruling. Followed.",
+      "options": [
+        {
+          "label": "para sempre não será abalado",
+          "forms": {
+            "commov6": "para sempre não será abalado"
+          },
+          "note": "Ruling: the formula row, as 14:5b.",
+          "from": "glossary"
+        },
+        {
+          "label": "jamais será abalado",
+          "forms": {
+            "commov6": "jamais será abalado"
+          },
+          "note": "The Pss 14 and 29 stylists' request.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "auditio",
+      "refs": [
+        "111:7a"
+      ],
+      "latin": "ab auditióne mala non timébit",
+      "kind": "word",
+      "why": "Lewis & Short give *audítio* as 'a report, hearsay, news' and cite this verse there; ἀκοή. The *timére a* + ablative row makes the thing feared a direct object (90:5). The Latin's order (*ab auditióne mala* first) would give *De notícia má não terá medo*, stilted; natural order under D2. MS1932 *não temerá ouvir notícias funestas* adds a verb and colours the adjective.",
+      "options": [
+        {
+          "label": "notícia má",
+          "forms": {
+            "auditio": "notícia má"
+          },
+          "note": "Ruling: L&S's sense for this verse; no article, as the Latin's general 'an evil report'.",
+          "from": "draft"
+        },
+        {
+          "label": "a má notícia",
+          "forms": {
+            "auditio": "a má notícia"
+          },
+          "note": "The commoner Portuguese order; the article makes it one particular piece of news.",
+          "from": "draft"
+        },
+        {
+          "label": "o mau rumor",
+          "forms": {
+            "auditio": "o mau rumor"
+          },
+          "note": "'Hearsay'; *rumor* is heard as gossip.",
+          "from": "draft"
+        }
+      ]
+    },
+    {
+      "id": "paratum",
+      "refs": [
+        "111:7b"
+      ],
+      "latin": "Parátum cor ejus … confirmátum est cor ejus",
+      "kind": "glossary",
+      "why": "*parátus* → *pronto* (the row; 56:8 = 107:2 *O meu coração está pronto*). *confirmátum est* (ἐστήρικται): the *confirmáre* row gives *firmar* with persons and things set fast (37:3, 40:13, 70:6 *Em vós fui firmado*, the same Greek), and *fortalecer* where a heart is strengthened by food (103:15). Here the heart is set fast, so *firmado*; the Latin's two *cor ejus* both kept, with the copula *está* supplied twice so the two halves stand parallel.",
+      "options": [
+        {
+          "label": "pronto … firmado",
+          "forms": {
+            "paratum": "pronto",
+            "confirmatum": "firmado"
+          },
+          "note": "Ruling: the *parátus* row and 70:6.",
+          "from": "glossary"
+        },
+        {
+          "label": "preparado … firmado",
+          "forms": {
+            "paratum": "preparado",
+            "confirmatum": "firmado"
+          },
+          "note": "MS1932 has *disposto*; *preparado* is the *parátus* row's option.",
+          "from": "MS1932"
+        },
+        {
+          "label": "pronto … fortalecido",
+          "forms": {
+            "paratum": "pronto",
+            "confirmatum": "fortalecido"
+          },
+          "note": "MS1932 *Fortalecido está o seu coração*; 103:15's *fortalecer*.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "dispersit",
+      "refs": [
+        "111:9"
+      ],
+      "latin": "Dispérsit, dedit paupéribus",
+      "kind": "glossary",
+      "why": "σκόρπισεν, 'scattered' — his goods, like seed; St Paul quotes the line of the sower (2 Cor 9:9, read in the Mass of St Lawrence, missa/Sancti/08-10). The *dispérgere* row has *dispersar* for people and bones (21:15, 58:12, 88:11); in Portuguese *dispersar* is said of a crowd, and with no object *Dispersou* would be heard of people. *Espalhar* is what one does with seed and alms; it is free in the psalter so far (grep of every prayed.vos.json). *Distribuiu* (MS1932) is *distribúere*'s (D43: *partilhar*) and loses the scattering. A local departure from the row, recorded.",
+      "options": [
+        {
+          "label": "Espalhou",
+          "forms": {
+            "dispersit": "Espalhou"
+          },
+          "note": "Ruling: the scattering kept, said as Portuguese says it of things.",
+          "from": "draft"
+        },
+        {
+          "label": "Dispersou",
+          "forms": {
+            "dispersit": "Dispersou"
+          },
+          "note": "The *dispérgere* row.",
+          "from": "glossary"
+        },
+        {
+          "label": "Distribuiu",
+          "forms": {
+            "dispersit": "Distribuiu"
+          },
+          "note": "MS1932; explains, and is another Latin verb's.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "ingloria",
+      "refs": [
+        "111:9"
+      ],
+      "latin": "cornu ejus exaltábitur in glória",
+      "kind": "ambiguity",
+      "why": "*chifre* (the *cornu* row, as 88:25 *será exaltado o seu chifre*). *in glória*: 'gloriously' or 'in the glory (to come)'. *em glória* keeps both; *na glória* (MS1932) leans to heaven.",
+      "options": [
+        {
+          "label": "em glória",
+          "forms": {
+            "ingloria": "em glória"
+          },
+          "note": "Ruling.",
+          "from": "draft"
+        },
+        {
+          "label": "na glória",
+          "forms": {
+            "ingloria": "na glória"
+          },
+          "note": "MS1932.",
+          "from": "MS1932"
+        }
+      ]
+    },
+    {
+      "id": "irascetur",
+      "refs": [
+        "111:10"
+      ],
+      "latin": "et irascétur",
+      "kind": "grammar",
+      "why": "*irásci → irar-se* (the row). The future *se irará* is a knot of r's, which the row already met at 79:5 and 84:6 and solved with a copula and participle (*estareis irado*). Here the anger arises, so *ficará irado*.",
+      "options": [
+        {
+          "label": "ficará irado",
+          "forms": {
+            "irascetur": "ficará irado"
+          },
+          "note": "Ruling: 79:5's remedy.",
+          "from": "glossary"
+        },
+        {
+          "label": "se irará",
+          "forms": {
+            "irascetur": "se irará"
+          },
+          "note": "The row's verb as it stands.",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "fremet",
+      "refs": [
+        "111:10"
+      ],
+      "latin": "déntibus suis fremet",
+      "kind": "glossary",
+      "why": "*frémere* has the row *bramir* (2:1 *Por que bramiram as nações*), which names this verse as its other place. But the Greek here is βρύξει τοὺς ὀδόντας αὐτοῦ — word for word the Greek of 36:12 (*stridébit … déntibus suis → rangerá os seus dentes*) and 34:16 (*frenduérunt … déntibus suis → rangeram … os seus dentes*), checked in `consult/parallels/ps034.md`, `ps036.md`; 2:1 is ἐφρύαξαν, another verb. D15's test: three Latin verbs over one Greek → one Portuguese. And *bramir com os dentes* is not something a Brazilian can picture.",
+      "options": [
+        {
+          "label": "rangerá os seus dentes",
+          "forms": {
+            "fremet": "rangerá os seus dentes"
+          },
+          "note": "Ruling: = 36:12, by the Greek.",
+          "from": "glossary"
+        },
+        {
+          "label": "bramirá com os seus dentes",
+          "forms": {
+            "fremet": "bramirá com os seus dentes"
+          },
+          "note": "The *frémere* row (2:1).",
+          "from": "glossary"
+        }
+      ]
+    },
+    {
+      "id": "tabescet",
+      "refs": [
+        "111:10"
+      ],
+      "latin": "et tabéscet",
+      "kind": "glossary",
+      "why": "The *tabéscere* row: *definhar* (118:139, 118:158, 38:12b), L&S 'waste, pine away', ἐκτήκω; this verse is on its list. Blind readers have twice not known it, and it stands. MS1932 and the Brazilian LH have *se consumirá / se consome*, which the row keeps for *consúmere*.",
+      "options": [
+        {
+          "label": "definhará",
+          "forms": {
+            "tabescet": "definhará"
+          },
+          "note": "Ruling: the row.",
+          "from": "glossary"
+        },
+        {
+          "label": "se consumirá",
+          "forms": {
+            "tabescet": "se consumirá"
+          },
+          "note": "MS1932; *consúmere*'s word.",
+          "from": "MS1932"
+        }
+      ]
+    }
+  ],
+  "choices": {
+    "111:1": "*Beátus vir → Bem-aventurado o homem* (D19; Ps 1:1's words). *timére → temer* with the Lord as object; the Brazilian LH's *respeita* (fetched) is refused — *temer* is the row, and the psalm's first line is also the Introit and Gradual of the Commons (Latin there *cupit nimis*).",
+    "111:2": "*semen → descendência* (D32; no plant image in the verse). The whole verse is a versicle of the Commons (*V. Potens in terra erit semen ejus: generátio rectórum benedicétur*, grep in content/do); each colon reads alone. The Latin's order (*Poderosa … será*) kept: it is also natural Portuguese (MS1932 has it). *rectórum → dos retos* (the *rectus* row).",
+    "111:3": "*manet in sǽculum sǽculi → permanece pelos séculos dos séculos* (D27; *permanére* row). **The second colon is word for word 110:3b and 111:9b**: the Portuguese is identical in both verses here and should be in Ps 110 (translated in parallel).",
+    "111:4": "Also a versicle of the Transfiguration (horas/Sancti/08-06), with *rectis corde*; this colon ends at *retos*, as the psalm does.",
+    "111:5": "*miserétur et cómmodat → tem piedade e empresta* — copied from 36:26 (the *mutuári / commodáre* row names this verse). The DO verse joins 111:5 and 111:6; the inline (6) is not reproduced.",
+    "111:7a": "The versicle of confessors and the Commons (C4, C9: *V. In memória ætérna erit justus. R. Ab auditióne mala non timébit.*); each colon reads alone. *memória ætérna → memória eterna*: the adjective, not D23's adverbial phrase. *estará* supplied for *erit* (the 'be in' of a place).",
+    "111:7b": "*despíciat inimícos suos → olhe de cima os seus inimigos*: the *despícere (enemies)* row, accusative as 117:7 (*olharei de cima os meus inimigos*). *non commovébitur → não será abalado* (the *movéri* row). The Latin follows here the Gallican *non commovébitur* where the Greek has οὐ μὴ φοβηθῇ; the Latin is followed (rule 1).",
+    "111:9": "*justítia ejus manet in sǽculum sǽculi*: = 111:3b, identical. The first colon is 2 Cor 9:9 and a versicle of St Lawrence (08-10). *paupéribus → aos pobres* (D38 row).",
+    "111:10": "*desidérium → desejo* (37:10, 77:29); *períre → perecer*."
+  },
+  "audit": [
+    {
+      "step": "draft",
+      "note": "Psalm-level draft from consult/parallels/ps111.md (Latin, LXX, Hebrew, DRB, MS1932, DM1962). Read AGENT-BRIEF, DECISIONS (D1–D44), the glossary rows for every word of the psalm, Ps 1 (vos), and the finished lines that share Latin: 36:12, 36:26, 34:16, 96:11, 102:8, 85:15, 88:25, 117:7, 14:5b, 56:8, 70:6, 9:24. Liturgical circulation checked in content/do (grep): 111:1 (Commons, Introit/Gradual, with *cupit*), 111:2 and 111:7a (versicles of the Commons), 111:4 (Transfiguration, *rectis corde*), 111:9a (St Lawrence; 2 Cor 9:9). The Brazilian LH text (CNBB, from the Hebrew) fetched and kept in consult/lh-ps111-liturgiadashoras-online.html: *Feliz o homem que respeita o Senhor * e que ama com carinho a sua lei*, *abençoada a geração dos homens retos*, *Haverá glória e riqueza em sua casa*, *range os dentes e de inveja se consome* — the wording Brazilians sing at Sunday Vespers; it is Hebrew-family and a witness of circulation only. Ps 110 (the twin, shared *justítia ejus manet in sǽculum sǽculi* and *miséricors et miserátor*) had no draft on disk when this was written; the shared colon follows the glossary rows, and Ps 110 should read the same. Hard readings: *volet nimis in* (Hebraism of delight), *in judício* (discretion or judgment), *fremet* (Greek = 36:12's βρύξει), *Dispérsit* (things, not people)."
+    },
+    {
+      "step": "checks",
+      "note": "Hard checks pass (ids 111:1–10 with 111:7a/7b; every mark). Soft length flags accepted: 111:1a +5 (*Bem-aventurado o homem*, D19, as 1:1); 111:2a +5 (*descendência*, D32); 111:3b and 111:9b +4 (*pelos séculos dos séculos*, D27); 111:4b +3 (the Latin's three *et* kept); 111:5a +4 (*é* supplied, *tem piedade* = 36:26); 111:7a second colon −4 (*não temerá notícia má*: the Latin's four words, nothing to add); 111:7b first colon +4 and third +3 (the two *o seu coração está* kept parallel; *olhar de cima* is the row). Cadences: oxytone endings (*Senhor*, *má*, *definhará*, *perecerá*) are allowed by rule 4."
+    }
+  ]
+}
