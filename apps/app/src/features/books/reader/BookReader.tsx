@@ -519,12 +519,17 @@ export function BookReader({ bookId, chapter }: Props) {
           const prev = lastTurnRef.current
           if (prev && (prev.index !== msg.index || prev.page !== msg.page)) {
             sessionPagesRef.current += 1
-            if (now - prev.at > 250) void selectionTick()
+            // Only a deliberate turn feeds the pace: the load, repagination and
+            // scrub bursts arrive milliseconds apart and would read as a
+            // near-zero minutes-per-page ("61 pages · ~1 min").
+            if (now - prev.at > 250) {
+              void selectionTick()
+              turnsRef.current = appendTurn(turnsRef.current, now)
+              const mpp = estimateMinutesPerPage(turnsRef.current)
+              if (mpp !== undefined) setMinutesPerPage(mpp)
+            }
           }
           lastTurnRef.current = { index: msg.index, page: msg.page, at: now }
-          turnsRef.current = appendTurn(turnsRef.current, now)
-          const mpp = estimateMinutesPerPage(turnsRef.current)
-          if (mpp !== undefined) setMinutesPerPage(mpp)
           const chapterId = leaves[msg.index]?.id
           if (chapterId) {
             cursor.save({ chapterId, fraction: msg.fraction })
