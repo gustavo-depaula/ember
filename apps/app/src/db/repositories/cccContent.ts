@@ -10,7 +10,7 @@ import { getExternalContent, putExternalContent } from './externalContent'
 
 const producerId = 'producer/ccc-book'
 // Bump to invalidate cached chapters when the scrape/parse pipeline changes.
-const producerVersion = '1'
+const producerVersion = '2'
 
 const key = (bookId: string, chapterId: string, lang: string) => ({
   producerId,

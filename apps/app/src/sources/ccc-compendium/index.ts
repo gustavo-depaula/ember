@@ -7,6 +7,6 @@ export {
   totalProgramDays,
 } from './extract'
 export { fetchPage } from './fetchPage'
-export { parseChapter } from './parse'
+export { parseChapter, toReaderHtml } from './parse'
 export { cccCompendiumSource } from './produce'
 export type { AnchorIndex, ChapterId, Lang, ProduceResult } from './types'

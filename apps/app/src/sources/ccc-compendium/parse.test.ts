@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { chapterOrder } from './chapters'
-import { parseChapter } from './parse'
+import { parseChapter, toReaderHtml } from './parse'
 import type { ChapterId, Lang } from './types'
 
 function loadFixture(lang: Lang): string {
@@ -205,4 +205,26 @@ describe('parseChapter — anchor count totals 598 questions', () => {
       expect(seen.size).toBe(598)
     })
   }
+})
+
+describe('toReaderHtml', () => {
+  it('turns bold-only paragraphs into headings, keeping their line breaks', () => {
+    const html =
+      '<p><b>PRIMEIRA SECÇÃO <br />\n<a name="X">A ORAÇÃO NA VIDA CRISTÃ\n</a>\n</b>\n</p>'
+    expect(toReaderHtml(html)).toBe('<h3>PRIMEIRA SECÇÃO<br />A ORAÇÃO NA VIDA CRISTÃ</h3>')
+  })
+
+  it('marks questions and leaves their text alone', () => {
+    expect(toReaderHtml('<p id="q534"><b>534. O que é a oração? </b>\n</p>')).toBe(
+      '<p class="ccc-q" id="q534"><b>534. O que é a oração? </b>\n</p>',
+    )
+  })
+
+  it('reads a stack of refs as one list', () => {
+    const refs =
+      '<p class="ccc-refs"><a data-ref="book/ccc#75-79">75-79</a>,<br /><a data-ref="book/ccc#83">83</a> <br /><a data-ref="book/ccc#96">96</a></p>'
+    expect(toReaderHtml(refs)).toBe(
+      '<p class="ccc-refs"><a data-ref="book/ccc#75-79">75-79</a>, <a data-ref="book/ccc#83">83</a>, <a data-ref="book/ccc#96">96</a></p>',
+    )
+  })
 })

@@ -29,7 +29,10 @@ import {
   sourceUrl as compendiumSourceUrl,
 } from '@/sources/ccc-compendium/chapters'
 import { fetchPage as fetchCompendiumPage } from '@/sources/ccc-compendium/fetchPage'
-import { parseChapter as parseCompendiumChapter } from '@/sources/ccc-compendium/parse'
+import {
+  toReaderHtml as compendiumReaderHtml,
+  parseChapter as parseCompendiumChapter,
+} from '@/sources/ccc-compendium/parse'
 import type { ChapterId as CompendiumChapterId, Lang } from '@/sources/ccc-compendium/types'
 import { registerChapterProducer } from './books'
 import { registerLocalEntries, rememberManifestBody, setManifestBodyResolver } from './contentIndex'
@@ -178,7 +181,8 @@ export function registerCccCatalog(): void {
 // no Hearth stylesheet, so the reader renders these with WebView defaults.
 const cccStyles =
   '<style>.ccc-n{font-weight:700;opacity:.55;margin-right:.4em;font-size:.85em}' +
-  ' .ccc-refs{opacity:.7;font-size:.9em}</style>\n'
+  ' .ccc-q{font-weight:700;text-indent:0;text-align:left;hyphens:none}' +
+  ' .ccc-refs{opacity:.7;font-size:.9em;text-indent:0;text-align:left}</style>\n'
 
 /** Cache-or-fetch a chapter's body HTML — the book module's producer for these books. */
 export async function loadCccChapterHtml(
@@ -193,11 +197,10 @@ export async function loadCccChapterHtml(
   let body: string
   if (bookId === 'compendium') {
     const l = narrowLang(lang)
-    body = parseCompendiumChapter(
-      await fetchCompendiumPage(l),
-      chapterId as CompendiumChapterId,
-      l,
-    ).html
+    body = compendiumReaderHtml(
+      parseCompendiumChapter(await fetchCompendiumPage(l), chapterId as CompendiumChapterId, l)
+        .html,
+    )
   } else {
     body = await fetchCccChapterHtml(chapterId, lang)
   }

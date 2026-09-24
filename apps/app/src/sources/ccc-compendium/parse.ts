@@ -133,3 +133,31 @@ export function parseChapter(rawHtml: string, chapter: ChapterId, lang: Lang): P
   const html = linkifyCccRefs(cleanChapter(injectQuestionIds(slice)))
   return { html, anchors: chapterAnchors(chapter) }
 }
+
+/**
+ * Book-reader presentation of a parsed chapter. The practice renderer groups
+ * the parsed blocks by question itself, so these reshape only what the reader
+ * shows: bold-only paragraphs (part/section titles) become headings instead of
+ * indented, justified body text; question paragraphs are marked so they aren't
+ * either; and a question's CCC refs read as one list rather than a stack.
+ */
+export function toReaderHtml(html: string): string {
+  return html
+    .replace(/<p>\s*<b\b[^>]*>([\s\S]*?)<\/b>\s*<\/p>/g, (full, inner: string) => {
+      if (/<\/?(?:p|b)\b/i.test(inner)) return full
+      const lines = inner
+        .split(/<br\s*\/?>/i)
+        .map((line) => line.replace(/<[^>]*>/g, '').trim())
+        .filter(Boolean)
+      return lines.length ? `<h3>${lines.join('<br />')}</h3>` : ''
+    })
+    .replace(
+      /<p(\s[^>]*)?\sid="(q\d+)"/g,
+      (_m, attrs = '', id: string) => `<p${attrs} class="ccc-q" id="${id}"`,
+    )
+    .replace(
+      /(<p[^>]*class="ccc-refs"[^>]*>)([\s\S]*?)<\/p>/g,
+      (_m, open: string, body: string) =>
+        `${open}${body.replace(/\s*,?\s*<br\s*\/?>\s*/gi, ', ')}</p>`,
+    )
+}
