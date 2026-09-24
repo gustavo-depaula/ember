@@ -1,9 +1,14 @@
+import Constants from 'expo-constants'
 import { Platform } from 'react-native'
 import { clearCache, getCached, setCache } from '@/db/repositories/cache'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 
 const remoteUrl = 'https://ember.dpgu.me/hearth/v2'
-const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : 'http://10.99.99.4:4100'
+// The dev hearth runs on the same machine as Metro, so borrow Metro's host: it
+// is the Mac's current LAN address on a device and in the simulator alike. A
+// hard-coded IP went stale on a network change and silently served production.
+const devHost = Constants.expoConfig?.hostUri?.split(':')[0] ?? 'localhost'
+const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : `http://${devHost}:4100`
 
 let useLocal = __DEV__
 let initialized = false
