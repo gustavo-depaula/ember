@@ -3,7 +3,7 @@ import { useRouter } from 'expo-router'
 import { X } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { AppState, Pressable } from 'react-native'
+import { AppState, Pressable, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, View, XStack, YStack } from 'tamagui'
 
@@ -352,6 +352,10 @@ export function BookReader({ bookId, chapter }: Props) {
     [toBootstrapPayload],
   )
   const [foliateReady, setFoliateReady] = useState(false)
+  // `ready` fires as the engine starts opening and `relocate` before the first
+  // section is justified, so only `painted` means text is on screen. Until then
+  // the title page stays up instead of a blank sheet.
+  const [painted, setPainted] = useState(false)
   // Scrubber dot fractions = anchor.startOffset / chapter plain-text length.
   // Foliate's column-flow doesn't expose offset→page in RN, but the linear
   // approximation is plenty accurate for a 5pt dot on a 200pt scrubber.
@@ -499,6 +503,9 @@ export function BookReader({ bookId, chapter }: Props) {
             })
           return
         }
+        case 'painted':
+          setPainted(true)
+          return
         case 'relocate': {
           setChapterIndex(msg.index)
           setFraction(msg.fraction)
@@ -976,6 +983,19 @@ export function BookReader({ bookId, chapter }: Props) {
           foliateRef.current?.goTo(chapterIndex, f)
         }}
       />
+
+      {!painted && (
+        <View style={StyleSheet.absoluteFill}>
+          <LoadingPane
+            background={config.background}
+            color={config.color}
+            isDark={config.isDark}
+            title={bookTitle}
+            author={bookEntry.author ? localizeContent(bookEntry.author) : undefined}
+            onClose={() => router.back()}
+          />
+        </View>
+      )}
 
       <ReaderMenuSheet
         open={sheet === 'menu'}

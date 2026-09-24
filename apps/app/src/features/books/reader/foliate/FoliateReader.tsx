@@ -21,6 +21,7 @@ export type FoliateConfig = {
 
 export type FoliateMessage =
   | { type: 'ready' }
+  | { type: 'painted' }
   | { type: 'relocate'; index: number; fraction: number; page: number; pages: number }
   | { type: 'load'; index: number }
   | { type: 'centerTap' }

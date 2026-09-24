@@ -639,6 +639,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   // chapter boundaries, which otherwise reads as a hard snap. 200ms read as a
   // perceptible lag at the boundary; 120ms is short enough to feel like a
   // page-flip continuation rather than a transition of its own.
+  let firstPaintPosted = false;
   const fadeInChapter = (doc) => {
     const docEl = doc && doc.documentElement;
     if (!docEl) return;
@@ -678,6 +679,14 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     });
     paginator.addEventListener('load', (e) => {
       post({ type: 'load', index: e.detail.index });
+      // Relocate fires before the first section is justified and drawn. Frames
+      // run after this handler (justification included), so two frames on the
+      // page on screen is the real one — scheduled first so a throwing wiring
+      // step below can't strand the host's title page.
+      if (!firstPaintPosted) {
+        firstPaintPosted = true;
+        requestAnimationFrame(() => requestAnimationFrame(() => post({ type: 'painted' })));
+      }
       const doc = e.detail.doc;
       fadeInChapter(doc);
       wireSelectionListener(doc, e.detail.index);
