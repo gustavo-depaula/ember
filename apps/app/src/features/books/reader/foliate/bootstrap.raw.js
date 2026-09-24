@@ -67,7 +67,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     a { color: inherit; }
     p { margin: 0 0 .85em; }
     p + p { text-indent: 1.2em; }
-    h1, h2, h3, h4 { margin: 1.5em 0 .5em; line-height: 1.25; text-align: left; }
+    h1, h2, h3, h4 { margin: 1.5em 0 .5em; line-height: 1.25; text-align: left; text-indent: 0; -webkit-hyphens: manual; hyphens: manual; }
     img { max-width: 100%; height: auto; }
 
     /* Illuminated chapter opening: centered italic title + fleuron ornament,
