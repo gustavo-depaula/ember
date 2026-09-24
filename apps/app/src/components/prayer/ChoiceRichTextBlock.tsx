@@ -181,8 +181,9 @@ function RichTextBody({ body }: { body: BilingualRichText }) {
  * paragraph rather than opting out of justification.
  *
  * A drop cap is the exception the metrics can't cover — it is set in the
- * heading face, which has no generated advance table — so a line carrying one
- * renders as ordinary wrapped text.
+ * heading face, which has no generated advance table — so it opens the line as
+ * a `lead`, and that line is left to the platform. A drop cap is only ever the
+ * line's first letter; one anywhere else is set in the body face.
  */
 function FormattedRichTextLine({ line }: { line: RichTextLine }) {
   const reading = useReadingStyle()
@@ -199,82 +200,50 @@ function FormattedRichTextLine({ line }: { line: RichTextLine }) {
     [theme.colorBurgundy, theme.accent, theme.colorSecondary, reading.lineHeight],
   )
 
-  const source = useMemo<StyledSegment[] | undefined>(() => {
-    const out: StyledSegment[] = []
-    for (const seg of line) {
-      switch (seg.type) {
-        case 'rubric':
-          out.push({ text: seg.text, style: 'italic', render: inks.rubric })
-          break
-        case 'response':
-          out.push({
-            text: seg.text,
-            style: 'boldItalic',
-            fontSizePx: Math.round(reading.fontSize * responseMarkScale),
-            render: inks.mark,
-            atomic: true,
-          })
-          break
-        case 'signOfCross':
-          out.push({ text: seg.text, style: 'regular', render: inks.accent })
-          break
-        case 'reference':
-          out.push({ text: seg.text, style: 'regular', render: inks.reference })
-          break
-        case 'italic':
-          out.push({ text: seg.text, style: 'italic' })
-          break
-        case 'dropCap':
-          return undefined
-        default:
-          out.push({ text: seg.text, style: 'regular' })
-      }
-    }
-    return out
-  }, [line, inks, reading.fontSize])
-
-  // Inner segments are PrayerText so they inherit the reading typography; a
-  // plain <Text> would silently fall back to Tamagui's default font.
-  const inline = line.map((seg, i) => {
-    switch (seg.type) {
-      case 'rubric':
-        return (
-          <PrayerText key={i} color="$colorBurgundy" fontStyle="italic">
-            {seg.text}
-          </PrayerText>
-        )
-      case 'response':
-        return <ResponseMark key={i} value={seg.text} />
-      case 'signOfCross':
-        return (
-          <PrayerText key={i} color="$accent">
-            {seg.text}
-          </PrayerText>
-        )
-      case 'reference':
-        return (
-          <PrayerText key={i} color="$colorSecondary" opacity={0.7}>
-            {seg.text}
-          </PrayerText>
-        )
-      case 'italic':
-        return (
-          <PrayerText key={i} fontStyle="italic">
-            {seg.text}
-          </PrayerText>
-        )
-      case 'dropCap':
-        return (
-          <PrayerText key={i} fontFamily="$heading" color="$colorBurgundy">
-            {seg.text}
-          </PrayerText>
-        )
-      default:
-        return <PrayerText key={i}>{seg.text}</PrayerText>
-    }
-  })
+  const dropCap = line[0]?.type === 'dropCap' ? line[0].text : undefined
+  const segments = useMemo(
+    () =>
+      line.slice(dropCap === undefined ? 0 : 1).map((seg): StyledSegment => {
+        switch (seg.type) {
+          case 'rubric':
+          case 'dropCap':
+            return {
+              text: seg.text,
+              style: seg.type === 'rubric' ? 'italic' : 'regular',
+              render: inks.rubric,
+            }
+          case 'response':
+            return {
+              text: seg.text,
+              style: 'boldItalic',
+              fontSizePx: Math.round(reading.fontSize * responseMarkScale),
+              render: inks.mark,
+              atomic: true,
+            }
+          case 'signOfCross':
+            return { text: seg.text, style: 'regular', render: inks.accent }
+          case 'reference':
+            return { text: seg.text, style: 'regular', render: inks.reference }
+          case 'italic':
+            return { text: seg.text, style: 'italic' }
+          default:
+            return { text: seg.text, style: 'regular' }
+        }
+      }),
+    [line, dropCap, inks, reading.fontSize],
+  )
 
   if (line.length === 0) return <YStack height="$xs" />
-  if (!source) return <PrayerText>{inline}</PrayerText>
-  return <ReadingParagraph source={source} fallback={<>{inline}</>} />
+  return (
+    <ReadingParagraph
+      source={segments}
+      lead={
+        dropCap === undefined ? undefined : (
+          <Text fontFamily="$heading" color="$colorBurgundy">
+            {dropCap}
+          </Text>
+        )
+      }
+    />
+  )
 }

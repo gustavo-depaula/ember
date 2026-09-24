@@ -1,6 +1,6 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: rendered producer blocks never reorder
 
-import { Fragment, useMemo } from 'react'
+import { useMemo } from 'react'
 import { Text, useTheme, YStack } from 'tamagui'
 import type { ProseBlock, ProseInline } from '@/content/primitives'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
@@ -9,46 +9,6 @@ import { PrayerText } from '../PrayerText'
 import { composeStyle } from '../prayer/InlineMarkdown'
 import { ReadingParagraph } from '../ReadingParagraph'
 
-function InlineRun({
-  nodes,
-  onRefPress,
-}: {
-  nodes: ProseInline[]
-  onRefPress?: (ref: string) => void
-}) {
-  return (
-    <>
-      {nodes.map((n, i) => {
-        if (n.kind === 'break') return <Fragment key={i}>{'\n'}</Fragment>
-        if (n.kind === 'text') return <Fragment key={i}>{n.text}</Fragment>
-        if (n.kind === 'bold')
-          return (
-            <Text key={i} fontWeight="700">
-              {n.text}
-            </Text>
-          )
-        if (n.kind === 'italic')
-          return (
-            <Text key={i} fontStyle="italic">
-              {n.text}
-            </Text>
-          )
-        return (
-          <Text
-            key={i}
-            testID={`producer-ref-${n.ref}`}
-            color="$colorMutedBlue"
-            fontWeight="600"
-            onPress={() => onRefPress?.(n.ref)}
-          >
-            {n.text}
-          </Text>
-        )
-      })}
-    </>
-  )
-}
-
 /**
  * A producer paragraph — the Compendium's answers, an article's body — set by
  * the Knuth–Plass pass.
@@ -56,9 +16,9 @@ function InlineRun({
  * A cross-reference is not a reason to give up on the paragraph: it becomes a
  * run of its own carrying its colour and its press handler, and every piece the
  * breaker produces from that run stays tappable, including both halves when a
- * line break falls inside it. `break` is the one thing that genuinely can't
- * ride along — a hard newline is a paragraph boundary the breaker has no model
- * for — so those paragraphs render as ordinary wrapped text.
+ * line break falls inside it. A `break` becomes a hard newline, which
+ * `ReadingParagraph` leaves to the platform — the breaker has no model for a
+ * boundary inside a paragraph.
  */
 function ProducerParagraph({
   nodes,
@@ -78,38 +38,26 @@ function ProducerParagraph({
     [theme.colorMutedBlue],
   )
 
-  const source = useMemo<StyledSegment[] | undefined>(() => {
-    const out: StyledSegment[] = []
-    for (const n of nodes) {
-      if (n.kind === 'break') return undefined
-      if (n.kind === 'ref') {
-        out.push({
-          text: n.text,
-          style: composeStyle('bold', base),
-          render: refRender,
-          onPress: () => onRefPress?.(n.ref),
-        })
-      } else if (n.kind === 'bold') {
-        out.push({ text: n.text, style: composeStyle('bold', base) })
-      } else if (n.kind === 'italic') {
-        out.push({ text: n.text, style: composeStyle('italic', base) })
-      } else {
-        out.push({ text: n.text, style: base })
-      }
-    }
-    return out
-  }, [nodes, base, refRender, onRefPress])
+  const segments = useMemo(
+    () =>
+      nodes.map((n): StyledSegment => {
+        if (n.kind === 'break') return { text: '\n', style: base }
+        if (n.kind === 'ref') {
+          return {
+            text: n.text,
+            style: composeStyle('bold', base),
+            render: refRender,
+            onPress: () => onRefPress?.(n.ref),
+          }
+        }
+        if (n.kind === 'bold') return { text: n.text, style: composeStyle('bold', base) }
+        if (n.kind === 'italic') return { text: n.text, style: composeStyle('italic', base) }
+        return { text: n.text, style: base }
+      }),
+    [nodes, base, refRender, onRefPress],
+  )
 
-  const inline = <InlineRun nodes={nodes} onRefPress={onRefPress} />
-  if (!source) {
-    return (
-      <PrayerText testID={testID} fontWeight={base === 'bold' ? '600' : undefined}>
-        {inline}
-      </PrayerText>
-    )
-  }
-
-  return <ReadingParagraph testID={testID} source={source} base={base} fallback={inline} />
+  return <ReadingParagraph testID={testID} source={segments} base={base} />
 }
 
 function BlockView({

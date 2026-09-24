@@ -3,12 +3,11 @@ import type { BilingualText } from '@ember/content-engine'
 import { type ComponentProps, useMemo } from 'react'
 import { type Text, YStack } from 'tamagui'
 import { ReadingParagraph } from '@/components/ReadingParagraph'
-import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { Typography } from '../typography'
 import { ImageBlock } from './ImageBlock'
-import { composeStyle, InlineText } from './InlineMarkdown'
+import { composeStyle } from './InlineMarkdown'
 import type { InlineNode } from './parseMarkdown'
 import { parseMarkdown } from './parseMarkdown'
 
@@ -20,7 +19,7 @@ export { parseMarkdown }
  *
  * `textAlign: 'justify'` on a native `Text` fills each line in turn and never
  * hyphenates, which at book-paragraph length is the failure justification
- * exists to prevent: rivers of whitespace down the page. `JustifiedText`
+ * exists to prevent: rivers of whitespace down the page. `ReadingParagraph`
  * optimizes the paragraph whole and hyphenates in the content's own language,
  * and falls back to ordinary wrapped text whenever the line model isn't
  * available. See `docs/design/typography-justification.md`.
@@ -38,9 +37,6 @@ function ProseParagraph({
   color?: ComponentProps<typeof Text>['color']
   marker?: string
 }) {
-  const reading = useReadingStyle()
-  const baseFamily = reading.fontFamily as unknown as string
-
   const source = useMemo<StyledSegment[]>(() => {
     const segments = nodes.map((node) => ({
       text: node.text,
@@ -49,21 +45,7 @@ function ProseParagraph({
     return marker ? [{ text: marker, style: base }, ...segments] : segments
   }, [nodes, base, marker])
 
-  return (
-    <ReadingParagraph
-      source={source}
-      base={base}
-      color={color}
-      // Where justification declines, the paragraph still has to render with
-      // its emphasis intact.
-      fallback={
-        <>
-          {marker}
-          <InlineText nodes={nodes} baseFamily={baseFamily} base={base} />
-        </>
-      }
-    />
-  )
+  return <ReadingParagraph source={source} base={base} color={color} />
 }
 
 // A blockquote's inner paragraph breaks are newlines inside its text nodes,

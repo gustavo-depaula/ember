@@ -8,7 +8,7 @@ import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { ResponseMark } from './prayer/ResponseMark'
-import { VerseRef, verseRefLabel, verseRefScale, verseRefTracking } from './prayer/VerseRef'
+import { verseRefLabel, verseRefScale, verseRefTracking } from './prayer/VerseRef'
 import { ReadingParagraph } from './ReadingParagraph'
 import { Typography } from './typography'
 
@@ -59,12 +59,6 @@ function Verse({ text, citation, bold }: { text: string; citation?: string; bold
       // would spell the citation before every verse. Labelling the block with
       // the prayed text alone suppresses it on both platforms.
       accessibilityLabel={text}
-      fallback={
-        <>
-          {citation && <VerseRef value={citation} />}
-          {text}
-        </>
-      }
     />
   )
 }

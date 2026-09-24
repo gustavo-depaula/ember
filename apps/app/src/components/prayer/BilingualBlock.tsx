@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { Platform, Pressable } from 'react-native'
 import { Text, View, XStack, YStack } from 'tamagui'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { ReadingLanguage } from '../ReadingParagraph'
 
 const languageLabel: Record<ContentLanguage, string> = {
   'en-US': 'EN',
@@ -23,11 +24,18 @@ export function BilingualBlock({
   const displayMode = usePreferencesStore((s) => s.displayMode)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  // Each column is hyphenated and broken in its own language, however far down
+  // the reading surface that draws it sits.
+  const render = (text: string, side: 'primary' | 'secondary') => (
+    <ReadingLanguage language={side === 'secondary' ? secondaryLanguage : contentLanguage}>
+      {renderText(text, side)}
+    </ReadingLanguage>
+  )
 
   if (!content.secondary || !secondaryLanguage) {
     return (
       <YStack>
-        {renderText(content.primary, 'primary')}
+        {render(content.primary, 'primary')}
         {content.secondaryMissing && secondaryLanguage && (
           <Text
             fontFamily="$heading"
@@ -46,10 +54,10 @@ export function BilingualBlock({
   if (displayMode === 'side-by-side') {
     return (
       <XStack gap="$sm">
-        <YStack flex={1}>{renderText(content.primary, 'primary')}</YStack>
+        <YStack flex={1}>{render(content.primary, 'primary')}</YStack>
         <View width={1} backgroundColor="$borderColor" />
         <YStack flex={1} opacity={0.85}>
-          {renderText(content.secondary, 'secondary')}
+          {render(content.secondary, 'secondary')}
         </YStack>
       </XStack>
     )
@@ -61,7 +69,7 @@ export function BilingualBlock({
       secondary={content.secondary}
       primaryLanguage={contentLanguage}
       secondaryLanguage={secondaryLanguage}
-      renderText={renderText}
+      renderText={render}
     />
   )
 }

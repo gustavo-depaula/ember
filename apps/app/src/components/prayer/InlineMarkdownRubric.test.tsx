@@ -3,7 +3,7 @@ import { TamaguiProvider } from 'tamagui'
 import { afterEach, describe, expect, it } from 'vitest'
 import { config } from '@/config/tamagui.config'
 import { Typography } from '../typography'
-import { composeStyle, emphasisStyle, InlineMarkdownRubric } from './InlineMarkdown'
+import { composeStyle, InlineMarkdownRubric, styleToFace } from './InlineMarkdown'
 
 afterEach(cleanup)
 
@@ -69,11 +69,11 @@ describe('InlineMarkdownRubric', () => {
 
 // The same trap on the shared path — prayer bodies, annotation rows, todo notes.
 // Emphasis names a face; it must never name an ink, a size or a leading.
-describe('emphasisStyle', () => {
+describe('styleToFace', () => {
   const inherited = { color: 'inherit', fontSize: 'inherit', lineHeight: 'inherit' }
 
   it('inherits ink, size and leading for the EB Garamond faces', () => {
-    expect(emphasisStyle('EBGaramond_400Regular', 700, true)).toEqual({
+    expect(styleToFace('EBGaramond_400Regular', 'boldItalic')).toEqual({
       ...inherited,
       fontFamily: 'EBGaramond_700Bold_Italic',
       // The face is already italic; asking for italic on top would shear it twice.
@@ -84,7 +84,7 @@ describe('emphasisStyle', () => {
   // An upright face inside an italic block has to say so, or the block's
   // inherited italic shears the roman glyphs and the flip never shows.
   it('states fontStyle: normal on an upright face, not just italic on a slanted one', () => {
-    expect(emphasisStyle('EBGaramond_400Regular', 400, false)).toEqual({
+    expect(styleToFace('EBGaramond_400Regular', 'regular')).toEqual({
       ...inherited,
       fontFamily: 'EBGaramond_400Regular',
       fontStyle: 'normal',
@@ -92,7 +92,7 @@ describe('emphasisStyle', () => {
   })
 
   it('inherits them on the synthetic fallback for fonts without italic faces', () => {
-    expect(emphasisStyle('Lora', 700, true)).toEqual({
+    expect(styleToFace('Lora', 'boldItalic')).toEqual({
       ...inherited,
       fontFamily: 'Lora',
       fontWeight: '700',

@@ -9,6 +9,8 @@ import {
   RenderedReviewResolutionBlock,
 } from '@/features/resolutions'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
+import { PrayerLines } from './PrayerText'
+import { BilingualBlock } from './prayer/BilingualBlock'
 import { CelebrationBanner } from './prayer/CelebrationBanner'
 import { ChoiceRichTextBlock } from './prayer/ChoiceRichTextBlock'
 import { CollapsibleBlock } from './prayer/CollapsibleBlock'
@@ -22,7 +24,6 @@ import { LiturgicalColorBlock } from './prayer/LiturgicalColorBlock'
 import { LiturgicalColorProvider } from './prayer/LiturgicalColorContext'
 import { LiturgicalPrayerBlock } from './prayer/LiturgicalPrayerBlock'
 import { OptionsBlock } from './prayer/OptionsBlock'
-import { PrayerTextBlock } from './prayer/PrayerTextBlock'
 import { ProseBlock } from './prayer/ProseBlock'
 import { SectionHeading } from './prayer/SectionHeading'
 import { SectionMarker } from './prayer/SectionMarker'
@@ -57,10 +58,15 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
   switch (primitive.type) {
     case 'text':
       return (
-        <PrayerTextBlock
-          text={primitive.text}
-          fontStyle={primitive.style === 'italic' ? 'italic' : undefined}
-          markup={primitive.markup}
+        <BilingualBlock
+          content={primitive.text}
+          renderText={(text) => (
+            <PrayerLines
+              text={text}
+              fontStyle={primitive.style === 'italic' ? 'italic' : undefined}
+              markup={primitive.markup}
+            />
+          )}
         />
       )
 

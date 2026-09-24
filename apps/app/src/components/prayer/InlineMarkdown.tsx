@@ -3,7 +3,6 @@ import { Fragment } from 'react'
 import { Platform, Text as RNText, type TextStyle } from 'react-native'
 
 import { bodyFont } from '@/config/fonts'
-import { hyphenate } from '@/lib/hyphenate'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 
 import { type InlineNode, parseInline } from './parseMarkdown'
@@ -22,14 +21,6 @@ const inheritFromParent = (
   Platform.OS === 'web' ? { color: 'inherit', fontSize: 'inherit', lineHeight: 'inherit' } : {}
 ) as TextStyle
 
-// React Native's Text ignores inherited fontWeight/fontStyle when fontFamily is
-// set, so nested emphasis must resolve a concrete font face. EB Garamond ships
-// dedicated bold/italic faces; other reading fonts load only Regular, so fall
-// back to synthetic weight/style on the base family.
-export function emphasisStyle(baseFamily: string, weight: 400 | 700, italic: boolean): TextStyle {
-  return { ...inheritFromParent, ...faceProps(baseFamily, weight, italic) }
-}
-
 /**
  * Family/weight/style for a face, with no inheritance keys — safe on a root
  * `<Text>` that has no text parent to inherit from.
@@ -43,7 +34,7 @@ export function emphasisStyle(baseFamily: string, weight: 400 | 700, italic: boo
  * upright face says `normal` outright, which is what lets roman emphasis show
  * through an italic block instead of inheriting its slant.
  */
-export function faceProps(baseFamily: string, weight: 400 | 700, italic: boolean): TextStyle {
+function faceProps(baseFamily: string, weight: 400 | 700, italic: boolean): TextStyle {
   if (baseFamily.startsWith('EBGaramond')) {
     const variants = bodyFont.face?.[weight]
     return {
@@ -89,10 +80,17 @@ export function composeStyle(node: InlineNode['type'], base: TextStyleName): Tex
   return base
 }
 
-/** A `TextStyleName` as the concrete face that renders it, inside a text run. */
+/**
+ * A `TextStyleName` as the concrete face that renders it, inside a text run.
+ *
+ * React Native's Text ignores inherited fontWeight/fontStyle when fontFamily is
+ * set, so nested emphasis must resolve a concrete font face. EB Garamond ships
+ * dedicated bold/italic faces; other reading fonts load only Regular, so fall
+ * back to synthetic weight/style on the base family.
+ */
 export function styleToFace(baseFamily: string, style: TextStyleName): TextStyle {
   const { bold, italic } = styleParts[style]
-  return emphasisStyle(baseFamily, bold ? 700 : 400, italic)
+  return { ...inheritFromParent, ...faceProps(baseFamily, bold ? 700 : 400, italic) }
 }
 
 /**
@@ -110,7 +108,7 @@ export function blockFace(baseFamily: string, style: TextStyleName): TextStyle {
   return faceProps(baseFamily, bold ? 700 : 400, italic)
 }
 
-export function InlineText({
+function InlineText({
   nodes,
   baseFamily,
   base = 'regular',
@@ -135,24 +133,6 @@ export function InlineText({
       })}
     </>
   )
-}
-
-// Inline markdown for a single line of prayer text. Parses `*italic*` /
-// `**bold**` / `***bolditalic***`, then hyphenates each segment so long words
-// soft-wrap at the same boundaries as in plain text.
-export function InlineMarkdownLine({
-  text,
-  baseFamily,
-  language,
-  base = 'regular',
-}: {
-  text: string
-  baseFamily: string
-  language?: string
-  base?: TextStyleName
-}) {
-  const nodes = parseInline(text).map((n) => ({ ...n, text: hyphenate(n.text, language) }))
-  return <InlineText nodes={nodes} baseFamily={baseFamily} base={base} />
 }
 
 /**

@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest'
 
 import { getFontMetrics } from '../fontMetrics'
-import { correctMeasure, justifyText, maxCorrectionPx, measureHeadroomPx } from '../justifyText'
+import { justifyText } from '../justifyText'
 
 const prose =
   'O Lord, open Thou my mouth to bless Thy holy name; cleanse my heart also from all vain, evil and wandering thoughts; enlighten my understanding, kindle my affections, that I may be able to recite this Office worthily, attentively and devoutly.'
@@ -212,30 +212,6 @@ describe('justifyText', () => {
       )
       expect(Math.abs(rendered - widthPx)).toBeLessThan(0.05)
     }
-  })
-
-  // The platform measures a Text at the width it is offered and draws it in a
-  // frame rounded to the pixel grid; a line that fits at measure and not at
-  // draw is re-broken at draw only, and the paragraph loses its last line to
-  // a blank slot. One device pixel is the platform's share of the headroom;
-  // one CSS pixel covers what the shaper snaps.
-  test('reserves a device pixel plus a CSS pixel of headroom', () => {
-    expect(measureHeadroomPx()).toBeGreaterThan(1)
-    expect(measureHeadroomPx()).toBeLessThanOrEqual(2)
-  })
-
-  test('narrows the measure when the platform lays out more lines than the model', () => {
-    const none = { key: '', px: 0 }
-    expect(correctMeasure(none, 'a', 11, 11)).toBeUndefined()
-    expect(correctMeasure(none, 'a', 10, 11)).toBeUndefined()
-    expect(correctMeasure(none, 'a', 12, 0)).toBeUndefined()
-    expect(correctMeasure(none, 'a', 12, 11)).toEqual({ key: 'a', px: 1 })
-    expect(correctMeasure({ key: 'a', px: 1 }, 'a', 12, 11)).toEqual({ key: 'a', px: 2 })
-    // A new measure, size or face starts over rather than inheriting a
-    // correction that belonged to a different layout.
-    expect(correctMeasure({ key: 'a', px: 2 }, 'b', 12, 11)).toEqual({ key: 'b', px: 1 })
-    expect(maxCorrectionPx(22)).toBe(2)
-    expect(maxCorrectionPx(32)).toBe(3)
   })
 
   test('declines rather than guessing when inputs are unusable', () => {

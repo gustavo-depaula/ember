@@ -30,7 +30,6 @@ export {
   CollapsiblePrayer,
   LiturgicalPrayerBlock,
   OptionsBlock,
-  PrayerTextBlock,
   SelectBlock,
 } from './prayer'
 export { ReaderErrorState } from './ReaderErrorState'

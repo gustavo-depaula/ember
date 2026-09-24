@@ -6,7 +6,7 @@
  *   1. A migrated short prayer (practice/our-father) renders as a full practice
  *      screen. Its single inline-prayer section has no title (the manifest's
  *      `name` is the page header, not a section title), so SectionBlock
- *      renders it as a plain `PrayerTextBlock` — the body text appears
+ *      renders it as a plain text block — the body text appears
  *      directly.
  *
  *   2. A practice (practice/morning-offering) that ref's other migrated prayers
@@ -41,7 +41,7 @@ describe('Prayer/practice merge — end-to-end render', () => {
       ],
     })
 
-    // PrayerTextBlock renders the inline content directly (no collapsible).
+    // A text block renders the inline content directly (no collapsible).
     expect(
       await screen.findByText((content) => withoutSoftHyphens(content).includes('hallowed be thy')),
     ).toBeInTheDocument()

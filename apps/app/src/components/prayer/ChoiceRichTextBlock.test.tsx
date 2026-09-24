@@ -3,6 +3,7 @@ import { cleanup, fireEvent, render, screen } from '@testing-library/react'
 import { TamaguiProvider } from 'tamagui'
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import { config } from '@/config/tamagui.config'
+import { unhyphenated } from '@/test/text'
 import { ChoiceRichTextBlock } from './ChoiceRichTextBlock'
 
 afterEach(cleanup)
@@ -30,13 +31,13 @@ describe('ChoiceRichTextBlock', () => {
     const onSelect = vi.fn()
     renderChoice(onSelect)
 
-    expect(screen.getByText('Tempora collect')).toBeTruthy()
-    expect(screen.queryByText('Sancti collect')).toBeNull()
+    expect(screen.getByText('Tempora collect', unhyphenated)).toBeTruthy()
+    expect(screen.queryByText('Sancti collect', unhyphenated)).toBeNull()
 
     fireEvent.click(screen.getByText('Snt'))
 
-    expect(screen.getByText('Sancti collect')).toBeTruthy()
-    expect(screen.queryByText('Tempora collect')).toBeNull()
+    expect(screen.getByText('Sancti collect', unhyphenated)).toBeTruthy()
+    expect(screen.queryByText('Tempora collect', unhyphenated)).toBeNull()
     expect(onSelect).toHaveBeenCalledWith('snt')
   })
 })

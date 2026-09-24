@@ -3,6 +3,7 @@ import { TamaguiProvider } from 'tamagui'
 import { afterEach, describe, expect, it } from 'vitest'
 import { config } from '@/config/tamagui.config'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+import { unhyphenated } from '@/test/text'
 import { ProseBlock } from './ProseBlock'
 
 afterEach(() => {
@@ -30,38 +31,38 @@ const alignOf = (el: Element) => (el.className.match(/_textAlign-(\w+)/)?.[1] ??
 describe('ProseBlock', () => {
   it('never asks the platform to justify a paragraph', () => {
     renderProse('A paragraph long enough to want breaking well.')
-    expect(alignOf(screen.getByText(/A paragraph long enough/))).toBe('left')
+    expect(alignOf(screen.getByText(/A paragraph long enough/, unhyphenated))).toBe('left')
   })
 
   it('leaves list items and blockquotes on the same path', () => {
     renderProse('- one item\n\n> a quoted line')
-    expect(alignOf(screen.getByText(/one item/))).toBe('left')
-    expect(alignOf(screen.getByText(/a quoted line/))).toBe('left')
+    expect(alignOf(screen.getByText(/one item/, unhyphenated))).toBe('left')
+    expect(alignOf(screen.getByText(/a quoted line/, unhyphenated))).toBe('left')
   })
 
   it('keeps emphasis rendered when the text is justified', () => {
     renderProse('a paragraph with *emphasis* in it')
-    expect(screen.getByText('emphasis')).toBeTruthy()
-    expect(screen.getByText(/a paragraph with/)).toBeTruthy()
-    expect(screen.getByText(/in it/)).toBeTruthy()
+    expect(screen.getByText('emphasis', unhyphenated)).toBeTruthy()
+    expect(screen.getByText(/a paragraph with/, unhyphenated)).toBeTruthy()
+    expect(screen.getByText(/in it/, unhyphenated)).toBeTruthy()
   })
 
   it('draws list markers inline, so the justifier measures them', () => {
     renderProse('- first\n- second')
-    expect(screen.getByText(/• first/)).toBeTruthy()
-    expect(screen.getByText(/• second/)).toBeTruthy()
+    expect(screen.getByText(/• first/, unhyphenated)).toBeTruthy()
+    expect(screen.getByText(/• second/, unhyphenated)).toBeTruthy()
   })
 
   it('numbers an ordered list', () => {
     renderProse('1. first\n2. second')
-    expect(screen.getByText(/1\. first/)).toBeTruthy()
-    expect(screen.getByText(/2\. second/)).toBeTruthy()
+    expect(screen.getByText(/1\. first/, unhyphenated)).toBeTruthy()
+    expect(screen.getByText(/2\. second/, unhyphenated)).toBeTruthy()
   })
 
   it('splits a blockquote at its internal blank lines', () => {
     renderProse('> first part\n>\n> second part')
-    expect(screen.getByText(/first part/)).toBeTruthy()
-    expect(screen.getByText(/second part/)).toBeTruthy()
+    expect(screen.getByText(/first part/, unhyphenated)).toBeTruthy()
+    expect(screen.getByText(/second part/, unhyphenated)).toBeTruthy()
   })
 
   it('still renders headings and images', () => {
@@ -75,7 +76,7 @@ describe('ProseBlock', () => {
   it('honours the left-aligned reading preference', () => {
     usePreferencesStore.setState({ textAlign: 'left' })
     renderProse('A paragraph the reader wants ragged.')
-    expect(alignOf(screen.getByText(/A paragraph the reader wants/))).toBe('left')
+    expect(alignOf(screen.getByText(/A paragraph the reader wants/, unhyphenated))).toBe('left')
   })
 
   // A blockquote is italic throughout, and the face has to be NAMED rather than
@@ -87,9 +88,9 @@ describe('ProseBlock', () => {
     usePreferencesStore.setState({ textAlign })
     renderProse('a plain paragraph\n\n> a quoted line')
     const familyOf = (el: Element) => el.className.match(/_ff-\S+/)?.[0]
-    expect(familyOf(screen.getByText(/a quoted line/))).toBeTruthy()
-    expect(familyOf(screen.getByText(/a quoted line/))).not.toBe(
-      familyOf(screen.getByText(/a plain paragraph/)),
+    expect(familyOf(screen.getByText(/a quoted line/, unhyphenated))).toBeTruthy()
+    expect(familyOf(screen.getByText(/a quoted line/, unhyphenated))).not.toBe(
+      familyOf(screen.getByText(/a plain paragraph/, unhyphenated)),
     )
   })
 })

@@ -44,20 +44,7 @@ function VerseLine({
     [verse.verse, verse.text, numberSizePx, numberRender],
   )
 
-  return (
-    <ReadingParagraph
-      source={source}
-      fallback={
-        <>
-          <Typography variant="verse-number" fontSize={numberSizePx}>
-            {verse.verse}
-          </Typography>
-          {'  '}
-          {verse.text}
-        </>
-      }
-    />
-  )
+  return <ReadingParagraph source={source} />
 }
 
 export function ChapterContent({

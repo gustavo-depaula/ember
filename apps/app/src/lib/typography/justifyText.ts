@@ -11,7 +11,7 @@ import { hyphenateEnUS } from 'justif/hyphenate/en-us'
 import { createHyphenator } from 'justif/hyphenate/liang'
 import { hyphenatePt } from 'justif/hyphenate/pt'
 
-import { PixelRatio, type TextStyle } from 'react-native'
+import type { TextStyle } from 'react-native'
 
 import type { ReadingFontId } from '@/config/readingFonts'
 import { type FontMetrics, getFontMetrics, type TextStyleName } from './fontMetrics'
@@ -145,69 +145,6 @@ function getHyphenator(language: string | undefined) {
     key === 'la' ? createHyphenator(laLiturgicPatterns) : key === 'pt' ? hyphenatePt : hyphenateEnUS
   hyphenators.set(key, fn)
   return fn
-}
-
-/**
- * How far short of its container the breaker places a line.
- *
- * The platform measures a `Text` at the width Yoga offers it, then draws it in
- * a frame Yoga has rounded to the pixel grid — up to half a device pixel
- * narrower. A line that fit at measure and does not fit at draw is re-broken
- * at draw only: the break lands on an empty line box (the newline that was
- * meant to end it), everything below shifts down, and the last line falls
- * outside the height the view was given — never laid out, its slot blank.
- * That is exactly one device pixel of headroom, and it is the whole of the
- * platform's share.
- *
- * The rest is the model's share. The tables carry advances, the f-ligatures
- * and GPOS pair kerning, so what they sum is what a shaper draws to within
- * the pairs the font applies contextually; measured against a real shaper
- * over 12 chapters × 7 faces × 5 sizes × 4 measures that residual stays under
- * a CSS pixel on a full line, so one CSS pixel is what is reserved for it.
- * Whatever exceeds both is caught at measure time by `JustifiedText`'s
- * `onTextLayout` loop, which re-breaks a paragraph the platform laid out on
- * more lines than the model — so the headroom only has to cover the case the
- * platform never reports.
- *
- * Two pixels on a 393-pt phone, uniformly, on every line: the right margin
- * moves in by less than a hair, and lines still meet it flush.
- */
-export function measureHeadroomPx() {
-  return 1 / PixelRatio.get() + 1
-}
-
-/**
- * The most `JustifiedText` will narrow a paragraph's measure, a pixel per
- * attempt, before concluding the model cannot describe how the platform sets
- * this text and handing it to the ragged fallback. A tenth of an em is well
- * past any disagreement a shaper has shown; a paragraph that still needs more
- * is being drawn in something other than the face that was measured.
- */
-export function maxCorrectionPx(fontSizePx: number) {
-  return Math.max(2, Math.round(fontSizePx * 0.1))
-}
-
-/** How much narrower than its measure a paragraph is currently being set. */
-export type MeasureCorrection = { key: string; px: number }
-
-/**
- * One step of `JustifiedText`'s layout loop: the platform has reported how
- * many lines it laid the paragraph out on. More lines than the model has means
- * a line the breaker placed did not fit the platform's own shaping — narrow the
- * measure by a pixel and let the breaker try again, from zero if `key` (what
- * the model was built from: measure, size, face, language) has changed since
- * the last correction. Returns `undefined` when nothing needs to change, so
- * the caller can skip the render. Fewer lines than the model cannot happen:
- * every model line ends in a newline the platform has to honour.
- */
-export function correctMeasure(
-  prev: MeasureCorrection,
-  key: string,
-  platformLines: number,
-  modelLines: number,
-): MeasureCorrection | undefined {
-  if (!modelLines || platformLines <= modelLines) return undefined
-  return { key, px: (prev.key === key ? prev.px : 0) + 1 }
 }
 
 /**

@@ -128,7 +128,7 @@ export function ReadingConfig() {
       >
         {/* The preview has to be set by the SAME breaker as the real thing —
             a greedy sample would advertise rivers the reader will never see. */}
-        <ReadingParagraph source={previewSource} fallback={t('readingConfig.preview')} />
+        <ReadingParagraph source={previewSource} />
       </YStack>
 
       {/* Row 1: Size + Spacing */}

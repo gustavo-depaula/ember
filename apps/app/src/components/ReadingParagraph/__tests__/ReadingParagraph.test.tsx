@@ -2,17 +2,25 @@ import { cleanup, fireEvent, render, screen } from '@testing-library/react'
 import type { ReactNode } from 'react'
 import { TamaguiProvider } from 'tamagui'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
+import { bodyFont } from '@/config/fonts'
 import { config } from '@/config/tamagui.config'
 import type { ProseBlock, ProseInline } from '@/content/primitives'
+import { hyphenate } from '@/lib/hyphenate'
+import type { StyledSegment } from '@/lib/typography/justifyText'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
-import { VersesBlock } from './VersesBlock'
+import { unhyphenated } from '@/test/text'
+import { ProducerHtmlBlock } from '../../include/ProducerHtmlBlock'
+import { PrayerLines } from '../../PrayerText'
+import { BilingualBlock } from '../../prayer/BilingualBlock'
+import { ChoiceRichTextBlock } from '../../prayer/ChoiceRichTextBlock'
+import { VersesBlock } from '../../VersesBlock'
+import { ReadingParagraph } from '..'
 
 // jsdom measures every element as 0×0, and a zero measure is exactly what makes
 // the justifier decline. Giving the layout a real width is what lets these
 // exercise the justified render path rather than only its fallback.
 //
-// The breaker aims `measureHeadroomPx` short of this (a device pixel plus a
+// The breaker aims its headroom (see `measureFit`) short of this (a device pixel plus a
 // CSS pixel — 2px under jsdom), so the measure it actually works to is ~303px,
 // which is what the hyphenation fixture below is tuned against.
 const measuredWidth = 305
@@ -37,7 +45,11 @@ beforeEach(() => usePreferencesStore.setState({ textAlign: 'justify' }))
 afterEach(() => {
   Element.prototype.getBoundingClientRect = realRect
   cleanup()
-  usePreferencesStore.setState({ textAlign: 'justify' })
+  usePreferencesStore.setState({
+    textAlign: 'justify',
+    contentLanguage: 'en-US',
+    secondaryLanguage: undefined,
+  })
 })
 
 const wrap = (ui: ReactNode) =>
@@ -176,15 +188,15 @@ describe('reading surfaces hand their line breaking to the justifier', () => {
         ])}
       />,
     )
-    expect(screen.getByText(/first half/)).toBeTruthy()
-    expect(screen.getByText(/second half/)).toBeTruthy()
+    expect(screen.getByText(/first half/, unhyphenated)).toBeTruthy()
+    expect(screen.getByText(/second half/, unhyphenated)).toBeTruthy()
   })
 
   it('renders the whole verse when the measure is unavailable', () => {
     // No `measurable()`: the first frame, before onLayout. The fallback has to
     // be a real rendering of the same text.
     wrap(verse(long))
-    expect(screen.getByText(new RegExp(long.slice(0, 40)))).toBeTruthy()
+    expect(screen.getByText(new RegExp(long.slice(0, 40)), unhyphenated)).toBeTruthy()
   })
 
   it('honours the reader asking for ragged right', () => {
@@ -195,5 +207,114 @@ describe('reading surfaces hand their line breaking to the justifier', () => {
     expect(alignOf(block)).toBe('left')
     // Ragged means the platform wraps it — no per-gap spacing spans at all.
     expect(block.querySelectorAll('span[style*="letter-spacing"]')).toHaveLength(0)
+  })
+})
+
+// Callers describe a paragraph once, as segments. Wherever the breaker isn't
+// setting it — the reader asked for ragged, the first frame, a line the breaker
+// can't own — the module draws those same segments itself, so what the reader
+// sees there cannot drift from what the justifier would have measured.
+describe('ReadingParagraph draws the segments itself wherever the breaker does not', () => {
+  const italicFace = bodyFont.face?.[400]?.italic
+
+  it('sets emphasis in the named face, not a synthetic slant', () => {
+    usePreferencesStore.setState({ textAlign: 'left' })
+    const source: StyledSegment[] = [
+      { text: 'Pray ', style: 'regular' },
+      { text: 'attentively', style: 'italic', render: { color: 'rgb(1, 2, 3)' } },
+    ]
+    wrap(<ReadingParagraph source={source} />)
+    expect(screen.getByText('attentively', unhyphenated)).toHaveStyle({
+      fontFamily: italicFace,
+      fontStyle: 'normal',
+      color: 'rgb(1, 2, 3)',
+    })
+  })
+
+  // A missal rubric used to fall back to `fontStyle: italic` over the roman —
+  // a face with the roman's advances, which the justifier never measured.
+  it('draws a missal rubric in the italic face the justifier measures', () => {
+    usePreferencesStore.setState({ textAlign: 'left' })
+    wrap(
+      <ChoiceRichTextBlock
+        label={{ primary: 'Collect' }}
+        selectedId="a"
+        onSelect={() => {}}
+        options={[
+          {
+            id: 'a',
+            label: { primary: 'A' },
+            body: {
+              primary: [
+                [
+                  { type: 'rubric', text: 'Kneel' },
+                  { type: 'text', text: ' and pray.' },
+                ],
+              ],
+            },
+          },
+        ]}
+      />,
+    )
+    expect(screen.getByText('Kneel', unhyphenated)).toHaveStyle({
+      fontFamily: italicFace,
+      fontStyle: 'normal',
+    })
+  })
+
+  it('keeps a cross-reference tappable in ragged text', () => {
+    usePreferencesStore.setState({ textAlign: 'left' })
+    const onRefPress = vi.fn()
+    wrap(
+      <ProducerHtmlBlock
+        blocks={paragraph([
+          { kind: 'text', text: 'as the Catechism says at ' },
+          { kind: 'ref', ref: 'book/ccc#1213', text: '1213' },
+        ])}
+        onRefPress={onRefPress}
+      />,
+    )
+    fireEvent.click(screen.getByText('1213'))
+    expect(onRefPress).toHaveBeenCalledWith('book/ccc#1213')
+  })
+
+  // A ℟ mark is an element the breaker can't measure, and a prayer never mixes
+  // the two renderers, so a prefixed prayer is left to the platform whole.
+  it('leaves a prayer opened by a response mark to the platform', () => {
+    measurable()
+    const { container } = wrap(<PrayerLines text={`${long}\n${long}`} prefix="℟. " />)
+    expect(screen.getByText('℟.')).toBeTruthy()
+    expect(container.querySelectorAll('span[style*="letter-spacing"]')).toHaveLength(0)
+  })
+
+  it('justifies the same prayer without one', () => {
+    measurable()
+    const { container } = wrap(<PrayerLines text={long} />)
+    expect(container.querySelectorAll('span[style*="letter-spacing"]').length).toBeGreaterThan(0)
+  })
+
+  // Side by side, the secondary column is a different language. It used to be
+  // hyphenated with the primary language's patterns, because nothing between
+  // `BilingualBlock` and the paragraph passed the column's language down.
+  it('hyphenates each bilingual column in its own language', () => {
+    const latin =
+      'Aperi, Domine, os meum ad benedicendum Nomen sanctum tuum; munda quoque cor meum ab omnibus vanis, perversis et alienis cogitationibus.'
+    const english = 'Open Thou, O Lord, my mouth to bless Thy holy name.'
+    expect(hyphenate(latin, 'la')).not.toBe(hyphenate(latin, 'en-US'))
+
+    usePreferencesStore.setState({
+      textAlign: 'left',
+      contentLanguage: 'en-US',
+      secondaryLanguage: 'la',
+      displayMode: 'side-by-side',
+    })
+    const { container } = wrap(
+      <BilingualBlock
+        content={{ primary: english, secondary: latin }}
+        renderText={(text) => <PrayerLines text={text} />}
+      />,
+    )
+    expect(container.textContent).toContain(hyphenate(latin, 'la'))
+    expect(container.textContent).toContain(hyphenate(english, 'en-US'))
   })
 })

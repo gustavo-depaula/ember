@@ -9,17 +9,22 @@ import {
 import { type LayoutChangeEvent, Platform } from 'react-native'
 import { Text } from 'tamagui'
 
-import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
+import type { ReadingFontId } from '@/config/readingFonts'
 import { lastLineSlack, useLastLineGuard } from '@/hooks/useLastLineGuard'
-import type { TextStyleName } from '@/lib/typography/fontMetrics'
-import type { Appearance, MeasureCorrection, StyledSegment } from '@/lib/typography/justifyText'
-import {
-  correctMeasure,
-  justifyText,
-  maxCorrectionPx,
-  measureHeadroomPx,
-} from '@/lib/typography/justifyText'
-import { styleToFace } from './prayer/InlineMarkdown'
+import { justifyText, type StyledSegment } from '@/lib/typography/justifyText'
+import { breakWidth, fitToPlatform, type MeasureFit } from '@/lib/typography/measureFit'
+import { drawStyle, type Faces } from './runs'
+
+// Everything about a segment that changes the lines the breaker builds. Only
+// text and metrics: `render` and `onPress` change how a line is drawn, not
+// where it breaks.
+const modelOf = (segments: StyledSegment[]) =>
+  segments
+    .map(
+      (s) =>
+        `${s.style}:${s.fontSizePx ?? ''}:${s.letterSpacing ?? ''}:${s.atomic ? 1 : 0}:${s.text}`,
+    )
+    .join('\u0000')
 
 /**
  * Knuth–Plass justified text on native.
@@ -30,63 +35,42 @@ import { styleToFace } from './prayer/InlineMarkdown'
  * letterSpacing`. Everything stays inside one parent `<Text>`, which keeps it
  * a single selectable, copyable run.
  *
- * Whenever the line model isn't available — the first frame before `onLayout`
- * measures, a face whose width can't be known, a paragraph the breaker
- * declined — it renders `fallback` instead. That has to be a real rendering of
- * the same text rather than a flattened string, or emphasis would disappear
- * exactly where justification gives up.
+ * Whenever the line model isn't available it renders `fallback`, the same
+ * segments as ordinary wrapped text.
  *
  * See `docs/design/typography-justification.md`.
  */
-export function JustifiedText({
-  source,
+export function JustifiedLines({
+  segments,
+  faces,
   fontFamilyId,
   fontSizePx,
   language,
-  baseStyle = 'regular',
   fallback,
   ...textProps
 }: {
-  source: StyledSegment[]
+  segments: StyledSegment[]
+  faces: Faces
   fontFamilyId: ReadingFontId
   fontSizePx: number
-  language?: string
-  /** The face the block is set in; the parent `<Text>` already draws it. */
-  baseStyle?: TextStyleName
-  /** Rendered whenever the text can't be justified. */
+  language: string
   fallback: ReactNode
 } & ComponentProps<typeof Text>) {
   const [width, setWidth] = useState(0)
-  // How much narrower than the measure the breaker has been told to set this
-  // paragraph, after the platform laid it out on more lines than the model —
-  // see `onTextLayout` below. Keyed by what the model was built from, so a new
-  // measure, size or text starts again from zero rather than inheriting a
-  // correction that belonged to a different layout.
-  const [correction, setCorrection] = useState<MeasureCorrection>({ key: '', px: 0 })
-  const modelKey = `${width}|${fontSizePx}|${fontFamilyId}|${language ?? ''}`
-  const shrinkPx = correction.key === modelKey ? correction.px : 0
+  const [fit, setFit] = useState<MeasureFit>()
+  const text = useMemo(() => modelOf(segments), [segments])
+  const modelKey = `${width}|${fontSizePx}|${fontFamilyId}|${language}|${text}`
 
   const lines = useMemo(() => {
     if (!width) return undefined
-    if (shrinkPx > maxCorrectionPx(fontSizePx)) return undefined
-    return justifyText({
-      source,
-      widthPx: width - measureHeadroomPx() - shrinkPx,
-      fontSizePx,
-      fontFamilyId,
-      language,
-    })
-  }, [width, shrinkPx, source, fontSizePx, fontFamilyId, language])
+    const widthPx = breakWidth(fit, modelKey, width, fontSizePx)
+    if (widthPx === undefined) return undefined
+    return justifyText({ source: segments, widthPx, fontSizePx, fontFamilyId, language })
+  }, [width, fit, modelKey, segments, fontSizePx, fontFamilyId, language])
 
-  // The platform reports the lines it actually laid the paragraph out on. When
-  // there are more of them than the model has, a line the breaker placed did
-  // not fit the platform's own shaping — a contextual alternate the tables
-  // cannot carry, a face rendered by something other than the file that was
-  // measured. That is caught here, at measure time, before anything is drawn:
-  // `correctMeasure` narrows the measure by a pixel and the breaker tries
-  // again. A paragraph that still disagrees after `maxCorrectionPx` is one the
-  // model cannot describe, and `lines` above sends it to the fallback — ragged
-  // text is a lesser failure than a missing line.
+  // The platform reports the lines it actually laid the paragraph out on, and
+  // `fitToPlatform` narrows the measure when there are more of them than the
+  // model has — caught here, at measure time, before anything is drawn.
   const modelLineCount = lines?.length ?? 0
   const onTextLayout = useCallback(
     (e: { nativeEvent: { lines: ReadonlyArray<unknown> } }) => {
@@ -94,40 +78,10 @@ export function JustifiedText({
       // synthetic events, so by the time an updater runs — in the render phase,
       // after this handler has returned — `nativeEvent` has been nullified.
       const platformLines = e.nativeEvent.lines.length
-      setCorrection((prev) => correctMeasure(prev, modelKey, platformLines, modelLineCount) ?? prev)
+      setFit((prev) => fitToPlatform(prev, modelKey, platformLines, modelLineCount))
     },
     [modelLineCount, modelKey],
   )
-
-  // Emphasis resolves to a concrete font face, because React Native ignores
-  // inherited fontWeight/fontStyle once fontFamily is set. Built once per
-  // family so pieces share style identities instead of minting one apiece.
-  //
-  // Only the block's own face is left to the parent. Every other style names
-  // its face outright — including `regular`, which inside an italic block is a
-  // deliberate flip back to roman and cannot be had by inheriting.
-  const faces = useMemo(() => {
-    const family = getFontFamily(fontFamilyId)
-    const resolved = (style: TextStyleName) =>
-      style === baseStyle ? undefined : styleToFace(family, style)
-    return {
-      regular: resolved('regular'),
-      bold: resolved('bold'),
-      italic: resolved('italic'),
-      boldItalic: resolved('boldItalic'),
-    } satisfies Record<TextStyleName, object | undefined>
-  }, [fontFamilyId, baseStyle])
-
-  // A run's full drawing style: its face, the size it was measured at when that
-  // differs from the paragraph's, and whatever draw-only props it declared.
-  // Order matters — `render` is last so a caller's colour wins, and it is
-  // documented never to carry a metric-bearing property.
-  const drawOf = (look: Appearance) => ({
-    ...faces[look.style],
-    ...(look.fontSizePx === undefined ? undefined : { fontSize: look.fontSizePx }),
-    ...(look.letterSpacing === undefined ? undefined : { letterSpacing: look.letterSpacing }),
-    ...look.render,
-  })
 
   // The fallback's line count isn't known, so its last line is guarded after
   // the fact — see `useLastLineGuard`.
@@ -179,7 +133,7 @@ export function JustifiedText({
             <Fragment key={p}>
               {/* `onPress` rides on the piece, so a cross-reference the breaker
                   split across two lines stays tappable on both halves. */}
-              <Text style={drawOf(piece)} onPress={piece.onPress}>
+              <Text style={drawStyle(faces, piece)} onPress={piece.onPress}>
                 {piece.text}
               </Text>
               {piece.spaceAfter && (
@@ -188,7 +142,7 @@ export function JustifiedText({
                 // pressable — the gap belongs to the line, not to the element.
                 <Text
                   style={{
-                    ...drawOf(piece.spaceAfter),
+                    ...drawStyle(faces, piece.spaceAfter),
                     // The run's own tracking is part of the width the breaker
                     // priced this space at, so the flex adds ON TOP of it
                     // rather than replacing it.
@@ -200,7 +154,9 @@ export function JustifiedText({
               )}
             </Fragment>
           ))}
-          {line.hyphenated && <Text style={drawOf(line.pieces[line.pieces.length - 1])}>-</Text>}
+          {line.hyphenated && (
+            <Text style={drawStyle(faces, line.pieces[line.pieces.length - 1])}>-</Text>
+          )}
           {i < lines.length - 1 && <Text>{'\n'}</Text>}
         </Fragment>
       ))}
