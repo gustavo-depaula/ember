@@ -72,6 +72,8 @@ export type FoliateReaderHandle = {
    * phrase repeats).
    */
   goToAnchor: (index: number, anchor: { startOffset: number; endOffset: number }) => void
+  /** Jump to a chapter and scroll to the element with this id (a cross-ref target). */
+  goToElement: (index: number, elementId: string) => void
   /** Bulk-replace the current highlight set across all chapters. */
   setHighlights: (highlights: BootstrapHighlight[]) => void
   addHighlight: (highlight: BootstrapHighlight) => void
@@ -98,6 +100,8 @@ type Props = {
   initialIndex?: number
   /** Intra-chapter fraction (0..1) to open at. */
   initialFraction?: number
+  /** Element id to open at instead of the fraction (a cross-ref target). */
+  initialElement?: string
   config: FoliateConfig
   onMessage?: (msg: FoliateMessage) => void
 }
@@ -106,7 +110,15 @@ type Props = {
 const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
 export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function FoliateReader(
-  { chapterCount, initialChapter, initialIndex = 0, initialFraction = 0, config, onMessage },
+  {
+    chapterCount,
+    initialChapter,
+    initialIndex = 0,
+    initialFraction = 0,
+    initialElement,
+    config,
+    onMessage,
+  },
   ref,
 ) {
   const webViewRef = useRef<unknown>(null)
@@ -130,7 +142,15 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
   //
   // biome-ignore lint/correctness/useExhaustiveDependencies: baked at first paint only
   const html = useMemo(
-    () => buildHostHtml({ chapterCount, initialChapter, initialIndex, initialFraction, config }),
+    () =>
+      buildHostHtml({
+        chapterCount,
+        initialChapter,
+        initialIndex,
+        initialFraction,
+        initialElement,
+        config,
+      }),
     [],
   )
 
@@ -164,6 +184,12 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
         inject(
           webViewRef,
           `window.__foliate?.goToAnchor(${index}, ${JSON.stringify(anchor)});true;`,
+        )
+      },
+      goToElement: (index, elementId) => {
+        inject(
+          webViewRef,
+          `window.__foliate?.goToElement(${index}, ${JSON.stringify(elementId)});true;`,
         )
       },
       setHighlights: (highlights) => {
@@ -264,12 +290,14 @@ function buildHostHtml({
   initialChapter,
   initialIndex,
   initialFraction,
+  initialElement,
   config,
 }: {
   chapterCount: number
   initialChapter: string
   initialIndex: number
   initialFraction: number
+  initialElement: string | undefined
   config: FoliateConfig
 }): string {
   // Both scripts live as standalone .raw.js files bundled into TS modules
@@ -277,7 +305,7 @@ function buildHostHtml({
   // inside the WebView, not in this RN JS context. The trailing init call
   // hands the initial config + spine length + opening chapter into the
   // bootstrap's `window.__foliateInit(...)` entry point.
-  const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)});`
+  const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)}, ${JSON.stringify(initialElement ?? null)});`
   return `<!doctype html>
 <html>
 <head>

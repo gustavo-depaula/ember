@@ -42,8 +42,8 @@ describe('parseChapter — chapter slicing across both languages', () => {
 
     it(`${lang}: anchors index lists q-numbers belonging to the chapter`, () => {
       const out = parseChapter(raw, 'part-1', lang)
-      expect(out.anchors['1']).toEqual({ chapter: 'part-1' })
-      expect(out.anchors['217']).toEqual({ chapter: 'part-1' })
+      expect(out.anchors['1']).toEqual({ chapter: 'part-1', element: 'q1' })
+      expect(out.anchors['217']).toEqual({ chapter: 'part-1', element: 'q217' })
       expect(out.anchors['218']).toBeUndefined()
     })
 

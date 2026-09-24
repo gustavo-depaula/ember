@@ -168,16 +168,20 @@ export function BookReader({ bookId, chapter }: Props) {
     }
   }, [rawConfig, insets.top, insets.bottom, lang, paletteOverride])
 
-  const { startIndex, startFraction } = useMemo(() => {
+  const { startIndex, startFraction, startElement } = useMemo(() => {
     if (leaves.length === 0) return { startIndex: 0, startFraction: 0 }
     if (chapter) {
       // `chapter` may be a leaf id or an anchor (paragraph/question number) that
-      // resolves to a chapter via the book's anchor index.
-      const leafId = leaves.some((l) => l.id === chapter)
-        ? chapter
-        : bookEntry?.anchors?.[chapter]?.chapter
-      const idx = leaves.findIndex((l) => l.id === leafId)
-      if (idx >= 0) return { startIndex: idx, startFraction: 0 }
+      // resolves to a chapter via the book's anchor index — and then to the
+      // paragraph itself once the chapter is on screen.
+      if (leaves.some((l) => l.id === chapter)) {
+        return { startIndex: leaves.findIndex((l) => l.id === chapter), startFraction: 0 }
+      }
+      const target = bookEntry?.anchors?.[chapter]
+      const idx = leaves.findIndex((l) => l.id === target?.chapter)
+      if (target && idx >= 0) {
+        return { startIndex: idx, startFraction: 0, startElement: target.element ?? chapter }
+      }
     }
     const pos = cursor.initial.position
     if (pos) {
@@ -554,23 +558,25 @@ export function BookReader({ bookId, chapter }: Props) {
             // on demand rather than reading only what happens to be resident.
             void (async () => {
               const targetEntry = sameBook ? bookEntry : await loadBook(targetSlug)
-              const targetChapter =
-                targetEntry?.anchors?.[firstNum]?.chapter ?? targetEntry?.anchors?.[anchor]?.chapter
-              if (!targetChapter) {
+              const key = targetEntry?.anchors?.[firstNum] ? firstNum : anchor
+              const target = targetEntry?.anchors?.[key]
+              if (!target) {
                 console.warn(`[BookReader] cross-ref anchor unresolved: ${ref}`)
                 return
               }
               if (sameBook) {
-                const idx = leaves.findIndex((l) => l.id === targetChapter)
+                const idx = leaves.findIndex((l) => l.id === target.chapter)
                 if (idx >= 0) {
                   setNavStack((s) => [...s, { index: chapterIndex, fraction }])
-                  foliateRef.current?.goTo(idx, 0)
+                  foliateRef.current?.goToElement(idx, target.element ?? key)
                 }
                 return
               }
+              // The anchor key, not its chapter: the target reader resolves it
+              // to the chapter and then scrolls to the paragraph.
               router.push({
                 pathname: '/browse/book/[bookId]/read',
-                params: { bookId: targetSlug, chapter: targetChapter },
+                params: { bookId: targetSlug, chapter: key },
               })
             })().catch((err) => console.warn(`[BookReader] cross-ref ${ref} failed:`, err))
             return
@@ -879,6 +885,7 @@ export function BookReader({ bookId, chapter }: Props) {
         initialChapter={initialChapter}
         initialIndex={startIndex}
         initialFraction={startFraction}
+        initialElement={startElement}
         config={config}
         onMessage={onMessage}
       />

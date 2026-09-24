@@ -360,11 +360,12 @@ export function cccLeaf(id: string): CccLeaf | undefined {
 }
 
 /** Anchor index for the BookEntry: every paragraph + every leaf id → its chapter. */
-export function buildCccAnchors(): Record<string, { chapter: string }> {
-  const out: Record<string, { chapter: string }> = {}
+export function buildCccAnchors(): Record<string, { chapter: string; element?: string }> {
+  const out: Record<string, { chapter: string; element?: string }> = {}
   for (const l of cccLeaves) {
     out[l.id] = { chapter: l.id }
-    for (let n = l.from; n <= l.to; n++) out[String(n)] = { chapter: l.id }
+    // parse.ts gives each paragraph `id="ccc-N"`.
+    for (let n = l.from; n <= l.to; n++) out[String(n)] = { chapter: l.id, element: `ccc-${n}` }
   }
   return out
 }

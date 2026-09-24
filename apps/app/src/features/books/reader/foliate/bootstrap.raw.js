@@ -8,7 +8,7 @@
 // — that's the entire point of extracting it. It's never embedded in a
 // host-side template literal.
 
-window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction, initialChapter) => {
+window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction, initialChapter, initialElement) => {
   const post = (msg) => {
     const json = JSON.stringify(msg);
     if (window.ReactNativeWebView) window.ReactNativeWebView.postMessage(json);
@@ -734,10 +734,26 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     };
   };
 
-  const openBook = (index, fraction) => {
+  // Cross-references land on a paragraph, not just its chapter. foliate calls
+  // the anchor with the loaded chapter's document; a missing element leaves
+  // the reader at the chapter start. A page can hold the paragraph anywhere,
+  // so a brief gold wash shows which.
+  const elementAnchor = (id) => (doc) => {
+    const el = doc.getElementById(String(id));
+    if (!el) return 0;
+    el.style.transition = 'background-color 1.2s ease';
+    el.style.backgroundColor = 'rgba(212, 168, 58, 0.22)';
+    setTimeout(() => { el.style.backgroundColor = ''; }, 1400);
+    return el;
+  };
+
+  const openBook = (index, fraction, elementId) => {
     ensurePaginator();
     paginator.open(buildBook());
-    paginator.goTo({ index: index ?? 0, anchor: toAnchor(fraction) });
+    paginator.goTo({
+      index: index ?? 0,
+      anchor: elementId ? elementAnchor(elementId) : toAnchor(fraction),
+    });
   };
 
   const findRange = (doc, needleLower) => {
@@ -802,6 +818,10 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
       if (!contents.length) return;
       const range = resolveAnchor(contents[0].doc, anchor);
       if (range) await paginator.scrollToAnchor(range);
+    },
+    goToElement: (index, id) => {
+      if (!paginator) return;
+      paginator.goTo({ index: index ?? 0, anchor: elementAnchor(id) });
     },
     setConfig: (newCfg) => {
       cfg = newCfg;
@@ -930,6 +950,6 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     },
   };
 
-  openBook(initialIndex, initialFraction);
+  openBook(initialIndex, initialFraction, initialElement);
   post({ type: 'ready' });
 };

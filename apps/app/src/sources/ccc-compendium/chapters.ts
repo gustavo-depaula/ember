@@ -53,12 +53,13 @@ export function sourceUrl(lang: Lang): string {
   return `https://www.vatican.va/archive/compendium_ccc/documents/archive_2005_compendium-ccc_${slug}.html`
 }
 
-export function buildAnchorIndex(): Record<string, { chapter: ChapterId }> {
-  const out: Record<string, { chapter: ChapterId }> = {}
+export function buildAnchorIndex(): Record<string, { chapter: ChapterId; element?: string }> {
+  const out: Record<string, { chapter: ChapterId; element?: string }> = {}
   for (const id of chapterOrder) out[id] = { chapter: id }
   for (const [id, range] of Object.entries(questionRanges)) {
     for (let n = range[0]; n <= range[1]; n++) {
-      out[String(n)] = { chapter: id as ChapterId }
+      // parse.ts gives each question `id="qN"`.
+      out[String(n)] = { chapter: id as ChapterId, element: `q${n}` }
     }
   }
   return out

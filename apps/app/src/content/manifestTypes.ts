@@ -184,7 +184,8 @@ export type BookEntry = {
   // Anchor → chapter index. Lets `book/<id>#<anchor>` resolve directly to a
   // chapter without scanning. Producers can compute this implicitly when URL
   // structure encodes anchors; bundled books emit it from heading ids.
-  anchors?: Record<string, { chapter: string }>
+  // `element` is the target's DOM id when it differs from the anchor key.
+  anchors?: Record<string, { chapter: string; element?: string }>
   // Stemmed inverted index per language, fetched on first in-book search.
   // See scripts/build-corpus.py:build_search_index_for_book for the shape.
   searchIndex?: Record<string, BlobRef>
