@@ -6,9 +6,11 @@ import {
   useMemo,
   useState,
 } from 'react'
+import { type LayoutChangeEvent, Platform } from 'react-native'
 import { Text } from 'tamagui'
 
 import { getFontFamily, type ReadingFontId } from '@/config/readingFonts'
+import { lastLineSlack, useLastLineGuard } from '@/hooks/useLastLineGuard'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { Appearance, MeasureCorrection, StyledSegment } from '@/lib/typography/justifyText'
 import {
@@ -127,25 +129,48 @@ export function JustifiedText({
     ...look.render,
   })
 
+  // The fallback's line count isn't known, so its last line is guarded after
+  // the fact — see `useLastLineGuard`.
+  const lineHeight = typeof textProps.lineHeight === 'number' ? textProps.lineHeight : undefined
+  const fallbackGuard = useLastLineGuard(`${modelKey}|${lineHeight}`)
+
   // onLayout gives us the measure the breaker needs. Functional update so the
   // callback doesn't close over `width` and change identity every render.
-  const onLayout = useCallback((e: { nativeEvent: { layout: { width: number } } }) => {
-    const w = e.nativeEvent.layout.width
-    if (w) setWidth((prev) => (Math.abs(w - prev) > 0.5 ? w : prev))
-  }, [])
+  const guardFallback = fallbackGuard.onLayout
+  const onLayout = useCallback(
+    (e: LayoutChangeEvent) => {
+      guardFallback(e)
+      const w = e.nativeEvent.layout.width
+      if (w) setWidth((prev) => (Math.abs(w - prev) > 0.5 ? w : prev))
+    },
+    [guardFallback],
+  )
 
   if (!lines?.length) {
     return (
-      <Text {...textProps} onLayout={onLayout}>
+      <Text {...textProps} minHeight={fallbackGuard.minHeight} onLayout={onLayout}>
         {fallback}
       </Text>
     )
   }
 
+  // Every line is one `lineHeight` tall, so the paragraph's height is known
+  // before it is laid out, and the pixel `useLastLineGuard` explains can be
+  // added up front — otherwise the platform would report the clipped paragraph
+  // one line short, and `onTextLayout` would narrow a measure that was right.
+  const minHeight =
+    Platform.OS === 'ios' && lineHeight ? lines.length * lineHeight + lastLineSlack() : undefined
+
   return (
     // allowFontScaling would resize the text out from under metrics computed
     // at `fontSizePx`, so every line would be mis-measured.
-    <Text {...textProps} onLayout={onLayout} onTextLayout={onTextLayout} allowFontScaling={false}>
+    <Text
+      {...textProps}
+      minHeight={minHeight}
+      onLayout={onLayout}
+      onTextLayout={onTextLayout}
+      allowFontScaling={false}
+    >
       {lines.map((line, i) => (
         // biome-ignore lint/suspicious/noArrayIndexKey: line list is positional and regenerated wholesale
         <Fragment key={i}>

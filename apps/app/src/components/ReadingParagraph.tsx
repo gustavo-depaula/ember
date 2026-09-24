@@ -1,6 +1,7 @@
 import type { ComponentProps, ReactNode } from 'react'
 import { Text } from 'tamagui'
 
+import { useLastLineGuard } from '@/hooks/useLastLineGuard'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 import type { StyledSegment } from '@/lib/typography/justifyText'
@@ -52,6 +53,9 @@ export function ReadingParagraph({
   // Cast because the RN `TextStyle` blockFace returns also declares box
   // properties Tamagui types more narrowly; the keys it sets are Text props.
   const face = blockFace(baseFamily, base) as ComponentProps<typeof Text>
+  const guard = useLastLineGuard(
+    `${reading.fontSize}|${reading.lineHeight}|${baseFamily}|${base}|${language ?? contentLanguage}`,
+  )
 
   if (reading.textAlign !== 'justify') {
     return (
@@ -62,6 +66,8 @@ export function ReadingParagraph({
         {...reading}
         color={color}
         {...face}
+        minHeight={guard.minHeight}
+        onLayout={guard.onLayout}
       >
         {fallback}
       </Text>
