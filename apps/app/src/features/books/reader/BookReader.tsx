@@ -1,11 +1,14 @@
 import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
+import { X } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { AppState } from 'react-native'
+import { AppState, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, View, YStack } from 'tamagui'
+import { Text, View, XStack, YStack } from 'tamagui'
 
+import { PageBreakOrnament } from '@/components'
+import { GlassSurface } from '@/components/GlassSurface'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookCatalogEntry, loadBook } from '@/content/books'
@@ -71,38 +74,71 @@ type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlig
  * chapters stream in on demand (and the cache is warm on re-opens), this
  * window is sub-second on any book — no per-chapter progress to surface.
  */
+// Styled as the book's title page. It carries the reader's close button, since
+// an external book's first open waits on a network build that can stall.
 function LoadingPane({
   background,
   color,
+  isDark,
   title,
+  author,
+  onClose,
 }: {
   background: string
   color: string
+  isDark: boolean
   title: string
+  author?: string
+  onClose: () => void
 }) {
   const { t } = useTranslation()
+  const insets = useSafeAreaInsets()
   return (
-    <YStack
-      flex={1}
-      backgroundColor={background}
-      justifyContent="center"
-      alignItems="center"
-      paddingHorizontal="$xl"
-      gap="$lg"
-    >
-      <Text
-        fontFamily="$body"
-        fontStyle="italic"
-        fontSize="$5"
-        color={color}
-        opacity={0.75}
-        textAlign="center"
+    <YStack flex={1} backgroundColor={background}>
+      <XStack justifyContent="flex-end" paddingHorizontal={16} paddingTop={insets.top + 8}>
+        <Pressable
+          onPress={onClose}
+          hitSlop={8}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.closeBook', { defaultValue: 'Close book' })}
+        >
+          <GlassSurface
+            isDark={isDark}
+            tintColor={isDark ? 'rgba(28,26,24,0.6)' : 'rgba(244,240,234,0.7)'}
+            style={{
+              width: 48,
+              height: 48,
+              borderRadius: 9999,
+              alignItems: 'center',
+              justifyContent: 'center',
+              overflow: 'hidden',
+            }}
+          >
+            <X size={22} color={color} />
+          </GlassSurface>
+        </Pressable>
+      </XStack>
+      <YStack
+        flex={1}
+        justifyContent="center"
+        alignItems="center"
+        paddingHorizontal="$xl"
+        paddingBottom={insets.top + 56}
+        gap="$sm"
       >
-        {title}
-      </Text>
-      <Text fontFamily="$body" fontSize="$1" color={color} opacity={0.55}>
-        {t('books.opening', { defaultValue: 'Opening…' })}
-      </Text>
+        <Text fontFamily="$heading" fontSize="$5" color={color} textAlign="center">
+          {title}
+        </Text>
+        {author ? (
+          <Text fontFamily="$body" fontSize="$3" color={color} opacity={0.6} textAlign="center">
+            {author}
+          </Text>
+        ) : undefined}
+        <PageBreakOrnament />
+        <Text fontFamily="$body" fontSize="$1" color={color} opacity={0.5}>
+          {t('books.opening', { defaultValue: 'Opening…' })}
+        </Text>
+      </YStack>
     </YStack>
   )
 }
@@ -846,7 +882,10 @@ export function BookReader({ bookId, chapter }: Props) {
       <LoadingPane
         background={config.background}
         color={config.color}
+        isDark={config.isDark}
         title={catalogEntry.name ? localizeContent(catalogEntry.name) : ''}
+        author={catalogEntry.author ? localizeContent(catalogEntry.author) : undefined}
+        onClose={() => router.back()}
       />
     )
   }
@@ -872,7 +911,16 @@ export function BookReader({ bookId, chapter }: Props) {
   }
 
   if (isLoading || !session || initialChapter === undefined) {
-    return <LoadingPane background={config.background} color={config.color} title={bookTitle} />
+    return (
+      <LoadingPane
+        background={config.background}
+        color={config.color}
+        isDark={config.isDark}
+        title={bookTitle}
+        author={bookEntry.author ? localizeContent(bookEntry.author) : undefined}
+        onClose={() => router.back()}
+      />
+    )
   }
 
   const currentPosition = currentChapterId ? { chapterId: currentChapterId, fraction } : undefined
