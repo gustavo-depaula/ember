@@ -47,6 +47,12 @@ export type EngineContext = {
   ) => Promise<LocalizedContent | undefined>
   getBookLanguages?: (book: string) => string[]
   /**
+   * Make these books' manifests resident before the sync hooks above read
+   * them. `resolveFlowAsync` calls it with every book the flow references, so
+   * a host that loads manifests lazily never has to pre-warm them itself.
+   */
+  prepareBooks?: (books: string[]) => Promise<void>
+  /**
    * Optional asset reader for a practice's own data declarations. When not
    * supplied, the engine falls back to `FlowContext.cycleData[path]` so a
    * practice's declared `data` files resolve without a host-supplied reader.

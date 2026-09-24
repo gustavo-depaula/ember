@@ -1,10 +1,10 @@
 import { type LiturgicalDayMap, resolveLiturgicalDay } from '@ember/liturgical'
 import { useQuery } from '@tanstack/react-query'
 import { Platform } from 'react-native'
-
+import { loadBook } from '@/content/books'
 import type { TocNode } from '@/content/manifestTypes'
 import type { Primitive } from '@/content/primitives'
-import { ensureBookEntry, loadPracticeData } from '@/content/resolver'
+import { loadPracticeData } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useToday } from '@/hooks/useToday'
 import i18n, { localizeContent } from '@/lib/i18n'
@@ -58,7 +58,7 @@ async function bookMeditationTitle(
   if (!map) return undefined
   const [entry] = resolveLiturgicalDay(date, map)
   if (!entry) return undefined
-  const node = findTocNode((await ensureBookEntry(bookId))?.toc, entry.id)
+  const node = findTocNode((await loadBook(bookId))?.toc, entry.id)
   return node ? localizeContent(node.title) || undefined : undefined
 }
 

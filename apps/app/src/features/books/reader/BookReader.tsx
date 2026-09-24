@@ -8,7 +8,7 @@ import { Text, View, YStack } from 'tamagui'
 
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
-import { getBookEntry } from '@/content/resolver'
+import { getBookCatalogEntry, loadBook } from '@/content/books'
 import { useBookManifest } from '@/features/books/hooks'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { stripHtml } from '@/lib/html'
@@ -539,26 +539,35 @@ export function BookReader({ bookId, chapter }: Props) {
             if (!m) return
             const [, targetSlug, anchor] = m
             const firstNum = anchor.match(/\d+/)?.[0] ?? anchor
-            const sameBook = bookEntry?.id === targetSlug
-            const targetEntry = sameBook ? bookEntry : getBookEntry(targetSlug)
-            const targetChapter =
-              targetEntry?.anchors?.[firstNum]?.chapter ?? targetEntry?.anchors?.[anchor]?.chapter
-            if (!targetChapter) {
-              console.warn(`[BookReader] cross-ref anchor unresolved: ${msg.ref}`)
-              return
-            }
-            if (sameBook) {
-              const idx = leaves.findIndex((l) => l.id === targetChapter)
-              if (idx >= 0) {
-                setNavStack((s) => [...s, { index: chapterIndex, fraction }])
-                foliateRef.current?.goTo(idx, 0)
+            // Manifest ids are bare for external books but `book/`-prefixed for
+            // Hearth ones, so compare catalog entries, not ids.
+            const targetCatalogEntry = getBookCatalogEntry(targetSlug)
+            const sameBook =
+              !!targetCatalogEntry && targetCatalogEntry === getBookCatalogEntry(bookId)
+            const ref = msg.ref
+            // The target book's anchor index may not be loaded yet — resolve it
+            // on demand rather than reading only what happens to be resident.
+            void (async () => {
+              const targetEntry = sameBook ? bookEntry : await loadBook(targetSlug)
+              const targetChapter =
+                targetEntry?.anchors?.[firstNum]?.chapter ?? targetEntry?.anchors?.[anchor]?.chapter
+              if (!targetChapter) {
+                console.warn(`[BookReader] cross-ref anchor unresolved: ${ref}`)
+                return
               }
-              return
-            }
-            router.push({
-              pathname: '/browse/book/[bookId]/read',
-              params: { bookId: targetSlug, chapter: targetChapter },
-            })
+              if (sameBook) {
+                const idx = leaves.findIndex((l) => l.id === targetChapter)
+                if (idx >= 0) {
+                  setNavStack((s) => [...s, { index: chapterIndex, fraction }])
+                  foliateRef.current?.goTo(idx, 0)
+                }
+                return
+              }
+              router.push({
+                pathname: '/browse/book/[bookId]/read',
+                params: { bookId: targetSlug, chapter: targetChapter },
+              })
+            })().catch((err) => console.warn(`[BookReader] cross-ref ${ref} failed:`, err))
             return
           }
           // Accept exact, suffix, and stripped-extension matches so the same

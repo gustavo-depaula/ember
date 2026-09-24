@@ -1,12 +1,7 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
 import { windowFor } from '@ember/liturgical'
-import {
-  getBookEntry,
-  getProseText,
-  loadBookChapterText,
-  resolveCanticle,
-  resolvePrayer,
-} from '@/content/resolver'
+import { getResidentBook, loadBookChapterText, loadBooks } from '@/content/books'
+import { getProseText, resolveCanticle, resolvePrayer } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { pickActive, pickPending } from '@/features/resolutions/selectors'
 import { getToday } from '@/hooks/useToday'
@@ -81,7 +76,7 @@ export function createEngineContext(
     canticles,
     prose,
     getBookChapterTitle: (book, chapter, lang) => {
-      const entry = getBookEntry(book)
+      const entry = getResidentBook(book)
       if (!entry?.toc) return undefined
       const title = findTocTitle(
         entry.toc as Array<{ id: string; title: Record<string, string>; children?: unknown[] }>,
@@ -90,7 +85,8 @@ export function createEngineContext(
       if (!title) return undefined
       return title[lang] ?? title['pt-BR'] ?? title['en-US'] ?? Object.values(title)[0]
     },
-    getBookLanguages: (book) => getBookEntry(book)?.languages ?? [],
+    getBookLanguages: (book) => getResidentBook(book)?.languages ?? [],
+    prepareBooks: loadBooks,
     loadBookChapterTextAsync: async (book, chapter, lang) => {
       const text = await loadBookChapterText(book, chapter, lang)
       if (!text) return undefined

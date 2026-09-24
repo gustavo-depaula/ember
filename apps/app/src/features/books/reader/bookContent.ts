@@ -1,9 +1,6 @@
 import { Marked } from 'marked'
 import markedFootnote from 'marked-footnote'
-import { cccBookProducerId, loadCccChapterHtml } from '@/content/cccCatalog'
-import { ensureManifestBody, getEntry } from '@/content/contentIndex'
-import { loadEscrivaChapterHtml } from '@/content/escrivaCatalog'
-import { escrivaProducerId } from '@/content/escrivaWorks'
+import { findBookImage, loadBook, loadChapterSource } from '@/content/books'
 import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getText } from '@/content/store'
@@ -11,30 +8,11 @@ import { galleryExtension } from '@/features/books/markedGalleryExtension'
 
 const md = new Marked().use(markedFootnote()).use(galleryExtension())
 
-/**
- * Loader for an external book's already-HTML chapter body, keyed by the book's
- * `source.producer`. Each fetches from its third-party site and caches locally.
- */
-type ExternalChapterLoader = (
-  bookId: string,
-  chapterId: string,
-  lang: string,
-  url: string,
-) => Promise<string>
-
-const externalChapterLoaders: Record<string, ExternalChapterLoader> = {
-  [escrivaProducerId]: loadEscrivaChapterHtml,
-  [cccBookProducerId]: loadCccChapterHtml,
-}
-
 /** Position of a readable node in the reading flow — its title is styled by role. */
 export type TocRole = 'part' | 'section' | 'chapter'
 export type ReadingNode = { id: string; index: number; role: TocRole }
 /** Subset consumed by sheets that only need id + reading-order index. */
 export type TocLeaf = { id: string; index: number }
-
-/** Per-chapter image lookup built once from manifest.images. */
-type ImageRef = { hash: string; mime?: string }
 
 /**
  * Live reader session for one (book, lang). Manifest + CSS load up-front; chapter
@@ -98,11 +76,6 @@ function bytesToBase64(bytes: Uint8Array): string {
 function extractBody(html: string): string {
   const bodyMatch = html.match(/<body[^>]*>([\s\S]*)<\/body>/i)
   return bodyMatch ? bodyMatch[1].trim() : html
-}
-
-/** Bundled chapters are markdown unless flagged `html`; external bodies are HTML already. */
-async function renderBundledChapter(raw: string, format?: 'html'): Promise<string> {
-  return format === 'html' ? raw : md.parse(raw)
 }
 
 function collectImgSrcs(html: string): string[] {
@@ -293,26 +266,12 @@ export function ancestorGroupIds(toc: TocNode[], targetId?: string): Set<string>
 }
 
 /**
- * Build the image-src lookup once per session. The same image may be
- * referenced under either `images/foo.jpg` or `../images/foo.jpg` depending
- * on author convention, so we register both forms.
- */
-function buildImageRefs(manifest: BookEntry): Map<string, ImageRef> {
-  const refs = new Map<string, ImageRef>()
-  for (const im of manifest.images ?? []) {
-    refs.set(`../images/${im.rel}`, { hash: im.hash, mime: im.mime })
-    refs.set(`images/${im.rel}`, { hash: im.hash, mime: im.mime })
-  }
-  return refs
-}
-
-/**
  * Resolve every <img src=...> referenced by `body` to a data URI and rewrite
  * the body inline. Images that don't map to a manifest ref are left alone.
  */
 async function inlineChapterImages(
   body: string,
-  imageRefs: Map<string, ImageRef>,
+  book: BookEntry,
   imageCache: Map<string, string>,
 ): Promise<string> {
   const srcs = collectImgSrcs(body)
@@ -320,11 +279,11 @@ async function inlineChapterImages(
   await Promise.all(
     srcs.map(async (src) => {
       if (imageCache.has(src)) return
-      const ref = imageRefs.get(src) ?? imageRefs.get(src.replace(/^\.\.\//, ''))
-      if (!ref) return
+      const image = findBookImage(book, src)
+      if (!image) return
       try {
-        const bytes = await getBlob(ref.hash)
-        const mime = ref.mime ?? mimeForExt(src)
+        const bytes = await getBlob(image.hash)
+        const mime = image.mime || mimeForExt(src)
         imageCache.set(src, `data:${mime};base64,${bytesToBase64(bytes)}`)
       } catch (err) {
         console.warn(`[bookContent] image ${src} failed to load:`, err)
@@ -353,15 +312,10 @@ export async function openBookSession(
   bookId: string,
   lang: string,
 ): Promise<BookSession | undefined> {
-  const corpusId = bookId.startsWith('book/') ? bookId : `book/${bookId}`
-  const entry = getEntry(corpusId)
-  if (!entry) return undefined
-
-  // ensureManifestBody resolves both Hearth books (by blob hash) and external
-  // Escrivá books (built on demand from the API via the manifest resolver).
-  const manifest = await ensureManifestBody<BookEntry>(entry.hash)
+  const book = await loadBook(bookId)
+  if (!book) return undefined
+  const manifest: BookEntry = book
   const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
-  const imageRefs = buildImageRefs(manifest)
 
   // Reading flow drives both the index→id map and the per-index role used to
   // style each chapter's promoted title. Must match the reader's flow exactly
@@ -390,30 +344,16 @@ export async function openBookSession(
   async function fetchChapter(index: number, inlineImages: boolean): Promise<string> {
     const node = readingFlow[index]
     if (!node) return ''
-    const ref = manifest.chapters?.[node.id]?.[lang]
-    // Defensive: a node in the flow with no markdown (shouldn't happen) still
+    const source = await loadChapterSource(manifest, node.id, lang)
+    // Defensive: a node in the flow with no body (shouldn't happen) still
     // gets its TOC title as a synthesized H1 so the page isn't blank.
-    if (!ref) {
+    if (!source) {
       const title = titleLookup.get(node.id)
       return title ? promoteFirstHeading(`<h1>${title}</h1>`, node.role) : ''
     }
-    // External books fetch+cache their already-HTML chapter body from the
-    // producer named by `source.producer`; bundled books read the hashed
-    // markdown/HTML blob from Hearth.
-    let html: string
-    if ('type' in ref) {
-      const loader = externalChapterLoaders[manifest.source?.producer ?? '']
-      if (!loader) {
-        throw new Error(
-          `No external chapter loader for producer "${manifest.source?.producer}" (book ${manifest.id})`,
-        )
-      }
-      html = await loader(manifest.id, node.id, lang, ref.url)
-    } else {
-      html = await renderBundledChapter(await getText(ref.hash), ref.format)
-    }
+    const html = source.format === 'markdown' ? await md.parse(source.text) : source.text
     const promoted = promoteFirstHeading(extractBody(html), node.role)
-    return inlineImages ? inlineChapterImages(promoted, imageRefs, imageCache) : promoted
+    return inlineImages ? inlineChapterImages(promoted, manifest, imageCache) : promoted
   }
 
   async function getChapter(index: number): Promise<string> {

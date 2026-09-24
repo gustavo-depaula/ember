@@ -360,6 +360,11 @@ export async function resolveFlowAsync(
     ctx = { ...ctx, fragments: flow.fragments }
   }
 
+  // Resolve steps label entries with chapter titles read synchronously, so
+  // their books must be resident first.
+  const resolveBooks = (flow.resolve ?? []).flatMap((step) => (step.book ? [step.book] : []))
+  if (resolveBooks.length > 0) await engineContext.prepareBooks?.(resolveBooks)
+
   const { context: resolvedContext, dynamicBookChapters } = executeResolveSteps(
     flow,
     ctx,
@@ -377,6 +382,9 @@ export async function resolveFlowAsync(
   if (allBookChapterRefs.length === 0) {
     return resolveFlowWithContext(flow, ctx, engineContext)
   }
+
+  // Chapter preload asks each book for its languages synchronously.
+  await engineContext.prepareBooks?.([...new Set(allBookChapterRefs.map((ref) => ref.book))])
 
   const chapterCache = new Map<string, LocalizedContent>()
   const uniqueRequests = Array.from(

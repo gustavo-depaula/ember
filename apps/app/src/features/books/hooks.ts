@@ -1,9 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { useMemo } from 'react'
 
-import { ensureManifestBody, getEntry } from '@/content/contentIndex'
-import type { BookEntry } from '@/content/manifestTypes'
-import { getBookEntry } from '@/content/resolver'
+import { getBookCatalogEntry, getResidentBook, loadBook } from '@/content/books'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 
 /**
@@ -16,14 +14,20 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
  */
 export function useBookManifest(bookId: string | undefined) {
   const catalogVersion = useCatalogVersion()
-  const id = bookId ? `book/${bookId}` : undefined
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
-  const entry = useMemo(() => (id ? getEntry(id) : undefined), [id, catalogVersion])
+  const entry = useMemo(
+    () => (bookId ? getBookCatalogEntry(bookId) : undefined),
+    [bookId, catalogVersion],
+  )
   const query = useQuery({
     queryKey: ['book-manifest', entry?.hash],
-    queryFn: () => ensureManifestBody<BookEntry>(entry?.hash ?? ''),
+    queryFn: async () => {
+      const book = bookId ? await loadBook(bookId) : undefined
+      if (!book) throw new Error(`Book not in catalog: ${bookId}`)
+      return book
+    },
     enabled: !!entry,
-    initialData: () => (bookId ? getBookEntry(bookId) : undefined),
+    initialData: () => (bookId ? getResidentBook(bookId) : undefined),
     staleTime: Number.POSITIVE_INFINITY,
   })
   return { ...query, entry }

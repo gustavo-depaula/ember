@@ -286,6 +286,63 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
     ])
   })
 
+  it('prepares referenced books before reading them synchronously', async () => {
+    const liturgicalMap = {
+      temporal: {},
+      fixedDates: { '04-11': { primary: 'ch-1' }, '04-12': { primary: 'ch-1' } },
+      feasts: {},
+      novenas: {},
+      reserves: [],
+    }
+    // Hosts load manifests lazily: nothing is readable until prepareBooks ran.
+    const resident = new Set<string>()
+    const prepared: string[][] = []
+    const loads: string[] = []
+    const engineContext: EngineContext = {
+      ...makeEngineContext(),
+      prepareBooks: async (books) => {
+        prepared.push(books)
+        for (const book of books) resident.add(book)
+      },
+      getBookChapterTitle: (book, chapter) => (resident.has(book) ? `Title ${chapter}` : undefined),
+      getBookLanguages: (book) => (resident.has(book) ? ['la'] : []),
+      loadBookChapterTextAsync: async (book, chapter, lang) => {
+        loads.push(`${book}/${chapter}/${lang}`)
+        return undefined
+      },
+    }
+
+    const result = await resolveFlowAsync(
+      flowDef({
+        resolve: [
+          {
+            source: 'liturgical',
+            dataType: 'liturgical-meditation-map',
+            data: 'liturgical-map',
+            strategy: 'liturgical-day',
+            as: 'meditations',
+            book: 'meditations-book',
+          },
+        ],
+        sections: [
+          { type: 'heading', text: { 'pt-BR': '{{meditationTitle}}' } },
+          { type: 'prose', book: 'latin-book', chapter: 'intro' },
+        ],
+      }),
+      makeContext({
+        cycleData: { 'liturgical-map': liturgicalMap as never },
+        liturgicalCalendar: 'ef',
+      }),
+      engineContext,
+    )
+
+    expect(prepared[0]).toEqual(['meditations-book'])
+    expect(prepared.flat()).toContain('latin-book')
+    expect(result[0]).toEqual({ type: 'heading', text: { primary: 'Title ch-1' } })
+    // latin-book is only in Latin; its languages were readable at preload.
+    expect(loads).toContain('latin-book/intro/la')
+  })
+
   it('includes fixed-date and weekdaysOfMonths additions in resolved entries', async () => {
     const liturgicalMap = {
       // 2026-04-25 (Easter+20) resolves to easter/3/6 in the temporal cycle.

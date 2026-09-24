@@ -24,7 +24,6 @@ import {
 import { pickAvailableLang } from './langAliases'
 import type {
   BlobRef,
-  BookEntry,
   Catalog,
   ChapterManifest,
   CreatorManifest,
@@ -79,18 +78,6 @@ function buildImageRefMap(
     map.set(`images/${img.rel}`, `corpus://${img.hash}.${ext}`)
   }
   return map
-}
-
-// Book chapters reference images as relative markdown links
-// (`![alt](../images/<rel>)`). Rewrite each match to `corpus://<hash>.<ext>`
-// so useResolvedImageUri can fetch the blob — matching how practice flows
-// handle the same indirection via rewriteImagePaths.
-function rewriteMarkdownImagePaths(text: string, refs: Map<string, string>): string {
-  return text.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, src) => {
-    const normalized = src.replace(/^\.\.\//, '').replace(/^\.\//, '')
-    const replaced = refs.get(normalized)
-    return replaced ? `![${alt}](${replaced})` : match
-  })
 }
 
 // Practices reference images by their `images/<rel>` path in flow.json. The
@@ -430,52 +417,6 @@ export async function prefetchChapterProse(
 
 export function getProseText(filePath: string): LocalizedContent | undefined {
   return proseCache.get(filePath)
-}
-
-export function getBookEntry(bookId: string): BookEntry | undefined {
-  return residentItem<BookEntry>(bookId, 'book').item
-}
-
-/**
- * Resolve a book manifest on demand, remembering it for subsequent sync reads
- * (getBookEntry, chapter titles). Book manifests are no longer warmed at boot,
- * so practice flows that reference book chapters (Divine Intimacy, Lectio)
- * must ensure the manifest instead of relying on a resident read.
- */
-export async function ensureBookEntry(bookId: string): Promise<BookEntry | undefined> {
-  const canonical = canonicalize(bookId, 'book')
-  if (!canonical) return undefined
-  const entry = getEntry(canonical)
-  if (entry?.kind !== 'book') return undefined
-  return ensureManifestBody<BookEntry>(entry.hash)
-}
-
-export function getAllBookEntries(): BookEntry[] {
-  const out: BookEntry[] = []
-  for (const [, entry] of getEntriesByKind('book')) {
-    const item = getRememberedManifest<BookEntry>(entry.hash)
-    if (item) out.push(item)
-  }
-  return out
-}
-
-export async function loadBookChapterText(
-  bookId: string,
-  chapterId: string,
-  lang: string,
-): Promise<string | undefined> {
-  const item = await ensureBookEntry(bookId)
-  if (!item) return undefined
-  const ref = item.chapters[chapterId]?.[lang]
-  if (!ref) return undefined
-  // External books (Escrivá) resolve their already-HTML body via the producer.
-  if ('type' in ref) {
-    const { loadEscrivaChapterHtml } = await import('./escrivaCatalog')
-    return loadEscrivaChapterHtml(item.id, chapterId, lang, ref.url)
-  }
-  const text = await getText(ref.hash)
-  const imageRefs = buildImageRefMap(item.images)
-  return imageRefs ? rewriteMarkdownImagePaths(text, imageRefs) : text
 }
 
 /**

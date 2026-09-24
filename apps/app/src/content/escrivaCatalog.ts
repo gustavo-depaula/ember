@@ -7,8 +7,8 @@
  *    resolver so a book's `BookEntry` (toc + external chapter refs) builds on
  *    demand — the reader and details screen both resolve it via
  *    `ensureManifestBody`, caching it in SQLite for instant relaunch.
- *  - `loadEscrivaChapterHtml()` is the on-demand chapter loader used by the
- *    reader's external-ref branch (cache-or-fetch).
+ *  - `loadEscrivaChapterHtml()` is the on-demand chapter producer registered
+ *    with the book module (cache-or-fetch) for both the reader and practices.
  */
 
 import {
@@ -18,6 +18,7 @@ import {
   putEscrivaChapterHtml,
 } from '@/db/repositories/escrivaContent'
 import { fetchChapterHtml, fetchChapterList, fetchPointRanges } from '@/lib/escriva'
+import { registerChapterProducer } from './books'
 import { registerLocalEntries, rememberManifestBody, setManifestBodyResolver } from './contentIndex'
 import {
   type EscrivaWork,
@@ -73,6 +74,7 @@ export function registerEscrivaCatalog(): void {
     if (!hash.startsWith(escrivaBookHashPrefix)) return undefined
     return ensureEscrivaBookEntry(hash.slice(escrivaBookHashPrefix.length))
   })
+  registerChapterProducer(escrivaProducerId, loadEscrivaChapterHtml)
 }
 
 const inflightBookBuilds = new Map<string, Promise<BookEntry | undefined>>()
@@ -81,7 +83,7 @@ const inflightBookBuilds = new Map<string, Promise<BookEntry | undefined>>()
  * Build (or load from cache) the external `BookEntry` for one work: fetch each
  * language's chapter list, zip them by ordinal into a shared TOC, and point each
  * chapter ref at the API url whose body the reader fetches on open. Remembered
- * in-memory so synchronous resolvers (`getBookEntry`) see it thereafter.
+ * in-memory so synchronous resolvers (`getResidentBook`) see it thereafter.
  */
 export async function ensureEscrivaBookEntry(slug: string): Promise<BookEntry | undefined> {
   const work = escrivaWorkBySlug(slug)
@@ -165,7 +167,7 @@ async function buildBookEntry(work: EscrivaWork): Promise<BookEntry> {
   }
 }
 
-/** Cache-or-fetch a chapter's body HTML for the reader's external-ref branch. */
+/** Cache-or-fetch a chapter's body HTML — the book module's producer for these books. */
 export async function loadEscrivaChapterHtml(
   slug: string,
   chapterId: string,

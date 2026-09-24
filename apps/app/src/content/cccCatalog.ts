@@ -9,8 +9,8 @@
  *    them), and installs the manifest resolver as a fallback. The TOC is static,
  *    so both books appear (with full table of contents) instantly and offline;
  *    only chapter bodies need the network on first open.
- *  - `loadCccChapterHtml()` is the on-demand chapter loader used by the reader's
- *    external-ref branch (cache-or-fetch), dispatching CCC vs Compendium.
+ *  - `loadCccChapterHtml()` is the on-demand chapter producer registered with
+ *    the book module (cache-or-fetch), dispatching CCC vs Compendium.
  */
 
 import { getCccChapterHtml, putCccChapterHtml } from '@/db/repositories/cccContent'
@@ -31,6 +31,7 @@ import {
 import { fetchPage as fetchCompendiumPage } from '@/sources/ccc-compendium/fetchPage'
 import { parseChapter as parseCompendiumChapter } from '@/sources/ccc-compendium/parse'
 import type { ChapterId as CompendiumChapterId, Lang } from '@/sources/ccc-compendium/types'
+import { registerChapterProducer } from './books'
 import { registerLocalEntries, rememberManifestBody, setManifestBodyResolver } from './contentIndex'
 import type { BookEntry, CatalogEntry, TocNode } from './manifestTypes'
 import type { LocalizedText } from './types'
@@ -170,6 +171,7 @@ export function registerCccCatalog(): void {
     if (!hash.startsWith(cccBookHashPrefix)) return undefined
     return buildBookEntry(hash.slice(cccBookHashPrefix.length))
   })
+  registerChapterProducer(cccBookProducerId, loadCccChapterHtml)
 }
 
 // Minimal styling for the scraped paragraph-number markers. External books carry
@@ -178,7 +180,7 @@ const cccStyles =
   '<style>.ccc-n{font-weight:700;opacity:.55;margin-right:.4em;font-size:.85em}' +
   ' .ccc-refs{opacity:.7;font-size:.9em}</style>\n'
 
-/** Cache-or-fetch a chapter's body HTML for the reader's external-ref branch. */
+/** Cache-or-fetch a chapter's body HTML — the book module's producer for these books. */
 export async function loadCccChapterHtml(
   bookId: string,
   chapterId: string,
