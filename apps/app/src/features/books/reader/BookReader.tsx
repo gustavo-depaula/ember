@@ -1,7 +1,7 @@
 import { useQuery } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { X } from 'lucide-react-native'
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
+import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { AppState, Pressable, StyleSheet } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -74,22 +74,21 @@ type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlig
  * chapters stream in on demand (and the cache is warm on re-opens), this
  * window is sub-second on any book — no per-chapter progress to surface.
  */
-// Styled as the book's title page. It carries the reader's close button, since
-// an external book's first open waits on a network build that can stall.
-function LoadingPane({
+// Every state the reader can open into — title page, error, not found — keeps
+// the reader's own close button. An external book's first open waits on a
+// network build, and a stalled or failed one must not leave the user stranded.
+function ReaderFrame({
   background,
   color,
   isDark,
-  title,
-  author,
   onClose,
+  children,
 }: {
   background: string
   color: string
   isDark: boolean
-  title: string
-  author?: string
   onClose: () => void
+  children: ReactNode
 }) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
@@ -118,14 +117,33 @@ function LoadingPane({
           </GlassSurface>
         </Pressable>
       </XStack>
-      <YStack
-        flex={1}
-        justifyContent="center"
-        alignItems="center"
-        paddingHorizontal="$xl"
-        paddingBottom={insets.top + 56}
-        gap="$sm"
-      >
+      <YStack flex={1} justifyContent="center" paddingBottom={insets.top + 56}>
+        {children}
+      </YStack>
+    </YStack>
+  )
+}
+
+// Styled as the book's title page.
+function LoadingPane({
+  background,
+  color,
+  isDark,
+  title,
+  author,
+  onClose,
+}: {
+  background: string
+  color: string
+  isDark: boolean
+  title: string
+  author?: string
+  onClose: () => void
+}) {
+  const { t } = useTranslation()
+  return (
+    <ReaderFrame background={background} color={color} isDark={isDark} onClose={onClose}>
+      <YStack alignItems="center" paddingHorizontal="$xl" gap="$sm">
         <Text fontFamily="$heading" fontSize="$5" color={color} textAlign="center">
           {title}
         </Text>
@@ -139,7 +157,7 @@ function LoadingPane({
           {t('books.opening', { defaultValue: 'Opening…' })}
         </Text>
       </YStack>
-    </YStack>
+    </ReaderFrame>
   )
 }
 
@@ -883,9 +901,14 @@ export function BookReader({ bookId, chapter }: Props) {
   // a book the catalog doesn't know is "not found".
   if (!bookEntry && catalogEntry && manifestError) {
     return (
-      <YStack flex={1} backgroundColor={config.background} justifyContent="center">
+      <ReaderFrame
+        background={config.background}
+        color={config.color}
+        isDark={config.isDark}
+        onClose={() => router.back()}
+      >
         <ReaderErrorState onRetry={() => refetchManifest()} />
-      </YStack>
+      </ReaderFrame>
     )
   }
 
@@ -904,11 +927,16 @@ export function BookReader({ bookId, chapter }: Props) {
 
   if (!bookEntry) {
     return (
-      <YStack flex={1} backgroundColor="$background" padding="$lg" paddingTop={insets.top + 24}>
-        <Text fontFamily="$body" color="$colorSecondary">
+      <ReaderFrame
+        background={config.background}
+        color={config.color}
+        isDark={config.isDark}
+        onClose={() => router.back()}
+      >
+        <Text fontFamily="$body" color={config.color} opacity={0.6} textAlign="center">
           {t('browse.bookNotFound', { defaultValue: 'Book not found.' })}
         </Text>
-      </YStack>
+      </ReaderFrame>
     )
   }
 
@@ -916,9 +944,14 @@ export function BookReader({ bookId, chapter }: Props) {
 
   if (isError) {
     return (
-      <YStack flex={1} backgroundColor={config.background} justifyContent="center">
+      <ReaderFrame
+        background={config.background}
+        color={config.color}
+        isDark={config.isDark}
+        onClose={() => router.back()}
+      >
         <ReaderErrorState onRetry={() => refetch()} />
-      </YStack>
+      </ReaderFrame>
     )
   }
 
