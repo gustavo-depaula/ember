@@ -653,7 +653,7 @@ Extends Settings → Storage:
 - `apps/app/src/features/books/ReaderWebView.tsx` — WebView abstraction reused for video + articles.
 - `apps/app/src/app/browse/index.tsx` — where the new `Creators`, `Latest`, and search-pill rows attach.
 - `apps/app/src/db/client.ts` — `CREATE TABLE IF NOT EXISTS` bootstrap on boot.
-- `apps/app/src/db/repositories/` — pattern to follow (existing: `practices.ts`, `cursors.ts`, `oblatio.ts`); new repos slot in here.
+- `apps/app/src/db/repositories/` — pattern to follow (existing: `practices.ts`, `cursors.ts`); new repos slot in here.
 - `packages/content-engine/src/types.ts` — `FlowSection` shape; relevant for the v1.1 `sectionPath` spike (no DSL change in v1).
 - `apps/app/src/features/practices/components/PracticeFlow.tsx` — `useAdvanceCursor` is where `GuidedAudioController` will hook flow-advance events in v1.1.
 - `scripts/build-corpus.py` — `build_collections()` is the pattern; insert `build_creators()` next to it (and `build_playlists()` in v1.1).

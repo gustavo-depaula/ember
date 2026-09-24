@@ -337,8 +337,7 @@ A template in Ember is *not* a unique data model — it is a starter pack compos
 
 1. **A set of practices to pin**, with default tier (essential / important / ideal), default time block (Morning / Midday / Evening / Night / Anytime), and default schedule (daily / day-of-week / monthly).
 2. **A short manifesto** — 1–3 paragraphs of "what this plan is and who it's for," shown on the template preview.
-3. **Optionally, suggested seasonal / annual resolutions** to pre-fill in the Resolutions panel ([[project-primitives-renderer]]; see `docs/plans/spiritual-threads/04-plan-of-life.md`).
-4. **Optionally, a recommended collection** of books / chapters / propers to pin alongside (e.g., the Carmelite template pins *Interior Castle*, *Story of a Soul*, *Ascent of Mount Carmel*).
+3. **Optionally, a recommended collection** of books / chapters / propers to pin alongside (e.g., the Carmelite template pins *Interior Castle*, *Story of a Soul*, *Ascent of Mount Carmel*).
 
 What's already in the corpus today (`content/practices/*`) covers the spine of most templates: `mass`, `rosary`, `examination-of-conscience`, `mental-prayer`, `morning-offering`, `morning-offering-sacred-heart`, `angelus`, `confession`, `holy-hour`, `little-office-bvm`, `gospel-of-the-day`, `first-friday-devotion`, `total-consecration`, `chaplet-of-divine-mercy`, `divine-mercy-novena`, the litanies, the acts, etc. The Liturgy of the Hours story (`dwdo`, the eventual real `breviary`) covers Benedictine, Dominican, Franciscan, Carmelite. The Eastern template is the only one with significant *new content* to author: a daily morning prayer rule, a Jesus Prayer practice, a *Trisagion* prayer, a Byzantine fasting calendar.
 
@@ -363,4 +362,4 @@ A first-cut template ordering for v1, sized to the user's likely audience:
 
 Each ships as a JSON file under `content/plan-of-life-templates/<id>/manifest.json` (proposed location — finalize when the feature is specced). The corpus pipeline (`scripts/build-corpus.py`) extends to index these as another first-class corpus kind, served at `/hearth/v2/plan-of-life-templates/`. The onboarding flow asks the user three questions (state-of-life, temperament, time available) and recommends 2–3; the user can always browse the full list.
 
-When the feature is greenlit, the spec lives in `docs/features/plan-of-life-templates/` (multi-phase folder like `spiritual-threads/`), with this file referenced as the source-of-content for the template manifests.
+When the feature is greenlit, the spec lives in `docs/features/plan-of-life-templates/`, with this file referenced as the source-of-content for the template manifests.
