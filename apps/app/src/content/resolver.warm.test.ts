@@ -10,7 +10,12 @@ vi.mock('./store', () => ({
   getText: vi.fn(),
 }))
 
-import { getCatalogVersion, resetContentIndex, setCatalog } from './contentIndex'
+import {
+  getCatalogVersion,
+  registerLocalEntries,
+  resetContentIndex,
+  setCatalog,
+} from './contentIndex'
 import type { Catalog } from './manifestTypes'
 import { warmCriticalManifests, warmDeferredManifests } from './resolver'
 import { getJson } from './store'
@@ -58,5 +63,16 @@ describe('warm functions — notify only when something new loaded', () => {
     await warmCriticalManifests()
     expect(getCatalogVersion()).toBe(v0)
     warnSpy.mockRestore()
+  })
+})
+
+describe('warm functions — Hearth blobs only', () => {
+  it('never asks the store for an external entry’s synthetic hash', async () => {
+    registerLocalEntries({
+      'book/escriva-the-way': { kind: 'book', hash: 'escriva:book:escriva-the-way', size: 0 },
+    })
+    await warmDeferredManifests()
+    expect(getJson).toHaveBeenCalledWith('h-marian')
+    expect(getJson).not.toHaveBeenCalledWith('escriva:book:escriva-the-way')
   })
 })

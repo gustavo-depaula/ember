@@ -13,6 +13,7 @@ import {
   bareId,
   canonicalize,
   ensureManifestBody,
+  getCatalog,
   getEntriesByKind,
   getEntry,
   getRememberedManifest,
@@ -129,8 +130,12 @@ async function warmKinds(
   >,
 ): Promise<number> {
   const hashes: string[] = []
+  const hearthItems = getCatalog().items
   for (const kind of kinds) {
-    for (const [, entry] of getEntriesByKind(kind)) {
+    for (const [id, entry] of getEntriesByKind(kind)) {
+      // External entries (Escrivá, the Catechism) carry synthetic hashes the
+      // store has never held; they are built on demand when opened.
+      if (!(id in hearthItems)) continue
       if (getRememberedManifest(entry.hash) === undefined) hashes.push(entry.hash)
     }
   }
