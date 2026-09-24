@@ -1,3 +1,4 @@
+import { useEventStore } from '@/db/events'
 import { useMinElapsed } from './hooks/useMinElapsed'
 import { usePracticeCompletion } from './hooks/usePracticeCompletion'
 import { usePracticeContent } from './hooks/usePracticeContent'
@@ -14,7 +15,8 @@ export function PracticeFlow({
   slotKey?: string
 }) {
   const { selectOverrides, handleSelectOverride } = useSelectOverrides(practiceId, programDayProp)
-  const contentQuery = usePracticeContent(practiceId, programDayProp)
+  const pins = useEventStore((s) => (slotKey ? s.slots.get(slotKey)?.pins : undefined))
+  const contentQuery = usePracticeContent(practiceId, programDayProp, pins)
   const completion = usePracticeCompletion(
     practiceId,
     programDayProp,

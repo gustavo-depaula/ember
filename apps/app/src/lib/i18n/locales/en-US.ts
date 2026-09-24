@@ -500,6 +500,7 @@ export default {
     icon: 'Icon',
     tier: 'Tier',
     timeOfDay: 'Time of Day',
+    pinAutomatic: 'Automatic',
     description: 'Description',
     descriptionPlaceholder: 'Optional description',
     notifications: 'Notifications',

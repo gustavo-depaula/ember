@@ -3,6 +3,8 @@
     {
       "type": "select",
       "on": "hour",
+      "as": "hour",
+      "pin": true,
       "label": {
         "en-US": "Hour",
         "pt-BR": "Hora",
@@ -21,6 +23,7 @@
       "options": [
         {
           "id": "office-of-readings",
+          "time": "05:00",
           "label": {
             "en-US": "Office of Readings",
             "pt-BR": "Ofício das Leituras",
@@ -38,6 +41,7 @@
         },
         {
           "id": "lauds",
+          "time": "06:00",
           "label": {
             "en-US": "Morning Prayer",
             "pt-BR": "Laudes",
@@ -55,6 +59,7 @@
         },
         {
           "id": "terce",
+          "time": "09:00",
           "label": {
             "en-US": "Midmorning (Terce)",
             "pt-BR": "Tércia",
@@ -72,6 +77,7 @@
         },
         {
           "id": "sext",
+          "time": "12:00",
           "label": {
             "en-US": "Midday (Sext)",
             "pt-BR": "Sexta",
@@ -89,6 +95,7 @@
         },
         {
           "id": "none",
+          "time": "15:00",
           "label": {
             "en-US": "Midafternoon (None)",
             "pt-BR": "Noa",
@@ -106,6 +113,7 @@
         },
         {
           "id": "vespers",
+          "time": "18:00",
           "label": {
             "en-US": "Evening Prayer",
             "pt-BR": "Vésperas",
@@ -123,6 +131,7 @@
         },
         {
           "id": "compline",
+          "time": "21:00",
           "label": {
             "en-US": "Night Prayer",
             "pt-BR": "Completas",

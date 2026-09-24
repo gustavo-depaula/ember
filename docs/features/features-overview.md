@@ -97,6 +97,7 @@ Each practice has **one flow** — a self-contained JSON document with all condi
 
 **Key primitives:**
 - `select` — picks one option from a list, based on context or manual choice. Three modes: silent conditional (no UI), default+override (auto-picks but shows picker), manual (user must choose).
+- `pin: true` on a top-level `select` (with an `as` key) lets a plan slot fix one option, so the slot becomes that option: an office's "Prime" or the rosary's "Glorious Mysteries" gets its own row in Today. Use it only when the choice is *what* is prayed, not *how* (the Mass form and the gospel commentary are preferences, not pins). An option can opt out with `pin: false` (the breviary's votive office) and set a default slot `time`. When an office is added to the plan, each pinnable hour becomes its own slot.
 - `repeat` with `data` — iterates over flow-local data arrays with template substitution.
 - `options` — shows ALL alternatives simultaneously (distinct from `select` which picks ONE).
 - `from` on `repeat` / `options` — names the array to iterate. The string is template-substituted first (`"{{mysteries}}"` → `"joyful"`), then looked up in `resolve` outputs, then in the flow's top-level `data`. Each entry's fields become `{{placeholders}}`, plus `{{index}}` and `{{ordinal}}`; `options` takes each tab's label from the entry's `label` field.

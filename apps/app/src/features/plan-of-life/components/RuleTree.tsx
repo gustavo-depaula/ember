@@ -18,8 +18,8 @@ import { dayKeys } from '@/config/constants'
 import type { SlotState } from '@/db/events'
 import { lightTap } from '@/lib/haptics'
 
-import { enrichSlot } from '../getPracticeName'
-import { useUpdateSlot } from '../hooks'
+import { getPracticeIconKey, getSlotName, getSlotPinLabel } from '../getPracticeName'
+import { usePinnedFlows, useUpdateSlot } from '../hooks'
 import { parseSchedule } from '../schedule'
 import { SlotQuickEdit } from './SlotQuickEdit'
 
@@ -81,7 +81,11 @@ function PracticeBlock({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const head = enrichSlot(group.slots[0], t)
+  usePinnedFlows(group.slots)
+  const head = {
+    name: getSlotName(group.slots[0], t),
+    icon: getPracticeIconKey(group.slots[0]),
+  }
 
   return (
     <Animated.View layout={LinearTransition.duration(220)}>
@@ -141,6 +145,7 @@ function SlotBranch({
   // The time leads when set; otherwise the cadence word does. The day names
   // always trail muted (e.g. "Semanal  Seg · Qua").
   const primary = slot.time ?? label
+  const pinLabel = getSlotPinLabel(slot)
 
   const rotation = useSharedValue(expanded ? 90 : 0)
   const chevronStyle = useAnimatedStyle(() => ({ transform: [{ rotate: `${rotation.value}deg` }] }))
@@ -156,7 +161,7 @@ function SlotBranch({
       <AnimatedPressable
         onPress={handleToggle}
         accessibilityRole="button"
-        accessibilityLabel={`${primary}${slot.time ? ` ${label}` : ''}${days ? ` ${days}` : ''}`}
+        accessibilityLabel={`${primary}${pinLabel ? ` ${pinLabel}` : ''}${slot.time ? ` ${label}` : ''}${days ? ` ${days}` : ''}`}
         accessibilityState={{ expanded }}
       >
         <XStack alignItems="center" minHeight={ROW_H}>
@@ -165,6 +170,7 @@ function SlotBranch({
             <Typography fontSize="$4" numberOfLines={1}>
               {primary}
             </Typography>
+            {pinLabel ? <Typography fontSize="$4">{pinLabel}</Typography> : undefined}
             {slot.time ? (
               <Typography tone="muted" fontSize="$2">
                 {label}

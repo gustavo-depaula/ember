@@ -18,9 +18,9 @@ import { PracticeIcon } from '@/components/PracticeIcon'
 import { getAlternativeGroup, getManifest, loadPracticeTracks } from '@/content/resolver'
 import { useCursorsForPractice } from '@/features/divine-office'
 import {
-  enrichSlot,
   getLongestPracticeStreak,
   getPracticeIconKey,
+  getSlotName,
   useAddSlot,
   useArchivePractice,
   useDeleteSlot,
@@ -125,7 +125,7 @@ export default function PracticeDetailScreen() {
           </Pressable>
           <PracticeIcon name={iconKey} size={24} />
           <Text flex={1} fontFamily="$heading" fontSize="$5" color="$color">
-            {enrichSlot(firstSlot, t).name}
+            {getSlotName(firstSlot, t)}
           </Text>
         </XStack>
 

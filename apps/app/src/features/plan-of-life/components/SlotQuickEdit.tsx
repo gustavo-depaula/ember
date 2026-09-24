@@ -11,6 +11,7 @@ import type { Tier } from '@/db/schema'
 import { lightTap } from '@/lib/haptics'
 
 import { parseSchedule, type Schedule } from '../schedule'
+import { PinPicker } from './PinPicker'
 import { TierSelector } from './TierSelector'
 import { TimeInput } from './TimeInput'
 
@@ -39,6 +40,8 @@ export function SlotQuickEdit({
         </Typography>
         <TimeInput value={slot.time} onChange={(time) => onUpdate({ time })} />
       </YStack>
+
+      <PinPicker slot={slot} onChange={(pins) => onUpdate({ pins })} />
 
       <YStack gap="$sm">
         <Typography variant="label" tone="muted">

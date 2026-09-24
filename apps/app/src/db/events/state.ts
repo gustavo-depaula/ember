@@ -18,7 +18,9 @@ export type SlotState = {
   time_block: TimeBlock
   notify: string | null
   schedule: string
-  variant: string | null
+  // Top-level flow choices this slot fixes (`{ hour: 'Prima' }`), keyed by the
+  // select's `as`. Absent means every choice stays automatic.
+  pins?: Record<string, string>
 }
 
 export type EventStoreState = {

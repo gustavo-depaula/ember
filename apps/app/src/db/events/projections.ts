@@ -77,7 +77,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
         time_block: event.timeBlock,
         notify: null,
         schedule: event.schedule,
-        variant: null,
+        pins: event.pins,
       }
       draft.slots.set(event.slotKey, slot)
       break
@@ -94,6 +94,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       if (c.timeBlock !== undefined) slot.time_block = c.timeBlock
       if (c.notify !== undefined) slot.notify = c.notify
       if (c.schedule !== undefined) slot.schedule = c.schedule
+      if (c.pins !== undefined) slot.pins = c.pins
       break
     }
 

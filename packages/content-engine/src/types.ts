@@ -161,6 +161,9 @@ export type FlowSection = { lang?: string } & (
       type: 'select'
       on?: string | string[]
       as?: string
+      // A plan slot may fix this choice (keyed by `as`), making the slot that
+      // option — "Prime" rather than "Roman Breviary". Top-level selects only.
+      pin?: boolean
       label?: LocalizedText
       map?: Record<string, string>
       default?: string
@@ -169,6 +172,11 @@ export type FlowSection = { lang?: string } & (
         id: string
         label: LocalizedText
         excerpt?: LocalizedText
+        // `false` keeps an option out of a pinnable select's slot choices —
+        // the breviary's votive office is its own office, not one more hour.
+        pin?: boolean
+        // When a plan slot pinned to this option is set by default ("07:00").
+        time?: string
         sections?: FlowSection[]
       }[]
     }

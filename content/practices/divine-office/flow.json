@@ -3,6 +3,8 @@
     {
       "type": "select",
       "on": "hour",
+      "as": "hour",
+      "pin": true,
       "label": {
         "en-US": "Hour",
         "pt-BR": "Hora"
@@ -16,6 +18,7 @@
       "options": [
         {
           "id": "morning",
+          "time": "07:00",
           "label": {
             "en-US": "Morning Prayer",
             "pt-BR": "Oração da Manhã"
@@ -115,6 +118,7 @@
         },
         {
           "id": "evening",
+          "time": "18:00",
           "label": {
             "en-US": "Evening Prayer",
             "pt-BR": "Oração da Tarde"
@@ -214,6 +218,7 @@
         },
         {
           "id": "compline",
+          "time": "21:00",
           "label": {
             "en-US": "Night Prayer",
             "pt-BR": "Oração da Noite"

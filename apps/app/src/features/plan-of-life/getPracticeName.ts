@@ -1,7 +1,8 @@
 import type { TFunction } from 'i18next'
 
 import { getEntry } from '@/content/contentIndex'
-import { getManifest, getManifestIconKey } from '@/content/resolver'
+import { getPinLabels } from '@/content/pins'
+import { getLoadedFlow, getManifest, getManifestIconKey } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
 import { getPractice } from '@/db/repositories'
 import { localizeContent } from '@/lib/i18n'
@@ -28,12 +29,34 @@ export function getSlotName(slot: SlotState, _t: TFunction): string {
   return slot.practice_id
 }
 
+// The labels of the choices a slot pins ("Prime"), read from the flow of the
+// practice actually prayed. Empty until that flow has loaded — callers render
+// the practice name meanwhile (see usePinnedFlows).
+export function getSlotPinLabel(slot: SlotState): string | undefined {
+  if (!slot.pins) return undefined
+  const prayedId = getPractice(slot.practice_id)?.active_variant ?? slot.practice_id
+  const labels = getPinLabels(getLoadedFlow(prayedId), slot.pins)
+  return labels.length > 0 ? labels.map(localizeContent).join(' · ') : undefined
+}
+
 export function enrichSlot(
   slot: SlotState,
   t: TFunction,
   programDayOverride?: number,
-): SlotState & { name: string; icon: string; subtitle?: string } {
+): SlotState & { name: string; icon: string; subtitle?: string; pinned?: boolean } {
   const manifest = getManifest(slot.practice_id)
+  const practiceName = getSlotName(slot, t)
+  const pinLabel = getSlotPinLabel(slot)
+  // A pinned slot is its hour or mystery set; the practice becomes context.
+  if (pinLabel) {
+    return {
+      ...slot,
+      name: pinLabel,
+      icon: getPracticeIconKey(slot),
+      subtitle: practiceName,
+      pinned: true,
+    }
+  }
   const subtitle = (() => {
     if (!manifest?.program) return undefined
     const day = programDayOverride ?? getProgramDay(parseSchedule(slot.schedule), new Date())
@@ -43,7 +66,7 @@ export function enrichSlot(
 
   return {
     ...slot,
-    name: getSlotName(slot, t),
+    name: practiceName,
     icon: getPracticeIconKey(slot),
     subtitle,
   }

@@ -9,6 +9,8 @@
     {
       "type": "select",
       "on": "hour",
+      "as": "hour",
+      "pin": true,
       "label": {
         "en-US": "Hour",
         "pt-BR": "Hora"
@@ -20,6 +22,7 @@
       "options": [
         {
           "id": "matins",
+          "time": "05:00",
           "label": {
             "en-US": "Matins",
             "pt-BR": "Matinas",
@@ -324,6 +327,7 @@
         },
         {
           "id": "lauds",
+          "time": "06:00",
           "label": {
             "en-US": "Lauds",
             "pt-BR": "Laudes",

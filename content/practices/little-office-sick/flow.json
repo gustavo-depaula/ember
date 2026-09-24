@@ -21,6 +21,8 @@
     {
       "type": "select",
       "on": "hour",
+      "as": "hour",
+      "pin": true,
       "label": {
         "en-US": "Hour",
         "pt-BR": "Hora"
@@ -33,6 +35,7 @@
       "options": [
         {
           "id": "vespers",
+          "time": "18:00",
           "label": {
             "en-US": "Vespers",
             "pt-BR": "Vésperas",
@@ -594,6 +597,7 @@
         },
         {
           "id": "matins",
+          "time": "05:00",
           "label": {
             "en-US": "Matins",
             "pt-BR": "Matinas",

@@ -274,6 +274,7 @@
 			"type": "select",
 			"on": "dayOfWeek",
 			"as": "mysteries",
+			"pin": true,
 			"label": {
 				"en-US": "Mysteries",
 				"pt-BR": "Mistérios"

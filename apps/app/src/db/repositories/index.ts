@@ -46,6 +46,7 @@ export {
   backfillMissedDays,
   createPractice,
   createPracticeWithSlot,
+  createPracticeWithSlots,
   deletePractice,
   deleteSlot,
   disableSlotsForPractice,

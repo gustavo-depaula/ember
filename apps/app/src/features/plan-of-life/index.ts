@@ -13,7 +13,12 @@ export {
   RuleOfLifeSections,
   YouMasthead,
 } from './components'
-export { enrichSlot, getPracticeIconKey, getSlotName } from './getPracticeName'
+export {
+  enrichSlot,
+  getPracticeIconKey,
+  getSlotName,
+  getSlotPinLabel,
+} from './getPracticeName'
 export {
   useAddSlot,
   useAllSlots,
@@ -25,6 +30,7 @@ export {
   useDeleteSlot,
   useEnableSlotsForPractice,
   useHandleProgramCompletion,
+  usePinnedFlows,
   usePractice,
   usePracticeCompletionStats,
   useProgramHidesForDate,

@@ -140,6 +140,7 @@ export function TimeBlockSection({
         const done = completedIds.has(item.id)
         const needsRestart = restartNeededIds?.has(item.practice_id) ?? false
         const dots = tierDotCount[item.tier]
+        const spokenName = item.pinned ? `${item.name}, ${item.subtitle}` : item.name
         return (
           <Pressable
             key={item.id}
@@ -147,8 +148,8 @@ export function TimeBlockSection({
             accessibilityRole="button"
             accessibilityLabel={
               dots > 0 && !done
-                ? `${t('a11y.viewPractice', { name: item.name })}, ${t(`tier.${item.tier}`)}`
-                : t('a11y.viewPractice', { name: item.name })
+                ? `${t('a11y.viewPractice', { name: spokenName })}, ${t(`tier.${item.tier}`)}`
+                : t('a11y.viewPractice', { name: spokenName })
             }
             testID={`slot-row-${item.practice_id}`}
           >
@@ -190,6 +191,11 @@ export function TimeBlockSection({
                 <Text fontFamily="$body" fontSize="$4" color={done ? '$colorSecondary' : '$color'}>
                   {item.name}
                 </Text>
+                {item.pinned && (
+                  <Typography tone="muted" fontSize="$2" numberOfLines={1}>
+                    {item.subtitle}
+                  </Typography>
+                )}
                 {needsRestart && (
                   <XStack alignItems="center" gap={4}>
                     <AlertTriangle size={12} color={theme.accent?.val} />

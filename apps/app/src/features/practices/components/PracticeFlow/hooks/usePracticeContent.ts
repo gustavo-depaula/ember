@@ -28,9 +28,12 @@ export type PracticeContent = {
 // engine's auto/default pick and materializes every select branch's structure.
 // Switching a tab is handled client-side (SelectBranch) so it never re-resolves
 // the whole practice.
+// `pins` are the plan slot's fixed choices (`{ hour: 'Prima' }`): unlike a tab
+// switch they decide what the practice *is* on open, so they do resolve.
 export function usePracticeContent(
   practiceId: string,
   programDayProp: number | undefined,
+  pins?: Record<string, string>,
 ): UseQueryResult<PracticeContent> {
   const queryClient = useQueryClient()
   const { flow, programDay } = usePractice(practiceId, programDayProp)
@@ -66,6 +69,7 @@ export function usePracticeContent(
       trackState,
       cycleData,
       flow,
+      pins ?? null,
     ] as const,
     queryFn: async (): Promise<PracticeContent> => {
       if (!flow) return { renderedSections: [], primitives: [] }
@@ -78,7 +82,7 @@ export function usePracticeContent(
         trackState,
         cycleData,
         programDay,
-        selectOverrides: {},
+        selectOverrides: pins ?? {},
       }
       const ec = createEngineContext(undefined, { contentLanguage, secondaryLanguage })
       const renderedSections = await resolveFlowAsync(flow, context, ec)

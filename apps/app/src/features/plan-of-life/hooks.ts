@@ -1,9 +1,9 @@
-import { useMutation } from '@tanstack/react-query'
+import { useMutation, useQueries } from '@tanstack/react-query'
 import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
 import { confirm } from '@/components'
-import { getManifest } from '@/content/resolver'
+import { getManifest, loadFlow } from '@/content/resolver'
 import type { ProgramConfig } from '@/content/types'
 import type { SlotState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
@@ -11,7 +11,7 @@ import {
   addSlot,
   archivePractice,
   backfillMissedDays,
-  createPracticeWithSlot,
+  createPracticeWithSlots,
   deletePractice,
   deleteSlot,
   enableSlotsForPractice,
@@ -336,7 +336,9 @@ export function useCreatePractice() {
       customDesc?: string
       activeVariant?: string
       slot?: Parameters<typeof addSlot>[1]
-    }) => createPracticeWithSlot(data, data.slot ?? {}),
+      // Several slots at once — an office's hours, each pinned.
+      slots?: Parameters<typeof addSlot>[1][]
+    }) => createPracticeWithSlots(data, data.slots ?? [data.slot ?? {}]),
     onSuccess: (_data, variables) => {
       resyncReminders()
       autoPinForPlan(variables.id)
@@ -418,4 +420,27 @@ export function useReorderSlots() {
   return useMutation({
     mutationFn: reorderSlots,
   })
+}
+
+// Loads the flows behind pinned slots so their rows can read "Prime" rather
+// than the practice name. Shares usePractice's query key, so opening the
+// practice afterwards reuses the same flow. Returns how many have loaded; a
+// caller re-renders as that grows.
+export function usePinnedFlows(slots: SlotState[]): number {
+  const practices = useEventStore((s) => s.practices)
+  const ids = [
+    ...new Set(
+      slots
+        .filter((s) => s.pins)
+        .map((s) => practices.get(s.practice_id)?.active_variant ?? s.practice_id),
+    ),
+  ]
+  const results = useQueries({
+    queries: ids.map((id) => ({
+      queryKey: ['flow', id, null],
+      queryFn: async () => (await loadFlow(id)) ?? null,
+      staleTime: Number.POSITIVE_INFINITY,
+    })),
+  })
+  return results.filter((r) => r.data).length
 }

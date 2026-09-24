@@ -20,6 +20,7 @@ import { lightTap, mediumTap } from '@/lib/haptics'
 import { enrichSlot } from '../getPracticeName'
 import { describeLeadTime, parseNotifyConfig, REMINDER_PRESETS } from '../notify'
 import { parseSchedule } from '../schedule'
+import { PinPicker } from './PinPicker'
 import { SchedulePicker } from './SchedulePicker'
 import { TierBadge } from './TierBadge'
 import { TierSelector } from './TierSelector'
@@ -237,6 +238,8 @@ function SlotRow({
                 </XStack>
                 <TimeInput value={slot.time} onChange={(time) => onUpdate({ time })} />
               </YStack>
+
+              <PinPicker slot={slot} onChange={(pins) => onUpdate({ pins })} />
 
               <YStack borderBottomWidth={0.5} borderColor="$borderColor" />
 

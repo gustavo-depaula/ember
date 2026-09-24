@@ -16,7 +16,6 @@ function makeSlot(schedule: Schedule, id = 'p1::default'): SlotState {
     time_block: 'morning',
     notify: null,
     schedule: JSON.stringify(schedule),
-    variant: null,
   }
 }
 

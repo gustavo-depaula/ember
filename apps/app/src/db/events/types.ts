@@ -45,6 +45,7 @@ type SlotAdded = {
   schedule: string
   sortOrder: number
   enabled: number
+  pins?: Record<string, string>
 }
 
 type SlotUpdated = {
@@ -58,6 +59,7 @@ type SlotUpdated = {
     timeBlock: TimeBlock
     notify: string | null
     schedule: string
+    pins: Record<string, string>
   }>
 }
 

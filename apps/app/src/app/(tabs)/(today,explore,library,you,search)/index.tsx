@@ -48,6 +48,7 @@ import {
   useCompletedSlots,
   useCompletionDatesBySlot,
   useCompletionRange,
+  usePinnedFlows,
   useProgramHidesForDate,
   useRestartNeededPractices,
   useSetSlotDone,
@@ -194,6 +195,9 @@ export default function HomeScreen() {
       ),
     [slots, selectedDate, scheduleCtx, completionsBySlot, programHides],
   )
+  // Rows render through enrichSlot on every pass, so this only needs to trigger
+  // one once a pinned slot's flow arrives.
+  usePinnedFlows(todaySlots)
   const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
 
   const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})

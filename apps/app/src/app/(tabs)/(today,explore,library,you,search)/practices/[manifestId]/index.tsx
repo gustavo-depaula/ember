@@ -10,15 +10,18 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, SectionDivider } from '@/components'
 import { Typography } from '@/components/typography'
 import { getCollectionsForItem, getEntry } from '@/content/contentIndex'
+import { getHourSlots } from '@/content/pins'
 import {
   findGroupMemberInSet,
   getAlternativeGroup,
   getManifest,
   getManifestIconKey,
+  loadFlow,
 } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
-import { createProgramCursor, getPractice } from '@/db/repositories'
+import { createProgramCursor, getPractice, getSlotsForPractice } from '@/db/repositories'
+import type { Tier } from '@/db/schema'
 import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
@@ -64,7 +67,11 @@ export default function CatalogDetailScreen() {
   const viewingId = pickedVariantId ?? manifestId
 
   const manifest = viewingId ? getManifest(viewingId) : undefined
-  const slotsForManifest = useSlotsForPractice(viewingId)
+  // Routes carry the bare id ("rosary") while the plan keys practices by the
+  // canonical one ("practice/rosary"); reading the plan by the bare id missed
+  // the practice entirely and every "Add to plan" added it again.
+  const planId = manifest?.id ?? viewingId
+  const slotsForManifest = useSlotsForPractice(planId)
   const firstSlot = slotsForManifest[0]
   const isDirectlyInPlan = slotsForManifest.some((s) => s.enabled === 1)
 
@@ -79,7 +86,7 @@ export default function CatalogDetailScreen() {
     return findGroupMemberInSet(viewingId, activeIds)
   }, [viewingId, isDirectlyInPlan, practices])
   const isInPlan = isDirectlyInPlan || !!groupMemberInPlan
-  const planPracticeId = groupMemberInPlan ?? viewingId
+  const planPracticeId = groupMemberInPlan ?? planId
   const groupMemberVariantLabel = useMemo(() => {
     if (!groupMemberInPlan) return undefined
     const m = getManifest(groupMemberInPlan)
@@ -138,12 +145,35 @@ export default function CatalogDetailScreen() {
   }
   const metadata = metaParts.join(' · ') || undefined
 
+  // An office arrives with every hour listed, each its own row to switch off.
+  // Resolves false for any other practice, which the caller adds as one slot.
+  async function addHours(id: string, base: { tier: Tier; schedule: string }) {
+    const hours = getHourSlots(await loadFlow(id)).map((h) => ({ ...base, ...h }))
+    if (hours.length === 0) return false
+    // Startup seeding leaves a disabled, unpinned slot for every practice; it
+    // becomes the first hour rather than a stray "whole office" row.
+    const placeholder = getSlotsForPractice(id).find((s) => !s.pins && s.enabled === 0)
+    const [first, ...rest] = hours
+    if (placeholder) updateSlot.mutate({ id: placeholder.id, data: { ...first, enabled: 1 } })
+    createPractice.mutate({ id, activeVariant: id, slots: placeholder ? rest : hours })
+    return true
+  }
+
   function handleAddToPlan() {
-    const practice = viewingId ? getPractice(viewingId) : undefined
+    const practice = planId ? getPractice(planId) : undefined
     if (practice?.archived) {
-      unarchivePractice.mutate(viewingId)
-    } else if (firstSlot && !firstSlot.enabled) {
-      enableSlots.mutate(viewingId)
+      unarchivePractice.mutate(planId)
+    } else if (planId && firstSlot && !firstSlot.enabled) {
+      // Only the seeded placeholder: an office still needs its hours.
+      if (slotsForManifest.length > 1 || firstSlot.pins) {
+        enableSlots.mutate(planId)
+        return
+      }
+      void addHours(planId, { tier: firstSlot.tier, schedule: firstSlot.schedule }).then(
+        (added) => {
+          if (!added) enableSlots.mutate(planId)
+        },
+      )
     } else {
       setShowEditor(true)
     }
@@ -207,13 +237,10 @@ export default function CatalogDetailScreen() {
         },
       })
     } else if (manifest) {
-      createPractice.mutate({
-        id: manifest.id,
-        activeVariant: manifest.id,
-        slot: {
-          tier: data.tier,
-          schedule: JSON.stringify(data.schedule),
-        },
+      const base = { tier: data.tier, schedule: JSON.stringify(data.schedule) }
+      const { id } = manifest
+      void addHours(id, base).then((added) => {
+        if (!added) createPractice.mutate({ id, activeVariant: id, slot: base })
       })
     }
     setShowEditor(false)

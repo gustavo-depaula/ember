@@ -386,6 +386,37 @@ describe('resolveFlow — select: default + override', () => {
 
     expect(result).toMatchObject([{ type: 'select', selectedId: 'glorious' }])
   })
+
+  it('ignores an override naming no option and keeps the automatic pick', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'select',
+        on: 'dayOfWeek',
+        as: 'mysteries',
+        label: { 'pt-BR': 'M' },
+        map: { '1': 'joyful' },
+        options: [
+          {
+            id: 'joyful',
+            label: { 'pt-BR': 'J' },
+            sections: [{ type: 'rubric', text: { 'pt-BR': 'J' } }],
+          },
+          {
+            id: 'glorious',
+            label: { 'pt-BR': 'G' },
+            sections: [{ type: 'rubric', text: { 'pt-BR': 'G' } }],
+          },
+        ],
+      }),
+      makeContext({
+        date: new Date('2026-04-13T12:00:00'),
+        selectOverrides: { mysteries: 'retired' },
+      }),
+      makeEngineContext(),
+    )
+
+    expect(result).toMatchObject([{ type: 'select', selectedId: 'joyful' }])
+  })
 })
 
 // --- select: manual ---

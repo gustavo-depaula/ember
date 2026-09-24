@@ -77,11 +77,12 @@ export async function updatePractice(
   await emit({ type: 'PracticeUpdated', practiceId, ...data })
 }
 
-function buildSlotAddedEvent(
-  practiceId: string,
-  data: { tier?: Tier; time?: string; schedule?: string },
-) {
-  const uniqueId = nextSlotUniqueId(practiceId)
+type SlotInput = { tier?: Tier; time?: string; schedule?: string; pins?: Record<string, string> }
+
+// `offset` spaces the ids and sort orders of slots built together in one batch,
+// before any of them reaches the store the counters read from.
+function buildSlotAddedEvent(practiceId: string, data: SlotInput, offset = 0) {
+  const uniqueId = String(Number(nextSlotUniqueId(practiceId)) + offset)
   const slotKey = composeSlotKey(practiceId, uniqueId)
   const time = data.time ?? null
   return {
@@ -93,8 +94,9 @@ function buildSlotAddedEvent(
       time,
       timeBlock: deriveTimeBlock(time),
       schedule: data.schedule ?? '{"type":"daily"}',
-      sortOrder: maxSortOrder() + 1,
+      sortOrder: maxSortOrder() + 1 + offset,
       enabled: 1,
+      ...(data.pins ? { pins: data.pins } : {}),
     },
     slotKey,
   }
@@ -114,8 +116,16 @@ export async function createPracticeWithSlot(
     customDesc?: string
     activeVariant?: string
   },
-  slotData: Parameters<typeof addSlot>[1],
+  slotData: SlotInput,
 ): Promise<string> {
+  const [slotKey] = await createPracticeWithSlots(practice, [slotData])
+  return slotKey
+}
+
+export async function createPracticeWithSlots(
+  practice: Parameters<typeof createPracticeWithSlot>[0],
+  slots: SlotInput[],
+): Promise<string[]> {
   const events = []
   const existing = useEventStore.getState().practices.get(practice.id)
 
@@ -132,11 +142,11 @@ export async function createPracticeWithSlot(
     events.push({ type: 'PracticeUnarchived' as const, practiceId: practice.id })
   }
 
-  const { event, slotKey } = buildSlotAddedEvent(practice.id, slotData)
-  events.push(event)
+  const built = slots.map((data, i) => buildSlotAddedEvent(practice.id, data, i))
+  events.push(...built.map((b) => b.event))
 
   await emitBatch(events)
-  return slotKey
+  return built.map((b) => b.slotKey)
 }
 
 export async function deletePractice(practiceId: string): Promise<void> {
@@ -179,14 +189,7 @@ export function getSlotsForPractice(practiceId: string): SlotState[] {
 
 // --- Slot mutations ---
 
-export async function addSlot(
-  practiceId: string,
-  data: {
-    tier?: Tier
-    time?: string
-    schedule?: string
-  },
-): Promise<string> {
+export async function addSlot(practiceId: string, data: SlotInput): Promise<string> {
   const { event, slotKey } = buildSlotAddedEvent(practiceId, data)
   const unarchive = unarchiveEventIfNeeded(practiceId)
   if (unarchive) {
@@ -207,6 +210,7 @@ export async function updateSlot(
     timeBlock: TimeBlock
     notify: string | null
     schedule: string
+    pins: Record<string, string>
   }>,
 ): Promise<void> {
   if (data.time !== undefined && data.timeBlock === undefined) {

@@ -40,6 +40,8 @@
     {
       "type": "select",
       "on": "hour",
+      "as": "hour",
+      "pin": true,
       "label": {
         "en-US": "Hour",
         "pt-BR": "Hora"
@@ -57,6 +59,7 @@
       "options": [
         {
           "id": "matins",
+          "time": "05:00",
           "label": {
             "en-US": "Matins",
             "pt-BR": "Matinas",
@@ -161,6 +164,7 @@
         },
         {
           "id": "lauds",
+          "time": "06:00",
           "label": {
             "en-US": "Lauds",
             "pt-BR": "Laudes",
@@ -246,6 +250,7 @@
         },
         {
           "id": "prime",
+          "time": "07:00",
           "label": {
             "en-US": "Prime",
             "pt-BR": "Prima",
@@ -331,6 +336,7 @@
         },
         {
           "id": "terce",
+          "time": "09:00",
           "label": {
             "en-US": "Terce",
             "pt-BR": "Terça",
@@ -416,6 +422,7 @@
         },
         {
           "id": "sext",
+          "time": "12:00",
           "label": {
             "en-US": "Sext",
             "pt-BR": "Sexta",
@@ -501,6 +508,7 @@
         },
         {
           "id": "none",
+          "time": "15:00",
           "label": {
             "en-US": "None",
             "pt-BR": "Nona",
@@ -586,6 +594,7 @@
         },
         {
           "id": "vespers",
+          "time": "18:00",
           "label": {
             "en-US": "Vespers",
             "pt-BR": "Vésperas",
@@ -671,6 +680,7 @@
         },
         {
           "id": "compline",
+          "time": "21:00",
           "label": {
             "en-US": "Compline",
             "pt-BR": "Completas",

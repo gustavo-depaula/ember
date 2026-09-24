@@ -109,8 +109,12 @@ export function computeSelectedId(
 
   const autoId = mappedValue ?? section.default ?? section.options[0]?.id
   const overrideKey = section.as ?? autoId
+  // A pinned slot can outlive an option renamed in the corpus; fall back to
+  // the automatic pick rather than render an empty select.
+  const overrideId = overrideKey ? context.selectOverrides?.[overrideKey] : undefined
+  const known = overrideId !== undefined && section.options.some((o) => o.id === overrideId)
   return {
-    selectedId: (overrideKey && context.selectOverrides?.[overrideKey]) ?? autoId ?? '',
+    selectedId: (known ? overrideId : autoId) ?? '',
     overrideKey,
   }
 }

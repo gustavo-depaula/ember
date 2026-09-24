@@ -293,6 +293,13 @@ export function findGroupMemberInSet(
   return undefined
 }
 
+// The flow if loadFlow already fetched it this session; never fetches. Lets a
+// synchronous render (a plan row's pinned hour) use the flow once it's warm.
+export function getLoadedFlow(id: string): FlowDefinition | undefined {
+  const canonical = canonicalize(id, 'practice')
+  return canonical ? PRACTICE_FRAGMENTS_CACHE.get(canonical) : undefined
+}
+
 export async function loadFlow(id: string): Promise<FlowDefinition | undefined> {
   const { canonical, item } = residentItem<PracticeManifest>(id, 'practice')
   if (!item) return undefined

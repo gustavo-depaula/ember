@@ -503,6 +503,7 @@ export default {
     icon: '\u00cdcone',
     tier: 'N\u00edvel',
     timeOfDay: 'Hora do Dia',
+    pinAutomatic: 'Automático',
     description: 'Descri\u00e7\u00e3o',
     descriptionPlaceholder: 'Descri\u00e7\u00e3o opcional',
     notifications: 'Notifica\u00e7\u00f5es',

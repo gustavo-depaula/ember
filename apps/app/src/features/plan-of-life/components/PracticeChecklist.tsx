@@ -13,6 +13,8 @@ export type ChecklistItem = {
   name: string
   icon: string
   subtitle?: string
+  // The name is a pinned choice ("Prime") and the subtitle its practice.
+  pinned?: boolean
   tier: Tier
 }
 
