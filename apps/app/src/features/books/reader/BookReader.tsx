@@ -118,7 +118,12 @@ export function BookReader({ bookId, chapter }: Props) {
 
   // Resolve on demand rather than relying on a boot-time warm, so a deep link
   // straight into the reader (no details screen first) still works.
-  const { data: bookEntry } = useBookManifest(bookId)
+  const {
+    data: bookEntry,
+    entry: catalogEntry,
+    isError: manifestError,
+    refetch: refetchManifest,
+  } = useBookManifest(bookId)
 
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'
@@ -819,6 +824,26 @@ export function BookReader({ bookId, chapter }: Props) {
     refreshHighlights()
     setNoteEditorForId(undefined)
   }, [noteEditorForId, noteEditorTarget, leaves, refreshHighlights, paintHighlight])
+
+  // An external book's manifest is built over the network on first open; only
+  // a book the catalog doesn't know is "not found".
+  if (!bookEntry && catalogEntry && manifestError) {
+    return (
+      <YStack flex={1} backgroundColor={config.background} justifyContent="center">
+        <ReaderErrorState onRetry={() => refetchManifest()} />
+      </YStack>
+    )
+  }
+
+  if (!bookEntry && catalogEntry) {
+    return (
+      <LoadingPane
+        background={config.background}
+        color={config.color}
+        title={catalogEntry.name ? localizeContent(catalogEntry.name) : ''}
+      />
+    )
+  }
 
   if (!bookEntry) {
     return (
