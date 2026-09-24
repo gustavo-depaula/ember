@@ -145,7 +145,11 @@ export function TimeBlockSection({
             key={item.id}
             onPress={() => onPressItem?.(item)}
             accessibilityRole="button"
-            accessibilityLabel={t('a11y.viewPractice', { name: item.name })}
+            accessibilityLabel={
+              dots > 0 && !done
+                ? `${t('a11y.viewPractice', { name: item.name })}, ${t(`tier.${item.tier}`)}`
+                : t('a11y.viewPractice', { name: item.name })
+            }
             testID={`slot-row-${item.practice_id}`}
           >
             <XStack paddingVertical="$md" paddingHorizontal="$xs" alignItems="center" gap="$md">
@@ -201,29 +205,55 @@ export function TimeBlockSection({
                   </XStack>
                 )}
               </YStack>
-              {dots > 0 && !done && (
-                <XStack alignItems="center" gap={4}>
-                  {dots === 2 && (
-                    <View
-                      width={6}
-                      height={6}
-                      borderRadius={3}
-                      backgroundColor={tierConfig[item.tier].color}
-                    />
-                  )}
-                  <View
-                    width={6}
-                    height={6}
-                    borderRadius={3}
-                    backgroundColor={tierConfig[item.tier].color}
-                  />
-                </XStack>
-              )}
+              {dots > 0 && !done && <TierDots tier={item.tier} />}
               <ChevronRight size={16} color={theme.accentSubtle?.val} />
             </XStack>
           </Pressable>
         )
       })}
     </YStack>
+  )
+}
+
+function TierDots({ tier }: { tier: ChecklistItem['tier'] }) {
+  return (
+    <XStack alignItems="center" gap={4}>
+      {Array.from({ length: tierDotCount[tier] }, (_, i) => (
+        <View
+          // biome-ignore lint/suspicious/noArrayIndexKey: identical dots, no reordering
+          key={i}
+          width={6}
+          height={6}
+          borderRadius={3}
+          backgroundColor={tierConfig[tier].color}
+        />
+      ))}
+    </XStack>
+  )
+}
+
+// The dots on unfinished rows mean nothing until named once; the key only
+// lists the tiers still waiting today, and disappears when none are.
+export function TierLegend({ tiers }: { tiers: ChecklistItem['tier'][] }) {
+  const { t } = useTranslation()
+  const shown = (['essential', 'ideal'] as const).filter((tier) => tiers.includes(tier))
+  if (shown.length === 0) return null
+
+  return (
+    <XStack
+      justifyContent="center"
+      gap="$lg"
+      accessibilityElementsHidden
+      importantForAccessibility="no-hide-descendants"
+    >
+      {shown.map((tier) => (
+        <XStack key={tier} alignItems="center" gap="$xs">
+          <TierDots tier={tier} />
+          <Typography tone="muted" fontSize="$1">
+            {t(`tier.${tier}`)}
+          </Typography>
+        </XStack>
+      ))}
+    </XStack>
   )
 }

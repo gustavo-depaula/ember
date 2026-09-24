@@ -1,7 +1,7 @@
 import { format, subWeeks } from 'date-fns'
 import { Image } from 'expo-image'
-import { useRouter } from 'expo-router'
-import { useCallback, useMemo, useState } from 'react'
+import { useFocusEffect, useRouter } from 'expo-router'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -31,6 +31,7 @@ import {
   RestartNeededList,
   SaintOfDayCard,
   SeasonalContext,
+  TierLegend,
   TimeBlockSection,
 } from '@/features/home'
 import {
@@ -197,17 +198,30 @@ export default function HomeScreen() {
 
   const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
 
-  const toggleBlockCollapse = useCallback((block: TimeBlock) => {
-    setOverrides((prev) => {
-      const current = prev[block]
-      if (current === 'expanded') {
-        return { ...prev, [block]: 'collapsed' }
-      }
-      return { ...prev, [block]: 'expanded' }
-    })
+  const toggleBlockCollapse = useCallback((block: TimeBlock, shown: BlockState) => {
+    setOverrides((prev) => ({ ...prev, [block]: shown === 'expanded' ? 'collapsed' : 'expanded' }))
   }, [])
 
+  // Overrides also hold a block open once its last practice is ticked, so the
+  // list never folds up under the user's finger. They clear on leaving the tab
+  // or the day, and finished blocks tidy away on the next look.
+  useFocusEffect(useCallback(() => () => setOverrides({}), []))
+  // biome-ignore lint/correctness/useExhaustiveDependencies: reset when the day changes
+  useEffect(() => setOverrides({}), [selectedDate])
+
   const activeBlocks = useMemo(() => getActiveBlocks(todaySlots), [todaySlots])
+  const shownBlocks = activeBlocks.map(({ block, def }) => ({
+    block,
+    def,
+    state:
+      overrides[block] ??
+      getBlockState(
+        block,
+        currentBlock,
+        completedIds,
+        def.slots.map((s) => s.id),
+      ),
+  }))
   const totalSlots = todaySlots.length
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
 
@@ -295,11 +309,11 @@ export default function HomeScreen() {
             </FadeInView>
           ) : (
             <YStack gap="$md" marginTop="$md">
-              {activeBlocks.map(({ block, def }, index) => {
-                const blockSlotIds = def.slots.map((s) => s.id)
-                const { completed, total } = getBlockCompletion(blockSlotIds, completedIds)
-                const autoState = getBlockState(block, currentBlock, completedIds, blockSlotIds)
-                const state = overrides[block] ?? autoState
+              {shownBlocks.map(({ block, def, state }, index) => {
+                const { completed, total } = getBlockCompletion(
+                  def.slots.map((s) => s.id),
+                  completedIds,
+                )
 
                 return (
                   <FadeInView key={block} index={index + 2}>
@@ -312,15 +326,23 @@ export default function HomeScreen() {
                       completed={completed}
                       total={total}
                       readOnly={isFutureDate}
-                      onToggle={(item, done) =>
+                      onToggle={(item, done) => {
+                        if (!overrides[block]) setOverrides((prev) => ({ ...prev, [block]: state }))
                         setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
-                      }
-                      onToggleCollapse={() => toggleBlockCollapse(block)}
+                      }}
+                      onToggleCollapse={() => toggleBlockCollapse(block, state)}
                       onPressItem={handlePressItem}
                     />
                   </FadeInView>
                 )
               })}
+              <TierLegend
+                tiers={shownBlocks
+                  .filter(({ state }) => state === 'expanded')
+                  .flatMap(({ def }) => def.slots)
+                  .filter((s) => !completedIds.has(s.id))
+                  .map((s) => s.tier)}
+              />
             </YStack>
           )}
 

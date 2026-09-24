@@ -13,6 +13,7 @@ export {
   SaintOfDayCard,
   SeasonalContext,
   ShortcutRow,
+  TierLegend,
   TimeBlockSection,
   WhisperLine,
 } from './components'
