@@ -16,11 +16,8 @@ import {
   deleteSlot,
   enableSlotsForPractice,
   getSlotsForPractice,
-  logCompletion,
-  removeCompletion,
   reorderSlots,
   restartProgram,
-  toggleCompletion,
   unarchivePractice,
   updatePractice,
   updateSlot,
@@ -29,7 +26,6 @@ import type { Completion, UserPractice } from '@/db/schema'
 import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
-import { composeSlotKey } from '@/lib/slotKey'
 
 import { projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
@@ -85,56 +81,6 @@ export function useSlotsForPractice(practiceId: string | undefined): SlotState[]
 
 export function usePractice(practiceId: string | undefined): UserPractice | undefined {
   return useEventStore((s) => (practiceId ? s.practices.get(practiceId) : undefined))
-}
-
-// --- Completion reads ---
-
-export function useCompletionsForDate(date: string | undefined): Completion[] {
-  return useEventStore(
-    useShallow((s) => {
-      if (!date) return []
-      return resolveCompletions(s.completionsByDate.get(date), s.completions)
-    }),
-  )
-}
-
-export function useCompletionsForPractice(practiceId: string, date: string): Completion[] {
-  return useEventStore(
-    useShallow((s) =>
-      resolveCompletions(s.completionsByDate.get(date), s.completions).filter(
-        (c) => c.practice_id === practiceId,
-      ),
-    ),
-  )
-}
-
-export function useCompletionRange(startDate: string, endDate: string): Completion[] {
-  return useEventStore(
-    useShallow((s) => {
-      const result: Completion[] = []
-      for (const [date, ids] of s.completionsByDate) {
-        if (date >= startDate && date <= endDate) {
-          for (const c of resolveCompletions(ids, s.completions)) result.push(c)
-        }
-      }
-      return result
-    }),
-  )
-}
-
-export function useCompletionDatesBySlot(): Map<string, string[]> {
-  const completions = useEventStore((s) => s.completions)
-
-  return useMemo(() => {
-    const result = new Map<string, string[]>()
-    for (const c of completions.values()) {
-      const key = composeSlotKey(c.practice_id, c.sub_id ?? 'default')
-      const existing = result.get(key)
-      if (existing) existing.push(c.date)
-      else result.set(key, [c.date])
-    }
-    return result
-  }, [completions])
 }
 
 // --- Compound reads ---
@@ -358,44 +304,6 @@ export function useBackfillMissedDays() {
   return useMutation({
     mutationFn: ({ practiceId, dates }: { practiceId: string; dates: string[] }) =>
       backfillMissedDays(practiceId, dates),
-  })
-}
-
-// --- Completion mutations ---
-
-export function useLogCompletion() {
-  return useMutation({
-    mutationFn: ({
-      practiceId,
-      date,
-      subId,
-    }: {
-      practiceId: string
-      date: string
-      subId: string
-    }) => logCompletion(practiceId, date, subId),
-  })
-}
-
-export function useRemoveCompletion() {
-  return useMutation({
-    mutationFn: (id: number) => removeCompletion(id),
-  })
-}
-
-export function useToggleSlot() {
-  return useMutation({
-    mutationFn: ({
-      practiceId,
-      slotId,
-      date,
-      completed,
-    }: {
-      practiceId: string
-      slotId: string
-      date: string
-      completed: boolean
-    }) => toggleCompletion(practiceId, date, completed, slotId),
   })
 }
 

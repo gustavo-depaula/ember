@@ -45,14 +45,13 @@ import {
   getCurrentTimeBlock,
   type ScheduleContext,
   type TimeBlock,
-  toCompletedSet,
+  useCompletedSlots,
   useCompletionDatesBySlot,
   useCompletionRange,
-  useCompletionsForDate,
   useProgramHidesForDate,
   useRestartNeededPractices,
+  useSetSlotDone,
   useSlots,
-  useToggleSlot,
 } from '@/features/plan-of-life'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { useSaintOfDayReading } from '@/features/saints'
@@ -64,7 +63,6 @@ import {
   type LiturgicalCalendarForm,
   useObligations,
 } from '@/lib/liturgical'
-import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const frameCornerDark = require('../../../../assets/textures/frame_corner_dark.png')
@@ -95,14 +93,13 @@ export default function HomeScreen() {
     [now, liturgicalCalendar],
   )
 
-  const todayCompletions = useCompletionsForDate(selectedDate)
-  const toggle = useToggleSlot()
+  const completedIds = useCompletedSlots(selectedDate)
+  const setSlotDone = useSetSlotDone()
   const restartNeededIds = useRestartNeededPractices()
 
   const handlePressItem = useCallback(
     (item: ChecklistItem) => {
       const practiceId = item.practice_id
-      const slotId = parseSlotKey(item.id).slotId
       const practice = useEventStore.getState().practices.get(practiceId)
       const resolvedId = practice?.active_variant ?? practiceId
       const manifest = getManifest(resolvedId)
@@ -110,11 +107,10 @@ export default function HomeScreen() {
         router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
         return
       }
+      // Pray the active variant; the tapped slot is what the prayer completes.
       router.push({
         pathname: '/pray/[practiceId]',
-        // Pray the resolved variant's content, but track completion against the
-        // base practice id so it matches this plan slot.
-        params: { practiceId: resolvedId, slotId, completionId: practiceId },
+        params: { practiceId: resolvedId, slotKey: item.id },
       })
     },
     [router],
@@ -198,7 +194,6 @@ export default function HomeScreen() {
       ),
     [slots, selectedDate, scheduleCtx, completionsBySlot, programHides],
   )
-  const completedIds = useMemo(() => toCompletedSet(todayCompletions), [todayCompletions])
   const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
 
   const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
@@ -323,12 +318,7 @@ export default function HomeScreen() {
                       total={total}
                       readOnly={isFutureDate}
                       onToggle={(item, done) =>
-                        toggle.mutate({
-                          practiceId: item.practice_id,
-                          slotId: parseSlotKey(item.id).slotId,
-                          date: selectedDate,
-                          completed: done,
-                        })
+                        setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
                       }
                       onToggleCollapse={() => toggleBlockCollapse(block)}
                       onPressItem={handlePressItem}

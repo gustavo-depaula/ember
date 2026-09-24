@@ -6,13 +6,12 @@ import { confirm } from '@/components'
 import type { RenderedSection } from '@/content/types'
 import { useAdvanceCursor } from '@/features/divine-office'
 import {
+  useCompletePractice,
   useHandleProgramCompletion,
-  useLogCompletion,
   useRestartProgram,
 } from '@/features/plan-of-life'
 import { getToday } from '@/hooks/useToday'
 import { successBuzz } from '@/lib/haptics'
-import { parseSlotKey } from '@/lib/slotKey'
 import { findTrackIds } from '../findTrackIds'
 import { usePractice } from './usePractice'
 import { usePracticeTracks } from './usePracticeTracks'
@@ -25,18 +24,16 @@ export function usePracticeCompletion(
   programDayProp: number | undefined,
   renderedSections: RenderedSection[],
   selectOverrides: Record<string, string>,
-  slotId?: string,
-  // When a variant is being prayed, `practiceId` is the variant's content id
-  // but the plan slot (and thus the completion record) is keyed on the base
-  // practice id. Log against that base id so the completion matches the slot;
-  // cursors/program progress still key on the variant `practiceId`.
-  completionId?: string,
+  // The plan slot this prayer was opened from, when there is one. Without it
+  // the completion module picks the slot; cursors and program progress key on
+  // the prayed `practiceId` either way.
+  slotKey?: string,
 ) {
   const { t } = useTranslation()
   const router = useRouter()
-  const { manifest, programProgress, currentSlot } = usePractice(practiceId, programDayProp)
+  const { manifest, programProgress } = usePractice(practiceId, programDayProp)
   const { trackDefs } = usePracticeTracks(practiceId)
-  const logCompletionMutation = useLogCompletion()
+  const completePractice = useCompletePractice()
   const advanceCursor = useAdvanceCursor()
   const handleProgramCompletion = useHandleProgramCompletion()
   const restartProgramMutation = useRestartProgram()
@@ -44,10 +41,9 @@ export function usePracticeCompletion(
 
   const handleComplete = useCallback(() => {
     const today = format(getToday(), 'yyyy-MM-dd')
-    const subId = slotId ?? parseSlotKey(currentSlot?.id ?? `${practiceId}::default`).slotId
 
-    logCompletionMutation.mutate(
-      { practiceId: completionId ?? practiceId, date: today, subId },
+    completePractice.mutate(
+      { prayedId: practiceId, date: today, slotKey },
       {
         onSuccess: async () => {
           successBuzz()
@@ -89,10 +85,8 @@ export function usePracticeCompletion(
     )
   }, [
     practiceId,
-    completionId,
-    slotId,
-    currentSlot?.id,
-    logCompletionMutation,
+    slotKey,
+    completePractice,
     trackDefs,
     renderedSections,
     selectOverrides,
@@ -114,7 +108,7 @@ export function usePracticeCompletion(
 
   return {
     handleComplete,
-    isCompleting: logCompletionMutation.isPending,
+    isCompleting: completePractice.isPending,
     showCompleteModal,
     dismissCompleteModal,
     onRestart,

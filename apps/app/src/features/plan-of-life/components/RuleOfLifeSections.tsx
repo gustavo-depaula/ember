@@ -27,7 +27,8 @@ import type { UserPractice } from '@/db/schema'
 import { lightTap } from '@/lib/haptics'
 import { localizeContent } from '@/lib/i18n'
 
-import { useArchivedPractices, useCompletionRange, useSlots } from '../hooks'
+import { useCompletionRange } from '../completion'
+import { useArchivedPractices, useSlots } from '../hooks'
 import {
   buildTieredWallData,
   type DayCompletion,

@@ -1,14 +1,10 @@
 import { differenceInCalendarDays, format, subDays } from 'date-fns'
 
 import type { SlotState } from '@/db/events'
-import type { Completion, Tier } from '@/db/schema'
+import type { Tier } from '@/db/schema'
 import { composeSlotKey } from '@/lib/slotKey'
 
 import { getPeriodBounds, isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
-
-export function toCompletedSet(completions: Completion[]): Set<string> {
-  return new Set(completions.map((c) => composeSlotKey(c.practice_id, c.sub_id ?? 'default')))
-}
 
 export type DayCompletion = {
   date: string

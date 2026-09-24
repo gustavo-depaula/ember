@@ -299,32 +299,6 @@ function resolve(ids: Set<number> | undefined): Completion[] {
   return resolveCompletions(ids, useEventStore.getState().completions)
 }
 
-export function getCompletionsForDate(date: string): Completion[] {
-  return resolve(useEventStore.getState().completionsByDate.get(date))
-}
-
-export function getCompletionsForPractice(practiceId: string, date: string): Completion[] {
-  return resolve(useEventStore.getState().completionsByDate.get(date)).filter(
-    (c) => c.practice_id === practiceId,
-  )
-}
-
-export function getCompletionDates(practiceId: string): string[] {
-  const completions = resolve(useEventStore.getState().completionsByPractice.get(practiceId))
-  return [...new Set(completions.map((c) => c.date))]
-}
-
-export function getCompletionRange(startDate: string, endDate: string): Completion[] {
-  const store = useEventStore.getState()
-  const result: Completion[] = []
-  for (const [date, ids] of store.completionsByDate) {
-    if (date >= startDate && date <= endDate) {
-      for (const c of resolve(ids)) result.push(c)
-    }
-  }
-  return result
-}
-
 export async function toggleCompletion(
   practiceId: string,
   date: string,
@@ -339,19 +313,4 @@ export async function toggleCompletion(
     )
     if (match) await removeCompletion(match.id)
   }
-}
-
-export function getCompletionCountSince(practiceId: string, startDate: string): number {
-  const completions = resolve(useEventStore.getState().completionsByPractice.get(practiceId))
-  const dates = new Set<string>()
-  for (const c of completions) {
-    if (c.date >= startDate) dates.add(c.date)
-  }
-  return dates.size
-}
-
-export function isPracticeCompletedOnDate(practiceId: string, date: string): boolean {
-  return resolve(useEventStore.getState().completionsByDate.get(date)).some(
-    (c) => c.practice_id === practiceId,
-  )
 }

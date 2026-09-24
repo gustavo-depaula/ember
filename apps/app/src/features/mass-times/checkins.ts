@@ -3,7 +3,7 @@ import { format } from 'date-fns'
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 import { useShallow } from 'zustand/react/shallow'
-import { logCompletion } from '@/db/repositories'
+import { completePractice } from '@/features/plan-of-life'
 import { getToday } from '@/hooks/useToday'
 import { randomId } from '@/lib/id'
 import { loadJson, saveJson } from './persisted'
@@ -58,7 +58,7 @@ export const useCheckInsStore = create<CheckInsState>()(
       // A Mass check-in IS a completion of the "mass" practice — record it so it flows into the plan
       // of life / streaks rather than being a parallel tally. (Domain rule lives here, not the UI.)
       if (details.kind === 'mass') {
-        void logCompletion('mass', format(getToday(), 'yyyy-MM-dd'), 'default').catch((err) =>
+        void completePractice('mass', format(getToday(), 'yyyy-MM-dd')).catch((err) =>
           console.warn('[mass-times] could not log Mass completion', err),
         )
       }

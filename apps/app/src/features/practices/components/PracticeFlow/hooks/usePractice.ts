@@ -2,15 +2,12 @@ import { type UseQueryResult, useQuery } from '@tanstack/react-query'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { getManifest, loadFlow, loadPerDayFlow } from '@/content/resolver'
 import type { FlowDefinition } from '@/content/types'
-import { useProgramProgress, useSlots } from '@/features/plan-of-life'
+import { useProgramProgress } from '@/features/plan-of-life'
 
 export function usePractice(practiceId: string, programDayProp?: number) {
   const manifest = getManifest(practiceId)
   const programProgress = useProgramProgress(practiceId, manifest?.program)
   const programDay = programDayProp ?? programProgress?.programDay
-
-  const slots = useSlots()
-  const currentSlot = slots.find((s) => s.practice_id === practiceId)
 
   const flowQuery: UseQueryResult<FlowDefinition | null> = useQuery({
     queryKey: ['flow', practiceId, programDay ?? null],
@@ -33,6 +30,5 @@ export function usePractice(practiceId: string, programDayProp?: number) {
     flowQuery,
     programDay,
     programProgress,
-    currentSlot,
   }
 }
