@@ -1,25 +1,14 @@
 export type {
   EventStoreState,
-  Movement,
-  MovementClosureKind,
-  MovementKind,
-  Resolution,
-  ResolutionReview,
   SlotState,
 } from './state'
 export { useEventStore } from './state'
 export { createEventsTable, emit, emitBatch, replayAll } from './store'
 export type {
   AppEvent,
-  Cadence,
   CompletionEvent,
   CursorEvent,
-  MovementEvent,
   PracticeEvent,
-  ResolutionEvent,
-  ResolutionLevel,
-  ResolutionOutcome,
-  ResolutionSource,
   StoredEvent,
 } from './types'
 

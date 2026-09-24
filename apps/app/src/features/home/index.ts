@@ -9,7 +9,6 @@ export {
   MementoLine,
   NavigationMedallion,
   OfflineCoverageLine,
-  ResolutionLine,
   RestartNeededList,
   SaintOfDayCard,
   SeasonalContext,

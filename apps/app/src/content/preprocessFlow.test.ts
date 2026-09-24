@@ -315,20 +315,4 @@ describe('preprocessFlow — primitive mapping', () => {
       }
     })
   })
-
-  it('interaction kinds map by their engine type', async () => {
-    const sections: RenderedSection[] = [
-      { type: 'rendered-offering', mode: 'both', default: 'pinned', show: 'list' },
-      {
-        type: 'rendered-capture-movement',
-        kind: 'intention',
-        prompt: text,
-        multi: false,
-      },
-    ]
-    const result = await preprocessFlow(sections, ctx())
-    expect(result.every((p) => p.type === 'interaction')).toBe(true)
-    const kinds = result.map((p) => (p as { kind: string }).kind)
-    expect(kinds).toEqual(['offering', 'capture-movement'])
-  })
 })

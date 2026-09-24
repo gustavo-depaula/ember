@@ -46,19 +46,6 @@ export default {
     chronicle: 'Crônica',
     chronicleSeeAll: 'Ver tudo',
   },
-  altar: {
-    title: 'O Altar',
-    cardSubtitle: 'Intenções, graças e resoluções',
-    intentions: 'Intenções',
-    gratitude: 'Gratidão',
-    resolution: 'Resolução',
-    resolutions: 'Resoluções',
-    resolutionPrompt: 'A resolução de hoje',
-    resolutionEmpty: 'Deixe uma resolução para hoje.',
-    setResolution: 'Definir resolução',
-    editResolution: 'Revisar',
-    removeResolution: 'Remover',
-  },
   search: {
     sectionPray: 'Rezar',
     sectionCapture: 'Registrar',
@@ -94,9 +81,6 @@ export default {
     fidelity: 'Fidelidade',
     ruleOfLife: 'Hoje, com Deus.',
     ruleOfLifeSubtitle: 'uma regra de vida',
-    resolutionLabel: 'Resolução de hoje',
-    resolutionAttribution: 'o propósito de hoje',
-    resolutionTap: 'Resolução de hoje: {{text}}. Abra o Plano de Vida para registrar.',
     hora: {
       matins: 'hora das Matinas',
       lauds: 'hora das Laudes',
@@ -302,116 +286,6 @@ export default {
     cccLabel: 'Catecismo da Igreja Cat\u00f3lica, {{start}}-{{end}}',
   },
 
-  movements: {
-    cadence: {
-      label: 'Por quanto tempo?',
-      perpetual: 'Para sempre',
-      goal: 'Por um pedido',
-      bounded: 'Por um tempo',
-      hint: {
-        perpetual:
-          'Algo que voc\u00ea carrega continuamente \u2014 sem fim, s\u00f3 ora\u00e7\u00e3o.',
-        goal: 'Um pedido concreto. Marque como atendida quando Deus responder.',
-        bounded:
-          'Por um per\u00edodo \u2014 uma novena, um tempo, uma data. Encerra quando o tempo termina.',
-      },
-    },
-    subject: {
-      label: 'Sujeito',
-      placeholder: 'Por quem ou para quem (opcional)',
-      addLabel: 'Adicionar sujeito',
-      editLabel: 'Sujeito',
-      useRecent: 'Usar {{subject}}',
-    },
-    capture: {
-      intentionPrompt: 'Eleve uma inten\u00e7\u00e3o',
-      thanksgivingPrompt: 'Registre uma gra\u00e7a recebida',
-      intentionPlaceholder: 'Por quem ou pelo qu\u00ea\u2026',
-      thanksgivingPlaceholder: 'Uma gra\u00e7a, uma pessoa, uma provid\u00eancia\u2026',
-      raise: 'Elevar',
-      offer: 'Registrar',
-      boundedUntil: 'Ativa at\u00e9',
-    },
-    actions: {
-      markAnswered: 'Marcar atendida',
-      markAnsweredPerpetual: 'Deus atendeu',
-      answered: 'Atendida',
-      retire: 'Parar de levar',
-      removeThanksgiving: 'Remover',
-      pinToPractice: 'Rezar por isso em…',
-      edit: 'Corrigir',
-    },
-    pinPractice: {
-      title: 'Rezar por isso em…',
-      subtitle: 'Quando você abrir estas práticas, ela estará lá esperando.',
-      empty: 'Nenhuma prática ainda.',
-    },
-    picker: {
-      title: 'Leve à oração',
-      subtitle: 'Escolha o que oferecer nesta oração.',
-      allCarried: 'Tudo o que está no Altar já está sendo levado.',
-      confirm: 'Continuar',
-    },
-    edit: {
-      title: 'Corrigir',
-    },
-    offering: {
-      empty:
-        'Leve alguém ou algo a Deus — uma pessoa que você ama, uma preocupação, uma esperança. Ou siga em frente, e ore com o que você tem.',
-      emptyStanding:
-        'Nada permanente nesta oração ainda. Marque uma intenção com a estrela para levá-la sempre, ou traga uma só para hoje.',
-      carryMore: 'Levar mais hoje',
-      line: {
-        invite: 'Ofereça esta oração por alguém',
-        one: 'Oferecida por {{text}}',
-        more_one: 'Oferecida por {{text}} e mais {{count}}',
-        more_other: 'Oferecida por {{text}} e mais {{count}}',
-      },
-      summary_one: 'Oferecendo {{count}} intenção',
-      summary_other: 'Oferecendo {{count}} intenções',
-      summaryEmpty: 'Oferecendo esta oração.',
-      add: {
-        intention: 'Rezar por alguém',
-        thanksgiving: 'Agradecer por algo',
-      },
-    },
-    closure: {
-      answered: 'Atendida',
-      expired: 'Per\u00edodo encerrado',
-      retired: 'Encerrada',
-    },
-    confirm: {
-      retireTitle: 'Parar de levar isso?',
-      retireDescription:
-        'Voc\u00ea pode levant\u00e1-la de novo a qualquer momento. O registro permanece no seu hist\u00f3rico.',
-    },
-    bridge: {
-      title: 'Registrar como a\u00e7\u00e3o de gra\u00e7as?',
-      description:
-        'Sua ora\u00e7\u00e3o por "{{text}}" foi atendida. Deseja registrar como uma gra\u00e7a recebida?',
-      confirm: 'Registrar gra\u00e7a',
-      thanksgivingPrefill: 'Por "{{text}}" \u2014 atendida',
-    },
-    heading: {
-      intention: {
-        active_one: '{{count}} ativa',
-        active_other: '{{count}} ativas',
-        closed_one: '{{count}} encerrada',
-        closed_other: '{{count}} encerradas',
-      },
-      thanksgiving: {
-        active_one: '{{count}} gra\u00e7a',
-        active_other: '{{count}} gra\u00e7as',
-      },
-    },
-    empty: {
-      intention:
-        'Ainda sem inten\u00e7\u00f5es. Eleve uma \u2014 uma pessoa, uma necessidade, uma esperan\u00e7a \u2014 e deixe a ora\u00e7\u00e3o carreg\u00e1-la.',
-      thanksgiving:
-        'Cada dia est\u00e1 cheio de pequenas miseric\u00f3rdias. Registre uma agora \u2014 uma pessoa, uma provid\u00eancia, uma beleza \u2014 e aprenda a v\u00ea-las.',
-    },
-  },
-
   memoria: {
     title: 'Mem\u00f3ria',
     subtitle: 'Uma cr\u00f4nica da sua vida de ora\u00e7\u00e3o.',
@@ -423,70 +297,10 @@ export default {
     today: 'Hoje',
     yesterday: 'Ontem',
     completion: 'Rezou {{name}}',
-    intentionOffered: 'Ofereceu: \u201c{{text}}\u201d',
-    intentionAnswered: 'Atendida: \u201c{{text}}\u201d',
-    gratitude: 'Deo gratias: \u201c{{text}}\u201d',
     onThisDay: 'Neste dia',
     oneYearAgo: 'H\u00e1 um ano',
     yearsAgo_one: 'H\u00e1 {{count}} ano',
     yearsAgo_other: 'H\u00e1 {{count}} anos',
-    filter: {
-      all: 'Tudo',
-      prayers: 'Ora\u00e7\u00f5es',
-      intentions: 'Inten\u00e7\u00f5es',
-      gratitudes: 'Gratid\u00f5es',
-    },
-    noneInFilter: 'Nada por aqui neste filtro.',
-    dayOffered: 'Ofereceu este dia ao Senhor',
-  },
-
-  oblatio: {
-    offerThisDay: 'Oferecer este dia ao Senhor \u271f',
-    a11yOfferThisDay: 'Oferecer este dia ao Senhor',
-    offeredAt: 'Oferecido \u00e0s {{time}}',
-    memoria: 'Ofereceu este dia ao Senhor',
-  },
-
-  resolutions: {
-    scope: {
-      daily: 'Hoje',
-    },
-    capture: {
-      placeholder: 'Uma resolu\u00e7\u00e3o concreta\u2026',
-      save: 'Definir',
-      change: 'Alterar',
-      recorded: 'Definida. Leve-a consigo pelo dia.',
-    },
-    review: {
-      outcome: {
-        kept: 'Cumprida',
-        partial: 'Parcial',
-        broken: 'Quebrada',
-      },
-      recorded: {
-        kept: 'Cumprida. Gl\u00f3ria a Deus.',
-        partial: 'Parcial \u2014 e isso \u00e9 honesto.',
-        broken: 'Anotado. Amanh\u00e3 h\u00e1 miseric\u00f3rdia.',
-      },
-      notesPlaceholder: 'Notas (opcional)',
-      title: {
-        review: 'Revisar resolu\u00e7\u00e3o',
-        checkin: 'Check-in',
-        show: 'Resolu\u00e7\u00e3o de hoje',
-      },
-      prompt: {
-        review: 'Como foi?',
-        checkin: 'Como est\u00e1 indo at\u00e9 agora?',
-        show: '',
-      },
-    },
-    panel: {
-      title: 'Resolu\u00e7\u00f5es',
-      todayHeading: 'Hoje',
-      todayEmpty:
-        'Nenhuma resolu\u00e7\u00e3o di\u00e1ria \u2014 escreva uma no Exame desta noite.',
-      nextReview: 'Pr\u00f3xima revis\u00e3o: {{practice}} em {{date}}',
-    },
   },
 
   memento: {
@@ -535,17 +349,6 @@ export default {
       '27': 'Os anjos e santos te esperam. N\u00e3o desaponte essa companhia.',
       '28': 'O Inferno \u00e9 porta trancada por dentro. O amor \u00e9 a chave. Ama agora.',
     },
-  },
-
-  gratias: {
-    title: 'Deo Gratias',
-    subtitle: 'Conte as gra\u00e7as deste dia, uma de cada vez.',
-    homeTagline: 'Conte as gra\u00e7as deste dia',
-    homeCount_one: '{{count}} gra\u00e7a registrada',
-    homeCount_other: '{{count}} gra\u00e7as registradas',
-    exploreTagline_zero: 'Comece a contar as gra\u00e7as de hoje',
-    exploreTagline_one: '{{count}} gra\u00e7a registrada',
-    exploreTagline_other: '{{count}} gra\u00e7as registradas',
   },
 
   diesDomini: {

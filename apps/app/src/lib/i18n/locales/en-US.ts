@@ -46,19 +46,6 @@ export default {
     chronicle: 'Chronicle',
     chronicleSeeAll: 'See all',
   },
-  altar: {
-    title: 'The Altar',
-    cardSubtitle: 'Intentions, thanks & resolutions',
-    intentions: 'Intentions',
-    gratitude: 'Gratitude',
-    resolution: 'Resolution',
-    resolutions: 'Resolutions',
-    resolutionPrompt: 'Today’s resolution',
-    resolutionEmpty: 'Lay down a resolution for today.',
-    setResolution: 'Set resolution',
-    editResolution: 'Revise',
-    removeResolution: 'Remove',
-  },
   search: {
     sectionPray: 'Pray',
     sectionCapture: 'Capture',
@@ -94,9 +81,6 @@ export default {
     fidelity: 'Fidelity',
     ruleOfLife: 'Today, with God.',
     ruleOfLifeSubtitle: 'a rule of life',
-    resolutionLabel: 'Today’s resolution',
-    resolutionAttribution: 'today’s resolve',
-    resolutionTap: 'Today’s resolution: {{text}}. Open Plan of Life to check in.',
     hora: {
       matins: 'the hour of Matins',
       lauds: 'the hour of Lauds',
@@ -300,113 +284,6 @@ export default {
     cccLabel: 'Catechism of the Catholic Church, {{start}}-{{end}}',
   },
 
-  movements: {
-    cadence: {
-      label: 'How long?',
-      perpetual: 'For always',
-      goal: 'For a goal',
-      bounded: 'For a time',
-      hint: {
-        perpetual: 'Something you carry indefinitely — no end, only prayer.',
-        goal: 'A concrete request. Mark it answered when God responds.',
-        bounded: 'For a window — a novena, a season, a date. It closes when the time ends.',
-      },
-    },
-    subject: {
-      label: 'Subject',
-      placeholder: 'A person or a group (optional)',
-      addLabel: 'Add subject',
-      editLabel: 'Subject',
-      useRecent: 'Use {{subject}}',
-    },
-    capture: {
-      intentionPrompt: 'Lift up an intention',
-      thanksgivingPrompt: 'Record a grace received',
-      intentionPlaceholder: 'For whom, or for what…',
-      thanksgivingPlaceholder: 'A grace, a person, a providence…',
-      raise: 'Raise',
-      offer: 'Record',
-      boundedUntil: 'Active until',
-    },
-    actions: {
-      markAnswered: 'Mark answered',
-      markAnsweredPerpetual: 'God answered this',
-      answered: 'Answered',
-      retire: 'Stop carrying',
-      removeThanksgiving: 'Remove',
-      pinToPractice: 'Pray for this in…',
-      edit: 'Edit',
-    },
-    pinPractice: {
-      title: 'Pray for this in…',
-      subtitle: 'When you open these practices, this will be there waiting.',
-      empty: 'No practices yet.',
-    },
-    picker: {
-      title: 'Carry these in prayer',
-      subtitle: 'Choose what to offer in this prayer.',
-      allCarried: 'Everything on the Altar is already being carried.',
-      confirm: 'Continue',
-    },
-    edit: {
-      title: 'Amend this',
-    },
-    offering: {
-      empty:
-        'Bring someone or something to God — a person you love, a worry, a hope. Or move on, and pray with what you have.',
-      emptyStanding:
-        'Nothing standing in this prayer yet. Star an intention to carry it here every time, or bring one just for today.',
-      carryMore: 'Carry more today',
-      line: {
-        invite: 'Offer this prayer for someone',
-        one: 'Offered for {{text}}',
-        more_one: 'Offered for {{text}}, and {{count}} other',
-        more_other: 'Offered for {{text}}, and {{count}} others',
-      },
-      summary_one: 'Offering {{count}} intention',
-      summary_other: 'Offering {{count}} intentions',
-      summaryEmpty: 'Offering this prayer.',
-      add: {
-        intention: 'Pray for someone',
-        thanksgiving: 'Give thanks for something',
-      },
-    },
-    closure: {
-      answered: 'Answered',
-      expired: 'Window ended',
-      retired: 'Retired',
-    },
-    confirm: {
-      retireTitle: 'Stop carrying this?',
-      retireDescription: 'You can always lift it up again. The record stays in your history.',
-    },
-    bridge: {
-      title: 'Record this as thanksgiving?',
-      description:
-        'Your prayer for "{{text}}" was answered. Would you like to record it as a grace?',
-      confirm: 'Record gratitude',
-      thanksgivingPrefill: 'For "{{text}}" — answered',
-    },
-    heading: {
-      intention: {
-        active_one: '{{count}} active',
-        active_other: '{{count}} active',
-        closed_one: '{{count}} closed',
-        closed_other: '{{count}} closed',
-      },
-      thanksgiving: {
-        active_one: '{{count}} grace',
-        active_other: '{{count}} graces',
-      },
-    },
-    empty: {
-      intention:
-        'No intentions yet. Lift one up — a person, a need, a hope — and let prayer carry it.',
-      thanksgiving:
-        'Every day is full of small mercies. Record one now — a person, a providence, a beauty — and learn to see.',
-    },
-  },
-
   memoria: {
     title: 'Memoria',
     subtitle: 'A chronicle of your life of prayer.',
@@ -418,69 +295,10 @@ export default {
     today: 'Today',
     yesterday: 'Yesterday',
     completion: 'Prayed {{name}}',
-    intentionOffered: 'Offered: “{{text}}”',
-    intentionAnswered: 'Answered: “{{text}}”',
-    gratitude: 'Deo gratias: “{{text}}”',
     onThisDay: 'On this day',
     oneYearAgo: 'One year ago',
     yearsAgo_one: '{{count}} year ago',
     yearsAgo_other: '{{count}} years ago',
-    filter: {
-      all: 'All',
-      prayers: 'Prayers',
-      intentions: 'Intentions',
-      gratitudes: 'Gratitudes',
-    },
-    noneInFilter: 'Nothing here yet in this view.',
-    dayOffered: 'Offered this day to the Lord',
-  },
-
-  oblatio: {
-    offerThisDay: 'Offer this day to the Lord ✟',
-    a11yOfferThisDay: 'Offer this day to the Lord',
-    offeredAt: 'Offered at {{time}}',
-    memoria: 'Offered this day to the Lord',
-  },
-
-  resolutions: {
-    scope: {
-      daily: 'Today',
-    },
-    capture: {
-      placeholder: 'A concrete resolution…',
-      save: 'Set',
-      change: 'Change',
-      recorded: 'Set. Carry it into the day.',
-    },
-    review: {
-      outcome: {
-        kept: 'Kept',
-        partial: 'Partial',
-        broken: 'Broken',
-      },
-      recorded: {
-        kept: 'Kept it. Glory to God.',
-        partial: 'Partial — and that is honest.',
-        broken: 'Noted. Tomorrow is mercy.',
-      },
-      notesPlaceholder: 'Notes (optional)',
-      title: {
-        review: 'Review resolution',
-        checkin: 'Check in',
-        show: 'Today’s resolution',
-      },
-      prompt: {
-        review: 'How did it go?',
-        checkin: 'How is it going so far?',
-        show: '',
-      },
-    },
-    panel: {
-      title: 'Resolutions',
-      todayHeading: 'Today',
-      todayEmpty: 'No daily resolution yet — write one in tonight’s Examen.',
-      nextReview: 'Next review: {{practice}} on {{date}}',
-    },
   },
 
   memento: {
@@ -529,17 +347,6 @@ export default {
       '27': 'The angels and saints are waiting for you. Do not disappoint that company.',
       '28': 'Hell is a door locked from the inside. Love is the key. Love now.',
     },
-  },
-
-  gratias: {
-    title: 'Deo Gratias',
-    subtitle: 'Count the graces of this day, one at a time.',
-    homeTagline: 'Count the graces of this day',
-    homeCount_one: '{{count}} grace recorded',
-    homeCount_other: '{{count}} graces recorded',
-    exploreTagline_zero: 'Begin counting today’s graces',
-    exploreTagline_one: '{{count}} grace recorded',
-    exploreTagline_other: '{{count}} graces recorded',
   },
 
   diesDomini: {

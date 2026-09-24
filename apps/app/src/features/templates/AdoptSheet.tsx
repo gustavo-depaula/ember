@@ -121,8 +121,7 @@ export function AdoptSheet({
         })
       }
     }
-    // TODO: pre-fill template.resolutions into the Resolutions panel and pin
-    // template.collections — deferred; practice adoption is the priority.
+    // TODO: pin template.collections — deferred; practice adoption is the priority.
     onClose()
     onAdopted?.()
   }

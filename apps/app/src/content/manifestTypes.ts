@@ -323,11 +323,6 @@ export function isTemplatePlaceholder(
   return 'placeholder' in p && p.placeholder === true
 }
 
-export type PlanOfLifeTemplateResolution = {
-  title: LocalizedText
-  text: LocalizedText
-}
-
 export type PlanOfLifeTemplateManifest = {
   id: string
   name: LocalizedText
@@ -341,7 +336,6 @@ export type PlanOfLifeTemplateManifest = {
   icon?: string
   tags?: string[]
   practices: PlanOfLifeTemplatePractice[]
-  resolutions?: PlanOfLifeTemplateResolution[]
   /** Collection refs (e.g. `collection/carmelite`) to pre-pin alongside the plan. */
   collections?: string[]
 }

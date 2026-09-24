@@ -155,10 +155,8 @@
 			}
 		},
 		{
-			"type": "capture-resolution",
-			"level": "daily",
-			"for": "current",
-			"prompt": {
+			"type": "rubric",
+			"text": {
 				"en-US": "The good resolution you present to the Lord today.",
 				"pt-BR": "O bom propósito que apresenta hoje ao Senhor."
 			}

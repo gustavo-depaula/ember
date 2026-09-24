@@ -46,7 +46,7 @@ function getPracticeDisplayName(practiceId: string, practice: UserPractice | und
 
 // A doorway card — a quiet illuminated surface with the gold mark to the left of
 // a tracked-caps title and a muted subtitle, not a bordered box. Used for the
-// interior-life pair (Altar / Custody) and the rule pair (Traditions / Add).
+// interior-life card (Custody) and the rule pair (Traditions / Add).
 export function PlanCard({
   icon,
   label,
@@ -97,7 +97,7 @@ export function PlanCard({
 }
 
 /**
- * The rule-of-life management body — resolutions, the long-arc (20-week) tiered
+ * The rule-of-life management body — the long-arc (20-week) tiered
  * fidelity wall, streak/completion stats, add-practice entries, the tiered
  * practice list, and the archived collapsible. Extracted from the old `/plan`
  * screen so both `/plan` and the You tab can render it; each caller supplies its

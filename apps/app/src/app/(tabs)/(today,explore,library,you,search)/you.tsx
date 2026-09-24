@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { Flame, Settings, Shield } from 'lucide-react-native'
+import { Settings, Shield } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -37,24 +37,16 @@ export default function YouScreen() {
   const recentEntries = useMemoriaEntries(3)
   const onThisDay = useOnThisDayEntries(now)
 
-  const interiorCards = (
+  const interiorCards = flags.custody ? (
     <XStack gap="$md">
       <PlanCard
-        icon={<Flame size={28} color={theme.accent?.val} />}
-        label={t('altar.title')}
-        subtitle={t('altar.cardSubtitle')}
-        onPress={() => router.push('/altar')}
+        icon={<Shield size={28} color={theme.accent?.val} />}
+        label={t('custody.title')}
+        subtitle={t('you.custodyHint')}
+        onPress={() => router.push('/custody')}
       />
-      {flags.custody && (
-        <PlanCard
-          icon={<Shield size={28} color={theme.accent?.val} />}
-          label={t('custody.title')}
-          subtitle={t('you.custodyHint')}
-          onPress={() => router.push('/custody')}
-        />
-      )}
     </XStack>
-  )
+  ) : undefined
 
   return (
     <ScreenLayout>

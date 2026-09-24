@@ -1,6 +1,6 @@
 import { type FlowContext, resolveFlowAsync } from '@ember/content-engine'
 import { type UseQueryResult, useQuery, useQueryClient } from '@tanstack/react-query'
-import { createEngineContext, withSpiritualThreads } from '@/content/engineContext'
+import { createEngineContext } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import type { Primitive } from '@/content/primitives'
 import type { RenderedSection } from '@/content/types'
@@ -23,9 +23,6 @@ export type PracticeContent = {
 // Pulls its sibling hooks (usePractice, usePracticeTracks, preferences, today)
 // internally. React Query dedupes the useQuery calls; useToday and zustand
 // selectors are idempotent under multiple subscriptions.
-//
-// `withSpiritualThreads(createEngineContext(...))` runs INSIDE queryFn so the
-// store snapshot is fresh per resolve — same semantics as the prior effect.
 //
 // Select tabs are intentionally NOT an input here: the flow resolves with the
 // engine's auto/default pick and materializes every select branch's structure.
@@ -83,9 +80,7 @@ export function usePracticeContent(
         programDay,
         selectOverrides: {},
       }
-      const ec = withSpiritualThreads(
-        createEngineContext(undefined, { contentLanguage, secondaryLanguage }),
-      )
+      const ec = createEngineContext(undefined, { contentLanguage, secondaryLanguage })
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,

@@ -210,21 +210,21 @@ Preference order:
 ```typescript
 // ✗ Bad — user-initiated action, error vanishes
 try {
-  await raiseIntention.mutateAsync({ text, cadence })
+  await savePractice.mutateAsync({ name, schedule })
 } catch {
   return
 }
 
 // ✓ Good — surface to the user
 try {
-  await raiseIntention.mutateAsync({ text, cadence })
+  await savePractice.mutateAsync({ name, schedule })
 } catch (err) {
   showErrorToast(err)
   return
 }
 
 // ✓ Also good — let it propagate / crash
-await raiseIntention.mutateAsync({ text, cadence })
+await savePractice.mutateAsync({ name, schedule })
 ```
 
 Returning a fallback value (e.g. cache miss → `undefined`) is fine **only when the fallback is a valid semantic result** — "not found" is not an error. The test: would the user notice if this silently failed? If yes, surface it.

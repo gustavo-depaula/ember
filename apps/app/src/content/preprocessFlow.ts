@@ -298,49 +298,6 @@ async function preprocessSection(
         },
       }
 
-    case 'rendered-offering':
-      return {
-        type: 'interaction',
-        kind: 'offering',
-        mode: section.mode,
-        default: section.default,
-        show: section.show,
-        label: section.label,
-      }
-
-    case 'rendered-capture-movement':
-      return {
-        type: 'interaction',
-        kind: 'capture-movement',
-        movement: section.kind,
-        prompt: section.prompt,
-        multi: section.multi,
-        defaultCadence: section.defaultCadence,
-      }
-
-    case 'rendered-capture-resolution':
-      return {
-        type: 'interaction',
-        kind: 'capture-resolution',
-        level: section.level,
-        forward: section.forward,
-        prompt: section.prompt,
-        window: section.window,
-        prefill: section.prefill,
-      }
-
-    case 'rendered-review-resolution':
-      return {
-        type: 'interaction',
-        kind: 'review-resolution',
-        mode: section.mode,
-        target: section.target,
-        resolution: section.resolution,
-        prompt: section.prompt,
-        outcomes: section.outcomes,
-        allowNotes: section.allow_notes,
-      }
-
     default: {
       // Exhaustiveness: a new RenderedSection variant must add a primitive
       // mapping here or the engine will silently dead-end.

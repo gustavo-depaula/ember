@@ -255,45 +255,6 @@ export type ContainerPrimitive = {
   children?: Primitive[]
 }
 
-// — Interaction primitive — gathers all stateful UI under one kind —
-
-export type InteractionPrimitive =
-  | {
-      type: 'interaction'
-      kind: 'offering'
-      mode: 'intercessory' | 'thanksgiving' | 'both'
-      default: 'pinned' | 'all-active' | 'user-pick'
-      show: 'list' | 'count' | 'silent'
-      label?: BilingualText
-    }
-  | {
-      type: 'interaction'
-      kind: 'capture-movement'
-      movement: 'intention' | 'thanksgiving'
-      prompt: BilingualText
-      multi: boolean
-      defaultCadence?: 'perpetual' | 'goal' | 'bounded'
-    }
-  | {
-      type: 'interaction'
-      kind: 'capture-resolution'
-      level: 'daily'
-      forward: 'current' | 'next'
-      prompt: BilingualText
-      window: { starts_at: number; ends_at: number }
-      prefill?: { resolution_id: string; text: string }
-    }
-  | {
-      type: 'interaction'
-      kind: 'review-resolution'
-      mode: 'review' | 'checkin' | 'show'
-      target: 'active-daily' | 'pending-daily'
-      resolution?: { id: string; text: string; level: 'daily' }
-      prompt?: BilingualText
-      outcomes: Array<'kept' | 'partial' | 'broken'>
-      allowNotes: boolean
-    }
-
 // — Union —
 
 export type Primitive =
@@ -309,7 +270,6 @@ export type Primitive =
   | ProsePrimitive
   | CalloutPrimitive
   | ContainerPrimitive
-  | InteractionPrimitive
 
 // — Include: what authors write when they want data from a ContentSource —
 

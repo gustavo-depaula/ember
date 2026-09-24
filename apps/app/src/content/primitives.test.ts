@@ -19,13 +19,6 @@ describe('Primitive vocabulary', () => {
         behavior: { kind: 'group' },
         children: [{ type: 'divider' }],
       },
-      {
-        type: 'interaction',
-        kind: 'offering',
-        mode: 'both',
-        default: 'pinned',
-        show: 'list',
-      },
     ]
 
     const seen = new Set(examples.map((p) => p.type))
@@ -40,7 +33,6 @@ describe('Primitive vocabulary', () => {
         'prose',
         'callout',
         'container',
-        'interaction',
       ]),
     )
   })

@@ -28,7 +28,6 @@ import {
   DiesDevotion,
   LiturgicalHeader,
   MementoLine,
-  ResolutionLine,
   RestartNeededList,
   SaintOfDayCard,
   SeasonalContext,
@@ -269,10 +268,6 @@ export default function HomeScreen() {
                 </Typography>
               </Pressable>
             </YStack>
-          </FadeInView>
-
-          <FadeInView index={1}>
-            <ResolutionLine />
           </FadeInView>
 
           {obligations && (obligations.fast || obligations.abstinence !== 'none') && (

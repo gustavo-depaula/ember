@@ -215,9 +215,8 @@ export type FlowSection = { lang?: string } & (
       // Wraps a body of sections that should collapse together. With
       // `skipIfEmpty: true`, the group emits nothing when its children resolve
       // to only structural primitives (subheading / divider / heading) —
-      // useful for a chrome-only section like the Examen's Verificatio that
-      // should disappear entirely when its `review-resolution skip_if_none`
-      // has no resolution to surface.
+      // useful for a chrome-only section that should disappear entirely when
+      // its one conditional block emits nothing.
       type: 'group'
       sections: FlowSection[]
       skipIfEmpty?: boolean
@@ -278,36 +277,6 @@ export type FlowSection = { lang?: string } & (
       type: 'celebration-banner'
       from: string
       cycleFrom?: string
-    }
-  | {
-      type: 'offering'
-      mode: 'intercessory' | 'thanksgiving' | 'both'
-      default?: 'pinned' | 'all-active' | 'user-pick'
-      show?: 'list' | 'count' | 'silent'
-      label?: LocalizedText
-      scope?: 'practice' | 'section'
-    }
-  | {
-      type: 'capture-movement'
-      kind: 'intention' | 'thanksgiving'
-      prompt: LocalizedText
-      multi?: boolean
-      defaults?: { cadence?: 'perpetual' | 'goal' | 'bounded' }
-    }
-  | {
-      type: 'capture-resolution'
-      level: 'daily'
-      for?: 'current' | 'next'
-      prompt: LocalizedText
-    }
-  | {
-      type: 'review-resolution'
-      mode?: 'review' | 'checkin' | 'show'
-      target: 'active-daily' | 'pending-daily'
-      prompt?: LocalizedText
-      outcomes?: Array<'kept' | 'partial' | 'broken'>
-      allow_notes?: boolean
-      skip_if_none?: boolean
     }
   | {
       // Per-slot picker over a celebration's primary + alternates formularies.
@@ -439,41 +408,6 @@ export type RenderedSection =
       title?: BilingualText
       attribution?: BilingualText
       prayer?: BilingualText
-    }
-  | {
-      type: 'rendered-offering'
-      mode: 'intercessory' | 'thanksgiving' | 'both'
-      default: 'pinned' | 'all-active' | 'user-pick'
-      show: 'list' | 'count' | 'silent'
-      label?: BilingualText
-    }
-  | {
-      type: 'rendered-capture-movement'
-      kind: 'intention' | 'thanksgiving'
-      prompt: BilingualText
-      multi: boolean
-      defaultCadence?: 'perpetual' | 'goal' | 'bounded'
-    }
-  | {
-      type: 'rendered-capture-resolution'
-      level: 'daily'
-      forward: 'current' | 'next'
-      prompt: BilingualText
-      window: { starts_at: number; ends_at: number }
-      prefill?: { resolution_id: string; text: string }
-    }
-  | {
-      type: 'rendered-review-resolution'
-      mode: 'review' | 'checkin' | 'show'
-      target: 'active-daily' | 'pending-daily'
-      resolution?: {
-        id: string
-        text: string
-        level: 'daily'
-      }
-      prompt?: BilingualText
-      outcomes: Array<'kept' | 'partial' | 'broken'>
-      allow_notes: boolean
     }
   | {
       // Per-slot picker rendered as a chip toggle + the selected source's typed

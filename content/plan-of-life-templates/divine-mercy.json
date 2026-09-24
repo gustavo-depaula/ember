@@ -128,17 +128,5 @@
       }
     }
   ],
-  "resolutions": [
-    {
-      "title": {
-        "en-US": "An act of mercy by word, by deed, and by prayer each day",
-        "pt-BR": "Um ato de misericórdia por palavra, por obra e por oração a cada dia"
-      },
-      "text": {
-        "en-US": "Each day, name one work of mercy in each of the three modes — word, deed, prayer — as Jesus asked of Faustina in Diary §742, and offer them with the formula: Jesus, I trust in You.",
-        "pt-BR": "A cada dia, nomear uma obra de misericórdia em cada um dos três modos — palavra, obra e oração — como Jesus pediu a Faustina no Diário §742, e oferecê-las com a fórmula: Jesus, eu confio em Vós."
-      }
-    }
-  ],
   "collections": ["collection/divine-mercy"]
 }

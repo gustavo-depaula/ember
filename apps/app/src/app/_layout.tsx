@@ -71,7 +71,6 @@ import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { useRemindersStore } from '@/features/mass-times/reminders'
-import { useExpirySweep } from '@/features/movements'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
@@ -120,7 +119,6 @@ function CrossTabSync() {
 
 export default function RootLayout() {
   useKeepAwake()
-  useExpirySweep()
 
   const [fontsLoaded] = useFonts({
     Cinzel_400Regular,

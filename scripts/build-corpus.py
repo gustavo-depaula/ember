@@ -1046,7 +1046,7 @@ def build_templates(b: Builder) -> None:
     Each lives in `content/plan-of-life-templates/<id>.json`:
       - name / description / manifesto (localized)
       - practices[] with ref + tier + schedule (+ optional time / enabled)
-      - optional resolutions[] and collections[] to pre-pin
+      - optional collections[] to pre-pin
 
     Published as `plan-of-life-template/<id>` corpus items; warmed like
     collections after boot.

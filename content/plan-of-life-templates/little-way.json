@@ -77,17 +77,5 @@
       }
     }
   ],
-  "resolutions": [
-    {
-      "title": {
-        "en-US": "Offer a hidden act of love each day",
-        "pt-BR": "Oferecer um ato de amor escondido a cada dia"
-      },
-      "text": {
-        "en-US": "Name one small sacrifice daily — a swallowed retort, a kindness no one sees, a smile when it costs — and offer it for a soul.",
-        "pt-BR": "Nomear a cada dia um pequeno sacrifício — uma réplica engolida, uma bondade que ninguém vê, um sorriso que custa — e oferecê-lo por uma alma."
-      }
-    }
-  ],
   "collections": ["collection/spiritual-classics"]
 }

@@ -32,10 +32,8 @@
 			}
 		},
 		{
-			"type": "capture-resolution",
-			"level": "daily",
-			"for": "current",
-			"prompt": {
+			"type": "rubric",
+			"text": {
 				"en-US": "Your mortification for this Friday.",
 				"pt-BR": "Sua mortificação desta sexta-feira."
 			}

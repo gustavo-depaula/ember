@@ -49,16 +49,6 @@
 			"type": "divider"
 		},
 		{
-			"type": "offering",
-			"mode": "intercessory",
-			"default": "pinned",
-			"show": "list",
-			"label": {
-				"en-US": "Today's intentions",
-				"pt-BR": "Intenções de hoje"
-			}
-		},
-		{
 			"type": "prayer",
 			"ref": "sign-of-cross"
 		}

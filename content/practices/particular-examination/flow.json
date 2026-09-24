@@ -39,32 +39,6 @@
 			"type": "divider"
 		},
 		{
-			"type": "group",
-			"skipIfEmpty": true,
-			"sections": [
-				{
-					"type": "subheading",
-					"text": {
-						"en-US": "The point",
-						"pt-BR": "O ponto"
-					}
-				},
-				{
-					"type": "review-resolution",
-					"mode": "checkin",
-					"target": "active-daily",
-					"prompt": {
-						"en-US": "How has this gone so far today?",
-						"pt-BR": "Como tem corrido isto hoje, até agora?"
-					},
-					"skip_if_none": true
-				},
-				{
-					"type": "divider"
-				}
-			]
-		},
-		{
 			"type": "subheading",
 			"text": {
 				"en-US": "The morning, on this one point",
@@ -135,10 +109,8 @@
 			}
 		},
 		{
-			"type": "capture-resolution",
-			"level": "daily",
-			"for": "current",
-			"prompt": {
+			"type": "rubric",
+			"text": {
 				"en-US": "One concrete purpose for this afternoon, on the same point.",
 				"pt-BR": "Um propósito concreto para esta tarde, sobre o mesmo ponto."
 			}

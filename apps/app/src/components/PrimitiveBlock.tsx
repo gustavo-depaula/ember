@@ -3,11 +3,6 @@
 import { memo, useCallback } from 'react'
 import { View, YStack } from 'tamagui'
 import type { Primitive } from '@/content/primitives'
-import { RenderedCaptureMovementBlock, RenderedOfferingBlock } from '@/features/movements'
-import {
-  RenderedCaptureResolutionBlock,
-  RenderedReviewResolutionBlock,
-} from '@/features/resolutions'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
 import { PrayerLines } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
@@ -132,9 +127,6 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
 
     case 'container':
       return renderContainer(primitive, renderChild, onSelectOverride, practiceId)
-
-    case 'interaction':
-      return renderInteraction(primitive, practiceId)
   }
 })
 
@@ -240,49 +232,6 @@ function renderContainer(
           precedingResponse={behavior.precedingResponse}
           options={behavior.options}
           onSelect={(id) => onSelectOverride(behavior.overrideKey, id)}
-        />
-      )
-  }
-}
-
-function renderInteraction(p: Extract<Primitive, { type: 'interaction' }>, practiceId: string) {
-  switch (p.kind) {
-    case 'offering':
-      return (
-        <RenderedOfferingBlock
-          practiceId={practiceId}
-          mode={p.mode}
-          show={p.show}
-          default={p.default}
-          label={p.label?.primary}
-        />
-      )
-    case 'capture-movement':
-      return (
-        <RenderedCaptureMovementBlock
-          kind={p.movement}
-          prompt={p.prompt.primary}
-          multi={p.multi}
-          defaultCadence={p.defaultCadence}
-        />
-      )
-    case 'capture-resolution':
-      return (
-        <RenderedCaptureResolutionBlock
-          forward={p.forward}
-          prompt={p.prompt.primary}
-          window={p.window}
-          prefill={p.prefill}
-        />
-      )
-    case 'review-resolution':
-      return (
-        <RenderedReviewResolutionBlock
-          mode={p.mode}
-          resolution={p.resolution}
-          prompt={p.prompt?.primary}
-          outcomes={p.outcomes}
-          allowNotes={p.allowNotes}
         />
       )
   }

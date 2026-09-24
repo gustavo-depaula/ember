@@ -15,32 +15,6 @@
 			"type": "divider"
 		},
 		{
-			"type": "group",
-			"skipIfEmpty": true,
-			"sections": [
-				{
-					"type": "subheading",
-					"text": {
-						"en-US": "Verificatio",
-						"pt-BR": "Verificação"
-					}
-				},
-				{
-					"type": "review-resolution",
-					"mode": "review",
-					"target": "pending-daily",
-					"prompt": {
-						"en-US": "How did this resolution go? Be honest — mercy meets truth, not performance.",
-						"pt-BR": "Como foi esta resolução? Seja honesto — a misericórdia encontra a verdade, não a performance."
-					},
-					"skip_if_none": true
-				},
-				{
-					"type": "divider"
-				}
-			]
-		},
-		{
 			"type": "subheading",
 			"text": {
 				"en-US": "Petition for Light",
@@ -76,13 +50,11 @@
 			}
 		},
 		{
-			"type": "capture-movement",
-			"kind": "thanksgiving",
-			"prompt": {
+			"type": "rubric",
+			"text": {
 				"en-US": "What graces from today?",
 				"pt-BR": "Quais graças deste dia?"
-			},
-			"multi": true
+			}
 		},
 		{
 			"type": "divider"
@@ -153,10 +125,8 @@
 			}
 		},
 		{
-			"type": "capture-resolution",
-			"level": "daily",
-			"for": "next",
-			"prompt": {
+			"type": "rubric",
+			"text": {
 				"en-US": "One concrete resolution for tomorrow.",
 				"pt-BR": "Uma resolução concreta para amanhã."
 			}

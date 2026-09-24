@@ -292,7 +292,6 @@ One paragraph each. See `types.ts` for the full schema.
 - **`group`** — wrap sections so they collapse together (or disappear if `skipIfEmpty` and the body resolves to chrome).
 - **`collapsible`** — explicit collapsible block with a title; takes `defaultOpen` / `defaultOpenFrom`. Use for dense rubric blocks or silent-priest prayers (Preparação das Oferendas, etc.) that overwhelm the audible flow.
 - **`liturgical-color-scope`** / **`liturgical-color`** / **`celebration-banner`** — Mass chrome that threads the day's vestment color through descendant sections.
-- **`offering`** / **`capture-movement`** / **`capture-resolution`** / **`review-resolution`** — interactive sections (intentions, thanksgivings, daily resolutions). See `docs/features/features-overview.md`.
 
 ---
 

@@ -24,7 +24,6 @@ export { PracticeIcon } from './PracticeIcon'
 export { PrayButton } from './PrayActionButtons'
 export { PrayerSpinner } from './PrayerSpinner'
 export { PrayerLines, PrayerText } from './PrayerText'
-export { PrayerTextInput } from './PrayerTextInput'
 export { PrimitiveBlock } from './PrimitiveBlock'
 export {
   CollapsiblePrayer,

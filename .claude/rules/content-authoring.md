@@ -34,4 +34,3 @@ Read `docs/content/primitives-guide.md` before writing or editing practice JSON.
 ## Other sections
 
 - On a book-backed `prose` section (`book` + `chapter`), set `"langPolicy": "book-default"` unless the book exists in every app language. The default `active-language` silently emits nothing when the chapter lacks the active language.
-- Don't place a block that reads movements or resolutions (e.g. `review-resolution`) after a `capture-*` block in the same flow to echo it back. Thread state is snapshotted once per resolve, so it renders empty.

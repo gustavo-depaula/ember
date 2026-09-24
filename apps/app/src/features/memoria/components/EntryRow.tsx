@@ -1,5 +1,5 @@
 import { format } from 'date-fns'
-import { Check, Flame, Heart, type LucideIcon, Sparkles, Sunrise } from 'lucide-react-native'
+import { Check } from 'lucide-react-native'
 import type React from 'react'
 import { useTranslation } from 'react-i18next'
 import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
@@ -43,37 +43,15 @@ export function EntryRow({
   )
 }
 
-export function getEntryIcon(kind: MemoriaEntry['kind'], color: string): React.ReactNode {
-  const icons: Record<MemoriaEntry['kind'], LucideIcon> = {
-    completion: Check,
-    'intention-raised': Heart,
-    'intention-closed': Sparkles,
-    thanksgiving: Flame,
-    'day-offered': Sunrise,
-  }
-  const Icon = icons[kind]
-  const fill = kind === 'intention-closed' ? color : undefined
-  return <Icon size={14} color={color} fill={fill} />
+export function getEntryIcon(_kind: MemoriaEntry['kind'], color: string): React.ReactNode {
+  return <Check size={14} color={color} />
 }
 
 export function getEntryBody(
   entry: MemoriaEntry,
   t: ReturnType<typeof useTranslation>['t'],
 ): string {
-  switch (entry.kind) {
-    case 'completion':
-      return t('memoria.completion', {
-        name: getPracticeDisplayName(entry.completion.practice_id),
-      })
-    case 'intention-raised':
-      return t('memoria.intentionOffered', { text: entry.movement.text })
-    case 'intention-closed':
-      return t('memoria.intentionAnswered', { text: entry.movement.text })
-    case 'thanksgiving':
-      return t('memoria.gratitude', { text: entry.movement.text })
-    case 'day-offered':
-      return t('memoria.dayOffered')
-  }
+  return t('memoria.completion', { name: getPracticeDisplayName(entry.completion.practice_id) })
 }
 
 function getPracticeDisplayName(practiceId: string): string {

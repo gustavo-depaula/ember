@@ -191,10 +191,8 @@
 			}
 		},
 		{
-			"type": "capture-resolution",
-			"level": "daily",
-			"for": "current",
-			"prompt": {
+			"type": "rubric",
+			"text": {
 				"en-US": "One particular resolution for today.",
 				"pt-BR": "Uma resolução particular para hoje."
 			}
