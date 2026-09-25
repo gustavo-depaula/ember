@@ -59,6 +59,22 @@ Square, cream grounds with color only in thin details — the inverse of practic
 
 **Kept:** Holy card (F) and Breviary page (G). Wax seal (H) dropped.
 
+## Collections — `collections.html`, `coll-*.png`
+
+Square, like the painted collection tiles; painted collections keep their art.
+The object says what kind of gathering it is.
+
+**Kept:** Boxed set (L1) and Slipcase (L2) for library collections, Packet (D1)
+for devotional ones, Ordo (R1) for plans, weekdays and seasons.
+**Kept for later, not chosen:** Ex libris (L3), Bundle (D2), Tucked missal (D3),
+Ribbons (R2), Horologium (R3).
+
+## Articles (chapters) — `collections.html`
+
+Portrait 10:13, between the square cards and the tall books. Tract (A1) vs
+Pamphlet (A3) still undecided — compare `coll-context-tract.png` and
+`coll-context-pamph.png`. Periodical (A2) and Title page (A4) kept for later.
+
 ## Query params
 
 - `formats.html?f=classic,gilt,…&flat=1`
