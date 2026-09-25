@@ -1,0 +1,150 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Garamond;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular/EBGaramond_400Regular.ttf)}
+@font-face{font-family:Garamond;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/600SemiBold/EBGaramond_600SemiBold.ttf)}
+@font-face{font-family:Garamond;font-style:italic;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular_Italic/EBGaramond_400Regular_Italic.ttf)}
+@font-face{font-family:Cinzel;src:url(../../../node_modules/@expo-google-fonts/cinzel/400Regular/Cinzel_400Regular.ttf)}
+@font-face{font-family:Cinzel;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/cinzel/600SemiBold/Cinzel_600SemiBold.ttf)}
+@font-face{font-family:Fraktur;src:url(../../../apps/app/assets/fonts/UnifrakturMaguntia-Book.ttf)}
+*{box-sizing:border-box;margin:0}
+body.flat .hinge{display:none}body.flat .book{border-radius:calc(var(--w)*.03)}
+body{background:#1a1a18;color:#F5EFE2;font-family:Garamond;padding:24px 32px;width:1180px}
+.fmt{display:grid;grid-template-columns:230px 1fr;gap:20px;align-items:center;padding:22px 0;border-bottom:1px solid #2a2a27}
+.lbl h3{font-family:Cinzel;font-weight:400;font-size:17px;letter-spacing:2px;color:#E8C97A}
+.lbl p{font-size:14px;color:#a79f90;margin-top:6px;line-height:1.4}
+.row{display:flex;gap:22px;align-items:flex-end}
+:root{--gold:#E8C97A;--cream:#F5EFE2}
+
+.book{--w:140px;width:var(--w);height:calc(var(--w)*1.5);position:relative;flex:none;
+  border-radius:calc(var(--w)*.012) calc(var(--w)*.035) calc(var(--w)*.035) calc(var(--w)*.012);
+  background:linear-gradient(155deg,var(--from),var(--to));
+  box-shadow:0 calc(var(--w)*.05) calc(var(--w)*.1) rgba(0,0,0,.35),0 1px 2px rgba(0,0,0,.3);
+  overflow:hidden;color:var(--cream);font-size:calc(var(--w)*.01)}
+.book .hinge{position:absolute;inset:0;pointer-events:none;z-index:5;background:linear-gradient(90deg,
+  rgba(0,0,0,.42) 0%, rgba(0,0,0,.18) 3.2%, rgba(255,255,255,.16) 4.4%, rgba(255,255,255,.05) 6.2%,
+  rgba(0,0,0,.22) 7.4%, rgba(0,0,0,.06) 9.5%, rgba(0,0,0,0) 13%, rgba(0,0,0,0) 94%, rgba(0,0,0,.12) 100%)}
+.book .sheen{position:absolute;inset:0;pointer-events:none;z-index:4;
+  background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,0) 35%,rgba(0,0,0,0) 75%,rgba(0,0,0,.14))}
+.imprint{font-family:Cinzel;font-size:3.2em;letter-spacing:.3em;white-space:nowrap}
+.t{font-weight:600;line-height:1.12}
+.a{font-size:5.8em;line-height:1.2}
+.face{position:absolute;top:0;bottom:0;left:9%;right:0;display:flex;flex-direction:column;align-items:center;text-align:center}
+
+/* 1 CLASSIC — the approved one */
+.classic .frame{position:absolute;top:6.5%;bottom:4.6%;left:15%;right:7.5%;border:1px solid rgba(245,239,226,.38);display:flex;flex-direction:column;align-items:center;text-align:center;padding:0 7%}
+.classic .x{margin-top:13%;font-size:10em;line-height:1;color:var(--gold)}
+.classic .mid{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4em}
+.classic .t{font-size:calc(var(--ts)*100em)}
+.classic .rule{width:28%;height:1px;background:rgba(232,201,122,.7)}
+.classic .imprint{opacity:.7;margin-bottom:8%}
+
+/* 2 GILT — gold double frame, corner fleurons, Cinzel caps in gold */
+.gilt .frame{position:absolute;top:5%;bottom:5%;left:14%;right:6%;border:1.5px solid rgba(232,201,122,.75);outline:1px solid rgba(232,201,122,.45);outline-offset:-5.5em}
+.gilt .c{position:absolute;font-size:9em;color:var(--gold);line-height:1;transform:translate(-50%,-50%)}
+.gilt .face{left:10%;padding:0 12%;justify-content:center;gap:5em}
+.gilt .t{font-family:Cinzel;font-weight:600;color:var(--gold);font-size:calc(var(--ts)*82em);letter-spacing:.03em;line-height:1.2}
+.gilt .a{font-style:italic;color:var(--cream);opacity:.85}
+.gilt .x{font-size:13em;color:var(--gold);line-height:1}
+.gilt .imprint{position:absolute;bottom:11%;color:var(--gold);opacity:.75;font-size:2.8em}
+
+/* 3 LABEL — library binding: cream title plate on cloth */
+.label .face{left:9%;justify-content:flex-start;padding-top:22%}
+.label .plate{width:74%;background:linear-gradient(180deg,#F3EAD6,#E4D6B8);color:#2a1f16;padding:9% 7% 8%;border-radius:1.5em;
+  box-shadow:inset 0 0 0 .8em #F3EAD6,inset 0 0 0 1.3em rgba(90,60,30,.45),0 1em 2em rgba(0,0,0,.35);display:flex;flex-direction:column;gap:3.5em;align-items:center}
+.label .t{font-size:calc(var(--ts)*88em);color:#2a1f16}
+.label .a{font-size:5.2em;color:#5b4a38;font-style:italic}
+.label .x{position:absolute;bottom:16%;font-size:11em;color:var(--gold);line-height:1}
+.label .imprint{position:absolute;bottom:7%;opacity:.65;font-size:2.8em}
+
+/* 4 QUARTER — leather spine band with raised bands, cloth sides */
+.quarter .spine{position:absolute;top:0;bottom:0;left:0;width:24%;z-index:2;
+  background:linear-gradient(90deg,rgba(0,0,0,.25),rgba(0,0,0,.5)),linear-gradient(155deg,var(--from),var(--to));
+  box-shadow:1px 0 0 rgba(232,201,122,.55),2px 0 0 rgba(0,0,0,.4)}
+.quarter .band{position:absolute;left:0;width:24%;height:2.2%;z-index:3;background:linear-gradient(180deg,rgba(255,255,255,.18),rgba(0,0,0,.35))}
+.quarter .face{left:24%;padding:0 10%;justify-content:center;gap:5em}
+.quarter .t{font-size:calc(var(--ts)*92em);text-align:left;align-self:stretch}
+.quarter .a{text-align:left;align-self:stretch;opacity:.8}
+.quarter .rule{align-self:stretch;height:1px;background:rgba(232,201,122,.6)}
+.quarter .x{position:absolute;z-index:3;top:8%;left:34%;font-size:9em;color:var(--gold)}
+.quarter .imprint{position:absolute;z-index:3;bottom:6%;left:34%;opacity:.6;font-size:2.6em}
+
+/* 5 ARCH — gothic window frame, title under the arch */
+.arch .win{position:absolute;top:7%;bottom:6%;left:15%;right:7%;border:1px solid rgba(232,201,122,.6);border-radius:50% 50% 0 0/ 28% 28% 0 0}
+.arch .win2{position:absolute;top:9.5%;bottom:8%;left:18%;right:10%;border:1px solid rgba(245,239,226,.22);border-radius:50% 50% 0 0/ 28% 28% 0 0}
+.arch .face{padding:0 16%;justify-content:center;gap:4.5em;left:11%;right:3%}
+.arch .x{position:absolute;top:18%;font-size:14em;color:var(--gold);line-height:1}
+.arch .t{font-size:calc(var(--ts)*95em);margin-top:12%}
+.arch .a{opacity:.8;font-style:italic}
+.arch .imprint{position:absolute;bottom:11%;opacity:.65;font-size:2.8em}
+
+/* 6 WATERMARK — modern: huge tonal cross, left-aligned bottom title */
+.water .big{position:absolute;right:-18%;top:-4%;font-size:118em;line-height:1;color:rgba(255,255,255,.06);font-family:Garamond}
+.water .face{left:16%;right:8%;align-items:flex-start;text-align:left;justify-content:flex-end;padding-bottom:17%;gap:3.5em}
+.water .x{position:absolute;top:8%;left:16%;font-size:9em;color:var(--gold)}
+.water .t{font-size:calc(var(--ts)*110em);line-height:1.05}
+.water .rule{width:20%;height:1.5px;background:var(--gold)}
+.water .a{opacity:.8;font-size:5.4em}
+.water .imprint{position:absolute;bottom:6%;left:16%;opacity:.55;font-size:2.6em}
+
+/* 7 BANDED — tri-band paperback: cloth top/bottom, cream middle */
+.banded .mid{position:absolute;left:0;right:0;top:30%;height:42%;background:linear-gradient(180deg,#F3EAD6,#E8DCC2);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3.5em;padding:0 10% 0 17%;text-align:center}
+.banded .t{font-size:calc(var(--ts)*92em);color:#241a12}
+.banded .a{color:#6b5642;font-size:5.2em}
+.banded .x{position:absolute;top:10%;left:9%;right:0;text-align:center;font-size:12em;color:var(--gold)}
+.banded .imprint{position:absolute;bottom:10%;left:9%;right:0;text-align:center;opacity:.7;font-size:2.8em}
+.banded .edge{position:absolute;left:0;right:0;height:1.2em;background:var(--gold);opacity:.7}
+
+/* 8 MISSAL — blackletter title, rubric-red details, rules top & bottom */
+.missal .face{left:10%;padding:0 11%;justify-content:space-between;padding-top:10%;padding-bottom:9%}
+.missal .rules{width:100%;border-top:1.5px solid var(--gold);border-bottom:.8px solid var(--gold);height:1.6em}
+.missal .t{font-family:Fraktur;font-weight:400;font-size:calc(var(--ts)*115em);line-height:1.1;color:var(--cream)}
+.missal .x{font-size:15em;color:var(--gold);line-height:1}
+.missal .a{font-family:Cinzel;font-size:3.4em;letter-spacing:.14em;color:var(--gold);opacity:.9}
+.missal .stack{display:flex;flex-direction:column;align-items:center;gap:5em}
+.missal .imprint{opacity:.6;font-size:2.6em}
+</style></head><body>
+<div id="app"></div>
+<script>
+const T={burgundy:['#5A1722','#24090E'],marian:['#1E3A5C','#0A1626'],green:['#1E4A32','#0C2418'],gold:['#8B6914','#352608'],
+violet:['#4A2860','#1F1030'],rose:['#5C2740','#260E1A'],ink:['#2E3A4A','#11161E'],red:['#6B1620','#2A080C']}
+const books=[
+ ['The Fathers on Mary','The Fathers of the Church','ink'],
+ ['Introduction to the Devout Life','St. Francis de Sales','burgundy'],
+ ['The Imitation of Christ','Thomas à Kempis','marian'],
+ ['Story of a Soul','St. Thérèse of Lisieux','rose'],
+ ['The Spiritual Combat','Lorenzo Scupoli','green'],
+ ['True Devotion to Mary','St. Louis de Montfort','gold'],
+ ['Dark Night of the Soul','St. John of the Cross','violet'],
+]
+const ts=t=>t.length>28?.088:t.length>20?.098:.112
+const I='EMBER LIBRARY'
+const F={
+ classic:{n:'1 · Classic',d:'The one you liked: a thin frame, the cross, the title and a gold line.',
+  h:(t,a)=>`<div class="frame"><div class="x">✚</div><div class="mid"><div class="t">${t}</div><div class="rule"></div><div class="a">${a}</div></div><div class="imprint">${I}</div></div>`},
+ gilt:{n:'2 · Gilt',d:'Gold-tooled double frame with corner fleurons; Cinzel capitals in gold leaf.',
+  h:(t,a)=>`<div class="frame"></div>${[['14%','5%'],['94%','5%'],['14%','95%'],['94%','95%']].map(([l,tp])=>`<div class="c" style="left:${l};top:${tp}">✦</div>`).join('')}
+  <div class="face"><div class="x">✠</div><div class="t">${t}</div><div class="a">${a}</div></div><div class="face" style="justify-content:flex-end"><div class="imprint">${I}</div></div>`},
+ label:{n:'3 · Library label',d:'Plain cloth binding with a cream title label pasted on, like an old seminary library.',
+  h:(t,a)=>`<div class="face"><div class="plate"><div class="t">${t}</div><div class="a">${a}</div></div><div class="x">✚</div><div class="imprint">${I}</div></div>`},
+ quarter:{n:'4 · Quarter leather',d:'Darker leather spine with raised bands and a gold edge, cloth sides; title set left-aligned.',
+  h:(t,a)=>`<div class="spine"></div>${[18,34,66,82].map(p=>`<div class="band" style="top:${p}%"></div>`).join('')}
+  <div class="face"><div class="t">${t}</div><div class="rule"></div><div class="a">${a}</div></div><div class="x">✚</div><div class="imprint">${I}</div>`},
+ arch:{n:'5 · Arch',d:'A gothic window frames the page; the cross sits in the arch like a rose window.',
+  h:(t,a)=>`<div class="win"></div><div class="win2"></div><div class="x" style="left:0;right:0;text-align:center;padding-left:8%">✚</div><div class="face"><div class="t">${t}</div><div class="a">${a}</div></div><div class="face" style="justify-content:flex-end"><div class="imprint">${I}</div></div>`},
+ water:{n:'6 · Watermark',d:'Modern: a huge tonal cross bleeds off the edge; the title sits big and left-aligned at the bottom.',
+  h:(t,a)=>`<div class="big">✚</div><div class="x">✚</div><div class="face"><div class="t">${t}</div><div class="rule"></div><div class="a">${a}</div></div><div class="imprint">${I}</div>`},
+ banded:{n:'7 · Banded',d:'Three bands like a classic paperback: colored top and bottom, a cream middle band for the title.',
+  h:(t,a)=>`<div class="x">✚</div><div class="edge" style="top:30%;margin-top:-1.8em"></div><div class="mid"><div class="t">${t}</div><div class="a">${a}</div></div><div class="edge" style="top:72%;margin-top:.6em"></div><div class="imprint">${I}</div>`},
+ missal:{n:'8 · Missal',d:'An altar missal: gold rules above and below, a blackletter title, and the author in gold capitals.',
+  h:(t,a)=>`<div class="face"><div class="rules"></div><div class="stack"><div class="x">✠</div><div class="t">${t}</div><div class="a">${a}</div></div><div class="stack" style="gap:3em"><div class="imprint">${I}</div><div class="rules"></div></div></div>`},
+}
+const cover=(k,[t,a,c],w)=>`<div class="book ${k}" style="--w:${w}px;--from:${T[c][0]};--to:${T[c][1]};--ts:${ts(t)}">${F[k].h(t,a)}<div class="sheen"></div><div class="hinge"></div></div>`
+if(new URLSearchParams(location.search).get('flat'))document.body.classList.add('flat')
+const only=new URLSearchParams(location.search).get('f')
+const keys=only?only.split(','):Object.keys(F)
+const pick=(i)=>[0,1,2,3,4,5,6].map(j=>books[(j+i)%books.length]).slice(0,5)
+document.getElementById('app').innerHTML=keys.map((k,i)=>`<div class="fmt"><div class="lbl"><h3>${F[k].n}</h3><p>${F[k].d}</p></div>
+<div class="row">${pick(i).slice(0,4).map(b=>cover(k,b,150)).join('')}${cover(k,pick(i)[4],90)}</div></div>`).join('')
+</script></body></html>

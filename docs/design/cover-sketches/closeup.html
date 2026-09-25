@@ -1,0 +1,75 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Garamond;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular/EBGaramond_400Regular.ttf)}
+@font-face{font-family:Garamond;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/600SemiBold/EBGaramond_600SemiBold.ttf)}
+@font-face{font-family:Garamond;font-style:italic;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular_Italic/EBGaramond_400Regular_Italic.ttf)}
+@font-face{font-family:Cinzel;src:url(../../../node_modules/@expo-google-fonts/cinzel/400Regular/Cinzel_400Regular.ttf)}
+@font-face{font-family:Cinzel;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/cinzel/600SemiBold/Cinzel_600SemiBold.ttf)}
+*{box-sizing:border-box;margin:0}
+body{background:#1a1a18;color:#F5EFE2;font-family:Garamond;padding:28px 32px;width:1180px}
+h2{font-family:Cinzel;font-weight:400;font-size:15px;letter-spacing:2px;color:#E8C97A;margin:30px 0 16px}
+.row{display:flex;gap:22px;align-items:flex-start;flex-wrap:wrap}
+.parch{background:#F3ECDD;padding:24px;border-radius:10px;margin-top:6px}
+.parch .cap{color:#2a2118}.parch .sub{color:#6b5e4e}
+
+/* ---- the cover ---- */
+.book{--w:118px;width:var(--w);height:calc(var(--w)*1.5);position:relative;
+  border-radius:calc(var(--w)*.012) calc(var(--w)*.035) calc(var(--w)*.035) calc(var(--w)*.012);
+  background:linear-gradient(155deg,var(--from),var(--to));
+  box-shadow:0 calc(var(--w)*.05) calc(var(--w)*.1) rgba(0,0,0,.35),0 1px 2px rgba(0,0,0,.3);
+  overflow:hidden;color:#F5EFE2}
+/* hinge: dark spine edge → crease → light reflex → falloff */
+.book::before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,
+  rgba(0,0,0,.42) 0%, rgba(0,0,0,.18) 3.2%, rgba(255,255,255,.16) 4.4%, rgba(255,255,255,.05) 6.2%,
+  rgba(0,0,0,.22) 7.4%, rgba(0,0,0,.06) 9.5%, rgba(0,0,0,0) 13%, rgba(0,0,0,0) 94%, rgba(0,0,0,.12) 100%)}
+/* faint top sheen, as if lit from above */
+.book::after{content:"";position:absolute;inset:0;pointer-events:none;
+  background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,0) 35%,rgba(0,0,0,0) 75%,rgba(0,0,0,.14))}
+.frame{position:absolute;top:6.5%;bottom:4.6%;left:15%;right:7.5%;
+  border:max(1px,calc(var(--w)*.005)) solid rgba(245,239,226,.38);
+  display:flex;flex-direction:column;align-items:center;text-align:center;padding:0 7%}
+.cross{margin-top:13%;font-size:calc(var(--w)*.1);line-height:1;color:#E8C97A;opacity:.9}
+.mid{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:calc(var(--w)*.04)}
+.title{font-weight:600;font-size:calc(var(--w)*var(--ts,.108));line-height:1.12;letter-spacing:-.005em}
+.rule{width:28%;height:max(1px,calc(var(--w)*.004));background:rgba(232,201,122,.7)}
+.author{font-size:calc(var(--w)*.058);line-height:1.2;opacity:.85}
+.imprint{font-family:Cinzel;font-size:calc(var(--w)*.032);letter-spacing:.3em;opacity:.7;margin-bottom:8%;white-space:nowrap}
+.tiny .author,.tiny .rule{display:none}
+.cap{font-family:Garamond;font-size:15px;margin-top:8px;width:var(--w)}
+.sub{font-size:13px;color:#a79f90;width:var(--w);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.old{--w:118px;width:var(--w);height:calc(var(--w)*1.5);border-radius:4px;display:flex;align-items:center;justify-content:center;
+  background:var(--from);font-family:Cinzel;font-size:47px;color:#F5EFE2;box-shadow:0 6px 12px rgba(0,0,0,.18)}
+.note{font-size:14px;color:#a79f90;max-width:900px;line-height:1.45}
+</style></head><body>
+<div id="app"></div>
+<script>
+const T={burgundy:['#5A1722','#24090E'],marian:['#1E3A5C','#0A1626'],green:['#1E4A32','#0C2418'],gold:['#8B6914','#352608'],
+violet:['#4A2860','#1F1030'],rose:['#5C2740','#260E1A'],ink:['#2E3A4A','#11161E'],red:['#6B1620','#2A080C']}
+const books=[
+ ['The Fathers on Mary','The Fathers of the Church','ink'],
+ ['Introduction to the Devout Life','St. Francis de Sales','burgundy'],
+ ['The Imitation of Christ','Thomas à Kempis','marian'],
+ ['Story of a Soul','St. Thérèse of Lisieux','rose'],
+ ['The Spiritual Combat','Lorenzo Scupoli','green'],
+ ['True Devotion to Mary','St. Louis de Montfort','gold'],
+ ['Dark Night of the Soul','St. John of the Cross','violet'],
+ ['My Catholic Faith','Bp. Louis Morrow','red'],
+]
+// shrink long titles so they fit in ≤4 lines
+const ts=t=>t.length>28?.088:t.length>20?.098:.112
+const cover=([t,a,k],w,extra='')=>`<div class="book ${extra}" style="--w:${w}px;--from:${T[k][0]};--to:${T[k][1]};--ts:${ts(t)}">
+ <div class="frame"><div class="cross">✚</div><div class="mid"><div class="title">${t}</div><div class="rule"></div><div class="author">${a}</div></div>
+ <div class="imprint">EMBER LIBRARY</div></div></div>`
+const shelf=(w,cls='',list=books)=>list.map(b=>`<div>${cover(b,w,cls)}<div class="cap" style="--w:${w}px">${b[0]}</div><div class="sub" style="--w:${w}px">${b[1]}</div></div>`).join('')
+document.getElementById('app').innerHTML=`
+<h2>CLOSE-UP · 320pt</h2><div class="row">${cover(books[0],320)}${cover(books[5],320)}${cover(books[2],320)}</div>`;if(0)`
+<div class="row">${books.slice(0,4).map(b=>cover(b,175)).join('')}</div>
+<h2>SAVED BOOKS SHELF · 118pt (today: letter only)</h2>
+<div class="row"><div><div class="old" style="--from:#2E3A4A">T</div><div class="cap">The Fathers on Mary</div><div class="sub">The Fathers of the Church</div></div>${shelf(118,'',books.slice(0,6))}</div>
+<h2>COMPACT · 72pt (author + rule drop out)</h2>
+<div class="row">${books.map(b=>cover(b,72,'tiny')).join('')}</div>
+<h2>ON PARCHMENT</h2>
+<div class="row parch">${shelf(118,'',books.slice(1,8))}</div>
+`
+</script></body></html>

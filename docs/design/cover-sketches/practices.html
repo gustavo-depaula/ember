@@ -1,0 +1,275 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Garamond;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular/EBGaramond_400Regular.ttf)}
+@font-face{font-family:Garamond;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/600SemiBold/EBGaramond_600SemiBold.ttf)}
+@font-face{font-family:Garamond;font-style:italic;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular_Italic/EBGaramond_400Regular_Italic.ttf)}
+@font-face{font-family:Cinzel;src:url(../../../node_modules/@expo-google-fonts/cinzel/400Regular/Cinzel_400Regular.ttf)}
+@font-face{font-family:Cinzel;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/cinzel/600SemiBold/Cinzel_600SemiBold.ttf)}
+@font-face{font-family:Fraktur;src:url(../../../apps/app/assets/fonts/UnifrakturMaguntia-Book.ttf)}
+*{box-sizing:border-box;margin:0}
+:root{--gold:#E8C97A;--cream:#F5EFE2;--paper:#F3EAD6;--paper2:#E6D8BC;--inkd:#2a1f16;--rubric:#9B2226}
+body{background:#1a1a18;color:var(--cream);font-family:Garamond;padding:24px 32px;width:1180px}
+.fmt{display:grid;grid-template-columns:230px 1fr;gap:20px;align-items:center;padding:22px 0;border-bottom:1px solid #2a2a27}
+.lbl h3{font-family:Cinzel;font-weight:400;font-size:17px;letter-spacing:2px;color:var(--gold)}
+.lbl .k{font-family:Cinzel;font-size:11px;letter-spacing:2px;color:#8f877a;margin-top:4px}
+.lbl p{font-size:14px;color:#a79f90;margin-top:6px;line-height:1.4}
+.row{display:flex;gap:22px;align-items:flex-end}
+svg.i{width:100%;height:100%;fill:none;stroke:currentColor;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round}
+
+.tile{--w:150px;width:var(--w);min-width:var(--w);max-width:var(--w);height:var(--w);position:relative;flex:none;overflow:hidden;
+  border-radius:calc(var(--w)*.09);background:linear-gradient(155deg,var(--from),var(--to));color:var(--cream);font-size:calc(var(--w)*.01);
+  box-shadow:0 calc(var(--w)*.04) calc(var(--w)*.09) rgba(0,0,0,.3)}
+.tile .sheen{position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,0) 40%,rgba(0,0,0,.12))}
+.t{font-weight:600;line-height:1.12}
+.meta{font-family:Cinzel;font-size:4.6em;letter-spacing:.18em;white-space:nowrap}
+.ico{color:var(--gold)}
+
+/* A MEDALLION — gold ring medal holding the practice's icon */
+.medal{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3em;text-align:center;padding:0 8em;min-width:var(--w);max-width:var(--w)}
+.medal .ring{width:28em;height:28em;margin-bottom:2em;flex:none;border-radius:50%;border:1.2px solid rgba(232,201,122,.8);outline:1px solid rgba(232,201,122,.35);outline-offset:3.5em;
+  display:flex;align-items:center;justify-content:center;background:radial-gradient(circle,rgba(232,201,122,.14),transparent 70%)}
+.medal .ring .ico{width:52%;height:52%}
+.medal .t{font-size:10.5em;line-height:1.08}
+.medal .meta{opacity:.65}
+
+/* B NICHE — arched niche (echo of the Arch book) with the icon standing inside */
+.niche .arch{position:absolute;left:31%;right:31%;top:10%;height:46%;border:1.2px solid rgba(232,201,122,.75);border-radius:50% 50% 0 0/40% 40% 0 0;
+  background:linear-gradient(180deg,rgba(232,201,122,.16),rgba(0,0,0,.18));display:flex;align-items:flex-end;justify-content:center;padding-bottom:12%}
+.niche .arch .ico{width:62%;height:50%}
+.niche .sill{position:absolute;left:26%;right:26%;top:56%;height:1.5px;background:var(--gold);opacity:.8}
+.niche .txt{position:absolute;left:8%;right:8%;top:62%;bottom:6%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:3em}
+.niche .t{font-size:11em}
+.niche .meta{opacity:.6}
+
+/* C RIBBON — a gold marker ribbon (the place you keep in a practice) */
+.ribbon .rib{position:absolute;right:13%;top:0;width:11%;height:40%;background:linear-gradient(90deg,#b8923c,#E8C97A 45%,#b8923c);
+  clip-path:polygon(0 0,100% 0,100% 100%,50% 84%,0 100%);box-shadow:0 0 0 1px rgba(0,0,0,.2)}
+.ribbon .ico{position:absolute;left:10%;top:10%;width:20%;height:20%}
+.ribbon .txt{position:absolute;left:10%;right:10%;bottom:10%;display:flex;flex-direction:column;gap:3em}
+.ribbon .t{font-size:13em;line-height:1.05}
+.ribbon .meta{opacity:.6;font-size:4.2em}
+
+/* D VIGIL — ember glow: the practice as a lamp kept burning */
+.vigil{background:radial-gradient(circle at 50% 38%,rgba(255,196,120,.34),rgba(255,160,80,.08) 30%,transparent 55%),linear-gradient(155deg,var(--from),var(--to))}
+.vigil .ico{position:absolute;left:37%;top:18%;width:26%;height:26%;color:#F6D58E;filter:drop-shadow(0 0 6px rgba(255,200,120,.7))}
+.vigil .txt{position:absolute;left:8%;right:8%;top:56%;bottom:8%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:3em}
+.vigil .t{font-size:11.5em}
+.vigil .meta{opacity:.6}
+
+/* E GLASS — stained-glass quarries with a roundel */
+.glass .lead{position:absolute;inset:0;opacity:.5;
+  background:repeating-linear-gradient(45deg,transparent 0 13.5%,rgba(0,0,0,.55) 13.5% 14.3%),repeating-linear-gradient(-45deg,transparent 0 13.5%,rgba(0,0,0,.55) 13.5% 14.3%)}
+.glass .pane{position:absolute;inset:0;background:radial-gradient(circle at 30% 25%,rgba(255,255,255,.14),transparent 60%)}
+.glass .roundel{position:absolute;left:34%;top:12%;width:32%;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle,rgba(232,201,122,.35),rgba(0,0,0,.35));
+  border:2.5em solid #1b1712;display:flex;align-items:center;justify-content:center}
+.glass .roundel .ico{width:60%;height:60%;color:#F6D58E}
+.glass .band{position:absolute;left:0;right:0;bottom:0;height:40%;background:linear-gradient(180deg,rgba(15,12,10,.0),rgba(15,12,10,.82) 30%);display:flex;flex-direction:column;align-items:center;justify-content:flex-end;padding:0 8% 9%;gap:2.5em;text-align:center}
+.glass .t{font-size:11em}
+.glass .meta{opacity:.6}
+
+/* ---- PRAYERS: cream grounds (texts you say) ---- */
+/* F HOLY CARD — lace edge, jewel-tone inner border */
+.holy{background:none;box-shadow:none;filter:drop-shadow(0 calc(var(--w)*.03) calc(var(--w)*.04) rgba(0,0,0,.35));color:var(--inkd)}
+.holy .lace{position:absolute;inset:0;background:radial-gradient(circle,var(--paper) 52%,transparent 56%) 0 0/6.25em 6.25em}
+.holy .lace::after{content:'';position:absolute;inset:3.1em;background:var(--paper);border-radius:1em}
+.holy .in{position:absolute;inset:9%;border:1.5em solid var(--from);border-radius:3em;background:linear-gradient(180deg,#FBF5E8,#EFE3C9);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3.5em;text-align:center;padding:0 8%}
+.holy .in::before{content:"";position:absolute;inset:2.5em;border:1px solid color-mix(in srgb,var(--from) 45%,transparent);border-radius:2em}
+.holy .ico{width:18%;height:18%;color:var(--from)}
+.holy .t{font-size:11.5em;color:var(--inkd)}
+.holy .meta{color:var(--from);opacity:.9;font-size:4.2em}
+
+/* G BREVIARY PAGE — rubric red initial + black text, like a page of the Office */
+.page{background:linear-gradient(180deg,var(--paper),var(--paper2));color:var(--inkd);border-radius:calc(var(--w)*.04)}
+.page .rule{position:absolute;left:9%;right:9%;height:0;border-top:1px solid var(--rubric);opacity:.7}
+.page .v{position:absolute;left:7%;top:16%;width:30%;text-align:center;font-family:Fraktur;font-size:36em;line-height:1;color:var(--rubric)}
+.page .t{position:absolute;left:9%;right:7%;top:17%;font-size:10.5em;text-indent:0;padding-left:33%;min-height:30%}
+.page .lines{position:absolute;left:9%;right:9%;top:60%;display:flex;flex-direction:column;gap:3.4em}
+.page .lines i{display:block;height:1.2em;background:rgba(42,31,22,.18);border-radius:1em}
+.page .meta{position:absolute;left:9%;bottom:8%;color:var(--rubric);font-size:4em}
+.page .x{position:absolute;right:9%;bottom:6.5%;color:var(--rubric);font-size:9em}
+
+/* H SEAL — cream card sealed with a jewel-tone wax seal */
+.seal{background:linear-gradient(180deg,var(--paper),var(--paper2));color:var(--inkd);border-radius:calc(var(--w)*.04)}
+.seal .wax{position:absolute;left:36%;top:11%;width:28%;aspect-ratio:1;border-radius:50%;
+  background:radial-gradient(circle at 35% 30%,color-mix(in srgb,var(--from) 60%,#fff 18%),var(--from) 45%,var(--to));
+  box-shadow:0 .8em 1.6em rgba(0,0,0,.3),inset 0 0 0 2em color-mix(in srgb,var(--from) 80%,#000 20%);display:flex;align-items:center;justify-content:center}
+.seal .wax .ico{width:52%;height:52%;color:#F1D9A0}
+.seal .txt{position:absolute;left:8%;right:8%;top:50%;bottom:8%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:3em}
+.seal .t{font-size:11.5em}
+.seal .meta{color:#7a6650;font-size:4em}
+
+
+/* ---- traditional practice candidates ---- */
+.art{position:absolute;inset:0;width:100%;height:100%}
+.art .g{fill:none;stroke:var(--gold);stroke-width:.7;stroke-linejoin:round}
+.art .g2{fill:none;stroke:rgba(232,201,122,.45);stroke-width:.45}
+.below{position:absolute;left:8%;right:8%;top:60%;bottom:7%;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:3em}
+.below .t{font-size:11em}.below .meta{opacity:.62}
+.pin{position:absolute;color:var(--gold)}
+
+/* I QUATREFOIL — gothic tracery */
+.quatre .pin{left:41%;top:21%;width:18%;height:18%}
+
+/* J GLORIA — baroque sunburst behind the icon */
+.gloria .rays{position:absolute;inset:0;background:repeating-conic-gradient(from 0deg at 50% 32%,rgba(232,201,122,.30) 0 2.2deg,transparent 2.2deg 7.5deg);
+  -webkit-mask:radial-gradient(circle at 50% 32%,transparent 0 9%,#000 10%,rgba(0,0,0,.6) 22%,transparent 34%)}
+.gloria .halo{position:absolute;left:39%;top:21%;width:22%;height:22%;border-radius:50%;border:1px solid rgba(232,201,122,.8);background:radial-gradient(circle,rgba(232,201,122,.2),transparent 70%)}
+.gloria .pin{left:43%;top:25%;width:14%;height:14%}
+
+/* K ANTEPENDIUM — altar frontal: damask, galloon, fringe */
+.frontal .damask{position:absolute;inset:0;opacity:.13;background:
+  radial-gradient(circle at 50% 50%,var(--gold) 0 7%,transparent 8%) 0 0/12% 12%,
+  radial-gradient(circle at 50% 50%,var(--gold) 0 3%,transparent 4%) 6% 6%/12% 12%}
+.frontal .gal{position:absolute;left:0;right:0;height:5.5%;background:
+  repeating-linear-gradient(90deg,transparent 0 3.5em,rgba(0,0,0,.25) 3.5em 4.5em),linear-gradient(180deg,#b8923c,#E8C97A 50%,#9c7a2c);opacity:.9}
+.frontal .fringe{position:absolute;left:0;right:0;bottom:0;height:7%;background:repeating-linear-gradient(90deg,#d9b866 0 .9em,#8a6a24 .9em 2.2em);
+  -webkit-mask:linear-gradient(180deg,#000 60%,rgba(0,0,0,.5))}
+.frontal .panel{position:absolute;left:36%;right:36%;top:14%;height:34%;border:1px solid rgba(232,201,122,.75);border-radius:1.5em;background:rgba(0,0,0,.18);display:flex;align-items:center;justify-content:center}
+.frontal .panel .ico{width:58%;height:58%}
+.frontal .below{top:52%;bottom:14%}
+
+/* L ORPHREY — the gold cross-band of a chasuble in the season's color */
+.orphrey .band{position:absolute;background:linear-gradient(90deg,#9c7a2c,#E8C97A 50%,#9c7a2c);opacity:.92}
+.orphrey .band::after{content:"";position:absolute;inset:.9em;border:1px dashed rgba(90,60,20,.6)}
+.orphrey .v{left:43%;width:14%;top:0;height:50%}
+.orphrey .h{top:17%;height:13%;left:25%;right:25%}
+.orphrey .pin{left:44.5%;top:17.5%;width:11%;height:11%;color:#3a2a10;z-index:2}
+.orphrey .below{top:54%}
+
+/* M TRIPTYCH — a gothic retable */
+.trip .pin{left:43%;top:25%;width:14%;height:14%}
+.trip .below{top:61%}
+
+/* N HOURS — Book of Hours page: gold frame, vine corners */
+.hours .pin{left:40%;top:19%;width:20%;height:20%}
+.hours .below{top:52%;bottom:12%}
+
+/* ---- paper-artifact practice candidates ---- */
+.paper{box-shadow:0 calc(var(--w)*.03) calc(var(--w)*.07) rgba(0,0,0,.35)}
+/* O ILLUMINATED LEAF — vellum page, jewel miniature above, text below */
+.leaf{background:linear-gradient(180deg,#F6EEDC,#E9DBBD);color:var(--inkd);border-radius:calc(var(--w)*.04)}
+.leaf .mini{position:absolute;left:9%;right:9%;top:8%;height:50%;background:linear-gradient(155deg,var(--from),var(--to));border-radius:1em;
+  box-shadow:inset 0 0 0 1.6em #F6EEDC,inset 0 0 0 2.3em var(--gold),inset 0 0 0 3em rgba(0,0,0,0);display:flex;align-items:center;justify-content:center;overflow:hidden}
+.leaf .mini::before{content:"";position:absolute;inset:3.8em;border:1px solid rgba(232,201,122,.5)}
+.leaf .mini::after{content:"";position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,rgba(232,201,122,.2),transparent 55%)}
+.leaf .mini .ico{width:34%;height:44%;z-index:1}
+.leaf .below{top:60%;bottom:7%}.leaf .t{color:var(--inkd)}.leaf .meta{color:var(--rubric);opacity:1;font-size:4em}
+
+/* P ORDO — a page of the liturgical calendar: colored heading band, cadence in rubric */
+.ordo{background:linear-gradient(180deg,#F6EEDC,#E9DBBD);color:var(--inkd);border-radius:calc(var(--w)*.04)}
+.ordo .head{position:absolute;left:0;right:0;top:0;height:30%;background:linear-gradient(155deg,var(--from),var(--to));display:flex;align-items:center;gap:4em;padding:0 9%}
+.ordo .head .ico{width:15em;height:15em;flex:none}
+.ordo .head .when{font-family:Cinzel;font-size:5.4em;letter-spacing:.2em;color:var(--cream)}
+.ordo .head::after{content:"";position:absolute;left:0;right:0;bottom:-2em;height:.9em;background:var(--from);opacity:.7}
+.ordo .t{position:absolute;left:9%;right:9%;top:42%;font-size:12em;line-height:1.08}
+.ordo .dur{position:absolute;left:9%;bottom:9%;font-family:Cinzel;font-size:4em;letter-spacing:.18em;color:var(--rubric)}
+.ordo .x{position:absolute;right:9%;bottom:7%;font-size:9em;color:var(--rubric)}
+
+/* Q SCAPULAR — cloth in the practice color, a stitched cream panel, cord at the top */
+.scap .cord{position:absolute;left:30%;right:30%;top:1%;height:30%;border:1.3em solid #C9A45A;border-bottom:0;border-radius:50% 50% 0 0/100% 100% 0 0;z-index:0}
+.scap .cloth{position:absolute;inset:14% 8% 3% 8%;background:linear-gradient(155deg,var(--from),var(--to));border-radius:2em;
+  background-image:linear-gradient(155deg,var(--from),var(--to)),repeating-linear-gradient(0deg,rgba(255,255,255,.03) 0 .6em,transparent .6em 1.2em);
+  box-shadow:inset 0 0 0 1.4em rgba(0,0,0,.12)}
+.scap .cloth::before{content:"";position:absolute;inset:3.5em;border:1.5px dashed rgba(232,201,122,.55);border-radius:1.2em}
+.scap .patch{position:absolute;left:34%;right:34%;top:22%;height:30%;background:linear-gradient(180deg,#F6EEDC,#E6D6B6);border-radius:1.2em;display:flex;align-items:center;justify-content:center;
+  box-shadow:0 .6em 1.2em rgba(0,0,0,.3)}
+.scap .patch::before{content:"";position:absolute;inset:1.5em;border:1px dashed rgba(90,60,30,.5);border-radius:.8em}
+.scap .patch .ico{width:56%;height:56%;color:var(--from)}
+.scap .below{top:56%;bottom:7%}
+.scap{background:none;box-shadow:none;filter:drop-shadow(0 calc(var(--w)*.03) calc(var(--w)*.04) rgba(0,0,0,.35))}
+
+/* R PRINTED CARD — a holy card on colored stock: deckled edge, cream printed ornament */
+.stock{background:none;box-shadow:none;filter:drop-shadow(0 calc(var(--w)*.03) calc(var(--w)*.04) rgba(0,0,0,.35))}
+.stock .lace{position:absolute;inset:0;background:radial-gradient(circle,var(--from) 52%,transparent 56%) 0 0/6.25em 6.25em}
+.stock .lace::after{content:"";position:absolute;inset:3.1em;background:linear-gradient(155deg,var(--from),var(--to));border-radius:1em}
+.stock .in{position:absolute;inset:9%;border:1px solid rgba(245,239,226,.7);outline:1px solid rgba(245,239,226,.3);outline-offset:-2.5em;border-radius:2em;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3.5em;text-align:center;padding:0 8%}
+.stock .ico{width:18%;height:18%;color:var(--gold)}
+.stock .t{font-size:11.5em}.stock .meta{opacity:.7;font-size:4.2em}
+/* books (Classic) for the mixed row */
+.book{--w:118px;width:var(--w);height:calc(var(--w)*1.5);position:relative;flex:none;border-radius:calc(var(--w)*.012) calc(var(--w)*.035) calc(var(--w)*.035) calc(var(--w)*.012);
+  background:linear-gradient(155deg,var(--from),var(--to));box-shadow:0 calc(var(--w)*.05) calc(var(--w)*.1) rgba(0,0,0,.35);overflow:hidden;color:var(--cream);font-size:calc(var(--w)*.01)}
+.book::before{content:"";position:absolute;inset:0;z-index:5;background:linear-gradient(90deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.18) 3.2%,rgba(255,255,255,.16) 4.4%,rgba(255,255,255,.05) 6.2%,rgba(0,0,0,.22) 7.4%,rgba(0,0,0,.06) 9.5%,rgba(0,0,0,0) 13%,rgba(0,0,0,0) 94%,rgba(0,0,0,.12) 100%)}
+.book .frame{position:absolute;top:6.5%;bottom:4.6%;left:15%;right:7.5%;border:1px solid rgba(245,239,226,.38);display:flex;flex-direction:column;align-items:center;text-align:center;padding:0 7%}
+.book .x{margin-top:13%;font-size:10em;line-height:1;color:var(--gold)}
+.book .mid{flex:1;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:4em}
+.book .t{font-size:10.5em}.book .r{width:28%;height:1px;background:rgba(232,201,122,.7)}.book .a{font-size:5.8em}
+.book .imp{font-family:Cinzel;font-size:3.2em;letter-spacing:.3em;opacity:.7;margin-bottom:8%;white-space:nowrap}
+.cap{font-size:14px;margin-top:8px;width:var(--cw);line-height:1.25}.sub{font-size:12px;color:#a79f90;width:var(--cw)}
+.mixed{background:#1f1f1c;border-radius:12px;padding:20px;display:flex;gap:18px;align-items:flex-start}
+</style></head><body>
+<div id="app"></div>
+<script>
+const T={burgundy:['#5A1722','#24090E'],marian:['#1E3A5C','#0A1626'],green:['#1E4A32','#0C2418'],gold:['#8B6914','#352608'],
+violet:['#4A2860','#1F1030'],rose:['#5C2740','#260E1A'],ink:['#2E3A4A','#11161E'],red:['#6B1620','#2A080C']}
+const S=p=>`<svg class="i" viewBox="0 0 24 24">${p}</svg>`
+const IC={
+ rosary:S('<circle cx="12" cy="8" r="5.5" stroke-dasharray="1.2 2.1"/><path d="M12 13.5v3.5M12 17v5M9.5 19h5"/>'),
+ flame:S('<path d="M12 22c4 0 6.5-2.6 6.5-6.3 0-3.9-3-6.3-4.2-9.7-.4 2.2-1.6 3.4-2.8 4.1C11.4 7.5 10.2 4.4 8 2c.3 4.3-2.5 6.6-2.5 11.7C5.5 19.4 8 22 12 22z"/>'),
+ sun:S('<path d="M12 3v2M4.2 7.5l1.7 1M19.8 7.5l-1.7 1M3 16h18M6 16a6 6 0 0 1 12 0M8 20h8"/>'),
+ moon:S('<path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/>'),
+ bell:S('<path d="M6 16V11a6 6 0 0 1 12 0v5l1.5 2h-15zM10 20.5a2 2 0 0 0 4 0M12 3v2"/>'),
+ heart:S('<path d="M12 21s-7.5-4.6-7.5-10.3A4.3 4.3 0 0 1 12 8a4.3 4.3 0 0 1 7.5 2.7C19.5 16.4 12 21 12 21z"/><path d="M12 8V3M10 5h4"/>'),
+ chalice:S('<path d="M6 3h12c0 5-2.7 8-6 8s-6-3-6-8zM12 11v7M8 21h8M9.5 18h5"/>'),
+ rays:S('<path d="M12 4v4M12 16v4M4 12h4M16 12h4M6.3 6.3l2.8 2.8M14.9 14.9l2.8 2.8M6.3 17.7l2.8-2.8M14.9 9.1l2.8-2.8"/><circle cx="12" cy="12" r="2.2"/>'),
+ star:S('<path d="M12 3l2.4 5.6 6 .5-4.6 4 1.4 5.9L12 16l-5.2 3 1.4-5.9-4.6-4 6-.5z"/>'),
+ dove:S('<path d="M3 12c3 0 5-1 7-4 1 3 3 4 6 4l5-3-2 5c-1 4-5 6-9 6-3 0-5-2-6-4 2 0 3-1 3-2-2 0-3-1-4-2z"/>'),
+ cross:S('<path d="M12 3v18M7 8h10"/>'),
+}
+const practices=[
+ ['Holy Rosary','Daily · 20 min','rosary','marian'],
+ ['The Angelus','Noon · 3 min','bell','gold'],
+ ['Divine Mercy Chaplet','3 pm · 10 min','rays','red'],
+ ['Examen','Night · 10 min','moon','violet'],
+ ['Holy Mass','Sunday','chalice','green'],
+ ['Morning Offering','Morning · 2 min','sun','burgundy'],
+]
+const prayers=[
+ ['Memorare','St. Bernard','star','marian'],
+ ['Anima Christi','14th century','heart','red'],
+ ['Hail, Holy Queen','Salve Regina','star','rose'],
+ ['Come, Holy Spirit','Veni Creator','dove','gold'],
+ ['Act of Contrition','Traditional','cross','violet'],
+ ['Sub Tuum','3rd century','star','green'],
+]
+const F={
+ medal:{n:'A · Medallion',k:'PRACTICE',d:'A gold-ringed medal holds the practice icon, like a devotional medal.',h:(t,m,i)=>`<div class="ring"><div class="ico">${IC[i]}</div></div><div class="t">${t}</div><div class="meta">${m}</div>`},
+ niche:{n:'B · Niche',k:'PRACTICE',d:'An arched niche with the icon standing in it, like a statue in a side chapel. Echoes the Arch book.',h:(t,m,i)=>`<div class="arch"><div class="ico">${IC[i]}</div></div><div class="sill"></div><div class="txt"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ ribbon:{n:'C · Ribbon',k:'PRACTICE',d:'A gold bookmark ribbon for the place you keep in a practice. Could show only on ones in your Plan of Life.',h:(t,m,i)=>`<div class="rib"></div><div class="ico">${IC[i]}</div><div class="txt"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ vigil:{n:'D · Vigil',k:'PRACTICE',d:'An ember glow behind the icon, like a lamp kept burning. The most "Ember" of these.',h:(t,m,i)=>`<div class="ico">${IC[i]}</div><div class="txt"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ glass:{n:'E · Stained glass',k:'PRACTICE',d:'Lead-lined quarries with a roundel; the title sits on a dark sill.',h:(t,m,i)=>`<div class="lead"></div><div class="pane"></div><div class="roundel"><div class="ico">${IC[i]}</div></div><div class="band"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+
+ quatre:{n:'I · Quatrefoil',k:'PRACTICE',d:'Gothic tracery: a gold quatrefoil set in a lozenge, as in cathedral windows and choir stalls.',h:(t,m,i)=>`<svg class="art" viewBox="0 0 100 100"><path class="g2" d="M50 7 L77 30 L50 53 L23 30Z"/><path class="g" d="M36.4 16.4A13.5 13.5 0 1 1 63.6 16.4A13.5 13.5 0 1 1 63.6 43.6A13.5 13.5 0 1 1 36.4 43.6A13.5 13.5 0 1 1 36.4 16.4Z" transform="translate(0,0)"/></svg><div class="pin">${IC[i]}</div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ gloria:{n:'J · Gloria',k:'PRACTICE',d:'A baroque sunburst of gold rays behind the icon, like a monstrance or the glory above an altar.',h:(t,m,i)=>`<div class="rays"></div><div class="halo"></div><div class="pin">${IC[i]}</div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ frontal:{n:'K · Antependium',k:'PRACTICE',d:'An altar frontal: damask cloth, a gold galloon at the top, fringe at the bottom, the season color as the cloth.',h:(t,m,i)=>`<div class="damask"></div><div class="gal" style="top:4%"></div><div class="panel"><div class="ico">${IC[i]}</div></div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div><div class="gal" style="bottom:7%;height:3%"></div><div class="fringe"></div>`},
+ orphrey:{n:'L · Orphrey',k:'PRACTICE',d:'The embroidered gold cross on the back of a chasuble; the tile is the vestment in its liturgical color.',h:(t,m,i)=>`<div class="band v"></div><div class="band h"></div><div class="pin">${IC[i]}</div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ trip:{n:'M · Triptych',k:'PRACTICE',d:'A small gothic retable: three pointed panels, the icon in the tall center one.',h:(t,m,i)=>`<svg class="art" viewBox="0 0 100 100"><path class="g" d="M39 56V26Q39 15 50 7Q61 15 61 26V56Z"/><path class="g" d="M25 56V33Q25 25 32 20Q39 25 39 33V56Z"/><path class="g" d="M61 56V33Q61 25 68 20Q75 25 75 33V56Z"/><path class="g" d="M21 56.5H79" style="stroke-width:1"/><circle cx="32" cy="38" r="2" class="g2"/><circle cx="68" cy="38" r="2" class="g2"/></svg><div class="pin">${IC[i]}</div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ hours:{n:'N · Book of Hours',k:'PRACTICE',d:'A page border from a Book of Hours: gold double rule, vine curls in the corners, the icon in a roundel.',h:(t,m,i)=>`<svg class="art" viewBox="0 0 100 100"><rect x="6" y="6" width="88" height="88" rx="2" class="g"/><rect x="9" y="9" width="82" height="82" class="g2"/><g class="g" style="stroke-width:.6"><path d="M9 22C14 22 16 18 14 15C12 12 9 14 11 16M22 9C22 14 18 16 15 14C12 12 14 9 16 11"/><path d="M91 22C86 22 84 18 86 15C88 12 91 14 89 16M78 9C78 14 82 16 85 14C88 12 86 9 84 11"/><path d="M9 78C14 78 16 82 14 85C12 88 9 86 11 84M22 91C22 86 18 84 15 86C12 88 14 91 16 89"/><path d="M91 78C86 78 84 82 86 85C88 88 91 86 89 84M78 91C78 86 82 84 85 86C88 88 86 91 84 89"/></g><circle cx="50" cy="29" r="15" class="g2"/></svg><div class="pin">${IC[i]}</div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+
+ leaf:{n:'O · Illuminated leaf',k:'PRACTICE',d:'A vellum page with a jewel-tone miniature: color leads like the other practices, paper ties it to the prayer cards.',h:(t,m,i)=>`<div class="mini"><div class="ico">${IC[i]}</div></div><div class="below"><div class="t">${t}</div><div class="meta">${m.toUpperCase()}</div></div>`},
+ ordo:{n:'P · Ordo',k:'PRACTICE',d:'A page of the liturgical calendar (the Ordo): colored heading with the hour, title in black, time in rubric red. A practice is a rhythm.',h:(t,m,i)=>{const [w,d]=m.split(' · ');return `<div class="head"><div class="ico">${IC[i]}</div><div class="when">${w.toUpperCase()}</div></div><div class="t">${t}</div><div class="dur">${(d||'').toUpperCase()}</div><div class="x">✠</div>`}},
+ scap:{n:'Q · Scapular',k:'PRACTICE',d:'Wool in the practice color with a stitched cream panel and a cord, like the brown scapular.',h:(t,m,i)=>`<div class="cord"></div><div class="cloth"></div><div class="patch"><div class="ico">${IC[i]}</div></div><div class="below"><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ stock:{n:'R · Colored holy card',k:'PRACTICE',d:'The Holy card printed on colored stock: same lace edge, cream print. The prayer card\'s sibling.',h:(t,m,i)=>`<div class="lace"></div><div class="in"><div class="ico">${IC[i]}</div><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ holy:{n:'F · Holy card',k:'PRAYER',d:'A lace-edged holy card, cream inside a colored border, the kind kept in a missal.',h:(t,m,i)=>`<div class="lace"></div><div class="in"><div class="ico">${IC[i]}</div><div class="t">${t}</div><div class="meta">${m}</div></div>`},
+ page:{n:'G · Breviary page',k:'PRAYER',d:'A page of the Office: red blackletter initial, the title in black, a few lines of text hinted, a red ✠.',h:(t,m,i)=>`<div class="rule" style="top:9%"></div><div class="v">${t[0]}</div><div class="t">${t}</div><div class="lines"><i></i><i style="width:92%"></i><i style="width:70%"></i></div><div class="meta">${m.toUpperCase()}</div><div class="x">✠</div>`},
+ seal:{n:'H · Wax seal',k:'PRAYER',d:'Cream paper closed with a colored wax seal bearing the icon.',h:(t,m,i)=>`<div class="wax"><div class="ico">${IC[i]}</div></div><div class="txt"><div class="t">${t}</div><div class="meta">${m.toUpperCase()}</div></div>`},
+}
+const tile=(k,[t,m,i,c],w=150)=>`<div class="tile ${k}" style="--w:${w}px;--from:${T[c][0]};--to:${T[c][1]}">${F[k].h(t,m,i)}${['holy','page','seal','leaf','ordo','scap','stock'].includes(k)?'':'<div class="sheen"></div>'}</div>`
+const book=([t,a,c])=>`<div class="book" style="--from:${T[c][0]};--to:${T[c][1]}"><div class="frame"><div class="x">✚</div><div class="mid"><div class="t">${t}</div><div class="r"></div><div class="a">${a}</div></div><div class="imp">EMBER LIBRARY</div></div></div>`
+const q=new URLSearchParams(location.search), only=q.get('f')
+let html=(only?only.split(','):[]).map(k=>{const list=F[k].k==='PRAYER'?prayers:practices
+ return `<div class="fmt"><div class="lbl"><h3>${F[k].n}</h3><div class="k">${F[k].k}</div><p>${F[k].d}</p></div><div class="row">${list.slice(0,4).map(x=>tile(k,x)).join('')}${tile(k,list[5],90)}</div></div>`}).join('')
+if(q.get('family')){const cell=(el,t,s,w)=>`<div>${el}<div class="cap" style="--cw:${w}px">${t}</div><div class="sub" style="--cw:${w}px">${s}</div></div>`
+ html+=`<div class="fmt" style="border:0"><div class="lbl"><h3>Side by side</h3><div class="k">WITH THE PRAYER CARDS</div><p>The paper practices next to Holy card and Breviary page.</p></div><div class="mixed">${cell(tile('leaf',practices[0],118),'Holy Rosary','Practice',118)}${cell(tile('holy',prayers[0],118),'Memorare','Prayer',118)}${cell(tile('ordo',practices[1],118),'The Angelus','Practice',118)}${cell(tile('page',prayers[1],118),'Anima Christi','Prayer',118)}${cell(tile('stock',practices[2],118),'Divine Mercy Chaplet','Practice',118)}${cell(tile('scap',practices[3],118),'Examen','Practice',118)}</div></div>`}
+if(q.get('mixed')){const cell=(el,t,s,w)=>`<div>${el}<div class="cap" style="--cw:${w}px">${t}</div><div class="sub" style="--cw:${w}px">${s}</div></div>`
+ html+=`<div class="fmt" style="border:0"><div class="lbl"><h3>Mixed shelf</h3><div class="k">SAVED · SEARCH</div><p>Books stand tall with a spine. Practices are square jewel tiles. Prayers are square cream cards. You can tell them apart before reading a word.</p></div>
+ <div class="mixed">${cell(book(['The Imitation of Christ','Thomas à Kempis','marian']),'The Imitation of Christ','Book',118)}
+ ${cell(tile('vigil',practices[0],118),'Holy Rosary','Practice',118)}
+ ${cell(tile('holy',prayers[0],118),'Memorare','Prayer',118)}
+ ${cell(book(['Story of a Soul','St. Thérèse of Lisieux','rose']),'Story of a Soul','Book',118)}
+ ${cell(tile('medal',practices[2],118),'Divine Mercy Chaplet','Practice',118)}
+ ${cell(tile('page',prayers[1],118),'Anima Christi','Prayer',118)}</div></div>`}
+document.getElementById('app').innerHTML=html
+</script></body></html>
