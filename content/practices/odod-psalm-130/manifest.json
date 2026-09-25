@@ -1,5 +1,7 @@
 {
   "id": "odod-psalm-130",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Psalm 130"
   },

@@ -1,5 +1,7 @@
 {
 	"id": "lauda-sion",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Lauda Sion (Sequence)",

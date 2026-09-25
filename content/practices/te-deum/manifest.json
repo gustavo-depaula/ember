@@ -1,5 +1,7 @@
 {
 	"id": "te-deum",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Te Deum",
 		"pt-BR": "Te Deum",

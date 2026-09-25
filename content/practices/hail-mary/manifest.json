@@ -1,5 +1,6 @@
 {
 	"id": "hail-mary",
+	"form": "prayer",
 	"name": {
 		"en-US": "Hail Mary",
 		"pt-BR": "Ave Maria",

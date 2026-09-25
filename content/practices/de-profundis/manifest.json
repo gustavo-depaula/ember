@@ -1,5 +1,7 @@
 {
 	"id": "de-profundis",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "De Profundis (Psalm 130)",
 		"pt-BR": "De Profundis (Salmo 129)",

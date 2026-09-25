@@ -1,5 +1,7 @@
 {
   "id": "odod-psalm-120",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Psalm 120"
   },

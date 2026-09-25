@@ -8,6 +8,7 @@ import { Typography } from '@/components/typography'
 import { bareId, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { coverFor } from '@/features/covers'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { routeFor } from '@/features/creators/components/feedItemRoute'
 import { useFollows, useLatestForFollowed } from '@/features/creators/hooks'
@@ -118,6 +119,7 @@ export function LibraryFeed() {
               subtitle={entry.author ? localizeContent(entry.author) : undefined}
               image={artFor(id)}
               tone={toneForKey(id)}
+              cover={coverFor(id, entry)}
               size={118}
               aspectRatio={1.5}
               radius={4}
@@ -135,6 +137,7 @@ export function LibraryFeed() {
               title={localizeContent(entry.name ?? entry.title ?? {})}
               image={artFor(id)}
               tone={toneForKey(id)}
+              cover={coverFor(id, entry)}
               onPress={() => goPractice(id)}
             />
           ))}

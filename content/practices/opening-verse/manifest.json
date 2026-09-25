@@ -1,5 +1,7 @@
 {
 	"id": "opening-verse",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Opening Verse",
 		"pt-BR": "Versículo de Abertura",

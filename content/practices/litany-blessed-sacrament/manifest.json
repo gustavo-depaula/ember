@@ -1,5 +1,7 @@
 {
   "id": "litany-blessed-sacrament",
+  "form": "prayer",
+  "liturgical": true,
   "icon": "eucharist",
   "name": {
     "en-US": "Litany of the Blessed Sacrament",

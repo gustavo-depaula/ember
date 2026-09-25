@@ -1,5 +1,7 @@
 {
 	"id": "alma-redemptoris-mater",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Loving Mother of the Redeemer",
 		"pt-BR": "Augusta Mãe do Redentor",

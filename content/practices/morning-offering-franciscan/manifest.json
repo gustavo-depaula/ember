@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-franciscan",
+	"form": "prayer",
 	"icon": "tau-cross",
 	"alternativeTo": {
 		"id": "morning-offering",

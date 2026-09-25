@@ -1,5 +1,7 @@
 {
 	"id": "ave-regina-caelorum",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Hail, Queen of Heaven",
 		"pt-BR": "Ave, Rainha dos Céus",

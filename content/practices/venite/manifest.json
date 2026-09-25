@@ -1,5 +1,7 @@
 {
 	"id": "venite",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Venite, exultemus Domino"
 	},

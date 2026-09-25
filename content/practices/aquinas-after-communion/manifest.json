@@ -1,5 +1,6 @@
 {
 	"id": "aquinas-after-communion",
+	"form": "prayer",
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Prayer After Communion (Aquinas)",

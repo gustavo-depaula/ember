@@ -1,5 +1,7 @@
 {
 	"id": "veni-creator-spiritus",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Come, Holy Spirit, Creator Blest",
 		"pt-BR": "Vinde, Espírito Criador",

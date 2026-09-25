@@ -1,5 +1,7 @@
 {
 	"id": "litany-loreto",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "mary",
 	"name": {
 		"en-US": "Litany of Our Lady of Loreto",

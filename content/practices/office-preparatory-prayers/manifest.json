@@ -1,5 +1,7 @@
 {
   "id": "office-preparatory-prayers",
+  "form": "prayer",
+  "liturgical": true,
   "icon": "prayer",
   "name": {
     "en-US": "Prayers Before & After the Office",

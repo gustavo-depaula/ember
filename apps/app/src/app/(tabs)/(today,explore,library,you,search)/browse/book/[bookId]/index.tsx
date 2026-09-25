@@ -33,6 +33,7 @@ import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { useReadingFlow } from '@/features/books/reader/useReadingFlow'
 import { SessionToast } from '@/features/books/SessionToast'
 import { PrologueProse } from '@/features/collections'
+import { bookCoverFormat } from '@/features/covers'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
@@ -225,6 +226,7 @@ export default function BookDetailScreen() {
               author={author}
               ctaLabel={ctaLabel}
               tone={toneByIndex(toneIndexForId(bookRef))}
+              format={bookCoverFormat(bookRef, entry.cover)}
               scrollY={scrollY}
               readHref={readerHref()}
             />

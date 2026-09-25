@@ -1,5 +1,7 @@
 {
 	"id": "litany-humility",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "prayer",
 	"name": {
 		"en-US": "Litany of Humility",

@@ -1,5 +1,6 @@
 {
 	"id": "prayer-before-crucifix",
+	"form": "prayer",
 	"name": {
 		"en-US": "Prayer Before a Crucifix",
 		"pt-BR": "Oração Diante do Crucifixo",

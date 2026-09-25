@@ -1,5 +1,7 @@
 {
 	"id": "sacris-solemniis",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Sacris Solemniis",

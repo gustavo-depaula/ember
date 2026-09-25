@@ -1,5 +1,7 @@
 {
 	"id": "pange-lingua",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Pange Lingua",

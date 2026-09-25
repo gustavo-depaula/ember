@@ -1,5 +1,6 @@
 {
 	"id": "ante-studium",
+	"form": "prayer",
 	"icon": "book",
 	"name": {
 		"en-US": "Prayer Before Study",

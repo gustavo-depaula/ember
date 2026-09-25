@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-opus-dei",
+	"form": "prayer",
 	"icon": "cross",
 	"alternativeTo": {
 		"id": "morning-offering",

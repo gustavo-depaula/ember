@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-carmelite",
+	"form": "prayer",
 	"icon": "mary",
 	"alternativeTo": {
 		"id": "morning-offering",

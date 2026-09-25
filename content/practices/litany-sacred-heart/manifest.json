@@ -1,5 +1,7 @@
 {
 	"id": "litany-sacred-heart",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "sacred-heart",
 	"name": {
 		"en-US": "Litany of the Sacred Heart",

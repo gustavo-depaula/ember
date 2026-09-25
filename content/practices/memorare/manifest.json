@@ -1,5 +1,6 @@
 {
 	"id": "memorare",
+	"form": "prayer",
 	"icon": "mary",
 	"name": {
 		"en-US": "Memorare",

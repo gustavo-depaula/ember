@@ -1,5 +1,7 @@
 {
 	"id": "adoro-te-devote",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Adoro Te Devote",
 		"pt-BR": "Adoro-Te Devotamente",

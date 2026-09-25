@@ -1,5 +1,7 @@
 {
 	"id": "collect-grace",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Collect for Grace"
 	},

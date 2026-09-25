@@ -1,5 +1,6 @@
 {
   "id": "morning-offering-sacred-heart",
+  "form": "prayer",
   "icon": "sacred-heart",
   "alternativeTo": {
     "id": "morning-offering",

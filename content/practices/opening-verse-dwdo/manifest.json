@@ -1,5 +1,7 @@
 {
   "id": "opening-verse-dwdo",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Introduction"
   },

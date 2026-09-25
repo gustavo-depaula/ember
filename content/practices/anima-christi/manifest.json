@@ -1,5 +1,6 @@
 {
 	"id": "anima-christi",
+	"form": "prayer",
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Anima Christi",

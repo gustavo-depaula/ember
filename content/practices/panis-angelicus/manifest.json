@@ -1,5 +1,7 @@
 {
 	"id": "panis-angelicus",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Panis Angelicus",

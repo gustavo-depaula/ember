@@ -61,6 +61,12 @@ export type CatalogEntry = {
   creatorRole?: CreatorRole
   creatorLanguages?: CreatorLanguage[]
   hasQa?: boolean
+  // Tile hints: practices marked as prayers draw a holy card (liturgical ones a
+  // breviary page) instead of the colored practice card; books name their cover.
+  form?: 'prayer'
+  liturgical?: boolean
+  estimatedMinutes?: number
+  cover?: string
 }
 
 export type Catalog = {

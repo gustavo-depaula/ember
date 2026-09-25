@@ -1,5 +1,6 @@
 {
   "id": "aquinas-tabula-ethicorum",
+  "cover": "label",
   "name": {
     "en-US": "Table of the Ethics",
     "la": "Tabula Libri Ethicorum"

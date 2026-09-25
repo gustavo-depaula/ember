@@ -1,5 +1,7 @@
 {
 	"id": "nicene-creed",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Nicene Creed",
 		"pt-BR": "Credo Niceno-Constantinopolitano",

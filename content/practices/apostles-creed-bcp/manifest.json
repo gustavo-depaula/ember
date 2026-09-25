@@ -1,5 +1,7 @@
 {
 	"id": "apostles-creed-bcp",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "The Apostles' Creed"
 	},

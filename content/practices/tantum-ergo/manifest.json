@@ -1,5 +1,7 @@
 {
 	"id": "tantum-ergo",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Tantum Ergo",
 		"pt-BR": "Tantum Ergo",

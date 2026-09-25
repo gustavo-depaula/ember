@@ -1,5 +1,7 @@
 {
 	"id": "magnificat-bcp",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Magnificat"
 	},

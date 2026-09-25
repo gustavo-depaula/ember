@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-sulpician",
+	"form": "prayer",
 	"icon": "cross",
 	"alternativeTo": {
 		"id": "morning-offering",

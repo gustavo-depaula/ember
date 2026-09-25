@@ -1,5 +1,7 @@
 {
   "id": "odod-de-profundis",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "De profundis (Psalm 130)"
   },

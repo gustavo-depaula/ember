@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-therese",
+	"form": "prayer",
 	"icon": "flower",
 	"alternativeTo": {
 		"id": "morning-offering",

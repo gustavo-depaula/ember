@@ -1,5 +1,7 @@
 {
 	"id": "nunc-dimittis",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Nunc Dimittis",
 		"pt-BR": "Nunc Dimittis",

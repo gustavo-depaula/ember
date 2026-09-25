@@ -1,5 +1,7 @@
 {
   "id": "preces-morning",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Morning Preces"
   },

@@ -6,6 +6,7 @@ import { Text, XStack, YStack } from 'tamagui'
 import { PageHeader, ScreenLayout } from '@/components'
 import { getEntriesByKind } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { coverFor, type TileCover } from '@/features/covers'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
@@ -16,6 +17,7 @@ type BookRow = {
   bareId: string
   title: string
   author?: string
+  cover?: TileCover
 }
 
 // A shelf of book-shaped covers. ScreenLayout caps content at 640 and pads $lg
@@ -49,6 +51,7 @@ export default function AllBooksScreen() {
         bareId: bareId(id),
         title: localizeContent(entry.name ?? entry.title ?? {}) || bareId(id),
         author: author || undefined,
+        cover: coverFor(id, entry),
       })
     }
     out.sort((a, b) => a.title.localeCompare(b.title))
@@ -84,6 +87,7 @@ export default function AllBooksScreen() {
                 subtitle={b.author}
                 image={artFor(b.id)}
                 tone={toneForKey(b.id)}
+                cover={b.cover}
                 size={size}
                 aspectRatio={1.5}
                 radius={6}

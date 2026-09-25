@@ -1,5 +1,6 @@
 {
 	"id": "spiritual-communion-opus-dei",
+	"form": "prayer",
 	"icon": "eucharist",
 	"alternativeTo": {
 		"id": "spiritual-communion",

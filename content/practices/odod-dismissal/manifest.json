@@ -1,5 +1,7 @@
 {
   "id": "odod-dismissal",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Dismissal"
   },

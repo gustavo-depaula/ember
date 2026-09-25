@@ -1,5 +1,7 @@
 {
 	"id": "collect-aid-against-perils",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Collect for Aid against all Perils"
 	},

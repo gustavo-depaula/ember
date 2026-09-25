@@ -1,5 +1,6 @@
 {
 	"id": "prayer-st-joseph",
+	"form": "prayer",
 	"alternativeTo": {
 		"id": "prayer-st-joseph",
 		"label": {

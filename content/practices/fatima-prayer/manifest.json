@@ -1,5 +1,6 @@
 {
 	"id": "fatima-prayer",
+	"form": "prayer",
 	"name": {
 		"en-US": "Fatima Prayer",
 		"pt-BR": "Oração de Fátima",

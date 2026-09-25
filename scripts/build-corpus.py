@@ -303,6 +303,11 @@ def build_practices(b: Builder) -> None:
             catalog_entry["tags"] = manifest_data["tags"]
         if "categories" in manifest_data and isinstance(manifest_data["categories"], list):
             catalog_entry["tags"] = list(set((catalog_entry.get("tags") or []) + manifest_data["categories"]))
+        # Tile hints: which card a tile draws (prayer vs practice, liturgical
+        # prayers as a breviary page) and the minutes line, without a manifest fetch.
+        for key in ("form", "liturgical", "estimatedMinutes"):
+            if key in manifest_data:
+                catalog_entry[key] = manifest_data[key]
         b.add_catalog(f"practice/{pid}", catalog_entry)
 
 
@@ -812,6 +817,8 @@ def build_books(b: Builder) -> None:
             catalog_entry["langs"] = meta["languages"]
         if "tags" in meta:
             catalog_entry["tags"] = meta["tags"]
+        if "cover" in meta:
+            catalog_entry["cover"] = meta["cover"]
         b.add_catalog(f"book/{bid}", catalog_entry)
 
 

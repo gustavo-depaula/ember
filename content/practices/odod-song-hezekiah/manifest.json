@@ -1,5 +1,7 @@
 {
   "id": "odod-song-hezekiah",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "The Song of Hezekiah"
   },

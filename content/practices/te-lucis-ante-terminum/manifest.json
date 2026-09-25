@@ -1,5 +1,7 @@
 {
 	"id": "te-lucis-ante-terminum",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Te Lucis Ante Terminum"
 	},

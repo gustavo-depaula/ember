@@ -1,5 +1,7 @@
 {
   "id": "odod-lauda-anima-mea",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Lauda, anima mea (Psalm 146)"
   },

@@ -1,5 +1,7 @@
 {
 	"id": "confession-compline",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Confession"
 	},

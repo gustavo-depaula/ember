@@ -1,5 +1,7 @@
 {
 	"id": "jubilate",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Jubilate Deo"
 	},

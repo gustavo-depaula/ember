@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-montfort",
+	"form": "prayer",
 	"icon": "mary",
 	"alternativeTo": {
 		"id": "morning-offering",

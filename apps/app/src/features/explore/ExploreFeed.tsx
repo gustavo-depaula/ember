@@ -8,6 +8,7 @@ import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
+import { coverFor } from '@/features/covers'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { todayKey, useSaintOfDayBookImage, useSaintOfDayIndex } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
@@ -15,7 +16,6 @@ import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason, type LiturgicalCalendarForm } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/mass-of/use-gospel-of-the-day'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-
 import { ArtCarousel } from './ArtCarousel'
 import { ArtCoverCard } from './ArtCoverCard'
 import { artFor } from './artMap'
@@ -206,6 +206,7 @@ export function ExploreFeed() {
               subtitle={entry.author ? localizeContent(entry.author) : undefined}
               image={artFor(id)}
               tone={toneForKey(id)}
+              cover={coverFor(id, entry)}
               size={118}
               aspectRatio={1.5}
               radius={4}

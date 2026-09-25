@@ -1,5 +1,6 @@
 {
 	"id": "three-oclock-prayer",
+	"form": "prayer",
 	"icon": "mercy",
 	"name": {
 		"en-US": "Three O'Clock Prayer",

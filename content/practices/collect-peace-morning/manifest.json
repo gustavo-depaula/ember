@@ -1,5 +1,7 @@
 {
 	"id": "collect-peace-morning",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Collect for Peace"
 	},

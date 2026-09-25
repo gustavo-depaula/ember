@@ -1,5 +1,6 @@
 {
 	"id": "act-consecration-sacred-heart",
+	"form": "prayer",
 	"icon": "sacred-heart",
 	"name": {
 		"en-US": "Act of Consecration to the Sacred Heart",

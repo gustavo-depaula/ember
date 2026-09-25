@@ -1,5 +1,7 @@
 {
 	"id": "verbum-supernum",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Verbum Supernum",

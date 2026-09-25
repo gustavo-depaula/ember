@@ -1,5 +1,7 @@
 {
 	"id": "benedictus",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Benedictus",
 		"pt-BR": "Benedictus",

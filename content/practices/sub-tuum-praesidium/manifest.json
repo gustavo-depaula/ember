@@ -1,5 +1,7 @@
 {
 	"id": "sub-tuum-praesidium",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Sub Tuum Praesidium",
 		"pt-BR": "Sub Tuum Praesidium",

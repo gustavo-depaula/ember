@@ -1,5 +1,7 @@
 {
 	"id": "regina-caeli",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "mary",
 	"name": {
 		"en-US": "Regina Caeli",

@@ -59,6 +59,7 @@ export const headingFont = createFont({
   },
   face: {
     400: { normal: 'Cinzel_400Regular' },
+    600: { normal: 'Cinzel_600SemiBold' },
     700: { normal: 'Cinzel_700Bold' },
   },
 })

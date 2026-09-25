@@ -1,5 +1,7 @@
 {
 	"id": "hail-holy-queen",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Hail, Holy Queen",
 		"pt-BR": "Salve Rainha",

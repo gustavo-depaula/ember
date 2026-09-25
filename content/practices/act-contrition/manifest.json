@@ -1,5 +1,6 @@
 {
 	"id": "act-contrition",
+	"form": "prayer",
 	"alternativeTo": {
 		"id": "act-contrition",
 		"label": {

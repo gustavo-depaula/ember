@@ -1,5 +1,6 @@
 {
 	"id": "three-hail-marys-opus-dei",
+	"form": "prayer",
 	"icon": "rosary",
 	"alternativeTo": {
 		"id": "three-hail-marys",

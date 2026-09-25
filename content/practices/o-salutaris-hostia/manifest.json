@@ -1,5 +1,7 @@
 {
 	"id": "o-salutaris-hostia",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "O Salutaris Hostia",
 		"pt-BR": "Ó Sagrada Hóstia",

@@ -8,7 +8,7 @@ import { featureFlags } from 'react-native-screens'
 featureFlags.experiment.iosPreventReattachmentOfDismissedScreens = true
 featureFlags.experiment.ios26AllowInteractionsDuringTransition = true
 
-import { Cinzel_400Regular, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
+import { Cinzel_400Regular, Cinzel_600SemiBold, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
 import { CormorantGaramond_400Regular } from '@expo-google-fonts/cormorant-garamond'
 import { CrimsonPro_400Regular } from '@expo-google-fonts/crimson-pro'
 import {
@@ -122,6 +122,7 @@ export default function RootLayout() {
 
   const [fontsLoaded] = useFonts({
     Cinzel_400Regular,
+    Cinzel_600SemiBold,
     Cinzel_700Bold,
     EBGaramond_400Regular,
     EBGaramond_400Regular_Italic,

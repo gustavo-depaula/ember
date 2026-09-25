@@ -1,5 +1,7 @@
 {
   "id": "odod-versicles-closing",
+  "form": "prayer",
+  "liturgical": true,
   "name": {
     "en-US": "Versicles"
   },

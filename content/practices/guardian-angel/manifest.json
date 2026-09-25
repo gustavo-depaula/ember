@@ -1,5 +1,6 @@
 {
 	"id": "guardian-angel",
+	"form": "prayer",
 	"icon": "angel",
 	"name": {
 		"en-US": "Guardian Angel Prayer",

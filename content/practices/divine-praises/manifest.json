@@ -1,5 +1,7 @@
 {
 	"id": "divine-praises",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "The Divine Praises",
 		"pt-BR": "Louvores Divinos",

@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-faustina",
+	"form": "prayer",
 	"icon": "divine-mercy",
 	"alternativeTo": {
 		"id": "morning-offering",

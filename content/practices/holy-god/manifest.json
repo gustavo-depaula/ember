@@ -1,5 +1,7 @@
 {
 	"id": "holy-god",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Holy God",
 		"pt-BR": "Santo Deus",

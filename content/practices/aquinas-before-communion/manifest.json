@@ -1,5 +1,6 @@
 {
 	"id": "aquinas-before-communion",
+	"form": "prayer",
 	"icon": "eucharist",
 	"name": {
 		"en-US": "Prayer Before Communion (Aquinas)",

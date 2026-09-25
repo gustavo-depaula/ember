@@ -1,5 +1,6 @@
 {
 	"id": "grace-meals",
+	"form": "prayer",
 	"icon": "prayer",
 	"name": {
 		"en-US": "Grace Before & After Meals",

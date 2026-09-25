@@ -1,5 +1,7 @@
 {
 	"id": "apostles-creed",
+	"form": "prayer",
+	"liturgical": true,
 	"name": {
 		"en-US": "Apostles' Creed",
 		"pt-BR": "Credo dos Apóstolos",

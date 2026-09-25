@@ -1,5 +1,7 @@
 {
 	"id": "litany-saints",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "prayer",
 	"name": {
 		"en-US": "Litany of All Saints",

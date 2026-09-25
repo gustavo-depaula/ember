@@ -1,5 +1,6 @@
 {
 	"id": "prayer-st-michael",
+	"form": "prayer",
 	"icon": "angel",
 	"name": {
 		"en-US": "Prayer to St. Michael",

@@ -1,5 +1,6 @@
 {
 	"id": "morning-offering-suscipe",
+	"form": "prayer",
 	"icon": "scroll",
 	"alternativeTo": {
 		"id": "morning-offering",

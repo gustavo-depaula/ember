@@ -1,5 +1,7 @@
 {
 	"id": "litany-holy-name",
+	"form": "prayer",
+	"liturgical": true,
 	"icon": "prayer",
 	"name": {
 		"en-US": "Litany of the Holy Name of Jesus",

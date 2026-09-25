@@ -4,11 +4,12 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, StyleSheet, useWindowDimensions } from 'react-native'
 import Animated, { type SharedValue, useAnimatedStyle } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 
 import { GlassCircle, textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
 import { ZoomLink } from '@/components/ZoomLink'
+import { BookCover, type BookCoverFormat } from '@/features/covers'
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 
 export function BookHero({
@@ -16,6 +17,7 @@ export function BookHero({
   author,
   ctaLabel,
   tone,
+  format,
   scrollY,
   readHref,
 }: {
@@ -23,6 +25,8 @@ export function BookHero({
   author?: string
   ctaLabel: string
   tone: BlockTone
+  /** The book's generated cover, stood in the middle of the hero. */
+  format: BookCoverFormat
   scrollY: SharedValue<number>
   /** Reader route — wrapped in Link.AppleZoom so the capsule morphs into the reader. */
   readHref: Href
@@ -32,9 +36,12 @@ export function BookHero({
   const insets = useSafeAreaInsets()
   const { height: windowHeight } = useWindowDimensions()
   const heroHeight = Math.round(windowHeight * 0.5) + insets.top
-  const initial = Array.from(name.trim())[0]?.toUpperCase() ?? '✠'
+  // What's left after the back button, the title block, and the capsule's overlap.
+  const coverWidth = Math.round(
+    Math.min(180, Math.max(110, (heroHeight - insets.top - 56 - 120 - 40) / 1.5)),
+  )
 
-  // Pull-down (scrollY < 0) grows the versal to fill the overscroll, anchored to
+  // Pull-down (scrollY < 0) grows the tone to fill the overscroll, anchored to
   // the top, rather than revealing the page background above it.
   const stretch = useAnimatedStyle(() => {
     const y = scrollY.value
@@ -46,19 +53,17 @@ export function BookHero({
     <YStack
       height={heroHeight}
       backgroundColor={tone.from}
-      justifyContent="space-between"
       overflow="visible"
       // Lift above the opaque content column so the floating capsule isn't
       // painted over by the column below.
       zIndex={1}
     >
-      <Animated.View style={[StyleSheet.absoluteFill, stretch, styles.versal]} pointerEvents="none">
-        <Text fontFamily="$title" fontSize={200} lineHeight={220} color={blockInk} opacity={0.12}>
-          {initial}
-        </Text>
-      </Animated.View>
+      <Animated.View
+        style={[StyleSheet.absoluteFill, stretch, { backgroundColor: tone.from }]}
+        pointerEvents="none"
+      />
 
-      <YStack padding="$md" paddingTop={insets.top + 8}>
+      <YStack position="absolute" top={insets.top + 8} left="$md" zIndex={2}>
         <GlassCircle
           onPress={() => (router.canGoBack() ? router.back() : router.push('/'))}
           accessibilityLabel={t('a11y.goBack')}
@@ -67,29 +72,40 @@ export function BookHero({
         </GlassCircle>
       </YStack>
 
-      <YStack padding="$lg" gap="$xs">
-        <Typography
-          variant="sacred-title"
-          textAlign="left"
-          color={blockInk}
-          fontSize={32}
-          lineHeight={36}
-          numberOfLines={3}
-          style={textShadow}
-        >
-          {name}
-        </Typography>
-        {author && (
+      <YStack
+        flex={1}
+        alignItems="center"
+        justifyContent="flex-end"
+        gap="$md"
+        paddingTop={insets.top + 56}
+        paddingHorizontal="$lg"
+        paddingBottom={40}
+      >
+        <BookCover title={name} author={author} tone={tone} format={format} width={coverWidth} />
+        <YStack alignItems="center" gap="$xs">
           <Typography
-            variant="marker"
-            textAlign="left"
-            color={blockLabelInk}
-            fontSize="$2"
+            variant="sacred-title"
+            textAlign="center"
+            color={blockInk}
+            fontSize={26}
+            lineHeight={30}
+            numberOfLines={2}
             style={textShadow}
           >
-            {author}
+            {name}
           </Typography>
-        )}
+          {author && (
+            <Typography
+              variant="marker"
+              textAlign="center"
+              color={blockLabelInk}
+              fontSize="$2"
+              style={textShadow}
+            >
+              {author}
+            </Typography>
+          )}
+        </YStack>
       </YStack>
 
       <ZoomLink href={readHref}>
@@ -120,6 +136,5 @@ export function BookHero({
 }
 
 const styles = StyleSheet.create({
-  versal: { alignItems: 'center', justifyContent: 'center' },
   capsuleWrap: { position: 'absolute', bottom: -22, alignSelf: 'center' },
 })
