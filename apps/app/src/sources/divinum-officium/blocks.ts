@@ -44,8 +44,22 @@ function splitNote(text: string): { text: string; note?: string } {
   return note ? { text: m[1], note } : { text: m[1] }
 }
 
+// DO's last pass before print (webdia.pl): '_' joins words that must stay
+// together ('Cântico de_Simeão'), {:…:} are anchors, a backtick is an editor's
+// accent mark and waitN a pause code. None is shown. A lone '_' line is a
+// divider and is classified before this runs.
+function cleanLine(line: string): string {
+  return line
+    .replace(/_/g, ' ')
+    .replace(/\{:.*?:\}/g, '')
+    .replace(/`/g, '')
+    .replace(/wait\d+/gi, '')
+}
+
 function classify(raw: string): Line {
-  const line = raw.replace(/\s+$/, '')
+  const trimmed = raw.replace(/\s+$/, '')
+  if (/^_\s*$/.test(trimmed)) return { kind: 'divider', text: '' }
+  const line = cleanLine(trimmed)
   if (line.startsWith('#')) return { kind: 'head', text: line.replace(/^#+\s*/, '') }
   if (line.startsWith('!!')) return { kind: 'heading', text: line.slice(2).replace(/^#+\s*/, '') }
   // A rubric line is rubric-toned throughout, so its inline '/:…:/' rubric

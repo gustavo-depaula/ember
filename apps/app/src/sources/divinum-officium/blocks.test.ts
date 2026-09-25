@@ -146,6 +146,15 @@ describe('mapItemsToPrimitives', () => {
     ])
   })
 
+  it("prints DO's word-joining underscores as spaces", () => {
+    const out = mapItemsToPrimitives(['!Cântico de_Simeão\n_\nAgora, Senhor.'])
+    expect(out).toEqual([
+      { type: 'rubric', text: { primary: 'Cântico de Simeão' } },
+      { type: 'divider' },
+      { type: 'text', markup: 'do', text: { primary: 'Agora, Senhor.' } },
+    ])
+  })
+
   it('drops inline rubric markers from a rubric line', () => {
     const out = mapItemsToPrimitives(['!/:«Pai Nosso» é dito em segredo:/'])
     expect(out).toEqual([{ type: 'rubric', text: { primary: '«Pai Nosso» é dito em segredo' } }])
