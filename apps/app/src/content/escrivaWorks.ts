@@ -46,6 +46,9 @@ export type EscrivaWork = {
   /** Books of numbered maxims (The Way / Furrow / The Forge): show each
    *  chapter's point-number range in the table of contents. */
   maxims?: boolean
+  /** Generated-cover binding, shared within a family of works: the points
+   *  trilogy, the homilies, the devotions, the letters. */
+  cover: 'watermark' | 'arch' | 'gilt' | 'quarter'
 }
 
 const en = (bookId: number, group: EscrivaBookGroup): EscrivaLangSource => ({
@@ -62,6 +65,7 @@ const pt = (bookId: number, group: EscrivaBookGroup): EscrivaLangSource => ({
 export const escrivaWorks: EscrivaWork[] = [
   {
     slug: 'escriva-the-way',
+    cover: 'watermark',
     name: { 'en-US': 'The Way', 'pt-BR': 'Caminho' },
     description: {
       'en-US':
@@ -74,6 +78,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-furrow',
+    cover: 'watermark',
     name: { 'en-US': 'Furrow', 'pt-BR': 'Sulco' },
     description: {
       'en-US': 'A sequel to The Way — 1,000 points furrowing the soul for an apostolic harvest.',
@@ -85,6 +90,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-the-forge',
+    cover: 'watermark',
     name: { 'en-US': 'The Forge', 'pt-BR': 'Forja' },
     description: {
       'en-US': 'The third book of points — the soul forged in the fire of the love of God.',
@@ -95,6 +101,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-christ-is-passing-by',
+    cover: 'arch',
     name: { 'en-US': 'Christ Is Passing By', 'pt-BR': 'É Cristo que Passa' },
     description: {
       'en-US': 'Eighteen homilies on the liturgical year and the Christian’s calling in the world.',
@@ -104,6 +111,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-friends-of-god',
+    cover: 'arch',
     name: { 'en-US': 'Friends of God', 'pt-BR': 'Amigos de Deus' },
     description: {
       'en-US': 'Eighteen homilies on the human virtues, work, and friendship with God.',
@@ -113,6 +121,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-in-love-with-the-church',
+    cover: 'arch',
     name: { 'en-US': 'In Love with the Church', 'pt-BR': 'Amar a Igreja' },
     description: {
       'en-US': 'Homilies on loyalty to and love for the Church and her supernatural mission.',
@@ -122,6 +131,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-conversations',
+    cover: 'quarter',
     name: {
       'en-US': 'Conversations',
       'pt-BR': 'Entrevistas com Mons. Josemaria Escrivá',
@@ -136,6 +146,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-in-dialogue-with-the-lord',
+    cover: 'arch',
     name: { 'pt-BR': 'Em Diálogo com o Senhor' },
     description: {
       'pt-BR': 'Textos de oração de Escrivá, em diálogo confiante com o Senhor.',
@@ -144,6 +155,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-holy-rosary',
+    cover: 'gilt',
     name: { 'en-US': 'Holy Rosary', 'pt-BR': 'Santo Rosário' },
     description: {
       'en-US': 'Escrivá’s contemplative guide through the mysteries — “to become little.”',
@@ -153,6 +165,7 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-the-way-of-the-cross',
+    cover: 'gilt',
     name: { 'en-US': 'The Way of the Cross', 'pt-BR': 'Via Sacra' },
     description: {
       'en-US': 'Fourteen stations with points for meditation, walking the road to Calvary.',
@@ -162,18 +175,21 @@ export const escrivaWorks: EscrivaWork[] = [
   },
   {
     slug: 'escriva-letters-1',
+    cover: 'quarter',
     name: { 'pt-BR': 'Cartas (I)' },
     description: { 'pt-BR': 'Cartas pastorais de São Josemaria — primeiro volume.' },
     sources: { 'pt-BR': pt(461, 'cartas') },
   },
   {
     slug: 'escriva-letters-2',
+    cover: 'quarter',
     name: { 'pt-BR': 'Cartas (II)' },
     description: { 'pt-BR': 'Cartas pastorais de São Josemaria — segundo volume.' },
     sources: { 'pt-BR': pt(462, 'cartas') },
   },
   {
     slug: 'escriva-letter-29',
+    cover: 'quarter',
     name: { 'pt-BR': 'Carta 29' },
     description: { 'pt-BR': 'Carta pastoral de São Josemaria.' },
     sources: { 'pt-BR': pt(510, 'cartas') },
