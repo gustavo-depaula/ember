@@ -4,8 +4,11 @@
 // simple ones in use translate directly to JS. A pattern JS can't compile is a
 // data/upstream problem and throws.
 
-const subRegex =
-  /(?:s\/(?<s>[^/]*)\/(?<r>[^/]*)\/(?<f>[gism]*))|(?:(?<n>!?)(?<b>\d+)(-(?<e>\d+))?)/g
+// Positional groups, not named: Hermes leaves `groups` undefined on matchAll
+// results, which silently dropped every substitution on device while Node
+// (and so every test) applied them. Groups: 1 pattern, 2 replacement,
+// 3 flags | 4 negation, 5 first line, 6 last line.
+const subRegex = /(?:s\/([^/]*)\/([^/]*)\/([gism]*))|(?:(!?)(\d+)(?:-(\d+))?)/g
 
 // Perl's `$` without /m matches at end-of-string OR just before a final
 // newline; JS's matches only at the absolute end. Rewrite unescaped `$`
@@ -37,7 +40,7 @@ function toJsPattern(pattern: string, flags: string): string {
 export function applyInclusionSubstitutions(text: string, subs: string): string {
   let out = text
   for (const m of subs.matchAll(subRegex)) {
-    const g = m.groups ?? {}
+    const g = { s: m[1], r: m[2], f: m[3], n: m[4], b: m[5], e: m[6] }
     if (g.b) {
       const start = Number(g.b) - 1
       const count = g.e ? Number(g.e) - start : 1

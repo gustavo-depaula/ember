@@ -42,6 +42,39 @@ const ordinals = [
   'tricésima',
 ]
 
+const ordinalsPt = [
+  'primeira',
+  'segunda',
+  'terceira',
+  'quarta',
+  'quinta',
+  'sexta',
+  'sétima',
+  'oitava',
+  'nona',
+  'décima',
+  'undécima',
+  'duodécima',
+  'décima terceira',
+  'décima quarta',
+  'décima quinta',
+  'décima sexta',
+  'décima sétima',
+  'décima oitava',
+  'décima nona',
+  'vigésima',
+  'vigésima primeira',
+  'vigésima segunda',
+  'vigésima terceira',
+  'vigésima quarta',
+  'vigésima quinta',
+  'vigésima sexta',
+  'vigésima sétima',
+  'vigésima oitava',
+  'vigésima nona',
+  'trigésima',
+]
+
 const monthsEn = [
   'January',
   'February',
@@ -115,14 +148,15 @@ export function lunaDay(month: number, day: number, year: number): number {
   return luna
 }
 
-// Port of _luna — the dated heading line. Only the Latin and the default
-// (English) branches are ported; DO's other vernaculars are out of v1 scope.
+// Port of _luna — the dated heading line. Only the Latin, Portuguese and the
+// default (English) branches are ported; DO's other vernaculars are out of scope.
 export function luna(month: number, day: number, year: number, lang: string): string {
   const lday = lunaDay(month, day, year)
 
   if (/Latin/i.test(lang)) {
     return `Luna ${ordinals[lday - 1]}. Anno Dómini ${year}\n`
   }
+  if (/Portugues/.test(lang)) return `Lua ${ordinalsPt[lday - 1]}. Ano do Senhor de ${year}`
   return `${monthsEn[month - 1]} ${day}${numberSuffix(day)} ${year}, the ${lday}${numberSuffix(lday)} day of the Moon,`
 }
 
@@ -201,10 +235,16 @@ export async function martyrologium(state: HoursState, lang: string): Promise<st
       // line is found (the loop falls through, including on the first '_'
       // separator), prepend it instead.
       const dateLine = /^Upon the \d+ ?.. day of \S+/i
+      const dateLinePt = /^((?:Nas?|Nos?) .*(?:Calendas|Nonas|Idos) de \S+\.)$/
       let found = false
       for (let i = 0; i < lines.length; i++) {
         if (dateLine.test(lines[i])) {
           lines[i] = lines[i].replace(dateLine, `${lunaStr} `)
+          found = true
+          break
+        }
+        if (dateLinePt.test(lines[i])) {
+          lines[i] = lines[i].replace(dateLinePt, (_, date) => `${date} ${lunaStr}`)
           found = true
           break
         }

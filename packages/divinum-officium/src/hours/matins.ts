@@ -1065,7 +1065,7 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
     (!/196/.test(version) &&
       !/C10/.test(state.day.commune) &&
       !/no93/i.test(rule) &&
-      !/Octav.*(Epi|Corp)/i.test(state.day.winnerSections.Rank ?? '') &&
+      !/Octav.*(Epiphan|Corp)/i.test(state.day.winnerSections.Rank ?? '') &&
       ((/9 lectio/i.test(rule) &&
         n === 9 &&
         !(
@@ -1170,7 +1170,7 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
     if (
       !L9winnerflag &&
       ((/sancti/i.test(state.day.commemoratio) &&
-        /S\. /i.test(state.day.commemoratioSections.Rank ?? '')) ||
+        /[SB]\. /i.test(state.day.commemoratioSections.Rank ?? '')) ||
         /infra octavam/i.test(state.day.commemoratioSections.Rank ?? '')) &&
       (!/tempora/i.test(state.day.winner) ||
         num((state.day.winnerSections.Rank ?? '').split(';;')[2]) < 5) &&
@@ -1237,7 +1237,10 @@ export async function lectioFn(state: HoursState, numIn: number, lang: string): 
         }
       }
     }
-    if (/Octav.*(Epi|Corp)/i.test(state.day.winnerSections.Rank ?? '') && !/!.*Vigil/i.test(text)) {
+    if (
+      /Octav.*(Epiphan|Corp)/i.test(state.day.winnerSections.Rank ?? '') &&
+      !/!.*Vigil/i.test(text)
+    ) {
       text = wo
     }
   }
