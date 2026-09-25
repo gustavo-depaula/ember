@@ -63,3 +63,4 @@ Square, cream grounds with color only in thin details — the inverse of practic
 
 - `formats.html?f=classic,gilt,…&flat=1`
 - `practices.html?f=<keys>&mixed=1&family=1` — keys: `medal niche ribbon vigil glass quatre gloria frontal orphrey trip hours leaf ordo scap stock holy page seal`
+- `collections.html?s=library,devotion,rule,articles,context` — context picks with `&l=boxed&d=packet&r=ordo&a=pamph` (collection candidates L1–L3 / D1–D3 / R1–R3, article candidates A1–A4; undecided)

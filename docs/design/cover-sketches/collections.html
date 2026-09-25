@@ -1,0 +1,250 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- Collection and article (chapter) cover candidates. ?s=library,devotion,rule,articles,context -->
+<style>
+@font-face{font-family:Garamond;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular/EBGaramond_400Regular.ttf)}
+@font-face{font-family:Garamond;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/600SemiBold/EBGaramond_600SemiBold.ttf)}
+@font-face{font-family:Garamond;font-style:italic;src:url(../../../node_modules/@expo-google-fonts/eb-garamond/400Regular_Italic/EBGaramond_400Regular_Italic.ttf)}
+@font-face{font-family:Cinzel;src:url(../../../node_modules/@expo-google-fonts/cinzel/400Regular/Cinzel_400Regular.ttf)}
+@font-face{font-family:Cinzel;font-weight:600;src:url(../../../node_modules/@expo-google-fonts/cinzel/600SemiBold/Cinzel_600SemiBold.ttf)}
+@font-face{font-family:Fraktur;src:url(../../../apps/app/assets/fonts/UnifrakturMaguntia-Book.ttf)}
+*{box-sizing:border-box;margin:0}
+:root{--gold:#E8C97A;--cream:#F5EFE2;--paper:#F3EAD6;--paper2:#E6D8BC;--vellum:#FBF5E8;--inkd:#2a1f16;--soft:#5B4A38;--rubric:#9B2226}
+body{background:#1a1a18;color:var(--cream);font-family:Garamond;padding:24px 32px;width:1180px}
+h2{font-family:Cinzel;font-weight:400;font-size:13px;letter-spacing:3px;color:#8f877a;padding:18px 0 4px;border-bottom:1px solid #2a2a27}
+.fmt{display:grid;grid-template-columns:230px 1fr;gap:20px;align-items:center;padding:22px 0;border-bottom:1px solid #2a2a27}
+.lbl h3{font-family:Cinzel;font-weight:400;font-size:17px;letter-spacing:2px;color:var(--gold)}
+.lbl .k{font-family:Cinzel;font-size:11px;letter-spacing:2px;color:#8f877a;margin-top:4px}
+.lbl p{font-size:14px;color:#a79f90;margin-top:6px;line-height:1.4}
+.row{display:flex;gap:26px;align-items:flex-end}
+.tile{--w:150px;width:var(--w);height:var(--w);position:relative;flex:none;color:var(--cream);font-size:calc(var(--w)*.01)}
+.art .tile{height:calc(var(--w)*1.3)}
+.t{font-weight:600;line-height:1.1}
+.kick{font-family:Cinzel;font-size:4.2em;letter-spacing:.2em;white-space:nowrap}
+.center{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.shadow{filter:drop-shadow(0 calc(var(--w)*.03) calc(var(--w)*.04) rgba(0,0,0,.4))}
+.cloth{background:linear-gradient(155deg,var(--from),var(--to))}
+.sheen::after{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;background:linear-gradient(180deg,rgba(255,255,255,.07),rgba(255,255,255,0) 40%,rgba(0,0,0,.14))}
+.hinge::before{content:"";position:absolute;inset:0;z-index:3;border-radius:inherit;pointer-events:none;background:linear-gradient(90deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.18) 3.2%,rgba(255,255,255,.16) 4.4%,rgba(255,255,255,.05) 6.2%,rgba(0,0,0,.22) 7.4%,rgba(0,0,0,.06) 9.5%,rgba(0,0,0,0) 13%,rgba(0,0,0,0) 94%,rgba(0,0,0,.12) 100%)}
+.lace{position:absolute;inset:0;background:radial-gradient(circle,var(--lace) 52%,transparent 56%) 0 0/6.25em 6.25em}
+.lace::after{content:'';position:absolute;inset:3.1em;background:var(--lace);border-radius:1em}
+
+/* ───── LIBRARY: an author's works, a series ───── */
+/* L1 BOXED SET — the open side of a slipcase: the volumes' spines in a row */
+.boxed .case{position:absolute;inset:3% 5%;border-radius:2.4em;box-shadow:inset 0 0 0 1px rgba(255,255,255,.08)}
+.boxed .slot{position:absolute;left:11%;right:11%;top:9%;height:50%;border-radius:1.2em;background:rgba(0,0,0,.5);box-shadow:inset 0 1.5em 2.5em rgba(0,0,0,.7);
+  display:flex;gap:1em;padding:2.2em 1.6em 0;align-items:flex-end;overflow:hidden}
+.boxed .sp{flex:1;height:100%;border-radius:.9em .9em 0 0;position:relative;
+  background:linear-gradient(90deg,rgba(0,0,0,.35),rgba(255,255,255,.1) 35%,rgba(0,0,0,.05) 60%,rgba(0,0,0,.4)),var(--s)}
+.boxed .sp::before,.boxed .sp::after{content:"";position:absolute;left:12%;right:12%;height:.9em;background:var(--gold);opacity:.85}
+.boxed .sp::before{top:10%}.boxed .sp::after{bottom:14%}
+.boxed .sp i{position:absolute;left:14%;right:14%;top:24%;height:24%;background:rgba(20,10,5,.55);border:1px solid rgba(232,201,122,.6);
+  font:normal 4em/1 Cinzel;color:var(--gold);display:flex;align-items:center;justify-content:center}
+.boxed .txt{position:absolute;left:11%;right:11%;top:62%;bottom:9%;gap:2.6em}
+.boxed .t{font-size:11em}.boxed .kick{color:var(--gold);opacity:.8;font-size:3.8em}
+
+/* L2 SLIPCASE — the closed side, two volumes riding up out of the mouth */
+.slip .vol{position:absolute;top:var(--y);height:30%;width:37%;border-radius:1em 1em 0 0;
+  background:linear-gradient(90deg,rgba(0,0,0,.3),rgba(255,255,255,.12) 8%,rgba(0,0,0,0) 20%),var(--s)}
+.slip .vol::before{content:"";position:absolute;left:10%;right:10%;top:18%;height:1px;background:var(--gold);opacity:.8}
+.slip .case{position:absolute;left:6%;right:6%;top:17%;bottom:3%;border-radius:1em 1em 2.4em 2.4em;overflow:hidden}
+.slip .case::before{content:"";position:absolute;left:0;right:0;top:0;height:6%;background:linear-gradient(180deg,rgba(0,0,0,.55),transparent)}
+.slip .frame{position:absolute;inset:11% 9% 9%;border:1px solid rgba(232,201,122,.45);outline:1px solid rgba(232,201,122,.2);outline-offset:-2.4em}
+.slip .lab{position:absolute;left:14%;right:14%;top:22%;bottom:17%;gap:3em}
+.slip .t{font-size:11.5em}.slip .r{width:26%;height:1px;background:var(--gold);opacity:.7}.slip .kick{color:var(--gold);font-size:3.8em;opacity:.85}
+
+/* L3 EX LIBRIS — a bookplate pasted on the cloth: "from the library of…" */
+.exlib{border-radius:2em;overflow:hidden}
+.exlib .weave{position:absolute;inset:0;opacity:.18;background:repeating-linear-gradient(0deg,rgba(255,255,255,.35) 0 .5em,transparent .5em 1.4em),repeating-linear-gradient(90deg,rgba(0,0,0,.4) 0 .5em,transparent .5em 1.4em)}
+.exlib .plate{position:absolute;inset:12% 13%;background:linear-gradient(180deg,var(--vellum),#EDE0C4);color:var(--inkd);border-radius:1em;box-shadow:0 1em 2em rgba(0,0,0,.35);gap:2.4em;padding:0 7%}
+.exlib .plate::before{content:"";position:absolute;inset:3em;border:1.3em double var(--from);border-radius:.6em;opacity:.8}
+.exlib .kick{font-size:3.6em;color:var(--from)}
+.exlib .t{font-size:11em;color:var(--inkd)}
+.exlib .n{font-family:Cinzel;font-size:3.6em;letter-spacing:.2em;color:var(--rubric)}
+.exlib .x{width:8em;height:8em;color:var(--rubric)}
+
+/* ───── DEVOTION: a gathering of prayers ───── */
+/* D1 PACKET — holy cards fanned: two colored ones behind, the cream one on top */
+.packet .card{position:absolute;inset:13% 15%;border-radius:1em}
+.packet .card.b1{transform:rotate(-15deg) translate(-9%,2%);--lace:var(--to)}
+.packet .card.b2{transform:rotate(13deg) translate(10%,3%);--lace:var(--from)}
+.packet .card.top{--lace:var(--paper)}
+.packet .card .lace{background-size:5.6em 5.6em}
+.packet .in{position:absolute;inset:9%;border:1.2em solid var(--from);border-radius:2em;background:linear-gradient(180deg,var(--vellum),#EFE3C9);color:var(--inkd);gap:3em;padding:0 8%}
+.packet .t{font-size:10.5em}.packet .kick{font-size:3.6em;color:var(--from)}
+
+/* D2 BUNDLE — a stack of cards tied with a silk ribbon */
+.bundle .c{position:absolute;left:12%;top:10%;width:72%;height:74%;border-radius:1.2em;box-shadow:0 .4em .8em rgba(0,0,0,.35)}
+.bundle .top{background:linear-gradient(180deg,var(--vellum),#EDE0C4);color:var(--inkd)}
+.bundle .top::before{content:"";position:absolute;inset:2.4em;border:1px solid color-mix(in srgb,var(--from) 55%,transparent);border-radius:.8em}
+.bundle .rv{position:absolute;left:27%;width:9%;top:8%;bottom:14%;background:linear-gradient(90deg,var(--to),var(--from) 50%,var(--to));box-shadow:0 0 .5em rgba(0,0,0,.4)}
+.bundle .rh{position:absolute;top:27%;height:9%;left:10%;right:14%;background:linear-gradient(180deg,var(--to),var(--from) 50%,var(--to));box-shadow:0 0 .5em rgba(0,0,0,.4)}
+.bundle .loop{position:absolute;width:15%;height:11%;border:2.4em solid var(--from);border-radius:50%;top:24%}
+.bundle .knot{position:absolute;left:28%;top:28.5%;width:7%;height:6%;border-radius:1em;background:var(--from);box-shadow:inset 0 0 0 .6em rgba(0,0,0,.25)}
+.bundle .tail{position:absolute;width:5%;height:15%;background:var(--from);top:34%;clip-path:polygon(0 0,100% 0,100% 100%,50% 82%,0 100%)}
+.bundle .txt{position:absolute;left:40%;right:19%;top:40%;bottom:19%;align-items:flex-start;text-align:left;gap:2.6em}
+.bundle .txt{color:var(--inkd)}.bundle .t{font-size:9em}.bundle .kick{font-size:3.6em;color:var(--from)}
+
+/* D3 TUCKED MISSAL — a missal fat with holy cards, their lace tops showing */
+.tucked .peek{position:absolute;top:var(--y);left:var(--x);width:22%;height:24%;transform:rotate(var(--r));border-radius:.8em;--lace:var(--c)}
+.tucked .peek .lace{background-size:4.6em 4.6em}
+.tucked .book{position:absolute;left:14%;right:14%;top:17%;bottom:2%;border-radius:.6em 2em 2em .6em;overflow:hidden;box-shadow:0 1em 2em rgba(0,0,0,.4)}
+.tucked .book .f{position:absolute;inset:7% 8% 7% 16%;border:1px solid rgba(232,201,122,.45);gap:3em;padding:0 6%}
+.tucked .x{width:9em;height:9em;color:var(--gold)}
+.tucked .t{font-size:10.5em}.tucked .kick{font-size:3.4em;color:var(--gold);opacity:.8}
+
+/* ───── RULE: a rhythm, not a pile ───── */
+/* R1 ORDO — a page of the calendar: tone heading, entries in rubric */
+.ordo{background:linear-gradient(180deg,#F6EEDC,#E9DBBD);color:var(--inkd);border-radius:calc(var(--w)*.04);overflow:hidden;box-shadow:0 calc(var(--w)*.03) calc(var(--w)*.07) rgba(0,0,0,.35)}
+.ordo .head{position:absolute;left:0;right:0;top:0;height:20%;padding:0 9%;display:flex;align-items:center;justify-content:space-between}
+.ordo .head .kick{font-size:4.4em;color:var(--cream)}
+.ordo .head::after{content:"";position:absolute;left:0;right:0;bottom:-1.8em;height:.9em;background:var(--from);opacity:.7}
+.ordo .t{position:absolute;left:9%;right:9%;top:28%;font-size:11.5em;line-height:1.06}
+.ordo .rows{position:absolute;left:9%;right:9%;bottom:9%;display:flex;flex-direction:column;gap:2.6em}
+.ordo .rows div{display:flex;align-items:center;gap:3em}
+.ordo .rows b{font:normal 3.8em/1 Cinzel;letter-spacing:.15em;color:var(--rubric);width:7.5em;flex:none}
+.ordo .rows i{flex:1;height:1.1em;border-radius:1em;background:rgba(42,31,22,.18)}
+
+/* R2 RIBBONS — a thick breviary, its marker ribbons in the liturgical colors */
+.ribbons .bk{position:absolute;left:12%;right:12%;top:3%;height:74%;border-radius:.6em 2em 2em .6em;overflow:hidden;box-shadow:0 1em 2em rgba(0,0,0,.4)}
+.ribbons .bk .f{position:absolute;inset:8% 8% 8% 16%;border:1px solid rgba(232,201,122,.45);gap:3em;padding:0 6%}
+.ribbons .t{font-size:11em}.ribbons .kick{font-size:3.6em;color:var(--gold);opacity:.85}
+.ribbons .x{width:8em;height:8em;color:var(--gold)}
+.ribbons .rb{position:absolute;top:74%;width:4.4%;height:var(--h);background:linear-gradient(90deg,rgba(0,0,0,.25),rgba(255,255,255,.15) 50%,rgba(0,0,0,.25)),var(--c);
+  clip-path:polygon(0 0,100% 0,100% 100%,50% 88%,0 100%)}
+
+/* R3 HOROLOGIUM — the week as a dial; the day it keeps is lit */
+.horo{border-radius:calc(var(--w)*.09);overflow:hidden;box-shadow:0 calc(var(--w)*.04) calc(var(--w)*.09) rgba(0,0,0,.3)}
+.horo .dial{position:absolute;left:29%;top:7%;width:42%;aspect-ratio:1}
+.horo .txt{position:absolute;left:8%;right:8%;top:57%;bottom:7%;gap:2.6em}
+.horo .t{font-size:11em}.horo .kick{color:var(--gold);opacity:.8;font-size:3.8em}
+
+/* ───── ARTICLES: a chapter read on its own ───── */
+/* A1 TRACT — a single printed sheet, corner turned */
+.tract{background:linear-gradient(180deg,var(--vellum),#ECDFC3);color:var(--inkd);clip-path:polygon(0 0,86% 0,100% 11%,100% 100%,0 100%);border-radius:1.4em}
+.tract .ear{position:absolute;right:0;top:0;width:14%;height:11%;background:linear-gradient(225deg,transparent 50%,#D8C8A6 50%,#C9B891);border-radius:0 0 0 1em}
+.tract .kick{position:absolute;left:10%;top:9%;font-size:3.8em;color:var(--rubric)}
+.tract .rule{position:absolute;left:10%;right:22%;top:15%;height:1px;background:var(--rubric);opacity:.6}
+.tract .t{position:absolute;left:10%;right:10%;top:21%;font-size:12em;line-height:1.06}
+.tract .sub{position:absolute;left:10%;right:10%;top:61%;font-style:italic;font-size:6.2em;line-height:1.2;color:var(--soft)}
+.tract .min{position:absolute;left:10%;bottom:7%;font:normal 3.6em/1 Cinzel;letter-spacing:.2em;color:var(--soft)}
+.tract .fl{position:absolute;right:10%;bottom:5%;font-size:9em;color:var(--rubric)}
+
+/* A2 PERIODICAL — a journal page: masthead, title, two columns with a red initial */
+.journal{background:linear-gradient(180deg,#F6EEDC,#E7D9BB);color:var(--inkd);border-radius:1.4em;overflow:hidden}
+.journal .mast{position:absolute;left:8%;right:8%;top:6%;border-top:2px solid var(--inkd);border-bottom:1px solid var(--inkd);padding:1em 0;text-align:center;font:normal 3.4em/1 Cinzel;letter-spacing:.3em}
+.journal .t{position:absolute;left:8%;right:8%;top:17%;text-align:center;font-size:11em;line-height:1.05}
+.journal .sub{position:absolute;left:8%;right:8%;top:45%;text-align:center;font-style:italic;font-size:5.4em;color:var(--soft);line-height:1.15}
+.journal .cols{position:absolute;left:8%;right:8%;top:64%;bottom:6%;display:flex;gap:5em}
+.journal .col{flex:1;display:flex;flex-direction:column;gap:2.1em;position:relative}
+.journal .col i{height:1em;border-radius:1em;background:rgba(42,31,22,.2)}
+.journal .dc{position:absolute;left:0;top:-.6em;font:normal 12em/1 Fraktur;color:var(--rubric)}
+.journal .col i.in{margin-left:34%;width:66%!important}
+
+/* A3 PAMPHLET — a stapled paper wrapper in the tone, a printed cream panel */
+.pamph{border-radius:.8em;overflow:hidden;box-shadow:0 calc(var(--w)*.03) calc(var(--w)*.06) rgba(0,0,0,.35)}
+.pamph .grain{position:absolute;inset:0;opacity:.12;background:radial-gradient(circle at 20% 30%,#fff 0 .3em,transparent .4em) 0 0/3em 3em,radial-gradient(circle at 70% 80%,#000 0 .3em,transparent .4em) 0 0/4em 4em}
+.pamph .st{position:absolute;left:5%;width:1.2em;height:9%;background:linear-gradient(90deg,#9a9a9a,#e5e5e5,#8a8a8a);border-radius:.4em}
+.pamph .kick{position:absolute;left:0;right:0;top:8%;text-align:center;font-size:3.6em;color:var(--cream);opacity:.8}
+.pamph .panel{position:absolute;left:14%;right:10%;top:17%;bottom:20%;background:linear-gradient(180deg,var(--vellum),#EFE3C9);color:var(--inkd);border:1px solid var(--inkd);outline:1px solid rgba(245,239,226,.5);outline-offset:1.6em;gap:3em;padding:0 8%}
+.pamph .t{font-size:10.5em}.pamph .r{width:30%;height:1px;background:var(--rubric)}
+.pamph .sub{font-style:italic;font-size:5.4em;color:var(--soft);line-height:1.15}
+.pamph .min{position:absolute;left:0;right:0;bottom:8%;text-align:center;font:normal 3.6em/1 Cinzel;letter-spacing:.2em;color:var(--cream);opacity:.75}
+
+/* A4 TITLE PAGE — all typography: rules, a line of ornament, the reading time as the imprint */
+.titlepg{background:linear-gradient(180deg,var(--vellum),#EDE0C4);color:var(--inkd);border-radius:1.4em}
+.titlepg .fr{position:absolute;inset:6%;border:1px solid rgba(42,31,22,.55);outline:1px solid rgba(42,31,22,.25);outline-offset:-1.6em}
+.titlepg .body{position:absolute;inset:11% 12%;justify-content:space-between}
+.titlepg .kick{font-size:3.6em;color:var(--rubric)}
+.titlepg .t{font-family:Cinzel;font-weight:600;font-size:8.6em;line-height:1.18;letter-spacing:.04em}
+.titlepg .sub{font-style:italic;font-size:5.6em;color:var(--soft);line-height:1.18}
+.titlepg .orn{font-size:8em;color:var(--rubric);letter-spacing:.4em}
+.titlepg .min{font-family:Cinzel;font-size:3.4em;letter-spacing:.24em;border-top:1px solid rgba(42,31,22,.5);padding-top:1.6em}
+
+/* ───── context ───── */
+.stage{background:#141412;border-radius:12px;padding:22px;display:flex;gap:18px;align-items:flex-end}
+.cap{font-size:14px;margin-top:8px;line-height:1.25;width:var(--cw)}.sub2{font-size:12px;color:#a79f90;width:var(--cw)}
+.painted{width:var(--w);height:var(--w);border-radius:calc(var(--w)*.09);background-size:cover;background-position:center;flex:none;box-shadow:0 6px 14px rgba(0,0,0,.3)}
+.stock .in{position:absolute;inset:9%;border:1px solid rgba(245,239,226,.7);outline:1px solid rgba(245,239,226,.3);outline-offset:-2.5em;border-radius:2em;gap:3.5em;padding:0 8%}
+.stock .t{font-size:11.5em}.stock .kick{opacity:.7;font-size:4em}
+.holy .in{position:absolute;inset:9%;border:1.5em solid var(--from);border-radius:3em;background:linear-gradient(180deg,var(--vellum),#EFE3C9);color:var(--inkd);padding:0 8%}
+.holy .t{font-size:11.5em}
+.vbook{height:calc(var(--w)*1.5)!important;border-radius:calc(var(--w)*.012) calc(var(--w)*.035) calc(var(--w)*.035) calc(var(--w)*.012);overflow:hidden;box-shadow:0 calc(var(--w)*.05) calc(var(--w)*.1) rgba(0,0,0,.35)}
+.vbook .f{position:absolute;top:6.5%;bottom:4.6%;left:15%;right:7.5%;border:1px solid rgba(245,239,226,.38);justify-content:space-between;padding:13% 7% 8%}
+.vbook .t{font-size:10.5em}.vbook .a{font-size:5.8em;margin-top:4em}.vbook .kick{font-size:3.2em;opacity:.7}
+.hero{width:282px;height:400px;border-radius:14px;position:relative;overflow:hidden;flex:none}
+.hero .under{position:absolute;left:0;right:0;bottom:28px;text-align:center}
+.hero .under h4{font-weight:600;font-size:26px}.hero .under p{font-style:italic;color:#d8cdb8;font-size:15px;margin-top:4px}
+</style></head><body>
+<div id="app"></div>
+<script>
+const T={burgundy:['#5A1722','#24090E'],marian:['#1E3A5C','#0A1626'],green:['#1E4A32','#0C2418'],gold:['#8B6914','#352608'],
+violet:['#4A2860','#1F1030'],rose:['#5C2740','#260E1A'],ink:['#2E3A4A','#11161E'],red:['#6B1620','#2A080C']}
+const tone=c=>`--from:${T[c][0]};--to:${T[c][1]}`
+const mix=(c,p,w)=>`color-mix(in srgb,${T[c][0]} ${p}%,${w})`
+const cross=`<svg viewBox="0 0 24 24" style="width:100%;height:100%"><path fill="currentColor" d="M9.5 2h5v7.5H22v5h-7.5V22h-5v-7.5H2v-5h7.5z"/></svg>`
+const pattee=`<svg viewBox="0 0 24 24" style="width:100%;height:100%"><path fill="currentColor" d="M9 1h6l-1.6 8.4L21.8 8v8l-8.4-1.4L15 23H9l1.6-8.4L2.2 16V8l8.4 1.4z"/></svg>`
+const lace=()=>`<div class="lace"></div>`
+
+const library=[['St. Augustine of Hippo','48 volumes','burgundy'],['St. John Chrysostom','36 volumes','marian'],['Papal Magisterium','11 volumes','gold'],['Tertullian','33 volumes','ink'],['The Catholic Encyclopedia','15 volumes','green']]
+const devotion=[['Confession & Conversion','12 prayers','violet'],['Little Offices','89 prayers','marian'],['Traditional Novenas','15 novenas','rose'],['Divine Mercy','6 prayers','red'],['The Novenário','86 novenas','green']]
+const rule=[['The Norms of Piety','24 norms','gold','·'],['Catholic Daily Prayers','43 prayers','burgundy','·'],['Friday — The Passion','6 prayers','red','F'],['Saturday — Our Lady','6 prayers','marian','S'],['The Liturgical Year','23 feasts','green','·']]
+const articles=[['When Prayer Goes Dark','On dryness, distraction, and the long silence','Mental Prayer',10,'violet'],['How to Make a Good Confession','A step-by-step examination and rite','Confession & Conversion',8,'marian'],['The Twelve Promises','What Our Lord promised St. Margaret Mary','Sacred Heart',6,'red'],['Lectio Divina','Reading, meditation, prayer, contemplation','Mental Prayer',7,'green'],['The Predominant Fault','Finding the root and fighting it','Norms of Piety',9,'gold']]
+
+const F={
+ boxed:{g:'library',n:'L1 · Boxed set',d:'The open side of a slipcase: the volumes\' spines in a row, gilt bands and numbers. Reads "several books by one hand" before the title.',
+  h:([t,m,c])=>`<div class="case cloth sheen"></div><div class="slot">${['I','II','III','IV','V'].map((n,i)=>`<div class="sp" style="--s:${mix(c,[100,82,92,74,88][i],i%2?'#000':'#fff')}"><i>${n}</i></div>`).join('')}</div><div class="txt center"><div class="t">${t}</div><div class="kick">${m.toUpperCase()}</div></div>`},
+ slip:{g:'library',n:'L2 · Slipcase',d:'The closed side of the case, blind-stamped, with two volumes riding up out of the mouth. The set as a gift.',
+  h:([t,m,c])=>`<div class="vol" style="left:13%;--y:4%;--s:${mix(c,78,'#000')}"></div><div class="vol" style="left:50%;--y:9%;--s:${mix(c,85,'#fff')}"></div><div class="case cloth sheen"><div class="frame"></div></div><div class="lab center" style="top:30%"><div class="t">${t}</div><div class="r"></div><div class="kick">${m.toUpperCase()}</div></div>`},
+ exlib:{g:'library',n:'L3 · Ex libris',d:'A bookplate pasted on the cloth: "from the library of…". For an author\'s shelf it names the author; the plate\'s double rule takes the tone.',
+  h:([t,m,c])=>`<div class="cloth" style="position:absolute;inset:0"></div><div class="weave"></div><div class="plate center"><div class="kick">EX BIBLIOTHECA</div><div class="t">${t}</div><div class="n">${m.toUpperCase()}</div></div>`},
+ packet:{g:'devotion',n:'D1 · Packet',d:'Holy cards fanned in the hand: two on colored stock behind, the cream one on top. The same cards as the prayers inside, so the collection says what it holds.',
+  h:([t,m,c])=>`<div class="card b1">${lace()}</div><div class="card b2">${lace()}</div><div class="card top">${lace()}<div class="in center"><div class="t">${t}</div><div class="kick">${m.toUpperCase()}</div></div></div>`},
+ bundle:{g:'devotion',n:'D2 · Bundle',d:'A stack of cards tied with a silk ribbon in the tone, the way a grandmother keeps them. The stack\'s edges count the prayers.',
+  h:([t,m,c])=>`${[4,3,2,1].map(i=>`<div class="c" style="transform:translate(${i*1.4}em,${i*1.6}em);background:${i%2?'var(--from)':'#E4D5B6'}"></div>`).join('')}<div class="c top"></div><div class="rv"></div><div class="rh"></div><div class="loop" style="left:17%;transform:rotate(-18deg)"></div><div class="loop" style="left:33%;transform:rotate(18deg)"></div><div class="tail" style="left:27%;transform:rotate(14deg)"></div><div class="tail" style="left:33%;transform:rotate(-10deg)"></div><div class="knot"></div><div class="txt center"><div class="t">${t}</div><div class="kick">${m.toUpperCase()}</div></div>`},
+ tucked:{g:'devotion',n:'D3 · Tucked missal',d:'A missal fat with holy cards, their lace tops showing above the pages. A book of prayers rather than a book to read.',
+  h:([t,m,c])=>`${[['16%','4%','-8deg','var(--paper)'],['40%','1%','3deg',T[c][0]],['60%','5%','10deg','#E4D5B6']].map(([x,y,r,col])=>`<div class="peek" style="--x:${x};--y:${y};--r:${r};--c:${col}">${lace()}</div>`).join('')}<div class="book cloth hinge"><div class="f center"><div class="x">${cross}</div><div class="t">${t}</div><div class="kick">${m.toUpperCase()}</div></div></div>`},
+ ordo:{g:'rule',n:'R1 · Ordo',d:'A page of the calendar: the tone as a heading band, the day\'s entries in rubric. The Ordo you kept for later, here for plans and weekdays.',
+  h:([t,m,c])=>`<div class="head cloth"><div class="kick">ORDO</div><div class="kick">${m.toUpperCase()}</div></div><div class="t">${t}</div><div class="rows">${['MANE','MERIDIE','VESPERE'].map((h,i)=>`<div><b>${h}</b><i style="max-width:${[100,80,90][i]}%"></i></div>`).join('')}</div>`},
+ ribbons:{g:'rule',n:'R2 · Ribbons',d:'A thick breviary whose marker ribbons hang in the liturgical colors, one per part of the day. A book you return to, not one you finish.',
+  h:([t,m,c])=>`<div class="bk cloth hinge"><div class="f center"><div class="x">${cross}</div><div class="t">${t}</div><div class="kick">${m.toUpperCase()}</div></div></div>${[['26%','#2F6B3F','22%'],['36%','#8E1B24','18%'],['46%','#5B2E7A','24%'],['56%','#C9A24A','16%'],['66%','#EDE3CF','20%']].map(([l,col,h])=>`<div class="rb" style="left:${l};--c:${col};--h:${h}"></div>`).join('')}`},
+ horo:{g:'rule',n:'R3 · Horologium',d:'The week as a dial of day letters; the day the collection keeps is lit in gold. Plans light the whole ring.',
+  h:([t,m,c,day])=>{const days='SMTWTFS'.split(''),lit=day==='·'?[0,1,2,3,4,5,6]:[day==='F'?5:6]
+   const pts=days.map((d,i)=>{const a=(i/7)*Math.PI*2-Math.PI/2,x=50+37*Math.cos(a),y=50+37*Math.sin(a);const on=lit.includes(i)&&day!=='·';return `<circle cx="${x}" cy="${y}" r="9" fill="${on?'#E8C97A':'none'}" stroke="rgba(232,201,122,${on?1:.35})" stroke-width="1"/><text x="${x}" y="${y+3.6}" text-anchor="middle" font-family="Cinzel" font-size="10" fill="${on?T[c][1]:'#E8C97A'}">${d}</text>`}).join('')
+   return `<div class="cloth sheen" style="position:absolute;inset:0;border-radius:inherit"></div><svg class="dial" viewBox="0 0 100 100"><circle cx="50" cy="50" r="48" fill="none" stroke="rgba(232,201,122,.55)" stroke-width="1"/><circle cx="50" cy="50" r="26" fill="none" stroke="rgba(232,201,122,.3)" stroke-width="1" stroke-dasharray="1 3"/>${pts}<g transform="translate(42 42) scale(.68)" fill="#E8C97A"><path d="M9.5 2h5v7.5H22v5h-7.5V22h-5v-7.5H2v-5h7.5z"/></g></svg><div class="txt center"><div class="t">${t}</div><div class="kick">${m.toUpperCase()}</div></div>`}},
+ tract:{g:'articles',n:'A1 · Tract',d:'A single printed sheet with the corner turned: collection as a red kicker, title, the subtitle in italic, reading time at the foot.',
+  h:([t,s,k,n])=>`<div class="ear"></div><div class="kick">${k.toUpperCase()}</div><div class="rule"></div><div class="t">${t}</div><div class="sub">${s}</div><div class="min">${n} MIN READ</div><div class="fl">❧</div>`},
+ journal:{g:'articles',n:'A2 · Periodical',d:'A page from a journal: masthead, centered title, two columns of text with a red Fraktur initial. The formation essays as a quarterly.',
+  h:([t,s,k,n])=>`<div class="mast">${k.toUpperCase()}</div><div class="t">${t}</div><div class="sub">${s}</div><div class="cols"><div class="col"><span class="dc">${t[0]}</span><i class="in"></i><i class="in"></i>${[1,1,.7].map(w=>`<i style="width:${w*100}%"></i>`).join('')}</div><div class="col">${[1,1,.9,1,.5].map(w=>`<i style="width:${w*100}%"></i>`).join('')}</div></div>`},
+ pamph:{g:'articles',n:'A3 · Pamphlet',d:'A stapled paper wrapper in the tone (no board, no hinge: thinner than a book) with a printed cream panel, like the old Catholic Truth Society penny tracts.',
+  h:([t,s,k,n,c])=>`<div class="cloth" style="position:absolute;inset:0;background:linear-gradient(155deg,${mix(c,82,'#E6D8BC')},${mix(c,90,'#000')})"></div><div class="grain"></div><div class="st" style="top:22%"></div><div class="st" style="bottom:22%"></div><div class="kick">${k.toUpperCase()}</div><div class="panel center"><div class="t">${t}</div><div class="r"></div><div class="sub">${s}</div></div><div class="min">${n} MIN</div>`},
+ titlepg:{g:'articles',n:'A4 · Title page',d:'All type: a ruled frame, the title set in capitals, a line of ornament, reading time as the imprint. The most "library" of the four.',
+  h:([t,s,k,n])=>`<div class="fr"></div><div class="body center"><div class="kick">${k.toUpperCase()}</div><div class="t">${t}</div><div class="sub">${s}</div><div class="orn">❦</div><div class="min">${n} MIN READ</div></div>`},
+}
+const shadowed=['packet','bundle','tucked','ribbons','slip','boxed','exlib','tract','journal','titlepg']
+const tile=(k,x,w)=>{const c=F[k].g==='articles'?x[4]:x[2]
+ return `<div class="tile ${k} ${shadowed.includes(k)?'shadow':''}" style="--w:${w}px;${tone(c)}">${F[k].h(x)}</div>`}
+const groups={library:['LIBRARY — AN AUTHOR, A SERIES',library],devotion:['DEVOTION — A GATHERING OF PRAYERS',devotion],rule:['RULE — A PLAN, A DAY, A SEASON',rule],articles:['ARTICLES — A CHAPTER READ ON ITS OWN (10:13)',articles]}
+const q=new URLSearchParams(location.search), secs=(q.get('s')||'library,devotion,rule,articles').split(',')
+let html=''
+for(const s of secs){
+ if(groups[s]){const [h,list]=groups[s];html+=`<h2>${h}</h2>`
+  for(const [k,f] of Object.entries(F).filter(([,f])=>f.g===s))
+   html+=`<div class="fmt ${s==='articles'?'art':''}"><div class="lbl"><h3>${f.n}</h3><p>${f.d}</p></div><div class="row">${list.slice(0,4).map(x=>tile(k,x,s==='articles'?134:150)).join('')}${tile(k,list[4],s==='articles'?80:90)}</div></div>`}
+ if(s==='context'){
+  const cell=(el,t,sub,w)=>`<div>${el}<div class="cap" style="--cw:${w}px">${t}</div><div class="sub2" style="--cw:${w}px">${sub}</div></div>`
+  const painted=(img,w=150)=>`<div class="painted" style="--w:${w}px;background-image:url(../../../content/art/${img})"></div>`
+  const L=q.get('l')||'boxed',D=q.get('d')||'packet',R=q.get('r')||'ordo',A=q.get('a')||'pamph'
+  html+=`<h2>IN CONTEXT</h2><div class="fmt"><div class="lbl"><h3>Explore · Traditions</h3><p>Painted collections keep their art; the art-less ones take their object. Title below as today.</p></div><div class="stage">
+   ${cell(painted('carmelite.jpg'),'Carmelite Tradition','',150)}${cell(tile(L,library[0],150),'St. Augustine of Hippo','',150)}${cell(painted('marian.jpg'),'Marian Devotion','',150)}${cell(tile(D,devotion[0],150),'Confession & Conversion','',150)}${cell(tile(R,rule[0],150),'The Norms of Piety','',150)}</div></div>
+  <div class="fmt"><div class="lbl"><h3>Inside a collection</h3><p>A section of Mental Prayer: the article stands between the square cards and the tall books, on the same baseline.</p></div><div class="stage">
+   ${cell(`<div class="tile stock shadow" style="--w:140px;${tone('violet')};--lace:var(--from)">${lace()}<div class="in center"><div class="t">Examen</div><div class="kick">10 MIN</div></div></div>`,'Examen','Practice',140)}
+   ${cell(tile(A,articles[0],140),'When Prayer Goes Dark','Article',140)}
+   ${cell(`<div class="tile holy shadow" style="--w:140px;${tone('marian')};--lace:var(--paper)">${lace()}<div class="in center"><div class="t">Anima Christi</div></div></div>`,'Anima Christi','Prayer',140)}
+   ${cell(tile(A,articles[3],140),'Lectio Divina','Article',140)}
+   ${cell(`<div class="tile vbook cloth hinge" style="--w:112px;${tone('burgundy')}"><div class="f center"><div style="width:10em;height:10em;color:var(--gold)">${cross}</div><div><div class="t">Introduction to the Devout Life</div><div class="a">St. Francis de Sales</div></div><div class="kick">EMBER LIBRARY</div></div></div>`,'Introduction to the Devout Life','Book',112)}</div></div>
+  <div class="fmt" style="border:0"><div class="lbl"><h3>Collection page</h3><p>The header shows the object centered on its tone, as the book page now does.</p></div><div class="stage" style="gap:24px">
+   ${[[L,library[0]],[D,devotion[0]],[R,rule[0]]].map(([k,x])=>`<div class="hero" style="background:linear-gradient(180deg,${T[x[2]][0]},${T[x[2]][1]})"><div style="position:absolute;left:50%;top:60px;transform:translateX(-50%)">${tile(k,x,190)}</div><div class="under"><h4>${x[0]}</h4><p>${x[1]}</p></div></div>`).join('')}</div></div>`}
+}
+document.getElementById('app').innerHTML=html
+</script></body></html>
