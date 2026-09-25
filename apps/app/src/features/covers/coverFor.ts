@@ -28,28 +28,16 @@ export type TileCover =
 /** Below this width the ornate formats turn to noise, so every book binds as Classic. */
 export const compactCoverWidth = 80
 
-// FNV-1a, not the tone's char-sum: with 8 tones and 8 formats a shared hash
-// would pin every format to one color.
-function formatIndexForId(id: string) {
-  let h = 0x811c9dc5
-  for (let i = 0; i < id.length; i++) {
-    h ^= id.charCodeAt(i)
-    h = Math.imul(h, 0x01000193)
-  }
-  return (h >>> 0) % bookCoverFormats.length
+/** The manifest's `cover` when it names a known format, else Classic. */
+export function bookCoverFormat(cover: string | undefined): BookCoverFormat {
+  return bookCoverFormats.find((f) => f === cover) ?? 'classic'
 }
 
-/** The manifest's `cover` when it names a known format, else a stable pick from the id. */
-export function bookCoverFormat(id: string, cover: string | undefined): BookCoverFormat {
-  const named = bookCoverFormats.find((f) => f === cover)
-  return named ?? bookCoverFormats[formatIndexForId(id)]
-}
-
-export function coverFor(id: string, entry: CatalogEntry): TileCover | undefined {
+export function coverFor(entry: CatalogEntry): TileCover | undefined {
   if (entry.kind === 'book')
     return {
       kind: 'book',
-      format: bookCoverFormat(id, entry.cover),
+      format: bookCoverFormat(entry.cover),
       author: entry.author ? localizeContent(entry.author) : undefined,
     }
   if (entry.kind !== 'practice' && entry.kind !== 'mass') return undefined

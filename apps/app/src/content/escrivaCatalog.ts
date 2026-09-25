@@ -53,6 +53,9 @@ export function registerEscrivaCatalog(): void {
       name: work.name,
       author: escrivaAuthor,
       description: work.description,
+      // One binding for the collected works, like a uniform edition; the tone
+      // still varies per book.
+      cover: 'watermark',
     }
   }
 

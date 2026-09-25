@@ -226,7 +226,7 @@ export default function BookDetailScreen() {
               author={author}
               ctaLabel={ctaLabel}
               tone={toneByIndex(toneIndexForId(bookRef))}
-              format={bookCoverFormat(bookRef, entry.cover)}
+              format={bookCoverFormat(entry.cover)}
               scrollY={scrollY}
               readHref={readerHref()}
             />

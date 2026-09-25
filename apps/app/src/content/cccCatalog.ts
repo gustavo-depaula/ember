@@ -151,6 +151,7 @@ function entry(bookId: string, name: LocalizedText, description: LocalizedText):
     name,
     author: vaticanAuthor,
     description,
+    cover: 'label',
   }
 }
 

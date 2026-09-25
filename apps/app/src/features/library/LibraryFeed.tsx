@@ -119,7 +119,7 @@ export function LibraryFeed() {
               subtitle={entry.author ? localizeContent(entry.author) : undefined}
               image={artFor(id)}
               tone={toneForKey(id)}
-              cover={coverFor(id, entry)}
+              cover={coverFor(entry)}
               size={118}
               aspectRatio={1.5}
               radius={4}
@@ -137,7 +137,7 @@ export function LibraryFeed() {
               title={localizeContent(entry.name ?? entry.title ?? {})}
               image={artFor(id)}
               tone={toneForKey(id)}
-              cover={coverFor(id, entry)}
+              cover={coverFor(entry)}
               onPress={() => goPractice(id)}
             />
           ))}

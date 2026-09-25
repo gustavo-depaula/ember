@@ -51,7 +51,7 @@ export default function AllBooksScreen() {
         bareId: bareId(id),
         title: localizeContent(entry.name ?? entry.title ?? {}) || bareId(id),
         author: author || undefined,
-        cover: coverFor(id, entry),
+        cover: coverFor(entry),
       })
     }
     out.sort((a, b) => a.title.localeCompare(b.title))
