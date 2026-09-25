@@ -7,6 +7,7 @@ import type { VersesPrimitive } from '@/content/primitives'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { StyledSegment } from '@/lib/typography/justifyText'
 import { BilingualBlock } from './prayer/BilingualBlock'
+import { parseDoInline } from './prayer/DoInline'
 import { ResponseMark } from './prayer/ResponseMark'
 import { verseRefLabel, verseRefScale, verseRefTracking } from './prayer/VerseRef'
 import { ReadingParagraph } from './ReadingParagraph'
@@ -21,7 +22,17 @@ import { Typography } from './typography'
  * sits in a sibling column, and a verse number in a fixed gutter, so the prayed
  * text reaches the breaker as ordinary prose.
  */
-function Verse({ text, citation, bold }: { text: string; citation?: string; bold?: boolean }) {
+function Verse({
+  text,
+  citation,
+  bold,
+  markup,
+}: {
+  text: string
+  citation?: string
+  bold?: boolean
+  markup?: 'do'
+}) {
   const reading = useReadingStyle()
   const theme = useTheme()
   // Resolved rather than a token: a run's `render` is a raw RN style.
@@ -33,8 +44,37 @@ function Verse({ text, citation, bold }: { text: string; citation?: string; bold
     [theme.colorSecondary, reading.lineHeight],
   )
 
+  // DO verses carry the same inline markup as DO body text (a Confíteor's
+  // /:bate no peito:/, a Gloria's mediant), styled as DoInline styles it.
+  const doMarkRender = useMemo(
+    () => ({
+      mark: { color: theme.colorBurgundy?.val as string, lineHeight: reading.lineHeight },
+      point: { color: theme.colorBurgundy?.val as string },
+      mediant: { color: theme.colorSecondary?.val as string },
+    }),
+    [theme.colorBurgundy, theme.colorSecondary, reading.lineHeight],
+  )
+  const runs = useMemo(() => (markup === 'do' ? parseDoInline(text) : undefined), [markup, text])
+
   const source = useMemo<StyledSegment[]>(() => {
     const base = bold ? ('bold' as const) : ('regular' as const)
+    if (runs) {
+      return runs.map((run) => {
+        if (run.kind === 'body') return { text: run.text, style: base }
+        if (run.kind === 'smallcaps') {
+          return { text: run.text.toUpperCase(), style: base, letterSpacing: 0.5 }
+        }
+        if (run.kind === 'mark') {
+          return {
+            text: run.text,
+            style: 'regular' as const,
+            fontSizePx: Math.round(reading.fontSize * 0.72),
+            render: doMarkRender.mark,
+          }
+        }
+        return { text: run.text, style: base, render: doMarkRender[run.kind] }
+      })
+    }
     const verse = { text, style: base }
     if (!citation) return [verse]
     return [
@@ -48,7 +88,7 @@ function Verse({ text, citation, bold }: { text: string; citation?: string; bold
       },
       verse,
     ]
-  }, [text, citation, bold, reading.fontSize, citationRender])
+  }, [text, citation, bold, reading.fontSize, citationRender, runs, doMarkRender])
 
   return (
     <ReadingParagraph
@@ -58,13 +98,20 @@ function Verse({ text, citation, bold }: { text: string; citation?: string; bold
       // nested <Text> into its parent's accessibility label, so a screen reader
       // would spell the citation before every verse. Labelling the block with
       // the prayed text alone suppresses it on both platforms.
-      accessibilityLabel={text}
+      accessibilityLabel={runs ? runs.map((r) => r.text).join('') : text}
     />
   )
 }
 
-export function VersesBlock({ header, items, style = 'numbered', fallback }: VersesPrimitive) {
+export function VersesBlock({
+  header,
+  items,
+  style = 'numbered',
+  fallback,
+  markup,
+}: VersesPrimitive) {
   const { t } = useTranslation()
+  const reading = useReadingStyle()
   if (items.length === 0) return undefined
 
   if (style === 'vr') {
@@ -72,6 +119,28 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
       <YStack gap="$sm">
         {items.map((item, i) => {
           const isResponse = item.role === 'r'
+          if (item.mark) {
+            return (
+              <XStack
+                key={`vr-${i}`}
+                gap={6}
+                alignItems="baseline"
+                accessibilityLabel={
+                  item.mark === 'Ant.'
+                    ? t('a11y.antiphon', { text: item.text.primary })
+                    : `${item.mark} ${item.text.primary}`
+                }
+              >
+                <ResponseMark value={item.mark} fontSize={reading.fontSize} />
+                <YStack flex={1}>
+                  <BilingualBlock
+                    content={item.text}
+                    renderText={(text) => <Verse text={text} markup={markup} />}
+                  />
+                </YStack>
+              </XStack>
+            )
+          }
           return (
             <XStack
               key={`vr-${i}`}
@@ -85,7 +154,7 @@ export function VersesBlock({ header, items, style = 'numbered', fallback }: Ver
               <YStack flex={1}>
                 <BilingualBlock
                   content={item.text}
-                  renderText={(text) => <Verse text={text} bold={isResponse} />}
+                  renderText={(text) => <Verse text={text} bold={isResponse} markup={markup} />}
                 />
               </YStack>
             </XStack>

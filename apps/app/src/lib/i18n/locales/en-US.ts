@@ -1386,6 +1386,7 @@ export default {
     viewSaintCard: 'View saint card',
     home: 'Home',
     versicle: 'Versicle: {{text}}',
+    antiphon: 'Antiphon: {{text}}',
     response: 'Response: {{text}}',
     selectIcon: 'Select {{name}} icon',
     decreaseCount: 'Decrease',

@@ -1390,6 +1390,7 @@ export default {
     viewSaintCard: 'Ver santinho',
     home: 'Início',
     versicle: 'Versículo: {{text}}',
+    antiphon: 'Antífona: {{text}}',
     response: 'Resposta: {{text}}',
     selectIcon: 'Escolher ícone {{name}}',
     decreaseCount: 'Diminuir',

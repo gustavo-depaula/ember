@@ -4,15 +4,24 @@
 // script, so the streams line up — DO renders its two columns the same way).
 //
 // Line grammar inside an item: '#Label' section head, '!!text' big heading,
-// '!text' rubric, 'V./R./S./M./v./r. text' versicle-response dialog, '_'
-// divider, '' paragraph break, anything else body text. Inline '(…)' stage
+// '!text' rubric, 'V./R./S./M. text' versicle-response dialog, 'Ant./R.br./
+// Benedictio./Absolutio. text' a line led by a red label, '_' divider, ''
+// paragraph break, anything else body text. Lowercase 'v.'/'r.' are not
+// dialog: DO sets the line's first letter as an initial (v.) or large red
+// letter (r.), so they only open a new paragraph. Inline '(…)' stage
 // directions stay in the text (rendered as rubric-toned spans by the text
 // component's marker formatting).
 
 import type { BilingualText } from '@ember/content-engine'
 import type { Primitive, VersesPrimitive } from '@/content/primitives'
 
-const verseMarker = /^([VRSMAOCDPvr])\.\s+/
+const verseMarker = /^([VRSMAOCDP])\.\s+/
+const paragraphMarker = /^[vr]\.\s*/
+// DO's red line-leading labels (horas.pl 'red prefix'); Benedictio and
+// Absolutio arrive already translated. R.br. takes the ℟ glyph, as DO's
+// setvrbar gives it.
+const labelMarker =
+  /^(Ant\.|R\.br\.|Benedictio\.|Absolutio\.|Bênção\.|Absolvição\.|Benediction\.|Absolution\.)\s+/
 
 function bilingual(primary: string, secondary?: string): BilingualText {
   return secondary !== undefined && secondary !== primary ? { primary, secondary } : { primary }
@@ -22,39 +31,64 @@ type Line = {
   kind: 'head' | 'heading' | 'rubric' | 'verse' | 'divider' | 'break' | 'text'
   text: string
   role?: 'v' | 'r'
+  mark?: string
+  paragraph?: boolean
 }
 
 function classify(raw: string): Line {
   const line = raw.replace(/\s+$/, '')
   if (line.startsWith('#')) return { kind: 'head', text: line.replace(/^#+\s*/, '') }
   if (line.startsWith('!!')) return { kind: 'heading', text: line.slice(2).replace(/^#+\s*/, '') }
-  if (line.startsWith('!')) return { kind: 'rubric', text: line.slice(1).trim() }
+  // A rubric line is rubric-toned throughout, so its inline '/:…:/' rubric
+  // spans (DoInline's job in body text) only need their markers dropped.
+  if (line.startsWith('!')) {
+    return {
+      kind: 'rubric',
+      text: line
+        .slice(1)
+        .replace(/\/:|:\//g, '')
+        .trim(),
+    }
+  }
   if (/^_\s*$/.test(line)) return { kind: 'divider', text: '' }
   if (/^\s*$/.test(line)) return { kind: 'break', text: '' }
+  const label = labelMarker.exec(line)
+  if (label) {
+    const mark = label[1].replace(/^R\./, '℟.')
+    return { kind: 'verse', text: line.slice(label[0].length), mark }
+  }
+  const para = paragraphMarker.exec(line)
+  if (para) return { kind: 'text', text: line.slice(para[0].length), paragraph: true }
   const m = verseMarker.exec(line)
   if (m) {
-    const role = /^[VSPv]$/.test(m[1]) ? 'v' : 'r'
+    const role = /^[VSP]$/.test(m[1]) ? 'v' : 'r'
     return { kind: 'verse', text: line.slice(m[0].length), role }
   }
   return { kind: 'text', text: line }
 }
 
-// Pair the two columns' lines: when the line counts match, pair index-wise.
-// When they differ (translations legitimately split prayers across more
-// lines than the Latin), pair greedily by line KIND — rubric with rubric,
-// verse with verse — leaving the extra vernacular lines unpaired. If that
-// would drop Latin content, fall back to whole-chunk pairing (the full Latin
-// chunk as secondary on the first text block).
+// Pair the two columns' lines: when the content-line counts match, pair
+// content lines in order. Blank lines are skipped: the columns' files place
+// them differently, so equal raw counts can still hide a shift (Prime's
+// chapter office, Portuguese: one extra blank after the Pater rubric, one fewer
+// at the end). When the content counts differ (translations legitimately split
+// prayers across more lines than the Latin), pair greedily by line KIND:
+// rubric with rubric, verse with verse, leaving the extra vernacular lines
+// unpaired. If that would drop Latin content, fall back to whole-chunk pairing
+// (the full Latin chunk as secondary on the first text block).
 function pairLines(
   primaryLines: Line[],
   latinLines: Line[] | undefined,
 ): Array<[Line, Line | undefined]> {
   if (!latinLines) return primaryLines.map((l) => [l, undefined])
-  if (latinLines.length === primaryLines.length) {
-    return primaryLines.map((l, i) => [l, latinLines[i]])
-  }
 
   const isContent = (l: Line) => l.kind !== 'break' && l.kind !== 'divider'
+  const latinContent = latinLines.filter(isContent)
+  if (latinContent.length === primaryLines.filter(isContent).length) {
+    let n = 0
+    return primaryLines.map((l) => [l, isContent(l) ? latinContent[n++] : undefined])
+  }
+
   const kindPairs: Array<[Line, Line | undefined]> = []
   let j = 0
   for (const l of primaryLines) {
@@ -111,7 +145,7 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
   }
   const flushVerses = () => {
     if (verseBuffer.length === 0) return
-    out.push({ type: 'verses', style: 'vr', items: verseBuffer })
+    out.push({ type: 'verses', style: 'vr', markup: 'do', items: verseBuffer })
     verseBuffer = []
   }
   const flushAll = () => {
@@ -147,10 +181,17 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
           break
         case 'verse':
           flushText()
-          verseBuffer.push({ text: bilingual(p.text, l?.text), role: p.role })
+          // A labelled line is a block of its own: its wider mark column
+          // would otherwise shift the ℣/℟ lines beside it.
+          if (p.mark || verseBuffer.at(-1)?.mark) flushVerses()
+          verseBuffer.push({
+            text: bilingual(p.text, l?.text),
+            ...(p.mark ? { mark: p.mark } : { role: p.role }),
+          })
           break
         case 'text':
           flushVerses()
+          if (p.paragraph) flushText()
           if (p.text) textBuffer.push(bilingual(p.text, l?.text))
           break
       }

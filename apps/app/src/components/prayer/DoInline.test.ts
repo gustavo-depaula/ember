@@ -59,4 +59,16 @@ describe('parseDoInline', () => {
       { kind: 'body', text: ' qui ámbulant.' },
     ])
   })
+
+  it('draws the sign-of-the-cross marks as DO does', () => {
+    expect(parseDoInline('Deus, + vinde. Abri, ++ os lábios. Convertei-nos, +++ ó Deus')).toEqual([
+      { kind: 'body', text: 'Deus, ' },
+      { kind: 'point', text: '✠' },
+      { kind: 'body', text: ' vinde. Abri, ' },
+      { kind: 'point', text: '+' },
+      { kind: 'body', text: ' os lábios. Convertei-nos, ' },
+      { kind: 'point', text: '✙' },
+      { kind: 'body', text: ' ó Deus' },
+    ])
+  })
 })

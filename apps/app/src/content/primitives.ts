@@ -62,12 +62,17 @@ export type VersesPrimitive = {
     // 'v'/'r' tag explicit role for versicle/response pairs — the renderer
     // shouldn't have to sniff at the num field to figure it out.
     role?: 'v' | 'r'
+    // A red label set in the ℣/℟ column in their place: 'Ant.', '℟.br.',
+    // 'Bênção.'. Only with style 'vr'.
+    mark?: string
   }[]
   // 'cento' sets `ref` as a muted lead-in on the same line as the verse, for
   // psalms stitched from many references where a full citation ("Ps. 56:1")
   // would be too wide for the numbered style's gutter.
   style?: 'numbered' | 'vr' | 'cento'
   fallback?: boolean
+  // As on TextPrimitive: the item text carries Divinum Officium inline markup.
+  markup?: 'do'
 }
 
 export type ImagePrimitive = {
