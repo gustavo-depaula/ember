@@ -10,11 +10,16 @@ import { ManuscriptFrame, PrimitiveBlock, ScreenLayout } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
 import { createEngineContext } from '@/content/engineContext'
 import { preprocessFlow } from '@/content/preprocessFlow'
+import type { Primitive } from '@/content/primitives'
 import { getChapterManifest, loadChapterContent, prefetchChapterProse } from '@/content/resolver'
 import { useProgressiveCount } from '@/hooks/useProgressiveCount'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
+
+// Stable identity: useProgressiveCount resets on every new sections array, so a
+// fresh `[]` per render while the chapter loads would loop forever.
+const noSections: Primitive[] = []
 
 export default function ChapterReaderScreen() {
   const { t } = useTranslation()
@@ -55,7 +60,7 @@ export default function ChapterReaderScreen() {
     enabled: !!content,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const sections = primitivesQuery.data ?? []
+  const sections = primitivesQuery.data ?? noSections
   // Chunked mounting — same rationale as PracticeFlowView: chapters can hold
   // hundreds of primitive blocks and mounting them all at once blocks the JS
   // thread through the navigation.

@@ -45,6 +45,10 @@ type Props = {
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }
 
+// Stable identity: useProgressiveCount resets on every new sections array, so a
+// fresh `[]` per render would loop forever.
+const noSections: PracticeContent['primitives'] = []
+
 export function PracticeFlowView({
   practiceId,
   programDayProp,
@@ -85,7 +89,7 @@ export function PracticeFlowView({
           manifest={manifest}
           practiceId={practiceId}
           programDay={programDay}
-          sections={contentQuery.data?.primitives ?? []}
+          sections={contentQuery.data?.primitives ?? noSections}
           completion={completion}
           onSelectOverride={onSelectOverride}
         />
