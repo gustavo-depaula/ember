@@ -37,6 +37,8 @@ type Shelf = Array<[id: string, entry: CatalogEntry, savedAt: number]>
  * be deep without costing storage. Derived off the live catalog, so a shelf
  * fills in as deferred manifests warm (`useCatalogVersion`).
  */
+const newCollectionTone = toneForKey('new-collection')
+
 export function LibraryFeed() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -105,8 +107,9 @@ export function LibraryFeed() {
         ))}
         <ArtCoverCard
           title={t('library.newCollection')}
-          tone={toneForKey('new-collection')}
-          glyph={<Plus size={44} color={blockInk} strokeWidth={1.5} />}
+          tone={newCollectionTone}
+          cover={userCollectionCover}
+          glyph={<Plus size={40} color={newCollectionTone.from} strokeWidth={1.5} />}
           onPress={() => setCreating(true)}
         />
       </ArtCarousel>

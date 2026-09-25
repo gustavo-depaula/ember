@@ -3,7 +3,6 @@ import type { ComponentProps } from 'react'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Input, Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
@@ -28,7 +27,6 @@ export function CreateCollectionSheet({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const insets = useSafeAreaInsets()
   const create = useCreateUserCollection()
 
   const [name, setName] = useState('')
@@ -57,12 +55,13 @@ export function CreateCollectionSheet({
   return (
     <BottomSheet
       index={open ? 0 : -1}
-      snapPoints={['55%']}
+      // No snapPoints: the sheet sizes to its content, so the Create button is
+      // never pushed below a fixed detent.
       enablePanDownToClose
       onClose={onClose}
       backgroundStyle={{ backgroundColor: theme.background?.val }}
     >
-      <YStack paddingHorizontal="$lg" paddingTop="$lg" paddingBottom={insets.bottom + 24} gap="$lg">
+      <YStack paddingHorizontal="$lg" paddingTop="$lg" paddingBottom="$md" gap="$lg">
         <Typography variant="screen-title" fontSize="$5" textAlign="left">
           {t('collections.create')}
         </Typography>

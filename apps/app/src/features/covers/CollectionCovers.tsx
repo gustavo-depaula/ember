@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
 import { StyleSheet, View } from 'react-native'
 import Svg, { Defs, G, LinearGradient, Rect, Stop } from 'react-native-svg'
@@ -19,6 +20,7 @@ export function CollectionCover({
   tone,
   volumes,
   prayers,
+  mark,
   size,
 }: {
   style: CollectionCoverStyle
@@ -26,6 +28,8 @@ export function CollectionCover({
   tone: BlockTone
   volumes?: number
   prayers?: number
+  /** Drawn in place of the title — the packet's "+" on the new-collection tile. */
+  mark?: ReactNode
   size: number
 }) {
   const { t } = useTranslation()
@@ -39,12 +43,12 @@ export function CollectionCover({
   const Face = faces[style]
   return (
     <View style={[styles.shadow, { width: size, height: size }]}>
-      <Face title={title} tone={tone} count={count?.toUpperCase()} s={size} />
+      <Face title={title} tone={tone} count={count?.toUpperCase()} mark={mark} s={size} />
     </View>
   )
 }
 
-type FaceProps = { title: string; tone: BlockTone; count?: string; s: number }
+type FaceProps = { title: string; tone: BlockTone; count?: string; mark?: ReactNode; s: number }
 
 const sheenStops = [
   <Stop key="0" offset="0" stopColor="#fff" stopOpacity={0.07} />,
@@ -273,7 +277,7 @@ function SlipcaseFace({ title, tone, count, s }: FaceProps) {
 }
 
 /** Holy cards fanned in the hand: two on colored stock behind, the cream one on top. */
-function PacketFace({ title, tone, count, s }: FaceProps) {
+function PacketFace({ title, tone, count, mark, s }: FaceProps) {
   const card = { x: 15, y: 13, w: 70, h: 74 }
   const inner = {
     x: card.x + card.w * 0.09,
@@ -320,19 +324,23 @@ function PacketFace({ title, tone, count, s }: FaceProps) {
           },
         ]}
       >
-        <CoverText
-          lines={3}
-          style={[
-            styles.title,
-            { fontSize: s * 0.105, lineHeight: s * 0.105 * 1.1, color: coverInk.text },
-          ]}
-        >
-          {title}
-        </CoverText>
-        {count && (
-          <Kicker s={s} color={tone.from}>
-            {count}
-          </Kicker>
+        {mark ?? (
+          <>
+            <CoverText
+              lines={3}
+              style={[
+                styles.title,
+                { fontSize: s * 0.105, lineHeight: s * 0.105 * 1.1, color: coverInk.text },
+              ]}
+            >
+              {title}
+            </CoverText>
+            {count && (
+              <Kicker s={s} color={tone.from}>
+                {count}
+              </Kicker>
+            )}
+          </>
         )}
       </View>
     </>

@@ -1,3 +1,4 @@
+import type { ReactNode } from 'react'
 import type { BlockTone } from '@/features/explore/bgColor'
 import { BookCover } from './BookCover'
 import { BreviaryCard, PracticeCard, PrayerCard } from './Cards'
@@ -11,11 +12,14 @@ export function GeneratedCover({
   title,
   tone,
   width,
+  mark,
 }: {
   cover: TileCover
   title: string
   tone: BlockTone
   width: number
+  /** A collection packet's mark in place of its title. */
+  mark?: ReactNode
 }) {
   switch (cover.kind) {
     case 'book':
@@ -50,6 +54,7 @@ export function GeneratedCover({
           tone={tone}
           volumes={cover.volumes}
           prayers={cover.prayers}
+          mark={mark}
           size={width}
         />
       )

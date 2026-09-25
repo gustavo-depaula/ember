@@ -45,7 +45,7 @@ export function ArtCoverCard({
   aspectRatio?: number
   radius?: number
   rank?: number
-  /** Centered cover mark shown instead of the title's versal initial (no image). */
+  /** Centered cover mark shown instead of the title's versal initial (no image), or in a packet cover's card. */
   glyph?: ReactNode
   /** Art-less fallback drawn as a generated cover instead of the versal. */
   cover?: TileCover
@@ -60,7 +60,7 @@ export function ArtCoverCard({
     >
       <YStack width={size} gap="$sm">
         {!image && cover ? (
-          <GeneratedCover cover={cover} title={title} tone={tone} width={size} />
+          <GeneratedCover cover={cover} title={title} tone={tone} width={size} mark={glyph} />
         ) : (
           <YStack
             width={size}
