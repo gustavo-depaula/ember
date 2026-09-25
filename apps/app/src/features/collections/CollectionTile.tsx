@@ -2,8 +2,9 @@
  * One collection item as a self-contained jewel card — the title (and, for a
  * practice, its watercolor icon) live *inside* the card on a deep tone, so a
  * reading with no cover art still reads as a deliberate plate rather than a bare
- * initial. Reading items (book / chapter) and practice items (devotions,
- * prayers, litanies) share the same card; only the icon and route differ.
+ * initial. Practices and art-less books draw their generated cover instead
+ * (holy card, breviary page, bound volume — see features/covers), so an item
+ * reads the same inside a collection as on the shelves.
  */
 
 import { Image } from 'expo-image'
@@ -23,6 +24,7 @@ import type {
   CollectionItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
+import { coverFor, GeneratedCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex } from '@/features/explore/bgColor'
 import { useAllSlots } from '@/features/plan-of-life'
@@ -106,8 +108,27 @@ export function CollectionTile({
   }
 
   const label = localizeContent(title)
+  const cover = !image && entry && typeof width === 'number' ? coverFor(entry) : undefined
   // A small kicker glyph, not a hero illustration — the headline leads.
   const iconSize = typeof width === 'number' ? Math.round(width * 0.17) : 24
+
+  if (cover && typeof width === 'number') {
+    // A generated cover keeps its own proportions: a book as tall as the jewel
+    // tiles, a holy card square. Both sit on the row's baseline like books on a shelf.
+    const coverWidth = cover.kind === 'book' ? Math.round((width * aspectRatio) / 1.5) : width
+    return (
+      <ZoomLink href={href}>
+        <AnimatedPressable accessibilityRole="link" accessibilityLabel={label}>
+          <YStack flex={1} justifyContent="flex-end">
+            <YStack>
+              <GeneratedCover cover={cover} title={label} tone={tone} width={coverWidth} />
+              {inPlan && <InPlanBadge inset={coverWidth * 0.1} />}
+            </YStack>
+          </YStack>
+        </AnimatedPressable>
+      </ZoomLink>
+    )
+  }
 
   return (
     <ZoomLink href={href}>
@@ -146,23 +167,27 @@ export function CollectionTile({
               {softHyphenate(label)}
             </Typography>
           </YStack>
-          {inPlan && (
-            <YStack
-              position="absolute"
-              top={8}
-              right={8}
-              width={20}
-              height={20}
-              borderRadius={10}
-              alignItems="center"
-              justifyContent="center"
-              backgroundColor="rgba(0,0,0,0.4)"
-            >
-              <Check size={12} color={blockInk} />
-            </YStack>
-          )}
+          {inPlan && <InPlanBadge inset={8} />}
         </YStack>
       </AnimatedPressable>
     </ZoomLink>
+  )
+}
+
+function InPlanBadge({ inset }: { inset: number }) {
+  return (
+    <YStack
+      position="absolute"
+      top={inset}
+      right={inset}
+      width={20}
+      height={20}
+      borderRadius={10}
+      alignItems="center"
+      justifyContent="center"
+      backgroundColor="rgba(0,0,0,0.4)"
+    >
+      <Check size={12} color={blockInk} />
+    </YStack>
   )
 }
