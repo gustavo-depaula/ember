@@ -31,6 +31,9 @@ export type HeadingPrimitive = {
   type: 'heading'
   text: BilingualText
   size?: 'h1' | 'h2'
+  // A small line under the heading saying where its text comes from ("do
+  // Saltério do dia correspondente"), DO's braced suffix.
+  note?: BilingualText
 }
 
 export type RubricPrimitive = {

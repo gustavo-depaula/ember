@@ -106,6 +106,46 @@ describe('mapItemsToPrimitives', () => {
     ])
   })
 
+  it('pairs stanza by stanza so one longer stanza keeps its neighbours paired', () => {
+    const out = mapItemsToPrimitives(
+      [
+        'v. Da terra és esperança,\nDo céu já és o brilho;\n_\nr. A glória seja ao Pai,\nAgora e sempre. Amém.',
+      ],
+      [
+        'v. Ætérna cæli glória,\nBeáta spes mortálium,\n_\nr. Deo Patri sit glória,\nIn sempitérna sǽcula.\nAmen.',
+      ],
+    )
+    expect(out[0]).toMatchObject({
+      type: 'text',
+      text: {
+        primary: 'Da terra és esperança,\nDo céu já és o brilho;',
+        secondary: 'Ætérna cæli glória,\nBeáta spes mortálium,',
+      },
+    })
+    expect(out[2]).toMatchObject({
+      type: 'text',
+      text: { primary: 'A glória seja ao Pai,\nAgora e sempre. Amém.' },
+    })
+  })
+
+  it("moves a heading's braced source into a note", () => {
+    const out = mapItemsToPrimitives(
+      ['#Salmos{Laudes:2 Salmos e antífonas  do Saltério}'],
+      ['#Psalmi{Laudes:2 Psalmi et antiphonæ ex Psalterio}'],
+    )
+    expect(out).toEqual([
+      {
+        type: 'heading',
+        text: { primary: 'Salmos', secondary: 'Psalmi' },
+        size: 'h1',
+        note: {
+          primary: 'Laudes:2 Salmos e antífonas do Saltério',
+          secondary: 'Laudes:2 Psalmi et antiphonæ ex Psalterio',
+        },
+      },
+    ])
+  })
+
   it('drops inline rubric markers from a rubric line', () => {
     const out = mapItemsToPrimitives(['!/:«Pai Nosso» é dito em segredo:/'])
     expect(out).toEqual([{ type: 'rubric', text: { primary: '«Pai Nosso» é dito em segredo' } }])

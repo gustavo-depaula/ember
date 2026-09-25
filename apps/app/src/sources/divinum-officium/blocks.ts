@@ -35,6 +35,15 @@ type Line = {
   paragraph?: boolean
 }
 
+// DO's section heads carry a braced source note ('Salmos{do Saltério do dia
+// correspondente}'), which it prints small after the heading.
+function splitNote(text: string): { text: string; note?: string } {
+  const m = /^(.*?)\s*\{([^}]*)\}\s*$/.exec(text)
+  if (!m) return { text }
+  const note = m[2].replace(/\s+/g, ' ').trim()
+  return note ? { text: m[1], note } : { text: m[1] }
+}
+
 function classify(raw: string): Line {
   const line = raw.replace(/\s+$/, '')
   if (line.startsWith('#')) return { kind: 'head', text: line.replace(/^#+\s*/, '') }
@@ -122,6 +131,27 @@ function pairLines(
   })
 }
 
+// Pair segment by segment when both columns split into the same number of
+// '_'-separated segments (hymn stanzas, chapter vs hymn), so one stanza whose
+// translation runs a line longer (a doxology's closing 'Amen') degrades alone
+// instead of sending the whole item to the chunk fallback.
+function pairSegments(primaryLines: Line[], latinLines: Line[] | undefined) {
+  if (!latinLines) return pairLines(primaryLines, undefined)
+  const split = (lines: Line[]) =>
+    lines.reduce<Line[][]>(
+      (segs, l) => {
+        if (l.kind === 'divider') segs.push([l], [])
+        else segs[segs.length - 1].push(l)
+        return segs
+      },
+      [[]],
+    )
+  const ps = split(primaryLines)
+  const ls = split(latinLines)
+  if (ps.length !== ls.length) return pairLines(primaryLines, latinLines)
+  return ps.flatMap((seg, i) => pairLines(seg, ls[i]))
+}
+
 export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string[]): Primitive[] {
   const out: Primitive[] = []
   let textBuffer: BilingualText[] = []
@@ -137,7 +167,12 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
       text: {
         primary: textBuffer.map((t) => t.primary).join('\n'),
         ...(textBuffer.some((t) => t.secondary !== undefined)
-          ? { secondary: textBuffer.map((t) => t.secondary ?? '').join('\n') }
+          ? {
+              secondary: textBuffer
+                .map((t) => t.secondary ?? '')
+                .join('\n')
+                .replace(/\n+$/, ''),
+            }
           : {}),
       },
     })
@@ -156,14 +191,24 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
   for (let i = 0; i < primaryItems.length; i++) {
     const primary = primaryItems[i]
     const latin = latinItems?.[i]
-    const pairs = pairLines(primary.split('\n').map(classify), latin?.split('\n').map(classify))
+    const pairs = pairSegments(primary.split('\n').map(classify), latin?.split('\n').map(classify))
 
     for (const [p, l] of pairs) {
       switch (p.kind) {
-        case 'head':
+        case 'head': {
           flushAll()
-          if (p.text) out.push({ type: 'heading', text: bilingual(p.text, l?.text), size: 'h1' })
+          const head = splitNote(p.text)
+          const latinHead = l ? splitNote(l.text) : undefined
+          if (head.text) {
+            out.push({
+              type: 'heading',
+              text: bilingual(head.text, latinHead?.text),
+              size: 'h1',
+              ...(head.note ? { note: bilingual(head.note, latinHead?.note) } : {}),
+            })
+          }
           break
+        }
         case 'heading':
           flushAll()
           if (p.text) out.push({ type: 'heading', text: bilingual(p.text, l?.text), size: 'h2' })

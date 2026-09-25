@@ -66,7 +66,15 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
       )
 
     case 'heading':
-      return <SectionHeading>{primitive.text.primary}</SectionHeading>
+      if (!primitive.note) return <SectionHeading>{primitive.text.primary}</SectionHeading>
+      return (
+        <YStack gap="$xs" paddingBottom="$sm">
+          <SectionHeading>{primitive.text.primary}</SectionHeading>
+          <Typography variant="label" tone="muted">
+            {primitive.note.primary}
+          </Typography>
+        </YStack>
+      )
 
     case 'rubric':
       return (

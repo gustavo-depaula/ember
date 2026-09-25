@@ -80,8 +80,11 @@ export function PrayerLines({
       {lines.map((line, i) => {
         const lead = i === 0 && prefix ? <ResponseMark value={prefix} /> : undefined
         if (!segments) {
+          // Keyed by the line too: a DO line reaches ReadingParagraph as
+          // children, so its last-line guard can't see the text change and
+          // would keep a minHeight measured for a longer line, a blank gap.
           return (
-            <ReadingParagraph key={`${i}`} base={base} language={lang}>
+            <ReadingParagraph key={`${i}|${line}`} base={base} language={lang}>
               {lead}
               <DoInlineLine text={line} language={lang} reading={reading} />
             </ReadingParagraph>
