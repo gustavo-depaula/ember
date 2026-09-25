@@ -20,6 +20,7 @@ import {
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
 import { useCelebrationDisplay, useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
+import { ExploreFeatured, FromOpusDei, FromRome } from '@/features/explore'
 import {
   Aspiratio,
   type CarouselPage,
@@ -34,6 +35,7 @@ import {
   TierLegend,
   TimeBlockSection,
 } from '@/features/home'
+import { ContinueRow } from '@/features/library'
 import {
   type BlockState,
   buildTieredWallData,
@@ -353,6 +355,10 @@ export default function HomeScreen() {
           <RestartNeededList ids={restartNeededIds} />
         </YStack>
 
+        <ContinueRow />
+
+        <ExploreFeatured />
+
         <PageBreakOrnament />
 
         <Aspiratio date={now} />
@@ -383,6 +389,10 @@ export default function HomeScreen() {
             </FadeInView>
           </>
         )}
+
+        <FromRome />
+
+        <FromOpusDei />
       </YStack>
     </ScreenLayout>
   )

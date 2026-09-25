@@ -11,6 +11,7 @@ import {
   SectionDivider,
   Typography,
 } from '@/components'
+import { LibraryFeed } from '@/features/library'
 import { EntryRow, getEntryBody, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
 import { RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
@@ -22,8 +23,9 @@ const flourishAspect = 2172 / 457
 const flourishLightAspect = 2172 / 386
 
 // You tab root: who you are across time. The rule-of-life config is the page's
-// primary job (front-and-center), then a peek at your chronicle. Today is
-// "this day"; You is "the long arc." Settings lives in the header gear.
+// primary job (front-and-center), then your shelf (collections, saved books,
+// prayers and holy cards), then a peek at your chronicle. Today is "this day";
+// You is "the long arc." Settings lives in the header gear.
 export default function YouScreen() {
   const { t } = useTranslation()
   const router = useRouter()
@@ -56,6 +58,10 @@ export default function YouScreen() {
         </XStack>
 
         <RuleOfLifeSections />
+
+        <SectionDivider />
+
+        <LibraryFeed />
 
         <SectionDivider />
 

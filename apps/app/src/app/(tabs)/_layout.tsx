@@ -42,8 +42,8 @@ export default function TabsLayout() {
       minimizeBehavior="onScrollDown"
       hidden={hideTabBar}
     >
-      {/* Today/Explore/Library/You all resolve to the shared array group
-          (today,explore,library,you); edge-to-edge so the Today flourish can
+      {/* Today/You/Search all resolve to the shared array group
+          (today,you,search); edge-to-edge so the Today flourish can
           bleed up into the notch — ScreenLayout's manual safe-area padding owns
           the insets. */}
       {/* Full-color illuminated icons. renderingMode="original" is essential —
@@ -57,22 +57,6 @@ export default function TabsLayout() {
           renderingMode="original"
         />
         <NativeTabs.Trigger.Label>{t('nav.today')}</NativeTabs.Trigger.Label>
-      </NativeTabs.Trigger>
-
-      <NativeTabs.Trigger name="(explore)" disableAutomaticContentInsets>
-        <NativeTabs.Trigger.Icon
-          src={require('../../../assets/nav-icons/explore.png')}
-          renderingMode="original"
-        />
-        <NativeTabs.Trigger.Label>{t('nav.explore')}</NativeTabs.Trigger.Label>
-      </NativeTabs.Trigger>
-
-      <NativeTabs.Trigger name="(library)" disableAutomaticContentInsets>
-        <NativeTabs.Trigger.Icon
-          src={require('../../../assets/nav-icons/library.png')}
-          renderingMode="original"
-        />
-        <NativeTabs.Trigger.Label>{t('nav.library')}</NativeTabs.Trigger.Label>
       </NativeTabs.Trigger>
 
       <NativeTabs.Trigger name="(you)" disableAutomaticContentInsets>

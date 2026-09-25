@@ -8,7 +8,7 @@
  *
  * - Boot — `app/_layout.tsx`: `startCreators()` in `initCorpus`, before
  *   `rehydratePinned()` (pinning learns the `creator` kind there).
- * - Routes — `app/(tabs)/(today,explore,library,you,search)/creators/`, one
+ * - Routes — `app/(tabs)/(today,you,search)/creators/`, one
  *   `export { X as default } from '@/features/creators'` file per screen:
  *   `_layout` → CreatorsLayout, `index` → CreatorsScreen,
  *   `[creatorId]` → CreatorScreen, `[creatorId]/episode/[itemId]` →

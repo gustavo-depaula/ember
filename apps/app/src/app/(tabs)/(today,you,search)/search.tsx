@@ -22,6 +22,7 @@ import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { bareId, getEntriesByKind } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { ExploreCatalogRows } from '@/features/explore'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
 import { SearchAutocomplete } from '@/features/practices/components'
@@ -36,7 +37,8 @@ const flourishLightAspect = 2153 / 334
 // Search tab: the iOS 26 header search bar morphs out of the tab. With a query
 // it runs live corpus search (practices/books/collections); empty, it's the
 // illuminated portfolio — a jewel-toned grid of shortcuts into every feature,
-// the Bible, the catechism, and the living collections of the corpus.
+// the Bible, the catechism, and the living collections of the corpus, then the
+// browsable catalogue rows (The Library, devotions, traditions).
 export default function SearchScreen() {
   const { t } = useTranslation()
   const [query, setQuery] = useState('')
@@ -199,6 +201,7 @@ export default function SearchScreen() {
             <Section title={t('search.sectionCollections')}>
               <ShortcutGrid items={withTones(libraryTiles)} />
             </Section>
+            <ExploreCatalogRows />
           </YStack>
         )}
       </ScreenLayout>

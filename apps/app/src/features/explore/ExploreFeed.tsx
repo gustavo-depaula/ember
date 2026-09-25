@@ -23,23 +23,24 @@ import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
 import { FeatureTile } from './FeatureTile'
-import { FromOpusDei } from './FromOpusDei'
-import { FromRome } from './FromRome'
 import { useMeditationSubtitle } from './meditationSubtitle'
 import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
 
 const dayMs = 86_400_000
+const bookHref = (id: string): Href => ({
+  pathname: '/browse/book/[bookId]',
+  params: { bookId: bareId(id) },
+})
 const isMeta = (id: string) => /example|starter|sandbox/.test(id)
 
 /**
- * The Explore feed body: a featured carousel (Gospel of the Day → Saint of the
- * Day → today's weekday devotion → For this Season → Featured Reading), then
- * imagery-rich rows (The Library and a couple of curated collection
- * rows). Derived off the liturgical day and re-derived as deferred catalog
- * manifests warm (`useCatalogVersion`).
+ * The daily featured carousel (Gospel of the Day → Saint of the Day → today's
+ * weekday devotion → For this Season → Featured Reading) and the Daily
+ * Meditations row, shown on Today. Derived off the liturgical day and
+ * re-derived as deferred catalog manifests warm (`useCatalogVersion`).
  */
-export function ExploreFeed() {
+export function ExploreFeatured() {
   const router = useRouter()
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
@@ -60,25 +61,11 @@ export function ExploreFeed() {
     [catalogVersion],
   )
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const devotions = useMemo(
-    () => collectionRow(featured.devotionRow),
-    [catalogVersion, featured.devotionRow],
-  )
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const traditions = useMemo(
-    () => collectionRow(featured.traditionRow),
-    [catalogVersion, featured.traditionRow],
-  )
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const meditations = useMemo(
     () => practiceRow(featured.meditationRow),
     [catalogVersion, featured.meditationRow],
   )
 
-  const bookHref = (id: string): Href => ({
-    pathname: '/browse/book/[bookId]',
-    params: { bookId: bareId(id) },
-  })
   const goBook = (id: string) => router.push(bookHref(id))
   const goCollection = (id: string) => {
     warmCollection(id)
@@ -190,7 +177,39 @@ export function ExploreFeed() {
           ))}
         </ArtCarousel>
       )}
+    </>
+  )
+}
 
+/**
+ * The browsable catalogue rows — The Library and the season's curated
+ * devotion and tradition collections — shown on Search's empty state.
+ */
+export function ExploreCatalogRows() {
+  const { t } = useTranslation()
+  const catalogVersion = useCatalogVersion()
+  const today = useToday()
+  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
+  const featured = pickFeatured(getLiturgicalSeason(today, form), today)
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const books = useMemo(
+    () => getEntriesByKind('book').filter(([id]) => !isMeta(id)),
+    [catalogVersion],
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const devotions = useMemo(
+    () => collectionRow(featured.devotionRow),
+    [catalogVersion, featured.devotionRow],
+  )
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const traditions = useMemo(
+    () => collectionRow(featured.traditionRow),
+    [catalogVersion, featured.traditionRow],
+  )
+
+  return (
+    <>
       {books.length > 0 && (
         <ArtCarousel title={t('explore.theLibrary')}>
           {books.slice(0, 18).map(([id, entry]) => (
@@ -241,10 +260,6 @@ export function ExploreFeed() {
           ))}
         </ArtCarousel>
       )}
-
-      <FromRome />
-
-      <FromOpusDei />
     </>
   )
 }

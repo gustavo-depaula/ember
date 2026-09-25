@@ -1,8 +1,8 @@
 import { Stack } from 'expo-router'
 import { useTheme } from 'tamagui'
 
-// Shared array group: the same route files back all five tabs (today/explore/
-// library/you/search), each with its own independent stack. Detail routes
+// Shared array group: the same route files back all three tabs (today/you/
+// search), each with its own independent stack. Detail routes
 // (bible, browse, creators, …) therefore stay reachable from whichever tab is
 // active while the native tab bar + now-playing accessory remain visible (Apple
 // Podcasts pattern) — and "back" returns to the tab you opened them from. The
@@ -11,8 +11,6 @@ import { useTheme } from 'tamagui'
 // keep working). Search anchors on `search` (the portfolio + iOS search bar).
 export const unstable_settings = {
   anchor: 'index',
-  explore: { anchor: 'explore' },
-  library: { anchor: 'library' },
   you: { anchor: 'you' },
   search: { anchor: 'search' },
 }

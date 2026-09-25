@@ -17,7 +17,6 @@ import { ShortcutRow } from '@/features/home'
 import { useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 
-import { ContinueRow } from './ContinueRow'
 import { CreateCollectionSheet } from './CreateCollectionSheet'
 import { useSavedItems } from './savedHooks'
 import { useUserCollections } from './userCollectionHooks'
@@ -27,8 +26,8 @@ import { useUserCollections } from './userCollectionHooks'
 type Shelf = Array<[id: string, entry: CatalogEntry, savedAt: number]>
 
 /**
- * The Library body: the user's own shelf, built from what they've gathered. A
- * "Continue" strip, their own collections, shelves of saved books, prayers, and
+ * The user's own shelf, shown on Me, built from what they've gathered: their
+ * own collections, shelves of saved books, prayers, and
  * collections, and a gallery of holy cards. Saving is a lightweight bookmark (offline is separate), so a shelf can
  * be deep without costing storage. Derived off the live catalog, so a shelf
  * fills in as deferred manifests warm (`useCatalogVersion`).
@@ -83,8 +82,6 @@ export function LibraryFeed() {
 
   return (
     <>
-      <ContinueRow />
-
       <ArtCarousel title={t('library.yourCollections')}>
         {myCollections.map((c) => (
           <ArtCoverCard

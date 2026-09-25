@@ -249,7 +249,7 @@ None block today's work; logged here so the cleanup isn't rediscovered from scra
 ### Page Flourish (`PageFlourish` component)
 - Rectangular `expo-image` banner that bleeds up into the safe-area notch as a tab's
   header art; the page title renders **below** it in normal flow.
-- One transparent PNG per tab in `assets/textures/` (`notch_{explore,library,search,you}_dark.png`).
+- One transparent PNG per tab in `assets/textures/` (`notch_{search,you}_dark.png`).
   Theme-aware via a `dark`/optional `light` pair; until the light art is generated,
   `light` falls back to `dark` on both themes.
 - Full-bleed: `marginTop={-insets.top}` pulls it into the notch, `marginHorizontal="$-lg"`
@@ -324,7 +324,7 @@ None block today's work; logged here so the cleanup isn't rediscovered from scra
 - **Active state:** Gold accent fill or stroke
 - **Inactive state:** Secondary text color
 - **Size:** 24px for navigation, 20px for inline, 32px for feature cards
-- **Bottom tab bar is the exception** — the five tabs use full-color *illuminated medallion* PNGs (`assets/nav-icons/`, masters in `nav-icons/source/`), not line icons, rendered inside `NativeTabs` with `renderingMode="original"` (so they keep their gold/bronze color instead of being tinted). Labels are Junicode via `NativeTabs labelStyle` using the font's **PostScript name** (`Junicode-Light`), not the `useFonts` key or the `$title` token. See the 2026-05-31 journal entry for the API details and gotchas.
+- **Bottom tab bar is the exception** — the three tabs use full-color *illuminated medallion* PNGs (`assets/nav-icons/`, masters in `nav-icons/source/`), not line icons, rendered inside `NativeTabs` with `renderingMode="original"` (so they keep their gold/bronze color instead of being tinted). Labels are Junicode via `NativeTabs labelStyle` using the font's **PostScript name** (`Junicode-Light`), not the `useFonts` key or the `$title` token. See the 2026-05-31 journal entry for the API details and gotchas.
 
 ---
 

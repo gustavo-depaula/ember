@@ -7,9 +7,9 @@ import { toneForKey } from '@/features/explore/bgColor'
 import { useBibleStore } from '@/stores/bibleStore'
 
 /**
- * "Continue" — the strip atop the Library: resume the Bible where the user left
- * off. Hidden entirely when there's nothing in progress (Bible at its Genesis-1
- * default), keeping a fresh Library from opening on a stale rail.
+ * "Continue" — the strip on Today: resume the Bible where the user left off.
+ * Hidden entirely when there's nothing in progress (Bible at its Genesis-1
+ * default), so a fresh Today doesn't open on a stale rail.
  */
 export function ContinueRow() {
   const { t } = useTranslation()

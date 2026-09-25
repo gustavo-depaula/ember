@@ -69,7 +69,7 @@ describe('PracticeFlow — compendium (program practice)', () => {
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/(tabs)/(today,explore,library,you,search)/pray/[practiceId]'),
+          loader: () => import('@/app/(tabs)/(today,you,search)/pray/[practiceId]'),
         },
       ],
     })
