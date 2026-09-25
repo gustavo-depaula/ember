@@ -70,7 +70,7 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
       return (
         <YStack gap="$xs" paddingBottom="$sm">
           <SectionHeading>{primitive.text.primary}</SectionHeading>
-          <Typography variant="label" tone="muted">
+          <Typography variant="section-title" fontSize="$3" tone="muted">
             {primitive.note.primary}
           </Typography>
         </YStack>
