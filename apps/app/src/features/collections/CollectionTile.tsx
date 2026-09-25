@@ -24,7 +24,7 @@ import type {
   CollectionItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
-import { coverFor, GeneratedCover } from '@/features/covers'
+import { articleAspect, coverFor, GeneratedCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex } from '@/features/explore/bgColor'
 import { useAllSlots } from '@/features/plan-of-life'
@@ -64,10 +64,13 @@ export function CollectionTile({
   item,
   width,
   aspectRatio,
+  series,
 }: {
   item: CollectionItem
   width: number | string
   aspectRatio: number
+  /** The collection's name, printed as a tract's kicker. */
+  series?: string
 }) {
   const allSlots = useAllSlots()
   const entry = getEntry(item.ref)
@@ -108,14 +111,23 @@ export function CollectionTile({
   }
 
   const label = localizeContent(title)
-  const cover = !image && entry && typeof width === 'number' ? coverFor(entry) : undefined
+  const cover = (() => {
+    if (image || !entry || typeof width !== 'number') return undefined
+    const c = coverFor(entry)
+    return c?.kind === 'article' ? { ...c, kicker: series } : c
+  })()
   // A small kicker glyph, not a hero illustration — the headline leads.
   const iconSize = typeof width === 'number' ? Math.round(width * 0.17) : 24
 
   if (cover && typeof width === 'number') {
-    // A generated cover keeps its own proportions: a book as tall as the jewel
-    // tiles, a holy card square. Both sit on the row's baseline like books on a shelf.
-    const coverWidth = cover.kind === 'book' ? Math.round((width * aspectRatio) / 1.5) : width
+    // A generated cover keeps its own proportions: a book or tract as tall as
+    // the jewel tiles, a card square — all on the row's baseline like books on a shelf.
+    const coverWidth = (() => {
+      const tall = width / aspectRatio
+      if (cover.kind === 'book') return Math.round(tall / 1.5)
+      if (cover.kind === 'article') return Math.round(tall / articleAspect)
+      return width
+    })()
     return (
       <ZoomLink href={href}>
         <AnimatedPressable accessibilityRole="link" accessibilityLabel={label}>

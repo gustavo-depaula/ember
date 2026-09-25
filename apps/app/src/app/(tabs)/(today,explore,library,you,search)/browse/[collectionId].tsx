@@ -9,6 +9,7 @@ import { Typography } from '@/components/typography'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { CollectionItemManifest } from '@/content/manifestTypes'
 import { CollectionHero, PrologueProse, SectionList } from '@/features/collections'
+import { coverFor } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
@@ -93,6 +94,7 @@ export default function CollectionDetailScreen() {
         name={name}
         tagline={tagline}
         image={artFor(collectionId)}
+        cover={collectionEntry ? coverFor(collectionEntry) : undefined}
         tone={toneByIndex(toneIndexForId(collectionId))}
         scrollY={scrollY}
       />

@@ -13,6 +13,7 @@ import { XStack, YStack } from 'tamagui'
 
 import { ProseBlock as PrayerProseBlock } from '@/components/prayer'
 import { Typography } from '@/components/typography'
+import { getEntry } from '@/content/contentIndex'
 import type {
   CollectionBlock,
   CollectionItem,
@@ -60,6 +61,8 @@ export function SectionView({
 }) {
   const itemBlocks = section.blocks.filter((b): b is ItemBlock => b.kind === 'item')
   const otherBlocks = section.blocks.filter((b) => b.kind !== 'item')
+  // Tracts carry the collection's name as their kicker, like a series imprint.
+  const collectionName = getEntry(collectionId)?.name
 
   return (
     <YStack gap="$md" paddingLeft={depth > 0 ? '$md' : 0}>
@@ -74,7 +77,13 @@ export function SectionView({
       {itemBlocks.length > 0 && (
         <CardRow>
           {itemBlocks.map((b) => (
-            <CollectionTile key={b.ref} item={b} width={140} aspectRatio={10 / 12} />
+            <CollectionTile
+              key={b.ref}
+              item={b}
+              width={140}
+              aspectRatio={10 / 12}
+              series={collectionName ? localizeContent(collectionName) : undefined}
+            />
           ))}
         </CardRow>
       )}

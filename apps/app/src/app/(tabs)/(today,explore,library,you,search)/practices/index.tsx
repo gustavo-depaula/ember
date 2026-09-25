@@ -24,6 +24,7 @@ import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { collectionHref, warmCollection } from '@/features/collections'
+import { coverFor } from '@/features/covers'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
@@ -209,6 +210,7 @@ export default function PracticeCatalogScreen() {
                   key={id}
                   title={localizeContent(entry.name ?? {})}
                   image={artFor(id)}
+                  cover={coverFor(entry)}
                   tone={toneForKey(id)}
                   href={collectionHref(id)}
                   onPress={() => warmCollection(id)}
@@ -224,6 +226,7 @@ export default function PracticeCatalogScreen() {
                   key={id}
                   title={localizeContent(entry.name ?? {})}
                   image={artFor(id)}
+                  cover={coverFor(entry)}
                   tone={toneForKey(id)}
                   href={collectionHref(id)}
                   onPress={() => warmCollection(id)}

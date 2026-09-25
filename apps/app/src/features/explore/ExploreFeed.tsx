@@ -231,6 +231,7 @@ export function ExploreFeed() {
               key={id}
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
+              cover={coverFor(entry)}
               tone={toneForKey(id)}
               href={collectionHref(id)}
               onPress={() => warmCollection(id)}
@@ -246,6 +247,7 @@ export function ExploreFeed() {
               key={id}
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
+              cover={coverFor(entry)}
               tone={toneForKey(id)}
               href={collectionHref(id)}
               onPress={() => warmCollection(id)}

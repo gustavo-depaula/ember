@@ -8,7 +8,7 @@ import { Typography } from '@/components/typography'
 import { bareId, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { coverFor } from '@/features/covers'
+import { coverFor, userCollectionCover } from '@/features/covers'
 import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { routeFor } from '@/features/creators/components/feedItemRoute'
 import { useFollows, useLatestForFollowed } from '@/features/creators/hooks'
@@ -98,6 +98,7 @@ export function LibraryFeed() {
             key={c.id}
             title={c.name}
             subtitle={c.description}
+            cover={userCollectionCover}
             tone={toneByIndex(c.coverTone)}
             href={{ pathname: '/browse/my/[collectionId]', params: { collectionId: c.id } }}
           />
@@ -151,6 +152,7 @@ export function LibraryFeed() {
               key={id}
               title={localizeContent(entry.name ?? {})}
               image={artFor(id)}
+              cover={coverFor(entry)}
               tone={toneForKey(id)}
               onPress={() => goCollection(id)}
             />

@@ -57,16 +57,20 @@ export type CatalogEntry = {
   rank?: string
   liturgicalColor?: string
   itemCount?: number
+  /** Collection items by ref kind (`book`, `practice`, …) — "48 volumes" on the cover. */
+  itemCounts?: Partial<Record<string, number>>
   // Creator-kind hints (populated by build_creators in scripts/build-corpus.py).
   creatorRole?: CreatorRole
   creatorLanguages?: CreatorLanguage[]
   hasQa?: boolean
   // Tile hints: practices marked as prayers draw a holy card (liturgical ones a
-  // breviary page) instead of the colored practice card; books name their cover.
+  // breviary page) instead of the colored practice card; books and collections
+  // name their cover; chapters draw a tract with subtitle and reading time.
   form?: 'prayer'
   liturgical?: boolean
   estimatedMinutes?: number
   cover?: string
+  subtitle?: LocalizedText
 }
 
 export type Catalog = {

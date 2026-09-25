@@ -7,6 +7,7 @@ import { useTheme, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
 import { CollectionHero, SectionList } from '@/features/collections'
+import { userCollectionCover } from '@/features/covers'
 import { toneByIndex } from '@/features/explore/bgColor'
 import { ManageCollectionSheet, userCollectionRef, useUserCollection } from '@/features/library'
 import { useNowPlayingClearance } from '@/stores/creatorsStore'
@@ -67,6 +68,7 @@ export default function UserCollectionScreen() {
             kind="usercollection"
             name={collection.name}
             tagline={collection.description}
+            cover={userCollectionCover}
             tone={toneByIndex(collection.coverTone)}
             scrollY={scrollY}
             onEdit={() => setManaging(true)}

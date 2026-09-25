@@ -1,6 +1,7 @@
 {
 	"id": "collection/church-fathers",
 	"version": "1.0.0",
+	"cover": "slipcase",
 	"name": {
 		"en-US": "The Fathers of the Church"
 	},

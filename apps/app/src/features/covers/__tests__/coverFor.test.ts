@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 
 import type { CatalogEntry } from '@/content/manifestTypes'
-import { bookCoverFormat, coverFor } from '../coverFor'
+import { bookCoverFormat, collectionCoverStyle, coverFor } from '../coverFor'
 
 const entry = (e: Partial<CatalogEntry>): CatalogEntry => ({
   kind: 'practice',
@@ -42,7 +42,29 @@ describe('coverFor', () => {
     })
   })
 
+  it('draws collections as the object their manifest names, counting what they hold', () => {
+    const cover = coverFor(
+      entry({ kind: 'collection', cover: 'boxed', itemCounts: { book: 48, practice: 2 } }),
+    )
+    expect(cover).toEqual({ kind: 'collection', style: 'boxed', volumes: 48, prayers: 2 })
+  })
+
+  it('draws chapters as tracts with subtitle and reading time', () => {
+    const cover = coverFor(
+      entry({ kind: 'chapter', subtitle: { 'en-US': 'On dryness' }, estimatedMinutes: 10 }),
+    )
+    expect(cover).toEqual({ kind: 'article', subtitle: 'On dryness', minutes: 10 })
+  })
+
   it('leaves other kinds to the versal', () => {
-    expect(coverFor(entry({ kind: 'collection' }))).toBeUndefined()
+    expect(coverFor(entry({ kind: 'creator' }))).toBeUndefined()
+  })
+})
+
+describe('collectionCoverStyle', () => {
+  it('gathers unnamed or unknown collections into a packet', () => {
+    expect(collectionCoverStyle('ordo')).toBe('ordo')
+    expect(collectionCoverStyle(undefined)).toBe('packet')
+    expect(collectionCoverStyle('crate')).toBe('packet')
   })
 })

@@ -1,6 +1,7 @@
 {
 	"id": "collection/base",
 	"version": "1.0.0",
+	"cover": "ordo",
 	"name": {
 		"en-US": "Catholic Daily Prayers",
 		"pt-BR": "Orações Católicas Diárias"

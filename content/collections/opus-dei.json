@@ -1,6 +1,7 @@
 {
 	"id": "collection/opus-dei",
 	"version": "1.0.0",
+	"cover": "ordo",
 	"name": {
 		"en-US": "The Norms of Piety",
 		"pt-BR": "As Normas de Piedade"

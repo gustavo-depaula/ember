@@ -968,6 +968,13 @@ export default {
     homeTagline: 'Read sheet music',
   },
 
+  covers: {
+    volumes_one: '{{count}} volume',
+    volumes_other: '{{count}} volumes',
+    prayers_one: '{{count}} prayer',
+    prayers_other: '{{count}} prayers',
+    minRead: '{{minutes}} min read',
+  },
   catalog: {
     title: 'Pray',
     search: 'Search practices...',

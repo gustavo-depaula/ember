@@ -1,6 +1,7 @@
 {
 	"id": "collection/papal-magisterium",
 	"version": "1.0.0",
+	"cover": "slipcase",
 	"name": {
 		"en-US": "Papal Magisterium & Vatican II"
 	},

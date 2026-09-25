@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react'
 import { type StyleProp, Text, type TextStyle } from 'react-native'
-import Svg, { Circle, LinearGradient, Path, Stop } from 'react-native-svg'
+import Svg, { Circle, LinearGradient, Path, Rect, Stop } from 'react-native-svg'
 
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 
@@ -113,4 +113,57 @@ export function LaceDots({ size, color }: { size: number; color: string }) {
       ))}
     </>
   )
+}
+
+/**
+ * A lace-edged card in viewBox units, for covers drawn in one Svg (the packet's
+ * fanned cards): dots ringing the edge, the body painted over their centres.
+ */
+export function LaceRect({
+  x,
+  y,
+  w,
+  h,
+  color,
+}: {
+  x: number
+  y: number
+  w: number
+  h: number
+  color: string
+}) {
+  const cols = Math.round(w / 5.6)
+  const rows = Math.round(h / 5.6)
+  const sx = w / cols
+  const sy = h / rows
+  const r = Math.min(sx, sy) * 0.37
+  const dots: Array<[number, number]> = []
+  for (let i = 0; i < cols; i++) {
+    const cx = x + sx / 2 + i * sx
+    dots.push([cx, y + sy / 2], [cx, y + h - sy / 2])
+  }
+  // Corners already came from the top and bottom rows.
+  for (let j = 1; j < rows - 1; j++) {
+    const cy = y + sy / 2 + j * sy
+    dots.push([x + sx / 2, cy], [x + w - sx / 2, cy])
+  }
+  return (
+    <>
+      {dots.map(([cx, cy]) => (
+        <Circle key={`${cx}-${cy}`} cx={cx} cy={cy} r={r} fill={color} />
+      ))}
+      <Rect x={x + sx / 2} y={y + sy / 2} width={w - sx} height={h - sy} rx={1} fill={color} />
+    </>
+  )
+}
+
+/** `a` blended toward `b` by `t` (0–1), both #RRGGBB — shades of one tone. */
+export function mixHex(a: string, b: string, t: number) {
+  const channel = (hex: string, i: number) => Number.parseInt(hex.slice(1 + i * 2, 3 + i * 2), 16)
+  const mixed = [0, 1, 2].map((i) =>
+    Math.round(channel(a, i) * (1 - t) + channel(b, i) * t)
+      .toString(16)
+      .padStart(2, '0'),
+  )
+  return `#${mixed.join('')}`
 }

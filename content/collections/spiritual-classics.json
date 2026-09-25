@@ -1,6 +1,7 @@
 {
 	"id": "collection/spiritual-classics",
 	"version": "1.0.0",
+	"cover": "slipcase",
 	"name": {
 		"en-US": "Spiritual Classics",
 		"pt-BR": "Clássicos Espirituais"

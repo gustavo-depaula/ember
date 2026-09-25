@@ -6,6 +6,9 @@
  * over the lower image in cream ink with a soft shadow. Back and offline
  * controls float as liquid-glass circles (with an opaque fallback off iOS 26).
  *
+ * Without a painting, the collection's generated cover (boxed set, packet,
+ * Ordo…) stands centered on its tone with the title beneath, as on a book page.
+ *
  * `overflow` is left visible so the stretched image can spill up into the
  * overscroll; the opaque content column below covers any lower spill.
  */
@@ -30,6 +33,7 @@ import { Text, XStack, YStack } from 'tamagui'
 
 import { GlassCircle, textShadow } from '@/components/ornaments'
 import { Typography } from '@/components/typography'
+import { GeneratedCover, type TileCover } from '@/features/covers'
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 import { useSaveToggle } from '@/features/library/savedHooks'
 import { usePinToggle } from '@/features/pinning/hooks'
@@ -39,6 +43,7 @@ export function CollectionHero({
   name,
   tagline,
   image,
+  cover,
   tone,
   scrollY,
   kind = 'collection',
@@ -49,6 +54,8 @@ export function CollectionHero({
   name: string
   tagline?: string
   image?: ImageSource
+  /** Drawn centered when there's no painting. */
+  cover?: TileCover
   tone: BlockTone
   scrollY: SharedValue<number>
   /** Catalog kind for the Save row. 'usercollection' hides the offline control. */
@@ -70,6 +77,11 @@ export function CollectionHero({
   const OfflineIcon = isWorking ? Loader : pinned ? Check : CloudDownload
   const SaveIcon = saved ? BookmarkCheck : Bookmark
   const heroHeight = Math.round(windowHeight * 0.5) + insets.top
+  const showCover = !image && cover !== undefined
+  // Whatever the hero leaves between the controls and the title block.
+  const coverSize = Math.round(
+    Math.min(200, Math.max(120, heroHeight - insets.top - 56 - 110 - 40)),
+  )
 
   // Pull-down (scrollY < 0) grows the painting to fill the overscroll, anchored
   // to the top, rather than revealing the page background above it.
@@ -97,6 +109,11 @@ export function CollectionHero({
             accessibilityLabel={name}
           />
         </Animated.View>
+      ) : showCover ? (
+        <Animated.View
+          style={[StyleSheet.absoluteFill, stretch, { backgroundColor: tone.from }]}
+          pointerEvents="none"
+        />
       ) : (
         <Text
           position="absolute"
@@ -164,29 +181,60 @@ export function CollectionHero({
         </XStack>
       </XStack>
 
-      <YStack padding="$lg" gap="$xs">
-        <Typography
-          variant="screen-title"
-          textAlign="left"
-          color={blockInk}
-          fontSize={32}
-          lineHeight={36}
-          numberOfLines={3}
-          style={textShadow}
-        >
-          {name}
-        </Typography>
-        {tagline && (
+      {showCover ? (
+        <YStack alignItems="center" gap="$md" paddingHorizontal="$lg" paddingBottom={40}>
+          <GeneratedCover cover={cover} title={name} tone={tone} width={coverSize} />
+          <YStack alignItems="center" gap="$xs">
+            <Typography
+              variant="sacred-title"
+              textAlign="center"
+              color={blockInk}
+              fontSize={26}
+              lineHeight={30}
+              numberOfLines={2}
+              style={textShadow}
+            >
+              {name}
+            </Typography>
+            {tagline && (
+              <Typography
+                variant="caption"
+                fontSize="$1"
+                textAlign="center"
+                color="rgba(245,239,226,0.9)"
+                numberOfLines={3}
+                style={textShadow}
+              >
+                {tagline}
+              </Typography>
+            )}
+          </YStack>
+        </YStack>
+      ) : (
+        <YStack padding="$lg" gap="$xs">
           <Typography
-            variant="caption"
-            fontSize="$1"
-            color="rgba(245,239,226,0.9)"
+            variant="screen-title"
+            textAlign="left"
+            color={blockInk}
+            fontSize={32}
+            lineHeight={36}
+            numberOfLines={3}
             style={textShadow}
           >
-            {tagline}
+            {name}
           </Typography>
-        )}
-      </YStack>
+          {tagline && (
+            <Typography
+              variant="caption"
+              fontSize="$1"
+              color="rgba(245,239,226,0.9)"
+              style={textShadow}
+            >
+              {tagline}
+            </Typography>
+          )}
+        </YStack>
+      )}
     </YStack>
   )
 }

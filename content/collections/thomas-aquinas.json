@@ -1,6 +1,7 @@
 {
 	"id": "collection/thomas-aquinas",
 	"version": "2.0.0",
+	"cover": "boxed",
 	"name": {
 		"en-US": "St. Thomas Aquinas",
 		"pt-BR": "São Tomás de Aquino",

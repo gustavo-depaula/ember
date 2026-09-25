@@ -1,6 +1,7 @@
 {
 	"id": "collection/liturgical-year",
 	"version": "1.0.0",
+	"cover": "ordo",
 	"name": {
 		"en-US": "The Liturgical Year",
 		"pt-BR": "O Ano Litúrgico"

@@ -1,6 +1,7 @@
 {
 	"id": "collection/catholic-encyclopedia",
 	"version": "1.0.0",
+	"cover": "slipcase",
 	"name": {
 		"en-US": "The Catholic Encyclopedia (1907–1914)"
 	},

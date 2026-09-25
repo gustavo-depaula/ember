@@ -1,6 +1,7 @@
 {
   "id": "collection/athanasius",
   "version": "1.0.0",
+  "cover": "boxed",
   "name": {
     "en-US": "St. Athanasius of Alexandria"
   },

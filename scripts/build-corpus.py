@@ -357,6 +357,9 @@ def build_chapters(b: Builder) -> None:
             catalog_entry["title"] = meta["title"]
         if "tags" in meta:
             catalog_entry["tags"] = meta["tags"]
+        for key in ("subtitle", "estimatedMinutes"):
+            if key in meta:
+                catalog_entry[key] = meta[key]
         b.add_catalog(f"chapter/{cid}", catalog_entry)
 
 
@@ -984,8 +987,11 @@ def build_do(b: Builder) -> None:
     emit("meta", {"id": "do-data/meta", **meta})
 
 
-def _count_collection_items(blocks: list[dict] | None, depth: int = 0, cid: str = "") -> int:
-    """Recursively count item-blocks in a section's blocks tree.
+def _count_collection_items(
+    blocks: list[dict] | None, depth: int = 0, cid: str = "", by_kind: dict | None = None
+) -> int:
+    """Recursively count item-blocks in a section's blocks tree (and, into
+    `by_kind`, per ref kind — the generated cover says "48 volumes").
 
     Enforces the depth-2 nesting cap so the corpus can never publish a tree
     the renderer doesn't know how to display.
@@ -997,12 +1003,15 @@ def _count_collection_items(blocks: list[dict] | None, depth: int = 0, cid: str 
         kind = b.get("kind")
         if kind == "item":
             n += 1
+            if by_kind is not None:
+                ref_kind = str(b.get("ref", "")).split("/", 1)[0]
+                by_kind[ref_kind] = by_kind.get(ref_kind, 0) + 1
         elif kind == "section":
             if depth >= 1:
                 raise ValueError(
                     f"collection {cid}: sections may nest at most one level deep"
                 )
-            n += _count_collection_items(b.get("blocks"), depth + 1, cid)
+            n += _count_collection_items(b.get("blocks"), depth + 1, cid, by_kind)
         # 'prose' has no ref — not counted
     return n
 
@@ -1029,9 +1038,10 @@ def build_collections(b: Builder) -> None:
 
         # Count items by walking sections (validates depth as a side effect).
         item_count = 0
+        item_counts: dict[str, int] = {}
         for section in data["sections"]:
             blocks = section.get("blocks") if isinstance(section, dict) else None
-            item_count += _count_collection_items(blocks, 0, f"collection/{cid}")
+            item_count += _count_collection_items(blocks, 0, f"collection/{cid}", item_counts)
 
         h, size = b.write_json_blob(data)
         catalog_entry = {"kind": "collection", "hash": h, "size": size}
@@ -1043,7 +1053,10 @@ def build_collections(b: Builder) -> None:
             catalog_entry["tags"] = data["tags"]
         if "icon" in data:
             catalog_entry["icon"] = data["icon"]
+        if "cover" in data:
+            catalog_entry["cover"] = data["cover"]
         catalog_entry["itemCount"] = item_count
+        catalog_entry["itemCounts"] = item_counts
         b.add_catalog(f"collection/{cid}", catalog_entry)
 
 

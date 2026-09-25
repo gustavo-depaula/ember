@@ -8,6 +8,7 @@ import { getCollectionItems, getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { collectionHref, warmCollection } from '@/features/collections'
+import { coverFor } from '@/features/covers'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
@@ -17,6 +18,7 @@ type CollectionRow = {
   id: string
   name: string
   practiceCount: number
+  entry: CatalogEntry
 }
 
 // Two square jewel cards across the standard ScreenLayout column (max 640,
@@ -51,6 +53,7 @@ export default function AllCollectionsScreen() {
         id,
         name,
         practiceCount: getCollectionItems(id).filter((i) => i.entry?.kind === 'practice').length,
+        entry,
       })
     }
     out.sort((a, b) => a.name.localeCompare(b.name))
@@ -88,6 +91,7 @@ export default function AllCollectionsScreen() {
                   defaultValue: `${c.practiceCount} items`,
                 })}
                 image={artFor(c.id)}
+                cover={coverFor(c.entry)}
                 tone={toneForKey(c.id)}
                 size={size}
                 href={collectionHref(c.id)}

@@ -972,6 +972,13 @@ export default {
     homeTagline: 'Aprender notação musical',
   },
 
+  covers: {
+    volumes_one: '{{count}} volume',
+    volumes_other: '{{count}} volumes',
+    prayers_one: '{{count}} oração',
+    prayers_other: '{{count}} orações',
+    minRead: '{{minutes}} min de leitura',
+  },
   catalog: {
     title: 'Orar',
     search: 'Buscar práticas...',

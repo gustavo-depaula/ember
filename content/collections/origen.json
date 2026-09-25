@@ -1,6 +1,7 @@
 {
   "id": "collection/origen",
   "version": "1.0.0",
+  "cover": "boxed",
   "name": {
     "en-US": "Origen of Alexandria"
   },
