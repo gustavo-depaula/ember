@@ -8,6 +8,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, SectionDivider } from '@/components'
+import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { getCollectionsForItem, getEntry } from '@/content/contentIndex'
 import { getHourSlots } from '@/content/pins'
@@ -42,9 +43,6 @@ import {
 import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
 import { PracticeHero, PracticeTeachingContent, VariantList } from '@/features/practices/components'
 import { localizeContent } from '@/lib/i18n'
-import { useNowPlayingClearance } from '@/stores/creatorsStore'
-
-const nativeTabBarClearance = 56
 
 export default function CatalogDetailScreen() {
   const { t } = useTranslation()
@@ -52,7 +50,7 @@ export default function CatalogDetailScreen() {
   const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
-  const nowPlaying = useNowPlayingClearance()
+  const bottomClearance = useBottomClearance()
   const background = theme.background?.val ?? '#000000'
 
   // Drive the hero's stretch-on-pull-down off the scroll offset.
@@ -253,7 +251,7 @@ export default function CatalogDetailScreen() {
         scrollEventThrottle={16}
         style={{ flex: 1, backgroundColor: background }}
         contentContainerStyle={{
-          paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying,
+          paddingBottom: insets.bottom + bottomClearance,
         }}
         contentInsetAdjustmentBehavior="never"
       >

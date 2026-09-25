@@ -4,27 +4,18 @@ import { useTranslation } from 'react-i18next'
 import { DynamicColorIOS, Platform } from 'react-native'
 
 import { darkTheme, lightTheme } from '@/config/themes'
-import { NowPlayingBar } from '@/features/creators/audio/NowPlayingBar'
-import { useCreatorsStore } from '@/stores/creatorsStore'
 
 // Native iOS 26 Liquid Glass tab bar (and native selection morph) come for
 // free from UITabBarController; the search role gives the separate circular
 // search affordance that expands into a field, exactly like Apple Podcasts.
-// The now-playing pill lives in the BottomAccessory so it stays anchored above
-// the bar and persists across navigation (detail routes are nested in (home)).
 export default function TabsLayout() {
   const { t } = useTranslation()
   const pathname = usePathname()
-  const nowPlaying = useCreatorsStore((s) => s.nowPlaying)
 
   const tintColor =
     Platform.OS === 'ios'
       ? DynamicColorIOS({ light: lightTheme.accent, dark: darkTheme.accent })
       : lightTheme.accent
-
-  // Hide the accessory entirely on the playing item's own page (the full
-  // player is shown there) — otherwise the accessory renders an empty pill.
-  const showPlayer = !!nowPlaying && !pathname?.endsWith(`/episode/${nowPlaying.itemId}`)
 
   // Slide the tab bar away on full-screen reading surfaces (Apple's "hide
   // bottom bar when pushed" pattern). The book reader's WebView intercepts
@@ -51,12 +42,6 @@ export default function TabsLayout() {
       minimizeBehavior="onScrollDown"
       hidden={hideTabBar}
     >
-      {showPlayer ? (
-        <NativeTabs.BottomAccessory>
-          <NowPlayingBar />
-        </NativeTabs.BottomAccessory>
-      ) : null}
-
       {/* Today/Explore/Library/You all resolve to the shared array group
           (today,explore,library,you); edge-to-edge so the Today flourish can
           bleed up into the notch — ScreenLayout's manual safe-area padding owns

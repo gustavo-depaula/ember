@@ -4,7 +4,7 @@ import { immer } from 'zustand/middleware/immer'
 import {
   createSession as repoCreateSession,
   endSession as repoEndSession,
-} from '@/db/repositories/custody'
+} from '@/features/custody/db'
 
 import type { Anchor, CustodySession, SessionAnchorType, SessionEndReason } from './types'
 

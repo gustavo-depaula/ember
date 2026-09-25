@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
-
+import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { CollectionItemManifest } from '@/content/manifestTypes'
@@ -13,9 +13,6 @@ import { coverFor } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
-import { useNowPlayingClearance } from '@/stores/creatorsStore'
-
-const nativeTabBarClearance = 56
 
 /** Quiet placeholder while an unwarmed collection's manifest fetches. */
 function CollectionSkeleton() {
@@ -42,7 +39,7 @@ export default function CollectionDetailScreen() {
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
-  const nowPlaying = useNowPlayingClearance()
+  const bottomClearance = useBottomClearance()
 
   // Drive the hero's stretch-on-pull-down off the scroll offset.
   const scrollY = useSharedValue(0)
@@ -86,7 +83,7 @@ export default function CollectionDetailScreen() {
       onScroll={onScroll}
       scrollEventThrottle={16}
       style={{ flex: 1, backgroundColor: background }}
-      contentContainerStyle={{ paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying }}
+      contentContainerStyle={{ paddingBottom: insets.bottom + bottomClearance }}
       contentInsetAdjustmentBehavior="never"
     >
       <CollectionHero

@@ -8,9 +8,7 @@ import {
   Compass,
   Flame,
   Library as LibraryIcon,
-  Mic2,
   Music,
-  ShieldCheck,
   Skull,
   Sparkle,
   Sun,
@@ -22,7 +20,6 @@ import { YStack } from 'tamagui'
 
 import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
-import { flags } from '@/config/flags'
 import { bareId, getEntriesByKind } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { artFor } from '@/features/explore/artMap'
@@ -109,13 +106,9 @@ export default function SearchScreen() {
       href: { pathname: '/browse/book/[bookId]/read', params: { bookId: 'ccc' } },
     },
     { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
-    { key: 'creators', title: t('creators.title'), icon: Mic2, href: '/creators' },
     { key: 'calendar', title: t('calendar.title'), icon: CalendarDays, href: '/calendar' },
     { key: 'diesDomini', title: t('diesDomini.title'), icon: Sun, href: '/dies-domini' },
     { key: 'piano', title: t('piano.title'), icon: Music, href: '/piano' },
-    ...(flags.custody
-      ? [{ key: 'custody', title: t('you.custody'), icon: ShieldCheck, href: '/custody' } as const]
-      : []),
   ]
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred collection manifests warm in.

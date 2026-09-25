@@ -23,8 +23,7 @@ export default {
     voices: 'Vozes que você segue',
     holyCards: 'Santinhos',
     emptyTitle: 'Sua estante está vazia',
-    emptyBody:
-      'Salve um livro, oração ou coleção para guardá-lo aqui — e siga as vozes que você ama.',
+    emptyBody: 'Salve um livro, oração ou coleção para guardá-lo aqui.',
     saints: 'Santos',
     saintsHint: 'Sua coleção de santinhos',
     creators: 'Criadores',

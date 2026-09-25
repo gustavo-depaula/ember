@@ -46,7 +46,7 @@ function getPracticeDisplayName(practiceId: string, practice: UserPractice | und
 
 // A doorway card — a quiet illuminated surface with the gold mark to the left of
 // a tracked-caps title and a muted subtitle, not a bordered box. Used for the
-// interior-life card (Custody) and the rule pair (Traditions / Add).
+// doorways under the wall (`belowWall`) and the rule pair (Traditions / Add).
 export function PlanCard({
   icon,
   label,

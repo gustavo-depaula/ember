@@ -9,7 +9,6 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { coverFor } from '@/features/covers'
-import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
 import { todayKey, useSaintOfDayBookImage, useSaintOfDayIndex } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
@@ -36,7 +35,7 @@ const isMeta = (id: string) => /example|starter|sandbox/.test(id)
 /**
  * The Explore feed body: a featured carousel (Gospel of the Day → Saint of the
  * Day → today's weekday devotion → For this Season → Featured Reading), then
- * imagery-rich rows (The Library, Voices, and a couple of curated collection
+ * imagery-rich rows (The Library and a couple of curated collection
  * rows). Derived off the liturgical day and re-derived as deferred catalog
  * manifests warm (`useCatalogVersion`).
  */
@@ -58,11 +57,6 @@ export function ExploreFeed() {
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const books = useMemo(
     () => getEntriesByKind('book').filter(([id]) => !isMeta(id)),
-    [catalogVersion],
-  )
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const creators = useMemo(
-    () => getEntriesByKind('creator').filter(([id]) => !isMeta(id)),
     [catalogVersion],
   )
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
@@ -212,14 +206,6 @@ export function ExploreFeed() {
               radius={4}
               href={bookHref(id)}
             />
-          ))}
-        </ArtCarousel>
-      )}
-
-      {creators.length > 0 && (
-        <ArtCarousel title={t('explore.voices')}>
-          {creators.slice(0, 18).map(([id]) => (
-            <CreatorGridCard key={id} creatorId={id} size={150} />
           ))}
         </ArtCarousel>
       )}

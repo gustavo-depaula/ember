@@ -1,4 +1,4 @@
-import { listCommitments } from '@/db/repositories/custody'
+import { listCommitments } from '@/features/custody/db'
 import type { CommitmentSnapshot } from './native'
 import { getCustodyNative } from './native'
 import { pickShieldMessage } from './shieldMessages'

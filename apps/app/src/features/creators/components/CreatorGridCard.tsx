@@ -13,11 +13,13 @@ import { useTranslation } from 'react-i18next'
 import { Text, useTheme, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { bareId, getEntry } from '@/content/contentIndex'
+import { getEntry } from '@/content/contentIndex'
 import type { CatalogEntry, CreatorRole } from '@/content/manifestTypes'
-import { getCreatorImage } from '@/db/repositories/creatorMeta'
-import { getCreatorAvatarUrl } from '@/db/repositories/feedItems'
+import { getCreatorImage } from '@/features/creators/db/creatorMeta'
+import { getCreatorAvatarUrl } from '@/features/creators/db/feedItems'
 import { localizeContent } from '@/lib/i18n'
+
+import { creatorHref } from '../routes'
 
 const ROLE_LABEL: Record<CreatorRole, string> = {
   priest: 'creators.role.priest',
@@ -50,12 +52,7 @@ export function CreatorGridCard({ creatorId, size = 150 }: { creatorId: string; 
 
   return (
     <AnimatedPressable
-      onPress={() =>
-        router.push({
-          pathname: '/creators/[creatorId]',
-          params: { creatorId: bareId(creatorId) },
-        })
-      }
+      onPress={() => router.push(creatorHref(creatorId))}
       accessibilityRole="link"
       accessibilityLabel={name}
     >

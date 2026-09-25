@@ -5,7 +5,7 @@ import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 import { openExternalUrl } from '@/config/links'
 import type { CreatorChannel } from '@/content/manifestTypes'
-import type { FeedItemRow } from '@/db/repositories/feedItems'
+import type { FeedItemRow } from '@/features/creators/db/feedItems'
 import { RichDescription } from '../components/RichDescription'
 import { resolveArticleMode } from './articleSource'
 

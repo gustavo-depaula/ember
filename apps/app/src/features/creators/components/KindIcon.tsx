@@ -1,7 +1,7 @@
 import { FileText, Headphones, Play, Smartphone } from 'lucide-react-native'
 import { useTheme } from 'tamagui'
 
-import type { FeedItemRow } from '@/db/repositories/feedItems'
+import type { FeedItemRow } from '@/features/creators/db/feedItems'
 
 export function KindIcon({ kind, size = 16 }: { kind: FeedItemRow['channelKind']; size?: number }) {
   const theme = useTheme()

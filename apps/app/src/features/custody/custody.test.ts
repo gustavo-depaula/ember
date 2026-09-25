@@ -15,7 +15,7 @@ import {
   reconcileAbandonedSessions,
   recordEvent,
   updateCommitment,
-} from '@/db/repositories/custody'
+} from '@/features/custody/db'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import { isFenceActive, nextActivation, nextDeactivation } from './schedule'

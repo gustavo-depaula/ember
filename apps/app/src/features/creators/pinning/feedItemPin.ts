@@ -15,8 +15,8 @@ import {
   getFeedItemsByCreator,
   type PinSource,
   setPinned,
-} from '@/db/repositories/feedItems'
-import { dequeuePin, enqueuePin, getPending } from '@/db/repositories/pendingPins'
+} from '@/features/creators/db/feedItems'
+import { dequeuePin, enqueuePin, getPending } from '@/features/creators/db/pendingPins'
 import type { NetworkState } from '@/lib/network'
 
 import { computeReconcile } from './reconcile'

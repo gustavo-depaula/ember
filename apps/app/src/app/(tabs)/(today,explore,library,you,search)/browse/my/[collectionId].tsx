@@ -4,15 +4,12 @@ import { useTranslation } from 'react-i18next'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, YStack } from 'tamagui'
-
+import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { CollectionHero, SectionList } from '@/features/collections'
 import { userCollectionCover } from '@/features/covers'
 import { toneByIndex } from '@/features/explore/bgColor'
 import { ManageCollectionSheet, userCollectionRef, useUserCollection } from '@/features/library'
-import { useNowPlayingClearance } from '@/stores/creatorsStore'
-
-const nativeTabBarClearance = 56
 
 /**
  * The viewer for a user-authored collection. Same immersive chrome as a corpus
@@ -26,7 +23,7 @@ export default function UserCollectionScreen() {
   const theme = useTheme()
   const router = useRouter()
   const insets = useSafeAreaInsets()
-  const nowPlaying = useNowPlayingClearance()
+  const bottomClearance = useBottomClearance()
   const [managing, setManaging] = useState(false)
 
   const scrollY = useSharedValue(0)
@@ -58,7 +55,7 @@ export default function UserCollectionScreen() {
         scrollEventThrottle={16}
         style={{ flex: 1, backgroundColor: background }}
         contentContainerStyle={{
-          paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying,
+          paddingBottom: insets.bottom + bottomClearance,
         }}
         contentInsetAdjustmentBehavior="never"
       >

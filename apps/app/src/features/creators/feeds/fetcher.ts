@@ -8,13 +8,13 @@
 
 import type { CreatorChannel, CreatorManifest } from '@/content/manifestTypes'
 import { loadCreator } from '@/content/resolver'
-import { setCreatorImage } from '@/db/repositories/creatorMeta'
+import { setCreatorImage } from '@/features/creators/db/creatorMeta'
 import {
   deriveItemId,
   type FeedItemDraft,
   pruneOlderThan,
   upsertFeedItems,
-} from '@/db/repositories/feedItems'
+} from '@/features/creators/db/feedItems'
 import { type PodcastChaptersDoc, parsePodcastChaptersDoc } from './chapters'
 import { type PodcastDraft, parsePodcastFeed } from './podcast'
 import { createLimiter } from './rateLimit'

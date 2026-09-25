@@ -12,7 +12,7 @@
  * timestamped doc.
  */
 
-import type { FeedItemChapter } from '@/db/repositories/feedItems'
+import type { FeedItemChapter } from '@/features/creators/db/feedItems'
 import { parseClock } from './xml'
 
 // Match common timestamp formats at the start of a line:

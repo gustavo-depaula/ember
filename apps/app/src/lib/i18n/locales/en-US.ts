@@ -23,8 +23,7 @@ export default {
     voices: 'Voices you follow',
     holyCards: 'Holy cards',
     emptyTitle: 'Your shelf is bare',
-    emptyBody:
-      'Save a book, prayer, or collection to keep it here — and follow the voices you love.',
+    emptyBody: 'Save a book, prayer, or collection to keep it here.',
     saints: 'Saints',
     saintsHint: 'Your collection of holy cards',
     creators: 'Creators',

@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { Settings, Shield } from 'lucide-react-native'
+import { Settings } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -11,9 +11,8 @@ import {
   SectionDivider,
   Typography,
 } from '@/components'
-import { flags } from '@/config/flags'
 import { EntryRow, getEntryBody, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
-import { PlanCard, RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
+import { RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
@@ -23,9 +22,7 @@ const flourishAspect = 2172 / 457
 const flourishLightAspect = 2172 / 386
 
 // You tab root: who you are across time. The rule-of-life config is the page's
-// primary job (front-and-center). Right below the votive wall sit two doorways —
-// the Altar (what you lay before God: intentions, thanks, today's resolution)
-// and Custody (the spiritual battle) — then a peek at your chronicle. Today is
+// primary job (front-and-center), then a peek at your chronicle. Today is
 // "this day"; You is "the long arc." Settings lives in the header gear.
 export default function YouScreen() {
   const { t } = useTranslation()
@@ -36,17 +33,6 @@ export default function YouScreen() {
 
   const recentEntries = useMemoriaEntries(3)
   const onThisDay = useOnThisDayEntries(now)
-
-  const interiorCards = flags.custody ? (
-    <XStack gap="$md">
-      <PlanCard
-        icon={<Shield size={28} color={theme.accent?.val} />}
-        label={t('custody.title')}
-        subtitle={t('you.custodyHint')}
-        onPress={() => router.push('/custody')}
-      />
-    </XStack>
-  ) : undefined
 
   return (
     <ScreenLayout>
@@ -69,7 +55,7 @@ export default function YouScreen() {
           </Pressable>
         </XStack>
 
-        <RuleOfLifeSections belowWall={interiorCards} />
+        <RuleOfLifeSections />
 
         <SectionDivider />
 

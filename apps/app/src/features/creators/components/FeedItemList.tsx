@@ -16,10 +16,10 @@ import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, Typography } from '@/components'
-import type { FeedItemRow } from '@/db/repositories/feedItems'
+import type { FeedItemRow } from '@/features/creators/db/feedItems'
 import { usePinFeedItem, useUnpinFeedItem } from '@/features/creators/hooks'
-import { useCreatorsStore } from '@/stores/creatorsStore'
-import { routeFor } from './feedItemRoute'
+import { useCreatorsStore } from '@/features/creators/store'
+import { feedItemHref } from '../routes'
 import { KindIcon } from './KindIcon'
 
 const THUMB_SIZE = 72
@@ -128,7 +128,7 @@ export function FeedItemList({ items }: { items: FeedItemRow[] }) {
   return (
     <YStack marginHorizontal={-24}>
       {items.map((item, idx) => {
-        const route = routeFor(item)
+        const route = feedItemHref(item)
         const date = dateFmt.format(new Date(item.publishedAt))
         const isPlaying = playingId === item.itemId
         const summaryText = stripHtml(item.summary)

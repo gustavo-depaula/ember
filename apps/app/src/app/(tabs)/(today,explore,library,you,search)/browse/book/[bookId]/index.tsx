@@ -6,7 +6,7 @@ import { Pressable } from 'react-native'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
-
+import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
@@ -38,10 +38,7 @@ import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
 import { formatSoftRelative } from '@/lib/softRelative'
-import { useNowPlayingClearance } from '@/stores/creatorsStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-
-const nativeTabBarClearance = 56
 
 function formatMinutes(minutes: number): string {
   if (minutes < 60) return `${minutes} min`
@@ -56,7 +53,7 @@ export default function BookDetailScreen() {
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const router = useRouter()
-  const nowPlaying = useNowPlayingClearance()
+  const bottomClearance = useBottomClearance()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
 
@@ -216,7 +213,7 @@ export default function BookDetailScreen() {
         scrollEventThrottle={16}
         style={{ flex: 1, backgroundColor: background }}
         contentContainerStyle={{
-          paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying,
+          paddingBottom: insets.bottom + bottomClearance,
         }}
         contentInsetAdjustmentBehavior="never"
         ListHeaderComponent={

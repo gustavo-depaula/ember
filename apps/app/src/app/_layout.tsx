@@ -31,21 +31,14 @@ import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import * as SystemUI from 'expo-system-ui'
 import { useEffect, useState } from 'react'
-import {
-  Appearance,
-  AppState,
-  InteractionManager,
-  LogBox,
-  Platform,
-  useColorScheme,
-} from 'react-native'
+import { Appearance, InteractionManager, LogBox, Platform, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider } from 'tamagui'
 
 import { ConfirmHost, confirm } from '@/components'
 import { BootLoadingScreen } from '@/components/BootLoadingScreen'
-import { flags } from '@/config/flags'
+import { FloatingOfflineChip } from '@/components/OfflineChip'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { maybeRunCacheEviction } from '@/content/cacheMaintenance'
@@ -58,16 +51,7 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
-import { listCommitments, reconcileAbandonedSessions } from '@/db/repositories/custody'
 import { seedCursors, seedPractices } from '@/db/seed'
-import { installAudioBackend } from '@/features/creators/audio/audioPlayer'
-import { FloatingOfflineChip } from '@/features/creators/components/OfflineChip'
-import { drainPendingPins } from '@/features/creators/pinning/feedItemPin'
-import { installCreatorPinning } from '@/features/creators/pinning/install'
-import { reconcileAllEnforcement } from '@/features/custody/enforcement'
-import { setupCustodyNotifications } from '@/features/custody/notifications'
-import { drainShieldEvents } from '@/features/custody/shieldEvents'
-import { syncCommitmentSnapshots } from '@/features/custody/syncSnapshots'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { useRemindersStore } from '@/features/mass-times/reminders'
@@ -190,8 +174,6 @@ export default function RootLayout() {
       }
       try {
         registerDataSources()
-        installAudioBackend()
-        installCreatorPinning()
         mark('installed backends')
         await initHearth()
         mark('initHearth done')
@@ -238,30 +220,7 @@ export default function RootLayout() {
           .then(() => rescheduleAllReminders())
           .catch((err) => console.error('[startup] notification setup failed', err))
 
-        if (flags.custody) {
-          setupCustodyNotifications().catch((err) =>
-            console.error('[startup] custody notifications setup failed', err),
-          )
-        }
-
         InteractionManager.runAfterInteractions(() => {
-          if (flags.custody) {
-            reconcileAbandonedSessions().catch((err) =>
-              console.error('[startup] custody session reconciliation failed', err),
-            )
-            syncCommitmentSnapshots().catch((err) =>
-              console.error('[startup] custody snapshot sync failed', err),
-            )
-            drainShieldEvents().catch((err) =>
-              console.error('[startup] custody shield event drain failed', err),
-            )
-            // Re-apply iOS Family Controls enforcement for every active bound
-            // commitment. Handles the cold-launch case where iOS shield state
-            // may not match what SQLite says (reinstall, OS restore).
-            listCommitments({ includeArchived: false })
-              .then((all) => reconcileAllEnforcement(all))
-              .catch((err) => console.error('[startup] custody enforcement reconcile failed', err))
-          }
           loadCatalogFromHearth()
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
             .then(() => seedPractices())
@@ -276,43 +235,6 @@ export default function RootLayout() {
     }
 
     initCorpus()
-  }, [dbReady])
-
-  useEffect(() => {
-    if (!dbReady || !flags.custody) return
-    // iOS sends `active` for transient interruptions (control center, share
-    // sheet, notification banner). Debounce so a quick swipe-up doesn't run
-    // the whole drain+sync loop.
-    let lastRunAt = 0
-    const sub = AppState.addEventListener('change', (next) => {
-      if (next !== 'active') return
-      const now = Date.now()
-      if (now - lastRunAt < 2000) return
-      lastRunAt = now
-      void drainShieldEvents().catch(() => {})
-      void syncCommitmentSnapshots().catch(() => {})
-    })
-    return () => {
-      sub.remove()
-    }
-  }, [dbReady])
-
-  useEffect(() => {
-    if (!dbReady) return
-    let sub: { remove: () => void } | undefined
-    let cancelled = false
-    void import('expo-network').then((Network) => {
-      if (cancelled) return
-      sub = Network.addNetworkStateListener((state) => {
-        if (state.type === Network.NetworkStateType.WIFI && state.isConnected) {
-          void drainPendingPins().catch(() => {})
-        }
-      })
-    })
-    return () => {
-      cancelled = true
-      sub?.remove()
-    }
   }, [dbReady])
 
   // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can

@@ -6,9 +6,12 @@ import { Text, XStack, YStack } from 'tamagui'
 
 import { confirm } from '@/components'
 import { getEntry } from '@/content/contentIndex'
-import { getAllFollows } from '@/db/repositories/creators'
-import { getPinnedCreatorSummaries, getPinnedItemIdsByCreator } from '@/db/repositories/feedItems'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
+import { getAllFollows } from '@/features/creators/db/creators'
+import {
+  getPinnedCreatorSummaries,
+  getPinnedItemIdsByCreator,
+} from '@/features/creators/db/feedItems'
 import { unpinFeedItem, WIFI_ONLY_PREF_KEY } from '@/features/creators/pinning/feedItemPin'
 import { localizeContent } from '@/lib/i18n'
 

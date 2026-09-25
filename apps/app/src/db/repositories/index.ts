@@ -1,13 +1,4 @@
 export { clearCache, getCached, setCache } from './cache'
-export type { FollowRecord } from './creators'
-export {
-  followCreator,
-  getAllFollows,
-  getFollow,
-  isFollowed,
-  setAutoPinCount,
-  unfollowCreator,
-} from './creators'
 export {
   advanceIndex,
   createProgramCursor,
@@ -19,27 +10,6 @@ export {
   setCursor,
   setIndex,
 } from './cursors'
-export type { FeedItemChapter, FeedItemDraft, FeedItemRow } from './feedItems'
-export {
-  deriveItemId,
-  getAutoPinnedByCreator,
-  getFeedItem,
-  getFeedItemsByCreator,
-  getRecentFeedItems,
-  getRecentForFollowed,
-  pinnedFeedItemHashes,
-  pruneOlderThan,
-  setPinned,
-  upsertFeedItems,
-} from './feedItems'
-export type { MediaProgressRow } from './mediaProgress'
-export { clearProgress, getProgress, markCompleted, recordProgress } from './mediaProgress'
-export {
-  clearPending,
-  dequeuePin,
-  enqueuePin,
-  getPending,
-} from './pendingPins'
 export {
   addSlot,
   archivePractice,

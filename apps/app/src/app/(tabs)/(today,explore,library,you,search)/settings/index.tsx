@@ -19,7 +19,6 @@ import {
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
-import { CreatorsStorageSection } from '@/features/creators/settings/CreatorsStorageSection'
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
@@ -258,7 +257,6 @@ export default function SettingsScreen() {
         )}
 
         <StorageSection />
-        <CreatorsStorageSection />
 
         <SectionDivider />
 
@@ -492,7 +490,7 @@ function LocalHearthToggle() {
 type HearthCheckResult =
   | { kind: 'idle' }
   | { kind: 'pending' }
-  | { kind: 'ok'; url: string; generatedAt?: string; creatorCount: number }
+  | { kind: 'ok'; url: string; generatedAt?: string; itemCount: number }
   | { kind: 'fail'; url: string; message: string }
 
 function HearthCheckRow() {
@@ -508,12 +506,10 @@ function HearthCheckRow() {
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const data = (await res.json()) as {
         generated?: string
-        items?: Record<string, { kind?: string }>
+        items?: Record<string, unknown>
       }
-      const creatorCount = Object.values(data.items ?? {}).filter(
-        (e) => e.kind === 'creator',
-      ).length
-      setResult({ kind: 'ok', url, generatedAt: data.generated, creatorCount })
+      const itemCount = Object.keys(data.items ?? {}).length
+      setResult({ kind: 'ok', url, generatedAt: data.generated, itemCount })
     } catch (err) {
       setResult({
         kind: 'fail',
@@ -548,8 +544,8 @@ function HearthCheckRow() {
       </Pressable>
       {result.kind === 'ok' && (
         <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
-          ✅ {result.url} — {result.creatorCount} creator
-          {result.creatorCount === 1 ? '' : 's'}
+          ✅ {result.url} — {result.itemCount} item
+          {result.itemCount === 1 ? '' : 's'}
           {result.generatedAt ? `, generated ${result.generatedAt}` : ''}
         </Text>
       )}

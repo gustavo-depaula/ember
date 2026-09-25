@@ -9,9 +9,6 @@ import { bareId, getEntry } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { coverFor, userCollectionCover } from '@/features/covers'
-import { CreatorGridCard } from '@/features/creators/components/CreatorGridCard'
-import { routeFor } from '@/features/creators/components/feedItemRoute'
-import { useFollows, useLatestForFollowed } from '@/features/creators/hooks'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
@@ -32,8 +29,7 @@ type Shelf = Array<[id: string, entry: CatalogEntry, savedAt: number]>
 /**
  * The Library body: the user's own shelf, built from what they've gathered. A
  * "Continue" strip, their own collections, shelves of saved books, prayers, and
- * collections, the latest from the voices they follow, and a gallery of holy
- * cards. Saving is a lightweight bookmark (offline is separate), so a shelf can
+ * collections, and a gallery of holy cards. Saving is a lightweight bookmark (offline is separate), so a shelf can
  * be deep without costing storage. Derived off the live catalog, so a shelf
  * fills in as deferred manifests warm (`useCatalogVersion`).
  */
@@ -45,8 +41,6 @@ export function LibraryFeed() {
   const theme = useTheme()
   const catalogVersion = useCatalogVersion()
   const { data: saved } = useSavedItems()
-  const { data: follows } = useFollows()
-  const { data: latest } = useLatestForFollowed()
   const { data: userCollections } = useUserCollections()
   const { saints: holyCards } = useSaintsCatalog()
   const [creating, setCreating] = useState(false)
@@ -73,15 +67,12 @@ export function LibraryFeed() {
     return { books, prayers, collections }
   }, [saved, catalogVersion])
 
-  const followList = follows ?? []
   const myCollections = userCollections ?? []
-  const latestItems = latest ?? []
   const hasPersonal =
     shelves.books.length > 0 ||
     shelves.prayers.length > 0 ||
     shelves.collections.length > 0 ||
-    myCollections.length > 0 ||
-    followList.length > 0
+    myCollections.length > 0
 
   const goBook = (id: string) =>
     router.push({ pathname: '/browse/book/[bookId]', params: { bookId: bareId(id) } })
@@ -160,33 +151,6 @@ export function LibraryFeed() {
               onPress={() => goCollection(id)}
             />
           ))}
-        </ArtCarousel>
-      )}
-
-      {followList.length > 0 && (
-        <ArtCarousel title={t('library.voices')}>
-          {followList.map((f) => (
-            <CreatorGridCard key={f.creatorId} creatorId={f.creatorId} size={150} />
-          ))}
-        </ArtCarousel>
-      )}
-
-      {latestItems.length > 0 && (
-        <ArtCarousel title={t('library.latestFromVoices')}>
-          {latestItems.map((item) => {
-            const creator = getEntry(item.creatorId)
-            return (
-              <ArtCoverCard
-                key={item.itemId}
-                title={item.title}
-                subtitle={creator ? localizeContent(creator.name ?? {}) : undefined}
-                image={item.imageUrl ? { uri: item.imageUrl } : undefined}
-                tone={toneForKey(item.itemId)}
-                size={140}
-                onPress={() => router.push(routeFor(item))}
-              />
-            )
-          })}
         </ArtCarousel>
       )}
 

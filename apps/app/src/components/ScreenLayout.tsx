@@ -5,12 +5,9 @@ import Animated, { FadeIn } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
-import { useNowPlayingClearance } from '@/stores/creatorsStore'
+import { useBottomClearance } from './tabAccessory'
 
 const scrollContentStyle = { flexGrow: 1 }
-// Native iOS 26 glass tab bar content height + breathing room. Every screen is
-// hosted under the tab bar now, so always reserve clearance for it.
-const nativeTabBarClearance = 56
 
 export function ScreenLayout({
   children,
@@ -32,10 +29,10 @@ export function ScreenLayout({
   modal?: boolean
 }) {
   const insets = useSafeAreaInsets()
-  const nowPlayingClearance = useNowPlayingClearance()
+  const tabClearance = useBottomClearance()
   // The tabs disable automatic content insets so this manual padding is the
   // single source of truth (lets the home flourish bleed into the notch).
-  const bottomClearance = modal ? 0 : nativeTabBarClearance + nowPlayingClearance
+  const bottomClearance = modal ? 0 : tabClearance
 
   const inner = (
     <YStack

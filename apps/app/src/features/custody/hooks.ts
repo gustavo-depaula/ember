@@ -14,7 +14,7 @@ import {
   recordEvent,
   unarchiveCommitment,
   updateCommitment,
-} from '@/db/repositories/custody'
+} from '@/features/custody/db'
 
 import { unwireBoundEnforcement, wireBoundEnforcement } from './enforcement'
 import { isCommitmentActiveOn } from './schedule'

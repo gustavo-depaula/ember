@@ -2,9 +2,9 @@
 
 import { type AudioStatus, createAudioPlayer, setAudioModeAsync } from 'expo-audio'
 
-import { recordProgress } from '@/db/repositories/mediaProgress'
-import type { AudioBackend } from '@/stores/creatorsStore'
-import { useCreatorsStore } from '@/stores/creatorsStore'
+import { recordProgress } from '@/features/creators/db/mediaProgress'
+import type { AudioBackend } from '@/features/creators/store'
+import { useCreatorsStore } from '@/features/creators/store'
 
 type SoundHandle = ReturnType<typeof createAudioPlayer>
 type Subscription = { remove(): void }

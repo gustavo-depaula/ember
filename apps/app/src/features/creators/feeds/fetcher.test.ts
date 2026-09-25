@@ -10,10 +10,10 @@ import { describe, expect, it, vi } from 'vitest'
 
 // Stub the DB repo + resolver: importing the real modules would transitively
 // pull in expo-sqlite + react-native, which vitest can't parse.
-vi.mock('@/db/repositories/feedItems', () => ({
+vi.mock('@/features/creators/db/feedItems', () => ({
   deriveItemId: async (creatorId: string, guid: string) => `${creatorId}::${guid}`,
 }))
-vi.mock('@/db/repositories/creatorMeta', () => ({
+vi.mock('@/features/creators/db/creatorMeta', () => ({
   setCreatorImage: vi.fn().mockResolvedValue(undefined),
   getCreatorImage: vi.fn().mockResolvedValue(null),
 }))

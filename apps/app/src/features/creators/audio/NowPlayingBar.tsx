@@ -13,8 +13,8 @@ import { ActivityIndicator, Pressable, View } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
-import { bareId } from '@/content/contentIndex'
-import { NOW_PLAYING_BAR_HEIGHT, useCreatorsStore } from '@/stores/creatorsStore'
+import { episodeHref } from '../routes'
+import { NOW_PLAYING_BAR_HEIGHT, useCreatorsStore } from '../store'
 
 const PILL_HEIGHT = NOW_PLAYING_BAR_HEIGHT
 const ARTWORK_SIZE = PILL_HEIGHT - 16
@@ -42,17 +42,7 @@ export function NowPlayingBar() {
 
   return (
     <View style={rowStyle}>
-      <Link
-        href={{
-          pathname: '/creators/[creatorId]/episode/[itemId]',
-          params: {
-            creatorId: bareId(nowPlaying.creatorId),
-            itemId: nowPlaying.itemId,
-          },
-        }}
-        push
-        asChild
-      >
+      <Link href={episodeHref(nowPlaying.creatorId, nowPlaying.itemId)} push asChild>
         <Link.AppleZoom>
           <AnimatedPressable
             style={{ flex: 1 }}

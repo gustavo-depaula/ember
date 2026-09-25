@@ -18,13 +18,11 @@ import type {
   CatalogEntry,
   ChapterManifest,
   CollectionItemManifest,
-  CreatorManifest,
   DoDataItemManifest,
   LangSplitItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
 import { getJson, type PrefetchEntry, prefetch } from '@/content/store'
-import { pinnedFeedItemHashes } from '@/db/repositories/feedItems'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { saveItem } from '@/db/repositories/savedItems'
 
@@ -64,7 +62,10 @@ export function isPinned(id: string): boolean {
   return pinned.some((p) => p.id === id)
 }
 
-type CollectBody = (body: unknown, add: (ref: { hash: string; size: number }) => void) => string[]
+export type CollectBody = (
+  body: unknown,
+  add: (ref: { hash: string; size: number }) => void,
+) => string[]
 
 /** Per-kind body walker. Returns child item-ids to visit; pushes leaf BlobRefs to `add`. */
 const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
@@ -99,12 +100,6 @@ const COLLECTORS: Partial<Record<CatalogEntry['kind'], CollectBody>> = {
     b.images?.forEach(add)
     return []
   },
-  creator: (body, add) => {
-    const c = body as CreatorManifest
-    if (c.avatarHash) add(c.avatarHash)
-    if (c.bannerHash) add(c.bannerHash)
-    return []
-  },
   mass: (body, add) => addLangSplit(body as LangSplitItemManifest, add),
   'of-ordinary': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
   'of-preface': (body, add) => addLangSplit(body as LangSplitItemManifest, add),
@@ -127,6 +122,23 @@ function addLangSplit(
   if (m.shape) add(m.shape)
   if (m.langs) Object.values(m.langs).forEach(add)
   return []
+}
+
+/** Lets a feature teach pinning how to walk a catalog kind it owns. */
+export function registerPinCollector(kind: CatalogEntry['kind'], collect: CollectBody): void {
+  COLLECTORS[kind] = collect
+}
+
+type PinnedHashSource = () => Promise<Iterable<string>>
+
+const pinnedHashSources: PinnedHashSource[] = []
+
+/**
+ * Lets a feature protect blobs it pins outside the pinned-items list (e.g.
+ * downloaded feed media) from cache eviction.
+ */
+export function registerPinnedHashSource(source: PinnedHashSource): void {
+  pinnedHashSources.push(source)
 }
 
 /** Walk an item recursively, collecting every blob hash it references. */
@@ -203,8 +215,8 @@ export async function unpinItem(id: string): Promise<void> {
 }
 
 /**
- * Compute the union of blob hashes referenced by every pinned item plus
- * pinned creator feed-item media + image. Used by GC to know what to keep.
+ * Compute the union of blob hashes referenced by every pinned item plus those
+ * reported by registered sources. Used by GC to know what to keep.
  */
 export async function pinnedHashes(): Promise<Set<string>> {
   const out = new Set<string>()
@@ -212,6 +224,8 @@ export async function pinnedHashes(): Promise<Set<string>> {
     const blobs = await collectBlobsFor(item.id)
     for (const b of blobs) out.add(b.hash)
   }
-  for (const h of await pinnedFeedItemHashes()) out.add(h)
+  for (const source of pinnedHashSources) {
+    for (const h of await source()) out.add(h)
+  }
   return out
 }

@@ -19,7 +19,7 @@ import { useTheme, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
-import { YouTubePlayer } from '@/features/creators/video/YouTubePlayer'
+import { YouTubePlayer } from '@/components/YouTubePlayer'
 import { hearthUrl } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import { ArtCoverCard } from './ArtCoverCard'

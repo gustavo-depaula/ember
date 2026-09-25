@@ -7,6 +7,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, YStack } from 'tamagui'
 
 import { SectionDivider } from '@/components/SectionDivider'
+import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { PrologueProse } from '@/features/collections'
 import { artFor } from '@/features/explore/artMap'
@@ -18,9 +19,6 @@ import {
   useTemplateManifest,
 } from '@/features/templates'
 import { localizeContent } from '@/lib/i18n'
-import { useNowPlayingClearance } from '@/stores/creatorsStore'
-
-const nativeTabBarClearance = 56
 
 export default function TemplateDetailScreen() {
   const { templateId } = useLocalSearchParams<{ templateId: string }>()
@@ -28,7 +26,7 @@ export default function TemplateDetailScreen() {
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const router = useRouter()
-  const nowPlaying = useNowPlayingClearance()
+  const bottomClearance = useBottomClearance()
   const [adopting, setAdopting] = useState(false)
 
   const scrollY = useSharedValue(0)
@@ -65,7 +63,7 @@ export default function TemplateDetailScreen() {
         scrollEventThrottle={16}
         style={{ flex: 1, backgroundColor: background }}
         contentContainerStyle={{
-          paddingBottom: insets.bottom + nativeTabBarClearance + nowPlaying,
+          paddingBottom: insets.bottom + bottomClearance,
         }}
         contentInsetAdjustmentBehavior="never"
       >

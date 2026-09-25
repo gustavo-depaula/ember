@@ -6,7 +6,7 @@ import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, ScreenLayout } from '@/components'
 import { openExternalUrl } from '@/config/links'
-import { useCreatorsStore } from '@/stores/creatorsStore'
+import { useCreatorsStore } from '@/features/creators/store'
 import { RichDescription } from '../components/RichDescription'
 
 const SPEEDS = [0.8, 1.0, 1.25, 1.5, 2.0] as const

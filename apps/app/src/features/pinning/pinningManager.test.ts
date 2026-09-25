@@ -22,9 +22,6 @@ vi.mock('@/db/repositories/preferences', () => ({
   getPreference: vi.fn().mockResolvedValue(undefined),
   setPreference: vi.fn().mockResolvedValue(undefined),
 }))
-vi.mock('@/db/repositories/feedItems', () => ({
-  pinnedFeedItemHashes: vi.fn().mockResolvedValue(new Set<string>()),
-}))
 
 import { prefetch as prefetchMock } from '@/content/store'
 import { isPinned, pinItem, pinnedHashes, resetPinned, unpinItem } from './pinningManager'

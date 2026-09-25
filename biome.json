@@ -38,5 +38,31 @@
       "!apps/app/src/lib/typography/fontMetrics.generated.ts",
       "!apps/app/src/lib/typography/hyphenLaLiturgic.generated.ts"
     ]
-  }
+  },
+  "overrides": [
+    {
+      "includes": [
+        "apps/app/src/**",
+        "!apps/app/src/features/creators/**",
+        "!apps/app/src/features/custody/**"
+      ],
+      "linter": {
+        "rules": {
+          "style": {
+            "noRestrictedImports": {
+              "level": "error",
+              "options": {
+                "patterns": [
+                  {
+                    "group": ["@/features/creators/**", "@/features/custody/**"],
+                    "message": "Creators and Custody are bounded modules \u2014 import them only through their barrel ('@/features/creators', '@/features/custody')."
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
 }

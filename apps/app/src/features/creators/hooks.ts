@@ -6,8 +6,8 @@ import {
   getAllFollows,
   setAutoPinCount,
   unfollowCreator,
-} from '@/db/repositories/creators'
-import { getInProgressFeedItems, getRecentForFollowed } from '@/db/repositories/feedItems'
+} from '@/features/creators/db/creators'
+import { getInProgressFeedItems, getRecentForFollowed } from '@/features/creators/db/feedItems'
 
 import { refreshCreator } from './feeds/fetcher'
 import { type PinResult, pinFeedItem, unpinFeedItem } from './pinning/feedItemPin'

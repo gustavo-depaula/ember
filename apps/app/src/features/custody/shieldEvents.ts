@@ -1,4 +1,4 @@
-import { recordEvent } from '@/db/repositories/custody'
+import { recordEvent } from '@/features/custody/db'
 
 import { getCustodyNative } from './native'
 import type { EventType } from './types'
