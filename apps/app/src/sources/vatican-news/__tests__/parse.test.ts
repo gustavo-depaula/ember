@@ -75,6 +75,20 @@ describe('splitCitation — citation vs passage', () => {
     // "3,16-18" must not appear as its own passage paragraph.
     expect(body.some((b) => paragraphText(b) === '3,16-18')).toBe(false)
   })
+
+  it('PT: folds a half-verse reference ("9,43b-45") into the citation', () => {
+    const para = (text: string): ProseBlock => ({
+      kind: 'paragraph',
+      inline: [{ kind: 'text', text }],
+    })
+    const { citation, body } = splitCitation([
+      para('Proclamação do Evangelho de Jesus Cristo segundo Lucas'),
+      para('9,43b-45'),
+      para('Naquele tempo,'),
+    ])
+    expect(citation).toBe('Proclamação do Evangelho de Jesus Cristo segundo Lucas 9,43b-45')
+    expect(body.map(paragraphText)).toEqual(['Naquele tempo,'])
+  })
 })
 
 describe('compactCitation', () => {
@@ -83,6 +97,13 @@ describe('compactCitation', () => {
       'João 3,16-18',
     )
     expect(compactCitation('From the Gospel according to John 3:16-18')).toBe('John 3:16-18')
+  })
+
+  it('keeps half-verse letters in the reference', () => {
+    expect(compactCitation('Proclamação do Evangelho de Jesus Cristo segundo Lucas 9,43b-45')).toBe(
+      'Lucas 9,43b-45',
+    )
+    expect(compactCitation('From the Gospel according to Mark 5:1-2a, 4')).toBe('Mark 5:1-2a,4')
   })
 
   it('passes through when the tail is not a reference, and undefined', () => {

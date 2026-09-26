@@ -45,9 +45,12 @@ async function fallback(ctx: SourceFetchContext, lang: Lang): Promise<Primitive[
   return gospelPrimitives(gospel.citation, textToBlocks(gospel.text))
 }
 
-// A bare scripture reference like "3,16-18" / "3:16-18" — digits and citation
-// punctuation only.
-const isVerseRef = (text: string): boolean => text.length > 0 && /^[\d\s.,:;–-]+$/.test(text)
+// A verse number may carry a part letter ("9,43b-45", "5,1-2a"), which the
+// lectionary uses for half-verses — without it the whole ref fails to parse.
+const verseRef = String.raw`\d+[a-e]?(?:[\s.,:;–-]+\d+[a-e]?)*`
+
+// A bare scripture reference like "3,16-18" / "3:16-18" / "9,43b-45".
+const isVerseRef = (text: string): boolean => new RegExp(`^${verseRef}$`).test(text.trim())
 
 // The incipit is the first paragraph ("From the Gospel according to John" /
 // "Proclamação … segundo João"). The verse reference may ride inline in that
@@ -72,7 +75,7 @@ export function splitCitation(blocks: ProseBlock[]): { citation?: string; body: 
 // reads too long. Falls back to the full string if the tail doesn't parse.
 export function compactCitation(full: string | undefined): string | undefined {
   if (!full) return undefined
-  const m = full.match(/(\S+)\s+(\d+[,:]\s?\d[\d\s.,:;–-]*)$/)
+  const m = full.match(new RegExp(String.raw`(\S+)\s+(\d+[,:]\s?${verseRef})$`))
   return m ? `${m[1]} ${m[2].replace(/\s+/g, '')}` : full
 }
 
