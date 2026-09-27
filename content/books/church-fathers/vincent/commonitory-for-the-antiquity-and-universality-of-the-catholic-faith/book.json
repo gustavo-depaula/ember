@@ -2,13 +2,16 @@
   "id": "vincent-commonitory-for-the-antiquity-and-universality-of-the-catholic-faith",
   "cover": "quarter",
   "name": {
-    "en-US": "Commonitory for the Antiquity and Universality of the Catholic Faith"
+    "en-US": "Commonitory for the Antiquity and Universality of the Catholic Faith",
+    "pt-BR": "Comonitório sobre a Antiguidade e a Universalidade da Fé Católica"
   },
   "author": {
-    "en-US": "Vincent of Lérins (d. c. 450)"
+    "en-US": "Vincent of Lérins (d. c. 450)",
+    "pt-BR": "Vicente de Lérins (m. c. 450)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Commonitory for the Antiquity and Universality of the Catholic Faith"
+        "en-US": "Commonitory for the Antiquity and Universality of the Catholic Faith",
+        "pt-BR": "Comonitório sobre a Antiguidade e a Universalidade da Fé Católica"
       }
     }
   ]
