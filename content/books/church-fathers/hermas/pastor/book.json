@@ -2,13 +2,16 @@
   "id": "hermas-pastor",
   "cover": "quarter",
   "name": {
-    "en-US": "The Pastor (or \"The Shepherd\")"
+    "en-US": "The Pastor (or \"The Shepherd\")",
+    "pt-BR": "O Pastor (ou \"O Pastor de Hermas\")"
   },
   "author": {
-    "en-US": "Hermas"
+    "en-US": "Hermas",
+    "pt-BR": "Hermas"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,19 +24,22 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "FIRST VISION"
+        "en-US": "FIRST VISION",
+        "pt-BR": "PRIMEIRA VISÃO"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "FIRST COMMANDMENT"
+        "en-US": "FIRST COMMANDMENT",
+        "pt-BR": "PRIMEIRO MANDAMENTO"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "FIRST SIMILITUDE"
+        "en-US": "FIRST SIMILITUDE",
+        "pt-BR": "PRIMEIRA PARÁBOLA"
       }
     }
   ]
