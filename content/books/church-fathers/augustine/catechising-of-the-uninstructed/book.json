@@ -2,13 +2,16 @@
   "id": "augustine-catechising-of-the-uninstructed",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Catechising of the Uninstructed"
+    "en-US": "On the Catechising of the Uninstructed",
+    "pt-BR": "Sobre a Catequese dos Principiantes"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Catechising of the Uninstructed"
+        "en-US": "On the Catechising of the Uninstructed",
+        "pt-BR": "Sobre a Catequese dos Principiantes"
       }
     }
   ]
