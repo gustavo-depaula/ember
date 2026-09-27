@@ -36,9 +36,9 @@ const isMeta = (id: string) => /example|starter|sandbox/.test(id)
 
 /**
  * The daily featured carousel (Gospel of the Day → Saint of the Day → today's
- * weekday devotion → For this Season → Featured Reading) and the Daily
- * Meditations row, shown on Today. Derived off the liturgical day and
- * re-derived as deferred catalog manifests warm (`useCatalogVersion`).
+ * weekday devotion → For this Season → Featured Reading), heading Today.
+ * Derived off the liturgical day and re-derived as deferred catalog manifests
+ * warm (`useCatalogVersion`).
  */
 export function ExploreFeatured() {
   const router = useRouter()
@@ -60,12 +60,6 @@ export function ExploreFeatured() {
     () => getEntriesByKind('book').filter(([id]) => !isMeta(id)),
     [catalogVersion],
   )
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const meditations = useMemo(
-    () => practiceRow(featured.meditationRow),
-    [catalogVersion, featured.meditationRow],
-  )
-
   const goBook = (id: string) => router.push(bookHref(id))
   const goCollection = (id: string) => {
     warmCollection(id)
@@ -166,18 +160,31 @@ export function ExploreFeatured() {
     })
   }
 
-  return (
-    <>
-      <FeaturedCarousel blocks={blocks} />
+  return <FeaturedCarousel blocks={blocks} />
+}
 
-      {meditations.length > 0 && (
-        <ArtCarousel title={t('explore.dailyMeditations')}>
-          {meditations.map(([id, entry, subtitleKey]) => (
-            <MeditationTile key={id} id={id} entry={entry} subtitleKey={subtitleKey} />
-          ))}
-        </ArtCarousel>
-      )}
-    </>
+/** The Daily Meditations row, shown on Today below the plan. */
+export function DailyMeditations() {
+  const { t } = useTranslation()
+  const catalogVersion = useCatalogVersion()
+  const today = useToday()
+  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
+  const featured = pickFeatured(getLiturgicalSeason(today, form), today)
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const meditations = useMemo(
+    () => practiceRow(featured.meditationRow),
+    [catalogVersion, featured.meditationRow],
+  )
+
+  if (meditations.length === 0) return null
+
+  return (
+    <ArtCarousel title={t('explore.dailyMeditations')}>
+      {meditations.map(([id, entry, subtitleKey]) => (
+        <MeditationTile key={id} id={id} entry={entry} subtitleKey={subtitleKey} />
+      ))}
+    </ArtCarousel>
   )
 }
 

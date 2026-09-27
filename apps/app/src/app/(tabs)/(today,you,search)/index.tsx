@@ -19,19 +19,13 @@ import {
 } from '@/components'
 import { getManifest } from '@/content/resolver'
 import { useEventStore } from '@/db/events'
-import { useCelebrationDisplay, useUpcomingCelebration, useYearCalendar } from '@/features/calendar'
-import { ExploreFeatured, FromOpusDei, FromRome } from '@/features/explore'
+import { useYearCalendar } from '@/features/calendar'
+import { DailyMeditations, ExploreFeatured, FromOpusDei, FromRome } from '@/features/explore'
 import {
   Aspiratio,
-  type CarouselPage,
-  CelebrationOfDay,
-  DailyCarousel,
-  DiesDevotion,
   LiturgicalHeader,
   MementoLine,
   RestartNeededList,
-  SaintOfDayCard,
-  SeasonalContext,
   TierLegend,
   TimeBlockSection,
 } from '@/features/home'
@@ -57,7 +51,6 @@ import {
   useSlots,
 } from '@/features/plan-of-life'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
-import { useSaintOfDayReading } from '@/features/saints'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import { useStableToday, useToday } from '@/hooks/useToday'
 import {
@@ -122,8 +115,6 @@ export default function HomeScreen() {
   const wallLogs = useCompletionRange(wallStart, selectedDate)
   const { data: yearCalendar } = useYearCalendar(now.getFullYear())
   const obligations = useObligations(now)
-  const upcomingFeast = useUpcomingCelebration(14)
-  const saintReading = useSaintOfDayReading()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
   const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
@@ -131,62 +122,6 @@ export default function HomeScreen() {
     const dayCalendar = getCelebrationsForDate(yearCalendar, now)
     return { season, dayCalendar }
   }, [yearCalendar, season, selectedDate])
-
-  const principalFeast = scheduleCtx?.dayCalendar?.principal
-  const principalFeastDisplay = useCelebrationDisplay(principalFeast)
-  const upcomingFeastDisplay = useCelebrationDisplay(upcomingFeast)
-  // The devotion card's subject changes by weekday; derive it from the day's
-  // line ("Today, Saint Joseph." → "Saint Joseph") for the watermark.
-  const devotionDayKey = [
-    'sunday',
-    'monday',
-    'tuesday',
-    'wednesday',
-    'thursday',
-    'friday',
-    'saturday',
-  ][now.getDay()]
-  const devotionSubject = t(`diesDomini.days.${devotionDayKey}.line`)
-    .replace(/^[^,]*,\s*/, '')
-    .replace(/\.+$/, '')
-  const carouselPages: CarouselPage[] = [
-    {
-      key: 'devotion',
-      tone: 'blue',
-      watermark: devotionSubject,
-      node: <DiesDevotion date={now} />,
-    },
-    ...(principalFeast
-      ? [
-          {
-            key: 'celebration',
-            tone: 'burgundy' as const,
-            watermark: principalFeastDisplay.name,
-            node: <CelebrationOfDay date={now} />,
-          },
-        ]
-      : []),
-    ...(upcomingFeast
-      ? [
-          {
-            key: 'seasonal',
-            tone: 'green' as const,
-            watermark: upcomingFeastDisplay.name,
-            node: <SeasonalContext date={now} />,
-          },
-        ]
-      : []),
-    ...(saintReading
-      ? [
-          {
-            key: 'saint',
-            tone: 'gold' as const,
-            watermark: saintReading.name,
-            node: <SaintOfDayCard />,
-          },
-        ]
-      : []),
-  ]
 
   const completionsBySlot = useCompletionDatesBySlot()
   const programHides = useProgramHidesForDate(selectedDate)
@@ -271,7 +206,7 @@ export default function HomeScreen() {
           />
 
           <FadeInView>
-            <DailyCarousel pages={carouselPages} />
+            <ExploreFeatured />
           </FadeInView>
         </YStack>
 
@@ -357,7 +292,7 @@ export default function HomeScreen() {
 
         <ContinueRow />
 
-        <ExploreFeatured />
+        <DailyMeditations />
 
         <PageBreakOrnament />
 

@@ -4,7 +4,7 @@ import { ScrollView } from 'react-native'
 /**
  * The edge-bleeding horizontal scroller shared by every Explore row: cards bleed
  * to both screen edges (the negative margin cancels the 24px page padding) so the
- * off-screen card becomes the swipe affordance, matching `DailyCarousel`. Pass
+ * off-screen card becomes the swipe affordance, matching `FeaturedCarousel`. Pass
  * `stretch` to make every card share the tallest one's height (flexbox align
  * stretch) — used by the title-in-block Holy See cards.
  */
