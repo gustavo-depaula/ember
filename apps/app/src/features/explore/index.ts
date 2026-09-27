@@ -1,5 +1,6 @@
 export { DailyMeditations, ExploreCatalogRows, ExploreFeatured } from './ExploreFeed'
 export { FromOpusDei } from './FromOpusDei'
 export { FromRome } from './FromRome'
-export { PrayNowPrototype, PrayNowSwitcher, usePrayNow } from './PrayNowPrototype'
+export { PrayNowCard } from './PrayNowCard'
+export { usePrayNow } from './usePrayNow'
 export { useSaintOfDay } from './useSaintOfDay'

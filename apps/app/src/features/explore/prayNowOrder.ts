@@ -15,7 +15,7 @@ import type { Tier } from '@/db/schema'
 // offered again: the card is about now, and Today's plan list keeps what was
 // missed. With nothing on time, the next to open is "coming up".
 
-export const lead = 30
+const lead = 30
 const essentialHold = 2 * 60
 const dayStart = 4 * 60
 const dayEnd = dayStart + 24 * 60
@@ -46,27 +46,26 @@ function blockEnd(due: number): number {
   return dayEnd
 }
 
+const byDueThenTier = (a: Timed, b: Timed) => a.due - b.due || tierRank[a.tier] - tierRank[b.tier]
+
 /**
- * Orders what's left of a day. `dues` are the times of every timed practice in
- * the plan, prayed or not, so a timeframe ends where the plan says — not where
- * the next unprayed practice happens to be.
+ * Picks from what's left of a day. `dues` are the times of every timed
+ * practice in the plan, prayed or not, so a timeframe ends where the plan says
+ * — not where the next unprayed practice happens to be.
  */
-export function orderByWindow<T extends Timed>(
+export function pickByWindow<T extends Timed>(
   items: T[],
   now: number,
-  dues: number[] = items.filter((s) => !s.office).map((s) => s.due),
-): { queue: T[]; comingUp: boolean } {
+  dues: number[],
+): { next?: T; comingUp: boolean } {
   const ends = (s: T) => {
     const end = Math.min(blockEnd(s.due), ...dues.filter((d) => d > s.due))
     return s.tier === 'essential' ? Math.max(end, s.due + essentialHold) : end
   }
   const onTime = items
     .filter((s) => s.office || (now >= s.due - lead && now < ends(s)))
-    .sort((a, b) => a.due - b.due || tierRank[a.tier] - tierRank[b.tier])
-  const upcoming = items
-    .filter((s) => !s.office && now < s.due - lead)
-    .sort((a, b) => a.due - b.due || tierRank[a.tier] - tierRank[b.tier])
-  return onTime.length > 0
-    ? { queue: onTime, comingUp: false }
-    : { queue: upcoming, comingUp: true }
+    .sort(byDueThenTier)
+  if (onTime.length > 0) return { next: onTime[0], comingUp: false }
+  const upcoming = items.filter((s) => !s.office && now < s.due - lead).sort(byDueThenTier)
+  return { next: upcoming[0], comingUp: true }
 }

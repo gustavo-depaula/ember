@@ -31,14 +31,20 @@ export function getPinnableSelects(flow: FlowDefinition | undefined): PinnableSe
 export function getHourSlots(
   flow: FlowDefinition | undefined,
 ): { pins: Record<string, string>; time?: string }[] {
-  const select = flow?.sections.find(
-    (s): s is StaticSelect & { as: string } =>
-      s.type === 'select' && 'options' in s && s.pin === true && s.on === 'hour',
-  )
+  const select = getHourSelect(flow)
   if (!select) return []
   return select.options
     .filter((o) => o.pin !== false)
     .map((o) => ({ pins: { [select.as]: o.id }, time: o.time }))
+}
+
+// The office's hour select: a pinned select on the clock. Its practice is an
+// office — it picks its own hour — unless a slot pins one.
+export function getHourSelect(flow: FlowDefinition | undefined) {
+  return flow?.sections.find(
+    (s): s is StaticSelect & { as: string } =>
+      s.type === 'select' && 'options' in s && s.pin === true && s.on === 'hour',
+  )
 }
 
 // Labels of the options a slot's pins name, in flow order; pins that no longer

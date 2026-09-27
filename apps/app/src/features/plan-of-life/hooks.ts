@@ -423,17 +423,19 @@ export function useReorderSlots() {
 }
 
 // Loads the flows behind pinned slots so their rows can read "Prime" rather
-// than the practice name. Shares usePractice's query key, so opening the
-// practice afterwards reuses the same flow. Returns how many have loaded; a
-// caller re-renders as that grows.
+// than the practice name. Returns how many have loaded; a caller re-renders as
+// that grows.
 export function usePinnedFlows(slots: SlotState[]): number {
+  return useSlotFlows(slots.filter((s) => s.pins))
+}
+
+// Loads the flows behind slots — the active variant's, as praying would.
+// Shares usePractice's query key, so opening the practice afterwards reuses
+// the same flow.
+export function useSlotFlows(slots: SlotState[]): number {
   const practices = useEventStore((s) => s.practices)
   const ids = [
-    ...new Set(
-      slots
-        .filter((s) => s.pins)
-        .map((s) => practices.get(s.practice_id)?.active_variant ?? s.practice_id),
-    ),
+    ...new Set(slots.map((s) => practices.get(s.practice_id)?.active_variant ?? s.practice_id)),
   ]
   const results = useQueries({
     queries: ids.map((id) => ({

@@ -24,8 +24,7 @@ import {
   ExploreFeatured,
   FromOpusDei,
   FromRome,
-  PrayNowPrototype,
-  PrayNowSwitcher,
+  PrayNowCard,
   usePrayNow,
 } from '@/features/explore'
 import {
@@ -188,161 +187,155 @@ export default function HomeScreen() {
   const cornerHeight = cornerWidth / (isDark ? darkCornerAspect : lightCornerAspect)
 
   return (
-    <>
-      <ScreenLayout>
-        <View
-          position="absolute"
-          top={noNotchTopPad - (isDark ? 78 : 73)}
-          left={-16}
-          style={{ pointerEvents: 'none' }}
-          zIndex={1}
-        >
-          <Image
-            source={isDark ? frameCornerDark : frameCornerLight}
-            style={{ width: cornerWidth, height: cornerHeight }}
-            contentFit="contain"
-            accessibilityElementsHidden
+    <ScreenLayout>
+      <View
+        position="absolute"
+        top={noNotchTopPad - (isDark ? 78 : 73)}
+        left={-16}
+        style={{ pointerEvents: 'none' }}
+        zIndex={1}
+      >
+        <Image
+          source={isDark ? frameCornerDark : frameCornerLight}
+          style={{ width: cornerWidth, height: cornerHeight }}
+          contentFit="contain"
+          accessibilityElementsHidden
+        />
+      </View>
+
+      <YStack gap="$lg" paddingTop={5 + noNotchTopPad} paddingBottom="$lg">
+        <YStack gap="$md">
+          <LiturgicalHeader
+            date={now}
+            season={season}
+            today={anchorDate}
+            onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
           />
-        </View>
 
-        <YStack gap="$lg" paddingTop={5 + noNotchTopPad} paddingBottom="$lg">
-          <YStack gap="$md">
-            <LiturgicalHeader
-              date={now}
-              season={season}
-              today={anchorDate}
-              onSelectDate={(date) =>
-                setTimeTravelEphemeral(date === anchorDate ? undefined : date)
-              }
-            />
+          <FadeInView>
+            <ExploreFeatured leading={prayNow && <PrayNowCard {...prayNow} />} />
+          </FadeInView>
+        </YStack>
 
-            <FadeInView>
-              <ExploreFeatured leading={prayNow && <PrayNowPrototype {...prayNow} />} />
-            </FadeInView>
-          </YStack>
+        <YStack>
+          <FadeInView index={1}>
+            <YStack>
+              <Pressable
+                onPress={() => router.navigate('/(tabs)/(you)/you')}
+                accessibilityRole="link"
+                accessibilityLabel={t('a11y.viewPlanOfLife')}
+              >
+                <Typography variant="screen-title" tone="muted" fontSize="$5">
+                  {t('home.ruleOfLife')}
+                </Typography>
+              </Pressable>
+            </YStack>
+          </FadeInView>
 
-          <YStack>
+          {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
             <FadeInView index={1}>
-              <YStack>
-                <Pressable
-                  onPress={() => router.navigate('/(tabs)/(you)/you')}
-                  accessibilityRole="link"
-                  accessibilityLabel={t('a11y.viewPlanOfLife')}
-                >
-                  <Typography variant="screen-title" tone="muted" fontSize="$5">
-                    {t('home.ruleOfLife')}
-                  </Typography>
-                </Pressable>
-              </YStack>
+              <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
             </FadeInView>
-
-            {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
-              <FadeInView index={1}>
-                <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
-              </FadeInView>
-            )}
-
-            {todaySlots.length === 0 ? (
-              <FadeInView index={2}>
-                <Pressable
-                  onPress={() => router.navigate('/(tabs)/(you)/you')}
-                  accessibilityRole="link"
-                  accessibilityLabel={t('home.emptyPlanAction')}
-                >
-                  <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
-                    <Typography tone="muted" fontSize="$2" textAlign="center">
-                      {t('home.emptyPlan')}
-                    </Typography>
-                    <Typography fontSize="$2" fontWeight="500" color="$accent">
-                      {t('home.emptyPlanAction')}
-                    </Typography>
-                  </YStack>
-                </Pressable>
-              </FadeInView>
-            ) : (
-              <YStack gap="$md" marginTop="$md">
-                {shownBlocks.map(({ block, def, state }, index) => {
-                  const { completed, total } = getBlockCompletion(
-                    def.slots.map((s) => s.id),
-                    completedIds,
-                  )
-
-                  return (
-                    <FadeInView key={block} index={index + 2}>
-                      <TimeBlockSection
-                        label={t(`timeBlock.${block}`)}
-                        items={def.slots.map((s) => enrichSlot(s, t))}
-                        completedIds={completedIds}
-                        restartNeededIds={restartNeededIds}
-                        state={state}
-                        completed={completed}
-                        total={total}
-                        readOnly={isFutureDate}
-                        onToggle={(item, done) => {
-                          if (!overrides[block])
-                            setOverrides((prev) => ({ ...prev, [block]: state }))
-                          setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
-                        }}
-                        onToggleCollapse={() => toggleBlockCollapse(block, state)}
-                        onPressItem={handlePressItem}
-                      />
-                    </FadeInView>
-                  )
-                })}
-                <TierLegend
-                  tiers={shownBlocks
-                    .filter(({ state }) => state === 'expanded')
-                    .flatMap(({ def }) => def.slots)
-                    .filter((s) => !completedIds.has(s.id))
-                    .map((s) => s.tier)}
-                />
-              </YStack>
-            )}
-
-            <RestartNeededList ids={restartNeededIds} />
-          </YStack>
-
-          <ContinueRow />
-
-          <DailyMeditations />
-
-          <PageBreakOrnament />
-
-          <Aspiratio date={now} />
-
-          <MementoLine />
-
-          {todaySlots.length > 0 && (
-            <>
-              <SectionDivider />
-              <FadeInView index={activeBlocks.length + 3}>
-                <YStack alignItems="center" gap="$sm">
-                  <Typography variant="label" fontSize="$2">
-                    {t('home.fidelity')}
-                  </Typography>
-                  <VotiveWall data={wallData} weeks={10} tiered />
-                  {totalSlots > 0 && completedCount === totalSlots && (
-                    <Typography variant="sacred-title" fontSize="$3" color="$accent">
-                      Pax Christi.
-                    </Typography>
-                  )}
-                  <Typography tone="muted" fontSize="$1">
-                    {t('home.todayProgress', {
-                      completed: completedCount,
-                      total: totalSlots,
-                    })}
-                  </Typography>
-                </YStack>
-              </FadeInView>
-            </>
           )}
 
-          <FromRome />
+          {todaySlots.length === 0 ? (
+            <FadeInView index={2}>
+              <Pressable
+                onPress={() => router.navigate('/(tabs)/(you)/you')}
+                accessibilityRole="link"
+                accessibilityLabel={t('home.emptyPlanAction')}
+              >
+                <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
+                  <Typography tone="muted" fontSize="$2" textAlign="center">
+                    {t('home.emptyPlan')}
+                  </Typography>
+                  <Typography fontSize="$2" fontWeight="500" color="$accent">
+                    {t('home.emptyPlanAction')}
+                  </Typography>
+                </YStack>
+              </Pressable>
+            </FadeInView>
+          ) : (
+            <YStack gap="$md" marginTop="$md">
+              {shownBlocks.map(({ block, def, state }, index) => {
+                const { completed, total } = getBlockCompletion(
+                  def.slots.map((s) => s.id),
+                  completedIds,
+                )
 
-          <FromOpusDei />
+                return (
+                  <FadeInView key={block} index={index + 2}>
+                    <TimeBlockSection
+                      label={t(`timeBlock.${block}`)}
+                      items={def.slots.map((s) => enrichSlot(s, t))}
+                      completedIds={completedIds}
+                      restartNeededIds={restartNeededIds}
+                      state={state}
+                      completed={completed}
+                      total={total}
+                      readOnly={isFutureDate}
+                      onToggle={(item, done) => {
+                        if (!overrides[block]) setOverrides((prev) => ({ ...prev, [block]: state }))
+                        setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
+                      }}
+                      onToggleCollapse={() => toggleBlockCollapse(block, state)}
+                      onPressItem={handlePressItem}
+                    />
+                  </FadeInView>
+                )
+              })}
+              <TierLegend
+                tiers={shownBlocks
+                  .filter(({ state }) => state === 'expanded')
+                  .flatMap(({ def }) => def.slots)
+                  .filter((s) => !completedIds.has(s.id))
+                  .map((s) => s.tier)}
+              />
+            </YStack>
+          )}
+
+          <RestartNeededList ids={restartNeededIds} />
         </YStack>
-      </ScreenLayout>
-      <PrayNowSwitcher />
-    </>
+
+        <ContinueRow />
+
+        <DailyMeditations />
+
+        <PageBreakOrnament />
+
+        <Aspiratio date={now} />
+
+        <MementoLine />
+
+        {todaySlots.length > 0 && (
+          <>
+            <SectionDivider />
+            <FadeInView index={activeBlocks.length + 3}>
+              <YStack alignItems="center" gap="$sm">
+                <Typography variant="label" fontSize="$2">
+                  {t('home.fidelity')}
+                </Typography>
+                <VotiveWall data={wallData} weeks={10} tiered />
+                {totalSlots > 0 && completedCount === totalSlots && (
+                  <Typography variant="sacred-title" fontSize="$3" color="$accent">
+                    Pax Christi.
+                  </Typography>
+                )}
+                <Typography tone="muted" fontSize="$1">
+                  {t('home.todayProgress', {
+                    completed: completedCount,
+                    total: totalSlots,
+                  })}
+                </Typography>
+              </YStack>
+            </FadeInView>
+          </>
+        )}
+
+        <FromRome />
+
+        <FromOpusDei />
+      </YStack>
+    </ScreenLayout>
   )
 }

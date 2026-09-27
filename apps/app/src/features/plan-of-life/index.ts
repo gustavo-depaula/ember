@@ -38,6 +38,7 @@ export {
   useReorderSlots,
   useRestartNeededPractices,
   useRestartProgram,
+  useSlotFlows,
   useSlots,
   useSlotsForPractice,
   useUnarchivePractice,

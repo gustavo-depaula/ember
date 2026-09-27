@@ -12,6 +12,7 @@ export {
   resolveFlow,
   resolveFlowAsync,
 } from './engine'
+export { lookupMap } from './engine/context'
 export { liturgicalDaySource } from './sources/liturgical-day'
 export type {
   BilingualRichText,

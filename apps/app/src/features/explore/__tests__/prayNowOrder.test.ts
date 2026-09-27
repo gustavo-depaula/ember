@@ -3,7 +3,7 @@ import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
 import type { Tier } from '@/db/schema'
-import { dayMinutes, orderByWindow } from '../prayNowOrder'
+import { dayMinutes, pickByWindow } from '../prayNowOrder'
 
 // Real plans, straight from content/: the templates' times and tiers.
 const content = resolve(__dirname, '../../../../../../content')
@@ -25,12 +25,12 @@ function plan(id: string) {
 function pick(id: string, clock: string, done: string[] = []) {
   const all = plan(id)
   const items = all.filter((p) => !done.includes(p.ref))
-  const { queue, comingUp } = orderByWindow(
+  const { next, comingUp } = pickByWindow(
     items,
     dayMinutes(clock),
     all.map((p) => p.due),
   )
-  return { ref: queue[0]?.ref, comingUp }
+  return { ref: next?.ref, comingUp }
 }
 
 describe('pray now: which practice', () => {

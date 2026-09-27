@@ -1,5 +1,5 @@
 import { Image, type ImageSource } from 'expo-image'
-import { useState } from 'react'
+import { type ReactNode, useState } from 'react'
 import { StyleSheet } from 'react-native'
 import Svg, { Defs, Rect } from 'react-native-svg'
 import { Text, View, YStack } from 'tamagui'
@@ -22,6 +22,8 @@ export type FeatureBlockData = {
   coverTitle?: string
   tone: BlockTone
   onPress: () => void
+  /** A row under the text, e.g. Pray now's ✠ and minutes. */
+  footer?: ReactNode
 }
 
 /**
@@ -40,6 +42,7 @@ export function FeatureBlock({
   coverTitle,
   tone,
   onPress,
+  footer,
 }: Omit<FeatureBlockData, 'key'>) {
   const [width, setWidth] = useState(0)
   const coverSize = Math.round(width * 0.6)
@@ -110,12 +113,13 @@ export function FeatureBlock({
               color="rgba(245,239,226,0.72)"
               fontSize={14}
               lineHeight={18}
-              numberOfLines={3}
+              numberOfLines={footer ? 2 : 3}
             >
               {subtitle}
             </Typography>
           )}
         </YStack>
+        {footer}
       </YStack>
     </AnimatedPressable>
   )

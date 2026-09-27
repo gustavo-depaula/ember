@@ -135,12 +135,6 @@ const targets = [
   { id: 'evangelist/john-2', slug: 'evangelist-john-2', q: 'Hieronymus Bosch Saint John Evangelist Patmos Berlin' },
   { id: 'evangelist/john-3', slug: 'evangelist-john-3', q: 'Velázquez Saint John Evangelist Patmos' },
 
-  // Pray now — the hour's painting behind the card. Dusk reuses Millet's
-  // Angelus (tpl-opus-dei); these cover dawn, the working day, and night.
-  { id: 'hour/dawn', slug: 'hour-dawn', q: 'Jules Breton The Song of the Lark' },
-  { id: 'hour/day', slug: 'hour-day', q: 'Jules Breton Blessing of the Wheat in Artois' },
-  { id: 'hour/night', slug: 'hour-night', q: 'Georges de La Tour Saint Joseph charpentier Louvre' },
-
   // NOTE: The Daily Meditations row (/explore) cards — meditation-alphonsus.jpg,
   // meditation-intimita.jpg, meditation-patristic.jpg, meditation-opus-dei.jpg —
   // are AI-generated devotional paintings, not PD-sourced. They are managed by
