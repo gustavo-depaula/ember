@@ -1,0 +1,63 @@
+# Translation Journal — On the Incarnation of the Word (pt-BR)
+
+Source: en-US (Archibald Robertson translation, NPNF Second Series Vol. 4, via New Advent)
+Target: pt-BR
+
+## Key Terms
+
+Conventions carried over from `athanasius/statement-of-faith/pt-BR` (same author, same translator): `Word` → **Verbo**, `Only-begotten` → **Unigênito**, `Wisdom` → **Sabedoria**, `impassible` → **impassível**, author name **Atanásio**. From `gregory-thaumaturgus/*/pt-BR` and `dionysius-rome/against-the-sabellians/pt-BR`: `Godhead`/`Deity` → **Divindade**, `the Father` → **o Pai**, Scripture book names localized to full Portuguese names (not abbreviations), quoted Scripture translated from the source's own wording.
+
+| English | Portuguese | Notes |
+|---------|-----------|-------|
+| On the Incarnation of the Word | Sobre a Encarnação do Verbo | "On X" → "Sobre X" pattern used across `church-fathers/` |
+| Word (the Son) | Verbo | always; "Word of God" → "Verbo de Deus", "God the Word" → "Deus Verbo" |
+| word (spoken, of God's decree) | palavra | 6.3 "God's word should be broken" — lowercase, not the Person |
+| Logos | Logos | heading 41 only, kept as in source |
+| Word (and Reason) | Verbo (e Razão) | 11.2 — the source's gloss on *Logos* kept |
+| Incarnation / become incarnate | Encarnação / encarnar-se | |
+| becoming Man / being made man | fazer-se Homem / fazer-se homem | nominal "o fazer-se homem do Verbo"; capital H only where the source capitalizes |
+| incorruption | incorruptibilidade | fixed rendering throughout; "incorrupt" → incorrupto; "incorruptible" → incorruptível |
+| corruption / corruptible | corrupção / corruptível | |
+| impassibility | impassibilidade | |
+| image / after the image / in the image of God | imagem / segundo a imagem / à imagem de Deus | "Image" capitalized when the source means the Son (Imagem do Pai) |
+| likeness | semelhança | |
+| Artificer | Artífice | |
+| Maker | Fazedor | kept distinct from Criador (Creator) because 2.4 argues the difference between a maker from matter and a creator from nothing |
+| Mechanic (2.4, heading 2) | Artesão / artesão | opposed to "Criador a partir do nada" |
+| loving-kindness | benignidade | Greek *philanthropia* |
+| Appearing / appearance / manifestation | Manifestação / manifestação | |
+| sojourn (of the Saviour) | permanência (entre nós) / habitar aqui | |
+| quicken | vivificar | |
+| peers (Christ's fellow men) | semelhantes | |
+| unseemly / seemly / fitting | inconveniente / conveniente | keeps the *prepon* argument one word-family |
+| monstrous | monstruoso | |
+| bring to nought | reduzir a nada | |
+| heathen | pagãos | |
+| Greeks / Gentiles | gregos / gentios | kept distinct as in source |
+| demons / evil spirits | demônios / espíritos malignos | |
+| Hades | Hades | |
+| sign of the Cross | sinal da Cruz | capitalized *Sinal* where the source capitalizes |
+| first-fruits | primícias | |
+| Holy of Holies | Santo dos Santos | Daniel 9:24 |
+| asbestos | amianto | |
+| Macarius (worthy of that name) | Macário (digno desse nome) | pun on *makarios* ("blessed") left implicit, as in the source |
+| Jesus son of Naue | Jesus, filho de Nave | Joshua; the source's LXX-form name kept, not modernized to Josué |
+| Esaias / Jeremy / Ezechias / Osee / Aggæus / Zachary | Isaías / Jeremias / Ezequias / Oseias / Ageu / Zacarias | standard Portuguese forms |
+| Tharra / Ameram / Chelchias / Senacherim / Elkana | Terá / Anrão / Helcias / Senaqueribe / Elcana | |
+
+## Translation Decisions
+
+- 2026-09-27: Headings. The 57 `##` headings are the NPNF editor's section summaries (marginal analyses), not Athanasius's text. They are kept and translated because they are the only section navigation the source has, and dropping them would break the paragraph/heading alignment with en-US. Their italic/non-italic formatting is mirrored exactly (sections 5, 10, 13, 18 and 37 are roman in the source).
+- 2026-09-27: Heading 5 in the source is in fact Athanasius's own opening sentence of §5 (§5.1 in NPNF), promoted to a heading by the New Advent import. Mirrored as a heading rather than restructured, so the two languages keep the same block layout; the text is translated as author text.
+- 2026-09-27: No footnotes exist in the source file (New Advent's NPNF footnotes were not imported), so none were dropped or added.
+- 2026-09-27: Inline Scripture references are kept exactly where the source places them — often inside the quotation after its first word (“No Gênesis 1:1 princípio…”), a trace of New Advent's hyperlink placement. Book names are localized (Gênesis, Hebreus, Romanos, Sabedoria, 2 Coríntios, 1 Timóteo, 1 Pedro, Atos, João, Mateus, Lucas, Gálatas, Deuteronômio, Efésios, Colossenses, Jeremias, Isaías, Números, Oseias, Salmos); chapter:verse unchanged, including the edition's own oddities (e.g. Genesis 2:15 at 6.2, Wisdom 6:18 doubled as "a Sabedoria Sabedoria 6:18").
+- 2026-09-27: Quoted Scripture is translated from Robertson's English (which follows Athanasius's LXX), not replaced by a Portuguese Bible. E.g. Genesis 2:17 "eating you shall eat … dying you shall die" → "comendo comerás … morrendo morrerás", since 3.5 argues from the doubled form; Isaiah 53 in §34 follows the LXX wording ("Um homem em chagas…").
+- 2026-09-27: Inline paragraph numbers (`2.`, `3.` …) are mirrored exactly as plain text, including the source's own irregularities (§10 begins its numbering with `1.` after the first sentence; §5 jumps from `4.` to `8.`). Where the source starts a line with `N. `, pt-BR does the same so the files stay parallel. Note for a later source pass: `.claude/rules/books.md` asks for bold `**N.**` numbering; changing that should be done in en-US and pt-BR together.
+- 2026-09-27: Obvious OCR/import slips in the English were translated as the intended word, without altering en-US: run-together words ("sinand", "gracefollowing", "knowHim", "demonsin"); "impossible" → *impassível* (54.3, NPNF "impassible"); "bold to be gods" → "têm por deuses" (48.5, "hold"); "light and movement and light" → "luz, e movimento, e vida" (42.4, NPNF "life"); "God and Asaph and Nathan" → "Gade, e Asafe, e Natã" (39.4 — the prophet Gad, NPNF "Gad"). The source's "Josias of Amos" (35.7, historically Amon) is an edition-level reading and is mirrored as "Josias de Amós".
+- 2026-09-27: Stray spaces before punctuation in the source ("Jews :", "religion ,") are not reproduced.
+- 2026-09-27: Pronouns for God and Christ are lowercase (ele, dele, lhe), following `statement-of-faith/pt-BR`; titles stay capitalized (Verbo, Imagem, Artífice, Salvador, Vida). Death, personified as "he" in the English, is feminine in Portuguese (a morte … ela), which is the natural form.
+- 2026-09-27: "He was made man that we might be made God" (54.3) → "ele se fez homem para que nós fôssemos feitos Deus" — kept literal rather than softened to "divinizados", since the source keeps the bold parallel.
+- 2026-09-27: Address to Macarius uses the second person singular (tu/te/teu) throughout, matching the treatise's personal address ("your piety", "you may know").
+- 2026-09-27 (review round 1): Fixed 5 fidelity errors found by bilingual clause-by-clause read: 3.2 "Palavra de Deus" → "Verbo de Deus" (the Key Terms table fixes Word-as-Logos → Verbo always; "Palavra" here read as Scripture, not the Person, at the exact clause arguing creation through Him); 26.3 "apenas de dois dias" → "apenas de um ou dois dias" (source's hedged "one of two days" was narrowed to a flat count); 31.3 "antes que Cristo" → "e não Cristo" (source "dead rather than Christ"; "antes que" reads as a temporal conjunction in Portuguese, risking a misread that Christ dies "before" something); 40.5 "Enviou a sua Palavra e os curou" → "Enviou o seu Verbo e os curou" (Psalm 107:20 quoted as proof that the Lord Himself, not a messenger, acted — the capitalized Word here is the Son, so it must be Verbo, as at 44.1's similar promotion); 55.4 "no seu próprio palácio" → "na sua própria casa" (added a noun not in the source, which repeats "house" plainly and is correctly rendered "casa" two clauses later in the same sentence).
+- 2026-09-27 (review round 2): Term sweep confirmed clean — every "palavra"/"Palavra" occurrence checked against its en-US "word"/"Word" line (none capitalized for the Logos; all lowercase uses are Scripture/speech, matching round 1's fix), and every "Sabedoria"/"Poder"/"Imagem" occurrence checked against "Wisdom"/"Power"/"Image" for capitalization-as-title-of-the-Son; all match the source exactly, including same-sentence contrasts like §16 "sabedoria dos gregos" (lowercase) vs. "verdadeira Sabedoria de Deus" (capitalized) and §20 "semelhança da imagem de Deus" (lowercase) vs. "Imagem do Pai" (capitalized). Cold read + function-word pass (4 parallel reviewers, one per quarter of the chapter) found and fixed 5 more defects: heading 1 "sem que ele tivesse qualquer existência prévia" → "sem que houvesse qualquer existência prévia" (source "without *its* having any previous existence" — antecedent is the universe, not God; "ele" was misreadable as God himself lacking prior existence); heading 11 "serviram à criatura antes que ao Criador" → "...em lugar do Criador" (same "antes que" temporal-misread class round 1 fixed once already; source's "rather than" here too); heading 14 "reivindicar crédito nesta matéria" → "reivindicar credibilidade nesta matéria" (source "claim credence" = being believed, not "claim credit"); heading 22 "não subtraiu o seu corpo aos judeus, e assim guardou a sua imortalidade" → "...nem assim guardou..." (Portuguese "não V1 e V2" only negates V1, so the sentence read as affirming what it denies; source has both verbs under one negation); heading 47 "ele expulsa os seus enganos" → "ele expulsa os enganos deles" (source "he drives out *their* deceits" — the demons', not the exorcist's own — but Portuguese "seus" defaulted to the clause subject; made explicit). Several ambiguous "sua/seu" possessives and dense clauses were checked and left unchanged because the same ambiguity or density exists in the English original (e.g. §32.6 "seu próprio Verbo, e Sabedoria, e Poder" — the source's "His own" is equally ambiguous between Father and Son, resolved only by theology in both languages).
+- 2026-09-27 (review round 3): Systematic sweep of all 57 BODY paragraphs (6 parallel reviewers, one per ~9-section range) for the defect classes rounds 1–2 found only in headings: negation scope, pronoun/possessive referents, and "antes que"/"senão"/connectors. Found and fixed 4: §3 (Genesis 2:17 quote) "não comerás, pois no dia em que dela comeres" → "...mas no dia em que dela comeres" (source "you shall not eat of it, *but* on the day..." — the adversative was recast as causal "pois", changing the logical relation between the prohibition and the consequence clause); §3 (Romans 1:26–27 quote) "deixando o uso natural da mulher" → "...das mulheres" (source has plural "the women", matching the preceding "their women" — journal's rule is to translate quoted Scripture literally from Robertson's wording, quirks included); §34 "os ultrajes que lhe foram feitos pelas suas mãos" → "...pelas mãos deles" (source "at their hands" = the Jews', from "the counsels of the Jews against Him"; "suas" defaulted to the nearer antecedent "lhe" = Christ, which is self-contradictory — the victim can't inflict his own indignities); §49 "o seu culto não é impedido pelos deuses que eles têm de passar à mesma terra" → added a comma after "impedido" and after "têm" (without it, "que eles têm de passar" garden-paths as the Portuguese modal "ter de" — "gods that must pass" — instead of "the gods they have, from passing"). Rejected: §48 "convicted them by His own power of being nothing" → flagged for "convenceu...de não serem nada" reading as persuading the false gods themselves rather than exposing/proving them to observers; not fixed because Portuguese "convencer" (from the same Latin *convincere* as English "convict/convince") retains the classical "prove/refute" sense in this register, matching the source's older usage — no meaning is actually lost. Term-frequency diff on Key Terms rows (both directions: incorruption/incorruptible/corruptible, unseemly/seemly/fitting, demon(s), Artificer, Maker, Wisdom, Only-begotten, Hades, first-fruits, Holy of Holies, asbestos) found no real gaps — apparent mismatches traced to regex artifacts (English "incorruptibility" vs "incorruption" both correctly collapsing to "incorruptibilidade"; "demonstrates" containing the substring "demon"), not translation errors. Re-verified round 2's journal claims (heading fixes, §16/§20 capitalization contrasts) against the current file — all still hold.
