@@ -2,13 +2,16 @@
   "id": "cyprian-life-and-passion",
   "cover": "quarter",
   "name": {
-    "en-US": "The Life and Passion of Cyprian"
+    "en-US": "The Life and Passion of Cyprian",
+    "pt-BR": "A Vida e a Paixão de Cipriano"
   },
   "author": {
-    "en-US": "Cyprian of Carthage"
+    "en-US": "Cyprian of Carthage",
+    "pt-BR": "Cipriano de Cartago"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Life and Passion of Cyprian"
+        "en-US": "The Life and Passion of Cyprian",
+        "pt-BR": "A Vida e a Paixão de Cipriano"
       }
     }
   ]
