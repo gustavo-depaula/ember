@@ -2,13 +2,16 @@
   "id": "tertullian-martyrdom-of-perpetua-and-felicity",
   "cover": "quarter",
   "name": {
-    "en-US": "The Martyrdom of Perpetua and Felicity"
+    "en-US": "The Martyrdom of Perpetua and Felicity",
+    "pt-BR": "O Martírio de Perpétua e Felicidade"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Martyrdom of Perpetua and Felicity"
+        "en-US": "The Martyrdom of Perpetua and Felicity",
+        "pt-BR": "O Martírio de Perpétua e Felicidade"
       }
     }
   ]
