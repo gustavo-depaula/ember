@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Devotional Prayers",
-    "la": "Orationes Devotionales"
+    "la": "Orationes Devotionales",
+    "pt-BR": "Orações Devocionais"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
   },
   "description": {
     "en-US": "The collected devotional prayers attributed to Aquinas — *Ante Studium*, *Post Studium*, *Concede Mihi*, *Pia Oratio*, communion prayers, and more. Bilingual Latin/English.",
-    "la": "Orationes devotionales Thomae Aquinati attributae — *Ante Studium*, *Post Studium*, *Concede Mihi*, *Pia Oratio*, orationes ad communionem, et aliae."
+    "la": "Orationes devotionales Thomae Aquinati attributae — *Ante Studium*, *Post Studium*, *Concede Mihi*, *Pia Oratio*, orationes ad communionem, et aliae.",
+    "pt-BR": "As orações devocionais atribuídas a São Tomás de Aquino — *Ante Studium*, *Concede Mihi*, orações para a Comunhão, a oração à Virgem Maria e outras. Traduzidas do latim."
   },
   "composed": "c. 1250–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,112 +39,128 @@
       "id": "orationes-c01",
       "title": {
         "en-US": "Prayers in Honor of the Eucharist",
-        "la": "Prayers in Honor of the Eucharist"
+        "la": "Prayers in Honor of the Eucharist",
+        "pt-BR": "Orações em Honra da Eucaristia"
       }
     },
     {
       "id": "orationes-c02",
       "title": {
         "en-US": "You, I Devoutly Praise",
-        "la": "You, I Devoutly Praise"
+        "la": "You, I Devoutly Praise",
+        "pt-BR": "Eu Vos Louvo com Devoção"
       }
     },
     {
       "id": "orationes-c03",
       "title": {
         "en-US": "All-powerful and Everlasting God",
-        "la": "All-powerful and Everlasting God"
+        "la": "All-powerful and Everlasting God",
+        "pt-BR": "Deus Onipotente e Eterno"
       }
     },
     {
       "id": "orationes-c04",
       "title": {
         "en-US": "Sweetest Jesus",
-        "la": "Sweetest Jesus"
+        "la": "Sweetest Jesus",
+        "pt-BR": "Dulcíssimo Jesus"
       }
     },
     {
       "id": "orationes-c05",
       "title": {
         "en-US": "I Give Thanks to You",
-        "la": "I Give Thanks to You"
+        "la": "I Give Thanks to You",
+        "pt-BR": "Eu Vos Dou Graças"
       }
     },
     {
       "id": "orationes-c06",
       "title": {
         "en-US": "O Merciful God",
-        "la": "O Merciful God"
+        "la": "O Merciful God",
+        "pt-BR": "Ó Deus Misericordioso"
       }
     },
     {
       "id": "orationes-c07",
       "title": {
         "en-US": "Ineffable Creator",
-        "la": "Ineffable Creator"
+        "la": "Ineffable Creator",
+        "pt-BR": "Criador Inefável"
       }
     },
     {
       "id": "orationes-c08",
       "title": {
         "en-US": "O Most Blessed and Sweet Virgin Mary",
-        "la": "O Most Blessed and Sweet Virgin Mary"
+        "la": "O Most Blessed and Sweet Virgin Mary",
+        "pt-BR": "Ó Beatíssima e Dulcíssima Virgem Maria"
       }
     },
     {
       "id": "orationes-c09",
       "title": {
         "en-US": "O God, You Who Are All-powerful",
-        "la": "O God, You Who Are All-powerful"
+        "la": "O God, You Who Are All-powerful",
+        "pt-BR": "Ó Deus Onipotente"
       }
     },
     {
       "id": "orationes-c10",
       "title": {
         "en-US": "O God of All Consolation",
-        "la": "O God of All Consolation"
+        "la": "O God of All Consolation",
+        "pt-BR": "Ó Deus de Toda Consolação"
       }
     },
     {
       "id": "orationes-c11",
       "title": {
         "en-US": "To You, O God, Fountain of Mercy",
-        "la": "To You, O God, Fountain of Mercy"
+        "la": "To You, O God, Fountain of Mercy",
+        "pt-BR": "A Vós, ó Deus, Fonte de Misericórdia"
       }
     },
     {
       "id": "orationes-c12",
       "title": {
         "en-US": "I Praise, Glorify, and Bless You, My God",
-        "la": "I Praise, Glorify, and Bless You, My God"
+        "la": "I Praise, Glorify, and Bless You, My God",
+        "pt-BR": "Eu Vos Louvo, Glorifico e Bendigo, Meu Deus"
       }
     },
     {
       "id": "orationes-c13",
       "title": {
         "en-US": "Here silent is Christ’s Herald",
-        "la": "Here silent is Christ’s Herald"
+        "la": "Here silent is Christ’s Herald",
+        "pt-BR": "Aqui Silencia o Arauto de Cristo"
       }
     },
     {
       "id": "orationes-c14",
       "title": {
         "en-US": "The Angelic Cross",
-        "la": "The Angelic Cross"
+        "la": "The Angelic Cross",
+        "pt-BR": "A Cruz Angélica"
       }
     },
     {
       "id": "orationes-c15",
       "title": {
         "en-US": "My Dear Jesus",
-        "la": "My Dear Jesus"
+        "la": "My Dear Jesus",
+        "pt-BR": "Meu Querido Jesus"
       }
     },
     {
       "id": "orationes-c16",
       "title": {
         "en-US": "Prayer at the Moment of Death",
-        "la": "Prayer at the Moment of Death"
+        "la": "Prayer at the Moment of Death",
+        "pt-BR": "Oração na Hora da Morte"
       }
     }
   ]
