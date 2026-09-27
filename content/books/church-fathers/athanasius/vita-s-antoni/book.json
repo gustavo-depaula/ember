@@ -2,13 +2,16 @@
   "id": "athanasius-vita-s-antoni",
   "cover": "quarter",
   "name": {
-    "en-US": "Vita S. Antoni (Life of St. Anthony)"
+    "en-US": "Vita S. Antoni (Life of St. Anthony)",
+    "pt-BR": "Vita S. Antoni (Vida de Santo Antão)"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Vita S. Antoni (Life of St. Anthony)"
+        "en-US": "Vita S. Antoni (Life of St. Anthony)",
+        "pt-BR": "Vita S. Antoni (Vida de Santo Antão)"
       }
     }
   ]
