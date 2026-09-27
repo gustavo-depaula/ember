@@ -2,13 +2,16 @@
   "id": "augustine-enchiridion",
   "cover": "quarter",
   "name": {
-    "en-US": "The Enchiridion"
+    "en-US": "The Enchiridion",
+    "pt-BR": "O Enquirídio"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Enchiridion"
+        "en-US": "The Enchiridion",
+        "pt-BR": "O Enquirídio"
       }
     }
   ]
