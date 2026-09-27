@@ -2,13 +2,16 @@
   "id": "apocrypha-protoevangelium-of-james",
   "cover": "quarter",
   "name": {
-    "en-US": "Protoevangelium of James (c. 150)"
+    "en-US": "Protoevangelium of James (c. 150)",
+    "pt-BR": "Protoevangelho de Tiago (c. 150)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Protoevangelium of James (c. 150)"
+        "en-US": "Protoevangelium of James (c. 150)",
+        "pt-BR": "Protoevangelho de Tiago (c. 150)"
       }
     }
   ]
