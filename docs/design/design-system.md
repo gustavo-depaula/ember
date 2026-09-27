@@ -92,11 +92,8 @@ Individual practice detail views use a legacy single-color green wall:
 ### Liturgical Season Accents
 
 The app **does not** re-theme itself by liturgical season — the whole palette (gold
-`$accent`, burgundy, walls, etc.) is season-neutral, the same all year. The *only* element
-still tinted by the season is the **Fraktur season hero** in the home `LiturgicalHeader`,
-which paints itself with the color below via `useSeasonAccentColor` (`seasonalAccent` map
-in `config/themes.ts`). Light and dark use separate values — dark accents are brighter to
-stay visible against the near-black background.
+`$accent`, burgundy, walls, etc.) is season-neutral, the same all year. The home
+`LiturgicalHeader` names the season in plain tracked caps; nothing is tinted by it.
 
 | Season | Light | Dark |
 |--------|-------|------|
@@ -143,7 +140,7 @@ drifting. (The reading & prayer body, rungs 3–4, is the one carve-out: `Prayer
 | 4 | **Prayer** — prayers, psalms, antiphons | same reading serif, **line-set** + air + optional drop-cap | ink (`$color`) | *(separate: `PrayerLines`)* |
 | 5 | **Liturgical label** — section labels, hours, feast banners | Cinzel → `$heading` | burgundy, tracked caps | `label`; major division ("PSALMODY") → `marker` |
 | 6 | **Sacred title** — feast/season names, hour titles, sacred screen heroes, book titles, **sacred page-header titles** | medievalist → `$title` | burgundy/ink, mixed case | `sacred-title` |
-| 7 | **Ceremonial peak** (≤1/screen) — illuminated drop-cap, ✠/fleurons, Fraktur season hero | `$title` / UnifrakturMaguntia `$display` | gold = preciousness | `ceremonial` (✠/Fraktur), `drop-cap` |
+| 7 | **Ceremonial peak** (≤1/screen) — illuminated drop-cap, ✠/fleurons | `$title` / UnifrakturMaguntia `$display` | gold = preciousness | `ceremonial` (✠/Fraktur), `drop-cap` |
 
 The one orthogonal modifier is **`tone`** (`default` | `muted`): it drops any variant's
 ink to `$colorSecondary` for de-emphasized chrome or muted labels, without a manual color.
@@ -168,7 +165,7 @@ flag and dropped — Junicode is warmer and carries the full weight range.)
 ### Axis 2 — per-screen choreography
 The deeper into prayer, the higher the screen's center of gravity climbs the ladder and
 the more rung-1 chrome recedes:
-- **Home** — interface-dominant: quiet EB Garamond chrome, the one peak being the Fraktur season name + the Pinyon date carousel.
+- **Home** — interface-dominant: quiet EB Garamond chrome, the one peak being the italic date title, which is also the day scrubber (`DateScrubber`).
 - **Reader** (Bible/book) — reading-dominant: header selectors recede to quiet `variant="interface"`; verse numbers are muted, not gold; the column is capped to a comfortable measure (~34em) on wide screens.
 - **Prayer flow** — prayer-dominant: chrome nearly vanishes; `variant="sacred-title"` hour, `variant="label"` parts, burgundy `variant="rubric"`, line-set prayer text, and a single ✠/drop-cap peak.
 
@@ -179,10 +176,9 @@ generous to compensate for perceived size. **Reading leading is a ratio** (`lead
 stays comfortable at every size instead of cramping at large sizes (the old absolute-px
 array hit ~1.1). `useReadingMaxWidth()` caps the reading column at ~34em on wide screens.
 
-The one sanctioned exception to the ladder: **Pinyon Script** survives only on the home
-day carousel (`DateScrubber`), where it's subtle. Every other former `$script` use was
-rehomed (counts → `variant="interface"`, whispers → `variant="whisper"`, blessings →
-`variant="sacred-title"`).
+**Pinyon Script** (`$script`) no longer has a use: the home day scrubber, its last one,
+now sets in Junicode italic. Former uses were rehomed (counts → `variant="interface"`,
+whispers → `variant="whisper"`, blessings → `variant="sacred-title"`).
 
 ### Drift to clean up (deferred audit)
 A typography survey (2026-05-30) flagged the following for a future consolidation pass.
@@ -190,8 +186,7 @@ None block today's work; logged here so the cleanup isn't rediscovered from scra
 - **6 fonts loaded at boot but never wired into tokens** (`apps/app/src/app/_layout.tsx`):
   Crimson Pro, Lora, Cormorant Garamond, Libre Baskerville, Source Serif 4, Merriweather.
   Remove, or document why they're kept (A/B candidates?).
-- **`$script` (Pinyon)** is down to the single `DateScrubber` use — either formalize that
-  or retire the token.
+- **`$script` (Pinyon)** has no uses left — retire the token and the font.
 - **Raw `fontFamily=` instead of a `Typography` variant** in a few blocks: `VersesBlock`,
   `ProducerHtmlBlock`, `LiturgicalColorBlock`, `ChoiceRichTextBlock`. Fold into variants
   (possibly new micro-variants) to keep the "always reach for a variant" discipline.

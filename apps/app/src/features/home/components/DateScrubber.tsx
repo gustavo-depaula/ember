@@ -1,18 +1,15 @@
 import { addDays, format, parseISO } from 'date-fns'
-import { useCallback, useMemo, useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, StyleSheet, View } from 'react-native'
+import { Pressable, StyleSheet, Text, View } from 'react-native'
 import { Gesture, GestureDetector } from 'react-native-gesture-handler'
 import type { SharedValue } from 'react-native-reanimated'
 import Animated, {
   clamp,
-  FadeIn,
-  FadeOut,
   interpolate,
   runOnJS,
   useAnimatedReaction,
   useAnimatedStyle,
-  useDerivedValue,
   useSharedValue,
   withDecay,
   withSpring,
@@ -23,16 +20,22 @@ import { snappySpring } from '@/config/animation'
 import { lightTap } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
-const itemWidth = 30
-const itemGap = 4
-const itemSize = itemWidth + itemGap
-const pastDays = 60
-const futureDays = 60
-const totalDays = pastDays + futureDays + 1
-const todayIndex = pastDays
-const monthGap = 6
-const lineHeight = 32
+// Swipe distance per day, and the line the title sets on.
+const itemSize = 58
+const lineHeight = 60
+const span = 60
+// The selected day sits full size; the days after it trail off smaller and
+// tighter, a caption to the date rather than a row of equals.
+const firstGap = 48
+const trailStep = 31
+const trailScale = 0.6
 
+/**
+ * Today's title, which is also its time travel: "Setembro 27 28 29", the
+ * coming days fading off to the right and the past hidden behind the month.
+ * Swiping walks through the days; away from today the chosen day turns gold,
+ * and tapping it comes home.
+ */
 export function DateScrubber({
   today,
   onSelectDate,
@@ -42,249 +45,160 @@ export function DateScrubber({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const [centeredIdx, setCenteredIdx] = useState(todayIndex)
-  const [awayDir, setAwayDir] = useState<'past' | 'future' | false>(false)
-
-  const days = useMemo(() => {
-    const todayDate = parseISO(today)
-    const dates: string[] = []
-    const dateObjs: Date[] = []
-    for (let i = -pastDays; i <= futureDays; i++) {
-      const d = addDays(todayDate, i)
-      dates.push(format(d, 'yyyy-MM-dd'))
-      dateObjs.push(d)
-    }
-    return { dates, dateObjs }
-  }, [today])
-
-  const minOffset = -(totalDays - 1) * itemSize
-  const maxOffset = 0
-
-  const offsetX = useSharedValue(-todayIndex * itemSize)
+  const days = useMemo(
+    () => Array.from({ length: span * 2 + 1 }, (_, i) => addDays(parseISO(today), i - span)),
+    [today],
+  )
+  // Formatted up front: the reaction below runs on the UI thread.
+  const keys = useMemo(() => days.map((d) => format(d, 'yyyy-MM-dd')), [days])
+  const [index, setIndex] = useState(span)
+  const offsetX = useSharedValue(-span * itemSize)
   const startX = useSharedValue(0)
+  const minOffset = -(days.length - 1) * itemSize
 
-  function scrollToIndex(index: number) {
-    offsetX.value = withSpring(clamp(-index * itemSize, minOffset, maxOffset), snappySpring)
+  const snap = (to: number) => {
+    'worklet'
+    offsetX.value = withSpring(
+      clamp(Math.round(to / itemSize) * itemSize, minOffset, 0),
+      snappySpring,
+    )
   }
-
-  // biome-ignore lint/correctness/useExhaustiveDependencies: scrollToIndex uses stable shared values
-  const goToToday = useCallback(() => {
-    scrollToIndex(todayIndex)
-    onSelectDate(today)
-  }, [today, onSelectDate])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: shared values are stable refs
   const pan = useMemo(
     () =>
       Gesture.Pan()
         .activeOffsetX([-8, 8])
-        .shouldCancelWhenOutside(false)
         .onStart(() => {
           startX.value = offsetX.value
         })
         .onUpdate((e) => {
-          offsetX.value = clamp(startX.value + e.translationX, minOffset, maxOffset)
+          offsetX.value = clamp(startX.value + e.translationX, minOffset, 0)
         })
         .onEnd((e) => {
           offsetX.value = withDecay(
-            {
-              velocity: e.velocityX,
-              deceleration: 0.997,
-              clamp: [minOffset, maxOffset],
-            },
-            () => {
-              const rounded = Math.round(offsetX.value / itemSize) * itemSize
-              offsetX.value = withSpring(clamp(rounded, minOffset, maxOffset), snappySpring)
-            },
+            { velocity: e.velocityX, deceleration: 0.997, clamp: [minOffset, 0] },
+            () => snap(offsetX.value),
           )
         })
-        // Fallback: if the gesture is cancelled (e.g. on web when the pointer
-        // leaves the GestureDetector bounds), onEnd never fires. Snap to the
-        // nearest day at the current offset so the swipe isn't lost.
+        // On web a pointer leaving the detector cancels without onEnd.
         .onFinalize((_e, success) => {
-          if (success) return
-          const rounded = Math.round(offsetX.value / itemSize) * itemSize
-          offsetX.value = withSpring(clamp(rounded, minOffset, maxOffset), snappySpring)
+          if (!success) snap(offsetX.value)
         }),
     [minOffset],
   )
 
   useAnimatedReaction(
-    () => {
-      const idx = Math.round(-offsetX.value / itemSize)
-      return clamp(idx, 0, totalDays - 1)
-    },
+    () => clamp(Math.round(-offsetX.value / itemSize), 0, days.length - 1),
     (current, previous) => {
       if (previous === null || current === previous) return
       runOnJS(lightTap)()
-      runOnJS(setCenteredIdx)(current)
-      runOnJS(setAwayDir)(current === todayIndex ? false : current < todayIndex ? 'future' : 'past')
-      const date = days.dates[current]
-      if (date) runOnJS(onSelectDate)(date)
+      runOnJS(setIndex)(current)
+      runOnJS(onSelectDate)(keys[current])
     },
-    [days.dates, onSelectDate],
+    [keys, onSelectDate],
   )
 
-  const stripStyle = useAnimatedStyle(() => ({
-    transform: [{ translateX: offsetX.value }],
-  }))
-
-  const monthLabel = useMemo(() => {
-    const dateObj = days.dateObjs[centeredIdx]
-    if (!dateObj) return ''
-    return formatLocalized(dateObj, 'MMMM').replace(/^\w/, (c) => c.toUpperCase())
-  }, [centeredIdx, days.dateObjs])
-
-  const accentColor = theme.accent.val
-  const colorSecondary = theme.colorSecondary.val
+  const month = formatLocalized(days[index], 'MMMM').replace(/^\w/, (c) => c.toUpperCase())
+  const away = index !== span
+  const color = theme.color.val
 
   return (
-    <View>
-      <GestureDetector gesture={pan}>
-        <View style={styles.container}>
-          <View style={styles.composition}>
-            <Animated.Text
-              style={[styles.monthText, { color: colorSecondary }]}
-              numberOfLines={1}
-              maxFontSizeMultiplier={1.2}
-            >
-              {monthLabel}
-            </Animated.Text>
-            <View style={styles.gap} />
-            <View style={styles.slot}>
-              <Animated.View style={[styles.strip, { width: totalDays * itemSize }, stripStyle]}>
-                {days.dateObjs.map((dateObj, index) => (
-                  <DayItem
-                    key={days.dates[index]}
-                    index={index}
-                    dateObj={dateObj}
-                    offsetX={offsetX}
-                    color={colorSecondary}
-                    onTap={() => scrollToIndex(index)}
-                  />
-                ))}
-              </Animated.View>
-            </View>
-          </View>
+    <GestureDetector gesture={pan}>
+      <View style={styles.row}>
+        <Text style={[styles.title, { color }]} numberOfLines={1} maxFontSizeMultiplier={1.2}>
+          {month}{' '}
+        </Text>
+        <View style={styles.slot}>
+          {days.map((date, i) => (
+            <DayItem
+              key={keys[i]}
+              index={i}
+              date={date}
+              offsetX={offsetX}
+              color={i === index && away ? theme.accent.val : color}
+              label={i === index && away ? t('a11y.goToToday') : undefined}
+              onTap={() => snap(-(i === index ? span : i) * itemSize)}
+            />
+          ))}
         </View>
-      </GestureDetector>
-
-      {awayDir && (
-        <Animated.View entering={FadeIn.duration(200)} exiting={FadeOut.duration(150)}>
-          <Pressable
-            onPress={goToToday}
-            style={styles.todayButton}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.goToToday')}
-          >
-            <Animated.Text
-              style={[styles.todayButtonText, { color: accentColor }]}
-              maxFontSizeMultiplier={1.5}
-            >
-              {awayDir === 'past' ? '‹ ' : ''}
-              {t('plan.today')}
-              {awayDir === 'future' ? ' ›' : ''}
-            </Animated.Text>
-          </Pressable>
-        </Animated.View>
-      )}
-    </View>
+      </View>
+    </GestureDetector>
   )
 }
 
 function DayItem({
   index,
-  dateObj,
+  date,
   offsetX,
   color,
+  label,
   onTap,
 }: {
   index: number
-  dateObj: Date
+  date: Date
   offsetX: SharedValue<number>
   color: string
+  label?: string
   onTap: () => void
 }) {
-  const dayNumber = dateObj.getDate()
-  const fullDateLabel = formatLocalized(dateObj, 'EEEE, MMMM d')
-
-  // Signed distance from centered slot: positive = right (future), negative = left (past)
-  const signedDistance = useDerivedValue(() => index + offsetX.value / itemSize)
-
-  const animatedStyle = useAnimatedStyle(() => {
-    const d = signedDistance.value
-    const opacity =
-      d >= 0
-        ? interpolate(d, [0, 1, 2, 3, 4, 5, 7], [1, 0.5, 0.32, 0.2, 0.1, 0.04, 0])
-        : interpolate(-d, [0, 0.5, 1, 2], [1, 0.4, 0.08, 0])
-    return { opacity }
+  const place = useAnimatedStyle(() => {
+    const d = index + offsetX.value / itemSize
+    const x = d <= 0 ? d * itemSize : d <= 1 ? d * firstGap : firstGap + (d - 1) * trailStep
+    return { transform: [{ translateX: x }] }
+  })
+  const look = useAnimatedStyle(() => {
+    const d = index + offsetX.value / itemSize
+    return {
+      opacity:
+        d >= 0
+          ? interpolate(d, [0, 1, 2, 3, 4, 5], [1, 0.4, 0.25, 0.14, 0.06, 0])
+          : interpolate(-d, [0, 0.5, 1], [1, 0.3, 0]),
+      transform: [{ scale: interpolate(Math.abs(d), [0, 1], [1, trailScale], 'clamp') }],
+    }
   })
 
   return (
-    <Pressable
-      onPress={onTap}
-      style={{ position: 'absolute', left: index * itemSize, width: itemWidth, height: lineHeight }}
-      accessibilityRole="button"
-      accessibilityLabel={fullDateLabel}
-    >
-      <Animated.Text
-        style={[styles.dayNumber, { color }, animatedStyle]}
-        maxFontSizeMultiplier={1.2}
+    <Animated.View style={[styles.day, place]}>
+      <Pressable
+        onPress={onTap}
+        accessibilityRole="button"
+        accessibilityLabel={label ?? formatLocalized(date, 'EEEE, d MMMM')}
       >
-        {dayNumber}
-      </Animated.Text>
-    </Pressable>
+        <Animated.Text
+          style={[styles.title, styles.dayNumber, { color }, look]}
+          maxFontSizeMultiplier={1.2}
+        >
+          {date.getDate()}
+        </Animated.Text>
+      </Pressable>
+    </Animated.View>
   )
 }
 
 const styles = StyleSheet.create({
-  container: {
-    alignSelf: 'stretch',
+  row: {
+    flexDirection: 'row',
+    alignItems: 'center',
     height: lineHeight,
     overflow: 'hidden',
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  composition: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    height: lineHeight,
-  },
-  gap: {
-    width: monthGap,
   },
   slot: {
-    width: itemWidth,
+    width: itemSize,
     height: lineHeight,
-    position: 'relative',
   },
-  strip: {
+  day: {
     position: 'absolute',
-    top: 0,
     left: 0,
     height: lineHeight,
   },
-  monthText: {
-    fontFamily: 'PinyonScript_400Regular',
-    fontSize: 22,
-    lineHeight: lineHeight,
+  title: {
+    fontFamily: 'Junicode_Italic',
+    fontSize: 46,
+    lineHeight,
   },
+  // The trailing days shrink toward the title's vertical middle.
   dayNumber: {
-    fontFamily: 'PinyonScript_400Regular',
-    fontSize: 22,
-    lineHeight: lineHeight,
-    textAlign: 'center',
-    width: itemWidth,
-  },
-  todayButton: {
-    alignSelf: 'center',
-    marginTop: 6,
-    paddingVertical: 2,
-  },
-  todayButtonText: {
-    fontFamily: 'Cinzel_400Regular',
-    fontSize: 15,
-    letterSpacing: 1,
+    transformOrigin: ['0%', '50%', 0],
   },
 })

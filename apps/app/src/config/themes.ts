@@ -1,5 +1,3 @@
-import type { LiturgicalSeason } from '@/lib/liturgical'
-
 export const lightTheme = {
   background: '#FFFFFF',
   backgroundSurface: '#F5F5F5',
@@ -83,20 +81,4 @@ export const illuminatedTheme = {
   accentHover: '#E6C158',
   accentSubtle: '#C2A24E',
   colorBurgundy: '#EAAAB2',
-}
-
-// The app no longer re-themes itself by liturgical season — the only thing that
-// still shifts color by season is the Fraktur season hero in the home
-// LiturgicalHeader. This is its palette: the vestment-ish accent per season
-// (plus `rose` for Gaudete / Laetare), in light and dark.
-export const seasonalAccent: Record<LiturgicalSeason | 'rose', { light: string; dark: string }> = {
-  advent: { light: '#5B2C6F', dark: '#7B3E9A' },
-  christmas: { light: '#C9A84C', dark: '#D4A63A' },
-  epiphany: { light: '#2D6A4F', dark: '#3A8A5A' },
-  septuagesima: { light: '#5B2C6F', dark: '#7B3E9A' },
-  lent: { light: '#7D3C98', dark: '#9B50B8' },
-  easter: { light: '#C9A84C', dark: '#D4A63A' },
-  ordinary: { light: '#2D6A4F', dark: '#3A8A5A' },
-  'post-pentecost': { light: '#2D6A4F', dark: '#3A8A5A' },
-  rose: { light: '#C27083', dark: '#D98A9A' },
 }

@@ -1,11 +1,9 @@
 import { format, subWeeks } from 'date-fns'
-import { Image } from 'expo-image'
 import { useFocusEffect, useRouter } from 'expo-router'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, useWindowDimensions } from 'react-native'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { useThemeName, View, YStack } from 'tamagui'
+import { Pressable } from 'react-native'
+import { YStack } from 'tamagui'
 
 import {
   FadeInView,
@@ -66,14 +64,6 @@ import {
   useObligations,
 } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-
-const frameCornerDark = require('../../../../assets/textures/frame_corner_dark.png')
-const frameCornerLight = require('../../../../assets/textures/frame_corner_light.png')
-// Matches ScreenLayout's content column maxWidth; clamping avoids the flourish
-// blowing up to full browser width on the web while the column stays centered.
-const cornerMaxWidth = 640
-const darkCornerAspect = 1023 / 456
-const lightCornerAspect = 1584 / 672
 
 export default function HomeScreen() {
   const { t } = useTranslation()
@@ -173,37 +163,9 @@ export default function HomeScreen() {
   const totalSlots = todaySlots.length
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
 
-  const themeName = useThemeName()
-  const isDark = themeName.startsWith('dark')
-
-  // On notched platforms (iOS) the safe-area inset gives the corner ornament
-  // breathing room. On web/Android-no-notch the inset is 0, which lets the
-  // ornament's top edge get clipped above the viewport — add a virtual notch.
-  const insets = useSafeAreaInsets()
-  const noNotchTopPad = insets.top === 0 ? 32 : 0
-
-  const { width: windowWidth } = useWindowDimensions()
-  const cornerWidth = Math.min(windowWidth, cornerMaxWidth)
-  const cornerHeight = cornerWidth / (isDark ? darkCornerAspect : lightCornerAspect)
-
   return (
     <ScreenLayout>
-      <View
-        position="absolute"
-        top={noNotchTopPad - (isDark ? 78 : 73)}
-        left={-16}
-        style={{ pointerEvents: 'none' }}
-        zIndex={1}
-      >
-        <Image
-          source={isDark ? frameCornerDark : frameCornerLight}
-          style={{ width: cornerWidth, height: cornerHeight }}
-          contentFit="contain"
-          accessibilityElementsHidden
-        />
-      </View>
-
-      <YStack gap="$lg" paddingTop={5 + noNotchTopPad} paddingBottom="$lg">
+      <YStack gap="$lg" paddingBottom="$lg">
         <YStack gap="$md">
           <LiturgicalHeader
             date={now}

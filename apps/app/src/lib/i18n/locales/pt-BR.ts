@@ -105,16 +105,6 @@ export default {
       pentecost: 'Pentecostes',
       advent: 'Advento',
     },
-    seasonDescription: {
-      advent: 'Tempo de alegre expectativa, preparando a vinda de Cristo.',
-      christmas: 'O Verbo se fez carne e habitou entre nós.',
-      epiphany: 'A manifestação de Cristo às nações.',
-      septuagesima: 'A Igreja volta-se à penitência em preparação à Quaresma.',
-      lent: 'Tempo de penitência, oração e esmola em preparação à Páscoa.',
-      easter: 'Cristo ressuscitou! Os cinquenta dias de alegria.',
-      ordinary: 'Caminhando com Cristo pelos dias do ano.',
-      'post-pentecost': 'O tempo da Igreja, guiada pelo Espírito Santo.',
-    },
     season: {
       advent: 'Advento',
       christmas: 'Tempo do Natal',

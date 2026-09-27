@@ -1,20 +1,26 @@
+import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
-import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { Text, useThemeName, View, YStack } from 'tamagui'
+import { Pressable, useWindowDimensions } from 'react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
+import { useThemeName, View, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
-import { useSeasonAccentColor } from '@/hooks/useSeasonAccentColor'
-import {
-  getLiturgicalDayName,
-  type LiturgicalCalendarForm,
-  type LiturgicalSeason,
-} from '@/lib/liturgical'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { formatLocalized } from '@/lib/i18n/dateLocale'
+import type { LiturgicalSeason } from '@/lib/liturgical'
 
 import { DateScrubber } from './DateScrubber'
 
+const frameCornerDark = require('../../../../assets/textures/frame_corner_dark.png')
+const frameCornerLight = require('../../../../assets/textures/frame_corner_light.png')
+// Matches ScreenLayout's content column maxWidth; clamping avoids the flourish
+// blowing up to full browser width on the web while the column stays centered.
+const cornerMaxWidth = 640
+
+/**
+ * Today's header: the corner ornament hanging from the right, and tucked into
+ * it the weekday and season over the date, which swipes through the days.
+ */
 export function LiturgicalHeader({
   date,
   season,
@@ -27,69 +33,49 @@ export function LiturgicalHeader({
   onSelectDate: (date: string) => void
 }) {
   const { t } = useTranslation()
-  const liturgicalCalendar = usePreferencesStore(
-    (s) => s.liturgicalCalendar,
-  ) as LiturgicalCalendarForm
-  const dayName = getLiturgicalDayName(date, liturgicalCalendar, {
-    t: (k, o) => t(k, o) as string,
-  })
-
-  const seasonDisplay = t(`home.seasonName.${season}`)
-
-  // Strip just the bare season noun from the end of the day name, keeping
-  // any trailing connector ("da", "of", etc.) so the prefix flows visually
-  // into the season title below (e.g. "Segunda-Feira da 2ª Semana da" →
-  // "Páscoa", "4th Sunday of" → "Easter").
-  const prefix = useMemo(() => {
-    if (dayName.endsWith(seasonDisplay)) {
-      return dayName.slice(0, -seasonDisplay.length).trimEnd()
-    }
-    return dayName
-  }, [dayName, seasonDisplay])
-
-  const themeName = useThemeName()
-  const isDark = themeName.startsWith('dark')
-  const seasonColor = useSeasonAccentColor(season, date)
-
   const router = useRouter()
+  const isDark = useThemeName().startsWith('dark')
+  const { width: windowWidth } = useWindowDimensions()
+  const cornerWidth = Math.min(windowWidth, cornerMaxWidth)
+  const cornerHeight = cornerWidth / (isDark ? 1023 / 456 : 1584 / 672)
+  // On notched platforms (iOS) the safe-area inset gives the ornament room. On
+  // web/Android-no-notch the inset is 0, which would clip its top edge above
+  // the viewport — add a virtual notch.
+  const noNotchTopPad = useSafeAreaInsets().top === 0 ? 32 : 0
+  // "Segunda-feira" → "Segunda": every weekday stays clear of the ornament.
+  const weekday = formatLocalized(date, 'EEEE').replace(/-feira$/, '')
 
   return (
-    <YStack gap="$xs" alignItems="center">
-      <View paddingTop="$sm" width="100%">
-        <DateScrubber today={today} onSelectDate={onSelectDate} />
+    <>
+      <View
+        position="absolute"
+        top={noNotchTopPad - (isDark ? 78 : 73)}
+        right={-16}
+        zIndex={1}
+        style={{ pointerEvents: 'none', transform: [{ scaleX: -1 }] }}
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
+      >
+        <Image
+          source={isDark ? frameCornerDark : frameCornerLight}
+          style={{ width: cornerWidth, height: cornerHeight }}
+          contentFit="contain"
+        />
       </View>
 
-      <Typography
-        variant="label"
-        tone="muted"
-        fontSize="$3"
-        textAlign="center"
-        maxWidth={isDark ? '60%' : '45%'}
-      >
-        {prefix}
-      </Typography>
-
-      <Pressable
-        onPress={() => router.push('/calendar')}
-        accessibilityRole="link"
-        accessibilityLabel={t('a11y.viewCalendar')}
-        hitSlop={8}
-      >
-        {/* Sanctioned rung-7 peak: the Fraktur season hero. The one element still
-            tinted by the liturgical season (the rest of the app is season-neutral). */}
-        <Text
-          fontFamily="$display"
-          fontSize={'$6' as any}
-          color={seasonColor}
-          paddingVertical="$sm"
+      <YStack gap={2} paddingTop={20 + noNotchTopPad}>
+        <Pressable
+          onPress={() => router.push('/calendar')}
+          accessibilityRole="link"
+          accessibilityLabel={t('a11y.viewCalendar')}
+          hitSlop={8}
         >
-          {seasonDisplay}
-        </Text>
-      </Pressable>
-
-      <Typography variant="whisper" fontSize="$2" textAlign="center" paddingHorizontal="$lg">
-        {t(`home.seasonDescription.${season}`)}
-      </Typography>
-    </YStack>
+          <Typography variant="label" textTransform="uppercase" letterSpacing={1.5} fontSize="$2">
+            {weekday} · {t(`home.seasonName.${season}`)}
+          </Typography>
+        </Pressable>
+        <DateScrubber today={today} onSelectDate={onSelectDate} />
+      </YStack>
+    </>
   )
 }

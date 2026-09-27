@@ -105,16 +105,6 @@ export default {
       pentecost: 'Pentecost',
       advent: 'Advent',
     },
-    seasonDescription: {
-      advent: 'A season of joyful expectation, preparing for the coming of Christ.',
-      christmas: 'The Word was made flesh and dwelt among us.',
-      epiphany: 'The manifestation of Christ to the nations.',
-      septuagesima: 'The Church turns toward penance in preparation for Lent.',
-      lent: 'A season of penance, prayer, and almsgiving in preparation for Easter.',
-      easter: 'Christ is risen! The great fifty days of rejoicing.',
-      ordinary: 'Walking with Christ through the days of the year.',
-      'post-pentecost': 'The time of the Church, guided by the Holy Spirit.',
-    },
     season: {
       advent: 'Advent',
       christmas: 'Christmastide',
