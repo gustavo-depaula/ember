@@ -2,13 +2,16 @@
   "id": "basil-de-spiritu-sancto",
   "cover": "quarter",
   "name": {
-    "en-US": "De Spiritu Sancto"
+    "en-US": "De Spiritu Sancto",
+    "pt-BR": "Sobre o Espírito Santo"
   },
   "author": {
-    "en-US": "Basil the Great"
+    "en-US": "Basil the Great",
+    "pt-BR": "Basílio Magno"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "De Spiritu Sancto"
+        "en-US": "De Spiritu Sancto",
+        "pt-BR": "Sobre o Espírito Santo"
       }
     }
   ]
