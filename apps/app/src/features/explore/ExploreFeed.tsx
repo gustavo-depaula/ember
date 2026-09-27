@@ -1,6 +1,6 @@
 import type { Href } from 'expo-router'
 import { useRouter } from 'expo-router'
-import { useMemo } from 'react'
+import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
 import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
@@ -40,7 +40,7 @@ const isMeta = (id: string) => /example|starter|sandbox/.test(id)
  * Derived off the liturgical day and re-derived as deferred catalog manifests
  * warm (`useCatalogVersion`).
  */
-export function ExploreFeatured() {
+export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const router = useRouter()
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
@@ -126,6 +126,8 @@ export function ExploreFeatured() {
       title: localizeContent(wdColl.name ?? {}),
       subtitle: t(`explore.devotionTheme.${wd.themeKey}`),
       image: artFor(wd.collectionId),
+      cover: coverFor(wdColl),
+      coverTitle: localizeContent(wdColl.name ?? {}),
       tone: toneForKey(wd.collectionId),
       onPress: () => goCollection(wd.collectionId),
     })
@@ -139,6 +141,7 @@ export function ExploreFeatured() {
       title: localizeContent(seasonColl.name ?? {}),
       subtitle: t(featured.seasonTaglineKey),
       image: artFor(featured.seasonCollectionId),
+      cover: coverFor(seasonColl),
       tone: toneForSeason(season),
       onPress: () => goCollection(featured.seasonCollectionId),
     })
@@ -155,12 +158,13 @@ export function ExploreFeatured() {
       title: localizeContent(bookEntry.name ?? bookEntry.title ?? {}),
       subtitle: bookEntry.author ? localizeContent(bookEntry.author) : undefined,
       image: artFor(bookId),
+      cover: coverFor(bookEntry),
       tone: toneForKey(bookId),
       onPress: () => goBook(bookId),
     })
   }
 
-  return <FeaturedCarousel blocks={blocks} />
+  return <FeaturedCarousel blocks={blocks} leading={leading} />
 }
 
 /** The Daily Meditations row, shown on Today below the plan. */

@@ -1,0 +1,117 @@
+import { readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
+import { describe, expect, it } from 'vitest'
+
+import type { Tier } from '@/db/schema'
+import { dayMinutes, orderByWindow } from '../prayNowOrder'
+
+// Real plans, straight from content/: the templates' times and tiers.
+const content = resolve(__dirname, '../../../../../../content')
+type TemplatePractice = { ref?: string; tier?: Tier; time?: string }
+const template = (id: string) =>
+  (
+    JSON.parse(readFileSync(`${content}/plan-of-life-templates/${id}.json`, 'utf8')) as {
+      practices: TemplatePractice[]
+    }
+  ).practices
+
+function plan(id: string) {
+  return template(id).flatMap((p) => {
+    if (!p.ref || !p.time) return []
+    return [{ ref: p.ref, tier: p.tier ?? 'essential', due: dayMinutes(p.time) }]
+  })
+}
+
+function pick(id: string, clock: string, done: string[] = []) {
+  const all = plan(id)
+  const items = all.filter((p) => !done.includes(p.ref))
+  const { queue, comingUp } = orderByWindow(
+    items,
+    dayMinutes(clock),
+    all.map((p) => p.due),
+  )
+  return { ref: queue[0]?.ref, comingUp }
+}
+
+describe('pray now: which practice', () => {
+  it('holds a timed practice until its hour', () => {
+    // At noon the 15:00 Chaplet is only coming up; from 14:30 it is due.
+    expect(pick('divine-mercy', '12:05', ['morning-offering-faustina'])).toEqual({
+      ref: 'chaplet-of-divine-mercy',
+      comingUp: true,
+    })
+    expect(pick('divine-mercy', '14:45', ['morning-offering-faustina'])).toEqual({
+      ref: 'chaplet-of-divine-mercy',
+      comingUp: false,
+    })
+  })
+
+  it("follows the plan's order over tier", () => {
+    const done = ['morning-offering-opus-dei', 'prayer-pope-bishop', 'mass', 'mental-prayer']
+    // The 12:00 Angelus (ideal) at 12:05, not the 13:00 Particular Examen (essential).
+    expect(pick('opus-dei', '12:05', done).ref).toBe('angelus')
+    // The Carmelite offering (05:50) before mental prayer (06:00).
+    expect(pick('carmelite', '05:55').ref).toBe('morning-offering-carmelite')
+  })
+
+  it('never offers the night examen in the afternoon', () => {
+    const morning = [
+      'morning-offering-carmelite',
+      'mental-prayer-teresian',
+      'mass',
+      'divine-office',
+    ]
+    expect(pick('carmelite', '17:00', morning).ref).not.toBe('examination-of-conscience')
+    expect(pick('carmelite', '17:45', morning).ref).toBe('rosary')
+  })
+
+  it('holds a practice until the next one comes due', () => {
+    const done = ['morning-offering-opus-dei', 'prayer-pope-bishop', 'mass', 'mental-prayer']
+    // The 12:00 Angelus stays until the 13:00 Particular Examen takes over.
+    expect(pick('opus-dei', '12:55', done).ref).toBe('angelus')
+    expect(pick('opus-dei', '13:05', done).ref).toBe('particular-examination')
+  })
+
+  it('holds an unprayed essential for two hours, over what comes due after it', () => {
+    // Opus Dei: offering 06:30, Mass 07:00, mental prayer 07:30 — all essential.
+    expect(pick('opus-dei', '08:25').ref).toBe('morning-offering-opus-dei')
+    expect(pick('opus-dei', '08:35').ref).toBe('mass')
+    expect(pick('opus-dei', '09:05').ref).toBe('mental-prayer')
+    // An ideal still gives way when the next practice comes due: the
+    // Carmelite offering (05:50) yields to mental prayer at 06:00.
+    expect(pick('carmelite', '06:05').ref).toBe('mental-prayer-teresian')
+  })
+
+  it("closes a practice's timeframe with its part of the day", () => {
+    // The morning offering holds until noon — the morning's end — not until
+    // the 22:00 examen.
+    expect(pick('beginner-minimum', '11:30').ref).toBe('morning-offering')
+    expect(pick('beginner-minimum', '13:00')).toEqual({
+      ref: 'examination-of-conscience',
+      comingUp: true,
+    })
+  })
+
+  it('never brings back a missed practice', () => {
+    // Nothing prayed all morning: at 13h the card looks ahead, not back.
+    expect(pick('cursillo', '13:00')).toEqual({ ref: 'rosary', comingUp: true })
+    // A timeframe ends with its part of the day: the 15:00 Chaplet is gone by
+    // 23h; an evening Rosary holds through the night.
+    expect(pick('divine-mercy', '23:00', ['morning-offering-faustina']).ref).toBeUndefined()
+    expect(pick('legion-of-mary', '03:00', ['morning-offering']).ref).toBe('rosary')
+  })
+
+  it('keeps the evening going past midnight', () => {
+    // At 01:00 the 22:00 examen is late, not tomorrow's.
+    expect(pick('beginner-minimum', '01:00', ['morning-offering']).ref).toBe(
+      'examination-of-conscience',
+    )
+  })
+
+  it('shows what comes next when nothing is due', () => {
+    expect(pick('legion-of-mary', '12:00', ['morning-offering'])).toEqual({
+      ref: 'rosary',
+      comingUp: true,
+    })
+  })
+})
