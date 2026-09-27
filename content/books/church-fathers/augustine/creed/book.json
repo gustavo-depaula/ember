@@ -2,13 +2,16 @@
   "id": "augustine-creed",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Creed: A Sermon to Catechumens"
+    "en-US": "On the Creed: A Sermon to Catechumens",
+    "pt-BR": "Sobre o Credo: Sermão aos Catecúmenos"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Creed: A Sermon to Catechumens"
+        "en-US": "On the Creed: A Sermon to Catechumens",
+        "pt-BR": "Sobre o Credo: Sermão aos Catecúmenos"
       }
     }
   ]
