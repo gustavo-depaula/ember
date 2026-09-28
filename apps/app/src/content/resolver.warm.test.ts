@@ -10,6 +10,11 @@ vi.mock('./store', () => ({
   getText: vi.fn(),
 }))
 
+vi.mock('./manifestSnapshot', () => ({
+  readManifestSnapshot: vi.fn(async () => undefined),
+  writeManifestSnapshot: vi.fn(async () => {}),
+}))
+
 import {
   getCatalogVersion,
   registerLocalEntries,

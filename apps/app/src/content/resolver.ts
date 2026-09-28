@@ -4,8 +4,8 @@
  * content on demand.
  */
 
-import { getCached } from '@/db/repositories/cache'
-import { batchedLoad } from '@/lib/async'
+import { hasCached } from '@/db/repositories/cache'
+import { pooledLoad } from '@/lib/async'
 import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
 import { fuzzyMatches, normalizeForSearch } from '@/lib/search'
@@ -23,6 +23,7 @@ import {
   setCatalog,
 } from './contentIndex'
 import { pickAvailableLang } from './langAliases'
+import { readManifestSnapshot, writeManifestSnapshot } from './manifestSnapshot'
 import type {
   BlobRef,
   Catalog,
@@ -62,8 +63,10 @@ export async function loadCatalogFromHearth({
 }
 
 /** Returning launches have the catalog cached in SQLite; first launch does not. */
-export async function hasCachedCatalog(): Promise<boolean> {
-  return (await getCached<Catalog>('hearth:catalog.json')) !== undefined
+export function hasCachedCatalog(): Promise<boolean> {
+  // An existence check — parsing the ~600KB catalog here would double the one
+  // parse boot already pays in loadCatalogFromHearth.
+  return hasCached('hearth:catalog.json')
 }
 
 const PRACTICE_FRAGMENTS_CACHE = new Map<string, FlowDefinition>()
@@ -115,20 +118,74 @@ function rewriteImagePaths(value: unknown, refs: Map<string, string>): void {
 const canticleRefs = new Set(['benedictus', 'magnificat', 'nunc-dimittis'])
 
 const CRITICAL_KINDS = ['practice'] as const
-const DEFERRED_KINDS = [
-  'chapter',
-  'book',
-  'collection',
-  'plan-of-life-template',
-  'creator',
-] as const
+// Books are not warmed: 500+ manifests (~7MB) nobody reads synchronously —
+// tiles and search fall back to the catalog entry's name/author, and readers
+// resolve the manifest on demand (useBookManifest, the engine's prepareBooks).
+const DEFERRED_KINDS = ['chapter', 'collection', 'plan-of-life-template', 'creator'] as const
+const WARMED_KINDS = [...CRITICAL_KINDS, ...DEFERRED_KINDS]
+
+type WarmedKind = (typeof WARMED_KINDS)[number]
+
+let snapshotRestore: Promise<number> | undefined
+
+/**
+ * Remember every body in the on-disk snapshot, once per session. Resolves to
+ * how many were new for the first caller only, so later warms still report a
+ * no-op refresh as zero.
+ */
+async function restoreSnapshot(): Promise<number> {
+  if (snapshotRestore) {
+    await snapshotRestore
+    return 0
+  }
+  snapshotRestore = readManifestSnapshot().then((bodies) => {
+    let restored = 0
+    for (const [hash, body] of Object.entries(bodies ?? {})) {
+      if (getRememberedManifest(hash) !== undefined) continue
+      rememberManifestBody(hash, body)
+      restored++
+    }
+    return restored
+  })
+  return snapshotRestore
+}
+
+function persistSnapshot(): Promise<void> {
+  const bodies: Record<string, unknown> = {}
+  const hearthItems = getCatalog().items
+  for (const kind of WARMED_KINDS) {
+    for (const [id, entry] of getEntriesByKind(kind)) {
+      if (!(id in hearthItems)) continue
+      const body = getRememberedManifest(entry.hash)
+      if (body !== undefined) bodies[entry.hash] = body
+    }
+  }
+  return writeManifestSnapshot(bodies)
+}
+
+// The boot warm and the post-boot catalog refresh overlap; without sharing,
+// both would read the same blobs.
+const inflightWarms = new Map<string, Promise<void>>()
+
+function warmOne(hash: string): Promise<void> {
+  const pending = inflightWarms.get(hash)
+  if (pending) return pending
+  const work = getJson<unknown>(hash)
+    .then((body) => rememberManifestBody(hash, body))
+    .catch((err) => {
+      // Aborts are expected on unmount/hot-reload — only the original
+      // network failures are interesting noise.
+      if (err instanceof Error && err.name === 'AbortError') return
+      console.warn(`[resolver] warm ${hash.slice(0, 8)}:`, err)
+    })
+    .finally(() => inflightWarms.delete(hash))
+  inflightWarms.set(hash, work)
+  return work
+}
 
 /** Returns how many manifests were newly warmed (zero on a no-change refresh). */
-async function warmKinds(
-  kinds: ReadonlyArray<
-    'practice' | 'chapter' | 'book' | 'collection' | 'plan-of-life-template' | 'creator'
-  >,
-): Promise<number> {
+async function warmKinds(kinds: ReadonlyArray<WarmedKind>): Promise<number> {
+  const restored = await restoreSnapshot()
   const hashes: string[] = []
   const hearthItems = getCatalog().items
   for (const kind of kinds) {
@@ -139,23 +196,12 @@ async function warmKinds(
       if (getRememberedManifest(entry.hash) === undefined) hashes.push(entry.hash)
     }
   }
-  let warmed = 0
-  await batchedLoad(
-    hashes,
-    async (hash) => {
-      try {
-        rememberManifestBody(hash, await getJson<unknown>(hash))
-        warmed++
-      } catch (err) {
-        // Aborts are expected on unmount/hot-reload — only the original
-        // network failures are interesting noise.
-        if (err instanceof Error && err.name === 'AbortError') return
-        console.warn(`[resolver] warm ${hash.slice(0, 8)}:`, err)
-      }
-    },
-    16,
-  )
-  return warmed
+  await pooledLoad(hashes, warmOne, 16)
+  const loaded = hashes.filter((h) => getRememberedManifest(h) !== undefined).length
+  if (loaded > 0) {
+    persistSnapshot().catch((err) => console.warn('[resolver] manifest snapshot write:', err))
+  }
+  return restored + loaded
 }
 
 /** Block boot only on what synchronous resolvers (engine Proxies) need. */
@@ -165,7 +211,7 @@ export async function warmCriticalManifests(): Promise<void> {
   if ((await warmKinds(CRITICAL_KINDS)) > 0) notifyManifestsWarmed()
 }
 
-/** Runs in parallel with first paint; populates collection / book / chapter manifests. */
+/** Runs in parallel with first paint; populates collection / chapter / template / creator manifests. */
 export async function warmDeferredManifests(): Promise<void> {
   if ((await warmKinds(DEFERRED_KINDS)) === 0) return
   invalidateMemberOfIndex()

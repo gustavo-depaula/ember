@@ -27,6 +27,7 @@ import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
 import { SearchAutocomplete } from '@/features/practices/components'
 import { ShortcutGrid, type ShortcutTileData, WideShortcutCard } from '@/features/search'
+import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
 import { localizeContent } from '@/lib/i18n'
 
 const flourishDark = require('../../../../assets/textures/notch_search_dark.png')
@@ -43,6 +44,9 @@ export default function SearchScreen() {
   const { t } = useTranslation()
   const [query, setQuery] = useState('')
   const catalogVersion = useCatalogVersion()
+  // Only the body waits; the options above stay mounted so the native search
+  // bar is configured from launch.
+  const bodyMounted = useDeferredTabMount()
 
   const isSearching = query.trim().length > 0
 
@@ -164,47 +168,49 @@ export default function SearchScreen() {
   return (
     <>
       <Stack.Screen options={screenOptions} />
-      <ScreenLayout>
-        {!isSearching && (
-          <PageFlourish
-            dark={flourishDark}
-            light={flourishLight}
-            aspectRatio={flourishAspect}
-            lightAspectRatio={flourishLightAspect}
-          />
-        )}
-        {isSearching ? (
-          <YStack paddingVertical="$lg">
-            <SearchAutocomplete query={query} />
-          </YStack>
-        ) : (
-          <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
-            <PageHeader title={t('nav.searchPlaceholder')} />
-            <WideShortcutCard
-              title={t('massTimes.cardTitle')}
-              subtitle={t('massTimes.exploreTagline')}
-              icon={Church}
-              tone={toneForKey('mass-times')}
-              href="/mass-times"
+      {bodyMounted && (
+        <ScreenLayout>
+          {!isSearching && (
+            <PageFlourish
+              dark={flourishDark}
+              light={flourishLight}
+              aspectRatio={flourishAspect}
+              lightAspectRatio={flourishLightAspect}
             />
-            <Section title={t('search.sectionPray')}>
-              <ShortcutGrid items={withTones(prayTiles)} />
-            </Section>
-            <Section title={t('search.sectionStudy')}>
-              <ShortcutGrid items={withTones(studyTiles)} />
-            </Section>
-            {bookTiles.length > 0 && (
-              <Section title={t('search.sectionRead')}>
-                <ShortcutGrid items={withTones(bookTiles)} />
+          )}
+          {isSearching ? (
+            <YStack paddingVertical="$lg">
+              <SearchAutocomplete query={query} />
+            </YStack>
+          ) : (
+            <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
+              <PageHeader title={t('nav.searchPlaceholder')} />
+              <WideShortcutCard
+                title={t('massTimes.cardTitle')}
+                subtitle={t('massTimes.exploreTagline')}
+                icon={Church}
+                tone={toneForKey('mass-times')}
+                href="/mass-times"
+              />
+              <Section title={t('search.sectionPray')}>
+                <ShortcutGrid items={withTones(prayTiles)} />
               </Section>
-            )}
-            <Section title={t('search.sectionCollections')}>
-              <ShortcutGrid items={withTones(libraryTiles)} />
-            </Section>
-            <ExploreCatalogRows />
-          </YStack>
-        )}
-      </ScreenLayout>
+              <Section title={t('search.sectionStudy')}>
+                <ShortcutGrid items={withTones(studyTiles)} />
+              </Section>
+              {bookTiles.length > 0 && (
+                <Section title={t('search.sectionRead')}>
+                  <ShortcutGrid items={withTones(bookTiles)} />
+                </Section>
+              )}
+              <Section title={t('search.sectionCollections')}>
+                <ShortcutGrid items={withTones(libraryTiles)} />
+              </Section>
+              <ExploreCatalogRows />
+            </YStack>
+          )}
+        </ScreenLayout>
+      )}
     </>
   )
 }

@@ -14,6 +14,7 @@ import {
 import { LibraryFeed } from '@/features/library'
 import { EntryRow, getEntryBody, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
 import { RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
+import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
 import { useToday } from '@/hooks/useToday'
 import { getDateLocale } from '@/lib/i18n/dateLocale'
 
@@ -27,6 +28,10 @@ const flourishLightAspect = 2172 / 386
 // prayers and holy cards), then a peek at your chronicle. Today is "this day";
 // You is "the long arc." Settings lives in the header gear.
 export default function YouScreen() {
+  return useDeferredTabMount() ? <YouPage /> : undefined
+}
+
+function YouPage() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()

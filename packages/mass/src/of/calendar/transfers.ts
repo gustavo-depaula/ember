@@ -1,4 +1,4 @@
-import { computeAnchors } from '@ember/liturgical'
+import { computeEaster } from '@ember/liturgical'
 import { addDays, isSameDay, isWithinInterval } from 'date-fns'
 
 /**
@@ -11,14 +11,27 @@ import { addDays, isSameDay, isWithinInterval } from 'date-fns'
  * when unimpeded, otherwise the transfer date.
  */
 export function transferredDate(month: number, day: number, year: number): Date {
-  const a = computeAnchors(year)
+  // A year calendar asks this ~13k times (every fixed solemnity, every day);
+  // the answer is a pure function of the date, so compute each once.
+  const key = `${year}-${month}-${day}`
+  const cached = observedCache.get(key)
+  if (cached) return new Date(cached)
+  const observed = computeTransferredDate(month, day, year)
+  observedCache.set(key, observed.getTime())
+  return observed
+}
+
+const observedCache = new Map<string, number>()
+
+function computeTransferredDate(month: number, day: number, year: number): Date {
+  const easter = computeEaster(year)
   const natural = new Date(year, month - 1, day)
-  const palmSunday = addDays(a.easter, -7)
-  const easterOctaveEnd = addDays(a.easter, 7) // Second Sunday of Easter
+  const palmSunday = addDays(easter, -7)
+  const easterOctaveEnd = addDays(easter, 7) // Second Sunday of Easter
 
   if (!isWithinInterval(natural, { start: palmSunday, end: easterOctaveEnd })) return natural
   if (month === 3 && day === 19) return addDays(palmSunday, -1) // St Joseph anticipated
-  return addDays(a.easter, 8) // Monday after the Octave (e.g. Annunciation)
+  return addDays(easter, 8) // Monday after the Octave (e.g. Annunciation)
 }
 
 /** Is the fixed solemnity (possibly transferred) observed on `date`? */

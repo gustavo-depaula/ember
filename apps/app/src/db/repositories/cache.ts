@@ -9,6 +9,14 @@ export async function getCached<T>(key: string): Promise<T | undefined> {
   return JSON.parse(row.data) as T
 }
 
+export async function hasCached(key: string): Promise<boolean> {
+  const row = await getDb().getFirstAsync<{ found: number }>(
+    'SELECT 1 AS found FROM cache WHERE key = ?',
+    [key],
+  )
+  return Boolean(row)
+}
+
 export async function setCache(key: string, data: unknown): Promise<void> {
   await getDb().runAsync(
     'INSERT INTO cache (key, data, cached_at) VALUES (?, ?, ?) ON CONFLICT (key) DO UPDATE SET data = excluded.data, cached_at = excluded.cached_at',

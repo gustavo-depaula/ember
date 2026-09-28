@@ -59,6 +59,17 @@ function sanctoralWithTransfers(
   return natural
 }
 
+// A year calendar resolves 365 days against the same statics; index once.
+const temporalIndexes = new WeakMap<TemporalEntry[], Map<string, TemporalEntry>>()
+
+function temporalIndex(temporal: TemporalEntry[]): Map<string, TemporalEntry> {
+  const cached = temporalIndexes.get(temporal)
+  if (cached) return cached
+  const index = new Map(temporal.map((t) => [t.formularyRef, t]))
+  temporalIndexes.set(temporal, index)
+  return index
+}
+
 /**
  * Resolve the full OF day. Pure over the calendar statics + the (validated)
  * temporal math from `@ember/liturgical`. Returns every celebration the day
@@ -76,9 +87,7 @@ export function resolveOfDay(
   const litYear = getLiturgicalYear(date)
   const season = seasonMap[position.season]
 
-  const temporalByRef = new Map<string, TemporalEntry>(
-    statics.temporal.map((t) => [t.formularyRef, t]),
-  )
+  const temporalByRef = temporalIndex(statics.temporal)
   const temporalIds = ofTemporeIds(date)
   const temporalRef = temporalIds[0]
 

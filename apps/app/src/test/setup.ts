@@ -417,6 +417,9 @@ vi.mock('expo-file-system', () => ({
     async bytes() {
       return new Uint8Array()
     }
+    async text() {
+      return ''
+    }
   },
   Paths: { document: '/tmp/test-documents' },
 }))

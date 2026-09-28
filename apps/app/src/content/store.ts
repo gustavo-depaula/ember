@@ -18,6 +18,9 @@ const nativeFs = Platform.OS !== 'web' ? expoFs : undefined
 // download pipeline instead of racing each other.
 const inflight = new Map<string, Promise<void>>()
 
+// On native this is Expo's pure-JS polyfill (Hermes has none), which decodes
+// byte by byte on the JS thread — far too slow for blobs. Native text reads go
+// through File.text() instead; this only serves web and the network fallback.
 const TEXT_DECODER = new TextDecoder()
 
 export function blobPath(hash: string): string {
@@ -176,14 +179,32 @@ export async function getBlob(hash: string): Promise<Uint8Array> {
   return fetchBlob(hash)
 }
 
-export async function getJson<T>(hash: string): Promise<T> {
-  const bytes = await getBlob(hash)
-  return JSON.parse(TEXT_DECODER.decode(bytes)) as T
+async function readTextFromCache(hash: string): Promise<string | undefined> {
+  if (Platform.OS === 'web') {
+    const bytes = await idbReadBinary(`blob:${hash}`)
+    return bytes && TEXT_DECODER.decode(bytes)
+  }
+  const f = blobFile(hash)
+  if (!f.exists) return undefined
+  try {
+    return await f.text()
+  } catch {
+    return undefined
+  }
 }
 
 export async function getText(hash: string): Promise<string> {
-  const bytes = await getBlob(hash)
-  return TEXT_DECODER.decode(bytes)
+  const cached = await readTextFromCache(hash)
+  if (cached !== undefined) return cached
+  await ensureBlobCached(hash)
+  const text = await readTextFromCache(hash)
+  if (text !== undefined) return text
+  // Cached but unreadable (e.g. write quota on web) — decode straight from the network.
+  return TEXT_DECODER.decode(await fetchBlob(hash))
+}
+
+export async function getJson<T>(hash: string): Promise<T> {
+  return JSON.parse(await getText(hash)) as T
 }
 
 /** A URI that can be passed to Image source.uri (file:// on native, blob: on web). */

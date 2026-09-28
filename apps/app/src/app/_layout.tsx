@@ -24,7 +24,12 @@ import { Lora_400Regular } from '@expo-google-fonts/lora'
 import { Merriweather_400Regular } from '@expo-google-fonts/merriweather'
 import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
 import { SourceSerif4_400Regular } from '@expo-google-fonts/source-serif-4'
-import { MutationCache, QueryClient, QueryClientProvider } from '@tanstack/react-query'
+import {
+  MutationCache,
+  notifyManager,
+  QueryClient,
+  QueryClientProvider,
+} from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
 import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
@@ -74,6 +79,13 @@ if (__DEV__) startStallMonitor()
 
 // RN 0.83 deprecation warning from Tamagui internals crashes LogBox with "cyclic object value"
 LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
+
+// Query results reach React through notifyManager, which defaults to
+// setTimeout(0). Expo resolves every native promise at immediate priority,
+// ahead of timers, so while boot keeps native I/O in flight (blob reads,
+// SQLite, fetch) timers starve: Today's calendar sat resolved but unrendered
+// for most of a second. A microtask delivers each result as soon as it lands.
+notifyManager.setScheduler(queueMicrotask)
 
 const queryClient = new QueryClient({
   mutationCache: new MutationCache({
@@ -302,7 +314,10 @@ export default function RootLayout() {
 
   return (
     <GestureHandlerRootView style={{ flex: 1, backgroundColor: rootBg }}>
-      <KeyboardProvider>
+      {/* No keyboard preload: it focuses a hidden input at mount, and standing
+          up UIKit's keyboard stack blocked the main thread — and with it every
+          JS timer — for most of a second just as Today first painted. */}
+      <KeyboardProvider preload={false}>
         <QueryClientProvider client={queryClient}>
           <CrossTabSync />
           <TamaguiProvider config={config} defaultTheme={resolvedTheme}>

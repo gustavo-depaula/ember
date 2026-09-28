@@ -67,6 +67,11 @@ vi.mock('expo-file-system', () => {
       if (!b) throw new Error(`bytes(): missing ${this.path}`)
       return b
     }
+    async text() {
+      const b = fsState.files.get(this.path)
+      if (!b) throw new Error(`text(): missing ${this.path}`)
+      return new TextDecoder().decode(b)
+    }
     move(dest: { path: string }) {
       const b = fsState.files.get(this.path)
       if (!b) throw new Error(`move(): missing ${this.path}`)
@@ -82,7 +87,7 @@ vi.mock('expo-file-system', () => {
   return { Directory, File, Paths: { document: '/doc' } }
 })
 
-import { blobPath, ensureBlobCached, getBlob } from './store'
+import { blobPath, ensureBlobCached, getBlob, getJson, getText } from './store'
 
 const hash = 'aabb1234'
 const blobAbsPath = `/doc/${blobPath(hash)}`
@@ -187,6 +192,24 @@ describe('ensureBlobCached — native download path', () => {
     const bytes = await getBlob(hash)
 
     expect(bytes).toEqual(payload)
+    expect(fsState.downloadCalls).toBe(1)
+  })
+})
+
+describe('text reads — decoded natively via File.text()', () => {
+  const encode = (text: string) => new TextEncoder().encode(text)
+
+  it('getJson parses a cached blob without touching the network', async () => {
+    fsState.files.set(blobAbsPath, encode('{"name":"Ave Maria","n":3}'))
+
+    expect(await getJson(hash)).toEqual({ name: 'Ave Maria', n: 3 })
+    expect(fsState.downloadCalls).toBe(0)
+  })
+
+  it('getText downloads a missing blob, then reads it back', async () => {
+    setDownloadSuccess(encode('Salve, Regína'))
+
+    expect(await getText(hash)).toBe('Salve, Regína')
     expect(fsState.downloadCalls).toBe(1)
   })
 })

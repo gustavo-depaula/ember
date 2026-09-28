@@ -44,12 +44,16 @@ export async function emitBatch(events: AppEvent[]): Promise<void> {
   const db = getDb()
   const ts = Date.now()
   try {
-    await db.runBatchInTx(
-      events.map((event) => ({
-        sql: 'INSERT INTO events (type, payload, timestamp, version) VALUES (?, ?, ?, 1)',
-        params: [event.type, JSON.stringify(event), ts],
-      })),
-    )
+    // One statement for the whole batch: SQLite expands the JSON array itself.
+    // First-launch seeding writes ~650 events, and a statement per row cost
+    // most of a second before the splash could hide.
+    await db.runBatchInTx([
+      {
+        sql: `INSERT INTO events (type, payload, timestamp, version)
+          SELECT json_extract(value, '$.type'), value, ?, 1 FROM json_each(?) ORDER BY key`,
+        params: [ts, JSON.stringify(events)],
+      },
+    ])
     broadcastChange({ kind: 'event-batch', events })
   } catch (err) {
     await replayAll()
