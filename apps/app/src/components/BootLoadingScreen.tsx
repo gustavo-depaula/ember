@@ -1,44 +1,55 @@
-import { MotiView } from 'moti'
-import { ActivityIndicator, Image } from 'react-native'
-import { Text, YStack } from 'tamagui'
+import { ActivityIndicator, Image, StyleSheet, useColorScheme, View } from 'react-native'
+import { Text } from 'tamagui'
 
-const splashBackground = '#0E0D0C'
-const accentGold = '#D4A63A'
-const mutedCream = '#A89A8C'
+// Mirrors the native splash in app.json (expo-splash-screen): same images,
+// grounds and 200pt width, so the handoff is invisible.
+const logoSize = 200
+const splash = {
+  light: {
+    image: require('../../assets/splash-icon.png'),
+    background: '#F4E8CF',
+    accent: '#9A7424',
+    muted: '#7A6A58',
+  },
+  dark: {
+    image: require('../../assets/splash-icon-dark.png'),
+    background: '#0E0D0C',
+    accent: '#D4A63A',
+    muted: '#A89A8C',
+  },
+}
 
 /**
- * Shown after fonts/theme are ready but before the corpus is fully warmed.
- * Forced to the warm-vigil dark shell so the cold-launch native splash hands
- * off without a flash, regardless of the user's system theme.
+ * Shown after fonts/theme are ready but before the corpus is fully warmed: the
+ * native splash, held, with a spinner and the boot status under the logo. The
+ * logo stays exactly where the splash put it; the status hangs below it.
  */
 export function BootLoadingScreen({ status }: { status?: string }) {
+  // The native splash follows the system appearance, not the app's theme.
+  const look = useColorScheme() === 'light' ? splash.light : splash.dark
   return (
-    <YStack
-      flex={1}
-      alignItems="center"
-      justifyContent="center"
-      gap="$lg"
-      padding="$xl"
-      backgroundColor={splashBackground}
-    >
-      <MotiView
-        from={{ opacity: 0.88 }}
-        animate={{ opacity: 1 }}
-        transition={{ type: 'timing', duration: 3500, loop: true }}
-      >
-        <Image source={require('../../assets/icon.png')} style={{ width: 72, height: 72 }} />
-      </MotiView>
-      <Text fontFamily="$heading" fontSize="$5" color={accentGold}>
-        Ember
-      </Text>
-      <YStack alignItems="center" gap="$sm">
-        <ActivityIndicator color={accentGold} />
+    <View style={[styles.screen, { backgroundColor: look.background }]}>
+      <Image source={look.image} style={styles.logo} />
+      <View style={styles.status}>
+        <ActivityIndicator color={look.accent} />
         {status && (
-          <Text fontFamily="$body" fontSize="$2" color={mutedCream} fontStyle="italic">
+          <Text fontFamily="$body" fontSize="$2" color={look.muted} fontStyle="italic">
             {status}
           </Text>
         )}
-      </YStack>
-    </YStack>
+      </View>
+    </View>
   )
 }
+
+const styles = StyleSheet.create({
+  screen: { flex: 1, alignItems: 'center', justifyContent: 'center' },
+  logo: { width: logoSize, height: logoSize },
+  status: {
+    position: 'absolute',
+    top: '50%',
+    marginTop: logoSize / 2 + 16,
+    alignItems: 'center',
+    gap: 8,
+  },
+})
