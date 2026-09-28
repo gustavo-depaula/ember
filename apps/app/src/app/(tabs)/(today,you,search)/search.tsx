@@ -82,40 +82,46 @@ export default function SearchScreen() {
     [t, onSearchChange],
   )
 
-  const prayTiles: ShortcutTileData[] = [
-    {
-      key: 'mass',
-      title: t('home.holyMass'),
-      icon: Church,
-      href: { pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } },
-    },
-    { key: 'bible', title: t('home.bible'), icon: BookOpen, href: '/bible' },
-    { key: 'oratio', title: t('oratio.title'), icon: Flame, href: '/oratio' },
-    { key: 'kyrie', title: t('kyrie.title'), icon: CircleDot, href: '/kyrie' },
-    {
-      key: 'examen',
-      title: t('examen.title'),
-      icon: Compass,
-      href: {
-        pathname: '/pray/[practiceId]',
-        params: { practiceId: 'examination-of-conscience' },
+  const prayTiles = useMemo<ShortcutTileData[]>(
+    () => [
+      {
+        key: 'mass',
+        title: t('home.holyMass'),
+        icon: Church,
+        href: { pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } },
       },
-    },
-    { key: 'memento', title: t('memento.title'), icon: Skull, href: '/memento' },
-  ]
+      { key: 'bible', title: t('home.bible'), icon: BookOpen, href: '/bible' },
+      { key: 'oratio', title: t('oratio.title'), icon: Flame, href: '/oratio' },
+      { key: 'kyrie', title: t('kyrie.title'), icon: CircleDot, href: '/kyrie' },
+      {
+        key: 'examen',
+        title: t('examen.title'),
+        icon: Compass,
+        href: {
+          pathname: '/pray/[practiceId]',
+          params: { practiceId: 'examination-of-conscience' },
+        },
+      },
+      { key: 'memento', title: t('memento.title'), icon: Skull, href: '/memento' },
+    ],
+    [t],
+  )
 
-  const studyTiles: ShortcutTileData[] = [
-    {
-      key: 'catechism',
-      title: t('catechism.title'),
-      icon: BookMarked,
-      href: { pathname: '/browse/book/[bookId]/read', params: { bookId: 'ccc' } },
-    },
-    { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
-    { key: 'calendar', title: t('calendar.title'), icon: CalendarDays, href: '/calendar' },
-    { key: 'diesDomini', title: t('diesDomini.title'), icon: Sun, href: '/dies-domini' },
-    { key: 'piano', title: t('piano.title'), icon: Music, href: '/piano' },
-  ]
+  const studyTiles = useMemo<ShortcutTileData[]>(
+    () => [
+      {
+        key: 'catechism',
+        title: t('catechism.title'),
+        icon: BookMarked,
+        href: { pathname: '/browse/book/[bookId]/read', params: { bookId: 'ccc' } },
+      },
+      { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
+      { key: 'calendar', title: t('calendar.title'), icon: CalendarDays, href: '/calendar' },
+      { key: 'diesDomini', title: t('diesDomini.title'), icon: Sun, href: '/dies-domini' },
+      { key: 'piano', title: t('piano.title'), icon: Music, href: '/piano' },
+    ],
+    [t],
+  )
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred collection manifests warm in.
   const libraryTiles = useMemo<ShortcutTileData[]>(() => {
@@ -161,9 +167,41 @@ export default function SearchScreen() {
     ]
   }, [catalogVersion, t])
 
-  // Each tile keeps a stable hue keyed on its identity, not its position.
-  const withTones = (tiles: ShortcutTileData[]): ShortcutTileData[] =>
-    tiles.map((tile) => ({ ...tile, tone: toneForKey(tile.key) }))
+  // Memoized and hidden rather than unmounted while a query is typed: each
+  // keystroke re-renders this screen, and remounting the tiles when the query
+  // is cleared took ~200ms.
+  const browse = useMemo(() => {
+    // Each tile keeps a stable hue keyed on its identity, not its position.
+    const withTones = (tiles: ShortcutTileData[]): ShortcutTileData[] =>
+      tiles.map((tile) => ({ ...tile, tone: toneForKey(tile.key) }))
+    return (
+      <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
+        <PageHeader title={t('nav.searchPlaceholder')} />
+        <WideShortcutCard
+          title={t('massTimes.cardTitle')}
+          subtitle={t('massTimes.exploreTagline')}
+          icon={Church}
+          tone={toneForKey('mass-times')}
+          href="/mass-times"
+        />
+        <Section title={t('search.sectionPray')}>
+          <ShortcutGrid items={withTones(prayTiles)} />
+        </Section>
+        <Section title={t('search.sectionStudy')}>
+          <ShortcutGrid items={withTones(studyTiles)} />
+        </Section>
+        {bookTiles.length > 0 && (
+          <Section title={t('search.sectionRead')}>
+            <ShortcutGrid items={withTones(bookTiles)} />
+          </Section>
+        )}
+        <Section title={t('search.sectionCollections')}>
+          <ShortcutGrid items={withTones(libraryTiles)} />
+        </Section>
+        <ExploreCatalogRows />
+      </YStack>
+    )
+  }, [t, prayTiles, studyTiles, bookTiles, libraryTiles])
 
   return (
     <>
@@ -178,37 +216,12 @@ export default function SearchScreen() {
               lightAspectRatio={flourishLightAspect}
             />
           )}
-          {isSearching ? (
+          {isSearching && (
             <YStack paddingVertical="$lg">
               <SearchAutocomplete query={query} />
             </YStack>
-          ) : (
-            <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
-              <PageHeader title={t('nav.searchPlaceholder')} />
-              <WideShortcutCard
-                title={t('massTimes.cardTitle')}
-                subtitle={t('massTimes.exploreTagline')}
-                icon={Church}
-                tone={toneForKey('mass-times')}
-                href="/mass-times"
-              />
-              <Section title={t('search.sectionPray')}>
-                <ShortcutGrid items={withTones(prayTiles)} />
-              </Section>
-              <Section title={t('search.sectionStudy')}>
-                <ShortcutGrid items={withTones(studyTiles)} />
-              </Section>
-              {bookTiles.length > 0 && (
-                <Section title={t('search.sectionRead')}>
-                  <ShortcutGrid items={withTones(bookTiles)} />
-                </Section>
-              )}
-              <Section title={t('search.sectionCollections')}>
-                <ShortcutGrid items={withTones(libraryTiles)} />
-              </Section>
-              <ExploreCatalogRows />
-            </YStack>
           )}
+          <YStack display={isSearching ? 'none' : 'flex'}>{browse}</YStack>
         </ScreenLayout>
       )}
     </>

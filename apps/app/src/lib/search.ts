@@ -46,8 +46,13 @@ function typoBudget(token: string): number {
  * normalized here so callers can pass raw localized strings.
  */
 export function fuzzyScore(text: string | undefined, query: string): number {
-  if (!text || !query) return 0
-  const t = normalizeForSearch(text)
+  if (!text) return 0
+  return fuzzyScoreNormalized(normalizeForSearch(text), query)
+}
+
+/** {@link fuzzyScore} for text already passed through {@link normalizeForSearch} — for callers that index once and score on every keystroke. */
+export function fuzzyScoreNormalized(t: string, query: string): number {
+  if (!t || !query) return 0
   if (t === query) return 100
   if (t.startsWith(query)) return 80
   if (t.includes(query)) return 60
@@ -61,9 +66,4 @@ export function fuzzyScore(text: string | undefined, query: string): number {
     return words.some((w) => editDistance(tok, w, budget) <= budget)
   })
   return allClose ? 40 : 0
-}
-
-/** True when `text` matches `query` at all — convenience for boolean filters. */
-export function fuzzyMatches(text: string | undefined, query: string): boolean {
-  return fuzzyScore(text, query) > 0
 }

@@ -8,7 +8,6 @@ import { hasCached } from '@/db/repositories/cache'
 import { pooledLoad } from '@/lib/async'
 import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
-import { fuzzyMatches, normalizeForSearch } from '@/lib/search'
 import {
   bareId,
   canonicalize,
@@ -260,16 +259,6 @@ export function getManifestCategories(): string[] {
   const cats = new Set<string>()
   for (const m of getAllManifests()) for (const c of m.categories ?? []) cats.add(c)
   return Array.from(cats).sort()
-}
-
-export function searchManifests(query: string): PracticeManifest[] {
-  const q = normalizeForSearch(query)
-  return getAllManifests().filter((m) => {
-    if (fuzzyMatches(localizeContent(m.name), q)) return true
-    if (m.tags?.some((t) => normalizeForSearch(t).includes(q))) return true
-    if (m.description && fuzzyMatches(localizeContent(m.description), q)) return true
-    return false
-  })
 }
 
 function fetchPrayerSync(id: string): PrayerAsset | undefined {
