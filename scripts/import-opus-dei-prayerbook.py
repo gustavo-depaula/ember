@@ -190,6 +190,23 @@ def sections_for(p: dict) -> list[dict]:
     return [emit(b) for b in build_blocks(p["rows"], ui_langs(p))]
 
 
+# — Clean-up —
+
+def tidy(t: str) -> str:
+    # "1.Why" → "1. Why", as the other languages print it.
+    t = re.sub(r"(?m)^(\d+)\.(?=[^\s\d.])", r"\1. ", t)
+    # A psalm's mediant asterisk (Danish, Swedish) would open an italic span in
+    # the app's inline Markdown; the asterisk operator looks the same.
+    return t.replace(" * ", " \u2217 ")
+
+
+def tidy_sections(sections: list[dict]) -> None:
+    for s in sections:
+        for texts in texts_of(s):
+            for lang, t in texts.items():
+                texts[lang] = tidy(t)
+
+
 # — Portuguese where the book has none —
 
 def pt_pt_to_br(t: str) -> str:
@@ -250,6 +267,20 @@ def without_alleluia(t: str) -> str:
         return "" if not before or before[-1] in ".!?" else "."
 
     return re.sub(r"\n{3,}", "\n\n", EASTER_NOTE.sub(sub, t)).strip()
+
+
+def rehome_easter_notes(sections: list[dict]) -> None:
+    """A language whose page ran one row ahead puts its Easter note where the
+    others have the next heading (the French Athanasian Creed); give the note back
+    to the prayer it ends."""
+    for i, s in enumerate(sections[1:], 1):
+        prev = sections[i - 1]
+        if s["type"] != "subheading" or prev["type"] != "prayer":
+            continue
+        for lang, t in list(s["text"].items()):
+            if EASTER_NOTE.fullmatch(" " + t) and lang in prev["inline"]:
+                prev["inline"][lang] += " " + t
+                del s["text"][lang]
 
 
 def easter_select(section: dict) -> dict:
@@ -326,7 +357,9 @@ def new_practice(pid: str, meta: dict, members: list[tuple[dict, dict]], order: 
         for _, p in members:
             flow["sections"].append({"type": "subheading", "text": titles(p)})
             flow["sections"].extend(sections_for(p))
+    tidy_sections(flow["sections"])
     fill_pt_br(flow["sections"], meta.get("translation", {}).get("pt-BR"))
+    rehome_easter_notes(flow["sections"])
     flow["sections"] = [easter_select(s) for s in flow["sections"]]
     return manifest, flow
 
@@ -354,7 +387,7 @@ def patch_existing(pid: str, members: list[tuple[dict, dict]]) -> str:
     for lang in sorted(langs_of(p["rows"])):
         if lang in inline:
             continue
-        inline[lang] = "\n\n".join(r["text"][lang] for r in p["rows"] if lang in r["text"])
+        inline[lang] = tidy("\n\n".join(r["text"][lang] for r in p["rows"] if lang in r["text"]))
         added.append(lang)
     names = manifest.setdefault("name", {})
     for lang, t in titles(p).items():
