@@ -3,7 +3,7 @@ import { useRouter } from 'expo-router'
 import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
-import { bareId, getEntriesByKind, getEntry } from '@/content/contentIndex'
+import { bareId, getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useCelebrationDisplay } from '@/features/calendar'
@@ -32,7 +32,6 @@ const bookHref = (id: string): Href => ({
   pathname: '/browse/book/[bookId]',
   params: { bookId: bareId(id) },
 })
-const isMeta = (id: string) => /example|starter|sandbox/.test(id)
 
 /**
  * The daily featured carousel (Gospel of the Day → Saint of the Day → today's
@@ -57,7 +56,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   // unrelated re-render (clock tick, theme, gospel/saint query settling).
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const books = useMemo(
-    () => getEntriesByKind('book').filter(([id]) => !isMeta(id)),
+    () => getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
     [catalogVersion],
   )
   const goBook = (id: string) => router.push(bookHref(id))
@@ -209,7 +208,7 @@ export function ExploreCatalogRows() {
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const books = useMemo(
-    () => getEntriesByKind('book').filter(([id]) => !isMeta(id)),
+    () => getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
     [catalogVersion],
   )
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion

@@ -202,6 +202,11 @@ export function getCollections(): CatalogEntry[] {
 }
 
 /** Strip any `kind/` prefix from a corpus ref, returning the bare slug. */
+/** The engine's example and starter items: in the catalog, never on a shelf. */
+export function isMetaId(id: string): boolean {
+  return /example|starter|sandbox/.test(id)
+}
+
 export function bareId(ref: string): string {
   const slash = ref.indexOf('/')
   return slash === -1 ? ref : ref.slice(slash + 1)

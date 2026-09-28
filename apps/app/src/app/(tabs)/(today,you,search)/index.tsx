@@ -1,9 +1,7 @@
 import { format, subWeeks } from 'date-fns'
-import { useFocusEffect, useRouter } from 'expo-router'
-import { useCallback, useEffect, useMemo, useState } from 'react'
+import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
-import { YStack } from 'tamagui'
+import { View, YStack } from 'tamagui'
 
 import {
   FadeInView,
@@ -14,9 +12,6 @@ import {
   Typography,
   VotiveWall,
 } from '@/components'
-import { getManifest } from '@/content/resolver'
-import { useEventStore } from '@/db/events'
-import { useYearCalendar } from '@/features/calendar'
 import {
   DailyMeditations,
   ExploreFeatured,
@@ -29,169 +24,52 @@ import {
   Aspiratio,
   LiturgicalHeader,
   MementoLine,
-  RestartNeededList,
-  TierLegend,
-  TimeBlockSection,
+  TodayPlanSheet,
+  TodayRow,
+  useTodayPlan,
 } from '@/features/home'
 import { ContinueRow } from '@/features/library'
-import {
-  type BlockState,
-  buildTieredWallData,
-  enrichSlot,
-  filterSlotsForDate,
-  getActiveBlocks,
-  getBlockCompletion,
-  getBlockState,
-  getCurrentTimeBlock,
-  type ScheduleContext,
-  type TimeBlock,
-  useCompletedSlots,
-  useCompletionDatesBySlot,
-  useCompletionRange,
-  usePinnedFlows,
-  useProgramHidesForDate,
-  useRestartNeededPractices,
-  useSetSlotDone,
-  useSlots,
-} from '@/features/plan-of-life'
-import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
-import { useCurrentHour } from '@/hooks/useCurrentHour'
-import { useStableToday, useToday } from '@/hooks/useToday'
-import {
-  getCelebrationsForDate,
-  getLiturgicalSeason,
-  type LiturgicalCalendarForm,
-  useObligations,
-} from '@/lib/liturgical'
+import { buildTieredWallData, useCompletionRange } from '@/features/plan-of-life'
+import { useObligations } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export default function HomeScreen() {
   const { t } = useTranslation()
-  const now = useToday()
-  const selectedDate = format(now, 'yyyy-MM-dd')
-  const currentBlock = getCurrentTimeBlock(useCurrentHour())
-
-  const liturgicalCalendar = usePreferencesStore(
-    (s) => s.liturgicalCalendar,
-  ) as LiturgicalCalendarForm
-  const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
-  const isFutureDate = selectedDate > anchorDate
+  const plan = useTodayPlan()
+  const { now, anchorDate, season, slots, todaySlots, completedIds, selectedDate, onPressItem } =
+    plan
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
-  const router = useRouter()
-  const slots = useSlots()
+  const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: onPressItem })
 
-  const season = useMemo(
-    () => getLiturgicalSeason(now, liturgicalCalendar),
-    [now, liturgicalCalendar],
-  )
-
-  const completedIds = useCompletedSlots(selectedDate)
-  const setSlotDone = useSetSlotDone()
-  const restartNeededIds = useRestartNeededPractices()
-
-  const handlePressItem = useCallback(
-    (item: ChecklistItem) => {
-      const practiceId = item.practice_id
-      const practice = useEventStore.getState().practices.get(practiceId)
-      const resolvedId = practice?.active_variant ?? practiceId
-      const manifest = getManifest(resolvedId)
-      if (!manifest) {
-        router.push({ pathname: '/plan/[practiceId]', params: { practiceId } })
-        return
-      }
-      // Pray the active variant; the tapped slot is what the prayer completes.
-      router.push({
-        pathname: '/pray/[practiceId]',
-        params: { practiceId: resolvedId, slotKey: item.id },
-      })
-    },
-    [router],
-  )
   const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
   const wallLogs = useCompletionRange(wallStart, selectedDate)
-  const { data: yearCalendar } = useYearCalendar(now.getFullYear())
+  const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
   const obligations = useObligations(now)
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: memoize by date string
-  const scheduleCtx: ScheduleContext | undefined = useMemo(() => {
-    if (!yearCalendar) return undefined
-    const dayCalendar = getCelebrationsForDate(yearCalendar, now)
-    return { season, dayCalendar }
-  }, [yearCalendar, season, selectedDate])
-
-  const completionsBySlot = useCompletionDatesBySlot()
-  const programHides = useProgramHidesForDate(selectedDate)
-  const todaySlots = useMemo(
-    () =>
-      filterSlotsForDate(slots, selectedDate, scheduleCtx, completionsBySlot).filter(
-        (s) => !programHides.has(s.id),
-      ),
-    [slots, selectedDate, scheduleCtx, completionsBySlot, programHides],
-  )
-  // Rows render through enrichSlot on every pass, so this only needs to trigger
-  // one once a pinned slot's flow arrives.
-  usePinnedFlows(todaySlots)
-  const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: handlePressItem })
-  const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
-
-  const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
-
-  const toggleBlockCollapse = useCallback((block: TimeBlock, shown: BlockState) => {
-    setOverrides((prev) => ({ ...prev, [block]: shown === 'expanded' ? 'collapsed' : 'expanded' }))
-  }, [])
-
-  // Overrides also hold a block open once its last practice is ticked, so the
-  // list never folds up under the user's finger. They clear on leaving the tab
-  // or the day, and finished blocks tidy away on the next look.
-  useFocusEffect(useCallback(() => () => setOverrides({}), []))
-  // biome-ignore lint/correctness/useExhaustiveDependencies: reset when the day changes
-  useEffect(() => setOverrides({}), [selectedDate])
-
-  const activeBlocks = useMemo(() => getActiveBlocks(todaySlots), [todaySlots])
-  const shownBlocks = activeBlocks.map(({ block, def }) => ({
-    block,
-    def,
-    state:
-      overrides[block] ??
-      getBlockState(
-        block,
-        currentBlock,
-        completedIds,
-        def.slots.map((s) => s.id),
-      ),
-  }))
   const totalSlots = todaySlots.length
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingBottom="$lg">
-        <YStack gap="$md">
-          <LiturgicalHeader
-            date={now}
-            season={season}
-            today={anchorDate}
-            onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
-          />
+    <View flex={1}>
+      <ScreenLayout>
+        <YStack gap="$lg" paddingBottom="$lg">
+          <YStack gap="$md">
+            <LiturgicalHeader
+              date={now}
+              season={season}
+              today={anchorDate}
+              onSelectDate={(date) =>
+                setTimeTravelEphemeral(date === anchorDate ? undefined : date)
+              }
+            />
 
-          <FadeInView>
-            <ExploreFeatured leading={prayNow && <PrayNowCard {...prayNow} />} />
-          </FadeInView>
-        </YStack>
+            <FadeInView>
+              <ExploreFeatured leading={prayNow && <PrayNowCard {...prayNow} />} />
+            </FadeInView>
+          </YStack>
 
-        <YStack>
           <FadeInView index={1}>
-            <YStack>
-              <Pressable
-                onPress={() => router.navigate('/(tabs)/(you)/you')}
-                accessibilityRole="link"
-                accessibilityLabel={t('a11y.viewPlanOfLife')}
-              >
-                <Typography variant="screen-title" tone="muted" fontSize="$5">
-                  {t('home.ruleOfLife')}
-                </Typography>
-              </Pressable>
-            </YStack>
+            <TodayRow plan={plan} />
           </FadeInView>
 
           {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
@@ -200,104 +78,47 @@ export default function HomeScreen() {
             </FadeInView>
           )}
 
-          {todaySlots.length === 0 ? (
-            <FadeInView index={2}>
-              <Pressable
-                onPress={() => router.navigate('/(tabs)/(you)/you')}
-                accessibilityRole="link"
-                accessibilityLabel={t('home.emptyPlanAction')}
-              >
-                <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
-                  <Typography tone="muted" fontSize="$2" textAlign="center">
-                    {t('home.emptyPlan')}
+          <ContinueRow />
+
+          <DailyMeditations />
+
+          <PageBreakOrnament />
+
+          <Aspiratio date={now} />
+
+          <MementoLine />
+
+          {todaySlots.length > 0 && (
+            <>
+              <SectionDivider />
+              <FadeInView index={3}>
+                <YStack alignItems="center" gap="$sm">
+                  <Typography variant="label" fontSize="$2">
+                    {t('home.fidelity')}
                   </Typography>
-                  <Typography fontSize="$2" fontWeight="500" color="$accent">
-                    {t('home.emptyPlanAction')}
+                  <VotiveWall data={wallData} weeks={10} tiered />
+                  {completedCount === totalSlots && (
+                    <Typography variant="sacred-title" fontSize="$3" color="$accent">
+                      Pax Christi.
+                    </Typography>
+                  )}
+                  <Typography tone="muted" fontSize="$1">
+                    {t('home.todayProgress', {
+                      completed: completedCount,
+                      total: totalSlots,
+                    })}
                   </Typography>
                 </YStack>
-              </Pressable>
-            </FadeInView>
-          ) : (
-            <YStack gap="$md" marginTop="$md">
-              {shownBlocks.map(({ block, def, state }, index) => {
-                const { completed, total } = getBlockCompletion(
-                  def.slots.map((s) => s.id),
-                  completedIds,
-                )
-
-                return (
-                  <FadeInView key={block} index={index + 2}>
-                    <TimeBlockSection
-                      label={t(`timeBlock.${block}`)}
-                      items={def.slots.map((s) => enrichSlot(s, t))}
-                      completedIds={completedIds}
-                      restartNeededIds={restartNeededIds}
-                      state={state}
-                      completed={completed}
-                      total={total}
-                      readOnly={isFutureDate}
-                      onToggle={(item, done) => {
-                        if (!overrides[block]) setOverrides((prev) => ({ ...prev, [block]: state }))
-                        setSlotDone.mutate({ slotKey: item.id, date: selectedDate, done })
-                      }}
-                      onToggleCollapse={() => toggleBlockCollapse(block, state)}
-                      onPressItem={handlePressItem}
-                    />
-                  </FadeInView>
-                )
-              })}
-              <TierLegend
-                tiers={shownBlocks
-                  .filter(({ state }) => state === 'expanded')
-                  .flatMap(({ def }) => def.slots)
-                  .filter((s) => !completedIds.has(s.id))
-                  .map((s) => s.tier)}
-              />
-            </YStack>
+              </FadeInView>
+            </>
           )}
 
-          <RestartNeededList ids={restartNeededIds} />
+          <FromRome />
+
+          <FromOpusDei />
         </YStack>
-
-        <ContinueRow />
-
-        <DailyMeditations />
-
-        <PageBreakOrnament />
-
-        <Aspiratio date={now} />
-
-        <MementoLine />
-
-        {todaySlots.length > 0 && (
-          <>
-            <SectionDivider />
-            <FadeInView index={activeBlocks.length + 3}>
-              <YStack alignItems="center" gap="$sm">
-                <Typography variant="label" fontSize="$2">
-                  {t('home.fidelity')}
-                </Typography>
-                <VotiveWall data={wallData} weeks={10} tiered />
-                {totalSlots > 0 && completedCount === totalSlots && (
-                  <Typography variant="sacred-title" fontSize="$3" color="$accent">
-                    Pax Christi.
-                  </Typography>
-                )}
-                <Typography tone="muted" fontSize="$1">
-                  {t('home.todayProgress', {
-                    completed: completedCount,
-                    total: totalSlots,
-                  })}
-                </Typography>
-              </YStack>
-            </FadeInView>
-          </>
-        )}
-
-        <FromRome />
-
-        <FromOpusDei />
-      </YStack>
-    </ScreenLayout>
+      </ScreenLayout>
+      <TodayPlanSheet plan={plan} />
+    </View>
   )
 }

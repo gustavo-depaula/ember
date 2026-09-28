@@ -349,23 +349,43 @@ function PacketFace({ title, tone, count, mark, s }: FaceProps) {
 
 const ordoHours = ['MANE', 'MERIDIE', 'VESPERE']
 
+/**
+ * The Ordo's page itself — cream stock under a tone band and its rule, in a
+ * 100×100 viewBox; `children` draw on it. Text is laid over by the caller.
+ */
+export function OrdoSheet({
+  tone,
+  s,
+  children,
+}: {
+  tone: BlockTone
+  s: number
+  children?: ReactNode
+}) {
+  return (
+    <Svg width={s} height={s} viewBox="0 0 100 100" style={StyleSheet.absoluteFill}>
+      <Defs>
+        <ToneGradient id="tone" tone={tone} />
+        <LinearGradient id="page" x1="0" y1="0" x2="0" y2="1">
+          <Stop offset="0" stopColor="#F6EEDC" />
+          <Stop offset="1" stopColor="#E9DBBD" />
+        </LinearGradient>
+      </Defs>
+      <Rect width="100" height="100" rx="4" fill="url(#page)" />
+      <Rect width="100" height="20" rx="4" fill="url(#tone)" />
+      <Rect y="10" width="100" height="10" fill="url(#tone)" />
+      <Rect y="21.8" width="100" height="0.9" fill={tone.from} fillOpacity={0.7} />
+      {children}
+    </Svg>
+  )
+}
+
 /** A page of the calendar: the tone as a heading band, the day's entries in rubric. */
 function OrdoFace({ title, tone, count, s }: FaceProps) {
   const rowY = [73, 80, 87]
   return (
     <>
-      <Svg width={s} height={s} viewBox="0 0 100 100" style={StyleSheet.absoluteFill}>
-        <Defs>
-          <ToneGradient id="tone" tone={tone} />
-          <LinearGradient id="page" x1="0" y1="0" x2="0" y2="1">
-            <Stop offset="0" stopColor="#F6EEDC" />
-            <Stop offset="1" stopColor="#E9DBBD" />
-          </LinearGradient>
-        </Defs>
-        <Rect width="100" height="100" rx="4" fill="url(#page)" />
-        <Rect width="100" height="20" rx="4" fill="url(#tone)" />
-        <Rect y="10" width="100" height="10" fill="url(#tone)" />
-        <Rect y="21.8" width="100" height="0.9" fill={tone.from} fillOpacity={0.7} />
+      <OrdoSheet tone={tone} s={s}>
         {rowY.map((y, i) => (
           <Rect
             key={y}
@@ -378,7 +398,7 @@ function OrdoFace({ title, tone, count, s }: FaceProps) {
             fillOpacity={0.18}
           />
         ))}
-      </Svg>
+      </OrdoSheet>
       <View
         style={[
           styles.abs,
@@ -439,7 +459,7 @@ const faces: Record<CollectionCoverStyle, (p: FaceProps) => React.JSX.Element> =
   ordo: OrdoFace,
 }
 
-function Kicker({
+export function Kicker({
   children,
   s,
   color,

@@ -56,19 +56,31 @@ export function BottomSheet({
   isOpened,
   isPresented,
   onClose,
+  onIsPresentedChange,
+  onDismiss,
   backgroundStyle,
 }: Children & {
   index?: number
   isOpened?: boolean
   isPresented?: boolean
   onClose?: () => void
+  /** The SwiftUI sheet's pair: the user closing it, then it being gone. */
+  onIsPresentedChange?: (isPresented: boolean) => void
+  onDismiss?: () => void
   backgroundStyle?: object
 }) {
   const open = index !== undefined ? index >= 0 : (isOpened ?? isPresented ?? false)
   if (!open) return null
   return (
     <View style={styles.backdrop}>
-      <Pressable style={StyleSheet.absoluteFill} onPress={onClose} />
+      <Pressable
+        style={StyleSheet.absoluteFill}
+        onPress={() => {
+          onClose?.()
+          onIsPresentedChange?.(false)
+          onDismiss?.()
+        }}
+      />
       {/* Call sites pass the themed surface colour; without it every
           sheet renders white in dark mode. */}
       <View style={[styles.sheet, { backgroundColor: 'white' }, backgroundStyle]}>
@@ -103,8 +115,16 @@ export function SegmentedControl({
 }
 
 // SwiftUI containers — no web analogue, so they just carry their children.
-export function Host({ children, style }: Children & { style?: unknown }) {
-  return <View style={style as never}>{children}</View>
+export function Host({
+  children,
+  style,
+  pointerEvents,
+}: Children & { style?: unknown; pointerEvents?: 'box-none' | 'none' | 'auto' }) {
+  return (
+    <View style={style as never} pointerEvents={pointerEvents}>
+      {children}
+    </View>
+  )
 }
 export const Group = ({ children }: Children) => <>{children}</>
 export const RNHostView = ({ children }: Children) => <>{children}</>

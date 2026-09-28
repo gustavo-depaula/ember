@@ -1,6 +1,6 @@
 export { BookCover } from './BookCover'
 export { BreviaryCard, PracticeCard, PrayerCard } from './Cards'
-export { CollectionCover } from './CollectionCovers'
+export { CollectionCover, Kicker as CoverKicker, OrdoSheet } from './CollectionCovers'
 export {
   articleAspect,
   type BookCoverFormat,
