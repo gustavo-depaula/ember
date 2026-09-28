@@ -582,7 +582,7 @@ export default {
     reading: 'Leitura',
     attribution: 'Atribui\u00e7\u00e3o',
     attrBible: 'Texto b\u00edblico: B\u00edblia Douay-Rheims (dom\u00ednio p\u00fablico)',
-    attrCatechism: 'Catecismo da Igreja Cat\u00f3lica (USCCB)',
+    attrCatechism: 'Catecismo da Igreja Cat\u00f3lica, © Libreria Editrice Vaticana',
     attrBolls: 'Tradu\u00e7\u00f5es online via API Bolls.life',
     estCompletion: 'Conclus\u00e3o est.: {{date}}',
     booksOf: '{{completed}} de {{total}} livros',

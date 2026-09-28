@@ -579,7 +579,7 @@ export default {
     reading: 'Reading',
     attribution: 'Attribution',
     attrBible: 'Bible text: Douay-Rheims Bible (public domain)',
-    attrCatechism: 'Catechism of the Catholic Church (USCCB)',
+    attrCatechism: 'Catechism of the Catholic Church, © Libreria Editrice Vaticana',
     attrBolls: 'Online translations via Bolls.life API',
     estCompletion: 'Est. completion: {{date}}',
     booksOf: '{{completed}} of {{total}} books',
