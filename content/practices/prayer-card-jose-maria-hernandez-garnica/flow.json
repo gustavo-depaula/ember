@@ -1,0 +1,43 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Sacerdot",
+				"en-US": "Fr. José María Hernandez Garnica, priest",
+				"es": "Sacerdote",
+				"hr": "Svećenik",
+				"pt-BR": "Sacerdote",
+				"pt-PT": "Sacerdote",
+				"ro": "Preot",
+				"sk": "Modlitba pre súkromnú pobožnosť"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"hr": "Molitva",
+				"pt-BR": "ORAÇÃO",
+				"pt-PT": "ORAÇÃO",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Senyor, Déu nostre, que heu volgut comptar amb el vostre servent José María, sacerdot, per estendre en diversos llocs del món la crida a santificar-se en la vida ordinària, ajudeu-me a seguir Jesucrist i a tractar-lo en les meves ocupacions quotidianes, per dur l’alegria de la vocació cristiana a altres moltes ànimes.\n\nGlorifiqueu el vostre servent José María i concediu-me, per la seva intercessió, el favor que us demano... (*demani’s*). Així sia.\n\n*Parenostre, Avemaria i Glòria*.",
+				"en-US": "Lord our God, You deigned to make use of your priest servant José María to spread throughout many countries the call to sanctity in ordinary life. Help me to draw close to Christ in my daily occupations, in order to bring the joy of the Christian vocation to many other souls.\n\nGlorify your servant José María and, through his intercession, grant me the favour I request... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Señor, Dios nuestro, que has querido contar con tu siervo José María, sacerdote, para extender en diversos lugares del mundo la llamada a santificarse en la vida ordinaria, ayúdame a seguir a Jesucristo y a tratarle en mis ocupaciones cotidianas, para llevar la alegría de la vocación cristiana a otras muchas almas.\n\nGlorifica a tu siervo José María y concédeme, por su intercesión, el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"hr": "Gospodine, Bože naš, koji si želio računati na svog slugu Joséa Mariju, svećenika, da proširi poziv na svetost u svakodnevnom životu u različitim dijelovima svijeta, pomozi mi slijediti Isusa Krista i sačuvati jedinstvo s Njim u svojim svakodnevnim poslovima, kako bi radost kršćanskog poziva mogao donijeti mnogim drugim dušama.\n\nUdostoj se proslaviti svoga slugu José Mariju i po njegovu zagovoru usliši ovu moju molitvu… Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"pt-BR": "Senhor, nosso Deus, que quisestes contar com o vosso servo José Maria, sacerdote, para estender em diversos lugares do mundo o chamado à santidade na vida cotidiana, ajudai-me a seguir Jesus Cristo e a manter a união com Ele nas minhas ocupações diárias, para assim poder levar a alegria da vocação cristã a muitas outras almas.\n\nDignai-vos glorificar o vosso servo José Maria e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Amém.\n\n*Pai-nosso, Ave-Maria, Glória.*",
+				"pt-PT": "Senhor, Nosso Deus, que quisestes contar com o vosso servo José Maria, sacerdote, para difundir pelo mundo o chamamento à santidade na vida corrente, ajudai-me a seguir Jesus Cristo e a dar-me com Ele no meio dos meus afazeres, para levar a alegria da vocação cristã a muitas outras almas.\n\nDignai-Vos glorificar o vosso servo José Maria e concedei-me por sua intercessão o favor que vos peço (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Doamne, Dumnezeul nostru, care ai voit să-Ți pui încrederea în slujitorul Tău José María, preot, pentru a purta în diferite locuri din lume chemarea la sfințire în viața obișnuită, ajută-mă să-L urmez pe Cristos și să-L frecventez în ocupațiile mele zilnice, purtând bucuria vocației creștine multor suflete.\n\nGlorifică-l pe slujitorul Tău José María și acordă-mi prin mijlocirea sa, harul pe care Ți-l cer... (*se cere*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Pane Bože náš, ty si si vybral svojho služobníka Josého Maríu, aby rozširoval volanie k svätosti v obyčajnom živote v mnohých krajinách. Pomôž mi priblížiť sa ku Kristovi v mojich každodenných činnostiach, aby som tak mohol mnohým dušiam prinášať radosť z kresťanského povolania.\n\nOsláv svojho služobníka Josého Maríu a na jeho orodovanie vyslyš moju prosbu ... Amen.\n\nOtče náš. Zdravas. Sláva."
+			}
+		}
+	]
+}

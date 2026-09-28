@@ -1,0 +1,51 @@
+{
+	"id": "rorate-caeli",
+	"form": "prayer",
+	"icon": "cloud-rain",
+	"name": {
+		"da": "I himle, lad duggen falde",
+		"en-US": "Rorate coeli",
+		"es": "Rorate coeli",
+		"fr": "Cieux répandez votre rosée",
+		"hr": "Rosite nebesa",
+		"hu": "Harmatozzatok, magasságos egek (Rorate coeli)",
+		"la": "Rorate coeli",
+		"pt-BR": "Rorate caeli",
+		"pt-PT": "Rorate caeli",
+		"ro": "Coboare roua din senin",
+		"sk": "Roste, nebesá",
+		"sv": "Rorate caeli"
+	},
+	"categories": [
+		"seasonal",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Drop down dew, ye heavens* — the Advent chant of longing for the Just One, from Isaiah 45:8.",
+		"pt-BR": "*Céus, deixai cair o orvalho* — o canto do Advento que anseia pelo Justo, de Isaías 45, 8."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"advent"
+	],
+	"defaults": {
+		"sortOrder": 423,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

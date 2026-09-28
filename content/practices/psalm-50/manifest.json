@@ -1,0 +1,55 @@
+{
+	"id": "psalm-50",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"ca": "Salm 50",
+		"da": "Salme 51",
+		"en-US": "Psalm 50 (Miserere)",
+		"es": "Salmo 50",
+		"fr": "Psaume 50",
+		"hr": "Psalam 50",
+		"hu": "50. Zsoltár",
+		"it": "Salmo 50",
+		"la": "Psalmus L",
+		"pt-BR": "Salmo 50 (Miserere)",
+		"pt-PT": "Salmo 50",
+		"ro": "Psalmul al 50-lea",
+		"sk": "Žalm 51",
+		"sl": "Psalm 50",
+		"sv": "Psalm 51"
+	},
+	"categories": [
+		"scripture",
+		"penance"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Have mercy on me, God* — David's psalm of repentance, the greatest of the seven penitential psalms.",
+		"pt-BR": "*Tende piedade de mim, ó Deus* — o salmo de arrependimento de David, o maior dos sete salmos penitenciais."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=303&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"psalm",
+		"miserere",
+		"penitential"
+	],
+	"defaults": {
+		"sortOrder": 417,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

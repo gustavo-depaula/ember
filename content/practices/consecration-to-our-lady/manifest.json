@@ -1,0 +1,49 @@
+{
+	"id": "consecration-to-our-lady",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"ca": "O verge i Mare de Déu",
+		"da": "Min Frue!",
+		"en-US": "Consecration to Mary",
+		"es": "Oh Señora mía",
+		"hr": "O Gospođo moja",
+		"pt-BR": "Consagração a Nossa Senhora",
+		"pt-PT": "Consagração a Nossa Senhora",
+		"ro": "O, Doamna mea",
+		"sk": "Ranná modlitba sv. Josemaríu",
+		"sv": "Vigning till vår Fru"
+	},
+	"categories": [
+		"marian",
+		"consecration"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*My Queen and my Mother, I give myself entirely to you* — a short daily consecration of eyes, ears, mouth and heart to Our Lady.",
+		"pt-BR": "*Ó Senhora minha, ó minha Mãe, eu me ofereço todo a vós* — uma breve consagração diária a Nossa Senhora dos olhos, ouvidos, boca e coração."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=300&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"consecration",
+		"short-prayer"
+	],
+	"defaults": {
+		"sortOrder": 407,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

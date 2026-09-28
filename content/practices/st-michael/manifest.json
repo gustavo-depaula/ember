@@ -4,7 +4,19 @@
 	"name": {
 		"en-US": "Prayer to St. Michael the Archangel",
 		"pt-BR": "Oração a São Miguel Arcanjo",
-		"la": "Oratio ad Sanctum Michaelem Archangelum"
+		"la": "Oratio ad Sanctum Michaelem Archangelum",
+		"ca": "Oració a sant Miquel",
+		"da": "Orátio ad S. Míchaël",
+		"es": "Oración a S. Miguel",
+		"fr": "Prière à saint Michel",
+		"hr": "Molitva svetom Mihaelu",
+		"hu": "Imádság Szent Mihály Arkangyalhoz",
+		"it": "Preghiera all'arcangelo S. Michele",
+		"pt-PT": "Oração a São Miguel Arcanjo",
+		"ro": "Rugăciune către Sfântul Arhanghel Mihail",
+		"sk": "s Archanjelom Michalom",
+		"sl": "Molitev k sv. Mihaelu",
+		"sv": "Bön till ärkeängeln Mikael"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +25,19 @@
 				"inline": {
 					"en-US": "Saint Michael the Archangel, defend us in battle; be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray; and do thou, O Prince of the heavenly host, by the power of God, cast into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.",
 					"pt-BR": "São Miguel Arcanjo, defendei-nos no combate, sede o nosso refúgio contra as maldades e ciladas do demônio. Ordene-lhe Deus, instantemente o pedimos; e vós, príncipe da milícia celeste, pela virtude divina, precipitai no inferno a Satanás e aos outros espíritos malignos que andam pelo mundo para perder as almas. Amém.",
-					"la": "Sancte Michael Archangele, defende nos in proelio; contra nequitiam et insidias diaboli esto praesidium. Imperet illi Deus, supplices deprecamur: tuque, Princeps militiae caelestis, Satanam aliosque spiritus malignos, qui ad perditionem animarum pervagantur in mundo, divina virtute in infernum detrude. Amen."
+					"la": "Sancte Michael Archangele, defende nos in proelio; contra nequitiam et insidias diaboli esto praesidium. Imperet illi Deus, supplices deprecamur: tuque, Princeps militiae caelestis, Satanam aliosque spiritus malignos, qui ad perditionem animarum pervagantur in mundo, divina virtute in infernum detrude. Amen.",
+					"ca": "Arcàngel sant Miquel, defenseu-nos en la lluita, sigueu el nostre ajut contra la dolenteria i els paranys del dimoni. Supliquem que Déu el mantingui sota el seu imperi. I Vós, Príncep de la milícia celestial, llenceu a l'infern, amb el poder diví, Satanàs i els altres esperits malvats, que corren pel món buscant de perdre les ànimes. Amén.",
+					"da": "Hellige ærkeengel Mikael, forsvar os i striden; vær vort værn mod Djævelens ondskab og fælder. »Må Herren revse ham«, beder vi ydmygt. Og du, fyrste over de himmelske hærskarer: Styrt, ved Guds kraft, Satan og de øvrige onde ånder, som til sjælenes fordærv vandrer omkring i verden, ned i helvede. Amen.",
+					"es": "Arcángel San Miguel, defiéndenos en la lucha, sé nuestro amparo contra la maldad y las asechanzas del demonio. Pedimos suplicantes que Dios lo mantenga bajo su imperio; y tú, Príncipe de la milicia celestial, arroja al infierno con el poder divino, a Satanás y a los otros espíritus malvados, que andan por el mundo tratando de perder a las almas. Amén.",
+					"fr": "Saint Michel Archange,\ndéfendez nous dans le combat.\nSoyez notre protecteur\ncontre la méchanceté et les embûches du démon.\nQue Dieu lui commande, nous vous en supplions.\nEt vous, Prince de la milice céleste, par le pouvoir divin qui vous a été confié, précipitez au fond des enfers Satan et les autres esprits mauvais qui parcourent le monde pour la perte des âmes.\nAmen",
+					"hr": "Sveti Mihaele Arkanđele, brani nas u boju: protiv pakosti i zasjedama đavolskim budi nam zaklon! Neka mu zapovjedi Bog, ponizno molimo. I ti, vojvodo vojske nebeske, Sotonu i druge duhove zlobne, koji svijetom prolaze na propast duša, božanskom jakošću u pakao potjeraj. Amen.",
+					"hu": "Szent Mihály arkangyal, védelmezz minket harcainkban; a sátán gonoszsága és incselkedései ellen légy oltalmunk. Parancsoljon neki az Isten, esedezve kérjük; és te, égi seregek Fejedelme, a sátánt és más gonosz szellemeket, kik a lelkek veszedelmére törnek e világon, Isten erejével taszítsd a kárhozatra. Amen.",
+					"it": "San Michele Arcangelo, difendici nella lotta; sii nostro aiuto contro la cattiveria e le insidie del demonio.'Che Dio eserciti il suo dominio su di lui”, supplichevoli ti preghiamo; tu, che sei il Principe della milizia celeste, con la forza divina rinchiudi nell'inferno Satana e gli altri spiriti maligni che girano il mondo per portare le anime alla dannazione. Amen.",
+					"pt-PT": "São Miguel Arcanjo! Defendei-nos neste combate; sede nossa guarda contra as maldades e ciladas do demónio. Instante e humildemente pedimos que Deus sobre ele impere, e vós, Príncipe da milícia celeste, com esse poder divino precipitai no Inferno a Satanás com os outros espíritos malignos, que vagueiam pelo mundo para perdição das almas. Ámen.",
+					"ro": "Sfinte Arhanghele Mihail, apără-ne în luptă, fii ocrotitorul nostru împotriva răutății și curselor diavolului. Cu umilință te rugăm, ca Dumnezeu să-l mustre;\niar tu, căpetenie a oștirilor cerești, prin puterea lui Dumnezeu, aruncă-l în iad pe Satana și pe celelalte duhuri rele, care rătăcesc prin lume, căutând pierderea sufletelor. Amin.",
+					"sk": "Svätý Michal archanjel, bráň nás v boji, buď nám ochrancom proti zlobe a úkladom diabla. Pokorne prosíme, nech mu Boh ukáže svoju moc. A ty, knieža nebeských zástupov, Božou mocou zažeň do pekla satana a iných zlých duchov, ktorí sa na skazu duší potulujú po svete. Amen.",
+					"sl": "Sveti nadangel Mihael, brani nas v boju; bodi nam v pomoč zoper zlobnost in zalezovanje hudega duha. Ukroti naj ga Bog, ponižno za to prosimo. In ti, vodnik nebeške vojske, satana in druge hudobne duhove, ki hodijo po svetu v pogubo duš, z Božjo pomočjo v pekel pahni. Amen.",
+					"sv": "Helige ärkeängel Mikael, försvara oss i striden, var oss ett värn mot Satans ondska och försåt. ”Må Herren näpsa honom”, så ber vi ödmjukt. Och du, furste över de himmelska härskarorna, störta du med Guds kraft ner djävulen i helvetet med de övriga andar, som till själarnas fördärv vandrar omkring i världen. Amen."
 				}
 			}
 		]

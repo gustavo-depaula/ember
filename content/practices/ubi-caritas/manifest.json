@@ -1,0 +1,56 @@
+{
+	"id": "ubi-caritas",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"da": "Ubi caritas",
+		"en-US": "Ubi caritas",
+		"es": "Ubi caritas",
+		"fr": "Ubi caritas",
+		"hr": "Gdje je ljubav, prijateljstvo",
+		"hu": "Hol szeretet és egyetértés (Ubi caritas)",
+		"la": "Ubi caritas",
+		"pt-BR": "Ubi caritas",
+		"pt-PT": "Ubi caritas",
+		"ro": "Ubi caritas",
+		"sk": "Kde je láska opravdivá",
+		"sv": "Ubi caritas"
+	},
+	"categories": [
+		"devotion",
+		"eucharistic"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Where charity and love are, God is there* — the chant of fraternal charity.",
+		"pt-BR": "*Onde há caridade e amor, aí está Deus* — o canto da caridade fraterna."
+	},
+	"history": {
+		"en-US": "An early medieval chant, traditionally sung at the washing of feet in the Mass of the Lord's Supper on Holy Thursday.",
+		"pt-BR": "Canto da alta Idade Média, cantado tradicionalmente no lava-pés da Missa da Ceia do Senhor na Quinta-feira Santa."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"charity",
+		"holy-thursday"
+	],
+	"defaults": {
+		"sortOrder": 421,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

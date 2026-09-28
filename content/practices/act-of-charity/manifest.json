@@ -4,7 +4,17 @@
 	"name": {
 		"en-US": "Act of Charity",
 		"pt-BR": "Ato de Caridade",
-		"la": "Actus Caritatis"
+		"la": "Actus Caritatis",
+		"ca": "Acte de caritat",
+		"da": "En akt af kærlighed",
+		"es": "Acto de caridad",
+		"fr": "Acte de Charité",
+		"hr": "Čin ljubavi",
+		"it": "Atto di carità",
+		"pt-PT": "Ato de Caridade",
+		"ro": "Act de iubire",
+		"sl": "Dejanje ljubezni",
+		"sv": "En akt av kärlek"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +23,17 @@
 				"inline": {
 					"en-US": "O my God, I love Thee above all things with my whole heart and soul, because Thou art all-good and worthy of all love. I love my neighbor as myself for the love of Thee. I forgive all who have injured me, and I ask pardon of all whom I have injured. Amen.",
 					"pt-BR": "Meu Deus, amo-Vos sobre todas as coisas com todo o meu coração e toda a minha alma, porque sois infinitamente bom e digno de todo o amor. Amo o meu próximo como a mim mesmo por amor de Vós. Perdoo a todos os que me ofenderam e peço perdão a todos os que ofendi. Amém.",
-					"la": "Domine Deus, amo Te super omnia et proximum meum propter Te, quia Tu es summum bonum ac omni dilectione dignissimum. Ex toto corde amo Te, et propter Te amo proximum meum sicut me ipsum. Amen."
+					"la": "Domine Deus, amo Te super omnia et proximum meum propter Te, quia Tu es summum bonum ac omni dilectione dignissimum. Ex toto corde amo Te, et propter Te amo proximum meum sicut me ipsum. Amen.",
+					"ca": "Déu meu, us estimo amb tot el cor, sobre totes les coses, a vós que sou el bé infinit i la nostra eterna felicitat; i per l'amor vostre, estimo els altres com a mi mateix, i perdono les ofenses rebudes.\n\nAmén.",
+					"da": "Jeg elsker Gud Fader;\n\njeg elsker Gud Sønnen;\n\njeg elsker Gud den Hellige Ånd;\n\njeg elsker den hellige Treenighed;\n\njeg elsker min Herre Jesus Kristus, sand Gud og sandt menneske.\n\nJeg elsker den salige Maria, Guds Moder og vor Moder, og jeg elsker min næste som mig selv.",
+					"es": "Amo a Dios Padre;\n\nAmo a Dios Hijo;\n\nAmo a Dios Espíritu Santo;\n\nAmo a la Santísima Trinidad;\n\nAmo a mi Señor Jesucristo, Dios y hombre verdadero.\n\nAmo a María santísima, madre de Dios y madre nuestra y amo a mi prójimo como a mí mismo.",
+					"fr": "Mon Dieu, je vous aime de tout mon cœur et plus que tout, parce que vous êtes infiniment bon, et j'aime mon prochain comme moi-même pour l'amour de vous.\n\nAmen.",
+					"hr": "Ljubim Boga Oca;\n\nLjubim Boga Sina;\n\nLjubim Boga Duha Svetoga;\n\nLjubim Presveto Trojstvo;\n\nLjubim Gospodina Isusa Krista, pravoga Boga i pravoga čovjeka.\n\nLjubim Presvetu Mariju, Majku Božju i našu Majku, i ljubim svoga bližnjega kao samoga sebe.",
+					"it": "Mio Dio,ti amo con tutto il cuore sopra ogni cosa,\n\nperché sei bene infinito e nostra eterna felicità;\n\ne per amore tuo amo il prossimo come me stesso, e perdono le offese ricevute;\n\nSignore, che io ti ami sempre più.",
+					"pt-PT": "Meu Deus, porque sois infinitamente bom e digno de ser amado sobre todas as coisas, eu Vos amo de todo o meu coração, a exemplo de Jesus; e, por Vosso amor, amo também o meu próximo como a mim mesmo. Senhor, fazei que eu Vos ame cada vez mais. Ámen.",
+					"ro": "Îl iubesc pe Dunnezeu Tatăl;\n\nÎl iubesc pe Dumnezeu Fiul;\n\nÎl iubesc pe Dumnezeu Duhul Sfânt;\n\nO iubesc pe Preasfânta Treime;\n\nÎl iubesc pe Domnul meu, Isus Cristos, Dumnezeu și om adevărat.\n\nO iubesc pe Sfânta Maria, maica lui Dumnezeu și maica noastră, și îl iubesc pe aproapele meu ca pe mine însumi.",
+					"sl": "Gospod Bog, ljubim te nad vse in svojega bližnjega zaradi tebe. Ti si najvišje, neskončno in najpopolnejše dobro, ki je vse ljubezni vredno. V tej ljubezni hočem živeti in umreti. Amen.",
+					"sv": "Jag älskar Gud Fader;\n\nJag älskar Gud Sonen;\n\nJag älskar Gud den Helige Ande;\n\nJag älskar den heliga Treenigheten;\n\nJag älskar min Herre Jesus Kristus, sann Gud och sann människa.\n\nJag älskar den saliga Maria, Guds moder och vår moder och jag älskar min nästa som mig själv."
 				}
 			}
 		]

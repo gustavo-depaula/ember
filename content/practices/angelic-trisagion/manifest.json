@@ -1,0 +1,54 @@
+{
+	"id": "angelic-trisagion",
+	"form": "prayer",
+	"icon": "trinity",
+	"name": {
+		"ca": "Trisagi angèlic",
+		"da": "Trisagium angelicum",
+		"en-US": "Angelic Trisagion",
+		"es": "Trisagio angélico",
+		"fr": "Triságium angélicum",
+		"hr": "Trisagium angelicum",
+		"hu": "Angyali triszágion",
+		"it": "Trisagio angelico",
+		"la": "Triságium angélicum",
+		"pt-BR": "Triságio Angélico",
+		"pt-PT": "Triságio Angélico",
+		"ro": "Trisaghion îngeresc",
+		"sk": "Trojsvätý hymnus",
+		"sl": "Triságium angélicum",
+		"sv": "Trisagium angelicum"
+	},
+	"categories": [
+		"trinity",
+		"devotion"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "Praise of the Most Holy Trinity in three decades, one for each divine Person, built on the angels' *Holy, holy, holy*.",
+		"pt-BR": "Louvor à Santíssima Trindade em três dezenas, uma por cada Pessoa divina, construído sobre o *Santo, Santo, Santo* dos anjos."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=297&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"trinity",
+		"trisagion"
+	],
+	"defaults": {
+		"sortOrder": 402,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

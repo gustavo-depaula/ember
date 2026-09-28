@@ -1,0 +1,27 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"da": "I fastetiden",
+				"en-US": "In Lent",
+				"es": "Tiempo de Cuaresma",
+				"hu": "Nagyböjt",
+				"la": "Tempus Quadragesimæ",
+				"ro": "Timpul de Postul Mare"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"da": "Midt i livet er vi i døden; hos hvem skal vi søge hjælp, om ikke hos dig, Herre, du som med rette vredes over vore synder?\n\nHellige Gud, hellige Stærke, hellige og barmhjertige Frelser: Overgiv os ikke til den bitre død.\n\nPå dig håbede vore fædre; de håbede, og du udfriede dem.\n\nHellige Gud, hellige Stærke, hellige og barmhjertige Frelser: Overgiv os ikke til den bitre død.\n\nTil dig råbte vore fædre; de råbte og blev ikke til skamme.\n\nHellige Gud, hellige Stærke, hellige og barmhjertige Frelser: Overgiv os ikke til den bitre død.\n\nÆre være Faderen og Sønnen og den Hellige Ånd.\n\nHellige Gud, hellige Stærke, hellige og barmhjertige Frelser: Overgiv os ikke til den bitre død.",
+				"en-US": "In the midst of life we are in death; of whom may we seek help but You, O Lord, who for our offences are justly displeased?\n\nYet, O God most holy, O holy and mighty, O holy and merciful Saviour, give us not over unto bitter death.\n\nIn You our fathers trusted. They trusted and You delivered them.\n\nThey cried out to You, and they were rescued. They cried out to You, and they were not disappointed.\n\nGlory be to the Father, and to the Son, and to the Holy Spirit.\n\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.",
+				"es": "A mitad de la vida encontramos la muerte: ¿a quién buscaremos para que nos ayude, sino a ti Señor? A ti que justamente te airas por nuestros pecados.\n\nSanto Dios, Santo Fuerte, Santo misericordioso Salvador, no nos entregues a una muerte amarga.\n\nEn ti esperaron nuestros padres: esperaron, y tú les liberaste.\n\nSanto Dios, Santo Fuerte, Santo misericordioso Salvador, no nos entregues a una muerte amarga.\n\nA ti clamaron nuestros padres: clamaron, y no quedaron confundidos.\n\nSanto Dios, Santo Fuerte, Santo misericordioso Salvador, no nos entregues a una muerte amarga.\n\nGloria al Padre, y al Hijo, y al Espíritu Santo.\n\nSanto Dios, Santo Fuerte, Santo misericordioso Salvador, no nos entregues a una muerte amarga.",
+				"fr": "Au milieu de la vie, nous sommes dans la mort ;\nquel secours chercher, sinon vous, Seigneur ?\nvous qui à bon droit êtes irrité de nos péchés.\n\n* Saint Dieu, Saint fort,\nSaint Sauveur miséricordieux,\nne nous livrez pas à la mort amère\n\nC'est en toi que nos pères espéraient,\nils espéraient et tu les délivrais.\n\n*Saint Dieu\n\nQuand ils criaient vers toi, ils échappaient ;\nen toi ils espéraient et n'étaient pas déçus.\n\n*Saint Dieu\n\nGloire au Père, au Fils et au Saint Esprit,\n\n*Saint Dieu",
+				"hu": "Életünk közepette körülvesz a halál: kihez forduljunk segítségért,\nha nem Hozzád, Urunk, aki bűneink miatt igazságosan haragszol ránk?\n\nSzent Isten, szent és erős, szent és irgalmas Üdvözítő, ne adj át minket a keserű halálnak.\n\nBenned bíztak atyáink, bíztak Benned, és megszabadítottad őket.\n\nSzent Isten, szent és erős, szent és irgalmas Üdvözítő, ne adj át minket a keserű halálnak.\n\nHozzád kiáltottak atyáink, kiáltottak, és nem vallottak szégyent.\n\nSzent Isten, szent és erős, szent és irgalmas Üdvözítő, ne adj át minket a keserű halálnak.\n\nDicsőség az Atyának, a Fiúnak és a Szentléleknek.\n\nSzent Isten, szent és erős, szent és irgalmas Üdvözítő, ne adj át minket a keserű halálnak.",
+				"la": "Media vita in morte sumus: quem quaérimus adiutórem nisi te, Dómine, qui pro peccátis nostris iuste irásceris?\n\nSancte Deus, sancte fortis, sancte et miséricors Salvátor: amárae morti ne tradas nos.\n\nIn te speravérunt patres nostri; speraverunt et liberásti eos.\n\nSancte Deus, sancte fortis, sancte et miséricors Salvátor: amárae morti ne tradas nos.\n\nAd te clamavérunt patres nostri Clamavérunt et non sunt confúsi.\n\nSancte Deus, sancte fortis, sancte et miséricors Salvátor: amárae morti ne tradas nos.\n\nGlória a Patri, et Fílio, et Spíritui Sancto.\n\nSancte Deus, sancte fortis, sancte et miséricors Salvátor: amárae morti ne tradas nos.",
+				"ro": "La mijlocul vieții ne aflăm în moarte: pe cine să căutăm ca ajutor, dacă nu pe Tine, Doamne, care pe drept Te mânii pentru păcatele noastre?\n\nDumnezeule sfânt, Dumnezeule tare, Mântuitor milostiv și îndurător, nu ne lăsa pradă morții amare.\n\nÎn Tine au nădăjduit părinții noștri; au nădăjduit, și Tu i-ai eliberat.\n\nDumnezeule sfânt, Dumnezeule tare, Mântuitor milostiv și îndurător, nu ne lăsa pradă morții amare.\n\nCătre Tine au strigat părinții noștri; au strigat, și nu au fost dați de rușine.\n\nDumnezeule sfânt, Dumnezeule tare, Mântuitor milostiv și îndurător, nu ne lăsa pradă morții amare.\n\nMărire Tatălui, și Fiului, și Sfântului Duh,\n\nDumnezeule sfânt, Dumnezeule tare, Mântuitor milostiv și îndurător, nu ne lăsa pradă morții amare."
+			}
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"id": "veni-sancte-spiritus",
+	"form": "prayer",
+	"icon": "flame",
+	"name": {
+		"ca": "Vine, Sant Esperit",
+		"en-US": "Veni, Sancte Spiritus",
+		"es": "Ven, Espíritu divino",
+		"fr": "Viens, Esprit Saint",
+		"hr": "Dođi, Duše presveti",
+		"hu": "Veni, Sancte Spiritus (Pünkösd Szekvencia)",
+		"it": "Vieni, Santo Spirito",
+		"la": "Veni, Sancte Spíritus",
+		"pt-BR": "Vinde, ó Santo Espírito",
+		"pt-PT": "Vinde, ó Santo Espírito",
+		"ro": "Secvență de Rusalii",
+		"sk": "Príď, Duchu Svätý II",
+		"sl": "Pridi, Sveti Duh (slednica)",
+		"sv": "Pingstseckvensen"
+	},
+	"categories": [
+		"holy-spirit",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "The Golden Sequence of Pentecost — *Come, Holy Spirit, and from your celestial home shed a ray of light divine*.",
+		"pt-BR": "A Sequência de Ouro de Pentecostes — *Vinde, Espírito Santo, e enviai do céu um raio da vossa luz*."
+	},
+	"history": {
+		"en-US": "Usually attributed to Stephen Langton, Archbishop of Canterbury (d. 1228). It is one of the few sequences kept in the Roman Missal, sung before the Gospel on Pentecost.",
+		"pt-BR": "Atribuída geralmente a Estêvão Langton, arcebispo de Cantuária (m. 1228). É uma das poucas sequências conservadas no Missal Romano, cantada antes do Evangelho no dia de Pentecostes."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=299&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=194&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"sequence",
+		"pentecost",
+		"hymn"
+	],
+	"defaults": {
+		"sortOrder": 404,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

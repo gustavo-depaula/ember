@@ -1,0 +1,54 @@
+{
+	"id": "prayer-to-st-joseph-after-mass",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"ca": "Oració a sant Josep",
+		"da": "Bøn til den hellige Josef",
+		"en-US": "Prayer to St. Joseph after Communion",
+		"es": "Oración a S. José",
+		"fr": "Prière à Saint Joseph",
+		"hr": "Molitva svetom Josipu",
+		"hu": "Ima Szent Józsefhez tisztaságért",
+		"it": "Preghiera a san Giuseppe",
+		"la": "Orátio ad S. Ioseph",
+		"pt-BR": "Oração a São José depois da Comunhão",
+		"pt-PT": "Oração a São José",
+		"ro": "Rugăciune către Sf. Iosif",
+		"sl": "Molitev k sv. Jožefu",
+		"sv": "Bön till den helige Josef"
+	},
+	"categories": [
+		"eucharistic",
+		"saints"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Virginum custos* — to the guardian of Jesus and Mary, asking to serve them with a pure mind, heart and body.",
+		"pt-BR": "*Virginum custos* — ao guarda de Jesus e de Maria, pedindo para os servir com a mente, o coração e o corpo puros."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=302&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"thanksgiving",
+		"joseph",
+		"purity"
+	],
+	"defaults": {
+		"sortOrder": 414,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

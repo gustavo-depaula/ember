@@ -1,0 +1,508 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Antífona. Cantem l'himne dels tres joves, que els Sants cantaven en el forn encès, lloant el Senyor (T. P. Al·leluia).",
+				"da": "Antifon. Lad os synge de tre unge mænds lovsang, som de hellige sang i den brændende ovn til Herrens lov og pris (I påsketiden: Halleluja).",
+				"en-US": "Antiphon. Let us sing the hymn of the three children, which these holy ones sang of old in the fiery furnace, giving praise to the Lord (Easter Time. Alleluia).",
+				"es": "Antífona. Cantemos el himno de los tres jóvenes, el que los santos cantaban en el horno encendido alabando al Señor (T. P. Aleluya).",
+				"fr": "Ant. Chantons l’hymne que chantaient les trois enfants dans la fournaise ardente, en bénissant le Seigneur (T. P. Alléluia).",
+				"hr": "Antifona. Pjevajmo himan trojice mladića, koji pjevaju sveti u ognjenoj peći, blagoslivljajući Gospodina (V. V. Aleluja).",
+				"hu": "Antifóna: Énekeljük a három ifjú énekét, melyet a szent ifjak a tüzes kemencében énekeltek az Urat áldva. (H.i. Alleluja.)",
+				"it": "Antifona. Cantiamo l’inno che i tre santi giovani innalzavano nella fornace ardente, benedicendo il Signore. (Tempo pasquale Alleluia).",
+				"la": "Antíphona. Trium puerórum cantémus hymnum, quem cantábant sancti in camíno ignis, benedicéntes Dóminum (T. P. Allelúia).",
+				"pt-BR": "Antífona. Cantemos o hino dos três jovens, o mesmo que esses santos cantavam na fornalha ardente bendizendo o Senhor (T. P. Aleluia).",
+				"pt-PT": "Antífona. Cantemos o cântico que os três jovens cantavam na fornalha ardente, louvando o Senhor (T. P. Aleluia).",
+				"ro": "Antifon. Să cântăm imnul celor trei tineri ce cântau sfinții în cuptorul focului (T. P. Aleluia).",
+				"sk": "Antifóna.Spievajme chválospev troch mládencov, ktorým chválili Boha a dobrorečili Pánovi prechádzajúc sa uprostred plameňov.(V. Č. Aleluja).",
+				"sl": "Odpev. Pojmo pesem treh mladeničev, ki so jo peli v ognjeni peči in slavili Gospoda (V. Č. Aleluja).",
+				"sv": "Antifon. Låt oss sjunga de tre unga männens lovsång som de heliga sjöng i den brinnande ugnen till Herrens lov och pris (Påsktiden: Halleluja)."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Cánticum Trium Puerórum",
+				"da": "Cánticum Trium Puerórum",
+				"en-US": "Canticle of the Three Children",
+				"es": "Cánticum Trium Puerórum",
+				"fr": "Cantique des trois enfants",
+				"hr": "Pjesma trojice mladića",
+				"hu": "A hérom ifjú hálaéneke.",
+				"it": "Cantico Trium Puerorum",
+				"la": "Cánticum Trium Puerórum",
+				"pt-BR": "Cântico dos Três Jovens",
+				"pt-PT": "Cánticum Trium Puerórum",
+				"ro": "Cântecul celor trei tineri",
+				"sl": "Pesem treh mladeničev",
+				"sv": "Cánticum Trium Puerórum"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Dan. 3, 57-88 et 56",
+				"da": "Dan. 3,57-88 og 56",
+				"en-US": "Dan. 3:57-88; 56",
+				"es": "Dan. 3, 57-88 et 56",
+				"fr": "Dan. 3, 57-88 et 56",
+				"hr": "Dan. 3, 57-88 et 56",
+				"hu": "Dán 3, 57-88. 56",
+				"it": "Dan. 3, 57-88 et 56",
+				"la": "Dan. 3, 57-88 et 56",
+				"pt-BR": "Dan. 3, 57-88 e 56",
+				"pt-PT": "Dan. 3, 57-88 et 56",
+				"ro": "Dan. 3, 57-88 et 56",
+				"sl": "Dan 3, 57-88.56",
+				"sv": "Dan. 3:57-88 och 56"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "1. Beneïu el Senyor, totes les criatures, canteu-li lloances per sempre.\n\n2. Beneïu-lo, àngels del Senyor, beneïu, cels, el Senyor.\n\n3. Beneïu el Senyor, aigües de l'espai, beneïu-lo, estols del Senyor.\n\n4. Beneïu el Senyor, sol i lluna, beneïu-lo, estrelles del cel.\n\n5. Beneïu el Senyor, pluges i rosades, beneïu-lo, tots els vents.\n\n6. Beneïu el Senyor, foc i calor, beneïu-lo, freds i gelades.\n\n7. Beneïu el Senyor, rosades i gebre, beneïu-lo, glaç i freds.\n\n8. Beneïu el Senyor, neus i geleres, beneïu-lo, dies i nits.\n\n9. Beneïu el Senyor, llum i tenebres, beneïu-lo, núvols i llamps.\n\n10. Que la terra beneeixi el Senyor, que li canti lloances per sempre.\n\n11. Beneïu el Senyor, muntanyes i turons, vegetació de la terra, beneeix-lo.\n\n12. Beneïu, fonts, el Senyor, beneïu-lo, rius i mars.\n\n13. Beneïu el Senyor, peixos i monstres marins, beneïu-lo, tots els ocells.\n\n14. Beneïu el Senyor, feres i ramats, canteu-li lloances per sempre.\n\n15. Beneïu el Senyor, tots els homes, beneeix-lo, poble d'Israel.\n\n16. Beneïu-lo, sacerdots del Senyor, beneïu-lo, servents del Senyor.\n\n17. Beneïu el Senyor, sants i humils de cor, ànimes i esperits dels justos, beneïu-lo.\n\n18. Beneïu el Senyor, Ananies, Azaries i Misael, canteu-li lloances per sempre.\n\n19. Beneïm el Pare i el Fill amb l'Esperit Sant, cantem-li lloances per sempre.\n\n20. Sou beneït, Senyor, al firmament del cel; Glòria i lloança per sempre.",
+				"da": "1. Pris Herren, alle hans værker, * lovsyng og ophøj ham i evighed.\n\n2. Pris Herren, I Herrens himle, * pris Herren, I hans engle.\n\n3. Pris Herren, alt vand oven over himlen, * pris Herren, alle hans hærskarer.\n\n4. Pris Herren, sol og måne, * pris Herren, himlens stjerner.\n\n5. Pris Herren, al regn og dug, * pris Herren, alle vinde.\n\n6. Pris Herren, ild og solglød, * pris Herren, kulde og hede.\n\n7. Pris Herren, dugdråber og rimfrost, * pris Herren, frost og kulde.\n\n8. Pris Herren, is og snefnug, * pris Herren, nætter og dage.\n\n9. Pris Herren, lys og mørke, * pris Herren, lyn og skyer.\n\n10. Pris Herren, du jord, * lovsyng og ophøj ham i evighed.\n\n11. Pris Herren, bjerge og højder, * pris Herren, alt som vokser på jorden.\n\n12. Pris Herren, have og floder, * pris Herren, alle kilder.\n\n13. Pris Herren, hvaler og alt som rører sig i vandet, * pris Herren, alle himlens fugle.\n\n14. Pris Herren, alle vilde og tamme dyr, * pris Herren, I menneskebørn.\n\n15. Pris Herren, Israel, * lovsyng og ophøj ham i evighed.\n\n16. Pris Herren, I hans præster, * pris Herren, I hans tjenere.\n\n17. Pris Herren, retfærdige sjæle og ånder, * pris Herren, I hellige med ydmyge hjerter.\n\n18. Pris Herren, Hananja, Asarja og Mishael, * lovsyng og ophøj ham i evighed.\n\n19. Lad os prise Faderen og Sønnen og den Hellige Ånd, * lad os love og ophøje ham i evighed.\n\n20. Velsignet er du i himlens fæste * og lovværdig og herlig i evighed.",
+				"en-US": "1. Bless the Lord, all you works of the Lord; praise and exalt Him above all forever.\n\n2. Heavens, bless the Lord; angels of the Lord, bless the Lord.\n\n3. All you waters that are above the heavens, bless the Lord; let all the powers bless the Lord.\n\n4. Sun and moon, bless the Lord; stars of heaven, bless the Lord.\n\n5. Every shower and dew, bless the Lord; all you winds, bless the Lord.\n\n6. Fire and heat, bless the Lord; cold and heat, bless the Lord.\n\n7. Dews and hoar frosts, bless the Lord; frost and cold, bless the Lord.\n\n8. Ice and snow, bless the Lord; nights and days, bless the Lord.\n\n9. Light and darkness, bless the Lord; lightnings and clouds, bless the Lord.\n\n10. Let the earth bless the Lord; let it praise and exult Him above all for ever.\n\n11. Mountains and hills, bless the Lord; everything growing from the earth, bless the Lord.\n\n12. Seas and rivers, bless the Lord; fountains, bless the Lord\n\n13. Whales and all that move in the waters, bless the Lord; all you fowls of the air, bless the Lord.\n\n14. All you beasts and cattle, bless the Lord; sons of men, bless the Lord.\n\n15. Israel, bless the Lord; praise and exalt Him above all forever.\n\n16. Priests of the Lord, bless the Lord; servants of the Lord, bless the Lord.\n\n17. Spirits and souls of the just, bless the Lord; holy men of humble heart, bless the Lord.\n\n18. Ananias, Azarias and Misaël, bless the Lord; praise and exalt Him above all for ever.\n\n19. Let us bless the Father and the Son, with the Holy Spirit; let us praise and exalt Him above all for ever.\n\n20. Blessed are You, Lord, in the firmament of heaven; and worthy of praise, and glorious above all for ever.",
+				"es": "1. Bendecid al Señor, todas las obras del Señor; alabadle y ensalzadle por siempre.\n\n2. Bendecid, cielos, al Señor, bendecid al Señor, ángeles del Señor.\n\n3. Bendecid al Señor todas las aguas que hay sobre los cielos; bendiga todo poder al Señor.\n\n4. Bendecid al Señor, sol y luna; estrellas del cielo, bendecid al Señor.\n\n5. Bendecid al Señor, toda la lluvia y el rocío; todos los vientos, bendecid al Señor.\n\n6. Bendecid al Señor, el fuego y el calor; frío y calor, bendecid al Señor.\n\n7. Bendecid al Señor, rocíos y escarchas; hielo y frío, bendecid al Señor.\n\n8. Bendecid al Señor, hielos y nieves; noches y días, bendecid al Señor.\n\n9. Bendecid al Señor, luz y tinieblas; rayos y nubes, bendecid al Señor.\n\n10. Bendiga la tierra al Señor; alábele y ensálcele para siempre.\n\n11. Bendecid al Señor, montes y collados; todas las cosas que germinan en la tierra, bendecid al Señor.\n\n12. Bendecid al Señor, mares y ríos; fuentes, bendecid al Señor.\n\n13. Bendecid al Señor, ballenas y todo lo que vive en el mar; todas las aves del cielo, bendecid al Señor.\n\n14. Bendecid al Señor, todos los animales y ganados; bendecid, hijos de los hombres, al Señor.\n\n15. Bendice, Israel al Señor; alabadle y ensalzadle por siempre.\n\n16. Bendecid al Señor, sacerdotes del Señor; bendecid al Señor, siervos del Señor.\n\n17. Bendecid al Señor, espíritus y almas de los justos; santos y humildes de corazón, bendecid al Señor.\n\n18. Bendecid al Señor, Ananías, Azarías y Misael; alabadle y ensalzadle para siempre.\n\n19. Bendigamos al Padre y al Hijo con el Espíritu Santo; alabémosle y ensalcémosle para siempre.\n\n20. Bendito eres en el firmamento del cielo, y loable y glorioso por siempre.",
+				"fr": "1. Toutes les œuvres de Dieu, bénissez le Seigneur ; louez-le, exaltez-le à jamais.\n\n2. Cieux, bénissez le Seigneur ; Anges de Dieu, bénissez le Seigneur.\n\n3. Flots placés par delà les cieux, bénissez le Seigneur ; toutes les puissances du ciel, bénissez le Seigneur.\n\n4. Soleil et lune, bénissez le Seigneur ; étoiles du ciel, bénissez le Seigneur.\n\n5. Toutes les pluies et les rosées, bénissez le Seigneur ; tous les vents, bénissez le Seigneur.\n\n6. Feux et flammes, bénissez le Seigneur ; froid et chaleur, bénissez le Seigneur.\n\n7. Givres et rosées, bénissez le Seigneur ; frimas et gelées, bénissez le Seigneur.\n\n8. Neiges et glaces, bénissez le Seigneur ; nuits et jours, bénissez le Seigneur.\n\n9. Ombres et lumières, bénissez le Seigneur ; éclairs et nuées, bénissez le Seigneur.\n\n10. Que la terre bénisse le Seigneur ; qu’elle le loue et l’exalte à jamais.\n\n11. Monts et collines, bénissez le Seigneur ; toutes les plantes qui germent sur la terre, bénissez le Seigneur.\n\n12. Fleuves et mers, bénissez le Seigneur ; sources, bénissez le Seigneur.\n\n13. Baleines et habitants des flots, bénissez le Seigneur ; tous les oiseaux du ciel, bénissez le Seigneur.\n\n14. Bêtes et troupeaux, bénissez le Seigneur ; enfants des hommes, bénissez le Seigneur.\n\n15. Israël, bénis le Seigneur ; loue-le, exalte-le à jamais.\n\n16. Prêtres du Seigneur, bénissez le Seigneur ; serviteurs du Seigneur, bénissez le Seigneur.\n\n17. Esprits et âmes des justes, bénissez le Seigneur ; saints et humbles de cœur, bénissez le Seigneur.\n\n18. Ananie, Azarie, Misaël, bénissez le Seigneur ; louez-le, exaltez-le à jamais.\n\n19. Bénissons le Père et le Fils avec le Saint-Esprit ; louons-le, exaltons-le à jamais.\n\n20. Tu es béni, Seigneur, au firmament du ciel ; digne d’être loué et glorifié à jamais.",
+				"hr": "1. Sva djela Gospodnja, blagoslivljajte Gospoda, hvalite i uzvisujte ga dovijeka.\n\n2. Anđeli Gospodnji, blagoslivljajte Gospoda. Nebesa blagoslivljajte Gospoda.\n\n3. Sve vode nad nebesima, blagoslivljajte Gospoda. Sve sile Gospodnje, blagoslivljajte Gospoda.\n\n4. Sunce i mjeseče, blagoslivljajte Gospoda. Zvijezde nebeske, blagoslivljajte Gospoda.\n\n5. Sve kiše i rose, blagoslivljajte Gospoda. Svi vjetrovi, blagoslivljajte Gospoda.\n\n6. Ognju i žare, blagoslivljajte Gospoda. Studeni i vrućino, blagoslivljajte Gospoda.\n\n7. Rose i mrazovi, blagoslivljajte Gospoda. Lede i studeni, blagoslivljajte Gospoda.\n\n8. Tuče i snjegovi, blagoslivljajte Gospoda. Noći i dani, blagoslivljajte Gospoda.\n\n9. Svijetlo i tmino, blagoslivljajte Gospoda. Munje i oblaci, blagoslivljajte Gospoda.\n\n10. Zemlja neka blagoslivlje Gospoda: neka ga hvali i uzvisuje dovijeka.\n\n11. Bregovi i brežuljci, blagoslivljajte Gospoda. Sve raslinstvo na zemlji, blagoslivljaj Gospoda.\n\n12. Izvori, blagoslivljajte Gospoda. Mora i rijeke, blagoslivljajte Gospoda.\n\n13. Kitovi i sve što se miče u vodama, blagoslivljajte Gospoda. Ptice nebeske,\nblagoslivljajte Gospoda.\n\n14. Sve divlje i pitome životinje, blagoslivljajte Gospoda. Sinovi ljudski, blagoslivljajte Gospoda.\n\n15. Izraele, blagoslivljaj Gospoda: hvali i uzvisuj ga dovijeka.\n\n16. Svećenici Gospodnji, blagoslivljajte Gospoda. Sluge Gospodnje, blagoslivljajte Gospoda.\n\n17. Dusi i duše pravednih, blagoslivljajte Gospoda. Sveti i ponizni srcem, blagoslivljajte Gospoda.\n\n18. Hananijo, Azarjo, Mišaele, blagoslivljajte Gospoda: hvalite i uzvisujte ga\ndovijeka.\n\n19. Blagoslivljajmo Oca i Sina sa Svetim Duhom, hvalimo i uzvisujmo ga dovijeka.\n\n20. Blagoslovljen budi Gospodine, na svodu nebeskom, hvaljen i slavljen dovijeka.",
+				"hu": "1. Áldja az Urat az Úr minden műve, dicsérje és magasztalja örökkön-örökké.\n\n2. Áldjátok az Urat, az Úr angyalai mindnyájan; áldjátok az Urat, ti, egek.\n\n3. Áldjátok az Urat, ti, vizek az égbolt fölött; áldjátok az Urat, az Úr minden erői.\n\n4. Áldjátok az Urat, nap és holdvilág; áldjátok az Urat, égi csillagok.\n\n5. Áldjátok az Urat, záporeső és harmat; áldjátok az Urat, ti, viharok.\n\n6. Áldjátok az Urat, tűz és forróság; áldjátok az Urat, hideg és hőség.\n\n7. Áldjátok az Urat, dér és harmat; áldjátok az Urat, fagy és nagy hideg.\n\n8. Áldjátok az Urat, jég és hóesés; áldjátok az Urat, éjek és nappalok.\n\n9. Áldjátok az Urat, világosság és sötétség; áldjátok az Urat, villámok és fellegek.\n\n10. Áldja az Urat, a szárazföld, dicsérje és magasztalja örökké.\n\n11. Áldjátok az Urat, hegyek és halmok; áldjátok az Urat, mind, amik a földből sarjadtok.\n\n12. Áldjátok az Urat, ti, források; áldjátok az Urat, folyamok és tengerek.\n\n13. Áldjátok az Urat, tengeri lények, s minden, ami mozog a vízben; áldjátok az Urat, égi madarak.\n\n14. Áldjátok az Urat, vadak és háziállatok; áldjátok az Urat, ti, emberek fiai.\n\n15. Áldja az Urat, Izrael, dicsérje és magasztalja örökké.\n\n16. Áldjátok az Urat, ti, az Úr papjai; áldjátok az Urat, ti, az Úr szolgái.\n\n17. Áldjátok az Urat, igaz szellemek és lelkek; áldjátok az Urat, szentek és alázatos szívűek.\n\n18. Áldjátok az Urat, Hananja, Azarja és Misael; dicsérjétek és magasztaljátok.\n\n19. Áldjuk az Atyát és a Fiút a Szentlélekkel együtt; dicsérjük és magasztaljuk örökké.\n\n20. Áldott vagy, Urunk, az égbolt fölött, dicséretre méltó, dicsőséges és magasztos örökké.",
+				"it": "1. Benedite, opere tutte del Signore, il Signore; lodàtelo ed esaltàtelo nei secoli.\n\n2. Benedite, Angeli del Signore, il Signore; benedite, cieli, il Signore.\n\n3. Benedite, acque tutte che siete sopra i cieli, il Signore; benedite, potenze tutte del Signore, il Signore.\n\n4. Benedite, sole e luna, il Signore; benedite, stelle del cielo, il Signore.\n\n5. Benedite, piogge e rugiade tutte il Signore; benedite, venti tutti, il Signore.\n\n6. Benedite, fuoco e calore, il Signore; benedite, freddo e caldo, il Signore.\n\n7. Benedite, rugiade e brina, il Signore: benedite, gelo e freddo, il Signore.\n\n8. Benedite, ghiacci e nevi, il Signore; benedite, notti e giorni, il Signore.\n\n9. Benedite, luce e tenebre, il Signore; benedite, fòlgori e nubi, il Signore.\n\n10. Benedica la terra, il Signore, lo lodi e lo esalti nei secoli.\n\n11. Benedite, monti e colline, il Signore; benedite, creature tutte che germinate sulla terra, il Signore.\n\n12. Benedite, sorgenti, il Signore; benedite, mari e fiumi, il Signore.\n\n13. Benedite, mostri marini e quanto si muove nelle acque, il Signore; benedite, uccelli tutti del cielo, il Signore.\n\n14. Benedite, bestie e greggi tutte, il Signore; benedite, figli degli uomini, il Signore.\n\n15. Benedica Israele, il Signore, lo lodi e lo esalti nei secoli.\n\n16. Benedite, sacerdoti del Signore, il Signore; benedite, servi del Signore, il Signore.\n\n17. Benedite, spiriti e anime dei giusti, il Signore; benedite, pii e umili di cuore, il Signore.\n\n18. Benedite, Anania, Azaria e Misaele, il Signore, lodatelo ed esaltàtelo nei secoli.\n\n19. Benediciamo il Padre e il Figlio con lo Spirito Santo, lodiamolo ed esaltiàmolo nei secoli.\n\n20. Benedetto sei tu nel firmamento del cielo, degno di lode e di gloria nei secoli.",
+				"la": "1. Benedícite, ómnia ópera Dómini, Dómino, laudáte et superexaltáte eum in sǽcula.\n\n2. Benedícite, cæli, Dómino, benedícite, ángeli Dómini, Dómino.\n\n3. Benedícite, aquæ omnes, quæ super cælos sunt, Dómino, benedícat omnis virtus, Dómino.\n\n4. Benedícite, sol et luna, Dómino, benedícite, stellæ cæli, Dómino.\n\n5. Benedícite, omnis imber et ros, Dómino, benedícite, omnes venti, Dómino.\n\n6. Benedícite, ignis et æstus, Dómino, benedícite, frigus et æstus, Dómino.\n\n7. Benedícite, rores et prúina, Dómino, benedícite, gelu et frigus, Dómino.\n\n8. Benedícite, glácies et nives, Dómino, benedícite, noctes et dies, Dómino.\n\n9. Benedícite, lux et ténebræ, Dómino, benedícite, fúlgura et nubes, Dómino.\n\n10. Benedícat terra Dóminum, laudet et superexáltet eum in sǽcula.\n\n11. Benedícite montes et colles, Dómino, benedícite, univérsa germinántia in terra, Dómino.\n\n12. Benedícite, mária et flúmina, Dómino, benedícite, fontes, Dómino.\n\n13. Benedícite, cete et ómnia, quæ movéntur in aquis, Dómino, benedícite, omnes vólucres cæli, Dómino.\n\n14. Benedícite, omnes béstiæ et pécora, Dómino, benedícite, fílii hóminum, Dómino.\n\n15. Bénedic, Ísraël, Dómino, laudáte et superexaltáte eum in sǽcula.\n\n16. Benedícite, sacerdótes Dómini, Dómino, benedícite, servi Dómini, Dómino.\n\n17. Benedícite, spíritus et ánimæ iustórum, Dómino, benedícite, sancti et húmiles corde, Dómino.\n\n18. Benedícite, Ananía, Azaría, Mísaël, Dómino, laudáte et superexaltáte eum in sǽcula.\n\n19. Benedicámus Patrem et Fílium cum Sancto Spíritu; laudémus et superexaltémus eum in sǽcula.\n\n20. Benedíctus es in firmaménto cæli et laudábilis et gloriósus in sǽcula.",
+				"pt-BR": "1. Obras do Senhor, bendizei todas o Senhor, louvai-O e exaltai-O para sempre.\n\n2. Céus, bendizei o Senhor, Anjos do Senhor, bendizei o Senhor.\n\n3. Águas que estais por cima dos céus, bendizei todas o Senhor; todos os poderes bendigam o Senhor.\n\n4. Sol e lua, bendizei o Senhor, estrelas do céu, bendizei o Senhor.\n\n5. Chuvas e orvalhos, bendizei o Senhor; e vós, todos os ventos, bendizei o Senhor.\n\n6. Fogo e calor, bendizei o Senhor; frio e calor, bendizei o Senhor.\n\n7. Orvalhos e geadas, bendizei o Senhor; gelo e frio, bendizei o Senhor.\n\n8. Gelos e neves, bendizei o Senhor; noites e dias, bendizei o Senhor.\n\n9. Luz e trevas, bendizei o Senhor; relâmpagos e nuvens, bendizei o Senhor.\n\n10. Que a terra bendiga o Senhor; louve-O e exalte-O para sempre.\n\n11. Montes e colinas, bendizei o Senhor; plantas que brotais da terra, bendizei o Senhor.\n\n12. Mares e rios, bendizei o Senhor; fontes, bendizei o Senhor.\n\n13. Cetáceos e animais que viveis nas águas, bendizei o Senhor; pássaros todos do céu, bendizei o Senhor.\n\n14. Animais selvagens e rebanhos, bendizei o Senhor; filhos dos homens, bendizei o Senhor.\n\n15. Bendiga Israel o Senhor; louve-O e exalte-O para sempre.\n\n16. Sacerdotes do Senhor, bendizei o Senhor; servos do Senhor, bendizei o Senhor.\n\n17. Espíritos e almas dos justos, bendizei o Senhor; santos e humildes de coração, bendizei o Senhor.\n\n18. Ananias, Azarias e Misael, bendizei o Senhor; louvai-O e exaltai-O para sempre.\n\n19. Bendigamos o Pai, o Filho e o Espírito Santo; louvemo-Lo e exaltemo-Lo para sempre.\n\n20. Senhor, Vós sois bendito no firmamento dos céus; sois digno de louvor e glória para sempre.",
+				"pt-PT": "1. Obras do Senhor, bendizei todas o Senhor, louvai-O e exaltai-O para sempre.\n\n2. Céus, bendizei o Senhor, Anjos do Senhor, bendizei o Senhor.\n\n3. Águas que estais sobre os céus, bendizei o Senhor, poderes todos do Senhor, bendizei o Senhor.\n\n4. Sol e lua, bendizei o Senhor, estrelas do céu, bendizei o Senhor.\n\n5. Chuvas e orvalhos, bendizei o Senhor, todos os ventos, bendizei o Senhor.\n\n6. Fogo e calor, bendizei o Senhor, frio e geada, bendizei o Senhor.\n\n7. Orvalhos e gelos, bendizei o Senhor, frios e aragens, bendizei o Senhor.\n\n8. Gelos e neves, bendizei o Senhor, noites e dias, bendizei o Senhor.\n\n9. Luz e trevas, bendizei o Senhor, relâmpagos e nuvens, bendizei o Senhor.\n\n10. Bendiga a terra o Senhor, louve-O e exalte-O para sempre.\n\n11. Montes e colinas, bendizei o Senhor, tudo o que germina na terra bendiga o Senhor.\n\n12. Fontes, bendizei o Senhor, mares e rios, bendizei o Senhor.\n\n13. Monstros e animais marinhos, bendizei o Senhor, aves do céu, bendizei o Senhor.\n\n14. Animais e rebanhos, bendizei o Senhor, homens, bendizei o Senhor.\n\n15. Bendiga Israel o Senhor, louve-O e exalte-O para sempre.\n\n16. Sacerdotes do Senhor, bendizei o Senhor, servos do Senhor, bendizei o Senhor.\n\n17. Espíritos e almas dos justos, bendizei o Senhor, santos e humildes de coração, bendizei o Senhor.\n\n18. Ananias, Azarias, Misael, bendizei o Senhor, louvai-O e exaltai-O para sempre.\n\n19. Bendigamos o Pai, o Filho e o Espírito Santo; louvemo-l'O e exaltemo-l'O para sempre.\n\n20. Bendito sejais, Senhor, no firmamento dos céus. A Vós, o louvor e a glória para sempre.",
+				"ro": "1. Binecuvântați toate lucrările Domnului pe Domnul, lăudați-L și-L preaînălțați pe El în veci.\n\n2. Binecuvântați, ceruri, pe Domnul, binecuvântați, îngeri, pe Domnul.\n\n3. Binecuvântați, ape și toate cele mai presus de cer, pe Domnul, binecuvântați, toate puterile Domnului.\n\n4. Binecuvântați, soare și luna, pe Domnul, binecuvântați, stelele cerului, pe Domnul.\n\n5. Binecuvântați, toată ploaia și roua, pe Domnul, binecuvântați, toate vânturile, pe Domnul.\n\n6. Binecuvântați, foc și căldură, pe Domnul, binecuvântați, frig și căldură, pe Domnul.\n\n7. Binecuvântați, rouă și zăpadă, pe Domnul, binecuvântați, gheată și ger, pe Domnul.\n\n8. Binecuvântați, brume și zăpezi, pe Domnul, binecuvântați, nopți și zile, pe Domnul.\n\n9. Binecuvântați, lumină și întuneric; binecuvântați, fulgere și nori, pe Domnul.\n\n10. Binecuvântează, pământule, pe Domnul, laudă-L și-L preaînalță în veci.\n\n11. Binecuvântați, munți și dealuri, pe Domnul, binecuvântați, toate cele ce răsăriți pe pământ, pe Domnul.\n\n12. Binecuvântați, mări și râuri, pe Domnul, binecuvântați, izvoare, pe Domnul.\n\n13. Binecuvântați, chiți și toate cele ce se mișcă în ape, pe Domnul, binecuvântați, toate păsările cerului, pe Domnul.\n\n14. Binecuvântați, toate fiarele și dobitoacele, pe Domnul, binecuvântați, voi fiii oamenilor, pe Domnul.\n\n15. Binecuvântează, Israel, pe Domnul, lăudați și-L preaînălțați pe El în veci.\n\n16. Binecuvântați, preoți, pe Domnul, binecuvântați, slujitori, pe Domnul.\n\n17. Binecuvântați, voi duhuri și suflete ale drepților, pe Domnul, binecuvântați, voi cei sfinți și smeriți cu inima, pe Domnul.\n\n18. Binecuvântați, Anania, Azaria și Misael, pe Domnul, lăudați și-L preaînălțați pe El în veci.\n\n19. Să-L binecuvântăm pe Tatăl și pe Fiul și pe Duhul Sfânt, să-L lăudăm și să-L preaînălțăm în veci.\n\n20. Binecuvântat ești pe bolta cerului și prealăudat și preaslăvit în veci.",
+				"sk": "1. Dobrorečte Pánovi, všetky diela Pánove, chváľte a vyvyšujte ho naveky.\n\n2. Dobrorečte Pánovi, nebesá, dobrorečte Pánovi, anjeli Pánovi.\n\n3. Dobrorečte Pánovi, všetky vody, ktoré sú nad nebom, dobrorečte Pánovi, všetky mocnosti Pánove.\n\n4. Dobrorečte Pánovi, slnko a mesiac, dobrorečte Pánovi, hviezdy na nebi.\n\n5. Dobrorečte Pánovi, všetok dážď a rosa, dobrorečte Pánovi, všetky vetry.\n\n6. Dobrorečte Pánovi, oheň a horúčosť, dobrorečte Pánovi, zima a horúčosť.\n\n7. Dobrorečte Pánovi, rosa a mráz, dobrorečte Pánovi, mráz a zima.\n\n8. Dobrorečte Pánovi, ľad a sneh, dobrorečte Pánovi, noci a dni.\n\n9. Dobrorečte Pánovi, svetlo a tma, dobrorečte Pánovi, blesky a oblaky.\n\n10. Dobroreč Pánovi, zem, chváľ a vyvyšuj ho naveky!\n\n11. Dobrorečte Pánovi, vrchy a kopce, dobrorečte Pánovi, všetky plody zeme.\n\n12. Dobrorečte Pánovi, pramene, dobrorečte Pánovi, moria a rieky.\n\n13. Dobrorečte Pánovi, veľryby a všetko, čo sa hmýri vo vode, chváľte a vyvyšujte ho naveky!\n\n14. Dobrorečte Pánovi, všetka divina a zvieratá, dobrorečte Pánovi, synovia človeka.\n\n15. Dobroreč Pánovi Izrael, chváľ a vyvyšuj ho naveky.\n\n16. Dobrorečte Pánovi, kňazi Pánovi, dobrorečte Pánovi, služobníci Pánovi.\n\n17. Dobrorečte Pánovi, duchovia a duše spravodlivých, dobrorečte Pánovi, svätí a pokorní srdcom.\n\n18. Dobrorečte Pánovi, Ananiáš, Azariáš, Mizael, chváľte a vyvyšujte ho naveky.\n\n19. Dobrorečme Otcovi, Synovi a Duchu Svätému, chváľme a vyvyšujme ho naveky!\n\n20. Požehnaný si ty na klenbe nebies, velebený a plný slávy naveky",
+				"sl": "1. Slavíte Gospoda, vsa Gospodova dela; hvalíte in poveličujte ga na veke.\n\n2. Slavite Gospoda, Gospodovi angeli; nebesa, slavite Gospoda.\n\n3. Slavite Gospoda, vse vode nad nebom; vse Gospodove moči, slavite Gospoda.\n\n4. Slavita Gospoda, sonce in luna; zvezde na nebu, slavite Gospoda.\n\n5. Slavita Gospoda, dež in rosa; vsi vetrovi, slavite Gospoda.\n\n6. Slavita Gospoda, ogenj in vročina; mraz in pripeka, slavita Gospoda.\n\n7. Slavita Gospoda, rosa in slana; mraz in zima, slavita Gospoda.\n\n8. Slavita Gospoda, sneg in ledóvje; noči in dnevi, slavite Gospoda.\n\n9. Slavita Gospoda, tema in svetloba; bliski in oblaki, slavite Gospoda.\n\n10. Naj slaví zemlja Gospoda; hváli in poveličúj ga na veke.\n\n11. Slavite Gospoda, gore in hribi; vse rastline na zemlji, slavite Gospoda.\n\n12. Slavite Gospoda, studenci; morja in reke, slavite Gospoda.\n\n13. Slavite Gospoda, morske in vodne živali; vse ptice pod nebom, slavite Gospoda.\n\n14. Slavite Gospoda, vse zveri in živina; vsi ljudje, slavite Gospoda.\n\n15. Naj slaví božje ljudstvo Gospoda; hváli in poveličúj ga na veke.\n\n16. Slavite Gospoda, Gospodovi duhovniki; Gospodovi služabniki, slavite Gospoda.\n\n17. Slavite Gospoda, duhovi in duše pravičnih; sveti in v srcu ponižni, slavite Gospoda.\n\n18. Slavite Gospoda, Ananija, Azarija, Misael; hvalite in poveličujte ga na veke.\n\n19. Slavimo Očeta in Sina s Svetim Duhom; hvalimo in poveličujmo ga na veke.\n\n20. Gospod, slavljen si na nebesni višavi; hvale vreden in slaven na veke.",
+				"sv": "1. Prisa Herren, alla hans verk, * lovsjung och upphöj honom i evighet.\n\n2. Prisa Herren, ni Herrens himlar, * prisa Herren, ni hans änglar.\n\n3. Prisa Herren, allt vatten ovan himlen, * prisa Herren i hans höga himmel.\n\n4. Prisa Herren, sol och måne, * prisa Herren, himlens stjärnor,\n\n5. Prisa Herren, regn och dagg, * prisa Herren, alla vindar.\n\n6. Prisa Herren, eld och solglöd. * prisa Herren, köld och hetta.\n\n7. Prisa Herren, daggdroppar och rimfrost, * prisa Herren, frost och köld.\n\n8. Prisa Herren, isar och snöflingor, * prisa Herren, nätter och dagar.\n\n9. Prisa Herren, ljus och mörker, * prisa Herren, blixtar och moln.\n\n10. Prisa Herren, du jord, * lovsjung och upphöj honom i evighet.\n\n11. Prisa Herren, berg och höjder, * prisa Herren, allt som växer på marken.\n\n12. Prisa Herren, hav och floder, * prisa Herren, alla källor.\n\n13. Prisa Herren, valar och allt som rör sig i vattnet, * prisa Herren, alla himlens fåglar.\n\n14. Prisa Herren, alla vilda och tama djur, * prisa Herren, ni människobarn.\n\n15. Prisa Herren, Israel, * lovsjung och upphöj honom i evighet.\n\n16. Prisa Herren, ni hans präster, * prisa Herren, ni hans tjänare.\n\n17. Prisa Herren, rättfärdiga själar och andar, * prisa Herren, ni heliga med ödmjuka hjärtan.\n\n18. Prisa Herren, Hananja, Asarja och Mishael, * lovsjung och upphöj honom i evighet.\n\n19. Låt oss prisa Fadern och Sonen och den Helige Ande, * låt oss lova och upphöja Honom i evighet.\n\n20. Välsignad är du i Himmelens fäste * och lovvärd och härlig i evighet."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"ca": "Aquí no es diu Glòria, ni Amén.",
+				"da": "Her siges hverken Ære være Faderen, eller Amen.",
+				"en-US": "Neither the Glory Be nor Amen is said here.",
+				"es": "Aquí no se dice Gloria, ni Amén.",
+				"fr": "on ne dit ni Gloria, ni Amen.",
+				"hr": "Ovdje ne kažemo ni Slava Ocu, ni Amen.",
+				"hu": "Itt elmarad a Dicsőség és az Ámen.",
+				"it": "non si dice il Gloria al Padre, né l’Amen.",
+				"la": "Hic non dícitur Glória Patri, neque Amen.",
+				"pt-BR": "Aqui não se reza o Glória, nem se diz Amém.",
+				"pt-PT": "Aqui não se reza o Glória, nem se diz Ámen.",
+				"ro": "Aici nu se spune Slavă, nici Amin.",
+				"sl": "Tukaj ne dodamo Slava Očetu niti amen.",
+				"sv": "Här säger man varken Gloria, eller Amen."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Psalmus 150",
+				"da": "Salme 150",
+				"en-US": "Psalm 150",
+				"es": "Psalmus 150",
+				"fr": "Psaume 150",
+				"hr": "Psalam 150",
+				"hu": "150. zsoltár",
+				"it": "Salmo 150",
+				"la": "Psalmus 150",
+				"pt-BR": "Salmo 150",
+				"pt-PT": "Psalmus 150",
+				"ro": "Psalm 150",
+				"sk": "Žalm 150",
+				"sl": "Psalm 150",
+				"sv": "Psalm 150"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "1. Lloeu Déu al seu santuari, lloeu-lo al baluard del firmament.\n\n2. Lloeu-lo per les seves gestes, lloeu-lo per la seva grandesa.\n\n3. Lloeu-lo al so dels corns, lloeu-lo amb arpes i lires, lloeu-lo amb tambors i danses.\n\n4. Lloeu-lo al so de flautes i corda.\n\n5. Lloeu-lo amb címbals sonors, lloeu-lo amb címbals triomfants: que lloï el Senyor tot el que respira.\n\nGlòria al Pare i al Fill i a l’Esperit Sant.\n\nCom era al principi, ara i sempre, i pels segles dels segles. Amén.\n\nAntífona. Cantem l'himne dels tres joves, que els Sants cantaven en el forn encès, lloant el Senyor (T. P. Al·leluia).",
+				"da": "1. Pris Gud i hans helligdom, * pris ham i hans høje himmel.\n\n2. Pris ham for hans mægtige gerninger, * pris ham for hans vældige storhed.\n\n3. Pris ham med hornstød, * pris ham med harpe og lyre.\n\n4. Pris ham med tamburin og dans, * pris ham med strengespil og fløjte.\n\n5. Pris ham med klingende cymbler, † pris ham med jublende cymbler. * Alt som lever og ånder, skal prise Herren.\n\nÆre være Faderen og Sønnen og den Hellige Ånd.\n\nSom det var i begyndelsen, nu er og skal være, fra evighed til evighed. Amen.\n\nAntifon. Lad os synge de tre unge mænds lovsang, som de hellige sang i den brændende ovn til Herrens lov og pris (I påsketiden: Halleluja).",
+				"en-US": "1. Praise the Lord in his holy place, praise Him in his mighty heavens.\n\n2. Praise Him for his powerful deeds, praise his surpassing greatness.\n\n3. O praise Him with sound of trumpet, praise Him with lute and harp.\n\n4. Praise Him with timbrel and dance, praise Him with strings and pipes.\n\n5. O praise Him with resounding cymbals, praise Him with clashing of cymbals. Let everything that lives and that breathes give praise to the Lord\n\nGlory be to the Father, and to the Son, and to the Holy Spirit.\n\nAs it was in the beginning, is now, and ever shall be, world without end. Amen.\n\nAntiphon. Let us sing the hymn of the three children, which these holy ones sang of old in the fiery furnace, giving praise to the Lord (Easter Time. Alleluia).",
+				"es": "1. Alabad al Señor en su santuario; alabadle en su augusto firmamento.\n\n2. Alabadle por sus grandiosas obras; alabadle por su inmensa majestad.\n\n3. Alabadle con sones de trompetas; alabadle con salterio y cítara.\n\n4. Alabadle tañendo tímpanos y cantando a coro; alabadle con instrumentos de cuerda y voces de órgano.\n\n5. Alabadle con címbalos resonantes, alabadle con címbalos de alegría: todo espíritu alabe al Señor.\n\nGloria al Padre y al Hijo y al Espíritu Santo.\n\nComo era en el principio, ahora y siempre, por los siglos de los siglos. Amén.\n\nAntífona. Cantemos el himno de los tres jóvenes, el que los santos cantaban en el horno encendido alabando al Señor (T. P. Aleluya).",
+				"fr": "1. Louez le Seigneur dans son sanctuaire, louez-le au firmament de sa puissance.\n\n2. Louez-le pour ses hauts faits ; louez-le pour sa grandeur immense.\n\n3. Louez-le au son de la trompette ; louez-le sur la harpe et la cithare.\n\n4. Louez-le par la danse au son des tambourins ; louez-le sur les cordes et le fifre.\n\n5. Louez-le sur les cymbales sonores ; louez-le sur les cymbales de joie, tout ce qui respire loue le Seigneur.\n\nGloire au Père, et au Fils, et au Saint-Esprit.\n\nComme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.\n\nAntienne. Chantons l’hymne que chantaient les trois enfants dans la fournaise ardente, en bénissant le Seigneur (T. P. Alléluia).",
+				"hr": "1. Hvalite Boga u svetištu njegovu, slavite ga u veličanstvu svoda nebeskog.\n\n2. Hvalite ga zbog silnih djela njegovih, slavite ga zbog beskrajne veličine njegove.\n\n3. Hvalite ga zvucima roga, slavite ga harfom i citrom.\n\n4. Hvalite ga igrom i bubnjem, slavite ga glazbalima zvonkim i frulom.\n\n5. Hvalite ga cimbalima zvučnim, slavite ga cimbalima gromkim. Sve što god\ndiše, Gospodina neka slavi.\n\nSlava Ocu i Sinu i Duhu Svetomu\n\nKako bijaše na početku tako i sada i vazda i u vijeke vjekova. Amen.\n\nAntifona. Pjevajmo himan trojice mladića, koji pjevaju sveti u ognjenoj peći, blagoslivljajući Gospodina (V. V. Aleluja).",
+				"hu": "1. Dicsérjétek az Urat szentélyében; dicsérjétek a hatalmas égboltozaton.\n\n2. Dicsérjétek hatalmas tetteiért; dicsérjétek, mert nagysága végtelen.\n\n3. Dicsérjétek őt harsonaszóval; dicsérjétek lanttal, citerával.\n\n4. Dicsérjétek dobbal és körtánccal; dicsérjétek citerával és fuvolával.\n\n5. Dicsérjétek őt zengő cimbalommal; dicsérjétek búgó cimbalom hangjával: minden lélek az Urat dicsérje.\n\nDicsőség az Atyának, a Fiúnak és a Szentléleknek.\n\nMiképpen kezdetben, most és mindörökké. Ámen.\n\nAntifóna: Énekeljük a három ifjú énekét, melyet a szent ifjak a tüzes kemencében énekeltek az Urat áldva. (H.i. Alleluja.)",
+				"it": "1. Lodate il Signore nel suo santuario; lodàtelo nel firmamento della sua potenza.\n\n2. Lodatelo per i suoi prodigi, lodàtelo per la sua immensa grandezza.\n\n3. Lodatelo con squilli di tromba; lodàtelo con l’arpa e la cetra.\n\n4. Lodatelo col timpano e danze; lodatelo sulle corde e con i fiati.\n\n5. Lodatelo con cémbali sonanti, lodatelo con cémbali squillanti; ogni vivente dia lode al Signore.\n\nGloria al Padre, e al Figlio, e allo Spirito Santo,\n\ncome era in principio e ora e sempre, e nei secoli dei secoli. Così sia.\n\nAntifona. Cantiamo l’inno che i tre santi giovani cantarono nella fornace ardente, benedicendo il Signore. (Tempo pasquale Alleluia).",
+				"la": "1. Laudáte Dóminum in sanctuário eius, laudáte eum in firmaménto virtútis eius.\n\n2. Laudáte eum in magnálibus eius, laudáte eum secúndum multitúdinem magnitúdinis eius.\n\n3. Laudáte eum in sono tubæ, laudáte eum in psaltério et cíthara.\n\n4. Laudáte eum in týmpano et choro, laudáte eum in chordis et órgano.\n\n5. Laudáte eum in cýmbalis benesonántibus, laudáte eum in cýmbalis iubilatiónis: omne quod spirat, laudet Dóminum.\n\nGlória Patri, et Fílio, et Spirítui Sancto.\n\nSicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.\n\nAntiphona. Trium puerórum cantémus hymnum, quem cantábant sancti in camíno ignis, benedicéntes Dóminum (T. P. Allelúia).",
+				"pt-BR": "1. Louvai o Senhor no seu santuário, louvai-O no seu augusto firmamento.\n\n2. Louvai-O por suas obras grandiosas, louvai-O por sua excelsa majestade.\n\n3. Louvai-O ao som da trombeta, louvai-O com o saltério e a cítara.\n\n4. Louvai-O com tímpanos e danças, louvai-O com a harpa e a flauta.\n\n5. Louvai-O com címbalos sonoros, louvai-O com címbalos de júbilo: tudo o que respira louve o Senhor\n\nGlória ao Pai e ao Filho e ao Espírito Santo\n\nComo era no princípio, agora e sempre. Amém.\n\nAntífona. Cantemos o hino dos três jovens, o mesmo que esses santos cantavam na fornalha ardente bendizendo o Senhor (T. P. Aleluia).",
+				"pt-PT": "1. Louvai o Senhor no seu santuário, louvai-O no seu majestoso firmamento.\n\n2. Louvai-O pela grandeza das suas obras, louvai-O pela sua infinita majestade.\n\n3. Louvai-O ao som da trombeta, louvai-O ao som da lira e da cítara.\n\n4. Louvai-O com o tímpano e com a dança, louvai-O ao som da harpa e da flauta.\n\n5. Louvai-O com címbalos sonoros, louvai-O com címbalos retumbantes. Tudo quanto respira louve ao Senhor.\n\nGlória ao Pai, ao Filho e ao Espírito Santo.\n\nComo era no princípio, agora e sempre. Ámen.\n\nAntífona. Cantemos o cântico que os três jovens cantavam na fornalha ardente, louvando o Senhor (T. P. Aleluia).",
+				"ro": "1. Lăudați-L pe Domnul în lăcașul Său sfânt, lăudați-L în firmamentul puterii Sale.\n\n2. Lăudați-L pentru faptele Sale minunate, lăudați-L, pentru măreția Sa nesfârșită.\n\n3. Lăudați-L cu sunete de trompete, lăudați-L cu chitară și cu harpă.\n\n4. Lăudați-L cu timpane și cu dansuri, lăudați-L cu instrumente de suflat și coarde.\n\n5. Lăudați-L cu chimvale plăcut sunătoare, lăudați-L cu chimvale de veselie: să-L laude pe Domnul toată suflarea.\n\nSlavă Tatălui și Fiului și Sfântului Duh.\n\nPrecum era la început și acum și pururea și în vecii vecilor. Amin.\n\nAntifon. Să cântăm imnul celor trei tineri ce cântau sfinții în cuptorul focului (T. P. Aleluia).",
+				"sk": "1. Chváľte Pána v jeho svätyni, chváľte ho na jeho vznešenej oblohe.\n\n2. Chváľte ho za jeho činy mohutné, chváľte ho za jeho nesmiernu velebnosť.\n\n3. Chváľte ho zvukom poľnice, chváľte ho harfou a citarou.\n\n4. Chváľte ho bubnom a tancom, chváľte ho lýrou a flautou.\n\n5. Chváľte ho ľubozvučnými cimbalmi, chváľte ho jasavými cimbalmi! Všetko, čo dýcha, nech chváli Pána.\n\nSláva Otcu i Synu i Duchu Svätému.\n\nAko bolo na počiatku, tak nech je i teraz i vždycky i na veky vekov. Amen.\n\nAntifóna.Spievajme chválospev troch mládencov, ktorýmchváliliBoha a dobrorečili Pánovi prechádzajúc sa uprostred plameňov.\n(V. Č. Aleluja).",
+				"sl": "1. Hvalíte Gospoda v njegovem svetišču; hvalíte ga na njegovem mogočnem nebesnem svodu.\n\n2. Hvalite ga v njegovih silnih delih; hvalite ga zaradi njegove neizmerne veličine.\n\n3. Hvalite ga z glasom roga; hvalite ga s harfo in citrami.\n\n4. Hvalite ga z bobnom in plesom; hvalite ga s strunami in flavto.\n\n5. Hvalite ga na cimbale zvočne, hvalite ga na cimbale milozvočne; vse, kar živi, naj hvali Gospoda.\n\nSlava Očetu in Sinu in Svetemu Duhu.\n\nKakor je bilo v začetku, tako zdaj in vselej in vekomaj. Amen.\n\nOdpev. Pojmo pesem treh mladeničev, ki so jo peli v ognjeni peči in slavili Gospoda (V. Č. Aleluja).",
+				"sv": "1. Prisa Gud i hans helgedom, * prisa honom i hans höga himmel.\n\n2. Prisa honom för hans mäktiga gärningar, * prisa honom för hans väldiga storhet.\n\n3. Prisa honom med hornstötar, * prisa honom med harpa och lyra.\n\n4. Prisa honom med tamburin och dans, * prisa honom med strängaspel och flöjt.\n\n5. Prisa honom med klingande cymbaler:† prisa honom med jublande cymbaler. * Allt som lever och andas skall prisa Herren.\n\nÄra vare Fadern och Sonen och den Helige Ande.\n\nSåsom det var av begynnelsen, nu är och skall vara, från evighet till evighet. Amen.\n\nAntifon. Låt oss sjunga de tre unga männens lovsång som de heliga sjöng i den brinnande ugnen till Herrens lov och pris (Påsktiden: Halleluja)."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"ca": "Tots es posen drets i qui dirigeix la pregària diu:",
+				"da": "Alle rejser sig, og den, som leder bønnen, siger:",
+				"en-US": "All stand and the person leading the prayer says:",
+				"es": "Todos se ponen de pie y quien dirige el rezo dice:",
+				"fr": "Tous se lèvent, et la personne qui dirige la prière dit :",
+				"hr": "Svi ustaju, a osoba koja predvodi molitvu kaže:",
+				"hu": "Mindnyájan felállnak, és az imádságot vezető ezt mondja:",
+				"it": "Tutti si alzano, e chi guida la preghiera dice:",
+				"la": "Omnes exsúrgunt, et qui preces moderátur dicit:",
+				"pt-BR": "Todos se levantam e quem dirige as orações diz:",
+				"pt-PT": "Todos se levantam e quem dirige a oração diz:",
+				"ro": "Toți stau în picioare și cel care conduce rugăciunea spune:",
+				"sk": "Všetci sa postavia. Kto vedie modlitbu, povie:",
+				"sl": "Vsi vstanejo. Ta, ki vodi molitev, nadaljuje:",
+				"sv": "Alla reser sig och den som leder bönen säger:"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "Senyor, tingueu pietat.",
+						"da": "Herre, forbarm dig.",
+						"en-US": "Lord have mercy.",
+						"es": "Señor, ten piedad.",
+						"fr": "Seigneur, prends pitié !",
+						"hr": "Gospodine, smiluj se.",
+						"hu": "Uram, irgalmazz.",
+						"it": "Signore, pietà.",
+						"la": "Kyrie, eléison.",
+						"pt-BR": "Senhor, tende piedade de nós.",
+						"pt-PT": "Senhor, tende piedade de nós.",
+						"ro": "Doamne, miluiește-ne.",
+						"sk": "Pane, zmiluj sa.",
+						"sl": "Gospod, usmili se.",
+						"sv": "Herre, förbarma dig."
+					},
+					"r": {
+						"ca": "Crist, tingueu pietat. Senyor, tingueu pietat.",
+						"da": "Kristus, forbarm dig. Herre, forbarm dig.",
+						"en-US": "Christ, have mercy. Lord, have mercy.",
+						"es": "Cristo, ten piedad. Señor, ten piedad.",
+						"fr": "Ô Christ, prends pitié ! Seigneur, prends pitié !",
+						"hr": "Kriste, smiluj se. Gospodine, smiluj se.",
+						"hu": "Krisztus, kegyelmezz. Uram, irgalmazz.",
+						"it": "Cristo, pietà. Signore, pietà.",
+						"la": "Christe, eléison. Kyrie, eléison.",
+						"pt-BR": "Cristo, tende piedade de nós. Senhor, tende piedade de nós.",
+						"pt-PT": "Cristo, tende piedade de nós. Senhor, tende piedade de nós.",
+						"ro": "Cristoase, miluiește-ne. Doamne, miluiește-ne.",
+						"sk": "Kriste, zmiluj sa. Pane, zmiluj sa.",
+						"sl": "Kristus, usmili se. Gospod, usmili se.",
+						"sv": "Kristus, förbarma dig. Herre, förbarma dig."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Parenostre.",
+				"da": "Fadervor ...",
+				"en-US": "Our Father.",
+				"es": "Padre nuestro.",
+				"fr": "Notre Père.",
+				"hr": "Oče naš.",
+				"hu": "Mi Atyánk...",
+				"it": "Padre nostro...",
+				"la": "Pater noster.",
+				"pt-BR": "Pai Nosso. *(em silêncio)*",
+				"pt-PT": "Pai-nosso. *(em silêncio)*",
+				"ro": "Tatăl nostru.",
+				"sk": "Otče náš...",
+				"sl": "Oče naš *(vsi nadaljujejo v tišini).*",
+				"sv": "Fader vår ..."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "No permeteu que nosaltres caiguem a la temptació.",
+						"da": "Og led os ikke i fristelse.",
+						"en-US": "And lead us not into temptation.",
+						"es": "No nos dejes caer en la tentación.",
+						"fr": "Et ne nous laisse pas entrer en tentation.",
+						"hr": "I ne uvedi nas u napast.",
+						"hu": "És ne vigy minket kísértésbe.",
+						"it": "...e non abbandonarci alla tentazione.",
+						"la": "Et ne nos indúcas in tentatiónem.",
+						"pt-BR": "E não nos deixeis cair em tentação.",
+						"pt-PT": "E não nos deixeis cair em tentação.",
+						"ro": "Și nu ne duce pe noi în ispită.",
+						"sk": "... a neuveď nás do pokušenia.",
+						"sl": "In ne vpelji nas v skušnjavo.",
+						"sv": "Och inled oss icke i frestelse."
+					},
+					"r": {
+						"ca": "Ans deslliureu-nos de qualsevol mal.",
+						"da": "Men fri os fra det onde.",
+						"en-US": "But deliver us from evil.",
+						"es": "Y líbranos del mal.",
+						"fr": "Mais délivre-nous du mal.",
+						"hr": "Nego izbavi nas od zla.",
+						"hu": "De szabadíts meg a gonosztól.",
+						"it": "ma liberaci dal male.",
+						"la": "Sed líbera nos a malo.",
+						"pt-BR": "Mas livrai-nos do mal.",
+						"pt-PT": "Mas livrai-nos do mal.",
+						"ro": "Ci ne mântuiește de cel rău.",
+						"sk": "Ale zbav nás zlého.",
+						"sl": "Temveč reši nas hudega.",
+						"sv": "Utan fräls oss från ondo."
+					}
+				},
+				{
+					"v": {
+						"ca": "Que us lloïn Senyor, les nostres obres.",
+						"da": "Herre, alt hvad du har skabt, skal takke dig.",
+						"en-US": "Let all your works praise You, Lord.",
+						"es": "Que te alaben, Señor, todas tus obras.",
+						"fr": "Que toutes tes œuvres te reconnaissent, Seigneur.",
+						"hr": "Neka te slave, Gospodine, sva djela tvoja.",
+						"hu": "Magasztaljon téged, Uram, minden alkotásod.",
+						"it": "Ti lodino, o Signore, tutte le tue opere.",
+						"la": "Confiteántur tibi, Dómine, ómnia ópera tua.",
+						"pt-BR": "Todas as Vossas obras Vos louvem, Senhor.",
+						"pt-PT": "Todas as Vossas obras Vos louvem, Senhor.",
+						"ro": "Să Te laude pe Tine, Doamne, toate lucrările Tale.",
+						"sk": "Nech Ťa vyznávajú, Pane, všetky tvoje diela.",
+						"sl": "Naj te hvalijo, Gospod, vsa tvoja dela.",
+						"sv": "Herre, allt du har skapat skall tacka dig."
+					},
+					"r": {
+						"ca": "I els vostres Sants us beneeixin.",
+						"da": "Og dine hellige skal lovsynge dig.",
+						"en-US": "And let your Saints bless You.",
+						"es": "Y que tus santos te bendigan.",
+						"fr": "Et que tes saints te bénissent.",
+						"hr": "I sveti tvoji neka te blagoslivljaju.",
+						"hu": "És szentjeid magasztaljanak téged.",
+						"it": "E i tuoi santi ti benedicano.",
+						"la": "Et Sancti tui benedícant tibi.",
+						"pt-BR": "E os Vossos santos Vos bendigam.",
+						"pt-PT": "E os Vossos santos Vos bendigam.",
+						"ro": "Și sfinții Tăi să Te binecuvânteze.",
+						"sk": "A tvoji svätí nech Ti dobrorečia.",
+						"sl": "Tvoji sveti naj te slavé.",
+						"sv": "Och dina heliga skall lovsjunga dig."
+					}
+				},
+				{
+					"v": {
+						"ca": "Gaudeixin els Sants a la glòria.",
+						"da": "De hellige skal juble i herlighed.",
+						"en-US": "Your saints shall rejoice in glory.",
+						"es": "Se regocijarán los santos en la gloria.",
+						"fr": "Les saints tressailliront dans ta gloire.",
+						"hr": "Neka kliču sveti u slavi.",
+						"hu": "Ujjonganak a szentek dicsőségben.",
+						"it": "I Santi esulteranno nella gloria.",
+						"la": "Exsultábunt sancti in glória.",
+						"pt-BR": "Os santos exultarão na glória.",
+						"pt-PT": "Os santos exultarão na glória.",
+						"ro": "Să tresalte de bucurie, în mărire, credincioșii Lui.",
+						"sk": "Nech sa vo chvále radujú svätí.",
+						"sl": "Sveti naj se radujejo v slavi.",
+						"sv": "De heliga skall jubla i härlighet."
+					},
+					"r": {
+						"ca": "Alegrin-se a les seves morades.",
+						"da": "De skal glæde sig i deres hvile.",
+						"en-US": "They shall rejoice in their resting place.",
+						"es": "Y se alegrarán en sus moradas.",
+						"fr": "Ils se réjouiront dans leur repos.",
+						"hr": "Neka se vesele u svojim ložnicama.",
+						"hu": "És örvendeznek nyugvóhelyükön.",
+						"it": "Si allieteranno nel loro riposo.",
+						"la": "Lætabúntur in cubílibus suis.",
+						"pt-BR": "E alegrar-se-ão nas suas moradas.",
+						"pt-PT": "E alegrar-se-ão nas suas moradas.",
+						"ro": "Să scoată strigăte de bucurie în așternutul lor.",
+						"sk": "Nech sa veselia vo svojich príbytkoch.",
+						"sl": "Naj se veselé v svojih domovih.",
+						"sv": "De skall glädja sig i sin vila."
+					}
+				},
+				{
+					"v": {
+						"ca": "No a nosaltres, Senyor, no a nosaltres.",
+						"da": "Ikke os, Herre, ikke os.",
+						"en-US": "Not unto us, Lord, not unto us.",
+						"es": "No a nosotros, Señor, no a nosotros.",
+						"fr": "Non pas à nous, Seigneur, non pas à nous.",
+						"hr": "Ne nama, Gospodine, ne nama.",
+						"hu": "Ne nekünk, Uram, ne nekünk.",
+						"it": "Non a noi, o Signore, non a noi.",
+						"la": "Non nobis, Dómine, non nobis.",
+						"pt-BR": "Não a nós, Senhor, não a nós.",
+						"pt-PT": "Não a nós, Senhor, não a nós.",
+						"ro": "Nu nouă, Doamne, nu nouă.",
+						"sk": "Nie naše meno, Pane, nie naše.",
+						"sl": "Ne nam, Gospod, ne nam.",
+						"sv": "Inte åt oss, Herre, inte åt oss."
+					},
+					"r": {
+						"ca": "Sinó al vostre nom sia la glòria.",
+						"da": "Men giv dit navn æren.",
+						"en-US": "But unto your name give glory.",
+						"es": "Sino a tu nombre da la gloria.",
+						"fr": "Mais à ton Nom, donne la gloire.",
+						"hr": "Nego Imenu svome slavu daj.",
+						"hu": "Hanem a te nevednek adj dicsőséget.",
+						"it": "Ma al nome tuo dà gloria.",
+						"la": "Sed nómini tuo da glóriam.",
+						"pt-BR": "Mas ao Vosso nome dai glória.",
+						"pt-PT": "Mas ao Vosso nome dai glória.",
+						"ro": "Ci numelui Tău dă mărire.",
+						"sk": "Ale svoje meno osláv.",
+						"sl": "Temveč svojemu imenu daj slavo.",
+						"sv": "Utan åt ditt namn ge äran."
+					}
+				},
+				{
+					"v": {
+						"ca": "Escolteu, Senyor la nostra pregària.",
+						"da": "Herre, hør min bøn.",
+						"en-US": "O Lord, hear my prayer.",
+						"es": "Señor, escucha mi oración.",
+						"fr": "Seigneur, exauce ma prière.",
+						"hr": "Gospodine, usliši molitvu moju.",
+						"hu": "Uram, hallgasd meg könyörgésemet.",
+						"it": "Signore, ascolta la mia preghiera.",
+						"la": "Dómine, exáudi oratiónem meam.",
+						"pt-BR": "Ouvi, Senhor, a minha oração.",
+						"pt-PT": "Ouvi, Senhor, a minha oração.",
+						"ro": "Doamne, ascultă rugăciunea mea.",
+						"sk": "Pane, vypočuj moju modlitbu.",
+						"sl": "Gospod, usliši mojo molitev.",
+						"sv": "Herre, hör min bön."
+					},
+					"r": {
+						"ca": "I el nostre clam arribi a vós.",
+						"da": "Og lad mit råb komme til dig.",
+						"en-US": "And let my cry come unto You.",
+						"es": "Y llegue a ti mi clamor.",
+						"fr": "Et que mon appel parvienne jusqu’à toi.",
+						"hr": "I vapaj moj k tebi da dođe.",
+						"hu": "És kiáltásom jusson eléd.",
+						"it": "E il mio grido giunga fino a te.",
+						"la": "Et clamor meus ad te véniat.",
+						"pt-BR": "E chegue a Vós o meu clamor.",
+						"pt-PT": "E o meu clamor chegue até Vós.",
+						"ro": "Și strigătul meu să ajungă la Tine.",
+						"sk": "A moje volanie nech príde k Tebe.",
+						"sl": "In moj klic naj pride k tebi.",
+						"sv": "Och låt mitt rop komma inför dig."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"ca": "Els sacerdots afegeixen:",
+				"da": "Præster tilføjer:",
+				"en-US": "Priests add:",
+				"es": "Los sacerdotes añaden:",
+				"fr": "Les prêtres ajoutent :",
+				"hr": "Svećenici dodaju:",
+				"hu": "A papok hozzáteszik:",
+				"it": "I sacerdoti aggiungono:",
+				"la": "Sacerdotes addunt:",
+				"pt-BR": "Os sacerdotes acrescentam:",
+				"pt-PT": "Os sacerdotes acrescentam:",
+				"ro": "Preoții adaugă:",
+				"sk": "Ak modlitbu vedie kňaz, povie:",
+				"sl": "Duhovnik doda:",
+				"sv": "Om en präst leder:"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "*El Senyor sigui amb vosaltres.*",
+						"da": "*Herren være med jer.*",
+						"en-US": "*The Lord be with you.*",
+						"es": "*El Señor esté con vosotros.*",
+						"fr": "*Le Seigneur soit avec vous.*",
+						"hr": "*Gospodin s vama.*",
+						"hu": "Az Úr legyen veletek.",
+						"it": "*Il Signore sia con voi.*",
+						"la": "*Dóminus vobíscum.*",
+						"pt-BR": "*O Senhor esteja convosco.*",
+						"pt-PT": "*O Senhor esteja convosco.*",
+						"ro": "*Domnul să fie cu voi.*",
+						"sk": "*Pán s vami.*",
+						"sl": "*Gospod z vami.*",
+						"sv": "*Herren vare med er.*"
+					},
+					"r": {
+						"ca": "*I amb el vostre esperit.*",
+						"da": "*Og med din ånd.*",
+						"en-US": "*And with your spirit.*",
+						"es": "*Y con tu espíritu.*",
+						"fr": "*Et avec votre esprit.*",
+						"hr": "*I s duhom tvojim*",
+						"hu": "És a te lelkeddel.",
+						"it": "*E con il tuo spirito.*",
+						"la": "*Et cum spíritu tuo.*",
+						"pt-BR": "*Ele está no meio de nós.*",
+						"pt-PT": "*Ele está no meio de nós.*",
+						"ro": "*Și cu duhul tău.*",
+						"sk": "*I s duchom tvojím.*",
+						"sl": "*In s tvojim duhom.*",
+						"sv": "*Och med din ande.*"
+					}
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Preguem",
+				"da": "Lad os bede",
+				"en-US": "Let us pray",
+				"es": "Oración",
+				"fr": "PRIONS",
+				"hr": "Pomolimo se",
+				"hu": "Könyörögjünk!",
+				"it": "Preghiamo",
+				"la": "Orémus",
+				"pt-BR": "Oremos",
+				"pt-PT": "Oremos",
+				"ro": "Să ne rugăm",
+				"sk": "Modlime sa",
+				"sl": "Molimo",
+				"sv": "Låt oss bedja"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, que féreu plàcides per als tres joves les flames del foc: concediu benignament als vostres servents que no ens abrusi la flama dels vicis.\n\nUs preguem, Senyor, que us digneu prevenir amb la vostra inspiració les nostres accions i arranjar-les amb el vostre auxili: a fi que tota oració i obra nostra tingui en Vós el seu principi, i emparada per Vós, arribi al seu terme.\n\nDéu Totpoderós, us preguem que apagueu les flames dels nostres vicis, com concedireu a sant Llorenç de vèncer l'incendi que el turmentava. Per Crist Senyor nostre.\n\n℟. Amén.",
+				"da": "Gud, du som stillede ildens flammer for de tre unge mænd: Skænk i din mildhed, at syndens flamme ikke fortærer os, dine tjenere.\n\nHerre, vi beder dig: Forekom vore handlinger med din indskydelse, og ledsag dem med din hjælp, så al vor bøn og gerning altid tager sin begyndelse i dig og ved dig fuldendes.\n\nVi beder dig, Herre: Giv, at vi må slukke syndens flammer, du som skænkede den hellige Laurentius nåde til at overvinde sine pinslers ild. Ved Kristus, vor Herre.\n\n℟. Amen.",
+				"en-US": "God, who did allay the flames of fire for three children, grant in your mercy that the flame of vice may not consume us your servants.\n\nDirect, we beseech You, Lord, our actions by your inspirations, and further them by your assistance: that every word and work of ours may begin always from You and by You be likewise ended.\n\nQuench in us, we beseech You, Lord, the flame of vice, even as You did enable blessed Lawrence to overcome his fire of sufferings. Through Christ our Lord.\n\n℟. Amen.",
+				"es": "Oh Dios, que mitigaste las llamas del fuego para los tres jóvenes, concédenos benignamente a tus siervos que no nos abrase la llama de los vicios.\n\nTe rogamos, Señor, que prevengas nuestras acciones con tu inspiración y que las acompañes con tu ayuda, para que así toda nuestra oración y obra comience siempre en ti, y por ti se concluya.\n\nDanos Señor, te pedimos, poder apagar las llamas de nuestros vicios. Tú que le concediste a san Lorenzo vencer el fuego que le atormentaba. Por Cristo nuestro Señor.\n\n℟. Amén.",
+				"fr": "Ô Dieu, qui as adouci pour les trois enfants les flammes de la fournaise, à nous, tes serviteurs, accorde, dans ta bonté, de ne pas être dévorés par les flammes des vices.\n\nQue ta grâce, Seigneur, inspire toutes nos actions et les soutienne jusqu’au bout, afin que notre prière et notre travail prennent toujours en toi leur source et reçoivent de toi leur achèvement.\n\nNous t’en prions, Seigneur, éteins en nous l’ardeur de nos vices, toi qui as donné à saint Laurent la force de surmonter le feu de son supplice. Par le Christ notre Seigneur.\n\n℟. Amen.",
+				"hr": "Bože, koji si trojici mladića ublažio plamene ognja, dopusti milostiv da nas, tvoje sluge, ne sažeže plamen poroka.\n\nDjela naša, molimo Gospodine, milošću svojom preteci i pomoću prati: da svaka naša molitva i radnja s tobom vazda započne i započeta da se s tobom dovrši.\n\nDaj nam, molimo Gospodine, ugasiti plamen naših poroka: ti si blaženom Lovri dao da nadvlada oganj svojih muka. Po Kristu Gospodinu našemu.\n\n℟. Amen.",
+				"hu": "Isten, aki a három ifjú számára megenyhítetted a tűzlángját: engedd kegyelmesen, hogy minket, a te szolgáidat, ne égessen meg a bűnök lángja.\n\nMinden tettünket kérünk, Urunk, sugallataiddal előzd meg és segítségeddel kísérd: hogy minden imádságunk és tettünk tőled induljon ki és megkezdve általad fejeződjék be.\n\nVétkeink lángját kérünk, oltsd el bennünk, Urunk, aki Szent Lőrincnek megengedted, hogy legyőzze a kínzó lángokat. Krisztus a mi Urunk által.\n\n℟. Ámen.",
+				"it": "O Dio, che ai tre giovani hai mitigato il calore della fornace: non permettere, te ne preghiamo, che i tuoi fedeli siano divorati dal fuoco delle passioni.\n\nIspira le nostre azioni, Signore, e accompagnale con il tuo aiuto, perché ogni nostra attività abbia sempre da te il suo inizio e in te il suo compimento.\n\nO Dio onnipotente, che hai dato a san Lorenzo la forza di sopportare le fiamme del suo supplizio, concedi a noi di spegnere il fuoco dei nostri vizi. Per Cristo nostro Signore.\n\n℟. Amen.",
+				"la": "Deus, qui tribus púeris mitigásti flammas ígnium, concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum.\n\nActiónes nostras, quǽsumus, Dómine, aspirándo prǽveni et adiuvándo proséquere: ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur.\n\nDa nobis, quǽsumus, Dómine, vitiórum nostrórum flammas extínguere; qui beato Lauréntio tribuísti tormentórum suórum incéndia superáre. Per Christum Dóminum nostrum.\n\n℟. Amen.",
+				"pt-BR": "Ó Deus, que suavizastes as chamas do fogo aos três jovens, concedei-nos, pela Vossa misericórdia, que não nos deixemos abrasar pelos vícios.\n\nNós vos rogamos, Senhor, que prepareis as nossas ações com a vossa inspiração, e as acompanheis com a vossa ajuda, a fim de que todos os nossos trabalhos e orações em Vós comecem sempre e convosco acabem.\n\nDai-nos, Senhor, a graça de extinguir o ardor dos vícios, Vós que concedestes a São Lourenço a virtude de vencer o fogo de seu martírio. Por Cristo Senhor Nosso.\n\n℟. Amém.",
+				"pt-PT": "Ó Deus, que suavizastes as chamas do fogo aos três jovens, concedei-nos, pela Vossa misericórdia, que não nos deixemos abrasar pelos vícios.\n\nInfundi, Senhor, a Vossa graça nas nossas ações e ajudai-nos com ela a terminá-las, a fim de que todos os nossos trabalhos e orações em Vós comecem e acabem sempre.\n\nDai-nos, Senhor, a graça de extinguir o ardor dos vícios. Vós, que concedestes a virtude ao bem-aventurado Lourenço de vencer o fogo do martírio. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.\n\n℟. Ámen.",
+				"ro": "Doamne, care ai atenuat flăcările focului pentru cei trei tineri, dă-ne, în mila Ta, că nouă, robii Tăi, să nu ne consumă flăcările viciilor.\n\nTe rugăm, Doamne, să inspiri faptele noastre și să ne ajuți să le împlinim, așa încât Tu să fii începutul și înfăptuitorul tuturor lucrărilor noastre.\n\nDă-ne Doamne, Te rugăm, să potolim flăcările viciilor noastre, precum i-ai dăruit Sfântului Laurențiu să învingă focul care-l chinuia. Prin Cristos, Domnul nostru.\n\n℟. Amin.",
+				"sk": "Bože, ktorý si pre troch mládencov zmiernil plamene ohňa: daj, aby v nás nevzplanul plameň neresti.\n\nOsvecuj nás svojím vnuknutím a sprevádzaj naše jednanie svojou pomocou, nech konáme všetko, od začiatku až do konca, v spojení s Tebou.\n\nUhas v nás, prosíme, Pane Bože, plamene našich nerestí, ako si dal svätému Vavrincovi, aby premohol bolesti svojho utrpenia. Skrze Krista, nášho Pána.\n\n℟. Amen.",
+				"sl": "O Bog, ki si trem mladeničem ublažil ognjene plamene, daj milostno, da nas, tvojih služabnikov, ne pogubi plamen strasti.\n\nNavdihuj, Gospod, naša dejanja in jih spremljaj s svojo pomočjo, da bomo vsako delo s teboj začeli in s teboj končali.\n\nGospod, ki si svetemu Lovrencu dal moč, da je premagal muke ognja, daj nam, da pogasimo plamene svojih grešnih nagnjenj. Po Kristusu, našem Gospodu.\n\n℟. Amen.",
+				"sv": "Gud, du som stillade eldens lågor för de tre unga männen, skänk i din mildhet att syndens lågor inte förtär oss, dina tjänare.\n\nHerre, förekom vår handling med din nåd och hjälp oss att fullborda den, så att allt vad vi gör tar sin början i dig och i dig får ett lyckosamt slut.\n\nVi ber dig, Herre, giv att vi må släcka syndens lågor, du som förlänade åt den helige Laurentius nåden att övervinna sina plågors eld. Genom Kristus vår Herre.\n\n℟. Amen."
+			}
+		}
+	]
+}

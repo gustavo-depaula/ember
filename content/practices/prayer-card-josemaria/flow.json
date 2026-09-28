@@ -1,0 +1,60 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Fundador de l'Opus Dei",
+				"da": "Stifter af Opus Dei",
+				"en-US": "Founder of Opus Dei",
+				"es": "Fundador del Opus Dei",
+				"fr": "Fondateur de l'Opus Dei",
+				"hr": "Osnivač Opusa Dei",
+				"hu": "Az Opus Dei alapítója",
+				"it": "Fondatore dell'Opus Dei",
+				"pt-BR": "Fundador do Opus Dei",
+				"pt-PT": "Fundador do Opus Dei",
+				"ro": "Fondatorul Opus Dei",
+				"sk": "Zakladateľ Opus Dei",
+				"sl": "Ustanovitelj Opus Dei",
+				"sv": "Opus Deis grundare"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració",
+				"da": "Bøn",
+				"en-US": "Prayer",
+				"es": "Oración",
+				"fr": "Prière",
+				"hr": "Molitva",
+				"hu": "Imádság",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "Rugăciune",
+				"sk": "Modlitba",
+				"sl": "Molitev",
+				"sv": "Bön"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, que per mediació de la Verge Santíssima atorgàreu a sant Josepmaria, sacerdot, gràcies innombrables, escollint-lo com a instrument fidelíssim per fundar l’Opus Dei, camí de santificació en el treball professional i en l’acompliment dels deures ordinaris del cristià: feu que jo sàpiga també convertir tots els moments i circumstàncies de la meva vida en ocasió d’estimar-vos, i de servir amb alegria i amb senzillesa l’Església, el Sant Pare i les ànimes, il·luminant els camins de la terra amb la lluminària de la fe i de l’amor.\n\nConcediu-me per la intercessió de sant Josepmaria el favor que us demano... (*demani’s*). Així sia.\n\n*Parenostre, Avemaria i Glòria*.",
+				"da": "Gud, Du som ved den hellige Jomfru Marias forbøn skænkede den hellige præst Josemaría utallige nådegaver idet Du udvalgte ham som Dit trofaste redskab til at stifte Opus Dei, der er en vej til helliggørelse gennem det daglige arbejde og under opfyldelsen af en kristens sædvanlige pligter: giv, at også jeg til enhver tid må bruge alle livets forhold og omstændigheder som anledning til at elske Dig og med glæde og inderlighed må tjene Kirken, Paven og alle mine medmennesker, samt gennem tro og kærlighed kaste lys over alle veje på jorden.\n\nSkænk mig på den hellige Josemarías forbøn, hvad jeg beder Dig om ... (*her nævner man sin særlige intention*). Amen.\n\n*Fadervor, Hil dig Maria, Ære være Faderen.*",
+				"en-US": "O God, through the mediation of Mary our Mother, You granted your priest St. Josemaría countless graces, choosing him as a most faithful instrument to found Opus Dei, a way of sanctification in daily work and in the fulfillment of the Christian's ordinary duties. Grant that I too may learn to turn all the circumstances and events of my life into occasions of loving You and serving the Church, the Pope and all souls with joy and simplicity, lighting up the pathways of this earth with faith and love.\n\nDeign to grant me, through the intercession of St. Josemaría, the favour of ... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Oh Dios, que por mediación de la Santísima Virgen otorgaste a san Josemaría, sacerdote, gracias innumerables, escogiéndole como instrumento fidelísimo para fundar el Opus Dei, camino de santificación en el trabajo profesional y en el cumplimiento de los deberes ordinarios del cristiano: haz que yo sepa también convertir todos los momentos y circunstancias de mi vida en ocasión de amarte, y de servir con alegría y con sencillez a la Iglesia, al Romano Pontífice y a las almas, iluminando los caminos de la tierra con la luminaria de la fe y del amor.\n\nConcédeme por la intercesión de San Josemaría el favor que te pido… (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Ô Dieu, par la médiation de Marie, tu as concédé d’innombrables grâces à saint Josémaria, prêtre, en le choisissant comme instrument très fidèle pour fonder l’Opus Dei, chemin de sanctification dans le travail professionnel et l’accomplissement des devoirs ordinaires du chrétien : fais que je sache, moi aussi, convertir tous les instants et toutes les circonstances de ma vie en occasions de t’aimer et de servir avec joie et simplicité, l’Église, le Souverain Pontife et les âmes, éclairant les chemins de la terre avec la lumière de la foi et de l’amour.\n\nAccorde-moi, par l’intercession de saint Josémaria, la faveur que je te demande : …. Amen\n\n*Notre Père, Je vous salue Marie, Gloire au Père.*",
+				"hr": "Bože, Ti si po zagovoru Blažene Djevice Marije svetomu Josemariji, svećeniku, podario bezbrojne milosti. Ti si ga izabrao kao vjerno sredstvo da se osnuje Opus Dei, put posvećivanja u svakodnevnom radu i u ispunjavanju kršćanskih dužnosti: daj da i ja u svim trenucima i prilikama svojega života Tebe ljubim, da u radosti i jednostavnosti služim Crkvi, Svetom Ocu i ljudima, te da sve putove ove zemlje osvijetlim svjetlom vjere i ljubavi.\n\nUsliši po zagovoru svetoga Josemarije ovu moju molitvu... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Istenem, te a Boldogságos Szűz Mária közbenjárására számtalan kegyelemmel halmoztad el Szent Josemaría áldozópapot, és hűséges eszközül választottad ki őt az Opus Dei alapítására, amely a hivatásbeli munka és a keresztények hétköznapi kötelességeinek teljesítése által út az életszentségre. Add, hogy én is úgy tudjam alakítani életem minden pillanatát és körülményét, hogy szeresselek Téged, hogy örömmel és egyszerűségben szolgáljam az Egyházat, a Szentatyát és a lelkeket, és így a hit és a szeretet fényével világítsam be a föld útjait.\n\nKérlek, add meg Szent Josemaría közbenjárására, hogy... Ámen.\n\n*Miatyánk, Üdvözlégy, Dicsőség.*",
+				"it": "O Dio, che per mediazione di Maria Santissima concedesti a San Josemaría, sacerdote, innumerevoli grazie, scegliendolo come strumento fedelissimo per fondare l’Opus Dei, cammino di santificazione nel lavoro professionale e nell’adempimento dei doveri ordinari del cristiano, fa’ che anch’io sappia trasformare tutti i momenti e le circostanze della mia vita in occasioni per amarti e per servire con gioia e semplicità la Chiesa, il Romano Pontefice e tutte le anime, illuminando i cammini della terra con la fiamma della fede e dell’amore.\n\nConcedimi, per intercessione di San Josemaría, la grazia che ti chiedo… (*si chieda*). Amen.\n\n*Padre nostro, Ave Maria, Gloria.*",
+				"pt-BR": "Ó Deus, que, por mediação da Santíssima Virgem Maria, concedestes inumeráveis graças a São Josemaria, sacerdote, escolhendo-o como instrumento fidelíssimo para fundar o Opus Dei, caminho de santificação no trabalho profissional e no cumprimento dos deveres cotidianos do cristão, fazei que eu saiba também converter todos os momentos e circunstâncias da minha vida em ocasião de vos amar, e de servir com alegria e com simplicidade a Igreja, o Romano Pontífice e as almas, iluminando os caminhos da terra com o resplendor da fé e do amor.\n\nConcedei-me por intercessão de São Josemaria o favor que vos peço... (*peça-se*). Amém.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Ó Deus, que por mediação da Santíssima Virgem concedestes inúmeras graças a São Josemaria, sacerdote, escolhendo-o como instrumento fidelíssimo para fundar o Opus Dei, caminho de santificação no trabalho profissional e no cumprimento dos deveres quotidianos do cristão, fazei que eu também saiba converter todos os momentos e circunstâncias da minha vida em ocasião de Vos amar, e de servir com alegria e simplicidade a Igreja, o Romano Pontífice e as almas, iluminando os caminhos da terra com a luz da fé e do amor.\n\nConcedei-me por intercessão de São Josemaria o favor que Vos peço… (*peça-se*). Ámen.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"ro": "Doamne Dumnezeule, care prin mijlocirea Preasfintei Fecioare Maria, ai dăruit sfântului Josemaría, preot, nenumărate haruri, alegându-l drept unealtă credincioasă pentru fondarea căii de sfințire în munca profesională şi în îndeplinirea îndatoririlor creștinești de zi cu zi – Opus Dei – dă-mi harul ca și eu să folosesc orice clipă și orice împrejurare din viața mea, pentru a Te iubi și pentru a sluji cu bucurie şi smerenie Biserica, pe Sfântul Părinte Papa și toate sufletele, luminând căile vieții noastre pământești cu flacăra credinței și a iubirii.\n\nDă-mi Doamne, prin mijlocirea sfântului Josemaría, harul pe care Ți-l cer:…(cere harul dorit). Amin.\n\n*Tatăl nostru, Bucură-te Marie, Slavă Tatălui*.",
+				"sk": "Bože, Ty si prostredníctvom preblahoslavenej Panny Márie obdaril svätého kňaza Josemaríu hojnými milosťami. Ty si si ho vyvolil za verný nástroj na založenie Opus Dei, ktoré je cestou posväcovania sa každodennou prácou a plnením si obyčajných povinností kresťanského života. Prosím Ťa, daj, aby som aj ja vedel využiť každý okamih a okolnosť svojho života ako príležitosť Teba milovať, s radosťou a prostotou slúžiť Cirkvi, Svätému Otcovi a svojim blížnym a pozemské cesty osvecovať svetlom viery a lásky.\n\nVyslyš na orodovanie svätého Josemaríu moju prosbu ... Amen.\n\nOtče náš..., Zdravas Mária…, Sláva Otcu…",
+				"sl": "Bog, ki si po posredovanju presvete Device Marije podelil duhovniku svetemu Jožefmariju neštete milosti in ga izbral kot zvesto orodje za ustanovitev Opus Dei, poti posvečevanja v poklicnem delu in izpolnjevanju običajnih kristjanovih dolžnosti, daj, da bom tudi jaz znal preoblikovati vse trenutke in okoliščine svojega življenja v priložnosti, da te ljubim in da z veseljem in preprostostjo služim Cerkvi, papežu in vsem ljudem, tako da razsvetljujem zemeljske poti z lučjo vere in ljubezni.\n\nPo priprošnji svetega Jožefmarija mi podeli milost, za katero te prosim: … (*navedite prošnjo*). Amen.\n\n*Oče naš, Zdrava Marija, Slava Očetu.*",
+				"sv": "Gud, genom den heliga jungfrun Marias förbön förlänade du den helige prästen Josemaría otaliga nådegåvor, då Du utvalde honom till att vara Dig ett troget redskap för att grunda Opus Dei, en väg till helgelse i det dagliga arbetet och genom uppfyllandet av den kristnes allmänna plikter. Giv, att även jag förvandlar alla ögonblick och omständigheter i mitt liv till tillfällen att älska Dig, att med glädje och i all enkelhet tjäna Kyrkan, den helige Fadern och alla människor samt med trons och kärlekens ljus upplysa de jordiska vägarna.\n\nMå den helige Josemarías förböner beveka Dig att höra den bön jag riktar till Dig … Amen.\n\n*Fader vår*, *Var hälsad Maria*, *Ära vare Fadern*."
+			}
+		}
+	]
+}

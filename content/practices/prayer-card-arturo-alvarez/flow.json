@@ -1,0 +1,40 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"hr": "Molitva za privatnu upotrebu",
+				"pt-BR": "Oração para a devoção privada.",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"hr": "Molitva",
+				"pt-BR": "ORAÇÃO",
+				"pt-PT": "Oração",
+				"ro": "RUGĂCIUNE"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Déu Totpoderós, que vas concedir al teu servent Arturo, enginyer i professor universitari, la gràcia de ser un generós instrument per servir el proïsme i ajudar col·legues i alumnes a descobrir la grandesa de la vida cristiana; et prego que, com ell, jo també sigui un fidel fill teu que, a través de l'exercici del meu treball professional, animi moltes ànimes, amb l'exemple i amb la paraula, a complir amb amor la teva santa Voluntat.\n\nDigna't glorificar el teu servent Arturo i concedeix-me per la seva intercessió el favor que et demano (*demani's*). Amén.\n\n*Parenostre, Avemaria, Glòria.*",
+				"en-US": "Almighty God, who granted your servant Arturo, engineer and university professor, the grace of being a generous instrument in serving his neighbours and helping colleagues and students to discover the greatness of Christian life; I ask that I too, like him, may be a faithful child of yours through the exercise of my professional work, and encourage many souls, with my example and words, to lovingly fulfil your Holy Will.\n\nDeign to glorify your servant Arturo and grant me, through his intercession, the favour that I ask... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios Todopoderoso, que concediste a tu siervo Arturo, ingeniero y profesor universitario, la gracia de ser un generoso instrumento para servir al prójimo y ayudar a colegas y alumnos a descubrir la grandeza de la vida cristiana; te ruego que, como él, yo sea también un fiel hijo tuyo que, a través del ejercicio de mi trabajo profesional, anime a muchas almas, con el ejemplo y con la palabra, a cumplir con amor tu Santa Voluntad.\n\nDígnate glorificar a tu siervo Arturo y concédeme, por su intercesión, el favor que te pido… (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria.*",
+				"hr": "Svemogući Bože, ti si svom slugi Arturu, inženjeru i sveučilišnom profesoru, udijelio milost da bude velikodušno oruđe u služenju drugima i pomaganju kolegama i studentima da otkriju veličinu kršćanskog života; molim te da, poput njega, i ja budem tvoj vjerni sin koji će, kroz obavljanje svog profesionalnog rada, primjerom i riječju poticati mnoge duše da s ljubavlju ispunjavaju tvoju svetu volju.\n\nUdostoj se proslaviti svoga slugu Artura i po njegovu zagovoru usliši ovu moju molitvu…Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"pt-BR": "Deus Todo-Poderoso, que concedeste ao vosso servo Arturo, engenheiro e professor universitário, a graça de ser um instrumento generoso para servir o próximo e ajudar colegas e alunos a descobrir a grandeza da vida cristã; peço que, como ele, eu também seja um filho fiel que, através do exercício do meu trabalho profissional, anime muitas almas, com o exemplo e com a palavra, a cumprir com amor a Vossa Santa Vontade.\n\nDignai-vos glorificar o vosso servo Arturo e concedei-me por sua intercessão o favor que eu peço... (peça-se). Amém.\n\n*Pai-nosso, Ave-Maria, Glória.*",
+				"pt-PT": "Deus Todo-poderoso, que concedestes ao vosso servo Arturo, engenheiro e professor universitário, a graça de ser um instrumento generoso para servir o próximo e ajudar colegas e alunos a descobrir a grandeza da vida cristã; rogo-vos que eu, como ele, seja também um fiel filho vosso que, através do exercício do meu trabalho profissional, anime muitas almas, com o exemplo e com a palavra, a cumprir com amor a vossa Santa Vontade.\n\nDignai-vos glorificar a vosso servo Arturo e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Amén.\n\n*Pai-nosso, Ave-Maria, Glória.*",
+				"ro": "Dumnezeule atotputernic, care i-ai dăruit slujitorului Tău Arturo, inginer și profesor universitar, harul de a fi un instrument generos în slujirea aproapelui și de a-i ajuta pe colegii și pe studenții săi să descopere măreția vieții creștine, Te rog ca, asemenea lui, să fiu și eu un fiu credincios al Tău și, prin exercitarea muncii mele profesionale, să îi încurajez pe mulți, prin exemplu și prin cuvânt, să împlinească cu iubire Sfânta Ta Voință.\n\nÎndură-Te, Doamne, să-l preamărești pe slujitorul Tău Arturo și, prin mijlocirea lui, dăruiește-mi harul pe care Ți-l cer… (*se formulează cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă.*"
+			}
+		}
+	]
+}

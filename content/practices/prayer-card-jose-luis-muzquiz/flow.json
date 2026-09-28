@@ -1,0 +1,46 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Sacerdot",
+				"en-US": "Fr. José Luis Múzquiz, priest",
+				"es": "Sacerdote",
+				"fr": "Prêtre",
+				"hr": "Svećenik",
+				"pt-BR": "Sacerdote",
+				"pt-PT": "Sacerdote",
+				"ro": "Preot",
+				"sk": "Modlitba na súkromnú pobožnosť k Božiemu služobníkovi José Luiz Múzquizovi"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"fr": "Prière",
+				"hr": "Molitva",
+				"pt-BR": "ORAÇÃO",
+				"pt-PT": "ORAÇÃO",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, que vau ajudar el vostre servent José Luis a treballar amb generositat i senzillesa, difonent entre moltes persones el missatge de la santedat en la vida corrent, i ensenyant a trobar l'alegria i la pau en la vida ordinària.\n\nAjudeu-me a buscar en primer lloc el Regne de Déu, santificant-me en el treball i dedicant-me generosament a la salvació de les ànimes.\n\nDigneu-vos glorificar el vostre servent José Luis, i concediu-me, per la seva intercessió, el favor que us demano (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "God, you helped your servant Joseph work with generosity and simplicity. He spread the message of sanctity in secular life to many people, teaching them to find joy and peace in their daily life.\n\nHelp me to seek first the kingdom of God, by sanctifying my everyday work and dedicating myself generously to the salvation of souls.\n\nGlorify your servant Joseph and, through his intercession, grant me the favour I ask of You... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Oh Dios, que ayudaste a tu siervo José Luis a trabajar con generosidad y sencillez, difundiendo entre muchas personas el mensaje de la santidad en la vida corriente, y enseñando a encontrar la alegría y la paz en la vida diaria.\n\nAyúdame a buscar en primer lugar el Reino de Dios, santificándome en el trabajo y dedicándome generosamente a la salvación de las almas.\n\nDígnate glorificar a tu siervo José Luis y concédeme por su intercesión el favor que te pido... (*pídase*). Amén.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "**Ô Dieu, tu as aidé ton serviteur Joseph à travailler avec générosité et simplicité. Il a répandu le message de la sainteté dans la vie ordinaire de bien des gens, leur apprenant à y trouver la joie et la paix.**\n\nFais que je sache moi aussi toujours chercher le royaume de Dieu, en sanctifiant mon travail de tous les jours et en m’adonnant généreusement au salut des âmes.\n\nDaigne glorifier ton serviteur Joseph, et accorde-moi, par son intercession, la faveur que je te demande : (*formuler la demande…*) Amen.\n\n*Notre Père, Je vous salue Marie, Gloire au Père.*",
+				"hr": "Bože, koji si svome sluzi Joseu Luisu dao milost da radi s velikodušnošću i jednostavnošću, šireći poruku svetosti u svakodnevnom životu među mnogim ljudima i učeći ih pronaći radost i mir u svakodnevnom životu,\n\npomozi mi da prije svega tražim Kraljevstvo Božje, posvećujući se u svom radu i velikodušno se posvećujući spasenju duša.\n\nUdostoj se proslaviti svoga slugu Josea Luisa i po njegovu zagovoru usliši ovu moju molitvu... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"pt-BR": "Ó Deus, que concedestes ao vosso servo José Luis a graça de trabalhar com generosidade e simplicidade, difundindo entre muitas pessoas a mensagem da santidade na vida corrente e ensinando a encontrar a alegria e a paz em sua vida diária.\n\nAjudai-me a procurar, em primeiro lugar, o Reino de Deus, santificando-me no trabalho e dedicando-me generosamente à salvação das almas.\n\nDignai-vos glorificar o vosso servo José Luis e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Amém.\n\n*Pai-nosso, Ave-Maria, Glória.*",
+				"pt-PT": "Com a vossa graça, Senhor, o vosso servo José Luis trabalhou generosamente e com simplicidade e levou a muitas pessoas a mensagem da santidade na vida corrente, ensinando a encontrar a alegria e a paz no dia a dia.\n\nAjudai-me a procurar primeiro o Reino de Deus, santificando o trabalho diário e dedicando-me generosamente à salvação das almas.\n\nGlorificai o vosso servo José Luis, e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Doamne, Tu l-ai ajutat pe slujitorul tău José Luis să lucreze cu generozitate și simplitate, răspândind printre mulți oameni mesajul sfințeniei în viața de zi cu zi și învățându-i să găsească bucuria și pacea în viața cotidiană.\n\nAjută-mă să caut mai întâi Împărăția lui Dumnezeu, sfințindu-mă în munca mea și dedicându-mă cu generozitate la mântuirea sufletelor.\n\nÎnvrednicește-Te să-l glorifici pe slujitorul Tău José Luis și acordă-mi prin mijlocirea lui harul pe care Ți-l cer... (*se cere favoarea dorită*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Bože, Ty si pomohol svojmu služobníkovi Josému pracovať s veľkorysosťou a jednoduchosťou. On rozšíril svedectvo o svätosti v bežnom živote medzi mnohými ľuďmi, učiac ich hľadaniu radosti a pokoja v každodennom živote.\n\nPomôž mi hľadať na prvom mieste Božie kráľovstvo, cez posväcovanie mojej každodennej práce a veľkorysé obetovanie sa pre spásu duší.\n\nOsláv svojho služobníka Josého a na jeho orodovanie vyslyš moju prosbu, o ktorú Ťa žiadam (konkrétna prosba). Amen.\n\nOtče náš. Zdravas Mária. Sláva Otcu."
+			}
+		}
+	]
+}

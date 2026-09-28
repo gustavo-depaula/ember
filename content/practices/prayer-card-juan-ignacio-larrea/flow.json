@@ -1,0 +1,40 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Arquebisbe de Guayaquil",
+				"en-US": "Archbishop of Guayaquil",
+				"es": "Arzobispo de Guayaquil",
+				"hr": "Nadbiskup Guayaquila",
+				"pt-BR": "Arcebispo de Guayaquil",
+				"pt-PT": "Arcebispo de Guayaquil",
+				"ro": "Arhiepiscopul din Guayaquil"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"hr": "Molitva",
+				"pt-BR": "ORAção",
+				"pt-PT": "ORAção",
+				"ro": "RUGĂCIUNE"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Senyor, que vas concedir al teu servent Juan, bisbe, la gràcia de difondre la llum de l'Evangeli com a bon pastor, fes que jo sàpiga també, amb l'ajuda de Santa Maria, mostrar la fe catòlica amb la paraula i amb l’exemple a través del treball de cada dia, viscut amb intensitat i esforç, per amor a Déu i a les ànimes.\n\nDigna't glorificar el teu servent Juan i concedeix-me per la seva intercessió el favor que et demano (*demani's*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "Lord, who granted your servant Juan, bishop, the grace to spread the light of the Gospel as a good shepherd, grant that I too, with the help of the Blessed Virgin Mary, may show the Catholic faith through my words and by my example, in the work of each day, lived with intensity and effort, out of love for God and for souls.\n\nDeign to glorify your servant Juan and grant me, through his intercession, the favour I request... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Señor, que concediste a tu siervo Juan, obispo, la gracia de difundir la luz del evangelio como buen pastor, haz que yo sepa también, con la ayuda de Santa María, mostrar la fe católica con mi palabra y con mi ejemplo a través del trabajo de cada día, vivido con intensidad y esfuerzo, por amor a Dios y a las almas.\n\nDígnate glorificar a tu siervo Juan y concédeme por su intercesión el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"hr": "Gospodine, dao si svome sluzi Juanu, biskupu, milost da širi svjetlo Evanđelja kao dobri pastir. Daj da i ja, uz pomoć svete Marije, svojim riječima i primjerom, svakodnevnim radom, življenim s intenzitetom i trudom, iz ljubavi prema Bogu i dušama, pokazujem katoličku vjeru.\n\nUdostoj se proslaviti slugu svoga Juana i po njegovom zagovoru usliši ovu moju molitvu... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"pt-BR": "Senhor, que concedeste ao vosso servo Juan, bispo, a graça de difundir a luz do evangelho como bom pastor, fazei com que eu também saiba, com a ajuda de Santa Maria, mostrar a fé católica com minhas palavras e com meu exemplo através do trabalho de cada dia, vivido com intensidade e esforço, por amor a Deus e às almas.\n\nDignai-vos glorificar o vosso servo Juan e concedei-me por sua intercessão o favor que eu peço... (*peça-se*). Amém.\n\n*Pai Nosso, Ave Maria, Glória.*",
+				"pt-PT": "Senhor, que concedestes ao vosso servo Juan, Bispo, a graça de difundir a luz do Evangelho como bom pastor, fazei com que eu saiba também, com a ajuda de Santa Maria, mostrar a fé católica com a minha palavra e com o meu exemplo, através do trabalho de cada dia, vivido com intensidade e esforço, por amor a Deus e às almas.\n\nDignai-Vos glorificar o vosso servo Juan e concedei-me por sua intercessão o favor que Vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória.*",
+				"ro": "Doamne, care i-ai dăruit slujitorului Tău Juan, episcop, harul de a răspândi lumina Evangheliei ca un Păstor bun, fă să știu și eu, cu ajutorul Sfintei Fecioare Maria, să arăt credința catolică prin cuvântul și prin exemplul meu, prin munca fiecărei zile trăită cu intensitate și efort, din iubire față de Dumnezeu și față de suflete.\n\nÎndură-Te să-l preamărești pe slujitorul Tău Juan și, prin mijlocirea lui, dăruiește-mi harul pe care Ți-l cer… (*se formulează cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*."
+			}
+		}
+	]
+}

@@ -4,7 +4,19 @@
 	"name": {
 		"en-US": "Our Father",
 		"pt-BR": "Pai Nosso",
-		"la": "Pater Noster"
+		"la": "Pater Noster",
+		"ca": "Parenostre",
+		"da": "Fader vor",
+		"es": "Padre nuestro",
+		"fr": "Notre Père",
+		"hr": "Oče naš",
+		"hu": "Miatyánk",
+		"it": "Padre nostro",
+		"pt-PT": "Pai-nosso",
+		"ro": "Tatăl nostru",
+		"sk": "Otče náš",
+		"sl": "Oče naš",
+		"sv": "Fader vår"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +25,19 @@
 				"inline": {
 					"en-US": "Our Father, who art in heaven,\nhallowed be thy name.\nThy kingdom come.\nThy will be done on earth, as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us.\nAnd lead us not into temptation,\nbut deliver us from evil.\nAmen.",
 					"pt-BR": "Pai nosso, que estais nos céus,\nsantificado seja o vosso nome.\nVenha a nós o vosso reino.\nSeja feita a vossa vontade, assim na terra como no céu.\nO pão nosso de cada dia nos dai hoje,\nperdoai as nossas ofensas,\nassim como nós perdoamos a quem nos tem ofendido.\nE não nos deixeis cair em tentação,\nmas livrai-nos do mal.\nAmém.",
-					"la": "Pater noster, qui es in cælis,\nsanctificétur nomen tuum.\nAdvéniat regnum tuum.\nFiat volúntas tua, sicut in cælo et in terra.\nPanem nostrum quotidiánum da nobis hódie,\net dimítte nobis débita nostra,\nsicut et nos dimíttimus debitóribus nostris.\nEt ne nos indúcas in tentatiónem,\nsed líbera nos a malo.\nAmen."
+					"la": "Pater noster, qui es in cælis,\nsanctificétur nomen tuum.\nAdvéniat regnum tuum.\nFiat volúntas tua, sicut in cælo et in terra.\nPanem nostrum quotidiánum da nobis hódie,\net dimítte nobis débita nostra,\nsicut et nos dimíttimus debitóribus nostris.\nEt ne nos indúcas in tentatiónem,\nsed líbera nos a malo.\nAmen.",
+					"ca": "Pare nostre, que esteu en el cel: sigui santificat el vostre nom; vingui a nosaltres el vostre Regne; faci's la vostra voluntat, així a la terra com es fa en el cel.\n\nEl nostre pa de cada dia doneu-nos, Senyor, el dia d'avui; i perdoneu les nostres culpes, així com nosaltres perdonem els nostres deutors; i no permeteu que nosaltres caiguem a la temptació. Ans deslliureu-nos de qualsevol mal. Amén.",
+					"da": "Fader vor, du som er i himlen. Helliget vorde dit navn, komme dit rige. Ske din vilje som i himlen, så og på jorden.\n\nGiv os i dag vort daglige brød og forlad os vor skyld, som og vi forlader vore skyldnere, og led os ikke i fristelse, men fri os fra det onde.\n\nThi dit er riget og magten og æren i evighed. Amen.",
+					"es": "Padre nuestro, que estás en el cielo, santificado sea tu Nombre; venga a nosotros tu reino; hágase tu voluntad en la tierra como en el cielo.\n\nDanos hoy nuestro pan de cada día; perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden; no nos dejes caer en la tentación, y líbranos del mal. Amén.",
+					"fr": "Notre Père, qui es aux cieux,\nque ton nom soit sanctifié,\nque ton règne vienne,\nque ta volonté soit faite sur la terre comme au ciel.\n\nDonne-nous aujourd’hui notre pain de ce jour.\nPardonne-nous nos offenses,\ncomme nous pardonnons aussi à ceux qui nous ont offensés.\nEt ne nous laisse pas entrer en tentation\nmais délivre-nous du Mal.",
+					"hr": "Oče naš koji jesi na nebesima, sveti se ime tvoje. Dođi kraljevstvo tvoje. Budi volja tvoja kako na nebu, tako i na zemlji.\n\nKruh naš svagdanji daj nam danas. I otpusti nam duge naše, kako i mi otpuštamo dužnicima našim. I ne uvedi nas u napast, nego izbavi nas od zla. Amen.",
+					"hu": "Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved; jöjjön el a te országod; legyen meg a te akaratod, amint a mennyben, úgy a földön is.\n\nMindennapi kenyerünket add meg nekünk ma; és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek; és ne vígy minket kísértésbe; de szabadíts meg a gonosztól. Ámen.",
+					"it": "Padre Nostro che sei nei Cieli, sia santificato il tuo nome, venga il tuo regno e sia fatta la tua volontà come in Cielo così in terra.\n\nDacci oggi il nostro pane quotidiano e rimetti a noi i nostri debiti come anche noi li rimettiamo ai nostri debitori e non ci abbandonare alla tentazione ma liberaci dal male. Amen.",
+					"pt-PT": "Pai nosso, que estais nos Céus, santificado seja o vosso Nome, venha a nós o vosso Reino, seja feita a vossa vontade assim na terra como no Céu.\n\nO pão nosso de cada dia nos dai hoje, perdoai-nos as nossas ofensas assim como nós perdoamos a quem nos tem ofendido, e não nos deixeis cair em tentação, mas livrai-nos do Mal. Ámen.",
+					"ro": "Tatăl nostru care ești în ceruri, sfințească-se numele Tău, vie împărăția Ta, facă-se voia Ta, precum în cer așa și pe pământ.\n\nPâinea noastră cea de toate zilele, dă-ne-o nouă astăzi și ne iartă nouă greșelile noastre precum și noi iertăm greșiților noștri și nu ne duce pe noi în ispită ci ne mântuiește de cel rău. Amin.",
+					"sk": "Otče náš, ktorý si na nebesiach,\nposväť sa meno tvoje,\npríď kráľovstvo tvoje,\nbuď vôľa tvoja ako v nebi, tak i na zemi.\n\nChlieb náš každodenný daj nám dnes\na odpusť nám naše viny,\nako aj my odpúšťame svojim vinníkom,\na neuveď nás do pokušenia,\nale zbav nás zlého. Amen.",
+					"sl": "Oče naš, ki si v nebesih, posvečeno bodi tvoje ime, pridi k nam tvoje kraljestvo, zgodi se tvoja volja kakor v nebesih tako na zemlji.\n\nDaj nam danes naš vsakdanji kruh in odpusti nam naše dolge, kakor tudi mi odpuščamo svojim dolžnikom, in ne vpelji nas v skušnjavo, temveč reši nas hudega. Amen.",
+					"sv": "Fader vår som är i himmelen, helgat varde ditt namn, tillkomme ditt rike, ske din vilja såsom i himmelen så ock på jorden.\n\nVårt dagliga bröd giv oss i dag, och förlåt oss våra skulder, såsom ock vi förlåta dem oss skyldiga äro. Och inled oss icke i frestelse, utan fräls oss ifrån ondo. Amen."
 				}
 			}
 		]

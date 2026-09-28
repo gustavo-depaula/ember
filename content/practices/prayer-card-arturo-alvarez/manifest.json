@@ -1,0 +1,47 @@
+{
+	"id": "prayer-card-arturo-alvarez",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Arturo Álvarez",
+		"en-US": "Arturo Álvarez",
+		"es": "Arturo Álvarez",
+		"hr": "Arturo Álvarez",
+		"pt-BR": "Arturo Álvarez",
+		"pt-PT": "Arturo Álvarez",
+		"ro": "Arturo Álvarez"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "A prayer card for the private devotion of Arturo Álvarez, asking a favour through their intercession.",
+		"pt-BR": "Estampa para a devoção particular de Arturo Álvarez, para pedir um favor pela sua intercessão."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=307&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=202&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"opus-dei",
+		"prayer-card",
+		"intercession"
+	],
+	"defaults": {
+		"sortOrder": 447,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,57 @@
+{
+	"id": "prayer-of-st-bonaventure",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"ca": "Oració de sant Bonaventura",
+		"da": "Orátio S. Bonaventúræ",
+		"en-US": "Prayer of St. Bonaventure",
+		"es": "Oración de S. Buenaventura",
+		"fr": "Prière de saint Bonaventure",
+		"hr": "Molitva svetog Bonaventure",
+		"hu": "Szent Bonaventura imadsága",
+		"it": "Preghiera di S. Bonaventura",
+		"la": "Orátio S. Bonaventúræ",
+		"pt-BR": "Oração de São Boaventura",
+		"pt-PT": "Oração de São Boaventura",
+		"sl": "Molitev sv. Bonaventura",
+		"sv": "En bön av S:t Bonaventura"
+	},
+	"categories": [
+		"eucharistic",
+		"communion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Transfige* — a thanksgiving after Communion asking to be wounded with love and to hunger always for the Bread of Angels.",
+		"pt-BR": "*Transfige* — uma ação de graças depois da Comunhão que pede ser ferido de amor e ter sempre fome do Pão dos Anjos."
+	},
+	"history": {
+		"en-US": "Attributed to St. Bonaventure (d. 1274) and printed in the Roman Missal among the prayers of thanksgiving after Mass.",
+		"pt-BR": "Atribuída a São Boaventura (m. 1274) e impressa no Missal Romano entre as orações de ação de graças depois da Missa."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=302&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"thanksgiving",
+		"bonaventure",
+		"franciscan"
+	],
+	"defaults": {
+		"sortOrder": 411,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

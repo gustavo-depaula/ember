@@ -1,0 +1,59 @@
+{
+	"id": "prayer-of-st-ambrose",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"ca": "Oració de sant Ambròs",
+		"da": "Bøn af den hellige Ambrosius",
+		"en-US": "Prayer of St. Ambrose",
+		"es": "Oración de S. Ambrosio",
+		"fr": "Prière de saint Ambroise",
+		"hr": "Molitva svetog Ambrozija",
+		"hu": "Szent Ambrus Imádsága",
+		"it": "Preghiera di S. Ambrogio",
+		"la": "Orátio S. Ambrósii",
+		"pt-BR": "Oração de Santo Ambrosio",
+		"pt-PT": "Oração de Santo Ambrosio",
+		"ro": "Rugăciunea sfântului Ambroziu",
+		"sk": "Modlitba sv. Ambróza",
+		"sl": "Molitev sv. Ambroža",
+		"sv": "En bön av S:t Ambrosius"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "A long preparation for Mass and Communion — *Summe sacerdos* — approaching the altar in fear and trust, for oneself, the living and the dead.",
+		"pt-BR": "Uma longa preparação para a Missa e a Comunhão — *Summe sacerdos* — que se aproxima do altar com temor e confiança, por si, pelos vivos e pelos defuntos."
+	},
+	"history": {
+		"en-US": "Long attributed to St. Ambrose, it is now thought to be the work of John of Fécamp (eleventh century). The Roman Missal printed it among the priest's prayers of preparation before Mass.",
+		"pt-BR": "Longamente atribuída a Santo Ambrósio, pensa-se hoje que seja obra de João de Fécamp (século XI). O Missal Romano trazia-a entre as orações de preparação do sacerdote para a Missa."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=301&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=196&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"mass",
+		"preparation",
+		"ambrose"
+	],
+	"defaults": {
+		"sortOrder": 410,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

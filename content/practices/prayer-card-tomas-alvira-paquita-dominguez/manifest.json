@@ -1,0 +1,51 @@
+{
+	"id": "prayer-card-tomas-alvira-paquita-dominguez",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Paquita i Tomás",
+		"en-US": "Tomás Alvira and Paquita Domínguez",
+		"es": "Tomás y Paquita",
+		"fr": "Tomás et Paquita",
+		"hr": "Tomás i Paquita",
+		"hu": "Tomás és Paquita",
+		"pt-BR": "Tomás Alvira e Paquita Domínguez",
+		"pt-PT": "Tomás e Paquita",
+		"ro": "Tomás și Paquita",
+		"sk": "Tomás a Paquita",
+		"sl": "Tomás in Paquita"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "A prayer card for the private devotion of Tomás Alvira and Paquita Domínguez, asking a favour through their intercession.",
+		"pt-BR": "Estampa para a devoção particular de Tomás Alvira e Paquita Domínguez, para pedir um favor pela sua intercessão."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=307&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=202&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"opus-dei",
+		"prayer-card",
+		"intercession"
+	],
+	"defaults": {
+		"sortOrder": 442,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,52 @@
+{
+	"id": "ave-maris-stella",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"da": "Ave maris stella",
+		"en-US": "Ave maris stella",
+		"es": "Ave maris stella",
+		"fr": "Ave maris stella",
+		"hu": "Tengernek Csillaga (Ave maris stella)",
+		"la": "Ave maris stella",
+		"pt-PT": "Ave maris stella",
+		"ro": "Ave maris stella",
+		"sk": "Zdravas', Hviezda morská"
+	},
+	"categories": [
+		"marian",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Hail, Star of the sea* — the ancient Vespers hymn of Our Lady, turning Eva into Ave.",
+		"pt-BR": "*Ave, Estrela do mar* — o antigo hino de Vésperas de Nossa Senhora, que muda Eva em Ave."
+	},
+	"history": {
+		"en-US": "One of the oldest Marian hymns, found in manuscripts of the ninth century; it has been sung at Vespers of Our Lady ever since.",
+		"pt-BR": "Um dos hinos marianos mais antigos, encontrado em manuscritos do século IX; desde então canta-se nas Vésperas de Nossa Senhora."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 427,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

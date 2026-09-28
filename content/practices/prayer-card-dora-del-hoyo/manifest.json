@@ -1,0 +1,52 @@
+{
+	"id": "prayer-card-dora-del-hoyo",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Dora del Hoyo",
+		"en-US": "Dora del Hoyo",
+		"es": "Dora del Hoyo",
+		"fr": "Dora del Hoyo",
+		"hr": "Dora del Hoyo",
+		"hu": "Dora del Hoyo",
+		"pt-BR": "Dora del Hoyo",
+		"pt-PT": "Dora del Hoyo",
+		"ro": "Dora del Hoyo",
+		"sk": "Dora del Hoyo",
+		"sl": "Dora del Hoyo",
+		"sv": "Dora del Hoyo"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "A prayer card for the private devotion of Dora del Hoyo, asking a favour through their intercession.",
+		"pt-BR": "Estampa para a devoção particular de Dora del Hoyo, para pedir um favor pela sua intercessão."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=307&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=202&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"opus-dei",
+		"prayer-card",
+		"intercession"
+	],
+	"defaults": {
+		"sortOrder": 444,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

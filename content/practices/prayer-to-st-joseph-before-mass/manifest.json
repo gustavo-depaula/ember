@@ -1,0 +1,53 @@
+{
+	"id": "prayer-to-st-joseph-before-mass",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"ca": "Oració a sant Josep",
+		"en-US": "Prayer to St. Joseph before Mass",
+		"es": "Oración a S. José",
+		"fr": "Prière à saint Joseph",
+		"hr": "Molitva svetom Josipu",
+		"hu": "Preces ad S. Ioseph",
+		"it": "Preghiera a san Giuseppe",
+		"la": "Preces ad S. Ioseph",
+		"pt-BR": "Oração a São José antes da Missa",
+		"pt-PT": "Oração a São José",
+		"sk": "k Sv. Jozefovi",
+		"sl": "Molitev k sv. Jožefu",
+		"sv": "En bön till den helige Josef"
+	},
+	"categories": [
+		"eucharistic",
+		"saints"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*O felicem virum* — St. Joseph held in his arms the One we are about to receive; ask for his clean heart.",
+		"pt-BR": "*O felicem virum* — São José teve nos braços Aquele que vamos receber; pede-se o seu coração limpo."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=301&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=196&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"mass",
+		"preparation",
+		"joseph"
+	],
+	"defaults": {
+		"sortOrder": 409,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

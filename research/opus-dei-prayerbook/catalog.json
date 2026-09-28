@@ -1,0 +1,911 @@
+{
+	"prayers": {
+		"la:192": "sign-of-cross",
+		"la:193": "our-father",
+		"la:194": "hail-mary",
+		"la:195": "glory-be",
+		"en-US:2114": "act-of-contrition",
+		"la:198": "confiteor",
+		"la:199": "nicene-creed",
+		"la:200": "apostles-creed",
+		"la:201": "angele-dei",
+		"la:202": "athanasian-creed",
+		"la:203": "te-deum",
+		"la:204": "angelic-trisagion",
+		"en-US:2122": "act-of-faith",
+		"en-US:2123": "act-of-hope",
+		"en-US:2124": "act-of-charity",
+		"la:208": "visit-blessed-sacrament",
+		"la:209": "adoro-te-devote",
+		"la:210": "pange-lingua",
+		"la:452": "sacris-solemniis",
+		"la:455": "lauda-sion",
+		"la:454": "iesu-dulcis-memoria",
+		"la:456": "verbum-supernum",
+		"la:211": "come-holy-spirit",
+		"la:212": "veni-creator-spiritus",
+		"la:213": "veni-sancte-spiritus",
+		"la:214": "angelus",
+		"la:215": "regina-caeli",
+		"la:216": "memorare",
+		"la:217": "rosary",
+		"la:218": "sub-tuum-praesidium",
+		"la:219": "stabat-mater",
+		"en-US:2138": "blessed-be-your-purity",
+		"la:222": "alma-redemptoris-mater",
+		"la:223": "ave-regina-caelorum",
+		"la:238": "magnificat",
+		"la:196": "hail-holy-queen",
+		"en-US:2472": "consecration-to-our-lady",
+		"la:224": "prayer-to-our-lady-before-mass",
+		"la:225": "prayer-to-st-joseph-before-mass",
+		"la:226": "aquinas-before-communion",
+		"la:227": "prayer-of-st-ambrose",
+		"la:228": "st-michael",
+		"la:229": "aquinas-after-communion",
+		"la:230": "prayer-of-st-bonaventure",
+		"la:231": "universal-prayer",
+		"la:338": "prayer-before-crucifix",
+		"la:232": "anima-christi",
+		"la:233": "prayer-to-our-lady-after-mass",
+		"la:234": "prayer-to-st-joseph-after-mass",
+		"la:235": "canticle-of-the-three-children",
+		"la:236": "psalm-2",
+		"la:237": "psalm-50",
+		"la:240": "o-bona-crux",
+		"en-US:2159": "way-of-the-cross-opus-dei",
+		"en-US:2160": "mental-prayer",
+		"la:244": "spiritual-reading",
+		"la:245": "grace-meals",
+		"la:246": "blessing-for-a-journey",
+		"la:425": "preces-opus-dei",
+		"la:442": "ubi-caritas",
+		"la:444": "pax-in-caelo",
+		"la:448": "rorate-caeli",
+		"la:443": "te-ioseph",
+		"la:449": "media-vita",
+		"la:445": "ave-verum",
+		"la:446": "ave-maris-stella",
+		"la:239": "benedictus",
+		"la:451": "prayer-pope-bishop",
+		"la:447": "lux-aeterna",
+		"la:450": "vexilla-regis",
+		"la:2470": "adeste-fideles",
+		"la:2587": "nunc-dimittis",
+		"la:249": "responsory-for-the-dead",
+		"la:250": "responsory-de-profundis",
+		"pt-BR:1444": "responsory-subvenite",
+		"la:339": "formulas-of-catholic-doctrine",
+		"la:340": "formulas-of-catholic-doctrine",
+		"la:341": "formulas-of-catholic-doctrine",
+		"la:342": "formulas-of-catholic-doctrine",
+		"la:343": "formulas-of-catholic-doctrine",
+		"la:344": "formulas-of-catholic-doctrine",
+		"la:345": "formulas-of-catholic-doctrine",
+		"la:346": "formulas-of-catholic-doctrine",
+		"la:347": "formulas-of-catholic-doctrine",
+		"la:348": "formulas-of-catholic-doctrine",
+		"la:349": "formulas-of-catholic-doctrine",
+		"la:350": "formulas-of-catholic-doctrine",
+		"la:351": "formulas-of-catholic-doctrine",
+		"en-US:2191": "prayer-card-josemaria",
+		"en-US:2192": "prayer-card-alvaro-del-portillo",
+		"en-US:2193": "prayer-card-guadalupe-ortiz-de-landazuri",
+		"en-US:2194": "prayer-card-montse-grases",
+		"en-US:2195": "prayer-card-isidoro-zorzano",
+		"en-US:2196": "prayer-card-ernesto-cofino",
+		"en-US:2197": "prayer-card-toni-zweifel",
+		"en-US:2198": "prayer-card-tomas-alvira-paquita-dominguez",
+		"en-US:2199": "prayer-card-eduardo-ortiz-de-landazuri-laura-busca",
+		"en-US:2200": "prayer-card-dora-del-hoyo",
+		"en-US:2201": "prayer-card-jose-luis-muzquiz",
+		"en-US:2202": "prayer-card-jose-maria-hernandez-garnica",
+		"en-US:2203": "prayer-card-arturo-alvarez",
+		"en-US:2204": "prayer-card-encarnita-ortega",
+		"en-US:2205": "prayer-card-marcelo-camara",
+		"en-US:2206": "prayer-card-juan-ignacio-larrea"
+	},
+	"practices": {
+		"confiteor": {
+			"icon": "cross",
+			"categories": [
+				"devotion",
+				"penance"
+			],
+			"tags": [
+				"confiteor",
+				"penitential",
+				"mass"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "The general confession of sins — *I confess to almighty God* — made before God, the saints and one another. It opens the penitential act of the Mass, and the book gives the older, longer form alongside it.",
+				"pt-BR": "A confissão geral dos pecados — *Confesso a Deus todo-poderoso* — feita diante de Deus, dos santos e uns dos outros. Abre o ato penitencial da Missa, e o livro traz ao lado a forma mais antiga e mais longa."
+			},
+			"history": {
+				"en-US": "The Confiteor grew out of the private preparatory prayers of the priest in the early Middle Ages and entered the Roman Missal of 1570 among the prayers at the foot of the altar. The Missal of Paul VI kept it, in a shorter form, as the first option for the penitential act.",
+				"pt-BR": "O Confiteor nasceu das orações privadas de preparação do sacerdote na alta Idade Média e entrou no Missal Romano de 1570 entre as orações ao pé do altar. O Missal de Paulo VI conservou-o, numa forma mais breve, como primeira opção do ato penitencial."
+			}
+		},
+		"athanasian-creed": {
+			"icon": "trinity",
+			"categories": [
+				"devotion",
+				"trinity"
+			],
+			"tags": [
+				"creed",
+				"trinity",
+				"quicumque"
+			],
+			"estimatedMinutes": 5,
+			"description": {
+				"en-US": "The creed *Quicumque vult*: a long, exact confession of the Trinity and of the Incarnation, framed by its own antiphon.",
+				"pt-BR": "O símbolo *Quicumque vult*: uma confissão longa e precisa da Trindade e da Encarnação, emoldurada pela sua própria antífona."
+			},
+			"history": {
+				"en-US": "Written in Latin in the West, most likely in southern Gaul in the late fifth or sixth century. The name of St. Athanasius was attached to it by tradition rather than authorship. It was long recited at Prime in the Roman Office.",
+				"pt-BR": "Escrito em latim no Ocidente, muito provavelmente no sul da Gália no fim do século V ou no século VI. O nome de Santo Atanásio foi-lhe associado pela tradição, não pela autoria. Durante séculos foi recitado na Prima do Ofício Romano."
+			}
+		},
+		"angelic-trisagion": {
+			"icon": "trinity",
+			"categories": [
+				"trinity",
+				"devotion"
+			],
+			"tags": [
+				"trinity",
+				"trisagion"
+			],
+			"estimatedMinutes": 10,
+			"description": {
+				"en-US": "Praise of the Most Holy Trinity in three decades, one for each divine Person, built on the angels' *Holy, holy, holy*.",
+				"pt-BR": "Louvor à Santíssima Trindade em três dezenas, uma por cada Pessoa divina, construído sobre o *Santo, Santo, Santo* dos anjos."
+			}
+		},
+		"iesu-dulcis-memoria": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"holy-name",
+				"jesus"
+			],
+			"estimatedMinutes": 3,
+			"description": {
+				"en-US": "The medieval hymn on the sweetness of the name and presence of Jesus — *Iesu, dulcis memoria*.",
+				"pt-BR": "O hino medieval sobre a doçura do nome e da presença de Jesus — *Iesu, dulcis memoria*."
+			},
+			"history": {
+				"en-US": "A twelfth-century Latin poem long attributed to St. Bernard of Clairvaux. Stanzas of it were used as the hymns of the Office of the Holy Name of Jesus.",
+				"pt-BR": "Poema latino do século XII longamente atribuído a São Bernardo de Claraval. Estrofes dele foram usadas como hinos do Ofício do Santíssimo Nome de Jesus."
+			}
+		},
+		"veni-sancte-spiritus": {
+			"icon": "flame",
+			"categories": [
+				"holy-spirit",
+				"devotion"
+			],
+			"tags": [
+				"sequence",
+				"pentecost",
+				"hymn"
+			],
+			"estimatedMinutes": 3,
+			"description": {
+				"en-US": "The Golden Sequence of Pentecost — *Come, Holy Spirit, and from your celestial home shed a ray of light divine*.",
+				"pt-BR": "A Sequência de Ouro de Pentecostes — *Vinde, Espírito Santo, e enviai do céu um raio da vossa luz*."
+			},
+			"history": {
+				"en-US": "Usually attributed to Stephen Langton, Archbishop of Canterbury (d. 1228). It is one of the few sequences kept in the Roman Missal, sung before the Gospel on Pentecost.",
+				"pt-BR": "Atribuída geralmente a Estêvão Langton, arcebispo de Cantuária (m. 1228). É uma das poucas sequências conservadas no Missal Romano, cantada antes do Evangelho no dia de Pentecostes."
+			}
+		},
+		"stabat-mater": {
+			"icon": "mary",
+			"categories": [
+				"marian",
+				"passion"
+			],
+			"tags": [
+				"hymn",
+				"sorrows",
+				"sequence",
+				"lent"
+			],
+			"estimatedMinutes": 5,
+			"description": {
+				"en-US": "Our Lady standing at the Cross — the sequence of the Seven Sorrows, asking to share her grief.",
+				"pt-BR": "Nossa Senhora de pé junto à Cruz — a sequência das Sete Dores, que pede para partilhar a sua dor."
+			},
+			"history": {
+				"en-US": "A thirteenth-century Latin poem, often attributed to Jacopone da Todi. It is the sequence of the memorial of Our Lady of Sorrows (15 September), and its stanzas are sung between the stations of the Way of the Cross.",
+				"pt-BR": "Poema latino do século XIII, atribuído muitas vezes a Jacopone da Todi. É a sequência da memória de Nossa Senhora das Dores (15 de setembro), e as suas estrofes cantam-se entre as estações da Via-Sacra."
+			}
+		},
+		"blessed-be-your-purity": {
+			"icon": "mary",
+			"categories": [
+				"marian",
+				"devotion"
+			],
+			"tags": [
+				"purity",
+				"short-prayer"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "A short offering of the whole day to the Blessed Virgin, praising the purity in which God delights.",
+				"pt-BR": "Um breve oferecimento de todo o dia à Santíssima Virgem, louvando a pureza em que Deus se compraz."
+			}
+		},
+		"consecration-to-our-lady": {
+			"icon": "mary",
+			"categories": [
+				"marian",
+				"consecration"
+			],
+			"tags": [
+				"consecration",
+				"short-prayer"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "*My Queen and my Mother, I give myself entirely to you* — a short daily consecration of eyes, ears, mouth and heart to Our Lady.",
+				"pt-BR": "*Ó Senhora minha, ó minha Mãe, eu me ofereço todo a vós* — uma breve consagração diária a Nossa Senhora dos olhos, ouvidos, boca e coração."
+			}
+		},
+		"prayer-to-our-lady-before-mass": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"marian"
+			],
+			"tags": [
+				"mass",
+				"preparation"
+			],
+			"estimatedMinutes": 1,
+			"name": {
+				"en-US": "Prayer to Our Lady before Mass",
+				"pt-BR": "Oração a Nossa Senhora antes da Missa"
+			},
+			"description": {
+				"en-US": "Asking the Mother of mercy, who stood beside her Son on the Cross, to stand beside us and every priest offering the Holy Sacrifice today.",
+				"pt-BR": "Pede à Mãe de misericórdia, que esteve junto do seu Filho na Cruz, que esteja junto de nós e de todos os sacerdotes que hoje oferecem o Santo Sacrifício."
+			}
+		},
+		"prayer-to-st-joseph-before-mass": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"saints"
+			],
+			"tags": [
+				"mass",
+				"preparation",
+				"joseph"
+			],
+			"estimatedMinutes": 2,
+			"name": {
+				"en-US": "Prayer to St. Joseph before Mass",
+				"pt-BR": "Oração a São José antes da Missa"
+			},
+			"description": {
+				"en-US": "*O felicem virum* — St. Joseph held in his arms the One we are about to receive; ask for his clean heart.",
+				"pt-BR": "*O felicem virum* — São José teve nos braços Aquele que vamos receber; pede-se o seu coração limpo."
+			}
+		},
+		"prayer-of-st-ambrose": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"devotion"
+			],
+			"tags": [
+				"mass",
+				"preparation",
+				"ambrose"
+			],
+			"estimatedMinutes": 4,
+			"description": {
+				"en-US": "A long preparation for Mass and Communion — *Summe sacerdos* — approaching the altar in fear and trust, for oneself, the living and the dead.",
+				"pt-BR": "Uma longa preparação para a Missa e a Comunhão — *Summe sacerdos* — que se aproxima do altar com temor e confiança, por si, pelos vivos e pelos defuntos."
+			},
+			"history": {
+				"en-US": "Long attributed to St. Ambrose, it is now thought to be the work of John of Fécamp (eleventh century). The Roman Missal printed it among the priest's prayers of preparation before Mass.",
+				"pt-BR": "Longamente atribuída a Santo Ambrósio, pensa-se hoje que seja obra de João de Fécamp (século XI). O Missal Romano trazia-a entre as orações de preparação do sacerdote para a Missa."
+			}
+		},
+		"prayer-of-st-bonaventure": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"communion"
+			],
+			"tags": [
+				"thanksgiving",
+				"bonaventure",
+				"franciscan"
+			],
+			"estimatedMinutes": 3,
+			"description": {
+				"en-US": "*Transfige* — a thanksgiving after Communion asking to be wounded with love and to hunger always for the Bread of Angels.",
+				"pt-BR": "*Transfige* — uma ação de graças depois da Comunhão que pede ser ferido de amor e ter sempre fome do Pão dos Anjos."
+			},
+			"history": {
+				"en-US": "Attributed to St. Bonaventure (d. 1274) and printed in the Roman Missal among the prayers of thanksgiving after Mass.",
+				"pt-BR": "Atribuída a São Boaventura (m. 1274) e impressa no Missal Romano entre as orações de ação de graças depois da Missa."
+			}
+		},
+		"universal-prayer": {
+			"icon": "prayer",
+			"categories": [
+				"devotion",
+				"daily"
+			],
+			"tags": [
+				"thanksgiving",
+				"clement-xi",
+				"virtues"
+			],
+			"estimatedMinutes": 4,
+			"description": {
+				"en-US": "*Lord, I believe in You: increase my faith* — a whole programme of Christian life in the form of a prayer, asking for faith, hope, love and every virtue.",
+				"pt-BR": "*Senhor, eu creio em Vós: aumentai a minha fé* — todo um programa de vida cristã em forma de oração, pedindo fé, esperança, caridade e todas as virtudes."
+			},
+			"history": {
+				"en-US": "Attributed to Pope Clement XI (1700–1721). The Roman Missal printed it among the prayers of thanksgiving after Mass.",
+				"pt-BR": "Atribuída ao Papa Clemente XI (1700–1721). O Missal Romano trazia-a entre as orações de ação de graças depois da Missa."
+			}
+		},
+		"prayer-to-our-lady-after-mass": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"marian"
+			],
+			"tags": [
+				"thanksgiving",
+				"communion"
+			],
+			"estimatedMinutes": 2,
+			"name": {
+				"en-US": "Prayer to Our Lady after Communion",
+				"pt-BR": "Oração a Nossa Senhora depois da Comunhão"
+			},
+			"description": {
+				"en-US": "Having received her Son, we offer Him back to Our Lady, to be held in her arms and loved in her heart.",
+				"pt-BR": "Depois de receber o seu Filho, oferecemo-lo a Nossa Senhora, para que o estreite nos braços e o ame no seu coração."
+			}
+		},
+		"prayer-to-st-joseph-after-mass": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"saints"
+			],
+			"tags": [
+				"thanksgiving",
+				"joseph",
+				"purity"
+			],
+			"estimatedMinutes": 1,
+			"name": {
+				"en-US": "Prayer to St. Joseph after Communion",
+				"pt-BR": "Oração a São José depois da Comunhão"
+			},
+			"description": {
+				"en-US": "*Virginum custos* — to the guardian of Jesus and Mary, asking to serve them with a pure mind, heart and body.",
+				"pt-BR": "*Virginum custos* — ao guarda de Jesus e de Maria, pedindo para os servir com a mente, o coração e o corpo puros."
+			}
+		},
+		"canticle-of-the-three-children": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"scripture"
+			],
+			"tags": [
+				"canticle",
+				"benedicite",
+				"thanksgiving",
+				"daniel"
+			],
+			"estimatedMinutes": 6,
+			"description": {
+				"en-US": "The *Benedicite* of the three young men in the furnace (Daniel 3), calling all creation to bless the Lord, with Psalm 150 and the collects of thanksgiving after Mass.",
+				"pt-BR": "O *Benedicite* dos três jovens na fornalha (Daniel 3), que chama toda a criação a bendizer o Senhor, com o Salmo 150 e as coletas de ação de graças depois da Missa."
+			}
+		},
+		"psalm-2": {
+			"icon": "scroll",
+			"categories": [
+				"scripture",
+				"devotion"
+			],
+			"tags": [
+				"psalm",
+				"christ-the-king",
+				"divine-filiation"
+			],
+			"estimatedMinutes": 3,
+			"name": {
+				"en-US": "Psalm 2",
+				"pt-BR": "Salmo 2"
+			},
+			"description": {
+				"en-US": "*Why this tumult among the nations?* — the royal psalm of the Son: *You are my Son; it is I who have begotten you this day.*",
+				"pt-BR": "*Por que se amotinam as nações?* — o salmo régio do Filho: *Tu és meu Filho, eu hoje te gerei.*"
+			}
+		},
+		"psalm-50": {
+			"icon": "scroll",
+			"categories": [
+				"scripture",
+				"penance"
+			],
+			"tags": [
+				"psalm",
+				"miserere",
+				"penitential"
+			],
+			"estimatedMinutes": 4,
+			"name": {
+				"en-US": "Psalm 50 (Miserere)",
+				"pt-BR": "Salmo 50 (Miserere)"
+			},
+			"description": {
+				"en-US": "*Have mercy on me, God* — David's psalm of repentance, the greatest of the seven penitential psalms.",
+				"pt-BR": "*Tende piedade de mim, ó Deus* — o salmo de arrependimento de David, o maior dos sete salmos penitenciais."
+			}
+		},
+		"o-bona-crux": {
+			"icon": "cross",
+			"categories": [
+				"passion",
+				"devotion"
+			],
+			"tags": [
+				"cross",
+				"andrew",
+				"short-prayer"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "*O Good Cross, long desired* — the greeting to the cross put on the lips of the Apostle St. Andrew at his martyrdom.",
+				"pt-BR": "*Ó Cruz boa, há tanto tempo desejada* — a saudação à cruz posta nos lábios do Apóstolo Santo André no seu martírio."
+			}
+		},
+		"way-of-the-cross-opus-dei": {
+			"icon": "cross",
+			"categories": [
+				"passion",
+				"devotion"
+			],
+			"tags": [
+				"stations",
+				"lent",
+				"friday",
+				"opus-dei"
+			],
+			"estimatedMinutes": 20,
+			"name": {
+				"en-US": "Way of the Cross (Pocket Prayer Book)",
+				"pt-BR": "Via-Sacra (Devocionário)"
+			},
+			"description": {
+				"en-US": "The framework of the Way of the Cross as the Pocket Prayer Book sets it out — the verses said at each station — followed by the acceptance of death and other prayers for the end.",
+				"pt-BR": "O esquema da Via-Sacra tal como o Devocionário o apresenta — os versículos rezados em cada estação — seguido da aceitação da morte e de outras orações para o fim."
+			}
+		},
+		"blessing-for-a-journey": {
+			"icon": "prayer",
+			"categories": [
+				"devotion",
+				"protection"
+			],
+			"tags": [
+				"journey",
+				"travel",
+				"opus-dei",
+				"short-prayer"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "*Beata Maria intercedente, bene ambulemus* — a short blessing asked before setting out, through Our Lady's intercession.",
+				"pt-BR": "*Beata Maria intercedente, bene ambulemus* — uma breve bênção pedida antes de partir, pela intercessão de Nossa Senhora."
+			}
+		},
+		"ubi-caritas": {
+			"icon": "prayer",
+			"categories": [
+				"devotion",
+				"eucharistic"
+			],
+			"tags": [
+				"hymn",
+				"charity",
+				"holy-thursday"
+			],
+			"estimatedMinutes": 2,
+			"description": {
+				"en-US": "*Where charity and love are, God is there* — the chant of fraternal charity.",
+				"pt-BR": "*Onde há caridade e amor, aí está Deus* — o canto da caridade fraterna."
+			},
+			"history": {
+				"en-US": "An early medieval chant, traditionally sung at the washing of feet in the Mass of the Lord's Supper on Holy Thursday.",
+				"pt-BR": "Canto da alta Idade Média, cantado tradicionalmente no lava-pés da Missa da Ceia do Senhor na Quinta-feira Santa."
+			}
+		},
+		"pax-in-caelo": {
+			"icon": "prayer",
+			"categories": [
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"peace"
+			],
+			"estimatedMinutes": 2,
+			"description": {
+				"en-US": "*Peace in heaven, peace on earth, peace to the priests of God's Church* — a chant of peace built on Christ, the King of Peace.",
+				"pt-BR": "*Paz no céu, paz na terra, paz aos sacerdotes da Igreja de Deus* — um canto de paz construído sobre Cristo, Rei da Paz."
+			}
+		},
+		"rorate-caeli": {
+			"icon": "cloud-rain",
+			"categories": [
+				"seasonal",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"advent"
+			],
+			"estimatedMinutes": 3,
+			"description": {
+				"en-US": "*Drop down dew, ye heavens* — the Advent chant of longing for the Just One, from Isaiah 45:8.",
+				"pt-BR": "*Céus, deixai cair o orvalho* — o canto do Advento que anseia pelo Justo, de Isaías 45, 8."
+			}
+		},
+		"te-ioseph": {
+			"icon": "prayer",
+			"categories": [
+				"saints",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"joseph"
+			],
+			"estimatedMinutes": 3,
+			"description": {
+				"en-US": "*Te, Ioseph, celebrent* — the hymn of praise to St. Joseph, spouse of the Virgin and guardian of the Child.",
+				"pt-BR": "*Te, Ioseph, celebrent* — o hino de louvor a São José, esposo da Virgem e guarda do Menino."
+			},
+			"history": {
+				"en-US": "The Vespers hymn of the feast of St. Joseph in the Roman Breviary.",
+				"pt-BR": "O hino de Vésperas da festa de São José no Breviário Romano."
+			}
+		},
+		"media-vita": {
+			"icon": "cross",
+			"categories": [
+				"seasonal",
+				"penance"
+			],
+			"tags": [
+				"hymn",
+				"lent",
+				"death"
+			],
+			"estimatedMinutes": 2,
+			"description": {
+				"en-US": "*In the midst of life we are in death* — the Lenten antiphon asking the holy and merciful Saviour not to hand us over to bitter death.",
+				"pt-BR": "*No meio da vida estamos na morte* — a antífona da Quaresma que pede ao Salvador santo e misericordioso que não nos entregue à morte amarga."
+			}
+		},
+		"ave-verum": {
+			"icon": "eucharist",
+			"categories": [
+				"eucharistic",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"communion",
+				"adoration"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "*Hail, true Body, born of the Virgin Mary* — a short Eucharistic hymn, traditionally sung at the elevation.",
+				"pt-BR": "*Salve, verdadeiro Corpo nascido da Virgem Maria* — um breve hino eucarístico, cantado tradicionalmente na elevação."
+			},
+			"history": {
+				"en-US": "A fourteenth-century Latin rhyme, best known today in Mozart's setting (1791).",
+				"pt-BR": "Um poema latino do século XIV, hoje conhecido sobretudo pela música de Mozart (1791)."
+			}
+		},
+		"ave-maris-stella": {
+			"icon": "mary",
+			"categories": [
+				"marian",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"vespers"
+			],
+			"estimatedMinutes": 2,
+			"description": {
+				"en-US": "*Hail, Star of the sea* — the ancient Vespers hymn of Our Lady, turning Eva into Ave.",
+				"pt-BR": "*Ave, Estrela do mar* — o antigo hino de Vésperas de Nossa Senhora, que muda Eva em Ave."
+			},
+			"history": {
+				"en-US": "One of the oldest Marian hymns, found in manuscripts of the ninth century; it has been sung at Vespers of Our Lady ever since.",
+				"pt-BR": "Um dos hinos marianos mais antigos, encontrado em manuscritos do século IX; desde então canta-se nas Vésperas de Nossa Senhora."
+			}
+		},
+		"lux-aeterna": {
+			"icon": "candle",
+			"categories": [
+				"purgatory",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"dead",
+				"requiem"
+			],
+			"estimatedMinutes": 1,
+			"description": {
+				"en-US": "*May eternal light shine on them, Lord* — the communion antiphon of the Mass for the Dead.",
+				"pt-BR": "*A luz eterna brilhe para eles, Senhor* — a antífona da comunhão da Missa de defuntos."
+			}
+		},
+		"vexilla-regis": {
+			"icon": "cross",
+			"categories": [
+				"passion",
+				"seasonal"
+			],
+			"tags": [
+				"hymn",
+				"cross",
+				"holy-week"
+			],
+			"estimatedMinutes": 3,
+			"description": {
+				"en-US": "*The standards of the King go forth* — the hymn of the Holy Cross, on which Life endured death and from death brought forth life.",
+				"pt-BR": "*Avançam os estandartes do Rei* — o hino da Santa Cruz, na qual a Vida sofreu a morte e da morte fez brotar a vida."
+			},
+			"history": {
+				"en-US": "Written by Venantius Fortunatus in 569 for the arrival of a relic of the True Cross at Poitiers; the Vespers hymn of Passiontide.",
+				"pt-BR": "Escrito por Venâncio Fortunato em 569 para a chegada de uma relíquia da Santa Cruz a Poitiers; o hino de Vésperas do tempo da Paixão."
+			}
+		},
+		"adeste-fideles": {
+			"icon": "sparkles",
+			"categories": [
+				"seasonal",
+				"devotion"
+			],
+			"tags": [
+				"hymn",
+				"christmas"
+			],
+			"estimatedMinutes": 2,
+			"name": {
+				"en-US": "Adeste, Fideles",
+				"pt-BR": "Adeste, Fideles"
+			},
+			"description": {
+				"en-US": "*O come, all ye faithful* — the Christmas hymn, in Latin.",
+				"pt-BR": "*Vinde, fiéis* — o hino de Natal, em latim."
+			}
+		},
+		"responsory-for-the-dead": {
+			"icon": "candle",
+			"categories": [
+				"purgatory",
+				"devotion"
+			],
+			"tags": [
+				"dead",
+				"responsory",
+				"requiem"
+			],
+			"estimatedMinutes": 4,
+			"name": {
+				"en-US": "Responsory for the Dead",
+				"pt-BR": "Responsório pelos defuntos"
+			},
+			"description": {
+				"en-US": "*Ne recorderis* — the responsory prayed for one of the faithful departed or for all of them, ending with the prayers for the dead.",
+				"pt-BR": "*Ne recorderis* — o responsório rezado por um fiel defunto ou por todos eles, que termina com as orações pelos defuntos."
+			}
+		},
+		"responsory-de-profundis": {
+			"icon": "candle",
+			"categories": [
+				"purgatory",
+				"devotion"
+			],
+			"tags": [
+				"dead",
+				"responsory",
+				"de-profundis"
+			],
+			"estimatedMinutes": 3,
+			"name": {
+				"en-US": "Responsory for the Dead II",
+				"pt-BR": "Responsório pelos defuntos II"
+			},
+			"description": {
+				"en-US": "The second responsory for the dead, in Latin, built on the *De profundis*.",
+				"pt-BR": "O segundo responsório pelos defuntos, em latim, construído sobre o *De profundis*."
+			}
+		},
+		"responsory-subvenite": {
+			"icon": "candle",
+			"categories": [
+				"purgatory",
+				"devotion"
+			],
+			"tags": [
+				"dead",
+				"responsory",
+				"subvenite"
+			],
+			"estimatedMinutes": 4,
+			"name": {
+				"en-US": "Responsory for the Dead (Subvenite)",
+				"pt-BR": "Responso pelos defuntos"
+			},
+			"description": {
+				"en-US": "*Come to his aid, saints of God* — the responsory prayed beside one who has just died, with the prayers that follow it.",
+				"pt-BR": "*Santos de Deus, vinde em seu auxílio* — o responso rezado junto de quem acabou de morrer, com as orações que o acompanham."
+			}
+		},
+		"formulas-of-catholic-doctrine": {
+			"icon": "book",
+			"categories": [
+				"formation"
+			],
+			"tags": [
+				"catechism",
+				"commandments",
+				"virtues",
+				"works-of-mercy",
+				"compendium"
+			],
+			"estimatedMinutes": 8,
+			"name": {
+				"en-US": "Formulas of Catholic Doctrine",
+				"pt-BR": "Fórmulas de doutrina católica"
+			},
+			"description": {
+				"en-US": "The lists every Catholic learns by heart: the commandments of love, the Ten Commandments, the Beatitudes, the virtues, the gifts and fruits of the Holy Spirit, the precepts of the Church, the works of mercy, the capital sins and the last things.",
+				"pt-BR": "As listas que todo católico aprende de cor: os mandamentos do amor, os Dez Mandamentos, as Bem-aventuranças, as virtudes, os dons e os frutos do Espírito Santo, os preceitos da Igreja, as obras de misericórdia, os pecados capitais e os novíssimos."
+			},
+			"history": {
+				"en-US": "As in the appendix of the Compendium of the Catechism of the Catholic Church (2005).",
+				"pt-BR": "Tal como no apêndice do Compêndio do Catecismo da Igreja Católica (2005)."
+			}
+		},
+		"prayer-card-josemaria": {
+			"card": {
+				"en-US": "St. Josemaría Escrivá",
+				"pt-BR": "São Josemaria Escrivá"
+			},
+			"description": {
+				"en-US": "The prayer card of St. Josemaría Escrivá (1902–1975), founder of Opus Dei, asking for a favour through his intercession.",
+				"pt-BR": "A estampa de São Josemaria Escrivá (1902–1975), fundador do Opus Dei, para pedir um favor por sua intercessão."
+			}
+		},
+		"prayer-card-alvaro-del-portillo": {
+			"card": {
+				"en-US": "Bl. Álvaro del Portillo",
+				"pt-BR": "Bem-aventurado Álvaro del Portillo"
+			},
+			"description": {
+				"en-US": "The prayer card of Blessed Álvaro del Portillo (1914–1994), bishop and prelate of Opus Dei, St. Josemaría's first successor.",
+				"pt-BR": "A estampa do Bem-aventurado Álvaro del Portillo (1914–1994), bispo e prelado do Opus Dei, primeiro sucessor de São Josemaria."
+			}
+		},
+		"prayer-card-guadalupe-ortiz-de-landazuri": {
+			"card": {
+				"en-US": "Bl. Guadalupe Ortiz de Landázuri",
+				"pt-BR": "Bem-aventurada Guadalupe Ortiz de Landázuri"
+			},
+			"description": {
+				"en-US": "The prayer card of Blessed Guadalupe Ortiz de Landázuri (1916–1975), chemist and teacher, one of the first women of Opus Dei.",
+				"pt-BR": "A estampa da Bem-aventurada Guadalupe Ortiz de Landázuri (1916–1975), química e professora, uma das primeiras mulheres do Opus Dei."
+			}
+		},
+		"prayer-card-montse-grases": {
+			"card": {
+				"en-US": "Ven. Montse Grases",
+				"pt-BR": "Venerável Montse Grases"
+			}
+		},
+		"prayer-card-isidoro-zorzano": {
+			"card": {
+				"en-US": "Ven. Isidoro Zorzano",
+				"pt-BR": "Venerável Isidoro Zorzano"
+			}
+		},
+		"prayer-card-ernesto-cofino": {
+			"card": {
+				"en-US": "Ven. Ernesto Cofiño",
+				"pt-BR": "Venerável Ernesto Cofiño"
+			}
+		},
+		"prayer-card-toni-zweifel": {
+			"card": {
+				"en-US": "Toni Zweifel",
+				"pt-BR": "Toni Zweifel"
+			}
+		},
+		"prayer-card-tomas-alvira-paquita-dominguez": {
+			"card": {
+				"en-US": "Tomás Alvira and Paquita Domínguez",
+				"pt-BR": "Tomás Alvira e Paquita Domínguez"
+			}
+		},
+		"prayer-card-eduardo-ortiz-de-landazuri-laura-busca": {
+			"card": {
+				"en-US": "Eduardo Ortiz de Landázuri and Laura Busca",
+				"pt-BR": "Eduardo Ortiz de Landázuri e Laura Busca"
+			}
+		},
+		"prayer-card-dora-del-hoyo": {
+			"card": {
+				"en-US": "Dora del Hoyo",
+				"pt-BR": "Dora del Hoyo"
+			}
+		},
+		"prayer-card-jose-luis-muzquiz": {
+			"card": {
+				"en-US": "Fr. José Luis Múzquiz",
+				"pt-BR": "Pe. José Luis Múzquiz"
+			}
+		},
+		"prayer-card-jose-maria-hernandez-garnica": {
+			"card": {
+				"en-US": "Fr. José María Hernández Garnica",
+				"pt-BR": "Pe. José María Hernández Garnica"
+			}
+		},
+		"prayer-card-arturo-alvarez": {
+			"card": {
+				"en-US": "Arturo Álvarez",
+				"pt-BR": "Arturo Álvarez"
+			}
+		},
+		"prayer-card-encarnita-ortega": {
+			"card": {
+				"en-US": "Encarnita Ortega",
+				"pt-BR": "Encarnita Ortega"
+			}
+		},
+		"prayer-card-marcelo-camara": {
+			"card": {
+				"en-US": "Marcelo Câmara",
+				"pt-BR": "Marcelo Câmara"
+			}
+		},
+		"prayer-card-juan-ignacio-larrea": {
+			"card": {
+				"en-US": "Juan Ignacio Larrea",
+				"pt-BR": "Juan Ignacio Larrea"
+			}
+		}
+	}
+}

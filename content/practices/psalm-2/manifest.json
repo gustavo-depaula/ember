@@ -1,0 +1,55 @@
+{
+	"id": "psalm-2",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"ca": "Salm II",
+		"da": "Salme 2",
+		"en-US": "Psalm 2",
+		"es": "Salmo II",
+		"fr": "Psaume II",
+		"hr": "Psalam II",
+		"hu": "2. zsoltár",
+		"it": "Salmo 2",
+		"la": "Psalmus II",
+		"pt-BR": "Salmo 2",
+		"pt-PT": "Salmo 2",
+		"ro": "Psalmul al II-lea",
+		"sk": "Žalm II",
+		"sl": "Psalm 2",
+		"sv": "Psalm 2"
+	},
+	"categories": [
+		"scripture",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Why this tumult among the nations?* — the royal psalm of the Son: *You are my Son; it is I who have begotten you this day.*",
+		"pt-BR": "*Por que se amotinam as nações?* — o salmo régio do Filho: *Tu és meu Filho, eu hoje te gerei.*"
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=303&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"psalm",
+		"christ-the-king",
+		"divine-filiation"
+	],
+	"defaults": {
+		"sortOrder": 416,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

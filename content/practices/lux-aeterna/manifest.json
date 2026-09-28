@@ -1,0 +1,48 @@
+{
+	"id": "lux-aeterna",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"da": "Lux aeterna",
+		"en-US": "Lux aeterna",
+		"es": "Lux aeterna",
+		"fr": "Lux aeterna",
+		"hu": "Lux aeterna (Az örök világosság)",
+		"la": "Lux aeterna",
+		"pt-PT": "Lux aeterna",
+		"ro": "Lux aeterna"
+	},
+	"categories": [
+		"purgatory",
+		"devotion"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*May eternal light shine on them, Lord* — the communion antiphon of the Mass for the Dead.",
+		"pt-BR": "*A luz eterna brilhe para eles, Senhor* — a antífona da comunhão da Missa de defuntos."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"dead",
+		"requiem"
+	],
+	"defaults": {
+		"sortOrder": 428,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,54 @@
+{
+	"id": "prayer-to-our-lady-after-mass",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"ca": "Oració a la Verge Santíssima",
+		"da": "En bøn til Jomfru Maria",
+		"en-US": "Prayer to Our Lady after Communion",
+		"es": "Oración a la Santísima Virgen",
+		"fr": "Prières à la bienheureuse Vierge Marie",
+		"hr": "Molitva Majci Božjoj",
+		"hu": "Orátio ad B. Maríam Vírginem",
+		"it": "Preghiera alla Beata Vergine Maria",
+		"la": "Orátio ad B. Maríam Vírginem",
+		"pt-BR": "Oração a Nossa Senhora depois da Comunhão",
+		"pt-PT": "Oração a Nossa Senhora",
+		"ro": "Rugăciune către sfânta Fecioară Maria",
+		"sk": "s Pannou Máriou",
+		"sl": "Molitev k Devici Mariji",
+		"sv": "En bön till jungfru Maria"
+	},
+	"categories": [
+		"eucharistic",
+		"marian"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "Having received her Son, we offer Him back to Our Lady, to be held in her arms and loved in her heart.",
+		"pt-BR": "Depois de receber o seu Filho, oferecemo-lo a Nossa Senhora, para que o estreite nos braços e o ame no seu coração."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=302&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"thanksgiving",
+		"communion"
+	],
+	"defaults": {
+		"sortOrder": 413,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

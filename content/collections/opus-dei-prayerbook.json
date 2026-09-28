@@ -1,0 +1,505 @@
+{
+	"id": "collection/opus-dei-prayerbook",
+	"version": "1.0.0",
+	"cover": "boxed",
+	"name": {
+		"en-US": "Pocket Prayer Book",
+		"pt-BR": "Devocionário"
+	},
+	"description": {
+		"en-US": "Opus Dei's book of prayers, in the order of the book: the common prayers, the Blessed Trinity, the Eucharist, the Holy Spirit and Our Lady, the preparation for Mass and the thanksgiving after it, hymns, prayers for the dead, the formulas of Catholic doctrine, and the prayer cards of the saints and servants of God of the Work.",
+		"pt-BR": "O livro de orações do Opus Dei, na ordem do livro: as orações comuns, a Santíssima Trindade, a Eucaristia, o Espírito Santo e Nossa Senhora, a preparação para a Missa e a ação de graças depois dela, hinos, orações pelos defuntos, as fórmulas da doutrina católica e as estampas dos santos e servos de Deus da Obra."
+	},
+	"icon": "book",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"opus-dei",
+		"prayer-book",
+		"josemaria",
+		"latin"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"sections": [
+		{
+			"id": "common-prayers",
+			"title": {
+				"en-US": "Common Prayers",
+				"pt-BR": "Orações comuns"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/sign-of-cross"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-father"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/hail-mary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/glory-be"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-of-contrition"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/confiteor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nicene-creed"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/apostles-creed"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/angele-dei"
+				}
+			]
+		},
+		{
+			"id": "blessed-trinity",
+			"title": {
+				"en-US": "Blessed Trinity",
+				"pt-BR": "Santissima Trindade"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/athanasian-creed"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-deum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/angelic-trisagion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-of-faith"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-of-hope"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/act-of-charity"
+				}
+			]
+		},
+		{
+			"id": "eucharistic-adoration",
+			"title": {
+				"en-US": "Eucharistic Adoration",
+				"pt-BR": "Adoração Eucarística"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/visit-blessed-sacrament"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/adoro-te-devote"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/pange-lingua"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/sacris-solemniis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lauda-sion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iesu-dulcis-memoria"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/verbum-supernum"
+				}
+			]
+		},
+		{
+			"id": "holy-spirit",
+			"title": {
+				"en-US": "Holy Spirit",
+				"pt-BR": "Espírito Santo"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/come-holy-spirit"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/veni-creator-spiritus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/veni-sancte-spiritus"
+				}
+			]
+		},
+		{
+			"id": "blessed-virgin-mary",
+			"title": {
+				"en-US": "Blessed Virgin Mary",
+				"pt-BR": "Nossa Senhora"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/angelus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/regina-caeli"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/memorare"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/rosary"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/sub-tuum-praesidium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/stabat-mater"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/blessed-be-your-purity"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/alma-redemptoris-mater"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ave-regina-caelorum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/magnificat"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/hail-holy-queen"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/consecration-to-our-lady"
+				}
+			]
+		},
+		{
+			"id": "preparation-for-holy-mass",
+			"title": {
+				"en-US": "Preparation for Holy Mass",
+				"pt-BR": "Preparação para a Santa Missa"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/prayer-to-our-lady-before-mass"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-to-st-joseph-before-mass"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-before-communion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-of-st-ambrose"
+				}
+			]
+		},
+		{
+			"id": "thanksgiving-after-holy-mass",
+			"title": {
+				"en-US": "Thanksgiving after Holy Mass",
+				"pt-BR": "Ação de Graças após a Santa Missa"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/st-michael"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aquinas-after-communion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-of-st-bonaventure"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/universal-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-before-crucifix"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/anima-christi"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-to-our-lady-after-mass"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-to-st-joseph-after-mass"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-the-three-children"
+				}
+			]
+		},
+		{
+			"id": "other-prayers-psalms",
+			"title": {
+				"en-US": "Other Prayers & Psalms",
+				"pt-BR": "Outras devoções e salmos"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/psalm-2"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/psalm-50"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-bona-crux"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/way-of-the-cross-opus-dei"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/spiritual-reading"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/grace-meals"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/blessing-for-a-journey"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/preces-opus-dei"
+				}
+			]
+		},
+		{
+			"id": "hymns",
+			"title": {
+				"en-US": "Hymns",
+				"pt-BR": "Hinos"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/ubi-caritas"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/pax-in-caelo"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/rorate-caeli"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-ioseph"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/media-vita"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ave-verum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ave-maris-stella"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/benedictus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-pope-bishop"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lux-aeterna"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/vexilla-regis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/adeste-fideles"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nunc-dimittis"
+				}
+			]
+		},
+		{
+			"id": "prayers-for-the-dead",
+			"title": {
+				"en-US": "Prayers for the Dead",
+				"pt-BR": "Orações pelos Defuntos"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/responsory-for-the-dead"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/responsory-de-profundis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/responsory-subvenite"
+				}
+			]
+		},
+		{
+			"id": "formulas-of-catholic-doctrine",
+			"title": {
+				"en-US": "Formulas of Catholic Doctrine",
+				"pt-BR": "Fórmulas de Doutrina Católica"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/formulas-of-catholic-doctrine"
+				}
+			]
+		},
+		{
+			"id": "prayer-cards",
+			"title": {
+				"en-US": "Prayer Cards",
+				"pt-BR": "Estampas"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-josemaria"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-alvaro-del-portillo"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-guadalupe-ortiz-de-landazuri"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-montse-grases"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-isidoro-zorzano"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-ernesto-cofino"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-toni-zweifel"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-tomas-alvira-paquita-dominguez"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-eduardo-ortiz-de-landazuri-laura-busca"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-dora-del-hoyo"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-jose-luis-muzquiz"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-jose-maria-hernandez-garnica"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-arturo-alvarez"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-encarnita-ortega"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-marcelo-camara"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/prayer-card-juan-ignacio-larrea"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za osobnu pobožnost",
+				"hu": "Imádság a magán áhítat számára",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Modlitba pre súkromnú pobožnosť"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"fr": "Prière",
+				"hr": "MOLITVA",
+				"hu": "Imádság",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu Pare, font de tot bé, que omplíreu de gràcies el vostre fill Ernesto, metge, perquè fos servidor fidel de la vida que comença en Vós i pertany només a Vós: feu que jo sàpiga també respectar i promoure el do de la vida i complir amb generositat els deures de cada dia, per Amor a Jesucrist i als meus germans els homes.\n\nDigneu-vos glorificar el vostre servent Ernesto i concediu-me, per la seva intercessió, el favor que us demano... (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "O God, our Father, source of all good, You granted your son Ernesto abundant graces to be a doctor and father of a family who faithfully served the life that begins in You and belongs to You alone, and a true friend of his friends, bringing many closer to you. Grant that I too may respect and foster the gift of life, and generously fulfil my daily duties and be a better friend, out of love for Jesus Christ and for others.\n\nDeign to glorify your servant, Ernesto, and through his intercession grant me the favour I request... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios Padre, fuente de todo bien, que llenaste de gracias a tu hijo Ernesto, médico y padre de familia, para ser fiel servidor de la vida que en Ti comienza y sólo a Ti pertenece, y verdadero amigo de sus amigos, acercando a muchos a Ti: haz que yo sepa también proteger el don de la vida, cumplir con generosidad mis deberes de cada día y ser mejor amigo, por Amor a Jesucristo y a los demás.\n\nDígnate glorificar a tu siervo Ernesto y concédeme por su intercesión el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Dieu le Père, source de tout bien, Tu as comblé de grâces ton fils Ernesto, médecin, pour qu'il soit un fidèle serviteur de la vie, qui commence en Toi et n'appartient qu'à Toi. Accorde-moi d’être moi aussi un défenseur de la vie ; fais que je sache remplir mes devoirs quotidiens avec générosité, par amour de Jésus-Christ et de mes frères et sœurs, les hommes.\n\nDaigne glorifier ton serviteur Ernesto et accorde-moi, par son intercession, la faveur que je te demande : (formuler la demande…) Amen.\n\n*Notre Père, Je vous salue Marie, Gloire au Père*",
+				"hr": "Bože Oče, izvore svakog dobra, koji si svome sluzi Ernestu, liječniku, udijelio milost da bude vjeran sluga života koji u tebi počinje i samo tebi pripada; učini da i ja znam cijeniti i promicati dar života i velikodušno ispunjavati svoje svakodnevne dužnosti, iz ljubavi prema Isusu Kristu i mojoj braći ljudima.\n\nUdostoj se proslaviti svoga slugu Ernesta i po njegovu zagovoru usliši ovu moju molitvu... Amen.\n\n*Oče Naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Uram, Isteni Atyám, minden jó forrása! Te kegyelmeddel töltötted el orvos fiadat, Ernestót, hogy hűséggel szolgálja az életet, ami Benned kezdődik és amit csak Te mondhatsz magadénak. Add, hogy én is tiszteljem és védjem az élet kegyelmét, és hogy Jézus Krisztus és embertársaim iránti szeretetből nagylelkű odaadással teljesítsem mindennapi kötelességeimet.\n\nDicsőítsd meg szolgádat Ernestót és add meg nekem közbenjárására, hogy ... (*a kérés*). Ámen.\n\n*Miatyánk, Üdvözlégy, Dicsőség.*",
+				"pt-BR": "Ó Deus Pai, fonte de todo bem, que cumulaste de graças ao vosso filho Ernesto, médico, para ser fiel servidor da vida que em Vós começa e só a Vós pertence; fazei que eu saiba também respeitar e promover o dom da vida e cumprir com generosidade os meus deveres de cada dia, por amor a Jesus Cristo e aos meus irmãos, os homens.\n\nDignai-vos glorificar o vosso servo Ernesto e concedei-me por sua intercessão o favor que vos peço... Assim seja.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Deus Pai, fonte de todo bem, que enchestes de graças o vosso filho Ernesto, médico, para ser fiel servidor da vida que em Vós começa e só a Vós pertence, fazei que eu saiba também respeitar e promover o dom da vida e cumprir com generosidade os meus deveres de cada dia, por amor a Jesus Cristo e a todos os homens, meus irmãos.\n\nDignai-Vos glorificar o vosso servo Ernesto e concedei-me por sua intercessão o favor que Vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Dumnezeule Tată, izvor al oricărui bine, care l-ai umplut de haruri pe fiul Tău Ernesto, medic și tată de familie, pentru a fi slujitor credincios al vieții care își are începutul în Tine și Îți aparține numai Ție și adevărat prieten al prietenilor săi, apropiind pe mulți de Tine: fă ca și eu să știu să ocrotesc darul vieții, să-mi împlinesc cu generozitate îndatoririle zilnice și să fiu un prieten mai bun, din iubire față de Isus Cristos și față de ceilalți.\n\nÎndură-Te să-l preamărești pe slujitorul Tău Ernesto și, prin mijlocirea lui, dăruiește-mi harul pe care Ți-l cer... (*se face cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Ó Bože, Otče náš, zdroj všetkého dobra, Ty si daroval svojmu synovi Ernestovi hojné milosti stať sa doktorom a verne slúžiť životu, ktorý sa začína v Tebe a patrí iba Tebe. Daj, aby som si aj ja vážil a podporoval dar života a veľkoryso si plnil svoje každodenné povinnosti z lásky k Ježišovi Kristovi a k svojim bratom a sestrám.\n\nRáč osláviť svojho služobníka Ernesta a udeľ mi skrze jeho príhovor priazeň, o ktorú prosím ... (konkrétna prosba). Amen.\n\nOtče náš, Zdravas Mária, Sláva Otcu."
+			}
+		}
+	]
+}

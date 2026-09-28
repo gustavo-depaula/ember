@@ -1,0 +1,59 @@
+{
+	"id": "confiteor",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"ca": "Jo pecador",
+		"da": "Syndsbekendelse",
+		"en-US": "I Confess",
+		"es": "Yo confieso",
+		"fr": "Je confesse à Dieu",
+		"hr": "Ispovijedam se",
+		"hu": "Confiteor (Bűnbánati ima)",
+		"it": "Confesso",
+		"la": "Confíteor",
+		"pt-BR": "Confesso",
+		"pt-PT": "Confesso",
+		"ro": "Mărturisesc",
+		"sk": "Úkon kajúcnosti",
+		"sl": "Kesanje",
+		"sv": "Syndabekännelse"
+	},
+	"categories": [
+		"devotion",
+		"penance"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "The general confession of sins — *I confess to almighty God* — made before God, the saints and one another. It opens the penitential act of the Mass, and the book gives the older, longer form alongside it.",
+		"pt-BR": "A confissão geral dos pecados — *Confesso a Deus todo-poderoso* — feita diante de Deus, dos santos e uns dos outros. Abre o ato penitencial da Missa, e o livro traz ao lado a forma mais antiga e mais longa."
+	},
+	"history": {
+		"en-US": "The Confiteor grew out of the private preparatory prayers of the priest in the early Middle Ages and entered the Roman Missal of 1570 among the prayers at the foot of the altar. The Missal of Paul VI kept it, in a shorter form, as the first option for the penitential act.",
+		"pt-BR": "O Confiteor nasceu das orações privadas de preparação do sacerdote na alta Idade Média e entrou no Missal Romano de 1570 entre as orações ao pé do altar. O Missal de Paulo VI conservou-o, numa forma mais breve, como primeira opção do ato penitencial."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=296&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=191&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"confiteor",
+		"penitential",
+		"mass"
+	],
+	"defaults": {
+		"sortOrder": 400,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

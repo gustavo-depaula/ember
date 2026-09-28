@@ -4,7 +4,19 @@
 	"name": {
 		"en-US": "Sign of the Cross",
 		"pt-BR": "Sinal da Cruz",
-		"la": "Signum Crucis"
+		"la": "Signum Crucis",
+		"ca": "Senyal de la Creu",
+		"da": "Korstegnet",
+		"es": "Señal de la Cruz",
+		"fr": "Signe de Croix",
+		"hr": "Znak križa",
+		"hu": "Keresztvetés",
+		"it": "Segno della Croce",
+		"pt-PT": "Sinal da Cruz",
+		"ro": "Semnul crucii",
+		"sk": "Znak Kríža",
+		"sl": "Križ",
+		"sv": "Korstecknet"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +25,19 @@
 				"inline": {
 					"en-US": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
 					"pt-BR": "Em nome do Pai, e do Filho, e do Espírito Santo. Amém.",
-					"la": "In nómine Patris, et Fílii, et Spíritus Sancti. Amen."
+					"la": "In nómine Patris, et Fílii, et Spíritus Sancti. Amen.",
+					"ca": "En el nom del Pare i del Fill i de l'Esperit Sant. Amén.",
+					"da": "I Faderens og Sønnens og Helligåndens navn. Amen.",
+					"es": "En el nombre del Padre y del Hijo y del Espíritu Santo. Amén.",
+					"fr": "Au nom du Père, et du Fils, et du Saint-Esprit, Amen.",
+					"hr": "U ime Oca i Sina i Duha Svetoga. Amen.",
+					"hu": "Az Atya, a Fiú és a Szentlélek nevében. Ámen.",
+					"it": "Nel nome del Padre e del Figlio e dello Spirito Santo. Amen.",
+					"pt-PT": "Em nome do Pai e do Filho e do Espírito Santo. Ámen.",
+					"ro": "În numele Tatălui și al Fiului și al Sfântului Duh. Amin.",
+					"sk": "V mene Otca i Syna i Ducha Svätého. Amen.",
+					"sl": "V imenu Očeta in Sina in Svetega Duha. Amen.",
+					"sv": "I Faderns och Sonens och den Helige Andes namn. Amen."
 				}
 			}
 		]

@@ -1,0 +1,455 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "En el nom del Pare i del Fill i de l'Esperit Sant. Amén.",
+				"da": "I Faderens og Sønnens og den Hellige Ånds navn. Amen.",
+				"en-US": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+				"es": "En el nombre del Padre y del Hijo y del Espíritu Santo. Amén.",
+				"fr": "Au nom du Père et du Fils et du Saint-Esprit. Amen.",
+				"hr": "U ime Oca i Sina i Duha Svetoga. Amen.",
+				"hu": "Az Atya, A Fiú és a Szentlélek nevében. Ámen.",
+				"it": "Nel nome del Padre e del Figlio e dello Spirito Santo. Amen.",
+				"la": "In nómine Patris et Fílii et Spíritus Sancti. Amen.",
+				"pt-BR": "Em nome do Pai, do Filho, e do Espírito Santo. Amém.",
+				"pt-PT": "Em nome do Pai, e do Filho, e do Espírito Santo. Ámen.",
+				"ro": "În numele Tatălui și al Fiului și al Sfântului Duh.",
+				"sk": "V mene Otca i Syna i Ducha Svätého. Amen.",
+				"sl": "V imenu Očeta in Sina in Svetega Duha. Amen.",
+				"sv": "I Faderns och Sonens och den Helige Andes Namn. Amen."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "Obriu-me els llavis, Senyor.",
+						"da": "Herre,luk mine læber op,",
+						"en-US": "Lord, open my lips.",
+						"es": "Señor, ábreme los labios.",
+						"fr": "Seigneur, ouvre mes lèvres.",
+						"hr": "Otvori, Gospodine, usne moje!",
+						"hu": "Nyisd meg, Uram, ajkamat.",
+						"it": "Signore, apri le mie labbra.",
+						"la": "Dómine, lábia mea apéries.",
+						"pt-BR": "Abri, Senhor os meus lábios.",
+						"pt-PT": "Abri, Senhor, os meus lábios.",
+						"ro": "Doamne, deschide-mi buzele.",
+						"sk": "Pane, otvor moje pery.",
+						"sl": "Gospod, odpri moje ustnice.",
+						"sv": "Herre, öppna mina läppar,"
+					},
+					"r": {
+						"ca": "I proclamaré la vostra lloança.",
+						"da": "så min mund kan forkynde din pris.",
+						"en-US": "And my mouth will proclaim your praise.",
+						"es": "Y mi boca proclamará tu alabanza.",
+						"fr": "Et ma bouche annoncera ta louange.",
+						"hr": "I usta će moja navješćivati hvalu tvoju!",
+						"hu": "Hogy dicséretedet hirdesse szavam!",
+						"it": "E la mia bocca proclami la tua lode.",
+						"la": "Et os meum annuntiábit láudem tuam.",
+						"pt-BR": "E a minha boca anunciará o Vosso louvor.",
+						"pt-PT": "E a minha boca anunciará o Vosso louvor.",
+						"ro": "Și gura mea va vesti lauda Ta.",
+						"sk": "A moje ústa budú ohlasovať tvoju slávu.",
+						"sl": "In moja usta bodo oznanjala tvojo hvalo.",
+						"sv": "Så att min mun kan förkunna ditt lov."
+					}
+				},
+				{
+					"v": {
+						"ca": "Envieu-me, Senyor, la vostra ajuda.",
+						"da": "Gud, kom mig til hjælp.",
+						"en-US": "O God, come to my assistance.",
+						"es": "Dios mío, ven en mi auxilio.",
+						"fr": "Dieu, viens à mon aide !",
+						"hr": "Bože, u pomoć mi priteci!",
+						"hu": "Istenem, jöjj segítségemre!",
+						"it": "Vieni a salvarmi, o Dio.",
+						"la": "Deus, in adiutórium meum inténde.",
+						"pt-BR": "Deus, vinde em nosso auxílio.",
+						"pt-PT": "Deus, vinde em nosso auxílio.",
+						"ro": "Dumnezeule, vino în ajutorul meu.",
+						"sk": "Bože, príď mi na pomoc.",
+						"sl": "O Bog, na pomoč mi pridi.",
+						"sv": "Gud, kom till min räddning."
+					},
+					"r": {
+						"ca": "No demoreu, Senyor, la vostra vinguda.",
+						"da": "Herre, skynd dig at hjælpe mig.",
+						"en-US": "O Lord, make haste to help me.",
+						"es": "Señor, date prisa en socorrerme.",
+						"fr": "Seigneur, à mon secours !",
+						"hr": "Gospodine, pohiti da mi pomogneš!",
+						"hu": "Uram, segíts meg engem!",
+						"it": "Vieni presto, Signore, in mio aiuto.",
+						"la": "Dómine, ad adiuvándum me festína.",
+						"pt-BR": "Senhor, socorrei-nos e salvai-nos.",
+						"pt-PT": "Senhor, socorrei-nos e salvai-nos.",
+						"ro": "Doamne, grăbește-Te să mă ajuți.",
+						"sk": "Pane, ponáhľaj sa mi pomáhať.",
+						"sl": "Gospod, híti mi pomagat.",
+						"sv": "Herre, skynda till min hjälp."
+					}
+				},
+				{
+					"v": {
+						"ca": "Glòria al Pare i al Fill i a l’Esperit Sant.",
+						"da": "Ære være Faderen og Sønnen og den Hellige Ånd.",
+						"en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit,",
+						"es": "Gloria al Padre y al Hijo y al Espíritu Santo.",
+						"fr": "Gloire au Père, et au Fils et au Saint-Esprit.",
+						"hr": "Slava Ocu i Sinu i Duhu Svetomu.",
+						"hu": "Dicsőség az Atyának...",
+						"it": "Gloria al Padre, e al Figlio e allo Spirito Santo.",
+						"la": "Glória Patri, et Fílio, et Spirítui Sancto.",
+						"pt-BR": "Glória ao Pai, e ao Filho e ao Espírito Santo.",
+						"pt-PT": "Glória ao Pai, ao Filho e ao Espírito Santo.",
+						"ro": "Slava Tatălui și Fiului și Sfântului Duh.",
+						"sk": "Sláva Otcu i Synu i Duchu Svätému.",
+						"sl": "Slava Očetu in Sinu in Svetemu Duhu.",
+						"sv": "Ära vare Fadern och Sonen och den Helige Ande."
+					},
+					"r": {
+						"ca": "Com era al principi, ara i sempre, i pels segles dels segles. Amén.",
+						"da": "Som det var i begyndelsen, nu er og skal være, fra evighed til evighed. Amen.",
+						"en-US": "As it was in the beginning, is now and will be forever. Amen.",
+						"es": "Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+						"fr": "Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.",
+						"hr": "Kako bijaše na početku, tako i sada i vazda i u vijeke vjekova. Amen.",
+						"hu": "Miképpen kezdetben, ...",
+						"it": "Come era nel principio, e ora e sempre nei secoli dei secoli. Amen.",
+						"la": "Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.",
+						"pt-BR": "Como era no princípio agora e sempre. Amém.",
+						"pt-PT": "Como era no princípio, agora e sempre. Ámen.",
+						"ro": "Precum era la început și acum și pururea și în vecii vecilor. Amin.",
+						"sk": "Ako bolo na počiatku, tak nech je i teraz i vždycky i na veky vekov. Amen",
+						"sl": "Kakor je bilo v začetku, tako zdaj in vselej in vekomaj. Amen.",
+						"sv": "Såsom det var av begynnelsen, nu är och skall vara, från evighet till evighet. Amen."
+					}
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "PRIMERA DENA",
+				"da": "Første led",
+				"en-US": "First decade",
+				"es": "Primera decena",
+				"fr": "Première décade",
+				"hr": "Prva desetica",
+				"hu": "Első tízezres",
+				"it": "Prima decina",
+				"la": "Prima decas",
+				"pt-BR": "Primeira dezena",
+				"pt-PT": "Primeira dezena",
+				"ro": "Prima decadă",
+				"sk": "Prvý desiatok",
+				"sl": "PRVI NIZ",
+				"sv": "Den första dekaden"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"ca": "Es procedeix de la manera següent: en primer lloc, diuen tots la deprecació Sanctus Deus; després, com de costum, alternen l'oració dominical el sacerdot (o qui dirigeix el prec de les oracions) i els altres; a continuació, es repeteixen nou vegades els versos següents, dient el sacerdot (o el que dirigeix el prec de les oracions) Tibi laus i responent tots: Sanctus; en acabar s'hi afegeix Gloria Patri.",
+				"da": "Bønnen bedes på følgende måde: Først beder alle Hellige Gud. Derefter beder præsten (eller den, som leder bønnen) sammen med de andre Fadervor (Pater noster) vekselvist som sædvanligt. Derefter gentages de følgende vers ni gange: Præsten (eller den, som leder) siger Vi priser dig, og alle svarer Sanctus; til sidst tilføjes Hellig.",
+				"en-US": "The decade below is recited three times, one for each member of the Trinity. Everyone recites the Holy God together, and then the priest (or the person leading the prayers) leads the Our Father, followed by the verses, which are repeated nine times. The leader says To Thee... and everyone responds Holy... with the Glory Be at the end of the decade.",
+				"es": "Se procede del siguiente modo: en primer lugar, dicen todos la deprecación Sanctus Deus; después, como de costumbre, alternan la oración dominical el sacerdote (o el que dirige el rezo de las oraciones) y los demás; a continuación, se repiten nueve veces los versos siguientes, diciendo el sacerdote (o el que dirige el rezo de las oraciones) Tibi laus y respondiendo todos: Sanctus; al terminar se añade Glória Patri.",
+				"fr": "On procède de la manière suivante : d’abord, tous récitent la supplication Sanctus Deus ; ensuite, comme d’habitude, le prêtre (ou celui qui dirige la prière) et les autres alternent la récitation de l’oraison dominicale ; puis on répète neuf fois les versets suivants, le prêtre (ou celui qui dirige la prière) disant Tibi laus et tous répondant : Sanctus ; à la fin, on ajoute le Gloria Patri.",
+				"hr": "Postupak je sljedeći: prvo svi izgovaraju molitvu Sanctus Deus; zatim, kao i obično, svećenik (ili osoba koja predvodi molitve) i ostali naizmjence Očenaš; nakon toga se sljedeći stihovi ponavljaju devet puta, pri čemu svećenik (ili osoba koja predvodi molitve) izgovara Tibi laus, a svi odgovaraju: Sanctus; na kraju se dodaje Gloria Patri.",
+				"hu": "A tízezres elmondásakor, ha közösen történik, a következőképpen járunk el: először mindenki együtt mondja a Szent Isten könyörgést; azután a szokásos módon a pap (vagy az imákat vezető) és a többiek felváltva mondják az Úr imája mindkét részét; ennek végeztével a következő verseket kilencszer ismétlik felváltva, míg a pap (vagy az imákat vezető) elmondja a Neked dicséretet, és mindenki válaszként a Szent vagy versszakot recitálja; végül a tízezres befejezése után a kis doxológia, a Dicsőség a Atyának, a szokás szerint hozzátétetik.",
+				"it": "Si ripete ora per tre volte una serie di nove invocazioni trinitarie. Si procede nel seguente modo: prima tutti insieme recitano l' invocazione Santo Dio; quindi chi dirige la preghiera e gli altri recitano, alternandosi, il Padre nostro. Subito dopo si ripete per nove volte il versetto che segue: chi dirige dice Ti lodiamo ... e gli altri rispondono:Santo... Al termine si recita il Gloria.",
+				"la": "Ad recitationem decadis, cum in communi fit, sic proceditur: primo, omnes simul deprecationem \"Sanctus Deus\" dicunt; postea, modo consueto, a sacerdote (vel ab eo qui preces moderatur) ceterisque utraque pars orationis dominicæ alternatur; qua finita, sequentes versus nonies alternatim repetuntur, sacerdote (vel eo qui preces moderatur) \"Tibi laus\" recitante et omnibus \"Sanctus\" respondentibus; denique, expleta decade, doxologia minor \"Gloria Patri\", ut de more, subiungitur.",
+				"pt-BR": "Procede-se do seguinte modo: em primeiro lugar, dizem todos a deprecação Sanctus Deus; depois, como de costume, alternam a oração dominical o sacerdote (ou a pessoa que dirige a recitação das orações) e os outros; a seguir, repetem-se nove vezes os versículos seguintes, dizendo o sacerdote (ou a pessoa que dirige as orações) Tibi laus e respondendo todos: Sanctus; ao terminar acrescenta-se o Glória.",
+				"pt-PT": "Procede-se do seguinte modo: em primeiro lugar, todos repetem a deprecação Sanctus Deus; depois, como de costume, alternam a oração entre o sacerdote (ou quem dirige as orações) e os restantes; A seguir, repetem-se nove vezes os versos seguintes, dizendo o sacerdote (ou quem dirige as orações) Tibi laus e respondem todos: Sanctus; ao terminar acrescenta-se Glória Patri.",
+				"ro": "Se procede astfel: mai întâi, toți rostesc invocația Sanctus Deus; apoi, ca de obicei, se recită în alternanță rugăciunea domnească, preotul (sau cel care conduce rugăciunea) și ceilalți; după aceea, se repetă de nouă ori versetele următoare, spunând preotul (sau cel care conduce rugăciunea): Tibi laus iar toți răspund: Sanctus; la sfârșit se adaugă Gloria Patri.",
+				"sk": "Postupuje sa nasledovne: najprv všetci spoločne recitujú prosbuSvätý Boh...; potom sa – ako zvyčajne – striedavo modlímodlitba Pánova(Otče náš), ktorú začína kňaz (alebo ten, kto vedie spoločnú modlitbu), a ostatní odpovedajú; následne sadeväťkrát opakujú nasledujúce verše, pričom kňaz (alebo vedúci modlitby) hovoríTebe chvála a všetci odpovedajúSvätý, svätý; na záver sa pridávaSláva Otcu.",
+				"sl": "Molimo v naslednjem redu: najprej vsi izrečejo odpev Sanctus Deus; nato tisti, ki vodi molitev, moli naprej Oče naš, ostali odgovarjajo kot običajno; potem se devetkrat ponovijo naslednje vrstice, tako da tisti, ki vodi molitev izgovarja Tibi laus, ostali pa odgovarjajo: Sanctus; na koncu dodamo Gloria Patri.",
+				"sv": "Bönen läses på följande sätt. Först läser alla bönen Sanctus Deus; Sedan ber prästen (eller den som leder bönen) tillsammans med de andra Herrens bön (Pater norster) växelvis som vanligt. Efter det upprepas de följande verserna nio gånger: prästen (eller den som leder bönen) säger Tibi laus och alla svarar: Sanctus; I slutet tillägger man Glória Patri."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Sant Déu, Sant Fort, Sant Immortal, apiadeu-vos de nosaltres.\n\nParenostre.",
+				"da": "Hellige Gud, hellige Stærke, hellige Udødelige, forbarm dig over os.\n\nFadervor.",
+				"en-US": "Holy God! Holy Strong One! Holy Immortal One, have mercy upon us.\n\nOur Father.",
+				"es": "Santo Dios, Santo fuerte, Santo inmortal, ten misericordia de nosotros.\n\nPadre nuestro.",
+				"fr": "Dieu Saint, Dieu fort, Dieu immortel, aie pitié de nous.\n\nNotre Père…",
+				"hr": "Sveti Bože, Sveti jaki Bože, Sveti besmrtni Bože, smiluj nam se.\n\nOče naš.",
+				"hu": "Szent Isten, Szent erős Isten, Szent és halhatatlan Isten, irgalmazz nekünk!\n\nMi Atyánk…",
+				"it": "Santo Dio, Santo forte, Santo immortale, abbi misericordia di noi.\n\nPadre nostro.",
+				"la": "Sanctus Deus, Sanctus fortis, Sanctus immortális, miserére nobis.\n\nPater noster.",
+				"pt-BR": "Santo Deus, Santo Forte, Santo Imortal, tende misericórdia de nós.\n\nPai Nosso.",
+				"pt-PT": "Santo Deus, Santo Forte, Santo Imortal, tende misericórdia de nós.\n\nPai Nosso.",
+				"ro": "Sfinte Dumnezeule, Sfinte Tare, Sfinte Fără de Moarte, miluiește-ne pre noi.\n\nTatăl nostru.",
+				"sk": "Svätý Boh, Svätý silný, Svätý nesmrteľný, zmiluj sa nad nami.\n\nOtče náš.",
+				"sl": "Sveti Bog, sveti Močni, sveti Nesmrtni, usmili se nas.\n\nOče naš.",
+				"sv": "Helige Herre Gud, Helige Allsmäktige Gud, Helige Odödlige Gud, förbarma dig över oss.\n\nFader vår."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "A vós la lloança, a vós la glòria, a vós donem gràcies pels segles dels segles, oh Beatíssima Trinitat!",
+						"da": "Vi priser dig, vi ærer dig, vi takker dig i evigheders evighed, allerhelligste Treenighed!",
+						"en-US": "To Thee, O Blessed Trinity, be praise, and honour, and thanksgiving, for ever and ever!",
+						"es": "A Ti la alabanza, a Ti la gloria, a Ti hemos de dar gracias por los siglos de los siglos, ¡oh Trinidad Beatísima!",
+						"fr": "À Toi la louange, à Toi la gloire, à Toi l’action de grâces dans les siècles des siècles, ô Trinité Bienheureuse.",
+						"hr": "Tebi neka je hvala, tebi neka je slava, tebi ide zahvaljivanje u vijeke vijekova, o blaženo Trojstvo.",
+						"hu": "Tied a dicséret, tied a dicsőség, tied a hála örökkön-örökké, ó áldott Szentháromság!",
+						"it": "Ti lodiamo, ti glorifichiamo, ti ringraziamo per i secoli dei secoli, o Trinità Beatissima",
+						"la": "Tibi laus, Tibi glória, Tibi gratiárum áctio in sǽcula sempitérna, o Beáta Trínitas!",
+						"pt-BR": "A Vós o louvor, a Vós a glória, a Vós temos de dar graças pelos séculos dos séculos, ó Trindade Beatíssima.",
+						"pt-PT": "A Vós o louvor, a Vós a glória, a Vós temos de dar graças pelos séculos dos séculos, ó Trindade Beatíssima.",
+						"ro": "Ție lăudă, Ție slavă, Ție mulțumire în vecii vecilor, o Sfântă Treime!",
+						"sk": "Tebe chvála, Tebe sláva, Tebe vzdávanie vďaky na veky vekov, Blažená\nTrojica!",
+						"sl": "Tebi hvala, tebi slava, tebi zahvala vekomaj, o blažena Trojica!",
+						"sv": "Vi prisar dig, vi ärar dig, vi tackar dig i evigheters evighet, Allraheligaste Treenighet!"
+					},
+					"r": {
+						"ca": "Sant, Sant, Sant Senyor Déu dels exèrcits. El cel i la terra són plens de la vostra glòria.",
+						"da": "Hellig, hellig, hellig er Herren, Hærskarernes Gud. Himlen og jorden er fuld af din herlighed.",
+						"en-US": "Holy, holy, holy Lord, God of hosts. Heaven and earth are filled with thy glory.",
+						"es": "Santo, Santo, Santo Señor Dios de los ejércitos. Llenos están los cielos y la tierra de tu gloria.",
+						"fr": "Saint, Saint, Saint est le Seigneur, Dieu des forces célestes. Le ciel et la terre sont remplis de ta gloire.",
+						"hr": "Svet, svet, svet, Bog nad vojskama. Puna su nebesa i zemlja tvoje slave.",
+						"hu": "Szent vagy, szent vagy, szent vagy Seregek Ura Istene. Dicsőséged betölti a mennyet és a földet.",
+						"it": "Santo, Santo, Santo il Signore Dio degli eserciti. I cieli e la terra sono pieni della tua gloria.",
+						"la": "Sanctus, Sanctus, Sanctus Dóminus Deus exercítuum. Pleni sunt cæli et terra glória tua.",
+						"pt-BR": "Santo, Santo, Santo, Senhor Deus dos exércitos. Cheios estão os céus e a terra da Vossa glória.",
+						"pt-PT": "Santo, Santo, Santo, Senhor Deus dos exércitos. Cheios estão os céus e a terra da Vossa glória.",
+						"ro": "Sfânt, sfânt, sfânt e Domnul Dumnezeul oștirilor cerești. Pline sunt cerurile și pământul de mărirea Ta.",
+						"sk": "Svätý, svätý, svätý Pán Boh zástupov. Plné sú nebo i zem tvojej slávy.",
+						"sl": "Svet, svet, svet si ti Gospod nad vojskámi. Polna so nebesa in zemlja tvoje slave.",
+						"sv": "Helig, helig, helig, är Herren härskarornas Gud. Himlarna och jorden är fulla av din härlighet."
+					}
+				},
+				{
+					"v": {
+						"ca": "Glòria al Pare i al Fill i a l’Esperit Sant.",
+						"da": "Ære være Faderen og Sønnen og den Hellige Ånd.",
+						"en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit,",
+						"es": "Gloria al Padre y al Hijo y al Espíritu Santo.",
+						"fr": "Gloire au Père, et au Fils et au Saint-Esprit.",
+						"hr": "Slava Ocu i Sinu i Duhu Svetomu.",
+						"hu": "Dicsőség az Atyának...",
+						"it": "Gloria al Padre, al Figlio e allo Spirito Santo.",
+						"la": "Glória Patri, et Fílio, et Spirítui Sancto.",
+						"pt-BR": "Glória ao Pai, e ao Filho e ao Espírito Santo.",
+						"pt-PT": "Glória ao Pai, ao Filho e ao Espírito Santo.",
+						"ro": "Slavă Tatălui și Fiului și Sfântului Duh.",
+						"sk": "Sláva Otcu i Synu i Duchu Svätému.",
+						"sl": "Slava Očetu in Sinu in Svetemu Duhu.",
+						"sv": "Ära vare Fadern och Sonen och den Helige Ande."
+					},
+					"r": {
+						"ca": "Com era al principi, ara i sempre, i pels segles dels segles. Amén.",
+						"da": "Som det var i begyndelsen, nu er og skal være, fra evighed til evighed. Amen.",
+						"en-US": "As it was in the beginning, is now and will be forever. Amen.",
+						"es": "Como era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+						"fr": "Comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.",
+						"hr": "Kako bijaše na početku, tako i sada i vazda i u vijeke vjekova. Amen.",
+						"hu": "Miképpen kezdetben...",
+						"it": "Come era nel principio, ora e sempre, nei secoli dei secoli. Amen.",
+						"la": "Sicut erat in princípio, et nunc, et semper, et in sǽcula sæculórum. Amen.",
+						"pt-BR": "Como era no princípio, agora e sempre. Amém.",
+						"pt-PT": "Como era no princípio, agora e sempre. Ámen.",
+						"ro": "Precum era la început și acum și pururea și în vecii vecilor. Amin.",
+						"sk": "Ako bolo na počiatku, tak nech je i teraz i vždycky i na veky vekov. Amen",
+						"sl": "Kakor je bilo v začetku, tako zdaj in vselej in vekomaj. Amen.",
+						"sv": "Såsom det var av begynnelsen, nu är och skall vara, från evighet till evighet. Amen."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "*Les altres dues denes es diuen de la mateixa manera, començant per les paraules Sanctus Deus, etc.*\n\n*En acabar la darrera dena, tots diuen la següent:*",
+				"da": "*De to andre dekader bedes på samme måde, idet man begynder med ordene Hellige Gud.*\n\n*Når den sidste dekade er afsluttet, siger alle:*",
+				"en-US": "*The other two decades are prayed the same way, beginning with the words Holy God.*\n\n*After the last decade, all say:*",
+				"es": "*Las otras dos decenas se dicen del mismo modo, comenzando por las palabras Sanctus Deus, etc.*\n\n*Al terminar la última decena, todos dicen la siguiente:*",
+				"fr": "*Les deux autres décades se récitent de la même manière, en commençant par les mots Sanctus Deus, etc.*\n\n*À la fin de la dernière décade, tous disent ce qui suit :*",
+				"hr": "*Druge dvije desetice izgovaraju se na isti način, počevši od riječi Sanctus Deus itd.*\n\n*Na kraju zadnje desetice svi govore sljedeće:*",
+				"hu": "*A másik két tízezres ugyanígy mondandó, a Szent Isten imaszával kezdve, stb.*\n\n*Az utolsó tízezres befejezése után, ha közösen mondták, mindenki együtt mondja a következőt:*",
+				"it": "*Le altre due serie si dicono allo stesso modo, riprendendo dalle parole Santo Dio, ecc.*\n\n*Al termine dell' ultima serie si recita tutti insieme la seguente antifona:*",
+				"la": "*Aliæ duæ decades eodem modo dicuntur, incipiendo a verbis \"Sanctus Deus\", etc.*\n\n*Expleta ultima decade, si in communi recitetur, ab omnibus simul dicitur sequens:*",
+				"pt-BR": "*As outras duas dezenas rezam-se do mesmo modo, começando pelas palavras Sanctus Deus, etc.*\n\n*Ao terminar a última dezena, todos rezam juntos:*",
+				"pt-PT": "*As outras duas dezenas rezam-se do mesmo modo, começando pelas palavras Sanctus Deus, etc.*\n\n*Ao terminar a última dezena, todos rezam a seguinte:*",
+				"ro": "*Celelalte două decade se recită în același mod, începând cu cuvintele Sanctus Deus, etc.*\n\n*La sfârșitul ultimei decade, toți spun următoarea rugăciune:*",
+				"sk": "Ďalšie dve desiatky sa recitujú rovnakým spôsobom, začínajúc slovami*Svätý Boh* atď.\n\nPo ukončení posledného desiatku všetci spoločne recitujú nasledujúcu modlitbu:",
+				"sl": "*Druga dva niza se molita na enak način, tako da začnemo z besedami Sanctus Deus itd.*\n\n*Po koncu tretjega niza vsi skupaj izrečejo:*",
+				"sv": "*De andra två dekaderna läses på samma sätt. Man börjar med orden Sanctus Deus, etc.*\n\n*När man avslutat sista dekaden, säger alla följande:*"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Antífona",
+				"da": "Antifon",
+				"en-US": "Antiphon",
+				"es": "Antífona",
+				"fr": "Antienne",
+				"hr": "Antifona",
+				"hu": "ANTIFÓNA",
+				"it": "Antifona",
+				"la": "Antíphona",
+				"pt-BR": "Antífona",
+				"pt-PT": "Antífona",
+				"ro": "Antifon",
+				"sk": "Antifóna",
+				"sl": "Odpev",
+				"sv": "Antifon"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "A vós, oh Pare Ingènit; a vós, Fill Unigènit; a vós, Esperit de Santedat; un sol Déu en Trinitat de tot cor us confessem, beneïm i lloem; a vós sigui donada eternament reverència i glòria.",
+				"da": "Med vore læber og af hele vort hjerte priser, velsigner og bekender vi dig, Gud Fader, du som ikke er født af nogen; dig, enbårne Søn; dig, Hellige Ånd, Trøsteren — hellige og udelte Treenighed: Ære være dig i evighed.",
+				"en-US": "God the Father unbegotten, only-begotten Son, and Holy Spirit, the Comforter; holy and undivided Trinity, with all our heart and voice we acknowledge Thee, we praise Thee, and we bless Thee: Glory to Thee forever.",
+				"es": "A ti Dios Padre no engendrado, a ti Hijo unigénito, a ti Espíritu Santo Paráclito, santa e indivisa Trinidad, con todas las fuerzas de nuestro corazón y de nuestra voz, te reconocemos, alabamos y bendecimos; gloria a ti por los siglos de los siglos.",
+				"fr": "Dieu, Père non engendré, Fils unique, Esprit-Saint Conseiller, sainte et indivisible Trinité, nous te célébrons à pleine voix, de tout notre cœur ; nous te louons et te bénissons. À toi la gloire à jamais !",
+				"hr": "Tebe Boga Oca nerođena, tebe Sina jedinorođenoga, tebe Duha Branitelja, sveto i nedjeljivo Trojstvo, svim srcem i ustima ispovijedamo, hvalimo i blagoslivljamo: Tebi slava u vijeke.",
+				"hu": "Te, születetlen Atyaisten, egyszülött Fiúisten, vigasztaló Szentlélek! Szent és oszthatatlan Szentháromság, teljes szívünk és ajkunk megvall, dicsér és áld Téged! Dicsőség legyen neked mindörökké.",
+				"it": "Con tutte le forze del nostro cuore e della nostra voce noi lodiamo, benediciamo, riconosciamo te Dio Padre non generato, te Figlio unigenito, te Spirito Santo Paraclito, santa ed indivisa Trinità: gloria a te per i secoli dei secoli.",
+				"la": "Te Deum Patrem ingénitum, te Fílium unigénitum, te Spíritum Sanctum Paráclitum, sanctam et indivíduam Trinitátem, toto corde et ore confitémur, laudámus atque benedícimus: tibi glória in sǽcula.",
+				"pt-BR": "A Vós Deus Pai não gerado, a Vós Filho unigênito, a Vós Deus Espírito Santo Paráclito, santa e indivisa Trindade, com todas as forças do nosso coração e da nossa voz, reconhecemos, louvamos e bendizemos: glória a Vós pelos séculos dos séculos.",
+				"pt-PT": "A Vós Deus Pai não gerado, a Vós Filho unigénito, a Vós Deus Espírito Santo Paráclito, santa e indivisa Trindade, com todas as forças do nosso coração e da nossa voz, reconhecemos, louvamos e bendizemos: glória a Vós pelos séculos dos séculos.",
+				"ro": "Ție, Tată nenăscut, Ție, Fiule unul-născut, Ție, Duhule Sfânt Mângâietor, sfântă și neîmpărțită Treime, Îți mulțumim din toată inima, Te lăudăm și Te binecuvântăm: Mărire Ție în veci.",
+				"sk": "Teba, nezrodeného Boha Otca, teba, jednorodeného Syna, teba, Ducha Svätého Tešiteľa: svätú a nerozdielnu Trojicu, celým srdcom i ústami vyznávame, chválime a velebíme: Tebe sláva naveky.",
+				"sl": "Tebe, Boga, Očeta nerojenega, tebe, Sina edinorojenega, tebe, Svetega Duha Tolažnika, sveto in nedeljeno Trojico z vsem srcem in besedo priznavamo, hvalimo in slavimo: Tebi slava na veke.",
+				"sv": "Med våra läppar och av hela vårt hjärta prisar, välsignar och bekänner vi dig Gud Fader som inte är född av någon, dig enfödde Son, dig Helige Ande Hjälparen, Heliga och Odelade Treenighet: ära vare dig i evighet."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "Beneïm el Pare, el Fill i l'Esperit Sant.",
+						"da": "Lad os prise Faderen og Sønnen med den Hellige Ånd.",
+						"en-US": "Let us bless the Father, and the Son, with the Holy Spirit.",
+						"es": "Bendigamos al Padre, y al Hijo, con el Espíritu Santo.",
+						"fr": "Bénissons le Père, le Fils avec le Saint-Esprit",
+						"hr": "Blagoslivljamo Oca i Sina sa Svetim Duhom.",
+						"hu": "Áldjuk az Atyát és a Fiút a Szentlélekkel együtt.",
+						"it": "Benediciamo il Padre e il Figlio con lo Spirito Santo.",
+						"la": "Benedicámus Patrem, et Fílium cum Sancto Spíritu.",
+						"pt-BR": "Bendigamos o Pai, e o Filho, com o Espírito Santo.",
+						"pt-PT": "Bendigamos o Pai, e o Filho, com o Espírito Santo.",
+						"ro": "Să binecuvântăm pe Tatăl şi pe Fiul şi pe Duhul Sfânt.",
+						"sk": "Velebme Otca i Syna so Svätým Duchom.",
+						"sl": "Slavímo Očeta in Sina s Svetim Duhom.",
+						"sv": "Låt oss prisa Fadern och Sonen och den Helige Ande."
+					},
+					"r": {
+						"ca": "Lloem-lo i enaltim-lo per sempre.",
+						"da": "Lad os love og ophøje ham i evighed.",
+						"en-US": "Be praised and exalted above all things forever.",
+						"es": "Alabémosle y ensalcémosle por todos los siglos.",
+						"fr": "Louons-le et exaltons-le pour les siècles des siècles.",
+						"hr": "Hvalimo ga dovijeka.",
+						"hu": "Dicsérjük és magasztaljuk örökké!",
+						"it": "Lodiamolo ed esaltiamolo per tutti i secoli.",
+						"la": "Laudémus et superexaltémus eum in sǽcula.",
+						"pt-BR": "Louvemo-Lo e exaltemo-Lo por todos os séculos dos séculos.",
+						"pt-PT": "Louvemo-l'O e exaltemo-l'O por todos os séculos dos séculos.",
+						"ro": "Să-L lăudăm și să-L preaînălțăm în veci.",
+						"sk": "Chváľme ho a vyvyšujme na veky.",
+						"sl": "Hvalímo in poveličujmo ga vekomaj.",
+						"sv": "Låt oss lova och upphöja Honom i evighet."
+					}
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "PREGUEM",
+				"da": "Lad os bede",
+				"en-US": "Let us pray",
+				"es": "Oración",
+				"fr": "Prions",
+				"hr": "Pomolimo se",
+				"hu": "Könyörögjünk!",
+				"it": "Preghiamo",
+				"la": "Orémus",
+				"pt-BR": "Oremos",
+				"pt-PT": "Oremos",
+				"ro": "Să ne rugăm",
+				"sk": "Modlime sa",
+				"sl": "Molimo",
+				"sv": "Låt oss bedja"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Déu omnipotent i etern, que heu donat als vostres servidors de professar la veritable fe i, així, de conèixer la glòria de la Trinitat eterna i adorar-ne la Unitat, de poder i sobirania; feu que la fermesa d'aquesta nostra fe ens valgui sempre de ser protegits contra tota adversitat. Per nostre Senyor Jesucrist.\n\n℟. Amén.",
+				"da": "Almægtige, evige Gud, du som i bekendelsen af den sande tro har givet dine tjenere at erkende den evige Treenigheds herlighed og i majestætens kraft at tilbede Enheden: Giv, at vi ved fastheden i den samme tro altid må værnes mod al modgang. Ved Kristus, vor Herre.\n\n℟. Amen.",
+				"en-US": "Almighty, ever-living God, who has permitted us thy servants, in our profession of the true faith, to acknowledge the glory of the eternal Trinity, and in the power of that majesty to adore the Unity, grant, that by steadfastness in this same faith, we may be ever guarded against all adversity: through Christ our Lord.\n\n℟. Amen.",
+				"es": "Oh Dios todopoderoso y eterno, que con la luz de la verdadera fe diste a tus siervos conocer la gloria de la Trinidad eterna, y adorar la Unidad en el poder de tu majestad: haz, te suplicamos, que, por la firmeza de esa misma fe, seamos defendidos siempre de toda adversidad. Por Cristo nuestro Señor.\n\n℟. Amén.",
+				"fr": "Dieu éternel et tout-puissant, Tu as permis à tes enfants de professer la vraie foi, de connaître ainsi la gloire de l’éternelle Trinité et d’adorer sa souveraine et toute-puissante Unité : accorde-nous de trouver dans la fermeté de cette foi une constante protection contre toutes les difficultés. Par Jésus-Christ notre Seigneur.\n\n℟. Amen.",
+				"hr": "Svemogući vječni Bože, koji si nam, svojim slugama, udijelio milost da u svjetlu prave vjere veličanstvo Vječnoga Trojstva znamo i u tom veličanstvu Jedinstvu klanjamo, udijeli nam čvrstu vjeru, da i u najtežim nevoljama od staze krjeposti ne odstupimo i da nas ništa od Tvoje ljubavi ne odijeli. Po Gospodinu našemu Isusu Kristu, Sinu Tvojemu, koji s Tobom živi i kraljuje u jedinstvo Duha Svetoga, Bog, po sve vijeke vijekova.\n\n℟. Amen.",
+				"hu": "Mindenható, örök Isten, aki a Te szolgáidnak megengedted, hogy igaz hittel megismerjék és megvallják az örök Szentháromság dicsőségét és hódoljanak az Oszthatatlan előtt, add meg nekünk, hogy ennek a hitnek szilárdságában védelmet találjunk minden ellenségtől. Krisztus, a mi Urunk által.\n\n℟. Ámen.",
+				"it": "Onnipotente e sempiterno Dio che nella confessione della vera fede hai concesso ai tuoi servi di conoscere la gloria della Trinità eterna e di adorare l' Unità nella potenza della maestà: ti preghiamo che per la fortezza della nostra fede, ci sentiamo sempre liberi da ogni avversità. Per Cristo nostro Signore.\n\n℟. Amen.",
+				"la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis, in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia maiestátis adoráre unitátem: quǽsumus; ut, eiúsdem fídei firmitáte, ab ómnibus semper muniámur adversis. Per Christum Dóminum nostrum.\n\n℟. Amen.",
+				"pt-BR": "Ó Deus todo-poderoso e eterno, que com a luz da verdadeira fé destes aos vossos servos conhecer a glória da Trindade eterna, e adorar a Unidade no poder da vossa majestade: fazei, Vo-lo pedimos que, pela firmeza dessa mesma fé, sejamos defendidos sempre de toda a adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.\n\n℟. Amém.",
+				"pt-PT": "Ó Deus todo-poderoso e eterno, que com a luz da verdadeira fé concedestes aos Vossos servos conhecer a glória da Trindade eterna, e adorar a unidade no poder da Vossa majestade: fazei, Vo-lo pedimos, que, pela firmeza dessa mesma fé, sejamos defendidos sempre de toda a adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.\n\n℟. Ámen.",
+				"ro": "Atotputernic și veșnic Dumnezeule, care ai acordat slujitorilor Tăi, mărturisind Credința adevărată, să recunoaștem slava Treimii veșnice și să adorăm unitatea celor trei persoane în mărirea puterii Sale, dă-ne, Te rugăm, ca, prin statornicia în aceeași credință, să putem fi apărați împotriva tuturor adversităților. Prin Cristos Domnul nostru.\n\n℟. Amin.",
+				"sk": "Všemohúci večný Bože, ktorý si doprial svojim sluhom vo\nvyznávaní pravej viery poznať slávu večnej Trojice a v sile velebnosti klaňať\nsa jednote, prosíme ťa, aby sme na základe tejto viery boli posilnení proti\nvšetkým protivenstvám. Skrze Krista nášho Pána.\n\n℟. Amen.",
+				"sl": "Vsemogočni večni Bog, ki si dal svojim služabnikom, da v pravi veri spoznavajo slavo večne Trojice in v mogočnem veličastvu častijo enoto, prosimo te, naj bomo po tej neomajni veri vselej obvarovani vsakršne nevarnosti. Po Kristusu, našem Gospodu.\n\n℟. Amen.",
+				"sv": "Allsmäktige och evige Gud som i bekännelsen av den sanna tron har givit dina tjänare kunskapen om den eviga Treenigheten och att tillbe Enheten i Majestätets kraft. Vi ber dig att vi, styrkta av denna vår tro alltid blir befriade från alla motgångar. Genom Kristus vår Herre.\n\n℟. Amen."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"ca": "Acabada l'oració tots diem:",
+				"da": "Efter bønnen tilføjer alle:",
+				"en-US": "Then all say:",
+				"es": "Terminada la oración, todos añaden:",
+				"fr": "Une fois la prière terminée, tous ajoutent :",
+				"hr": "Nakon molitve, svi dodaju:",
+				"hu": "Az ima befejezése után mindenki hozzáteszi:",
+				"it": "Terminata l' orazione tutti dicono:",
+				"la": "Absoluta oratione, omnes addunt:",
+				"pt-BR": "Terminada a oração, todos acrescentam:",
+				"pt-PT": "Terminada a oração, todos acrescentam:",
+				"ro": "Terminată rugăciunea, toți adaugă:",
+				"sk": "Po ukončení modlitby, všetci hovoria:",
+				"sl": "Na koncu molitve vsi dodajo:",
+				"sv": "Efter bönen, tillägger alla:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Allibereu-nos, salveu-nos, vivifiqueu-nos, oh Beatíssima Trinitat!",
+				"da": "Befri os, frels os og giv os liv, du allerhelligste Treenighed!",
+				"en-US": "Set us free, save us, vivify us, O Blessed Trinity!",
+				"es": "Líbranos, sálvanos, vivifícanos, ¡oh Trinidad Beatísima!",
+				"fr": "Libère-nous, sauve-nous, vivifie-nous, ô Trinité Bienheureuse !",
+				"hr": "Oslobodi nas, spasi nas, oživljuj nas, o blaženo Trojstvo!",
+				"hu": "Szabadíts meg minket, ments meg minket és éltess minket, Ó áldott Szentháromság!",
+				"it": "Liberaci, salvaci. dacci forza o Trinità Beatissima!",
+				"la": "Líbera nos, salva nos, vivífica nos, o Beáta Trínitas!",
+				"pt-BR": "Livrai-nos, salvai-nos, vivificai-nos, ó Trindade Beatíssima.",
+				"pt-PT": "Livrai-nos, salvai-nos, vivificai-nos, ó Trindade Beatíssima.",
+				"ro": "Izbăvește-ne, mântuiește-ne, dă-ne viață, o, Preasfântă Treime!",
+				"sk": "Osloboď nás, spas nás a oživ nás, Blažená Trojica",
+				"sl": "Reši nas, zveličaj nas, daj nam življenje, o blažena Trojica!",
+				"sv": "Befria oss, fräls oss och ge oss kraft, du Allraheligaste Treenighet!"
+			}
+		}
+	]
+}

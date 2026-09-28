@@ -1,0 +1,47 @@
+{
+	"id": "pax-in-caelo",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"da": "Pax in caelo",
+		"en-US": "Pax in caelo",
+		"es": "Pax in caelo",
+		"fr": "Pax in caelo",
+		"hr": "Mir na nebu",
+		"la": "Pax in caelo",
+		"pt-BR": "Pax in caelo",
+		"pt-PT": "Pax in caelo",
+		"ro": "Pax in coelo"
+	},
+	"categories": [
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Peace in heaven, peace on earth, peace to the priests of God's Church* — a chant of peace built on Christ, the King of Peace.",
+		"pt-BR": "*Paz no céu, paz na terra, paz aos sacerdotes da Igreja de Deus* — um canto de paz construído sobre Cristo, Rei da Paz."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"peace"
+	],
+	"defaults": {
+		"sortOrder": 422,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

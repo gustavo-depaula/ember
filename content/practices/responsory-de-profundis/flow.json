@@ -1,0 +1,133 @@
+{
+	"sections": [
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"fr": "In nómine Patris, et Fílii et Spíritus Sancti.",
+						"la": "In nómine Patris, et Fílii et Spíritus Sancti."
+					},
+					"r": {
+						"fr": "Amen.",
+						"la": "Amen."
+					}
+				},
+				{
+					"v": {
+						"fr": "Benedíctus Deus et Pater Dómini nostri Iesu Christi, Pater misericordiárum et Deus totíus consolatiónis, qui consolátur nos in omni tribulatióne nostra.",
+						"la": "Benedíctus Deus et Pater Dómini nostri Iesu Christi, Pater misericordiárum et Deus totíus consolatiónis, qui consolátur nos in omni tribulatióne nostra."
+					},
+					"r": {
+						"fr": "Amen.",
+						"la": "Amen."
+					}
+				},
+				{
+					"v": {
+						"fr": "De profúndis clamávi ad te, Dómine; Dómine, exáudi vocem meam.",
+						"la": "De profúndis clamávi ad te, Dómine; Dómine, exáudi vocem meam."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Fiant aures tuæ intendéntes in vocem deprecatiónis meæ.",
+						"la": "Fiant aures tuæ intendéntes in vocem deprecatiónis meæ."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Si iniquitátes observáveris, Dómine, Dómine, quis sustinébit?",
+						"la": "Si iniquitátes observáveris, Dómine, Dómine, quis sustinébit?"
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Quia apud te propitiátio est, et propter legem tuam sustínui te, Dómine.",
+						"la": "Quia apud te propitiátio est, et propter legem tuam sustínui te, Dómine."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Sustínuit ánima mea in verbo eius; sperávit ánima mea in Dómino.",
+						"la": "Sustínuit ánima mea in verbo eius; sperávit ánima mea in Dómino."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "A custódia matutina usque ad noctem, speret Ísraël in Dómino.",
+						"la": "A custódia matutina usque ad noctem, speret Ísraël in Dómino."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Quia apud Dóminum misericórdia: et copiosa apud eum redémptio.",
+						"la": "Quia apud Dóminum misericórdia: et copiosa apud eum redémptio."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Et ipse redímet Ísraël ex ómnibus iniquitátibus eius.",
+						"la": "Et ipse redímet Ísraël ex ómnibus iniquitátibus eius."
+					},
+					"r": {
+						"fr": "Sperávit ánima mea in Dómino.",
+						"la": "Sperávit ánima mea in Dómino."
+					}
+				},
+				{
+					"v": {
+						"fr": "Dóminus vobíscum.",
+						"la": "Dóminus vobíscum."
+					},
+					"r": {
+						"fr": "Et cum spíritu tuo.",
+						"la": "Et cum spíritu tuo."
+					}
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"fr": "Orémus",
+				"la": "Orémus"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"fr": "Inclína, Dómine, aurem tuam ad preces nostras, quibus misericórdiam tuam súpplices deprecámur, ut ánimam fámuli tui (fámulæ tuæ) N., quam de hoc sǽculo migráre iussísti, in pacis ac lucis regióne constítuas, et sanctórum tuórum iúbeas esse consórtem. Per Christum Dóminum nostrum.\n\n℟. Amen.",
+				"la": "Inclína, Dómine, aurem tuam ad preces nostras, quibus misericórdiam tuam súpplices deprecámur, ut ánimam fámuli tui (fámulæ tuæ) N., quam de hoc sǽculo migráre iussísti, in pacis ac lucis regióne constítuas, et sanctórum tuórum iúbeas esse consórtem. Per Christum Dóminum nostrum.\n\n℟. Amen."
+			}
+		}
+	]
+}

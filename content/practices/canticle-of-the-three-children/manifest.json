@@ -1,0 +1,56 @@
+{
+	"id": "canticle-of-the-three-children",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"ca": "Himne dels tres joves",
+		"da": "Trium puerórum",
+		"en-US": "Canticle of the Three Children",
+		"es": "Cántico de los tres jóvenes",
+		"fr": "Trium Puerorum",
+		"hr": "Pjesma trojice mladića",
+		"hu": "A három ifjú hálaéneke",
+		"it": "Trium puerórum",
+		"la": "Trium puerórum",
+		"pt-BR": "Cântico dos três jovens",
+		"pt-PT": "Cântico dos três jovens",
+		"ro": "Cântecul celor trei tineri",
+		"sk": "Chválospev troch mládencov",
+		"sl": "Pesem treh mladeničev",
+		"sv": "Trium puerorum"
+	},
+	"categories": [
+		"eucharistic",
+		"scripture"
+	],
+	"estimatedMinutes": 6,
+	"description": {
+		"en-US": "The *Benedicite* of the three young men in the furnace (Daniel 3), calling all creation to bless the Lord, with Psalm 150 and the collects of thanksgiving after Mass.",
+		"pt-BR": "O *Benedicite* dos três jovens na fornalha (Daniel 3), que chama toda a criação a bendizer o Senhor, com o Salmo 150 e as coletas de ação de graças depois da Missa."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=302&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"canticle",
+		"benedicite",
+		"thanksgiving",
+		"daniel"
+	],
+	"defaults": {
+		"sortOrder": 415,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

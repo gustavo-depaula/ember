@@ -5,7 +5,19 @@
 	"name": {
 		"en-US": "Hail, Holy Queen",
 		"pt-BR": "Salve Rainha",
-		"la": "Salve Regina"
+		"la": "Salve Regina",
+		"ca": "Salve",
+		"da": "Vær hilset, Dronning",
+		"es": "Salve",
+		"fr": "Salve, Regína",
+		"hr": "Zdravo Kraljice",
+		"hu": "Üdvöz légy, Úrnőnk (Salve Regina)",
+		"it": "Salve Regina",
+		"pt-PT": "Salve-Rainha",
+		"ro": "Bucură-te, Regină",
+		"sk": "Zdravas‘, Kráľovná",
+		"sl": "Pozdravljena, Kraljica",
+		"sv": "Salve, Regina"
 	},
 	"flow": {
 		"sections": [
@@ -14,7 +26,19 @@
 				"inline": {
 					"en-US": "Hail, Holy Queen, Mother of mercy,\nour life, our sweetness, and our hope.\nTo thee do we cry, poor banished children of Eve.\nTo thee do we send up our sighs,\nmourning and weeping in this valley of tears.\nTurn then, most gracious advocate,\nthine eyes of mercy toward us.\nAnd after this our exile,\nshow unto us the blessed fruit of thy womb, Jesus.\nO clement, O loving, O sweet Virgin Mary.",
 					"pt-BR": "Salve, Rainha, Mãe de misericórdia,\nvida, doçura e esperança nossa, salve!\nA vós bradamos, os degredados filhos de Eva.\nA vós suspiramos, gemendo e chorando\nneste vale de lágrimas.\nEia, pois, advogada nossa,\nesses vossos olhos misericordiosos a nós volvei.\nE depois deste desterro,\nmostrai-nos Jesus, bendito fruto do vosso ventre.\nÓ clemente, ó piedosa, ó doce sempre Virgem Maria.",
-					"la": "Salve, Regína, Mater misericórdiæ,\nvita, dulcédo, et spes nostra, salve.\nAd te clamámus, éxsules fílii Evæ.\nAd te suspirámus, geméntes et flentes\nin hac lacrimárum valle.\nEia ergo, advocáta nostra,\nillos tuos misericórdes óculos ad nos convérte.\nEt Iesum, benedíctum fructum ventris tui,\nnobis post hoc exsílium osténde.\nO clemens, o pia, o dulcis Virgo María."
+					"la": "Salve, Regína, Mater misericórdiæ,\nvita, dulcédo, et spes nostra, salve.\nAd te clamámus, éxsules fílii Evæ.\nAd te suspirámus, geméntes et flentes\nin hac lacrimárum valle.\nEia ergo, advocáta nostra,\nillos tuos misericórdes óculos ad nos convérte.\nEt Iesum, benedíctum fructum ventris tui,\nnobis post hoc exsílium osténde.\nO clemens, o pia, o dulcis Virgo María.",
+					"ca": "Déu vos salve, Reina i Mare de misericòrdia; vida, dolcesa i esperança nostra, Déu vos salve.\n\nA vós cridem els desterrats fills d'Eva; a vós sospirem, gemint i plorant en aquesta vall de llàgrimes.\n\nAra, doncs, advocada nostra, gireu envers nosaltres aquests ulls vostres tan misericordiosos.\n\nI, després d'aquest exili, mostreu-nos Jesús, fruit beneït del vostre ventre.\n\nOh clementíssima, oh piadosa, oh dolça Verge Maria.",
+					"da": "Vær hilset, Dronning, barmhjertigheds moder, Vort liv, vor glæde og vort håb, Vær hilset.\n\nTil dig råber vi, Evas landflygtige børn. Til dig sukker vi sørgende og grædende i denne tårernes dal.\n\nSå vend da, du vor fortaler, dine medlidende øjne ned til os,\n\nog vis os efter denne vor udlændighed, Jesus, dit livs velsignede frugt.\n\nO gode, o milde, o kære Jomfru Maria.",
+					"es": "Dios te salve, Reina y Madre de misericordia, vida, dulzura y esperanza nuestra; Dios te salve.\n\nA ti llamamos los desterrados hijos de Eva; a ti suspiramos, gimiendo y llorando en este valle de lágrimas.\n\nEa, pues, Señora, abogada nuestra, vuelve a nosotros esos tus ojos misericordiosos.\n\nY después de este destierro, muéstranos a Jesús, fruto bendito de tu vientre.\n\n¡Oh clementísima, oh piadosa, oh dulce siempre Virgen María!",
+					"fr": "Nous te saluons, Reine,\nMère de miséricorde,\nnotre vie, notre douceur et notre espoir, nous te saluons !\n\nNous crions vers toi, enfants d’Ève exilés,\nvers toi nous soupirons,\ngémissant et pleurant dans cette vallée de larmes.\n\nÔ toi notre avocate,\ntourne vers nous\nton regard miséricordieux !\n\nEt, après cet exil,\nmontre-nous Jésus,\nle fruit béni de tes entrailles.\n\nô clémente, ô pieuse, ô douce Vierge Marie !",
+					"hr": "Zdravo Kraljice, Majko milosrđa, živote, slasti i ufanje naše, zdravo!\n\nK tebi vapijemo prognani sinovi Evini. K tebi uzdišemo, tugujući i plačući u ovoj suznoj dolini.\n\nSvrni, dakle, zagovornice naša, one svoje milostive oči na nas\n\nte nam poslije ovoga progona pokaži Isusa, blagoslovljeni plod utrobe svoje\n\nO blaga, o mila, o slatka djevice Marijo!",
+					"hu": "Üdvöz légy, Úrnőnk, irgalmasságnak asszonya! Élet, édesség, reménycsillag, áldunk.\n\nMost kérve kérlel Évának száműzött népe. Hozzád sóhajtozunk, sírva és zokogva siralmaink völgye mélyén.\n\nHallgass meg hát, égi közbenjárónk! Kegyes Anyánk, két szemed áldott sugarát fordítsd ránk végre!\n\nÉs Jézust mutasd nékünk, méhed szent gyümölcsét, hogy őt e számkivetés múltán lássuk!\n\nÓ áldott, ó drága, ó édes, szép Szűz Mária!",
+					"it": "Salve Regina, Madre di misericordia, vita, dolcezza e speranza nostra, salve.\n\nA te ricorriamo esuli figli di Eva, a Te sospiriamo gementi e piangenti in questa valle di lacrime.\n\nOrsù dunque, avvocata nostra, rivolgi a noi gli occhi tuoi misericordiosi.\n\nE mostraci, dopo questo esilio, Gesù, il frutto benedetto del tuo seno.\n\nO clemente, o pia, o dolce Vergine Maria!",
+					"pt-PT": "Salve, Rainha, Mãe de misericórdia, vida, doçura, esperança nossa, salve!\n\nA Vós bradamos, os degredados filhos de Eva. A Vós suspiramos, gemendo e chorando neste vale de lágrimas.\n\nEia, pois, advogada nossa, esses Vossos olhos misericordiosos a nós volvei.\n\nE, depois deste desterro, nos mostrai Jesus, bendito fruto do Vosso ventre.\n\nÓ clemente, ó piedosa, ó doce Virgem Maria.\n\nRogai por nós, Santa Mãe de Deus, para que sejamos dignos das promessas de Cristo.",
+					"ro": "Bucură-te, Regină, Maica milei, viața, mângâierea și speranța noastră bucură-te.\n\nCătre tine strigăm, surghiuniții fii ai Evei; către tine suspinăm, gemând și plângând în această vale de lacrimi.\n\nAșadar, Mijlocitoarea noastră, întoarce spre noi ochii tăi cei milostivi.\n\nȘi după surghiunul acesta, arată-ni-l nouă pe Isus, binecuvântatul rod al trupului tău.\n\nO milostivă, o blândă, o dulce Fecioară Marie!",
+					"sk": "Zdravas‘, Kráľovná, matka milosrdenstva, život náš i sladkosť a nádej naša, zdravas‘.\n\nK tebe voláme, hriešni synovia Evy, v tomto sĺz údolí stenajúci, plačúci.\n\nA preto teda, Orodovnica naša, obráť k nám tie svoje premilosrdné oči.\n\nA nám Ježiša, ktorý je požehnaný plod\nživota tvojho, tam vo večnosti ukáž.\n\nÓ, milostivá a nad všetkých pobožná, ó,\npresladká Panna, Matka Božia, Mária.",
+					"sl": "Pozdravljena, Kraljica, mati usmiljenja, življenje, veselje in upanje naše, pozdravljena!\n\nK tebi vpijemo izgnani Evini otroci; k tebi zdihujemo žalostni in objokani v tej solzni dolini.\n\nObrni torej, naša pomočnica, svoje milostljive oči v nas\n\nin pokaži nam po tem izgnanstvu Jezusa, blagoslovljeni sad svojega telesa.\n\nO milostljiva, o dobrotljiva, o sladka Devica Marija!",
+					"sv": "Var hälsad, du himmelens drottning, barmhärtighetens moder, du vårt liv, vår salighet och vårt hopp.\n\nTill dig ropar vi, Evas förvisade barn. Till dig riktar vi vår sorg då vi gråter och sörjer i denna tårarnas dal.\n\nVänd därför din blida åsyn till oss, du som för vår talan.\n\nOch när vår landsflykt når sitt slut, låt oss då skåda Jesus, din välsignade livsfrukt.\n\nO kära, o milda, o ljuva jungfru Maria."
 				}
 			}
 		]

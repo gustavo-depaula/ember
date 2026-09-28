@@ -4,7 +4,19 @@
 	"name": {
 		"en-US": "Hail Mary",
 		"pt-BR": "Ave Maria",
-		"la": "Ave Maria"
+		"la": "Ave Maria",
+		"ca": "Avemaria",
+		"da": "Hil dig, Maria",
+		"es": "Avemaría",
+		"fr": "Je vous salue, Marie",
+		"hr": "Zdravo Marijo",
+		"hu": "Üdvözlégy Mária",
+		"it": "Ave Maria",
+		"pt-PT": "Ave-Maria",
+		"ro": "Bucură-te, Marie",
+		"sk": "Zdravas' Mária",
+		"sl": "Zdrava Marija",
+		"sv": "Var hälsad Maria"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +25,19 @@
 				"inline": {
 					"en-US": "Hail Mary, full of grace, the Lord is with thee.\nBlessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen.",
 					"pt-BR": "Ave Maria, cheia de graça, o Senhor é convosco.\nBendita sois vós entre as mulheres,\ne bendito é o fruto do vosso ventre, Jesus.\nSanta Maria, Mãe de Deus,\nrogai por nós, pecadores,\nagora e na hora da nossa morte.\nAmém.",
-					"la": "Ave María, grátia plena, Dóminus tecum.\nBenedícta tu in muliéribus,\net benedíctus fructus ventris tui, Iesus.\nSancta María, Mater Dei,\nora pro nobis peccatóribus,\nnunc et in hora mortis nostræ.\nAmen."
+					"la": "Ave María, grátia plena, Dóminus tecum.\nBenedícta tu in muliéribus,\net benedíctus fructus ventris tui, Iesus.\nSancta María, Mater Dei,\nora pro nobis peccatóribus,\nnunc et in hora mortis nostræ.\nAmen.",
+					"ca": "Déu vos salve, Maria, plena de gràcia; el Senyor és amb vós. Beneïda sou vós entre totes les dones, i beneït és el fruit del vostre ventre, Jesús.\n\nSanta Maria, Mare de Déu, pregueu per nosaltres pecadors, ara i en l'hora de la nostra mort. Amén.",
+					"da": "Hil dig, Maria, fuld af nåde! Herren er med dig! Velsignet er du iblandt kvinder og velsignet er dit livs frugt, Jesus.\n\nHellige Maria, Guds Moder! Bed for os syndere, nu og i vor dødstime. Amen.",
+					"es": "Dios te salve, María, llena eres de gracia; el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.\n\nSanta María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.",
+					"fr": "Je vous salue, Marie, pleine de grâce;\nLe Seigneur est avec vous;\nVous êtes bénie entre toutes les femmes;\nEt Jésus, le fruit de vos entrailles, est béni.\n\nSainte Marie, Mère de Dieu,\nPriez pour nous, pauvres pécheurs,\nMaintenant et à l’heure de notre mort.\nAmen.",
+					"hr": "Zdravo, Marijo, milosti puna, Gospodin s tobom, blagoslovljena ti među ženama, i blagoslovljen plod utrobe tvoje, Isus.\n\nSveta Marijo, Majko Božja, moli za nas grešnike, sada i na času smrti naše. Amen.",
+					"hu": "Üdvöz légy Mária! Kegyelemmel teljes, az Úr van teveled, áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus.\n\nAsszonyunk, Szűz Mária, Istennek szent Anyja, imádkozzál érettünk, bűnösökért, most és halálunk óráján. Ámen.",
+					"it": "Ave, o Maria, piena di grazia, il Signore è con Te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù.\n\nSanta Maria, Madre di Dio, prega per noi peccatori, adesso e nell'ora della nostra morte. Amen.",
+					"pt-PT": "Avé, Maria, cheia de graça, o Senhor é convosco, bendita sois vós entre as mulheres e bendito é o fruto do vosso ventre, Jesus.\n\nSanta Maria, Mãe de Deus, rogai por nós pecadores, agora e na hora da nossa morte. Ámen.",
+					"ro": "Bucură-te, Marie, cea plină de har, Domnul este cu tine. Binecuvântată ești tu între femei și binecuvântat este rodul trupului tău, Isus.\n\nSfântă Marie, Maica lui Dumnezeu, roagă-te pentru noi păcătoșii acum și în ceasul morții noastre. Amin.",
+					"sk": "Zdravas‘, Mária, milosti plná, Pán s tebou, požehnaná si medzi ženami a požehnaný je plod života tvojho, Ježiš.\n\nSvätá Mária, matka Božia, pros za nás hriešnych teraz i v hodinu smrti našej. Amen.",
+					"sl": "Zdrava, Marija, milosti polna, Gospod je s teboj, blagoslovljena si med ženami in blagoslovljen je sad tvojega telesa, Jezus.\n\nSveta Marija, Mati Božja, prosi za nas grešnike zdaj in ob naši smrtni uri. Amen.",
+					"sv": "Var hälsad, Maria, full av nåd, Herren är med dig. Välsignad är du bland kvinnor, och välsignad är din livsfrukt, Jesus.\n\nHeliga Maria, Guds moder, bed för oss syndare, nu och i vår dödsstund. Amen."
 				}
 			}
 		]

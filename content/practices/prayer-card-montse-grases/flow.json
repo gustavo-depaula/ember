@@ -1,0 +1,54 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za osobnu pobožnost",
+				"hu": "Imádság a magán áhítat számára",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Modlitba pre súkromnú pobožnosť",
+				"sl": "Molitev za zasebno pobožnost",
+				"sv": "Bön för privat bruk"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"fr": "Prière",
+				"hr": "Molitva",
+				"hu": "Imádság",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba",
+				"sv": "BÖN"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, que concedíreu a la vostra serventa Montse, la gràcia d'una entrega serena i alegre a la vostra Divina Voluntat, viscuda enmig del món amb una senzillesa admirable: feu que jo sàpiga oferir-vos amb amor tota la meva activitat de cada dia, i convertir-la en un servei cristià als altres; digneu-vos glorificar la vostra serventa i concediu-me per la seva intercessió el favor que us demano... (*demaneu*). Així sia.\n\n*Parenostre, Avemaria i Glòria*.",
+				"en-US": "O God, You granted your servant Montse the grace of serene and cheerful dedication to your will with admirable simplicity in everyday life. Grant that I may lovingly offer to You all my daily activity and convert it into Christian service for others. Deign to glorify your servant Montse and through her intercession grant me the favor I ask of You… (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Señor, que concediste a tu sierva Montse la gracia de una entrega serena y alegre a tu Divina Voluntad, vivida con admirable sencillez en medio del mundo: haz que yo sepa ofrecerte con amor toda mi actividad cotidiana y convertirla en un servicio cristiano a los demás; dígnate glorificar a tu sierva y concédeme por su intercesión el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Seigneur, toi qui as concédé à ta servante Montserrat la grâce d'un don serein et joyeux à ta divine volonté, vécu avec une simplicité admirable au milieu du monde, fais que je sache t'offrir avec amour toute mon activité quotidienne et la transformer en un service chrétien des autres.\n\nDaigne glorifier ta servante et accorde-moi par son intercession la faveur que je te demande (formuler la demande...) Amen\n\n*Notre Père, Je vous salue Marie, Gloire au Père*",
+				"hr": "Gospodine, koji si svojoj službenici Montse dao milost mirnog i radosnog predanja tvojoj božanskoj Volji, koju je živjela divnom jednostavnošću usred svijeta, daj da i ja uzmognem ljubavlju Tebi prikazati svu svoju svakodnevnu aktivnost i pretvoriti je u kršćansko služenje drugima; udostoj se proslaviti svoju službenicu i usliši po njezinom zagovoru ovo što Te molim... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Uram, te megadtad a kegyelmet szolgádnak, Montserrátnak, hogy isteni akaratodat józan és örömteli önátadással fogadja, s csodálnivaló egyszerűséggel élje meg világi teendői között. Add, hogy én is minden hétköznapi cselekedetemet szeretettel ajánljam fel Neked és, hogy ezeket a többiek iránti keresztény szolgálattá tudjam alakítani. Dicsőítsd meg szolgádat, Montserratot, és hallgasd meg közbenjárására kérésemet, hogy... (*a kérés*). Ámen.\n\n*Miatyánk, Üdvözlégy, Dicsőség.*",
+				"pt-BR": "Senhor, Vós que concedestes à vossa Serva Montse a graça de uma entrega serena e alegre à vossa Divina Vontade, vivida com admirável simplicidade no meio do mundo: fazei que eu saiba oferecer-vos com amor toda a minha atividade cotidiana e convertê-la em um serviço cristão aos outros. Dignai-Vos glorificar a vossa serva e concedei-me por sua intercessão o favor que vos peço... (peça-se). Amém.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Senhor, que concedestes à vossa serva Montse Grases a graça de uma entrega serena e alegre à vossa divina vontade, vivida com admirável simplicidade no meio do mundo, fazei com que eu saiba oferecer-Vos com amor toda a minha atividade quotidiana e convertê-la num serviço cristão aos outros. Dignai-Vos glorificar a vossa serva e concedei-me por sua intercessão o favor que Vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Doamne, Tu care ai dăruit slujitoarei Tale Montserrat harul unei angajări senine și vesele la voința Ta divină, trăită cu o simplitate admirabilă în mijlocul lumii: fă ca și eu să știu să-Ți ofer cu dragoste toate faptele mele de fiecare zi și să le convertesc într-o slujire creștină față de ceilalți; binevoiește să cinstești pe slujitoarea Ta și dăruiește-mi prin mijlocirea ei harul pe care Ți-l cer... (cere harul dorit). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Pane, Ty si udelil svojej služobnici Montserrat milosť pokojného a radostného odovzdania sa Tvojej vôli, a to s obdivuhodnou jednoduchosťou v každodennom živote; daj, aby som Ti vedel(a) s láskou obetovať všetky svoje každodenné činnosti a premenil(a) ich na kresťanskú službu ostatným. Osláv svoju služobnicu a vyslyš na jej príhovor moju prosbu ... (konkrétna prosba). Amen.\n\nOtče náš. Zdravas´ Mária. Sláva Otcu.",
+				"sl": "Gospod, ki si svoji služabnici Montse podelil milost vedre in vesele predanosti tvoji sveti volji, v življenju čudovite preprostosti sredi sveta; daj, da bi ti jaz znal z ljubeznijo izročati vse svoje vsakodnevne dejavnosti ter jih spreminjati v krščansko služenje drugim.\n\nMilostno poveličaj svojo služabnico in po njenem posredovanju usliši mojo prošnjo ... (*izrazite prošnjo*). Amen\n\n*Oče naš, Zdrava Marija, Slava Očetu.*",
+				"sv": "Herre, du förlänade din tjänarinna Montserrat nåden att fridfullt och glatt överlämna sig åt din gudomliga vilja, som hon med beundransvärd enkelhet efterlevde mitt i världen: lär också mig att med kärlek uppoffra mitt dagliga arbete till Dig och förvandla det till en kristen tjänst åt min nästa. Förhärliga i din nåd din tjänarinna Montserrat. Må hennes förböner beveka dig att höra den bön, som jag nu riktar till dig … Amen.\n\n*Fader vår*, *Var hälsad Maria*, *Ära vare Fadern*."
+			}
+		}
+	]
+}

@@ -4,7 +4,17 @@
 	"name": {
 		"en-US": "Act of Hope",
 		"pt-BR": "Ato de Esperança",
-		"la": "Actus Spei"
+		"la": "Actus Spei",
+		"ca": "Acte d’esperança",
+		"da": "En akt af håb",
+		"es": "Acto de esperanza",
+		"fr": "Acte d'espérance",
+		"hr": "Čin ufanja",
+		"it": "Atto di speranza",
+		"pt-PT": "Ato de Esperança",
+		"ro": "Act de speranță",
+		"sl": "Dejanje upanja",
+		"sv": "En akt av hopp"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +23,17 @@
 				"inline": {
 					"en-US": "O my God, relying on Thy infinite goodness and promises, I hope to obtain pardon of my sins, the help of Thy grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen.",
 					"pt-BR": "Meu Deus, esperando em Vossas promessas e na infinita bondade que tendes, espero alcançar a remissão dos meus pecados, o auxílio da Vossa graça e a vida eterna, pelos méritos de Jesus Cristo, meu Senhor e Redentor. Amém.",
-					"la": "Domine Deus, spero per gratiam Tuam remissionem omnium peccatorum, et post hanc vitam aeternam felicitatem me esse consecuturum: quia Tu promisisti, qui es infinitae veritatis et bonitatis. Amen."
+					"la": "Domine Deus, spero per gratiam Tuam remissionem omnium peccatorum, et post hanc vitam aeternam felicitatem me esse consecuturum: quia Tu promisisti, qui es infinitae veritatis et bonitatis. Amen.",
+					"ca": "Déu meu, espero de la vostra bondat, per les vostres promeses i pels mèrits de Jesucrist Salvador nostre, la via eterna i les gràcies necessàries per a merèixer-la amb les bones obres que jo he de i vull practicar.\n\nSenyor, que jo no sigui confós eternament.\n\nAmén.",
+					"da": "Jeg håber på Gud Fader;\n\njeg håber på Gud Sønnen;\n\njeg håber på Gud den Hellige Ånd;\n\njeg håber på den hellige Treenighed;\n\njeg håber på min Herre Jesus Kristus, sand Gud og sandt menneske.",
+					"es": "Espero en Dios Padre;\n\nEspero en Dios Hijo;\n\nEspero en Dios Espíritu Santo;\n\nEspero en la Santísima Trinidad;\n\nEspero en mi Señor Jesucristo, Dios y hombre verdadero.",
+					"fr": "Mon Dieu, j'espère avec une ferme confiance que vous me donnerez, par les mérites de Jésus-Christ, votre grâce en ce monde et le bonheur éternel dans l'autre, parce que vous l'avez promis et que vous tenez toujours vos promesses. Dans cette foi, puis-je vivre et mourir.\n\nAmen.",
+					"hr": "Uzdam se u Boga Oca;\n\nUzdam se u Boga Sina;\n\nUzdam se u Boga Duha Svetoga;\n\nUzdam se u Presveto Trojstvo;\n\nUzdam se u Gospodina Isusa Krista, pravoga Boga i pravoga čovjeka.",
+					"it": "Mio Dio, spero dalla tua bontà,\n\nper le tue promesse e per i meriti di Gesù Cristo, nostro Salvatore, la vita eterna\n\ne le grazie necessarie per meritarla con le buone opere, che io debbo e voglio fare.\n\nSignore, che io possa goderti in eterno.",
+					"pt-PT": "Meu Deus, porque sois omnipotente, infinitamente misericordioso e fidelíssimo às Vossas promessas, eu espero da Vossa bondade que, em atenção aos méritos de Jesus Cristo, nosso Salvador, me dareis a vida eterna e as graças necessárias para a alcançar, como prometestes aos que praticassem as boas obras, que eu me proponho realizar ajudado com o auxílio da Vossa divina graça. Senhor, minha esperança, na qual quero viver e morrer: jamais serei confundido. Ámen.",
+					"ro": "Sper în Dumnezeu Tatăl;\n\nSper în Dumnezeu Fiul;\n\nSper în Dumnezeu Duhul Sfânt;\n\nSper în Preasfânta Treime;\n\nSper în Domnul meu, Isus Cristos, Dumnezeu și om adevărat.",
+					"sl": "Gospod Bog, upam, da bom po tvoji milosti dosegel odpuščanje vseh grehov in po tem življenju večno blaženost. Ti si to obljubil. Ti si neskončno mogočen, zvest, dobrotljiv in milosrčen. V tem upanju hočem živeti in umreti. Amen.",
+					"sv": "Jag hoppas på Gud Fader;\n\nJag hoppas på Gud Sonen;\n\nJag hoppas på Gud den Helige Ande;\n\nJag hoppas på den heliga Treenigheten;\n\nJag hoppas på min Herre Jesus Kristus, sann Gud och sann människa."
 				}
 			}
 		]

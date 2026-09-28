@@ -1,0 +1,55 @@
+{
+	"id": "way-of-the-cross-opus-dei",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"ca": "Via Crucis",
+		"da": "Via Crucis",
+		"en-US": "Way of the Cross (Pocket Prayer Book)",
+		"es": "Via Crucis",
+		"fr": "Chemin de Croix",
+		"hr": "Križni put",
+		"hu": "A Keresztút",
+		"it": "Via Crucis",
+		"pt-BR": "Via-Sacra (Devocionário)",
+		"pt-PT": "Via Sacra",
+		"ro": "Calea Crucii",
+		"sk": "Krížová cesta",
+		"sl": "Križev pot",
+		"sv": "Via Crucis"
+	},
+	"categories": [
+		"passion",
+		"devotion"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "The framework of the Way of the Cross as the Pocket Prayer Book sets it out — the verses said at each station — followed by the acceptance of death and other prayers for the end.",
+		"pt-BR": "O esquema da Via-Sacra tal como o Devocionário o apresenta — os versículos rezados em cada estação — seguido da aceitação da morte e de outras orações para o fim."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=303&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"stations",
+		"lent",
+		"friday",
+		"opus-dei"
+	],
+	"defaults": {
+		"sortOrder": 419,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

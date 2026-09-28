@@ -5,7 +5,13 @@
 	"name": {
 		"en-US": "Nunc Dimittis",
 		"pt-BR": "Nunc Dimittis",
-		"la": "Nunc Dimittis"
+		"la": "Nunc Dimittis",
+		"da": "Nunc dimittis",
+		"es": "Nunc dimittis",
+		"fr": "Nunc dimittis",
+		"it": "Nunc dimittis",
+		"ro": "Nunc dimittis",
+		"sv": "Nunc dimittis"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +19,14 @@
 				"type": "prayer",
 				"inline": {
 					"en-US": "Now thou dost dismiss thy servant, O Lord,\naccording to thy word in peace;\nBecause my eyes have seen thy salvation,\nWhich thou hast prepared before the face of all peoples:\nA light to the revelation of the Gentiles,\nand the glory of thy people Israel.",
-					"pt-BR": "Agora, Senhor, podeis deixar o vosso servo ir em paz,\nsegundo a vossa palavra.\nPorque os meus olhos viram a vossa salvação,\nque preparastes diante de todos os povos:\nLuz para iluminar as nações\ne glória do vosso povo Israel."
+					"pt-BR": "Agora, Senhor, podeis deixar o vosso servo ir em paz,\nsegundo a vossa palavra.\nPorque os meus olhos viram a vossa salvação,\nque preparastes diante de todos os povos:\nLuz para iluminar as nações\ne glória do vosso povo Israel.",
+					"da": "Simeons lovsang\n\nHerre, nu lader du din tjener gå bort\n\nmed fred efter dit ord.\n\nFor mine øjne har set din frelse,\n\nsom du har beredt for alle folk:\n\nEt lys til åbenbaring for hedninger\n\nog en herlighed for dit folk Israel.",
+					"es": "Cántico de Simeón\n\nAhora, Señor, según tu promesa,\n\npuedes dejar a tu siervo irse en paz.\n\nPorque mis ojos han visto a tu Salvador,\n\na quien has presentado ante todos los pueblos:\n\nluz para alumbrar a las naciones\n\ny gloria de tu pueblo Israel.",
+					"fr": "Cantique de Siméon\n\nMaintenant, Seigneur, tu peux laisser ton serviteur,\n\nAller en paix selon ta parole.\n\nMes yeux ont vu le salut que tu prépares\n\nÀ la face d’Israël, ton peuple.\n\nLumière pour éclairer les nations,\n\nEt gloire d’Israël, ton peuple.",
+					"it": "Cantico di Simeone\n\nOra puoi lasciare, o Signore, che il tuo servo\n\nvada in pace, secondo la tua parola:\n\nperché i miei occhi hanno visto la tua salvezza\n\npreparata da te davanti a tutti i popoli:\n\nluce per rivelarti alle genti\n\ne gloria del tuo popolo, Israele.",
+					"la": "Canticum Simeonis\n\nNunc dimittis servum tuum, Domine,\n\nsecundum verbum tuum in pace:\n\nQuia viderunt oculi mei salutare tuum\n\nQuod parasti ante faciem omnium populorum:\n\nLumen ad revelationem gentium,\n\net gloriam plebis tuae Israel.",
+					"ro": "Cântarea lui Simeon\n\nAcum slobozeşte pe slujitorul tău, Stăpâne,\n\ndupă cuvântul tău, în pace:\n\nCăci au văzut ochii mei mântuirea Ta,\n\npe care ai pregătit-o înaintea tuturor popoarelor:\n\nLumină spre luminarea neamurilor\n\nși slava poporului tău, Israel.",
+					"sv": "Symeons lovsång\n\nHerre, nu låter du din tjänare gå hem\n\ni frid, som du har lovat.\n\nTy mina ögon har skådat frälsningen\n\nsom du har berett åt alla folk.\n\nEtt ljus med uppenbarelse åt hedningarna\n\noch härlighet åt ditt folk Israel."
 				}
 			}
 		]

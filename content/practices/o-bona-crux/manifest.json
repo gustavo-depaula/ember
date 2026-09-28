@@ -1,0 +1,52 @@
+{
+	"id": "o-bona-crux",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"ca": "Oh Santa Creu",
+		"en-US": "O Good Cross",
+		"es": "Oh Cruz Santa",
+		"fr": "Ô bonne Croix",
+		"hr": "O križu blagoslovljeni",
+		"hu": "O Bona Crux",
+		"it": "O Bona Crux",
+		"la": "O Bona Crux",
+		"pt-BR": "Salve Santa Cruz",
+		"pt-PT": "Ó Boa Cruz",
+		"sl": "O dobri križ",
+		"sv": "O Bona Crux"
+	},
+	"categories": [
+		"passion",
+		"devotion"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O Good Cross, long desired* — the greeting to the cross put on the lips of the Apostle St. Andrew at his martyrdom.",
+		"pt-BR": "*Ó Cruz boa, há tanto tempo desejada* — a saudação à cruz posta nos lábios do Apóstolo Santo André no seu martírio."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=303&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"cross",
+		"andrew",
+		"short-prayer"
+	],
+	"defaults": {
+		"sortOrder": 418,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

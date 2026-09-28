@@ -1,0 +1,34 @@
+# Translations of one prayer that opusdei.org never links to each other; the
+# parser unions each line's ids into one prayer. Format: lang:id<TAB>lang:id…
+# Acts of contrition, faith, hope and love
+en-US:2114	sk:1781	sl:2007
+en-US:2122	it:278	fr:1777	sl:2015
+en-US:2123	it:279	fr:1778	sl:2016
+en-US:2124	it:280	fr:1779	sl:2017
+# Angel of God
+la:201	sk:1782
+# Holy Rosary; consecration to Our Lady ("O my Lady, O my Mother"); Blessed be your purity
+la:217	sl:2031
+la:2472	sl:2034
+en-US:2138	sl:2035
+# Way of the Cross; mental prayer; O Bona Crux; Oremus pro Pontifice
+en-US:2159	fr:2336	sk:1817	sl:2054
+en-US:2160	sl:2055
+la:240	it:314
+la:451	sk:1821
+# For the dead. Latin "Responsorium I" (Ne recorderis) is English "Responsory" and
+# the vernacular "Responso II"; the vernacular "Responso I" (Subvenite) has no
+# Latin or English.
+la:249	en-US:2177
+pt-BR:1444	pt-PT:815	es:175	ca:1075	hr:1244	ro:719	sv:984
+# Prayer cards
+en-US:2191	sl:2089
+en-US:2192	sl:2090
+en-US:2193	sl:2091
+en-US:2194	sl:2092
+en-US:2195	sl:2093
+en-US:2197	sl:2095
+en-US:2198	sl:2096
+en-US:2200	sl:2098
+# Relabel: the site files this English text in the Latin column.
+=	la:2472	en-US

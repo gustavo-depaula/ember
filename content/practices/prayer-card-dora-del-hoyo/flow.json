@@ -1,0 +1,54 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za privatnu upotrebu",
+				"hu": "Imádság a magán áhítat számára",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Modlitba na súkromnú pobožnosť",
+				"sl": "Molitev za zasebno pobožnost",
+				"sv": "Bön för privat bruk"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"fr": "Prière",
+				"hr": "Molitva",
+				"hu": "Imádság",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba",
+				"sv": "BÖN"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Senyor nostre, que cridàreu la vostra serventa Dora a ocupar-se de les mateixes tasques que va realitzar la Benaurada Verge Maria a la llar de Natzaret, ajudeu-me a trobar-vos en les diverses situacions de cada jornada, i a difondre al meu voltant el caliu de família que ella va fer present amb el seu treball alegre i abnegat, seguint els ensenyaments de sant Josepmaria.\n\nGlorifiqueu la vostra serventa Dora i concediu-me, per la seva intercessió, el favor que us demano (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "O Lord, You called your servant Dora to work at the tasks that the Blessed Virgin Mary carried out in her home at Nazareth. Help me find You in the ordinary events of daily life, and to fill my surroundings with the same family warmth that Dora brought to hers with her cheerful and selfless work, following the teachings of Saint Josemaría.\n\nGlorify your servant Dora and, through her intercession, grant me the favour I ask... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Señor nuestro, que llamaste a tu sierva Dora a ocuparse de las tareas que realizó la Bienaventurada Virgen María en el hogar de Nazareth, ayúdame a encontrarte en las situaciones de cada jornada, y a difundir a mi alrededor el calor de familia que ella hizo presente con su trabajo alegre y abnegado, siguiendo las enseñanzas de san Josemaría.\n\nGlorifica a tu sierva Dora y concédeme, por su intercesión, el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Seigneur, toi qui as appelé ta servante Dora à accomplir le travail que la Bienheureuse Vierge Marie a réalisé au foyer de Nazareth, aide-moi à te trouver dans mes activités quotidiennes. Apprends-moi à créer autour de moi une ambiance de famille chaleureuse comme elle a su le faire, par son travail plein de joie et de don, selon les enseignements de saint Josémaria.\n\nGlorifie ta servante Dora et accorde-moi par son intercession la faveur que je te demande (formuler la demande…) Amen.\n\n*Notre Père, Je vous salue Marie, Gloire au Père.*",
+				"hr": "Gospodine naš, koji si pozvao Doru da se bavi istim zadaćama kao i Blažena Djevica Marija u nezaretskom domu, pomozi mi pronaći Te u situacijama svakoga dana, i širiti oko sebe obiteljsku toplinu koju je ona stvarala svojim nesebičnim i radosnim radom, po nauku Sv. Josemaríje.\n\nProslavi svoju službenicu Doru i usliši po njezinom zagovoru ovu moju molitvu... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Urunk, Te meghívtad szolgálódat, Dórát, hogy ugyanazokat a feladatokat végezze, mint a Boldogságos Szűz Mária názáreti otthonában. Segíts nekem, hogy megtaláljalak a mindennapi helyzetekben és sugározzam a környezetemben a családi melegséget, amelyet Dóra is megvalósított vidám és odaadó munkájával Szent Josemaría tanítását követve.\n\nDicsőítsd meg szolgálódat, Dórát és add meg közbenjárására kérésemet: … (*a kérés*). Amen.\n\n*Miatyánk. Üdvözlégy. Dicsőség.*",
+				"pt-BR": "Ó Deus, que chamastes a vossa serva Dora para exercer as tarefas que a Bem-aventurada Virgem Maria realizou no lar de Nazaré, ajudai-me a encontrar-vos nas situações de cada dia e a difundir à minha volta o calor de família que ela fazia presente com seu trabalho alegre e abnegado, seguindo os ensinamentos de São Josemaria.\n\nDignai-vos glorificar a vossa serva Dora e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Amém.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Ó Deus, que chamastes a vossa serva Dora para exercer as tarefas que a Bem-aventurada Virgem Maria realizou no lar de Nazaré, ajudai-me a encontrar-vos nas situações de cada dia e a difundir à minha volta o calor de família que ela fazia presente com o seu trabalho alegre e abnegado, seguindo os ensinamentos de São Josemaria.\n\nDignai-vos glorificar a vossa serva Dora e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Doamne, Dumnezeule nostru, care ai chemat-o pe Dora să se ocupe de aceleași activități pe care le-a realizat Preasfânta Fecioară Maria în căminul din Nazaret, ajută-mă să Te găsesc în împrejurările vieții de zi cu zi și să se răspândească în jurul meu căldura de familie pe care ea a realizat-o prin munca sa veselă și sacrificată, urmărind învățăturile Sfântului Josemaría.\n\nÎngăduie ca slujitoarea Ta să fie preamărită și, prin mijlocirea ei, dăruiește-mi harul pe care Ți-l cer… (*se formulează cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Pane, ty si povolal svoju služobnicu Doru, aby sa venovala povinnostiam, ktoré vykonávala Preblahoslavená Panna Mária v domácnosti v Nazarete; pomôž mi nachádzať ťa v každodenných situáciách a šíriť okolo seba teplo rodiny, ktoré vytvárala ona svojou radostnou a obetavou prácou podľa učenia svätého Josemaríu.\n\nOsláv svoju služobnicu Doru a vyslyš na jej príhovor moju prosbu … (konkrétna prosba). Amen.\n\nOtče náš. Zdravas´ Mária. Sláva Otcu.",
+				"sl": "Gospod, svojo služabnico Doro si poklical k opravljanju istega dela, ki ga je v nazareškem domu vršila presveta Devica Marija. Pomagaj mi, da te najdem v vsakodnevnih okoliščinah in okoli sebe širim toplino družine, ki jo je ona prinašala s svojim veselim in nesebičnim delom po zgledu svetega Jožefmarija.\n\nPoveličaj svojo služabnico Doro in po njenem posredovanju usliši mojo prošnjo … (*izrazite prošnjo*). Amen.\n\n*Oče naš. Zdrava Marija, Slava Očetu.*",
+				"sv": "Herre, du kallade Dora att ägna sig åt samma uppgifter som den saliga jungfrun Maria utförde i sitt hem i Nasaret. Hjälp mig att finna dig i vardagens olika situationer och att i min omgivning sprida en sådan familjevärme som hon skapade omkring sig genom att utföra sitt arbete med glädje och självförsakelse enligt den helige Josemarías lära.\n\nFörhärliga i din nåd din tjänarinna Dora och ge mig genom hennes förbön vad jag nu ber om: … Amen.\n\n*Fader vår*, *Var hälsad Maria*, *Ära vare Fadern*."
+			}
+		}
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"id": "prayer-card-guadalupe-ortiz-de-landazuri",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Beata Guadalupe",
+		"en-US": "Bl. Guadalupe Ortiz de Landázuri",
+		"es": "Beata Guadalupe",
+		"fr": "Bienheureuse Guadalupe",
+		"hr": "Blažena Guadalupe",
+		"hu": "Boldog Guadalupe Ortiz de Landázuri",
+		"pt-BR": "Bem-aventurada Guadalupe Ortiz de Landázuri",
+		"pt-PT": "Beata Guadalupe",
+		"ro": "Fericita Guadalupe",
+		"sk": "Bl. Guadalupe",
+		"sl": "Blažena Guadalupe Ortiz de Landázuri",
+		"sv": "Saliga Guadalupe"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "The prayer card of Blessed Guadalupe Ortiz de Landázuri (1916–1975), chemist and teacher, one of the first women of Opus Dei.",
+		"pt-BR": "A estampa da Bem-aventurada Guadalupe Ortiz de Landázuri (1916–1975), química e professora, uma das primeiras mulheres do Opus Dei."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=307&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=202&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"opus-dei",
+		"prayer-card",
+		"intercession"
+	],
+	"defaults": {
+		"sortOrder": 437,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

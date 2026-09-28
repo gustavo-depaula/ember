@@ -1,0 +1,38 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Atribuïda a l'apòstol sant Andreu",
+				"en-US": "Attributed to the Apostle St. Andrew",
+				"es": "Atribuida a san Andrés Apóstol",
+				"fr": "Prière de saint André Apôtre",
+				"hr": "Pripisuje se svetom Andriji apostolu",
+				"hu": "Szent András apostolnak tulajdonított fohász",
+				"it": "attribuita a S. Andrea apostolo",
+				"la": "Sancto Andreae Apostolo adscripta",
+				"pt-BR": "Atribuída a Santo Andrés Apóstolo",
+				"pt-PT": "Atribuída a Santo André Apóstolo",
+				"sl": "Molitev, pripisana apostolu Andreju",
+				"sv": "Tillskriven aposteln Andreas"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Creu Santa, que vas ser adornada amb els membres del Senyor, tantes vegades desitjada, profundament estimada, constantment buscada i al final preparada per a la meva ànima: recull-me d'entre els homes i porta'm amb el meu Mestre, perquè per tu em rebi qui per tu em va redimir.",
+				"en-US": "O Good Cross, made beautiful by the body of the Lord, long have I desired thee, ardently have I loved thee, unceasingly have I sought thee, and now thou art ready for my eager soul. Receive me from among men and restore me to my Master, so that He, who redeemed me through thee, shalt receive me through thee. Amen.",
+				"es": "Oh Cruz Santa, que fuiste adornada con los miembros del Señor, tantas veces deseada, profundamente amada, constantemente buscada y al fin preparada para mi alma: recógeme de entre los hombres y llévame junto a mi Maestro, para que por ti me reciba quien por ti me redimió.",
+				"fr": "Ô bonne Croix qui as tiré ta gloire des membres du Seigneur, Croix longtemps désirée, ardemment aimée, cherchée sans relâche, et enfin préparée à mes ardents désirs, retire-moi d'entre les hommes, et rends-moi à mon maître, afin que par toi me reçoive Celui qui m'a racheté par toi.",
+				"hr": "O križu blagoslovljeni, koji si primio veličanstvo i ljepotu udova Gospodinovih! Uzmi me i nosi me daleko od ljudi te me predaj mome Učitelju, da me po tebi primi onaj koji me po tebi otkupio.",
+				"hu": "*Ó, édes keresztfa, aki egyedül voltál méltó a mennyek Királyát és az Urat hordozni, öltöztess engem magadba, hogy átöleljelek, és teáltalad fogadjon magához engem, aki teáltalad váltott meg engem. Ámen.*",
+				"it": "O Croce buona, resa mirabile dal corpo del Signore, a lungo ti ho desiderata, ardentemente amata, senza sosta attesa, e adesso sei pronta per il mio cuore impaziente: accogli me me tra tutti gli uomini e restituiscimi al mio Signore. Lui che attraverso di te mi ha redento, attraverso di te possa accogliermi. Amen.",
+				"la": "O Bona Crux, quæ decórem ex membris Dómini suscepísti, diu desideráta, sollícite amáta, sine intermissióne quæsíta, et aliquándo cupiénti ánimo præparáta: áccipe me ab homínibus, et redde me magistro meo: ut per te me recípiat, qui per te me redémit.",
+				"pt-BR": "Salve Santa Cruz, tão desejada, tão amada. Tira-me do meio dos homens e entrega-me ao meu Mestre e Senhor, para que eu de ti receba o que por ti me salvou!",
+				"pt-PT": "Ó Boa Cruz, que do Corpo de Jesus recebestes a formosura: tanto tempo desejada, tão ardentemente amada, sem descanso procurada! Para a minha alma ansiosa estás por fim preparada! Retira-me dentre os homens e devolve a minha vida ao Mestre de Quem eu sou! Por ti me receba Aquele que, por ti, me resgatou.",
+				"sl": "O dobri križ, ki si kras in lepoto prejel od udov Gospodovih, tolikokrat zaželen, goreče ljubljen, brez prestanka iskan in naposled za mojo dušo pripravljen, sprejmi me od ljudi in me vrni mojemu Učitelju: naj me po tebi sprejme On, ki me je po tebi odrešil.",
+				"sv": "O goda kors, som gjorts vackert av min Herres kropp: länge har jag åstundat dig, med glöd har jag älskat dig, oupphörligen har jag sökt dig, och nu är du redo för min ivriga själ. Tag emot mig från människorna och återbörda mig till min Herre, så att han som återlöste mig genom dig, ska få ta emot mig genom dig. Amen."
+			}
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za osobnu pobožnost",
+				"hu": "Imádság a magán áhítat számára",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Modlitba pre súkromnú pobožnosť",
+				"sl": "Molitev za zasebno pobožnost",
+				"sv": "Bön för privat bruk"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"fr": "Prière",
+				"hr": "MOLITVA",
+				"hu": "Imádság",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba",
+				"sv": "BÖN"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Déu Totpoderós, que vau omplir el vostre servent Isidoro d'abundants tresors de gràcia, en l'exercici dels seus deures professionals enmig del món: feu que jo sàpiga també santificar el meu treball ordinari i dur la llum de Crist als meus amics i companys; digneu-vos glorificar el vostre servent i concediu-me per la seva intercessió el favor que us demano... (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "Almighty God, You granted your servant Isidoro countless graces in the fulfillment of his professional duties in the world. Grant that I too may sanctify my ordinary work and bring Christ’s light to my friends and acquaintances. Deign to glorify your servant Isidoro and through his intercession grant me the favour I ask of You... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios Todopoderoso, que llenaste a tu siervo Isidoro de abundantes tesoros de gracia en el ejercicio de sus deberes profesionales en medio del mundo: haz que yo sepa también santificar mi trabajo ordinario y llevar la luz de Cristo a mis amigos y compañeros; dígnate glorificar a tu Siervo y concédeme por su intercesión el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Dieu tout puissant, qui as comblé ton serviteur Isidoro d'abondant trésors de grâce dans l'exercice de ses devoirs professionnels au milieu du monde, fais que je sache moi aussi sanctifier mon travail ordinaire et apporter la lumière du Christ à mes amis et à mes collègues.\n\nDaigne glorifier ton serviteur Isidoro et accorde-moi, par son intercession, la faveur que je te demande (formuler la demande...) Amen\n\n*Notre Père, Je vous salue Marie, Gloire au Père*",
+				"hr": "Svemogući Bože, Ti si svome sluzi Isidoru u izvršavanju njegova stručnoga rada usred svijeta podario obilno blago milosti. Pomogni mi kako bih se i ja posvećivao u svom svagdašnjem radu i svojim prijateljima i kolegama donio Kristovo svjetlo. Udostoj se proslaviti svoga slugu i po njegovu zagovoru usliši ovu moju molitvu. . . Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Mindenható Atyaisten, aki bőséges kegyelmedet ajándékoztad szolgádnak Isidorónak a világi életben felmerülő szakmai teendők teljesítésére. Add, hogy én is meg tudjam szentelni mindennapi munkámat és, hogy Krisztus világosságáról tegyek tanúbizonyságot barátaim és munkatársaim körében. Dicsőítsd meg Szolgádat és közbenjárására add meg nekem, hogy... (*a* *kérés*). Ámen.\n\n*Miatyánk, Üdvözlégy, Dicsőség.*",
+				"pt-BR": "Deus Todo-Poderoso, que cumulastes o vosso servo Isidoro de abundantes tesouros de graça no exercício dos seus deveres profissionais no meio do mundo: fazei que eu saiba também santificar o meu trabalho de cada dia e levar a luz de Cristo aos meus amigos e companheiros. Dignai-Vos glorificar o vosso Servo e concedei-me por sua intercessão o favor que Vos peço... (peça-se). Assim seja.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Deus todo-poderoso, que enchestes o vosso servo Isidoro de abundantes tesouros de graça, no exercício dos seus deveres profissionais no meio do mundo, fazei que eu também saiba santificar o meu trabalho diário e levar a luz de Cristo aos meus amigos e companheiros. Dignai-Vos glorificar o vosso servo Isidoro e concedei-me por sua intercessão o favor que Vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Dumnezeule atotputernic, care l-ai umplut pe Venerabilul Tău Isidoro, de comori de har în împlinirea îndatoririlor sale în mijlocul lumii, fă ca și eu să știu să-mi sfințesc munca de fiecare zi, şi să le aduc lumina lui Cristos prietenilor și colegilor mei; binevoiește să-l cinstești pe slujitorul Tău și dăruiește-mi prin mijlocirea lui harul pe care Ți-l cer ... (cererea). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Všemohúci Bože, Ty si svojmu služobníkovi Isidorovi udelil nespočetné milosti pri plnení jeho profesionálnych povinností vo svete. Daj, aby som aj ja posväcoval svoju bežnú prácu a prinášal Kristovo svetlo medzi svojich priateľov a známych. Osláv svojho služobníka Isidora a vyslyš na jeho príhovor moju prosbu ... (konkrétna prosba). Amen.\n\nOtče náš…, Zdravas´ Mária…, Sláva Otcu...",
+				"sl": "Vsemogočni Bog, ti si svojemu služabniku Isidoru v izvrševanju njegovih poklicnih dolžnosti sredi sveta podelil številne milosti. Pomagaj mi, da bom tudi jaz znal posvečevati svoje vsakdanje delo ter svojim prijateljem in kolegom prinašati Kristusovo luč.\n\nPoveličaj svojega služabnika Isidora in po njegovi priprošnji usliši mojo molitev … (*izrazite prošnjo*). Amen.\n\n*Oče naš, Zdrava Marija, Slava Očetu.*",
+				"sv": "Allsmäktige Gud, du uppfyllde din tjänare Isidoro med rikliga nådegåvor när han mitt i världen fullgjorde sina yrkesplikter: förunna också mig förmågan att helga mitt vardagliga arbete och förmedla Kristi ljus till mina vänner och kollegor. Förhärliga i din nåd din tjänare Isidoro. Må hans förböner beveka dig att höra den bön, som jag nu riktar till dig … Amen.\n\n*Fader vår*, *Var hälsad Maria*, *Ära vare Fadern*."
+			}
+		}
+	]
+}

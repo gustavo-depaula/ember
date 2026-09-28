@@ -1,0 +1,50 @@
+{
+	"id": "iesu-dulcis-memoria",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Iesu dulcis memoria",
+		"fr": "Iesu dulcis memória",
+		"hu": "Iesu dulcis memória (Ó, Jézus, emlékezni rád)",
+		"la": "Iesu dulcis memória",
+		"sk": "Keď, Ježiš drahý, spomínam",
+		"sl": "O Jezus, sladki moj spomin"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "The medieval hymn on the sweetness of the name and presence of Jesus — *Iesu, dulcis memoria*.",
+		"pt-BR": "O hino medieval sobre a doçura do nome e da presença de Jesus — *Iesu, dulcis memoria*."
+	},
+	"history": {
+		"en-US": "A twelfth-century Latin poem long attributed to St. Bernard of Clairvaux. Stanzas of it were used as the hymns of the Office of the Holy Name of Jesus.",
+		"pt-BR": "Poema latino do século XII longamente atribuído a São Bernardo de Claraval. Estrofes dele foram usadas como hinos do Ofício do Santíssimo Nome de Jesus."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=298&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=193&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"holy-name",
+		"jesus"
+	],
+	"defaults": {
+		"sortOrder": 403,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

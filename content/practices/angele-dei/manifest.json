@@ -4,7 +4,19 @@
 	"name": {
 		"en-US": "Angel of God",
 		"pt-BR": "Anjo de Deus",
-		"la": "Angele Dei"
+		"la": "Angele Dei",
+		"ca": "Àngel de Déu",
+		"da": "Guds engel",
+		"es": "Ángel de Dios",
+		"fr": "Prière à l'ange gardien",
+		"hr": "Anđele čuvaru",
+		"hu": "Istennek Őrangyala",
+		"it": "Angelo di Dio",
+		"pt-PT": "Ao Anjo da Guarda",
+		"ro": "Îngere al lui Dumnezeu",
+		"sk": "K Anjelovi strážnemu",
+		"sl": "Angel Božji",
+		"sv": "Till skyddsängeln"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +25,19 @@
 				"inline": {
 					"en-US": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard, to rule and guide. Amen.",
 					"pt-BR": "Santo Anjo do Senhor, meu zeloso guardador,\nse a ti me confiou a piedade divina,\nsempre me rege, me guarda, me governa e me ilumina. Amém.",
-					"la": "Angele Dei, qui custos es mei,\nme tibi commissum pietate superna,\nhodie illumina, custodi, rege et guberna. Amen."
+					"la": "Angele Dei, qui custos es mei,\nme tibi commissum pietate superna,\nhodie illumina, custodi, rege et guberna. Amen.",
+					"ca": "Àngel de Déu, vós que sou custodi meu, a mi que soc a vós encomanat per la celestial pietat, il·lumineu-me, guardeu-me, regiu-me i governeu-me. Amén.",
+					"da": "Guds engel, du som våger over mig, og i hvis varetægt den guddommelige barmhjertighed har betroet mig. Oplys og beskyt mig, styr og led mig. Amen.",
+					"es": "Ángel de Dios, que eres mi custodio, pues la bondad divina me ha encomendado a ti, ilumíname, guárdame, defiéndeme y gobiérname. Amén.",
+					"fr": "Ange de Dieu,\ntu es mon gardien,\néclaire-moi, garde-moi.\nGouverne moi, la bonté céleste m'a confié à toi.\nAmen",
+					"hr": "Anđele čuvaru moj koga mi je za čuvara dao dobri Bog, danas me prosvijetljuj, čuvaj i upravljaj. Amen.",
+					"hu": "Isten Angyala, őrangyalom, mivel rád bízott engem az isteni jóság, világosíts meg és őrizz, vezess és kormányozz engem. Ámen.",
+					"it": "Angelo di Dio, che sei il mio custode, illumina, custodisci, reggi e governa me, che ti fui affidato dalla pietà celeste. Amen.",
+					"pt-PT": "Santo Anjo do Senhor, meu zeloso guardador, pois que a ti me confiou a Piedade divina, hoje e sempre me governa, rege, guarda e ilumina. Ámen",
+					"ro": "Îngere al lui Dumnezeu, care ești păzitorul meu luminează-mă astăzi, păzește-mă, și ocârmuiește-mă pe mine, care-ți sunt încredințat ție prin mila lui Dumnezeu. Amin.",
+					"sk": "Anjel Boží, strážca môj, prosím ťa: vždy pri mne stoj! Pomocnú mi ruku daj, vo všetkom mi pomáhaj, aby som vždy, v každej chvíli, viedol/a život Bohu milý. A tak tebou chránený/á, bol/a raz v nebi spasený/a. Amen.\n\nMôj drahý, svätý anjel strážca, Ty poznáš moju cestu, ktorá ma má zaviesť do neba. Riaď moje kroky, aby som nezišiel z cesty spásy. Ty poznáš zámer Boha vzhľadom na môj život. Pomáhaj mi, prosím, aby som počúval vnuknutia Ducha Svätého.\n\nNapĺňaj moje srdce láskou, dobrotou a milosrdenstvom. Pomôž mi, aby som všetko robil s jemnosťou, trpezlivosťou a citlivosťou.\n\nBuď mojím ochrancom na cestách do večnosti, chráň moje telo, dušu i ducha od Zlého. Ukáž mi slabosti mojej povahy, aby som vo vedomí vlastnej malosti nasmeroval svoje srdce k tomu, čo je milé Bohu a robil môjmu Nebeskému Otcovi radosť. Nauč ma počúvať ťa a buď pri mne, aby som nezblúdil.\n\nNa sklonku dňa prinášaš moje modlitby pred Boží trón. Ukáž mi dobro i zlo, ktoré som v dnešnom dni prežil, aby som mohol zlo ľutovať a vďaka tvojej pomoci sa polepšil a za dobro mohol úprimne chváliť môjho Boha Otca, Ježiša a Ducha Svätého.\n\nTy bdieš pri mne, keď zaspávam, prijmi moje večerné pozdravy, moje poďakovania i prosby. Požehnávaj ma a stráž v čase spánku. Verím, že ma budeš posilňovať v hodine mojej smrti. Modli sa za mňa k svätému Jozefovi, aby aj on pri mne stál v chvíli mojej smrti a vypros mi na tú hodinu aj oporu mojej nebeskej matky. Potom ma zaveď, môj anjel strážca, k Ježišovi, môjmu Pánovi. Amen.",
+					"sl": "Angel Božji, varuh moj, po Božji dobroti sem varovanec tvoj; razsvetljuj in varuj me, vladaj in vodi me. Amen.",
+					"sv": "Guds ängel, min beskyddare, upplys mig, beskydda mig, styr mig och led mig, som av himlens godhet är anförtrodd åt dig. Amen."
 				}
 			}
 		]

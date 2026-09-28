@@ -4,7 +4,17 @@
 	"name": {
 		"en-US": "Act of Contrition",
 		"pt-BR": "Ato de Contrição",
-		"la": "Actus Contritionis"
+		"la": "Actus Contritionis",
+		"ca": "Senyor meu Jesucrist",
+		"es": "Acto de contrición",
+		"fr": "Acte de contrition",
+		"hr": "Čin kajanja",
+		"it": "Atto di dolore",
+		"pt-PT": "Ato de Contrição",
+		"ro": "Act de căință",
+		"sk": "Úkon ľútosti",
+		"sl": "Moj Bog, žal mi je",
+		"sv": "Akt av ånger"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +23,17 @@
 				"inline": {
 					"en-US": "O my God, I am heartily sorry for having offended Thee,\nand I detest all my sins, because of Thy just punishments,\nbut most of all because they offend Thee, my God,\nWho art all-good and deserving of all my love.\nI firmly resolve, with the help of Thy grace,\nto sin no more and to avoid the near occasions of sin.\nAmen.",
 					"pt-BR": "Meu Deus, pesa-me muito ter-Vos ofendido,\nporque sois infinitamente bom e o pecado Vos desagrada.\nProponho firmemente, com o auxílio da Vossa graça,\nnão Vos ofender mais e evitar as ocasiões de pecado.\nAmém.",
-					"la": "Deus meus, ex toto corde pænitet me omnium meorum peccatorum,\næque detestor, quia peccando, non solum pœnas a Te iuste statutas promeritus sum,\nsed præsertim quia offendi Te, summum bonum, ac dignum qui super omnia diligaris.\nIdeo firmiter propono, adiuvante Tua gratia, de cetero me non peccaturum\npeccandique occasiones proximas fugiturum.\nAmen."
+					"la": "Deus meus, ex toto corde pænitet me omnium meorum peccatorum,\næque detestor, quia peccando, non solum pœnas a Te iuste statutas promeritus sum,\nsed præsertim quia offendi Te, summum bonum, ac dignum qui super omnia diligaris.\nIdeo firmiter propono, adiuvante Tua gratia, de cetero me non peccaturum\npeccandique occasiones proximas fugiturum.\nAmen.",
+					"ca": "Senyor meu Jesucrist, Déu i home vertader, Creador, Pare i Redemptor meu; per ser vós qui sou bondat infinita, i perquè us estimo sobre totes les coses, em pesa de tot cor d’haver-vos ofès; també em pesa perquè em podeu castigar amb les penes eternes de l’infern. Ajudat de la vostra divina gràcia, proposo no tornar mai més a pecar, confessar-me, esmenar-me, i complir la penitència que em serà donada. Amén.",
+					"es": "Señor mío Jesucristo, Dios y hombre verdadero, Creador, Padre y Redentor mío: por ser Vos quien sois, Bondad infinita, y porque os amo sobre todas las cosas, me pesa de todo corazón haberos ofendido. También me pesa que podéis castigarme con las penas del infierno. Ayudado de vuestra divina gracia, propongo firmemente nunca más pecar, confesarme y cumplir la penitencia que me fuera impuesta. Amén.",
+					"fr": "Mon Dieu, j’ai un très grand regret de vous avoir offensé parce que vous êtes infiniment bon, infiniment aimable et que le péché vous déplaît.\nJe prends la ferme résolution, avec le secours de votre sainte grâce, de ne plus vous offenser et de faire pénitence.",
+					"hr": "Kajem se od svega srca što uvrijedih Boga, najveće i najmilije dobro.\nMrzim na sve svoje grijehe i čvrsto odlučujem da ću se popraviti i da više neću griješiti.",
+					"it": "Mio Dio, mi pento e mi dolgo con tutto il cuore dei miei peccati, perché peccando ho meritato i tuoi castighi e molto più perché ho offeso Te, infinitamente buono e degno di essere amato sopra ogni cosa. Propongo col Tuo santo aiuto di non offenderTi mai più e di fuggire le occasioni di peccato. Signore, misericordia, perdonami.",
+					"pt-PT": "Meu Deus, porque sois infinitamente bom e Vos amo de todo o meu coração, pesa-me de Vos ter ofendido e, com o auxílio da Vossa divina graça, proponho firmemente emendar-me e nunca mais Vos tornar a ofender. Peço e espero o perdão das minhas culpas pela Vossa infinita misericórdia. Ámen.",
+					"ro": "Doamne, Dumnezeul meu, mă căiesc din toată inima de toate păcatele mele și le urăsc mai presus de toate, pentru că prin ele am pierdut harul Tău și împărăția cerului și m-am făcut vrednic de pedeapsa veșnică a iadului. Dar mai mult mă căiesc pentru că, păcătuind, Te-am mâniat pe Tine, Părintele meu, Mântuitorul meu și Dumnezeul meu, atât de mare și atât de bun. Pentru aceasta mă hotărăsc, cu ajutorul harului Tău, să nu mai păcătuiesc și să fug de orice prilej de păcat. Amin.",
+					"sk": "Odpusť mi moje hriechy, Pane, odpusť mi moje hriechy – hriechy mojej mladosti, hriechy mojich úst, hriechy môjho veku, hriechy mojej duše, hriechy môjho tela, hriechy mojej nečinnosti, moje vážne úmyselné hriechy, hriechy, ktorých som si vedomý, hriechy, ktoré som tak dlho tajil a ktoré sú teraz skryté mojej pamäti.\nÚprimne ľutujem každý hriech, smrteľný i ľahký, ľutujem všetky hriechy od detstva až po súčasnosť.\nViem, že moje hriechy zranili Tvoje láskyplné Srdce. Môj Spasiteľ, osloboď ma z pút zla skrze najbolestnejšie utrpenie a umučenie môjho Vykupiteľa.\nJežišu, zabudni a odpusť, aký som bol. Amen.",
+					"sl": "Moj Bog, žal mi je, da sem grešil in žalil tebe, ki si moj najboljši Oče. Trdno sklenem, da se bom poboljšal, pomagaj mi s svojo milostjo. Amen.",
+					"sv": "Min Herre och Gud! Jag ångrar av hela mitt hjärta alla mina synder, eftersom jag därigenom gjort mig skyldig till ditt rättvisa straff både i denna och i den tillkommande världen. Framförallt ångrar jag dem, eftersom jag genom mina synder har förolämpat dig, min himmelske Fader, det högsta, fullkomligaste goda, som är värd all kärlek. Jag avskyr alla mina synder och fattar den uppriktiga föresatsen att bättra mitt liv och att inte mera synda. Ge mig, o Gud, din nåd för att klara detta! Amen."
 				}
 			}
 		]

@@ -1,0 +1,47 @@
+{
+	"id": "formulas-of-catholic-doctrine",
+	"form": "prayer",
+	"icon": "book",
+	"name": {
+		"en-US": "Formulas of Catholic Doctrine",
+		"pt-BR": "Fórmulas de doutrina católica"
+	},
+	"categories": [
+		"formation"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "The lists every Catholic learns by heart: the commandments of love, the Ten Commandments, the Beatitudes, the virtues, the gifts and fruits of the Holy Spirit, the precepts of the Church, the works of mercy, the capital sins and the last things.",
+		"pt-BR": "As listas que todo católico aprende de cor: os mandamentos do amor, os Dez Mandamentos, as Bem-aventuranças, as virtudes, os dons e os frutos do Espírito Santo, os preceitos da Igreja, as obras de misericórdia, os pecados capitais e os novíssimos."
+	},
+	"history": {
+		"en-US": "As in the appendix of the Compendium of the Catechism of the Catholic Church (2005).",
+		"pt-BR": "Tal como no apêndice do Compêndio do Catecismo da Igreja Católica (2005)."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=306&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=201&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"catechism",
+		"commandments",
+		"virtues",
+		"works-of-mercy",
+		"compendium"
+	],
+	"defaults": {
+		"sortOrder": 434,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

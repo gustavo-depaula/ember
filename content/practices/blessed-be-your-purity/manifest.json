@@ -1,0 +1,48 @@
+{
+	"id": "blessed-be-your-purity",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"ca": "Sia vostra gran puresa",
+		"da": "Velsignet være din renhed",
+		"en-US": "Blessed Be Your Purity",
+		"es": "Bendita sea tu pureza",
+		"hr": "Blagoslovljena bila tvoja čistoća",
+		"pt-BR": "Bendita a vossa pureza",
+		"pt-PT": "Bendita a vossa pureza",
+		"sl": "Vedno bodi blagoslovljena tvoja čistost",
+		"sv": "Välsignad vare din renhet"
+	},
+	"categories": [
+		"marian",
+		"devotion"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "A short offering of the whole day to the Blessed Virgin, praising the purity in which God delights.",
+		"pt-BR": "Um breve oferecimento de todo o dia à Santíssima Virgem, louvando a pureza em que Deus se compraz."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=300&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"purity",
+		"short-prayer"
+	],
+	"defaults": {
+		"sortOrder": 406,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

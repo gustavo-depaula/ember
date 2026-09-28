@@ -1,0 +1,95 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh feliç baró, sant Josep, a qui fou donat no solament de veure i escoltar el Déu que molts desitjaren veure i no veieren, escoltar i no escoltaren, sinó tenir-lo en els seus braços, besar-lo, vestir-lo i guardar-lo.",
+				"en-US": "Happy and blessed art thou, O Joseph, to whom it was given not only to see and to hear that God whom many kings desired to see, and saw not, to hear, and heard not; but also to bear Him in thine arms, to embrace Him, to clothe Him, and to guard and defend Him.",
+				"es": "¡Oh feliz varón, bienaventurado José, a quien le fue concedido no sólo ver y oír al Dios a quien muchos reyes quisieron ver y no vieron, oír y no oyeron; sino también abrazarlo, besarlo, vestirlo y custodiarlo!",
+				"fr": "Oh ! Heureux homme, bienheureux Joseph ! à qui il a été donné de voir Dieu que beaucoup de rois ont voulu voir et n’ont pas vu ; ont voulu entendre et n’ont pas entendu ; il vous a été donné non seulement de le voir et de l’entendre, mais aussi de le porter dans vos bras, de l’embrasser, de le vêtir et de veiller sur lui.",
+				"hr": "O, sretni, blaženi Josipe, kojemu je bilo dano ne samo vidjeti i čuti Boga kojega su mnogi kraljevi željeli vidjeti i čuti, a ipak nisu ni vidjeli ni čuli, koga si ti na svojim rukama nosio, njegovao i štitio.",
+				"hu": "O felícem virum, beátum Ioseph, cui datum est Deum, quem multi reges voluérunt vidére et non vidérunt, audíre et non audiérunt, non solum vidére et audíre, sed portáre, deosculári, vestíre et custodíre!",
+				"it": "O beato S. Giuseppe, uomo felice, cui fu dato non solo di vedere ed ascoltare quel Dio che molti re vollero vedere e non videro, ascoltare e non ascoltarono, ma di portarlo altresi, baciarlo, vestirlo e custodirlo!",
+				"la": "O felícem virum, beátum Ioseph, cui datum est Deum, quem multi reges voluérunt vidére et non vidérunt, audíre et non audiérunt, non solum vidére et audíre, sed portáre, deosculári, vestíre et custodíre!",
+				"pt-BR": "São José, varão feliz, que tivestes a dita de ver e ouvir o próprio Deus, a quem muitos reis quiseram ver e não viram, ouvir e não ouviram; e não só ver e ouvir, mas ainda trazê-lo em vossos braços, beijá-lo, vesti-lo e guardá-lo!",
+				"pt-PT": "São José, varão feliz, que tivestes a dita de ver e ouvir o próprio Deus, a quem muitos reis quiseram ver e não viram, ouvir e não ouviram; e não só ver e ouvir, mas também trazê-lo nos vossos braços, beijá-lo, vesti-lo e guardá-lo!",
+				"sk": "Blažený muž, svätý Jozef, tebe bolo dané nielen vidieť a počuť Boha, ktorého mnohí králi túžili vidieť, a nevideli, počuť a nepočuli, ale ho aj nosiť v náručí, bozkávať, šatiť a chrániť.",
+				"sl": "O srečni mož, blaženi Jožef, ki ti je bilo dano, da si Boga, katerega je mnogo kraljev želelo videti, pa ga niso videli, slišati, pa ga niso slišali, ne samo videl in slišal, marveč tudi nosil in poljubljal, oblačil in varoval.",
+				"sv": "O, helige Josef, du lycklige man, vars privilegium det var att inte bara se och höra den Gud, som många kungar hade längtat att se, och dock icke sett, längtat att höra, och dock icke hört; du fick också bära honom på dina armar och kyssa honom, klä honom och vaka över honom!"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"ca": "Pregueu per nosaltres sant Josep.",
+						"en-US": "Pray for us, O blessed Joseph.",
+						"es": "Ruega por nosotros, bienaventurado José.",
+						"fr": "Priez pour nous, bienheureux Joseph,",
+						"hr": "Moli za nas, sveti Josipe.",
+						"hu": "Ora pro nobis, beáte Ioseph.",
+						"it": "Prega per noi, San Giuseppe.",
+						"la": "Ora pro nobis, beáte Ioseph.",
+						"pt-BR": "Rogai por nós, bem-aventurado São José.",
+						"pt-PT": "Rogai por nós, bem-aventurado São José.",
+						"sk": "Oroduj za nás, svätý Jozef.",
+						"sl": "Prosi za nas, blaženi Jožef.",
+						"sv": "Bed för oss, helige Josef."
+					},
+					"r": {
+						"ca": "Perquè siguem dignes de les promeses de Jesucrist.",
+						"en-US": "That we may be made worthy of the promises of Christ.",
+						"es": "Para que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.",
+						"fr": "Afin que nous soyons dignes des promesses de Jésus-Christ.",
+						"hr": "Da dostojni postanemo obećanja Kristovih.",
+						"hu": "Ut digni efficiámur promissiónibus Christi.",
+						"it": "Affinché siamo resi degni delle promesse di Gesù Cristo.",
+						"la": "Ut digni efficiámur promissiónibus Christi.",
+						"pt-BR": "Para que sejamos dignos das promessas de Cristo.",
+						"pt-PT": "Para que sejamos dignos das promessas de Cristo.",
+						"sk": "Aby sme sa stali hodní prisľúbení Kristových.",
+						"sl": "Da postanemo vredni obljub Kristusovih.",
+						"sv": "Att vi blir värdiga Kristi löften."
+					}
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Preguem",
+				"en-US": "Let us pray",
+				"es": "Oración",
+				"fr": "PRIONS",
+				"hr": "Pomolimo se",
+				"hu": "Orémus",
+				"it": "Preghiamo",
+				"la": "Orémus",
+				"pt-BR": "Oremos",
+				"pt-PT": "Oremos",
+				"sk": "Modlime sa",
+				"sl": "Molimo",
+				"sv": "Låt oss bedja"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, que ens donàreu un sacerdoci reial: concediu-nos us preguem, que així com sant Josep meresqué la gràcia de tractar amb reverència i portar en els seus braços el vostre Fill unigènit, nascut de la Verge Maria, de la mateixa manera ens atorgueu la gràcia de servir el vostre altar amb cor pur i innocència de vida, de tal manera que rebem el Cos i Sang sacrosants del vostre Fill, i mereixem posseir en l'altra vida el premi etern. Pel mateix Crist Senyor nostre. Amén.",
+				"en-US": "O God, who hast given unto us a royal priesthood, vouchsafe, we beseech Thee, that as Blessed Joseph was found worthy to handle with his hands, and bear within his arms, thine only-begotten Son, born of the Virgin Mary, so may we be made fit, by cleanness of heart and innocence of works, worthily to receive the most sacred Body and Blood of thy Son, now in this present, and deserve to attain an everlasting reward in the world to come. Through the same Christ our Lord. Amen.",
+				"es": "Oh Dios, que nos concediste el sacerdocio real; te pedimos que, así como San José mereció tratar y llevar en sus brazos con cariño a tu Hijo unigénito, nacido de la Virgen María, hagas que nosotros te sirvamos con corazón limpio y buenas obras, de modo que hoy recibamos dignamente el sacrosanto cuerpo y sangre de tu Hijo, y en la vida futura merezcamos alcanzar el premio eterno. Por Jesucristo nuestro Señor. Amén.",
+				"fr": "Ô Dieu, qui nous as donné le sacerdoce royal, fais, nous t’en prions, que, comme saint Joseph a eu le bonheur de toucher et porter respectueusement dans ses bras ton Fils unique né de la Vierge Marie, nous portions au service de tes saints autels une telle pureté de cœur, une telle innocence de vie, qu'aujourd'hui nous recevions dignement le très-saint Corps et le précieux Sang de ton Fils, et que nous méritions pour le siècle à venir une récompense éternelle. Par Jésus-Christ Notre-Seigneur. Amen.\n\n*Antienne parisienne solennelle O felicem virum, composée vers l’année 1400 par Jean de Charlier de Gerson (1358 † 1429), chancelier de l’Université de Paris.*",
+				"hr": "Bože, koji si nam podario kraljevsko svećeništvo, molimo te, kao što je sveti Josip zaslužio postupati s tvojim jedinim Sinom, rođenim od Djevice Marije, i s ljubavlju ga nositi u naručju, daj da ti služimo čistim srcem i dobrim djelima, kako bismo danas dostojno primili presveto tijelo i krv tvoga Sina i u budućem životu zaslužili postići vječnu nagradu. Po Kristu Gospodinu našem. Amen.",
+				"hu": "Deus, qui dedísti nobis regále sacerdótium, præsta, quǽsumus, ut, sicut beátus Ioseph unigénitum Fílium tuum, natum ex Maria Vírgine, suis mánibus reverénter tractáre méruit et portáre, ita nos facias cum cordis mundítia et óperis innocéntia tuis sanctis altáribus deservíre, ut sacrosánctum Fílii tui Corpus et Sánguinem hódie digne sumámus, et in futúro sǽculo prǽmium habére mereámur ætérnum. Per Christum Dóminum nostrum. Amen.",
+				"it": "O Dio, che ci rivestisti d'un regale sacerdozio, fa che, come il beato Giuseppe meritò di trattare con le sue mani e di portare il tuo Figlio unigenito, nato da Maria Vergine, così noi possiamo servirti con cuore limpido e santità di opere, in modo da poter oggi ricevere degnamente il sacro Corpo e Sangue del tuo Figlio e meritare di conseguire nella vita futura il premio eterno. Per Cristo Nostro Signore. Amen.",
+				"la": "Deus, qui dedísti nobis regále sacerdótium, præsta, quǽsumus, ut, sicut beátus Ioseph unigénitum Fílium tuum, natum ex Maria Vírgine, suis mánibus reverénter tractáre méruit et portáre, ita nos facias cum cordis mundítia et óperis innocéntia tuis sanctis altáribus deservíre, ut sacrosánctum Fílii tui Corpus et Sánguinem hódie digne sumámus, et in futúro sǽculo prǽmium habére mereámur ætérnum. Per Christum Dóminum nostrum. Amen.",
+				"pt-BR": "Ó Deus, que nos concedestes o sacerdócio real, nós Vos pedimos que, assim como São José mereceu cuidar e trazer em seus braços com carinho o vosso Filho unigênito, nascido da Virgem Maria, façais que nós Vos sirvamos com coração limpo e boas obras, de modo que hoje recebamos dignamente o sacrossanto Corpo e Sangue do vosso Filho, e na vida futura mereçamos alcançar o prêmio eterno. Amém.",
+				"pt-PT": "Ó Deus, que nos concedestes o sacerdócio real, nós Vos pedimos que, assim como São José mereceu cuidar e trazer em seus braços com carinho o vosso Filho unigénito, nascido da Virgem Maria, façais que nós Vos sirvamos com coração limpo e boas obras, de modo que hoje recebamos dignamente o sacrossanto Corpo e Sangue do vosso Filho, e na vida futura mereçamos alcançar o prémio eterno. Ámen.",
+				"sk": "Bože, ty si dal svätému Jozefovi, aby smel nosiť v svojom náručí a úctivo objímať tvojho jednorodeného Syna, narodeného z Márie Panny; prosíme ťa, daj, aby sme aj my, ktorým si daroval kráľovské kňazstvo, mohli slúžiť pri tvojom svätom oltári s čistým srdcom a nevinnými rukami a mohli dnes prijať presväté Telo a Krv tvojho Syna, aby sme tak získali v budúcom veku večnú odmenu. Skrze Krista, nášho Pána. Amen.",
+				"sl": "O Bog, ki si nam dal kraljevo duhovstvo, nakloni, prosimo, naj tako, kakor je blaženi Jožef bil vreden tvojega edinega Sina, rojenega iz Device Marije, s svojimi rokami spoštljivo prijemati in nositi, tudi mi s čistim srcem in neomadeževanim dejanjem služimo tvojim svetim oltarjem, da presveto Telo in Kri tvojega Sina danes vredno prejmemo, v prihodnjem veku pa zaslužimo večno plačilo. Po Kristusu, našem Gospodu. Amen.",
+				"sv": "O Gud, du som har gett oss ett konungsligt prästämbete, vi ber dig: ge oss nåd att tjäna vid dina heliga altaren med hjärtan så rena, och liv så utan klander som den helige Josef, som befanns värdig att hålla i sina armar och med all vördnad bära din enfödde Son, född av jungfrun Maria. Gör oss i stånd att denna dag värdigt ta emot din Sons heliga kropp och blod, och låt oss vinna en evig belöning i den kommande världen; genom samme Kristus, vår Herre. Amen."
+			}
+		}
+	]
+}

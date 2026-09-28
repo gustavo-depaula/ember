@@ -1,0 +1,52 @@
+{
+	"id": "vexilla-regis",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"da": "Vexilla Regis",
+		"en-US": "Vexilla Regis",
+		"es": "Vexilla Regis",
+		"fr": "Vexilla regis",
+		"hu": "Király zászlói lengenek (Vexilla regis)",
+		"la": "Vexilla regis",
+		"pt-PT": "Vexilla Regis",
+		"ro": "Vexilla Regis"
+	},
+	"categories": [
+		"passion",
+		"seasonal"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*The standards of the King go forth* — the hymn of the Holy Cross, on which Life endured death and from death brought forth life.",
+		"pt-BR": "*Avançam os estandartes do Rei* — o hino da Santa Cruz, na qual a Vida sofreu a morte e da morte fez brotar a vida."
+	},
+	"history": {
+		"en-US": "Written by Venantius Fortunatus in 569 for the arrival of a relic of the True Cross at Poitiers; the Vespers hymn of Passiontide.",
+		"pt-BR": "Escrito por Venâncio Fortunato em 569 para a chegada de uma relíquia da Santa Cruz a Poitiers; o hino de Vésperas do tempo da Paixão."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"cross",
+		"holy-week"
+	],
+	"defaults": {
+		"sortOrder": 429,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

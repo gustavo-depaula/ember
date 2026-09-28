@@ -1,0 +1,48 @@
+{
+	"id": "responsory-subvenite",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"ca": "Respons I",
+		"en-US": "Responsory for the Dead (Subvenite)",
+		"es": "Responso I",
+		"hr": "Responso I",
+		"pt-BR": "Responso pelos defuntos",
+		"pt-PT": "Responsório I",
+		"ro": "Rugăciune pentru răposați",
+		"sv": "Bön för de avlidna I"
+	},
+	"categories": [
+		"purgatory",
+		"devotion"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Come to his aid, saints of God* — the responsory prayed beside one who has just died, with the prayers that follow it.",
+		"pt-BR": "*Santos de Deus, vinde em seu auxílio* — o responso rezado junto de quem acabou de morrer, com as orações que o acompanham."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=305&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"dead",
+		"responsory",
+		"subvenite"
+	],
+	"defaults": {
+		"sortOrder": 433,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,51 @@
+{
+	"id": "responsory-for-the-dead",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Responsory for the Dead",
+		"es": "Responso II",
+		"fr": "Absoute I",
+		"hr": "Responso II",
+		"hu": "Responsorium I",
+		"it": "Per i defunti",
+		"la": "Responsórium I",
+		"pt-BR": "Responsório pelos defuntos",
+		"pt-PT": "Responsório II",
+		"ro": "Responsorium",
+		"sv": "Bön för de avlidna II"
+	},
+	"categories": [
+		"purgatory",
+		"devotion"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Ne recorderis* — the responsory prayed for one of the faithful departed or for all of them, ending with the prayers for the dead.",
+		"pt-BR": "*Ne recorderis* — o responsório rezado por um fiel defunto ou por todos eles, que termina com as orações pelos defuntos."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=305&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"dead",
+		"responsory",
+		"requiem"
+	],
+	"defaults": {
+		"sortOrder": 431,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

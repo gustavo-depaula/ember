@@ -1,0 +1,46 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za privatnu upotrebu",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Modlitba pre súkromnú pobožnosť"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració a Eduardo Ortiz de Landázuri i Laura Busca Otaegui",
+				"en-US": "Prayer for the intercession of Eduardo Ortiz de Landázuri and Laura Busca Otaegui",
+				"es": "Oración a Eduardo Ortiz de Landázuri y Laura Busca Otaegui",
+				"fr": "Prière à Eduardo Ortiz de Landázuri et Laura Busca Otaegui",
+				"hr": "Molitva za zagovor Eduarda Ortiz de Landázuri i Laure Busca Otaegui",
+				"pt-BR": "Oração a Eduardo Ortiz de Landázuri e Laura Busca Otaegui",
+				"pt-PT": "Oração a Eduardo Ortiz de Landázuri e Laura Busca Otaegui",
+				"ro": "RUGĂCIUNE CĂTRE Eduardo Ortiz de Landázuri ȘI Laura Busca Otaegui",
+				"sk": "Modlitba"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Déu Pare misericordiós que concedíreu als vostres servents Laurita i Eduardo l'abundància de la vostra gràcia perquè visquessin les virtuts cristianes en el compliment dels deures familiars i professionals, feu que jo sàpiga també, com ells, ser un instrument de pau i d’alegria en el món.\n\nDigneu-vos glorificar els vostres servents i concediu-me per la seva intercessió el favor que us demano... (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "O God, merciful Father, You granted your servants Laurita and Eduardo an abundant grace to practise the Christian virtues in carrying out their family and professional duties. Grant that like them I too may learn to become an instrument of peace and joy in the world.\n\nDeign to glorify your servants and, through their intercession, grant me the favour I ask of You... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios Padre misericordioso, que concediste a tus siervos Laura y Eduardo la abundancia de tu gracia para que vivieran las virtudes cristianas en el cumplimiento de sus deberes familiares y profesionales, haz que yo sepa también como ellos ser un instrumento de paz y alegría en el mundo.\n\nDígnate glorificar a tus siervos y concédeme por su intercesión el favor que te pido… (*pídase*). Amén.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Ô Dieu, Père miséricordieux, qui as accordé à tes serviteurs Laura et Eduardo des grâces abondantes pour vivre les vertus chrétiennes dans l'accomplissement de leurs devoirs familiaux et professionnels, fais que je sois, comme eux, un\ninstrument de paix et de joie dans le monde.\n\nDaigne glorifier tes serviteurs et accorde-moi par leur intercession la faveur que je te demande : (formuler la demande...) Amen.\n\n*Notre Père, Je vous salue Marie, Gloire au Père.*",
+				"hr": "Bože, milosrdni Oče, koji si svojim slugama Lauri i Eduardu udijelio obilne milosti da žive kršćanske kreposti u ispunjavanju svojih obiteljskih i profesionalnih dužnosti, učini da i ja budem oruđe mira i radosti u svijetu.\n\nUdostoj se proslaviti ove svoje sluge i po njihovom zagovoru usliši ovu moju moitvu... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu*",
+				"pt-BR": "Deus Pai de misericórdia, que concedestes aos vossos servos Laura e Eduardo abundantes graças para viverem as virtudes cristãs no cumprimento dos seus deveres familiares e profissionais, fazei que eu saiba também ser um instrumento de paz e de alegria no mundo.\n\nDignai-Vos glorificar estes vossos servos e concedei-me por sua intercessão o favor que vos peço....Amém.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Deus Pai misericordioso, que concedestes aos vossos servos Laura e Eduardo a abundância da Vossa graça para que vivessem as virtudes cristãs no cumprimento dos seus deveres familiares e profissionais, fazei com que eu saiba também como eles ser um instrumento de paz e de alegria no mundo.\n\nDignai-Vos glorificar os vossos servos e concedei-me por sua intercessão o favor que Vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Dumnezeule, Părinte milostiv, care le-ai dăruit slujitorilor Tăi, Laura și Eduardo, belșugul harului Tău, pentru ca, împlinindu-și îndatoririle familiale și profesionale, să trăiască virtuțile creștine, fă ca și eu, asemenea lor, să știu să fiu un instrument al păcii și al bucuriei în lume.\n\nÎngăduie că slujitorii Tăi să fie preamăriți și, prin mijlocirea lor, dăruiește-mi harul pe care Ți-l cer… (*se formulează cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Pane, Ty si láskou naplnil srdce svojho služobníka Eduarda, lekára, tým, že mohol bezvýhradne dávať druhým svoj život, predovšetkým svojej rodine, pri vyučovaní na univerzite, ako aj chorým svojou neochvejnou pozornosťou. Túžim Ťa tiež nájsť a slúžiť Ti skrze tých, čo ma obklopujú a ktorí trpia buď na tele alebo na duši.\n\nOsláv svojho služobníka Eduarda a vyslyš na jeho príhovor moju prosbu ..... . Amen.\n\nOtče náš, Zdravas Mária, Sláva Otcu."
+			}
+		}
+	]
+}

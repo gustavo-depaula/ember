@@ -1,0 +1,60 @@
+{
+	"id": "stabat-mater",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"ca": "Stabat Mater",
+		"da": "Stabat Mater",
+		"en-US": "Stabat Mater",
+		"es": "Stabat Mater",
+		"fr": "Stabat Mater",
+		"hr": "Stala plačuć tužna Mati",
+		"hu": "Áll a gyötrött Istenanya (Stabat Mater)",
+		"it": "Stabat Mater",
+		"la": "Stabat Mater",
+		"pt-BR": "Stabat Mater",
+		"pt-PT": "Stabat Mater",
+		"ro": "Stabat Mater (secvență Maica Îndurerată)",
+		"sk": "Stála Matka bolestivá",
+		"sl": "Mati žalostna je stala",
+		"sv": "Stabat Mater"
+	},
+	"categories": [
+		"marian",
+		"passion"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "Our Lady standing at the Cross — the sequence of the Seven Sorrows, asking to share her grief.",
+		"pt-BR": "Nossa Senhora de pé junto à Cruz — a sequência das Sete Dores, que pede para partilhar a sua dor."
+	},
+	"history": {
+		"en-US": "A thirteenth-century Latin poem, often attributed to Jacopone da Todi. It is the sequence of the memorial of Our Lady of Sorrows (15 September), and its stanzas are sung between the stations of the Way of the Cross.",
+		"pt-BR": "Poema latino do século XIII, atribuído muitas vezes a Jacopone da Todi. É a sequência da memória de Nossa Senhora das Dores (15 de setembro), e as suas estrofes cantam-se entre as estações da Via-Sacra."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=300&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=195&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"sorrows",
+		"sequence",
+		"lent"
+	],
+	"defaults": {
+		"sortOrder": 405,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

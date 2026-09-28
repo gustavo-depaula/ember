@@ -4,7 +4,19 @@
 	"name": {
 		"en-US": "Glory Be",
 		"pt-BR": "Glória ao Pai",
-		"la": "Gloria Patri"
+		"la": "Gloria Patri",
+		"ca": "Glòria",
+		"da": "Ære være Faderen",
+		"es": "Gloria al Padre",
+		"fr": "Gloire au Père",
+		"hr": "Slava Ocu",
+		"hu": "Dicsőség",
+		"it": "Gloria al Padre",
+		"pt-PT": "Glória ao Pai",
+		"ro": "Slavă Tatălui",
+		"sk": "Sláva Otcu",
+		"sl": "Slava Očetu",
+		"sv": "Ära vare Fadern"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +25,19 @@
 				"inline": {
 					"en-US": "Glory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be,\nworld without end.\nAmen.",
 					"pt-BR": "Glória ao Pai, e ao Filho, e ao Espírito Santo.\nAssim como era no princípio, agora e sempre, e pelos séculos dos séculos.\nAmém.",
-					"la": "Glória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper,\net in sǽcula sæculórum.\nAmen."
+					"la": "Glória Patri, et Fílio, et Spirítui Sancto.\nSicut erat in princípio, et nunc, et semper,\net in sǽcula sæculórum.\nAmen.",
+					"ca": "Glòria al Pare i al Fill i a l’Esperit Sant.\n\nCom era al principi, ara i sempre, i pels segles dels segles. Amén.",
+					"da": "Ære være Faderen og Sønnen og Helligånden,\n\nsom det var i begyndelsen, så nu og altid og i al evighed. Amen.",
+					"es": "Gloria al Padre y al Hijo y al Espíritu Santo.\n\nComo era en el principio, ahora y siempre, por los siglos de los siglos. Amén.",
+					"fr": "Gloire au Père,\net au Fils,\net au Saint-Esprit.\n\nComme il était au commencement,\nmaintenant et toujours,\net dans les siècles des siècles. Amen.",
+					"hr": "Slava Ocu i Sinu i Duhu Svetomu.\n\nKako bijaše na početku, tako i sada i vazda i u vijeke vjekova. Amen.",
+					"hu": "Dicsőség az Atyának, a Fiúnak és a Szentléleknek,\n\nMiképpen kezdetben, most és mindörökké. Ámen.",
+					"it": "Gloria al Padre e al Figlio e allo Spirito Santo.\n\ncome era nel principio, e ora e sempre, e nei secoli dei secoli. Amen.",
+					"pt-PT": "Glória ao Pai e ao Filho e ao Espírito Santo.\n\nComo era, no princípio, agora e sempre. Ámen.",
+					"ro": "Slavă Tatălui și Fiului și Sfântului Duh.\n\nPrecum era la început și acum și pururea și în vecii vecilor. Amin.",
+					"sk": "Sláva Otcu i Synu i Duchu Svätému,\n\nako bolo na počiatku, tak nech je i teraz, i vždycky, i na veky vekov. Amen.",
+					"sl": "Slava Očetu in Sinu in Svetemu Duhu.\n\nKakor je bilo v začetku, tako zdaj in vselej in vekomaj. Amen.",
+					"sv": "Ära vare Fadern och Sonen och den Helige Ande.\n\nSåsom det var av begynnelsen, nu är och skall vara, från evighet till evighet. Amen."
 				}
 			}
 		]

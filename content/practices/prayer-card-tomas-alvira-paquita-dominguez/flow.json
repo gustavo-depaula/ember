@@ -1,0 +1,52 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za osobnu uporabu",
+				"hu": "Imádság a magán áhítat számára",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Súkromná modlitba na príhovor manželov Alvirovcov",
+				"sl": "Tomás Alvira in Paquita Domínguez"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració a Tomás Alvira i Paquita Domínguez",
+				"en-US": "Prayer for the intercession of Tomás Alvira and Paquita Domínguez",
+				"es": "Oración a Tomás Alvira y Paquita Domínguez",
+				"fr": "Prière à Tomás Alvira et Paquita Domínguez",
+				"hr": "Molitva za zagovor Tomása Alvira i Paquite Domínguez",
+				"hu": "Imádság az Alvira házaspárhoz\nTomás és Paquita",
+				"pt-BR": "Oração a Tomás Alvira e Paquita Domínguez",
+				"pt-PT": "Oração a Tomás Alvira e Paquita Domínguez",
+				"ro": "Rugăciune către Tomás Alvira și Paquita Domínguez",
+				"sk": "Modlitba",
+				"sl": "Molitev za zasebno pobožnost"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, Pare meu, que heu omplert de gràcia els vostres servents Paquita i Tomás per viure cristianament el seu matrimoni i les seves obligacions professionals i socials, feu-me arribar la força de l'Amor a fi de saber difondre en el món la grandesa de la fidelitat i santedat matrimonials.\n\nDigneu-vos glorificar els vostres servents i concediu-me per la seva intercessió el favor que us demano... (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "God our Father, who poured out your grace on your servants Paquita and Tomás, so that they could live their marriage and professional and social obligations with a Christian spirit, send us the strength of your Love in order to spread in the world the marvellous reality of fidelity and holiness in marriage.\n\nDeign to glorify your servants and grant me through their intercession the favour I ask of You... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios Padre, que llenaste de gracia a tus siervos Paquita y Tomás, para que vivieran cristianamente su matrimonio y sus obligaciones profesionales y sociales, envíanos la fuerza del Amor para saber difundir en el mundo la grandeza de la fidelidad y de la santidad matrimonial.\n\nDígnate glorificar a tus siervos y concédeme por su intercesión el favor que te pido...(*Pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Ô Dieu, qui as accordé à tes serviteurs Paquita et Tomás la grâce de vivre chrétiennement leur mariage et leurs obligations professionnelles et sociales, donne-nous la force de ton Amour pour que nous sachions répandre dans le monde la grandeur de la fidélité et de la sainteté matrimoniale.\n\nDaigne glorifier tes serviteurs et accorde-moi par leur intercession la faveur que je te demande (formuler la demande...) Amen.\n\n*Notre Père, Je vous salue Marie, Gloire au Père.*",
+				"hr": "Bože Oče, ti si svojim slugama, Paquiti i Tomasu udijelio milost da na kršćanski način žive svoj brak i svoje profesionalne i društvene obveze, pošalji i nama snagu Ljubavi kako bismo svijetom širili veličinu bračne vjernosti i svetosti.\n\nUdostoj se proslaviti ove svoje sluge i po njihovom zagovoru usliši ovu moju molitvu... Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Mi Atyánk, aki kiárasztottad kegyelmedet szolgáidra, Paquitára és Tomásra, hogy házasságukat, szakmai és társadalmi kötelezettségeiket keresztény módon éljék meg, küldd el szereteted erejét, hogy a hűség és házasság szentségének csodálatos voltáról tehessünk tanúságot a világban.\n\nDicsőítsd meg szolgáidat, és közbenjárásuk által add meg a kegyelmet, hogy …. (*itt fogalmazzuk meg a imaszándékunkat*). Ámen.\n\n*Mi Atyánk, Üdvözlégy Mária, Dicsőség.*",
+				"pt-BR": "**Deus Pai, que cumulastes de graça** os vossos servos Paquita e Tomás, para que vivessem cristãmente o seu casamento e as suas obrigações profissionais e sociais, enviai-nos a força do Amor para sabermos difundir no mundo a grandeza da fidelidade e da santidade matrimonial.\n\nDignai-vos glorificar estes vossos servos e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Amém.\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Deus Pai, que enchestes de graças os vossos servos Paquita e Tomás, para viverem cristãmente o seu matrimónio e as suas obrigações profissionais e sociais, enviai-nos a força do Amor para saber difundir no mundo a grandeza da fidelidade e da santidade matrimonial.\n\nDignai-Vos glorificar os vossos servos e concedei-me por sua intercessão o favor que Vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Dumnezeule Tată care i-ai copleșit cu harul tău pe slujitorii tăi Paquita și Tomás, ca să trăiască în mod creștinește viața de căsătorie și să-și îndeplinească datoriile lor profesionale și sociale, dăruiește-ne forța Iubirii, ca să putem răspândi în lume măreția fidelității și sfințeniei conjugale.\n\nÎnvrednicește-Te să fie preamăriți slujitorii Tăi și dăruiește-ne prin mijlocirea lor harul pe care Ți-l cerem... (*se face cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Ó, Bože Otče, ktorý si udelil svojim služobníkom Paquite a Tomásovi milosť žiť s kresťanským duchom svoje manželstvo a profesionálne i spoločenské povinnosti; zošli nám silu svojej lásky, nech vieme vo svete rozšíriť vznešenosť manželskej vernosti a svätosti.\n\nOsláv svojich služobníkov a vyslyš na ich príhovor moju prosbu ... (konkrétna prosba). Amen.\n\nOtče Náš..., Zdravas Mária..., Sláva Otcu...",
+				"sl": "Bog Oče, ki si z milostjo napolnil svoja služabnika Paquito in Tomása, da bi krščansko živela svoj zakon ter svoje poklicne in družbene obveznosti, pošlji nam moč ljubezni, da bomo znali v svetu širiti veličino zakonske zvestobe in svetosti.\n\nMilostno poveličaj svoja služabnika in po njunem posredovanju usliši mojo prošnjo … (*izrazite prošnjo*). Amen.\n\n*Oče naš. Zdrava Marija. Slava Očetu.*"
+			}
+		}
+	]
+}

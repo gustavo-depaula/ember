@@ -1,0 +1,53 @@
+{
+	"id": "prayer-card-alvaro-del-portillo",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Beat Àlvar del Portillo",
+		"da": "Den salige Álvaro del Portillo",
+		"en-US": "Bl. Álvaro del Portillo",
+		"es": "Beato Álvaro del Portillo",
+		"fr": "Bienheureux Alvaro del Portillo",
+		"hr": "Blaženi Álvaro del Portillo",
+		"hu": "Boldog Álvaro del Portillo",
+		"pt-BR": "Bem-aventurado Álvaro del Portillo",
+		"pt-PT": "Beato Álvaro del Portillo",
+		"ro": "Fericitul Álvaro del Portillo",
+		"sk": "Bl. Álvaro del Portillo",
+		"sl": "Bl. Álvaro del Portillo",
+		"sv": "Salige Álvaro del Portillo"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "The prayer card of Blessed Álvaro del Portillo (1914–1994), bishop and prelate of Opus Dei, St. Josemaría's first successor.",
+		"pt-BR": "A estampa do Bem-aventurado Álvaro del Portillo (1914–1994), bispo e prelado do Opus Dei, primeiro sucessor de São Josemaria."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=307&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=202&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"opus-dei",
+		"prayer-card",
+		"intercession"
+	],
+	"defaults": {
+		"sortOrder": 436,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,52 @@
+{
+	"id": "ave-verum",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Ave verum",
+		"es": "Ave verum",
+		"fr": "Salut ô Vrai corps",
+		"hu": "Üdvözlégy, igazi Test (Ave verum)",
+		"la": "Ave verum",
+		"pt-PT": "Ave verum",
+		"ro": "Trup preasfânt",
+		"sk": "Zdrav buď, pravé telo Krista"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Hail, true Body, born of the Virgin Mary* — a short Eucharistic hymn, traditionally sung at the elevation.",
+		"pt-BR": "*Salve, verdadeiro Corpo nascido da Virgem Maria* — um breve hino eucarístico, cantado tradicionalmente na elevação."
+	},
+	"history": {
+		"en-US": "A fourteenth-century Latin rhyme, best known today in Mozart's setting (1791).",
+		"pt-BR": "Um poema latino do século XIV, hoje conhecido sobretudo pela música de Mozart (1791)."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"communion",
+		"adoration"
+	],
+	"defaults": {
+		"sortOrder": 426,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

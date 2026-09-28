@@ -1,0 +1,47 @@
+{
+	"id": "media-vita",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"da": "Media vita",
+		"en-US": "Media vita",
+		"es": "Media vita",
+		"fr": "Media vita",
+		"hu": "Media vita (Életünk közepette)",
+		"la": "Media vita",
+		"ro": "Media vita"
+	},
+	"categories": [
+		"seasonal",
+		"penance"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*In the midst of life we are in death* — the Lenten antiphon asking the holy and merciful Saviour not to hand us over to bitter death.",
+		"pt-BR": "*No meio da vida estamos na morte* — a antífona da Quaresma que pede ao Salvador santo e misericordioso que não nos entregue à morte amarga."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"lent",
+		"death"
+	],
+	"defaults": {
+		"sortOrder": 425,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

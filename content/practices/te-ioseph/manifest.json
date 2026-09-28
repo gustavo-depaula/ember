@@ -1,0 +1,54 @@
+{
+	"id": "te-ioseph",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"da": "Te, Ioseph",
+		"en-US": "Te, Ioseph",
+		"es": "Te, Ioseph",
+		"fr": "Toi, Joseph !",
+		"hr": "Tebe, Josipe",
+		"hu": "Téged, József (Te, Ioseph)",
+		"la": "Te, Ioseph",
+		"pt-BR": "Te, Ioseph",
+		"pt-PT": "Te, Ioseph",
+		"ro": "Te, Ioseph",
+		"sk": "Nech teba, Jozef, ctia"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Te, Ioseph, celebrent* — the hymn of praise to St. Joseph, spouse of the Virgin and guardian of the Child.",
+		"pt-BR": "*Te, Ioseph, celebrent* — o hino de louvor a São José, esposo da Virgem e guarda do Menino."
+	},
+	"history": {
+		"en-US": "The Vespers hymn of the feast of St. Joseph in the Roman Breviary.",
+		"pt-BR": "O hino de Vésperas da festa de São José no Breviário Romano."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=304&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=199&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"joseph"
+	],
+	"defaults": {
+		"sortOrder": 424,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

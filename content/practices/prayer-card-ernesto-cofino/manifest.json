@@ -1,0 +1,50 @@
+{
+	"id": "prayer-card-ernesto-cofino",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Venerable Ernesto Cofiño",
+		"en-US": "Ven. Ernesto Cofiño",
+		"es": "Venerable Ernesto Cofiño",
+		"fr": "Vénérable Ernesto Cofiño",
+		"hr": "Časni sluga Božji Ernesto Cofiño",
+		"hu": "Tiszteletreméltó Ernesto Cofiño",
+		"pt-BR": "Venerável Ernesto Cofiño",
+		"pt-PT": "Venerável Ernesto Cofiño",
+		"ro": "Venerabilul Ernesto Cofiño",
+		"sk": "Ctihodný Ernesto Cofiño"
+	},
+	"categories": [
+		"saints",
+		"devotion"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "A prayer card for the private devotion of Ven. Ernesto Cofiño, asking a favour through their intercession.",
+		"pt-BR": "Estampa para a devoção particular de Venerável Ernesto Cofiño, para pedir um favor pela sua intercessão."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=307&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=202&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"opus-dei",
+		"prayer-card",
+		"intercession"
+	],
+	"defaults": {
+		"sortOrder": 440,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

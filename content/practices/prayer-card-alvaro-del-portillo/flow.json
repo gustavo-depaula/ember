@@ -1,0 +1,58 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Bisbe i prelat de l'Opus Dei",
+				"da": "Biskop og Opus Deis prelat",
+				"en-US": "Bishop and Prelate of Opus Dei",
+				"es": "Obispo y Prelado del Opus Dei",
+				"fr": "Évêque et prélat de l’Opus Dei",
+				"hr": "Biskup i prelat Opusa Dei",
+				"hu": "Püspök és Opus Dei Prelatusa",
+				"pt-BR": "Bispo e Prelado do Opus Dei",
+				"pt-PT": "Bispo e Prelado do Opus Dei",
+				"ro": "Episcop și Prelatul Opus Dei",
+				"sk": "Biskup a Prelát Opus Dei",
+				"sl": "Škof in prelat Opus Dei",
+				"sv": "Biskop, Opus Deis prelat"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració",
+				"da": "BØN",
+				"en-US": "Prayer",
+				"es": "Oración",
+				"fr": "Prière",
+				"hr": "Molitva",
+				"hu": "Imádság",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "Rugăciune",
+				"sk": "Modlitba",
+				"sl": "Molitev",
+				"sv": "Bön"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Déu Pare misericordiós, que concedíreu al beat Àlvar, bisbe, la gràcia de ser, amb l'ajut de la Mare de Déu, un pastor exemplar en el servei a l'Església i fill i successor fidelíssim de sant Josepmaria, fundador de l'Opus Dei: feu que jo sàpiga també respondre amb fidelitat a les exigències de la vocació cristiana, transformant tots els moments i les circumstàncies de la meva vida en ocasió d'estimar-vos, i de servir el Regne de Jesucrist.\n\nDigneu-vos atorgar la canonització del beat Àlvar, i concediu-me per la seva intercessió el favor que us demano... (*demaneu*). Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"da": "Barmhjertige Gud, du som gav din tjener, biskop Alvaro, nåde til at være en mønsterværdig hyrde i Kirkens tjeneste og en tro søn og efterfølger af Opus Deis grundlægger, den hellige Josemaría, giv, at jeg også trofast må leve op til det kristne kalds fordringer og bruge alle livets forhold og omstændigheder som anledning til at elske dig og arbejde for Guds Rige.\n\nHerliggør nådigt din tjener Alvaro, og lad mig på hans forbøn blive bønhørt, når jeg beder dig om ... (*personlig bøn*). Amen.\n\n*Fadervor, Hil dig Maria, Ære være Faderen.*",
+				"en-US": "O God, merciful Father, You granted your bishop Blessed Alvaro, the grace of being, with our Lady’s help, an exemplary pastor in the service of the Church and a most faithful son and successor of Saint Josemaría, the Founder of Opus Dei. Grant that I also may respond faithfully to the demands of the Christian vocation, turning all the circumstances and events of my life into opportunities to love You and to serve the kingdom of Jesus Christ.\n\nDeign to grant the canonisation of Blessed Alvaro, and through his intercession grant my the favour I request... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios Padre misericordioso, que concediste al Beato Álvaro, Obispo, la gracia de ser, con la ayuda de Santa María, Pastor ejemplar en el servicio a la Iglesia y fidelísimo hijo y sucesor de San Josemaría, Fundador del Opus Dei: haz que yo sepa también responder con fidelidad a las exigencias de la vocación cristiana, convirtiendo todos los momentos y circunstancias de mi vida en ocasión de amarte y de servir al Reino de Jesucristo.\n\nDígnate otorgar la canonización del Beato Álvaro, y concédeme por su intercesión el favor que te pido... (*pídase*). Así sea.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Ô Dieu, Père de Miséricorde, toi qui as accordé au bienheureux Alvaro, évêque, la grâce d'être, avec l'aide de la Vierge Marie, un pasteur exemplaire au service de l'Eglise, et le très fidèle fils et successeur de saint Josémaria, fondateur de l'Opus Dei : fais que, je sache moi aussi répondre fidèlement aux exigences de la vocation chrétienne en transformant tous les instants et circonstances de ma vie en occasions de t'aimer et de servir le règne de Jésus-Christ.\n\nDaigne concéder la canonisation du bienheureux Alvaro, et accorde-moi, par son intercession, la faveur que je te demande : (formuler la demande...) Amen\n\n*Notre Père, Je vous salue Marie, Gloire au Père*.",
+				"hr": "Milosrdni Bože, Ti si blaženom Alvaru dao milost da bude uzoran pastir u službi Crkve i vjerni sin i nasljednik svetoga Josemarije Escrivá, utemeljitelja Opusa Dei. Pomozi mi da i ja vjerno slijedim svoj kršćanski poziv, te učini da svi trenuci i prilike moga života budu prigodom da tebe ljubim i služim kraljevstvu Kristovu.\n\nPo zagovoru blaženog Alvara usliši ovu moju molitvu...Amen.\n\n*Oče naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Istenem, irgalmas Atyám, te megadtad a kegyelmet Boldog Álvaro püspöknek, hogy Szűz Mária segítségével kiemelkedő pásztor legyen az Egyház szolgálatában és az Opus Dei alapítójának, Szent Josemaríának hűséges fia és utóda. Add, hogy én is hűségesen teljesítsem a keresztény hivatás követelményeit, életem minden pillanatát és körülményét Jézus Krisztus királyságának szolgálatába állítsam, és általuk Téged szeresselek.\n\nAdd meg nekünk Boldog Álvaro szentté avatásának kegyelmét, és hallgasd meg közbenjárására kérésemet... (*a kérés*). Ámen.\n\n*Miatyánk, Üdvözlégy, Dicsőség.*",
+				"pt-BR": "Deus, Pai misericordioso, que concedestes ao Bem-aventurado Álvaro, Bispo, a graça de ser, com a ajuda de Santa Maria, Pastor exemplar no serviço à Igreja e fidelíssimo filho e sucessor de São Josemaria, Fundador do Opus Dei: fazei que eu saiba também corresponder fielmente às exigências da vocação cristã, convertendo todos os momentos e circunstâncias da minha vida em ocasião de vos amar e de servir o Reino de Cristo.\n\nDignai-vos outorgar a canonização do Bem-aventurado Álvaro, e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Amém\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Deus Pai misericordioso, que concedestes ao Bem-aventurado Álvaro, Bispo, a graça de ser, com a ajuda de Santa Maria, Pastor exemplar no serviço à Igreja e fidelíssimo filho e sucessor de São Josemaria, Fundador do Opus Dei, fazei com que eu também saiba corresponder com fidelidade às exigências da vocação cristã, convertendo todos os momentos e circunstâncias da minha vida em ocasião de Vos amar e de servir o Reino de Jesus Cristo.\n\nDignai-Vos canonizar o Bem-aventurado Álvaro, e concedei-me por sua intercessão o favor que Vos peço... *(peça-se).* Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Doamne Dumnezeule, Tată milostiv, care ai dat Fericitului Álvaro, Episcop, harul de a fi, cu ajutorul Sfintei Maria, un model de Păstor în slujirea Bisericii și cel mai fidel fiu și urmaș al Sfântului Josemaría, Fondatorul Opus Dei, fă așa ca și eu să răspund cu fidelitate exigențelor vocației creștine, transformând toate momentele și circumstanțele vieții mele în ocazii de a Te iubi și de a sluji Împărăției lui Isus Cristos.\n\nBinevoiește ca Fericitul Álvaro să fie canonizat și dăruiește-mi prin mijlocirea lui harul pe care Ți-l cer… (se cere harul). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Ó, milosrdný Bože Otče, ty si udelil blahoslavenému biskupovi Álvarovi milosť, aby sa s pomocou Panny Márie stal príkladným pastierom v službe Cirkvi a najvernejším synom a nástupcom svätého Josemaríu, zakladateľa Opus Dei; daj, aby som vedel aj ja verne odpovedať na nároky kresťanského povolania tým, že premením všetky okamihy a okolnosti môjho života na príležitosť milovať ťa a slúžiť kráľovstvu Ježiša Krista.\n\nUdeľ milosť svätorečenia blahoslavenému Álvarovi a vyslyš na jeho príhovor moju prosbu... (konkrétna prosba). Amen.\n\nOtče náš…,Zdravas´ Mária…, Sláva Otcu...",
+				"sl": "Bog, usmiljeni Oče, ki si blaženemu Álvaru, škofu, naklonil milost, da je ob pomoči svete Marije bil zgleden pastir v službi Cerkve ter nadvse zvest sin in naslednik svetega Jožefmarija, ustanovitelja Opus Dei, daj, da bom tudi jaz znal zvesto odgovoriti na zahteve krščanskega poklica, tako da vse trenutke in okoliščine svojega življenja preoblikujem v priložnosti, da te ljubim in služim Kristusovemu kraljestvu.\n\nMilostno nam podeli kanonizacijo blaženega Álvara in po njegovem posredovanju usliši mojo prošnjo … (*izrazite prošnjo*). Amen.\n\n*Oče naš, Zdrava Marija, Slava Očetu.*",
+				"sv": "Gud, barmhärtige Fader, Du gav den salige biskop Alvaro nåden att med Jungfru Marias hjälp vara en föredömlig herde i Kyrkans tjänst och en mycket trogen son och efterträdare till den helige Josemaría, Opus Deis grundare. Gör så att även jag troget uppfyller den kristna kallelsens krav och att jag förvandlar alla ögonblick och omständigheter i mitt liv till tillfällen att älska Dig och tjäna Kristi rike.\n\nLåt i din nåd den salige Alvaro bli helgonförklarad och må hans förböner beveka Dig att höra den bön jag nu riktar till Dig … Amen.\n\n*Fader vår*, *Var hälsad Maria*, *Ära vare Fadern*."
+			}
+		}
+	]
+}

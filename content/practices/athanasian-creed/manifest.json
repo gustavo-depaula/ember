@@ -1,0 +1,59 @@
+{
+	"id": "athanasian-creed",
+	"form": "prayer",
+	"icon": "trinity",
+	"name": {
+		"ca": "Símbol Atanasià",
+		"da": "Den athanasianske trosbekendelse",
+		"en-US": "Athanasian Creed",
+		"es": "Símbolo Atanasiano",
+		"fr": "Le Symbole d'Athanase (Quicumque)",
+		"hr": "Atanazijevo vjerovanje",
+		"hu": "Athanáziusz hitvallás",
+		"it": "Simbolo Atanasiano",
+		"la": "Sýmbolum Athanasiánum",
+		"pt-BR": "Símbolo Atanasiano",
+		"pt-PT": "Símbolo Atanasiano",
+		"ro": "Simbolul Atanasian",
+		"sk": "Atanázové vyznanie viery",
+		"sl": "Atanazijeva veroizpoved",
+		"sv": "Den athanasianska trosbekännelsen"
+	},
+	"categories": [
+		"devotion",
+		"trinity"
+	],
+	"estimatedMinutes": 5,
+	"description": {
+		"en-US": "The creed *Quicumque vult*: a long, exact confession of the Trinity and of the Incarnation, framed by its own antiphon.",
+		"pt-BR": "O símbolo *Quicumque vult*: uma confissão longa e precisa da Trindade e da Encarnação, emoldurada pela sua própria antífona."
+	},
+	"history": {
+		"en-US": "Written in Latin in the West, most likely in southern Gaul in the late fifth or sixth century. The name of St. Athanasius was attached to it by tradition rather than authorship. It was long recited at Prime in the Roman Office.",
+		"pt-BR": "Escrito em latim no Ocidente, muito provavelmente no sul da Gália no fim do século V ou no século VI. O nome de Santo Atanásio foi-lhe associado pela tradição, não pela autoria. Durante séculos foi recitado na Prima do Ofício Romano."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=297&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=192&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"creed",
+		"trinity",
+		"quicumque"
+	],
+	"defaults": {
+		"sortOrder": 401,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

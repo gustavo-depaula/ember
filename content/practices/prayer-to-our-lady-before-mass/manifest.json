@@ -1,0 +1,53 @@
+{
+	"id": "prayer-to-our-lady-before-mass",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"da": "Bøn til den salige Jomfru Maria",
+		"en-US": "Prayer to Our Lady before Mass",
+		"es": "Oración a la Santísima Virgen",
+		"fr": "Prière à la bienheureuse Vierge Marie",
+		"hr": "Molitva Blaženoj Djevici Mariji",
+		"hu": "Ad B. Maríam Vírginem",
+		"it": "Preghiera alla Beata Vergine Maria",
+		"la": "Ad B. Maríam Vírginem",
+		"pt-BR": "Oração a Nossa Senhora antes da Missa",
+		"pt-PT": "Oração a Nossa Senhora",
+		"ro": "Rugăciune către sfânta Fecioară",
+		"sk": "k Panne Márii",
+		"sl": "Molitev k Devici Mariji",
+		"sv": "Bön till jungfru Maria"
+	},
+	"categories": [
+		"eucharistic",
+		"marian"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "Asking the Mother of mercy, who stood beside her Son on the Cross, to stand beside us and every priest offering the Holy Sacrifice today.",
+		"pt-BR": "Pede à Mãe de misericórdia, que esteve junto do seu Filho na Cruz, que esteja junto de nós e de todos os sacerdotes que hoje oferecem o Santo Sacrifício."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=301&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=196&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"mass",
+		"preparation"
+	],
+	"defaults": {
+		"sortOrder": 408,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

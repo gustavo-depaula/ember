@@ -1,0 +1,59 @@
+{
+	"id": "universal-prayer",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Oració universal",
+		"da": "Almindelig kirkebøn",
+		"en-US": "Universal Prayer",
+		"es": "Oración universal",
+		"fr": "Prière pour toutes circonstances",
+		"hr": "Sveopća molitva",
+		"hu": "Uram, hiszek benned (Orátio universális)",
+		"it": "Preghiera universale",
+		"la": "Orátio universális",
+		"pt-BR": "Oração universal",
+		"pt-PT": "Oração universal",
+		"ro": "Rugăciune universală",
+		"sk": "Modlitba Klementa XI",
+		"sl": "Prošnje",
+		"sv": "Allmän bön"
+	},
+	"categories": [
+		"devotion",
+		"daily"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Lord, I believe in You: increase my faith* — a whole programme of Christian life in the form of a prayer, asking for faith, hope, love and every virtue.",
+		"pt-BR": "*Senhor, eu creio em Vós: aumentai a minha fé* — todo um programa de vida cristã em forma de oração, pedindo fé, esperança, caridade e todas as virtudes."
+	},
+	"history": {
+		"en-US": "Attributed to Pope Clement XI (1700–1721). The Roman Missal printed it among the prayers of thanksgiving after Mass.",
+		"pt-BR": "Atribuída ao Papa Clemente XI (1700–1721). O Missal Romano trazia-a entre as orações de ação de graças depois da Missa."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=302&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=197&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"thanksgiving",
+		"clement-xi",
+		"virtues"
+	],
+	"defaults": {
+		"sortOrder": 412,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,56 @@
+{
+	"id": "blessing-for-a-journey",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"ca": "Benedicció del viatge",
+		"da": "Rejsevelsignelse",
+		"en-US": "Blessing for a Journey",
+		"es": "Bendición de viaje",
+		"fr": "Bénédiction du voyage",
+		"hr": "Blagoslov prije putovanja",
+		"hu": "Benedíctio pro itínere",
+		"it": "Benedizione del viaggio",
+		"la": "Benedíctio pro itínere",
+		"pt-BR": "Bênção de viagem",
+		"pt-PT": "Benção de viagem",
+		"ro": "Binecuvântarea pentru călătorie",
+		"sk": "Požehnanie na cestu",
+		"sl": "Molitev pred potovanjem",
+		"sv": "Resevälsignelse"
+	},
+	"categories": [
+		"devotion",
+		"protection"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Beata Maria intercedente, bene ambulemus* — a short blessing asked before setting out, through Our Lady's intercession.",
+		"pt-BR": "*Beata Maria intercedente, bene ambulemus* — uma breve bênção pedida antes de partir, pela intercessão de Nossa Senhora."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=303&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=198&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"journey",
+		"travel",
+		"opus-dei",
+		"short-prayer"
+	],
+	"defaults": {
+		"sortOrder": 420,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

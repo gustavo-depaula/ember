@@ -4,7 +4,17 @@
 	"name": {
 		"en-US": "Act of Faith",
 		"pt-BR": "Ato de Fé",
-		"la": "Actus Fidei"
+		"la": "Actus Fidei",
+		"ca": "Acte de fe",
+		"da": "En akt af tro",
+		"es": "Acto de fe",
+		"fr": "Acte de Foi",
+		"hr": "Čin vjere",
+		"it": "Atto di fede",
+		"pt-PT": "Ato de Fé",
+		"ro": "Act de credință",
+		"sl": "Dejanje vere",
+		"sv": "En akt av tro"
 	},
 	"flow": {
 		"sections": [
@@ -13,7 +23,17 @@
 				"inline": {
 					"en-US": "O my God, I firmly believe that Thou art one God in three Divine Persons, Father, Son, and Holy Ghost. I believe that Thy Divine Son became man, and died for our sins, and that He will come to judge the living and the dead. I believe these and all the truths which the Holy Catholic Church teaches, because Thou hast revealed them, who canst neither deceive nor be deceived. Amen.",
 					"pt-BR": "Meu Deus, creio firmemente em todas as verdades que a Santa Igreja Católica nos propõe para crer, porque Vós, ó Deus, as revelastes, sendo a Verdade Suma, que não pode enganar nem ser enganada. Creio particularmente que sois um só Deus em três Pessoas igualmente distintas, o Pai, o Filho e o Espírito Santo. Creio que o Filho de Deus se fez homem e que morreu e ressuscitou para nossa redenção. Amém.",
-					"la": "Domine Deus, firma fide credo et confiteor omnia et singula quae sancta Ecclesia Catholica proponit, quia Tu, Deus, ea omnia revelasti, qui es aeterna veritas et sapientia quae nec fallere nec falli potest. Amen."
+					"la": "Domine Deus, firma fide credo et confiteor omnia et singula quae sancta Ecclesia Catholica proponit, quia Tu, Deus, ea omnia revelasti, qui es aeterna veritas et sapientia quae nec fallere nec falli potest. Amen.",
+					"ca": "Déu meu, crec fermament tot el que vós, veritat infal·lible, heu revelat, i la santa Església ens proposa creure. I expressament crec en vós, únic Déu veritable, en tres persones iguals i realment distintes: Pare, Fill i Esperit Sant. I en Jesucrist, el vostre Fill, encarnat i mort per nosaltres, el qual donarà a cadascú, segons els seus mèrits, el premi o la pena eterna. Segons aquesta fe vull viure sempre. Senyor, augmenteu la meva fe.\n\nAmén.",
+					"da": "Jeg tror på Gud Fader;\n\njeg tror på Gud Sønnen;\n\njeg tror på Gud den Hellige Ånd;\n\njeg tror på den hellige Treenighed;\n\njeg tror på min Herre Jesus Kristus, sand Gud og sandt menneske.",
+					"es": "Creo en Dios Padre;\n\nCreo en Dios Hijo;\n\nCreo en Dios Espíritu Santo;\n\nCreo en la Santísima Trinidad;\n\nCreo en mi Señor Jesucristo, Dios y hombre verdadero.",
+					"fr": "Mon Dieu, je crois fermement toutes les vérités que vous m'avez révélées et que vous nous enseignez par votre sainte Église, parce que vous ne pouvez ni vous tromper, ni nous tromper. Dans cette foi, puis-je vivre et mourir.\n\nAmen.",
+					"hr": "Vjerujem u Boga Oca;\n\nVjerujem u Boga Sina;\n\nVjerujem u Boga Duha Svetoga;\n\nVjerujem u Presveto Trojstvo;\n\nVjerujem u Gospodina Isusa Krista, pravoga Boga i pravoga čovjeka.",
+					"it": "Mio Dio, perché sei verità infallibile, credo fermamente tutto quello che tu hai rivelato e la santa Chiesa ci propone a credere.\n\nEd espressamente credo in te, unico vero Dio in tre Persone uguali e distinte, Padre, Figlio e Spirito Santo.\n\nE credo in Gesù Cristo, Figlio di Dio, incarnato, morto e risorto per noi, il quale darà a ciascuno secondo i meriti, il premio o la pena eterna.\n\nConforme a questa fede voglio sempre vivere. Signore, accresci la mia fede.",
+					"pt-PT": "Meu Deus, eu creio em tudo o que Vós revelastes e a Santa Igreja nos ensina, porque não podeis enganar-Vos nem enganar-nos. E, expressamente, creio em Vós, único e verdadeiro Deus em três pessoas iguais e distintas: Pai, Filho e Espírito Santo; e creio em Jesus Cristo, Filho de Deus encarnado, morto e ressuscitado por nós, e que a cada um dará, segundo as suas obras, o prémio ou o castigo eterno. Nesta fé quero viver e morrer. Senhor, aumentai a minha fé. Ámen.",
+					"ro": "Cred în Dumnezeu Tatăl;\n\nCred în Dumnezeu Fiul;\n\nCred în Dumnezeu Duhul Sfânt;\n\nCred în Preasfânta Treime;\n\nCred în Isus Cristos, Dumnezeu și om adevărat.",
+					"sl": "Gospod Bog, trdno verujem in izpovedujem vse in posamezno, kar sveta katoliška Cerkev uči verovati. Ti, o Bog, si vse to razodel. Ti si večna resnica in modrost, ki ne more varati in ne more biti varana. V tej veri hočem živeti in umreti. Amen.",
+					"sv": "Jag tror på Gud Fader;\n\nJag tror på Gud Sonen;\n\nJag tror på Gud den Helige Ande;\n\nJag tror på den heliga Treenigheten;\n\nJag tror på min Herre Jesus Kristus, sann Gud och sann människa."
 				}
 			}
 		]

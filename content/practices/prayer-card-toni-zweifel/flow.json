@@ -1,0 +1,51 @@
+{
+	"sections": [
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "Oració per a la devoció privada",
+				"en-US": "Prayer for private devotion",
+				"es": "Oración para la devoción privada",
+				"fr": "Prière pour la dévotion privée",
+				"hr": "Molitva za osobnu pobožnost",
+				"hu": "Imádság a magán áhítat számára",
+				"pt-BR": "Oração para a devoção privada",
+				"pt-PT": "Oração para a devoção privada",
+				"ro": "Rugăciune pentru devoțiunea privată",
+				"sk": "Modlitba pre súkromnú pobožnosť",
+				"sl": "Molitev za zasebno pobožnost"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"ca": "ORACIÓ",
+				"en-US": "Prayer",
+				"es": "ORACIÓN",
+				"fr": "Prière",
+				"hr": "MOLITVA",
+				"hu": "IMÁDSÁG",
+				"pt-BR": "Oração",
+				"pt-PT": "Oração",
+				"ro": "RUGĂCIUNE",
+				"sk": "Modlitba"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"ca": "Oh Déu, Pare de misericòrdia, que confiàreu la terra a l’home perquè la treballés i us donés així glòria. Vós heu concedit al vostre servent Toni la gràcia d’exercir la seva professió amb competència i sentit cristià. Ajudeu-me també a mi a honrar-vos a través de l’acompliment de la tasca professional i feu que el meu exemple arrossegui molts a descobrir la dignitat i el sentit diví de la feina diària.\n\nDigneu-vos glorificar el vostre servent Toni i concediu-me, per la seva intercessió, el favor que us demano... (*demaneu*) Amén.\n\n*Parenostre, Avemaria, Glòria*.",
+				"en-US": "God, Father of goodness, You entrusted the earth to mankind to care for it and perfect it. Moved by your grace, your servant Toni made this task his own with all his heart. With active charity and professional excellence, he worked for a more humane world. Help me to grow in love for You and to employ my talents and abilities for the benefit of others, and grant me a joyful heart to bring the light of Christ to the many people around me.\n\nDeign to glorify your servant Toni and through his intercession grant me the favour I ask of You... (make your request). Amen.\n\n*Our Father*, *Hail Mary*, *Glory Be*.",
+				"es": "Dios, Padre de bondad, Tú confiaste la tierra al hombre para que la cuidara y la perfeccionara. Bajo tu impulso, tu siervo Toni hizo suya esta tarea con todo su corazón. Con caridad operativa y competencia profesional trabajó por un mundo más humano. Ayúdame a crecer en el amor a Ti y a emplear mis talentos y capacidades en beneficio de los demás; y dame un corazón alegre para llevar la luz de Cristo a muchas personas a mi alrededor.\n\nConcede que Toni sea beatificado y, por su intercesión, escucha mi petición... (*pídase).* Amén.\n\n*Padrenuestro*, *Avemaría*, *Gloria*.",
+				"fr": "Dieu, Père miséricordieux, tu as confié la terre à l’homme afin qu’il la travaille en te glorifiant. À ton serviteur Toni, tu as donné la grâce de travailler dans un esprit chrétien et avec compétence professionnelle : aide-moi à faire de mon travail une louange à ta gloire, et fais que beaucoup de personnes découvrent par mon exemple la dignité et le sens divin de leur activité quotidienne.\n\nDaigne glorifier ton serviteur Toni et accorde-moi, par son intercession, ce que je te demande : (formuler la demande...)\n\n*Notre Père, Je vous salue Marie, Gloire au Père.*",
+				"hr": "Bože, milosrdni Oče, ti si povjerio zemlju muškarcu i ženi da je obrađuju i tako da ti daju slavu: ti si svome sluzi Toniju udijelio milost da svoju službu obavlja stručno i u kršćanskom duhu. Pomozi i meni da te častim izvršavanjem profesionalnog rada i učini da moj primjer dovede mnoge do otkrivanja dostojanstva i božanskog smisla njihovih svakodnevnih dužnosti.\n\nUdostoj se proslaviti svoga slugu Tonija i po njegovu zagovoru usliši ovu moju molitvu... Amen.\n\n*Oče Naš, Zdravo Marijo, Slava Ocu.*",
+				"hu": "Istenünk, a könyörület Atyja! Te az embernek adtad a földet, hogy megművelje azt és így dicsőítsen Téged: megadtad szolgádnak, Toninak a kegyelmet, hogy munkáját kitünő szaktudással és természetfölötti rálátással teljesítse. Segítsd, hogy én is dicsőíthesselek a szakmai munkám által, s hogy példamutatásom sokakat ösztönözzön arra, hogy felfedezzék mindennapi tevékenységeik méltóságát és természetfölötti értékét.\n\nDicsőítsd meg szolgádat Tonit és közbenjárására add meg nekem, hogy... (*a kérés*). Ámen.\n\n*Miatyánk, Üdvözlégy, Dicsőség.*",
+				"pt-BR": "Deus, Pai de misericórdia, Vós que confiastes ao homem e à mulher a terra para que a trabalhassem e assim vos dessem glória: concedestes ao vosso servo Toni a graça de exercer a sua profissão com competência e espírito cristão. Ajudai-me também a honrar-vos através do cumprimento do trabalho profissional e fazei com que o meu exemplo conduza muitos a descobrir a dignidade e o sentido divino das suas tarefas diárias.\n\nDignai-vos glorificar o vosso servo Toni e concedei-me por sua intercessão o favor que eu peço... (*peça-se*).\n\n*Pai Nosso, Ave-Maria, Glória*.",
+				"pt-PT": "Deus, Pai de misericórdia, Vós confiastes a terra ao homem para que a trabalhasse e Vos desse glória e concedestes ao vosso servo Toni a graça de exercer a sua profissão com competência e visão sobrenatural.\nAjudai-me também a louvar-Vos através do trabalho profissional e fazei que o meu exemplo arraste muitos outros a descobrirem a dignidade e o sentido divino dos afazeres diários.\n\nDignai-Vos glorificar o vosso servo Toni e concedei-me por sua intercessão o favor que vos peço... (*peça-se*). Ámen.\n\n*Pai-nosso, Ave-Maria, Glória*.",
+				"ro": "Dumnezeule, Părinte plin de bunătate, Tu ai încredințat omul pământului pentru ca el să-l îngrijească și să-l desăvârșească. Sub inspirația Ta, slujitorul Tău Toni și-a asumat această misiune din toată inima. Cu iubire activă și cu competență profesională, a lucrat pentru o lume mai umană. Ajută-mă să cresc în iubirea față de Tine și să folosesc talanții și capacitățile mele în slujba celorlalți; și dă-mi o inimă plină de bucurie, pentru a duce lumina lui Cristos multor persoane din jurul meu.\n\nÎngăduie ca Toni să fie beatificat și, prin mijlocirea lui, ascultă rugăciunea mea... (*se formulează cererea*). Amin.\n\n*Tatăl nostru*, *Bucură-te Marie*, *Slavă*.",
+				"sk": "Bože, milosrdný Otče, ty zveruješ človeku zem, aby ju obrábal, a tak Ťa oslavoval. Ty si obdaril svojho služobníka Toniho milosťou, aby svoju prácu vykonával s vysokou odbornosťou a s kresťanským duchom. Pomôž aj mne, aby som mohol(a) vykonávať prácu, ktorá by Tebe slúžila na chválu a mojim blížnym na úžitok, aby tak vďaka môjmu príkladu čo najviac ľudí objavilo dôstojnosť a nadprirodzený zmysel svojej každodennej práce.\n\nOsláv svojho služobníka Toniho a na jeho príhovor vyslyš moju prosbu... Amen.\n\n*Otče náš... Zdravas'... Sláva Otcu...*",
+				"sl": "O, Bog, Oče usmiljenja, ki si človeku zaupal zemljo, da bi jo obdeloval in te tako slavil, Ti si svojemu služabniku Toniju podelil milost, da je svoj poklic opravljal strokovno in z nadnaravnim pogledom. Pomagaj tudi meni, da Te bom častil z izpolnjevanjem svojega poklicnega dela in daj, da moj zgled pritegne mnogo ljudi, da bodo odkrili dostojanstvo in božanski pomen svojih dnevnih opravil.\n\nMilostno poveličaj svojega služabnika Tonija in po njegovem posredovanju usliši mojo prošnjo ... (*izrazite prošnjo*). Amen.\n\n*Oče naš, Zdrava Marija, Slava Očetu.*"
+			}
+		}
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"id": "responsory-de-profundis",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Responsory for the Dead II",
+		"fr": "Responsórium II",
+		"la": "Responsórium II",
+		"pt-BR": "Responsório pelos defuntos II"
+	},
+	"categories": [
+		"purgatory",
+		"devotion"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "The second responsory for the dead, in Latin, built on the *De profundis*.",
+		"pt-BR": "O segundo responsório pelos defuntos, em latim, construído sobre o *De profundis*."
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — [opusdei.org](https://opusdei.org/en/prayers/section/?section1=305&section2=)",
+		"pt-BR": "Opus Dei, *Devocionário* — [opusdei.org](https://opusdei.org/pt-br/prayers/section/?section1=200&section2=)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"dead",
+		"responsory",
+		"de-profundis"
+	],
+	"defaults": {
+		"sortOrder": 432,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}
