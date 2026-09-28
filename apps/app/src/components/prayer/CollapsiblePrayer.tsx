@@ -1,5 +1,5 @@
 import type { BilingualText } from '@ember/content-engine'
-import { ChevronRight } from 'lucide-react-native'
+import { ChevronDown, ChevronRight } from 'lucide-react-native'
 import { useState } from 'react'
 import { Pressable } from 'react-native'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
@@ -33,11 +33,11 @@ export function CollapsiblePrayer<T>({
         accessibilityState={{ expanded }}
       >
         <XStack alignItems="center" gap="$sm">
-          <ChevronRight
-            size={14}
-            color={theme.colorSecondary.val}
-            style={{ transform: [{ rotate: expanded ? '90deg' : '0deg' }] }}
-          />
+          {expanded ? (
+            <ChevronDown size={14} color={theme.colorSecondary.val} />
+          ) : (
+            <ChevronRight size={14} color={theme.colorSecondary.val} />
+          )}
           <Text fontFamily="$heading" fontSize="$2" color="$color">
             {title.primary}
           </Text>
@@ -49,7 +49,7 @@ export function CollapsiblePrayer<T>({
         </XStack>
       </Pressable>
       {expanded && (
-        <YStack paddingLeft="$lg" gap="$sm">
+        <YStack gap="$sm">
           {sections && sections.length > 0 && renderSection ? (
             sections.map((s, i) => renderSection(s, i))
           ) : (

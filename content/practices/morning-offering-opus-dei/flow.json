@@ -39,7 +39,7 @@
 		{
 			"type": "prayer",
 			"ref": "offering-of-works",
-			"defaultOpen": true
+			"bare": true
 		},
 		{
 			"type": "divider"

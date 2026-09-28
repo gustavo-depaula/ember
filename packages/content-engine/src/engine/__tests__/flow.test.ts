@@ -112,6 +112,49 @@ describe('resolveFlow — prayer ref defaultOpen', () => {
   })
 })
 
+describe('resolveFlow — bare prayer ref', () => {
+  it('renders a single-text prayer as untitled text', () => {
+    const ec = makeEngineContext()
+    ec.prayers = {
+      'offering-of-works': {
+        title: { 'pt-BR': 'Oferecimento de Obras' },
+        body: [{ type: 'prayer', inline: { 'pt-BR': 'Eu Vos adoro, meu Deus...' } }],
+      },
+    }
+    const result = resolveFlow(
+      flow({ type: 'prayer', ref: 'offering-of-works', bare: true }),
+      makeContext(),
+      ec,
+    )
+    expect(result).toEqual([
+      {
+        type: 'prayer',
+        title: { primary: '' },
+        text: { primary: 'Eu Vos adoro, meu Deus...' },
+      },
+    ])
+  })
+
+  it('splices a multi-section prayer into the flow', () => {
+    const ec = makeEngineContext()
+    ec.prayers = {
+      angelus: {
+        title: { 'pt-BR': 'Angelus' },
+        body: [
+          { type: 'rubric', text: { 'pt-BR': 'V.' } },
+          { type: 'prayer', inline: { 'pt-BR': 'O Anjo do Senhor...' } },
+        ],
+      },
+    }
+    const result = resolveFlow(
+      flow({ type: 'prayer', ref: 'angelus', bare: true }),
+      makeContext(),
+      ec,
+    )
+    expect(result.map((s) => s.type)).toEqual(['rubric', 'prayer'])
+  })
+})
+
 describe('resolveFlow — response and antiphon', () => {
   it('localizes a lone ℣ or ℟ line without inventing its partner', () => {
     const result = resolveFlow(

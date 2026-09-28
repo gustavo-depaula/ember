@@ -84,7 +84,10 @@ export type FlowSection = { lang?: string } & (
   // heart and the text being on the page matters — Te Deum, Anima Christi,
   // litanies, Marian antiphons, the Leonine St. Michael, the *En ego*, etc.
   // Default collapsed is right for Hail Mary, Sign of the Cross, Glory Be.
-  | { type: 'prayer'; ref: string; defaultOpen?: boolean }
+  // `bare: true` drops the reference framing entirely — no title, no
+  // toggle — so the prayer reads as part of the flow's own text. Use when the
+  // flow already names it (a heading right above).
+  | { type: 'prayer'; ref: string; defaultOpen?: boolean; bare?: boolean }
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
   | { type: 'prayer'; title: LocalizedText; sections: FlowSection[]; defaultOpen?: boolean }
   | { type: 'hymn'; ref: string }

@@ -114,8 +114,16 @@ export function resolveSection(
       ]
 
     case 'prayer':
-      if ('ref' in section)
-        return resolvePrayerRef(section.ref, context, ec, resolveSection, section.defaultOpen)
+      if ('ref' in section) {
+        const resolved = resolvePrayerRef(
+          section.ref,
+          context,
+          ec,
+          resolveSection,
+          section.defaultOpen,
+        )
+        return section.bare ? resolved.flatMap(unwrapPrayer) : resolved
+      }
       if ('inline' in section) return [resolveInlinePrayer(section.inline, ec, section.speaker)]
       if ('title' in section && 'sections' in section) {
         const resolved = section.sections.flatMap((s) => resolveSection(s, context, ec))
@@ -534,4 +542,10 @@ export function resolveSection(
     default:
       return []
   }
+}
+
+function unwrapPrayer(section: RenderedSection): RenderedSection[] {
+  if (section.type !== 'prayer') return [section]
+  if (section.sections) return section.sections
+  return [{ type: 'prayer', title: bilingualEmpty, text: section.text }]
 }
