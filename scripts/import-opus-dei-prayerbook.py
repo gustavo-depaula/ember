@@ -2,7 +2,7 @@
 """Import the Opus Dei Pocket Prayer Book into the corpus.
 
 Reads research/opus-dei-prayerbook/prayerbook.json (built by
-scrape-opus-dei-prayerbook.mjs + parse-opus-dei-prayerbook.mjs) and catalog.json
+parse-opus-dei-prayerbook.mjs) and catalog.json
 (prayer → practice id, plus the hand-written metadata of each new practice), then:
 
 - writes every new practice (manifest.json + flow.json) with all the languages the
@@ -190,6 +190,87 @@ def sections_for(p: dict) -> list[dict]:
     return [emit(b) for b in build_blocks(p["rows"], ui_langs(p))]
 
 
+# — Portuguese where the book has none —
+
+def pt_pt_to_br(t: str) -> str:
+    """The Portugal edition's text in Brazilian spelling. Only for prayers the
+    Brazilian edition leaves out; the wording stays the book's."""
+    for a, b in (("Avé", "Ave"), ("Ámen", "Amém"), ("trespass", "transpass"), ("«", "“"), ("»", "”"),
+                 ("todos los ", "todos os "), ("N.e N.", "N. e N.")):
+        t = t.replace(a, b)
+    return t
+
+
+def texts_of(section: dict) -> list[dict]:
+    if section["type"] == "response":
+        return [v for verse in section["verses"] for v in (verse["v"], verse["r"])]
+    return [section.get("inline") or section["text"]]
+
+
+def fill_pt_br(sections: list[dict], translation: list[str] | None) -> None:
+    """A translation in catalog.json (one string per section) comes first; the
+    Portugal edition's Portuguese stands in for the rest."""
+    for i, s in enumerate(sections):
+        for t in texts_of(s):
+            if translation and translation[i]:
+                t["pt-BR"] = translation[i]
+            elif "pt-BR" not in t and "pt-PT" in t:
+                t["pt-BR"] = pt_pt_to_br(t["pt-PT"])
+            ordered = dict(sorted(t.items()))
+            t.clear()
+            t.update(ordered)
+
+
+# — Easter-time alleluias —
+
+# "(T. P. Allelúia)" and its translations: the book's note that Easter adds an
+# alleluia. The app knows the season, so the note becomes the thing it describes.
+EASTER_NOTE = re.compile(
+    r"\s*\((?:T\. ?P\.|Easter Time\.|Tempo pasquale|V\. ?V\.|V\. ?Č\.|H\.i\.|Påsktiden[.:]|I påsketiden:)"
+    r"\s*([^()]+?)\.?\)(\.?)"
+)
+
+
+def with_alleluia(t: str) -> str:
+    def sub(m: re.Match) -> str:
+        before = t[: m.start()].rstrip()
+        word = m.group(1).strip()
+        if not before:
+            return f"{word[0].upper()}{word[1:]}."
+        if before[-1] in ".!?":
+            return f" {word[0].upper()}{word[1:]}."
+        return f", {word[0].lower()}{word[1:]}."
+
+    return EASTER_NOTE.sub(sub, t)
+
+
+def without_alleluia(t: str) -> str:
+    def sub(m: re.Match) -> str:
+        before = t[: m.start()].rstrip()
+        return "" if not before or before[-1] in ".!?" else "."
+
+    return re.sub(r"\n{3,}", "\n\n", EASTER_NOTE.sub(sub, t)).strip()
+
+
+def easter_select(section: dict) -> dict:
+    if section["type"] != "prayer" or not any(EASTER_NOTE.search(t) for t in section["inline"].values()):
+        return section
+
+    def variant(fn) -> list[dict]:
+        return [{"type": "prayer", "inline": {lang: fn(t) for lang, t in section["inline"].items()}}]
+
+    return {
+        "type": "select",
+        "on": "liturgicalSeason",
+        "map": {"easter": "easter"},
+        "default": "year",
+        "options": [
+            {"id": "easter", "label": {"en-US": "Easter Time", "pt-BR": "Tempo pascal"}, "sections": variant(with_alleluia)},
+            {"id": "year", "label": {"en-US": "Outside Easter Time", "pt-BR": "Fora do Tempo pascal"}, "sections": variant(without_alleluia)},
+        ],
+    }
+
+
 # — Practices —
 
 def source_note(section: dict) -> dict:
@@ -245,6 +326,8 @@ def new_practice(pid: str, meta: dict, members: list[tuple[dict, dict]], order: 
         for _, p in members:
             flow["sections"].append({"type": "subheading", "text": titles(p)})
             flow["sections"].extend(sections_for(p))
+    fill_pt_br(flow["sections"], meta.get("translation", {}).get("pt-BR"))
+    flow["sections"] = [easter_select(s) for s in flow["sections"]]
     return manifest, flow
 
 

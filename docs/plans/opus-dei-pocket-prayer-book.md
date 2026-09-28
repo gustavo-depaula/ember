@@ -1,4 +1,4 @@
-# Opus Dei Pocket Prayer Book — scrape and import
+# Opus Dei Pocket Prayer Book — import
 
 Source: `https://opusdei.org/{lang}/prayers/` (the Pocket Prayer Book / *Devocionário*,
 "Compilation and design: Office of Communication of Opus Dei, Version 2025").
@@ -8,7 +8,7 @@ Probed 2026-09-27; everything below was observed on the live site, not assumed.
 
 **Access.** Every path under `opusdei.org` (the prayers *and* the gospel/meditation
 pages our runtime sources already fetch) answers plain HTTP with a Cloudflare managed
-challenge (403, "Just a moment…"). A headed Playwright Chromium clears it on its own
+challenge (403, "Just a moment…"). A headed Chromium clears it on its own
 and gets the server-rendered page; no XHR/JSON API sits behind it — the whole
 section is in the HTML.
 
@@ -76,20 +76,15 @@ language (`en 2147 ↔ la 228 ↔ pt-BR 1421`); a two-column page is what pairs 
 
 ## Phases
 
-### 1. Scraper: `scripts/scrape-opus-dei-prayerbook.mjs`
+### 1. Pages
 
-- Playwright with `headless: false` (headless-shell gets challenged) and the local
-  Chromium. Open the home page first to clear the challenge, then reuse the context.
-- Scrape **every language the site has**, not just the two the app ships. That's 14
-  vernaculars plus Latin: `en, pt-br, pt-pt, es, it, fr, ca, da-dk, hr-hr, hu-hu,
-  ro-ro, sk-sk, sl-si, sv-se, latin`.
-- Read each language's home page (`?pb1={lang}&pb2=latin`) for its section ids; they
-  differ per language (en 296–307, pt-br 191–202, la 31…64).
-- For each language × section, fetch `{lang}+latin`, so Latin is the pivot that every
-  language aligns to. That's about 14 × 12 = 168 fetches, with a 1–2 s delay between
-  them. Add `en+{lang}` for the Prayer Cards section, which has no Latin.
-- Write raw HTML to `research/opus-dei-prayerbook/.cache/`. Gitignore it: it's
-  regenerable, and it's 140 KB of site chrome per page.
+- Saved once from a browser (a headed Chromium clears the challenge): every language
+  the site has, 14 vernaculars plus Latin — `en, pt-br, pt-pt, es, it, fr, ca, da-dk,
+  hr-hr, hu-hu, ro-ro, sk-sk, sl-si, sv-se, latin`.
+- Each language × section as `{lang}+latin`, so Latin is the pivot every language
+  aligns to; `en+{lang}` for Prayer Cards, which have no Latin.
+- Kept in `research/opus-dei-prayerbook/.cache/`, gitignored. No scraper is kept in
+  the repo: `prayerbook.json` is the committed snapshot.
 
 ### 2. Parser → aligned JSON
 
@@ -110,7 +105,7 @@ language (`en 2147 ↔ la 228 ↔ pt-BR 1421`); a two-column page is what pairs 
     matrix of prayers × languages, since the sets differ; pt-BR alone lacks ten of the
     English hymns (four Eucharistic, six in Hymns).
 - Output `research/opus-dei-prayerbook/prayerbook.json`, committed. It's the reviewable
-  snapshot of the "Version 2025" text, and later scrapes are diffed against it.
+  snapshot of the "Version 2025" text, and a later capture is diffed against it.
 
 ### 3. Match table against the corpus
 

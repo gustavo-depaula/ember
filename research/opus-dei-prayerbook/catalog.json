@@ -183,6 +183,14 @@
 			"history": {
 				"en-US": "A twelfth-century Latin poem long attributed to St. Bernard of Clairvaux. Stanzas of it were used as the hymns of the Office of the Holy Name of Jesus.",
 				"pt-BR": "Poema latino do século XII longamente atribuído a São Bernardo de Claraval. Estrofes dele foram usadas como hinos do Ofício do Santíssimo Nome de Jesus."
+			},
+			"translation": {
+				"pt-BR": [
+					"Jesus, doce lembrança,\nque dá ao coração as verdadeiras alegrias;\nporém, mais doce que o mel e que tudo\né a sua presença.\n\nNada se canta mais suave,\nnada se ouve mais agradável,\nnada se pensa mais doce\nque Jesus, o Filho de Deus.\n\nJesus, esperança dos penitentes,\nquão piedoso és com os que te pedem,\nquão bom para os que te procuram!\nMas que serás para os que te encontram?\n\nNem a língua é capaz de dizer,\nnem a escrita de exprimir;\nsó quem o experimentou pode crer\no que é amar a Jesus.\n\nSê, Jesus, a nossa alegria,\ntu que és o nosso prêmio futuro;\nesteja em ti a nossa glória\npor todos os séculos, para sempre.\n\nAmém."
+				]
+			},
+			"name": {
+				"pt-BR": "Iesu dulcis memoria"
 			}
 		},
 		"veni-sancte-spiritus": {
@@ -609,6 +617,15 @@
 			"description": {
 				"en-US": "*In the midst of life we are in death* — the Lenten antiphon asking the holy and merciful Saviour not to hand us over to bitter death.",
 				"pt-BR": "*No meio da vida estamos na morte* — a antífona da Quaresma que pede ao Salvador santo e misericordioso que não nos entregue à morte amarga."
+			},
+			"translation": {
+				"pt-BR": [
+					"Tempo da Quaresma",
+					"No meio da vida estamos na morte: a quem buscaremos em nosso auxílio senão a vós, Senhor, que justamente vos irais por nossos pecados?\n\nSanto Deus, Santo Forte, Santo e misericordioso Salvador: não nos entregueis à morte amarga.\n\nEm vós esperaram nossos pais; esperaram, e vós os libertastes.\n\nSanto Deus, Santo Forte, Santo e misericordioso Salvador: não nos entregueis à morte amarga.\n\nA vós clamaram nossos pais; clamaram, e não foram confundidos.\n\nSanto Deus, Santo Forte, Santo e misericordioso Salvador: não nos entregueis à morte amarga.\n\nGlória ao Pai, e ao Filho, e ao Espírito Santo.\n\nSanto Deus, Santo Forte, Santo e misericordioso Salvador: não nos entregueis à morte amarga."
+				]
+			},
+			"name": {
+				"pt-BR": "Media vita"
 			}
 		},
 		"ave-verum": {
@@ -630,6 +647,9 @@
 			"history": {
 				"en-US": "A fourteenth-century Latin rhyme, best known today in Mozart's setting (1791).",
 				"pt-BR": "Um poema latino do século XIV, hoje conhecido sobretudo pela música de Mozart (1791)."
+			},
+			"name": {
+				"pt-BR": "Ave verum"
 			}
 		},
 		"ave-maris-stella": {
@@ -650,6 +670,9 @@
 			"history": {
 				"en-US": "One of the oldest Marian hymns, found in manuscripts of the ninth century; it has been sung at Vespers of Our Lady ever since.",
 				"pt-BR": "Um dos hinos marianos mais antigos, encontrado em manuscritos do século IX; desde então canta-se nas Vésperas de Nossa Senhora."
+			},
+			"name": {
+				"pt-BR": "Ave maris stella"
 			}
 		},
 		"lux-aeterna": {
@@ -667,6 +690,9 @@
 			"description": {
 				"en-US": "*May eternal light shine on them, Lord* — the communion antiphon of the Mass for the Dead.",
 				"pt-BR": "*A luz eterna brilhe para eles, Senhor* — a antífona da comunhão da Missa de defuntos."
+			},
+			"name": {
+				"pt-BR": "Lux aeterna"
 			}
 		},
 		"vexilla-regis": {
@@ -688,6 +714,15 @@
 			"history": {
 				"en-US": "Written by Venantius Fortunatus in 569 for the arrival of a relic of the True Cross at Poitiers; the Vespers hymn of Passiontide.",
 				"pt-BR": "Escrito por Venâncio Fortunato em 569 para a chegada de uma relíquia da Santa Cruz a Poitiers; o hino de Vésperas do tempo da Paixão."
+			},
+			"translation": {
+				"pt-BR": [
+					"Em honra da Santa Cruz",
+					"Avançam os estandartes do Rei, resplandece o mistério da Cruz, na qual o Criador da carne foi suspenso, na carne, ao patíbulo.\n\nAli, ferido ainda pela ponta cruel da lança, para nos lavar do pecado, derramou água e sangue.\n\nÁrvore bela e resplandecente, ornada com a púrpura do Rei, escolhida para tocar, com tronco digno, membros tão santos!\n\nBem-aventurada, de cujos braços pendeu o preço do mundo! Fez-se balança do Corpo e arrebatou a presa do inferno.\n\nSalve, altar; salve, vítima, pela glória da paixão, na qual a Vida suportou a morte e pela morte devolveu a vida.\n\nSalve, ó Cruz, esperança única! Neste tempo da Paixão\n\n*No dia 14 de setembro:*\nNesta glória do triunfo\n\naumenta a graça dos fiéis e apaga as culpas dos pecadores.\n\nA ti, Trindade, fonte de salvação, louve todo espírito: aos que salvas pelo mistério da Cruz, guarda-os por todos os séculos. Amém."
+				]
+			},
+			"name": {
+				"pt-BR": "Vexilla Regis"
 			}
 		},
 		"adeste-fideles": {

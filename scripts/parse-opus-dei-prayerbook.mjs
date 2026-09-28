@@ -1,5 +1,9 @@
-// Turns the raw pages cached by scrape-opus-dei-prayerbook.mjs into one aligned,
-// multilingual prayerbook.json.
+// Turns pages saved from opusdei.org/prayers into one aligned, multilingual
+// prayerbook.json. The pages sit behind a Cloudflare challenge, so they were saved
+// once from a browser into research/opus-dei-prayerbook/.cache/ (not committed):
+// `{lang}-{section id}-latin-{latin section id}.html`, plus `en-{id}-{lang}-{id}.html`
+// for sections without Latin, and `index.json`: per site language, its sections'
+// `{s1, s2}` ids (own, Latin) in English's order, null where it lacks one.
 //
 // Each cached page shows two languages side by side. The columns are a CSS subgrid:
 // the n-th child of one column sits beside the n-th child of the other, and a
@@ -189,8 +193,6 @@ function parsePage(file) {
 const index = JSON.parse(fs.readFileSync(path.join(cacheDir, 'index.json'), 'utf8'))
 const siteLangs = Object.keys(index)
 const nSections = index.en.length
-// The scraper aligned every language's sections to English's by Latin id; a
-// language lacking a section has null there.
 for (const l of siteLangs) {
   if (index[l].length !== nSections) throw new Error(`${l}: ${index[l].length} sections, en has ${nSections}`)
 }
