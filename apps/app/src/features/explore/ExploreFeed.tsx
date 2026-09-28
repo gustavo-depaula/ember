@@ -28,6 +28,8 @@ import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pic
 import { useSaintOfDay } from './useSaintOfDay'
 
 const dayMs = 86_400_000
+// Temporarily off: the Celebration of the Day card is hidden from the carousel.
+const showCelebrationCard = false
 const bookHref = (id: string): Href => ({
   pathname: '/browse/book/[bookId]',
   params: { bookId: bareId(id) },
@@ -85,7 +87,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
     })
   }
 
-  if (saint) {
+  if (showCelebrationCard && saint) {
     blocks.push({
       key: 'celebration',
       label: t('explore.celebrationOfDay'),
