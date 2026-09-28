@@ -47,38 +47,14 @@ describe('parseChapter — chapter slicing across both languages', () => {
       expect(out.anchors['218']).toBeUndefined()
     })
 
-    it(`${lang}: motu-proprio + introduction slices don't contain Q1's id`, () => {
-      const motu = parseChapter(raw, 'motu-proprio', lang)
-      const intro = parseChapter(raw, 'introduction', lang)
-      expect(motu.html).not.toContain('id="q1"')
-      expect(intro.html).not.toContain('id="q1"')
-    })
-
-    it(`${lang}: Office noise (<o:p>, mso conditionals) is stripped`, () => {
+    it(`${lang}: strips Office noise, <font> tags, and Â mojibake`, () => {
       const out = parseChapter(raw, 'part-1', lang)
       expect(out.html).not.toContain('<o:p>')
       expect(out.html).not.toContain('mso')
-    })
-
-    it(`${lang}: stray Â mojibake before typographic punctuation is gone`, () => {
-      const out = parseChapter(raw, 'part-1', lang)
-      // The most common pattern in the source is Â before a curly quote.
+      expect(out.html).not.toContain('<font ')
       expect(out.html).not.toMatch(/Â["“”‘’–—]/)
     })
-
-    it(`${lang}: <font> color/size tags are stripped`, () => {
-      const out = parseChapter(raw, 'part-1', lang)
-      expect(out.html).not.toContain('<font ')
-    })
   }
-})
-
-describe('parseChapter — Q568 edge case', () => {
-  it('still injects id="q568" despite irregular markup', () => {
-    const raw = loadFixture('en-US')
-    const out = parseChapter(raw, 'part-4', 'en-US')
-    expect(out.html).toContain('id="q568"')
-  })
 })
 
 describe('parseChapter — chapter boundary content checks', () => {
@@ -101,7 +77,6 @@ describe('parseChapter — chapter boundary content checks', () => {
   it('en-US: part-1 opens with the "Part One" label before the title', () => {
     const raw = loadFixture('en-US')
     const out = parseChapter(raw, 'part-1', 'en-US')
-    // The Part-One label paragraph must come before the title anchor.
     const labelIdx = out.html.indexOf('Part One')
     const anchorIdx = out.html.indexOf('The Profession of Faith')
     expect(labelIdx).toBeGreaterThanOrEqual(0)
@@ -136,12 +111,6 @@ describe('parseChapter — chapter boundary content checks', () => {
 })
 
 describe('parseChapter — CCC paragraph refs linkified', () => {
-  it('en-US: Q1 ref "1-25" becomes <a data-ref="book/ccc#1-25">', () => {
-    const raw = loadFixture('en-US')
-    const out = parseChapter(raw, 'part-1', 'en-US')
-    expect(out.html).toMatch(/<a data-ref="book\/ccc#1-25">1-25<\/a>/)
-  })
-
   it('en-US: multi-line refs (Q2: "27-30<br />44-45") emit two <a> tags', () => {
     const raw = loadFixture('en-US')
     const out = parseChapter(raw, 'part-1', 'en-US')
@@ -155,10 +124,10 @@ describe('parseChapter — CCC paragraph refs linkified', () => {
     expect(out.html).toMatch(/<a data-ref="book\/ccc#76">76<\/a>/)
   })
 
-  it('en-US: ref paragraphs get class="ccc-refs"', () => {
+  it('en-US: Q1 ref "1-25" becomes a ccc-refs paragraph with <a data-ref="book/ccc#1-25">', () => {
     const raw = loadFixture('en-US')
     const out = parseChapter(raw, 'part-1', 'en-US')
-    expect(out.html).toMatch(/<p class="ccc-refs"><a data-ref="book\/ccc#1-25"/)
+    expect(out.html).toMatch(/<p class="ccc-refs"><a data-ref="book\/ccc#1-25">1-25<\/a>/)
   })
 
   it('en-US: linkified refs are present for the vast majority of questions', () => {
@@ -183,7 +152,6 @@ describe('parseChapter — CCC paragraph refs linkified', () => {
     const out = parseChapter(raw, 'part-1', 'en-US')
     // Q1's answer starts with "God, infinitely perfect…" — must not be linkified.
     expect(out.html).toMatch(/<p>God, infinitely perfect/)
-    // The answer paragraph should not carry the ccc-refs class.
     expect(out.html).not.toMatch(/class="ccc-refs">God,/)
   })
 })

@@ -63,7 +63,7 @@ export function buildRows(dump: ChurchDump[], prior: IdMapping[] = []): BuiltRow
       hasStructuredSchedule: d.hasStructuredSchedule ?? services.length > 0,
       lastVerifiedAt: d.lastVerifiedAt,
       verifiedSource: d.verifiedSource,
-      // embedded owned content — null (not []) when empty, so an absent column reads cleanly
+      // Omitted (not []) when empty, so the column stays NULL.
       services: services.length ? services : undefined,
       texts: d.texts?.length ? d.texts : undefined,
       links: d.links?.length ? d.links : undefined,

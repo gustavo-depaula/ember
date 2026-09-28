@@ -17,8 +17,6 @@ import {
 } from '@/db/repositories/userCollections'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
-import { buildUserCollectionManifest } from '../userCollectionManifest'
-
 async function boot() {
   resetAllTestDbs()
   const db = await openDatabaseAsync('ember.db')
@@ -101,34 +99,5 @@ describe('user_collections repository', () => {
     const list = await getUserCollections()
     expect(list[0].id).toBe(a)
     expect(list.map((c) => c.id).sort()).toEqual([a, b].sort())
-  })
-})
-
-describe('buildUserCollectionManifest', () => {
-  it('produces a single default section of item blocks matching the refs', () => {
-    const manifest = buildUserCollectionManifest(
-      {
-        id: 'abc',
-        name: 'My Collection',
-        description: 'notes',
-        coverTone: 0,
-        createdAt: 1,
-        updatedAt: 2,
-      },
-      [
-        { collectionId: 'abc', ref: 'practice/a', sectionId: 'default', position: 0, addedAt: 1 },
-        { collectionId: 'abc', ref: 'book/b', sectionId: 'default', position: 1, addedAt: 2 },
-      ],
-    )
-
-    expect(manifest.id).toBe('usercollection/abc')
-    expect(manifest.name).toEqual({ 'en-US': 'My Collection' })
-    expect(manifest.sections).toHaveLength(1)
-    expect(manifest.sections[0].id).toBe('default')
-    expect(manifest.sections[0].title).toEqual({ 'en-US': '' })
-    expect(manifest.sections[0].blocks).toEqual([
-      { kind: 'item', ref: 'practice/a', label: undefined },
-      { kind: 'item', ref: 'book/b', label: undefined },
-    ])
   })
 })

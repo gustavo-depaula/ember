@@ -5,8 +5,6 @@ import { useEventStore } from '@/db/events'
 import { advanceIndex, ensureCursor, setIndex } from '@/db/repositories'
 import type { Cursor } from '@/db/schema'
 
-// --- Cursor hooks (replaces practice reading tracks) ---
-
 export function useCursorsForPractice(practiceId: string | undefined): Cursor[] {
   return useEventStore(
     useShallow((s) => {

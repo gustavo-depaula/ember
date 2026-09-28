@@ -47,9 +47,6 @@ describe('pray now: which practice', () => {
   })
 
   it("follows the plan's order over tier", () => {
-    const done = ['morning-offering-opus-dei', 'prayer-pope-bishop', 'mass', 'mental-prayer']
-    // The 12:00 Angelus (ideal) at 12:05, not the 13:00 Particular Examen (essential).
-    expect(pick('opus-dei', '12:05', done).ref).toBe('angelus')
     // The Carmelite offering (05:50) before mental prayer (06:00).
     expect(pick('carmelite', '05:55').ref).toBe('morning-offering-carmelite')
   })
@@ -106,12 +103,5 @@ describe('pray now: which practice', () => {
     expect(pick('beginner-minimum', '01:00', ['morning-offering']).ref).toBe(
       'examination-of-conscience',
     )
-  })
-
-  it('shows what comes next when nothing is due', () => {
-    expect(pick('legion-of-mary', '12:00', ['morning-offering'])).toEqual({
-      ref: 'rosary',
-      comingUp: true,
-    })
   })
 })

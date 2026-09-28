@@ -21,37 +21,36 @@ The fruits of Catholic tradition should be freely available to all. No one shoul
 - **Report bugs or suggest features** — [open an issue](https://github.com/gustavo-depaula/prayer/issues)
 - **Contribute code** — bug fixes, new features, engine improvements
 - **Contribute content** — prayers, practices, books, translations, collections
-- **Improve documentation** — specs, guides, corrections
+- **Improve documentation** — guides, corrections
 
 ## Code Contributions
 
 1. Fork the repo and create a branch from `main`
-2. Read the [Conventions](docs/CONVENTIONS.md) and [Architecture](docs/ARCHITECTURE.md) before writing code
+2. Follow the code style in [CLAUDE.md](CLAUDE.md#code-style) — it doubles as the style guide
 3. Run `pnpm biome check --write .` before submitting
 4. Run `pnpm test` to verify nothing is broken
 5. Open a PR with a clear description of what changed and why
 
 ## Content Contributions
 
-All content is distributed as a **content-addressed corpus** at `https://ember.dpgu.me/hearth/v2/`. Every prayer, practice, book chapter, Mass proper, and collection is a first-class corpus item with a stable kind-prefixed id (`practice/rosary`, `prayer/our-father`, `book/montfort-true-devotion`, `collection/carmelite`). Source files live flat-by-kind under `content/`; the build pipeline hashes them into immutable blobs.
+All content is distributed as a **content-addressed corpus** at `https://ember.dpgu.me/hearth/v2/`. Every prayer, practice, book chapter, Mass proper, and collection is a first-class corpus item with a stable kind-prefixed id (`practice/rosary`, `book/montfort-true-devotion`, `collection/carmelite`). Source files live flat-by-kind under `content/`; the build pipeline hashes them into immutable blobs.
 
-- **Practices** are pure JSON — a `manifest.json` + `flow.json` describe the prayer flow. No app code needed.
+- **Practices** are pure JSON — a `manifest.json` + `flow.json` describe the prayer flow. No app code needed. A short prayer (Our Father, Memorare) is just a practice.
 - **Books** are HTML or Markdown chapters organized by language.
-- **Prayers** are reusable text assets with multilingual support.
 - **Collections** are tiny JSON manifests that reference other corpus items to group them under a curated heading.
 
 To understand the content model:
-- [Content & Collections](docs/features/corpus.md) — corpus format, pinning, content distribution
+- [Authoring practices](docs/content/primitives-guide.md) — how to write a prayer flow
 - [Book format](docs/content/book-format.md)
 - [Content sources & licensing](docs/content/content-sources.md)
 
-Content lives at the corpus root, one folder per kind: `content/prayers/`, `content/practices/`, `content/chapters/`, `content/books/`, `content/collections/`, etc. Just placing a file under the right folder is enough — the next `pnpm build:corpus` picks it up.
+Content lives at the corpus root, one folder per kind: `content/practices/`, `content/chapters/`, `content/books/`, `content/collections/`, etc. Just placing a file under the right folder is enough — the next `pnpm build:corpus` picks it up.
 
 ### Add your first practice in 10 minutes
 
 A walkthrough adding a single short prayer (the Memorare).
 
-1. **Find an existing practice to model on** — open any folder under `content/practices/` (e.g. `content/practices/angelus/`) to see the pattern. The numbered examples (`01-trivial-prayer/`, `02-bilingual-prayer/`, `04-rosary-with-macros/`, `05-mass-of-with-choice-rich-text/`) each demonstrate one DSL primitive end-to-end and are hidden from the user-facing list — copy one as a starting point.
+1. **Find an existing practice to model on** — open any folder under `content/practices/` (e.g. `content/practices/angelus/`) and copy the closest match.
 
 2. **Create a directory:**
 
@@ -73,7 +72,7 @@ A walkthrough adding a single short prayer (the Memorare).
        "pt-BR": "Uma breve oração mariana de confiança."
      },
      "flowMode": "scroll",
-     "completion": "manual",
+     "completion": "flow-end",
      "flow": "flow.json",
      "defaults": { "sortOrder": 100 }
    }
@@ -103,49 +102,15 @@ A walkthrough adding a single short prayer (the Memorare).
 
 7. **Run:** `pnpm hearth` runs `build-corpus.py` and serves the result at `http://localhost:4100`; `pnpm start:web` boots the dev server. Your practice appears on the home page.
 
-### Reference examples
-
-The numbered practices under `content/practices/` (`01-trivial-prayer`, `02-bilingual-prayer`, `04-rosary-with-macros`, `05-mass-of-with-choice-rich-text`) are a curated set, each demonstrating one DSL primitive end-to-end. They're hidden from the user-facing list. Copy any of them as a starting point.
-
-| Example | Demonstrates |
-|---|---|
-| `01-trivial-prayer` | the simplest possible flow — heading + prayer |
-| `02-bilingual-prayer` | rubrics, multilingual text, versicle/response pattern |
-| `04-rosary-with-macros` | macros (the `call` primitive) — define a parameterized fragment once, call it 5× with different mystery args |
-| `05-mass-of-with-choice-rich-text` | consume the `mass-of` DataSource, branch on rite, render variable slots via `choice-rich-text` |
-
 ### Common patterns
 
-**Multilingual text:**
-
-```json
-{ "en-US": "Hello", "pt-BR": "Olá" }
-```
-
-**Liturgical-day content** (today's content depends on the liturgical calendar): see Liguori's Meditações in `content/practices/meditacoes-ligorio/`. The `resolve` step binds today's match from a `liturgical-map.json` data file.
-
-**Macros (reusable fragments):** define under `flow.fragments`, invoke via `{ "type": "call", "ref": "name", "args": {...} }`. Args are accessible inside the fragment body as `{{paramName}}` (or nested: `{{paramName.field}}`). See example `04-rosary-with-macros`.
-
-**Today's Mass:** declare `{ "load": [{ "as": "day", "source": "mass-of", "calendar": "of" }] }`. Then `day.celebrations[]` is an array of today's celebrations (most days: 1; Holy Thursday: 2 — Chrism Mass + Lord's Supper; Christmas: 4). Branch on rite via `select on celebration.rite`, render variable slots via `choice-rich-text`. See example `05-mass-of-with-choice-rich-text`.
-
-**Mass-specific primitives** (in `content/practices/mass/flow.json`):
-
-- `celebration-banner` — hero block. `{ "from": "celebration.primary", "cycleFrom": "day.cycle" }` reads the celebration's title + liturgical color + rank, plus the day's lectionary cycle, and renders a missal-style title card.
-- `liturgical-color` — small color swatch + label. `{ "from": "celebration.primary.liturgicalColor" }`.
-- `liturgical-color-scope` — wraps a body and propagates the color to descendants via React Context. `{ "from": "celebration.primary.liturgicalColor", "sections": [...] }`. Section-marker rules and selected option-card borders pick up the color as a fallback when their own color isn't set.
-- `section-marker` — typographic break for major Mass divisions (Initial Rites, Liturgy of the Word, etc.). Centered uppercase title between thin horizontal rules. Optional `colorFrom` tints the rules in the day's vestment color.
-- `collapsible` — title visible, body hidden until tapped. Use for silent priest prayers (Preparação das Oferendas) and lengthy explanatory rubrics that overwhelm the audible flow. `{ "title": {...}, "sections": [...], "defaultOpen": false }`.
-- `choice-rich-text` — per-slot rich-text picker (Tmp / Snt / Com chips). Tag with `"pickerStyle": "cards"` for vertical cards with title + 2-line excerpt; selected card expands inline with the full body. Used for prefaces, readings, and any slot where the chip label alone doesn't tell the user what they're picking.
-- `options` — same `pickerStyle: 'cards'` extension applies. Engine derives the excerpt from the first prayer (or rubric, fallback) inside each option's resolved sections. Used for Eucharistic Prayer, Memorial Acclamation, Penitential Act, Greeting, Dismissal, Final Blessing.
+- **Multilingual text:** `{ "en-US": "Hello", "pt-BR": "Olá" }`
+- **Content that follows the liturgical calendar:** see `content/practices/meditacoes-ligorio/`, which binds today's entry from a `liturgical-map.json` data file.
+- **Branching** (day of week, season, the user's choice): the `select` section. See `content/practices/rosary/` and `content/practices/mass/`.
 
 ### Validation
 
-`pnpm validate-flows` runs at pre-commit (via husky) and CI. It catches:
-- Unknown section `type`
-- `call.ref` / `fragment.ref` pointing at a fragment not defined in scope
-- `manifest.flow` or `manifest.data[*]` pointing at non-existent files
-- Malformed `select.from` (missing `as` / `body`)
-- Malformed `choice-rich-text` (missing `slot` / `label`)
+`pnpm validate-flows` checks section types, fragment refs, file references in manifests, and malformed `select` / `choice-rich-text` sections. Run it before opening a PR.
 
 ## Development Setup
 
@@ -161,18 +126,7 @@ pnpm test             # Run all tests
 pnpm biome check --write .  # Format & lint
 ```
 
-**Monorepo structure:**
-
-| Directory | Description |
-|-----------|-------------|
-| `apps/app/` | Expo app (iOS, Android, web) |
-| `packages/content-engine/` | Practice-agnostic flow resolution engine |
-| `packages/liturgical/` | Liturgical calendar, seasons, psalter |
-| `packages/mass-propers/` | EF Mass propers resolution engine |
-| `content/` | Corpus source — flat by kind (`prayers/`, `practices/`, `chapters/`, `books/`, `collections/`, ...) |
-| `docs/` | Architecture, conventions, authoring guides, content sources |
-
-For the full picture, see [Architecture](docs/ARCHITECTURE.md).
+See the [README](README.md#monorepo-structure) for the monorepo layout.
 
 ---
 

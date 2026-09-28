@@ -7,9 +7,8 @@ function md() {
 }
 
 describe('parseAttrs', () => {
-  test('parses display', () => {
+  test('parses display, bare or quoted', () => {
     expect(parseAttrs('display=row')).toEqual({ display: 'row' })
-    expect(parseAttrs('display=stack')).toEqual({ display: 'stack' })
     expect(parseAttrs('display="carousel"')).toEqual({ display: 'carousel' })
   })
 
@@ -17,24 +16,15 @@ describe('parseAttrs', () => {
     expect(parseAttrs('display=banana')).toEqual({})
   })
 
-  test('parses weights as comma-separated numbers', () => {
-    expect(parseAttrs('weights="2,1"')).toEqual({ weights: [2, 1] })
-    expect(parseAttrs('weights="3, 1, 2"')).toEqual({ weights: [3, 1, 2] })
+  test('parses weights, dropping non-positive entries', () => {
+    expect(parseAttrs('weights="3, -1, 2"')).toEqual({ weights: [3, 2] })
   })
 
-  test('drops non-positive weight entries', () => {
-    expect(parseAttrs('weights="2,-1,3"')).toEqual({ weights: [2, 3] })
-  })
-
-  test('parses caption with spaces', () => {
-    expect(parseAttrs('caption="Two views"')).toEqual({ caption: 'Two views' })
-  })
-
-  test('parses multiple attributes', () => {
-    expect(parseAttrs('display=row weights="1,1" caption="x"')).toEqual({
+  test('parses multiple attributes, with spaces inside quotes', () => {
+    expect(parseAttrs('display=row weights="1,1" caption="Two views"')).toEqual({
       display: 'row',
       weights: [1, 1],
-      caption: 'x',
+      caption: 'Two views',
     })
   })
 
@@ -93,10 +83,6 @@ describe('parseBody', () => {
       },
     ])
   })
-
-  test('returns empty for body with no images', () => {
-    expect(parseBody('Just some text.')).toEqual([])
-  })
 })
 
 describe('galleryExtension — :::gallery directive', () => {
@@ -151,11 +137,6 @@ describe('galleryExtension — :::row directive', () => {
     expect(html).toContain('data-display="row"')
   })
 
-  test('respects display=carousel attribute', async () => {
-    const html = await md().parse(':::row{display=carousel}\n![](a.jpg)\n:::\n')
-    expect(html).toContain('data-display="carousel"')
-  })
-
   test('emits grid-template-columns when weights present', async () => {
     const html = await md().parse(':::row{weights="2,1"}\n![](a.jpg)\n![](b.jpg)\n:::\n')
     expect(html).toContain('grid-template-columns:2fr 1fr')
@@ -170,8 +151,6 @@ describe('galleryExtension — :::row directive', () => {
 describe('galleryExtension — edge cases', () => {
   test('unclosed directive falls through to default markdown parsing', async () => {
     const html = await md().parse(':::gallery\n![](a.jpg)\n')
-    // The :::gallery line is not consumed by the extension and is rendered
-    // as part of a normal paragraph — no <figure> wrapper.
     expect(html).not.toContain('class="ember-gallery"')
     expect(html).toContain(':::gallery')
   })
@@ -194,12 +173,6 @@ describe('galleryExtension — edge cases', () => {
     // verbatim including ?x="y", and we escape on render.
     expect(html).toContain('a.jpg?x=')
     expect(html).not.toContain('src="a.jpg?x="y"')
-  })
-
-  test('start hook returns undefined when no directive present', async () => {
-    const html = await md().parse('# Plain markdown\n\nNo directives here.\n')
-    expect(html).toContain('<h1>')
-    expect(html).not.toContain('ember-gallery')
   })
 
   test('does not interfere with footnotes when stacked', async () => {

@@ -191,13 +191,13 @@ function Ornament({ format }: { format: BookCoverFormat }) {
   }
 }
 
-/** A printer's ✠ — the SVG pattée read as a clip-art mark. */
+/** A printer's ✠, not the SVG pattée, which reads as a clip-art mark. */
 function CrossMark({ size }: { size: number }) {
   return (
     <Text
       style={{
         fontFamily: coverFonts.caps,
-        // The fallback font draws ✠ small for its em, so size up to the old mark's footprint.
+        // The fallback font draws ✠ small for its em.
         fontSize: size * 1.6,
         lineHeight: size * 1.6 * 1.4,
         color: coverInk.gold,

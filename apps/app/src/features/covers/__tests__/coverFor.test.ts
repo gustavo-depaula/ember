@@ -11,11 +11,8 @@ const entry = (e: Partial<CatalogEntry>): CatalogEntry => ({
 })
 
 describe('bookCoverFormat', () => {
-  it('uses the format the manifest names', () => {
+  it('uses the format the manifest names, binding unnamed or unknown covers as Classic', () => {
     expect(bookCoverFormat('gilt')).toBe('gilt')
-  })
-
-  it('binds unnamed or unknown covers as Classic', () => {
     expect(bookCoverFormat(undefined)).toBe('classic')
     expect(bookCoverFormat('leopard-print')).toBe('classic')
   })

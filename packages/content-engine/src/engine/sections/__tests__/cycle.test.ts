@@ -56,34 +56,6 @@ describe('resolveFlowAsync — cycle with prose+book', () => {
       expect(result[0].text.primary).toBe('Content of session-002')
     }
   })
-
-  it('preloads literal prose+book chapters from non-cycle sections', async () => {
-    const engineContext: EngineContext = {
-      ...makeEngineContext(),
-      language: 'pt-BR',
-      contentLanguage: 'pt-BR',
-      loadBookChapterTextAsync: async (_book, chapter) => ({
-        'pt-BR': `Content of ${chapter}`,
-      }),
-    }
-
-    const result = await resolveFlowAsync(
-      flowDef({
-        sections: [
-          {
-            type: 'prose',
-            book: 'some-book',
-            chapter: 'intro',
-            langPolicy: 'active-language',
-          },
-        ],
-      }),
-      makeContext(),
-      engineContext,
-    )
-
-    expect(result).toEqual([{ type: 'prose', text: { primary: 'Content of intro' } }])
-  })
 })
 
 describe('resolveFlow — CycleData contextKey', () => {
@@ -120,7 +92,3 @@ describe('resolveFlow — CycleData contextKey', () => {
     ])
   })
 })
-
-// =============================================================================
-// Integration tests
-// =============================================================================

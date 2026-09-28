@@ -100,7 +100,7 @@ export function getLongestPracticeStreak(dates: string[]): number {
   return longest
 }
 
-// Legacy single-color wall data (kept for individual practice walls)
+// Single-color wall data, for individual practice walls
 export function toGreenWallData(
   logs: Array<{ date: string; completed: number }>,
   totalPractices: number,

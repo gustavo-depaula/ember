@@ -114,8 +114,7 @@ function pickNext(
   return { next: withHourTitle(item, Math.floor(next.due / 60) % 24), comingUp }
 }
 
-// ── Backbone ────────────────────────────────────────────────────────────────
-// A few short practices (each under 10 minutes) spread over the day — what
+// The backbone: a few short practices (each under 10 minutes) spread over the day — what
 // the card offers someone whose plan has nothing timed yet.
 
 const backbone: Array<{ ref: string; time: string }> = [
@@ -154,7 +153,6 @@ function backboneDone(prayed: string[]): Set<string> {
   return done
 }
 
-// ── Office hours ────────────────────────────────────────────────────────────
 // A practice whose flow picks its hour from the clock (the Breviary, the
 // Little Offices, the Liturgy of the Hours…) is titled by that hour — "Prime",
 // "Vespers" — with the practice as subtitle, exactly as the flow will resolve

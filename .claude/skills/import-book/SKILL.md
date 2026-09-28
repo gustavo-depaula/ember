@@ -5,7 +5,7 @@ description: Import public domain Catholic works into the Ember corpus content p
 
 # Import Book — Public Domain Text to Corpus Pipeline
 
-Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced book in the Hearth v2 corpus.
+Import a public domain Catholic text from the web into the Ember content system as a markdown-sourced book in the corpus.
 
 ## When to use
 
@@ -36,7 +36,7 @@ Key principles:
 - **Chapters are `.md`** — clean markdown, hand-edited. These are the authoring format.
 - **Markdown is converted at runtime** using `marked` + `marked-footnote` — no pandoc dependency at build time.
 - **One language directory per language** — the original language comes first, translations later.
-- **No EPUB / archive packaging.** Each `(chapter, language)` pair is hashed individually and served as an immutable blob from the Hearth v2 corpus. The app renders chapters in a WebView with CSS column pagination.
+- **No EPUB / archive packaging.** Each `(chapter, language)` pair is hashed individually and served as an immutable corpus blob.
 
 ## The Pipeline
 
@@ -47,8 +47,7 @@ Key principles:
    - NOT scanned PDFs (no OCR quality control)
    - Public domain editions (author died 100+ years ago)
 
-2. **Download with `requests` + `BeautifulSoup`.** Use the script at `scripts/crawl-montfort-fr.py` as a template. Critical rules:
-   - **Do NOT use Crawl4AI** — it silently drops content. Use `requests` + `BeautifulSoup` with `get_text(separator='\n\n')`.
+2. **Download with `requests` + `BeautifulSoup`** (`get_text(separator='\n\n')`); an existing `scripts/crawl-*.py` is a template. Crawl4AI silently drops content, so it is not an option. Rules:
    - Save as `.txt` files in `sources/{language}-originals/`
    - Use `---` separators between source pages
    - One `.txt` file per work (even if the work spans multiple web pages)
@@ -67,11 +66,10 @@ Key principles:
 
 ### Phase 3 — Split & Clean
 
-6. **Split with `scripts/extract-lines.sh`:**
+6. **Split by line range**, one call per chapter, straight into the book's language directory:
    ```bash
-   ./scripts/extract-lines.sh source.txt START END output.md
+   sed -n 'START,ENDp' source.txt > content/books/{book-id}/{lang}/{chapter-id}.md
    ```
-   One call per chapter. Output directly into the book's language directory.
 
 7. **Hand-clean with parallel background subagents.** Launch **one agent per file** using `run_in_background: true`. Do NOT group multiple files into one agent — a single large agent that fails or gets denied loses all its work, while granular agents let completed files stay done. Launch all agents in a single message for maximum parallelism. Each agent must:
 
@@ -119,7 +117,7 @@ Key principles:
     ```bash
     pnpm build:corpus
     ```
-    `scripts/build-corpus.py` copies the shared CSS into each book's language directories, hashes every chapter / image / style file, and writes them as immutable blobs under `_site/hearth/v2/blobs/{ab}/{cd}/{full-sha256}`. The book's per-language item-manifest is hashed and recorded in `_site/hearth/v2/catalog.json`.
+    `scripts/build-corpus.py` hashes every chapter and image into immutable blobs under `_site/hearth/v2/blobs/` and records the book's per-language manifest in `_site/hearth/v2/catalog.json`.
 
 12. **Verify:**
     - Inspect `_site/hearth/v2/catalog.json` and confirm the new `book/{book-id}` entry with the expected language list
@@ -135,21 +133,3 @@ Key principles:
 - **Editor footnotes are scholarly apparatus** — preserve them as markdown footnotes. They add context about textual variants, historical references, and theological nuances.
 - **Text-layer PDFs:** extract the body with `pdftotext -bbox-layout` (each `<block>` is one paragraph) and two-column endnotes with `-raw` (bbox interleaves the columns); strip `\x0c` before any line regex. Model on `scripts/parse-aquinas-catechetical.py`.
 - **If text seems wrong, check the source website** before changing it. What looks like an error may be period spelling or a faithful transcription of the manuscript.
-
-## Tools & Scripts
-
-| Tool | Location | Purpose |
-|------|----------|---------|
-| Crawl script template | `scripts/crawl-montfort-fr.py` | BS4-based downloader (adapt per source site) |
-| Line extractor | `scripts/extract-lines.sh` | Split `.txt` by line ranges into chapter files |
-| Corpus builder | `scripts/build-corpus.py` (`pnpm build:corpus`) | Copies CSS, hashes chapters/images, writes blobs + `catalog.json` |
-
-## Example: What We Did for Montfort
-
-1. Found 7 works on livres-mystiques.com (public domain French editions)
-2. Downloaded with `requests` + `BeautifulSoup` as `.txt` files (~152k words total)
-3. Mapped the Traité's structure: 12 chapters across 6,332 lines
-4. Split into 12 `.md` files with `extract-lines.sh`
-5. Cleaned all 12 in parallel with subagents (headings, footnotes, paragraphs)
-6. Updated `book.json` with French canonical TOC
-7. Built — `book/montfort-true-devotion` registered in `catalog.json` with all chapter blobs hashed

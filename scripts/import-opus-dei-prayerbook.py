@@ -52,8 +52,6 @@ def prayer_key(p: dict) -> str:
     raise ValueError(p["ids"])
 
 
-# — Rows → flow sections —
-
 def unwrap(t: str) -> str:
     """Rubrics and subheadings are styled by their block; drop inline emphasis
     marks the page put around the whole line."""
@@ -256,8 +254,6 @@ def sections_for(p: dict) -> list[dict]:
     return [emit(b) for b in build_blocks(p["rows"], ui_langs(p), psalm)]
 
 
-# — Clean-up —
-
 def tidy(t: str) -> str:
     # "1.Why" → "1. Why", as the other languages print it.
     t = re.sub(r"(?m)^(\d+)\.(?=[^\s\d.])", r"\1. ", t)
@@ -448,8 +444,6 @@ def easter_select(section: dict) -> dict:
     }
 
 
-# — Practices —
-
 def source_note(section: dict) -> dict:
     ids = section["ids"]
     out = {}
@@ -548,8 +542,6 @@ def patch_existing(pid: str, members: list[tuple[dict, dict]]) -> str:
     dump(d / "manifest.json", manifest)
     return "added " + " ".join(added)
 
-
-# — Collection —
 
 def slug(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")

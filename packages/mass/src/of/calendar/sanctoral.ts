@@ -60,6 +60,6 @@ export function sanctoralFor(
     dayKey(date.getMonth() + 1, date.getDate()),
   )
   if (!onDay) return []
-  // Entry order is preserved within a day, so filtering matches the old full scan.
+  // Entry order is preserved within a day.
   return onDay.filter((e) => e.scope === 'universal' || e.scope === scope)
 }

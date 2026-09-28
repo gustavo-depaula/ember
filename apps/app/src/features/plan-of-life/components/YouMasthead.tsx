@@ -5,8 +5,7 @@ import { Typography } from '@/components/typography'
 
 /**
  * The You masthead — a tracked-caps tagline over the title in the manuscript
- * hand. Names the user's
- * own life of prayer rather than a utility `PageHeader`.
+ * hand. Names the user's own life of prayer rather than a utility `PageHeader`.
  */
 export function YouMasthead() {
   const { t } = useTranslation()

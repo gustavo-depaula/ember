@@ -2,15 +2,7 @@ import { describe, expect, it } from 'vitest'
 import { parseReaderPosition } from '../useReaderCursor'
 
 describe('parseReaderPosition', () => {
-  it('parses the new {chapterId, fraction} format', () => {
-    expect(parseReaderPosition(JSON.stringify({ chapterId: 'ch-1', fraction: 0.42 }))).toEqual({
-      chapterId: 'ch-1',
-      fraction: 0.42,
-      updatedAt: undefined,
-    })
-  })
-
-  it('parses updatedAt when present', () => {
+  it('parses {chapterId, fraction, updatedAt}', () => {
     expect(
       parseReaderPosition(JSON.stringify({ chapterId: 'ch', fraction: 0.1, updatedAt: 12345 })),
     ).toEqual({ chapterId: 'ch', fraction: 0.1, updatedAt: 12345 })

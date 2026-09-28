@@ -1,8 +1,8 @@
 /**
  * Search over the catalog's practices, collections and books. The index holds
  * every searchable field localized, normalized and split into words once, so a
- * keystroke only compares words — normalizing ~1,000 titles and descriptions
- * per keystroke was most of the scoring cost.
+ * keystroke only compares words rather than normalizing ~1,000 titles and
+ * descriptions.
  */
 
 import { getEntriesByKind, getRememberedManifest } from '@/content/contentIndex'

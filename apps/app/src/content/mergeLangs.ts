@@ -8,7 +8,7 @@
  *               language's value
  *
  * This function walks both in parallel and rebuilds `{ [lang]: value }` at
- * every site where shape was `null`. Pure — no I/O or React dependencies.
+ * every site where shape was `null`.
  */
 
 export function mergeLangs(shape: unknown, payloads: Record<string, unknown>): unknown {

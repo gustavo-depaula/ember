@@ -86,10 +86,10 @@ If you believe this work matters, consider sponsoring the project.
 |-----------|-------------|
 | `apps/app/` | Expo app (iOS, Android, web) |
 | `packages/content-engine/` | Practice-agnostic flow resolution engine |
-| `packages/liturgical/` | Liturgical calendar, seasons, psalter |
-| `packages/mass-propers/` | EF Mass propers resolution engine |
-| `content/` | Corpus source — flat by kind: `prayers/`, `practices/`, `chapters/`, `books/`, `collections/`, `masses/`, `of-library/`, `of-data/` |
-| `docs/` | Architecture, conventions, authoring guides, content sources |
+| `packages/divinum-officium/` | TypeScript port of Divinum Officium: EF Mass and Divine Office |
+| `packages/liturgical/`, `packages/mass/` | Liturgical calendar, seasons, OF Mass |
+| `content/` | Corpus source, one folder per kind (`practices/`, `books/`, `chapters/`, `collections/`, …) |
+| `docs/` | Authoring guides, content sources and licensing, design system |
 
 ### Tech Stack
 
@@ -108,14 +108,11 @@ pnpm test           # Run all tests
 
 ### Documentation
 
-- [Architecture](docs/ARCHITECTURE.md) — tech stack, corpus model, data model
-- [Features](docs/features/features-overview.md) — flow DSL, schedules, programs, plan of life
-- [Content & Collections](docs/features/corpus.md) — corpus format, pinning, content distribution
-- [Book format](docs/content/book-format.md) — book manifest, chapter format, ID conventions
-- [Conventions](docs/CONVENTIONS.md) — code style guide
-- [Design system](docs/design/design-system.md) — colors, typography, layout
-- [Content sources](docs/content/content-sources.md) — Bible, CCC, hymns, daily readings
 - [Contributing](CONTRIBUTING.md) — how to contribute code and content
+- [Authoring practices](docs/content/primitives-guide.md) — writing prayer flows
+- [Book format](docs/content/book-format.md) — book manifest, chapter format, ID conventions
+- [Content sources](docs/content/content-sources.md) — Bible, CCC, hymns, daily readings, licensing
+- [Design system](docs/design/design-system.md) — colors, typography, layout
 
 ---
 

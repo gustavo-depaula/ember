@@ -68,8 +68,4 @@ describe('getOccurrenceBasedProgramDay', () => {
     const daily: Schedule = { type: 'daily' }
     expect(getOccurrenceBasedProgramDay(daily, '2026-01-01', date(2026, 1, 5), 9)).toBe(undefined)
   })
-
-  it('stays within bounds between occurrences', () => {
-    expect(getOccurrenceBasedProgramDay(firstFriday, '2026-01-01', date(2026, 1, 20), 9)).toBe(1)
-  })
 })

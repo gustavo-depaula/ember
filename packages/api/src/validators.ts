@@ -49,8 +49,6 @@ export const churchesQuerySchema = z
 
 export const verificationsQuerySchema = z.object({ limit, offset })
 
-// ── Writes ──────────────────────────────────────────────────────────────────
-
 const comment = z.string().trim().min(1).max(2000)
 const attachmentKeys = z.array(z.string().max(256)).max(8)
 // Note: the caller's identity (IP + optional `X-Client-Id` header) is folded into the fingerprint

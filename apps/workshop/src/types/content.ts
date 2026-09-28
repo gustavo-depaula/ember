@@ -100,7 +100,7 @@ export type TocNode = {
   children?: TocNode[]
 }
 
-// Hearth v2: collections are structured, hierarchical indexes.
+// Collections are structured, hierarchical indexes.
 // Sections group items by purpose; sub-sections nest one level deep.
 // Source shape on disk: content/collections/<id>.json
 

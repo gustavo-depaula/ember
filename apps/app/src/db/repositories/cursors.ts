@@ -4,8 +4,6 @@ import { getToday } from '@/hooks/useToday'
 import { emit, useEventStore } from '../events'
 import type { Cursor } from '../schema'
 
-// --- Reads (from in-memory state) ---
-
 export function getCursor(id: string): Cursor | undefined {
   return useEventStore.getState().cursors.get(id)
 }
@@ -17,8 +15,6 @@ export function getCursorsWithPrefix(prefix: string): Cursor[] {
   }
   return result
 }
-
-// --- Mutations (emit events) ---
 
 export async function setCursor(id: string, position: string): Promise<void> {
   const today = format(getToday(), 'yyyy-MM-dd')
@@ -43,8 +39,6 @@ export async function advanceIndex(id: string, entryCount: number): Promise<void
 export async function setIndex(id: string, index: number): Promise<void> {
   await emit({ type: 'CursorIndexSet', cursorId: id, index })
 }
-
-// --- Book reader cursors ---
 
 export function bookCursorId(bookId: string): string {
   return `book/${bookId}`
@@ -95,8 +89,6 @@ export function highlightCursorPrefix(bookId: string): string {
 export function highlightCursorId(bookId: string, createdAt: number): string {
   return `${highlightCursorPrefix(bookId)}${createdAt}`
 }
-
-// --- Program cursors ---
 
 export type ProgramCursorPosition = {
   day: number

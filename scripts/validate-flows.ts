@@ -361,9 +361,9 @@ function validateManifest(file: string): void {
   if (typeof m.id !== 'string') {
     issues.push({ file, path: '$.id', message: 'manifest.id must be a string' })
   }
-  // `flow` is either a path to a sibling flow.json or the flow inline (which
-  // build-corpus.py treats as the preferred shape — 93 manifests use it). An
-  // inline flow gets the same section validation a flow.json would.
+  // `flow` is either a path to a sibling flow.json or the flow inline (the shape
+  // build-corpus.py prefers). An inline flow gets the same section validation a
+  // flow.json would.
   if (m.flow && typeof m.flow === 'object' && !Array.isArray(m.flow)) {
     validateFlowBody(m.flow as Record<string, unknown>, file, '$.flow')
   } else if (m.flow && typeof m.flow !== 'string') {

@@ -52,7 +52,6 @@ const isSundayOrSolemnity = (c: SpineCtx) => c.rank === 'sunday' || c.rank === '
  * Sundays/Easter).
  */
 export const massSpine: SpineEntry[] = [
-  // ── Introductory Rites ──
   { step: { kind: 'section', pt: 'Ritos Iniciais', en: 'Introductory Rites' } },
   // The Entrance Antiphon accompanies the procession, before the Sign of the
   // Cross. Proper to the day; rendered only when the formulary carries one.
@@ -72,14 +71,12 @@ export const massSpine: SpineEntry[] = [
   { step: { kind: 'order', id: 'order.gloria' }, when: (c) => c.formulary.includeGloria },
   { step: { kind: 'proper', slot: 'collect' } },
 
-  // ── Liturgy of the Word ──
   { step: { kind: 'section', pt: 'Liturgia da Palavra', en: 'Liturgy of the Word' } },
   { step: { kind: 'readings' } },
   { step: { kind: 'rubric', pt: 'Homilia.', en: 'Homily.' } },
   { step: { kind: 'order', id: 'order.credo-nicene' }, when: isSundayOrSolemnity },
   { step: { kind: 'order', id: 'order.universal-prayer', collapsed: true } },
 
-  // ── Liturgy of the Eucharist ──
   { step: { kind: 'section', pt: 'Liturgia Eucarística', en: 'Liturgy of the Eucharist' } },
   { step: { kind: 'order', id: 'order.preparation-of-gifts', collapsed: true } },
   { step: { kind: 'proper', slot: 'prayerOverOfferings' } },
@@ -88,7 +85,6 @@ export const massSpine: SpineEntry[] = [
   { step: { kind: 'order', id: 'order.sanctus' } },
   { step: { kind: 'eucharistic-prayer' } },
 
-  // ── Communion Rite ──
   { step: { kind: 'section', pt: 'Rito da Comunhão', en: 'Communion Rite' } },
   { step: { kind: 'order', id: 'order.our-father' } },
   { step: { kind: 'order', id: 'order.sign-of-peace' } },
@@ -98,7 +94,6 @@ export const massSpine: SpineEntry[] = [
   { step: { kind: 'order', id: 'order.communion-silent', collapsed: true } },
   { step: { kind: 'proper', slot: 'postcommunion' } },
 
-  // ── Concluding Rites ──
   { step: { kind: 'section', pt: 'Ritos Finais', en: 'Concluding Rites' } },
   {
     step: { kind: 'proper', slot: 'prayerOverPeople' },

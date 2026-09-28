@@ -2,17 +2,7 @@ import type { ComponentProps } from 'react'
 import { Text } from 'tamagui'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 
-/**
- * Canonical missal-typography mark for response (℟) and versicle (℣)
- * glyphs. Bumped 1.15× over body text so the glyph's visual mass
- * matches surrounding capitals instead of riding low and small.
- *
- * Single source of truth — all places that render a response/versicle
- * marker (LiturgicalPrayerBlock, ResponseBlock, ProperSlot,
- * ChoiceRichTextBlock) go through this component, so styling changes
- * land everywhere at once.
- */
-/** Bumped over body text so the glyph's visual mass matches surrounding caps. */
+/** Over body size, so the ℟/℣ glyph's visual mass matches surrounding capitals. */
 export const responseMarkScale = 1.15
 
 export function ResponseMark({

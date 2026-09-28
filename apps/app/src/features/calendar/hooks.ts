@@ -14,11 +14,11 @@ import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { buildDoYearCalendar } from './buildDoYearCalendar'
 
-// Both display calendars (home card + month grid) are now resolved from the
-// *same* canonical authority the Mass uses, so card and Mass can never disagree:
-// OF via @ember/mass's buildOfYearCalendar (resolveOfDay over the MR statics),
-// EF via buildDoYearCalendar (the Divinum Officium engine, the EF Mass/Office's
-// own day resolution — transfers, octaves, vigils, commemorations all match).
+// Both display calendars (home card + month grid) resolve from the same
+// authority the Mass uses, so card and Mass can never disagree: OF via
+// @ember/mass's buildOfYearCalendar (resolveOfDay over the MR statics), EF via
+// buildDoYearCalendar (the Divinum Officium engine's own day resolution —
+// transfers, octaves, vigils, commemorations all match).
 export function useYearCalendar(year?: number) {
   const form = usePreferencesStore((s) => s.liturgicalCalendar)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)

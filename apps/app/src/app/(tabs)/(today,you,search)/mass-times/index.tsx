@@ -15,9 +15,8 @@ import {
   useMassTimesNearby,
 } from '@/features/mass-times'
 
-// Mass Times: one map-backed "places" surface (Apple Maps style). ChurchSheet owns the whole thing —
-// a SwiftUI Host with the live map as background content and the native sheet riding on top — so the
-// map stays interactive behind the sheet. The screen adds only the floating back button + filter sheet.
+// ChurchSheet owns the map too — a SwiftUI Host with the live map as background content and the
+// native sheet on top — so the map stays interactive behind the sheet.
 export default function MassTimesScreen() {
   const { t, i18n } = useTranslation()
   const router = useRouter()
@@ -49,7 +48,6 @@ export default function MassTimesScreen() {
         onRegionChange={setRegion}
       />
 
-      {/* Floating back button — the only top chrome, over the map. */}
       <YStack position="absolute" top={insets.top + 8} left="$md">
         <AnimatedPressable
           onPress={() => router.back()}

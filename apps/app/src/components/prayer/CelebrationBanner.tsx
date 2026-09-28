@@ -3,11 +3,6 @@ import { XStack, YStack } from 'tamagui'
 import { Typography } from '../typography'
 import { LiturgicalColorDot } from './LiturgicalColorDot'
 
-/**
- * Hero block at the top of the day's body — large title with a
- * liturgical-color dot inline, plus rank + cycle as a subtle subtitle.
- * Reads like the upper-left corner of a missal page.
- */
 export function CelebrationBanner({
   title,
   color,

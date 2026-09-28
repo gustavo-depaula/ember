@@ -43,7 +43,6 @@ WEBP_QUALITY = 85
 
 
 def wm_api_image_info(filename: str) -> dict:
-    """Query Wikimedia Commons API for file metadata + direct URL."""
     api = (
         "https://commons.wikimedia.org/w/api.php"
         f"?action=query&titles=File:{quote(filename)}"
@@ -108,7 +107,6 @@ def process_entry(entry: dict) -> tuple[Path, dict]:
 
 
 def strip_html(s: str) -> str:
-    """Quick-and-dirty strip of HTML tags from Commons metadata."""
     import re
     return re.sub(r"<[^>]+>", "", s).strip()
 

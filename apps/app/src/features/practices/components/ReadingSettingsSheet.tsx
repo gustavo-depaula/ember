@@ -15,10 +15,9 @@ type Tab = 'reading' | 'language'
 const sheetFraction = 0.9
 
 /**
- * Reading & language settings for the praying experience, in the app's native
- * bottom sheet (`@expo/ui` — SwiftUI `.sheet` on iOS, Material3 on Android; the
- * same component used by the Explore "From Rome" video sheet). `open` drives the
- * snap index; swipe-down / backdrop tap calls `onClose`.
+ * Reading & language settings for the praying experience, in the native
+ * `@expo/ui` bottom sheet. `open` drives the snap index; swipe-down / backdrop
+ * tap calls `onClose`.
  */
 export function ReadingSettingsSheet({ open, onClose }: { open: boolean; onClose: () => void }) {
   const { t } = useTranslation()

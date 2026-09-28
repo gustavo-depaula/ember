@@ -10,12 +10,7 @@ const COLOR_HEX: Record<string, string> = {
   gold: '#C8A442',
 }
 
-/**
- * Small circular swatch in a liturgical-vestment color. Single canonical
- * implementation — used by `LiturgicalColorBlock` (12px) and
- * `CelebrationBanner` (14px). Light-on-light dots (white/rose/gold) get
- * a thin ring against the page background.
- */
+// Light dots (white/rose/gold) get a thin ring against the page background.
 export function LiturgicalColorDot({ color, size = 12 }: { color: string; size?: number }) {
   const theme = useTheme()
   const fill = COLOR_HEX[color] ?? COLOR_HEX.white

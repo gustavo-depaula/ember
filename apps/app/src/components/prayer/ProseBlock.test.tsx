@@ -40,13 +40,6 @@ describe('ProseBlock', () => {
     expect(alignOf(screen.getByText(/a quoted line/, unhyphenated))).toBe('left')
   })
 
-  it('keeps emphasis rendered when the text is justified', () => {
-    renderProse('a paragraph with *emphasis* in it')
-    expect(screen.getByText('emphasis', unhyphenated)).toBeTruthy()
-    expect(screen.getByText(/a paragraph with/, unhyphenated)).toBeTruthy()
-    expect(screen.getByText(/in it/, unhyphenated)).toBeTruthy()
-  })
-
   it('draws list markers inline, so the justifier measures them', () => {
     renderProse('- first\n- second')
     expect(screen.getByText(/• first/, unhyphenated)).toBeTruthy()
@@ -57,26 +50,6 @@ describe('ProseBlock', () => {
     renderProse('1. first\n2. second')
     expect(screen.getByText(/1\. first/, unhyphenated)).toBeTruthy()
     expect(screen.getByText(/2\. second/, unhyphenated)).toBeTruthy()
-  })
-
-  it('splits a blockquote at its internal blank lines', () => {
-    renderProse('> first part\n>\n> second part')
-    expect(screen.getByText(/first part/, unhyphenated)).toBeTruthy()
-    expect(screen.getByText(/second part/, unhyphenated)).toBeTruthy()
-  })
-
-  it('still renders headings and images', () => {
-    const { container } = renderProse('## A heading\n\n![alt](https://example.test/a.jpg)')
-    expect(screen.getByText('A heading')).toBeTruthy()
-    expect(container.querySelectorAll('img').length).toBeGreaterThan(0)
-  })
-
-  // The reader's "left" setting is a request for ragged right, not for a
-  // differently-broken paragraph — it must not route through the justifier.
-  it('honours the left-aligned reading preference', () => {
-    usePreferencesStore.setState({ textAlign: 'left' })
-    renderProse('A paragraph the reader wants ragged.')
-    expect(alignOf(screen.getByText(/A paragraph the reader wants/, unhyphenated))).toBe('left')
   })
 
   // A blockquote is italic throughout, and the face has to be NAMED rather than

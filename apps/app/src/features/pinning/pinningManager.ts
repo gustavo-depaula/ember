@@ -1,10 +1,8 @@
 /**
- * Pinning — the only persistent personal-content state besides plan-of-life slots.
- *
- * Anyone can open any item from the corpus; pinning marks an item (a single
- * prayer/practice/book or a whole collection) as "keep available offline." All
- * referenced blobs are bulk-prefetched and the pinned-items list lives in
- * `preferences['pinned-items']` (a JSON array, kept tiny).
+ * Pinning marks an item (a single practice/book or a whole collection) as "keep
+ * available offline": every blob it references is bulk-prefetched, and the
+ * pinned-items list lives in `preferences['pinned-items']` (a JSON array, kept
+ * tiny).
  */
 
 import {
@@ -210,8 +208,7 @@ export async function pinItem(
 export async function unpinItem(id: string): Promise<void> {
   pinned = pinned.filter((p) => p.id !== id)
   await persist()
-  // Note: we don't actively delete blobs here. The next eviction pass clears
-  // anything no longer referenced by a pinned item.
+  // Blobs stay; the next eviction pass clears anything no pinned item references.
 }
 
 /**

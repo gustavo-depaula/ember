@@ -6,7 +6,7 @@ Strategy:
 1. Read all 6 volumes sequentially
 2. Use "Meditazione" headers as primary delimiters (~370 total)
 3. Between each pair, find Colloquio to split body vs colloquy
-4. Look backwards ~12 lines from each Meditazione for title (UPPERCASE lines) + PRESENZA DI DIO
+4. Look backwards ~14 lines from each Meditazione for title (UPPERCASE lines) + PRESENZA DI DIO
 5. Output each meditation as giorno-NNN.md
 """
 
@@ -105,7 +105,7 @@ def has_liturgical_ref(line):
 
 def extract_title_and_presenza(lines, med_idx):
     """
-    Look backwards max 12 lines from Meditazione to extract title and PRESENZA.
+    Look backwards up to 14 lines from Meditazione to extract title and PRESENZA.
     Returns (title, liturgical_ref, presenza_text)
     """
     search_start = max(0, med_idx - 14)
@@ -146,13 +146,11 @@ def extract_title_and_presenza(lines, med_idx):
             if cleaned and len(cleaned) > 3:
                 title_parts.append(cleaned)
         elif has_liturgical_ref(stripped) and not is_page_header(stripped):
-            # Clean liturgical ref
             lr = re.sub(r'^\d+\s+', '', stripped)  # Remove leading page num
             lr = re.sub(r'\s+\d+\s*$', '', lr)  # Remove trailing page num
             liturgical_ref = lr.strip()
 
     title = " ".join(title_parts).strip()
-    # Final cleanup
     title = re.sub(r'\s+', ' ', title)
 
     return title, liturgical_ref, presenza_text
@@ -233,7 +231,6 @@ def main():
                 col_line = c
                 break
 
-        # Extract title and PRESENZA (look backwards ~12 lines)
         title, liturgical_ref, presenza = extract_title_and_presenza(lines, med_line)
 
         # Extract meditation text
@@ -270,7 +267,6 @@ def main():
         print(f"  giorno-{m['index']:03d}: {m['title'][:55] if m['title'] else '(no title)'} "
               f"| {med_w}w+{col_w}w")
 
-    # Print untitled
     untitled = [m for m in meditations if not m["title"]]
     if untitled:
         print(f"\n--- Untitled ({len(untitled)}) ---")
@@ -279,7 +275,6 @@ def main():
             ctx = [lines[j].strip() for j in range(start, m['med_line']) if lines[j].strip()]
             print(f"  giorno-{m['index']:03d} (L{m['med_line']}): {' | '.join(ctx[-3:])[:90]}")
 
-    # Write files
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     for m in meditations:
         filepath = OUTPUT_DIR / f"giorno-{m['index']:03d}.md"

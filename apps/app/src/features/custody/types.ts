@@ -16,8 +16,8 @@ export type Target =
   | { kind: 'domain-list'; listKey: 'porn' | 'gambling' | 'social' | 'news' }
 
 // `Anchor` is used by the guided custody-session feature (a meditation
-// runner with bells). The iOS shield no longer uses it — shield messages
-// come from a rotating pool, see `shieldMessages.ts`.
+// runner with bells). The iOS shield doesn't use it — shield messages come
+// from a rotating pool, see `shieldMessages.ts`.
 export type Anchor =
   | { kind: 'text'; text: string; attribution?: string }
   | { kind: 'image'; imageRef: string; caption?: string }
@@ -28,9 +28,9 @@ export type Anchor =
 export type FrictionConfig =
   | { kind: 'none' }
   | { kind: 'wait'; waitSeconds: number }
-  // depth: 'shallow' = current one-tap acknowledgement; 'deep' = full prayer
-  // text + minimum dwell before the button enables. Missing depth on legacy
-  // rows is treated as 'shallow' at the call site.
+  // depth: 'shallow' = one-tap acknowledgement; 'deep' = full prayer text +
+  // minimum dwell before the button enables. Rows without a depth are treated
+  // as 'shallow' at the call site.
   | { kind: 'prayer'; depth?: 'shallow' | 'deep' }
 
 // `fenceStart` / `fenceEnd` are only meaningful when `kind === 'time-fence'`.

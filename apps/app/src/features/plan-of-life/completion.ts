@@ -88,8 +88,6 @@ export async function setSlotDone(slotKey: string, date: string, done: boolean):
   await toggleCompletion(practiceId, date, done, slotId)
 }
 
-// --- Hooks ---
-
 /** Slot keys completed on `date` — compare against `SlotState.id`. */
 export function useCompletedSlots(date: string): Set<string> {
   const completions = useEventStore(useShallow((s) => completionsOn(date, s)))

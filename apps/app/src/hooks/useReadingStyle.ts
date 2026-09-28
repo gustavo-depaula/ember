@@ -7,8 +7,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 export const readingScale = {
   fontSize: [16, 19, 22, 26, 32] as const,
   // lineHeightStep selects a leading RATIO (not absolute px) so leading scales
-  // with the chosen font size — fixes cramped leading at large sizes. Default
-  // step 5 ≈ 1.5.
+  // with the chosen font size. Default step 5 ≈ 1.5.
   leadingRatio: [1.25, 1.32, 1.4, 1.45, 1.5, 1.6, 1.7] as const,
 }
 
@@ -41,8 +40,8 @@ export function useReadingStyle() {
     // pass — a line the justifier declined, or one the platform is breaking
     // because the reader asked for ragged. It defaults to `'none'`, which
     // leaves justified text unhyphenated: the worst of both. iOS exposes no
-    // equivalent, which is exactly why so much of the app now breaks its own
-    // lines. See `docs/design/typography-justification.md`.
+    // equivalent, which is why the app breaks its own lines. See
+    // `docs/design/typography-justification.md`.
     android_hyphenationFrequency: 'full' as const,
     ...(textAlign === 'justify' && Platform.OS === 'web' ? { style: webJustifyStyle } : {}),
   }
@@ -53,9 +52,6 @@ export function useReadingFontSizePx() {
   return readingScale.fontSize[step - 1]
 }
 
-// Max line length for the reading column on wide screens (tablet/web). Apply
-// to the content container's maxWidth, centered — keeps long-form measure
-// comfortable instead of running the full viewport width.
 export function useReadingMaxWidth() {
   const step = usePreferencesStore((s) => s.fontSizeStep)
   return readingScale.fontSize[step - 1] * maxMeasureEm

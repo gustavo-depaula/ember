@@ -15,8 +15,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
  * Result is midnight (start) of the logical day in local time. Do NOT call
  * `.getHours()` / `.getMinutes()` on it — it's always 0/0, so hour-math
  * silently reads as 0. For time-of-day (Angelus bells, meal windows,
- * evening whispers) use `new Date()` with a `setInterval` for reactivity.
- * See `features/angelus/hooks.ts` for the pattern.
+ * evening whispers) use `useCurrentHour`.
  */
 export function useToday(): Date {
   const ephemeral = usePreferencesStore((s) => s.timeTravelDate)

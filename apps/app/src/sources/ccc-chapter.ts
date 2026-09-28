@@ -12,13 +12,9 @@ function narrowLang(lang: string): Lang {
 }
 
 // Daily-office / Bible-in-a-year CCC reading: a contiguous run of paragraphs,
-// scraped from vatican.va (bilingual). Output unchanged from the old ccc.json
-// backend, so the practice flows that reference `producer/ccc-chapter` need no
-// edits. Cached by the ContentSource framework (id/version/lang/params).
+// scraped from vatican.va (bilingual).
 export const cccChapterSource: ContentSource<VersesPrimitive> = {
   id: ID,
-  // v3: backend switched from catechism/ccc.json (English-only) to the bilingual
-  // vatican.va scraper.
   version: '3',
   prefsDeps: ['lang'],
   fetch: async ({ params, prefs }): Promise<VersesPrimitive> => {

@@ -1,13 +1,8 @@
 /**
- * Holy Days of Obligation for the Ordinary Form — the single canonical source
- * now that the display calendar no longer reads them from the curated
- * `entries.json`. These are the eleven universal HDO the app shipped; the values
- * are liturgical law (canon 1246 §1), not data, so they live in code beside the
- * GIRM precedence table.
- *
- * (Jurisdiction-specific transfers/abrogations — e.g. the US/Brazil moving
- * Epiphany/Ascension/Corpus Christi to a Sunday — are a later refinement; this
- * mirrors the previous flat behaviour exactly.)
+ * The universal Holy Days of Obligation for the Ordinary Form (canon 1246 §1).
+ * Liturgical law, not data, so they live in code beside the GIRM precedence
+ * table. Jurisdiction-specific transfers/abrogations (e.g. the US/Brazil moving
+ * Epiphany/Ascension/Corpus Christi to a Sunday) are not modelled.
  */
 
 /** Sanctoral HDO, keyed by formulary ref. */

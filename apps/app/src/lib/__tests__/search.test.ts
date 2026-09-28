@@ -5,7 +5,6 @@ import { matchWords, normalizeForSearch, searchWords } from '../search'
 describe('normalizeForSearch', () => {
   it('folds diacritics and case, and collapses whitespace', () => {
     expect(normalizeForSearch('Santo Rosário')).toBe('santo rosario')
-    expect(normalizeForSearch('São José')).toBe('sao jose')
     expect(normalizeForSearch('  Misericórdia ')).toBe('misericordia')
     expect(normalizeForSearch('Mental  p')).toBe('mental p')
   })

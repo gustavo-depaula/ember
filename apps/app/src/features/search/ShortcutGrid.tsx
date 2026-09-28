@@ -22,8 +22,8 @@ function useTileSize(): number {
   return Math.floor((content - gutter) / 2)
 }
 
-// — Color helpers: muting the vivid jewel tones into a soft, low-contrast wash
-// so a tile reads like aged vellum under a wash of color, not a neon gradient.
+// Mute the vivid jewel tones into a soft, low-contrast wash so a tile reads like
+// aged vellum under a wash of color, not a neon gradient.
 function mix(a: string, b: string, t: number): string {
   const pa = [1, 3, 5].map((i) => Number.parseInt(a.slice(i, i + 2), 16))
   const pb = [1, 3, 5].map((i) => Number.parseInt(b.slice(i, i + 2), 16))
@@ -32,10 +32,9 @@ function mix(a: string, b: string, t: number): string {
 }
 
 /**
- * Gentle vertical gradient on the rich jewel base. The original `from→to` was
- * harsh — a big diagonal jump to a near-black corner. Here we keep the saturated
- * `tone.from` (no graying-out) and only breathe it a touch lighter at the top
- * and deeper at the bottom, so the fall-off is smooth, not a visible band.
+ * Gentle vertical gradient on the jewel base: keep the saturated `tone.from` and
+ * only breathe it a touch lighter at the top and deeper at the bottom, so the
+ * fall-off is smooth, not a visible band.
  */
 function softStops(tone: BlockTone): [string, string] {
   return [mix(tone.from, '#FFFFFF', 0.08), mix(tone.from, '#000000', 0.24)]

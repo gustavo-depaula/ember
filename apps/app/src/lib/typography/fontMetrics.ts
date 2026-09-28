@@ -51,12 +51,10 @@ function build(table: FaceMetrics): FontMetrics {
   }
   const perEm = table.unitsPerEm
   // Unknown glyphs fall back to the WIDEST advance in the face, so a character
-  // the table doesn't carry can only leave a line short of the margin. The
-  // space advance — what this used to use — is one of the narrowest glyphs
-  // there is, so it under-measured every line it appeared on, and the line then
-  // rendered wider than the breaker had placed it. That is the direction that
-  // actually costs text: a line that overruns its measure gets re-broken by the
-  // platform, which is free to drop what no longer fits.
+  // the table doesn't carry can only leave a line short of the margin.
+  // Under-measuring is the direction that costs text: a line that overruns its
+  // measure gets re-broken by the platform, which is free to drop what no
+  // longer fits.
   let fallback = perEm / 4
   for (const advance of table.advances) if (advance > fallback) fallback = advance
 

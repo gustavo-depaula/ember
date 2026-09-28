@@ -5,13 +5,9 @@ import type { BilingualText } from '@/content/types'
 import { AnimatedPressable } from '../AnimatedPressable'
 
 /**
- * Collapsed-by-default group that reveals its body on tap. Used for
- * silent priest prayers (Preparação das Oferendas) and lengthy
- * explanatory rubrics — the title gives orientation, the body stays
- * out of the audible flow until the user wants the detail.
- *
- * Generic over the section type so both the engine-side renderer
- * (RenderedSection) and the practice renderer (Primitive) can use it.
+ * For silent priest prayers and lengthy rubrics: the body stays out of the
+ * audible flow until wanted. Generic over the section type so both
+ * RenderedSection and Primitive renderers can use it.
  */
 export function CollapsibleBlock<T>({
   title,

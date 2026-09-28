@@ -2,8 +2,8 @@
 """Download the McHugh & Callan 1923 Catechism of Trent from catholicapologetics.info.
 
 Outputs a single .txt with --- page separators (one per source page), saved to
-content/_archive/base/sources/english-originals/catechism-of-trent.txt (originally
-written there pre-Hearth-v2; the archived path is now the source for re-imports).
+content/_archive/base/sources/english-originals/catechism-of-trent.txt, the
+source for re-imports.
 
 Source: http://www.catholicapologetics.info/thechurch/catechism/
 Translation: McHugh & Callan, 1923 — public domain in the US (pre-1929).
@@ -89,7 +89,6 @@ def fetch_page(filename: str) -> str:
     if resp.encoding is None or resp.encoding.lower() in ("iso-8859-1", "ascii"):
         resp.encoding = "windows-1252"
     soup = BeautifulSoup(resp.text, "html.parser")
-    # Drop nav and script/style noise
     for tag in soup(["script", "style", "head", "meta", "link", "img"]):
         tag.decompose()
     text = soup.get_text(separator="\n\n")

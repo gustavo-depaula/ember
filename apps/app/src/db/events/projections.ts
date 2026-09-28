@@ -3,13 +3,10 @@ import type { WritableDraft } from 'immer'
 import type { EventStoreState, SlotState } from './state'
 import type { AppEvent } from './types'
 
-// Stored events whose type is no longer in AppEvent (e.g. the removed
-// intentions / resolutions / oblatio events) fall through the switch and
-// replay as no-ops, so dropping a feature needs no migration.
+// Stored events whose type is not in AppEvent fall through the switch and
+// replay as no-ops, so dropping an event type needs no migration.
 export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEvent): void {
   switch (event.type) {
-    // --- Practice events ---
-
     case 'PracticeCreated': {
       draft.practices.set(event.practiceId, {
         practice_id: event.practiceId,
@@ -52,11 +49,9 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
 
     case 'PracticeDeleted': {
       draft.practices.delete(event.practiceId)
-      // Cascade: remove slots
       for (const [key, slot] of draft.slots) {
         if (slot.practice_id === event.practiceId) draft.slots.delete(key)
       }
-      // Cascade: remove completions
       for (const [id, completion] of draft.completions) {
         if (completion.practice_id === event.practiceId) {
           removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
@@ -100,7 +95,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
 
     case 'SlotDeleted': {
       draft.slots.delete(event.slotKey)
-      // Cascade: remove completions for this slot
       for (const [id, completion] of draft.completions) {
         if (completion.practice_id === event.practiceId && completion.sub_id === event.slotId) {
           removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
@@ -117,8 +111,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       }
       break
     }
-
-    // --- Completion events ---
 
     case 'CompletionLogged': {
       const completion = {
@@ -160,8 +152,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
-    // --- Cursor events ---
-
     case 'CursorSet': {
       draft.cursors.set(event.cursorId, {
         id: event.cursorId,
@@ -201,8 +191,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
     }
   }
 }
-
-// --- Index helpers ---
 
 function addCompletionToIndexes(
   draft: WritableDraft<EventStoreState>,

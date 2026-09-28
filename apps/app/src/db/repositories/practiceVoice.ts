@@ -1,6 +1,6 @@
 /**
- * Per-practice voice selection. Stores which guided-prayer playlist the user
- * prefers for each practice; nullable means "silent" (default).
+ * Which guided-prayer playlist the user prefers for each practice; none means
+ * silent (the default).
  */
 
 import { getDb } from '../client'

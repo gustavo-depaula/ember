@@ -8,8 +8,8 @@ import { prettifyTitle } from './title'
 /**
  * A preface title is "<HEADING IN CAPS> <Subtitle in Title Case>", e.g.
  * "PREFÁCIO DA PÁSCOA I O mistério pascal". Split the all-caps liturgical
- * heading (→ label) from the trailing mixed-case theme (→ excerpt). This is
- * the journal's iteration-1 finding: the subtitle is the discriminator.
+ * heading (→ label) from the trailing mixed-case theme (→ excerpt): the
+ * subtitle is what tells same-heading prefaces apart.
  */
 function splitPrefaceTitle(title: Localized): { label: Localized; excerpt: Localized } {
   const label: Localized = {}

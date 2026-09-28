@@ -16,12 +16,6 @@ export type DerivePracticeFlowStatusArgs = {
   contentQuery: UseQueryResult<PracticeContent>
 }
 
-// Decide which render branch to show. Precedence:
-//   loading:       have a manifest but the flow blob is still on the wire
-//   missing:       no manifest or no flow → screen needs the "no content" leaf
-//   content-error: flow loaded but resolve/preprocess threw
-//   loading:       still resolving/preprocessing
-//   ready:         sections are in hand
 export function derivePracticeFlowStatus({
   manifest,
   flow,

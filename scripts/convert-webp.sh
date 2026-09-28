@@ -2,8 +2,8 @@
 set -euo pipefail
 
 # Convert all PNGs to WebP in the given directory (or content/ by default).
-# Locally: generates .webp alongside .png so serve:content serves both.
-# CI: called on the staged _site directory before deploy.
+# Locally: generates .webp alongside .png so `pnpm hearth` serves both.
+# CI: called on the staged _site_hearth copy before deploy.
 
 TARGET="${1:-$(cd "$(dirname "$0")/.." && pwd)/content}"
 

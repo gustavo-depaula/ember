@@ -32,7 +32,6 @@ def meditation_id(n):
 
 
 def get_season_keys(temporal, prefix):
-    """Get sorted keys for a season prefix."""
     keys = [k for k in temporal if k.startswith(prefix + "/")]
     def sort_key(k):
         parts = k.split("/")
@@ -63,7 +62,6 @@ def parse_liturgical_refs():
 
 
 def map_sequential(keys, start_med, end_med):
-    """Simple sequential mapping of meditations to keys."""
     result = {}
     med_idx = start_med
     for key in keys:
@@ -97,12 +95,10 @@ def map_with_anchors(keys, anchors, start_med, end_med):
             week_keys[week] = {}
         week_keys[week][day] = key
 
-    # Sort anchors by meditation number
     anchors_sorted = sorted(anchors, key=lambda x: x[0])
 
     # For each anchor, assign the Sunday and fill weekdays
     for anchor_idx, (med_num, week_num) in enumerate(anchors_sorted):
-        # Assign Sunday
         if week_num in week_keys and 0 in week_keys[week_num]:
             result[week_keys[week_num][0]] = {"primary": meditation_id(med_num)}
 
@@ -159,18 +155,14 @@ def build_map():
 
     overflow = []
 
-    # ==========================================
     # ADVENT: 3 weeks, sequential (7 per week)
     # 001=I dom, 008=II dom, 015=III dom
-    # ==========================================
     advent_keys = get_season_keys(temporal, "advent")
     advent_map = map_sequential(advent_keys, 1, 19)
     liturgical_map["temporal"].update(advent_map)
 
-    # ==========================================
     # CHRISTMAS FIXED DATES: meditations 20-41
     # 022=IV dom Avvento, 026=Dec 22, ..., 041=Jan 6
-    # ==========================================
     christmas_dates = {
         "12-20": 20, "12-21": 21, "12-22": 22, "12-23": 23, "12-24": 24,
         "12-25": 25,  # Natività
@@ -191,10 +183,8 @@ def build_map():
     if len(christmas_keys) >= 2:
         liturgical_map["temporal"][christmas_keys[1]] = {"primary": meditation_id(37)}
 
-    # ==========================================
     # EPIPHANY: 5 weeks, sequential (7 per week)
     # 042=I dom, 049=II dom, 056=III dom, 063=IV dom, 070=V dom
-    # ==========================================
     epiphany_keys = get_season_keys(temporal, "epiphany")
     # Only use first 35 keys (5 weeks)
     epiphany_keys_5w = [k for k in epiphany_keys
@@ -213,18 +203,14 @@ def build_map():
             if equiv_key in liturgical_map["temporal"]:
                 liturgical_map["temporal"][key] = liturgical_map["temporal"][equiv_key]
 
-    # ==========================================
     # SEPTUAGESIMA: 3 weeks, sequential (7 per week)
     # 077=Settuagesima, 084=Sessagesima, 091=Quinquagesima
-    # ==========================================
     septuag_keys = get_season_keys(temporal, "septuagesima")
     septuag_map = map_sequential(septuag_keys, 77, 97)
     liturgical_map["temporal"].update(septuag_map)
 
-    # ==========================================
     # LENT: 5 weeks, anchor-based
     # Sundays: 098=I dom, 103=II dom, 110=III dom, 117=IV dom, 124=Passione
-    # ==========================================
     lent_keys = get_season_keys(temporal, "lent")
     lent_anchors = [
         (98, 1),   # I domenica di Quaresima
@@ -237,30 +223,24 @@ def build_map():
     liturgical_map["temporal"].update(lent_map)
     overflow.extend(lent_overflow)
 
-    # ==========================================
     # HOLY WEEK: explicitly labeled, sequential
     # 131=Palm Sunday, 132=Mon, ..., 137=Holy Saturday
-    # ==========================================
     hw_keys = get_season_keys(temporal, "holy-week")
     hw_map = map_sequential(hw_keys, 131, 137)
     liturgical_map["temporal"].update(hw_map)
 
-    # ==========================================
     # FIXED FEASTS (between Holy Week and Easter)
     # 138=Purification (Feb 2), 139=S. Giuseppe (Mar 19),
     # 140=Vita di fede S. Giuseppe, 141=Annunciazione (Mar 25)
-    # ==========================================
     liturgical_map["fixedDates"]["02-02"] = {"primary": meditation_id(138)}
     liturgical_map["fixedDates"]["03-19"] = {"primary": meditation_id(139)}
     liturgical_map["fixedDates"]["03-20"] = {"primary": meditation_id(140)}
     liturgical_map["fixedDates"]["03-25"] = {"primary": meditation_id(141)}
 
-    # ==========================================
     # EASTER: anchor-based (weeks 1-7)
     # 142=Pasqua, 148=in Albis, 152=II dom, 157=III dom,
     # 163=IV dom, 169=V dom
     # Ascension (Easter+39) is in week 6 or 7
-    # ==========================================
     # Generate full Easter key space weeks 1-7 (week 8 = Pentecost handled separately)
     # Don't rely on liguori which ends at easter/6/4
     easter_keys_pre_pentecost = []
@@ -281,20 +261,16 @@ def build_map():
     liturgical_map["temporal"].update(easter_map)
     overflow.extend(easter_overflow)
 
-    # ==========================================
     # PENTECOST WEEK: easter/8/0 through easter/8/6
     # Code: Pentecost Sunday = easter/8/0, Mon-Sat = easter/8/1-6
     # 182=Pentecost Sunday, 183-188=weekdays
-    # ==========================================
     for day in range(7):
         key = f"easter/8/{day}"
         liturgical_map["temporal"][key] = {"primary": meditation_id(182 + day)}
 
-    # ==========================================
     # POST-PENTECOST: anchor-based
     # PP/1/0 = Trinity Sunday = "I Domenica dopo Pentecoste"
     # PP/N/0 = "N Domenica dopo Pentecoste" (NO offset)
-    # ==========================================
     # Generate full PP key space (don't rely on liguori which has gaps)
     pp_keys = []
     for w in range(1, 26):
@@ -362,9 +338,7 @@ def build_map():
     liturgical_map["temporal"].update(pp_map)
     overflow.extend(pp_overflow)
 
-    # ==========================================
     # FIXED FEASTS at end of book
-    # ==========================================
     feast_dates = {
         "10-07": 362,  # Madonna del Rosario
         "10-11": 363,  # Maternità di Maria
@@ -379,9 +353,7 @@ def build_map():
     # Put in reserves since the resolver can't look up "christ-the-king"
     # It will surface via the reserve fallback mechanism.
 
-    # ==========================================
     # RESERVES: unassigned meditations
-    # ==========================================
     assigned = set()
     for section in [liturgical_map["temporal"], liturgical_map["fixedDates"], liturgical_map["feasts"]]:
         for entry in section.values():
@@ -399,7 +371,6 @@ def build_map():
         if mid not in assigned and mid not in liturgical_map["reserves"]:
             liturgical_map["reserves"].append(mid)
 
-    # Report
     temporal_count = len(liturgical_map["temporal"])
     fixed_count = len(liturgical_map["fixedDates"])
     feast_count = len(liturgical_map["feasts"])
@@ -455,13 +426,11 @@ def build_map():
         status = "✓" if actual == expected else "✗"
         print(f"  {status} {key}: expected={expected}, actual={actual}")
 
-    # Print PP anchor summary
     print("\n--- PP Sunday anchors found ---")
     for med, week in sorted(sunday_map.items()):
         ref = refs.get(med, "(no ref)")
         print(f"  giorno-{med:03d} → PP/{week}/0  [{ref}]")
 
-    # Write
     out_path = BASE / "content/practices/gabriel-stmm-intimita-divina/data/liturgical-map.json"
     out_path.write_text(json.dumps(liturgical_map, ensure_ascii=False, indent=2))
     print(f"\nWrote {out_path}")

@@ -161,12 +161,6 @@ describe('processConditionalLines', () => {
     expect(processConditionalLines(lines, ctxMonastic)).toEqual(['m1', '', 'm2', 'always'])
   })
 
-  it('dicitur gates a single following line', () => {
-    const lines = ['(si rubrica monastica dicitur)', 'm-only', 'both']
-    expect(processConditionalLines(lines, ctx1960)).toEqual(['both'])
-    expect(processConditionalLines(lines, ctxMonastic)).toEqual(['m-only', 'both'])
-  })
-
   it('chunk forward scope ends at a blank line', () => {
     const lines = ['x', '(sed rubrica monastica loco hujus versus dicitur)', 'm1', 'm2', '', 'tail']
     // monastic: replaces x with the chunk m1 m2

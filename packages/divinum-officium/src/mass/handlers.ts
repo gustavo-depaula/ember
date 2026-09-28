@@ -23,10 +23,6 @@ async function office(state: MassState, lang: string, fname: string, flag = fals
   return (await officestring(state.day.state, lang, fname, flag)) ?? {}
 }
 
-// ---------------------------------------------------------------------------
-// Small shared helpers
-// ---------------------------------------------------------------------------
-
 export function deTemporePassionis(state: MassState): boolean {
   const { ctx } = state.day
   return (
@@ -129,10 +125,7 @@ export function norubr1(state: MassState, t: string): string {
   return t.replace(/^\s*!(?!!).*?\n/gm, '').replace(/\(.*?\)/g, '')
 }
 
-// ---------------------------------------------------------------------------
-// getitem — proper sections with seasonal Graduale handling
-// ---------------------------------------------------------------------------
-
+// Port of getitem — proper sections with seasonal Graduale handling.
 async function getitem(state: MassState, type: string, lang: string): Promise<string> {
   const { ctx } = state.day
   let w = winnerOf(state, lang)
@@ -179,10 +172,6 @@ async function getitem(state: MassState, type: string, lang: string): Promise<st
   item = item.replace(/\(\(/g, '(').replace(/\)\)/g, ')')
   return item
 }
-
-// ---------------------------------------------------------------------------
-// oratio machinery
-// ---------------------------------------------------------------------------
 
 // Port of setcc.
 function setcc(state: MassState, str: string, code: number, c: Sections): void {
@@ -401,7 +390,7 @@ async function lectionesTemporum(state: MassState, lang: string): Promise<string
 // Port of checksuffragium (missa variant). Upstream replaced the never-set
 // $seasonalflag with `$testmode ne 'Temporal'` — and missa.pl normalizes
 // $testmode to regular/Seasonal/Season/Saint, never 'Temporal' — so these
-// three guards, dead until now, always apply.
+// three guards always apply.
 function checksuffragium(state: MassState): boolean {
   const version = state.day.ctx.version
   if (/no suffragium/i.test(state.rule)) return false
@@ -662,9 +651,7 @@ async function oratio(state: MassState, lang: string, type: string): Promise<str
   return retvalue
 }
 
-// ---------------------------------------------------------------------------
-// Hooks (the !*&name and !&name directives)
-// ---------------------------------------------------------------------------
+// Hooks (the !*&name and !&name directives).
 
 export function gloriflag(state: MassState): boolean {
   const { ctx } = state.day
@@ -756,9 +743,7 @@ export const hooks: Record<string, (state: MassState) => Promise<boolean> | bool
   },
 }
 
-// ---------------------------------------------------------------------------
-// ScriptFuncs (& functions in the Ordo script)
-// ---------------------------------------------------------------------------
+// ScriptFuncs (& functions in the Ordo script).
 
 export const scriptFunctions: Record<
   string,
@@ -926,7 +911,7 @@ export const scriptFunctions: Record<
     return state.texts.prayer('Gloria', lang)
   },
   // The Perl renders a popup link labelled 'Communio' (the faithful's
-  // communion devotions, Ordo/Communio.txt). TODO(M8): inline the content.
+  // communion devotions, Ordo/Communio.txt). TODO: inline the content.
   Communio_Populi: () => 'Communio\n',
   Ultimaev: async (state, lang) => {
     const { ctx } = state.day

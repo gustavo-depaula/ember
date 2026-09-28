@@ -104,8 +104,7 @@ export function CommitmentRow({
         borderColor="rgba(255,255,255,0.06)"
       >
         {/* Disc — template emoji on the template tint, otherwise a kind glyph
-            on the kind's signature color. Bigger than the previous treatment
-            so the row reads as content-with-an-icon, not a thin list cell. */}
+            on the kind's signature color. */}
         <View
           width={52}
           height={52}

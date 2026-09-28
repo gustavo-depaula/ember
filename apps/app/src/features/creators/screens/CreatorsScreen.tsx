@@ -131,7 +131,6 @@ export function CreatorsScreen() {
   return (
     <ScreenLayout>
       <YStack paddingVertical="$lg" gap="$xl">
-        {/* Header */}
         <YStack gap="$xs">
           <Typography variant="sacred-title" fontSize="$5" color="$color" textAlign="left">
             {t('creators.title')}
@@ -141,7 +140,7 @@ export function CreatorsScreen() {
           </Text>
         </YStack>
 
-        {/* Language filter pills — also bleeds so chips align with carousels */}
+        {/* Bleeds like the carousels, so the chips align with them. */}
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
@@ -158,7 +157,6 @@ export function CreatorsScreen() {
           ))}
         </ScrollView>
 
-        {/* Sections */}
         {totalVisible === 0 ? (
           <YStack alignItems="center" padding="$xl">
             <Text fontFamily="$body" fontSize="$2" color="$colorSecondary" textAlign="center">
@@ -198,7 +196,6 @@ export function CreatorsScreen() {
           </XStack>
         )}
 
-        {/* Suggest a creator */}
         <YStack paddingTop="$md">
           <AnimatedPressable
             onPress={() => openExternalUrl(SUGGEST_CREATOR_URL)}

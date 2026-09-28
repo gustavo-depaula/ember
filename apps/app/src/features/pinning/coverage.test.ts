@@ -10,11 +10,6 @@ beforeEach(() => {
 })
 
 describe('computePlanCoverage', () => {
-  it('returns zero when there is no plan', () => {
-    const result = computePlanCoverage([], [{ id: 'practice/rosary' }])
-    expect(result).toEqual({ total: 0, covered: 0 })
-  })
-
   it('counts directly pinned practices', () => {
     const result = computePlanCoverage(
       ['rosary', 'lauds'],

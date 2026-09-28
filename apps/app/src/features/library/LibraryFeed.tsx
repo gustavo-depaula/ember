@@ -25,15 +25,15 @@ import { useUserCollections } from './userCollectionHooks'
 // surface the most recently saved items first.
 type Shelf = Array<[id: string, entry: CatalogEntry, savedAt: number]>
 
-/**
- * The user's own shelf, shown on Me, built from what they've gathered: their
- * own collections, shelves of saved books, prayers, and
- * collections, and a gallery of holy cards. Saving is a lightweight bookmark (offline is separate), so a shelf can
- * be deep without costing storage. Derived off the live catalog, so a shelf
- * fills in as deferred manifests warm (`useCatalogVersion`).
- */
 const newCollectionTone = toneForKey('new-collection')
 
+/**
+ * The user's own shelf, shown on Me: their own collections, shelves of saved
+ * books, prayers and collections, and a gallery of holy cards. Saving is a
+ * bookmark (offline is separate), so a shelf can be deep without costing
+ * storage. Derived off the live catalog, so a shelf fills in as deferred
+ * manifests warm (`useCatalogVersion`).
+ */
 export function LibraryFeed() {
   const { t } = useTranslation()
   const router = useRouter()

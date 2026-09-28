@@ -396,9 +396,8 @@ function TocRowFrame({ children }: { children: ReactNode }) {
 }
 
 /**
- * One row of the collapsible Sumário. Group nodes (with children) toggle
- * expand/collapse in place; leaf nodes open the reader. Fixed height so the
- * list virtualizes via getItemLayout — the 12k-chapter Encyclopedia stays smooth.
+ * Fixed height so the list virtualizes via getItemLayout — the 12k-chapter
+ * Encyclopedia stays smooth.
  */
 function TocTreeRow({
   item,
@@ -470,10 +469,9 @@ function TocTreeRow({
   const isCurrent = !!currentChapterId && node.id === currentChapterId
   const isCompleted = completed.has(node.id)
 
-  // Plain router.push instead of ZoomLink. AppleZoom triggered from a row
-  // inside a scrollable list appears to leave a snapshot view that blocks
-  // taps on the frontispiece after the modal dismisses. The Hero keeps its
-  // zoom morph.
+  // Not a ZoomLink: AppleZoom triggered from a row inside a scrollable list
+  // appears to leave a snapshot view that blocks taps on the frontispiece after
+  // the modal dismisses.
   return (
     <TocRowFrame>
       <Pressable

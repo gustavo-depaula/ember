@@ -37,10 +37,6 @@ TEX_URL = "https://www.lobvm.com/assets/books/BigBookOfLittleOffices.tex"
 TEX_PATH = CACHE / "BigBookOfLittleOffices.tex"
 LEDGER = CACHE / "generated-offices.json"
 
-# ---------------------------------------------------------------------------
-# Canonical hours
-# ---------------------------------------------------------------------------
-
 # id -> (en-US, pt-BR) display names. The `la` label uses the actual header
 # text found in the source (more faithful), filled in per office.
 HOUR_NAMES = {
@@ -90,10 +86,6 @@ def hour_for(header: str) -> str | None:
     first = t.split()[0] if t.split() else ""
     return HOUR_ALIASES.get(first)
 
-
-# ---------------------------------------------------------------------------
-# LaTeX cleaning
-# ---------------------------------------------------------------------------
 
 def _match_brace(s: str, open_idx: int) -> int:
     depth = 0
@@ -338,10 +330,6 @@ def _leading_rubric(raw: str):
     return label, rest
 
 
-# ---------------------------------------------------------------------------
-# Block parsing -> flow sections (single language)
-# ---------------------------------------------------------------------------
-
 _LABEL_NORM = {
     "hymnus": "Hymn", "hymn": "Hymn",
     "ant": "Antiphon", "ant.": "Antiphon", "antiphona": "Antiphon",
@@ -514,10 +502,6 @@ def merge_bilingual(a: list[dict], b: list[dict]) -> list[dict]:
     return out
 
 
-# ---------------------------------------------------------------------------
-# Office extraction
-# ---------------------------------------------------------------------------
-
 class Office:
     def __init__(self, title, part, attribution, intro, blocks, bilingual):
         self.title = title
@@ -682,10 +666,6 @@ def _intro_before(raw: str, env_pat: str) -> str:
     return text.strip()
 
 
-# ---------------------------------------------------------------------------
-# Flow + manifest assembly
-# ---------------------------------------------------------------------------
-
 def _rekey(textdict: dict) -> dict:
     """Re-file substantial text values under the language they actually read in.
 
@@ -810,10 +790,6 @@ def build_flow(office: Office):
     }
     return {"sections": _rekey_tree(opening + [select] + closing)}, len(hour_opts), True
 
-
-# ---------------------------------------------------------------------------
-# Metadata
-# ---------------------------------------------------------------------------
 
 BVM_RITE_IDS = [
     ("roman rite", "little-office-bvm-roman"),
@@ -959,10 +935,6 @@ def make_manifest(office, oid, sort_order, hours):
     return manifest
 
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
-
 def fetch_tex() -> str:
     if not TEX_PATH.exists():
         CACHE.mkdir(parents=True, exist_ok=True)
@@ -1086,8 +1058,6 @@ def main():
         for w in warnings:
             print("  " + w)
 
-
-# --- Supplementary preparatory prayers + collection -----------------------
 
 def write_preparatory():
     flow = {"sections": [

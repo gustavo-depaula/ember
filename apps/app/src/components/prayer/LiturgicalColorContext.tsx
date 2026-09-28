@@ -15,11 +15,8 @@ export function LiturgicalColorProvider({
 }
 
 /**
- * The liturgical-vestment color of the surrounding day, if a
- * LiturgicalColorProvider is in scope. Used as a fallback by primitives
- * that want to thread the color through their accents (section-marker
- * rules, option-card selected borders) without each one needing a
- * colorFrom prop in flow.json.
+ * Fallback for primitives that tint accents in the day's colour, so each
+ * doesn't need a `colorFrom` prop in flow.json.
  */
 export function useLiturgicalColor(): LiturgicalColor | undefined {
   return useContext(Ctx)

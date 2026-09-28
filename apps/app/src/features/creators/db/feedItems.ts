@@ -19,7 +19,7 @@ export type FeedItemRow = {
    * 'youtube-short' is a distinct value from 'youtube' so the profile can
    * split videos and shorts into separate sub-tabs. CreatorChannel.kind in
    * the manifest stays 'youtube' — the split is per-item, derived at fetch
-   * time from YouTube's UULF (videos) vs UUSH (shorts) playlists.
+   * time (see `fetchChannel`).
    */
   channelKind: 'podcast' | 'youtube' | 'youtube-short' | 'rss'
   guid: string
@@ -133,8 +133,6 @@ export async function upsertFeedItems(items: FeedItemDraft[]): Promise<void> {
     const params = chunk.flatMap((item) => bindRow(item, fetchedAt))
     statements.push({ sql, params })
   }
-  // EmberDb wrapper (post-#188) exposes runBatchInTx instead of the raw
-  // SQLite `withTransactionAsync`; statements run in a single transaction.
   await db.runBatchInTx(statements)
 }
 

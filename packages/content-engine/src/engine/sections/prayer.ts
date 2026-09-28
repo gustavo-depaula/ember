@@ -26,7 +26,7 @@ export function resolvePrayerRef(
       },
     ]
   }
-  // Legacy format: body was LocalizedContent before migration to FlowSection[]
+  // Some assets carry `body` as plain LocalizedContent rather than FlowSection[].
   if (!Array.isArray(asset.body)) {
     return [
       {
@@ -43,7 +43,6 @@ export function resolvePrayerRef(
   if (resolved.length === 1 && first?.type === 'prayer') {
     return [{ ...first, title: ec.localize(asset.title), ...openProp }]
   }
-  // Multi-section prayer: wrap in a prayer section with nested sections
   return [
     {
       type: 'prayer',
@@ -73,7 +72,7 @@ export function resolveCanticleRef(
       },
     ]
   }
-  // Legacy format: body was LocalizedContent before migration to FlowSection[]
+  // Some assets carry `body` as plain LocalizedContent rather than FlowSection[].
   if (!Array.isArray(asset.body)) {
     return [
       {

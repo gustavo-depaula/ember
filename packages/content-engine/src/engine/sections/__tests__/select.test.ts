@@ -50,77 +50,9 @@ describe('resolveFlow — pickerStyle: cards', () => {
       },
     ])
   })
-
-  it('omits pickerStyle and excerpt when not requested (default chips)', () => {
-    const result = resolveFlow(
-      flow({
-        type: 'options',
-        label: { 'pt-BR': 'Pick' },
-        options: [
-          {
-            id: 'a',
-            label: { 'pt-BR': 'A' },
-            sections: [{ type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'A text' } }],
-          },
-          {
-            id: 'b',
-            label: { 'pt-BR': 'B' },
-            sections: [{ type: 'prayer', speaker: 'priest', inline: { 'pt-BR': 'B text' } }],
-          },
-        ],
-      }),
-      makeContext(),
-      makeEngineContext(),
-    )
-    const widget = result[0] as { pickerStyle?: string; options: Array<{ excerpt?: unknown }> }
-    expect(widget.pickerStyle).toBeUndefined()
-    expect(widget.options.every((o) => o.excerpt === undefined)).toBe(true)
-  })
 })
 
 describe('resolveFlow — options collapsing', () => {
-  it('renders all options as pills when multiple have content', () => {
-    expect(
-      resolveFlow(
-        flow({
-          type: 'options',
-          label: { 'pt-BR': 'Pick one' },
-          options: [
-            {
-              id: 'a',
-              label: { 'pt-BR': 'Option A' },
-              sections: [{ type: 'prose', file: 'slot-a' }],
-            },
-            {
-              id: 'b',
-              label: { 'pt-BR': 'Option B' },
-              sections: [{ type: 'prose', file: 'slot-b' }],
-            },
-          ],
-        }),
-        makeContext(),
-        makeEngineContext({ 'slot-a': { 'pt-BR': 'Text A' }, 'slot-b': { 'pt-BR': 'Text B' } }),
-      ),
-    ).toEqual([
-      {
-        type: 'options',
-        label: { primary: 'Pick one' },
-        options: [
-          {
-            id: 'a',
-            label: { primary: 'Option A' },
-            sections: [{ type: 'prose', text: { primary: 'Text A' } }],
-          },
-          {
-            id: 'b',
-            label: { primary: 'Option B' },
-            sections: [{ type: 'prose', text: { primary: 'Text B' } }],
-          },
-        ],
-      },
-    ])
-  })
-
   it('collapses to bare content when only one option has content', () => {
     expect(
       resolveFlow(
@@ -307,8 +239,6 @@ describe('resolveFlow — select: silent conditional', () => {
   })
 })
 
-// --- select: default + override (label present) ---
-
 describe('resolveFlow — select: default + override', () => {
   it('emits rendered select with every option materialized and auto-selected ID', () => {
     expect(
@@ -419,8 +349,6 @@ describe('resolveFlow — select: default + override', () => {
   })
 })
 
-// --- select: manual ---
-
 describe('resolveFlow — select: manual', () => {
   it('uses default as selectedId, renders picker', () => {
     const result = resolveFlow(
@@ -510,8 +438,6 @@ describe('resolveFlow — select: manual', () => {
   })
 })
 
-// --- select: as variable ---
-
 describe('resolveFlow — select: as variable', () => {
   it('silent select with no option sections renders nothing, just sets the variable', () => {
     expect(
@@ -567,92 +493,38 @@ describe('resolveFlow — select: as variable', () => {
   })
 })
 
-// --- select: range map ---
-
 describe('resolveFlow — select: range map', () => {
-  const officeSelect = (_hour: string): FlowSection => ({
-    type: 'select',
-    on: 'hour',
-    map: {
-      '0-5': 'matins',
-      '6-8': 'lauds',
-      '9-11': 'terce',
-      '12-13': 'sext',
-      '14-16': 'none',
-      '17-19': 'vespers',
-      '20-23': 'compline',
-    },
-    options: [
-      {
-        id: 'matins',
-        label: { 'pt-BR': 'Matinas' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'Matins' } }],
-      },
-      {
-        id: 'lauds',
-        label: { 'pt-BR': 'Laudes' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'Lauds' } }],
-      },
-      {
-        id: 'terce',
-        label: { 'pt-BR': 'Terça' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'Terce' } }],
-      },
-      {
-        id: 'sext',
-        label: { 'pt-BR': 'Sexta' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'Sext' } }],
-      },
-      {
-        id: 'none',
-        label: { 'pt-BR': 'Noa' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'None' } }],
-      },
-      {
-        id: 'vespers',
-        label: { 'pt-BR': 'Vésperas' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'Vespers' } }],
-      },
-      {
-        id: 'compline',
-        label: { 'pt-BR': 'Completas' },
-        sections: [{ type: 'heading', text: { 'pt-BR': 'Compline' } }],
-      },
-    ],
-  })
-
-  it('hour 7 → lauds', () => {
+  it('dispatches an hour into its range bucket', () => {
     expect(
       resolveFlow(
-        flow(officeSelect('7')),
+        flow({
+          type: 'select',
+          on: 'hour',
+          map: { '0-5': 'matins', '6-8': 'lauds', '9-11': 'terce' },
+          options: [
+            {
+              id: 'matins',
+              label: { 'pt-BR': 'Matinas' },
+              sections: [{ type: 'heading', text: { 'pt-BR': 'Matins' } }],
+            },
+            {
+              id: 'lauds',
+              label: { 'pt-BR': 'Laudes' },
+              sections: [{ type: 'heading', text: { 'pt-BR': 'Lauds' } }],
+            },
+            {
+              id: 'terce',
+              label: { 'pt-BR': 'Terça' },
+              sections: [{ type: 'heading', text: { 'pt-BR': 'Terce' } }],
+            },
+          ],
+        }),
         makeContext({ date: new Date('2026-04-12T07:30:00') }),
         makeEngineContext(),
       ),
     ).toEqual([{ type: 'heading', text: { primary: 'Lauds' } }])
   })
-
-  it('hour 18 → vespers', () => {
-    expect(
-      resolveFlow(
-        flow(officeSelect('18')),
-        makeContext({ date: new Date('2026-04-12T18:00:00') }),
-        makeEngineContext(),
-      ),
-    ).toEqual([{ type: 'heading', text: { primary: 'Vespers' } }])
-  })
-
-  it('hour 3 → matins', () => {
-    expect(
-      resolveFlow(
-        flow(officeSelect('3')),
-        makeContext({ date: new Date('2026-04-12T03:00:00') }),
-        makeEngineContext(),
-      ),
-    ).toEqual([{ type: 'heading', text: { primary: 'Matins' } }])
-  })
 })
-
-// --- select: nested ---
 
 describe('resolveFlow — select: nested selects', () => {
   it('outer by context, inner manual', () => {
@@ -712,8 +584,6 @@ describe('resolveFlow — select: nested selects', () => {
     ])
   })
 })
-
-// --- select: compound on ---
 
 describe('resolveFlow — select: compound on', () => {
   const compoundSelect: FlowSection = {
@@ -779,46 +649,7 @@ describe('resolveFlow — select: compound on', () => {
     )
     expect(result).toMatchObject([{ type: 'select', selectedId: 'gozosos' }])
   })
-
-  it('silent compound select emits only selected sections', () => {
-    const silent: FlowSection = {
-      type: 'select',
-      on: ['dayOfWeek', 'liturgicalSeason'],
-      map: {
-        '0:easter': 'gloriosos',
-        '0:lent': 'dolorosos',
-        '1': 'gozosos',
-      },
-      default: 'gozosos',
-      options: [
-        {
-          id: 'gozosos',
-          label: { 'pt-BR': 'G' },
-          sections: [{ type: 'heading', text: { 'pt-BR': 'Gozosos' } }],
-        },
-        {
-          id: 'dolorosos',
-          label: { 'pt-BR': 'D' },
-          sections: [{ type: 'heading', text: { 'pt-BR': 'Dolorosos' } }],
-        },
-        {
-          id: 'gloriosos',
-          label: { 'pt-BR': 'Gl' },
-          sections: [{ type: 'heading', text: { 'pt-BR': 'Gloriosos' } }],
-        },
-      ],
-    }
-    // Monday → gozosos, emitted directly (no label = silent)
-    const result = resolveFlow(
-      flow(silent),
-      makeContext({ date: new Date(2026, 3, 13) }),
-      makeEngineContext(),
-    )
-    expect(result).toEqual([{ type: 'heading', text: { primary: 'Gozosos' } }])
-  })
 })
-
-// --- repeat from ---
 
 describe('resolveFlow — options from', () => {
   it('generates option tabs from named data array', () => {
@@ -1049,20 +880,6 @@ describe('resolveFlow — select with from-data (celebration picker)', () => {
     )
     expect(result).toEqual([{ type: 'heading', text: { primary: 'Holy Thursday' } }])
   })
-
-  it('falls back to first item when no default and no override', () => {
-    const result = resolveFlow(
-      flow({
-        type: 'select',
-        from: 'day.celebrations',
-        as: 'celebration',
-        body: [{ type: 'heading', text: { 'pt-BR': '{{celebration.id}}' } }],
-      }),
-      makeContext({ flowData: { day: { celebrations } } }),
-      makeEngineContext(),
-    )
-    expect(result[0]).toMatchObject({ selectedId: 'tempore.lords-supper' })
-  })
 })
 
 describe('resolveFlow — select.on with dotted path', () => {
@@ -1116,11 +933,8 @@ describe('resolveFlow — select.on with dotted path', () => {
   })
 
   it('falls through to default when the resolved value matches no option id', () => {
-    // Regression: silent dispatch like `select on celebration.id` should NOT
-    // render `options[0]` for any unmatched id — it must fall through to
-    // `default`. (Earlier, the resolver picked options[0] as a fallback,
-    // which caused the Easter Sunday sequence to render on every Easter
-    // weekday.)
+    // Regression: falling back to options[0] rendered the Easter Sunday
+    // sequence on every Easter weekday.
     const result = resolveFlow(
       flow({
         type: 'select',

@@ -9,8 +9,6 @@ import {
   normalizeDate,
 } from './season'
 
-// ── Types ──
-
 export type AbstinenceLevel = 'full' | 'partial' | 'penance-required' | 'none'
 
 export type DayObligations = {
@@ -19,8 +17,6 @@ export type DayObligations = {
   abstinence: AbstinenceLevel
   details: LocalizedText[]
 }
-
-// ── Jurisdiction rules ──
 
 type JurisdictionRules = {
   fridayOutsideLent: AbstinenceLevel
@@ -36,8 +32,6 @@ const defaultRules: JurisdictionRules = { fridayOutsideLent: 'full' }
 function getRules(jurisdiction: string | undefined): JurisdictionRules {
   return (jurisdiction && jurisdictionRules[jurisdiction]) || defaultRules
 }
-
-// ── Ember day computation (EF only) ──
 
 function getEmberDays(year: number): Date[] {
   const easter = computeEaster(year)
@@ -60,8 +54,7 @@ function getEmberDays(year: number): Date[] {
   const septEmberFri = nextWeekday(sept14, 5)
   const septEmberSat = nextWeekday(sept14, 6)
 
-  // 4. After Dec 13 (St. Lucy) — Wed/Fri/Sat of the week following 3rd Sunday of Advent
-  // Traditional rule: Ember days in Advent are Wed/Fri/Sat after 3rd Sunday of Advent
+  // 4. After Dec 13 (St. Lucy) — Wed/Fri/Sat after the 3rd Sunday of Advent
   const dec13 = new Date(year, 11, 13)
   const adventEmberWed = nextWeekday(dec13, 3)
   const adventEmberFri = nextWeekday(dec13, 5)
@@ -97,8 +90,6 @@ function isEmberDay(date: Date, year: number): boolean {
   return getEmberDays(year).some((d) => format(d, 'yyyy-MM-dd') === key)
 }
 
-// ── EF vigils (fast + abstinence) ──
-
 function getEfVigilDates(year: number): Date[] {
   const easter = computeEaster(year)
   const pentecost = addDays(easter, 49)
@@ -116,8 +107,6 @@ function isEfVigilDay(date: Date, year: number): { isVigil: boolean; dropped: bo
   // If vigil falls on Sunday, obligation is dropped
   return { isVigil: true, dropped: date.getDay() === 0 }
 }
-
-// ── Helpers ──
 
 function isInEasterOctave(date: Date, easter: Date): boolean {
   const diff = date.getTime() - easter.getTime()
@@ -138,8 +127,6 @@ function isHolyDay(date: Date, calendar: Map<string, DayCalendar>): boolean {
   const day = calendar.get(format(date, 'yyyy-MM-dd'))
   return day?.principal?.entry.holyDayOfObligation === true
 }
-
-// ── Main ──
 
 export function getDayObligations(
   date: Date,

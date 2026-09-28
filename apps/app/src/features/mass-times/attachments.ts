@@ -2,9 +2,8 @@
 // attachment cap. Returns undefined if permission is denied or the user cancels.
 //
 // expo-image-picker and expo-image-manipulator bind their native modules at import, so they're loaded
-// DYNAMICALLY here — importing this file (and thus the church detail) never triggers the native
-// binding. Before a native rebuild the dynamic import throws; the caller (ChurchFeedback) catches it
-// and degrades gracefully.
+// dynamically: importing this file never triggers the native binding. Without the native module the
+// dynamic import throws; the caller (ChurchFeedback) catches it and degrades gracefully.
 
 const maxWidth = 1280
 const compress = 0.6

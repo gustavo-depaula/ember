@@ -1,6 +1,6 @@
 // Differential test: resolveDay (the precedence/occurrence port) against the
 // real horascommon.pl, day by day over full years × the three v1 versions.
-// This is the M3 fidelity gate. Skipped when the DO checkout isn't present.
+// Skipped when the DO checkout isn't present.
 
 import { spawnSync } from 'node:child_process'
 import { copyFileSync, rmSync } from 'node:fs'

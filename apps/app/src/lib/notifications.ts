@@ -141,7 +141,6 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
   }
 }
 
-// ── Mass reminders ───────────────────────────────────────────────────────────
 // Recurring weekly reminders before a church's Masses. `weekday` is expo's 1=Sunday..7=Saturday.
 
 export type MassReminderSlot = { weekday: number; hour: number; minute: number }

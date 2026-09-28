@@ -43,9 +43,8 @@ export function CustodyScreen() {
           </YStack>
         )}
 
-        {/* Templates grid — primary path to creating a commitment now that
-            the old top-right "+" is gone. Each card uses Link.AppleZoom so
-            it morphs into the editor on iOS 18+. */}
+        {/* Templates grid — the path to creating a commitment. Each card uses
+            Link.AppleZoom so it morphs into the editor on iOS 18+. */}
         <YStack gap="$sm">
           <Text
             fontFamily="$heading"

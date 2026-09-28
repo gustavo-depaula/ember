@@ -148,16 +148,14 @@ export function resolveSelectFromData(
     })
   }
 
-  // Hide picker when only one item applies and hideIfSingle is set (the common case).
   const hideIfSingle = section.hideIfSingle ?? false
   if (items.length === 1 && hideIfSingle) {
     return resolveItemBody(items[0])
   }
 
-  // Otherwise emit a visible select. Materialize every item's body (cheap —
-  // structure only; include/reading fetches stay lazy per branch in
-  // preprocessFlow) so the renderer can switch tabs client-side without a
-  // full re-resolve.
+  // Materialize every item's body (cheap — structure only; include/reading
+  // fetches stay lazy per branch in preprocessFlow) so the renderer can switch
+  // tabs client-side without a full re-resolve.
   const optionLabels = items.map((it, i) => {
     const rawLabel = getItemLabel(it, section.labelFrom)
     const label = typeof rawLabel === 'string' ? bilingualOf(rawLabel) : ec.localize(rawLabel)

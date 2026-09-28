@@ -1,7 +1,6 @@
 // Adapts the EF calendar rows from @ember/divinum-officium's buildDoYear onto
-// the display calendar's DayCalendar/RankEF shape — the same Map every calendar
-// consumer already expects (so the month grid + day detail are untouched). The
-// EF counterpart of @ember/mass's buildOfYearCalendar.
+// the display calendar's DayCalendar/RankEF shape. The EF counterpart of
+// @ember/mass's buildOfYearCalendar.
 
 import { buildDoYear, type DoCalendarDay, type DoLoader } from '@ember/divinum-officium'
 import type { DayCalendar, RankEF, ResolvedCelebration } from '@ember/liturgical'

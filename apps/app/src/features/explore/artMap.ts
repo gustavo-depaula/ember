@@ -40,8 +40,8 @@ const artFiles: Record<string, string> = {
   'plan-of-life-template/marian-consecration': 'marian.jpg',
   'plan-of-life-template/sacred-heart': 'sacred-heart.jpg',
   'plan-of-life-template/divine-mercy': 'tpl-divine-mercy.jpg',
-  // Second wave. Carmelite reuses St Teresa; legion-of-mary reuses the Marian
-  // Immaculate Conception.
+  // Carmelite reuses St Teresa; legion-of-mary reuses the Marian Immaculate
+  // Conception.
   'plan-of-life-template/carmelite': 'carmelite.jpg',
   'plan-of-life-template/dominican': 'tpl-dominican.jpg',
   'plan-of-life-template/franciscan': 'tpl-franciscan.jpg',

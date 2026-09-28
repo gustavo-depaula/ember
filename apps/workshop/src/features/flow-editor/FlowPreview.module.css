@@ -34,8 +34,6 @@
   outline: none;
 }
 
-/* ── Rendered content area ── */
-
 .rendered {
   flex: 1;
   overflow-y: auto;
@@ -50,8 +48,6 @@
   text-align: center;
   padding: var(--sp-xl);
 }
-
-/* ── Bilingual text ── */
 
 .bilingualPrimary {
   font-family: var(--font-body);
@@ -70,8 +66,6 @@
   white-space: pre-line;
 }
 
-/* ── Divider ── */
-
 .divider {
   display: flex;
   justify-content: center;
@@ -84,8 +78,6 @@
   height: 0.5px;
   background: var(--accent-subtle);
 }
-
-/* ── Heading / Subheading ── */
 
 .heading {
   font-family: var(--font-display);
@@ -107,8 +99,6 @@
   text-transform: uppercase;
 }
 
-/* ── Rubric ── */
-
 .rubric {
   font-family: var(--font-body);
   font-size: var(--text-lg);
@@ -116,8 +106,6 @@
   color: var(--accent);
   margin: var(--sp-sm) 0;
 }
-
-/* ── Meditation ── */
 
 .meditation {
   font-family: var(--font-body);
@@ -129,8 +117,6 @@
   padding-left: var(--sp-md);
   border-left: 3px solid var(--accent-subtle);
 }
-
-/* ── Prayer block ── */
 
 .prayerBlock {
   margin: var(--sp-sm) 0;
@@ -200,8 +186,6 @@
   font-weight: 600;
 }
 
-/* ── Response block (℣. / ℟.) ── */
-
 .responseBlock {
   margin: var(--sp-sm) 0;
   display: flex;
@@ -242,8 +226,6 @@
 .responseText {
   font-weight: 600;
 }
-
-/* ── Select block ── */
 
 .selectBlock {
   margin: var(--sp-sm) 0;
@@ -289,8 +271,6 @@
   gap: var(--sp-sm);
 }
 
-/* ── Options block ── */
-
 .optionsBlock {
   margin: var(--sp-sm) 0;
   display: flex;
@@ -310,8 +290,6 @@
   margin-bottom: var(--sp-xs);
 }
 
-/* ── Prose ── */
-
 .proseBlock {
   font-family: var(--font-body);
   font-size: var(--text-xl);
@@ -319,8 +297,6 @@
   white-space: pre-line;
   margin: var(--sp-sm) 0;
 }
-
-/* ── Image ── */
 
 .imageBlock {
   display: flex;
@@ -356,8 +332,6 @@
   text-align: center;
 }
 
-/* ── Psalmody ── */
-
 .psalmBlock {
   display: flex;
   flex-wrap: wrap;
@@ -373,8 +347,6 @@
   font-size: var(--text-sm);
 }
 
-/* ── Reading / Proper (placeholder blocks) ── */
-
 .readingBlock,
 .properBlock {
   font-family: var(--font-ui);
@@ -385,8 +357,6 @@
   border-radius: var(--radius-md);
   margin: var(--sp-sm) 0;
 }
-
-/* ── Unknown ── */
 
 .unknown {
   font-family: var(--font-ui);

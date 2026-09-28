@@ -8,8 +8,7 @@ export type ShieldEvent = {
   commitmentId: string
   occurredAt: number
   via?: 'prayer' | 'confession' | 'wait'
-  // Idempotency key — extension generates a UUID when enqueueing so
-  // the JS drain can dedupe across multiple foreground cycles.
+  // UUID the extension generates when enqueueing.
   uid: string
 }
 

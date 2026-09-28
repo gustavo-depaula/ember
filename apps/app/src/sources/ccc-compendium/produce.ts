@@ -5,8 +5,8 @@ import { fetchPage } from './fetchPage'
 import { parseChapter } from './parse'
 import type { ChapterId, Lang } from './types'
 
-// Structural-only typing — the package doesn't depend on the app's Primitive
-// union, but the shape it returns must satisfy `ProsePrimitive` over there.
+// Structural-only typing: the shape returned must satisfy the app's
+// `ProsePrimitive`.
 type Inline =
   | { kind: 'text'; text: string }
   | { kind: 'bold'; text: string }
@@ -69,11 +69,10 @@ function innerText(el: Element): string {
   return collapseWs(s)
 }
 
-// A <b> tag can contain a <br> (the source uses this to stack two heading
-// lines like `Section One<br>"I believe" – "We believe"` in one paragraph).
-// Naively calling innerText() on the <b> collapses the break and loses the
-// visual structure. This walker splits a bold run at internal breaks so
-// downstream classification can see each line as its own segment.
+// A <b> can contain a <br> (the source stacks two heading lines like
+// `Section One<br>"I believe" – "We believe"` in one paragraph); innerText()
+// would collapse it. Split the bold run at internal breaks so classification
+// sees each line as its own segment.
 function boldChildrenToInlines(el: Element): Inline[] {
   const out: Inline[] = []
   let buffer = ''
@@ -127,8 +126,7 @@ function childrenToInline(nodes: ChildNode[]): Inline[] {
       const text = innerText(n)
       out.push({ kind: 'ref', ref: n.attribs['data-ref'], text })
     }
-    // Other inline tags (unknown after cleanup) are silently skipped — the
-    // SAX-style walker only emits what we know how to render.
+    // Other inline tags (unknown after cleanup) are skipped.
   }
   return out
 }
@@ -281,8 +279,6 @@ function classifyBlocks(blocks: Block[]): Block[] {
 }
 
 function parseHtmlToBlocks(html: string): Block[] {
-  // htmlparser2's parseDocument is char-by-char (no shared regex state), so
-  // recursion via blockquote is safe and each parse call has its own state.
   const doc = parseDocument(html)
   return classifyBlocks(childrenToBlocks(doc.children))
 }
@@ -354,8 +350,7 @@ export const cccCompendiumSource = {
     // opens Part 2). Parse each chapter we touch exactly once, then group
     // its blocks by question so each Q's prefix content (chapter dividers,
     // intro quotes that appear BEFORE the Q in the source) attaches to that
-    // Q. The old approach sliced FROM `<p id="qN">` forward, which trapped
-    // the next chapter's intro under the previous question.
+    // Q rather than trailing the previous one.
     const chaptersTouched = new Set<ChapterId>()
     for (let q = first; q <= last; q++) chaptersTouched.add(chapterForQuestion(q))
 

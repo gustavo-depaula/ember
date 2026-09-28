@@ -14,22 +14,16 @@ import { parseMarkdown } from './parseMarkdown'
 export { parseMarkdown }
 
 /**
- * One prose paragraph, broken by the same Knuth–Plass pass the prayer surface
- * uses rather than by the platform's greedy justifier.
- *
- * `textAlign: 'justify'` on a native `Text` fills each line in turn and never
- * hyphenates, which at book-paragraph length is the failure justification
- * exists to prevent: rivers of whitespace down the page. `ReadingParagraph`
- * optimizes the paragraph whole and hyphenates in the content's own language,
- * and falls back to ordinary wrapped text whenever the line model isn't
- * available. See `docs/design/typography-justification.md`.
+ * Broken by Knuth–Plass rather than the platform's greedy `textAlign: 'justify'`,
+ * which never hyphenates and leaves rivers of whitespace at book-paragraph
+ * length. See `docs/design/typography-justification.md`.
  */
 function ProseParagraph({
   nodes,
   base = 'regular',
   color = '$color',
-  // A list bullet or number, drawn inline. It has to reach the justifier as a
-  // real segment, or the first line is measured a marker too narrow.
+  // Must reach the justifier as a real segment, or the first line is measured
+  // a marker too narrow.
   marker,
 }: {
   nodes: InlineNode[]

@@ -75,7 +75,6 @@ function BlockView({
           borderLeftColor="$accentSubtle"
           paddingLeft="$md"
           gap="$sm"
-          // Slight top/bottom breathing room so the rule looks intentional.
           paddingVertical="$xxs"
         >
           {block.children.map((c, i) => (
@@ -91,8 +90,6 @@ function BlockView({
           fontFamily="$heading"
           fontWeight="700"
           // Slightly larger than body, in the heading face, to read as a Q.
-          // Tamagui's `$3` token maps to the same scale used by section
-          // headings elsewhere in the app (~17pt on iOS).
           fontSize="$3"
           marginTop="$sm"
         >
@@ -123,8 +120,7 @@ function BlockView({
 
     case 'subheading':
       // The title-case line directly after a heading (e.g. "Man's Capacity
-      // for God"). One step lighter than the heading: smaller size, regular
-      // weight. Same Roman caps face so the two read as a pair.
+      // for God"): one step lighter, same face, so the two read as a pair.
       return (
         <Text
           selectable
@@ -139,8 +135,7 @@ function BlockView({
       )
 
     case 'paragraph-number':
-      // CCC paragraph number marker — appears just before the source's intro
-      // quote for a chapter. Small + muted so it doesn't distract.
+      // CCC paragraph number, just before the source's intro quote for a chapter.
       return (
         <Text
           selectable
@@ -166,14 +161,9 @@ function BlockView({
 }
 
 // Renders pre-parsed prose blocks (produced once by reader-kind sources and
-// cached in external_content). No parsing happens here — the renderer is a
-// pure walk over a typed tree.
-//
-// `showStructure` (default true) controls whether interstitial blocks tagged
-// `structural: true` by the source render. When false the chapter/section
-// dividers and the source's intro quotes drop out, leaving just the question
-// content. Useful when a practice wants the answers without the
-// source-document chrome.
+// cached in external_content); no parsing happens here. `showStructure={false}`
+// drops the blocks a source tags `structural` (chapter/section dividers, intro
+// quotes), for a practice that wants the answers without the document chrome.
 export function ProducerHtmlBlock({
   blocks,
   onRefPress,
@@ -186,9 +176,6 @@ export function ProducerHtmlBlock({
   const visible = showStructure
     ? blocks
     : blocks.filter((b) => {
-        // Plain paragraphs and questions are always shown; everything tagged
-        // structural drops. (A non-structural paragraph in the middle of an
-        // interstitial run is rare but stays — its content isn't chrome.)
         if (b.kind === 'question' || b.kind === 'paragraph') return true
         return !b.structural
       })

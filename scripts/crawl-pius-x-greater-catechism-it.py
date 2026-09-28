@@ -175,7 +175,6 @@ def discover_capi(parte_slug: str) -> list[tuple[str, str]]:
         href = a["href"]
         if not href.startswith(prefix):
             continue
-        # Skip in-page anchors / fragments
         clean_href = href.split("#", 1)[0]
         if clean_href in seen:
             continue

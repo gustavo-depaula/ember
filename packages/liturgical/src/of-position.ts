@@ -10,8 +10,6 @@ import {
   normalizeDate,
 } from './season'
 
-// ── Types ──
-
 export type OfLiturgicalPosition = {
   season: OfSeason
   week: number
@@ -21,8 +19,6 @@ export type OfLiturgicalPosition = {
 }
 
 export type OfSeason = 'advent' | 'christmas' | 'lent' | 'holy-week' | 'easter' | 'ordinary'
-
-// ── Cycle computation ──
 
 /**
  * Returns the liturgical year for a given date. The liturgical year starts
@@ -54,8 +50,6 @@ export function getWeekdayCycle(litYear: number): 'I' | 'II' {
   return litYear % 2 === 1 ? 'I' : 'II'
 }
 
-// ── Helpers ──
-
 function daysBetween(from: Date, to: Date): number {
   return differenceInCalendarDays(normalizeDate(to), normalizeDate(from))
 }
@@ -64,8 +58,6 @@ function weekAndDay(from: Date, to: Date): { week: number; dayOfWeek: number } {
   const days = daysBetween(from, to)
   return { week: Math.floor(days / 7) + 1, dayOfWeek: to.getDay() }
 }
-
-// ── Main function ──
 
 export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
   const d = normalizeDate(date)
@@ -81,7 +73,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
   const adventStart = getFirstSundayOfAdvent(year)
   const baptism = getBaptismOfTheLord(year)
 
-  // ── Christmas Day ──
   if (month === 11 && day === 25) {
     return {
       season: 'christmas',
@@ -92,7 +83,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Advent ──
   const dec25 = new Date(year, 11, 25)
   if (dateOnOrAfter(d, adventStart) && dateBefore(d, dec25)) {
     // Dec 17-24 have their own proper readings (fixed-date, not weekly cycle)
@@ -108,7 +98,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     return { season: 'advent', week, dayOfWeek, key: `advent/${week}/${dayOfWeek}` }
   }
 
-  // ── Christmas season: Dec 26-31 (fixed-date readings) ──
   if (month === 11 && day > 25) {
     return {
       season: 'christmas',
@@ -118,7 +107,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Christmas season: Jan 1 through Baptism of the Lord ──
   const baptismNext = addDays(baptism, 1)
   if (dateBefore(d, baptismNext)) {
     let specialDay: string | undefined
@@ -138,7 +126,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Ash Wednesday + days before 1st Sunday of Lent ──
   if (dateOnOrAfter(d, ashWed) && dateBefore(d, firstSundayOfLent)) {
     const dayOfWeek = d.getDay()
     return {
@@ -150,7 +137,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Holy Week (Palm Sunday through Holy Saturday) ──
   if (dateOnOrAfter(d, palmSunday) && dateBefore(d, easter)) {
     const dayOfWeek = d.getDay()
     let specialDay: string | undefined
@@ -168,13 +154,11 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Lent (1st Sunday through day before Palm Sunday) ──
   if (dateOnOrAfter(d, firstSundayOfLent) && dateBefore(d, palmSunday)) {
     const { week, dayOfWeek } = weekAndDay(firstSundayOfLent, d)
     return { season: 'lent', week, dayOfWeek, key: `lent/${week}/${dayOfWeek}` }
   }
 
-  // ── Easter Sunday ──
   if (daysBetween(easter, d) === 0) {
     return {
       season: 'easter',
@@ -185,7 +169,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Pentecost Sunday ──
   if (daysBetween(pentecost, d) === 0) {
     return {
       season: 'easter',
@@ -196,7 +179,6 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     }
   }
 
-  // ── Easter season (Easter Monday through Saturday before Pentecost) ──
   if (dateOnOrAfter(d, addDays(easter, 1)) && dateBefore(d, pentecost)) {
     const { week, dayOfWeek } = weekAndDay(easter, d)
     let specialDay: string | undefined
@@ -204,20 +186,17 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     return { season: 'easter', week, dayOfWeek, key: `easter/${week}/${dayOfWeek}`, specialDay }
   }
 
-  // ── Ordinary Time I (day after Baptism through day before Ash Wednesday) ──
-  // Count from Baptism Sunday so that the first Sunday after Baptism = Week 2
-  // (there is no "1st Sunday of OT" — Baptism replaces it)
+  // Ordinary Time I counts from Baptism Sunday so that the first Sunday after
+  // Baptism = Week 2 (there is no "1st Sunday of OT" — Baptism replaces it).
   if (dateOnOrAfter(d, baptismNext) && dateBefore(d, ashWed)) {
     const { week, dayOfWeek } = weekAndDay(baptism, d)
     return { season: 'ordinary', week, dayOfWeek, key: `ordinary/${week}/${dayOfWeek}` }
   }
 
-  // ── Ordinary Time II (day after Pentecost through day before Advent) ──
-  // Week numbering counts backward: the last week before Advent is always 34.
+  // Ordinary Time II counts backward: the last week before Advent is always 34.
   const otIIStart = addDays(pentecost, 1)
   if (dateOnOrAfter(d, otIIStart) && dateBefore(d, adventStart)) {
     const dayOfWeek = d.getDay()
-    // Find the Sunday of this liturgical week
     const weekSunday = addDays(d, -dayOfWeek)
     // Christ the King is always the 34th (last) Sunday of OT
     const lastOTSunday = addDays(adventStart, -7)
@@ -225,11 +204,8 @@ export function getOfLiturgicalPosition(date: Date): OfLiturgicalPosition {
     const week = 34 - weeksFromEnd
 
     let specialDay: string | undefined
-    // Trinity Sunday: sunday after Pentecost (easter + 56)
     if (daysBetween(addDays(easter, 56), d) === 0) specialDay = 'trinity-sunday'
-    // Corpus Christi: thursday after Trinity (easter + 60)
     if (daysBetween(addDays(easter, 60), d) === 0) specialDay = 'corpus-christi'
-    // Sacred Heart: friday of 2nd week after Pentecost (easter + 68)
     if (daysBetween(addDays(easter, 68), d) === 0) specialDay = 'sacred-heart'
 
     return { season: 'ordinary', week, dayOfWeek, key: `ordinary/${week}/${dayOfWeek}`, specialDay }

@@ -38,10 +38,6 @@ AUTHOR = {
 }
 
 
-# ---------------------------------------------------------------------------
-# HTML helpers
-# ---------------------------------------------------------------------------
-
 def load_html(path: Path) -> BeautifulSoup:
     text = path.read_text(encoding="utf-8", errors="replace")
     # lxml is required: the Geremia files use unclosed <p> tags pervasively,
@@ -102,10 +98,6 @@ def slug(text: str) -> str:
     return text.strip("-")
 
 
-# ---------------------------------------------------------------------------
-# Summa Theologiae parser
-# ---------------------------------------------------------------------------
-
 # Each Summa question file (FPNNN.html / FSNNN.html / SSNNN.html / TPNNN.html /
 # XPNNN.html) contains one Question, with the proem + articles separated by
 # <hr> elements. Each article has:
@@ -165,7 +157,6 @@ def parse_summa_question(path: Path, part_code: str) -> SummaQuestion:
     qnum_match = re.search(rf"{part_code}(\d+)", path.stem)
     qnum = int(qnum_match.group(1)) if qnum_match else 0
 
-    # Collect anchors in document order.
     sections: list[dict] = []
     for a in body.find_all("a", attrs={"name": True}):
         m = anchor_re.match(a.get("name", ""))
@@ -224,14 +215,8 @@ def parse_summa_question(path: Path, part_code: str) -> SummaQuestion:
     proem = next((s for s in sections if s["kind"] == "proem"), None)
     title_en, title_la, proem_en, proem_la = "", "", "", ""
     if proem:
-        # The proem table puts the title <h3> in BOTH columns of the first row.
-        # The h3 we captured is whichever appeared first in DOM order — the
-        # Latin column. So pull both column h3s for accuracy.
-        # Quick path: use the row data — the first row's two cells are the
-        # title (and contain <h3>). We already collected non-title rows in
-        # "rows" only if the row had 2 tds. So include row 0's two tds.
-        # Actually our collection grabs every tr unconditionally — fine.
-        # Reconstruct: first row's la is la title, en is en title.
+        # The proem table's first row carries the title <h3> in both columns;
+        # take the la/en titles from that row's cells.
         if proem["rows"]:
             la0, en0 = proem["rows"][0]
             # If the first row looks like a title (short, no objection marker),
@@ -351,10 +336,6 @@ def _strip_marker(en: str, kind: str) -> str:
     return en.strip()
 
 
-# ---------------------------------------------------------------------------
-# Summa Theologiae work driver
-# ---------------------------------------------------------------------------
-
 PART_CODES = {
     "FP": ("I", "Prima Pars", "First Part"),
     "FS": ("I-II", "Prima Secundae", "First Part of the Second Part"),
@@ -365,14 +346,12 @@ PART_CODES = {
 
 
 def build_summa_theologiae() -> dict:
-    """Deprecated: the canonical Summa Theologiae is now sourced from
-    aquinas.cc via `python3 scripts/scrape-aquinas-cc.py summa`. The Geremia
-    mirror was inconsistent across questions — some are bilingual <tr>/<td>
-    tables, others (SS Q23–24, much of the Supplementum) are English-only
-    <p> paragraphs with no Latin column — leaving ~580 Latin chapters
-    empty. The aquinas.cc bilingual edition pairs every row across both
-    languages. Original Geremia body kept under `_unused_build_summa_…`
-    for reference."""
+    """Stub: the Summa Theologiae is sourced from aquinas.cc via
+    `python3 scripts/scrape-aquinas-cc.py summa`. The Geremia mirror is
+    inconsistent across questions — some are bilingual <tr>/<td> tables,
+    others (SS Q23–24, much of the Supplementum) are English-only <p>
+    paragraphs with no Latin column. The Geremia importer is kept as
+    `_unused_build_summa_theologiae`."""
     return {"book": "aquinas-summa-theologiae", "skipped": "sourced from aquinas.cc"}
 
 
@@ -419,7 +398,6 @@ def _unused_build_summa_theologiae() -> dict:
                 },
                 "children": [],
             }
-            # Optional proem chapter.
             if q.proem_en or q.proem_la:
                 proem_id = f"{part_code.lower()}-q{q.num:03d}-pr"
                 _write_md(en_dir / f"{proem_id}.md", _proem_md_en(q))
@@ -583,9 +561,6 @@ def _ordinal_la(n: int) -> str:
     return f"{n}m"
 
 
-# ---------------------------------------------------------------------------
-# Catena Aurea parser
-# ---------------------------------------------------------------------------
 # Each Gospel file (CAMatthew.htm, CAMark.htm, CALuke.htm, CAJohn.htm) holds
 # the entire Catena for that Gospel. Chapters open with <a name="N"> where N
 # is the chapter number; the prologue/dedication opens with <a name="0">.
@@ -821,9 +796,6 @@ def build_catena_john() -> dict:
     return build_catena("john")
 
 
-# ---------------------------------------------------------------------------
-# Linear-chapter parser
-# ---------------------------------------------------------------------------
 # Used by SCG (Pegis), Compendium, opuscula, Aristotle commentaries, biblical
 # commentaries. The format is: one HTML file containing a stream of <h2>/<h3>
 # chapter / lectio headers + bilingual <table> bodies, often with a header
@@ -1484,9 +1456,6 @@ def _linear_chapter_md(num, title: str, body: str, label: str) -> str:
     return f"{heading}\n\n{body.strip()}\n"
 
 
-# ---------------------------------------------------------------------------
-# Disputed Questions parser
-# ---------------------------------------------------------------------------
 # Each DQ HTML file holds one Question with N articles. The articles are
 # anchor-delimited (<a name="1">, "2", etc.) and contain "ARTICLE I/II..."
 # header rows followed by bilingual <tr>/<td> pairs. We don't try to split
@@ -1747,11 +1716,10 @@ def build_dq_work(spec: DQWorkSpec) -> dict:
 
 
 def build_quodlibetales() -> dict:
-    """Deprecated: the canonical full bilingual is now sourced from
-    aquinas.cc via scripts/scrape-aquinas-cc.py (slug "quodlibetales",
-    producing book id "aquinas-quodlibetales"). The Geremia mirror only
-    had partial English (Q I–II Edwards, scattered fragments for III–XII)
-    and the article anchoring was fragile, so we don't import it here."""
+    """Stub: Quodlibetales is sourced from aquinas.cc via
+    scripts/scrape-aquinas-cc.py (slug "quodlibetales"). The Geremia mirror
+    only had partial English (Q I–II Edwards, scattered fragments for
+    III–XII) and fragile article anchoring."""
     return {"book": "aquinas-quodlibetales", "skipped": "sourced from aquinas.cc"}
 
 
@@ -1985,10 +1953,6 @@ def _make_dq_builder(key: str):
         return build_dq_work(DQ_WORKS[key])
     return builder
 
-
-# ---------------------------------------------------------------------------
-# Linear-work registrations
-# ---------------------------------------------------------------------------
 
 LINEAR_WORKS: dict[str, tuple[LinearWorkSpec, str | None]] = {
     "compendium-theology": (
@@ -2827,10 +2791,6 @@ def _make_linear_builder(key: str):
 
 
 
-# ---------------------------------------------------------------------------
-# Generic file writers
-# ---------------------------------------------------------------------------
-
 def _write_md(path: Path, body: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(body, encoding="utf-8")
@@ -2843,10 +2803,6 @@ def _write_manifest(book_dir: Path, manifest: dict) -> None:
         encoding="utf-8",
     )
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 WORK_BUILDERS: dict[str, Callable[[], dict]] = {
     "summa-theologiae": build_summa_theologiae,
@@ -2914,7 +2870,6 @@ def main() -> int:
         # rendering. Use `python3 scripts/scrape-aquinas-cc.py work <slug>`
         # (or `summa` / `scg`) for any of these.
         deprecated = {
-            # Round 3-7 replacements (now in scrape-aquinas-cc.py).
             "summa-theologiae", "summa-contra-gentiles", "quodlibetales",
             "sentences",  # super-sententias
             "compendium-corpus-christi", "compendium-theology",
@@ -2928,7 +2883,6 @@ def main() -> int:
             "boethius-de-trinitate",
             "catena-aurea-matthew", "catena-aurea-mark",
             "catena-aurea-luke", "catena-aurea-john",
-            # Round 8 — opuscula + retired works.
             "de-ente-et-essentia", "de-principiis-naturae",
             "de-regno", "de-substantiis-separatis",
             "contra-impugnantes", "contra-retrahentes",

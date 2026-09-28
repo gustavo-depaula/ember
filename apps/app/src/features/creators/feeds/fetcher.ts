@@ -107,9 +107,7 @@ export type PrebuiltCreatorMeta = {
 async function defaultPrebuiltLoader(creatorId: string): Promise<PrebuiltCreatorMeta | null> {
   try {
     // Lazy import: @/lib/hearth transitively pulls in expo-sqlite via the
-    // cache repo, which vitest/jsdom can't parse. Tests inject their own
-    // prebuiltLoader (typically returning null) so this branch is dead in
-    // the test harness.
+    // cache repo, which vitest/jsdom can't parse.
     const { hearthUrl } = await import('@/lib/hearth')
     const slug = creatorId.replace(/^creator\//, '')
     const res = await fetch(hearthUrl(`creator-meta/${slug}.json`))
@@ -121,9 +119,8 @@ async function defaultPrebuiltLoader(creatorId: string): Promise<PrebuiltCreator
 }
 
 /**
- * Pure: fetch + parse all channels for a creator manifest. No DB writes, no
- * debounce — exposed so tests can drive the parsing pipeline without touching
- * SQLite (which transitively imports React Native and breaks vitest).
+ * Fetch + parse all channels for a creator manifest. No DB writes, no debounce,
+ * so tests can drive the parsing pipeline without SQLite.
  */
 export async function fetchCreatorDrafts(
   manifest: CreatorManifest,
@@ -133,9 +130,6 @@ export async function fetchCreatorDrafts(
   const jsonFetcher = opts.jsonFetcher ?? defaultJsonFetcher
   const prebuiltLoader = opts.prebuiltLoader ?? defaultPrebuiltLoader
   const creatorId = manifest.id
-  // Try the prebuilt meta first. It's a single static JSON fetch from the
-  // corpus; when present, the YouTube branch can skip its og:image scrape,
-  // UUSH fetch, and per-video HEAD-probes entirely.
   const prebuilt = await prebuiltLoader(creatorId)
   const items: FeedItemDraft[] = []
   const channelImages: string[] = []
@@ -153,8 +147,6 @@ export async function fetchCreatorDrafts(
 }
 
 export async function refreshCreator(creatorId: string, opts: RefreshOptions = {}): Promise<void> {
-  // Dedupe overlapping calls — the directory's mass-refresh + a profile
-  // mount can fire the same creator twice in quick succession.
   if (inFlight.has(creatorId)) return
   if (!opts.force) {
     const last = lastRefreshedAt.get(creatorId)
@@ -173,9 +165,7 @@ export async function refreshCreator(creatorId: string, opts: RefreshOptions = {
       if (channelImage) {
         await setCreatorImage(creatorId, channelImage)
       }
-      // Only mark a successful refresh — a thrown fetch leaves the debounce
-      // open so the next attempt can retry, instead of permanently locking
-      // the creator out for 30 minutes after a transient blip.
+      // Only a success arms the debounce, so a transient failure can retry.
       lastRefreshedAt.set(creatorId, Date.now())
     })
     if (postRefresh) await postRefresh(creatorId)
@@ -275,13 +265,10 @@ async function fetchChannel(
       if (!channel.channelId) return { drafts: [] }
       const channelUrl = `https://www.youtube.com/feeds/videos.xml?channel_id=${channel.channelId}`
 
-      // When the prebuilt meta is available (the hourly CI run wrote it),
-      // we trust its shortVideoIds list authoritatively — it was computed
-      // by HEAD-probing every video in the channel feed from a clean IP
-      // with no rate-limit risk. Skip the per-device UUSH fetch, og:image
-      // scrape, and probe entirely; just fetch the channel feed for the
-      // current list of items. (The channel image was already pushed by
-      // fetchCreatorDrafts from prebuilt, so we don't return it here.)
+      // Prebuilt shortVideoIds are authoritative — CI HEAD-probed every video
+      // from a clean IP with no rate-limit risk — so skip the per-device UUSH
+      // fetch, og:image scrape and probes. fetchCreatorDrafts already took the
+      // prebuilt channel image.
       if (prebuilt) {
         const channelXml = await fetcher(channelUrl).catch(() => '')
         const channelParsed = channelXml ? parseYoutubeFeed(channelXml) : []
@@ -294,12 +281,10 @@ async function fetchChannel(
         return { drafts }
       }
 
-      // Live fallback for creators added between CI runs (no prebuilt
-      // file yet): the same discovery the build script does, on-device.
-      // UUSH only surfaces the most recent ~15 shorts, so we also HEAD-
-      // probe channel-feed items that aren't in UUSH to catch older
-      // shorts. The og:image scrape provides a channel image since the
-      // Atom feed has none.
+      // Live fallback for creators added between CI runs: the build script's
+      // discovery, on-device. UUSH only surfaces the ~15 most recent shorts, so
+      // channel-feed items missing from it are HEAD-probed; the og:image scrape
+      // supplies the channel image the Atom feed lacks.
       const rest = channel.channelId.replace(/^UC/, '')
       const shortsUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=UUSH${rest}`
       const [channelXml, shortsXml, channelImage] = await Promise.all([

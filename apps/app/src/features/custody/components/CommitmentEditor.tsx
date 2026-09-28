@@ -186,7 +186,6 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
   const [state, setState] = useState<EditorState>(() =>
     mode.kind === 'new' && templateParam ? fromTemplate(templateParam) : emptyState(),
   )
-  // Sheet routing — null = closed, otherwise the picker key.
   const [openSheet, setOpenSheet] = useState<'targets' | 'override' | null>(null)
 
   useEffect(() => {
@@ -347,7 +346,6 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
           </YStack>
         </YStack>
 
-        {/* Settings card */}
         <YStack
           borderRadius="$lg"
           backgroundColor="rgba(255,255,255,0.03)"
@@ -372,7 +370,6 @@ export function CommitmentEditor({ mode }: { mode: Mode }) {
         </YStack>
       </ScrollView>
 
-      {/* Pinned Save button */}
       <YStack paddingHorizontal="$lg" paddingTop="$md" paddingBottom={Math.max(insets.bottom, 16)}>
         <Pressable
           onPress={onSave}
@@ -539,7 +536,6 @@ function ScheduleBlock({
         </Text>
       </XStack>
 
-      {/* Kind chips */}
       <XStack gap="$xs">
         {KIND_OPTIONS.map((kind) => {
           const selected = kind === state.kind

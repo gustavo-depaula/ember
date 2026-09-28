@@ -9,8 +9,6 @@ import {
   getSeptuagesimaSunday,
 } from './season'
 
-// ── Anchor computation ──
-
 export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
   const easter = computeEaster(year)
   const ashWednesday = getAshWednesday(year)

@@ -23,14 +23,13 @@ export type TocLeaf = { id: string; index: number }
 export type BookSession = {
   css: string
   manifest: BookEntry
-  /** Reading-order leaf chapter ids (matches the TOC walk). */
+  /** Reading-flow node ids, indexed like getChapter. */
   chapterIds: string[]
   /** Resolve a chapter's body HTML — markdown parsed, images inlined as data
    *  URIs, and the leading H1 promoted to the role-styled title heading. */
   getChapter(index: number): Promise<string>
-  /** Same as getChapter but returns plain text and skips image inlining;
-   *  cheap path for search snippet anchoring. Result is NOT cached separately
-   *  from getChapter — backs into the same body cache. */
+  /** getChapter without image inlining — the cheap path for search snippets.
+   *  Reads the body cache but never writes to it. */
   getChapterPlain(index: number): Promise<string>
   /** Fire-and-forget prefetch; used for ±N lookahead on relocate. */
   preloadChapter(index: number): void
@@ -39,11 +38,9 @@ export type BookSession = {
 }
 
 /**
- * Rewrite a chapter body's first `<h1>…</h1>` into the role-styled title
- * heading the reader renders (`<h2 class="part-title|section-title|chapter-title">`).
- * The H1 is the canonical displayed title; the TOC label is navigation-only.
- * Markdown can't legally embed an H1 mid-paragraph, so a single string replace
- * of the first H1 is robust. No-op when the body has no leading H1.
+ * Rewrite a chapter body's first `<h1>` into the role-styled title heading the
+ * reader renders. The H1 is the canonical displayed title; the TOC label is
+ * navigation-only.
  */
 export function promoteFirstHeading(body: string, role: TocRole): string {
   return body.replace(
@@ -98,14 +95,10 @@ function inferRole(node: TocNode, depth: number): TocRole {
 
 /**
  * The reading flow: every node the reader paginates through, in DFS preorder.
- * A leaf is always a page (a chapter). A group node (Part/Section) becomes a
- * page only when it carries a body file for this language — otherwise it stays
- * a pure structural grouping, visible in the TOC sheet but not in the flow.
- * Each node is tagged with the role that styles its promoted title heading.
- *
- * Leaves are included unconditionally (matching the old leaf-only walk and
- * external books whose chapter map populates lazily); group-body presence is
- * what newly admits Parts/Sections.
+ * A leaf is always a page, even without a body entry (external books populate
+ * their chapter map lazily). A group node (Part/Section) becomes a page only
+ * when it carries a body file for this language — otherwise it stays a pure
+ * structural grouping, visible in the TOC sheet but not in the flow.
  */
 export function flattenReadingFlow(
   toc: TocNode[],
@@ -306,13 +299,7 @@ async function inlineChapterImages(
   return out
 }
 
-/**
- * Open a reader session for (book, lang). Fetches manifest + CSS up-front,
- * returns a handle that the BookReader uses to stream chapters on demand.
- *
- * Returns undefined when the catalog entry is missing for this book id —
- * the caller is expected to render its own not-found surface.
- */
+/** Undefined when the catalog has no entry for this book id. */
 export async function openBookSession(
   bookId: string,
   lang: string,
@@ -327,7 +314,6 @@ export async function openBookSession(
   // (same flattenReadingFlow inputs; see useReadingFlow) so indices stay aligned.
   const readingFlow = manifest.toc ? flattenReadingFlow(manifest.toc, manifest, lang) : []
   const chapterIds = readingFlow.map((n) => n.id)
-  // Navigation titles — only consulted by the defensive synthesized-body path.
   const titleLookup = manifest.toc
     ? buildTitleLookup(manifest.toc, lang)
     : new Map<string, string>()
@@ -383,11 +369,7 @@ export async function openBookSession(
     manifest,
     chapterIds,
     getChapter,
-    // Plain path bypasses image inlining for search snippet anchoring — saves
-    // a second blob fetch per image times 50 results. Cache-hit if any prior
-    // call (eager or plain) loaded this chapter; otherwise fetches without
-    // inlining and does NOT store the bare body in the cache (so the next
-    // image-needing call still has to do the image pass).
+    // The bare body is not cached, so a later getChapter still inlines images.
     getChapterPlain: async (index) => {
       const cached = cache.get(index)
       if (cached !== undefined) return cached

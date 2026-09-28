@@ -39,10 +39,6 @@ BOOK_NAME_EN = "The Catholic Encyclopedia"
 BOOK_AUTHOR_EN = "Charles G. Herbermann, ed. (Robert Appleton Co., 1907–1914)"
 
 
-# ---------------------------------------------------------------------------
-# HTML → Markdown (shared shape with import-fathers.py, slimmed for cathen)
-# ---------------------------------------------------------------------------
-
 DROP_TAGS = {"script", "style", "noscript"}
 INLINE_TAGS = {"a", "span", "font", "small", "abbr", "cite"}
 
@@ -237,10 +233,6 @@ def html_to_markdown(root: Tag) -> str:
     return "\n\n".join(out)
 
 
-# ---------------------------------------------------------------------------
-# Article extraction
-# ---------------------------------------------------------------------------
-
 @dataclass
 class ArticleSource:
     author: str = ""
@@ -282,10 +274,6 @@ def extract_article(soup: BeautifulSoup) -> Tag | None:
         span.decompose()
     return main
 
-
-# ---------------------------------------------------------------------------
-# Index parsing
-# ---------------------------------------------------------------------------
 
 @dataclass
 class Entry:
@@ -345,10 +333,6 @@ def parse_all_indexes() -> list[Entry]:
     return out
 
 
-# ---------------------------------------------------------------------------
-# Article rendering
-# ---------------------------------------------------------------------------
-
 def render_article(article_id: str) -> tuple[str, str, ArticleSource]:
     """Load an article page, return (title, markdown, source)."""
     path = CATHEN_DIR / f"{article_id}.htm"
@@ -367,10 +351,6 @@ def render_article(article_id: str) -> tuple[str, str, ArticleSource]:
     md = html_to_markdown(main).strip()
     return (title, md, src)
 
-
-# ---------------------------------------------------------------------------
-# Emission
-# ---------------------------------------------------------------------------
 
 def write_book(entries: list[Entry]) -> dict:
     en_dir = BOOK_DIR / "en-US"
@@ -445,10 +425,6 @@ def write_book(entries: list[Entry]) -> dict:
         "letters": len(by_letter),
     }
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 def cmd_prepare_cache() -> None:
     CACHE.mkdir(parents=True, exist_ok=True)

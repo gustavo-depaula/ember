@@ -1,8 +1,6 @@
 /**
- * Extract a contiguous run of numbered CCC paragraphs from vatican.va — used by
- * the daily office / Bible-in-a-year reading source (producer/ccc-chapter).
- * Replaces the old catechism/ccc.json backend. Results are cached upstream by
- * the ContentSource framework (keyed by id/version/lang/params).
+ * Extract a contiguous run of numbered CCC paragraphs from vatican.va, for
+ * producer/ccc-chapter.
  */
 
 import { fetchVaticanPage } from '../vatican/fetchPage'

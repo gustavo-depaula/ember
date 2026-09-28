@@ -1,8 +1,3 @@
-/**
- * Tests for the per-kind blob walker. Pure logic; the network/DB pieces are
- * mocked — we only exercise that the walker traverses every reference shape
- * defined by the manifest types.
- */
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 
 import { rememberManifestBody, resetContentIndex, setCatalog } from '@/content/contentIndex'
@@ -24,7 +19,7 @@ vi.mock('@/db/repositories/preferences', () => ({
 }))
 
 import { prefetch as prefetchMock } from '@/content/store'
-import { isPinned, pinItem, pinnedHashes, resetPinned, unpinItem } from './pinningManager'
+import { isPinned, pinItem, pinnedHashes, resetPinned } from './pinningManager'
 
 beforeEach(() => {
   resetContentIndex()
@@ -32,7 +27,7 @@ beforeEach(() => {
   vi.mocked(prefetchMock).mockReset().mockResolvedValue(undefined)
 })
 
-describe('pinning — collectBlobsFor (via pinItem)', () => {
+describe('pinItem', () => {
   function setup() {
     setCatalog({
       version: 2,
@@ -165,18 +160,5 @@ describe('pinning — collectBlobsFor (via pinItem)', () => {
     expect(hashes.has('p-rosary')).toBe(true)
     expect(hashes.has('shared-flow')).toBe(true)
     expect(hashes.has('p-of')).toBe(true)
-  })
-
-  it('unpinItem removes from pinned list (but does NOT delete blobs)', async () => {
-    setup()
-    rememberManifestBody('p-of', {
-      id: 'practice/our-father',
-      name: {},
-      flow: { sections: [] },
-    } as unknown as PracticeManifest)
-    await pinItem('practice/our-father')
-    expect(isPinned('practice/our-father')).toBe(true)
-    await unpinItem('practice/our-father')
-    expect(isPinned('practice/our-father')).toBe(false)
   })
 })

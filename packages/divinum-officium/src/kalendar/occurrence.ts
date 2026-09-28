@@ -129,9 +129,9 @@ export function emberday(state: KalendarState): boolean {
   )
 }
 
-// Stub of specmatins.pl::initiarule — only affects the "Scriptura ut in"
-// headline decoration; ported with Matins (M7). Returning '' selects the
-// plain "Tempora:"/"Scriptura:" headline forms.
+// Stub of specmatins.pl::initiarule (the real port, in hours/matins.ts, needs
+// HoursState) — here it only affects the "Scriptura ut in" headline
+// decoration. Returning '' selects the plain "Tempora:"/"Scriptura:" forms.
 function initiarule(_month: number, _day: number, _year: number): string {
   return ''
 }
@@ -765,7 +765,7 @@ export async function occurrence(state: KalendarState, tomorrow: boolean): Promi
       ) {
         const ittable = initiarule(month, day, year)
         if (ittable && !/~[A]$/.test(ittable)) {
-          // Ported with Matins (M7); unreachable while initiarule is stubbed.
+          // Unreachable while initiarule is stubbed.
           officename[2] = `Tempora: ${state.trank[0] ?? ''}`
         } else if (!/monastic/i.test(version) || !/(?:Pasc|Pent)/.test(state.tname) || month > 10) {
           officename[2] = `Tempora: ${state.trank[0] ?? ''}`
@@ -958,7 +958,7 @@ export async function occurrence(state: KalendarState, tomorrow: boolean): Promi
     if (!(officename[2] || ctx.missa)) {
       const ittable = initiarule(month, day, year)
       if (ittable && !/~[A]$/.test(ittable)) {
-        // Ported with Matins (M7); unreachable while initiarule is stubbed.
+        // Unreachable while initiarule is stubbed.
       }
     }
   }

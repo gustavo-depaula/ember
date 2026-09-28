@@ -1,6 +1,5 @@
-// ── Ordinary Form — calendar engine (resolveOfDay over the corpus statics) ──
-// The OF Mass is built directly to primitives in the app (`sources/of/`); this
-// package owns only the date→celebrations resolution.
+// Ordinary Form calendar engine: date → celebrations over the corpus statics.
+// The OF Mass itself is built to primitives in the app (`sources/of/`).
 
 export {
   buildOfYearCalendar,

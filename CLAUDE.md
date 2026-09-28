@@ -2,33 +2,31 @@
 
 A multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android), and a platform for preserving and distributing the Catholic literary tradition in open formats. Three pillars: **Fidelity** (plan of life), **Devotion** (saints, liturgical milestones — collectibles that teach, not trophies), **Wisdom** (library, formation, study tools).
 
-Personal/solo project: the user is the only user. Do NOT add database migrations for schema changes unless explicitly asked.
+Personal project with a single user, so schema changes are made in place: add a database migration only when asked.
 
 ## Layout
 
 pnpm workspaces + turborepo:
 - `apps/app/` — Expo app · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview
-- `packages/` — shared libraries (content-engine, divinum-officium, liturgical, mass, mass-propers, …)
-- `content/` — source of truth for the corpus: flat dirs per kind (`practices/`, `books/`, `chapters/`, `collections/`, `of/` and `do/` propers, `bible/`)
-- `research/` — long-running investigations (method + dataset, not app code); see `research/README.md`. Deliberately unstructured — don't impose scaffolding on a project there
-- `docs/` — reference only (architecture, conventions, authoring guides, licensing). `docs/plans/` holds designs for unbuilt features; read one only when working on that feature.
+- `packages/` — shared libraries; `content/` — source of truth for the corpus, one flat dir per kind
+- `research/` — long-running investigations (method + dataset, not app code). Deliberately unstructured: let structure emerge from the work there
+- `docs/` — a few references (content authoring, licensing, design). `docs/plans/` holds designs for unbuilt features; read one only when working on that feature
 
 ## Content architecture
 
-- All content ships as a **content-addressed corpus**. Every prayer, practice, chapter, book, collection and Mass proper is a catalog item with a stable kind-prefixed id (`practice/rosary`, `book/morrow-my-catholic-faith`, `collection/carmelite`). Refs are global ids — no library scoping. A short prayer is just a practice with an inline flow; there is no `prayer` kind.
-- **Practices are pure JSON**: a `manifest.json` + `flow.json`, no app code. The flow DSL (`select`, `repeat`, `cycle`, `proper`, `fragment`) is described in `docs/features/features-overview.md`; the engine is `packages/content-engine/` and must stay practice-agnostic.
-- **Renderer pipeline:** engine output → `apps/app/src/content/preprocessFlow.ts` (async; resolves every `reading`/`psalmody`/`include` through the ContentSource registry) → `PrimitiveBlock` (synchronous switch over the primitives in `apps/app/src/content/primitives.ts`). Block components never fetch.
-- Author structured content as flow DSL in the data, never as text-parsing heuristics in a renderer.
-- **Never put third-party copyrighted text (CCC from vatican.va, Escrivá, Lírio Católico, …) into `content/`, the corpus, or any CI-built artifact.** It is fetched at runtime by a source in `apps/app/src/sources/` and cached on-device only. Licensing per source: `docs/content/content-sources.md`.
-- Build the corpus with `pnpm build:corpus`; `.github/workflows/deploy.yml` publishes it.
-- `content/do/` is the Divinum Officium repo as a git submodule. A new clone or worktree needs `git submodule update --init --depth 1 content/do` before `build:corpus`; never edit inside it.
+- All content ships as a **content-addressed corpus**. Every practice, chapter, book, collection and Mass proper is a catalog item with a stable kind-prefixed id (`practice/rosary`, `book/morrow-my-catholic-faith`). Refs are global ids. A short prayer is a practice with an inline flow; there is no `prayer` kind.
+- **Practices are pure JSON** (`manifest.json` + `flow.json`, no app code). The flow DSL's reference is its types in `packages/content-engine/src/types.ts`; the engine stays practice-agnostic.
+- **Renderer pipeline:** engine output → `apps/app/src/content/preprocessFlow.ts` (async; resolves every `reading`/`psalmody`/`include` through the ContentSource registry) → `PrimitiveBlock` (synchronous switch over `apps/app/src/content/primitives.ts`). Block components never fetch.
+- Author structured content as flow DSL in the data; renderers stay free of text-parsing heuristics, because cues like `Cantors:`/`Refrão:` differ per language.
+- Each liturgical form has one calendar authority driving both its Mass and every display surface: `resolveOfDay` (`@ember/mass`) for the OF, the Divinum Officium engine's `resolveDay` for the EF. Build new calendar features on those, so the Mass and the calendar can never disagree.
+- **Third-party copyrighted text (CCC from vatican.va, Escrivá, Lírio Católico, …) never enters `content/`, the corpus, or any CI-built artifact.** It is fetched at runtime by a source in `apps/app/src/sources/` and cached on-device only. Licensing per source: `docs/content/content-sources.md`.
+- `content/do/` is the Divinum Officium repo as a git submodule — read-only. A new clone or worktree needs `git submodule update --init --depth 1 content/do` before `build:corpus`.
 
 ## Commands
 
 ```bash
 pnpm setup:agent            # fresh container only: python dep, better-sqlite3 addon, DO submodule, corpus build
-pnpm start / start:web      # expo dev server
-pnpm ios / android          # build & run on simulator / device
+pnpm start / ios / android  # expo dev server / build & run
 pnpm test                   # all workspace tests (from apps/app/: app tests only)
 pnpm build:corpus           # content/ → _site/hearth/v2 (app tests need this)
 pnpm hearth                 # build + serve the corpus on :4100 for the dev app
@@ -42,39 +40,43 @@ To see local content changes in the running app, keep `pnpm hearth` serving. A d
 
 ## Code style
 
-Full guide: `docs/CONVENTIONS.md`. The rules that differ from defaults:
-- Functional style — no classes, pure functions, composition
+The rules that differ from defaults (Biome enforces formatting):
+- Functional style — pure functions and composition, no classes
 - `function` for top-level exports, arrow for inline callbacks; named exports only, barrel `index.ts` for folder public APIs
 - Path aliases: `@/components`, `@/features`, `@/stores`, `@/db`, `@/lib`, `@/config`
 - Inline destructured props (no separate Props types)
 - Early returns for guards, loading, and error states
 - `undefined` over `null` — one exception: a TanStack `queryFn` returns `(await load(id)) ?? null`, because Query v5 rejects `undefined` data at runtime and tsc won't catch it
-- Single-level ternaries only; IIFE for multi-branch
-- Constants: camelCase (never SCREAMING_SNAKE_CASE), inline unless reused
-- Colocate types, helpers, and small components with the code that uses them; tests go in `__tests__/` beside the source
-- Strategic comments only — explain 'why', not 'what'
-- Biome formats and lints (single quotes); TypeScript strict
+- Single-level ternaries; an IIFE for multi-branch logic
+- Constants in camelCase, inline unless reused
+- Colocate types, helpers, and small components with the code that uses them
+- Errors reach the user (toast, inline message, error boundary) or propagate. A `catch` that only logs hides the bug: there is no console in a production build
+- Comments explain *why* — a constraint, a platform trap, an upstream quirk — and describe the code as it is now, not its history
 
 ## Patterns
 
 - Zustand stores use immer middleware (mutate drafts)
 - TanStack Query for all DB/async reads, even local SQLite
 - DB access goes through `apps/app/src/db/repositories/`; types in `apps/app/src/db/schema.ts`
+- Content state lives in the corpus blob store and the `cache`/`preferences` tables, not new SQLite tables
+
+## Tests
+
+A test earns its place by catching a regression a user would hit. Write one for logic with real edge cases — calendar and date arithmetic, the flow engine, parsers of external data, Divinum Officium parity — or to reproduce a bug before fixing it. Assert observable behaviour through the public function or the rendered screen, with real data where the harness allows (real SQLite, the built corpus). UI changes are verified by running the app, not by render tests. Tests live in `__tests__/` beside the source.
 
 ## UI/UX
 
-- When the user describes a UI/UX change, ask about the exact visual/interaction model BEFORE writing code. Do not assume overlay/modal patterns — the user often prefers sliding/gesture-driven layouts.
+- When the user describes a UI/UX change, ask about the exact visual/interaction model before writing code. The user often prefers sliding/gesture-driven layouts to overlays and modals.
 - Every new Expo Router screen needs an entry point (home row, shortcut, or settings).
 
 ## Docs and lessons
 
-- There is no docs-first workflow. Don't write a spec before coding, and don't append to a shared doc on every PR.
-- Debugging narrative and "what I learned" go in the PR description. A durable lesson goes in a code comment at the site it concerns; if it spans an area, in the matching `.claude/rules/` file. Add a line only when its absence has caused a mistake twice.
-- If a change makes a reference doc in `docs/` wrong, fix that doc in the same PR. Otherwise leave docs alone.
+- Code is the documentation. Write no specs before coding and no per-PR entries in shared docs.
+- Debugging narrative goes in the PR description. A durable lesson goes in a code comment at the site it concerns; if it spans an area, in the matching `.claude/rules/` file. Add a line only when its absence has caused a mistake twice.
+- If a change makes a doc in `docs/` wrong, fix or delete it in the same PR.
 
 ## Git and issues
 
-- Never add Claude as co-author on commits or issues unless explicitly asked
-- Commit ONLY files directly related to the current task; never unrelated or pre-staged files
+- Commit only files directly related to the current task — never unrelated or pre-staged files — with no co-author trailer
 - When working on a GitHub issue, use auto-closing text in the commit (`Fixes #123`)
 - Work is organized into independent tracks, one umbrella issue each (`gh issue list`); no milestones, no custom labels. Board: https://github.com/users/gustavo-depaula/projects/2

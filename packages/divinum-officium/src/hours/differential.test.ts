@@ -1,6 +1,6 @@
 // Differential test: assembleHour against the real Pofficium.pl (the
 // two-language officium CLI), compared as normalized word streams. Skipped
-// when the DO checkout isn't present.
+// when the DO checkout or .do-golden-lib/ isn't present.
 
 import { spawnSync } from 'node:child_process'
 import { existsSync } from 'node:fs'
@@ -284,9 +284,7 @@ describe.skipIf(!hasHourFixtures)('assembleHour vs real Pofficium', () => {
 
   // Partial versions: assert they assemble for the whole matrix without
   // throwing (the crash/regression guard — the class of bug that breaks the
-  // app on Hermes). Text divergences in their known-incomplete hours
-  // (Tridentine Matins, Barroux Sext) are journaled Phase-1 follow-ups, not
-  // asserted here.
+  // app on Hermes). Text divergences are not asserted.
   for (const version of partialHourVersions) {
     it(`assembles without throwing — ${version}`, { timeout: 1_800_000 }, async () => {
       const loader = createFsLoader(contentDo)

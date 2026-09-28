@@ -29,14 +29,6 @@ type Option = {
   excerpt?: BilingualText
 }
 
-/**
- * Per-slot picker rendering for the choice-rich-text primitive.
- *
- * Renders a chip header (Tmp / Snt / Com chips, hidden when only one option),
- * the selected option's citation (if any), and the selected option's body —
- * walking ember-extra's typed segments (text / rubric / reference / italic /
- * response / signOfCross / dropCap) and styling each accordingly.
- */
 export function ChoiceRichTextBlock({
   label,
   selectedId,
@@ -52,16 +44,13 @@ export function ChoiceRichTextBlock({
   onSelect: (optionId: string) => void
   pickerStyle?: PickerStyle
   hideLabel?: boolean
-  // Static people's response rendered between `introduction` and `body`.
-  // Used on the Gospel slot for the missal's "℟. Glory to you, O Lord."
-  // (the people's response immediately after the priest's announcement).
-  // Doesn't replace the slot's own `response` field, which still renders
-  // after `conclusion` (the post-body "Praise to you, Lord Jesus Christ").
+  // Rendered between `introduction` and `body` — the Gospel's "℟. Glory to you,
+  // O Lord." The slot's own `response` still renders after `conclusion`.
   precedingResponse?: BilingualText
 }) {
-  // All option bodies are always built (the picker needs them), so switching is
-  // a local toggle — no re-resolution, which is what lets a cached producer emit
-  // these slots and still have them switch. onSelect still fires to persist.
+  // Every option body is already built, so switching is a local toggle with no
+  // re-resolution — which lets a cached producer emit these slots. onSelect
+  // still fires to persist.
   const [localId, setLocalId] = useState(selectedId)
   useEffect(() => setLocalId(selectedId), [selectedId])
   const handleSelect = (id: string) => {
@@ -173,17 +162,12 @@ function RichTextBody({ body }: { body: BilingualRichText }) {
 }
 
 /**
- * One line of missal rich text, justified as a single paragraph.
+ * One line of missal rich text, justified as a single paragraph: each typed
+ * segment is a run priced at its own size, so mixed lines still justify.
  *
- * Every typed segment is an inline run: a rubric is burgundy italic, a ℣/℟ mark
- * is set 1.15x and never broken, a reference is muted. justif prices each at
- * its own size and colour, so a line that mixes all three still breaks as one
- * paragraph rather than opting out of justification.
- *
- * A drop cap is the exception the metrics can't cover — it is set in the
- * heading face, which has no generated advance table — so it opens the line as
- * a `lead`, and that line is left to the platform. A drop cap is only ever the
- * line's first letter; one anywhere else is set in the body face.
+ * A leading drop cap is set in the heading face, which has no advance table, so
+ * it becomes a `lead` and the line is left to the platform. A drop cap anywhere
+ * else is set in the body face.
  */
 function FormattedRichTextLine({ line }: { line: RichTextLine }) {
   const reading = useReadingStyle()

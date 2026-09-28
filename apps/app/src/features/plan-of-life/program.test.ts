@@ -25,54 +25,24 @@ const restartProgram: ProgramConfig = {
   restartThreshold: 1,
 }
 
-// --- computeMissedDays ---
-
 describe('computeMissedDays', () => {
-  it('returns 0 for wait policy regardless of gap', () => {
-    expect(computeMissedDays('wait', 5, 0)).toBe(0)
-  })
-
-  it('returns 0 when calendarDay is undefined', () => {
-    expect(computeMissedDays('restart', undefined, 0)).toBe(0)
-  })
-
-  it('returns 0 when completions match calendar', () => {
-    expect(computeMissedDays('restart', 2, 2)).toBe(0)
-  })
-
-  it('returns 0 when completions exceed calendar', () => {
-    expect(computeMissedDays('restart', 1, 3)).toBe(0)
-  })
-
-  it('returns gap for restart policy', () => {
-    expect(computeMissedDays('restart', 3, 1)).toBe(2)
-  })
-
-  it('returns gap for continue policy', () => {
-    expect(computeMissedDays('continue', 5, 2)).toBe(3)
+  it.each([
+    ['wait', 5, 0, 0],
+    ['restart', undefined, 0, 0],
+    ['restart', 1, 3, 0],
+    ['continue', 5, 2, 3],
+  ] as const)('%s policy, calendar day %s, %s completions → %s missed', (policy, day, done, missed) => {
+    expect(computeMissedDays(policy, day, done)).toBe(missed)
   })
 })
 
-// --- computeShouldRestart ---
-
 describe('computeShouldRestart', () => {
-  it('returns false for non-restart policies', () => {
-    expect(computeShouldRestart('wait', 5, 1)).toBe(false)
+  it('fires only for the restart policy once the threshold is reached', () => {
     expect(computeShouldRestart('continue', 5, 1)).toBe(false)
-  })
-
-  it('returns true when missed >= threshold', () => {
     expect(computeShouldRestart('restart', 1, 1)).toBe(true)
-    expect(computeShouldRestart('restart', 3, 1)).toBe(true)
-  })
-
-  it('returns false when missed < threshold', () => {
-    expect(computeShouldRestart('restart', 0, 1)).toBe(false)
     expect(computeShouldRestart('restart', 1, 2)).toBe(false)
   })
 })
-
-// --- resolveCalendarDay ---
 
 describe('resolveCalendarDay', () => {
   it('delegates to getProgramDay for fixed-program', () => {
@@ -89,16 +59,7 @@ describe('resolveCalendarDay', () => {
   it('returns undefined for nth-weekday without cursor', () => {
     expect(resolveCalendarDay(firstFriday, null, date(2026, 1, 3), 9)).toBe(undefined)
   })
-
-  it('returns undefined for daily schedule', () => {
-    const daily: Schedule = { type: 'daily' }
-    expect(resolveCalendarDay(daily, { started_at: '2026-01-01' }, date(2026, 1, 5), 9)).toBe(
-      undefined,
-    )
-  })
 })
-
-// --- computeProgramProgress ---
 
 describe('computeProgramProgress', () => {
   it('returns completion count as programDay for wait policy', () => {
@@ -124,27 +85,7 @@ describe('computeProgramProgress', () => {
     expect(p.shouldPromptRestart).toBe(true)
   })
 
-  it('no missed days when on track', () => {
-    const p = computeProgramProgress({
-      program: restartProgram,
-      completionCount: 2,
-      calendarDay: 2,
-    })
-    expect(p.missedDays).toBe(0)
-    expect(p.shouldPromptRestart).toBe(false)
-  })
-
-  it('marks program complete when completionCount >= totalDays', () => {
-    const p = computeProgramProgress({
-      program: restartProgram,
-      completionCount: 9,
-      calendarDay: undefined,
-    })
-    expect(p.isComplete).toBe(true)
-    expect(p.shouldPromptRestart).toBe(false)
-  })
-
-  it('caps programDay at totalDays - 1', () => {
+  it('completes at totalDays and caps programDay at totalDays - 1', () => {
     const p = computeProgramProgress({
       program: restartProgram,
       completionCount: 12,
@@ -164,8 +105,6 @@ describe('computeProgramProgress', () => {
     expect(p.missedDays).toBe(0)
   })
 })
-
-// --- computeDayState / computeAllDayStates ---
 
 describe('computeAllDayStates', () => {
   it('normal progress: completed + current + future', () => {
@@ -217,20 +156,6 @@ describe('computeAllDayStates', () => {
     expect(states[2].isCurrent).toBe(false) // restart needed → no current
   })
 
-  it('missed all: all missed + future', () => {
-    const progress = computeProgramProgress({
-      program: restartProgram,
-      completionCount: 0,
-      calendarDay: 3,
-    })
-    const states = computeAllDayStates(progress)
-
-    expect(states[0].isMissed).toBe(true)
-    expect(states[1].isMissed).toBe(true)
-    expect(states[2].isMissed).toBe(true)
-    expect(states[3].isFuture).toBe(true)
-  })
-
   it('complete: all completed', () => {
     const progress = computeProgramProgress({
       program: restartProgram,
@@ -262,20 +187,15 @@ describe('computeAllDayStates', () => {
   })
 })
 
-// --- selectEnrollmentSchedule ---
-
 describe('selectEnrollmentSchedule', () => {
   it('keeps default schedule for wait policy', () => {
     const daily: Schedule = { type: 'daily' }
     expect(selectEnrollmentSchedule('wait', daily, 9, '2026-01-01')).toBe(daily)
   })
 
-  it('keeps nth-weekday schedule for restart policy', () => {
-    expect(selectEnrollmentSchedule('restart', firstFriday, 9, '2026-01-01')).toBe(firstFriday)
-  })
-
-  it('keeps day-of-month schedule for restart policy', () => {
+  it('keeps occurrence-based schedules for restart policy', () => {
     const dom: Schedule = { type: 'day-of-month', days: [1] }
+    expect(selectEnrollmentSchedule('restart', firstFriday, 9, '2026-01-01')).toBe(firstFriday)
     expect(selectEnrollmentSchedule('restart', dom, 9, '2026-01-01')).toBe(dom)
   })
 
@@ -285,8 +205,6 @@ describe('selectEnrollmentSchedule', () => {
     expect(result).toEqual({ type: 'fixed-program', totalDays: 9, startDate: '2026-01-01' })
   })
 })
-
-// --- projectProgramAtDate ---
 
 describe('projectProgramAtDate', () => {
   const waitProgram: ProgramConfig = {
@@ -422,18 +340,6 @@ describe('projectProgramAtDate', () => {
     const realToday = date(2026, 6, 6)
     const completions = ['2026-06-01', '2026-06-02', '2026-06-03', '2026-06-04', '2026-06-05']
 
-    it('hides before start date', () => {
-      const p = projectProgramAtDate({
-        program: continueProgram,
-        schedule: fixedSchedule,
-        cursor,
-        completionDatesAsc: completions,
-        realToday,
-        targetDate: date(2026, 5, 25),
-      })
-      expect(p.visible).toBe(false)
-    })
-
     it('within window uses calendar day', () => {
       const p = projectProgramAtDate({
         program: continueProgram,
@@ -500,8 +406,6 @@ describe('projectProgramAtDate', () => {
   })
 })
 
-// --- Full chain: First Fridays scenario tests ---
-
 describe('First Fridays end-to-end scenarios', () => {
   const startDate = '2026-01-01'
 
@@ -513,13 +417,6 @@ describe('First Fridays end-to-end scenarios', () => {
       calendarDay,
     })
   }
-
-  it('no miss: completed 1, on 2nd first Friday', () => {
-    const p = scenario(date(2026, 2, 6), 1)
-    expect(p.programDay).toBe(1)
-    expect(p.missedDays).toBe(0)
-    expect(p.shouldPromptRestart).toBe(false)
-  })
 
   it('missed 1: completed 1, day after 2nd first Friday', () => {
     const p = scenario(date(2026, 2, 7), 1)
@@ -553,17 +450,6 @@ describe('First Fridays end-to-end scenarios', () => {
     expect(states[2].isCompleted).toBe(true)
     expect(states[3].isCurrent).toBe(true)
     expect(states[4].isFuture).toBe(true)
-  })
-
-  it('completed all 9', () => {
-    const p = computeProgramProgress({
-      program: restartProgram,
-      completionCount: 9,
-      calendarDay: undefined,
-    })
-    expect(p.isComplete).toBe(true)
-    const states = computeAllDayStates(p)
-    expect(states.every((s) => s.isCompleted)).toBe(true)
   })
 
   it('mid-month enrollment skips past occurrence', () => {

@@ -6,9 +6,8 @@ import { Text } from 'tamagui'
 import type { useReadingStyle } from '@/hooks/useReadingStyle'
 import { hyphenate } from '@/lib/hyphenate'
 
-// Divinum Officium leaves its own inline markup in the assembled text (the
-// engine deliberately doesn't flatten it — rendering is the app's job). One
-// line of that markup tokenizes into styled runs:
+// Divinum Officium's inline markup, left in the assembled text by the engine
+// (rendering is the app's job), tokenizes into styled runs:
 //   /:X:/   small rubric-toned inline — psalm verse numbers (24:1), the Ps 118
 //           Hebrew-letter headings, and inline directions like (genuflectitur).
 //           DO renders these as <FONT SIZE=1 COLOR=red>.
@@ -46,17 +45,16 @@ export function parseDoInline(line: string): DoRun[] {
   return runs.length > 0 ? runs : [{ kind: 'body', text: line }]
 }
 
-// The single place to tune DO inline typography. `color` is a theme token;
-// `scale` shrinks the run relative to body size (verse numbers ride small).
-// `body` and `smallcaps` render differently and are handled outside this map.
+// `scale` is relative to body size. `body` and `smallcaps` are handled outside
+// this map.
 const runStyle: Partial<Record<DoRunKind, { color: string; scale?: number }>> = {
   mark: { color: '$colorBurgundy', scale: 0.72 },
   point: { color: '$colorBurgundy' },
   mediant: { color: '$colorSecondary' },
 }
 
-// Renders one line of DO markup. `reading` is threaded in from PrayerLines so
-// the hook runs once per block, not once per line.
+// `reading` is threaded in from PrayerLines so the hook runs once per block,
+// not once per line.
 export function DoInlineLine({
   text,
   language,

@@ -9,8 +9,6 @@ import {
 
 import type { DayCalendar, LiturgicalSeason } from '@/lib/liturgical'
 
-// --- Types ---
-
 export type Schedule = ScheduleRule & {
   seasons?: LiturgicalSeason[]
 }
@@ -30,13 +28,9 @@ export type ScheduleContext = {
   dayCalendar?: DayCalendar
 }
 
-// --- Parsing ---
-
 export function parseSchedule(json: string): Schedule {
   return JSON.parse(json) as Schedule
 }
-
-// --- Evaluation ---
 
 export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleContext): boolean {
   if (schedule.seasons?.length && ctx?.season && !schedule.seasons.includes(ctx.season)) {
@@ -92,8 +86,6 @@ export function isFaithful(
   return completionsOnDate > 0
 }
 
-// --- Period helpers ---
-
 export function getPeriodBounds(date: Date, period: 'week' | 'month'): { start: Date; end: Date } {
   if (period === 'week') {
     return {
@@ -107,16 +99,12 @@ export function getPeriodBounds(date: Date, period: 'week' | 'month'): { start: 
   }
 }
 
-// --- Program helpers ---
-
 export function getProgramDay(schedule: Schedule, date: Date): number | undefined {
   if (schedule.type !== 'fixed-program' || !schedule.startDate) return undefined
   const start = parseISO(schedule.startDate)
   const day = differenceInCalendarDays(date, start)
   return day >= 0 && day < schedule.totalDays ? day : undefined
 }
-
-// --- Nth weekday helpers ---
 
 function isNthWeekdayOfMonth(date: Date, n: number, weekday: number): boolean {
   if (date.getDay() !== weekday) return false
@@ -144,8 +132,6 @@ function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekda
   const day = 1 + firstWeekdayOffset + (n - 1) * 7
   return new Date(year, month, day)
 }
-
-// --- Occurrence-based program helpers ---
 
 function generateOccurrences(schedule: Schedule, start: Date, count: number): Date[] {
   if (schedule.type !== 'nth-weekday') return []
@@ -181,7 +167,6 @@ export function getOccurrenceBasedProgramDay(
 
   if (occurrences.length === 0) return undefined
 
-  // Before first occurrence
   if (differenceInCalendarDays(today, occurrences[0]) < 0) return undefined
 
   // Count occurrences strictly before today (occurrences are chronological)

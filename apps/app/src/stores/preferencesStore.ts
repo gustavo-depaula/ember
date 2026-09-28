@@ -33,7 +33,6 @@ function clampLineHeight(value: number) {
 }
 
 type PreferencesState = {
-  // General
   translation: string
   psalterCycle: PsalterCycle
   language: string
@@ -44,19 +43,15 @@ type PreferencesState = {
   timeTravelDate: string | undefined
   persistedTimeTravelDate: string | undefined
 
-  // Content language
   contentLanguage: ContentLanguage
   secondaryLanguage: ContentLanguage | undefined
   displayMode: DisplayMode
 
-  // Theme
   theme: ThemePreference
   readerPalette: ReaderPaletteId
 
-  // Reader UX
   bookReaderHintSeen: boolean
 
-  // Reading config
   fontFamily: ReadingFontId
   fontSizeStep: number
   lineHeightStep: number
@@ -64,10 +59,8 @@ type PreferencesState = {
   textAlign: TextAlignment
   readerFlow: ReaderFlowMode
 
-  // State
   hydrated: boolean
 
-  // General setters
   setTranslation: (translation: string) => void
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
@@ -77,17 +70,14 @@ type PreferencesState = {
   setTimeTravelDate: (date: string | undefined) => void
   setTimeTravelDateEphemeral: (date: string | undefined) => void
 
-  // Content language setters
   setContentLanguage: (lang: ContentLanguage) => void
   setSecondaryLanguage: (lang: ContentLanguage | undefined) => void
   setDisplayMode: (mode: DisplayMode) => void
 
-  // Theme setter
   setTheme: (theme: ThemePreference) => void
   setReaderPalette: (palette: ReaderPaletteId) => void
   setBookReaderHintSeen: (seen: boolean) => void
 
-  // Reading config setters
   setFontFamily: (id: ReadingFontId) => void
   setFontSizeStep: (step: number) => void
   setLineHeightStep: (step: number) => void

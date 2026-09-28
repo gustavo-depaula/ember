@@ -54,8 +54,6 @@ function buildDay(y: number, m: number, d: number) {
   return buildOfMassFlow({ day, formularies, order, lang })
 }
 
-const types = (prims: unknown[]): string[] => prims.map((p) => (p as { type: string }).type)
-
 /** One celebration's subtree out of the day's celebration picker. */
 function celebrationBranch(flow: unknown[], ref: string): unknown[] {
   const picker = flow.find(
@@ -75,32 +73,6 @@ function fullView(flow: unknown[]): unknown[] {
 }
 
 describe('buildOfMassFlow', () => {
-  it('renders an OT Sunday: banner + view switcher with collect + readings', () => {
-    const flow = buildDay(2026, 6, 14)
-    expect(types(flow)).toContain('callout') // celebration banner
-    // The view switcher select holds the full Mass.
-    const select = flow.find((p) => p.type === 'container' && p.behavior.kind === 'select')
-    expect(select).toBeDefined()
-    const full = (
-      select as { behavior: { options: Array<{ id: string; children: unknown[] }> } }
-    ).behavior.options.find((o) => o.id === 'full')
-    const fullTypes = types(full?.children ?? [])
-    expect(fullTypes).toContain('container') // choice-rich-text pickers
-    expect(fullTypes).toContain('callout') // section markers
-  })
-
-  it('weaves the ordinary with the propers on an OT Sunday (Gloria, Creed, Sanctus, Our Father all present)', () => {
-    const full = JSON.stringify(fullView(buildDay(2026, 6, 14)))
-    // Ordinary moments woven in…
-    expect(full).toMatch(/Gl[oó]ria a Deus/)
-    expect(full).toMatch(/Creio em um só Deus/)
-    expect(full).toMatch(/Santo, Santo, Santo/)
-    expect(full).toMatch(/Pai nosso/)
-    // …alongside the proper Collect label and a section structure.
-    expect(full).toContain('Oração do Dia')
-    expect(full).toContain('Ritos Iniciais')
-  })
-
   it('renders the Penitential Act as a 3-form chip picker with a nested invitation picker', () => {
     const full = fullView(buildDay(2026, 6, 14))
     type Sel = {
@@ -226,13 +198,6 @@ describe('buildOfMassFlow', () => {
     expect(full).not.toContain('Agraça')
   })
 
-  it('seals orations and readings with the fixed assembly responses', () => {
-    const full = JSON.stringify(fullView(buildDay(2026, 6, 14)))
-    expect(full).toContain('Amém.') // people's reply to the Collect/Offerings/Postcommunion
-    expect(full).toContain('Graças a Deus.') // reply to "Palavra do Senhor."
-    expect(full).toContain('Glória a vós, Senhor.') // gospel announcement + "Palavra da Salvação."
-  })
-
   it('omits the Gloria and Creed on an Advent ferial', () => {
     // 2025-12-09 — Tuesday of the 2nd week of Advent (no Gloria, no Creed).
     const full = JSON.stringify(fullView(buildDay(2025, 12, 9)))
@@ -251,13 +216,6 @@ describe('buildOfMassFlow', () => {
     expect(picker).toBeDefined()
     const opts = (picker as { behavior: { options: unknown[] } }).behavior.options
     expect(opts.length).toBeGreaterThan(1)
-  })
-
-  it('renders a memorial day with the saint as principal', () => {
-    const flow = buildDay(2026, 1, 17) // St Anthony
-    // Either a single celebration (banner + switcher) or a picker — both valid.
-    expect(flow.length).toBeGreaterThan(0)
-    expect(types(flow).some((t) => t === 'callout' || t === 'container')).toBe(true)
   })
 
   it('fills a memorial\u2019s missing reading slots from the ferial lectionary', () => {

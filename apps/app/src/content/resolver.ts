@@ -210,18 +210,15 @@ export async function warmCriticalManifests(): Promise<void> {
   if ((await warmKinds(CRITICAL_KINDS)) > 0) notifyManifestsWarmed()
 }
 
-/** Runs in parallel with first paint; populates collection / chapter / template / creator manifests. */
+/** Runs in parallel with first paint. */
 export async function warmDeferredManifests(): Promise<void> {
   if ((await warmKinds(DEFERRED_KINDS)) === 0) return
   invalidateMemberOfIndex()
   notifyManifestsWarmed()
 }
 
-/**
- * Resolve `id` to a canonical `kind/id` and read the warmed manifest body.
- * Returns both so callers can dispatch async loads off `canonical` without
- * re-canonicalizing. Returns `undefined` for both when the id is unknown.
- */
+// Returns `canonical` alongside the warmed body so callers can dispatch async
+// loads without re-canonicalizing.
 function residentItem<T>(
   id: string,
   kind: 'practice' | 'chapter' | 'book' | 'mass' | 'creator',
@@ -341,7 +338,6 @@ export async function loadFlow(id: string): Promise<FlowDefinition | undefined> 
   const cached = PRACTICE_FRAGMENTS_CACHE.get(canonical)
   if (cached) return cached
 
-  // Inline flow (short prayers) vs. hashed flow.json (longer practices).
   // structuredClone keeps later image-rewriting from mutating the warmed manifest.
   let flow: FlowDefinition
   if (item.flow) {
@@ -490,11 +486,9 @@ export async function loadMassProper(
       getJson<unknown>((resolved.langs[available] as BlobRef).hash),
     ),
   ])
-  // Key by the corpus' lang code (ember-extra style: 'en', 'pt-BR', 'la'),
-  // not by the user's requested BCP47 code. Downstream consumers ask the
-  // merged formulary for `body.plain[emberExtraLang('en-US')]` = `body.plain['en']`,
-  // so the merge keys MUST match the corpus convention — otherwise English
-  // (and any other lang where requested ≠ available) silently renders empty.
+  // Key by the corpus' lang code ('en', 'pt-BR', 'la'), not the requested
+  // BCP47 code: consumers read `body.plain[emberExtraLang('en-US')]`, so any
+  // other key makes English (or any lang where requested ≠ available) render empty.
   const payloadsByLang = Object.fromEntries(
     fetched.map(({ available }, i) => [available, langPayloads[i]] as const),
   )

@@ -30,8 +30,6 @@ function maxSortOrder(): number {
   return max
 }
 
-// --- Practice reads ---
-
 export function getPractice(practiceId: string): UserPractice | undefined {
   return useEventStore.getState().practices.get(practiceId)
 }
@@ -44,8 +42,6 @@ export function getArchivedPractices(): UserPractice[] {
   }
   return result
 }
-
-// --- Practice mutations ---
 
 export async function createPractice(data: {
   id: string
@@ -153,8 +149,6 @@ export async function deletePractice(practiceId: string): Promise<void> {
   await emit({ type: 'PracticeDeleted', practiceId })
 }
 
-// --- Archive ---
-
 export async function archivePractice(practiceId: string): Promise<void> {
   await emit({ type: 'PracticeArchived', practiceId })
 }
@@ -162,8 +156,6 @@ export async function archivePractice(practiceId: string): Promise<void> {
 export async function unarchivePractice(practiceId: string): Promise<void> {
   await emit({ type: 'PracticeUnarchived', practiceId })
 }
-
-// --- Slot reads ---
 
 export function getEnabledSlots(): SlotState[] {
   const store = useEventStore.getState()
@@ -186,8 +178,6 @@ export function getSlotsForPractice(practiceId: string): SlotState[] {
   }
   return result.sort((a, b) => a.sort_order - b.sort_order)
 }
-
-// --- Slot mutations ---
 
 export async function addSlot(practiceId: string, data: SlotInput): Promise<string> {
   const { event, slotKey } = buildSlotAddedEvent(practiceId, data)
@@ -255,8 +245,6 @@ export const disableSlotsForPractice = (id: string) => setSlotsEnabled(id, 0)
 export async function reorderSlots(orderedIds: string[]): Promise<void> {
   await emit({ type: 'SlotsReordered', orderedSlotKeys: orderedIds })
 }
-
-// --- Completions ---
 
 export async function logCompletion(
   practiceId: string,

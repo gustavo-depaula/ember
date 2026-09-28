@@ -14,7 +14,6 @@ export function usePinnedItems() {
 }
 
 export function useIsPinned(itemId: string | undefined): boolean {
-  // Re-read from the source of truth on every pinned-items invalidation.
   const { data } = usePinnedItems()
   if (!itemId || !data) return false
   return data.some((p) => p.id === itemId)
@@ -78,7 +77,6 @@ export function useClearCache() {
   })
 }
 
-/** Convenience: bool + toggle for the current item. */
 export function usePinToggle(itemId: string | undefined) {
   const pinned = useIsPinned(itemId)
   const pin = usePinItem()
@@ -100,12 +98,9 @@ export function usePinToggle(itemId: string | undefined) {
 
 /**
  * Bulk-pin every corpus practice in a list (e.g. the user's plan-of-life).
- *
- * Resolves each `practiceId` to its catalog item (`practice/<id>`); silently
- * skips ids without a corpus entry (custom user practices) and ids that are
- * already pinned. Best-effort — failures on individual practices log a warning
- * and do not abort the rest. Progress is reported per practice (done/total),
- * not per blob.
+ * Skips ids without a corpus entry (custom user practices) and ids already
+ * pinned. Best-effort: one practice failing doesn't abort the rest. Progress is
+ * per practice, not per blob.
  */
 export function usePinPractices(practiceIds: string[]) {
   const qc = useQueryClient()

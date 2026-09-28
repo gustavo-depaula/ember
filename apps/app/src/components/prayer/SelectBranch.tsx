@@ -7,9 +7,8 @@ import { usePreprocessContext } from '@/content/preprocessRuntime'
 import type { ContainerOption, Primitive } from '@/content/primitives'
 import { Skeleton } from '../Skeleton'
 
-// Query key for a single select branch's preprocessed body. The branch only
-// varies by option id within a given main-query result; lang/translation/day
-// are folded in so it re-resolves when those change (matching the main query).
+// lang/translation/day are folded in so a branch re-resolves when they change,
+// matching the main query.
 export function selectBranchKey(
   practiceId: string,
   overrideKey: string,
@@ -27,12 +26,10 @@ export function selectBranchKey(
   ] as const
 }
 
-// Renders the active branch of a select. The initially-selected (default)
-// branch was preprocessed eagerly with the rest of the flow, so it renders its
-// `children` instantly. Any other branch is preprocessed on demand from
-// `rawSections` (usually already warmed by the prefetch in SelectBlock), with a
-// skeleton shown only while that one branch resolves — the rest of the practice
-// stays put.
+// The default branch was preprocessed eagerly with the flow, so its `children`
+// render instantly. Other branches are preprocessed on demand from
+// `rawSections` (usually warmed by SelectBlock's prefetch), with a skeleton
+// only while that branch resolves.
 export function SelectBranch({
   practiceId,
   overrideKey,
@@ -62,9 +59,8 @@ export function SelectBranch({
   if (branch.data) {
     return <YStack gap="$sm">{branch.data.map(renderSection)}</YStack>
   }
-  // Non-default branch with pre-built `children` and nothing to lazily
-  // preprocess (e.g. the Order-of-Mass form/invitation pickers, which emit
-  // final primitives directly) — render the children as-is.
+  // Pickers that emit final primitives directly (e.g. Order-of-Mass
+  // form/invitation) have nothing to preprocess.
   if (!hasRaw) {
     return option.children.length > 0 ? (
       <YStack gap="$sm">{option.children.map(renderSection)}</YStack>
@@ -73,8 +69,7 @@ export function SelectBranch({
   return <SelectBranchSkeleton />
 }
 
-// A quiet stand-in shaped like a short prayer stanza, shown only in the rare
-// case a branch is tapped before its prefetch has landed.
+// Shown only when a branch is tapped before its prefetch has landed.
 function SelectBranchSkeleton() {
   return (
     <YStack gap="$sm" paddingVertical="$xs">

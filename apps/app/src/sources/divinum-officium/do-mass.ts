@@ -24,7 +24,6 @@ export const doMassSource: ContentSource<Primitive[]> = {
       version: massVersion(ctx.prefs.doVersion),
       lang2: doLangDir(ctx.prefs.lang),
     })
-    // Vernacular column is the user's primary; Latin is the secondary.
     return mapItemsToPrimitives(mass.vernacular ?? mass.latin, mass.latin)
   },
 }

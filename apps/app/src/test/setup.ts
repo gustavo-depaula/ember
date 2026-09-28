@@ -7,12 +7,10 @@
 import '@testing-library/jest-dom/vitest'
 import { cleanup, configure as configureTestingLibrary } from '@testing-library/react'
 
-// `findBy*` defaults to a 1s timeout, independent of a test's own budget. The
-// integration tests that boot the whole app (load the catalog, warm manifests,
-// resolve a flow) routinely need longer than that once the full suite is
-// competing for CPU — which showed up as one test failing per run, but a
-// different one each time. Raise the async-util ceiling; genuinely stuck tests
-// still fail on the 20s testTimeout in vitest.config.ts.
+// `findBy*` defaults to a 1s timeout, independent of a test's own budget.
+// Integration tests that boot the whole app routinely exceed it once the full
+// suite competes for CPU (a different test flaked each run). Stuck tests still
+// fail on the testTimeout in vitest.config.ts.
 configureTestingLibrary({ asyncUtilTimeout: 10_000 })
 import 'fake-indexeddb/auto'
 import { afterEach, beforeAll, vi } from 'vitest'
@@ -107,14 +105,12 @@ afterEach(() => {
   vi.clearAllMocks()
 })
 
-// --- SQLite: real SQLite via better-sqlite3 ---
 vi.mock('expo-sqlite', async () => import('./sqlite-better'))
 
-// --- Router: minimal stub ---
 vi.mock('expo-router', async () => import('./router-fake'))
 
-// --- Reanimated + worklets: hand-rolled stub. The package's own mock.js does
-// `require('./src/mock')` which only resolves under Metro/Jest.
+// Reanimated's own mock.js does `require('./src/mock')`, which only resolves
+// under Metro/Jest.
 vi.mock('react-native-reanimated', async () => {
   const React = await import('react')
   const RN = await import('react-native')
@@ -219,7 +215,7 @@ vi.mock('react-native-worklets', () => ({
   default: {},
 }))
 
-// --- Gesture handler: trivial shim. The full jest setup pokes globals jsdom rejects. ---
+// Gesture handler's own jest setup pokes globals jsdom rejects.
 vi.mock('react-native-gesture-handler', async () => {
   const React = await import('react')
   const RN = await import('react-native')
@@ -286,7 +282,6 @@ vi.mock('react-native-gesture-handler', async () => {
   }
 })
 
-// --- Fonts: pretend they loaded immediately. ---
 vi.mock('expo-font', () => ({
   useFonts: () => [true, undefined] as const,
   loadAsync: async () => {},
@@ -306,8 +301,6 @@ vi.mock('@expo-google-fonts/lora', () => new Proxy({}, { get: (_t, k) => k }))
 vi.mock('@expo-google-fonts/merriweather', () => new Proxy({}, { get: (_t, k) => k }))
 vi.mock('@expo-google-fonts/pinyon-script', () => new Proxy({}, { get: (_t, k) => k }))
 vi.mock('@expo-google-fonts/source-serif-4', () => new Proxy({}, { get: (_t, k) => k }))
-
-// --- Other expo native modules ---
 
 // `expo-crypto` pulls `expo-modules-core`'s `ExpoGlobal.EventEmitter` at import
 // time, which is undefined under jsdom (no Expo native host). Stub the only
@@ -515,7 +508,7 @@ vi.mock('react-native-zoom-toolkit', async () => {
   }
 })
 
-// --- react-native-svg: ship CJS with TS syntax under jsdom. Stub primitives. ---
+// react-native-svg ships CJS with TS syntax, which jsdom can't load.
 vi.mock('react-native-svg', async () => {
   const React = await import('react')
   const tag = (name: string) => (props: Record<string, unknown>) =>
@@ -554,7 +547,6 @@ vi.mock('react-native-svg', async () => {
   }
 })
 
-// --- react-native-safe-area-context ---
 vi.mock('react-native-safe-area-context', async () => {
   const React = await import('react')
   const Passthrough = ({ children }: { children?: React.ReactNode }) =>
@@ -572,11 +564,8 @@ vi.mock('react-native-safe-area-context', async () => {
   }
 })
 
-// --- lucide-react-native: thousands of per-icon files turn into a 30s import
-// here. Stubbing each named icon used in app code as a null-component. ---
+// lucide-react-native's thousands of per-icon files make a 30s import here.
 // Every icon name resolves to a no-op component, so new icons never break tests.
-// Return undefined for symbols / `then` so vitest's module interop (thenable
-// check, Symbol.toStringTag) doesn't mistake an icon function for a promise.
 vi.mock('lucide-react-native', () => {
   const Icon = () => null
   return new Proxy(
@@ -589,9 +578,9 @@ vi.mock('lucide-react-native', () => {
   )
 })
 
-// --- expo-web-browser: requires the ExpoWebBrowser native module at import
-// time, so merely importing a component that links out (LinkBlock, the Explore
-// feeds) throws here and takes the whole screen render down with it. ---
+// expo-web-browser requires the ExpoWebBrowser native module at import time,
+// so merely importing a component that links out (LinkBlock, the Explore
+// feeds) would throw and take the whole screen render down with it.
 vi.mock('expo-web-browser', () => ({
   openBrowserAsync: vi.fn(async () => ({ type: 'opened' })),
   dismissBrowser: vi.fn(),

@@ -9,12 +9,9 @@ import type {
   WebFilterPolicy,
 } from './types'
 
-// `react-native-device-activity` ships pre-built iOS extension targets that
-// the host project consumes via @kingstinct/expo-apple-targets at prebuild
-// time. This adapter translates the Custody-flavored API surface into RNDA's
-// JS calls so the rest of the codebase doesn't have to learn the library's
-// vocabulary. On Android / sim / any platform where the module can't load we
-// return no-ops.
+// Adapter from the Custody API onto `react-native-device-activity` (RNDA),
+// whose iOS extension targets are consumed via @kingstinct/expo-apple-targets
+// at prebuild. Wherever the module can't load, every call is a no-op.
 type RNDA = typeof import('react-native-device-activity')
 
 function loadRNDA(): RNDA | undefined {
@@ -60,7 +57,7 @@ const ACCENT = { red: 212, green: 166, blue: 58, alpha: 1 } // #D4A63A — reliq
 const ACCENT_INK = { red: 14, green: 13, blue: 12, alpha: 1 } // dark text on gold
 
 // RNDA's TS types omit the `openUrl` action even though the Swift shield
-// extension handles it (see ShieldActionExtension.swift line 120). The
+// extension handles it (ShieldActionExtension.swift). The
 // extension reads `type` and `url` from the dictionary directly, so casting
 // past the discriminated-union type at the call site is safe.
 type RndaShieldActions = Parameters<RNDA['updateShieldWithId']>[1]
@@ -136,16 +133,9 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
     }
   }
 
-  // Write the shield config under every key the extension might read:
-  //   - `shieldConfiguration` / `shieldActions` (default fallback, used for
-  //     any blocked app/domain when no per-selection match is found)
-  //   - `shieldConfigurationForSelection_<id>` / `shieldActionsForSelection_<id>`
-  //     (per-FamilyActivitySelection override, used when the blocked token
-  //     belongs to a known selection in a monitored activity)
-  // updateShieldWithId() only writes the `shieldConfiguration_<id>` template,
-  // which RNDA's `blockSelection` action shield-button reads — that's not the
-  // same as what the extension reads upfront. So we also write the keys
-  // above explicitly via userDefaultsSet.
+  // updateShieldWithId() only writes the `shieldConfiguration_<id>` template
+  // that shield-button actions read, not the keys the extension reads upfront,
+  // so those are written explicitly.
   const writeShield = (snap: CommitmentSnapshot) => {
     const { configuration, actions } = buildShieldPayload(snap)
     const typedActions = actions as unknown as RndaShieldActions
@@ -154,7 +144,6 @@ function buildCustodyNative(rnda: RNDA): CustodyNative {
     rnda.userDefaultsSet(SHIELD_ACTIONS_FALLBACK, typedActions)
     rnda.userDefaultsSet(`${SHIELD_CONFIG_PER_SELECTION_PREFIX}${selectionId}`, configuration)
     rnda.userDefaultsSet(`${SHIELD_ACTIONS_PER_SELECTION_PREFIX}${selectionId}`, typedActions)
-    // Preserve the templated form too — shield-button actions look it up.
     rnda.updateShieldWithId(configuration, typedActions, selectionId)
   }
 

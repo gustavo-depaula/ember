@@ -1,6 +1,7 @@
 // Differential test: assembleMass against the real Cmissa.pl, compared as
 // normalized word streams (rendering is ours; the assembled CONTENT and its
-// order must match). Skipped when the DO checkout isn't present.
+// order must match). Skipped when the DO checkout or .do-golden-lib/ isn't
+// present.
 
 import { spawnSync } from 'node:child_process'
 import { existsSync } from 'node:fs'
@@ -28,8 +29,8 @@ const dates: Array<[number, number, number]> = [
   [6, 4, 2026], // Corpus Christi
   [9, 23, 2026], // September Ember Wednesday
   // All Souls (11-2) is excluded: DO's multiple-Mass mechanism (missanumber)
-  // renders 'Introitus missing' without a user selection — multi-Mass support
-  // is a TODO for M8.
+  // renders 'Introitus missing' without a user selection, and multi-Mass
+  // support isn't ported.
   [11, 1, 2026], // All Saints
   [2, 2, 2027], // Candlemas
   [8, 15, 2026], // Assumption

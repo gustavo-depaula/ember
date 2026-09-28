@@ -1,14 +1,10 @@
 import { Stack } from 'expo-router'
 import { useTheme } from 'tamagui'
 
-// Shared array group: the same route files back all three tabs (today/you/
-// search), each with its own independent stack. Detail routes
-// (bible, browse, creators, …) therefore stay reachable from whichever tab is
-// active while the native tab bar + now-playing accessory remain visible (Apple
-// Podcasts pattern) — and "back" returns to the tab you opened them from. The
-// per-segment anchors below pick each tab's root screen; Today keeps `index` so
-// `/` still resolves to it (and the existing router.push('/') "go home" calls
-// keep working). Search anchors on `search` (the portfolio + iOS search bar).
+// Shared array group: the same route files back all three tabs, each with its
+// own stack, so detail routes stay reachable from whichever tab is active and
+// "back" returns to the tab you opened them from. Today keeps the `index`
+// anchor so `/` (router.push('/') "go home") still resolves to it.
 export const unstable_settings = {
   anchor: 'index',
   you: { anchor: 'you' },
@@ -21,8 +17,7 @@ export default function TabStackLayout() {
     <Stack
       screenOptions={{
         headerShown: false,
-        // Native push (slide-from-right + parallax + interactive swipe-back).
-        // contentStyle paints the background so no white flash peeks mid-slide.
+        // Paints the background so no white flash peeks mid-slide.
         contentStyle: { backgroundColor: theme.background?.val },
       }}
     />

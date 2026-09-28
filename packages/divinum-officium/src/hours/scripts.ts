@@ -272,7 +272,7 @@ export const hourScriptFunctions: Record<
     return `${name} is missing`
   },
 
-  versiculum_ante_laudes: () => '', // Ordo Praedicatorum only — out of v1 scope.
+  versiculum_ante_laudes: () => '', // Ordo Praedicatorum only — not ported.
 
   lectio: async (state, lang, args) => {
     const { lectioFn } = await import('./matins')

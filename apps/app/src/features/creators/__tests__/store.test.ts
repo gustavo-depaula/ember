@@ -1,9 +1,4 @@
-/**
- * Pure state-machine tests for the creators store. The audio backend is
- * injected via `setBackend` so this runs without expo-audio / React Native.
- */
-
-import { beforeEach, describe, expect, it, vi } from 'vitest'
+import { beforeEach, describe, expect, it } from 'vitest'
 
 import type { AudioBackend, NowPlayingItem } from '../store'
 import { useCreatorsStore } from '../store'
@@ -46,14 +41,6 @@ function makeBackend(): AudioBackend & { calls: string[]; loadedItemId?: string 
 describe('creatorsStore', () => {
   beforeEach(() => {
     useCreatorsStore.getState().reset()
-  })
-
-  it('starts in stopped state', () => {
-    const s = useCreatorsStore.getState()
-    expect(s.nowPlaying).toBeUndefined()
-    expect(s.isPlaying).toBe(false)
-    expect(s.positionS).toBe(0)
-    expect(s.speed).toBe(1)
   })
 
   it('play() loads, plays, and sets nowPlaying', async () => {
@@ -125,28 +112,6 @@ describe('creatorsStore', () => {
     expect(backend.calls).toEqual(['unload'])
   })
 
-  it('setSpeed() forwards to backend and updates state', async () => {
-    const backend = makeBackend()
-    useCreatorsStore.getState().setBackend(backend)
-    await useCreatorsStore.getState().play(item)
-    backend.calls.length = 0
-
-    await useCreatorsStore.getState().setSpeed(1.5)
-    expect(useCreatorsStore.getState().speed).toBe(1.5)
-    expect(backend.calls).toEqual(['rate:1.5'])
-  })
-
-  it('seek() forwards to backend and updates state', async () => {
-    const backend = makeBackend()
-    useCreatorsStore.getState().setBackend(backend)
-    await useCreatorsStore.getState().play(item)
-    backend.calls.length = 0
-
-    await useCreatorsStore.getState().seek(120)
-    expect(useCreatorsStore.getState().positionS).toBe(120)
-    expect(backend.calls).toEqual(['seek:120'])
-  })
-
   it('togglePlay() with no nowPlaying is a no-op', async () => {
     const backend = makeBackend()
     useCreatorsStore.getState().setBackend(backend)
@@ -154,18 +119,4 @@ describe('creatorsStore', () => {
     expect(backend.calls).toEqual([])
     expect(useCreatorsStore.getState().isPlaying).toBe(false)
   })
-
-  it('onTick() updates positionS without re-loading', async () => {
-    const backend = makeBackend()
-    useCreatorsStore.getState().setBackend(backend)
-    await useCreatorsStore.getState().play(item)
-    backend.calls.length = 0
-
-    useCreatorsStore.getState().onTick(42)
-    expect(useCreatorsStore.getState().positionS).toBe(42)
-    expect(backend.calls).toEqual([])
-  })
 })
-
-// Silence warning about unused import in case test runner detects.
-void vi

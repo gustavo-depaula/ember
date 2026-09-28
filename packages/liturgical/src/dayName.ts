@@ -79,7 +79,6 @@ export function getLiturgicalDayName(
     return t('home.liturgicalDay.afterAshWednesday', { day: dayName(t, `${dow}`) })
   }
 
-  // Holy Week
   if (dateOnOrAfter(d, palmSunday) && dateBefore(d, easter)) {
     if (daysSince(palmSunday, d) === 0) return named(t, 'palmSunday')
     if (daysSince(easter, d) === -3) return named(t, 'holyThursday')
@@ -88,7 +87,6 @@ export function getLiturgicalDayName(
     return t('home.liturgicalDay.holyWeekDay', { day: dayName(t, `${dow}`) })
   }
 
-  // Easter and Pentecost
   if (daysSince(easter, d) === 0) return named(t, 'easterSunday')
   if (daysSince(pentecost, d) === 0) return named(t, 'pentecost')
 
@@ -103,7 +101,6 @@ export function getLiturgicalDayName(
     return t('home.liturgicalDay.christmasOrdinal', { ordinal: t(`ordinal.${daysAfter + 1}`) })
   }
 
-  // Advent
   if (dateOnOrAfter(d, adventStart) && month >= 10) {
     return formatWeekday(t, adventStart, d, 'advent')
   }
@@ -133,7 +130,6 @@ export function getLiturgicalDayName(
     const sexagesima = addDays(easter, -56)
     const quinquagesima = addDays(easter, -49)
 
-    // Septuagesimatide
     if (dateOnOrAfter(d, septuagesima) && dateBefore(d, ashWed)) {
       if (daysSince(septuagesima, d) === 0) return named(t, 'septuagesima')
       if (daysSince(sexagesima, d) === 0) return named(t, 'sexagesima')
@@ -141,7 +137,6 @@ export function getLiturgicalDayName(
       return formatWeekday(t, septuagesima, d, 'septuagesima')
     }
 
-    // Epiphanytide
     const jan14 = new Date(year, 0, 14)
     if (dateOnOrAfter(d, jan14) && dateBefore(d, septuagesima)) {
       const jan6 = new Date(year, 0, 6)
@@ -149,7 +144,6 @@ export function getLiturgicalDayName(
       return formatWeekday(t, firstSundayAfterEpiphany, d, 'epiphany')
     }
 
-    // Post-Pentecost
     const trinitySunday = addDays(easter, 56)
     if (dateOnOrAfter(d, trinitySunday)) {
       if (daysSince(trinitySunday, d) === 0) return named(t, 'trinitySunday')
@@ -163,7 +157,6 @@ export function getLiturgicalDayName(
     }
   }
 
-  // OF Ordinary Time
   const baptismNext = addDays(baptism, 1)
 
   // Ordinary Time I (after Baptism, before Lent)

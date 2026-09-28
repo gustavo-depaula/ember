@@ -40,7 +40,6 @@ const prior = priorPath ? readJsonl<IdMapping>(priorPath) : []
 const rows = buildRows(dump, prior)
 writeFileSync(outputPath, rowsToSql(rows, { upsert }))
 
-// One row per church now — services/texts/links are embedded JSON columns on it.
 process.stdout.write(`Wrote ${rows.churches.length} church rows → ${outputPath}\n`)
 
 if (rows.mapping.length) {

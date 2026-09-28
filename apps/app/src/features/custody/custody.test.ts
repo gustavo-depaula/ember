@@ -120,8 +120,7 @@ describe('Custody repository', () => {
       anchorType: 'text',
       plannedSeconds: 1,
     })
-    // started_at is now, planned 1s — wait 1.1s real time would be flaky;
-    // instead reach into SQLite to backdate started_at.
+    // Backdate started_at rather than sleep past the planned second.
     const { getDb } = await import('@/db/instance')
     await getDb().runAsync('UPDATE custody_sessions SET started_at = ? WHERE id = ?', [
       Date.now() - 10_000,
@@ -154,16 +153,9 @@ describe('Custody repository', () => {
 })
 
 describe('mapShieldEventType', () => {
-  it('passes through the three valid event types', () => {
-    expect(mapShieldEventType('kept')).toBe('kept')
+  it('passes known event types through and rejects the rest', () => {
     expect(mapShieldEventType('overrode')).toBe('overrode')
-    expect(mapShieldEventType('paused')).toBe('paused')
-  })
-
-  it('returns undefined for unknown event types', () => {
     expect(mapShieldEventType('confessed')).toBeUndefined()
-    expect(mapShieldEventType('fell')).toBeUndefined()
-    expect(mapShieldEventType('')).toBeUndefined()
     expect(mapShieldEventType('KEPT')).toBeUndefined()
   })
 })
@@ -186,19 +178,10 @@ describe('Custody schedule helpers', () => {
     updated_at: 0,
   }
 
-  it('detects overnight fence as active at 23:00', () => {
-    const at23 = new Date(2026, 0, 14, 23, 0, 0)
-    expect(isFenceActive(overnightCommitment, at23)).toBe(true)
-  })
-
-  it('detects overnight fence as active at 03:00 (next day)', () => {
-    const at03 = new Date(2026, 0, 15, 3, 0, 0)
-    expect(isFenceActive(overnightCommitment, at03)).toBe(true)
-  })
-
-  it('detects overnight fence as inactive at 14:00', () => {
-    const at14 = new Date(2026, 0, 14, 14, 0, 0)
-    expect(isFenceActive(overnightCommitment, at14)).toBe(false)
+  it('holds an overnight fence on both sides of midnight', () => {
+    expect(isFenceActive(overnightCommitment, new Date(2026, 0, 14, 23, 0, 0))).toBe(true)
+    expect(isFenceActive(overnightCommitment, new Date(2026, 0, 15, 3, 0, 0))).toBe(true)
+    expect(isFenceActive(overnightCommitment, new Date(2026, 0, 14, 14, 0, 0))).toBe(false)
   })
 
   it('returns next activation in the future', () => {

@@ -20,9 +20,9 @@ export type Featured = {
  *  of the Day"). */
 export type MeditationCard = { id: string; subtitleKey: string }
 
-// The same curated rows feed both /explore and /practices — single source of
-// truth keeps the editorial heart of the app consistent. Ids are filtered
-// against the live catalog at render, so a missing collection simply drops out.
+// The same curated rows feed both Search's catalogue rows and /practices. Ids
+// are filtered against the live catalog at render, so a missing collection
+// simply drops out.
 export const devotionRow = [
   'collection/sacred-heart',
   'collection/divine-mercy',
@@ -43,8 +43,8 @@ export const traditionRow = [
   'collection/litanies',
 ]
 
-// The daily-meditation row, shown directly under the hero on /explore. Practice
-// ids resolve against the live catalog at render, so a missing one drops out.
+// The daily-meditation row, shown on Today. Practice ids resolve against the
+// live catalog at render, so a missing one drops out.
 export const meditationRow: MeditationCard[] = [
   { id: 'practice/meditacoes-ligorio', subtitleKey: 'explore.meditation.alphonsus' },
   { id: 'practice/intimita-divina', subtitleKey: 'explore.meditation.intimita' },

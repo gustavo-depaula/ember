@@ -15,28 +15,11 @@ import { SegmentRuns, useFaces } from './runs'
 /**
  * A paragraph set in the reader's own type, broken by the Knuth–Plass pass.
  *
- * Callers describe the paragraph once, as styled segments; everything that
- * turns that into lines on a screen happens here, the same way for every
- * reading surface:
- *
- * - whether the breaker sets it at all — not when the reader asked for ragged,
- *   when a segment carries a hard newline (a boundary the breaker has no model
- *   for), when a `lead` the breaker can't measure opens it, or when the caller
- *   asks for `platformBreaks` so a block doesn't mix the two renderers. Those
- *   are left to the platform, which justifies greedily if the reader asked;
- * - the platform's rendering, derived from the same segments in the same
- *   faces, which is also what shows until the line model exists;
- * - the language it is hyphenated in (see `ReadingLanguage`);
- * - fitting the measure to the platform's own shaping (`measureFit`) and
- *   guarding iOS's last line (`useLastLineGuard`), on every path.
- *
- * The block's face is NAMED rather than asked for as a slant, because a
- * synthetic oblique has the roman advances and the justifier would be
- * measuring a face the screen isn't drawing.
- *
- * Text the segment model can't describe at all — Divinum Officium's inline
- * markup — comes in as `children`, and is left to the platform with the same
- * block face and the same guard.
+ * The platform breaks it instead when the reader chose ragged, a segment holds
+ * a hard newline (the breaker has no model for it), a `lead` it can't measure
+ * opens it, or the caller sets `platformBreaks`. Text the segment model can't
+ * describe (Divinum Officium's inline markup) comes in as `children` and is
+ * always platform-broken, with the same face and last-line guard.
  *
  * See `docs/design/typography-justification.md`.
  */
@@ -51,10 +34,9 @@ export function ReadingParagraph({
   testID,
   accessibilityLabel,
 }: {
-  /** The face the block is set in — a meditation is italic throughout. */
+  /** A meditation is italic throughout. */
   base?: TextStyleName
   color?: ComponentProps<typeof Text>['color']
-  /** Overrides the language the text is hyphenated in. */
   language?: string
   testID?: string
   /** Set on the block, so a nested mark isn't spelled out by a screen reader. */

@@ -1,5 +1,5 @@
 /**
- * In-memory catalog index for Hearth v2.
+ * In-memory catalog index.
  *
  * `getAllEntries` and `getEntriesByKind` are called from React render paths;
  * results are cached and invalidated on `setCatalog` so we don't rebuild the
@@ -17,11 +17,7 @@ import type {
   CollectionSection,
 } from './manifestTypes'
 
-/**
- * Flatten a collection's section tree into the leaf items in document order.
- * Used by browse, pinning traversal, and the member-of reverse index.
- * Recurses into sub-sections; skips prose blocks (they have no ref).
- */
+/** Flatten a collection's section tree into its leaf items, in document order. */
 export function flattenCollectionItems(
   sections: CollectionSection[] | undefined,
 ): CollectionItem[] {
@@ -201,7 +197,6 @@ export function getCollections(): CatalogEntry[] {
   return getEntriesByKind('collection').map(([, e]) => e)
 }
 
-/** Strip any `kind/` prefix from a corpus ref, returning the bare slug. */
 /** The engine's example and starter items: in the catalog, never on a shelf. */
 export function isMetaId(id: string): boolean {
   return /example|starter|sandbox/.test(id)
@@ -215,8 +210,8 @@ export function bareId(ref: string): string {
 /**
  * Coerce a possibly-bare id into its canonical `kind/id` form. When `hintKind`
  * is provided it acts as a hard filter — the caller wants only that kind, so
- * we don't fall through to other kinds and silently return e.g. a prayer when
- * the caller asked for a practice.
+ * we don't fall through to other kinds and silently return e.g. a collection
+ * when the caller asked for a practice.
  */
 export function canonicalize(id: string, hintKind?: CatalogItemKind): string | undefined {
   if (hintKind) {

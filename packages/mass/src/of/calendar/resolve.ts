@@ -106,7 +106,6 @@ export function resolveOfDay(
     })
   }
 
-  // Sanctoral candidates.
   for (const e of sanctoralWithTransfers(statics.sanctoral, date, scope)) {
     celebrations.push({
       ref: e.formularyRef,

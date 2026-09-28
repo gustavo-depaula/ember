@@ -20,7 +20,6 @@ export function ScreenLayout({
   children: ReactNode
   scroll?: boolean
   padded?: boolean
-  /** Pull-to-refresh: when provided, the scroll view shows a RefreshControl. */
   refreshing?: boolean
   onRefresh?: () => void | Promise<void>
   /** fullScreenModal route — the modal covers the tab bar and the

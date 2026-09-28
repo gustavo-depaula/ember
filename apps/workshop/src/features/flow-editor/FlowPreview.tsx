@@ -148,7 +148,7 @@ export function FlowPreview({ flow }: { flow: FlowDefinition }) {
   )
 }
 
-// ── Bilingual text rendering (matches app's BilingualBlock) ──
+// Mirrors the app's BilingualBlock.
 
 function Bilingual({ text, className }: { text: BilingualText; className?: string }) {
   return (
@@ -159,7 +159,7 @@ function Bilingual({ text, className }: { text: BilingualText; className?: strin
   )
 }
 
-// ── Section renderer (matches app's SectionBlock) ──
+// Mirrors the app's SectionBlock.
 
 function PreviewSection({ section }: { section: RenderedSection }) {
   switch (section.type) {
@@ -331,7 +331,7 @@ function PreviewSection({ section }: { section: RenderedSection }) {
   }
 }
 
-// ── Prayer block (matches app's CollapsiblePrayer / PrayerTextBlock) ──
+// Mirrors the app's CollapsiblePrayer / PrayerTextBlock.
 
 function PrayerBlock({ section }: { section: Extract<RenderedSection, { type: 'prayer' }> }) {
   const [expanded, setExpanded] = useState(true)
@@ -391,7 +391,7 @@ function PrayerBlock({ section }: { section: Extract<RenderedSection, { type: 'p
   )
 }
 
-// ── Select block (matches app's SelectBlock with tab buttons) ──
+// Mirrors the app's SelectBlock (tab buttons).
 
 function SelectBlock({ section }: { section: Extract<RenderedSection, { type: 'select' }> }) {
   const selected = section.options.find((o) => o.id === section.selectedId)

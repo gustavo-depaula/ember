@@ -1,10 +1,7 @@
 /**
- * Worked example for the RNTL+Vitest integration harness. Mirrors the Maestro
- * `practice-with-choices.yaml` flow but runs in jsdom, no simulator. Exercises
- * the same render path: real catalog, real flow engine, real Tamagui tree.
- *
- * If this passes, the harness covers the multi-screen pattern other tests can
- * follow (mount → navigate → assert → interact → re-assert).
+ * Worked example for the RNTL+Vitest integration harness: real catalog, real
+ * flow engine, real Tamagui tree, in jsdom. Other screen tests follow its
+ * mount → assert → interact → re-assert pattern.
  */
 
 import { describe, expect, it } from 'vitest'

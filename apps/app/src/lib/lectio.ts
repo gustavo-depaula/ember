@@ -3,13 +3,11 @@ import type { ReadingReference } from '@/lib/liturgical'
 export type BookNameResolver = (slug: string) => string
 
 const bookAbbreviations: Record<string, string> = {
-  // OT — Pentateuch
   gen: 'genesis',
   ex: 'exodus',
   lev: 'leviticus',
   num: 'numbers',
   deut: 'deuteronomy',
-  // OT — Historical
   josh: 'josue',
   judg: 'judges',
   ruth: 'ruth',
@@ -26,7 +24,6 @@ const bookAbbreviations: Record<string, string> = {
   esth: 'esther',
   '1mac': '1-machabees',
   '2mac': '2-machabees',
-  // OT — Wisdom
   job: 'job',
   ps: 'psalms',
   prov: 'proverbs',
@@ -34,7 +31,6 @@ const bookAbbreviations: Record<string, string> = {
   song: 'canticles',
   wis: 'wisdom',
   sir: 'ecclesiasticus',
-  // OT — Prophets
   isa: 'isaias',
   jer: 'jeremias',
   lam: 'lamentations',
@@ -53,13 +49,11 @@ const bookAbbreviations: Record<string, string> = {
   hag: 'aggeus',
   zech: 'zacharias',
   mal: 'malachias',
-  // NT — Gospels & Acts
   matt: 'matthew',
   mk: 'mark',
   lk: 'luke',
   jn: 'john',
   acts: 'acts',
-  // NT — Pauline
   rom: 'romans',
   '1cor': '1-corinthians',
   '2cor': '2-corinthians',
@@ -74,7 +68,6 @@ const bookAbbreviations: Record<string, string> = {
   tit: 'titus',
   phlm: 'philemon',
   heb: 'hebrews',
-  // NT — Catholic Epistles & Apocalypse
   jas: 'james',
   '1pet': '1-peter',
   '2pet': '2-peter',
@@ -85,7 +78,6 @@ const bookAbbreviations: Record<string, string> = {
   rev: 'apocalypse',
 }
 
-// Reverse map: slug → abbreviation
 const slugToAbbrev: Record<string, string> = {}
 for (const [abbr, slug] of Object.entries(bookAbbreviations)) {
   slugToAbbrev[slug] = abbr

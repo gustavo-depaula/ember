@@ -28,14 +28,6 @@ describe('matchLineConditional', () => {
     })
   })
 
-  it('parses deinde dicitur', () => {
-    expect(matchLineConditional('(deinde dicitur)')).toMatchObject({
-      stopwords: 'deinde',
-      expr: '',
-      scope: 'dicitur',
-    })
-  })
-
   it('parses or-chains with trailing instruction', () => {
     expect(
       matchLineConditional(

@@ -49,13 +49,11 @@ def fix_hyphens(text):
     merges = 0
     while i < len(lines):
         line = lines[i]
-        # Check if line ends with a hyphenated word break
         # Match: letter + hyphen at end of line, next line starts with lowercase
         if (i + 1 < len(lines) and
             re.search(r'[a-zà-üA-ZÀ-Ü]-\s*$', line) and
             lines[i + 1].strip() and
             lines[i + 1].strip()[0].islower()):
-            # Merge: remove trailing hyphen and join with next line
             merged = re.sub(r'-\s*$', '', line) + lines[i + 1].strip()
             result.append(merged)
             merges += 1
@@ -73,7 +71,6 @@ def remove_page_headers(text):
     removed = 0
     for line in lines:
         stripped = line.strip()
-        # Keep heading lines, section headers, and empty lines
         if stripped.startswith('#') or not stripped:
             result.append(line)
             continue

@@ -79,8 +79,6 @@ export type Catalog = {
   items: Record<string, CatalogEntry>
 }
 
-// --- Item manifests ---
-
 export type BlobRef = { hash: string; size: number }
 
 export type AlternativeToRef = {
@@ -173,7 +171,7 @@ export type TocNode = {
 
 // Bundled chapters point at a content-addressed blob in Hearth; external-book
 // chapters defer fetching to the referenced producer at runtime. Discriminate
-// on `'url' in ref` — bundled refs keep their existing shape unchanged.
+// on `'type' in ref`.
 export type ChapterRef = (BlobRef & { format?: 'html' }) | { type: 'external'; url: string }
 
 export type BookEntry = {
@@ -212,7 +210,7 @@ export type DataItemManifest = {
   data: BlobRef
 }
 
-// Divinum Officium dataset index (see docs/features/divinum-officium.md).
+// Divinum Officium dataset index.
 // `files` maps a DO file id ('01-25', 'Psalmi/Psalmi major', 'Kalendaria/1960')
 // to per-language blob refs, or directly to a blob ref for the
 // language-independent datasets (ordinarium, tabulae). The meta item has neither.
@@ -225,8 +223,6 @@ export type DoDataItemManifest = {
   | { localized?: undefined; files?: undefined }
 )
 
-// --- Collections ---
-//
 // A Collection is a structured, hierarchical index. Sections group items by
 // purpose (Section → optional Sub-section → Items). The renderer caps visible
 // nesting at depth 2; deeper trees are rejected at validation time.
@@ -288,8 +284,6 @@ export type CollectionItemManifest = {
   sections: CollectionSection[]
 }
 
-// --- Plan of Life Templates ---
-//
 // A plan-of-life template is a starter pack for a rule of life: a set of
 // practice refs with their default tier / schedule / time-block, plus a
 // manifesto framing the school of holiness it embodies. Adopting a template
@@ -327,7 +321,6 @@ export type PlanOfLifeTemplatePractice =
   | PlanOfLifeTemplatePracticeRef
   | PlanOfLifeTemplatePlaceholder
 
-/** Narrow a proposed practice to its placeholder form. */
 export function isTemplatePlaceholder(
   p: PlanOfLifeTemplatePractice,
 ): p is PlanOfLifeTemplatePlaceholder {
@@ -350,8 +343,6 @@ export type PlanOfLifeTemplateManifest = {
   /** Collection refs (e.g. `collection/carmelite`) to pre-pin alongside the plan. */
   collections?: string[]
 }
-
-// --- Creators ---
 
 export type CreatorChannelKind = 'podcast' | 'youtube' | 'rss'
 export type CreatorChannelFormat = 'qa' | 'homily' | 'lecture' | 'reflection' | 'news' | 'mixed'

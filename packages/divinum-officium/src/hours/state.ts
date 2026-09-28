@@ -29,7 +29,6 @@ export type HoursState = {
   commune2: Sections
   scriptura2: Sections
 
-  // Walker state.
   s: string[]
   label: string
   skipflag: boolean

@@ -27,8 +27,6 @@ function webPlaceholder(lang: string): TextPrimitive {
 // ora_media download and are split in parse).
 export const breviarySource = {
   id: 'producer/breviary-of-the-day',
-  // v1.1: attribution line no longer emitted — bump drops cached payloads
-  // that still carry it.
   version: '1.1',
   prefsDeps: ['lang' as const],
   dateScoped: true,

@@ -55,8 +55,7 @@ export type ResponseMessage =
  * Departure from `SQLiteDatabase`: `withTransactionAsync(fn)` is replaced by
  * `runBatchInTx(statements)` so the web proxy can send a transaction as a
  * single message instead of holding a remote transaction open across round
- * trips. The only existing caller (`emitBatch`) doesn't use intermediate
- * results inside the transaction.
+ * trips, which means callers can't use intermediate results inside it.
  */
 export type EmberDb = {
   execAsync(sql: string): Promise<void>

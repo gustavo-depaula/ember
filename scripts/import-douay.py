@@ -35,11 +35,9 @@ BOOK_DIR = ROOT / "content" / "books" / "douay-rheims-challoner"
 BOOK_ID = "douay-rheims-challoner"
 
 
-# Canonical book order, grouped by section. (code, full-name, n-chapters).
-# n-chapters is the upper bound used for the file glob — extra files (if any)
-# are picked up anyway by scanning the dir.
+# Canonical book order, grouped by section: (group-id, group-name, [(code, full-name)]).
+# Chapters are discovered by scanning the cache dir.
 BOOKS = [
-    # --- Old Testament: Pentateuch ---
     ("OT-pentateuch", "The Pentateuch", [
         ("gen", "Genesis"),
         ("exo", "Exodus"),
@@ -47,7 +45,6 @@ BOOKS = [
         ("num", "Numbers"),
         ("deu", "Deuteronomy"),
     ]),
-    # --- Old Testament: Historical Books ---
     ("OT-historical", "Historical Books", [
         ("jos", "Joshua"),
         ("jdg", "Judges"),
@@ -66,7 +63,6 @@ BOOKS = [
         ("1ma", "1 Maccabees"),
         ("2ma", "2 Maccabees"),
     ]),
-    # --- Old Testament: Wisdom ---
     ("OT-wisdom", "Wisdom Books", [
         ("job", "Job"),
         ("psa", "Psalms"),
@@ -76,7 +72,6 @@ BOOKS = [
         ("wis", "Wisdom"),
         ("sir", "Sirach"),
     ]),
-    # --- Old Testament: Major Prophets ---
     ("OT-major-prophets", "Major Prophets", [
         ("isa", "Isaiah"),
         ("jer", "Jeremiah"),
@@ -85,7 +80,6 @@ BOOKS = [
         ("eze", "Ezekiel"),
         ("dan", "Daniel"),
     ]),
-    # --- Old Testament: Minor Prophets ---
     ("OT-minor-prophets", "Minor Prophets", [
         ("hos", "Hosea"),
         ("joe", "Joel"),
@@ -100,7 +94,6 @@ BOOKS = [
         ("zec", "Zechariah"),
         ("mal", "Malachi"),
     ]),
-    # --- New Testament: Gospels & Acts ---
     ("NT-gospels", "Gospels & Acts", [
         ("mat", "Matthew"),
         ("mar", "Mark"),
@@ -108,7 +101,6 @@ BOOKS = [
         ("joh", "John"),
         ("act", "Acts of the Apostles"),
     ]),
-    # --- New Testament: Pauline Epistles ---
     ("NT-pauline", "Epistles of St. Paul", [
         ("rom", "Romans"),
         ("1co", "1 Corinthians"),
@@ -125,7 +117,6 @@ BOOKS = [
         ("phm", "Philemon"),
         ("heb", "Hebrews"),
     ]),
-    # --- New Testament: General Epistles & Revelation ---
     ("NT-general", "General Epistles & Revelation", [
         ("jam", "James"),
         ("1pe", "1 Peter"),
@@ -138,10 +129,6 @@ BOOKS = [
     ]),
 ]
 
-
-# ---------------------------------------------------------------------------
-# Shared HTML → Markdown
-# ---------------------------------------------------------------------------
 
 DROP_TAGS = {"script", "style", "noscript"}
 INLINE_TAGS = {"a", "span", "font", "small", "abbr", "cite"}
@@ -293,10 +280,6 @@ def chapter_markdown(soup: BeautifulSoup) -> str:
     return "\n\n".join(out).strip()
 
 
-# ---------------------------------------------------------------------------
-# Per-book chapter discovery
-# ---------------------------------------------------------------------------
-
 @dataclass
 class Chapter:
     book_code: str        # "gen"
@@ -322,10 +305,6 @@ def render_chapter(chap: Chapter) -> str:
     soup = load_html(path)
     return chapter_markdown(soup)
 
-
-# ---------------------------------------------------------------------------
-# Emission
-# ---------------------------------------------------------------------------
 
 def write_book() -> dict:
     if BOOK_DIR.is_dir():
@@ -400,10 +379,6 @@ def write_book() -> dict:
         "missing": missing_books,
     }
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 def cmd_prepare_cache() -> None:
     CACHE.mkdir(parents=True, exist_ok=True)

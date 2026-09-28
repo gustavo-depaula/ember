@@ -4,8 +4,6 @@ import type { ProgramConfig } from '@/content/manifestTypes'
 
 import { getOccurrenceBasedProgramDay, getProgramDay, type Schedule } from './schedule'
 
-// --- Types ---
-
 export type ProgramProgress = {
   programDay: number
   totalDays: number
@@ -29,8 +27,6 @@ export type DayState = {
   isFuture: boolean
 }
 
-// --- Calendar day resolution ---
-
 export function resolveCalendarDay(
   schedule: Schedule,
   cursor: { started_at: string } | null,
@@ -41,8 +37,6 @@ export function resolveCalendarDay(
   if (cursor) return getOccurrenceBasedProgramDay(schedule, cursor.started_at, today, totalDays)
   return undefined
 }
-
-// --- Progress computation ---
 
 export function computeProgramProgress(params: {
   program: ProgramConfig
@@ -78,8 +72,6 @@ export function computeProgramProgress(params: {
     isProjection: false,
   }
 }
-
-// --- Date-aware projection (carousel time-travel) ---
 
 /**
  * Compute a program's state as it would appear on `targetDate`, given the
@@ -177,8 +169,6 @@ export function projectProgramAtDate(args: {
   }
 }
 
-// --- Missed days ---
-
 export function computeMissedDays(
   policy: ProgramConfig['progressPolicy'],
   calendarDay: number | undefined,
@@ -198,8 +188,6 @@ export function computeShouldRestart(
   return policy === 'restart' && missedDays >= restartThreshold
 }
 
-// --- Day states ---
-
 export function computeDayState(dayIndex: number, progress: ProgramProgress): DayState {
   const { programDay, missedDays, policy, isComplete, shouldPromptRestart } = progress
   const cursorDay = missedDays > 0 ? programDay - missedDays : programDay
@@ -215,8 +203,6 @@ export function computeDayState(dayIndex: number, progress: ProgramProgress): Da
 export function computeAllDayStates(progress: ProgramProgress): DayState[] {
   return Array.from({ length: progress.totalDays }, (_, i) => computeDayState(i, progress))
 }
-
-// --- Enrollment ---
 
 export function selectEnrollmentSchedule(
   policy: ProgramConfig['progressPolicy'],

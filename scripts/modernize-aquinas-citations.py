@@ -47,10 +47,6 @@ EN_US_DIR = (
 )
 
 
-# ---------------------------------------------------------------------------
-# Roman numeral conversion
-# ---------------------------------------------------------------------------
-
 ROMAN_VALUES = {
     "i": 1, "v": 5, "x": 10, "l": 50, "c": 100, "d": 500, "m": 1000,
 }
@@ -95,10 +91,6 @@ def int_to_roman(n: int) -> str:
             n -= v
     return "".join(out)
 
-
-# ---------------------------------------------------------------------------
-# Book name mapping
-# ---------------------------------------------------------------------------
 
 # Books that may take an ordinal prefix (e.g. "I Cor.", "II Tim.").
 # Maps base abbreviation/name -> modern full name.
@@ -368,7 +360,6 @@ def transform_match(m: re.Match[str]) -> str:
 
     book_key = book_raw.lower()
 
-    # Validate roman numeral chapter.
     chap_num = roman_to_int(chap_str)
     if chap_num is None:
         return raw
@@ -380,7 +371,6 @@ def transform_match(m: re.Match[str]) -> str:
         if ord_num is None or ord_num < 1 or ord_num > 4:
             return raw
 
-    # Skip non-biblical "books".
     if book_key in NON_BIBLICAL_BOOKS:
         return raw
 
@@ -418,9 +408,7 @@ def transform_match(m: re.Match[str]) -> str:
     else:
         return raw
 
-    # Build the modernized citation.
     if verse:
-        # Normalize verse: collapse internal whitespace.
         verse_clean = re.sub(r"\s+", " ", verse.strip())
         out = f"{ord_prefix}{modern_book} {chap_num}:{verse_clean}"
     else:
@@ -432,9 +420,7 @@ def transform_match(m: re.Match[str]) -> str:
     return out
 
 
-# ---------------------------------------------------------------------------
 # Secondary passes for "tail" references that follow a primary citation.
-# ---------------------------------------------------------------------------
 
 # After 'Ibid.' (with optional comma/quotes), a bare roman chapter + verse:
 #   "Ibid.," xviii. 14   ->   "Ibid.," 18:14
@@ -552,10 +538,7 @@ def modernize(text: str) -> tuple[str, int]:
     return new_text, count
 
 
-# ---------------------------------------------------------------------------
-# Self-test: print a few before/after examples for sanity.
-# ---------------------------------------------------------------------------
-
+# Self-test: before/after examples printed for sanity.
 EXAMPLE_TRANSFORMS = [
     "Osee, ii. 20",
     "I Cor., vii. 4",
@@ -616,11 +599,6 @@ def selftest() -> None:
     print()
 
 
-# ---------------------------------------------------------------------------
-# File processing
-# ---------------------------------------------------------------------------
-
-
 def process_file(path: Path) -> tuple[int, list[tuple[str, str]]]:
     """Rewrite citations in `path`. Returns (count, samples)."""
     original = path.read_text(encoding="utf-8")
@@ -660,7 +638,6 @@ def main(argv: Iterable[str]) -> int:
         summary.append((f, count, samples))
         total += count
 
-    # Per-file report
     print()
     print(f"{'FILE':<55} {'COUNT':>6}")
     print("-" * 70)
@@ -670,7 +647,6 @@ def main(argv: Iterable[str]) -> int:
     print(f"{'TOTAL':<55} {total:>6}")
     print()
 
-    # Sample diffs
     print("=" * 70)
     print("SAMPLE BEFORE/AFTER (up to 3 lines per file with changes):")
     print("=" * 70)

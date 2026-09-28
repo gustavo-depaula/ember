@@ -1,5 +1,5 @@
 // Fingerprint for abuse control + verify dedup — NOT identity. Hash of the request IP plus an
-// optional client-supplied stable id (§7.1 leaves the exact mechanism open; this supports both).
+// optional client-supplied stable id.
 export async function computeFingerprint(
   ip: string | undefined,
   clientId: string | undefined,

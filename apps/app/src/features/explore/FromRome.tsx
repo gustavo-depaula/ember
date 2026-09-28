@@ -225,7 +225,7 @@ export function FromRome() {
       return
     }
     // Native in-app browser (SFSafariViewController / Custom Tabs): full-screen,
-    // swipe-to-dismiss, share/reader — the Telegram-style experience. Themed.
+    // swipe-to-dismiss, share/reader.
     WebBrowser.openBrowserAsync(url, {
       presentationStyle: WebBrowser.WebBrowserPresentationStyle.PAGE_SHEET,
       controlsColor: theme.accent?.val,
@@ -310,11 +310,8 @@ export function FromRome() {
         </YStack>
       )}
 
-      {/* Native bottom sheet (@expo/ui): SwiftUI .sheet on iOS, Material3 on
-          Android — swipe-to-dismiss, fills, native grabber. index -1 = closed. */}
-      {/* Content-sized sheet: hugs the 16:9 video at the top instead of filling
-          the screen. No snapPoints → enableDynamicSizing measures the explicit
-          height, so it sits as a compact bottom sheet. */}
+      {/* Content-sized: with no snapPoints the sheet hugs the 16:9 video
+          instead of filling the screen. index -1 = closed. */}
       <BottomSheet
         index={videoId ? 0 : -1}
         enablePanDownToClose

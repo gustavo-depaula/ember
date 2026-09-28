@@ -5,9 +5,6 @@ import { DynamicColorIOS, Platform } from 'react-native'
 
 import { darkTheme, lightTheme } from '@/config/themes'
 
-// Native iOS 26 Liquid Glass tab bar (and native selection morph) come for
-// free from UITabBarController; the search role gives the separate circular
-// search affordance that expands into a field, exactly like Apple Podcasts.
 export default function TabsLayout() {
   const { t } = useTranslation()
   const pathname = usePathname()
@@ -17,13 +14,10 @@ export default function TabsLayout() {
       ? DynamicColorIOS({ light: lightTheme.accent, dark: darkTheme.accent })
       : lightTheme.accent
 
-  // Slide the tab bar away on full-screen reading surfaces (Apple's "hide
-  // bottom bar when pushed" pattern). The book reader's WebView intercepts
-  // touches as an invisible overlay if the tab bar stays mounted — taps go
-  // dead app-wide after navigating away from the book. Hiding the tab bar
-  // forces the screen to take the whole height and unmount cleanly.
-  // Mass Times is a map-backed "places" surface — its own draggable sheet owns the bottom edge, so
-  // the global tab bar steps aside (matching Apple Maps). Only the root map screen, not its sub-routes.
+  // If the tab bar stays mounted over the book reader, its WebView lingers as an
+  // invisible touch-intercepting overlay and taps go dead app-wide after leaving
+  // the book; hiding the bar lets the screen take the whole height and unmount
+  // cleanly. On the Mass Times root map, its own sheet owns the bottom edge.
   const hideTabBar =
     pathname?.includes('/pray/') ||
     pathname?.endsWith('/read') ||
@@ -33,11 +27,10 @@ export default function TabsLayout() {
   return (
     <NativeTabs
       tintColor={tintColor}
-      // Junicode italic on every tab label. NOTE: a NATIVE tab-bar label resolves
-      // fontFamily via UIKit, which knows the font by its PostScript name (hyphen:
-      // 'Junicode-MediumItalic') — NOT the expo-font useFonts key (underscore:
-      // 'Junicode_MediumItalic'), which silently falls back to the system font.
-      // tintColor still owns the selected gold, so we set family + size only.
+      // A native tab-bar label resolves fontFamily via UIKit by PostScript name
+      // (hyphen: 'Junicode-Light'), not the expo-font useFonts key (underscore:
+      // 'Junicode_Light'), which silently falls back to the system font.
+      // tintColor owns the selected gold, so set family + size only.
       labelStyle={{ fontFamily: 'Junicode-Light', fontSize: 12 }}
       minimizeBehavior="onScrollDown"
       hidden={hideTabBar}

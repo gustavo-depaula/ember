@@ -11,8 +11,6 @@ const CSV_PATH = join(__dirname, '1961-time.csv')
 const SAINTS_PATH = join(__dirname, '1961-saints.csv')
 const OUT_DIR = join(__dirname, '..', 'content', 'libraries', 'breviary', 'practices', 'dwdo', 'data')
 
-// ── Book name → app abbreviation ──
-
 const bookNameMap = {
   'Genesis': 'gen', 'Exodus': 'ex', 'Leviticus': 'lev', 'Numbers': 'num',
   'Deuteronomy': 'deut', 'Joshua': 'josh', 'Judges': 'judg', 'Ruth': 'ruth',
@@ -43,8 +41,6 @@ const bookNameMap = {
   'Prayer of Manasses': null,
 }
 
-// ── Day label → EF position key mapping ──
-
 const weekdayNum = { Monday: 1, Tuesday: 2, Wednesday: 3, Thursday: 4, Friday: 5, Saturday: 6 }
 
 function parseOrdinal(s) {
@@ -53,15 +49,12 @@ function parseOrdinal(s) {
 }
 
 function dayLabelToContext(day) {
-  // Advent
   let m = day.match(/^(\d+)\w+ Sunday in Advent$/)
   if (m) return { prefix: 'advent', week: parseInt(m[1]), isSunday: true }
 
-  // Epiphany weeks
   m = day.match(/^(\d+)\w+ Sunday after Epiphany$/)
   if (m) return { prefix: 'epiphany', week: parseInt(m[1]), isSunday: true }
 
-  // Lent
   m = day.match(/^(\d+)\w+ Sunday in Lent$/)
   if (m) return { prefix: 'lent', week: parseInt(m[1]), isSunday: true }
 
@@ -140,8 +133,6 @@ function getPositionKey(ctx, weekday) {
   return null
 }
 
-// ── Reference conversion ──
-
 const singleChapterBooks = new Set(['obad', 'phlm', 'jude', '2jn', '3jn'])
 
 // Expand a verse range into one or more chapter-scoped entries.
@@ -170,7 +161,6 @@ function expandVerseRange(abbr, startChapterStr, range) {
 }
 
 function findBookAbbr(name) {
-  // Direct match
   if (bookNameMap[name] !== undefined) return bookNameMap[name]
   // Try with "Song of Songs" for "Song of the Three Children" etc.
   for (const [full, abbr] of Object.entries(bookNameMap)) {
@@ -184,7 +174,6 @@ function convertReference(csvRef) {
   if (!csvRef || csvRef.trim() === '') return null
 
   let ref = csvRef.trim()
-  // Strip parentheses but keep content
   ref = ref.replace(/[()]/g, '')
   // Normalize dashes: en-dash/em-dash → hyphen
   ref = ref.replace(/[–—]/g, '-')
@@ -273,8 +262,6 @@ function convertReference(csvRef) {
   return converted.length > 0 ? converted.join(';') : null
 }
 
-// ── CSV parsing ──
-
 function parseCSVLine(line) {
   const fields = []
   let current = ''
@@ -287,8 +274,6 @@ function parseCSVLine(line) {
   fields.push(current)
   return fields
 }
-
-// ── Main conversion ──
 
 function convertTemporalCSV() {
   const csv = readFileSync(CSV_PATH, 'utf8')
@@ -329,7 +314,6 @@ function convertTemporalCSV() {
       continue
     }
 
-    // Determine where to put the entry
     const isFixedDate = ctx.fixedDate
     const section = isFixedDate ? 'fixedDates' : 'temporal'
     const entryKey = isFixedDate ? ctx.fixedDate : key
@@ -387,8 +371,6 @@ function addReserves(maps) {
   maps.epOt.reserves = reserves
   maps.epNt.reserves = ['rom 1', 'rom 2', 'rom 3', 'rom 4', 'rom 5']
 }
-
-// ── Run ──
 
 const maps = convertTemporalCSV()
 convertSaintsCSV(maps)

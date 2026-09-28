@@ -21,9 +21,8 @@ import { getAllManifests } from '@/content/resolver'
 import { type BlockTone, blockInk, toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
-// Per-theme icon, matched on the practice id suffix. Keeps the semantic of the
-// pre-facelift grid (Waves = anxiety, Shield = courage…) so a glance still tells
-// you what each tile is — abstract versal letters were too quiet here.
+// Per-theme icon, matched on the practice id suffix, so a glance tells you what
+// each tile is (Waves = anxiety, Shield = courage…).
 const themeIcons: Record<string, LucideIcon> = {
   'scripture-anxiety': Waves,
   'scripture-gratitude': Sun,

@@ -1,5 +1,5 @@
-// Maestro/E2E test fixtures. Only loaded by the dev-only /dev/reset route
-// — see apps/app/src/app/dev/reset.tsx. Do not import from production paths.
+// Test fixtures for Maestro (via the dev-only /dev/reset route) and the Vitest
+// harness (`test/renderApp.tsx`). Do not import from production paths.
 
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -23,10 +23,10 @@ export type TestFixtures = {
 export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> {
   const db = getDb()
 
-  // `execAsync` opens its own implicit transaction for multi-statement SQL in
-  // expo-sqlite 55, so we can't wrap it in `withTransactionAsync` ("cannot
-  // start a transaction within a transaction"). Calling it directly is fine —
-  // partial-wipe atomicity doesn't matter for a test reset.
+  // expo-sqlite 55's `execAsync` opens its own implicit transaction for
+  // multi-statement SQL, so it can't be wrapped in `withTransactionAsync`
+  // ("cannot start a transaction within a transaction"). A test reset doesn't
+  // need the wipe to be atomic.
   await db.execAsync(wipeSql)
 
   useEventStore.getState().reset()
@@ -35,8 +35,8 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   // since `_layout.tsx` waits on these flags before rendering.
   await useBibleStore.getState().hydrate()
 
-  // Serial: each seed call ends up in `emitBatch` -> `withTransactionAsync`,
-  // and a single expo-sqlite connection can't hold two transactions at once.
+  // Serial: each seed call ends up in `emitBatch` -> `runBatchInTx`, and a
+  // single expo-sqlite connection can't hold two transactions at once.
   await seedPractices()
   await seedCursors()
 

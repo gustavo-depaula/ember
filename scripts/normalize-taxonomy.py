@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Normalize practice category/tag synonyms in manifest.json files.
 
-The audit revealed obvious synonyms used inconsistently
-(eucharist vs eucharistic, liturgy vs liturgical, sacrament vs sacramental,
-devotional vs devotion). Pick a canonical form, rewrite manifests.
+Synonyms used inconsistently (eucharist vs eucharistic, liturgy vs liturgical,
+sacrament vs sacramental, devotional vs devotion) are rewritten to one
+canonical form.
 """
 import json
 import re
@@ -52,9 +52,7 @@ def main() -> int:
         if before != after:
             changed += 1
             with f.open("w", encoding="utf-8") as fh:
-                # Preserve indentation style — most use tabs; check the original.
                 pass
-            # Re-read original text to detect indentation
             original_text = f.read_text(encoding="utf-8")
             indent = "\t" if "\t" in original_text else "  "
             with f.open("w", encoding="utf-8") as fh:

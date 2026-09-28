@@ -32,7 +32,7 @@ export function buildChapterTimings(
 type StoredTimings = {
   /** Per-chapter minutes, keyed by leaf id. */
   byChapter: Record<string, number>
-  /** Computed-at unix ms (so we can recompute if older than X). */
+  /** Computed-at unix ms. */
   at: number
 }
 

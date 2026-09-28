@@ -68,7 +68,6 @@ def migrate_fresh(pid: str, payload: dict) -> None:
 
 
 def merge_collision(pid: str, payload: dict) -> None:
-    """Merge the prayer's body into an existing practice/<pid>."""
     body = payload.get("body")
     if not isinstance(body, list) or not body:
         raise SystemExit(f"  prayer {pid}: empty or non-list body")

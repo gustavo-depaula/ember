@@ -65,9 +65,6 @@ OG_IMAGE_RE = re.compile(
 )
 
 
-# --- HTTP helpers (stdlib only) ---------------------------------------------
-
-
 def _http_get(url: str) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=HTTP_TIMEOUT) as r:
@@ -93,9 +90,6 @@ def _http_head_status(url: str) -> int:
         return e.code
     except Exception:
         return 0
-
-
-# --- Channel-image extractors ----------------------------------------------
 
 
 def _extract_podcast_channel_image(xml_text: str) -> str | None:
@@ -155,9 +149,6 @@ def _fetch_youtube_og_image(channel_id: str) -> str | None:
     return m.group(1) if m else None
 
 
-# --- YouTube shorts discovery -----------------------------------------------
-
-
 def _extract_video_ids(xml_text: str) -> list[str]:
     try:
         root = ET.fromstring(xml_text)
@@ -214,9 +205,6 @@ def _fetch_youtube_short_ids(channel_id: str) -> set[str]:
     return short_ids
 
 
-# --- Per-creator orchestrator -----------------------------------------------
-
-
 def _build_one(creator_dir: Path) -> tuple[str, dict[str, Any]]:
     slug = creator_dir.name
     manifest = json.loads((creator_dir / "manifest.json").read_text())
@@ -253,9 +241,6 @@ def _build_one(creator_dir: Path) -> tuple[str, dict[str, Any]]:
         "channelImage": channel_image,
         "shortVideoIds": sorted(short_ids),
     }
-
-
-# --- Entry point ------------------------------------------------------------
 
 
 def main(argv: list[str]) -> int:

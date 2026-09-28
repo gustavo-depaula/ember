@@ -88,10 +88,6 @@ def group_for(code: str) -> tuple[str, str, int]:
     return ("Other", "other", 99)
 
 
-# ---------------------------------------------------------------------------
-# HTML → Markdown (shared shape)
-# ---------------------------------------------------------------------------
-
 DROP_TAGS = {"script", "style", "noscript"}
 INLINE_TAGS = {"a", "span", "font", "small", "abbr", "cite"}
 
@@ -269,10 +265,6 @@ def html_to_markdown(root: Tag) -> str:
     return "\n\n".join(out)
 
 
-# ---------------------------------------------------------------------------
-# Library page parsing
-# ---------------------------------------------------------------------------
-
 @dataclass
 class Document:
     file_id: str              # e.g., "docs_le13ae"
@@ -332,7 +324,6 @@ def parse_library_index() -> list[Document]:
                 subtitle_parts.append(text_of(sib))
         raw_sub = re.sub(r"\s+", " ", "".join(subtitle_parts)).strip()
         subtitle, year = _extract_year_subtitle(raw_sub)
-        # Strip the prefix `docs_` for group lookup.
         code = fid.removeprefix("docs_")
         gdisp, gslug, grank = group_for(code)
         docs.append(Document(
@@ -346,10 +337,6 @@ def parse_library_index() -> list[Document]:
         ))
     return docs
 
-
-# ---------------------------------------------------------------------------
-# Document rendering
-# ---------------------------------------------------------------------------
 
 def render_document(doc: Document) -> tuple[str, str]:
     """Load a library doc page, return (title, markdown)."""
@@ -374,10 +361,6 @@ def render_document(doc: Document) -> tuple[str, str]:
         tag.decompose()
     return (title, html_to_markdown(main).strip())
 
-
-# ---------------------------------------------------------------------------
-# Emission
-# ---------------------------------------------------------------------------
 
 def write_book(docs: list[Document]) -> dict:
     if BOOK_DIR.is_dir():
@@ -449,10 +432,6 @@ def write_book(docs: list[Document]) -> dict:
 
     return {"written": written, "skipped": skipped, "sections": len(toc)}
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 def cmd_prepare_cache() -> None:
     CACHE.mkdir(parents=True, exist_ok=True)

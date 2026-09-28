@@ -55,10 +55,9 @@ export function parseSectionedFile(text: string): SectionedDoFile {
 }
 
 // Which DO files the Perl reads with `do_read` (flat lines) rather than
-// `setupstring` (sections). Operates on the loader/import path — works on both
-// the import-time relPath (`…/Mobile.txt`) and the runtime engine path
-// (`…/Mobile`). Single source of truth for validate-do, the corpus
-// loader, and the filesystem loader.
+// `setupstring` (sections). Accepts both the import-time relPath
+// (`…/Mobile.txt`) and the runtime engine path (`…/Mobile`); shared by
+// validate-do, the corpus loader, and the filesystem loader.
 export function isPlainPath(path: string): boolean {
   return (
     path.startsWith('Tabulae/') ||
@@ -70,8 +69,7 @@ export function isPlainPath(path: string): boolean {
 }
 
 // Parse a raw DO file into the engine's structured form, choosing the shape
-// from the path. This is what lets the corpus ship raw `.txt` and parse at
-// load time instead of baking JSON at build time.
+// from the path, so the corpus can ship raw `.txt`.
 export function parseDoFile(path: string, text: string): ParsedDoFile {
   return isPlainPath(path) ? { lines: splitDoLines(text) } : parseSectionedFile(text)
 }

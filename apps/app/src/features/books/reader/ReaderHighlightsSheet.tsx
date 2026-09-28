@@ -18,7 +18,7 @@ type Props = {
   highlights: Highlight[]
   leaves: TocLeaf[]
   titleLookup: Map<string, string>
-  /** Jump to a highlight; owner uses `goToWithFind` to land on the exact text. */
+  /** Jump to a highlight; owner uses `goToAnchor` to land on the exact text. */
   onSelect: (highlight: Highlight, chapterIndex: number) => void
   onRemove: (cursorId: string) => void
 }

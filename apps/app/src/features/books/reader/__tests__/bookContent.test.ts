@@ -117,11 +117,6 @@ describe('promoteFirstHeading', () => {
     )
   })
 
-  it('uses the part and section registers', () => {
-    expect(promoteFirstHeading('<h1>P</h1>', 'part')).toBe('<h2 class="part-title">P</h2>')
-    expect(promoteFirstHeading('<h1>S</h1>', 'section')).toBe('<h2 class="section-title">S</h2>')
-  })
-
   it('only rewrites the first h1', () => {
     expect(promoteFirstHeading('<h1>A</h1><h1>B</h1>', 'chapter')).toBe(
       '<h2 class="chapter-title">A</h2><h1>B</h1>',
@@ -134,19 +129,10 @@ describe('promoteFirstHeading', () => {
 })
 
 describe('buildTitleLookup', () => {
-  it('resolves preferred language', () => {
+  it('titles every node in the preferred language, falling back to the first present', () => {
     const m = buildTitleLookup(sample, 'pt-BR')
     expect(m.get('preface')).toBe('Prefácio')
-  })
-
-  it('falls back to first language when preferred is missing', () => {
-    const m = buildTitleLookup(sample, 'pt-BR')
-    expect(m.get('ch-1')).toBe('Chapter 1')
-  })
-
-  it('includes section titles, not just leaves', () => {
-    const m = buildTitleLookup(sample, 'en-US')
     expect(m.get('book-1')).toBe('Book One')
-    expect(m.get('ch-2')).toBe('Chapter 2')
+    expect(m.get('ch-2-a')).toBe('Section A')
   })
 })

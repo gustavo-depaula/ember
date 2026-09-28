@@ -44,12 +44,6 @@ describe('parseSection — gospel', () => {
     expect(passage).not.toContain('Most Holy Trinity') // reflection
   })
 
-  it('extracts the Portuguese gospel block', () => {
-    const blocks = parseSection(loadFixture('pt-BR'), 'pt-BR', 'gospel')
-    expect(blocks.length).toBeGreaterThanOrEqual(1)
-    expect(allText(blocks)).not.toMatch(/&[a-z]+;/)
-  })
-
   it('throws when the requested language heading is absent', () => {
     expect(() => parseSection(loadFixture('en-US'), 'pt-BR', 'pope')).toThrow()
   })

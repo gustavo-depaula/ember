@@ -34,7 +34,7 @@ export function CheckInButton({
 
   const confirm = () => {
     void successBuzz()
-    checkIn(church, { kind, note }) // a Mass check-in completes the "mass" practice (store handles it)
+    checkIn(church, { kind, note })
     setJustChecked(kind)
     setOpen(false)
     setNote('')

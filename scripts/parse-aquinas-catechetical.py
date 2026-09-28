@@ -165,11 +165,9 @@ def extract_paragraphs(xhtml: Path) -> list[str]:
             for block in flow.findall('x:block', NS):
                 words = [w.text or '' for w in block.iter('{http://www.w3.org/1999/xhtml}word')]
                 text = ' '.join(words).strip()
-                # Decode common HTML entities
                 text = text.replace('&apos;', "'").replace('&amp;', '&').replace('&quot;', '"')
                 if not text:
                     continue
-                # Skip page-number-only blocks
                 if re.fullmatch(r'\d{1,4}', text):
                     continue
                 paragraphs.append(text)

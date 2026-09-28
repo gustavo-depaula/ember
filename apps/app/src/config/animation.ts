@@ -1,4 +1,3 @@
-// Matches existing BibleReader spring config
 export const calmSpring = { damping: 24, stiffness: 200, mass: 0.8 }
 
 // Snappier for checkbox feedback

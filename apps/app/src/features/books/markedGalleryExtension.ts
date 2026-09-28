@@ -30,8 +30,7 @@ export type GalleryToken = Tokens.Generic & {
 }
 
 // Body group is `(?:[\s\S]*?\n)?` so an empty `:::row\n:::` still tokenizes
-// (renders to an HTML comment). Author-friendly; validator catches the empty
-// case as a hard error anyway.
+// (renders to an HTML comment) instead of leaking the fences as prose.
 const BLOCK_RULE = /^:::(gallery|row)(?:\{([^}]*)\})?[ \t]*\n((?:[\s\S]*?\n)?):::[ \t]*(?:\n|$)/
 const START_RULE = /^:::(?:gallery|row)\b/m
 const IMAGE_LINE_RULE = /^!\[([^\]]*)\]\(([^\s)]+)(?:[ \t]+"([^"]*)")?\)[ \t]*$/
@@ -127,8 +126,6 @@ export function renderGalleryToken(
   parseInline: (tokens: Token[]) => string,
 ): string {
   if (token.items.length === 0) {
-    // Empty directive — leave a comment so downstream HTML cleanup can spot
-    // and skip it. Validation should already have flagged this.
     return '<!-- empty gallery -->'
   }
   const count = token.items.length

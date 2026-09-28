@@ -2,7 +2,7 @@
  * Native blob-store path: downloads are staged in blobs-tmp/ and atomically
  * moved into blobs/ after validation, so a partial/truncated download can
  * never appear as a cached blob (hashes are immutable; cache hits never
- * expire). Uses a stateful in-memory FS mock with Platform forced to iOS.
+ * expire).
  */
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 
@@ -87,7 +87,7 @@ vi.mock('expo-file-system', () => {
   return { Directory, File, Paths: { document: '/doc' } }
 })
 
-import { blobPath, ensureBlobCached, getBlob, getJson, getText } from './store'
+import { blobPath, ensureBlobCached, getJson, getText } from './store'
 
 const hash = 'aabb1234'
 const blobAbsPath = `/doc/${blobPath(hash)}`
@@ -183,16 +183,6 @@ describe('ensureBlobCached — native download path', () => {
 
     expect(fsState.downloadCalls).toBe(1)
     expect(fsState.files.get(blobAbsPath)).toEqual(payload)
-  })
-
-  it('getBlob reads the bytes back after a native download', async () => {
-    const payload = new Uint8Array([42, 43])
-    setDownloadSuccess(payload)
-
-    const bytes = await getBlob(hash)
-
-    expect(bytes).toEqual(payload)
-    expect(fsState.downloadCalls).toBe(1)
   })
 })
 

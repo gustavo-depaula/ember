@@ -5,7 +5,7 @@ import { getDate, getMonth } from 'date-fns'
 /**
  * GIRM "Table of Liturgical Days" as code (it's law, not data). Lower number =
  * higher precedence. Both temporal and sanctoral celebrations map onto this one
- * scale. Ported from the validated `@ember/liturgical` resolver.
+ * scale.
  */
 export const girm = {
   triduum: 1,

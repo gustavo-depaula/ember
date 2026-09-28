@@ -9,9 +9,9 @@ import type { Tier } from '@/db/schema'
 // its part of the day (morning ends at 12:00, daytime at 17:00, evening when
 // the day does). An essential holds at least two hours past its time, even
 // through the practices that come due after it. An office not pinned to an
-// hour is always on time. The earliest on-time practice wins — the plan's own order — with tier
-// only breaking ties; practices that open early overlap the one before, and
-// the earlier still goes first. A practice whose timeframe has passed is not
+// hour is always on time. The earliest on-time practice wins — the plan's own
+// order — with tier only breaking ties; practices that open early overlap the
+// one before, and the earlier still goes first. A practice whose timeframe has passed is not
 // offered again: the card is about now, and Today's plan list keeps what was
 // missed. With nothing on time, the next to open is "coming up".
 

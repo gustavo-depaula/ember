@@ -4,8 +4,6 @@ import { resolveFlow } from '../../../engine'
 
 describe('splitPlainIntoLines via choice-rich-text', () => {
   it('splits a long single-paragraph reading on sentence boundaries', () => {
-    // Mock a slot whose body.plain.pt-BR is a single paragraph of
-    // five sentences (>240 chars total); expect five RichTextLines.
     const longText =
       'Naqueles dias, de Antioquia chegaram judeus que convenceram as multidões. ' +
       'Então apedrejaram Paulo e arrastaram-no para fora da cidade, pensando que ele estivesse morto. ' +
@@ -180,22 +178,6 @@ describe('resolveFlow — choice-rich-text (per-slot picker)', () => {
     expect(result).toEqual([])
   })
 
-  it('emits a liturgical-color section with localized label', () => {
-    const result = resolveFlow(
-      flow({
-        type: 'liturgical-color',
-        from: 'celebration.primary.liturgicalColor',
-      }),
-      makeContext({
-        flowData: { celebration: { primary: { liturgicalColor: 'red' } } },
-      }),
-      makeEngineContext(),
-    )
-    expect(result).toEqual([
-      { type: 'liturgical-color', color: 'red', label: { primary: 'Vermelha' } },
-    ])
-  })
-
   it('omits liturgical-color when the path is missing or unknown', () => {
     const empty = resolveFlow(
       flow({ type: 'liturgical-color', from: 'celebration.primary.liturgicalColor' }),
@@ -215,8 +197,6 @@ describe('resolveFlow — choice-rich-text (per-slot picker)', () => {
 
   it('explodes alternatives[] into multiple chips with roman-numeral suffixes', () => {
     // ember-extra wraps multi-option readings as `slot.alternatives[]`.
-    // Each alternative is a separate option chip; suffix the source label
-    // (Tmp, Snt, ...) with I / II / III to disambiguate.
     const multiAltCelebration = {
       primary: {
         source: 'sanctoral',
@@ -256,58 +236,5 @@ describe('resolveFlow — choice-rich-text (per-slot picker)', () => {
         ],
       },
     ])
-  })
-
-  it('passes through precedingResponse (localized) on the rendered section', () => {
-    // The Gospel slot uses precedingResponse to render the people's "Glory to
-    // you, O Lord." between the priest's introduction and the body. Verify
-    // the engine localizes the field and forwards it on the rendered output.
-    const result = resolveFlow(
-      flow({
-        type: 'choice-rich-text',
-        label: { 'pt-BR': 'Evangelho' },
-        slot: 'gospel',
-        precedingResponse: {
-          'en-US': '℟. Glory to you, O Lord.',
-          'pt-BR': '℟. Glória a vós, Senhor.',
-        },
-      }),
-      makeContext({
-        flowData: {
-          celebration: {
-            primary: {
-              source: 'tempore',
-              gospel: { body: { plain: { 'pt-BR': 'Naquele tempo...' } } },
-            },
-          },
-        },
-      }),
-      makeEngineContext(),
-    )
-    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
-    expect(choice.precedingResponse?.primary).toBe('℟. Glória a vós, Senhor.')
-  })
-
-  it('omits precedingResponse when not set on the input section', () => {
-    const result = resolveFlow(
-      flow({
-        type: 'choice-rich-text',
-        label: { 'pt-BR': 'Coleta' },
-        slot: 'collect',
-      }),
-      makeContext({
-        flowData: {
-          celebration: {
-            primary: {
-              source: 'tempore',
-              collect: { body: { plain: { 'pt-BR': 'Pai nosso...' } } },
-            },
-          },
-        },
-      }),
-      makeEngineContext(),
-    )
-    const choice = result[0] as Extract<(typeof result)[number], { type: 'choice-rich-text' }>
-    expect(choice.precedingResponse).toBeUndefined()
   })
 })

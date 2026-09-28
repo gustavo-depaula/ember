@@ -1,15 +1,8 @@
 /**
- * Chapter-marker parsing.
- *
- * Two sources:
- *   1. The `podcast:chapters` namespace (a JSON URL pointing to a structured
- *      chapters document).
- *   2. Plain-text timestamp lists embedded in <description> — common in
- *      Q&A-style podcasts that list each question and its offset.
- *
- * Per-question deep-linking is the core of the search "wow" — if a feed
- * exposes chapter markers, every question becomes its own searchable
- * timestamped doc.
+ * Chapter markers from two sources: the `podcast:chapters` namespace (a URL to
+ * a structured JSON document), and plain-text timestamp lists embedded in
+ * <description> — common in Q&A-style podcasts that list each question and its
+ * offset.
  */
 
 import type { FeedItemChapter } from '@/features/creators/db/feedItems'

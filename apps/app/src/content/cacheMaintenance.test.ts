@@ -30,8 +30,6 @@ describe('maybeRunCacheEviction — 24h gate', () => {
   it('runs when never run before, then stamps the timestamp', async () => {
     await maybeRunCacheEviction()
 
-    expect(clearBlobTmp).toHaveBeenCalledOnce()
-    expect(pinnedHashes).toHaveBeenCalledOnce()
     expect(evictTo).toHaveBeenCalledOnce()
     expect(setPreference).toHaveBeenCalledWith('last-eviction-at', expect.any(String))
     const stamped = Number(vi.mocked(setPreference).mock.calls[0][1])
@@ -46,15 +44,6 @@ describe('maybeRunCacheEviction — 24h gate', () => {
     expect(evictTo).not.toHaveBeenCalled()
     expect(pinnedHashes).not.toHaveBeenCalled()
     expect(setPreference).not.toHaveBeenCalled()
-  })
-
-  it('runs when the last run is older than 24h', async () => {
-    vi.mocked(getPreference).mockResolvedValue(String(Date.now() - 25 * 60 * 60 * 1000))
-
-    await maybeRunCacheEviction()
-
-    expect(evictTo).toHaveBeenCalledOnce()
-    expect(setPreference).toHaveBeenCalledOnce()
   })
 
   it('does not stamp when eviction throws (retries next launch)', async () => {

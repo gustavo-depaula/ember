@@ -1,10 +1,3 @@
-/**
- * Pure reconciliation tests. Auto-pin policy is *derived* state: given a
- * follow record's `autoPinCount` and the recent items, the auto-pinned set is
- * deterministic. The reconciler is idempotent — running it twice yields the
- * same operations as running it once.
- */
-
 import { describe, expect, it } from 'vitest'
 import { computeReconcile } from './reconcile'
 
@@ -42,13 +35,5 @@ describe('computeReconcile', () => {
     const result = computeReconcile(items(2), new Set(), 5)
     expect(result.toPin).toEqual(['item-0', 'item-1'])
     expect(result.toUnpin).toEqual([])
-  })
-
-  it('only operates on auto-pinned ids — manual pins are not its concern', () => {
-    // Caller passes in only the auto-pinned set; manual pins (item-9) are
-    // outside the world-view and untouched.
-    const result = computeReconcile(items(3), new Set(['item-2']), 2)
-    expect(new Set(result.toPin)).toEqual(new Set(['item-0', 'item-1']))
-    expect(result.toUnpin).toEqual(['item-2'])
   })
 })

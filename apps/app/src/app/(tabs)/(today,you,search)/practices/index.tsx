@@ -49,13 +49,8 @@ function slugify(name: string): string {
 }
 
 /**
- * The Orar (Pray) catalog: an illuminated portfolio of every way to pray,
- * structured for browsing rather than scanning a flat list. No header search
- * bar here — corpus search lives in the tab bar's search role (the circular
- * affordance that expands into a field, à la Apple Podcasts), so the page
- * stays a clean stack of curated sections (Por momento → Caminhos → Devoções
- * → Por tipo → Personalizadas). The flat virtualized list lives one tap
- * deeper at `/practices/all` and is pre-filterable via URL params
+ * No header search bar: corpus search lives in the tab bar's search role. The
+ * flat virtualized list is `/practices/all`, pre-filterable via URL params
  * (`?category=…&moment=…`).
  */
 export default function PracticeCatalogScreen() {

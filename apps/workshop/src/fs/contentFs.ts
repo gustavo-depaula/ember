@@ -16,8 +16,6 @@ async function apiFetch<T>(url: string, options?: RequestInit): Promise<T> {
   return res.json() as Promise<T>
 }
 
-// ── Practices ──
-
 export function listPractices(): Promise<PracticeManifest[]> {
   return apiFetch('/api/practices')
 }
@@ -73,8 +71,6 @@ export function createPractice(
   })
 }
 
-// ── Prayers ──
-
 export function listPrayers(): Promise<PrayerAsset[]> {
   return apiFetch('/api/prayers')
 }
@@ -99,8 +95,6 @@ export function createPrayer(id: string): Promise<{ ok: boolean; id: string }> {
   })
 }
 
-// ── Books ──
-
 export function listBooks(): Promise<BookManifest[]> {
   return apiFetch('/api/books')
 }
@@ -117,8 +111,6 @@ export function getBookChapter(
   return apiFetch(`/api/books/${bookId}/chapters/${chapterId}/${lang}`)
 }
 
-// ── Chapters (standalone) ──
-
 export function listChapters(): Promise<ChapterManifest[]> {
   return apiFetch('/api/chapters')
 }
@@ -126,8 +118,6 @@ export function listChapters(): Promise<ChapterManifest[]> {
 export function getChapter(chapterId: string): Promise<ChapterManifest> {
   return apiFetch(`/api/chapters/${chapterId}`)
 }
-
-// ── Collections ──
 
 export function listCollections(): Promise<CollectionManifest[]> {
   return apiFetch('/api/collections')

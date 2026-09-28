@@ -21,7 +21,6 @@ export {
 } from './of-position'
 export type OfficeHour = 'morning' | 'evening' | 'compline'
 export { getCelebrationsForDate } from './calendar-builder'
-// Calendar
 export type {
   DayCalendar,
   LiturgicalAnchor,

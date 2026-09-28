@@ -1,8 +1,6 @@
 /**
- * Saved-items hooks — the library's curation layer. Shaped after
- * `features/pinning/hooks.ts`: a query for the saved set and a `useSaveToggle`
- * convenience (bool + toggle). Saving is instant — no progress state, unlike
- * pinning, which prefetches blobs.
+ * Saved-items hooks — the library's curation layer. Saving is instant — no
+ * progress state, unlike pinning, which prefetches blobs.
  */
 
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
@@ -44,7 +42,7 @@ export function useUnsaveItem() {
   })
 }
 
-/** Convenience: bool + toggle for the current item. `kind` denormalizes onto the row. */
+/** `kind` denormalizes onto the saved row. */
 export function useSaveToggle(itemId: string | undefined, kind: string) {
   const saved = useIsSaved(itemId)
   const save = useSaveItem()

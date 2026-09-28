@@ -1,11 +1,9 @@
 /**
  * A frontispiece's quiet action row: Save · Offline · (Collection) as borderless
  * icon+label pairs — no pills, no boxes. State reads in the ink alone (gold when
- * active, muted otherwise), the illuminated idiom rather than chrome. Reuses the
- * same toggle hooks as the library's pill controls, so behavior is identical.
- * Shared across the practice and book frontispieces; `kind` denormalizes onto
- * the saved row, and the Collection action shows only when `onAddToCollection`
- * is provided.
+ * active, muted otherwise). Shared across the practice and book frontispieces;
+ * `kind` denormalizes onto the saved row, and the Collection action shows only
+ * when `onAddToCollection` is provided.
  */
 
 import {

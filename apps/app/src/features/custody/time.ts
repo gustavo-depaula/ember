@@ -1,8 +1,4 @@
-// HH:mm parsing for fence times.
-//
-// Strict semantic validation: hours 0-23, minutes 0-59, exactly one colon.
-// Callers needing the singular {hour, minute} shape (RNDA ScheduleSpec,
-// expo-notifications triggers) destructure inline.
+// Strict HH:mm for fence times: hours 0-23, minutes 0-59, exactly one colon.
 
 export function parseHHmm(value: string): { hours: number; minutes: number } | undefined {
   const parts = value.split(':')

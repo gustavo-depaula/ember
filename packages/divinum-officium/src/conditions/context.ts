@@ -1,6 +1,6 @@
 // Runtime context for conditional evaluation — the globals the Perl engine
 // keeps in package scope (version, date parts, the day's winner, the hour…).
-// Built by the kalendar (M3); hand-constructed in tests.
+// Built by the kalendar; hand-constructed in tests.
 
 export type RubricContext = {
   // Full DO version string, e.g. 'Rubrics 1960 - 1960', 'Divino Afflatu - 1954',

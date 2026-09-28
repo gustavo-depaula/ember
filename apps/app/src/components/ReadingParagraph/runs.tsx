@@ -11,13 +11,9 @@ import { styleToFace } from '../prayer/InlineMarkdown'
 export type Faces = Record<TextStyleName, TextStyle | undefined>
 
 /**
- * Emphasis resolves to a concrete font face, because React Native ignores
- * inherited fontWeight/fontStyle once fontFamily is set. Built once per family
- * so runs share style identities instead of minting one apiece.
- *
- * Only the block's own face is left to the parent. Every other style names its
- * face outright — including `regular`, which inside an italic block is a
- * deliberate flip back to roman and cannot be had by inheriting.
+ * Built once per family so runs share style identities. Only the block's own
+ * face is left to the parent; `regular` inside an italic block is a flip back
+ * to roman and must be named, not inherited.
  */
 export function useFaces(baseFamily: string, base: TextStyleName): Faces {
   return useMemo(() => {
@@ -33,14 +29,9 @@ export function useFaces(baseFamily: string, base: TextStyleName): Faces {
 }
 
 /**
- * A run's full drawing style: its face, the size it was measured at when that
- * differs from the paragraph's, and whatever draw-only props it declared.
- * Order matters — `render` is last so a caller's colour wins, and it is
- * documented never to carry a metric-bearing property.
- *
- * The justified lines and the ragged rendering both draw through this, which is
- * what keeps the face the breaker measured and the face the reader sees the
- * same thing on either path.
+ * Both the justified and the ragged path draw through this, so the face the
+ * breaker measured is the face on screen. `render` goes last so a caller's
+ * colour wins; it never carries a metric-bearing property.
  */
 export function drawStyle(faces: Faces, look: Appearance): TextStyle | undefined {
   const face = faces[look.style]
@@ -55,15 +46,9 @@ export function drawStyle(faces: Faces, look: Appearance): TextStyle | undefined
 }
 
 /**
- * The segments as ordinary wrapped text — what renders wherever the line model
- * isn't available (the first frame before `onLayout`, a face whose width can't
- * be known, a paragraph the breaker declined) and whenever the reader asks for
- * ragged right. Derived from the same segments the breaker is handed, so
- * emphasis, marks and tap targets survive exactly where justification gives up.
- *
- * The platform does the breaking here, so it is handed soft hyphens: long words
- * soft-wrap in the content's own language instead of leaving a gaping line.
- * An atom — a citation, a verse number — is never hyphenated.
+ * The segments as platform-wrapped text, wherever the line model isn't
+ * available or the reader chose ragged right. Soft hyphens let long words wrap
+ * in the content's language; an atom (citation, verse number) never hyphenates.
  */
 export function SegmentRuns({
   segments,

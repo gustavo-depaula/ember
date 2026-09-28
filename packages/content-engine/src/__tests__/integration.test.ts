@@ -1,6 +1,5 @@
 import { describe, expect, it } from 'vitest'
 import {
-  flow,
   liguoriFlowFixture,
   liguoriLiturgicalMapFixture,
   makeContext,
@@ -9,51 +8,8 @@ import {
 import { type EngineContext, resolveFlow, resolveFlowAsync } from '../engine'
 import type { FlowDefinition } from '../types'
 
-describe('celebration-banner — title rendering', () => {
-  // Ferial titles arrive pre-synthesized from ember-extra's refine.py;
-  // the engine no longer transforms them. These tests assert pass-through.
-
-  it('passes through Sunday + solemnity titles unchanged', () => {
-    const result = resolveFlow(
-      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
-      makeContext({
-        flowData: {
-          celebration: {
-            primary: {
-              title: { 'pt-BR': 'QUINTO DOMINGO DA PÁSCOA' },
-              season: 'easter',
-            },
-          },
-        },
-      }),
-      makeEngineContext(),
-    )
-    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
-    expect(banner.title.primary).toBe('QUINTO DOMINGO DA PÁSCOA')
-  })
-
-  it('passes through OT weekday titles unchanged (already natural)', () => {
-    const result = resolveFlow(
-      flow({ type: 'celebration-banner', from: 'celebration.primary' }),
-      makeContext({
-        flowData: {
-          celebration: {
-            primary: {
-              title: { 'pt-BR': 'Terça-feira da 29ª Semana do Tempo Comum' },
-              season: 'ordinary-time',
-            },
-          },
-        },
-      }),
-      makeEngineContext(),
-    )
-    const banner = result[0] as { type: 'celebration-banner'; title: { primary: string } }
-    expect(banner.title.primary).toBe('Terça-feira da 29ª Semana do Tempo Comum')
-  })
-})
-
 describe('integration: meditacoes-ligorio canonical flow', () => {
-  it('uses resolve array data and renders prose without legacy fixed-slot placeholders', async () => {
+  it('resolves every template and renders each meditation as book prose', async () => {
     const context = makeContext({
       date: new Date('2026-04-12T12:00:00Z'),
       cycleData: { 'liturgical-map': liguoriLiturgicalMapFixture as never },
@@ -82,8 +38,6 @@ describe('integration: meditacoes-ligorio canonical flow', () => {
 
     const serialized = JSON.stringify(result)
     expect(serialized).not.toContain('{{')
-    expect(serialized).not.toContain('feastLabel')
-    expect(serialized).not.toContain('meditation-feast')
 
     const meditationOptions = result.find((section) => section.type === 'options')
     if (meditationOptions?.type === 'options') {
@@ -134,8 +88,6 @@ describe('integration: meditacoes-ligorio canonical flow', () => {
     expect(meditationOptions.options.length).toBeGreaterThanOrEqual(2)
   })
 })
-
-// --- flow.data ---
 
 describe('integration: Rosary — select + repeat from + flow.data', () => {
   const rosaryFlow: FlowDefinition = {
@@ -201,18 +153,6 @@ describe('integration: Rosary — select + repeat from + flow.data', () => {
     expect(result.find((s) => s.type === 'select')).toMatchObject({ selectedId: 'joyful' })
   })
 
-  it('Sunday → sorrowful', () => {
-    const result = resolveFlow(
-      rosaryFlow,
-      makeContext({ date: new Date('2026-04-12T12:00:00') }),
-      makeEngineContext(),
-    )
-    expect(result.find((s) => s.type === 'select')).toMatchObject({ selectedId: 'sorrowful' })
-    expect(result.filter((s) => s.type === 'heading')[0]).toMatchObject({
-      text: { primary: 'Primeiro Mistério: Agonia no Horto' },
-    })
-  })
-
   it('selectOverrides switches mysteries', () => {
     const result = resolveFlow(
       rosaryFlow,
@@ -228,58 +168,3 @@ describe('integration: Rosary — select + repeat from + flow.data', () => {
     })
   })
 })
-
-describe('integration: Confession — manual select', () => {
-  it('renders picker with every branch materialized (lazy network fetch is deferred to preprocessFlow per branch)', () => {
-    expect(
-      resolveFlow(
-        flow({
-          type: 'select',
-          label: { 'pt-BR': 'Modo' },
-          default: 'prepare',
-          options: [
-            {
-              id: 'prepare',
-              label: { 'pt-BR': 'Preparação' },
-              sections: [
-                { type: 'heading', text: { 'pt-BR': 'Examine' } },
-                { type: 'rubric', text: { 'pt-BR': 'Reflect' } },
-              ],
-            },
-            {
-              id: 'thanks',
-              label: { 'pt-BR': 'Ação de Graças' },
-              sections: [{ type: 'heading', text: { 'pt-BR': 'Thanks' } }],
-            },
-          ],
-        }),
-        makeContext(),
-        makeEngineContext(),
-      ),
-    ).toEqual([
-      {
-        type: 'select',
-        label: { primary: 'Modo' },
-        overrideKey: 'prepare',
-        selectedId: 'prepare',
-        options: [
-          {
-            id: 'prepare',
-            label: { primary: 'Preparação' },
-            sections: [
-              { type: 'heading', text: { primary: 'Examine' } },
-              { type: 'rubric', label: { primary: 'Reflect' } },
-            ],
-          },
-          {
-            id: 'thanks',
-            label: { primary: 'Ação de Graças' },
-            sections: [{ type: 'heading', text: { primary: 'Thanks' } }],
-          },
-        ],
-      },
-    ])
-  })
-})
-
-// --- Fragments ---

@@ -1,11 +1,11 @@
 import type { Line, Segment } from '@ember/missal-schema'
 
 /**
- * Responsorial-psalm splitting, ported from refine.py (battle-tested over 23
- * audit cycles): a psalm body arrives as a flat per-language `Line[]` mixing
- * the refrain (anchored by a leading "℟." rubric), optional alternate
- * refrains ("vel" / "Or:" / "O bien:" / "Oppure:" / "Ou:" / "Oder:"), and the
- * verses between refrain repetitions. Output: { primary, alternatives, verses }.
+ * Responsorial-psalm splitting, ported from refine.py: a psalm body arrives
+ * as a flat per-language `Line[]` mixing the refrain (anchored by a leading
+ * "℟." rubric), optional alternate refrains ("vel" / "Or:" / "O bien:" /
+ * "Oppure:" / "Ou:" / "Oder:"), and the verses between refrain repetitions.
+ * Output: { primary, alternatives, verses }.
  */
 
 const altMarkers = new Set(['vel', 'or', 'o bien', 'ou', 'oppure', 'oder'])

@@ -10,7 +10,7 @@ export { buildPools, buildReport, classifyMass } from './classify'
 export { loadProvenance, parseProvenanceValue } from './provenance'
 
 /**
- * PR-1a gate: prove the TS parse stage extracts at least the text the old
+ * Parity gate: prove the TS parse stage extracts at least the text the old
  * (ember-extra) corpus carries, mass by mass, language by language.
  */
 export function runParity(

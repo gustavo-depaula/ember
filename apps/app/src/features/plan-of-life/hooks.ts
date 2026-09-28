@@ -31,8 +31,6 @@ import { projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
 import { getPracticeStreak } from './utils'
 
-// --- Helpers ---
-
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
   return [...slots].sort((a, b) => a.sort_order - b.sort_order)
 }
@@ -49,8 +47,6 @@ function resyncReminders() {
     })
   }, 0)
 }
-
-// --- Slot reads ---
 
 export function useSlots(): SlotState[] {
   return useEventStore(
@@ -77,13 +73,9 @@ export function useSlotsForPractice(practiceId: string | undefined): SlotState[]
   )
 }
 
-// --- Practice reads ---
-
 export function usePractice(practiceId: string | undefined): UserPractice | undefined {
   return useEventStore((s) => (practiceId ? s.practices.get(practiceId) : undefined))
 }
-
-// --- Compound reads ---
 
 export function usePracticeCompletionStats(practiceId: string) {
   const { completionsByPractice, completions } = useEventStore(
@@ -247,8 +239,6 @@ export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
   }, [slots, practices, cursors, completionsByPractice, completions, dateStr, realKey])
 }
 
-// --- Archive reads ---
-
 export function useArchivedPractices(): UserPractice[] {
   return useEventStore(
     useShallow((s) => {
@@ -260,8 +250,6 @@ export function useArchivedPractices(): UserPractice[] {
     }),
   )
 }
-
-// --- Program mutations ---
 
 export function useHandleProgramCompletion() {
   return useMutation({
@@ -306,8 +294,6 @@ export function useBackfillMissedDays() {
       backfillMissedDays(practiceId, dates),
   })
 }
-
-// --- Practice mutations ---
 
 // Auto-pin practices added or re-enabled in the plan-of-life so the user's
 // daily prayers are always available offline. Best-effort: never blocks the
@@ -370,8 +356,6 @@ export function useDeletePractice() {
   })
 }
 
-// --- Archive mutations ---
-
 export function useArchivePractice() {
   return useMutation({
     mutationFn: archivePractice,
@@ -385,8 +369,6 @@ export function useUnarchivePractice() {
     onSuccess: resyncReminders,
   })
 }
-
-// --- Slot mutations ---
 
 export function useAddSlot() {
   return useMutation({

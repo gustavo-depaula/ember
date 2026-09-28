@@ -1,5 +1,3 @@
-// See docs/features/features-overview.md for the full spec
-
 export type ContentLanguage = 'en-US' | 'pt-BR' | 'la'
 
 export type BilingualText = {
@@ -11,8 +9,6 @@ export type BilingualText = {
 export type LocalizedText = { 'en-US'?: string; 'pt-BR'?: string }
 export type LocalizedContent = { 'en-US'?: string; 'pt-BR'?: string; la?: string }
 
-// --- Cycle Data (practice-owned static data files) ---
-
 export type CycleData = {
   indexBy: 'day-of-month' | 'day-of-week' | 'fixed' | 'program-day'
   contextKey?: string
@@ -22,15 +18,11 @@ export type CycleData = {
 // Dynamic prose content injected at runtime (e.g., liturgical meditation text)
 export type ResolvedProse = Record<string, LocalizedContent>
 
-// --- Lectio Tracks (practice-owned reading plans) ---
-
 export type LectioTrackDef = {
   source: 'bible' | 'catechism'
   label: LocalizedText
   entries: string[]
 }
-
-// --- Flow Definition (JSON input) ---
 
 export type RepeatEntry = Record<string, string | LocalizedText | undefined>
 
@@ -147,9 +139,9 @@ export type FlowSection = { lang?: string } & (
   | { type: 'lectio'; track: string }
   | { type: 'lectio'; reference: string }
   | {
-      // Generic extension point: invoke a registered content producer at
-      // render time. The flow engine passes it through unchanged — async
-      // resolution lives in the renderer (TanStack Query keyed by ref).
+      // Generic extension point: invoke a registered content producer. The
+      // engine passes it through unchanged; the app resolves it asynchronously
+      // in preprocessFlow.
       type: 'include'
       ref: string
       params?: Record<string, unknown>
@@ -244,15 +236,9 @@ export type FlowSection = { lang?: string } & (
       sections: FlowSection[]
     }
   | {
-      // Typographic break for major Mass divisions (Initial Rites,
-      // Liturgy of the Word, etc.). Renders as a centered uppercase
-      // title between thin horizontal rules — the missal-page-break
-      // feel. Distinct from `heading`, which is reserved for normal
-      // sub-section labels (Antífona de Entrada, Glória, Credo, …).
-      // Optional `colorFrom` dotted path resolves a liturgical-color
-      // string and tints the rules in the day's vestment color
-      // (subtle, low-opacity); skip the tint if the path resolves to
-      // an unknown color.
+      // Typographic break for major Mass divisions (Initial Rites, Liturgy of
+      // the Word, …); `heading` is for ordinary sub-section labels. `colorFrom`
+      // tints the rules in the day's vestment color, untinted when unknown.
       type: 'section-marker'
       title: LocalizedText
       colorFrom?: string
@@ -294,7 +280,7 @@ export type FlowSection = { lang?: string } & (
       // Per-slot picker over a celebration's primary + alternates formularies.
       // Reads `<celebrationPath>.primary[slot]` and each `<celebrationPath>.alternates[i][slot]`,
       // filters out empty slots, renders a chip toggle + the selected source's
-      // typed segments. See packages/mass-of for the celebration shape.
+      // typed segments.
       type: 'choice-rich-text'
       label: LocalizedText
       slot: string
@@ -317,8 +303,6 @@ export type FlowSection = { lang?: string } & (
       precedingResponse?: LocalizedText
     }
 )
-
-// --- Rendered Sections (engine output, consumed by renderer) ---
 
 export type RenderedSection =
   | { type: 'rubric'; label: BilingualText }
@@ -423,10 +407,7 @@ export type RenderedSection =
       prayer?: BilingualText
     }
   | {
-      // Per-slot picker rendered as a chip toggle + the selected source's typed
-      // rich-text segments. The renderer (ProperSlot) draws the chips, the
-      // selected option's body, and any citation. Selection persists via
-      // overrideKey in selectOverrides.
+      // Selection persists via overrideKey in selectOverrides.
       type: 'choice-rich-text'
       label: BilingualText
       overrideKey: string
