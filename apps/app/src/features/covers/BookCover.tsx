@@ -1,4 +1,4 @@
-import { StyleSheet, type TextStyle, View } from 'react-native'
+import { StyleSheet, Text, type TextStyle, View } from 'react-native'
 import Svg, { Defs, G, LinearGradient, Path, Rect, Stop } from 'react-native-svg'
 
 import type { BlockTone } from '@/features/explore/bgColor'
@@ -191,6 +191,24 @@ function Ornament({ format }: { format: BookCoverFormat }) {
   }
 }
 
+/** A printer's ✠ — the SVG pattée read as a clip-art mark. */
+function CrossMark({ size }: { size: number }) {
+  return (
+    <Text
+      style={{
+        fontFamily: coverFonts.caps,
+        // The fallback font draws ✠ small for its em, so size up to the old mark's footprint.
+        fontSize: size * 1.6,
+        lineHeight: size * 1.6 * 1.4,
+        color: coverInk.gold,
+        textAlign: 'center',
+      }}
+    >
+      ✠
+    </Text>
+  )
+}
+
 function Imprint({ w, style }: { w: number; style?: TextStyle }) {
   return (
     <CoverText
@@ -267,7 +285,7 @@ function GiltFace({ title, author, w }: FaceProps) {
           { top: 0, bottom: 0, left: '10%', right: 0, paddingHorizontal: w * 0.12, gap: w * 0.05 },
         ]}
       >
-        <Glyph kind="pattee" size={w * 0.13} color={coverInk.gold} />
+        <CrossMark size={w * 0.13} />
         <CoverText
           lines={4}
           style={{
@@ -532,7 +550,7 @@ function MissalFace({ title, author, w }: FaceProps) {
           { top: '14%', bottom: '14%', left: '14%', right: '4%', gap: w * 0.05 },
         ]}
       >
-        <Glyph kind="pattee" size={w * 0.15} color={coverInk.gold} />
+        <CrossMark size={w * 0.15} />
         <CoverText
           lines={4}
           style={{
