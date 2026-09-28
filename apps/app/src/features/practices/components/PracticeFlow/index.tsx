@@ -1,5 +1,4 @@
 import { useEventStore } from '@/db/events'
-import { useMinElapsed } from './hooks/useMinElapsed'
 import { usePracticeCompletion } from './hooks/usePracticeCompletion'
 import { usePracticeContent } from './hooks/usePracticeContent'
 import { useSelectOverrides } from './hooks/useSelectOverrides'
@@ -24,7 +23,6 @@ export function PracticeFlow({
     selectOverrides,
     slotKey,
   )
-  const thresholdElapsed = useMinElapsed(900)
 
   return (
     <PracticeFlowView
@@ -32,7 +30,6 @@ export function PracticeFlow({
       programDayProp={programDayProp}
       contentQuery={contentQuery}
       completion={completion}
-      thresholdElapsed={thresholdElapsed}
       onSelectOverride={handleSelectOverride}
     />
   )

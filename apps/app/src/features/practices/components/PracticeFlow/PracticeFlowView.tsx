@@ -3,18 +3,23 @@
 import { type UseQueryResult, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
 import { ChevronLeft, Type } from 'lucide-react-native'
-import { type ReactNode, useMemo, useState } from 'react'
+import { type ReactNode, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, type StyleProp, type ViewStyle } from 'react-native'
+import Animated, {
+  Easing,
+  useAnimatedStyle,
+  useSharedValue,
+  withRepeat,
+  withTiming,
+} from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, useTheme, useThemeName, YStack } from 'tamagui'
+import { Text, useTheme, useThemeName, XStack, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   GlassSurface,
-  ManuscriptFrame,
   PrimitiveBlock,
   ScreenLayout,
-  Threshold,
   Typography,
 } from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
@@ -41,7 +46,6 @@ type Props = {
   programDayProp: number | undefined
   contentQuery: UseQueryResult<PracticeContent>
   completion: CompletionApi
-  thresholdElapsed: boolean
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }
 
@@ -54,10 +58,8 @@ export function PracticeFlowView({
   programDayProp,
   contentQuery,
   completion,
-  thresholdElapsed,
   onSelectOverride,
 }: Props) {
-  const { t } = useTranslation()
   const router = useRouter()
   const { manifest, flow, flowQuery, programDay } = usePractice(practiceId, programDayProp)
 
@@ -66,21 +68,17 @@ export function PracticeFlowView({
     flow,
     flowQuery,
     contentQuery,
-    thresholdElapsed,
   })
 
   switch (status.kind) {
-    case 'network-loading':
-      return <Threshold word={t('practice.threshold')} subtitle={t('practice.loadingContent')} />
+    case 'loading':
+      // derivePracticeFlowStatus guarantees manifest is defined here.
+      if (!manifest) return null
+      return <PracticeLoading name={localizeContent(manifest.name)} />
     case 'missing':
       return <PracticeMissing onBack={() => router.back()} />
     case 'content-error':
       return <PracticeContentError onRetry={() => contentQuery.refetch()} />
-    case 'preparing':
-      // External fetches (Compendium → vatican.va, Bible chapters → bolls.life)
-      // can run for several seconds; surface that with the same subtitle the
-      // network-loading state uses so the user knows we're not just stuck.
-      return <Threshold word={t('practice.threshold')} subtitle={t('practice.loadingContent')} />
     case 'ready':
       // derivePracticeFlowStatus guarantees manifest is defined here.
       if (!manifest) return null
@@ -113,7 +111,6 @@ function PracticeReady({
   onSelectOverride: (overrideKey: string, nextId: string) => void
 }) {
   const { t } = useTranslation()
-  const router = useRouter()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const now = useToday()
@@ -121,7 +118,6 @@ function PracticeReady({
   const isFutureDate = now.getTime() > realToday.getTime()
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
-  const formattedDate = formatLocalized(now, 'EEEE, MMMM d, yyyy')
   const [settingsOpen, setSettingsOpen] = useState(false)
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
@@ -151,21 +147,9 @@ function PracticeReady({
         <YStack flex={1}>
           <ScreenLayout>
             <YStack gap="$lg" paddingVertical="$lg">
-              <ManuscriptFrame>
-                <YStack alignItems="center" gap="$xs" paddingVertical="$md">
-                  <Typography variant="ceremonial" fontSize="$5">
-                    ✠
-                  </Typography>
-                  <Typography variant="screen-title" fontSize="$5">
-                    {practiceName}
-                  </Typography>
-                  <Typography variant="label" tone="muted" fontSize="$2" letterSpacing={1}>
-                    {formattedDate}
-                  </Typography>
-                </YStack>
-              </ManuscriptFrame>
+              <PracticeHeader name={practiceName} date={now} />
 
-              <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$xxl">
+              <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
                 {sections.slice(0, visibleCount).map((primitive, index) => (
                   <PrimitiveBlock
                     key={`${primitive.type}-${index}`}
@@ -217,16 +201,7 @@ function PracticeReady({
           {/* The native tab bar is hidden on this screen (see (tabs)/_layout). These
             two Liquid Glass buttons replace it: back on the left, reading &
             language settings on the right. */}
-          <GlassIconButton
-            onPress={() => {
-              lightTap()
-              router.back()
-            }}
-            accessibilityLabel={t('common.back')}
-            style={{ position: 'absolute', bottom: insets.bottom + 12, left: 16, zIndex: 10 }}
-          >
-            <ChevronLeft size={22} color={theme.color.val} />
-          </GlassIconButton>
+          <BackButton />
 
           <GlassIconButton
             onPress={() => {
@@ -243,6 +218,158 @@ function PracticeReady({
         </YStack>
       </ImageViewerProvider>
     </PreprocessProvider>
+  )
+}
+
+// A devocionário title page: the name between two printer's rules, the upper one
+// broken by a red ✠. Ink and rubric red only — no gold on the reading page.
+function PracticeHeader({ name, date }: { name: string; date: Date }) {
+  return (
+    <YStack alignItems="center" paddingTop="$md">
+      <XStack
+        alignItems="center"
+        gap="$md"
+        alignSelf="stretch"
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
+      >
+        <YStack flex={1} height={0.5} backgroundColor="$borderColor" />
+        <Typography fontSize="$2" color="$colorBurgundy">
+          ✠
+        </Typography>
+        <YStack flex={1} height={0.5} backgroundColor="$borderColor" />
+      </XStack>
+      <Typography
+        variant="sacred-title"
+        fontSize={46}
+        lineHeight={54}
+        paddingTop="$lg"
+        paddingBottom="$xs"
+      >
+        {name}
+      </Typography>
+      <Typography variant="caption" fontSize="$2" paddingBottom="$lg">
+        {formatLocalized(date, 'EEEE, MMMM d, yyyy')}
+      </Typography>
+      <YStack
+        alignSelf="stretch"
+        height={0.5}
+        backgroundColor="$borderColor"
+        accessibilityElementsHidden
+        importantForAccessibility="no-hide-descendants"
+      />
+    </YStack>
+  )
+}
+
+// The real header over a skeleton of the page, so nothing above the fold moves
+// when the prayers arrive. External fetches (Compendium → vatican.va, Bible
+// chapters → bolls.life) can hold this for several seconds.
+function PracticeLoading({ name }: { name: string }) {
+  const { t } = useTranslation()
+  const now = useToday()
+  const readingMargin = useReadingMargin()
+  return (
+    <YStack flex={1}>
+      <ScreenLayout>
+        <YStack gap="$lg" paddingVertical="$lg">
+          <PracticeHeader name={name} date={now} />
+          <YStack
+            paddingHorizontal={readingMargin}
+            paddingTop="$md"
+            accessible
+            accessibilityRole="progressbar"
+            accessibilityLabel={t('practice.loadingContent')}
+          >
+            <PageSkeleton />
+          </YStack>
+        </YStack>
+      </ScreenLayout>
+      <BackButton />
+    </YStack>
+  )
+}
+
+// A printed page in outline: rubric, section title, justified paragraphs with a
+// short last line, a centred rule between sections. Ink wash, breathing slowly.
+function PageSkeleton() {
+  const breath = useSharedValue(1)
+
+  useEffect(() => {
+    breath.value = withRepeat(
+      withTiming(0.45, { duration: 1100, easing: Easing.inOut(Easing.quad) }),
+      -1,
+      true,
+    )
+  }, [breath])
+
+  const style = useAnimatedStyle(() => ({ opacity: breath.value }))
+
+  return (
+    <Animated.View style={style}>
+      <YStack gap="$xl">
+        <SkeletonSection lines={['100%', '100%', '100%', '62%']} rubric />
+        <YStack alignSelf="center" width={96} height={0.5} backgroundColor="$borderColor" />
+        <SkeletonSection lines={['100%', '100%', '100%', '100%', '38%']} />
+      </YStack>
+    </Animated.View>
+  )
+}
+
+function SkeletonSection({ lines, rubric = false }: { lines: `${number}%`[]; rubric?: boolean }) {
+  return (
+    <YStack gap="$md">
+      {rubric && <SkeletonLine width="28%" height={9} color="$colorBurgundy" opacity={0.35} />}
+      <SkeletonLine width="52%" height={20} />
+      <YStack gap={14} paddingTop="$xs">
+        {lines.map((width, index) => (
+          <SkeletonLine key={index} width={width} height={9} />
+        ))}
+      </YStack>
+    </YStack>
+  )
+}
+
+function SkeletonLine({
+  width,
+  height,
+  color = '$color',
+  opacity = 0.1,
+}: {
+  width: `${number}%`
+  height: number
+  color?: '$color' | '$colorBurgundy'
+  opacity?: number
+}) {
+  return (
+    <YStack
+      width={width}
+      height={height}
+      borderRadius={2}
+      backgroundColor={color}
+      opacity={opacity}
+    />
+  )
+}
+
+// The native tab bar is hidden on this screen (see (tabs)/_layout), so a floating
+// glass button is the way back — from the loaded page and while it loads.
+function BackButton() {
+  const { t } = useTranslation()
+  const router = useRouter()
+  const theme = useTheme()
+  const insets = useSafeAreaInsets()
+  return (
+    <GlassIconButton
+      onPress={() => {
+        lightTap()
+        router.back()
+      }}
+      accessibilityLabel={t('common.back')}
+      style={{ position: 'absolute', bottom: insets.bottom + 12, left: 16, zIndex: 10 }}
+    >
+      <ChevronLeft size={22} color={theme.color.val} />
+    </GlassIconButton>
   )
 }
 

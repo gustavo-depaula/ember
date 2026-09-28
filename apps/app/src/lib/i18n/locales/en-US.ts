@@ -1277,7 +1277,6 @@ export default {
   practice: {
     pray: 'Pray',
     noContent: 'No prayer content available for this practice yet.',
-    threshold: 'Oremus',
     loadingContent: 'Loading…',
     contentLoadFailed: 'Couldn’t load today’s prayer. Please try again.',
     completionSyncFailed: 'Couldn’t update your progress',
