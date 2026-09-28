@@ -5,8 +5,8 @@ import { useTheme } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { Typography } from '../typography'
 
-// Renders a `link` primitive as a tappable accent line: the in-app browser on
-// native (themed page sheet, matching the Explore rows), a new tab on web.
+// In-app browser on native (themed page sheet, matching the Explore rows), a
+// new tab on web.
 export function LinkBlock({ text, href }: { text: BilingualText; href: string }) {
   const theme = useTheme()
   const open = () => {

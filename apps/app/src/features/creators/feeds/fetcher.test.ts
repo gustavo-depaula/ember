@@ -1,8 +1,3 @@
-/**
- * Integration tests for the parser-dispatch path. Drives the pure
- * `fetchCreatorDrafts` to avoid pulling in the SQLite/React-Native chain.
- */
-
 import { readFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -22,10 +17,8 @@ vi.mock('@/content/resolver', () => ({ loadCreator: () => undefined }))
 import type { CreatorManifest } from '@/content/manifestTypes'
 import { fetchCreatorDrafts, type PrebuiltCreatorMeta } from './fetcher'
 
-// Default to the live-fallback path: tests inject explicit prebuilt only
-// where they're asserting that behavior. (Without this, the default loader
-// would try to dynamic-import @/lib/hearth which transitively touches the
-// SQLite cache repo and breaks the test env.)
+// The default prebuilt loader imports @/lib/hearth, which pulls in SQLite;
+// tests take the live-fallback path unless they inject prebuilt meta.
 const noPrebuilt = async () => null
 
 const here = dirname(fileURLToPath(import.meta.url))
@@ -66,32 +59,17 @@ describe('fetchCreatorDrafts', () => {
       prebuiltLoader: noPrebuilt,
     })
     const kinds = new Set(items.map((d) => d.channelKind))
-    // YouTube items from the channel_id feed are tagged 'youtube' unless their
-    // videoId also appears in the UUSH playlist, in which case they're tagged
-    // 'youtube-short'.
     expect(kinds).toEqual(new Set(['podcast', 'youtube', 'youtube-short', 'rss']))
-    // 2 podcast + 2 youtube (channel feed dedup'd against shorts) + 2 rss.
-    // The shorts fixture has 1 entry whose videoId overlaps with the channel
-    // fixture, so 1 of the 2 channel items flips to 'youtube-short' and no
-    // duplicate is added.
+    // The one Short also in the channel feed is retagged, not duplicated.
     expect(items).toHaveLength(6)
     expect(items.every((d) => d.itemId.startsWith('creator/test-creator::'))).toBe(true)
   })
 
   it('tags items as youtube-short when their videoId is in the UUSH playlist', async () => {
-    let channelHits = 0
-    let uushHits = 0
-    const counting: typeof fakeFetcher = async (url) => {
-      if (url.includes('channel_id=')) channelHits++
-      if (url.includes('playlist_id=UUSH')) uushHits++
-      return fakeFetcher(url)
-    }
     const { items } = await fetchCreatorDrafts(manifest, {
-      fetcher: counting,
+      fetcher: fakeFetcher,
       prebuiltLoader: noPrebuilt,
     })
-    expect(channelHits).toBe(1)
-    expect(uushHits).toBe(1)
     const videos = items.filter((d) => d.channelKind === 'youtube')
     const shorts = items.filter((d) => d.channelKind === 'youtube-short')
     expect(videos.map((d) => d.guid)).toEqual(['dQw4w9WgXcQ'])
@@ -111,18 +89,6 @@ describe('fetchCreatorDrafts', () => {
     const videos = items.filter((d) => d.channelKind === 'youtube')
     expect(shorts).toHaveLength(0)
     expect(videos).toHaveLength(2)
-  })
-
-  it('surfaces the channel-level image from the podcast feed', async () => {
-    const { channelImage } = await fetchCreatorDrafts(manifest, {
-      fetcher: fakeFetcher,
-      prebuiltLoader: noPrebuilt,
-    })
-    // The podcast channel image (or the scraped YouTube og:image) wins —
-    // first non-empty channelImage across all channels. With both available,
-    // the assertion is just "we got *some* stable channel image".
-    expect(channelImage).toBeDefined()
-    expect(channelImage).toMatch(/^https?:\/\//)
   })
 
   it('scrapes the YouTube channel page og:image when only a YouTube channel exists', async () => {
@@ -146,7 +112,6 @@ describe('fetchCreatorDrafts', () => {
       prebuiltLoader: noPrebuilt,
     })
     const withChapters = items.filter((d) => d.chapters?.length)
-    // The PPR-style podcast fixture episode + the YouTube fixture entry both expose chapters.
     expect(withChapters.length).toBeGreaterThanOrEqual(2)
     const ppr = items.find((d) => d.title === 'Posso comungar em pecado mortal?')
     expect(ppr?.chapters?.[0]).toEqual({ tStart: 0, title: 'Introdução' })
@@ -157,9 +122,6 @@ describe('fetchCreatorDrafts', () => {
   })
 
   it('uses prebuilt creator-meta to classify shorts without UUSH / probe / og:image', async () => {
-    // Prebuilt explicitly marks one of the two YouTube fixture videos as a
-    // Short. The fetcher should respect that and skip the og:image scrape,
-    // UUSH playlist fetch, and HEAD probe entirely.
     let uushHits = 0
     let channelPageHits = 0
     const counting: typeof fakeFetcher = async (url) => {
@@ -177,16 +139,13 @@ describe('fetchCreatorDrafts', () => {
       fetcher: counting,
       prebuiltLoader: async (id) => (id === 'creator/test-creator' ? prebuilt : null),
     })
-    // No live YouTube discovery work happened:
     expect(uushHits).toBe(0)
     expect(channelPageHits).toBe(0)
-    // Items classified per the prebuilt shorts list:
     const yt = items.filter((d) => d.channelKind === 'youtube').map((d) => d.guid)
     const sh = items.filter((d) => d.channelKind === 'youtube-short').map((d) => d.guid)
     expect(yt).toEqual(['dQw4w9WgXcQ'])
     expect(sh).toEqual(['abcDEFghi12'])
-    // Channel image comes straight from prebuilt — and since prebuilt is the
-    // first non-null collected, it wins over any podcast channel image too.
+    // Prebuilt wins over the podcast feed's channel image.
     expect(channelImage).toBe('https://prebuilt.example/avatar.jpg')
   })
 

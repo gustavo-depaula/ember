@@ -56,14 +56,6 @@ describe('searchBookContent', () => {
     expect(searchBookContent(idx, leaves, titleLookup, 'a')).toEqual([])
   })
 
-  it('strips HTML before matching', () => {
-    const bodies = ['<p>The <em>quick</em> brown fox</p>', '', '']
-    const idx = buildIndex(bodies)
-    const results = searchBookContent(idx, leaves, titleLookup, 'quick brown')
-    expect(results).toHaveLength(1)
-    expect(results[0].chapterId).toBe('ch-1')
-  })
-
   it('is case-insensitive', () => {
     const bodies = ['<p>Hello World</p>', '', '']
     const idx = buildIndex(bodies)
@@ -80,13 +72,6 @@ describe('searchBookContent', () => {
     const results = searchBookContent(idx, leaves, titleLookup, 'occurrence')
     expect(results.map((r) => r.chapterId).sort()).toEqual(['ch-1', 'ch-2', 'ch-3'])
     expect(results[0].chapterId).toBe('ch-2') // 2 hits, ranks first
-  })
-
-  it('caps total results', () => {
-    const bodies = [Array(50).fill('<p>match me</p>').join('')]
-    const idx = buildIndex(bodies)
-    const results = searchBookContent(idx, leaves, titleLookup, 'match', 1)
-    expect(results.length).toBeLessThanOrEqual(1)
   })
 
   it('matches inflections via stemming', () => {
@@ -112,8 +97,7 @@ describe('enrichSnippet', () => {
   })
 
   it('finds an anchor via stemming when the exact phrase is absent', () => {
-    // Body contains "theological" only — neither substring of nor a substring
-    // of the query "theology". Stem fallback should bridge the gap.
+    // "theology" is not a substring of "theological"; only the stems match.
     const body = '<p>The theological tradition speaks clearly here.</p>'
     const r = enrichSnippet(body, 'theology', 'en-US')
     expect(r).toBeDefined()

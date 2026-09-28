@@ -96,8 +96,6 @@ function matchRoute(
   return undefined
 }
 
-// --- Public hooks/components that mirror expo-router's shape ---
-
 type Router = {
   push: (href: string) => void
   replace: (href: string) => void

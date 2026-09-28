@@ -62,7 +62,7 @@ type SessionActions = {
   resume: () => void
   abort: () => Promise<void>
   complete: () => Promise<void>
-  // Backgrounding policy (B2): wall-clock authoritative; bells suppressed
+  // Backgrounding policy: wall-clock authoritative; bells suppressed
   // foreground-only. On foreground we just recompute elapsed — no state change.
   // If the wall clock has already passed `started_at + planned_seconds`, the
   // runner will call `complete()` next tick.

@@ -20,8 +20,7 @@ function formularyPath(id: string): string {
 
 function writeJson(path: string, value: unknown): void {
   mkdirSync(dirname(path), { recursive: true })
-  // ensureAscii=false equivalent — JSON.stringify keeps UTF-8; sorted-key not
-  // required here (build-corpus hashes its own canonical form).
+  // Keys needn't be sorted: build-corpus hashes its own canonical form.
   writeFileSync(path, `${JSON.stringify(value, null, 2)}\n`, 'utf-8')
 }
 

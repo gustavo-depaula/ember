@@ -1,4 +1,3 @@
-// Re-export all types from the package + app-specific manifest types
 export type {
   BilingualRichText,
   BilingualText,

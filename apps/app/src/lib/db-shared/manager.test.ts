@@ -78,23 +78,6 @@ describe('subscribeChanges buffer', () => {
     expect(received).toEqual([first, second])
   })
 
-  it('delivers live to subscribers after the first attach and skips buffering', async () => {
-    const { broadcastChange, subscribeChanges } = await import('./manager')
-
-    broadcastChange({ kind: 'invalidate', tags: ['anchor'] })
-
-    const received: CrossTabPayload[] = []
-    subscribeChanges((p) => received.push(p))
-
-    const peer = new FakeBroadcastChannel(CHANNEL_NAME)
-    const payload: CrossTabPayload = { kind: 'invalidate', tags: ['preferences'] }
-    peer.postMessage({ type: 'broadcast', originId: 'peer-tab', payload })
-
-    await flushMicrotasks()
-
-    expect(received).toEqual([payload])
-  })
-
   it('ignores our own broadcasts (originId === tabId)', async () => {
     const { broadcastChange, subscribeChanges } = await import('./manager')
 

@@ -63,8 +63,8 @@ const fonts = {
 // the table doesn't carry is measured at the face's fallback advance, which
 // means the breaker places that line against a width the screen contradicts —
 // and a hand-picked list is exactly the thing that silently falls behind the
-// corpus. `º`, `ª`, `§`, `ǽ`, `‒` and every Greek letter were all outside the
-// previous list while appearing thousands of times under `content/`.
+// corpus: `º`, `ª`, `§`, `ǽ`, `‒` and Greek letters each appear thousands of
+// times under `content/`.
 //
 // Ranges are intersected with the face's own cmap below, so a font that has no
 // Greek contributes no Greek and the file only grows by what the face really
@@ -255,7 +255,6 @@ function ligatureGlyph(b, tables, components) {
   return 0
 }
 
-// ---------------------------------------------------------------------------
 // Kerning. Every reading face carries its pair adjustments in GPOS only (no
 // legacy `kern` table), as a mix of PairPos format 1 (glyph pairs) and format
 // 2 (class matrices) subtables under the `kern` feature. A shaper applies them
@@ -269,7 +268,6 @@ function ligatureGlyph(b, tables, components) {
 // wins, as HarfBuzz does), then re-derives classes from the result: left
 // classes are distinct rows, right classes distinct columns. The matrix that
 // falls out is small, and the runtime lookup is two class reads and an index.
-// ---------------------------------------------------------------------------
 function readKerning(b, tables, glyphOf) {
   const empty = { left: [], right: [], rows: [] }
   if (!tables.GPOS) return empty

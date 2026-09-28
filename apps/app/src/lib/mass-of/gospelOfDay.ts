@@ -26,7 +26,7 @@ export type GospelOfDay = {
 }
 
 /**
- * Today's Gospel from the rebuilt OF corpus — the offline, computed reading.
+ * Today's Gospel from the OF corpus — the offline, computed reading.
  * Resolves the day, then walks its celebrations (falling back to the temporal
  * formulary for memorials with no proper readings) for the first Gospel.
  * Shared by the Explore `useGospelOfTheDay` hook and the Vatican News producer's

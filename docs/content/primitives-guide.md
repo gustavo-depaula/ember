@@ -1,44 +1,22 @@
-# Primitives Guide — How to Author Prayer Content
+# Primitives Guide: How to Author Prayer Content
 
-This is the semantic layer over the schema. The schema lives in:
+The schema says what's allowed: `FlowSection` in `packages/content-engine/src/types.ts` (what you write in `flow.json`), `Primitive` in `apps/app/src/content/primitives.ts` (what the renderer dispatches on), and `apps/app/src/content/preprocessFlow.ts` between them. This guide says what to pick, and why. For worked examples of the flow DSL (`select`, `repeat`, `cycle`, `fragment`), read `content/practices/rosary/`.
 
-- `packages/content-engine/src/types.ts` — `FlowSection` (what you write in `flow.json`)
-- `apps/app/src/content/primitives.ts` — `Primitive` (what the renderer dispatches on)
-- `apps/app/src/content/preprocessFlow.ts` — how `FlowSection` becomes `Primitive`
+## Stage direction or prayed text?
 
-Read this guide before authoring practice JSON. The schema will tell you *what's allowed*; this doc tells you *what to pick* and why.
-
----
-
-## The core distinction: stage direction vs prayed text
-
-When something between two prayers needs to be expressed, ask one question:
-
-> **Will the praying person say these words aloud (or silently as part of the prayer)?**
+Ask one question of anything between two prayers: **will the praying person say these words?**
 
 | Answer | Use | Renders as |
 |---|---|---|
-| No — it instructs the user what to do, who speaks next, when this prayer applies, etc. | `rubric` | Burgundy italic instruction text |
-| Yes — it's a short utterance, aspiration, or invocation prayed in the moment | `prayer` (inline, **no title**) | Plain body prayer text |
-| Yes — it's a complete prayer with a name (Pater Noster, Salve Regina, etc.) | `prayer` (`ref` *or* inline with title) | Collapsible prayer block, title visible by default |
-| Reflective text the user reads (rosary mystery, novena meditation) | `meditation` | Italic body text |
-| A new top-level section of the practice | `heading` (or `section-marker` / `subheading`) | Section title |
+| No: it says what to do, who speaks, when this applies | `rubric` | Red italic instruction |
+| Yes: a short aspiration or invocation | `prayer` with `inline` | Plain prayer text, always visible |
+| Yes: a complete named prayer (Pater Noster, Salve Regina) | `prayer` with `ref`, or `title` + `sections` | Collapsible block, title visible |
+| No: reflective text to read (rosary mystery, novena meditation) | `meditation` | Italic body text |
+| A new division of the practice | `heading`, `subheading`, `section-marker` | Section title |
 
-### `rubric` — instructions only
+### `rubric`: instructions only
 
-A rubric is liturgical *instruction*. It explains what to do, when, or who speaks. The renderer paints it burgundy italic so the eye skips over it during prayer.
-
-Rubrics take the same `*italic*` / `**bold**` / `***both***` inline markdown as prayer bodies, resolved against an italic baseline. Because the rubric register is *already* italic, `*x*` flips to **roman** rather than adding a slant that isn't there to add — the classic typographic convention for emphasis inside italics, and the only one that reads at rubric size. `**x**` keeps the slant and adds weight; `***x***` is bold roman.
-
-| You write | It renders |
-|---|---|
-| `the encyclical *Quamquam Pluries*` | title upright inside the red italic |
-| `**Put the resolutions into practice at once**` | bold italic |
-| `***Never*** end without one` | bold upright |
-
-Use it the way you'd use italics in a printed missal's rubrics: titles of works, foreign terms, quoted prayer text, and the one clause the eye must not skip. Don't emphasize half a sentence — the flip is a spotlight, and a spotlight on everything lights nothing.
-
-**Good rubrics** (lifted from the corpus):
+A rubric is instruction. It renders red italic so the eye skips it during prayer.
 
 ```json
 { "type": "rubric", "text": {
@@ -48,112 +26,39 @@ Use it the way you'd use italics in a printed missal's rubrics: titles of works,
 ```
 *(`content/practices/angelus/flow.json`)*
 
-```json
-{ "type": "rubric", "text": {
-  "en-US": "Pause one minute in silence with your guardian angel.",
-  "pt-BR": "Pause um minuto em silêncio com o seu anjo da guarda."
-}}
-```
-*(`content/practices/tuesday-angels/flow.json`)*
+"For purity of body", prayed before each Hail Mary, is **not** a rubric: the person says it. It is an inline `prayer`.
 
-```json
-{ "type": "rubric", "text": {
-  "en-US": "The Creed is said on Sundays, on feasts of I and II class…",
-  "pt-BR": "O Credo é recitado aos domingos, nas festas de I e II classe…"
-}}
-```
-*(`content/practices/mass/fragments/ef-credo.json` — contextual teaching about when a prayer applies)*
+Rubrics take the same `*italic*` / `**bold**` / `***both***` markdown as prayer bodies, resolved against an italic baseline. Because the rubric is already italic, `*x*` flips to **roman**, the printer's convention for emphasis inside italics. `**x**` keeps the slant and adds weight; `***x***` is bold roman. Use emphasis as a missal does: titles of works (`the encyclical *Quamquam Pluries*`), foreign terms, quoted prayer text, and the one clause the eye must not skip. Emphasizing half a sentence lights nothing.
 
-**Bad rubric** — text the user actually prays:
+### `prayer`: three forms
 
-```json
-{ "type": "rubric", "text": {
-  "en-US": "For purity of body.",
-  "pt-BR": "Pela pureza do corpo."
-}}
-```
+- **`inline`** (no title): a short prayed line. The preprocessor turns it into a plain `text` primitive with no collapse chrome, so it takes no `defaultOpen`.
+- **`ref`**: a named prayer from the corpus (`{ "type": "prayer", "ref": "hail-mary" }`). Collapsible.
+- **`title` + `sections`**: a named prayer written in place. Collapsible.
 
-"For purity of body" is an aspiration the user prays before each Hail Mary. It's prayer text, not a stage direction. Use an inline `prayer` (no title) instead — see below.
+### `meditation`
 
-### `prayer` (inline, no title) — short prayed text
+For text to be read and contemplated, not recited. Pick it by intent, never to get italic on a prayed line; the engine won't italicize a `prayer` for you.
 
-Use when the user prays a brief line that isn't a memorized full prayer with a name.
+### `psalm`: a cento, one reference per verse
 
-```json
-{ "type": "prayer", "inline": {
-  "en-US": "For purity of body.",
-  "pt-BR": "Pela pureza do corpo."
-}}
-```
-
-The preprocessor collapses inline prayers without a title to a plain `text` primitive — it renders as normal body prayer text, always visible, no collapse chrome. (`preprocessFlow.ts:198–199`.)
-
-> `defaultOpen` is **not** meaningful here. It only applies to titled prayers and to `collapsible` blocks. Don't set it on inline-no-title prayers.
-
-### `prayer` (with title or `ref`) — full prayer
-
-For prayers that have a name and a body — Pater Noster, Hail Mary, Anima Christi, Te Deum, etc. The block renders with the title visible and the body collapsible.
-
-```json
-{ "type": "prayer", "ref": "hail-mary" }
-```
-
-Add `defaultOpen` deliberately — see the [Default-open behavior](#default-open-behavior) section.
-
-### `meditation` — italic reflective text
-
-For text meant to be read and contemplated, not recited:
-
-```json
-{ "type": "meditation", "text": {
-  "en-US": "At the foot of the cross, Mary watches…",
-  "pt-BR": "Ao pé da cruz, Maria contempla…"
-}}
-```
-
-Renders as italic prayer text. Use for rosary mystery meditations, novena reflections, daily mystery introductions. Don't reach for `meditation` just because you want italic styling on a *prayer* line — the right tool there is an inline prayer; if you specifically want italic, the engine will not give it to you for `prayer`. Pick by intent.
-
-### `psalm` — a cento, one reference per verse
-
-For a psalm stitched together from verses drawn out of many places in Scripture. St Francis' offices are built this way: every line comes from somewhere different, so every line carries its own citation.
+For a psalm stitched from verses drawn from all over Scripture (St Francis' offices are built this way), so every line carries its own citation:
 
 ```json
 { "type": "psalm", "verses": [
   { "ref": { "en-US": "Ps. 55:9", "pt-BR": "Sl 55,9" },
     "text": { "en-US": "O God, I have declared to Thee my life…",
-              "pt-BR": "Ó Deus, eu vos expus a minha vida…" } },
-  { "ref": { "en-US": "Ps. 40:8", "pt-BR": "Sl 40,8" },
-    "text": { "en-US": "All my enemies devised evils against me.",
-              "pt-BR": "Todos os meus inimigos maquinavam males contra mim." } }
+              "pt-BR": "Ó Deus, eu vos expus a minha vida…" } }
 ]}
 ```
 
-**Never bake the citation into the prayed text.** `"Ps. 55:9. O God, I have declared…"` inside a `prayer` block renders the reference at the same size, weight, and colour as the words being prayed — a wall of numbers competing with the psalm. The `ref` field renders as a muted, smaller lead-in instead, and a screen reader skips it.
+**Never bake the citation into the prayed text.** Inside a `prayer`, `"Ps. 55:9. O God…"` renders the reference at the weight of the words prayed. `ref` renders as a muted lead-in that a screen reader skips. It is localized because the conventions differ: English `Ps. 55:9`, Portuguese `Sl 55,9`. Omit `ref` on a doxology or any line that isn't a quotation.
 
-`ref` is localized because the book abbreviation differs by language (`Ps.` / `Sl`) — and note the per-language convention: English `Ps. 55:9`, Portuguese `Sl 55,9`. `ref` is optional; a verse without one renders as plain prayed text, which is what you want for a doxology or a closing line that isn't a quotation.
+Use `psalm` only for centos. A psalm recited whole belongs in an `include` of `producer/psalmody` (resolved from the psalter by reference), or, if short and fixed, an inline `prayer`.
 
-Use `psalm` only for centos. A psalm recited whole belongs in `psalmody` (which resolves it from the psalter by reference) or, if it's short and fixed, an inline `prayer`.
+## One language per key
 
----
-
-## Bilingual pairing — one block per translation pair
-
-Each language gets its own key inside `LocalizedContent`. **Never stack two languages inside one key.**
-
-The renderer (`apps/app/src/components/prayer/BilingualBlock.tsx`) selects `primary` and `secondary` from the user's `contentLanguage` / `secondaryLanguage` preferences via `ec.localize()`. Side-by-side mode shows primary left / secondary right; tap-to-switch toggles between them. A `\n` inside a single language key means *a line break in that language* (multi-stanza hymn, multi-line antiphon) — it does **not** mean "now I'm switching to a different language."
-
-**Wrong** — Latin and Portuguese stacked in the `pt-BR` key:
-
-```json
-{ "type": "prayer", "inline": {
-  "en-US": "Mater purissima, ora pro nobis.\nMother most pure, pray for us.",
-  "pt-BR": "Mater purissima, ora pro nobis.\nMãe puríssima, rogai por nós."
-}}
-```
-
-A user reading in pt-BR sees Latin and Portuguese concatenated as one paragraph. The secondary-language toggle is disabled because the renderer can't distinguish the two halves.
-
-**Right** — one key per language:
+Each language gets its own key in `LocalizedContent`. **Never stack two languages in one key.** The renderer (`apps/app/src/components/prayer/BilingualBlock.tsx`) picks primary and secondary from the user's language preferences for side-by-side or tap-to-switch; it cannot split a stacked string.
 
 ```json
 { "type": "prayer", "inline": {
@@ -163,153 +68,65 @@ A user reading in pt-BR sees Latin and Portuguese concatenated as one paragraph.
 }}
 ```
 
-With primary=`pt-BR` and secondary=`la`, side-by-side mode shows Portuguese left, Latin right. The user can also switch their secondary language to English and see the Latin/English pairing instead. One source of truth, three audiences.
+Written this way, one source serves pt-BR/Latin, pt-BR/English and English/Latin readers. Writing `"pt-BR": "Mater purissima, ora pro nobis.\nMãe puríssima, rogai por nós."` shows both as one paragraph and disables the secondary-language toggle.
 
-Multi-stanza prayer in a single language uses `\n` correctly:
+`\n` inside a key is a line break *in that language* (hymn stanzas, a multi-line antiphon), never a language switch.
 
-```json
-{ "type": "prayer", "inline": {
-  "pt-BR": "Santo, Santo, Santo, é o Senhor Deus dos Exércitos.\nO céu e a terra proclamam a vossa glória.\nGlória a Vós, Senhor altíssimo.",
-  "la": "Sanctus, Sanctus, Sanctus, Dóminus Deus Sábaoth.\nPleni sunt cæli et terra glória tua.\nGlória tibi, Dómine altíssime."
-}}
-```
-*(`content/practices/tuesday-angels/flow.json` — three lines of one prayer, in two languages)*
+Order keys consistently: `la`, `en-US`, `pt-BR` in mixed blocks; `en-US` before `pt-BR` otherwise.
 
----
+## `defaultOpen`
 
-## Default-open behavior
+Titled `prayer`s (`ref` or `title` form) and `collapsible` take `defaultOpen` (default `false`). It answers a content question: does the text need to be on the page for this prayer to make sense?
 
-Both `prayer` (titled form / `ref` form) and `collapsible` accept `defaultOpen?: boolean` (default: `false`). The engine docs at `packages/content-engine/src/types.ts:89–93` describe the intent: open when the text being on the page matters, closed when the user knows the prayer by heart.
+- **Omit it** for prayers said from memory: Pater Noster, Ave Maria, Gloria Patri, Sign of the Cross, Anima Christi, Salve Regina, Sub Tuum Praesidium, Memorare. The collapsed title is a navigation cue; expanding is a deliberate "I need the words."
+- **`true`** when the words are the moment: Te Deum, Marian antiphons, the Leonine St. Michael, the *En ego*, litanies, mystery meditations, novena reflections, day-varying content (the day's intention, this week's resolution).
+- **`defaultOpenFrom: "dotted.path"`** (on `collapsible`) when the answer depends on `FlowContext`, e.g. the Mass Gloria opens on `celebration.primary.includeGloria`. If the path resolves to a boolean it wins; otherwise `defaultOpen` applies.
 
-### Stay collapsed (omit `defaultOpen`) — memorized standards
+Never use it as a nudge ("force it open so they read it once"). That belongs in the manifest's teaching text.
 
-Prayers the user prays from memory. The collapsed title is a navigation cue; expanding is a deliberate "I need the words" gesture.
+## `speaker`: who speaks
 
-- Pater Noster, Ave Maria, Gloria Patri, Sign of the Cross
-- Anima Christi, Salve Regina, Sub Tuum Praesidium
-- Memorare, Magnificat (after frequent use)
+Set `speaker: 'priest' | 'people' | 'all'` on an inline `prayer` for Mass dialogues, the Preces, and any call-and-response where the role is liturgically significant. The preprocessor turns it into a `liturgical-prayer` container that labels the speaker. When everyone says the line and no other voice shares the exchange, leave it out.
+
+## Litanies
+
+Use `response` with `verses: [{ v, r }]`, one entry per invocation, each `v` and `r` a `LocalizedText`:
 
 ```json
-{ "type": "prayer", "ref": "hail-mary" }
+{ "type": "response", "verses": [
+  { "v": { "la": "Mater purissima,", "en-US": "Mother most pure,", "pt-BR": "Mãe puríssima," },
+    "r": { "la": "ora pro nobis.", "en-US": "pray for us.", "pt-BR": "rogai por nós." } }
+]}
 ```
 
-### `defaultOpen: true` — the text *is* the moment
+The `verses` *primitive* is engine output, not something authors write.
 
-When the user is meant to see the words: meditations, unfamiliar prayers, day-varying content, brief invocations the user can't memorize because they change.
+## Pinning a select
 
-- Te Deum, Marian antiphons, the Leonine St. Michael, the *En ego*
-- Rosary mystery meditations, novena reflections
-- Daily-cycle content (the day's intention, this week's resolution)
-- The Opus Dei `Mater purissima` closing aspiration
+`pin: true` on a top-level `select` (with an `as` key) lets a plan slot fix one option, so the slot becomes that option: an office's Prime, or the rosary's Glorious Mysteries, gets its own row in Today. Pin only when the choice is *what* is prayed, not *how* (the Mass form and the gospel commentary are preferences, not pins). An option opts out with `pin: false` and may set a default slot `time`.
 
-```json
-{ "type": "prayer", "ref": "prayer-st-michael", "defaultOpen": true }
-```
-*(`content/practices/tuesday-angels/flow.json`)*
+## Other section types
 
-### `defaultOpenFrom: "dotted.path"` — open based on runtime context
+- **`heading`** / **`subheading`**: short labels only. Both render at display size, so a descriptive clause becomes four lines of display italic; put the description in the block below. Too many headings turn a prayer into a table of contents.
+- **`section-marker`**: a major Mass division ("Liturgy of the Word"); `colorFrom` tints its rules in the day's vestment color.
+- **`divider`**: between independent prayers only, never for decoration.
+- **`hymn`** (`ref` or `inline`) / **`canticle`** (`ref`, or `inline` with `title`): like `prayer`, with their own chrome.
+- **`prose`**: markdown from a `file`, or a `book` + `chapter`.
+- **`image`**, **`gallery`** (`carousel` / `stack` / `row`), **`holy-card`**.
+- **`select`** shows one option (chosen by context or by the user); **`options`** offers every alternative as a picker.
+- **`repeat`**: a template N times, or once per item of flow-local data (`from`).
+- **`cycle`** / **`lectio`** / **`include`**: content resolved at runtime (day-indexed data, reading-plan progress, content sources).
+- **`fragment`** / **`call`**: invoke a reusable block; `call` passes `args`.
+- **`group`**: sections that belong together; `skipIfEmpty` drops it when its body resolves to chrome only.
+- **`collapsible`**: a titled block, for dense rubrics or silent priest's prayers (Preparação das Oferendas) that would swamp the audible flow.
+- **`liturgical-color-scope`** / **`liturgical-color`** / **`celebration-banner`** / **`choice-rich-text`**: Mass chrome driven by the day's celebration.
 
-When the answer depends on `FlowContext` — e.g., the Mass `Gloria` opens only when the day's celebration includes it. The engine resolves the path; if it coerces to a boolean, that boolean wins. If the path is missing, `defaultOpen` is the fallback.
+## Checklist
 
-```json
-{
-  "type": "collapsible",
-  "title": { "en-US": "Gloria", "pt-BR": "Glória" },
-  "defaultOpenFrom": "celebration.primary.includeGloria",
-  "defaultOpen": false,
-  "sections": [ "..." ]
-}
-```
-
-### When `defaultOpen` is ignored
-
-Inline prayers without a title (`{ type: "prayer", inline: { ... } }` with no `title` field) are not collapsible — they render as plain prayer text, always visible. Setting `defaultOpen` on them has no effect; the schema doesn't even accept it on this form. Don't write it.
-
-### Don't use `defaultOpen` as a UX nudge
-
-If you find yourself thinking "I'll force-open this to make the user read it once," stop. That belongs in the manifest's teaching text or in onboarding, not in a per-block flag. The flag answers a content question (does the text need to be visible for this prayer to make sense?), not a behavioral one.
-
----
-
-## The `voice` field — who speaks
-
-`voice?: 'priest' | 'people' | 'all'` appears on the `text` primitive (engine output) and on the `liturgical-prayer` container behavior. In flow JSON, you set `speaker` on an inline prayer:
-
-```json
-{ "type": "prayer", "speaker": "priest", "inline": {
-  "la": "Dóminus vobíscum.",
-  "en-US": "The Lord be with you.",
-  "pt-BR": "O Senhor esteja convosco."
-}}
-```
-
-The preprocessor turns this into a `liturgical-prayer` container that labels who speaks. Use it for Mass dialogues, the Preces' priestly invocations, and any call-and-response where the speaker role is liturgically significant.
-
-If everyone says the line together and there's no other voice in the same exchange, leave `speaker` out — the role is implicit.
-
----
-
-## Litany call-and-response
-
-Use the `response` flow section with `verses: [{ v, r }]` — one entry per invocation. Each `v` and `r` is a `LocalizedContent`, so Latin + vernacular live together.
-
-```json
-{
-  "type": "response",
-  "verses": [
-    {
-      "v": { "la": "Mater purissima,",          "en-US": "Mother most pure,",          "pt-BR": "Mãe puríssima," },
-      "r": { "la": "ora pro nobis.",            "en-US": "pray for us.",                "pt-BR": "rogai por nós." }
-    },
-    {
-      "v": { "la": "Mater castissima,",         "en-US": "Mother most chaste,",         "pt-BR": "Mãe castíssima," },
-      "r": { "la": "ora pro nobis.",            "en-US": "pray for us.",                "pt-BR": "rogai por nós." }
-    }
-  ]
-}
-```
-
-Do **not** use the `verses` *primitive* (numbered list with `style: 'numbered' | 'vr'`) for litanies — that primitive is the engine's internal output for versicle/response and numbered lists. Authors use `response`; the engine produces the verse-list primitive.
-
----
-
-## Quick reference — other flow section types
-
-One paragraph each. See `types.ts` for the full schema.
-
-- **`heading`** — section label inside a prayer flow (e.g., "Antiphon", "Mystery I"). Use sparingly — too many headings turn a prayer into a table of contents.
-- **`subheading`** — smaller label below a heading. Used for nested structure.
-- **`section-marker`** — Mass-style major division ("Initial Rites", "Liturgy of the Word"). Centered uppercase between thin rules.
-- **`divider`** — horizontal rule. Use between independent prayers; don't sprinkle to "look nice."
-- **`hymn`** / **`canticle`** — like `prayer`, but with a different rendered chrome. Use `ref` to point at an asset, or `inline` with a title for one-off hymns.
-- **`response`** — see above.
-- **`prose`** — Markdown body, either a `file` path or a `book` + `chapter` lookup. For long-form content rendered by the prose pipeline.
-- **`image`**, **`gallery`**, **`holy-card`** — visual content. `gallery` supports `carousel` / `stack` / `row` layouts.
-- **`select`** / **`options`** — branching. `select` picks ONE option (by context or user choice); `options` shows ALL alternatives. See `docs/features/features-overview.md`.
-- **`repeat`** — expand a template N times, optionally iterating over flow-local data.
-- **`cycle`** / **`lectio`** / **`proper`** / **`include`** — dynamic content resolved at runtime (day-of-month/week data, lectio reading progress, Mass propers, content producers).
-- **`fragment`** / **`call`** — invoke a reusable section block. `call` is the runtime variant with optional `args`.
-- **`group`** — wrap sections so they collapse together (or disappear if `skipIfEmpty` and the body resolves to chrome).
-- **`collapsible`** — explicit collapsible block with a title; takes `defaultOpen` / `defaultOpenFrom`. Use for dense rubric blocks or silent-priest prayers (Preparação das Oferendas, etc.) that overwhelm the audible flow.
-- **`liturgical-color-scope`** / **`liturgical-color`** / **`celebration-banner`** — Mass chrome that threads the day's vestment color through descendant sections.
-
----
-
-## Authoring checklist
-
-Before you commit practice JSON, run through this list:
-
-- [ ] Every `rubric` is a genuine direction to the user, not text said aloud. (Test: "would the praying person say these words?" — if yes, it's not a rubric.)
-- [ ] Emphasis in a `rubric` is deliberate — `*x*` flips to roman against the italic baseline, so it must be a span worth spotlighting (a title, a foreign term, quoted prayer text, the clause that carries the rule).
-- [ ] No `subheading` or `heading` longer than a short label — both render at display size, so a descriptive clause becomes four lines of italic display type. Put the description in the block below it.
-- [ ] Latin and vernacular lines of the **same utterance** live in separate language keys (`la`, `en-US`, `pt-BR`) — never stacked in one string.
-- [ ] `\n` inside a language key is for line breaks within that language only.
-- [ ] Litanies use `response` + `{ v, r }`, not numbered `verses`.
-- [ ] `defaultOpen` is set deliberately:
-  - Omit it for memorized standard prayers.
-  - Set `true` when the text must be visible (meditations, unfamiliar prayers, day-varying content).
-  - Use `defaultOpenFrom` when the answer depends on `FlowContext`.
-  - Don't set it on inline-no-title prayers — it has no effect.
-- [ ] Multi-language `LocalizedContent` keys are written in a stable order across the corpus (`la`, `en-US`, `pt-BR` is the convention in mixed-language blocks; vernacular-only blocks order `en-US` before `pt-BR`).
-- [ ] `speaker` is set on liturgical dialogues where the role matters; left out when everyone says the line together.
-- [ ] After editing, run `pnpm build:corpus` and verify the practice renders the way you expect on `pnpm start:web --port 8082`.
+- Every `rubric` is a direction, not words said aloud; emphasis in it marks a span worth spotlighting.
+- Headings are short labels.
+- One language per key; `\n` only for line breaks within a language.
+- Litanies use `response`.
+- `defaultOpen` is set deliberately, and never on an inline prayer.
+- `speaker` is set where the role matters.
+- `pnpm validate-flows`, then `pnpm build:corpus` with `pnpm hearth` serving, and check the practice in the app.

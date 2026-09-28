@@ -58,7 +58,6 @@ export type BootstrapHighlight = {
 }
 
 export type FoliateReaderHandle = {
-  /** Jump to a chapter (and optional intra-chapter fraction). */
   goTo: (index: number, fraction?: number) => void
   /**
    * Jump to a chapter and, after the iframe loads, scroll to the first
@@ -66,11 +65,8 @@ export type FoliateReaderHandle = {
    */
   goToWithFind: (index: number, findText: string) => void
   /**
-   * Jump to a chapter and scroll to the exact text range described by a
-   * stored anchor. Used by the highlights list to land on the highlighted
-   * passage — preferred over `goToWithFind` when an anchor is known, since
-   * `findText` resolves the first textual occurrence (wrong target when the
-   * phrase repeats).
+   * Preferred over `goToWithFind` when an anchor is known: `findText` lands on
+   * the first textual occurrence, the wrong target when the phrase repeats.
    */
   goToAnchor: (index: number, anchor: { startOffset: number; endOffset: number }) => void
   /** Jump to a chapter and scroll to the element with this id (a cross-ref target). */
@@ -79,7 +75,6 @@ export type FoliateReaderHandle = {
   setHighlights: (highlights: BootstrapHighlight[]) => void
   addHighlight: (highlight: BootstrapHighlight) => void
   removeHighlight: (id: string) => void
-  /** Clear the current text selection (e.g. after the user dismisses the toolbar). */
   clearSelection: () => void
   /** Write a string to the system clipboard via the WebView (iOS WKWebView's
    *  navigator.clipboard). Avoids a native dep for the rare copy-text path. */
@@ -97,7 +92,6 @@ type Props = {
   /** Body HTML for the chapter to open first; the host streams the rest in
    *  response to requestChapter messages. */
   initialChapter: string
-  /** Index of the chapter to open initially. */
   initialIndex?: number
   /** Intra-chapter fraction (0..1) to open at. */
   initialFraction?: number
@@ -301,11 +295,8 @@ function buildHostHtml({
   initialElement: string | undefined
   config: FoliateConfig
 }): string {
-  // Both scripts live as standalone .raw.js files bundled into TS modules
-  // by bundle.mjs (`paginatorScript.ts`, `bootstrapScript.ts`). They run
-  // inside the WebView, not in this RN JS context. The trailing init call
-  // hands the initial config + spine length + opening chapter into the
-  // bootstrap's `window.__foliateInit(...)` entry point.
+  // Both scripts are .raw.js files bundled into TS modules by bundle.mjs and
+  // run inside the WebView, not in this RN JS context.
   const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)}, ${JSON.stringify(initialElement ?? null)});`
   return `<!doctype html>
 <html>

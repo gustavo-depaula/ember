@@ -12,8 +12,8 @@ starts at `[N]`. We strip everything before `[N]` to leave just `[N] <body>`.
 Also:
 - Replace the source's top `CAPITULO XYZ\nDo Sacramento da X` with the canonical
   `# Capítulo N — Do Sacramento da X` heading
-- Strip residual footnote-block lines that my prior pass missed (typically lines of
-  the form `\d+) text — \d+) text — ...` or `<orig-page-number> Catecismo Romano. <part>`)
+- Strip residual footnote-block lines (typically lines of the form
+  `\d+) text — \d+) text — ...` or `<orig-page-number> Catecismo Romano. <part>`)
 """
 
 from __future__ import annotations
@@ -50,7 +50,7 @@ RESIDUAL_FOOTNOTE_RES = [
     # Page-header artifact: <num> [* | ] Catecismo Romano [...]
     re.compile(r"^\s*\d+\s+\*?\s*Catecismo Romano[^\n]*$", re.M),
     re.compile(r"^\s*Catecismo Romano[^\n]*$", re.M),
-    # Running running-header-foot: "Iv. Da Eucaristia 65 78-79. — V. Da Penitência 65 12 313"
+    # Running header/footer: "Iv. Da Eucaristia 65 78-79. — V. Da Penitência 65 12 313"
     re.compile(r"^\s*[IVX]+\.\s+(Da|Do|Dos|Das)\s+\w[^\n]*\d+[^\n]*$", re.M),
     # Bibliographic citation chunks that begin with "<num>, <num>" and contain — \d+) markers
     # — only if the line is dominated by such citations
@@ -74,8 +74,6 @@ def strip_marginalia(text: str) -> str:
     for line in lines:
         m = re.search(r"\[(\d+)\]\s*", line)
         if m and m.start() <= 80:
-            # Marginalia is everything before [N]
-            # Replace with just [N] body
             line = line[m.start() :]
         cleaned.append(line)
     return "\n".join(cleaned)
@@ -110,9 +108,7 @@ def replace_top_header(text: str, canonical_heading: str) -> str:
             skipped += 1
             continue
         break
-    # Append remainder
     out.extend(lines[i:])
-    # Collapse multi-blank lines
     text = "\n".join(out)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text
@@ -126,7 +122,6 @@ def main() -> None:
         text = strip_residual_footnotes(text)
         text = strip_marginalia(text)
         text = replace_top_header(text, heading)
-        # Final whitespace pass
         text = re.sub(r"\n{3,}", "\n\n", text).strip() + "\n"
         path.write_text(text, encoding="utf-8")
         print(f"{fname}: {original_size:>7,} → {len(text):>7,} chars")

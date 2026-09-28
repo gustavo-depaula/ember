@@ -16,11 +16,6 @@ function getKeyPaths(obj: Record<string, unknown>, prefix = ''): string[] {
   return keys.sort()
 }
 
-// Practice and category names are no longer kept in locale bundles — they live
-// on the practice manifest's `name` / `categories` fields and are localized
-// via `localizeContent`. Adding a new practice no longer requires a parallel
-// edit to the locale files.
-
 describe('locale key parity', () => {
   it('en and pt-BR have the same set of leaf keys', () => {
     const enKeys = getKeyPaths(en as unknown as Record<string, unknown>)

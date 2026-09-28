@@ -21,7 +21,6 @@ for vol in book["toc"]:
         md_file = IT_DIR / f"{entry['id']}.md"
         if md_file.exists():
             first_line = md_file.read_text().split("\n")[0]
-            # Extract title from "## N — TITLE"
             match = re.match(r'^## \d+ — (.+)$', first_line)
             if match:
                 new_title = match.group(1).strip()

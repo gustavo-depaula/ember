@@ -7,7 +7,7 @@ paths:
 
 # Authoring practices
 
-Read `docs/content/primitives-guide.md` before writing or editing practice JSON. Flow DSL reference: `docs/features/features-overview.md`. Run `pnpm validate-flows` after edits.
+Authoring judgment (rubric vs prayer, `defaultOpen`, `voice`, pinning): `docs/content/primitives-guide.md`. DSL shape: `packages/content-engine/src/types.ts`; for a worked pattern, open a practice that already does the same thing (`rosary`, `mass`, `breviary`). Run `pnpm validate-flows` after edits.
 
 ## Text
 
@@ -22,6 +22,7 @@ Read `docs/content/primitives-guide.md` before writing or editing practice JSON.
 
 - `"completion": "manual"` does not mean "the user finishes it by hand". It only hides the in-flow Amen button, leaving the Today checkbox as the sole way to complete. Use `flow-end`.
 - Different traditions of one devotion are separate practices grouped by `alternativeTo`, and the canonical member points `alternativeTo.id` at itself — only the self-pointing member seeds defaults.
+- A manifest `categories` entry drives UI, not just tagging: `scripture` lists the practice among the Bible page's Themed Readings. Grep `categories?.includes` in `apps/app/src` before assigning one; psalms, canticles and prayers get none of the reading-set categories.
 - `lectio` track files go in the practice's `tracks/` directory and `cycle` data in `data/`. `build-corpus.py` hashes them by directory and ignores the manifest's `tracks` block, so a misplaced track builds clean and renders `[Reading track not loaded]`.
 
 ## `select`

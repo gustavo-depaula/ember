@@ -1,9 +1,8 @@
 -- Ember database schema
 --
 -- User state is event-sourced: see `events` (created in db/events/store.ts)
--- and the in-memory projection in `db/events/state.ts`. This migration only
--- creates tables for non-event state: the preferences KV store and the
--- generic cache.
+-- and the in-memory projection in `db/events/state.ts`. This migration creates
+-- the tables for non-event state.
 
 CREATE TABLE IF NOT EXISTS preferences (
   key   TEXT PRIMARY KEY NOT NULL,
@@ -67,7 +66,7 @@ CREATE TABLE IF NOT EXISTS search_history (
   PRIMARY KEY (query, searched_at)
 );
 
--- practice_voice: which guided playlist voices the user prefers per practice (v1.1).
+-- practice_voice: which guided playlist voices the user prefers per practice.
 CREATE TABLE IF NOT EXISTS practice_voice (
   practice_id  TEXT PRIMARY KEY,
   guided_id    TEXT,
@@ -80,11 +79,9 @@ CREATE TABLE IF NOT EXISTS pending_pins (
   queued_at INTEGER NOT NULL
 );
 
--- creator_meta: channel-level metadata captured at feed-refresh time
--- (specifically the podcast/RSS channel image, used as the creator avatar).
--- We store this separately from feed_items because feed_items.image_url is
--- per-episode (and for podcasts with per-episode art, doesn't equal the
--- channel logo).
+-- creator_meta: channel-level metadata captured at feed-refresh time (the
+-- podcast/RSS channel image, used as the creator avatar). Kept apart from
+-- feed_items because feed_items.image_url is per-episode art.
 CREATE TABLE IF NOT EXISTS creator_meta (
   creator_id TEXT PRIMARY KEY,
   image_url  TEXT,
@@ -152,12 +149,10 @@ CREATE TABLE IF NOT EXISTS custody_sessions (
 );
 CREATE INDEX IF NOT EXISTS custody_sessions_recent ON custody_sessions(started_at DESC);
 
--- saved_items: the user's library shelf. A lightweight, instant "keep this"
--- (ref + timestamp), decoupled from offline availability (pinned-items, which
--- prefetches blobs). `kind` is denormalized from the catalog entry so shelves
--- group by kind without a lookup, and so a synthetic 'usercollection' kind can
--- sit on the shelf without any catalog entry. Saving is free and instant;
--- making something offline is a separate, optional act (see pinningManager).
+-- saved_items: the user's library shelf (ref + timestamp), decoupled from
+-- offline availability (features/pinning). `kind` is denormalized from the
+-- catalog entry so shelves group by kind without a lookup, and so a synthetic
+-- 'usercollection' kind can sit on the shelf without any catalog entry.
 CREATE TABLE IF NOT EXISTS saved_items (
   item_id  TEXT PRIMARY KEY,
   kind     TEXT NOT NULL,
@@ -179,7 +174,7 @@ CREATE TABLE IF NOT EXISTS user_collections (
 
 -- user_collection_items: ordered membership. section_id groups items into the
 -- sections of the assembled CollectionItemManifest; position orders within a
--- section. v1 uses a single 'default' section, but the shape supports more.
+-- section. Only the 'default' section is authored, but the shape supports more.
 CREATE TABLE IF NOT EXISTS user_collection_items (
   collection_id TEXT NOT NULL REFERENCES user_collections(id) ON DELETE CASCADE,
   ref           TEXT NOT NULL,

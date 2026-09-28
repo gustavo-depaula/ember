@@ -2,7 +2,7 @@ import type { Lang, Localized } from '@ember/missal-schema'
 import { fixTitleTypos } from '../fixes/universal'
 
 /**
- * Build-time title prettification (was runtime prettifyCelebrationTitle).
+ * Build-time title prettification.
  * The baseline ships display-ready pt-BR titles and already-disambiguated
  * Christmas/vigil titles; what remains is: all-caps solemnity titles
  * ("NATAL DO SENHOR"), the "<Ordinal> semana <X>" / "<Season> Season <X>"

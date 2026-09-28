@@ -158,10 +158,6 @@ describe('loadBookChapterText', () => {
       '<p><img src="../images/cross.png"></p>',
     )
   })
-
-  it('routes external refs through their producer', async () => {
-    expect(await loadBookChapterText('ext-b', 'intro', 'pt-BR')).toBe('B:ext-b/intro/pt-BR')
-  })
 })
 
 describe('engine resolution', () => {

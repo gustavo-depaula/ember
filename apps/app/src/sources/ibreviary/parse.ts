@@ -11,7 +11,7 @@ import {
   isDaytimeHour,
 } from './config'
 
-// iBreviary serves one office as linear HTML, but the two editions mark it up
+// iBreviary serves one office as linear HTML, but the editions mark it up
 // differently: PT uses many small <p>s (one per stanza/rubric), EN packs whole
 // sections into giant <p>s separated by <br><br>. The common denominator is a
 // run/line/block model: inline runs styled by their enclosing span class,
@@ -22,8 +22,6 @@ type RunStyle = 'plain' | 'rubric' | 'italic'
 type Run = { style: RunStyle; text: string }
 type Line = Run[]
 type Block = Line[]
-
-// — DOM → blocks —
 
 type Collector = {
   blocks: Block[]
@@ -109,8 +107,6 @@ function collectBlocks(inner: Element): Block[] {
   endBlock(c)
   return c.blocks
 }
-
-// — lines → primitives —
 
 const lineText = (line: Line) => normalize(line.map((r) => r.text).join(''))
 
@@ -246,8 +242,6 @@ export function parseHour(html: string): Primitive[] {
   if (primitives.length === 0) throw new Error('ibreviary: page parsed to no content')
   return primitives
 }
-
-// — daytime (ora_media) splitting —
 
 const primitiveFirstLine = (p: Primitive): string => {
   if (p.type === 'rubric' || p.type === 'heading') return p.text.primary.split('\n')[0]

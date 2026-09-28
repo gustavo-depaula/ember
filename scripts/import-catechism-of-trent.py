@@ -133,7 +133,6 @@ PT_RANGES: list[tuple[str, int, int]] = [
 def split_english() -> dict[str, str]:
     """Return {chapter_id: body_text} for all 42 English chapters."""
     text = SRC_EN.read_text(encoding="utf-8")
-    # Split by page separators
     pages = re.split(r"\n*---\n*", text)
     by_filename: dict[str, str] = {}
     for page in pages:

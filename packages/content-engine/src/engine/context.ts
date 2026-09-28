@@ -52,21 +52,11 @@ export type EngineContext = {
    * a host that loads manifests lazily never has to pre-warm them itself.
    */
   prepareBooks?: (books: string[]) => Promise<void>
-  /**
-   * Optional asset reader for a practice's own data declarations. When not
-   * supplied, the engine falls back to `FlowContext.cycleData[path]` so a
-   * practice's declared `data` files resolve without a host-supplied reader.
-   *
-   * Cross-practice data dependencies (e.g. `mass-of` reading OF Mass propers)
-   * are wired into the source itself at construction time, not threaded
-   * through `EngineContext`.
-   */
+  /** Reader for a practice's own data declarations; defaults to `FlowContext.cycleData[path]`. */
   fetchOwnAsset?: (path: string) => Promise<unknown>
   /**
-   * IDs of the ContentSources that handle bible / ccc / psalmody fetches.
-   * The engine never hardcodes source names — when `lectio` resolves a
-   * reading or a flow asks for psalmody, the engine emits an `include`
-   * pointing at the id the host provides here.
+   * IDs of the ContentSources for bible / ccc / psalmody. The engine never
+   * hardcodes source names; it emits an `include` pointing at these ids.
    */
   contentSources: {
     bibleChapter: string
@@ -130,12 +120,9 @@ export function getContextValue(context: FlowContext, key: string): string | und
 }
 
 /**
- * Walk a dotted path through FlowContext data.
- *
- * Single-segment lookups try flowData → templateVars → getContextValue
- * (preserving existing behavior for `select.on: 'dayOfWeek'`, etc.).
- * Multi-segment paths walk flowData / templateVars; any segment that
- * misses returns undefined.
+ * Single-segment lookups try flowData → templateVars → getContextValue (so
+ * `select.on: 'dayOfWeek'` works). Multi-segment paths walk flowData /
+ * templateVars only.
  */
 export function resolvePath(context: FlowContext, path: string): unknown {
   if (!path.includes('.')) {
@@ -160,9 +147,8 @@ export function resolvePath(context: FlowContext, path: string): unknown {
 }
 
 export function lookupMap(map: Record<string, string>, value: string): string | undefined {
-  // Exact match first
   if (value in map) return map[value]
-  // Range match — iterate in declaration order, first match wins
+  // Range keys ('6-8'): declaration order, first match wins.
   const num = Number(value)
   if (Number.isNaN(num)) return undefined
   for (const [k, v] of Object.entries(map)) {

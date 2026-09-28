@@ -39,8 +39,6 @@ export const custodyKeys = {
   sessions: () => [...ROOT, 'sessions', 'recent'] as const,
 }
 
-// --- Reads ---
-
 export function useCommitments(opts: { includeArchived?: boolean } = {}) {
   const includeArchived = opts.includeArchived ?? false
   return useQuery({
@@ -54,10 +52,7 @@ export function useCommitment(id: string | undefined) {
     // Distinct sentinel key when disabled so we don't collide with a real
     // id of '' if one ever sneaks in.
     queryKey: id ? custodyKeys.commitment(id) : ([...ROOT, 'commitment', '__disabled__'] as const),
-    // TanStack Query rejects `undefined` query results. `getCommitment`
-    // returns undefined when the row is gone (e.g. just deleted) — coerce
-    // to `null` so the query settles cleanly during the delete-then-back
-    // navigation flow.
+    // A just-deleted row reads as undefined, which TanStack Query rejects.
     queryFn: async () => (id ? ((await getCommitment(id)) ?? null) : null),
     enabled: !!id,
   })
@@ -91,8 +86,6 @@ export function useRecentSessions(limit = 20) {
   })
 }
 
-// --- Mutations ---
-
 function useInvalidateRoot() {
   const qc = useQueryClient()
   return useCallback(() => qc.invalidateQueries({ queryKey: custodyKeys.root }), [qc])
@@ -101,7 +94,7 @@ function useInvalidateRoot() {
 // Enforcement is best-effort — the DB write is already committed when these
 // run, so a native failure (auth revoked, RNDA crash, missing selection)
 // must not bubble out and mark the mutation as failed. We log and rely on
-// the foreground reconcile loop in _layout.tsx to retry on next launch.
+// the launch reconcile in start.ts to retry.
 async function safeWire(commitment: Commitment): Promise<void> {
   try {
     await wireBoundEnforcement(commitment)

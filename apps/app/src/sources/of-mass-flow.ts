@@ -12,13 +12,11 @@ import { buildOfMassFlow } from './of'
 import type { ContentSource, SourceFetchContext } from './types'
 
 /**
- * producer/mass-of — the rebuilt OF Mass as final primitives, no engine.
+ * producer/mass-of — the OF Mass as final primitives, without the flow engine.
  *
  * resolveOfDay (over the corpus calendar statics) → fetch the day's formulary
  * closure (each celebration + inherited orations + the temporal sibling for
- * memorial readings) + the Order-of-Mass bundle → buildOfMassFlow. Registered
- * alongside the legacy `producer/mass`; the Mass practice is switched onto it
- * at cutover.
+ * memorial readings) + the Order-of-Mass bundle → buildOfMassFlow.
  */
 export const ofMassFlowSource: ContentSource<Primitive[]> = {
   id: 'producer/mass-of',

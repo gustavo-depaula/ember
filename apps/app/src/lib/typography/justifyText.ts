@@ -26,7 +26,7 @@ import { laLiturgicPatterns } from './hyphenLaLiturgic.generated'
  * recipe a `<Text>` tree can express: styled pieces, and the exact width of
  * the space that follows each.
  *
- * See `docs/design/typography-justification.md` § Part 6.
+ * See `docs/design/typography-justification.md`.
  */
 
 /**
@@ -265,8 +265,7 @@ export function justifyText({
     runs.push({
       fontKey: `${fontFamilyId}-${key}`,
       // TeX's interword glue: a space may stretch by half and shrink by a third.
-      // An atom's spaces are rigid — a citation reading "PS.    87:9" is exactly
-      // what the old fixed-width-space workaround in `VerseRef` was dodging.
+      // An atom's spaces are rigid, so a citation never reads "PS.    87:9".
       space: segment.atomic
         ? { width: spaceWidth, stretch: 0, shrink: 0 }
         : { width: spaceWidth, stretch: spaceWidth * 0.5, shrink: spaceWidth / 3 },

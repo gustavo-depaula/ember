@@ -11,10 +11,8 @@ import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getCelebrationsForDate } from '@/lib/liturgical'
 
-// Celebration-of-the-Day "story" — the destination of the Explore featured
-// block. Shows the day's principal liturgical celebration plus any other
-// celebrations that share the date, each with its name, rank, and the Mass
-// formulary's liturgical description.
+// The destination of the Explore featured block: the day's principal
+// celebration plus any others that share the date.
 export default function CelebrationOfDayScreen() {
   const { t } = useTranslation()
   const router = useRouter()

@@ -4,8 +4,7 @@ import { XStack, YStack } from 'tamagui'
 import { Typography } from './typography'
 
 /**
- * Screen title, left-aligned. Two registers, so functional screens stop
- * borrowing the sacred voice:
+ * Screen title, left-aligned, in one of two registers:
  * - `variant="utility"` (default) — Settings, Library, Plan, Explore… render in
  *   the quiet `screen-title` voice.
  * - `variant="sacred"` — content/sacred screens (Saints, Scripture…) render in

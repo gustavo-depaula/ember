@@ -21,9 +21,8 @@ export function SelectBlock({
 }: {
   label: string
   overrideKey: string
-  // The engine's auto/default pick — the branch preprocessed eagerly and the
-  // initial active tab. Empty string means no default: nothing is highlighted
-  // and no branch renders until the user picks one (used by the votive picker).
+  // The engine's default pick, preprocessed eagerly. Empty string means no
+  // default: nothing renders until the user picks (the votive picker).
   selectedId: string
   pickerStyle?: PickerStyle
   options: ContainerOption[]
@@ -38,8 +37,7 @@ export function SelectBlock({
   const active =
     options.find((option) => option.id === activeId) ?? (selectedId ? options[0] : undefined)
 
-  // Warm every non-default branch in the background right after mount so a tab
-  // tap resolves from cache instantly. The default branch is already in hand.
+  // Warm every non-default branch so a tab tap resolves from cache.
   useEffect(() => {
     for (const option of options) {
       if (option.id === selectedId) continue
@@ -54,8 +52,8 @@ export function SelectBlock({
 
   const handleSelect = (optionId: string) => {
     setActiveId(optionId)
-    // Inform the override store so completion advances the chosen branch's
-    // reading cursor (the main flow query is intentionally not re-run).
+    // So completion advances the chosen branch's reading cursor; the main flow
+    // query is intentionally not re-run.
     onSelect(optionId)
   }
 

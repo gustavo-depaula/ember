@@ -15,14 +15,9 @@ export type PracticeContent = {
   primitives: Primitive[]
 }
 
-// Single async query: resolve the flow, then preprocess producer-fetched data
-// into a static primitive tree. Returns both stages — `renderedSections` is
-// needed for findTrackIds (engine metadata is dropped during preprocess);
-// `primitives` is what the renderer consumes.
-//
-// Pulls its sibling hooks (usePractice, usePracticeTracks, preferences, today)
-// internally. React Query dedupes the useQuery calls; useToday and zustand
-// selectors are idempotent under multiple subscriptions.
+// Resolves the flow, then preprocesses it into a static primitive tree.
+// Returns both stages: `renderedSections` feeds findTrackIds (engine metadata
+// is dropped during preprocess); `primitives` is what the renderer consumes.
 //
 // Select tabs are intentionally NOT an input here: the flow resolves with the
 // engine's auto/default pick and materializes every select branch's structure.

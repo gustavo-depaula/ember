@@ -14,7 +14,6 @@ import { artFor } from '@/features/explore/artMap'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
-/** Quiet placeholder while an unwarmed collection's manifest fetches. */
 function CollectionSkeleton() {
   return (
     <YStack gap="$md" opacity={0.5}>
@@ -41,7 +40,6 @@ export default function CollectionDetailScreen() {
   const insets = useSafeAreaInsets()
   const bottomClearance = useBottomClearance()
 
-  // Drive the hero's stretch-on-pull-down off the scroll offset.
   const scrollY = useSharedValue(0)
   const onScroll = useAnimatedScrollHandler((e) => {
     scrollY.value = e.contentOffset.y

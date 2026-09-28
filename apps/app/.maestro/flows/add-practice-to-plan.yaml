@@ -12,9 +12,8 @@ name: Add Practice to Plan
 - tapOn:
     id: "shortcut-home.pray"
 
-# /practices renders the catalog as a long scroll (Pray Now hero → Collections
-# → Essential Prayers → All Prayers → All Practices). Grace meals lives in the
-# All Practices FlatList near the bottom — scroll until it comes into view.
+# Grace meals sits near the bottom of the /practices catalog — scroll until it
+# comes into view.
 - scrollUntilVisible:
     element:
       id: "practice-card-practice/grace-meals"

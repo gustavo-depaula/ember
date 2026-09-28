@@ -14,14 +14,13 @@ export type InlineNode =
 export function parseInline(text: string): InlineNode[] {
   const nodes: InlineNode[] = []
 
-  // Handle ***boldpart** ...rest...* (bold closes before italic)
-  // Common in Liguori meditations: ***Sumário.** paragraph body.*
-  // Trailing punctuation after closing * is allowed (e.g. *. or *,)
+  // ***bold** rest* — bold closes before italic, as in Liguori meditations
+  // (***Sumário.** body.*). Trailing punctuation after the closing * is allowed.
   const nestedRe = /^\*\*\*(.+?)\*\*(.+)\*([\p{P}]?)$/u
   const nestedMatch = nestedRe.exec(text)
   if (nestedMatch) {
     nodes.push({ type: 'bolditalic', text: nestedMatch[1] })
-    // Inner *...* pairs are italic-within-italic — strip the markers since already in italic context
+    // Inner *...* would be italic-within-italic; strip the markers.
     const italicBody = nestedMatch[2].replace(/\*([^*]+)\*/g, '$1') + nestedMatch[3]
     nodes.push({ type: 'italic', text: italicBody })
     return nodes
@@ -103,7 +102,6 @@ export function parseMarkdown(markdown: string): ProseNode[] {
       continue
     }
 
-    // Blockquote line: "> text" or bare ">" continuation
     if (trimmed.startsWith('> ') || trimmed === '>') {
       flushParagraph()
       flushList()

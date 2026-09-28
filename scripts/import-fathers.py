@@ -38,15 +38,11 @@ CACHE = ROOT / "scripts" / "_cache" / "newadvent"
 FATHERS_DIR = CACHE / "fathers"
 BOOKS_ROOT = ROOT / "content" / "books" / "church-fathers"
 
-# Reserved if we ever need to skip a specific work — left empty for now.
-# Collisions with existing repo book ids fall through to assign_book_id's
-# `-schaff` / `-anf` suffix chain so both versions can coexist.
+# Work ids to skip, with the reason. Collisions with existing repo book ids
+# don't belong here: assign_book_id's suffix chain (`-schaff`, `-anf`, …)
+# lets both versions coexist.
 SKIP_WORK_IDS: dict[str, str] = {}
 
-
-# ---------------------------------------------------------------------------
-# HTML helpers
-# ---------------------------------------------------------------------------
 
 _COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 
@@ -97,10 +93,6 @@ def text_of(node: Tag | NavigableString | None) -> str:
         return ""
     return re.sub(r"\s+", " ", node.get_text(" ", strip=True))
 
-
-# ---------------------------------------------------------------------------
-# HTML → Markdown
-# ---------------------------------------------------------------------------
 
 INLINE_TAGS = {"a", "span", "font", "small", "abbr", "cite"}
 DROP_TAGS = {"script", "style", "noscript"}
@@ -271,10 +263,6 @@ def html_to_markdown(root: Tag) -> str:
     return "\n\n".join(out)
 
 
-# ---------------------------------------------------------------------------
-# New Advent page model
-# ---------------------------------------------------------------------------
-
 @dataclass
 class SourceMeta:
     translator: str = ""
@@ -358,10 +346,6 @@ def page_title(soup: BeautifulSoup) -> str:
     h1 = soup.find("h1")
     return text_of(h1)
 
-
-# ---------------------------------------------------------------------------
-# Index parsing — fathers/index.html → authors + works
-# ---------------------------------------------------------------------------
 
 @dataclass
 class WorkRef:
@@ -452,10 +436,6 @@ def parse_master_index() -> list[AuthorEntry]:
             current = None  # each <p> is one author block in this layout
     return authors
 
-
-# ---------------------------------------------------------------------------
-# Work extraction
-# ---------------------------------------------------------------------------
 
 @dataclass
 class Chapter:
@@ -558,8 +538,8 @@ def build_work(ref: WorkRef, author: AuthorEntry) -> Work:
             ))
             if not work.source.work and ch_src.work:
                 work.source = ch_src
-        # The TOC page itself may contain a preface section above the links;
-        # for now we let that drop. (Most TOC pages are pure link lists.)
+        # Any preface above the TOC links is dropped; most TOC pages are pure
+        # link lists.
     else:
         # Single-page work.
         for h1 in main.find_all("h1"):
@@ -576,10 +556,6 @@ def build_work(ref: WorkRef, author: AuthorEntry) -> Work:
     work.series = work.source.series_code()
     return work
 
-
-# ---------------------------------------------------------------------------
-# Author / work id assignment + collision handling
-# ---------------------------------------------------------------------------
 
 def existing_book_ids() -> set[str]:
     out: set[str] = set()
@@ -678,10 +654,6 @@ def short_work_slug(title: str, author_name: str = "") -> str:
     return s
 
 
-# ---------------------------------------------------------------------------
-# Emission
-# ---------------------------------------------------------------------------
-
 def write_work(work: Work, existing: set[str], existing_paths: set[Path]) -> dict | None:
     """Materialize a Work to `content/books/church-fathers/...`. Returns
     summary {id, dir, chapters} or None if skipped."""
@@ -739,10 +711,6 @@ def write_work(work: Work, existing: set[str], existing_paths: set[Path]) -> dic
     print(f"  wrote {book_id} ({len(work.chapters)} chapters)")
     return {"id": book_id, "dir": str(book_dir.relative_to(ROOT)), "chapters": len(work.chapters)}
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 def cmd_prepare_cache() -> None:
     CACHE.mkdir(parents=True, exist_ok=True)

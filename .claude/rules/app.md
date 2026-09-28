@@ -9,9 +9,13 @@ Design reference: `docs/design/design-system.md`. Justified text: `docs/design/t
 
 ## Idiom
 
-- Sheets use the native `@expo/ui` BottomSheet. Never hand-roll one.
-- No generic bordered pill or box chrome. Selection and grouping are typographic (type, space, gold, fleurons). Default to `$body` / `$heading`; `$script` and italics are rare accents, never prayer bodies.
-- Reuse the pattern already on the screen before reaching for a generic default.
+- Reuse the pattern already on the screen before reaching for a generic default, and generalize every design correction the user makes to the whole app.
+- Text is `<Typography variant="…">` from `@/components`, the variant chosen by what the text *is*; the ladder is at the top of `components/typography/Typography.tsx`. `$script` and italics are rare accents, never prayer bodies.
+- Hierarchy comes from type, space and printer's ornament (rules, fleurons, a small inline ✠). Selection and tappable options are typographic; a border only delimits a genuine region. Icons sit flat — no glows or halos.
+- Selection must read at a glance. A selector moves its indicator (e.g. a sliding underline) from local optimistic state on tap, not after the store round-trip.
+- The cross is the Unicode ✠, small and inline. The SVG `Glyph kind="pattee"` belongs to the book-cover designs only — never a standalone decoration or empty-state emblem; an empty state lets type carry the card.
+- The reading/prayer page is a printed missal: ink, with red for rubrics only. Gold belongs to chrome and the collectible (Devotion) side, never the reading page.
+- Sheets use the native `@expo/ui` BottomSheet (`@expo/ui/community/bottom-sheet`).
 
 ## Accessibility
 
@@ -31,6 +35,6 @@ Design reference: `docs/design/design-system.md`. Justified text: `docs/design/t
 
 ## Testing and debugging
 
-- After adding a dependency or calling a native-only API, boot `pnpm start:web`. A green Vitest run proves nothing about bundling: Vite honours `import`-only package exports and `src/test/setup.ts` stubs native modules; Metro and react-native-web do neither, and CI never builds web.
+- A green Vitest run proves nothing about bundling: Vite honours `import`-only package exports and `src/test/setup.ts` stubs native modules; Metro does neither. After adding a dependency or calling a native-only API, run the app in the iOS simulator.
 - A Vitest render dying with `Unexpected token 'typeof'` means a native package pulled in real `react-native` (Flow source). `vi.mock` that package in `apps/app/src/test/setup.ts`; the alias and `deps.inline` cannot reach that require.
 - A TestFlight crash with SIGABRT on `expo.controller.errorRecoveryQueue` is an uncaught JS error rethrown by expo-updates. Apple's `.crash`/`.ips` strip the JS message, so reproduce with `npx expo run:ios` and read Metro's output.

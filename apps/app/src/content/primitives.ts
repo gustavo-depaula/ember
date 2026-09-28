@@ -1,6 +1,5 @@
 // Primitive vocabulary — the small fixed set of renderable nodes the
-// PracticeFlow renderer dispatches on. Today's ~25-variant RenderedSection
-// will collapse onto these once the engine + sources are migrated.
+// PracticeFlow renderer dispatches on.
 //
 // Sources output Primitives (or Primitive[]). Authors compose Primitives in
 // flow JSON, with `Include` as the one node that defers to a ContentSource.
@@ -13,8 +12,6 @@ import type {
 } from '@ember/content-engine'
 
 type LiturgicalColor = 'white' | 'red' | 'green' | 'violet' | 'rose' | 'black' | 'gold'
-
-// — Leaf primitives —
 
 export type TextPrimitive = {
   type: 'text'
@@ -124,20 +121,13 @@ export type ProseInline =
   | { kind: 'ref'; ref: string; text: string }
   | { kind: 'break' }
 
-// Block-level element produced by a reader-kind source (already parsed —
-// the source does the HTML→structured-tree work once, and SQLite caches
-// the result, so the renderer never reparses).
-//
-// Semantic kinds (question, heading, subheading, paragraph-number) are
-// detected by the source after the raw HTML walk, so the renderer can
-// dispatch to a styled component per role instead of squinting at <b>/<p>
-// classes. Anything the classifier doesn't recognize stays a plain
-// 'paragraph' — a safe fallback that still renders as body prose.
+// Block-level element produced by a reader-kind source, already parsed (and
+// cached in SQLite) so the renderer never reparses. The source classifies
+// semantic roles; anything it doesn't recognize stays a plain 'paragraph'.
 //
 // `structural: true` tags interstitial content that *introduces* the next
 // item (chapter/section/part divider + intro quote between Q&As of the
-// Compendium). The renderer can opt to hide structural blocks when the
-// user wants the answers without the source-document chrome.
+// Compendium), which the renderer may hide.
 export type ProseHeadingLevel = 'part' | 'chapter' | 'section' | 'article'
 
 export type ProseBlock =
@@ -195,8 +185,6 @@ export type CalloutPrimitive = {
   rank?: BilingualText
   cycle?: BilingualText
 }
-
-// — Container primitive — one shape, behavior discriminator drives UX —
 
 export type ContainerBehavior =
   | { kind: 'group' }
@@ -263,8 +251,6 @@ export type ContainerPrimitive = {
   children?: Primitive[]
 }
 
-// — Union —
-
 export type Primitive =
   | TextPrimitive
   | HeadingPrimitive
@@ -279,14 +265,10 @@ export type Primitive =
   | CalloutPrimitive
   | ContainerPrimitive
 
-// — Include: what authors write when they want data from a ContentSource —
-
 export type Include = {
   type: 'include'
   source: string
   params: Record<string, unknown>
 }
-
-// — Author-visible flow node: a primitive or a content source reference. —
 
 export type FlowNode = Primitive | Include

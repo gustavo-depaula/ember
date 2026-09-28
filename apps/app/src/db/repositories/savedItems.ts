@@ -1,9 +1,8 @@
 /**
- * Saved-items repository — the user's library shelf. A lightweight curation
- * layer: saving is instant and free (a ref + timestamp), and entirely separate
- * from offline availability (see `features/pinning`). `kind` is denormalized
- * from the catalog entry so the Library can group shelves without a lookup and
- * so user collections (`usercollection/<id>`, no catalog entry) can be saved too.
+ * The user's library shelf: saving is a ref + timestamp, separate from offline
+ * availability (`features/pinning`). `kind` is denormalized from the catalog
+ * entry so the Library can group shelves without a lookup and so user
+ * collections (`usercollection/<id>`, no catalog entry) can be saved too.
  */
 
 import { broadcastChange } from '@/lib/db-shared/manager'

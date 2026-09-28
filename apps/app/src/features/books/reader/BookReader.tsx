@@ -73,11 +73,6 @@ type Props = {
 
 type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlights' | null
 
-/**
- * Minimal splash shown while the manifest + initial chapter resolve. Once
- * chapters stream in on demand (and the cache is warm on re-opens), this
- * window is sub-second on any book — no per-chapter progress to surface.
- */
 // Every state the reader can open into — title page, error, not found — keeps
 // the reader's own close button. An external book's first open waits on a
 // network build, and a stalled or failed one must not leave the user stranded.
@@ -198,8 +193,8 @@ export function BookReader({ bookId, chapter }: Props) {
   const rawConfig = useReaderConfig()
   const cursor = useReaderCursor(bookId)
 
-  // Per-book palette override. Tracked as state so toggling from the settings
-  // sheet re-renders without unmounting; null = no override (use global).
+  // Per-book palette override, held in state so toggling it from the settings
+  // sheet re-renders without unmounting; undefined = use the global palette.
   const [paletteOverride, setPaletteOverride] = useState<ReaderPaletteId | undefined>(() =>
     bookId ? getBookPaletteOverride(bookId) : undefined,
   )
@@ -248,9 +243,6 @@ export function BookReader({ bookId, chapter }: Props) {
     return { startIndex: 0, startFraction: 0 }
   }, [leaves, chapter, cursor.initial, bookEntry])
 
-  // Session = manifest + CSS + a lazy chapter fetcher backed by a 32-entry
-  // LRU. Two HTTP round-trips on a cold cache (catalog + manifest) before
-  // we can render anything, both of which are also cached forever.
   const {
     data: session,
     isLoading: sessionLoading,
@@ -265,8 +257,7 @@ export function BookReader({ bookId, chapter }: Props) {
 
   // The first chapter needs to be in hand BEFORE we paint the WebView host
   // HTML (foliate has to open *something*). Subsequent chapters stream in
-  // via the requestChapter bridge. The body already arrives with its title
-  // heading promoted by the session — no client-side title wrapping needed.
+  // via the requestChapter bridge.
   const {
     data: initialChapter,
     isLoading: initialChapterLoading,
@@ -321,9 +312,8 @@ export function BookReader({ bookId, chapter }: Props) {
   // ChapterCompleteToast.
   const [justCompletedTitle, setJustCompletedTitle] = useState<string | undefined>(undefined)
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => listBookmarks(bookId))
-  // Pull the current persisted list into local state. Called after every
-  // bookmark mutation (add / remove) so the scrubber ticks + sheet stay in
-  // sync — see the lifted-state design in `bookmarks` + `highlights` stores.
+  // Called after every bookmark mutation so the scrubber ticks and sheet stay
+  // in sync.
   const refreshBookmarks = useCallback(() => {
     setBookmarks(listBookmarks(bookId))
   }, [bookId])
@@ -337,10 +327,8 @@ export function BookReader({ bookId, chapter }: Props) {
   const refreshHighlights = useCallback(() => {
     setHighlights(listHighlights(bookId))
   }, [bookId])
-  // Shared shape-mapper: store-color name (`yellow` / `pink` / …) → bridge
-  // BootstrapHighlight (with the resolved CSS color + boolean note marker).
-  // Both the optimistic single-paint path and the bulk-replay useEffect map
-  // through here so the WebView always sees the same shape.
+  // Both the optimistic single-paint path and the bulk replay map through here
+  // so the WebView always sees the same shape.
   const toBootstrapPayload = useCallback(
     (input: {
       id: string

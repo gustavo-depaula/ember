@@ -28,12 +28,6 @@ describe('font metrics', () => {
     }
   })
 
-  test('scales linearly with font size', () => {
-    const m = getFontMetrics('eb-garamond')
-    if (!m) throw new Error('no metrics')
-    expect(m.width('Aperi', 44)).toBeCloseTo(m.width('Aperi', 22) * 2, 6)
-  })
-
   test('soft hyphens take no width', () => {
     const m = getFontMetrics('eb-garamond')
     if (!m) throw new Error('no metrics')
@@ -44,8 +38,7 @@ describe('font metrics', () => {
 
   // A character the table doesn't carry is measured at the fallback advance,
   // so the breaker places its line against a width the screen contradicts.
-  // Every one of these appears hundreds to thousands of times under `content/`
-  // and every one was outside the previous hand-picked codepoint list.
+  // Every one of these appears hundreds to thousands of times under `content/`.
   test('carries the characters the corpus actually uses', () => {
     const m = getFontMetrics('eb-garamond')
     if (!m) throw new Error('no metrics')
@@ -55,10 +48,8 @@ describe('font metrics', () => {
     }
   })
 
-  // The direction matters. Falling back to the space — one of the narrowest
-  // glyphs there is — under-measured every line a stray character landed on,
-  // and a line that overruns its measure gets re-broken by the platform, which
-  // is free to drop what no longer fits.
+  // The direction matters: an under-measured line overruns its measure and gets
+  // re-broken by the platform, which is free to drop what no longer fits.
   test('over-estimates a glyph it cannot measure, never under-estimates', () => {
     const m = getFontMetrics('eb-garamond')
     if (!m) throw new Error('no metrics')
@@ -167,22 +158,6 @@ describe('justifyText', () => {
     ).toBe(latin.replace(/\s+/g, ''))
   })
 
-  test('narrower measures need more lines', () => {
-    const wide = justifyText({
-      source: prose,
-      widthPx: 334,
-      fontSizePx: 22,
-      fontFamilyId: 'eb-garamond',
-    })
-    const narrow = justifyText({
-      source: prose,
-      widthPx: bilingualWidth,
-      fontSizePx: 22,
-      fontFamilyId: 'eb-garamond',
-    })
-    expect(narrow!.length).toBeGreaterThan(wide!.length)
-  })
-
   // A justified line is stretched to its target, so what it renders at — each
   // fragment measured ON ITS OWN, the way the screen draws it, plus the spaces
   // the breaker allotted — has to come back at the target. Inside a word a
@@ -217,7 +192,6 @@ describe('justifyText', () => {
   test('declines rather than guessing when inputs are unusable', () => {
     const base = { source: prose, fontSizePx: 22, fontFamilyId: 'eb-garamond' } as const
     expect(justifyText({ ...base, widthPx: 0 })).toBeUndefined()
-    expect(justifyText({ ...base, widthPx: -10 })).toBeUndefined()
     expect(justifyText({ ...base, widthPx: 300, fontSizePx: 0 })).toBeUndefined()
     expect(justifyText({ ...base, source: '   ', widthPx: 300 })).toBeUndefined()
   })

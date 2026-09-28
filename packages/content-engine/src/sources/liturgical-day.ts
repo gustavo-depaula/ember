@@ -25,19 +25,10 @@ function isLiturgicalDayMap(value: unknown): value is LiturgicalDayMap {
 /**
  * Resolves today's liturgical day from a per-practice liturgical-map data file.
  *
- * Args:
- *   - data: name of the data declaration (e.g. 'liturgical-map') — read via
- *     ctx.fetchOwnAsset
- *   - calendar: 'ef' | 'of' (defaults to 'ef')
- *
- * Output shape (bound to flowData[as]):
- *   {
- *     liturgicalLabel: string       // localized day name, e.g. "1ª semana do Advento"
- *     alternatives: RepeatEntry[]   // matching map entries; chapterId per entry
- *   }
- *
- * Used by Liguori's Meditações and any future practice that wants
- * "today's content keyed by liturgical day."
+ * Args: `data` (the data declaration name, read via ctx.fetchOwnAsset) and
+ * `calendar` ('ef' | 'of', default 'ef'). Binds
+ * `{ liturgicalLabel, alternatives: RepeatEntry[] }` — the localized day name
+ * and the matching map entries, one chapterId each.
  */
 export const liturgicalDaySource: DataSource = {
   async load(args, ctx) {

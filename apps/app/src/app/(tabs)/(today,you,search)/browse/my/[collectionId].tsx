@@ -12,10 +12,8 @@ import { toneByIndex } from '@/features/explore/bgColor'
 import { ManageCollectionSheet, userCollectionRef, useUserCollection } from '@/features/library'
 
 /**
- * The viewer for a user-authored collection. Same immersive chrome as a corpus
- * collection (CollectionHero + SectionList), fed from a locally-assembled
- * manifest. The hero carries a Save + Edit cluster (no offline — the content is
- * already local); Edit opens the manage sheet.
+ * A user-authored collection, fed from a locally-assembled manifest. The hero
+ * has no offline action — the content is already local.
  */
 export default function UserCollectionScreen() {
   const { collectionId } = useLocalSearchParams<{ collectionId: string }>()

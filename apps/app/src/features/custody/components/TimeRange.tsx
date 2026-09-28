@@ -101,10 +101,8 @@ export function TimeRange({
 
   return (
     <YStack gap="$md">
-      {/* 2x2 grid of preset chips. Two-row YStack with flex={1} children
-          guarantees every chip is identical width regardless of label
-          length — the previous flexWrap layout produced an asymmetric
-          3-then-1 wrap because labels differed. */}
+      {/* 2x2 grid of preset chips. Two rows of flex={1} children keep every
+          chip the same width; flexWrap wrapped 3-then-1 on uneven labels. */}
       <YStack gap="$xs">
         <XStack gap="$xs">
           <PresetChip

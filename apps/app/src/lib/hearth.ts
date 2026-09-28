@@ -103,9 +103,8 @@ export async function fetchHearth<T>(
     // dev hearth (e.g. on a LAN IP that may not be reachable) is offline.
     return await fetchFrom(getBaseUrl(), isLocal ? 3_000 : 15_000, !isLocal)
   } catch (err) {
-    // Local-dev fallback: when the dev hearth is offline, transparently fall
-    // back to the remote so the app stays functional. Only on network/timeout
-    // errors — re-throw if the user's offline.
+    // When the dev hearth is offline, fall back to the remote so the app stays
+    // functional.
     if (isLocal) {
       try {
         return await fetchFrom(remoteUrl, 15_000, false)

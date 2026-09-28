@@ -15,9 +15,8 @@ import { justifyText, type StyledSegment } from '@/lib/typography/justifyText'
 import { breakWidth, fitToPlatform, type MeasureFit } from '@/lib/typography/measureFit'
 import { drawStyle, type Faces } from './runs'
 
-// Everything about a segment that changes the lines the breaker builds. Only
-// text and metrics: `render` and `onPress` change how a line is drawn, not
-// where it breaks.
+// Only text and metrics: `render` and `onPress` change how a line is drawn,
+// not where it breaks.
 const modelOf = (segments: StyledSegment[]) =>
   segments
     .map(
@@ -68,15 +67,13 @@ export function JustifiedLines({
     return justifyText({ source: segments, widthPx, fontSizePx, fontFamilyId, language })
   }, [width, fit, modelKey, segments, fontSizePx, fontFamilyId, language])
 
-  // The platform reports the lines it actually laid the paragraph out on, and
-  // `fitToPlatform` narrows the measure when there are more of them than the
-  // model has — caught here, at measure time, before anything is drawn.
+  // `fitToPlatform` narrows the measure when the platform laid out more lines
+  // than the model has.
   const modelLineCount = lines?.length ?? 0
   const onTextLayout = useCallback(
     (e: { nativeEvent: { lines: ReadonlyArray<unknown> } }) => {
-      // Read the count HERE, not inside the updater below: React Native pools
-      // synthetic events, so by the time an updater runs — in the render phase,
-      // after this handler has returned — `nativeEvent` has been nullified.
+      // Read the count here, not inside the updater: React Native pools
+      // synthetic events, so `nativeEvent` is nullified by the time it runs.
       const platformLines = e.nativeEvent.lines.length
       setFit((prev) => fitToPlatform(prev, modelKey, platformLines, modelLineCount))
     },
@@ -88,8 +85,8 @@ export function JustifiedLines({
   const lineHeight = typeof textProps.lineHeight === 'number' ? textProps.lineHeight : undefined
   const fallbackGuard = useLastLineGuard(`${modelKey}|${lineHeight}`)
 
-  // onLayout gives us the measure the breaker needs. Functional update so the
-  // callback doesn't close over `width` and change identity every render.
+  // Functional update so the callback doesn't close over `width` and change
+  // identity every render.
   const guardFallback = fallbackGuard.onLayout
   const onLayout = useCallback(
     (e: LayoutChangeEvent) => {
@@ -108,10 +105,9 @@ export function JustifiedLines({
     )
   }
 
-  // Every line is one `lineHeight` tall, so the paragraph's height is known
-  // before it is laid out, and the pixel `useLastLineGuard` explains can be
-  // added up front — otherwise the platform would report the clipped paragraph
-  // one line short, and `onTextLayout` would narrow a measure that was right.
+  // Height is known up front (lines × lineHeight), so add the `useLastLineGuard`
+  // slack now — otherwise iOS reports the clipped paragraph one line short and
+  // `onTextLayout` narrows a measure that was right.
   const minHeight =
     Platform.OS === 'ios' && lineHeight ? lines.length * lineHeight + lastLineSlack() : undefined
 
@@ -137,15 +133,13 @@ export function JustifiedLines({
                 {piece.text}
               </Text>
               {piece.spaceAfter && (
-                // The whole trick: a lone space, drawn in its own run's face,
-                // widened by exactly what the breaker allotted this gap. Never
-                // pressable — the gap belongs to the line, not to the element.
+                // A lone space widened by what the breaker allotted this gap.
+                // Never pressable — the gap belongs to the line, not the element.
                 <Text
                   style={{
                     ...drawStyle(faces, piece.spaceAfter),
-                    // The run's own tracking is part of the width the breaker
-                    // priced this space at, so the flex adds ON TOP of it
-                    // rather than replacing it.
+                    // The breaker priced this space including the run's own
+                    // tracking, so the flex adds on top of it.
                     letterSpacing: (piece.spaceAfter.letterSpacing ?? 0) + piece.spaceAfter.extraPx,
                   }}
                 >

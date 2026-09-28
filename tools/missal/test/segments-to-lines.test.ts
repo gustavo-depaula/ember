@@ -35,7 +35,7 @@ describe('segmentsToLines', () => {
       { type: 'reading_acclamation', text: 'Palavra do Senhor.' },
     ]
     const [line] = segmentsToLines(raw)
-    // 'capital' is no longer a drop-cap — it merges into plain text.
+    // 'capital' merges into plain text rather than rendering as a drop-cap.
     expect(line.map((s) => s.type)).toEqual(['signOfCross', 'response', 'text', 'italic', 'response'])
   })
 

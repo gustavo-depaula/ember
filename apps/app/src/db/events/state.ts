@@ -24,22 +24,14 @@ export type SlotState = {
 }
 
 export type EventStoreState = {
-  // Practices
   practices: Map<string, UserPractice>
   slots: Map<string, SlotState>
-
-  // Completions
   completions: Map<number, Completion>
   completionsByDate: Map<string, Set<number>>
   completionsByPractice: Map<string, Set<number>>
-
-  // Cursors
   cursors: Map<string, Cursor>
-
-  // ID counters (for generating IDs during replay/emit)
   nextCompletionId: number
 
-  // Actions
   apply: (event: AppEvent) => void
   applyBatch: (events: AppEvent[]) => void
   reset: () => void

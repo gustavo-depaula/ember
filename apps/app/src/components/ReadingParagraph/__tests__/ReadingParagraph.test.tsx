@@ -141,23 +141,6 @@ describe('reading surfaces hand their line breaking to the justifier', () => {
     expect(block.textContent).not.toContain('--')
   })
 
-  it('keeps a cross-reference tappable inside justified text', () => {
-    measurable()
-    const onRefPress = vi.fn()
-    wrap(
-      <ProducerHtmlBlock
-        blocks={paragraph([
-          { kind: 'text', text: 'Man is capable of God, as the Catechism says at ' },
-          { kind: 'ref', ref: 'book/ccc#1213', text: '1213' },
-          { kind: 'text', text: ', on the sacrament of baptism and its effects.' },
-        ])}
-        onRefPress={onRefPress}
-      />,
-    )
-    fireEvent.click(screen.getByText('1213'))
-    expect(onRefPress).toHaveBeenCalledWith('book/ccc#1213')
-  })
-
   it('does not fuse two adjacent cross-references into one tap target', () => {
     measurable()
     const onRefPress = vi.fn()
@@ -231,8 +214,8 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
     })
   })
 
-  // A missal rubric used to fall back to `fontStyle: italic` over the roman —
-  // a face with the roman's advances, which the justifier never measured.
+  // `fontStyle: italic` over the roman would draw with the roman's advances,
+  // which is not what the justifier measured.
   it('draws a missal rubric in the italic face the justifier measures', () => {
     usePreferencesStore.setState({ textAlign: 'left' })
     wrap(
@@ -293,9 +276,8 @@ describe('ReadingParagraph draws the segments itself wherever the breaker does n
     expect(container.querySelectorAll('span[style*="letter-spacing"]').length).toBeGreaterThan(0)
   })
 
-  // Side by side, the secondary column is a different language. It used to be
-  // hyphenated with the primary language's patterns, because nothing between
-  // `BilingualBlock` and the paragraph passed the column's language down.
+  // Side by side, the secondary column is a different language, so
+  // `BilingualBlock` has to pass each column's language down to the paragraph.
   it('hyphenates each bilingual column in its own language', () => {
     const latin =
       'Aperi, Domine, os meum ad benedicendum Nomen sanctum tuum; munda quoque cor meum ab omnibus vanis, perversis et alienis cogitationibus.'

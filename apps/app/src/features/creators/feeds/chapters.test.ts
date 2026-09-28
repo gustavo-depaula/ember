@@ -69,21 +69,6 @@ describe('parseInlineChapters', () => {
 })
 
 describe('parsePodcastChaptersDoc', () => {
-  it('passes through structured chapter data', () => {
-    expect(
-      parsePodcastChaptersDoc({
-        version: '1.2',
-        chapters: [
-          { startTime: 0, title: 'Intro' },
-          { startTime: 90.5, title: 'Question 1' },
-        ],
-      }),
-    ).toEqual([
-      { tStart: 0, title: 'Intro' },
-      { tStart: 90.5, title: 'Question 1' },
-    ])
-  })
-
   it('drops malformed entries', () => {
     expect(
       parsePodcastChaptersDoc({

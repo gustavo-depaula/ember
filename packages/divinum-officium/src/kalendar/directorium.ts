@@ -1,8 +1,8 @@
 // Port of DivinumOfficium::Directorium — the Tabulae tables: version chains
 // (data.txt), kalendaria (diff-based on a base version), precomputed annual
 // transfers keyed by Sunday letter + Easter date, permanent tempora
-// assignments, and the transfered() lookup. Dioecesis support is out of scope
-// for v1 (Calendarium Generale only).
+// assignments, and the transfered() lookup. Dioecesis support is not
+// ported (Calendarium Generale only).
 
 import type { DoLoader } from '../loader'
 import { geteaster, getSday, leapyear, nextday } from './date'

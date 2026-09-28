@@ -3,8 +3,6 @@ import { addDays, differenceInCalendarDays } from 'date-fns'
 import { getEfLiturgicalPosition } from './ef-position'
 import { computeEaster, normalizeDate } from './season'
 
-// ── Types ──
-
 export type DayMapEntry = {
   primary: string
   secondary?: string
@@ -23,8 +21,6 @@ export type ResolvedDayEntry = {
   id: string
   category: 'feast' | 'temporal' | 'additional'
 }
-
-// ── Helpers ──
 
 function formatDateKey(date: Date): string {
   const m = String(date.getMonth() + 1).padStart(2, '0')
@@ -112,9 +108,6 @@ function getChristmasNovenaDay(date: Date): number | undefined {
   return undefined
 }
 
-/**
- * Check if date is the Sunday before June 24.
- */
 function isSundayBeforeJun24(date: Date): boolean {
   if (date.getDay() !== 0) return false
   const year = date.getFullYear()
@@ -123,9 +116,6 @@ function isSundayBeforeJun24(date: Date): boolean {
   return diff > 0 && diff <= 7
 }
 
-/**
- * Check if date is the 3rd Sunday of July.
- */
 function is3rdSundayOfJuly(date: Date): boolean {
   if (date.getDay() !== 0) return false
   if (date.getMonth() !== 6) return false
@@ -133,9 +123,7 @@ function is3rdSundayOfJuly(date: Date): boolean {
   return dayOfMonth >= 15 && dayOfMonth <= 21
 }
 
-/**
- * Check if date is the last Sunday of October (EF feast of Christ the King).
- */
+// The EF feast of Christ the King.
 function isLastSundayOfOctober(date: Date): boolean {
   if (date.getDay() !== 0) return false
   if (date.getMonth() !== 9) return false
@@ -152,8 +140,6 @@ function expandEntry(
   if (entry.secondary) result.push({ id: entry.secondary, category })
   return result
 }
-
-// ── Main resolver ──
 
 export function resolveLiturgicalDay(date: Date, map: LiturgicalDayMap): ResolvedDayEntry[] {
   const dateKey = formatDateKey(date)

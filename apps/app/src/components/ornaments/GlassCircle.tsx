@@ -1,8 +1,7 @@
 /**
- * A floating control for over-image heroes: a liquid-glass circle on iOS 26+,
- * with an opaque dark-disc fallback elsewhere. Shared by the collection and
- * practice frontispiece heroes so both read identically. `textShadow` is the
- * companion shadow for cream ink set over the same imagery.
+ * A floating control for over-image heroes: liquid glass on iOS 26+, an opaque
+ * dark disc elsewhere. `textShadow` is the companion shadow for cream ink set
+ * over the same imagery.
  */
 
 import { GlassView, isLiquidGlassAvailable } from 'expo-glass-effect'

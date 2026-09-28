@@ -44,8 +44,7 @@ function renderPart(part: SpecialPart, lang: LangPrefs): Primitive[] {
 /**
  * Render a special-rite liturgy from its typed `parts` content tree. Lossless:
  * every part's heading + content (including the folded intercessions / vigil
- * readings / baptismal renewal) is emitted in liturgical order. A future
- * iteration can promote the typed sub-structures to bespoke interactive blocks.
+ * readings / baptismal renewal) is emitted in liturgical order.
  */
 export function renderSpecial(f: MassFormulary, lang: LangPrefs): Primitive[] {
   const parts = f.parts ?? {}

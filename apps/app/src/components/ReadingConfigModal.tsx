@@ -131,7 +131,6 @@ export function ReadingConfig() {
         <ReadingParagraph source={previewSource} />
       </YStack>
 
-      {/* Row 1: Size + Spacing */}
       <XStack justifyContent="center" gap="$lg">
         <ButtonGroup label={t('readingConfig.size')}>
           <ToolbarButton
@@ -184,7 +183,6 @@ export function ReadingConfig() {
         </ButtonGroup>
       </XStack>
 
-      {/* Row 2: Align + Margins */}
       <XStack justifyContent="center" gap="$lg">
         <ButtonGroup label={t('readingConfig.align')}>
           <ToolbarButton
@@ -264,7 +262,6 @@ export function ReadingConfig() {
         </ButtonGroup>
       </XStack>
 
-      {/* Font list */}
       <YStack gap="$xs">
         {readingFonts.map((f) => {
           const selected = rc.fontFamily === f.id

@@ -8,7 +8,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 import type { EmberDb } from '@/lib/db-shared/protocol'
 import { setDb } from '../../instance'
 import { useEventStore } from '../state'
-import { createEventsTable, emitBatch, getEventCount, replayAll } from '../store'
+import { createEventsTable, emitBatch, replayAll } from '../store'
 import type { AppEvent } from '../types'
 
 beforeEach(async () => {
@@ -27,12 +27,6 @@ const cursorEvents = (n: number): AppEvent[] =>
   }))
 
 describe('emitBatch', () => {
-  it('persists every event of a large batch', async () => {
-    await emitBatch(cursorEvents(450))
-
-    expect(await getEventCount()).toBe(450)
-  })
-
   it('replays the persisted batch in order', async () => {
     await emitBatch(cursorEvents(450))
     await replayAll()

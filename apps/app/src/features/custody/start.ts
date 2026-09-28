@@ -27,9 +27,6 @@ export function startCustody(): void {
     drainShieldEvents().catch((err) =>
       console.error('[startup] custody shield event drain failed', err),
     )
-    // Re-apply iOS Family Controls enforcement for every active bound
-    // commitment. Handles the cold-launch case where iOS shield state
-    // may not match what SQLite says (reinstall, OS restore).
     listCommitments({ includeArchived: false })
       .then((all) => reconcileAllEnforcement(all))
       .catch((err) => console.error('[startup] custody enforcement reconcile failed', err))

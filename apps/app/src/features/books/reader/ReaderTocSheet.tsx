@@ -240,7 +240,7 @@ export function ReaderTocSheet({
             }
             // A group that carries a body is tappable (navigate to its page)
             // while the caret stays separate for expand/collapse. A body-less
-            // group toggles on the whole row, as before.
+            // group toggles on the whole row.
             const isReadableGroup = readableIds?.has(node.id) ?? false
             return (
               <XStack

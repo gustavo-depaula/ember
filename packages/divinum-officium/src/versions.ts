@@ -56,10 +56,9 @@ export function officeVersion(id: string): string {
 }
 
 // The EF Mass practice maps the office preference onto a missal Cmissa
-// supports. The Mass is only differentially verified for the 1960 and Divino
-// Afflatu missals so far; the Divino-Afflatu family maps to DA, everything
-// else (incl. the Tridentine and Monastic offices) maps to the 1962 missal
-// until per-version Mass verification lands.
+// supports. The Mass is differentially verified only for the 1960 and Divino
+// Afflatu missals, so the Divino-Afflatu family maps to DA and everything else
+// (incl. the Tridentine and Monastic offices) maps to the 1962 missal.
 export function massVersion(id: string): string {
   if (id === 'divino-afflatu' || id === 'divino-afflatu-1939') {
     return doVersionNames['divino-afflatu']

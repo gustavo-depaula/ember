@@ -1,14 +1,7 @@
 /**
- * Coverage — given the user's plan-of-life practice ids and the pinned-items
- * list, compute which plan practices are available offline.
- *
- * A practice counts as covered when its corpus id (`practice/<id>`) is either:
- *   - directly pinned, or
- *   - a member of a pinned collection (transitive via `getCollectionItems`).
- *
- * Membership lookup walks remembered collection manifests; any collection
- * whose body has not yet warmed simply contributes nothing — fine for an
- * advisory indicator.
+ * How many plan-of-life practices are available offline: pinned directly, or a
+ * member of a pinned collection. A collection whose body has not warmed yet
+ * contributes nothing — fine for an advisory indicator.
  */
 
 import { getCollectionItems } from '@/content/contentIndex'

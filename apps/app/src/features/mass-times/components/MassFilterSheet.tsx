@@ -12,8 +12,7 @@ import { countActiveFilters, emptyFilter, type MassFilter } from '../useMassTime
 import { ChipButton } from './ChipButton'
 
 // The one filter surface: a bottom sheet that narrows the nearby churches by service, "has times
-// today", and saved-only — replacing the inline pills (which answered "has Mass ever?" rather than
-// the question that matters, "has Mass today?").
+// today" (the question that matters, not "has Mass ever?"), and saved-only.
 export function MassFilterSheet({
   open,
   filter,

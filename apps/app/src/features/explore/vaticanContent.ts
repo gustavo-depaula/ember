@@ -25,7 +25,7 @@ export type VaticanContent = {
   outlets: VnOutlet[]
 }
 
-// --- minimal DOM walk over domhandler nodes (no css-select dep) ---
+// A minimal DOM walk over domhandler nodes, to avoid a css-select dependency.
 
 // biome-ignore lint/suspicious/noExplicitAny: domhandler node shape
 type Node = any

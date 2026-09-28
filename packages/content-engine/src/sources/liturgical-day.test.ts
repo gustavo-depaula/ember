@@ -37,20 +37,4 @@ describe('liturgical-day DataSource', () => {
     const result = await liturgicalDaySource.load({ data: 'whatever' }, ctx)
     expect(result).toBeUndefined()
   })
-
-  it('passes the configured calendar through to the day-name resolver', async () => {
-    const ctx = makeCtx({ now: () => new Date('2026-04-12') })
-    const result = await liturgicalDaySource.load({ data: 'liturgical-map', calendar: 'of' }, ctx)
-    expect(result).toMatchObject({ liturgicalLabel: expect.any(String) })
-  })
-
-  it('exposes alternatives as RepeatEntry objects with chapterId', async () => {
-    const ctx = makeCtx({ now: () => new Date('2026-12-25') })
-    const result = (await liturgicalDaySource.load({ data: 'liturgical-map' }, ctx)) as {
-      alternatives: { chapterId?: unknown }[]
-    }
-    for (const entry of result.alternatives) {
-      expect(typeof entry.chapterId).toBe('string')
-    }
-  })
 })

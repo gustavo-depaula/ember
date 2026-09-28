@@ -125,7 +125,6 @@ export function CreatorScreen() {
   return (
     <ScreenLayout refreshing={refreshMut.isPending} onRefresh={handlePullToRefresh}>
       <YStack paddingTop="$lg" gap="$xl">
-        {/* Hero — large square artwork, title, byline, follow */}
         <YStack alignItems="center" gap="$md">
           <YStack
             width={ARTWORK_SIZE}
@@ -211,10 +210,8 @@ export function CreatorScreen() {
           </YStack>
         </YStack>
 
-        {/* Bio */}
         <ProseBlock text={{ primary: localizeContent(manifest.bio) }} />
 
-        {/* Channel tabs */}
         {channelTabs.length > 1 && (
           <XStack gap="$sm">
             {channelTabs.map((c: CreatorChannel) => {
@@ -250,7 +247,6 @@ export function CreatorScreen() {
           </XStack>
         )}
 
-        {/* YouTube sub-filter */}
         {effectiveKind === 'youtube' && hasShorts && (
           <XStack gap="$xs">
             {YOUTUBE_SUB_FILTERS.map((f) => {
@@ -286,7 +282,6 @@ export function CreatorScreen() {
           </XStack>
         )}
 
-        {/* Refresh error */}
         {refreshMut.isError && (
           <YStack
             backgroundColor="$backgroundSurface"
@@ -306,14 +301,12 @@ export function CreatorScreen() {
           </YStack>
         )}
 
-        {/* Episode list */}
         {isLoading || (refreshMut.isPending && items.length === 0) ? (
           <FeedItemListSkeleton count={5} />
         ) : (
           <FeedItemList items={visibleItems} />
         )}
 
-        {/* Website link footer */}
         {manifest.links?.website && (
           <YStack alignItems="center" paddingBottom="$lg">
             <AnimatedPressable

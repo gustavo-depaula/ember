@@ -1,5 +1,5 @@
 /**
- * Loaders for the new OF Mass corpus (`@ember/missal-schema` shape). Each item
+ * Loaders for the OF Mass corpus (`@ember/missal-schema` shape). Each item
  * is a single multilingual blob whose catalog entry points straight at the
  * data, so a load is one `getJson` — no shape/per-language recombination.
  */

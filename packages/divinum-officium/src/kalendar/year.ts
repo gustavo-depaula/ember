@@ -1,8 +1,8 @@
 // Build the Extraordinary Form *display* calendar for a whole year from the
 // same authority the EF Mass/Office uses — resolveDay over the Divinum
 // Officium data — so the celebration card and month grid show exactly what the
-// EF Mass celebrates (transfers, octaves, vigils, commemorations) instead of a
-// separately-curated, drift-prone list. Mirrors @ember/mass's buildOfYearCalendar.
+// EF Mass celebrates (transfers, octaves, vigils, commemorations). Mirrors
+// @ember/mass's buildOfYearCalendar.
 //
 // Pure DO: returns a neutral row shape (Latin name + DO numeric rank); the app
 // maps it onto the display calendar's RankEF / DayCalendar types. Names are the
@@ -40,8 +40,8 @@ export type DoYearOptions = {
 
 // Universal EF (1962) Holy Days of Obligation. Sanctoral feasts keyed by the
 // winner's month-day; the two movable temporal HDO (Ascension, Corpus Christi)
-// matched by their Latin name. Jurisdiction-specific transfers/abrogations are a
-// later refinement, mirroring the OF side.
+// matched by their Latin name. Jurisdiction-specific transfers/abrogations are
+// not applied.
 const efHdoSanctoralDates = new Set([
   '01-01', // Octave of the Nativity (Circumcision)
   '01-06', // Epiphany

@@ -59,10 +59,9 @@ export function searchBookContent(
 }
 
 /**
- * Produce snippet text + match offsets for a single result, given the
- * chapter's body HTML. Strips HTML, then anchors on either the exact query
- * substring or any token whose stem matches one of the query's stems.
- * Returns undefined when no anchor can be located.
+ * Snippet text + match offsets for one result, anchored on the exact query
+ * substring or else any token whose stem matches a query stem. With no anchor
+ * the snippet is the chapter's opening; undefined only for an empty body.
  */
 export function enrichSnippet(
   body: string,

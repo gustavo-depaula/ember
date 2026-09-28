@@ -47,7 +47,6 @@ export const doHourSource: ContentSource<Primitive[]> = {
       lang2: doLangDir(ctx.prefs.lang),
       votive,
     })
-    // Vernacular column is the user's primary; Latin is the secondary.
     return mapItemsToPrimitives(assembled.vernacular ?? assembled.latin, assembled.latin)
   },
 }

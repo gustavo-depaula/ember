@@ -131,10 +131,7 @@ function executeResolveSteps(
 function buildSourceContext(context: FlowContext, ec: EngineContext): SourceContext {
   return {
     fetchOwnAsset:
-      ec.fetchOwnAsset ??
-      // Default: when no host-supplied reader, fall back to the practice's
-      // pre-loaded data declarations (cycleData).
-      (async (path: string) => context.cycleData?.[path] as unknown),
+      ec.fetchOwnAsset ?? (async (path: string) => context.cycleData?.[path] as unknown),
     localize: ec.localize,
     t: ec.t,
     now: () => context.date,
@@ -249,11 +246,9 @@ function collectBookChapterRefs(
             if (opt.sections) for (const s of opt.sections) walkSection(s)
           }
         } else {
-          // Silent dispatch (e.g. saint-of-the-day's 366-day map): only the
-          // selected option is ever resolved. Preloading every option would
-          // fire one sequential chapter fetch per option (366 of them) and hang
-          // the load — so mirror resolveSection and collect only the selected
-          // option's chapters.
+          // Silent dispatch resolves only the selected option. Preloading every
+          // option would hang saint-of-the-day's 366-option map on sequential
+          // chapter fetches.
           const { selectedId } = computeSelectedId(section, context)
           const selected = section.options.find((o) => o.id === selectedId) ?? section.options[0]
           if (selected?.sections) for (const s of selected.sections) walkSection(s)
@@ -261,13 +256,9 @@ function collectBookChapterRefs(
         break
 
       default:
-        // Plain containers — `collapsible`, `group`, `liturgical-color-scope`.
-        // They wrap a body without changing which chapters it needs, so recurse
-        // by default rather than listing them: an unlisted container silently
-        // swallows every chapter beneath it, the flow resolves with zero refs,
-        // and `resolve.ts` then drops the empty body — the content disappears
-        // with no error anywhere. That is how three book chapters nested in
-        // `collapsible`s rendered as nothing in `practice/visit-blessed-sacrament`.
+        // Plain containers (`collapsible`, `group`, `liturgical-color-scope`, …)
+        // recurse by default: an unlisted container would silently drop every
+        // chapter beneath it, and resolve.ts then drops the empty body.
         if ('sections' in section && Array.isArray(section.sections)) {
           for (const s of section.sections) walkSection(s)
         }
@@ -333,7 +324,7 @@ export function resolveFlow(
 ): RenderedSection[] {
   assertSupportedFlowVersion(flow)
 
-  // Inject flow.data into flowData (flow.data is lower priority than context.flowData)
+  // flow.data is lower priority than context.flowData.
   let ctx = context
   if (flow.data) {
     ctx = { ...ctx, flowData: { ...flow.data, ...ctx.flowData } }

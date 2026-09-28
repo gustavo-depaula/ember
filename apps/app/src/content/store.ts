@@ -257,7 +257,6 @@ type FsNode = {
 
 export type CachedBlob = { hash: string; size: number; mtime: number }
 
-/** Lists every cached blob with its size + last-modified time. Native only. */
 export async function listCachedBlobs(): Promise<CachedBlob[]> {
   if (Platform.OS === 'web') return []
   const root = blobsDir()
@@ -292,12 +291,9 @@ export type CacheStats = {
 }
 
 /**
- * LRU eviction. Iterates oldest blobs first, deletes until total cache size
- * is under `budgetBytes`. Pinned blobs (hashes from `protectedHashes`) are
- * never deleted.
- *
- * Returns the new total size after eviction. Native only — on web the
- * browser's IndexedDB quota handles eviction natively and we no-op.
+ * LRU eviction: deletes oldest blobs until the cache is under `budgetBytes`,
+ * never touching `protectedHashes` (pinned). Native only — on web the
+ * browser's IndexedDB quota handles eviction.
  */
 export async function evictTo(
   budgetBytes: number,
@@ -332,7 +328,6 @@ export async function evictTo(
 
 export async function getCacheStats(protectedHashes: ReadonlySet<string>): Promise<CacheStats> {
   if (Platform.OS === 'web') {
-    // Best-effort: use the Storage API if available
     try {
       const est = await (
         navigator as unknown as { storage?: { estimate?: () => Promise<{ usage?: number }> } }

@@ -1,6 +1,5 @@
-// Tiny htmlparser2 DOM-walk helpers shared by the HTML-scraping sources
-// (vatican-news, ibreviary). Each source still owns its parse logic — these
-// are just the generic tree predicates every walker needs.
+// Generic htmlparser2 tree predicates shared by the HTML-scraping sources;
+// each source owns its own parse logic.
 
 import type { ChildNode, Element } from 'domhandler'
 

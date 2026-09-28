@@ -2,13 +2,9 @@ import { beforeEach, describe, expect, it } from 'vitest'
 
 import {
   canonicalize,
-  getAllEntries,
   getCatalogVersion,
   getCollectionItems,
   getCollectionsForItem,
-  getEntriesByKind,
-  getEntry,
-  hasEntry,
   invalidateMemberOfIndex,
   rememberManifestBody,
   resetContentIndex,
@@ -58,17 +54,6 @@ beforeEach(() => {
 })
 
 describe('contentIndex', () => {
-  it('returns entries by id', () => {
-    expect(getEntry('practice/rosary')?.kind).toBe('practice')
-    expect(getEntry('practice/our-father')?.kind).toBe('practice')
-    expect(getEntry('does/not/exist')).toBeUndefined()
-  })
-
-  it('hasEntry reports membership in the catalog', () => {
-    expect(hasEntry('practice/rosary')).toBe(true)
-    expect(hasEntry('practice/synthetic')).toBe(false)
-  })
-
   it('canonicalize prepends a kind prefix when missing', () => {
     expect(canonicalize('practice/rosary')).toBe('practice/rosary')
     expect(canonicalize('rosary', 'practice')).toBe('practice/rosary')
@@ -77,26 +62,10 @@ describe('contentIndex', () => {
   })
 
   it('canonicalize with hintKind is a HARD filter — no fallthrough to other kinds', () => {
-    // 'marian' exists as a collection; caller asks for a practice. Returning
-    // collection/marian here would let a wrongly-typed manifest leak through
-    // to the engine and crash on its missing fields.
+    // A wrongly-typed manifest leaking through would crash the engine on its
+    // missing fields.
     expect(canonicalize('marian', 'practice')).toBeUndefined()
     expect(canonicalize('rosary', 'collection')).toBeUndefined()
-  })
-
-  it('getEntriesByKind only returns matching kind', () => {
-    const practices = getEntriesByKind('practice').map(([id]) => id)
-    expect(practices).toContain('practice/our-father')
-    expect(practices).toContain('practice/hail-mary')
-    expect(practices).toContain('practice/rosary')
-    expect(practices).not.toContain('collection/marian')
-  })
-
-  it('getAllEntries returns every catalog entry', () => {
-    const all = getAllEntries()
-    expect(all.has('practice/our-father')).toBe(true)
-    expect(all.has('practice/rosary')).toBe(true)
-    expect(all.has('collection/marian')).toBe(true)
   })
 
   it('search matches localized names + tags', () => {

@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Aggressive programmatic preprocessing for the 3 large pt-BR sacrament chapters.
 
-The Pires Martins 1951 OCR has these systematic issues that prior agents kept
-hand-fixing line by line; we do the mechanical bulk here so the remaining
-agent work is just heading/marginalia structure (small, fast, doesn't stall):
+The Pires Martins 1951 OCR has these systematic issues; this does the mechanical
+bulk so the remaining agent work is just heading/marginalia structure:
 
   1. Rejoin words split across lines via `-\n` (e.g. `nenhu-\nma` → `nenhuma`)
   2. Strip soft hyphens (U+00AD)
@@ -134,9 +133,7 @@ def extract_footnote_blocks(text: str) -> tuple[str, list[str]]:
 
 def reflow_paragraphs(text: str) -> str:
     """Collapse single newlines within paragraphs to spaces; preserve blank-line breaks."""
-    # First, normalize CRLF
     text = text.replace("\r\n", "\n")
-    # Split on blank lines
     paragraphs = re.split(r"\n\s*\n", text)
     cleaned: list[str] = []
     for p in paragraphs:
@@ -149,7 +146,6 @@ def reflow_paragraphs(text: str) -> str:
 
 
 def fix_ocr(text: str) -> str:
-    """Apply common OCR substitutions."""
     # `cm` → `em` only when standalone word
     text = re.sub(r"\bcm\b", "em", text)
     # ` c ` → ` e ` only when between lowercase words (the conjunction "and")
@@ -163,11 +159,8 @@ def fix_ocr(text: str) -> str:
     text = re.sub(r"\bpicdade\b", "piedade", text)
     text = re.sub(r"\bPicdade\b", "Piedade", text)
     text = re.sub(r'\bE"\s+', "É ", text)
-    # Tudo-Podceroso → Tudo-Poderoso
     text = re.sub(r"\bTudo-Podceroso\b", "Tudo-Poderoso", text)
-    # Collapse multiple spaces
     text = re.sub(r"  +", " ", text)
-    # Trim trailing spaces on lines
     text = re.sub(r" +\n", "\n", text)
     return text
 
@@ -177,15 +170,10 @@ def main() -> None:
         path = PT_DIR / fname
         text = path.read_text(encoding="utf-8")
         original_size = len(text)
-        # Phase 1: hyphenation rejoining
         text = rejoin_hyphenated(text)
-        # Phase 2: extract footnote blocks
         text, notes = extract_footnote_blocks(text)
-        # Phase 3: reflow paragraphs
         text = reflow_paragraphs(text)
-        # Phase 4: OCR fixes
         text = fix_ocr(text)
-        # Phase 5: append footnotes if any were extracted
         if notes:
             # Renumber sequentially
             note_lines: list[str] = []

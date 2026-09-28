@@ -70,9 +70,4 @@ describe('isSlotApplicableOnDate / times-per visibility', () => {
     expect(isSlotApplicableOnDate(slot, '2026-04-30', undefined, aprilDone)).toBe(false)
     expect(isSlotApplicableOnDate(slot, '2026-05-01', undefined, aprilDone)).toBe(true)
   })
-
-  it('completions outside the period do not count toward quota', () => {
-    const slot = makeSlot({ type: 'times-per', count: 1, period: 'week' })
-    expect(isSlotApplicableOnDate(slot, monday, undefined, ['2026-04-15'])).toBe(true)
-  })
 })

@@ -28,7 +28,6 @@ export type BookSearchIndex = {
 export type ChapterMatch = {
   /** Index into the original `BookSearchIndex.c` array. */
   indexChapterIdx: number
-  /** Stable chapter id. */
   chapterId: string
   /** Sum of stem-match counts across all query tokens for this chapter. */
   score: number
@@ -93,7 +92,6 @@ export function searchIndex(
   const stems = stemQuery(query, index.l)
   if (stems.length === 0) return []
 
-  // Build per-stem chapter→count maps.
   const perStem: Map<number, number>[] = []
   for (const stem of stems) {
     const flat = index.t[stem]

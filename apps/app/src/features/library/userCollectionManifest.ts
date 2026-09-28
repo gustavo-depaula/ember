@@ -22,8 +22,8 @@ export function buildUserCollectionManifest(
   collection: UserCollection,
   items: UserCollectionItem[],
 ): CollectionItemManifest {
-  // v1: a single untitled section. The empty title lets SectionView render a
-  // flat jewel grid with no fleuron heading.
+  // A single untitled section: the empty title lets SectionView render a flat
+  // jewel grid with no fleuron heading.
   const blocks: CollectionBlock[] = items.map((it) => ({
     kind: 'item',
     ref: it.ref,

@@ -8,11 +8,6 @@ import { emberLang, type GospelOfDay, loadGospelOfDay } from './gospelOfDay'
 
 export type GospelOfTheDay = GospelOfDay
 
-/**
- * Fetch today's Gospel via the registered `mass-of` DataSource — the
- * source closes over its typed corpus accessor at registration time, so
- * we only need to provide a `SourceContext` for localization and `now()`.
- */
 export function useGospelOfTheDay(): {
   data: GospelOfTheDay | undefined
   isLoading: boolean

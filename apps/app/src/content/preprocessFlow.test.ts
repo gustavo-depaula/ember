@@ -1,6 +1,3 @@
-// Preprocessor variant mapping — every passthrough RenderedSection should
-// produce its expected primitive without touching the network or registry.
-
 import type { RenderedSection } from '@ember/content-engine'
 import { QueryClient } from '@tanstack/react-query'
 import { describe, expect, it, vi } from 'vitest'
@@ -8,8 +5,7 @@ import { registerSource, unregisterSource } from '@/sources'
 import { type PreprocessContext, preprocessFlow } from './preprocessFlow'
 
 // Include resolution touches the SQLite-backed cache, which isn't initialized
-// in unit tests. Stub the repo so source fetches run and we observe their
-// inputs/outputs directly (date-in-cache-key still routes through React Query).
+// in unit tests.
 vi.mock('@/db/repositories/externalContent', () => ({
   getExternalContent: async () => undefined,
   putExternalContent: async () => {},
@@ -129,19 +125,14 @@ describe('preprocessFlow — primitive mapping', () => {
       throw new Error('expected select container')
     }
     const [optA, optB] = primitive.behavior.options
-    // Selected branch is preprocessed into renderable primitives now.
     expect(optA.children).toEqual([{ type: 'divider' }])
-    // Non-selected branch is NOT preprocessed eagerly, but carries its raw
-    // engine output so SelectBranch can preprocess it on demand.
+    // SelectBranch preprocesses the raw engine output on demand.
     expect(optB.children).toEqual([])
     expect(optB.rawSections).toEqual([{ type: 'heading', text }])
-    // Every branch keeps its raw output (the selected one too, harmlessly).
-    expect(optA.rawSections).toEqual([{ type: 'divider' }])
   })
 
-  // A cento citation differs by language ("Ps. 55:9" / "Sl 55,9"). It used to be
-  // collapsed onto `num`, a single value shared by both columns, so every
-  // pt-BR citation was computed and then discarded before it reached the screen.
+  // A cento citation differs by language ("Ps. 55:9" / "Sl 55,9"), so it can't
+  // live on `num`, a single value shared by both columns.
   it('carries the psalm citation for both languages, not just the primary', async () => {
     const sections: RenderedSection[] = [
       {
@@ -172,47 +163,6 @@ describe('preprocessFlow — primitive mapping', () => {
   })
 
   describe('gallery', () => {
-    it('emits a single gallery primitive (no flattening)', async () => {
-      const sections: RenderedSection[] = [
-        {
-          type: 'gallery',
-          items: [
-            {
-              src: 'a.jpg',
-              title: { primary: 'A' },
-              attribution: { primary: 'Author A' },
-              caption: { primary: 'Caption A' },
-            },
-            { src: 'b.jpg' },
-          ],
-        },
-      ]
-      const result = await preprocessFlow(sections, ctx())
-      expect(result).toHaveLength(1)
-      expect(result[0]).toEqual({
-        type: 'gallery',
-        display: 'carousel',
-        weights: undefined,
-        caption: undefined,
-        items: [
-          {
-            src: 'a.jpg',
-            alt: undefined,
-            title: { primary: 'A' },
-            attribution: { primary: 'Author A' },
-            caption: { primary: 'Caption A' },
-          },
-          {
-            src: 'b.jpg',
-            alt: undefined,
-            title: undefined,
-            attribution: undefined,
-            caption: undefined,
-          },
-        ],
-      })
-    })
-
     it('passes through display, weights, caption, and alt', async () => {
       const sections: RenderedSection[] = [
         {

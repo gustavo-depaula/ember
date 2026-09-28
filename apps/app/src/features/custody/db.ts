@@ -116,8 +116,6 @@ function sessionFromRow(row: CustodySessionRow): CustodySession {
   }
 }
 
-// --- Commitments ---
-
 export async function listCommitments(
   opts: { includeArchived?: boolean } = {},
 ): Promise<Commitment[]> {
@@ -239,8 +237,6 @@ export async function deleteCommitment(id: string): Promise<void> {
   await db.runAsync('DELETE FROM commitments WHERE id = ?', [id])
 }
 
-// --- Events ---
-
 export async function recordEvent(input: {
   commitmentId: string
   type: EventType
@@ -288,8 +284,6 @@ export async function listEventsForCommitment(
   )
   return rows.map(eventFromRow)
 }
-
-// --- Sessions ---
 
 export async function createSession(input: {
   anchorRef: string

@@ -5,8 +5,8 @@ import { ensureManifestBody, getEntriesByKind, getEntry } from '@/content/conten
 import type { CatalogEntry, PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 
-// The v1 browse ordering, sized to the likely audience (spec §6). Anything not
-// listed sorts after, alphabetically — so a newly-authored template still shows.
+// Browse order, sized to the likely audience. Anything not listed sorts after,
+// alphabetically — so a newly-authored template still shows.
 const v1Order = [
   'beginner-minimum',
   'salesian',
@@ -28,7 +28,7 @@ const v1Order = [
 export type TemplateListItem = { id: string; entry: CatalogEntry }
 
 /**
- * List all `plan-of-life-template` catalog entries in the v1 ordering. Derived
+ * List all `plan-of-life-template` catalog entries in browse order. Derived
  * from the live catalog, so the list fills in as deferred manifests warm
  * (keyed on `useCatalogVersion`). No manifest fetch — the catalog entry carries
  * the localized name / description / icon needed for the browse row.

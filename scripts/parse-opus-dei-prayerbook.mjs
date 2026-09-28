@@ -62,8 +62,6 @@ for (const line of fs.readFileSync(path.join(root, 'links.tsv'), 'utf8').split('
   else links.push([first, ...rest])
 }
 
-// — DOM helpers —
-
 const isTag = (n) => n.type === 'tag' || n.type === 'script' || n.type === 'style'
 const classes = (n) => (n.attribs?.class ?? '').split(/\s+/).filter(Boolean)
 const hasClass = (n, c) => classes(n).includes(c)
@@ -98,8 +96,6 @@ const clean = (s) =>
     .replace(/[ \t]+/g, ' ')
     .replace(/ *\n */g, '\n')
     .trim()
-
-// — Row conversion —
 
 // Inline HTML → our inline markdown: <em> → *…*, <strong> → **…**, <br> → newline.
 // Red spans (`.rub`: verse numbers, "Antiphon.", parentheses) stay plain text; the
@@ -154,8 +150,6 @@ function toRow(el) {
   return { kind: 'text', text }
 }
 
-// — Page parsing —
-
 function parsePage(file) {
   const doc = parseDocument(fs.readFileSync(path.join(cacheDir, file), 'utf8'))
   const h1 = find(doc, (n) => n.attribs?.id === 'section_title')
@@ -188,8 +182,6 @@ function parsePage(file) {
   return { sectionTitles, prayers }
 }
 
-// — Load every page —
-
 const index = JSON.parse(fs.readFileSync(path.join(cacheDir, 'index.json'), 'utf8'))
 const siteLangs = Object.keys(index)
 const nSections = index.en.length
@@ -213,7 +205,6 @@ for (let i = 0; i < nSections; i++) {
   }
 }
 
-// — Group prayers across languages —
 // Every two-column prayer links its two language ids; connected components are
 // one prayer in many languages.
 
@@ -433,8 +424,6 @@ function align(ids, pivot, pairs, label) {
   const guessed = [...realigned].filter((l) => ids[l] !== undefined).sort()
   return { ids, title, rows, ...(guessed.length ? { realigned: guessed } : {}) }
 }
-
-// — Report and write —
 
 const langs = siteLangs.map(key).concat('la')
 let total = 0

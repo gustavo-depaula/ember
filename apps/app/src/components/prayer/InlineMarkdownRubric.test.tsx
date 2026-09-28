@@ -22,11 +22,6 @@ function renderRubric(source: string) {
 // inherited italic — see `composeStyle`, which the rubric shares with prayer
 // bodies rather than restating.
 describe('InlineMarkdownRubric', () => {
-  it('renders plain text with no emphasis span', () => {
-    renderRubric('Make them attentively, but briefly.')
-    expect(screen.getByText('Make them attentively, but briefly.')).toBeTruthy()
-  })
-
   it('flips *italic* to the roman face', () => {
     renderRubric('take some resolution — *not a general one*, such as this')
     const span = screen.getByText('not a general one')

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Import the 1912 short Catechism of St. Pius X into content/books/pius-x-catechism/.
 
-Sources (now archived under content/_archive/base/sources/):
-  - Italian (it):    italian-originals/archive-org-1959-djvu.txt  (Vatican 1959 reprint, OCR)
+Sources (under content/_archive/base/sources/):
+  - Italian (it):    italian-originals/corsia-2004.txt  (corsiadeiservi.it 2004 digital PDF, text-extracted)
   - Brazilian PT:    pt-br-originals/symposium-veritatis-raw.html (Symposium Veritatis blog)
 
 Both sources are public-domain transcriptions of the 1912 text, which has 433 numbered Q&A entries
@@ -30,10 +30,7 @@ SOURCES_PT = SOURCES / "pt-br-originals" / "symposium-veritatis-raw.html"
 BOOK_DIR = ROOT / "content" / "books" / "pius-x-catechism"
 
 
-# ---------------------------------------------------------------------------
-# Chapter map: (chapter_id, q_start, q_end_inclusive, titles per language)
-# ---------------------------------------------------------------------------
-
+# (chapter_id, q_start, q_end_inclusive, titles per language)
 CHAPTERS: list[tuple[str, int, int, dict[str, str]]] = [
     ("lezione-preliminare", 1, 27, {
         "it": "Prime nozioni della Fede cristiana",
@@ -154,11 +151,6 @@ def chapter_for(q: int) -> tuple[str, dict[str, str]]:
     raise KeyError(f"no chapter for Q{q}")
 
 
-# ---------------------------------------------------------------------------
-# Portuguese parser — Symposium Veritatis HTML
-# ---------------------------------------------------------------------------
-
-
 def parse_pt() -> dict[int, tuple[str, str]]:
     """Returns {q: (question, answer)}. The HTML uses <b>N. Question?</b> followed by italic answer paragraphs."""
     raw = SOURCES_PT.read_text(encoding="utf-8")
@@ -177,7 +169,6 @@ def parse_pt() -> dict[int, tuple[str, str]]:
     text = re.sub(r"</(div|p|li)>", "\n", text)
     text = re.sub(r"<[^>]+>", "", text)
     text = html.unescape(text)
-    # Normalize whitespace: drop empty lines, strip lines
     lines = [l.strip() for l in text.split("\n")]
 
     # Walk: a Q starts when a line matches "^N. ..." with a top-level Q number; everything until the next
@@ -199,36 +190,26 @@ def parse_pt() -> dict[int, tuple[str, str]]:
                 cur_answer_lines.append("")
             continue
         m = re.match(r"^(\d{1,3})\.\s+(.+)$", line)
-        # Top-level Q vs nested numbered item: top-level Qs always end with '?' on the same line OR
-        # end with ?: across two lines. We detect them by checking whether the *next* expected number
-        # is what we'd expect. Simplest: top-level Qs are 1..433 in order.
+        # Top-level Qs run 1..433 in order; a numbered line that isn't the next expected Q
+        # is a nested list item inside the current answer.
         if m:
             n = int(m.group(1))
             rest = m.group(2)
-            # is this the next expected top-level Q?
             expected = (cur_q or 0) + 1
             if n == expected and (rest.endswith("?") or rest.endswith(":") or rest.endswith(".")):
-                # commit previous
                 flush()
                 cur_q = n
                 cur_question = rest
                 cur_answer_lines = []
                 continue
-        # otherwise, append to current answer
         if cur_q is not None:
             cur_answer_lines.append(line)
     flush()
 
     if len(qa) != 433:
-        # Diagnose
         missing = [i for i in range(1, 434) if i not in qa]
         raise RuntimeError(f"pt-br: expected 433 Q&A, got {len(qa)}; missing Qs: {missing[:20]}{'...' if len(missing) > 20 else ''}")
     return qa
-
-
-# ---------------------------------------------------------------------------
-# Italian parser — corsiadeiservi.it clean digital PDF (2004 Word→Acrobat)
-# ---------------------------------------------------------------------------
 
 
 def fix_italian_text(s: str) -> str:
@@ -384,14 +365,13 @@ def parse_it() -> dict[int, tuple[str, str]]:
     if anchor_pos < 0:
         raise RuntimeError("Italian Q1 anchor 'LA DOTTRINA CRISTIANA' not found")
     body = text[anchor_pos:]
-    # Now find Q1
     q1_match = re.search(r"^1\.\s+Chi ci ha creato", body, re.M)
     if not q1_match:
         raise RuntimeError("Italian Q1 'Chi ci ha creato' not found after anchor")
     body = body[q1_match.start():]
 
-    # Trim before any pre-existing front-matter footnote at end (the catechism Q&A end at Q433
-    # and an appendix follows with PREGHIERE etc). We don't trim — just stop reading after Q433.
+    # The catechism ends at Q433 and an appendix (PREGHIERE etc.) follows; the walk below stops
+    # accepting Qs after Q433 rather than trimming here.
     lines = body.split("\n")
 
     # Lines that should NOT accumulate into Q&A: chapter headings, prayer-section labels,
@@ -515,11 +495,8 @@ def parse_it() -> dict[int, tuple[str, str]]:
         if in_preghiamo or in_chapter_transition:
             continue
 
-        # Cap: once we've finished Q433 and entered any prayer block, we're done with the catechism.
+        # After Q433 has an answer, reject any higher Q-number (appendix material).
         if cur_n is not None and cur_n >= 433 and not q_complete is False and len(cur_a_buf) > 0:
-            # We have Q433's question and at least one answer line. If a "PREGHIAMO" or any other
-            # prayer-block marker appeared, in_preghiamo would be set above and we'd skip. The hard
-            # cap is just a safety: don't accept any more Q-starts.
             if m:
                 n_check = int(m.group(1))
                 if n_check > 433:
@@ -592,7 +569,6 @@ def parse_it() -> dict[int, tuple[str, str]]:
         if not stripped:
             continue
 
-        # Skip noise lines
         if is_noise(stripped):
             continue
 
@@ -612,15 +588,9 @@ def parse_it() -> dict[int, tuple[str, str]]:
     return qa
 
 
-# ---------------------------------------------------------------------------
-# Markdown writer
-# ---------------------------------------------------------------------------
-
-
 def normalize_paragraph(s: str) -> str:
     """Collapse OCR line wrapping: replace single newlines with space, keep blank lines."""
     s = s.strip()
-    # Replace single newlines (line wrap) with a space, but preserve blank-line paragraph breaks.
     parts = re.split(r"\n\s*\n", s)
     parts = [re.sub(r"\s+", " ", p).strip() for p in parts]
     return "\n\n".join(p for p in parts if p)

@@ -1082,7 +1082,7 @@ export const WatercolorIcon = memo(function WatercolorIcon({
             />
           )
         })}
-        {/* Hour hand (pointing to 3, roughly) */}
+        {/* Hour hand */}
         <Line
           x1="20"
           y1="20"

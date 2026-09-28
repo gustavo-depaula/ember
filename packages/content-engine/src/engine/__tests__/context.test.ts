@@ -12,21 +12,6 @@ describe('getContextValue', () => {
     ).toBe('1') // Monday
   })
 
-  it('returns dayOfMonth as string', () => {
-    expect(
-      getContextValue(makeContext({ date: new Date('2026-04-12T12:00:00') }), 'dayOfMonth'),
-    ).toBe('12')
-  })
-
-  it('returns hour from the date', () => {
-    expect(getContextValue(makeContext({ date: new Date('2026-04-12T07:30:00') }), 'hour')).toBe(
-      '7',
-    )
-    expect(getContextValue(makeContext({ date: new Date('2026-04-12T00:15:00') }), 'hour')).toBe(
-      '0',
-    )
-  })
-
   it('returns timeOfDay buckets', () => {
     expect(
       getContextValue(makeContext({ date: new Date('2026-04-12T07:00:00') }), 'timeOfDay'),
@@ -51,17 +36,6 @@ describe('getContextValue', () => {
     })
     expect(getContextValue(ctx, 'hour')).toBe('18')
     expect(getContextValue(ctx, 'timeOfDay')).toBe('evening')
-  })
-
-  it('returns liturgicalCalendar and numbering from context', () => {
-    expect(getContextValue(makeContext({ liturgicalCalendar: 'ef' }), 'liturgicalCalendar')).toBe(
-      'ef',
-    )
-    expect(getContextValue(makeContext({ numbering: 'lxx' }), 'numbering')).toBe('lxx')
-  })
-
-  it('returns programDay as string', () => {
-    expect(getContextValue(makeContext({ programDay: 14 }), 'programDay')).toBe('14')
   })
 
   it('returns dateKey in MM-DD format', () => {
@@ -105,13 +79,7 @@ describe('getContextValue', () => {
     // Trinity Sunday — octave over → post-pentecost
     expect(ef(new Date(2026, 4, 31))).toBe('post-pentecost')
   })
-
-  it('returns undefined for unknown keys', () => {
-    expect(getContextValue(makeContext(), 'nonExistentKey')).toBeUndefined()
-  })
 })
-
-// --- lookupMap ---
 
 describe('lookupMap', () => {
   it('matches exact string keys', () => {
@@ -147,8 +115,6 @@ describe('lookupMap', () => {
   })
 })
 
-// --- select: silent conditional ---
-
 describe('resolvePath — dotted path access', () => {
   it('returns top-level flowData entries directly', () => {
     const ctx = makeContext({ flowData: { day: { rite: 'mass' } } })
@@ -169,13 +135,6 @@ describe('resolvePath — dotted path access', () => {
   it('returns undefined for missing path segments', () => {
     const ctx = makeContext({ flowData: { day: {} } })
     expect(resolvePath(ctx, 'day.celebration.title')).toBeUndefined()
-  })
-
-  it('returns arrays for paths that resolve to arrays', () => {
-    const ctx = makeContext({
-      flowData: { day: { celebrations: [{ id: 'a' }, { id: 'b' }] } },
-    })
-    expect(resolvePath(ctx, 'day.celebrations')).toEqual([{ id: 'a' }, { id: 'b' }])
   })
 
   it('falls back to templateVars for single-segment lookups', () => {

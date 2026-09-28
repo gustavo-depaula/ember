@@ -10,10 +10,8 @@ const COLOR_HEX: Record<string, string> = {
 }
 
 /**
- * Card-shaped tappable option for the `cards` picker style. Title +
- * optional 2-line italic excerpt; tinted border + subtle background fill
- * when selected. The card is for *selection* only — the picked option's
- * body renders below the card stack, not inside the card.
+ * For the `cards` picker style. Selection only — the picked option's body
+ * renders below the card stack, not inside the card.
  */
 export function OptionCard({
   label,

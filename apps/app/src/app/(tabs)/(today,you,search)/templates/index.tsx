@@ -12,10 +12,8 @@ import { type TemplateListItem, useTemplateList } from '@/features/templates'
 import { localizeContent } from '@/lib/i18n'
 
 /**
- * Browse the living traditions — a masthead over a two-column grid of
- * image-forward cards, each a tradition's masterpiece with its name and a line
- * beneath. The catalog entry carries the localized name / description / icon, so
- * the list needs no manifest fetch; the painting comes from the app-side artMap.
+ * The catalog entry carries the localized name / description / icon, so the
+ * list needs no manifest fetch; the painting comes from the app-side artMap.
  */
 export default function TemplatesScreen() {
   const { t } = useTranslation()

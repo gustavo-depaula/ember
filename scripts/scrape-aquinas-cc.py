@@ -46,10 +46,6 @@ AUTHOR = {
 }
 
 
-# ---------------------------------------------------------------------------
-# HTTP client
-# ---------------------------------------------------------------------------
-
 def post_json(path: str, body: dict, retries: int = 3) -> Any:
     url = BASE + path
     data = json.dumps(body).encode("utf-8")
@@ -77,9 +73,7 @@ def post_json(path: str, body: dict, retries: int = 3) -> Any:
     raise RuntimeError(f"POST {path} failed after {retries} attempts: {last_err}")
 
 
-# ---------------------------------------------------------------------------
-# Work catalog (extracted from aquinas.cc's _navTreeRoot)
-# ---------------------------------------------------------------------------
+# Work catalog, extracted from aquinas.cc's _navTreeRoot.
 
 @dataclass
 class WorkSpec:
@@ -582,7 +576,7 @@ WORKS_CC: dict[str, WorkSpec] = {
             {"wid": 10, "did_la": 31, "did_en": 32, "label_en": "Book IV (d. 43-50)", "label_la": "Liber IV (d. 43-50)", "rows": 3359},
         ],
     ),
-    # ------ Round 6: Aristotle commentaries, full bilingual ------
+    # ------ Aristotle commentaries, full bilingual ------
     "comm-physics": WorkSpec(
         slug="comm-physics", sub_path="aristotle/physics", book_id="aquinas-comm-physics",
         name_en="Commentary on the Physics", name_la="Sententia super Physicam",
@@ -703,7 +697,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 160, "did_la": 1063, "did_en": 1065, "label_en": "On Memory and Recollection", "label_la": "De Memoria et Reminiscentia", "rows": 385}],
         outline_shape="book_chapter", book_label_en="Tractate", book_label_la="Tractatus", chapter_label_en="Lecture", chapter_label_la="Lectio",
     ),
-    # ------ Round 6: Biblical commentaries ------
+    # ------ Biblical commentaries ------
     "super-iob": WorkSpec(
         slug="super-iob", sub_path="biblical/super-iob", book_id="aquinas-super-iob",
         name_en="Commentary on Job", name_la="Expositio super Iob ad litteram",
@@ -734,7 +728,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 46, "did_la": 165, "did_en": 167, "label_en": "Psalms", "label_la": "Psalmi", "rows": 10085}],
         outline_shape="book_chapter", chapter_label_en="Psalm", chapter_label_la="Psalmus",
     ),
-    # ------ Round 6: Disputed Questions, full bilingual ------
+    # ------ Disputed Questions, full bilingual ------
     "de-veritate": WorkSpec(
         slug="de-veritate", sub_path="disputed-questions/de-veritate", book_id="aquinas-de-veritate",
         name_en="Disputed Questions on Truth", name_la="Quaestiones Disputatae de Veritate",
@@ -785,7 +779,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 30, "did_la": 113, "did_en": 115, "label_en": "On the Union of the Incarnate Word", "label_la": "De Unione Verbi Incarnati", "rows": 207}],
         outline_shape="book_chapter", chapter_label_en="Article", chapter_label_la="Articulus",
     ),
-    # ------ Round 6: Other commentaries + Compendium ------
+    # ------ Other commentaries + Compendium ------
     "compendium-theologiae": WorkSpec(
         slug="compendium-theologiae", sub_path="compendium-theology", book_id="aquinas-compendium-theology",
         name_en="Compendium of Theology", name_la="Compendium Theologiae",
@@ -806,7 +800,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 85, "did_la": 313, "did_en": 316, "label_en": "On Boethius's De Trinitate", "label_la": "Super De Trinitate Boethii", "rows": 913}],
         outline_shape="book_chapter", chapter_label_en="Chapter", chapter_label_la="Caput",
     ),
-    # ------ Round 7: Catena Aurea on Matthew, Luke, John (bilingual). ------
+    # ------ Catena Aurea on Matthew, Luke, John (bilingual). ------
     # Mark uses a quirky aquinas.cc outline (most refs are bare "CaMark"
     # with title-based chapter/lecture identification); handled separately.
     "catena-matthew": WorkSpec(
@@ -839,7 +833,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 72, "did_la": 271, "did_en": 538, "label_en": "Catena Aurea on John", "label_la": "Catena in Iohannem", "rows": 3887}],
         outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
     ),
-    # ------ Round 8b: De Virtutibus Latin-only (no PD English on aquinas.cc) ------
+    # ------ De Virtutibus Latin-only (no PD English on aquinas.cc) ------
     "de-virtutibus-cc": WorkSpec(
         slug="de-virtutibus-cc", sub_path="disputed-questions/de-virtutibus", book_id="aquinas-de-virtutibus",
         name_en="Disputed Questions on the Virtues", name_la="Quaestiones Disputatae de Virtutibus",
@@ -850,7 +844,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         parts=[{"wid": 28, "did_la": 104, "did_en": 0, "label_en": "De Virtutibus", "label_la": "De Virtutibus", "rows": 1827}],
         outline_shape="question_article",
     ),
-    # ------ Round 8: 18 small opuscula + 1 Latin-only ------
+    # ------ Small opuscula (one Latin-only) ------
     "de-ente-et-essentia": WorkSpec(
         slug="de-ente-et-essentia", sub_path="opuscula/de-ente-et-essentia", book_id="aquinas-de-ente-et-essentia",
         name_en="On Being and Essence", name_la="De Ente et Essentia",
@@ -1056,7 +1050,7 @@ WORKS_CC: dict[str, WorkSpec] = {
         ],
         outline_shape="book_chapter", book_label_en="Chapter", book_label_la="Caput", chapter_label_en="Lecture", chapter_label_la="Lectio",
     ),
-    # Remaining Pauline commentaries (the ones not in earlier rounds).
+    # Remaining Pauline commentaries.
     "super-1-cor": WorkSpec(
         slug="super-1-cor", sub_path="biblical/super-1-cor", book_id="aquinas-super-1-cor",
         name_en="Commentary on 1 Corinthians", name_la="Super 1 ad Corinthios lectura",
@@ -1164,9 +1158,6 @@ WORKS_CC: dict[str, WorkSpec] = {
 }
 
 
-# ---------------------------------------------------------------------------
-# Row style decoder
-# ---------------------------------------------------------------------------
 # From aquinas.cc's _rowStyleOptions:
 #   a/k: Work / #Work
 #   b/l: Subject / #Subject
@@ -1196,10 +1187,6 @@ STYLE_TEXT_B = "z"
 STYLE_AUX = set("yz")
 
 
-# ---------------------------------------------------------------------------
-# HTML → Markdown
-# ---------------------------------------------------------------------------
-
 INLINE_RE = re.compile(r"<(/?)(b|i|em|strong|sup|sub|u|small)(?:\s[^>]*)?>", re.IGNORECASE)
 SCRIPTURE_REF_RE = re.compile(r"<n-sh[^>]*></n-sh>", re.IGNORECASE)
 # Hyperlinks (with attributes) → keep inner text only.
@@ -1217,12 +1204,10 @@ def html_to_md(html: str) -> str:
     # credit, edition note, etc.). Render as a parenthetical italic note
     # so it's visually separated from the main text.
     html = ANNOTATION_RE.sub(lambda m: " *(" + m.group(1).strip() + ")*", html)
-    # Drop anchor wrappers (with attrs — hyperlinks); keep the inner text.
     html = LINK_RE.sub(r"\1", html)
     # <br> becomes a markdown hard line break (two spaces + newline). Do this
     # BEFORE the general tag-stripping below.
     html = re.sub(r"<br\s*/?>", "  \n", html, flags=re.IGNORECASE)
-    # <p> tag boundaries become paragraph breaks.
     html = re.sub(r"</p>", "\n\n", html, flags=re.IGNORECASE)
     html = re.sub(r"<p\b[^>]*>", "", html, flags=re.IGNORECASE)
     # Inline formatting tags → markdown.
@@ -1241,9 +1226,7 @@ def html_to_md(html: str) -> str:
             return "_" if not slash else "_"
         return ""
     html = INLINE_RE.sub(repl, html)
-    # Strip remaining tags.
     html = re.sub(r"<[^>]+>", "", html)
-    # Decode common HTML entities.
     html = (html
             .replace("&nbsp;", " ")
             .replace("&amp;", "&")
@@ -1256,10 +1239,6 @@ def html_to_md(html: str) -> str:
     html = re.sub(r"\*\*\*\*", "", html)
     return html.strip()
 
-
-# ---------------------------------------------------------------------------
-# Fetch + cache
-# ---------------------------------------------------------------------------
 
 def cache_path(name: str) -> Path:
     p = CACHE / name
@@ -1319,10 +1298,6 @@ def fetch_cells(did: int, total_rows: int, chunk: int = 500) -> list[tuple[int, 
     return all_rows
 
 
-# ---------------------------------------------------------------------------
-# Outline walker — builds TOC nodes from the outline tree
-# ---------------------------------------------------------------------------
-
 @dataclass
 class OutlineNode:
     title: str
@@ -1353,10 +1328,6 @@ def gather_chapters(root: OutlineNode, depth_target: int = 1) -> list[OutlineNod
             out.extend(gather_chapters(c, depth_target - 1))
     return out
 
-
-# ---------------------------------------------------------------------------
-# Markdown emitter
-# ---------------------------------------------------------------------------
 
 def slug(text: str) -> str:
     text = re.sub(r"<[^>]+>", "", text or "")
@@ -1525,8 +1496,6 @@ def render_chapter(
                 if len(verse_lines) == 1:
                     lines.append(f"- {verse_lines[0]}")
                 else:
-                    # Two-space-then-newline = markdown hard break inside a
-                    # list item.
                     joined = "  \n  ".join(verse_lines)
                     lines.append(f"- {joined}")
             last_was_blank = False
@@ -1546,10 +1515,6 @@ def render_chapter(
     return md
 
 
-# ---------------------------------------------------------------------------
-# Two-level outline extractor (Book → Chapter / Question → Article)
-# ---------------------------------------------------------------------------
-
 _GROUP_REF_RE = re.compile(r"\.(?:Bk|Tr|BookI{1,3}V?|BookV|Book[A-Z]+|Q|Tract)(\d*)$|\.Prooem$|\.Prologue$|\.Pr$")
 # Leaf refs at chapter granularity. Includes the letter-prefixed patterns
 # (".C1", ".L1", ".A1", ".Ps1") plus an "as-its-own-leaf" Q-pattern (".Q1")
@@ -1561,7 +1526,6 @@ _LEAF_REF_RE = re.compile(r"\.(?:C|L|A|Lec|Cap|Lectio|Capitulum|Ps|Q)(\d+)$")
 
 
 def _is_chapter_ref(ref: str) -> bool:
-    """Heuristic: leaf chapter refs end in `.C<N>`, `.L<N>`, `.A<N>` etc."""
     return bool(_LEAF_REF_RE.search(ref or ""))
 
 
@@ -1599,7 +1563,6 @@ def _extract_two_level(root: OutlineNode) -> list[dict]:
         # Skip TOC-only leading sections (e.g. `<work>.S1`)
         if re.fullmatch(rf"{re.escape(work_prefix)}\.S\d+", c.ref):
             continue
-        # Drop nodes whose children are all empty AND whose ref is the work prefix
         if not c.children and c.ref == work_prefix:
             continue
         groups.append(c)
@@ -1673,7 +1636,7 @@ def _is_stub_md(md: str) -> bool:
     restatement of that heading, with no real body content.
 
     aquinas.cc emits Book/Chapter prologue nodes that contain only the
-    topic line (e.g. "Mobile Being in General"); the round-7 title-dedupe
+    topic line (e.g. "Mobile Being in General"); render_chapter's title-dedupe
     suppresses it against the H1, but sometimes it survives as a bold
     title row. Either way the prologue has no real content and shouldn't
     ship.
@@ -1681,7 +1644,6 @@ def _is_stub_md(md: str) -> bool:
     if not md:
         return True
     lines = [ln.strip() for ln in md.splitlines() if ln.strip()]
-    # Drop the H1 line if present.
     if lines and lines[0].startswith("#"):
         lines = lines[1:]
     # Strip any leading bold-italic / italic / bold restatements — these
@@ -1765,7 +1727,6 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
         group_to_entries.setdefault(key, []).append(entry)
         group_info[key] = (_clean_outline_title(entry["group_title"]), entry["group_ref"])
 
-    # Decide labels based on shape (Q/A vs Book/Chapter)
     if shape_hint == "question_article":
         group_label_en = "Question"
         group_label_la = "Quaestio"
@@ -1808,7 +1769,6 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
         for entry in entries_in_group:
             chap_num = entry["chap_num"]
             chap_title_clean = _clean_outline_title(entry["chap_title"])
-            # File id
             if multi_group:
                 if chap_num == 0:
                     cid = f"g{global_g_idx}-pr"
@@ -1827,7 +1787,6 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
                 cid = f"{base_cid}-{suffix_i}"
                 suffix_i += 1
             global_seen_cids.add(cid)
-            # Chapter title
             if chap_num == 0:
                 chap_title_en = f"Prologue — {chap_title_clean}" if chap_title_clean else "Prologue"
                 chap_title_la = "Prooemium"
@@ -1848,10 +1807,9 @@ def _emit_two_level_book(spec: WorkSpec, dry_run: bool = False, shape_hint: str 
             )
             # Skip prologue stubs: if the prologue range produced nothing
             # beyond the heading line, don't write the file and don't put
-            # it in the TOC. (Round 7 audit found ~800 of these — Book
-            # prologues that aquinas.cc emits as a single row containing
-            # only the Book topic line, which gets stripped as a duplicate
-            # of the chapter title.)
+            # it in the TOC. aquinas.cc emits many Book prologues as a single
+            # row holding only the topic line, which is stripped as a
+            # duplicate of the chapter title.
             en_is_stub = _is_stub_md(md_en)
             la_is_stub = _is_stub_md(md_la)
             if chap_num == 0 and en_is_stub and la_is_stub:
@@ -1967,7 +1925,6 @@ def _emit_single_chapter_book(spec: WorkSpec, dry_run: bool = False) -> dict:
 
 
 def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
-    # Route to specialised builders based on outline_shape.
     if spec.outline_shape == "book_chapter":
         return _emit_two_level_book(spec, dry_run=dry_run, shape_hint="book_chapter")
     if spec.outline_shape == "question_article":
@@ -2059,7 +2016,6 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
         # or end-of-work).
         positions = [c.position for c in chapters] + [len(style_chars)]
 
-        # If multi-part work, wrap in a group node.
         part_group: dict | None = None
         if len(spec.parts) > 1:
             part_group = {
@@ -2140,10 +2096,6 @@ def emit_book(spec: WorkSpec, dry_run: bool = False) -> dict:
     return {"book": spec.book_id, "chapters": total, "languages": languages}
 
 
-# ---------------------------------------------------------------------------
-# Summa Theologiae — special multi-part bilingual build from aquinas.cc
-# ---------------------------------------------------------------------------
-
 # 10 widths, two per Part. Each row of the tuple is
 #   (wid, did_la, did_en, rows, q_start, q_end_inclusive)
 # The q_start/q_end let us validate that each Question we extract belongs to
@@ -2204,7 +2156,6 @@ def _summa_extract_articles(outline: OutlineNode) -> list[dict]:
     capture proem boundaries separately as entries with a=0.
     """
     out: list[dict] = []
-    # Walk top-level children (questions)
     for q_node in outline.children:
         qm = SUMMA_QUESTION_RE.match(q_node.ref or "")
         if not qm:
@@ -2214,7 +2165,6 @@ def _summa_extract_articles(outline: OutlineNode) -> list[dict]:
         part = SUMMA_REF_TO_PART.get(part_ref)
         if not part:
             continue
-        # Collect article children sorted by position
         articles = []
         for child in q_node.children:
             am = SUMMA_ARTICLE_RE.match(child.ref or "")
@@ -2234,7 +2184,6 @@ def _summa_extract_articles(outline: OutlineNode) -> list[dict]:
                     "end_position": first_a_pos,
                     "title": q_node.title,
                 })
-        # Each article
         for idx, (a_num, a_node) in enumerate(articles):
             if idx + 1 < len(articles):
                 end = articles[idx + 1][1].position
@@ -2349,7 +2298,6 @@ def build_summa_theologiae(dry_run: bool = False) -> dict:
                 )
                 cid = _summa_chapter_id(part, q_num, a_num)
                 end_pos = entry["end_position"]
-                # Render bodies
                 md_en = render_chapter(
                     chap, style_chars, la_rows, en_rows, "en-US", end_pos,
                     fallback_title=chap_title_en,
@@ -2390,18 +2338,13 @@ def build_summa_theologiae(dry_run: bool = False) -> dict:
                     })
                 total += 1
 
-        # Attach questions in numeric order
         for q_num in sorted(q_to_node):
-            # Update the question's en title with the actual question text, if
-            # we captured one from the proem entry's title field.
             part_node["children"].append(q_to_node[q_num])
         if part_node["children"]:
             toc.append(part_node)
 
-    # Pull Q titles from the rows themselves (aquinas.cc puts the topic in the
-    # Q node's title on the outline — we already extracted it as the proem
-    # entry's title; re-attach to the Question TOC node).
-    # Walk again, briefer, to enrich titles using the proem entries we wrote.
+    # aquinas.cc puts each question's topic on its outline node, which became
+    # the proem's H1; copy it back onto the Question TOC node.
     for part_entry in toc:
         for q_entry in part_entry["children"]:
             cid_pr = q_entry["children"][0]["id"] if q_entry["children"] else None
@@ -2447,10 +2390,6 @@ def build_summa_theologiae(dry_run: bool = False) -> dict:
         )
     return {"book": "aquinas-summa-theologiae", "articles": total}
 
-
-# ---------------------------------------------------------------------------
-# Summa Contra Gentiles — 4 widths, one per Book, Book→Chapter TOC.
-# ---------------------------------------------------------------------------
 
 SCG_WIDS: list[tuple[int, int, int, int, int]] = [
     # (book_num, wid, did_la, did_en, rows)
@@ -2597,10 +2536,6 @@ def build_summa_contra_gentiles(dry_run: bool = False) -> dict:
     return {"book": "aquinas-summa-contra-gentiles", "chapters": total}
 
 
-# ---------------------------------------------------------------------------
-# Catena Aurea on Mark — title-based extractor (refs are all "CaMark")
-# ---------------------------------------------------------------------------
-
 CATENA_MARK_CHAPTER_RE = re.compile(r"^Chapter\s+(\d+)\s*(?:<n-sh\b|$)", re.IGNORECASE)
 CATENA_MARK_LECTURE_RE = re.compile(r"^Lecture\s+(\d+)\s*(?:<n-sh\b|$)", re.IGNORECASE)
 
@@ -2671,7 +2606,6 @@ def build_catena_mark(dry_run: bool = False) -> dict:
     if flat:
         flat[-1]["end_position"] = 10_000_000
 
-    # Render + build TOC
     toc: list[dict] = []
     chapter_node_for: dict[int, dict] = {}
     total = 0
@@ -2760,10 +2694,6 @@ def build_catena_mark(dry_run: bool = False) -> dict:
         )
     return {"book": "aquinas-catena-aurea-mark", "chapters": total}
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 def cmd_list() -> None:
     print(f"{'slug':<28} {'rows':>10}  book id")

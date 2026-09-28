@@ -6,7 +6,7 @@ import { emitBatch, useEventStore } from './events'
 import type { AppEvent } from './events/types'
 import type { Tier } from './schema'
 
-// --- Simple practices (no manifest) ---
+// Practices with no manifest.
 
 type SimplePracticeSeed = {
   id: string
@@ -141,8 +141,6 @@ const simplePractices: SimplePracticeSeed[] = [
   },
 ]
 
-// --- Seed logic ---
-
 function seedSlots(
   practiceId: string,
   slots: { tier?: string; time?: string; schedule: string; sortOrder: number }[],
@@ -226,8 +224,6 @@ export async function seedPractices(): Promise<void> {
   const events = collectSeedEvents()
   if (events.length > 0) await emitBatch(events)
 }
-
-// --- Reading cursors ---
 
 export async function seedCursors(): Promise<void> {
   const store = useEventStore.getState()

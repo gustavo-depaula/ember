@@ -53,7 +53,6 @@ export default function CatalogDetailScreen() {
   const bottomClearance = useBottomClearance()
   const background = theme.background?.val ?? '#000000'
 
-  // Drive the hero's stretch-on-pull-down off the scroll offset.
   const scrollY = useSharedValue(0)
   const onScroll = useAnimatedScrollHandler((e) => {
     scrollY.value = e.contentOffset.y
@@ -66,14 +65,13 @@ export default function CatalogDetailScreen() {
 
   const manifest = viewingId ? getManifest(viewingId) : undefined
   // Routes carry the bare id ("rosary") while the plan keys practices by the
-  // canonical one ("practice/rosary"); reading the plan by the bare id missed
-  // the practice entirely and every "Add to plan" added it again.
+  // canonical one ("practice/rosary"); reading the plan by the bare id misses
+  // the practice and every "Add to plan" adds it again.
   const planId = manifest?.id ?? viewingId
   const slotsForManifest = useSlotsForPractice(planId)
   const firstSlot = slotsForManifest[0]
   const isDirectlyInPlan = slotsForManifest.some((s) => s.enabled === 1)
 
-  // Check if any member of the same alternative group is already in the plan
   const practices = useEventStore((s) => s.practices)
   const groupMemberInPlan = useMemo(() => {
     if (!viewingId || isDirectlyInPlan) return undefined
@@ -456,7 +454,6 @@ export default function CatalogDetailScreen() {
   )
 }
 
-/** The plan's live primary action — a filled gold capsule, centered. */
 function PrimaryCapsule({
   label,
   onPress,
@@ -488,7 +485,6 @@ function PrimaryCapsule({
   )
 }
 
-/** A quiet, borderless plan affordance — gold type, optional trailing chevron. */
 function TextLink({
   label,
   onPress,

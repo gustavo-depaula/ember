@@ -13,8 +13,8 @@ import { normalizeForSearch } from '@/lib/search'
 
 const searchBarHeight = 52
 // Lift above the nav when the keyboard is closed. Under NativeTabs the
-// safe-area bottom inset ALREADY includes the tab bar, so this is just a small
-// gap above it — not the tab-bar height again (that double-count shoved it up).
+// safe-area bottom inset already includes the tab bar, so this is just a small
+// gap above it — not the tab-bar height again.
 const navGap = 8
 
 export default function SaintsScreen() {
@@ -58,8 +58,6 @@ export default function SaintsScreen() {
   )
 }
 
-// A liquid-glass search field that rests just above the bottom nav and sticks
-// to the keyboard when focused (so it's never hidden under it).
 function GallerySearch({ query, onQuery }: { query: string; onQuery: (q: string) => void }) {
   const { t } = useTranslation()
   const theme = useTheme()

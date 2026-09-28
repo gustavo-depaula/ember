@@ -51,7 +51,6 @@ export async function getDrbBooks(): Promise<Book[]> {
   return drbBooksCache
 }
 
-// Bolls.life book list cache (in-memory, per session)
 const bollsBookCache = new Map<string, BollsBook[]>()
 
 async function getBollsBooks(translation: string): Promise<BollsBook[]> {
@@ -93,15 +92,11 @@ const deuterocanonical = new Set([
   '2-machabees',
 ])
 
-// Resolve a bookId to a Bolls numeric ID. bookId can be either a numeric string
-// (from the Bible reader) or a DRB slug (from lectio track entries).
-//
-// Slugs used to be resolved by matching the DRB's English book names against
-// the Bolls list — but `/get-books/` answers in the translation's own language
-// ("Mateus" under CNBB, "Evangelium secundum Matthaeum" under VULG), so outside
-// English nothing ever matched and every reading in a practice silently fell
-// back to the Douay-Rheims. Canon *order* is the one thing the translations
-// agree on, so align by position instead and read the id off the match.
+// bookId is either a numeric string (from the Bible reader) or a DRB slug (from
+// lectio track entries). Slugs can't be matched by name: `/get-books/` answers
+// in the translation's own language ("Mateus" under CNBB, "Evangelium secundum
+// Matthaeum" under VULG). Canon *order* is the one thing the translations agree
+// on, so align by position and read the id off the match.
 async function resolveBollsBookId(
   translation: string,
   bookId: string,
@@ -150,7 +145,6 @@ export async function getChapter(
       verses: verses.map((v) => ({ verse: v.verse, text: v.text })),
     }
   } catch {
-    // Fallback to DRB if online fetch fails
     try {
       return { verses: await getDrbChapter(bookId, chapter), fallback: true }
     } catch {

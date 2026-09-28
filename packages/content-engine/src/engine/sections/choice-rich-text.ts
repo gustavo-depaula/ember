@@ -35,11 +35,7 @@ export type SlotDataShape = {
       plain?: Record<string, string>
     }
   }
-  /**
-   * When an alternative carries its own localized label (e.g. each preface
-   * after hydration gets a label like "Páscoa I"), it overrides the
-   * source-tag-based label ("Tmp", "Snt", …) in the chip toggle.
-   */
+  /** Overrides the source-tag label ("Tmp", "Snt", …), e.g. a preface's "Páscoa I". */
   label?: Record<string, string>
   /**
    * Optional excerpt — short phrase distinguishing this option from
@@ -72,8 +68,6 @@ function extractOneSlotOption(
   if (!primary || primary.length === 0) return undefined
   const secondary = pickRichTextLines(slotData.body, secondaryLang)
 
-  // Citation may be a string (older shape) OR a localized object (ember-extra
-  // shape). Use localize for the latter.
   const cit = slotData.citation
   const citation =
     typeof cit === 'string'
@@ -139,12 +133,10 @@ function extractSlotData(
     | undefined
   if (!slotData) return []
 
-  // Direct body present: one option.
   if (slotData.body) {
     const opt = extractOneSlotOption(slotData, ec)
     return opt ? [opt] : []
   }
-  // No direct body but alternatives[] present: each alt becomes one option.
   if (slotData.alternatives?.length) {
     return slotData.alternatives
       .map((alt) => extractOneSlotOption(alt, ec))

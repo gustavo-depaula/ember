@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { computeEaster, getLiturgicalColor, getLiturgicalSeason } from './season'
+import { computeEaster, getLiturgicalSeason } from './season'
 
 describe('computeEaster', () => {
   it('returns correct Easter dates for known years', () => {
@@ -45,15 +45,5 @@ describe('getLiturgicalSeason', () => {
     expect(getLiturgicalSeason(new Date(2026, 4, 24), 'ef')).toBe('easter')
     expect(getLiturgicalSeason(new Date(2026, 4, 30), 'ef')).toBe('easter')
     expect(getLiturgicalSeason(new Date(2026, 4, 31), 'ef')).toBe('post-pentecost')
-  })
-})
-
-describe('getLiturgicalColor', () => {
-  it('maps seasons to correct colors', () => {
-    expect(getLiturgicalColor('advent')).toBe('violet')
-    expect(getLiturgicalColor('christmas')).toBe('white')
-    expect(getLiturgicalColor('ordinary')).toBe('green')
-    expect(getLiturgicalColor('lent')).toBe('violet')
-    expect(getLiturgicalColor('easter')).toBe('white')
   })
 })

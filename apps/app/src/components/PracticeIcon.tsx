@@ -14,9 +14,8 @@ import { useTheme } from 'tamagui'
 
 import { type IconName, WatercolorIcon } from './ornaments/WatercolorIcon'
 
-// Gold-tinted lucide glyphs replace the old system-emoji fallback so the rule
-// tree and the Today checklist stay inside the illuminated idiom. Sparkles is
-// the fleuron-ish final fallback.
+// Gold-tinted lucide glyphs keep the rule tree and the Today checklist inside
+// the illuminated idiom. Sparkles is the fleuron-ish final fallback.
 const lucideIcons: Record<string, LucideIcon> = {
   sunrise: Sunrise,
   prayer: HeartHandshake,

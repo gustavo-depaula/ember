@@ -1,11 +1,11 @@
 /**
- * User-collections repository — collections the user authors locally. They
- * serialize to the same `CollectionItemManifest` as corpus collections and
- * render through the same viewer; only storage + authoring live here.
+ * Collections the user authors locally. They serialize to the same
+ * `CollectionItemManifest` as corpus collections and render through the same
+ * viewer; only storage + authoring live here.
  *
  * A collection is its metadata (`user_collections`) plus an ordered list of
- * member refs (`user_collection_items`). v1 keeps every member in one implicit
- * `'default'` section, but `section_id` leaves room for multi-section authoring.
+ * member refs (`user_collection_items`). Every member sits in one implicit
+ * `'default'` section; `section_id` leaves room for multi-section authoring.
  */
 
 import { broadcastChange } from '@/lib/db-shared/manager'

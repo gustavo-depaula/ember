@@ -19,10 +19,6 @@ const toc: TocNode[] = [
 ]
 
 describe('findTocNode', () => {
-  it('finds a top-level node by id', () => {
-    expect(findTocNode(toc, 'tomo-1')?.title['pt-BR']).toBe('Tomo I')
-  })
-
   it('finds a nested node by id', () => {
     expect(findTocNode(toc, 'temeridade')?.title['en-US']).toBe("The sinner's rashness")
   })

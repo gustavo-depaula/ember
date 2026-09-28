@@ -1,18 +1,15 @@
 /**
- * Per-device cache of Escrivá chapter HTML fetched from escriva.org.
- *
- * Reuses the existing `external_content` table (no migration): the chapter body
- * HTML is stored as a JSON string in `payload_json`, keyed by producer + book
- * slug + chapter id + language. This is the on-demand half of the integration —
- * a chapter is fetched once on first open, then read offline thereafter.
+ * Per-device cache of Escrivá chapter HTML fetched from escriva.org, stored in
+ * `external_content` as a JSON string in `payload_json`, keyed by producer +
+ * book slug + chapter id + language. A chapter is fetched once on first open,
+ * then read offline.
  */
 
 import { escrivaProducerId } from '@/content/escrivaWorks'
 import type { BookEntry } from '@/content/manifestTypes'
 import { getDb } from '../client'
 
-// Bump to invalidate cached chapters + manifests: v2 added styled point markup
-// and per-chapter point ranges in the TOC.
+// Bump to invalidate cached chapters and manifests.
 const producerVersion = '2'
 
 // A reserved chapter id under which the assembled BookEntry manifest (toc +

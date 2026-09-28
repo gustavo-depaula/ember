@@ -186,7 +186,6 @@ export function BibleReader() {
       ) : undefined}
       <GestureDetector gesture={pan}>
         <Animated.View style={[styles.strip, { width: stripWidth }, stripStyle]}>
-          {/* Book list */}
           <View style={[styles.bookPanel, { width: bookDrawerWidth }]}>
             <YStack flex={1} paddingTop={insets.top + 12}>
               <YStack paddingHorizontal="$md" paddingBottom="$md" gap="$sm">
@@ -204,7 +203,6 @@ export function BibleReader() {
             </YStack>
           </View>
 
-          {/* Reading content */}
           <Animated.View style={[{ width: screenWidth }, dimStyle]}>
             <ScreenLayout>
               <YStack flex={1}>
@@ -230,7 +228,6 @@ export function BibleReader() {
             ) : undefined}
           </Animated.View>
 
-          {/* Chapter numbers */}
           <View style={[styles.chapterPanel, { width: chapterDrawerWidth }]}>
             <YStack flex={1} paddingTop={insets.top + 12}>
               <ChapterList

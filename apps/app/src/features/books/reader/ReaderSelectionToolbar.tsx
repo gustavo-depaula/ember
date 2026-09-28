@@ -9,8 +9,8 @@ import { HIGHLIGHT_COLOR_IDS, HIGHLIGHT_COLORS } from './highlightColors'
 import type { HighlightColor } from './highlights'
 
 const PILL_HEIGHT = 48
-// 5 swatches (24pt each) + copy + optional trash + gaps + padding.
-// Width is computed from the slot count so the pill stays snug in both modes.
+// 5 swatches + note + copy + optional trash, one SLOT each, so the pill stays
+// snug in both modes.
 const SLOT = 32
 const HPAD = 14
 const baseWidth = (extras: number) => HPAD * 2 + 5 * SLOT + extras * SLOT
@@ -18,7 +18,7 @@ const baseWidth = (extras: number) => HPAD * 2 + 5 * SLOT + extras * SLOT
 type Props = {
   /** Selection rect in WebView-screen coords; undefined hides the toolbar. */
   rect: { x: number; y: number; width: number; height: number } | undefined
-  /** 'create' = a fresh selection; 'edit' = user tapped an existing highlight. */
+  /** 'edit' = the user tapped an existing highlight. */
   mode: 'create' | 'edit'
   /** When `mode === 'edit'`, true if this highlight already carries a note. */
   hasNote?: boolean
@@ -32,7 +32,7 @@ type Props = {
 
 /**
  * Floating glass toolbar above (or below) the active selection. Five color
- * swatches + copy; in edit mode (tap on existing highlight), also a trash.
+ * swatches, note and copy; in edit mode also a trash.
  */
 export function ReaderSelectionToolbar({
   rect,
@@ -52,7 +52,6 @@ export function ReaderSelectionToolbar({
   const tintColor = isDark ? 'rgba(28,26,24,0.78)' : 'rgba(244,240,234,0.85)'
   const iconColor = isDark ? '#EDE4D8' : '#1a1815'
   const showTrash = mode === 'edit' && !!onRemove
-  // Always show Note + Copy; trash only in edit mode.
   const toolbarWidth = baseWidth(showTrash ? 3 : 2)
 
   // Prefer above the selection. If there's no room above the notch, place

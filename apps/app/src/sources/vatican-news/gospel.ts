@@ -102,8 +102,6 @@ export async function fetchVaticanGospelText(
 // Gospel tab is always populated. `dateScoped` keys the cache per day.
 export const gospelOfTheDaySource = {
   id: 'producer/gospel-of-the-day',
-  // v2: citation/passage split now folds the standalone verse-reference
-  // paragraph (PT) into the citation — bump to drop v1's cached payloads.
   version: '2',
   prefsDeps: ['lang' as const],
   dateScoped: true,

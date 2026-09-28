@@ -3,8 +3,7 @@
 // (process_conditional_lines), @-inclusions (InclusionRegex), $-macros and
 // &-calls (the specials loop), '!' rubric/citation lines, '_' blank markers.
 // Everything else is text — exactly like Perl, which has no "unknown token".
-// Used by the importer as a validation/inventory pass and by the engine at
-// assembly time.
+// Used by scripts/validate-do.ts as a validation/inventory pass.
 
 import { type LineConditional, matchLineConditional } from './conditions'
 

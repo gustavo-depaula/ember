@@ -30,10 +30,8 @@ export function totalProgramDays(qPerDay: number): number {
   return Math.ceil(TOTAL_QUESTIONS / qPerDay)
 }
 
-// Extracts the contiguous HTML for one Q&A out of a cleaned chapter HTML:
-// the `<p id="qN">…</p>` paragraph plus every following sibling up to (but
-// excluding) the next `<p id="q…">`. Returns the slice with leading/trailing
-// whitespace trimmed.
+// One Q&A out of a cleaned chapter: the `<p id="qN">…</p>` paragraph plus every
+// following sibling up to (but excluding) the next `<p id="q…">`.
 export function extractQuestion(chapterHtml: string, qNum: number): string {
   const startRe = new RegExp(`<p[^>]*\\sid="q${qNum}"[^>]*>`)
   const startMatch = startRe.exec(chapterHtml)

@@ -18,9 +18,7 @@ import { fileURLToPath } from 'node:url'
 
 const here = dirname(fileURLToPath(import.meta.url))
 
-// ---------------------------------------------------------------------------
 // paginatorScript.ts — vendored foliate-js paginator + our patches
-// ---------------------------------------------------------------------------
 
 const paginatorRaw = readFileSync(join(here, 'paginator.raw.js'), 'utf8')
 
@@ -42,10 +40,8 @@ const paginatorSrc = paginatorRaw
     'if (this.scrolled || state.pinched) return',
     "if (this.scrolled || state.pinched) return; const __sel = e.target && e.target.ownerDocument && e.target.ownerDocument.getSelection && e.target.ownerDocument.getSelection(); if (__sel && __sel.type === 'Range' && !__sel.isCollapsed) return",
   )
-  // Snappier page-turn animation — foliate ships 300ms; 200ms felt closer to
-  // Apple Books but still draggy because `easeOutQuad` only decays as a
-  // quadratic and lingers at the tail. 150ms with `easeOutCubic` (sharper
-  // landing) is the threshold where the flip reads as instantaneous without
+  // Snappier page turn: foliate ships 300ms with `easeOutQuad`, which lingers
+  // at the tail. 150ms with `easeOutCubic` reads as instantaneous without
   // dropping the in-flight motion cue. Anchor on the unique 3-arg slot of the
   // `animate(...)` call inside the page-scroll path.
   .replace(
@@ -96,15 +92,12 @@ export const paginatorScript = ${JSON.stringify(paginatorSrc)}
 writeFileSync(join(here, 'paginatorScript.ts'), paginatorOut)
 console.log(`wrote paginatorScript.ts (${paginatorOut.length} bytes)`)
 
-// ---------------------------------------------------------------------------
 // bootstrapScript.ts — our highlights / selection / tap wiring around foliate
-// ---------------------------------------------------------------------------
 //
-// Extracted from FoliateReader.tsx's inline template literal so comments and
-// strings inside can use backticks freely (twice now I have closed the host
-// literal by accident with a backtick in a comment). The IIFE was reshaped
-// into `window.__foliateInit = (cfg, chapters, idx, frac) => { … }`; the
-// host invokes it with one trailing `<script>` after this one loads.
+// A standalone file rather than a template literal in FoliateReader.tsx, so
+// comments and strings inside can use backticks freely. It defines
+// `window.__foliateInit = (cfg, chapters, idx, frac) => { … }`; the host
+// invokes it with one trailing `<script>` after this one loads.
 
 const bootstrapRaw = readFileSync(join(here, 'bootstrap.raw.js'), 'utf8')
 

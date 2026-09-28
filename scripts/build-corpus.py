@@ -51,10 +51,6 @@ APP_LANGS: set[str] = {"en-US", "pt-BR", "la"}
 ALL_LANGS: set[str] = OF_LANGS | APP_LANGS
 
 
-# ---------------------------------------------------------------------------
-# Canonicalization & hashing
-# ---------------------------------------------------------------------------
-
 def canonical_json(obj: Any) -> bytes:
     """Stable bytes for hashing: sorted keys, no whitespace, ensure_ascii=False."""
     return json.dumps(obj, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
@@ -63,10 +59,6 @@ def canonical_json(obj: Any) -> bytes:
 def sha256_hex(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
-
-# ---------------------------------------------------------------------------
-# Builder state
-# ---------------------------------------------------------------------------
 
 class Builder:
     def __init__(self, output: Path):
@@ -80,7 +72,6 @@ class Builder:
         # Catalog items: id -> entry
         self.catalog: dict[str, dict] = {}
 
-        # Stats
         self.blobs_written = 0
         self.bytes_written = 0
         self.items_emitted = 0
@@ -118,10 +109,6 @@ class Builder:
         catalog_path.write_bytes(canonical_json(catalog))
 
 
-# ---------------------------------------------------------------------------
-# Per-language splitter
-# ---------------------------------------------------------------------------
-
 def is_localized_leaf(obj: Any) -> bool:
     """A dict with keys that are all language codes (and at least one)."""
     if not isinstance(obj, dict) or not obj:
@@ -136,7 +123,6 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
     Each per-lang tree is `obj` with every localized leaf collapsed to that
     language's value (string), if present.
     """
-    # Discover all languages used anywhere in obj
     found_langs: set[str] = set()
     def discover(o: Any) -> None:
         if is_localized_leaf(o):
@@ -171,10 +157,6 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
     per_lang = {lang: lang_walk(obj, lang) for lang in sorted(found_langs)}
     return shape, per_lang
 
-
-# ---------------------------------------------------------------------------
-# Per-kind walkers
-# ---------------------------------------------------------------------------
 
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
@@ -270,10 +252,10 @@ def build_practices(b: Builder) -> None:
                     ih, isize = b.write_blob(ff.read_bytes())
                     images.append({"rel": rel, "hash": ih, "size": isize, "mime": _mime_for(ff)})
 
-        # Merge: original manifest body + resource hashes. Drop legacy path-based
-        # `data`/`tracks` fields since v2 uses hash-based lookups. `flow` is
-        # kept as inline `{ sections: [...] }` but stripped if it's a legacy
-        # string pointer (e.g. `"flow": "flow.json"` from pre-merge manifests).
+        # Merge: original manifest body + resource hashes. Path-based `data`/
+        # `tracks` fields give way to hash-based lookups; `flow` survives only as
+        # inline `{ sections: [...] }`, never as a string pointer like
+        # `"flow": "flow.json"`.
         item_manifest = {**manifest_data, "id": f"practice/{pid}"}
         if not isinstance(item_manifest.get("flow"), dict):
             item_manifest.pop("flow", None)
@@ -363,9 +345,7 @@ def build_chapters(b: Builder) -> None:
         b.add_catalog(f"chapter/{cid}", catalog_entry)
 
 
-# ---------------------------------------------------------------------------
-# Per-book full-text search index (stemmed inverted index, one blob per lang)
-# ---------------------------------------------------------------------------
+# Per-book full-text search index: a stemmed inverted index, one blob per language.
 
 # Snowball ships no Latin algorithm. For 'la' we tokenize-only (no stemming);
 # Latin liturgical text is short and users typically search the surface form.
@@ -875,7 +855,7 @@ def build_of(b: Builder) -> None:
             b.add_catalog(f"of-calendar/{name}", {"kind": "of-calendar", "hash": h, "size": size})
 
 
-# Divinum Officium datasets (see docs/features/divinum-officium.md).
+# Divinum Officium datasets.
 DO_LANG_DIRS = {"Latin": "la", "English": "en-US", "Portugues": "pt-BR"}
 DO_HORAS_DATASETS = {
     "Tempora": "horas-tempora",
@@ -1033,7 +1013,6 @@ def build_collections(b: Builder) -> None:
         if not isinstance(data.get("sections"), list):
             raise ValueError(f"collection {cid}: `sections[]` is required")
 
-        # Ensure id is set
         data["id"] = f"collection/{cid}"
 
         # Count items by walking sections (validates depth as a side effect).
@@ -1192,10 +1171,6 @@ def build_creators(b: Builder) -> None:
         b.add_catalog(f"creator/{cid}", catalog_entry)
 
 
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
-
 def _discover_langs(obj: Any) -> set[str]:
     """Find all language codes used as dict keys anywhere in obj."""
     found: set[str] = set()
@@ -1225,10 +1200,6 @@ def _mime_for(p: Path) -> str:
         ".json": "application/json",
     }.get(s, "application/octet-stream")
 
-
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
 
 def main(argv: list[str]) -> int:
     output = Path(argv[1]) if len(argv) > 1 else (ROOT / "_site" / "hearth" / "v2")

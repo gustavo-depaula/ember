@@ -245,8 +245,7 @@ export async function setcomment(
   }
 }
 
-// Port of checksuffragium (horas variant) — M6 consumers; ported now since
-// psalmi_minor's Quicumque rule needs it.
+// Port of checksuffragium (horas variant).
 export async function checksuffragium(state: HoursState): Promise<boolean> {
   const ctx = state.day.ctx
   const ranklimit = 3

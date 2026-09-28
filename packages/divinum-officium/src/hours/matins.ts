@@ -2,7 +2,7 @@
 // hymnusmatutinum, psalmi_matutinum (Roman + Monastic), nocturns, the
 // absolutions/benedictions table, lectio() with its responsories, Te Deum
 // logic, and the initia (Scripture incipit) transfer tables. Non-GABC paths
-// only; Cistercian/OP-only branches are omitted (unreachable in v1 versions).
+// only; Cistercian/OP-only branches are omitted (unreachable in the supported versions).
 
 import { leapyear, monthday } from '../kalendar/date'
 import { officestring, sessionWithLang } from '../kalendar/officestring'

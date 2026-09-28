@@ -23,10 +23,6 @@ const flourishLight = require('../../../../assets/textures/notch_you_light.png')
 const flourishAspect = 2172 / 457
 const flourishLightAspect = 2172 / 386
 
-// You tab root: who you are across time. The rule-of-life config is the page's
-// primary job (front-and-center), then your shelf (collections, saved books,
-// prayers and holy cards), then a peek at your chronicle. Today is "this day";
-// You is "the long arc." Settings lives in the header gear.
 export default function YouScreen() {
   return useDeferredTabMount() ? <YouPage /> : undefined
 }

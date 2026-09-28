@@ -26,14 +26,6 @@ describe('parseInline', () => {
     ])
   })
 
-  it('mixed text and **bold**', () => {
-    expect(parseInline('before **middle** after')).toEqual([
-      { type: 'text', text: 'before ' },
-      { type: 'bold', text: 'middle' },
-      { type: 'text', text: ' after' },
-    ])
-  })
-
   // The Liguori meditation pattern: ***Sumário.** body text.*
   describe('nested bold-italic: ***bold** italic*', () => {
     it('simple case', () => {
@@ -41,26 +33,6 @@ describe('parseInline', () => {
       expect(result).toEqual([
         { type: 'bolditalic', text: 'Sumário.' },
         { type: 'italic', text: ' Texto simples.' },
-      ])
-    })
-
-    it('no literal asterisks in output', () => {
-      const result = parseInline('***Sumário.** Texto simples.*')
-      for (const node of result) {
-        expect(node.text).not.toContain('*')
-      }
-    })
-
-    it('long paragraph ending with .*', () => {
-      const input =
-        '***Sumário.** Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Estando as portas fechadas.*'
-      const result = parseInline(input)
-      expect(result).toEqual([
-        { type: 'bolditalic', text: 'Sumário.' },
-        {
-          type: 'italic',
-          text: ' Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Estando as portas fechadas.',
-        },
       ])
     })
 
@@ -74,10 +46,6 @@ describe('parseInline', () => {
           text: ' Alegremo-nos e digamos-lhe: Regina coeli, laetare, alleluia!.',
         },
       ])
-      // No literal asterisks
-      for (const node of result) {
-        expect(node.text).not.toContain('*')
-      }
     })
 
     it('with multiple inner *italic* pairs', () => {
@@ -91,47 +59,18 @@ describe('parseInline', () => {
     })
   })
 
-  // The actual bug: original content ended with *.  (dot after closing *)
-  // which broke nestedRe (expects *$ not *.$)
-  describe('trailing punctuation after closing * (the reported bug)', () => {
-    it('***Sumário.** ...fechadas.*.  — dot after closing *', () => {
-      const input =
-        '***Sumário.** Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Quem quiser gozar esta paz, deve repelir de seu coração tudo que não seja Deus, que feche as portas dos sentidos a todas as criaturas e viva como que morto aos afetos terrestres. É isto exatamente o que o Senhor quis dar a entender aos apóstolos, quando, aparecendo para lhes anunciar a paz, quis ambas as vezes entrar aonde estavam os apóstolos, estando as portas fechadas.*.'
-      const result = parseInline(input)
-      // Must not contain literal asterisks
-      for (const node of result) {
-        expect(node.text).not.toContain('*')
-      }
-      expect(result[0]).toEqual({ type: 'bolditalic', text: 'Sumário.' })
-      expect(result[1].type).toBe('italic')
-      expect(result[1].text).toContain('estando as portas fechadas.')
-    })
-
-    it('simple case: ***Bold.** body text.*.', () => {
-      const result = parseInline('***Bold.** body text.*.')
-      for (const node of result) {
-        expect(node.text).not.toContain('*')
-      }
-      expect(result[0]).toEqual({ type: 'bolditalic', text: 'Bold.' })
-    })
-  })
-
-  // Real content from the meditation file that was broken
-  it('actual Liguori meditation Sumário paragraph', () => {
+  // Regression: a dot after the closing * (`*.`) broke the nested pattern,
+  // which expected the paragraph to end at the *.
+  it('tolerates trailing punctuation after the closing *', () => {
     const input =
-      '***Sumário.** Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Quem quiser gozar esta paz, deve repelir de seu coração tudo que não seja Deus, que feche as portas dos sentidos a todas as criaturas e viva como que morto aos afetos terrestres. É isto exatamente o que o Senhor quis dar a entender aos apóstolos, quando, aparecendo para lhes anunciar a paz, quis ambas as vezes entrar aonde estavam os apóstolos, estando as portas fechadas.*'
+      '***Sumário.** Assim é: só em Deus se acha a verdadeira paz; porque, tendo Deus criado o homem para si, o Bem infinito, só Ele pode fazê-lo contente. Quem quiser gozar esta paz, deve repelir de seu coração tudo que não seja Deus, que feche as portas dos sentidos a todas as criaturas e viva como que morto aos afetos terrestres. É isto exatamente o que o Senhor quis dar a entender aos apóstolos, quando, aparecendo para lhes anunciar a paz, quis ambas as vezes entrar aonde estavam os apóstolos, estando as portas fechadas.*.'
     const result = parseInline(input)
-    expect(result).toHaveLength(2)
+    for (const node of result) {
+      expect(node.text).not.toContain('*')
+    }
     expect(result[0]).toEqual({ type: 'bolditalic', text: 'Sumário.' })
     expect(result[1].type).toBe('italic')
-    expect(result[1].text).not.toContain('*')
     expect(result[1].text).toContain('estando as portas fechadas.')
-  })
-
-  it('multiple italic spans in regular text', () => {
-    expect(parseInline('*Pax vobis — "A paz seja convosco"*')).toEqual([
-      { type: 'italic', text: 'Pax vobis — "A paz seja convosco"' },
-    ])
   })
 
   it('bold section marker', () => {

@@ -14,17 +14,10 @@ const COLOR_HEX: Record<string, string> = {
 }
 
 /**
- * Major-division header for the Mass: a centered uppercase title set
- * between thin horizontal rules. Used for the four big parts (Initial
- * Rites, Liturgy of the Word, Liturgy of the Eucharist, Concluding
- * Rites) — distinct from `heading`, which is reserved for everyday
- * sub-section labels (Antífona, Glória, Credo, …).
- *
- * When `color` is provided, the rules are tinted in the day's
- * liturgical-vestment color (low opacity) so the page carries the
- * day's identity from top to bottom. White/rose/gold fall back to
- * the default border color since they're nearly invisible against a
- * pale background.
+ * Major-division header for the Mass (Initial Rites, Liturgy of the Word, …),
+ * distinct from `heading` for sub-section labels. Rules are tinted in the
+ * day's liturgical colour; white/rose/gold fall back to the border colour
+ * because they vanish on a pale background.
  */
 export function SectionMarker({ title, color }: { title: BilingualText; color?: string }) {
   const theme = useTheme()

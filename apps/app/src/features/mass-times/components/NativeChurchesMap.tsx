@@ -167,7 +167,7 @@ const NativeChurchesMap = forwardRef<
       markers={appleMarkers}
       properties={{ isMyLocationEnabled: true }}
       // Native map controls (the Apple Maps way): the compass re-norths when rotated and the my-location
-      // button recenters. SwiftUI keeps `.mapControls` clear of the sheet, so we drop our custom chrome.
+      // button recenters. SwiftUI keeps `.mapControls` clear of the sheet.
       uiSettings={{
         compassEnabled: true,
         myLocationButtonEnabled: true,

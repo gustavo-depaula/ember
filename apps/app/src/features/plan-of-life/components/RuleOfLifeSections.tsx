@@ -99,10 +99,8 @@ export function PlanCard({
 /**
  * The rule-of-life management body — the long-arc (20-week) tiered
  * fidelity wall, streak/completion stats, add-practice entries, the tiered
- * practice list, and the archived collapsible. Extracted from the old `/plan`
- * screen so both `/plan` and the You tab can render it; each caller supplies its
- * own `ScreenLayout`/`PageHeader` and outer `YStack gap="$lg"`. (Pre-Typography
- * code kept verbatim.)
+ * practice list, and the archived collapsible. The caller supplies its own
+ * `ScreenLayout`/`PageHeader` and outer `YStack gap="$lg"`.
  */
 export function RuleOfLifeSections({ belowWall }: { belowWall?: ReactNode }) {
   const { t } = useTranslation()

@@ -13,25 +13,20 @@ import type { Scope } from './sanctoral'
 import { isNotableTemporal } from './temporal-notability'
 
 /**
- * Build the OF *display* calendar for a whole year from the same authority the
- * Mass uses — `resolveOfDay` over the canonical MR statics — so the celebration
- * card and month grid show exactly what the Mass celebrates (Sacred Heart,
- * Corpus Christi, transferred Ascension, …) instead of a separately-curated and
- * drift-prone list.
+ * Build the OF *display* calendar for a year from the same authority the Mass
+ * uses — `resolveOfDay` over the MR statics — so the celebration card and month
+ * grid never disagree with the Mass.
  *
- * Output matches `@ember/liturgical`'s `buildYearCalendar` shape (the EF path is
- * untouched), so every existing consumer keeps working: a `ResolvedCelebration`
- * with a synthesized partial `LiturgicalEntry` (`id` = the formulary/temporal
- * ref, `holyDayOfObligation` from `hdo.ts`). Sanctoral celebrations carry their
- * title from the statics; **temporal celebrations carry no name** — the temporal
- * cycle has no title in the data, so the UI resolves it from the Mass formulary
- * (the single source of truth for titles + descriptions), with
- * `getLiturgicalDayName` as a fallback.
+ * Output matches `@ember/liturgical`'s `buildYearCalendar` shape: a
+ * `ResolvedCelebration` with a synthesized partial `LiturgicalEntry` (`id` = the
+ * formulary ref). Sanctoral celebrations carry their title from the statics;
+ * **temporal celebrations carry no name** — the data has none, so the UI
+ * resolves it from the Mass formulary, with `getLiturgicalDayName` as a
+ * fallback.
  *
  * Only *named* celebrations are surfaced: every sanctoral celebration, plus the
  * temporal solemnities/feasts of the Lord (via {@link isNotableTemporal}).
- * Ordinary Sundays and ferias are deliberately omitted (the season header
- * conveys them), preserving the prior display semantics.
+ * Ordinary Sundays and ferias are omitted; the season header conveys them.
  */
 export type OfYearOptions = {
   year: number

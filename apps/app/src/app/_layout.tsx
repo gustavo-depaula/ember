@@ -73,8 +73,6 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 SplashScreen.preventAutoHideAsync()
 
-// Dev-only JS-thread stall detector (no-op in release builds): logs whenever
-// the JS thread blocks long enough to freeze touches, with recent op marks.
 if (__DEV__) startStallMonitor()
 
 // RN 0.83 deprecation warning from Tamagui internals crashes LogBox with "cyclic object value"
@@ -83,8 +81,8 @@ LogBox.ignoreLogs(['props.pointerEvents is deprecated'])
 // Query results reach React through notifyManager, which defaults to
 // setTimeout(0). Expo resolves every native promise at immediate priority,
 // ahead of timers, so while boot keeps native I/O in flight (blob reads,
-// SQLite, fetch) timers starve: Today's calendar sat resolved but unrendered
-// for most of a second. A microtask delivers each result as soon as it lands.
+// SQLite, fetch) timers starve and resolved queries sit unrendered. A
+// microtask delivers each result as soon as it lands.
 notifyManager.setScheduler(queueMicrotask)
 
 const queryClient = new QueryClient({
@@ -257,9 +255,6 @@ export default function RootLayout() {
   // returning launch only reveals it if warming overruns the grace window.
   const showBootScreen = coreReady && !seeded && (firstLaunch === true || graceExpired)
 
-  // A returning launch warms from local cache; if it hasn't seeded within the
-  // grace window, reveal the boot loader rather than holding the native splash
-  // indefinitely.
   useEffect(() => {
     if (firstLaunch !== false || !coreReady || seeded) return
     const t = setTimeout(() => setGraceExpired(true), 450)
@@ -273,13 +268,11 @@ export default function RootLayout() {
   const resolvedTheme = themePreference === 'system' ? (systemScheme ?? 'light') : themePreference
   const rootBg = resolvedTheme === 'dark' ? darkTheme.background : lightTheme.background
 
-  // Paint the native root view so it isn't the default white — otherwise it
-  // peeks through during native transitions (Link.AppleZoom, swipe-back).
-  // Also push the resolved theme into the native UIKit appearance: without this
-  // the native layer follows the *device* (userInterfaceStyle: automatic), so an
-  // explicit light pref on a dark device leaves freshly-attached tab VCs and the
-  // Liquid Glass bar resolving dark for a frame on tab switch. 'unspecified' clears
-  // the override so 'system' keeps following the device (and useColorScheme stays true).
+  // Paint the native root view so its default white doesn't peek through
+  // native transitions (Link.AppleZoom, swipe-back). The UIKit appearance
+  // otherwise follows the device, so a light pref on a dark device resolves
+  // freshly-attached tab VCs and the Liquid Glass bar dark for a frame on tab
+  // switch; 'unspecified' lets 'system' keep following the device.
   useEffect(() => {
     SystemUI.setBackgroundColorAsync(rootBg)
     // Native-only: react-native-web has no `setColorScheme`, and calling it
@@ -303,9 +296,7 @@ export default function RootLayout() {
     )
   }
 
-  // Paint the navigation container background so it isn't React Navigation's
-  // default white, which otherwise peeks through during native transitions
-  // (Link.AppleZoom, interactive swipe-back).
+  // React Navigation's default white would also peek through native transitions.
   const baseNavTheme = resolvedTheme === 'dark' ? DarkTheme : DefaultTheme
   const navTheme = {
     ...baseNavTheme,

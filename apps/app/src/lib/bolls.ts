@@ -56,7 +56,6 @@ export async function fetchChapter(
   return res.json()
 }
 
-// Curated list of Catholic-friendly translations with rich metadata
 export const suggestedTranslations: Translation[] = [
   {
     code: 'DRB',
@@ -141,7 +140,6 @@ export const suggestedTranslations: Translation[] = [
   },
 ]
 
-// Default Bible translation per app language
 export const defaultTranslationForLanguage: Record<string, string> = {
   'en-US': 'RSV2CE',
   'pt-BR': 'CNBB',

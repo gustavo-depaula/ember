@@ -11,15 +11,12 @@ import { computeEaster, getFirstSundayOfAdvent } from './season'
  * Christmas Day yields four (vigil/night/dawn/day); Dec 24 yields the ferial +
  * the nativity vigil; Pentecost yields the day Mass + its extended Vigil Mass.
  * The first id is the principal one.
- *
- * This is the single source of the temporal id mapping, owned by the calendar
- * (it was previously duplicated inside `@ember/mass`).
  */
 export function ofTemporeIds(date: Date): string[] {
   const month = getMonth(date) + 1
   const day = getDate(date)
 
-  // ── Movable solemnities (override the season-week-weekday id) ──
+  // Movable solemnities override the season-week-weekday id.
   const easter = computeEaster(date.getFullYear())
   // Pentecost (Easter+49): the day Mass plus the extended Vigil Mass, which
   // ember-extra files as an `.a` variant of Pentecost Sunday. Surfaced together
@@ -43,12 +40,11 @@ export function ofTemporeIds(date: Date): string[] {
   const advent1 = getFirstSundayOfAdvent(date.getFullYear())
   if (isSameDay(date, subDays(advent1, 7))) return ['tempore.solemnity.christ-the-king']
 
-  // ── Late Advent / Christmas Octave / Epiphany season (date-keyed) ──
   const christmasSeasonId = christmasSeasonIdFor(date)
   if (christmasSeasonId === null) return [] // sanctoral takes over (Dec 26-28)
   if (christmasSeasonId) return [christmasSeasonId]
 
-  // ── Holy Week (detected by liturgical position, not date) ──
+  // Holy Week is detected by liturgical position, not date.
   const position = getOfLiturgicalPosition(date)
   if (position.season === 'holy-week') {
     const wd = weekdayNames[date.getDay()]
@@ -63,7 +59,6 @@ export function ofTemporeIds(date: Date): string[] {
     }
   }
 
-  // ── Christmas Day: vigil / night / dawn / day ──
   if (month === 12 && day === 25) {
     return [
       'tempore.christmas.nativity-vigil',
@@ -80,7 +75,6 @@ export function ofTemporeIds(date: Date): string[] {
     return ids
   }
 
-  // ── General season + week + weekday ──
   const wd = weekdayNames[date.getDay()]
   const season = SEASON_MAP[position.season]
   if (position.week > 0) return [`tempore.${season}.week-${position.week}.${wd}`]

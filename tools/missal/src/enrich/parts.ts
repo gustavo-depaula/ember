@@ -41,8 +41,7 @@ function section(heading: Localized, lines: Array<Localized | undefined>, ctx: E
 /**
  * Fold typed special-rite arrays (Good Friday intercessions, Easter Vigil OT
  * readings + baptismal renewal) into appended content sections. Lossless and
- * schema-valid; PR 3 can promote these to typed fields when the renderer needs
- * structured access.
+ * schema-valid.
  */
 function appendTyped(part: Record<string, unknown>, content: ContentBlock[], ctx: EnrichCtx): void {
   const intercessions = part.solemnIntercessions

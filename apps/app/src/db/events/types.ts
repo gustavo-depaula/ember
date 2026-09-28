@@ -1,7 +1,5 @@
 import type { Tier, TimeBlock } from '../schema'
 
-// --- Practice events ---
-
 type PracticeCreated = {
   type: 'PracticeCreated'
   practiceId: string
@@ -86,8 +84,6 @@ export type PracticeEvent =
   | SlotDeleted
   | SlotsReordered
 
-// --- Completion events ---
-
 type CompletionLogged = {
   type: 'CompletionLogged'
   completionId: number
@@ -112,8 +108,6 @@ type CompletionsBatchLogged = {
 }
 
 export type CompletionEvent = CompletionLogged | CompletionRemoved | CompletionsBatchLogged
-
-// --- Cursor events ---
 
 type CursorSet = {
   type: 'CursorSet'
@@ -143,11 +137,7 @@ type ProgramRestarted = {
 
 export type CursorEvent = CursorSet | CursorAdvanced | CursorIndexSet | ProgramRestarted
 
-// --- Union ---
-
 export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent
-
-// --- Stored row shape ---
 
 export type StoredEvent = {
   sequence: number

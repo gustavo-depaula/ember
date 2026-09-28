@@ -35,36 +35,29 @@ const flourishLight = require('../../../../assets/textures/notch_search_light.pn
 const flourishAspect = 2172 / 478
 const flourishLightAspect = 2153 / 334
 
-// Search tab: the iOS 26 header search bar morphs out of the tab. With a query
-// it runs live corpus search (practices/books/collections); empty, it's the
-// illuminated portfolio — a jewel-toned grid of shortcuts into every feature,
-// the Bible, the catechism, and the living collections of the corpus, then the
-// browsable catalogue rows (The Library, devotions, traditions).
+// With a query, live corpus search; empty, the portfolio of shortcuts and
+// browsable catalogue rows.
 export default function SearchScreen() {
   const { t } = useTranslation()
   const [query, setQuery] = useState('')
   const catalogVersion = useCatalogVersion()
-  // Only the body waits; the options above stay mounted so the native search
+  // Only the body waits; the screen options stay mounted so the native search
   // bar is configured from launch.
   const bodyMounted = useDeferredTabMount()
 
   const isSearching = query.trim().length > 0
 
-  // The native search bar must be configured ONCE, not on every keystroke.
-  // `query` state lives in this component, so each character re-renders it; if
-  // the screen options (and `onChangeText` closure) are recreated inline they
-  // re-commit the search bar, and on iOS 26 repeated reconfiguration makes the
-  // field abandon its integrated bottom-bar slot and jump to the nav bar (top).
-  // A stable callback + memoized options keep it pinned to the bottom.
+  // Configure the native search bar once, not per keystroke: options recreated
+  // on each render re-commit it, and on iOS 26 repeated reconfiguration makes
+  // the field abandon its integrated bottom-bar slot and jump to the nav bar.
   const onSearchChange = useCallback(
     (e: { nativeEvent: { text: string } }) => setQuery(e.nativeEvent.text),
     [],
   )
   const screenOptions = useMemo(
     () => ({
-      // The shared group hides headers by default; the search portfolio is the
-      // one screen that needs the native header to host the iOS 26 search bar
-      // that morphs out of the search tab.
+      // The shared group hides headers; this screen needs the native header to
+      // host the iOS 26 search bar.
       headerShown: true,
       headerTransparent: true,
       headerTitle: '',

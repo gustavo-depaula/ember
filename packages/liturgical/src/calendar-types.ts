@@ -1,16 +1,8 @@
-// ============================================================
-// LITURGICAL CALENDAR TYPES
-// ============================================================
-
-// ── Localization ──
-
 type LocalizedText = {
   'en-US'?: string
   la?: string
   'pt-BR'?: string
 }
-
-// ── Anchors ──
 
 type LiturgicalAnchor =
   | 'easter'
@@ -41,13 +33,9 @@ type LiturgicalAnchor =
   | 'epiphany'
   | 'baptism_of_the_lord'
 
-// ── Ranks ──
-
 type RankEF = 'I_class' | 'II_class' | 'III_class' | 'IV_class' | 'commemoration' | 'vigil'
 
 type RankOF = 'solemnity' | 'feast' | 'memorial' | 'optional_memorial'
-
-// ── Category ──
 
 type LiturgicalCategory =
   | 'solemnity_temporal'
@@ -66,8 +54,6 @@ type LiturgicalCategory =
   | 'liturgical_season'
   | 'other'
 
-// ── Entry ──
-//
 // A celebration as surfaced on the display calendar. The OF/EF year builders
 // (`@ember/mass`'s buildOfYearCalendar / the app's buildDoYearCalendar) emit
 // these as `ResolvedCelebration.entry`; only `id`/`name`/`category` are always
@@ -81,8 +67,6 @@ type LiturgicalEntry = {
   holyDayOfObligation?: boolean
 }
 
-// ── Resolved Output ──
-
 type ResolvedCelebration = {
   entry: LiturgicalEntry
   date: Date
@@ -95,8 +79,6 @@ type DayCalendar = {
   celebrations: ResolvedCelebration[]
   principal: ResolvedCelebration | undefined
 }
-
-// ── Exports ──
 
 export type {
   DayCalendar,

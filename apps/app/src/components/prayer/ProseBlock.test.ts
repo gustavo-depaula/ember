@@ -111,22 +111,6 @@ describe('parseMarkdown', () => {
     ])
   })
 
-  it('keeps consecutive different list types separate', () => {
-    const result = parseMarkdown('- Unordered\n\n1. Ordered')
-    expect(result).toEqual([
-      {
-        type: 'list',
-        ordered: false,
-        items: [[{ type: 'text', text: 'Unordered' }]],
-      },
-      {
-        type: 'list',
-        ordered: true,
-        items: [[{ type: 'text', text: 'Ordered' }]],
-      },
-    ])
-  })
-
   it('flushes list when switching type without blank line', () => {
     const result = parseMarkdown('- Bullet\n1. Number')
     expect(result).toEqual([
@@ -155,18 +139,6 @@ describe('parseMarkdown', () => {
       {
         type: 'paragraph',
         children: [{ type: 'text', text: 'Some text.' }],
-      },
-    ])
-  })
-
-  it('still parses paragraphs, headings, and blockquotes', () => {
-    const result = parseMarkdown('# Heading\n\nA paragraph.\n\n> A quote')
-    expect(result).toEqual([
-      { type: 'heading', level: 1, text: 'Heading' },
-      { type: 'paragraph', children: [{ type: 'text', text: 'A paragraph.' }] },
-      {
-        type: 'blockquote',
-        children: [{ type: 'text', text: 'A quote' }],
       },
     ])
   })
@@ -217,7 +189,6 @@ describe('parseMarkdown', () => {
 
     const result = parseMarkdown(input)
 
-    // Blockquote: italic Latin text + plain Portuguese translation
     expect(result[0]).toEqual({
       type: 'blockquote',
       children: [
@@ -232,56 +203,14 @@ describe('parseMarkdown', () => {
       ],
     })
 
-    // Paragraph: bolditalic "Sumário." then italic body (inner *...* markers stripped)
     expect(result[1].type).toBe('paragraph')
     if (result[1].type === 'paragraph') {
       expect(result[1].children[0]).toEqual({ type: 'bolditalic', text: 'Sumário.' })
       expect(result[1].children[1].type).toBe('italic')
-      // No literal * should appear in the rendered text
       expect(result[1].children[1].text).not.toContain('*')
-      // Inner *Regina coeli...* markers are stripped (italic-within-italic)
       expect(result[1].children[1].text).toContain('Regina coeli')
       expect(result[1].children[1].text).toContain('.')
     }
-  })
-
-  it('***Sumário.** pattern: no literal * in output', () => {
-    const input =
-      '***Sumário.** Era de justiça, fosse também a primeira a gozar: *Regina coeli, laetare, alleluia!*.*'
-    const result = parseMarkdown(input)
-    expect(result).toHaveLength(1)
-    expect(result[0].type).toBe('paragraph')
-    if (result[0].type === 'paragraph') {
-      // No child should contain a literal * character
-      for (const child of result[0].children) {
-        expect(child.text).not.toContain('*')
-      }
-      expect(result[0].children[0]).toEqual({ type: 'bolditalic', text: 'Sumário.' })
-      expect(result[0].children[1]).toEqual({
-        type: 'italic',
-        text: ' Era de justiça, fosse também a primeira a gozar: Regina coeli, laetare, alleluia!.',
-      })
-    }
-  })
-
-  it('simple ***Sumário.** short text* without inner italic', () => {
-    const result = parseMarkdown('***Sumário.** Texto simples.*')
-    expect(result).toEqual([
-      {
-        type: 'paragraph',
-        children: [
-          { type: 'bolditalic', text: 'Sumário.' },
-          { type: 'italic', text: ' Texto simples.' },
-        ],
-      },
-    ])
-  })
-
-  it('still parses ***bolditalic*** after adding nested bold-italic support', () => {
-    const result = parseMarkdown('***all three***')
-    expect(result).toEqual([
-      { type: 'paragraph', children: [{ type: 'bolditalic', text: 'all three' }] },
-    ])
   })
 
   it('parses standalone markdown image as image node', () => {

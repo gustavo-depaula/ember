@@ -261,7 +261,7 @@ async function readRegulaLines(state: HoursState, lang: string, fname: string): 
 }
 
 // Port of monastic.pl::regula — the daily chapter of the Rule of St. Benedict
-// read at Monastic Prima. (The Ordo Praedicatorum path is out of v1 scope.)
+// read at Monastic Prima. (The Ordo Praedicatorum path is not ported.)
 export async function regula(state: HoursState, lang: string): Promise<string> {
   const { day, month, year } = state.day.ctx
   let t = `${await state.texts.prayer('benedictio Prima', lang)}\n`

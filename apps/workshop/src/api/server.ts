@@ -3,7 +3,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import type { Plugin, ViteDevServer } from 'vite'
 
-// Hearth v2: source content lives at <monoRoot>/content/{practices,prayers,books,chapters,collections}/...
+// Source content lives at <monoRoot>/content/<kind>/...
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const monoRoot = path.resolve(__dirname, '../../../..')
 const contentRoot = path.join(monoRoot, 'content')
@@ -62,9 +62,9 @@ function listJsonFiles(dir: string): string[] {
 }
 
 /**
- * Reject manifests that still carry the legacy flat `items[]` shape or are
- * missing the required `sections[]`. Also enforce the depth-2 nesting cap so
- * the renderer never has to handle Section → Sub-section → Sub-sub-section.
+ * Reject manifests with a flat `items[]` or without `sections[]`. Also enforce
+ * the depth-2 nesting cap so the renderer never has to handle Section →
+ * Sub-section → Sub-sub-section.
  */
 function validateCollectionShape(parsed: Record<string, unknown>): string | undefined {
   if ('items' in parsed) {
@@ -120,9 +120,6 @@ async function handleRoute(
 ) {
   const method = req.method ?? 'GET'
 
-  // ── Practices ──
-
-  // GET /api/practices — list all practice manifests
   if (route === '/api/practices' && method === 'GET') {
     const practicesRoot = path.join(contentRoot, 'practices')
     const manifests: unknown[] = []
@@ -133,7 +130,6 @@ async function handleRoute(
     return jsonResponse(res, manifests)
   }
 
-  // POST /api/practices — create new practice (body: {id, fromPractice?, ...overrides})
   if (route === '/api/practices' && method === 'POST') {
     const body = await readBody(req)
     const { id, fromPractice, ...overrides } = JSON.parse(body) as {
@@ -179,7 +175,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true, id }, 201)
   }
 
-  // GET /api/practices/:id/manifest
   const manifestMatch = route.match(/^\/api\/practices\/([^/]+)\/manifest$/)
   if (manifestMatch && method === 'GET') {
     const [, practiceId = ''] = manifestMatch
@@ -188,7 +183,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // PUT /api/practices/:id/manifest
   if (manifestMatch && method === 'PUT') {
     const [, practiceId = ''] = manifestMatch
     const body = await readBody(req)
@@ -197,7 +191,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true })
   }
 
-  // GET /api/practices/:id/flow
   const flowMatch = route.match(/^\/api\/practices\/([^/]+)\/flow$/)
   if (flowMatch && method === 'GET') {
     const [, practiceId = ''] = flowMatch
@@ -206,7 +199,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // PUT /api/practices/:id/flow
   if (flowMatch && method === 'PUT') {
     const [, practiceId = ''] = flowMatch
     const body = await readBody(req)
@@ -215,7 +207,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true })
   }
 
-  // GET /api/practices/:id/data/:dataFile
   const dataMatch = route.match(/^\/api\/practices\/([^/]+)\/data\/([^/]+)$/)
   if (dataMatch && method === 'GET') {
     const [, practiceId = '', dataFile = ''] = dataMatch
@@ -224,7 +215,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // GET /api/practices/:id/tracks
   const tracksMatch = route.match(/^\/api\/practices\/([^/]+)\/tracks$/)
   if (tracksMatch && method === 'GET') {
     const [, practiceId = ''] = tracksMatch
@@ -233,7 +223,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // PUT /api/practices/:id/tracks
   if (tracksMatch && method === 'PUT') {
     const [, practiceId = ''] = tracksMatch
     const body = await readBody(req)
@@ -242,9 +231,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true })
   }
 
-  // ── Prayers ──
-
-  // GET /api/prayers — list all prayers (id + parsed json)
   if (route === '/api/prayers' && method === 'GET') {
     const prayersRoot = path.join(contentRoot, 'prayers')
     const prayers: unknown[] = []
@@ -256,7 +242,6 @@ async function handleRoute(
     return jsonResponse(res, prayers)
   }
 
-  // POST /api/prayers — create new prayer
   if (route === '/api/prayers' && method === 'POST') {
     const body = await readBody(req)
     const { id, ...prayerData } = JSON.parse(body) as { id: string; [key: string]: unknown }
@@ -276,7 +261,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true, id }, 201)
   }
 
-  // GET /api/prayers/:id
   const prayerMatch = route.match(/^\/api\/prayers\/([^/]+)$/)
   if (prayerMatch && method === 'GET') {
     const [, prayerId = ''] = prayerMatch
@@ -285,7 +269,6 @@ async function handleRoute(
     return jsonResponse(res, { id: prayerId, ...(data as object) })
   }
 
-  // PUT /api/prayers/:id
   if (prayerMatch && method === 'PUT') {
     const [, prayerId = ''] = prayerMatch
     const body = await readBody(req)
@@ -295,9 +278,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true })
   }
 
-  // ── Books ──
-
-  // GET /api/books — list all books
   if (route === '/api/books' && method === 'GET') {
     const booksRoot = path.join(contentRoot, 'books')
     const books: unknown[] = []
@@ -308,7 +288,6 @@ async function handleRoute(
     return jsonResponse(res, books)
   }
 
-  // GET /api/books/:id — book.json
   const bookMatch = route.match(/^\/api\/books\/([^/]+)$/)
   if (bookMatch && method === 'GET') {
     const [, bookId = ''] = bookMatch
@@ -317,7 +296,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // GET /api/books/:bookId/chapters/:chapterId/:lang — chapter prose text
   const bookChapterMatch = route.match(/^\/api\/books\/([^/]+)\/chapters\/([^/]+)\/([^/]+)$/)
   if (bookChapterMatch && method === 'GET') {
     const [, bookId = '', chapterId = '', lang = ''] = bookChapterMatch
@@ -329,9 +307,6 @@ async function handleRoute(
     return errorResponse(res, 'Chapter not found', 404)
   }
 
-  // ── Chapters (standalone) ──
-
-  // GET /api/chapters — list all standalone chapters
   if (route === '/api/chapters' && method === 'GET') {
     const chaptersRoot = path.join(contentRoot, 'chapters')
     const chapters: unknown[] = []
@@ -342,7 +317,6 @@ async function handleRoute(
     return jsonResponse(res, chapters)
   }
 
-  // GET /api/chapters/:id — chapter.json
   const chapterMatch = route.match(/^\/api\/chapters\/([^/]+)$/)
   if (chapterMatch && method === 'GET') {
     const [, chapterId = ''] = chapterMatch
@@ -351,9 +325,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // ── Collections ──
-
-  // GET /api/collections — list all collection manifests
   if (route === '/api/collections' && method === 'GET') {
     const collectionsRoot = path.join(contentRoot, 'collections')
     const collections: unknown[] = []
@@ -364,7 +335,6 @@ async function handleRoute(
     return jsonResponse(res, collections)
   }
 
-  // POST /api/collections — create new collection
   if (route === '/api/collections' && method === 'POST') {
     const body = await readBody(req)
     const { id, ...overrides } = JSON.parse(body) as { id: string; [key: string]: unknown }
@@ -393,7 +363,6 @@ async function handleRoute(
     return jsonResponse(res, { ok: true, id }, 201)
   }
 
-  // GET /api/collections/:id
   const collectionMatch = route.match(/^\/api\/collections\/([^/]+)$/)
   if (collectionMatch && method === 'GET') {
     const [, collectionId = ''] = collectionMatch
@@ -402,7 +371,6 @@ async function handleRoute(
     return jsonResponse(res, data)
   }
 
-  // PUT /api/collections/:id
   if (collectionMatch && method === 'PUT') {
     const [, collectionId = ''] = collectionMatch
     const body = await readBody(req)

@@ -36,6 +36,6 @@ export const verifiedHourVersions = [
   'Tridentine - 1906',
 ]
 
-// All imported office versions are now fully hour-verified; none remain
-// partial. Kept as an (empty) seam for future rite imports (OP, Cistercian).
+// Office versions only partially hour-verified (none at present) — the seam
+// for future rite imports (OP, Cistercian).
 export const partialHourVersions: string[] = []

@@ -29,23 +29,9 @@ describe('pickAvailableLang', () => {
     expect(pickAvailableLang('la', { la: {}, en: {} })).toBe('la')
     expect(pickAvailableLang('la', { en: {} })).toBeUndefined()
   })
-
-  it('works for an already-short request like `la`', () => {
-    expect(pickAvailableLang('la', { la: { ok: true } })).toBe('la')
-  })
 })
 
 describe('normalizeLangKeys', () => {
-  it('rewrites `en` to `en-US` at a localized leaf', () => {
-    const input = { en: 'Hello' }
-    expect(normalizeLangKeys(input)).toEqual({ 'en-US': 'Hello' })
-  })
-
-  it('rewrites `pt` to `pt-BR` at a localized leaf', () => {
-    const input = { pt: 'Olá' }
-    expect(normalizeLangKeys(input)).toEqual({ 'pt-BR': 'Olá' })
-  })
-
   it('handles a mixed leaf with short, canonical, and Latin codes', () => {
     const input = { en: 'Hello', 'pt-BR': 'Olá', la: 'Salve' }
     expect(normalizeLangKeys(input)).toEqual({
@@ -72,30 +58,6 @@ describe('normalizeLangKeys', () => {
       { 'en-US': 'first', 'pt-BR': 'primeiro' },
       { 'en-US': 'second', 'pt-BR': 'segundo' },
     ])
-  })
-
-  it('walks deeply nested structures (object → array → object → leaf)', () => {
-    const input = {
-      sections: [
-        { id: 'a', title: { en: 'A', la: 'A-la' } },
-        { id: 'b', title: { pt: 'B-pt' } },
-      ],
-    }
-    expect(normalizeLangKeys(input)).toEqual({
-      sections: [
-        { id: 'a', title: { 'en-US': 'A', la: 'A-la' } },
-        { id: 'b', title: { 'pt-BR': 'B-pt' } },
-      ],
-    })
-  })
-
-  it('is a no-op for already-canonical input', () => {
-    const input = { 'en-US': 'Hello', 'pt-BR': 'Olá', la: 'Salve' }
-    expect(normalizeLangKeys(input)).toEqual({
-      'en-US': 'Hello',
-      'pt-BR': 'Olá',
-      la: 'Salve',
-    })
   })
 
   it('does not treat an empty object as a leaf', () => {

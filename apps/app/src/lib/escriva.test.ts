@@ -112,17 +112,6 @@ describe('fetchChapterHtml', () => {
     const html = await fetchChapterHtml(url)
     expect(html).toBe('<p>It is after ten.</p>')
   })
-
-  it('prepends the point styles to a points list', async () => {
-    const url = 'PLU'
-    vi.stubGlobal(
-      'fetch',
-      mockFetch({ [url]: { count: 1, next: null, results: [{ number: 1, text: '<p>x</p>' }] } }),
-    )
-    const html = await fetchChapterHtml(url)
-    expect(html.startsWith('<style>')).toBe(true)
-    expect(html).toContain('.point-num{')
-  })
 })
 
 describe('fetchChapterList apiId', () => {

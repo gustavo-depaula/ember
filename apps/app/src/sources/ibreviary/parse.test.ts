@@ -36,13 +36,12 @@ const fixtures = [
 ]
 
 describe('parseHour — all fixtures', () => {
-  it.each(fixtures)('%s parses to substantial content', (f) => {
+  it.each(
+    fixtures,
+  )('%s parses to substantial content without nav, donate junk, or appendix', (f) => {
     const out = parseHour(load(f))
     expect(out.length).toBeGreaterThan(30)
-  })
-
-  it.each(fixtures)('%s strips nav links, donate junk, and the appendix', (f) => {
-    const text = allText(parseHour(load(f)))
+    const text = allText(out)
     expect(text).not.toContain('Menu')
     expect(text).not.toContain('DONATE')
     expect(text).not.toContain('SUBSCRIBE')

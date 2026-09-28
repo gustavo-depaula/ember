@@ -32,7 +32,6 @@ MAX_OCR_GLITCHES = 5
 MIN_SECTION_HEADINGS_LONG = 4   # for files >5000 chars
 MIN_SECTION_HEADINGS_SHORT = 1  # for shorter files
 
-# Patterns
 HYPHEN_SPLIT_RE = re.compile(r"\b\w+- \w+\b")  # word-(space)other → likely line-break artifact
 PAGE_HEADER_RE = re.compile(
     r"(?:^|\n)\s*(?:\d{1,4}\s+\*?\s*)?Catecismo Romano(?:\.|\s)|"
@@ -108,7 +107,6 @@ def main() -> int:
             score, issues = audit_file(path)
             by_lang[lang].append((score, path.name, issues))
 
-    # Summary
     for lang, results in by_lang.items():
         n_total = len(results)
         n_pass = sum(1 for s, _, _ in results if s <= threshold)
@@ -117,7 +115,6 @@ def main() -> int:
 
     print()
 
-    # Per-file detail for failing files
     print(f"=== Files scoring > {threshold} (need cleanup) ===")
     for lang, results in by_lang.items():
         for score, name, issues in sorted(results, key=lambda r: -r[0]):
@@ -141,7 +138,6 @@ def main() -> int:
         for score, name in sorted_pass:
             print(f"  {lang}/{name:<35} score={score}")
 
-    # Exit non-zero if any file fails
     any_fail = any(s > threshold for results in by_lang.values() for s, _, _ in results)
     return 1 if any_fail else 0
 

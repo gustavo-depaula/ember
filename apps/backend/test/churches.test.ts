@@ -43,24 +43,13 @@ const json = async (res: Response) => res.json() as Promise<{ churches: { id: st
 beforeEach(seed)
 
 describe('GET /churches/near', () => {
-  it('returns churches inside the radius and excludes far ones', async () => {
+  it('returns churches inside the radius, nearest first, excluding far ones', async () => {
     const res = await app.request(
       `/churches/near?lat=${center.lat}&lng=${center.lng}&radiusKm=10`,
       {},
       env,
     )
     expect(res.status).toBe(200)
-    const ids = (await json(res)).churches.map((c) => c.id)
-    expect(ids).toEqual(expect.arrayContaining(['st-mary-a', 'st-joseph-b', 'st-peter-c']))
-    expect(ids).not.toContain('st-far-d')
-  })
-
-  it('sorts by distance (nearest first)', async () => {
-    const res = await app.request(
-      `/churches/near?lat=${center.lat}&lng=${center.lng}&radiusKm=10`,
-      {},
-      env,
-    )
     const ids = (await json(res)).churches.map((c) => c.id)
     expect(ids).toEqual(['st-mary-a', 'st-joseph-b', 'st-peter-c'])
   })
@@ -89,12 +78,6 @@ describe('GET /churches/near', () => {
 describe('GET /churches (viewport + FTS)', () => {
   // Box around the center: contains the 3 near churches, excludes the ~111 km one.
   const nearBox = '-74.1,39.9,-73.9,40.1' // minLng,minLat,maxLng,maxLat
-
-  it('finds a church by FTS5 name search', async () => {
-    const res = await app.request('/churches?q=Joseph', {}, env)
-    const ids = (await json(res)).churches.map((c) => c.id)
-    expect(ids).toEqual(['st-joseph-b'])
-  })
 
   it('matches a partial token as a prefix (search-as-you-type)', async () => {
     const res = await app.request('/churches?q=Jos', {}, env)

@@ -50,10 +50,7 @@ BOOK_DIR = ROOT / "content" / "books" / "morrow-my-catholic-faith"
 PDF_URL = "https://fsspx.asia/sites/default/files/documents/my-catholic-faith.pdf"
 DEFAULT_PDF = ROOT / ".cache" / "morrow-my-catholic-faith.pdf"
 
-# ---------------------------------------------------------------------------
-# Font / layout constants (discovered via probing the source PDF)
-# ---------------------------------------------------------------------------
-
+# Font / layout constants, found by probing the source PDF.
 FONT_BOLD = "Type3 (428 0 R)"  # 12pt lesson heading + 11pt questions
 FONT_ITALIC = "Type3 (598 0 R)"  # image captions
 
@@ -178,15 +175,12 @@ PROTECTED_REJOINED = {
     if len(w) >= 3
 }
 
-# ---------------------------------------------------------------------------
 # Lesson 193 is followed by appendix sections on the same continuous pages.
 # Detected boundaries (PDF 1-indexed):
 #   lesson 193  CONCLUSION: WHY I AM A CATHOLIC      pp 406-407
 #   appendix    THE CHURCH YEAR                       pp 408-411
 #   appendix    THE MOST IMPORTANT PRAYERS            pp 412-415
 #   skip        INDEX                                 pp 416-423
-# ---------------------------------------------------------------------------
-
 APPENDIX_OVERRIDE = {
     193: (406, 407),
 }
@@ -196,10 +190,6 @@ APPENDICES = [
 ]
 INDEX_FIRST_PAGE = 416  # everything from here on is the printed index — skip
 
-
-# ---------------------------------------------------------------------------
-# Text cleanup
-# ---------------------------------------------------------------------------
 
 def _is_word(p: str, threshold: float) -> bool:
     if len(p) < 2:
@@ -379,10 +369,6 @@ def _maybe_drop_period(m):
         return f"{a} {b}"
     return m.group(0)
 
-
-# ---------------------------------------------------------------------------
-# Layout-aware extraction
-# ---------------------------------------------------------------------------
 
 def classify_span(span):
     sz = round(span["size"], 1)
@@ -726,10 +712,6 @@ def extract_chapter_markdown(doc, start_page, end_page, image_ref=None, heading_
     return "\n".join(cleaned_lines)
 
 
-# ---------------------------------------------------------------------------
-# Lesson discovery
-# ---------------------------------------------------------------------------
-
 def find_lessons(doc):
     """Walk the PDF and return [{num, title, start, end}, ...] for all 193 lessons."""
     headings = []
@@ -760,10 +742,6 @@ def find_lessons(doc):
         lessons.append({"num": num, "title": title, "start": start_page, "end": end_page})
     return lessons
 
-
-# ---------------------------------------------------------------------------
-# Image extraction
-# ---------------------------------------------------------------------------
 
 def extract_image(pdf_path, doc, start_page, dest_webp, raster_fallback=True):
     """Extract the lesson's header image to a WebP file. Returns True on success.
@@ -803,10 +781,6 @@ def extract_image(pdf_path, doc, start_page, dest_webp, raster_fallback=True):
         subprocess.run(["magick", str(png), "-quality", "85", str(dest_webp)], check=True, capture_output=True)
     return True
 
-
-# ---------------------------------------------------------------------------
-# Pipeline
-# ---------------------------------------------------------------------------
 
 def ensure_pdf(pdf_path: Path) -> Path:
     if pdf_path.exists():

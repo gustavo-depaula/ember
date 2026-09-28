@@ -89,8 +89,6 @@ export function Sidebar() {
   )
 }
 
-// ── By Kind view ──
-
 type KindGroupRow = { id: string; icon: string; label: string }
 
 type KindGroupConfig<T> = {
@@ -241,8 +239,6 @@ function KindGroup<T>({
   )
 }
 
-// ── By Collection view ──
-
 function CollectionView({
   corpus,
   search,
@@ -386,8 +382,6 @@ function UncollectedGroup({ items }: { items: CorpusItem[] }) {
     </div>
   )
 }
-
-// ── Helpers ──
 
 function unresolvedItem(ref: string): CorpusItem {
   const parsed = parseRef(ref)

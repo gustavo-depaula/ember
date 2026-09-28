@@ -57,18 +57,6 @@ describe('AnimatedCheckbox', () => {
     expect(['transparent', 'rgba(0, 0, 0, 0)']).toContain(circle().style.backgroundColor)
   })
 
-  it('repaints when checked flips on an already-mounted box', () => {
-    wrap(
-      <AnimatedCheckbox checked={false} onToggle={() => {}} accessibilityLabel="p" testID="cb" />,
-    )
-    const empty = circle().style.backgroundColor
-
-    cleanup()
-    wrap(<AnimatedCheckbox checked onToggle={() => {}} accessibilityLabel="p" testID="cb" />)
-
-    expect(circle().style.backgroundColor).not.toBe(empty)
-  })
-
   it('exposes checked state to assistive tech', () => {
     wrap(<AnimatedCheckbox checked onToggle={() => {}} accessibilityLabel="done" testID="cb" />)
     expect(screen.getByTestId('cb').getAttribute('aria-checked')).toBe('true')

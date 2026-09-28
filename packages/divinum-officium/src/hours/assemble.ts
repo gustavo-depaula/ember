@@ -1,6 +1,5 @@
 // Port of the horas assembly flow: getordinarium (horas.pl:579) →
-// specials() (specials.pl:21) → $/& expansion → render finish. Minor hours +
-// Compline in M5; Lauds/Vespers (M6) and Matins (M7) throw until ported.
+// specials() (specials.pl:21) → $/& expansion → render finish.
 
 import { processConditionalLines } from '../conditions/evaluate'
 import { officestring } from '../kalendar/officestring'

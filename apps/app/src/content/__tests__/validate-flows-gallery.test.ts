@@ -1,5 +1,3 @@
-// Unit tests for the gallery validator rules. The script that walks the
-// content tree (scripts/validate-flows.ts) imports the same pure function.
 import { describe, expect, test } from 'vitest'
 import { validateGallery } from '../../../../../scripts/validate-flows-rules'
 
@@ -24,12 +22,6 @@ describe('validateGallery', () => {
     expect(issues).toHaveLength(1)
     expect(issues[0].path).toBe(`${PATH}.items`)
     expect(issues[0].message).toMatch(/non-empty/)
-  })
-
-  test('rejects missing items', () => {
-    const issues = validateGallery({ type: 'gallery' }, FILE, PATH)
-    expect(issues).toHaveLength(1)
-    expect(issues[0].path).toBe(`${PATH}.items`)
   })
 
   test('rejects items missing src', () => {

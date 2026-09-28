@@ -61,12 +61,8 @@ export function includeForReading(
   }
 }
 
-/**
- * Card-style excerpt for an `options` widget option: prefer the first
- * `prayer` (the actual liturgical text), fall back to the first `rubric`
- * (explanatory text). Headings/subheadings are skipped since they
- * mirror the option label.
- */
+// Card excerpt for an `options` option: the first prayer, else the first
+// rubric. Headings are skipped since they mirror the option label.
 function deriveOptionExcerpt(sections: RenderedSection[]): BilingualText | undefined {
   for (const s of sections) {
     if (s.type === 'prayer' && s.text.primary) return s.text
@@ -93,8 +89,7 @@ export function resolveSection(
 
     case 'heading': {
       // `from` reads a LocalizedText from the FlowContext (e.g. the
-      // celebration title); falls back to `text`. Skip emission if neither
-      // resolves to anything renderable.
+      // celebration title); falls back to `text`.
       let source: string | LocalizedText | undefined = section.text
       if (section.from) {
         const resolved = resolvePath(context, section.from)
@@ -307,7 +302,6 @@ export function resolveSection(
     }
 
     case 'prose': {
-      // Dynamic prose: load chapter from book
       if ('book' in section) {
         const chapter = section.chapter
         if (!chapter) return []
@@ -357,9 +351,8 @@ export function resolveSection(
       ]
 
     case 'select': {
-      // From-data variant: dynamic options driven by an array path.
-      // Used for the celebration picker (e.g. Holy Thursday → 2 celebrations,
-      // Christmas → 4, an OT day with multiple optional memorials → 1 + N).
+      // From-data variant: the celebration picker (Holy Thursday → 2
+      // celebrations, Christmas → 4, an OT day with optional memorials → 1 + N).
       if ('from' in section) {
         return resolveSelectFromData(section, context, ec, resolveSection)
       }
@@ -396,7 +389,6 @@ export function resolveSection(
           },
         ]
       }
-      // Silent: resolve only the selected option
       const selected = section.options.find((o) => o.id === selectedId) ?? section.options[0]
       if (!selected?.sections?.length) return []
       return selected.sections.flatMap((s) => resolveSection(s, contextFor(selected.id), ec))
@@ -428,11 +420,8 @@ export function resolveSection(
     }
 
     case 'call': {
-      // Parameterized macro/fragment invocation.
-      // Looks up section.ref in FlowContext.fragments (same registry as fragment),
-      // substitutes the macro body with composeVars(context) ∪ args, and
-      // resolves the result. Args take precedence over flowData/templateVars
-      // so a macro can shadow outer names with its own params.
+      // Args take precedence over flowData/templateVars so a macro can shadow
+      // outer names with its own params.
       const frag = context.fragments?.[section.ref]
       if (!frag) return []
       const args = section.args ?? {}
@@ -482,7 +471,6 @@ export function resolveSection(
       const color = lc && LITURGICAL_COLOR_LABELS[lc] ? (lc as RenderedLiturgicalColor) : undefined
       const inner = section.sections.flatMap((s) => resolveSection(s, context, ec))
       if (inner.length === 0) return []
-      // No color resolved — pass children through, no scope wrapping.
       if (!color) return inner
       return [{ type: 'liturgical-color-scope', color, sections: inner }]
     }

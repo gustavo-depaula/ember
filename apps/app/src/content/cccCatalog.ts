@@ -156,11 +156,9 @@ function entry(bookId: string, name: LocalizedText, description: LocalizedText):
 }
 
 /**
- * Seed catalog entries + make the manifests resident, all synchronously. Both
- * manifests are static (no network), so remembering them here — instead of via a
- * separate boot-time warm — means synchronous readers (cross-reference anchors)
- * see them the moment the catalog registers. The on-demand resolver stays as a
- * fallback for any hash not already remembered.
+ * Remembering the static manifests here, rather than in the boot warm, lets
+ * synchronous readers (cross-reference anchors) see them the moment the catalog
+ * registers. The resolver is a fallback for any hash not already remembered.
  */
 export function registerCccCatalog(): void {
   registerLocalEntries({

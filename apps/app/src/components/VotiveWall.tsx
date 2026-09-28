@@ -32,7 +32,7 @@ function buildWeekGrid(data: WallEntry[], weeks: number): WallEntry[][] {
 // size for a missed day. Fuller days grow toward `size`, so the wall reads as
 // small embers swelling into large lit stars.
 const cellConfig = { size: 18, minStar: 8, gap: 2 }
-const starGlyph = '✦' // ✦ — the app's fleuron, here as a wall of lit stars
+const starGlyph = '✦' // the app's fleuron, here as a wall of lit stars
 
 // Star size scales with intensity: a missed day is a small ember, a kept day a
 // full star. `value` is a 0-based intensity index into the ramp.

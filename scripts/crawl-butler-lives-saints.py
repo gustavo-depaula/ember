@@ -179,8 +179,6 @@ def inline_to_md(node: Tag | NavigableString) -> str:
 
 
 def normalize_whitespace(s: str) -> str:
-    # Collapse all runs of whitespace (including line breaks within a paragraph)
-    # to single spaces. Trim ends.
     return re.sub(r"\s+", " ", s).strip()
 
 

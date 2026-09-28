@@ -150,8 +150,6 @@ function SharedCaption({ caption }: { caption?: BilingualText }) {
   )
 }
 
-// ---------- Carousel ----------
-
 function Carousel({
   items,
   caption,
@@ -239,8 +237,6 @@ function Carousel({
   )
 }
 
-// ---------- Stack ----------
-
 function Stack({
   items,
   caption,
@@ -288,8 +284,6 @@ function StackItem({
     </YStack>
   )
 }
-
-// ---------- Row ----------
 
 function Row({
   items,

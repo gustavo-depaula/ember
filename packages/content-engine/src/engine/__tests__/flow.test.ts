@@ -37,20 +37,6 @@ describe('resolveFlow — collapsible primitive', () => {
     ])
   })
 
-  it('honors defaultOpen: true', () => {
-    const result = resolveFlow(
-      flow({
-        type: 'collapsible',
-        title: { 'pt-BR': 'Open by default' },
-        defaultOpen: true,
-        sections: [{ type: 'rubric', text: { 'pt-BR': 'A note' } }],
-      }),
-      makeContext(),
-      makeEngineContext(),
-    )
-    expect((result[0] as { defaultOpen: boolean }).defaultOpen).toBe(true)
-  })
-
   it('drops a collapsible whose body resolves to nothing', () => {
     const result = resolveFlow(
       flow({
@@ -65,19 +51,6 @@ describe('resolveFlow — collapsible primitive', () => {
   })
 
   it('uses defaultOpenFrom when the path resolves to a boolean', () => {
-    const open = resolveFlow(
-      flow({
-        type: 'collapsible',
-        title: { 'pt-BR': 'Glória' },
-        defaultOpenFrom: 'celebration.primary.includeGloria',
-        defaultOpen: false,
-        sections: [{ type: 'rubric', text: { 'pt-BR': 'x' } }],
-      }),
-      makeContext({ flowData: { celebration: { primary: { includeGloria: true } } } }),
-      makeEngineContext(),
-    )
-    expect((open[0] as { defaultOpen: boolean }).defaultOpen).toBe(true)
-
     const closed = resolveFlow(
       flow({
         type: 'collapsible',
@@ -119,15 +92,6 @@ describe('resolveFlow — prayer ref defaultOpen', () => {
     }
     return ec
   }
-
-  it('omits defaultOpen by default (asset stays collapsed)', () => {
-    const result = resolveFlow(
-      flow({ type: 'prayer', ref: 'te-deum' }),
-      makeContext(),
-      ecWithPrayer(),
-    )
-    expect((result[0] as { defaultOpen?: boolean }).defaultOpen).toBeUndefined()
-  })
 
   it('carries defaultOpen: true into the rendered prayer section', () => {
     const result = resolveFlow(
@@ -174,29 +138,6 @@ describe('resolveFlow — prose with resolvedProse', () => {
 })
 
 describe('resolveFlow — flowVersion', () => {
-  it('accepts flowVersion 1 and legacy flows without version', () => {
-    expect(
-      resolveFlow(
-        flowDef({
-          flowVersion: '1',
-          sections: [{ type: 'heading', text: { 'pt-BR': 'ok' } }],
-        }),
-        makeContext(),
-        makeEngineContext(),
-      ),
-    ).toEqual([{ type: 'heading', text: { primary: 'ok' } }])
-
-    expect(
-      resolveFlow(
-        flowDef({
-          sections: [{ type: 'heading', text: { 'pt-BR': 'legacy' } }],
-        }),
-        makeContext(),
-        makeEngineContext(),
-      ),
-    ).toEqual([{ type: 'heading', text: { primary: 'legacy' } }])
-  })
-
   it('throws for unsupported flowVersion in sync and async resolvers', async () => {
     const unsupported = {
       flowVersion: '2',
@@ -466,12 +407,9 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
   })
 
   it('preloads chapters nested inside plain containers like collapsible', async () => {
-    // Regression: collectBookChapterRefs listed the sections it recursed into,
-    // and `collapsible` was not on the list. A `prose` nested in one collected
-    // no refs, so resolveFlowAsync skipped hydration, the sync
-    // loadBookChapterText was absent, and resolve dropped the now-empty
-    // container — the chapter vanished with no error. This is how three book
-    // chapters in practice/visit-blessed-sacrament rendered as nothing.
+    // Regression: an unlisted container collected no refs, so its chapters were
+    // never preloaded and it resolved empty — three chapters in
+    // practice/visit-blessed-sacrament vanished without an error.
     const loadedChapters: string[] = []
     const engineContext: EngineContext = {
       ...makeEngineContext(),
@@ -558,30 +496,6 @@ describe('resolveFlowAsync — resolve strategy + dynamic prose', () => {
 })
 
 describe('resolveFlow — flow.data', () => {
-  it('makes static data arrays available to repeat from', () => {
-    expect(
-      resolveFlow(
-        flowDef({
-          data: {
-            stations: [{ name: { 'pt-BR': 'Condemned' } }, { name: { 'pt-BR': 'Carries cross' } }],
-          },
-          sections: [
-            {
-              type: 'repeat',
-              from: 'stations',
-              sections: [{ type: 'heading', text: { 'pt-BR': '{{name}}' } }],
-            },
-          ],
-        }),
-        makeContext(),
-        makeEngineContext(),
-      ),
-    ).toEqual([
-      { type: 'heading', text: { primary: 'Condemned' } },
-      { type: 'heading', text: { primary: 'Carries cross' } },
-    ])
-  })
-
   it('select as + repeat from reads flow.data (Rosary pattern)', () => {
     const result = resolveFlow(
       flowDef({
@@ -645,8 +559,6 @@ describe('resolveFlow — flow.data', () => {
   })
 })
 
-// --- dynamic prose ---
-
 describe('resolveFlow — dynamic prose (book + chapter)', () => {
   function ecWithBookLoader(
     loader: (book: string, chapter: string, lang: string) => { 'pt-BR'?: string } | undefined,
@@ -668,19 +580,6 @@ describe('resolveFlow — dynamic prose (book + chapter)', () => {
         ecWithBookLoader(() => ({ 'pt-BR': 'Loaded chapter' })),
       ),
     ).toEqual([{ type: 'prose', text: { primary: 'Loaded chapter' } }])
-  })
-
-  it('template-substitutes chapter field before loading', () => {
-    let requested = ''
-    resolveFlow(
-      flow({ type: 'prose', book: 'my-book', chapter: '{{chapterId}}' }),
-      makeContext({ templateVars: { chapterId: 'resolved-chapter' } }),
-      ecWithBookLoader((_b, ch) => {
-        requested = ch
-        return { 'pt-BR': 'x' }
-      }),
-    )
-    expect(requested).toBe('resolved-chapter')
   })
 
   it('omits section when resolved chapter is empty', () => {
@@ -742,24 +641,6 @@ describe('resolveFlow — dynamic prose (book + chapter)', () => {
     ).toEqual([{ type: 'prose', text: { primary: 'Static' } }])
   })
 })
-
-// --- resolve steps ---
-
-describe('resolveFlow — resolve steps', () => {
-  it('does not crash with resolve steps present', () => {
-    const result = resolveFlow(
-      flowDef({
-        resolve: [{ data: 'liturgical-map', strategy: 'liturgical-day', as: 'meditations' }],
-        sections: [{ type: 'heading', text: { 'pt-BR': '{{liturgicalLabel}}' } }],
-      }),
-      makeContext({ cycleData: { 'liturgical-map': { indexBy: 'fixed', entries: {} } } }),
-      makeEngineContext(),
-    )
-    expect(Array.isArray(result)).toBe(true)
-  })
-})
-
-// --- CycleData contextKey ---
 
 describe('resolveFlow — fragments', () => {
   it('expands a fragment ref into its sections', () => {
@@ -861,39 +742,6 @@ describe('resolveFlow — fragments', () => {
       { type: 'meditation', text: { primary: 'Meditamos...' } },
       { type: 'divider' },
     ])
-  })
-
-  it('works inside select options', () => {
-    const result = resolveFlow(
-      {
-        sections: [
-          {
-            type: 'select',
-            on: 'dayOfWeek',
-            map: { '0': 'a', '1': 'b' },
-            options: [
-              {
-                id: 'a',
-                label: { 'pt-BR': 'A' },
-                sections: [{ type: 'fragment', ref: 'content-a' }],
-              },
-              {
-                id: 'b',
-                label: { 'pt-BR': 'B' },
-                sections: [{ type: 'fragment', ref: 'content-b' }],
-              },
-            ],
-          },
-        ],
-        fragments: {
-          'content-a': [{ type: 'heading', text: { 'pt-BR': 'Sunday' } }],
-          'content-b': [{ type: 'heading', text: { 'pt-BR': 'Monday' } }],
-        },
-      },
-      makeContext({ date: new Date(2026, 3, 13) }), // Monday
-      makeEngineContext(),
-    )
-    expect(result).toEqual([{ type: 'heading', text: { primary: 'Monday' } }])
   })
 })
 

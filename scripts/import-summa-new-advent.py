@@ -53,10 +53,6 @@ PARTS = [
 ]
 
 
-# ---------------------------------------------------------------------------
-# Shared HTML → Markdown
-# ---------------------------------------------------------------------------
-
 DROP_TAGS = {"script", "style", "noscript"}
 INLINE_TAGS = {"a", "span", "font", "small", "abbr", "cite"}
 
@@ -230,10 +226,6 @@ def extract_main(soup: BeautifulSoup) -> Tag | None:
     return main
 
 
-# ---------------------------------------------------------------------------
-# Summa-specific parsing
-# ---------------------------------------------------------------------------
-
 @dataclass
 class Question:
     part_digit: str       # "1".."7"
@@ -270,10 +262,6 @@ def render_question(file_id: str, part_digit: str, qnum: int) -> Question:
     md = html_to_markdown(main).strip()
     return Question(part_digit=part_digit, qnum=qnum, file_id=file_id, title=title, markdown=md)
 
-
-# ---------------------------------------------------------------------------
-# Emission
-# ---------------------------------------------------------------------------
 
 def write_book() -> dict:
     if BOOK_DIR.is_dir():
@@ -343,10 +331,6 @@ def write_book() -> dict:
 
     return {"questions": total_q, "parts": len(toc), "skipped": skipped}
 
-
-# ---------------------------------------------------------------------------
-# CLI
-# ---------------------------------------------------------------------------
 
 def cmd_prepare_cache() -> None:
     CACHE.mkdir(parents=True, exist_ok=True)

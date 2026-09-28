@@ -24,15 +24,12 @@ describe('renderApp harness', () => {
       routes: [{ pattern: '/smoke', loader: async () => ({ default: SmokeScreen }) }],
     })
 
-    // Provider tree mounted.
     expect(await screen.findByTestId('smoke-ok')).toBeInTheDocument()
 
-    // Catalog warmed — practice manifests are resident.
     const manifests = getAllManifests()
     expect(manifests.length).toBeGreaterThan(0)
     expect(manifests.find((m) => m.id.endsWith('grace-meals'))).toBeDefined()
 
-    // Seed events landed — practices store has entries.
     const eventState = useEventStore.getState()
     expect(eventState.practices.size).toBeGreaterThan(0)
     expect(eventState.slots.size).toBeGreaterThan(0)

@@ -85,8 +85,8 @@ export type RenderOptions = {
   route?: string
   fixtures?: TestFixtures
   routes?: RouteRegistration[]
-  // Emit user state the screen should open *with* — standing intentions, past
-  // completions. Runs after `resetForTests` (which wipes events) and before the
+  // Emit user state the screen should open *with* (e.g. past completions).
+  // Runs after `resetForTests` (which wipes events) and before the
   // first render, so repository calls here are safe and survive into the screen.
   seed?: () => Promise<void>
 }

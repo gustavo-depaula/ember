@@ -26,8 +26,6 @@ function stripTags(html: string): string {
     .trim()
 }
 
-// --- English -------------------------------------------------------------
-
 // IntraText pages wrap the body chrome in tables we strip later; the readable
 // content is the run of <p class=MsoNormal> blocks. We cut the leading nav and
 // the trailing footnote apparatus (after the 30%-width rule) before cleaning.
@@ -92,8 +90,6 @@ function enToBookHtml(raw: string): string {
   return finalizeHtml(html)
 }
 
-// --- Portuguese ----------------------------------------------------------
-
 function isolatePtContent(raw: string): string {
   // The chapter text lives in the wide content cell; grab its inner HTML before
   // cleanChapter dissolves the surrounding tables.
@@ -131,8 +127,6 @@ function ptToBookHtml(raw: string): string {
   return finalizeHtml(html)
 }
 
-// --- shared finalize -----------------------------------------------------
-
 function finalizeHtml(html: string): string {
   return (
     html
@@ -156,6 +150,12 @@ export function pageToBookHtml(raw: string, lang: Lang): string {
   return lang === 'pt-BR' ? ptToBookHtml(raw) : enToBookHtml(raw)
 }
 
+// A numbered block whose number is well outside the chapter range but isn't a
+// neighbouring chapter's paragraph — embedded enumerated content like the Ten
+// Commandments (1–10) listed at §2051. Keep its text but drop the `ccc-` anchor
+// so it isn't extracted/cross-referenced as a paragraph.
+const LEAK_WINDOW = 60
+
 /**
  * Trim assembled chapter HTML to a paragraph range. English pages straddle
  * chapter boundaries (a single IntraText page can hold the tail of one chapter
@@ -164,12 +164,6 @@ export function pageToBookHtml(raw: string, lang: Lang): string {
  * continuation prose) outside [from, to]; keep a heading only when it introduces
  * an in-range paragraph, so dangling next-chapter titles don't survive.
  */
-// A numbered block whose number is well outside the chapter range but isn't a
-// neighbouring chapter's paragraph — embedded enumerated content like the Ten
-// Commandments (1–10) listed at §2051. Keep its text but drop the `ccc-` anchor
-// so it isn't extracted/cross-referenced as a paragraph.
-const LEAK_WINDOW = 60
-
 export function trimToRange(bookHtml: string, from: number, to: number): string {
   const blocks = bookHtml.split(/(?=<(?:h3|p|blockquote)\b)/i)
   const out: string[] = []

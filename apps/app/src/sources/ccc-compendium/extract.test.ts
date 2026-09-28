@@ -17,16 +17,12 @@ function loadFixture(slug: 'en' | 'pt'): string {
 }
 
 describe('programDayToQuestionRange', () => {
-  it('day 0 (fresh program), 6 Q/day → 1..6', () => {
+  it('days are 0-indexed: day 0 → 1..6, day 1 → 7..12', () => {
     expect(programDayToQuestionRange(0, 6)).toEqual([1, 6])
-  })
-
-  it('day 1, 6 Q/day → 7..12', () => {
     expect(programDayToQuestionRange(1, 6)).toEqual([7, 12])
   })
 
   it('straddles Part 1 → Part 2 around Q217/Q218', () => {
-    // Day 36 = Qs 217-222 (217 is the last of part-1, 218 starts part-2)
     const [first, last] = programDayToQuestionRange(36, 6)
     expect(first).toBe(217)
     expect(last).toBe(222)
@@ -52,11 +48,8 @@ describe('programDayToQuestionRange', () => {
     ])
   })
 
-  it('throws for day past the program', () => {
+  it('throws past the end of the program and for invalid inputs', () => {
     expect(() => programDayToQuestionRange(100, 6)).toThrow()
-  })
-
-  it('throws for invalid inputs', () => {
     expect(() => programDayToQuestionRange(-1, 6)).toThrow()
     expect(() => programDayToQuestionRange(0, 0)).toThrow()
   })

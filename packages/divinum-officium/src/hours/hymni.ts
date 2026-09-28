@@ -1,6 +1,5 @@
-// Port of specials/hymni.pl for the minor hours: gethymn (Prima/Minor
-// Psalterium hymns + doxology substitution). hymnusmajor/hymnusmatutinum come
-// with M6/M7.
+// Port of specials/hymni.pl: gethymn (minor-hour Psalterium hymns, the
+// Lauds/Vespers hymnusmajor, and doxology substitution).
 
 import { gettempora, postprocessVr } from './helpers'
 import { hymnusmatutinum } from './matins'

@@ -97,7 +97,6 @@ function readingPicker(slot: string, reading: Reading, lang: LangPrefs): Primiti
   return dialogue.length > 0 ? [picker, { type: 'verses', style: 'vr', items: dialogue }] : [picker]
 }
 
-/** Render the readings of a ReadingSet in liturgical order. */
 const flattenRt = (rt: BilingualRichText): BilingualText => {
   const v: BilingualText = { primary: rt.primary.map((line) => joinLine(line)).join(' ') }
   if (rt.secondary) v.secondary = rt.secondary.map((line) => joinLine(line)).join(' ')
@@ -141,6 +140,7 @@ function renderPsalm(set: ReadingSet, lang: LangPrefs): Primitive[] {
   return out
 }
 
+/** Render the readings of a ReadingSet in liturgical order. */
 export function renderReadingSet(set: ReadingSet, lang: LangPrefs): Primitive[] {
   const out: Primitive[] = []
   if (set.firstReading) out.push(...readingPicker('firstReading', set.firstReading, lang))
@@ -159,12 +159,11 @@ export function renderReadingSet(set: ReadingSet, lang: LangPrefs): Primitive[] 
     const ga = set.gospelAcclamation.options[0]
     const acc = brt(ga?.acclamation, lang)
     const verse = brt(ga?.verse, lang)
-    // The Alleluia refrain (sung by all), then the proper verse — the upstream
-    // verse field repeats the refrain glued to its front, so strip it.
+    // The Alleluia refrain, then the proper verse — the upstream verse field
+    // repeats the refrain glued to its front, so strip it.
     const accText = acc ? flattenRt(acc) : undefined
-    // The acclamation is its own section, not a reply to the Second Reading: it
-    // gets a heading like every other slot, and the refrain is an acclamation
-    // sung by all — not a versicle/response dialogue, so no ℟ mark.
+    // Its own headed section, not a reply to the Second Reading: the refrain is
+    // sung by all, not a versicle/response dialogue, so no ℟ mark.
     if (accText || verse)
       out.push(
         heading(

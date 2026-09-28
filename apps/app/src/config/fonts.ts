@@ -123,11 +123,9 @@ export const scriptFont = createFont({
   },
 })
 
-// Rung 6 — the sacred-title voice: warm, mixed-case, manuscript-flavored
-// headlines (feast/season names, hour titles, sacred screen heroes). Junicode
-// ships the full normal-width weight range (Light→Bold + italics), all bundled
-// locally. Scale defines 1–7 to cover hero sizes; leading is display-tight
-// since these set large.
+// The sacred-title voice: warm, mixed-case, manuscript-flavored headlines
+// (feast/season names, hour titles, sacred screen heroes). Leading is
+// display-tight since these set large.
 export const titleFont = createFont({
   family: 'Junicode',
   size: {

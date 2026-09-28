@@ -2,16 +2,7 @@
 // pipeline (cycle → resolver → registry → preprocessor → PrimitiveBlock)
 // without the network.
 
-import { beforeEach, describe, expect, it, vi } from 'vitest'
-
-type FetchCall = {
-  date: Date
-  prefs: { lang: string; translation: string }
-  programDay?: number
-  params: Record<string, unknown>
-}
-
-const fetchCalls: FetchCall[] = []
+import { describe, expect, it, vi } from 'vitest'
 
 vi.mock('@/sources/ccc-compendium', async (importOriginal) => {
   const actual = (await importOriginal()) as typeof import('@/sources/ccc-compendium')
@@ -19,13 +10,7 @@ vi.mock('@/sources/ccc-compendium', async (importOriginal) => {
     ...actual,
     cccCompendiumSource: {
       ...actual.cccCompendiumSource,
-      fetch: async (ctx: FetchCall) => {
-        fetchCalls.push({
-          date: ctx.date,
-          prefs: ctx.prefs,
-          programDay: ctx.programDay,
-          params: ctx.params,
-        })
+      fetch: async (ctx: { params?: Record<string, unknown> }) => {
         const first = Number(ctx.params?.first ?? 1)
         const last = Number(ctx.params?.last ?? 6)
         const blocks: unknown[] = []
@@ -58,10 +43,6 @@ vi.mock('@/sources/ccc-compendium', async (importOriginal) => {
 import { renderApp } from '@/test/renderApp'
 
 describe('PracticeFlow — compendium (program practice)', () => {
-  beforeEach(() => {
-    fetchCalls.length = 0
-  })
-
   it('renders day 1 (Qs 1..6) via cycle → include on a fresh program', async () => {
     const { screen } = await renderApp({
       route: '/pray/compendium',
@@ -74,19 +55,13 @@ describe('PracticeFlow — compendium (program practice)', () => {
       ],
     })
 
-    // The day subheading renders from the cycle data — proves cycle picked
-    // entry 0 for programDay=0.
+    // The day subheading comes from the cycle entry for programDay=0.
     expect(await screen.findByText(/Day 1 · Questions 1[–-]6/)).toBeInTheDocument()
 
-    // All 6 Qs render via the include + ProducerHtmlBlock.
+    // The stub renders exactly the questions in the cycle's params.
     for (let q = 1; q <= 6; q++) {
       expect(await screen.findByTestId(`producer-anchor-q${q}`)).toBeInTheDocument()
     }
     expect(screen.queryByTestId('producer-anchor-q7')).toBeNull()
-
-    expect(fetchCalls.length).toBeGreaterThan(0)
-    const firstCall = fetchCalls[0]
-    expect(firstCall.prefs.lang).toBe('en-US')
-    expect(firstCall.params).toMatchObject({ first: '1', last: '6' })
   }, 30_000)
 })

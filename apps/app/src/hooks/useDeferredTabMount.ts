@@ -3,9 +3,9 @@ import { useEffect, useState } from 'react'
 
 /**
  * NativeTabs mounts every tab at launch, so an unvisited tab's whole tree —
- * render, commit, queries — competed with Today for the JS thread and held the
- * splash. A tab root waits until it is focused or the JS thread first goes
- * idle (so a later switch still finds it rendered), then stays mounted.
+ * render, commit, queries — would compete with Today for the JS thread and
+ * hold the splash. A tab root waits until it is focused or the JS thread first
+ * goes idle (so a later switch still finds it rendered), then stays mounted.
  */
 export function useDeferredTabMount(): boolean {
   const focused = useIsFocused()

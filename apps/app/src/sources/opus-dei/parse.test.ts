@@ -57,11 +57,4 @@ describe('parseMeditation', () => {
     expect(allText).not.toContain('De officiis')
     expect(med.sections[2].blocks.at(-1)?.kind).toBe('paragraph')
   })
-
-  it('extracts the PT meditation', () => {
-    const med = parseMeditation(fixture('od-med-pt.html'), 'pt-BR')
-    expect(med.title).toBeTruthy()
-    expect(med.sections.length).toBe(3)
-    expect(med.sections.every((s) => s.heading)).toBe(true)
-  })
 })

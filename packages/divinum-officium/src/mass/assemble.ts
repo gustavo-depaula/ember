@@ -21,7 +21,7 @@ import { createTextTables } from './texts'
 
 async function readScript(state: MassState, lang: string): Promise<string[]> {
   // Port of missa getordinarium: Propers.txt for propers-only; Ordo.txt
-  // otherwise (Ordo67/NewMass variants are out of scope for v1). The file is
+  // otherwise (Ordo67/NewMass variants are not ported). The file is
   // read raw (no conditional processing — the Mass Ordo has none) with the
   // language fallback chain of checkfile().
   const fname = state.propers ? 'Ordo/Propers' : 'Ordo/Ordo'
@@ -100,10 +100,7 @@ async function specials(state: MassState, script: string[], lang: string): Promi
         while (state.tind < state.t.length && !sectionRegex.test(state.t[state.tind])) {
           state.tind++
         }
-        // Perl increments before testing; our loop above starts after one
-        // increment already — mirror by stepping back when we overshot to a
-        // new section header (the while loop in Perl post-increments).
-        // (Perl: `$tind++ while (...)` — identical net effect.)
+        // Same net effect as Perl's post-incrementing `$tind++ while (...)`.
       } else if (/^\s*Evangelium\s*$/.test(state.label) && /^\s*Passio\s*$/m.test(state.rule)) {
         state.s.push(`#${await translateLabel(state, state.label, lang)}`, '&evangelium')
         while (state.tind < state.t.length && !/^\s*$/.test(state.t[state.tind])) state.tind++

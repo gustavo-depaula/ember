@@ -87,11 +87,9 @@ export function HolographicOverlay({
       overflow="hidden"
       style={{ pointerEvents: 'none' }}
     >
-      {/* Main white light streak */}
       <Animated.View
         style={[styles.streak, { width: streakWidth, height: streakHeight }, streakStyle]}
       />
-      {/* Gold iridescent strip */}
       <Animated.View
         style={[
           styles.streak,
@@ -100,7 +98,6 @@ export function HolographicOverlay({
           goldStyle,
         ]}
       />
-      {/* Rose iridescent strip */}
       <Animated.View
         style={[
           styles.streak,
@@ -109,7 +106,6 @@ export function HolographicOverlay({
           roseStyle,
         ]}
       />
-      {/* Blue iridescent strip */}
       <Animated.View
         style={[
           styles.streak,

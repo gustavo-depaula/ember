@@ -34,11 +34,8 @@ describe('parsePodcastFeed', () => {
     expect(second.chapters).toBeUndefined()
   })
 
-  it('returns empty result on malformed XML', () => {
+  it('returns an empty result for malformed XML or a non-RSS root', () => {
     expect(parsePodcastFeed('not-xml')).toEqual({ items: [] })
-  })
-
-  it('returns empty result for non-RSS root', () => {
     expect(parsePodcastFeed('<feed/>')).toEqual({ items: [] })
   })
 })

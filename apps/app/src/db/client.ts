@@ -8,7 +8,6 @@ import { createEventsTable, replayAll } from './events'
 import { getDb, setDb } from './instance'
 import initialMigration from './migrations/0001_initial.sql'
 
-// Native-only imports
 // biome-ignore lint: conditional require for platform compat
 const expo = Platform.OS !== 'web' ? (require('expo') as any) : undefined
 
@@ -38,13 +37,10 @@ export function useDbInit() {
           setDb(proxy)
         } else {
           const rawDb = await openDatabaseAsync('ember.db')
-          // One-time drop of legacy custody schema. The custody tables have
-          // gone through two simplifications (severity/fall_policy → dropped;
-          // shield_anchor → dropped in favor of a rotating message pool). We
-          // probe sqlite_master for either deprecated column and, if found,
-          // drop the three custody tables before re-running the migration so
-          // the latest shape lands cleanly. Idempotent: post-wipe, neither
-          // probe matches and this branch is skipped.
+          // An on-device `commitments` table with a `severity` or
+          // `shield_anchor` column predates the current custody schema, which
+          // `CREATE TABLE IF NOT EXISTS` can't reshape: drop the custody tables
+          // so the migration recreates them. A no-op once they're current.
           const legacy = await rawDb.getFirstAsync<{ sql: string | null }>(
             "SELECT sql FROM sqlite_master WHERE type='table' AND name='commitments'",
           )

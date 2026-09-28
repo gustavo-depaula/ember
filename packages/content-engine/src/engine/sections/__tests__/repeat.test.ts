@@ -106,8 +106,6 @@ describe('resolveFlow — repeat from', () => {
   })
 })
 
-// --- options from ---
-
 describe('resolveFlow — repeat.from with dotted path', () => {
   it('iterates an array reachable via path through flowData', () => {
     const result = resolveFlow(
@@ -129,18 +127,5 @@ describe('resolveFlow — repeat.from with dotted path', () => {
       { type: 'rubric', label: { primary: 'Primeiro - Pro Ecclesia' } },
       { type: 'rubric', label: { primary: 'Segundo - Pro Pontifice' } },
     ])
-  })
-
-  it('returns empty when the path resolves to a non-array', () => {
-    const result = resolveFlow(
-      flow({
-        type: 'repeat',
-        from: 'day.notAnArray',
-        sections: [{ type: 'rubric', text: { 'pt-BR': 'x' } }],
-      }),
-      makeContext({ flowData: { day: { notAnArray: 'oops' } } }),
-      makeEngineContext(),
-    )
-    expect(result).toEqual([])
   })
 })

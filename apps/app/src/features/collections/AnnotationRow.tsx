@@ -1,14 +1,6 @@
 /**
- * Apparatus rendered beneath an item card title — the small structured
- * metadata of a real prayer book. Each present field gets one row:
- *
- *   ◦ rubric         "Kneel; pray slowly"
- *   ✦ indulgence     "300 days; plenary on usual conditions"
- *   § attribution    "St. Alphonsus de Ligório, 1755"
- *   ∗ context        "After Holy Communion"
- *   ⌚ time           "Morning"
- *
- * If no annotation fields are populated, renders nothing.
+ * Apparatus beneath an item card title — the small structured metadata of a
+ * real prayer book, one glyph-led row per present field.
  */
 
 import { useTranslation } from 'react-i18next'
