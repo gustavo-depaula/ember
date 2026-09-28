@@ -8,8 +8,6 @@ Standing decisions, which override anything below that seems to conflict:
 
 - **Hierarchy comes from type, space and printer's ornament**: rules, fleurons, a small inline ✠. Not bordered pills, boxes or card chrome. A border only delimits a genuine region (a sheet, an input, an image frame).
 - **No radial glows or halos.**
-- **The reading and prayer page is a printed missal**: ink, plus red for rubrics only. No gold there.
-- **Gold is for chrome and the Devotion side** (collectibles, the votive wall, tab medallions).
 - **`$script` and italic are rare accents**, never prayer bodies.
 
 Tokens, themes and fonts are one Tamagui config: `apps/app/src/config/tokens.ts`, `themes.ts`, `fonts.ts`, `tamagui.config.ts`.
@@ -24,7 +22,7 @@ Use the theme keys, never hex values. Values live in `apps/app/src/config/themes
 | `color` | Ink: all reading and prayer text |
 | `colorSecondary` | Muted ink: apparatus, quiet chrome, `tone="muted"` |
 | `colorBurgundy` | Rubric red: rubrics, liturgical labels, drop caps. In dark mode a clear missal red (not a muddy rose) so rubrics stay legible |
-| `accent` / `accentHover` / `accentSubtle` | Gold: preciousness in chrome and Devotion only |
+| `accent` / `accentHover` / `accentSubtle` | Gold: preciousness |
 | `colorMutedBlue` | Tappable cross-reference links (a link affordance) |
 | `colorGreen` | Completion |
 | `wall*` | The votive wall. Value is glow intensity (ember on cream, flame on near-black), not a hue per tier |
@@ -50,9 +48,9 @@ The ladder is one component, `Typography` (`apps/app/src/components/typography/T
 | 4 | **Prayer**: prayers, psalms, antiphons | same serif, line-set, with air and an optional drop cap | ink | *(`PrayerLines`)* |
 | 5 | **Liturgical label**: section labels, hours | `$heading`, tracked caps | ink or rubric red | `label`; major division ("PSALMODY") `marker` |
 | 6 | **Sacred title**: feast and season names, hour titles, book titles, sacred page headers | `$title`, mixed case | ink or rubric red | `sacred-title`; italic section heading `section-title` |
-| 7 | **Ceremonial peak**: illuminated drop cap, ✠, fleuron, blackletter | `$title` / `$display` | red on the reading page; gold only in chrome and Devotion | `drop-cap`, `ceremonial` |
+| 7 | **Ceremonial peak**: illuminated drop cap, ✠, fleuron, blackletter | `$title` / `$display` | gold or red | `drop-cap`, `ceremonial` |
 
-`tone="muted"` drops any variant to `colorSecondary`. Every other style is a pass-through `Text` prop: variants set defaults that call sites override (a hero `sacred-title` at `$5`, the same in a list row at `$3`). `ceremonial` defaults to `$accent`, so on a reading or prayer page pass the red explicitly.
+`tone="muted"` drops any variant to `colorSecondary`. Every other style is a pass-through `Text` prop: variants set defaults that call sites override (a hero `sacred-title` at `$5`, the same in a list row at `$3`).
 
 Rungs 3 and 4 are treatments, not fonts: reading is a *river* (paragraphs, measure, flow); prayer is *architecture* (sense-lines, air, a versal opening).
 
@@ -60,7 +58,7 @@ Rungs 3 and 4 are treatments, not fonts: reading is a *river* (paragraphs, measu
 
 1. **Use the lowest adequate rung.** Roughly 90 % of pixels are rungs 1–3.
 2. **One rung-7 peak per screen.** `drop-cap` and `ceremonial` are opt-in, never automatic.
-3. **Color is rationed like ornament.** Red for rubrics and liturgical labels, gold for preciousness outside the reading page, neutral ink for UI. The one exception is `colorMutedBlue` on tappable cross-references.
+3. **Color is rationed like ornament.** Red for rubrics and liturgical labels, gold for preciousness, neutral ink for UI. The one exception is `colorMutedBlue` on tappable cross-references.
 4. **Ornament marks beginnings and ends, never the middle.**
 5. **No font does two jobs.** A needed style that no variant covers becomes a variant; don't set `fontFamily` or `fontSize` inline.
 

@@ -14,7 +14,6 @@ Design reference: `docs/design/design-system.md`. Justified text: `docs/design/t
 - Hierarchy comes from type, space and printer's ornament (rules, fleurons, a small inline ✠). Selection and tappable options are typographic; a border only delimits a genuine region. Icons sit flat — no glows or halos.
 - Selection must read at a glance. A selector moves its indicator (e.g. a sliding underline) from local optimistic state on tap, not after the store round-trip.
 - The cross is the Unicode ✠, small and inline. The SVG `Glyph kind="pattee"` belongs to the book-cover designs only — never a standalone decoration or empty-state emblem; an empty state lets type carry the card.
-- The reading/prayer page is a printed missal: ink, with red for rubrics only. Gold belongs to chrome and the collectible (Devotion) side, never the reading page.
 - Sheets use the native `@expo/ui` BottomSheet (`@expo/ui/community/bottom-sheet`).
 
 ## Accessibility
