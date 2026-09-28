@@ -1,0 +1,7 @@
+appId: me.dpgu.ember.dev
+---
+- tapOn: "http://localhost:8097"
+- extendedWaitUntil:
+    visible: "Today"
+    timeout: 300000
+    optional: true

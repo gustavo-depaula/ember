@@ -1,9 +1,8 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static option sections never reorder
 import { useState } from 'react'
-import { Text, XStack, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 import type { PickerStyle } from '@/content/types'
-import { AnimatedPressable } from '../AnimatedPressable'
-import { OptionCard } from './OptionCard'
+import { InkPicker } from './InkPicker'
 import { SectionHeading } from './SectionHeading'
 
 type Option<T> = {
@@ -31,48 +30,12 @@ export function OptionsBlock<T>({
     <YStack gap="$sm">
       <SectionHeading>{label}</SectionHeading>
 
-      {pickerStyle === 'cards' ? (
-        <YStack gap="$xs">
-          {options.map((opt, i) => (
-            <OptionCard
-              key={opt.id}
-              label={opt.label}
-              excerpt={opt.excerpt}
-              isSelected={i === selected}
-              onPress={() => setSelected(i)}
-            />
-          ))}
-        </YStack>
-      ) : (
-        <XStack gap="$xs" flexWrap="wrap">
-          {options.map((opt, i) => (
-            <AnimatedPressable
-              key={opt.id}
-              onPress={() => setSelected(i)}
-              accessibilityRole="tab"
-              accessibilityLabel={opt.label}
-              accessibilityState={{ selected: i === selected }}
-            >
-              <YStack
-                paddingHorizontal="$sm"
-                paddingVertical="$xs"
-                borderRadius="$sm"
-                borderWidth={1}
-                borderColor={i === selected ? '$accent' : '$borderColor'}
-                backgroundColor={i === selected ? '$accent' : 'transparent'}
-              >
-                <Text
-                  fontFamily="$heading"
-                  fontSize="$1"
-                  color={i === selected ? '$background' : '$colorSecondary'}
-                >
-                  {opt.label}
-                </Text>
-              </YStack>
-            </AnimatedPressable>
-          ))}
-        </XStack>
-      )}
+      <InkPicker
+        options={options.map((opt) => ({ id: opt.id, label: opt.label, excerpt: opt.excerpt }))}
+        selectedId={current?.id}
+        onSelect={(id) => setSelected(options.findIndex((opt) => opt.id === id))}
+        pickerStyle={pickerStyle}
+      />
       {current && <YStack gap="$sm">{current.sections.map((s, i) => renderSection(s, i))}</YStack>}
     </YStack>
   )

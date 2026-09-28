@@ -10,10 +10,9 @@ import { useEffect, useMemo, useState } from 'react'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { useReadingStyle } from '@/hooks/useReadingStyle'
 import type { StyledSegment } from '@/lib/typography/justifyText'
-import { AnimatedPressable } from '../AnimatedPressable'
 import { PrayerText } from '../PrayerText'
 import { ReadingParagraph } from '../ReadingParagraph'
-import { OptionCard } from './OptionCard'
+import { InkPicker } from './InkPicker'
 import { ResponseMark, responseMarkScale } from './ResponseMark'
 import { SectionHeading } from './SectionHeading'
 
@@ -110,52 +109,17 @@ export function ChoiceRichTextBlock({
   return (
     <YStack gap="$sm">
       {!hideLabel && <SectionHeading>{label.primary}</SectionHeading>}
-      {pickerStyle === 'cards' ? (
-        <YStack gap="$xs">
-          {options.map((opt) => (
-            <OptionCard
-              key={opt.id}
-              label={opt.label.primary}
-              excerpt={opt.excerpt?.primary}
-              isSelected={opt.id === current?.id}
-              onPress={() => handleSelect(opt.id)}
-            />
-          ))}
-        </YStack>
-      ) : (
-        options.length > 1 && (
-          <XStack gap="$xs" flexWrap="wrap">
-            {options.map((opt) => {
-              const isSelected = opt.id === current?.id
-              return (
-                <AnimatedPressable
-                  key={opt.id}
-                  onPress={() => handleSelect(opt.id)}
-                  accessibilityRole="tab"
-                  accessibilityLabel={opt.label.primary}
-                  accessibilityState={{ selected: isSelected }}
-                >
-                  <YStack
-                    paddingHorizontal="$sm"
-                    paddingVertical="$xxs"
-                    borderRadius="$sm"
-                    borderWidth={1}
-                    borderColor={isSelected ? '$accent' : '$borderColor'}
-                    backgroundColor={isSelected ? '$accent' : 'transparent'}
-                  >
-                    <Text
-                      fontFamily="$heading"
-                      fontSize="$1"
-                      color={isSelected ? '$background' : '$colorSecondary'}
-                    >
-                      {opt.label.primary}
-                    </Text>
-                  </YStack>
-                </AnimatedPressable>
-              )
-            })}
-          </XStack>
-        )
+      {(pickerStyle === 'cards' || options.length > 1) && (
+        <InkPicker
+          options={options.map((opt) => ({
+            id: opt.id,
+            label: opt.label.primary,
+            excerpt: opt.excerpt?.primary,
+          }))}
+          selectedId={current?.id}
+          onSelect={handleSelect}
+          pickerStyle={pickerStyle}
+        />
       )}
       {current && renderBody(current)}
     </YStack>

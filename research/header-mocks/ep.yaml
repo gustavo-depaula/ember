@@ -1,0 +1,5 @@
+appId: me.dpgu.ember.dev
+---
+- tapOn: "Eucharistic Prayer Iii"
+- waitForAnimationToEnd
+- takeScreenshot: /tmp/mass-ep

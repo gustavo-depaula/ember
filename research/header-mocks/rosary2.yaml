@@ -1,0 +1,25 @@
+appId: me.dpgu.ember.dev
+---
+- launchApp:
+    stopApp: true
+- tapOn:
+    text: "http://localhost:8097"
+    optional: true
+- extendedWaitUntil:
+    visible: "Today"
+    timeout: 120000
+    optional: true
+- openLink: "ember://practices/rosary"
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Pray"
+    timeout: 60000
+- tapOn: "Pray"
+- extendedWaitUntil:
+    visible: "Opening Prayers"
+    timeout: 60000
+    optional: true
+- waitForAnimationToEnd
+- takeScreenshot: /tmp/ready
