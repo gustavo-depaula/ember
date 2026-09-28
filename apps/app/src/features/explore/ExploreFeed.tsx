@@ -124,7 +124,11 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
       key: 'weekday',
       label: t('explore.todaysDevotion'),
       title: localizeContent(wdColl.name ?? {}),
-      subtitle: t(`explore.devotionTheme.${wd.themeKey}`),
+      // The name already carries the day's theme ("Domingo — A Trindade…"),
+      // so the card reads on into the collection's own opening words.
+      subtitle: wdColl.description
+        ? localizeContent(wdColl.description).replace(/\*/g, '')
+        : t(`explore.devotionTheme.${wd.themeKey}`),
       image: artFor(wd.collectionId),
       cover: coverFor(wdColl),
       coverTitle: localizeContent(wdColl.name ?? {}),

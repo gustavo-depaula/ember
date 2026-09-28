@@ -48,7 +48,7 @@ export function PrayNowCard({ next, comingUp, suggestion, block, onPray }: PrayN
       tone={toneForKey(ref)}
       onPress={onPray}
       footer={
-        <XStack alignItems="center" justifyContent="space-between" marginTop={10}>
+        <XStack alignItems="center" justifyContent="space-between" marginTop={8}>
           <XStack
             alignItems="center"
             gap={7}
@@ -73,7 +73,13 @@ export function PrayNowCard({ next, comingUp, suggestion, block, onPray }: PrayN
             )}
           </XStack>
           {!suggestion && (
-            <Typography color="rgba(245,239,226,0.55)" fontSize={13}>
+            <Typography
+              fontFamily="$heading"
+              color="rgba(245,239,226,0.55)"
+              fontSize={11}
+              letterSpacing={1.4}
+              textTransform="uppercase"
+            >
               {t(`tier.${next.tier}`)}
             </Typography>
           )}
