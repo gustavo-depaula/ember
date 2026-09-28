@@ -195,6 +195,8 @@ def sections_for(p: dict) -> list[dict]:
 def tidy(t: str) -> str:
     # "1.Why" → "1. Why", as the other languages print it.
     t = re.sub(r"(?m)^(\d+)\.(?=[^\s\d.])", r"\1. ", t)
+    # A red label glued to its text: "Antífona.Seu reinado", "rispondono:Santo".
+    t = re.sub(r"(?<=[^\W\d_]{3})([.:!])(?=[^\W\d_]{2})", r"\1 ", t)
     # A psalm's mediant asterisk (Danish, Swedish) would open an italic span in
     # the app's inline Markdown; the asterisk operator looks the same.
     return t.replace(" * ", " \u2217 ")
@@ -283,6 +285,74 @@ def rehome_easter_notes(sections: list[dict]) -> None:
                 del s["text"][lang]
 
 
+# — Vexilla Regis: Good Friday or the Exaltation of the Cross —
+
+# The book prints the Passiontide stanza with the feast's words as a note after
+# it ("die 14 septembris: / in hac triumphi gloria"); English prints both stanzas
+# whole. Each becomes the stanza the day calls for.
+FEAST_NOTE = re.compile(r"^\*?[^\n\d]{0,30}\b14\b[^\n\d]{0,20}:\*?\n[^\n]+$")
+
+
+def split_feast(t: str) -> tuple[str, str, str, str] | None:
+    """(before, Passion stanza, feast stanza, after), or None where a language
+    has no variant."""
+    paras = t.split("\n\n")
+    if any(p.startswith("On Good Friday:") for p in paras):
+        i = next(i for i, p in enumerate(paras) if p.startswith("On the Feast of the Triumph"))
+        strip = lambda p: p.split(": ", 1)[1]
+        return "\n\n".join(paras[:i]), strip(paras[i + 1]), strip(paras[i]), "\n\n".join(paras[i + 2 :])
+    i = next((i for i, p in enumerate(paras) if i and FEAST_NOTE.match(p)), None)
+    if i is None:
+        return None
+    head, tail = paras[i - 1], paras[i + 1]
+    feast = paras[i].split("\n", 1)[1].strip()
+    cut = max(head.rfind("!"), head.rfind("\n"))
+    cut = cut if cut >= 0 else head.rfind(",")
+    phrase = head[cut + 1 :].strip()
+    if phrase.startswith("*"):
+        feast = f"*{feast}*"
+    if phrase.lstrip("*")[:1].isupper():
+        k = 1 if feast.startswith("*") else 0
+        feast = feast[:k] + feast[k].upper() + feast[k + 1 :]
+    sep = head[cut] if head[cut] == "\n" else head[cut] + " "
+    return (
+        "\n\n".join(paras[: i - 1]),
+        f"{head}\n{tail}",
+        f"{head[:cut]}{sep}{feast}\n{tail}",
+        "\n\n".join(paras[i + 2 :]),
+    )
+
+
+def feast_select(sections: list[dict]) -> list[dict]:
+    out: list[dict] = []
+    for s in sections:
+        splits = {lang: split_feast(t) for lang, t in s.get("inline", {}).items()} if s["type"] == "prayer" else {}
+        if not any(splits.values()):
+            out.append(s)
+            continue
+        part = lambda n: {lang: (sp[n] if sp else (s["inline"][lang] if n == 0 else "")) for lang, sp in splits.items()}
+        prayer = lambda texts: {"type": "prayer", "inline": {k: v for k, v in texts.items() if v}}
+        out.append(prayer(part(0)))
+        out.append(
+            {
+                "type": "select",
+                "on": "dateKey",
+                "map": {"09-14": "triumph"},
+                "default": "passion",
+                "options": [
+                    {"id": "passion", "label": {"en-US": "Passiontide", "pt-BR": "Tempo da Paixão"}, "sections": [prayer(part(1))]},
+                    {
+                        "id": "triumph",
+                        "label": {"en-US": "Exaltation of the Holy Cross", "pt-BR": "Exaltação da Santa Cruz"},
+                        "sections": [prayer(part(2))],
+                    },
+                ],
+            }
+        )
+        out.append(prayer(part(3)))
+    return out
+
+
 def easter_select(section: dict) -> dict:
     if section["type"] != "prayer" or not any(EASTER_NOTE.search(t) for t in section["inline"].values()):
         return section
@@ -360,7 +430,7 @@ def new_practice(pid: str, meta: dict, members: list[tuple[dict, dict]], order: 
     tidy_sections(flow["sections"])
     fill_pt_br(flow["sections"], meta.get("translation", {}).get("pt-BR"))
     rehome_easter_notes(flow["sections"])
-    flow["sections"] = [easter_select(s) for s in flow["sections"]]
+    flow["sections"] = feast_select([easter_select(s) for s in flow["sections"]])
     return manifest, flow
 
 
