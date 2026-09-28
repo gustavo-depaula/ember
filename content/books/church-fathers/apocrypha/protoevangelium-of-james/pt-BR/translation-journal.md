@@ -41,3 +41,4 @@ Target: pt-BR
 - **¶13 "Who is it that has hunted me down?"** → "Quem foi que me armou esta cilada?", the idiomatic Portuguese for being caught by a trap/pursuer.
 - **¶24 "fretwork of the temple"** → "os lavores do templo" (carved panelling).
 - **Punctuation.** The source's spaced em-dash asides ("strange things— because") use a spaced em dash in Portuguese.
+- 2026-09-27: The en-US OCR slips recorded in this journal were corrected in the en-US source. The pt-BR text already rendered the corrected reading.

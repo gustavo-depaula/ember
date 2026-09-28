@@ -64,3 +64,4 @@ Fixed (objective fidelity defects found in a 5-way clause-by-clause bilingual re
 - ¶69: "ímpíssimos" → "impiíssimos" (typo; correct superlative of "ímpio").
 
 Rejected/no action: none — the two rounds of parallel bilingual sub-review batches (¶1-19, 20-38, 39-56, 57-75, 76-94) turned up only the five items above; addressee register (tu/vós/nós) in Antony's discourse (¶16-43) was traced turn by turn and found consistent throughout.
+- 2026-09-27: The en-US OCR slips recorded in this journal were corrected in the en-US source. The pt-BR text already rendered the corrected reading.

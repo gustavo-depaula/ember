@@ -54,3 +54,4 @@ Target: pt-BR
 - **"Possibly such a woman…"** → "Talvez tal mulher…", keeping the source's hedge.
 - **Paragraph numbers** written as inert bold (`**1.**`) rather than the en-US file's `1. ` list markers, per `.claude/rules/books.md` (`marked` renumbers list markers). Numbers and breaks are unchanged.
 - **Punctuation.** English `:—` before Saturus's vision and `Argument.—` in the chapter 1 heading not transplanted; plain colon / period used.
+- 2026-09-27: The en-US OCR slips recorded in this journal were corrected in the en-US source. The pt-BR text already rendered the corrected reading.

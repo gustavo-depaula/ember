@@ -65,3 +65,4 @@ The source marks the Creed's articles in small caps (rendered by New Advent as t
 ## Revisão (coordenação, após rodada 3)
 
 - ¶18: "o Pai não deve a ninguém tudo o que é" → "o Pai não deve a ninguém nada do que é". EN "the Father owes whatsoever He is to no one" is a total negation (aseity: the Father owes nothing of what He is to anyone). In Portuguese, "não … tudo" under negation reads as partial ("does not owe *all*"), implying He owes part — a doctrinal misreading. "nada do que é" keeps the total negation.
+- 2026-09-27: The en-US OCR slips recorded in this journal were corrected in the en-US source. The pt-BR text already rendered the corrected reading.

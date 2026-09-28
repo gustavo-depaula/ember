@@ -46,3 +46,4 @@ Target: pt-BR
 - 2026-09-27: Stephen's rule "Let there be no innovation — nothing but what has been handed down" rendered "Nada se inove — nada senão o que foi transmitido", echoing the familiar *nihil innovetur nisi quod traditum est*.
 - 2026-09-27: The bracketed editorial note on the lost second book (before ch. 29) is kept, translated, because it explains a real gap in the work rather than glossing the text.
 - 2026-09-27: The source typo "enlarged n itself" (§54) translated as "se amplie em si mesma"; the en-US file is left untouched.
+- 2026-09-27: The en-US OCR slips recorded in this journal were corrected in the en-US source. The pt-BR text already rendered the corrected reading.

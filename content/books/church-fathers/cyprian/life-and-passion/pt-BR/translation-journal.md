@@ -84,3 +84,4 @@ Target: pt-BR
 ## Reviewed, not changed
 
 - §3 "novices should be passed over" (1 Timothy 3:6) is rendered "neófitos", not "noviços", even though the Key Terms row above pairs "novice" with "noviço". Checked: this is the correct choice, not an inconsistency — the Wallis translation uses "novice" only here as the traditional KJV wording for the Vulgate's *neophytum* (1 Timothy 3:6 refers to a recent convert, not to someone new to office). §5's "still a neophyte, and, as it was considered, a novice" is the one place where the source distinguishes the two senses for Cyprian personally, and pt-BR correctly keeps "neófito"/"noviço" distinct there.
+- 2026-09-27: The en-US OCR slips recorded in this journal were corrected in the en-US source. The pt-BR text already rendered the corrected reading.
