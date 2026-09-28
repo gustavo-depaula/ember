@@ -248,6 +248,16 @@ export function getAllManifests(): PracticeManifest[] {
   return out
 }
 
+// A non-primary member of an alternativeTo group (the primary's bare id is the
+// group id). Catalog lists show only the primary; the rest are reached through
+// its Form list.
+export function isAlternateForm(manifest: PracticeManifest): boolean {
+  if (!manifest.alternativeTo) return false
+  const slash = manifest.id.indexOf('/')
+  const unqualified = slash === -1 ? manifest.id : manifest.id.slice(slash + 1)
+  return unqualified !== manifest.alternativeTo.id
+}
+
 export function getManifestIconKey(id: string): string {
   return getManifest(id)?.icon ?? 'prayer'
 }
@@ -284,7 +294,12 @@ export function resolveCanticle(ref: string): PrayerAsset | undefined {
 
 export type AlternativeGroup = {
   groupId: string
-  members: Array<{ manifest: PracticeManifest; label: string; description: string }>
+  members: Array<{
+    manifest: PracticeManifest
+    label: string
+    description: string
+    order: number
+  }>
 }
 
 export function getAlternativeGroup(id: string): AlternativeGroup | undefined {
@@ -298,11 +313,12 @@ export function getAlternativeGroup(id: string): AlternativeGroup | undefined {
         manifest: m,
         label: localizeContent(m.alternativeTo.label),
         description: localizeContent(m.alternativeTo.description),
+        order: m.alternativeTo.order ?? Number.POSITIVE_INFINITY,
       })
     }
   }
   if (members.length < 2) return undefined
-  members.sort((a, b) => a.label.localeCompare(b.label))
+  members.sort((a, b) => a.order - b.order || a.label.localeCompare(b.label))
   return { groupId, members }
 }
 

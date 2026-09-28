@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-lyon",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Lyon",
+      "pt-BR": "Lyon"
+    },
+    "description": {
+      "en-US": "According to the Rite of Lyon",
+      "pt-BR": "Segundo o Rito de Lyon"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Rite of Lyon"

@@ -1,5 +1,17 @@
 {
 	"id": "little-office-bvm",
+	"alternativeTo": {
+		"id": "little-office-bvm",
+		"label": {
+			"en-US": "In your language",
+			"pt-BR": "No seu idioma"
+		},
+		"description": {
+			"en-US": "Psalms from your chosen Bible translation",
+			"pt-BR": "Salmos da tradução da Bíblia que você escolheu"
+		},
+		"order": 0
+	},
 	"icon": "mary",
 	"name": {
 		"en-US": "Little Office of the BVM",

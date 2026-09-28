@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-carthusian",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Carthusian",
+      "pt-BR": "Cartuxo"
+    },
+    "description": {
+      "en-US": "According to the Carthusian use",
+      "pt-BR": "Segundo o uso cartuxo"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Carthusian Usage"

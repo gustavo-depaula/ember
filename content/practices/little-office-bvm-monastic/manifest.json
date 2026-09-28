@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-monastic",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Monastic",
+      "pt-BR": "Monástico"
+    },
+    "description": {
+      "en-US": "According to the monastic use",
+      "pt-BR": "Segundo o uso monástico"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Monastic Usage"

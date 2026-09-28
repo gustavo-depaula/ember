@@ -1,0 +1,56 @@
+{
+  "id": "breviary-monastic-1617",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Monastic Breviary",
+    "pt-BR": "Breviário Monástico",
+    "la": "Breviarium Monasticum"
+  },
+  "subtitle": {
+    "en-US": "Benedictine Divine Office",
+    "pt-BR": "Ofício Divino beneditino"
+  },
+  "categories": [
+    "liturgical"
+  ],
+  "estimatedMinutes": 15,
+  "description": {
+    "en-US": "The Benedictine Divine Office, hour by hour — choose the hour and the monastic round of psalms, lessons, and prayer is assembled for today.",
+    "pt-BR": "O Ofício Divino beneditino, hora por hora — escolha a hora e o ciclo monástico de salmos, lições e oração é montado para hoje."
+  },
+  "history": {
+    "en-US": "St. Benedict’s Rule orders the monastic office so that the whole psalter is prayed each week, across Matins, Lauds, the little hours, Vespers, and Compline. This practice presents the monastic breviary as served by the Divinum Officium project, in its forms from 1617 to 1963, together with the votive offices.",
+    "pt-BR": "A Regra de São Bento ordena o ofício monástico de modo que todo o saltério seja rezado a cada semana, pelas Matinas, Laudes, horas menores, Vésperas e Completas. Esta prática apresenta o breviário monástico servido pelo projeto Divinum Officium, em suas formas de 1617 a 1963, com os ofícios votivos."
+  },
+  "howToPray": {
+    "en-US": "Pray slowly, alternating the verses as if in choir. The office is assembled for today’s liturgical day; your content language is shown with the Latin beneath each text. Choose the rubrics, or a votive office, under Form.",
+    "pt-BR": "Reze devagar, alternando os versículos como em coro. O ofício é montado para o dia litúrgico de hoje; seu idioma aparece com o latim abaixo de cada texto. Escolha as rubricas, ou um ofício votivo, em Forma."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "theme": "office",
+  "flow": "../breviary/flow.json",
+  "tags": [
+    "office",
+    "breviary",
+    "monastic",
+    "benedictine",
+    "latin"
+  ],
+  "vars": {
+    "rubrics": "monastic-1617",
+    "votive": "Hodie"
+  },
+  "alternativeTo": {
+    "id": "breviary-monastic",
+    "label": {
+      "en-US": "Monastic 1617",
+      "pt-BR": "Monástico 1617"
+    },
+    "description": {
+      "en-US": "The monastic breviary of Paul V",
+      "pt-BR": "O breviário monástico de Paulo V"
+    },
+    "order": 3
+  }
+}

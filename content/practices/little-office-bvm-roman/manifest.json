@@ -1,5 +1,17 @@
 {
   "id": "little-office-bvm-roman",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Roman",
+      "pt-BR": "Romano"
+    },
+    "description": {
+      "en-US": "According to the Roman Rite",
+      "pt-BR": "Segundo o Rito Romano"
+    },
+    "order": 1
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Roman Rite"

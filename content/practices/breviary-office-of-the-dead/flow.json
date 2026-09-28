@@ -1,0 +1,82 @@
+{
+  "sections": [
+    {
+      "type": "select",
+      "on": "hour",
+      "as": "hour",
+      "pin": true,
+      "label": {
+        "en-US": "Hour",
+        "pt-BR": "Hora",
+        "la": "Hora"
+      },
+      "map": {
+        "4-6": "Matutinum",
+        "7-8": "Laudes",
+        "17-19": "Vespera"
+      },
+      "options": [
+        {
+          "id": "Matutinum",
+          "label": {
+            "en-US": "Matins",
+            "pt-BR": "Matinas",
+            "la": "Matutinum"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Matutinum",
+                "version": "{{rubrics}}",
+                "votive": "{{votive}}"
+              }
+            }
+          ],
+          "time": "05:00"
+        },
+        {
+          "id": "Laudes",
+          "label": {
+            "en-US": "Lauds",
+            "pt-BR": "Laudes",
+            "la": "Laudes"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Laudes",
+                "version": "{{rubrics}}",
+                "votive": "{{votive}}"
+              }
+            }
+          ],
+          "time": "06:00"
+        },
+        {
+          "id": "Vespera",
+          "label": {
+            "en-US": "Vespers",
+            "pt-BR": "Vésperas",
+            "la": "Vesperae"
+          },
+          "sections": [
+            {
+              "type": "include",
+              "ref": "producer/do-hour",
+              "params": {
+                "hour": "Vespera",
+                "version": "{{rubrics}}",
+                "votive": "{{votive}}"
+              }
+            }
+          ],
+          "time": "18:00"
+        }
+      ]
+    }
+  ]
+}

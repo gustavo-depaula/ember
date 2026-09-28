@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-sarum",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Sarum",
+      "pt-BR": "Sarum"
+    },
+    "description": {
+      "en-US": "According to the Sarum use",
+      "pt-BR": "Segundo o uso de Sarum"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Sarum Use"

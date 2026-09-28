@@ -7,7 +7,12 @@ import { Text, XStack, YStack } from 'tamagui'
 import { PageHeader, ScreenLayout } from '@/components'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { getCollectionItems, getCollectionsForItem, getEntry } from '@/content/contentIndex'
-import { getAllManifests, getManifestCategories, getManifestIconKey } from '@/content/resolver'
+import {
+  getAllManifests,
+  getManifestCategories,
+  getManifestIconKey,
+  isAlternateForm,
+} from '@/content/resolver'
 import type { PracticeManifest } from '@/content/types'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { usePinnedItems } from '@/features/pinning/hooks'
@@ -199,7 +204,10 @@ export default function AllPracticesScreen() {
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion tracks deferred manifest warm-up.
   const filteredManifests = useMemo(() => {
-    let results: PracticeManifest[] = getAllManifests()
+    const isPinned = (m: PracticeManifest) =>
+      pinnedPracticeIds.has(m.id.includes('/') ? m.id : `practice/${m.id}`)
+    // A saved form stays visible; the others live in their primary's Form list.
+    let results = getAllManifests().filter((m) => !isAlternateForm(m) || isPinned(m))
     if (activeCategory) {
       results = results.filter((m) => m.categories?.includes(activeCategory))
     }
@@ -207,10 +215,7 @@ export default function AllPracticesScreen() {
       results = results.filter((m) => momentForManifest(m) === activeMoment)
     }
     if (pinnedOnly) {
-      results = results.filter((m) => {
-        const corpusId = m.id.includes('/') ? m.id : `practice/${m.id}`
-        return pinnedPracticeIds.has(corpusId)
-      })
+      results = results.filter(isPinned)
     }
     return results
   }, [activeCategory, activeMoment, pinnedOnly, pinnedPracticeIds, catalogVersion])

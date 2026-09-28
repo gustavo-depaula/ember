@@ -1,0 +1,55 @@
+{
+  "id": "breviary-office-of-the-dead",
+  "icon": "prayer",
+  "name": {
+    "en-US": "Roman Breviary",
+    "pt-BR": "Breviário Romano",
+    "la": "Breviarium Romanum"
+  },
+  "subtitle": {
+    "en-US": "Traditional Divine Office",
+    "pt-BR": "Ofício Divino tradicional"
+  },
+  "categories": [
+    "liturgical"
+  ],
+  "estimatedMinutes": 15,
+  "description": {
+    "en-US": "The traditional Divine Office, hour by hour — choose the hour and the Church's daily round of psalms, lessons, and prayer is assembled for today.",
+    "pt-BR": "O Ofício Divino tradicional, hora por hora — escolha a hora e o ciclo diário de salmos, lições e oração da Igreja é montado para hoje."
+  },
+  "history": {
+    "en-US": "The Divine Office sanctifies the hours of the day with the public prayer of the Church, a practice inherited from the synagogue and shaped by St. Benedict’s Rule into the eight canonical hours. This practice presents the traditional Roman Breviary as served by the Divinum Officium project, in each of its historical forms — from the breviary of St. Pius V (1570) to the rubrics of 1960 — together with the votive offices.",
+    "pt-BR": "O Ofício Divino santifica as horas do dia com a oração pública da Igreja, prática herdada da sinagoga e moldada pela Regra de São Bento nas oito horas canônicas. Esta prática apresenta o Breviário Romano tradicional servido pelo projeto Divinum Officium, em cada uma de suas formas históricas — do breviário de São Pio V (1570) às rubricas de 1960 — com os ofícios votivos."
+  },
+  "howToPray": {
+    "en-US": "Pray slowly, alternating the verses as if in choir. The office is assembled for today’s liturgical day; your content language is shown with the Latin beneath each text. Choose the rubrics, or a votive office, under Form.",
+    "pt-BR": "Reze devagar, alternando os versículos como em coro. O ofício é montado para o dia litúrgico de hoje; seu idioma aparece com o latim abaixo de cada texto. Escolha as rubricas, ou um ofício votivo, em Forma."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "theme": "office",
+  "flow": "flow.json",
+  "tags": [
+    "office",
+    "breviary",
+    "liturgy-of-the-hours",
+    "latin"
+  ],
+  "vars": {
+    "rubrics": "rubrics-1960",
+    "votive": "C9"
+  },
+  "alternativeTo": {
+    "id": "breviary",
+    "label": {
+      "en-US": "Office of the Dead",
+      "pt-BR": "Ofício de Defuntos"
+    },
+    "description": {
+      "en-US": "For the faithful departed",
+      "pt-BR": "Pelos fiéis defuntos"
+    },
+    "order": 7
+  }
+}

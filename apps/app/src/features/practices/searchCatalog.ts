@@ -7,7 +7,7 @@
 
 import { getEntriesByKind, getRememberedManifest } from '@/content/contentIndex'
 import type { BookEntry } from '@/content/manifestTypes'
-import { getAllManifests } from '@/content/resolver'
+import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { matchWords, normalizeForSearch, searchWords } from '@/lib/search'
 
@@ -48,6 +48,7 @@ export function buildSearchIndex(): IndexEntry[] {
   const entries: IndexEntry[] = []
 
   for (const m of getAllManifests()) {
+    if (isAlternateForm(m)) continue
     const title = localizeContent(m.name)
     entries.push({
       result: { kind: 'practice', id: m.id, title },

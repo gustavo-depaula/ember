@@ -1,4 +1,4 @@
-import { getAllManifests } from '@/content/resolver'
+import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
 
@@ -173,12 +173,7 @@ function collectSeedEvents(): AppEvent[] {
   for (const manifest of getAllManifests()) {
     if (!manifest.defaults) continue
 
-    // Only seed the primary member of each alternative group
-    if (manifest.alternativeTo) {
-      const slash = manifest.id.indexOf('/')
-      const unqualified = slash === -1 ? manifest.id : manifest.id.slice(slash + 1)
-      if (unqualified !== manifest.alternativeTo.id) continue
-    }
+    if (isAlternateForm(manifest)) continue
 
     const d = manifest.defaults
     if (!d?.slots?.length) continue

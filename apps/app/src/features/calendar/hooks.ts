@@ -1,4 +1,4 @@
-import { massVersion } from '@ember/divinum-officium'
+import { efVersion } from '@ember/divinum-officium'
 import {
   type DayCalendar,
   getCelebrationsForDate,
@@ -22,12 +22,11 @@ import { buildDoYearCalendar } from './buildDoYearCalendar'
 export function useYearCalendar(year?: number) {
   const form = usePreferencesStore((s) => s.liturgicalCalendar)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
-  const doVersion = usePreferencesStore((s) => s.doVersion)
   const today = useToday()
   const resolvedYear = year ?? today.getFullYear()
 
   return useQuery({
-    queryKey: ['calendar', resolvedYear, form, contentLanguage, doVersion],
+    queryKey: ['calendar', resolvedYear, form, contentLanguage],
     queryFn: async () => {
       if (form === 'of') {
         const statics = await loadOfCalendar()
@@ -41,7 +40,7 @@ export function useYearCalendar(year?: number) {
       return buildDoYearCalendar({
         year: resolvedYear,
         loader: createCorpusDoLoader(),
-        version: massVersion(doVersion),
+        version: efVersion,
       })
     },
     staleTime: Number.POSITIVE_INFINITY,

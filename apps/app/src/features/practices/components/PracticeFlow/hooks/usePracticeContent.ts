@@ -31,11 +31,10 @@ export function usePracticeContent(
   pins?: Record<string, string>,
 ): UseQueryResult<PracticeContent> {
   const queryClient = useQueryClient()
-  const { flow, programDay } = usePractice(practiceId, programDayProp)
+  const { manifest, flow, programDay } = usePractice(practiceId, programDayProp)
   const { cycleData, trackDefs, trackState } = usePracticeTracks(practiceId)
 
   const translation = usePreferencesStore((s) => s.translation)
-  const doVersion = usePreferencesStore((s) => s.doVersion)
   const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
@@ -55,7 +54,6 @@ export function usePracticeContent(
       contentLanguage,
       secondaryLanguage ?? null,
       translation,
-      doVersion,
       liturgicalCalendar ?? null,
       numbering,
       todayKey,
@@ -78,12 +76,13 @@ export function usePracticeContent(
         cycleData,
         programDay,
         selectOverrides: pins ?? {},
+        templateVars: manifest?.vars,
       }
       const ec = createEngineContext(undefined, { contentLanguage, secondaryLanguage })
       const renderedSections = await resolveFlowAsync(flow, context, ec)
       const primitives = await preprocessFlow(renderedSections, {
         queryClient,
-        prefs: { lang: contentLanguage, translation, doVersion },
+        prefs: { lang: contentLanguage, translation },
         date: now,
         programDay,
       })

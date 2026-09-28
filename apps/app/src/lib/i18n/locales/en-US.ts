@@ -599,7 +599,6 @@ export default {
     jurisdictionUniversal: 'Universal',
     jurisdictionBR: 'Brazil',
     jurisdictionUS: 'United States',
-    doVersion: 'Breviary & EF Mass rubrics',
     timeTravel: 'Time Travel',
     timeTravelDescription: 'Preview the app as it would appear on a specific date.',
     timeTravelPick: 'Pick a date',

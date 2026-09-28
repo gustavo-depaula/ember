@@ -85,6 +85,8 @@ export type AlternativeToRef = {
   id: string
   label: LocalizedText
   description: LocalizedText
+  // Position in the Form list. Forms without one follow, by label.
+  order?: number
 }
 
 export type SlotDefault = {
@@ -131,6 +133,9 @@ export type PracticeManifest = {
   program?: ProgramConfig
   theme?: 'office'
   alternativeTo?: AlternativeToRef
+  // Flow template vars (`{{rubrics}}`). Forms of one practice share a flow and
+  // differ only here, e.g. which Divinum Officium version the breviary follows.
+  vars?: Record<string, string>
   pack?: string
   tags?: string[]
   defaults?: { sortOrder?: number; slots?: SlotDefault[] }

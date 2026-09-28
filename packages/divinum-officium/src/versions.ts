@@ -29,42 +29,21 @@ export const doVersionNames: Record<DoVersionId, string> = {
   'monastic-barroux': 'Monastic - 1963 - Barroux',
 }
 
-// Display order, grouped by family (Roman chain oldest→newest, then Monastic).
-// Drives the settings selector.
-export const doVersionOrder: DoVersionId[] = [
-  'tridentine-1570',
-  'tridentine-1888',
-  'tridentine-1906',
-  'divino-afflatu-1939',
-  'divino-afflatu',
-  'reduced-1955',
-  'rubrics-1960',
-  'monastic-1617',
-  'monastic-1930',
-  'monastic',
-  'monastic-barroux',
-]
-
-export const defaultDoVersion: DoVersionId = 'rubrics-1960'
-
 function isDoVersion(id: string): id is DoVersionId {
   return id in doVersionNames
 }
 
+// Office practices name their version in the manifest; an unknown id is a
+// content typo, so it throws instead of quietly praying another breviary.
 export function officeVersion(id: string): string {
-  return doVersionNames[isDoVersion(id) ? id : defaultDoVersion]
+  if (!isDoVersion(id)) throw new Error(`unknown Divinum Officium version id '${id}'`)
+  return doVersionNames[id]
 }
 
-// The EF Mass practice maps the office preference onto a missal Cmissa
-// supports. The Mass is differentially verified only for the 1960 and Divino
-// Afflatu missals, so the Divino-Afflatu family maps to DA and everything else
-// (incl. the Tridentine and Monastic offices) maps to the 1962 missal.
-export function massVersion(id: string): string {
-  if (id === 'divino-afflatu' || id === 'divino-afflatu-1939') {
-    return doVersionNames['divino-afflatu']
-  }
-  return doVersionNames['rubrics-1960']
-}
+// The EF Mass and every EF calendar surface follow the 1962 missal. It is one
+// of the two missals the Mass is differentially verified for (with Divino
+// Afflatu), and one fixed version keeps the Mass and the calendar in step.
+export const efVersion = doVersionNames['rubrics-1960']
 
 // App content-language codes → DO data directory names.
 export const doLangDirs: Record<string, string> = {

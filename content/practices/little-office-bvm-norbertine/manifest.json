@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-norbertine",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Premonstratensian",
+      "pt-BR": "Premonstratense"
+    },
+    "description": {
+      "en-US": "According to the use of the Norbertines",
+      "pt-BR": "Segundo o uso dos Norbertinos"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Premonstratensian Use (Norbetines)"

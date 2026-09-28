@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-carmelite",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Carmelite",
+      "pt-BR": "Carmelita"
+    },
+    "description": {
+      "en-US": "According to the rite of the Carmelites",
+      "pt-BR": "Segundo o rito dos Carmelitas"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Rite of The Order of the Brothers of the Blessed Virgin Mary of Mount Carmel (Carmelites)"

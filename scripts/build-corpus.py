@@ -178,9 +178,19 @@ def build_practices(b: Builder) -> None:
         # Flow may be inline in manifest (`flow: { sections: [...] }`) or
         # in a sibling `flow.json` that gets hashed out. Inline is preferred
         # for short prayers; flow.json is preferred for longer practices.
+        # Forms of one practice share a flow by pointing at it
+        # (`"flow": "../breviary/flow.json"`); the blob dedupes by hash.
         inline_flow = manifest_data.get("flow")
         flow_entry = None
         flow_path = d / "flow.json"
+        if isinstance(inline_flow, str) and inline_flow != "flow.json":
+            if flow_path.is_file():
+                raise SystemExit(
+                    f"practice {pid}: `flow` points at {inline_flow} but a flow.json exists too"
+                )
+            flow_path = (d / inline_flow).resolve()
+            if not flow_path.is_file():
+                raise SystemExit(f"practice {pid}: `flow` points at missing {inline_flow}")
         if isinstance(inline_flow, dict):
             if flow_path.is_file():
                 raise SystemExit(

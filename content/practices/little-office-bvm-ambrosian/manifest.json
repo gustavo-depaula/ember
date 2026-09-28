@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-ambrosian",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Ambrosian",
+      "pt-BR": "Ambrosiano"
+    },
+    "description": {
+      "en-US": "According to the Ambrosian Rite",
+      "pt-BR": "Segundo o Rito Ambrosiano"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Ambrosian Rite"

@@ -67,10 +67,8 @@ export { type ParsedRank, parseRank, ruleMatches } from './rules'
 export { type DoPath, isSectioned, type ParsedDoFile, type PlainDoFile } from './types'
 export {
   type DoVersionId,
-  defaultDoVersion,
   doLangDir,
   doVersionNames,
-  doVersionOrder,
-  massVersion,
+  efVersion,
   officeVersion,
 } from './versions'

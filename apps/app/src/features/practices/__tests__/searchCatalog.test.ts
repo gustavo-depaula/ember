@@ -35,6 +35,7 @@ vi.mock('@/content/resolver', () => ({
     },
     { id: 'practice/sao-jose', name: { 'en-US': 'Novena a São José' } },
   ],
+  isAlternateForm: () => false,
 }))
 vi.mock('@/content/contentIndex', () => ({
   getEntriesByKind: (kind: string) => {

@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-cistercian",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Cistercian",
+      "pt-BR": "Cisterciense"
+    },
+    "description": {
+      "en-US": "According to the Cistercian use",
+      "pt-BR": "Segundo o uso cisterciense"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Cistercian Usage"

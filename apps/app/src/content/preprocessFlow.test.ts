@@ -14,7 +14,7 @@ vi.mock('@/db/repositories/externalContent', () => ({
 function ctx(): PreprocessContext {
   return {
     queryClient: new QueryClient({ defaultOptions: { queries: { retry: false } } }),
-    prefs: { lang: 'en-US', translation: 'RSV2CE', doVersion: 'rubrics-1960' },
+    prefs: { lang: 'en-US', translation: 'RSV2CE' },
     date: new Date('2026-01-01'),
   }
 }

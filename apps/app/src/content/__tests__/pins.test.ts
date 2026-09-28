@@ -18,7 +18,6 @@ describe('getPinnableSelects', () => {
     expect(hour.options.map((o) => o.id)).toEqual(
       expect.arrayContaining(['Matutinum', 'Laudes', 'Prima', 'Completorium']),
     )
-    expect(hour.options.map((o) => o.id)).not.toContain('Votive')
   })
 
   it('offers the mystery sets of the rosary', () => {
@@ -49,7 +48,6 @@ describe('getHourSlots', () => {
     expect(slots).toContainEqual({ pins: { hour: 'Matutinum' }, time: '05:00' })
     expect(slots).toContainEqual({ pins: { hour: 'Prima' }, time: '07:00' })
     expect(slots).toContainEqual({ pins: { hour: 'Completorium' }, time: '21:00' })
-    expect(slots.map((s) => s.pins.hour)).not.toContain('Votive')
   })
 
   it('gives every hour of every office a time', () => {

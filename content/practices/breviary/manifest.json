@@ -19,12 +19,12 @@
     "pt-BR": "O Ofício Divino tradicional, hora por hora — escolha a hora e o ciclo diário de salmos, lições e oração da Igreja é montado para hoje."
   },
   "history": {
-    "en-US": "The Divine Office sanctifies the hours of the day with the public prayer of the Church, a practice inherited from the synagogue and shaped by St. Benedict’s Rule into the eight canonical hours. This practice presents the traditional Roman Breviary as served by the Divinum Officium project, following the rubrics of 1960 (with the Divino Afflatu and Monastic uses available in settings).",
-    "pt-BR": "O Ofício Divino santifica as horas do dia com a oração pública da Igreja, prática herdada da sinagoga e moldada pela Regra de São Bento nas oito horas canônicas. Esta prática apresenta o Breviário Romano tradicional servido pelo projeto Divinum Officium, segundo as rúbricas de 1960 (com os usos Divino Afflatu e Monástico disponíveis nas configurações)."
+    "en-US": "The Divine Office sanctifies the hours of the day with the public prayer of the Church, a practice inherited from the synagogue and shaped by St. Benedict’s Rule into the eight canonical hours. This practice presents the traditional Roman Breviary as served by the Divinum Officium project, in each of its historical forms — from the breviary of St. Pius V (1570) to the rubrics of 1960 — together with the votive offices.",
+    "pt-BR": "O Ofício Divino santifica as horas do dia com a oração pública da Igreja, prática herdada da sinagoga e moldada pela Regra de São Bento nas oito horas canônicas. Esta prática apresenta o Breviário Romano tradicional servido pelo projeto Divinum Officium, em cada uma de suas formas históricas — do breviário de São Pio V (1570) às rubricas de 1960 — com os ofícios votivos."
   },
   "howToPray": {
-    "en-US": "Pray slowly, alternating the verses as if in choir. The office is assembled for today’s liturgical day; your content language is shown with the Latin beneath each text. The rubric version can be changed in settings.",
-    "pt-BR": "Reze devagar, alternando os versículos como em coro. O ofício é montado para o dia litúrgico de hoje; seu idioma aparece com o latim abaixo de cada texto. A versão das rúbricas pode ser alterada nas configurações."
+    "en-US": "Pray slowly, alternating the verses as if in choir. The office is assembled for today’s liturgical day; your content language is shown with the Latin beneath each text. Choose the rubrics, or a votive office, under Form.",
+    "pt-BR": "Reze devagar, alternando os versículos como em coro. O ofício é montado para o dia litúrgico de hoje; seu idioma aparece com o latim abaixo de cada texto. Escolha as rubricas, ou um ofício votivo, em Forma."
   },
   "flowMode": "scroll",
   "completion": "flow-end",
@@ -36,6 +36,22 @@
     "liturgy-of-the-hours",
     "latin"
   ],
+  "vars": {
+    "rubrics": "rubrics-1960",
+    "votive": "Hodie"
+  },
+  "alternativeTo": {
+    "id": "breviary",
+    "label": {
+      "en-US": "Rubrics of 1960",
+      "pt-BR": "Rubricas de 1960"
+    },
+    "description": {
+      "en-US": "The Code of Rubrics of St. John XXIII",
+      "pt-BR": "O Código de Rubricas de São João XXIII"
+    },
+    "order": 0
+  },
   "defaults": {
     "sortOrder": 19,
     "slots": [

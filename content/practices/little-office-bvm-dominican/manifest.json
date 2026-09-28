@@ -1,5 +1,16 @@
 {
   "id": "little-office-bvm-dominican",
+  "alternativeTo": {
+    "id": "little-office-bvm",
+    "label": {
+      "en-US": "Dominican",
+      "pt-BR": "Dominicano"
+    },
+    "description": {
+      "en-US": "According to the rite of the Order of Preachers",
+      "pt-BR": "Segundo o rito da Ordem dos Pregadores"
+    }
+  },
   "icon": "mary",
   "name": {
     "en-US": "Little Office of the Blessed Virgin Mary According to the Rite of the Order of Preachers (Dominicans)"
