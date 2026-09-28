@@ -50,6 +50,10 @@
   "pnpm": {
     "overrides": {
       "expo-crypto": "56.0.3"
+    },
+    "patchedDependencies": {
+      "react-native-screens@4.25.2": "patches/react-native-screens@4.25.2.patch",
+      "expo-router@56.2.11": "patches/expo-router@56.2.11.patch"
     }
   }
 }

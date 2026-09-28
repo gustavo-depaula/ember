@@ -1,0 +1,145 @@
+diff --git a/ios/RNSScreen.h b/ios/RNSScreen.h
+index 232824844177bc85ad56a88f661441d8a5d776ef..dd8ae166b8d378941ecc2bbd64cfd31e2116da6a 100644
+--- a/ios/RNSScreen.h
++++ b/ios/RNSScreen.h
+@@ -107,6 +107,7 @@ NS_ASSUME_NONNULL_BEGIN
+ @property (nonatomic) UIInterfaceOrientationMask screenOrientation;
+ @property (nonatomic) BOOL statusBarHidden;
+ @property (nonatomic) BOOL homeIndicatorHidden;
++@property (nonatomic) BOOL hidesBottomBarWhenPushed;
+ 
+ // Props controlling UISheetPresentationController
+ @property (nonatomic) NSArray<NSNumber *> *sheetAllowedDetents;
+diff --git a/ios/RNSScreen.mm b/ios/RNSScreen.mm
+index 69d4d9a4704a7bef3fa207de2dbb2d5119846ccb..292af5e0e27a3d679bfce2e4b00a37090612271a 100644
+--- a/ios/RNSScreen.mm
++++ b/ios/RNSScreen.mm
+@@ -1324,6 +1324,8 @@ - (void)updateProps:(react::Props::Shared const &)props oldProps:(react::Props::
+     [self setHomeIndicatorHidden:newScreenProps.homeIndicatorHidden];
+   }
+ 
++  self.hidesBottomBarWhenPushed = newScreenProps.hidesBottomBarWhenPushed;
++
+   [self setSheetGrabberVisible:newScreenProps.sheetGrabberVisible];
+   [self setSheetCornerRadius:newScreenProps.sheetCornerRadius];
+   [self setSheetExpandsWhenScrolledToEdge:newScreenProps.sheetExpandsWhenScrolledToEdge];
+diff --git a/ios/RNSScreenStack.mm b/ios/RNSScreenStack.mm
+index bfd0a519a09eb346dfd687fe2feb0b5489d34c32..18795d2dcf91f26fbe45c854f007d82afc0ceb41 100644
+--- a/ios/RNSScreenStack.mm
++++ b/ios/RNSScreenStack.mm
+@@ -259,6 +259,83 @@ - (void)navigationController:(UINavigationController *)navigationController
+   [RNSScreenStackHeaderConfig willShowViewController:viewController
+                                             animated:animated
+                                           withConfig:screenView.findHeaderConfig];
++  [self updateTabBarVisibilityForScreenView:screenView navigationController:navigationController animated:animated];
++}
++
++// Hiding the tab bar while a screen whose search controller is integrated into
++// it (iOS 26 search tab) is still on screen makes UIKit move the field into the
++// navigation bar, and showing the bar again doesn't move it back. Re-attaching
++// the controller makes UIKit place it afresh.
+++ (void)reattachSearchControllerOf:(UIViewController *)controller
++{
++#if !TARGET_OS_TV
++  UINavigationItem *navigationItem = controller.navigationItem;
++  UISearchController *searchController = navigationItem.searchController;
++  if (searchController == nil) {
++    return;
++  }
++  navigationItem.searchController = nil;
++  navigationItem.searchController = searchController;
++#endif
++}
++
++// Hide the enclosing tab bar for screens that ask for it, in step with the
++// push/pop. The stack's navigation controller is nested inside the tab's view
++// controller, so UIKit's own `hidesBottomBarWhenPushed` handling doesn't apply;
++// we drive `setTabBarHidden:` from here, where it animates with the transition.
++// Toggling it from a JS re-render lands at an arbitrary point mid-transition
++// instead, and the tab bar flickers.
++- (void)updateTabBarVisibilityForScreenView:(RNSScreenView *)screenView
++                       navigationController:(UINavigationController *)navigationController
++                                   animated:(BOOL)animated
++{
++#if !TARGET_OS_TV
++  if (@available(iOS 18.0, *)) {
++    UITabBarController *tabBarController = navigationController.tabBarController;
++    if (tabBarController == nil) {
++      return;
++    }
++    // A stack nested in another stack's screen within the same tab doesn't
++    // decide: the tab's own stack and its top screen own the tab bar. (Stacks
++    // above the tab bar controller, like a root stack, don't count.)
++    for (UIViewController *parent = navigationController.parentViewController;
++         parent != nil && parent != tabBarController;
++         parent = parent.parentViewController) {
++      if ([parent isKindOfClass:[UINavigationController class]]) {
++        return;
++      }
++    }
++    BOOL hidden = screenView.hidesBottomBarWhenPushed;
++    BOOL wasHidden = tabBarController.isTabBarHidden;
++    if (hidden != wasHidden) {
++      [tabBarController setTabBarHidden:hidden animated:animated];
++    }
++    id<UIViewControllerTransitionCoordinator> coordinator = navigationController.transitionCoordinator;
++    if (!animated || coordinator == nil) {
++      if (wasHidden && !hidden) {
++        [RNSScreenStackView reattachSearchControllerOf:navigationController.topViewController];
++      }
++      return;
++    }
++    // A cancelled interactive pop leaves the old screen on top; settle on
++    // whatever screen actually ended up there.
++    __weak UINavigationController *weakNavigationController = navigationController;
++    [coordinator animateAlongsideTransition:nil
++                                 completion:^(id<UIViewControllerTransitionCoordinatorContext> context) {
++                                   UIViewController *top = weakNavigationController.topViewController;
++                                   if (![top.view isKindOfClass:[RNSScreenView class]]) {
++                                     return;
++                                   }
++                                   BOOL topHidden = static_cast<RNSScreenView *>(top.view).hidesBottomBarWhenPushed;
++                                   if (topHidden != tabBarController.isTabBarHidden) {
++                                     [tabBarController setTabBarHidden:topHidden animated:YES];
++                                   }
++                                   if (wasHidden && !topHidden) {
++                                     [RNSScreenStackView reattachSearchControllerOf:top];
++                                   }
++                                 }];
++  }
++#endif
+ }
+ 
+ - (void)presentationControllerDidDismiss:(UIPresentationController *)presentationController
+diff --git a/src/fabric/ScreenNativeComponent.ts b/src/fabric/ScreenNativeComponent.ts
+index fa037c92188deabbb1098243dd821fa855dda3bf..b943df800c2e23430a24f5760adce8ccf163d0ac 100644
+--- a/src/fabric/ScreenNativeComponent.ts
++++ b/src/fabric/ScreenNativeComponent.ts
+@@ -97,6 +97,7 @@ export interface NativeProps extends ViewProps {
+   fullScreenSwipeEnabled?: CT.WithDefault<OptionalBoolean, 'undefined'>;
+   fullScreenSwipeShadowEnabled?: CT.WithDefault<boolean, true>;
+   homeIndicatorHidden?: boolean | undefined;
++  hidesBottomBarWhenPushed?: CT.WithDefault<boolean, false>;
+   preventNativeDismiss?: boolean | undefined;
+   gestureEnabled?: CT.WithDefault<boolean, true>;
+   statusBarColor?: ColorValue | undefined;
+diff --git a/src/types.tsx b/src/types.tsx
+index 76a83f3acb6fd3f0af7f027798848b7124100286..8da4e006b865dbbbfe526a23408a1f70a790c95e 100644
+--- a/src/types.tsx
++++ b/src/types.tsx
+@@ -218,6 +218,15 @@ export interface ScreenProps extends ViewProps {
+    * @platform ios
+    */
+   homeIndicatorHidden?: boolean | undefined;
++  /**
++   * Hides the enclosing tab bar while this screen is on top of its stack. The
++   * tab bar is shown/hidden in the navigation controller's `willShow` callback,
++   * alongside the push/pop transition, and settled on the screen that ends up
++   * on top if an interactive pop is cancelled.
++   *
++   * @platform ios
++   */
++  hidesBottomBarWhenPushed?: boolean;
+   /**
+    * Whether the keyboard should hide when swiping to the previous screen. Defaults to `false`.
+    *
