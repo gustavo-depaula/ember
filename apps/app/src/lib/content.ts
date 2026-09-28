@@ -80,23 +80,23 @@ export type ChapterResult = {
   fallback?: boolean
 }
 
-// The seven books a Protestant canon omits. Everything else keeps its place, so
-// dropping these from the DRB's 73 yields the 66-book order exactly.
-const deuterocanonical = new Set([
-  'tobias',
-  'judith',
-  'wisdom',
-  'ecclesiasticus',
-  'baruch',
-  '1-machabees',
-  '2-machabees',
-])
+// Bolls numbers books with one scheme across every translation: 1–66 in the
+// Protestant order, the deuterocanon after them on these fixed ids. A Catholic
+// translation carries 73 books but does not renumber them into Catholic order.
+const deuterocanonicalBollsIds: Record<string, number> = {
+  tobias: 68,
+  judith: 69,
+  wisdom: 70,
+  ecclesiasticus: 71,
+  baruch: 73,
+  '1-machabees': 74,
+  '2-machabees': 75,
+}
 
 // bookId is either a numeric string (from the Bible reader) or a DRB slug (from
 // lectio track entries). Slugs can't be matched by name: `/get-books/` answers
 // in the translation's own language ("Mateus" under CNBB, "Evangelium secundum
-// Matthaeum" under VULG). Canon *order* is the one thing the translations agree
-// on, so align by position and read the id off the match.
+// Matthaeum" under VULG), so the slug maps onto Bolls' fixed id scheme instead.
 async function resolveBollsBookId(
   translation: string,
   bookId: string,
@@ -105,27 +105,17 @@ async function resolveBollsBookId(
   if (!Number.isNaN(numeric)) return numeric
 
   const drbBooks = await getDrbBooks()
-  const drbBook = drbBooks.find((b) => b.id === bookId)
-  if (!drbBook) return undefined
+  // Dropping the deuterocanon from the DRB's 73 leaves the 66-book order.
+  const position = drbBooks
+    .filter((b) => !(b.id in deuterocanonicalBollsIds))
+    .findIndex((b) => b.id === bookId)
+  const id = deuterocanonicalBollsIds[bookId] ?? (position >= 0 ? position + 1 : undefined)
+  if (id === undefined) return undefined
 
-  // Sorted, because alignment is only meaningful in canonical order.
-  const bollsBooks = [...(await getBollsBooks(translation))].sort((a, b) => a.bookid - b.bookid)
-  const canon =
-    bollsBooks.length === drbBooks.length
-      ? drbBooks
-      : bollsBooks.length === drbBooks.length - deuterocanonical.size
-        ? drbBooks.filter((b) => !deuterocanonical.has(b.id))
-        : undefined
-
-  const position = canon?.findIndex((b) => b.id === bookId) ?? -1
-  // A deuterocanonical book asked of a 66-book translation lands here, and
-  // rightly falls through to the bundled DRB.
-  if (position >= 0) return bollsBooks[position]?.bookid
-
-  // Unfamiliar canon shapes (NT-only editions, the Orthodox canons) get one
-  // more chance, on the off chance the names agree.
-  const byName = bollsBooks.find((b) => b.name.toLowerCase() === drbBook.name.toLowerCase())
-  return byName?.bookid
+  // A deuterocanonical book asked of a 66-book translation is missing here,
+  // and rightly falls through to the bundled DRB.
+  const bollsBooks = await getBollsBooks(translation)
+  return bollsBooks.some((b) => b.bookid === id) ? id : undefined
 }
 
 export async function getChapter(

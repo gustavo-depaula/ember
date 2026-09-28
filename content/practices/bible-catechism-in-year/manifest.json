@@ -22,10 +22,10 @@
 		"pt-BR": "Comece com o Sinal da Cruz e uma breve oração ao Espírito Santo, como: 'Vem, Espírito Santo, enche os corações dos teus fiéis e acende neles o fogo do teu amor.' Em seguida, leia cada uma das quatro porções diárias com atenção. Ao terminar, medite em silêncio por um momento sobre o que leu e responda em oração. Completar a leitura do dia avança seu progresso nas quatro trilhas."
 	},
 	"tracks": {
-		"ot-reading": "data/ot-reading.json",
-		"wisdom-reading": "data/wisdom-reading.json",
-		"nt-reading": "data/nt-reading.json",
-		"ccc-reading": "data/ccc-reading.json"
+		"ot-reading": "tracks/ot-reading.json",
+		"wisdom-reading": "tracks/wisdom-reading.json",
+		"nt-reading": "tracks/nt-reading.json",
+		"ccc-reading": "tracks/ccc-reading.json"
 	},
 	"flowMode": "scroll",
 	"completion": "flow-end",

@@ -52,7 +52,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{morning.title}}",
+                  "inline": "{{morning.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -139,7 +146,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{morning.title}}",
+                  "inline": "{{morning.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -240,7 +254,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{morning.title}}",
+                  "inline": "{{morning.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -310,7 +331,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{morning.title}}",
+                  "inline": "{{morning.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -380,7 +408,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{morning.title}}",
+                  "inline": "{{morning.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -450,7 +485,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{evening.title}}",
+                  "inline": "{{evening.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -520,7 +562,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{evening.title}}",
+                  "inline": "{{evening.text}}"
+                }
+              ]
             },
             {
               "type": "divider"
@@ -623,7 +672,14 @@
             },
             {
               "type": "cycle",
-              "data": "office-hymns"
+              "data": "office-hymns",
+              "sections": [
+                {
+                  "type": "hymn",
+                  "title": "{{compline.title}}",
+                  "inline": "{{compline.text}}"
+                }
+              ]
             },
             {
               "type": "divider"

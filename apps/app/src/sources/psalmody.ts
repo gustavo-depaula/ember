@@ -1,6 +1,6 @@
 import type { Primitive, VersesPrimitive } from '@/content/primitives'
 import { getChapter } from '@/lib/content'
-import { formatPsalmRef, type PsalmRef } from '@/lib/liturgical'
+import { formatPsalmRef, parsePsalmRef } from '@/lib/liturgical'
 import { requireArray } from './params'
 import type { ContentSource } from './types'
 
@@ -10,10 +10,11 @@ const ID = 'producer/psalmody'
 // the parent's children, so authors get a flat run of psalm sections.
 export const psalmodySource: ContentSource<Primitive[]> = {
   id: ID,
-  version: '1',
+  version: '3',
   prefsDeps: ['translation'],
   fetch: async ({ params, prefs }): Promise<Primitive[]> => {
-    const refs = requireArray<PsalmRef>(ID, params, 'psalms')
+    // Authors write psalms as `4` or `"31:1-6"`, the shapes parsePsalmRef reads.
+    const refs = requireArray<number | string>(ID, params, 'psalms').map(parsePsalmRef)
     return Promise.all(
       refs.map(async (ref): Promise<VersesPrimitive> => {
         const result = await getChapter(prefs.translation, 'psalms', ref.psalm)

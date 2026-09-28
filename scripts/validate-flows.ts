@@ -237,6 +237,15 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
     if (obj.type === 'gallery') {
       validateGallery(obj, ctx.file, path)
     }
+    // A cycle renders only through its sections (the entry becomes their
+    // template vars); without them the engine throws while opening the flow.
+    if (obj.type === 'cycle' && (typeof obj.data !== 'string' || !Array.isArray(obj.sections))) {
+      issues.push({
+        file: ctx.file,
+        path,
+        message: 'cycle requires `data` (string) and `sections` (array)',
+      })
+    }
     if (obj.type === 'select' && 'from' in obj) {
       if (typeof obj.from !== 'string') {
         issues.push({

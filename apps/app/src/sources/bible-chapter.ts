@@ -19,7 +19,7 @@ function optionalPositiveInt(
 
 export const bibleChapterSource: ContentSource<VersesPrimitive> = {
   id: ID,
-  version: '2',
+  version: '3',
   prefsDeps: ['translation'],
   fetch: async ({ params, prefs }): Promise<VersesPrimitive> => {
     const book = requireString(ID, params, 'book')

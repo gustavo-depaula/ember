@@ -27,9 +27,9 @@
     "office-hymns": "data/office-hymns.json"
   },
   "tracks": {
-    "ot-readings": "data/ot-readings.json",
-    "nt-readings": "data/nt-readings.json",
-    "ccc-readings": "data/ccc-readings.json"
+    "ot-readings": "tracks/ot-readings.json",
+    "nt-readings": "tracks/nt-readings.json",
+    "ccc-readings": "tracks/ccc-readings.json"
   },
   "flowMode": "scroll",
   "completion": "flow-end",

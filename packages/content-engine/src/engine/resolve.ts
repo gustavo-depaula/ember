@@ -153,7 +153,7 @@ export function resolveSection(
         return [
           {
             type: 'hymn',
-            title: bilingualEmpty,
+            title: section.title ? ec.localize(section.title) : bilingualEmpty,
             text: ec.localize(section.inline),
           },
         ]

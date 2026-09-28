@@ -91,7 +91,7 @@ export type FlowSection = { lang?: string } & (
   | { type: 'prayer'; speaker?: 'priest' | 'people' | 'all'; inline: LocalizedContent }
   | { type: 'prayer'; title: LocalizedText; sections: FlowSection[]; defaultOpen?: boolean }
   | { type: 'hymn'; ref: string }
-  | { type: 'hymn'; inline: LocalizedContent }
+  | { type: 'hymn'; inline: LocalizedContent; title?: string | LocalizedContent }
   | { type: 'canticle'; ref: string }
   | {
       type: 'canticle'

@@ -41,13 +41,29 @@ const deuterocanonical = new Set([
 // Bolls answers in the translation's own language — the whole point of the bug.
 const portugueseNames: Record<string, string> = { matthew: 'Mateus', tobias: 'Tobias' }
 
+// Bolls' fixed ids: the protocanon 1–66 in Protestant order, the deuterocanon
+// after it, whether the translation is Catholic or not.
+const deuterocanonicalIds: Record<string, number> = {
+  tobias: 68,
+  judith: 69,
+  wisdom: 70,
+  ecclesiasticus: 71,
+  baruch: 73,
+  '1-machabees': 74,
+  '2-machabees': 75,
+}
+const protocanon = drbIndex.filter((b) => !deuterocanonical.has(b.slug))
+
 const bollsCatalog = (books: typeof drbIndex): BollsBook[] =>
-  books.map((b, i) => ({
-    bookid: i + 1,
-    name: portugueseNames[b.slug] ?? `Livro ${i + 1}`,
-    chronorder: i + 1,
-    chapters: 1,
-  }))
+  books.map((b) => {
+    const bookid = deuterocanonicalIds[b.slug] ?? protocanon.findIndex((p) => p.slug === b.slug) + 1
+    return {
+      bookid,
+      name: portugueseNames[b.slug] ?? `Livro ${bookid}`,
+      chronorder: bookid,
+      chapters: 1,
+    }
+  })
 
 async function loadContent() {
   vi.resetModules()
@@ -63,25 +79,33 @@ beforeEach(() => {
 })
 
 describe('getChapter — resolving a DRB slug against a foreign-language translation', () => {
-  it('resolves by canon position, not by book name', async () => {
+  it('resolves a slug onto Bolls ids, not by book name or Catholic position', async () => {
     fetchBooks.mockResolvedValue(bollsCatalog(drbIndex))
     const { getChapter } = await loadContent()
 
-    const result = await getChapter('CNBB', 'matthew', 1)
+    const result = await getChapter('VULG', 'matthew', 1)
 
-    expect(fetchChapter).toHaveBeenCalledWith('CNBB', 47, 1)
+    // 47th in the Catholic canon, yet 40 in a 73-book Bolls translation too.
+    expect(fetchChapter).toHaveBeenCalledWith('VULG', 40, 1)
     expect(result.fallback).toBeUndefined()
     expect(result.verses[0].text).toBe('O livro da genealogia de Jesus Cristo')
   })
 
-  it('skips the deuterocanonical gap when the translation carries 66 books', async () => {
-    const protestant = drbIndex.filter((b) => !deuterocanonical.has(b.slug))
-    fetchBooks.mockResolvedValue(bollsCatalog(protestant))
+  it('finds a deuterocanonical book after the protocanon', async () => {
+    fetchBooks.mockResolvedValue(bollsCatalog(drbIndex))
+    const { getChapter } = await loadContent()
+
+    await getChapter('RSV2CE', 'tobias', 1)
+
+    expect(fetchChapter).toHaveBeenCalledWith('RSV2CE', 68, 1)
+  })
+
+  it('resolves the same id when the translation carries 66 books', async () => {
+    fetchBooks.mockResolvedValue(bollsCatalog(protocanon))
     const { getChapter } = await loadContent()
 
     await getChapter('ALMEIDA', 'matthew', 1)
 
-    // 47 in the Catholic canon, 40 once the seven books are gone.
     expect(fetchChapter).toHaveBeenCalledWith('ALMEIDA', 40, 1)
   })
 

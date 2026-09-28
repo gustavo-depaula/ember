@@ -290,6 +290,11 @@ function resolveFlowWithContext(
   // Process sequentially so select `as` variables propagate to subsequent sections
   const result: RenderedSection[] = []
   for (const section of sections) {
+    // A select resolves against the context before its own binding: an hour
+    // select `on: 'hour'` bound `as: 'hour'` would otherwise re-read its own
+    // choice ('Vespera') as the clock hour, match no map range, and fall back
+    // to the first option.
+    const sectionCtx = ctx
     if (section.type === 'select' && section.as) {
       if ('from' in section) {
         // From-data select: resolve the array, pick the selected item, bind it
@@ -312,7 +317,7 @@ function resolveFlowWithContext(
         ctx = { ...ctx, templateVars: { ...ctx.templateVars, [section.as]: selectedId } }
       }
     }
-    result.push(...resolveSection(section, ctx, engineContext))
+    result.push(...resolveSection(section, sectionCtx, engineContext))
   }
   return result
 }

@@ -1,7 +1,25 @@
 import { describe, expect, it } from 'vitest'
+import breviaryFlow from '../../../../../../content/practices/breviary/flow.json'
 import { flow, makeContext, makeEngineContext } from '../../../__fixtures__/engine'
 import { resolveFlow } from '../../../engine'
-import type { FlowSection, RepeatEntry } from '../../../types'
+import type { FlowDefinition, FlowSection, RepeatEntry } from '../../../types'
+
+describe('resolveFlow — hour select', () => {
+  it("opens the breviary on the hour of the day's clock", () => {
+    const hourAt = (h: number) => {
+      const [select] = resolveFlow(
+        breviaryFlow as FlowDefinition,
+        makeContext({ now: new Date(2026, 8, 28, h, 2) }),
+        makeEngineContext(),
+      )
+      return select?.type === 'select' ? select.selectedId : undefined
+    }
+    expect(hourAt(5)).toBe('Matutinum')
+    expect(hourAt(9)).toBe('Prima')
+    expect(hourAt(17)).toBe('Vespera')
+    expect(hourAt(21)).toBe('Completorium')
+  })
+})
 
 describe('resolveFlow — pickerStyle: cards', () => {
   it('passes pickerStyle through and derives an excerpt per option', () => {

@@ -230,6 +230,18 @@ def build_practices(b: Builder) -> None:
                 dh, ds = b.write_json_blob(dd)
                 name = file_to_logical.get(rel, rel)
                 data_files.append({"name": name, "hash": dh, "size": ds})
+        # Data shared with another practice is pointed at, like a shared flow
+        # (`"office-hymns": "../divine-office/data/office-hymns.json"`).
+        for logical, path in (manifest_data.get("data") or {}).items():
+            if not isinstance(path, str) or path.startswith("data/"):
+                continue
+            shared_path = (d / path).resolve()
+            if not shared_path.is_file():
+                raise SystemExit(f"practice {pid}: data `{logical}` points at missing {path}")
+            with shared_path.open(encoding="utf-8") as fh:
+                dd = json.load(fh)
+            dh, ds = b.write_json_blob(dd)
+            data_files.append({"name": logical, "hash": dh, "size": ds})
 
         tracks_files = []
         tracks_dir = d / "tracks"
