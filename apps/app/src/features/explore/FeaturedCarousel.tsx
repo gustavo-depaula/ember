@@ -33,7 +33,7 @@ export function FeaturedCarousel({
   const count = blocks.length + (leading ? 1 : 0)
   if (count === 0) return null
 
-  const cardW = containerW > 0 ? Math.round(containerW * cardShare) : 0
+  const cardW = Math.round(containerW * cardShare)
   const cardH = Math.round(cardW * cardAspect)
   const interval = cardW + gap
 
@@ -43,32 +43,35 @@ export function FeaturedCarousel({
   }
 
   const onMomentumEnd = (e: NativeSyntheticEvent<NativeScrollEvent>) => {
-    if (interval === 0) return
     setActive(Math.round(e.nativeEvent.contentOffset.x / interval))
   }
 
   return (
     <YStack gap="$sm" onLayout={onLayout}>
-      <ScrollView
-        horizontal
-        showsHorizontalScrollIndicator={false}
-        snapToInterval={interval || undefined}
-        decelerationRate="fast"
-        disableIntervalMomentum
-        contentContainerStyle={{ gap }}
-        onMomentumScrollEnd={onMomentumEnd}
-      >
-        {leading && (
-          <View width={cardW || undefined} height={cardH || undefined}>
-            {leading}
-          </View>
-        )}
-        {blocks.map(({ key, ...block }) => (
-          <View key={key} width={cardW || undefined} height={cardH || undefined}>
-            <FeatureBlock {...block} />
-          </View>
-        ))}
-      </ScrollView>
+      {/* Unmeasured, a card sizes to its content and its cover draws huge for a
+          frame; hold the row back until the column's width is known. */}
+      {cardW > 0 && (
+        <ScrollView
+          horizontal
+          showsHorizontalScrollIndicator={false}
+          snapToInterval={interval}
+          decelerationRate="fast"
+          disableIntervalMomentum
+          contentContainerStyle={{ gap }}
+          onMomentumScrollEnd={onMomentumEnd}
+        >
+          {leading && (
+            <View width={cardW} height={cardH}>
+              {leading}
+            </View>
+          )}
+          {blocks.map(({ key, ...block }) => (
+            <View key={key} width={cardW} height={cardH}>
+              <FeatureBlock {...block} />
+            </View>
+          ))}
+        </ScrollView>
+      )}
       {count > 1 && (
         <XStack
           alignSelf="center"
