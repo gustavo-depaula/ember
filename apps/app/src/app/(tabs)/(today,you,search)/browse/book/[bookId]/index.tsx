@@ -14,6 +14,7 @@ import { BookHero } from '@/features/books/BookHero'
 import { useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
+  bookLang,
   buildCompletedLeafIndex,
   buildLeafCountIndex,
   buildTitleLookup,
@@ -70,10 +71,10 @@ export default function BookDetailScreen() {
   // and languages meanwhile.
   const { data: book, entry } = useBookManifest(bookId)
 
-  const lang = useMemo(() => {
-    const langs = book?.languages ?? entry?.langs ?? []
-    return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
-  }, [book?.languages, entry?.langs, contentLanguage])
+  const lang = useMemo(
+    () => bookLang(book?.languages ?? entry?.langs ?? [], contentLanguage),
+    [book?.languages, entry?.langs, contentLanguage],
+  )
 
   const { flow: leaves, readableIds } = useReadingFlow(book, lang)
   const titleLookup = useMemo(

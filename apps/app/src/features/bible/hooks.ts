@@ -1,9 +1,12 @@
 import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
+import { useShallow } from 'zustand/react/shallow'
 
 import { type BollsLanguageEntry, fetchAllTranslations } from '@/lib/bolls'
 import { type Book, getBooks, getChapter } from '@/lib/content'
+import { useBibleStore } from '@/stores/bibleStore'
+import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { findAdjacentChapter } from './bookNav'
 
@@ -26,6 +29,25 @@ export function useBookName(translation: string, bookId: string) {
   const book = books?.find((b) => b.id === bookId)
   if (!book && !Number.isNaN(Number.parseInt(bookId, 10))) return undefined
   return t(`bookName.${bookId}`, { defaultValue: book?.name ?? bookId })
+}
+
+/**
+ * Where to resume the Bible, or undefined while there's nothing to resume —
+ * still loading, or parked at its Genesis-1 default.
+ */
+export function useBibleResume() {
+  const translation = usePreferencesStore((s) => s.translation)
+  const { bookId, chapter, updatedAt, hydrated } = useBibleStore(
+    useShallow((s) => ({
+      bookId: s.bookId,
+      chapter: s.chapter,
+      updatedAt: s.updatedAt,
+      hydrated: s.hydrated,
+    })),
+  )
+  const bookName = useBookName(translation, bookId)
+  if (!hydrated || !bookName || (bookId === 'genesis' && chapter === 1)) return undefined
+  return { bookId, bookName, chapter, updatedAt }
 }
 
 export function useChapter(translation: string, bookId: string, chapter: number) {

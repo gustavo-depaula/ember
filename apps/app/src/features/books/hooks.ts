@@ -2,6 +2,7 @@ import { useQuery } from '@tanstack/react-query'
 import { useMemo } from 'react'
 
 import { getBookCatalogEntry, getResidentBook, loadBook } from '@/content/books'
+import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 
 /**
@@ -12,14 +13,9 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
  * fetch. `entry` (the lightweight catalog hit) is returned alongside for title /
  * language fallbacks while the body loads.
  */
-export function useBookManifest(bookId: string | undefined) {
-  const catalogVersion = useCatalogVersion()
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
-  const entry = useMemo(
-    () => (bookId ? getBookCatalogEntry(bookId) : undefined),
-    [bookId, catalogVersion],
-  )
-  const query = useQuery({
+/** Query options for a book's manifest — shared so every reader of it hits one cache entry. */
+export function bookManifestQuery(bookId: string | undefined, entry: CatalogEntry | undefined) {
+  return {
     queryKey: ['book-manifest', entry?.hash],
     queryFn: async () => {
       const book = bookId ? await loadBook(bookId) : undefined
@@ -29,6 +25,16 @@ export function useBookManifest(bookId: string | undefined) {
     enabled: !!entry,
     initialData: () => (bookId ? getResidentBook(bookId) : undefined),
     staleTime: Number.POSITIVE_INFINITY,
-  })
+  }
+}
+
+export function useBookManifest(bookId: string | undefined) {
+  const catalogVersion = useCatalogVersion()
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion is the change signal.
+  const entry = useMemo(
+    () => (bookId ? getBookCatalogEntry(bookId) : undefined),
+    [bookId, catalogVersion],
+  )
+  const query = useQuery(bookManifestQuery(bookId, entry))
   return { ...query, entry }
 }

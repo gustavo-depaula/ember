@@ -127,6 +127,11 @@ export function flattenReadingFlow(
   return flow
 }
 
+/** The content language to read a book in: the preferred one when the book has it, else its first. */
+export function bookLang(langs: readonly string[], preferred: string): string {
+  return langs.includes(preferred) ? preferred : (langs[0] ?? 'en-US')
+}
+
 /** A node's title in `lang`, falling back to the first language present. */
 export function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
   return (title as Record<string, string>)[lang] ?? Object.values(title)[0]

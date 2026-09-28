@@ -18,7 +18,7 @@ import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { buildTitleLookup, openBookSession } from './bookContent'
+import { bookLang, buildTitleLookup, openBookSession } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -26,7 +26,11 @@ import {
   setBookPaletteOverride,
 } from './bookPaletteOverride'
 import { ChapterCompleteToast } from './ChapterCompleteToast'
-import { listCompletedChapters, markChapterCompleted } from './chapterCompletions'
+import {
+  chapterCompleteFraction,
+  listCompletedChapters,
+  markChapterCompleted,
+} from './chapterCompletions'
 import { type ChapterTiming, estimateChapterTiming, persistChapterTimings } from './chapterTimings'
 import { FootnoteSheet } from './FootnoteSheet'
 import {
@@ -181,8 +185,7 @@ export function BookReader({ bookId, chapter }: Props) {
 
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'
-    const langs = bookEntry.languages ?? []
-    return langs.includes(contentLanguage) ? contentLanguage : (langs[0] ?? 'en-US')
+    return bookLang(bookEntry.languages ?? [], contentLanguage)
   }, [bookEntry, contentLanguage])
 
   const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
@@ -560,7 +563,7 @@ export function BookReader({ bookId, chapter }: Props) {
             cursor.save({ chapterId, fraction: msg.fraction })
             const cached = session?.getCachedChapter(msg.index)
             if (cached) recordTiming(chapterId, cached)
-            if (msg.fraction >= 0.95 && !justMarkedRef.current.has(chapterId)) {
+            if (msg.fraction >= chapterCompleteFraction && !justMarkedRef.current.has(chapterId)) {
               justMarkedRef.current.add(chapterId)
               sessionChaptersDoneRef.current += 1
               const completedTitle = titleLookup.get(chapterId)

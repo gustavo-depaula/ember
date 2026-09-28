@@ -50,6 +50,12 @@ export function bookCursorId(bookId: string): string {
   return `book/${bookId}`
 }
 
+/** The book whose reading position `id` is; undefined for any other cursor (bookmarks, highlights, …). */
+export function bookIdFromCursorId(id: string): string | undefined {
+  const [kind, bookId, ...rest] = id.split('/')
+  return kind === 'book' && bookId && rest.length === 0 ? bookId : undefined
+}
+
 export function bookmarkCursorPrefix(bookId: string): string {
   return `book/${bookId}/bookmark/`
 }

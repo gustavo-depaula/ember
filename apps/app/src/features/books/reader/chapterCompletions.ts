@@ -5,6 +5,9 @@ import {
   setCursor,
 } from '@/db/repositories/cursors'
 
+/** How far through a chapter counts as having read it. */
+export const chapterCompleteFraction = 0.95
+
 export async function markChapterCompleted(bookId: string, chapterId: string): Promise<void> {
   await setCursor(
     chapterCompletionId(bookId, chapterId),
@@ -13,7 +16,7 @@ export async function markChapterCompleted(bookId: string, chapterId: string): P
 }
 
 /**
- * Set of chapter ids the reader has finished in this book (fraction ≥ 0.95
+ * Set of chapter ids the reader has finished in this book (fraction ≥ chapterCompleteFraction
  * at some point in the past). Empty tombstones (soft-deletes) are filtered.
  */
 export function listCompletedChapters(bookId: string): Set<string> {

@@ -1,38 +1,72 @@
+import type { ImageSource } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 
-import { useBookName } from '@/features/bible'
+import { useBibleResume } from '@/features/bible'
+import { useBooksInProgress } from '@/features/books/useBooksInProgress'
+import { coverFor, type TileCover } from '@/features/covers'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
+import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
-import { useBibleStore } from '@/stores/bibleStore'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { localizeContent } from '@/lib/i18n'
+
+type Item = {
+  key: string
+  updatedAt: number
+  title: string
+  subtitle?: string
+  image?: ImageSource
+  cover?: TileCover
+  onPress: () => void
+}
 
 /**
- * "Continue" — the strip on Today: resume the Bible where the user left off.
- * Hidden entirely when there's nothing in progress (Bible at its Genesis-1
- * default), so a fresh Today doesn't open on a stale rail.
+ * "Continue" — the strip on Today: every book in progress plus the Bible, most
+ * recently read first. Hidden entirely when nothing is in progress, so a fresh
+ * Today doesn't open on a stale rail.
  */
 export function ContinueRow() {
   const { t } = useTranslation()
   const router = useRouter()
-  const { bookId, chapter, hydrated } = useBibleStore()
-  const translation = usePreferencesStore((s) => s.translation)
-  const bookName = useBookName(translation, bookId)
+  const books = useBooksInProgress()
+  const bible = useBibleResume()
 
-  const showBible = hydrated && !(bookId === 'genesis' && chapter === 1) && bookName
+  const items: Item[] = books.map(({ bookId, entry, chapterTitle, updatedAt }) => ({
+    key: `book/${bookId}`,
+    updatedAt,
+    title: localizeContent(entry.name ?? entry.title ?? {}),
+    subtitle: chapterTitle,
+    image: artFor(`book/${bookId}`),
+    cover: coverFor(entry),
+    onPress: () => router.push({ pathname: '/browse/book/[bookId]/read', params: { bookId } }),
+  }))
+  if (bible)
+    items.push({
+      key: `bible/${bible.bookId}`,
+      updatedAt: bible.updatedAt ?? 0,
+      title: `${bible.bookName} ${bible.chapter}`,
+      subtitle: t('bible.discovery.continueReading'),
+      cover: { kind: 'book', format: 'missal' },
+      onPress: () => router.push('/bible/reader'),
+    })
 
-  if (!showBible) return null
+  if (items.length === 0) return null
+
+  items.sort((a, b) => b.updatedAt - a.updatedAt)
 
   return (
     <ArtCarousel title={t('library.continue')}>
-      <ArtCoverCard
-        title={`${bookName} ${chapter}`}
-        subtitle={t('bible.discovery.continueReading')}
-        tone={toneForKey(`bible/${bookId}`)}
-        size={140}
-        onPress={() => router.push('/bible/reader')}
-      />
+      {items.map(({ key, ...item }) => (
+        <ArtCoverCard
+          key={key}
+          {...item}
+          tone={toneForKey(key)}
+          size={118}
+          aspectRatio={1.5}
+          radius={4}
+        />
+      ))}
     </ArtCarousel>
   )
 }

@@ -6,19 +6,16 @@ import { XStack, YStack } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
 import { blockInk, toneForKey } from '@/features/explore/bgColor'
-import { useBibleStore } from '@/stores/bibleStore'
-import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useBookName } from '../hooks'
+import { useBibleResume } from '../hooks'
 
 export function ContinueReading() {
   const { t } = useTranslation()
   const router = useRouter()
-  const { bookId, chapter, hydrated } = useBibleStore()
-  const translation = usePreferencesStore((s) => s.translation)
-  const bookName = useBookName(translation, bookId)
+  const resume = useBibleResume()
 
-  if (!hydrated || (bookId === 'genesis' && chapter === 1) || !bookName) return null
+  if (!resume) return null
 
+  const { bookId, bookName, chapter } = resume
   const tone = toneForKey(`bible-continue-${bookId}`)
 
   return (
