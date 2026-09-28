@@ -2,13 +2,16 @@
   "id": "ambrose-repentance",
   "cover": "quarter",
   "name": {
-    "en-US": "On Repentance"
+    "en-US": "On Repentance",
+    "pt-BR": "Sobre a Penitência"
   },
   "author": {
-    "en-US": "Ambrose (340-397)"
+    "en-US": "Ambrose (340-397)",
+    "pt-BR": "Santo Ambrósio (340-397)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,13 +24,15 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     }
   ]
