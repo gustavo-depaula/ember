@@ -37,6 +37,12 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 import { usePractice } from './hooks/usePractice'
 import type { usePracticeCompletion } from './hooks/usePracticeCompletion'
 import type { PracticeContent } from './hooks/usePracticeContent'
+import {
+  PracticeActionIcons,
+  PracticeActionSheets,
+  PracticeVariant,
+  usePracticeActions,
+} from './PracticeActions'
 import { derivePracticeFlowStatus } from './status'
 
 type CompletionApi = ReturnType<typeof usePracticeCompletion>
@@ -74,7 +80,7 @@ export function PracticeFlowView({
     case 'loading':
       // derivePracticeFlowStatus guarantees manifest is defined here.
       if (!manifest) return null
-      return <PracticeLoading name={localizeContent(manifest.name)} />
+      return <PracticeLoading manifest={manifest} />
     case 'missing':
       return <PracticeMissing onBack={() => router.back()} />
     case 'content-error':
@@ -119,6 +125,7 @@ function PracticeReady({
   const readingMargin = useReadingMargin()
   const practiceName = localizeContent(manifest.name)
   const [settingsOpen, setSettingsOpen] = useState(false)
+  const actions = usePracticeActions(manifest)
 
   // Mount the primitive tree in chunks: long practices (Mass, offices) render
   // hundreds of blocks, and mounting them all at once blocks the JS thread
@@ -147,7 +154,12 @@ function PracticeReady({
         <YStack flex={1}>
           <ScreenLayout>
             <YStack gap="$lg" paddingVertical="$lg">
-              <PracticeHeader name={practiceName} date={now} />
+              <PracticeHeader
+                name={practiceName}
+                date={now}
+                variant={<PracticeVariant actions={actions} />}
+                actions={<PracticeActionIcons actions={actions} />}
+              />
 
               <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
                 {sections.slice(0, visibleCount).map((primitive, index) => (
@@ -215,15 +227,28 @@ function PracticeReady({
           </GlassIconButton>
 
           <ReadingSettingsSheet open={settingsOpen} onClose={() => setSettingsOpen(false)} />
+          <PracticeActionSheets actions={actions} />
         </YStack>
       </ImageViewerProvider>
     </PreprocessProvider>
   )
 }
 
-// A devocionário title page: the name between two printer's rules, the upper one
-// broken by a red ✠. Ink and rubric red only — no gold on the reading page.
-function PracticeHeader({ name, date }: { name: string; date: Date }) {
+// A devocionário title page: a printer's rule broken by a red ✠, the day's date,
+// the name, then what the old frontispiece offered (variant, plan, save…) in
+// `children`. Ink and rubric red only — no gold on the reading page.
+function PracticeHeader({
+  name,
+  date,
+  variant,
+  actions,
+}: {
+  name: string
+  date: Date
+  variant?: ReactNode
+  actions?: ReactNode
+}) {
+  const { t } = useTranslation()
   return (
     <YStack alignItems="center" paddingTop="$md">
       <XStack
@@ -242,38 +267,64 @@ function PracticeHeader({ name, date }: { name: string; date: Date }) {
       <Typography
         variant="sacred-title"
         fontSize={46}
-        lineHeight={54}
-        paddingTop="$lg"
+        lineHeight={58}
+        paddingTop="$xl"
         paddingBottom="$xs"
       >
-        {name}
+        {balanceTitle(name)}
       </Typography>
-      <Typography variant="caption" fontSize="$2" paddingBottom="$lg">
-        {formatLocalized(date, 'EEEE, MMMM d, yyyy')}
+      {variant}
+      {/* Lowercase, like a dateline under a title — pt-BR already reads that way. */}
+      <Typography variant="caption" fontSize={18} lineHeight={24} paddingTop="$xs">
+        {formatLocalized(date, t('practice.headerDate')).toLocaleLowerCase()}
       </Typography>
-      <YStack
-        alignSelf="stretch"
-        height={0.5}
-        backgroundColor="$borderColor"
-        accessibilityElementsHidden
-        importantForAccessibility="no-hide-descendants"
-      />
+      {/* The lower rule runs into the page's actions at its right end. */}
+      <XStack alignSelf="stretch" alignItems="center" gap="$md" paddingTop="$lg">
+        <YStack
+          flex={1}
+          height={0.5}
+          backgroundColor="$borderColor"
+          accessibilityElementsHidden
+          importantForAccessibility="no-hide-descendants"
+        />
+        {actions}
+      </XStack>
     </YStack>
   )
+}
+
+// Set like a title page: a long name breaks into two even lines ("Stations of /
+// the Cross") at the space nearest its middle, instead of running rule to rule
+// and leaving a lone word below. RN has no `text-wrap: balance`.
+function balanceTitle(name: string) {
+  if (name.length < 15) return name
+  const middle = name.length / 2
+  let split = -1
+  for (let i = name.indexOf(' '); i !== -1; i = name.indexOf(' ', i + 1)) {
+    if (split === -1 || Math.abs(i - middle) < Math.abs(split - middle)) split = i
+  }
+  if (split === -1) return name
+  return `${name.slice(0, split)}\n${name.slice(split + 1)}`
 }
 
 // The real header over a skeleton of the page, so nothing above the fold moves
 // when the prayers arrive. External fetches (Compendium → vatican.va, Bible
 // chapters → bolls.life) can hold this for several seconds.
-function PracticeLoading({ name }: { name: string }) {
+function PracticeLoading({ manifest }: { manifest: PracticeManifest }) {
   const { t } = useTranslation()
   const now = useToday()
   const readingMargin = useReadingMargin()
+  const actions = usePracticeActions(manifest)
   return (
     <YStack flex={1}>
       <ScreenLayout>
         <YStack gap="$lg" paddingVertical="$lg">
-          <PracticeHeader name={name} date={now} />
+          <PracticeHeader
+            name={localizeContent(manifest.name)}
+            date={now}
+            variant={<PracticeVariant actions={actions} />}
+            actions={<PracticeActionIcons actions={actions} />}
+          />
           <YStack
             paddingHorizontal={readingMargin}
             paddingTop="$md"
@@ -286,6 +337,7 @@ function PracticeLoading({ name }: { name: string }) {
         </YStack>
       </ScreenLayout>
       <BackButton />
+      <PracticeActionSheets actions={actions} />
     </YStack>
   )
 }

@@ -9,6 +9,12 @@ export default function PrayScreen() {
   }>()
   const parsedProgramDay = programDay !== undefined ? Number(programDay) : undefined
   return (
-    <PracticeFlow practiceId={practiceId ?? ''} programDay={parsedProgramDay} slotKey={slotKey} />
+    // Keyed so switching variant in place (setParams) starts the flow fresh.
+    <PracticeFlow
+      key={practiceId}
+      practiceId={practiceId ?? ''}
+      programDay={parsedProgramDay}
+      slotKey={slotKey}
+    />
   )
 }

@@ -1,5 +1,4 @@
 export { PracticeFlow } from './PracticeFlow'
-export { PracticeHero } from './PracticeHero'
 export { PracticeTeachingContent } from './PracticeTeachingContent'
 export { ProgramRestartModal } from './ProgramRestartModal'
 export { SearchAutocomplete } from './SearchAutocomplete'

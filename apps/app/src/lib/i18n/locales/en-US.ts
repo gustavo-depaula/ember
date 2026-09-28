@@ -983,7 +983,6 @@ export default {
     all: 'All',
     addToPlan: 'Add to Plan',
     alreadyInPlan: 'In your Plan',
-    alreadyInPlanAsVariant: 'You already have this in your Plan as {{name}}.',
     estimatedTime: '{{minutes}} min',
     about: 'About',
     history: 'History',
@@ -1293,6 +1292,8 @@ export default {
     variantsOf: 'Variants of {{name}}',
     selectVariant: 'Select {{name}}',
     previewVariant: 'Preview {{name}}',
+    form: 'Form',
+    headerDate: 'EEEE, MMMM d',
   },
 
   practices: {
@@ -1349,6 +1350,7 @@ export default {
     },
   },
   a11y: {
+    practiceMore: 'More options',
     makeStanding: 'Always carry “{{text}}” in this prayer',
     unmakeStanding: 'Stop always carrying “{{text}}” in this prayer',
     dropFromToday: 'Do not carry “{{text}}” today',

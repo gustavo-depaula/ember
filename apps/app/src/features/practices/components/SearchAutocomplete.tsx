@@ -6,7 +6,6 @@ import { XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-
 import {
   buildSearchIndex,
   type SearchKind,
@@ -102,7 +101,7 @@ const ResultRow = memo(function ResultRow({
 
   function handlePress() {
     if (result.kind === 'practice') {
-      router.push({ pathname: '/practices/[manifestId]', params: { manifestId: result.id } })
+      router.push({ pathname: '/pray/[practiceId]', params: { practiceId: result.id } })
       return
     }
     if (result.kind === 'book') {

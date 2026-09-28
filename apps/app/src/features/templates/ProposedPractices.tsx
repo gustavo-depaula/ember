@@ -13,7 +13,6 @@ import {
 } from '@/content/manifestTypes'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
 import { localizeContent } from '@/lib/i18n'
-
 import { cadenceLabel } from './cadence'
 import { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
 
@@ -102,9 +101,7 @@ function PracticeLine({ practice }: { practice: PlanOfLifeTemplatePractice }) {
 
   return (
     <AnimatedPressable
-      onPress={() =>
-        router.push({ pathname: '/practices/[manifestId]', params: { manifestId: ref } })
-      }
+      onPress={() => router.push({ pathname: '/pray/[practiceId]', params: { practiceId: ref } })}
       accessibilityRole="link"
       accessibilityLabel={name}
     >

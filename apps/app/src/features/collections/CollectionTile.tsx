@@ -29,7 +29,6 @@ import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex } from '@/features/explore/bgColor'
 import { useAllSlots } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
-
 import { collectionHref } from './navigation'
 
 export function isReadingRef(ref: string): boolean {
@@ -107,7 +106,7 @@ export function CollectionTile({
     icon = body?.icon ?? entry?.icon ?? 'prayer'
     image = undefined
     inPlan = allSlots.some((s) => s.enabled && s.practice_id === id)
-    href = { pathname: '/practices/[manifestId]', params: { manifestId: id } }
+    href = { pathname: '/pray/[practiceId]', params: { practiceId: id } }
   }
 
   const label = localizeContent(title)

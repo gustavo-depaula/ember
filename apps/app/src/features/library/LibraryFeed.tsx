@@ -16,7 +16,6 @@ import { blockInk, toneByIndex, toneForKey } from '@/features/explore/bgColor'
 import { ShortcutRow } from '@/features/home'
 import { useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
-
 import { CreateCollectionSheet } from './CreateCollectionSheet'
 import { useSavedItems } from './savedHooks'
 import { useUserCollections } from './userCollectionHooks'
@@ -78,7 +77,7 @@ export function LibraryFeed() {
   const goCollection = (id: string) =>
     router.push({ pathname: '/browse/[collectionId]', params: { collectionId: bareId(id) } })
   const goPractice = (id: string) =>
-    router.push({ pathname: '/practices/[manifestId]', params: { manifestId: bareId(id) } })
+    router.push({ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } })
 
   return (
     <>

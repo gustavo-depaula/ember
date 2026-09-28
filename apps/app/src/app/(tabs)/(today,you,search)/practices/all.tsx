@@ -217,7 +217,7 @@ export default function AllPracticesScreen() {
 
   const handleCardPress = useCallback(
     (manifestId: string) => {
-      router.push({ pathname: '/practices/[manifestId]', params: { manifestId } })
+      router.push({ pathname: '/pray/[practiceId]', params: { practiceId: manifestId } })
     },
     [router],
   )

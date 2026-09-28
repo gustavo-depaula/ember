@@ -987,7 +987,6 @@ export default {
     all: 'Todas',
     addToPlan: 'Adicionar ao Plano',
     alreadyInPlan: 'No seu Plano',
-    alreadyInPlanAsVariant: 'Você já tem esta prática no seu Plano como {{name}}.',
     estimatedTime: '{{minutes}} min',
     about: 'Sobre',
     history: 'Hist\u00f3ria',
@@ -1297,6 +1296,9 @@ export default {
     variantsOf: 'Variantes de {{name}}',
     selectVariant: 'Selecionar {{name}}',
     previewVariant: 'Pré-visualizar {{name}}',
+    form: 'Forma',
+    // date-fns pattern; the literal "de" is quoted so date-fns keeps it.
+    headerDate: "EEEE, d 'de' MMMM",
   },
 
   practices: {
@@ -1353,6 +1355,7 @@ export default {
     },
   },
   a11y: {
+    practiceMore: 'Mais opções',
     makeStanding: 'Levar sempre “{{text}}” nesta oração',
     unmakeStanding: 'Não levar mais sempre “{{text}}” nesta oração',
     dropFromToday: 'Não levar “{{text}}” hoje',
