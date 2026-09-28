@@ -394,22 +394,46 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"ca": "Déu omnipotent i etern, que heu donat als vostres servidors de professar la veritable fe i, així, de conèixer la glòria de la Trinitat eterna i adorar-ne la Unitat, de poder i sobirania; feu que la fermesa d'aquesta nostra fe ens valgui sempre de ser protegits contra tota adversitat. Per nostre Senyor Jesucrist.\n\n℟. Amén.",
-				"da": "Almægtige, evige Gud, du som i bekendelsen af den sande tro har givet dine tjenere at erkende den evige Treenigheds herlighed og i majestætens kraft at tilbede Enheden: Giv, at vi ved fastheden i den samme tro altid må værnes mod al modgang. Ved Kristus, vor Herre.\n\n℟. Amen.",
-				"en-US": "Almighty, ever-living God, who has permitted us thy servants, in our profession of the true faith, to acknowledge the glory of the eternal Trinity, and in the power of that majesty to adore the Unity, grant, that by steadfastness in this same faith, we may be ever guarded against all adversity: through Christ our Lord.\n\n℟. Amen.",
-				"es": "Oh Dios todopoderoso y eterno, que con la luz de la verdadera fe diste a tus siervos conocer la gloria de la Trinidad eterna, y adorar la Unidad en el poder de tu majestad: haz, te suplicamos, que, por la firmeza de esa misma fe, seamos defendidos siempre de toda adversidad. Por Cristo nuestro Señor.\n\n℟. Amén.",
-				"fr": "Dieu éternel et tout-puissant, Tu as permis à tes enfants de professer la vraie foi, de connaître ainsi la gloire de l’éternelle Trinité et d’adorer sa souveraine et toute-puissante Unité : accorde-nous de trouver dans la fermeté de cette foi une constante protection contre toutes les difficultés. Par Jésus-Christ notre Seigneur.\n\n℟. Amen.",
-				"hr": "Svemogući vječni Bože, koji si nam, svojim slugama, udijelio milost da u svjetlu prave vjere veličanstvo Vječnoga Trojstva znamo i u tom veličanstvu Jedinstvu klanjamo, udijeli nam čvrstu vjeru, da i u najtežim nevoljama od staze krjeposti ne odstupimo i da nas ništa od Tvoje ljubavi ne odijeli. Po Gospodinu našemu Isusu Kristu, Sinu Tvojemu, koji s Tobom živi i kraljuje u jedinstvo Duha Svetoga, Bog, po sve vijeke vijekova.\n\n℟. Amen.",
-				"hu": "Mindenható, örök Isten, aki a Te szolgáidnak megengedted, hogy igaz hittel megismerjék és megvallják az örök Szentháromság dicsőségét és hódoljanak az Oszthatatlan előtt, add meg nekünk, hogy ennek a hitnek szilárdságában védelmet találjunk minden ellenségtől. Krisztus, a mi Urunk által.\n\n℟. Ámen.",
-				"it": "Onnipotente e sempiterno Dio che nella confessione della vera fede hai concesso ai tuoi servi di conoscere la gloria della Trinità eterna e di adorare l' Unità nella potenza della maestà: ti preghiamo che per la fortezza della nostra fede, ci sentiamo sempre liberi da ogni avversità. Per Cristo nostro Signore.\n\n℟. Amen.",
-				"la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis, in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia maiestátis adoráre unitátem: quǽsumus; ut, eiúsdem fídei firmitáte, ab ómnibus semper muniámur adversis. Per Christum Dóminum nostrum.\n\n℟. Amen.",
-				"pt-BR": "Ó Deus todo-poderoso e eterno, que com a luz da verdadeira fé destes aos vossos servos conhecer a glória da Trindade eterna, e adorar a Unidade no poder da vossa majestade: fazei, Vo-lo pedimos que, pela firmeza dessa mesma fé, sejamos defendidos sempre de toda a adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.\n\n℟. Amém.",
-				"pt-PT": "Ó Deus todo-poderoso e eterno, que com a luz da verdadeira fé concedestes aos Vossos servos conhecer a glória da Trindade eterna, e adorar a unidade no poder da Vossa majestade: fazei, Vo-lo pedimos, que, pela firmeza dessa mesma fé, sejamos defendidos sempre de toda a adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.\n\n℟. Ámen.",
-				"ro": "Atotputernic și veșnic Dumnezeule, care ai acordat slujitorilor Tăi, mărturisind Credința adevărată, să recunoaștem slava Treimii veșnice și să adorăm unitatea celor trei persoane în mărirea puterii Sale, dă-ne, Te rugăm, ca, prin statornicia în aceeași credință, să putem fi apărați împotriva tuturor adversităților. Prin Cristos Domnul nostru.\n\n℟. Amin.",
-				"sk": "Všemohúci večný Bože, ktorý si doprial svojim sluhom vo\nvyznávaní pravej viery poznať slávu večnej Trojice a v sile velebnosti klaňať\nsa jednote, prosíme ťa, aby sme na základe tejto viery boli posilnení proti\nvšetkým protivenstvám. Skrze Krista nášho Pána.\n\n℟. Amen.",
-				"sl": "Vsemogočni večni Bog, ki si dal svojim služabnikom, da v pravi veri spoznavajo slavo večne Trojice in v mogočnem veličastvu častijo enoto, prosimo te, naj bomo po tej neomajni veri vselej obvarovani vsakršne nevarnosti. Po Kristusu, našem Gospodu.\n\n℟. Amen.",
-				"sv": "Allsmäktige och evige Gud som i bekännelsen av den sanna tron har givit dina tjänare kunskapen om den eviga Treenigheten och att tillbe Enheten i Majestätets kraft. Vi ber dig att vi, styrkta av denna vår tro alltid blir befriade från alla motgångar. Genom Kristus vår Herre.\n\n℟. Amen."
+				"ca": "Déu omnipotent i etern, que heu donat als vostres servidors de professar la veritable fe i, així, de conèixer la glòria de la Trinitat eterna i adorar-ne la Unitat, de poder i sobirania; feu que la fermesa d'aquesta nostra fe ens valgui sempre de ser protegits contra tota adversitat. Per nostre Senyor Jesucrist.",
+				"da": "Almægtige, evige Gud, du som i bekendelsen af den sande tro har givet dine tjenere at erkende den evige Treenigheds herlighed og i majestætens kraft at tilbede Enheden: Giv, at vi ved fastheden i den samme tro altid må værnes mod al modgang. Ved Kristus, vor Herre.",
+				"en-US": "Almighty, ever-living God, who has permitted us thy servants, in our profession of the true faith, to acknowledge the glory of the eternal Trinity, and in the power of that majesty to adore the Unity, grant, that by steadfastness in this same faith, we may be ever guarded against all adversity: through Christ our Lord.",
+				"es": "Oh Dios todopoderoso y eterno, que con la luz de la verdadera fe diste a tus siervos conocer la gloria de la Trinidad eterna, y adorar la Unidad en el poder de tu majestad: haz, te suplicamos, que, por la firmeza de esa misma fe, seamos defendidos siempre de toda adversidad. Por Cristo nuestro Señor.",
+				"fr": "Dieu éternel et tout-puissant, Tu as permis à tes enfants de professer la vraie foi, de connaître ainsi la gloire de l’éternelle Trinité et d’adorer sa souveraine et toute-puissante Unité : accorde-nous de trouver dans la fermeté de cette foi une constante protection contre toutes les difficultés. Par Jésus-Christ notre Seigneur.",
+				"hr": "Svemogući vječni Bože, koji si nam, svojim slugama, udijelio milost da u svjetlu prave vjere veličanstvo Vječnoga Trojstva znamo i u tom veličanstvu Jedinstvu klanjamo, udijeli nam čvrstu vjeru, da i u najtežim nevoljama od staze krjeposti ne odstupimo i da nas ništa od Tvoje ljubavi ne odijeli. Po Gospodinu našemu Isusu Kristu, Sinu Tvojemu, koji s Tobom živi i kraljuje u jedinstvo Duha Svetoga, Bog, po sve vijeke vijekova.",
+				"hu": "Mindenható, örök Isten, aki a Te szolgáidnak megengedted, hogy igaz hittel megismerjék és megvallják az örök Szentháromság dicsőségét és hódoljanak az Oszthatatlan előtt, add meg nekünk, hogy ennek a hitnek szilárdságában védelmet találjunk minden ellenségtől. Krisztus, a mi Urunk által.",
+				"it": "Onnipotente e sempiterno Dio che nella confessione della vera fede hai concesso ai tuoi servi di conoscere la gloria della Trinità eterna e di adorare l' Unità nella potenza della maestà: ti preghiamo che per la fortezza della nostra fede, ci sentiamo sempre liberi da ogni avversità. Per Cristo nostro Signore.",
+				"la": "Omnípotens sempitérne Deus, qui dedísti fámulis tuis, in confessióne veræ fídei, ætérnæ Trinitátis glóriam agnóscere, et in poténtia maiestátis adoráre unitátem: quǽsumus; ut, eiúsdem fídei firmitáte, ab ómnibus semper muniámur adversis. Per Christum Dóminum nostrum.",
+				"pt-BR": "Ó Deus todo-poderoso e eterno, que com a luz da verdadeira fé destes aos vossos servos conhecer a glória da Trindade eterna, e adorar a Unidade no poder da vossa majestade: fazei, Vo-lo pedimos que, pela firmeza dessa mesma fé, sejamos defendidos sempre de toda a adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.",
+				"pt-PT": "Ó Deus todo-poderoso e eterno, que com a luz da verdadeira fé concedestes aos Vossos servos conhecer a glória da Trindade eterna, e adorar a unidade no poder da Vossa majestade: fazei, Vo-lo pedimos, que, pela firmeza dessa mesma fé, sejamos defendidos sempre de toda a adversidade. Por Nosso Senhor Jesus Cristo, Vosso Filho, na unidade do Espírito Santo.",
+				"ro": "Atotputernic și veșnic Dumnezeule, care ai acordat slujitorilor Tăi, mărturisind Credința adevărată, să recunoaștem slava Treimii veșnice și să adorăm unitatea celor trei persoane în mărirea puterii Sale, dă-ne, Te rugăm, ca, prin statornicia în aceeași credință, să putem fi apărați împotriva tuturor adversităților. Prin Cristos Domnul nostru.",
+				"sk": "Všemohúci večný Bože, ktorý si doprial svojim sluhom vo\nvyznávaní pravej viery poznať slávu večnej Trojice a v sile velebnosti klaňať\nsa jednote, prosíme ťa, aby sme na základe tejto viery boli posilnení proti\nvšetkým protivenstvám. Skrze Krista nášho Pána.",
+				"sl": "Vsemogočni večni Bog, ki si dal svojim služabnikom, da v pravi veri spoznavajo slavo večne Trojice in v mogočnem veličastvu častijo enoto, prosimo te, naj bomo po tej neomajni veri vselej obvarovani vsakršne nevarnosti. Po Kristusu, našem Gospodu.",
+				"sv": "Allsmäktige och evige Gud som i bekännelsen av den sanna tron har givit dina tjänare kunskapen om den eviga Treenigheten och att tillbe Enheten i Majestätets kraft. Vi ber dig att vi, styrkta av denna vår tro alltid blir befriade från alla motgångar. Genom Kristus vår Herre."
 			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"ca": "Amén.",
+						"da": "Amen.",
+						"en-US": "Amen.",
+						"es": "Amén.",
+						"fr": "Amen.",
+						"hr": "Amen.",
+						"hu": "Ámen.",
+						"it": "Amen.",
+						"la": "Amen.",
+						"pt-BR": "Amém.",
+						"pt-PT": "Ámen.",
+						"ro": "Amin.",
+						"sk": "Amen.",
+						"sl": "Amen.",
+						"sv": "Amen."
+					}
+				}
+			]
 		},
 		{
 			"type": "rubric",

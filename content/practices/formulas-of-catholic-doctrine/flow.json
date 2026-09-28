@@ -92,23 +92,189 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Estimaràs Déu sobre totes les coses.\n\n2. No juraràs el nom de Déu en va.\n\n3. Santificaràs les festes.\n\n4. Honraràs pare i mare.\n\n5. No mataràs.\n\n6. No faràs accions impures.\n\n7. No robaràs.\n\n8. No diràs falsos testimonis ni mentiràs.\n\n9. No consentiràs pensaments ni desigs impurs.\n\n10. No desitjaràs els béns del proïsme.",
-				"da": "1. Du skal ikke have andre guder end mig.\n\n2. Du må ikke misbruge Herren din Guds navn.\n\n3. Du skal holde hviledagen hellig.\n\n4. Du skal ære din far og din mor.\n\n5. Du må ikke slå ihjel.\n\n6. Du må ikke bryde ægteskabet.\n\n7. Du må ikke stjæle.\n\n8. Du må ikke aflægge falsk vidnesbyrd imod din næste.\n\n9. Du må ikke begære din næstes hustru.\n\n10. Du må ikke begære, hvad der tilhører din næste.",
-				"en-US": "1. I am the Lord your God: you shall not have strange gods before Me.\n\n2. You shall not take the name of the Lord your God in vain.\n\n3. Remember to keep holy the Lord’s Day.\n\n4. Honour your father and mother.\n\n5. You shall not kill.\n\n6. You shall not commit adultery.\n\n7. You shall not steal.\n\n8. You shall not bear false witness against your neighbour.\n\n9. You shall not covet your neighbour’s wife.\n\n10. You shall not covet your neighbour’s goods.",
-				"es": "1. Amarás a Dios sobre todas las cosas.\n\n2. No tomarás el nombre de Dios en vano.\n\n3. Santificarás las fiestas.\n\n4. Honrarás a tu padre y a tu madre.\n\n5. No matarás.\n\n6. No cometerás actos impuros.\n\n7. No robarás.\n\n8. No darás falso testimonio ni mentirás.\n\n9. No consentirás pensamientos ni deseos impuros.\n\n10. No codiciarás los bienes ajenos.",
-				"fr": "l. Tu adoreras Dieu seul et tu l'aimeras plus que tout.\n\n2. Tu ne prononceras le nom de Dieu qu'avec respect.\n\n3. Tu sanctifieras le jour du Seigneur.\n\n4. Tu honoreras ton père et ta mère.\n\n5. Tu ne tueras pas.\n\n6. Tu ne feras pas d'impureté.\n\n7. Tu ne voleras pas.\n\n8. Tu ne mentiras pas.\n\n9. Tu n'auras pas de désir impur volontaire.\n\n10. Tu ne désireras pas injustement le bien des autres.",
-				"hr": "1. Ja sam Gospodin Bog tvoj, nemaj drugih bogova uz mene.\n\n2. Ne izusti imena Gospodina Boga svoga uzalud.\n\n3. Spomeni se da svetkuješ dan Gospodnji.\n\n4. Poštuj oca i majku da dugo živiš i dobro ti bude na zemlji.\n\n5. Ne ubij.\n\n6. Ne sagriješi bludno.\n\n7. Ne ukradi.\n\n8. Ne reci lažna svjedočanstva.\n\n9. Ne poželi tuđeg ženidbenog druga.\n\n10. Ne poželi nikakve tuđe stvari.",
-				"hu": "1. Uradat, Istenedet imádd, és csak neki szolgálj!\n\n2. Isten nevét hiába ne vedd!\n\n3. Az Úr napját szenteld meg!\n\n4. Atyádat és anyádat tiszteld!\n\n5. Ne ölj!\n\n6. Ne paráználkodj!\n\n7. Ne lopj!\n\n8. Ne hazudj, és mások becsületében kárt ne tégy!\n\n9. Felebarátod házastársát ne kívánd!\n\n10. Mások tulajdonát ne kívánd!",
-				"it": "1. Io sono il Signore, tuo Dio. Non avere altro Dio al di fuori di me.\n\n2. Non nominare il nome di Dio invano.\n\n3. Ricordati di santificare le feste.\n\n4. Onora il padre e la madre.\n\n5. Non uccidere.\n\n6. Non commettere atti impuri.\n\n7. Non rubare.\n\n8. Non dire falsa testimonianza.\n\n9. Non desiderare la donna d'altri.\n\n10. Non desiderare la roba d'altri.",
-				"la": "1. Ego sum Dominus Deus tuus: non habebis deos alios coram me.\n\n2. Non assumes Nomen Domini Dei tui in vanum.\n\n3. Memento ut dies festos sanctifices.\n\n4. Honora patrem tuum et matrem tuam.\n\n5. Non occides.\n\n6. Non moechaberis.\n\n7. Non furtum facies.\n\n8. Non loqueris contra proximum tuum falsum testimonium.\n\n9. Non desiderabis uxorem eius.\n\n10. Non concupisces eius bona.",
-				"pt-BR": "1. Amar a Deus sobre todas as coisas.\n\n2. Não tomar seu Santo Nome em vão.\n\n3. Guardar domingos e festas de guarda\n\n4. Honra pai e mãe.\n\n5. Não matar.\n\n6. Não pecar contra a castidade.\n\n7. Não furtar.\n\n8. Não levantar falso testemunho.\n\n9. Não desejar a mulher do próximo.\n\n10. Não cobiçar as coisas alheias.",
-				"pt-PT": "1. Adorar a Deus e amá-l'O sobre todas as coisas\n\n2. Não invocar o santo Nome de Deus em vão.\n\n3. Santificar os domingos e festas de guarda.\n\n4. Honrar pai e mãe (e os outros legítimos superiores).\n\n5. Não matar (nem causar outro dano, no corpo ou na alma, a si mesmo ou ao próximo).\n\n6. Guardar castidade nas palavras e nas obras.\n\n7. Não furtar (nem injustamente reter ou danificar os bens do próximo).\n\n8. Não levantar falsos testemunhos (nem de qualquer outro modo faltar à verdade ou difamar o próximo).\n\n9. Guardar castidade nos pensamentos e nos desejos.\n\n10. Não cobiçar as coisas alheias.",
-				"ro": "1. Eu sunt Domnul Dumnezeul tău, să nu ai alţi dumnezei în afară de mine, să nu-ţi faci chip cioplit ca să te închini lui.\n\n2. Să nu iei numele Domnului Dumnezeului tău în zadar.\n\n3. Adu-ţi aminte să sfinţeşti ziua Domnului.\n\n4. Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti mult pe pământ.\n\n5. Să nu ucizi.\n\n6. Să nu faci fapte necurate.\n\n7. Să nu furi.\n\n8. Să nu mărturiseşti strâmb împotriva aproapelui tău.\n\n9. Să nu pofteşti femeia aproapelui tău.\n\n10. Să nu pofteşti casa aproapelui tău şi nici un lucru ce este al lui.",
-				"sl": "1. Veruj v enega Boga\n\n2. Ne skruni božjega imena\n\n3. Posvečuj Gospodov dan\n\n4. Spoštuj očeta in mater, da boš dolgo živel in ti bo dobro na zemlji\n\n5. Ne ubijaj\n\n6. Ne nečistuj\n\n7. Ne kradi\n\n8. Ne pričaj po krivem\n\n9. Ne želi svojega bližnjega žene\n\n10. Ne želi svojega bližnjega blaga",
-				"sv": "1. Jag är Herren, din Gud. Du skall inga andra gudar ha vid sidan av mig.\n\n2. Du skall inte missbruka Herrens, din Guds, namn.\n\n3. Kom ihåg att iaktta helgdagarna.\n\n4. Hedra din far och din mor.\n\n5. Du skall inte dräpa.\n\n6. Du skall inte begå äktenskapsbrott.\n\n7. Du skall inte stjäla.\n\n8. Du skall inte bära falskt vittnesbörd.\n\n9. Du skall inte ha begär till din nästas hustru.\n\n10. Du skall inte ha begär till din nästas egendom."
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Estimaràs Déu sobre totes les coses.",
+						"da": "1. Du skal ikke have andre guder end mig.",
+						"en-US": "1. I am the Lord your God: you shall not have strange gods before Me.",
+						"es": "1. Amarás a Dios sobre todas las cosas.",
+						"fr": "l. Tu adoreras Dieu seul et tu l'aimeras plus que tout.",
+						"hr": "1. Ja sam Gospodin Bog tvoj, nemaj drugih bogova uz mene.",
+						"hu": "1. Uradat, Istenedet imádd, és csak neki szolgálj!",
+						"it": "1. Io sono il Signore, tuo Dio. Non avere altro Dio al di fuori di me.",
+						"la": "1. Ego sum Dominus Deus tuus: non habebis deos alios coram me.",
+						"pt-BR": "1. Amar a Deus sobre todas as coisas.",
+						"pt-PT": "1. Adorar a Deus e amá-l'O sobre todas as coisas",
+						"ro": "1. Eu sunt Domnul Dumnezeul tău, să nu ai alţi dumnezei în afară de mine, să nu-ţi faci chip cioplit ca să te închini lui.",
+						"sl": "1. Veruj v enega Boga",
+						"sv": "1. Jag är Herren, din Gud. Du skall inga andra gudar ha vid sidan av mig."
+					}
+				},
+				{
+					"text": {
+						"ca": "2. No juraràs el nom de Déu en va.",
+						"da": "2. Du må ikke misbruge Herren din Guds navn.",
+						"en-US": "2. You shall not take the name of the Lord your God in vain.",
+						"es": "2. No tomarás el nombre de Dios en vano.",
+						"fr": "2. Tu ne prononceras le nom de Dieu qu'avec respect.",
+						"hr": "2. Ne izusti imena Gospodina Boga svoga uzalud.",
+						"hu": "2. Isten nevét hiába ne vedd!",
+						"it": "2. Non nominare il nome di Dio invano.",
+						"la": "2. Non assumes Nomen Domini Dei tui in vanum.",
+						"pt-BR": "2. Não tomar seu Santo Nome em vão.",
+						"pt-PT": "2. Não invocar o santo Nome de Deus em vão.",
+						"ro": "2. Să nu iei numele Domnului Dumnezeului tău în zadar.",
+						"sl": "2. Ne skruni božjega imena",
+						"sv": "2. Du skall inte missbruka Herrens, din Guds, namn."
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Santificaràs les festes.",
+						"da": "3. Du skal holde hviledagen hellig.",
+						"en-US": "3. Remember to keep holy the Lord’s Day.",
+						"es": "3. Santificarás las fiestas.",
+						"fr": "3. Tu sanctifieras le jour du Seigneur.",
+						"hr": "3. Spomeni se da svetkuješ dan Gospodnji.",
+						"hu": "3. Az Úr napját szenteld meg!",
+						"it": "3. Ricordati di santificare le feste.",
+						"la": "3. Memento ut dies festos sanctifices.",
+						"pt-BR": "3. Guardar domingos e festas de guarda",
+						"pt-PT": "3. Santificar os domingos e festas de guarda.",
+						"ro": "3. Adu-ţi aminte să sfinţeşti ziua Domnului.",
+						"sl": "3. Posvečuj Gospodov dan",
+						"sv": "3. Kom ihåg att iaktta helgdagarna."
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Honraràs pare i mare.",
+						"da": "4. Du skal ære din far og din mor.",
+						"en-US": "4. Honour your father and mother.",
+						"es": "4. Honrarás a tu padre y a tu madre.",
+						"fr": "4. Tu honoreras ton père et ta mère.",
+						"hr": "4. Poštuj oca i majku da dugo živiš i dobro ti bude na zemlji.",
+						"hu": "4. Atyádat és anyádat tiszteld!",
+						"it": "4. Onora il padre e la madre.",
+						"la": "4. Honora patrem tuum et matrem tuam.",
+						"pt-BR": "4. Honra pai e mãe.",
+						"pt-PT": "4. Honrar pai e mãe (e os outros legítimos superiores).",
+						"ro": "4. Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti mult pe pământ.",
+						"sl": "4. Spoštuj očeta in mater, da boš dolgo živel in ti bo dobro na zemlji",
+						"sv": "4. Hedra din far och din mor."
+					}
+				},
+				{
+					"text": {
+						"ca": "5. No mataràs.",
+						"da": "5. Du må ikke slå ihjel.",
+						"en-US": "5. You shall not kill.",
+						"es": "5. No matarás.",
+						"fr": "5. Tu ne tueras pas.",
+						"hr": "5. Ne ubij.",
+						"hu": "5. Ne ölj!",
+						"it": "5. Non uccidere.",
+						"la": "5. Non occides.",
+						"pt-BR": "5. Não matar.",
+						"pt-PT": "5. Não matar (nem causar outro dano, no corpo ou na alma, a si mesmo ou ao próximo).",
+						"ro": "5. Să nu ucizi.",
+						"sl": "5. Ne ubijaj",
+						"sv": "5. Du skall inte dräpa."
+					}
+				},
+				{
+					"text": {
+						"ca": "6. No faràs accions impures.",
+						"da": "6. Du må ikke bryde ægteskabet.",
+						"en-US": "6. You shall not commit adultery.",
+						"es": "6. No cometerás actos impuros.",
+						"fr": "6. Tu ne feras pas d'impureté.",
+						"hr": "6. Ne sagriješi bludno.",
+						"hu": "6. Ne paráználkodj!",
+						"it": "6. Non commettere atti impuri.",
+						"la": "6. Non moechaberis.",
+						"pt-BR": "6. Não pecar contra a castidade.",
+						"pt-PT": "6. Guardar castidade nas palavras e nas obras.",
+						"ro": "6. Să nu faci fapte necurate.",
+						"sl": "6. Ne nečistuj",
+						"sv": "6. Du skall inte begå äktenskapsbrott."
+					}
+				},
+				{
+					"text": {
+						"ca": "7. No robaràs.",
+						"da": "7. Du må ikke stjæle.",
+						"en-US": "7. You shall not steal.",
+						"es": "7. No robarás.",
+						"fr": "7. Tu ne voleras pas.",
+						"hr": "7. Ne ukradi.",
+						"hu": "7. Ne lopj!",
+						"it": "7. Non rubare.",
+						"la": "7. Non furtum facies.",
+						"pt-BR": "7. Não furtar.",
+						"pt-PT": "7. Não furtar (nem injustamente reter ou danificar os bens do próximo).",
+						"ro": "7. Să nu furi.",
+						"sl": "7. Ne kradi",
+						"sv": "7. Du skall inte stjäla."
+					}
+				},
+				{
+					"text": {
+						"ca": "8. No diràs falsos testimonis ni mentiràs.",
+						"da": "8. Du må ikke aflægge falsk vidnesbyrd imod din næste.",
+						"en-US": "8. You shall not bear false witness against your neighbour.",
+						"es": "8. No darás falso testimonio ni mentirás.",
+						"fr": "8. Tu ne mentiras pas.",
+						"hr": "8. Ne reci lažna svjedočanstva.",
+						"hu": "8. Ne hazudj, és mások becsületében kárt ne tégy!",
+						"it": "8. Non dire falsa testimonianza.",
+						"la": "8. Non loqueris contra proximum tuum falsum testimonium.",
+						"pt-BR": "8. Não levantar falso testemunho.",
+						"pt-PT": "8. Não levantar falsos testemunhos (nem de qualquer outro modo faltar à verdade ou difamar o próximo).",
+						"ro": "8. Să nu mărturiseşti strâmb împotriva aproapelui tău.",
+						"sl": "8. Ne pričaj po krivem",
+						"sv": "8. Du skall inte bära falskt vittnesbörd."
+					}
+				},
+				{
+					"text": {
+						"ca": "9. No consentiràs pensaments ni desigs impurs.",
+						"da": "9. Du må ikke begære din næstes hustru.",
+						"en-US": "9. You shall not covet your neighbour’s wife.",
+						"es": "9. No consentirás pensamientos ni deseos impuros.",
+						"fr": "9. Tu n'auras pas de désir impur volontaire.",
+						"hr": "9. Ne poželi tuđeg ženidbenog druga.",
+						"hu": "9. Felebarátod házastársát ne kívánd!",
+						"it": "9. Non desiderare la donna d'altri.",
+						"la": "9. Non desiderabis uxorem eius.",
+						"pt-BR": "9. Não desejar a mulher do próximo.",
+						"pt-PT": "9. Guardar castidade nos pensamentos e nos desejos.",
+						"ro": "9. Să nu pofteşti femeia aproapelui tău.",
+						"sl": "9. Ne želi svojega bližnjega žene",
+						"sv": "9. Du skall inte ha begär till din nästas hustru."
+					}
+				},
+				{
+					"text": {
+						"ca": "10. No desitjaràs els béns del proïsme.",
+						"da": "10. Du må ikke begære, hvad der tilhører din næste.",
+						"en-US": "10. You shall not covet your neighbour’s goods.",
+						"es": "10. No codiciarás los bienes ajenos.",
+						"fr": "10. Tu ne désireras pas injustement le bien des autres.",
+						"hr": "10. Ne poželi nikakve tuđe stvari.",
+						"hu": "10. Mások tulajdonát ne kívánd!",
+						"it": "10. Non desiderare la roba d'altri.",
+						"la": "10. Non concupisces eius bona.",
+						"pt-BR": "10. Não cobiçar as coisas alheias.",
+						"pt-PT": "10. Não cobiçar as coisas alheias.",
+						"ro": "10. Să nu pofteşti casa aproapelui tău şi nici un lucru ce este al lui.",
+						"sl": "10. Ne želi svojega bližnjega blaga",
+						"sv": "10. Du skall inte ha begär till din nästas egendom."
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -130,22 +296,170 @@
 			}
 		},
 		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Feliços els pobres en l’esperit: el Regne del cel és per a ells.",
+						"da": "1. Salige er de fattige i ånden, for Himmeriget er deres.",
+						"en-US": "1. Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+						"es": "1. Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los cielos.",
+						"fr": "1. Heureux les pauvres de cœur : le Royaume des cieux est à eux !",
+						"hr": "1. Blago siromasima u duhu, jer je njihovo kraljevstvo nebesko!",
+						"hu": "1. Boldogok a lélekben szegények, mert övék a mennyek országa.",
+						"it": "1. Beati i poveri in spirito, perché di essi è il regno dei cieli.",
+						"la": "1. Beati pauperes spiritu, quoniam ipsorum est Regnum caelorum.",
+						"pt-BR": "Bem-aventurados os pobres de coração, porque deles é o reino dos céus.",
+						"pt-PT": "1. Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.",
+						"ro": "1. Fericiți cei săraci în duh, pentru că a lor este împărăția cerurilor..",
+						"sl": "1. Blagor ubogim v duhu, kajti njihovo je nebeško kraljestvo.",
+						"sv": "1. Saliga de som är fattiga i anden, dem tillhör himmelriket."
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Feliços els qui estan de dol: vindrà el dia que seran consolats.",
+						"da": "2. Salige er de, som sørger, for de skal trøstes.",
+						"en-US": "2. Blessed are the meek: for they shall possess the land.",
+						"es": "2. Bienaventurados los mansos, porque ellos poseerán la tierra.",
+						"fr": "2. Heureux les doux : ils obtiendront la terre promise !",
+						"hr": "2. Blago ožalošćenima: oni će se utješiti!",
+						"hu": "2. Boldogok, akik szomorúak, mert majd megvigasztalják őket.",
+						"it": "2. Beati gli afflitti, perché saranno consolati.",
+						"la": "2. Beati, qui lugent, quoniam ipsi consolabuntur.",
+						"pt-BR": "Bem-aventurados os mansos, porque herdarão a terra.",
+						"pt-PT": "2. Bem-aventurados os mansos, porque possuirão a terra.",
+						"ro": "2. Fericiți cei blânzi, pentru că ei vor moșteni pământul",
+						"sl": "2. Blagor žalostnim, kajti potolaženi bodo.",
+						"sv": "2. Saliga de som sörjer, de skall bli tröstade."
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Feliços els humils: són ells els qui posseiran el país.",
+						"da": "3. Salige er de sagtmodige, for de skal arve jorden.",
+						"en-US": "3. Blessed are they who mourn: for they shall be comforted.",
+						"es": "3. Bienaventurados los que lloran, porque ellos serán consolados.",
+						"fr": "3. Heureux ceux qui pleurent : ils seront consolés !",
+						"hr": "3. Blago krotkima: oni će baštiniti zemlju!",
+						"hu": "3. Boldogok a szelídek, mert övék lesz a föld.",
+						"it": "3. Beati i miti, perché erediteranno la terra.",
+						"la": "3. Beati mites, quoniam ipsi possidebunt terram.",
+						"pt-BR": "Bem-aventurados os que choram, porque serão consolados.",
+						"pt-PT": "3. Bem-aventurados os que choram, porque serão consolados.",
+						"ro": "3. Fericiți cei care plâng, pentru că ei vor fi consolați.",
+						"sl": "3. Blagor krotkim, kajti deželo bodo posedli.",
+						"sv": "3. Saliga de ödmjuka, de skall ärva landet."
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Feliços els qui tenen fam i set de ser justos: vindrà el dia que seran saciats.",
+						"da": "4. Salige er de, som hungrer og tørster efter retfærdigheden, for de skal mættes.",
+						"en-US": "4. Blessed are they that hunger and thirst after justice: for they shall have their fill.",
+						"es": "4. Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.",
+						"fr": "4. Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés !",
+						"hr": "4. Blago gladnima i žednima pravednosti: oni će se nasititi!",
+						"hu": "4. Boldogok, akik éhezik és szomjazzák az igazságot, mert majd eltelnek vele.",
+						"it": "4. Beati coloro che hanno fame e sete di giustizia, perché saranno saziati.",
+						"la": "4. Beati, qui esuriunt et sitiunt iustitiam, quoniam ipsi saturabuntur.",
+						"pt-BR": "Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.",
+						"pt-PT": "4. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.",
+						"ro": "4. Fericiți cei cărora le este foame și sete de dreptate, pentru că ei vor fi săturați.",
+						"sl": "4. Blagor lačnim in žejnim pravičnosti, kajti nasičeni bodo.",
+						"sv": "4. Saliga de som hungrar och törstar efter rättfärdigheten, de skall bli mättade."
+					}
+				},
+				{
+					"text": {
+						"ca": "5. Feliços els compassius: Déu els compadirà.",
+						"da": "5. Salige er de barmhjertige, for de skal møde barmhjertighed.",
+						"en-US": "5. Blessed are the merciful: for they shall obtain mercy.",
+						"es": "5. Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.",
+						"fr": "5. Heureux les miséricordieux : ils obtiendront miséricorde !",
+						"hr": "5. Blago milosrdnima: oni će zadobiti milosrđe!",
+						"hu": "5. Boldogok az irgalmasok, mert majd nekik is irgalmaznak.",
+						"it": "5. Beati i misericordiosi, perché troveranno misericordia.",
+						"la": "5. Beati misericordes, quia ipsi misericordiam consequentur.",
+						"pt-BR": "Bem-aventurados os misericordiosos, porque alcançarão misericórdia.",
+						"pt-PT": "5. Bem-aventurados os misericordiosos, porque alcançarão misericórdia.",
+						"ro": "5. Fericiți cei milostivi, pentru că ei vor afla milostivire.",
+						"sl": "5. Blagor usmiljenim, kajti usmiljenje bodo dosegli.",
+						"sv": "5. Saliga de barmhärtiga, de skall möta barmhärtighet."
+					}
+				},
+				{
+					"text": {
+						"ca": "6. Feliços els nets de cor: són ells els qui veuran Déu.",
+						"da": "6. Salige er de rene af hjertet, for de skal se Gud.",
+						"en-US": "6. Blessed are the clean of heart: for they shall see God.",
+						"es": "6. Bienaventurados los limpios de corazón, porque ellos verán a Dios.",
+						"fr": "6. Heureux les cœurs purs : ils verront Dieu !",
+						"hr": "6. Blago čistima srcem: oni će Boga gledati!",
+						"hu": "6. Boldogok a tiszta szívűek, mert meglátják az Istent.",
+						"it": "6. Beati i puri di cuore, perché vedranno Dio.",
+						"la": "6. Beati mundo corde, quoniam ipsi Deum videbunt.",
+						"pt-BR": "Bem-aventurados os puros de coração, porque verão a Deus.",
+						"pt-PT": "6. Bem-aventurados os puros de coração, porque verão a Deus.",
+						"ro": "6. Fericiți cei cu inima curată, pentru că ei Îl vor vedea pe Dumnezeu.",
+						"sl": "6. Blagor čistim v srcu, kajti Boga bodo gledali.",
+						"sv": "6. Saliga de renhjärtade, de skall se Gud."
+					}
+				},
+				{
+					"text": {
+						"ca": "7. Feliços els qui posen pau: Déu els reconeixerà com a fills.",
+						"da": "7. Salige er de, som stifter fred, for de skal kaldes Guds børn.",
+						"en-US": "7. Blessed are the peacemakers: for they shall be called the children of God.",
+						"es": "7. Bienaventurados los que trabajan por la paz, porque ellos serán llamados hijos de Dios.",
+						"fr": "7. Heureux les artisans de paix : ils seront appelés fils de Dieu !",
+						"hr": "7. Blago mirotvorcima: oni će se sinovima Božjim zvati!",
+						"hu": "7. Boldogok a békességben élők, mert Isten fiainak hívják majd őket.",
+						"it": "7. Beati gli operatori di pace, perché saranno chiamati figli di Dio.",
+						"la": "7. Beati pacifici, quoniam filii Dei vocabuntur.",
+						"pt-BR": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+						"pt-PT": "7. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.",
+						"ro": "7. Fericiți făcătorii de pace, pentru ei vor fi numiţi fii ai lui Dumnezeu.",
+						"sl": "7. Blagor miroljubnim, kajti ti bodo božji otroci.",
+						"sv": "7. Saliga de som håller fred, de skall kallas Guds söner."
+					}
+				},
+				{
+					"text": {
+						"ca": "8. Feliços els perseguits pel fet de ser justos: el Regne del cel és per a ells.",
+						"da": "8. Salige er de, som forfølges på grund af retfærdighed, for Himmeriget er deres.",
+						"en-US": "8. Blessed are they that suffer persecution for the sake of righteousness, for theirs is the kingdom of heaven.",
+						"es": "8. Bienaventurados los perseguidos a causa de la justicia, porque de ellos es el Reino de los cielos.",
+						"fr": "8. Heureux ceux qui sont persécutés pour la justice : le Royaume des cieux est à eux !",
+						"hr": "8. Blago progonjenima zbog pravednosti: njihovo je kraljevstvo nebesko!",
+						"hu": "8. Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.",
+						"it": "8. Beati i perseguitati a causa della giustizia, perché di essi è il regno dei cieli.",
+						"la": "8. Beati, qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est Regnum caelorum.",
+						"pt-BR": "Bem-aventurados os perseguidos por causa da justiça, porque deles é o reino dos céus.",
+						"pt-PT": "8. Bem-aventurados os que sofrem perseguição por amor da justiça, porque deles é o Reino dos Céus.",
+						"ro": "8. Fericiți cei persecutați pentru dreptate, pentru că a lor este Împărăția cerurilor.",
+						"sl": "8. Blagor tistim, ki so zaradi pravičnosti preganjani, kajti njihovo je nebeško kraljestvo.",
+						"sv": "8. Saliga de som förföljs för rättfärdighetens skull, dem tillhör himmelriket."
+					}
+				}
+			]
+		},
+		{
 			"type": "prayer",
 			"inline": {
-				"ca": "1. Feliços els pobres en l’esperit: el Regne del cel és per a ells.\n\n2. Feliços els qui estan de dol: vindrà el dia que seran consolats.\n\n3. Feliços els humils: són ells els qui posseiran el país.\n\n4. Feliços els qui tenen fam i set de ser justos: vindrà el dia que seran saciats.\n\n5. Feliços els compassius: Déu els compadirà.\n\n6. Feliços els nets de cor: són ells els qui veuran Déu.\n\n7. Feliços els qui posen pau: Déu els reconeixerà com a fills.\n\n8. Feliços els perseguits pel fet de ser justos: el Regne del cel és per a ells.\n\n9. Feliços vosaltres quan per causa meva, us ofendran, us perseguiran i escamparan contra vosaltres tota mena de calúmnies: alegreu-vos-en i feu festa, perquè la vostra recompensa és gran en el cel.",
-				"da": "1. Salige er de fattige i ånden, for Himmeriget er deres.\n\n2. Salige er de, som sørger, for de skal trøstes.\n\n3. Salige er de sagtmodige, for de skal arve jorden.\n\n4. Salige er de, som hungrer og tørster efter retfærdigheden, for de skal mættes.\n\n5. Salige er de barmhjertige, for de skal møde barmhjertighed.\n\n6. Salige er de rene af hjertet, for de skal se Gud.\n\n7. Salige er de, som stifter fred, for de skal kaldes Guds børn.\n\n8. Salige er de, som forfølges på grund af retfærdighed, for Himmeriget er deres.\n\n– Salige er I, når man på grund af mig håner jer og forfølger jer og lyver jer alt muligt ondt på.",
-				"en-US": "1. Blessed are the poor in spirit: for theirs is the kingdom of heaven.\n\n2. Blessed are the meek: for they shall possess the land.\n\n3. Blessed are they who mourn: for they shall be comforted.\n\n4. Blessed are they that hunger and thirst after justice: for they shall have their fill.\n\n5. Blessed are the merciful: for they shall obtain mercy.\n\n6. Blessed are the clean of heart: for they shall see God.\n\n7. Blessed are the peacemakers: for they shall be called the children of God.\n\n8. Blessed are they that suffer persecution for the sake of righteousness, for theirs is the kingdom of heaven.\n\n– Blessed are you when they insult you and persecute you and utter every kind of evil against you falsely because of Me.Rejoice and be glad, for your reward will be great in heaven.",
-				"es": "1. Bienaventurados los pobres de espíritu, porque de ellos es el Reino de los cielos.\n\n2. Bienaventurados los mansos, porque ellos poseerán la tierra.\n\n3. Bienaventurados los que lloran, porque ellos serán consolados.\n\n4. Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados.\n\n5. Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.\n\n6. Bienaventurados los limpios de corazón, porque ellos verán a Dios.\n\n7. Bienaventurados los que trabajan por la paz, porque ellos serán llamados hijos de Dios.\n\n8. Bienaventurados los perseguidos a causa de la justicia, porque de ellos es el Reino de los cielos.\n\n– Bienaventurados seréis cuando os injurien, os persigan y digan contra vosotros toda clase de calumnias por mi causa. Alegraos y regocijaos porque vuestra recompensa será grande en el cielo.",
-				"fr": "1. Heureux les pauvres de cœur : le Royaume des cieux est à eux !\n\n2. Heureux les doux : ils obtiendront la terre promise !\n\n3. Heureux ceux qui pleurent : ils seront consolés !\n\n4. Heureux ceux qui ont faim et soif de la justice : ils seront rassasiés !\n\n5. Heureux les miséricordieux : ils obtiendront miséricorde !\n\n6. Heureux les cœurs purs : ils verront Dieu !\n\n7. Heureux les artisans de paix : ils seront appelés fils de Dieu !\n\n8. Heureux ceux qui sont persécutés pour la justice : le Royaume des cieux est à eux !\n\n9. Heureux serez-vous si l’on vous insulte, si l’on vous persécute et si l’on dit faussement toute sorte de mal contre vous, à cause de moi.\n\nRéjouissez-vous, soyez dans l’allégresse, car votre récompense sera grande dans les cieux !",
-				"hr": "1. Blago siromasima u duhu, jer je njihovo kraljevstvo nebesko!\n\n2. Blago ožalošćenima: oni će se utješiti!\n\n3. Blago krotkima: oni će baštiniti zemlju!\n\n4. Blago gladnima i žednima pravednosti: oni će se nasititi!\n\n5. Blago milosrdnima: oni će zadobiti milosrđe!\n\n6. Blago čistima srcem: oni će Boga gledati!\n\n7. Blago mirotvorcima: oni će se sinovima Božjim zvati!\n\n8. Blago progonjenima zbog pravednosti: njihovo je kraljevstvo nebesko!\n\n– Blago vama kad vas – zbog mene – pogrde i prognaju i sve zlo slažu protiv vas! Radujte se i kličite: velika je plaća vaša na nebesima! Ta progonili su tako proroke prije vas!",
-				"hu": "1. Boldogok a lélekben szegények, mert övék a mennyek országa.\n\n2. Boldogok, akik szomorúak, mert majd megvigasztalják őket.\n\n3. Boldogok a szelídek, mert övék lesz a föld.\n\n4. Boldogok, akik éhezik és szomjazzák az igazságot, mert majd eltelnek vele.\n\n5. Boldogok az irgalmasok, mert majd nekik is irgalmaznak.\n\n6. Boldogok a tiszta szívűek, mert meglátják az Istent.\n\n7. Boldogok a békességben élők, mert Isten fiainak hívják majd őket.\n\n8. Boldogok, akik üldözést szenvednek az igazságért, mert övék a mennyek országa.\n\n– Boldogok vagytok, ha miattam gyaláznak és üldöznek benneteket, és hazudozva minden rosszat rátok fognak énmiattam. Örüljetek és ujjongjatok, mert nagy lesz a mennyben a jutalmatok!",
-				"it": "1. Beati i poveri in spirito, perché di essi è il regno dei cieli.\n\n2. Beati gli afflitti, perché saranno consolati.\n\n3. Beati i miti, perché erediteranno la terra.\n\n4. Beati coloro che hanno fame e sete di giustizia, perché saranno saziati.\n\n5. Beati i misericordiosi, perché troveranno misericordia.\n\n6. Beati i puri di cuore, perché vedranno Dio.\n\n7. Beati gli operatori di pace, perché saranno chiamati figli di Dio.\n\n8. Beati i perseguitati a causa della giustizia, perché di essi è il regno dei cieli.",
-				"la": "1. Beati pauperes spiritu, quoniam ipsorum est Regnum caelorum.\n\n2. Beati, qui lugent, quoniam ipsi consolabuntur.\n\n3. Beati mites, quoniam ipsi possidebunt terram.\n\n4. Beati, qui esuriunt et sitiunt iustitiam, quoniam ipsi saturabuntur.\n\n5. Beati misericordes, quia ipsi misericordiam consequentur.\n\n6. Beati mundo corde, quoniam ipsi Deum videbunt.\n\n7. Beati pacifici, quoniam filii Dei vocabuntur.\n\n8. Beati, qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est Regnum caelorum.\n\n– Beati estis, cum maledixerint vobis et persecuti vos fuerint et dixerint omne malum adversum vos, mentientes, propter me. Gaudete et exsultate, quoniam merces vestra copiosa est in caelis.",
-				"pt-BR": "Bem-aventurados os pobres de coração, porque deles é o reino dos céus.\n\nBem-aventurados os mansos, porque herdarão a terra.\n\nBem-aventurados os que choram, porque serão consolados.\n\nBem-aventurados os que têm fome e sede de justiça, porque serão saciados.\n\nBem-aventurados os misericordiosos, porque alcançarão misericórdia.\n\nBem-aventurados os puros de coração, porque verão a Deus.\n\nBem-aventurados os pacificadores, porque serão chamados filhos de Deus.\n\nBem-aventurados os perseguidos por causa da justiça, porque deles é o reino dos céus.\n\nBem-aventurados sois vós quando vos insultam, vos perseguem e, mentindo, dizem toda espécie de mal contra vós por minha causa. Alegrai-vos e exultai, porque grande é a vossa recompensa nos céus.",
-				"pt-PT": "1. Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.\n\n2. Bem-aventurados os mansos, porque possuirão a terra.\n\n3. Bem-aventurados os que choram, porque serão consolados.\n\n4. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.\n\n5. Bem-aventurados os misericordiosos, porque alcançarão misericórdia.\n\n6. Bem-aventurados os puros de coração, porque verão a Deus.\n\n7. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.\n\n8. Bem-aventurados os que sofrem perseguição por amor da justiça, porque deles é o Reino dos Céus.\n\n– Bem-aventurados sereis quando, por minha causa, vos insultarem, vos perseguirem e, mentindo, disserem todo o mal de vós. Alegrai-vos e exultai, pois é grande nos Céus a vossa recompensa.",
-				"ro": "1. Fericiți cei săraci în duh, pentru că a lor este împărăția cerurilor..\n\n2. Fericiți cei blânzi, pentru că ei vor moșteni pământul\n\n3. Fericiți cei care plâng, pentru că ei vor fi consolați.\n\n4. Fericiți cei cărora le este foame și sete de dreptate, pentru că ei vor fi săturați.\n\n5. Fericiți cei milostivi, pentru că ei vor afla milostivire.\n\n6. Fericiți cei cu inima curată, pentru că ei Îl vor vedea pe Dumnezeu.\n\n7. Fericiți făcătorii de pace, pentru ei vor fi numiţi fii ai lui Dumnezeu.\n\n8. Fericiți cei persecutați pentru dreptate, pentru că a lor este Împărăția cerurilor.\n\n– Fericiți sunteți când vă vor insulta, vă vor persecuta și, mințind, vor spune împotriva voastră tot răul din cauza Mea. Bucurați‑vă și tresăltați de veselie,\ncăci răsplata voastră mare este în ceruri.",
-				"sl": "1. Blagor ubogim v duhu, kajti njihovo je nebeško kraljestvo.\n\n2. Blagor žalostnim, kajti potolaženi bodo.\n\n3. Blagor krotkim, kajti deželo bodo posedli.\n\n4. Blagor lačnim in žejnim pravičnosti, kajti nasičeni bodo.\n\n5. Blagor usmiljenim, kajti usmiljenje bodo dosegli.\n\n6. Blagor čistim v srcu, kajti Boga bodo gledali.\n\n7. Blagor miroljubnim, kajti ti bodo božji otroci.\n\n8. Blagor tistim, ki so zaradi pravičnosti preganjani, kajti njihovo je nebeško kraljestvo.\n\n– Blagor vam, kadar vas bodo zaradi mene zasramovali, preganjali in vse húdo o vas lažnivo govorili. Veselite in radujte se, kajti vaše plačilo v nebesih je veliko. Tako so namreč preganjali že preroke, ki so bili pred vami.",
-				"sv": "1. Saliga de som är fattiga i anden, dem tillhör himmelriket.\n\n2. Saliga de som sörjer, de skall bli tröstade.\n\n3. Saliga de ödmjuka, de skall ärva landet.\n\n4. Saliga de som hungrar och törstar efter rättfärdigheten, de skall bli mättade.\n\n5. Saliga de barmhärtiga, de skall möta barmhärtighet.\n\n6. Saliga de renhjärtade, de skall se Gud.\n\n7. Saliga de som håller fred, de skall kallas Guds söner.\n\n8. Saliga de som förföljs för rättfärdighetens skull, dem tillhör himmelriket.\n\n– Saliga är ni när man skymfar och förföljer er och på allt sätt förtalar er för min skull. Gläd er och jubla, er lön blir stor i himlen."
+				"ca": "9. Feliços vosaltres quan per causa meva, us ofendran, us perseguiran i escamparan contra vosaltres tota mena de calúmnies: alegreu-vos-en i feu festa, perquè la vostra recompensa és gran en el cel.",
+				"da": "– Salige er I, når man på grund af mig håner jer og forfølger jer og lyver jer alt muligt ondt på.",
+				"en-US": "– Blessed are you when they insult you and persecute you and utter every kind of evil against you falsely because of Me.Rejoice and be glad, for your reward will be great in heaven.",
+				"es": "– Bienaventurados seréis cuando os injurien, os persigan y digan contra vosotros toda clase de calumnias por mi causa. Alegraos y regocijaos porque vuestra recompensa será grande en el cielo.",
+				"fr": "9. Heureux serez-vous si l’on vous insulte, si l’on vous persécute et si l’on dit faussement toute sorte de mal contre vous, à cause de moi.\n\nRéjouissez-vous, soyez dans l’allégresse, car votre récompense sera grande dans les cieux !",
+				"hr": "– Blago vama kad vas – zbog mene – pogrde i prognaju i sve zlo slažu protiv vas! Radujte se i kličite: velika je plaća vaša na nebesima! Ta progonili su tako proroke prije vas!",
+				"hu": "– Boldogok vagytok, ha miattam gyaláznak és üldöznek benneteket, és hazudozva minden rosszat rátok fognak énmiattam. Örüljetek és ujjongjatok, mert nagy lesz a mennyben a jutalmatok!",
+				"la": "– Beati estis, cum maledixerint vobis et persecuti vos fuerint et dixerint omne malum adversum vos, mentientes, propter me. Gaudete et exsultate, quoniam merces vestra copiosa est in caelis.",
+				"pt-BR": "Bem-aventurados sois vós quando vos insultam, vos perseguem e, mentindo, dizem toda espécie de mal contra vós por minha causa. Alegrai-vos e exultai, porque grande é a vossa recompensa nos céus.",
+				"pt-PT": "– Bem-aventurados sereis quando, por minha causa, vos insultarem, vos perseguirem e, mentindo, disserem todo o mal de vós. Alegrai-vos e exultai, pois é grande nos Céus a vossa recompensa.",
+				"ro": "– Fericiți sunteți când vă vor insulta, vă vor persecuta și, mințind, vor spune împotriva voastră tot răul din cauza Mea. Bucurați‑vă și tresăltați de veselie,\ncăci răsplata voastră mare este în ceruri.",
+				"sl": "– Blagor vam, kadar vas bodo zaradi mene zasramovali, preganjali in vse húdo o vas lažnivo govorili. Veselite in radujte se, kajti vaše plačilo v nebesih je veliko. Tako so namreč preganjali že preroke, ki so bili pred vami.",
+				"sv": "– Saliga är ni när man skymfar och förföljer er och på allt sätt förtalar er för min skull. Gläd er och jubla, er lön blir stor i himlen."
 			}
 		},
 		{
@@ -168,23 +482,63 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Fe.\n\n2. Esperança.\n\n3. Caritat.",
-				"da": "1. Tro.\n\n2. Håb.\n\n3. Kærlighed",
-				"en-US": "1. Faith.\n\n2. Hope.\n\n3. Charity.",
-				"es": "1. Fe.\n\n2. Esperanza.\n\n3. Caridad.",
-				"fr": "1. Foi.\n\n2. Espérance.\n\n3. Charité.",
-				"hr": "1. Vjera.\n\n2. Nada.\n\n3. Ljubav.",
-				"hu": "1. Hit.\n\n2. Remény.\n\n3. Szeretet.",
-				"it": "1. Fede.\n\n2. Speranza.\n\n3. Carità.",
-				"la": "1. Fides.\n\n2. Spes.\n\n3. Caritas.",
-				"pt-BR": "1. Fé.\n\n2. Esperança.\n\n3. Caridade.",
-				"pt-PT": "1. Fé.\n\n2. Esperança.\n\n3. Caridade.",
-				"ro": "1. Credință.\n\n2. Speranță.\n\n3. Dragostea.",
-				"sl": "1. Vera\n\n2. Upanje\n\n3. Ljubezen",
-				"sv": "1. Tro\n\n2. Hopp\n\n3. Kärlek"
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Fe.",
+						"da": "1. Tro.",
+						"en-US": "1. Faith.",
+						"es": "1. Fe.",
+						"fr": "1. Foi.",
+						"hr": "1. Vjera.",
+						"hu": "1. Hit.",
+						"it": "1. Fede.",
+						"la": "1. Fides.",
+						"pt-BR": "1. Fé.",
+						"pt-PT": "1. Fé.",
+						"ro": "1. Credință.",
+						"sl": "1. Vera",
+						"sv": "1. Tro"
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Esperança.",
+						"da": "2. Håb.",
+						"en-US": "2. Hope.",
+						"es": "2. Esperanza.",
+						"fr": "2. Espérance.",
+						"hr": "2. Nada.",
+						"hu": "2. Remény.",
+						"it": "2. Speranza.",
+						"la": "2. Spes.",
+						"pt-BR": "2. Esperança.",
+						"pt-PT": "2. Esperança.",
+						"ro": "2. Speranță.",
+						"sl": "2. Upanje",
+						"sv": "2. Hopp"
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Caritat.",
+						"da": "3. Kærlighed",
+						"en-US": "3. Charity.",
+						"es": "3. Caridad.",
+						"fr": "3. Charité.",
+						"hr": "3. Ljubav.",
+						"hu": "3. Szeretet.",
+						"it": "3. Carità.",
+						"la": "3. Caritas.",
+						"pt-BR": "3. Caridade.",
+						"pt-PT": "3. Caridade.",
+						"ro": "3. Dragostea.",
+						"sl": "3. Ljubezen",
+						"sv": "3. Kärlek"
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -205,22 +559,77 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Prudència.\n\n2. Justícia.\n\n3. Fortalesa.\n\n4. Temprança.",
-				"en-US": "1. Prudence.\n\n2. Justice.\n\n3. Fortitude.\n\n4. Temperance.",
-				"es": "1. Prudencia.\n\n2. Justicia.\n\n3. Fortaleza.\n\n4. Templanza.",
-				"fr": "1. Prudence.\n\n2. Justice.\n\n3. Force.\n\n4. Tempérance.",
-				"hr": "1. Razboritost.\n\n2. Pravednost.\n\n3. Jakost.\n\n4. Umjerenost.",
-				"hu": "1. Okosság.\n\n2. Igazságosság.\n\n3. Erősség.\n\n4. Mértékletesség.",
-				"it": "1. Prudenza.\n\n2. Giustizia.\n\n3. Fortezza.\n\n4. Temperanza.",
-				"la": "1. Prudentia.\n\n2. Iustitia.\n\n3. Fortitudo.\n\n4. Temperantia.",
-				"pt-BR": "1. Prudência\n\n2. Justiça\n\n3. Fortaleza\n\n4. Temperança",
-				"pt-PT": "1. Prudência.\n\n2. Justiça.\n\n3. Fortaleza.\n\n4. Temperança.",
-				"ro": "1. Prudența.\n\n2. Dreptatea.\n\n3. Tăria.\n\n4. Cumpătarea.",
-				"sl": "1. Razumnost\n\n2. Pravičnost\n\n3. Srčnost\n\n4. Zmernost",
-				"sv": "1. Klokhet\n\n2. Rättvisa\n\n3. Uthållighet\n\n4. Måttlighet"
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Prudència.",
+						"en-US": "1. Prudence.",
+						"es": "1. Prudencia.",
+						"fr": "1. Prudence.",
+						"hr": "1. Razboritost.",
+						"hu": "1. Okosság.",
+						"it": "1. Prudenza.",
+						"la": "1. Prudentia.",
+						"pt-BR": "1. Prudência",
+						"pt-PT": "1. Prudência.",
+						"ro": "1. Prudența.",
+						"sl": "1. Razumnost",
+						"sv": "1. Klokhet"
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Justícia.",
+						"en-US": "2. Justice.",
+						"es": "2. Justicia.",
+						"fr": "2. Justice.",
+						"hr": "2. Pravednost.",
+						"hu": "2. Igazságosság.",
+						"it": "2. Giustizia.",
+						"la": "2. Iustitia.",
+						"pt-BR": "2. Justiça",
+						"pt-PT": "2. Justiça.",
+						"ro": "2. Dreptatea.",
+						"sl": "2. Pravičnost",
+						"sv": "2. Rättvisa"
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Fortalesa.",
+						"en-US": "3. Fortitude.",
+						"es": "3. Fortaleza.",
+						"fr": "3. Force.",
+						"hr": "3. Jakost.",
+						"hu": "3. Erősség.",
+						"it": "3. Fortezza.",
+						"la": "3. Fortitudo.",
+						"pt-BR": "3. Fortaleza",
+						"pt-PT": "3. Fortaleza.",
+						"ro": "3. Tăria.",
+						"sl": "3. Srčnost",
+						"sv": "3. Uthållighet"
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Temprança.",
+						"en-US": "4. Temperance.",
+						"es": "4. Templanza.",
+						"fr": "4. Tempérance.",
+						"hr": "4. Umjerenost.",
+						"hu": "4. Mértékletesség.",
+						"it": "4. Temperanza.",
+						"la": "4. Temperantia.",
+						"pt-BR": "4. Temperança",
+						"pt-PT": "4. Temperança.",
+						"ro": "4. Cumpătarea.",
+						"sl": "4. Zmernost",
+						"sv": "4. Måttlighet"
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -241,22 +650,128 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Saviesa.\n\n2. Enteniment.\n\n3. Consell.\n\n4. Fortalesa.\n\n5. Ciència.\n\n6. Pietat.\n\n7. Temor de Déu.",
-				"en-US": "1. Wisdom.\n\n2. Understanding.\n\n3. Counsel.\n\n4. Fortitude.\n\n5. Knowledge.\n\n6. Piety.\n\n7. Fear of the Lord.",
-				"es": "1. Sabiduría.\n\n2. Entendimiento.\n\n3. Consejo.\n\n4. Fortaleza.\n\n5. Ciencia.\n\n6. Piedad.\n\n7. Temor de Dios.",
-				"fr": "1. Sagesse.\n\n2. Intelligence.\n\n3. Conseil.\n\n4. Force.\n\n5. Science.\n\n6. Piété.\n\n7. Crainte de Dieu.",
-				"hr": "1. Mudrost.\n\n2. Razum.\n\n3. Savjet.\n\n4. Jakost.\n\n5. Znanje.\n\n6. Pobožnost.\n\n7. Strah Božji.",
-				"hu": "1. Bölcsesség.\n\n2. Értelem.\n\n3. Tanács.\n\n4. Erősség.\n\n5. Tudomány.\n\n6. Jámborság.\n\n7. Istenfélelem.",
-				"it": "1. Sapienza.\n\n2. Intelletto.\n\n3. Consiglio.\n\n4. Fortezza.\n\n5. Scienza.\n\n6. Pietà.\n\n7. Timor di Dio.",
-				"la": "1. Sapientia.\n\n2. Intellectus.\n\n3. Consilium.\n\n4. Fortitudo.\n\n5. Scientia.\n\n6. Pietas.\n\n7. Timor Dei.",
-				"pt-BR": "1. Sabedoria\n\n2. Inteligência\n\n3. Conselho\n\n4. Fortaleza\n\n5. Ciência\n\n6. Piedade\n\n7. Temor de Deus",
-				"pt-PT": "1. Sabedoria.\n\n2. Entendimento.\n\n3. Conselho.\n\n4. Fortaleza.\n\n5. Ciência.\n\n6. Piedade.\n\n7. Temor de Deus.",
-				"ro": "1. Înțelepciunea.\n\n2. Înțelegerea.\n\n3. Sfatul.\n\n4. Puterea.\n\n5. Știinţa.\n\n6. Evlavia.\n\n7. Frica de Dumnezeu.",
-				"sl": "1. Dar modrosti\n\n2. Dar umnosti\n\n3. Dar svéta\n\n4. Dar moči\n\n5. Dar vednosti\n\n6. Dar pobožnosti\n\n7. Dar strahu božjega",
-				"sv": "1. Vishet\n\n2. Insikt\n\n3. Råd\n\n4. Styrka\n\n5. Förstånd\n\n6. Fromhet\n\n7. Gudsfruktan"
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Saviesa.",
+						"en-US": "1. Wisdom.",
+						"es": "1. Sabiduría.",
+						"fr": "1. Sagesse.",
+						"hr": "1. Mudrost.",
+						"hu": "1. Bölcsesség.",
+						"it": "1. Sapienza.",
+						"la": "1. Sapientia.",
+						"pt-BR": "1. Sabedoria",
+						"pt-PT": "1. Sabedoria.",
+						"ro": "1. Înțelepciunea.",
+						"sl": "1. Dar modrosti",
+						"sv": "1. Vishet"
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Enteniment.",
+						"en-US": "2. Understanding.",
+						"es": "2. Entendimiento.",
+						"fr": "2. Intelligence.",
+						"hr": "2. Razum.",
+						"hu": "2. Értelem.",
+						"it": "2. Intelletto.",
+						"la": "2. Intellectus.",
+						"pt-BR": "2. Inteligência",
+						"pt-PT": "2. Entendimento.",
+						"ro": "2. Înțelegerea.",
+						"sl": "2. Dar umnosti",
+						"sv": "2. Insikt"
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Consell.",
+						"en-US": "3. Counsel.",
+						"es": "3. Consejo.",
+						"fr": "3. Conseil.",
+						"hr": "3. Savjet.",
+						"hu": "3. Tanács.",
+						"it": "3. Consiglio.",
+						"la": "3. Consilium.",
+						"pt-BR": "3. Conselho",
+						"pt-PT": "3. Conselho.",
+						"ro": "3. Sfatul.",
+						"sl": "3. Dar svéta",
+						"sv": "3. Råd"
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Fortalesa.",
+						"en-US": "4. Fortitude.",
+						"es": "4. Fortaleza.",
+						"fr": "4. Force.",
+						"hr": "4. Jakost.",
+						"hu": "4. Erősség.",
+						"it": "4. Fortezza.",
+						"la": "4. Fortitudo.",
+						"pt-BR": "4. Fortaleza",
+						"pt-PT": "4. Fortaleza.",
+						"ro": "4. Puterea.",
+						"sl": "4. Dar moči",
+						"sv": "4. Styrka"
+					}
+				},
+				{
+					"text": {
+						"ca": "5. Ciència.",
+						"en-US": "5. Knowledge.",
+						"es": "5. Ciencia.",
+						"fr": "5. Science.",
+						"hr": "5. Znanje.",
+						"hu": "5. Tudomány.",
+						"it": "5. Scienza.",
+						"la": "5. Scientia.",
+						"pt-BR": "5. Ciência",
+						"pt-PT": "5. Ciência.",
+						"ro": "5. Știinţa.",
+						"sl": "5. Dar vednosti",
+						"sv": "5. Förstånd"
+					}
+				},
+				{
+					"text": {
+						"ca": "6. Pietat.",
+						"en-US": "6. Piety.",
+						"es": "6. Piedad.",
+						"fr": "6. Piété.",
+						"hr": "6. Pobožnost.",
+						"hu": "6. Jámborság.",
+						"it": "6. Pietà.",
+						"la": "6. Pietas.",
+						"pt-BR": "6. Piedade",
+						"pt-PT": "6. Piedade.",
+						"ro": "6. Evlavia.",
+						"sl": "6. Dar pobožnosti",
+						"sv": "6. Fromhet"
+					}
+				},
+				{
+					"text": {
+						"ca": "7. Temor de Déu.",
+						"en-US": "7. Fear of the Lord.",
+						"es": "7. Temor de Dios.",
+						"fr": "7. Crainte de Dieu.",
+						"hr": "7. Strah Božji.",
+						"hu": "7. Istenfélelem.",
+						"it": "7. Timor di Dio.",
+						"la": "7. Timor Dei.",
+						"pt-BR": "7. Temor de Deus",
+						"pt-PT": "7. Temor de Deus.",
+						"ro": "7. Frica de Dumnezeu.",
+						"sl": "7. Dar strahu božjega",
+						"sv": "7. Gudsfruktan"
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -277,22 +792,212 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Amor.\n\n2. Goig.\n\n3. Pau.\n\n4. Paciència.\n\n5. Longanimitat.\n\n6. Bondat.\n\n7. Benignitat.\n\n8. Mansuetud.\n\n9. Fidelitat.\n\n10. Modèstia.\n\n11. Continència.\n\n12. Castedat.",
-				"en-US": "1. Charity.\n\n2. Joy.\n\n3. Peace.\n\n4. Patience.\n\n5. Kindness.\n\n6. Goodness.\n\n7. Generosity.\n\n8. Gentleness.\n\n9. Faithfulness.\n\n10. Modesty.\n\n11. Self-control.\n\n12. Chastity.",
-				"es": "1. Amor.\n\n2. Alegría.\n\n3. Paz.\n\n4. Paciencia.\n\n5. Longanimidad.\n\n6. Bondad.\n\n7. Benignidad.\n\n8. Mansedumbre.\n\n9. Fe.\n\n10. Modestia.\n\n11. Continencia.\n\n12. Castidad.",
-				"fr": "1. Charité.\n\n2. Joie.\n\n3. Paix.\n\n4. Patience.\n\n5. Longanimité.\n\n7. Bonté.\n\n8. Bénignité.\n\n9. Mansuétude.\n\n10. Modestie.\n\n11. Continence.\n\n12. Chasteté.",
-				"hr": "1. Ljubav.\n\n2. Radost.\n\n3. Mir.\n\n4. Strpljivost.\n\n5. Velikodušnost.\n\n6. Uslužnost.\n\n7. Dobrota.\n\n8. Krotkost.\n\n9. Vjernost.\n\n10. Blagost.\n\n11. Uzdržljivost.\n\n12. Čistoća.",
-				"hu": "1. Szeretet.\n\n2. Öröm.\n\n3. Béke.\n\n4. Türelem.\n\n5. Hosszantűrés.\n\n6. Jóság.\n\n7. Jóakarat.\n\n8. Szelídség.\n\n9. Hűség.\n\n10. Szerénység.\n\n11. Önmegtartóztatás.\n\n12. Tisztaság.",
-				"it": "1. Amore.\n\n2. Gioia.\n\n3. Pace.\n\n4. Pazienza.\n\n5. Longanimità.\n\n6. Bontà.\n\n7. Benevolenza.\n\n8. Mitezza.\n\n9. Fedeltà.\n\n10. Modestia.\n\n11. Continenza.\n\n12. Castità.",
-				"la": "1. Caritas.\n\n2. Gaudium.\n\n3. Pax.\n\n4. Patientia.\n\n5. Benignitas.\n\n6. Bonitas.\n\n7. Longanimitas.\n\n8. Mansuetudo.\n\n9. Fides.\n\n10. Modestia.\n\n11. Continentia.\n\n12. Castitas.",
-				"pt-BR": "1. Amor\n\n2. Alegria\n\n3. Paz\n\n4. Paciência\n\n5. Benignidade\n\n6. Longanimidade\n\n7. Benevolência\n\n8. Humildade\n\n9. Fidelidade\n\n10. Modéstia\n\n11. Continência\n\n12. Castidade",
-				"pt-PT": "1. Amor.\n\n2. Alegria.\n\n3. Paz.\n\n4. Paciência.\n\n5. Longanimidade.\n\n6. Bondade.\n\n7. Benignidade.\n\n8. Mansidão.\n\n9. Fé.\n\n10. Modéstia.\n\n11. Continência.\n\n12. Castidade.",
-				"ro": "1. Iubirea.\n\n2. Bucuria.\n\n3. Pacea.\n\n4. Răbdarea.\n\n5. Bunăvoinţa.\n\n6. Bunătatea.\n\n7. Îngăduința.\n\n8. Blândețea.\n\n9. Fidelitatea.\n\n10. Modestia.\n\n11. Cumpătarea.\n\n12. Castitatea.",
-				"sl": "1. Ljubezen\n\n2. Veselje\n\n3. Mir\n\n4. Potrpežljivost\n\n5. Blágost\n\n6. Dobrotljivost\n\n7. Dobrohotnost\n\n8. Krotkost\n\n9. Zvestoba\n\n10. Skromnost\n\n11. Vzdržnost\n\n12. Čistost",
-				"sv": "1. Kärlek\n\n2. Glädje\n\n3. Frid\n\n4. Tålamod\n\n5. Storsinthet\n\n6. Godhet\n\n7. Välvilja\n\n8. Mildhet\n\n9. Trofasthet\n\n10. Blygsamhet\n\n11. Avhållsamhet\n\n12. Kyskhet"
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Amor.",
+						"en-US": "1. Charity.",
+						"es": "1. Amor.",
+						"fr": "1. Charité.",
+						"hr": "1. Ljubav.",
+						"hu": "1. Szeretet.",
+						"it": "1. Amore.",
+						"la": "1. Caritas.",
+						"pt-BR": "1. Amor",
+						"pt-PT": "1. Amor.",
+						"ro": "1. Iubirea.",
+						"sl": "1. Ljubezen",
+						"sv": "1. Kärlek"
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Goig.",
+						"en-US": "2. Joy.",
+						"es": "2. Alegría.",
+						"fr": "2. Joie.",
+						"hr": "2. Radost.",
+						"hu": "2. Öröm.",
+						"it": "2. Gioia.",
+						"la": "2. Gaudium.",
+						"pt-BR": "2. Alegria",
+						"pt-PT": "2. Alegria.",
+						"ro": "2. Bucuria.",
+						"sl": "2. Veselje",
+						"sv": "2. Glädje"
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Pau.",
+						"en-US": "3. Peace.",
+						"es": "3. Paz.",
+						"fr": "3. Paix.",
+						"hr": "3. Mir.",
+						"hu": "3. Béke.",
+						"it": "3. Pace.",
+						"la": "3. Pax.",
+						"pt-BR": "3. Paz",
+						"pt-PT": "3. Paz.",
+						"ro": "3. Pacea.",
+						"sl": "3. Mir",
+						"sv": "3. Frid"
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Paciència.",
+						"en-US": "4. Patience.",
+						"es": "4. Paciencia.",
+						"fr": "4. Patience.",
+						"hr": "4. Strpljivost.",
+						"hu": "4. Türelem.",
+						"it": "4. Pazienza.",
+						"la": "4. Patientia.",
+						"pt-BR": "4. Paciência",
+						"pt-PT": "4. Paciência.",
+						"ro": "4. Răbdarea.",
+						"sl": "4. Potrpežljivost",
+						"sv": "4. Tålamod"
+					}
+				},
+				{
+					"text": {
+						"ca": "5. Longanimitat.",
+						"en-US": "5. Kindness.",
+						"es": "5. Longanimidad.",
+						"fr": "5. Longanimité.",
+						"hr": "5. Velikodušnost.",
+						"hu": "5. Hosszantűrés.",
+						"it": "5. Longanimità.",
+						"la": "5. Benignitas.",
+						"pt-BR": "5. Benignidade",
+						"pt-PT": "5. Longanimidade.",
+						"ro": "5. Bunăvoinţa.",
+						"sl": "5. Blágost",
+						"sv": "5. Storsinthet"
+					}
+				},
+				{
+					"text": {
+						"ca": "6. Bondat.",
+						"en-US": "6. Goodness.",
+						"es": "6. Bondad.",
+						"fr": "7. Bonté.",
+						"hr": "6. Uslužnost.",
+						"hu": "6. Jóság.",
+						"it": "6. Bontà.",
+						"la": "6. Bonitas.",
+						"pt-BR": "6. Longanimidade",
+						"pt-PT": "6. Bondade.",
+						"ro": "6. Bunătatea.",
+						"sl": "6. Dobrotljivost",
+						"sv": "6. Godhet"
+					}
+				},
+				{
+					"text": {
+						"ca": "7. Benignitat.",
+						"en-US": "7. Generosity.",
+						"es": "7. Benignidad.",
+						"fr": "8. Bénignité.",
+						"hr": "7. Dobrota.",
+						"hu": "7. Jóakarat.",
+						"it": "7. Benevolenza.",
+						"la": "7. Longanimitas.",
+						"pt-BR": "7. Benevolência",
+						"pt-PT": "7. Benignidade.",
+						"ro": "7. Îngăduința.",
+						"sl": "7. Dobrohotnost",
+						"sv": "7. Välvilja"
+					}
+				},
+				{
+					"text": {
+						"ca": "8. Mansuetud.",
+						"en-US": "8. Gentleness.",
+						"es": "8. Mansedumbre.",
+						"fr": "9. Mansuétude.",
+						"hr": "8. Krotkost.",
+						"hu": "8. Szelídség.",
+						"it": "8. Mitezza.",
+						"la": "8. Mansuetudo.",
+						"pt-BR": "8. Humildade",
+						"pt-PT": "8. Mansidão.",
+						"ro": "8. Blândețea.",
+						"sl": "8. Krotkost",
+						"sv": "8. Mildhet"
+					}
+				},
+				{
+					"text": {
+						"ca": "9. Fidelitat.",
+						"en-US": "9. Faithfulness.",
+						"es": "9. Fe.",
+						"hr": "9. Vjernost.",
+						"hu": "9. Hűség.",
+						"it": "9. Fedeltà.",
+						"la": "9. Fides.",
+						"pt-BR": "9. Fidelidade",
+						"pt-PT": "9. Fé.",
+						"ro": "9. Fidelitatea.",
+						"sl": "9. Zvestoba",
+						"sv": "9. Trofasthet"
+					}
+				},
+				{
+					"text": {
+						"ca": "10. Modèstia.",
+						"en-US": "10. Modesty.",
+						"es": "10. Modestia.",
+						"fr": "10. Modestie.",
+						"hr": "10. Blagost.",
+						"hu": "10. Szerénység.",
+						"it": "10. Modestia.",
+						"la": "10. Modestia.",
+						"pt-BR": "10. Modéstia",
+						"pt-PT": "10. Modéstia.",
+						"ro": "10. Modestia.",
+						"sl": "10. Skromnost",
+						"sv": "10. Blygsamhet"
+					}
+				},
+				{
+					"text": {
+						"ca": "11. Continència.",
+						"en-US": "11. Self-control.",
+						"es": "11. Continencia.",
+						"fr": "11. Continence.",
+						"hr": "11. Uzdržljivost.",
+						"hu": "11. Önmegtartóztatás.",
+						"it": "11. Continenza.",
+						"la": "11. Continentia.",
+						"pt-BR": "11. Continência",
+						"pt-PT": "11. Continência.",
+						"ro": "11. Cumpătarea.",
+						"sl": "11. Vzdržnost",
+						"sv": "11. Avhållsamhet"
+					}
+				},
+				{
+					"text": {
+						"ca": "12. Castedat.",
+						"en-US": "12. Chastity.",
+						"es": "12. Castidad.",
+						"fr": "12. Chasteté.",
+						"hr": "12. Čistoća.",
+						"hu": "12. Tisztaság.",
+						"it": "12. Castità.",
+						"la": "12. Castitas.",
+						"pt-BR": "12. Castidade",
+						"pt-PT": "12. Castidade.",
+						"ro": "12. Castitatea.",
+						"sl": "12. Čistost",
+						"sv": "12. Kyskhet"
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -349,22 +1054,128 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Donar de menjar als afamats.\n\n2. Donar de beure als assedegats.\n\n3. Vestir els despullats.\n\n4. Allotjar els peregrins.\n\n5. Visitar els malalts.\n\n6. Visitar els empresonats.\n\n7. Enterrar els morts.",
-				"en-US": "1. Visit the sick.\n\n2. Feed the hungry.\n\n3. Give drink to the thirsty.\n\n4. Harbour the harbourless.\n\n5. Clothe the naked.\n\n6. Ransom the captive.\n\n7. Bury the dead.",
-				"es": "1. Visitar y cuidar a los enfermos.\n\n2. Dar de comer al hambriento.\n\n3. Dar de beber al sediento.\n\n4. Dar posada al peregrino.\n\n5. Vestir al desnudo.\n\n6. Redimir al cautivo.\n\n7. Enterrar a los muertos.",
-				"fr": "1. Donner à manger à ceux qui ont faim.\n\n2. Donner à boire à ceux qui ont soif.\n\n3. Vêtir ceux qui sont nus.\n\n4. Loger les pèlerins.\n\n5. Visiter les malades.\n\n6. Visiter les prisonniers.\n\n7. Ensevelir les morts.",
-				"hr": "1. Gladna nahraniti.\n\n2. Žedna napojiti.\n\n3. Siromaha odjenuti.\n\n4. Putnika primiti.\n\n5. Bolesna i utamničenika pohoditi.\n\n6. Zarobljenike i prognanike pomagati.\n\n7. Mrtva pokopati.",
-				"hu": "1. Enni adni az éhezőknek.\n\n2. Inni adni a szomjazóknak.\n\n3. Felöltöztetni a ruhátlanokat.\n\n4. Befogadni a vándorokat.\n\n5. Meglátogatni a betegeket.\n\n6. Meglátogatni a foglyokat.\n\n7. Eltemetni a halottakat.",
-				"it": "1. Dar da mangiare agli affamati.\n\n2. Dar da bere agli assetati.\n\n3. Vestire gli ignudi.\n\n4. Alloggiare i pellegrini.\n\n5. Visitare gli infermi.\n\n6. Visitare i carcerati.\n\n7. Seppellire i morti.",
-				"la": "1. Infirmos visitare.\n\n2. Cibum praebere esurientibus.\n\n3. Potum praebere sitientibus.\n\n4. Hospites excipere.\n\n5. Nudos cooperire.\n\n6. Carcere clausos invisere.\n\n7. Mortuos sepelire.",
-				"pt-BR": "1. Dar de comer aos famintos.\n\n2. Dar de beber aos sedentos.\n\n3. Vestir os nus.\n\n4. Acolher os peregrinos.\n\n5. Visitar os enfermos.\n\n6. Visitar os encarcerados.\n\n7. Sepultar os mortos.",
-				"pt-PT": "1. Visitar os enfermos.\n\n2. Dar de comer a quem tem fome.\n\n3. Dar de beber a quem tem sede.\n\n4. Dar pousada aos peregrinos.\n\n5. Vestir os nus.\n\n6. Visitar os presos.\n\n7. Enterrar os mortos.",
-				"ro": "1. A da de mâncare celor înfometați.\n\n2. A da de băut celor însetați.\n\n3. A îmbrăca pe cei goi.\n\n4. A găzdui pe pelerini.\n\n5. A vizita pe cei bolnavi.\n\n6. A vizita pe cei închiși.\n\n7. A îngropa pe cei morți.",
-				"sl": "1. Lačne nasičevati\n\n2. Žejne napajati\n\n3. Nage oblačiti\n\n4. Popotnike sprejemati\n\n5. Bolnike obiskovati\n\n6. Jetnike reševati\n\n7. Mrliče pokopavati",
-				"sv": "1. Att ge mat åt de hungrande.\n\n2. Att ge dryck åt de törstande.\n\n3. Att klä de nakna.\n\n4. Att ge husrum åt främlingar.\n\n5. Att besöka sjuka och fångar.\n\n6. Att verka för frihet åt fångar.\n\n7. Att begrava döda."
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Donar de menjar als afamats.",
+						"en-US": "1. Visit the sick.",
+						"es": "1. Visitar y cuidar a los enfermos.",
+						"fr": "1. Donner à manger à ceux qui ont faim.",
+						"hr": "1. Gladna nahraniti.",
+						"hu": "1. Enni adni az éhezőknek.",
+						"it": "1. Dar da mangiare agli affamati.",
+						"la": "1. Infirmos visitare.",
+						"pt-BR": "1. Dar de comer aos famintos.",
+						"pt-PT": "1. Visitar os enfermos.",
+						"ro": "1. A da de mâncare celor înfometați.",
+						"sl": "1. Lačne nasičevati",
+						"sv": "1. Att ge mat åt de hungrande."
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Donar de beure als assedegats.",
+						"en-US": "2. Feed the hungry.",
+						"es": "2. Dar de comer al hambriento.",
+						"fr": "2. Donner à boire à ceux qui ont soif.",
+						"hr": "2. Žedna napojiti.",
+						"hu": "2. Inni adni a szomjazóknak.",
+						"it": "2. Dar da bere agli assetati.",
+						"la": "2. Cibum praebere esurientibus.",
+						"pt-BR": "2. Dar de beber aos sedentos.",
+						"pt-PT": "2. Dar de comer a quem tem fome.",
+						"ro": "2. A da de băut celor însetați.",
+						"sl": "2. Žejne napajati",
+						"sv": "2. Att ge dryck åt de törstande."
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Vestir els despullats.",
+						"en-US": "3. Give drink to the thirsty.",
+						"es": "3. Dar de beber al sediento.",
+						"fr": "3. Vêtir ceux qui sont nus.",
+						"hr": "3. Siromaha odjenuti.",
+						"hu": "3. Felöltöztetni a ruhátlanokat.",
+						"it": "3. Vestire gli ignudi.",
+						"la": "3. Potum praebere sitientibus.",
+						"pt-BR": "3. Vestir os nus.",
+						"pt-PT": "3. Dar de beber a quem tem sede.",
+						"ro": "3. A îmbrăca pe cei goi.",
+						"sl": "3. Nage oblačiti",
+						"sv": "3. Att klä de nakna."
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Allotjar els peregrins.",
+						"en-US": "4. Harbour the harbourless.",
+						"es": "4. Dar posada al peregrino.",
+						"fr": "4. Loger les pèlerins.",
+						"hr": "4. Putnika primiti.",
+						"hu": "4. Befogadni a vándorokat.",
+						"it": "4. Alloggiare i pellegrini.",
+						"la": "4. Hospites excipere.",
+						"pt-BR": "4. Acolher os peregrinos.",
+						"pt-PT": "4. Dar pousada aos peregrinos.",
+						"ro": "4. A găzdui pe pelerini.",
+						"sl": "4. Popotnike sprejemati",
+						"sv": "4. Att ge husrum åt främlingar."
+					}
+				},
+				{
+					"text": {
+						"ca": "5. Visitar els malalts.",
+						"en-US": "5. Clothe the naked.",
+						"es": "5. Vestir al desnudo.",
+						"fr": "5. Visiter les malades.",
+						"hr": "5. Bolesna i utamničenika pohoditi.",
+						"hu": "5. Meglátogatni a betegeket.",
+						"it": "5. Visitare gli infermi.",
+						"la": "5. Nudos cooperire.",
+						"pt-BR": "5. Visitar os enfermos.",
+						"pt-PT": "5. Vestir os nus.",
+						"ro": "5. A vizita pe cei bolnavi.",
+						"sl": "5. Bolnike obiskovati",
+						"sv": "5. Att besöka sjuka och fångar."
+					}
+				},
+				{
+					"text": {
+						"ca": "6. Visitar els empresonats.",
+						"en-US": "6. Ransom the captive.",
+						"es": "6. Redimir al cautivo.",
+						"fr": "6. Visiter les prisonniers.",
+						"hr": "6. Zarobljenike i prognanike pomagati.",
+						"hu": "6. Meglátogatni a foglyokat.",
+						"it": "6. Visitare i carcerati.",
+						"la": "6. Carcere clausos invisere.",
+						"pt-BR": "6. Visitar os encarcerados.",
+						"pt-PT": "6. Visitar os presos.",
+						"ro": "6. A vizita pe cei închiși.",
+						"sl": "6. Jetnike reševati",
+						"sv": "6. Att verka för frihet åt fångar."
+					}
+				},
+				{
+					"text": {
+						"ca": "7. Enterrar els morts.",
+						"en-US": "7. Bury the dead.",
+						"es": "7. Enterrar a los muertos.",
+						"fr": "7. Ensevelir les morts.",
+						"hr": "7. Mrtva pokopati.",
+						"hu": "7. Eltemetni a halottakat.",
+						"it": "7. Seppellire i morti.",
+						"la": "7. Mortuos sepelire.",
+						"pt-BR": "7. Sepultar os mortos.",
+						"pt-PT": "7. Enterrar os mortos.",
+						"ro": "7. A îngropa pe cei morți.",
+						"sl": "7. Mrliče pokopavati",
+						"sv": "7. Att begrava döda."
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -385,22 +1196,128 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Aconsellar els qui dubten.\n\n2. Ensenyar als ignorants.\n\n3. Corregir els pecadors.\n\n4. Aconsolar els afligits.\n\n5. Perdonar les ofenses.\n\n6. Suportar amb paciència les persones molestes.\n\n7. Pregar a Déu pels vius i pels morts.",
-				"en-US": "1. Instruct the ignorant.\n\n2. Counsel the doubtful.\n\n3. Admonish sinners.\n\n4. Bear wrongs patiently.\n\n5. Comfort the afflicted.\n\n6. Forgive offences willingly.\n\n7. Pray for the living and the dead.",
-				"es": "1. Enseñar al que no sabe.\n\n2. Dar buen consejo al que lo necesita.\n\n3. Corregir al que yerra.\n\n4. Perdonar las injurias.\n\n5. Consolar al triste.\n\n6. Sufrir con paciencia los defectos de los demás.\n\n7. Rogar a Dios por vivos y difuntos.",
-				"fr": "1. Conseiller ceux qui doutent.\n\n2. Enseigner ceux qui sont ignorants.\n\n3. Réprimander les pécheurs.\n\n4. Consoler les affligés.\n\n5. Pardonner les offenses.\n\n6. Supporter patiemment les personnes importunes.\n\n7. Prier Dieu pour les vivants et pour les morts.",
-				"hr": "1. Dvoumna savjetovati.\n\n2. Neuka poučiti.\n\n3. Grješnika pokarati.\n\n4. Žalosna i nevoljna utješiti.\n\n5. Uvredu oprostiti.\n\n6. Nepravdu strpljivo podnositi.\n\n7. Za žive i mrtve Boga moliti.",
-				"hu": "1. Tanácsot adni a bizonytalankodóknak.\n\n2. Tanítani a tudatlanokat.\n\n3. Figyelmeztetni a bűnösöket.\n\n4. Vigasztalni a szomorúakat.\n\n5. Megbocsátani a bántásokat.\n\n6. Türelmesen elviselni a kellemetlen személyeket.\n\n7. Imádkozni Istenhez az élőkért és a holtakért.",
-				"it": "1. Consigliare i dubbiosi.\n\n2. Insegnare agli ignoranti.\n\n3. Ammonire i peccatori.\n\n4. Consolare gli afflitti.\n\n5. Perdonare le offese.\n\n6. Sopportare pazientemente le persone moleste.\n\n7. Pregare Dio per i vivi e per i morti.",
-				"la": "1. Ignorantes instruere.\n\n2. Dubitantibus consilia dare.\n\n3. Peccatores monere.\n\n4. Offensas remittere.\n\n5. Afflictos solari.\n\n6. Molestos patienter sustinere.\n\n7. Pro vivis et defunctis Deum orare.",
-				"pt-BR": "1. Aconselhar os duvidosos.\n\n2. Ensinar os ignorantes.\n\n3. Admoestar os pecadores.\n\n4. Consolar os aflitos.\n\n5. Perdoar as ofensas.\n\n6. Suportar pacientemente as pessoas incômodas.\n\n7. Rezar a Deus pelos vivos e pelos mortos.",
-				"pt-PT": "1. Ensinar os ignorantes.\n\n2. Dar bons conselhos.\n\n3. Corrigir os que erram.\n\n4. Perdoar as injúrias.\n\n5. Consolar os tristes.\n\n6. Suportar com paciência as fraquezas do nosso próximo.\n\n7. Rezar a Deus por vivos e defuntos.",
-				"ro": "1. A învăța pe cei neştiutori.\n\n2. A sfătui pe cei în îndoială.\n\n3. A avertiza pe păcătoși.\n\n4. A ierta ofensele.\n\n5. A mângâia pe cei mâhniți.\n\n6. A suporta cu răbdare nedreptatea.\n\n7. A se ruga lui Dumnezeu pentru cei vii și pentru cei morți.",
-				"sl": "1. Grešnike svariti\n\n2. Nevedne učiti\n\n3. Dvomljivcem prav svetovati\n\n4. Žalostne tolažiti\n\n5. Krivico voljno trpeti\n\n6. Žaljivcem iz srca odpustiti\n\n7. Za žive in mrtve Boga prositi",
-				"sv": "1. Att undervisa okunniga.\n\n2. Att råda villrådiga.\n\n3. Att trösta bedrövade.\n\n4. Att tillrättavisa syndare.\n\n5. Att förlåta oförrätter.\n\n6. Att bära orättvisor.\n\n7. Att be för levande och döda."
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Aconsellar els qui dubten.",
+						"en-US": "1. Instruct the ignorant.",
+						"es": "1. Enseñar al que no sabe.",
+						"fr": "1. Conseiller ceux qui doutent.",
+						"hr": "1. Dvoumna savjetovati.",
+						"hu": "1. Tanácsot adni a bizonytalankodóknak.",
+						"it": "1. Consigliare i dubbiosi.",
+						"la": "1. Ignorantes instruere.",
+						"pt-BR": "1. Aconselhar os duvidosos.",
+						"pt-PT": "1. Ensinar os ignorantes.",
+						"ro": "1. A învăța pe cei neştiutori.",
+						"sl": "1. Grešnike svariti",
+						"sv": "1. Att undervisa okunniga."
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Ensenyar als ignorants.",
+						"en-US": "2. Counsel the doubtful.",
+						"es": "2. Dar buen consejo al que lo necesita.",
+						"fr": "2. Enseigner ceux qui sont ignorants.",
+						"hr": "2. Neuka poučiti.",
+						"hu": "2. Tanítani a tudatlanokat.",
+						"it": "2. Insegnare agli ignoranti.",
+						"la": "2. Dubitantibus consilia dare.",
+						"pt-BR": "2. Ensinar os ignorantes.",
+						"pt-PT": "2. Dar bons conselhos.",
+						"ro": "2. A sfătui pe cei în îndoială.",
+						"sl": "2. Nevedne učiti",
+						"sv": "2. Att råda villrådiga."
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Corregir els pecadors.",
+						"en-US": "3. Admonish sinners.",
+						"es": "3. Corregir al que yerra.",
+						"fr": "3. Réprimander les pécheurs.",
+						"hr": "3. Grješnika pokarati.",
+						"hu": "3. Figyelmeztetni a bűnösöket.",
+						"it": "3. Ammonire i peccatori.",
+						"la": "3. Peccatores monere.",
+						"pt-BR": "3. Admoestar os pecadores.",
+						"pt-PT": "3. Corrigir os que erram.",
+						"ro": "3. A avertiza pe păcătoși.",
+						"sl": "3. Dvomljivcem prav svetovati",
+						"sv": "3. Att trösta bedrövade."
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Aconsolar els afligits.",
+						"en-US": "4. Bear wrongs patiently.",
+						"es": "4. Perdonar las injurias.",
+						"fr": "4. Consoler les affligés.",
+						"hr": "4. Žalosna i nevoljna utješiti.",
+						"hu": "4. Vigasztalni a szomorúakat.",
+						"it": "4. Consolare gli afflitti.",
+						"la": "4. Offensas remittere.",
+						"pt-BR": "4. Consolar os aflitos.",
+						"pt-PT": "4. Perdoar as injúrias.",
+						"ro": "4. A ierta ofensele.",
+						"sl": "4. Žalostne tolažiti",
+						"sv": "4. Att tillrättavisa syndare."
+					}
+				},
+				{
+					"text": {
+						"ca": "5. Perdonar les ofenses.",
+						"en-US": "5. Comfort the afflicted.",
+						"es": "5. Consolar al triste.",
+						"fr": "5. Pardonner les offenses.",
+						"hr": "5. Uvredu oprostiti.",
+						"hu": "5. Megbocsátani a bántásokat.",
+						"it": "5. Perdonare le offese.",
+						"la": "5. Afflictos solari.",
+						"pt-BR": "5. Perdoar as ofensas.",
+						"pt-PT": "5. Consolar os tristes.",
+						"ro": "5. A mângâia pe cei mâhniți.",
+						"sl": "5. Krivico voljno trpeti",
+						"sv": "5. Att förlåta oförrätter."
+					}
+				},
+				{
+					"text": {
+						"ca": "6. Suportar amb paciència les persones molestes.",
+						"en-US": "6. Forgive offences willingly.",
+						"es": "6. Sufrir con paciencia los defectos de los demás.",
+						"fr": "6. Supporter patiemment les personnes importunes.",
+						"hr": "6. Nepravdu strpljivo podnositi.",
+						"hu": "6. Türelmesen elviselni a kellemetlen személyeket.",
+						"it": "6. Sopportare pazientemente le persone moleste.",
+						"la": "6. Molestos patienter sustinere.",
+						"pt-BR": "6. Suportar pacientemente as pessoas incômodas.",
+						"pt-PT": "6. Suportar com paciência as fraquezas do nosso próximo.",
+						"ro": "6. A suporta cu răbdare nedreptatea.",
+						"sl": "6. Žaljivcem iz srca odpustiti",
+						"sv": "6. Att bära orättvisor."
+					}
+				},
+				{
+					"text": {
+						"ca": "7. Pregar a Déu pels vius i pels morts.",
+						"en-US": "7. Pray for the living and the dead.",
+						"es": "7. Rogar a Dios por vivos y difuntos.",
+						"fr": "7. Prier Dieu pour les vivants et pour les morts.",
+						"hr": "7. Za žive i mrtve Boga moliti.",
+						"hu": "7. Imádkozni Istenhez az élőkért és a holtakért.",
+						"it": "7. Pregare Dio per i vivi e per i morti.",
+						"la": "7. Pro vivis et defunctis Deum orare.",
+						"pt-BR": "7. Rezar a Deus pelos vivos e pelos mortos.",
+						"pt-PT": "7. Rezar a Deus por vivos e defuntos.",
+						"ro": "7. A se ruga lui Dumnezeu pentru cei vii și pentru cei morți.",
+						"sl": "7. Za žive in mrtve Boga prositi",
+						"sv": "7. Att be för levande och döda."
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -422,23 +1339,135 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Supèrbia.\n\n2. Avarícia.\n\n3. Luxúria.\n\n4. Ira.\n\n5. Gola.\n\n6. Enveja.\n\n7. Peresa.",
-				"da": "1. Hovmod.\n\n2. Gerrighed.\n\n3. Ukyskhed.\n\n4. Vrede.\n\n5. Umådehold.\n\n6. Misundelse.\n\n7. Træghed.",
-				"en-US": "1. Pride.\n\n2. Greed.\n\n3. Lust.\n\n4. Wrath.\n\n5. Gluttony.\n\n6. Envy.\n\n7. Sloth.",
-				"es": "1. Soberbia.\n\n2. Avaricia.\n\n3. Lujuria.\n\n4. Ira.\n\n5. Gula.\n\n6. Envidia.\n\n7. Pereza.",
-				"fr": "1. Orgueil.\n\n2. Avarice.\n\n3. Luxure.\n\n4. Colère.\n\n5. Gourmandise.\n\n6. Envie.\n\n7. Acédie (ou paresse spirituelle).",
-				"hr": "1. Oholost\n\n2. Pohlepa (škrtost)\n\n3. Zavist\n\n4. Ljutnja, srditost\n\n5. Pohota, bludnost\n\n6. Neumjerenost u jelu i piću\n\n7. Lijenost",
-				"hu": "1. Kevélység.\n\n2. Fösvénység.\n\n3. Bujaság.\n\n4. Harag.\n\n5. Torkosság.\n\n6. Irigység.\n\n7. Restség.",
-				"it": "1. Superbia.\n\n2. Avarizia.\n\n3. Lussuria.\n\n4. Ira.\n\n5. Gola.\n\n6. Invidia.\n\n7. Accidia.",
-				"la": "1. Superbia.\n\n2. Avaritia.\n\n3. Luxuria.\n\n4. Ira.\n\n5. Gula.\n\n6. Invidia.\n\n7. Acedia.",
-				"pt-BR": "1. Soberba.\n\n2. Avareza.\n\n3. Luxúria.\n\n4. Ira.\n\n5. Gula.\n\n6. Inveja.\n\n7. Preguiça.",
-				"pt-PT": "1. Soberba.\n\n2. Avareza.\n\n3. Luxúria.\n\n4. Ira.\n\n5. Gula.\n\n6. Inveja.\n\n7. Preguiça.",
-				"ro": "1. Mândria.\n\n2. Zgârcenia.\n\n3. Necurăția.\n\n4. Mânia.\n\n5. Lăcomia.\n\n6. Invidia.\n\n7. Lenea.",
-				"sl": "1. Napuh\n\n2. Lakomnost\n\n3. Nečistost\n\n4. Nevoščljivost\n\n5. Požrešnost\n\n6. Jeza\n\n7. Lenoba",
-				"sv": "1. Högmod\n\n2. Girighet\n\n3. Lusta\n\n4. Vrede\n\n5. Frosseri\n\n6. Avund\n\n7. Lättja"
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Supèrbia.",
+						"da": "1. Hovmod.",
+						"en-US": "1. Pride.",
+						"es": "1. Soberbia.",
+						"fr": "1. Orgueil.",
+						"hr": "1. Oholost",
+						"hu": "1. Kevélység.",
+						"it": "1. Superbia.",
+						"la": "1. Superbia.",
+						"pt-BR": "1. Soberba.",
+						"pt-PT": "1. Soberba.",
+						"ro": "1. Mândria.",
+						"sl": "1. Napuh",
+						"sv": "1. Högmod"
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Avarícia.",
+						"da": "2. Gerrighed.",
+						"en-US": "2. Greed.",
+						"es": "2. Avaricia.",
+						"fr": "2. Avarice.",
+						"hr": "2. Pohlepa (škrtost)",
+						"hu": "2. Fösvénység.",
+						"it": "2. Avarizia.",
+						"la": "2. Avaritia.",
+						"pt-BR": "2. Avareza.",
+						"pt-PT": "2. Avareza.",
+						"ro": "2. Zgârcenia.",
+						"sl": "2. Lakomnost",
+						"sv": "2. Girighet"
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Luxúria.",
+						"da": "3. Ukyskhed.",
+						"en-US": "3. Lust.",
+						"es": "3. Lujuria.",
+						"fr": "3. Luxure.",
+						"hr": "3. Zavist",
+						"hu": "3. Bujaság.",
+						"it": "3. Lussuria.",
+						"la": "3. Luxuria.",
+						"pt-BR": "3. Luxúria.",
+						"pt-PT": "3. Luxúria.",
+						"ro": "3. Necurăția.",
+						"sl": "3. Nečistost",
+						"sv": "3. Lusta"
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Ira.",
+						"da": "4. Vrede.",
+						"en-US": "4. Wrath.",
+						"es": "4. Ira.",
+						"fr": "4. Colère.",
+						"hr": "4. Ljutnja, srditost",
+						"hu": "4. Harag.",
+						"it": "4. Ira.",
+						"la": "4. Ira.",
+						"pt-BR": "4. Ira.",
+						"pt-PT": "4. Ira.",
+						"ro": "4. Mânia.",
+						"sl": "4. Nevoščljivost",
+						"sv": "4. Vrede"
+					}
+				},
+				{
+					"text": {
+						"ca": "5. Gola.",
+						"da": "5. Umådehold.",
+						"en-US": "5. Gluttony.",
+						"es": "5. Gula.",
+						"fr": "5. Gourmandise.",
+						"hr": "5. Pohota, bludnost",
+						"hu": "5. Torkosság.",
+						"it": "5. Gola.",
+						"la": "5. Gula.",
+						"pt-BR": "5. Gula.",
+						"pt-PT": "5. Gula.",
+						"ro": "5. Lăcomia.",
+						"sl": "5. Požrešnost",
+						"sv": "5. Frosseri"
+					}
+				},
+				{
+					"text": {
+						"ca": "6. Enveja.",
+						"da": "6. Misundelse.",
+						"en-US": "6. Envy.",
+						"es": "6. Envidia.",
+						"fr": "6. Envie.",
+						"hr": "6. Neumjerenost u jelu i piću",
+						"hu": "6. Irigység.",
+						"it": "6. Invidia.",
+						"la": "6. Invidia.",
+						"pt-BR": "6. Inveja.",
+						"pt-PT": "6. Inveja.",
+						"ro": "6. Invidia.",
+						"sl": "6. Jeza",
+						"sv": "6. Avund"
+					}
+				},
+				{
+					"text": {
+						"ca": "7. Peresa.",
+						"da": "7. Træghed.",
+						"en-US": "7. Sloth.",
+						"es": "7. Pereza.",
+						"fr": "7. Acédie (ou paresse spirituelle).",
+						"hr": "7. Lijenost",
+						"hu": "7. Restség.",
+						"it": "7. Accidia.",
+						"la": "7. Acedia.",
+						"pt-BR": "7. Preguiça.",
+						"pt-PT": "7. Preguiça.",
+						"ro": "7. Lenea.",
+						"sl": "7. Lenoba",
+						"sv": "7. Lättja"
+					}
+				}
+			]
 		},
 		{
 			"type": "subheading",
@@ -460,23 +1489,81 @@
 			}
 		},
 		{
-			"type": "prayer",
-			"inline": {
-				"ca": "1. Mort.\n\n2. Judici.\n\n3. Infern.\n\n4. Paradís.",
-				"da": "1. Død.\n\n2. Dom.\n\n3. Helvede.\n\n4. Himlen.",
-				"en-US": "1. Death.\n\n2. Judgement.\n\n3. Hell.\n\n4. Heaven.",
-				"es": "1. Muerte.\n\n2. Juicio.\n\n3. Infierno.\n\n4. Gloria.",
-				"fr": "1. Mort.\n\n2. Jugement.\n\n3. Enfer.\n\n4. Paradis.",
-				"hr": "1. Smrt.\n\n2. Sud.\n\n3. Nebo.\n\n4. Pakao.",
-				"hu": "1. A halál.\n\n2. Az ítélet.\n\n3. A pokol.\n\n4. A paradicsom.",
-				"it": "1. Morte.\n\n2. Giudizio.\n\n3. Inferno.\n\n4. Paradiso.",
-				"la": "1. Mors.\n\n2. Iudicium.\n\n3. Infernus.\n\n4. Paradisus.",
-				"pt-BR": "1. Morte.\n\n2. Juízo.\n\n3. Inferno.\n\n4. Paraíso.",
-				"pt-PT": "1. Morte.\n\n2. Juízo.\n\n3. Inferno.\n\n4. Paraíso.",
-				"ro": "1. Moarte.\n\n2. Judecata.\n\n3. Iadul.\n\n4. Paradisul.",
-				"sl": "1. Smrt\n\n2. Sodba\n\n3. Pekel\n\n4. Nebesa",
-				"sv": "1. Döden\n\n2. Domen\n\n3. Helvetet\n\n4. Paradiset"
-			}
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"ca": "1. Mort.",
+						"da": "1. Død.",
+						"en-US": "1. Death.",
+						"es": "1. Muerte.",
+						"fr": "1. Mort.",
+						"hr": "1. Smrt.",
+						"hu": "1. A halál.",
+						"it": "1. Morte.",
+						"la": "1. Mors.",
+						"pt-BR": "1. Morte.",
+						"pt-PT": "1. Morte.",
+						"ro": "1. Moarte.",
+						"sl": "1. Smrt",
+						"sv": "1. Döden"
+					}
+				},
+				{
+					"text": {
+						"ca": "2. Judici.",
+						"da": "2. Dom.",
+						"en-US": "2. Judgement.",
+						"es": "2. Juicio.",
+						"fr": "2. Jugement.",
+						"hr": "2. Sud.",
+						"hu": "2. Az ítélet.",
+						"it": "2. Giudizio.",
+						"la": "2. Iudicium.",
+						"pt-BR": "2. Juízo.",
+						"pt-PT": "2. Juízo.",
+						"ro": "2. Judecata.",
+						"sl": "2. Sodba",
+						"sv": "2. Domen"
+					}
+				},
+				{
+					"text": {
+						"ca": "3. Infern.",
+						"da": "3. Helvede.",
+						"en-US": "3. Hell.",
+						"es": "3. Infierno.",
+						"fr": "3. Enfer.",
+						"hr": "3. Nebo.",
+						"hu": "3. A pokol.",
+						"it": "3. Inferno.",
+						"la": "3. Infernus.",
+						"pt-BR": "3. Inferno.",
+						"pt-PT": "3. Inferno.",
+						"ro": "3. Iadul.",
+						"sl": "3. Pekel",
+						"sv": "3. Helvetet"
+					}
+				},
+				{
+					"text": {
+						"ca": "4. Paradís.",
+						"da": "4. Himlen.",
+						"en-US": "4. Heaven.",
+						"es": "4. Gloria.",
+						"fr": "4. Paradis.",
+						"hr": "4. Pakao.",
+						"hu": "4. A paradicsom.",
+						"it": "4. Paradiso.",
+						"la": "4. Paradisus.",
+						"pt-BR": "4. Paraíso.",
+						"pt-PT": "4. Paraíso.",
+						"ro": "4. Paradisul.",
+						"sl": "4. Nebesa",
+						"sv": "4. Paradiset"
+					}
+				}
+			]
 		}
 	]
 }

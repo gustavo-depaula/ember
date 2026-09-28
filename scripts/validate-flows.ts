@@ -135,6 +135,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'meditation',
   'psalm',
   'response',
+  'antiphon',
   'subheading',
   'proper',
   'options',

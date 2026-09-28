@@ -109,7 +109,11 @@ export type FlowSection = { lang?: string } & (
   // language (Ps. / Sl), and it renders subordinate to the prayed text rather
   // than sharing its weight.
   | { type: 'psalm'; verses: { ref?: LocalizedText; text: LocalizedContent }[] }
-  | { type: 'response'; verses: { v: LocalizedText; r: LocalizedText }[] }
+  // A line may stand alone: a lone ℟. Amen., or a Kyrie whose third ℣ follows
+  // the ℟ with no answer of its own.
+  | { type: 'response'; verses: { v?: LocalizedText; r?: LocalizedText }[] }
+  // An antiphon framing a psalm or canticle, set with the breviary's red "Ant."
+  | { type: 'antiphon'; text: LocalizedText }
   | { type: 'subheading'; text: LocalizedText }
   | {
       type: 'options'
@@ -369,7 +373,8 @@ export type RenderedSection =
       rank?: BilingualText
       cycle?: BilingualText
     }
-  | { type: 'response'; verses: { v: BilingualText; r: BilingualText }[] }
+  | { type: 'response'; verses: { v?: BilingualText; r?: BilingualText }[] }
+  | { type: 'antiphon'; text: BilingualText }
   | { type: 'subheading'; text: BilingualText }
   | {
       type: 'options'

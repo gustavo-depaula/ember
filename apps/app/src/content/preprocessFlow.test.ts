@@ -78,6 +78,33 @@ describe('preprocessFlow — primitive mapping', () => {
     })
   })
 
+  it('response keeps a lone ℣ or ℟ line (the third Kyrie, a closing Amen)', async () => {
+    const sections: RenderedSection[] = [
+      {
+        type: 'response',
+        verses: [
+          { v: { primary: 'Lord, have mercy.' }, r: { primary: 'Christ, have mercy.' } },
+          { v: { primary: 'Lord, have mercy.' } },
+          { r: { primary: 'Amen.' } },
+        ],
+      },
+    ]
+    const [primitive] = await preprocessFlow(sections, ctx())
+    expect(primitive).toMatchObject({
+      items: [
+        { role: 'v', text: { primary: 'Lord, have mercy.' } },
+        { role: 'r', text: { primary: 'Christ, have mercy.' } },
+        { role: 'v', text: { primary: 'Lord, have mercy.' } },
+        { role: 'r', text: { primary: 'Amen.' } },
+      ],
+    })
+  })
+
+  it('antiphon maps to a vr verse carrying the breviary Ant. mark', async () => {
+    const [primitive] = await preprocessFlow([{ type: 'antiphon', text }], ctx())
+    expect(primitive).toEqual({ type: 'verses', style: 'vr', items: [{ mark: 'Ant.', text }] })
+  })
+
   it('callout absorbs section-marker / celebration-banner / liturgical-color', async () => {
     const sections: RenderedSection[] = [
       { type: 'section-marker', title: text, color: 'gold' },

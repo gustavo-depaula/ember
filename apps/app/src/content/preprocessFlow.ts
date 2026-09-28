@@ -135,10 +135,13 @@ async function preprocessSection(
         type: 'verses',
         style: 'vr',
         items: section.verses.flatMap((vr) => [
-          { role: 'v' as const, text: vr.v },
-          { role: 'r' as const, text: vr.r },
+          ...(vr.v ? [{ role: 'v' as const, text: vr.v }] : []),
+          ...(vr.r ? [{ role: 'r' as const, text: vr.r }] : []),
         ]),
       }
+
+    case 'antiphon':
+      return { type: 'verses', style: 'vr', items: [{ mark: 'Ant.', text: section.text }] }
 
     case 'gallery':
       return {

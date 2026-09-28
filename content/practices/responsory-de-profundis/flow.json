@@ -125,9 +125,20 @@
 		{
 			"type": "prayer",
 			"inline": {
-				"fr": "Inclína, Dómine, aurem tuam ad preces nostras, quibus misericórdiam tuam súpplices deprecámur, ut ánimam fámuli tui (fámulæ tuæ) N., quam de hoc sǽculo migráre iussísti, in pacis ac lucis regióne constítuas, et sanctórum tuórum iúbeas esse consórtem. Per Christum Dóminum nostrum.\n\n℟. Amen.",
-				"la": "Inclína, Dómine, aurem tuam ad preces nostras, quibus misericórdiam tuam súpplices deprecámur, ut ánimam fámuli tui (fámulæ tuæ) N., quam de hoc sǽculo migráre iussísti, in pacis ac lucis regióne constítuas, et sanctórum tuórum iúbeas esse consórtem. Per Christum Dóminum nostrum.\n\n℟. Amen."
+				"fr": "Inclína, Dómine, aurem tuam ad preces nostras, quibus misericórdiam tuam súpplices deprecámur, ut ánimam fámuli tui (fámulæ tuæ) N., quam de hoc sǽculo migráre iussísti, in pacis ac lucis regióne constítuas, et sanctórum tuórum iúbeas esse consórtem. Per Christum Dóminum nostrum.",
+				"la": "Inclína, Dómine, aurem tuam ad preces nostras, quibus misericórdiam tuam súpplices deprecámur, ut ánimam fámuli tui (fámulæ tuæ) N., quam de hoc sǽculo migráre iussísti, in pacis ac lucis regióne constítuas, et sanctórum tuórum iúbeas esse consórtem. Per Christum Dóminum nostrum."
 			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"fr": "Amen.",
+						"la": "Amen."
+					}
+				}
+			]
 		}
 	]
 }

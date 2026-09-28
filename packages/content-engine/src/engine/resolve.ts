@@ -193,11 +193,14 @@ export function resolveSection(
         {
           type: 'response',
           verses: section.verses.map((v) => ({
-            v: ec.localize(v.v),
-            r: ec.localize(v.r),
+            ...(v.v ? { v: ec.localize(v.v) } : {}),
+            ...(v.r ? { r: ec.localize(v.r) } : {}),
           })),
         },
       ]
+
+    case 'antiphon':
+      return [{ type: 'antiphon', text: ec.localize(section.text) }]
 
     case 'repeat':
       return resolveRepeat(section, context, ec, resolveSection)

@@ -72,41 +72,89 @@ def as_text(kind: str, t: str) -> str:
     return t
 
 
-def block_kind(row_kind: str) -> str:
-    return {"text": "prayer", "v": "response", "r": "response"}.get(row_kind, row_kind)
-
-
 def langs_of(rows: list[dict]) -> set[str]:
     return {lang for r in rows for lang in r["text"]}
 
 
+def pivot_text(r: dict) -> str:
+    for lang in ("la", "en-US", "pt-BR"):
+        if lang in r["text"]:
+            return r["text"][lang]
+    return next(iter(r["text"].values()))
+
+
+# Every language's word for it starts "Ant" (Antiphona, Antífona, Antienne, Antifon…).
+# \S, not a letter class: a combining accent (Hungarian "Antifóna") isn't a letter.
+ANTIPHON_LABEL = re.compile(r"^\*?Ant\S{0,10}?[.:]\*?\s*", re.I)
+NUMBERED = re.compile(r"^\d+\.\s")
+PSALM_TITLE = re.compile(r"^\*?(Psalm|Psalmus|Salmo|Ps\.)\s*\d", re.I)
+
+
+def row_block_kind(r: dict, prev: str | None, in_psalm: bool) -> str:
+    if r["kind"] in ("v", "r"):
+        return "response"
+    if r["kind"] != "text":
+        return r["kind"]
+    t = pivot_text(r)
+    if ANTIPHON_LABEL.match(t):
+        return "antiphon"
+    # Psalm verses — numbered, under a "Psalm N" heading, or the whole of a
+    # prayer titled as a psalm — and the Glory Be that closes them are set line
+    # by line like the breviary's, not as paragraphs.
+    if in_psalm or NUMBERED.match(t) or (prev == "psalm" and len(t) < 160):
+        return "psalm"
+    return "prayer"
+
+
+def split_kyrie(rows: list[dict]) -> list[dict]:
+    """The book answers "Kyrie, eleison" with "Christe, eleison. Kyrie, eleison."
+    as one response; the prayer is ℣ Kyrie, ℟ Christe, ℣ Kyrie."""
+    out: list[dict] = []
+    for r in rows:
+        if r["kind"] == "r" and re.match(r"^Christe, e.?l.?éison\. K", pivot_text(r)):
+            # Some languages join the halves with a comma or semicolon ("Cristo, ten
+            # piedad, Señor, ten piedad."): cut where the second invocation's
+            # capital begins.
+            parts = {lang: re.split(r"(?<=[.!;,])\s*(?=[A-ZÀ-ÝČŠŽ])", t.strip(), maxsplit=1) for lang, t in r["text"].items()}
+            if all(len(v) == 2 for v in parts.values()):
+                first = {lang: re.sub(r"[,;]$", ".", v[0].strip()) for lang, v in parts.items()}
+                out.append({"kind": "r", "text": first})
+                out.append({"kind": "v", "text": {lang: v[1] for lang, v in parts.items()}})
+                continue
+        out.append(r)
+    return out
+
+
+STRUCTURED = ("response", "psalm", "antiphon")
+
+
 def complete(block: dict, required: tuple[str, ...]) -> bool:
     rows = block["rows"]
-    if block["kind"] == "prayer":
-        return all(lang in langs_of(rows) for lang in required)
-    # Structured blocks render row by row, so every row needs every UI language.
-    if not all(all(lang in r["text"] for lang in required) for r in rows):
-        return False
-    if block["kind"] == "response":
-        kinds = [r["kind"] for r in rows]
-        return len(kinds) % 2 == 0 and kinds == ["v", "r"] * (len(kinds) // 2)
-    return True
+    if block["kind"] in STRUCTURED:
+        # Rendered row by row, so every row needs every UI language.
+        return all(all(lang in r["text"] for lang in required) for r in rows)
+    return all(lang in langs_of(rows) for lang in required)
 
 
 def to_prayer(block: dict) -> dict:
     return {"kind": "prayer", "rows": block["rows"]}
 
 
-def build_blocks(rows: list[dict], required: tuple[str, ...]) -> list[dict]:
+def build_blocks(rows: list[dict], required: tuple[str, ...], psalm: bool = False) -> list[dict]:
     blocks: list[dict] = []
-    for r in rows:
-        k = block_kind(r["kind"])
-        if blocks and blocks[-1]["kind"] == k and k in ("prayer", "response"):
+    in_psalm = psalm
+    for r in split_kyrie(rows):
+        if r["kind"] == "subheading":
+            in_psalm = bool(PSALM_TITLE.match(pivot_text(r)))
+        elif r["kind"] != "text":
+            in_psalm = False
+        k = row_block_kind(r, blocks[-1]["kind"] if blocks else None, in_psalm)
+        if blocks and blocks[-1]["kind"] == k and k in ("prayer", "response", "psalm"):
             blocks[-1]["rows"].append(r)
         else:
             blocks.append({"kind": k, "rows": [r]})
 
-    blocks = [b if complete(b, required) or b["kind"] == "prayer" else to_prayer(b) for b in blocks]
+    blocks = [b if b["kind"] not in STRUCTURED or complete(b, required) else to_prayer(b) for b in blocks]
 
     def merge_runs(bs: list[dict]) -> list[dict]:
         out: list[dict] = []
@@ -135,6 +183,16 @@ def kind_in(r: dict, lang: str) -> str:
     return r.get("kinds", {}).get(lang, r["kind"])
 
 
+def plain(t: str) -> str:
+    """℣/℟ and antiphon lines render without inline Markdown; the book's italics
+    (the priest-only Dominus vobiscum) would show as asterisks."""
+    return re.sub(r"\*+([^*]+?)\*+", r"\1", t).strip()
+
+
+def by_lang(r: dict, fn=lambda t: t) -> dict:
+    return {lang: fn(t) for lang, t in sorted(r["text"].items())}
+
+
 def emit(block: dict) -> dict:
     rows = block["rows"]
     kind = block["kind"]
@@ -144,10 +202,17 @@ def emit(block: dict) -> dict:
             inline[lang] = "\n\n".join(as_text(kind_in(r, lang), r["text"][lang]) for r in rows if lang in r["text"])
         return {"type": "prayer", "inline": inline}
     if kind == "response":
-        verses = []
-        for v, r in zip(rows[0::2], rows[1::2]):
-            verses.append({"v": dict(sorted(v["text"].items())), "r": dict(sorted(r["text"].items()))})
+        verses: list[dict] = []
+        for r in rows:
+            if r["kind"] == "r" and verses and set(verses[-1]) == {"v"}:
+                verses[-1]["r"] = by_lang(r, plain)
+            else:
+                verses.append({r["kind"]: by_lang(r, plain)})
         return {"type": "response", "verses": verses}
+    if kind == "psalm":
+        return {"type": "psalm", "verses": [{"text": by_lang(r)} for r in rows]}
+    if kind == "antiphon":
+        return {"type": "antiphon", "text": by_lang(rows[0], lambda t: plain(ANTIPHON_LABEL.sub("", t)))}
     return {"type": kind, "text": {lang: unwrap(t) for lang, t in sorted(rows[0]["text"].items())}}
 
 
@@ -186,8 +251,9 @@ def sections_for(p: dict) -> list[dict]:
     # Where the pairing is a guess, each language keeps its own sequence in a single
     # block rather than being cut at boundaries that belong to another language.
     if pairing_is_a_guess(p):
-        return [emit({"kind": "prayer", "rows": p["rows"]})]
-    return [emit(b) for b in build_blocks(p["rows"], ui_langs(p))]
+        return [emit({"kind": "prayer", "rows": split_kyrie(p["rows"])})]
+    psalm = any(PSALM_TITLE.match(t) for t in p["title"].values())
+    return [emit(b) for b in build_blocks(p["rows"], ui_langs(p), psalm)]
 
 
 # — Clean-up —
@@ -221,14 +287,18 @@ def pt_pt_to_br(t: str) -> str:
 
 
 def texts_of(section: dict) -> list[dict]:
+    """Every per-language text dict in a section, in reading order."""
     if section["type"] == "response":
-        return [v for verse in section["verses"] for v in (verse["v"], verse["r"])]
+        return [verse[k] for verse in section["verses"] for k in ("v", "r") if k in verse]
+    if section["type"] == "psalm":
+        return [verse["text"] for verse in section["verses"]]
     return [section.get("inline") or section["text"]]
 
 
 def fill_pt_br(sections: list[dict], translation: list[str] | None) -> None:
     """A translation in catalog.json (one string per section) comes first; the
     Portugal edition's Portuguese stands in for the rest."""
+    assert not translation or len(translation) == len(sections), "catalog translation: one string per section"
     for i, s in enumerate(sections):
         for t in texts_of(s):
             if translation and translation[i]:
@@ -277,11 +347,12 @@ def rehome_easter_notes(sections: list[dict]) -> None:
     to the prayer it ends."""
     for i, s in enumerate(sections[1:], 1):
         prev = sections[i - 1]
-        if s["type"] != "subheading" or prev["type"] != "prayer":
+        if s["type"] != "subheading" or prev["type"] not in ("prayer", "antiphon"):
             continue
+        last = texts_of(prev)[-1]
         for lang, t in list(s["text"].items()):
-            if EASTER_NOTE.fullmatch(" " + t) and lang in prev["inline"]:
-                prev["inline"][lang] += " " + t
+            if EASTER_NOTE.fullmatch(" " + t) and lang in last:
+                last[lang] += " " + t
                 del s["text"][lang]
 
 
@@ -354,11 +425,16 @@ def feast_select(sections: list[dict]) -> list[dict]:
 
 
 def easter_select(section: dict) -> dict:
-    if section["type"] != "prayer" or not any(EASTER_NOTE.search(t) for t in section["inline"].values()):
+    if section["type"] == "select" or not any(
+        EASTER_NOTE.search(t) for texts in texts_of(section) for t in texts.values()
+    ):
         return section
 
     def variant(fn) -> list[dict]:
-        return [{"type": "prayer", "inline": {lang: fn(t) for lang, t in section["inline"].items()}}]
+        copy = json.loads(json.dumps(section))
+        for texts in texts_of(copy):
+            texts.update({lang: fn(t) for lang, t in texts.items()})
+        return [copy]
 
     return {
         "type": "select",

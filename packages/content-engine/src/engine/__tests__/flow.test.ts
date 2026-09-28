@@ -148,6 +148,36 @@ describe('resolveFlow — prayer ref defaultOpen', () => {
   })
 })
 
+describe('resolveFlow — response and antiphon', () => {
+  it('localizes a lone ℣ or ℟ line without inventing its partner', () => {
+    const result = resolveFlow(
+      flow({
+        type: 'response',
+        verses: [{ v: { 'pt-BR': 'Senhor, tende piedade.' } }, { r: { 'pt-BR': 'Amém.' } }],
+      }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      {
+        type: 'response',
+        verses: [{ v: { primary: 'Senhor, tende piedade.' } }, { r: { primary: 'Amém.' } }],
+      },
+    ])
+  })
+
+  it('localizes an antiphon', () => {
+    const result = resolveFlow(
+      flow({ type: 'antiphon', text: { 'pt-BR': 'Cantemos o hino dos três jovens.' } }),
+      makeContext(),
+      makeEngineContext(),
+    )
+    expect(result).toEqual([
+      { type: 'antiphon', text: { primary: 'Cantemos o hino dos três jovens.' } },
+    ])
+  })
+})
+
 describe('resolveFlow — prose with resolvedProse', () => {
   it('silently skips missing prose keys when resolvedProse is set', () => {
     expect(
