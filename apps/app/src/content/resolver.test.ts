@@ -16,7 +16,7 @@ import * as store from './store'
 
 const ourFather: PracticeManifest = {
   id: 'practice/our-father',
-  name: { 'en-US': 'Our Father', la: 'Pater Noster' },
+  name: { 'en-US': 'Our Father', 'pt-BR': 'Pai Nosso' },
   flow: {
     sections: [
       {
@@ -95,7 +95,7 @@ describe('resolvePrayer — reads practice manifests via inline flow', () => {
     // canonicalize that to `practice/our-father` and return its flow.sections.
     const asset = resolvePrayer('our-father')
     expect(asset).toBeDefined()
-    expect(asset?.title).toEqual({ 'en-US': 'Our Father', la: 'Pater Noster' })
+    expect(asset?.title).toEqual({ 'en-US': 'Our Father', 'pt-BR': 'Pai Nosso' })
     expect(Array.isArray(asset?.body)).toBe(true)
     expect(asset?.body).toHaveLength(1)
   })

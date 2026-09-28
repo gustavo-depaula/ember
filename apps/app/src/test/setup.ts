@@ -5,7 +5,7 @@
  */
 
 import '@testing-library/jest-dom/vitest'
-import { configure as configureTestingLibrary } from '@testing-library/react'
+import { cleanup, configure as configureTestingLibrary } from '@testing-library/react'
 
 // `findBy*` defaults to a 1s timeout, independent of a test's own budget. The
 // integration tests that boot the whole app (load the catalog, warm manifests,
@@ -100,6 +100,10 @@ if (typeof window !== 'undefined') {
 }
 
 afterEach(() => {
+  // Testing Library unmounts after each test only under vitest `globals`, which
+  // we don't enable. A screen left mounted keeps its RouterOutlet on the shared
+  // fake router, so the next test's route renders twice.
+  cleanup()
   vi.clearAllMocks()
 })
 
