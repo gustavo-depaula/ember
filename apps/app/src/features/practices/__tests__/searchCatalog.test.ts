@@ -15,6 +15,18 @@ vi.mock('@/content/resolver', () => ({
       id: 'practice/rosary-novena',
       name: { 'en-US': '54-Day Rosary Novena' },
     },
+    { id: 'practice/mental-prayer-teresian', name: { 'en-US': 'Mental Prayer — Teresian Method' } },
+    { id: 'practice/mental-prayer', name: { 'en-US': 'Mental Prayer' } },
+    {
+      id: 'practice/confession',
+      name: { 'en-US': 'Confession' },
+      description: { 'en-US': 'The sacramental forgiveness of sins.' },
+    },
+    {
+      id: 'practice/visit',
+      name: { 'en-US': 'Visit to the Blessed Sacrament' },
+      description: { 'en-US': 'At a different hour from the mental prayer.' },
+    },
     {
       id: 'practice/angelus',
       name: { 'en-US': 'Angelus' },
@@ -67,13 +79,27 @@ describe('searchCatalog', () => {
 
   it('matches practice tags and descriptions, collections, and book authors', () => {
     expect(ids('marian')).toEqual([
-      'practice:practice/rosary',
       'practice:practice/angelus',
+      'practice:practice/rosary',
       'collection:marian',
     ])
     expect(ids('incarnation')).toEqual(['practice:practice/angelus'])
     expect(ids('montfort')).toEqual(['book:secret'])
     expect(searchIndex(index, 'montfort')[0]).toMatchObject({ subtitle: 'St. Louis de Montfort' })
+  })
+
+  it('matches words, not fragments, and ranks the closer title first', () => {
+    expect(ids('mental')).toEqual([
+      'practice:practice/mental-prayer',
+      'practice:practice/mental-prayer-teresian',
+      'practice:practice/visit',
+    ])
+    expect(ids('Mental  p')).toEqual([
+      'practice:practice/mental-prayer',
+      'practice:practice/mental-prayer-teresian',
+      'practice:practice/visit',
+    ])
+    expect(ids('teresian')).toEqual(['practice:practice/mental-prayer-teresian'])
   })
 
   it('forgives a typo in a title', () => {

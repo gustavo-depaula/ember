@@ -1,13 +1,22 @@
 /**
- * Search normalization + fuzzy scoring. Hand-rolled (no fuzzy lib) to keep the
+ * Search normalization + word matching. Hand-rolled (no fuzzy lib) to keep the
  * tree light: the corpus is small enough that scoring every title in-memory is
  * cheap. The point is forgiveness — "Rosario" must find "Rosário", "sao jose"
- * must find "São José", and a stray typo ("rozario") shouldn't dead-end.
+ * must find "São José", "mental p" must find "Mental Prayer" mid-typing, and a
+ * stray typo ("rozario") shouldn't dead-end.
+ *
+ * Matching is by word, never by raw substring: "mental" inside "sacramental"
+ * is not a match.
  */
 
 /** Fold case + diacritics so accented and bare letters compare equal. */
 export function normalizeForSearch(text: string): string {
-  return text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().trim()
+  return text.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/\s+/g, ' ').trim()
+}
+
+/** Words of already-normalized text; punctuation and dashes separate words. */
+export function searchWords(normalized: string): string[] {
+  return normalized.split(/[^\p{L}\p{N}]+/u).filter(Boolean)
 }
 
 // Levenshtein with an early ceiling: once the best possible distance in a row
@@ -32,38 +41,42 @@ function editDistance(a: string, b: string, max: number): number {
   return prev[bl]
 }
 
-/** Allow 1 edit for short tokens, 2 for longer — proportional forgiveness. */
+// Short tokens get no typo allowance: one edit turns "p" or "sa" into
+// half the corpus.
 function typoBudget(token: string): number {
-  return token.length <= 5 ? 1 : 2
+  if (token.length < 4) return 0
+  return token.length < 8 ? 1 : 2
 }
+
+export type WordMatch = 'exact' | 'prefix' | 'typo'
 
 /**
- * Relevance score for a candidate string against an already-normalized query.
- * Exact 100, prefix 80, substring 60, then a per-token typo fallback at 40 so
- * misspelled queries still surface their match. 0 means no match.
- *
- * `query` MUST be pre-normalized via {@link normalizeForSearch}; `text` is
- * normalized here so callers can pass raw localized strings.
+ * How well every query token lands on some word (order-free): the weakest
+ * token decides. `undefined` when any token misses. A typo is forgiven against
+ * the whole word or, while the token is still being typed, the word's start.
  */
-export function fuzzyScore(text: string | undefined, query: string): number {
-  if (!text) return 0
-  return fuzzyScoreNormalized(normalizeForSearch(text), query)
-}
-
-/** {@link fuzzyScore} for text already passed through {@link normalizeForSearch} — for callers that index once and score on every keystroke. */
-export function fuzzyScoreNormalized(t: string, query: string): number {
-  if (!t || !query) return 0
-  if (t === query) return 100
-  if (t.startsWith(query)) return 80
-  if (t.includes(query)) return 60
-
-  // Every query token must land near some word in the text (order-free).
-  const words = t.split(/[\s'’-]+/).filter(Boolean)
-  const tokens = query.split(/[\s'’-]+/).filter(Boolean)
-  if (tokens.length === 0 || words.length === 0) return 0
-  const allClose = tokens.every((tok) => {
-    const budget = typoBudget(tok)
-    return words.some((w) => editDistance(tok, w, budget) <= budget)
-  })
-  return allClose ? 40 : 0
+export function matchWords(
+  words: string[],
+  tokens: string[],
+  { typos = true }: { typos?: boolean } = {},
+): WordMatch | undefined {
+  if (tokens.length === 0 || words.length === 0) return undefined
+  let weakest: WordMatch = 'exact'
+  for (const tok of tokens) {
+    if (words.includes(tok)) continue
+    if (words.some((w) => w.startsWith(tok))) {
+      if (weakest === 'exact') weakest = 'prefix'
+      continue
+    }
+    const budget = typos ? typoBudget(tok) : 0
+    if (budget === 0) return undefined
+    const close = words.some(
+      (w) =>
+        editDistance(tok, w, budget) <= budget ||
+        editDistance(tok, w.slice(0, tok.length), budget) <= budget,
+    )
+    if (!close) return undefined
+    weakest = 'typo'
+  }
+  return weakest
 }

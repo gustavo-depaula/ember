@@ -1,39 +1,58 @@
 import { describe, expect, it } from 'vitest'
 
-import { fuzzyScore, normalizeForSearch } from '../search'
+import { matchWords, normalizeForSearch, searchWords } from '../search'
 
 describe('normalizeForSearch', () => {
-  it('folds diacritics and case', () => {
+  it('folds diacritics and case, and collapses whitespace', () => {
     expect(normalizeForSearch('Santo Rosário')).toBe('santo rosario')
     expect(normalizeForSearch('São José')).toBe('sao jose')
     expect(normalizeForSearch('  Misericórdia ')).toBe('misericordia')
+    expect(normalizeForSearch('Mental  p')).toBe('mental p')
   })
 })
 
-describe('fuzzyScore', () => {
-  const q = normalizeForSearch
+describe('searchWords', () => {
+  it('splits on punctuation and dashes', () => {
+    expect(searchWords('mental prayer — teresian method')).toEqual([
+      'mental',
+      'prayer',
+      'teresian',
+      'method',
+    ])
+    expect(searchWords("st. alphonsus' daily-meditations")).toEqual([
+      'st',
+      'alphonsus',
+      'daily',
+      'meditations',
+    ])
+  })
+})
 
-  it('matches across missing accents', () => {
-    expect(fuzzyScore('Santo Rosário', q('rosario'))).toBeGreaterThan(0)
-    expect(fuzzyScore('Oração a São José', q('sao jose'))).toBeGreaterThan(0)
-    expect(fuzzyScore('Terço da Divina Misericórdia', q('miseric'))).toBeGreaterThan(0)
+describe('matchWords', () => {
+  const w = (text: string) => searchWords(normalizeForSearch(text))
+
+  it('matches whole words and the word being typed', () => {
+    expect(matchWords(w('Mental Prayer'), w('mental prayer'))).toBe('exact')
+    expect(matchWords(w('Mental Prayer'), w('mental p'))).toBe('prefix')
+    expect(matchWords(w('Oração a São José'), w('jose sao'))).toBe('exact')
+    expect(matchWords(w('Terço da Divina Misericórdia'), w('miseric'))).toBe('prefix')
   })
 
-  it('tolerates a one-character typo', () => {
-    expect(fuzzyScore('Santo Rosário', q('rozario'))).toBeGreaterThan(0)
-    expect(fuzzyScore('Catecismo', q('catacismo'))).toBeGreaterThan(0)
+  it('never matches inside a word', () => {
+    expect(matchWords(w('the sacramental presence'), w('mental'))).toBeUndefined()
   })
 
-  it('ranks exact/prefix above substring above typo', () => {
-    expect(fuzzyScore('Rosário', q('rosario'))).toBe(100)
-    expect(fuzzyScore('Santo Rosário', q('santo'))).toBe(80)
-    expect(fuzzyScore('Santo Rosário', q('rosario'))).toBe(60)
-    expect(fuzzyScore('Rosário', q('rozari'))).toBe(40)
+  it('forgives a typo in longer tokens only', () => {
+    expect(matchWords(w('Santo Rosário'), w('rozario'))).toBe('typo')
+    expect(matchWords(w('Catecismo'), w('catacismo'))).toBe('typo')
+    expect(matchWords(w('Santo Rosário'), w('rozar'))).toBe('typo')
+    expect(matchWords(w('Santo Rosário'), w('rozario'), { typos: false })).toBeUndefined()
+    // One edit away from "—" or "a" is not a match for a single letter.
+    expect(matchWords(w('Mental Prayer — Teresian Method'), w('mental x'))).toBeUndefined()
   })
 
-  it('rejects unrelated text and empty queries', () => {
-    expect(fuzzyScore('Santo Rosário', q('eucaristia'))).toBe(0)
-    expect(fuzzyScore('Santo Rosário', '')).toBe(0)
-    expect(fuzzyScore(undefined, q('rosario'))).toBe(0)
+  it('needs every token', () => {
+    expect(matchWords(w('Santo Rosário'), w('rosario eucaristia'))).toBeUndefined()
+    expect(matchWords(w('Santo Rosário'), [])).toBeUndefined()
   })
 })
