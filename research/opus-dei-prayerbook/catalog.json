@@ -416,8 +416,7 @@
 		"canticle-of-the-three-children": {
 			"icon": "eucharist",
 			"categories": [
-				"eucharistic",
-				"scripture"
+				"eucharistic"
 			],
 			"tags": [
 				"canticle",
@@ -434,7 +433,6 @@
 		"psalm-2": {
 			"icon": "scroll",
 			"categories": [
-				"scripture",
 				"devotion"
 			],
 			"tags": [
@@ -455,7 +453,6 @@
 		"psalm-50": {
 			"icon": "scroll",
 			"categories": [
-				"scripture",
 				"penance"
 			],
 			"tags": [
