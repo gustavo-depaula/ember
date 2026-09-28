@@ -28,6 +28,7 @@
       "ref": "our-father",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "12:00",
       "note": {
         "en-US": "One prayer, the one the Lord Himself taught — enough to anchor the day, with no risk of being too much to sustain.",
         "pt-BR": "Uma só oração, a que o próprio Senhor ensinou — basta para ancorar o dia, sem risco de ser demais para sustentar."
@@ -47,6 +48,7 @@
       "ref": "mass",
       "tier": "essential",
       "schedule": { "type": "days-of-week", "days": [0] },
+      "time": "10:00",
       "note": {
         "en-US": "Sunday Mass — the one true non-negotiable of the Catholic week, the rock on which every fuller rule is later built.",
         "pt-BR": "A Missa dominical — o único inegociável da semana católica, a rocha sobre a qual toda regra mais ampla se edifica depois."
@@ -55,7 +57,8 @@
     {
       "ref": "confession",
       "tier": "ideal",
-      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Confession once a month, even when there is nothing big — kept simply to keep the habit alive.",
         "pt-BR": "A confissão uma vez por mês, mesmo quando não há nada de grave — mantida apenas para conservar viva a prática."

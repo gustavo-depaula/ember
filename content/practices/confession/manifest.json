@@ -36,9 +36,9 @@
     "slots": [
       {
         "schedule": {
-          "type": "times-per",
-          "count": 1,
-          "period": "month"
+          "type": "nth-weekday",
+          "n": [1],
+          "day": 6
         },
         "tier": "ideal",
         "enabled": false

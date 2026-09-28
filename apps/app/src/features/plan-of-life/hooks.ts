@@ -29,7 +29,6 @@ import { rescheduleAllReminders } from '@/lib/notifications'
 
 import { projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
-import { getPracticeStreak } from './utils'
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
   return [...slots].sort((a, b) => a.sort_order - b.sort_order)
@@ -75,24 +74,6 @@ export function useSlotsForPractice(practiceId: string | undefined): SlotState[]
 
 export function usePractice(practiceId: string | undefined): UserPractice | undefined {
   return useEventStore((s) => (practiceId ? s.practices.get(practiceId) : undefined))
-}
-
-export function usePracticeCompletionStats(practiceId: string) {
-  const { completionsByPractice, completions } = useEventStore(
-    useShallow((s) => ({
-      completionsByPractice: s.completionsByPractice,
-      completions: s.completions,
-    })),
-  )
-
-  return useMemo(() => {
-    const ids = completionsByPractice.get(practiceId)
-    const resolved = resolveCompletions(ids, completions)
-    const completedDates = [...new Set(resolved.map((c) => c.date))]
-    const currentStreak = getPracticeStreak(completedDates)
-    const totalDays = completedDates.length
-    return { currentStreak, totalDays, completedDates }
-  }, [completionsByPractice, completions, practiceId])
 }
 
 function sortedCompletionDates(

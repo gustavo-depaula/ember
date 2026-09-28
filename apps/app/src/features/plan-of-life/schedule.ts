@@ -1,11 +1,4 @@
-import {
-  differenceInCalendarDays,
-  endOfMonth,
-  endOfWeek,
-  parseISO,
-  startOfMonth,
-  startOfWeek,
-} from 'date-fns'
+import { differenceInCalendarDays, parseISO } from 'date-fns'
 
 import type { DayCalendar, LiturgicalSeason } from '@/lib/liturgical'
 
@@ -17,8 +10,8 @@ type ScheduleRule =
   | { type: 'daily' }
   | { type: 'days-of-week'; days: number[] }
   | { type: 'day-of-month'; days: number[] }
-  | { type: 'nth-weekday'; n: number; day: number }
-  | { type: 'times-per'; count: number; period: 'week' | 'month' }
+  // `n` counts from the month's start (1–4) or, as -1, its last such weekday.
+  | { type: 'nth-weekday'; n: number[]; day: number }
   | { type: 'fixed-program'; totalDays: number; startDate: string }
   | { type: 'periodic-series'; rule: ScheduleRule; totalOccurrences: number; startDate: string }
   | { type: 'holy-days-of-obligation' }
@@ -29,7 +22,34 @@ export type ScheduleContext = {
 }
 
 export function parseSchedule(json: string): Schedule {
-  return JSON.parse(json) as Schedule
+  return normalizeSchedule(JSON.parse(json))
+}
+
+type LegacySchedule =
+  | Schedule
+  | ({ type: 'nth-weekday'; n: number; day: number } & Pick<Schedule, 'seasons'>)
+  | ({ type: 'times-per'; count: number; period: 'week' | 'month' } & Pick<Schedule, 'seasons'>)
+
+/**
+ * Reads schedules stored before `nth-weekday` took a list of weeks and before
+ * "N times a week/month" gave way to fixed days — a rule has to name its days
+ * to land on the day's plan. The old quota becomes Saturdays: one a week, or
+ * the 1st (and 3rd) of the month; the next edit stores the concrete rule.
+ */
+export function normalizeSchedule(raw: LegacySchedule): Schedule {
+  if (raw.type === 'nth-weekday' && typeof raw.n === 'number') return { ...raw, n: [raw.n] }
+  if (raw.type === 'periodic-series') {
+    return { ...raw, rule: normalizeSchedule(raw.rule as LegacySchedule) as ScheduleRule }
+  }
+  if (raw.type !== 'times-per') return raw as Schedule
+  const { count, period, seasons } = raw
+  const base = seasons?.length ? { seasons } : {}
+  if (period === 'week') {
+    const spread = [[6], [2, 6], [1, 3, 5], [1, 3, 5, 6], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5, 6]]
+    const days = spread[Math.min(count, 6) - 1]
+    return days ? { type: 'days-of-week', days, ...base } : { type: 'daily', ...base }
+  }
+  return { type: 'nth-weekday', n: count >= 2 ? [1, 3] : [1], day: 6, ...base }
 }
 
 export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleContext): boolean {
@@ -48,10 +68,7 @@ export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleCon
       return schedule.days.includes(date.getDate())
 
     case 'nth-weekday':
-      return isNthWeekdayOfMonth(date, schedule.n, schedule.day)
-
-    case 'times-per':
-      return true
+      return schedule.n.some((n) => isNthWeekdayOfMonth(date, n, schedule.day))
 
     case 'fixed-program': {
       if (!schedule.startDate) return false
@@ -72,30 +89,6 @@ export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleCon
 
     default:
       return false
-  }
-}
-
-export function isFaithful(
-  schedule: Schedule,
-  completionsOnDate: number,
-  completionsInPeriod: number,
-): boolean {
-  if (schedule.type === 'times-per') {
-    return completionsInPeriod >= schedule.count
-  }
-  return completionsOnDate > 0
-}
-
-export function getPeriodBounds(date: Date, period: 'week' | 'month'): { start: Date; end: Date } {
-  if (period === 'week') {
-    return {
-      start: startOfWeek(date, { weekStartsOn: 0 }),
-      end: endOfWeek(date, { weekStartsOn: 0 }),
-    }
-  }
-  return {
-    start: startOfMonth(date),
-    end: endOfMonth(date),
   }
 }
 
@@ -127,6 +120,10 @@ function isNthWeekdayOfMonth(date: Date, n: number, weekday: number): boolean {
 }
 
 function getNthWeekdayDateOfMonth(year: number, month: number, n: number, weekday: number): Date {
+  if (n === -1) {
+    const last = new Date(year, month + 1, 0)
+    return new Date(year, month, last.getDate() - ((last.getDay() - weekday + 7) % 7))
+  }
   const firstOfMonth = new Date(year, month, 1)
   const firstWeekdayOffset = (weekday - firstOfMonth.getDay() + 7) % 7
   const day = 1 + firstWeekdayOffset + (n - 1) * 7
@@ -141,10 +138,13 @@ function generateOccurrences(schedule: Schedule, start: Date, count: number): Da
   let month = start.getMonth()
   const maxMonths = count + 12
 
+  const weeks = [...schedule.n].sort((a, b) => a - b)
   for (let i = 0; i < maxMonths && occurrences.length < count; i++) {
-    const occ = getNthWeekdayDateOfMonth(year, month, schedule.n, schedule.day)
-    if (differenceInCalendarDays(occ, start) >= 0) {
-      occurrences.push(occ)
+    for (const n of weeks) {
+      const occ = getNthWeekdayDateOfMonth(year, month, n, schedule.day)
+      if (differenceInCalendarDays(occ, start) >= 0 && occurrences.length < count) {
+        occurrences.push(occ)
+      }
     }
     month++
     if (month > 11) {

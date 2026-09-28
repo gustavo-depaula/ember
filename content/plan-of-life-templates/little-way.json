@@ -42,6 +42,7 @@
       "ref": "mass",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "12:15",
       "note": {
         "en-US": "Communion received as the little child receives from her Father's hand — not earned by feats, but given out of love.",
         "pt-BR": "A Comunhão recebida como a criança pequena recebe da mão do Pai — não conquistada por feitos, mas dada por amor."
@@ -70,7 +71,8 @@
     {
       "ref": "confession",
       "tier": "ideal",
-      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Confession kept simply and without scrupulosity, which Thérèse warned was itself an obstacle to the mercy it doubts.",
         "pt-BR": "A confissão mantida com simplicidade e sem escrupulosidade, que Teresinha advertia ser ela mesma um obstáculo à misericórdia de que duvida."

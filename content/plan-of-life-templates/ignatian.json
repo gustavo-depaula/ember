@@ -72,6 +72,7 @@
       "ref": "spiritual-reading",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "Daily reading that feeds discernment, schooling the heart to recognize the difference between the spirits that draw it and those that drain it.",
         "pt-BR": "A leitura diária que alimenta o discernimento, educando o coração a reconhecer a diferença entre os espíritos que o atraem e os que o esgotam."
@@ -80,7 +81,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1, 3], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Regular confession, the sacramental clearing that keeps discernment honest and the will free to choose the magis.",
         "pt-BR": "A confissão regular, a limpeza sacramental que mantém o discernimento honesto e a vontade livre para escolher o magis."

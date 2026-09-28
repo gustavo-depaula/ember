@@ -32,6 +32,7 @@
       "ref": "mass",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "07:30",
       "note": {
         "en-US": "Mass and Communion offered in reparation, consoling the Heart that loved so much and is so little loved in return.",
         "pt-BR": "A Missa e a Comunhão oferecidas em reparação, consolando o Coração que tanto amou e tão pouco é amado em retorno."
@@ -50,7 +51,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, the work of reparation begun in one's own heart before it is offered for others.",
         "pt-BR": "A confissão frequente, a obra de reparação começada no próprio coração antes de ser oferecida pelos outros."
@@ -59,7 +61,8 @@
     {
       "ref": "first-friday-devotion",
       "tier": "essential",
-      "schedule": { "type": "nth-weekday", "n": 1, "day": 5 },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 5 },
+      "time": "07:30",
       "note": {
         "en-US": "The Communion of Reparation on nine consecutive first Fridays, kept for the Great Promise made to St. Margaret Mary.",
         "pt-BR": "A Comunhão reparadora em nove primeiras sextas-feiras consecutivas, guardada pela Grande Promessa feita a Santa Margarida Maria."

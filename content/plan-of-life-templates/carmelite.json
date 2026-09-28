@@ -63,6 +63,7 @@
       "ref": "spiritual-reading",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "Scripture and a Carmelite master — Teresa, John of the Cross, Thérèse, Elizabeth of the Trinity, Edith Stein — read slowly, as fuel for the hour of prayer.",
         "pt-BR": "A Escritura e um mestre carmelita — Teresa, João da Cruz, Teresinha, Isabel da Trindade, Edith Stein — lidos com vagar, como alimento para a hora de oração."
@@ -92,6 +93,7 @@
       "ref": "holy-hour",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [0] },
+      "time": "19:00",
       "note": {
         "en-US": "A weekly Holy Hour before the Blessed Sacrament — silence and adoration as positive goods, the deepening of mental prayer in His Eucharistic presence.",
         "pt-BR": "Uma Hora Santa semanal diante do Santíssimo — o silêncio e a adoração como bens positivos, o aprofundamento da oração mental em sua presença eucarística."
@@ -100,7 +102,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1, 3], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, clearing the soul of attachments so the work of detachment — nada — may go on unhindered.",
         "pt-BR": "A confissão frequente, que limpa a alma dos apegos para que a obra do desapego — o nada — prossiga sem estorvo."

@@ -53,6 +53,7 @@
       "ref": "spiritual-reading",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "The leg of Study — a daily portion of intentional formation, so as to understand the faith well enough to live it and share it.",
         "pt-BR": "A perna do Estudo — uma porção diária de formação intencional, para compreender a fé o bastante para vivê-la e partilhá-la."
@@ -72,6 +73,7 @@
       "ref": "visit-blessed-sacrament",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "13:30",
       "note": {
         "en-US": "A brief visit to the Blessed Sacrament, the heart returning to its Friend in the midst of the day's work.",
         "pt-BR": "Uma breve visita ao Santíssimo, o coração voltando ao seu Amigo no meio do trabalho do dia."
@@ -90,7 +92,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, keeping the apostle's own conversion fresh so the witness rings true.",
         "pt-BR": "A confissão frequente, que mantém viva a própria conversão do apóstolo para que o testemunho soe verdadeiro."

@@ -16,7 +16,7 @@ function date(y: number, m: number, d: number): Date {
   return new Date(y, m - 1, d)
 }
 
-const firstFriday: Schedule = { type: 'nth-weekday', n: 1, day: 5 }
+const firstFriday: Schedule = { type: 'nth-weekday', n: [1], day: 5 }
 
 const restartProgram: ProgramConfig = {
   totalDays: 9,

@@ -52,6 +52,7 @@
       "ref": "spiritual-reading",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "A daily page from a devout book, the gentle nourishment that keeps the heart tender and the little virtues growing.",
         "pt-BR": "Uma página diária de um livro devoto, o alimento suave que mantém o coração terno e as pequenas virtudes em crescimento."
@@ -70,7 +71,8 @@
     {
       "ref": "confession",
       "tier": "ideal",
-      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1, 3], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, weekly or fortnightly, sought as a sweetness and a renewal rather than endured as a reckoning.",
         "pt-BR": "A confissão frequente, semanal ou quinzenal, buscada como doçura e renovação, e não suportada como ajuste de contas."

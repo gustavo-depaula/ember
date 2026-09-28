@@ -47,6 +47,7 @@
       "ref": "jesus-prayer",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "12:00",
       "note": {
         "en-US": "The Jesus Prayer as ceaseless prayer through the day — \"Lord Jesus Christ, Son of God, have mercy on me, a sinner\" — carried beyond the morning and evening rules into walking, working, and waiting.",
         "pt-BR": "A Oração de Jesus como oração incessante ao longo do dia — \"Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador\" — levada para além das regras matinal e vespertina, no caminhar, no trabalho e na espera."
@@ -56,6 +57,7 @@
       "ref": "mass",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [0] },
+      "time": "10:00",
       "note": {
         "en-US": "The Divine Liturgy, attended when it can be reached — the East's celebration of the Eucharist and foretaste of the heavenly worship.",
         "pt-BR": "A Divina Liturgia, frequentada quando se pode alcançá-la — a celebração eucarística do Oriente e antegozo do culto celeste."
@@ -91,7 +93,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
+      "time": "16:00",
       "note": {
         "en-US": "Confession, often less frequent than in the Roman practice but more deeply prepared, before one's spiritual father.",
         "pt-BR": "A confissão, muitas vezes menos frequente que na prática latina mas preparada com mais profundidade, diante do pai espiritual."

@@ -1,8 +1,6 @@
 import { useRouter } from 'expo-router'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Modal, Pressable } from 'react-native'
-import { YStack } from 'tamagui'
 
 import { getHourSlots } from '@/content/pins'
 import { findGroupMemberInSet, loadFlow } from '@/content/resolver'
@@ -17,17 +15,15 @@ import {
   useUnarchivePractice,
   useUpdateSlot,
 } from '@/features/plan-of-life'
-import {
-  PracticeEditSheet,
-  type PracticeFormData,
-} from '@/features/plan-of-life/components/PracticeEditSheet'
+import { WhenSheet } from '@/features/plan-of-life/components/RuleSheets'
 import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
+import { normalizeSchedule, parseSchedule, type Schedule } from '@/features/plan-of-life/schedule'
 
 /**
  * A practice's place in the plan of life: whether it (or a sibling variant) is
- * already there, and how to add it. Adding a program enrolls it and opens its
- * day list. `editorOpen` drives `<PracticePlanEditor>`, which asks for tier and
- * schedule when adding needs them.
+ * already there, and how to add it. Every time in the rule has an hour: one
+ * the practice suggests is taken as is, otherwise `<PracticePlanEditor>` asks
+ * for it. Adding a program enrolls it and opens its day list.
  */
 export function usePracticePlan(manifest: PracticeManifest | undefined) {
   const router = useRouter()
@@ -53,7 +49,11 @@ export function usePracticePlan(manifest: PracticeManifest | undefined) {
   const updateSlot = useUpdateSlot()
   const enableSlots = useEnableSlotsForPractice()
   const unarchivePractice = useUnarchivePractice()
-  const [editorOpen, setEditorOpen] = useState(false)
+  const [asking, setAsking] = useState<Asking>()
+
+  const slotDefaults = manifest?.defaults?.slots?.[0]
+  const suggestedTime = slotDefaults?.time
+  const defaultTier = (slotDefaults?.tier as Tier | undefined) ?? 'ideal'
 
   // An office arrives with every hour listed, each its own row to switch off.
   // Resolves false for any other practice, which the caller adds as one slot.
@@ -73,6 +73,12 @@ export function usePracticePlan(manifest: PracticeManifest | undefined) {
     router.push({ pathname: '/practices/[manifestId]/program', params: { manifestId: planId } })
   }
 
+  // With the practice's own hour, or after asking for one.
+  function withTime(schedule: Schedule, fields: Asking['fields'], add: (a: When) => void) {
+    if (suggestedTime) return add({ schedule, time: suggestedTime })
+    setAsking({ schedule, fields, add })
+  }
+
   function beginProgram(program: NonNullable<PracticeManifest['program']>) {
     const onSuccess = async () => {
       await createProgramCursor(planId)
@@ -82,56 +88,46 @@ export function usePracticePlan(manifest: PracticeManifest | undefined) {
       enableSlots.mutate(planId, { onSuccess })
       return
     }
-    const slotDefaults = manifest?.defaults?.slots?.[0]
     const schedule = selectEnrollmentSchedule(
       program.progressPolicy,
-      slotDefaults?.schedule ?? { type: 'daily' as const },
+      normalizeSchedule(slotDefaults?.schedule ?? { type: 'daily' }),
       program.totalDays,
       new Date().toISOString().split('T')[0],
     )
-    const tier = (slotDefaults?.tier as Tier | undefined) ?? 'extra'
-    createPractice.mutate(
-      { id: planId, slot: { tier, schedule: JSON.stringify(schedule) } },
-      { onSuccess },
+    withTime(schedule, 'time', ({ time }) =>
+      createPractice.mutate(
+        { id: planId, slot: { tier: defaultTier, time, schedule: JSON.stringify(schedule) } },
+        { onSuccess },
+      ),
     )
   }
 
   function addToPlan() {
-    if (!planId) return
-    if (manifest?.program) return beginProgram(manifest.program)
+    if (!planId || !manifest) return
+    if (manifest.program) return beginProgram(manifest.program)
     const practice = getPractice(planId)
-    if (practice?.archived) {
-      unarchivePractice.mutate(planId)
-    } else if (firstSlot && !firstSlot.enabled) {
-      // Only the seeded placeholder: an office still needs its hours.
-      if (slots.length > 1 || firstSlot.pins) {
-        enableSlots.mutate(planId)
-        return
-      }
-      void addHours(planId, { tier: firstSlot.tier, schedule: firstSlot.schedule }).then(
-        (added) => {
-          if (!added) enableSlots.mutate(planId)
-        },
-      )
-    } else {
-      setEditorOpen(true)
-    }
-  }
+    if (practice?.archived) return unarchivePractice.mutate(planId)
 
-  function saveFromEditor(data: PracticeFormData) {
-    if (firstSlot) {
-      updateSlot.mutate({
-        id: firstSlot.id,
-        data: { tier: data.tier, schedule: JSON.stringify(data.schedule), enabled: 1 },
+    // An office's hours set up before come back as they were.
+    if (firstSlot && (slots.length > 1 || firstSlot.pins)) return enableSlots.mutate(planId)
+    const schedule = firstSlot
+      ? parseSchedule(firstSlot.schedule)
+      : normalizeSchedule(slotDefaults?.schedule ?? { type: 'daily' })
+    const base = { tier: firstSlot?.tier ?? defaultTier, schedule: JSON.stringify(schedule) }
+    void addHours(planId, base).then((added) => {
+      if (added) return
+      // The seeded slot already carries the hour the practice suggests.
+      if (firstSlot?.time) return enableSlots.mutate(planId)
+      withTime(schedule, 'both', (when) => {
+        const data = { schedule: JSON.stringify(when.schedule), time: when.time }
+        if (firstSlot) return updateSlot.mutate({ id: firstSlot.id, data: { ...data, enabled: 1 } })
+        createPractice.mutate({
+          id: planId,
+          activeVariant: planId,
+          slot: { tier: base.tier, ...data },
+        })
       })
-    } else if (manifest) {
-      const base = { tier: data.tier, schedule: JSON.stringify(data.schedule) }
-      const { id } = manifest
-      void addHours(id, base).then((added) => {
-        if (!added) createPractice.mutate({ id, activeVariant: id, slot: base })
-      })
-    }
-    setEditorOpen(false)
+    })
   }
 
   return {
@@ -141,47 +137,31 @@ export function usePracticePlan(manifest: PracticeManifest | undefined) {
     /** The id the plan knows this practice by — a sibling variant's when that one was added. */
     planPracticeId: groupMemberInPlan ?? planId,
     addToPlan,
-    editorOpen,
-    closeEditor: () => setEditorOpen(false),
-    saveFromEditor,
+    asking,
+    closeAsking: () => setAsking(undefined),
   }
 }
 
-export function PracticePlanEditor({
-  manifest,
-  plan,
-}: {
-  manifest: PracticeManifest
-  plan: ReturnType<typeof usePracticePlan>
-}) {
+type When = { schedule: Schedule; time: string }
+type Asking = { schedule: Schedule; fields: 'both' | 'time'; add: (when: When) => void }
+
+/** Asks for the days and hour a practice joins the rule with. */
+export function PracticePlanEditor({ plan }: { plan: ReturnType<typeof usePracticePlan> }) {
   const { t } = useTranslation()
+  const { asking } = plan
   return (
-    <Modal
-      visible={plan.editorOpen}
-      animationType="slide"
-      transparent
-      onRequestClose={plan.closeEditor}
-    >
-      <YStack flex={1} justifyContent="flex-end">
-        <Pressable
-          style={{
-            position: 'absolute',
-            top: 0,
-            left: 0,
-            right: 0,
-            bottom: 0,
-            backgroundColor: 'rgba(0,0,0,0.4)',
-          }}
-          onPress={plan.closeEditor}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.closeModal')}
-        />
-        <PracticeEditSheet
-          manifest={manifest}
-          onSave={plan.saveFromEditor}
-          onClose={plan.closeEditor}
-        />
-      </YStack>
-    </Modal>
+    <WhenSheet
+      open={!!asking}
+      onClose={plan.closeAsking}
+      title={t('rule.addToRule')}
+      schedule={asking?.schedule ?? { type: 'daily' }}
+      time="08:00"
+      fields={asking?.fields}
+      confirmLabel={t('rule.add')}
+      onConfirm={(when) => {
+        asking?.add(when)
+        plan.closeAsking()
+      }}
+    />
   )
 }

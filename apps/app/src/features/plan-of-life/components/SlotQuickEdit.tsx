@@ -17,7 +17,7 @@ import { TimeInput } from './TimeInput'
 
 // The compact, edit-in-place editor that opens under a tapped slot branch.
 // Shows only the everyday knobs — time, tier, and a daily/days-of-week cadence
-// quick-pick. The full SchedulePicker (times-per, nth-weekday, holy days,
+// quick-pick. The full schedule (nth-weekday, holy days,
 // notifications, delete, program tracks) lives on the deep /plan/[practiceId]
 // page, reached by tapping the practice header.
 export function SlotQuickEdit({
@@ -70,7 +70,7 @@ export function SlotQuickEdit({
 }
 
 // A two-mode cadence subset: daily or specific days-of-week. Anything richer
-// (times-per, nth-weekday, holy days, seasons) is preserved untouched when the
+// (nth-weekday, holy days, seasons) is preserved untouched when the
 // slot already carries it — we show its label and route the user to the deep
 // page rather than clobbering it.
 function CadenceQuickPick({
@@ -176,8 +176,6 @@ function CadenceQuickPick({
 
 function advancedLabel(schedule: Schedule, t: TFunction): string {
   switch (schedule.type) {
-    case 'times-per':
-      return t('frequency.timesPer', { count: schedule.count })
     case 'day-of-month':
       return t('frequency.monthly')
     case 'nth-weekday':

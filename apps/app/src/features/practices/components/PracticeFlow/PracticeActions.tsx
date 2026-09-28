@@ -216,7 +216,7 @@ export function PracticeActionSheets({ actions }: { actions: Actions }) {
         open={actions.collectionOpen}
         onClose={actions.closeCollection}
       />
-      <PracticePlanEditor manifest={manifest} plan={plan} />
+      <PracticePlanEditor plan={plan} />
     </>
   )
 }
@@ -276,46 +276,7 @@ function PracticeSheet({ actions }: { actions: Actions }) {
               >
                 {t('practice.form')}
               </Typography>
-              <YStack marginHorizontal={-8}>
-                {group.members.map((member) => {
-                  const selected = member.manifest.id === manifest.id
-                  return (
-                    <Pressable
-                      key={member.manifest.id}
-                      onPress={() => actions.onPickVariant(member.manifest.id)}
-                      accessibilityRole="tab"
-                      accessibilityState={{ selected }}
-                      aria-selected={selected}
-                      accessibilityLabel={member.label}
-                    >
-                      <YStack
-                        paddingHorizontal={8}
-                        paddingVertical={7}
-                        borderRadius={1}
-                        backgroundColor={selected ? '$color' : 'transparent'}
-                      >
-                        <Typography
-                          fontSize={17}
-                          lineHeight={22}
-                          color={selected ? '$background' : '$colorSecondary'}
-                        >
-                          {member.label}
-                        </Typography>
-                        {member.description ? (
-                          <Typography
-                            fontSize={14}
-                            lineHeight={18}
-                            color={selected ? '$background' : '$colorSecondary'}
-                            opacity={0.8}
-                          >
-                            {member.description}
-                          </Typography>
-                        ) : null}
-                      </YStack>
-                    </Pressable>
-                  )
-                })}
-              </YStack>
+              <FormStamps group={group} selectedId={manifest.id} onPick={actions.onPickVariant} />
             </YStack>
           ) : null}
         </ScrollView>
@@ -362,6 +323,60 @@ function PracticeSheet({ actions }: { actions: Actions }) {
         </XStack>
       </YStack>
     </BottomSheet>
+  )
+}
+
+/** The forms of a practice as a stack of stamps, the chosen one inked. */
+export function FormStamps({
+  group,
+  selectedId,
+  onPick,
+}: {
+  group: NonNullable<ReturnType<typeof getAlternativeGroup>>
+  selectedId: string
+  onPick: (id: string) => void
+}) {
+  return (
+    <YStack marginHorizontal={-8}>
+      {group.members.map((member) => {
+        const selected = member.manifest.id === selectedId
+        return (
+          <Pressable
+            key={member.manifest.id}
+            onPress={() => onPick(member.manifest.id)}
+            accessibilityRole="tab"
+            accessibilityState={{ selected }}
+            aria-selected={selected}
+            accessibilityLabel={member.label}
+          >
+            <YStack
+              paddingHorizontal={8}
+              paddingVertical={7}
+              borderRadius={1}
+              backgroundColor={selected ? '$color' : 'transparent'}
+            >
+              <Typography
+                fontSize={17}
+                lineHeight={22}
+                color={selected ? '$background' : '$colorSecondary'}
+              >
+                {member.label}
+              </Typography>
+              {member.description ? (
+                <Typography
+                  fontSize={14}
+                  lineHeight={18}
+                  color={selected ? '$background' : '$colorSecondary'}
+                  opacity={0.8}
+                >
+                  {member.description}
+                </Typography>
+              ) : null}
+            </YStack>
+          </Pressable>
+        )
+      })}
+    </YStack>
   )
 }
 

@@ -4,7 +4,7 @@ import type { SlotState } from '@/db/events'
 import type { Tier } from '@/db/schema'
 import { composeSlotKey } from '@/lib/slotKey'
 
-import { getPeriodBounds, isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
+import { isApplicableOn, parseSchedule, type ScheduleContext } from './schedule'
 
 export type DayCompletion = {
   date: string
@@ -60,44 +60,6 @@ export function getCompletionRate(logs: DayCompletion[]): number {
   if (totalPossible === 0) return 0
   const totalCompleted = logs.reduce((sum, l) => sum + l.completed, 0)
   return totalCompleted / totalPossible
-}
-
-export function getPracticeStreak(dates: string[]): number {
-  if (dates.length === 0) return 0
-
-  const sorted = new Set(dates)
-  let streak = 0
-  let day = new Date()
-
-  while (true) {
-    const key = format(day, 'yyyy-MM-dd')
-    if (!sorted.has(key)) break
-    streak++
-    day = subDays(day, 1)
-  }
-
-  return streak
-}
-
-export function getLongestPracticeStreak(dates: string[]): number {
-  if (dates.length === 0) return 0
-
-  const sorted = [...dates].sort()
-  let longest = 1
-  let current = 1
-
-  for (let i = 1; i < sorted.length; i++) {
-    const prev = new Date(sorted[i - 1])
-    const curr = new Date(sorted[i])
-    if (differenceInCalendarDays(curr, prev) === 1) {
-      current++
-      if (current > longest) longest = current
-    } else {
-      current = 1
-    }
-  }
-
-  return longest
 }
 
 // Single-color wall data, for individual practice walls
@@ -164,34 +126,16 @@ export function isSlotApplicableOnDate(
   slot: SlotState,
   date: string,
   ctx?: ScheduleContext,
-  slotCompletionDates?: ReadonlyArray<string>,
 ): boolean {
-  const schedule = parseSchedule(slot.schedule)
-  const day = new Date(`${date}T00:00:00`)
-  if (!isApplicableOn(schedule, day, ctx)) return false
-
-  if (schedule.type !== 'times-per') return true
-
-  const dates = slotCompletionDates ?? []
-  if (dates.includes(date)) return true
-
-  const { start, end } = getPeriodBounds(day, schedule.period)
-  const startStr = format(start, 'yyyy-MM-dd')
-  const endStr = format(end, 'yyyy-MM-dd')
-  let inPeriod = 0
-  for (const d of dates) {
-    if (d >= startStr && d <= endStr) inPeriod++
-  }
-  return inPeriod < schedule.count
+  return isApplicableOn(parseSchedule(slot.schedule), new Date(`${date}T00:00:00`), ctx)
 }
 
 export function filterSlotsForDate(
   slots: SlotState[],
   date: string,
   ctx?: ScheduleContext,
-  completionsBySlot?: ReadonlyMap<string, ReadonlyArray<string>>,
 ): SlotState[] {
-  return slots.filter((s) => isSlotApplicableOnDate(s, date, ctx, completionsBySlot?.get(s.id)))
+  return slots.filter((s) => isSlotApplicableOnDate(s, date, ctx))
 }
 
 export function countByTier(slots: SlotState[]): {

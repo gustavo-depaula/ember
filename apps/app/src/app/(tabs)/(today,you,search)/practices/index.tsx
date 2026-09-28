@@ -33,6 +33,8 @@ import { collectionRow, devotionRow, traditionRow } from '@/features/explore/pic
 import { useCreatePractice } from '@/features/plan-of-life'
 import type { PracticeFormData } from '@/features/plan-of-life/components/PracticeEditSheet'
 import { PracticeEditSheet } from '@/features/plan-of-life/components/PracticeEditSheet'
+import { WhenSheet } from '@/features/plan-of-life/components/RuleSheets'
+import type { Schedule } from '@/features/plan-of-life/schedule'
 import { ShortcutGrid, type ShortcutTileData } from '@/features/search'
 import { localizeContent } from '@/lib/i18n'
 
@@ -58,21 +60,26 @@ export default function PracticeCatalogScreen() {
   const catalogVersion = useCatalogVersion()
 
   const [showEditor, setShowEditor] = useState(false)
+  // The new practice waits here while its days and hour are asked.
+  const [pending, setPending] = useState<PracticeFormData>()
   const createPractice = useCreatePractice()
 
   function handleSave(data: PracticeFormData) {
-    createPractice.mutate({
-      id: slugify(data.name),
-      customName: data.name,
-      customIcon: data.icon,
-      customDesc: data.description,
-      slot: {
-        tier: data.tier,
-        time: undefined,
-        schedule: JSON.stringify(data.schedule),
-      },
-    })
     setShowEditor(false)
+    // The Modal has to finish sliding away before a native sheet can present.
+    setTimeout(() => setPending(data), 350)
+  }
+
+  function handleWhen({ schedule, time }: { schedule: Schedule; time: string }) {
+    if (!pending) return
+    createPractice.mutate({
+      id: slugify(pending.name),
+      customName: pending.name,
+      customIcon: pending.icon,
+      customDesc: pending.description,
+      slot: { tier: 'ideal', time, schedule: JSON.stringify(schedule) },
+    })
+    setPending(undefined)
   }
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred collection manifests warm in.
@@ -263,6 +270,16 @@ export default function PracticeCatalogScreen() {
           <PracticeEditSheet onSave={handleSave} onClose={() => setShowEditor(false)} />
         </YStack>
       </Modal>
+
+      <WhenSheet
+        open={!!pending}
+        onClose={() => setPending(undefined)}
+        title={pending?.name ?? ''}
+        schedule={{ type: 'daily' }}
+        time="08:00"
+        confirmLabel={t('rule.add')}
+        onConfirm={handleWhen}
+      />
     </>
   )
 }

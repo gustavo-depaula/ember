@@ -63,6 +63,7 @@
       "ref": "spiritual-reading",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "The pillar of Study — daily Scripture and the doctors, especially St. Thomas, taken in small steady portions, for among Dominicans study is itself prayer.",
         "pt-BR": "O pilar do Estudo — a Escritura diária e os doutores, sobretudo São Tomás, tomados em pequenas porções constantes, pois entre os dominicanos o estudo é, ele mesmo, oração."
@@ -91,7 +92,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1, 3], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, keeping the preacher's heart clear so that what is handed on rings true.",
         "pt-BR": "A confissão frequente, que mantém claro o coração do pregador para que o que se transmite soe verdadeiro."

@@ -5,9 +5,16 @@ import { describe, expect, it } from 'vitest'
 import type { Tier } from '@/db/schema'
 import { dayMinutes, pickByWindow } from '../prayNowOrder'
 
-// Real plans, straight from content/: the templates' times and tiers.
+// Real plans, straight from content/: the templates' times and tiers, on an
+// ordinary weekday — the practices kept every day.
 const content = resolve(__dirname, '../../../../../../content')
-type TemplatePractice = { ref?: string; tier?: Tier; time?: string }
+type TemplatePractice = {
+  ref?: string
+  tier?: Tier
+  time?: string
+  schedule?: { type: string }
+  enabled?: boolean
+}
 const template = (id: string) =>
   (
     JSON.parse(readFileSync(`${content}/plan-of-life-templates/${id}.json`, 'utf8')) as {
@@ -17,7 +24,8 @@ const template = (id: string) =>
 
 function plan(id: string) {
   return template(id).flatMap((p) => {
-    if (!p.ref || !p.time) return []
+    if (!p.ref || !p.time || p.enabled === false) return []
+    if (p.schedule && p.schedule.type !== 'daily') return []
     return [{ ref: p.ref, tier: p.tier ?? 'essential', due: dayMinutes(p.time) }]
   })
 }
@@ -35,12 +43,13 @@ function pick(id: string, clock: string, done: string[] = []) {
 
 describe('pray now: which practice', () => {
   it('holds a timed practice until its hour', () => {
-    // At noon the 15:00 Chaplet is only coming up; from 14:30 it is due.
-    expect(pick('divine-mercy', '12:05', ['morning-offering-faustina'])).toEqual({
+    // Once the 12:15 Mass is prayed, the 15:00 Chaplet is only coming up; from 14:30 it is due.
+    const done = ['morning-offering-faustina', 'mass']
+    expect(pick('divine-mercy', '12:40', done)).toEqual({
       ref: 'chaplet-of-divine-mercy',
       comingUp: true,
     })
-    expect(pick('divine-mercy', '14:45', ['morning-offering-faustina'])).toEqual({
+    expect(pick('divine-mercy', '14:45', done)).toEqual({
       ref: 'chaplet-of-divine-mercy',
       comingUp: false,
     })
@@ -83,18 +92,19 @@ describe('pray now: which practice', () => {
     // The morning offering holds until noon — the morning's end — not until
     // the 22:00 examen.
     expect(pick('beginner-minimum', '11:30').ref).toBe('morning-offering')
-    expect(pick('beginner-minimum', '13:00')).toEqual({
+    expect(pick('beginner-minimum', '13:00', ['our-father'])).toEqual({
       ref: 'examination-of-conscience',
       comingUp: true,
     })
   })
 
   it('never brings back a missed practice', () => {
-    // Nothing prayed all morning: at 13h the card looks ahead, not back.
-    expect(pick('cursillo', '13:00')).toEqual({ ref: 'rosary', comingUp: true })
+    // Nothing prayed all morning: at 13h the card looks ahead to the 13:30
+    // visit, not back.
+    expect(pick('cursillo', '13:00')).toEqual({ ref: 'visit-blessed-sacrament', comingUp: false })
     // A timeframe ends with its part of the day: the 15:00 Chaplet is gone by
     // 23h; an evening Rosary holds through the night.
-    expect(pick('divine-mercy', '23:00', ['morning-offering-faustina']).ref).toBeUndefined()
+    expect(pick('divine-mercy', '23:00', ['morning-offering-faustina', 'mass']).ref).toBeUndefined()
     expect(pick('legion-of-mary', '03:00', ['morning-offering']).ref).toBe('rosary')
   })
 

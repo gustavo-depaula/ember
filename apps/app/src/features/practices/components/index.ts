@@ -1,6 +1,4 @@
 export { PracticeFlow } from './PracticeFlow'
-export { PracticeTeachingContent } from './PracticeTeachingContent'
 export { ProgramRestartModal } from './ProgramRestartModal'
 export { SearchAutocomplete } from './SearchAutocomplete'
 export { TrackPicker } from './TrackPicker'
-export { VariantList } from './VariantList'

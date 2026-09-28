@@ -53,6 +53,7 @@
       "ref": "spiritual-reading",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "Spiritual reading in the French school — Olier, Bérulle, and the masters who teach the interior life as adherence to Christ.",
         "pt-BR": "A leitura espiritual na escola francesa — Olier, Bérulle e os mestres que ensinam a vida interior como adesão a Cristo."
@@ -71,7 +72,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "10:00",
       "note": {
         "en-US": "Weekly confession, clearing the soul to live more purely in adherence to the mysteries of Christ.",
         "pt-BR": "A confissão semanal, que limpa a alma para viver mais puramente aderida aos mistérios de Cristo."

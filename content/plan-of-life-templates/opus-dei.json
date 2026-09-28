@@ -72,6 +72,7 @@
       "ref": "new-testament-reading",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "21:00",
       "note": {
         "en-US": "A few minutes of the New Testament itself, taken in order — entering each scene as one more of the people present, so that the Gospel is inhabited and not merely read.",
         "pt-BR": "Alguns minutos do próprio Novo Testamento, tomado por ordem — entrando em cada cena como mais uma das pessoas presentes, para que o Evangelho seja habitado e não apenas lido."
@@ -81,6 +82,7 @@
       "ref": "spiritual-reading",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "21:30",
       "note": {
         "en-US": "Ten or fifteen minutes of a solid spiritual book, read slowly with a pen — steady formation that keeps the rule from hardening into routine.",
         "pt-BR": "Dez ou quinze minutos de um livro espiritual sólido, lido devagar e de caneta na mão — formação constante que impede a regra de endurecer em rotina."
@@ -90,6 +92,7 @@
       "ref": "opus-dei-meditation",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "07:30",
       "note": {
         "en-US": "The day's points for prayer, drawn from the liturgy — not a substitute for the two half-hours but the raw material many bring into them.",
         "pt-BR": "Os pontos de oração do dia, tirados da liturgia — não um substituto das duas meias-horas, mas a matéria-prima que muitos levam para elas."
@@ -119,6 +122,7 @@
       "ref": "spiritual-communion-opus-dei",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "16:00",
       "note": {
         "en-US": "One sentence, made many times a day — the desire to receive Him with Our Lady's purity, humility and love, keeping the morning's Communion at work through the afternoon.",
         "pt-BR": "Uma só frase, feita muitas vezes ao dia — o desejo de recebê-Lo com a pureza, a humildade e o amor de Nossa Senhora, mantendo a Comunhão da manhã a trabalhar pela tarde adiante."
@@ -138,6 +142,7 @@
       "ref": "visit-blessed-sacrament",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "13:30",
       "note": {
         "en-US": "A brief stop before the Tabernacle in the midst of errands and work — a son returning, even for a moment, to his Father's house.",
         "pt-BR": "uma breve parada diante do Sacrário em meio às tarefas e ao trabalho — um filho que volta, mesmo por um instante, à casa do Pai."
@@ -156,7 +161,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent sacramental confession, the weekly washing that keeps a soul pursuing sanctity in the world honest and clean.",
         "pt-BR": "A confissão sacramental frequente, a lavagem semanal que mantém íntegra e limpa a alma que busca a santidade no mundo."
@@ -166,6 +172,7 @@
       "ref": "preces-opus-dei",
       "tier": "essential",
       "schedule": { "type": "daily" },
+      "time": "08:00",
       "note": {
         "en-US": "The vocal prayers of the Work, prayed each day — a litany that binds the member to the whole of Opus Dei, to the Church, the Pope, and the souls entrusted to its apostolate.",
         "pt-BR": "As orações vocais da Obra, rezadas a cada dia — uma ladainha que une o membro a todo o Opus Dei, à Igreja, ao Papa e às almas confiadas ao seu apostolado."
@@ -202,6 +209,7 @@
       "ref": "saturday-mary",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "09:00",
       "note": {
         "en-US": "The Saturday devotion to Our Lady — a Memorare, a Salve Regina, or another Marian prayer, marking her day within the week.",
         "pt-BR": "A devoção sabatina a Nossa Senhora — uma Memorare, uma Salve Rainha ou outra oração mariana, assinalando o dia dela dentro da semana."
@@ -211,6 +219,7 @@
       "ref": "friday-mortification",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [5] },
+      "time": "15:00",
       "note": {
         "en-US": "A penance offered each Friday in memory of the Passion — small, hidden, and concrete, so that love is proven in the body and not only intended.",
         "pt-BR": "Uma penitência oferecida em cada sexta-feira em memória da Paixão — pequena, oculta e concreta, para que o amor se prove no corpo e não fique apenas na intenção."

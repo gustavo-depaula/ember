@@ -27,7 +27,7 @@
 		"sortOrder": 71,
 		"slots": [
 			{
-				"schedule": { "type": "weekly", "weekdays": ["monday"] },
+				"schedule": { "type": "days-of-week", "days": [1] },
 				"tier": "extra",
 				"enabled": false
 			}

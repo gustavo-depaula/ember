@@ -11,8 +11,7 @@ export type ScheduleRule =
   | { type: 'daily' }
   | { type: 'days-of-week'; days: number[] }
   | { type: 'day-of-month'; days: number[] }
-  | { type: 'nth-weekday'; n: number; day: number }
-  | { type: 'times-per'; count: number; period: 'week' | 'month' }
+  | { type: 'nth-weekday'; n: number[]; day: number }
   | { type: 'fixed-program'; totalDays: number; startDate: string }
 
 export type Schedule = ScheduleRule & {

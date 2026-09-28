@@ -60,6 +60,7 @@
       "ref": "spiritual-reading",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "20:30",
       "note": {
         "en-US": "Reading from the Rule of St. Benedict and the monastic tradition — the Rule itself prescribes a cycle that re-reads it three times a year.",
         "pt-BR": "A leitura da Regra de São Bento e da tradição monástica — a própria Regra prescreve um ciclo que a relê três vezes por ano."
@@ -78,7 +79,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Regular confession, the humility of the Rule's twelve steps brought to the sacrament of mercy.",
         "pt-BR": "A confissão regular, a humildade dos doze graus da Regra levada ao sacramento da misericórdia."

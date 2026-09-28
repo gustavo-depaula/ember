@@ -52,6 +52,7 @@
       "ref": "mass",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "12:15",
       "note": {
         "en-US": "Mass and Communion offered in trust, drinking from the Heart of Christ the mercy poured out from His side at this same hour each day.",
         "pt-BR": "A Missa e a Comunhão oferecidas em confiança, bebendo do Coração de Cristo a misericórdia derramada do Seu lado, à mesma hora, cada dia."
@@ -60,7 +61,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, the cup made clean to receive — for trust without conversion is presumption, and Faustina warned against both.",
         "pt-BR": "A confissão frequente, o cálice purificado para receber — pois confiança sem conversão é presunção, e Faustina advertiu contra ambas."
@@ -70,6 +72,7 @@
       "ref": "divine-mercy-novena",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "15:00",
       "enabled": false,
       "note": {
         "en-US": "The Novena Jesus Himself dictated, prayed from Good Friday through the eve of Divine Mercy Sunday for nine groups of souls — enabled annually as Holy Week approaches.",

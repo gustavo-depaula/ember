@@ -36,12 +36,7 @@
     "sortOrder": 19,
     "slots": [
       {
-        "schedule": {
-          "type": "weekly",
-          "daysOfWeek": [
-            4
-          ]
-        },
+        "schedule": { "type": "days-of-week", "days": [4] },
         "tier": "extra",
         "enabled": false
       }

@@ -108,22 +108,6 @@ export function useCompletionRange(startDate: string, endDate: string): Completi
   )
 }
 
-/** Every date each slot was completed on, keyed by slot key. */
-export function useCompletionDatesBySlot(): Map<string, string[]> {
-  const completions = useEventStore((s) => s.completions)
-
-  return useMemo(() => {
-    const result = new Map<string, string[]>()
-    for (const c of completions.values()) {
-      const key = slotKeyOf(c)
-      const existing = result.get(key)
-      if (existing) existing.push(c.date)
-      else result.set(key, [c.date])
-    }
-    return result
-  }, [completions])
-}
-
 export function useCompletePractice() {
   return useMutation({
     mutationFn: ({

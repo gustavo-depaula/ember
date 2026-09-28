@@ -42,6 +42,7 @@
       "ref": "mass",
       "tier": "ideal",
       "schedule": { "type": "daily" },
+      "time": "07:30",
       "note": {
         "en-US": "Mass and Communion offered through Mary's hands, so that what is given to Christ passes first through the purest of hearts.",
         "pt-BR": "A Missa e a Comunhão oferecidas pelas mãos de Maria, para que o que se dá a Cristo passe primeiro pelo mais puro dos corações."
@@ -51,6 +52,7 @@
       "ref": "little-office-bvm",
       "tier": "ideal",
       "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "09:00",
       "note": {
         "en-US": "The Saturday devotion to Our Lady, keeping her own day with the Office that has praised her across the centuries.",
         "pt-BR": "A devoção de sábado a Nossa Senhora, guardando o dia que é dela com o Ofício que a louva através dos séculos."
@@ -59,7 +61,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "week" },
+      "schedule": { "type": "days-of-week", "days": [6] },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, keeping the soul a clean and worthy dwelling for the One whom Mary forms within it.",
         "pt-BR": "A confissão frequente, conservando a alma como morada limpa e digna daquele que Maria nela forma."
@@ -68,7 +71,8 @@
     {
       "ref": "total-consecration",
       "tier": "extra",
-      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
+      "time": "21:00",
       "note": {
         "en-US": "Montfort's thirty-three day preparation — knowledge of self, of Mary, of Jesus through Mary — by which the consecration is renewed and deepened toward each Marian feast.",
         "pt-BR": "A preparação de trinta e três dias de Montfort — conhecimento de si, de Maria, de Jesus por Maria — pela qual a consagração se renova e se aprofunda rumo a cada festa mariana."

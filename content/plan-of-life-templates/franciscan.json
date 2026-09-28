@@ -89,7 +89,8 @@
     {
       "ref": "confession",
       "tier": "essential",
-      "schedule": { "type": "times-per", "count": 1, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Regular confession — fitting for an order that calls its members penitents, those who never stop turning back to the Lord.",
         "pt-BR": "A confissão regular — própria de uma ordem que chama seus membros de penitentes, os que nunca cessam de voltar-se ao Senhor."

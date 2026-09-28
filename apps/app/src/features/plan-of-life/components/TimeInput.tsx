@@ -120,19 +120,6 @@ export function TimeInput({
       <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
         {t(`timeBlock.${blockLabel}`)}
       </Text>
-      <AnimatedPressable
-        onPress={() => {
-          lightTap()
-          onChange(null)
-        }}
-        hitSlop={12}
-        accessibilityRole="button"
-        accessibilityLabel={t('common.clear')}
-      >
-        <Text fontFamily="$body" fontSize="$3" color="$colorSecondary">
-          {t('common.clear')}
-        </Text>
-      </AnimatedPressable>
     </XStack>
   )
 }

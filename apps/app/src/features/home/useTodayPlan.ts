@@ -9,7 +9,6 @@ import {
   filterSlotsForDate,
   type ScheduleContext,
   useCompletedSlots,
-  useCompletionDatesBySlot,
   usePinnedFlows,
   useProgramHidesForDate,
   useSlots,
@@ -53,14 +52,11 @@ export function useTodayPlan() {
     return { season, dayCalendar }
   }, [yearCalendar, season, selectedDate])
 
-  const completionsBySlot = useCompletionDatesBySlot()
   const programHides = useProgramHidesForDate(selectedDate)
   const todaySlots = useMemo(
     () =>
-      filterSlotsForDate(slots, selectedDate, scheduleCtx, completionsBySlot).filter(
-        (s) => !programHides.has(s.id),
-      ),
-    [slots, selectedDate, scheduleCtx, completionsBySlot, programHides],
+      filterSlotsForDate(slots, selectedDate, scheduleCtx).filter((s) => !programHides.has(s.id)),
+    [slots, selectedDate, scheduleCtx, programHides],
   )
   // Rows name pinned slots from their flows; the count re-derives them as
   // those flows arrive.

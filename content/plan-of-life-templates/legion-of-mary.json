@@ -103,7 +103,8 @@
     {
       "ref": "confession",
       "tier": "ideal",
-      "schedule": { "type": "times-per", "count": 2, "period": "month" },
+      "schedule": { "type": "nth-weekday", "n": [1, 3], "day": 6 },
+      "time": "10:00",
       "note": {
         "en-US": "Frequent confession, recommended for the apostle who must carry grace to others.",
         "pt-BR": "A confissão frequente, recomendada ao apóstolo que deve levar a graça aos outros."

@@ -256,8 +256,6 @@ function cadenceInfo(
         days: days.map((d) => t(`day.${dayKeys[d]}`)).join(' · '),
       }
     }
-    case 'times-per':
-      return { label: t('frequency.timesPer', { count: schedule.count }) }
     case 'day-of-month':
     case 'nth-weekday':
       return { label: t('frequency.monthly') }

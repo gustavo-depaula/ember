@@ -2,8 +2,8 @@ import { describe, expect, it } from 'vitest'
 import type { Schedule } from './schedule'
 import { getOccurrenceBasedProgramDay } from './schedule'
 
-const firstFriday: Schedule = { type: 'nth-weekday', n: 1, day: 5 }
-const firstSaturday: Schedule = { type: 'nth-weekday', n: 1, day: 6 }
+const firstFriday: Schedule = { type: 'nth-weekday', n: [1], day: 5 }
+const firstSaturday: Schedule = { type: 'nth-weekday', n: [1], day: 6 }
 
 function date(y: number, m: number, d: number): Date {
   return new Date(y, m - 1, d)
