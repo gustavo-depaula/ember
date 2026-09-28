@@ -1,2 +1,2 @@
 export { BibleDiscovery, BibleReader } from './components'
-export { useBooks, useChapter } from './hooks'
+export { useBookName, useBooks, useChapter } from './hooks'
