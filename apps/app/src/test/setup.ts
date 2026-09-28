@@ -31,31 +31,6 @@ class StubEventEmitter {
   EventEmitter: StubEventEmitter,
 }
 
-// expo-crypto's native module isn't available in jsdom. Stub it out — only
-// the digest/uuid surfaces are touched by the app's content layer.
-vi.mock('expo-crypto', () => ({
-  CryptoDigestAlgorithm: { SHA256: 'SHA-256' },
-  CryptoEncoding: { HEX: 'hex', BASE64: 'base64' },
-  digestStringAsync: async (_alg: string, data: string) => {
-    // Tiny deterministic hash so any caller comparing hashes across calls
-    // sees stable values. Not cryptographically meaningful — tests only.
-    let h = 5381
-    for (let i = 0; i < data.length; i++) h = (h * 33) ^ data.charCodeAt(i)
-    return (h >>> 0).toString(16).padStart(8, '0')
-  },
-  randomUUID: () =>
-    'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
-      const r = (Math.random() * 16) | 0
-      const v = c === 'x' ? r : (r & 0x3) | 0x8
-      return v.toString(16)
-    }),
-  getRandomBytesAsync: async (n: number) => new Uint8Array(n),
-  getRandomValues: <T extends Uint8Array | Uint16Array | Uint32Array>(arr: T): T => {
-    for (let i = 0; i < arr.length; i++) arr[i] = Math.floor(Math.random() * 256) as never
-    return arr
-  },
-}))
-
 beforeAll(async () => {
   installHearthFetch()
   // react-native-web's AccessibilityInfo lacks the iOS-only
@@ -385,12 +360,6 @@ vi.mock('expo-linking', () => ({
   parse: () => ({ path: '', queryParams: {} }),
   useURL: () => undefined,
   addEventListener: () => ({ remove: () => {} }),
-}))
-
-vi.mock('expo-web-browser', () => ({
-  openBrowserAsync: async () => ({ type: 'opened' }),
-  dismissBrowser: async () => {},
-  WebBrowserPresentationStyle: { AUTOMATIC: 'automatic', FORM_SHEET: 'formSheet' },
 }))
 
 vi.mock('expo-file-system', () => ({
