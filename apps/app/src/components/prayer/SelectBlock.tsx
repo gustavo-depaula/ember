@@ -1,12 +1,12 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: static option sections never reorder
 import { type ReactNode, useEffect, useState } from 'react'
-import { Text, XStack, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 import { preprocessFlow } from '@/content/preprocessFlow'
 import { usePreprocessContext } from '@/content/preprocessRuntime'
 import type { ContainerOption, Primitive } from '@/content/primitives'
 import type { PickerStyle } from '@/content/types'
-import { AnimatedPressable } from '../AnimatedPressable'
-import { OptionCard } from './OptionCard'
+import { Typography } from '../typography'
+import { InkPicker } from './InkPicker'
 import { SelectBranch, selectBranchKey } from './SelectBranch'
 
 export function SelectBlock({
@@ -60,57 +60,32 @@ export function SelectBlock({
   }
 
   return (
-    <YStack gap="$sm">
-      <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={0.5}>
-        {label}
-      </Text>
+    // Air under the picker: a branch often opens with the next picker (Mass:
+    // Form → Celebration → View), and without it the labels stack into a block.
+    <YStack gap="$lg" paddingTop="$sm">
+      <YStack gap={10}>
+        <Typography
+          variant="label"
+          fontSize={14}
+          color="$colorBurgundy"
+          textTransform="uppercase"
+          letterSpacing={0.5}
+        >
+          {label}
+        </Typography>
 
-      {pickerStyle === 'cards' ? (
-        <YStack gap="$xs">
-          {options.map((option) => (
-            <OptionCard
-              key={option.id}
-              label={option.label.primary}
-              excerpt={option.excerpt?.primary}
-              isSelected={option.id === active?.id}
-              onPress={() => handleSelect(option.id)}
-            />
-          ))}
-        </YStack>
-      ) : (
-        <XStack gap="$xs" flexWrap="wrap">
-          {options.map((option) => {
-            const isSelected = option.id === active?.id
-            return (
-              <AnimatedPressable
-                key={option.id}
-                onPress={() => handleSelect(option.id)}
-                accessibilityRole="tab"
-                accessibilityLabel={option.label.primary}
-                accessibilityState={{ selected: isSelected }}
-                testID={`select-option-${option.id}`}
-              >
-                <YStack
-                  paddingHorizontal="$sm"
-                  paddingVertical="$xs"
-                  borderRadius="$sm"
-                  borderWidth={1}
-                  borderColor={isSelected ? '$accent' : '$borderColor'}
-                  backgroundColor={isSelected ? '$accent' : 'transparent'}
-                >
-                  <Text
-                    fontFamily="$heading"
-                    fontSize="$1"
-                    color={isSelected ? '$background' : '$colorSecondary'}
-                  >
-                    {option.label.primary}
-                  </Text>
-                </YStack>
-              </AnimatedPressable>
-            )
-          })}
-        </XStack>
-      )}
+        <InkPicker
+          options={options.map((option) => ({
+            id: option.id,
+            label: option.label.primary,
+            excerpt: option.excerpt?.primary,
+            testID: `select-option-${option.id}`,
+          }))}
+          selectedId={active?.id}
+          onSelect={handleSelect}
+          pickerStyle={pickerStyle}
+        />
+      </YStack>
 
       {active && (
         <SelectBranch

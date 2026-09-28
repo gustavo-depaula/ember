@@ -1,0 +1,13 @@
+appId: me.dpgu.ember.dev
+---
+- openLink: "ember://pray/mass"
+- tapOn:
+    text: "Open"
+    optional: true
+- takeScreenshot: /tmp/mass-loading
+- extendedWaitUntil:
+    visible: "Introductory Rites"
+    timeout: 60000
+    optional: true
+- waitForAnimationToEnd
+- takeScreenshot: /tmp/mass-ready

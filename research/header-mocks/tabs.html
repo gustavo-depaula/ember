@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Cinzel; src: url(Cinzel_400Regular.ttf); }
+  @font-face { font-family: Garamond; src: url(EBGaramond_400Regular.ttf); }
+  @font-face { font-family: Garamond; font-style: italic; src: url(EBGaramond_400Regular_Italic.ttf); }
+  @font-face { font-family: Junicode; src: url(Junicode.ttf); }
+  @font-face { font-family: Junicode; font-style: italic; src: url(Junicode-Italic.ttf); }
+  :root { --bg:#0E0D0C; --ink:#EDE4D8; --muted:#A89A8C; --rule:#5C5248; --red:#D45A4C; --gold:#D4A63A; }
+  body { margin:0; background:#2a2724; padding:24px; font-family:Garamond; }
+  .grid { display:grid; grid-template-columns:repeat(4,390px); gap:28px; }
+  .cell h2 { font:22px Garamond; color:#fff; margin:0 0 8px; }
+  .cell h2 span { color:#bbb; font-size:15px; }
+  .phone { width:390px; height:var(--h,860px); background:var(--bg); color:var(--ink); overflow:hidden; padding:28px 36px 0; box-sizing:border-box; }
+  .sc { margin-bottom:34px; }
+  .lab { font-family:Cinzel; font-size:14px; color:var(--red); letter-spacing:.5px; margin-bottom:10px; }
+  .after { font-family:Junicode; font-style:italic; font-size:22px; margin-top:14px; color:var(--ink); opacity:.9; }
+
+  /* 0 current */
+  .v0 .opts { display:flex; flex-wrap:wrap; gap:4px; }
+  .v0 .o { font-family:Cinzel; font-size:13px; color:var(--muted); border:1px solid var(--rule); border-radius:4px; padding:4px 8px; }
+  .v0 .o.on { background:var(--gold); border-color:var(--gold); color:var(--bg); }
+  .v0 .lab { color:var(--gold); }
+
+  /* 1 underline */
+  .v1 .opts { display:flex; flex-wrap:wrap; gap:8px 18px; }
+  .v1 .o { font-family:Cinzel; font-size:13px; color:var(--muted); padding-bottom:3px; }
+  .v1 .o.on { color:var(--ink); border-bottom:1.5px solid var(--red); }
+
+  /* 2 rule track, one scrolling line */
+  .v2 .opts { display:flex; gap:22px; padding-right:60px; white-space:nowrap; border-bottom:.5px solid var(--rule); overflow:hidden;
+              -webkit-mask-image:linear-gradient(90deg,#000 85%,transparent); }
+  .v2 .o { font-family:Cinzel; font-size:13px; color:var(--muted); padding-bottom:8px; }
+  .v2 .o.on { color:var(--ink); box-shadow: inset 0 -2px 0 var(--ink); }
+
+  /* 3 rubric mark */
+  .v3 .opts { font-family:Cinzel; font-size:13px; color:var(--muted); line-height:26px; }
+  .v3 .o { white-space:nowrap; }
+  .v3 .o.on { color:var(--ink); }
+  .v3 .o.on::before { content:'✠ '; color:var(--red); font-family:Junicode; }
+  .v3 .sep { color:var(--rule); margin:0 8px; }
+
+  /* 4 ink stamp */
+  .v4 .opts { display:flex; flex-wrap:wrap; gap:6px 6px; }
+  .v4 .o { font-family:Cinzel; font-size:13px; color:var(--muted); padding:4px 8px; }
+  .v4 .o.on { background:var(--ink); color:var(--bg); border-radius:1px; }
+
+  /* 5 contents list */
+  .v5 .o { font-family:Garamond; font-size:18px; color:var(--muted); line-height:30px; position:relative; }
+  .v5 .o.on { color:var(--ink); }
+  .v5 .o.on::before { content:'✠'; color:var(--red); position:absolute; left:-20px; font-family:Junicode; font-size:13px; }
+
+  /* 6 red ink */
+  .v6 .opts { display:flex; flex-wrap:wrap; gap:8px 18px; }
+  .v6 .o { font-family:Cinzel; font-size:13px; color:var(--muted); }
+  .v6 .o.on { color:var(--red); }
+
+  /* 7 dial */
+  .v7 .dial { display:flex; align-items:baseline; justify-content:center; gap:14px; white-space:nowrap; overflow:hidden;
+              -webkit-mask-image:linear-gradient(90deg,transparent,#000 22%,#000 78%,transparent); }
+  .v7 .side { font-family:Garamond; font-size:15px; color:var(--muted); }
+  .v7 .mid { font-family:Junicode; font-size:24px; color:var(--ink); }
+  .v7 .dots { text-align:center; margin-top:6px; color:var(--rule); font-size:9px; letter-spacing:5px; }
+  .v7 .dots b { color:var(--red); font-weight:normal; }
+  .v7 .lab { text-align:center; }
+</style>
+</head>
+<body>
+<div class="grid" id="grid"></div>
+<script>
+  const massScenarios = [
+    { label: 'View', opts: ['Full Mass','Readings'], on: 0, next: 'Introductory Rites' },
+    { label: 'Greeting', opts: ['1','2','3','4','5','6','7','8'], on: 0, next: 'The grace of our Lord…' },
+    { label: 'Penitential Act', opts: ['Confiteor','Have mercy','Invocations'], on: 0, next: 'I confess to almighty God…' },
+    { label: 'Gospel', opts: ['Long form','Short form'], on: 0, next: '✠ A reading from the holy Gospel…' },
+    { label: 'Eucharistic Prayer', cards: true, opts: ['Eucharistic Prayer I (Roman Canon)','Eucharistic Prayer II','Eucharistic Prayer III','Eucharistic Prayer IV','For Various Needs I','For Various Needs II','For Various Needs III','For Various Needs IV','For Reconciliation I','For Reconciliation II'], on: 2, next: 'You are indeed Holy, O Lord…' },
+  ]
+  const devotionScenarios = [
+    { label: 'Mysteries', opts: ['Joyful Mysteries','Sorrowful Mysteries','Glorious Mysteries','Luminous Mysteries'], on: 2, next: 'Opening Prayers' },
+    { label: 'Hour', opts: ['Matins','Lauds','Prime','Terce','Sext','None','Vespers','Compline'], on: 6, next: 'Vespers' },
+    { label: 'Marian Antiphon', opts: ['Alma Redemptoris Mater (Advent–Candlemas)','Ave Regina Caelorum (Candlemas–Holy Wednesday)','Regina Caeli (Eastertide)','Salve Regina (Ordinary Time)'], on: 3, next: 'Salve Regina' },
+  ]
+  const scenarios = location.search.includes('mass') ? massScenarios : devotionScenarios
+  if (location.search.includes('mass')) document.documentElement.style.setProperty('--h', '1270px')
+  const variants = [
+    ['0 · Today', 'v0', 'gold pills'],
+    ['1 · Underline', 'v1', 'red rule under the choice'],
+    ['2 · Rule track', 'v2', 'one swipeable line, ink bar slides on a hairline'],
+    ['3 · Rubric mark', 'v3', 'red ✠ before the choice, middots'],
+    ['4 · Ink stamp', 'v4', 'choice reversed out of ink'],
+    ['5 · Contents list', 'v5', 'stacked, ✠ in the margin'],
+    ['6 · Red ink', 'v6', 'the choice printed in red'],
+    ['7 · Dial', 'v7', 'swipe; neighbours peek at the sides'],
+  ]
+  const opt = (s, i, cls = 'o') => `<span class="${cls}${i === s.on ? ' on' : ''}">${s.opts[i]}</span>`
+  const pickers = {
+    v3: (s) => `<div class="opts">${s.opts.map((_, i) => opt(s, i)).join(' <span class="sep">·</span> ')}</div>`,
+    v5: (s) => `<div class="opts" style="padding-left:20px">${s.opts.map((_, i) => `<div class="o${i === s.on ? ' on' : ''}">${s.opts[i]}</div>`).join('')}</div>`,
+    v7: (s) => {
+      const p = s.opts[s.on - 1], n = s.opts[s.on + 1]
+      return `<div class="dial"><span class="side">${p ?? ''}</span><span class="mid">${s.opts[s.on]}</span><span class="side">${n ?? ''}</span></div>
+        <div class="dots">${s.opts.map((_, i) => (i === s.on ? '<b>●</b>' : '●')).join('')}</div>`
+    },
+  }
+  const cards = (s) => `<div style="display:flex;flex-direction:column;gap:4px">${s.opts.map((o, i) => `<div class="o${i === s.on ? ' on' : ''}" style="font-size:14px;padding:8px 14px;border-radius:8px">${o}</div>`).join('')}</div>`
+  const plain = (s) => `<div class="opts">${s.opts.map((_, i) => opt(s, i)).join('')}</div>`
+  document.getElementById('grid').innerHTML = variants.map(([title, v, note]) => `
+    <div class="cell"><h2>${title} <span>${note}</span></h2>
+      <div class="phone ${v}">
+        ${scenarios.map((s) => `<div class="sc"><div class="lab">${s.label.toUpperCase()}</div>${(v === 'v0' && s.cards ? cards : pickers[v] ?? plain)(s)}<div class="after">${s.next}</div></div>`).join('')}
+      </div>
+    </div>`).join('')
+  document.querySelectorAll(".v2 .opts").forEach((el) => { const on = el.querySelector(".on"); el.scrollLeft = Math.max(0, on.offsetLeft - el.offsetLeft - 40) })
+</script>
+</body>
+</html>

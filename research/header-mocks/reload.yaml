@@ -1,0 +1,12 @@
+appId: me.dpgu.ember.dev
+---
+- launchApp:
+    stopApp: true
+- openLink: "exp+ember://expo-development-client/?url=http%3A%2F%2Flocalhost%3A8097"
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Today"
+    timeout: 180000
+    optional: true

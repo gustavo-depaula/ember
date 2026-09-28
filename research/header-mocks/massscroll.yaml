@@ -1,0 +1,14 @@
+appId: me.dpgu.ember.dev
+---
+- swipe:
+    start: "50%,80%"
+    end: "50%,35%"
+- waitForAnimationToEnd
+- takeScreenshot: /tmp/mass-greeting
+- scrollUntilVisible:
+    element: "Eucharistic Prayer III"
+    direction: DOWN
+    timeout: 120000
+    centerElement: true
+- waitForAnimationToEnd
+- takeScreenshot: /tmp/mass-ep

@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Cinzel; src: url(Cinzel_400Regular.ttf); }
+  @font-face { font-family: Garamond; src: url(EBGaramond_400Regular.ttf); }
+  @font-face { font-family: Garamond; font-style: italic; src: url(EBGaramond_400Regular_Italic.ttf); }
+  @font-face { font-family: Junicode; src: url(Junicode.ttf); }
+  @font-face { font-family: Junicode; font-style: italic; src: url(Junicode-Italic.ttf); }
+  :root { --bg:#0E0D0C; --ink:#EDE4D8; --muted:#A89A8C; --rule:#5C5248; --red:#D45A4C; }
+  body { margin:0; background:#2a2724; padding:24px; font-family:Garamond; }
+  .grid { display:grid; grid-template-columns:repeat(4,390px); gap:28px; }
+  .cell h2 { font:22px Garamond; color:#fff; margin:0 0 8px; }
+  .cell h2 span { color:#bbb; font-size:15px; }
+  .phone { width:390px; background:var(--bg); color:var(--ink); padding:28px 36px 20px; box-sizing:border-box; }
+  .sc { margin-bottom:30px; }
+  .lab { font-family:Cinzel; font-size:14px; color:var(--red); letter-spacing:.5px; margin-bottom:10px; }
+  .after { font-family:Junicode; font-style:italic; font-size:20px; margin-top:12px; opacity:.9; }
+
+  /* inline stamps */
+  .row { display:flex; flex-wrap:wrap; gap:6px; }
+  .st { font-family:Cinzel; font-size:13px; color:var(--muted); padding:5px 8px; line-height:18px; }
+  .st.on { background:var(--ink); color:var(--bg); border-radius:1px; }
+  .g .st { font-family:Garamond; font-size:17px; line-height:22px; padding:3px 8px; }
+
+  /* stacked list */
+  .list { display:flex; flex-direction:column; margin:0 -8px; }
+  .li { padding:7px 8px; color:var(--muted); font-family:Cinzel; font-size:13px; line-height:18px; }
+  .g .li { font-family:Garamond; font-size:17px; line-height:22px; }
+  .li.on { background:var(--ink); color:var(--bg); border-radius:1px; }
+  .li .ex { display:block; font-family:Garamond; font-style:italic; font-size:14px; color:var(--muted); opacity:.85; text-transform:none; }
+  .li.on .ex { color:var(--bg); opacity:.75; }
+  .ruled .li { border-bottom:.5px solid var(--rule); }
+  .ruled .li:first-child { border-top:.5px solid var(--rule); }
+  .ruled .li.on { border-color:transparent; }
+</style>
+</head>
+<body>
+<div class="grid" id="grid"></div>
+<script>
+  const S = [
+    { label: 'Forma', opts: ['Forma Ordinária', 'Forma Extraordinária'], on: 0 },
+    { label: 'Celebração', opts: ['São Venceslau, mártir', 'Segunda-feira da XXVI Semana do Tempo Comum'], on: 0, next: 'São Venceslau, mártir' },
+    { label: 'Visualização', opts: ['Missa Completa', 'Leituras'], on: 0, next: 'Ritos Iniciais' },
+    { label: 'Saudação', opts: ['1', '2', '3', '4', '5', '6', '7', '8'], on: 0, next: 'A graça de nosso Senhor…' },
+    { label: 'Ato Penitencial', opts: ['Confiteor', 'Tende piedade', 'Invocações'], on: 0, next: 'Confesso a Deus todo-poderoso…' },
+    { label: 'Prefácio', cards: true, opts: [
+      ['Prefácio da Páscoa I', 'O mistério pascal'],
+      ['Prefácio da Páscoa II', 'A vida nova em Cristo'],
+      ['Prefácio da Páscoa III', 'O Cristo vivo, que sempre intercede por nós'],
+      ['Prefácio da Páscoa IV', 'A restauração do universo pelo mistério pascal'],
+      ['Prefácio da Páscoa V', 'O Cristo sacerdote e vítima'],
+    ], on: 2, next: 'Na verdade, é justo e necessário…' },
+    { label: 'Oração Eucarística', cards: true, opts: [
+      ['Oração Eucarística I ou Cânon Romano'], ['Oração Eucarística II'], ['Oração Eucarística III'], ['Oração Eucarística IV'],
+      ['Para Diversas Circunstâncias I'], ['Para Diversas Circunstâncias II'], ['Para Diversas Circunstâncias III'], ['Para Diversas Circunstâncias IV'],
+      ['Sobre a Reconciliação I'], ['Sobre a Reconciliação II'],
+    ], on: 2, next: 'Na verdade, ó Pai, vós sois santo…' },
+  ]
+  const long = (s) => s.opts.some((o) => (Array.isArray(o) ? o[0] : o).length > 24)
+  const inline = (s) => `<div class="row">${s.opts.map((o, i) => `<span class="st${i === s.on ? ' on' : ''}">${o}</span>`).join('')}</div>`
+  const list = (s, cls = '') => `<div class="list ${cls}">${s.opts.map((o, i) => {
+    const [name, ex] = Array.isArray(o) ? o : [o]
+    return `<div class="li${i === s.on ? ' on' : ''}">${name}${ex ? `<span class="ex">${ex}</span>` : ''}</div>`
+  }).join('')}</div>`
+  const variants = [
+    ['A · Stamps wrap', '', 'long names become two-line stamps; cards stacked', (s) => (s.cards ? list(s) : inline(s))],
+    ['B · Long names stack', '', 'if any name is long, that picker becomes a list', (s) => (s.cards || long(s) ? list(s) : inline(s))],
+    ['C · Garamond stamps', 'g', 'upright mixed case — narrower than caps', (s) => (s.cards || long(s) ? list(s) : inline(s))],
+    ['D · Ruled index', '', 'lists ruled like a missal index; selected row reversed', (s) => (s.cards || long(s) ? list(s, 'ruled') : inline(s))],
+  ]
+  document.getElementById('grid').innerHTML = variants.map(([title, cls, note, pick]) => `
+    <div class="cell"><h2>${title} <span>${note}</span></h2>
+      <div class="phone ${cls}">
+        ${S.map((s) => `<div class="sc"><div class="lab">${s.label.toUpperCase()}</div>${pick(s)}${s.next ? `<div class="after">${s.next}</div>` : ''}</div>`).join('')}
+      </div>
+    </div>`).join('')
+</script>
+</body>
+</html>

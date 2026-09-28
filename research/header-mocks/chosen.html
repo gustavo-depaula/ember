@@ -1,0 +1,26 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:Cinzel;src:url(Cinzel_400Regular.ttf)}
+@font-face{font-family:Garamond;src:url(EBGaramond_400Regular.ttf)}
+@font-face{font-family:Garamond;font-style:italic;src:url(EBGaramond_400Regular_Italic.ttf)}
+@font-face{font-family:Junicode;src:url(Junicode.ttf)}
+@font-face{font-family:Junicode;font-style:italic;src:url(Junicode-Italic.ttf)}
+body{margin:0;background:#2a2724;padding:24px;display:flex;gap:28px;font-family:Garamond}
+.dark{--bg:#0E0D0C;--ink:#EDE4D8;--muted:#A89A8C;--rule:#5C5248;--red:#D45A4C}
+.light{--bg:#FFFFFF;--ink:#2C2418;--muted:#6B5D4F;--rule:#E5DDD2;--red:#6B1D2A}
+.phone{width:390px;height:560px;background:var(--bg);color:var(--ink);overflow:hidden;padding:59px 24px 0;box-sizing:border-box}
+.h{padding-top:56px;text-align:center}
+.orn{display:flex;align-items:center;gap:16px;color:var(--red);font-size:16px}
+.hair{flex:1;border-top:.5px solid var(--rule)}
+.t{font-family:Junicode;font-size:46px;line-height:54px;padding:24px 0 4px}
+.d{font-style:italic;font-size:16px;color:var(--muted);padding-bottom:24px}
+.b{padding:32px 12px 0}
+.label{font-family:Cinzel;color:var(--red);font-size:14px}
+.chips{font-family:Cinzel;font-size:12px;color:var(--muted);margin-top:8px;display:flex;gap:14px}
+.on{color:var(--ink);border-bottom:1.5px solid var(--red)}
+.s{font-family:Junicode;font-style:italic;font-size:26px;margin-top:18px}
+.r{font-family:Cinzel;font-size:15px;margin-top:12px}.r:before{content:'›';color:var(--muted);margin-right:14px}
+</style></head><body>
+<div class="phone dark"><div class="h"><div class="orn"><div class="hair"></div>✠<div class="hair"></div></div><div class="t">Holy Rosary</div><div class="d">Sunday, September 27, 2026</div><div style="display:flex"><div class="hair"></div></div></div><div class="b"></div></div>
+<div class="phone light"><div class="h"><div class="orn"><div class="hair"></div>✠<div class="hair"></div></div><div class="t">Holy Rosary</div><div class="d">Sunday, September 27, 2026</div><div style="display:flex"><div class="hair"></div></div></div><div class="b"></div></div>
+<script>document.querySelectorAll('.b').forEach(e=>e.innerHTML=`<div class="label">MYSTERIES</div><div class="chips"><span>Joyful</span><span>Sorrowful</span><span class="on">Glorious</span><span>Luminous</span></div><div class="s">Opening Prayers</div><div class="r">Sign of the Cross</div><div class="r">Apostles' Creed</div><div class="r">Our Father</div>`)</script>
+</body></html>

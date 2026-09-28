@@ -1,0 +1,22 @@
+appId: me.dpgu.ember.dev
+---
+- launchApp:
+    stopApp: true
+- openLink: "exp+ember://expo-development-client/?url=http%3A%2F%2Flocalhost%3A8097"
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Today"
+    timeout: 240000
+    optional: true
+- openLink: "ember://practices/rosary"
+- tapOn:
+    text: "Open"
+    optional: true
+- extendedWaitUntil:
+    visible: "Holy Rosary"
+    timeout: 60000
+    optional: true
+- waitForAnimationToEnd:
+    timeout: 5000

@@ -14,7 +14,6 @@ export {
 } from './LiturgicalColorContext'
 export { LiturgicalColorDot } from './LiturgicalColorDot'
 export { LiturgicalPrayerBlock } from './LiturgicalPrayerBlock'
-export { OptionCard } from './OptionCard'
 export { OptionsBlock } from './OptionsBlock'
 export { ProseBlock } from './ProseBlock'
 export { ResponseMark } from './ResponseMark'
