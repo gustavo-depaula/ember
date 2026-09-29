@@ -15,11 +15,11 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Our Lady | 17 | 6 |
 | Angels | 3 | 3 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
-| Seasons | 15 | 0 |
+| Seasons (including the 4 Ember Days) | 19 | 0 |
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 320 cards, 85 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 85 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -314,6 +314,13 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 - [ ] The Sacred Paschal Triduum
 - [ ] Easter — Sunday · [ ] Easter — weekday
 - [ ] Ordinary Time II — Sunday · [ ] Ordinary Time II — weekday
+
+**Ember Days** (*Têmporas*) — the Wednesday, Friday and Saturday of four weeks, one card each. Dates from the Divinum Officium missal (`missa/Latin/Tempora`): Advent `Adv3-3/5/6` (week of the Third Sunday of Advent), Lent `Quad1-3/5/6` (week of the First Sunday of Lent), Pentecost `Pasc7-3/5/6` (Pentecost week), September `093-3/5/6`. How the card is received is still open ([holy-cards.md](holy-cards.md)).
+
+- [ ] Advent Ember Days · *Têmporas do Advento*
+- [ ] Lenten Ember Days · *Têmporas da Quaresma*
+- [ ] Pentecost Ember Days · *Têmporas de Pentecostes*
+- [ ] September Ember Days · *Têmporas de Setembro*
 
 ## Parts of the Mass
 

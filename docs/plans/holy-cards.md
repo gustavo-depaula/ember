@@ -114,3 +114,4 @@ Store only the acts — liturgy check-ins (existing: completions, book progress)
 - The receiving moment — animation at check-in vs. silently appearing in the gallery. Ask before designing.
 - Weekday season threshold.
 - Whether optional memorials count as feast doors.
+- How the four Ember Days cards are received (e.g. Mass, or fasting kept, on the three days of the week). Their dates come from the Divinum Officium missal, not from `resolveOfDay`.
