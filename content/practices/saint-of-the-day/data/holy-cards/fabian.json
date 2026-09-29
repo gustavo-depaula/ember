@@ -1,0 +1,44 @@
+{
+  "id": "fabian",
+  "feast": {
+    "month": 1,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Fabian",
+    "pt-BR": "São Fabiano"
+  },
+  "patronOf": {
+    "en-US": "Pope and martyr",
+    "pt-BR": "Papa e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Suddenly a dove flying down lighted on his head.",
+    "pt-BR": "De repente, uma pomba desceu voando e pousou sobre sua cabeça."
+  },
+  "meta": {
+    "face": "A lean, clean-shaven man of about sixty-five with a long, fine-boned face — a thin nose with a high, narrow bridge and a slight hump, gentle downcast grey-blue eyes with drooping outer lids under fine brows sloping down at the ends, fine cheekbones over hollow cheeks, a long, narrow chin and a small, thin mouth; thick, short silver hair showing below the tiara, and a humble, quiet expression.",
+    "basis": "Eusebius tells of the dove that settled on his head at his election; Giovanni di Paolo's Saints Fabian and Sebastian (National Gallery, London) paints him as a lean, clean-shaven old pope with a mild, lowered gaze. That keeps him apart from the heavy-set Leo and the bearded Gregory.",
+    "excerpt": "Eusebius, Church History VI.29.3 (McGiffert tr., NPNF 1890, public domain, en-US verbatim); pt-BR is our faithful rendering",
+    "sources": [
+      {
+        "title": "Eusebius, Church History VI (New Advent, NPNF)",
+        "url": "https://www.newadvent.org/fathers/250106.htm"
+      },
+      {
+        "title": "Catholic Encyclopedia (1909), Pope St. Fabian",
+        "url": "https://www.newadvent.org/cathen/05742d.htm"
+      },
+      {
+        "title": "National Gallery, Giovanni di Paolo, Saints Fabian and Sebastian",
+        "url": "https://www.nationalgallery.org.uk/paintings/giovanni-di-paolo-saints-fabian-and-sebastian"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-5.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "blase",
+  "feast": {
+    "month": 2,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Blase",
+    "pt-BR": "São Brás"
+  },
+  "patronOf": {
+    "en-US": "Patron against ailments of the throat",
+    "pt-BR": "Protetor contra os males da garganta"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that we may rejoice in peace in this present life, and find help for life eternal.",
+    "pt-BR": "Concedei-nos, por sua intercessão, a paz neste mundo e a graça de chegar à vida eterna."
+  },
+  "meta": {
+    "face": "A man of about forty-five, clean-shaven, with a short, wide, rounded face and ruddy apple cheeks — a short, straight nose, large, round blue-grey eyes under light, arched brows, a small, neat chin and a bow-shaped mouth; light-brown hair showing under the mitre, and a gentle smile turned down toward the boy.",
+    "basis": "Western images always give him episcopal dress, most often with the candle the widow brought him (Golden Legend), and Memling's Lübeck panel shows a mild, clean-shaven, middle-aged bishop. The younger, ruddy face and light-brown hair are an artistic choice to keep him apart from the other mitred bishops; the smile comes from the Golden Legend.",
+    "excerpt": "content/of/formularies/sanctoral/02-03.json collect (both languages verbatim, en-US 'they' changed to 'we')",
+    "sources": [
+      {
+        "title": "christianiconography.info, Saint Blaise",
+        "url": "https://www.christianiconography.info/blaise.html"
+      },
+      {
+        "title": "Golden Legend (Caxton), Life of S. Blase",
+        "url": "https://www.christianiconography.info/goldenLegend/blaise.htm"
+      },
+      {
+        "title": "Wikimedia Commons, Hans Memling, Passion Altarpiece (Lübeck, 1491), with St. Blaise on a wing",
+        "url": "https://commons.wikimedia.org/wiki/File:Hans_Memling_002.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "regenerated: frame drifted and the mother read as the Virgin; now a peasant mother in a russet scarf"
+      }
+    ]
+  }
+}

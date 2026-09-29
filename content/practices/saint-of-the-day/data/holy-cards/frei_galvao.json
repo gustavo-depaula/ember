@@ -1,0 +1,44 @@
+{
+  "id": "frei_galvao",
+  "feast": {
+    "month": 10,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Anthony Galvão",
+    "pt-BR": "São Frei Galvão"
+  },
+  "patronOf": {
+    "en-US": "First Brazilian-born saint",
+    "pt-BR": "Primeiro santo nascido no Brasil"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Son of Man came not to be served, but to serve.",
+    "pt-BR": "O Filho do homem não veio para ser servido, mas para servir."
+  },
+  "meta": {
+    "face": "A sturdy man of about sixty, clean-shaven, with a full, round face — soft, low cheekbones, a long, slender, straight nose, small almond-shaped dark eyes turned slightly up at the outer corners under thick, straight dark brows, a small rounded chin and a small mouth in a warm, quiet smile; a thick crown of short greying dark hair around the Franciscan tonsure, and a kindly gaze.",
+    "basis": "The portrait by an unidentified painter, c. 1850 (Commons), shows a clean-shaven friar with a full round face, a thick ring of dark hair and a slight smile, in a dark habit with a white cord; aged to about sixty, when he was building the Mosteiro da Luz and began giving the pills.",
+    "excerpt": "content/of/formularies/sanctoral/10-25/brazil.json communionAntiphon (Mt 20:28), first clause (pt-BR verbatim; en-US is our faithful rendering, the formulary has no English)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, unidentified painter, Frei Galvão (c. 1850)",
+        "url": "https://commons.wikimedia.org/wiki/File:An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg"
+      },
+      {
+        "title": "Museu de Arte Sacra de São Paulo, Frei Galvão e as pílulas",
+        "url": "https://museuartesacra.org.br/acervo/frei-galvao-e-as-pilulas/"
+      },
+      {
+        "title": "Wikipedia, Frei Galvão",
+        "url": "https://en.wikipedia.org/wiki/Frei_Galv%C3%A3o"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-5.md."
+      }
+    ]
+  }
+}

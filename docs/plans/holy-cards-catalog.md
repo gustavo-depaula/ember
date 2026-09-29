@@ -7,9 +7,9 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Category | Cards | Done |
 |---|---|---|
 | Saints — solemnities, feasts, memorials | 83 | 83 |
-| Saints — optional memorials | 106 | 19 |
+| Saints — optional memorials | 106 | 24 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
-| Saints of Brazil's own calendar | 6 | 0 |
+| Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
 | Feasts of the Lord and the Church | 21 | 5 |
 | Our Lady | 17 | 6 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 125 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 135 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -113,11 +113,11 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 - [ ] 7 Jan · Saint Raymund of Penyafort, Priest · *São Raimundo de Penhaforte, presbítero* · optional-memorial
 - [ ] 13 Jan · Saint Hilary, Bishop and Doctor of the Church · *Santo Hilário, bispo e doutor da Igreja* · optional-memorial
-- [ ] 20 Jan · Saint Fabian, pope and martyr · *São Fabiano, papa e mártir* · optional-memorial
+- [x] 20 Jan · Saint Fabian, pope and martyr · *São Fabiano, papa e mártir* · optional-memorial — `fabian`
 - [x] 20 Jan · Saint Sebastian, martyr · *São Sebastião, mártir* · optional-memorial — `sebastian`
-- [ ] 22 Jan · Saint Vincent, deacon and martyr · *São Vicente, diácono e mártir* · optional-memorial
-- [ ] 27 Jan · Saint Angela Merici, virgin · *Santa Ângela Mérici, virgem* · optional-memorial
-- [ ] 3 Feb · Saint Blase, bishop and martyr · *São Brás, bispo e mártir* · optional-memorial
+- [x] 22 Jan · Saint Vincent, deacon and martyr · *São Vicente, diácono e mártir* · optional-memorial — `vincent_saragossa`
+- [x] 27 Jan · Saint Angela Merici, virgin · *Santa Ângela Mérici, virgem* · optional-memorial — `angela_merici`
+- [x] 3 Feb · Saint Blase, bishop and martyr · *São Brás, bispo e mártir* · optional-memorial — `blase`
 - [ ] 3 Feb · Saint Ansgar, bishop · *Santo Oscar, bispo* · optional-memorial
 - [ ] 8 Feb · Saint Jerome Emiliani · *São Jerônimo Emiliani* · optional-memorial
 - [x] 8 Feb · Saint Josephine Bakhita · *Santa Josefina Bakhita, virgem* · optional-memorial — `josephine_bakhita`
@@ -126,7 +126,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [ ] 27 Feb · Saint Gregory of Narek, Abbot and Doctor of the Church · *São Gregório de Narek, abade e doutor da Igreja* · optional-memorial
 - [ ] 4 Mar · Saint Casimir · *São Casimiro* · optional-memorial
 - [ ] 8 Mar · Saint John of God, religious · *São João de Deus, religioso* · optional-memorial
-- [ ] 9 Mar · Saint Frances of Rome, religious · *Santa Francisca Romana, religiosa* · optional-memorial
+- [x] 9 Mar · Saint Frances of Rome, religious · *Santa Francisca Romana, religiosa* · optional-memorial — `frances_rome`
 - [x] 17 Mar · Saint Patrick, bishop · *São Patrício, bispo* · optional-memorial — `patrick`
 - [ ] 18 Mar · Saint Cyril of Jerusalem, bishop and doctor of the Church · *São Cirilo de Jerusalém, bispo e doutor da Igreja* · optional-memorial
 - [ ] 23 Mar · Saint Turibius of Mogrovejo, bishop · *São Turíbio de Mogrovejo, bispo* · optional-memorial
@@ -229,12 +229,12 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 ### Brazil's own calendar
 
-- [ ] 9 Jun · São José de Anchieta, presbítero · memorial
-- [ ] 17 Jul · Bem-aventurado Inácio de Azevedo e companheiros, mártires · optional memorial (blessed)
-- [ ] 3 Oct · Beatos André de Soveral e companheiros, mártires · optional memorial (blessed)
-- [ ] 5 Oct · São Benedito, o Negro, religioso · optional memorial
+- [x] 9 Jun · São José de Anchieta, presbítero · memorial — `jose_anchieta`
+- [x] 17 Jul · Bem-aventurado Inácio de Azevedo e companheiros, mártires · optional memorial (blessed) — `inacio_azevedo`
+- [x] 3 Oct · Beatos André de Soveral e companheiros, mártires · optional memorial (blessed) — `andre_soveral`
+- [x] 5 Oct · São Benedito, o Negro, religioso · optional memorial — `benedito`
 - [ ] 12 Oct · Nossa Senhora da Conceição Aparecida · solemnity
-- [ ] 25 Oct · Santo Antônio de Santana Galvão · optional memorial
+- [x] 25 Oct · Santo Antônio de Santana Galvão · optional memorial — `frei_galvao`
 
 ### With a card but no feast on the universal calendar
 

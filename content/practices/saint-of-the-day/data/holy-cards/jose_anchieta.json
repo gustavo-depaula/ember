@@ -1,0 +1,44 @@
+{
+  "id": "jose_anchieta",
+  "feast": {
+    "month": 6,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. José de Anchieta",
+    "pt-BR": "São José de Anchieta"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Brazil",
+    "pt-BR": "Apóstolo do Brasil"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we faithfully serve the Gospel, becoming all things to all.",
+    "pt-BR": "Sirvamos fielmente o Evangelho, tornando-nos tudo para todos."
+  },
+  "meta": {
+    "face": "A lean man of about thirty, slight and a little stooped, with an olive, sun-tanned complexion and a face broad at the forehead and narrowing to a small, pointed chin — a long, thin, straight nose, blue-grey eyes set rather close under light, slightly arched brows, hollow cheeks under modest cheekbones and a wide mouth; short straight dark-brown hair, a sparse, thin dark beard along the jaw (not full), and eyes lowered to the sand with a cheerful, kindly half-smile.",
+    "basis": "Simão de Vasconcelos's written portrait (medium height, thin, olive-skinned, bluish eyes, broad forehead, long nose, sparse beard, cheerful face), at the age he wrote the Poem to the Virgin on the beach of Iperoig (1563, aged 29); Benedito Calixto's paintings give the scene and the black soutane.",
+    "excerpt": "content/of/formularies/sanctoral/06-09/brazil.json collect (pt-BR verbatim; en-US is our faithful rendering, the formulary has no English)",
+    "sources": [
+      {
+        "title": "Prefeitura de Anchieta (ES), Você sabe quem foi José de Anchieta? (quotes Vasconcelos's portrait)",
+        "url": "https://www.anchieta.es.gov.br/noticias/82241/voce-sabe-quem--foi-jose-de-anchieta"
+      },
+      {
+        "title": "Wikipédia, José de Anchieta (Calixto portrait 1902, scoliosis, Poema à Virgem)",
+        "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Anchieta"
+      },
+      {
+        "title": "Joaquim Ribeiro, Anchieta e o poema da Virgem (Museu Nacional/UFRJ)",
+        "url": "https://obrasraras.museunacional.ufrj.br/o/Rev_Nac_Edu_18-19/3-RIBEIRO,%20Joaquim.%20Anchieta%20e%20o%20poema%20da%20Virgem.pdf"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-5.md."
+      }
+    ]
+  }
+}

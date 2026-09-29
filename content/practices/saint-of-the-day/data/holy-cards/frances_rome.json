@@ -1,0 +1,44 @@
+{
+  "id": "frances_rome",
+  "feast": {
+    "month": 3,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Frances of Rome",
+    "pt-BR": "Santa Francisca Romana"
+  },
+  "patronOf": {
+    "en-US": "Patron of Benedictine oblates",
+    "pt-BR": "Padroeira dos oblatos beneditinos"
+  },
+  "prayerExcerpt": {
+    "en-US": "In every circumstance of life may we see and follow you.",
+    "pt-BR": "Possamos reconhecer e seguir a vossa vontade em todas as circunstâncias da vida."
+  },
+  "meta": {
+    "face": "A woman of about forty-five with an olive Roman complexion and a broad-cheeked, rounded-square face with a firm, rounded jaw — a straight Roman nose continuing the line of the brow, large, dark, heavy-lashed eyes under fine dark eyebrows, full cheekbones and a full, serene, faintly smiling mouth; the eyes lifted a little toward the angel.",
+    "basis": "Italian images give her a black tunic and a long white veil, usually without wimple or scapular, and include the archangel only she could see, shown small; her biographers describe him as a boy of about nine with golden hair in a dalmatic. The face is an artistic choice for a Roman matron of middle age.",
+    "excerpt": "content/of/formularies/sanctoral/03-09.json collect (both languages, verbatim clauses reordered as a wish)",
+    "sources": [
+      {
+        "title": "christianiconography.info, St. Frances of Rome",
+        "url": "https://www.christianiconography.info/francesRome.html"
+      },
+      {
+        "title": "Catholic Encyclopedia (1909), St. Frances of Rome",
+        "url": "https://www.newadvent.org/cathen/06205c.htm"
+      },
+      {
+        "title": "Heralds of the Gospel, St. Frances of Rome, the Angel of Rome (the angel's appearance)",
+        "url": "https://catholicmagazine.news/st-frances-of-rome-the-angel-of-rome/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-5.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "andre_soveral",
+  "feast": {
+    "month": 10,
+    "day": 3
+  },
+  "name": {
+    "en-US": "Sts. André de Soveral and Companions",
+    "pt-BR": "Santos Mártires de Cunhaú e Uruaçu"
+  },
+  "patronOf": {
+    "en-US": "Protomartyrs of Brazil",
+    "pt-BR": "Protomártires do Brasil"
+  },
+  "prayerExcerpt": {
+    "en-US": "Praised be the Most Blessed Sacrament!",
+    "pt-BR": "Louvado seja o Santíssimo Sacramento!"
+  },
+  "meta": {
+    "face": "André: an old priest of about seventy-three, clean-shaven, with a weathered, sun-browned, bony face, wide at the high cheekbones and narrowing to a long, square chin — a big, straight nose with a broad bridge, deep-set dark eyes under bushy white eyebrows and a firm, full-lipped mouth; a bald crown with a short fringe of white hair, the eyes lifted to the Host. Mateus: a sturdy man of about forty with weathered olive skin and a wide, short face with a broad, low forehead — a straight nose with a broad, rounded tip, round, wide-open dark eyes under thick, level black brows, heavy cheekbones, a rounded jaw and a wide, full mouth; short black hair, a neat black moustache and short chin beard, and a fervent upward gaze.",
+    "basis": "No portrait exists. André de Soveral was born c. 1572 and died at about seventy-three, killed at Cunhaú after the elevation at Mass; Mateus Moreira, a layman, is remembered for his last words. The faces are artistic choices from their ages and states of life.",
+    "excerpt": "Last words of St. Mateus Moreira at Uruaçu, 3 Oct 1645, as handed down by the Brazilian Church (Wikipédia, Santos Mártires de Cunhaú e Uruaçu; Consolata). Not from the formulary, whose collect is pt-BR only.",
+    "sources": [
+      {
+        "title": "Wikipédia, Santos Mártires de Cunhaú e Uruaçu",
+        "url": "https://pt.wikipedia.org/wiki/Santos_M%C3%A1rtires_de_Cunha%C3%BA_e_Urua%C3%A7u"
+      },
+      {
+        "title": "Wikipedia, André de Soveral",
+        "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_de_Soveral"
+      },
+      {
+        "title": "Arquidiocese de Manaus, O Brasil tem 30 novos Santos (canonisation, 15 Oct 2017)",
+        "url": "https://arquidiocesedemanaus.org.br/2017/10/15/o-brasil-tem-30-novos-santos-papa-canoniza-martires-de-cunhau-e-uruacu/"
+      },
+      {
+        "title": "Consolata, Santos Mártires de Cunhaú e Uruaçu",
+        "url": "https://www.consolata.org.br/santos-martires-de-cunhau-e-uruacu"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-5.md."
+      }
+    ]
+  }
+}

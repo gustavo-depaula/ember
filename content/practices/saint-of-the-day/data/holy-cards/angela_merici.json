@@ -1,0 +1,44 @@
+{
+  "id": "angela_merici",
+  "feast": {
+    "month": 1,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Angela Merici",
+    "pt-BR": "Santa Ângela Mérici"
+  },
+  "patronOf": {
+    "en-US": "Foundress of the Ursulines",
+    "pt-BR": "Fundadora das Ursulinas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Following the lessons of her charity and prudence, may we hold fast to your teaching.",
+    "pt-BR": "Seguindo os exemplos de sua caridade e prudência, possamos guardar os vossos ensinamentos."
+  },
+  "meta": {
+    "face": "A slender woman of about sixty with a fine-boned, heart-shaped face — a wide, smooth forehead, high, soft cheekbones and a small, pointed chin; a small, straight nose with a delicate tip; warm dark-brown eyes slightly downturned at the outer corners, with soft lines at their corners; thin, dark, arched brows; a small mouth; fair skin, and a tender, motherly smile as she looks down at the child.",
+    "basis": "She founded the Company of St. Ursula at sixty-one and was buried in the habit of a Franciscan tertiary; the ladder vision and Desenzano are her standard iconography. No portrait from life survives (Moretto's 1540 portrait is a funeral image), so the face is an artistic choice kept apart from Monica's upturned gaze and blue mantle.",
+    "excerpt": "content/of/formularies/sanctoral/01-27.json collect (both languages, verbatim clauses; en-US reordered as a wish)",
+    "sources": [
+      {
+        "title": "Catholic Encyclopedia (1907), St. Angela Merici",
+        "url": "https://www.newadvent.org/cathen/01481a.htm"
+      },
+      {
+        "title": "Wikipedia, Angela Merici (attributes: cloak, ladder; tertiary habit)",
+        "url": "https://en.wikipedia.org/wiki/Angela_Merici"
+      },
+      {
+        "title": "Compagnia di Sant'Orsola, The extraordinary experience of S. Angela Merici (Moretto's funeral portrait)",
+        "url": "http://www.angelamerici.it/index_dettagli.php?get_id=11"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-5.md."
+      }
+    ]
+  }
+}
