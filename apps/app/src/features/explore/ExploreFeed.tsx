@@ -30,6 +30,8 @@ import { useSaintOfDay } from './useSaintOfDay'
 const dayMs = 86_400_000
 // Temporarily off: the Celebration of the Day card is hidden from the carousel.
 const showCelebrationCard = false
+// Temporarily off: the For this Season card is hidden from the carousel.
+const showSeasonCard = false
 const bookHref = (id: string): Href => ({
   pathname: '/browse/book/[bookId]',
   params: { bookId: bareId(id) },
@@ -139,7 +141,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   }
 
   const seasonColl = getEntry(featured.seasonCollectionId)
-  if (seasonColl) {
+  if (showSeasonCard && seasonColl) {
     blocks.push({
       key: 'season',
       label: t('explore.forThisSeason'),
