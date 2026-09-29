@@ -1,5 +1,7 @@
 export { DayCarousel } from './DayCarousel'
 export { IconPicker } from './IconPicker'
+export { FootLink, MissedDays, PrayBar } from './MissedDays'
+export { MissedDaysSheet } from './MissedDaysSheet'
 export { PlanCard } from './PlanCard'
 export { PracticeChecklist } from './PracticeChecklist'
 export { PracticeEditSheet } from './PracticeEditSheet'

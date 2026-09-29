@@ -156,28 +156,29 @@ function generateOccurrences(schedule: Schedule, start: Date, count: number): Da
   return occurrences
 }
 
+/**
+ * How many of a program's occurrences fell before `today` — every one once
+ * the program's window has closed — or undefined before the first.
+ */
+export function getOccurrencesPassed(
+  schedule: Schedule,
+  startedAt: string,
+  today: Date,
+  totalOccurrences: number,
+): number | undefined {
+  const occurrences = generateOccurrences(schedule, parseISO(startedAt), totalOccurrences)
+  if (occurrences.length === 0) return undefined
+  if (differenceInCalendarDays(today, occurrences[0]) < 0) return undefined
+  return occurrences.filter((occ) => differenceInCalendarDays(today, occ) > 0).length
+}
+
 export function getOccurrenceBasedProgramDay(
   schedule: Schedule,
   startedAt: string,
   today: Date,
   totalOccurrences: number,
 ): number | undefined {
-  const start = parseISO(startedAt)
-  const occurrences = generateOccurrences(schedule, start, totalOccurrences)
-
-  if (occurrences.length === 0) return undefined
-
-  if (differenceInCalendarDays(today, occurrences[0]) < 0) return undefined
-
-  // Count occurrences strictly before today (occurrences are chronological)
-  let passed = 0
-  for (const occ of occurrences) {
-    if (differenceInCalendarDays(today, occ) <= 0) break
-    passed++
-  }
-
+  const passed = getOccurrencesPassed(schedule, startedAt, today, totalOccurrences)
   // All occurrences have passed — program window ended
-  if (passed >= totalOccurrences) return undefined
-
-  return passed
+  return passed === undefined || passed >= totalOccurrences ? undefined : passed
 }

@@ -4,6 +4,7 @@ import type { ProgramConfig } from '@/content/manifestTypes'
 
 import {
   getOccurrenceBasedProgramDay,
+  getOccurrencesPassed,
   getProgramDay,
   isApplicableOn,
   type Schedule,
@@ -120,14 +121,16 @@ export function projectProgramAtDate(args: {
   const startedAt = parseISO(cursor.started_at)
   if (differenceInCalendarDays(target, startedAt) < 0) return empty
 
+  // A program bound to dates of its own (the First Fridays) is kept only on
+  // those dates: a prayer on another day doesn't make up for one missed.
+  const onItsDays = schedule.type === 'nth-weekday' || schedule.type === 'day-of-month'
   const countUpTo = (d: Date) => {
     const startStr = cursor.started_at
-    const upTo = d.toISOString().slice(0, 10)
-    let n = 0
-    for (const c of completionDatesAsc) {
-      if (c >= startStr && c <= upTo) n++
-    }
-    return n
+    const upTo = format(d, 'yyyy-MM-dd')
+    const kept = completionDatesAsc.filter(
+      (c) => c >= startStr && c <= upTo && (!onItsDays || isApplicableOn(schedule, parseISO(c))),
+    )
+    return onItsDays ? new Set(kept).size : kept.length
   }
 
   if (policy === 'wait') {
@@ -146,18 +149,19 @@ export function projectProgramAtDate(args: {
     }
   }
 
-  // continue / restart: calendar-anchored. Visibility window is governed by
-  // the schedule's own `isApplicableOn`, but we mirror its logic here so the
-  // hook is the single source of truth.
-  // Past a fixed program's window it rests on its last day: complete once every
-  // day was prayed, otherwise with the days it missed.
-  const pastWindow =
-    schedule.type === 'fixed-program' &&
-    differenceInCalendarDays(target, parseISO(schedule.startDate)) >= totalDays
-  const calendarDay = pastWindow
-    ? totalDays - 1
-    : resolveCalendarDay(schedule, cursor, target, totalDays)
-  if (calendarDay === undefined) return empty
+  // continue / restart: calendar-anchored — the days already gone by. Past the
+  // program's window every day has gone by, and it rests on its last: complete
+  // once every day was kept, otherwise with the days it missed.
+  const daysPassed = (() => {
+    if (schedule.type === 'fixed-program') {
+      const since = differenceInCalendarDays(target, parseISO(schedule.startDate))
+      return since < 0 ? undefined : Math.min(since, totalDays)
+    }
+    return getOccurrencesPassed(schedule, cursor.started_at, target, totalDays)
+  })()
+  if (daysPassed === undefined) return empty
+  const pastWindow = daysPassed >= totalDays
+  const calendarDay = daysPassed
 
   const baseCount = countUpTo(today)
   const programDay = Math.min(calendarDay, totalDays - 1)
@@ -200,15 +204,17 @@ export function computeShouldRestart(
   return policy === 'restart' && missedDays >= restartThreshold
 }
 
+// The days kept come first, then the days missed, then today's: a count of
+// prayers can't say which day each one was, only how many.
 export function computeDayState(dayIndex: number, progress: ProgramProgress): DayState {
-  const { programDay, missedDays, policy, isComplete, shouldPromptRestart } = progress
-  const cursorDay = missedDays > 0 ? programDay - missedDays : programDay
+  const { programDay, missedDays, policy, isComplete, shouldPromptRestart, completionCount } =
+    progress
+  const kept = Math.min(completionCount, progress.totalDays)
   const isMissed =
-    missedDays > 0 && policy !== 'wait' && dayIndex >= cursorDay && dayIndex < programDay
-  const isCurrent = dayIndex === programDay && !isComplete && !shouldPromptRestart
-  const isCompleted = (isComplete || dayIndex < programDay) && !isMissed
-  const isFuture =
-    (dayIndex > programDay && !isComplete) || (shouldPromptRestart && dayIndex >= programDay)
+    policy !== 'wait' && !isComplete && dayIndex >= kept && dayIndex < kept + missedDays
+  const isCompleted = isComplete || (!isMissed && dayIndex < Math.max(kept, programDay))
+  const isCurrent = dayIndex === programDay && !isComplete && !shouldPromptRestart && !isMissed
+  const isFuture = !isCompleted && !isMissed && !isCurrent
   return { isMissed, isCurrent, isCompleted, isFuture }
 }
 
@@ -264,4 +270,34 @@ export function programDayDates(args: {
   const prayed = completionDatesAsc.filter((d) => !startedAt || d >= startedAt)
   const from = prayed.includes(key(today)) ? addDays(startOfDay(today), 1) : startOfDay(today)
   return pad([...prayed, ...walk(from, Math.max(program.totalDays - prayed.length, 0))])
+}
+
+// A program finished or ended stays under way this long past its last day.
+const settledAfterDays = 7
+
+/**
+ * Whether a program still belongs among those under way: running, or finished
+ * or ended within the last week, so its end is seen before it goes.
+ */
+export function isUnderWay(args: {
+  program: ProgramConfig
+  schedule: Schedule
+  cursor: { started_at: string } | null
+  completionDatesAsc: string[]
+  today: Date
+}): boolean {
+  const { program, schedule, cursor, completionDatesAsc, today } = args
+  const state = projectProgramAtDate({ ...args, realToday: today, targetDate: today })
+  const settled =
+    state.isComplete || computeAllDayStates(state).every((d) => d.isCompleted || d.isMissed)
+  if (!settled) return true
+  const dates = programDayDates({
+    program,
+    schedule,
+    startedAt: cursor?.started_at,
+    completionDatesAsc,
+    today,
+  })
+  const last = [dates.at(-1), completionDatesAsc.at(-1)].filter(Boolean).sort().at(-1)
+  return !last || differenceInCalendarDays(today, parseISO(last)) <= settledAfterDays
 }

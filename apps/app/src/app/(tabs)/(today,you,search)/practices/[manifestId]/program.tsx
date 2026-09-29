@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { addDays, format, parseISO } from 'date-fns'
+import { format, parseISO } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
@@ -14,15 +14,16 @@ import { getManifest, loadFlow, loadPracticeData } from '@/content/resolver'
 import type { CycleData } from '@/content/types'
 import { useBookManifest } from '@/features/books/hooks'
 import {
-  useBackfillMissedDays,
+  FootLink,
+  MissedDays,
+  PrayBar,
   useProgramDayDates,
   useProgramProgress,
   useRestartProgram,
 } from '@/features/plan-of-life'
 import { computeAllDayStates, type DayState } from '@/features/plan-of-life/program'
-import { ProgramRestartModal } from '@/features/practices/components'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
-import { getToday, useToday } from '@/hooks/useToday'
+import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
@@ -149,7 +150,6 @@ export default function ProgramDetailScreen() {
   const progress = useProgramProgress(manifest?.id ?? '', manifest?.program, today)
   const dates = useProgramDayDates(manifest?.id ?? '', manifest?.program)
   const restartProgramMutation = useRestartProgram()
-  const backfillMutation = useBackfillMissedDays()
 
   const cycleDataQuery = useQuery({
     queryKey: ['practice-data', manifestId],
@@ -198,15 +198,28 @@ export default function ProgramDetailScreen() {
   const { programDay, totalDays, isComplete, completionBehavior, shouldPromptRestart } = progress
   const states = computeAllDayStates(progress)
   const prayed = states.filter((s) => s.isCompleted).length
+  // Every day gone by and some of them missed: nothing is left to pray.
+  const ended = !isComplete && states.every((s) => s.isCompleted || s.isMissed)
   const name = localizeContent(manifest.name)
   const numeral = (i: number) => roman(i + 1)
   const dayName = (i: number) => entryOf(entries, i)?.name || t('program.dayLabel', { day: i + 1 })
   const canOpen = !shouldPromptRestart && !progress.isProjection
-  const openDay = (i: number) =>
+  const needsRestart = shouldPromptRestart && !isComplete && !progress.isProjection
+  const todayStr = format(today, 'yyyy-MM-dd')
+  // A day is prayed on its date. Ahead of it the day can be read, not prayed;
+  // a program that restarts on a miss can't make one up afterwards either.
+  const readOnlyDay = (i: number) => {
+    const date = dates[i]
+    if (!date) return false
+    return date > todayStr || (progress.policy === 'restart' && date < todayStr)
+  }
+  const openDay = (i: number, read = readOnlyDay(i)) =>
     router.push({
       pathname: '/pray/[practiceId]',
-      params: { practiceId: manifest.id, programDay: String(i) },
+      params: { practiceId: manifest.id, programDay: String(i), ...(read ? { read: '1' } : {}) },
     })
+  const fullDate = (date: string, pattern: string) => formatLocalized(parseISO(date), t(pattern))
+  const nextDate = dates[programDay] && dates[programDay] > todayStr ? dates[programDay] : undefined
   const start =
     totalDays <= windowSize
       ? 0
@@ -217,14 +230,6 @@ export default function ProgramDetailScreen() {
 
   function handleRestart() {
     restartProgramMutation.mutate({ practiceId: manifest?.id ?? '' })
-  }
-
-  function handleBackfill() {
-    if (!manifest || !progress) return
-    const missedDates = Array.from({ length: progress.missedDays }, (_, k) =>
-      format(addDays(getToday(), -(progress.missedDays - k)), 'yyyy-MM-dd'),
-    )
-    backfillMutation.mutate({ practiceId: manifest.id, dates: missedDates })
   }
 
   return (
@@ -244,24 +249,20 @@ export default function ProgramDetailScreen() {
 
         <DayStars days={shown.map((i) => ({ state: states[i], date: dates[i] }))} />
 
-        {shouldPromptRestart && !isComplete && !progress.isProjection && (
-          <ProgramRestartModal
-            practiceName={name}
-            missedDays={progress.missedDays}
-            onRestart={handleRestart}
-            onContinue={handleBackfill}
-          />
-        )}
-
-        {isComplete ? (
+        {needsRestart ? (
+          // Where today's day would be, so opening the page is the warning.
+          <YStack paddingTop="$xl">
+            <MissedDays practiceId={manifest.id} program={manifest.program} />
+          </YStack>
+        ) : isComplete || ended ? (
           <YStack alignItems="center" gap="$md" paddingTop="$xl">
             <Typography variant="sacred-title" fontSize="$5" fontStyle="italic">
-              {t('program.complete')}
+              {isComplete ? t('program.complete') : t('program.ended')}
             </Typography>
             <Typography tone="muted" fontSize="$3" textAlign="center">
-              {t('program.completeCelebration')}
+              {isComplete ? t('program.completeCelebration') : t('program.endedMessage')}
             </Typography>
-            {completionBehavior === 'offer-restart' && (
+            {(ended || completionBehavior === 'offer-restart') && (
               <PrayBar label={t('program.restart')} onPress={handleRestart} />
             )}
           </YStack>
@@ -296,7 +297,18 @@ export default function ProgramDetailScreen() {
                 {excerpt}
               </Typography>
             )}
-            {canOpen && <PrayBar label={t('practice.pray')} onPress={() => openDay(programDay)} />}
+            {canOpen && nextDate ? (
+              <>
+                <DatePill label={fullDate(nextDate, 'program.dayDateFormat')} />
+                <FootLink
+                  label={t('program.readAhead')}
+                  onPress={() => openDay(programDay, true)}
+                />
+              </>
+            ) : null}
+            {canOpen && !nextDate ? (
+              <PrayBar label={t('practice.pray')} onPress={() => openDay(programDay)} />
+            ) : null}
           </YStack>
         )}
 
@@ -304,7 +316,7 @@ export default function ProgramDetailScreen() {
 
         <YStack>
           {(totalDays <= windowSize ? states.map((_, i) => i) : shown)
-            .filter((i) => isComplete || i !== programDay)
+            .filter((i) => isComplete || ended || needsRestart || i !== programDay)
             .map((i) => (
               <DayLine
                 key={i}
@@ -418,26 +430,24 @@ function DayStars({ days }: { days: { state: DayState; date?: string }[] }) {
   )
 }
 
-function PrayBar({ label, onPress }: { label: string; onPress: () => void }) {
+// The day's date where the Rezar bar will be: what the day waits for, not a
+// control.
+function DatePill({ label }: { label: string }) {
   return (
-    <AnimatedPressable
-      onPress={onPress}
-      accessibilityRole="button"
-      accessibilityLabel={label}
-      style={{ alignSelf: 'stretch', paddingHorizontal: 30, paddingTop: 24 }}
-    >
+    <YStack alignSelf="stretch" paddingHorizontal={30} paddingTop={24}>
       <YStack
         height={50}
         borderRadius={25}
-        backgroundColor="$accent"
+        borderWidth={1}
+        borderColor="$accentSubtle"
         alignItems="center"
         justifyContent="center"
       >
-        <Typography variant="label" letterSpacing={1.5} color="$background">
+        <Typography variant="label" letterSpacing={1.5} color="$accent">
           {label}
         </Typography>
       </YStack>
-    </AnimatedPressable>
+    </YStack>
   )
 }
 
@@ -532,29 +542,6 @@ function DayLine({
           </Typography>
         )}
       </XStack>
-    </AnimatedPressable>
-  )
-}
-
-function FootLink({
-  label,
-  chevron,
-  onPress,
-}: {
-  label: string
-  chevron?: boolean
-  onPress: () => void
-}) {
-  return (
-    <AnimatedPressable
-      onPress={onPress}
-      hitSlop={10}
-      accessibilityRole="button"
-      accessibilityLabel={label}
-    >
-      <Typography tone="muted" fontSize="$2" minHeight={44} paddingTop="$sm">
-        {chevron ? `${label} ›` : label}
-      </Typography>
     </AnimatedPressable>
   )
 }

@@ -18,7 +18,6 @@ import {
 } from '@/features/plan-of-life'
 import { useCurrentHour } from '@/hooks/useCurrentHour'
 import type { TodayPlan } from '../useTodayPlan'
-import { RestartNeededList } from './RestartNeededList'
 import { TierLegend, TimeBlockSection } from './TimeBlockSection'
 
 /** The day's plan of life as a checklist, one section per part of the day. */
@@ -121,7 +120,6 @@ export function TodayChecklist({
           .filter((s) => !completedIds.has(s.id))
           .map((s) => s.tier)}
       />
-      <RestartNeededList ids={restartNeededIds} />
     </YStack>
   )
 }

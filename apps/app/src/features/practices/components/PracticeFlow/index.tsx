@@ -8,10 +8,12 @@ export function PracticeFlow({
   practiceId,
   programDay: programDayProp,
   slotKey,
+  readOnly = false,
 }: {
   practiceId: string
   programDay?: number
   slotKey?: string
+  readOnly?: boolean
 }) {
   const { selectOverrides, handleSelectOverride } = useSelectOverrides(practiceId, programDayProp)
   const pins = useEventStore((s) => (slotKey ? s.slots.get(slotKey)?.pins : undefined))
@@ -28,6 +30,7 @@ export function PracticeFlow({
     <PracticeFlowView
       practiceId={practiceId}
       programDayProp={programDayProp}
+      readOnly={readOnly}
       contentQuery={contentQuery}
       completion={completion}
       onSelectOverride={handleSelectOverride}

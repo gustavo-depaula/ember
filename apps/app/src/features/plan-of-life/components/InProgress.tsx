@@ -8,7 +8,7 @@ import type { SlotState } from '@/db/events'
 import { lightTap } from '@/lib/haptics'
 
 import { getSlotName } from '../getPracticeName'
-import { useProgramProgress } from '../hooks'
+import { useProgramProgress, useProgramsUnderWay } from '../hooks'
 import { computeAllDayStates } from '../program'
 
 // Past this many days the marks would run off the line; the day count says it alone.
@@ -18,7 +18,7 @@ const maxMarks = 12
 export function InProgress({ slots }: { slots: SlotState[] }) {
   const { t } = useTranslation()
   // One line per program, however many times it holds.
-  const programs = [...new Map(slots.map((s) => [s.practice_id, s])).values()]
+  const programs = useProgramsUnderWay([...new Map(slots.map((s) => [s.practice_id, s])).values()])
   if (programs.length === 0) return undefined
 
   return (
@@ -47,10 +47,14 @@ function ProgramLine({ slot }: { slot: SlotState }) {
   const name = getSlotName(slot, t)
   if (!progress) return undefined
   const total = progress.totalDays
-  const day = progress.isComplete
-    ? t('program.complete')
-    : t('program.dayOf', { day: progress.programDay + 1, total })
-  const marks = computeAllDayStates(progress).map((state) => {
+  const states = computeAllDayStates(progress)
+  const day = (() => {
+    if (progress.isComplete) return t('program.complete')
+    if (progress.shouldPromptRestart) return t('program.restartNeeded')
+    if (states.every((s) => s.isCompleted || s.isMissed)) return t('program.ended')
+    return t('program.dayOf', { day: progress.programDay + 1, total })
+  })()
+  const marks = states.map((state) => {
     if (state.isCompleted) return { char: '✦', size: 11, color: theme.accent.val }
     if (state.isCurrent) return { char: '✧', size: 11, color: theme.colorSecondary.val }
     if (state.isMissed) return { char: '○', size: 7, color: theme.colorSecondary.val }

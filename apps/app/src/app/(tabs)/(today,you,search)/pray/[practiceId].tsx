@@ -2,10 +2,12 @@ import { useLocalSearchParams } from 'expo-router'
 import { PracticeFlow } from '@/features/practices/components/PracticeFlow'
 
 export default function PrayScreen() {
-  const { practiceId, programDay, slotKey } = useLocalSearchParams<{
+  const { practiceId, programDay, slotKey, read } = useLocalSearchParams<{
     practiceId: string
     programDay?: string
     slotKey?: string
+    // Opened to read ahead, not to pray: no Amen, so nothing is logged.
+    read?: string
   }>()
   const parsedProgramDay = programDay !== undefined ? Number(programDay) : undefined
   return (
@@ -15,6 +17,7 @@ export default function PrayScreen() {
       practiceId={practiceId ?? ''}
       programDay={parsedProgramDay}
       slotKey={slotKey}
+      readOnly={read === '1'}
     />
   )
 }

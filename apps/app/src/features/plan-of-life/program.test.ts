@@ -5,6 +5,7 @@ import {
   computeMissedDays,
   computeProgramProgress,
   computeShouldRestart,
+  isUnderWay,
   programDayDates,
   projectProgramAtDate,
   resolveCalendarDay,
@@ -391,6 +392,9 @@ describe('projectProgramAtDate', () => {
       expect(lapsed.isComplete).toBe(false)
       expect(lapsed.programDay).toBe(8)
       expect(lapsed.completionCount).toBe(5)
+      expect(lapsed.missedDays).toBe(4)
+      expect(computeAllDayStates(lapsed).filter((d) => d.isMissed)).toHaveLength(4)
+      expect(computeAllDayStates(lapsed).some((d) => d.isCurrent)).toBe(false)
     })
 
     it('forward projection suppresses missed/restart diagnostics', () => {
@@ -490,6 +494,75 @@ describe('First Fridays end-to-end scenarios', () => {
     expect(p.programDay).toBe(1)
     expect(p.missedDays).toBe(1)
     expect(p.shouldPromptRestart).toBe(true)
+  })
+})
+
+describe('First Fridays kept on their Fridays', () => {
+  const fridays = [
+    '2026-01-02',
+    '2026-02-06',
+    '2026-03-06',
+    '2026-04-03',
+    '2026-05-01',
+    '2026-06-05',
+    '2026-07-03',
+    '2026-08-07',
+    '2026-09-04',
+  ]
+  const on = (done: string[], today: Date) =>
+    projectProgramAtDate({
+      program: restartProgram,
+      schedule: firstFriday,
+      cursor: { started_at: '2026-01-01' },
+      completionDatesAsc: done,
+      realToday: today,
+      targetDate: today,
+    })
+
+  it("doesn't let a prayer on another day stand for a missed Friday", () => {
+    const late = on(['2026-01-02', '2026-02-06', '2026-03-10'], date(2026, 3, 10))
+    expect(late.completionCount).toBe(2)
+    expect(late.shouldPromptRestart).toBe(true)
+  })
+
+  it('rests complete once the ninth Friday is kept, and asks to restart if it was missed', () => {
+    const kept = on(fridays, date(2026, 9, 20))
+    expect(kept.isComplete).toBe(true)
+    expect(kept.programDay).toBe(8)
+
+    const missed = on(fridays.slice(0, 8), date(2026, 9, 20))
+    expect(missed.isComplete).toBe(false)
+    expect(missed.missedDays).toBe(1)
+    expect(missed.shouldPromptRestart).toBe(true)
+  })
+})
+
+describe('isUnderWay', () => {
+  const novena: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+  }
+  const schedule: Schedule = { type: 'fixed-program', totalDays: 9, startDate: '2026-09-01' }
+  const all = Array.from({ length: 9 }, (_, i) => `2026-09-0${i + 1}`)
+  const on = (done: string[], today: Date) =>
+    isUnderWay({
+      program: novena,
+      schedule,
+      cursor: { started_at: '2026-09-01' },
+      completionDatesAsc: done,
+      today,
+    })
+
+  it('keeps a finished novena for a week past its last day, then lets it go', () => {
+    expect(on(all, date(2026, 9, 5))).toBe(true)
+    expect(on(all, date(2026, 9, 16))).toBe(true)
+    expect(on(all, date(2026, 9, 17))).toBe(false)
+  })
+
+  it('lets a lapsed novena go a week after its window closes', () => {
+    expect(on(all.slice(0, 5), date(2026, 9, 14))).toBe(true)
+    expect(on(all.slice(0, 5), date(2026, 9, 20))).toBe(false)
   })
 })
 

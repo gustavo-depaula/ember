@@ -1,4 +1,5 @@
 import { useMutation, useQueries } from '@tanstack/react-query'
+import { format } from 'date-fns'
 import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
@@ -27,7 +28,7 @@ import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
-import { programDayDates, projectProgramAtDate } from './program'
+import { isUnderWay, programDayDates, projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
@@ -173,8 +174,15 @@ export function useProgramProgress(
   }, [slots, cursors, completionsByPractice, completions, practiceId, program, targetKey, realKey])
 }
 
-/** The date each day of a program falls on — see `programDayDates`. */
-export function useProgramDayDates(practiceId: string, program: ProgramConfig | undefined) {
+/**
+ * The date each day of a program falls on — see `programDayDates`. `restarted`
+ * dates them as if the program began again today.
+ */
+export function useProgramDayDates(
+  practiceId: string,
+  program: ProgramConfig | undefined,
+  { restarted = false }: { restarted?: boolean } = {},
+) {
   const today = useStableToday()
   const todayKey = today.getTime()
   const { slots, cursors, completionsByPractice, completions } = useEventStore(
@@ -191,14 +199,62 @@ export function useProgramDayDates(practiceId: string, program: ProgramConfig | 
     if (!program) return []
     const slot = [...slots.values()].find((s) => s.practice_id === practiceId)
     if (!slot) return []
+    const schedule = parseSchedule(slot.schedule)
+    if (restarted) {
+      const todayStr = format(today, 'yyyy-MM-dd')
+      return programDayDates({
+        program,
+        schedule:
+          schedule.type === 'fixed-program' ? { ...schedule, startDate: todayStr } : schedule,
+        startedAt: todayStr,
+        completionDatesAsc: [],
+        today,
+      })
+    }
     return programDayDates({
       program,
-      schedule: parseSchedule(slot.schedule),
+      schedule,
       startedAt: cursors.get(`program/${practiceId}`)?.started_at,
       completionDatesAsc: sortedCompletionDates(completionsByPractice.get(practiceId), completions),
       today,
     })
-  }, [slots, cursors, completionsByPractice, completions, practiceId, program, todayKey])
+  }, [slots, cursors, completionsByPractice, completions, practiceId, program, todayKey, restarted])
+}
+
+/**
+ * The programs still under way: those running, and those finished or ended
+ * within the last week, so the end is seen before the line goes.
+ */
+export function useProgramsUnderWay(slots: SlotState[]): SlotState[] {
+  const today = useStableToday()
+  const todayKey = today.getTime()
+  const { cursors, completionsByPractice, completions } = useEventStore(
+    useShallow((s) => ({
+      cursors: s.cursors,
+      completionsByPractice: s.completionsByPractice,
+      completions: s.completions,
+    })),
+  )
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: todayKey gates recomputation; the Date is captured by closure
+  return useMemo(
+    () =>
+      slots.filter((slot) => {
+        const program = getManifest(slot.practice_id)?.program
+        if (!program) return false
+        return isUnderWay({
+          program,
+          schedule: parseSchedule(slot.schedule),
+          cursor: cursors.get(`program/${slot.practice_id}`) ?? null,
+          completionDatesAsc: sortedCompletionDates(
+            completionsByPractice.get(slot.practice_id),
+            completions,
+          ),
+          today,
+        })
+      }),
+    [slots, cursors, completionsByPractice, completions, todayKey],
+  )
 }
 
 export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
@@ -279,7 +335,7 @@ export function useHandleProgramCompletion() {
 export function useRestartProgram() {
   return useMutation({
     mutationFn: async ({ practiceId }: { practiceId: string }) => {
-      const today = getToday().toISOString().split('T')[0]
+      const today = format(getToday(), 'yyyy-MM-dd')
       await restartProgram(practiceId, today)
       const slot = getSlotsForPractice(practiceId)[0]
       if (slot) {

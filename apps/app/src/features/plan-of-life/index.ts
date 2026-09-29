@@ -8,8 +8,12 @@ export {
 } from './completion'
 export {
   DayCarousel,
+  FootLink,
+  MissedDays,
+  MissedDaysSheet,
   PlanCard,
   PracticeChecklist,
+  PrayBar,
   RuleOfLifeSections,
   YouMasthead,
 } from './components'
@@ -35,6 +39,7 @@ export {
   useProgramDayDates,
   useProgramHidesForDate,
   useProgramProgress,
+  useProgramsUnderWay,
   useReorderSlots,
   useRestartNeededPractices,
   useRestartProgram,

@@ -26,6 +26,7 @@ import {
   useTodayPlan,
 } from '@/features/home'
 import { ContinueRow } from '@/features/library'
+import { MissedDaysSheet } from '@/features/plan-of-life'
 import { usePlanFidelity } from '@/features/plan-of-life/useRuleRecord'
 import { useObligations } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -120,6 +121,7 @@ export default function HomeScreen() {
         </YStack>
       </ScreenLayout>
       <TodayPlanSheet plan={plan} />
+      <MissedDaysSheet />
     </View>
   )
 }

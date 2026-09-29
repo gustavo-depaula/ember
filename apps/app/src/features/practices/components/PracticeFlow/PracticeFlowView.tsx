@@ -51,6 +51,7 @@ type CompletionApi = ReturnType<typeof usePracticeCompletion>
 type Props = {
   practiceId: string
   programDayProp: number | undefined
+  readOnly: boolean
   contentQuery: UseQueryResult<PracticeContent>
   completion: CompletionApi
   onSelectOverride: (overrideKey: string, nextId: string) => void
@@ -63,6 +64,7 @@ const noSections: PracticeContent['primitives'] = []
 export function PracticeFlowView({
   practiceId,
   programDayProp,
+  readOnly,
   contentQuery,
   completion,
   onSelectOverride,
@@ -94,6 +96,7 @@ export function PracticeFlowView({
           manifest={manifest}
           practiceId={practiceId}
           programDay={programDay}
+          readOnly={readOnly}
           sections={contentQuery.data?.primitives ?? noSections}
           completion={completion}
           onSelectOverride={onSelectOverride}
@@ -106,6 +109,7 @@ function PracticeReady({
   manifest,
   practiceId,
   programDay,
+  readOnly,
   sections,
   completion,
   onSelectOverride,
@@ -113,6 +117,7 @@ function PracticeReady({
   manifest: PracticeManifest
   practiceId: string
   programDay: number | undefined
+  readOnly: boolean
   sections: PracticeContent['primitives']
   completion: CompletionApi
   onSelectOverride: (overrideKey: string, nextId: string) => void
@@ -172,7 +177,7 @@ function PracticeReady({
                 ))}
               </YStack>
 
-              {manifest.completion !== 'manual' && !isFutureDate && (
+              {manifest.completion !== 'manual' && !isFutureDate && !readOnly && (
                 <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
                   <AnimatedPressable
                     onPress={completion.handleComplete}
