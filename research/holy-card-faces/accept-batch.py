@@ -22,12 +22,12 @@ for c in batch["cards"]:
     shutil.copyfile(draft, f"content/saints/{cid}.png")
     card = {
         "id": cid,
-        "feast": c["feast"],
+        **({"feast": c["feast"]} if "feast" in c else {}),
         "name": c["name"],
         "patronOf": c["patronOf"],
         "prayerExcerpt": c["prayerExcerpt"],
         "meta": {
-            "face": c["face"],
+            "face": c.get("face", "-"),
             "basis": c["basis"],
             "excerpt": c["excerptSource"],
             "sources": c["sources"],
@@ -35,10 +35,20 @@ for c in batch["cards"]:
         },
     }
     (cards_dir / f"{cid}.json").write_text(json.dumps(card, ensure_ascii=False, indent=2) + "\n")
-    hits = [i for i, l in enumerate(lines) if l.startswith("- [ ]") and c["catalogMatch"] in l]
+    # A list line holds one card; an inline line ("[ ] Advent — Sunday · [ ] Advent — weekday") holds several,
+    # and there catalogMatch is the item's text right after its box.
+    item = "[ ] " + c["catalogMatch"]
+    hits = [i for i, l in enumerate(lines) if (l.startswith("- [ ]") and l.count("[ ]") == 1 and c["catalogMatch"] in l) or item in l]
     if len(hits) != 1:
         sys.exit(f"{cid}: catalogMatch {c['catalogMatch']!r} matched {len(hits)} unticked lines")
-    lines[hits[0]] = "- [x]" + lines[hits[0]][5:] + f" — `{cid}`"
+    line = lines[hits[0]]
+    if item in line:
+        start = line.index(item)
+        end = line.find(" · [", start)
+        end = len(line) if end == -1 else end
+        lines[hits[0]] = line[:start] + "[x]" + line[start + 3:end] + f" — `{cid}`" + line[end:]
+    else:
+        lines[hits[0]] = "- [x]" + line[5:] + f" — `{cid}`"
 
 catalog.write_text("\n".join(lines))
 

@@ -3,10 +3,20 @@
 # Usage (repo root): research/holy-card-faces/new-card.sh <card-id> <initial-letter> "<subject>" "<face>" <ref-card-id>...
 # <subject>: dress, attributes, pose and background. <face>: concrete traits (age, hair, beard, gaze).
 # The ref cards are unedited originals from 4f53dc95b: they set the frame and, above all, how faces are painted.
+# Cards without a person (seasons, parts of the Mass, objects) pass "-" as <face> and set FRAME (inner window) and BOX (initial box colour) to their variant.
 # Writes drafts/<card-id>.png and appends a line to log.jsonl.
 id=$1; letter=$2; subject=$3; face=$4; shift 4
+box=${BOX:-blue}
+frame=${FRAME:-"an inner arched, gold-edged window holding the scene; a gold dotted-ring halo"}
+if [ "$face" = "-" ]; then
+  facetext="Any figures are small, idealised and serene in the holy-card manner, painted with the attached cards' technique; NOT photorealistic."
+else
+  facetext="Face: $face
+The face must be idealised and beautiful in the holy-card manner: noble, gentle, serene, with a devotional gaze. Never harsh, grotesque, or unflattering. Build the face from the bone structure described (face shape, nose, eyes, brows, cheekbones, jaw, mouth), not only its hair and beard: it must be a different person from every face on the attached cards, which are references for the painting technique only, never for features. Paint it with their technique: the same stylised, simplified 19th-century holy-card painting, soft even shading, clear outlines, the same eye and skin treatment. NOT photorealistic, not a modern portrait, no fine skin detail or dramatic lighting."
+fi
 dir=research/holy-card-faces
 mkdir -p "$dir/drafts" "$dir/.base"
+before=$(git hash-object "$dir/drafts/$id.png" 2>/dev/null)
 refs=""
 for ref in "$@"; do
   git show "4f53dc95b:content/saints/$ref.png" > "$dir/.base/ref-$ref.png" 2>/dev/null || cp "content/saints/$ref.png" "$dir/.base/ref-$ref.png"
@@ -14,11 +24,13 @@ for ref in "$@"; do
 done
 # shellcheck disable=SC2086
 cat <<PROMPT | codex exec -s workspace-write -C "$PWD" --skip-git-repo-check -i $refs -- - 2>&1 | tail -3
-The attached images are holy cards from one set. With your image generation tool, create ONE new card for the same set, in exactly the same frame and style: portrait 2:3, 1024x1536; cream parchment ground; thin gold ruled border; an illuminated initial "$letter" in gold on a blue square box at the top-left, with the same small flower ornament; the same vine-and-flower borders top and bottom (blue, red and gold flowers); an inner arched, gold-edged window holding the scene; a gold dotted-ring halo; late-19th-century chromolithograph rendering with soft colours and a fine printed texture. No text anywhere except the initial.
+The attached images are holy cards from one set. With your image generation tool, create ONE new card for the same set, in exactly the same frame and style: portrait 2:3, 1024x1536; cream parchment ground; thin gold ruled border; an illuminated initial "$letter" in gold on a $box square box at the top-left, with the same small flower ornament; the same vine-and-flower borders top and bottom (blue, red and gold flowers); $frame; late-19th-century chromolithograph rendering with soft colours and a fine printed texture. No text anywhere except the initial.
 Subject: $subject
-Face: $face
-The face must be idealised and beautiful in the holy-card manner: noble, gentle, serene, with a devotional gaze. Never harsh, grotesque, or unflattering. Build the face from the bone structure described (face shape, nose, eyes, brows, cheekbones, jaw, mouth), not only its hair and beard: it must be a different person from every face on the attached cards, which are references for the painting technique only, never for features. Paint it with their technique: the same stylised, simplified 19th-century holy-card painting, soft even shading, clear outlines, the same eye and skin treatment. NOT photorealistic, not a modern portrait, no fine skin detail or dramatic lighting.
+$facetext
 Save the result to $dir/drafts/$id.png. Do not modify any other file.
 PROMPT
 python3 -c 'import json,sys,datetime; print(json.dumps({"at": datetime.datetime.now().isoformat(timespec="seconds"), "card": sys.argv[1], "kind": "generate", "refs": sys.argv[2].split(), "subject": sys.argv[3], "face": sys.argv[4], "draft": sys.argv[5]}, ensure_ascii=False))' \
   "$id" "$*" "$subject" "$face" "$(git hash-object "$dir/drafts/$id.png" 2>/dev/null)" >> "$dir/log.jsonl"
+# Codex exits 0 even when its image tool is out of quota, so a draft that didn't change is the only sign of failure.
+[ "$(git hash-object "$dir/drafts/$id.png" 2>/dev/null)" = "$before" ] && { echo "FAILED: $id (no new draft; Codex image quota?)" >&2; exit 1; }
+exit 0

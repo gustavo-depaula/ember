@@ -11,6 +11,7 @@ only = set(sys.argv[2:])
 for c in cards:
     if only and c["id"] not in only:
         continue
-    args = [c["id"], c["letter"], c["subject"], c["face"], *c["refs"]]
-    print("research/holy-card-faces/new-card.sh " + " ".join(shlex.quote(a) for a in args) + " > /dev/null")
+    args = [c["id"], c["letter"], c["subject"], c.get("face", "-"), *c["refs"]]
+    env = "".join(f"{k.upper()}={shlex.quote(c[k])} " for k in ("frame", "box") if k in c)
+    print(env + "research/holy-card-faces/new-card.sh " + " ".join(shlex.quote(a) for a in args) + " > /dev/null")
 PY

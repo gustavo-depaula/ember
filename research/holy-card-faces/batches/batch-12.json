@@ -1,0 +1,427 @@
+{
+  "batch": 12,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-12.md",
+  "cards": [
+    {
+      "id": "peter_chanel",
+      "letter": "P",
+      "feast": {
+        "month": 4,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Peter Chanel",
+        "pt-BR": "São Pedro Chanel"
+      },
+      "patronOf": {
+        "en-US": "Protomartyr of Oceania",
+        "pt-BR": "Protomártir da Oceania"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, who for the spreading of your Church crowned Saint Peter Chanel with martyrdom.",
+        "pt-BR": "Ó Deus, que para expandir a vossa Igreja coroastes São Pedro Chanel com o martírio."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-28.json collect (address, verbatim in both languages; full stop added)",
+      "subject": "A young French Marist missionary priest of 1841, half-length, in a plain black soutane with a black clerical cravat and a black cloak over his shoulders; he holds a small brass missionary crucifix against his chest with both hands, a green palm branch resting in the crook of his arm. Behind him the island of Futuna in the South Pacific: steep green volcanic hills, tall coconut palms, a thatched Polynesian fale with a low roof, and a turquoise lagoon edged by white surf on the reef under a bright tropical sky. Peaceful and sunny: no weapons, no attackers, no violence. Keep the palms and the lagoon inside the arched window.",
+      "face": "A gentle Frenchman of about thirty-seven, clean-shaven, with a SOFT, SQUARE-JAWED face and full cheeks — a broad, smooth forehead, a straight, rather strong nose with a rounded tip, large, heavy-lidded dark-brown eyes under softly arched dark brows, a full, kindly mouth and a small dimple in the rounded chin; thick dark-brown hair parted on one side, a soft wave falling across the forehead and the hair covering the tops of the ears; a mild, patient gaze toward the viewer.",
+      "refs": [
+        "vincent_de_paul",
+        "aloysius_gonzaga",
+        "francis_xavier"
+      ],
+      "basis": "The devotional portrait on Wikipedia shows a young clean-shaven priest with a full, gentle face, side-parted wavy dark hair, a black soutane and cloak and a crucifix; he was killed on Futuna at 37. His companions remembered his unfailing gentleness, which the expression keeps.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter Chanel (lead portrait; died on Futuna 1841 aged 37)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Chanel"
+        },
+        {
+          "title": "Commons, Peter_Chanel.jpg (the portrait consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Peter_Chanel.jpg"
+        },
+        {
+          "title": "Marist Fathers Australia, St Peter Chanel reflection (his gentleness)",
+          "url": "https://maristfathers.org.au/images/St_Peter_Chanel_Marist_reflects_0424_rn.pdf"
+        }
+      ],
+      "catalogMatch": "Saint Peter Chanel"
+    },
+    {
+      "id": "john_avila",
+      "letter": "J",
+      "feast": {
+        "month": 5,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. John of Ávila",
+        "pt-BR": "São João de Ávila"
+      },
+      "patronOf": {
+        "en-US": "Apostle of Andalusia",
+        "pt-BR": "Apóstolo da Andaluzia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that in our day too, the Church may grow in holiness through the exemplary zeal of your ministers.",
+        "pt-BR": "Dai à vossa Igreja, também em nossos dias, crescer em santidade pelo zelo exemplar dos vossos ministros."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-10.json collect (petition, verbatim in both languages; en-US capitalised)",
+      "subject": "A Spanish secular priest of the 1560s, half-length, in a plain black cassock and a long black manteo (priest's cloak) with a narrow white collar at the neck, as in the portrait attributed to El Greco; his right hand laid flat on his breast, his left holding a small, closed, well-worn book against his side. Behind him Montilla in the Andalusian countryside: a whitewashed hill town with tiled roofs and a church tower, a ruined castle on the height, and rolling vineyards and olive groves under a warm evening sky. Keep the town inside the arched window.",
+      "face": "A spare Castilian priest of about seventy with a LONG, gaunt face, narrow at the jaw — a broad forehead with short, cropped grey hair brushed forward in a thin fringe and receding at the temples, high cheekbones over hollow cheeks, a long, straight nose slightly full at the tip, large, dark, heavy-lidded eyes turned a little down at the outer corners, gentle and grave, under arched grey brows raised toward the middle, a small, thin-lipped mouth; a short, close-clipped grey beard and moustache that only follow the line of the jaw; a gaze of quiet compassion toward the viewer.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "ignatius_loyola"
+      ],
+      "basis": "The portrait attributed to El Greco (c. 1580), inscribed M. IVAN D. AVILA, shows an old priest with a long, hollow-cheeked face, cropped grey hair, large sad eyes and a short grey beard, one hand on his breast; he died at Montilla at seventy. We keep its marks and drop the heavy shadows under the eyes.",
+      "sources": [
+        {
+          "title": "Wikipedia, John of Ávila (lead portrait attributed to El Greco; died at Montilla 1569)",
+          "url": "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+        },
+        {
+          "title": "Commons, portrait of Juan de Ávila attributed to El Greco (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg"
+        }
+      ],
+      "catalogMatch": "Saint John De Avila"
+    },
+    {
+      "id": "nereus_achilleus",
+      "letter": "N",
+      "feast": {
+        "month": 5,
+        "day": 12
+      },
+      "name": {
+        "en-US": "Sts. Nereus and Achilleus",
+        "pt-BR": "Santos Nereu e Aquiles"
+      },
+      "patronOf": {
+        "en-US": "Soldiers and martyrs",
+        "pt-BR": "Soldados e mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we experience their loving intercession for us in your presence.",
+        "pt-BR": "Concedei-nos experimentar sua intercessão em nosso favor."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-12.json collect (final petition; en-US \"that we ... may experience\" recast as \"May we experience\", pt-BR verbatim, capitalised)",
+      "subject": "Two Roman soldiers turned martyrs, side by side, half-length, bareheaded, in the red wool military tunic and a dark-red soldier's cloak pinned at the shoulder, leather belts. They have laid their arms down: Nereus (left) lowers a round shield, turned away, its rim at the bottom edge of the window; Achilleus (right) has let his sword-belt hang loose and holds the sheathed sword downward, point to the ground, in a gesture of giving it up. Each holds a green palm branch in the other hand. Behind them the Via Ardeatina outside Rome: umbrella pines and dark cypresses, the green Campagna, a low brick doorway leading down into the catacomb of Domitilla, and far off the walls of Rome. No wounds, no blood. Keep both figures inside the arched window.",
+      "face": "Two clearly different men. Nereus (left, the elder): a man of about forty-five with a BLOCKY, FLAT-TOPPED head and a strong, wide face — a heavy, straight brow ridge, deep-set steady dark eyes, a thick, strong nose with a slight bend at the bridge, broad cheekbones and a wide, square jaw with a wide, firm mouth; short, soldier-cropped black hair greying at the temples and a close, dark stubble beard; a sober, resolute look. Achilleus (right, the younger): a slender man of about twenty-eight, clean-shaven, with a LONG face and HIGH, ROUNDED cheekbones over a squared-off chin — a thin, straight nose, large bright light-brown eyes under fine, arched brows, a small, well-cut mouth; short, light-brown hair in tight curls; his gaze lifted a little, hopeful.",
+      "refs": [
+        "philip_james",
+        "george",
+        "sebastian"
+      ],
+      "basis": "Pope Damasus's epitaph at their tomb says they were soldiers who, suddenly converted, threw away their shields, decorations and bloody weapons and died confessing Christ; the carved pillar of their ciborium in the Domitilla basilica shows Achilleus's execution. No likeness survives; the elder, blocky Nereus and the younger, long-faced Achilleus are our choice, echoing Rubens's pairing of an older and a younger man.",
+      "sources": [
+        {
+          "title": "Wikipedia, Nereus and Achilleus (Damasus inscription; the Achilleus pillar)",
+          "url": "https://en.wikipedia.org/wiki/Nereus_and_Achilleus"
+        },
+        {
+          "title": "The Cult of Saints (Oxford), E07153: Damasus's poem for Nereus and Achilleus",
+          "url": "http://csla.history.ox.ac.uk/record.php?recid=E07153"
+        },
+        {
+          "title": "Catholic Encyclopedia (1911), Sts. Nereus and Achilleus, Domitilla and Pancratius",
+          "url": "https://www.newadvent.org/cathen/10751a.htm"
+        },
+        {
+          "title": "Commons, Rubens, Saint Domitilla with Nereus and Achilleus (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Nereusachilleusdomitilla_rubens.jpg"
+        }
+      ],
+      "catalogMatch": "Ss. Nereus and Achilleus"
+    },
+    {
+      "id": "john_i",
+      "letter": "J",
+      "feast": {
+        "month": 5,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. John I",
+        "pt-BR": "São João I"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we imitate his constancy in the faith.",
+        "pt-BR": "Imitemos sua constância na fé."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-18.json collect (final clause; en-US \"that we ... may imitate\" recast as \"May we imitate\", pt-BR verbatim, capitalised)",
+      "subject": "A pope of the early sixth century, half-length, in the dress of his time and NO tiara: a long white tunic, over it an ample, bell-shaped dark-red paenula (early chasuble) and a narrow white woollen pallium marked with small dark crosses; he holds a jewelled book of the Gospels closed against his chest with both hands. Beside him on one side a small stone window with iron bars, sign of the prison where he died. Behind him Ravenna: red-brick basilicas with long arcaded walls, the round, domed stone Mausoleum of Theodoric among cypresses, the flat marshy plain under a pale sky. No chains on him, no suffering shown. Keep the window and the city inside the arched window.",
+      "face": "A Tuscan of about sixty-five, worn thin by the long journey and the prison, with a ROUNDED-TRIANGULAR face — a broad, low forehead and wide, flat temples tapering past softly drawn cheeks to a short, narrow chin; a straight nose with a wide, flat bridge; round, gentle, pale-brown eyes that droop a little at the outer corners, under thin grey brows raised in patient sorrow; a small, soft mouth; grey hair cut in a round Roman tonsure fringe and a short, neat grey beard trimmed to a small point; a meek, steady gaze.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; art shows him behind prison bars, and the reliquary bust at Coimbra gives him only a conventional short beard. He died of ill-treatment in Theodoric's prison at Ravenna in 526, after his embassy to Constantinople, so the face is ours: worn, meek and patient, with a different shape from the other popes' cards.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope John I (Ravenna prison; depicted behind bars)",
+          "url": "https://en.wikipedia.org/wiki/Pope_John_I"
+        },
+        {
+          "title": "Commons, reliquary bust of Pope John I, Coimbra (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg"
+        }
+      ],
+      "catalogMatch": "Saint John I, pope"
+    },
+    {
+      "id": "gregory_vii",
+      "letter": "G",
+      "feast": {
+        "month": 5,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Gregory VII",
+        "pt-BR": "São Gregório VII"
+      },
+      "patronOf": {
+        "en-US": "Pope and reformer",
+        "pt-BR": "Papa e reformador"
+      },
+      "prayerExcerpt": {
+        "en-US": "I have loved justice and hated iniquity, therefore I die in exile.",
+        "pt-BR": "Amei a justiça e odiei a iniquidade; por isso morro no exílio."
+      },
+      "excerptSource": "His last words at Salerno, 1085, as quoted verbatim in the Catholic Encyclopedia (1909), \"Pope St. Gregory VII\" (https://www.newadvent.org/cathen/06791c.htm; local copy consult/batch-12/catholic-encyclopedia-gregory-vii.html); Latin \"Dilexi iustitiam et odivi iniquitatem, propterea morior in exilio\"; pt-BR is our faithful rendering. The calendar entry sanctorale.05-25.gregory-vii has no formulary.",
+      "subject": "An eleventh-century pope, half-length, as in the Exultet roll made in his lifetime: a tall, CONICAL white tiara ringed at the base with a gold band, a red chasuble over a white alb, a white pallium with dark crosses falling down the front; his right hand raised in blessing, his left holding a closed book of the Gospels. Behind him Canossa in winter: the castle on its steep white rock in the snowy Apennine foothills, bare trees, a pale winter sky. No other figures. Keep the castle and the rock inside the arched window.",
+      "face": "A small, spare Tuscan of about sixty-five with an olive, sun-darkened complexion and a SHORT, COMPACT face — broad across the brow and cheekbones and short from brow to chin, ending in a firm, slightly jutting small chin; a short, strongly arched, beak-like nose; small, black, intensely bright and piercing eyes under straight, dark, bristling brows drawn a little together; a thin, tight-set, determined mouth; a very short, close-trimmed iron-grey beard and moustache; a little iron-grey hair showing under the tiara; a keen, unflinching gaze.",
+      "refs": [
+        "gregory_great",
+        "charles_borromeo",
+        "ambrose"
+      ],
+      "basis": "Contemporaries, friend and foe, remembered Hildebrand as small, swarthy and keen-eyed (Hugh of Cluny noted his small stature; Durant sums him up as \"small of stature, homely of feature, keen of eye\"); the Exultet roll of his time shows him in a tall conical tiara. We keep the stature, colouring and eyes and idealise the rest.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Gregory VII (Exultet roll image; Canossa; died at Salerno)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+        },
+        {
+          "title": "Commons, Exultet roll of Southern Italy, detail of Gregory VII (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Exultet_Rolls_of_Southern_Italy,_detail_of_Pope_Gregory_VII.jpg"
+        },
+        {
+          "title": "Catholic Encyclopedia (1909), Pope St. Gregory VII (last words)",
+          "url": "https://www.newadvent.org/cathen/06791c.htm"
+        },
+        {
+          "title": "Will Durant, The Age of Faith, ch. on Gregory VII (appearance)",
+          "url": "https://erenow.org/postclassical/the-age-of-faith-a-history-of-medieval-civilization/119.php"
+        }
+      ],
+      "catalogMatch": "Saint Gregory Vii"
+    },
+    {
+      "id": "augustine_canterbury",
+      "letter": "A",
+      "feast": {
+        "month": 5,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Augustine of Canterbury",
+        "pt-BR": "Santo Agostinho de Cantuária"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the English",
+        "pt-BR": "Apóstolo dos ingleses"
+      },
+      "prayerExcerpt": {
+        "en-US": "May the fruits of his labors remain ever abundant in your Church.",
+        "pt-BR": "Que os frutos do seu trabalho permaneçam na vossa Igreja com perene fecundidade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-27.json collect (final clause; en-US \"that the fruits ... may remain\" recast as a wish, \"Que\" added in pt-BR; otherwise verbatim)",
+      "subject": "A Roman monk and missionary bishop of 597, half-length, in the black Benedictine habit and cowl, over it a narrow white pallium with dark crosses; in his right hand the tall silver processional cross he carried as his banner, in his left, held against his chest, a small painted wooden panel of Christ the Saviour (an image only, no lettering). Behind him the Isle of Thanet in Kent: a wide sandy shore, white chalk cliffs, the grey-green Channel with a small Roman sailing ship at anchor, and green downs under a soft, cloudy English sky. Keep the cross and the ship inside the arched window.",
+      "face": "A tall Roman monk of about fifty-five with a SLENDER, finely boned LONG face and gently hollowed cheeks — a smooth, high forehead, a narrow, high-bridged nose, large, grave dark-brown eyes with dark lashes under long, level dark brows, a small, firm mouth; dark hair streaked with grey in a monastic crown around the tonsure; a SHORT, SQUARE-CUT dark beard streaked with grey, trimmed straight across at the bottom; a calm, resolute gaze toward the horizon.",
+      "refs": [
+        "benedict",
+        "patrick",
+        "gregory_great"
+      ],
+      "basis": "Bede tells how he met King Æthelberht on Thanet bearing a silver cross for a banner and an image of the Saviour painted on a board; he had been prior of St Andrew's on the Caelian in Rome. No description of his face survives, so it is our choice, kept apart from Augustine of Hippo (olive, close-cropped, short round beard) and Gregory the Great.",
+      "sources": [
+        {
+          "title": "Bede, Ecclesiastical History I.25 (Medieval Sourcebook)",
+          "url": "https://sourcebooks.fordham.edu/basis/bede-book1.asp"
+        },
+        {
+          "title": "Wikipedia, Augustine of Canterbury",
+          "url": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+        }
+      ],
+      "catalogMatch": "Saint Augustine of Canterbury"
+    },
+    {
+      "id": "marcellinus_peter",
+      "letter": "M",
+      "feast": {
+        "month": 6,
+        "day": 2
+      },
+      "name": {
+        "en-US": "Sts. Marcellinus and Peter",
+        "pt-BR": "Santos Marcelino e Pedro"
+      },
+      "patronOf": {
+        "en-US": "Priest and exorcist, martyrs",
+        "pt-BR": "Presbítero e exorcista, mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that we may profit by imitating them and be upheld by their prayer.",
+        "pt-BR": "Concedei-nos a graça de imitá-los para crescermos na fé e de sermos sustentados pela sua intercessão."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-02.json collect (petition, verbatim in both languages, capitalised)",
+      "subject": "Two Roman clerics of the Diocletian persecution side by side, half-length. Marcellinus (left), the priest: a white tunic and an ample dark-gold paenula (early chasuble), holding a plain silver chalice before his chest. Peter (right), the exorcist: a simple white tunic and a grey-brown cloak, holding a small closed book (the book of exorcisms) against his chest. Each holds a green palm branch. Behind them the Via Labicana outside Rome at the third milestone: two tall laurel trees side by side, a thicket of dark woodland, the green Campagna and a line of aqueduct arches under a clear sky. No wounds, no grave, no executioner. Keep both figures inside the arched window.",
+      "face": "Two clearly different men. Marcellinus (left, the priest): about fifty-five, a WIDE, LOW-BROWED face with broad, flat cheekbones and a rounded chin — a short, straight nose, small, warm, deep-set brown eyes with laughter lines, thick grey-flecked brows, a kindly mouth; grey-brown hair in a tonsure crown and a short, curly pepper-and-salt beard; a fatherly, calm look. Peter (right, the exorcist): about thirty, a NARROW, fine-boned face tapering to a pointed chin — a thin nose with a slight hook, large, dark, intense eyes under strong, straight black brows, a firm, closed mouth; short-cropped black hair and a short, sparse black beard along the jaw (short hair, not a Christ-like figure); an earnest, watchful gaze.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "francis_xavier"
+      ],
+      "basis": "Damasus learned their story as a boy from their executioner: a priest and an exorcist beheaded under Diocletian and buried at the Two Laurels on the Via Labicana. A fresco in their catacomb shows them with short beards; the difference in age and face between the two is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Marcellinus and Peter (Damasus and the executioner; catacomb frescoes; ad duas lauros)",
+          "url": "https://en.wikipedia.org/wiki/Marcellinus_and_Peter"
+        },
+        {
+          "title": "Commons, statue of St Marcellinus, Seligenstadt (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Sanctus_Marcellinus_Martyr_Germany_Seligenstadt_2007.JPG"
+        }
+      ],
+      "catalogMatch": "Sts. Marcellinus and Peter"
+    },
+    {
+      "id": "romuald",
+      "letter": "R",
+      "feast": {
+        "month": 6,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Romuald",
+        "pt-BR": "São Romualdo"
+      },
+      "patronOf": {
+        "en-US": "Father of the Camaldolese",
+        "pt-BR": "Pai dos camaldulenses"
+      },
+      "prayerExcerpt": {
+        "en-US": "Denying ourselves and following Christ, may we merit to reach the heavenly realms on high.",
+        "pt-BR": "Renunciando a nós mesmos e seguindo o Cristo, mereçamos chegar felizes ao reino celestial."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-19.json collect (final clause; en-US \"we may merit\" inverted to \"may we merit\", pt-BR verbatim, capitalised)",
+      "subject": "An aged hermit-abbot of the early eleventh century, half-length, in the ample WHITE Camaldolese habit with its white hood lying on the shoulders, leaning on a plain wooden staff held in his right hand, his left hand open at his breast. Behind him Camaldoli in the Casentino: small stone hermit cells with little gardens among tall, dark silver firs on a mountainside, and above the trees, faint in the sky, the ladder of his vision rising to heaven with small white-robed monks climbing it. Keep the ladder and the cells inside the arched window.",
+      "face": "A very old but vigorous hermit of about seventy-five with a LONG face under a massive, high BALD dome — a broad, strongly furrowed forehead, grey-white brows KNIT DOWNWARD over deep-set, penetrating grey eyes with a searching, severe intensity, a long, strong, slightly hooked nose, sunken cheeks under the beard, a firm mouth half-hidden; a thin fringe of white hair low at the back of the head; a long, wavy, white beard falling in separate strands to mid-chest; the gaze fixed and searching, not gentle.",
+      "refs": [
+        "benedict",
+        "jerome",
+        "bernard_clairvaux"
+      ],
+      "basis": "Fra Angelico's fresco at San Marco shows him with a bald dome, a long white beard, knit brows and a keen, severe gaze, in the white Camaldolese habit; Sacchi painted his vision of monks in white climbing a ladder to heaven. He died very old in 1027. The knit brows, hooked nose and severity keep him apart from the gentler white-bearded elders.",
+      "sources": [
+        {
+          "title": "Wikipedia, Romuald (lead image: Fra Angelico, San Marco)",
+          "url": "https://en.wikipedia.org/wiki/Romuald"
+        },
+        {
+          "title": "Commons, Fra Angelico, Saint Romuald (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_032.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Romuald"
+    },
+    {
+      "id": "paulinus_nola",
+      "letter": "P",
+      "feast": {
+        "month": 6,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Paulinus of Nola",
+        "pt-BR": "São Paulino de Nola"
+      },
+      "patronOf": {
+        "en-US": "Bishop and poet",
+        "pt-BR": "Bispo e poeta"
+      },
+      "prayerExcerpt": {
+        "en-US": "As we celebrate his merits, may we imitate the example of his charity.",
+        "pt-BR": "Celebrando os seus méritos, imitemos o exemplo de sua caridade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-22.json collect (final clause; en-US \"we may imitate\" inverted to \"may we imitate\", pt-BR verbatim, capitalised)",
+      "subject": "A late-Roman bishop of about 420, half-length, with NO mitre: a white tunic, an ample, bell-shaped deep-purple paenula (early chasuble) and a white stole; in his right hand a small bronze hand-bell, over his left wrist a length of broken iron chain, sign of the legend that he gave himself as a slave to ransom a widow's son. Behind him Cimitile by Nola in Campania: the basilica of St Felix with colonnaded porticoes and a fountain in the courtyard, cypresses and orchards, and the cone of Vesuvius in blue haze. Keep the basilica and the mountain inside the arched window.",
+      "face": "A Gallo-Roman aristocrat and poet of about seventy, clean-shaven in the late-Roman manner, with a FINE-BONED, HEART-SHAPED face — a wide forehead and temples tapering to a small, delicate, rounded chin; a well-shaped, high-bridged patrician nose; large, mild, light hazel eyes with fine crow's-feet under thin, gracefully arched silver brows; a gentle, full-lipped mouth set in a slight, warm smile; short, thick white hair combed forward in a straight Roman fringe; a courteous, tender gaze.",
+      "refs": [
+        "ambrose",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "No likeness survives; he was a Bordeaux-born senator and governor of Campania who gave away his wealth and became bishop of Nola, where he died about 77. The clean-shaven Roman aristocrat with a poet's gentle face is our choice; the bell and the chain are his attributes in medieval tradition.",
+      "sources": [
+        {
+          "title": "Wikipedia, Paulinus of Nola (life; bells and chains in tradition)",
+          "url": "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+        },
+        {
+          "title": "Commons, Linz Cathedral window of Paulinus of Nola (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Paulinus of Nola"
+    },
+    {
+      "id": "first_martyrs_rome",
+      "letter": "F",
+      "feast": {
+        "month": 6,
+        "day": 30
+      },
+      "name": {
+        "en-US": "The First Martyrs of the Church of Rome",
+        "pt-BR": "Santos Protomártires da Igreja de Roma"
+      },
+      "patronOf": {
+        "en-US": "Martyrs under Nero",
+        "pt-BR": "Mártires sob Nero"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, who consecrated the abundant first fruits of the Roman Church by the blood of the Martyrs.",
+        "pt-BR": "Ó Deus, que consagrastes os fecundos primórdios da Igreja de Roma com o sangue dos mártires."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-30.json collect (address, verbatim in both languages; full stop added)",
+      "subject": "The first Christians of Rome under Nero, AD 64, as a modest group: THREE figures in front side by side, half-length, and behind them, smaller and softer, a few more faithful men and women. In front, left to right: a grey-haired freedman in a plain undyed wool tunic and brown cloak; a young matron in a long blue-grey stola with a white palla drawn over her hair; a youth in a short belted tunic of a household servant. Each holds a green palm branch; the matron also holds a small clay oil lamp, the elder a small plain wooden cross. Behind them the Vatican plain across the Tiber: Nero's gardens with umbrella pines, the long arena of the Circus with its tall Egyptian obelisk, and beyond the river the hills of Rome, a thin haze of smoke over the city after the Great Fire, under a calm dusk sky. No wounds, no flames, no crosses of execution, no beasts, no gore. Keep all figures inside the arched window.",
+      "face": "Three clearly different people. The freedman (left): a Syrian-born man of about fifty-five with an olive complexion and a LONG, BONY face — a high, lined forehead, a long nose with a gentle hook, heavy-lidded dark eyes, a wide, thin mouth; short grey hair and a short, neat grey beard; a quiet, steadfast look. The matron (centre): a Roman woman of about thirty with a WIDE-CHEEKED, softly SQUARE face — a straight nose, large, dark, calm eyes under strong dark brows, full lips, dark-brown hair parted in the middle under the palla; a serene, brave look lifted a little. The youth (right): a Greek boy of about sixteen, clean-shaven, with a ROUND face and rounded cheeks — a short, straight nose, bright black eyes under round brows, black hair in short tight curls; a trusting look toward the others.",
+      "refs": [
+        "philip_james",
+        "agnes",
+        "sebastian"
+      ],
+      "basis": "Tacitus (Annals 15.44) tells how Nero, blamed for the fire of 64, turned on the Christians and made a spectacle of their deaths in his gardens and circus on the Vatican plain, whose obelisk now stands before St Peter's. Many of the early Roman Christians were slaves, freedmen and easterners, as Paul's greetings in Romans 16 suggest; the three faces are our choice.",
+      "sources": [
+        {
+          "title": "Tacitus, Annals 15.44 (Church and Brodribb translation, Wikisource)",
+          "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+        },
+        {
+          "title": "Wikipedia, Vatican Obelisk (from the Circus of Gaius and Nero)",
+          "url": "https://en.wikipedia.org/wiki/Vatican_Obelisk"
+        }
+      ],
+      "catalogMatch": "The First Martyrs of the Church of Rome"
+    }
+  ]
+}

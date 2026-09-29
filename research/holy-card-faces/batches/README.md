@@ -1,6 +1,6 @@
 # Batches
 
-The 100 saints after the first batch, made 10 at a time; each batch is committed and pushed to main on its own. A batch is done when its ids are ticked in `docs/plans/holy-cards-catalog.md` and its cards exist in `content/practices/saint-of-the-day/data/holy-cards/`; that, not this file, is the status.
+Every card of `docs/plans/holy-cards-catalog.md`, made 10 at a time; each batch is committed and pushed to main on its own. A batch is done when its ids are ticked in `docs/plans/holy-cards-catalog.md` and its cards exist in `content/practices/saint-of-the-day/data/holy-cards/`; that, not this file, is the status.
 
 | Batch | Saints (card ids) |
 |---|---|
@@ -15,7 +15,30 @@ The 100 saints after the first batch, made 10 at a time; each batch is committed
 | 9 | bruno, denis, hedwig, north_american_martyrs, paul_of_the_cross, john_capistrano, anthony_claret, albert_great, margaret_scotland, gertrude |
 | 10 | clement_i, john_damascene, peter_canisius, thomas_becket, sylvester, pancras, callistus, martin_i, hilary, peter_damian |
 
-Left out for now (least known optional memorials): Raymund of Penyafort, Ansgar, Jerome Emiliani, the Servite founders, Gregory of Narek, Casimir, Turibius, Isidore, Adalbert, Fidelis, Peter Chanel, John of Ávila, Nereus & Achilleus, John I, Gregory VII, Augustine of Canterbury, Marcellinus & Peter, Romuald, Paulinus of Nola, the first martyrs of Rome, Anthony Zaccaria, Augustine Zhao Rong, Henry, Apollinaris, Eusebius of Vercelli, Pontian & Hippolytus, John Eudes, Joseph Calasanz, John Leonardi, Columban, Damasus, John of Kanty.
+| 11 | raymund_penyafort, ansgar, jerome_emiliani, servite_founders, gregory_narek, casimir, turibius, isidore, adalbert, fidelis |
+| 12 | peter_chanel, john_avila, nereus_achilleus, john_i, gregory_vii, augustine_canterbury, marcellinus_peter, romuald, paulinus_nola, first_martyrs_rome |
+| 13 | anthony_zaccaria, augustine_zhao_rong, henry, apollinaris, eusebius_vercelli, pontian_hippolytus, john_eudes, joseph_calasanz, john_leonardi, columban |
+| 14 | damasus, john_kanty, aparecida, conversion_paul, chair_peter, beheading_john_baptist, circumcision, holy_name_jesus, presentation_lord, holy_relics |
+| 15 | all_saints, all_souls, lateran_basilica, basilicas_peter_paul, mary_mother_of_god, holy_family, baptism_lord, easter, ascension, pentecost |
+| 16 | trinity, corpus_christi, sacred_heart, christ_king, lourdes, mount_carmel, mary_major, queenship, holy_name_mary, our_lady_sorrows |
+| 17 | our_lady_mercy, our_lady_rosary, loreto, guadalupe, immaculate_heart, mother_of_church; Rosary: finding_temple, wedding_cana, proclamation_kingdom, institution_eucharist |
+| 18 | Rosary: agony_garden, scourging, crowning_thorns, carrying_cross, crucifixion; Pictorial Lives second feasts: peter_chair_rome, discovery_cross, john_latin_gate, apparition_michael, peter_chains |
+| 19–43 | Pictorial Lives, in the book's date order: each batch takes the next 10 unticked lines of "From the Pictorial Lives of the Saints" (and the book's feasts on the same dates) that no `batches/*.json` claims yet through `catalogMatch`. Ids are the saint's name in snake_case, unique against `content/saints/` and every batch (`gregory_langres`, not `gregory`) |
+| 44–51 | Seasons and Ember Days (19), parts of the Mass (29), objects and vestments (24), in catalog order, 10 at a time |
+
+The order behind the table:
+
+1. The last calendar saints and feasts: Damasus, John of Kanty, Aparecida, the Conversion of St. Paul, the Chair of St. Peter, the Beheading of St. John the Baptist.
+2. Our Lady, the feasts of the Lord and the Church, the Rosary mysteries: scenes in the same frame. Our Lady keeps one recognisable face across her cards (see `annunciation`, `visitation`, `assumption`, `fatima`).
+3. The saints and feasts of the Pictorial Lives, in the book's date order. Excerpt: a line of the book's own reflection (`content/practices/saint-of-the-day/data/saint-of-day-index.json`, public domain), else the formulary.
+4. Seasons, Ember Days, parts of the Mass, liturgical objects and vestments. Not portraits: `new-card.sh` gets `-` as the face and a frame variant through `FRAME` (inner window) and `BOX` (colour of the initial's box). A batch file carries them as `"frame"` and `"box"` on each card. Tried on the drafts `x_advent_sunday`, `x_consecration`, `x_chalice`, 2026-09-29:
+   - **Seasons, Ember Days:** `BOX=<liturgical colour>`, `FRAME="a thin <colour> ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and <colour>; no halo"`.
+   - **Parts of the Mass:** `FRAME="the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo"`.
+   - **Objects and vestments:** `FRAME="instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures"`.
+
+**Before cards without a fixed date ship** (moveable feasts, seasons, parts of the Mass, objects): `feast` is required by `apps/app/src/features/saints/useHolyCards.ts` and `data/catalog.ts` reads `c.feast.month`; make it optional there first, and give those cards a place in the gallery.
+
+Run one batch at a time: at most one batch generating and one being researched. Parallel batches hit the session limit and stop the run.
 
 ## Pipeline
 

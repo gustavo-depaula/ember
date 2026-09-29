@@ -1,0 +1,399 @@
+{
+  "batch": 11,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-11.md",
+  "cards": [
+    {
+      "id": "raymund_penyafort",
+      "letter": "R",
+      "feast": {
+        "month": 1,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Raymund of Penyafort",
+        "pt-BR": "São Raimundo de Penhaforte"
+      },
+      "patronOf": {
+        "en-US": "Patron of canon lawyers",
+        "pt-BR": "Padroeiro dos canonistas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Released from slavery to sin, may we carry out in freedom of spirit what is pleasing to you.",
+        "pt-BR": "Abolida a escravidão do pecado, possamos livremente fazer o que vos agrada."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-07.json collect (final clause; en-US \"that ... we may\" recast as \"may we\", pt-BR verbatim from \"abolida\", capitalised)",
+      "subject": "A Dominican friar of the thirteenth century, half-length, in the white habit and white scapular; his black cappa is not on his shoulders but rigged as a sail: one edge tied to the tall wooden walking staff he holds upright in his right hand, the black cloth billowing behind him in the wind. In his left hand, held against his chest, a small closed book and an iron key, sign of the confessor. He stands calmly upright on the water as on a floor. Behind him the open blue Mediterranean with small white-capped waves, the low hills of Mallorca a faint line on one side and, ahead on the other, the walled harbour of Barcelona with its Romanesque towers, under a bright sky with a few clouds. Keep the sea, the sail and the staff inside the arched window.",
+      "face": "A very old but wiry Catalan of about eighty with a sun-browned complexion and a small, compact, SHIELD-SHAPED face — a broad, bony forehead, high cheekbones angling down to a narrow, squared-off chin; a short, straight nose with a firm, rounded tip; small, bright black eyes set in fine laughter lines under bushy white brows; a long upper lip and a thin, wide mouth with a faint smile; a white Dominican crown of short hair around the shaven head; a close-cropped white beard only a finger deep, following the line of the jaw; the gaze lifted with serene confidence toward the sky ahead.",
+      "refs": [
+        "dominic",
+        "thomas_aquinas",
+        "jerome"
+      ],
+      "basis": "The painting on Wikipedia shows the tonsured, grey-bearded old friar sailing on his cappa with a staff and a key, the legend of his crossing from Mallorca to Barcelona; he died about a hundred years old in 1275. The small shield-shaped face and cropped beard are our choice to keep him from the long-bearded elders and from Albert the Great.",
+      "sources": [
+        {
+          "title": "Wikipedia, Raymond of Penyafort (lead painting; the cappa crossing; died aged 100)",
+          "url": "https://en.wikipedia.org/wiki/Raymond_of_Penyafort"
+        },
+        {
+          "title": "Catholic Encyclopedia (1911), St. Raymond of Penafort",
+          "url": "https://www.newadvent.org/cathen/12671c.htm"
+        }
+      ],
+      "catalogMatch": "Saint Raymund of Penyafort"
+    },
+    {
+      "id": "ansgar",
+      "letter": "A",
+      "feast": {
+        "month": 2,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Ansgar",
+        "pt-BR": "Santo Oscar"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the North",
+        "pt-BR": "Apóstolo do Norte"
+      },
+      "prayerExcerpt": {
+        "en-US": "How beautiful upon the mountains are the feet of him who brings glad tidings of peace.",
+        "pt-BR": "Como são belos sobre os montes os pés do mensageiro que anuncia a paz."
+      },
+      "excerptSource": "content/of/formularies/common/pastors/past11.json entranceAntiphon (Common of Pastors, for Missionaries; first clause, verbatim in both languages). The calendar entry sanctorale.02-03.ansgar has no formulary.",
+      "subject": "A missionary archbishop of the ninth century, half-length, in the black Benedictine cowl with a plain narrow white wool pallium marked with small dark crosses over his shoulders; NO mitre, bare-headed. A plain wooden crozier with a simple curled head rests in his left hand; on his right forearm he carries a small model of a wooden church with a steep shingled roof. Behind him Birka on Lake Mälaren in Sweden: a Viking trading town of timber houses with turf roofs on a green island shore, two dragon-prowed longships drawn up on the beach, birch woods and grey-blue water under a pale northern sky. Keep the town and the ships inside the arched window.",
+      "face": "A spare, weathered Frank of about sixty, clean-shaven, with a BROAD, SQUARE-BROWED face narrowing only a little to a wide, strongly CLEFT chin — a straight, flat brow line, small, deep-set, very pale grey-blue eyes crinkled against the northern wind, a short, straight nose with a broad bridge, lean cheeks with long vertical creases, a wide, straight, thin-lipped mouth; short, straight flaxen hair gone silver, cut in a straight Carolingian fringe around the shaven monastic crown; wind-reddened cheeks; a calm, far-seeing gaze a little to one side.",
+      "refs": [
+        "patrick",
+        "benedict",
+        "ambrose"
+      ],
+      "basis": "No likeness survives; Rimbert's Life tells of a Frankish monk of Corbie who wore a hair shirt and lived on bread and water, and the tradition (as in Bendixen's painting) shows him clean-shaven with a church in his hand. The square, cleft-chinned face and flaxen fringe are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Ansgar (lead image: Bendixen's painting; Rimbert's Vita)",
+          "url": "https://en.wikipedia.org/wiki/Ansgar"
+        },
+        {
+          "title": "Wikipedia, Birka",
+          "url": "https://en.wikipedia.org/wiki/Birka"
+        }
+      ],
+      "catalogMatch": "Saint Ansgar, bishop"
+    },
+    {
+      "id": "jerome_emiliani",
+      "letter": "J",
+      "feast": {
+        "month": 2,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Jerome Emiliani",
+        "pt-BR": "São Jerônimo Emiliani"
+      },
+      "patronOf": {
+        "en-US": "Patron of orphans",
+        "pt-BR": "Padroeiro dos órfãos"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, Father of mercies, who sent Saint Jerome Emiliani as a helper and father to orphans.",
+        "pt-BR": "Ó Deus, Pai das misericórdias, que, em São Jerônimo Emiliani destes aos órfãos um protetor e pai."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-08.json collect (address, verbatim in both languages)",
+      "subject": "A Venetian nobleman turned servant of the poor, early sixteenth century, half-length, in a plain, worn black gown buttoned to the neck with a small white collar-band, no cloak and no mark of rank. His right arm is around the shoulders of an orphan boy of about ten (a round face, short brown hair, a simple grey smock) who leans against his side; in his left hand hangs loosely a short length of broken iron chain, the fetters from which he escaped as a prisoner of war, by Our Lady's help. Behind them Somasca near Lecco: a stone hamlet and a small church on a steep wooded hillside, a rocky crag above and the lake of the Adda below in soft evening light. Keep the boy and the landscape inside the arched window.",
+      "face": "A Venetian man of about fifty, worn thin by famine and plague, with a LONG OVAL face — a high, domed forehead going bald, dark-brown hair thinning over the crown and falling a little unkempt at the sides behind the ears; a long, straight, rather prominent nose; large, dark, luminous eyes lifted upward under dark brows that slope down at the outer ends, giving a look of compassion; lean cheeks; a full, soft, dark-brown beard of medium length, rounded at the chin and threaded with grey, and a full moustache; the lips a little parted as in prayer.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "ignatius_loyola"
+      ],
+      "basis": "Giandomenico Tiepolo's painting (the Wikipedia lead) shows him balding, with a full dark beard and eyes raised, holding a chain with an orphan at his side; he died of the plague at Somasca at fifty. The card follows it.",
+      "sources": [
+        {
+          "title": "Wikipedia, Jerome Emiliani (lead: Giandomenico Tiepolo, Ca' Rezzonico)",
+          "url": "https://en.wikipedia.org/wiki/Jerome_Emiliani"
+        }
+      ],
+      "catalogMatch": "Saint Jerome Emiliani"
+    },
+    {
+      "id": "servite_founders",
+      "letter": "S",
+      "feast": {
+        "month": 2,
+        "day": 17
+      },
+      "name": {
+        "en-US": "Seven Holy Founders",
+        "pt-BR": "Sete Santos Fundadores"
+      },
+      "patronOf": {
+        "en-US": "Founders of the Servants of Mary",
+        "pt-BR": "Fundadores dos Servos de Maria"
+      },
+      "prayerExcerpt": {
+        "en-US": "Impart to us, O Lord, in kindness the filial devotion with which the holy brothers venerated so devoutly the Mother of God.",
+        "pt-BR": "Infundi em nós, Senhor, a piedade dos Santos Fundadores da Ordem dos Servos de Maria, que se distinguiram pela devoção à Mãe de Deus."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-17.json collect (opening petition, verbatim in both languages up to \"Mother of God\" / \"Mãe de Deus\")",
+      "subject": "The seven founders of the Servants of Mary, Florentine gentlemen of the thirteenth century, grouped half-length: THREE in the front row side by side and FOUR close behind them, their heads a little higher, seven clearly separate faces. All wear the black Servite habit — black tunic, black scapular, black hood lying on the shoulders, a black leather belt — hands folded or holding plain rosaries. The central friar in front holds a small closed book of the Rule against his chest; the friar at his right holds up a small framed painting of the sorrowing Virgin Mary in a dark-blue mantle (a picture only, no text). Behind them Monte Senario north of Florence: a small stone hermitage and chapel among tall dark firs on a hilltop, and far below the Arno valley with the walls and towers of medieval Florence in blue haze. Keep all seven figures inside the arched window.",
+      "face": "Seven clearly different Florentine men, none a stock face. FRONT ROW, left to right: (1) Alexis Falconieri, about forty-five, the humble lay brother: clean-shaven, a LONG, NARROW face with hollow cheeks, a long, thin nose with a slight hook, heavy-lidded eyes lowered in humility and a small pointed chin; short, straight, greying brown hair, no tonsure. (2) Bonfilius Monaldi, the prior, in the centre, about fifty-five: a BROAD, SQUARE face with a heavy jaw, a short, broad nose, steady grey eyes under thick, straight grey brows, a grey monastic crown of hair and a short, full, rounded grey beard. (3) Bonajuncta, about thirty-five: a ROUND, full face with plump cheeks, a small snub nose, large, bright black eyes under round-arched brows, a dimpled chin under a short, trim black beard, thick black hair in a tonsure ring. BACK ROW, left to right: (4) Amadeus, about fifty: a tall, domed, completely bald head, a LONG, RECTANGULAR clean-shaven face, a big straight nose, deep-set dark eyes. (5) Manettus, about forty-five: a HEART-SHAPED face, wide at the cheekbones and narrowing to a small chin, a fine straight nose, hazel eyes, auburn hair in a tonsure ring and a short, neat auburn beard. (6) Hugh, about thirty-five: a lean, ANGULAR face with sharp cheekbones and a square chin, a Roman nose, dark eyes under heavy black brows, clean-shaven, short curly black hair. (7) Sostene, about thirty-five: a fair OVAL face with a high forehead, a slender nose, light-blue eyes, straight fair-brown hair in a tonsure ring, a thin fair moustache and a small tuft of beard at the chin. All gazes calm and devotional, several turned toward the image of Our Lady.",
+      "refs": [
+        "philip_james",
+        "dominic",
+        "bernard_clairvaux"
+      ],
+      "basis": "No portraits of the seven survive; the sources give their names, families and dates, the black habit, and the withdrawal to Monte Senario above Florence. The seven faces are our choice, made different in shape and age so the group reads as seven men.",
+      "sources": [
+        {
+          "title": "Wikipedia, Seven Holy Founders of the Servite Order",
+          "url": "https://en.wikipedia.org/wiki/Seven_Holy_Founders_of_the_Servite_Order"
+        },
+        {
+          "title": "Catholic Encyclopedia (1912), Order of Servites",
+          "url": "https://www.newadvent.org/cathen/13736a.htm"
+        }
+      ],
+      "catalogMatch": "The Seven Holy Founders of the Servite Order"
+    },
+    {
+      "id": "gregory_narek",
+      "letter": "G",
+      "feast": {
+        "month": 2,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Gregory of Narek",
+        "pt-BR": "São Gregório de Narek"
+      },
+      "patronOf": {
+        "en-US": "Abbot and Doctor of the Church",
+        "pt-BR": "Abade e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant us, through his teachings, the art of knowing how to speak with you.",
+        "pt-BR": "Concedei-nos aprender, por seu ensinamento, a arte de falar convosco."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-27.json collect (petition up to \"speak with you\" / \"falar convosco\", verbatim in both languages, capitalised)",
+      "subject": "An Armenian monk-priest of the tenth century, half-length, in a black monastic robe with the black pointed Armenian monastic hood raised over his head and falling to the shoulders, a small silver cross on his chest. He holds against his chest an open book of prayers bound in red leather, its pages covered only with faint illegible lines, and a reed pen in his other hand. Behind him the monastery of Narek on the southern shore of Lake Van: a small church of pinkish stone with a conical Armenian dome, a carved stone cross-stone (khachkar) beside it, and the deep-blue lake with mountains beyond. Keep the monastery and the lake inside the arched window.",
+      "face": "An Armenian monk of about fifty with a warm olive complexion and a BROAD, flat-planed OVAL face, as wide at the cheekbones as at the forehead, with a full, rounded jaw — a long, straight nose with a high, strong bridge, very large, wide-open dark almond eyes set level under thick, strongly arched black brows (the wide-eyed gaze of Armenian miniatures), smooth, full cheeks, a small, full mouth; short, thick black hair showing under the hood at the forehead; a short, dense black beard and moustache closely encircling the jaw, with a few grey threads; an intense, contemplative gaze lifted a little upward.",
+      "refs": [
+        "jerome",
+        "athanasius",
+        "bernard_clairvaux"
+      ],
+      "basis": "The miniature in the Matenadaran manuscript 1568 of 1173 shows him with short black hair, a short dark beard and very large eyes, holding a book; the card follows that face. The black pointed hood follows the dress of Armenian celibate priests and monks, and the background is his monastery by Lake Van.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Grigor Narekatsi, Ms. 1568 (1173), Matenadaran",
+          "url": "https://commons.wikimedia.org/wiki/File:Grigor_Narekatsi_1.jpg"
+        },
+        {
+          "title": "Wikipedia, Gregory of Narek",
+          "url": "https://en.wikipedia.org/wiki/Gregory_of_Narek"
+        },
+        {
+          "title": "Wikipedia, Narekavank",
+          "url": "https://en.wikipedia.org/wiki/Narekavank"
+        }
+      ],
+      "catalogMatch": "Saint Gregory of Narek"
+    },
+    {
+      "id": "casimir",
+      "letter": "C",
+      "feast": {
+        "month": 3,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Casimir",
+        "pt-BR": "São Casimiro"
+      },
+      "patronOf": {
+        "en-US": "Patron of Lithuania",
+        "pt-BR": "Padroeiro da Lituânia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Almighty God, to serve you is to reign.",
+        "pt-BR": "Ó Deus todo-poderoso, a quem servir é reinar."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/03-04.json collect (address, verbatim in both languages)",
+      "subject": "A Polish-Lithuanian prince of the fifteenth century, half-length, in a long red robe lined and collared with white ermine, a gold chain on his chest, and on his head the red cap of the Grand Duke of Lithuania with a gold crown-band; in one hand a rosary of dark beads, in the other a tall stem of white lilies. Behind him Vilnius: the Gothic cathedral near the river Neris and the red-brick tower of the Upper Castle on its wooded hill, under a clear, cold late-winter sky with patches of snow. Keep the city inside the arched window.",
+      "face": "A pale, slender young prince of about twenty-four (a young man, not a boy), clean-shaven, with a LONG, NARROW face — a high, smooth forehead, a long, straight, slender nose with a slightly drooping tip, heavy-lidded grey-green eyes under fine, high-arched light-brown brows, long, smooth cheeks with faint colour, a small, gently curved closed mouth and a narrow, rounded chin; straight chestnut-brown hair parted in the middle and falling to the shoulders; a gentle, recollected gaze to one side.",
+      "refs": [
+        "aloysius_gonzaga",
+        "elizabeth_hungary",
+        "george"
+      ],
+      "basis": "The painting of 1594 (Wikipedia lead), which follows the Vilnius 'three-handed' image, shows a long, pale face with a long nose, heavy lids and shoulder-length brown hair under a red crowned cap, in an ermine-lined red robe with lilies. The card follows it; he died of tuberculosis at twenty-five.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Casimir (lead painting, 1594; iconography)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Casimir"
+        },
+        {
+          "title": "Catholic Encyclopedia (1908), St. Casimir",
+          "url": "https://www.newadvent.org/cathen/03402a.htm"
+        }
+      ],
+      "catalogMatch": "Saint Casimir"
+    },
+    {
+      "id": "turibius",
+      "letter": "T",
+      "feast": {
+        "month": 3,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Turibius of Mogrovejo",
+        "pt-BR": "São Turíbio de Mogrovejo"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of Lima",
+        "pt-BR": "Arcebispo de Lima"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that the people consecrated to you may always receive new growth in faith and holiness.",
+        "pt-BR": "Concedei que o povo a vós consagrado cresça constantemente na fé e na santidade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/03-23.json collect (petition, verbatim in both languages, capitalised)",
+      "subject": "A Spanish archbishop of the late sixteenth century on a pastoral visit, half-length, in a white lace-edged rochet under a red mozzetta, a gold pectoral cross, a plain travelling crozier in his left hand; his right hand rests in blessing on the head of a small Andean child held by the mother, a Quechua woman with brown skin and long black braids in a dark woven shawl, both shown at his side and a little lower. Behind them an Andean highland village: a whitewashed adobe church with a bell-gable, green terraced slopes, a llama, and snow-capped peaks under a deep-blue sky. Keep the mother, child and mountains inside the arched window.",
+      "face": "A spare, tireless Castilian of about sixty-two, clean-shaven, with a LONG face BROAD AT THE JAW — a high, bald, domed crown with a short fringe of grey hair above the ears, a long, large, straight nose, pale grey-blue eyes under heavy lids and high-arched grey brows, lean cheeks with deep lines from nose to mouth, a small, tight-lipped, resolute mouth and a broad, firm chin; skin weathered and browned by years on the roads of the Andes; a grave, kindly gaze down toward the child.",
+      "refs": [
+        "charles_borromeo",
+        "rose_lima",
+        "ambrose"
+      ],
+      "basis": "The seventeenth-century portrait (Wikipedia lead), which I checked, shows him clean-shaven and bald with a grey fringe, a long, large nose, heavy-lidded pale eyes and arched brows, in a red cappa with Andean people behind him. The card follows it, weathered by his journeys on foot through the diocese, and shows him confirming, as he confirmed nearly half a million people.",
+      "sources": [
+        {
+          "title": "Wikipedia, Turibius of Mogrovejo (lead portrait; visitations and confirmations)",
+          "url": "https://en.wikipedia.org/wiki/Turibius_of_Mogrovejo"
+        }
+      ],
+      "catalogMatch": "Saint Turibius of Mogrovejo"
+    },
+    {
+      "id": "isidore",
+      "letter": "I",
+      "feast": {
+        "month": 4,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Isidore of Seville",
+        "pt-BR": "Santo Isidoro de Sevilha"
+      },
+      "patronOf": {
+        "en-US": "Bishop and Doctor of the Church",
+        "pt-BR": "Bispo e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "May your Church be aided by his intercession, just as she has been instructed by his heavenly teaching.",
+        "pt-BR": "Que sua intercessão ajude a vossa Igreja, que ele instruiu com ensinamentos celestiais."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-04.json collect (final clause; en-US \"that your Church may be aided\" recast as a wish, pt-BR verbatim from \"que sua intercessão\", capitalised)",
+      "subject": "A bishop of seventh-century Visigothic Spain, half-length, seated at a writing desk, in a white chasuble of antique bell shape with a narrow gold border and a narrow white wool pallium marked with small dark crosses, bare-headed, NO mitre; he writes with a quill in a large open codex whose pages show only faint illegible lines, other bound codices stacked beside him. Behind him, through a Visigothic horseshoe arch: Seville, with Roman city walls, palm and orange trees and the broad Guadalquivir with a small boat, in warm evening light. Keep the city inside the arched window.",
+      "face": "A venerable Hispano-Roman of about seventy with a LARGE, HEAVY, LONG face — a broad, high forehead, a large, strong nose with a gentle hook and a fleshy tip, heavy-lidded dark eyes lowered to the page under thick grey brows, full cheeks, and a broad chin under a full, thick grey beard of medium length, trimmed round and still dark at the moustache; thick grey hair cut short around a tonsure; a calm, absorbed, scholarly look.",
+      "refs": [
+        "augustine",
+        "ambrose",
+        "gregory_great"
+      ],
+      "basis": "No likeness survives; Murillo's painting (Wikipedia lead) shows the aged archbishop reading, with a grey beard. The card keeps the old scholar-bishop and his grey beard, gives him a heavy, long face of our choice, and dresses him as a bishop of his own century rather than in Murillo's mitre.",
+      "sources": [
+        {
+          "title": "Wikipedia, Isidore of Seville (lead: Murillo's portrait)",
+          "url": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+        },
+        {
+          "title": "Catholic Encyclopedia (1910), St. Isidore of Seville",
+          "url": "https://www.newadvent.org/cathen/08186a.htm"
+        }
+      ],
+      "catalogMatch": "Saint Isidore, bishop and doctor"
+    },
+    {
+      "id": "adalbert",
+      "letter": "A",
+      "feast": {
+        "month": 4,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Adalbert",
+        "pt-BR": "Santo Adalberto"
+      },
+      "patronOf": {
+        "en-US": "Patron of Bohemia and Poland",
+        "pt-BR": "Padroeiro da Boêmia e da Polônia"
+      },
+      "prayerExcerpt": {
+        "en-US": "This Saint went as far as death, handing over his life to destruction for the work of Christ.",
+        "pt-BR": "Este santo, pela causa do Cristo, arriscou a própria vida até à morte."
+      },
+      "excerptSource": "content/of/formularies/common/martyrs/mart12.json entranceAntiphon (Common of Martyrs, for One Missionary Martyr; verbatim in both languages, without the Easter-time alleluia). The calendar entry sanctorale.04-23.adalbert has no formulary.",
+      "subject": "A bishop of the tenth century, half-length, in a deep-red chasuble of antique bell shape over a white alb, bare-headed, NO mitre; a plain crozier in his left hand and a closed Gospel book against his chest with his right, a green martyr's palm resting in the crook of that arm. Behind him Prague of the tenth century: the wooded castle hill above the river Vltava with a small round Romanesque stone church and timber palisades, a ferry boat on the river, in clear morning light. Keep the castle hill and river inside the arched window.",
+      "face": "A tall, lean Czech of about forty with an ANGULAR, high-cheekboned face narrowing to a firm, POINTED chin — a broad, straight forehead, strong, jutting cheekbones over slightly hollow cheeks, a straight nose with a broad base, deep-set, earnest blue-grey eyes under straight fair brows, a thin, firm mouth; straight ash-blond hair cut short around a tonsure; a short fair beard lying close along the jaw and ending in a small point at the chin; a fervent gaze toward the distance.",
+      "refs": [
+        "ambrose",
+        "patrick",
+        "charles_borromeo"
+      ],
+      "basis": "No likeness survives, and the later tradition paints him as a white-bearded elder, though he was killed at about forty. The card makes him the age he was, with a fair Slavic face of our choice, and sets him above his cathedral city of Prague rather than at his martyrdom.",
+      "sources": [
+        {
+          "title": "Wikipedia, Adalbert of Prague (lead painting; life, death and patronage)",
+          "url": "https://en.wikipedia.org/wiki/Adalbert_of_Prague"
+        },
+        {
+          "title": "Wikipedia, Prague Castle (the early churches on the castle hill)",
+          "url": "https://en.wikipedia.org/wiki/Prague_Castle"
+        }
+      ],
+      "catalogMatch": "Saint Adalbert, bishop and martyr"
+    },
+    {
+      "id": "fidelis",
+      "letter": "F",
+      "feast": {
+        "month": 4,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Fidelis of Sigmaringen",
+        "pt-BR": "São Fidélis de Sigmaringa"
+      },
+      "patronOf": {
+        "en-US": "Capuchin and martyr",
+        "pt-BR": "Capuchinho e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grounded in charity, may we merit to know with him the power of the Resurrection of Christ.",
+        "pt-BR": "Enraizados na caridade, experimentemos com ele a força da ressurreição do Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-24.json collect (final clause; en-US \"that ... we may\" recast as \"may we\", pt-BR verbatim from \"enraizados\", capitalised)",
+      "subject": "A Capuchin friar of the early seventeenth century, half-length, in the rough brown Capuchin habit with the long pointed hood lying on his shoulders and a white knotted cord, a small wooden crucifix hanging at his belt; he holds a closed book of the Gospels against his chest with his right hand and a green martyr's palm in his left. NO weapons, no wounds. Behind him the village of Seewis in the Prättigau, Switzerland: a white church with a slender spire among dark wooden chalets on a steep green alpine meadow, dark pines and snowy peaks under a clear spring sky. Keep the village and mountains inside the arched window.",
+      "face": "A lean German Capuchin of about forty-four, once a lawyer, with a FINE-BONED, NARROW face tapering to a neat chin — a high, narrow forehead, a fine, straight, narrow nose, clear, gentle hazel eyes under fine, straight brows, faint hollows under delicate cheekbones, a small, thin, kindly mouth; dark-brown hair cropped very short around the Capuchin tonsure; a full, neatly combed dark-brown beard reaching the upper chest and narrowing to a rounded point; a serene, resolute gaze toward the viewer.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "philip_neri"
+      ],
+      "basis": "The Pfärrenbach wall painting (Wikipedia lead) shows the usual type: a Capuchin with a long dark beard, palm and sword. The card keeps the habit, beard and palm without the weapon, and gives him a fine, narrow face of our choice for the lawyer of Freiburg, apart from Lawrence of Brindisi's broad one.",
+      "sources": [
+        {
+          "title": "Wikipedia, Fidelis of Sigmaringen (lead: wall painting in Pfärrenbach; Seewis)",
+          "url": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen"
+        }
+      ],
+      "catalogMatch": "Saint Fidelis of Sigmaringen"
+    }
+  ]
+}
