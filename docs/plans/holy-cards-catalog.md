@@ -6,12 +6,12 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 | Category | Cards | Done |
 |---|---|---|
-| Saints — solemnities, feasts, memorials | 83 | 83 |
+| Saints — solemnities, feasts, memorials | 86 | 83 |
 | Saints — optional memorials | 106 | 74 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
-| Saints of the Pictorial Lives (Saint of the Day) | 240 | 0 |
+| Saints of the Pictorial Lives (Saint of the Day) | 246 | 0 |
 | Feasts of the Lord and the Church | 23 | 5 |
 | Our Lady | 18 | 6 |
 | Angels | 3 | 3 |
@@ -20,7 +20,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 570 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 579 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -30,6 +30,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 17 Jan · Saint Anthony, abbot · *Santo Antão, abade* · memorial — `anthony_abbot`
 - [x] 21 Jan · Saint Agnes, virgin and martyr · *Santa Inês, virgem e mártir* · memorial — `agnes`
 - [x] 24 Jan · Saint Francis de Sales, bishop and doctor of the Church · *São Francisco de Sales, bispo e doutor da Igreja* · memorial — `francis_de_sales`
+- [ ] 25 Jan · The Conversion of Saint Paul, Apostle · *Conversão de São Paulo, apóstolo* · feast
 - [x] 26 Jan · Ss. Timothy and Titus, bishops · *Santos Timóteo e Tito, bispos* · memorial — `timothy_titus`
 - [x] 28 Jan · Saint Thomas Aquinas, priest and doctor of the Church · *Santo Tomás de Aquino, presbítero e doutor da Igreja* · memorial — `thomas_aquinas`
 - [x] 31 Jan · Saint John Bosco, priest · *São João Bosco, presbítero* · memorial — `john_bosco`
@@ -37,6 +38,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 6 Feb · Ss Paul Miki and companions, martyrs · *São Paulo Miki e companheiros, mártires* · memorial — `paul_miki`
 - [x] 10 Feb · Saint Scholastica, virgin · *Santa Escolástica, virgem* · memorial — `scholastica`
 - [x] 14 Feb · Ss Cyril, monk, and Methodius, bishop · *Santos Cirilo, monge, e Metódio, bispo* · feast — `cyril_methodius`
+- [ ] 22 Feb · The Chair of Saint Peter, Apostle · *Cátedra de São Pedro, apóstolo* · feast
 - [x] 23 Feb · Saint Polycarp, bishop and martyr · *São Policarpo, bispo e mártir* · memorial — `polycarp`
 - [x] 7 Mar · Ss. Perpetua and Felicity, martyrs · *Santas Perpétua e Felicidade, mártires* · memorial — `perpetua_felicity`
 - [x] 19 Mar · Saint Joseph the Husband of Mary · *São José, Esposo da Bem-Aventurada Virgem Maria* · solemnity — `joseph`
@@ -78,6 +80,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 24 Aug · Saint Bartholomew, Apostle · *São Bartolomeu, apóstolo* · feast — `bartholomew`
 - [x] 27 Aug · Saint Monica · *Santa Mônica* · memorial — `monica`
 - [x] 28 Aug · Saint Augustine, bishop and doctor of the Church · *Santo Agostinho, bispo e doutor da Igreja* · memorial — `augustine`
+- [ ] 29 Aug · The Beheading of John the Baptist · *Martírio de São João Batista* · memorial
 - [x] 3 Sep · Saint Gregory the Great, pope and doctor of the Church · *São Gregório Magno, papa e doutor da Igreja* · memorial — `gregory_great`
 - [x] 13 Sep · Saint John Chrysostom, bishop and doctor of the Church · *São João Crisóstomo, bispo e doutor da Igreja* · memorial — `john_chrysostom`
 - [x] 16 Sep · Ss. Cornelius, pope, and Cyprian, bishop, martyrs · *Santos Cornélio, papa, e Cipriano, bispo, mártires* · memorial — `cornelius_cyprian`
@@ -245,7 +248,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 ### From the Pictorial Lives of the Saints
 
-The saints of the Saint of the Day practice (`content/practices/saint-of-the-day`, the *Pictorial Lives of the Saints*) not already carded above, on the book's dates (the pre-1969 calendar) and with its names. A day the book gives to a carded saint's other feast (St. Peter's Chains, the Beheading of St. John the Baptist, the Apparition of St. Michael, …) shares that saint's card.
+The saints of the Saint of the Day practice (`content/practices/saint-of-the-day`, the *Pictorial Lives of the Saints*) not already carded above, on the book's dates (the pre-1969 calendar) and with its names. A saint's second feast (St. Peter's Chains, the Apparition of St. Michael, …) is a card of its own, showing that event.
 
 - [ ] 2 Jan · St. Fulgentius, Bishop · *São Fulgêncio, Bispo* · Pictorial Lives
 - [ ] 2 Jan · St. Macarius of Alexandria · *São Macário de Alexandria* · Pictorial Lives
@@ -261,6 +264,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives
 - [ ] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives
 - [ ] 16 Jan · St. Honoratus, Archbishop · *Santo Honorato, Arcebispo* · Pictorial Lives
+- [ ] 18 Jan · St. Peter's Chair at Rome · *A Cátedra de São Pedro em Roma* · Pictorial Lives
 - [ ] 19 Jan · St. Canutus, King, Martyr · *São Canuto, Rei, Mártir* · Pictorial Lives
 - [ ] 30 Jan · St. Bathildes, Queen · *Santa Batildes, Rainha* · Pictorial Lives
 - [ ] 31 Jan · St. Marcella, Widow · *Santa Marcela, Viúva* · Pictorial Lives
@@ -334,6 +338,9 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 28 Apr · St. Vitalis, Martyr · *São Vital, Mártir* · Pictorial Lives
 - [ ] 29 Apr · St. Peter, Martyr · *São Pedro, Mártir* · Pictorial Lives
 - [ ] 29 Apr · St. Hugh, Abbot of Cluny · *Santo Hugo, Abade de Cluny* · Pictorial Lives
+- [ ] 3 May · The Discovery of the Holy Cross · *A Descoberta da Santa Cruz* · Pictorial Lives
+- [ ] 6 May · St. John Before the Latin Gate · *São João ante a Porta Latina* · Pictorial Lives
+- [ ] 8 May · The Apparition of St. Michael the Archangel · *A Aparição de São Miguel Arcanjo* · Pictorial Lives
 - [ ] 10 May · St. Antoninus, Bishop · *Santo Antonino, Bispo* · Pictorial Lives
 - [ ] 11 May · St. Mammertus, Archbishop · *São Mamerto, Arcebispo* · Pictorial Lives
 - [ ] 12 May · St. Epiphanius, Archbishop · *Santo Epifânio, Arcebispo* · Pictorial Lives
@@ -391,7 +398,9 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 27 Jul · St. Pantaleon, Martyr · *São Pantaleão, Mártir* · Pictorial Lives
 - [ ] 28 Jul · Sts. Nazarius and Celsus, Martyrs · *São Nazário e São Celso, Mártires* · Pictorial Lives
 - [ ] 30 Jul · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
+- [ ] 1 Aug · St. Peter's Chains · *As Cadeias de São Pedro* · Pictorial Lives
 - [ ] 2 Aug · St. Stephen, Pope and Martyr · *São Estêvão, Papa e Mártir* · Pictorial Lives
+- [ ] 3 Aug · The Finding of St. Stephen's Relics · *O Achado das Relíquias de Santo Estêvão* · Pictorial Lives
 - [ ] 8 Aug · St. Cyriacus and His Companions, Martyrs · *São Ciríaco e Seus Companheiros, Mártires* · Pictorial Lives
 - [ ] 8 Aug · Blessed Peter Favre · *Beato Pedro Favre* · Pictorial Lives
 - [ ] 9 Aug · St. Romanus, Martyr · *São Romano, Mártir* · Pictorial Lives
