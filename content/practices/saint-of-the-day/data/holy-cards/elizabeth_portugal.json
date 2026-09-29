@@ -1,0 +1,40 @@
+{
+  "id": "elizabeth_portugal",
+  "feast": {
+    "month": 7,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Elizabeth of Portugal",
+    "pt-BR": "Santa Isabel de Portugal"
+  },
+  "patronOf": {
+    "en-US": "Queen and peacemaker",
+    "pt-BR": "Rainha e pacificadora"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we become peacemakers, and so be called children of God.",
+    "pt-BR": "Trabalhar pela paz, para que possamos ser chamados filhos de Deus."
+  },
+  "meta": {
+    "face": "A woman of about fifty-five with a fair Iberian complexion and a long, rectangular face with a high forehead and a long, straight jaw — a slender, slightly aquiline nose, wide-set, heavy-lidded grey-green eyes under fine, arched brown brows, high, flat cheekbones with a soft flush, a small, full-lipped mouth with a faint, gentle smile; the hair hidden by the wimple, and a serene, kindly gaze toward the roses.",
+    "basis": "No portrait from life survives; the dress follows her tomb effigy (1330, Santa Clara-a-Nova, Coimbra), carved to her instructions, showing her crowned in a Poor Clare habit with a pilgrim's staff and purse, and the roses follow her usual iconography. The face is our choice for a mature queen, made older than the young Elizabeth of Hungary card.",
+    "excerpt": "content/of/formularies/sanctoral/07-04.json collect (petition clause; en-US 'that we may become' reordered as 'May we become', pt-BR verbatim, capitalised)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, tomb of Queen Saint Isabel, Santa Clara-a-Nova, Coimbra",
+        "url": "https://commons.wikimedia.org/wiki/File:T%C3%BAmulo_da_Rainha_Santa_Isabel,_Coro_Baixo_da_Igreja_do_Mosteiro_de_Santa_Clara-a-Nova,_Coimbra_05.jpg"
+      },
+      {
+        "title": "Wikipedia, Elizabeth of Portugal",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_of_Portugal"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

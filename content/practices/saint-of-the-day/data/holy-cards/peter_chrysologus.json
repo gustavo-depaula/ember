@@ -1,0 +1,44 @@
+{
+  "id": "peter_chrysologus",
+  "feast": {
+    "month": 7,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Peter Chrysologus",
+    "pt-BR": "São Pedro Crisólogo"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Ravenna, Doctor of the Church",
+    "pt-BR": "Bispo de Ravena, doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant, through his intercession, that we may constantly ponder in our hearts the mysteries of your salvation.",
+    "pt-BR": "Concedei-nos, por suas preces, meditar sempre no coração os mistérios da salvação."
+  },
+  "meta": {
+    "face": "A man of about sixty with a broad, rounded, full face — a wide, smooth forehead with a receding hairline, a short, straight nose with a rounded tip, kind dark eyes set wide apart and creased at the corners, full, rounded cheeks, a broad, full-lipped mouth slightly open as if speaking, a soft, round chin; thin, short grey hair and a short, round-trimmed grey beard, and a warm, eloquent look.",
+    "basis": "His contemporary mosaic portrait in San Giovanni Evangelista, Ravenna, is lost; the later engraved portraits show a balding bishop with a short beard, which the card follows. The golden chasuble alludes to his name, 'golden-worded'.",
+    "excerpt": "content/of/formularies/sanctoral/07-30.json collect (petition clause, verbatim in both languages, capitalised)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, San Pedro Crisólogo (engraved portrait)",
+        "url": "https://commons.wikimedia.org/wiki/File:Pedro_crisologo01.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Saint Peter Chrysologus",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Peter_Chrysologus.jpg"
+      },
+      {
+        "title": "Wikipedia, Peter Chrysologus",
+        "url": "https://en.wikipedia.org/wiki/Peter_Chrysologus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

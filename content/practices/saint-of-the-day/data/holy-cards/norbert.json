@@ -1,0 +1,40 @@
+{
+  "id": "norbert",
+  "feast": {
+    "month": 6,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Norbert",
+    "pt-BR": "São Norberto"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Premonstratensians",
+    "pt-BR": "Fundador dos premonstratenses"
+  },
+  "prayerExcerpt": {
+    "en-US": "The flock of the faithful may always find shepherds after your own heart.",
+    "pt-BR": "Que o rebanho dos fiéis encontre sempre alimento em verdes pastagens e pastores segundo vosso coração."
+  },
+  "meta": {
+    "face": "A man of about forty-five, clean-shaven, with a long, smooth, egg-shaped face narrowing evenly to a rounded chin — a long, fine, straight nose, dark almond-shaped eyes under thin, high-arched brows, smooth cheeks with little modelling, a small, firm mouth with a full lower lip; short dark-brown hair cut round the head with a broad clerical tonsure on the crown, and a calm, noble, slightly reserved look.",
+    "basis": "Follows the Flemish Baroque tradition, as in Gaspar de Crayer's 1664 Norbert: a clean-shaven, oval-faced canon with short dark hair in the white habit, with the monstrance and the double-barred cross of the archbishop of Magdeburg. He was archbishop from his mid-forties and died at about fifty-four.",
+    "excerpt": "content/of/formularies/sanctoral/06-06.json collect (petition clause; en-US capitalised and cut before 'and be fed', pt-BR verbatim)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Gaspar de Crayer, Saint Norbert (1664)",
+        "url": "https://commons.wikimedia.org/wiki/File:SSACRAM_62.JPG"
+      },
+      {
+        "title": "Wikipedia, Norbert of Xanten",
+        "url": "https://en.wikipedia.org/wiki/Norbert_of_Xanten"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

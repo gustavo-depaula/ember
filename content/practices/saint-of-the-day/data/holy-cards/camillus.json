@@ -1,0 +1,44 @@
+{
+  "id": "camillus",
+  "feast": {
+    "month": 7,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Camillus de Lellis",
+    "pt-BR": "São Camilo de Lellis"
+  },
+  "patronOf": {
+    "en-US": "Patron of the sick and of nurses",
+    "pt-BR": "Padroeiro dos enfermos e dos enfermeiros"
+  },
+  "prayerExcerpt": {
+    "en-US": "Serving you in our neighbor, we may, at the hour of our death, pass safely over to you.",
+    "pt-BR": "Servindo a vós em nossos irmãos, possamos partir confiantes ao vosso encontro na hora da nossa morte."
+  },
+  "meta": {
+    "face": "A man of about fifty-five with a long, rectangular face and a heavy, square jaw — a large, long nose, broad at the bridge, deep-set, slightly hooded grey-brown eyes under thick, straight dark brows, lines running from the nose to the corners of a wide, firm mouth, lean cheeks; close-cropped dark hair greying and receding from a high forehead, a short, clipped dark beard and moustache flecked with grey, and a compassionate, weathered look down at the sick man.",
+    "basis": "The painted portraits and early engravings agree on close-cropped receding hair, a short beard or stubble and a long, strong face with a large nose; his biographers record his great height. He founded the Ministers of the Sick in his thirties and died at sixty-four.",
+    "excerpt": "content/of/formularies/sanctoral/07-14.json collect (final clause, verbatim in both languages, capitalised)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Saint Camillus de Lellis (painting)",
+        "url": "https://commons.wikimedia.org/wiki/File:Lellis2.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Portrait of Saint Camillus de Lellis (Wellcome M0010962)",
+        "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Saint_Camillus_de_Lellis._Wellcome_M0010962.jpg"
+      },
+      {
+        "title": "Wikipedia, Camillus de Lellis",
+        "url": "https://en.wikipedia.org/wiki/Camillus_de_Lellis"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ephrem",
+  "feast": {
+    "month": 6,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Ephrem",
+    "pt-BR": "Santo Efrém"
+  },
+  "patronOf": {
+    "en-US": "Deacon and Doctor of the Church",
+    "pt-BR": "Diácono e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "Pour into our hearts, O Lord, the Holy Spirit.",
+    "pt-BR": "Derramai, Senhor, em nossos corações, o Espírito Santo."
+  },
+  "meta": {
+    "face": "A small, slight Syrian man of about sixty with an olive-brown complexion and a short, compact face — a broad, low forehead with fine lines, a short, blunt nose with a small hook, large, dark, luminous, deep-set eyes under thin arching brows, flat, lean cheeks, a small, soft chin and a wide, thin-lipped mouth; only a few wisps of grey hair at the temples under the hood, a sparse grey moustache and a thin wisp of beard at the chin (beardless by nature), and a rapt, singing look lifted toward the light.",
+    "basis": "Dionysius's Painter's Manual describes him as an old man with sparse hair and little beard, wearing a mantle; the Syriac icons show him in a black monk's hood writing his hymns. The olive complexion follows his birth at Nisibis.",
+    "excerpt": "content/of/formularies/sanctoral/06-09.json collect (opening; en-US 'we pray' omitted and a comma added, pt-BR verbatim)",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, Manuel d'iconographie chrétienne (Didron, 1845)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikimedia Commons, Syriac icon of Mor Ephrem",
+        "url": "https://commons.wikimedia.org/wiki/File:Mor_Ephrem_icon.jpg"
+      },
+      {
+        "title": "Wikipedia, Ephrem the Syrian",
+        "url": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

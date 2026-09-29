@@ -7,7 +7,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Category | Cards | Done |
 |---|---|---|
 | Saints — solemnities, feasts, memorials | 83 | 83 |
-| Saints — optional memorials | 106 | 44 |
+| Saints — optional memorials | 106 | 54 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 155 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 165 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -154,27 +154,27 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [ ] 27 May · Saint Augustine of Canterbury, Bishop · *Santo Agostinho de Cantuária, bispo* · optional-memorial
 - [x] 29 May · Saint Paul Vi, pope · *São Paulo VI, papa* · optional-memorial — `paul_vi`
 - [ ] 2 Jun · Sts. Marcellinus and Peter, martyrs · *Santos Marcelino e Pedro, mártires* · optional-memorial
-- [ ] 6 Jun · Saint Norbert, bishop · *São Norberto, bispo* · optional-memorial
-- [ ] 9 Jun · Saint Ephrem, deacon and doctor of the Church · *Santo Efrém, diácono e doutor da Igreja* · optional-memorial
+- [x] 6 Jun · Saint Norbert, bishop · *São Norberto, bispo* · optional-memorial — `norbert`
+- [x] 9 Jun · Saint Ephrem, deacon and doctor of the Church · *Santo Efrém, diácono e doutor da Igreja* · optional-memorial — `ephrem`
 - [ ] 19 Jun · Saint Romuald, abbot · *São Romualdo, abade* · optional-memorial
 - [ ] 22 Jun · Saint Paulinus of Nola, bishop · *São Paulino de Nola, bispo* · optional-memorial
-- [ ] 22 Jun · Saints John Fisher, bishop, and Thomas More, martyrs · *Santos João Fisher, bispo, e Tomás More, mártires* · optional-memorial
+- [x] 22 Jun · Saints John Fisher, bishop, and Thomas More, martyrs · *Santos João Fisher, bispo, e Tomás More, mártires* · optional-memorial — `fisher_more`
 - [x] 26 Jun · Saint Josemaria Escriva de Balaguer, priest · *São Josemaria Escrivá de Balaguer, presbítero* · optional-memorial — `josemaria_escriva`
-- [ ] 27 Jun · Saint Cyril of Alexandria, bishop and doctor of the Church · *São Cirilo de Alexandria, bispo e doutor da Igreja* · optional-memorial
+- [x] 27 Jun · Saint Cyril of Alexandria, bishop and doctor of the Church · *São Cirilo de Alexandria, bispo e doutor da Igreja* · optional-memorial — `cyril_alexandria`
 - [ ] 30 Jun · The First Martyrs of the Church of Rome · *Santos Protomártires da Igreja de Roma* · optional-memorial
-- [ ] 4 Jul · Saint Elizabeth of Portugal · *Santa Isabel de Portugal* · optional-memorial
+- [x] 4 Jul · Saint Elizabeth of Portugal · *Santa Isabel de Portugal* · optional-memorial — `elizabeth_portugal`
 - [ ] 5 Jul · Saint Anthony Zaccaria, priest · *Santo Antônio Maria Zaccaria, presbítero* · optional-memorial
 - [x] 6 Jul · Saint Maria Goretti, virgin and martyr · *Santa Maria Goretti, virgem e mártir* · optional-memorial — `maria_goretti`
 - [ ] 9 Jul · Ss. Augustine Zhao Rong, and Companions · *Santos Agostinho Zhao Rong, presbítero, e companheiros, mártires* · optional-memorial
 - [ ] 13 Jul · Saint Henry · *Santo Henrique* · optional-memorial
-- [ ] 14 Jul · Saint Camillus de Lellis, priest · *São Camilo de Lellis, presbítero* · optional-memorial
+- [x] 14 Jul · Saint Camillus de Lellis, priest · *São Camilo de Lellis, presbítero* · optional-memorial — `camillus`
 - [ ] 20 Jul · Saint Apollinaris, bishop and martyr · *Santo Apolinário, bispo e mártir* · optional-memorial
-- [ ] 21 Jul · Saint Lawrence of Brindisi, priest and doctor of the Church · *São Lourenço de Bríndisi, presbítero e doutor da Igreja* · optional-memorial
+- [x] 21 Jul · Saint Lawrence of Brindisi, priest and doctor of the Church · *São Lourenço de Bríndisi, presbítero e doutor da Igreja* · optional-memorial — `lawrence_brindisi`
 - [x] 24 Jul · Saint Charbel Makhluf, priest · *São Charbel Makhluf, presbítero* · optional-memorial — `charbel`
-- [ ] 30 Jul · Saint Peter Chrysologus, bishop and doctor of the Church · *São Pedro Crisólogo, bispo e doutor da Igreja* · optional-memorial
+- [x] 30 Jul · Saint Peter Chrysologus, bishop and doctor of the Church · *São Pedro Crisólogo, bispo e doutor da Igreja* · optional-memorial — `peter_chrysologus`
 - [ ] 2 Aug · Saint Eusebius of Vercelli, bishop · *Santo Eusébio de Vercelli, bispo* · optional-memorial
-- [ ] 2 Aug · Saint Peter Julian Eymard, priest · *São Pedro Julião Eymard, presbítero* · optional-memorial
-- [ ] 7 Aug · Ss. Sixtus Ii, pope and martyr, and Companions martyrs · *São Sisto II, papa, e companheiros, mártires* · optional-memorial
+- [x] 2 Aug · Saint Peter Julian Eymard, priest · *São Pedro Julião Eymard, presbítero* · optional-memorial — `peter_julian_eymard`
+- [x] 7 Aug · Ss. Sixtus Ii, pope and martyr, and Companions martyrs · *São Sisto II, papa, e companheiros, mártires* · optional-memorial — `sixtus_ii`
 - [x] 7 Aug · Saint Cajetan, priest · *São Caetano, presbítero* · optional-memorial — `cajetan`
 - [x] 12 Aug · Saint Jane Frances de Chantal, religious · *Santa Joana Francisca de Chantal, religiosa* · optional-memorial — `jane_frances_chantal`
 - [ ] 13 Aug · Ss. Pontian, pope, and Hippolytus, priest, martyrs · *Santos Ponciano, papa, e Hipólito, presbítero, mártires* · optional-memorial

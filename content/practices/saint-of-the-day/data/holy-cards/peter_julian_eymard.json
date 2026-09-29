@@ -1,0 +1,44 @@
+{
+  "id": "peter_julian_eymard",
+  "feast": {
+    "month": 8,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Peter Julian Eymard",
+    "pt-BR": "São Pedro Julião Eymard"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the Eucharist",
+    "pt-BR": "Apóstolo da Eucaristia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Our Lady of the Most Blessed Sacrament, Mother and Model of Adorers, pray for us who have recourse to thee!",
+    "pt-BR": "Nossa Senhora do Santíssimo Sacramento, Mãe e Modelo dos adoradores, rogai por nós que recorremos a vós!"
+  },
+  "meta": {
+    "face": "A slight man of about fifty-five, clean-shaven, with a long, narrow face tapering to a pointed chin — a very high, domed forehead with the hair receding at the temples, a long, straight nose with a fine ridge, deep-set, intense grey-blue eyes under thin, straight brows, hollow cheeks under distinct cheekbones, a thin, compressed mouth; brown hair greying and combed back, falling behind the ears to the collar, and a rapt gaze fixed on the Host.",
+    "basis": "Follows his 19th-century photographs and the La Seyne portrait: a thin, clean-shaven face with a very high, receding forehead, deep-set eyes and hair worn long behind the ears, in cassock and French bands. He died at fifty-seven.",
+    "excerpt": "Eymard's invocation, as given in P.-J. Eymard, Month of Our Lady of the Blessed Sacrament (New York: Fathers of the Blessed Sacrament, 1903), https://archive.org/details/monthofourladyof00eymauoft; pt-BR our rendering. The feast has no proper formulary in the repo.",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Eymard, hand-coloured photograph (before 1868)",
+        "url": "https://commons.wikimedia.org/wiki/File:Eymard_(kleur).jpg"
+      },
+      {
+        "title": "Wikimedia Commons, St Peter Julian Eymard",
+        "url": "https://commons.wikimedia.org/wiki/File:St_Peter_Julian_Eymard.jpg"
+      },
+      {
+        "title": "Wikipedia, Peter Julian Eymard",
+        "url": "https://en.wikipedia.org/wiki/Peter_Julian_Eymard"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

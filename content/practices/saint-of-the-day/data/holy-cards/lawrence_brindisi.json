@@ -1,0 +1,40 @@
+{
+  "id": "lawrence_brindisi",
+  "feast": {
+    "month": 7,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Lawrence of Brindisi",
+    "pt-BR": "São Lourenço de Bríndisi"
+  },
+  "patronOf": {
+    "en-US": "Priest and Doctor of the Church",
+    "pt-BR": "Presbítero e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "The seed is the word of God, Christ is the sower; all who come to him will live for ever.",
+    "pt-BR": "A semente é a palavra de Deus e o semeador é Cristo: quem O encontrar permanecerá para sempre."
+  },
+  "meta": {
+    "face": "A man of about forty-two with a broad-browed, strong face — a wide, high forehead, prominent, rounded cheekbones, a straight nose with a thick, rounded tip, large, dark, eager eyes under thick black brows, a wide mouth; short dark hair around a Capuchin tonsure, a very long, thick, dark-brown beard falling to the chest, and a fervent, commanding gaze lifted toward the crucifix.",
+    "basis": "His portraits show a Capuchin with a very long beard, bald in old age; the card shows him at forty-two, the age he was at the battle of Székesfehérvár (1601), so the beard is still dark. The raised crucifix is from the accounts of that battle.",
+    "excerpt": "content/of/formularies/sanctoral/07-21.json readings.default.gospelAcclamation verse",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, San Lorenzo da Brindisi (painting)",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Lorenzo_da_Brindisi.jpg"
+      },
+      {
+        "title": "Wikipedia, Lawrence of Brindisi",
+        "url": "https://en.wikipedia.org/wiki/Lawrence_of_Brindisi"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

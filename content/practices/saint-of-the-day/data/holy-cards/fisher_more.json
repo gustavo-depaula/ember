@@ -1,0 +1,48 @@
+{
+  "id": "fisher_more",
+  "feast": {
+    "month": 6,
+    "day": 22
+  },
+  "name": {
+    "en-US": "Sts. John Fisher and Thomas More",
+    "pt-BR": "Santos João Fisher e Tomás More"
+  },
+  "patronOf": {
+    "en-US": "Bishop and statesman, martyrs",
+    "pt-BR": "Bispo e estadista, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "Nothing can come but that that God will.",
+    "pt-BR": "Nada pode acontecer senão aquilo que Deus quer."
+  },
+  "meta": {
+    "face": "Fisher: a tall, lean man of about sixty-five, clean-shaven, with a long, gaunt, bony face — a high, broad forehead, prominent cheekbones above hollowed cheeks, a long, straight, prominent nose, large, wide-open pale grey eyes under high, thin brows, lines running down from the nose past the mouth, a long, firm chin and a thin, straight, closed mouth; grey hair hidden under the cap, and a steady, searching gaze. More: a man of about fifty-five, clean-shaven with the faintest shadow of stubble, with a straight-sided, rather square face — a broad forehead, a long, straight nose with a slightly rounded tip, grey-blue eyes under straight dark brows with a small vertical crease between them, firm, slightly sunken cheeks, a square chin and a straight, composed mouth with a hint of wry humour; straight dark auburn-brown hair falling to the ears under the black cap, the face in three-quarter view looking off to the side. Fisher is older, paler and much thinner; More is fuller in the face, darker-haired and fair-skinned with a light flush.",
+    "basis": "Both faces follow Hans Holbein the Younger, who drew and painted them from life: Fisher's chalk drawing of about 1527 (a long, gaunt, clean-shaven face with wide eyes) and More's 1527 portrait in the Frick Collection. Erasmus's 1519 letter to Hutten confirms More's fair complexion, auburn-black hair and blue-grey eyes.",
+    "excerpt": "Thomas More, letter to Margaret Roper from the Tower, 1534 (Rogers no. 206), in the modern-spelling text of the Center for Thomas More Studies, https://thomasmorestudies.org/wp-content/uploads/2025/10/Letters-205-206-D-on-Conscience-10-9-2025.pdf; pt-BR our rendering. The feast has no proper formulary in the repo.",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Hans Holbein the Younger, John Fisher (drawing, c. 1527)",
+        "url": "https://commons.wikimedia.org/wiki/File:John_Fisher_by_Hans_Holbein_the_Younger.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Hans Holbein the Younger, Sir Thomas More (1527, Frick Collection)",
+        "url": "https://commons.wikimedia.org/wiki/File:Hans_Holbein,_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg"
+      },
+      {
+        "title": "Erasmus, letter to Ulrich von Hutten, 23 July 1519 (Center for Thomas More Studies)",
+        "url": "https://thomasmorestudies.org/wp-content/uploads/2020/08/Erasmus-to-Ulrich-von-Hutten.pdf"
+      },
+      {
+        "title": "Wikipedia, John Fisher",
+        "url": "https://en.wikipedia.org/wiki/John_Fisher"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}

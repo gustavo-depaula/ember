@@ -1,0 +1,44 @@
+{
+  "id": "cyril_alexandria",
+  "feast": {
+    "month": 6,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Cyril of Alexandria",
+    "pt-BR": "São Cirilo de Alexandria"
+  },
+  "patronOf": {
+    "en-US": "Defender of the Mother of God",
+    "pt-BR": "Defensor da Mãe de Deus"
+  },
+  "prayerExcerpt": {
+    "en-US": "An invincible champion of the divine motherhood of the most Blessed Virgin Mary.",
+    "pt-BR": "Um invencível defensor da maternidade divina da Bem-aventurada Virgem Maria."
+  },
+  "meta": {
+    "face": "An Alexandrian Greek of about sixty with a warm olive complexion and a long, oblong face with a strong frame — a straight, high-bridged nose with a narrow ridge, intense dark eyes under strong, dark, slightly knitted brows angled down toward the nose, high cheekbones, a firm, set mouth; the hair hidden by the cap except a little greying brown at the temples, and a long, full brown beard streaked with grey, tapering to a single point on the chest; a fierce, resolute, watchful look.",
+    "basis": "Follows the 14th-century fresco in the Chora church, Istanbul (the white cap with crosses, a long tapering brown beard, knitted brows), which agrees with Dionysius's grey-haired, long-bearded Cyril in a cross-marked head-covering, and Tzanes's 1654 icon. The icon of the Theotokos recalls the Council of Ephesus.",
+    "excerpt": "content/of/formularies/sanctoral/06-27.json collect (phrase describing him, verbatim in both languages; 'An'/'Um' added)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Cyril of Alexandria, fresco in the Chora church",
+        "url": "https://commons.wikimedia.org/wiki/File:Chora-Kirche_2013-03-21zh_(cropped).jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Emmanuel Tzanes, Saint Cyril of Alexandria (1654)",
+        "url": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_Cirilo_de_Alexandria,_Emmanuel_Tzanes,_Antivouniotissa_Museum_02.jpg"
+      },
+      {
+        "title": "Dionysius of Fourna, Manuel d'iconographie chrétienne (Didron, 1845)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-7.md."
+      }
+    ]
+  }
+}
