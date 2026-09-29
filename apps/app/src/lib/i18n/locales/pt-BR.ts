@@ -70,8 +70,8 @@ export default {
     planStanding: {
       done: 'Completo',
       ontrack: 'Em dia',
-      due: 'Agora',
-      late: 'Atrasado',
+      delayed: 'Atrasado',
+      atrisk: 'Em risco',
     },
     sacredScripture: 'Sagrada Escritura',
     sacredScriptureSub: 'Ler a B\u00edblia',

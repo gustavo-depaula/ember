@@ -3,7 +3,8 @@ import { resolve } from 'node:path'
 import { describe, expect, it } from 'vitest'
 
 import type { Tier } from '@/db/schema'
-import { dayMinutes, pickByWindow } from '../prayNowOrder'
+import { dayMinutes } from '@/features/plan-of-life/timeBlocks'
+import { pickByWindow } from '../prayNowOrder'
 
 // Real plans, straight from content/: the templates' times and tiers, on an
 // ordinary weekday — the practices kept every day.

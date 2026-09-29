@@ -47,7 +47,9 @@ export {
 export type { ScheduleContext } from './schedule'
 export {
   type BlockState,
+  blockEnds,
   blockOrder,
+  dayMinutes,
   deriveTimeBlock,
   getActiveBlocks,
   getBlockCompletion,

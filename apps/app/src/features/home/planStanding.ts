@@ -1,35 +1,54 @@
 import type { TimeBlock } from '@/db/schema'
-import { blockOrder } from '@/features/plan-of-life/timeBlocks'
+import { blockEnds, blockOrder, dayMinutes } from '@/features/plan-of-life/timeBlocks'
 
-export type EntryStatus = 'done' | 'due' | 'late' | 'ahead'
-export type DayStanding = 'done' | 'ontrack' | 'due' | 'late'
+export type EntryStatus = 'done' | 'pending' | 'late'
+export type DayStanding = 'done' | 'ontrack' | 'delayed' | 'atrisk'
 export type PlanEntry = { id: string; name: string; block: TimeBlock; status: EntryStatus }
 
+// How long past its time a practice may wait before the day counts as
+// delayed, and then as at risk of being missed.
+const delayedAfter = 60
+const atRiskAfter = 180
+
 /**
- * The day's plan as a stop light. A practice is done, due (its part of the day
- * is now — or, prayable any time, the evening has come), late (its part of the
- * day has passed) or ahead. The day takes its worst practice: behind, due now,
- * on track (nothing due yet) or done.
+ * When a practice is owed, in logical-day minutes: at its time, or with none
+ * by the end of its part of the day. An any-time practice is never owed.
+ */
+export function owedAt(block: TimeBlock, time: string | null | undefined): number | undefined {
+  if (time) return dayMinutes(time)
+  return block === 'flexible' ? undefined : blockEnds[block]
+}
+
+/**
+ * The day's plan as a stop light. A practice is late an hour past when it is
+ * owed (owedAt). The day is on track until something has waited
+ * that hour (delayed), and at risk once something has waited three.
  */
 export function planStanding(
-  blocks: { block: TimeBlock; slots: { id: string; name: string }[] }[],
+  blocks: { block: TimeBlock; slots: { id: string; name: string; owed?: number }[] }[],
   doneIds: Set<string>,
-  current: TimeBlock,
+  now: number,
 ): { entries: PlanEntry[]; done: number; standing: DayStanding } {
-  const now = blockOrder.indexOf(current)
-  const statusOf = (id: string, block: TimeBlock): EntryStatus => {
-    if (doneIds.has(id)) return 'done'
-    if (block === 'flexible') return current === 'evening' ? 'due' : 'ahead'
-    const at = blockOrder.indexOf(block)
-    if (at < now) return 'late'
-    return at === now ? 'due' : 'ahead'
-  }
+  let worst = -Infinity
+  let done = 0
   const entries = blocks.flatMap(({ block, slots }) =>
-    slots.map((s) => ({ id: s.id, name: s.name, block, status: statusOf(s.id, block) })),
+    slots.map(({ id, name, owed }): PlanEntry => {
+      if (doneIds.has(id)) {
+        done++
+        return { id, name, block, status: 'done' }
+      }
+      const overdue = now - (owed ?? Infinity)
+      worst = Math.max(worst, overdue)
+      return { id, name, block, status: overdue >= delayedAfter ? 'late' : 'pending' }
+    }),
   )
-  const worst = (['late', 'due', 'ahead'] as const).find((s) => entries.some((e) => e.status === s))
-  const standing: DayStanding = worst === 'ahead' ? 'ontrack' : (worst ?? 'done')
-  return { entries, done: entries.filter((e) => e.status === 'done').length, standing }
+  return { entries, done, standing: standingOf(done === entries.length, worst) }
+}
+
+function standingOf(allDone: boolean, worstOverdue: number): DayStanding {
+  if (allDone) return 'done'
+  if (worstOverdue >= atRiskAfter) return 'atrisk'
+  return worstOverdue >= delayedAfter ? 'delayed' : 'ontrack'
 }
 
 /**

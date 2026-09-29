@@ -8,26 +8,33 @@ import { CoverKicker, OrdoSheet } from '@/features/covers'
 import { coverFonts, coverInk } from '@/features/covers/parts'
 import { type BlockTone, jewelTones } from '@/features/explore/bgColor'
 import {
+  dayMinutes,
   getActiveBlocks,
   getCurrentTimeBlock,
   getSlotName,
   getSlotPinLabel,
 } from '@/features/plan-of-life'
-import { useCurrentHour } from '@/hooks/useCurrentHour'
-import { type DayStanding, entriesAround, type PlanEntry, planStanding } from '../planStanding'
+import { useMinuteOfDay } from '@/hooks/useCurrentHour'
+import {
+  type DayStanding,
+  entriesAround,
+  owedAt,
+  type PlanEntry,
+  planStanding,
+} from '../planStanding'
 import type { TodayPlan } from '../useTodayPlan'
 
 export const planCardSize = 160
 const pad = planCardSize * 0.09
 const shownEntries = 5
 
-// The heading band is the day's light: green on track, gold with something
-// due now, red once a part of the day has slipped by.
+// The heading band is the day's light: green on track, gold once a practice
+// has waited well past its time, red once one is at risk of being missed.
 const bandTone: Record<DayStanding, BlockTone> = {
   done: jewelTones.green,
   ontrack: jewelTones.green,
-  due: jewelTones.gold,
-  late: jewelTones.red,
+  delayed: jewelTones.gold,
+  atrisk: jewelTones.red,
 }
 
 /**
@@ -43,17 +50,26 @@ export function PlanOfLifeCard({
   onPress: () => void
 }) {
   const { t } = useTranslation()
-  const current = getCurrentTimeBlock(useCurrentHour())
+  const now = useMinuteOfDay()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: pinnedFlows re-derives pinned slots' names as their flows load
+  const blocks = useMemo(
+    () =>
+      getActiveBlocks(todaySlots).map(({ block, def }) => ({
+        block,
+        slots: def.slots.map((s) => ({
+          id: s.id,
+          name: getSlotPinLabel(s) ?? getSlotName(s, t),
+          owed: owedAt(block, s.time),
+        })),
+      })),
+    [todaySlots, t, pinnedFlows],
+  )
   const { day, shown } = useMemo(() => {
-    const blocks = getActiveBlocks(todaySlots).map(({ block, def }) => ({
-      block,
-      slots: def.slots.map((s) => ({ id: s.id, name: getSlotPinLabel(s) ?? getSlotName(s, t) })),
-    }))
-    const day = planStanding(blocks, completedIds, current)
+    const day = planStanding(blocks, completedIds, dayMinutes(now))
+    const current = getCurrentTimeBlock(Math.floor(now / 60))
     return { day, shown: entriesAround(day.entries, current, shownEntries) }
-  }, [todaySlots, completedIds, current, t, pinnedFlows])
+  }, [blocks, completedIds, now])
   const total = day.entries.length
 
   return (

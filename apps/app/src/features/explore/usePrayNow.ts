@@ -12,6 +12,7 @@ import { resolveCompletions, type SlotState, useEventStore } from '@/db/events'
 import { getPractice } from '@/db/repositories/practices'
 import type { TimeBlock } from '@/db/schema'
 import {
+  dayMinutes,
   deriveTimeBlock,
   enrichSlot,
   getCurrentTimeBlock,
@@ -20,7 +21,7 @@ import {
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
-import { dayMinutes, pickByWindow, type Timed } from './prayNowOrder'
+import { pickByWindow, type Timed } from './prayNowOrder'
 
 // What "Pray now" offers. Only timed practices and hour-based offices are
 // picked; untimed ones (Confession, spiritual reading) have no "now". The

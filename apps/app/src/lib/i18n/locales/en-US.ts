@@ -70,8 +70,8 @@ export default {
     planStanding: {
       done: 'Complete',
       ontrack: 'On track',
-      due: 'Due now',
-      late: 'Behind',
+      delayed: 'Delayed',
+      atrisk: 'At risk',
     },
     sacredScripture: 'Sacred Scripture',
     sacredScriptureSub: 'Read the Bible',

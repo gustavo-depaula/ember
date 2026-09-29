@@ -1,8 +1,8 @@
 import type { Tier } from '@/db/schema'
+import { blockEnds } from '@/features/plan-of-life/timeBlocks'
 
 // The timing rules behind "Pray now", kept pure so they can be checked against
-// every plan at every hour. Times are minutes into the logical day, which runs
-// 04:00–04:00 like useToday: 01:00 is 25:00, the tail of the evening.
+// every plan at every hour. Times are minutes into the logical day (dayMinutes).
 //
 // Each timed practice holds its timeframe: it opens `lead` minutes early and
 // stays on time until the next practice of the day comes due — but never past
@@ -17,21 +17,12 @@ import type { Tier } from '@/db/schema'
 
 const lead = 30
 const essentialHold = 2 * 60
-const dayStart = 4 * 60
-const dayEnd = dayStart + 24 * 60
 const tierRank: Record<Tier, number> = { essential: 0, ideal: 1, extra: 2 }
 
 export type Timed = {
   due: number
   tier: Tier
   office?: boolean
-}
-
-/** Minutes into the logical day: 00:00–03:59 count as 24:00–27:59. */
-export function dayMinutes(hhmm: string): number {
-  const [h, m] = hhmm.split(':').map(Number)
-  const minutes = h * 60 + (m || 0)
-  return minutes < dayStart ? minutes + 24 * 60 : minutes
 }
 
 export function clockOf(minutes: number): string {
@@ -41,9 +32,9 @@ export function clockOf(minutes: number): string {
 
 /** The end of the part of the day a time falls in, as Today's blocks divide it. */
 function blockEnd(due: number): number {
-  if (due < 12 * 60) return 12 * 60
-  if (due < 17 * 60) return 17 * 60
-  return dayEnd
+  if (due < blockEnds.morning) return blockEnds.morning
+  if (due < blockEnds.daytime) return blockEnds.daytime
+  return blockEnds.evening
 }
 
 const byDueThenTier = (a: Timed, b: Timed) => a.due - b.due || tierRank[a.tier] - tierRank[b.tier]

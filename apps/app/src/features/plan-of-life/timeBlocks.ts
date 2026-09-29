@@ -40,9 +40,28 @@ export function getActiveBlocks(slots: SlotState[]): { block: TimeBlock; def: Bl
     .map((block) => ({ block, def: groups[block] }))
 }
 
+// Minutes into the logical day, which runs 04:00–04:00 like useToday: 01:00 is
+// 25:00, the tail of the evening.
+const dayStart = 4 * 60
+const minutesPerDay = 24 * 60
+
+/** Where each part of the day ends, in logical-day minutes. */
+export const blockEnds = { morning: 12 * 60, daytime: 17 * 60, evening: dayStart + minutesPerDay }
+
+/** Minutes into the logical day of a clock time — `HH:MM` or minutes since midnight. */
+export function dayMinutes(time: string | number): number {
+  const minutes = typeof time === 'number' ? time : clockMinutes(time)
+  return minutes < dayStart ? minutes + minutesPerDay : minutes
+}
+
+function clockMinutes(hhmm: string): number {
+  const [h, m] = hhmm.split(':').map(Number)
+  return h * 60 + (m || 0)
+}
+
 export function getCurrentTimeBlock(hour: number): TimeBlock {
-  if (hour >= 5 && hour < 12) return 'morning'
-  if (hour >= 12 && hour < 17) return 'daytime'
+  if (hour >= 5 && hour * 60 < blockEnds.morning) return 'morning'
+  if (hour * 60 >= blockEnds.morning && hour * 60 < blockEnds.daytime) return 'daytime'
   return 'evening'
 }
 
