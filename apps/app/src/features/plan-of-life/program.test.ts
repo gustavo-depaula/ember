@@ -5,6 +5,7 @@ import {
   computeMissedDays,
   computeProgramProgress,
   computeShouldRestart,
+  programDayDates,
   projectProgramAtDate,
   resolveCalendarDay,
   selectEnrollmentSchedule,
@@ -463,5 +464,67 @@ describe('First Fridays end-to-end scenarios', () => {
     expect(p.programDay).toBe(1)
     expect(p.missedDays).toBe(1)
     expect(p.shouldPromptRestart).toBe(true)
+  })
+})
+
+describe('programDayDates', () => {
+  const novena = (policy: ProgramConfig['progressPolicy']): ProgramConfig => ({
+    totalDays: 9,
+    progressPolicy: policy,
+    completionBehavior: 'offer-restart',
+  })
+
+  it('counts a calendar-bound novena on from its start, missed days included', () => {
+    const dates = programDayDates({
+      program: novena('continue'),
+      schedule: { type: 'fixed-program', totalDays: 9, startDate: '2026-09-26' },
+      startedAt: '2026-09-26',
+      completionDatesAsc: ['2026-09-26', '2026-09-28'],
+      today: date(2026, 9, 29),
+    })
+    expect(dates).toEqual([
+      '2026-09-26',
+      '2026-09-27',
+      '2026-09-28',
+      '2026-09-29',
+      '2026-09-30',
+      '2026-10-01',
+      '2026-10-02',
+      '2026-10-03',
+      '2026-10-04',
+    ])
+  })
+
+  it('dates a waiting program by its prayers, then from tomorrow once today is prayed', () => {
+    const dates = programDayDates({
+      program: { ...novena('wait'), totalDays: 4 },
+      schedule: { type: 'daily' },
+      startedAt: '2026-09-01',
+      completionDatesAsc: ['2026-08-20', '2026-09-03', '2026-09-29'],
+      today: date(2026, 9, 29),
+    })
+    expect(dates).toEqual(['2026-09-03', '2026-09-29', '2026-09-30', '2026-10-01'])
+  })
+
+  it('lands a first-Friday devotion on first Fridays', () => {
+    const dates = programDayDates({
+      program: { ...novena('continue'), totalDays: 3 },
+      schedule: firstFriday,
+      startedAt: '2026-09-10',
+      completionDatesAsc: [],
+      today: date(2026, 9, 29),
+    })
+    expect(dates).toEqual(['2026-10-02', '2026-11-06', '2026-12-04'])
+  })
+
+  it('leaves the days of a holy-day rule undated', () => {
+    const dates = programDayDates({
+      program: { ...novena('continue'), totalDays: 2 },
+      schedule: { type: 'holy-days-of-obligation' },
+      startedAt: '2026-09-10',
+      completionDatesAsc: [],
+      today: date(2026, 9, 29),
+    })
+    expect(dates).toEqual([undefined, undefined])
   })
 })

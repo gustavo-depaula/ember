@@ -32,6 +32,7 @@ export {
   useHandleProgramCompletion,
   usePinnedFlows,
   usePractice,
+  useProgramDayDates,
   useProgramHidesForDate,
   useProgramProgress,
   useReorderSlots,
@@ -58,15 +59,4 @@ export {
   groupByTimeBlock,
   type TimeBlock,
 } from './timeBlocks'
-export type { DayCompletion, TieredLog } from './utils'
-export {
-  buildTieredWallData,
-  countByTier,
-  filterSlotsForDate,
-  getCompletionRate,
-  getCurrentStreak,
-  getLongestStreak,
-  isSlotApplicableOnDate,
-  toGreenWallData,
-  toTieredWallData,
-} from './utils'
+export { filterSlotsForDate, isSlotApplicableOnDate } from './utils'

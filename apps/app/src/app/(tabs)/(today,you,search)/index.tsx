@@ -1,5 +1,3 @@
-import { format, subWeeks } from 'date-fns'
-import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { View, YStack } from 'tamagui'
 
@@ -28,21 +26,18 @@ import {
   useTodayPlan,
 } from '@/features/home'
 import { ContinueRow } from '@/features/library'
-import { buildTieredWallData, useCompletionRange } from '@/features/plan-of-life'
+import { usePlanFidelity } from '@/features/plan-of-life/useRuleRecord'
 import { useObligations } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 export default function HomeScreen() {
   const { t } = useTranslation()
   const plan = useTodayPlan()
-  const { now, anchorDate, season, slots, todaySlots, completedIds, selectedDate, onPressItem } =
-    plan
+  const { now, anchorDate, season, todaySlots, completedIds, onPressItem } = plan
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: onPressItem })
 
-  const wallStart = format(subWeeks(now, 9), 'yyyy-MM-dd')
-  const wallLogs = useCompletionRange(wallStart, selectedDate)
-  const wallData = useMemo(() => buildTieredWallData(wallLogs, slots), [wallLogs, slots])
+  const fidelity = usePlanFidelity(10)
   const obligations = useObligations(now)
 
   const totalSlots = todaySlots.length
@@ -93,18 +88,27 @@ export default function HomeScreen() {
                   <Typography variant="label" fontSize="$2">
                     {t('home.fidelity')}
                   </Typography>
-                  <VotiveWall data={wallData} weeks={10} tiered />
+                  <VotiveWall data={fidelity?.wall ?? []} weeks={10} fidelity />
                   {completedCount === totalSlots && (
                     <Typography variant="sacred-title" fontSize="$3" color="$accent">
                       Pax Christi.
                     </Typography>
                   )}
-                  <Typography tone="muted" fontSize="$1">
-                    {t('home.todayProgress', {
-                      completed: completedCount,
-                      total: totalSlots,
-                    })}
-                  </Typography>
+                  {fidelity && fidelity.prayedDays > 0 && (
+                    <YStack alignItems="center">
+                      {fidelity.streak > 1 && (
+                        <Typography tone="muted" fontSize="$1">
+                          {t('home.streakDays', { count: fidelity.streak })}
+                        </Typography>
+                      )}
+                      <Typography tone="muted" fontSize="$1">
+                        {t('home.prayedDays', {
+                          prayed: fidelity.prayedDays,
+                          count: fidelity.countedDays,
+                        })}
+                      </Typography>
+                    </YStack>
+                  )}
                 </YStack>
               </FadeInView>
             </>

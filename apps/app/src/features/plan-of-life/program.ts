@@ -1,8 +1,13 @@
-import { differenceInCalendarDays, parseISO, startOfDay } from 'date-fns'
+import { addDays, differenceInCalendarDays, format, parseISO, startOfDay } from 'date-fns'
 
 import type { ProgramConfig } from '@/content/manifestTypes'
 
-import { getOccurrenceBasedProgramDay, getProgramDay, type Schedule } from './schedule'
+import {
+  getOccurrenceBasedProgramDay,
+  getProgramDay,
+  isApplicableOn,
+  type Schedule,
+} from './schedule'
 
 export type ProgramProgress = {
   programDay: number
@@ -214,4 +219,42 @@ export function selectEnrollmentSchedule(
   if (defaultSchedule.type === 'nth-weekday' || defaultSchedule.type === 'day-of-month')
     return defaultSchedule
   return { type: 'fixed-program', totalDays, startDate }
+}
+
+// Long enough for a monthly devotion of a few dozen days; a holy-day rule can't
+// be decided without the calendar and leaves its days undated.
+const dateSearchDays = 3 * 366
+
+/**
+ * The date each of a program's days falls on, 'yyyy-MM-dd'. A program that
+ * waits for its prayers dates the days already prayed by their prayer and the
+ * rest from today on; a calendar-bound one counts its days from the start.
+ */
+export function programDayDates(args: {
+  program: ProgramConfig
+  schedule: Schedule
+  startedAt: string | undefined
+  completionDatesAsc: string[]
+  today: Date
+}): (string | undefined)[] {
+  const { program, schedule, startedAt, completionDatesAsc, today } = args
+  const key = (d: Date) => format(d, 'yyyy-MM-dd')
+  const walk = (from: Date, count: number) => {
+    const dates: string[] = []
+    for (let i = 0; dates.length < count && i < dateSearchDays; i++) {
+      const d = addDays(from, i)
+      if (isApplicableOn(schedule, d)) dates.push(key(d))
+    }
+    return dates
+  }
+  const pad = (dates: string[]) =>
+    Array.from({ length: program.totalDays }, (_, i) => dates[i] as string | undefined)
+
+  if (program.progressPolicy !== 'wait') {
+    const anchor = schedule.type === 'fixed-program' ? schedule.startDate : startedAt
+    return pad(walk(anchor ? parseISO(anchor) : startOfDay(today), program.totalDays))
+  }
+  const prayed = completionDatesAsc.filter((d) => !startedAt || d >= startedAt)
+  const from = prayed.includes(key(today)) ? addDays(startOfDay(today), 1) : startOfDay(today)
+  return pad([...prayed, ...walk(from, Math.max(program.totalDays - prayed.length, 0))])
 }

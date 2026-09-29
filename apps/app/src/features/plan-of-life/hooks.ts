@@ -27,7 +27,7 @@ import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
-import { projectProgramAtDate } from './program'
+import { programDayDates, projectProgramAtDate } from './program'
 import { parseSchedule } from './schedule'
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
@@ -171,6 +171,34 @@ export function useProgramProgress(
       targetDate: target,
     })
   }, [slots, cursors, completionsByPractice, completions, practiceId, program, targetKey, realKey])
+}
+
+/** The date each day of a program falls on — see `programDayDates`. */
+export function useProgramDayDates(practiceId: string, program: ProgramConfig | undefined) {
+  const today = useStableToday()
+  const todayKey = today.getTime()
+  const { slots, cursors, completionsByPractice, completions } = useEventStore(
+    useShallow((s) => ({
+      slots: s.slots,
+      cursors: s.cursors,
+      completionsByPractice: s.completionsByPractice,
+      completions: s.completions,
+    })),
+  )
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: todayKey gates recomputation; the Date is captured by closure
+  return useMemo(() => {
+    if (!program) return []
+    const slot = [...slots.values()].find((s) => s.practice_id === practiceId)
+    if (!slot) return []
+    return programDayDates({
+      program,
+      schedule: parseSchedule(slot.schedule),
+      startedAt: cursors.get(`program/${practiceId}`)?.started_at,
+      completionDatesAsc: sortedCompletionDates(completionsByPractice.get(practiceId), completions),
+      today,
+    })
+  }, [slots, cursors, completionsByPractice, completions, practiceId, program, todayKey])
 }
 
 export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {

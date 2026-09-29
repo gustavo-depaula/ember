@@ -16,7 +16,7 @@
  *   `new` → NewCommitmentScreen, `[commitmentId]` → EditCommitmentScreen,
  *   `session` → CustodySessionScreen, `shield-pray/[commitmentId]` →
  *   ShieldPrayScreen, `pray-to-disable/[commitmentId]` → PrayToDisableScreen.
- * - You — `<RuleOfLifeSections belowWall={<CustodyCard />} />`.
+ * - You — `<CustodyCard />` under `<RuleOfLifeSections />`.
  * - Search — `useCustodyShortcut()` at the end of the study tiles.
  */
 

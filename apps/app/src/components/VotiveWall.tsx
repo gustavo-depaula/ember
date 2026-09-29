@@ -55,12 +55,14 @@ function cellGlow(value: number, max: number, accent: string) {
 // Each day is a ✦ star, inked by the ember ramp and sized by fidelity — faint
 // and small for missed days, warm gold and large (glowing) for kept ones.
 function Cell({
+  glyph = starGlyph,
   color,
   date,
   size,
   glow,
   onPress,
 }: {
+  glyph?: string
   color: string
   date: string
   size: number
@@ -76,7 +78,7 @@ function Cell({
       justifyContent="center"
     >
       <Text fontSize={size} lineHeight={size} color={color} style={glow}>
-        {starGlyph}
+        {glyph}
       </Text>
     </YStack>
   )
@@ -92,20 +94,8 @@ function Cell({
   return star
 }
 
-function useWallColors(tiered: boolean) {
+function useWallColors() {
   const theme = useTheme()
-  if (tiered) {
-    return [
-      theme.wallEmpty.val,
-      theme.wallExtra1.val,
-      theme.wallExtra2.val,
-      theme.wallIdeal1.val,
-      theme.wallIdeal2.val,
-      theme.wallEssential1.val,
-      theme.wallEssential2.val,
-      theme.wallPerfect.val,
-    ]
-  }
   return [
     theme.wallEmpty.val,
     theme.wallLow.val,
@@ -115,19 +105,43 @@ function useWallColors(tiered: boolean) {
   ]
 }
 
+// A plan day (see `planFidelity`): a lit star for a kept day, a small dim one
+// for a day with prayer but an essential missed, a dot for none, and today in
+// outline until it's kept.
+function useFidelityCells() {
+  const theme = useTheme()
+  const accent = theme.accent.val
+  return [
+    { glyph: '●', size: 4, color: theme.wallEmpty.val },
+    { glyph: starGlyph, size: 10, color: theme.wallMedium.val },
+    {
+      glyph: starGlyph,
+      size: cellConfig.size,
+      color: accent,
+      glow: {
+        textShadowColor: accent,
+        textShadowRadius: 6,
+        textShadowOffset: { width: 0, height: 0 },
+      },
+    },
+    { glyph: '✧', size: 15, color: theme.colorSecondary.val },
+  ]
+}
+
 export function VotiveWall({
   data,
   onDayPress,
   weeks = 20,
-  tiered = false,
+  fidelity = false,
 }: {
   data: WallEntry[]
   onDayPress?: (date: string) => void
   weeks?: number
-  tiered?: boolean
+  fidelity?: boolean
 }) {
   const grid = useMemo(() => buildWeekGrid(data, weeks), [data, weeks])
-  const colors = useWallColors(tiered)
+  const colors = useWallColors()
+  const fidelityCells = useFidelityCells()
   const theme = useTheme()
   const accent = theme.accent.val
 
@@ -135,16 +149,33 @@ export function VotiveWall({
     <XStack gap={cellConfig.gap} justifyContent="flex-end">
       {grid.map((week, wi) => (
         <YStack key={week[0]?.date ?? wi} gap={cellConfig.gap}>
-          {week.map((entry) => (
-            <Cell
-              key={entry.date}
-              color={colors[entry.value] ?? colors[0]}
-              size={cellStarSize(entry.value, colors.length)}
-              glow={cellGlow(entry.value, colors.length, accent)}
-              date={entry.date}
-              onPress={onDayPress ? () => onDayPress(entry.date) : undefined}
-            />
-          ))}
+          {week.map((entry) => {
+            const onPress = onDayPress ? () => onDayPress(entry.date) : undefined
+            if (fidelity) {
+              const cell = fidelityCells[entry.value] ?? fidelityCells[0]
+              return (
+                <Cell
+                  key={entry.date}
+                  glyph={cell.glyph}
+                  color={cell.color}
+                  size={cell.size}
+                  glow={cell.glow}
+                  date={entry.date}
+                  onPress={onPress}
+                />
+              )
+            }
+            return (
+              <Cell
+                key={entry.date}
+                color={colors[entry.value] ?? colors[0]}
+                size={cellStarSize(entry.value, colors.length)}
+                glow={cellGlow(entry.value, colors.length, accent)}
+                date={entry.date}
+                onPress={onPress}
+              />
+            )
+          })}
         </YStack>
       ))}
     </XStack>
