@@ -1,0 +1,419 @@
+{
+  "batch": 8,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-8.md",
+  "cards": [
+    {
+      "id": "cajetan",
+      "letter": "C",
+      "feast": {
+        "month": 8,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Cajetan",
+        "pt-BR": "São Caetano"
+      },
+      "patronOf": {
+        "en-US": "Patron of bread and work",
+        "pt-BR": "Padroeiro do pão e do trabalho"
+      },
+      "prayerExcerpt": {
+        "en-US": "Seek first the kingdom of God, and his righteousness.",
+        "pt-BR": "Buscai primeiro o Reino de Deus e a sua justiça."
+      },
+      "excerptSource": "content/of/formularies/common/saints/sanct5.json communionAntiphon, first clause (Common of Holy Men, for one saint; Cajetan has no proper formulary in the repo). en-US verbatim; pt-BR is our faithful rendering, the Common has no Portuguese",
+      "subject": "A Theatine priest in a plain black cassock cinched with a black cincture, a white surplice over it, half-length, holding the Christ Child in his arms; the Child, partly wrapped in a white cloth, reaches up and touches his beard, and the saint bends his head tenderly toward him. A few ears of golden wheat at the lower edge of the window. Behind him the basilica of Santa Maria Maggiore in Rome with its Romanesque bell tower, under a clear winter-evening sky. Keep the scene inside the arched window.",
+      "face": "A man of about fifty with a ROUND face and soft, full cheeks — a short, straight nose with a rounded tip, large, beautiful dark-brown eyes under gently arched dark brows, low, soft cheekbones, a small, sweet, full-lipped mouth and a rounded chin; short dark-brown hair thinning at the crown, a short, close, rounded dark beard threaded with grey, and his gaze lowered to the Child with a tender smile.",
+      "refs": [
+        "philip_neri",
+        "anthony_padua",
+        "vincent_de_paul"
+      ],
+      "basis": "No portrait from life survives; Erasmo Danese's description (medium height, round face, beautiful eyes, a mouth full of sweetness) gives the face, and the standard iconography, from his letter about Christmas 1517 at Santa Maria Maggiore, gives the Child touching his beard.",
+      "sources": [
+        {
+          "title": "About Art Online, L'iconografia di San Gaetano Thiene nell'arte (Danese's description; the Child and the beard)",
+          "url": "https://www.aboutartonline.com/liconografia-di-san-gaetano-thiene-nellarte-convegno-dedicato-ai-500-anni-della-fondazione-dellordine-teatino/"
+        },
+        {
+          "title": "Francesco Solimena, St. Cajetan (Wikimedia Commons, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Cajetan"
+        },
+        {
+          "title": "Wikipedia, Gaetano Thiene (it)",
+          "url": "https://it.wikipedia.org/wiki/Gaetano_Thiene"
+        }
+      ],
+      "catalogMatch": "Saint Cajetan, priest"
+    },
+    {
+      "id": "jane_frances_chantal",
+      "letter": "J",
+      "feast": {
+        "month": 8,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Jane Frances de Chantal",
+        "pt-BR": "Santa Joana Francisca de Chantal"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Visitation",
+        "pt-BR": "Fundadora da Visitação"
+      },
+      "prayerExcerpt": {
+        "en-US": "Walking faithfully in our vocation, we may constantly be examples of shining light.",
+        "pt-BR": "Vivendo fielmente a nossa vocação, a vossa luz resplandeça em nossas obras."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-12.json collect, petition clause (opening 'that,' dropped; capitalised)",
+      "subject": "A Visitation nun, half-length, in the black habit with a black veil over a white linen band, a wide, square white pleated guimpe covering the neck and chest, and a silver cross on her breast; she holds a small book of the Rule against her chest with both hands, a wooden rosary hanging from her belt. No heart, no flames, no monogram. Behind her the Visitation monastery at Annecy, a plain cloister arcade and garden with the green Semnoz mountain beyond; no lake. Keep the scene inside the arched window; no lettering besides the initial.",
+      "face": "A MATRONLY woman of about sixty, a widow and foundress, with a BROAD, SQUARE face, full in the jaw — a long, straight, strong nose, wide-set clear grey-blue eyes with slightly heavy lids under straight, level brows, broad, flat cheekbones, a wide mouth with thin, closed lips and a faint, knowing smile, and a firm, squared chin; fair skin with visible fine lines at the eyes and mouth, hair hidden by the veil; a steady, direct, authoritative and kindly gaze straight at the viewer (NOT upturned, not girlish or delicate).",
+      "refs": [
+        "monica",
+        "anne",
+        "teresa"
+      ],
+      "basis": "The seventeenth-century portrait type of the Visitation (the Wikipedia lead image): a broad oval face in the white guimpe, grey-blue eyes, long straight nose, thin smiling lips and the silver profession cross. The IHS heart recalls her carving the name of Jesus over her heart.",
+      "sources": [
+        {
+          "title": "Wikipedia, Jane Frances de Chantal (lead portrait, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
+        },
+        {
+          "title": "Catholic Encyclopedia (1910), St. Jane Frances de Chantal",
+          "url": "https://www.newadvent.org/cathen/08286a.htm"
+        }
+      ],
+      "catalogMatch": "Saint Jane Frances de Chantal"
+    },
+    {
+      "id": "stephen_hungary",
+      "letter": "S",
+      "feast": {
+        "month": 8,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Stephen of Hungary",
+        "pt-BR": "Santo Estêvão da Hungria"
+      },
+      "patronOf": {
+        "en-US": "King of Hungary",
+        "pt-BR": "Rei da Hungria"
+      },
+      "prayerExcerpt": {
+        "en-US": "Saint Stephen of Hungary, who fostered her growth while a king on earth",
+        "pt-BR": "Um valoroso propagador do Evangelho, quando reinava na terra"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-16.json collect, middle phrase in each language (pt-BR capitalised)",
+      "subject": "A king, half-length, wearing the Holy Crown of Hungary (gold band with enamel plaques, pendants at the sides and a bent cross on top) and a dark-red, bell-shaped mantle embroidered in gold like his coronation mantle over a blue tunic; he holds a golden orb in one hand and a tall double-barred (apostolic) cross in the other. Behind him the basilica of Esztergom with its great dome on its hill above the wide Danube, green hills beyond. Keep the scene inside the arched window.",
+      "face": "A man of about sixty with a SQUARE, heavy-boned face — a wide, low forehead, flat, broad cheekbones, a strong straight nose with a high bridge, deep-set grey eyes under heavy, straight brows, a wide mouth under a drooping moustache and a broad jaw; shoulder-length straight light-brown hair streaked with grey under the crown, a long, full, grey-streaked beard cut square at the bottom, and a grave, resolute gaze to one side.",
+      "refs": [
+        "elizabeth_hungary",
+        "ambrose",
+        "patrick"
+      ],
+      "basis": "The coronation mantle he and Gisela gave in 1031 shows him crowned with lance and orb; the Hungarian tradition that followed (the double cross, the Holy Crown, a mature bearded king) gives the rest. The square face and beard are chosen to keep him apart from Louis and Wenceslaus.",
+      "sources": [
+        {
+          "title": "Wikipedia, Stephen I of Hungary (Coronation-mantle detail, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+        },
+        {
+          "title": "Kultura.hu, St. Stephen's coronation mantle",
+          "url": "https://kultura.hu/en/st-stephens-coronation-mantle/"
+        },
+        {
+          "title": "Daily News Hungary, 1000-year-old authentic image of Saint Stephen",
+          "url": "https://dailynewshungary.com/1000-year-old-authentic-image-saint-stephen/"
+        }
+      ],
+      "catalogMatch": "Saint Stephen of Hungary"
+    },
+    {
+      "id": "louis_france",
+      "letter": "L",
+      "feast": {
+        "month": 8,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Louis of France",
+        "pt-BR": "São Luís de França"
+      },
+      "patronOf": {
+        "en-US": "King of France",
+        "pt-BR": "Rei de França"
+      },
+      "prayerExcerpt": {
+        "en-US": "By fulfilling our duties on earth, we may seek out your eternal Kingdom.",
+        "pt-BR": "Desempenhando as nossas tarefas temporais, busquemos o vosso reino eterno."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-25.json collect, petition clause (opening 'that,' dropped; capitalised)",
+      "subject": "A king, half-length, in a royal-blue mantle sown with small gold fleurs-de-lis and lined with ermine over a simple grey tunic, a slender gold crown of fleurs-de-lis on his head; he holds in both hands the Crown of Thorns resting on a small cushion inside a gold and crystal reliquary. Behind him the Sainte-Chapelle in Paris with its tall stained-glass windows and slender spire, the Seine and the Île de la Cité. Keep the scene inside the arched window.",
+      "face": "A tall, slender man of about forty with a LONG, NARROW oval face — a high, smooth forehead, a fine, straight, slender nose, wide-set light-blue eyes under pale, level brows, slightly hollow cheeks under fine cheekbones, a small gentle mouth and a long, narrow chin; clean-shaven, straight ash-blond hair with the first grey, cut level at the jaw under the crown, and a serene, gracious gaze lowered to the relic.",
+      "refs": [
+        "elizabeth_hungary",
+        "charles_borromeo",
+        "aloysius_gonzaga"
+      ],
+      "basis": "Salimbene, who saw him in 1248, called him slender and tall with an angelic face; the thirteenth-century images (the Wikipedia lead miniature, consulted) show him beardless with fair hair to the jaw. Made about forty, long-faced and greying, to keep him apart from the youthful blond Martin and George.",
+      "sources": [
+        {
+          "title": "Wikipedia, Louis IX of France",
+          "url": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+        },
+        {
+          "title": "Wikipedia, Salimbene di Adam",
+          "url": "https://en.wikipedia.org/wiki/Salimbene_di_Adam"
+        },
+        {
+          "title": "Louvre, Portrait du roi Louis IX",
+          "url": "https://collections.louvre.fr/en/ark:/53355/cl010055687"
+        }
+      ],
+      "catalogMatch": "Saint Louis of France"
+    },
+    {
+      "id": "peter_claver",
+      "letter": "P",
+      "feast": {
+        "month": 9,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Peter Claver",
+        "pt-BR": "São Pedro Claver"
+      },
+      "patronOf": {
+        "en-US": "Slave of the slaves",
+        "pt-BR": "Escravo dos escravos"
+      },
+      "prayerExcerpt": {
+        "en-US": "We may love our neighbor in deeds and in truth.",
+        "pt-BR": "Amemos o próximo por obras e na verdade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/09-09.json collect, petition clause (capitalised)",
+      "subject": "Two figures side by side, half-length. Left: a Jesuit priest in a worn black soutane and black cloak, a small crucifix on a cord at his chest, offering a clay cup of water with both hands. Right: a young West African man standing upright and dignified at his side, a length of clean white linen draped over one shoulder, his hand resting on the Jesuit's arm as he receives the cup; both are equals in the frame, no chains, no suffering shown. Behind them the harbour of Cartagena de Indias with its stone sea walls, a sailing ship at anchor and palm trees. Keep both figures inside the arched window.",
+      "face": "Peter Claver (left): a lean man of about fifty with a TRIANGULAR face — a broad forehead and temples tapering past hollow cheeks to a narrow, pointed chin; a long, prominent aquiline nose, deep-set dark eyes under thin, straight dark brows, a thin-lipped, gentle mouth; clean-shaven, short black hair receding at the temples, eyes lowered to the man with compassion. The African man (right): about twenty-five, with deep dark-brown skin and a smooth OVAL face — high, rounded cheekbones, a broad, flat-bridged nose, large dark eyes under full brows, full lips set in a calm, grave expression, a firm chin; short, tightly curled black hair, clean-shaven, and a steady, self-possessed gaze toward the priest.",
+      "refs": [
+        "philip_james",
+        "francis_xavier",
+        "vincent_de_paul"
+      ],
+      "basis": "The seventeenth-century Cartagena portrait type (Wikipedia lead image) shows a gaunt, clean-shaven Jesuit; his ministry was meeting the slave ships with water, food and medicine, most of the captives from Angola and West Africa. The companion is drawn upright and equal, not kneeling.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter Claver (portrait, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Claver"
+        },
+        {
+          "title": "Catholic Encyclopedia (1908), St. Peter Claver",
+          "url": "https://www.newadvent.org/cathen/11763b.htm"
+        }
+      ],
+      "catalogMatch": "Saint Peter Claver"
+    },
+    {
+      "id": "robert_bellarmine",
+      "letter": "R",
+      "feast": {
+        "month": 9,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Robert Bellarmine",
+        "pt-BR": "São Roberto Belarmino"
+      },
+      "patronOf": {
+        "en-US": "Bishop and Doctor of the Church",
+        "pt-BR": "Bispo e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the integrity of that same faith your people may always find joy.",
+        "pt-BR": "Que o vosso povo sempre se alegre em conservá-la integralmente."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/09-17.json collect, petition clause (capitalised; pt-BR 'conservá-la' is the Catholic faith)",
+      "subject": "A cardinal, half-length, in a scarlet mozzetta over a scarlet cassock with a white collar band and a red biretta, a plain pectoral cross; he holds a thick closed book (his Controversies) against his chest with one hand and a quill in the other. Behind him the Collegio Romano and the church of Sant'Ignazio in Rome, ochre façades under a clear sky. Keep the scene inside the arched window.",
+      "face": "A small, lean man of about seventy with a LONG, RECTANGULAR face — a broad, high forehead, a long, straight, prominent nose, deep-set dark eyes with heavy lids under arched grey brows, sunken cheeks under strong cheekbones and a narrow jaw; grey hair at the temples under the biretta, a trimmed grey moustache and a short, pointed grey goatee, and a mild, penetrating gaze toward the viewer.",
+      "refs": [
+        "charles_borromeo",
+        "alphonsus_liguori",
+        "jerome"
+      ],
+      "basis": "The contemporary portrait at the Plantin-Moretus Museum (Wikipedia lead, consulted): a long face, prominent nose, heavy-lidded eyes, grey moustache and pointed goatee, in cardinal's red. Hobbes, who saw him in 1614, called him 'a little lean old man'.",
+      "sources": [
+        {
+          "title": "Wikipedia, Robert Bellarmine (Plantin-Moretus portrait, consulted; Hobbes's description)",
+          "url": "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+        },
+        {
+          "title": "Catholic Encyclopedia (1907), St. Robert Francis Romulus Bellarmine",
+          "url": "https://www.newadvent.org/cathen/02411d.htm"
+        }
+      ],
+      "catalogMatch": "Saint Robert Bellarmine"
+    },
+    {
+      "id": "januarius",
+      "letter": "J",
+      "feast": {
+        "month": 9,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Januarius",
+        "pt-BR": "São Januário"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whoever loses his life for my sake, will find it in eternity, says the Lord.",
+        "pt-BR": "Quem perde a sua vida por causa de mim vai encontrá-la, diz o Senhor."
+      },
+      "excerptSource": "content/of/formularies/common/martyrs/mart6.json communionAntiphon (Common of Martyrs, one martyr)",
+      "subject": "A bishop, half-length, in a gold-embroidered red cope over a white alb, a white mitre and a gilded crozier held in one hand; in the other he holds up a small silver reliquary with two glass ampoules of dark-red blood. Behind him the Bay of Naples with Mount Vesuvius and a thin plume of smoke, the city along the shore. Keep the scene inside the arched window; no gore.",
+      "face": "A man of about forty with an ANGULAR face — a square forehead, prominent, sharply cut cheekbones, a straight Roman nose, dark, intense eyes under straight dark brows, a firm mouth and a strong jaw with a small cleft chin; olive southern-Italian skin, short dark hair curling under the mitre, clean-shaven, and a calm, resolute gaze lifted slightly upward.",
+      "refs": [
+        "ambrose",
+        "athanasius",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; the Neapolitan painting type (the Wikipedia lead image, consulted) shows a dark-haired, clean-shaven bishop in his prime with the ampoules of the blood and Vesuvius, which he is invoked against.",
+      "sources": [
+        {
+          "title": "Wikipedia, Januarius (lead painting, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Januarius"
+        },
+        {
+          "title": "New Liturgical Movement, Reliquary busts of the chapel of St Januarius in Naples",
+          "url": "https://www.newliturgicalmovement.org/2024/05/reliquary-busts-of-chapel-of-st.html"
+        }
+      ],
+      "catalogMatch": "Saint Januarius"
+    },
+    {
+      "id": "cosmas_damian",
+      "letter": "C",
+      "feast": {
+        "month": 9,
+        "day": 26
+      },
+      "name": {
+        "en-US": "Sts. Cosmas and Damian",
+        "pt-BR": "Santos Cosme e Damião"
+      },
+      "patronOf": {
+        "en-US": "Patrons of physicians",
+        "pt-BR": "Padroeiros dos médicos"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Saints of God persevered in loving brotherhood, for there was always one spirit in them, and one faith.",
+        "pt-BR": "Os santos de Deus perseveraram no amor fraterno porque permaneceram unidos num só espírito e numa só fé."
+      },
+      "excerptSource": "content/of/formularies/common/martyrs/mart4.json entranceAntiphon, second option (opening 'Because of the Lord's covenant and the ancestral laws,' dropped; capitalised)",
+      "subject": "Two twin physicians side by side, half-length, alike in dress. Cosmas (left) in a red tunic under a green mantle, holding a glass flask of medicine up in one hand and a green palm in the other; Damian (right) in a green tunic under a red mantle, holding a small open wooden box of ointments and a green palm. Behind them the Roman Forum with the round Temple of Romulus and the church of Santi Cosma e Damiano, columns and umbrella pines. Keep both figures inside the arched window.",
+      "face": "Twin Syrian-Arab brothers of about thirty with warm olive-brown skin and the same dark almond eyes and gently aquiline nose, yet distinguishable. Cosmas (left): a broader, SQUARE-JAWED face with full cheeks and a wide mouth, heavier straight brows, short tightly waved black hair, and a short, sparse black beard along the jaw; he looks at the viewer. Damian (right): a narrower, HEART-SHAPED face — wide at the cheekbones, tapering to a small pointed chin — with finer arched brows, a smaller mouth, black hair a little longer and wavy to the ears, only a faint moustache and a wisp of beard at the chin; he looks toward his brother.",
+      "refs": [
+        "philip_james",
+        "francis_xavier",
+        "sebastian"
+      ],
+      "basis": "The Painter's Manual gives the Anargyroi 'of Arabia' as dark, with little beard; the feast of 26 September keeps these Arabian twins of Cyrrhus. Brazilian devotion shows them young in red and green with palms and a box of medicine, the Western tradition with a flask and an ointment jar.",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), Les saints Anargyres, p. 330",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Wikipedia, Saints Cosmas and Damian (Bourdichon miniature, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian"
+        }
+      ],
+      "catalogMatch": "Ss. Cosmas and Damian"
+    },
+    {
+      "id": "wenceslaus",
+      "letter": "W",
+      "feast": {
+        "month": 9,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Wenceslaus",
+        "pt-BR": "São Venceslau"
+      },
+      "patronOf": {
+        "en-US": "Patron of Bohemia",
+        "pt-BR": "Padroeiro da Boêmia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Denying ourselves, we may hold fast to you with all our heart.",
+        "pt-BR": "Renunciando a nós mesmos, possamos nos unir a vós de todo o coração."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/09-28.json collect, petition clause (opening 'that,' dropped; capitalised)",
+      "subject": "A duke, half-length, in mail and a dark-red surcoat with a short ermine-lined mantle, a red ducal cap with an ermine brim and a small gold circlet; he holds a lance with a white pennant bearing a black eagle in one hand and rests the other on a shield bearing the same black eagle on silver. Behind him Prague Castle and St. Vitus Cathedral above the Vltava. Keep the scene inside the arched window.",
+      "face": "A man of about twenty-eight with a BROAD Slavic face, widest at the high, flat cheekbones and narrowing to a short, firm chin — a short, straight nose, light grey eyes set wide under level, fair-brown brows, a well-shaped mouth; straight chestnut hair cut level just below the ears (not long), a neat moustache and a short, small forked chestnut beard, and a clear, candid gaze toward the viewer; not Christ-like.",
+      "refs": [
+        "elizabeth_hungary",
+        "sebastian",
+        "patrick"
+      ],
+      "basis": "The fourteenth-century statue in his chapel in St. Vitus, attributed to Peter Parler (consulted), shows him young in armour with a moustache, a short forked beard and hair to the jaw, holding a lance and the eagle shield; he died about 935, aged under thirty.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Wenzeslaus by Peter Parler (consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Wenzeslaus_by_Peter_Parler.JPG"
+        },
+        {
+          "title": "Wikipedia, Wenceslaus I, Duke of Bohemia",
+          "url": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Bohemia"
+        }
+      ],
+      "catalogMatch": "Saint Wenceslaus, martyr"
+    },
+    {
+      "id": "lawrence_ruiz",
+      "letter": "L",
+      "feast": {
+        "month": 9,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Lawrence Ruiz and Companions",
+        "pt-BR": "São Lourenço Ruiz e companheiros"
+      },
+      "patronOf": {
+        "en-US": "Protomartyr of the Philippines",
+        "pt-BR": "Protomártir das Filipinas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Everyone who acknowledges me before others I will acknowledge before my heavenly Father, says the Lord.",
+        "pt-BR": "Todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus, diz o Senhor."
+      },
+      "excerptSource": "content/of/formularies/common/martyrs/mart11.json communionAntiphon (Common of several missionary martyrs; paschal alleluia dropped; pt-BR lines joined). He has no proper formulary in the repo",
+      "subject": "A layman, half-length, in a white, collarless, long-sleeved camisa de chino of light fabric and dark trousers, his hands clasped at his chest around a wooden rosary, a green palm of martyrdom in the crook of his arm. Behind him the church of Binondo in Manila with its white octagonal Chinese-style bell tower, the Pasig river with bancas, and palm trees. A single figure; his companions are not shown. Keep the scene inside the arched window.",
+      "face": "A Filipino-Chinese man of about forty with warm golden-tan skin and a ROUND-SQUARE face — wide, flat cheekbones, a broad, low-bridged nose, dark almond eyes with a slight epicanthic fold under thick, straight black brows, a gentle full mouth and a rounded jaw; short straight black hair combed to the side, clean-shaven, and a quiet, steadfast gaze lifted slightly upward.",
+      "refs": [
+        "aloysius_gonzaga",
+        "moses_the_black",
+        "sebastian"
+      ],
+      "basis": "Born in Binondo about 1594 to a Chinese father and a Tagalog mother, a husband, father and escribano of the Dominican rosary confraternity; the Philippine image type shows him clean-shaven in a white camisa de chino with the rosary in clasped hands and the palm.",
+      "sources": [
+        {
+          "title": "Wikipedia, Lorenzo Ruiz (attributes; Cubao Cathedral image, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Lorenzo_Ruiz"
+        },
+        {
+          "title": "UCA News, St. Lorenzo Ruiz, Filipino layman who became a martyr in Japan",
+          "url": "https://www.ucanews.com/directory/saint/lorenzo-ruiz-filipino-layman-who-became-a-martyr-in-japan/15"
+        }
+      ],
+      "catalogMatch": "Saint Lawrence Ruiz"
+    }
+  ]
+}

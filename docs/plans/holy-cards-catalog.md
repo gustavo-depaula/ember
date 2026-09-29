@@ -7,7 +7,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Category | Cards | Done |
 |---|---|---|
 | Saints — solemnities, feasts, memorials | 83 | 83 |
-| Saints — optional memorials | 106 | 34 |
+| Saints — optional memorials | 106 | 44 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 145 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 155 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -175,21 +175,21 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [ ] 2 Aug · Saint Eusebius of Vercelli, bishop · *Santo Eusébio de Vercelli, bispo* · optional-memorial
 - [ ] 2 Aug · Saint Peter Julian Eymard, priest · *São Pedro Julião Eymard, presbítero* · optional-memorial
 - [ ] 7 Aug · Ss. Sixtus Ii, pope and martyr, and Companions martyrs · *São Sisto II, papa, e companheiros, mártires* · optional-memorial
-- [ ] 7 Aug · Saint Cajetan, priest · *São Caetano, presbítero* · optional-memorial
-- [ ] 12 Aug · Saint Jane Frances de Chantal, religious · *Santa Joana Francisca de Chantal, religiosa* · optional-memorial
+- [x] 7 Aug · Saint Cajetan, priest · *São Caetano, presbítero* · optional-memorial — `cajetan`
+- [x] 12 Aug · Saint Jane Frances de Chantal, religious · *Santa Joana Francisca de Chantal, religiosa* · optional-memorial — `jane_frances_chantal`
 - [ ] 13 Aug · Ss. Pontian, pope, and Hippolytus, priest, martyrs · *Santos Ponciano, papa, e Hipólito, presbítero, mártires* · optional-memorial
-- [ ] 16 Aug · Saint Stephen of Hungary · *Santo Estêvão da Hungria* · optional-memorial
+- [x] 16 Aug · Saint Stephen of Hungary · *Santo Estêvão da Hungria* · optional-memorial — `stephen_hungary`
 - [ ] 19 Aug · Saint John Eudes, priest · *São João Eudes, presbítero* · optional-memorial
 - [x] 23 Aug · Saint Rose of Lima, virgin · *Santa Rosa de Lima, virgem* · optional-memorial — `rose_lima`
-- [ ] 25 Aug · Saint Louis of France · *São Luís de França* · optional-memorial
+- [x] 25 Aug · Saint Louis of France · *São Luís de França* · optional-memorial — `louis_france`
 - [ ] 25 Aug · Saint Joseph Calasanz, priest · *São José de Calazans, presbítero* · optional-memorial
 - [x] 5 Sep · Saint Teresa of Calcutta, Virgin · *Santa Teresa de Calcutá, virgem* · optional-memorial — `teresa_calcutta`
-- [ ] 9 Sep · Saint Peter Claver, priest · *São Pedro Claver, presbítero* · optional-memorial
-- [ ] 17 Sep · Saint Robert Bellarmine, bishop and doctor of the Church · *São Roberto Belarmino, bispo e doutor da Igreja* · optional-memorial
-- [ ] 19 Sep · Saint Januarius, bishop and martyr · *São Januário, bi5po e mártir* · optional-memorial
-- [ ] 26 Sep · Ss. Cosmas and Damian, martyrs · *Santos Cosme e Damião, mártires* · optional-memorial
-- [ ] 28 Sep · Saint Wenceslaus, martyr · *São Venceslau, mártir* · optional-memorial
-- [ ] 28 Sep · Saint Lawrence Ruiz and Companions, Martyrs · *São Lourenço Ruiz e companheiros, mártires* · optional-memorial
+- [x] 9 Sep · Saint Peter Claver, priest · *São Pedro Claver, presbítero* · optional-memorial — `peter_claver`
+- [x] 17 Sep · Saint Robert Bellarmine, bishop and doctor of the Church · *São Roberto Belarmino, bispo e doutor da Igreja* · optional-memorial — `robert_bellarmine`
+- [x] 19 Sep · Saint Januarius, bishop and martyr · *São Januário, bi5po e mártir* · optional-memorial — `januarius`
+- [x] 26 Sep · Ss. Cosmas and Damian, martyrs · *Santos Cosme e Damião, mártires* · optional-memorial — `cosmas_damian`
+- [x] 28 Sep · Saint Wenceslaus, martyr · *São Venceslau, mártir* · optional-memorial — `wenceslaus`
+- [x] 28 Sep · Saint Lawrence Ruiz and Companions, Martyrs · *São Lourenço Ruiz e companheiros, mártires* · optional-memorial — `lawrence_ruiz`
 - [x] 5 Oct · Saint Faustina Kowalska, virgin · *S. Faustina Kowalska, virgem* · optional-memorial — `faustina`
 - [ ] 6 Oct · Saint Bruno, priest · *São Bruno, presbítero* · optional-memorial
 - [ ] 9 Oct · Saint Denis, bishop and martyr and Companions, martyrs · *São Dionísio, bispo, e companheiros, mártires* · optional-memorial
