@@ -173,6 +173,24 @@ export default {
         quinquagesima: 'Quinquagesima Sunday',
       },
     },
+    fidelityIntro_one:
+      'Each star is a day of the last week, measured against the plan of life as it stood that day. Each column is a week, Monday to Sunday; the latest is on the right.',
+    fidelityIntro_other:
+      'Each star is a day of the last {{count}} weeks, measured against the plan of life as it stood that day. Each column is a week, Monday to Sunday; the latest is on the right.',
+    fidelityLegend: {
+      kept: { title: 'A kept day', body: 'Every essential practice in the plan was prayed.' },
+      prayed: {
+        title: 'A prayed day',
+        body: 'There was prayer, but an essential practice was missed.',
+      },
+      none: { title: 'No prayer', body: 'Nothing was prayed that day.' },
+      open: {
+        title: 'Today',
+        body: 'The day is still open; its star lights once the plan is kept.',
+      },
+    },
+    fidelityStreakNote:
+      'Days in a row count any prayer, in the plan or beyond it; a day with none starts the count again.',
     streakDays_one: '{{count}} day in a row',
     streakDays_other: '{{count}} days in a row',
     prayedDays_one: 'Prayed on {{prayed}} of {{count}} day.',
@@ -1247,6 +1265,7 @@ export default {
     },
   },
   a11y: {
+    openFidelity: 'Open fidelity',
     openPlan: 'Open the plan of life',
     openTraditions: 'See all traditions',
     ruleEditTime: 'Change the time, {{time}}',

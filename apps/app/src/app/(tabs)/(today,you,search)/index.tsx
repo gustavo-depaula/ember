@@ -2,25 +2,20 @@ import { useTranslation } from 'react-i18next'
 import { View, YStack } from 'tamagui'
 
 import {
+  AnimatedPressable,
   FadeInView,
   ObligationBadges,
   PageBreakOrnament,
   ScreenLayout,
-  SectionDivider,
   Typography,
   VotiveWall,
 } from '@/components'
-import {
-  DailyMeditations,
-  ExploreFeatured,
-  FromOpusDei,
-  FromRome,
-  PrayNowCard,
-  usePrayNow,
-} from '@/features/explore'
+import { DailyMeditations, ExploreFeatured, PrayNowCard, usePrayNow } from '@/features/explore'
 import {
   Aspiratio,
+  FidelitySheet,
   LiturgicalHeader,
+  openFidelity,
   TodayPlanSheet,
   TodayRow,
   useTodayPlan,
@@ -31,6 +26,8 @@ import { usePlanFidelity } from '@/features/plan-of-life/useRuleRecord'
 import { useObligations } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
+const fidelityWeeks = 10
+
 export default function HomeScreen() {
   const { t } = useTranslation()
   const plan = useTodayPlan()
@@ -38,7 +35,7 @@ export default function HomeScreen() {
   const setTimeTravelEphemeral = usePreferencesStore((s) => s.setTimeTravelDateEphemeral)
   const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: onPressItem })
 
-  const fidelity = usePlanFidelity(10)
+  const fidelity = usePlanFidelity(fidelityWeeks)
   const obligations = useObligations(now)
 
   const totalSlots = todaySlots.length
@@ -77,19 +74,18 @@ export default function HomeScreen() {
 
           <DailyMeditations />
 
-          <PageBreakOrnament />
-
-          <Aspiratio date={now} />
-
           {todaySlots.length > 0 && (
-            <>
-              <SectionDivider />
-              <FadeInView index={3}>
-                <YStack alignItems="center" gap="$sm">
+            <FadeInView index={3}>
+              <AnimatedPressable
+                onPress={openFidelity}
+                accessibilityRole="button"
+                accessibilityLabel={t('a11y.openFidelity')}
+              >
+                <YStack alignItems="center" gap="$sm" paddingTop="$lg">
                   <Typography variant="label" fontSize="$2">
                     {t('home.fidelity')}
                   </Typography>
-                  <VotiveWall data={fidelity?.wall ?? []} weeks={10} fidelity />
+                  <VotiveWall data={fidelity?.wall ?? []} weeks={fidelityWeeks} fidelity />
                   {completedCount === totalSlots && (
                     <Typography variant="sacred-title" fontSize="$3" color="$accent">
                       Pax Christi.
@@ -111,16 +107,17 @@ export default function HomeScreen() {
                     </YStack>
                   )}
                 </YStack>
-              </FadeInView>
-            </>
+              </AnimatedPressable>
+            </FadeInView>
           )}
 
-          <FromRome />
+          <PageBreakOrnament />
 
-          <FromOpusDei />
+          <Aspiratio date={now} />
         </YStack>
       </ScreenLayout>
       <TodayPlanSheet plan={plan} />
+      <FidelitySheet fidelity={fidelity} weeks={fidelityWeeks} />
       <MissedDaysSheet />
     </View>
   )

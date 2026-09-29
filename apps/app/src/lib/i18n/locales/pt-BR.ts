@@ -173,6 +173,27 @@ export default {
         quinquagesima: 'Domingo da Quinquagésima',
       },
     },
+    fidelityIntro_one:
+      'Cada estrela é um dia da última semana, medido pelo plano de vida em vigor naquele dia. Cada coluna é uma semana, de segunda a domingo; a mais recente fica à direita.',
+    fidelityIntro_other:
+      'Cada estrela é um dia das últimas {{count}} semanas, medido pelo plano de vida em vigor naquele dia. Cada coluna é uma semana, de segunda a domingo; a mais recente fica à direita.',
+    fidelityLegend: {
+      kept: {
+        title: 'Dia guardado',
+        body: 'Todas as práticas essenciais do plano foram rezadas.',
+      },
+      prayed: {
+        title: 'Dia rezado',
+        body: 'Houve oração, mas faltou alguma prática essencial.',
+      },
+      none: { title: 'Sem oração', body: 'Nada foi rezado nesse dia.' },
+      open: {
+        title: 'Hoje',
+        body: 'O dia ainda está aberto; a estrela acende quando o plano for guardado.',
+      },
+    },
+    fidelityStreakNote:
+      'Os dias seguidos contam toda oração, dentro ou fora do plano; um dia sem nenhuma recomeça a contagem.',
     streakDays_one: '{{count}} dia seguido',
     streakDays_other: '{{count}} dias seguidos',
     prayedDays_one: 'Rezou em {{prayed}} de {{count}} dia.',
@@ -1251,6 +1272,7 @@ export default {
     },
   },
   a11y: {
+    openFidelity: 'Abrir a fidelidade',
     openPlan: 'Abrir o plano de vida',
     openTraditions: 'Ver todas as tradições',
     ruleEditTime: 'Mudar a hora, {{time}}',

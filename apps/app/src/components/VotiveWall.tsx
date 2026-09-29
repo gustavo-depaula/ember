@@ -59,24 +59,21 @@ function Cell({
   color,
   date,
   size,
+  box = cellConfig.size,
   glow,
   onPress,
 }: {
   glyph?: string
   color: string
-  date: string
+  date?: string
   size: number
+  box?: number
   glow?: ReturnType<typeof cellGlow>
   onPress?: () => void
 }) {
   const { t } = useTranslation()
   const star = (
-    <YStack
-      width={cellConfig.size}
-      height={cellConfig.size}
-      alignItems="center"
-      justifyContent="center"
-    >
+    <YStack width={box} height={box} alignItems="center" justifyContent="center">
       <Text fontSize={size} lineHeight={size} color={color} style={glow}>
         {glyph}
       </Text>
@@ -128,27 +125,46 @@ function useFidelityCells() {
   ]
 }
 
+/** One plan day's mark as the fidelity wall draws it, for a legend. */
+export function FidelityMark({ value, scale = 1 }: { value: number; scale?: number }) {
+  const cells = useFidelityCells()
+  const cell = cells[value] ?? cells[0]
+  return (
+    <Cell
+      glyph={cell.glyph}
+      color={cell.color}
+      size={cell.size * scale}
+      box={cellConfig.size * scale}
+      glow={cell.glow}
+    />
+  )
+}
+
 export function VotiveWall({
   data,
   onDayPress,
   weeks = 20,
   fidelity = false,
+  scale = 1,
 }: {
   data: WallEntry[]
   onDayPress?: (date: string) => void
   weeks?: number
   fidelity?: boolean
+  scale?: number
 }) {
   const grid = useMemo(() => buildWeekGrid(data, weeks), [data, weeks])
   const colors = useWallColors()
   const fidelityCells = useFidelityCells()
   const theme = useTheme()
   const accent = theme.accent.val
+  const box = cellConfig.size * scale
+  const gap = cellConfig.gap * scale
 
   return (
-    <XStack gap={cellConfig.gap} justifyContent="flex-end">
+    <XStack gap={gap} justifyContent="flex-end">
       {grid.map((week, wi) => (
-        <YStack key={week[0]?.date ?? wi} gap={cellConfig.gap}>
+        <YStack key={week[0]?.date ?? wi} gap={gap}>
           {week.map((entry) => {
             const onPress = onDayPress ? () => onDayPress(entry.date) : undefined
             if (fidelity) {
@@ -158,7 +174,8 @@ export function VotiveWall({
                   key={entry.date}
                   glyph={cell.glyph}
                   color={cell.color}
-                  size={cell.size}
+                  size={cell.size * scale}
+                  box={box}
                   glow={cell.glow}
                   date={entry.date}
                   onPress={onPress}
@@ -169,7 +186,8 @@ export function VotiveWall({
               <Cell
                 key={entry.date}
                 color={colors[entry.value] ?? colors[0]}
-                size={cellStarSize(entry.value, colors.length)}
+                size={cellStarSize(entry.value, colors.length) * scale}
+                box={box}
                 glow={cellGlow(entry.value, colors.length, accent)}
                 date={entry.date}
                 onPress={onPress}

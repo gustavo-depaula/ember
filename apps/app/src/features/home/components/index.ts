@@ -1,5 +1,6 @@
 export { Aspiratio } from './Aspiratio'
 export { DateScrubber } from './DateScrubber'
+export { FidelitySheet, openFidelity } from './FidelitySheet'
 export { LiturgicalHeader } from './LiturgicalHeader'
 export { NavigationMedallion } from './NavigationMedallion'
 export { OfflineCoverageLine } from './OfflineCoverageLine'

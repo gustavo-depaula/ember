@@ -13,7 +13,12 @@ import { create, type StoreApi, type UseBoundStore } from 'zustand'
 
 // Opens part-way; drags up to the full screen for a long list. Kept as stable
 // values: the native selection compares them.
-const detents: PresentationDetent[] = [{ fraction: 0.6 }, 'large']
+const detentsFor = new Map<number, PresentationDetent[]>()
+function sheetDetents(fraction: number): PresentationDetent[] {
+  const detents = detentsFor.get(fraction) ?? [{ fraction }, 'large']
+  detentsFor.set(fraction, detents)
+  return detents
+}
 
 // The sheet follows the native one step by step rather than by timing:
 // iOS can't present while the last sheet is still sliding away, and a guess at
@@ -71,15 +76,17 @@ function dismissed(sheet: SheetController) {
 }
 
 /**
- * A native iOS sheet over the screen. `children` gets whether the sheet is at
- * full height, the height its content should fill, and whether the costly body
- * may render yet.
+ * A native iOS sheet over the screen, opening to `fraction` of it. `children`
+ * gets whether the sheet is at full height, the height its content should
+ * fill, and whether the costly body may render yet.
  */
 export function NativeSheet({
   sheet,
+  fraction = 0.6,
   children,
 }: {
   sheet: SheetController
+  fraction?: number
   children: (state: { expanded: boolean; height: number; bodyShown: boolean }) => ReactElement
 }) {
   const phase = sheet.store((s) => s.phase)
@@ -88,10 +95,11 @@ export function NativeSheet({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { width, height } = useWindowDimensions()
+  const detents = sheetDetents(fraction)
   const expanded = detent === detents.length - 1
   // The native sheet hosts its content at a fixed size, so the content follows
   // the detent; the full one sits under the status bar.
-  const contentHeight = expanded ? height - insets.top : height * 0.6
+  const contentHeight = expanded ? height - insets.top : height * fraction
 
   // Leaving the screen with the sheet mid-way would strand it "closing".
   useEffect(() => () => sheet.store.setState({ phase: 'closed', reopen: false }), [sheet])
