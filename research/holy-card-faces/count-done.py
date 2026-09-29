@@ -19,6 +19,7 @@ rows = {
     "Saints — optional memorials": "Optional memorials",
     "Saints of the Roman Canon not on the calendar": "Named in the Roman Canon, not on the calendar",
     "Saints of Brazil's own calendar": "Brazil's own calendar",
+    "Saints canonized since 2022 (and Bl. Fulton Sheen)": "Canonized since 2022",
     "Saints of the Pictorial Lives (Saint of the Day)": "From the Pictorial Lives of the Saints",
 }
 for label, section in rows.items():
