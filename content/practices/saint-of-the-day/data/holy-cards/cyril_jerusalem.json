@@ -1,0 +1,40 @@
+{
+  "id": "cyril_jerusalem",
+  "feast": {
+    "month": 3,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Cyril of Jerusalem",
+    "pt-BR": "São Cirilo de Jerusalém"
+  },
+  "patronOf": {
+    "en-US": "Bishop and Doctor of the Church",
+    "pt-BR": "Bispo e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant us that we may so acknowledge your Son as to have life ever more abundantly.",
+    "pt-BR": "Concedei-nos conhecer vosso Filho de tal modo que tenhamos a vida em plenitude."
+  },
+  "meta": {
+    "face": "A vigorous man of about sixty-five with a wide, rectangular face — a strong, flat brow and a broad, square-set jaw under the beard; a broad, straight nose; wide-set grey eyes under bushy, dark-grey brows; flat, broad cheekbones; a firm, wide mouth; short iron-grey hair receding high at the temples with a small tuft left at the front; a thick, ROUNDED beard of iron-grey streaked with dark hair, trimmed to a rounded edge at the collarbone (not white, not long, not pointed); a steady, kindly teacher's gaze toward the viewer.",
+    "basis": "Dionysius of Fourna's Painter's Manual gives him as an old man with a rounded beard; Russian icons show the pale phelonion and the book. The iron-grey beard and hair keep him apart from the white-bearded bishops (Athanasius, Nicholas).",
+    "excerpt": "content/of/formularies/sanctoral/03-18.json collect (petition; \"through his intercession\" dropped in both)",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845): \"Saint Cyrille de Jérusalem : vieillard, barbe arrondie\"",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikipedia, Cyril of Jerusalem (icon)",
+        "url": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

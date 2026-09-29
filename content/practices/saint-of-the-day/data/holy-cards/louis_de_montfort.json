@@ -1,0 +1,40 @@
+{
+  "id": "louis_de_montfort",
+  "feast": {
+    "month": 4,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Louis de Montfort",
+    "pt-BR": "São Luís Maria Grignion de Montfort"
+  },
+  "patronOf": {
+    "en-US": "Apostle of true devotion to Mary",
+    "pt-BR": "Apóstolo da verdadeira devoção a Maria"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is by Mary that the salvation of the world has begun, and it is by Mary that it must be consummated.",
+    "pt-BR": "Foi por Maria que começou a salvação do mundo, e é por Maria que ela deve ser consumada."
+  },
+  "meta": {
+    "face": "A tall, robust man of about forty, clean-shaven, with ruddy cheeks and a LONG face — a broad, high forehead, a strong aquiline nose, large, lively dark eyes lowered modestly, dark, straight brows, firm cheekbones, a wide, gentle mouth and a rather long chin; chestnut hair cut very short, lying flat and falling a little onto the top of the forehead; a look of grandeur and goodness together.",
+    "basis": "Besnard's early Life gives a portrait from those who knew him: above middle height, robust, ruddy cheeks, a long face, a broad high forehead, large lively but modest eyes, an aquiline nose, a rather long chin and very short, flat chestnut hair. Daniel records the crucifix and the small statue of Mary he always carried.",
+    "excerpt": "St. Louis de Montfort, True Devotion to the Blessed Virgin 49, tr. F. W. Faber (1863), https://archive.org/details/bub_gb_OccCAAAAQAAJ; pt-BR our rendering (no formulary text in the repo for 04-28)",
+    "sources": [
+      {
+        "title": "Henri Daniel, Saint Louis-Marie Grignion de Montfort (1967), quoting Besnard, Vie, book VIII",
+        "url": "https://en.wikipedia.org/wiki/Louis_de_Montfort"
+      },
+      {
+        "title": "Montfort, A Treatise on the True Devotion to the Blessed Virgin, tr. Faber (1863)",
+        "url": "https://archive.org/details/bub_gb_OccCAAAAQAAJ"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

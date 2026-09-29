@@ -1,0 +1,40 @@
+{
+  "id": "vincent_ferrer",
+  "feast": {
+    "month": 4,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Vincent Ferrer",
+    "pt-BR": "São Vicente Ferrer"
+  },
+  "patronOf": {
+    "en-US": "Preacher of the Last Judgment",
+    "pt-BR": "Pregador do Juízo Final"
+  },
+  "prayerExcerpt": {
+    "en-US": "When the Judge comes, may we be among those blessed to behold him reigning in heaven.",
+    "pt-BR": "Concedei-nos a alegria de contemplar, reinando no céu, aquele cuja vinda, como juiz, foi por ele anunciada na terra."
+  },
+  "meta": {
+    "face": "A man of about sixty, clean-shaven, with a long, full oval face and a smooth, broad forehead — a long, straight nose with a fleshy, rounded tip, large dark, heavy-lidded eyes under high, rounded arched brows, full, smooth cheeks, a small, firm mouth and a full, rounded chin; greying dark hair in a thick Dominican corona around the shaven crown; an intent, earnest gaze toward the viewer.",
+    "basis": "Joan de Joanes's sixteenth-century Valencian portrait fixed his type: a clean-shaven, full oval face with a long nose and heavy-lidded eyes, the tonsure, the raised finger and the book. The wings are his title as the Angel of the Apocalypse (Rev 14:6–7); the older, greying face keeps him apart from the young Dominic and Thomas.",
+    "excerpt": "content/of/formularies/sanctoral/04-05.json collect (petition; en-US clauses reordered into a wish)",
+    "sources": [
+      {
+        "title": "Wikipedia, Vincent Ferrer (Joan de Joanes portrait)",
+        "url": "https://en.wikipedia.org/wiki/Vincent_Ferrer"
+      },
+      {
+        "title": "Wikimedia Commons, Saint Vincent Ferrer (Joan de Joanes portrait and others)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Saint_Vincent_Ferrer"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

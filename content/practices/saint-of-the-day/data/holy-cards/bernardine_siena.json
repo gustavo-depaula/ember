@@ -1,0 +1,40 @@
+{
+  "id": "bernardine_siena",
+  "feast": {
+    "month": 5,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Bernardine of Siena",
+    "pt-BR": "São Bernardino de Sena"
+  },
+  "patronOf": {
+    "en-US": "Preacher of the Holy Name of Jesus",
+    "pt-BR": "Pregador do Santo Nome de Jesus"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we ever be set aflame with the spirit of your love.",
+    "pt-BR": "Acendei sempre em nossos corações a chama da vossa caridade."
+  },
+  "meta": {
+    "face": "A small, gaunt man of about sixty-three, clean-shaven, with a thin, pointed face — a smooth, rounded bald crown with a thin fringe of short grey hair, a long, fine nose curving slightly down at the tip, large, heavy-lidded pale-brown eyes lowered in gentle concentration, sunken cheeks under prominent cheekbones, a small, thin-lipped mouth drawn slightly inward and a prominent, upward-curving chin; a mild, kindly, recollected expression.",
+    "basis": "He is among the first saints with an authentic portrait: Pietro di Giovanni d'Ambrogio's panels, drawn from life and from the death mask, show a small, emaciated, beardless friar with a sunken mouth, a long nose and a prominent chin, holding the IHS sun. The tablet is shown without the monogram.",
+    "excerpt": "content/of/formularies/sanctoral/05-20.json collect (petition; en-US turned into a wish)",
+    "sources": [
+      {
+        "title": "Wikipedia, Bernardino of Siena (portrait and iconography)",
+        "url": "https://en.wikipedia.org/wiki/Bernardino_of_Siena"
+      },
+      {
+        "title": "Pietro di Giovanni d'Ambrogio, portrait of St Bernardine (Commons category)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Bernardino_of_Siena"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

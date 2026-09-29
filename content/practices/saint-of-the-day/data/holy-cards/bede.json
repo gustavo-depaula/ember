@@ -1,0 +1,40 @@
+{
+  "id": "bede",
+  "feast": {
+    "month": 5,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Bede the Venerable",
+    "pt-BR": "São Beda, o Venerável"
+  },
+  "patronOf": {
+    "en-US": "Father of English history",
+    "pt-BR": "Pai da história inglesa"
+  },
+  "prayerExcerpt": {
+    "en-US": "May your servants always be enlightened by his wisdom.",
+    "pt-BR": "Concedei-nos sempre em vossa bondade a luz da sua sabedoria."
+  },
+  "meta": {
+    "face": "A man of about sixty, clean-shaven, with a broad, flat-planed oval face — a wide forehead, a short, slightly upturned nose, pale blue eyes with fine crow's-feet under sandy-grey, softly arched brows, full, soft cheeks, a thin, wide mouth with a faint smile and a small rounded chin; a monastic tonsure with a neat ring of fair hair turned grey; eyes lowered to the page.",
+    "basis": "No likeness survives. The earliest images (a twelfth-century manuscript on e-codices) show him beardless and tonsured, writing; later paintings (Doyle Penrose) add a white beard, which would repeat Benedict and Jerome. The fair Anglo-Saxon colouring is an artistic choice.",
+    "excerpt": "content/of/formularies/sanctoral/05-25.json collect (petition; en-US turned into a wish)",
+    "sources": [
+      {
+        "title": "Wikipedia, Bede (life and images)",
+        "url": "https://en.wikipedia.org/wiki/Bede"
+      },
+      {
+        "title": "Wikimedia Commons, Bede (manuscript image and Doyle Penrose)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Bede"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius_v",
+  "feast": {
+    "month": 4,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Pius V",
+    "pt-BR": "São Pio V"
+  },
+  "patronOf": {
+    "en-US": "Pope of the Rosary",
+    "pt-BR": "Papa do Rosário"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that we may participate in your mysteries with lively faith and fruitful charity.",
+    "pt-BR": "Concedei-nos participar dos vossos mistérios com fé ardente e fecunda caridade."
+  },
+  "meta": {
+    "face": "A thin, ascetic man of about sixty-six with a gaunt, long face — a bald, high, bony forehead under the zucchetto, a long, prominent aquiline nose with a sharp bridge, dark, deep-set eyes under heavy, arched grey brows, hollow cheeks under high cheekbones; a full WHITE beard of medium length, trimmed square below the chin, with a white moustache; a grave, prayerful gaze lowered toward the rosary.",
+    "basis": "Bartolomeo Passarotti's portrait from life shows a gaunt, bald old pope with a long aquiline nose, deep-set eyes and a full white beard. He kept the white Dominican habit as pope, and he tied the Rosary to Lepanto; the square medium beard keeps him apart from Cletus's long forked one.",
+    "excerpt": "content/of/formularies/sanctoral/04-30.json collect (petition; \"through his intercession\" dropped)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Pius V (Passarotti portrait)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Pius_V"
+      },
+      {
+        "title": "Ludwig von Pastor, History of the Popes, vol. 18 (Pius V)",
+        "url": "https://archive.org/details/historyofpopesfr18past"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

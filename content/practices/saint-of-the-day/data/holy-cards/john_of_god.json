@@ -1,0 +1,44 @@
+{
+  "id": "john_of_god",
+  "feast": {
+    "month": 3,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. John of God",
+    "pt-BR": "São João de Deus"
+  },
+  "patronOf": {
+    "en-US": "Patron of the sick and of hospitals",
+    "pt-BR": "Padroeiro dos doentes e dos hospitais"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that, giving ourselves to works of charity, we may merit to be found among the elect in your Kingdom.",
+    "pt-BR": "Concedei-nos que, praticando as obras de caridade, mereçamos ser contados entre os eleitos no vosso Reino."
+  },
+  "meta": {
+    "face": "A lean, ascetic Portuguese-Spanish man of about fifty with an olive complexion and a long, angular face — a high, bare forehead with a pronounced baldness over the crown and short dark hair only at the sides and back, a long, straight nose with a slight hook at the bridge, dark, deep-set eyes under strongly arched dark brows, sharp, angular cheekbones over hollow cheeks, a narrow mouth; a thin dark moustache and a short, sparse dark beard only on the chin, and eyes lowered with grave compassion.",
+    "basis": "Pedro de Raxis the Elder, who may have known him, painted the portrait (Casa de los Pisa, Granada) that fixed his type: a long, angular, ascetic face, a balding head and a thin moustache and small beard; the seventeenth-century statues follow it. The pomegranate with a cross and the Granada setting come from his tradition.",
+    "excerpt": "content/of/formularies/sanctoral/03-08.json collect (petition; \"we pray\" dropped in en-US, \"Ó Deus… de São João de Deus\" dropped in pt-BR)",
+    "sources": [
+      {
+        "title": "Romero Dorado & Moreno Arana, Luisa Roldán: un San Juan de Dios perdido reencontrado, Norba 42 (2022)",
+        "url": "https://doi.org/10.17398/2660-714X.42.437"
+      },
+      {
+        "title": "Wikipedia, John of God (portrait and life)",
+        "url": "https://en.wikipedia.org/wiki/John_of_God"
+      },
+      {
+        "title": "Wikimedia Commons, John of God (Raxis-type portrait, Cano, Murillo)",
+        "url": "https://commons.wikimedia.org/wiki/Category:John_of_God"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}

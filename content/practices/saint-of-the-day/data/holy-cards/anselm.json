@@ -1,0 +1,40 @@
+{
+  "id": "anselm",
+  "feast": {
+    "month": 4,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Anselm",
+    "pt-BR": "Santo Anselmo"
+  },
+  "patronOf": {
+    "en-US": "Archbishop and Doctor of the Church",
+    "pt-BR": "Arcebispo e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "May our faith in you so aid our understanding.",
+    "pt-BR": "Fazei que a fé venha em auxílio de nossa inteligência."
+  },
+  "meta": {
+    "face": "A man of about seventy with a long, high-domed head and a long, bony face — a very high, receding forehead with a deep brow, a strong, prominent aquiline nose with a high bridge, deep-set, pale eyes under a heavy brow ridge with thin grey brows, hollow cheeks, a long upper lip and a jutting chin; thin, straight grey hair left long behind the ears, falling to the nape; a very short, close-cropped grey beard along the jaw and chin (not full); a quiet, thoughtful gaze lifted from the book.",
+    "basis": "No likeness survives from life. André Thevet's engraved portrait (1584) gives the type followed here: a high, receding forehead, a strong aquiline nose, hollow cheeks, long grey hair at the nape and a short stubble beard; the black Benedictine habit and pallium are his as monk of Bec and archbishop of Canterbury.",
+    "excerpt": "content/of/formularies/sanctoral/04-21.json collect (petition clause, turned into a wish in en-US)",
+    "sources": [
+      {
+        "title": "Wikipedia, Anselm of Canterbury (Thevet engraving)",
+        "url": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+      },
+      {
+        "title": "Wikimedia Commons, Anselm of Canterbury (Chester Cathedral window and others)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Anselm_of_Canterbury"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-6.md."
+      }
+    ]
+  }
+}
