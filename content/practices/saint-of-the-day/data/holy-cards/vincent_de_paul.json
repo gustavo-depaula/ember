@@ -1,0 +1,19 @@
+{
+  "id": "vincent_de_paul",
+  "feast": {
+    "month": 9,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Vincent de Paul",
+    "pt-BR": "São Vicente de Paulo"
+  },
+  "patronOf": {
+    "en-US": "Patron of works of charity",
+    "pt-BR": "Padroeiro das obras de caridade"
+  },
+  "prayerExcerpt": {
+    "en-US": "The poor are our masters; we are their servants.",
+    "pt-BR": "Os pobres são nossos senhores; nós somos seus servos."
+  }
+}

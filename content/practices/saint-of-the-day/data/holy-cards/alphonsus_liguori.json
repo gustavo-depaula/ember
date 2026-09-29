@@ -1,0 +1,38 @@
+{
+  "id": "alphonsus_liguori",
+  "feast": {
+    "month": 8,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Alphonsus Liguori",
+    "pt-BR": "Santo Afonso de Ligório"
+  },
+  "patronOf": {
+    "en-US": "Doctor of the Church, patron of confessors",
+    "pt-BR": "Doutor da Igreja, padroeiro dos confessores"
+  },
+  "prayerExcerpt": {
+    "en-US": "He who prays is saved; he who does not pray is lost.",
+    "pt-BR": "Quem reza salva-se; quem não reza condena-se."
+  },
+  "meta": {
+    "basis": "Tannoia, his companion, describes blue eyes, an aquiline nose and a short thick beard.",
+    "sources": [
+      {
+        "title": "Tannoia, Life of St Alphonsus",
+        "url": "https://archive.org/details/thelifeofstalpho00tannuoft"
+      },
+      {
+        "title": "Berthe, Life of St Alphonsus",
+        "url": "https://archive.org/details/lifeofstalphonsu02bert"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face reviewed against the sources and kept: an edit barely changed it"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "matthias",
+  "feast": {
+    "month": 5,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Matthias the Apostle",
+    "pt-BR": "São Matias, Apóstolo"
+  },
+  "patronOf": {
+    "en-US": "The apostle chosen by lot",
+    "pt-BR": "O apóstolo escolhido por sorteio"
+  },
+  "prayerExcerpt": {
+    "en-US": "And the lot fell upon Matthias.",
+    "pt-BR": "E a sorte caiu sobre Matias."
+  },
+  "meta": {
+    "face": "An old man around 70, a full thick head of wavy white hair, a neat rounded white beard, gentle steady expression.",
+    "basis": "Old man with a rounded beard (Painter's Manual); full hair to set him apart from Simon.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/matthias.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

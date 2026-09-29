@@ -1,0 +1,39 @@
+{
+  "id": "nicholas",
+  "feast": {
+    "month": 12,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Nicholas of Bari",
+    "pt-BR": "São Nicolau de Bari"
+  },
+  "patronOf": {
+    "en-US": "Patron of children and sailors",
+    "pt-BR": "Padroeiro das crianças e dos marinheiros"
+  },
+  "prayerExcerpt": {
+    "en-US": "Holy Nicholas, who gave in secret, teach us the joy of hidden charity.",
+    "pt-BR": "São Nicolau, que destes em segredo, ensinai-nos a alegria da caridade oculta."
+  },
+  "meta": {
+    "face": "An elderly man around 70, high forehead, a short full rounded white beard slightly divided into two lobes at the chin, benevolent warm expression.",
+    "basis": "Byzantine type: bald crown, short rounded white beard.",
+    "sources": [
+      {
+        "title": "Wikipedia: Saint Nicholas",
+        "url": "https://en.wikipedia.org/wiki/Saint_Nicholas"
+      },
+      {
+        "title": "Orthodox Arts Journal: icon prototypes",
+        "url": "https://orthodoxartsjournal.org/designing-icons-pt-2-icon-prototypes/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

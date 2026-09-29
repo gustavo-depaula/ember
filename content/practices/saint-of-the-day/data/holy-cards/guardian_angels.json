@@ -1,0 +1,19 @@
+{
+  "id": "guardian_angels",
+  "feast": {
+    "month": 10,
+    "day": 2
+  },
+  "name": {
+    "en-US": "The Holy Guardian Angels",
+    "pt-BR": "Os Santos Anjos da Guarda"
+  },
+  "patronOf": {
+    "en-US": "Guardians of every soul",
+    "pt-BR": "Guardiões de cada alma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Angel of God, my guardian dear, to whom God’s love commits me here.",
+    "pt-BR": "Santo Anjo do Senhor, meu zeloso guardador, se a ti me confiou a piedade divina."
+  }
+}

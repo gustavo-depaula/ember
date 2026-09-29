@@ -1,0 +1,19 @@
+{
+  "id": "benedict",
+  "feast": {
+    "month": 7,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Benedict of Nursia",
+    "pt-BR": "São Bento de Núrsia"
+  },
+  "patronOf": {
+    "en-US": "Patron of Europe and monks",
+    "pt-BR": "Padroeiro da Europa e dos monges"
+  },
+  "prayerExcerpt": {
+    "en-US": "Listen, my son, and incline the ear of your heart.",
+    "pt-BR": "Escuta, meu filho, e inclina o ouvido do teu coração."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dominic",
+  "feast": {
+    "month": 8,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Dominic",
+    "pt-BR": "São Domingos"
+  },
+  "patronOf": {
+    "en-US": "Patron of preachers and astronomers",
+    "pt-BR": "Padroeiro dos pregadores e astrônomos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Speak only of God, or with God.",
+    "pt-BR": "Falar somente de Deus, ou com Deus."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "francis_de_sales",
+  "feast": {
+    "month": 1,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Francis de Sales",
+    "pt-BR": "São Francisco de Sales"
+  },
+  "patronOf": {
+    "en-US": "Patron of writers and journalists",
+    "pt-BR": "Padroeiro dos escritores e jornalistas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Nothing is so strong as gentleness; nothing so gentle as real strength.",
+    "pt-BR": "Nada é tão forte quanto a mansidão; nada tão manso quanto a verdadeira força."
+  },
+  "meta": {
+    "face": "A sturdy man of about fifty, almost completely bald with a broad full forehead, high arched brows, clear blue eyes, ruddy cheeks, a thick auburn beard of medium length and a gentle, kindly expression.",
+    "basis": "His nephew Charles-Auguste de Sales's 1634 description (almost completely bald, auburn hair, blue eyes, ruddy cheeks, a thick beard of medium length), which matches the portraits.",
+    "sources": [
+      {
+        "title": "Chambelland, St. Francis de Sales and His Portraits (DeSales University)",
+        "url": "https://hosted.desales.edu/files/salesian/PDF/ChambellandPortraits.pdf"
+      },
+      {
+        "title": "Wikipedia, Francis de Sales",
+        "url": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

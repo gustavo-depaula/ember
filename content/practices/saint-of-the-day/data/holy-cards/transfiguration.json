@@ -1,0 +1,19 @@
+{
+  "id": "transfiguration",
+  "feast": {
+    "month": 8,
+    "day": 6
+  },
+  "name": {
+    "en-US": "The Transfiguration of Our Lord",
+    "pt-BR": "A Transfiguração do Senhor"
+  },
+  "patronOf": {
+    "en-US": "Christ revealed in glory",
+    "pt-BR": "Cristo revelado em glória"
+  },
+  "prayerExcerpt": {
+    "en-US": "This is my beloved Son, in whom I am well pleased; listen to him.",
+    "pt-BR": "Este é o meu Filho amado, no qual me comprazo; escutai-o."
+  }
+}

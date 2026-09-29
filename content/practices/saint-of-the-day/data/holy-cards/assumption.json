@@ -1,0 +1,19 @@
+{
+  "id": "assumption",
+  "feast": {
+    "month": 8,
+    "day": 15
+  },
+  "name": {
+    "en-US": "The Assumption of the Blessed Virgin Mary",
+    "pt-BR": "A Assunção da Bem-Aventurada Virgem Maria"
+  },
+  "patronOf": {
+    "en-US": "Mary taken body and soul into heaven",
+    "pt-BR": "Maria elevada em corpo e alma ao céu"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Almighty has done great things for me, and holy is his name.",
+    "pt-BR": "O Todo-Poderoso fez grandes coisas por mim, e santo é o seu nome."
+  }
+}

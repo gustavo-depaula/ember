@@ -1,0 +1,19 @@
+{
+  "id": "ignatius_loyola",
+  "feast": {
+    "month": 7,
+    "day": 31
+  },
+  "name": {
+    "en-US": "St. Ignatius of Loyola",
+    "pt-BR": "Santo Inácio de Loyola"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Society of Jesus",
+    "pt-BR": "Fundador da Companhia de Jesus"
+  },
+  "prayerExcerpt": {
+    "en-US": "For the greater glory of God.",
+    "pt-BR": "Para a maior glória de Deus."
+  }
+}

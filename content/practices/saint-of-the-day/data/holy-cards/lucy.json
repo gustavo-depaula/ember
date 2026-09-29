@@ -1,0 +1,19 @@
+{
+  "id": "lucy",
+  "feast": {
+    "month": 12,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Lucy",
+    "pt-BR": "Santa Luzia"
+  },
+  "patronOf": {
+    "en-US": "Patron of the blind and of light",
+    "pt-BR": "Padroeira dos cegos e da luz"
+  },
+  "prayerExcerpt": {
+    "en-US": "Those who live chastely are temples of the Holy Spirit.",
+    "pt-BR": "Os que vivem com castidade são templos do Espírito Santo."
+  }
+}

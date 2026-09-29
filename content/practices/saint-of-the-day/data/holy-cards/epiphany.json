@@ -1,0 +1,19 @@
+{
+  "id": "epiphany",
+  "feast": {
+    "month": 1,
+    "day": 6
+  },
+  "name": {
+    "en-US": "The Epiphany of Our Lord",
+    "pt-BR": "A Epifania do Senhor"
+  },
+  "patronOf": {
+    "en-US": "Christ revealed to the nations",
+    "pt-BR": "Cristo revelado às nações"
+  },
+  "prayerExcerpt": {
+    "en-US": "We have seen his star in the east, and have come to adore him.",
+    "pt-BR": "Vimos a sua estrela no Oriente e viemos adorá-lo."
+  }
+}

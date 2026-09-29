@@ -1,0 +1,43 @@
+{
+  "id": "simon_jude",
+  "feast": {
+    "month": 10,
+    "day": 28
+  },
+  "name": {
+    "en-US": "Sts. Simon and Jude",
+    "pt-BR": "São Simão e São Judas Tadeu"
+  },
+  "patronOf": {
+    "en-US": "Apostles; St. Jude, patron of hopeless causes",
+    "pt-BR": "Apóstolos; São Judas, padroeiro das causas impossíveis"
+  },
+  "prayerExcerpt": {
+    "en-US": "Beloved, build yourselves up in your most holy faith.",
+    "pt-BR": "Caríssimos, edificai-vos sobre a vossa santíssima fé."
+  },
+  "meta": {
+    "face": "Simon: an old man around 70, bald, with a neat rounded white beard. Jude: a young man around 28 with a young light brown beard.",
+    "basis": "Simon old and bald with a rounded beard; Jude young with a young beard (Painter's Manual). Attributes: Simon's bucksaw; Jude's halberd, medallion of Christ's face and flame.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/simon.html"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/judeThaddeus.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "The card previously held a second image of St. Gianna by mistake; generated anew from the Philip & James and Cecilia cards as style references"
+      }
+    ]
+  }
+}

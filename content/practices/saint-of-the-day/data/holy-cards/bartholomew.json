@@ -1,0 +1,39 @@
+{
+  "id": "bartholomew",
+  "feast": {
+    "month": 8,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Bartholomew the Apostle",
+    "pt-BR": "São Bartolomeu, Apóstolo"
+  },
+  "patronOf": {
+    "en-US": "Apostle and martyr",
+    "pt-BR": "Apóstolo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Rabbi, You are the Son of God.",
+    "pt-BR": "Rabi, Tu és o Filho de Deus."
+  },
+  "meta": {
+    "face": "A mature man around 45, upright bearing, fair skin, large clear eyes, black curly hair, a long black beard just beginning to grey.",
+    "basis": "Golden Legend: black curly hair, fair skin, large eyes, long beard with some grey.",
+    "sources": [
+      {
+        "title": "Golden Legend (Caxton), vol. 5",
+        "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/bartholomew.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

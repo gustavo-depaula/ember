@@ -1,0 +1,47 @@
+{
+  "id": "perpetua_felicity",
+  "feast": {
+    "month": 3,
+    "day": 7
+  },
+  "name": {
+    "en-US": "Sts. Perpetua and Felicity",
+    "pt-BR": "Santas Perpétua e Felicidade"
+  },
+  "patronOf": {
+    "en-US": "Patrons of mothers",
+    "pt-BR": "Padroeiras das mães"
+  },
+  "prayerExcerpt": {
+    "en-US": "I am a Christian.",
+    "pt-BR": "Sou cristã."
+  },
+  "meta": {
+    "face": "Perpetua: about twenty-two, dark hair bound up under a white veil, a composed oval face and a direct, fearless gaze. Felicity: slightly younger, a simpler rounder face, dark hair under a plain veil, a gentle lowered gaze.",
+    "basis": "The Passion of Perpetua and Felicity (Perpetua about twenty-two, noble, a nursing mother; Felicity a slave who gave birth in prison; the ladder of Perpetua's vision) and the Ravenna mosaics, which dress Felicity more plainly. Their colouring is not attested. The excerpt is Perpetua's answer to the procurator.",
+    "sources": [
+      {
+        "title": "The Passion of Perpetua and Felicity (New Advent)",
+        "url": "https://www.newadvent.org/fathers/0324.htm"
+      },
+      {
+        "title": "christianiconography.info, Perpetua and Felicity",
+        "url": "https://www.christianiconography.info/perpetuaFelicity.html"
+      },
+      {
+        "title": "Wikimedia Commons, Sancta Perpetua, Ravenna",
+        "url": "https://commons.wikimedia.org/wiki/File:Sancta_Perpetua_Ravenna.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Sancta Felicitas, Ravenna",
+        "url": "https://commons.wikimedia.org/wiki/File:Sancta_Felicitas_Ravenna.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

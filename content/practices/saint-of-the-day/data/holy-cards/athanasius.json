@@ -1,0 +1,39 @@
+{
+  "id": "athanasius",
+  "feast": {
+    "month": 5,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Athanasius",
+    "pt-BR": "Santo Atanásio"
+  },
+  "patronOf": {
+    "en-US": "Patron of orthodox faith",
+    "pt-BR": "Padroeiro da fé ortodoxa"
+  },
+  "prayerExcerpt": {
+    "en-US": "God became man so that man might become God.",
+    "pt-BR": "Deus se fez homem para que o homem se tornasse Deus."
+  },
+  "meta": {
+    "face": "An old man around 75, bald on top, a broad full white beard spreading wide over the chest, steadfast resolute expression.",
+    "basis": "Old, bald, broad beard (Painter's Manual).",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikipedia: Athanasius of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "joseph",
+  "feast": {
+    "month": 3,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Joseph",
+    "pt-BR": "São José"
+  },
+  "patronOf": {
+    "en-US": "Patron of the Universal Church",
+    "pt-BR": "Padroeiro da Igreja Universal"
+  },
+  "prayerExcerpt": {
+    "en-US": "Go to Joseph. Whatever he tells you, do.",
+    "pt-BR": "Ide a José. Fazei tudo o que ele vos disser."
+  },
+  "meta": {
+    "face": "An older man around 60, balding with a high forehead and short silver-grey hair at the sides, a full neat rounded silver-grey beard, a tender fatherly smile toward the Child.",
+    "basis": "The older, balding, greying Joseph common on 19th-century cards; rounded beard from the Painter's Manual.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/joseph.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Chosen over the vigorous dark-haired type, which matched Luke and Mark"
+      }
+    ]
+  }
+}

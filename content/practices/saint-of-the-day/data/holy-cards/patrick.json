@@ -1,0 +1,34 @@
+{
+  "id": "patrick",
+  "feast": {
+    "month": 3,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Patrick",
+    "pt-BR": "São Patrício"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Ireland",
+    "pt-BR": "Apóstolo da Irlanda"
+  },
+  "prayerExcerpt": {
+    "en-US": "Christ before me, Christ behind me, Christ within me.",
+    "pt-BR": "Cristo diante de mim, Cristo atrás de mim, Cristo em mim."
+  },
+  "meta": {
+    "basis": "No attested facial tradition; identified by attributes.",
+    "sources": [
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/patrick.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face reviewed and kept: nothing to follow"
+      }
+    ]
+  }
+}

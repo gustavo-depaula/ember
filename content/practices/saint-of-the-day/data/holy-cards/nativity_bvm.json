@@ -1,0 +1,19 @@
+{
+  "id": "nativity_bvm",
+  "feast": {
+    "month": 9,
+    "day": 8
+  },
+  "name": {
+    "en-US": "The Nativity of the Blessed Virgin Mary",
+    "pt-BR": "A Natividade da Bem-Aventurada Virgem Maria"
+  },
+  "patronOf": {
+    "en-US": "The birth of the Mother of God",
+    "pt-BR": "O nascimento da Mãe de Deus"
+  },
+  "prayerExcerpt": {
+    "en-US": "Your birth, O Virgin Mother of God, proclaimed joy to the whole world.",
+    "pt-BR": "Vosso nascimento, ó Virgem Mãe de Deus, anunciou alegria ao mundo inteiro."
+  }
+}

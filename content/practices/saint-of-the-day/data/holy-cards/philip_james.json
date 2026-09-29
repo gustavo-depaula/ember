@@ -1,0 +1,51 @@
+{
+  "id": "philip_james",
+  "feast": {
+    "month": 5,
+    "day": 3
+  },
+  "name": {
+    "en-US": "Sts. Philip and James",
+    "pt-BR": "São Filipe e São Tiago"
+  },
+  "patronOf": {
+    "en-US": "Apostles of the Lord",
+    "pt-BR": "Apóstolos do Senhor"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, show us the Father, and we shall be satisfied.",
+    "pt-BR": "Senhor, mostra-nos o Pai, e isso nos basta."
+  },
+  "meta": {
+    "face": "Philip: a beardless young man around 25, somewhat long face, tousled brown forelock parted in two. James the Less: a man around 35, thick dark-brown hair swept back to the shoulders (no centre parting), a short pointed dark-brown beard, rounder face with broad cheekbones, gentle smile.",
+    "basis": "Philip beardless with a parted forelock; James the Less young with a pointed beard and uncut hair (Painter's Manual, Golden Legend). James is kept from resembling Christ, which the Golden Legend's likeness otherwise invites.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/philip.html"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/jamesLess.html"
+      },
+      {
+        "title": "Golden Legend (Caxton), vol. 3",
+        "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume3.asp"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "First edit made James look like Christ; redone with swept-back hair, broader face and a smile"
+      }
+    ]
+  }
+}

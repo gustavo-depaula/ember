@@ -1,0 +1,39 @@
+{
+  "id": "ambrose",
+  "feast": {
+    "month": 12,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Ambrose",
+    "pt-BR": "Santo Ambrósio"
+  },
+  "patronOf": {
+    "en-US": "Patron of bishops and learning",
+    "pt-BR": "Padroeiro dos bispos e do estudo"
+  },
+  "prayerExcerpt": {
+    "en-US": "When in Rome, do as the Romans do.",
+    "pt-BR": "Quando em Roma, faze como os romanos."
+  },
+  "meta": {
+    "face": "A man in early middle age around 45, short dark-brown hair receding at the temples, a short close dark-brown beard and moustache, broad forehead, long straight nose, intense direct gaze.",
+    "basis": "The 5th-century mosaic in San Vittore in Ciel d'Oro, Milan, possibly a portrait from life.",
+    "sources": [
+      {
+        "title": "Mosaic of St Ambrose, Sant'Ambrogio, Milan (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:AmbroseOfMilan.jpg"
+      },
+      {
+        "title": "Simone Piazza, Il volto di Ambrogio",
+        "url": "https://books.openedition.org/psorbonne/29310?lang=en"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

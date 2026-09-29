@@ -1,0 +1,39 @@
+{
+  "id": "maximilian_kolbe",
+  "feast": {
+    "month": 8,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Maximilian Kolbe",
+    "pt-BR": "São Maximiliano Kolbe"
+  },
+  "patronOf": {
+    "en-US": "Patron of prisoners and families",
+    "pt-BR": "Padroeiro dos presos e das famílias"
+  },
+  "prayerExcerpt": {
+    "en-US": "Greater love has no one than to lay down his life for his friends.",
+    "pt-BR": "Ninguém tem maior amor do que aquele que dá a vida por seus amigos."
+  },
+  "meta": {
+    "face": "A man in his early forties, balding with close-cropped dark hair, a long dark-brown beard narrowing to a point, small round wire-rimmed spectacles, a straight nose, an earnest gentle gaze.",
+    "basis": "The 1936 photograph from Japan, the type most photographs and icons follow; the white and red crowns from his childhood vision of the Immaculata. The excerpt is his memorial's communion antiphon.",
+    "sources": [
+      {
+        "title": "Wikipedia, Maximilian Kolbe (1936 photograph, the two crowns)",
+        "url": "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
+      },
+      {
+        "title": "The Catholic Thing, St. Maximilian Kolbe's beard",
+        "url": "https://www.thecatholicthing.org/2023/08/15/st-maximilian-kolbes-beard/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

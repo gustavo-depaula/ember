@@ -1,0 +1,19 @@
+{
+  "id": "philomena",
+  "feast": {
+    "month": 8,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Philomena",
+    "pt-BR": "Santa Filomena"
+  },
+  "patronOf": {
+    "en-US": "Patron of youth and desperate causes",
+    "pt-BR": "Padroeira da juventude e das causas desesperadas"
+  },
+  "prayerExcerpt": {
+    "en-US": "O faithful virgin and glorious martyr, St. Philomena, intercede for us.",
+    "pt-BR": "Ó virgem fiel e gloriosa mártir, Santa Filomena, intercedei por nós."
+  }
+}

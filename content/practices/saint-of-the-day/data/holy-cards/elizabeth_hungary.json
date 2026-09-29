@@ -1,0 +1,19 @@
+{
+  "id": "elizabeth_hungary",
+  "feast": {
+    "month": 11,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Elizabeth of Hungary",
+    "pt-BR": "Santa Isabel da Hungria"
+  },
+  "patronOf": {
+    "en-US": "Patron of the Third Order and charity",
+    "pt-BR": "Padroeira da Ordem Terceira e da caridade"
+  },
+  "prayerExcerpt": {
+    "en-US": "How could I wear a crown of gold when the Lord wears a crown of thorns?",
+    "pt-BR": "Como poderia usar uma coroa de ouro, se o Senhor usou uma coroa de espinhos?"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "martin_tours",
+  "feast": {
+    "month": 11,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Martin of Tours",
+    "pt-BR": "São Martinho de Tours"
+  },
+  "patronOf": {
+    "en-US": "Bishop and friend of the poor",
+    "pt-BR": "Bispo e amigo dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whatever you did for one of the least of my brethren, you did it for me.",
+    "pt-BR": "Tudo o que fizestes a um destes meus irmãos mais pequeninos, foi a mim que o fizestes."
+  },
+  "meta": {
+    "face": "A young man of about twenty, clean-shaven, with fair blond straight-to-wavy hair cut to the jaw, a kind face, his gaze lowered to the beggar.",
+    "basis": "Sulpicius Severus's account of the cloak at Amiens, when Martin was about eighteen to twenty, with the face type of Simone Martini's Assisi fresco; fair hair keeps him apart from George. The excerpt is his memorial's communion antiphon.",
+    "sources": [
+      {
+        "title": "Sulpicius Severus, Life of St Martin (New Advent)",
+        "url": "https://www.newadvent.org/fathers/3501.htm"
+      },
+      {
+        "title": "Wikimedia Commons, Simone Martini, Division of the Cloak",
+        "url": "https://commons.wikimedia.org/wiki/File:Simone_Martini_-_Division_of_the_Cloak_(scene_1)_-_WGA21367.jpg"
+      },
+      {
+        "title": "christianiconography.info, Martin of Tours",
+        "url": "https://www.christianiconography.info/martin.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card; the first draft broke the bottom frame and gave him brown curls, so it was regenerated."
+      }
+    ]
+  }
+}

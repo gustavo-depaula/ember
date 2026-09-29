@@ -1,0 +1,19 @@
+{
+  "id": "bridget_sweden",
+  "feast": {
+    "month": 7,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Bridget of Sweden",
+    "pt-BR": "Santa Brígida da Suécia"
+  },
+  "patronOf": {
+    "en-US": "Patron of Sweden and co-patron of Europe",
+    "pt-BR": "Padroeira da Suécia e copadroeira da Europa"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, show me Thy way and make me ready to follow it.",
+    "pt-BR": "Senhor, mostrai-me o vosso caminho e tornai-me pronto a segui-lo."
+  }
+}

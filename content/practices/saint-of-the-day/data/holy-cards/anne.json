@@ -1,0 +1,19 @@
+{
+  "id": "anne",
+  "feast": {
+    "month": 7,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Anne",
+    "pt-BR": "Sant’Ana"
+  },
+  "patronOf": {
+    "en-US": "Patron of mothers and grandmothers",
+    "pt-BR": "Padroeira das mães e avós"
+  },
+  "prayerExcerpt": {
+    "en-US": "Good St. Anne, mother of the Mother of God, pray for us.",
+    "pt-BR": "Boa Sant’Ana, mãe da Mãe de Deus, rogai por nós."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fatima",
+  "feast": {
+    "month": 5,
+    "day": 13
+  },
+  "name": {
+    "en-US": "Our Lady of Fátima",
+    "pt-BR": "Nossa Senhora de Fátima"
+  },
+  "patronOf": {
+    "en-US": "Patroness of Portugal",
+    "pt-BR": "Padroeira de Portugal"
+  },
+  "prayerExcerpt": {
+    "en-US": "Pray the Rosary every day to obtain peace for the world.",
+    "pt-BR": "Rezai o Terço todos os dias para alcançar a paz no mundo."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ignatius_antioch",
+  "feast": {
+    "month": 10,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Ignatius of Antioch",
+    "pt-BR": "Santo Inácio de Antioquia"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "I am the wheat of Christ to be ground by the teeth of beasts, that I may be found to be pure bread.",
+    "pt-BR": "Eu sou trigo de Cristo, serei moído pelos dentes das feras, para tornar-me um pão sem mistura."
+  },
+  "meta": {
+    "face": "An old man of about seventy, bald on the crown with a fringe of grey hair, a long grey beard narrowing to a point, a lean ascetic face, a steady upward gaze. The beard is grey and tapering, not broad and white.",
+    "basis": "The Painter's Manual (an old man with a broad beard) and the Hosios Loukas mosaic, kept grey and tapering to stay apart from the white-bearded elders; the lions from his martyrdom. The excerpt is his memorial's communion antiphon, from his Letter to the Romans.",
+    "sources": [
+      {
+        "title": "Wikipedia, Ignatius of Antioch (Hosios Loukas mosaic)",
+        "url": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch"
+      },
+      {
+        "title": "christianiconography.info, Ignatius of Antioch",
+        "url": "https://www.christianiconography.info/ignatiusAntioch.html"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (Dionysius of Fourna)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

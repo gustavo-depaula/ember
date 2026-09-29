@@ -1,0 +1,19 @@
+{
+  "id": "catherine_siena",
+  "feast": {
+    "month": 4,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Catherine of Siena",
+    "pt-BR": "Santa Catarina de Sena"
+  },
+  "patronOf": {
+    "en-US": "Doctor of the Church, patron of Italy",
+    "pt-BR": "Doutora da Igreja, padroeira da Itália"
+  },
+  "prayerExcerpt": {
+    "en-US": "If you are what you should be, you will set the whole world on fire.",
+    "pt-BR": "Se fordes o que deveis ser, poreis fogo ao mundo inteiro."
+  }
+}

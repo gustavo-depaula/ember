@@ -1,0 +1,19 @@
+{
+  "id": "sebastian",
+  "feast": {
+    "month": 1,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Sebastian",
+    "pt-BR": "São Sebastião"
+  },
+  "patronOf": {
+    "en-US": "Patron of soldiers and athletes",
+    "pt-BR": "Padroeiro dos soldados e dos atletas"
+  },
+  "prayerExcerpt": {
+    "en-US": "I am a soldier of Christ.",
+    "pt-BR": "Sou um soldado de Cristo."
+  }
+}

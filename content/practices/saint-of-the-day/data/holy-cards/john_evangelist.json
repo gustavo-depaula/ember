@@ -1,0 +1,19 @@
+{
+  "id": "john_evangelist",
+  "feast": {
+    "month": 12,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. John the Evangelist",
+    "pt-BR": "São João Evangelista"
+  },
+  "patronOf": {
+    "en-US": "Patron of authors and theologians",
+    "pt-BR": "Padroeiro dos autores e teólogos"
+  },
+  "prayerExcerpt": {
+    "en-US": "God is love, and whoever abides in love abides in God, and God abides in him.",
+    "pt-BR": "Deus é amor, e quem permanece no amor permanece em Deus, e Deus nele."
+  }
+}

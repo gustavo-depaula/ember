@@ -1,0 +1,43 @@
+{
+  "id": "john_chrysostom",
+  "feast": {
+    "month": 9,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. John Chrysostom",
+    "pt-BR": "São João Crisóstomo"
+  },
+  "patronOf": {
+    "en-US": "Patron of preachers and orators",
+    "pt-BR": "Padroeiro dos pregadores e oradores"
+  },
+  "prayerExcerpt": {
+    "en-US": "Glory be to God for all things.",
+    "pt-BR": "Glória a Deus por todas as coisas."
+  },
+  "meta": {
+    "face": "A lean ascetic man around 40, younger than the other bishops, a high bare forehead with thinning dark hair, gently hollow cheeks, a short thin pointed dark beard, earnest eloquent expression.",
+    "basis": "Young with little beard (Painter's Manual); high forehead and hollow cheeks in the Byzantine icon type.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Byzantine icon of Chrysostom (Met), Christian Iconography",
+        "url": "https://christianiconography.info/metropolitan/march2018/chrysostomByzantine.html"
+      },
+      {
+        "title": "Orthodox Arts Journal: icon prototypes",
+        "url": "https://orthodoxartsjournal.org/designing-icons-pt-2-icon-prototypes/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

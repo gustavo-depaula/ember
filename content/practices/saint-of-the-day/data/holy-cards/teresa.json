@@ -1,0 +1,19 @@
+{
+  "id": "teresa",
+  "feast": {
+    "month": 10,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Teresa of Ávila",
+    "pt-BR": "Santa Teresa de Ávila"
+  },
+  "patronOf": {
+    "en-US": "Patron of headache sufferers",
+    "pt-BR": "Padroeira dos que sofrem de dor de cabeça"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let nothing disturb you. Let nothing frighten you. All things are passing. God never changes.",
+    "pt-BR": "Nada te perturbe. Nada te espante. Tudo passa. Deus não muda."
+  }
+}

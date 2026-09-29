@@ -1,0 +1,39 @@
+{
+  "id": "stephen",
+  "feast": {
+    "month": 12,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Stephen",
+    "pt-BR": "Santo Estêvão"
+  },
+  "patronOf": {
+    "en-US": "The first martyr",
+    "pt-BR": "O primeiro mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, do not hold this sin against them.",
+    "pt-BR": "Senhor, não lhes leveis em conta este pecado."
+  },
+  "meta": {
+    "face": "A beardless youth around 20, completely clean-shaven, short light-brown hair with a small clerical tonsure, a serene radiant almost angelic expression.",
+    "basis": "Beardless youth with a tonsure (Painter's Manual); an angel's face (Acts 6:15).",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/stephen.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to separate him from Lawrence"
+      }
+    ]
+  }
+}

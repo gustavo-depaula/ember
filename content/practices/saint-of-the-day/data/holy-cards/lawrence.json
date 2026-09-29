@@ -1,0 +1,51 @@
+{
+  "id": "lawrence",
+  "feast": {
+    "month": 8,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Lawrence",
+    "pt-BR": "São Lourenço"
+  },
+  "patronOf": {
+    "en-US": "Deacon and martyr",
+    "pt-BR": "Diácono e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "God loves a cheerful giver.",
+    "pt-BR": "Deus ama quem dá com alegria."
+  },
+  "meta": {
+    "face": "A young deacon around 25, slightly older-looking than a boy, short dark hair with a small clerical tonsure, the first light shadow of a beard on the jaw, serene upward gaze.",
+    "basis": "Young with a budding beard, a little older than Stephen, as the Painter's Manual distinguishes the two deacons; gridiron, palm, dalmatic and Gospel book.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/lawrence.html"
+      },
+      {
+        "title": "Wikipedia: Saint Lawrence",
+        "url": "https://en.wikipedia.org/wiki/Saint_Lawrence"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card generated with the Cecilia, Dominic and Moses the Black cards as style references"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Gridiron redrawn twice until it read as a grill lying flat"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to separate him from Stephen"
+      }
+    ]
+  }
+}

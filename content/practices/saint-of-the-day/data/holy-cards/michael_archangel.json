@@ -1,0 +1,19 @@
+{
+  "id": "michael_archangel",
+  "feast": {
+    "month": 9,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Michael the Archangel",
+    "pt-BR": "São Miguel Arcanjo"
+  },
+  "patronOf": {
+    "en-US": "Patron of soldiers and the Church",
+    "pt-BR": "Padroeiro dos soldados e da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil.",
+    "pt-BR": "São Miguel Arcanjo, defendei-nos no combate. Sede nosso refúgio contra as maldades e ciladas do demônio."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "holy_innocents",
+  "feast": {
+    "month": 12,
+    "day": 28
+  },
+  "name": {
+    "en-US": "The Holy Innocents",
+    "pt-BR": "Os Santos Inocentes"
+  },
+  "patronOf": {
+    "en-US": "Patrons of foundlings and babies",
+    "pt-BR": "Padroeiros dos enjeitados e bebês"
+  },
+  "prayerExcerpt": {
+    "en-US": "Out of the mouth of babes and infants you have established strength.",
+    "pt-BR": "Da boca dos pequeninos e crianças de peito tiraste o perfeito louvor."
+  }
+}

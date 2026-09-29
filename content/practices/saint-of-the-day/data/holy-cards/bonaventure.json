@@ -1,0 +1,19 @@
+{
+  "id": "bonaventure",
+  "feast": {
+    "month": 7,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Bonaventure",
+    "pt-BR": "São Boaventura"
+  },
+  "patronOf": {
+    "en-US": "Doctor of the Church, the Seraphic Doctor",
+    "pt-BR": "Doutor da Igreja, o Doutor Seráfico"
+  },
+  "prayerExcerpt": {
+    "en-US": "Ask grace, not learning; longing, not the intellect.",
+    "pt-BR": "Pede a graça, não o saber; o desejo, não o intelecto."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mary_magdalene",
+  "feast": {
+    "month": 7,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Mary Magdalene",
+    "pt-BR": "Santa Maria Madalena"
+  },
+  "patronOf": {
+    "en-US": "Apostle to the Apostles",
+    "pt-BR": "Apóstola dos Apóstolos"
+  },
+  "prayerExcerpt": {
+    "en-US": "I have seen the Lord!",
+    "pt-BR": "Eu vi o Senhor!"
+  }
+}

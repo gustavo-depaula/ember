@@ -1,0 +1,19 @@
+{
+  "id": "presentation_bvm",
+  "feast": {
+    "month": 11,
+    "day": 21
+  },
+  "name": {
+    "en-US": "The Presentation of the Blessed Virgin Mary",
+    "pt-BR": "A Apresentação da Bem-Aventurada Virgem Maria"
+  },
+  "patronOf": {
+    "en-US": "Mary presented in the Temple",
+    "pt-BR": "Maria apresentada no Templo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Hail, holy Temple of the Lord, sacred dwelling of the Most High.",
+    "pt-BR": "Salve, santo Templo do Senhor, sagrada morada do Altíssimo."
+  }
+}

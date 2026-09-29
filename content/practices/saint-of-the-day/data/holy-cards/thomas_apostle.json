@@ -1,0 +1,39 @@
+{
+  "id": "thomas_apostle",
+  "feast": {
+    "month": 7,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Thomas the Apostle",
+    "pt-BR": "São Tomé, Apóstolo"
+  },
+  "patronOf": {
+    "en-US": "Apostle, patron of India",
+    "pt-BR": "Apóstolo, padroeiro da Índia"
+  },
+  "prayerExcerpt": {
+    "en-US": "My Lord and my God!",
+    "pt-BR": "Meu Senhor e meu Deus!"
+  },
+  "meta": {
+    "face": "A beardless young man around 25, clean-shaven, short dark hair, earnest thoughtful searching expression.",
+    "basis": "Beardless young man (Painter's Manual).",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/thomas.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

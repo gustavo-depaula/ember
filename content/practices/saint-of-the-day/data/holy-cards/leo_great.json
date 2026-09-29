@@ -1,0 +1,43 @@
+{
+  "id": "leo_great",
+  "feast": {
+    "month": 11,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Leo the Great",
+    "pt-BR": "São Leão Magno"
+  },
+  "patronOf": {
+    "en-US": "Pope and Doctor of the Church",
+    "pt-BR": "Papa e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "Christian, remember your dignity.",
+    "pt-BR": "Cristão, reconhece a tua dignidade."
+  },
+  "meta": {
+    "face": "A heavy-set, clean-shaven man of about sixty with a full, rounded face, a strong jaw, dark eyes and a calm, commanding yet kindly expression.",
+    "basis": "Raphael's Meeting of Leo the Great and Attila, chosen over the bearded Greek and Baroque types, which would repeat the white-bearded elder; no source records his features. Peter and Paul with swords are from the same scene. The excerpt is from his Christmas sermon.",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Raphael, Meeting of Leo the Great and Attila",
+        "url": "https://commons.wikimedia.org/wiki/File:Leoattila-Raphael.jpg"
+      },
+      {
+        "title": "Wikipedia, The Meeting of Leo the Great and Attila",
+        "url": "https://en.wikipedia.org/wiki/The_Meeting_of_Leo_the_Great_and_Attila"
+      },
+      {
+        "title": "Wikipedia, Pope Leo I",
+        "url": "https://en.wikipedia.org/wiki/Pope_Leo_I"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

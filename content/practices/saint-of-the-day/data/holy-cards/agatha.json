@@ -1,0 +1,47 @@
+{
+  "id": "agatha",
+  "feast": {
+    "month": 2,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Agatha",
+    "pt-BR": "Santa Águeda"
+  },
+  "patronOf": {
+    "en-US": "Patron of Catania and of nurses",
+    "pt-BR": "Padroeira de Catânia e das enfermeiras"
+  },
+  "prayerExcerpt": {
+    "en-US": "If you are insulted for the name of Christ, blessed are you.",
+    "pt-BR": "Felizes sereis vós, se fordes ultrajados por causa de Jesus."
+  },
+  "meta": {
+    "face": "A young noblewoman of about twenty with long fair golden hair under a red veil, a serene oval face, large dark eyes and a composed, steadfast expression.",
+    "basis": "The Western type (long fair hair, a sheer veil), the Golden Legend, the Ravenna mosaic, and the Catanese tradition of her veil turning red when it stopped Etna's lava; tongs and palm instead of the dish. The excerpt is her memorial's Gospel acclamation (1 Pt 4:14).",
+    "sources": [
+      {
+        "title": "christianiconography.info, Agatha",
+        "url": "https://www.christianiconography.info/agatha.html"
+      },
+      {
+        "title": "Wikimedia Commons, Sancta Agathe, Sant'Apollinare Nuovo, Ravenna",
+        "url": "https://commons.wikimedia.org/wiki/File:Sancta_Agathe_Ravenna.jpg"
+      },
+      {
+        "title": "Golden Legend, St Agatha",
+        "url": "https://www.liturgies.net/saints/agatha/goldenlegend.htm"
+      },
+      {
+        "title": "Sicilia Preziosa, the veil of St Agatha",
+        "url": "https://www.siciliapreziosa.it/storie/storia-velo-di-santagata-che-fermo-lava-etna/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

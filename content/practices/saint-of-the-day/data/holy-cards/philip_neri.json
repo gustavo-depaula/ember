@@ -1,0 +1,19 @@
+{
+  "id": "philip_neri",
+  "feast": {
+    "month": 5,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Philip Neri",
+    "pt-BR": "São Filipe Néri"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Rome",
+    "pt-BR": "Apóstolo de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Cast yourself with confidence into the arms of God.",
+    "pt-BR": "Lança-te com confiança nos braços de Deus."
+  }
+}

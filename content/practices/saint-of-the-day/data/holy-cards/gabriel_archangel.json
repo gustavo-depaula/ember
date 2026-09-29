@@ -1,0 +1,19 @@
+{
+  "id": "gabriel_archangel",
+  "feast": {
+    "month": 9,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Gabriel the Archangel",
+    "pt-BR": "São Gabriel Arcanjo"
+  },
+  "patronOf": {
+    "en-US": "Patron of messengers and communications",
+    "pt-BR": "Padroeiro dos mensageiros e comunicações"
+  },
+  "prayerExcerpt": {
+    "en-US": "Hail, full of grace, the Lord is with thee.",
+    "pt-BR": "Ave, cheia de graça, o Senhor é convosco."
+  }
+}

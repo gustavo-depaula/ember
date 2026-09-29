@@ -1,0 +1,19 @@
+{
+  "id": "rose_lima",
+  "feast": {
+    "month": 8,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Rose of Lima",
+    "pt-BR": "Santa Rosa de Lima"
+  },
+  "patronOf": {
+    "en-US": "Patron of the Americas",
+    "pt-BR": "Padroeira das Américas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Apart from the Cross there is no other ladder to heaven.",
+    "pt-BR": "Fora da Cruz não há outra escada para o céu."
+  }
+}

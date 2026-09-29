@@ -1,0 +1,19 @@
+{
+  "id": "agnes",
+  "feast": {
+    "month": 1,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Agnes",
+    "pt-BR": "Santa Inês"
+  },
+  "patronOf": {
+    "en-US": "Patron of purity and young girls",
+    "pt-BR": "Padroeira da pureza e das jovens"
+  },
+  "prayerExcerpt": {
+    "en-US": "I am betrothed to Him whom the Angels serve.",
+    "pt-BR": "Sou esposa Daquele a quem os Anjos servem."
+  }
+}

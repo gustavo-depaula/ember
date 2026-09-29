@@ -1,0 +1,19 @@
+{
+  "id": "francis_xavier",
+  "feast": {
+    "month": 12,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Francis Xavier",
+    "pt-BR": "São Francisco Xavier"
+  },
+  "patronOf": {
+    "en-US": "Patron of missionaries",
+    "pt-BR": "Padroeiro das missões"
+  },
+  "prayerExcerpt": {
+    "en-US": "I love Thee, Lord, yet not because I hope for heaven thereby.",
+    "pt-BR": "Amo-Vos, Senhor, e não por esperar o céu em troca."
+  }
+}

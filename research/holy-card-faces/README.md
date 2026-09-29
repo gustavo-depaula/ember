@@ -4,7 +4,7 @@ The generated holy cards collapsed male saints into three stock faces — a man 
 
 ## Where the trail lives
 
-- **`content/practices/saint-of-the-day/data/holy-cards.json` → each card's `meta`** — the durable record: the `face` description the card was made from, the `basis` (where that face comes from, in our words), `sources` (links, including consulted pictures), and a dated `history`. Cards without `meta` have not been reviewed yet.
+- **`content/practices/saint-of-the-day/data/holy-cards/<card-id>.json` → the card's `meta`** — the durable record: the `face` description the card was made from, the `basis` (where that face comes from, in our words), `sources` (links, including consulted pictures), and a dated `history`. Cards without `meta` have not been reviewed yet.
 - **`dossiers/`** — the research behind each `basis`: per-saint quotes from the sources, and the look-alike pairs that remain.
 - **`log.jsonl`** — every generation/edit run with its prompt and verdict. `edit-face.sh` appends to it; entries marked `backfilled` were reconstructed afterwards.
 - **`sheets/`** — contact sheets: `male.jpg` (before), `male-after.jpg`, and the per-batch before/after pairs.

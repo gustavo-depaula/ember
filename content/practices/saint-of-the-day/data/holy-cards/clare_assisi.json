@@ -1,0 +1,19 @@
+{
+  "id": "clare_assisi",
+  "feast": {
+    "month": 8,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Clare of Assisi",
+    "pt-BR": "Santa Clara de Assis"
+  },
+  "patronOf": {
+    "en-US": "Foundress of the Poor Clares",
+    "pt-BR": "Fundadora das Clarissas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Gaze upon Him, consider Him, contemplate Him, and long to imitate Him.",
+    "pt-BR": "Olha-O, considera-O, contempla-O, e deseja imitá-Lo."
+  }
+}

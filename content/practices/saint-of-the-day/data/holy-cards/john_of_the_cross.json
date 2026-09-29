@@ -1,0 +1,19 @@
+{
+  "id": "john_of_the_cross",
+  "feast": {
+    "month": 12,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. John of the Cross",
+    "pt-BR": "São João da Cruz"
+  },
+  "patronOf": {
+    "en-US": "Patron of mystics and contemplatives",
+    "pt-BR": "Padroeiro dos místicos e contemplativos"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the evening of life, we will be judged on love alone.",
+    "pt-BR": "No entardecer da vida, seremos julgados pelo amor."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jerome",
+  "feast": {
+    "month": 9,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Jerome",
+    "pt-BR": "São Jerônimo"
+  },
+  "patronOf": {
+    "en-US": "Patron of Scripture scholars and translators",
+    "pt-BR": "Padroeiro dos biblistas e tradutores"
+  },
+  "prayerExcerpt": {
+    "en-US": "Ignorance of Scripture is ignorance of Christ.",
+    "pt-BR": "A ignorância das Escrituras é a ignorância de Cristo."
+  }
+}

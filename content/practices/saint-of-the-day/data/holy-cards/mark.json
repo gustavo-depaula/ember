@@ -1,0 +1,51 @@
+{
+  "id": "mark",
+  "feast": {
+    "month": 4,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Mark the Evangelist",
+    "pt-BR": "São Marcos, Evangelista"
+  },
+  "patronOf": {
+    "en-US": "Evangelist, patron of Venice",
+    "pt-BR": "Evangelista, padroeiro de Veneza"
+  },
+  "prayerExcerpt": {
+    "en-US": "The beginning of the Gospel of Jesus Christ, the Son of God.",
+    "pt-BR": "Princípio do Evangelho de Jesus Cristo, Filho de Deus."
+  },
+  "meta": {
+    "face": "Starting from the original painted face, keeping its head angle and lowered gaze: hair turned salt-and-pepper grey and cut shorter; a neat rounded salt-and-pepper beard; face a little broader, around 50.",
+    "basis": "Greying man with a rounded beard (Painter's Manual).",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/mark.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "First edit still read like Joseph and Luke (bowed head, brown curls); redone with cropped hair, square jaw and a forward gaze"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Second face came out too realistic for the card's painted style; redone as minimal trait changes on the original face"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Raising the head to look forward read as looking at the camera; redone keeping the original lowered gaze"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cecilia",
+  "feast": {
+    "month": 11,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Cecilia",
+    "pt-BR": "Santa Cecília"
+  },
+  "patronOf": {
+    "en-US": "Patron of musicians",
+    "pt-BR": "Padroeira dos músicos"
+  },
+  "prayerExcerpt": {
+    "en-US": "In her heart, Cecilia sang only to the Lord.",
+    "pt-BR": "Em seu coração, Cecília cantava somente ao Senhor."
+  }
+}

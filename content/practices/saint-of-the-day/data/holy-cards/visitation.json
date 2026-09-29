@@ -1,0 +1,19 @@
+{
+  "id": "visitation",
+  "feast": {
+    "month": 5,
+    "day": 31
+  },
+  "name": {
+    "en-US": "The Visitation",
+    "pt-BR": "A Visitação de Nossa Senhora"
+  },
+  "patronOf": {
+    "en-US": "Mary visiting Elizabeth",
+    "pt-BR": "Maria visitando Isabel"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blessed are you among women, and blessed is the fruit of your womb.",
+    "pt-BR": "Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre."
+  }
+}

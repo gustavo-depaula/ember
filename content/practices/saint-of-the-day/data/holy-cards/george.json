@@ -1,0 +1,19 @@
+{
+  "id": "george",
+  "feast": {
+    "month": 4,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. George",
+    "pt-BR": "São Jorge"
+  },
+  "patronOf": {
+    "en-US": "Patron of soldiers",
+    "pt-BR": "Padroeiro dos soldados"
+  },
+  "prayerExcerpt": {
+    "en-US": "Stand firm in the faith, and fear no earthly sword.",
+    "pt-BR": "Permanecei firmes na fé e não temais espada alguma da terra."
+  }
+}

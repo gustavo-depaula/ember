@@ -158,6 +158,31 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
     return shape, per_lang
 
 
+# Practice data kept as one file per item (`"holy-cards": "data/holy-cards/"`),
+# so each item edits and diffs on its own, but shipped as one blob, because the
+# app fetches the whole collection at once. Only the fields the app reads ship:
+# the rest (a card's `meta` provenance trail) stays in the repo.
+DATA_COLLECTIONS = {
+    "holy-cards": {"key": "cards", "fields": ("id", "feast", "name", "patronOf", "prayerExcerpt")},
+}
+
+
+def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
+    spec = DATA_COLLECTIONS.get(logical)
+    if spec is None:
+        raise SystemExit(f"practice {pid}: data `{logical}` is a directory but not a known collection")
+    if not coll_dir.is_dir():
+        raise SystemExit(f"practice {pid}: data `{logical}` points at missing {coll_dir}")
+    items = []
+    for ff in sorted(coll_dir.glob("*.json")):
+        with ff.open(encoding="utf-8") as fh:
+            item = json.load(fh)
+        if item.get("id") != ff.stem:
+            raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
+        items.append({k: item[k] for k in spec["fields"] if k in item})
+    return {"version": 1, spec["key"]: items}
+
+
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
     with resource hashes (flow / fragments / data / tracks / per-day / images).
@@ -220,10 +245,20 @@ def build_practices(b: Builder) -> None:
             # rel → logical and emit the logical as `name` when present. Fall
             # back to the rel path stem for practices that don't declare it.
             file_to_logical = {}
+            collection_dirs = []
             for logical, path in (manifest_data.get("data") or {}).items():
-                if isinstance(path, str) and path.startswith("data/"):
+                if not isinstance(path, str) or not path.startswith("data/"):
+                    continue
+                if path.endswith("/"):
+                    coll_dir = d / path
+                    dh, ds = b.write_json_blob(_build_collection(pid, logical, coll_dir))
+                    data_files.append({"name": logical, "hash": dh, "size": ds})
+                    collection_dirs.append(coll_dir.resolve())
+                else:
                     file_to_logical[path[len("data/"):]] = logical
             for ff in sorted(data_dir.rglob("*.json")):
+                if any(ff.resolve().is_relative_to(cd) for cd in collection_dirs):
+                    continue
                 rel = ff.relative_to(data_dir).as_posix()
                 with ff.open(encoding="utf-8") as fh:
                     dd = json.load(fh)

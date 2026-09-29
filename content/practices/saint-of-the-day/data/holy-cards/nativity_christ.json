@@ -1,0 +1,19 @@
+{
+  "id": "nativity_christ",
+  "feast": {
+    "month": 12,
+    "day": 25
+  },
+  "name": {
+    "en-US": "The Nativity of Christ",
+    "pt-BR": "A Natividade do Senhor"
+  },
+  "patronOf": {
+    "en-US": "The Word made flesh",
+    "pt-BR": "O Verbo feito carne"
+  },
+  "prayerExcerpt": {
+    "en-US": "For unto us a child is born, unto us a son is given.",
+    "pt-BR": "Porque um menino nos nasceu, um filho nos foi dado."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "john_vianney",
+  "feast": {
+    "month": 8,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. John Vianney",
+    "pt-BR": "São João Maria Vianney"
+  },
+  "patronOf": {
+    "en-US": "Patron of parish priests",
+    "pt-BR": "Padroeiro dos párocos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Prayer is nothing else than union with God.",
+    "pt-BR": "A oração não é outra coisa senão a união com Deus."
+  },
+  "meta": {
+    "face": "A small, thin, clean-shaven old priest of about seventy with long snow-white hair falling to his collar, a high pale smooth forehead, a narrow gentle face, deep-set luminous eyes raised in prayer.",
+    "basis": "Eyewitness descriptions in Monnin's Life (Bishop Ullathorne, 1854: hair white as snow, eyes deep in shadow and preternaturally bright); he refused to be photographed, so Cabuchet's bust and the 1859 deathbed photograph fixed the type. The excerpt is from his catechism on prayer.",
+    "sources": [
+      {
+        "title": "Monnin, Life of the Curé d'Ars (archive.org)",
+        "url": "https://archive.org/details/LifeOfTheCureDArs"
+      },
+      {
+        "title": "Sanctuaire d'Ars, Emilien Cabuchet",
+        "url": "https://www.arsnet.org/en/ars-great-witnesses/emilien-cabuchet/"
+      },
+      {
+        "title": "OnePeterFive, Could this be the face of the Curé d'Ars?",
+        "url": "https://onepeterfive.com/face-cure-d-ars/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

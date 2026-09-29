@@ -1,0 +1,19 @@
+{
+  "id": "margaret_mary",
+  "feast": {
+    "month": 10,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Margaret Mary Alacoque",
+    "pt-BR": "Santa Margarida Maria Alacoque"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the Sacred Heart",
+    "pt-BR": "Apóstola do Sagrado Coração"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us love Him who has so loved us.",
+    "pt-BR": "Amemos Aquele que tanto nos amou."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "matthew",
+  "feast": {
+    "month": 9,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Matthew the Apostle",
+    "pt-BR": "São Mateus, Apóstolo"
+  },
+  "patronOf": {
+    "en-US": "Evangelist and apostle",
+    "pt-BR": "Evangelista e apóstolo"
+  },
+  "prayerExcerpt": {
+    "en-US": "“Follow me.” And he rose and followed Him.",
+    "pt-BR": "“Segue-me.” E ele se levantou e O seguiu."
+  },
+  "meta": {
+    "face": "An old man around 70, long straight white hair, a long flowing undivided white beard reaching the chest, calm scholarly expression.",
+    "basis": "Old man with a long beard (Painter's Manual); undivided to set him apart from Andrew.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/matthew.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

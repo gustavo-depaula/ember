@@ -1,0 +1,19 @@
+{
+  "id": "exaltation_cross",
+  "feast": {
+    "month": 9,
+    "day": 14
+  },
+  "name": {
+    "en-US": "The Exaltation of the Holy Cross",
+    "pt-BR": "A Exaltação da Santa Cruz"
+  },
+  "patronOf": {
+    "en-US": "The triumph of the Cross",
+    "pt-BR": "O triunfo da Cruz"
+  },
+  "prayerExcerpt": {
+    "en-US": "We adore you, O Christ, and we bless you, for by your Cross you redeemed the world.",
+    "pt-BR": "Nós vos adoramos, ó Cristo, e vos bendizemos, porque pela vossa Cruz redimistes o mundo."
+  }
+}

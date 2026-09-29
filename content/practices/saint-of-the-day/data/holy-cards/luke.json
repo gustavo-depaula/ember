@@ -1,0 +1,47 @@
+{
+  "id": "luke",
+  "feast": {
+    "month": 10,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Luke the Evangelist",
+    "pt-BR": "São Lucas Evangelista"
+  },
+  "patronOf": {
+    "en-US": "Patron of artists and physicians",
+    "pt-BR": "Padroeiro dos artistas e médicos"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Mighty One has done great things for me, and holy is his name.",
+    "pt-BR": "O Todo-Poderoso fez grandes coisas por mim, e santo é o seu nome."
+  },
+  "meta": {
+    "face": "Starting from the original painted face, keeping its head angle and lowered gaze: hair turned light auburn; a very short auburn beard; face made younger, around 27.",
+    "basis": "Young man with curly hair and a short beard (Painter's Manual); colouring and gaze chosen to separate him from Joseph and Mark.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/luke.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Kept at first as matching the tradition; edited because it still matched Joseph and Mark"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Second face came out too realistic for the card's painted style; redone as minimal trait changes on the original face"
+      },
+      {
+        "date": "2026-09-29",
+        "note": "Raising the head to look forward read as looking at the camera; redone keeping the original lowered gaze"
+      }
+    ]
+  }
+}

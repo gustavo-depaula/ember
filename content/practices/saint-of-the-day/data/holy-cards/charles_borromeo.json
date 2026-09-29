@@ -1,0 +1,19 @@
+{
+  "id": "charles_borromeo",
+  "feast": {
+    "month": 11,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Charles Borromeo",
+    "pt-BR": "São Carlos Borromeu"
+  },
+  "patronOf": {
+    "en-US": "Patron of bishops and catechists",
+    "pt-BR": "Padroeiro dos bispos e catequistas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Pray before, during, and after all that you do.",
+    "pt-BR": "Reza antes, durante e depois de tudo o que fizeres."
+  }
+}

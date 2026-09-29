@@ -1,0 +1,19 @@
+{
+  "id": "immaculate_conception",
+  "feast": {
+    "month": 12,
+    "day": 8
+  },
+  "name": {
+    "en-US": "The Immaculate Conception",
+    "pt-BR": "A Imaculada Conceição"
+  },
+  "patronOf": {
+    "en-US": "Mary conceived without sin",
+    "pt-BR": "Maria concebida sem pecado"
+  },
+  "prayerExcerpt": {
+    "en-US": "O Mary, conceived without sin, pray for us who have recourse to thee.",
+    "pt-BR": "Ó Maria, concebida sem pecado, rogai por nós que recorremos a vós."
+  }
+}

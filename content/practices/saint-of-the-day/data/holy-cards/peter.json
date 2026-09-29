@@ -1,0 +1,39 @@
+{
+  "id": "peter",
+  "feast": {
+    "month": 6,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Peter",
+    "pt-BR": "São Pedro"
+  },
+  "patronOf": {
+    "en-US": "Patron of fishermen and the papacy",
+    "pt-BR": "Padroeiro dos pescadores e do papado"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, you know all things; you know that I love you.",
+    "pt-BR": "Senhor, tu sabes tudo; tu sabes que eu te amo."
+  },
+  "meta": {
+    "face": "An elderly man, around 65, broad and weathered fisherman's face, curly grey-white hair balding from the back of the head with a curly tuft left at the forehead, a short square curly grey-white beard, strong wide nose, deep-set earnest eyes, lined forehead.",
+    "basis": "Curly hair and a short square beard since the 4th century; balding with a forelock tuft from the second millennium.",
+    "sources": [
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/peter.html"
+      },
+      {
+        "title": "Christ between Peter and Paul, 4th-c. catacomb painting",
+        "url": "https://www.christianiconography.info/Wikimedia%20Commons/xPeterPaulCatacombs.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

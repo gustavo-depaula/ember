@@ -1,0 +1,19 @@
+{
+  "id": "monica",
+  "feast": {
+    "month": 8,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Monica",
+    "pt-BR": "Santa Mônica"
+  },
+  "patronOf": {
+    "en-US": "Patron of mothers",
+    "pt-BR": "Padroeira das mães"
+  },
+  "prayerExcerpt": {
+    "en-US": "Nothing is far from God.",
+    "pt-BR": "Nada está longe de Deus."
+  }
+}

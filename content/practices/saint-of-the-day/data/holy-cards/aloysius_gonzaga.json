@@ -1,0 +1,38 @@
+{
+  "id": "aloysius_gonzaga",
+  "feast": {
+    "month": 6,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Aloysius Gonzaga",
+    "pt-BR": "São Luís Gonzaga"
+  },
+  "patronOf": {
+    "en-US": "Patron of youth",
+    "pt-BR": "Padroeiro da juventude"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is better to be a child of God than king of the whole world.",
+    "pt-BR": "É melhor ser filho de Deus do que rei do mundo inteiro."
+  },
+  "meta": {
+    "basis": "Beatification-process testimony describes large dark eyes, a gently aquiline nose, a fine ascetic face.",
+    "sources": [
+      {
+        "title": "Cepari/Goldie, Life of St Aloysius (1891)",
+        "url": "https://archive.org/details/lifeofsaintaloys00cepauoft"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/aloysiusGonzaga.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face reviewed against the sources and kept: an edit barely changed it"
+      }
+    ]
+  }
+}

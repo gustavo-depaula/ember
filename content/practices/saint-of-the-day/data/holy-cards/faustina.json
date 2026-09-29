@@ -1,0 +1,39 @@
+{
+  "id": "faustina",
+  "feast": {
+    "month": 10,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Faustina Kowalska",
+    "pt-BR": "Santa Faustina Kowalska"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Divine Mercy",
+    "pt-BR": "Apóstola da Divina Misericórdia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Jesus, I trust in you.",
+    "pt-BR": "Jesus, eu confio em vós."
+  },
+  "meta": {
+    "face": "A woman of about thirty with a round, open face, fair skin with a light dusting of freckles, reddish-gold eyebrows, light grey-green eyes, a straight nose, a calm steady gaze and a faint gentle smile.",
+    "basis": "A fellow sister's recollection that she was red-haired and freckled, with her photographs and the portrait painted from them. The excerpt is the inscription of the Divine Mercy image.",
+    "sources": [
+      {
+        "title": "Catholic Exchange, A Star and the Moon, part II (Sr Sabina's recollection)",
+        "url": "https://catholicexchange.com/a-star-and-the-moon-part-ii-the-lives-of-alicja-lenczewska-and-st-faustina-kowalska/"
+      },
+      {
+        "title": "Wikipedia, Faustina Kowalska (portrait, 1931 photograph, habit)",
+        "url": "https://en.wikipedia.org/wiki/Faustina_Kowalska"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+      }
+    ]
+  }
+}

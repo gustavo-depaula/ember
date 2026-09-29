@@ -1,0 +1,19 @@
+{
+  "id": "annunciation",
+  "feast": {
+    "month": 3,
+    "day": 25
+  },
+  "name": {
+    "en-US": "The Annunciation",
+    "pt-BR": "A Anunciação do Senhor"
+  },
+  "patronOf": {
+    "en-US": "The Word made flesh in the Virgin",
+    "pt-BR": "O Verbo feito carne na Virgem"
+  },
+  "prayerExcerpt": {
+    "en-US": "Behold the handmaid of the Lord; be it done unto me according to thy word.",
+    "pt-BR": "Eis aqui a serva do Senhor; faça-se em mim segundo a vossa palavra."
+  }
+}

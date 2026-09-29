@@ -1,0 +1,19 @@
+{
+  "id": "moses_the_black",
+  "feast": {
+    "month": 8,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Moses the Black",
+    "pt-BR": "São Moisés, o Negro"
+  },
+  "patronOf": {
+    "en-US": "Patron of nonviolence",
+    "pt-BR": "Padroeiro da não violência"
+  },
+  "prayerExcerpt": {
+    "en-US": "Sit in your cell and your cell will teach you everything.",
+    "pt-BR": "Senta-te na tua cela e a tua cela te ensinará tudo."
+  }
+}

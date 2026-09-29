@@ -1,0 +1,38 @@
+{
+  "id": "anthony_padua",
+  "feast": {
+    "month": 6,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Anthony of Padua",
+    "pt-BR": "Santo Antônio de Pádua"
+  },
+  "patronOf": {
+    "en-US": "Patron of lost things and the poor",
+    "pt-BR": "Padroeiro das coisas perdidas e dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Anthony, gentle and powerful in your help, restore to me what is lost.",
+    "pt-BR": "Santo Antônio, brando e poderoso em vosso auxílio, devolvei-me o que está perdido."
+  },
+  "meta": {
+    "basis": "Tonsured, long narrow face, large eyes (1981 study of his skull).",
+    "sources": [
+      {
+        "title": "Basilica of St Anthony: his face",
+        "url": "https://www.santantonio.org/en/content/his-face"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/anthonyPadua.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face reviewed against the sources and kept: an edit barely changed it"
+      }
+    ]
+  }
+}

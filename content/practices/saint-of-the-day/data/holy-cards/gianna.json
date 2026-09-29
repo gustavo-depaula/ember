@@ -1,0 +1,19 @@
+{
+  "id": "gianna",
+  "feast": {
+    "month": 4,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Gianna Beretta Molla",
+    "pt-BR": "Santa Gianna Beretta Molla"
+  },
+  "patronOf": {
+    "en-US": "Patron of mothers and physicians",
+    "pt-BR": "Padroeira das mães e médicos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Love is the most beautiful sentiment the Lord has put into the soul of men and women.",
+    "pt-BR": "O amor é o sentimento mais belo que o Senhor colocou na alma dos homens e mulheres."
+  }
+}

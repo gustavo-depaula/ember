@@ -1,0 +1,19 @@
+{
+  "id": "bernard_clairvaux",
+  "feast": {
+    "month": 8,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Bernard of Clairvaux",
+    "pt-BR": "São Bernardo de Claraval"
+  },
+  "patronOf": {
+    "en-US": "Doctor of the Church, the Mellifluous Doctor",
+    "pt-BR": "Doutor da Igreja, o Doutor Melífluo"
+  },
+  "prayerExcerpt": {
+    "en-US": "In dangers, in doubts, in difficulties, think of Mary, call upon Mary.",
+    "pt-BR": "Nos perigos, nas dúvidas, nas dificuldades, pensa em Maria, invoca Maria."
+  }
+}

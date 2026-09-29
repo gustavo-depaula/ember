@@ -1,0 +1,39 @@
+{
+  "id": "james_greater",
+  "feast": {
+    "month": 7,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. James the Greater",
+    "pt-BR": "São Tiago Maior"
+  },
+  "patronOf": {
+    "en-US": "Patron of pilgrims and of Spain",
+    "pt-BR": "Padroeiro dos peregrinos e da Espanha"
+  },
+  "prayerExcerpt": {
+    "en-US": "We are able to drink the chalice.",
+    "pt-BR": "Podemos beber o cálice."
+  },
+  "meta": {
+    "face": "A youthful man around 28, chestnut hair falling in soft waves to the jaw, a young light beard that is short and sparse, open eager expression.",
+    "basis": "Young man with a young beard (Painter's Manual); identity carried by the pilgrim's attributes.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/jamesGreater.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}

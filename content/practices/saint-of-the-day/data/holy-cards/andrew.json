@@ -1,0 +1,39 @@
+{
+  "id": "andrew",
+  "feast": {
+    "month": 11,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Andrew the Apostle",
+    "pt-BR": "Santo André, Apóstolo"
+  },
+  "patronOf": {
+    "en-US": "The First-Called, patron of Scotland",
+    "pt-BR": "O Primeiro Chamado, padroeiro da Escócia"
+  },
+  "prayerExcerpt": {
+    "en-US": "We have found the Messiah.",
+    "pt-BR": "Encontramos o Messias."
+  },
+  "meta": {
+    "face": "An old man around 70, abundant unruly curly grey-white hair, a long grey-white beard divided at the end into two points, a kindly weathered face.",
+    "basis": "Old man with a beard divided into two points (Painter's Manual); wild hair and long beard in the West.",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Christian Iconography",
+        "url": "https://www.christianiconography.info/andrew.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "Face edited to break the stock look-alike face shared by most male cards"
+      }
+    ]
+  }
+}
