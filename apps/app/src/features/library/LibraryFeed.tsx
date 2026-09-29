@@ -1,8 +1,8 @@
 import { useRouter } from 'expo-router'
-import { Library as LibraryIcon, Plus } from 'lucide-react-native'
+import { Plus } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { useTheme, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 
 import { Typography } from '@/components/typography'
 import { bareId, getEntry } from '@/content/contentIndex'
@@ -13,7 +13,6 @@ import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex, toneForKey } from '@/features/explore/bgColor'
-import { ShortcutRow } from '@/features/home'
 import { useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 import { CreateCollectionSheet } from './CreateCollectionSheet'
@@ -36,7 +35,6 @@ const newCollectionTone = toneForKey('new-collection')
 export function LibraryFeed() {
   const { t } = useTranslation()
   const router = useRouter()
-  const theme = useTheme()
   const catalogVersion = useCatalogVersion()
   const { data: saved } = useSavedItems()
   const { data: userCollections } = useUserCollections()
@@ -173,13 +171,6 @@ export function LibraryFeed() {
           />
         ))}
       </ArtCarousel>
-
-      <ShortcutRow
-        leading={<LibraryIcon size={22} color={theme.accent?.val} />}
-        title={t('library.browse')}
-        tagline={t('library.browseHint')}
-        onPress={() => router.push('/browse/all')}
-      />
 
       <CreateCollectionSheet
         open={creating}

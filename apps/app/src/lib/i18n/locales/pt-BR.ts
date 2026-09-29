@@ -28,8 +28,6 @@ export default {
     saintsHint: 'Sua coleção de santinhos',
     creators: 'Criadores',
     creatorsHint: 'Vozes que você segue',
-    browse: 'Explorar a biblioteca',
-    browseHint: 'Livros, orações e coleções',
   },
   you: {
     tagline: 'A sua vida de oração',

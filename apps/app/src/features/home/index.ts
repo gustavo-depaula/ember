@@ -4,7 +4,6 @@ export {
   LiturgicalHeader,
   NavigationMedallion,
   OfflineCoverageLine,
-  ShortcutRow,
   TodayPlanSheet,
   TodayRow,
 } from './components'

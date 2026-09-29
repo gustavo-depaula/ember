@@ -28,8 +28,6 @@ export default {
     saintsHint: 'Your collection of holy cards',
     creators: 'Creators',
     creatorsHint: 'Voices you follow',
-    browse: 'Browse the library',
-    browseHint: 'Books, prayers & collections',
   },
   you: {
     tagline: 'Your life of prayer',
