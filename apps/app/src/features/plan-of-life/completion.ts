@@ -94,6 +94,15 @@ export function useCompletedSlots(date: string): Set<string> {
   return useMemo(() => completedSlotKeys(completions), [completions])
 }
 
+/**
+ * Bare ids of the practices prayed on `date`, whether or not they're in the
+ * plan: a prayer outside it is logged under the prayed id itself.
+ */
+export function usePrayedOn(date: string): Set<string> {
+  const completions = useEventStore(useShallow((s) => completionsOn(date, s)))
+  return useMemo(() => new Set(completions.map((c) => bareId(c.practice_id))), [completions])
+}
+
 export function useCompletionRange(startDate: string, endDate: string): Completion[] {
   return useEventStore(
     useShallow((s) => {

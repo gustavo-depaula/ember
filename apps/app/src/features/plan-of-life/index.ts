@@ -3,6 +3,7 @@ export {
   useCompletedSlots,
   useCompletePractice,
   useCompletionRange,
+  usePrayedOn,
   useSetSlotDone,
 } from './completion'
 export {

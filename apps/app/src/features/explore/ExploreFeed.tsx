@@ -1,3 +1,4 @@
+import { format } from 'date-fns'
 import type { Href } from 'expo-router'
 import { useRouter } from 'expo-router'
 import { type ReactNode, useMemo } from 'react'
@@ -9,6 +10,7 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { coverFor } from '@/features/covers'
+import { usePrayedOn } from '@/features/plan-of-life'
 import { todayKey, useSaintOfDayBookImage, useSaintOfDayIndex } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
@@ -181,6 +183,7 @@ export function DailyMeditations() {
   const today = useToday()
   const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
   const featured = pickFeatured(getLiturgicalSeason(today, form), today)
+  const prayed = usePrayedOn(format(today, 'yyyy-MM-dd'))
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const meditations = useMemo(
@@ -193,7 +196,13 @@ export function DailyMeditations() {
   return (
     <ArtCarousel title={t('explore.dailyMeditations')}>
       {meditations.map(([id, entry, subtitleKey]) => (
-        <MeditationTile key={id} id={id} entry={entry} subtitleKey={subtitleKey} />
+        <MeditationTile
+          key={id}
+          id={id}
+          entry={entry}
+          subtitleKey={subtitleKey}
+          prayed={prayed.has(bareId(id))}
+        />
       ))}
     </ArtCarousel>
   )
@@ -292,10 +301,12 @@ function MeditationTile({
   id,
   entry,
   subtitleKey,
+  prayed,
 }: {
   id: string
   entry: CatalogEntry
   subtitleKey: string
+  prayed: boolean
 }) {
   const { t } = useTranslation()
   const dynamicSubtitle = useMeditationSubtitle(id)
@@ -305,6 +316,7 @@ function MeditationTile({
       subtitle={dynamicSubtitle ?? t(subtitleKey)}
       image={artFor(id)}
       tone={toneForKey(id)}
+      prayed={prayed}
       href={{ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } }}
     />
   )

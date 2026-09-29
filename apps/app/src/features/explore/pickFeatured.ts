@@ -46,8 +46,8 @@ export const traditionRow = [
 // The daily-meditation row, shown on Today. Practice ids resolve against the
 // live catalog at render, so a missing one drops out.
 export const meditationRow: MeditationCard[] = [
-  { id: 'practice/meditacoes-ligorio', subtitleKey: 'explore.meditation.alphonsus' },
   { id: 'practice/intimita-divina', subtitleKey: 'explore.meditation.intimita' },
+  { id: 'practice/meditacoes-ligorio', subtitleKey: 'explore.meditation.alphonsus' },
   { id: 'practice/opus-dei-meditation', subtitleKey: 'explore.meditation.opusDei' },
   { id: 'practice/patristic-reading', subtitleKey: 'explore.meditation.patristic' },
 ]
