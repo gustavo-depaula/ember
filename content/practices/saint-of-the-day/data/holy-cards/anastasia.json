@@ -1,0 +1,48 @@
+{
+  "id": "anastasia",
+  "feast": {
+    "month": 12,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Anastasia",
+    "pt-BR": "Santa Anastácia"
+  },
+  "patronOf": {
+    "en-US": "Martyr of Sirmium",
+    "pt-BR": "Mártir de Sírmio"
+  },
+  "prayerExcerpt": {
+    "en-US": "Admit us, we beseech you, into their company, not weighing our merits, but granting us your pardon.",
+    "pt-BR": "Concedei, não por nossos méritos, mas por vossa bondade, o convívio dos Apóstolos e Mártires."
+  },
+  "meta": {
+    "face": "A young woman of about twenty-five with a fair, narrow, diamond-shaped face — high cheekbones, a slim nose with a slightly upturned tip, wide-set grey eyes under fine, straight light brows, a narrow pointed chin and a small, full mouth; light auburn hair braided and coiled at the nape under a pearl fillet (not loose, no veil), and a composed, compassionate gaze.",
+    "basis": "Carpaccio's St. Anastasia in the Zadar polyptych, where her relics are kept: light auburn hair under a pearled fillet, a green gown, a dark mantle and a palm; the Orthodox icon gives the phial of the Pharmakolytria. Braiding the hair is an artistic choice to keep her apart from the long-haired virgin martyrs.",
+    "excerpt": "content/of/order/order-of-mass.json, Roman Canon (Eucharistic Prayer I), Nobis quoque, which names 'Agnes, Cecilia, Anastasia' (en-US lines 198-201, pt-BR lines 190-192)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Vittore Carpaccio, St. Anastasia, Zadar polyptych",
+        "url": "https://commons.wikimedia.org/wiki/File:St.Anastasia,_Zadar_Polyptych_by_Vittore_Carpaccio.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, St. Anastasia Pharmakolytria (icon)",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Anastasia.jpg"
+      },
+      {
+        "title": "christianiconography.info, St. Anastasia",
+        "url": "https://www.christianiconography.info/anastasia.html"
+      },
+      {
+        "title": "Divinum Officium, Second Mass of Christmas with the commemoration of St. Anastasia",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Sancti/12-25m2.txt"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-3.md."
+      }
+    ]
+  }
+}

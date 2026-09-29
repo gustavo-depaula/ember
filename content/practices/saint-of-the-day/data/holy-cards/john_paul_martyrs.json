@@ -1,0 +1,44 @@
+{
+  "id": "john_paul_martyrs",
+  "feast": {
+    "month": 6,
+    "day": 26
+  },
+  "name": {
+    "en-US": "Sts. John and Paul",
+    "pt-BR": "Santos João e Paulo"
+  },
+  "patronOf": {
+    "en-US": "Brothers and martyrs of Rome",
+    "pt-BR": "Irmãos e mártires de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "The same faith and the same passion made them truly brothers.",
+    "pt-BR": "A mesma fé e a mesma paixão os fizeram verdadeiramente irmãos."
+  },
+  "meta": {
+    "face": "John (left, the elder): a man of about forty with a broad, heavy-jawed, rectangular face — a thick, straight nose, small dark eyes set close under a heavy, straight brow ridge, flat cheekbones, a wide, squared chin under the beard and a straight, firm mouth; close-cropped black hair, a short, neatly trimmed black beard and a grave, steady gaze. Paul (right): a clean-shaven man of about twenty-eight with a narrower face and a delicate, pointed chin — a small, straight nose, large light-brown eyes under high, arched brows, smooth cheeks and a soft, full mouth; short light-brown hair combed forward in a straight Roman fringe and a gentle expression. John's hair is straight and cropped, not curly.",
+    "basis": "The mosaic procession of martyrs at Sant'Apollinare Nuovo, Ravenna, shows both as short-haired Roman men in white pallia carrying crowns; the Breviary makes them brothers who served Constantia. The beard and age that separate John from Paul are an artistic choice.",
+    "excerpt": "Roman Missal (1962), collect of Sts. John and Paul, 26 June: 'quos eadem fides et passio vere fecit esse germanos', translated; Divinum Officium missa/Latin/Sancti/06-26.txt",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Sts. John and Paul, Sant'Apollinare Nuovo, Ravenna",
+        "url": "https://commons.wikimedia.org/wiki/File:Sancti_Iohannis_Paulus.jpg"
+      },
+      {
+        "title": "Wikipedia, Saints John and Paul",
+        "url": "https://en.wikipedia.org/wiki/Saints_John_and_Paul"
+      },
+      {
+        "title": "Divinum Officium, Mass of Sts. John and Paul, 26 June",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Sancti/06-26.txt"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-3.md."
+      }
+    ]
+  }
+}

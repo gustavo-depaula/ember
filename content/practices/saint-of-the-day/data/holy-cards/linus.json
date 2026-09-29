@@ -1,0 +1,48 @@
+{
+  "id": "linus",
+  "feast": {
+    "month": 9,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Linus",
+    "pt-BR": "São Lino"
+  },
+  "patronOf": {
+    "en-US": "Successor of St. Peter, martyr",
+    "pt-BR": "Sucessor de São Pedro, mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate.",
+    "pt-BR": "Os bem-aventurados apóstolos, tendo então fundado e edificado a Igreja, confiaram às mãos de Lino o ofício do episcopado."
+  },
+  "meta": {
+    "face": "A man of about fifty with a broad, hexagonal face — a low, wide forehead and wide, flat cheekbones angling to a broad jaw; a straight, wide nose with a blunt tip; wide-set, round dark eyes under thick, gently arched brows; a rounded chin under the beard; a straight, full mouth; dark hair greying at the temples and receding at the brow, a full, rounded salt-and-pepper beard of medium length, and a steady, gentle gaze. Beard neither white nor tapering.",
+    "basis": "The Painter's Manual gives Linus, of the Seventy, 'a rounded beard'; the Menologion of Basil II shows him older and balding with a rounded beard. The face takes the rounded beard of both and a middle age between them.",
+    "excerpt": "St. Irenaeus, Against Heresies III.3.3 (ANF translation, public domain, verbatim), pt-BR rendered from it",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 313 (Linus)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikimedia Commons, Menologion of Basil II, portrait of Linus",
+        "url": "https://commons.wikimedia.org/wiki/File:Menologion_of_Basil_II_-_Patrobulus,_Hermas,_Linus,_Caius,_Philologus_of_70_disciples_(Portrait_of_Linus).jpg"
+      },
+      {
+        "title": "Divinum Officium, Breviary lesson for St. Linus, 23 September",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/09-23.txt"
+      },
+      {
+        "title": "Irenaeus, Against Heresies III.3 (New Advent)",
+        "url": "https://www.newadvent.org/fathers/0103303.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-3.md; regenerated once because the first draft's frame drifted from the set."
+      }
+    ]
+  }
+}

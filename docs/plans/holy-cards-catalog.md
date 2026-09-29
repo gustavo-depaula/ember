@@ -6,9 +6,9 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 | Category | Cards | Done |
 |---|---|---|
-| Saints — solemnities, feasts, memorials | 83 | 80 |
-| Saints — optional memorials | 106 | 18 |
-| Saints of the Roman Canon not on the calendar | 6 | 0 |
+| Saints — solemnities, feasts, memorials | 83 | 83 |
+| Saints — optional memorials | 106 | 19 |
+| Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 0 |
 | Saints with a card but no universal feast | 3 | 3 |
 | Feasts of the Lord and the Church | 21 | 5 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 115 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 125 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -29,17 +29,17 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 17 Jan · Saint Anthony, abbot · *Santo Antão, abade* · memorial — `anthony_abbot`
 - [x] 21 Jan · Saint Agnes, virgin and martyr · *Santa Inês, virgem e mártir* · memorial — `agnes`
 - [x] 24 Jan · Saint Francis de Sales, bishop and doctor of the Church · *São Francisco de Sales, bispo e doutor da Igreja* · memorial — `francis_de_sales`
-- [ ] 26 Jan · Ss. Timothy and Titus, bishops · *Santos Timóteo e Tito, bispos* · memorial
+- [x] 26 Jan · Ss. Timothy and Titus, bishops · *Santos Timóteo e Tito, bispos* · memorial — `timothy_titus`
 - [x] 28 Jan · Saint Thomas Aquinas, priest and doctor of the Church · *Santo Tomás de Aquino, presbítero e doutor da Igreja* · memorial — `thomas_aquinas`
 - [x] 31 Jan · Saint John Bosco, priest · *São João Bosco, presbítero* · memorial — `john_bosco`
 - [x] 5 Feb · Saint Agatha, virgin and martyr · *Santa Águeda, virgem e mártir* · memorial — `agatha`
 - [x] 6 Feb · Ss Paul Miki and companions, martyrs · *São Paulo Miki e companheiros, mártires* · memorial — `paul_miki`
 - [x] 10 Feb · Saint Scholastica, virgin · *Santa Escolástica, virgem* · memorial — `scholastica`
-- [ ] 14 Feb · Ss Cyril, monk, and Methodius, bishop · *Santos Cirilo, monge, e Metódio, bispo* · feast
+- [x] 14 Feb · Ss Cyril, monk, and Methodius, bishop · *Santos Cirilo, monge, e Metódio, bispo* · feast — `cyril_methodius`
 - [x] 23 Feb · Saint Polycarp, bishop and martyr · *São Policarpo, bispo e mártir* · memorial — `polycarp`
 - [x] 7 Mar · Ss. Perpetua and Felicity, martyrs · *Santas Perpétua e Felicidade, mártires* · memorial — `perpetua_felicity`
 - [x] 19 Mar · Saint Joseph the Husband of Mary · *São José, Esposo da Bem-Aventurada Virgem Maria* · solemnity — `joseph`
-- [ ] 7 Apr · Saint John Baptist de la Salle, priest · *São João Batista de la Salle, presbítero* · memorial
+- [x] 7 Apr · Saint John Baptist de la Salle, priest · *São João Batista de la Salle, presbítero* · memorial — `john_baptist_de_la_salle`
 - [x] 11 Apr · Saint Stanislaus, bishop and martyr · *Santo Estanislau, bispo e mártir* · memorial — `stanislaus`
 - [x] 25 Apr · Saint Mark, Evangelist · *São Marcos, evangelista* · feast — `mark`
 - [x] 29 Apr · Saint Catherine of Siena, virgin and doctor of the Church · *Santa Catarina de Sena, virgem e doutora da Igreja* · feast — `catherine_siena`
@@ -183,7 +183,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 23 Aug · Saint Rose of Lima, virgin · *Santa Rosa de Lima, virgem* · optional-memorial — `rose_lima`
 - [ ] 25 Aug · Saint Louis of France · *São Luís de França* · optional-memorial
 - [ ] 25 Aug · Saint Joseph Calasanz, priest · *São José de Calazans, presbítero* · optional-memorial
-- [ ] 5 Sep · Saint Teresa of Calcutta, Virgin · *Santa Teresa de Calcutá, virgem* · optional-memorial
+- [x] 5 Sep · Saint Teresa of Calcutta, Virgin · *Santa Teresa de Calcutá, virgem* · optional-memorial — `teresa_calcutta`
 - [ ] 9 Sep · Saint Peter Claver, priest · *São Pedro Claver, presbítero* · optional-memorial
 - [ ] 17 Sep · Saint Robert Bellarmine, bishop and doctor of the Church · *São Roberto Belarmino, bispo e doutor da Igreja* · optional-memorial
 - [ ] 19 Sep · Saint Januarius, bishop and martyr · *São Januário, bi5po e mártir* · optional-memorial
@@ -220,12 +220,12 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 ### Named in the Roman Canon, not on the calendar
 
-- [ ] Linus
-- [ ] Cletus
-- [ ] Chrysogonus
-- [ ] John and Paul
-- [ ] Alexander
-- [ ] Anastasia
+- [x] Linus — `linus`
+- [x] Cletus — `cletus`
+- [x] Chrysogonus — `chrysogonus`
+- [x] John and Paul — `john_paul_martyrs`
+- [x] Alexander — `alexander`
+- [x] Anastasia — `anastasia`
 
 ### Brazil's own calendar
 

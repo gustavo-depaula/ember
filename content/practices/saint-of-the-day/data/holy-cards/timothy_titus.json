@@ -1,0 +1,44 @@
+{
+  "id": "timothy_titus",
+  "feast": {
+    "month": 1,
+    "day": 26
+  },
+  "name": {
+    "en-US": "Sts. Timothy and Titus",
+    "pt-BR": "Santos Timóteo e Tito"
+  },
+  "patronOf": {
+    "en-US": "Bishops, companions of St. Paul",
+    "pt-BR": "Bispos, companheiros de São Paulo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Go into all the world, and proclaim the Gospel.",
+    "pt-BR": "Ide pelo mundo inteiro e anunciai o Evangelho!"
+  },
+  "meta": {
+    "face": "Timothy (left): a slender young man of about twenty-five with a slim, narrow face and a gently pointed chin — a slender, straight nose, gentle, slightly hooded hazel eyes, thin, faintly arched brows, smooth cheeks and a soft, small mouth; short straight light-brown hair with a soft fringe, a sparse, short, fair-brown beard rounded along the jaw, and a gentle, slightly lowered gaze. Titus (right): a clean-shaven man of about forty-five with a square face — a broad, flat forehead, a short, straight nose with a broad bridge, narrow, deep-set dark eyes under thick straight black brows that nearly meet, flat cheeks, a strong square jaw and a wide, thin-lipped mouth; olive complexion, black hair cut short in a straight Roman fringe with grey at the temples, and a steady, direct gaze. Not a beardless youth, not the thirties man with brown curls.",
+    "basis": "The Painter's Manual gives Titus as beardless and Timothy (on his Byzantine feast, 22 January) as young with a rounded beard; Titus is made older because he was already Paul's companion at the Jerusalem meeting (Gal 2:1), before Timothy joined him (Acts 16:1), and Timothy's youth is from 1 Tim 4:12.",
+    "excerpt": "content/of/formularies/sanctoral/01-26.json communionAntiphon, first line",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), pp. 315 (Titus) and 392 (Timothy, 22 January)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikimedia Commons, Saint Timothy (icon)",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Timothy.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Fresco of Saint Titos",
+        "url": "https://commons.wikimedia.org/wiki/File:Fresco_of_Saint_Titos.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-3.md."
+      }
+    ]
+  }
+}

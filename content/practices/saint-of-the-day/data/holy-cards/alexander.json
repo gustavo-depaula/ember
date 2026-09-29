@@ -1,0 +1,44 @@
+{
+  "id": "alexander",
+  "feast": {
+    "month": 5,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Alexander",
+    "pt-BR": "Santo Alexandre"
+  },
+  "patronOf": {
+    "en-US": "Pope and martyr",
+    "pt-BR": "Papa e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "On the day before he was to suffer, he took bread in his holy and venerable hands.",
+    "pt-BR": "Na véspera de sua paixão, ele tomou o pão em suas santas e veneráveis mãos."
+  },
+  "meta": {
+    "face": "A clean-shaven young man of about thirty with a smooth oval face — a long, straight nose running down from the brow on a narrow bridge, large dark almond-shaped eyes under high, arched brows, smooth cheekbones, a small rounded chin and a small, full mouth; short chestnut hair combed forward in a straight fringe, and a serene, open gaze. Straight hair, not curls.",
+    "basis": "The 8th-century fresco of 'Sanctus Alexander Papa' in Santa Maria Antiqua, Rome: a beardless young pope with short hair, large eyes, a white pallium and a jewelled book. The Breviary lesson gives the Qui pridie and the holy water.",
+    "excerpt": "content/of/order/order-of-mass.json, Roman Canon (Eucharistic Prayer I), institution narrative (en-US lines 106 and 108, pt-BR lines 103 and 105, rubrics omitted); the Roman Breviary lesson for 3 May credits him with adding 'Qui pridie quam pateretur' to the Canon",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Sanctus Alexander Papa, Santa Maria Antiqua",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanctus_Alexander_Papa_Sancta_Maria_Antiqua(cropped).jpg"
+      },
+      {
+        "title": "Divinum Officium, Breviary lesson for Sts. Alexander, Eventius and Theodulus, 3 May",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/05-03r.txt"
+      },
+      {
+        "title": "Catholic Encyclopedia (1913), Pope St. Alexander I",
+        "url": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_St._Alexander_I"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-3.md; regenerated once because the first draft's frame drifted from the set."
+      }
+    ]
+  }
+}

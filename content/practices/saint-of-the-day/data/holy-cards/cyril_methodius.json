@@ -1,0 +1,44 @@
+{
+  "id": "cyril_methodius",
+  "feast": {
+    "month": 2,
+    "day": 14
+  },
+  "name": {
+    "en-US": "Sts. Cyril and Methodius",
+    "pt-BR": "Santos Cirilo e Metódio"
+  },
+  "patronOf": {
+    "en-US": "Apostles of the Slavs, patrons of Europe",
+    "pt-BR": "Apóstolos dos eslavos, padroeiros da Europa"
+  },
+  "prayerExcerpt": {
+    "en-US": "These are holy men who became friends of God, glorious heralds of divine truth.",
+    "pt-BR": "Estes são homens santos, que se tornaram amigos de Deus, gloriosos arautos da verdade divina."
+  },
+  "meta": {
+    "face": "Cyril (left): a thin, pale, scholarly man of about forty with an inverted-triangle face — a tall, broad forehead under the monastic hood narrowing sharply to the chin; a long, slender, slightly hooked nose; large, dark, prominent, intelligent eyes under straight black brows; smooth, flat cheeks; a small, thin mouth; a long, narrow black beard and a calm, inward gaze. Methodius (right): a man of about sixty with a broad, heavy, trapezoid face, wider at the jaw than at the brow — a large nose with a broad, fleshy, rounded tip; small, kind eyes creased at the corners under heavy dark eyebrows; full cheeks; a heavy jaw under the beard; a full mouth; a long, full iron-grey beard with darker streaks and a kindly, fatherly gaze. Methodius's beard is grey, not white.",
+    "basis": "Eastern and Western tradition (the 1848 Troyan Monastery fresco by Zahari Zograf, Matejko's 1885 painting) shows the younger Cyril with a dark beard and the elder Methodius with a grey or white one; Methodius was the elder brother, and Cyril, the monk, died at about forty-two in Rome in 869.",
+    "excerpt": "content/of/formularies/sanctoral/02-14.json entranceAntiphon (pt-BR three lines joined)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Zahari Zograf, Sts. Cyril and Methodius, Troyan Monastery (1848)",
+        "url": "https://commons.wikimedia.org/wiki/File:Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Jan Matejko, Sts. Cyril and Methodius (1885)",
+        "url": "https://commons.wikimedia.org/wiki/File:%C5%9Awi%C4%99ci_Cyryl_i_Metody_Jan_Matejko.jpg"
+      },
+      {
+        "title": "Wikipedia, Saints Cyril and Methodius",
+        "url": "https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-3.md; the first draft's scroll showed made-up Cyrillic letters, so it was regenerated with ornament only."
+      }
+    ]
+  }
+}

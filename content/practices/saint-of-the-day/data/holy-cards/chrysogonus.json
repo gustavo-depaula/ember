@@ -1,0 +1,44 @@
+{
+  "id": "chrysogonus",
+  "feast": {
+    "month": 11,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Chrysogonus",
+    "pt-BR": "São Crisógono"
+  },
+  "patronOf": {
+    "en-US": "Martyr, teacher of St. Anastasia",
+    "pt-BR": "Mártir, mestre de Santa Anastácia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Him who is truly God I worship in mind and in prayer.",
+    "pt-BR": "Aquele que é verdadeiramente Deus, eu o venero com a mente e com a oração."
+  },
+  "meta": {
+    "face": "A man of about forty-five with a compact, square face and a low forehead — a nose with a flattened bridge and a broad tip; narrow, wide-set dark eyes under straight, low brows; wide, flat cheekbones; a strong, wide jaw with a dimpled chin; a thin, firm mouth; close-cropped iron-grey hair, a short, square-trimmed black beard streaked with grey, and a calm, resolute gaze. Clearly older and heavier-built than George and Martin.",
+    "basis": "Before the 14th century Chrysogonus was shown as a high-ranking Roman officer in cloak and cuirass (christianiconography.info), later as a knight (Giambono, San Trovaso, c. 1444); no source gives his features, so the age and grey are chosen to keep him apart from the young soldier saints.",
+    "excerpt": "Roman Breviary (pre-1960), lesson for St. Chrysogonus, 24 November: 'Ego eum, qui vere est Deus, mente et oratione veneror' (his answer to Diocletian), translated; Divinum Officium horas/Latin/Sancti/11-24o.txt",
+    "sources": [
+      {
+        "title": "christianiconography.info, St. Chrysogonus",
+        "url": "https://www.christianiconography.info/chrysogonus.html"
+      },
+      {
+        "title": "Wikimedia Commons, Michele Giambono, St. Chrysogonus on horseback, San Trovaso",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Trovaso_(Venice)_-_San_Cris%C3%B3gono_a_caballo_-_Michele_Giambono.jpg"
+      },
+      {
+        "title": "Divinum Officium, Breviary lesson for St. Chrysogonus, 24 November",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/11-24o.txt"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-3.md."
+      }
+    ]
+  }
+}
