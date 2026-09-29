@@ -1,0 +1,415 @@
+{
+  "batch": 6,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-6.md",
+  "cards": [
+    {
+      "id": "john_of_god",
+      "letter": "J",
+      "feast": {
+        "month": 3,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. John of God",
+        "pt-BR": "São João de Deus"
+      },
+      "patronOf": {
+        "en-US": "Patron of the sick and of hospitals",
+        "pt-BR": "Padroeiro dos doentes e dos hospitais"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that, giving ourselves to works of charity, we may merit to be found among the elect in your Kingdom.",
+        "pt-BR": "Concedei-nos que, praticando as obras de caridade, mereçamos ser contados entre os eleitos no vosso Reino."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/03-08.json collect (petition; \"we pray\" dropped in en-US, \"Ó Deus… de São João de Deus\" dropped in pt-BR)",
+      "subject": "A Hospitaller brother in a plain, coarse dark grey-brown habit of rough wool with a hood lying on the shoulders, girded with a cord, half-length, walking barefoot. In his right hand he holds up a pomegranate crowned with a small cross (the arms of Granada, his attribute); over his left shoulder hang two small alms baskets on a cord. Behind him the city of Granada at dusk: the red walls and towers of the Alhambra on the hill, the snow of the Sierra Nevada, and an arched hospital doorway with a lamp. Keep the scene inside the arched window.",
+      "face": "A lean, ascetic Portuguese-Spanish man of about fifty with an olive complexion and a long, angular face — a high, bare forehead with a pronounced baldness over the crown and short dark hair only at the sides and back, a long, straight nose with a slight hook at the bridge, dark, deep-set eyes under strongly arched dark brows, sharp, angular cheekbones over hollow cheeks, a narrow mouth; a thin dark moustache and a short, sparse dark beard only on the chin, and eyes lowered with grave compassion.",
+      "refs": [
+        "vincent_de_paul",
+        "francis_assisi",
+        "anthony_padua"
+      ],
+      "basis": "Pedro de Raxis the Elder, who may have known him, painted the portrait (Casa de los Pisa, Granada) that fixed his type: a long, angular, ascetic face, a balding head and a thin moustache and small beard; the seventeenth-century statues follow it. The pomegranate with a cross and the Granada setting come from his tradition.",
+      "sources": [
+        {
+          "title": "Romero Dorado & Moreno Arana, Luisa Roldán: un San Juan de Dios perdido reencontrado, Norba 42 (2022)",
+          "url": "https://doi.org/10.17398/2660-714X.42.437"
+        },
+        {
+          "title": "Wikipedia, John of God (portrait and life)",
+          "url": "https://en.wikipedia.org/wiki/John_of_God"
+        },
+        {
+          "title": "Wikimedia Commons, John of God (Raxis-type portrait, Cano, Murillo)",
+          "url": "https://commons.wikimedia.org/wiki/Category:John_of_God"
+        }
+      ],
+      "catalogMatch": "Saint John of God"
+    },
+    {
+      "id": "cyril_jerusalem",
+      "letter": "C",
+      "feast": {
+        "month": 3,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Cyril of Jerusalem",
+        "pt-BR": "São Cirilo de Jerusalém"
+      },
+      "patronOf": {
+        "en-US": "Bishop and Doctor of the Church",
+        "pt-BR": "Bispo e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant us that we may so acknowledge your Son as to have life ever more abundantly.",
+        "pt-BR": "Concedei-nos conhecer vosso Filho de tal modo que tenhamos a vida em plenitude."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/03-18.json collect (petition; \"through his intercession\" dropped in both)",
+      "subject": "An Eastern bishop in a pale blue phelonion with a white omophorion marked with large black crosses, half-length, bareheaded, teaching: his right hand raised in blessing, his left holding an open book of his catecheses against his chest. Behind him Jerusalem in the morning: the domed rotunda of the Anastasis (the Holy Sepulchre), the stone houses of the city and the Mount of Olives with olive trees. Keep the scene inside the arched window.",
+      "face": "A vigorous man of about sixty-five with a wide, rectangular face — a strong, flat brow and a broad, square-set jaw under the beard; a broad, straight nose; wide-set grey eyes under bushy, dark-grey brows; flat, broad cheekbones; a firm, wide mouth; short iron-grey hair receding high at the temples with a small tuft left at the front; a thick, ROUNDED beard of iron-grey streaked with dark hair, trimmed to a rounded edge at the collarbone (not white, not long, not pointed); a steady, kindly teacher's gaze toward the viewer.",
+      "refs": [
+        "athanasius",
+        "nicholas",
+        "ambrose"
+      ],
+      "basis": "Dionysius of Fourna's Painter's Manual gives him as an old man with a rounded beard; Russian icons show the pale phelonion and the book. The iron-grey beard and hair keep him apart from the white-bearded bishops (Athanasius, Nicholas).",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845): \"Saint Cyrille de Jérusalem : vieillard, barbe arrondie\"",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Wikipedia, Cyril of Jerusalem (icon)",
+          "url": "https://en.wikipedia.org/wiki/Cyril_of_Jerusalem"
+        }
+      ],
+      "catalogMatch": "Saint Cyril of Jerusalem"
+    },
+    {
+      "id": "francis_paola",
+      "letter": "F",
+      "feast": {
+        "month": 4,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Francis of Paola",
+        "pt-BR": "São Francisco de Paula"
+      },
+      "patronOf": {
+        "en-US": "Hermit, founder of the Minims",
+        "pt-BR": "Eremita, fundador dos Mínimos"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, exaltation of the lowly, grant that we may happily attain the rewards promised to the humble.",
+        "pt-BR": "Ó Deus, grandeza dos pequenos, concedei-nos alcançar com alegria o prêmio prometido aos humildes."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-02.json collect (address and petition; relative clause and \"by his merits and example\" dropped)",
+      "subject": "A hermit of the Minims in a coarse, dark brown-black habit with the HOOD UP over the head and a short rounded capuce over the shoulders, a knotted cord at the waist, half-length, leaning on a rough knotted wooden staff with his right hand. In his left hand he holds up a golden sun disc with straight rays (the CHARITAS emblem, shown as a plain radiant disc with NO letters or lettering). Behind him the rocky Calabrian coast at Paola above the Strait of Messina, a small stone hermitage among chestnut trees, and across the blue water the hills of Sicily with Etna faint in the distance. Keep the scene inside the arched window.",
+      "face": "A very old but robust hermit of about seventy-five with a BROAD, SQUARE, weathered face seen in the shadow of the hood — a low, wide forehead, a short, broad, slightly flattened nose, small, kindly, deep-set brown eyes under heavy, bushy dark-grey brows, full, ruddy, rounded cheeks, a wide, full-lipped mouth; no hair visible under the hood; a full, BROAD, squared-off grey beard of medium length, streaked with dark, covering the chin like a spade (NOT long, thin or wispy), and a warm, steady, fatherly gaze out at the viewer. Nothing gaunt or hollow-cheeked.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "vincent_de_paul"
+      ],
+      "basis": "He lived to ninety-one; the paintings after his death (Tiepolo's altarpiece among them) show a gaunt, hooded old hermit with a long grey beard and a staff, holding or beneath the CHARITAS sun. The hood and the forked wispy beard keep him apart from the bareheaded elders.",
+      "sources": [
+        {
+          "title": "Wikipedia, Francis of Paola (life and emblem)",
+          "url": "https://en.wikipedia.org/wiki/Francis_of_Paola"
+        },
+        {
+          "title": "Wikimedia Commons, Francis of Paola (Tiepolo altarpiece and others)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Francis_of_Paola"
+        }
+      ],
+      "catalogMatch": "Saint Francis of Paola"
+    },
+    {
+      "id": "vincent_ferrer",
+      "letter": "V",
+      "feast": {
+        "month": 4,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Vincent Ferrer",
+        "pt-BR": "São Vicente Ferrer"
+      },
+      "patronOf": {
+        "en-US": "Preacher of the Last Judgment",
+        "pt-BR": "Pregador do Juízo Final"
+      },
+      "prayerExcerpt": {
+        "en-US": "When the Judge comes, may we be among those blessed to behold him reigning in heaven.",
+        "pt-BR": "Concedei-nos a alegria de contemplar, reinando no céu, aquele cuja vinda, como juiz, foi por ele anunciada na terra."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-05.json collect (petition; en-US clauses reordered into a wish)",
+      "subject": "A Dominican friar in the white habit and white scapular under a black cappa (cloak), half-length, preaching: his right forefinger raised high toward heaven, his left hand holding a closed book against his side; a pair of large, soft white-and-gold angel WINGS rises from his shoulders behind him (the Angel of the Apocalypse). A small flame of light above his head. Behind him Valencia: the Gothic cathedral with the octagonal Micalet bell tower, palm trees and orange groves. Keep the wings and the scene inside the arched window.",
+      "face": "A man of about sixty, clean-shaven, with a long, full oval face and a smooth, broad forehead — a long, straight nose with a fleshy, rounded tip, large dark, heavy-lidded eyes under high, rounded arched brows, full, smooth cheeks, a small, firm mouth and a full, rounded chin; greying dark hair in a thick Dominican corona around the shaven crown; an intent, earnest gaze toward the viewer.",
+      "refs": [
+        "dominic",
+        "thomas_aquinas",
+        "catherine_siena"
+      ],
+      "basis": "Joan de Joanes's sixteenth-century Valencian portrait fixed his type: a clean-shaven, full oval face with a long nose and heavy-lidded eyes, the tonsure, the raised finger and the book. The wings are his title as the Angel of the Apocalypse (Rev 14:6–7); the older, greying face keeps him apart from the young Dominic and Thomas.",
+      "sources": [
+        {
+          "title": "Wikipedia, Vincent Ferrer (Joan de Joanes portrait)",
+          "url": "https://en.wikipedia.org/wiki/Vincent_Ferrer"
+        },
+        {
+          "title": "Wikimedia Commons, Saint Vincent Ferrer (Joan de Joanes portrait and others)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Saint_Vincent_Ferrer"
+        }
+      ],
+      "catalogMatch": "Saint Vincent Ferrer"
+    },
+    {
+      "id": "anselm",
+      "letter": "A",
+      "feast": {
+        "month": 4,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Anselm",
+        "pt-BR": "Santo Anselmo"
+      },
+      "patronOf": {
+        "en-US": "Archbishop and Doctor of the Church",
+        "pt-BR": "Arcebispo e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "May our faith in you so aid our understanding.",
+        "pt-BR": "Fazei que a fé venha em auxílio de nossa inteligência."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-21.json collect (petition clause, turned into a wish in en-US)",
+      "subject": "A Benedictine monk-archbishop in a black monastic cowl with a white woollen pallium marked with black crosses over his shoulders, bareheaded, half-length, holding a gilded archbishop's crosier in his left hand and an open manuscript book in his right, looking up from it in thought. Behind him Canterbury: the pale stone cathedral with its towers, green Kentish fields and a cloister arcade. Keep the scene inside the arched window.",
+      "face": "A man of about seventy with a long, high-domed head and a long, bony face — a very high, receding forehead with a deep brow, a strong, prominent aquiline nose with a high bridge, deep-set, pale eyes under a heavy brow ridge with thin grey brows, hollow cheeks, a long upper lip and a jutting chin; thin, straight grey hair left long behind the ears, falling to the nape; a very short, close-cropped grey beard along the jaw and chin (not full); a quiet, thoughtful gaze lifted from the book.",
+      "refs": [
+        "benedict",
+        "augustine",
+        "ambrose"
+      ],
+      "basis": "No likeness survives from life. André Thevet's engraved portrait (1584) gives the type followed here: a high, receding forehead, a strong aquiline nose, hollow cheeks, long grey hair at the nape and a short stubble beard; the black Benedictine habit and pallium are his as monk of Bec and archbishop of Canterbury.",
+      "sources": [
+        {
+          "title": "Wikipedia, Anselm of Canterbury (Thevet engraving)",
+          "url": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury"
+        },
+        {
+          "title": "Wikimedia Commons, Anselm of Canterbury (Chester Cathedral window and others)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Anselm_of_Canterbury"
+        }
+      ],
+      "catalogMatch": "Saint Anselm"
+    },
+    {
+      "id": "louis_de_montfort",
+      "letter": "L",
+      "feast": {
+        "month": 4,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Louis de Montfort",
+        "pt-BR": "São Luís Maria Grignion de Montfort"
+      },
+      "patronOf": {
+        "en-US": "Apostle of true devotion to Mary",
+        "pt-BR": "Apóstolo da verdadeira devoção a Maria"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is by Mary that the salvation of the world has begun, and it is by Mary that it must be consummated.",
+        "pt-BR": "Foi por Maria que começou a salvação do mundo, e é por Maria que ela deve ser consumada."
+      },
+      "excerptSource": "St. Louis de Montfort, True Devotion to the Blessed Virgin 49, tr. F. W. Faber (1863), https://archive.org/details/bub_gb_OccCAAAAQAAJ; pt-BR our rendering (no formulary text in the repo for 04-28)",
+      "subject": "A French missionary priest in a worn black cassock with white bands (rabat) at the collar, bareheaded, half-length; a large rosary hangs from his belt, a crucifix is held to his chest in his right hand, and in his left he carries a small painted wooden statuette of the Virgin and Child. A plain pilgrim's staff leans against his shoulder. Behind him the flat green countryside of the Vendée and Brittany: hedged fields, a small granite church, and on a low hill a great wooden Calvary with a crowd of tiny figures building it (Pontchâteau). Keep the scene inside the arched window.",
+      "face": "A tall, robust man of about forty, clean-shaven, with ruddy cheeks and a LONG face — a broad, high forehead, a strong aquiline nose, large, lively dark eyes lowered modestly, dark, straight brows, firm cheekbones, a wide, gentle mouth and a rather long chin; chestnut hair cut very short, lying flat and falling a little onto the top of the forehead; a look of grandeur and goodness together.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "alphonsus_liguori"
+      ],
+      "basis": "Besnard's early Life gives a portrait from those who knew him: above middle height, robust, ruddy cheeks, a long face, a broad high forehead, large lively but modest eyes, an aquiline nose, a rather long chin and very short, flat chestnut hair. Daniel records the crucifix and the small statue of Mary he always carried.",
+      "sources": [
+        {
+          "title": "Henri Daniel, Saint Louis-Marie Grignion de Montfort (1967), quoting Besnard, Vie, book VIII",
+          "url": "https://en.wikipedia.org/wiki/Louis_de_Montfort"
+        },
+        {
+          "title": "Montfort, A Treatise on the True Devotion to the Blessed Virgin, tr. Faber (1863)",
+          "url": "https://archive.org/details/bub_gb_OccCAAAAQAAJ"
+        }
+      ],
+      "catalogMatch": "Saint Louis Grignion de Montfort"
+    },
+    {
+      "id": "pius_v",
+      "letter": "P",
+      "feast": {
+        "month": 4,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Pius V",
+        "pt-BR": "São Pio V"
+      },
+      "patronOf": {
+        "en-US": "Pope of the Rosary",
+        "pt-BR": "Papa do Rosário"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that we may participate in your mysteries with lively faith and fruitful charity.",
+        "pt-BR": "Concedei-nos participar dos vossos mistérios com fé ardente e fecunda caridade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-30.json collect (petition; \"through his intercession\" dropped)",
+      "subject": "A pope dressed ALL IN WHITE: a white cassock of the Dominican white he kept as pope, a white shoulder cape and a white zucchetto, a gold pectoral cross, half-length; a long rosary of dark beads wound in his joined hands, which hold a small crucifix. Behind him a window of the Vatican palace open onto the Roman sky, the hills of Rome and, far beyond, a calm sea with a few distant galleys (Lepanto, 1571). No red. Keep the scene inside the arched window.",
+      "face": "A thin, ascetic man of about sixty-six with a gaunt, long face — a bald, high, bony forehead under the zucchetto, a long, prominent aquiline nose with a sharp bridge, dark, deep-set eyes under heavy, arched grey brows, hollow cheeks under high cheekbones; a full WHITE beard of medium length, trimmed square below the chin, with a white moustache; a grave, prayerful gaze lowered toward the rosary.",
+      "refs": [
+        "gregory_great",
+        "charles_borromeo",
+        "dominic"
+      ],
+      "basis": "Bartolomeo Passarotti's portrait from life shows a gaunt, bald old pope with a long aquiline nose, deep-set eyes and a full white beard. He kept the white Dominican habit as pope, and he tied the Rosary to Lepanto; the square medium beard keeps him apart from Cletus's long forked one.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Pius V (Passarotti portrait)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Pius_V"
+        },
+        {
+          "title": "Ludwig von Pastor, History of the Popes, vol. 18 (Pius V)",
+          "url": "https://archive.org/details/historyofpopesfr18past"
+        }
+      ],
+      "catalogMatch": "Saint Pius V"
+    },
+    {
+      "id": "bernardine_siena",
+      "letter": "B",
+      "feast": {
+        "month": 5,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Bernardine of Siena",
+        "pt-BR": "São Bernardino de Sena"
+      },
+      "patronOf": {
+        "en-US": "Preacher of the Holy Name of Jesus",
+        "pt-BR": "Pregador do Santo Nome de Jesus"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we ever be set aflame with the spirit of your love.",
+        "pt-BR": "Acendei sempre em nossos corações a chama da vossa caridade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-20.json collect (petition; en-US turned into a wish)",
+      "subject": "A small, slight Franciscan Observant friar in a grey-brown habit with a hood lying on the shoulders and a white knotted cord, half-length, holding up before him with both hands a wooden tablet bearing a golden sun: a flaming disc with wavy rays on a deep blue ground (a plain radiant disc, with NO letters, monogram or lettering on it). Behind him Siena: the shell-shaped Piazza del Campo, the Palazzo Pubblico with the tall Torre del Mangia, and Tuscan hills. Keep the scene inside the arched window.",
+      "face": "A small, gaunt man of about sixty-three, clean-shaven, with a thin, pointed face — a smooth, rounded bald crown with a thin fringe of short grey hair, a long, fine nose curving slightly down at the tip, large, heavy-lidded pale-brown eyes lowered in gentle concentration, sunken cheeks under prominent cheekbones, a small, thin-lipped mouth drawn slightly inward and a prominent, upward-curving chin; a mild, kindly, recollected expression.",
+      "refs": [
+        "bonaventure",
+        "anthony_padua",
+        "francis_assisi"
+      ],
+      "basis": "He is among the first saints with an authentic portrait: Pietro di Giovanni d'Ambrogio's panels, drawn from life and from the death mask, show a small, emaciated, beardless friar with a sunken mouth, a long nose and a prominent chin, holding the IHS sun. The tablet is shown without the monogram.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bernardino of Siena (portrait and iconography)",
+          "url": "https://en.wikipedia.org/wiki/Bernardino_of_Siena"
+        },
+        {
+          "title": "Pietro di Giovanni d'Ambrogio, portrait of St Bernardine (Commons category)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Bernardino_of_Siena"
+        }
+      ],
+      "catalogMatch": "Saint Bernardine of Siena"
+    },
+    {
+      "id": "christopher_magallanes",
+      "letter": "C",
+      "feast": {
+        "month": 5,
+        "day": 21
+      },
+      "name": {
+        "en-US": "Sts. Christopher Magallanes and Companions",
+        "pt-BR": "Santos Cristóvão Magalhães e companheiros"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Mexico",
+        "pt-BR": "Mártires do México"
+      },
+      "prayerExcerpt": {
+        "en-US": "Faithful to Christ the King even to the point of martyrdom.",
+        "pt-BR": "Fiéis a Cristo até o martírio."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-21.json collect (phrase)",
+      "subject": "Two Mexican priests side by side, half-length, both in black cassocks with a white Roman collar. Christopher (left, the elder) holds a small crucifix to his chest and a rosary in his hand; Agustín Caloca (right, the younger) holds a closed breviary and a martyr's palm. Calm and prayerful, no wounds or violence. Behind them the dry hills of northern Jalisco with scattered huisache trees and nopal cactus, the whitewashed adobe church of Totatiche with its bell tower, and a clear blue sky. Keep both figures and the scene inside the arched window.",
+      "face": "Christopher (left): a Mexican mestizo man of about fifty-eight with a warm brown complexion and a broad, full, square-jawed face — a wide forehead, thick, wavy black hair greying a little, combed up and back in a wave, a broad nose with a rounded tip, heavy-lidded dark eyes under thick, straight black brows, full cheeks, full lips, clean-shaven; a calm, serious, fatherly gaze toward the viewer. Agustín (right): a slim young man of about twenty-nine with a light-brown complexion and a narrow oval face — thick, dark hair cut short and parted at the side, a straight, slender nose, dark eyes under straight, level brows, ears set out a little, a small mouth and a narrow chin, clean-shaven; a gentle, earnest gaze. The two must look clearly different in age and build.",
+      "refs": [
+        "philip_james",
+        "vincent_de_paul",
+        "aloysius_gonzaga"
+      ],
+      "basis": "Studio photographs of both priests survive: Magallanes, parish priest of Totatiche, broad-faced and clean-shaven with thick wavy hair; Caloca, his young assistant, slim with short parted hair. They were killed together at Colotlán on 25 May 1927.",
+      "sources": [
+        {
+          "title": "Wikipedia, Cristóbal Magallanes Jara (photograph)",
+          "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Magallanes_Jara"
+        },
+        {
+          "title": "Wikipedia (es), Agustín Caloca Cortés (photograph)",
+          "url": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Caloca_Cort%C3%A9s"
+        },
+        {
+          "title": "Wikipedia, Saints of the Cristero War",
+          "url": "https://en.wikipedia.org/wiki/Saints_of_the_Cristero_War"
+        }
+      ],
+      "catalogMatch": "Saint Christopher Magallanes"
+    },
+    {
+      "id": "bede",
+      "letter": "B",
+      "feast": {
+        "month": 5,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Bede the Venerable",
+        "pt-BR": "São Beda, o Venerável"
+      },
+      "patronOf": {
+        "en-US": "Father of English history",
+        "pt-BR": "Pai da história inglesa"
+      },
+      "prayerExcerpt": {
+        "en-US": "May your servants always be enlightened by his wisdom.",
+        "pt-BR": "Concedei-nos sempre em vossa bondade a luz da sua sabedoria."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-25.json collect (petition; en-US turned into a wish)",
+      "subject": "A Benedictine monk in a black cowl with wide sleeves, half-length, seated at a slanted wooden writing desk, writing with a quill in an open vellum manuscript; an inkhorn and a few bound books beside him, a candle. Behind him, through the window, the stone monastery church of Jarrow on the River Tyne, green Northumbrian fields and a grey-blue sea sky. Keep the scene inside the arched window.",
+      "face": "A man of about sixty, clean-shaven, with a broad, flat-planed oval face — a wide forehead, a short, slightly upturned nose, pale blue eyes with fine crow's-feet under sandy-grey, softly arched brows, full, soft cheeks, a thin, wide mouth with a faint smile and a small rounded chin; a monastic tonsure with a neat ring of fair hair turned grey; eyes lowered to the page.",
+      "refs": [
+        "benedict",
+        "jerome",
+        "thomas_aquinas"
+      ],
+      "basis": "No likeness survives. The earliest images (a twelfth-century manuscript on e-codices) show him beardless and tonsured, writing; later paintings (Doyle Penrose) add a white beard, which would repeat Benedict and Jerome. The fair Anglo-Saxon colouring is an artistic choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bede (life and images)",
+          "url": "https://en.wikipedia.org/wiki/Bede"
+        },
+        {
+          "title": "Wikimedia Commons, Bede (manuscript image and Doyle Penrose)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Bede"
+        }
+      ],
+      "catalogMatch": "Saint Bede"
+    }
+  ]
+}
