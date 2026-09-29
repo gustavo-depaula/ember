@@ -21,6 +21,7 @@ import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
 import { getTranslationLanguage, suggestedTranslations } from '@/lib/bolls'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
+import { reloadDiscardingRuntimeErrors } from '@/lib/reload'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const themeOptions = [
@@ -289,7 +290,7 @@ function AppUpdateSection() {
 
   async function handlePress() {
     if (isUpdatePending) {
-      await Updates.reloadAsync()
+      await reloadDiscardingRuntimeErrors(Updates.reloadAsync)
       return
     }
     if (isUpdateAvailable) {

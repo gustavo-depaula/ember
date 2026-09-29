@@ -3,6 +3,7 @@ import { useEffect, useReducer } from 'react'
 import { Platform } from 'react-native'
 
 import { adaptNativeDb } from '@/lib/db-shared/native-adapter'
+import { reloadDiscardingRuntimeErrors } from '@/lib/reload'
 
 import { createEventsTable, replayAll } from './events'
 import { getDb, setDb } from './instance'
@@ -90,6 +91,6 @@ export async function resetDatabase() {
     const fs = require('expo-file-system') as typeof import('expo-file-system')
     const blobsDir = new fs.Directory(fs.Paths.document, 'blobs/')
     if (blobsDir.exists) blobsDir.delete()
-    await expo.reloadAppAsync('Database reset')
+    await reloadDiscardingRuntimeErrors(() => expo.reloadAppAsync('Database reset'))
   }
 }
