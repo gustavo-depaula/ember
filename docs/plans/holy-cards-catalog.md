@@ -522,7 +522,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] The Baptism of the Lord
 - [ ] Easter Sunday
 - [ ] The Ascension
-- [ ] Pentecost
+- [ ] Pentecost Sunday
 - [ ] The Most Holy Trinity
 - [ ] Corpus Christi
 - [ ] The Sacred Heart of Jesus

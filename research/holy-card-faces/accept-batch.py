@@ -50,6 +50,18 @@ for c in batch["cards"]:
     else:
         lines[hits[0]] = "- [x]" + line[5:] + f" — `{cid}`"
 
+    # Rosary mysteries that share a feast's card ("[ ] The Resurrection — shares Easter Sunday") tick with it.
+    for also in c.get("alsoTicks", []):
+        item = "[ ] " + also
+        hit = [i for i, l in enumerate(lines) if item in l]
+        if len(hit) != 1:
+            sys.exit(f"{cid}: alsoTicks {also!r} matched {len(hit)} lines")
+        l = lines[hit[0]]
+        start = l.index(item)
+        end = l.find(" · [", start)
+        end = len(l) if end == -1 else end
+        lines[hit[0]] = l[:start] + "[x]" + l[start + 3:end] + f" — `{cid}`" + l[end:]
+
 catalog.write_text("\n".join(lines))
 
 log = dir / "log.jsonl"

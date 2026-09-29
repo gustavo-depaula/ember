@@ -1,0 +1,415 @@
+{
+  "batch": 13,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-13.md",
+  "cards": [
+    {
+      "id": "anthony_zaccaria",
+      "letter": "A",
+      "feast": {
+        "month": 7,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Anthony Zaccaria",
+        "pt-BR": "Santo Antônio Maria Zaccaria"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Barnabites",
+        "pt-BR": "Fundador dos Barnabitas"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we pursue the surpassing knowledge of Jesus Christ.",
+        "pt-BR": "Concedei-nos, Senhor, o incomparável conhecimento de Jesus Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-05.json collect (en-US 'that ... we may pursue the surpassing knowledge of Jesus Christ' recast as a wish; pt-BR the opening words, verbatim, full stop added)",
+      "subject": "A young Lombard priest of 1539, half-length, in the plain black cassock of the Barnabites with its high, close collar and a narrow white edge of collar showing, turned a little to the right in three-quarter view; he holds a wooden crucifix upright in his right hand and a small white lily lies against his left arm; beside him, on a small draped altar, a gold monstrance with the Host in a soft glow, for the Forty Hours' adoration he spread. Behind him Cremona, his birthplace and the town where he died: the brick cathedral with its marble front and the very tall brick bell tower of the Torrazzo over red roofs, and the flat green Po plain under a clear evening sky. Keep the altar and the town inside the arched window.",
+      "face": "A pale, slender Lombard of about thirty-six with a LONG OVAL face in three-quarter view — a high forehead with the dark hair already receding at the temples, a long, straight, prominent nose with a slightly lowered tip, deep-set dark-brown eyes under straight dark brows drawn a little together, flat cheeks over a strong cheekbone, a firm, closed mouth; short dark-brown hair lying close to the head and behind the ear; a full dark-brown moustache and a dense dark-brown beard trimmed close on the cheeks and ending in a short, squared POINT below the chin; an intent, far-seeing gaze lifted to the right. Not a young long-haired Christ type: the hair is short and receding.",
+      "refs": [
+        "ignatius_loyola",
+        "francis_xavier",
+        "philip_neri"
+      ],
+      "basis": "The traditional portrait on Wikipedia, which we checked, shows a pale man in a high-collared black cassock in profile, with a receding hairline, a long nose, deep-set eyes and a dark beard ending in a point; he died at thirty-six in 1539. Cremona, the monstrance and the lily follow his life and the usual attributes.",
+      "sources": [
+        {
+          "title": "Wikipedia, Anthony Maria Zaccaria (lead portrait consulted)",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria"
+        },
+        {
+          "title": "Commons, San Antonio Maria Zaccaria.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:San_Antonio_Maria_Zaccaria.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Anthony Zaccaria"
+    },
+    {
+      "id": "augustine_zhao_rong",
+      "letter": "A",
+      "feast": {
+        "month": 7,
+        "day": 9
+      },
+      "name": {
+        "en-US": "Sts. Augustine Zhao Rong and Companions",
+        "pt-BR": "Santos Agostinho Zhao Rong e companheiros"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of China",
+        "pt-BR": "Mártires da China"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, who have strengthened your Church through the confession of the Martyrs.",
+        "pt-BR": "Ó Deus, revigorastes vossa Igreja pelo testemunho dos santos mártires."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-09.json collect (the address, with 'in your wonderful providence' / 'em vosso admirável desígnio' and the names dropped; otherwise verbatim in both languages)",
+      "subject": "Three Chinese martyrs of the Qing dynasty, half-length, SIDE BY SIDE, each holding a green palm branch, in authentic Qing-era Chinese dress (no Western clothes). Centre: Augustine Zhao Rong, the first Chinese diocesan priest (d. 1815), in a long dark-blue Chinese scholar's robe (changshan) with a high round collar and wide sleeves, a small black round cap, holding a small wooden cross and a string of rosary beads. Left: Lucy Yi Zhenmei, lay catechist of Guizhou (d. 1862), in a long, high-collared indigo cotton jacket fastened at the side with cloth knots over a dark skirt, her hair drawn back into a neat low bun, holding a small book of catechism against her breast. Right: Chi Zhuzi, a catechumen of eighteen (d. 1900), in a plain faded-blue cotton jacket with cloth-knot buttons, his forehead shaved and his long black hair in a single braided queue over his shoulder, his free hand laid on his breast. Behind them the green terraced hills and misty limestone peaks of south-west China (Guizhou and Sichuan), a small village with grey-tiled upturned roofs and a modest whitewashed chapel with a plain cross. No wounds, no chains, no executioners, no gore. Keep all three figures inside the arched window.",
+      "face": "Three clearly different Chinese people, authentically East Asian (Han Chinese), none Westernised. Augustine Zhao Rong (centre): a former soldier of about sixty-nine with a weathered, warm-brown complexion and a BROAD, SQUARE face with a strong, wide jaw — a broad, flat forehead (the front of the head shaved in the Qing manner, grey hair drawn back into a queue), wide, flat cheekbones, a broad, low-bridged nose, narrow, deep-lidded dark eyes with calm crow's-feet, thin straight grey brows, a wide, firm mouth; a thin, drooping grey moustache and a short, sparse grey chin beard; a steady, grave, fatherly gaze. Lucy Yi Zhenmei (left): a woman of about forty-five with a pale golden complexion and a SMOOTH OVAL face with a gently rounded chin — a high, smooth forehead, fine, arched black brows, calm, almond-shaped dark eyes with single eyelids, a small, straight nose, a small, composed mouth; black hair parted in the middle and smoothed back into a low bun; a serene, gentle look lowered a little. Chi Zhuzi (right): a lean youth of eighteen, clean-shaven, with a golden-tan complexion and a NARROW, angular face — high cheekbones, a narrow, pointed chin, a slim, straight nose with a low bridge, bright, narrow dark eyes with single eyelids under straight black brows, a firm young mouth; shaved forehead and a long black queue; an eager, fearless look lifted upward.",
+      "refs": [
+        "philip_james",
+        "francis_xavier",
+        "rose_lima"
+      ],
+      "basis": "No likeness of Zhao Rong survives; modern glass gives him a Western face and a biretta, which we set aside for a Qing-era Chinese priest of about sixty-nine who had been a soldier. Lucy Yi Zhenmei and Chi Zhuzi (eighteen) are two of his canonised companions of 1862 and 1900, chosen to show a priest, a woman catechist and a young layman; the faces and the Guizhou-Sichuan setting are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Augustine Zhao Rong",
+          "url": "https://en.wikipedia.org/wiki/Augustine_Zhao_Rong"
+        },
+        {
+          "title": "Vatican, Augustine Zhao Rong and 119 companions (biographies; Chi Zhuze aged 18)",
+          "url": "https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20001001_zhao-rong-compagni_en.html"
+        },
+        {
+          "title": "Wikipedia, Martyr Saints of China (Lucy Yi Zhenmei, lay catechist, Guizhou 1862)",
+          "url": "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+        },
+        {
+          "title": "Commons, Saint Augustine Tchao (stained glass, consulted)",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_Tchao.png"
+        }
+      ],
+      "catalogMatch": "Ss. Augustine Zhao Rong, and Companions"
+    },
+    {
+      "id": "henry",
+      "letter": "H",
+      "feast": {
+        "month": 7,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Henry",
+        "pt-BR": "Santo Henrique"
+      },
+      "patronOf": {
+        "en-US": "Holy Roman Emperor",
+        "pt-BR": "Imperador do Sacro Império"
+      },
+      "prayerExcerpt": {
+        "en-US": "Amid the uncertainties of this world may we hasten towards you with minds made pure.",
+        "pt-BR": "Entre as vicissitudes deste mundo, corramos ao vosso encontro com pureza de coração."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-13.json collect (final clause; en-US 'that amid ... we may hasten' recast as a wish, pt-BR verbatim, capitalised)",
+      "subject": "The Ottonian emperor Henry II (d. 1024), half-length, in the dress of the Regensburg Sacramentary: a long golden-yellow tunic edged with jewelled bands, a deep-blue imperial mantle clasped on the right shoulder, and a gold, jewel-set eight-plated crown with a small arch and cross; in his left arm a small model of Bamberg Cathedral with its towers (the church he founded), in his right hand a slender gold sceptre topped with a lily. Behind him Bamberg on its hills above the river Regnitz: the four-towered cathedral on the cathedral hill, the Michaelsberg abbey on the next hill, green Franconian slopes and a summer sky. No sword drawn, no battle. Keep the model and the town inside the arched window.",
+      "face": "A German prince of about forty-five with a fair, ruddy complexion and a SHORT, BROAD, HEART-SHAPED face — a wide, rounded forehead and full, wide cheeks tapering to a small, rounded chin under the beard; a short, straight nose with a rounded tip; wide-set, light hazel eyes under gently arched light-brown brows; a small, full mouth; chestnut-brown hair cut level at the ears in the Ottonian manner beneath the crown; a short, rounded chestnut beard and moustache trimmed close to the jaw; a mild, earnest, devout look. Not the stock thirties man with curls: straight, level-cut hair and a heart-shaped face.",
+      "refs": [
+        "elizabeth_hungary",
+        "charles_borromeo",
+        "ambrose"
+      ],
+      "basis": "The coronation page of the Regensburg Sacramentary (1002-14), made for him in his lifetime, shows Henry crowned, in a golden tunic and blue mantle, with brown hair cut at the ears and a short dark beard. He died at fifty-one at Bamberg, whose diocese and cathedral he founded; the structure of the face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Henry II, Holy Roman Emperor (lead image: coronation page of the Regensburg Sacramentary, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+        },
+        {
+          "title": "Commons, Kronung Heinrich II.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Kronung_Heinrich_II.jpg"
+        }
+      ],
+      "catalogMatch": "13 Jul · Saint Henry"
+    },
+    {
+      "id": "apollinaris",
+      "letter": "A",
+      "feast": {
+        "month": 7,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Apollinaris",
+        "pt-BR": "Santo Apolinário"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Direct your faithful, Lord, in the way of eternal salvation.",
+        "pt-BR": "Senhor, conduzi os vossos fiéis no caminho da salvação eterna."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-20.json collect (opening clause, verbatim in both languages; full stop added)",
+      "subject": "The first bishop of Ravenna, half-length, as in the sixth-century apse mosaic of Sant'Apollinare in Classe: a long white tunic with dark stripes at the cuffs, over it a gold-green paenula (early chasuble) woven with small gold leaves, and a narrow white pallium with a small black cross; both hands raised open at shoulder height in the ancient orans gesture of prayer. Beside him two white lambs among white lilies and small green shrubs, as in the mosaic. Behind him Classe near Ravenna: the brick basilica of Sant'Apollinare in Classe with its tall round bell tower, the umbrella pines of the Pineta, the flat green plain toward the Adriatic, under a pale gold sky. No wounds, no martyrdom shown. Keep the lambs and the basilica inside the arched window.",
+      "face": "A Syrian-born bishop of about sixty with a warm olive complexion and a SHORT, WIDE-CHEEKED face under a FLAT, SQUARE forehead — broad, rounded cheekbones set high, a long, straight, narrow nose running down from a low bridge, large, round, wide-open dark eyes under level dark-grey brows, a small, closed mouth; thick, short white hair combed forward in a straight, even fringe low on the forehead, as in the mosaic; a short white beard and moustache narrowing to a neat POINT at the chin; a calm, wide-eyed, frontal gaze.",
+      "refs": [
+        "ambrose",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "The apse mosaic of Sant'Apollinare in Classe (c. 549), which we checked, shows him frontal in the orans gesture, with short white hair combed forward, large eyes and a short pointed white beard, between lambs among lilies. The Roman Martyrology's tradition makes him a Syrian, hence the olive complexion; the rest of the structure is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Apollinaris of Ravenna (lead image: the Classe mosaic, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna"
+        },
+        {
+          "title": "Commons, Saint Apollenaris.jpg (apse mosaic, Sant'Apollinare in Classe)",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Apollenaris.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Apollinaris, bishop and martyr"
+    },
+    {
+      "id": "eusebius_vercelli",
+      "letter": "E",
+      "feast": {
+        "month": 8,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Eusebius of Vercelli",
+        "pt-BR": "Santo Eusébio de Vercelli"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Vercelli",
+        "pt-BR": "Bispo de Vercelli"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lead us, Lord God, to imitate the constancy of Saint Eusebius in affirming the divinity of your Son.",
+        "pt-BR": "Senhor Deus, fazei-nos imitar a firmeza do bispo Santo Eusébio na proclamação da divindade de Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-02.json collect (opening clause, verbatim in both languages; full stop added)",
+      "subject": "A fourth-century bishop, half-length, in the dress of his time: a long white tunic, an ample dark-crimson paenula (early chasuble) and a narrow white pallium with small dark crosses; no mitre. He holds against his chest a thick open codex of the Gospels in Latin with purple-stained pages and silver lettering-like lines too small to read (the Codex Vercellensis, traditionally written by him), and a plain wooden pastoral staff with a curved top. Behind him Vercelli on the flat Piedmont plain, its early brick basilica and bell tower among poplars, and far off the white snowy wall of the Alps with Monte Rosa under a clear sky. No chains, no persecutors. No readable text. Keep the book and the town inside the arched window.",
+      "face": "A Sardinian of about sixty-five with a dark, sun-browned Mediterranean complexion and an OBLONG face under a HEAVY, PROMINENT BROW RIDGE — a straight, low forehead with two deep horizontal lines, deep-set, intense black eyes under thick, straight, dark-grey brows, a strong nose with a broad bridge and a rounded tip, lean cheeks with deep lines from nose to mouth, a wide, firm mouth; short, dense, tightly CURLED grey-black hair; a thick, short, dense iron-grey beard cut SQUARE at the jaw line; a resolute, unflinching gaze straight ahead.",
+      "refs": [
+        "athanasius",
+        "ambrose",
+        "augustine"
+      ],
+      "basis": "No likeness survives. He was a Sardinian, born about 283, who founded a clergy living in common at Vercelli and was exiled to Scythopolis, Cappadocia and the Thebaid for refusing to condemn Athanasius; the Codex Vercellensis in his cathedral was long believed to be his hand. The dark islander's face and its structure are our choice, made firm to fit the constancy the collect praises.",
+      "sources": [
+        {
+          "title": "Wikipedia, Eusebius of Vercelli",
+          "url": "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli"
+        },
+        {
+          "title": "Wikipedia, Codex Vercellensis",
+          "url": "https://en.wikipedia.org/wiki/Codex_Vercellensis"
+        }
+      ],
+      "catalogMatch": "Saint Eusebius of Vercelli"
+    },
+    {
+      "id": "pontian_hippolytus",
+      "letter": "P",
+      "feast": {
+        "month": 8,
+        "day": 13
+      },
+      "name": {
+        "en-US": "Sts. Pontian and Hippolytus",
+        "pt-BR": "Santos Ponciano e Hipólito"
+      },
+      "patronOf": {
+        "en-US": "Pope and priest, martyrs",
+        "pt-BR": "Papa e presbítero, mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "May the precious long-suffering of the just bring us a great increase of love for you.",
+        "pt-BR": "Senhor, que a admirável constância dos mártires São Ponciano e Santo Hipólito faça crescer em nós o desejo de vos amar."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-13.json collect (en-US first clause with 'O Lord, we pray,' dropped; pt-BR first clause verbatim; full stop added)",
+      "subject": "Two men of the Roman Church, exiled together in 235 to the mines of Sardinia and reconciled there, half-length, SIDE BY SIDE. Left: Pontian, the pope, in a plain long white tunic and a coarse undyed brown cloak of the exile over it, and over that a narrow white pallium with small dark crosses as his only mark of office; he holds a small plain wooden cross. Right: Hippolytus, the priest and learned writer, in a white tunic and a grey-blue Greek philosopher's pallium (cloak) wrapped over one shoulder, holding a rolled scroll; his other hand rests gently on Pontian's shoulder in sign of reconciliation. Behind them the rugged, dry hills of south-west Sardinia with dark mine openings cut into the rock, ochre spoil heaps, scrub and a few wild olives, and beyond them the blue Mediterranean under a hazy sky. No chains, no tools of torment, no guards, no gore. Keep both figures inside the arched window.",
+      "face": "Two clearly different men. Pontian (left, the pope): a Roman of about fifty with a ROUND, compact face and smooth, full cheeks — a low, rounded forehead, a short, broad, slightly upturned nose, round, warm brown eyes under soft, rounded brows, a small, gentle mouth, a round chin; close-cropped dark-brown hair greying at the temples and a short, neat, rounded dark beard; a humble, patient look. Hippolytus (right, the priest and scholar, older): a man of about sixty-five with a LONG, LEAN, HOLLOW-CHEEKED face and a high, bald crown — a tall, furrowed forehead, a long, thin, arched nose, narrow, heavy-lidded grey eyes under bushy, slanting grey brows, a thin-lipped mouth; long grey hair falling from the sides of the bald head to the nape; a long, flowing grey beard parted slightly at the chin, like an ancient philosopher; a thoughtful, searching gaze turned toward Pontian.",
+      "refs": [
+        "philip_james",
+        "augustine",
+        "gregory_great"
+      ],
+      "basis": "No likeness of either survives: the seated statue once taken for Hippolytus, found in 1551 and heavily restored, was originally a female figure. Both were exiled together in 235 to the mines of Sardinia, where they are thought to have been reconciled before dying, and Pope Fabian brought their bodies back to Rome; the two faces are our choice, one round and humble, one long and learned, the scroll marking the writer.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Pontian (exile to Sardinia, 235)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Pontian"
+        },
+        {
+          "title": "Wikipedia, Hippolytus of Rome (exile with Pontian; the 1551 statue)",
+          "url": "https://en.wikipedia.org/wiki/Hippolytus_of_Rome"
+        }
+      ],
+      "catalogMatch": "Ss. Pontian, pope, and Hippolytus"
+    },
+    {
+      "id": "john_eudes",
+      "letter": "J",
+      "feast": {
+        "month": 8,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. John Eudes",
+        "pt-BR": "São João Eudes"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Sacred Hearts",
+        "pt-BR": "Apóstolo dos Sagrados Corações"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, who wonderfully chose the Priest Saint John Eudes to proclaim the unfathomable riches of Christ.",
+        "pt-BR": "Ó Deus, de modo admirável escolhestes o presbítero São João Eudes para anunciar as insondáveis riquezas de Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-19.json collect (the address, verbatim in both languages; full stop added)",
+      "subject": "A seventeenth-century Norman priest, half-length, as in his old portrait: a black cassock and a black cloak, a wide, flat white collar (rabat) lying over the cassock, a black skullcap on the back of the head; in his right hand he holds up a red heart crowned with small flames and a small cross (the Heart of Jesus and Mary he preached), and in his left a small wooden crucifix. Behind him Caen in Normandy: the pale stone Abbaye aux Hommes with its two tall spires, slate roofs and a green Norman orchard under a soft grey-blue sky. No lettering on the heart. Keep the heart and the town inside the arched window.",
+      "face": "A Norman priest of about sixty-five with a fair, lightly ruddy complexion and a LONG, POINTED-OVAL face under a LARGE, SMOOTH BALD DOME — a high, rounded forehead, a narrow fringe of short grey hair above the ears, a long, straight nose with a gently rounded tip, heavy-lidded, half-lowered pale-grey eyes under thin, raised, arched grey brows, marked folds from the nose to the corners of the mouth, a thin mouth with a faint, knowing, kindly smile; a small grey moustache and a short, narrow grey GOATEE on the chin, the cheeks shaven; a shrewd, warm, faintly amused look toward the viewer.",
+      "refs": [
+        "vincent_de_paul",
+        "alphonsus_liguori",
+        "francis_xavier"
+      ],
+      "basis": "The seventeenth-century portrait on Wikipedia, which we checked, shows a bald old priest in a black cassock and white rabat with a small grey moustache and goatee, heavy-lidded eyes and a faint smile, holding a flaming heart and a crucifix. He was born in Normandy and founded his seminary and congregations at Caen, hence the background.",
+      "sources": [
+        {
+          "title": "Wikipedia, John Eudes (lead portrait consulted)",
+          "url": "https://en.wikipedia.org/wiki/John_Eudes"
+        },
+        {
+          "title": "Commons, JeanEudes.png",
+          "url": "https://commons.wikimedia.org/wiki/File:JeanEudes.png"
+        }
+      ],
+      "catalogMatch": "Saint John Eudes"
+    },
+    {
+      "id": "joseph_calasanz",
+      "letter": "J",
+      "feast": {
+        "month": 8,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Joseph Calasanz",
+        "pt-BR": "São José de Calasanz"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Pious Schools",
+        "pt-BR": "Fundador das Escolas Pias"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whoever obeys and teaches the commandments of the Lord will be called great in the Kingdom of Heaven.",
+        "pt-BR": "Quem observar e ensinar os mandamentos do Senhor será chamado grande no Reino dos Céus."
+      },
+      "excerptSource": "content/of/formularies/common/saints/sanct13.json entranceAntiphon (Common of Holy Men and Women, For Educators; en-US verbatim with 'says the Lord' and the paschal alleluia dropped; pt-BR is our faithful rendering, the file has no pt-BR). The calendar entry sanctorale.08-25.joseph-calasanz has no formulary in the repo",
+      "subject": "An old Aragonese priest in Rome, half-length, in the black habit and short black cape of the Piarists (Clerks Regular of the Pious Schools) with a narrow white collar and a black four-cornered biretta; his right hand is laid open on his breast as in the Prado portrait, his left rests on the shoulder of a small boy in a plain brown smock who holds a slate and a primer; a second small boy beside them holds a book. Behind them Rome near Piazza Navona: the ochre front of the little church of San Pantaleo with its school, Roman palaces and a dome against a warm late-afternoon sky. No readable writing on slate or book. Keep the children inside the arched window.",
+      "face": "A spare Aragonese of about eighty-five, old but alert, with a pale complexion and a LONG face, broad at the temples and narrowing to the jaw — a high, bald forehead under the biretta, prominent cheekbones over softly hollowed cheeks, a long, strong, slightly hooked nose, large, bright, gentle grey-brown eyes under thin, high-arched white brows raised in the middle, deep smile lines at the eyes, a thin mouth parted in a faint, kind smile; a SHORT, neatly trimmed white beard and moustache close to the jaw; a warm, fatherly look. Not the stock white-bearded elder: the beard is short and trimmed, the face long and bright-eyed.",
+      "refs": [
+        "alphonsus_liguori",
+        "vincent_de_paul",
+        "philip_neri"
+      ],
+      "basis": "The portrait in the Prado, which we checked, shows him old, bald under a black biretta, with a long face, large arched-browed eyes, a short trimmed white beard and a faint smile, his hand on his breast. He died in Rome at ninety in 1648 and is buried at San Pantaleo, where his first free school for poor boys was.",
+      "sources": [
+        {
+          "title": "Wikipedia, Joseph Calasanz (lead image: portrait, Museo del Prado, consulted)",
+          "url": "https://en.wikipedia.org/wiki/Joseph_Calasanz"
+        },
+        {
+          "title": "Commons, San José de Calasanz (Museo del Prado).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:San_Jos%C3%A9_de_Calasanz_(Museo_del_Prado).jpg"
+        }
+      ],
+      "catalogMatch": "Saint Joseph Calasanz"
+    },
+    {
+      "id": "john_leonardi",
+      "letter": "J",
+      "feast": {
+        "month": 10,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. John Leonardi",
+        "pt-BR": "São João Leonardi"
+      },
+      "patronOf": {
+        "en-US": "Priest and founder",
+        "pt-BR": "Presbítero e fundador"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Lord chose him as a priest for himself, to offer him a sacrifice of praise.",
+        "pt-BR": "O Senhor o escolheu como sacerdote para si, a fim de oferecer um sacrifício de louvor."
+      },
+      "excerptSource": "content/of/formularies/common/pastors/past7.json entranceAntiphon (Common of Pastors, For One Pastor; verbatim in both languages without the paschal alleluia; full stop added). The calendar entry sanctorale.10-09.john-leonardi has no formulary in the repo",
+      "subject": "A priest of Lucca around 1600, once a pharmacist, half-length, in a plain black cassock and a black mantle with a small white collar, his eyes raised to a small vision of Our Lady with the Child in a soft golden cloud in the upper corner (he founded the Clerks Regular of the Mother of God); he holds an open book of the Gospels against his chest, and on a ledge beside him stand a small bronze apothecary's mortar and pestle and a white-and-blue majolica jar, signs of his first trade. Behind him Lucca: its broad tree-lined walls, red roofs, the Guinigi tower with holm oaks growing on its top and the white marble front of San Michele in Foro, with the green Tuscan hills beyond under a clear sky. Keep the vision and the town inside the arched window.",
+      "face": "A Tuscan of about sixty-five with a warm, ruddy complexion and a BROAD, full, RECTANGULAR face — a high, broad, bald forehead with short grey hair left at the sides and a small tuft above, wide, rounded cheekbones, a short, broad, straight nose with a wide tip, round dark-brown eyes turned upward under thick, straight grey brows, a wide mouth with full lips; a short, thick grey moustache and a short, full grey beard trimmed ROUND along the broad jaw; an upturned, trusting, devout gaze.",
+      "refs": [
+        "philip_neri",
+        "alphonsus_liguori",
+        "vincent_de_paul"
+      ],
+      "basis": "The altarpiece on Wikipedia, which we checked, shows him in a black cassock with eyes raised to the Virgin and Child, balding with grey hair at the sides, a broad nose and a short grey beard. He trained as a pharmacist in Lucca before his ordination and died in Rome in 1609 at sixty-eight; the mortar and Lucca follow his life.",
+      "sources": [
+        {
+          "title": "Wikipedia, John Leonardi (lead image consulted)",
+          "url": "https://en.wikipedia.org/wiki/John_Leonardi"
+        },
+        {
+          "title": "Commons, SaintJeanLeonardi02.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:SaintJeanLeonardi02.jpg"
+        }
+      ],
+      "catalogMatch": "Saint John Leonardi"
+    },
+    {
+      "id": "columban",
+      "letter": "C",
+      "feast": {
+        "month": 11,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Columban",
+        "pt-BR": "São Columbano"
+      },
+      "patronOf": {
+        "en-US": "Abbot and missionary",
+        "pt-BR": "Abade e missionário"
+      },
+      "prayerExcerpt": {
+        "en-US": "I will praise you, Lord, among the nations; I will tell of your name to my kin.",
+        "pt-BR": "Eu vos louvarei, Senhor, entre os povos, e anunciarei vosso nome aos meus irmãos."
+      },
+      "excerptSource": "content/of/formularies/common/pastors/past10.json entranceAntiphon (Common of Pastors, For Missionaries; verbatim in both languages without the paschal alleluia; full stop added). The calendar entry sanctorale.11-23.columban has no formulary in the repo",
+      "subject": "An Irish monk-missionary of about 615, half-length, in a coarse undyed cream-white woollen cowl with a deep hood lying on the shoulders, a leather cord at the waist; a tooled leather book satchel hangs from a strap across his chest and he holds a book of the Gospels in his left hand, a tall ash-wood staff in his right. Beside him a brown bear sits quietly, tamed, as in his legend. Behind him Bobbio in the Apennines: the valley of the Trebbia with its long humpbacked stone bridge, the stone abbey church and wooded hills under a cool sky. No wolves attacking, no violence. Keep the bear inside the arched window.",
+      "face": "A weathered Irishman of about seventy, lean and strong, with a fair, windburnt, freckled complexion and a LONG, BIG-BONED face with a strong, JUTTING CHIN — the front of the head shaved from ear to ear in the Irish tonsure, leaving a high, bare, sun-browned forehead, and long red hair gone mostly grey falling from behind the ears to the shoulders; deep-set, pale-blue eyes under bristling reddish-grey brows, crinkled at the corners as against the sea wind; a long, straight, bony nose; wide, flat cheeks; a wide, firm mouth; a short, grizzled red-grey beard close to the jaw; a fearless, far-looking, zealous gaze.",
+      "refs": [
+        "patrick",
+        "benedict",
+        "jerome"
+      ],
+      "basis": "No likeness survives. Art shows him bearded, in the monastic cowl, with a book in an Irish satchel, among wolves or taming a bear, and the Frankish clergy objected to his distinct Irish tonsure, which in some way shaved the head from ear to ear; he was born in Leinster in 543 and died at Bobbio in 615. Colouring and structure are our choice, made Irish and unlike Patrick's card.",
+      "sources": [
+        {
+          "title": "Wikipedia, Columbanus (depiction; Irish tonsure; Bobbio)",
+          "url": "https://en.wikipedia.org/wiki/Columbanus"
+        },
+        {
+          "title": "Wikipedia, Tonsure (the Celtic tonsure)",
+          "url": "https://en.wikipedia.org/wiki/Tonsure"
+        }
+      ],
+      "catalogMatch": "Saint Columban, abbot"
+    }
+  ]
+}
