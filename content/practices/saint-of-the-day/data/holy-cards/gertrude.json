@@ -1,0 +1,44 @@
+{
+  "id": "gertrude",
+  "feast": {
+    "month": 11,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Gertrude the Great",
+    "pt-BR": "Santa Gertrudes Magna"
+  },
+  "patronOf": {
+    "en-US": "Virgin and mystic",
+    "pt-BR": "Virgem e mística"
+  },
+  "prayerExcerpt": {
+    "en-US": "Pierce my heart with the arrow of Thy love.",
+    "pt-BR": "Traspassai meu coração com a seta do vosso amor."
+  },
+  "meta": {
+    "face": "A woman of about forty with a STRONG, HEART-SHAPED face — a high, broad, rounded forehead, straight, strongly marked dark brows nearly level, deep-set dark brown eyes, a long, straight, fine nose, high cheekbones narrowing to a small, pointed chin, a wide, thin-lipped mouth set in a composed line; warm olive-toned skin; hair hidden under the wimple and veil; a steady, intelligent, scholarly gaze looking level toward the viewer (NOT upturned, not girlish, not doll-like).",
+    "basis": "Nothing is known of her looks; the face is an artistic choice for a nun near forty (she died at 46). The iconography is the Baroque one: a nun in the black Benedictine habit with the ample cowl sleeves and a burning heart with the Christ Child on her breast; the crozier, which belongs to her abbess Gertrude of Hackeborn, is left out.",
+    "excerpt": "Gertrude, The Herald of Divine Love II.5, in The Life and Revelations of Saint Gertrude (Burns & Oates / Benziger, 1870s), p. 83: \"I beseech Thee … to pierce my heart with the arrow of Thy love\" (en-US verbatim, \"to\" dropped); pt-BR our rendering. No formulary for 11-16/gertrude in the repo",
+    "sources": [
+      {
+        "title": "Christian Iconography, St. Gertrude of Helfta",
+        "url": "https://www.christianiconography.info/gertrude.html"
+      },
+      {
+        "title": "Wikipedia, Gertrude the Great (iconography)",
+        "url": "https://en.wikipedia.org/wiki/Gertrude_the_Great"
+      },
+      {
+        "title": "The Life and Revelations of Saint Gertrude (Burns & Oates, 1870s)",
+        "url": "https://archive.org/details/thelifeandrevela00gertuoft"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "regenerated: first draft had a C initial and repeated Margaret Mary's young face; now a heart-shaped scholar's face"
+      }
+    ]
+  }
+}

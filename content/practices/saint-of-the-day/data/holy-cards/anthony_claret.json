@@ -1,0 +1,44 @@
+{
+  "id": "anthony_claret",
+  "feast": {
+    "month": 10,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Anthony Mary Claret",
+    "pt-BR": "Santo Antônio Maria Claret"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Claretians",
+    "pt-BR": "Fundador dos Claretianos"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we earnestly devote ourselves to winning our brothers and sisters for Christ.",
+    "pt-BR": "Nos apliquemos com todo empenho em conquistar irmãos e irmãs para Cristo."
+  },
+  "meta": {
+    "face": "A stocky, clean-shaven Spaniard of about forty-five with a large, round, fleshy face and a warm olive-dark complexion — a short, broad nose, full cheeks, dark, rather small, penetrating eyes under thick, straight, black brows, a full lower lip and a rounded, heavy chin; short black hair receding at the temples under the zucchetto; a serious, energetic, kindly gaze to one side.",
+    "basis": "Photographs of him as archbishop (1860s) show a heavy, round, clean-shaven face with thick dark brows, dark eyes and short receding hair, in cassock, mozzetta and pectoral cross. Santiago de Cuba, his see from 1850 to 1857, is the setting.",
+    "excerpt": "content/of/formularies/sanctoral/10-24.json collect (petition: en-US \"we may earnestly devote…\" recast as \"May we…\", \"seeking the things that are yours\" dropped; pt-BR verbatim from \"nos apliquemos\")",
+    "sources": [
+      {
+        "title": "Photograph of Archbishop Claret, c. 1860 (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Antonio_Mar%C3%ADa_Claret,_c.1860.jpg"
+      },
+      {
+        "title": "Jean Laurent, photograph of Padre Claret (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Padre_Claret,_de_Jean_Laurent.jpg"
+      },
+      {
+        "title": "Wikipedia, Anthony Mary Claret (Santiago de Cuba, 1850–1857)",
+        "url": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-9.md."
+      }
+    ]
+  }
+}

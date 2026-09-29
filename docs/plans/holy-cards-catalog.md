@@ -7,7 +7,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Category | Cards | Done |
 |---|---|---|
 | Saints — solemnities, feasts, memorials | 83 | 83 |
-| Saints — optional memorials | 106 | 54 |
+| Saints — optional memorials | 106 | 64 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 165 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 175 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -191,22 +191,22 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 28 Sep · Saint Wenceslaus, martyr · *São Venceslau, mártir* · optional-memorial — `wenceslaus`
 - [x] 28 Sep · Saint Lawrence Ruiz and Companions, Martyrs · *São Lourenço Ruiz e companheiros, mártires* · optional-memorial — `lawrence_ruiz`
 - [x] 5 Oct · Saint Faustina Kowalska, virgin · *S. Faustina Kowalska, virgem* · optional-memorial — `faustina`
-- [ ] 6 Oct · Saint Bruno, priest · *São Bruno, presbítero* · optional-memorial
-- [ ] 9 Oct · Saint Denis, bishop and martyr and Companions, martyrs · *São Dionísio, bispo, e companheiros, mártires* · optional-memorial
+- [x] 6 Oct · Saint Bruno, priest · *São Bruno, presbítero* · optional-memorial — `bruno`
+- [x] 9 Oct · Saint Denis, bishop and martyr and Companions, martyrs · *São Dionísio, bispo, e companheiros, mártires* · optional-memorial — `denis`
 - [ ] 9 Oct · Saint John Leonardi, priest · *São João Leonardi, presbítero* · optional-memorial
 - [x] 11 Oct · Saint John Xxiii, pope · *São João XXIII, papa* · optional-memorial — `john_xxiii`
 - [ ] 14 Oct · Saint Callistus I, pope and martyr · *São Calisto I, papa e mártir* · optional-memorial
-- [ ] 16 Oct · Saint Hedwig, religious · *Santa Edviges, religiosa* · optional-memorial
+- [x] 16 Oct · Saint Hedwig, religious · *Santa Edviges, religiosa* · optional-memorial — `hedwig`
 - [x] 16 Oct · Saint Margaret Mary Alacoque, virgin · *Santa Margarida Maria Alacoque, virgem* · optional-memorial — `margaret_mary`
-- [ ] 19 Oct · Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs · *Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires* · optional-memorial
-- [ ] 19 Oct · Saint Paul of the Cross, priest · *São Paulo da Cruz, presbítero* · optional-memorial
+- [x] 19 Oct · Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs · *Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires* · optional-memorial — `north_american_martyrs`
+- [x] 19 Oct · Saint Paul of the Cross, priest · *São Paulo da Cruz, presbítero* · optional-memorial — `paul_of_the_cross`
 - [x] 22 Oct · Saint Iohn Paul Ii, pope · *São João Paulo II, papa* · optional-memorial — `john_paul_ii`
-- [ ] 23 Oct · Saint John of Capistrano, priest · *São João de Capistrano, presbítero* · optional-memorial
-- [ ] 24 Oct · Saint Anthony Claret, bishop · *Santo Antônio Maria Claret, bispo* · optional-memorial
+- [x] 23 Oct · Saint John of Capistrano, priest · *São João de Capistrano, presbítero* · optional-memorial — `john_capistrano`
+- [x] 24 Oct · Saint Anthony Claret, bishop · *Santo Antônio Maria Claret, bispo* · optional-memorial — `anthony_claret`
 - [x] 3 Nov · Saint Martin de Porres, religious · *São Martinho (de Lima), religioso* · optional-memorial — `martin_de_porres`
-- [ ] 15 Nov · Saint Albert the Great, bishop and doctor of the Church · *Santo Alberto Magno, bispo e doutor da Igreja* · optional-memorial
-- [ ] 16 Nov · Saint Margaret of Scotland · *Santa Margarida da Escócia* · optional-memorial
-- [ ] 16 Nov · Saint Gertrude, virgin · *Santa Gertrudes, virgem* · optional-memorial
+- [x] 15 Nov · Saint Albert the Great, bishop and doctor of the Church · *Santo Alberto Magno, bispo e doutor da Igreja* · optional-memorial — `albert_great`
+- [x] 16 Nov · Saint Margaret of Scotland · *Santa Margarida da Escócia* · optional-memorial — `margaret_scotland`
+- [x] 16 Nov · Saint Gertrude, virgin · *Santa Gertrudes, virgem* · optional-memorial — `gertrude`
 - [ ] 23 Nov · Saint Clement I, pope and martyr · *São Clemente I, papa e mártir* · optional-memorial
 - [ ] 23 Nov · Saint Columban, abbot · *São Columbano, abade* · optional-memorial
 - [x] 25 Nov · Saint Catherine of Alexandria, virgin and martyr · *Santa Catarina de Alexandria, virgem e mártir* · optional-memorial — `catherine_alexandria`

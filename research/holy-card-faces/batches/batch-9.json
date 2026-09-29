@@ -1,0 +1,431 @@
+{
+  "batch": 9,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-9.md",
+  "cards": [
+    {
+      "id": "bruno",
+      "letter": "B",
+      "feast": {
+        "month": 10,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Bruno",
+        "pt-BR": "São Bruno"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Carthusians",
+        "pt-BR": "Fundador dos Cartuxos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Amid the changes of this world, may we constantly look to you alone.",
+        "pt-BR": "Em meio à agitação deste mundo, nos dediquemos inteiramente ao vosso serviço."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-06.json collect (second clause; en-US recast from \"that amid the changes of this world we may constantly look to you alone\", pt-BR verbatim)",
+      "subject": "A Carthusian monk, half-length, in the full white Carthusian habit: a white wool cowl with a broad band joining front and back panels at the sides and a large white hood lying on the shoulders, no scapular colour, no cord. His arms are crossed on his breast over a small plain wooden crucifix, head bowed in recollection. Behind him the high, narrow valley of the Grande Chartreuse near Grenoble: steep limestone cliffs and dark fir forest, a few small stone hermit cells with steep roofs in the snow, and above the peaks, in a pale evening sky, a small circle of seven faint golden stars (the bishop's dream). Keep the mountains and stars inside the arched window.",
+      "face": "A clean-shaven man of about fifty with a long, rectangular face — a high, flat forehead, strong straight brows set low over deep-set grey eyes, a thin, straight, rather long nose, flat, lean cheeks without prominent cheekbones, a firmly squared chin and thin, closed lips; the head shaven with only the narrow Carthusian ring of short dark-brown hair just beginning to grey; eyes lowered, grave and inward, with the faintest peace at the mouth.",
+      "refs": [
+        "benedict",
+        "bernard_clairvaux",
+        "john_of_the_cross"
+      ],
+      "basis": "No portrait from life exists; the tradition (Le Sueur, Houdon) shows him tonsured, clean-shaven, in the white Carthusian cowl, arms crossed and head bowed. The long, lean, squared face follows Houdon's statue; age from his founding of the Chartreuse in 1084, at about fifty.",
+      "sources": [
+        {
+          "title": "Christian Iconography, St. Bruno of Cologne (habit, tonsure, seven stars)",
+          "url": "https://www.christianiconography.info/bruno.html"
+        },
+        {
+          "title": "Jean-Antoine Houdon, Saint Bruno (plaster, 1766; Wikimedia Commons, via the Wikipedia article)",
+          "url": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+        },
+        {
+          "title": "Wikipedia, Bruno of Cologne (lead image: Nicolas Mignard's St Bruno in prayer)",
+          "url": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+        }
+      ],
+      "catalogMatch": "Saint Bruno, priest"
+    },
+    {
+      "id": "denis",
+      "letter": "D",
+      "feast": {
+        "month": 10,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Denis and Companions",
+        "pt-BR": "São Dionísio e companheiros"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Paris and martyr",
+        "pt-BR": "Bispo de Paris e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "You sent Saint Denis and his companions to preach your glory to the nations.",
+        "pt-BR": "Enviastes São Dionísio e seus companheiros para anunciar vossa glória às nações."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-09.json collect (opening clause, \"O God, who\" / \"Ó Deus, que\" dropped; otherwise verbatim)",
+      "subject": "An early bishop of the third century, half-length, in a simple deep-red chasuble of antique bell shape over a white alb, a low white mitre with red bands, a plain gold crozier resting in the crook of his left arm; in his left hand a closed Gospel book, in his right a green martyr's palm held upright. His head is firmly on his shoulders and he holds nothing else — never his own head. Behind him the green hill of Montmartre above the river Seine with a small Gallo-Roman town of pale stone and red tiles at its foot, vineyards on the slope and a small stone chapel at the summit, under a calm autumn sky. Keep the scene inside the arched window.",
+      "face": "A man of about sixty with a broad, short, square face — a wide, low forehead, wide cheekbones and a strong, square jaw; a short, straight nose with a broad bridge; round dark-brown eyes set well apart under heavy, arched dark brows; a full, firm mouth; thick, tightly curled dark hair turning pepper-and-salt showing under the mitre over the ears, and a full, rounded, closely curled beard of the same colour; a steady, kindly gaze straight ahead and slightly down.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; the Gothic statue on the Portal of the Virgin at Notre-Dame gives him thick curling hair and a short curled beard in a broad, calm face, which the card keeps (with the head where it belongs). Bishop's vestments, book and palm are the standard marks; Montmartre, the traditional place of his martyrdom, is the setting.",
+      "sources": [
+        {
+          "title": "Christian Iconography, Saint Denis",
+          "url": "https://www.christianiconography.info/denis.html"
+        },
+        {
+          "title": "Wikipedia, Denis of Paris (lead image: statue on the Portal of the Virgin, Notre-Dame)",
+          "url": "https://en.wikipedia.org/wiki/Denis_of_Paris"
+        }
+      ],
+      "catalogMatch": "Saint Denis"
+    },
+    {
+      "id": "hedwig",
+      "letter": "H",
+      "feast": {
+        "month": 10,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Hedwig",
+        "pt-BR": "Santa Edviges"
+      },
+      "patronOf": {
+        "en-US": "Patron of the poor and indebted",
+        "pt-BR": "Padroeira dos pobres e endividados"
+      },
+      "prayerExcerpt": {
+        "en-US": "Her wonderful life is an example of humility for all.",
+        "pt-BR": "Sua vida foi para todos um exemplo de admirável humildade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-16.json collect (en-US verbatim clause after \"just as\"; pt-BR \"cuja vida\" recast as \"Sua vida\")",
+      "subject": "A widowed duchess of the thirteenth century, half-length, in a plain grey-brown woollen gown and a long grey mantle, a white wimple under the chin and a white veil, with a thin, simple gold ducal circlet over the veil. In her right hand she holds a small ivory statuette of the Virgin and Child against her breast; from her left hand hang a pair of plain leather shoes by their straps, and a string of wooden prayer beads is wound on that wrist (as in the Hedwig Codex of 1353). Behind her the Cistercian abbey of Trzebnica in Silesia, a Romanesque church of red brick and pale stone with a twin-towered front, among flat autumn fields and birch trees. Keep the scene inside the arched window.",
+      "face": "A tall woman of about sixty with a long, oval face — prominent, high cheekbones above softly hollowed cheeks, a long, straight nose with a narrow bridge, large brown eyes with heavy lids under thin, high-arched pale brows, a small, firm mouth and a narrow chin; fine lines at the eyes; hair entirely hidden under the wimple and veil; her gaze lowered to the statuette with a quiet, humble tenderness.",
+      "refs": [
+        "elizabeth_hungary",
+        "bridget_sweden",
+        "monica"
+      ],
+      "basis": "No portrait from life; the face is an artistic choice for a woman in her sixties, long and quiet as in the Hedwig Codex (1353), which also gives her marks: the ivory Madonna she carried, the shoes she held rather than wore, the beads and the widow's veil. Trzebnica, the abbey she founded and where she died, is the setting.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hedwig of Silesia (lead image: Hedwig Codex, 1353; attributes: church or shoes)",
+          "url": "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
+        },
+        {
+          "title": "Hedwig Codex, 1353 (Getty Museum; Wikimedia Commons category)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Hedwig_Codex"
+        }
+      ],
+      "catalogMatch": "Saint Hedwig"
+    },
+    {
+      "id": "north_american_martyrs",
+      "letter": "J",
+      "feast": {
+        "month": 10,
+        "day": 19
+      },
+      "name": {
+        "en-US": "Sts. John de Brébeuf and Isaac Jogues",
+        "pt-BR": "Santos João de Brébeuf e Isaac Jogues"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of North America",
+        "pt-BR": "Mártires da América do Norte"
+      },
+      "prayerExcerpt": {
+        "en-US": "That the faith of Christians may be strengthened day by day.",
+        "pt-BR": "Que a fé dos cristãos se torne cada dia mais firme."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-19.json collect (final clause; en-US drops \"through their intercession\", pt-BR verbatim)",
+      "subject": "Two Jesuit missionaries of the 1640s side by side, half-length, both in plain black Jesuit soutanes and black cloaks. Brébeuf (left, the taller and broader) holds a wooden crucifix against his chest with a large hand; Jogues (right, smaller) has his hands folded in prayer, fingers hidden in his sleeves, a small breviary tucked under his arm. Behind them the mission of Sainte-Marie among the Hurons: a wooden palisade and a bark-covered Wendat longhouse, a birchbark canoe drawn up on the shore of a calm northern lake (Georgian Bay), maples and pines in red and gold autumn colour. No wounds, no fire, no violence. Keep the two figures and the scene inside the arched window.",
+      "face": "Two clearly different men. Brébeuf (left): a tall, powerfully built man of about fifty-five with a large, long, strong-boned face — a high, bald dome of a forehead with a short fringe of grey hair at the sides, a big, straight, prominent nose, deep-set steady grey eyes under heavy brows, broad cheekbones and a strong jaw under a clipped salt-and-pepper beard and moustache, cut to a blunt point; a grave, manly, fatherly look. Jogues (right): a slighter man of about thirty-nine with a narrower, finer, oval face — dark-brown hair receding high from the forehead, gently arched brows, soft brown eyes lowered, a thin straight nose, a small mouth, and a short dark-brown pointed beard with a light moustache; a gentle, humble, prayerful look.",
+      "refs": [
+        "philip_james",
+        "francis_xavier",
+        "ignatius_loyola"
+      ],
+      "basis": "Parkman calls Brébeuf 'a tall, strong man, with features that seemed carved by Nature for a soldier', and his traditional portrait shows a bald crown and a grey pointed beard; Jogues follows Donald Guthrie McNab's 1895 portrait, a receding hairline, gentle lowered eyes and a short dark beard. Ages at their deaths (1649 and 1646).",
+      "sources": [
+        {
+          "title": "Francis Parkman, The Jesuits in North America (1867), ch. 7 (Brébeuf's build) and on Jogues's character",
+          "url": "https://www.gutenberg.org/ebooks/7058"
+        },
+        {
+          "title": "Wikipedia, Jean de Brébeuf (lead portrait)",
+          "url": "https://en.wikipedia.org/wiki/Jean_de_Br%C3%A9beuf"
+        },
+        {
+          "title": "Wikipedia, Isaac Jogues (portrait by Donald Guthrie McNab, 1895)",
+          "url": "https://en.wikipedia.org/wiki/Isaac_Jogues"
+        }
+      ],
+      "catalogMatch": "John de Brebeuf"
+    },
+    {
+      "id": "paul_of_the_cross",
+      "letter": "P",
+      "feast": {
+        "month": 10,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Paul of the Cross",
+        "pt-BR": "São Paulo da Cruz"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Passionists",
+        "pt-BR": "Fundador dos Passionistas"
+      },
+      "prayerExcerpt": {
+        "en-US": "To act well is always to pray well.",
+        "pt-BR": "Agir bem é sempre rezar bem."
+      },
+      "excerptSource": "Paul of the Cross, Flowers of the Passion (thoughts gathered from his letters, tr. Ella A. Mulligan, Benziger 1893), 'The Passion and Prayer', p. 65: \"If you cannot spend much time at prayer, no matter: to act well is always to pray well.\" (en-US verbatim, capitalised); pt-BR our rendering. No formulary for 10-19/paul in the repo",
+      "subject": "A Passionist priest of the eighteenth century, half-length, in the black Passionist habit of coarse wool with a black mantle, a leather belt and a large rosary; on the left breast of both habit and mantle the white Passionist badge in its plain form: a white heart with a small white cross standing on it, with no lettering, words or letters on it at all. He holds a plain dark wooden crucifix to his breast with both hands, the head bowed toward it. Behind him the wooded promontory of Monte Argentario on the Tuscan coast, the small stone retreat of the Presentation among holm oaks, and the calm blue Tyrrhenian sea with the lagoon of Orbetello. Keep the scene inside the arched window.",
+      "face": "A tall, slender, clean-shaven man of about seventy with a long oval face — a high, wide, elevated forehead, a long nose with a gently rounded, slightly drooping tip, clear, calm grey eyes with heavy lids lowered to the crucifix, softly hollowed cheeks, a gentle, closed mouth and a small rounded chin; thin, short grey hair brushed back and to the sides; a placid, modest and grave look with a trace of sorrow.",
+      "refs": [
+        "alphonsus_liguori",
+        "john_of_the_cross",
+        "philip_neri"
+      ],
+      "basis": "The 1886 Life by Fr. Pius a Spiritu Sancto: 'tall of stature and of slender build … a placid modest countenance, clear calm eyes, an elevated and wide forehead'; his traditional portrait gives the long face, long nose, lowered eyes and grey hair in old age. The badge is kept without its lettering, as the card must carry no text.",
+      "sources": [
+        {
+          "title": "Fr. Pius a Spiritu Sancto, The Life of St. Paul of the Cross (Sadlier, 1886)",
+          "url": "https://archive.org/details/lifeofstpaulofcr0000puis"
+        },
+        {
+          "title": "Flowers of the Passion: Thoughts of St. Paul of the Cross (Benziger, 1893)",
+          "url": "https://archive.org/details/FlowersOfThePassion"
+        },
+        {
+          "title": "Wikipedia, Paul of the Cross (lead portrait)",
+          "url": "https://en.wikipedia.org/wiki/Paul_of_the_Cross"
+        }
+      ],
+      "catalogMatch": "Saint Paul of the Cross"
+    },
+    {
+      "id": "john_capistrano",
+      "letter": "J",
+      "feast": {
+        "month": 10,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. John of Capistrano",
+        "pt-BR": "São João de Capistrano"
+      },
+      "patronOf": {
+        "en-US": "Patron of military chaplains",
+        "pt-BR": "Padroeiro dos capelães militares"
+      },
+      "prayerExcerpt": {
+        "en-US": "Keep your Church in everlasting peace.",
+        "pt-BR": "Conservai sempre em paz a vossa Igreja."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-23.json collect (final clause, verbatim in both languages)",
+      "subject": "An Observant Franciscan friar of the fifteenth century, half-length, in a patched grey-brown Franciscan habit with a hood and a white knotted cord. In his right hand he holds upright a tall wooden staff topped with a small cross, carrying a white banner with a plain red cross; in his left a small crucifix raised toward the viewer as if preaching. Behind him, calm and distant, the fortress of Belgrade on its hill where the Sava meets the Danube, stone walls and towers under a clear morning sky, the wide river with a single boat. No soldiers, no battle, no fallen figures. Keep the banner and scene inside the arched window.",
+      "face": "A small, lean man of about seventy, clean-shaven, with a narrow, bony, triangular face — a broad, domed, bald head with only a small tuft of white hair over the brow and a thin white fringe, prominent cheekbones over sunken cheeks, a long, thin, slightly hooked nose, small, deep-set, lively dark eyes under sparse grey brows, thin lips and a small pointed chin; weathered, ascetic but cheerful and alert, looking out with fervour.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "bonaventure"
+      ],
+      "basis": "Bartolomeo Vivarini's portrait of 1459, three years after his death (Louvre), shows an old, bald, clean-shaven, gaunt friar in grey with a cross-banner; a contemporary called him 'small of body, withered, emaciated, nothing but skin and bone, but cheerful, strong and strenuous in labor'. Idealised to lean and bright-eyed; Belgrade kept at a peaceful distance.",
+      "sources": [
+        {
+          "title": "Bartolomeo Vivarini, St John of Capistrano, 1459 (Louvre MI 488; Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Bartolomeo_vivarini,_san_giovanni_da_capestrano,_1459.JPG"
+        },
+        {
+          "title": "Christian Iconography, Saint John of Capistrano (banner and cross type)",
+          "url": "https://www.christianiconography.info/johnCapistrano.html"
+        },
+        {
+          "title": "Hungarian Saints, John of Capistrano (contemporary description)",
+          "url": "https://archiv.katolikus.hu/hun-saints/john.html"
+        }
+      ],
+      "catalogMatch": "John of Capistrano"
+    },
+    {
+      "id": "anthony_claret",
+      "letter": "A",
+      "feast": {
+        "month": 10,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Anthony Mary Claret",
+        "pt-BR": "Santo Antônio Maria Claret"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Claretians",
+        "pt-BR": "Fundador dos Claretianos"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we earnestly devote ourselves to winning our brothers and sisters for Christ.",
+        "pt-BR": "Nos apliquemos com todo empenho em conquistar irmãos e irmãs para Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-24.json collect (petition: en-US \"we may earnestly devote…\" recast as \"May we…\", \"seeking the things that are yours\" dropped; pt-BR verbatim from \"nos apliquemos\")",
+      "subject": "A Spanish missionary archbishop of the 1850s, half-length, in a violet cassock with many small buttons, a violet mozzetta, a white rochet with plain linen sleeves, a violet zucchetto and a gold pectoral cross on a chain. He holds a small open book of his own devotional writings against his chest in one hand and a rosary in the other. Behind him the bay of Santiago de Cuba with its cathedral's white towers, palm trees, tiled roofs and green Sierra Maestra hills under a bright tropical sky. Keep the scene inside the arched window.",
+      "face": "A stocky, clean-shaven Spaniard of about forty-five with a large, round, fleshy face and a warm olive-dark complexion — a short, broad nose, full cheeks, dark, rather small, penetrating eyes under thick, straight, black brows, a full lower lip and a rounded, heavy chin; short black hair receding at the temples under the zucchetto; a serious, energetic, kindly gaze to one side.",
+      "refs": [
+        "charles_borromeo",
+        "alphonsus_liguori",
+        "vincent_de_paul"
+      ],
+      "basis": "Photographs of him as archbishop (1860s) show a heavy, round, clean-shaven face with thick dark brows, dark eyes and short receding hair, in cassock, mozzetta and pectoral cross. Santiago de Cuba, his see from 1850 to 1857, is the setting.",
+      "sources": [
+        {
+          "title": "Photograph of Archbishop Claret, c. 1860 (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Antonio_Mar%C3%ADa_Claret,_c.1860.jpg"
+        },
+        {
+          "title": "Jean Laurent, photograph of Padre Claret (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Padre_Claret,_de_Jean_Laurent.jpg"
+        },
+        {
+          "title": "Wikipedia, Anthony Mary Claret (Santiago de Cuba, 1850–1857)",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Mary_Claret"
+        }
+      ],
+      "catalogMatch": "Saint Anthony Claret"
+    },
+    {
+      "id": "albert_great",
+      "letter": "A",
+      "feast": {
+        "month": 11,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Albert the Great",
+        "pt-BR": "Santo Alberto Magno"
+      },
+      "patronOf": {
+        "en-US": "Patron of scientists",
+        "pt-BR": "Padroeiro dos cientistas"
+      },
+      "prayerExcerpt": {
+        "en-US": "That through progress in learning we may come to a deeper knowledge and love of you.",
+        "pt-BR": "Possamos conhecer-vos e amar-vos mais profundamente."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-15.json collect (end of the petition, verbatim in both languages)",
+      "subject": "A Dominican friar-bishop of the thirteenth century, half-length, in the white Dominican habit and scapular with the black cappa and hood over it, a white mitre embroidered with gold, a pectoral cross; seated at a writing desk with a large open manuscript book and a quill in his right hand, a small armillary sphere and a few plant sprigs and a crystal on the desk. Behind him, through an arched opening, the river Rhine at Cologne with medieval town walls, church spires and the tall new Gothic choir of the cathedral rising in scaffolding. Keep the scene inside the arched window.",
+      "face": "An old man of about seventy-five, clean-shaven, with a large, heavy, broad face — a wide, square, jowled jaw, a big, slightly fleshy nose, small, keen, heavy-lidded grey eyes under low, straight white brows, a wide, thin, firmly set mouth and deep lines from nose to mouth; a white Dominican tonsure ring of short hair under the mitre; a shrewd, patient, scholarly gaze lifted slightly from the page.",
+      "refs": [
+        "thomas_aquinas",
+        "dominic",
+        "ambrose"
+      ],
+      "basis": "Tommaso da Modena's fresco in the chapter house of San Niccolò, Treviso (1352), within living memory of him, shows a clean-shaven, heavy-jawed old bishop in the Dominican habit and mitre with a book; the card keeps that broad, heavy face. Cologne, where he taught and died, is the setting; the sphere, plants and crystal stand for his natural science.",
+      "sources": [
+        {
+          "title": "Wikipedia, Albertus Magnus (lead image: Tommaso da Modena, Treviso, 1352)",
+          "url": "https://en.wikipedia.org/wiki/Albertus_Magnus"
+        },
+        {
+          "title": "Tommaso da Modena, Albertus Magnus, fresco, 1352, San Niccolò, Treviso (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Albertus_Magnus_fresco_1352_by_Tommaso_da_Modena_(cropped).png"
+        }
+      ],
+      "catalogMatch": "Saint Albert the Great"
+    },
+    {
+      "id": "margaret_scotland",
+      "letter": "M",
+      "feast": {
+        "month": 11,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Margaret of Scotland",
+        "pt-BR": "Santa Margarida da Escócia"
+      },
+      "patronOf": {
+        "en-US": "Queen and patron of Scotland",
+        "pt-BR": "Rainha e padroeira da Escócia"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we reflect among all humanity the image of your divine goodness.",
+        "pt-BR": "Concedei-nos refletir no mundo a imagem da vossa bondade."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-16.json collect (en-US \"grant that … we may reflect among all humanity the image of your divine goodness\" recast as a wish; pt-BR verbatim)",
+      "subject": "An eleventh-century queen, half-length, in a long gown of deep blue with a gold-embroidered border, a crimson mantle fastened with a round brooch, a white linen wimple covering the neck and a white veil covering all her hair and a simple gold crown with fleurons. She holds in both hands, open against her breast, a small illuminated Gospel book in a jewelled gold-and-silver binding. Behind her the rock of Edinburgh Castle with the small, plain Romanesque stone chapel on its summit, and beyond, the grey-blue Firth of Forth with a small boat at the Queen's Ferry, under a soft northern sky. Keep the scene inside the arched window.",
+      "face": "A MATRONLY woman of about forty-five, mother of eight, with a LONG, OVAL face — a high forehead, a long, straight, rather strong nose, almond-shaped hazel eyes under dark, arched brows, long, smooth cheeks with a faint colour, a small, firm, closed mouth and a long, rounded chin; ALL hair covered by the wimple and veil (no blonde hair, no plaits); a grave, thoughtful gaze lowered to the book. Mature and dignified, not girlish.",
+      "refs": [
+        "anne",
+        "monica",
+        "bridget_sweden"
+      ],
+      "basis": "No portrait from life; the 13th-century genealogical roll shows her crowned over a white veil, and later windows give her fair golden hair. Her Gospel book, which Malcolm had bound in gold and silver and which survives in the Bodleian, is her attribute; St Margaret's Chapel on Edinburgh Castle and the Queen's Ferry are real places tied to her.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Margaret of Scotland (lead image: genealogical roll; pocket Gospel book)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"
+        },
+        {
+          "title": "St Giles' Cathedral, Edinburgh, window of St Margaret of Scotland (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Edinburgh,_Saint_Giles_cathedral_-_Stained-glass_windows_-_Saint_Margaret_of_Scotland.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Margaret of Scotland"
+    },
+    {
+      "id": "gertrude",
+      "letter": "G",
+      "feast": {
+        "month": 11,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Gertrude the Great",
+        "pt-BR": "Santa Gertrudes Magna"
+      },
+      "patronOf": {
+        "en-US": "Virgin and mystic",
+        "pt-BR": "Virgem e mística"
+      },
+      "prayerExcerpt": {
+        "en-US": "Pierce my heart with the arrow of Thy love.",
+        "pt-BR": "Traspassai meu coração com a seta do vosso amor."
+      },
+      "excerptSource": "Gertrude, The Herald of Divine Love II.5, in The Life and Revelations of Saint Gertrude (Burns & Oates / Benziger, 1870s), p. 83: \"I beseech Thee … to pierce my heart with the arrow of Thy love\" (en-US verbatim, \"to\" dropped); pt-BR our rendering. No formulary for 11-16/gertrude in the repo",
+      "subject": "A thirteenth-century nun of Helfta, half-length, in the black Benedictine habit with the wide, deep sleeves of the choir cowl, a white wimple and a black veil lined with white. On her breast a softly glowing golden heart with small rays, and within it a tiny Christ Child. In one hand she holds a quill, in the other a small open book resting against her. No crozier. Behind her the cloister and church of the abbey of Helfta near Eisleben, pale stone Romanesque arcades and a garden with a well, and the low rolling hills of Saxony in soft autumn light. Keep the scene inside the arched window. The illuminated initial is the letter G — drawn clearly as a G with its inward horizontal bar, not a C.",
+      "face": "A woman of about forty with a STRONG, HEART-SHAPED face — a high, broad, rounded forehead, straight, strongly marked dark brows nearly level, deep-set dark brown eyes, a long, straight, fine nose, high cheekbones narrowing to a small, pointed chin, a wide, thin-lipped mouth set in a composed line; warm olive-toned skin; hair hidden under the wimple and veil; a steady, intelligent, scholarly gaze looking level toward the viewer (NOT upturned, not girlish, not doll-like).",
+      "refs": [
+        "monica",
+        "clare_assisi",
+        "catherine_siena"
+      ],
+      "basis": "Nothing is known of her looks; the face is an artistic choice for a nun near forty (she died at 46). The iconography is the Baroque one: a nun in the black Benedictine habit with the ample cowl sleeves and a burning heart with the Christ Child on her breast; the crozier, which belongs to her abbess Gertrude of Hackeborn, is left out.",
+      "sources": [
+        {
+          "title": "Christian Iconography, St. Gertrude of Helfta",
+          "url": "https://www.christianiconography.info/gertrude.html"
+        },
+        {
+          "title": "Wikipedia, Gertrude the Great (iconography)",
+          "url": "https://en.wikipedia.org/wiki/Gertrude_the_Great"
+        },
+        {
+          "title": "The Life and Revelations of Saint Gertrude (Burns & Oates, 1870s)",
+          "url": "https://archive.org/details/thelifeandrevela00gertuoft"
+        }
+      ],
+      "catalogMatch": "Saint Gertrude"
+    }
+  ]
+}

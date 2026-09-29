@@ -1,0 +1,40 @@
+{
+  "id": "margaret_scotland",
+  "feast": {
+    "month": 11,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Margaret of Scotland",
+    "pt-BR": "Santa Margarida da Escócia"
+  },
+  "patronOf": {
+    "en-US": "Queen and patron of Scotland",
+    "pt-BR": "Rainha e padroeira da Escócia"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we reflect among all humanity the image of your divine goodness.",
+    "pt-BR": "Concedei-nos refletir no mundo a imagem da vossa bondade."
+  },
+  "meta": {
+    "face": "A MATRONLY woman of about forty-five, mother of eight, with a LONG, OVAL face — a high forehead, a long, straight, rather strong nose, almond-shaped hazel eyes under dark, arched brows, long, smooth cheeks with a faint colour, a small, firm, closed mouth and a long, rounded chin; ALL hair covered by the wimple and veil (no blonde hair, no plaits); a grave, thoughtful gaze lowered to the book. Mature and dignified, not girlish.",
+    "basis": "No portrait from life; the 13th-century genealogical roll shows her crowned over a white veil, and later windows give her fair golden hair. Her Gospel book, which Malcolm had bound in gold and silver and which survives in the Bodleian, is her attribute; St Margaret's Chapel on Edinburgh Castle and the Queen's Ferry are real places tied to her.",
+    "excerpt": "content/of/formularies/sanctoral/11-16.json collect (en-US \"grant that … we may reflect among all humanity the image of your divine goodness\" recast as a wish; pt-BR verbatim)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Margaret of Scotland (lead image: genealogical roll; pocket Gospel book)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Margaret_of_Scotland"
+      },
+      {
+        "title": "St Giles' Cathedral, Edinburgh, window of St Margaret of Scotland (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Edinburgh,_Saint_Giles_cathedral_-_Stained-glass_windows_-_Saint_Margaret_of_Scotland.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "regenerated: first draft repeated Elizabeth of Hungary's fair young queen; now a veiled, long-faced matron"
+      }
+    ]
+  }
+}

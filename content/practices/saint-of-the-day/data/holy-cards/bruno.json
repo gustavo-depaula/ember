@@ -1,0 +1,44 @@
+{
+  "id": "bruno",
+  "feast": {
+    "month": 10,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Bruno",
+    "pt-BR": "São Bruno"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Carthusians",
+    "pt-BR": "Fundador dos Cartuxos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Amid the changes of this world, may we constantly look to you alone.",
+    "pt-BR": "Em meio à agitação deste mundo, nos dediquemos inteiramente ao vosso serviço."
+  },
+  "meta": {
+    "face": "A clean-shaven man of about fifty with a long, rectangular face — a high, flat forehead, strong straight brows set low over deep-set grey eyes, a thin, straight, rather long nose, flat, lean cheeks without prominent cheekbones, a firmly squared chin and thin, closed lips; the head shaven with only the narrow Carthusian ring of short dark-brown hair just beginning to grey; eyes lowered, grave and inward, with the faintest peace at the mouth.",
+    "basis": "No portrait from life exists; the tradition (Le Sueur, Houdon) shows him tonsured, clean-shaven, in the white Carthusian cowl, arms crossed and head bowed. The long, lean, squared face follows Houdon's statue; age from his founding of the Chartreuse in 1084, at about fifty.",
+    "excerpt": "content/of/formularies/sanctoral/10-06.json collect (second clause; en-US recast from \"that amid the changes of this world we may constantly look to you alone\", pt-BR verbatim)",
+    "sources": [
+      {
+        "title": "Christian Iconography, St. Bruno of Cologne (habit, tonsure, seven stars)",
+        "url": "https://www.christianiconography.info/bruno.html"
+      },
+      {
+        "title": "Jean-Antoine Houdon, Saint Bruno (plaster, 1766; Wikimedia Commons, via the Wikipedia article)",
+        "url": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+      },
+      {
+        "title": "Wikipedia, Bruno of Cologne (lead image: Nicolas Mignard's St Bruno in prayer)",
+        "url": "https://en.wikipedia.org/wiki/Bruno_of_Cologne"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-9.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hedwig",
+  "feast": {
+    "month": 10,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Hedwig",
+    "pt-BR": "Santa Edviges"
+  },
+  "patronOf": {
+    "en-US": "Patron of the poor and indebted",
+    "pt-BR": "Padroeira dos pobres e endividados"
+  },
+  "prayerExcerpt": {
+    "en-US": "Her wonderful life is an example of humility for all.",
+    "pt-BR": "Sua vida foi para todos um exemplo de admirável humildade."
+  },
+  "meta": {
+    "face": "A tall woman of about sixty with a long, oval face — prominent, high cheekbones above softly hollowed cheeks, a long, straight nose with a narrow bridge, large brown eyes with heavy lids under thin, high-arched pale brows, a small, firm mouth and a narrow chin; fine lines at the eyes; hair entirely hidden under the wimple and veil; her gaze lowered to the statuette with a quiet, humble tenderness.",
+    "basis": "No portrait from life; the face is an artistic choice for a woman in her sixties, long and quiet as in the Hedwig Codex (1353), which also gives her marks: the ivory Madonna she carried, the shoes she held rather than wore, the beads and the widow's veil. Trzebnica, the abbey she founded and where she died, is the setting.",
+    "excerpt": "content/of/formularies/sanctoral/10-16.json collect (en-US verbatim clause after \"just as\"; pt-BR \"cuja vida\" recast as \"Sua vida\")",
+    "sources": [
+      {
+        "title": "Wikipedia, Hedwig of Silesia (lead image: Hedwig Codex, 1353; attributes: church or shoes)",
+        "url": "https://en.wikipedia.org/wiki/Hedwig_of_Silesia"
+      },
+      {
+        "title": "Hedwig Codex, 1353 (Getty Museum; Wikimedia Commons category)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Hedwig_Codex"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-9.md."
+      }
+    ]
+  }
+}

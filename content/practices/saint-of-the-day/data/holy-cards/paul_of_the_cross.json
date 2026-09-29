@@ -1,0 +1,44 @@
+{
+  "id": "paul_of_the_cross",
+  "feast": {
+    "month": 10,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Paul of the Cross",
+    "pt-BR": "São Paulo da Cruz"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Passionists",
+    "pt-BR": "Fundador dos Passionistas"
+  },
+  "prayerExcerpt": {
+    "en-US": "To act well is always to pray well.",
+    "pt-BR": "Agir bem é sempre rezar bem."
+  },
+  "meta": {
+    "face": "A tall, slender, clean-shaven man of about seventy with a long oval face — a high, wide, elevated forehead, a long nose with a gently rounded, slightly drooping tip, clear, calm grey eyes with heavy lids lowered to the crucifix, softly hollowed cheeks, a gentle, closed mouth and a small rounded chin; thin, short grey hair brushed back and to the sides; a placid, modest and grave look with a trace of sorrow.",
+    "basis": "The 1886 Life by Fr. Pius a Spiritu Sancto: 'tall of stature and of slender build … a placid modest countenance, clear calm eyes, an elevated and wide forehead'; his traditional portrait gives the long face, long nose, lowered eyes and grey hair in old age. The badge is kept without its lettering, as the card must carry no text.",
+    "excerpt": "Paul of the Cross, Flowers of the Passion (thoughts gathered from his letters, tr. Ella A. Mulligan, Benziger 1893), 'The Passion and Prayer', p. 65: \"If you cannot spend much time at prayer, no matter: to act well is always to pray well.\" (en-US verbatim, capitalised); pt-BR our rendering. No formulary for 10-19/paul in the repo",
+    "sources": [
+      {
+        "title": "Fr. Pius a Spiritu Sancto, The Life of St. Paul of the Cross (Sadlier, 1886)",
+        "url": "https://archive.org/details/lifeofstpaulofcr0000puis"
+      },
+      {
+        "title": "Flowers of the Passion: Thoughts of St. Paul of the Cross (Benziger, 1893)",
+        "url": "https://archive.org/details/FlowersOfThePassion"
+      },
+      {
+        "title": "Wikipedia, Paul of the Cross (lead portrait)",
+        "url": "https://en.wikipedia.org/wiki/Paul_of_the_Cross"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-9.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "north_american_martyrs",
+  "feast": {
+    "month": 10,
+    "day": 19
+  },
+  "name": {
+    "en-US": "Sts. John de Brébeuf and Isaac Jogues",
+    "pt-BR": "Santos João de Brébeuf e Isaac Jogues"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of North America",
+    "pt-BR": "Mártires da América do Norte"
+  },
+  "prayerExcerpt": {
+    "en-US": "That the faith of Christians may be strengthened day by day.",
+    "pt-BR": "Que a fé dos cristãos se torne cada dia mais firme."
+  },
+  "meta": {
+    "face": "Two clearly different men. Brébeuf (left): a tall, powerfully built man of about fifty-five with a large, long, strong-boned face — a high, bald dome of a forehead with a short fringe of grey hair at the sides, a big, straight, prominent nose, deep-set steady grey eyes under heavy brows, broad cheekbones and a strong jaw under a clipped salt-and-pepper beard and moustache, cut to a blunt point; a grave, manly, fatherly look. Jogues (right): a slighter man of about thirty-nine with a narrower, finer, oval face — dark-brown hair receding high from the forehead, gently arched brows, soft brown eyes lowered, a thin straight nose, a small mouth, and a short dark-brown pointed beard with a light moustache; a gentle, humble, prayerful look.",
+    "basis": "Parkman calls Brébeuf 'a tall, strong man, with features that seemed carved by Nature for a soldier', and his traditional portrait shows a bald crown and a grey pointed beard; Jogues follows Donald Guthrie McNab's 1895 portrait, a receding hairline, gentle lowered eyes and a short dark beard. Ages at their deaths (1649 and 1646).",
+    "excerpt": "content/of/formularies/sanctoral/10-19.json collect (final clause; en-US drops \"through their intercession\", pt-BR verbatim)",
+    "sources": [
+      {
+        "title": "Francis Parkman, The Jesuits in North America (1867), ch. 7 (Brébeuf's build) and on Jogues's character",
+        "url": "https://www.gutenberg.org/ebooks/7058"
+      },
+      {
+        "title": "Wikipedia, Jean de Brébeuf (lead portrait)",
+        "url": "https://en.wikipedia.org/wiki/Jean_de_Br%C3%A9beuf"
+      },
+      {
+        "title": "Wikipedia, Isaac Jogues (portrait by Donald Guthrie McNab, 1895)",
+        "url": "https://en.wikipedia.org/wiki/Isaac_Jogues"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-9.md."
+      }
+    ]
+  }
+}
