@@ -15,5 +15,7 @@
   "prayerExcerpt": {
     "en-US": "We have seen his star in the east, and have come to adore him.",
     "pt-BR": "Vimos a sua estrela no Oriente e viemos adorá-lo."
-  }
+  },
+  "proper": "tempore.christmas.epiphany",
+  "lifeChapter": "jan-06-the-epiphany-of-our-lord"
 }

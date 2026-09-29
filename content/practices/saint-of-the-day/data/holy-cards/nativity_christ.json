@@ -15,5 +15,7 @@
   "prayerExcerpt": {
     "en-US": "For unto us a child is born, unto us a son is given.",
     "pt-BR": "Porque um menino nos nasceu, um filho nos foi dado."
-  }
+  },
+  "proper": "tempore.christmas.nativity-day",
+  "lifeChapter": "dec-25-the-nativity-of-christ-or-christmas-day"
 }

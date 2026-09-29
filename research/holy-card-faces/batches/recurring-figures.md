@@ -35,3 +35,25 @@ Peter as on `peter`: about sixty-five, a broad, weathered fisherman's face, a st
 The Ancient of Days (Daniel 7:9), a venerable man of about seventy with a BROAD, SQUARE-BROWED face — a wide, smooth forehead, a strong straight nose, deep-set, kindly grey-blue eyes under full white brows, broad cheekbones, a calm mouth half hidden by the moustache; snow-white hair falling in soft waves to the shoulders and a long, full, flowing white beard; a triangular gold halo; a white robe and a golden-yellow mantle.
 
 First written for `trinity`. The white-bearded elder the brief otherwise avoids is required here by Daniel's "hair of his head like clean wool". Keep him apart from St. Peter (short, square, curly grey beard, balding from the back, blue and ochre) and from the Son beside him (chestnut hair, long oval face).
+
+## The other Apostles
+
+When they appear beside Peter and John, each keeps the face of his own card: Andrew (`andrew`) about seventy, curly grey-white hair, a long grey-white beard forked in two points; James the Greater (`james_greater`) about twenty-eight, chestnut hair to the jaw, a short sparse young beard; Thomas (`thomas_apostle`) about twenty-five, beardless, short dark hair; Bartholomew (`bartholomew`) about forty-five, black curly hair, a long black beard beginning to grey; Matthew (`matthew`) about seventy, long straight white hair and a long undivided white beard.
+
+First used for `proclamation_kingdom` and `institution_eucharist`. Andrew is older than his brother Peter here because his card already paints him so.
+
+## St. Michael the Archangel
+
+A radiant youthful angel with a softly OVAL face — a smooth brow, a fine straight nose, large clear blue-grey eyes under lightly arched golden brows, rosy rounded cheeks, a small firm mouth, a gently rounded chin; thick golden curls to the jaw; a gold halo; great white wings; a silver breastplate trimmed in gold over a blue skirt, a billowing red-orange mantle, a sword, and a shield with a red cross.
+
+Described from the `michael_archangel` card, which has no written face; first used for `apparition_michael`. Other angels on scene cards must not take his golden curls or armour (see `agony_garden` and `peter_chains` for two that differ).
+
+## St. Helena
+
+The empress at about seventy-eight (Eusebius: about eighty at her return from Palestine), a LONG, dignified face narrowing to a FIRM, slightly prominent chin — a high forehead, a STRONG, STRAIGHT ROMAN NOSE running on from the line of the brow, large deep-set grey-brown eyes under thin, arched silver brows, lean cheeks with fine lines at the eyes and mouth; silver-white hair waved back from the brow and gathered in a low bun at the nape, as on her coins, under a white veil and a slender jewelled gold diadem; a white stola bordered in gold and a deep purple imperial mantle.
+
+First written for `discovery_cross`; her own card (18 Aug) uses it too. Keep her apart from the middle-aged crowned woman in red on `exaltation_cross`.
+
+## St. John in later scenes
+
+On second feasts of his later life (`john_latin_gate`, AD 95) John keeps the young, beardless face above, as the Western tradition paints him, not the old bearded John of Eastern icons.

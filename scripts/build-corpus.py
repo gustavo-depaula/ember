@@ -163,8 +163,26 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
 # app fetches the whole collection at once. Only the fields the app reads ship:
 # the rest (a card's `meta` provenance trail) stays in the repo.
 DATA_COLLECTIONS = {
-    "holy-cards": {"key": "cards", "fields": ("id", "feast", "name", "patronOf", "prayerExcerpt")},
+    "holy-cards": {"key": "cards", "fields": ("id", "feast", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper")},
 }
+
+LIVES = CONTENT / "books" / "pictorial-lives-of-saints"
+REFLECTION_RE = re.compile(r"^\*\*(?:Reflection|Reflexão)\*\*—(.+)$", re.M)
+
+
+def _life_reflection(pid: str, card_id: str, chapter: str) -> dict:
+    """A card's reflection is the last paragraph of its own chapter of the Pictorial
+    Lives, linked by `lifeChapter` rather than by date: the book keeps the pre-1969
+    calendar, so the saint of a card's feast day is often someone else in the book."""
+    out = {}
+    for lang in ("en-US", "pt-BR"):
+        md = LIVES / lang / f"{chapter}.md"
+        if not md.is_file():
+            raise SystemExit(f"practice {pid}: card {card_id} lifeChapter {chapter!r} has no {lang} chapter")
+        m = REFLECTION_RE.search(md.read_text(encoding="utf-8"))
+        if m:
+            out[lang] = m.group(1).strip()
+    return out
 
 
 def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
@@ -179,7 +197,12 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
             item = json.load(fh)
         if item.get("id") != ff.stem:
             raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
-        items.append({k: item[k] for k in spec["fields"] if k in item})
+        kept = {k: item[k] for k in spec["fields"] if k in item}
+        if "lifeChapter" in kept:
+            reflection = _life_reflection(pid, item["id"], kept["lifeChapter"])
+            if reflection:
+                kept["reflection"] = reflection
+        items.append(kept)
     return {"version": 1, spec["key"]: items}
 
 
