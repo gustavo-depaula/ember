@@ -11,15 +11,16 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
-| Feasts of the Lord and the Church | 21 | 5 |
-| Our Lady | 17 | 6 |
+| Saints of the Pictorial Lives (Saint of the Day) | 240 | 0 |
+| Feasts of the Lord and the Church | 23 | 5 |
+| Our Lady | 18 | 6 |
 | Angels | 3 | 3 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 0 |
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 570 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -242,10 +243,256 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] Philomena — `philomena`
 - [x] Moses the Black — `moses_the_black`
 
+### From the Pictorial Lives of the Saints
+
+The saints of the Saint of the Day practice (`content/practices/saint-of-the-day`, the *Pictorial Lives of the Saints*) not already carded above, on the book's dates (the pre-1969 calendar) and with its names. A day the book gives to a carded saint's other feast (St. Peter's Chains, the Beheading of St. John the Baptist, the Apparition of St. Michael, …) shares that saint's card.
+
+- [ ] 2 Jan · St. Fulgentius, Bishop · *São Fulgêncio, Bispo* · Pictorial Lives
+- [ ] 2 Jan · St. Macarius of Alexandria · *São Macário de Alexandria* · Pictorial Lives
+- [ ] 3 Jan · St. Genevieve, Virgin · *Santa Genoveva, Virgem* · Pictorial Lives
+- [ ] 4 Jan · St. Gregory, Bishop · *São Gregório, Bispo* · Pictorial Lives
+- [ ] 5 Jan · St. Simeon Stylites · *São Simeão Estilita* · Pictorial Lives
+- [ ] 7 Jan · St. Lucian, Martyr · *São Luciano, Mártir* · Pictorial Lives
+- [ ] 8 Jan · St. Apollinaris, the Apologist, Bishop · *Santo Apolinário, o Apologista, Bispo* · Pictorial Lives
+- [ ] 9 Jan · Ss. Julian and Basilissa, Martyrs · *São Julião e Santa Basilissa, Mártires* · Pictorial Lives
+- [ ] 10 Jan · St. William, Archbishop · *São Guilherme, Arcebispo* · Pictorial Lives
+- [ ] 11 Jan · St. Theodosius, The Cenobiarch · *São Teodósio, o Cenobiarca* · Pictorial Lives
+- [ ] 12 Jan · St. Aelred, Abbot · *Santo Elredo, Abade* · Pictorial Lives
+- [ ] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives
+- [ ] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives
+- [ ] 16 Jan · St. Honoratus, Archbishop · *Santo Honorato, Arcebispo* · Pictorial Lives
+- [ ] 19 Jan · St. Canutus, King, Martyr · *São Canuto, Rei, Mártir* · Pictorial Lives
+- [ ] 30 Jan · St. Bathildes, Queen · *Santa Batildes, Rainha* · Pictorial Lives
+- [ ] 31 Jan · St. Marcella, Widow · *Santa Marcela, Viúva* · Pictorial Lives
+- [ ] 1 Feb · St. Bridgid, Abbess, and Patroness of Ireland · *Santa Brígida, Abadessa e Padroeira da Irlanda* · Pictorial Lives
+- [ ] 4 Feb · St. Jane of Valois · *Santa Joana de Valois* · Pictorial Lives
+- [ ] 6 Feb · St. Dorothy, Virgin, Martyr · *Santa Doroteia, Virgem, Mártir* · Pictorial Lives
+- [ ] 8 Feb · St. John of Matha · *São João de Matha* · Pictorial Lives
+- [ ] 9 Feb · St. Apollonia and the Martyrs of Alexandria · *Santa Apolônia e os Mártires de Alexandria* · Pictorial Lives
+- [ ] 11 Feb · St. Severinus, Abbot of Agaunum · *São Severino, Abade de Agauno* · Pictorial Lives
+- [ ] 12 Feb · St. Benedict of Anian · *São Bento de Aniane* · Pictorial Lives
+- [ ] 13 Feb · St. Catherine of Ricci · *Santa Catarina de Ricci* · Pictorial Lives
+- [ ] 14 Feb · St. Valentine, Priest and Martyr · *São Valentim, Sacerdote e Mártir* · Pictorial Lives
+- [ ] 15 Feb · Sts. Faustinus and Jovita, Martyrs · *São Faustino e São Jovita, Mártires* · Pictorial Lives
+- [ ] 16 Feb · Blessed John de Britto, Martyr · *Beato João de Brito, Mártir* · Pictorial Lives
+- [ ] 16 Feb · St. Onesimus, Disciple of St. Paul · *Santo Onésimo, Discípulo de São Paulo* · Pictorial Lives
+- [ ] 17 Feb · St. Flavian, Bishop, Martyr · *São Flaviano, Bispo, Mártir* · Pictorial Lives
+- [ ] 18 Feb · St. Simeon, Bishop, Martyr · *São Simeão, Bispo, Mártir* · Pictorial Lives
+- [ ] 19 Feb · St. Barbatus, Bishop · *São Barbato, Bispo* · Pictorial Lives
+- [ ] 20 Feb · St. Eucherius, Bishop · *Santo Euquério, Bispo* · Pictorial Lives
+- [ ] 21 Feb · St. Severianus, Martyr, Bishop · *São Severiano, Mártir, Bispo* · Pictorial Lives
+- [ ] 23 Feb · St. Serenus, a Gardener, Martyr · *São Sereno, um Jardineiro, Mártir* · Pictorial Lives
+- [ ] 25 Feb · St. Tarasius · *São Tarásio* · Pictorial Lives
+- [ ] 26 Feb · St. Porphyry, Bishop · *São Porfírio, Bispo* · Pictorial Lives
+- [ ] 27 Feb · St. Leander, Bishop · *São Leandro, Bispo* · Pictorial Lives
+- [ ] 28 Feb · Sts. Romanus and Lupicinus, Abbots · *São Romano e São Lupicino, Abades* · Pictorial Lives
+- [ ] 29 Feb · St. Oswald, Bishop · *Santo Osvaldo, Bispo* · Pictorial Lives
+- [ ] 1 Mar · St. David, Bishop · *São David, Bispo* · Pictorial Lives
+- [ ] 1 Mar · St. Albinus, Bishop · *Santo Albino, Bispo* · Pictorial Lives
+- [ ] 2 Mar · St. Simplicius, Pope · *São Simplício, Papa* · Pictorial Lives
+- [ ] 3 Mar · St. Cunegundes, Empress · *Santa Cunegundes, Imperatriz* · Pictorial Lives
+- [ ] 5 Mar · Sts. Adrian and Eubulus, Martyrs · *Santo Adrião e Santo Êubulo, Mártires* · Pictorial Lives
+- [ ] 6 Mar · St. Colette, Virgin · *Santa Coleta, Virgem* · Pictorial Lives
+- [ ] 10 Mar · The Forty Martyrs of Sebaste · *Os Quarenta Mártires de Sebaste* · Pictorial Lives
+- [ ] 11 Mar · St. Eulogius, Martyr · *Santo Eulógio, Mártir* · Pictorial Lives
+- [ ] 13 Mar · St. Euphrasia, Virgin · *Santa Eufrásia, Virgem* · Pictorial Lives
+- [ ] 14 Mar · St. Maud, Queen · *Santa Maud, Rainha* · Pictorial Lives
+- [ ] 15 Mar · St. Zachary, Pope · *São Zacarias, Papa* · Pictorial Lives
+- [ ] 16 Mar · Sts. Abraham and Mary · *Santo Abraão e Santa Maria* · Pictorial Lives
+- [ ] 20 Mar · St. Wulfran, Archbishop · *São Wulfrano, Arcebispo* · Pictorial Lives
+- [ ] 22 Mar · St. Catharine of Sweden, Virgin · *Santa Catarina da Suécia, Virgem* · Pictorial Lives
+- [ ] 23 Mar · Sts. Victorian and Others, Martyrs · *Santos Vitoriano e Outros, Mártires* · Pictorial Lives
+- [ ] 24 Mar · St. Simon, Infant Martyr · *São Simão, Mártir Infante* · Pictorial Lives
+- [ ] 26 Mar · St. Ludger, Bishop · *São Ludgero, Bispo* · Pictorial Lives
+- [ ] 27 Mar · St. John of Egypt · *São João do Egito* · Pictorial Lives
+- [ ] 28 Mar · St. Gontran, King · *São Gontrão, Rei* · Pictorial Lives
+- [ ] 29 Mar · Sts. Jonas, Barachisius, and their Companions, Martyrs · *São Jonas, São Baraquísio e seus Companheiros, Mártires* · Pictorial Lives
+- [ ] 30 Mar · St. John Climacus · *São João Clímaco* · Pictorial Lives
+- [ ] 31 Mar · St. Benjamin, Deacon, Martyr · *São Benjamim, Diácono, Mártir* · Pictorial Lives
+- [ ] 1 Apr · St. Hugh, Bishop · *Santo Hugo, Bispo* · Pictorial Lives
+- [ ] 3 Apr · St. Richard of Chichester · *São Ricardo de Chichester* · Pictorial Lives
+- [ ] 6 Apr · St. Celestine, Pope · *São Celestino, Papa* · Pictorial Lives
+- [ ] 7 Apr · St. Hegesippus, a Primitive Father · *São Hegésipo, um Padre Primitivo* · Pictorial Lives
+- [ ] 7 Apr · Blessed Herman Joseph of Steinfeld · *Beato Hermano José de Steinfeld* · Pictorial Lives
+- [ ] 8 Apr · St. Perpetuus, Bishop · *São Perpétuo, Bispo* · Pictorial Lives
+- [ ] 9 Apr · St. Mary of Egypt · *Santa Maria Egipcíaca* · Pictorial Lives
+- [ ] 9 Apr · St. John the Almoner · *São João, o Esmoler* · Pictorial Lives
+- [ ] 10 Apr · St. Bademus, Martyr · *São Bademo, Mártir* · Pictorial Lives
+- [ ] 12 Apr · St. Julius, Pope · *São Júlio, Papa* · Pictorial Lives
+- [ ] 13 Apr · St. Hermenegild, Martyr · *São Hermenegildo, Mártir* · Pictorial Lives
+- [ ] 14 Apr · St. Benezet, or Little Bennet · *São Benezet, ou o Pequeno Bennet* · Pictorial Lives
+- [ ] 15 Apr · St. Paternus, Bishop · *São Paterno, Bispo* · Pictorial Lives
+- [ ] 16 Apr · Eighteen Martyrs of Saragossa, and St. Encratis, or Engratia, Virgin, Martyr · *Dezoito Mártires de Saragoça, e Santa Êncratis, ou Engrácia, Virgem, Mártir* · Pictorial Lives
+- [ ] 17 Apr · St. Anicetus, Pope, Martyr · *Santo Aniceto, Papa, Mártir* · Pictorial Lives
+- [ ] 18 Apr · St. Apollonius, Martyr · *Santo Apolônio, Mártir* · Pictorial Lives
+- [ ] 19 Apr · St. Elphege, Archbishop · *Santo Elfego, Arcebispo* · Pictorial Lives
+- [ ] 20 Apr · St. Marcellinus, Bishop · *São Marcelino, Bispo* · Pictorial Lives
+- [ ] 22 Apr · St. Soter, Pope, Martyr · *São Sótero, Papa, Mártir* · Pictorial Lives
+- [ ] 22 Apr · St. Leonides, Martyr · *São Leônides, Mártir* · Pictorial Lives
+- [ ] 26 Apr · St. Marcellinus, Pope, Martyr (with St. Cletus, who has a card) · *São Marcelino, Papa, Mártir* · Pictorial Lives
+- [ ] 27 Apr · St. Zita, Virgin · *Santa Zita, Virgem* · Pictorial Lives
+- [ ] 28 Apr · St. Vitalis, Martyr · *São Vital, Mártir* · Pictorial Lives
+- [ ] 29 Apr · St. Peter, Martyr · *São Pedro, Mártir* · Pictorial Lives
+- [ ] 29 Apr · St. Hugh, Abbot of Cluny · *Santo Hugo, Abade de Cluny* · Pictorial Lives
+- [ ] 10 May · St. Antoninus, Bishop · *Santo Antonino, Bispo* · Pictorial Lives
+- [ ] 11 May · St. Mammertus, Archbishop · *São Mamerto, Arcebispo* · Pictorial Lives
+- [ ] 12 May · St. Epiphanius, Archbishop · *Santo Epifânio, Arcebispo* · Pictorial Lives
+- [ ] 13 May · St. John the Silent · *São João, o Silencioso* · Pictorial Lives
+- [ ] 14 May · St. Pachomius, Abbot · *São Pacômio, Abade* · Pictorial Lives
+- [ ] 15 May · Sts. Peter and Dionysia · *São Pedro e Santa Dionísia* · Pictorial Lives
+- [ ] 16 May · St. John Nepomucen · *São João Nepomuceno* · Pictorial Lives
+- [ ] 17 May · St. Paschal Baylon · *São Pascoal Baylon* · Pictorial Lives
+- [ ] 18 May · St. Venantius, Martyr · *São Venâncio, Mártir* · Pictorial Lives
+- [ ] 19 May · St. Peter Celestine · *São Pedro Celestino* · Pictorial Lives
+- [ ] 21 May · St. Hospitius, Recluse · *Santo Hospício, Recluso* · Pictorial Lives
+- [ ] 22 May · St. Yvo, Confessor · *Santo Ivo, Confessor* · Pictorial Lives
+- [ ] 23 May · St. Julia, Virgin, Martyr · *Santa Júlia, Virgem, Mártir* · Pictorial Lives
+- [ ] 24 May · Sts. Donatian and Rogatian, Martyrs · *São Donaciano e São Rogaciano, Mártires* · Pictorial Lives
+- [ ] 28 May · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
+- [ ] 29 May · St. Cyril, Martyr · *São Cirilo, Mártir* · Pictorial Lives
+- [ ] 30 May · St. Felix I., Pope and Martyr · *São Félix I, Papa e Mártir* · Pictorial Lives
+- [ ] 31 May · St. Petronilla, Virgin · *Santa Petronilha, Virgem* · Pictorial Lives
+- [ ] 1 Jun · St. Pamphilus, Martyr · *São Pânfilo, Mártir* · Pictorial Lives
+- [ ] 2 Jun · Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyons · *São Potino, Bispo, Sanctus, Atalo, Blandina e os demais Mártires de Lião* · Pictorial Lives
+- [ ] 3 Jun · St. Clotilda, Queen · *Santa Clotilde, Rainha* · Pictorial Lives
+- [ ] 4 Jun · St. Francis Caracciolo · *São Francisco Caracciolo* · Pictorial Lives
+- [ ] 7 Jun · St. Robert of Newminster · *São Roberto de Newminster* · Pictorial Lives
+- [ ] 7 Jun · St. Claude, Archbishop · *São Cláudio, Arcebispo* · Pictorial Lives
+- [ ] 8 Jun · St. Medard, Bishop · *São Medardo, Bispo* · Pictorial Lives
+- [ ] 9 Jun · Sts. Primus and Felicianus, Martyrs · *São Primo e São Feliciano, Mártires* · Pictorial Lives
+- [ ] 9 Jun · St. Columba, or Columkille, Abbot · *São Columba, ou Columkille, Abade* · Pictorial Lives
+- [ ] 12 Jun · St. John of St. Fagondez · *São João de São Fagondez* · Pictorial Lives
+- [ ] 15 Jun · Sts. Vitus, Crescentia, and Modestus, Martyrs · *São Vito, Santa Crescência e São Modesto, Mártires* · Pictorial Lives
+- [ ] 16 Jun · St. John Francis Regis · *São João Francisco Regis* · Pictorial Lives
+- [ ] 17 Jun · St. Avitus, Abbot · *Santo Ávito, Abade* · Pictorial Lives
+- [ ] 18 Jun · Sts. Marcus and Marcellianus, Martyrs · *São Marco e São Marceliano, Mártires* · Pictorial Lives
+- [ ] 19 Jun · St. Juliana Falconieri · *Santa Juliana Falconieri* · Pictorial Lives
+- [ ] 20 Jun · St. Silverius, Pope and Martyr · *São Silvério, Papa e Mártir* · Pictorial Lives
+- [ ] 23 Jun · St. Etheldreda, Abbess · *Santa Eteldreda, Abadessa* · Pictorial Lives
+- [ ] 25 Jun · St. Prosper of Aquitaine · *São Próspero da Aquitânia* · Pictorial Lives
+- [ ] 25 Jun · St William of Monte-Vergine · *São Guilherme de Monte-Vergine* · Pictorial Lives
+- [ ] 27 Jun · St. Ladislas, King · *São Ladislau, Rei* · Pictorial Lives
+- [ ] 1 Jul · St. Gal, Bishop · *São Galo, Bispo* · Pictorial Lives
+- [ ] 3 Jul · St. Heliodorus, Bishop · *Santo Heliodoro, Bispo* · Pictorial Lives
+- [ ] 4 Jul · St. Bertha, Widow, Abbess · *Santa Berta, Viúva, Abadessa* · Pictorial Lives
+- [ ] 5 Jul · St. Peter of Luxemburg · *São Pedro de Luxemburgo* · Pictorial Lives
+- [ ] 6 Jul · St. Goar, Priest · *São Goar, Sacerdote* · Pictorial Lives
+- [ ] 6 Jul · St. Palladius, Bishop, Apostle of the Scots · *São Paládio, Bispo, Apóstolo dos Escotos* · Pictorial Lives
+- [ ] 7 Jul · St. Pantænus, Father of the Church · *São Panteno, Padre da Igreja* · Pictorial Lives
+- [ ] 10 Jul · The Seven Brothers, Martyrs, and St. Felicitas, their Mother · *Os Sete Irmãos, Mártires, e Santa Felicidade, sua Mãe* · Pictorial Lives
+- [ ] 11 Jul · St. James, Bishop · *São Tiago, Bispo* · Pictorial Lives
+- [ ] 12 Jul · St. John Gualbert · *São João Gualberto* · Pictorial Lives
+- [ ] 13 Jul · St. Eugenius, Bishop · *São Eugênio, Bispo* · Pictorial Lives
+- [ ] 16 Jul · St. Simon Stock · *São Simão Stock* · Pictorial Lives
+- [ ] 17 Jul · St. Alexius · *Santo Aleixo* · Pictorial Lives
+- [ ] 20 Jul · St. Margaret, Virgin and Martyr · *Santa Margarida, Virgem e Mártir* · Pictorial Lives
+- [ ] 21 Jul · St. Victor, Martyr · *São Vítor, Mártir* · Pictorial Lives
+- [ ] 24 Jul · St. Christina, Virgin and Martyr · *Santa Cristina, Virgem e Mártir* · Pictorial Lives
+- [ ] 27 Jul · St. Pantaleon, Martyr · *São Pantaleão, Mártir* · Pictorial Lives
+- [ ] 28 Jul · Sts. Nazarius and Celsus, Martyrs · *São Nazário e São Celso, Mártires* · Pictorial Lives
+- [ ] 30 Jul · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
+- [ ] 2 Aug · St. Stephen, Pope and Martyr · *São Estêvão, Papa e Mártir* · Pictorial Lives
+- [ ] 8 Aug · St. Cyriacus and His Companions, Martyrs · *São Ciríaco e Seus Companheiros, Mártires* · Pictorial Lives
+- [ ] 8 Aug · Blessed Peter Favre · *Beato Pedro Favre* · Pictorial Lives
+- [ ] 9 Aug · St. Romanus, Martyr · *São Romano, Mártir* · Pictorial Lives
+- [ ] 11 Aug · Sts. Tiburtius and Susanna, Martyrs · *São Tibúrcio e Santa Susana, Mártires* · Pictorial Lives
+- [ ] 13 Aug · St. Radegundes, Queen · *Santa Radegundes, Rainha* · Pictorial Lives
+- [ ] 14 Aug · St. Eusebius, Priest · *Santo Eusébio, Sacerdote* · Pictorial Lives
+- [ ] 16 Aug · St. Hyacinth · *São Jacinto* · Pictorial Lives
+- [ ] 17 Aug · St. Liberatus, Abbot, and Six Monks, Martyrs · *São Liberato, Abade, e Seis Monges, Mártires* · Pictorial Lives
+- [ ] 18 Aug · St. Helena, Empress · *Santa Helena, Imperatriz* · Pictorial Lives
+- [ ] 18 Aug · St. Agapetus, Martyr · *Santo Agapito, Mártir* · Pictorial Lives
+- [ ] 19 Aug · St. Louis, Bishop · *São Luís, Bispo* · Pictorial Lives
+- [ ] 22 Aug · St. Symphorian, Martyr · *São Sinforiano, Mártir* · Pictorial Lives
+- [ ] 23 Aug · St. Philip Benizi · *São Filipe Benício* · Pictorial Lives
+- [ ] 26 Aug · St. Zephyrinus, Pope and Martyr · *São Zeferino, Papa e Mártir* · Pictorial Lives
+- [ ] 30 Aug · St. Fiaker, Anchorite · *São Fiacro, Anacoreta* · Pictorial Lives
+- [ ] 31 Aug · St. Raymund Nonnatus · *São Raimundo Nonato* · Pictorial Lives
+- [ ] 1 Sep · St. Giles, Abbot · *Santo Egídio, Abade* · Pictorial Lives
+- [ ] 3 Sep · St. Seraphia, Virgin and Martyr · *Santa Seráfia, Virgem e Mártir* · Pictorial Lives
+- [ ] 4 Sep · St. Rosalia, Virgin · *Santa Rosália, Virgem* · Pictorial Lives
+- [ ] 5 Sep · St. Laurence Justinian · *São Lourenço Justiniano* · Pictorial Lives
+- [ ] 6 Sep · St. Eleutherius, Abbot · *Santo Eleutério, Abade* · Pictorial Lives
+- [ ] 7 Sep · St. Cloud, Confessor · *São Clodoaldo, Confessor* · Pictorial Lives
+- [ ] 9 Sep · St. Omer, Bishop · *Santo Omer, Bispo* · Pictorial Lives
+- [ ] 10 Sep · St. Nicholas of Tolentino · *São Nicolau de Tolentino* · Pictorial Lives
+- [ ] 11 Sep · St. Paphnutius, Bishop · *São Pafnúcio, Bispo* · Pictorial Lives
+- [ ] 12 Sep · St. Guy of Anderlecht · *São Guido de Anderlecht* · Pictorial Lives
+- [ ] 13 Sep · St. Eulogius, Patriarch of Alexandria · *Santo Eulógio, Patriarca de Alexandria* · Pictorial Lives
+- [ ] 15 Sep · St. Catherine of Genoa · *Santa Catarina de Gênova* · Pictorial Lives
+- [ ] 17 Sep · St. Lambert, Bishop, Martyr · *São Lamberto, Bispo, Mártir* · Pictorial Lives
+- [ ] 18 Sep · St. Thomas of Villanova · *São Tomás de Vilanova* · Pictorial Lives
+- [ ] 20 Sep · Sts. Eustachius and Companions, Martyrs · *Santo Eustáquio e Companheiros, Mártires* · Pictorial Lives
+- [ ] 22 Sep · The Theban Legion · *A Legião Tebana* · Pictorial Lives
+- [ ] 23 Sep · St. Thecla, Virgin, Martyr · *Santa Tecla, Virgem, Mártir* · Pictorial Lives
+- [ ] 25 Sep · St. Firmin, Bishop, Martyr · *São Firmino, Bispo, Mártir* · Pictorial Lives
+- [ ] 25 Sep · St. Finbarr, Bishop · *São Finbarr, Bispo* · Pictorial Lives
+- [ ] 26 Sep · Sts. Cyprian and Justina, Martyrs · *São Cipriano e Santa Justina, Mártires* · Pictorial Lives
+- [ ] 1 Oct · St. Remigius, Bishop · *São Remígio, Bispo* · Pictorial Lives
+- [ ] 3 Oct · St. Gerard, Abbot · *São Gerardo, Abade* · Pictorial Lives
+- [ ] 5 Oct · St. Placid, Martyr · *São Plácido, Mártir* · Pictorial Lives
+- [ ] 7 Oct · St. Mark, Pope · *São Marcos, Papa* · Pictorial Lives
+- [ ] 9 Oct · St. Louis Bertrand · *São Luís Bertrando* · Pictorial Lives
+- [ ] 10 Oct · St. Francis Borgia · *São Francisco de Borja* · Pictorial Lives
+- [ ] 11 Oct · St. Tarachus and his Companions · *São Taraco e seus Companheiros* · Pictorial Lives
+- [ ] 12 Oct · St. Wilfrid, Bishop · *São Wilfrido, Bispo* · Pictorial Lives
+- [ ] 13 Oct · St. Edward the Confessor · *Santo Eduardo, o Confessor* · Pictorial Lives
+- [ ] 16 Oct · St. Gall, Abbot · *São Galo, Abade* · Pictorial Lives
+- [ ] 19 Oct · St. Peter of Alcantara · *São Pedro de Alcântara* · Pictorial Lives
+- [ ] 21 Oct · St. Ursula, Virgin and Martyr · *Santa Úrsula, Virgem e Mártir* · Pictorial Lives
+- [ ] 22 Oct · St. Mello, Bishop · *São Melônio, Bispo* · Pictorial Lives
+- [ ] 22 Oct · St. Hilarion, Abbot · *Santo Hilarião, Abade* · Pictorial Lives
+- [ ] 23 Oct · St. Theodoret, Martyr · *São Teodoreto, Mártir* · Pictorial Lives
+- [ ] 24 Oct · St. Magloire, Bishop · *São Maglório, Bispo* · Pictorial Lives
+- [ ] 25 Oct · Sts. Crispin and Crispinian, Martyrs · *São Crispim e São Crispiniano, Mártires* · Pictorial Lives
+- [ ] 26 Oct · St. Evaristus, Pope and Martyr · *Santo Evaristo, Papa e Mártir* · Pictorial Lives
+- [ ] 27 Oct · St. Frumentius, Bishop · *São Frumêncio, Bispo* · Pictorial Lives
+- [ ] 29 Oct · St. Narcissus, Bishop · *São Narciso, Bispo* · Pictorial Lives
+- [ ] 30 Oct · St. Marcellus, the Centurion, Martyr · *São Marcelo, o Centurião, Mártir* · Pictorial Lives
+- [ ] 31 Oct · St. Quintin, Martyr · *São Quintino, Mártir* · Pictorial Lives
+- [ ] 2 Nov · St. Malachi, Bishop · *São Malaquias, Bispo* · Pictorial Lives
+- [ ] 3 Nov · St. Hubert, Bishop · *Santo Huberto, Bispo* · Pictorial Lives
+- [ ] 5 Nov · St. Bertille, Abbess · *Santa Bertila, Abadessa* · Pictorial Lives
+- [ ] 6 Nov · St. Leonard · *São Leonardo* · Pictorial Lives
+- [ ] 7 Nov · St. Willibrord · *São Vilibrordo* · Pictorial Lives
+- [ ] 9 Nov · St. Theodore Tyro, Martyr · *São Teodoro Tiro, Mártir* · Pictorial Lives
+- [ ] 10 Nov · St. Andrew Avellino · *Santo André Avelino* · Pictorial Lives
+- [ ] 13 Nov · St. Stanislas Kostka · *São Estanislau Kostka* · Pictorial Lives
+- [ ] 14 Nov · St. Didacus · *São Dídaco* · Pictorial Lives
+- [ ] 14 Nov · St. Laurence O'Toole, Archbishop of Dublin · *São Lourenço O'Toole, Arcebispo de Dublin* · Pictorial Lives
+- [ ] 16 Nov · St. Edmund of Canterbury · *Santo Edmundo de Cantuária* · Pictorial Lives
+- [ ] 17 Nov · St. Gregory Thaumaturgus · *São Gregório Taumaturgo* · Pictorial Lives
+- [ ] 18 Nov · St. Odo of Cluny · *Santo Odão de Cluny* · Pictorial Lives
+- [ ] 20 Nov · St. Felix of Valois · *São Félix de Valois* · Pictorial Lives
+- [ ] 26 Nov · St. Peter of Alexandria, Bishop, Martyr · *São Pedro de Alexandria, Bispo, Mártir* · Pictorial Lives
+- [ ] 27 Nov · St. Maximus, Bishop · *São Máximo, Bispo* · Pictorial Lives
+- [ ] 28 Nov · St. James of La Marca of Ancona · *São Tiago de La Marca de Ancona* · Pictorial Lives
+- [ ] 29 Nov · St. Saturninus, Martyr · *São Saturnino, Mártir* · Pictorial Lives
+- [ ] 1 Dec · St. Eligius · *Santo Elói* · Pictorial Lives
+- [ ] 2 Dec · St. Bibiana, Virgin, Martyr · *Santa Bibiana, Virgem, Mártir* · Pictorial Lives
+- [ ] 4 Dec · St. Barbara, Virgin, Martyr · *Santa Bárbara, Virgem, Mártir* · Pictorial Lives
+- [ ] 5 Dec · St. Sabas, Abbot · *São Sabas, Abade* · Pictorial Lives
+- [ ] 9 Dec · St. Leocadia, Virgin, Martyr · *Santa Leocádia, Virgem, Mártir* · Pictorial Lives
+- [ ] 10 Dec · St. Eulalia, Virgin, Martyr · *Santa Eulália, Virgem, Mártir* · Pictorial Lives
+- [ ] 12 Dec · St. Valery, Abbot · *São Valério, Abade* · Pictorial Lives
+- [ ] 12 Dec · St. Finian, Bishop · *São Finiano, Bispo* · Pictorial Lives
+- [ ] 14 Dec · St. Nicasius, Archbishop, and his Companions, Martyrs · *São Nicásio, Arcebispo, e seus Companheiros, Mártires* · Pictorial Lives
+- [ ] 15 Dec · St. Mesmin · *São Mesmin* · Pictorial Lives
+- [ ] 17 Dec · St. Olympias, Widow · *Santa Olímpia, Viúva* · Pictorial Lives
+- [ ] 18 Dec · St. Gatian, Bishop · *São Gaciano, Bispo* · Pictorial Lives
+- [ ] 19 Dec · St. Nemesion, Martyr · *São Nemésio, Mártir* · Pictorial Lives
+- [ ] 20 Dec · St. Philogonius, Bishop · *São Filogônio, Bispo* · Pictorial Lives
+- [ ] 22 Dec · St. Ischyrion, Martyr · *Santo Isquírion, Mártir* · Pictorial Lives
+- [ ] 23 Dec · St. Servulus · *São Sérvulo* · Pictorial Lives
+- [ ] 24 Dec · St. Delphinus, Bishop · *São Delfino, Bispo* · Pictorial Lives
+- [ ] 24 Dec · Sts. Thrasilla and Emiliana, Virgins · *Santas Trasila e Emiliana, Virgens* · Pictorial Lives
+- [ ] 30 Dec · St. Sabinus, Bishop, and his Companions, Martyrs · *São Sabino, Bispo, e seus Companheiros, Mártires* · Pictorial Lives
+
 ## Feasts of the Lord and the Church
 
 ### Fixed dates
 
+- [ ] 1 Jan · The Circumcision of our Lord · *A Circuncisão de Nosso Senhor* · Pictorial Lives
 - [ ] 3 Jan · The Most Holy Name of Jesus · *Santíssimo Nome de Jesus* · optional-memorial
 - [ ] 2 Feb · The Presentation of the Lord · *Apresentação do Senhor* · feast
 - [x] 25 Mar · The Annunciation of the Lord · *Anunciação do Senhor* · solemnity — `annunciation`
@@ -255,6 +502,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [ ] 2 Nov · The Commemoration of All the Faithful Departed (All Souls' Day) · *Comemoração de Todos os Fiéis Defuntos* · solemnity
 - [ ] 9 Nov · The Dedication of the Lateran Basilica · *Dedicação da Basílica do Latrão* · feast
 - [ ] 18 Nov · The Dedication of the Basilicas of Saints Peter and Paul, Apostles · *Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos* · optional-memorial
+- [ ] 8 Nov · The Feast of the Holy Relics · *A Festa das Santas Relíquias* · Pictorial Lives
 
 ### Moveable
 
@@ -283,6 +531,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 8 Sep · The Nativity of the Blessed Virgin Mary · *Natividade da Bem-Aventurada Virgem Maria* · feast — `nativity_bvm`
 - [ ] 12 Sep · The Most Holy Name of Mary · *Santíssimo Nome de Maria* · optional-memorial
 - [ ] 15 Sep · Our Lady of Sorrows · *Bem-aventurada Virgem Maria das Dores* · memorial
+- [ ] 24 Sep · The Blessed Virgin Mary of Mercy · *A Santíssima Virgem Maria da Mercê* · Pictorial Lives
 - [ ] 7 Oct · Our Lady of the Rosary · *Bem-aventurada Virgem Maria do Rosário* · memorial
 - [x] 21 Nov · The Presentation of the Blessed Virgin Mary · *Apresentação da Bem-aventurada Virgem Maria* · memorial — `presentation_bvm`
 - [x] 8 Dec · The Immaculate Conception of the Blessed Virgin Mary · *Imaculada Conceição da Bem-Aventurada Virgem Maria* · solemnity — `immaculate_conception`
