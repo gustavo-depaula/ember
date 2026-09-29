@@ -1,0 +1,44 @@
+{
+  "id": "paul_miki",
+  "feast": {
+    "month": 2,
+    "day": 6
+  },
+  "name": {
+    "en-US": "Sts. Paul Miki and Companions",
+    "pt-BR": "Santos Paulo Miki e companheiros"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Japan",
+    "pt-BR": "Mártires do Japão"
+  },
+  "prayerExcerpt": {
+    "en-US": "I have been crucified with Christ; yet I live, no longer I, but Christ lives in me.",
+    "pt-BR": "Com Cristo, eu fui pregado na cruz. Eu vivo, mas não eu, é Cristo que vive em mim."
+  },
+  "meta": {
+    "face": "Paul: a Japanese man of about thirty-three with a lean, long face — a high forehead, high, flat cheekbones, a slim, straight nose with a low bridge, narrow single-lidded dark eyes under fine straight brows and a firm, narrow chin; clean-shaven, short-cropped black hair, lips slightly parted as if preaching, his gaze raised. Louis: a Japanese boy of twelve with a flat, round little face — plump round cheeks, a tiny snub nose, narrow crescent eyes that nearly close as he smiles, thin arched brows and a small pointed chin; glossy black hair tied back in a short tail and a small, joyful smile.",
+    "basis": "No portrait exists. Butler gives Paul Miki as a noble Japanese and an eminent preacher of thirty-three, and three boys among the twenty-six, the youngest only twelve; the Jesuit black and the crucifix follow the devotional images, the boy's dress is a choice.",
+    "excerpt": "content/of/formularies/sanctoral/02-06.json readings.default.firstReading (Gal 2:19-20, excerpt)",
+    "sources": [
+      {
+        "title": "Butler, Lives of the Saints (1864), The Martyrs of Japan (EWTN)",
+        "url": "https://www.ewtn.com/catholicism/library/martyrs-of-japan-5735"
+      },
+      {
+        "title": "Wikimedia Commons, Martyrdom of Paul Miki and companions in Nagasaki (c. 1635)",
+        "url": "https://commons.wikimedia.org/wiki/File:Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-(made-c1635).png"
+      },
+      {
+        "title": "Franciscan Media, Saint Paul Miki and Companions",
+        "url": "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-miki-and-companions/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

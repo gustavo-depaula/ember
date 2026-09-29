@@ -1,0 +1,48 @@
+{
+  "id": "cornelius_cyprian",
+  "feast": {
+    "month": 9,
+    "day": 16
+  },
+  "name": {
+    "en-US": "Sts. Cornelius and Cyprian",
+    "pt-BR": "Santos Cornélio e Cipriano"
+  },
+  "patronOf": {
+    "en-US": "Pope and bishop, martyrs",
+    "pt-BR": "Papa e bispo, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "He can no longer have God for his Father, who has not the Church for his mother.",
+    "pt-BR": "Já não pode ter a Deus por Pai quem não tem a Igreja por mãe."
+  },
+  "meta": {
+    "face": "Cornelius: a man of about sixty with a long, rectangular face — a broad, flat forehead and a straight-edged jaw; a long, straight nose with a narrow ridge; large dark almond eyes set rather close under level grey brows; flat cheeks; a flat, square chin; a small, thin-lipped mouth; bald on the crown with a close fringe of grey hair, a short, neat grey beard and a calm, grave look. Cyprian: a man of about fifty with a warm olive-brown North African complexion and a diamond-shaped face — a narrow forehead, wide, angular, jutting cheekbones and a narrow chin; a strong, high-bridged nose with flared nostrils; large, round dark eyes under thick, low, straight black brows; a full, wide mouth; thick, tightly curled black hair, a full black beard parted into two points at the chin, and an expression both grave and serene.",
+    "basis": "Cornelius follows the 12th-century apse mosaic of Santa Maria in Trastevere (balding, grey-haired, short grey beard, pallium) and the horn attribute from his name. Cyprian follows Dionysius's hierarch entry (young, curly hair, a large beard parted in two) and Pontius's note that his countenance was grave and joyous; the olive complexion is a choice for a Carthaginian, not attested.",
+    "excerpt": "Cyprian, On the Unity of the Church 6, ANF vol. 5 (1886), https://www.newadvent.org/fathers/050701.htm; pt-BR our rendering",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Pope Cornelius, apse mosaic of Santa Maria in Trastevere",
+        "url": "https://commons.wikimedia.org/wiki/File:Pope_Cornelius_%E2%80%93_Santa_Maria_in_Trastevere.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, icon of Cyprian of Carthage",
+        "url": "https://commons.wikimedia.org/wiki/File:Cyprian_von_Karthago2.jpg"
+      },
+      {
+        "title": "Pontius the Deacon, Life and Passion of Cyprian (New Advent)",
+        "url": "https://www.newadvent.org/fathers/0505.htm"
+      },
+      {
+        "title": "Wikipedia, Pope Cornelius (horn attribute)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Cornelius"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

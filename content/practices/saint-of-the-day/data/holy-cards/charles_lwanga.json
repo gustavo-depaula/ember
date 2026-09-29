@@ -1,0 +1,48 @@
+{
+  "id": "charles_lwanga",
+  "feast": {
+    "month": 6,
+    "day": 3
+  },
+  "name": {
+    "en-US": "Sts. Charles Lwanga and Companions",
+    "pt-BR": "Santos Carlos Lwanga e companheiros"
+  },
+  "patronOf": {
+    "en-US": "Patron of African youth",
+    "pt-BR": "Padroeiro da juventude africana"
+  },
+  "prayerExcerpt": {
+    "en-US": "As gold in the furnace, the Lord put his chosen to the test.",
+    "pt-BR": "Como ouro na fornalha o Senhor provou os eleitos."
+  },
+  "meta": {
+    "face": "Charles: a tall, athletic Muganda man of about twenty-five with chestnut-brown skin and a long, sculpted face — a broad, high forehead, high, chiselled cheekbones, a broad, straight nose with rounded nostrils, large, wide-set dark eyes under straight brows, a firm, square chin and full, well-defined lips; close-cropped black hair, clean-shaven, and a steady, protective gaze. Kizito: a boy of thirteen, smaller, with dark-brown skin and a small, round face — full cheeks, a short button nose, large, round bright eyes under soft arched brows, a small rounded chin and a wide mouth; close-cropped hair and an eager, trusting look.",
+    "basis": "No photographs of Lwanga survive. His biography gives his chestnut-brown colouring and he was remembered as the court's strongest athlete; Kizito was thirteen or fourteen and was baptised by him at Munyonyo, as the shrine's window shows. The kanzu and bark-cloth are the dress Ugandan images give the pages.",
+    "excerpt": "content/of/formularies/sanctoral/06-03.json entranceAntiphon (first clause)",
+    "sources": [
+      {
+        "title": "Dictionary of African Christian Biography, Lwanga, Charles (after Faupel, African Holocaust)",
+        "url": "https://dacb.org/stories/uganda/lwanga-charles/"
+      },
+      {
+        "title": "Wikipedia, Uganda Martyrs (Kizito's age, patronage)",
+        "url": "https://en.wikipedia.org/wiki/Uganda_Martyrs"
+      },
+      {
+        "title": "Wikimedia Commons, St. Kizito being baptised by St. Charles Lwanga at Munyonyo",
+        "url": "https://commons.wikimedia.org/wiki/File:St._Kizito_being_baptised_by_St._Charles_Lwanga_at_Munyonyo.jpg"
+      },
+      {
+        "title": "National Catholic Reporter, Black Saints: Charles Lwanga",
+        "url": "https://www.ncronline.org/blogs/ncr-today/black-saints-charles-lwanga"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

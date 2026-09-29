@@ -1,0 +1,44 @@
+{
+  "id": "josaphat",
+  "feast": {
+    "month": 11,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Josaphat",
+    "pt-BR": "São Josafá"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whoever loses his life for my sake will find it in eternity.",
+    "pt-BR": "Quem perde a sua vida por causa de mim vai encontrá-la."
+  },
+  "meta": {
+    "face": "A lean man of about forty with a long, narrow, ascetic face — a narrow forehead, a thin, long, straight nose with a narrow bridge, large dark eyes under straight, dark, level brows, angular cheekbones over hollow cheeks, a narrow jaw and thin lips; a dark-brown moustache and a full dark-brown beard of medium length squared at the chin, and a steady, gentle gaze.",
+    "basis": "Follows the 1620s portrait drawing and the 1623 woodcut made soon after his death: a long, lean face with a full dark beard and moustache, the Byzantine crown-mitre and omophorion. He died at about forty-three.",
+    "excerpt": "content/of/formularies/sanctoral/11-12.json communionAntiphon (\"says the Lord\" dropped; the en-US source has a stray comma after \"sake\" and reads \"say the Lord\")",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, drawing after a portrait of Josaphat Kuntsevych (1620s–1630s)",
+        "url": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B5%D0%B2%D1%8F%D0%B4%D0%BE%D0%BC%D1%8B_%D0%B0%D1%9E%D1%82%D0%B0%D1%80._%D0%9C%D0%B0%D0%BB%D1%8E%D0%BD%D0%B0%D0%BA_%D0%B7_%D0%BF%D0%B0%D1%80%D1%82%D1%80%D1%8D%D1%82%D0%B0_%D0%AF%D0%B7%D0%B0%D1%84%D0%B0%D1%82%D0%B0_%D0%9A%D1%83%D0%BD%D1%86%D1%8D%D0%B2%D1%96%D1%87%D0%B0._1620%E2%80%941630-%D1%8F_%D0%B3%D0%B3.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Jazafat Kancevič (1625 woodcut)",
+        "url": "https://commons.wikimedia.org/wiki/File:Jazafat_Kancevi%C4%8D._%D0%AF%D0%B7%D0%B0%D1%84%D0%B0%D1%82_%D0%9A%D1%83%D0%BD%D1%86%D1%8D%D0%B2%D1%96%D1%87_(1625).jpg"
+      },
+      {
+        "title": "Wikipedia, Josaphat Kuntsevych",
+        "url": "https://en.wikipedia.org/wiki/Josaphat_Kuntsevych"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

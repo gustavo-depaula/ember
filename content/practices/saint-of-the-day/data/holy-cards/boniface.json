@@ -1,0 +1,48 @@
+{
+  "id": "boniface",
+  "feast": {
+    "month": 6,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Boniface",
+    "pt-BR": "São Bonifácio"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Germany",
+    "pt-BR": "Apóstolo da Alemanha"
+  },
+  "prayerExcerpt": {
+    "en-US": "Be of stout heart, and fear not them who kill the body.",
+    "pt-BR": "Tende o coração firme e não temais os que matam o corpo."
+  },
+  "meta": {
+    "face": "A sturdy Anglo-Saxon man of about fifty with a broad, flat-planed, ruddy, weathered face, widest at the cheekbones, with a wide, blunt jaw; a short snub nose; small, clear blue, slightly hooded eyes; faint flaxen brows; a wide, straight mouth; fair flaxen hair cut short below the mitre, a short, square-trimmed flaxen beard flecked with grey, and a resolute, open gaze.",
+    "basis": "No portrait survives. The Fulda Sacramentary shows the sword-pierced book, the axe and the oak come from Willibald's Life, and later German images (Bloemaert, the Fulda statue) give him a beard. The flaxen colouring and the age at Geismar are choices to keep him off the white-bearded elder.",
+    "excerpt": "Willibald, Life of Saint Boniface, ch. 8, tr. G. W. Robinson (Harvard, 1916), his words to his companions at Dokkum (opening \"Men and brethren,\" dropped); pt-BR our rendering",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Boniface baptising and martyrdom, Sacramentary of Fulda",
+        "url": "https://commons.wikimedia.org/wiki/File:St_Boniface_-_Baptising-Martyrdom_-_Sacramentary_of_Fulda_-_11Century.jpg"
+      },
+      {
+        "title": "christianiconography.info, Saint Boniface",
+        "url": "https://www.christianiconography.info/boniface.html"
+      },
+      {
+        "title": "Willibald, The Life of Saint Boniface, tr. Robinson (1916), archive.org",
+        "url": "https://archive.org/details/lifeofsaintboni00robiuoft"
+      },
+      {
+        "title": "Wikimedia Commons, Saint Boniface by Cornelis Bloemaert",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Boniface_by_Cornelis_Bloemaert.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "andrew_dung_lac",
+  "feast": {
+    "month": 11,
+    "day": 24
+  },
+  "name": {
+    "en-US": "Sts. Andrew Dung-Lac and Companions",
+    "pt-BR": "Santos André Dung-Lac e companheiros"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Vietnam",
+    "pt-BR": "Mártires do Vietnã"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we never boast, except in the Cross of our Lord Jesus Christ.",
+    "pt-BR": "Não devemos gloriar-nos a não ser na cruz de nosso Senhor Jesus Cristo."
+  },
+  "meta": {
+    "face": "Andrew: a Vietnamese man of about forty-four with a warm golden complexion and a lean, long-jawed face — high, prominent cheekbones over slightly hollow cheeks, a straight nose with a flat bridge and wide nostrils, calm dark almond eyes under straight, thick black brows, a long, firm jaw and a wide, thin-lipped mouth; clean-shaven, black hair under the khăn đóng, and a gentle, resolute expression. Peter: an elderly Vietnamese priest of about seventy-six, thin and slightly stooped, with a small, narrow face under a high, domed forehead — a small, low-bridged nose, narrow eyes deeply creased at the corners, sparse white brows, hollow cheeks, a small rounded chin and a thin, kind mouth; a sparse white moustache and a wispy white chin beard.",
+    "basis": "No portrait exists. Vietnamese statues and windows show him clean-shaven in a khăn đóng and long tunic with a stole and palm. Peter Trương Văn Thi (born 1763) was arrested and beheaded with him at Ô Cầu Giấy in 1839, so he is the natural companion; his features are a choice.",
+    "excerpt": "content/of/formularies/sanctoral/11-24.json entranceAntiphon (first sentence)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, statue of Andrew Dung-Lac (Thanh An-rê Dũng Lạc)",
+        "url": "https://commons.wikimedia.org/wiki/File:Anre_Dung_Lac.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Saint Andrew Dung Lac window, Westerville, Ohio",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Paul_Catholic_Church_(Westerville,_Ohio)_-_Saint_Andrew_Dung_Lac.jpg"
+      },
+      {
+        "title": "Wikipedia, Andrew Dũng-Lạc",
+        "url": "https://en.wikipedia.org/wiki/Andrew_D%C5%A9ng-L%E1%BA%A1c"
+      },
+      {
+        "title": "St Vincent Liem Centre, Phêrô Trương Văn Thi (1763–1839)",
+        "url": "https://www.vinhsonliem.org/2017/05/20/phero-truong-van-thi-1763-1839/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

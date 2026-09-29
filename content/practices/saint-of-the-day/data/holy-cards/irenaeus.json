@@ -1,0 +1,44 @@
+{
+  "id": "irenaeus",
+  "feast": {
+    "month": 6,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Irenaeus",
+    "pt-BR": "Santo Irineu"
+  },
+  "patronOf": {
+    "en-US": "Doctor of Unity",
+    "pt-BR": "Doutor da Unidade"
+  },
+  "prayerExcerpt": {
+    "en-US": "The glory of God is a living man; and the life of man consists in beholding God.",
+    "pt-BR": "A glória de Deus é o homem vivo, e a vida do homem é a visão de Deus."
+  },
+  "meta": {
+    "face": "A man of about sixty with a long, narrow face and a high, domed forehead; a long nose with a softly rounded tip; pale grey eyes set wide apart under sparse, level ash-brown brows; smooth, flat cheeks; a long chin; a small, soft mouth; straight ash-brown hair to the ears, a long, straight ash-brown beard falling to the chest and silvering at the chin, and a gentle, peaceable gaze.",
+    "basis": "Portraits are traditional, not from life: the modern Orthodox icon gives him a long, straight brown beard and a long face, the Bégule window at Lyon a greying beard. Ash-brown silvering at the chin combines them and keeps him off the white-bearded elder.",
+    "excerpt": "Irenaeus, Against Heresies IV.20.7, ANF vol. 1 (1885), https://www.newadvent.org/fathers/0103420.htm (opening \"For\" dropped); pt-BR our rendering",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Saint Irenaeus icon",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Irenaeus_icon.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, stained glass of Saint Irenaeus, Lyon",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_irenee_saint_irenee.jpg"
+      },
+      {
+        "title": "Wikipedia, Irenaeus (Doctor unitatis, 2022)",
+        "url": "https://en.wikipedia.org/wiki/Irenaeus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}

@@ -6,7 +6,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 | Category | Cards | Done |
 |---|---|---|
-| Saints — solemnities, feasts, memorials | 83 | 70 |
+| Saints — solemnities, feasts, memorials | 83 | 80 |
 | Saints — optional memorials | 106 | 18 |
 | Saints of the Roman Canon not on the calendar | 6 | 0 |
 | Saints of Brazil's own calendar | 6 | 0 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 105 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 115 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -33,28 +33,28 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 28 Jan · Saint Thomas Aquinas, priest and doctor of the Church · *Santo Tomás de Aquino, presbítero e doutor da Igreja* · memorial — `thomas_aquinas`
 - [x] 31 Jan · Saint John Bosco, priest · *São João Bosco, presbítero* · memorial — `john_bosco`
 - [x] 5 Feb · Saint Agatha, virgin and martyr · *Santa Águeda, virgem e mártir* · memorial — `agatha`
-- [ ] 6 Feb · Ss Paul Miki and companions, martyrs · *São Paulo Miki e companheiros, mártires* · memorial
+- [x] 6 Feb · Ss Paul Miki and companions, martyrs · *São Paulo Miki e companheiros, mártires* · memorial — `paul_miki`
 - [x] 10 Feb · Saint Scholastica, virgin · *Santa Escolástica, virgem* · memorial — `scholastica`
 - [ ] 14 Feb · Ss Cyril, monk, and Methodius, bishop · *Santos Cirilo, monge, e Metódio, bispo* · feast
 - [x] 23 Feb · Saint Polycarp, bishop and martyr · *São Policarpo, bispo e mártir* · memorial — `polycarp`
 - [x] 7 Mar · Ss. Perpetua and Felicity, martyrs · *Santas Perpétua e Felicidade, mártires* · memorial — `perpetua_felicity`
 - [x] 19 Mar · Saint Joseph the Husband of Mary · *São José, Esposo da Bem-Aventurada Virgem Maria* · solemnity — `joseph`
 - [ ] 7 Apr · Saint John Baptist de la Salle, priest · *São João Batista de la Salle, presbítero* · memorial
-- [ ] 11 Apr · Saint Stanislaus, bishop and martyr · *Santo Estanislau, bispo e mártir* · memorial
+- [x] 11 Apr · Saint Stanislaus, bishop and martyr · *Santo Estanislau, bispo e mártir* · memorial — `stanislaus`
 - [x] 25 Apr · Saint Mark, Evangelist · *São Marcos, evangelista* · feast — `mark`
 - [x] 29 Apr · Saint Catherine of Siena, virgin and doctor of the Church · *Santa Catarina de Sena, virgem e doutora da Igreja* · feast — `catherine_siena`
 - [x] 2 May · Saint Athanasius, bishop and doctor of the Church · *Santo Atanásio, bispo e doutor da Igreja* · memorial — `athanasius`
 - [x] 3 May · Ss. Philip and James, Apostles · *Santos Filipe e Tiago, apóstolos* · feast — `philip_james, james_greater`
 - [x] 14 May · Saint Matthias, Apostle · *São Matias, apóstolo* · feast — `matthias`
 - [x] 26 May · Saint Philip Neri, Priest · *São Filipe Néri, presbítero* · memorial — `philip_neri`
-- [ ] 1 Jun · Saint Justin, martyr · *São Justino, mártir* · memorial
-- [ ] 3 Jun · Sts. Charles Lwanga and Companions, martyrs · *São Carlos Lwanga e companheiros, mártires* · memorial
-- [ ] 5 Jun · Saint Boniface, bishop and martyr · *São Bonifácio, bispo e mártir* · feast
+- [x] 1 Jun · Saint Justin, martyr · *São Justino, mártir* · memorial — `justin`
+- [x] 3 Jun · Sts. Charles Lwanga and Companions, martyrs · *São Carlos Lwanga e companheiros, mártires* · memorial — `charles_lwanga`
+- [x] 5 Jun · Saint Boniface, bishop and martyr · *São Bonifácio, bispo e mártir* · feast — `boniface`
 - [x] 11 Jun · Saint Barnabas, apostle · *São Barnabé, apóstolo* · memorial — `barnabas`
 - [x] 13 Jun · Saint Anthony of Padua, priest and doctor of the Church · *Santo Antônio de Pádua, presbítero e doutor da Igreja* · memorial — `anthony_padua`
 - [x] 21 Jun · Saint Aloysius Gonzaga, religious · *São Luís Gonzaga, religioso* · memorial — `aloysius_gonzaga`
 - [x] 24 Jun · The Nativity of Saint John the Baptist · *Natividade de São João Batista* · solemnity — `john_baptist`
-- [ ] 28 Jun · Saint Irenaeus, bishop and martyr · *Santo Irineu, bispo e mártir* · memorial
+- [x] 28 Jun · Saint Irenaeus, bishop and martyr · *Santo Irineu, bispo e mártir* · memorial — `irenaeus`
 - [x] 29 Jun · Ss. Peter and Paul, Apostles · *Santos Pedro e Paulo, apóstolos* · solemnity — `peter, paul`
 - [x] 3 Jul · Saint Thomas, Apostle · *São Tomé, apóstolo* · feast — `thomas_apostle`
 - [x] 11 Jul · Saint Benedict, abbot · *São Bento, abade* · feast — `benedict`
@@ -79,9 +79,9 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 28 Aug · Saint Augustine, bishop and doctor of the Church · *Santo Agostinho, bispo e doutor da Igreja* · memorial — `augustine`
 - [x] 3 Sep · Saint Gregory the Great, pope and doctor of the Church · *São Gregório Magno, papa e doutor da Igreja* · memorial — `gregory_great`
 - [x] 13 Sep · Saint John Chrysostom, bishop and doctor of the Church · *São João Crisóstomo, bispo e doutor da Igreja* · memorial — `john_chrysostom`
-- [ ] 16 Sep · Ss. Cornelius, pope, and Cyprian, bishop, martyrs · *Santos Cornélio, papa, e Cipriano, bispo, mártires* · memorial
+- [x] 16 Sep · Ss. Cornelius, pope, and Cyprian, bishop, martyrs · *Santos Cornélio, papa, e Cipriano, bispo, mártires* · memorial — `cornelius_cyprian`
 - [x] 17 Sep · Saint Hildegard of Bingen virgin and doctor of the Church · *Santa Hildegarda de Bingen, virgem e doutora da Igreja* · feast — `hildegard`
-- [ ] 20 Sep · Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and Companions, martyrs · *Santos André Kim Tae-gon, presbítero, Paulo Chóng Hasang e companheiros, mártires* · memorial
+- [x] 20 Sep · Ss Andrew Kim Taegon, priest, Paul Chong Hasang, and Companions, martyrs · *Santos André Kim Tae-gon, presbítero, Paulo Chóng Hasang e companheiros, mártires* · memorial — `andrew_kim`
 - [x] 21 Sep · Saint Matthew, Apostle And Evangelist · *São Mateus, apóstolo e evangelista* · feast — `matthew`
 - [x] 23 Sep · Saint Pius of Pietrelcina (Padre Pio), priest · *São Pio de Pietrelcina, presbítero* · memorial — `padre_pio`
 - [x] 27 Sep · Saint Vincent de Paul, priest · *São Vicente de Paulo, presbítero* · memorial — `vincent_de_paul`
@@ -95,10 +95,10 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 4 Nov · Saint Charles Borromeo, bishop · *São Carlos Borromeu, bispo* · memorial — `charles_borromeo`
 - [x] 10 Nov · Saint Leo the Great, pope and doctor of the Church · *São Leão Magno, papa e doutor da Igreja* · memorial — `leo_great`
 - [x] 11 Nov · Saint Martin of Tours, bishop · *São Martinho de Tours, bispo* · memorial — `martin_tours`
-- [ ] 12 Nov · Saint Josaphat, bishop and martyr · *São Josafá, bispo e mártir* · memorial
+- [x] 12 Nov · Saint Josaphat, bishop and martyr · *São Josafá, bispo e mártir* · memorial — `josaphat`
 - [x] 17 Nov · Saint Elizabeth of Hungary, religious · *Santa Isabel da Hungria, religiosa* · memorial — `elizabeth_hungary`
 - [x] 22 Nov · Saint Cecilia, virgin and martyr · *Santa Cecília, virgem e mártir* · memorial — `cecilia`
-- [ ] 24 Nov · Ss Andrew Dung-Lac, priest, and Companions, martyrs · *Santo André Dung-Lac, presbítero, e companheiros, mártires* · memorial
+- [x] 24 Nov · Ss Andrew Dung-Lac, priest, and Companions, martyrs · *Santo André Dung-Lac, presbítero, e companheiros, mártires* · memorial — `andrew_dung_lac`
 - [x] 30 Nov · Saint Andrew, Apostle · *Santo André, apóstolo* · feast — `andrew`
 - [x] 3 Dec · Saint Francis Xavier · *São Francisco Xavier, presbítero* · memorial — `francis_xavier`
 - [x] 6 Dec · Saint Nicholas, bishop · *São Nicolau, bispo* · memorial — `nicholas`

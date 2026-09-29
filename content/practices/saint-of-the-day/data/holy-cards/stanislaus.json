@@ -1,0 +1,44 @@
+{
+  "id": "stanislaus",
+  "feast": {
+    "month": 4,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Stanislaus",
+    "pt-BR": "Santo Estanislau"
+  },
+  "patronOf": {
+    "en-US": "Patron of Poland",
+    "pt-BR": "Padroeiro da Polônia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blessed the Father of compassion and God of all encouragement, who encourages us in our every affliction.",
+    "pt-BR": "Bendito seja o Pai misericordioso, que em todo sofrimento nos consola!"
+  },
+  "meta": {
+    "face": "A man of about fifty with a full, pear-shaped face — narrow at the temples and widening to heavy, low cheeks and a broad, rounded jaw; a short, straight nose with a broad bridge; heavy-lidded dark eyes under thick, low, almost horizontal brows; a small, full-lipped, closed mouth; clean-shaven, short dark hair greying at the temples below the mitre, the eyes lowered in thought, and a grave, gentle expression.",
+    "basis": "Polish tradition shows him clean-shaven: Samostrzelnik's miniature (c. 1530s) with a full, heavy-lidded face, and Kuntze's Raising of Piotrowin with dark hair. He died at forty-eight; the sword and Piotr are his usual attributes.",
+    "excerpt": "content/of/formularies/sanctoral/04-11.json readings.default.gospelAcclamation verse",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Stanisław Samostrzelnik, Saint Stanislaus",
+        "url": "https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Samostrzelnik,_%C5%9Aw_Stanis%C5%82aw.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Tadeusz Kuntze, Raising of Piotrowin",
+        "url": "https://commons.wikimedia.org/wiki/File:Tadeusz_Kuntze_-_Wskrzeszenie_Piotrowina.jpg"
+      },
+      {
+        "title": "Wikipedia, Stanislaus of Szczepanów",
+        "url": "https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-2.md."
+      }
+    ]
+  }
+}
