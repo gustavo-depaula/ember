@@ -1,3 +1,4 @@
+import { format } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -84,16 +85,23 @@ export function usePracticePlan(manifest: PracticeManifest | undefined) {
       await createProgramCursor(planId)
       openProgram()
     }
-    if (firstSlot) {
-      enableSlots.mutate(planId, { onSuccess })
-      return
-    }
     const schedule = selectEnrollmentSchedule(
       program.progressPolicy,
       normalizeSchedule(slotDefaults?.schedule ?? { type: 'daily' }),
       program.totalDays,
-      new Date().toISOString().split('T')[0],
+      format(new Date(), 'yyyy-MM-dd'),
     )
+    // Every practice is seeded with a switched-off slot, so this is the usual
+    // path: the slot takes the program's calendar as it's switched on. Left on
+    // its daily rule, a novena's days would only advance by prayers, and a day
+    // missed would never show.
+    if (firstSlot) {
+      updateSlot.mutate(
+        { id: firstSlot.id, data: { schedule: JSON.stringify(schedule) } },
+        { onSuccess: () => enableSlots.mutate(planId, { onSuccess }) },
+      )
+      return
+    }
     withTime(schedule, 'time', ({ time }) =>
       createPractice.mutate(
         { id: planId, slot: { tier: defaultTier, time, schedule: JSON.stringify(schedule) } },

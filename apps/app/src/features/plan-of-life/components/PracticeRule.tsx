@@ -126,7 +126,8 @@ export function RuleProse({
         ...joinPieces(times, words.and),
       ]
     }),
-    '.',
+    // A sentence left on "a que horas?" already has its stop.
+    sentence.clauses.at(-1)?.slots.at(-1)?.time ? '.' : '',
   ]
 
   return (

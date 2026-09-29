@@ -1,3 +1,5 @@
+import { addDays, parseISO } from 'date-fns'
+
 import type { LiturgicalSeason } from '@/lib/liturgical'
 
 import type { Schedule } from './schedule'
@@ -83,12 +85,42 @@ const ptSeason: Partial<Record<LiturgicalSeason, string>> = {
   ordinary: 'no Tempo Comum',
 }
 
+const ptMonth = [
+  'janeiro',
+  'fevereiro',
+  'março',
+  'abril',
+  'maio',
+  'junho',
+  'julho',
+  'agosto',
+  'setembro',
+  'outubro',
+  'novembro',
+  'dezembro',
+]
+
+// A program's span, its first and last day: the month is named once when
+// both fall in it.
+function programSpan(schedule: { totalDays: number; startDate: string }) {
+  const first = parseISO(schedule.startDate)
+  const last = addDays(first, schedule.totalDays - 1)
+  return { first, last, sameMonth: first.getMonth() === last.getMonth() }
+}
+
 function ptDays(schedule: Schedule): string {
   const season = seasonSuffix(schedule, ptSeason, ' e ')
   switch (schedule.type) {
     case 'daily':
-    case 'fixed-program':
       return `todos os dias${season}`
+    case 'fixed-program': {
+      if (!schedule.startDate) return 'todos os dias'
+      const { first, last, sameMonth } = programSpan(schedule)
+      const from = sameMonth
+        ? `${first.getDate()}`
+        : `${first.getDate()} de ${ptMonth[first.getMonth()]}`
+      return `de ${from} a ${last.getDate()} de ${ptMonth[last.getMonth()]}`
+    }
     case 'days-of-week': {
       const { ordered, run } = readDays(schedule.days)
       if (ordered.length === 7) return `todos os dias${season}`
@@ -179,12 +211,33 @@ const enSeason: Partial<Record<LiturgicalSeason, string>> = {
   ordinary: 'in Ordinary Time',
 }
 
+const enMonth = [
+  'January',
+  'February',
+  'March',
+  'April',
+  'May',
+  'June',
+  'July',
+  'August',
+  'September',
+  'October',
+  'November',
+  'December',
+]
+
 function enDays(schedule: Schedule): string {
   const season = seasonSuffix(schedule, enSeason, ' and ')
   switch (schedule.type) {
     case 'daily':
-    case 'fixed-program':
       return `every day${season}`
+    case 'fixed-program': {
+      if (!schedule.startDate) return 'every day'
+      const { first, last, sameMonth } = programSpan(schedule)
+      const from = `${enMonth[first.getMonth()]} ${first.getDate()}`
+      const to = sameMonth ? `${last.getDate()}` : `${enMonth[last.getMonth()]} ${last.getDate()}`
+      return `from ${from} to ${to}`
+    }
     case 'days-of-week': {
       const { ordered, run } = readDays(schedule.days)
       if (ordered.length === 7) return `every day${season}`

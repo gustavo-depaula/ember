@@ -149,7 +149,14 @@ export function projectProgramAtDate(args: {
   // continue / restart: calendar-anchored. Visibility window is governed by
   // the schedule's own `isApplicableOn`, but we mirror its logic here so the
   // hook is the single source of truth.
-  const calendarDay = resolveCalendarDay(schedule, cursor, target, totalDays)
+  // Past a fixed program's window it rests on its last day: complete once every
+  // day was prayed, otherwise with the days it missed.
+  const pastWindow =
+    schedule.type === 'fixed-program' &&
+    differenceInCalendarDays(target, parseISO(schedule.startDate)) >= totalDays
+  const calendarDay = pastWindow
+    ? totalDays - 1
+    : resolveCalendarDay(schedule, cursor, target, totalDays)
   if (calendarDay === undefined) return empty
 
   const baseCount = countUpTo(today)
@@ -165,7 +172,7 @@ export function projectProgramAtDate(args: {
 
   return {
     ...empty,
-    visible: !isComplete,
+    visible: !isComplete && !pastWindow,
     programDay,
     completionCount: baseCount,
     isComplete,

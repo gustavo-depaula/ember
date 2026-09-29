@@ -8,6 +8,7 @@ import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PrayerSpinner, ScreenLayout, Typography } from '@/components'
+import { loadChapterSource } from '@/content/books'
 import type { TocNode } from '@/content/manifestTypes'
 import { getManifest, loadFlow, loadPracticeData } from '@/content/resolver'
 import type { CycleData } from '@/content/types'
@@ -29,23 +30,30 @@ import { formatLocalized } from '@/lib/i18n/dateLocale'
 const windowSize = 9
 
 type Localized = { 'en-US'?: string; 'pt-BR'?: string }
-type DayEntry = { name: string; sub?: string; excerpt?: string }
+type DayEntry = { name: string; sub?: string; excerpt?: string; chapterId?: string }
 
 const text = (v: unknown) =>
   typeof v === 'string' ? v : v && typeof v === 'object' ? localizeContent(v as Localized) : ''
 
 // "Dia 4: Minha luz — uma lâmpada para a mente" → name "Minha luz", sub "uma
-// lâmpada para a mente". The numeral is the page's own, so the title's goes.
+// lâmpada para a mente". The numeral is the page's own, so the title's goes:
+// "Dia 1 — Toda a humanidade", "Dia 1 · Perguntas 1–6", "1. O Credo" name
+// only what follows it.
 function splitTitle(title: string): Pick<DayEntry, 'name' | 'sub'> {
   const bare = title.replace(/^[^:]*\d[^:]*:\s*/, '').replace(/^\d+\.\s+/, '')
-  const [head, ...rest] = bare.split(' — ')
+  const [head, ...rest] = bare.split(/ — | · /)
   const sub = rest.join(' — ') || undefined
-  // "Dia 1 — Toda a humanidade": the numbered head says nothing the page doesn't.
   if (sub && /^\D*\d+\s*$/.test(head)) return { name: sub }
   return { name: head, sub }
 }
 
 // A course read through a book names its days by the book's chapters.
+// A list shorter than the program repeats, as the engine's cycle reads it:
+// the 54-day rosary turns through its three sets of mysteries.
+function entryOf(entries: DayEntry[], day: number): DayEntry | undefined {
+  return entries.length ? entries[day % entries.length] : undefined
+}
+
 function getDayEntries(
   cycleData: Record<string, CycleData> | undefined,
   chapterTitles: Map<string, string>,
@@ -55,9 +63,12 @@ function getDayEntries(
   if (!entries) return []
   return entries.map((entry) => ({
     ...splitTitle(
-      text(entry.dayTitle ?? entry.monthTitle) || chapterTitles.get(String(entry.chapterId)) || '',
+      text(entry.dayTitle ?? entry.monthTitle ?? entry.title ?? entry.mysteryLabel) ||
+        chapterTitles.get(String(entry.chapterId)) ||
+        '',
     ),
     excerpt: text(entry.meditation ?? entry.intention) || undefined,
+    chapterId: typeof entry.chapterId === 'string' ? entry.chapterId : undefined,
   }))
 }
 
@@ -77,6 +88,26 @@ function tocTitles(nodes: TocNode[] | undefined, into = new Map<string, string>(
     tocTitles(node.children, into)
   }
   return into
+}
+
+// A chapter's first paragraph of prose, as plain text: past its heading, images
+// and editorial notes, with markup and tags dropped.
+function openingParagraph(source: string): string | undefined {
+  const plain = (block: string) =>
+    block
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+      .replace(/^\s*>\s?/gm, '')
+      .replace(/[*_`]/g, '')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+  const blocks = source
+    .replace(/<\/(p|div|h\d|blockquote)>/gi, '\n\n')
+    .split(/\n\s*\n/)
+    .filter((b) => !/^\s*(#|<h\d)/i.test(b))
+  return blocks.map(plain).find((b) => b.length >= 80 && !/^\(.*\)$/.test(b))
 }
 
 function roman(n: number): string {
@@ -108,8 +139,8 @@ function roman(n: number): string {
  * the others as the book's contents.
  */
 export default function ProgramDetailScreen() {
-  const { t } = useTranslation()
-  const { manifestId } = useLocalSearchParams<{ manifestId: string }>()
+  const { t, i18n } = useTranslation()
+  const { manifestId, from } = useLocalSearchParams<{ manifestId: string; from?: string }>()
   const router = useRouter()
   const theme = useTheme()
 
@@ -137,6 +168,24 @@ export default function ProgramDetailScreen() {
     () => getDayEntries(cycleDataQuery.data ?? undefined, tocTitles(book.data?.toc)),
     [cycleDataQuery.data, book.data],
   )
+  // A day read from a book opens with the chapter's first lines.
+  const dayIndex = progress?.programDay ?? 0
+  const chapterId = entryOf(entries, dayIndex)?.chapterId
+  const { data: chapterOpening } = useQuery({
+    queryKey: ['chapter-opening', book.data?.id, chapterId, i18n.language],
+    queryFn: async () => {
+      const bookEntry = book.data
+      if (!bookEntry || !chapterId) return null
+      const lang = bookEntry.chapters?.[chapterId]?.[i18n.language]
+        ? i18n.language
+        : Object.keys(bookEntry.chapters?.[chapterId] ?? {})[0]
+      if (!lang) return null
+      const source = await loadChapterSource(bookEntry, chapterId, lang)
+      return (source && openingParagraph(source.text)) ?? null
+    },
+    enabled: !!book.data && !!chapterId,
+    staleTime: Infinity,
+  })
 
   if (!manifest?.program || !progress) {
     return (
@@ -151,7 +200,7 @@ export default function ProgramDetailScreen() {
   const prayed = states.filter((s) => s.isCompleted).length
   const name = localizeContent(manifest.name)
   const numeral = (i: number) => roman(i + 1)
-  const dayName = (i: number) => entries[i]?.name || t('program.dayLabel', { day: i + 1 })
+  const dayName = (i: number) => entryOf(entries, i)?.name || t('program.dayLabel', { day: i + 1 })
   const canOpen = !shouldPromptRestart && !progress.isProjection
   const openDay = (i: number) =>
     router.push({
@@ -163,7 +212,8 @@ export default function ProgramDetailScreen() {
       ? 0
       : Math.min(Math.max(programDay - Math.floor(windowSize / 2), 0), totalDays - windowSize)
   const shown = Array.from({ length: Math.min(windowSize, totalDays) }, (_, k) => start + k)
-  const current = entries[programDay]
+  const current = entryOf(entries, programDay)
+  const excerpt = current?.excerpt ?? chapterOpening ?? undefined
 
   function handleRestart() {
     restartProgramMutation.mutate({ practiceId: manifest?.id ?? '' })
@@ -234,7 +284,7 @@ export default function ProgramDetailScreen() {
                 {current.sub}
               </Typography>
             )}
-            {current?.excerpt && (
+            {excerpt && (
               <Typography
                 fontSize="$4"
                 lineHeight={28}
@@ -243,7 +293,7 @@ export default function ProgramDetailScreen() {
                 textAlign="justify"
                 numberOfLines={4}
               >
-                {current.excerpt}
+                {excerpt}
               </Typography>
             )}
             {canOpen && <PrayBar label={t('practice.pray')} onPress={() => openDay(programDay)} />}
@@ -289,7 +339,12 @@ export default function ProgramDetailScreen() {
             label={t('program.inPlan')}
             chevron
             onPress={() =>
-              router.push({ pathname: '/plan/[practiceId]', params: { practiceId: manifest.id } })
+              from === 'plan'
+                ? router.back()
+                : router.push({
+                    pathname: '/plan/[practiceId]',
+                    params: { practiceId: manifest.id, from: 'program' },
+                  })
             }
           />
         </XStack>
@@ -299,11 +354,20 @@ export default function ProgramDetailScreen() {
 }
 
 // The days as the fidelity wall draws them: a lit star for a day prayed, an
-// open one for today, a dot for a day missed or still to come.
+// open one for today, a dot for a day still to come — and an empty ring for
+// one that passed unprayed, so a gap reads as a gap.
 function DayStars({ days }: { days: { state: DayState; date?: string }[] }) {
   const theme = useTheme()
   const parsed = days.map((d) => (d.date ? parseISO(d.date) : undefined))
   const months = [...new Set(parsed.filter(Boolean).map((d) => formatLocalized(d as Date, 'LLLL')))]
+  // A day a month (the First Fridays) heads each cell with its month, where
+  // the weekday would only repeat itself.
+  const monthly = months.length === parsed.filter(Boolean).length && months.length > 2
+  const head = (date: Date) =>
+    formatLocalized(date, monthly ? 'LLL' : 'EEE')
+      .replace('.', '')
+      .slice(0, 3)
+      .toUpperCase()
 
   return (
     <YStack
@@ -320,15 +384,14 @@ function DayStars({ days }: { days: { state: DayState; date?: string }[] }) {
           const glyph = (() => {
             if (state.isCompleted) return { char: '✦', size: 18, color: theme.accent.val }
             if (state.isCurrent) return { char: '✧', size: 18, color: theme.colorSecondary.val }
+            if (state.isMissed) return { char: '○', size: 10, color: theme.colorSecondary.val }
             return { char: '●', size: 4, color: theme.wallEmpty.val }
           })()
           return (
             // biome-ignore lint/suspicious/noArrayIndexKey: the cells are positional
             <YStack key={k} alignItems="center" gap={4} width={34}>
               <Typography variant="label" fontSize={10} letterSpacing={1} tone="muted">
-                {date
-                  ? formatLocalized(date, 'EEE').replace('.', '').slice(0, 3).toUpperCase()
-                  : ''}
+                {date ? head(date) : ''}
               </Typography>
               <YStack height={26} justifyContent="center">
                 <Typography fontSize={glyph.size} lineHeight={26} color={glyph.color}>
@@ -342,7 +405,7 @@ function DayStars({ days }: { days: { state: DayState; date?: string }[] }) {
           )
         })}
       </XStack>
-      {months.length > 0 && (
+      {months.length > 0 && !monthly && (
         <XStack justifyContent="space-between">
           {months.slice(0, 2).map((m) => (
             <Typography key={m} variant="label" fontSize={10} letterSpacing={1.5} tone="muted">
@@ -414,7 +477,9 @@ function DayLine({
   a11yState: string
   onPress?: () => void
 }) {
+  const { t } = useTranslation()
   const faded = state.isCompleted || state.isMissed
+  const missedLabel = t('program.missed').toLowerCase()
   return (
     <AnimatedPressable
       onPress={onPress}
@@ -456,6 +521,10 @@ function DayLine({
         {state.isCompleted ? (
           <Typography color="$accent" fontSize="$2">
             ✦
+          </Typography>
+        ) : state.isMissed ? (
+          <Typography fontSize="$1" tone="muted" fontStyle="italic">
+            {missedLabel}
           </Typography>
         ) : (
           <Typography fontSize="$1" tone="muted">

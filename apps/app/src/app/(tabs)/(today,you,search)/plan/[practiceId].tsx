@@ -76,7 +76,7 @@ type Sheet =
  */
 export default function PlanPracticeScreen() {
   const { t, i18n } = useTranslation()
-  const { practiceId = '' } = useLocalSearchParams<{ practiceId: string }>()
+  const { practiceId = '', from } = useLocalSearchParams<{ practiceId: string; from?: string }>()
   const router = useRouter()
   const theme = useTheme()
 
@@ -267,11 +267,14 @@ export default function PlanPracticeScreen() {
               total: programProgress.totalDays,
             })
           : t('program.begin'),
+        // Opened from the program's own page, the way there is back.
         onPress: () =>
-          router.push({
-            pathname: '/practices/[manifestId]/program',
-            params: { manifestId: activeVariant },
-          }),
+          from === 'program'
+            ? router.back()
+            : router.push({
+                pathname: '/practices/[manifestId]/program',
+                params: { manifestId: activeVariant, from: 'plan' },
+              }),
       }
     }
     if (!manifest?.flowHash) return undefined
@@ -401,7 +404,8 @@ export default function PlanPracticeScreen() {
           </YStack>
         ) : null}
 
-        {record ? (
+        {/* A program's days are drawn on its own page. */}
+        {record && !isProgram ? (
           <YStack alignItems="center" paddingTop="$xl" gap="$sm">
             <VotiveWall data={record.wall} weeks={wallWeeks} />
             <Typography variant="caption" fontSize={16} textAlign="center">

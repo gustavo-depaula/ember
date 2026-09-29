@@ -37,6 +37,11 @@ import { styled, Text } from 'tamagui'
 export const Typography = styled(Text, {
   name: 'Typography',
   fontFamily: '$body',
+  // Tamagui swaps in a font's italic or bold file by looking up the weight in
+  // its `face` table, and it derives no weight from a size — without one,
+  // `fontStyle: 'italic'` asks iOS to slant a custom font it can't, and the
+  // text stays upright.
+  fontWeight: '400',
   color: '$color',
 
   variants: {

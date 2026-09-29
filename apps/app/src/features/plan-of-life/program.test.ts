@@ -367,6 +367,32 @@ describe('projectProgramAtDate', () => {
       expect(p.visible).toBe(false)
     })
 
+    it('past its window rests on the last day: complete, or with the days missed', () => {
+      const all = Array.from({ length: 9 }, (_, i) => `2026-06-0${i + 1}`)
+      const finished = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: all,
+        realToday: date(2026, 6, 15),
+        targetDate: date(2026, 6, 15),
+      })
+      expect(finished.isComplete).toBe(true)
+      expect(finished.completionCount).toBe(9)
+
+      const lapsed = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: completions,
+        realToday: date(2026, 6, 15),
+        targetDate: date(2026, 6, 15),
+      })
+      expect(lapsed.isComplete).toBe(false)
+      expect(lapsed.programDay).toBe(8)
+      expect(lapsed.completionCount).toBe(5)
+    })
+
     it('forward projection suppresses missed/restart diagnostics', () => {
       const restartCfg: ProgramConfig = {
         ...continueProgram,
