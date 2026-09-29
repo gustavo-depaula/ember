@@ -51,14 +51,11 @@ export default {
     sectionStudy: 'Estudar',
     sectionTools: 'Ferramentas',
     sectionLibrary: 'Biblioteca',
-    sectionRead: 'Ler',
     sectionCollections: 'Coleções',
     collectionsTitle: 'Todas as coleções',
-    booksTitle: 'Todos os livros',
     massHint: 'A Missa de hoje',
     bibleHint: 'Ler a Sagrada Escritura',
     calendarHint: 'Festas e tempos',
-    diesDominiHint: 'O dia do Senhor',
   },
   home: {
     greetingMorning: 'Bom dia',
@@ -299,106 +296,6 @@ export default {
     yearsAgo_other: 'H\u00e1 {{count}} anos',
   },
 
-  memento: {
-    title: 'Memento Mori',
-    subtitle: 'Os Quatro Nov\u00edssimos \u2014 medita\u00e7\u00e3o noturna.',
-    homeLine: 'Os Quatro Nov\u00edssimos. Memento mori.',
-    pillar: {
-      mors: 'Morte',
-      iudicium: 'Ju\u00edzo',
-      caelum: 'C\u00e9u',
-      infernum: 'Inferno',
-    },
-    description: {
-      mors: 'A certeza da morte \u2014 o encontro do qual ningu\u00e9m escapa.',
-      iudicium: 'O ju\u00edzo particular \u2014 cada alma diante de Cristo na hora da morte.',
-      caelum: 'A Vis\u00e3o Beat\u00edfica \u2014 o fim para o qual fostes criado.',
-      infernum: 'A possibilidade da perda \u2014 a eternidade sem Deus, livremente escolhida.',
-    },
-    reflection: {
-      '1': 'Morrer\u00e1s. N\u00e3o em abstrato; tu. A hora \u00e9 oculta, o fato n\u00e3o.',
-      '2': 'Cristo te encontrar\u00e1 naquela hora \u2014 s\u00f3, como \u00e9s, n\u00e3o como aparentas.',
-      '3': 'O C\u00e9u \u00e9 real. Fostes feito para Deus mesmo, e nada menos te dar\u00e1 descanso.',
-      '4': 'O Inferno \u00e9 real \u2014 n\u00e3o uma met\u00e1fora. Uma alma pode recusar Deus para sempre.',
-      '5': 'A morte despoja todo t\u00edtulo. Estar\u00e1s diante de Deus como alma, nada mais.',
-      '6': 'O ju\u00edzo n\u00e3o \u00e9 emboscada; \u00e9 espelho. Ver-te-\u00e1s como Ele te v\u00ea.',
-      '7': 'No C\u00e9u, todo desejo encontra sua resposta na face de Cristo.',
-      '8': 'O Inferno \u00e9 a liberdade que Deus respeita numa alma que n\u00e3o quis amar.',
-      '9': 'Teu \u00faltimo suspiro j\u00e1 foi contado. Vive hoje como se importasse, porque importa.',
-      '10': 'O que escondes agora ser\u00e1 dito ent\u00e3o. Confessa-o enquanto h\u00e1 tempo.',
-      '11': 'Os santos na gl\u00f3ria n\u00e3o s\u00e3o estranhos \u2014 s\u00e3o o que \u00e9s chamado a te tornar.',
-      '12': 'O Inferno nunca \u00e9 vontade de Deus. \u00c9 o sil\u00eancio de uma alma que se recusou a pedir.',
-      '13': 'Nada deste mundo te acompanhar\u00e1 por aquela porta. S\u00f3 o amor passa.',
-      '14': 'Cristo \u00e9 teu juiz \u2014 e \u00e9 o mesmo Cristo que morreu por ti. Confia Nele.',
-      '15': 'O C\u00e9u \u00e9 banquete nupcial, n\u00e3o sala de espera. Deus te quer l\u00e1.',
-      '16': 'Os condenados no inferno existem porque Deus ainda os ama; n\u00e3o receber\u00e3o Seu amor.',
-      '17': 'Memento mori n\u00e3o \u00e9 m\u00f3rbido; \u00e9 honesto. A mentira \u00e9 esquecer.',
-      '18': 'Na hora da tua morte, s\u00f3 uma pergunta importar\u00e1: amei?',
-      '19': 'Toda Missa \u00e9 ensaio do C\u00e9u \u2014 come e bebe o que ser\u00e1 tua comida eterna.',
-      '20': 'O pecado \u00e9 ensaio do inferno. Observa como ele empequenece a alma.',
-      '21': 'Poderias morrer esta noite. Faze as pazes com Deus antes do sono.',
-      '22': 'O ju\u00edzo particular \u00e9 r\u00e1pido. Toda desculpa cai \u00e0 luz de Seus olhos.',
-      '23': 'No C\u00e9u, ser\u00e1s mais tu mesmo do que jamais foste.',
-      '24': 'A tristeza do inferno n\u00e3o \u00e9 o fogo, mas o saber: eu podia ter sido santo.',
-      '25': 'A morte santa \u00e9 obra da vida santa. Recomeça hoje.',
-      '26': 'Ele te julgar\u00e1 com a medida que usaste para os outros. S\u00ea miseric\u00f3rdia agora.',
-      '27': 'Os anjos e santos te esperam. N\u00e3o desaponte essa companhia.',
-      '28': 'O Inferno \u00e9 porta trancada por dentro. O amor \u00e9 a chave. Ama agora.',
-    },
-  },
-
-  diesDomini: {
-    title: 'Dies Domini',
-    subtitle:
-      'Um dia para cada mist\u00e9rio \u2014 um padr\u00e3o antigo de devo\u00e7\u00e3o semanal.',
-    days: {
-      sunday: {
-        name: 'Domingo',
-        line: 'Hoje, a Ressurrei\u00e7\u00e3o.',
-        description:
-          'O Dia do Senhor \u2014 o primeiro e o oitavo dia da cria\u00e7\u00e3o. O domingo \u00e9 consagrado \u00e0 Sant\u00edssima Trindade e \u00e0 alegria da Ressurrei\u00e7\u00e3o. Que cada domingo seja uma pequena P\u00e1scoa.',
-      },
-      monday: {
-        name: 'Segunda-feira',
-        line: 'Hoje, as almas do Purgat\u00f3rio.',
-        description:
-          'Lembra-te das almas no Purgat\u00f3rio \u2014 aquelas que est\u00e3o sendo purificadas antes de ver a face de Deus. Oferece ora\u00e7\u00f5es, Missas e pequenos sacrif\u00edcios por elas; n\u00e3o podem rezar por si mesmas.',
-      },
-      tuesday: {
-        name: 'Ter\u00e7a-feira',
-        line: 'Hoje, os santos anjos.',
-        description:
-          'Honra os anjos \u2014 especialmente o teu anjo da guarda e S\u00e3o Miguel Arcanjo. Eles est\u00e3o na presen\u00e7a de Deus e s\u00e3o enviados para nos defender no combate contra o mal.',
-      },
-      wednesday: {
-        name: 'Quarta-feira',
-        line: 'Hoje, S\u00e3o Jos\u00e9.',
-        description:
-          'O guardi\u00e3o silencioso da Sagrada Fam\u00edlia, padroeiro da boa morte e da Igreja universal. Jos\u00e9 ensina-nos a viver escondidos com Cristo e a fazer a vontade de Deus em fidelidade serena.',
-      },
-      thursday: {
-        name: 'Quinta-feira',
-        line: 'Hoje, a Sant\u00edssima Eucaristia.',
-        description:
-          'Na noite antes de sofrer, o Senhor deu-nos a Si mesmo sob as esp\u00e9cies do p\u00e3o e do vinho. A quinta-feira \u00e9 dia de ador\u00e7\u00e3o eucar\u00edstica, de a\u00e7\u00e3o de gra\u00e7as e de ora\u00e7\u00e3o pelos sacerdotes.',
-      },
-      friday: {
-        name: 'Sexta-feira',
-        line: 'Hoje, a Paix\u00e3o e o Sagrado Cora\u00e7\u00e3o.',
-        description:
-          'Na Cruz, o cora\u00e7\u00e3o de Cristo foi aberto por n\u00f3s. As sextas-feiras s\u00e3o dias de penit\u00eancia \u2014 um pequeno jejum, uma medita\u00e7\u00e3o sobre a Paix\u00e3o, ou repara\u00e7\u00e3o ao Sagrado Cora\u00e7\u00e3o.',
-      },
-      saturday: {
-        name: 'S\u00e1bado',
-        line: 'Hoje, Nossa Senhora.',
-        description:
-          'Entre a Sexta-feira Santa e o Domingo de P\u00e1scoa, apenas a Virgem Maria guardou a f\u00e9. Todo s\u00e1bado \u00e9 dela \u2014 um dia para honrar as suas dores, as suas alegrias, e entregar a semana que vem \u00e0s suas m\u00e3os.',
-      },
-    },
-    restOfWeek: 'O restante da semana',
-    begin: 'Começar',
-  },
-
   kyrie: {
     title: 'Kyrie',
     homeTagline: 'Uma corda de ora\u00e7\u00e3o simples',
@@ -407,10 +304,6 @@ export default {
     reset: 'Reiniciar',
     of: 'de {{target}}',
     chooseRope: 'Escolha o comprimento da sua corda',
-  },
-
-  examen: {
-    title: 'Exame',
   },
 
   oratio: {
@@ -1075,7 +968,7 @@ export default {
     todayInChurch: 'Hoje na Igreja',
     allCollections: 'Todas as coleções (A → Z)',
     allCollectionsHint: 'Todas as coleções em ordem alfabética.',
-    allBooks: 'Todos os livros (A → Z)',
+    allBooks: 'Todos os livros',
     section: {
       daily: 'Suas Orações Diárias',
       formation: 'Como Rezar',

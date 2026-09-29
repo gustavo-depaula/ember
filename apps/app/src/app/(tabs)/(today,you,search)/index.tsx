@@ -23,7 +23,6 @@ import {
 import {
   Aspiratio,
   LiturgicalHeader,
-  MementoLine,
   TodayPlanSheet,
   TodayRow,
   useTodayPlan,
@@ -85,8 +84,6 @@ export default function HomeScreen() {
           <PageBreakOrnament />
 
           <Aspiratio date={now} />
-
-          <MementoLine />
 
           {todaySlots.length > 0 && (
             <>

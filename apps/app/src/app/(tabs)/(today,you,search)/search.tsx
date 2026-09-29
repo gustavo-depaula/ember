@@ -5,13 +5,10 @@ import {
   CalendarDays,
   Church,
   CircleDot,
-  Compass,
   Flame,
   Library as LibraryIcon,
   Music,
-  Skull,
   Sparkle,
-  Sun,
 } from 'lucide-react-native'
 import type { ReactNode } from 'react'
 import { useCallback, useMemo, useState } from 'react'
@@ -22,7 +19,7 @@ import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { Typography } from '@/components/typography'
 import { bareId, getEntriesByKind } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { ExploreCatalogRows } from '@/features/explore'
+import { ExploreCatalogRows, LibraryRow } from '@/features/explore'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
 import { SearchAutocomplete } from '@/features/practices/components'
@@ -86,16 +83,6 @@ export default function SearchScreen() {
       { key: 'bible', title: t('home.bible'), icon: BookOpen, href: '/bible' },
       { key: 'oratio', title: t('oratio.title'), icon: Flame, href: '/oratio' },
       { key: 'kyrie', title: t('kyrie.title'), icon: CircleDot, href: '/kyrie' },
-      {
-        key: 'examen',
-        title: t('examen.title'),
-        icon: Compass,
-        href: {
-          pathname: '/pray/[practiceId]',
-          params: { practiceId: 'examination-of-conscience' },
-        },
-      },
-      { key: 'memento', title: t('memento.title'), icon: Skull, href: '/memento' },
     ],
     [t],
   )
@@ -110,7 +97,6 @@ export default function SearchScreen() {
       },
       { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
       { key: 'calendar', title: t('calendar.title'), icon: CalendarDays, href: '/calendar' },
-      { key: 'diesDomini', title: t('diesDomini.title'), icon: Sun, href: '/dies-domini' },
       { key: 'piano', title: t('piano.title'), icon: Music, href: '/piano' },
     ],
     [t],
@@ -141,25 +127,6 @@ export default function SearchScreen() {
     ]
   }, [catalogVersion, t])
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred book manifests warm in.
-  const bookTiles = useMemo<ShortcutTileData[]>(() => {
-    const books = getEntriesByKind('book')
-      .filter(([id]) => !/example|starter|sandbox/.test(id))
-      .slice(0, 5)
-      .map<ShortcutTileData>(([id, entry]) => ({
-        key: id,
-        title: localizeContent(entry.name ?? entry.title ?? {}),
-        image: artFor(id),
-        icon: BookOpen,
-        href: { pathname: '/browse/book/[bookId]', params: { bookId: bareId(id) } },
-      }))
-    if (books.length === 0) return books
-    return [
-      ...books,
-      { key: 'all-books', title: t('search.booksTitle'), icon: LibraryIcon, href: '/browse/books' },
-    ]
-  }, [catalogVersion, t])
-
   // Memoized and hidden rather than unmounted while a query is typed: each
   // keystroke re-renders this screen, and remounting the tiles when the query
   // is cleared took ~200ms.
@@ -183,18 +150,14 @@ export default function SearchScreen() {
         <Section title={t('search.sectionStudy')}>
           <ShortcutGrid items={withTones(studyTiles)} />
         </Section>
-        {bookTiles.length > 0 && (
-          <Section title={t('search.sectionRead')}>
-            <ShortcutGrid items={withTones(bookTiles)} />
-          </Section>
-        )}
+        <LibraryRow />
         <Section title={t('search.sectionCollections')}>
           <ShortcutGrid items={withTones(libraryTiles)} />
         </Section>
         <ExploreCatalogRows />
       </YStack>
     )
-  }, [t, prayTiles, studyTiles, bookTiles, libraryTiles])
+  }, [t, prayTiles, studyTiles, libraryTiles])
 
   return (
     <>

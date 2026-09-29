@@ -208,9 +208,41 @@ export function DailyMeditations() {
   )
 }
 
+/** The Library: a shelf of book covers whose title opens every book, A → Z. */
+export function LibraryRow() {
+  const { t } = useTranslation()
+  const catalogVersion = useCatalogVersion()
+
+  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
+  const books = useMemo(
+    () => getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
+    [catalogVersion],
+  )
+  if (books.length === 0) return null
+
+  return (
+    <ArtCarousel title={t('explore.theLibrary')} href="/browse/books">
+      {books.slice(0, 18).map(([id, entry]) => (
+        <ArtCoverCard
+          key={id}
+          title={localizeContent(entry.name ?? entry.title ?? {})}
+          subtitle={entry.author ? localizeContent(entry.author) : undefined}
+          image={artFor(id)}
+          tone={toneForKey(id)}
+          cover={coverFor(entry)}
+          size={118}
+          aspectRatio={1.5}
+          radius={4}
+          href={bookHref(id)}
+        />
+      ))}
+    </ArtCarousel>
+  )
+}
+
 /**
- * The browsable catalogue rows — The Library and the season's curated
- * devotion and tradition collections — shown on Search's empty state.
+ * The season's curated devotion and tradition collections, shown on Search's
+ * empty state.
  */
 export function ExploreCatalogRows() {
   const { t } = useTranslation()
@@ -219,11 +251,6 @@ export function ExploreCatalogRows() {
   const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
   const featured = pickFeatured(getLiturgicalSeason(today, form), today)
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const books = useMemo(
-    () => getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
-    [catalogVersion],
-  )
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const devotions = useMemo(
     () => collectionRow(featured.devotionRow),
@@ -237,25 +264,6 @@ export function ExploreCatalogRows() {
 
   return (
     <>
-      {books.length > 0 && (
-        <ArtCarousel title={t('explore.theLibrary')}>
-          {books.slice(0, 18).map(([id, entry]) => (
-            <ArtCoverCard
-              key={id}
-              title={localizeContent(entry.name ?? entry.title ?? {})}
-              subtitle={entry.author ? localizeContent(entry.author) : undefined}
-              image={artFor(id)}
-              tone={toneForKey(id)}
-              cover={coverFor(entry)}
-              size={118}
-              aspectRatio={1.5}
-              radius={4}
-              href={bookHref(id)}
-            />
-          ))}
-        </ArtCarousel>
-      )}
-
       {devotions.length > 0 && (
         <ArtCarousel title={t('explore.devotions')}>
           {devotions.map(([id, entry]) => (

@@ -1,4 +1,4 @@
-export { DailyMeditations, ExploreCatalogRows, ExploreFeatured } from './ExploreFeed'
+export { DailyMeditations, ExploreCatalogRows, ExploreFeatured, LibraryRow } from './ExploreFeed'
 export { FromOpusDei } from './FromOpusDei'
 export { FromRome } from './FromRome'
 export { PrayNowCard } from './PrayNowCard'
