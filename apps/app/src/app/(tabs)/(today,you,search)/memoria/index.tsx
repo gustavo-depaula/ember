@@ -1,177 +1,67 @@
-import { format, isSameDay, isToday, isYesterday } from 'date-fns'
-import { useRouter } from 'expo-router'
-import { BookOpen, ChevronLeft } from 'lucide-react-native'
+import { Stack, useRouter } from 'expo-router'
+import { ChevronLeft } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView } from 'react-native'
-import Animated, { FadeIn, LinearTransition } from 'react-native-reanimated'
-import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { FlatList, Pressable } from 'react-native'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
+import { useTheme, XStack, YStack } from 'tamagui'
 
-import { ScreenLayout } from '@/components'
-import {
-  EntryRow,
-  getEntryBody,
-  getEntryIcon,
-  type MemoriaEntry,
-  useMemoriaEntries,
-  useOnThisDayEntries,
-} from '@/features/memoria'
-import { useToday } from '@/hooks/useToday'
-import { getDateLocale } from '@/lib/i18n/dateLocale'
+import { Typography } from '@/components'
+import { useBottomClearance } from '@/components/tabAccessory'
+import { ChronicleDayRow } from '@/features/memoria'
+import { useChronicle } from '@/features/plan-of-life/useRuleRecord'
 
 export default function MemoriaScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const entries = useMemoriaEntries()
-  const now = useToday()
-  const onThisDay = useOnThisDayEntries(now)
-  const locale = getDateLocale()
+  const insets = useSafeAreaInsets()
+  const bottomClearance = useBottomClearance()
+  const chronicle = useChronicle()
 
   return (
-    <ScreenLayout>
-      <YStack gap="$lg" paddingVertical="$lg">
-        <XStack alignItems="center" gap="$md">
-          <Pressable
-            onPress={() => router.back()}
-            hitSlop={8}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.goBack')}
-          >
-            <ChevronLeft size={24} color={theme.color?.val} />
-          </Pressable>
-          <YStack flex={1}>
-            <Text fontFamily="$heading" fontSize="$5" color="$color">
-              {t('memoria.title')}
-            </Text>
-            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-              {t('memoria.subtitle')}
-            </Text>
-          </YStack>
-        </XStack>
-
-        {(() => {
-          if (entries.length === 0) {
-            return (
-              <YStack paddingVertical="$xl" alignItems="center" gap="$md">
-                <BookOpen size={32} color={theme.colorSecondary?.val} />
-                <Text
-                  fontFamily="$body"
-                  fontSize="$2"
-                  color="$colorSecondary"
-                  textAlign="center"
-                  fontStyle="italic"
-                  paddingHorizontal="$lg"
-                >
-                  {t('memoria.emptyState')}
-                </Text>
-              </YStack>
-            )
-          }
-          return (
-            <ScrollView showsVerticalScrollIndicator={false}>
-              <YStack gap="$sm">
-                {onThisDay.length > 0 && (
-                  <YStack
-                    gap="$xs"
-                    padding="$md"
-                    borderRadius="$md"
-                    borderLeftWidth={3}
-                    borderLeftColor="$accent"
-                    backgroundColor="$backgroundSurface"
-                  >
-                    <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
-                      {t('memoria.onThisDay').toUpperCase()}
-                    </Text>
-                    {onThisDay.map((entry) => (
-                      <OnThisDayRow key={entry.id} entry={entry} locale={locale} now={now} />
-                    ))}
-                  </YStack>
-                )}
-                {renderGroupedEntries(entries, t, locale)}
-              </YStack>
-            </ScrollView>
-          )
-        })()}
-      </YStack>
-    </ScreenLayout>
-  )
-}
-
-function renderGroupedEntries(
-  entries: MemoriaEntry[],
-  t: ReturnType<typeof useTranslation>['t'],
-  locale: ReturnType<typeof getDateLocale>,
-) {
-  const nodes: React.ReactNode[] = []
-  let lastDay: Date | undefined
-
-  for (const entry of entries) {
-    const day = new Date(entry.timestamp)
-    if (!lastDay || !isSameDay(day, lastDay)) {
-      nodes.push(
-        <DayHeading key={`h:${entry.id}`} date={day} label={formatDayLabel(day, t, locale)} />,
-      )
-      lastDay = day
-    }
-    nodes.push(<EntryRow key={entry.id} entry={entry} locale={locale} />)
-  }
-
-  return nodes
-}
-
-function formatDayLabel(
-  date: Date,
-  t: ReturnType<typeof useTranslation>['t'],
-  locale: ReturnType<typeof getDateLocale>,
-): string {
-  if (isToday(date)) return t('memoria.today')
-  if (isYesterday(date)) return t('memoria.yesterday')
-  return format(date, 'EEEE, MMMM d', { locale })
-}
-
-function DayHeading({ label }: { date: Date; label: string }) {
-  return (
-    <Animated.View entering={FadeIn.duration(200)} layout={LinearTransition.duration(200)}>
-      <YStack paddingTop="$md" paddingBottom="$xs">
-        <Text fontFamily="$heading" fontSize="$2" color="$accent" letterSpacing={1}>
-          {label.toUpperCase()}
-        </Text>
-      </YStack>
-    </Animated.View>
-  )
-}
-
-function OnThisDayRow({
-  entry,
-  locale,
-  now,
-}: {
-  entry: MemoriaEntry
-  locale: ReturnType<typeof getDateLocale>
-  now: Date
-}) {
-  const { t } = useTranslation()
-  const theme = useTheme()
-  const years = now.getFullYear() - new Date(entry.timestamp).getFullYear()
-  const body = getEntryBody(entry, t)
-  const icon = getEntryIcon(entry.kind, theme.accent?.val ?? '#888')
-  const yearsLabel = years === 1 ? t('memoria.oneYearAgo') : t('memoria.yearsAgo', { count: years })
-
-  return (
-    <Animated.View entering={FadeIn.duration(200)} layout={LinearTransition.duration(200)}>
-      <XStack gap="$md" alignItems="flex-start" paddingVertical={2}>
-        <YStack width={20} paddingTop={2} alignItems="center">
-          {icon}
-        </YStack>
-        <YStack flex={1} gap={2}>
-          <Text fontFamily="$body" fontSize="$2" color="$color">
-            {body}
-          </Text>
-          <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" fontStyle="italic">
-            {yearsLabel} · {format(entry.timestamp, 'yyyy', { locale })}
-          </Text>
-        </YStack>
-      </XStack>
-    </Animated.View>
+    // Not ScreenLayout: its unscrolled variant pads a fixed frame, stopping the
+    // list short of the tab bar. The list pads itself and runs beneath it.
+    <YStack flex={1} backgroundColor="$background">
+      <Stack.Screen options={{ title: t('memoria.title') }} />
+      <FlatList
+        style={{ flex: 1 }}
+        contentContainerStyle={{
+          width: '100%',
+          maxWidth: 640,
+          alignSelf: 'center',
+          paddingHorizontal: 24,
+          paddingTop: insets.top,
+          paddingBottom: insets.bottom + bottomClearance + 24,
+        }}
+        contentInsetAdjustmentBehavior="never"
+        // Rows build their day as they render, so a long history costs only
+        // the days on screen.
+        data={chronicle?.dates ?? []}
+        extraData={chronicle?.dayAt}
+        keyExtractor={(date) => date}
+        renderItem={({ item }) =>
+          chronicle ? <ChronicleDayRow day={chronicle.dayAt(item)} /> : null
+        }
+        initialNumToRender={8}
+        windowSize={7}
+        showsVerticalScrollIndicator={false}
+        ListHeaderComponent={
+          <XStack alignItems="center" gap="$md" paddingVertical="$lg">
+            <Pressable
+              onPress={() => router.back()}
+              hitSlop={10}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.goBack')}
+            >
+              <ChevronLeft size={24} color={theme.color?.val} />
+            </Pressable>
+            <YStack flex={1}>
+              <Typography variant="screen-title">{t('memoria.title')}</Typography>
+              <Typography variant="caption">{t('memoria.subtitle')}</Typography>
+            </YStack>
+          </XStack>
+        }
+      />
+    </YStack>
   )
 }

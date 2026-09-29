@@ -127,11 +127,11 @@ export function FootLink({
   return (
     <AnimatedPressable
       onPress={onPress}
-      hitSlop={10}
       accessibilityRole="button"
       accessibilityLabel={label}
+      style={{ minHeight: 48, justifyContent: 'center' }}
     >
-      <Typography tone="muted" fontSize="$2" minHeight={44} paddingTop="$sm">
+      <Typography tone="muted" fontSize="$4">
         {chevron ? `${label} ›` : label}
       </Typography>
     </AnimatedPressable>

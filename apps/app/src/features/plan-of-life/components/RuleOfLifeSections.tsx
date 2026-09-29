@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { CloudDownload } from 'lucide-react-native'
+import { ChevronRight, CloudDownload } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -49,13 +49,17 @@ export function RuleOfLifeSections() {
             accessibilityRole="button"
             accessibilityLabel={t('a11y.openPlan')}
           >
-            <XStack gap="$sm" alignItems="center">
+            <XStack gap="$xs" alignItems="center" minHeight={44}>
               <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
                 {t('plan.title')}
               </Typography>
-              <Typography variant="label" color="$accent">
-                ›
-              </Typography>
+              {/* Cinzel keeps descender room below its caps; lift the chevron to their middle. */}
+              <ChevronRight
+                size={24}
+                strokeWidth={1.75}
+                color={theme.accent?.val}
+                style={{ marginTop: -2 }}
+              />
             </XStack>
           </AnimatedPressable>
           {practiceIds.length > 0 ? (

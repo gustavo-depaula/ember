@@ -4,19 +4,12 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
-import {
-  AnimatedPressable,
-  PageFlourish,
-  ScreenLayout,
-  SectionDivider,
-  Typography,
-} from '@/components'
+import { PageFlourish, ScreenLayout, SectionDivider, Typography } from '@/components'
 import { LibraryFeed } from '@/features/library'
-import { EntryRow, getEntryBody, useMemoriaEntries, useOnThisDayEntries } from '@/features/memoria'
-import { RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
+import { ChronicleDayRow } from '@/features/memoria'
+import { FootLink, RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
+import { useChronicle } from '@/features/plan-of-life/useRuleRecord'
 import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
-import { useToday } from '@/hooks/useToday'
-import { getDateLocale } from '@/lib/i18n/dateLocale'
 
 const flourishDark = require('../../../../assets/textures/notch_you_dark.png')
 const flourishLight = require('../../../../assets/textures/notch_you_light.png')
@@ -31,11 +24,8 @@ function YouPage() {
   const { t } = useTranslation()
   const router = useRouter()
   const theme = useTheme()
-  const now = useToday()
-  const locale = getDateLocale()
-
-  const recentEntries = useMemoriaEntries(3)
-  const onThisDay = useOnThisDayEntries(now)
+  const chronicle = useChronicle()
+  const week = chronicle?.dates.slice(0, 7).map(chronicle.dayAt)
 
   return (
     <ScreenLayout>
@@ -66,31 +56,22 @@ function YouPage() {
 
         <SectionDivider />
 
-        <YStack gap="$sm">
-          <Typography variant="label">{t('you.chronicle')}</Typography>
-          {recentEntries.length === 0 ? (
+        <YStack>
+          <Typography variant="label" paddingBottom="$xs">
+            {t('you.chronicle')}
+          </Typography>
+          {week?.some((day) => day.beads.length || day.extras.length) ? (
+            week.map((day) => <ChronicleDayRow key={day.date} day={day} />)
+          ) : (
             <Typography tone="muted" fontStyle="italic">
               {t('memoria.emptyState')}
             </Typography>
-          ) : (
-            <>
-              {onThisDay.length > 0 && (
-                <Typography variant="caption">
-                  {t('memoria.onThisDay')} · {getEntryBody(onThisDay[0], t)}
-                </Typography>
-              )}
-              {recentEntries.map((entry) => (
-                <EntryRow key={entry.id} entry={entry} locale={locale} />
-              ))}
-              <AnimatedPressable
-                onPress={() => router.push('/memoria')}
-                accessibilityRole="link"
-                accessibilityLabel={t('you.chronicleSeeAll')}
-              >
-                <Typography variant="label">{t('you.chronicleSeeAll')}</Typography>
-              </AnimatedPressable>
-            </>
           )}
+          <FootLink
+            label={t('you.chronicleSeeAll')}
+            chevron
+            onPress={() => router.push('/memoria')}
+          />
         </YStack>
       </YStack>
     </ScreenLayout>

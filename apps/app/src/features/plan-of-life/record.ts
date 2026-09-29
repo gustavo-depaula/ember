@@ -4,7 +4,7 @@ import type { WritableDraft } from 'immer'
 import type { EventStoreState } from '@/db/events'
 import { applyEvent } from '@/db/events/projections'
 import type { AppEvent } from '@/db/events/types'
-import type { Tier } from '@/db/schema'
+import type { Tier, TimeBlock } from '@/db/schema'
 import { parseSlotKey } from '@/lib/slotKey'
 
 import { isApplicableOn, parseSchedule, type Schedule, type ScheduleContext } from './schedule'
@@ -14,7 +14,7 @@ export type TimedEvent = { event: AppEvent; timestamp: number }
 /** The practice's rule as it stood at the end of `date`: its enabled times. */
 export type RuleSnapshot = {
   date: string
-  slots: { id: string; schedule: Schedule; tier: Tier }[]
+  slots: { id: string; schedule: Schedule; tier: Tier; time: string | null; timeBlock: TimeBlock }[]
 }
 
 type DayKeeping = 'kept' | 'missed' | 'partial' | 'free'
@@ -49,6 +49,8 @@ export function ruleTimeline(practiceId: string, events: TimedEvent[]): RuleSnap
             id: parseSlotKey(s.id).slotId,
             schedule: parseSchedule(s.schedule),
             tier: s.tier,
+            time: s.time,
+            timeBlock: s.time_block,
           }))
     if (snapshots.at(-1)?.date === date) snapshots[snapshots.length - 1] = { date, slots }
     else snapshots.push({ date, slots })
@@ -64,7 +66,7 @@ function concerns(event: AppEvent, practiceId: string): boolean {
   return false
 }
 
-function snapshotAt(timeline: RuleSnapshot[], date: string): RuleSnapshot | undefined {
+export function snapshotAt(timeline: RuleSnapshot[], date: string): RuleSnapshot | undefined {
   let found: RuleSnapshot | undefined
   for (const s of timeline) {
     if (s.date > date) break
