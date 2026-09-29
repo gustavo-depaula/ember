@@ -731,8 +731,9 @@ export default {
       themedReadings: 'Encontre Algo para Ler',
       continueReading: 'Continuar Leitura',
       openBible: 'Navegar na Bíblia',
-      openBibleLabel: 'A Palavra',
-      openBibleHint: 'Antigo e Novo Testamento, por livro',
+      motto: 'Verbum Domini',
+      chapterOf: 'Cap. {{n}} de {{total}}',
+      bookCount: '{{count}} livros',
     },
   },
 

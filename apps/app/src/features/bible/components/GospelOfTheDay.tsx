@@ -2,16 +2,18 @@ import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { StyleSheet } from 'react-native'
+import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
 import { YStack } from 'tamagui'
 
 import { AnimatedPressable, InlineRetry } from '@/components'
 import { Typography } from '@/components/typography'
-import { blockInk, blockLabelInk, toneForKey } from '@/features/explore/bgColor'
+import { blockInk, blockLabelInk, jewelTones } from '@/features/explore/bgColor'
 import { evangelistArtFor } from '@/features/explore/evangelistArt'
 import { useToday } from '@/hooks/useToday'
 import { useGospelOfTheDay as useGospelOfTheDayQuery } from '@/lib/mass-of/use-gospel-of-the-day'
 
 const dayMs = 86_400_000
+const tone = jewelTones.red
 
 export function GospelOfTheDay() {
   const { t } = useTranslation()
@@ -27,7 +29,6 @@ export function GospelOfTheDay() {
 
   const dayIndex = Math.floor(today.getTime() / dayMs)
   const image = evangelistArtFor(gospel.citation, dayIndex)
-  const tone = toneForKey('gospel-of-the-day')
   const preview = gospel.text.length > 180 ? `${gospel.text.slice(0, 180).trimEnd()}…` : gospel.text
   const title = gospel.citation ?? t('bible.discovery.gospelOfTheDay')
 
@@ -43,8 +44,8 @@ export function GospelOfTheDay() {
       accessibilityLabel={t('bible.discovery.gospelOfTheDay')}
     >
       <YStack
-        height={340}
-        borderRadius={18}
+        height={320}
+        borderRadius={20}
         overflow="hidden"
         backgroundColor={tone.from}
         justifyContent="flex-end"
@@ -58,11 +59,18 @@ export function GospelOfTheDay() {
             cachePolicy="memory-disk"
           />
         )}
-        <YStack
-          padding="$lg"
-          gap="$xs"
-          backgroundColor={image ? 'rgba(0,0,0,0.42)' : 'transparent'}
-        >
+        {/* The painting sinks into the tone's shadow, so the text needs no hard band. */}
+        <Svg style={StyleSheet.absoluteFill} width="100%" height="100%">
+          <Defs>
+            <LinearGradient id="gospel-scrim" x1="0" y1="0" x2="0" y2="1">
+              <Stop offset="0.38" stopColor={tone.to} stopOpacity={0} />
+              <Stop offset="0.64" stopColor={tone.to} stopOpacity={0.78} />
+              <Stop offset="1" stopColor={tone.to} stopOpacity={1} />
+            </LinearGradient>
+          </Defs>
+          <Rect width="100%" height="100%" fill="url(#gospel-scrim)" />
+        </Svg>
+        <YStack padding="$lg" gap="$xs">
           <Typography
             variant="marker"
             textAlign="left"

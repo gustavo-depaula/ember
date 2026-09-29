@@ -46,8 +46,10 @@ export function useBibleResume() {
     })),
   )
   const bookName = useBookName(translation, bookId)
+  const { data: books } = useBooks(translation)
   if (!hydrated || !bookName || (bookId === 'genesis' && chapter === 1)) return undefined
-  return { bookId, bookName, chapter, updatedAt }
+  const chapters = books?.find((b) => b.id === bookId)?.chapters
+  return { bookId, bookName, chapter, chapters, updatedAt }
 }
 
 export function useChapter(translation: string, bookId: string, chapter: number) {
