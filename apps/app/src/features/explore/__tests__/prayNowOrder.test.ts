@@ -73,10 +73,10 @@ describe('pray now: which practice', () => {
   })
 
   it('holds a practice until the next one comes due', () => {
-    const done = ['morning-offering-opus-dei', 'prayer-pope-bishop', 'mass', 'mental-prayer']
-    // The 12:00 Angelus stays until the 13:00 Particular Examen takes over.
-    expect(pick('opus-dei', '12:55', done).ref).toBe('angelus')
-    expect(pick('opus-dei', '13:05', done).ref).toBe('particular-examination')
+    const done = ['morning-offering', 'mass', 'mental-prayer', 'visit-blessed-sacrament']
+    // Cursillo: the 18:00 Rosary (ideal) stays until the 21:00 spiritual reading takes over.
+    expect(pick('cursillo', '20:55', done).ref).toBe('rosary')
+    expect(pick('cursillo', '21:05', done).ref).toBe('spiritual-reading')
   })
 
   it('holds an unprayed essential for two hours, over what comes due after it', () => {
