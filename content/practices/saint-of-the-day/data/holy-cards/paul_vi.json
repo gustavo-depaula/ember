@@ -1,0 +1,44 @@
+{
+  "id": "paul_vi",
+  "feast": {
+    "month": 5,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Paul VI",
+    "pt-BR": "São Paulo VI"
+  },
+  "patronOf": {
+    "en-US": "Pope of the Second Vatican Council",
+    "pt-BR": "Papa do Concílio Vaticano II"
+  },
+  "prayerExcerpt": {
+    "en-US": "We can cooperate with you to spread the civilization of love in the world.",
+    "pt-BR": "Possamos colaborar convosco na propagação da civilização do amor."
+  },
+  "meta": {
+    "face": "A slender, ascetic man of about seventy, clean-shaven, with a long, narrow face, a high bald forehead and close dark-grey hair at the temples under the zucchetto, a pronounced aquiline nose, deep-set clear blue eyes under strong dark brows, thin lips and a grave, gentle, thoughtful expression.",
+    "basis": "The 1969 official portrait and other photographs: a thin, long-faced pope with an aquiline nose and deep-set light eyes, in ermine-trimmed mozzetta and apostle stole. He was the first pope to fly and to visit the Holy Land (1964).",
+    "excerpt": "content/of/formularies/sanctoral/05-29.json collect (petition clause, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Paul VI (1969 portrait; Mount Tabor 1964 photograph)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Paul_VI"
+      },
+      {
+        "title": "Wikimedia Commons, Pope Paul VI 1969 Portrait",
+        "url": "https://commons.wikimedia.org/wiki/File:Pope_Paul_VI_1969_Portrait_(4x5_cropped).jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Papa Paolo VI",
+        "url": "https://commons.wikimedia.org/wiki/File:Papa_Paolo_VI.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "juan_diego",
+  "feast": {
+    "month": 12,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Juan Diego",
+    "pt-BR": "São João Diego"
+  },
+  "patronOf": {
+    "en-US": "Patron of indigenous peoples",
+    "pt-BR": "Padroeiro dos povos indígenas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Am I not here, I who am your mother?",
+    "pt-BR": "Não estou eu aqui, eu que sou tua mãe?"
+  },
+  "meta": {
+    "face": "A Nahua man of about fifty-seven with a broad, high-cheekboned indigenous face, warm brown skin, straight black hair cut in a thick fringe across the forehead and falling straight to the jaw, CLEAN-SHAVEN (no beard, no moustache), dark gentle eyes lowered in humble wonder. He must not resemble Christ.",
+    "basis": "The colonial 'true portraits' (Cabrera's Fiel retrato, the Verdadero retrato) show him with long straight black hair, a thin moustache and sparse beard, in a white tilma; he was born in 1474 and was 57 in 1531. Attributes: the tilma with the image, and the roses of Tepeyac.",
+    "excerpt": "Nican Mopohua v. 119 (Nahuatl, printed by Laso de la Vega, 1649): 'Cuix amo nican nica nimonantzin?'; the Virgin's words to him. Our own translation from the Nahuatl, checked against the transcription at pages.ucsd.edu/~dkjordan/nahuatl/nican/nican5.html",
+    "sources": [
+      {
+        "title": "Wikipedia, Juan Diego (dates, tilma, Tepeyac; Cabrera portrait)",
+        "url": "https://en.wikipedia.org/wiki/Juan_Diego"
+      },
+      {
+        "title": "Wikimedia Commons, Miguel Cabrera, Fiel retrato do venerável Juan Diego",
+        "url": "https://commons.wikimedia.org/wiki/File:MIguel_Cabrera_-_Fiel_retrato_do_vener%C3%A1vel_Juan_Diego.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Verdadero retrato del siervo de Dios Juan Diego",
+        "url": "https://commons.wikimedia.org/wiki/File:Juan-Diego.jpg"
+      },
+      {
+        "title": "Nican Mopohua, Nahuatl text with notes (D. K. Jordan), part 5, v. 119",
+        "url": "https://pages.ucsd.edu/~dkjordan/nahuatl/nican/nican5.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md; the first draft's long hair and goatee read as Christ, so it was regenerated clean-shaven with a fringe."
+      }
+    ]
+  }
+}

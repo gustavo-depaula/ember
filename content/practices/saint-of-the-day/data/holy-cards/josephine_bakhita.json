@@ -1,0 +1,44 @@
+{
+  "id": "josephine_bakhita",
+  "feast": {
+    "month": 2,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Josephine Bakhita",
+    "pt-BR": "Santa Josefina Bakhita"
+  },
+  "patronOf": {
+    "en-US": "Patron of Sudan",
+    "pt-BR": "Padroeira do Sudão"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whoever loves me will be loved by my Father.",
+    "pt-BR": "Aquele que me ama será amado por meu Pai."
+  },
+  "meta": {
+    "face": "A Sudanese woman of about fifty with deep dark-brown skin, a round, full face, a broad nose and full lips, large, gentle dark eyes and a warm, open smile; no marks on the face.",
+    "basis": "Her photographs (c. 1910 and the colour portrait) in the Canossian habit and ruffled bonnet with the Sorrowful Mother medal; Schio remembered her 'ever-present smile', and called her 'Madre Moretta'. The broken chain is the usual modern emblem of the slave set free.",
+    "excerpt": "content/of/formularies/common/virgins/virg0.json communionAntiphon (first sentence; en-US cut at 'Father'). Her feast has no proper formulary in the repo.",
+    "sources": [
+      {
+        "title": "Wikipedia, Josephine Bakhita (photographs, habit, Schio)",
+        "url": "https://en.wikipedia.org/wiki/Josephine_Bakhita"
+      },
+      {
+        "title": "Wikimedia Commons, Photograph of Saint Josephine Bakhita (c. 1910)",
+        "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Saint_Josephine_Bakhita_(c._1910).jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Bakhita Szent Jozefina (colour portrait)",
+        "url": "https://commons.wikimedia.org/wiki/File:Bakhita_Szent_Jozefina.jpeg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}

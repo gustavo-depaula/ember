@@ -3,7 +3,8 @@
 # Usage (repo root): research/holy-card-faces/gen-batch.sh batches/batch-N.json [card-id...]
 dir=research/holy-card-faces
 batch=$dir/$1; shift
-python3 - "$batch" "$@" <<'PY' | while IFS= read -r line; do eval "$line" & done; wait
+# The loop runs in the pipe's subshell, so its `wait` must too, or the jobs die with the script.
+python3 - "$batch" "$@" <<'PY' | { while IFS= read -r line; do eval "$line" & done; wait; }
 import json, shlex, sys
 cards = json.load(open(sys.argv[1]))["cards"]
 only = set(sys.argv[2:])

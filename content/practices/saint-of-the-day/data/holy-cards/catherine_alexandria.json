@@ -1,0 +1,44 @@
+{
+  "id": "catherine_alexandria",
+  "feast": {
+    "month": 11,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Catherine of Alexandria",
+    "pt-BR": "Santa Catarina de Alexandria"
+  },
+  "patronOf": {
+    "en-US": "Patron of philosophers and students",
+    "pt-BR": "Padroeira dos filósofos e estudantes"
+  },
+  "prayerExcerpt": {
+    "en-US": "We may be strengthened in faith and constancy.",
+    "pt-BR": "Sejamos firmes na fé e na perseverança."
+  },
+  "meta": {
+    "face": "A young noblewoman of eighteen with a fine oval face, fair olive skin, a straight classical nose, dark chestnut hair braided and coiled up beneath the crown with a few loose strands, large dark-brown eyes and a clear, intelligent, composed gaze.",
+    "basis": "The Golden Legend makes her a king's daughter, 'fair of visage', learned in the liberal arts, eighteen when she disputed in Alexandria, and says the wheels were broken at her prayer; crown, wheel, palm, book and sword are her standard attributes. The dark chestnut hair follows Caravaggio and keeps her apart from Agnes, Lucy and Philomena.",
+    "excerpt": "content/of/formularies/sanctoral/11-25.json collect (petition clause, capitalised)",
+    "sources": [
+      {
+        "title": "Golden Legend (Caxton), vol. 7, Life of S. Katherine",
+        "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume7.asp"
+      },
+      {
+        "title": "Wikipedia, Catherine of Alexandria (Caravaggio lead image)",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+      },
+      {
+        "title": "Wikimedia Commons, Caravaggio, Saint Catherine of Alexandria",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Catherine_of_Alexandria_(Caravaggio).jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}

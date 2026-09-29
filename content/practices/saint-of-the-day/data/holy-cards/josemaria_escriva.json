@@ -1,0 +1,44 @@
+{
+  "id": "josemaria_escriva",
+  "feast": {
+    "month": 6,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Josemaría Escrivá",
+    "pt-BR": "São Josemaria Escrivá"
+  },
+  "patronOf": {
+    "en-US": "Founder of Opus Dei",
+    "pt-BR": "Fundador do Opus Dei"
+  },
+  "prayerExcerpt": {
+    "en-US": "Follow me, says the Lord, and I will make you into fishers of men.",
+    "pt-BR": "Vinde após mim, diz o Senhor, e eu farei de vós pescadores de homens."
+  },
+  "meta": {
+    "face": "A robust, clean-shaven priest of about sixty-five with a broad, round face and full cheeks, dark hair greying at the temples, combed straight back from a high forehead, dark eyes behind heavy dark-rimmed rectangular spectacles, and a wide, cheerful smile.",
+    "basis": "His photographs of the 1960s–70s and the official Opus Dei prayer card: a round, smiling face, dark hair combed back and dark-rimmed glasses, in a black cassock. The glasses are rectangular and dark to keep him apart from Kolbe's round wire spectacles.",
+    "excerpt": "content/of/formularies/sanctoral/06-26.json gospelAcclamation verse (Mk 1:17)",
+    "sources": [
+      {
+        "title": "Wikipedia, Josemaría Escrivá (lead photograph)",
+        "url": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+      },
+      {
+        "title": "Opus Dei, St Josemaría prayer card (official photograph)",
+        "url": "https://multimedia.opusdei.org/docs/St%20Josemaria%20Prayercard.pdf"
+      },
+      {
+        "title": "Wikimedia Commons, Josemaria Escriva",
+        "url": "https://commons.wikimedia.org/wiki/File:Josemaria_Escriva.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "john_paul_ii",
+  "feast": {
+    "month": 10,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. John Paul II",
+    "pt-BR": "São João Paulo II"
+  },
+  "patronOf": {
+    "en-US": "Patron of families",
+    "pt-BR": "Padroeiro das famílias"
+  },
+  "prayerExcerpt": {
+    "en-US": "O God, who are rich in mercy",
+    "pt-BR": "Ó Deus, rico em misericórdia"
+  },
+  "meta": {
+    "face": "A sturdy, broad-shouldered, athletic man of about sixty, clean-shaven, with a broad Slavic face, high cheekbones and a strong square jaw, light grey-blue eyes, fair, greying ash-blond hair showing at the temples under the zucchetto, and a warm, open half-smile; not heavy or fleshy.",
+    "basis": "Photographs from his first decade as pope (1979 Poland, 1991) and the record of an athlete and mountaineer elected at 58; the Scorzelli ferula he carried everywhere. Kept lean and fair to stand apart from Leo's heavy, dark-eyed pope.",
+    "excerpt": "content/of/formularies/sanctoral/10-22.json collect (opening phrase)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope John Paul II (lead photograph with the ferula, Adamello 1984)",
+        "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+      },
+      {
+        "title": "Wikimedia Commons, Pope John Paul II 1991 (portrait)",
+        "url": "https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_1991_(cropped).jpg"
+      },
+      {
+        "title": "Skiing History, John Paul II (athlete, skier and hiker)",
+        "url": "https://www.skiinghistory.org/lives/john-paul-ii"
+      },
+      {
+        "title": "Wikipedia, Papal ferula (Scorzelli crucifix, 1963)",
+        "url": "https://en.wikipedia.org/wiki/Papal_ferula"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}

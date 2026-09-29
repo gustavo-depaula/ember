@@ -1,0 +1,455 @@
+{
+  "batch": 4,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-4.md",
+  "cards": [
+    {
+      "id": "john_paul_ii",
+      "letter": "J",
+      "feast": {
+        "month": 10,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. John Paul II",
+        "pt-BR": "São João Paulo II"
+      },
+      "patronOf": {
+        "en-US": "Patron of families",
+        "pt-BR": "Padroeiro das famílias"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, who are rich in mercy",
+        "pt-BR": "Ó Deus, rico em misericórdia"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-22.json collect (opening phrase)",
+      "subject": "Half-length, the vigorous pope of the early 1980s: white cassock with the short white shoulder cape (pellegrina), white zucchetto, a gold pectoral cross on a cord; his right hand raised in blessing, his left holding the tall silver papal staff topped by a crucifix of the bent, suffering Christ (the Scorzelli ferula). Background: Kraków seen across the Vistula, Wawel Hill with the cathedral and castle, and the Tatra mountains faint on the horizon.",
+      "face": "A sturdy, broad-shouldered, athletic man of about sixty, clean-shaven, with a broad Slavic face, high cheekbones and a strong square jaw, light grey-blue eyes, fair, greying ash-blond hair showing at the temples under the zucchetto, and a warm, open half-smile; not heavy or fleshy.",
+      "refs": [
+        "gregory_great",
+        "charles_borromeo",
+        "ambrose"
+      ],
+      "basis": "Photographs from his first decade as pope (1979 Poland, 1991) and the record of an athlete and mountaineer elected at 58; the Scorzelli ferula he carried everywhere. Kept lean and fair to stand apart from Leo's heavy, dark-eyed pope.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope John Paul II (lead photograph with the ferula, Adamello 1984)",
+          "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II"
+        },
+        {
+          "title": "Wikimedia Commons, Pope John Paul II 1991 (portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:Pope_John_Paul_II_1991_(cropped).jpg"
+        },
+        {
+          "title": "Skiing History, John Paul II (athlete, skier and hiker)",
+          "url": "https://www.skiinghistory.org/lives/john-paul-ii"
+        },
+        {
+          "title": "Wikipedia, Papal ferula (Scorzelli crucifix, 1963)",
+          "url": "https://en.wikipedia.org/wiki/Papal_ferula"
+        }
+      ],
+      "catalogMatch": "Saint Iohn Paul Ii"
+    },
+    {
+      "id": "john_xxiii",
+      "letter": "J",
+      "feast": {
+        "month": 10,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. John XXIII",
+        "pt-BR": "São João XXIII"
+      },
+      "patronOf": {
+        "en-US": "The Good Pope",
+        "pt-BR": "O Papa Bom"
+      },
+      "prayerExcerpt": {
+        "en-US": "We may with joy spread abroad the fullness of Christian charity.",
+        "pt-BR": "Possamos difundir com alegria a riqueza do amor cristão."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-11.json collect (petition clause, capitalised)",
+      "subject": "Half-length: white cassock, red velvet mozzetta, a red stole embroidered in gold with figures of saints, and on his head the red velvet camauro trimmed with white ermine, which he revived; a gold pectoral cross, a rosary in one hand and the other resting on an open Gospel book. Background: his birthplace, Sotto il Monte in the hills of Bergamo, with a village church tower, farmhouses and the foothills of the Alps.",
+      "face": "A stout, heavy-set man of about eighty, clean-shaven, with a large round face, full cheeks and a double chin, a broad, prominent nose, small twinkling dark-brown eyes creased with laughter lines, and a broad, kindly smile.",
+      "refs": [
+        "gregory_great",
+        "alphonsus_liguori",
+        "charles_borromeo"
+      ],
+      "basis": "His official photographs as pope (1958–63): a round, smiling, heavy-set old man with a large nose, in red mozzetta and embroidered stole; the camauro distinguishes him from the other popes.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope John XXIII (De Agostini portrait, 1958–63)",
+          "url": "https://en.wikipedia.org/wiki/Pope_John_XXIII"
+        },
+        {
+          "title": "Wikimedia Commons, Pope John XXIII - 1959",
+          "url": "https://commons.wikimedia.org/wiki/File:Pope_John_XXIII_-_1959.jpg"
+        },
+        {
+          "title": "Wikipedia, Camauro (revived by John XXIII in 1958)",
+          "url": "https://en.wikipedia.org/wiki/Camauro"
+        }
+      ],
+      "catalogMatch": "Saint John Xxiii"
+    },
+    {
+      "id": "paul_vi",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Paul VI",
+        "pt-BR": "São Paulo VI"
+      },
+      "patronOf": {
+        "en-US": "Pope of the Second Vatican Council",
+        "pt-BR": "Papa do Concílio Vaticano II"
+      },
+      "prayerExcerpt": {
+        "en-US": "We can cooperate with you to spread the civilization of love in the world.",
+        "pt-BR": "Possamos colaborar convosco na propagação da civilização do amor."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-29.json collect (petition clause, capitalised)",
+      "subject": "Half-length: white cassock and white zucchetto, a red velvet mozzetta edged with white ermine, a red stole embroidered with figures of the apostles, a simple gold pectoral cross; he holds a closed Gospel book against his chest with both hands, head slightly inclined. Background: his 1964 pilgrimage to the Holy Land, the Sea of Galilee with the rounded dome of Mount Tabor rising from the plain.",
+      "face": "A slender, ascetic man of about seventy, clean-shaven, with a long, narrow face, a high bald forehead and close dark-grey hair at the temples under the zucchetto, a pronounced aquiline nose, deep-set clear blue eyes under strong dark brows, thin lips and a grave, gentle, thoughtful expression.",
+      "refs": [
+        "charles_borromeo",
+        "gregory_great",
+        "ambrose"
+      ],
+      "basis": "The 1969 official portrait and other photographs: a thin, long-faced pope with an aquiline nose and deep-set light eyes, in ermine-trimmed mozzetta and apostle stole. He was the first pope to fly and to visit the Holy Land (1964).",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Paul VI (1969 portrait; Mount Tabor 1964 photograph)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Paul_VI"
+        },
+        {
+          "title": "Wikimedia Commons, Pope Paul VI 1969 Portrait",
+          "url": "https://commons.wikimedia.org/wiki/File:Pope_Paul_VI_1969_Portrait_(4x5_cropped).jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Papa Paolo VI",
+          "url": "https://commons.wikimedia.org/wiki/File:Papa_Paolo_VI.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Paul Vi"
+    },
+    {
+      "id": "maria_goretti",
+      "letter": "M",
+      "feast": {
+        "month": 7,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Maria Goretti",
+        "pt-BR": "Santa Maria Goretti"
+      },
+      "patronOf": {
+        "en-US": "Patron of youth and purity",
+        "pt-BR": "Padroeira da juventude e da pureza"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, author of innocence and lover of chastity",
+        "pt-BR": "Ó Deus, fonte da inocência e alegria dos puros de coração"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-06.json collect (opening invocation)",
+      "subject": "Half-length: a peasant girl of the Roman countryside in a plain white blouse with rolled sleeves, a dark skirt and a white apron, holding a bunch of white lilies against her breast and a martyr's palm; a small halo of light, no wound shown. Background: the flat farmland of the Pontine marshes at Le Ferriere near Nettuno, the old farmhouse La Cascina Antica with its outside stair, and a line of the sea on the horizon.",
+      "face": "A girl of eleven, visibly a child, with a round, soft face, a lightly sun-warmed complexion, long, wavy chestnut-brown hair parted in the middle and loosely tied back, large dark-brown eyes and a serene, trusting gaze; no crown, no veil.",
+      "refs": [
+        "agnes",
+        "philomena",
+        "lucy"
+      ],
+      "basis": "The only photograph of her (1902, among the farm's poultry in a white blouse and apron) and the traditional portrait with long wavy chestnut hair; Wikipedia gives her attributes as lily, farmer's clothing and palm. She died at eleven.",
+      "sources": [
+        {
+          "title": "Wikipedia, Maria Goretti (portrait; attributes; La Cascina Antica)",
+          "url": "https://en.wikipedia.org/wiki/Maria_Goretti"
+        },
+        {
+          "title": "Wikimedia Commons, Photograph of Saint Maria Goretti, 1902",
+          "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Saint_Maria_Goretti,_1902.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Maria Goretti (traditional portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:Maria_Goretti.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Maria Goretti"
+    },
+    {
+      "id": "josephine_bakhita",
+      "letter": "J",
+      "feast": {
+        "month": 2,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Josephine Bakhita",
+        "pt-BR": "Santa Josefina Bakhita"
+      },
+      "patronOf": {
+        "en-US": "Patron of Sudan",
+        "pt-BR": "Padroeira do Sudão"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whoever loves me will be loved by my Father.",
+        "pt-BR": "Aquele que me ama será amado por meu Pai."
+      },
+      "excerptSource": "content/of/formularies/common/virgins/virg0.json communionAntiphon (first sentence; en-US cut at 'Father'). Her feast has no proper formulary in the repo.",
+      "subject": "Half-length: the black habit of the Canossian Daughters of Charity with the round black bonnet gathered in soft ruffles and tied under the chin, a white collar band, and on her breast the Canossian medal of Our Lady of Sorrows on a cord; her hands folded over a small crucifix; a broken iron chain lying at the lower edge of the window. Background: Schio in the Veneto, the Canossian convent with its church, and the green Pre-Alps behind the town.",
+      "face": "A Sudanese woman of about fifty with deep dark-brown skin, a round, full face, a broad nose and full lips, large, gentle dark eyes and a warm, open smile; no marks on the face.",
+      "refs": [
+        "moses_the_black",
+        "margaret_mary",
+        "clare_assisi"
+      ],
+      "basis": "Her photographs (c. 1910 and the colour portrait) in the Canossian habit and ruffled bonnet with the Sorrowful Mother medal; Schio remembered her 'ever-present smile', and called her 'Madre Moretta'. The broken chain is the usual modern emblem of the slave set free.",
+      "sources": [
+        {
+          "title": "Wikipedia, Josephine Bakhita (photographs, habit, Schio)",
+          "url": "https://en.wikipedia.org/wiki/Josephine_Bakhita"
+        },
+        {
+          "title": "Wikimedia Commons, Photograph of Saint Josephine Bakhita (c. 1910)",
+          "url": "https://commons.wikimedia.org/wiki/File:Photograph_of_Saint_Josephine_Bakhita_(c._1910).jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Bakhita Szent Jozefina (colour portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:Bakhita_Szent_Jozefina.jpeg"
+        }
+      ],
+      "catalogMatch": "Saint Josephine Bakhita"
+    },
+    {
+      "id": "martin_de_porres",
+      "letter": "M",
+      "feast": {
+        "month": 11,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Martin de Porres",
+        "pt-BR": "São Martinho de Lima"
+      },
+      "patronOf": {
+        "en-US": "Patron of racial harmony",
+        "pt-BR": "Padroeiro da harmonia entre as raças"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, who led Saint Martin de Porres by the path of humility to heavenly glory",
+        "pt-BR": "Ó Deus, que pelos caminhos da humildade conduzistes São Martinho à glória do céu"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-03.json collect (opening clause)",
+      "subject": "Half-length: the old habit of a Dominican lay brother, a white tunic under a black scapular and black hooded cape, a long rosary at the belt; a straw broom in one hand and a small crucifix in the other; at his feet a dog, a cat and a mouse eating peacefully from one bowl, kept small inside the arched window. Background: colonial Lima, the Dominican convent of the Holy Rosary (Santo Domingo) with its tall tower, under a pale coastal sky.",
+      "face": "A slender Afro-Peruvian man of about forty-five with warm medium-brown skin, close-cropped black hair tightly curled, clean-shaven, a broad nose and full lips, heavy-lidded dark eyes lowered in humility, and a gentle, quiet expression.",
+      "refs": [
+        "dominic",
+        "rose_lima",
+        "moses_the_black"
+      ],
+      "basis": "The 17th-century portrait in Lima thought to be from his lifetime or just after (clean-shaven, close dark hair), the 2016 facial reconstruction from his skull, and his parentage (a Spanish father and a freed mother of African and native descent). Broom and the dog, cat and mouse are his standard attributes.",
+      "sources": [
+        {
+          "title": "Wikipedia, Martin de Porres (portrait from life, parentage, attributes)",
+          "url": "https://en.wikipedia.org/wiki/Martin_de_Porres"
+        },
+        {
+          "title": "Wikimedia Commons, San Martín de Porres (Huaycán portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:San_Martin_de_Porres_huaycan.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, San Martín de Porres - Reconstrucción Facial 3D",
+          "url": "https://commons.wikimedia.org/wiki/File:San_Mart%C3%ADn_de_Porres_-_Reconstrucci%C3%B3n_Facial_3D.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Martin de Porres"
+    },
+    {
+      "id": "juan_diego",
+      "letter": "J",
+      "feast": {
+        "month": 12,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Juan Diego",
+        "pt-BR": "São João Diego"
+      },
+      "patronOf": {
+        "en-US": "Patron of indigenous peoples",
+        "pt-BR": "Padroeiro dos povos indígenas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Am I not here, I who am your mother?",
+        "pt-BR": "Não estou eu aqui, eu que sou tua mãe?"
+      },
+      "excerptSource": "Nican Mopohua v. 119 (Nahuatl, printed by Laso de la Vega, 1649): 'Cuix amo nican nica nimonantzin?'; the Virgin's words to him. Our own translation from the Nahuatl, checked against the transcription at pages.ucsd.edu/~dkjordan/nahuatl/nican/nican5.html",
+      "subject": "Half-length: a Nahua man in a plain white cotton tunic, with a coarse cream-coloured maguey-fibre tilma knotted at his right shoulder; with both hands he holds the tilma open in front of him, and on it is the image of Our Lady of Guadalupe (the rose-pink robe, blue-green mantle with gold stars, sunburst and crescent), while red and pink Castilian roses spill from its folds. Background: the rocky hill of Tepeyac at a December dawn, with nopal cactus and scrub, and the lake and valley of Mexico beyond.",
+      "face": "A Nahua man of about fifty-seven with a broad, high-cheekboned indigenous face, warm brown skin, straight black hair cut in a thick fringe across the forehead and falling straight to the jaw, CLEAN-SHAVEN (no beard, no moustache), dark gentle eyes lowered in humble wonder. He must not resemble Christ.",
+      "refs": [
+        "moses_the_black",
+        "francis_assisi",
+        "rose_lima"
+      ],
+      "basis": "The colonial 'true portraits' (Cabrera's Fiel retrato, the Verdadero retrato) show him with long straight black hair, a thin moustache and sparse beard, in a white tilma; he was born in 1474 and was 57 in 1531. Attributes: the tilma with the image, and the roses of Tepeyac.",
+      "sources": [
+        {
+          "title": "Wikipedia, Juan Diego (dates, tilma, Tepeyac; Cabrera portrait)",
+          "url": "https://en.wikipedia.org/wiki/Juan_Diego"
+        },
+        {
+          "title": "Wikimedia Commons, Miguel Cabrera, Fiel retrato do venerável Juan Diego",
+          "url": "https://commons.wikimedia.org/wiki/File:MIguel_Cabrera_-_Fiel_retrato_do_vener%C3%A1vel_Juan_Diego.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Verdadero retrato del siervo de Dios Juan Diego",
+          "url": "https://commons.wikimedia.org/wiki/File:Juan-Diego.jpg"
+        },
+        {
+          "title": "Nican Mopohua, Nahuatl text with notes (D. K. Jordan), part 5, v. 119",
+          "url": "https://pages.ucsd.edu/~dkjordan/nahuatl/nican/nican5.html"
+        }
+      ],
+      "catalogMatch": "Saint Juan Diego"
+    },
+    {
+      "id": "charbel",
+      "letter": "C",
+      "feast": {
+        "month": 7,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Charbel",
+        "pt-BR": "São Charbel"
+      },
+      "patronOf": {
+        "en-US": "Patron of Lebanon",
+        "pt-BR": "Padroeiro do Líbano"
+      },
+      "prayerExcerpt": {
+        "en-US": "Being made imitators of the Lord's Passion, we may merit to be co-heirs of his Kingdom.",
+        "pt-BR": "Sendo imitadores da paixão do Senhor, mereçamos participar do seu Reino."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-24.json collect (petition clause, capitalised)",
+      "subject": "Half-length: the black habit of the Lebanese Maronite Order with its black hood (cowl) drawn forward over the head down to the brows, a leather belt, a knotted prayer rope over his hands, which are crossed on a small wooden crucifix held to his breast. Background: the hermitage of Saints Peter and Paul on its hilltop above the monastery of Saint Maron at Annaya, Mount Lebanon, with terraced slopes, oaks and pines, in soft evening light.",
+      "face": "A lean old monk of about seventy with a long, narrow face and high cheekbones, a straight, fine nose, a long, full white beard falling to the chest and a white moustache, heavy white brows, and eyes lowered and almost closed in recollection; the hood shadows the forehead, no hair visible.",
+      "refs": [
+        "benedict",
+        "jerome",
+        "francis_assisi"
+      ],
+      "basis": "No picture was taken in life; his standard image comes from the 1950 photograph at Annaya in which the old monks recognised him: a long white beard, black hood and downcast eyes. He died in 1898 at seventy; Wikipedia gives habit and prayer rope as his attributes.",
+      "sources": [
+        {
+          "title": "Wikipedia, Charbel Makhlouf (dates, hermitage, attributes; Charbel.jpg)",
+          "url": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
+        },
+        {
+          "title": "Aleteia, The only photograph of St. Charbel was a miracle",
+          "url": "https://aleteia.org/2025/07/24/the-only-photograph-of-st-charbel-was-a-miracle/"
+        },
+        {
+          "title": "Saint Charbel (Australia), St Charbel appears in a photo in Annaya",
+          "url": "https://saintcharbel.net.au/miracles/st-charbel-appears-in-a-photo-after-his-death-in-annaya-mount-lebanon/"
+        }
+      ],
+      "catalogMatch": "Saint Charbel Makhluf"
+    },
+    {
+      "id": "josemaria_escriva",
+      "letter": "J",
+      "feast": {
+        "month": 6,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Josemaría Escrivá",
+        "pt-BR": "São Josemaria Escrivá"
+      },
+      "patronOf": {
+        "en-US": "Founder of Opus Dei",
+        "pt-BR": "Fundador do Opus Dei"
+      },
+      "prayerExcerpt": {
+        "en-US": "Follow me, says the Lord, and I will make you into fishers of men.",
+        "pt-BR": "Vinde após mim, diz o Senhor, e eu farei de vós pescadores de homens."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-26.json gospelAcclamation verse (Mk 1:17)",
+      "subject": "Half-length: a priest in a plain black cassock with a white Roman collar, a small crucifix in one hand and a rosary in the other, turned three-quarters toward the viewer. Background: Madrid, where he founded Opus Dei in 1928: low brick houses and a church dome under a clear Castilian sky, with people at their daily work in the street below, kept small.",
+      "face": "A robust, clean-shaven priest of about sixty-five with a broad, round face and full cheeks, dark hair greying at the temples, combed straight back from a high forehead, dark eyes behind heavy dark-rimmed rectangular spectacles, and a wide, cheerful smile.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "ignatius_loyola"
+      ],
+      "basis": "His photographs of the 1960s–70s and the official Opus Dei prayer card: a round, smiling face, dark hair combed back and dark-rimmed glasses, in a black cassock. The glasses are rectangular and dark to keep him apart from Kolbe's round wire spectacles.",
+      "sources": [
+        {
+          "title": "Wikipedia, Josemaría Escrivá (lead photograph)",
+          "url": "https://en.wikipedia.org/wiki/Josemar%C3%ADa_Escriv%C3%A1"
+        },
+        {
+          "title": "Opus Dei, St Josemaría prayer card (official photograph)",
+          "url": "https://multimedia.opusdei.org/docs/St%20Josemaria%20Prayercard.pdf"
+        },
+        {
+          "title": "Wikimedia Commons, Josemaria Escriva",
+          "url": "https://commons.wikimedia.org/wiki/File:Josemaria_Escriva.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Josemaria Escriva"
+    },
+    {
+      "id": "catherine_alexandria",
+      "letter": "C",
+      "feast": {
+        "month": 11,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Catherine of Alexandria",
+        "pt-BR": "Santa Catarina de Alexandria"
+      },
+      "patronOf": {
+        "en-US": "Patron of philosophers and students",
+        "pt-BR": "Padroeira dos filósofos e estudantes"
+      },
+      "prayerExcerpt": {
+        "en-US": "We may be strengthened in faith and constancy.",
+        "pt-BR": "Sejamos firmes na fé e na perseverança."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-25.json collect (petition clause, capitalised)",
+      "subject": "Half-length: a royal princess in a deep green gown with gold embroidery and a crimson mantle lined with ermine, an open gold crown set with pearls; she holds an open book in one hand and a martyr's palm in the other; beside her, the spiked wheel lies broken in two, its rim shattered; a sword, if shown, rests point-down and sheathed. Background: the harbour of Alexandria with the Pharos lighthouse and white colonnades by the sea.",
+      "face": "A young noblewoman of eighteen with a fine oval face, fair olive skin, a straight classical nose, dark chestnut hair braided and coiled up beneath the crown with a few loose strands, large dark-brown eyes and a clear, intelligent, composed gaze.",
+      "refs": [
+        "cecilia",
+        "elizabeth_hungary",
+        "lucy"
+      ],
+      "basis": "The Golden Legend makes her a king's daughter, 'fair of visage', learned in the liberal arts, eighteen when she disputed in Alexandria, and says the wheels were broken at her prayer; crown, wheel, palm, book and sword are her standard attributes. The dark chestnut hair follows Caravaggio and keeps her apart from Agnes, Lucy and Philomena.",
+      "sources": [
+        {
+          "title": "Golden Legend (Caxton), vol. 7, Life of S. Katherine",
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume7.asp"
+        },
+        {
+          "title": "Wikipedia, Catherine of Alexandria (Caravaggio lead image)",
+          "url": "https://en.wikipedia.org/wiki/Catherine_of_Alexandria"
+        },
+        {
+          "title": "Wikimedia Commons, Caravaggio, Saint Catherine of Alexandria",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Catherine_of_Alexandria_(Caravaggio).jpg"
+        }
+      ],
+      "catalogMatch": "Saint Catherine of Alexandria"
+    }
+  ]
+}

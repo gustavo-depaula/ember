@@ -1,0 +1,44 @@
+{
+  "id": "charbel",
+  "feast": {
+    "month": 7,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Charbel",
+    "pt-BR": "São Charbel"
+  },
+  "patronOf": {
+    "en-US": "Patron of Lebanon",
+    "pt-BR": "Padroeiro do Líbano"
+  },
+  "prayerExcerpt": {
+    "en-US": "Being made imitators of the Lord's Passion, we may merit to be co-heirs of his Kingdom.",
+    "pt-BR": "Sendo imitadores da paixão do Senhor, mereçamos participar do seu Reino."
+  },
+  "meta": {
+    "face": "A lean old monk of about seventy with a long, narrow face and high cheekbones, a straight, fine nose, a long, full white beard falling to the chest and a white moustache, heavy white brows, and eyes lowered and almost closed in recollection; the hood shadows the forehead, no hair visible.",
+    "basis": "No picture was taken in life; his standard image comes from the 1950 photograph at Annaya in which the old monks recognised him: a long white beard, black hood and downcast eyes. He died in 1898 at seventy; Wikipedia gives habit and prayer rope as his attributes.",
+    "excerpt": "content/of/formularies/sanctoral/07-24.json collect (petition clause, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Charbel Makhlouf (dates, hermitage, attributes; Charbel.jpg)",
+        "url": "https://en.wikipedia.org/wiki/Charbel_Makhlouf"
+      },
+      {
+        "title": "Aleteia, The only photograph of St. Charbel was a miracle",
+        "url": "https://aleteia.org/2025/07/24/the-only-photograph-of-st-charbel-was-a-miracle/"
+      },
+      {
+        "title": "Saint Charbel (Australia), St Charbel appears in a photo in Annaya",
+        "url": "https://saintcharbel.net.au/miracles/st-charbel-appears-in-a-photo-after-his-death-in-annaya-mount-lebanon/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}

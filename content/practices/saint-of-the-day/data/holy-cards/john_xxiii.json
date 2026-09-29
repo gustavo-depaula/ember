@@ -1,0 +1,44 @@
+{
+  "id": "john_xxiii",
+  "feast": {
+    "month": 10,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. John XXIII",
+    "pt-BR": "São João XXIII"
+  },
+  "patronOf": {
+    "en-US": "The Good Pope",
+    "pt-BR": "O Papa Bom"
+  },
+  "prayerExcerpt": {
+    "en-US": "We may with joy spread abroad the fullness of Christian charity.",
+    "pt-BR": "Possamos difundir com alegria a riqueza do amor cristão."
+  },
+  "meta": {
+    "face": "A stout, heavy-set man of about eighty, clean-shaven, with a large round face, full cheeks and a double chin, a broad, prominent nose, small twinkling dark-brown eyes creased with laughter lines, and a broad, kindly smile.",
+    "basis": "His official photographs as pope (1958–63): a round, smiling, heavy-set old man with a large nose, in red mozzetta and embroidered stole; the camauro distinguishes him from the other popes.",
+    "excerpt": "content/of/formularies/sanctoral/10-11.json collect (petition clause, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope John XXIII (De Agostini portrait, 1958–63)",
+        "url": "https://en.wikipedia.org/wiki/Pope_John_XXIII"
+      },
+      {
+        "title": "Wikimedia Commons, Pope John XXIII - 1959",
+        "url": "https://commons.wikimedia.org/wiki/File:Pope_John_XXIII_-_1959.jpg"
+      },
+      {
+        "title": "Wikipedia, Camauro (revived by John XXIII in 1958)",
+        "url": "https://en.wikipedia.org/wiki/Camauro"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-4.md."
+      }
+    ]
+  }
+}
