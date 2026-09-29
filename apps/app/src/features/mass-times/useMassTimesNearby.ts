@@ -6,8 +6,8 @@ import { useFavoritesStore } from './favorites'
 import type { DeviceLocation } from './useDeviceLocation'
 import { useDeviceLocation } from './useDeviceLocation'
 
-// Churches listed per viewport; past this many in view the backend clusters the map instead.
-const fetchLimit = 60
+// Churches listed per viewport (the backend's cap); past this many in view it clusters the map.
+const fetchLimit = 100
 // Initial viewport span (degrees) before the map reports its real region — ~28 km around the user.
 const defaultSpanDeg = 0.25
 const earthRadiusKm = 6371
