@@ -2,7 +2,6 @@ import { Stack } from 'expo-router'
 import {
   BookMarked,
   BookOpen,
-  CalendarDays,
   Church,
   CircleDot,
   Flame,
@@ -96,7 +95,6 @@ export default function SearchScreen() {
         href: { pathname: '/browse/book/[bookId]/read', params: { bookId: 'ccc' } },
       },
       { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
-      { key: 'calendar', title: t('calendar.title'), icon: CalendarDays, href: '/calendar' },
       { key: 'piano', title: t('piano.title'), icon: Music, href: '/piano' },
     ],
     [t],
