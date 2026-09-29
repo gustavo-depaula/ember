@@ -150,39 +150,6 @@
 				{ "kind": "item", "ref": "practice/st-josemaria-novena" },
 				{ "kind": "item", "ref": "practice/novena-for-the-sick-escriva" }
 			]
-		},
-		{
-			"id": "to-source",
-			"title": {
-				"en-US": "Coming Soon",
-				"pt-BR": "Em Breve"
-			},
-			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Aspirations & the presence of God",
-						"pt-BR": "Jaculatórias e a presença de Deus"
-					},
-					"notes": {
-						"en-US": "The customary darts of prayer — Serviam!, Omnia in bonum!, Cor Mariae dulcissimum iter para tutum!, Abba Pater! — with divine filiation as the thread. Latin, English and Portuguese in separate keys.",
-						"pt-BR": "As jaculatórias costumeiras — Serviam!, Omnia in bonum!, Cor Mariae dulcissimum iter para tutum!, Abba Pater! — tendo a filiação divina por fio condutor. Latim, inglês e português em chaves separadas."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Mental prayer — Opus Dei preparation & thanksgiving",
-						"pt-BR": "Oração mental — preparação e ação de graças do Opus Dei"
-					},
-					"notes": {
-						"en-US": "A variant of practice/mental-prayer using St. Josemaría's fixed opening (*My Lord and my God, I firmly believe that You are here…*) and closing (*I thank You, my God, for the good resolutions…*) in place of the St. Alphonsus acts the current flow uses.",
-						"pt-BR": "Uma variante de practice/mental-prayer com a abertura fixa de São Josemaria (*Meu Senhor e meu Deus, creio firmemente que estais aqui…*) e o encerramento (*Graças Vos dou, meu Deus, pelos bons propósitos…*) em lugar dos atos de Santo Afonso que o roteiro atual usa."
-					},
-					"proposedKind": "practice"
-				}
-			]
 		}
 	]
 }
