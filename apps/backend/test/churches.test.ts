@@ -105,6 +105,78 @@ describe('GET /churches (viewport + FTS)', () => {
   })
 })
 
+describe('GET /churches viewport at any zoom', () => {
+  type Viewport = {
+    churches: { id: string }[]
+    clusters: { lat: number; lng: number; count: number; church?: { id: string; name: string } }[]
+  }
+
+  // A 9×9 grid of churches 0.05° apart around the center (~5.5 km spacing), plus one far away. Only
+  // the church at the exact center offers confession.
+  async function seedGrid() {
+    await resetTables('verification_event', 'correction', 'church')
+    for (let i = -4; i <= 4; i++) {
+      for (let j = -4; j <= 4; j++) {
+        const lat = center.lat + i * 0.05
+        const lng = center.lng + j * 0.05
+        const kind = i === 0 && j === 0 ? 'confession' : 'mass'
+        const services = JSON.stringify([
+          { id: `s${i}${j}`, kind, rrule: 'FREQ=WEEKLY;BYDAY=SU', startTime: '09:00' },
+        ])
+        await env.DB.prepare(
+          'INSERT INTO church (id, name, lat, lng, geohash, timezone, services) VALUES (?, ?, ?, ?, ?, ?, ?)',
+        )
+          .bind(`g${i}_${j}`, `Grid ${i} ${j}`, lat, lng, encodeGeohash(lat, lng), 'UTC', services)
+          .run()
+      }
+    }
+  }
+
+  const gridBox = '-74.25,39.75,-73.75,40.25'
+  const viewport = async (query: string) => {
+    const res = await app.request(`/churches?${query}`, {}, env)
+    expect(res.status).toBe(200)
+    return (await res.json()) as Viewport
+  }
+
+  beforeEach(seedGrid)
+
+  it('lists every church, nearest the view center first, when they fit under the limit', async () => {
+    const body = await viewport(`bbox=${gridBox}&limit=100`)
+    expect(body.churches).toHaveLength(81)
+    expect(body.churches[0].id).toBe('g0_0')
+    expect(body.clusters).toEqual([])
+  })
+
+  it('over the limit, lists the churches nearest the center and clusters the whole box', async () => {
+    const body = await viewport(`bbox=${gridBox}&limit=9`)
+    const ids = body.churches.map((c) => c.id)
+    expect(ids[0]).toBe('g0_0')
+    // The 3×3 block around the center — not whichever 9 the index happens to return first.
+    for (const id of ['g-1_-1', 'g-1_0', 'g0_1', 'g1_1']) expect(ids).toContain(id)
+    expect(body.clusters.length).toBeGreaterThan(1)
+    expect(body.clusters.reduce((sum, c) => sum + c.count, 0)).toBe(81)
+  })
+
+  it('names the church behind a single-church cluster', async () => {
+    const body = await viewport(`bbox=${gridBox}&limit=9`)
+    for (const cluster of body.clusters) {
+      if (cluster.count === 1) expect(cluster.church?.name).toMatch(/^Grid /)
+      else expect(cluster.church).toBeUndefined()
+    }
+  })
+
+  it('filters by service kind before capping', async () => {
+    const body = await viewport(`bbox=${gridBox}&limit=5&kind=confession`)
+    expect(body.churches.map((c) => c.id)).toEqual(['g0_0'])
+  })
+
+  it('answers a continent-sized box', async () => {
+    const body = await viewport('bbox=-130,20,-60,55&limit=9')
+    expect(body.clusters.reduce((sum, c) => sum + c.count, 0)).toBe(81)
+  })
+})
+
 describe('GET /churches/:id', () => {
   it('returns detail with services, texts, links', async () => {
     const res = await app.request('/churches/st-mary-a', {}, env)

@@ -57,11 +57,59 @@ export function coveringPrefixes(bbox: Bbox, precision: number): string[] {
   return ngeohash.bboxes(bbox.minLat, bbox.minLng, bbox.maxLat, bbox.maxLng, precision)
 }
 
-// Each prefix → a half-open range [prefix, prefix + '{'). '{' (0x7B) sorts after every geohash
-// base32 char (max 'z' = 0x7A) under BINARY collation, so `geohash >= lo AND geohash < hi` matches
-// exactly the full-precision geohashes carrying that prefix — and stays sargable on the index.
+// Each range binds two SQL parameters and D1 caps a statement at 100, so a zoomed-out box must be
+// covered by coarser cells. Walk the precision down until the covering set is small.
+const maxCoveringCells = 32
+
+export function viewportPrefixes(bbox: Bbox): string[] {
+  let precision = geohashPrecisionForBbox(bbox)
+  let prefixes = coveringPrefixes(bbox, precision)
+  while (prefixes.length > maxCoveringCells && precision > 1) {
+    precision--
+    prefixes = coveringPrefixes(bbox, precision)
+  }
+  return prefixes
+}
+
+const base32 = '0123456789bcdefghjkmnpqrstuvwxyz'
+
+// The next same-length geohash cell in index order ('6gyf' → '6gyg', '6gz' → '6h0'), or undefined
+// past the last one.
+function nextCell(prefix: string): string | undefined {
+  const i = prefix.length - 1
+  if (i < 0) return undefined
+  const digit = base32.indexOf(prefix[i])
+  if (digit < base32.length - 1) return prefix.slice(0, i) + base32[digit + 1]
+  const carried = nextCell(prefix.slice(0, i))
+  return carried === undefined ? undefined : `${carried}0`
+}
+
+// Prefixes → half-open ranges [lo, hi) over the geohash index, adjacent cells merged into one range.
+// The base32 alphabet is in ASCII order, so BINARY collation sorts geohashes cell by cell, and
+// `geohash >= lo AND geohash < hi` stays sargable. '{' (0x7B) sorts after 'z', bounding the last cell.
 export function prefixRanges(prefixes: string[]): Array<[string, string]> {
-  return prefixes.map((p) => [p, `${p}{`])
+  const ranges: Array<[string, string]> = []
+  for (const prefix of [...prefixes].sort()) {
+    const last = ranges.at(-1)
+    const hi = nextCell(prefix) ?? `${prefix}{`
+    if (last?.[1] === prefix) last[1] = hi
+    else ranges.push([prefix, hi])
+  }
+  return ranges
+}
+
+// Cluster cell length for a viewport: the finest geohash cell still ≥ ~1/6 of the box's larger
+// span, so a zoomed-out map shows a few dozen counted clusters rather than hundreds of pins.
+const cellWidthKm = [5000, 1250, 156, 39, 4.9, 1.2, 0.15, 0.04]
+
+export function clusterPrecision(bbox: Bbox): number {
+  const midLat = (bbox.minLat + bbox.maxLat) / 2
+  const latSpanKm = (bbox.maxLat - bbox.minLat) * 111
+  const lngSpanKm = Math.abs(bbox.maxLng - bbox.minLng) * 111 * Math.cos(toRad(midLat))
+  const target = Math.max(latSpanKm, lngSpanKm) / 6
+  let precision = 1
+  while (precision < cellWidthKm.length && cellWidthKm[precision] >= target) precision++
+  return precision
 }
 
 export function encodeGeohash(lat: number, lng: number, precision = 9): string {

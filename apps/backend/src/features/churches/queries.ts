@@ -1,7 +1,8 @@
 import type { Church } from '@ember/api'
 import { church, verificationEvent } from '@ember/api'
-import { and, desc, eq, inArray, sql } from 'drizzle-orm'
+import { and, count, desc, eq, inArray, type SQL, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
+import type { Bbox } from '../../lib/geo'
 
 // Geo prefilter: OR of half-open geohash prefix ranges. Built with the query builder (so rows map
 // to camelCase typed Church) plus a raw `sql` fragment for the ranges — which stays sargable on the
@@ -22,6 +23,73 @@ export function churchesInGeohashRanges(
     .select()
     .from(church)
     .where(and(...conds))
+}
+
+export type ViewportFilter = {
+  ranges: Array<[string, string]>
+  bbox: Bbox
+  kind?: string
+  rite?: string
+  status?: string
+  institute?: string
+}
+
+// Geohash ranges (the indexed prune) + the exact box + service filters, in SQL — so counts, clusters
+// and the capped list all see the same set, and a kind filter applies before any cap.
+function viewportWhere(f: ViewportFilter): SQL {
+  const conds: SQL[] = [
+    sql`(${sql.join(
+      f.ranges.map(([lo, hi]) => sql`(${church.geohash} >= ${lo} AND ${church.geohash} < ${hi})`),
+      sql` OR `,
+    )})`,
+    sql`${church.lat} BETWEEN ${f.bbox.minLat} AND ${f.bbox.maxLat}`,
+    sql`${church.lng} BETWEEN ${f.bbox.minLng} AND ${f.bbox.maxLng}`,
+  ]
+  if (f.status) conds.push(eq(church.status, f.status))
+  if (f.institute) conds.push(eq(church.institute, f.institute))
+  // Services are embedded JSON; a church qualifies when any of its services matches.
+  if (f.kind || f.rite) {
+    const kind = f.kind ? sql`json_extract(value, '$.kind') = ${f.kind}` : sql`1`
+    const rite = f.rite ? sql`json_extract(value, '$.rite') = ${f.rite}` : sql`1`
+    conds.push(sql`EXISTS (SELECT 1 FROM json_each(${church.services}) WHERE ${kind} AND ${rite})`)
+  }
+  return and(...conds) as SQL
+}
+
+export async function countInViewport(db: Db, f: ViewportFilter): Promise<number> {
+  const rows = await db.select({ n: count() }).from(church).where(viewportWhere(f))
+  return rows[0]?.n ?? 0
+}
+
+export function churchesInViewport(db: Db, f: ViewportFilter): Promise<Church[]> {
+  return db.select().from(church).where(viewportWhere(f))
+}
+
+export type CellCount = {
+  cell: string
+  count: number
+  lat: number
+  lng: number
+  churchId: string
+  churchName: string
+}
+
+// Churches grouped by geohash cell of length `precision`: count + centroid per cell. `churchId` is
+// and `churchName` are only meaningful for a one-church cell (MIN over a single row is that row).
+export function cellCounts(db: Db, f: ViewportFilter, precision: number): Promise<CellCount[]> {
+  const cell = sql<string>`substr(${church.geohash}, 1, ${precision})`
+  return db
+    .select({
+      cell,
+      count: count(),
+      lat: sql<number>`avg(${church.lat})`,
+      lng: sql<number>`avg(${church.lng})`,
+      churchId: sql<string>`min(${church.id})`,
+      churchName: sql<string>`min(${church.name})`,
+    })
+    .from(church)
+    .where(viewportWhere(f))
+    .groupBy(cell)
 }
 
 export async function churchById(db: Db, id: string): Promise<Church | undefined> {

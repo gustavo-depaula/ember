@@ -1,19 +1,24 @@
-import type { Church, ChurchesQuery, NearQuery, Service } from '@ember/api'
+import type { Church, NearQuery, Service } from '@ember/api'
 import type { Db } from '../../db'
 import type { Bbox } from '../../lib/geo'
 import {
   boundingBox,
+  clusterPrecision,
   coveringPrefixes,
-  geohashPrecisionForBbox,
   geohashPrecisionForRadiusKm,
   haversineKm,
   prefixRanges,
+  viewportPrefixes,
 } from '../../lib/geo'
 import {
+  cellCounts,
   churchById,
   churchesByIds,
   churchesInGeohashRanges,
+  churchesInViewport,
   churchIdsMatchingText,
+  countInViewport,
+  type ViewportFilter,
 } from './queries'
 
 export type NearbyChurch = Church & { distanceKm: number; services: Service[] }
@@ -57,47 +62,75 @@ export async function churchDetail(db: Db, id: string): Promise<ChurchDetail | u
   return { ...c, services: c.services ?? [], texts: c.texts ?? [], links: c.links ?? [] }
 }
 
-const inBbox = (c: { lat: number; lng: number }, b: Bbox) =>
-  c.lat >= b.minLat && c.lat <= b.maxLat && c.lng >= b.minLng && c.lng <= b.maxLng
+// A one-church cluster names its church, so the map can show it as that church's pin.
+export type Cluster = {
+  id: string
+  lat: number
+  lng: number
+  count: number
+  church?: { id: string; name: string }
+}
+export type Viewport = { churches: Church[]; clusters: Cluster[] }
 
-// Viewport browse: the same geohash covering-set → indexed prefix scan as `near`, bounded by a box
-// instead of a radius. Covering cells overshoot the box, so refine to true containment, then cap.
-export async function churchesInViewport(
+const byDistanceFrom = (lat: number, lng: number) => (a: Church, b: Church) =>
+  haversineKm(lat, lng, a.lat, a.lng) - haversineKm(lat, lng, b.lat, b.lng)
+
+// Viewport browse at any zoom. When the box holds no more than `limit` churches, all of them come
+// back, nearest the view center first. Past that, the map gets counted clusters covering the whole
+// box and the list gets the `limit` churches nearest the center — read from the clusters closest to
+// it, so a zoomed-out city never returns an arbitrary corner of the index.
+export async function viewport(
   db: Db,
-  q: { bbox: Bbox; status?: string; institute?: string; limit: number },
-): Promise<Church[]> {
-  const ranges = prefixRanges(coveringPrefixes(q.bbox, geohashPrecisionForBbox(q.bbox)))
-  const candidates = await churchesInGeohashRanges(db, ranges, {
-    status: q.status,
-    institute: q.institute,
-  })
-  return candidates.filter((c) => inBbox(c, q.bbox)).slice(0, q.limit)
+  q: {
+    bbox: Bbox
+    kind?: string
+    rite?: string
+    status?: string
+    institute?: string
+    limit: number
+  },
+): Promise<Viewport> {
+  const { bbox, limit } = q
+  const lat = (bbox.minLat + bbox.maxLat) / 2
+  const lng = (bbox.minLng + bbox.maxLng) / 2
+  const filter: ViewportFilter = { ...q, ranges: prefixRanges(viewportPrefixes(bbox)) }
+
+  if ((await countInViewport(db, filter)) <= limit) {
+    const churches = await churchesInViewport(db, filter)
+    return { churches: churches.sort(byDistanceFrom(lat, lng)), clusters: [] }
+  }
+
+  const cells = await cellCounts(db, filter, clusterPrecision(bbox))
+  const clusters = cells.map((c) => ({
+    id: c.cell,
+    lat: c.lat,
+    lng: c.lng,
+    count: c.count,
+    church: c.count === 1 ? { id: c.churchId, name: c.churchName } : undefined,
+  }))
+
+  const nearest: string[] = []
+  let covered = 0
+  for (const c of [...cells].sort(
+    (a, b) => haversineKm(lat, lng, a.lat, a.lng) - haversineKm(lat, lng, b.lat, b.lng),
+  )) {
+    if (covered >= limit || nearest.length >= 32) break
+    nearest.push(c.cell)
+    covered += c.count
+  }
+  const churches = await churchesInViewport(db, { ...filter, ranges: prefixRanges(nearest) })
+  return { churches: churches.sort(byDistanceFrom(lat, lng)).slice(0, limit), clusters }
 }
 
-// Search. `q` → FTS5 (rank-ordered ids → hydrate); else a viewport `bbox` → geohash-indexed scan.
-// Both paths are index-backed; an unbounded list (neither given) has no indexed answer and is
-// rejected by the validator (this returns []). Service-level filters (kind/rite) apply uniformly
-// afterwards — same mechanism as `near`.
-export async function searchChurches(db: Db, query: ChurchesQuery): Promise<Church[]> {
-  let base: Church[]
-  if (query.q) {
-    const ids = await churchIdsMatchingText(db, query.q, {
-      limit: query.limit,
-      offset: query.offset,
-    })
-    const rows = await churchesByIds(db, ids)
-    const order = new Map(ids.map((id, i) => [id, i]))
-    base = rows.sort((a, b) => (order.get(a.id) ?? 0) - (order.get(b.id) ?? 0))
-  } else if (query.bbox) {
-    base = await churchesInViewport(db, {
-      bbox: query.bbox,
-      status: query.status,
-      institute: query.institute,
-      limit: query.limit,
-    })
-  } else {
-    return []
-  }
-  if (!query.kind && !query.rite) return base
-  return base.filter((c) => (c.services ?? []).some((s) => matchesFilter(s, query)))
+// FTS5 name search: rank-ordered ids → hydrated rows, then the same service-level filter as `near`.
+export async function searchChurches(
+  db: Db,
+  query: { q: string; kind?: string; rite?: string; limit: number; offset: number },
+): Promise<Church[]> {
+  const ids = await churchIdsMatchingText(db, query.q, { limit: query.limit, offset: query.offset })
+  const rows = await churchesByIds(db, ids)
+  const order = new Map(ids.map((id, i) => [id, i]))
+  const ranked = rows.sort((a, b) => (order.get(a.id) ?? 0) - (order.get(b.id) ?? 0))
+  if (!query.kind && !query.rite) return ranked
+  return ranked.filter((c) => (c.services ?? []).some((s) => matchesFilter(s, query)))
 }

@@ -4,9 +4,10 @@ import { Hono } from 'hono'
 import type { Env } from '../../app'
 import { createDb } from '../../db'
 import { verificationsForChurch } from './queries'
-import { churchDetail, nearbyChurches, searchChurches } from './service'
+import { churchDetail, nearbyChurches, searchChurches, viewport } from './service'
 
-// Public read routes (cacheable; pure geo — no server-side time computation). '/near' is registered
+// Public read routes (cacheable; pure geo — no server-side time computation). `GET /` answers a
+// name search (`q`) with `{ churches }`, or a map viewport (`bbox`) with `{ churches, clusters }`. '/near' is registered
 // before '/:id' so it isn't swallowed as an id.
 export const churchesRouter = new Hono<{ Bindings: Env }>()
   .get('/near', zValidator('query', nearQuerySchema), async (c) => {
@@ -16,8 +17,10 @@ export const churchesRouter = new Hono<{ Bindings: Env }>()
   })
   .get('/', zValidator('query', churchesQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
-    const churches = await searchChurches(db, c.req.valid('query'))
-    return c.json({ churches })
+    const { q, bbox, ...rest } = c.req.valid('query')
+    // The validator guarantees one of the two.
+    if (q !== undefined) return c.json({ churches: await searchChurches(db, { q, ...rest }) })
+    return c.json(await viewport(db, { bbox: bbox as NonNullable<typeof bbox>, ...rest }))
   })
   .get('/:id/verifications', zValidator('query', verificationsQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
