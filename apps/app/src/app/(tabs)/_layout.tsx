@@ -30,7 +30,7 @@ export default function TabsLayout() {
           the default ("template") would tint these to a flat gold silhouette.
           An original-mode image renders at its logical point size and the bar
           won't scale it down, so each icon ships as a name/@2x/@3x set resampled
-          to ~36pt tall (search ~32pt) from assets/nav-icons/source/. Today and
+          to ~32pt tall (search too) from assets/nav-icons/source/. Today and
           You are icon-only, so the art takes the room the label used to. */}
       <NativeTabs.Trigger name="(today)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
