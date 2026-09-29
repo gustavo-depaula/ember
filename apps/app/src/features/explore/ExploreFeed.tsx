@@ -14,9 +14,8 @@ import { usePrayedOn } from '@/features/plan-of-life'
 import { todayKey, useSaintOfDayBookImage, useSaintOfDayIndex } from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
-import { getLiturgicalSeason, type LiturgicalCalendarForm } from '@/lib/liturgical'
+import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/mass-of/use-gospel-of-the-day'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 import { ArtCarousel } from './ArtCarousel'
 import { ArtCoverCard } from './ArtCoverCard'
 import { artFor } from './artMap'
@@ -50,8 +49,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
-  const season = getLiturgicalSeason(today, form)
+  const season = getLiturgicalSeason(today)
   const saint = useSaintOfDay()
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
@@ -181,8 +179,7 @@ export function DailyMeditations() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
-  const featured = pickFeatured(getLiturgicalSeason(today, form), today)
+  const featured = pickFeatured(getLiturgicalSeason(today), today)
   const prayed = usePrayedOn(format(today, 'yyyy-MM-dd'))
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
@@ -248,8 +245,7 @@ export function ExploreCatalogRows() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
   const today = useToday()
-  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
-  const featured = pickFeatured(getLiturgicalSeason(today, form), today)
+  const featured = pickFeatured(getLiturgicalSeason(today), today)
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
   const devotions = useMemo(

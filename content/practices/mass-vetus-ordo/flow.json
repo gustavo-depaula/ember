@@ -2,8 +2,7 @@
   "sections": [
     {
       "type": "include",
-      "ref": "producer/mass-of",
-      "params": {}
+      "ref": "producer/do-mass"
     }
   ]
 }

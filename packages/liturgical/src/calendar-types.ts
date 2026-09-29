@@ -54,9 +54,8 @@ type LiturgicalCategory =
   | 'liturgical_season'
   | 'other'
 
-// A celebration as surfaced on the display calendar. The OF/EF year builders
-// (`@ember/mass`'s buildOfYearCalendar / the app's buildDoYearCalendar) emit
-// these as `ResolvedCelebration.entry`; only `id`/`name`/`category` are always
+// A celebration as surfaced on the display calendar. `@ember/mass`'s
+// buildOfYearCalendar emits these as `ResolvedCelebration.entry`; only `id`/`name`/`category` are always
 // set, with `description`/`holyDayOfObligation` populated when known.
 
 type LiturgicalEntry = {

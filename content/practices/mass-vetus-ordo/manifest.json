@@ -1,0 +1,45 @@
+{
+  "id": "mass-vetus-ordo",
+  "icon": "cross",
+  "name": {
+    "en-US": "Holy Mass",
+    "pt-BR": "Santa Missa"
+  },
+  "categories": [
+    "liturgical"
+  ],
+  "estimatedMinutes": 60,
+  "description": {
+    "en-US": "The Mass of the 1962 Missale Romanum with the day's propers — follow along in Latin with your language beside it.",
+    "pt-BR": "A Missa do Missale Romanum de 1962 com os próprios do dia — acompanhe em latim com o seu idioma ao lado."
+  },
+  "history": {
+    "en-US": "The Mass is the central act of worship in the Catholic Church, making present the sacrifice of Christ on Calvary. The Roman Rite has developed over two millennia, from the early house liturgies described by St. Justin Martyr to the codified Missale Romanum of Pope St. Pius V (1570) and its subsequent revisions. The Ordinary Form follows the Roman Missal promulgated by Pope St. Paul VI (1970, third typical edition 2002), while the Extraordinary Form preserves the 1962 Missale Romanum.",
+    "pt-BR": "A Missa é o ato central de culto na Igreja Católica, tornando presente o sacrifício de Cristo no Calvário. O Rito Romano desenvolveu-se ao longo de dois milênios, desde as primeiras liturgias domésticas descritas por São Justino Mártir até o Missale Romanum codificado pelo Papa São Pio V (1570) e suas revisões subsequentes. A Forma Ordinária segue o Missal Romano promulgado pelo Papa São Paulo VI (1970, terceira edição típica 2002), enquanto a Forma Extraordinária preserva o Missale Romanum de 1962."
+  },
+  "howToPray": {
+    "en-US": "Use it to follow along at the Traditional Latin Mass. The Ordinary and the propers are assembled for today's liturgical day in the 1962 calendar, in Latin with your language beside each text.",
+    "pt-BR": "Use-a para acompanhar a Missa Tradicional em latim. O Ordinário e os próprios são montados para o dia litúrgico de hoje no calendário de 1962, em latim com o seu idioma ao lado de cada texto."
+  },
+  "flowMode": "scroll",
+  "completion": "flow-end",
+  "flow": "flow.json",
+  "tags": [
+    "mass",
+    "liturgical",
+    "eucharistic",
+    "missal"
+  ],
+  "alternativeTo": {
+    "id": "mass",
+    "label": {
+      "en-US": "Vetus Ordo",
+      "pt-BR": "Vetus Ordo"
+    },
+    "description": {
+      "en-US": "The 1962 Missal of St. John XXIII",
+      "pt-BR": "O Missal de 1962 de São João XXIII"
+    },
+    "order": 1
+  }
+}

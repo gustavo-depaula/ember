@@ -35,7 +35,6 @@ export function usePracticeContent(
   const { cycleData, trackDefs, trackState } = usePracticeTracks(practiceId)
 
   const translation = usePreferencesStore((s) => s.translation)
-  const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const secondaryLanguage = usePreferencesStore((s) => s.secondaryLanguage)
   const numbering = getPsalmNumbering(translation)
@@ -54,7 +53,6 @@ export function usePracticeContent(
       contentLanguage,
       secondaryLanguage ?? null,
       translation,
-      liturgicalCalendar ?? null,
       numbering,
       todayKey,
       clockHour,
@@ -70,7 +68,6 @@ export function usePracticeContent(
         date: now,
         now: new Date(),
         numbering,
-        liturgicalCalendar,
         trackDefs,
         trackState,
         cycleData,

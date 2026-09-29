@@ -8,7 +8,6 @@ import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
 import { defaultTranslationForLanguage } from '@/lib/bolls'
 import i18n from '@/lib/i18n'
-import type { LiturgicalCalendarForm } from '@/lib/liturgical'
 
 type PsalterCycle = '30-day'
 type ThemePreference = 'light' | 'dark' | 'system'
@@ -35,7 +34,6 @@ type PreferencesState = {
   translation: string
   psalterCycle: PsalterCycle
   language: string
-  liturgicalCalendar: LiturgicalCalendarForm
   jurisdiction: string | undefined
   timeTravelDate: string | undefined
   persistedTimeTravelDate: string | undefined
@@ -61,7 +59,6 @@ type PreferencesState = {
   setTranslation: (translation: string) => void
   setPsalterCycle: (cycle: PsalterCycle) => void
   setLanguage: (language: string) => void
-  setLiturgicalCalendar: (form: LiturgicalCalendarForm) => void
   setJurisdiction: (jurisdiction: string | undefined) => void
   setTimeTravelDate: (date: string | undefined) => void
   setTimeTravelDateEphemeral: (date: string | undefined) => void
@@ -89,7 +86,6 @@ export const usePreferencesStore = create<PreferencesState>()(
     translation: 'RSV2CE',
     psalterCycle: '30-day',
     language: 'en-US',
-    liturgicalCalendar: 'of',
     jurisdiction: undefined,
     timeTravelDate: undefined,
     persistedTimeTravelDate: undefined,
@@ -133,13 +129,6 @@ export const usePreferencesStore = create<PreferencesState>()(
       setPreference('language', language)
       if (defaultTranslation) setPreference('translation', defaultTranslation)
       i18n.changeLanguage(language)
-    },
-
-    setLiturgicalCalendar: (form) => {
-      set((state) => {
-        state.liturgicalCalendar = form
-      })
-      setPreference('liturgical-calendar', form)
     },
 
     setJurisdiction: (jurisdiction) => {
@@ -279,8 +268,6 @@ export const usePreferencesStore = create<PreferencesState>()(
         if (prefs.translation) state.translation = prefs.translation
         if (prefs['psalter-cycle'] === '30-day') state.psalterCycle = '30-day'
         if (prefs.language) state.language = prefs.language
-        const cal = prefs['liturgical-calendar']
-        if (cal === 'of' || cal === 'ef') state.liturgicalCalendar = cal
         if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
         if (prefs['time-travel-date']) {
           state.timeTravelDate = prefs['time-travel-date']

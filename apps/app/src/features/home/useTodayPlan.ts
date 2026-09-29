@@ -15,12 +15,7 @@ import {
 } from '@/features/plan-of-life'
 import type { ChecklistItem } from '@/features/plan-of-life/components/PracticeChecklist'
 import { useStableToday, useToday } from '@/hooks/useToday'
-import {
-  getCelebrationsForDate,
-  getLiturgicalSeason,
-  type LiturgicalCalendarForm,
-} from '@/lib/liturgical'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
 
 /**
  * The plan of life as it stands on the day Today shows: the slots due that day
@@ -33,13 +28,7 @@ export function useTodayPlan() {
   const now = useToday()
   const selectedDate = format(now, 'yyyy-MM-dd')
   const anchorDate = format(useStableToday(), 'yyyy-MM-dd')
-  const liturgicalCalendar = usePreferencesStore(
-    (s) => s.liturgicalCalendar,
-  ) as LiturgicalCalendarForm
-  const season = useMemo(
-    () => getLiturgicalSeason(now, liturgicalCalendar),
-    [now, liturgicalCalendar],
-  )
+  const season = useMemo(() => getLiturgicalSeason(now), [now])
 
   const slots = useSlots()
   const completedIds = useCompletedSlots(selectedDate)

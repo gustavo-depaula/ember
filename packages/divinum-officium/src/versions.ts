@@ -40,9 +40,8 @@ export function officeVersion(id: string): string {
   return doVersionNames[id]
 }
 
-// The EF Mass and every EF calendar surface follow the 1962 missal. It is one
-// of the two missals the Mass is differentially verified for (with Divino
-// Afflatu), and one fixed version keeps the Mass and the calendar in step.
+// The Vetus Ordo Mass follows the 1962 missal, one of the two missals the Mass
+// is differentially verified for (with Divino Afflatu).
 export const efVersion = doVersionNames['rubrics-1960']
 
 // App content-language codes → DO data directory names.

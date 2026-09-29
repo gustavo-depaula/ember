@@ -1,4 +1,3 @@
-import { efVersion } from '@ember/divinum-officium'
 import {
   type DayCalendar,
   getCelebrationsForDate,
@@ -10,37 +9,25 @@ import { addDays, differenceInCalendarDays, format } from 'date-fns'
 import { useMemo } from 'react'
 import { useToday } from '@/hooks/useToday'
 import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
-import { createCorpusDoLoader } from '@/sources/divinum-officium/loader'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { buildDoYearCalendar } from './buildDoYearCalendar'
 
-// Both display calendars (home card + month grid) resolve from the same
-// authority the Mass uses, so card and Mass can never disagree: OF via
-// @ember/mass's buildOfYearCalendar (resolveOfDay over the MR statics), EF via
-// buildDoYearCalendar (the Divinum Officium engine's own day resolution —
-// transfers, octaves, vigils, commemorations all match).
+// The display calendar (home card + month grid) resolves from the same
+// authority the Novus Ordo Mass uses — @ember/mass's buildOfYearCalendar,
+// resolveOfDay over the MR statics — so card and Mass can never disagree.
 export function useYearCalendar(year?: number) {
-  const form = usePreferencesStore((s) => s.liturgicalCalendar)
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const today = useToday()
   const resolvedYear = year ?? today.getFullYear()
 
   return useQuery({
-    queryKey: ['calendar', resolvedYear, form, contentLanguage],
+    queryKey: ['calendar', resolvedYear, contentLanguage],
     queryFn: async () => {
-      if (form === 'of') {
-        const statics = await loadOfCalendar()
-        if (!statics) return new Map<string, DayCalendar>()
-        return buildOfYearCalendar({
-          year: resolvedYear,
-          statics,
-          scope: scopeForContentLang(contentLanguage),
-        })
-      }
-      return buildDoYearCalendar({
+      const statics = await loadOfCalendar()
+      if (!statics) return new Map<string, DayCalendar>()
+      return buildOfYearCalendar({
         year: resolvedYear,
-        loader: createCorpusDoLoader(),
-        version: efVersion,
+        statics,
+        scope: scopeForContentLang(contentLanguage),
       })
     },
     staleTime: Number.POSITIVE_INFINITY,

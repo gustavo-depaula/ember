@@ -30,6 +30,18 @@
     "eucharistic",
     "missal"
   ],
+  "alternativeTo": {
+    "id": "mass",
+    "label": {
+      "en-US": "Novus Ordo",
+      "pt-BR": "Novus Ordo"
+    },
+    "description": {
+      "en-US": "The Roman Missal of St. Paul VI",
+      "pt-BR": "O Missal Romano de São Paulo VI"
+    },
+    "order": 0
+  },
   "defaults": {
     "sortOrder": 3,
     "slots": [

@@ -8,12 +8,7 @@ import type { AppEvent, StoredEvent } from '@/db/events/types'
 import { getDb } from '@/db/instance'
 import { useYearCalendar } from '@/features/calendar'
 import { useToday } from '@/hooks/useToday'
-import {
-  getCelebrationsForDate,
-  getLiturgicalSeason,
-  type LiturgicalCalendarForm,
-} from '@/lib/liturgical'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { getCelebrationsForDate, getLiturgicalSeason } from '@/lib/liturgical'
 
 import { practiceRecord, recordWall, ruleTimeline } from './record'
 
@@ -36,7 +31,6 @@ const ruleEventTypes = [
 export function useRuleRecord(practiceId: string, wallDays: number) {
   const today = useToday()
   const todayKey = format(today, 'yyyy-MM-dd')
-  const form = usePreferencesStore((s) => s.liturgicalCalendar) as LiturgicalCalendarForm
   const { data: thisYear } = useYearCalendar(today.getFullYear())
   const { data: lastYear } = useYearCalendar(today.getFullYear() - 1)
 
@@ -73,11 +67,11 @@ export function useRuleRecord(practiceId: string, wallDays: number) {
     const contextFor = (date: Date) => {
       const year = date.getFullYear() === today.getFullYear() ? thisYear : lastYear
       return {
-        season: getLiturgicalSeason(date, form),
+        season: getLiturgicalSeason(date),
         dayCalendar: year ? getCelebrationsForDate(year, date) : undefined,
       }
     }
     const args = { timeline, completions, today: todayKey, contextFor }
     return { ...practiceRecord(args), wall: recordWall({ ...args, days: wallDays }) }
-  }, [events, practiceId, completions, todayKey, today, thisYear, lastYear, form, wallDays])
+  }, [events, practiceId, completions, todayKey, today, thisYear, lastYear, wallDays])
 }

@@ -32,8 +32,6 @@ const themeOptions = [
 export default function SettingsScreen() {
   const { t } = useTranslation()
   const translation = usePreferencesStore((s) => s.translation)
-  const liturgicalCalendar = usePreferencesStore((s) => s.liturgicalCalendar)
-  const setLiturgicalCalendar = usePreferencesStore((s) => s.setLiturgicalCalendar)
   const jurisdiction = usePreferencesStore((s) => s.jurisdiction)
   const setJurisdiction = usePreferencesStore((s) => s.setJurisdiction)
   const timeTravelDate = usePreferencesStore((s) => s.timeTravelDate)
@@ -109,16 +107,6 @@ export default function SettingsScreen() {
           <Text fontFamily="$heading" fontSize="$3" color="$color">
             {t('settings.calendarSection')}
           </Text>
-          <PillSelector
-            label={t('settings.liturgicalCalendar')}
-            options={[
-              { value: 'of' as const, label: t('settings.calendarOF') },
-              { value: 'ef' as const, label: t('settings.calendarEF') },
-            ]}
-            value={liturgicalCalendar}
-            onChange={setLiturgicalCalendar}
-          />
-
           <PillSelector
             label={t('settings.jurisdiction')}
             options={[
