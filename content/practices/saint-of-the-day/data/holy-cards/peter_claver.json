@@ -1,0 +1,40 @@
+{
+  "id": "peter_claver",
+  "feast": {
+    "month": 9,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Peter Claver",
+    "pt-BR": "São Pedro Claver"
+  },
+  "patronOf": {
+    "en-US": "Slave of the slaves",
+    "pt-BR": "Escravo dos escravos"
+  },
+  "prayerExcerpt": {
+    "en-US": "We may love our neighbor in deeds and in truth.",
+    "pt-BR": "Amemos o próximo por obras e na verdade."
+  },
+  "meta": {
+    "face": "Peter Claver (left): a lean man of about fifty with a TRIANGULAR face — a broad forehead and temples tapering past hollow cheeks to a narrow, pointed chin; a long, prominent aquiline nose, deep-set dark eyes under thin, straight dark brows, a thin-lipped, gentle mouth; clean-shaven, short black hair receding at the temples, eyes lowered to the man with compassion. The African man (right): about twenty-five, with deep dark-brown skin and a smooth OVAL face — high, rounded cheekbones, a broad, flat-bridged nose, large dark eyes under full brows, full lips set in a calm, grave expression, a firm chin; short, tightly curled black hair, clean-shaven, and a steady, self-possessed gaze toward the priest.",
+    "basis": "The seventeenth-century Cartagena portrait type (Wikipedia lead image) shows a gaunt, clean-shaven Jesuit; his ministry was meeting the slave ships with water, food and medicine, most of the captives from Angola and West Africa. The companion is drawn upright and equal, not kneeling.",
+    "excerpt": "content/of/formularies/sanctoral/09-09.json collect, petition clause (capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter Claver (portrait, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Peter_Claver"
+      },
+      {
+        "title": "Catholic Encyclopedia (1908), St. Peter Claver",
+        "url": "https://www.newadvent.org/cathen/11763b.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

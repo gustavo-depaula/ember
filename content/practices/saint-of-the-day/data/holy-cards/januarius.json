@@ -1,0 +1,40 @@
+{
+  "id": "januarius",
+  "feast": {
+    "month": 9,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Januarius",
+    "pt-BR": "São Januário"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whoever loses his life for my sake, will find it in eternity, says the Lord.",
+    "pt-BR": "Quem perde a sua vida por causa de mim vai encontrá-la, diz o Senhor."
+  },
+  "meta": {
+    "face": "A man of about forty with an ANGULAR face — a square forehead, prominent, sharply cut cheekbones, a straight Roman nose, dark, intense eyes under straight dark brows, a firm mouth and a strong jaw with a small cleft chin; olive southern-Italian skin, short dark hair curling under the mitre, clean-shaven, and a calm, resolute gaze lifted slightly upward.",
+    "basis": "No likeness survives; the Neapolitan painting type (the Wikipedia lead image, consulted) shows a dark-haired, clean-shaven bishop in his prime with the ampoules of the blood and Vesuvius, which he is invoked against.",
+    "excerpt": "content/of/formularies/common/martyrs/mart6.json communionAntiphon (Common of Martyrs, one martyr)",
+    "sources": [
+      {
+        "title": "Wikipedia, Januarius (lead painting, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Januarius"
+      },
+      {
+        "title": "New Liturgical Movement, Reliquary busts of the chapel of St Januarius in Naples",
+        "url": "https://www.newliturgicalmovement.org/2024/05/reliquary-busts-of-chapel-of-st.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

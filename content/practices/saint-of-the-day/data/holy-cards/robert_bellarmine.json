@@ -1,0 +1,40 @@
+{
+  "id": "robert_bellarmine",
+  "feast": {
+    "month": 9,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Robert Bellarmine",
+    "pt-BR": "São Roberto Belarmino"
+  },
+  "patronOf": {
+    "en-US": "Bishop and Doctor of the Church",
+    "pt-BR": "Bispo e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the integrity of that same faith your people may always find joy.",
+    "pt-BR": "Que o vosso povo sempre se alegre em conservá-la integralmente."
+  },
+  "meta": {
+    "face": "A small, lean man of about seventy with a LONG, RECTANGULAR face — a broad, high forehead, a long, straight, prominent nose, deep-set dark eyes with heavy lids under arched grey brows, sunken cheeks under strong cheekbones and a narrow jaw; grey hair at the temples under the biretta, a trimmed grey moustache and a short, pointed grey goatee, and a mild, penetrating gaze toward the viewer.",
+    "basis": "The contemporary portrait at the Plantin-Moretus Museum (Wikipedia lead, consulted): a long face, prominent nose, heavy-lidded eyes, grey moustache and pointed goatee, in cardinal's red. Hobbes, who saw him in 1614, called him 'a little lean old man'.",
+    "excerpt": "content/of/formularies/sanctoral/09-17.json collect, petition clause (capitalised; pt-BR 'conservá-la' is the Catholic faith)",
+    "sources": [
+      {
+        "title": "Wikipedia, Robert Bellarmine (Plantin-Moretus portrait, consulted; Hobbes's description)",
+        "url": "https://en.wikipedia.org/wiki/Robert_Bellarmine"
+      },
+      {
+        "title": "Catholic Encyclopedia (1907), St. Robert Francis Romulus Bellarmine",
+        "url": "https://www.newadvent.org/cathen/02411d.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

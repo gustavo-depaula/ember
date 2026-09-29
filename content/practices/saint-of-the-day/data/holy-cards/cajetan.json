@@ -1,0 +1,44 @@
+{
+  "id": "cajetan",
+  "feast": {
+    "month": 8,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Cajetan",
+    "pt-BR": "São Caetano"
+  },
+  "patronOf": {
+    "en-US": "Patron of bread and work",
+    "pt-BR": "Padroeiro do pão e do trabalho"
+  },
+  "prayerExcerpt": {
+    "en-US": "Seek first the kingdom of God, and his righteousness.",
+    "pt-BR": "Buscai primeiro o Reino de Deus e a sua justiça."
+  },
+  "meta": {
+    "face": "A man of about fifty with a ROUND face and soft, full cheeks — a short, straight nose with a rounded tip, large, beautiful dark-brown eyes under gently arched dark brows, low, soft cheekbones, a small, sweet, full-lipped mouth and a rounded chin; short dark-brown hair thinning at the crown, a short, close, rounded dark beard threaded with grey, and his gaze lowered to the Child with a tender smile.",
+    "basis": "No portrait from life survives; Erasmo Danese's description (medium height, round face, beautiful eyes, a mouth full of sweetness) gives the face, and the standard iconography, from his letter about Christmas 1517 at Santa Maria Maggiore, gives the Child touching his beard.",
+    "excerpt": "content/of/formularies/common/saints/sanct5.json communionAntiphon, first clause (Common of Holy Men, for one saint; Cajetan has no proper formulary in the repo). en-US verbatim; pt-BR is our faithful rendering, the Common has no Portuguese",
+    "sources": [
+      {
+        "title": "About Art Online, L'iconografia di San Gaetano Thiene nell'arte (Danese's description; the Child and the beard)",
+        "url": "https://www.aboutartonline.com/liconografia-di-san-gaetano-thiene-nellarte-convegno-dedicato-ai-500-anni-della-fondazione-dellordine-teatino/"
+      },
+      {
+        "title": "Francesco Solimena, St. Cajetan (Wikimedia Commons, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Cajetan"
+      },
+      {
+        "title": "Wikipedia, Gaetano Thiene (it)",
+        "url": "https://it.wikipedia.org/wiki/Gaetano_Thiene"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

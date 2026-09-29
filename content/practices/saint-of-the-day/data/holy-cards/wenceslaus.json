@@ -1,0 +1,40 @@
+{
+  "id": "wenceslaus",
+  "feast": {
+    "month": 9,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Wenceslaus",
+    "pt-BR": "São Venceslau"
+  },
+  "patronOf": {
+    "en-US": "Patron of Bohemia",
+    "pt-BR": "Padroeiro da Boêmia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Denying ourselves, we may hold fast to you with all our heart.",
+    "pt-BR": "Renunciando a nós mesmos, possamos nos unir a vós de todo o coração."
+  },
+  "meta": {
+    "face": "A man of about twenty-eight with a BROAD Slavic face, widest at the high, flat cheekbones and narrowing to a short, firm chin — a short, straight nose, light grey eyes set wide under level, fair-brown brows, a well-shaped mouth; straight chestnut hair cut level just below the ears (not long), a neat moustache and a short, small forked chestnut beard, and a clear, candid gaze toward the viewer; not Christ-like.",
+    "basis": "The fourteenth-century statue in his chapel in St. Vitus, attributed to Peter Parler (consulted), shows him young in armour with a moustache, a short forked beard and hair to the jaw, holding a lance and the eagle shield; he died about 935, aged under thirty.",
+    "excerpt": "content/of/formularies/sanctoral/09-28.json collect, petition clause (opening 'that,' dropped; capitalised)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Wenzeslaus by Peter Parler (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Wenzeslaus_by_Peter_Parler.JPG"
+      },
+      {
+        "title": "Wikipedia, Wenceslaus I, Duke of Bohemia",
+        "url": "https://en.wikipedia.org/wiki/Wenceslaus_I,_Duke_of_Bohemia"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

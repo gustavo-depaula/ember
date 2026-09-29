@@ -1,0 +1,40 @@
+{
+  "id": "lawrence_ruiz",
+  "feast": {
+    "month": 9,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Lawrence Ruiz and Companions",
+    "pt-BR": "São Lourenço Ruiz e companheiros"
+  },
+  "patronOf": {
+    "en-US": "Protomartyr of the Philippines",
+    "pt-BR": "Protomártir das Filipinas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Everyone who acknowledges me before others I will acknowledge before my heavenly Father, says the Lord.",
+    "pt-BR": "Todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus, diz o Senhor."
+  },
+  "meta": {
+    "face": "A Filipino-Chinese man of about forty with warm golden-tan skin and a ROUND-SQUARE face — wide, flat cheekbones, a broad, low-bridged nose, dark almond eyes with a slight epicanthic fold under thick, straight black brows, a gentle full mouth and a rounded jaw; short straight black hair combed to the side, clean-shaven, and a quiet, steadfast gaze lifted slightly upward.",
+    "basis": "Born in Binondo about 1594 to a Chinese father and a Tagalog mother, a husband, father and escribano of the Dominican rosary confraternity; the Philippine image type shows him clean-shaven in a white camisa de chino with the rosary in clasped hands and the palm.",
+    "excerpt": "content/of/formularies/common/martyrs/mart11.json communionAntiphon (Common of several missionary martyrs; paschal alleluia dropped; pt-BR lines joined). He has no proper formulary in the repo",
+    "sources": [
+      {
+        "title": "Wikipedia, Lorenzo Ruiz (attributes; Cubao Cathedral image, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Lorenzo_Ruiz"
+      },
+      {
+        "title": "UCA News, St. Lorenzo Ruiz, Filipino layman who became a martyr in Japan",
+        "url": "https://www.ucanews.com/directory/saint/lorenzo-ruiz-filipino-layman-who-became-a-martyr-in-japan/15"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cosmas_damian",
+  "feast": {
+    "month": 9,
+    "day": 26
+  },
+  "name": {
+    "en-US": "Sts. Cosmas and Damian",
+    "pt-BR": "Santos Cosme e Damião"
+  },
+  "patronOf": {
+    "en-US": "Patrons of physicians",
+    "pt-BR": "Padroeiros dos médicos"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Saints of God persevered in loving brotherhood, for there was always one spirit in them, and one faith.",
+    "pt-BR": "Os santos de Deus perseveraram no amor fraterno porque permaneceram unidos num só espírito e numa só fé."
+  },
+  "meta": {
+    "face": "Twin Syrian-Arab brothers of about thirty with warm olive-brown skin and the same dark almond eyes and gently aquiline nose, yet distinguishable. Cosmas (left): a broader, SQUARE-JAWED face with full cheeks and a wide mouth, heavier straight brows, short tightly waved black hair, and a short, sparse black beard along the jaw; he looks at the viewer. Damian (right): a narrower, HEART-SHAPED face — wide at the cheekbones, tapering to a small pointed chin — with finer arched brows, a smaller mouth, black hair a little longer and wavy to the ears, only a faint moustache and a wisp of beard at the chin; he looks toward his brother.",
+    "basis": "The Painter's Manual gives the Anargyroi 'of Arabia' as dark, with little beard; the feast of 26 September keeps these Arabian twins of Cyrrhus. Brazilian devotion shows them young in red and green with palms and a box of medicine, the Western tradition with a flask and an ointment jar.",
+    "excerpt": "content/of/formularies/common/martyrs/mart4.json entranceAntiphon, second option (opening 'Because of the Lord's covenant and the ancestral laws,' dropped; capitalised)",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), Les saints Anargyres, p. 330",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikipedia, Saints Cosmas and Damian (Bourdichon miniature, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Saints_Cosmas_and_Damian"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "louis_france",
+  "feast": {
+    "month": 8,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Louis of France",
+    "pt-BR": "São Luís de França"
+  },
+  "patronOf": {
+    "en-US": "King of France",
+    "pt-BR": "Rei de França"
+  },
+  "prayerExcerpt": {
+    "en-US": "By fulfilling our duties on earth, we may seek out your eternal Kingdom.",
+    "pt-BR": "Desempenhando as nossas tarefas temporais, busquemos o vosso reino eterno."
+  },
+  "meta": {
+    "face": "A tall, slender man of about forty with a LONG, NARROW oval face — a high, smooth forehead, a fine, straight, slender nose, wide-set light-blue eyes under pale, level brows, slightly hollow cheeks under fine cheekbones, a small gentle mouth and a long, narrow chin; clean-shaven, straight ash-blond hair with the first grey, cut level at the jaw under the crown, and a serene, gracious gaze lowered to the relic.",
+    "basis": "Salimbene, who saw him in 1248, called him slender and tall with an angelic face; the thirteenth-century images (the Wikipedia lead miniature, consulted) show him beardless with fair hair to the jaw. Made about forty, long-faced and greying, to keep him apart from the youthful blond Martin and George.",
+    "excerpt": "content/of/formularies/sanctoral/08-25.json collect, petition clause (opening 'that,' dropped; capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Louis IX of France",
+        "url": "https://en.wikipedia.org/wiki/Louis_IX_of_France"
+      },
+      {
+        "title": "Wikipedia, Salimbene di Adam",
+        "url": "https://en.wikipedia.org/wiki/Salimbene_di_Adam"
+      },
+      {
+        "title": "Louvre, Portrait du roi Louis IX",
+        "url": "https://collections.louvre.fr/en/ark:/53355/cl010055687"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}

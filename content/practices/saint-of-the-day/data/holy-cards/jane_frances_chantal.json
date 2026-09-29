@@ -1,0 +1,40 @@
+{
+  "id": "jane_frances_chantal",
+  "feast": {
+    "month": 8,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Jane Frances de Chantal",
+    "pt-BR": "Santa Joana Francisca de Chantal"
+  },
+  "patronOf": {
+    "en-US": "Foundress of the Visitation",
+    "pt-BR": "Fundadora da Visitação"
+  },
+  "prayerExcerpt": {
+    "en-US": "Walking faithfully in our vocation, we may constantly be examples of shining light.",
+    "pt-BR": "Vivendo fielmente a nossa vocação, a vossa luz resplandeça em nossas obras."
+  },
+  "meta": {
+    "face": "A MATRONLY woman of about sixty, a widow and foundress, with a BROAD, SQUARE face, full in the jaw — a long, straight, strong nose, wide-set clear grey-blue eyes with slightly heavy lids under straight, level brows, broad, flat cheekbones, a wide mouth with thin, closed lips and a faint, knowing smile, and a firm, squared chin; fair skin with visible fine lines at the eyes and mouth, hair hidden by the veil; a steady, direct, authoritative and kindly gaze straight at the viewer (NOT upturned, not girlish or delicate).",
+    "basis": "The seventeenth-century portrait type of the Visitation (the Wikipedia lead image): a broad oval face in the white guimpe, grey-blue eyes, long straight nose, thin smiling lips and the silver profession cross. The IHS heart recalls her carving the name of Jesus over her heart.",
+    "excerpt": "content/of/formularies/sanctoral/08-12.json collect, petition clause (opening 'that,' dropped; capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Jane Frances de Chantal (lead portrait, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Jane_Frances_de_Chantal"
+      },
+      {
+        "title": "Catholic Encyclopedia (1910), St. Jane Frances de Chantal",
+        "url": "https://www.newadvent.org/cathen/08286a.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "regenerated: first draft copied Margaret Mary's young face and flaming heart (with IHS lettering); now a matronly square-faced foundress holding the Rule, refs without margaret_mary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "stephen_hungary",
+  "feast": {
+    "month": 8,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Stephen of Hungary",
+    "pt-BR": "Santo Estêvão da Hungria"
+  },
+  "patronOf": {
+    "en-US": "King of Hungary",
+    "pt-BR": "Rei da Hungria"
+  },
+  "prayerExcerpt": {
+    "en-US": "Saint Stephen of Hungary, who fostered her growth while a king on earth",
+    "pt-BR": "Um valoroso propagador do Evangelho, quando reinava na terra"
+  },
+  "meta": {
+    "face": "A man of about sixty with a SQUARE, heavy-boned face — a wide, low forehead, flat, broad cheekbones, a strong straight nose with a high bridge, deep-set grey eyes under heavy, straight brows, a wide mouth under a drooping moustache and a broad jaw; shoulder-length straight light-brown hair streaked with grey under the crown, a long, full, grey-streaked beard cut square at the bottom, and a grave, resolute gaze to one side.",
+    "basis": "The coronation mantle he and Gisela gave in 1031 shows him crowned with lance and orb; the Hungarian tradition that followed (the double cross, the Holy Crown, a mature bearded king) gives the rest. The square face and beard are chosen to keep him apart from Louis and Wenceslaus.",
+    "excerpt": "content/of/formularies/sanctoral/08-16.json collect, middle phrase in each language (pt-BR capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Stephen I of Hungary (Coronation-mantle detail, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Stephen_I_of_Hungary"
+      },
+      {
+        "title": "Kultura.hu, St. Stephen's coronation mantle",
+        "url": "https://kultura.hu/en/st-stephens-coronation-mantle/"
+      },
+      {
+        "title": "Daily News Hungary, 1000-year-old authentic image of Saint Stephen",
+        "url": "https://dailynewshungary.com/1000-year-old-authentic-image-saint-stephen/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-8.md."
+      }
+    ]
+  }
+}
