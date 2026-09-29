@@ -1,5 +1,6 @@
 import { addDays, differenceInCalendarDays } from 'date-fns'
 
+import { getOfLiturgicalPosition } from './of-position'
 import {
   computeEaster,
   dateBefore,
@@ -155,6 +156,24 @@ export function getLiturgicalDayName(
     if (dateOnOrAfter(d, pentecost)) {
       return t('home.liturgicalDay.pentecostWeek', { day: dayName(t, `${dow}`) })
     }
+  }
+
+  // The OF numbers Ordinary Time from the position the Mass readings follow:
+  // after Pentecost it counts back from Christ the King (week 34), so it can't
+  // be reckoned forward from the weeks before Lent.
+  const position = form === 'of' ? getOfLiturgicalPosition(d) : undefined
+  if (position?.season === 'ordinary') {
+    const { week, dayOfWeek } = position
+    const ordinal = t(`ordinal.${week}`)
+    const ordinalFem = t(`ordinalFem.${week}`, { defaultValue: ordinal })
+    const season = t('home.liturgicalDay.seasons.ordinaryTime')
+    if (dayOfWeek === 0) return t('home.liturgicalDay.sundayOf', { ordinal, season })
+    return t('home.liturgicalDay.weekdayOf', {
+      day: dayName(t, `${dayOfWeek}`),
+      ordinal,
+      ordinalFem,
+      season,
+    })
   }
 
   const baptismNext = addDays(baptism, 1)
