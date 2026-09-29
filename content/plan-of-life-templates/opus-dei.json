@@ -29,16 +29,6 @@
       }
     },
     {
-      "ref": "prayer-pope-bishop",
-      "tier": "ideal",
-      "schedule": { "type": "daily" },
-      "time": "06:35",
-      "note": {
-        "en-US": "An Our Father, Hail Mary and Glory Be for the Holy Father's intentions, and the same for the bishop — fixed here so that the standing condition for a plenary indulgence is met before the day has a chance to crowd it out.",
-        "pt-BR": "Um Pai-Nosso, uma Ave-Maria e um Glória pelas intenções do Santo Padre, e o mesmo pelo bispo — fixado aqui para que a condição permanente da indulgência plenária esteja cumprida antes que o dia tenha ocasião de a atropelar."
-      }
-    },
-    {
       "ref": "mass",
       "tier": "essential",
       "schedule": { "type": "daily" },
@@ -89,43 +79,13 @@
       }
     },
     {
-      "ref": "opus-dei-meditation",
-      "tier": "ideal",
-      "schedule": { "type": "daily" },
-      "time": "07:30",
-      "note": {
-        "en-US": "The day's points for prayer, drawn from the liturgy — not a substitute for the two half-hours but the raw material many bring into them.",
-        "pt-BR": "Os pontos de oração do dia, tirados da liturgia — não um substituto das duas meias-horas, mas a matéria-prima que muitos levam para elas."
-      }
-    },
-    {
       "ref": "angelus",
-      "tier": "ideal",
+      "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "12:00",
       "note": {
         "en-US": "A pause at midday to recall the Incarnation, breaking the morning's work to remember whose child you are and for whom you labor.",
         "pt-BR": "Uma pausa ao meio-dia para recordar a Encarnação, interrompendo o trabalho da manhã para lembrar de quem você é filho e por quem trabalha."
-      }
-    },
-    {
-      "ref": "particular-examination",
-      "tier": "essential",
-      "schedule": { "type": "daily" },
-      "time": "13:00",
-      "note": {
-        "en-US": "Two or three minutes at midday on one single point, settled with your director and kept for weeks — the norm that produces measurable change, as opposed to vague good intent.",
-        "pt-BR": "Dois ou três minutos ao meio-dia sobre um único ponto, assentado com o seu diretor e mantido por semanas — a norma que produz mudança mensurável, ao contrário do bom propósito vago."
-      }
-    },
-    {
-      "ref": "spiritual-communion-opus-dei",
-      "tier": "ideal",
-      "schedule": { "type": "daily" },
-      "time": "16:00",
-      "note": {
-        "en-US": "One sentence, made many times a day — the desire to receive Him with Our Lady's purity, humility and love, keeping the morning's Communion at work through the afternoon.",
-        "pt-BR": "Uma só frase, feita muitas vezes ao dia — o desejo de recebê-Lo com a pureza, a humildade e o amor de Nossa Senhora, mantendo a Comunhão da manhã a trabalhar pela tarde adiante."
       }
     },
     {
@@ -140,7 +100,7 @@
     },
     {
       "ref": "visit-blessed-sacrament",
-      "tier": "ideal",
+      "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "13:30",
       "note": {
@@ -180,117 +140,12 @@
     },
     {
       "ref": "three-hail-marys-opus-dei",
-      "tier": "ideal",
+      "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "22:30",
       "note": {
         "en-US": "Three Hail Marys before sleep, asking Our Lady for the gift of holy purity to guard the day just ended and the one to come.",
         "pt-BR": "Três Ave-Marias antes de dormir, pedindo a Nossa Senhora o dom da santa pureza para guardar o dia que termina e o que há de vir."
-      }
-    },
-    {
-      "placeholder": true,
-      "name": {
-        "en-US": "Circle of formation",
-        "pt-BR": "Círculo de formação"
-      },
-      "tier": "essential",
-      "cadence": {
-        "en-US": "Weekly",
-        "pt-BR": "Semanal"
-      },
-      "icon": "book",
-      "note": {
-        "en-US": "The weekly formation meeting — a short meditation, points of Christian and doctrinal formation, and a brief examination — that keeps the plan of life from drifting and feeds it with sound teaching.",
-        "pt-BR": "A reunião semanal de formação — uma breve meditação, pontos de formação cristã e doutrinal e um exame breve — que impede o plano de vida de se desviar e o nutre com doutrina sólida."
-      }
-    },
-    {
-      "ref": "saturday-mary",
-      "tier": "ideal",
-      "schedule": { "type": "days-of-week", "days": [6] },
-      "time": "09:00",
-      "note": {
-        "en-US": "The Saturday devotion to Our Lady — a Memorare, a Salve Regina, or another Marian prayer, marking her day within the week.",
-        "pt-BR": "A devoção sabatina a Nossa Senhora — uma Memorare, uma Salve Rainha ou outra oração mariana, assinalando o dia dela dentro da semana."
-      }
-    },
-    {
-      "ref": "friday-mortification",
-      "tier": "ideal",
-      "schedule": { "type": "days-of-week", "days": [5] },
-      "time": "15:00",
-      "note": {
-        "en-US": "A penance offered each Friday in memory of the Passion — small, hidden, and concrete, so that love is proven in the body and not only intended.",
-        "pt-BR": "Uma penitência oferecida em cada sexta-feira em memória da Paixão — pequena, oculta e concreta, para que o amor se prove no corpo e não fique apenas na intenção."
-      }
-    },
-    {
-      "placeholder": true,
-      "name": {
-        "en-US": "Day of recollection",
-        "pt-BR": "Dia de recolhimento"
-      },
-      "tier": "essential",
-      "cadence": {
-        "en-US": "Monthly",
-        "pt-BR": "Mensal"
-      },
-      "icon": "candle",
-      "note": {
-        "en-US": "A half-day of silence each month — meditation, spiritual reading, and the Blessed Sacrament — to take stock of the soul before God and begin again.",
-        "pt-BR": "Uma manhã ou tarde de silêncio a cada mês — meditação, leitura espiritual e o Santíssimo Sacramento — para examinar a alma diante de Deus e recomeçar."
-      }
-    },
-    {
-      "placeholder": true,
-      "name": {
-        "en-US": "Chat with your director",
-        "pt-BR": "Conversa com o diretor espiritual"
-      },
-      "tier": "essential",
-      "cadence": {
-        "en-US": "Monthly",
-        "pt-BR": "Mensal"
-      },
-      "icon": "prayer",
-      "note": {
-        "en-US": "The monthly conversation in which the point of the particular examination is set, the norms that keep slipping are named, and the rule is adjusted to your actual state and duties.",
-        "pt-BR": "A conversa mensal em que se fixa o ponto do exame particular, se nomeiam as normas que continuam a cair e se ajusta a regra ao seu estado e aos seus deveres reais."
-      }
-    },
-    {
-      "placeholder": true,
-      "name": {
-        "en-US": "Annual retreat",
-        "pt-BR": "Retiro anual"
-      },
-      "tier": "essential",
-      "cadence": {
-        "en-US": "Yearly",
-        "pt-BR": "Anual"
-      },
-      "icon": "candle",
-      "note": {
-        "en-US": "Several days of silence each year, closing with the renewal of one's plan of life before a spiritual director — the rule re-chosen, not merely inherited.",
-        "pt-BR": "Alguns dias de silêncio a cada ano, encerrando com a renovação do plano de vida diante de um diretor espiritual — a regra reescolhida, não apenas herdada."
-      }
-    },
-    {
-      "placeholder": true,
-      "name": {
-        "en-US": "Annual course",
-        "pt-BR": "Curso anual"
-      },
-      "tier": "ideal",
-      "cadence": {
-        "en-US": "Yearly",
-        "pt-BR": "Anual"
-      },
-      "icon": "book",
-      "note": {
-        "en-US": "Some days of formation and rest taken together each year — doctrine, ascetical formation and genuine leisure, on the conviction that a soul is not formed by effort alone.",
-        "pt-BR": "Alguns dias de formação e descanso tomados em conjunto a cada ano — doutrina, formação ascética e verdadeiro repouso, na convicção de que uma alma não se forma só à custa de esforço."
       }
     }
   ],
