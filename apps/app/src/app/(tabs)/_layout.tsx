@@ -30,13 +30,14 @@ export default function TabsLayout() {
           the default ("template") would tint these to a flat gold silhouette.
           An original-mode image renders at its logical point size and the bar
           won't scale it down, so each icon ships as a name/@2x/@3x set resampled
-          to ~28pt tall (search ~32pt) from assets/nav-icons/source/. */}
+          to ~36pt tall (search ~32pt) from assets/nav-icons/source/. Today and
+          You are icon-only, so the art takes the room the label used to. */}
       <NativeTabs.Trigger name="(today)" disableAutomaticContentInsets>
         <NativeTabs.Trigger.Icon
           src={require('../../../assets/nav-icons/today.png')}
           renderingMode="original"
         />
-        <NativeTabs.Trigger.Label>{t('nav.today')}</NativeTabs.Trigger.Label>
+        <NativeTabs.Trigger.Label hidden />
       </NativeTabs.Trigger>
 
       <NativeTabs.Trigger name="(you)" disableAutomaticContentInsets>
@@ -44,7 +45,7 @@ export default function TabsLayout() {
           src={require('../../../assets/nav-icons/you.png')}
           renderingMode="original"
         />
-        <NativeTabs.Trigger.Label>{t('nav.you')}</NativeTabs.Trigger.Label>
+        <NativeTabs.Trigger.Label hidden />
       </NativeTabs.Trigger>
 
       {/* role="search" keeps the circular expand-into-search-field affordance;
