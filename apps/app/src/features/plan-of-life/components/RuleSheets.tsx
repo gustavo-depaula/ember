@@ -91,17 +91,17 @@ function Stamp({
       aria-checked={selected}
     >
       <YStack
-        minWidth={40}
-        minHeight={40}
-        paddingHorizontal={10}
+        minWidth={44}
+        minHeight={44}
+        paddingHorizontal={12}
         alignItems="center"
         justifyContent="center"
         borderRadius={1}
         backgroundColor={selected ? '$color' : 'transparent'}
       >
         <Typography
-          fontSize={18}
-          lineHeight={24}
+          fontSize={21}
+          lineHeight={28}
           color={selected ? '$background' : '$colorSecondary'}
           textDecorationLine={struck && !selected ? 'line-through' : 'none'}
           opacity={struck && !selected ? 0.5 : 1}
@@ -136,7 +136,7 @@ function SheetAction({
       aria-disabled={disabled}
       style={{ minHeight: 44, alignItems: 'center', justifyContent: 'center' }}
     >
-      <Typography fontSize={19} color="$colorBurgundy" opacity={disabled ? 0.4 : 1}>
+      <Typography fontSize={21} color="$colorBurgundy" opacity={disabled ? 0.4 : 1}>
         {label}
       </Typography>
     </Pressable>
@@ -280,8 +280,8 @@ export function WhenSheet({
           ) : null}
           {hint ? (
             <Typography
-              fontSize={15}
-              lineHeight={20}
+              fontSize={17}
+              lineHeight={23}
               color="$colorSecondary"
               textAlign="center"
               paddingTop="$sm"
@@ -316,8 +316,8 @@ export function WhenSheet({
               </XStack>
               {valid ? (
                 <Typography
-                  fontSize={15}
-                  lineHeight={20}
+                  fontSize={17}
+                  lineHeight={23}
                   color="$colorSecondary"
                   textAlign="center"
                 >
@@ -390,7 +390,7 @@ function TimeFace({
           {phrasing(i18n.language).clock(value)}
         </Typography>
         {turning ? null : (
-          <Typography fontSize={15} lineHeight={20} color="$colorSecondary">
+          <Typography fontSize={17} lineHeight={23} color="$colorSecondary">
             {t('rule.tapToChange')}
           </Typography>
         )}
@@ -483,21 +483,21 @@ export function ChoiceSheet<K extends string>({
             >
               <YStack
                 paddingHorizontal={8}
-                paddingVertical={7}
+                paddingVertical={10}
                 borderRadius={1}
                 backgroundColor={isSelected ? '$color' : 'transparent'}
               >
                 <Typography
-                  fontSize={17}
-                  lineHeight={22}
+                  fontSize={21}
+                  lineHeight={28}
                   color={isSelected ? '$background' : '$colorSecondary'}
                 >
                   {option.label}
                 </Typography>
                 {option.description ? (
                   <Typography
-                    fontSize={14}
-                    lineHeight={18}
+                    fontSize={17}
+                    lineHeight={23}
                     color={isSelected ? '$background' : '$colorSecondary'}
                     opacity={0.8}
                   >

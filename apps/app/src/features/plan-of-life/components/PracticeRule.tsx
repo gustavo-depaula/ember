@@ -222,7 +222,9 @@ export function Prose({
                   borderBottomWidth={1}
                   borderBottomColor="$colorBurgundy"
                 >
-                  <Typography fontSize={fontSize} lineHeight={lineHeight} color="$colorBurgundy">
+                  {/* Ink, not burgundy: a long run of red on the dark page is hard to read,
+                      and the rubric hairline alone marks what can be changed. */}
+                  <Typography fontSize={fontSize} lineHeight={lineHeight} color="$color">
                     {part.text}
                   </Typography>
                 </YStack>

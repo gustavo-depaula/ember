@@ -375,7 +375,7 @@ export default function PlanPracticeScreen() {
                   marginTop: 8,
                 }}
               >
-                <Typography fontSize={17} color="$colorBurgundy">
+                <Typography fontSize={17} color="$colorSecondary">
                   {`＋ ${hours ? t('rule.addHour') : t('rule.addTime')}`}
                 </Typography>
               </Pressable>
