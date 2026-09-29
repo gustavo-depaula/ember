@@ -138,18 +138,15 @@ function BeadString({ beads, extras }: { beads: ChronicleBead[]; extras: number 
       importantForAccessibility="no-hide-descendants"
     >
       {beads.length ? (
-        <XStack alignItems="center" gap={gap}>
-          <YStack
-            position="absolute"
-            left={0}
-            right={0}
-            top="50%"
-            height={0.5}
-            backgroundColor="$accentSubtle"
-          />
+        // The string runs between the beads, not as one absolute line behind them: an
+        // absolute top="50%" resolves below the beads' middle on iOS.
+        <XStack alignItems="center">
           {beads.map((bead, i) => (
             // biome-ignore lint/suspicious/noArrayIndexKey: beads are positional on the day
-            <Bead key={i} bead={bead} />
+            <XStack key={i} alignItems="center">
+              {i > 0 ? <YStack width={gap} height={0.5} backgroundColor="$accentSubtle" /> : null}
+              <Bead bead={bead} />
+            </XStack>
           ))}
         </XStack>
       ) : null}
