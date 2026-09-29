@@ -8,8 +8,8 @@
     "pt-BR": "Simples, fiel — comece aqui."
   },
   "manifesto": {
-    "en-US": "This is not a school of holiness; it is a starting line for consistency. A morning offering, an Our Father, a sixty-second examination at night, Sunday Mass, monthly confession — that is all. The point is not asceticism but proof: that a plan of life can be kept at all.\n\nBetter to live this faithfully for a year than to fail at a heroic rule in a month. When it has become second nature, the door to every other tradition stands open.",
-    "pt-BR": "Esta não é uma escola de santidade; é uma linha de partida para a constância. Um oferecimento ao amanhecer, um Pai-Nosso, um exame de sessenta segundos à noite, a Missa dominical, a confissão mensal — e nada mais. O objetivo não é a ascese, mas a prova: a de que um plano de vida pode, sim, ser cumprido.\n\nMelhor viver isto com fidelidade por um ano do que fracassar numa regra heroica em um mês. Quando se tornar segunda natureza, a porta de toda outra tradição estará aberta."
+    "en-US": "This is not a school of holiness; it is a starting line for consistency. A morning offering, the Angelus at noon and at six, a sixty-second examination at night, Sunday Mass, monthly confession — that is all. The Rosary and the Gospel of the day are there for the days you can reach further. The point is not asceticism but proof: that a plan of life can be kept at all.\n\nBetter to live this faithfully for a year than to fail at a heroic rule in a month. When it has become second nature, the door to every other tradition stands open.",
+    "pt-BR": "Esta não é uma escola de santidade; é uma linha de partida para a constância. Um oferecimento ao amanhecer, o Angelus ao meio-dia e às seis da tarde, um exame de sessenta segundos à noite, a Missa dominical, a confissão mensal — e nada mais. O Rosário e o Evangelho do dia ficam para os dias em que se pode ir além. O objetivo não é a ascese, mas a prova: a de que um plano de vida pode, sim, ser cumprido.\n\nMelhor viver isto com fidelidade por um ano do que fracassar numa regra heroica em um mês. Quando se tornar segunda natureza, a porta de toda outra tradição estará aberta."
   },
   "icon": "sunrise",
   "tags": ["beginner", "essential"],
@@ -25,13 +25,43 @@
       }
     },
     {
-      "ref": "our-father",
+      "ref": "gospel-of-the-day",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "07:15",
+      "note": {
+        "en-US": "The Gospel of the day's Mass, read slowly — a few minutes letting the Lord speak before the day speaks louder.",
+        "pt-BR": "O Evangelho da Missa do dia, lido devagar — alguns minutos deixando o Senhor falar antes que o dia fale mais alto."
+      }
+    },
+    {
+      "ref": "angelus",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "12:00",
       "note": {
-        "en-US": "One prayer, the one the Lord Himself taught — enough to anchor the day, with no risk of being too much to sustain.",
-        "pt-BR": "Uma só oração, a que o próprio Senhor ensinou — basta para ancorar o dia, sem risco de ser demais para sustentar."
+        "en-US": "A pause at noon to recall the Incarnation — a minute that stops the day for God, short enough never to be too much.",
+        "pt-BR": "Uma pausa ao meio-dia para recordar a Encarnação — um minuto que para o dia por Deus, breve o bastante para nunca ser demais."
+      }
+    },
+    {
+      "ref": "angelus",
+      "tier": "essential",
+      "schedule": { "type": "daily" },
+      "time": "18:00",
+      "note": {
+        "en-US": "The Angelus again at six, closing the working day as it was broken at noon — the bell that ties the whole day to Mary's yes.",
+        "pt-BR": "O Angelus de novo às seis, encerrando a jornada como ela foi interrompida ao meio-dia — o sino que prende o dia inteiro ao sim de Maria."
+      }
+    },
+    {
+      "ref": "rosary",
+      "tier": "ideal",
+      "schedule": { "type": "daily" },
+      "time": "20:00",
+      "note": {
+        "en-US": "The daily Rosary, when the day allows — a single decade on a hard day still counts; the whole Rosary is the goal, not the entry fee.",
+        "pt-BR": "O Rosário diário, quando o dia permitir — um só mistério num dia difícil já conta; o terço inteiro é a meta, não o preço de entrada."
       }
     },
     {

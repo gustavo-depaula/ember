@@ -90,10 +90,10 @@ describe('pray now: which practice', () => {
   })
 
   it("closes a practice's timeframe with its part of the day", () => {
-    // The morning offering holds until noon — the morning's end — not until
-    // the 22:00 examen.
-    expect(pick('beginner-minimum', '11:30').ref).toBe('morning-offering')
-    expect(pick('beginner-minimum', '13:00', ['our-father'])).toEqual({
+    // The Franciscan 08:00 Gospel holds until noon — the morning's end — not
+    // until the 21:30 examen.
+    expect(pick('franciscan', '11:30').ref).toBe('gospel-of-the-day')
+    expect(pick('franciscan', '13:00')).toEqual({
       ref: 'examination-of-conscience',
       comingUp: true,
     })
