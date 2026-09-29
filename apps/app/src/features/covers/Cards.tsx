@@ -17,16 +17,22 @@ export function PracticeCard({
   tone,
   icon,
   minutes,
+  note,
   size,
 }: {
   title: string
   tone: BlockTone
   icon?: string
   minutes?: number
+  /** Small caps line under the title, in place of the estimated time. */
+  note?: string
   size: number
 }) {
   const { t } = useTranslation()
   const s = size
+  const caption =
+    note ??
+    (minutes !== undefined && minutes > 0 ? t('catalog.estimatedTime', { minutes }) : undefined)
   return (
     <View style={[styles.shadow, { width: s, height: s }]}>
       <Svg width={s} height={s} style={StyleSheet.absoluteFill}>
@@ -76,7 +82,7 @@ export function PracticeCard({
         >
           {title}
         </CoverText>
-        {minutes !== undefined && minutes > 0 && (
+        {caption && (
           <CoverText
             lines={1}
             style={{
@@ -87,7 +93,7 @@ export function PracticeCard({
               opacity: 0.7,
             }}
           >
-            {t('catalog.estimatedTime', { minutes }).toUpperCase()}
+            {caption.toUpperCase()}
           </CoverText>
         )}
       </View>

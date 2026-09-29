@@ -12,13 +12,15 @@ import {
   Waves,
 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { StyleSheet, useWindowDimensions } from 'react-native'
+import Svg, { Defs, Rect } from 'react-native-svg'
+import { XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable } from '@/components'
 import { Typography } from '@/components/typography'
 import { getAllManifests } from '@/content/resolver'
-import { type BlockTone, blockInk, toneForKey } from '@/features/explore/bgColor'
+import { ToneGradient } from '@/features/covers/parts'
+import { type BlockTone, blockInk, blockLabelInk, toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
 // Per-theme icon, matched on the practice id suffix, so a glance tells you what
@@ -102,7 +104,8 @@ function ThemeTile({
   size: number
 }) {
   const Icon = resolveIcon(id)
-  const iconSize = Math.round(size * 0.28)
+  const height = Math.round(size * 0.9)
+  const gradientId = `theme-${id}`
 
   return (
     <Link
@@ -113,29 +116,48 @@ function ThemeTile({
       <AnimatedPressable accessibilityRole="link" accessibilityLabel={title}>
         <YStack
           width={size}
-          height={size}
+          height={height}
           borderRadius={14}
           overflow="hidden"
           backgroundColor={tone.from}
-          alignItems="center"
-          justifyContent="center"
           padding="$md"
-          gap="$sm"
+          justifyContent="space-between"
           shadowColor="#000"
-          shadowOffset={{ width: 0, height: 6 }}
-          shadowOpacity={0.18}
-          shadowRadius={12}
+          shadowOffset={{ width: 0, height: 8 }}
+          shadowOpacity={0.4}
+          shadowRadius={18}
         >
-          <Icon size={iconSize} color={blockInk} strokeWidth={1.2} />
-          <Text
-            fontFamily="$heading"
-            fontSize="$3"
+          <Svg width={size} height={height} style={StyleSheet.absoluteFill}>
+            <Defs>
+              <ToneGradient id={gradientId} tone={tone} />
+            </Defs>
+            <Rect width={size} height={height} fill={`url(#${gradientId})`} />
+          </Svg>
+          {/* The theme's icon again, oversized and faint, bleeding off the corner. */}
+          <YStack position="absolute" right={-14} bottom={-18} opacity={0.13}>
+            <Icon size={Math.round(size * 0.66)} color={blockInk} strokeWidth={1.2} />
+          </YStack>
+          <YStack
+            position="absolute"
+            top={7}
+            left={7}
+            right={7}
+            bottom={7}
+            borderRadius={9}
+            borderWidth={1}
+            borderColor="rgba(232,201,122,0.28)"
+          />
+          <Icon size={24} color={blockLabelInk} strokeWidth={1.3} />
+          <Typography
+            variant="sacred-title"
+            textAlign="left"
             color={blockInk}
-            textAlign="center"
+            fontSize={21}
+            lineHeight={23}
             numberOfLines={2}
           >
             {title}
-          </Text>
+          </Typography>
         </YStack>
       </AnimatedPressable>
     </Link>
