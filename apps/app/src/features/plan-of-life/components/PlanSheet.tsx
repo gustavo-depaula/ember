@@ -124,7 +124,7 @@ function UprightString({ slots }: { slots: SlotState[] }) {
             <XStack height={rowHeight} alignItems="center" gap="$sm">
               <Svg width={railWidth} height={rowHeight}>
                 <Path
-                  d={thread(i, ordered.length + 1)}
+                  d={thread(i, ordered.length)}
                   stroke={hue}
                   strokeOpacity={0.55}
                   strokeWidth={1.3}
@@ -153,45 +153,6 @@ function UprightString({ slots }: { slots: SlotState[] }) {
           </AnimatedPressable>
         )
       })}
-      <AnimatedPressable
-        onPress={() => {
-          lightTap()
-          sheet.close()
-          router.push('/practices')
-        }}
-        accessibilityRole="button"
-        accessibilityLabel={t('plan.addCustom')}
-      >
-        <XStack height={rowHeight} alignItems="center">
-          <Svg width={railWidth} height={rowHeight}>
-            <Path
-              d={thread(ordered.length, ordered.length + 1)}
-              stroke={theme.accent.val}
-              strokeOpacity={0.4}
-              strokeDasharray="3 4"
-              fill="none"
-            />
-            <Circle
-              cx={beadX(ordered.length)}
-              cy={rowHeight / 2}
-              r={11}
-              fill={theme.background.val}
-              stroke={theme.accent.val}
-              strokeWidth={1.2}
-              strokeDasharray="3 3"
-            />
-            <Path
-              d={`M${beadX(ordered.length) - 4},${rowHeight / 2}h8M${beadX(ordered.length)},${rowHeight / 2 - 4}v8`}
-              stroke={theme.accent.val}
-              strokeWidth={1.4}
-              strokeLinecap="round"
-            />
-          </Svg>
-          <Typography color="$accent" fontSize="$3">
-            {t('plan.addCustom')}
-          </Typography>
-        </XStack>
-      </AnimatedPressable>
     </YStack>
   )
 }

@@ -93,11 +93,7 @@ export function RuleOfLifeSections() {
           </AnimatedPressable>
         ) : (
           <>
-            <RuleString
-              slots={rule}
-              onPress={openPlanSheet}
-              onAdd={() => router.push('/practices')}
-            />
+            <RuleString slots={rule} onPress={openPlanSheet} />
             <Typography tone="muted" fontSize="$2" textAlign="center">
               {t('plan.practiceCount', { count: practiceCount })} ·{' '}
               {t('plan.timeCount', { count: rule.length })}

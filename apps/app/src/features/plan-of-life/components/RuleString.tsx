@@ -26,15 +26,7 @@ type Item =
  * bead falls only on some days, named above it. Not today's progress — the
  * shape of the rule.
  */
-export function RuleString({
-  slots,
-  onPress,
-  onAdd,
-}: {
-  slots: SlotState[]
-  onPress: () => void
-  onAdd: () => void
-}) {
+export function RuleString({ slots, onPress }: { slots: SlotState[]; onPress: () => void }) {
   const { t } = useTranslation()
   const theme = useTheme()
   const dark = useThemeName().startsWith('dark')
@@ -128,29 +120,6 @@ export function RuleString({
               )}
             </Svg>
           )}
-        </YStack>
-      </AnimatedPressable>
-      <AnimatedPressable
-        onPress={() => {
-          lightTap()
-          onAdd()
-        }}
-        hitSlop={10}
-        accessibilityRole="button"
-        accessibilityLabel={t('plan.addCustom')}
-      >
-        <YStack
-          marginTop={midline - 13}
-          width={26}
-          height={26}
-          borderRadius={13}
-          borderWidth={1.2}
-          borderStyle="dashed"
-          borderColor="$accent"
-          alignItems="center"
-          justifyContent="center"
-        >
-          <Plus size={14} color={theme.accent.val} />
         </YStack>
       </AnimatedPressable>
     </XStack>

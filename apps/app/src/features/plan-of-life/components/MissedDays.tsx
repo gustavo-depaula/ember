@@ -72,10 +72,22 @@ export function MissedDays({
         </Typography>
       ) : null}
       {/* Logged on the missed days' own dates: a First Friday counts only on a Friday. */}
-      <FootLink
-        label={t('program.prayedUnlogged', { count })}
+      <AnimatedPressable
         onPress={() => backfill.mutate({ practiceId, dates: missedDates })}
-      />
+        accessibilityRole="button"
+        accessibilityLabel={t('program.prayedUnlogged', { count })}
+        style={{ minHeight: 48, justifyContent: 'center', marginTop: 12 }}
+      >
+        <Typography
+          fontSize="$4"
+          color="$colorSecondary"
+          textAlign="center"
+          textDecorationLine="underline"
+          textDecorationColor="$accentSubtle"
+        >
+          {t('program.prayedUnlogged', { count })}
+        </Typography>
+      </AnimatedPressable>
     </YStack>
   )
 }
