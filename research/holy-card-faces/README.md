@@ -18,6 +18,8 @@ The generated holy cards collapsed male saints into three stock faces — a man 
 3. Compare: `compare.py` (before/after pairs) and `sheet.py` (face contact sheet across cards). Redo any face that still reads like another card.
 4. Copy the accepted draft to `content/saints/` and record it in the card's `meta`.
 
+New cards follow the same research step (e.g. `dossiers/first-batch.md`), then `new-card.sh <card-id> <initial> "<subject>" "<face>" <ref-card-id>...` generates the whole card from unedited reference cards of the same kind (nuns for a nun, bishops for a bishop). Say explicitly that a busy scene (a horse, a crowd) stays inside the arched window: Martin's first draft spilled over the bottom border.
+
 ## Lessons
 
 - Edit from the original card every time; each edit adds grain.

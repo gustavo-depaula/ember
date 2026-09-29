@@ -2001,6 +2001,432 @@
           }
         ]
       }
+    },
+    {
+      "id": "faustina",
+      "feast": {
+        "month": 10,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Faustina Kowalska",
+        "pt-BR": "Santa Faustina Kowalska"
+      },
+      "patronOf": {
+        "en-US": "Apostle of Divine Mercy",
+        "pt-BR": "Apóstola da Divina Misericórdia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Jesus, I trust in you.",
+        "pt-BR": "Jesus, eu confio em vós."
+      },
+      "meta": {
+        "face": "A woman of about thirty with a round, open face, fair skin with a light dusting of freckles, reddish-gold eyebrows, light grey-green eyes, a straight nose, a calm steady gaze and a faint gentle smile.",
+        "basis": "A fellow sister's recollection that she was red-haired and freckled, with her photographs and the portrait painted from them. The excerpt is the inscription of the Divine Mercy image.",
+        "sources": [
+          {
+            "title": "Catholic Exchange, A Star and the Moon, part II (Sr Sabina's recollection)",
+            "url": "https://catholicexchange.com/a-star-and-the-moon-part-ii-the-lives-of-alicja-lenczewska-and-st-faustina-kowalska/"
+          },
+          {
+            "title": "Wikipedia, Faustina Kowalska (portrait, 1931 photograph, habit)",
+            "url": "https://en.wikipedia.org/wiki/Faustina_Kowalska"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "padre_pio",
+      "feast": {
+        "month": 9,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Padre Pio",
+        "pt-BR": "São Padre Pio"
+      },
+      "patronOf": {
+        "en-US": "Friar and confessor",
+        "pt-BR": "Frade e confessor"
+      },
+      "prayerExcerpt": {
+        "en-US": "Pray, hope, and don't worry.",
+        "pt-BR": "Reze, espere e não se preocupe."
+      },
+      "meta": {
+        "face": "A man of about sixty with short thick white hair receding from a high forehead, a full rounded white beard of medium length, strong dark eyebrows, deep-set dark eyes and a warm, faintly amused half-smile, eyes slightly lowered.",
+        "basis": "The official portrait photograph of about 1947; the fingerless mittens over the stigmata from contemporary accounts. The excerpt is his best-known counsel.",
+        "sources": [
+          {
+            "title": "Wikipedia, Padre Pio (c. 1947 official portrait)",
+            "url": "https://en.wikipedia.org/wiki/Padre_Pio"
+          },
+          {
+            "title": "Wikimedia Commons, Padre Pio with the stigmata (1919)",
+            "url": "https://commons.wikimedia.org/wiki/File:Padre_Pio_of_Pietrelcina_with_the_stigmata.jpg"
+          },
+          {
+            "title": "Bryan Shortall OFM Cap, Talking sense about the mitten of St Padre Pio",
+            "url": "http://bryanshortall.blogspot.com/2020/01/talking-sense-about-he-mitten-of-st.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "john_vianney",
+      "feast": {
+        "month": 8,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. John Vianney",
+        "pt-BR": "São João Maria Vianney"
+      },
+      "patronOf": {
+        "en-US": "Patron of parish priests",
+        "pt-BR": "Padroeiro dos párocos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Prayer is nothing else than union with God.",
+        "pt-BR": "A oração não é outra coisa senão a união com Deus."
+      },
+      "meta": {
+        "face": "A small, thin, clean-shaven old priest of about seventy with long snow-white hair falling to his collar, a high pale smooth forehead, a narrow gentle face, deep-set luminous eyes raised in prayer.",
+        "basis": "Eyewitness descriptions in Monnin's Life (Bishop Ullathorne, 1854: hair white as snow, eyes deep in shadow and preternaturally bright); he refused to be photographed, so Cabuchet's bust and the 1859 deathbed photograph fixed the type. The excerpt is from his catechism on prayer.",
+        "sources": [
+          {
+            "title": "Monnin, Life of the Curé d'Ars (archive.org)",
+            "url": "https://archive.org/details/LifeOfTheCureDArs"
+          },
+          {
+            "title": "Sanctuaire d'Ars, Emilien Cabuchet",
+            "url": "https://www.arsnet.org/en/ars-great-witnesses/emilien-cabuchet/"
+          },
+          {
+            "title": "OnePeterFive, Could this be the face of the Curé d'Ars?",
+            "url": "https://onepeterfive.com/face-cure-d-ars/"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "maximilian_kolbe",
+      "feast": {
+        "month": 8,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Maximilian Kolbe",
+        "pt-BR": "São Maximiliano Kolbe"
+      },
+      "patronOf": {
+        "en-US": "Patron of prisoners and families",
+        "pt-BR": "Padroeiro dos presos e das famílias"
+      },
+      "prayerExcerpt": {
+        "en-US": "Greater love has no one than to lay down his life for his friends.",
+        "pt-BR": "Ninguém tem maior amor do que aquele que dá a vida por seus amigos."
+      },
+      "meta": {
+        "face": "A man in his early forties, balding with close-cropped dark hair, a long dark-brown beard narrowing to a point, small round wire-rimmed spectacles, a straight nose, an earnest gentle gaze.",
+        "basis": "The 1936 photograph from Japan, the type most photographs and icons follow; the white and red crowns from his childhood vision of the Immaculata. The excerpt is his memorial's communion antiphon.",
+        "sources": [
+          {
+            "title": "Wikipedia, Maximilian Kolbe (1936 photograph, the two crowns)",
+            "url": "https://en.wikipedia.org/wiki/Maximilian_Kolbe"
+          },
+          {
+            "title": "The Catholic Thing, St. Maximilian Kolbe's beard",
+            "url": "https://www.thecatholicthing.org/2023/08/15/st-maximilian-kolbes-beard/"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "francis_de_sales",
+      "feast": {
+        "month": 1,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Francis de Sales",
+        "pt-BR": "São Francisco de Sales"
+      },
+      "patronOf": {
+        "en-US": "Patron of writers and journalists",
+        "pt-BR": "Padroeiro dos escritores e jornalistas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Nothing is so strong as gentleness; nothing so gentle as real strength.",
+        "pt-BR": "Nada é tão forte quanto a mansidão; nada tão manso quanto a verdadeira força."
+      },
+      "meta": {
+        "face": "A sturdy man of about fifty, almost completely bald with a broad full forehead, high arched brows, clear blue eyes, ruddy cheeks, a thick auburn beard of medium length and a gentle, kindly expression.",
+        "basis": "His nephew Charles-Auguste de Sales's 1634 description (almost completely bald, auburn hair, blue eyes, ruddy cheeks, a thick beard of medium length), which matches the portraits.",
+        "sources": [
+          {
+            "title": "Chambelland, St. Francis de Sales and His Portraits (DeSales University)",
+            "url": "https://hosted.desales.edu/files/salesian/PDF/ChambellandPortraits.pdf"
+          },
+          {
+            "title": "Wikipedia, Francis de Sales",
+            "url": "https://en.wikipedia.org/wiki/Francis_de_Sales"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ignatius_antioch",
+      "feast": {
+        "month": 10,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Ignatius of Antioch",
+        "pt-BR": "Santo Inácio de Antioquia"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "I am the wheat of Christ to be ground by the teeth of beasts, that I may be found to be pure bread.",
+        "pt-BR": "Eu sou trigo de Cristo, serei moído pelos dentes das feras, para tornar-me um pão sem mistura."
+      },
+      "meta": {
+        "face": "An old man of about seventy, bald on the crown with a fringe of grey hair, a long grey beard narrowing to a point, a lean ascetic face, a steady upward gaze. The beard is grey and tapering, not broad and white.",
+        "basis": "The Painter's Manual (an old man with a broad beard) and the Hosios Loukas mosaic, kept grey and tapering to stay apart from the white-bearded elders; the lions from his martyrdom. The excerpt is his memorial's communion antiphon, from his Letter to the Romans.",
+        "sources": [
+          {
+            "title": "Wikipedia, Ignatius of Antioch (Hosios Loukas mosaic)",
+            "url": "https://en.wikipedia.org/wiki/Ignatius_of_Antioch"
+          },
+          {
+            "title": "christianiconography.info, Ignatius of Antioch",
+            "url": "https://www.christianiconography.info/ignatiusAntioch.html"
+          },
+          {
+            "title": "Didron, Manuel d'iconographie chrétienne (Dionysius of Fourna)",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "leo_great",
+      "feast": {
+        "month": 11,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Leo the Great",
+        "pt-BR": "São Leão Magno"
+      },
+      "patronOf": {
+        "en-US": "Pope and Doctor of the Church",
+        "pt-BR": "Papa e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "Christian, remember your dignity.",
+        "pt-BR": "Cristão, reconhece a tua dignidade."
+      },
+      "meta": {
+        "face": "A heavy-set, clean-shaven man of about sixty with a full, rounded face, a strong jaw, dark eyes and a calm, commanding yet kindly expression.",
+        "basis": "Raphael's Meeting of Leo the Great and Attila, chosen over the bearded Greek and Baroque types, which would repeat the white-bearded elder; no source records his features. Peter and Paul with swords are from the same scene. The excerpt is from his Christmas sermon.",
+        "sources": [
+          {
+            "title": "Wikimedia Commons, Raphael, Meeting of Leo the Great and Attila",
+            "url": "https://commons.wikimedia.org/wiki/File:Leoattila-Raphael.jpg"
+          },
+          {
+            "title": "Wikipedia, The Meeting of Leo the Great and Attila",
+            "url": "https://en.wikipedia.org/wiki/The_Meeting_of_Leo_the_Great_and_Attila"
+          },
+          {
+            "title": "Wikipedia, Pope Leo I",
+            "url": "https://en.wikipedia.org/wiki/Pope_Leo_I"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "martin_tours",
+      "feast": {
+        "month": 11,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Martin of Tours",
+        "pt-BR": "São Martinho de Tours"
+      },
+      "patronOf": {
+        "en-US": "Bishop and friend of the poor",
+        "pt-BR": "Bispo e amigo dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whatever you did for one of the least of my brethren, you did it for me.",
+        "pt-BR": "Tudo o que fizestes a um destes meus irmãos mais pequeninos, foi a mim que o fizestes."
+      },
+      "meta": {
+        "face": "A young man of about twenty, clean-shaven, with fair blond straight-to-wavy hair cut to the jaw, a kind face, his gaze lowered to the beggar.",
+        "basis": "Sulpicius Severus's account of the cloak at Amiens, when Martin was about eighteen to twenty, with the face type of Simone Martini's Assisi fresco; fair hair keeps him apart from George. The excerpt is his memorial's communion antiphon.",
+        "sources": [
+          {
+            "title": "Sulpicius Severus, Life of St Martin (New Advent)",
+            "url": "https://www.newadvent.org/fathers/3501.htm"
+          },
+          {
+            "title": "Wikimedia Commons, Simone Martini, Division of the Cloak",
+            "url": "https://commons.wikimedia.org/wiki/File:Simone_Martini_-_Division_of_the_Cloak_(scene_1)_-_WGA21367.jpg"
+          },
+          {
+            "title": "christianiconography.info, Martin of Tours",
+            "url": "https://www.christianiconography.info/martin.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card; the first draft broke the bottom frame and gave him brown curls, so it was regenerated."
+          }
+        ]
+      }
+    },
+    {
+      "id": "agatha",
+      "feast": {
+        "month": 2,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Agatha",
+        "pt-BR": "Santa Águeda"
+      },
+      "patronOf": {
+        "en-US": "Patron of Catania and of nurses",
+        "pt-BR": "Padroeira de Catânia e das enfermeiras"
+      },
+      "prayerExcerpt": {
+        "en-US": "If you are insulted for the name of Christ, blessed are you.",
+        "pt-BR": "Felizes sereis vós, se fordes ultrajados por causa de Jesus."
+      },
+      "meta": {
+        "face": "A young noblewoman of about twenty with long fair golden hair under a red veil, a serene oval face, large dark eyes and a composed, steadfast expression.",
+        "basis": "The Western type (long fair hair, a sheer veil), the Golden Legend, the Ravenna mosaic, and the Catanese tradition of her veil turning red when it stopped Etna's lava; tongs and palm instead of the dish. The excerpt is her memorial's Gospel acclamation (1 Pt 4:14).",
+        "sources": [
+          {
+            "title": "christianiconography.info, Agatha",
+            "url": "https://www.christianiconography.info/agatha.html"
+          },
+          {
+            "title": "Wikimedia Commons, Sancta Agathe, Sant'Apollinare Nuovo, Ravenna",
+            "url": "https://commons.wikimedia.org/wiki/File:Sancta_Agathe_Ravenna.jpg"
+          },
+          {
+            "title": "Golden Legend, St Agatha",
+            "url": "https://www.liturgies.net/saints/agatha/goldenlegend.htm"
+          },
+          {
+            "title": "Sicilia Preziosa, the veil of St Agatha",
+            "url": "https://www.siciliapreziosa.it/storie/storia-velo-di-santagata-che-fermo-lava-etna/"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
+    },
+    {
+      "id": "perpetua_felicity",
+      "feast": {
+        "month": 3,
+        "day": 7
+      },
+      "name": {
+        "en-US": "Sts. Perpetua and Felicity",
+        "pt-BR": "Santas Perpétua e Felicidade"
+      },
+      "patronOf": {
+        "en-US": "Patrons of mothers",
+        "pt-BR": "Padroeiras das mães"
+      },
+      "prayerExcerpt": {
+        "en-US": "I am a Christian.",
+        "pt-BR": "Sou cristã."
+      },
+      "meta": {
+        "face": "Perpetua: about twenty-two, dark hair bound up under a white veil, a composed oval face and a direct, fearless gaze. Felicity: slightly younger, a simpler rounder face, dark hair under a plain veil, a gentle lowered gaze.",
+        "basis": "The Passion of Perpetua and Felicity (Perpetua about twenty-two, noble, a nursing mother; Felicity a slave who gave birth in prison; the ladder of Perpetua's vision) and the Ravenna mosaics, which dress Felicity more plainly. Their colouring is not attested. The excerpt is Perpetua's answer to the procurator.",
+        "sources": [
+          {
+            "title": "The Passion of Perpetua and Felicity (New Advent)",
+            "url": "https://www.newadvent.org/fathers/0324.htm"
+          },
+          {
+            "title": "christianiconography.info, Perpetua and Felicity",
+            "url": "https://www.christianiconography.info/perpetuaFelicity.html"
+          },
+          {
+            "title": "Wikimedia Commons, Sancta Perpetua, Ravenna",
+            "url": "https://commons.wikimedia.org/wiki/File:Sancta_Perpetua_Ravenna.jpg"
+          },
+          {
+            "title": "Wikimedia Commons, Sancta Felicitas, Ravenna",
+            "url": "https://commons.wikimedia.org/wiki/File:Sancta_Felicitas_Ravenna.jpg"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card, generated with new-card.sh from the dossier face (dossiers/first-batch.md)."
+          }
+        ]
+      }
     }
   ]
 }

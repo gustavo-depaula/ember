@@ -103,7 +103,7 @@ Duplicates make giving possible. Frame it as **giving**, not trading: giving a h
 
 ## Catalog and art
 
-A fixed, curated catalog; every collectible gets bespoke art (no text-only cards): saints with feasts/memorials, the Canon saints, practice lineages, Mass parts and objects, and season cards. Roughly 160 at launch (universal solemnities/feasts/memorials ≈105, Canon-only saints ≈5–10, Mass ≈30, seasons 15, plus lineage saints outside the calendar) — 74 exist today — growing toward ~260 as optional memorials (96) get art. New cards ship through Hearth like the current holy cards (data blob + image), not an app release.
+A fixed, curated catalog; every collectible gets bespoke art (no text-only cards). The full list, by category and phase, is [holy-cards-catalog.md](holy-cards-catalog.md). New cards ship through Hearth like the current holy cards (data blob + image), not an app release.
 
 ## Data shape
 
