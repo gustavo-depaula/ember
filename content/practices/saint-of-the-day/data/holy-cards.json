@@ -37,6 +37,30 @@
       "prayerExcerpt": {
         "en-US": "Go to Joseph. Whatever he tells you, do.",
         "pt-BR": "Ide a José. Fazei tudo o que ele vos disser."
+      },
+      "meta": {
+        "face": "An older man around 60, balding with a high forehead and short silver-grey hair at the sides, a full neat rounded silver-grey beard, a tender fatherly smile toward the Child.",
+        "basis": "The older, balding, greying Joseph common on 19th-century cards; rounded beard from the Painter's Manual.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/joseph.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Chosen over the vigorous dark-haired type, which matched Luke and Mark"
+          }
+        ]
       }
     },
     {
@@ -94,6 +118,26 @@
       "prayerExcerpt": {
         "en-US": "Lord, you know all things; you know that I love you.",
         "pt-BR": "Senhor, tu sabes tudo; tu sabes que eu te amo."
+      },
+      "meta": {
+        "face": "An elderly man, around 65, broad and weathered fisherman's face, curly grey-white hair balding from the back of the head with a curly tuft left at the forehead, a short square curly grey-white beard, strong wide nose, deep-set earnest eyes, lined forehead.",
+        "basis": "Curly hair and a short square beard since the 4th century; balding with a forelock tuft from the second millennium.",
+        "sources": [
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/peter.html"
+          },
+          {
+            "title": "Christ between Peter and Paul, 4th-c. catacomb painting",
+            "url": "https://www.christianiconography.info/Wikimedia%20Commons/xPeterPaulCatacombs.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -208,6 +252,34 @@
       "prayerExcerpt": {
         "en-US": "The Mighty One has done great things for me, and holy is his name.",
         "pt-BR": "O Todo-Poderoso fez grandes coisas por mim, e santo é o seu nome."
+      },
+      "meta": {
+        "face": "Starting from the original painted face, keeping its head angle and lowered gaze: hair turned light auburn; a very short auburn beard; face made younger, around 27.",
+        "basis": "Young man with curly hair and a short beard (Painter's Manual); colouring and gaze chosen to separate him from Joseph and Mark.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/luke.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Kept at first as matching the tradition; edited because it still matched Joseph and Mark"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Second face came out too realistic for the card's painted style; redone as minimal trait changes on the original face"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Raising the head to look forward read as looking at the camera; redone keeping the original lowered gaze"
+          }
+        ]
       }
     },
     {
@@ -284,6 +356,34 @@
       "prayerExcerpt": {
         "en-US": "I have fought the good fight, I have finished the race, I have kept the faith.",
         "pt-BR": "Combati o bom combate, terminei a corrida, guardei a fé."
+      },
+      "meta": {
+        "face": "A man around 55 with a noble, kindly face: bald on top with a high receding hairline and dark wavy hair at the sides, a long dark pointed beard reaching well below the chin, a straight fine nose, calm luminous eyes with a look of fervent, gentle conviction.",
+        "basis": "Bald crown / receding hairline and a long pointed beard, all but mandatory from the 4th century; the Acts of Paul and Thecla call him bald.",
+        "sources": [
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/paul.html"
+          },
+          {
+            "title": "Acts of Paul and Thecla (NASSCAL)",
+            "url": "https://www.nasscal.com/e-clavis-christian-apocrypha/acts-of-paul-and-thecla/"
+          },
+          {
+            "title": "Christ between Peter and Paul, 4th-c. catacomb painting",
+            "url": "https://www.christianiconography.info/Wikimedia%20Commons/xPeterPaulCatacombs.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "First edit took the Acts' meeting eyebrows and hooked nose literally and came out harsh; redone idealised, keeping only the bald crown and pointed beard"
+          }
+        ]
       }
     },
     {
@@ -341,6 +441,25 @@
       "prayerExcerpt": {
         "en-US": "St. Anthony, gentle and powerful in your help, restore to me what is lost.",
         "pt-BR": "Santo Antônio, brando e poderoso em vosso auxílio, devolvei-me o que está perdido."
+      },
+      "meta": {
+        "basis": "Tonsured, long narrow face, large eyes (1981 study of his skull).",
+        "sources": [
+          {
+            "title": "Basilica of St Anthony: his face",
+            "url": "https://www.santantonio.org/en/content/his-face"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/anthonyPadua.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face reviewed against the sources and kept: an edit barely changed it"
+          }
+        ]
       }
     },
     {
@@ -398,6 +517,30 @@
       "prayerExcerpt": {
         "en-US": "You have made us for yourself, O Lord, and our heart is restless until it rests in you.",
         "pt-BR": "Fizeste-nos para ti, Senhor, e o nosso coração está inquieto enquanto não repousa em ti."
+      },
+      "meta": {
+        "face": "A mature man around 45 with a warm olive-brown North African (Berber) complexion, close-cropped dark hair, a short dark beard, thoughtful ardent upward gaze.",
+        "basis": "North African origin; short dark beard and cropped hair as in the 6th-century Lateran fresco, his oldest portrait.",
+        "sources": [
+          {
+            "title": "6th-c. Lateran fresco of Augustine (Wikimedia Commons)",
+            "url": "https://commons.wikimedia.org/wiki/File:Augustine_Lateran.jpg"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/augustine.html"
+          },
+          {
+            "title": "Wikipedia: Augustine of Hippo",
+            "url": "https://en.wikipedia.org/wiki/Augustine_of_Hippo"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -436,6 +579,26 @@
       "prayerExcerpt": {
         "en-US": "When in Rome, do as the Romans do.",
         "pt-BR": "Quando em Roma, faze como os romanos."
+      },
+      "meta": {
+        "face": "A man in early middle age around 45, short dark-brown hair receding at the temples, a short close dark-brown beard and moustache, broad forehead, long straight nose, intense direct gaze.",
+        "basis": "The 5th-century mosaic in San Vittore in Ciel d'Oro, Milan, possibly a portrait from life.",
+        "sources": [
+          {
+            "title": "Mosaic of St Ambrose, Sant'Ambrogio, Milan (Wikimedia Commons)",
+            "url": "https://commons.wikimedia.org/wiki/File:AmbroseOfMilan.jpg"
+          },
+          {
+            "title": "Simone Piazza, Il volto di Ambrogio",
+            "url": "https://books.openedition.org/psorbonne/29310?lang=en"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -455,6 +618,22 @@
       "prayerExcerpt": {
         "en-US": "The proof of love is in the works.",
         "pt-BR": "A prova do amor está nas obras."
+      },
+      "meta": {
+        "face": "A mature man around 55, bald on the crown and high forehead, the hair at the sides worn long and neatly curled, a moderate tawny reddish-gold beard, slim slightly aquiline nose, well-formed chin, serene expression.",
+        "basis": "John the Deacon's description of the portrait painted just after Gregory's death.",
+        "sources": [
+          {
+            "title": "Wikipedia: Pope Gregory I",
+            "url": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -474,6 +653,30 @@
       "prayerExcerpt": {
         "en-US": "Glory be to God for all things.",
         "pt-BR": "Glória a Deus por todas as coisas."
+      },
+      "meta": {
+        "face": "A lean ascetic man around 40, younger than the other bishops, a high bare forehead with thinning dark hair, gently hollow cheeks, a short thin pointed dark beard, earnest eloquent expression.",
+        "basis": "Young with little beard (Painter's Manual); high forehead and hollow cheeks in the Byzantine icon type.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Byzantine icon of Chrysostom (Met), Christian Iconography",
+            "url": "https://christianiconography.info/metropolitan/march2018/chrysostomByzantine.html"
+          },
+          {
+            "title": "Orthodox Arts Journal: icon prototypes",
+            "url": "https://orthodoxartsjournal.org/designing-icons-pt-2-icon-prototypes/"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -493,6 +696,26 @@
       "prayerExcerpt": {
         "en-US": "God became man so that man might become God.",
         "pt-BR": "Deus se fez homem para que o homem se tornasse Deus."
+      },
+      "meta": {
+        "face": "An old man around 75, bald on top, a broad full white beard spreading wide over the chest, steadfast resolute expression.",
+        "basis": "Old, bald, broad beard (Painter's Manual).",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Wikipedia: Athanasius of Alexandria",
+            "url": "https://en.wikipedia.org/wiki/Athanasius_of_Alexandria"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -759,6 +982,21 @@
       "prayerExcerpt": {
         "en-US": "Christ before me, Christ behind me, Christ within me.",
         "pt-BR": "Cristo diante de mim, Cristo atrás de mim, Cristo em mim."
+      },
+      "meta": {
+        "basis": "No attested facial tradition; identified by attributes.",
+        "sources": [
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/patrick.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face reviewed and kept: nothing to follow"
+          }
+        ]
       }
     },
     {
@@ -778,6 +1016,26 @@
       "prayerExcerpt": {
         "en-US": "Holy Nicholas, who gave in secret, teach us the joy of hidden charity.",
         "pt-BR": "São Nicolau, que destes em segredo, ensinai-nos a alegria da caridade oculta."
+      },
+      "meta": {
+        "face": "An elderly man around 70, high forehead, a short full rounded white beard slightly divided into two lobes at the chin, benevolent warm expression.",
+        "basis": "Byzantine type: bald crown, short rounded white beard.",
+        "sources": [
+          {
+            "title": "Wikipedia: Saint Nicholas",
+            "url": "https://en.wikipedia.org/wiki/Saint_Nicholas"
+          },
+          {
+            "title": "Orthodox Arts Journal: icon prototypes",
+            "url": "https://orthodoxartsjournal.org/designing-icons-pt-2-icon-prototypes/"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1006,6 +1264,25 @@
       "prayerExcerpt": {
         "en-US": "He who prays is saved; he who does not pray is lost.",
         "pt-BR": "Quem reza salva-se; quem não reza condena-se."
+      },
+      "meta": {
+        "basis": "Tannoia, his companion, describes blue eyes, an aquiline nose and a short thick beard.",
+        "sources": [
+          {
+            "title": "Tannoia, Life of St Alphonsus",
+            "url": "https://archive.org/details/thelifeofstalpho00tannuoft"
+          },
+          {
+            "title": "Berthe, Life of St Alphonsus",
+            "url": "https://archive.org/details/lifeofstalphonsu02bert"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face reviewed against the sources and kept: an edit barely changed it"
+          }
+        ]
       }
     },
     {
@@ -1101,6 +1378,25 @@
       "prayerExcerpt": {
         "en-US": "It is better to be a child of God than king of the whole world.",
         "pt-BR": "É melhor ser filho de Deus do que rei do mundo inteiro."
+      },
+      "meta": {
+        "basis": "Beatification-process testimony describes large dark eyes, a gently aquiline nose, a fine ascetic face.",
+        "sources": [
+          {
+            "title": "Cepari/Goldie, Life of St Aloysius (1891)",
+            "url": "https://archive.org/details/lifeofsaintaloys00cepauoft"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/aloysiusGonzaga.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face reviewed against the sources and kept: an edit barely changed it"
+          }
+        ]
       }
     },
     {
@@ -1215,6 +1511,26 @@
       "prayerExcerpt": {
         "en-US": "Lord, do not hold this sin against them.",
         "pt-BR": "Senhor, não lhes leveis em conta este pecado."
+      },
+      "meta": {
+        "face": "A beardless youth around 20, completely clean-shaven, short light-brown hair with a small clerical tonsure, a serene radiant almost angelic expression.",
+        "basis": "Beardless youth with a tonsure (Painter's Manual); an angel's face (Acts 6:15).",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/stephen.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to separate him from Lawrence"
+          }
+        ]
       }
     },
     {
@@ -1234,6 +1550,38 @@
       "prayerExcerpt": {
         "en-US": "The beginning of the Gospel of Jesus Christ, the Son of God.",
         "pt-BR": "Princípio do Evangelho de Jesus Cristo, Filho de Deus."
+      },
+      "meta": {
+        "face": "Starting from the original painted face, keeping its head angle and lowered gaze: hair turned salt-and-pepper grey and cut shorter; a neat rounded salt-and-pepper beard; face a little broader, around 50.",
+        "basis": "Greying man with a rounded beard (Painter's Manual).",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/mark.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "First edit still read like Joseph and Luke (bowed head, brown curls); redone with cropped hair, square jaw and a forward gaze"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Second face came out too realistic for the card's painted style; redone as minimal trait changes on the original face"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Raising the head to look forward read as looking at the camera; redone keeping the original lowered gaze"
+          }
+        ]
       }
     },
     {
@@ -1253,6 +1601,26 @@
       "prayerExcerpt": {
         "en-US": "“Follow me.” And he rose and followed Him.",
         "pt-BR": "“Segue-me.” E ele se levantou e O seguiu."
+      },
+      "meta": {
+        "face": "An old man around 70, long straight white hair, a long flowing undivided white beard reaching the chest, calm scholarly expression.",
+        "basis": "Old man with a long beard (Painter's Manual); undivided to set him apart from Andrew.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/matthew.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1272,6 +1640,26 @@
       "prayerExcerpt": {
         "en-US": "We have found the Messiah.",
         "pt-BR": "Encontramos o Messias."
+      },
+      "meta": {
+        "face": "An old man around 70, abundant unruly curly grey-white hair, a long grey-white beard divided at the end into two points, a kindly weathered face.",
+        "basis": "Old man with a beard divided into two points (Painter's Manual); wild hair and long beard in the West.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/andrew.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1291,6 +1679,26 @@
       "prayerExcerpt": {
         "en-US": "We are able to drink the chalice.",
         "pt-BR": "Podemos beber o cálice."
+      },
+      "meta": {
+        "face": "A youthful man around 28, chestnut hair falling in soft waves to the jaw, a young light beard that is short and sparse, open eager expression.",
+        "basis": "Young man with a young beard (Painter's Manual); identity carried by the pilgrim's attributes.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/jamesGreater.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1310,6 +1718,26 @@
       "prayerExcerpt": {
         "en-US": "Rabbi, You are the Son of God.",
         "pt-BR": "Rabi, Tu és o Filho de Deus."
+      },
+      "meta": {
+        "face": "A mature man around 45, upright bearing, fair skin, large clear eyes, black curly hair, a long black beard just beginning to grey.",
+        "basis": "Golden Legend: black curly hair, fair skin, large eyes, long beard with some grey.",
+        "sources": [
+          {
+            "title": "Golden Legend (Caxton), vol. 5",
+            "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/bartholomew.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1329,6 +1757,26 @@
       "prayerExcerpt": {
         "en-US": "My Lord and my God!",
         "pt-BR": "Meu Senhor e meu Deus!"
+      },
+      "meta": {
+        "face": "A beardless young man around 25, clean-shaven, short dark hair, earnest thoughtful searching expression.",
+        "basis": "Beardless young man (Painter's Manual).",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/thomas.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1348,6 +1796,26 @@
       "prayerExcerpt": {
         "en-US": "And the lot fell upon Matthias.",
         "pt-BR": "E a sorte caiu sobre Matias."
+      },
+      "meta": {
+        "face": "An old man around 70, a full thick head of wavy white hair, a neat rounded white beard, gentle steady expression.",
+        "basis": "Old man with a rounded beard (Painter's Manual); full hair to set him apart from Simon.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/matthias.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1367,6 +1835,30 @@
       "prayerExcerpt": {
         "en-US": "Beloved, build yourselves up in your most holy faith.",
         "pt-BR": "Caríssimos, edificai-vos sobre a vossa santíssima fé."
+      },
+      "meta": {
+        "face": "Simon: an old man around 70, bald, with a neat rounded white beard. Jude: a young man around 28 with a young light brown beard.",
+        "basis": "Simon old and bald with a rounded beard; Jude young with a young beard (Painter's Manual). Attributes: Simon's bucksaw; Jude's halberd, medallion of Christ's face and flame.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/simon.html"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/judeThaddeus.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "The card previously held a second image of St. Gianna by mistake; generated anew from the Philip & James and Cecilia cards as style references"
+          }
+        ]
       }
     },
     {
@@ -1386,6 +1878,26 @@
       "prayerExcerpt": {
         "en-US": "He was a good man, full of the Holy Spirit and of faith.",
         "pt-BR": "Era um homem bom, cheio do Espírito Santo e de fé."
+      },
+      "meta": {
+        "face": "A greying man around 55, grey-streaked brown hair, a long grey-streaked beard reaching the chest, warm encouraging expression.",
+        "basis": "Greying man with a long beard (Painter's Manual).",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/barnabas.html"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          }
+        ]
       }
     },
     {
@@ -1405,6 +1917,89 @@
       "prayerExcerpt": {
         "en-US": "Lord, show us the Father, and we shall be satisfied.",
         "pt-BR": "Senhor, mostra-nos o Pai, e isso nos basta."
+      },
+      "meta": {
+        "face": "Philip: a beardless young man around 25, somewhat long face, tousled brown forelock parted in two. James the Less: a man around 35, thick dark-brown hair swept back to the shoulders (no centre parting), a short pointed dark-brown beard, rounder face with broad cheekbones, gentle smile.",
+        "basis": "Philip beardless with a parted forelock; James the Less young with a pointed beard and uncut hair (Painter's Manual, Golden Legend). James is kept from resembling Christ, which the Golden Legend's likeness otherwise invites.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/philip.html"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/jamesLess.html"
+          },
+          {
+            "title": "Golden Legend (Caxton), vol. 3",
+            "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume3.asp"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to break the stock look-alike face shared by most male cards"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "First edit made James look like Christ; redone with swept-back hair, broader face and a smile"
+          }
+        ]
+      }
+    },
+    {
+      "id": "lawrence",
+      "feast": {
+        "month": 8,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Lawrence",
+        "pt-BR": "São Lourenço"
+      },
+      "patronOf": {
+        "en-US": "Deacon and martyr",
+        "pt-BR": "Diácono e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "God loves a cheerful giver.",
+        "pt-BR": "Deus ama quem dá com alegria."
+      },
+      "meta": {
+        "face": "A young deacon around 25, slightly older-looking than a boy, short dark hair with a small clerical tonsure, the first light shadow of a beard on the jaw, serene upward gaze.",
+        "basis": "Young with a budding beard, a little older than Stephen, as the Painter's Manual distinguishes the two deacons; gridiron, palm, dalmatic and Gospel book.",
+        "sources": [
+          {
+            "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), c. 1730 — Didron's 1845 French edition",
+            "url": "https://archive.org/details/manueldiconograp00dion"
+          },
+          {
+            "title": "Christian Iconography",
+            "url": "https://www.christianiconography.info/lawrence.html"
+          },
+          {
+            "title": "Wikipedia: Saint Lawrence",
+            "url": "https://en.wikipedia.org/wiki/Saint_Lawrence"
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-09-29",
+            "note": "New card generated with the Cecilia, Dominic and Moses the Black cards as style references"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Gridiron redrawn twice until it read as a grill lying flat"
+          },
+          {
+            "date": "2026-09-29",
+            "note": "Face edited to separate him from Stephen"
+          }
+        ]
       }
     }
   ]
