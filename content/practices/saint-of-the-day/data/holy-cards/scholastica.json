@@ -1,0 +1,44 @@
+{
+  "id": "scholastica",
+  "feast": {
+    "month": 2,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Scholastica",
+    "pt-BR": "Santa Escolástica"
+  },
+  "patronOf": {
+    "en-US": "Patron of nuns",
+    "pt-BR": "Padroeira das monjas"
+  },
+  "prayerExcerpt": {
+    "en-US": "She could do more, because she loved more.",
+    "pt-BR": "Pôde mais aquela que mais amou."
+  },
+  "meta": {
+    "face": "A woman of about forty with a soft, round, fair face, grey-blue eyes, gently arched light-brown brows, rosy cheeks and a warm, quiet smile; her gaze is lifted a little upward.",
+    "basis": "No portrait or description survives; Gregory's Dialogues give only her love, her prayer and the dove. The face is an artistic choice that keeps her apart from the other nuns of this batch: younger, round-faced and smiling.",
+    "excerpt": "Gregory the Great, Dialogues II.33: 'illa plus potuit, quae amplius amavit' (our rendering of the Latin in both languages)",
+    "sources": [
+      {
+        "title": "Gregory the Great, Dialogues, book II, ch. 33–34 (1608 translation, ed. 1911)",
+        "url": "https://www.tertullian.org/fathers/gregory_02_dialogues_book2.htm"
+      },
+      {
+        "title": "Gregory the Great, Dialogi, liber II (Latin, Wikisource)",
+        "url": "https://la.wikisource.org/wiki/Dialogi_(Gregorius_Magnus)/Liber_II"
+      },
+      {
+        "title": "Wikipedia, Scholastica (attributes, Kleinmariazell altar)",
+        "url": "https://en.wikipedia.org/wiki/Scholastica"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-1.md."
+      }
+    ]
+  }
+}

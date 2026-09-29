@@ -1,0 +1,451 @@
+{
+  "batch": 3,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-3.md",
+  "cards": [
+    {
+      "id": "timothy_titus",
+      "letter": "T",
+      "feast": {
+        "month": 1,
+        "day": 26
+      },
+      "name": {
+        "en-US": "Sts. Timothy and Titus",
+        "pt-BR": "Santos Timóteo e Tito"
+      },
+      "patronOf": {
+        "en-US": "Bishops, companions of St. Paul",
+        "pt-BR": "Bispos, companheiros de São Paulo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Go into all the world, and proclaim the Gospel.",
+        "pt-BR": "Ide pelo mundo inteiro e anunciai o Evangelho!"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-26.json communionAntiphon, first line",
+      "subject": "Two early bishops side by side, half-length. Left, Timothy: a white chlamys-like chasuble with a plain white pallium, holding a closed codex of Paul's letters against his chest. Right, Titus: a deep-red chasuble with a white pallium, one hand raised in blessing, the other on a bishop's staff with a simple cross. No mitres. Behind them, Ephesus: the great marble theatre on the hillside and the colonnaded harbour street running down to the sea, with a small ship bound for Crete on the horizon.",
+      "face": "Timothy (left): a slender young man of about twenty-five with a slim, narrow face and a gently pointed chin — a slender, straight nose, gentle, slightly hooded hazel eyes, thin, faintly arched brows, smooth cheeks and a soft, small mouth; short straight light-brown hair with a soft fringe, a sparse, short, fair-brown beard rounded along the jaw, and a gentle, slightly lowered gaze. Titus (right): a clean-shaven man of about forty-five with a square face — a broad, flat forehead, a short, straight nose with a broad bridge, narrow, deep-set dark eyes under thick straight black brows that nearly meet, flat cheeks, a strong square jaw and a wide, thin-lipped mouth; olive complexion, black hair cut short in a straight Roman fringe with grey at the temples, and a steady, direct gaze. Not a beardless youth, not the thirties man with brown curls.",
+      "refs": [
+        "philip_james",
+        "ambrose",
+        "nicholas"
+      ],
+      "basis": "The Painter's Manual gives Titus as beardless and Timothy (on his Byzantine feast, 22 January) as young with a rounded beard; Titus is made older because he was already Paul's companion at the Jerusalem meeting (Gal 2:1), before Timothy joined him (Acts 16:1), and Timothy's youth is from 1 Tim 4:12.",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), pp. 315 (Titus) and 392 (Timothy, 22 January)",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Wikimedia Commons, Saint Timothy (icon)",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Timothy.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Fresco of Saint Titos",
+          "url": "https://commons.wikimedia.org/wiki/File:Fresco_of_Saint_Titos.jpg"
+        }
+      ],
+      "catalogMatch": "Ss. Timothy and Titus"
+    },
+    {
+      "id": "cyril_methodius",
+      "letter": "C",
+      "feast": {
+        "month": 2,
+        "day": 14
+      },
+      "name": {
+        "en-US": "Sts. Cyril and Methodius",
+        "pt-BR": "Santos Cirilo e Metódio"
+      },
+      "patronOf": {
+        "en-US": "Apostles of the Slavs, patrons of Europe",
+        "pt-BR": "Apóstolos dos eslavos, padroeiros da Europa"
+      },
+      "prayerExcerpt": {
+        "en-US": "These are holy men who became friends of God, glorious heralds of divine truth.",
+        "pt-BR": "Estes são homens santos, que se tornaram amigos de Deus, gloriosos arautos da verdade divina."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-14.json entranceAntiphon (pt-BR three lines joined)",
+      "subject": "Two brothers side by side, half-length, holding between them an unrolled parchment scroll written with the letters of the Slavonic alphabet. Left, Cyril: a monk in a black habit and a black monastic hood covering his head, a small cross on a cord. Right, Methodius: an archbishop in a gold chasuble with a white pallium and a white mitre, holding a Gospel book and a staff with a double-barred cross. Behind them, the green valley of the Morava river in Moravia with wooded hills and a small round stone church.",
+      "face": "Cyril (left): a thin, pale, scholarly man of about forty with an inverted-triangle face — a tall, broad forehead under the monastic hood narrowing sharply to the chin; a long, slender, slightly hooked nose; large, dark, prominent, intelligent eyes under straight black brows; smooth, flat cheeks; a small, thin mouth; a long, narrow black beard and a calm, inward gaze. Methodius (right): a man of about sixty with a broad, heavy, trapezoid face, wider at the jaw than at the brow — a large nose with a broad, fleshy, rounded tip; small, kind eyes creased at the corners under heavy dark eyebrows; full cheeks; a heavy jaw under the beard; a full mouth; a long, full iron-grey beard with darker streaks and a kindly, fatherly gaze. Methodius's beard is grey, not white.",
+      "refs": [
+        "philip_james",
+        "athanasius",
+        "benedict"
+      ],
+      "basis": "Eastern and Western tradition (the 1848 Troyan Monastery fresco by Zahari Zograf, Matejko's 1885 painting) shows the younger Cyril with a dark beard and the elder Methodius with a grey or white one; Methodius was the elder brother, and Cyril, the monk, died at about forty-two in Rome in 869.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Zahari Zograf, Sts. Cyril and Methodius, Troyan Monastery (1848)",
+          "url": "https://commons.wikimedia.org/wiki/File:Sv_Kiril_Metodij_Zahari_Zograf_Trojanski_mon_1848.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Jan Matejko, Sts. Cyril and Methodius (1885)",
+          "url": "https://commons.wikimedia.org/wiki/File:%C5%9Awi%C4%99ci_Cyryl_i_Metody_Jan_Matejko.jpg"
+        },
+        {
+          "title": "Wikipedia, Saints Cyril and Methodius",
+          "url": "https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius"
+        }
+      ],
+      "catalogMatch": "Ss Cyril, monk, and Methodius"
+    },
+    {
+      "id": "john_baptist_de_la_salle",
+      "letter": "J",
+      "feast": {
+        "month": 4,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. John Baptist de la Salle",
+        "pt-BR": "São João Batista de la Salle"
+      },
+      "patronOf": {
+        "en-US": "Patron of teachers",
+        "pt-BR": "Padroeiro dos professores"
+      },
+      "prayerExcerpt": {
+        "en-US": "Raise up, we pray, teachers in your Church ready to devote themselves wholeheartedly to the human and Christian formation of the young.",
+        "pt-BR": "Suscitai na vossa Igreja educadores que se dediquem de todo o coração à formação humana e cristã da juventude."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-07.json collect, second line (capitalised)",
+      "subject": "A French priest, half-length, in a black soutane and a black mantle with the white two-tailed rabat (bands) at the throat. One hand rests on the shoulder of a small schoolboy in a plain coat who holds an open primer; the other points gently upward. A slate and a book lie on a school desk beside him. Behind him, the city of Reims with the Gothic west front and towers of Reims Cathedral, where he was a canon.",
+      "face": "A clean-shaven man of about sixty with an oval face and full cheeks — a long, straight nose with a fine ridge, round dark-brown eyes under softly arched brows, a rounded chin with a small dimple and a small, curved mouth in a gentle, kindly half-smile; soft grey hair brushed back and falling to the collar. Not thin or wasted, and the hair grey rather than snow-white.",
+      "refs": [
+        "vincent_de_paul",
+        "alphonsus_liguori",
+        "philip_neri"
+      ],
+      "basis": "The official portrait of the Founder, dated 1734 and attributed to Pierre Léger, kept in the Brothers' archives in Rome: clean-shaven, grey hair to the collar, a long nose, a gentle expression, the black habit with the white rabat.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, portrait of Jean-Baptiste de La Salle (after Pierre Léger)",
+          "url": "https://commons.wikimedia.org/wiki/File:Jean_baptiste_de_la_Salle.jpg"
+        },
+        {
+          "title": "Archives lasalliennes, Portraits de saint Jean-Baptiste de La Salle",
+          "url": "https://lasalle-po.org/2026/05/05/archives-lasalliennes-portraits-de-saint-jean-baptiste-de-la-salle/"
+        },
+        {
+          "title": "Wikipedia, Jean-Baptiste de La Salle (patron of teachers, 1950)",
+          "url": "https://en.wikipedia.org/wiki/Jean-Baptiste_de_La_Salle"
+        }
+      ],
+      "catalogMatch": "Saint John Baptist de la Salle"
+    },
+    {
+      "id": "teresa_calcutta",
+      "letter": "T",
+      "feast": {
+        "month": 9,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Teresa of Calcutta",
+        "pt-BR": "Santa Teresa de Calcutá"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Missionaries of Charity",
+        "pt-BR": "Fundadora das Missionárias da Caridade"
+      },
+      "prayerExcerpt": {
+        "en-US": "To serve Christ in our afflicted brothers and sisters.",
+        "pt-BR": "Servir a Cristo em nossos irmãos aflitos."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/09-05.json collect, fourth line (capitalised)",
+      "subject": "A small, elderly nun, half-length, in a white cotton sari bordered with three blue stripes (one broad, two narrow), draped over her head and shoulders, a small wooden crucifix pinned at her left shoulder and a rosary in her joined hands. Beside her, a small sick child wrapped in a white cloth rests against her arm. Behind her, Kolkata: the Home of the Pure Heart (Nirmal Hriday) at Kalighat, with palms and the river in soft evening light.",
+      "face": "A small woman of about seventy, slightly stooped, with a small face broad at the cheekbones and tapering to a firm, pointed chin — a strong nose curving slightly downward, deep-set, hooded brown eyes under thin, low brows, prominent cheekbones and a wide, thin-lipped mouth in a warm, gentle smile; the face softly lined with age. Idealise the wrinkles into a few soft lines.",
+      "refs": [
+        "therese",
+        "margaret_mary",
+        "elizabeth_hungary"
+      ],
+      "basis": "Her photographs from life (the Wikipedia lead photograph): the white sari with blue stripes over the head, the crucifix pinned at the left shoulder, a small lined face with a broad smile.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Mother Teresa (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Mother_Teresa_1.jpg"
+        },
+        {
+          "title": "Wikipedia, Mother Teresa (the sari, 1950; Nirmal Hriday, 1952)",
+          "url": "https://en.wikipedia.org/wiki/Mother_Teresa"
+        }
+      ],
+      "catalogMatch": "Saint Teresa of Calcutta"
+    },
+    {
+      "id": "linus",
+      "letter": "L",
+      "feast": {
+        "month": 9,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Linus",
+        "pt-BR": "São Lino"
+      },
+      "patronOf": {
+        "en-US": "Successor of St. Peter, martyr",
+        "pt-BR": "Sucessor de São Pedro, mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "The blessed apostles, then, having founded and built up the Church, committed into the hands of Linus the office of the episcopate.",
+        "pt-BR": "Os bem-aventurados apóstolos, tendo então fundado e edificado a Igreja, confiaram às mãos de Lino o ofício do episcopado."
+      },
+      "excerptSource": "St. Irenaeus, Against Heresies III.3.3 (ANF translation, public domain, verbatim), pt-BR rendered from it",
+      "subject": "An early pope, half-length, without a tiara: a deep-red chasuble and over it a plain white woollen pallium marked with black crosses. He holds a book (the tradition that he wrote the acts of St. Peter) and a martyr's palm. Behind him, his birthplace, Volterra in Etruria: a walled hill town of stone towers above rolling Tuscan hills.",
+      "face": "A man of about fifty with a broad, hexagonal face — a low, wide forehead and wide, flat cheekbones angling to a broad jaw; a straight, wide nose with a blunt tip; wide-set, round dark eyes under thick, gently arched brows; a rounded chin under the beard; a straight, full mouth; dark hair greying at the temples and receding at the brow, a full, rounded salt-and-pepper beard of medium length, and a steady, gentle gaze. Beard neither white nor tapering.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "The Painter's Manual gives Linus, of the Seventy, 'a rounded beard'; the Menologion of Basil II shows him older and balding with a rounded beard. The face takes the rounded beard of both and a middle age between them.",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 313 (Linus)",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Wikimedia Commons, Menologion of Basil II, portrait of Linus",
+          "url": "https://commons.wikimedia.org/wiki/File:Menologion_of_Basil_II_-_Patrobulus,_Hermas,_Linus,_Caius,_Philologus_of_70_disciples_(Portrait_of_Linus).jpg"
+        },
+        {
+          "title": "Divinum Officium, Breviary lesson for St. Linus, 23 September",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/09-23.txt"
+        },
+        {
+          "title": "Irenaeus, Against Heresies III.3 (New Advent)",
+          "url": "https://www.newadvent.org/fathers/0103303.htm"
+        }
+      ],
+      "catalogMatch": "[ ] Linus"
+    },
+    {
+      "id": "cletus",
+      "letter": "C",
+      "feast": {
+        "month": 4,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Cletus",
+        "pt-BR": "São Cleto"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "We ask that through their merits and prayers, in all things we may be defended by your protecting help.",
+        "pt-BR": "Por seus méritos e preces concedei-nos sem cessar a vossa proteção."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json, Roman Canon (Eucharistic Prayer I), Communicantes after the names 'Linus, Cletus' (en-US lines 77-78, pt-BR line 76)",
+      "subject": "An aged early pope, half-length, without a tiara: a gold chasuble with a plain white pallium marked with black crosses, his right hand raised in blessing, his left holding a simple staff topped with a cross, a martyr's palm at his side. Behind him, the Vatican hill above the Tiber, where he was buried beside St. Peter, with umbrella pines and the Roman skyline.",
+      "face": "A lean old man of about seventy with a narrow, bony face — a broad, bony forehead, sharp, high cheekbones, a short, sharp, straight nose, small, very bright eyes set close together under bristling, upswept grey brows, a long, jutting chin under the beard and a thin mouth with a long upper lip; close-cropped silver hair, a long silver-grey beard divided into two points at the end, and a kind gaze. Not broad, not rounded, not heavy-set.",
+      "refs": [
+        "gregory_great",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "The images of Cletus show an old, bearded pope (Palma il Giovane, Venice, 1592-93; the statue at San Cleto, Rome); the forked beard is an artistic choice to keep him apart from the other white-bearded prelates.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Palma il Giovane, Papa Cleto (1592-93), Gesuiti, Venice",
+          "url": "https://commons.wikimedia.org/wiki/File:Interior_of_Chiesa_dei_Gesuiti_(Venice)_-_sacristy_-_Papa_Cleto_-_1592-1593_-_by_Palma_il_Giovane(cropped).jpg"
+        },
+        {
+          "title": "Wikimedia Commons, statue of S. Cleto, San Basilio, Rome",
+          "url": "https://commons.wikimedia.org/wiki/File:Roma_(Q._San_Basilio)_-_S._Cleto_16_(cropped).JPG"
+        },
+        {
+          "title": "Divinum Officium, Mass and Breviary of Sts. Cletus and Marcellinus, 26 April",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/04-26.txt"
+        }
+      ],
+      "catalogMatch": "[ ] Cletus"
+    },
+    {
+      "id": "chrysogonus",
+      "letter": "C",
+      "feast": {
+        "month": 11,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Chrysogonus",
+        "pt-BR": "São Crisógono"
+      },
+      "patronOf": {
+        "en-US": "Martyr, teacher of St. Anastasia",
+        "pt-BR": "Mártir, mestre de Santa Anastácia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Him who is truly God I worship in mind and in prayer.",
+        "pt-BR": "Aquele que é verdadeiramente Deus, eu o venero com a mente e com a oração."
+      },
+      "excerptSource": "Roman Breviary (pre-1960), lesson for St. Chrysogonus, 24 November: 'Ego eum, qui vere est Deus, mente et oratione veneror' (his answer to Diocletian), translated; Divinum Officium horas/Latin/Sancti/11-24o.txt",
+      "subject": "A Roman officer of high rank, half-length: a bronze cuirass, a crimson military cloak fastened at the shoulder, and a light iron chain hanging from one wrist (his two years in prison). In one hand a folded letter sealed with a cross (his letters to Anastasia), in the other a martyr's palm. Behind him, the lagoon and shore of Aquileia on the Adriatic, where he was beheaded and his body thrown into the sea, with low marshes and a Roman town wall.",
+      "face": "A man of about forty-five with a compact, square face and a low forehead — a nose with a flattened bridge and a broad tip; narrow, wide-set dark eyes under straight, low brows; wide, flat cheekbones; a strong, wide jaw with a dimpled chin; a thin, firm mouth; close-cropped iron-grey hair, a short, square-trimmed black beard streaked with grey, and a calm, resolute gaze. Clearly older and heavier-built than George and Martin.",
+      "refs": [
+        "george",
+        "sebastian",
+        "patrick"
+      ],
+      "basis": "Before the 14th century Chrysogonus was shown as a high-ranking Roman officer in cloak and cuirass (christianiconography.info), later as a knight (Giambono, San Trovaso, c. 1444); no source gives his features, so the age and grey are chosen to keep him apart from the young soldier saints.",
+      "sources": [
+        {
+          "title": "christianiconography.info, St. Chrysogonus",
+          "url": "https://www.christianiconography.info/chrysogonus.html"
+        },
+        {
+          "title": "Wikimedia Commons, Michele Giambono, St. Chrysogonus on horseback, San Trovaso",
+          "url": "https://commons.wikimedia.org/wiki/File:San_Trovaso_(Venice)_-_San_Cris%C3%B3gono_a_caballo_-_Michele_Giambono.jpg"
+        },
+        {
+          "title": "Divinum Officium, Breviary lesson for St. Chrysogonus, 24 November",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/11-24o.txt"
+        }
+      ],
+      "catalogMatch": "[ ] Chrysogonus"
+    },
+    {
+      "id": "john_paul_martyrs",
+      "letter": "J",
+      "feast": {
+        "month": 6,
+        "day": 26
+      },
+      "name": {
+        "en-US": "Sts. John and Paul",
+        "pt-BR": "Santos João e Paulo"
+      },
+      "patronOf": {
+        "en-US": "Brothers and martyrs of Rome",
+        "pt-BR": "Irmãos e mártires de Roma"
+      },
+      "prayerExcerpt": {
+        "en-US": "The same faith and the same passion made them truly brothers.",
+        "pt-BR": "A mesma fé e a mesma paixão os fizeram verdadeiramente irmãos."
+      },
+      "excerptSource": "Roman Missal (1962), collect of Sts. John and Paul, 26 June: 'quos eadem fides et passio vere fecit esse germanos', translated; Divinum Officium missa/Latin/Sancti/06-26.txt",
+      "subject": "Two Roman brothers side by side, half-length, officers of the imperial household in white tunics with purple stripes and white mantles fastened at the shoulder, each holding a martyr's palm; the elder, John, also holds a jewelled martyr's crown. Behind them, the Caelian Hill in Rome: the Romanesque bell tower and arcaded porch of the basilica of Sts. John and Paul, built over their house, among cypresses.",
+      "face": "John (left, the elder): a man of about forty with a broad, heavy-jawed, rectangular face — a thick, straight nose, small dark eyes set close under a heavy, straight brow ridge, flat cheekbones, a wide, squared chin under the beard and a straight, firm mouth; close-cropped black hair, a short, neatly trimmed black beard and a grave, steady gaze. Paul (right): a clean-shaven man of about twenty-eight with a narrower face and a delicate, pointed chin — a small, straight nose, large light-brown eyes under high, arched brows, smooth cheeks and a soft, full mouth; short light-brown hair combed forward in a straight Roman fringe and a gentle expression. John's hair is straight and cropped, not curly.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "The mosaic procession of martyrs at Sant'Apollinare Nuovo, Ravenna, shows both as short-haired Roman men in white pallia carrying crowns; the Breviary makes them brothers who served Constantia. The beard and age that separate John from Paul are an artistic choice.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Sts. John and Paul, Sant'Apollinare Nuovo, Ravenna",
+          "url": "https://commons.wikimedia.org/wiki/File:Sancti_Iohannis_Paulus.jpg"
+        },
+        {
+          "title": "Wikipedia, Saints John and Paul",
+          "url": "https://en.wikipedia.org/wiki/Saints_John_and_Paul"
+        },
+        {
+          "title": "Divinum Officium, Mass of Sts. John and Paul, 26 June",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Sancti/06-26.txt"
+        }
+      ],
+      "catalogMatch": "[ ] John and Paul"
+    },
+    {
+      "id": "alexander",
+      "letter": "A",
+      "feast": {
+        "month": 5,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Alexander",
+        "pt-BR": "Santo Alexandre"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "On the day before he was to suffer, he took bread in his holy and venerable hands.",
+        "pt-BR": "Na véspera de sua paixão, ele tomou o pão em suas santas e veneráveis mãos."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json, Roman Canon (Eucharistic Prayer I), institution narrative (en-US lines 106 and 108, pt-BR lines 103 and 105, rubrics omitted); the Roman Breviary lesson for 3 May credits him with adding 'Qui pridie quam pateretur' to the Canon",
+      "subject": "A young early pope, half-length, without a tiara: white vestments with a plain white pallium marked with black crosses, holding a golden chalice with the Host above it, and a small silver holy-water vessel with an aspergillum beside him (he is credited with the blessing of water with salt). A martyr's palm. Behind him, the Via Nomentana outside Rome, lined with umbrella pines and ancient tombs.",
+      "face": "A clean-shaven young man of about thirty with a smooth oval face — a long, straight nose running down from the brow on a narrow bridge, large dark almond-shaped eyes under high, arched brows, smooth cheekbones, a small rounded chin and a small, full mouth; short chestnut hair combed forward in a straight fringe, and a serene, open gaze. Straight hair, not curls.",
+      "refs": [
+        "gregory_great",
+        "augustine",
+        "aloysius_gonzaga"
+      ],
+      "basis": "The 8th-century fresco of 'Sanctus Alexander Papa' in Santa Maria Antiqua, Rome: a beardless young pope with short hair, large eyes, a white pallium and a jewelled book. The Breviary lesson gives the Qui pridie and the holy water.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Sanctus Alexander Papa, Santa Maria Antiqua",
+          "url": "https://commons.wikimedia.org/wiki/File:Sanctus_Alexander_Papa_Sancta_Maria_Antiqua(cropped).jpg"
+        },
+        {
+          "title": "Divinum Officium, Breviary lesson for Sts. Alexander, Eventius and Theodulus, 3 May",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/horas/Latin/Sancti/05-03r.txt"
+        },
+        {
+          "title": "Catholic Encyclopedia (1913), Pope St. Alexander I",
+          "url": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Pope_St._Alexander_I"
+        }
+      ],
+      "catalogMatch": "[ ] Alexander"
+    },
+    {
+      "id": "anastasia",
+      "letter": "A",
+      "feast": {
+        "month": 12,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Anastasia",
+        "pt-BR": "Santa Anastácia"
+      },
+      "patronOf": {
+        "en-US": "Martyr of Sirmium",
+        "pt-BR": "Mártir de Sírmio"
+      },
+      "prayerExcerpt": {
+        "en-US": "Admit us, we beseech you, into their company, not weighing our merits, but granting us your pardon.",
+        "pt-BR": "Concedei, não por nossos méritos, mas por vossa bondade, o convívio dos Apóstolos e Mártires."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json, Roman Canon (Eucharistic Prayer I), Nobis quoque, which names 'Agnes, Cecilia, Anastasia' (en-US lines 198-201, pt-BR lines 190-192)",
+      "subject": "A young Roman noblewoman, half-length, in a moss-green gown with a dark wine-coloured mantle, a string of pearls bound in her hair. In one hand a small glass phial of healing ointment (her Greek title, Deliverer from Potions, and her care for Christians in prison), in the other a martyr's palm; a small flame glows in a bowl at her side for her death by fire. Behind her, Sirmium on the broad river Sava in the Pannonian plain, with Roman walls and poplars.",
+      "face": "A young woman of about twenty-five with a fair, narrow, diamond-shaped face — high cheekbones, a slim nose with a slightly upturned tip, wide-set grey eyes under fine, straight light brows, a narrow pointed chin and a small, full mouth; light auburn hair braided and coiled at the nape under a pearl fillet (not loose, no veil), and a composed, compassionate gaze.",
+      "refs": [
+        "cecilia",
+        "lucy",
+        "agnes"
+      ],
+      "basis": "Carpaccio's St. Anastasia in the Zadar polyptych, where her relics are kept: light auburn hair under a pearled fillet, a green gown, a dark mantle and a palm; the Orthodox icon gives the phial of the Pharmakolytria. Braiding the hair is an artistic choice to keep her apart from the long-haired virgin martyrs.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Vittore Carpaccio, St. Anastasia, Zadar polyptych",
+          "url": "https://commons.wikimedia.org/wiki/File:St.Anastasia,_Zadar_Polyptych_by_Vittore_Carpaccio.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, St. Anastasia Pharmakolytria (icon)",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Anastasia.jpg"
+        },
+        {
+          "title": "christianiconography.info, St. Anastasia",
+          "url": "https://www.christianiconography.info/anastasia.html"
+        },
+        {
+          "title": "Divinum Officium, Second Mass of Christmas with the commemoration of St. Anastasia",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/Latin/Sancti/12-25m2.txt"
+        }
+      ],
+      "catalogMatch": "[ ] Anastasia"
+    }
+  ]
+}

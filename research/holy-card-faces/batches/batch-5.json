@@ -1,0 +1,455 @@
+{
+  "batch": 5,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-5.md",
+  "cards": [
+    {
+      "id": "jose_anchieta",
+      "letter": "J",
+      "feast": {
+        "month": 6,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. José de Anchieta",
+        "pt-BR": "São José de Anchieta"
+      },
+      "patronOf": {
+        "en-US": "Apostle of Brazil",
+        "pt-BR": "Apóstolo do Brasil"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we faithfully serve the Gospel, becoming all things to all.",
+        "pt-BR": "Sirvamos fielmente o Evangelho, tornando-nos tudo para todos."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-09/brazil.json collect (pt-BR verbatim; en-US is our faithful rendering, the formulary has no English)",
+      "subject": "A Jesuit in a plain black soutane with a black sash and a small crucifix on a cord, half-length, bending slightly forward with a long wooden staff in his right hand, tracing Latin verses in the wet sand of the beach; a small book held to his chest with the other hand. Behind him the wide pale beach of Iperoig (Ubatuba) at dawn, rows of verses written in the sand, gentle surf, seagulls, green forested hills of the Serra do Mar, a simple wooden cross on the dunes. Keep the scene inside the arched window.",
+      "face": "A lean man of about thirty, slight and a little stooped, with an olive, sun-tanned complexion and a face broad at the forehead and narrowing to a small, pointed chin — a long, thin, straight nose, blue-grey eyes set rather close under light, slightly arched brows, hollow cheeks under modest cheekbones and a wide mouth; short straight dark-brown hair, a sparse, thin dark beard along the jaw (not full), and eyes lowered to the sand with a cheerful, kindly half-smile.",
+      "refs": [
+        "francis_xavier",
+        "ignatius_loyola",
+        "aloysius_gonzaga"
+      ],
+      "basis": "Simão de Vasconcelos's written portrait (medium height, thin, olive-skinned, bluish eyes, broad forehead, long nose, sparse beard, cheerful face), at the age he wrote the Poem to the Virgin on the beach of Iperoig (1563, aged 29); Benedito Calixto's paintings give the scene and the black soutane.",
+      "sources": [
+        {
+          "title": "Prefeitura de Anchieta (ES), Você sabe quem foi José de Anchieta? (quotes Vasconcelos's portrait)",
+          "url": "https://www.anchieta.es.gov.br/noticias/82241/voce-sabe-quem--foi-jose-de-anchieta"
+        },
+        {
+          "title": "Wikipédia, José de Anchieta (Calixto portrait 1902, scoliosis, Poema à Virgem)",
+          "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_de_Anchieta"
+        },
+        {
+          "title": "Joaquim Ribeiro, Anchieta e o poema da Virgem (Museu Nacional/UFRJ)",
+          "url": "https://obrasraras.museunacional.ufrj.br/o/Rev_Nac_Edu_18-19/3-RIBEIRO,%20Joaquim.%20Anchieta%20e%20o%20poema%20da%20Virgem.pdf"
+        }
+      ],
+      "catalogMatch": "São José de Anchieta"
+    },
+    {
+      "id": "benedito",
+      "letter": "B",
+      "feast": {
+        "month": 10,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Benedict the Moor",
+        "pt-BR": "São Benedito"
+      },
+      "patronOf": {
+        "en-US": "Patron of cooks",
+        "pt-BR": "Padroeiro dos cozinheiros"
+      },
+      "prayerExcerpt": {
+        "en-US": "He humbled himself in all things and found mercy before God.",
+        "pt-BR": "Humilhou-se em tudo e perante Deus encontrou misericórdia."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-05/brazil.json entranceAntiphon, first clause (pt-BR verbatim; en-US is our faithful rendering, the formulary has no English)",
+      "subject": "A Franciscan lay brother in a brown habit with a hood and white knotted cord, half-length, holding up the fold of his habit with both hands; the fold is full of red and pink roses, where he had hidden loaves for the poor (the miracle of the bread turned into flowers). A wooden rosary at the cord. No Child Jesus. Behind him the cloister garden of the friary of Santa Maria di Gesù above Palermo, with lemon trees, a stone arcade and Monte Pellegrino and the bay in the distance.",
+      "face": "An Afro-Sicilian man of about sixty with deep ebony-brown skin and a broad, full face with a wide, square jaw and a short chin — rounded cheekbones that lift when he smiles, a broad, flat-bridged nose, dark eyes narrowed with laughter lines under thick, straight brows, and full lips; close-cropped tightly curled black hair greying at the temples around a small Franciscan tonsure, clean-shaven, and the eyes lowered to the roses with a broad, warm smile.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "moses_the_black"
+      ],
+      "basis": "Son of enslaved Africans, called 'the Moor' and 'the Black'; the Portuguese and Brazilian image type shows him beardless with close curls, holding flowers from the miracle of the loaves. He is older and rounder here, as in his last years as the friary cook, to keep him apart from Martin de Porres.",
+      "sources": [
+        {
+          "title": "Vitruvius, São Benedito e sua devoção nos conventos franciscanos do Nordeste colonial (Italian and Portuguese image types)",
+          "url": "https://vitruvius.com.br/revistas/read/arquitextos/20.238/7662"
+        },
+        {
+          "title": "Wikipedia, Benedict the Moor",
+          "url": "https://en.wikipedia.org/wiki/Benedict_the_Moor"
+        },
+        {
+          "title": "National Gallery of Art, Saint Benedict of Palermo, attr. José Montes de Oca, c. 1734 (photo on Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Benedict_of_Palermo_NGA_2022.jpg"
+        }
+      ],
+      "catalogMatch": "São Benedito, o Negro"
+    },
+    {
+      "id": "frei_galvao",
+      "letter": "A",
+      "feast": {
+        "month": 10,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Anthony Galvão",
+        "pt-BR": "São Frei Galvão"
+      },
+      "patronOf": {
+        "en-US": "First Brazilian-born saint",
+        "pt-BR": "Primeiro santo nascido no Brasil"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Son of Man came not to be served, but to serve.",
+        "pt-BR": "O Filho do homem não veio para ser servido, mas para servir."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-25/brazil.json communionAntiphon (Mt 20:28), first clause (pt-BR verbatim; en-US is our faithful rendering, the formulary has no English)",
+      "subject": "A Franciscan friar in a dark greyish-brown habit with a hood and white knotted cord, half-length, seated at a small table, rolling a tiny slip of paper into a pill; beside him a small dish of the little rolled paper pills, an open breviary, a quill and inkpot. On the wall or above him a small image of the Immaculate Conception. Behind him, through an arch, the white colonial church and convent of the Mosteiro da Luz in São Paulo with its bell tower, palm trees and a blue sky.",
+      "face": "A sturdy man of about sixty, clean-shaven, with a full, round face — soft, low cheekbones, a long, slender, straight nose, small almond-shaped dark eyes turned slightly up at the outer corners under thick, straight dark brows, a small rounded chin and a small mouth in a warm, quiet smile; a thick crown of short greying dark hair around the Franciscan tonsure, and a kindly gaze.",
+      "refs": [
+        "anthony_padua",
+        "bonaventure",
+        "francis_assisi"
+      ],
+      "basis": "The portrait by an unidentified painter, c. 1850 (Commons), shows a clean-shaven friar with a full round face, a thick ring of dark hair and a slight smile, in a dark habit with a white cord; aged to about sixty, when he was building the Mosteiro da Luz and began giving the pills.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, unidentified painter, Frei Galvão (c. 1850)",
+          "url": "https://commons.wikimedia.org/wiki/File:An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg"
+        },
+        {
+          "title": "Museu de Arte Sacra de São Paulo, Frei Galvão e as pílulas",
+          "url": "https://museuartesacra.org.br/acervo/frei-galvao-e-as-pilulas/"
+        },
+        {
+          "title": "Wikipedia, Frei Galvão",
+          "url": "https://en.wikipedia.org/wiki/Frei_Galv%C3%A3o"
+        }
+      ],
+      "catalogMatch": "Santo Antônio de Santana Galvão"
+    },
+    {
+      "id": "inacio_azevedo",
+      "letter": "I",
+      "feast": {
+        "month": 7,
+        "day": 17
+      },
+      "name": {
+        "en-US": "Bl. Ignatius de Azevedo and Companions",
+        "pt-BR": "Beato Inácio de Azevedo e companheiros"
+      },
+      "patronOf": {
+        "en-US": "The Forty Martyrs of Brazil",
+        "pt-BR": "Os Quarenta Mártires do Brasil"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant us to profess steadfastly the faith we received from our forebears.",
+        "pt-BR": "Concedei-nos professar constantemente a fé que recebemos de nossos antepassados."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-17/brazil.json collect, middle clause (pt-BR verbatim; en-US is our faithful rendering, the formulary has no English)",
+      "subject": "Two Jesuits in black soutanes on the deck of a sailing ship at sea, half-length. In front, Bl. Ignatius de Azevedo holds up before him with both hands a framed copy of the icon of Our Lady of St. Luke (Salus Populi Romani: the Virgin in a dark blue mantle holding the Child). Just behind his shoulder, one young companion, a teenage Jesuit novice, hands joined in prayer, looking up. Both hold martyrs' palms or have them nearby. Behind them the mast, rigging and a red-cross sail of the ship Santiago, a calm blue Atlantic and the green volcanic cliffs of La Palma (Tazacorte) on the horizon. No weapons, no violence. Keep the scene inside the arched window.",
+      "face": "Ignatius: a nobleman of about forty-four with a long, lean face, a high forehead and a long, straight-sided jaw — a long nose drooping slightly at the tip, wide-set, earnest dark eyes under strongly arched dark brows, high, narrow cheekbones and a firm mouth with a full lower lip; receding dark hair, a full dark-brown beard of medium length touched with grey, and eyes raised toward the icon. The companion: a slender boy of about seventeen with a fresh, broad-cheeked face — a short, slightly upturned nose, large, clear light eyes under straight fair brows, a square, cleft chin and a wide, eager mouth; beardless, with short fair-brown hair and an ardent look.",
+      "refs": [
+        "francis_xavier",
+        "ignatius_loyola",
+        "philip_james"
+      ],
+      "basis": "In every known image Azevedo is bearded, to show his middle age against the extreme youth of nearly all his companions, and holds the Madonna of St. Luke, with a ship as the other obligatory attribute (Via Spiritus 2008). The youngest named companion, António Correia of Porto (1553–1570), was about seventeen.",
+      "sources": [
+        {
+          "title": "Via Spiritus 15 (2008), Aspectos de devoção e iconografia dos Quarenta Mártires do Brasil",
+          "url": "https://ler.letras.up.pt/uploads/ficheiros/8299.pdf"
+        },
+        {
+          "title": "Wikipedia, Inácio de Azevedo",
+          "url": "https://en.wikipedia.org/wiki/In%C3%A1cio_de_Azevedo"
+        },
+        {
+          "title": "Wikipédia, Quarenta Mártires do Brasil",
+          "url": "https://pt.wikipedia.org/wiki/M%C3%A1rtires_do_Brasil"
+        }
+      ],
+      "catalogMatch": "Inácio de Azevedo e companheiros"
+    },
+    {
+      "id": "andre_soveral",
+      "letter": "A",
+      "feast": {
+        "month": 10,
+        "day": 3
+      },
+      "name": {
+        "en-US": "Sts. André de Soveral and Companions",
+        "pt-BR": "Santos Mártires de Cunhaú e Uruaçu"
+      },
+      "patronOf": {
+        "en-US": "Protomartyrs of Brazil",
+        "pt-BR": "Protomártires do Brasil"
+      },
+      "prayerExcerpt": {
+        "en-US": "Praised be the Most Blessed Sacrament!",
+        "pt-BR": "Louvado seja o Santíssimo Sacramento!"
+      },
+      "excerptSource": "Last words of St. Mateus Moreira at Uruaçu, 3 Oct 1645, as handed down by the Brazilian Church (Wikipédia, Santos Mártires de Cunhaú e Uruaçu; Consolata). Not from the formulary, whose collect is pt-BR only.",
+      "subject": "Inside the small whitewashed colonial chapel of Nossa Senhora das Candeias at the Engenho Cunhaú, half-length: in front, the old priest Fr. André de Soveral in a white Mass chasuble at a simple altar, raising the white Host in the elevation with both hands, candles on the altar. Beside him, slightly behind, the layman St. Mateus Moreira in the plain linen shirt and dark jacket of a 17th-century Brazilian farmer, kneeling in adoration with hands joined. Both have martyrs' palms nearby. Through the open chapel door, sugar-cane fields, coconut palms and the green coast of Rio Grande do Norte. Peaceful, no soldiers, no violence.",
+      "face": "André: an old priest of about seventy-three, clean-shaven, with a weathered, sun-browned, bony face, wide at the high cheekbones and narrowing to a long, square chin — a big, straight nose with a broad bridge, deep-set dark eyes under bushy white eyebrows and a firm, full-lipped mouth; a bald crown with a short fringe of white hair, the eyes lifted to the Host. Mateus: a sturdy man of about forty with weathered olive skin and a wide, short face with a broad, low forehead — a straight nose with a broad, rounded tip, round, wide-open dark eyes under thick, level black brows, heavy cheekbones, a rounded jaw and a wide, full mouth; short black hair, a neat black moustache and short chin beard, and a fervent upward gaze.",
+      "refs": [
+        "philip_james",
+        "philip_neri",
+        "alphonsus_liguori"
+      ],
+      "basis": "No portrait exists. André de Soveral was born c. 1572 and died at about seventy-three, killed at Cunhaú after the elevation at Mass; Mateus Moreira, a layman, is remembered for his last words. The faces are artistic choices from their ages and states of life.",
+      "sources": [
+        {
+          "title": "Wikipédia, Santos Mártires de Cunhaú e Uruaçu",
+          "url": "https://pt.wikipedia.org/wiki/Santos_M%C3%A1rtires_de_Cunha%C3%BA_e_Urua%C3%A7u"
+        },
+        {
+          "title": "Wikipedia, André de Soveral",
+          "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_de_Soveral"
+        },
+        {
+          "title": "Arquidiocese de Manaus, O Brasil tem 30 novos Santos (canonisation, 15 Oct 2017)",
+          "url": "https://arquidiocesedemanaus.org.br/2017/10/15/o-brasil-tem-30-novos-santos-papa-canoniza-martires-de-cunhau-e-uruacu/"
+        },
+        {
+          "title": "Consolata, Santos Mártires de Cunhaú e Uruaçu",
+          "url": "https://www.consolata.org.br/santos-martires-de-cunhau-e-uruacu"
+        }
+      ],
+      "catalogMatch": "André de Soveral"
+    },
+    {
+      "id": "blase",
+      "letter": "B",
+      "feast": {
+        "month": 2,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Blase",
+        "pt-BR": "São Brás"
+      },
+      "patronOf": {
+        "en-US": "Patron against ailments of the throat",
+        "pt-BR": "Protetor contra os males da garganta"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that we may rejoice in peace in this present life, and find help for life eternal.",
+        "pt-BR": "Concedei-nos, por sua intercessão, a paz neste mundo e a graça de chegar à vida eterna."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-03.json collect (both languages verbatim, en-US 'they' changed to 'we')",
+      "subject": "A bishop in a red chasuble with a gold orphrey, a jewelled white-and-gold mitre and a crozier resting in the crook of his arm, half-length, holding before him two tall lit candles crossed in a saltire and tied with a red ribbon, as in the blessing of throats. At his side a young mother presents a small boy who touches his throat. Small birds perched near him and a gentle deer at the edge of the scene recall his cave. Behind, the rocky hills of Sebaste in Cappadocia with a cave mouth, and the walled town below.",
+      "face": "A man of about forty-five, clean-shaven, with a short, wide, rounded face and ruddy apple cheeks — a short, straight nose, large, round blue-grey eyes under light, arched brows, a small, neat chin and a bow-shaped mouth; light-brown hair showing under the mitre, and a gentle smile turned down toward the boy.",
+      "refs": [
+        "nicholas",
+        "ambrose",
+        "augustine"
+      ],
+      "basis": "Western images always give him episcopal dress, most often with the candle the widow brought him (Golden Legend), and Memling's Lübeck panel shows a mild, clean-shaven, middle-aged bishop. The younger, ruddy face and light-brown hair are an artistic choice to keep him apart from the other mitred bishops; the smile comes from the Golden Legend.",
+      "sources": [
+        {
+          "title": "christianiconography.info, Saint Blaise",
+          "url": "https://www.christianiconography.info/blaise.html"
+        },
+        {
+          "title": "Golden Legend (Caxton), Life of S. Blase",
+          "url": "https://www.christianiconography.info/goldenLegend/blaise.htm"
+        },
+        {
+          "title": "Wikimedia Commons, Hans Memling, Passion Altarpiece (Lübeck, 1491), with St. Blaise on a wing",
+          "url": "https://commons.wikimedia.org/wiki/File:Hans_Memling_002.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Blase"
+    },
+    {
+      "id": "vincent_saragossa",
+      "letter": "V",
+      "feast": {
+        "month": 1,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Vincent of Saragossa",
+        "pt-BR": "São Vicente"
+      },
+      "patronOf": {
+        "en-US": "Patron of Lisbon and of vinedressers",
+        "pt-BR": "Padroeiro de Lisboa e dos vinhateiros"
+      },
+      "prayerExcerpt": {
+        "en-US": "That strong love by which the Martyr Saint Vincent triumphed over all bodily torments.",
+        "pt-BR": "O intenso amor que levou o diácono São Vicente a vencer todos os tormentos do martírio."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-22.json collect (both languages verbatim fragments)",
+      "subject": "A deacon in a rich crimson-and-gold brocade dalmatic over a white alb, half-length, holding a martyr's palm and a closed red book; behind his shoulder the X-shaped wooden rack (two crossed beams), and at the lower edge a round grey millstone. Two black ravens: one perched on the millstone, one in flight. Behind, a harbour at sunset with a small medieval ship under sail with a raven at its prow, the walls and towers of Valencia on the shore and the sea beyond.",
+      "face": "A young man of about twenty-two, clean-shaven, with a pale, full oval face, wide at the cheekbones — a straight nose with a narrow bridge, heavy-lidded brown eyes under thin, level brows, a small rounded chin and a small, closed mouth; straight chestnut-brown hair parted in the middle and falling thickly to the jaw, covering the ears (no fringe, no tonsure, no curls), the eyes gently lowered in grave recollection.",
+      "refs": [
+        "aloysius_gonzaga",
+        "sebastian",
+        "gregory_great"
+      ],
+      "basis": "Nuno Gonçalves's Lisbon panels (Vincent, patron of Lisbon) and Martorell show him beardless with straight chestnut hair to the jaw and a grave, lowered gaze. The rack, millstone and ravens are his own attributes, keeping him apart from Lawrence's gridiron.",
+      "sources": [
+        {
+          "title": "christianiconography.info, St. Vincent of Saragossa (rack, millstone, ship)",
+          "url": "https://www.christianiconography.info/vincent.html"
+        },
+        {
+          "title": "Wikimedia Commons, Nuno Gonçalves, Saint Vincent Panels (MNAA, Lisbon)",
+          "url": "https://commons.wikimedia.org/wiki/Category:Saint_Vincent_Panels"
+        },
+        {
+          "title": "Wikimedia Commons, Bernat Martorell, Altarpiece of Saint Vincent",
+          "url": "https://commons.wikimedia.org/wiki/File:Bernat_Martorell_-_Altarpiece_of_Saint_Vincent_-_Google_Art_Project.jpg"
+        },
+        {
+          "title": "Golden Legend (Caxton), Life of S. Vincent",
+          "url": "https://www.christianiconography.info/goldenLegend/vincent.htm"
+        }
+      ],
+      "catalogMatch": "Saint Vincent, deacon and martyr"
+    },
+    {
+      "id": "fabian",
+      "letter": "F",
+      "feast": {
+        "month": 1,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Fabian",
+        "pt-BR": "São Fabiano"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Suddenly a dove flying down lighted on his head.",
+        "pt-BR": "De repente, uma pomba desceu voando e pousou sobre sua cabeça."
+      },
+      "excerptSource": "Eusebius, Church History VI.29.3 (McGiffert tr., NPNF 1890, public domain, en-US verbatim); pt-BR is our faithful rendering",
+      "subject": "A pope in a white-and-gold cope with a jewelled morse over an alb, wearing a papal tiara, half-length, one hand raised in blessing and the other holding a closed book; a small white dove with a soft glow alighting on or just above his tiara, recalling his election. A martyr's palm at his side. Behind, a Roman landscape of the third century: the Appian Way with cypresses and umbrella pines and the entrance to the catacomb of St. Callixtus.",
+      "face": "A lean, clean-shaven man of about sixty-five with a long, fine-boned face — a thin nose with a high, narrow bridge and a slight hump, gentle downcast grey-blue eyes with drooping outer lids under fine brows sloping down at the ends, fine cheekbones over hollow cheeks, a long, narrow chin and a small, thin mouth; thick, short silver hair showing below the tiara, and a humble, quiet expression.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "Eusebius tells of the dove that settled on his head at his election; Giovanni di Paolo's Saints Fabian and Sebastian (National Gallery, London) paints him as a lean, clean-shaven old pope with a mild, lowered gaze. That keeps him apart from the heavy-set Leo and the bearded Gregory.",
+      "sources": [
+        {
+          "title": "Eusebius, Church History VI (New Advent, NPNF)",
+          "url": "https://www.newadvent.org/fathers/250106.htm"
+        },
+        {
+          "title": "Catholic Encyclopedia (1909), Pope St. Fabian",
+          "url": "https://www.newadvent.org/cathen/05742d.htm"
+        },
+        {
+          "title": "National Gallery, Giovanni di Paolo, Saints Fabian and Sebastian",
+          "url": "https://www.nationalgallery.org.uk/paintings/giovanni-di-paolo-saints-fabian-and-sebastian"
+        }
+      ],
+      "catalogMatch": "Saint Fabian, pope and martyr"
+    },
+    {
+      "id": "angela_merici",
+      "letter": "A",
+      "feast": {
+        "month": 1,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Angela Merici",
+        "pt-BR": "Santa Ângela Mérici"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Ursulines",
+        "pt-BR": "Fundadora das Ursulinas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Following the lessons of her charity and prudence, may we hold fast to your teaching.",
+        "pt-BR": "Seguindo os exemplos de sua caridade e prudência, possamos guardar os vossos ensinamentos."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-27.json collect (both languages, verbatim clauses; en-US reordered as a wish)",
+      "subject": "A woman in the dark brown habit and mantle of a Franciscan tertiary with a white knotted cord, a white linen veil and wimple framing her face, half-length, one arm around a little girl in a simple dress to whom she shows an open catechism. In the sky above, her vision: a golden ladder rising into the clouds with small white-veiled virgins ascending it among angels. Behind, the shore of Lake Garda at Desenzano with its small harbour, olive trees and the mountains across the water.",
+      "face": "A slender woman of about sixty with a fine-boned, heart-shaped face — a wide, smooth forehead, high, soft cheekbones and a small, pointed chin; a small, straight nose with a delicate tip; warm dark-brown eyes slightly downturned at the outer corners, with soft lines at their corners; thin, dark, arched brows; a small mouth; fair skin, and a tender, motherly smile as she looks down at the child.",
+      "refs": [
+        "monica",
+        "anne",
+        "clare_assisi"
+      ],
+      "basis": "She founded the Company of St. Ursula at sixty-one and was buried in the habit of a Franciscan tertiary; the ladder vision and Desenzano are her standard iconography. No portrait from life survives (Moretto's 1540 portrait is a funeral image), so the face is an artistic choice kept apart from Monica's upturned gaze and blue mantle.",
+      "sources": [
+        {
+          "title": "Catholic Encyclopedia (1907), St. Angela Merici",
+          "url": "https://www.newadvent.org/cathen/01481a.htm"
+        },
+        {
+          "title": "Wikipedia, Angela Merici (attributes: cloak, ladder; tertiary habit)",
+          "url": "https://en.wikipedia.org/wiki/Angela_Merici"
+        },
+        {
+          "title": "Compagnia di Sant'Orsola, The extraordinary experience of S. Angela Merici (Moretto's funeral portrait)",
+          "url": "http://www.angelamerici.it/index_dettagli.php?get_id=11"
+        }
+      ],
+      "catalogMatch": "Saint Angela Merici"
+    },
+    {
+      "id": "frances_rome",
+      "letter": "F",
+      "feast": {
+        "month": 3,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Frances of Rome",
+        "pt-BR": "Santa Francisca Romana"
+      },
+      "patronOf": {
+        "en-US": "Patron of Benedictine oblates",
+        "pt-BR": "Padroeira dos oblatos beneditinos"
+      },
+      "prayerExcerpt": {
+        "en-US": "In every circumstance of life may we see and follow you.",
+        "pt-BR": "Possamos reconhecer e seguir a vossa vontade em todas as circunstâncias da vida."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/03-09.json collect (both languages, verbatim clauses reordered as a wish)",
+      "subject": "A Roman noblewoman in the simple black tunic of the Oblates of Tor de' Specchi with a long plain white veil falling to her shoulders (no wimple, no scapular), half-length, holding an open book of hours in one hand and a small basket of bread for the poor on her arm. Beside her, small and luminous, her guardian angel: a child of about nine with long golden hair in a white deacon's dalmatic, one hand on her shoulder. Behind, the Roman Forum with the Romanesque bell tower of Santa Maria Nova (Santa Francesca Romana) and the Colosseum in soft light.",
+      "face": "A woman of about forty-five with an olive Roman complexion and a broad-cheeked, rounded-square face with a firm, rounded jaw — a straight Roman nose continuing the line of the brow, large, dark, heavy-lashed eyes under fine dark eyebrows, full cheekbones and a full, serene, faintly smiling mouth; the eyes lifted a little toward the angel.",
+      "refs": [
+        "bridget_sweden",
+        "monica",
+        "teresa"
+      ],
+      "basis": "Italian images give her a black tunic and a long white veil, usually without wimple or scapular, and include the archangel only she could see, shown small; her biographers describe him as a boy of about nine with golden hair in a dalmatic. The face is an artistic choice for a Roman matron of middle age.",
+      "sources": [
+        {
+          "title": "christianiconography.info, St. Frances of Rome",
+          "url": "https://www.christianiconography.info/francesRome.html"
+        },
+        {
+          "title": "Catholic Encyclopedia (1909), St. Frances of Rome",
+          "url": "https://www.newadvent.org/cathen/06205c.htm"
+        },
+        {
+          "title": "Heralds of the Gospel, St. Frances of Rome, the Angel of Rome (the angel's appearance)",
+          "url": "https://catholicmagazine.news/st-frances-of-rome-the-angel-of-rome/"
+        }
+      ],
+      "catalogMatch": "Saint Frances of Rome"
+    }
+  ]
+}

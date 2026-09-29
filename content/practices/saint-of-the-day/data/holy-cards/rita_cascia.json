@@ -1,0 +1,40 @@
+{
+  "id": "rita_cascia",
+  "feast": {
+    "month": 5,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Rita of Cascia",
+    "pt-BR": "Santa Rita de Cássia"
+  },
+  "patronOf": {
+    "en-US": "Patron of impossible causes",
+    "pt-BR": "Padroeira das causas impossíveis"
+  },
+  "prayerExcerpt": {
+    "en-US": "Bestow on us, O Lord, the wisdom and strength of the Cross.",
+    "pt-BR": "Concedei-nos, Senhor, a sabedoria da Cruz e a fortaleza de ânimo."
+  },
+  "meta": {
+    "face": "A woman of about fifty-five with a pale, fine-boned, slightly long face, a small dark thorn-mark in the middle of the forehead kept small and neat, dark-brown eyes lifted in sorrowful love to the crucifix, a slender straight nose and gentle, closed lips.",
+    "basis": "The portrait on the casket made for her body in 1457 shows a long, pale, older face with the forehead wound; the wound, the rose and the crucifix are her constant marks. The black habit follows the popular devotional image rather than the brown of her monastery.",
+    "excerpt": "content/of/formularies/sanctoral/05-22.json collect (opening; 'we pray' omitted in en-US)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, St. Rita, portrait on the casket that held her body, Cascia",
+        "url": "https://commons.wikimedia.org/wiki/File:Santa_Rita_da_Cascia.jpg"
+      },
+      {
+        "title": "Wikipedia, Rita of Cascia (forehead wound, rose, bees, habit)",
+        "url": "https://en.wikipedia.org/wiki/Rita_of_Cascia"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-1.md."
+      }
+    ]
+  }
+}

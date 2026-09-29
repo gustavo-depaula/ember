@@ -1,0 +1,44 @@
+{
+  "id": "anthony_abbot",
+  "feast": {
+    "month": 1,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Anthony the Abbot",
+    "pt-BR": "Santo Antão"
+  },
+  "patronOf": {
+    "en-US": "Father of monks",
+    "pt-BR": "Pai dos monges"
+  },
+  "prayerExcerpt": {
+    "en-US": "If you would be perfect, go, sell what you have, give to the poor, and follow me, says the Lord.",
+    "pt-BR": "Se queres ser perfeito, vai, vende o que tens e dá o dinheiro aos pobres; depois, segue-me, diz o Senhor."
+  },
+  "meta": {
+    "face": "A very old but hale hermit with a TRIANGULAR face: broad weathered brow, very prominent high cheekbones, sunken temples, a narrow pointed chin under the beard; small deep-set eyes narrowed as against the desert sun with deep crow's-feet; a short, broad, slightly flattened nose; a wide thin mouth. Deeply sun-browned skin. The black hood frames the face so no hair shows; a medium-length grey-white beard parted at the chin into two points; bushy white brows; a calm, bright gaze.",
+    "basis": "The Painter's Manual gives him as an old man with a short beard parted in two; the Greek icons, like Damaskinos's, show him hooded. Athanasius says he kept his sight and bodily health to the end; the tau, bell and pig are the Western card attributes.",
+    "excerpt": "content/of/formularies/sanctoral/01-17.json communionAntiphon (the Gospel words that sent him to the desert, Athanasius, Life of Antony 2)",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 330 (Dionysius of Fourna)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikimedia Commons, Michael Damaskinos, St. Anthony (16th c.)",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Anthony_(Damaskinos).png"
+      },
+      {
+        "title": "Athanasius, Life of Antony, New Advent (NPNF)",
+        "url": "https://www.newadvent.org/fathers/2811.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-1.md; regenerated with an explicit triangular, sun-weathered face structure after the first draft shared the other elders' face."
+      }
+    ]
+  }
+}

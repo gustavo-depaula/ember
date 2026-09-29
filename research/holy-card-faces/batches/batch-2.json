@@ -1,0 +1,231 @@
+{
+  "batch": 2,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-2.md",
+  "cards": [
+    {
+      "id": "cornelius_cyprian",
+      "letter": "C",
+      "feast": { "month": 9, "day": 16 },
+      "name": { "en-US": "Sts. Cornelius and Cyprian", "pt-BR": "Santos Cornélio e Cipriano" },
+      "patronOf": { "en-US": "Pope and bishop, martyrs", "pt-BR": "Papa e bispo, mártires" },
+      "prayerExcerpt": {
+        "en-US": "He can no longer have God for his Father, who has not the Church for his mother.",
+        "pt-BR": "Já não pode ter a Deus por Pai quem não tem a Igreja por mãe."
+      },
+      "excerptSource": "Cyprian, On the Unity of the Church 6, ANF vol. 5 (1886), https://www.newadvent.org/fathers/050701.htm; pt-BR our rendering",
+      "subject": "Two half-length figures side by side, as on the Philip and James card. Left, Pope Cornelius, bareheaded as in the Trastevere mosaic, in a red chasuble over an alb with the white pallium marked with crosses, holding a tall triple papal cross and a curved horn (his attribute, from cornu). Right, Bishop Cyprian of Carthage, bareheaded, in a red cope with a gold border over an alb, holding a closed book (his treatise on the unity of the Church) against his chest and a martyr's palm. Background split behind them: on Cornelius's side the Roman campagna with the Appian Way lined with cypresses; on Cyprian's side the bay of Carthage with the sea and low white North African buildings. Keep both figures inside the arched window.",
+      "face": "Cornelius: a man of about sixty with a long, rectangular face — a broad, flat forehead and a straight-edged jaw; a long, straight nose with a narrow ridge; large dark almond eyes set rather close under level grey brows; flat cheeks; a flat, square chin; a small, thin-lipped mouth; bald on the crown with a close fringe of grey hair, a short, neat grey beard and a calm, grave look. Cyprian: a man of about fifty with a warm olive-brown North African complexion and a diamond-shaped face — a narrow forehead, wide, angular, jutting cheekbones and a narrow chin; a strong, high-bridged nose with flared nostrils; large, round dark eyes under thick, low, straight black brows; a full, wide mouth; thick, tightly curled black hair, a full black beard parted into two points at the chin, and an expression both grave and serene.",
+      "refs": ["philip_james", "gregory_great", "augustine"],
+      "basis": "Cornelius follows the 12th-century apse mosaic of Santa Maria in Trastevere (balding, grey-haired, short grey beard, pallium) and the horn attribute from his name. Cyprian follows Dionysius's hierarch entry (young, curly hair, a large beard parted in two) and Pontius's note that his countenance was grave and joyous; the olive complexion is a choice for a Carthaginian, not attested.",
+      "sources": [
+        { "title": "Wikimedia Commons, Pope Cornelius, apse mosaic of Santa Maria in Trastevere", "url": "https://commons.wikimedia.org/wiki/File:Pope_Cornelius_%E2%80%93_Santa_Maria_in_Trastevere.jpg" },
+        { "title": "Wikimedia Commons, icon of Cyprian of Carthage", "url": "https://commons.wikimedia.org/wiki/File:Cyprian_von_Karthago2.jpg" },
+        { "title": "Pontius the Deacon, Life and Passion of Cyprian (New Advent)", "url": "https://www.newadvent.org/fathers/0505.htm" },
+        { "title": "Wikipedia, Pope Cornelius (horn attribute)", "url": "https://en.wikipedia.org/wiki/Pope_Cornelius" }
+      ],
+      "catalogMatch": "Ss. Cornelius, pope, and Cyprian"
+    },
+    {
+      "id": "justin",
+      "letter": "J",
+      "feast": { "month": 6, "day": 1 },
+      "name": { "en-US": "St. Justin", "pt-BR": "São Justino" },
+      "patronOf": { "en-US": "Patron of philosophers", "pt-BR": "Padroeiro dos filósofos" },
+      "prayerExcerpt": {
+        "en-US": "I resolved to know nothing while I was with you except Jesus Christ, and him crucified.",
+        "pt-BR": "Não julguei saber coisa alguma entre vós, a não ser Jesus Cristo, e este, crucificado."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-01.json communionAntiphon (paschal alleluia dropped)",
+      "subject": "Half-length, a lay philosopher, not a cleric: a long blue-grey philosopher's cloak (pallium) draped over one shoulder above a plain ochre tunic, no vestments. He holds an open scroll or a book (his Apology) in one hand and a martyr's palm in the other. Background: Rome under a clear sky, a colonnaded portico in the foreground and the Palatine and a temple front beyond.",
+      "face": "A man of about sixty with a large, broad, oblong face and a high forehead over a jutting brow ridge; a strong Roman nose with a pronounced hump at the bridge; deep-set eyes under heavy dark brows; broad cheekbones; a strong, deep jaw; a wide mouth with a full lower lip; thick, wavy salt-and-pepper hair brushed back from the forehead to the nape, a full, broad, square-cut beard, dark streaked with grey, and a searching, thoughtful gaze.",
+      "refs": ["jerome", "moses_the_black", "augustine"],
+      "basis": "Dionysius gives Justin the Philosopher as an old man with a large beard; the Stavronikita icon by Theophanes the Cretan shows him in a philosopher's cloak with a full dark beard. The grey-streaked dark beard sits between the two, and the cloak follows his own account of being recognised as a philosopher by his dress.",
+      "sources": [
+        { "title": "Wikimedia Commons, Saint Justin Martyr by Theophanes the Cretan", "url": "https://commons.wikimedia.org/wiki/File:Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg" },
+        { "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 397", "url": "https://archive.org/details/manueldiconograp00dion" },
+        { "title": "Justin Martyr, Dialogue with Trypho 1 (New Advent)", "url": "https://www.newadvent.org/fathers/01281.htm" }
+      ],
+      "catalogMatch": "Saint Justin, martyr"
+    },
+    {
+      "id": "irenaeus",
+      "letter": "I",
+      "feast": { "month": 6, "day": 28 },
+      "name": { "en-US": "St. Irenaeus", "pt-BR": "Santo Irineu" },
+      "patronOf": { "en-US": "Doctor of Unity", "pt-BR": "Doutor da Unidade" },
+      "prayerExcerpt": {
+        "en-US": "The glory of God is a living man; and the life of man consists in beholding God.",
+        "pt-BR": "A glória de Deus é o homem vivo, e a vida do homem é a visão de Deus."
+      },
+      "excerptSource": "Irenaeus, Against Heresies IV.20.7, ANF vol. 1 (1885), https://www.newadvent.org/fathers/0103420.htm (opening \"For\" dropped); pt-BR our rendering",
+      "subject": "Half-length bishop in a white mitre with gold bands, a red chasuble over an alb, holding a crozier and a large closed book (Against Heresies) with a small cross on its cover. Background: Lyon at the meeting of the Rhône and the Saône, the hill of Fourvière with its basilica and the ruins of the Roman theatre on the slope.",
+      "face": "A man of about sixty with a long, narrow face and a high, domed forehead; a long nose with a softly rounded tip; pale grey eyes set wide apart under sparse, level ash-brown brows; smooth, flat cheeks; a long chin; a small, soft mouth; straight ash-brown hair to the ears, a long, straight ash-brown beard falling to the chest and silvering at the chin, and a gentle, peaceable gaze.",
+      "refs": ["ambrose", "augustine", "athanasius"],
+      "basis": "Portraits are traditional, not from life: the modern Orthodox icon gives him a long, straight brown beard and a long face, the Bégule window at Lyon a greying beard. Ash-brown silvering at the chin combines them and keeps him off the white-bearded elder.",
+      "sources": [
+        { "title": "Wikimedia Commons, Saint Irenaeus icon", "url": "https://commons.wikimedia.org/wiki/File:Saint_Irenaeus_icon.jpg" },
+        { "title": "Wikimedia Commons, stained glass of Saint Irenaeus, Lyon", "url": "https://commons.wikimedia.org/wiki/File:Saint_irenee_saint_irenee.jpg" },
+        { "title": "Wikipedia, Irenaeus (Doctor unitatis, 2022)", "url": "https://en.wikipedia.org/wiki/Irenaeus" }
+      ],
+      "catalogMatch": "Saint Irenaeus"
+    },
+    {
+      "id": "boniface",
+      "letter": "B",
+      "feast": { "month": 6, "day": 5 },
+      "name": { "en-US": "St. Boniface", "pt-BR": "São Bonifácio" },
+      "patronOf": { "en-US": "Apostle of Germany", "pt-BR": "Apóstolo da Alemanha" },
+      "prayerExcerpt": {
+        "en-US": "Be of stout heart, and fear not them who kill the body.",
+        "pt-BR": "Tende o coração firme e não temais os que matam o corpo."
+      },
+      "excerptSource": "Willibald, Life of Saint Boniface, ch. 8, tr. G. W. Robinson (Harvard, 1916), his words to his companions at Dokkum (opening \"Men and brethren,\" dropped); pt-BR our rendering",
+      "subject": "Half-length missionary bishop in a white mitre, a green chasuble with the pallium, holding a crozier and a book pierced through by a sword, the blade passing cleanly through the closed book (no blood). At his side, the felled trunk of the great oak of Geismar with an axe resting against it. Background: the wooded hills of Hesse with a small wooden oratory built from the oak's timber.",
+      "face": "A sturdy Anglo-Saxon man of about fifty with a broad, flat-planed, ruddy, weathered face, widest at the cheekbones, with a wide, blunt jaw; a short snub nose; small, clear blue, slightly hooded eyes; faint flaxen brows; a wide, straight mouth; fair flaxen hair cut short below the mitre, a short, square-trimmed flaxen beard flecked with grey, and a resolute, open gaze.",
+      "refs": ["patrick", "ambrose", "benedict"],
+      "basis": "No portrait survives. The Fulda Sacramentary shows the sword-pierced book, the axe and the oak come from Willibald's Life, and later German images (Bloemaert, the Fulda statue) give him a beard. The flaxen colouring and the age at Geismar are choices to keep him off the white-bearded elder.",
+      "sources": [
+        { "title": "Wikimedia Commons, Boniface baptising and martyrdom, Sacramentary of Fulda", "url": "https://commons.wikimedia.org/wiki/File:St_Boniface_-_Baptising-Martyrdom_-_Sacramentary_of_Fulda_-_11Century.jpg" },
+        { "title": "christianiconography.info, Saint Boniface", "url": "https://www.christianiconography.info/boniface.html" },
+        { "title": "Willibald, The Life of Saint Boniface, tr. Robinson (1916), archive.org", "url": "https://archive.org/details/lifeofsaintboni00robiuoft" },
+        { "title": "Wikimedia Commons, Saint Boniface by Cornelis Bloemaert", "url": "https://commons.wikimedia.org/wiki/File:Saint_Boniface_by_Cornelis_Bloemaert.jpg" }
+      ],
+      "catalogMatch": "Saint Boniface"
+    },
+    {
+      "id": "charles_lwanga",
+      "letter": "C",
+      "feast": { "month": 6, "day": 3 },
+      "name": { "en-US": "Sts. Charles Lwanga and Companions", "pt-BR": "Santos Carlos Lwanga e companheiros" },
+      "patronOf": { "en-US": "Patron of African youth", "pt-BR": "Padroeiro da juventude africana" },
+      "prayerExcerpt": {
+        "en-US": "As gold in the furnace, the Lord put his chosen to the test.",
+        "pt-BR": "Como ouro na fornalha o Senhor provou os eleitos."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/06-03.json entranceAntiphon (first clause)",
+      "subject": "Two figures side by side, half-length. Charles Lwanga, the chief of the royal pages, standing tall in a long white kanzu with a russet bark-cloth mantle knotted on one shoulder, a martyr's palm in one hand and a rosary, his other hand resting protectively on the shoulder of the boy Kizito. Kizito, the youngest of the martyrs, a head shorter, in a plain white kanzu, hands joined in prayer, looking up at Charles. Background: the shore of Lake Victoria at Munyonyo, with banana groves and the round thatched houses of the Buganda court. No fire, no execution.",
+      "face": "Charles: a tall, athletic Muganda man of about twenty-five with chestnut-brown skin and a long, sculpted face — a broad, high forehead, high, chiselled cheekbones, a broad, straight nose with rounded nostrils, large, wide-set dark eyes under straight brows, a firm, square chin and full, well-defined lips; close-cropped black hair, clean-shaven, and a steady, protective gaze. Kizito: a boy of thirteen, smaller, with dark-brown skin and a small, round face — full cheeks, a short button nose, large, round bright eyes under soft arched brows, a small rounded chin and a wide mouth; close-cropped hair and an eager, trusting look.",
+      "refs": ["philip_james", "moses_the_black", "aloysius_gonzaga"],
+      "basis": "No photographs of Lwanga survive. His biography gives his chestnut-brown colouring and he was remembered as the court's strongest athlete; Kizito was thirteen or fourteen and was baptised by him at Munyonyo, as the shrine's window shows. The kanzu and bark-cloth are the dress Ugandan images give the pages.",
+      "sources": [
+        { "title": "Dictionary of African Christian Biography, Lwanga, Charles (after Faupel, African Holocaust)", "url": "https://dacb.org/stories/uganda/lwanga-charles/" },
+        { "title": "Wikipedia, Uganda Martyrs (Kizito's age, patronage)", "url": "https://en.wikipedia.org/wiki/Uganda_Martyrs" },
+        { "title": "Wikimedia Commons, St. Kizito being baptised by St. Charles Lwanga at Munyonyo", "url": "https://commons.wikimedia.org/wiki/File:St._Kizito_being_baptised_by_St._Charles_Lwanga_at_Munyonyo.jpg" },
+        { "title": "National Catholic Reporter, Black Saints: Charles Lwanga", "url": "https://www.ncronline.org/blogs/ncr-today/black-saints-charles-lwanga" }
+      ],
+      "catalogMatch": "Charles Lwanga"
+    },
+    {
+      "id": "paul_miki",
+      "letter": "P",
+      "feast": { "month": 2, "day": 6 },
+      "name": { "en-US": "Sts. Paul Miki and Companions", "pt-BR": "Santos Paulo Miki e companheiros" },
+      "patronOf": { "en-US": "Martyrs of Japan", "pt-BR": "Mártires do Japão" },
+      "prayerExcerpt": {
+        "en-US": "I have been crucified with Christ; yet I live, no longer I, but Christ lives in me.",
+        "pt-BR": "Com Cristo, eu fui pregado na cruz. Eu vivo, mas não eu, é Cristo que vive em mim."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-06.json readings.default.firstReading (Gal 2:19-20, excerpt)",
+      "subject": "Two figures side by side, half-length. Paul Miki, a Japanese Jesuit, in a plain black cassock with a narrow standing collar, holding a crucifix against his chest and a martyr's palm; behind his shoulder the upright of a plain wooden cross. Beside him the boy Louis Ibaraki in a simple pale-blue kimono with a dark hakama, hands joined, looking up. Background: Nishizaka hill above Nagasaki in winter, pines, the bay with a Portuguese carrack, Japanese tiled roofs; on a distant slope a small line of plain crosses, too small for any figures.",
+      "face": "Paul: a Japanese man of about thirty-three with a lean, long face — a high forehead, high, flat cheekbones, a slim, straight nose with a low bridge, narrow single-lidded dark eyes under fine straight brows and a firm, narrow chin; clean-shaven, short-cropped black hair, lips slightly parted as if preaching, his gaze raised. Louis: a Japanese boy of twelve with a flat, round little face — plump round cheeks, a tiny snub nose, narrow crescent eyes that nearly close as he smiles, thin arched brows and a small pointed chin; glossy black hair tied back in a short tail and a small, joyful smile.",
+      "refs": ["philip_james", "francis_xavier", "aloysius_gonzaga"],
+      "basis": "No portrait exists. Butler gives Paul Miki as a noble Japanese and an eminent preacher of thirty-three, and three boys among the twenty-six, the youngest only twelve; the Jesuit black and the crucifix follow the devotional images, the boy's dress is a choice.",
+      "sources": [
+        { "title": "Butler, Lives of the Saints (1864), The Martyrs of Japan (EWTN)", "url": "https://www.ewtn.com/catholicism/library/martyrs-of-japan-5735" },
+        { "title": "Wikimedia Commons, Martyrdom of Paul Miki and companions in Nagasaki (c. 1635)", "url": "https://commons.wikimedia.org/wiki/File:Martyrdom-of-Paul-Miki-and-Companions-in-Nagasaki-(made-c1635).png" },
+        { "title": "Franciscan Media, Saint Paul Miki and Companions", "url": "https://www.franciscanmedia.org/saint-of-the-day/saint-paul-miki-and-companions/" }
+      ],
+      "catalogMatch": "Paul Miki"
+    },
+    {
+      "id": "andrew_kim",
+      "letter": "A",
+      "feast": { "month": 9, "day": 20 },
+      "name": { "en-US": "Sts. Andrew Kim Taegon and Companions", "pt-BR": "Santos André Kim Taegon e companheiros" },
+      "patronOf": { "en-US": "Martyrs of Korea", "pt-BR": "Mártires da Coreia" },
+      "prayerExcerpt": {
+        "en-US": "Everyone who acknowledges me before others I will acknowledge before my heavenly Father, says the Lord.",
+        "pt-BR": "Todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus, diz o Senhor."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/09-20.json communionAntiphon",
+      "subject": "Two figures side by side, half-length. Andrew Kim Taegon, the first Korean priest, in a white hanbok and white durumagi coat with a red priest's stole, a black horsehair gat tied under the chin, holding a closed book and a martyr's palm, as in the 1920 portrait. Beside him Paul Chong Hasang, the lay leader, in a pale grey-blue durumagi and the same black gat, holding a small crucifix and a palm. Background: the bank of the Han River near Seoul at Saenamteo, with low hills, pines and the tiled roofs of a Joseon town.",
+      "face": "Andrew: a slender Korean man of twenty-five with a smooth, soft oval face, wider at the cheeks — a short nose with a low bridge, narrow almond eyes with single lids tilted slightly up at the outer corners, fine black brows, full, soft cheekbones, a small rounded chin and a small closed mouth; a thin black moustache and a small tuft of beard on the chin, black hair gathered up under the gat, and a serene, direct gaze. Paul: a sturdier Korean layman of about forty-five with a broad, square face — wide, flat cheekbones, a short, broad nose with a flat bridge, small narrow eyes with lines at the corners under thick straight brows, a strong, wide jaw and a full, wide mouth; a fuller short black beard with moustache, and a warm, earnest gaze.",
+      "refs": ["philip_james", "francis_xavier", "vincent_de_paul"],
+      "basis": "Andrew follows the oil portrait by Louis Chang Bal (1920) and the engraving in Launay's La Corée et les missionnaires (1901): white hanbok, gat, a thin moustache and chin tuft, book and palm. Paul Chong has no portrait; he is dressed as tradition shows him (hanbok, gat, crucifix, palm) and made older and fuller-bearded to tell them apart.",
+      "sources": [
+        { "title": "Wikimedia Commons, Vénérable André Kim, oil painting by Tjyang Louis (1920)", "url": "https://commons.wikimedia.org/wiki/File:V%C3%A9n%C3%A9rable_Andr%C3%A9_Kim,_photographie_d%E2%80%99une_peinture_%C3%A0_l%E2%80%99huile_de_Tjyang_Louis_-_1920.jpg" },
+        { "title": "Wikimedia Commons, Launay, La Corée et les missionnaires (1901), p. 267", "url": "https://commons.wikimedia.org/wiki/File:Launay,_Dallet_-_La_Cor%C3%A9e_et_les_missionnaires,_1901-p267.jpg" },
+        { "title": "Wikipedia, Paul Chong Hasang", "url": "https://en.wikipedia.org/wiki/Paul_Chong_Hasang" }
+      ],
+      "catalogMatch": "Andrew Kim Taegon"
+    },
+    {
+      "id": "andrew_dung_lac",
+      "letter": "A",
+      "feast": { "month": 11, "day": 24 },
+      "name": { "en-US": "Sts. Andrew Dung-Lac and Companions", "pt-BR": "Santos André Dung-Lac e companheiros" },
+      "patronOf": { "en-US": "Martyrs of Vietnam", "pt-BR": "Mártires do Vietnã" },
+      "prayerExcerpt": {
+        "en-US": "May we never boast, except in the Cross of our Lord Jesus Christ.",
+        "pt-BR": "Não devemos gloriar-nos a não ser na cruz de nosso Senhor Jesus Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-24.json entranceAntiphon (first sentence)",
+      "subject": "Two figures side by side, half-length. Andrew Dung-Lac, a Vietnamese priest, in a long dark áo dài-style tunic under a white surplice with a red stole, a black khăn đóng turban, holding a martyr's palm and a small crucifix. Beside him his fellow priest Peter Thi, beheaded with him, in the same dress with a dark-blue khăn đóng, holding a rosary and a palm. Background: the outskirts of Hanoi near the Cầu Giấy gate, rice paddies, bamboo groves, a river and a village church with curved tiled roofs.",
+      "face": "Andrew: a Vietnamese man of about forty-four with a warm golden complexion and a lean, long-jawed face — high, prominent cheekbones over slightly hollow cheeks, a straight nose with a flat bridge and wide nostrils, calm dark almond eyes under straight, thick black brows, a long, firm jaw and a wide, thin-lipped mouth; clean-shaven, black hair under the khăn đóng, and a gentle, resolute expression. Peter: an elderly Vietnamese priest of about seventy-six, thin and slightly stooped, with a small, narrow face under a high, domed forehead — a small, low-bridged nose, narrow eyes deeply creased at the corners, sparse white brows, hollow cheeks, a small rounded chin and a thin, kind mouth; a sparse white moustache and a wispy white chin beard.",
+      "refs": ["philip_james", "francis_xavier", "philip_neri"],
+      "basis": "No portrait exists. Vietnamese statues and windows show him clean-shaven in a khăn đóng and long tunic with a stole and palm. Peter Trương Văn Thi (born 1763) was arrested and beheaded with him at Ô Cầu Giấy in 1839, so he is the natural companion; his features are a choice.",
+      "sources": [
+        { "title": "Wikimedia Commons, statue of Andrew Dung-Lac (Thanh An-rê Dũng Lạc)", "url": "https://commons.wikimedia.org/wiki/File:Anre_Dung_Lac.jpg" },
+        { "title": "Wikimedia Commons, Saint Andrew Dung Lac window, Westerville, Ohio", "url": "https://commons.wikimedia.org/wiki/File:Saint_Paul_Catholic_Church_(Westerville,_Ohio)_-_Saint_Andrew_Dung_Lac.jpg" },
+        { "title": "Wikipedia, Andrew Dũng-Lạc", "url": "https://en.wikipedia.org/wiki/Andrew_D%C5%A9ng-L%E1%BA%A1c" },
+        { "title": "St Vincent Liem Centre, Phêrô Trương Văn Thi (1763–1839)", "url": "https://www.vinhsonliem.org/2017/05/20/phero-truong-van-thi-1763-1839/" }
+      ],
+      "catalogMatch": "Andrew Dung-Lac"
+    },
+    {
+      "id": "josaphat",
+      "letter": "J",
+      "feast": { "month": 11, "day": 12 },
+      "name": { "en-US": "St. Josaphat", "pt-BR": "São Josafá" },
+      "patronOf": { "en-US": "Bishop and martyr", "pt-BR": "Bispo e mártir" },
+      "prayerExcerpt": {
+        "en-US": "Whoever loses his life for my sake will find it in eternity.",
+        "pt-BR": "Quem perde a sua vida por causa de mim vai encontrá-la."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-12.json communionAntiphon (\"says the Lord\" dropped; the en-US source has a stray comma after \"sake\" and reads \"say the Lord\")",
+      "subject": "Half-length Byzantine-rite archbishop in a gold brocade sakkos with a white omophorion marked with large crosses, a round jewelled crown-mitre, an enkolpion on his chest, holding a hand cross and a martyr's palm. Background: Polotsk on the bank of the Western Dvina, with the white Cathedral of Holy Wisdom and its twin towers above the river.",
+      "face": "A lean man of about forty with a long, narrow, ascetic face — a narrow forehead, a thin, long, straight nose with a narrow bridge, large dark eyes under straight, dark, level brows, angular cheekbones over hollow cheeks, a narrow jaw and thin lips; a dark-brown moustache and a full dark-brown beard of medium length squared at the chin, and a steady, gentle gaze.",
+      "refs": ["athanasius", "nicholas", "ambrose"],
+      "basis": "Follows the 1620s portrait drawing and the 1623 woodcut made soon after his death: a long, lean face with a full dark beard and moustache, the Byzantine crown-mitre and omophorion. He died at about forty-three.",
+      "sources": [
+        { "title": "Wikimedia Commons, drawing after a portrait of Josaphat Kuntsevych (1620s–1630s)", "url": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B5%D0%B2%D1%8F%D0%B4%D0%BE%D0%BC%D1%8B_%D0%B0%D1%9E%D1%82%D0%B0%D1%80._%D0%9C%D0%B0%D0%BB%D1%8E%D0%BD%D0%B0%D0%BA_%D0%B7_%D0%BF%D0%B0%D1%80%D1%82%D1%80%D1%8D%D1%82%D0%B0_%D0%AF%D0%B7%D0%B0%D1%84%D0%B0%D1%82%D0%B0_%D0%9A%D1%83%D0%BD%D1%86%D1%8D%D0%B2%D1%96%D1%87%D0%B0._1620%E2%80%941630-%D1%8F_%D0%B3%D0%B3.jpg" },
+        { "title": "Wikimedia Commons, Jazafat Kancevič (1625 woodcut)", "url": "https://commons.wikimedia.org/wiki/File:Jazafat_Kancevi%C4%8D._%D0%AF%D0%B7%D0%B0%D1%84%D0%B0%D1%82_%D0%9A%D1%83%D0%BD%D1%86%D1%8D%D0%B2%D1%96%D1%87_(1625).jpg" },
+        { "title": "Wikipedia, Josaphat Kuntsevych", "url": "https://en.wikipedia.org/wiki/Josaphat_Kuntsevych" }
+      ],
+      "catalogMatch": "Saint Josaphat"
+    },
+    {
+      "id": "stanislaus",
+      "letter": "S",
+      "feast": { "month": 4, "day": 11 },
+      "name": { "en-US": "St. Stanislaus", "pt-BR": "Santo Estanislau" },
+      "patronOf": { "en-US": "Patron of Poland", "pt-BR": "Padroeiro da Polônia" },
+      "prayerExcerpt": {
+        "en-US": "Blessed the Father of compassion and God of all encouragement, who encourages us in our every affliction.",
+        "pt-BR": "Bendito seja o Pai misericordioso, que em todo sofrimento nos consola!"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-11.json readings.default.gospelAcclamation verse",
+      "subject": "Half-length bishop in a tall white-and-gold jewelled mitre, a red chasuble over an alb, gloved hands holding a crozier and a sword held upright by the hilt, blade clean. Optional and small at the lower edge: Piotr rising from his grave in a white shroud, hands joined, as the witness raised by the bishop. Background: Kraków with Wawel hill, its cathedral and castle above the Vistula, and the small church on the Skałka rock by the river.",
+      "face": "A man of about fifty with a full, pear-shaped face — narrow at the temples and widening to heavy, low cheeks and a broad, rounded jaw; a short, straight nose with a broad bridge; heavy-lidded dark eyes under thick, low, almost horizontal brows; a small, full-lipped, closed mouth; clean-shaven, short dark hair greying at the temples below the mitre, the eyes lowered in thought, and a grave, gentle expression.",
+      "refs": ["charles_borromeo", "ambrose", "gregory_great"],
+      "basis": "Polish tradition shows him clean-shaven: Samostrzelnik's miniature (c. 1530s) with a full, heavy-lidded face, and Kuntze's Raising of Piotrowin with dark hair. He died at forty-eight; the sword and Piotr are his usual attributes.",
+      "sources": [
+        { "title": "Wikimedia Commons, Stanisław Samostrzelnik, Saint Stanislaus", "url": "https://commons.wikimedia.org/wiki/File:Stanis%C5%82aw_Samostrzelnik,_%C5%9Aw_Stanis%C5%82aw.jpg" },
+        { "title": "Wikimedia Commons, Tadeusz Kuntze, Raising of Piotrowin", "url": "https://commons.wikimedia.org/wiki/File:Tadeusz_Kuntze_-_Wskrzeszenie_Piotrowina.jpg" },
+        { "title": "Wikipedia, Stanislaus of Szczepanów", "url": "https://en.wikipedia.org/wiki/Stanislaus_of_Szczepan%C3%B3w" }
+      ],
+      "catalogMatch": "Saint Stanislaus"
+    }
+  ]
+}

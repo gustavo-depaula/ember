@@ -1,0 +1,44 @@
+{
+  "id": "polycarp",
+  "feast": {
+    "month": 2,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Polycarp",
+    "pt-BR": "São Policarpo"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Eighty and six years have I served Him, and He never did me any injury.",
+    "pt-BR": "Há oitenta e seis anos que o sirvo, e ele nunca me fez mal algum."
+  },
+  "meta": {
+    "face": "A very old man of about eighty-five with a SMALL, HEART-SHAPED face: wide cheekbones tapering to a small pointed chin, round rosy apple cheeks, a small short upturned nose, small bright eyes crinkled by a gentle smile, a short upper lip; a full head of soft thin silvery-white hair falling to the nape (not bald); a short, neat, rounded snow-white beard; eyes raised to heaven with a quiet smile.",
+    "basis": "The Painter's Manual gives 'an old man, rounded beard', and the Martyrdom gives his age, eighty-six years in Christ's service, and the fire shaped 'like the sail of a ship'. The full white hair is an artistic choice to keep him apart from the bald elders on existing cards.",
+    "excerpt": "Martyrdom of Polycarp 9, ANF vol. 1 (1885); pt-BR our rendering",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 318 (Dionysius of Fourna)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Martyrdom of Polycarp, New Advent (ANF)",
+        "url": "https://www.newadvent.org/fathers/0102.htm"
+      },
+      {
+        "title": "Wikimedia Commons, Orthodox fresco of Polycarp",
+        "url": "https://commons.wikimedia.org/wiki/File:Polycarp_of_Smyrna2.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-1.md; regenerated with an explicit small round face structure, then again because the second draft's frame drifted."
+      }
+    ]
+  }
+}

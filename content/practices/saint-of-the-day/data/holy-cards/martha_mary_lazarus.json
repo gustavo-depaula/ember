@@ -1,0 +1,44 @@
+{
+  "id": "martha_mary_lazarus",
+  "feast": {
+    "month": 7,
+    "day": 29
+  },
+  "name": {
+    "en-US": "Sts. Martha, Mary and Lazarus",
+    "pt-BR": "Santos Marta, Maria e Lázaro"
+  },
+  "patronOf": {
+    "en-US": "Friends of the Lord at Bethany",
+    "pt-BR": "Amigos do Senhor em Betânia"
+  },
+  "prayerExcerpt": {
+    "en-US": "You are the Christ, the Son of God, who is coming into this world.",
+    "pt-BR": "Tu és o Cristo, Filho do Deus vivo, que vieste a este mundo."
+  },
+  "meta": {
+    "face": "Martha: a woman of about thirty-five, strong and wholesome, with a round face, rosy cheeks, chestnut hair tucked under the head-cloth, steady brown eyes and a frank, kindly look toward the viewer. Mary: a younger woman of about twenty-five, with a delicate oval face, long dark wavy hair loose over her shoulders, large dark eyes lowered to the alabaster jar and a still, listening expression. Lazarus: a lean man of about fifty with a pale, gaunt, gentle face, receding short grey-streaked black hair, clean-shaven and dark eyes raised in quiet gratitude; not curly-haired, not long-haired.",
+    "basis": "No tradition fixes their faces, so the three are set apart by age, colouring and attribute, following the Gospel roles the 2021 decree names: Martha serving, Mary listening, Lazarus raised. Mary is kept veiled and dark-haired so she does not repeat the Magdalene card.",
+    "excerpt": "content/of/formularies/sanctoral/07-29.json communionAntiphon (Martha's words)",
+    "sources": [
+      {
+        "title": "Decree on the celebration of Saints Martha, Mary and Lazarus in the General Roman Calendar (26 January 2021)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_en.html"
+      },
+      {
+        "title": "Vermeer, Christ in the House of Martha and Mary (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg"
+      },
+      {
+        "title": "Golden Legend (Caxton), Life of S. Martha",
+        "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-1.md; the first draft's Mary in a blue mantle read as Our Lady, so Mary of Bethany was given loose hair and the alabaster jar."
+      }
+    ]
+  }
+}

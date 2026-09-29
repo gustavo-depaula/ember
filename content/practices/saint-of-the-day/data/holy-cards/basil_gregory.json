@@ -1,0 +1,48 @@
+{
+  "id": "basil_gregory",
+  "feast": {
+    "month": 1,
+    "day": 2
+  },
+  "name": {
+    "en-US": "Sts. Basil the Great and Gregory Nazianzen",
+    "pt-BR": "Santos Basílio Magno e Gregório Nazianzeno"
+  },
+  "patronOf": {
+    "en-US": "Bishops and doctors of the Church",
+    "pt-BR": "Bispos e doutores da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "We seemed to have one soul, inhabiting two bodies.",
+    "pt-BR": "Parecíamos ter uma só alma habitando dois corpos."
+  },
+  "meta": {
+    "face": "Two clearly different people. Basil: a lean ascetic man in his late forties; a LONG, NARROW face with a high forehead, a long thin aquiline nose with a pronounced bridge, close-set deep-set dark eyes under high-arched black brows, hollow cheeks, thin lips; thick dark hair threaded with grey; a long black beard narrowing to a point. Gregory: a man of about sixty with a BROAD, ROUND, FLESHY face, a short wide nose with a rounded tip, large wide-set soft eyes with heavy lids, full cheeks and a full lower lip; bald crown with a short fringe at the sides; a broad square-cut smoky dark-grey beard; a gentle, meditative look.",
+    "basis": "The Painter's Manual gives Basil grey hair, a large beard and arched brows, and Gregory baldness and a broad beard 'of a sooty colour'; the Kiev mosaic of Basil and the Chora fresco of Gregory show the same types. Basil is kept dark-haired to separate the pair.",
+    "excerpt": "Gregory Nazianzen, Oration 43 (on Basil), 20, NPNF 2nd series vol. 7 (1894); pt-BR our rendering",
+    "sources": [
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 316 (Dionysius of Fourna)",
+        "url": "https://archive.org/details/manueldiconograp00dion"
+      },
+      {
+        "title": "Wikimedia Commons, St. Basil the Great, mosaic, Hagia Sophia, Kiev (11th c.)",
+        "url": "https://commons.wikimedia.org/wiki/File:Basil_of_Caesarea.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Gregory the Theologian, fresco, Chora (Kariye Camii)",
+        "url": "https://commons.wikimedia.org/wiki/File:Gregor-Chora_(cropped).jpg"
+      },
+      {
+        "title": "Gregory Nazianzen, Oration 43, New Advent (NPNF)",
+        "url": "https://www.newadvent.org/fathers/310243.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card from dossiers/batch-1.md; the first draft gave both the same face as Anthony and Polycarp, so faces were rewritten with explicit bone structure and regenerated."
+      }
+    ]
+  }
+}

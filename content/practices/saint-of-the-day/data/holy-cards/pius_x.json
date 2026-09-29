@@ -1,0 +1,44 @@
+{
+  "id": "pius_x",
+  "feast": {
+    "month": 8,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Pius X",
+    "pt-BR": "São Pio X"
+  },
+  "patronOf": {
+    "en-US": "Pope of the Eucharist",
+    "pt-BR": "Papa da Eucaristia"
+  },
+  "prayerExcerpt": {
+    "en-US": "To restore all things in Christ.",
+    "pt-BR": "Restaurar todas as coisas em Cristo."
+  },
+  "meta": {
+    "face": "A man of about seventy with a broad, handsome, open face and strong clear-cut features, clean-shaven, thick short silver-white hair under the white zucchetto, clear light eyes under straight brows and a kind, winning smile.",
+    "basis": "His photographs as pope, and witnesses quoted by Forbes (1918): a 'handsome open face and strong clear-cut features', eyes full of light and a 'winning smile'. The Host and the child stand for his decree on early First Communion.",
+    "excerpt": "content/of/formularies/sanctoral/08-21.json collect (phrase; also his papal motto)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Pius X, photograph by Ernest Walter Histed",
+        "url": "https://commons.wikimedia.org/wiki/File:Pius_X,_by_Ernest_Walter_Histed_(retouched).jpg"
+      },
+      {
+        "title": "F. A. Forbes, Pope Pius the Tenth (1918), Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/35953"
+      },
+      {
+        "title": "Wikipedia, Pope Pius X",
+        "url": "https://en.wikipedia.org/wiki/Pope_Pius_X"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-1.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "batch": 1,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-1.md",
+  "cards": [
+    {
+      "id": "john_bosco",
+      "letter": "J",
+      "feast": {
+        "month": 1,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. John Bosco",
+        "pt-BR": "São João Bosco"
+      },
+      "patronOf": {
+        "en-US": "Father and teacher of the young",
+        "pt-BR": "Pai e mestre da juventude"
+      },
+      "prayerExcerpt": {
+        "en-US": "Give me souls, and take away everything else.",
+        "pt-BR": "Dai-me almas e ficai com o resto."
+      },
+      "excerptSource": "His motto 'Da mihi animas, caetera tolle', on the card on his wall, as told in his own Life of Dominic Savio (1859), ch. 8; English as in the SDB translation; pt-BR is the usual Brazilian Salesian rendering",
+      "subject": "St. John Bosco, priest, half-length, in a black Piedmontese cassock with a small white collar, one arm around the shoulder of a smiling boy of about twelve in a jacket, holding a rosary in his other hand; above them, small in the sky, an image of Mary Help of Christians. Background: Turin, the domed Basilica of Mary Help of Christians at Valdocco with the Alps beyond.",
+      "face": "A sturdy man of about fifty with a square, clean-shaven face, broad high cheekbones, thick wavy dark-brown hair with the first grey, brushed back from the forehead, lively dark eyes and a broad, warm, fatherly smile.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "francis_xavier"
+      ],
+      "basis": "His photographs, above all the one taken in Turin in 1880: a square peasant face, prominent cheekbones, curly hair brushed back and a broad smile. We take him at about fifty and leave out the tiredness of the last photographs.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Don Bosco in Turin, 1880 (original photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Don_Bosco_@_Torino,_1880_(original).jpg"
+        },
+        {
+          "title": "Salesian Bulletin, Getting to know Don Bosco: the most realistic images of the Saint of Youth",
+          "url": "https://salesianbulletin.org/2023/01/29/getting-to-know-don-bosco-images/"
+        },
+        {
+          "title": "John Bosco, Life of the young Dominic Savio, ch. 8 (SDB translation)",
+          "url": "https://www.sdb.org/en/Don_Bosco_Resources/Writings/Books/Life_of_the_young_Dominic_Savio"
+        }
+      ],
+      "catalogMatch": "Saint John Bosco, priest"
+    },
+    {
+      "id": "scholastica",
+      "letter": "S",
+      "feast": {
+        "month": 2,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Scholastica",
+        "pt-BR": "Santa Escolástica"
+      },
+      "patronOf": {
+        "en-US": "Patron of nuns",
+        "pt-BR": "Padroeira das monjas"
+      },
+      "prayerExcerpt": {
+        "en-US": "She could do more, because she loved more.",
+        "pt-BR": "Pôde mais aquela que mais amou."
+      },
+      "excerptSource": "Gregory the Great, Dialogues II.33: 'illa plus potuit, quae amplius amavit' (our rendering of the Latin in both languages)",
+      "subject": "St. Scholastica, virgin and abbess, half-length, in the black Benedictine habit with a black veil and a white wimple, holding the open Rule of St. Benedict and an abbess's crozier; a shining white dove rises from her toward heaven. Background: Monte Cassino, the abbey on its mountain top, seen from the valley below with gathering rain clouds on one side.",
+      "face": "A woman of about forty with a soft, round, fair face, grey-blue eyes, gently arched light-brown brows, rosy cheeks and a warm, quiet smile; her gaze is lifted a little upward.",
+      "refs": [
+        "margaret_mary",
+        "clare_assisi",
+        "catherine_siena"
+      ],
+      "basis": "No portrait or description survives; Gregory's Dialogues give only her love, her prayer and the dove. The face is an artistic choice that keeps her apart from the other nuns of this batch: younger, round-faced and smiling.",
+      "sources": [
+        {
+          "title": "Gregory the Great, Dialogues, book II, ch. 33–34 (1608 translation, ed. 1911)",
+          "url": "https://www.tertullian.org/fathers/gregory_02_dialogues_book2.htm"
+        },
+        {
+          "title": "Gregory the Great, Dialogi, liber II (Latin, Wikisource)",
+          "url": "https://la.wikisource.org/wiki/Dialogi_(Gregorius_Magnus)/Liber_II"
+        },
+        {
+          "title": "Wikipedia, Scholastica (attributes, Kleinmariazell altar)",
+          "url": "https://en.wikipedia.org/wiki/Scholastica"
+        }
+      ],
+      "catalogMatch": "Saint Scholastica, virgin"
+    },
+    {
+      "id": "pius_x",
+      "letter": "P",
+      "feast": {
+        "month": 8,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Pius X",
+        "pt-BR": "São Pio X"
+      },
+      "patronOf": {
+        "en-US": "Pope of the Eucharist",
+        "pt-BR": "Papa da Eucaristia"
+      },
+      "prayerExcerpt": {
+        "en-US": "To restore all things in Christ.",
+        "pt-BR": "Restaurar todas as coisas em Cristo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-21.json collect (phrase; also his papal motto)",
+      "subject": "Pope St. Pius X, half-length, in the white papal cassock and white zucchetto with a red mozzetta, a red stole and a gold pectoral cross on a cord; he holds a small golden ciborium and raises a white Host toward a little girl of about seven in a white First Communion veil, who kneels at the lower edge with folded hands. Background: the Vatican gardens with the dome of St. Peter's in the distance.",
+      "face": "A man of about seventy with a broad, handsome, open face and strong clear-cut features, clean-shaven, thick short silver-white hair under the white zucchetto, clear light eyes under straight brows and a kind, winning smile.",
+      "refs": [
+        "gregory_great",
+        "alphonsus_liguori",
+        "charles_borromeo"
+      ],
+      "basis": "His photographs as pope, and witnesses quoted by Forbes (1918): a 'handsome open face and strong clear-cut features', eyes full of light and a 'winning smile'. The Host and the child stand for his decree on early First Communion.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Pius X, photograph by Ernest Walter Histed",
+          "url": "https://commons.wikimedia.org/wiki/File:Pius_X,_by_Ernest_Walter_Histed_(retouched).jpg"
+        },
+        {
+          "title": "F. A. Forbes, Pope Pius the Tenth (1918), Project Gutenberg",
+          "url": "https://www.gutenberg.org/ebooks/35953"
+        },
+        {
+          "title": "Wikipedia, Pope Pius X",
+          "url": "https://en.wikipedia.org/wiki/Pope_Pius_X"
+        }
+      ],
+      "catalogMatch": "Saint Pius X, pope"
+    },
+    {
+      "id": "teresa_benedicta",
+      "letter": "T",
+      "feast": {
+        "month": 8,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Teresa Benedicta of the Cross",
+        "pt-BR": "Santa Teresa Benedita da Cruz"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyr, co-patron of Europe",
+        "pt-BR": "Virgem e mártir, copadroeira da Europa"
+      },
+      "prayerExcerpt": {
+        "en-US": "That the whole human race may acknowledge Christ as its Savior.",
+        "pt-BR": "Que todas as pessoas reconheçam o Cristo Salvador."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/08-09.json collect (petition clause)",
+      "subject": "St. Teresa Benedicta of the Cross (Edith Stein), half-length, in the brown habit of a Discalced Carmelite with a black veil, white wimple and the white Carmelite mantle; she holds a plain wooden cross against her breast and a closed book in her other hand, with a martyr's palm beside her. Background: Cologne, with the twin spires of the cathedral above the rooftops and the Rhine.",
+      "face": "A mature woman of about forty-seven (NOT a young girl): a strong, broad, square-jawed face with high cheekbones, thick dark straight eyebrows, deep-set dark intelligent eyes, a straight nose and full, composed lips; a grave, thoughtful, scholarly expression with a faint gentle warmth. She must look clearly older and more serious than Thérèse and Teresa of Ávila.",
+      "refs": [
+        "teresa",
+        "therese",
+        "margaret_mary"
+      ],
+      "basis": "Her photographs, above all the passport photograph taken at the door of the Cologne Carmel in 1938–39: dark heavy brows, deep-set dark eyes, a strong nose and a grave expression. She died at fifty.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Edith Stein, passport photograph, Cologne Carmel (c. 1938–39)",
+          "url": "https://commons.wikimedia.org/wiki/File:Edith_Stein_(ca._1938-1939).jpg"
+        },
+        {
+          "title": "Wikipedia, Edith Stein (attributes, Cologne-Lindenthal and Echt)",
+          "url": "https://en.wikipedia.org/wiki/Edith_Stein"
+        }
+      ],
+      "catalogMatch": "Saint Teresa Benedicta of the Cross"
+    },
+    {
+      "id": "martha_mary_lazarus",
+      "letter": "M",
+      "feast": {
+        "month": 7,
+        "day": 29
+      },
+      "name": {
+        "en-US": "Sts. Martha, Mary and Lazarus",
+        "pt-BR": "Santos Marta, Maria e Lázaro"
+      },
+      "patronOf": {
+        "en-US": "Friends of the Lord at Bethany",
+        "pt-BR": "Amigos do Senhor em Betânia"
+      },
+      "prayerExcerpt": {
+        "en-US": "You are the Christ, the Son of God, who is coming into this world.",
+        "pt-BR": "Tu és o Cristo, Filho do Deus vivo, que vieste a este mundo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/07-29.json communionAntiphon (Martha's words)",
+      "subject": "Sts. Martha, Mary and Lazarus, three figures half-length side by side, all with haloes, all inside the arched window. Left, Martha in a russet-red gown with a white head-cloth and a bunch of keys at her girdle, holding a small earthenware jug. Centre, Lazarus, a little behind his sisters, in a plain off-white robe with a linen cloth over one shoulder, his hand on his heart. Right, Mary of Bethany with her long dark hair loose and uncovered (NO veil, NO blue mantle: she must not look like the Virgin Mary), in a rose-coloured gown with a green cloak, holding a small alabaster jar of ointment. Background: the village of Bethany on the slope of the Mount of Olives, a stone house with a vine at the door, Jerusalem faint in the distance.",
+      "face": "Martha: a woman of about thirty-five, strong and wholesome, with a round face, rosy cheeks, chestnut hair tucked under the head-cloth, steady brown eyes and a frank, kindly look toward the viewer. Mary: a younger woman of about twenty-five, with a delicate oval face, long dark wavy hair loose over her shoulders, large dark eyes lowered to the alabaster jar and a still, listening expression. Lazarus: a lean man of about fifty with a pale, gaunt, gentle face, receding short grey-streaked black hair, clean-shaven and dark eyes raised in quiet gratitude; not curly-haired, not long-haired.",
+      "refs": [
+        "philip_james",
+        "mary_magdalene",
+        "anne"
+      ],
+      "basis": "No tradition fixes their faces, so the three are set apart by age, colouring and attribute, following the Gospel roles the 2021 decree names: Martha serving, Mary listening, Lazarus raised. Mary is kept veiled and dark-haired so she does not repeat the Magdalene card.",
+      "sources": [
+        {
+          "title": "Decree on the celebration of Saints Martha, Mary and Lazarus in the General Roman Calendar (26 January 2021)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20210126_decreto-santi_en.html"
+        },
+        {
+          "title": "Vermeer, Christ in the House of Martha and Mary (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg"
+        },
+        {
+          "title": "Golden Legend (Caxton), Life of S. Martha",
+          "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume4.asp"
+        }
+      ],
+      "catalogMatch": "Saints Martha, Mary and Lazarus"
+    },
+    {
+      "id": "basil_gregory",
+      "letter": "B",
+      "feast": {
+        "month": 1,
+        "day": 2
+      },
+      "name": {
+        "en-US": "Sts. Basil the Great and Gregory Nazianzen",
+        "pt-BR": "Santos Basílio Magno e Gregório Nazianzeno"
+      },
+      "patronOf": {
+        "en-US": "Bishops and doctors of the Church",
+        "pt-BR": "Bispos e doutores da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "We seemed to have one soul, inhabiting two bodies.",
+        "pt-BR": "Parecíamos ter uma só alma habitando dois corpos."
+      },
+      "excerptSource": "Gregory Nazianzen, Oration 43 (on Basil), 20, NPNF 2nd series vol. 7 (1894); pt-BR our rendering",
+      "subject": "Sts. Basil the Great and Gregory Nazianzen, two Greek bishops half-length side by side, both with haloes, inside the arched window. Left, Basil in a dark green-gold phelonion with the white omophorion marked with black crosses, holding an unrolled scroll of the Divine Liturgy. Right, Gregory in a rose-red phelonion with the same white omophorion, holding a closed jewelled Gospel book against his chest. Background: Cappadocia, the rocky hills and fairy-chimney rocks near Caesarea, with snow-capped Mount Argaeus in the distance.",
+      "face": "Two clearly different people. Basil: a lean ascetic man in his late forties; a LONG, NARROW face with a high forehead, a long thin aquiline nose with a pronounced bridge, close-set deep-set dark eyes under high-arched black brows, hollow cheeks, thin lips; thick dark hair threaded with grey; a long black beard narrowing to a point. Gregory: a man of about sixty with a BROAD, ROUND, FLESHY face, a short wide nose with a rounded tip, large wide-set soft eyes with heavy lids, full cheeks and a full lower lip; bald crown with a short fringe at the sides; a broad square-cut smoky dark-grey beard; a gentle, meditative look.",
+      "refs": [
+        "philip_james",
+        "athanasius",
+        "nicholas"
+      ],
+      "basis": "The Painter's Manual gives Basil grey hair, a large beard and arched brows, and Gregory baldness and a broad beard 'of a sooty colour'; the Kiev mosaic of Basil and the Chora fresco of Gregory show the same types. Basil is kept dark-haired to separate the pair.",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 316 (Dionysius of Fourna)",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Wikimedia Commons, St. Basil the Great, mosaic, Hagia Sophia, Kiev (11th c.)",
+          "url": "https://commons.wikimedia.org/wiki/File:Basil_of_Caesarea.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Gregory the Theologian, fresco, Chora (Kariye Camii)",
+          "url": "https://commons.wikimedia.org/wiki/File:Gregor-Chora_(cropped).jpg"
+        },
+        {
+          "title": "Gregory Nazianzen, Oration 43, New Advent (NPNF)",
+          "url": "https://www.newadvent.org/fathers/310243.htm"
+        }
+      ],
+      "catalogMatch": "Ss Basil the Great and Gregory Nazianzen"
+    },
+    {
+      "id": "anthony_abbot",
+      "letter": "A",
+      "feast": {
+        "month": 1,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Anthony the Abbot",
+        "pt-BR": "Santo Antão"
+      },
+      "patronOf": {
+        "en-US": "Father of monks",
+        "pt-BR": "Pai dos monges"
+      },
+      "prayerExcerpt": {
+        "en-US": "If you would be perfect, go, sell what you have, give to the poor, and follow me, says the Lord.",
+        "pt-BR": "Se queres ser perfeito, vai, vende o que tens e dá o dinheiro aos pobres; depois, segue-me, diz o Senhor."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-17.json communionAntiphon (the Gospel words that sent him to the desert, Athanasius, Life of Antony 2)",
+      "subject": "St. Anthony the Abbot, half-length, in a coarse grey-brown tunic under a black hooded mantle, the hood drawn up over his head, a blue tau cross on the shoulder of the mantle; he leans on a tall T-shaped (tau) staff hung with a small bell and holds an open book; a small pink pig at the lower edge. Background: the Egyptian desert by the Red Sea mountains, a cave mouth, a spring and a few date palms.",
+      "face": "A very old but hale hermit with a TRIANGULAR face: broad weathered brow, very prominent high cheekbones, sunken temples, a narrow pointed chin under the beard; small deep-set eyes narrowed as against the desert sun with deep crow's-feet; a short, broad, slightly flattened nose; a wide thin mouth. Deeply sun-browned skin. The black hood frames the face so no hair shows; a medium-length grey-white beard parted at the chin into two points; bushy white brows; a calm, bright gaze.",
+      "refs": [
+        "jerome",
+        "benedict",
+        "francis_assisi"
+      ],
+      "basis": "The Painter's Manual gives him as an old man with a short beard parted in two; the Greek icons, like Damaskinos's, show him hooded. Athanasius says he kept his sight and bodily health to the end; the tau, bell and pig are the Western card attributes.",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 330 (Dionysius of Fourna)",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Wikimedia Commons, Michael Damaskinos, St. Anthony (16th c.)",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Anthony_(Damaskinos).png"
+        },
+        {
+          "title": "Athanasius, Life of Antony, New Advent (NPNF)",
+          "url": "https://www.newadvent.org/fathers/2811.htm"
+        }
+      ],
+      "catalogMatch": "Saint Anthony, abbot"
+    },
+    {
+      "id": "polycarp",
+      "letter": "P",
+      "feast": {
+        "month": 2,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Polycarp",
+        "pt-BR": "São Policarpo"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Eighty and six years have I served Him, and He never did me any injury.",
+        "pt-BR": "Há oitenta e seis anos que o sirvo, e ele nunca me fez mal algum."
+      },
+      "excerptSource": "Martyrdom of Polycarp 9, ANF vol. 1 (1885); pt-BR our rendering",
+      "subject": "St. Polycarp, bishop and martyr, half-length, bareheaded, in a white chasuble with a narrow red pallium, holding a Gospel book and a martyr's palm; behind him a tall arch of golden flames curves over him like a ship's sail filled with wind, leaving him untouched and serene. Background: Smyrna, its harbour and the hill of Mount Pagos, under a clear sky.",
+      "face": "A very old man of about eighty-five with a SMALL, HEART-SHAPED face: wide cheekbones tapering to a small pointed chin, round rosy apple cheeks, a small short upturned nose, small bright eyes crinkled by a gentle smile, a short upper lip; a full head of soft thin silvery-white hair falling to the nape (not bald); a short, neat, rounded snow-white beard; eyes raised to heaven with a quiet smile.",
+      "refs": [
+        "nicholas",
+        "athanasius",
+        "augustine"
+      ],
+      "basis": "The Painter's Manual gives 'an old man, rounded beard', and the Martyrdom gives his age, eighty-six years in Christ's service, and the fire shaped 'like the sail of a ship'. The full white hair is an artistic choice to keep him apart from the bald elders on existing cards.",
+      "sources": [
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), p. 318 (Dionysius of Fourna)",
+          "url": "https://archive.org/details/manueldiconograp00dion"
+        },
+        {
+          "title": "Martyrdom of Polycarp, New Advent (ANF)",
+          "url": "https://www.newadvent.org/fathers/0102.htm"
+        },
+        {
+          "title": "Wikimedia Commons, Orthodox fresco of Polycarp",
+          "url": "https://commons.wikimedia.org/wiki/File:Polycarp_of_Smyrna2.jpg"
+        }
+      ],
+      "catalogMatch": "Saint Polycarp, bishop and martyr"
+    },
+    {
+      "id": "hildegard",
+      "letter": "H",
+      "feast": {
+        "month": 9,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Hildegard of Bingen",
+        "pt-BR": "Santa Hildegarda de Bingen"
+      },
+      "patronOf": {
+        "en-US": "Doctor of the Church, the Sibyl of the Rhine",
+        "pt-BR": "Doutora da Igreja, a Sibila do Reno"
+      },
+      "prayerExcerpt": {
+        "en-US": "O fire of the Spirit, the Comforter, life of the life of every creature.",
+        "pt-BR": "Ó fogo do Espírito Consolador, vida da vida de toda criatura."
+      },
+      "excerptSource": "Hildegard, Symphonia, sequence 'O ignis Spiritus paracliti, vita vite omnis creature' (12th c.; our rendering of the Latin in both languages)",
+      "subject": "St. Hildegard of Bingen, abbess, half-length, in the black Benedictine habit with a black veil over a white wimple, an abbess's crozier resting against her shoulder; she holds a wax writing tablet and a stylus, and golden tongues of fire descend from an opening in the sky onto her head. Background: the Rhine at Bingen, with the abbey of Rupertsberg above the river and vine-covered hills.",
+      "face": "A woman of about sixty-five with a long, noble, narrow face, a strong straight nose, fine lines at the eyes, thin silver-grey brows, deep-set brown eyes raised upward toward the light, and firm, composed lips.",
+      "refs": [
+        "bridget_sweden",
+        "catherine_siena",
+        "clare_assisi"
+      ],
+      "basis": "No portrait from life survives; the Rupertsberg Scivias shows her receiving the fiery light with a wax tablet while Volmar writes. She described that light filling her in 1141, at forty-two, and wrote her last visions in old age, so the face is an older abbess, kept apart from the other nuns of this batch.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Hildegard receives a divine inspiration (Rupertsberg Scivias)",
+          "url": "https://commons.wikimedia.org/wiki/File:Hildegard_von_Bingen.jpg"
+        },
+        {
+          "title": "Wikipedia, Scivias (the Protestificatio and its fiery light)",
+          "url": "https://en.wikipedia.org/wiki/Scivias"
+        },
+        {
+          "title": "International Society of Hildegard von Bingen Studies, O ignis Spiritus paracliti",
+          "url": "http://www.hildegard-society.org/2014/11/o-ignis-spiritus-paracliti-sequence.html"
+        }
+      ],
+      "catalogMatch": "Saint Hildegard of Bingen"
+    },
+    {
+      "id": "rita_cascia",
+      "letter": "R",
+      "feast": {
+        "month": 5,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Rita of Cascia",
+        "pt-BR": "Santa Rita de Cássia"
+      },
+      "patronOf": {
+        "en-US": "Patron of impossible causes",
+        "pt-BR": "Padroeira das causas impossíveis"
+      },
+      "prayerExcerpt": {
+        "en-US": "Bestow on us, O Lord, the wisdom and strength of the Cross.",
+        "pt-BR": "Concedei-nos, Senhor, a sabedoria da Cruz e a fortaleza de ânimo."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/05-22.json collect (opening; 'we pray' omitted in en-US)",
+      "subject": "St. Rita of Cascia, half-length, in the black Augustinian habit with a black veil, a white wimple and a leather belt; she gazes at a crucifix she holds in her hands, from which one fine golden ray reaches a small thorn-mark on her forehead; a single red rose lies beside the crucifix. Background: the Umbrian hills at Cascia with the town and the monastery of St. Mary Magdalene, and a vine.",
+      "face": "A woman of about fifty-five with a pale, fine-boned, slightly long face, a small dark thorn-mark in the middle of the forehead kept small and neat, dark-brown eyes lifted in sorrowful love to the crucifix, a slender straight nose and gentle, closed lips.",
+      "refs": [
+        "monica",
+        "margaret_mary",
+        "catherine_siena"
+      ],
+      "basis": "The portrait on the casket made for her body in 1457 shows a long, pale, older face with the forehead wound; the wound, the rose and the crucifix are her constant marks. The black habit follows the popular devotional image rather than the brown of her monastery.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, St. Rita, portrait on the casket that held her body, Cascia",
+          "url": "https://commons.wikimedia.org/wiki/File:Santa_Rita_da_Cascia.jpg"
+        },
+        {
+          "title": "Wikipedia, Rita of Cascia (forehead wound, rose, bees, habit)",
+          "url": "https://en.wikipedia.org/wiki/Rita_of_Cascia"
+        }
+      ],
+      "catalogMatch": "Saint Rita of Cascia"
+    }
+  ]
+}
