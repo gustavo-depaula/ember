@@ -7,7 +7,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Category | Cards | Done |
 |---|---|---|
 | Saints — solemnities, feasts, memorials | 83 | 83 |
-| Saints — optional memorials | 106 | 64 |
+| Saints — optional memorials | 106 | 74 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
@@ -19,7 +19,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 325 cards, 175 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 325 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -112,7 +112,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 ### Optional memorials
 
 - [ ] 7 Jan · Saint Raymund of Penyafort, Priest · *São Raimundo de Penhaforte, presbítero* · optional-memorial
-- [ ] 13 Jan · Saint Hilary, Bishop and Doctor of the Church · *Santo Hilário, bispo e doutor da Igreja* · optional-memorial
+- [x] 13 Jan · Saint Hilary, Bishop and Doctor of the Church · *Santo Hilário, bispo e doutor da Igreja* · optional-memorial — `hilary`
 - [x] 20 Jan · Saint Fabian, pope and martyr · *São Fabiano, papa e mártir* · optional-memorial — `fabian`
 - [x] 20 Jan · Saint Sebastian, martyr · *São Sebastião, mártir* · optional-memorial — `sebastian`
 - [x] 22 Jan · Saint Vincent, deacon and martyr · *São Vicente, diácono e mártir* · optional-memorial — `vincent_saragossa`
@@ -122,7 +122,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [ ] 8 Feb · Saint Jerome Emiliani · *São Jerônimo Emiliani* · optional-memorial
 - [x] 8 Feb · Saint Josephine Bakhita · *Santa Josefina Bakhita, virgem* · optional-memorial — `josephine_bakhita`
 - [ ] 17 Feb · The Seven Holy Founders of the Servite Order · *Os sete Santos fundadores da Ordem dos Servos de Maria* · optional-memorial
-- [ ] 21 Feb · Saint Peter Damian, bishop and doctor of the Church · *São Pedro Damião, bispo e doutor da Igreja* · optional-memorial
+- [x] 21 Feb · Saint Peter Damian, bishop and doctor of the Church · *São Pedro Damião, bispo e doutor da Igreja* · optional-memorial — `peter_damian`
 - [ ] 27 Feb · Saint Gregory of Narek, Abbot and Doctor of the Church · *São Gregório de Narek, abade e doutor da Igreja* · optional-memorial
 - [ ] 4 Mar · Saint Casimir · *São Casimiro* · optional-memorial
 - [x] 8 Mar · Saint John of God, religious · *São João de Deus, religioso* · optional-memorial — `john_of_god`
@@ -133,7 +133,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 2 Apr · Saint Francis of Paola, hermit · *São Francisco de Paula, eremita* · optional-memorial — `francis_paola`
 - [ ] 4 Apr · Saint Isidore, bishop and doctor of the Church · *Santo Isidoro, bispo e doutor da Igreja* · optional-memorial
 - [x] 5 Apr · Saint Vincent Ferrer, priest · *São Vicente Ferrer, presbítero* · optional-memorial — `vincent_ferrer`
-- [ ] 13 Apr · Saint Martin I, pope and martyr · *São Martinho I, papa e mártir* · optional-memorial
+- [x] 13 Apr · Saint Martin I, pope and martyr · *São Martinho I, papa e mártir* · optional-memorial — `martin_i`
 - [x] 21 Apr · Saint Anselm, bishop and doctor of the Church · *Santo Anselmo, bispo e doutor da Igreja* · optional-memorial — `anselm`
 - [x] 23 Apr · Saint George, martyr · *São Jorge, mártir* · optional-memorial — `george`
 - [ ] 23 Apr · Saint Adalbert, bishop and martyr · *Santo Adalberto, bispo e mártir* · optional-memorial
@@ -143,7 +143,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 30 Apr · Saint Pius V, pope · *São Pio V, papa* · optional-memorial — `pius_v`
 - [ ] 10 May · Saint John De Avila, Priest and Doctor of the Church · *São João de Ávila, presbítero e doutor da Igreja* · optional-memorial
 - [ ] 12 May · Ss. Nereus and Achilleus, martyrs · *Santos Nereu e Aquiles, mártires* · optional-memorial
-- [ ] 12 May · Saint Pancras, martyr · *São Pancrácio, mártir* · optional-memorial
+- [x] 12 May · Saint Pancras, martyr · *São Pancrácio, mártir* · optional-memorial — `pancras`
 - [ ] 18 May · Saint John I, pope and martyr · *São João I, papa e mártir* · optional-memorial
 - [x] 20 May · Saint Bernardine of Siena, priest · *São Bernardino de Sena, presbítero* · optional-memorial — `bernardine_siena`
 - [x] 21 May · Saint Christopher Magallanes, Priest, and Companions, Martyrs · *São Cristóvão Magalhães, presbítero, e companheiros, mártires* · optional-memorial — `christopher_magallanes`
@@ -195,7 +195,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 9 Oct · Saint Denis, bishop and martyr and Companions, martyrs · *São Dionísio, bispo, e companheiros, mártires* · optional-memorial — `denis`
 - [ ] 9 Oct · Saint John Leonardi, priest · *São João Leonardi, presbítero* · optional-memorial
 - [x] 11 Oct · Saint John Xxiii, pope · *São João XXIII, papa* · optional-memorial — `john_xxiii`
-- [ ] 14 Oct · Saint Callistus I, pope and martyr · *São Calisto I, papa e mártir* · optional-memorial
+- [x] 14 Oct · Saint Callistus I, pope and martyr · *São Calisto I, papa e mártir* · optional-memorial — `callistus`
 - [x] 16 Oct · Saint Hedwig, religious · *Santa Edviges, religiosa* · optional-memorial — `hedwig`
 - [x] 16 Oct · Saint Margaret Mary Alacoque, virgin · *Santa Margarida Maria Alacoque, virgem* · optional-memorial — `margaret_mary`
 - [x] 19 Oct · Ss. John de Brebeuf and Isaac Jogues, priests and martyrs, and Companions, martyrs · *Santos João de Brébeuf e Isaac Jogues, presbíteros, e companheiros, mártires* · optional-memorial — `north_american_martyrs`
@@ -207,16 +207,16 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 15 Nov · Saint Albert the Great, bishop and doctor of the Church · *Santo Alberto Magno, bispo e doutor da Igreja* · optional-memorial — `albert_great`
 - [x] 16 Nov · Saint Margaret of Scotland · *Santa Margarida da Escócia* · optional-memorial — `margaret_scotland`
 - [x] 16 Nov · Saint Gertrude, virgin · *Santa Gertrudes, virgem* · optional-memorial — `gertrude`
-- [ ] 23 Nov · Saint Clement I, pope and martyr · *São Clemente I, papa e mártir* · optional-memorial
+- [x] 23 Nov · Saint Clement I, pope and martyr · *São Clemente I, papa e mártir* · optional-memorial — `clement_i`
 - [ ] 23 Nov · Saint Columban, abbot · *São Columbano, abade* · optional-memorial
 - [x] 25 Nov · Saint Catherine of Alexandria, virgin and martyr · *Santa Catarina de Alexandria, virgem e mártir* · optional-memorial — `catherine_alexandria`
-- [ ] 4 Dec · Saint John Damascene, priest and doctor of the Church · *São João Damasceno, presbítero e doutor da Igreja* · optional-memorial
+- [x] 4 Dec · Saint John Damascene, priest and doctor of the Church · *São João Damasceno, presbítero e doutor da Igreja* · optional-memorial — `john_damascene`
 - [x] 9 Dec · Saint Juan Diego Cuauhtlatoatzin · *São João Diego Cuauhtlatoatzin* · optional-memorial — `juan_diego`
 - [ ] 11 Dec · Saint Damasus I, pope · *São Dâmaso I, papa* · optional-memorial
-- [ ] 21 Dec · Saint Peter Canisius, priest and doctor of the Church · *São Pedro Canísio, presbítero e doutor da Igreja* · optional-memorial
+- [x] 21 Dec · Saint Peter Canisius, priest and doctor of the Church · *São Pedro Canísio, presbítero e doutor da Igreja* · optional-memorial — `peter_canisius`
 - [ ] 23 Dec · Saint John of Kanty, priest · *São João Câncio, presbítero* · optional-memorial
-- [ ] 29 Dec · Saint Thomas Becket, bishop and martyr · *São Tomás Becket, bispo e mártir* · optional-memorial
-- [ ] 31 Dec · Saint Sylvester I, pope · *São Silvestre I, papa* · optional-memorial
+- [x] 29 Dec · Saint Thomas Becket, bishop and martyr · *São Tomás Becket, bispo e mártir* · optional-memorial — `thomas_becket`
+- [x] 31 Dec · Saint Sylvester I, pope · *São Silvestre I, papa* · optional-memorial — `sylvester`
 
 ### Named in the Roman Canon, not on the calendar
 

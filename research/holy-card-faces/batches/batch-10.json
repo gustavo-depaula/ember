@@ -1,0 +1,431 @@
+{
+  "batch": 10,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-10.md",
+  "cards": [
+    {
+      "id": "clement_i",
+      "letter": "C",
+      "feast": {
+        "month": 11,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Clement I",
+        "pt-BR": "São Clemente I"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "He bore out by his witness what he celebrated in mystery and confirmed by example what he preached with his lips.",
+        "pt-BR": "Demonstrou com o testemunho o mistério que celebrava e confirmou com o exemplo a palavra que pregava com sua boca."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/11-23.json collect (relative clause after \"Saint Clement, who, as a Martyr and High Priest of your Son,\"; \"he\"/capital added in en-US, pt-BR verbatim from \"demonstrou\")",
+      "subject": "An early pope of the first century, half-length, in a simple deep-red chasuble of antique bell shape over a white tunic, with a plain narrow white wool pallium marked with small dark crosses; NO tiara, NO mitre, bare-headed. With his left hand he rests a dark iron ship's anchor upright against his shoulder, its ring near his cheek; in his right hand a small green martyr's palm. Behind him the Roman harbour of Ostia at the mouth of the Tiber: a stone lighthouse on the mole, a few moored merchant ships with furled square sails, warehouses of brick, and a calm blue-green sea under a clear morning sky. Keep the harbour and ships inside the arched window.",
+      "face": "A man of about sixty with a diamond-shaped face — a narrow forehead and a narrow, firm chin, broadest at high, prominent cheekbones; a strong, high-bridged aquiline Roman nose; deep-set, dark, thoughtful eyes under straight black brows flecked with grey; a thin, firm mouth; close-cropped black hair receding at the temples and greying above the ears; a short, close-trimmed black beard following the line of the jaw, grizzled at the chin; a calm, attentive gaze slightly to one side.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; the tradition shows him in the pallium with the anchor of his legendary drowning in the Black Sea. The Roman features and short grizzled beard are our choice, set against the city's harbour, to keep him apart from the other early popes.",
+      "sources": [
+        {
+          "title": "Christian Iconography, St. Clement I (anchor; San Clemente apse mosaic)",
+          "url": "https://www.christianiconography.info/clement.html"
+        },
+        {
+          "title": "Wikipedia, Pope Clement I (iconography: pallium, anchor, palm)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Clement_I"
+        },
+        {
+          "title": "Catholic Encyclopedia (1908), Pope St. Clement I",
+          "url": "https://www.newadvent.org/cathen/04012c.htm"
+        }
+      ],
+      "catalogMatch": "Saint Clement I, pope and martyr"
+    },
+    {
+      "id": "john_damascene",
+      "letter": "J",
+      "feast": {
+        "month": 12,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. John Damascene",
+        "pt-BR": "São João Damasceno"
+      },
+      "patronOf": {
+        "en-US": "Priest and Doctor of the Church",
+        "pt-BR": "Presbítero e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "May the true faith, which he excelled in teaching, always be our light and our strength.",
+        "pt-BR": "Que a verdadeira fé, por ele ensinada de modo excelente, seja sempre nossa luz e nossa força."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/12-04.json collect (final clause; \"so that the true faith … may always be\" recast as a wish, \"Que\" added in pt-BR; otherwise verbatim)",
+      "subject": "A Syrian monk-priest of the eighth century, half-length, turned three-quarters, in a dark plum-purple monastic mantle over an ochre-gold tunic, his head wrapped in the white Arab head-cloth crossed with thin black stripes that Byzantine painters give him, falling to the shoulders. In his left hand a long, unrolled blank parchment scroll (no writing on it); in his right a reed pen lifted from a small ink-horn. Beside him on a ledge a small icon of the Mother of God with the Child. Behind him the Great Lavra of Mar Saba clinging to the cliffs of the Kidron gorge in the Judaean desert: honey-coloured stone walls, towers and cells stepped down the rock face, a pale dome, bare ochre hills and a hot, clear sky. Keep the monastery inside the arched window.",
+      "face": "A Levantine man of about sixty-five with a warm olive complexion and a long, narrow face — a high, lined forehead, a long, thin nose with a high bridge curving slightly at the tip, heavy-lidded, almond-shaped dark-brown eyes under dark, gently sloping brows, lean cheeks under fine cheekbones, a narrow chin hidden in the beard and a small mouth; a long, wavy, iron-grey beard falling in soft strands to the breast and a grey moustache; a grave, gentle, contemplative gaze lowered to the scroll.",
+      "refs": [
+        "jerome",
+        "athanasius",
+        "augustine"
+      ],
+      "basis": "No likeness from life survives; the Athonite fresco on Wikipedia shows the Byzantine type: a long, lean face, a long wavy grey-white beard and the striped white head-cloth, writing on a scroll. The card keeps that type, iron-grey rather than white, with the olive complexion of a Damascene Arab and Mar Saba, where he lived and wrote.",
+      "sources": [
+        {
+          "title": "Wikipedia, John of Damascus (lead image: Athonite fresco icon of St John of Damascus)",
+          "url": "https://en.wikipedia.org/wiki/John_of_Damascus"
+        },
+        {
+          "title": "Wikimedia Commons, Athonite Fresco Icon of Saint John of Damascus",
+          "url": "https://commons.wikimedia.org/wiki/File:Athonite_Fresco_Icon_of_Saint_John_of_Damascus.jpg"
+        },
+        {
+          "title": "Catholic Encyclopedia (1910), St. John Damascene",
+          "url": "https://www.newadvent.org/cathen/08459b.htm"
+        }
+      ],
+      "catalogMatch": "Saint John Damascene"
+    },
+    {
+      "id": "peter_canisius",
+      "letter": "P",
+      "feast": {
+        "month": 12,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Peter Canisius",
+        "pt-BR": "São Pedro Canísio"
+      },
+      "patronOf": {
+        "en-US": "Priest and Doctor of the Church",
+        "pt-BR": "Presbítero e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "May those who seek the truth joyfully find you, their God.",
+        "pt-BR": "Concedei aos que buscam a verdade a alegria de vos encontrar."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/12-21.json collect (en-US recast from \"grant … that those who seek the truth may joyfully find you, their God\"; pt-BR joins \"concedei\" to \"aos que buscam a verdade, a alegria de vos encontrar\")",
+      "subject": "A Jesuit priest of the sixteenth century, half-length, in a plain black Jesuit cassock with a narrow white collar band showing at the neck and a black mantle, bare-headed. He holds against his breast with his left hand a small, thick, closed leather-bound book (his catechism), his right hand open in a gesture of teaching; a simple wooden rosary hangs from his fingers. Behind him the Swiss town of Fribourg on its rock above the green loop of the river Saane: steep tiled roofs, the tall Gothic bell tower of the church of St Nicholas, a covered wooden bridge, and wooded hills under a soft grey-blue winter sky. Keep the town inside the arched window.",
+      "face": "A man of about sixty-five with an oblong face that broadens at the jaw — a broad, smooth forehead, a long, straight nose with a fleshy, rounded tip, wide-set, hooded pale-brown eyes under thin, level brows, full, softened lower cheeks, a wide, firm mouth; thick grey hair cut short and combed forward over the brow; a short, close-cropped grey beard and moustache covering the jaw; a mild, attentive gaze slightly to the side.",
+      "refs": [
+        "ignatius_loyola",
+        "francis_xavier",
+        "alphonsus_liguori"
+      ],
+      "basis": "The traditional portrait (Wikipedia lead image) shows an elderly Jesuit with an oblong face, a long nose, heavy-lidded eyes, grey hair combed forward and a short grey beard, in the black cassock; the card follows it. Fribourg is where he spent his last years and died.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter Canisius (lead image: portrait of St Petrus Canisius)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Canisius"
+        },
+        {
+          "title": "Wikimedia Commons, Saint Petrus Canisius",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Petrus_Canisius.jpg"
+        },
+        {
+          "title": "Catholic Encyclopedia (1911), Blessed Peter Canisius",
+          "url": "https://www.newadvent.org/cathen/03253a.htm"
+        }
+      ],
+      "catalogMatch": "Saint Peter Canisius"
+    },
+    {
+      "id": "thomas_becket",
+      "letter": "T",
+      "feast": {
+        "month": 12,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Thomas Becket",
+        "pt-BR": "São Tomás Becket"
+      },
+      "patronOf": {
+        "en-US": "Archbishop and martyr",
+        "pt-BR": "Arcebispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Renouncing our life for the sake of Christ in this world, may we find it in heaven.",
+        "pt-BR": "Doar a vida por Cristo neste mundo, para que possamos encontrá-la no céu."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/12-29.json collect (final clause; en-US \"that,\" dropped and \"we may\" inverted; pt-BR verbatim after \"concedei-nos, por sua intercessão,\", capitalised)",
+      "subject": "An archbishop of the twelfth century, half-length, standing calmly, in a deep-red chasuble of full medieval cut over a white alb, a white wool pallium with small dark crosses over his shoulders, and a white mitre with gold bands; in his left hand a gilt crozier, in his right a closed Gospel book held to his breast. No sword, no wound, no violence. Behind him the Romanesque cathedral of Canterbury as it stood in 1170: pale Caen-stone walls, round arches and a massive square central tower, with the roofs of the city and green Kentish fields beyond under a soft winter sky. Keep the cathedral inside the arched window.",
+      "face": "A tall, spare man of about fifty with a pale complexion and a long, narrow, well-formed face — a high forehead, a long, fine nose with a gently arched bridge, bright, lively dark eyes under dark, straight brows, lean cheeks with a faint colour high on the cheekbones, a firm, narrow chin and a finely shaped, closed mouth; clean-shaven; dark-brown hair, just touched with grey at the temples, cut short around the tonsure beneath the mitre; a steady, resolute, serene gaze straight ahead.",
+      "refs": [
+        "ambrose",
+        "charles_borromeo",
+        "augustine"
+      ],
+      "basis": "William FitzStephen, his clerk and biographer, describes him as unusually tall and slender, pale, dark-haired, with a long nose and well-formed features; the card follows that. The clean-shaven face follows the twelfth-century British Library miniature (Cotton MS Claudius B II), and the vestments are an archbishop's with the pallium.",
+      "sources": [
+        {
+          "title": "Wikipedia, Thomas Becket (lead image: British Library, Cotton MS Claudius B II, f. 341r)",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Becket"
+        },
+        {
+          "title": "Wikipedia, William Fitzstephen (Vita Sancti Thomae)",
+          "url": "https://en.wikipedia.org/wiki/William_Fitzstephen"
+        },
+        {
+          "title": "Catholic Encyclopedia (1912), St. Thomas Becket",
+          "url": "https://www.newadvent.org/cathen/14676a.htm"
+        }
+      ],
+      "catalogMatch": "Saint Thomas Becket"
+    },
+    {
+      "id": "sylvester",
+      "letter": "S",
+      "feast": {
+        "month": 12,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. Sylvester I",
+        "pt-BR": "São Silvestre I"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "Running the course of this present life under your guidance, may we happily attain life without end.",
+        "pt-BR": "Conduzido por vós na vida presente, mereça alcançar a felicidade da vida eterna."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/12-31.json collect (final clause; en-US \"so that\" dropped and \"we may\" inverted; pt-BR verbatim from \"conduzido\", capitalised; its subject is \"o vosso povo\")",
+      "subject": "An early pope of the fourth century, half-length, in a simple, full chasuble of warm brick-red over a white tunic, a plain white wool pallium falling straight down the front; NO tiara, NO mitre, bare-headed. He holds a large closed Gospel book bound in gold against his breast with both hands, as in the old Roman fresco. Behind him Mount Soracte north of Rome, a long lone limestone ridge rising from green, rolling Tiber-valley countryside, with a small stone hermitage near its summit, olive groves at its foot and a pale, clear winter sky. Keep the mountain inside the arched window.",
+      "face": "A man of about sixty-five with a long, narrow face tapering to a small, rounded chin — a smooth, high forehead, very large, wide-open almond-shaped dark eyes under high, finely arched brows, a long, thin, perfectly straight nose, smooth cheeks without prominent cheekbones, a small, closed mouth; white hair cut in a neat round clerical ring (the crown shaven); a short, neat, pointed white beard and a thin white moustache; a calm, wide-eyed, gentle gaze straight ahead.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "The eighth-century fresco in Santa Maria Antiqua (Wikipedia lead image) shows him frontal, with a long face, very large eyes, a long straight nose, a tonsure and a short pointed beard, holding a jewelled book in a red chasuble and pallium; the card follows it, aged to the end of his twenty-one-year reign. Soracte is where the legend has him hiding during the persecution.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Sylvester I (lead image: fresco, Santa Maria Antiqua, 757–767)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Sylvester_I"
+        },
+        {
+          "title": "Catholic Encyclopedia (1912), Pope St. Sylvester I",
+          "url": "https://www.newadvent.org/cathen/14370a.htm"
+        },
+        {
+          "title": "Wikipedia, Acts of Sylvester (Sylvester found hiding on Mount Soracte)",
+          "url": "https://en.wikipedia.org/wiki/Acts_of_Sylvester"
+        }
+      ],
+      "catalogMatch": "Saint Sylvester I, pope"
+    },
+    {
+      "id": "pancras",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Pancras",
+        "pt-BR": "São Pancrácio"
+      },
+      "patronOf": {
+        "en-US": "Patron of children and of work",
+        "pt-BR": "Padroeiro das crianças e do trabalho"
+      },
+      "prayerExcerpt": {
+        "en-US": "This is the one who was not deserted by God on the day of struggle.",
+        "pt-BR": "Este é o homem que Deus não abandonou no dia do combate."
+      },
+      "excerptSource": "content/of/formularies/common/martyrs/mart10.json entranceAntiphon, first clause (Common of Martyrs in Easter Time, one martyr; his memorial falls in Easter Time and has no proper formulary in the repo)",
+      "subject": "A Roman boy of about fourteen, half-length, in a knee-length white wool tunic with a narrow red stripe at the edge and a short deep-green cloak fastened at the right shoulder with a small round bronze brooch. In his right hand he holds a green martyr's palm upright; his left hand holds a small closed book to his breast. Behind him the Janiculum hill above Rome along the Via Aurelia: tall umbrella pines and cypresses, a low Roman tomb by the road, and beyond, the Tiber and the roofs and domes of the ancient city in the soft light of a spring morning. Keep the scene inside the arched window.",
+      "face": "A boy of fourteen, visibly a boy and not a young man, with a round face still holding childhood fullness — a smooth, rounded forehead, round, soft cheeks, a short, straight nose with a small rounded tip, large, round dark-brown eyes under straight, thick dark brows, a small dimpled chin and a small mouth with the faint hint of a smile; a light olive, sun-warmed Mediterranean complexion; thick, dark-brown hair in short, tight curls close to the head; no beard; a brave, candid gaze lifted a little upward.",
+      "refs": [
+        "aloysius_gonzaga",
+        "sebastian",
+        "agnes"
+      ],
+      "basis": "The traditional Passio makes him a Phrygian orphan brought to Rome and beheaded at fourteen on the Via Aurelia; later statues such as the one in Barcelona Cathedral (Wikipedia lead image) show a curly-haired boy in a tunic and cloak with a book and palm. The card follows those, not the medieval soldier type.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pancras of Rome (lead image: statue, Barcelona Cathedral)",
+          "url": "https://en.wikipedia.org/wiki/Pancras_of_Rome"
+        },
+        {
+          "title": "Catholic Encyclopedia (1911), St. Pancras",
+          "url": "https://www.newadvent.org/cathen/11446b.htm"
+        }
+      ],
+      "catalogMatch": "Saint Pancras, martyr"
+    },
+    {
+      "id": "callistus",
+      "letter": "C",
+      "feast": {
+        "month": 10,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Callistus I",
+        "pt-BR": "São Calisto I"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Rescued from the slavery of corruption, may we merit an incorruptible inheritance.",
+        "pt-BR": "Libertos da corrupção, mereçamos alcançar a herança incorruptível."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/10-14.json collect (final clause; en-US \"so that,\" dropped and \"we may\" inverted; pt-BR verbatim after \"a fim de que,\", capitalised)",
+      "subject": "An early pope of the third century, half-length, in a simple deep-green bell-shaped chasuble over a plain white tunic and a white wool pallium with small dark crosses; NO tiara, NO mitre, bare-headed. His right hand is raised in blessing; in his left a green martyr's palm and a small closed book. Behind him Trastevere on the right bank of the Tiber in the third century: a modest house-church of brick with a tiled roof among humble workshops and houses, a stone well-head in the small square before it, the river and the Aventine hill beyond, under a warm autumn sky. Keep the scene inside the arched window.",
+      "face": "A stocky, broad-shouldered man of about fifty-five with a wide, rectangular face and a heavy, fleshy jaw on a thick neck — a low, broad forehead, a broad nose with a wide, flat bridge, small, shrewd, kindly hazel eyes set deep under a heavy brow with thick, straight black-and-grey brows, full cheeks, a wide, generous mouth; thick, straight, coarse hair of black mixed with grey, cropped short and combed forward in a blunt Roman fringe low on the brow (NOT bald, no curls); a short, dense, square-trimmed black-and-grey beard close to the face; a frank, warm, direct gaze.",
+      "refs": [
+        "gregory_great",
+        "nicholas",
+        "ambrose"
+      ],
+      "basis": "A former slave who rose to be pope; the medallion portrait in the series of popes at St Paul Outside the Walls (Wikipedia lead image, a pre-1823 fresco) shows a broad face and a short, full beard. The card keeps that sturdy, plain build (with a Roman fringe rather than a bald crown, to stay apart from Sixtus II in batch 7), set in Trastevere, where his titulus stood and where tradition places the well of his martyrdom.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Callixtus I (lead image: fresco, Basilica of St Paul Outside the Walls, before 1823)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Callixtus_I"
+        },
+        {
+          "title": "Catholic Encyclopedia (1908), Pope St. Callistus I",
+          "url": "https://www.newadvent.org/cathen/03183d.htm"
+        }
+      ],
+      "catalogMatch": "Saint Callistus I, pope and martyr"
+    },
+    {
+      "id": "martin_i",
+      "letter": "M",
+      "feast": {
+        "month": 4,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Martin I",
+        "pt-BR": "São Martinho I"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "You did not allow him to be daunted by threats or broken by suffering.",
+        "pt-BR": "Não deixastes o papa e mártir São Martinho sucumbir às ameaças e ser vencido pelos tormentos."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/04-13.json collect (en-US: \"just as\" dropped and \"your Martyr Pope Saint Martin the First\" shortened to \"him\"; pt-BR \"que\" dropped, otherwise verbatim)",
+      "subject": "A pope of the seventh century in exile, half-length, in a simple dark-red chasuble of antique bell shape over a white tunic and a white wool pallium with small dark crosses; NO tiara, NO mitre, bare-headed; a plain dark travelling cloak over his shoulders. He holds a closed book against his breast with his left hand and a green martyr's palm in his right. Behind him the stony shore of Chersonesus in the Crimea: ruined Greek walls and columns of pale limestone on a low headland, dry grass, and the dark-blue Black Sea under a wide, windswept spring sky. Keep the scene inside the arched window.",
+      "face": "A man of about sixty-five, EMACIATED by prison and exile, with a LONG, NARROW, rectangular face and a tall forehead — a strong, straight Roman nose, large, dark, sorrowful eyes set deep in shadowed sockets under straight, thin grey brows, deeply HOLLOW cheeks beneath sharp, prominent cheekbones, a long, firm mouth; thin, straight, iron-GREY hair cut short and receding at the temples (no curls); a thin, iron-grey beard, close-trimmed and squared at the chin, showing the hollows of the cheeks (NOT full or bushy, not dark brown); a patient, steadfast gaze slightly downward.",
+      "refs": [
+        "charles_borromeo",
+        "ambrose",
+        "gregory_great"
+      ],
+      "basis": "No likeness survives; the bronze statue in Santa Maria della Consolazione at Todi, his birthplace (Wikipedia lead image), gives him a full beard. The card keeps a full, squared beard and a face thinned by his arrest, trial and exile in the Crimea, where he died in 655.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Martin I (lead image: statue by Carlo Laurenti, Santa Maria della Consolazione, Todi)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Martin_I"
+        },
+        {
+          "title": "Catholic Encyclopedia (1910), Pope St. Martin I",
+          "url": "https://www.newadvent.org/cathen/09723b.htm"
+        }
+      ],
+      "catalogMatch": "Saint Martin I, pope and martyr"
+    },
+    {
+      "id": "hilary",
+      "letter": "H",
+      "feast": {
+        "month": 1,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Hilary",
+        "pt-BR": "Santo Hilário"
+      },
+      "patronOf": {
+        "en-US": "Bishop and Doctor of the Church",
+        "pt-BR": "Bispo e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "May we rightly understand and truthfully profess the divinity of your Son.",
+        "pt-BR": "Conhecer e proclamar fielmente a divindade do vosso Filho."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-13.json collect (en-US: \"that we may\" recast as \"May we\"; pt-BR verbatim after \"Concedei-nos, ó Deus onipotente,\", capitalised)",
+      "subject": "A bishop of the fourth century, half-length, in a white chasuble of antique bell shape over a white alb with a gold-embroidered border, a low white mitre with gold bands, a plain gold crozier in his left hand, and in his right a large closed book held upright against his breast (his treatise on the Trinity). Behind him Poitiers: the small fourth-century baptistery of Saint-Jean of pale stone with a triangular gable and a low tiled roof, the green valley of the river Clain and the old town on its hill beyond, under a clear, cold January sky. Keep the scene inside the arched window.",
+      "face": "A robust man of about fifty-five with a broad, trapezoid face, wider at the temples than at the jaw — a high, broad forehead with white hair receding from it, a strong, straight nose with a broad bridge, wide-set, clear grey eyes under heavy, arched white brows, ruddy, full cheekbones, a firm mouth half-hidden by a white moustache; a long, broad, flowing white beard spread over the chest in soft waves; an earnest, penetrating gaze straight ahead.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "athanasius"
+      ],
+      "basis": "No likeness survives; Christian Iconography notes that portraits usually give him episcopal vestments, mitre and crozier, and a beard usually white and often long, and the card keeps the tradition, with a broad, vigorous face for the fighter against Arianism. The baptistery of Saint-Jean at Poitiers dates from his century.",
+      "sources": [
+        {
+          "title": "Christian Iconography, St. Hilary of Poitiers",
+          "url": "https://www.christianiconography.info/hilary.html"
+        },
+        {
+          "title": "Wikipedia, Hilary of Poitiers (lead image: miniature of his consecration, 14th century)",
+          "url": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+        },
+        {
+          "title": "Catholic Encyclopedia (1910), St. Hilary of Poitiers",
+          "url": "https://www.newadvent.org/cathen/07349b.htm"
+        }
+      ],
+      "catalogMatch": "Saint Hilary, Bishop and Doctor"
+    },
+    {
+      "id": "peter_damian",
+      "letter": "P",
+      "feast": {
+        "month": 2,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Peter Damian",
+        "pt-BR": "São Pedro Damião"
+      },
+      "patronOf": {
+        "en-US": "Bishop and Doctor of the Church",
+        "pt-BR": "Bispo e doutor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "Putting nothing before Christ and always ardent in the service of your Church.",
+        "pt-BR": "Nada antepondo a Cristo e sempre empenhados no serviço da vossa Igreja."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/02-21.json collect (middle clause, verbatim in both languages, capitalised)",
+      "subject": "A Camaldolese hermit and cardinal of the eleventh century, half-length, in the full white Camaldolese habit and hood with a scarlet cardinal's cape (mozzetta) over his shoulders and a simple gold pectoral cross. In his left hand he holds a closed book; from his right hand hangs a short plain white knotted cord. Behind him the hermitage of Fonte Avellana under Monte Catria in the Apennines: grey stone monastery buildings and a small Romanesque church on a wooded slope, dark beech and fir forest, a limestone peak with snow on it and a clear, cold sky. Keep the mountain and monastery inside the arched window.",
+      "face": "A lean, ascetic man of about sixty-four with a long face and a craggy, prominent brow ridge — a high, furrowed forehead, deep-set, burning dark eyes looking upward, a long, strong nose with a slight hook, sharp cheekbones over sunken cheeks, thin, tight lips; short, thick, wiry grey hair; a long, narrow, grey beard falling to the breast in wavy, tapering strands, with a full grey moustache; an intense, searching upward gaze.",
+      "refs": [
+        "jerome",
+        "bernard_clairvaux",
+        "benedict"
+      ],
+      "basis": "The marble bust on Wikipedia gives him a long, tapering beard, deep-set eyes raised upward and a lean face; the Catholic tradition shows him as a cardinal with a knotted cord (the discipline). The white habit is that of the Camaldolese hermits at Fonte Avellana, where he was prior.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter Damian (lead image: bust; iconography as cardinal with knotted rope)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Damian"
+        },
+        {
+          "title": "Catholic Encyclopedia (1911), St. Peter Damian",
+          "url": "https://www.newadvent.org/cathen/11764a.htm"
+        }
+      ],
+      "catalogMatch": "Saint Peter Damian"
+    }
+  ]
+}

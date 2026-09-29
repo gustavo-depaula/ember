@@ -1,0 +1,44 @@
+{
+  "id": "thomas_becket",
+  "feast": {
+    "month": 12,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Thomas Becket",
+    "pt-BR": "São Tomás Becket"
+  },
+  "patronOf": {
+    "en-US": "Archbishop and martyr",
+    "pt-BR": "Arcebispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Renouncing our life for the sake of Christ in this world, may we find it in heaven.",
+    "pt-BR": "Doar a vida por Cristo neste mundo, para que possamos encontrá-la no céu."
+  },
+  "meta": {
+    "face": "A tall, spare man of about fifty with a pale complexion and a long, narrow, well-formed face — a high forehead, a long, fine nose with a gently arched bridge, bright, lively dark eyes under dark, straight brows, lean cheeks with a faint colour high on the cheekbones, a firm, narrow chin and a finely shaped, closed mouth; clean-shaven; dark-brown hair, just touched with grey at the temples, cut short around the tonsure beneath the mitre; a steady, resolute, serene gaze straight ahead.",
+    "basis": "William FitzStephen, his clerk and biographer, describes him as unusually tall and slender, pale, dark-haired, with a long nose and well-formed features; the card follows that. The clean-shaven face follows the twelfth-century British Library miniature (Cotton MS Claudius B II), and the vestments are an archbishop's with the pallium.",
+    "excerpt": "content/of/formularies/sanctoral/12-29.json collect (final clause; en-US \"that,\" dropped and \"we may\" inverted; pt-BR verbatim after \"concedei-nos, por sua intercessão,\", capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Thomas Becket (lead image: British Library, Cotton MS Claudius B II, f. 341r)",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Becket"
+      },
+      {
+        "title": "Wikipedia, William Fitzstephen (Vita Sancti Thomae)",
+        "url": "https://en.wikipedia.org/wiki/William_Fitzstephen"
+      },
+      {
+        "title": "Catholic Encyclopedia (1912), St. Thomas Becket",
+        "url": "https://www.newadvent.org/cathen/14676a.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-10.md."
+      }
+    ]
+  }
+}

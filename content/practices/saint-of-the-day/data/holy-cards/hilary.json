@@ -1,0 +1,44 @@
+{
+  "id": "hilary",
+  "feast": {
+    "month": 1,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Hilary",
+    "pt-BR": "Santo Hilário"
+  },
+  "patronOf": {
+    "en-US": "Bishop and Doctor of the Church",
+    "pt-BR": "Bispo e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we rightly understand and truthfully profess the divinity of your Son.",
+    "pt-BR": "Conhecer e proclamar fielmente a divindade do vosso Filho."
+  },
+  "meta": {
+    "face": "A robust man of about fifty-five with a broad, trapezoid face, wider at the temples than at the jaw — a high, broad forehead with white hair receding from it, a strong, straight nose with a broad bridge, wide-set, clear grey eyes under heavy, arched white brows, ruddy, full cheekbones, a firm mouth half-hidden by a white moustache; a long, broad, flowing white beard spread over the chest in soft waves; an earnest, penetrating gaze straight ahead.",
+    "basis": "No likeness survives; Christian Iconography notes that portraits usually give him episcopal vestments, mitre and crozier, and a beard usually white and often long, and the card keeps the tradition, with a broad, vigorous face for the fighter against Arianism. The baptistery of Saint-Jean at Poitiers dates from his century.",
+    "excerpt": "content/of/formularies/sanctoral/01-13.json collect (en-US: \"that we may\" recast as \"May we\"; pt-BR verbatim after \"Concedei-nos, ó Deus onipotente,\", capitalised)",
+    "sources": [
+      {
+        "title": "Christian Iconography, St. Hilary of Poitiers",
+        "url": "https://www.christianiconography.info/hilary.html"
+      },
+      {
+        "title": "Wikipedia, Hilary of Poitiers (lead image: miniature of his consecration, 14th century)",
+        "url": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+      },
+      {
+        "title": "Catholic Encyclopedia (1910), St. Hilary of Poitiers",
+        "url": "https://www.newadvent.org/cathen/07349b.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-10.md."
+      }
+    ]
+  }
+}

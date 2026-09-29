@@ -1,0 +1,44 @@
+{
+  "id": "peter_canisius",
+  "feast": {
+    "month": 12,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Peter Canisius",
+    "pt-BR": "São Pedro Canísio"
+  },
+  "patronOf": {
+    "en-US": "Priest and Doctor of the Church",
+    "pt-BR": "Presbítero e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "May those who seek the truth joyfully find you, their God.",
+    "pt-BR": "Concedei aos que buscam a verdade a alegria de vos encontrar."
+  },
+  "meta": {
+    "face": "A man of about sixty-five with an oblong face that broadens at the jaw — a broad, smooth forehead, a long, straight nose with a fleshy, rounded tip, wide-set, hooded pale-brown eyes under thin, level brows, full, softened lower cheeks, a wide, firm mouth; thick grey hair cut short and combed forward over the brow; a short, close-cropped grey beard and moustache covering the jaw; a mild, attentive gaze slightly to the side.",
+    "basis": "The traditional portrait (Wikipedia lead image) shows an elderly Jesuit with an oblong face, a long nose, heavy-lidded eyes, grey hair combed forward and a short grey beard, in the black cassock; the card follows it. Fribourg is where he spent his last years and died.",
+    "excerpt": "content/of/formularies/sanctoral/12-21.json collect (en-US recast from \"grant … that those who seek the truth may joyfully find you, their God\"; pt-BR joins \"concedei\" to \"aos que buscam a verdade, a alegria de vos encontrar\")",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter Canisius (lead image: portrait of St Petrus Canisius)",
+        "url": "https://en.wikipedia.org/wiki/Peter_Canisius"
+      },
+      {
+        "title": "Wikimedia Commons, Saint Petrus Canisius",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Petrus_Canisius.jpg"
+      },
+      {
+        "title": "Catholic Encyclopedia (1911), Blessed Peter Canisius",
+        "url": "https://www.newadvent.org/cathen/03253a.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "regenerated: first draft's frame drifted (no gold border or blue initial box)"
+      }
+    ]
+  }
+}

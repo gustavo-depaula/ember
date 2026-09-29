@@ -1,0 +1,40 @@
+{
+  "id": "pancras",
+  "feast": {
+    "month": 5,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Pancras",
+    "pt-BR": "São Pancrácio"
+  },
+  "patronOf": {
+    "en-US": "Patron of children and of work",
+    "pt-BR": "Padroeiro das crianças e do trabalho"
+  },
+  "prayerExcerpt": {
+    "en-US": "This is the one who was not deserted by God on the day of struggle.",
+    "pt-BR": "Este é o homem que Deus não abandonou no dia do combate."
+  },
+  "meta": {
+    "face": "A boy of fourteen, visibly a boy and not a young man, with a round face still holding childhood fullness — a smooth, rounded forehead, round, soft cheeks, a short, straight nose with a small rounded tip, large, round dark-brown eyes under straight, thick dark brows, a small dimpled chin and a small mouth with the faint hint of a smile; a light olive, sun-warmed Mediterranean complexion; thick, dark-brown hair in short, tight curls close to the head; no beard; a brave, candid gaze lifted a little upward.",
+    "basis": "The traditional Passio makes him a Phrygian orphan brought to Rome and beheaded at fourteen on the Via Aurelia; later statues such as the one in Barcelona Cathedral (Wikipedia lead image) show a curly-haired boy in a tunic and cloak with a book and palm. The card follows those, not the medieval soldier type.",
+    "excerpt": "content/of/formularies/common/martyrs/mart10.json entranceAntiphon, first clause (Common of Martyrs in Easter Time, one martyr; his memorial falls in Easter Time and has no proper formulary in the repo)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pancras of Rome (lead image: statue, Barcelona Cathedral)",
+        "url": "https://en.wikipedia.org/wiki/Pancras_of_Rome"
+      },
+      {
+        "title": "Catholic Encyclopedia (1911), St. Pancras",
+        "url": "https://www.newadvent.org/cathen/11446b.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-10.md."
+      }
+    ]
+  }
+}

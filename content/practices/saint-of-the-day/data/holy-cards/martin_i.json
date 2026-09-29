@@ -1,0 +1,40 @@
+{
+  "id": "martin_i",
+  "feast": {
+    "month": 4,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Martin I",
+    "pt-BR": "São Martinho I"
+  },
+  "patronOf": {
+    "en-US": "Pope and martyr",
+    "pt-BR": "Papa e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "You did not allow him to be daunted by threats or broken by suffering.",
+    "pt-BR": "Não deixastes o papa e mártir São Martinho sucumbir às ameaças e ser vencido pelos tormentos."
+  },
+  "meta": {
+    "face": "A man of about sixty-five, EMACIATED by prison and exile, with a LONG, NARROW, rectangular face and a tall forehead — a strong, straight Roman nose, large, dark, sorrowful eyes set deep in shadowed sockets under straight, thin grey brows, deeply HOLLOW cheeks beneath sharp, prominent cheekbones, a long, firm mouth; thin, straight, iron-GREY hair cut short and receding at the temples (no curls); a thin, iron-grey beard, close-trimmed and squared at the chin, showing the hollows of the cheeks (NOT full or bushy, not dark brown); a patient, steadfast gaze slightly downward.",
+    "basis": "No likeness survives; the bronze statue in Santa Maria della Consolazione at Todi, his birthplace (Wikipedia lead image), gives him a full beard. The card keeps a full, squared beard and a face thinned by his arrest, trial and exile in the Crimea, where he died in 655.",
+    "excerpt": "content/of/formularies/sanctoral/04-13.json collect (en-US: \"just as\" dropped and \"your Martyr Pope Saint Martin the First\" shortened to \"him\"; pt-BR \"que\" dropped, otherwise verbatim)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Martin I (lead image: statue by Carlo Laurenti, Santa Maria della Consolazione, Todi)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Martin_I"
+      },
+      {
+        "title": "Catholic Encyclopedia (1910), Pope St. Martin I",
+        "url": "https://www.newadvent.org/cathen/09723b.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "regenerated: first draft had dark curls and a full beard like Linus and Clement; now emaciated, iron-grey, close-trimmed beard"
+      }
+    ]
+  }
+}
