@@ -16,8 +16,8 @@ const cardShare = 0.7
 const cardAspect = 1.36
 
 /**
- * The editorial hero: full-bleed feature blocks that snap horizontally with the
- * next card peeking. ✠ fleurons track position (no auto-advance — these are
+ * The editorial hero: feature blocks running to the screen's edges, with the
+ * next card peeking; a swipe scrolls freely and settles on a card. ✠ fleurons track position (no auto-advance — these are
  * editorial features you swipe, not a ticker).
  */
 export function FeaturedCarousel({
@@ -54,10 +54,13 @@ export function FeaturedCarousel({
         <ScrollView
           horizontal
           showsHorizontalScrollIndicator={false}
+          // A fling glides across several cards at the normal rate, then comes
+          // to rest on the nearest one.
           snapToInterval={interval}
-          decelerationRate="fast"
-          disableIntervalMomentum
-          contentContainerStyle={{ gap }}
+          // Bleeds to the screen's edges like `CardRow`; the padding keeps each
+          // resting card on the page's left margin.
+          style={{ marginHorizontal: -24 }}
+          contentContainerStyle={{ gap, paddingHorizontal: 24 }}
           onMomentumScrollEnd={onMomentumEnd}
         >
           {leading && (
