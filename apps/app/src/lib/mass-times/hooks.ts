@@ -3,9 +3,7 @@ import { keepPreviousData, useMutation, useQuery } from '@tanstack/react-query'
 import {
   type Bbox,
   fetchChurch,
-  fetchChurchesInBbox,
-  fetchNearbyChurches,
-  type NearbyParams,
+  fetchViewport,
   searchChurches,
   submitCorrection,
   uploadAttachment,
@@ -16,25 +14,16 @@ import { getClientId } from './clientId'
 // Directory data is slow-changing; cache generously and let pinned favorites / details share it.
 const staleTime = 5 * 60 * 1000
 
-export function useNearbyChurches(params: NearbyParams | undefined) {
-  return useQuery({
-    queryKey: ['mass-times', 'near', params],
-    queryFn: () => fetchNearbyChurches(params as NearbyParams),
-    enabled: !!params,
-    staleTime,
-    // Keep the current churches on screen while panning to a new area refetches — no flicker of the
-    // pins vanishing and re-appearing as the region changes.
-    placeholderData: keepPreviousData,
-  })
-}
+// Rounded to ~100 m so tiny camera jitter reuses the cached viewport instead of refetching.
+const round = (n: number) => Math.round(n * 1000) / 1000
 
-export function useChurchesInBbox(bbox: Bbox | undefined, kind?: ServiceKind, limit?: number) {
+export function useViewport(bbox: Bbox, kind?: ServiceKind, limit?: number) {
+  const key = [round(bbox.minLng), round(bbox.minLat), round(bbox.maxLng), round(bbox.maxLat)]
   return useQuery({
-    queryKey: ['mass-times', 'bbox', bbox, kind, limit],
-    queryFn: () => fetchChurchesInBbox(bbox as Bbox, { kind, limit }),
-    enabled: !!bbox,
+    queryKey: ['mass-times', 'viewport', key, kind, limit],
+    queryFn: () => fetchViewport(bbox, { kind, limit }),
     staleTime,
-    // Keep the current churches while panning/zooming to a new viewport refetches — no pin flicker.
+    // Keep the current pins while panning/zooming to a new viewport refetches — no flicker.
     placeholderData: keepPreviousData,
   })
 }
@@ -48,11 +37,11 @@ export function useChurch(id: string | undefined) {
   })
 }
 
-export function useChurchSearch(query: string) {
+export function useChurchSearch(query: string, kind?: ServiceKind) {
   const q = query.trim()
   return useQuery({
-    queryKey: ['mass-times', 'search', q],
-    queryFn: () => searchChurches(q),
+    queryKey: ['mass-times', 'search', q, kind],
+    queryFn: () => searchChurches(q, { kind }),
     enabled: q.length >= 2,
     staleTime,
   })

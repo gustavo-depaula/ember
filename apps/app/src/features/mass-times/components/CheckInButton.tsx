@@ -94,7 +94,8 @@ export function CheckInButton({
   }
 
   return (
-    <Animated.View entering={FadeIn.duration(180)}>
+    // Full width: the open form takes its own line in the actions row it shares with the reminder.
+    <Animated.View entering={FadeIn.duration(180)} style={{ width: '100%' }}>
       <YStack gap="$sm">
         <Typography variant="label">{t('massTimes.checkInPrompt')}</Typography>
         <XStack gap="$sm" flexWrap="wrap">

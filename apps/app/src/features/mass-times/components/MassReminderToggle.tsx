@@ -5,11 +5,16 @@ import { useTranslation } from 'react-i18next'
 import { useTheme, YStack } from 'tamagui'
 import { Typography } from '@/components'
 import { selectionTick, successBuzz } from '@/lib/haptics'
-import { useMassReminderOn, useRemindersStore } from '../reminders'
+import {
+  defaultLeadMinutes,
+  massReminderSlots,
+  useMassReminderOn,
+  useRemindersStore,
+} from '../reminders'
 import { ChipButton } from './ChipButton'
 
 // Opt-in toggle for recurring reminders before this church's Masses. Hidden when the church has no
-// structured Mass services to remind about.
+// every-week Mass a weekly notification could follow (monthly and seasonal ones can't be).
 export function MassReminderToggle({
   church,
   services,
@@ -25,7 +30,7 @@ export function MassReminderToggle({
   const [busy, setBusy] = useState(false)
   const [denied, setDenied] = useState(false)
 
-  if (!services.some((s) => s.kind === 'mass')) return null
+  if (massReminderSlots(services, defaultLeadMinutes).length === 0) return null
 
   const toggle = async () => {
     if (busy) return
@@ -36,8 +41,8 @@ export function MassReminderToggle({
         void selectionTick()
         await disable(church.id)
       } else {
-        const ok = await enable(church, services)
-        if (ok) void successBuzz()
+        const result = await enable(church, services)
+        if (result === 'on') void successBuzz()
         else setDenied(true)
       }
     } finally {

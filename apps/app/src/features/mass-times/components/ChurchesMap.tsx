@@ -3,10 +3,10 @@ import { useTranslation } from 'react-i18next'
 import { Platform } from 'react-native'
 import { YStack } from 'tamagui'
 import { Typography } from '@/components'
-import type { NearbyChurch } from '@/lib/mass-times'
+import type { Cluster } from '@/lib/mass-times'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { MapErrorBoundary } from './MapErrorBoundary'
-import type { CameraIdle, MapHandle } from './NativeChurchesMap'
+import type { CameraIdle, MapHandle, PinnedChurch } from './NativeChurchesMap'
 
 // Loaded only when the map view is shown, so the list path never executes expo-maps' native binding.
 const NativeChurchesMap = lazy(() => import('./NativeChurchesMap'))
@@ -39,7 +39,7 @@ export function ChurchesMap({
   focused,
 }: {
   nearby: MassTimesNearby
-  onSelectChurch?: (church: NearbyChurch) => void
+  onSelectChurch?: (church: PinnedChurch) => void
   // Tapping the empty map deselects — used to dismiss the open detail (and the pin) together.
   onDismiss?: () => void
   // The viewed area settled somewhere meaningfully new — refetch churches around it.
@@ -99,6 +99,14 @@ export function ChurchesMap({
   )
   useEffect(() => () => clearTimeout(settleTimer.current), [])
 
+  // A cluster opens up: zoom in two levels on it, which splits it into smaller clusters or pins.
+  const zoomIntoCluster = useCallback((cluster: Cluster) => {
+    mapRef.current?.setCameraPosition({
+      coordinates: { latitude: cluster.lat, longitude: cluster.lng },
+      zoom: lastCamera.current.zoom + 2,
+    })
+  }, [])
+
   const centerOnUser = useCallback(
     () =>
       mapRef.current?.setCameraPosition({
@@ -148,6 +156,7 @@ export function ChurchesMap({
             nearby={nearby}
             initialCamera={initialCamera}
             onSelect={(church) => onSelectChurch?.(church)}
+            onCluster={zoomIntoCluster}
             onDeselect={onDismiss}
             onCameraIdle={onCameraIdle}
           />

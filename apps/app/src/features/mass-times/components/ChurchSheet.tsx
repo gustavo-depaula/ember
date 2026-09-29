@@ -7,15 +7,7 @@ import {
   presentationDetents,
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
-import {
-  CalendarCheck,
-  ChevronLeft,
-  ChevronRight,
-  Church,
-  Search,
-  SlidersHorizontal,
-  X,
-} from 'lucide-react-native'
+import { CalendarCheck, ChevronLeft, ChevronRight, Search, X } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, ScrollView, StyleSheet, View } from 'react-native'
@@ -26,16 +18,19 @@ import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, useChurch, useChurchSearch, wallClockNow } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
 import { useCheckInCount } from '../checkins'
+import { useFavoritesStore } from '../favorites'
 import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
-import type { MassTimesNearby } from '../useMassTimesNearby'
+import { type MassFilter, type MassTimesNearby, passesFilter } from '../useMassTimesNearby'
 import { ChurchDetail } from './ChurchDetail'
 import { ChurchesMap } from './ChurchesMap'
 import { ChurchListItem } from './ChurchListItem'
 import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
+import { FilterChips } from './FilterChips'
 import { useGlassTile } from './glass'
 import { LocationBar } from './LocationBar'
 import { MassLog } from './MassLog'
 import type { CameraIdle } from './NativeChurchesMap'
+import { QueryError } from './QueryError'
 import { SavedChurches } from './SavedChurches'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
@@ -56,14 +51,14 @@ const DETENTS = [PEEK, HALF, FULL]
 export function ChurchSheet({
   nearby,
   locale,
-  filterCount,
-  onOpenFilters,
+  filter,
+  onFilter,
   onRegionChange,
 }: {
   nearby: MassTimesNearby
   locale: string
-  filterCount: number
-  onOpenFilters: () => void
+  filter: MassFilter
+  onFilter: (filter: MassFilter) => void
   onRegionChange?: (region: CameraIdle) => void
 }) {
   // One mode at a time: browse/search, a selected church's detail, or the check-in log. A discriminated
@@ -123,7 +118,9 @@ export function ChurchSheet({
           <RNHostView>
             <View style={styles.fill}>
               {view.kind === 'detail' ? (
-                <ChurchDetailPane churchId={view.church.id} onBack={browse} />
+                // Keyed by church so switching pins resets the pane — scroll position and the
+                // check-in and feedback forms belong to the church they were opened on.
+                <ChurchDetailPane key={view.church.id} churchId={view.church.id} onBack={browse} />
               ) : view.kind === 'log' ? (
                 <LogPane
                   onBack={browse}
@@ -133,11 +130,11 @@ export function ChurchSheet({
                 <BrowseSearch
                   nearby={nearby}
                   locale={locale}
-                  filterCount={filterCount}
+                  filter={filter}
+                  onFilter={onFilter}
                   query={query}
                   onQuery={setQuery}
                   onFocusSearch={() => setDetent(FULL)}
-                  onOpenFilters={onOpenFilters}
                   onOpenLog={() => {
                     setView({ kind: 'log' })
                     setDetent(HALF)
@@ -243,22 +240,22 @@ function SheetBackButton({ onPress }: { onPress: () => void }) {
 function BrowseSearch({
   nearby,
   locale,
-  filterCount,
+  filter,
+  onFilter,
   query,
   onQuery,
   onFocusSearch,
-  onOpenFilters,
   onOpenLog,
   onSelectNearby,
   onSelectRow,
 }: {
   nearby: MassTimesNearby
   locale: string
-  filterCount: number
+  filter: MassFilter
+  onFilter: (filter: MassFilter) => void
   query: string
   onQuery: (q: string) => void
   onFocusSearch: () => void
-  onOpenFilters: () => void
   onOpenLog: () => void
   onSelectNearby: (church: NearbyChurch) => void
   onSelectRow: (church: ChurchRowData) => void
@@ -272,8 +269,9 @@ function BrowseSearch({
 
   const debounced = useDebounced(query.trim(), 250)
   const searching = debounced.length >= 2
-  const search = useChurchSearch(debounced)
-  const results = search.data ?? []
+  const search = useChurchSearch(debounced, nearby.kind)
+  const favorites = useFavoritesStore((s) => s.favorites)
+  const results = (search.data ?? []).filter((c) => passesFilter(c, filter, favorites))
 
   return (
     <View style={styles.fill}>
@@ -317,26 +315,10 @@ function BrowseSearch({
             </AnimatedPressable>
           ) : null}
         </XStack>
-        <AnimatedPressable
-          onPress={onOpenFilters}
-          accessibilityRole="button"
-          accessibilityLabel={t('massTimes.filters')}
-        >
-          <YStack
-            backgroundColor={tile}
-            borderRadius="$lg"
-            alignItems="center"
-            justifyContent="center"
-            width={42}
-            height={42}
-          >
-            <SlidersHorizontal
-              size={18}
-              color={filterCount > 0 ? theme.accent?.val : theme.colorSecondary?.val}
-            />
-          </YStack>
-        </AnimatedPressable>
       </XStack>
+      <YStack paddingBottom="$sm">
+        <FilterChips filter={filter} onChange={onFilter} />
+      </YStack>
 
       <FlatList
         style={styles.fill}
@@ -364,7 +346,7 @@ function BrowseSearch({
           searching ? null : (
             <YStack gap="$sm" paddingBottom="$sm">
               <LocationBar location={nearby.location} />
-              <NextMassNearby churches={churches} locale={locale} />
+              <NextMassNearby churches={churches} locale={locale} onSelect={onSelectNearby} />
               <SavedChurches onSelect={onSelectRow} />
               {checkInCount > 0 ? (
                 <AnimatedPressable
@@ -397,7 +379,9 @@ function BrowseSearch({
         }
         ListEmptyComponent={
           searching ? (
-            search.isLoading ? (
+            search.isError ? (
+              <QueryError onRetry={() => search.refetch()} />
+            ) : search.isLoading ? (
               <YStack gap="$sm">
                 {[0, 1, 2].map((i) => (
                   <Skeleton key={i} height={72} borderRadius={12} />
@@ -408,6 +392,8 @@ function BrowseSearch({
                 <Typography variant="annotation">{t('massTimes.noResults')}</Typography>
               </YStack>
             )
+          ) : nearby.isError ? (
+            <QueryError onRetry={nearby.refetch} />
           ) : nearby.isLoading ? (
             <YStack gap="$sm">
               {[0, 1, 2].map((i) => (
@@ -426,15 +412,27 @@ function BrowseSearch({
   )
 }
 
-// The devotional peek line: the soonest upcoming Mass among the nearby churches.
-function NextMassNearby({ churches, locale }: { churches: NearbyChurch[]; locale: string }) {
+// How many of the nearest churches compete for "next Mass near you" — a Mass starting in five
+// minutes across town isn't the answer to "where can I go now".
+const nextMassCandidates = 10
+
+// The devotional headline: the soonest upcoming Mass among the nearest churches, time first so the
+// answer never truncates. Tapping opens that church.
+function NextMassNearby({
+  churches,
+  locale,
+  onSelect,
+}: {
+  churches: NearbyChurch[]
+  locale: string
+  onSelect: (church: NearbyChurch) => void
+}) {
   const { t } = useTranslation()
-  const theme = useTheme()
   const tile = useGlassTile()
 
   const soonest = useMemo(() => {
     let best: { church: NearbyChurch; instant: Date; date: Date; startTime: string } | undefined
-    for (const church of churches) {
+    for (const church of churches.slice(0, nextMassCandidates)) {
       const next = nextService(church.services, { timezone: church.timezone, kind: 'mass' })
       if (!next) continue
       if (!best || next.instant < best.instant) {
@@ -450,33 +448,44 @@ function NextMassNearby({ churches, locale }: { churches: NearbyChurch[]; locale
   }, [churches])
 
   if (!soonest) return null
-  const now = wallClockNow(soonest.church.timezone)
+  const { church } = soonest
+  const now = wallClockNow(church.timezone)
 
   return (
-    <XStack
-      backgroundColor={tile}
-      borderRadius="$lg"
-      borderLeftWidth={3}
-      borderLeftColor="$accent"
-      paddingVertical="$sm"
-      paddingHorizontal="$md"
-      gap="$md"
-      alignItems="center"
+    <AnimatedPressable
+      onPress={() => onSelect(church)}
+      accessibilityRole="button"
+      accessibilityLabel={t('massTimes.nextMassNearby')}
     >
-      <Church size={20} color={theme.accent?.val} />
-      <YStack flex={1} gap={1}>
-        <Typography variant="reference" color="$accent">
-          {t('massTimes.nextMassNearby')}
-        </Typography>
-        <Typography variant="interface" fontSize="$3" numberOfLines={1}>
-          {soonest.church.name} · {dayLabel(soonest.date, now, t, locale)}{' '}
-          {formatTimeOfDay(soonest.startTime, locale)}
-        </Typography>
-      </YStack>
-      <Typography variant="annotation">
-        {formatDistanceKm(soonest.church.distanceKm, locale)}
-      </Typography>
-    </XStack>
+      <XStack
+        backgroundColor={tile}
+        borderRadius="$lg"
+        paddingVertical="$sm"
+        paddingHorizontal="$md"
+        gap="$md"
+        alignItems="center"
+      >
+        <YStack alignItems="center" minWidth={64}>
+          <Typography variant="reference" color="$accent">
+            {dayLabel(soonest.date, now, t, locale)}
+          </Typography>
+          <Typography variant="sacred-title" fontSize="$4" color="$accent">
+            {formatTimeOfDay(soonest.startTime, locale)}
+          </Typography>
+        </YStack>
+        <YStack flex={1} gap={2}>
+          <Typography variant="reference">{t('massTimes.nextMassNearby')}</Typography>
+          <Typography variant="sacred-title" textAlign="left" fontSize="$3" numberOfLines={2}>
+            {church.name}
+          </Typography>
+          {church.distanceKm === undefined ? null : (
+            <Typography variant="annotation">
+              {formatDistanceKm(church.distanceKm, locale)}
+            </Typography>
+          )}
+        </YStack>
+      </XStack>
+    </AnimatedPressable>
   )
 }
 

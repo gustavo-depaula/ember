@@ -3,13 +3,19 @@ import { Globe, Mail, MapPin, Phone } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Linking, Platform } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { Skeleton, Typography } from '@/components'
+import { AnimatedPressable, confirm, Skeleton, Typography } from '@/components'
 import { lightTap } from '@/lib/haptics'
 import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
-import { expandUpcoming, useChurch, wallClockNow } from '@/lib/mass-times'
-import { dayLabel, formatTimeOfDay, kindLabel, serviceKindOrder } from '../format'
+import { nextService, useChurch, wallClockNow, weeklySchedule } from '@/lib/mass-times'
+import {
+  dayLabel,
+  describeOtherRule,
+  formatTimeOfDay,
+  kindLabel,
+  serviceKindOrder,
+  weekdayName,
+} from '../format'
 import { CheckInButton } from './CheckInButton'
-import { ChipButton } from './ChipButton'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
 import { MassReminderToggle } from './MassReminderToggle'
@@ -18,15 +24,28 @@ import { QueryError } from './QueryError'
 
 type IconComponent = typeof Phone
 
+// Verification older than this reads as a warning — much of the directory was imported years ago.
+const staleAfterMs = 2 * 365 * 86_400_000
+
 export function ChurchDetail({ churchId }: { churchId: string }) {
   const { t, i18n } = useTranslation()
   const { data, isLoading, isError, refetch } = useChurch(churchId)
 
-  if (isLoading) return <Skeleton height={240} borderRadius={12} />
+  if (isLoading)
+    return (
+      <YStack gap="$md">
+        <Skeleton height={34} width="70%" borderRadius={8} />
+        <Skeleton height={64} borderRadius={12} />
+        <Skeleton height={180} borderRadius={12} />
+      </YStack>
+    )
   if (isError || !data) return <QueryError onRetry={() => refetch()} />
 
   const locale = i18n.language
   const now = wallClockNow(data.timezone)
+  const next = nextService(data.services, { timezone: data.timezone, kind: 'mass', now })
+  const where = [data.address, data.city, data.region].filter(Boolean).join(' · ')
+  const verified = data.lastVerifiedAt ? new Date(data.lastVerifiedAt) : undefined
 
   return (
     <YStack gap="$lg">
@@ -44,45 +63,52 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
             }}
           />
         </XStack>
-        {data.address ? (
-          <Typography variant="annotation">
-            {[data.address, data.city, data.region].filter(Boolean).join(' · ')}
+        {where ? <Typography variant="annotation">{where}</Typography> : null}
+        {next ? (
+          <Typography variant="interface" fontSize="$2" color="$accent">
+            {t('massTimes.nextMass')} · {dayLabel(next.occurrence.date, now, t, locale)}{' '}
+            {formatTimeOfDay(next.occurrence.startTime, locale)}
           </Typography>
         ) : null}
       </YStack>
 
       <ContactActions church={data} />
 
-      <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
-
-      <MassReminderToggle church={{ id: data.id, name: data.name }} services={data.services} />
-
       {serviceKindOrder.map((kind) => (
-        <ScheduleSection key={kind} kind={kind} church={data} now={now} locale={locale} />
+        <WeeklySection key={kind} kind={kind} church={data} now={now} locale={locale} />
       ))}
+
+      <XStack gap="$sm" flexWrap="wrap" alignItems="flex-start">
+        <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
+        <MassReminderToggle church={{ id: data.id, name: data.name }} services={data.services} />
+      </XStack>
 
       <ParishTexts church={data} />
 
       <ChurchFeedback churchId={data.id} />
 
-      {data.lastVerifiedAt ? (
+      {verified ? (
         <Typography variant="reference" tone="muted">
           {t('massTimes.lastVerified', {
-            date: new Date(data.lastVerifiedAt).toLocaleDateString(locale, {
+            date: verified.toLocaleDateString(locale, {
               year: 'numeric',
               month: 'long',
               day: 'numeric',
             }),
           })}
+          {Date.now() - verified.getTime() > staleAfterMs
+            ? ` — ${t('massTimes.mayBeOutdated')}`
+            : ''}
         </Typography>
       ) : null}
     </YStack>
   )
 }
 
-// Upcoming times for one kind, grouped by day. Hidden when the church has no structured services of
-// that kind (the raw parish text below still carries those hours).
-function ScheduleSection({
+// One service kind's standing week, bulletin-style: a row per weekday that has times, today's row in
+// accent with its already-past times dimmed, then the monthly/seasonal rules as footnotes. Hidden when
+// the church lists no structured times of this kind (the parish's own text below still has them).
+function WeeklySection({
   kind,
   church,
   now,
@@ -94,32 +120,68 @@ function ScheduleSection({
   locale: string
 }) {
   const { t } = useTranslation()
-  const upcoming = expandUpcoming(church.services, { from: now, kinds: [kind], perService: 3 })
-  if (upcoming.length === 0) return null
+  const { days, other } = weeklySchedule(church.services, kind)
+  if (days.length === 0 && other.length === 0) return null
 
-  // Collapse to one row per day, with that day's times in order.
-  const byDay = new Map<string, string[]>()
-  for (const u of upcoming.slice(0, 8)) {
-    const label = dayLabel(u.occurrence.date, now, t, locale)
-    const times = byDay.get(label) ?? []
-    times.push(formatTimeOfDay(u.occurrence.startTime, locale))
-    byDay.set(label, times)
-  }
+  const today = now.getUTCDay()
+  const clock = (time: string) => time.padStart(5, '0')
+  const nowClock = `${String(now.getUTCHours()).padStart(2, '0')}:${String(now.getUTCMinutes()).padStart(2, '0')}`
 
   return (
     <YStack gap="$sm">
       <Typography variant="label">{kindLabel(kind, t)}</Typography>
-      <Panel gap="$xs">
-        {[...byDay.entries()].map(([day, times]) => (
-          <XStack key={day} justifyContent="space-between" alignItems="baseline" gap="$md">
-            <Typography variant="interface" fontSize="$3">
-              {day}
-            </Typography>
-            <Typography variant="interface" fontSize="$3" tone="muted">
-              {times.join(' · ')}
-            </Typography>
-          </XStack>
-        ))}
+      <Panel gap="$sm">
+        {days.map(({ dow, times }) => {
+          const isToday = dow === today
+          return (
+            <XStack key={dow} justifyContent="space-between" alignItems="baseline" gap="$md">
+              <Typography
+                variant="interface"
+                fontSize="$3"
+                color={isToday ? '$accent' : '$color'}
+                fontWeight={isToday ? '600' : '400'}
+              >
+                {weekdayName(dow, locale)}
+              </Typography>
+              <XStack flexShrink={1} flexWrap="wrap" justifyContent="flex-end" columnGap="$sm">
+                {times.map((time) => (
+                  <Typography
+                    key={time}
+                    variant="interface"
+                    fontSize="$3"
+                    color={isToday ? '$accent' : '$colorSecondary'}
+                    opacity={isToday && clock(time) < nowClock ? 0.4 : 1}
+                  >
+                    {formatTimeOfDay(time, locale)}
+                  </Typography>
+                ))}
+              </XStack>
+            </XStack>
+          )
+        })}
+        {other.length > 0 ? (
+          <YStack
+            gap="$xs"
+            paddingTop={days.length > 0 ? '$sm' : 0}
+            borderTopWidth={days.length > 0 ? 1 : 0}
+            borderColor="$borderColor"
+          >
+            {other.map((rule) => (
+              <XStack
+                key={`${rule.kind}-${JSON.stringify(rule)}`}
+                justifyContent="space-between"
+                gap="$md"
+              >
+                <Typography variant="annotation" flexShrink={1}>
+                  {describeOtherRule(rule, t, locale)}
+                </Typography>
+                <Typography variant="annotation">
+                  {formatTimeOfDay(rule.startTime, locale)}
+                </Typography>
+              </XStack>
+            ))}
+          </YStack>
+        ) : null}
       </Panel>
     </YStack>
   )
@@ -143,9 +205,9 @@ function ParishTexts({ church }: { church: ChurchDetailData }) {
         {texts.map((text) => (
           <YStack key={`${text.kind}-${(text.rawText ?? '').slice(0, 12)}`} gap="$xs">
             <Typography variant="reference" tone="muted">
-              {t(`massTimes.kind.${text.kind}`, { defaultValue: t('massTimes.information') })}
+              {t(`massTimes.textKind.${text.kind}`, { defaultValue: t('massTimes.information') })}
             </Typography>
-            <Typography variant="interface" fontSize="$3">
+            <Typography variant="interface" fontSize="$2">
               {text.rawText}
             </Typography>
           </YStack>
@@ -155,17 +217,20 @@ function ParishTexts({ church }: { church: ChurchDetailData }) {
   )
 }
 
+// Directions / call / email / website as a row of equal tiles, icon over label (the Maps place-card
+// action bar), so they read as one control instead of wrapping chips.
 function ContactActions({ church }: { church: ChurchDetailData }) {
   const { t } = useTranslation()
   const website = church.links.find((l) => l.kind === 'website')?.url
 
-  const actions: Array<{ id: string; label: string; icon: IconComponent; url: string }> = []
-  actions.push({
-    id: 'directions',
-    label: t('massTimes.directions'),
-    icon: MapPin,
-    url: directionsUrl(church.lat, church.lng, church.name),
-  })
+  const actions: Array<{ id: string; label: string; icon: IconComponent; url: string }> = [
+    {
+      id: 'directions',
+      label: t('massTimes.directions'),
+      icon: MapPin,
+      url: directionsUrl(church.lat, church.lng, church.name),
+    },
+  ]
   if (church.phoneE164)
     actions.push({
       id: 'call',
@@ -184,7 +249,7 @@ function ContactActions({ church }: { church: ChurchDetailData }) {
     actions.push({ id: 'website', label: t('massTimes.website'), icon: Globe, url: website })
 
   return (
-    <XStack gap="$sm" flexWrap="wrap">
+    <XStack gap="$sm">
       {actions.map(({ id, ...action }) => (
         <ContactButton key={id} {...action} />
       ))}
@@ -201,16 +266,35 @@ function ContactButton({
   icon: IconComponent
   url: string
 }) {
+  const { t } = useTranslation()
   const theme = useTheme()
+  const open = () => {
+    void lightTap()
+    // No mail account, no dialer (iPad), a malformed parish URL — say so rather than do nothing.
+    Linking.openURL(url).catch(() =>
+      confirm({ title: t('error.somethingWrong'), description: url, singleAction: true }),
+    )
+  }
   return (
-    <ChipButton
-      label={label}
-      icon={<Icon size={15} color={theme.accent?.val} />}
-      onPress={() => {
-        void lightTap()
-        void Linking.openURL(url)
-      }}
-    />
+    <AnimatedPressable
+      style={{ flex: 1 }}
+      onPress={open}
+      accessibilityRole="button"
+      accessibilityLabel={label}
+    >
+      <YStack
+        backgroundColor="$backgroundSurface"
+        borderRadius="$lg"
+        paddingVertical="$sm"
+        alignItems="center"
+        gap={4}
+      >
+        <Icon size={20} color={theme.accent?.val} />
+        <Typography variant="interface" fontSize="$1" numberOfLines={1}>
+          {label}
+        </Typography>
+      </YStack>
+    </AnimatedPressable>
   )
 }
 

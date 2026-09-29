@@ -1,6 +1,6 @@
 // Thin typed client for the Mass Times backend (Cloudflare Worker + D1). The response shapes are
-// the `@ember/api` row types (the schema is the contract): `/near` augments a church with
-// `distanceKm` + its services; `/:id` nests services/texts/links. Reads need no auth; writes carry
+// the `@ember/api` row types (the schema is the contract): a viewport returns churches (with their
+// services) plus counted clusters when zoomed out; `/:id` nests services/texts/links. Reads need no auth; writes carry
 // a stable per-install id in `X-Client-Id` (fingerprinted server-side for dedup + rate limiting).
 
 import type {
@@ -12,21 +12,26 @@ import type {
   ServiceKind,
 } from '@ember/api'
 
-const baseUrl = 'https://ember-mass-times.dpgu.workers.dev'
+// Overridable so a dev build can point at `wrangler dev` while backend changes are unreleased.
+const baseUrl =
+  process.env.EXPO_PUBLIC_MASS_TIMES_URL ?? 'https://ember-mass-times.dpgu.workers.dev'
 
-export type NearbyChurch = Church & { distanceKm: number; services: Service[] }
+// `distanceKm` is from the user, and only known once they've shared their location.
+export type NearbyChurch = Church & { distanceKm?: number; services: Service[] }
+
+// Churches grouped into one map marker when the viewport holds too many to list. A one-church
+// cluster carries its church, so it renders as that church's pin.
+export type Cluster = {
+  id: string
+  lat: number
+  lng: number
+  count: number
+  church?: { id: string; name: string }
+}
 export type ChurchDetail = Church & {
   services: Service[]
   texts: ChurchText[]
   links: ChurchLink[]
-}
-
-export type NearbyParams = {
-  lat: number
-  lng: number
-  radiusKm?: number
-  kind?: ServiceKind
-  limit?: number
 }
 
 export type Bbox = { minLng: number; minLat: number; maxLng: number; maxLat: number }
@@ -51,33 +56,24 @@ async function postJson<T>(path: string, body: unknown, clientId: string) {
   return (await res.json()) as T
 }
 
-export async function fetchNearbyChurches(params: NearbyParams): Promise<NearbyChurch[]> {
-  const { churches } = await getJson<{ churches: NearbyChurch[] }>('/churches/near', {
-    lat: params.lat,
-    lng: params.lng,
-    radius_km: params.radiusKm,
-    kind: params.kind,
-    limit: params.limit,
-  })
-  return churches
-}
-
-// Churches within a map viewport (any zoom — no radius cap, unlike `/near`). Returns up to `limit`
-// churches in the box (the backend browse is capped at 100), with their embedded services.
-export async function fetchChurchesInBbox(
+// Churches within a map viewport, at any zoom. Up to `limit` churches nearest the view center; past
+// that many in view, `clusters` also covers the whole box.
+export function fetchViewport(
   bbox: Bbox,
   opts: { kind?: ServiceKind; limit?: number } = {},
-): Promise<Church[]> {
-  const { churches } = await getJson<{ churches: Church[] }>('/churches', {
+): Promise<{ churches: Church[]; clusters: Cluster[] }> {
+  return getJson('/churches', {
     bbox: `${bbox.minLng},${bbox.minLat},${bbox.maxLng},${bbox.maxLat}`,
     kind: opts.kind,
     limit: opts.limit,
   })
-  return churches
 }
 
-export async function searchChurches(q: string, limit?: number): Promise<Church[]> {
-  const { churches } = await getJson<{ churches: Church[] }>('/churches', { q, limit })
+export async function searchChurches(
+  q: string,
+  opts: { kind?: ServiceKind; limit?: number } = {},
+): Promise<Church[]> {
+  const { churches } = await getJson<{ churches: Church[] }>('/churches', { q, ...opts })
   return churches
 }
 

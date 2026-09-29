@@ -1,23 +1,16 @@
-export {
-  type Bbox,
-  type ChurchDetail,
-  fetchChurch,
-  fetchChurchesInBbox,
-  fetchNearbyChurches,
-  type NearbyChurch,
-  type NearbyParams,
-  searchChurches,
-  submitCorrection,
-  verifyChurch,
+export type {
+  Bbox,
+  ChurchDetail,
+  Cluster,
+  NearbyChurch,
 } from './client'
 export {
   useChurch,
-  useChurchesInBbox,
   useChurchSearch,
-  useNearbyChurches,
   useSubmitCorrection,
   useUploadAttachment,
   useVerifyChurch,
+  useViewport,
 } from './hooks'
 export {
   expandUpcoming,
@@ -27,3 +20,4 @@ export {
   type UpcomingService,
   wallClockNow,
 } from './schedule'
+export { type OtherRule, type WeeklyDay, weeklySchedule } from './weekly'

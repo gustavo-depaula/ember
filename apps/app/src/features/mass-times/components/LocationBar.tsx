@@ -8,18 +8,19 @@ import type { DeviceLocation } from '../useDeviceLocation'
 
 // Whether we're showing the user's real position or the São Paulo default, plus a tap target to ask
 // for (or refresh) GPS. Shared by the list and map views. When the location request actually fails we
-// say so here — the reason is surfaced, not swallowed, so a missing blue dot is explainable.
+// say so here, so a missing blue dot is explainable.
 export function LocationBar({ location }: { location: DeviceLocation }) {
   const { t } = useTranslation()
   const theme = useTheme()
 
-  if (location.error) {
+  if (location.status === 'failed') {
     return (
-      <AnimatedPressable onPress={() => location.request()}>
+      <AnimatedPressable onPress={() => location.request()} accessibilityRole="button">
         <XStack alignItems="center" gap="$xs">
-          <TriangleAlert size={14} color={theme.colorBurgundy?.val} />
-          <Typography variant="reference" color="$colorBurgundy">
-            {location.error}
+          <TriangleAlert size={14} color={theme.colorSecondary?.val} />
+          <Typography variant="reference">{t('massTimes.locationFailed')}</Typography>
+          <Typography variant="reference" color="$accent">
+            {t('massTimes.tryAgain')}
           </Typography>
         </XStack>
       </AnimatedPressable>

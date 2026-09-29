@@ -4,20 +4,19 @@ import { useCallback, useEffect, useState } from 'react'
 // is São Paulo, so this also keeps the screen useful before any GPS prompt or native rebuild.
 export const defaultCoords = { lat: -23.5503, lng: -46.6339 }
 
-export type LocationStatus = 'default' | 'locating' | 'granted' | 'denied'
+// 'failed': permission is granted but the device couldn't produce a fix (no signal, services off).
+export type LocationStatus = 'default' | 'locating' | 'granted' | 'denied' | 'failed'
 
 export type DeviceLocation = {
   coords: { lat: number; lng: number }
   status: LocationStatus
   isFallback: boolean // showing the default vantage rather than the user's real position
-  error?: string // a real permission/GPS failure worth showing — never silently swallowed
   request: () => Promise<void>
 }
 
 export function useDeviceLocation(): DeviceLocation {
   const [coords, setCoords] = useState(defaultCoords)
   const [status, setStatus] = useState<LocationStatus>('default')
-  const [error, setError] = useState<string | undefined>(undefined)
 
   const locate = useCallback(async (prompt: boolean) => {
     // Dynamic import: expo-location binds its native module at import, so loading it here (not at file
@@ -32,10 +31,9 @@ export function useDeviceLocation(): DeviceLocation {
     }
 
     // Past this point we're talking to the device. We do NOT swallow failures: a denied permission or a
-    // GPS error surfaces via `status`/`error` so the UI can say *why* there's no blue dot, instead of
-    // silently pretending the São Paulo default is the user's location.
+    // GPS error surfaces via `status` so the UI can say *why* there's no blue dot, instead of silently
+    // pretending the São Paulo default is the user's location.
     try {
-      setError(undefined)
       const perm = prompt
         ? await Location.requestForegroundPermissionsAsync()
         : await Location.getForegroundPermissionsAsync()
@@ -45,12 +43,19 @@ export function useDeviceLocation(): DeviceLocation {
         return
       }
       setStatus('locating')
-      const pos = await Location.getCurrentPositionAsync({ accuracy: Location.Accuracy.Balanced })
+      // A fresh fix can fail indoors or with services briefly unavailable; the last known position is
+      // still a far better vantage than the São Paulo default.
+      const pos = await Location.getCurrentPositionAsync({
+        accuracy: Location.Accuracy.Balanced,
+      }).catch(() => Location.getLastKnownPositionAsync())
+      if (!pos) {
+        setStatus('failed')
+        return
+      }
       setCoords({ lat: pos.coords.latitude, lng: pos.coords.longitude })
       setStatus('granted')
-    } catch (err) {
-      setError(err instanceof Error ? err.message : String(err))
-      setStatus('denied')
+    } catch {
+      setStatus('failed')
     }
   }, [])
 
@@ -59,5 +64,5 @@ export function useDeviceLocation(): DeviceLocation {
     void locate(false)
   }, [locate])
 
-  return { coords, status, isFallback: status !== 'granted', error, request: () => locate(true) }
+  return { coords, status, isFallback: status !== 'granted', request: () => locate(true) }
 }

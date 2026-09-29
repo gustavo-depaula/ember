@@ -7,11 +7,9 @@ import { useTheme, useThemeName, YStack } from 'tamagui'
 import { AnimatedPressable, GlassSurface } from '@/components'
 import {
   ChurchSheet,
-  countActiveFilters,
   emptyFilter,
   type MapRegion,
   type MassFilter,
-  MassFilterSheet,
   useMassTimesNearby,
 } from '@/features/mass-times'
 
@@ -24,7 +22,6 @@ export default function MassTimesScreen() {
   const isDark = useThemeName().startsWith('dark')
   const insets = useSafeAreaInsets()
   const [filter, setFilter] = useState<MassFilter>(emptyFilter)
-  const [filtersOpen, setFiltersOpen] = useState(false)
   // The viewed map region (undefined until the user pans) — lets the nearby results follow the map.
   const [region, setRegion] = useState<MapRegion>()
   const nearby = useMassTimesNearby(filter, region)
@@ -43,8 +40,8 @@ export default function MassTimesScreen() {
       <ChurchSheet
         nearby={nearby}
         locale={i18n.language}
-        filterCount={countActiveFilters(filter)}
-        onOpenFilters={() => setFiltersOpen(true)}
+        filter={filter}
+        onFilter={setFilter}
         onRegionChange={setRegion}
       />
 
@@ -68,13 +65,6 @@ export default function MassTimesScreen() {
           </GlassSurface>
         </AnimatedPressable>
       </YStack>
-
-      <MassFilterSheet
-        open={filtersOpen}
-        filter={filter}
-        onChange={setFilter}
-        onClose={() => setFiltersOpen(false)}
-      />
     </YStack>
   )
 }

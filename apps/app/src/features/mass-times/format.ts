@@ -1,5 +1,6 @@
 import type { ServiceKind } from '@ember/api'
 import type { TFunction } from 'i18next'
+import type { OtherRule } from '@/lib/mass-times'
 
 // Display helpers for the Mass Times screens. Times are wall-clock strings and occurrence days are
 // UTC-midnight Dates (see lib/mass-times/schedule.ts), so every Intl call here pins `timeZone: 'UTC'`
@@ -41,4 +42,48 @@ export function dayLabel(occurrenceDate: Date, now: Date, t: TFunction, locale: 
 
 export function kindLabel(kind: ServiceKind, t: TFunction): string {
   return t(`massTimes.kind.${kind}`)
+}
+
+// The locale's own weekday name for a day of week (0 = Sunday) — lowercase mid-sentence in Portuguese,
+// capitalized in English. 2023-01-01 was a Sunday.
+function localWeekday(dow: number, locale: string, style: 'long' | 'short'): string {
+  return new Date(Date.UTC(2023, 0, 1 + dow)).toLocaleDateString(locale, {
+    weekday: style,
+    timeZone: 'UTC',
+  })
+}
+
+// A weekday heading a row or line, capitalized in every locale.
+export function weekdayName(dow: number, locale: string, style: 'long' | 'short' = 'long'): string {
+  return capitalize(localWeekday(dow, locale, style))
+}
+
+function monthName(month: number, locale: string): string {
+  return new Date(Date.UTC(2023, month - 1, 1)).toLocaleDateString(locale, {
+    month: 'short',
+    timeZone: 'UTC',
+  })
+}
+
+// A rule the weekly grid can't hold, as one line: "1st Friday of the month", "Sunday in Feb, Mar".
+export function describeOtherRule(rule: OtherRule, t: TFunction, locale: string): string {
+  if (rule.kind === 'monthly') {
+    const weekdays = rule.weekdays
+      .map(({ n, dow }) => {
+        // sábado/domingo take the masculine ordinal in Portuguese.
+        const group = dow === 0 || dow === 6 ? 'ordinalMasc' : 'ordinal'
+        const day = localWeekday(dow, locale, 'long')
+        return `${t(`massTimes.${group}.${n}`)} ${day}`
+      })
+      .join(', ')
+    return t('massTimes.monthlyRule', { weekdays: capitalize(weekdays) })
+  }
+  return t('massTimes.seasonalRule', {
+    days: rule.dows.map((dow) => weekdayName(dow, locale)).join(', '),
+    months: rule.months.map((m) => monthName(m, locale)).join(', '),
+  })
+}
+
+function capitalize(text: string): string {
+  return text.charAt(0).toUpperCase() + text.slice(1)
 }

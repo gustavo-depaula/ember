@@ -141,6 +141,18 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
   }
 }
 
+// Only the practice reminders — Mass and custody notifications share the OS schedule and must
+// survive the practice reschedule that runs on every launch.
+async function cancelAllPracticeReminders(): Promise<void> {
+  if (!Notifications) return
+  const scheduled = await Notifications.getAllScheduledNotificationsAsync()
+  for (const notification of scheduled) {
+    if (notification.content.data?.practiceId) {
+      await Notifications.cancelScheduledNotificationAsync(notification.identifier)
+    }
+  }
+}
+
 // Recurring weekly reminders before a church's Masses. `weekday` is expo's 1=Sunday..7=Saturday.
 
 export type MassReminderSlot = { weekday: number; hour: number; minute: number }
@@ -189,7 +201,7 @@ export async function rescheduleAllReminders(): Promise<void> {
   const notifiable = slots.filter((s) => parseNotifyConfig(s.notify)?.enabled && s.time)
 
   if (notifiable.length === 0) {
-    await Notifications.cancelAllScheduledNotificationsAsync()
+    await cancelAllPracticeReminders()
     return
   }
 
@@ -206,7 +218,7 @@ export async function rescheduleAllReminders(): Promise<void> {
     }),
   )
 
-  await Notifications.cancelAllScheduledNotificationsAsync()
+  await cancelAllPracticeReminders()
   await Promise.all(
     notifiable.map((slot) => scheduleRemindersForSlot(slot, practices.get(slot.practice_id))),
   )

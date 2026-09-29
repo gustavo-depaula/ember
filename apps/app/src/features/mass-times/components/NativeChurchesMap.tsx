@@ -2,7 +2,7 @@ import { AppleMaps, type CameraMoveEvent, GoogleMaps } from 'expo-maps'
 import { forwardRef, useImperativeHandle, useMemo, useRef } from 'react'
 import { Platform } from 'react-native'
 import { useTheme } from 'tamagui'
-import type { NearbyChurch } from '@/lib/mass-times'
+import type { Cluster } from '@/lib/mass-times'
 import { useFavoritesStore } from '../favorites'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 
@@ -42,6 +42,11 @@ export type CameraIdle = {
   zoom: number
 }
 
+// What a church pin hands back on tap — enough to open its detail and focus the camera.
+export type PinnedChurch = { id: string; name: string; lat: number; lng: number }
+
+const clusterPrefix = 'cluster:'
+
 // What the wrapper drives the map with. expo-maps' `cameraPosition` prop is initial-only, so moves go
 // through the native view's imperative methods (exposed here via the forwarded ref). `select`/`deselect`
 // keep the native pin selection in lockstep with the sheet (iOS 18+ / current Google Maps).
@@ -58,15 +63,19 @@ const NativeChurchesMap = forwardRef<
   {
     nearby: MassTimesNearby
     initialCamera: CameraPosition
-    onSelect: (church: NearbyChurch) => void
+    onSelect: (church: PinnedChurch) => void
+    onCluster: (cluster: Cluster) => void
     onDeselect?: () => void
     onCameraIdle?: (camera: CameraIdle) => void
   }
->(function NativeChurchesMap({ nearby, initialCamera, onSelect, onDeselect, onCameraIdle }, ref) {
+>(function NativeChurchesMap(
+  { nearby, initialCamera, onSelect, onCluster, onDeselect, onCameraIdle },
+  ref,
+) {
   const theme = useTheme()
   const accent = theme.accent?.val
   const favoriteTint = theme.colorBurgundy?.val ?? accent
-  const { churches } = nearby
+  const { churches, clusters } = nearby
   // Raw record is referentially stable; we derive the per-marker icon from it in the memos below.
   const favorites = useFavoritesStore((s) => s.favorites)
 
@@ -92,35 +101,62 @@ const NativeChurchesMap = forwardRef<
     [],
   )
 
-  const byId = useMemo(() => new Map((churches ?? []).map((c) => [c.id, c])), [churches])
+  // Zoomed out, the clusters cover every church in view (a one-church cluster stands in for its
+  // church); otherwise every church in view is its own pin.
+  const pins = useMemo<PinnedChurch[]>(() => {
+    if (clusters.length === 0)
+      return (churches ?? []).map(({ id, name, lat, lng }) => ({ id, name, lat, lng }))
+    return clusters.flatMap((c) => (c.church ? [{ ...c.church, lat: c.lat, lng: c.lng }] : []))
+  }, [churches, clusters])
+  const groups = useMemo(() => clusters.filter((c) => !c.church), [clusters])
+  const pinsById = useMemo(() => new Map(pins.map((p) => [p.id, p])), [pins])
+  const groupsById = useMemo(() => new Map(groups.map((g) => [clusterPrefix + g.id, g])), [groups])
+
   const markers = useMemo(
-    () =>
-      (churches ?? []).map((c) => ({
-        id: c.id,
-        coordinates: { latitude: c.lat, longitude: c.lng },
-        title: c.name,
+    () => [
+      ...pins.map((p) => ({
+        id: p.id,
+        coordinates: { latitude: p.lat, longitude: p.lng },
+        title: p.name,
       })),
-    [churches],
+      ...groups.map((g) => ({
+        id: clusterPrefix + g.id,
+        coordinates: { latitude: g.lat, longitude: g.lng },
+      })),
+    ],
+    [pins, groups],
   )
-  // A cross for the directory, a heart for saved ones. NOTE: there is no `church` SF Symbol (it renders
-  // a blank fallback pin), so we use `cross.fill` — the clearest native glyph for a Catholic church.
-  // Non-favorites are tinted by a name-hashed jewel tone for variety; favorites keep the burgundy heart.
+  // A cross for the directory, a heart for saved ones, a count balloon for a cluster. NOTE: there is
+  // no `church` SF Symbol (it renders a blank fallback pin), so we use `cross.fill` — the clearest
+  // native glyph for a Catholic church. Non-favorites are tinted by a name-hashed jewel tone.
   const appleMarkers = useMemo(
-    () =>
-      markers.map((m) => {
-        const isFavorite = Boolean(favorites[m.id])
+    () => [
+      ...pins.map((p) => {
+        const isFavorite = Boolean(favorites[p.id])
         return {
-          ...m,
+          id: p.id,
+          coordinates: { latitude: p.lat, longitude: p.lng },
+          title: p.name,
           systemImage: isFavorite ? 'heart.fill' : 'cross.fill',
-          tintColor: isFavorite ? favoriteTint : pinColor(m.title),
+          tintColor: isFavorite ? favoriteTint : pinColor(p.name),
         }
       }),
-    [markers, favorites, favoriteTint],
+      ...groups.map((g) => ({
+        id: clusterPrefix + g.id,
+        coordinates: { latitude: g.lat, longitude: g.lng },
+        monogram: g.count > 99 ? '99+' : String(g.count),
+        tintColor: accent,
+      })),
+    ],
+    [pins, groups, favorites, favoriteTint, accent],
   )
 
   const select = (id?: string) => {
-    const church = id ? byId.get(id) : undefined
-    if (church) onSelect(church)
+    if (!id) return
+    const group = groupsById.get(id)
+    if (group) return onCluster(group)
+    const pin = pinsById.get(id)
+    if (pin) onSelect(pin)
   }
 
   const handleCameraMove = (e: CameraMoveEvent) => {

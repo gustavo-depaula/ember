@@ -24,7 +24,7 @@ export function ChurchSearchRow({
   return (
     <ChurchRow name={church.name} onPress={() => onSelect(church)}>
       {where ? (
-        <Typography variant="caption" tone="muted" numberOfLines={1}>
+        <Typography variant="annotation" numberOfLines={1}>
           {where}
         </Typography>
       ) : null}

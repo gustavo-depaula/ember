@@ -1,6 +1,6 @@
 import type { Service } from '@ember/api'
 import { describe, expect, it } from 'vitest'
-import { expandUpcoming, nextService, occurrenceInstant, wallClockNow } from './schedule'
+import { expandUpcoming, nextService, occurrenceInstant, wallClockNow } from '../schedule'
 
 // Minimal service factory — expansion only reads rrule/startTime/exdate/rdate/kind.
 function svc(partial: Partial<Service>): Service {

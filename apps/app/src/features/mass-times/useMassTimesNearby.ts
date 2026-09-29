@@ -1,13 +1,13 @@
-import type { ServiceKind } from '@ember/api'
+import type { Service, ServiceKind } from '@ember/api'
 import { useMemo } from 'react'
-import type { Bbox, NearbyChurch } from '@/lib/mass-times'
-import { hasServiceToday, useChurchesInBbox } from '@/lib/mass-times'
+import type { Bbox, Cluster, NearbyChurch } from '@/lib/mass-times'
+import { hasServiceToday, useViewport } from '@/lib/mass-times'
 import { useFavoritesStore } from './favorites'
 import type { DeviceLocation } from './useDeviceLocation'
 import { useDeviceLocation } from './useDeviceLocation'
 
-// Backend browse is capped at 100 churches per request.
-const fetchLimit = 100
+// Churches listed per viewport; past this many in view the backend clusters the map instead.
+const fetchLimit = 60
 // Initial viewport span (degrees) before the map reports its real region — ~28 km around the user.
 const defaultSpanDeg = 0.25
 const earthRadiusKm = 6371
@@ -51,13 +51,25 @@ export type MassFilter = {
 
 export const emptyFilter: MassFilter = { kind: undefined, today: false, favoritesOnly: false }
 
-export function countActiveFilters(filter: MassFilter): number {
-  return (filter.kind ? 1 : 0) + (filter.today ? 1 : 0) + (filter.favoritesOnly ? 1 : 0)
+// The on-device half of the filter, shared by the nearby list and search results.
+export function passesFilter(
+  church: { id: string; timezone: string; services?: Service[] | null },
+  filter: MassFilter,
+  favorites: Record<string, unknown>,
+): boolean {
+  if (filter.favoritesOnly && !favorites[church.id]) return false
+  if (
+    filter.today &&
+    !hasServiceToday(church.services ?? [], { timezone: church.timezone, kind: filter.kind })
+  )
+    return false
+  return true
 }
 
 export type MassTimesNearby = {
   location: DeviceLocation
-  churches: NearbyChurch[] | undefined
+  churches: NearbyChurch[] | undefined // nearest the map center first
+  clusters: Cluster[] // non-empty only when the viewport holds more churches than the list
   kind?: ServiceKind // the active service-kind filter, surfaced so views can label the next time
   isLoading: boolean
   isFetching: boolean
@@ -65,10 +77,10 @@ export type MassTimesNearby = {
   refetch: () => void
 }
 
-// Churches for the current map viewport, shared by the list and the map. We query the viewport as a
-// bounding box (`/churches?bbox`) rather than a fixed radius, so any zoom works — from a city block to
-// the whole globe (capped at `fetchLimit`). `today`/`favoritesOnly` refine on-device; distance is
-// computed from the view center so the list reads nearest-first.
+// Churches for the current map viewport, shared by the list and the map. The viewport is queried as a
+// bounding box, so any zoom works: the backend returns every church in view nearest the center first,
+// or — zoomed out — the nearest few plus counted clusters for the map. `today`/`favoritesOnly` refine
+// the list on-device. Distance is from the user, never the map center, and only once located.
 export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): MassTimesNearby {
   const location = useDeviceLocation()
   const favorites = useFavoritesStore((s) => s.favorites)
@@ -79,40 +91,38 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
     latitudeDelta: defaultSpanDeg,
     longitudeDelta: defaultSpanDeg,
   }
-  const bbox = bboxFromRegion(view)
-  const { data, isLoading, isFetching, isError, refetch } = useChurchesInBbox(
-    bbox,
+  const { data, isLoading, isFetching, isError, refetch } = useViewport(
+    bboxFromRegion(view),
     filter.kind,
     fetchLimit,
   )
 
+  const located = location.status === 'granted'
+  const { lat, lng } = location.coords
   const churches = useMemo<NearbyChurch[] | undefined>(() => {
     if (!data) return undefined
-    return data
-      .map((c) => ({
-        ...c,
-        services: c.services ?? [],
-        distanceKm: haversineKm(view.latitude, view.longitude, c.lat, c.lng),
-      }))
-      .sort((a, b) => a.distanceKm - b.distanceKm)
-      .filter((c) => {
-        if (filter.favoritesOnly && !favorites[c.id]) return false
-        if (
-          filter.today &&
-          !hasServiceToday(c.services, { timezone: c.timezone, kind: filter.kind })
-        )
-          return false
-        return true
-      })
-  }, [
-    data,
-    filter.today,
-    filter.favoritesOnly,
-    filter.kind,
-    favorites,
-    view.latitude,
-    view.longitude,
-  ])
+    return (
+      data.churches
+        .map((c) => ({
+          ...c,
+          services: c.services ?? [],
+          distanceKm: located ? haversineKm(lat, lng, c.lat, c.lng) : undefined,
+        }))
+        .filter((c) => passesFilter(c, filter, favorites))
+        // The backend orders by the map center; once the user is located, the distances shown are
+        // theirs, so the list must read nearest-to-them first.
+        .sort((a, b) => (a.distanceKm ?? 0) - (b.distanceKm ?? 0))
+    )
+  }, [data, filter, favorites, located, lat, lng])
 
-  return { location, churches, kind: filter.kind, isLoading, isFetching, isError, refetch }
+  return {
+    location,
+    churches,
+    clusters: data?.clusters ?? [],
+    kind: filter.kind,
+    isLoading,
+    isFetching,
+    isError,
+    refetch,
+  }
 }

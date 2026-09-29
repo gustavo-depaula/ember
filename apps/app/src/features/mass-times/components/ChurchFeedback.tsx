@@ -4,7 +4,7 @@ import { Camera, X } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedCheckbox, AnimatedPressable, Typography } from '@/components'
+import { AnimatedCheckbox, AnimatedPressable, confirm, Typography } from '@/components'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { useSubmitCorrection, useUploadAttachment, useVerifyChurch } from '@/lib/mass-times'
 import { pickCorrectionPhoto } from '../attachments'
@@ -38,8 +38,12 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
     try {
       picked = await pickCorrectionPhoto()
     } catch (err) {
-      // Native picker absent until rebuild, or the user denied library access.
-      console.warn('[mass-times] photo picker unavailable', err)
+      // Native picker absent from this binary, or the image couldn't be read/compressed.
+      confirm({
+        title: t('error.somethingWrong'),
+        description: err instanceof Error ? err.message : String(err),
+        singleAction: true,
+      })
       return
     }
     if (!picked) return

@@ -6,7 +6,6 @@ export {
   useRecentCheckIns,
 } from './checkins'
 export { ChurchSheet } from './components/ChurchSheet'
-export { MassFilterSheet } from './components/MassFilterSheet'
 export {
   type FavoriteChurch,
   useFavoriteChurches,
@@ -15,7 +14,6 @@ export {
 } from './favorites'
 export { type DeviceLocation, useDeviceLocation } from './useDeviceLocation'
 export {
-  countActiveFilters,
   emptyFilter,
   type MapRegion,
   type MassFilter,

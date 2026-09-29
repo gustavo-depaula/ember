@@ -6,8 +6,8 @@ import { nextService, wallClockNow } from '@/lib/mass-times'
 import { dayLabel, formatDistanceKm, formatTimeOfDay, kindLabel } from '../format'
 import { ChurchRow } from './ChurchRow'
 
-// One church in the nearby list (and the map's tap card): name, its next upcoming service (Mass by
-// default, or the filtered kind) as a gold highlight line, then address · distance, muted.
+// One church in the nearby list: name and distance, its next upcoming service (Mass by default, or
+// the filtered kind) as the accent line, then the address, muted.
 export function ChurchListItem({
   church,
   locale,
@@ -23,25 +23,31 @@ export function ChurchListItem({
   const now = wallClockNow(church.timezone)
   const upcoming = nextService(church.services, { timezone: church.timezone, kind, now })
   const nextLabel = kind === 'mass' ? t('massTimes.nextMass') : kindLabel(kind, t)
-  const where = [church.address, formatDistanceKm(church.distanceKm, locale)]
-    .filter(Boolean)
-    .join(' · ')
+  const where = church.address ?? church.city
 
   return (
-    <ChurchRow name={church.name} onPress={() => onSelect(church)}>
+    <ChurchRow
+      name={church.name}
+      trailing={
+        church.distanceKm === undefined ? undefined : formatDistanceKm(church.distanceKm, locale)
+      }
+      onPress={() => onSelect(church)}
+    >
       {upcoming ? (
         <Typography variant="interface" fontSize="$2" color="$accent" numberOfLines={1}>
           {nextLabel} · {dayLabel(upcoming.occurrence.date, now, t, locale)}{' '}
           {formatTimeOfDay(upcoming.occurrence.startTime, locale)}
         </Typography>
       ) : (
-        <Typography variant="caption" tone="muted">
+        <Typography variant="annotation" numberOfLines={1}>
           {church.services.length > 0 ? t('massTimes.noUpcoming') : t('massTimes.notListed')}
         </Typography>
       )}
-      <Typography variant="annotation" numberOfLines={1}>
-        {where}
-      </Typography>
+      {where ? (
+        <Typography variant="annotation" numberOfLines={1}>
+          {where}
+        </Typography>
+      ) : null}
     </ChurchRow>
   )
 }

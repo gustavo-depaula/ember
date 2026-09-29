@@ -59,7 +59,7 @@ import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
-import { useRemindersStore } from '@/features/mass-times/reminders'
+import { rescheduleMassReminders, useRemindersStore } from '@/features/mass-times/reminders'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
@@ -228,6 +228,7 @@ export default function RootLayout() {
         setSeeded(true)
         setupNotifications()
           .then(() => rescheduleAllReminders())
+          .then(() => rescheduleMassReminders())
           .catch((err) => console.error('[startup] notification setup failed', err))
 
         InteractionManager.runAfterInteractions(() => {
