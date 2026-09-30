@@ -99,9 +99,9 @@ Each practice carries an ordered **lineage** — the saints who taught, spread, 
 
 On first open the user picks two cards from a curated pool. They wait as envelopes with no redeeming window.
 
-The pool — sixteen of the best-loved saints, in Brazil and in the English-speaking world, all with art drawn:
+The pool — twenty saints long loved by the whole Church, all with art drawn:
 
-Joseph (`joseph`) · Francis of Assisi (`francis_assisi`) · Thérèse of the Child Jesus (`therese`) · Anthony of Padua (`anthony_padua`) · Padre Pio (`padre_pio`) · Rita of Cascia (`rita_cascia`) · Jude (`simon_jude`) · Michael the Archangel (`michael_archangel`) · George (`george`) · Sebastian (`sebastian`) · Teresa of Calcutta (`teresa_calcutta`) · John Paul II (`john_paul_ii`) · Faustina (`faustina`) · Augustine (`augustine`) · Benedict (`benedict`) · Frei Galvão (`frei_galvao`)
+Joseph (`joseph`) · Peter and Paul (`peter, paul`) · Michael the Archangel (`michael_archangel`) · Augustine (`augustine`) · Benedict (`benedict`) · Francis of Assisi (`francis_assisi`) · Anthony of Padua (`anthony_padua`) · Dominic (`dominic`) · Thomas Aquinas (`thomas_aquinas`) · Catherine of Siena (`catherine_siena`) · Ignatius of Loyola (`ignatius_loyola`) · Teresa of Ávila (`teresa`) · Thérèse of the Child Jesus (`therese`) · Agnes (`agnes`) · Lucy (`lucy`) · Sebastian (`sebastian`) · George (`george`) · John Vianney (`john_vianney`) · Rita of Cascia (`rita_cascia`) · Padre Pio (`padre_pio`)
 
 ---
 
