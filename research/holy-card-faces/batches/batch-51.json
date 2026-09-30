@@ -1,0 +1,97 @@
+{
+  "batch": 51,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-51.md",
+  "cards": [
+    {
+      "id": "chasuble",
+      "letter": "C",
+      "name": {
+        "en-US": "Chasuble",
+        "pt-BR": "Casula"
+      },
+      "patronOf": {
+        "en-US": "Charity over all things",
+        "pt-BR": "A caridade acima de tudo"
+      },
+      "prayerExcerpt": {
+        "en-US": "And over all things put on love, which is the bond of perfection, and let the peace of Christ rule in your hearts.",
+        "pt-BR": "Revesti-vos, sobretudo, do amor que é o vínculo da perfeição. Reine em vossos corações a paz de Cristo."
+      },
+      "excerptSource": "content/of/formularies/ritual/various-needs/div009.json entranceAntiphon (Colossians 3:14-15, the Entrance Antiphon of the Mass for a Council or a Synod, line breaks joined; verbatim in both languages)",
+      "subject": "The chasuble, laid out on a vesting counter, as an illuminated still life, seen from low at three-quarters along the counter: an ample chasuble of deep green silk spread open to its full width on the broad top of a pale oak sacristy vesting counter, its back uppermost, falling in soft heavy folds over the counter's front edge, a tall Y-shaped orphrey cross of gold embroidery running down its middle. Behind it, a wall of tall oak drawers. Late-afternoon sunlight slants through tall clear windows in long warm bars across the green silk, catching the gold thread. Ample, calm, enfolding. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'The vestment proper to the Priest Celebrant at Mass ... is the chasuble worn, unless otherwise indicated, over the alb and stole' (GIRM 337); it is prepared for the priest with the alb and stole (GIRM 119). It follows the colour of the day (GIRM 346): the card shows green, the colour of Ordinary Time (346c), because the excerpt is the Entrance Antiphon of a Mass for Various Needs, which is 'celebrated in the color proper to the day or the time of year' (GIRM 347; the formulary's own colour in the data is green), and because green sets it apart from batch 50's violet stole and this batch's rose dalmatic. The GIRM leaves the form to the Conferences (GIRM 342) and wants beauty 'in the material used and in the design' (GIRM 344): the ample cut and the Y-shaped orphrey cross are traditional choices (Catholic Encyclopedia, 'Chasuble'). The Encyclopedia calls the chasuble the vestment 'covering all the rest', and gives the words at its bestowal in ordination: 'the priestly vestment, by which is signified charity'; the excerpt, Col 3:14-15, puts on love 'over all things'.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 337, 342, 344, 346–347 (the chasuble proper to the priest; form and design; the colours)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 119 (the alb, stole and chasuble prepared for the priest)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Mass for a Council or a Synod, Entrance Antiphon (Col 3:14-15) (content/of/formularies/ritual/various-needs/div009.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/ritual/various-needs/div009.json"
+        },
+        {
+          "title": "The Catholic Encyclopedia (1907–12), 'Chasuble' (content/books/catholic-encyclopedia/en-US/03639a.md): the traditional form",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/03639a.md"
+        }
+      ],
+      "catalogMatch": "Chasuble"
+    },
+    {
+      "id": "dalmatic",
+      "letter": "D",
+      "name": {
+        "en-US": "Dalmatic",
+        "pt-BR": "Dalmática"
+      },
+      "patronOf": {
+        "en-US": "The deacon's garment of joy",
+        "pt-BR": "A veste de alegria do diácono"
+      },
+      "prayerExcerpt": {
+        "en-US": "I exult for joy in the Lord, my soul rejoices in my God, for he has clothed me in the garments of salvation, he has wrapped me in the cloak of integrity, like a bridegroom wearing his wreath, like a bride adorned in her jewels.",
+        "pt-BR": "Exulto de alegria no Senhor e minh'alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa, ou uma noiva com suas joias."
+      },
+      "excerptSource": "content/of/formularies/tempore/advent/week-3/sunday.json readings.B.firstReading body (Isaiah 61:10, one sentence; en-US its opening quotation mark dropped; pt-BR verbatim)",
+      "subject": "The dalmatic, displayed, as an illuminated still life, seen at eye level a little from the left: a knee-length tunic of rose-coloured silk with short wide sleeves hangs spread to its full width on a broad wooden cross-bar inside a tall glass-fronted walnut vestment case lined with deep indigo velvet. Two narrow vertical bands of gold embroidery run down from its upper edge to its hem, joined near the hem by two narrow gold cross-bands, and a short gold fringe edges each sleeve. A soft light from inside the top of the case falls on the rose silk and glints on the gold; faint reflections in the glass. Joyful, festive, ready to serve. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'The vestment proper to the Deacon is the dalmatic, worn over the alb and stole; however, the dalmatic may be omitted out of necessity or on account of a lesser degree of solemnity' (GIRM 338; also GIRM 119). It follows the colour of the day (GIRM 346): the card shows rose, which 'may be used, where it is the practice, on Gaudete Sunday (Third Sunday of Advent)' (346f), because the excerpt is the First Reading of Gaudete Sunday, Year B, and because rose sets it apart from batch 50's violet stole and this batch's green chasuble. The GIRM gives no form (GIRM 342): the Roman form, knee-length with wide sleeves and two narrow vertical stripes joined near the hem by two narrow cross-stripes, and the fringe on the sleeves, are traditional choices (Catholic Encyclopedia, 'Dalmatic'). The Encyclopedia calls the dalmatic 'a festal garment' and gives the words of the bishop at a deacon's ordination: 'May the Lord clothe thee with the garment of salvation and with the vesture of praise', the image of Is 61:10 in the excerpt, whose Latin in the same file is 'induit me vestimentis salutis'.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 338, 342, 346 (the dalmatic proper to the deacon; form; rose on Gaudete Sunday)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 119 (the alb, stole and dalmatic prepared for the deacon)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Third Sunday of Advent, Year B, First Reading (Is 61:1-2a, 10-11) (content/of/formularies/tempore/advent/week-3/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/advent/week-3/sunday.json"
+        },
+        {
+          "title": "The Catholic Encyclopedia (1907–12), 'Dalmatic' (content/books/catholic-encyclopedia/en-US/04608a.md): the traditional form",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/04608a.md"
+        }
+      ],
+      "catalogMatch": "Dalmatic"
+    }
+  ]
+}
