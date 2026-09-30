@@ -1,0 +1,41 @@
+{
+  "id": "queenship",
+  "feast": {
+    "month": 8,
+    "day": 22
+  },
+  "name": {
+    "en-US": "The Queenship of the Blessed Virgin Mary",
+    "pt-BR": "Virgem Maria Rainha"
+  },
+  "patronOf": {
+    "en-US": "Mary crowned Queen of heaven and earth",
+    "pt-BR": "Maria coroada Rainha do céu e da terra"
+  },
+  "prayerExcerpt": {
+    "en-US": "At your right stands the queen in robes of gold, finely arrayed.",
+    "pt-BR": "A Rainha está à vossa direita com suas vestes de ouro, ornada de esplendor."
+  },
+  "proper": "sanctorale.08-22",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md, matured to about forty-eight (the same woman, not a different face): a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks now a little thinner, faint lines at the eyes, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under a white veil and blue mantle; she kneels humbly with eyes lowered. Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo ringed with rays; he looks at his Mother with tender love.",
+    "basis": "The Coronation of the Virgin by her Son with the dove above (Fra Angelico, Lippi and the Gothic tympana) is the traditional image of Mary's queenship, the fifth Glorious mystery, which this card also serves. Both faces follow recurring-figures.md, Our Lady matured as on assumption.",
+    "excerpt": "content/of/formularies/sanctoral/08-22.json entranceAntiphon (whole, both languages)",
+    "sources": [
+      {
+        "title": "Pius XII, Ad caeli Reginam (1954)",
+        "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html"
+      },
+      {
+        "title": "Wikipedia: Coronation of the Virgin",
+        "url": "https://en.wikipedia.org/wiki/Coronation_of_the_Virgin"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}

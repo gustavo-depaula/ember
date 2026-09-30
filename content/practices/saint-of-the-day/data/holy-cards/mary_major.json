@@ -1,0 +1,46 @@
+{
+  "id": "mary_major",
+  "feast": {
+    "month": 8,
+    "day": 5
+  },
+  "name": {
+    "en-US": "Dedication of the Basilica of St. Mary Major",
+    "pt-BR": "Dedicação da Basílica de Santa Maria Maior"
+  },
+  "patronOf": {
+    "en-US": "The August snow on the Esquiline",
+    "pt-BR": "A neve de agosto no Esquilino"
+  },
+  "prayerExcerpt": {
+    "en-US": "Here God lives among men. He will make his home among them.",
+    "pt-BR": "Esta é a morada de Deus entre os homens. Deus vai morar no meio deles."
+  },
+  "lifeChapter": "aug-05-the-dedication-of-st-mary-ad-nives",
+  "proper": "sanctorale.08-05",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under a white inner veil and blue mantle drawn over the head; small, above, looking down with a gentle smile. Pope Liberius: about sixty-five, clean-shaven, with a BROAD, SQUARE face and a heavy, strong jaw — a low, wide brow, a short, blunt nose, small, wide-set grey eyes under straight grey brows, full cheeks, a firm, wide mouth; short white hair beneath the tiara; eyes down on the snow, absorbed. The patrician John: about fifty, a LONG, NARROW face with a high forehead, a long nose, dark eyes, a short, neat black beard; his wife: about forty-five, a ROUND face with plump cheeks and a small mouth under a white veil, hands joined.",
+    "basis": "The legend of the snow of 5 August (Liberius, the patrician John and his wife, the plan traced in the snow) as painted by Masolino in the Santa Maria Maggiore altarpiece (c. 1428, Capodimonte), where Liberius is an elderly clean-shaven pope in cope and tiara; here Our Lady alone in the glory lets fall the snow.",
+    "excerpt": "content/of/formularies/sanctoral/08-05.json readings.default.firstReading (Rev 21:3, verbatim phrase in both languages)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons: Masolino, Founding of Santa Maria Maggiore",
+        "url": "https://commons.wikimedia.org/wiki/File:Masolino,_fondazione_di_santa_maria_maggiore.jpg"
+      },
+      {
+        "title": "Web Gallery of Art: Masolino, Founding of Santa Maria Maggiore",
+        "url": "https://www.wga.hu/html_m/m/masolino/panels/maggiore.html"
+      },
+      {
+        "title": "Wikipedia: Dedication of the Basilica of Saint Mary Major",
+        "url": "https://en.wikipedia.org/wiki/Dedication_of_the_Basilica_of_Saint_Mary_Major"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}

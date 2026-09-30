@@ -556,23 +556,23 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] Easter Sunday — `easter`
 - [x] The Ascension — `ascension`
 - [x] Pentecost Sunday — `pentecost`
-- [ ] The Most Holy Trinity
-- [ ] Corpus Christi
-- [ ] The Sacred Heart of Jesus
-- [ ] Christ the King
+- [x] The Most Holy Trinity — `trinity`
+- [x] Corpus Christi — `corpus_christi`
+- [x] The Sacred Heart of Jesus — `sacred_heart`
+- [x] Christ the King — `christ_king`
 
 ## Our Lady
 
-- [ ] 11 Feb · Our Lady of Lourdes · *Bem-aventurada Virgem Maria de Lourdes* · optional-memorial
+- [x] 11 Feb · Our Lady of Lourdes · *Bem-aventurada Virgem Maria de Lourdes* · optional-memorial — `lourdes`
 - [x] 13 May · Our Lady of Fatima · *Bem-aventurada Virgem Maria de Fátima* · optional-memorial — `fatima`
 - [x] 31 May · The Visitation of the Blessed Virgin Mary · *Visitação da Bem-Aventurada Virgem Maria* · feast — `visitation`
-- [ ] 16 Jul · Our Lady of Mount Carmel · *Bem-Aventurada Virgem Maria do Monte Carmelo* · feast
-- [ ] 5 Aug · Dedication of the Basilica of Saint Mary Major · *Dedicação da Basílica de Santa Maria* · optional-memorial
+- [x] 16 Jul · Our Lady of Mount Carmel · *Bem-Aventurada Virgem Maria do Monte Carmelo* · feast — `mount_carmel`
+- [x] 5 Aug · Dedication of the Basilica of Saint Mary Major · *Dedicação da Basílica de Santa Maria* · optional-memorial — `mary_major`
 - [x] 15 Aug · The Assumption OF The Blessed Virgin Mary · *ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA* · solemnity — `assumption`
-- [ ] 22 Aug · The Queenship of the Blessed Virgin Mary · *Bem-aventurada Virgem Maria Rainha* · memorial
+- [x] 22 Aug · The Queenship of the Blessed Virgin Mary · *Bem-aventurada Virgem Maria Rainha* · memorial — `queenship`
 - [x] 8 Sep · The Nativity of the Blessed Virgin Mary · *Natividade da Bem-Aventurada Virgem Maria* · feast — `nativity_bvm`
-- [ ] 12 Sep · The Most Holy Name of Mary · *Santíssimo Nome de Maria* · optional-memorial
-- [ ] 15 Sep · Our Lady of Sorrows · *Bem-aventurada Virgem Maria das Dores* · memorial
+- [x] 12 Sep · The Most Holy Name of Mary · *Santíssimo Nome de Maria* · optional-memorial — `holy_name_mary`
+- [x] 15 Sep · Our Lady of Sorrows · *Bem-aventurada Virgem Maria das Dores* · memorial — `our_lady_sorrows`
 - [ ] 24 Sep · The Blessed Virgin Mary of Mercy · *A Santíssima Virgem Maria da Mercê* · Pictorial Lives
 - [ ] 7 Oct · Our Lady of the Rosary · *Bem-aventurada Virgem Maria do Rosário* · memorial
 - [x] 21 Nov · The Presentation of the Blessed Virgin Mary · *Apresentação da Bem-aventurada Virgem Maria* · memorial — `presentation_bvm`
@@ -594,7 +594,7 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 **Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [x] The Presentation — shares the Presentation of the Lord — `presentation_lord` · [ ] The Finding in the Temple
 **Luminous** — [x] The Baptism in the Jordan — shares the Baptism of the Lord — `baptism_lord` · [ ] The Wedding at Cana · [ ] The Proclamation of the Kingdom · [x] The Transfiguration — `transfiguration` · [ ] The Institution of the Eucharist
 **Sorrowful** — [ ] The Agony in the Garden · [ ] The Scourging at the Pillar · [ ] The Crowning with Thorns · [ ] The Carrying of the Cross · [ ] The Crucifixion
-**Glorious** — [x] The Resurrection — shares Easter Sunday — `easter` · [x] The Ascension — shares the Ascension — `ascension` · [x] The Descent of the Holy Spirit — shares Pentecost — `pentecost` · [x] The Assumption — `assumption` · [ ] The Coronation of Mary — shares the Queenship of Mary
+**Glorious** — [x] The Resurrection — shares Easter Sunday — `easter` · [x] The Ascension — shares the Ascension — `ascension` · [x] The Descent of the Holy Spirit — shares Pentecost — `pentecost` · [x] The Assumption — `assumption` · [x] The Coronation of Mary — shares the Queenship of Mary — `queenship`
 
 ## Seasons
 

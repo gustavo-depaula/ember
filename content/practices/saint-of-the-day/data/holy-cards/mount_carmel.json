@@ -1,0 +1,41 @@
+{
+  "id": "mount_carmel",
+  "feast": {
+    "month": 7,
+    "day": 16
+  },
+  "name": {
+    "en-US": "Our Lady of Mount Carmel",
+    "pt-BR": "Nossa Senhora do Carmo"
+  },
+  "patronOf": {
+    "en-US": "The scapular given to St. Simon Stock",
+    "pt-BR": "O escapulário dado a São Simão Stock"
+  },
+  "prayerExcerpt": {
+    "en-US": "So that, fortified by her protection, we may reach the mountain which is Christ.",
+    "pt-BR": "Para que, por sua proteção, possamos chegar ao monte que é Cristo, nosso Senhor."
+  },
+  "proper": "sanctorale.07-16",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under a white veil and white mantle, a small gold crown; she looks down at the friar with tender gravity. the Christ Child as in recurring-figures.md, about two: a plump, ROUND baby face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls; a plain gold halo. St. Simon Stock, clearly different: an Englishman of about seventy, clean-shaven, with a gaunt TRIANGULAR face — broad temples narrowing to a small pointed chin, hollow cheeks, a long, thin, slightly aquiline nose, deep-set pale blue eyes lifted in wonder under sparse white brows, a thin-lipped mouth slightly open; white hair in a narrow ring around a wide tonsure.",
+    "basis": "Carmelite tradition (first written in the late fourteenth century) places Our Lady's gift of the scapular to the prior general Simon Stock in England, commonly at Aylesford, on 16 July 1251; painters (Pietro Novelli, Tiepolo at the Scuola dei Carmini) show her with the Child handing it down to the kneeling friar. His face is a free, distinct invention; no portrait exists.",
+    "excerpt": "content/of/formularies/sanctoral/07-16.json collect (middle clause, both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia: Simon Stock",
+        "url": "https://en.wikipedia.org/wiki/Simon_Stock"
+      },
+      {
+        "title": "Historic England: Shrine of Our Lady of Mount Carmel and St Simon Stock, Aylesford",
+        "url": "https://historicengland.org.uk/listing/the-list/list-entry/1437906"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}

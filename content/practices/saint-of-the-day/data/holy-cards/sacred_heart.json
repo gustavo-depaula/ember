@@ -1,0 +1,37 @@
+{
+  "id": "sacred_heart",
+  "name": {
+    "en-US": "The Sacred Heart of Jesus",
+    "pt-BR": "Sagrado Coração de Jesus"
+  },
+  "patronOf": {
+    "en-US": "The Heart that has so loved men",
+    "pt-BR": "O Coração que tanto amou os homens"
+  },
+  "prayerExcerpt": {
+    "en-US": "The designs of his Heart are from age to age, to rescue their souls from death, and to keep them alive in famine.",
+    "pt-BR": "Os desígnios do Coração do Senhor perduram de geração em geração, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria."
+  },
+  "proper": "tempore.solemnity.sacred-heart-of-jesus",
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; he looks straight out at the viewer with a gentle, inviting gaze.",
+    "basis": "The image follows St. Margaret Mary Alacoque's description of the 1673–75 revelations at Paray-le-Monial (the Heart on a throne of flames, crowned with thorns, surmounted by a cross), as painted in the nineteenth-century devotional type. Christ keeps the set's face.",
+    "excerpt": "content/of/formularies/tempore/solemnity/sacred-heart-of-jesus.json entranceAntiphon (whole, both languages)",
+    "sources": [
+      {
+        "title": "Catholic Encyclopedia (1910): Devotion to the Sacred Heart of Jesus",
+        "url": "https://www.newadvent.org/cathen/07163a.htm"
+      },
+      {
+        "title": "Wikipedia: Sacred Heart",
+        "url": "https://en.wikipedia.org/wiki/Sacred_Heart"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}

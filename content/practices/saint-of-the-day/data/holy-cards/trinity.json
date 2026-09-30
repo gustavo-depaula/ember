@@ -1,0 +1,38 @@
+{
+  "id": "trinity",
+  "name": {
+    "en-US": "The Most Holy Trinity",
+    "pt-BR": "Santíssima Trindade"
+  },
+  "patronOf": {
+    "en-US": "One God in three Persons",
+    "pt-BR": "Um só Deus em três Pessoas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blest be God the Father, and the Only Begotten Son of God, and also the Holy Spirit, for he has shown us his merciful love.",
+    "pt-BR": "Bendito seja Deus Pai e seu Filho Unigênito, com o Espírito Santo, porque mostrou-nos a sua misericórdia."
+  },
+  "lifeChapter": "trinity-sunday",
+  "proper": "tempore.solemnity.most-holy-trinity",
+  "meta": {
+    "face": "God the Father as in recurring-figures.md: the Ancient of Days, a venerable man of about seventy with a BROAD, SQUARE-BROWED face — a wide, smooth forehead, a strong straight nose, deep-set, kindly grey-blue eyes under full white brows, broad cheekbones, a calm mouth half hidden by the moustache; snow-white hair falling in soft waves to the shoulders and a long, full, flowing white beard; a triangular gold halo; he sits at the left. Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo ringed with rays; he sits at the right. The two must read as clearly different: the Father old, white-haired and white-bearded with a broad square brow; the Son young, chestnut-haired, with a long oval face.",
+    "basis": "The Father and the Son enthroned side by side with the dove between them is the common Western image of the Trinity in the Baroque (Ribera's and Guido Reni's Trinities, the Coronation altarpieces); the Father's aged form follows the Ancient of Days of Daniel 7:9. Christ keeps the set's face from transfiguration.",
+    "excerpt": "content/of/formularies/tempore/solemnity/most-holy-trinity.json entranceAntiphon (whole, both languages)",
+    "sources": [
+      {
+        "title": "Daniel 7:9 (Douay-Rheims), the Ancient of Days",
+        "url": "https://www.drbo.org/chapter/32007.htm"
+      },
+      {
+        "title": "Wikipedia: Trinity in Christian art",
+        "url": "https://en.wikipedia.org/wiki/Trinity_in_Christian_art"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}
