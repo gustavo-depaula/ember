@@ -26,6 +26,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Gloria card** adds a vault fresco of angels over shepherds (Luke 2:14), an artistic choice. [Kept.]
 - [ ] **Consecration card (batch 47)** keeps the `x_consecration` composition, but the server rings the bell and a thurifer incenses the Host (GIRM 150) instead of lifting the chasuble's hem (not in the Order of Mass or GIRM). [No hem.] — `dossiers/batch-47.md`
 - [ ] **Batch 47 small choices:** Homily from a carved pulpit (GIRM 136 "another worthy place"); Universal Prayer read by a laywoman; kneeling from after the Sanctus to the Amen (US GIRM 43); Homily excerpt Luke 4:21 (Christ at Nazareth). [As stated.]
+- [ ] **Dismissal card (batch 48)** looks in through the open west doors, so the priest faces the viewer, tiny and faceless, as the rubric has him facing the people. Dismissal excerpt: the third formula without the Easter "alleluia, alleluia". [As stated.] — `dossiers/batch-48.md`
+- [ ] **Object cards:** no `box`; the Altar shows only a white cloth with lilies around it (crucifix and candles have their own card); the Ambo is stone with an unlettered book. [As stated.]
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal

@@ -1,0 +1,417 @@
+{
+  "batch": 48,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-48.md",
+  "cards": [
+    {
+      "id": "doxology_amen",
+      "letter": "D",
+      "name": {
+        "en-US": "Doxology and Great Amen",
+        "pt-BR": "Doxologia e Grande Amém"
+      },
+      "patronOf": {
+        "en-US": "The whole Church answers Amen",
+        "pt-BR": "Toda a Igreja responde Amém"
+      },
+      "prayerExcerpt": {
+        "en-US": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honour is yours, for ever and ever. Amen.",
+        "pt-BR": "Por Cristo, com Cristo, e em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda honra e toda glória, por todos os séculos dos séculos. Amém."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json eucharisticPrayers order.eucharistic-prayer.2 (the concluding doxology and the people's Amen, the rubric between them dropped, lines joined; verbatim otherwise)",
+      "subject": "The Great Amen at a Sunday Mass, seen from the back of a long stone nave, straight down the central aisle. The whole congregation kneels in the wooden pews, seen from behind, row after row, filling the church. Far off at the high altar, small, the priest, in a white-and-gold chasuble over a white alb, seen from behind, facing the altar, lifts high together the golden paten with the white Host and the golden chalice, one in each hand; two servers kneel on the altar step, six tall candles burn beside the crucifix, and morning light falls from the east window onto the raised Host. One great 'Amen' rising from the whole church. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "At the end of the Eucharistic Prayer 'the Priest takes the paten with the host and the chalice and elevates them both while pronouncing alone the doxology', and the people acclaim Amen (GIRM 151, 79h; the Order of Mass rubric 'He takes the chalice and the paten with the host and raising both'). The faithful kneel until after the Amen (GIRM 43, USCCB). The card is the long view from the back because the Amen belongs to the whole people.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 79 (kneeling until after the Amen; the concluding doxology)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 151 (the paten and chalice elevated at the doxology; the people's Amen)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: Eucharistic Prayer II, the concluding doxology (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Doxology and Great Amen"
+    },
+    {
+      "id": "lords_prayer",
+      "letter": "L",
+      "name": {
+        "en-US": "The Lord’s Prayer",
+        "pt-BR": "Pai-Nosso"
+      },
+      "patronOf": {
+        "en-US": "The prayer the Lord taught us",
+        "pt-BR": "A oração que o Senhor nos ensinou"
+      },
+      "prayerExcerpt": {
+        "en-US": "Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven.",
+        "pt-BR": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino, seja feita a vossa vontade, assim na terra como no céu."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.our-father (its opening, line breaks joined, verbatim in both languages)",
+      "subject": "The Our Father at a Sunday Mass in a small whitewashed village church, seen from just behind a family standing in the second pew, close, half-length, their backs to us: a grandmother with a lace mantilla, a father, and between them two small children, all with hands joined, praying aloud. Over their shoulders, up two low steps, the priest, in a white-and-gold chasuble over a white alb, stands at a simple altar facing it, seen from behind, his hands extended; on the corporal before him the golden paten with the Host and the chalice. Two candles, a wooden crucifix, a plain window of morning light. Humble, trusting, a family at prayer. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest says the invitation with hands joined, then 'with hands extended, he pronounces the prayer together with the people' (GIRM 152, 81; the Order of Mass rubric 'He extends his hands and, together with the people, continues'); the paten and chalice have been set down on the corporal (GIRM 151). The people stand (GIRM 43). The daily bread asked for is 'principally the Eucharistic Bread' (GIRM 81), so the Host stays in view.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 81 (standing; the Lord's Prayer and its daily bread)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 151–153 (the vessels set on the corporal; the prayer with hands extended; the embolism)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Lord's Prayer (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "The Lord's Prayer"
+    },
+    {
+      "id": "sign_of_peace",
+      "letter": "S",
+      "name": {
+        "en-US": "Sign of Peace",
+        "pt-BR": "Rito da Paz"
+      },
+      "patronOf": {
+        "en-US": "Peace given to one another",
+        "pt-BR": "A paz dada uns aos outros"
+      },
+      "prayerExcerpt": {
+        "en-US": "The peace of the Lord be with you always. And with your spirit.",
+        "pt-BR": "A paz do Senhor esteja sempre convosco. O amor de Cristo nos uniu."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.sign-of-peace (the priest's greeting and the people's reply, the rubric between them dropped; verbatim in both languages)",
+      "subject": "The Sign of Peace at a Sunday Mass, seen close at eye level from the central aisle, between two wooden pews. In the foreground, half-length, an elderly man in a worn Sunday jacket turns and clasps the hand of the young mother in the pew beside him, both with a slight bow of the head and a quiet smile; next to them a boy offers his hand to his grandfather. Farther along the pews other neighbours do the same, a few hands only, soberly. Beyond, up in the sanctuary and small, the priest, in a white-and-gold chasuble over a white alb, stands at the altar in profile and gives the peace to a server in cassock and surplice, within the sanctuary. Warm daylight from the side windows. Gentle, reconciled, sober. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the prayer for peace the priest, turned to the people, gives the greeting of the excerpt; then 'all express to one another peace, communion, and charity', each 'in a sober manner' offering it 'only to those who are nearest', in the form set by the Conference of Bishops; the priest gives it to the ministers but 'always remains within the sanctuary' (GIRM 154, 82; the Order of Mass rubric). The handshake with a bow is the usual form in the US and in Brazil; the people stand (GIRM 43).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 82 (standing; the Rite of Peace, soberly, to those nearest)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 154 (the greeting of peace; the priest stays within the sanctuary)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Sign of Peace (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Sign of Peace"
+    },
+    {
+      "id": "agnus_dei",
+      "letter": "A",
+      "name": {
+        "en-US": "Agnus Dei and the Fraction",
+        "pt-BR": "Cordeiro de Deus e Fração do Pão"
+      },
+      "patronOf": {
+        "en-US": "The one Bread is broken",
+        "pt-BR": "O único Pão é partido"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lamb of God, you take away the sins of the world, grant us peace.",
+        "pt-BR": "Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.agnus-dei (the third invocation, line breaks joined, verbatim in both languages)",
+      "subject": "The Fraction of the Bread, seen very close from just behind the priest's left shoulder, looking down onto the altar. The priest, in a white-and-gold chasuble over a white alb, stands at the middle of the altar facing it; his hands, in the white sleeves of the alb, break the large white Host in two above the golden paten, a small piece held over the open golden chalice on the white corporal. Above the altar, on the gilded reredos, a carved relief of the Lamb of God standing on a book with a cross-banner, in soft gold. Candlelight on the white linen and the gold. The people are unseen, a hush as they sing. Reverent, tender, close. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'The Priest takes the host, breaks it over the paten, and places a small piece in the chalice', while the Agnus Dei is sung or said by the choir and the people; the fraction 'is reserved to the Priest and the Deacon' (GIRM 155, 83; the Order of Mass rubric). The people still stand, and kneel after the Agnus Dei (GIRM 43, USCCB). The Lamb on the reredos is carving, not vision.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 83 (kneeling after the Agnus Dei; the fraction and the Agnus Dei)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 155 (the host broken over the paten, a piece in the chalice)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Agnus Dei (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Agnus Dei and the Fraction"
+    },
+    {
+      "id": "holy_communion",
+      "letter": "C",
+      "name": {
+        "en-US": "Communion",
+        "pt-BR": "Comunhão"
+      },
+      "patronOf": {
+        "en-US": "The faithful receive the Body of Christ",
+        "pt-BR": "Os fiéis recebem o Corpo de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Body of Christ. Amen.",
+        "pt-BR": "O Corpo de Cristo. Amém."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.communion-silent (the minister's words and the communicant's reply, the rubric between them dropped; verbatim in both languages)",
+      "subject": "Holy Communion at a Sunday Mass, seen from the side at the head of the central aisle, at eye level, looking along the line of communicants. The priest, in a white-and-gold chasuble over a white alb, stands in profile at the foot of the sanctuary step holding a golden ciborium, and raises a white host slightly before an elderly woman who stands before him and receives on the tongue, her hands joined; beside her a server in cassock and surplice holds a golden Communion-plate beneath her chin. Behind her, a young man bows his head before the Sacrament as he steps forward, and the procession of the faithful comes up the aisle two by two, small, hands joined: a girl in a white veil, a farmer, a mother with a baby on her hip. Soft light, recollected joy. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest 'takes the paten or ciborium and approaches the communicants, who usually come up in procession'; he 'raises the host slightly and shows it to each, saying, The Body of Christ. The communicant replies, Amen' (GIRM 160–161; the Order of Mass rubric). In the US, Communion is received standing, the communicant bowing the head before the Sacrament, on the tongue or in the hand (GIRM 160); the Communion-plate is prepared 'for the Communion of the faithful' (GIRM 118c). Communion under the one kind, so no chalice ministers.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 84, 86 (Communion; the procession of the communicants)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 118, 160–161 (the Communion-plate; receiving standing with a bow; The Body of Christ, Amen)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: Communion (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Communion"
+    },
+    {
+      "id": "prayer_after_communion",
+      "letter": "P",
+      "name": {
+        "en-US": "Prayer after Communion",
+        "pt-BR": "Oração depois da Comunhão"
+      },
+      "patronOf": {
+        "en-US": "The priest asks for the fruits of the mystery",
+        "pt-BR": "O sacerdote pede os frutos do mistério"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant us, almighty God, that we may be refreshed and nourished by the Sacrament which we have received, so as to be transformed into what we consume.",
+        "pt-BR": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-27/sunday.json postcommunion (without its conclusion 'Through Christ our Lord.', line breaks joined, verbatim in both languages)",
+      "subject": "The Prayer after Communion at an evening Sunday Mass, seen from far back in a side aisle, diagonally across the nave through a row of stone columns. At the side of the sanctuary, small and in profile, the priest, in a white-and-gold chasuble over a white alb, stands at his chair with his hands extended in prayer; a server in cassock and surplice holds the open Missal before him, its pages showing no letters. The altar stands cleared, only its white cloth, the crucifix and the lit candles. The congregation stands in the pews, still and recollected after the silence of thanksgiving. Warm lamplight and the last golden light of evening through the windows. Quiet, grateful, at rest. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the purification of the vessels and a sacred silence, the priest, 'standing at the chair or at the altar, and facing the people with hands joined', says Let us pray, 'then, with hands extended, he recites the Prayer after Communion', praying 'for the fruits of the mystery just celebrated' (GIRM 163–165, 88–89). The Missal is kept next to the chair (GIRM 118a) and the vessels have left the altar (GIRM 163). The people stand (GIRM 43).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 88–89 (standing; silence after Communion; the Prayer after Communion)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 163–165 (the purification; the chair or the altar; hands extended)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Twenty-Seventh Sunday in Ordinary Time, Prayer after Communion (content/of/formularies/tempore/ordinary-time/week-27/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-27/sunday.json"
+        }
+      ],
+      "catalogMatch": "Prayer after Communion"
+    },
+    {
+      "id": "final_blessing",
+      "letter": "B",
+      "name": {
+        "en-US": "Blessing",
+        "pt-BR": "Bênção"
+      },
+      "patronOf": {
+        "en-US": "God's blessing upon his people",
+        "pt-BR": "A bênção de Deus sobre o seu povo"
+      },
+      "prayerExcerpt": {
+        "en-US": "May almighty God bless you, the Father, and the Son, and the Holy Spirit. Amen.",
+        "pt-BR": "Abençoe-vos Deus todo-poderoso Pai e Filho e Espírito Santo. Amém."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.simple-blessing (the blessing and the people's Amen, the rubric between them and the ✠ dropped, lines joined; verbatim otherwise)",
+      "subject": "The Blessing at the end of a Sunday Mass, seen from inside the sanctuary, from just behind the priest, looking out over his shoulder down the whole length of the nave. In the foreground, the priest, in a white-and-gold chasuble over a white alb, stands before the altar seen from behind, his left hand laid on his breast and his right hand raised high, tracing the Sign of the Cross over the people. Below the sanctuary steps the whole congregation stands in the pews facing him, small and many, heads gently lowered to receive the blessing. At the far end of the nave, high in the west wall, a great rose window glows with afternoon light. Grace descending, peaceful and wide. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest greets the people, then, 'joining his hands again and then immediately placing his left hand on his breast, raises his right hand and adds, May almighty God bless you and, as he makes the Sign of the Cross over the people, he continues', and all reply Amen (GIRM 167, 90b; the Order of Mass rubric). The blessing is given to the people, so he faces them; he is seen from behind, from the altar side. The people stand (GIRM 43).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 90 (standing; the Concluding Rites)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 167 (left hand on the breast, the Sign of the Cross over the people)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Blessing (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Blessing"
+    },
+    {
+      "id": "dismissal",
+      "letter": "D",
+      "name": {
+        "en-US": "Dismissal",
+        "pt-BR": "Despedida"
+      },
+      "patronOf": {
+        "en-US": "Sent out to glorify God by their lives",
+        "pt-BR": "Enviados a glorificar a Deus com a vida"
+      },
+      "prayerExcerpt": {
+        "en-US": "Go in peace, glorifying the Lord by your life. Thanks be to God.",
+        "pt-BR": "Ide em paz, e glorificai o Senhor com vossa vida. Graças a Deus."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.dismissal (the third formula and the people's reply, the 'Or:' and the rubric between them dropped, and the 'alleluia, alleluia' the source prints inline for Easter dropped; verbatim otherwise)",
+      "subject": "The Dismissal at the end of a Sunday Mass, seen from outside the church, from the top of its sunlit stone steps, looking in through the great west doors thrown wide open. Inside, the congregation stands in the pews down the long nave, seen from behind, turned toward the altar. Far off at the end of the nave, very small, at the altar steps, the priest, in a white-and-gold chasuble over a white alb, stands with his hands joined, his features too distant to see. Bright morning daylight pours in through the doorway and along the central aisle, and on the steps in the foreground lie the long shadows of the door frame and a potted rosemary. The moment before the people go out into the world. Joyful, open, sending. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Immediately after the Blessing, 'with hands joined, the Priest adds, Ite, missa est', facing the people, and all reply Thanks be to God (GIRM 168, 90c; the Order of Mass rubric 'with hands joined and facing the people'); the people are sent 'so that each may go back to doing good works, praising and blessing God' (GIRM 90c). No deacon, so the priest dismisses them. The people stand (GIRM 43).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 90 (standing; the Dismissal and its purpose)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 168–169 (the Dismissal with hands joined; the altar kissed at the end)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Dismissal (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Dismissal"
+    },
+    {
+      "id": "altar",
+      "letter": "A",
+      "name": {
+        "en-US": "Altar",
+        "pt-BR": "Altar"
+      },
+      "patronOf": {
+        "en-US": "The table of the Lord",
+        "pt-BR": "A mesa do Senhor"
+      },
+      "prayerExcerpt": {
+        "en-US": "The sparrow finds a home, and the swallow a nest for her young: by your altars, O Lord of hosts, my King and my God.",
+        "pt-BR": "O pássaro encontra abrigo e a andorinha um ninho para pôr os seus filhotes: os vossos altares, Senhor do universo, meu rei e meu Deus!"
+      },
+      "excerptSource": "content/of/formularies/tempore/lent/week-3/sunday.json communionAntiphon (Psalm 84:4, its first sentence, line breaks joined; verbatim in both languages)",
+      "subject": "The altar, alone, as an illuminated still life: a free-standing fixed altar of pale carved natural stone, seen from the front and slightly above, a solid block with a simple carved arcade along its front. Its table is covered with a white linen altar cloth that falls a little way down at either end, and nothing else stands on it. On the floor at either side of it, around the altar and not on it, a low stone vase of white lilies and green leaves. Soft warm light on the stone and the linen. Dignified, bare, holy. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The altar is 'the table of the Lord' (GIRM 296). It is built free-standing (GIRM 299). The table of a fixed altar is traditionally of natural stone (GIRM 301; wood is allowed in the US), and it carries 'at least one cloth, white in color' (GIRM 304). Flowers go 'around the altar rather than on the altar table' (GIRM 305). Only what the Mass needs is placed on the altar (GIRM 306), so outside Mass it is bare but for its cloth. The crucifix and candles are left to their own card, 'Altar crucifix and candles'.",
+      "sources": [
+        {
+          "title": "GIRM ch. 5, nos. 296–306 (the altar: table of the Lord, free-standing, natural stone, the white cloth, flowers around it)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 117 (at least one white cloth)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Third Sunday of Lent, Communion Antiphon (Psalm 84) (content/of/formularies/tempore/lent/week-3/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/lent/week-3/sunday.json"
+        }
+      ],
+      "catalogMatch": "Altar"
+    },
+    {
+      "id": "ambo",
+      "letter": "A",
+      "name": {
+        "en-US": "Ambo",
+        "pt-BR": "Ambão"
+      },
+      "patronOf": {
+        "en-US": "The place of the Word of God",
+        "pt-BR": "O lugar da Palavra de Deus"
+      },
+      "prayerExcerpt": {
+        "en-US": "Ezra the scribe stood on a wooden dais erected for the purpose.",
+        "pt-BR": "Esdras, o escriba, estava de pé sobre um estrado de madeira, erguido para esse fim."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-3/sunday.json readings.C.firstReading body (Nehemiah 8:4, one sentence; verbatim in both languages)",
+      "subject": "The ambo, alone, as an illuminated still life: a fixed ambo of pale carved stone rising from a low stone step, seen at a slight angle, its front carved with a simple cross in a roundel. On its slanted reading desk rests a large open book bound in red leather with gilt edges, its pages showing no letters, a red ribbon marker hanging down. Soft light falls on the open pages as if from a high window. Still, attentive, a place for the Word. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The ambo is the 'suitable place from which [the Word of God] may be proclaimed', a 'stationary ambo and not simply a movable lectern', from which the readings, the Psalm and the Exsultet are proclaimed; the Lectionary is prepared at it (GIRM 309, 118b). The GIRM sets no material; stone keeps it apart from the wooden dais of the excerpt, Ezra's reading of the Law (Neh 8:4), the ambo's scriptural type, from the First Reading of the Third Sunday in Ordinary Time, Year C.",
+      "sources": [
+        {
+          "title": "GIRM ch. 5, nos. 309 (the ambo: a stationary place for the Word)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 118 (the Lectionary prepared at the ambo)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Third Sunday in Ordinary Time, Year C, First Reading (Neh 8) (content/of/formularies/tempore/ordinary-time/week-3/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-3/sunday.json"
+        }
+      ],
+      "catalogMatch": "Ambo"
+    }
+  ]
+}
