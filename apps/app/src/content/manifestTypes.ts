@@ -71,7 +71,12 @@ export type CatalogEntry = {
   estimatedMinutes?: number
   cover?: string
   subtitle?: LocalizedText
+  // Praying this practice is Mass or the Office (holy cards); forms carry their
+  // group primary's, resolved at build.
+  liturgicalAct?: LiturgicalAct
 }
+
+export type LiturgicalAct = 'mass' | 'office'
 
 export type Catalog = {
   version: 2
@@ -133,8 +138,8 @@ export type PracticeManifest = {
   program?: ProgramConfig
   theme?: 'office'
   // Praying this counts as attending Mass or praying the Divine Office (holy
-  // cards). Set on a form group's primary; the other forms inherit it.
-  liturgicalAct?: 'mass' | 'office'
+  // cards). Set on a form group's primary; the build gives it to every form.
+  liturgicalAct?: LiturgicalAct
   alternativeTo?: AlternativeToRef
   // Flow template vars (`{{rubrics}}`). Forms of one practice share a flow and
   // differ only here, e.g. which Divinum Officium version the breviary follows.

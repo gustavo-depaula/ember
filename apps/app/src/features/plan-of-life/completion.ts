@@ -81,6 +81,11 @@ function prayedFor(practiceId: string, state: PlanState): string {
   return bareId(state.practices.get(practiceId)?.active_variant ?? practiceId)
 }
 
+/** A day a program filled in after missing it, not a prayer the user marked. */
+export function isBackfill(completion: Completion): boolean {
+  return completion.sub_id === 'backfill'
+}
+
 /** The practice a completion prayed, falling back for those recorded before it was kept. */
 export function prayedIdOf(completion: Completion, state: PlanState = useEventStore.getState()) {
   return completion.prayed_id ?? prayedFor(completion.practice_id, state)

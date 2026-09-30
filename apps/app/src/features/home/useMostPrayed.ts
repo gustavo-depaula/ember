@@ -5,6 +5,7 @@ import { getEntry, isMetaId } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
+import { isBackfill } from '@/features/plan-of-life'
 import { useToday } from '@/hooks/useToday'
 
 /**
@@ -39,7 +40,7 @@ export function useMostPrayed({
     // Only the window's days, through the by-date index — not all of history.
     const inWindow = dates.flatMap((d) => [...(byDate.get(d) ?? [])])
     for (const c of inWindow.flatMap((id) => completions.get(id) ?? [])) {
-      if (c.sub_id === 'backfill') continue
+      if (isBackfill(c)) continue
       const id = practices.get(c.practice_id)?.active_variant ?? c.practice_id
       const t = tally.get(id) ?? { count: 0, last: 0 }
       tally.set(id, { count: t.count + 1, last: Math.max(t.last, c.completed_at) })
