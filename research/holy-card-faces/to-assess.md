@@ -14,6 +14,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Vitus, Crescentia and Modestus (15 Jun):** the Martyrology keeps Vitus alone; Modestus and Crescentia are considered fictitious, and the chapter and its reflection turn on Crescentia. [Skipped for now, the line stays open. Options: a card of St. Vitus alone without the chapter's reflection, or remove the line.] — `dossiers/batch-30.md`
 - [ ] **Marcus and Marcellianus (18 Jun):** genuine cult, but all beyond their names and martyrdom comes from the legendary Acts of St. Sebastian. [Kept, the card shows only palms.] — `dossiers/batch-30.md`
 - [ ] **Legend-based chapters kept (batch 32):** Margaret of Antioch (story "generally regarded fictitious"; card leaves out the dragon), Christina of Bolsena (only name and burial known), Alexius (Martyrology: "as reported by tradition"); softer: Felicitas as mother of the Seven Brothers, the Simon Stock scapular vision. All remain in the Martyrology. [Kept; replacements would be Nazarius and Celsus, then Germanus.] — `dossiers/batch-32.md`
+- [ ] **Susanna (11 Aug):** Acts "of no historical value"; the Martyrology keeps her only as a commemoration tied to her Roman church. [Kept, with Tiburtius; replacement would be Hyacinth.] — `dossiers/batch-33.md`
+- [ ] **Eusebius (14 Aug):** the chapter tells two saints (Eusebius of Rome, then a Palestinian martyr priest). [Card is Eusebius of Rome, per the engraving and the Martyrology.]
 - [ ] **The Consecration card** (test drawing) shows the priest ad orientem. Is that the depiction you want? [Undecided.]
 
 ## Portrayal
@@ -45,9 +47,11 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Place added to bare names:** "St. James of Nisibis", "St. Margaret of Antioch" (pt-BR from the chapters). [Added.]
 - [ ] **Seven Brothers card** has eight figures and may crowd the window. [Will check at review.]
 
+- [ ] **Batch 33 names:** Peter Favre becomes "St." (canonized 2013); Stephen I's patron line "Pope" (the Martyrology doesn't call him martyr); "of Auxerre", "of Rome" and the ordinal "I" added. Book dates kept (Germanus 30 Jul, Favre 8 Aug). [As stated.]
+
 ## Excerpts and reflections
 
-- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius, Prosper, William of Monte-Vergine, Gal, Heliodorus, Bertha, Goar, James of Nisibis, Margaret, Victor, Christina.
+- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius, Prosper, William of Monte-Vergine, Gal, Heliodorus, Bertha, Goar, James of Nisibis, Margaret, Victor, Christina, Stephen I, Radegundes.
 - [ ] **Marcella (31 Jan):** excerpt from St. Jerome, Letter 127, with our own pt-BR rendering. [Kept.] — `dossiers/batch-20.md`
 - [ ] **Pope Marcellinus shares a chapter with Cletus,** so both cards show the same reflection (which names neither). [Shared.] — `dossiers/batch-27.md`
 
@@ -83,3 +87,7 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 ## Regional formularies the app can't show
 
 Genevieve (French), Canute (German), Maud (German), Kunigunde (German, within Henry), Eulogius (Spanish), Ludger (German), Herman Joseph (German), Leander (Spanish), Hermenegild (Spanish), Nepomuk (German), Paschal Baylon (Spanish), Yves (French). Their cards carry no `proper` because the collect has no en-US or pt-BR text. [Nothing to decide unless you want Latin/vernacular fallbacks.]
+
+## Undated cards
+
+- [ ] **Where do undated cards live in the app?** Moveable feasts (Holy Family, Baptism of the Lord, Easter, Ascension, Pentecost, Trinity, Corpus Christi, Sacred Heart, Christ the King, Immaculate Heart, Mother of the Church), seasons, Mass parts and objects have no fixed date. They are made and committed, but `build-corpus.py` keeps them out of the card blob because every released app reads `feast.month` unguarded. Showing them needs an app change (a place in the gallery: e.g. by the date they fall this year, or a separate "Feasts and seasons" shelf), and a release that is the oldest in use. [Held out of the blob.]

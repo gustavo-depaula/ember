@@ -1,0 +1,473 @@
+{
+  "batch": 33,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-33.md",
+  "cards": [
+    {
+      "id": "nazarius_celsus",
+      "letter": "N",
+      "feast": {
+        "month": 7,
+        "day": 28
+      },
+      "name": {
+        "en-US": "Sts. Nazarius and Celsus",
+        "pt-BR": "São Nazário e São Celso"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Milan",
+        "pt-BR": "Mártires de Milão"
+      },
+      "prayerExcerpt": {
+        "en-US": "The martyrs died as the outcasts of the world, but are crowned by God with immortal honor.",
+        "pt-BR": "Os mártires morreram como párias do mundo, mas são coroados por Deus com honra imortal."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-28-sts-nazarius-and-celsus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Nazarius and Celsus side by side, half-length, inside the arched window: Nazarius at the left, a travelling preacher in a white wool tunic under a brown hooded travelling cloak, holding a small closed Gospel codex against his chest with his right hand and a green palm in his left; Celsus at the right, a little shorter, a boy in a plain undyed short tunic with a russet mantle, holding a green palm and looking up at his master. Behind them, a walled garden outside the Roman walls of Milan: cypresses and a fig tree, a low stone wall, the brick walls and a gate-tower of the city beyond, and the Alps faint and blue on the horizon. Calm and steadfast; no soldiers, no swords, no wounds, no lettering.",
+      "face": "Two clearly different figures, both olive-skinned. NAZARIUS (left), a Roman of about forty-five, CLEAN-SHAVEN in the Roman manner with a dark shadow on the jaw: a TALL, RECTANGULAR face with a LONG MIDFACE — a high, straight forehead, a LONG nose with a pronounced BUMP high on the bridge, HOODED grey eyes set LOW under straight, heavy dark brows, a LONG UPPER LIP over a wide, thin-lipped mouth, a squared chin; close-cropped black hair greying at the temples; a calm, resolute gaze forward. CELSUS (right), a boy of about fourteen: a SHORT, WIDE face — a broad, low forehead under a thick, STRAIGHT black fringe cut round like a bowl, a short nose with a wide, flat bridge, big, round, dark eyes set wide under low, straight brows, full cheeks, a WIDE mouth, a small, rounded chin; looking up at Nazarius with trust. No curls on the boy.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "aloysius_gonzaga"
+      ],
+      "basis": "No likeness survives; all that is certain is that Ambrose found their bodies in a garden outside Milan (Paulinus, Vita Ambrosii). The book makes Nazarius a Roman preacher and Celsus the youth he took with him; the faces are ours, a grown man and a boy.",
+      "sources": [
+        {
+          "title": "Wikipedia, Nazarius and Celsus (lead: fresco of San Nazzaro Sesia)",
+          "url": "https://en.wikipedia.org/wiki/Nazarius_and_Celsus"
+        },
+        {
+          "title": "Santi e Beati, Santi Nazario e Celso (Roman Martyrology entry, 28 July)",
+          "url": "https://www.santiebeati.it/dettaglio/64650"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-28-sts-nazarius-and-celsus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-28-sts-nazarius-and-celsus.md"
+        }
+      ],
+      "catalogMatch": "Sts. Nazarius and Celsus",
+      "lifeChapter": "jul-28-sts-nazarius-and-celsus"
+    },
+    {
+      "id": "germanus_auxerre",
+      "letter": "G",
+      "feast": {
+        "month": 7,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Germanus of Auxerre",
+        "pt-BR": "São Germano de Auxerre"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Auxerre",
+        "pt-BR": "Bispo de Auxerre"
+      },
+      "prayerExcerpt": {
+        "en-US": "Hold the form of sound words, which thou hast heard of me in faith, and in the love which is in Christ Jesus.",
+        "pt-BR": "Conserva o modelo das sãs palavras que de mim ouviste, na fé e no amor que está em Cristo Jesus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-30-germanus.md Reflection, the whole of it, the quotation of 2 Tim. 1:13 without its quotation marks and reference, closed with a full stop (Pictorial Lives, public domain)",
+      "subject": "St. Germanus of Auxerre, half-length, as a fifth-century Gallic bishop: a white linen alb and over it a deep moss-green paenula (the old round chasuble) with a narrow gold border, no mitre; a plain wooden crozier with a simple curled head in his left hand, his right hand raised open in blessing and command. Behind him, a green river valley between rounded hills in Britain, a small timber church with a thatched roof on the bank, and far off a crowd of newly baptised Britons in white, small and peaceful. Strong, fatherly and unafraid; no battle, no weapons, no lettering.",
+      "face": "A Gallo-Roman noble of about sixty-five, once a soldier and a huntsman, with a weathered, ruddy complexion and an OBLONG face under a BROAD, DOMED forehead — WIDE, FLAT cheekbones, a BROAD, ROUNDED chin, a short, straight nose with a wide bridge, SMALL, keen, pale-grey eyes with deep crow's-feet from years in the open, thick, level, BRISTLING iron-grey brows, a wide, straight, firm mouth; iron-grey hair cropped short round a tonsured crown; a short, CLIPPED iron-grey beard cut SQUARE at the chin; a commanding, far-seeing gaze. Not the clean-shaven, bald, underbitten germanus_paris.",
+      "refs": [
+        "ambrose",
+        "patrick",
+        "augustine"
+      ],
+      "basis": "No likeness survives. Constantius of Lyon's Life, which the book follows, tells a noble lawyer, soldier and huntsman made bishop of Auxerre, who twice went to Britain against Pelagianism and led the Britons in the \"Alleluia\" victory. The weathered, commanding face is our reading of that life; statues and glass give only a generic bishop.",
+      "sources": [
+        {
+          "title": "Wikipedia, Germanus of Auxerre (lead: stained glass)",
+          "url": "https://en.wikipedia.org/wiki/Germanus_of_Auxerre"
+        },
+        {
+          "title": "Wikipedia (fr), Germain d'Auxerre (lead: statue, Saint-Germain-l'Auxerrois)",
+          "url": "https://fr.wikipedia.org/wiki/Germain_d%27Auxerre"
+        },
+        {
+          "title": "Santi e Beati, San Germano d'Auxerre (Roman Martyrology entry, 31 July)",
+          "url": "https://www.santiebeati.it/dettaglio/91919"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-30-germanus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-30-germanus.md"
+        }
+      ],
+      "catalogMatch": "30 Jul · St. Germanus",
+      "lifeChapter": "jul-30-germanus"
+    },
+    {
+      "id": "stephen_i",
+      "letter": "S",
+      "feast": {
+        "month": 8,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Stephen I",
+        "pt-BR": "São Estêvão I"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "Thus by his zeal he preserved the integrity of faith, and by his toleration and forbearance saved many souls.",
+        "pt-BR": "Assim, por seu zelo preservou a integridade da fé, e por sua tolerância e paciência salvou muitas almas."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-02-stephen.md, second paragraph, last sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "Pope St. Stephen I, half-length, seated on a plain stone chair in a chamber of the Roman catacombs: a third-century bishop in a white tunic with narrow purple stripes and a full, rust-red paenula, no tiara and no mitre; an open codex of the Gospels on his knee, his right hand raised in blessing over the faithful, who are not shown. Behind him, the tufa walls of the catacomb with arched burial niches, a painted Good Shepherd on the vault, small clay oil lamps burning, and a narrow shaft of daylight from a light-well. Patient, gentle and firm; no soldiers, no sword, no blood, no lettering.",
+      "face": "A Roman of about fifty-five, CLEAN-SHAVEN as on the Speyer reliquary head, with a pale olive complexion and a LONG, NARROW face under a PROMINENT, ROUNDED forehead that bulges over the brows — SUNKEN temples, LARGE, DEEP-SET dark eyes in shadowed sockets under thin, straight brows, a LONG, STRAIGHT, NARROW nose running on from the brow line, FLAT cheeks, a SMALL, soft, closed mouth, a SHORT, POINTED chin; close-cropped dark hair touched with grey, cut straight across the forehead; a patient, forbearing look. Not the bald, hook-nosed sixtus_ii, nor the fine-boned, hump-nosed fabian.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "No likeness survives. The gold reliquary head in Speyer Cathedral shows him beardless with a long, straight nose; the St. Paul Outside the Walls medallion is a later imagined type. The book tells the archdeacon who became pope, the rebaptism controversy and the catacomb Masses; the face is ours, after the Speyer head.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Stephen I (lead: reliquary head, Speyer Cathedral)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Stephen_I"
+        },
+        {
+          "title": "Wikipedia (it), Papa Stefano I (lead: St. Paul Outside the Walls medallion)",
+          "url": "https://it.wikipedia.org/wiki/Papa_Stefano_I"
+        },
+        {
+          "title": "Santi e Beati, Santo Stefano I (Roman Martyrology entry, 2 August)",
+          "url": "https://www.santiebeati.it/dettaglio/89023"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-02-stephen (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-02-stephen.md"
+        }
+      ],
+      "catalogMatch": "St. Stephen, Pope and Martyr",
+      "lifeChapter": "aug-02-stephen"
+    },
+    {
+      "id": "finding_stephen_relics",
+      "letter": "F",
+      "feast": {
+        "month": 8,
+        "day": 3
+      },
+      "name": {
+        "en-US": "The Finding of St. Stephen's Relics",
+        "pt-BR": "O Achado das Relíquias de Santo Estêvão"
+      },
+      "patronOf": {
+        "en-US": "The protomartyr's tomb opened",
+        "pt-BR": "O túmulo do protomártir aberto"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us so desire to obtain temporal blessings by his intercession that we may merit, in imitating him, those which are eternal.",
+        "pt-BR": "Desejemos de tal modo obter, por sua intercessão, as bênçãos temporais, que mereçamos, ao imitá-lo, aquelas que são eternas."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-03-the-finding-of-st-stephens-relics.md Reflection, the words of St. Augustine it quotes, without their quotation marks (Pictorial Lives, public domain)",
+      "subject": "The opening of St. Stephen's tomb at Caphargamala in 415, in the arched window: in the centre, Bishop John of Jerusalem, standing, in a white sticharion and a deep-blue phelonion with a white wool omophorion marked with dark crosses, no mitre, his hands raised open in wonder and thanksgiving; at the left, the old priest Lucian kneeling beside the tomb, in a plain dark-brown robe, his hands joined; in front of them a plain stone chest in the dug earth, its lid slid half aside, a soft golden light rising from within (no bones shown); a young labourer with a spade seen in profile at the right, small. Behind, the terraced hills of Judaea with olive trees, a heap of small stones, a small stone church with a tiled roof, and a few villagers approaching. Awed and joyful; no lettering.",
+      "face": "Two principal figures, clearly different. BISHOP JOHN (centre), a Greek of about sixty with a warm olive complexion and a LONG, NARROW face — a high, lined forehead, a LONG nose with a HUMPED bridge, large, heavy-lidded dark eyes under thick, curved black-and-grey brows, lean cheeks, a small mouth; grey-black hair to the nape and a LONG, full grey-black beard cut SQUARE at the end; the eyes raised in wonder. LUCIAN (kneeling, left), a Palestinian priest of about seventy: a SMALL, NARROW, sharp-featured face — a high, BALD forehead, a THIN, BEAKED nose, small, bright dark eyes, SUNKEN cheeks, a narrow chin under a SHORT, SPARSE grey beard; wisps of grey hair at the sides; the gaze lowered to the tomb. The labourer: a beardless youth seen in profile, brown and lean.",
+      "refs": [
+        "philip_james",
+        "nicholas",
+        "jerome"
+      ],
+      "basis": "No likeness survives of Bishop John II of Jerusalem or of the priest Lucian. The book, after Lucian's own letter, tells the vision, the digging at Caphargamala and the opening of the coffin before John and two other bishops; the engraving shows the kneeling priest, the bishops and a digger at the open tomb. The faces are ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Stephen (section: Tomb and relics)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Stephen"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-03-the-finding-of-st-stephens-relics (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-03-the-finding-of-st-stephens-relics.md"
+        }
+      ],
+      "catalogMatch": "The Finding of St. Stephen",
+      "lifeChapter": "aug-03-the-finding-of-st-stephens-relics"
+    },
+    {
+      "id": "cyriacus",
+      "letter": "C",
+      "feast": {
+        "month": 8,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Cyriacus and His Companions",
+        "pt-BR": "São Ciríaco e Seus Companheiros"
+      },
+      "patronOf": {
+        "en-US": "Deacon and martyr",
+        "pt-BR": "Diácono e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "The cross is the ladder by which we must ascend to heaven.",
+        "pt-BR": "A cruz é a escada pela qual devemos subir ao céu."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-08-cyriacus-and-his-companions.md Reflection, last sentence (Pictorial Lives, public domain)",
+      "subject": "Three martyrs side by side, half-length, inside the arched window: in the centre St. Cyriacus, a Roman deacon, in a white alb and a deep-red dalmatic with two gold clavi, holding a closed Gospel book and a green palm; at the left St. Largus, an older man in a grey-brown tunic and dark mantle, a palm in his hand; at the right St. Smaragdus, a young man in a sage-green tunic and russet mantle, a palm held upright. Behind them, the Roman Campagna along the Via Ostiensis: umbrella pines, a low brick tomb by the road, a farmhouse among vines, and the Tiber in the distance under evening light. Serene and steadfast; no soldiers, no wounds, no lettering. Three clearly separate faces.",
+      "face": "Three clearly different Romans. CYRIACUS (centre), about forty, CLEAN-SHAVEN, with a light-olive complexion and a FULL, SOFT, SQUARE face — a broad, smooth forehead, LARGE, luminous hazel eyes set WIDE apart under dark, arched brows, a SHORT, WIDE nose with rounded nostrils, full cheeks, a WIDE, full-lipped mouth, a squared, softly padded chin; short, thick, straight dark-brown hair; a serene, upward gaze. LARGUS (left), about sixty: a LONG, HEAVY face whose features DROOP — long ear lobes, a big, fleshy nose, heavy, pouched dark eyes under drooping grey brows, loose cheeks, a grey-stubbled jaw, thin grey hair combed forward; a patient, weary kindness. SMARAGDUS (right), about twenty-five: a NARROW, FOX-LIKE face — a sharp, slightly upturned nose, narrow, slanting green eyes, high thin brows, a pointed chin, a light first beard along the jaw, wavy reddish-brown hair; an eager look.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "anthony_padua"
+      ],
+      "basis": "No likeness survives; beyond their names, martyrdom and burial on the Via Ostiensis on 8 August, nothing is certain (Wikipedia). The book calls Cyriacus a deacon under Marcellinus and Marcellus, and its engraving shows him in a dalmatic; the three faces are ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Cyriacus",
+          "url": "https://en.wikipedia.org/wiki/Cyriacus"
+        },
+        {
+          "title": "Santi e Beati, Santi Ciriaco, Largo, Smaragdo e compagni (Roman Martyrology entry, 8 August)",
+          "url": "https://www.santiebeati.it/dettaglio/65550"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-08-cyriacus-and-his-companions (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-08-cyriacus-and-his-companions.md"
+        }
+      ],
+      "catalogMatch": "St. Cyriacus and His Companions",
+      "lifeChapter": "aug-08-cyriacus-and-his-companions"
+    },
+    {
+      "id": "peter_favre",
+      "letter": "P",
+      "feast": {
+        "month": 8,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Peter Favre",
+        "pt-BR": "São Pedro Favre"
+      },
+      "patronOf": {
+        "en-US": "First priest of the Society of Jesus",
+        "pt-BR": "Primeiro sacerdote da Companhia de Jesus"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the most crowded day we can make time briefly and secretly to lift our soul to God and draw new strength from Him.",
+        "pt-BR": "No dia mais atarefado podemos encontrar tempo, breve e secretamente, para elevar nossa alma a Deus e dele haurir novas forças."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-08-blessed-peter-favre.md Reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. Peter Favre, half-length, as a sixteenth-century Jesuit priest: a plain black cassock and a black cloak, a black three-cornered biretta; he holds a small open book of the Spiritual Exercises in his left hand and lays his right hand on his breast. Behind him, the high valley of his Savoyard childhood: green alpine pastures with a few sheep, a wooden chalet with a stone roof, pine woods and snowy peaks under a clear sky. Gentle, recollected and warm; no lettering.",
+      "face": "A Savoyard of about forty with a fair, lightly weathered mountain complexion and a BROAD, FULL face, as in his old portraits — a WIDE forehead, WIDE cheekbones, LARGE, WIDE-SET, clear dark-brown eyes, slightly PROMINENT, under thick, softly arched dark brows, a straight nose with a BROAD, rounded tip, FULL lips, a BROAD, rounded chin under a full, short, ROUNDED dark-brown beard and moustache; dark-brown hair under the biretta; a gentle, open, attentive gaze. Not the oval, curly-haired francis_xavier, the bald ignatius_loyola or the grey peter_canisius.",
+      "refs": [
+        "ignatius_loyola",
+        "francis_xavier",
+        "philip_neri"
+      ],
+      "basis": "Early engraved portraits (one inscribed with his signature) show a broad face, large wide-set eyes, full lips and a short dark beard, in a biretta. The book tells the shepherd boy of Savoy, Ignatius's first companion and the first priest of the Society, who died in Rome in his fortieth year.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter Faber (lead: engraved portrait)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Faber"
+        },
+        {
+          "title": "Wikipedia (fr), Pierre Favre (jésuite) (lead: portrait with signature)",
+          "url": "https://fr.wikipedia.org/wiki/Pierre_Favre_(j%C3%A9suite)"
+        },
+        {
+          "title": "Santi e Beati, San Pietro Favre (Roman Martyrology entry, 1 August; canonization, 17 December 2013)",
+          "url": "https://www.santiebeati.it/dettaglio/90923"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-08-blessed-peter-favre (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-08-blessed-peter-favre.md"
+        }
+      ],
+      "catalogMatch": "Blessed Peter Favre",
+      "lifeChapter": "aug-08-blessed-peter-favre"
+    },
+    {
+      "id": "romanus_ostiarius",
+      "letter": "R",
+      "feast": {
+        "month": 8,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Romanus",
+        "pt-BR": "São Romano"
+      },
+      "patronOf": {
+        "en-US": "Soldier and martyr",
+        "pt-BR": "Soldado e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "We are bound to glorify God by our lives, and Christ commands that our good works shine before men.",
+        "pt-BR": "Estamos obrigados a glorificar a Deus por nossa vida, e Cristo manda que nossas boas obras brilhem diante dos homens."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-09-romanus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Romanus, half-length, as a Roman soldier newly baptised: a brown leather cuirass with bronze fittings over a white tunic, a dark-red military cloak pinned at the shoulder, no helmet; he holds a plain clay water pitcher against his side with his left arm and a green palm in his right hand. Behind him, the inside of a Roman prison: rough stone walls, a small high barred window with daylight, an oil lamp in a niche, and an open iron-bound door through which the sunlit roofs of Rome can be seen. Humble, newly converted and brave; no weapons drawn, no lettering.",
+      "face": "A Roman soldier of about twenty-seven with a dark olive complexion and a LONG, NARROW head — thick, straight black brows that MEET over the nose in one line, deep-set hazel eyes, a thin, STRAIGHT nose with a sharp bridge, HOLLOW cheeks above a LEAN, NARROW jaw, a WIDE mouth, a slightly jutting narrow chin, EARS that stand out; black hair cropped very short; a short, dense black beard trimmed close to the jaw; the gaze lifted, wondering. Not the sandy, cleft-chinned victor_marseilles, the blocky Nereus, or the beardless, curly pantaleon.",
+      "refs": [
+        "sebastian",
+        "george",
+        "aloysius_gonzaga"
+      ],
+      "basis": "No likeness survives; the Martyrology keeps him at the cemetery of St. Lawrence on the Via Tiburtina, and the legend of his conversion and baptism by Lawrence is in the book and its engraving (Lawrence pouring water from a pitcher). The face is ours, a lean young legionary.",
+      "sources": [
+        {
+          "title": "Wikipedia, Romanus Ostiarius (lead: statue, Schweighausen)",
+          "url": "https://en.wikipedia.org/wiki/Romanus_Ostiarius"
+        },
+        {
+          "title": "Santi e Beati, San Romano di Roma (Roman Martyrology entry, 9 August)",
+          "url": "https://www.santiebeati.it/dettaglio/65600"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-09-romanus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-09-romanus.md"
+        }
+      ],
+      "catalogMatch": "St. Romanus, Martyr",
+      "lifeChapter": "aug-09-romanus"
+    },
+    {
+      "id": "tiburtius_susanna",
+      "letter": "T",
+      "feast": {
+        "month": 8,
+        "day": 11
+      },
+      "name": {
+        "en-US": "Sts. Tiburtius and Susanna",
+        "pt-BR": "São Tibúrcio e Santa Susana"
+      },
+      "patronOf": {
+        "en-US": "Subdeacon and virgin, martyrs",
+        "pt-BR": "Subdiácono e virgem, mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "Sufferings were to the martyrs the most distinguishing mercy, extraordinary graces, and sources of the greatest crowns and glory.",
+        "pt-BR": "Os sofrimentos foram para os mártires a mais distinta misericórdia, graças extraordinárias, e fontes das maiores coroas e glória."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-11-sts-tiburtius-and-susanna.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Tiburtius and Susanna side by side, half-length, inside the arched window, as in the book's engraving: Tiburtius at the left, a young Roman subdeacon in a white alb with a gold-bordered pale tunicle, holding a green palm; Susanna at the right, a young Roman noblewoman in a dusty-rose stola with a white palla drawn over her head as a veil, holding a white lily and a green palm. Behind them, the Via Labicana outside Rome: two tall laurel trees beside the road, a small brick chapel, the Campagna with a distant aqueduct under a soft morning sky. Gentle and steadfast; no wounds, no swords, no lettering.",
+      "face": "Two clearly different young Romans with fair-olive skin. TIBURTIUS (left), about twenty-two, BEARDLESS: a SQUARE face with a WIDE, flat forehead and a BROAD, BLUNT jaw — a short, UPTURNED nose, round, lively grey eyes under curved light-brown brows, a wide mouth with a faint smile, thick, wavy chestnut hair to the ears. SUSANNA (right), about twenty: a LONG, NARROW face — a high forehead, a long, fine, gently AQUILINE nose, HEAVY-LIDDED dark almond eyes under straight dark brows, narrow cheeks, a small, closed mouth, a small POINTED chin; black hair parted in the centre under the veil; her gaze lowered. Not the soft oval of the virgin martyrs (agnes, cecilia).",
+      "refs": [
+        "philip_james",
+        "agnes",
+        "cecilia"
+      ],
+      "basis": "No likeness survives of either. Tiburtius's cult is certain (his tomb ad Duas Lauros on the Via Labicana, praised by Damasus); Susanna is commemorated through the titular church named for her. The book tells both and its engraving shows them side by side; the faces are ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Susanna of Rome (lead: statue, Santiago de Compostela)",
+          "url": "https://en.wikipedia.org/wiki/Susanna_of_Rome"
+        },
+        {
+          "title": "Santi e Beati, San Tiburzio (Roman Martyrology entry, 11 August)",
+          "url": "https://www.santiebeati.it/dettaglio/65860"
+        },
+        {
+          "title": "Santi e Beati, Santa Susanna di Roma (Roman Martyrology entry, 11 August)",
+          "url": "https://www.santiebeati.it/dettaglio/65850"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-11-sts-tiburtius-and-susanna (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-11-sts-tiburtius-and-susanna.md"
+        }
+      ],
+      "catalogMatch": "Sts. Tiburtius and Susanna",
+      "lifeChapter": "aug-11-sts-tiburtius-and-susanna"
+    },
+    {
+      "id": "radegundes",
+      "letter": "R",
+      "feast": {
+        "month": 8,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Radegundes",
+        "pt-BR": "Santa Radegundes"
+      },
+      "patronOf": {
+        "en-US": "Queen of the Franks",
+        "pt-BR": "Rainha dos francos"
+      },
+      "prayerExcerpt": {
+        "en-US": "As a great queen, she continued no less an enemy to sloth and vanity than she was before, and divided her time chiefly between her oratory, the Church, and the care of the poor.",
+        "pt-BR": "Como grande rainha, continuou não menos inimiga da indolência e da vaidade do que era antes, e dividia seu tempo principalmente entre seu oratório, a Igreja, e o cuidado dos pobres."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-13-radegundes.md, second paragraph, first sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Radegundes, half-length, as the queen who became a nun: a dark-grey religious habit, a white wimple and a black veil, a slender gold crown resting over the veil, and a royal-blue mantle with a gold border slipping from her shoulders; in both hands she holds a small gold reliquary cross set with a few garnets, the relic of the True Cross she obtained for her abbey. Behind her, Poitiers on its hill above the river Clain: the walls of the Merovingian abbey of the Holy Cross, a small stone church with a bell-cote, poplars along the river under a soft sky. Humble, recollected and royal; no lettering.",
+      "face": "A Thuringian princess of about fifty with a fair, fine complexion and a SHORT, WIDE face — a LOW forehead framed by the wimple, HIGH, ROUNDED cheekbones that make the eyes look narrow and slightly UPWARD-SLANTING, hooded dark-blue eyes under straight, dark-blonde brows, a SHORT, straight nose, a WIDE, full-lipped mouth, a FIRM, ROUNDED chin; her gaze lowered to the cross. Not the long oval of hedwig and margaret_scotland, the broad square-jawed maud, or the triangular, wide-eyed cunegundes.",
+      "refs": [
+        "elizabeth_hungary",
+        "bridget_sweden",
+        "clare_assisi"
+      ],
+      "basis": "No likeness survives; Venantius Fortunatus and Gregory of Tours knew her but describe no face. Tradition paints her crowned, in a nun's veil; Wikipedia records the relic of the True Cross that named her abbey at Poitiers. The face, a Thuringian's, is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Radegund",
+          "url": "https://en.wikipedia.org/wiki/Radegund"
+        },
+        {
+          "title": "Wikipedia (fr), Radegonde de Poitiers (lead: stained glass, Sainte-Clotilde, Paris)",
+          "url": "https://fr.wikipedia.org/wiki/Radegonde_de_Poitiers"
+        },
+        {
+          "title": "Santi e Beati, Santa Radegonda (Roman Martyrology entry, 13 August)",
+          "url": "https://www.santiebeati.it/dettaglio/90194"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-13-radegundes (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-13-radegundes.md"
+        }
+      ],
+      "catalogMatch": "St. Radegundes, Queen",
+      "lifeChapter": "aug-13-radegundes"
+    },
+    {
+      "id": "eusebius_rome",
+      "letter": "E",
+      "feast": {
+        "month": 8,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Eusebius of Rome",
+        "pt-BR": "Santo Eusébio de Roma"
+      },
+      "patronOf": {
+        "en-US": "Priest of Rome",
+        "pt-BR": "Presbítero de Roma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us learn, from the example of the Saints, courage in the service of God.",
+        "pt-BR": "Aprendamos, do exemplo dos Santos, a coragem no serviço de Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-14-eusebius.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Eusebius of Rome, half-length, as a fourth-century Roman priest confined to his room: a plain white tunic and a dark-brown paenula, his hands joined in prayer, kneeling behind a simple wooden prayer-desk with an open codex on it. Behind him, a bare whitewashed room of his house on the Esquiline: a heavy, closed wooden door with iron studs, a small high window with a glimpse of Roman roofs and a cypress, an oil lamp in a niche. Patient, unbowed and prayerful; no chains, no guards, no lettering.",
+      "face": "A Roman priest of about fifty, pale from confinement, with a face BROADEST AT THE BROW — a WIDE, SQUARE forehead, CLOSE-SET, intense black eyes under thick, straight black brows, a nose with a HIGH, SHARP bridge, THIN, drawn cheeks, a LONG, NARROW chin, a thin-lipped mouth; very short black hair receding to a point at the brow; CLEAN-SHAVEN with a dark shadow on the jaw; the eyes raised in prayer. Not the heavy-browed, curly-bearded eusebius_vercelli.",
+      "refs": [
+        "jerome",
+        "philip_neri",
+        "alphonsus_liguori"
+      ],
+      "basis": "No likeness survives. The book opens with this Eusebius, the Roman priest who opposed the Arians and was confined to his room by Constantius, and its engraving shows him praying alone in a closed room; the Martyrology keeps him as founder of the titular church on the Esquiline. The face is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Eusebius of Rome",
+          "url": "https://en.wikipedia.org/wiki/Eusebius_of_Rome"
+        },
+        {
+          "title": "Santi e Beati, Sant'Eusebio di Roma (Roman Martyrology entry, 14 August)",
+          "url": "https://www.santiebeati.it/dettaglio/91373"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-14-eusebius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-14-eusebius.md"
+        }
+      ],
+      "catalogMatch": "St. Eusebius, Priest",
+      "lifeChapter": "aug-14-eusebius"
+    }
+  ]
+}
