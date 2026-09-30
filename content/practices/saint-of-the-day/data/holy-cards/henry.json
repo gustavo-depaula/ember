@@ -1,0 +1,42 @@
+{
+  "id": "henry",
+  "feast": {
+    "month": 7,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Henry",
+    "pt-BR": "Santo Henrique"
+  },
+  "patronOf": {
+    "en-US": "Holy Roman Emperor",
+    "pt-BR": "Imperador do Sacro Império"
+  },
+  "prayerExcerpt": {
+    "en-US": "Amid the uncertainties of this world may we hasten towards you with minds made pure.",
+    "pt-BR": "Entre as vicissitudes deste mundo, corramos ao vosso encontro com pureza de coração."
+  },
+  "lifeChapter": "jul-15-henry-emperor",
+  "proper": "sanctorale.07-13",
+  "meta": {
+    "face": "A German prince of about forty-five with a fair, ruddy complexion and a SHORT, BROAD, HEART-SHAPED face — a wide, rounded forehead and full, wide cheeks tapering to a small, rounded chin under the beard; a short, straight nose with a rounded tip; wide-set, light hazel eyes under gently arched light-brown brows; a small, full mouth; chestnut-brown hair cut level at the ears in the Ottonian manner beneath the crown; a short, rounded chestnut beard and moustache trimmed close to the jaw; a mild, earnest, devout look. Not the stock thirties man with curls: straight, level-cut hair and a heart-shaped face.",
+    "basis": "The coronation page of the Regensburg Sacramentary (1002-14), made for him in his lifetime, shows Henry crowned, in a golden tunic and blue mantle, with brown hair cut at the ears and a short dark beard. He died at fifty-one at Bamberg, whose diocese and cathedral he founded; the structure of the face is our choice.",
+    "excerpt": "content/of/formularies/sanctoral/07-13.json collect (final clause; en-US 'that amid ... we may hasten' recast as a wish, pt-BR verbatim, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Henry II, Holy Roman Emperor (lead image: coronation page of the Regensburg Sacramentary, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor"
+      },
+      {
+        "title": "Commons, Kronung Heinrich II.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Kronung_Heinrich_II.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

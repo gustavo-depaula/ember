@@ -1,0 +1,40 @@
+{
+  "id": "columban",
+  "feast": {
+    "month": 11,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Columban",
+    "pt-BR": "São Columbano"
+  },
+  "patronOf": {
+    "en-US": "Abbot and missionary",
+    "pt-BR": "Abade e missionário"
+  },
+  "prayerExcerpt": {
+    "en-US": "I will praise you, Lord, among the nations; I will tell of your name to my kin.",
+    "pt-BR": "Eu vos louvarei, Senhor, entre os povos, e anunciarei vosso nome aos meus irmãos."
+  },
+  "meta": {
+    "face": "A weathered Irishman of about seventy, lean and strong, with a fair, windburnt, freckled complexion and a LONG, BIG-BONED face with a strong, JUTTING CHIN — the front of the head shaved from ear to ear in the Irish tonsure, leaving a high, bare, sun-browned forehead, and long red hair gone mostly grey falling from behind the ears to the shoulders; deep-set, pale-blue eyes under bristling reddish-grey brows, crinkled at the corners as against the sea wind; a long, straight, bony nose; wide, flat cheeks; a wide, firm mouth; a short, grizzled red-grey beard close to the jaw; a fearless, far-looking, zealous gaze.",
+    "basis": "No likeness survives. Art shows him bearded, in the monastic cowl, with a book in an Irish satchel, among wolves or taming a bear, and the Frankish clergy objected to his distinct Irish tonsure, which in some way shaved the head from ear to ear; he was born in Leinster in 543 and died at Bobbio in 615. Colouring and structure are our choice, made Irish and unlike Patrick's card.",
+    "excerpt": "content/of/formularies/common/pastors/past10.json entranceAntiphon (Common of Pastors, For Missionaries; verbatim in both languages without the paschal alleluia; full stop added). The calendar entry sanctorale.11-23.columban has no formulary in the repo",
+    "sources": [
+      {
+        "title": "Wikipedia, Columbanus (depiction; Irish tonsure; Bobbio)",
+        "url": "https://en.wikipedia.org/wiki/Columbanus"
+      },
+      {
+        "title": "Wikipedia, Tonsure (the Celtic tonsure)",
+        "url": "https://en.wikipedia.org/wiki/Tonsure"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

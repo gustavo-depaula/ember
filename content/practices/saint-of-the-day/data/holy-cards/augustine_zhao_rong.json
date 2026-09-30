@@ -1,0 +1,49 @@
+{
+  "id": "augustine_zhao_rong",
+  "feast": {
+    "month": 7,
+    "day": 9
+  },
+  "name": {
+    "en-US": "Sts. Augustine Zhao Rong and Companions",
+    "pt-BR": "Santos Agostinho Zhao Rong e companheiros"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of China",
+    "pt-BR": "Mártires da China"
+  },
+  "prayerExcerpt": {
+    "en-US": "O God, who have strengthened your Church through the confession of the Martyrs.",
+    "pt-BR": "Ó Deus, revigorastes vossa Igreja pelo testemunho dos santos mártires."
+  },
+  "proper": "sanctorale.07-09",
+  "meta": {
+    "face": "Three clearly different Chinese people, authentically East Asian (Han Chinese), none Westernised. Augustine Zhao Rong (centre): a former soldier of about sixty-nine with a weathered, warm-brown complexion and a BROAD, SQUARE face with a strong, wide jaw — a broad, flat forehead (the front of the head shaved in the Qing manner, grey hair drawn back into a queue), wide, flat cheekbones, a broad, low-bridged nose, narrow, deep-lidded dark eyes with calm crow's-feet, thin straight grey brows, a wide, firm mouth; a thin, drooping grey moustache and a short, sparse grey chin beard; a steady, grave, fatherly gaze. Lucy Yi Zhenmei (left): a woman of about forty-five with a pale golden complexion and a SMOOTH OVAL face with a gently rounded chin — a high, smooth forehead, fine, arched black brows, calm, almond-shaped dark eyes with single eyelids, a small, straight nose, a small, composed mouth; black hair parted in the middle and smoothed back into a low bun; a serene, gentle look lowered a little. Chi Zhuzi (right): a lean youth of eighteen, clean-shaven, with a golden-tan complexion and a NARROW, angular face — high cheekbones, a narrow, pointed chin, a slim, straight nose with a low bridge, bright, narrow dark eyes with single eyelids under straight black brows, a firm young mouth; shaved forehead and a long black queue; an eager, fearless look lifted upward.",
+    "basis": "No likeness of Zhao Rong survives; modern glass gives him a Western face and a biretta, which we set aside for a Qing-era Chinese priest of about sixty-nine who had been a soldier. Lucy Yi Zhenmei and Chi Zhuzi (eighteen) are two of his canonised companions of 1862 and 1900, chosen to show a priest, a woman catechist and a young layman; the faces and the Guizhou-Sichuan setting are our choice.",
+    "excerpt": "content/of/formularies/sanctoral/07-09.json collect (the address, with 'in your wonderful providence' / 'em vosso admirável desígnio' and the names dropped; otherwise verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Augustine Zhao Rong",
+        "url": "https://en.wikipedia.org/wiki/Augustine_Zhao_Rong"
+      },
+      {
+        "title": "Vatican, Augustine Zhao Rong and 119 companions (biographies; Chi Zhuze aged 18)",
+        "url": "https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20001001_zhao-rong-compagni_en.html"
+      },
+      {
+        "title": "Wikipedia, Martyr Saints of China (Lucy Yi Zhenmei, lay catechist, Guizhou 1862)",
+        "url": "https://en.wikipedia.org/wiki/Martyr_Saints_of_China"
+      },
+      {
+        "title": "Commons, Saint Augustine Tchao (stained glass, consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_Tchao.png"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

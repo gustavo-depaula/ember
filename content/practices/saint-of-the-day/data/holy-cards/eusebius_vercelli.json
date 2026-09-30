@@ -1,0 +1,42 @@
+{
+  "id": "eusebius_vercelli",
+  "feast": {
+    "month": 8,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Eusebius of Vercelli",
+    "pt-BR": "Santo Eusébio de Vercelli"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Vercelli",
+    "pt-BR": "Bispo de Vercelli"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lead us, Lord God, to imitate the constancy of Saint Eusebius in affirming the divinity of your Son.",
+    "pt-BR": "Senhor Deus, fazei-nos imitar a firmeza do bispo Santo Eusébio na proclamação da divindade de Cristo."
+  },
+  "lifeChapter": "dec-16-eusebius",
+  "proper": "sanctorale.08-02",
+  "meta": {
+    "face": "A Sardinian of about sixty-five with a dark, sun-browned Mediterranean complexion and an OBLONG face under a HEAVY, PROMINENT BROW RIDGE — a straight, low forehead with two deep horizontal lines, deep-set, intense black eyes under thick, straight, dark-grey brows, a strong nose with a broad bridge and a rounded tip, lean cheeks with deep lines from nose to mouth, a wide, firm mouth; short, dense, tightly CURLED grey-black hair; a thick, short, dense iron-grey beard cut SQUARE at the jaw line; a resolute, unflinching gaze straight ahead.",
+    "basis": "No likeness survives. He was a Sardinian, born about 283, who founded a clergy living in common at Vercelli and was exiled to Scythopolis, Cappadocia and the Thebaid for refusing to condemn Athanasius; the Codex Vercellensis in his cathedral was long believed to be his hand. The dark islander's face and its structure are our choice, made firm to fit the constancy the collect praises.",
+    "excerpt": "content/of/formularies/sanctoral/08-02.json collect (opening clause, verbatim in both languages; full stop added)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eusebius of Vercelli",
+        "url": "https://en.wikipedia.org/wiki/Eusebius_of_Vercelli"
+      },
+      {
+        "title": "Wikipedia, Codex Vercellensis",
+        "url": "https://en.wikipedia.org/wiki/Codex_Vercellensis"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

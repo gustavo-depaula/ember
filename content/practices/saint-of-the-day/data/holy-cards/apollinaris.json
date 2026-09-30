@@ -1,0 +1,42 @@
+{
+  "id": "apollinaris",
+  "feast": {
+    "month": 7,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Apollinaris",
+    "pt-BR": "Santo Apolinário"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Direct your faithful, Lord, in the way of eternal salvation.",
+    "pt-BR": "Senhor, conduzi os vossos fiéis no caminho da salvação eterna."
+  },
+  "lifeChapter": "jul-23-apollinaris",
+  "proper": "sanctorale.07-20",
+  "meta": {
+    "face": "A Syrian-born bishop of about sixty with a warm olive complexion and a SHORT, WIDE-CHEEKED face under a FLAT, SQUARE forehead — broad, rounded cheekbones set high, a long, straight, narrow nose running down from a low bridge, large, round, wide-open dark eyes under level dark-grey brows, a small, closed mouth; thick, short white hair combed forward in a straight, even fringe low on the forehead, as in the mosaic; a short white beard and moustache narrowing to a neat POINT at the chin; a calm, wide-eyed, frontal gaze.",
+    "basis": "The apse mosaic of Sant'Apollinare in Classe (c. 549), which we checked, shows him frontal in the orans gesture, with short white hair combed forward, large eyes and a short pointed white beard, between lambs among lilies. The Roman Martyrology's tradition makes him a Syrian, hence the olive complexion; the rest of the structure is our choice.",
+    "excerpt": "content/of/formularies/sanctoral/07-20.json collect (opening clause, verbatim in both languages; full stop added)",
+    "sources": [
+      {
+        "title": "Wikipedia, Apollinaris of Ravenna (lead image: the Classe mosaic, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Apollinaris_of_Ravenna"
+      },
+      {
+        "title": "Commons, Saint Apollenaris.jpg (apse mosaic, Sant'Apollinare in Classe)",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Apollenaris.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

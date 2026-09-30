@@ -1,0 +1,41 @@
+{
+  "id": "joseph_calasanz",
+  "feast": {
+    "month": 8,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Joseph Calasanz",
+    "pt-BR": "São José de Calasanz"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Pious Schools",
+    "pt-BR": "Fundador das Escolas Pias"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whoever obeys and teaches the commandments of the Lord will be called great in the Kingdom of Heaven.",
+    "pt-BR": "Quem observar e ensinar os mandamentos do Senhor será chamado grande no Reino dos Céus."
+  },
+  "lifeChapter": "aug-27-joseph-calasanctius",
+  "meta": {
+    "face": "A spare Aragonese of about eighty-five, old but alert, with a pale complexion and a LONG face, broad at the temples and narrowing to the jaw — a high, bald forehead under the biretta, prominent cheekbones over softly hollowed cheeks, a long, strong, slightly hooked nose, large, bright, gentle grey-brown eyes under thin, high-arched white brows raised in the middle, deep smile lines at the eyes, a thin mouth parted in a faint, kind smile; a SHORT, neatly trimmed white beard and moustache close to the jaw; a warm, fatherly look. Not the stock white-bearded elder: the beard is short and trimmed, the face long and bright-eyed.",
+    "basis": "The portrait in the Prado, which we checked, shows him old, bald under a black biretta, with a long face, large arched-browed eyes, a short trimmed white beard and a faint smile, his hand on his breast. He died in Rome at ninety in 1648 and is buried at San Pantaleo, where his first free school for poor boys was.",
+    "excerpt": "content/of/formularies/common/saints/sanct13.json entranceAntiphon (Common of Holy Men and Women, For Educators; en-US verbatim with 'says the Lord' and the paschal alleluia dropped; pt-BR is our faithful rendering, the file has no pt-BR). The calendar entry sanctorale.08-25.joseph-calasanz has no formulary in the repo",
+    "sources": [
+      {
+        "title": "Wikipedia, Joseph Calasanz (lead image: portrait, Museo del Prado, consulted)",
+        "url": "https://en.wikipedia.org/wiki/Joseph_Calasanz"
+      },
+      {
+        "title": "Commons, San José de Calasanz (Museo del Prado).jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Jos%C3%A9_de_Calasanz_(Museo_del_Prado).jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

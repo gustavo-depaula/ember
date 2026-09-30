@@ -1,0 +1,41 @@
+{
+  "id": "pontian_hippolytus",
+  "feast": {
+    "month": 8,
+    "day": 13
+  },
+  "name": {
+    "en-US": "Sts. Pontian and Hippolytus",
+    "pt-BR": "Santos Ponciano e Hipólito"
+  },
+  "patronOf": {
+    "en-US": "Pope and priest, martyrs",
+    "pt-BR": "Papa e presbítero, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "May the precious long-suffering of the just bring us a great increase of love for you.",
+    "pt-BR": "Senhor, que a admirável constância dos mártires São Ponciano e Santo Hipólito faça crescer em nós o desejo de vos amar."
+  },
+  "proper": "sanctorale.08-13",
+  "meta": {
+    "face": "Two clearly different men. Pontian (left, the pope): a Roman of about fifty with a ROUND, compact face and smooth, full cheeks — a low, rounded forehead, a short, broad, slightly upturned nose, round, warm brown eyes under soft, rounded brows, a small, gentle mouth, a round chin; close-cropped dark-brown hair greying at the temples and a short, neat, rounded dark beard; a humble, patient look. Hippolytus (right, the priest and scholar, older): a man of about sixty-five with a LONG, LEAN, HOLLOW-CHEEKED face and a high, bald crown — a tall, furrowed forehead, a long, thin, arched nose, narrow, heavy-lidded grey eyes under bushy, slanting grey brows, a thin-lipped mouth; long grey hair falling from the sides of the bald head to the nape; a long, flowing grey beard parted slightly at the chin, like an ancient philosopher; a thoughtful, searching gaze turned toward Pontian.",
+    "basis": "No likeness of either survives: the seated statue once taken for Hippolytus, found in 1551 and heavily restored, was originally a female figure. Both were exiled together in 235 to the mines of Sardinia, where they are thought to have been reconciled before dying, and Pope Fabian brought their bodies back to Rome; the two faces are our choice, one round and humble, one long and learned, the scroll marking the writer.",
+    "excerpt": "content/of/formularies/sanctoral/08-13.json collect (en-US first clause with 'O Lord, we pray,' dropped; pt-BR first clause verbatim; full stop added)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Pontian (exile to Sardinia, 235)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Pontian"
+      },
+      {
+        "title": "Wikipedia, Hippolytus of Rome (exile with Pontian; the 1551 statue)",
+        "url": "https://en.wikipedia.org/wiki/Hippolytus_of_Rome"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}

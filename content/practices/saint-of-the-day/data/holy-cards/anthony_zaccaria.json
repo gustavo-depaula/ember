@@ -1,0 +1,41 @@
+{
+  "id": "anthony_zaccaria",
+  "feast": {
+    "month": 7,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Anthony Zaccaria",
+    "pt-BR": "Santo Antônio Maria Zaccaria"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Barnabites",
+    "pt-BR": "Fundador dos Barnabitas"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we pursue the surpassing knowledge of Jesus Christ.",
+    "pt-BR": "Concedei-nos, Senhor, o incomparável conhecimento de Jesus Cristo."
+  },
+  "proper": "sanctorale.07-05",
+  "meta": {
+    "face": "A pale, slender Lombard of about thirty-six with a LONG OVAL face in three-quarter view — a high forehead with the dark hair already receding at the temples, a long, straight, prominent nose with a slightly lowered tip, deep-set dark-brown eyes under straight dark brows drawn a little together, flat cheeks over a strong cheekbone, a firm, closed mouth; short dark-brown hair lying close to the head and behind the ear; a full dark-brown moustache and a dense dark-brown beard trimmed close on the cheeks and ending in a short, squared POINT below the chin; an intent, far-seeing gaze lifted to the right. Not a young long-haired Christ type: the hair is short and receding.",
+    "basis": "The traditional portrait on Wikipedia, which we checked, shows a pale man in a high-collared black cassock in profile, with a receding hairline, a long nose, deep-set eyes and a dark beard ending in a point; he died at thirty-six in 1539. Cremona, the monstrance and the lily follow his life and the usual attributes.",
+    "excerpt": "content/of/formularies/sanctoral/07-05.json collect (en-US 'that ... we may pursue the surpassing knowledge of Jesus Christ' recast as a wish; pt-BR the opening words, verbatim, full stop added)",
+    "sources": [
+      {
+        "title": "Wikipedia, Anthony Maria Zaccaria (lead portrait consulted)",
+        "url": "https://en.wikipedia.org/wiki/Anthony_Maria_Zaccaria"
+      },
+      {
+        "title": "Commons, San Antonio Maria Zaccaria.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:San_Antonio_Maria_Zaccaria.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-13.md."
+      }
+    ]
+  }
+}
