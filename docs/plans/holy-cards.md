@@ -15,7 +15,7 @@ It must feel like a missal, not a game:
 - **Nothing is gated.** Every Life, prayer, and explanation stays readable whether or not you hold the card. A card marks a relationship, not access.
 - **Nothing held is lost.** A redeemed card never expires or decays. An unredeemed one lapses after its window (below), but the same act brings it again: next year's feast, the next Sunday, the next novena.
 - **No points, ranks, or percentages.** No "37/120".
-- **No farming.** One act gives one card, never several; app time and opens never count.
+- **No farming.** A rule gives one card per act, never several; app time and opens never count. One act can still complete several rules — the Sunday that finishes Advent gives its saint *and* the Advent Sunday card — and each rule gives its own card.
 - **Every card is holographic.** Copies differ by their back — the full condition each was received under — not by rarity.
 - **No odds to chase.** Saints always follow from the act. Only the liturgical cards (parts of the Mass, objects, vestments) and a copy's print are drawn at random, unheld first, every candidate equally likely.
 
@@ -45,7 +45,7 @@ Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the pla
 
 ### One card per Mass, in precedence
 
-Each Mass gives **the date's saint, or else a liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a novena finishing the same day) — each its own act, each its own card.
+Each Mass gives **the date's saint, or else a liturgical card**. The other doors are independent rules, so a day — even a single Mass — can bring several envelopes: the feast saint at Mass and a novena finishing the same day; the last Sunday of a season and that season's Sunday card. Each rule gives its own card.
 
 - **The date's saints:** every saint the current calendar assigns to that date is a candidate, whatever the rank — and even when the day's liturgy doesn't celebrate them. A memorial falling on a Sunday is omitted at Mass that year (`resolveOfDay` suppresses it), but Sunday Mass still gives its saint: on Sunday 4 October 2026, St. Francis.
 - **Several saints, you pick:** you choose whose card it is, on the envelope. Rank only orders the list (solemnity, feast, obligatory memorial, optional memorial).
@@ -78,7 +78,7 @@ Advent · Christmas · Lent · Easter · Ordinary Time I (after Christmas) · Or
 - **Weekday card:** Mass on at least two thirds of the season's weekdays.
 - **Triduum:** Holy Thursday, Good Friday, and the Easter Vigil.
 - **Gaudete, Laetare:** Mass on that Sunday.
-- Granted the day after the season closes ("Advent is over — you were at Mass every Sunday"), so they never compete with that day's per-Mass card.
+- Granted with the Mass that completes the condition, alongside that Mass's own card: the Sunday card with the season's last Sunday, the weekday card with the Mass that reaches two thirds.
 - Keeping the plan of life through the season adds a *Kept Lent 2027* line to the card's back.
 - **Progress is visible during the season** as a quiet row of Sunday dots on the season card.
 
