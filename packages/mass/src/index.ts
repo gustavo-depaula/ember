@@ -11,6 +11,7 @@ export {
   type OfDay as OfResolvedDay,
   type OfYearOptions,
   observesTransferred,
+  ofDateCelebrations,
   resolveOfDay,
   type Scope,
   sanctoralFor,

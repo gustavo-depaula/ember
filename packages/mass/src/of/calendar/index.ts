@@ -1,6 +1,6 @@
 export { isOfHolyDay } from './hdo'
 export { girm } from './precedence'
-export { resolveOfDay } from './resolve'
+export { ofDateCelebrations, resolveOfDay } from './resolve'
 export { type Scope, sanctoralFor } from './sanctoral'
 export { observesTransferred, transferredDate } from './transfers'
 export type { CelebrationKind, CelebrationMode, OfCelebration, OfDay } from './types'

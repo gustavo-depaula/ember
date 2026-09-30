@@ -422,6 +422,21 @@ importers:
 
   packages/divinum-officium: {}
 
+  packages/holy-cards:
+    dependencies:
+      '@ember/liturgical':
+        specifier: workspace:*
+        version: link:../liturgical
+      '@ember/mass':
+        specifier: workspace:*
+        version: link:../mass
+      '@ember/missal-schema':
+        specifier: workspace:*
+        version: link:../missal-schema
+      date-fns:
+        specifier: '*'
+        version: 4.1.0
+
   packages/liturgical: {}
 
   packages/mass:

@@ -167,7 +167,7 @@ A fixed, curated catalog; every collectible gets bespoke art (no text-only cards
 
 ## Data shape
 
-Acts are already stored (practice completions, plan-of-life ticks, book progress). **Pending cards are derived** from the acts plus the calendar, as a pure function: the date's saints (outranked memorials included), assigned Office days, the liturgical-card draw, season windows, faithfulness windows, redeeming windows. That derivation is the logic that earns tests. **Redeemed copies are stored** — card, door, date, the back's condition line, the optional intention — with a stable id from the act (card + door + date), so a note or a future gift can point at it.
+Acts are already stored (practice completions, plan-of-life ticks, book progress). **Pending cards are derived** from the acts plus the calendar, as a pure function: the date's saints (outranked memorials included), assigned Office days, the liturgical-card draw, season windows, faithfulness windows, redeeming windows. That derivation is `@ember/holy-cards` (`packages/holy-cards`), and it is the logic that earns tests. **Redeemed copies are stored** — card, door, date, the back's condition line, the optional intention — with a stable id from the act (card + door + date), so a note or a future gift can point at it.
 
 ## Open
 

@@ -71,30 +71,22 @@ function temporalIndex(temporal: TemporalEntry[]): Map<string, TemporalEntry> {
 }
 
 /**
- * Resolve the full OF day. Pure over the calendar statics + the (validated)
- * temporal math from `@ember/liturgical`. Returns every celebration the day
- * offers, ordered with the principal first — the renderer's celebration picker
- * presents them. The producer assembles the formulary-fetch closure
- * (`inheritsOrationsFrom`, the temporal sibling for memorial readings).
+ * Every celebration `date` carries, ordered by precedence (principal first),
+ * before suppression: a memorial falling on a Sunday is still listed. The
+ * date's saints are these, whether or not the day's Mass celebrates them.
  */
-export function resolveOfDay(
+export function ofDateCelebrations(
   date: Date,
   statics: OfCalendarStatics,
   opts: { scope?: Scope } = {},
-): OfDay {
+): OfCelebration[] {
   const scope = opts.scope ?? 'universal'
   const position = getOfLiturgicalPosition(date)
-  const litYear = getLiturgicalYear(date)
-  const season = seasonMap[position.season]
-
   const temporalByRef = temporalIndex(statics.temporal)
-  const temporalIds = ofTemporeIds(date)
-  const temporalRef = temporalIds[0]
-
   const celebrations: OfCelebration[] = []
 
   // Temporal candidates (multi-Mass days expand to several formulary refs).
-  for (const ref of temporalIds) {
+  for (const ref of ofTemporeIds(date)) {
     const entry = temporalByRef.get(ref)
     celebrations.push({
       ref,
@@ -117,7 +109,28 @@ export function resolveOfDay(
     })
   }
 
-  celebrations.sort((a, b) => a.precedence - b.precedence)
+  return celebrations.sort((a, b) => a.precedence - b.precedence)
+}
+
+/**
+ * Resolve the full OF day. Pure over the calendar statics + the (validated)
+ * temporal math from `@ember/liturgical`. Returns every celebration the day
+ * offers, ordered with the principal first — the renderer's celebration picker
+ * presents them. The producer assembles the formulary-fetch closure
+ * (`inheritsOrationsFrom`, the temporal sibling for memorial readings).
+ */
+export function resolveOfDay(
+  date: Date,
+  statics: OfCalendarStatics,
+  opts: { scope?: Scope } = {},
+): OfDay {
+  const scope = opts.scope ?? 'universal'
+  const position = getOfLiturgicalPosition(date)
+  const litYear = getLiturgicalYear(date)
+  const season = seasonMap[position.season]
+
+  const temporalRef = ofTemporeIds(date)[0]
+  const celebrations = ofDateCelebrations(date, statics, { scope })
   const principal = celebrations[0]
 
   // Suppression + commemoration. When the principal is a Sunday/feast/solemnity
