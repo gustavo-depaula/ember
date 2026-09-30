@@ -1,0 +1,465 @@
+{
+  "batch": 31,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-31.md",
+  "cards": [
+    {
+      "id": "prosper_aquitaine",
+      "letter": "P",
+      "feast": {
+        "month": 6,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Prosper of Aquitaine",
+        "pt-BR": "São Próspero da Aquitânia"
+      },
+      "patronOf": {
+        "en-US": "Secretary to St. Leo the Great",
+        "pt-BR": "Secretário de São Leão Magno"
+      },
+      "prayerExcerpt": {
+        "en-US": "On account of the purity and sanctity of his manners, he is called by those of his age a holy and venerable man.",
+        "pt-BR": "Por causa da pureza e da santidade dos seus costumes, é chamado pelos da sua época de homem santo e venerável."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md, first paragraph (Prosper), third sentence; the chapter, which tells Prosper and William together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Prosper of Aquitaine, half-length, as a learned Gallo-Roman layman of the fifth century, not a cleric: a long-sleeved tunic of undyed off-white wool with two narrow dark-red stripes, and over it a mantle of deep slate-blue draped over the left shoulder; he sits at a plain wooden writing desk with an open parchment codex and a reed pen in his right hand, a few rolled letters tied with cord beside it, his left hand resting on the page. Behind him, through a round-arched opening, fifth-century Rome in the evening light: the brick Aurelian walls, the great basilica of the Lateran with its long nave and plain façade, cypresses and umbrella pines on the Caelian hill. Studious, calm and grave; no lettering on the pages or anywhere.",
+      "face": "A Gallo-Roman of Aquitaine of about forty-five, CLEAN-SHAVEN, with a fair complexion slightly sallow from lamplight, and an OBLONG, FLAT-SIDED face — a TALL forehead whose dark hair RECEDES at the temples into a sharp WIDOW'S PEAK, a LONG, THIN, AQUILINE nose with a narrow bridge, SMALL, CLOSE-SET, keen grey eyes under straight, dark, level brows, FLAT, lean cheeks, a thin-lipped, firmly PRESSED mouth framed by DEEP lines running from nose to mouth, a LONG, SQUARE-ENDED chin; short, straight dark-brown hair combed forward at the sides; the gaze lowered to the page, intent.",
+      "refs": [
+        "augustine",
+        "jerome",
+        "thomas_aquinas"
+      ],
+      "basis": "No likeness survives. The book tells a layman of Aquitaine, born about 403, of great learning, called by his age 'a holy and venerable man', whom St. Leo the Great made his secretary in Rome and who fought the Pelagians; its engraving shows him at a writing table, his hand to his face. Wikipedia agrees (a layman, attached to Leo 'in some secretarial or notarial capacity', still living in 455–463). The oblong, clean-shaven face with the widow's peak is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Prosper of Aquitaine",
+          "url": "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+        },
+        {
+          "title": "Wikipedia (fr), Prosper d'Aquitaine",
+          "url": "https://fr.wikipedia.org/wiki/Prosper_d%27Aquitaine"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-25-prosper-of-aquitaine-st-william-of-monte-vergine (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md"
+        }
+      ],
+      "lifeChapter": "jun-25-prosper-of-aquitaine-st-william-of-monte-vergine",
+      "catalogMatch": "25 Jun · St. Prosper of Aquitaine"
+    },
+    {
+      "id": "william_montevergine",
+      "letter": "W",
+      "feast": {
+        "month": 6,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. William of Monte-Vergine",
+        "pt-BR": "São Guilherme de Monte-Vergine"
+      },
+      "patronOf": {
+        "en-US": "Hermit, founder of Monte-Vergine",
+        "pt-BR": "Eremita, fundador de Monte-Vergine"
+      },
+      "prayerExcerpt": {
+        "en-US": "He chose for his abode a desert mountain, and lived in perpetual contemplation and the exercises of most rigorous penitential austerities.",
+        "pt-BR": "Escolheu para sua morada uma montanha deserta, e viveu em perpétua contemplação e nos exercícios das mais rigorosas austeridades penitenciais."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md, third paragraph (William), its last clause, after 'where', capitalised; the chapter, which tells Prosper and William together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. William of Monte-Vergine, half-length, as a twelfth-century hermit-abbot of southern Italy: the ample WHITE woollen habit and white hood of the monks of Monte-Vergine, a plain dark leather belt, a tall, rough wooden staff with a simple crook in his right hand; his left hand rests on the head of a grey WOLF that stands calmly at his side with a small pack of firewood tied across its back, the tame wolf that took the place of the donkey it had killed. Behind him, the wooded heights of Monte-Vergine (the Partenio) between Nola and Benevento: beech woods and rocky slopes, a small stone chapel and a few hermit cells on the mountain top, and far below a hazy Campanian plain under a clear morning sky. Austere, strong and gentle; no lettering.",
+      "face": "A Piedmontese of about forty-five, weathered by the mountain, with a sun-browned complexion and a BROAD face WIDEST and FLAT across the cheekbones — a SHORT, square forehead, a broad, STRAIGHT nose with FLARED nostrils, SMALL, DEEP-SET dark eyes under THICK, LOW, straight black brows, a full lower lip; a THICK, dense BLACK beard growing HIGH on the cheeks and cut BLUNT and broad at the collarbone, with a full moustache; short black hair cropped round a monastic tonsure; the gaze lowered, grave and kind.",
+      "refs": [
+        "benedict",
+        "francis_assisi",
+        "bernard_clairvaux"
+      ],
+      "basis": "No portrait from life is known. Bernardino Zenale's panel (Commons) shows him in the white habit with a crozier and a heavy dark beard, as the face here does; Wikipedia (en, it) gives his birth at Vercelli in 1085, the pilgrimage to Compostela, the hermitage on Monte Vergine and the tamed wolf 'often depicted' with him. The book tells the orphan of Piedmont, the pilgrimage, the desert mountain and the congregation founded in 1119. The broad, flat-cheeked structure is our choice.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Bernardino Zenale, St. William of Vercelli and a monk",
+          "url": "https://commons.wikimedia.org/wiki/File:Bernardino_zenale,_san_guglielmo_da_vercelli_e_un_monaco_cistercense.jpg"
+        },
+        {
+          "title": "Wikipedia, William of Montevergine",
+          "url": "https://en.wikipedia.org/wiki/William_of_Montevergine"
+        },
+        {
+          "title": "Wikipedia (it), Guglielmo da Vercelli",
+          "url": "https://it.wikipedia.org/wiki/Guglielmo_da_Vercelli"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-25-prosper-of-aquitaine-st-william-of-monte-vergine (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md"
+        }
+      ],
+      "lifeChapter": "jun-25-prosper-of-aquitaine-st-william-of-monte-vergine",
+      "catalogMatch": "25 Jun · St William of Monte-Vergine"
+    },
+    {
+      "id": "ladislas",
+      "letter": "L",
+      "feast": {
+        "month": 6,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Ladislas",
+        "pt-BR": "São Ladislau"
+      },
+      "patronOf": {
+        "en-US": "King of Hungary",
+        "pt-BR": "Rei da Hungria"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Saints filled all their moments with good works and great actions.",
+        "pt-BR": "Os Santos enchiam todos os seus momentos de boas obras e de grandes ações."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-27-ladislas.md Reflection, first sentence, its first clause (before the semicolon) (Pictorial Lives, public domain)",
+      "subject": "St. Ladislas, King of Hungary, half-length, as a tall knight-king of the eleventh century: a gold open crown of lilies set with red and blue stones (as on his reliquary bust at Győr), a coat of mail under a long royal mantle of deep crimson lined with ermine and fastened at the shoulder with a gold clasp; in his right hand, held upright, the long-handled BATTLE-AXE that is his emblem, and his left hand on his heart. Behind him, the wide Hungarian plain in early summer — fields, a slow river bordered with willows — and on a rise the Romanesque cathedral of Várad with its two towers under a bright sky with high white clouds. Noble, strong and devout; no lettering, no banners with signs.",
+      "face": "A Magyar of about fifty, very tall and strongly built, with a fair, sun-warmed complexion and a LONG, HEXAGONAL face — a high, straight forehead, HIGH, ANGULAR cheekbones, the sides of the face falling STRAIGHT to a long jaw; a LONG, perfectly STRAIGHT, narrow nose whose high bridge runs in one line from the brow; LARGE, WIDE-OPEN, almond-shaped light-brown eyes under HIGH, clearly ARCHED brows; a long upper lip under a DROOPING moustache; a long, full, dark-blond beard CURLED and PARTED into TWO POINTS below the chin; thick dark-blond hair ROLLED in heavy curls at the sides and falling to the collar; the gaze open and steady, straight ahead.",
+      "refs": [
+        "george",
+        "sebastian",
+        "patrick"
+      ],
+      "basis": "No portrait from life survives. His reliquary bust at Győr (Wikipedia's lead image; the face may follow Béla III, a descendant) shows a long face with a long straight nose, large open eyes, a drooping moustache, a curled, forked beard and rolled locks; the Hungarian Wikipedia cites the sources' 'strong, huge-bodied man, standing a shoulder above the others', and art gives him the battle-axe. The book tells the king compelled to the throne in 1080, austere, just and merciful, who drove out the invaders and died in 1095 preparing for the Crusade.",
+      "sources": [
+        {
+          "title": "Wikipedia, Ladislaus I of Hungary (lead image: the herm at Győr)",
+          "url": "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
+        },
+        {
+          "title": "Wikipedia (hu), I. László magyar király",
+          "url": "https://hu.wikipedia.org/wiki/I._L%C3%A1szl%C3%B3_magyar_kir%C3%A1ly"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-27-ladislas (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-27-ladislas.md"
+        }
+      ],
+      "lifeChapter": "jun-27-ladislas",
+      "catalogMatch": "27 Jun · St. Ladislas, King"
+    },
+    {
+      "id": "gal_clermont",
+      "letter": "G",
+      "feast": {
+        "month": 7,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Gal",
+        "pt-BR": "São Galo"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Clermont",
+        "pt-BR": "Bispo de Clermont"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Saint, without making the least reply, arose meekly from his seat and went to visit the churches of the city.",
+        "pt-BR": "O Santo, sem dar a menor resposta, levantou-se mansamente do seu assento e foi visitar as igrejas da cidade."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-01-gal.md, third paragraph, the main clause of its second sentence (Evodius's insult); the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Gal, Bishop of Clermont, half-length, as a sixth-century Gallo-Roman bishop without a mitre: a white alb under a full, bell-shaped chasuble of soft moss-green edged with a narrow gold band, a white wool pallium-like stole, a plain wooden pastoral staff in his left hand; his right hand is laid open on his breast in a gesture of meek forbearance. Behind him, the city of Clermont in Auvergne on its low hill, with a small early church and Roman-style houses, and beyond it the rounded, green volcanic cones of the Puys and the dome of the Puy de Dôme under a clear, gentle summer sky. Meek, patient and fatherly; no lettering.",
+      "face": "An Auvergnat of about sixty, of good family, with a fair, softly ruddy complexion and a ROUND, SOFT, SMALL-FEATURED face — a broad, low forehead, full, ROUNDED cheeks, a SHORT, small, straight nose, ROUND, mild, pale-blue eyes set WIDE apart under THIN, HIGH, curved brows lifted as in patient surprise, a SMALL, soft, closed mouth, a round chin; a SHORT, neat, ROUNDED white beard and soft white hair cut short round a tonsure; the gaze mild and forgiving, a little downward.",
+      "refs": [
+        "nicholas",
+        "ambrose",
+        "patrick"
+      ],
+      "basis": "No likeness survives. The book tells a noble of Clermont, born about 489, a monk of Cournon who became bishop of Auvergne in 527, known above all for his patience under injuries (struck on the head, insulted by the priest Evodius, he answered nothing), who died about 553; its engraving shows a kneeling man before a monk at a doorway. French Wikipedia (Gall Ier de Clermont) gives about 505–551, the uncle of Gregory of Tours. The round, soft face is our reading of that meekness.",
+      "sources": [
+        {
+          "title": "Wikipedia (fr), Gall Ier de Clermont",
+          "url": "https://fr.wikipedia.org/wiki/Gall_Ier_de_Clermont"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-01-gal (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-01-gal.md"
+        }
+      ],
+      "lifeChapter": "jul-01-gal",
+      "catalogMatch": "1 Jul · St. Gal, Bishop"
+    },
+    {
+      "id": "heliodorus",
+      "letter": "H",
+      "feast": {
+        "month": 7,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Heliodorus",
+        "pt-BR": "Santo Heliodoro"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Altino",
+        "pt-BR": "Bispo de Altino"
+      },
+      "prayerExcerpt": {
+        "en-US": "He remained in the world, though not of it, and, following the example of the holy anchorites, passed his time in prayer and devout reading.",
+        "pt-BR": "Permaneceu no mundo, embora não fosse do mundo, e, seguindo o exemplo dos santos anacoretas, passava seu tempo em oração e leitura devota."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-03-heliodorus.md, first paragraph, last sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Heliodorus, Bishop of Altino, half-length, as a fourth-century bishop without a mitre: a white alb under a full, bell-shaped chasuble of deep violet-blue edged in gold, a white wool pallium with small dark crosses over his shoulders; he holds a closed codex bound in plain red leather against his breast with both hands (the letters of his friend St. Jerome), and a simple wooden pastoral staff rests in the crook of his arm. Behind him, the Venetian lagoon at Altino: flat green salt marshes, reed beds and still channels reflecting the sky, a small brick basilica on an island, a boat with a brown sail, under a wide, pale, luminous sky. Ascetic, loyal and serene; no lettering.",
+      "face": "A Dalmatian of about fifty-five, lean from an ascetic life, with a light-olive, sea-weathered complexion and a LONG, LANTERN-JAWED face — a narrowish forehead, cheekbones set LOW, HOLLOW cheeks, and a LONG, HEAVY lower jaw ending in a BROAD, PROMINENT, JUTTING chin; a straight nose with a broad, FLAT tip; DEEP-SET grey-green eyes under HEAVY, half-lowered upper lids; thick, straight dark-grey brows; a wide, thin mouth; a CLOSE-trimmed grey beard that follows the long jaw; short, thick, grey hair combed forward; the gaze quiet and inward.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "athanasius"
+      ],
+      "basis": "No likeness survives; the statue at Murano (Commons) is a conventional mitred, bearded bishop. The book tells a Dalmatian, disciple and friend of St. Jerome, who lived 'in the world, though not of it', went with him to the East, returned to his parents, and was made Bishop of Altino. Wikipedia (en, it) adds the Council of Aquileia (381), his death about 410 (the book's 'about 290' is a slip) and his relics at Torcello. The lantern-jawed face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Heliodorus of Altino",
+          "url": "https://en.wikipedia.org/wiki/Heliodorus_of_Altino"
+        },
+        {
+          "title": "Wikimedia Commons, St. Heliodorus, Duomo di Murano",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Heliodorus_(Sant'Eliodoro),_Basilica_di_Santa_Maria_e_Donato,_Duomo_di_Murano_(25327994189).jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-03-heliodorus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-03-heliodorus.md"
+        }
+      ],
+      "lifeChapter": "jul-03-heliodorus",
+      "catalogMatch": "3 Jul · St. Heliodorus, Bishop"
+    },
+    {
+      "id": "bertha_blangy",
+      "letter": "B",
+      "feast": {
+        "month": 7,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Bertha",
+        "pt-BR": "Santa Berta"
+      },
+      "patronOf": {
+        "en-US": "Widow, Abbess of Blangy",
+        "pt-BR": "Viúva, Abadessa de Blangy"
+      },
+      "prayerExcerpt": {
+        "en-US": "She left St. Deotila abbess in her stead, and shut herself in a cell, to pass the remainder of her days in prayer.",
+        "pt-BR": "Deixou Santa Deotila como abadessa em seu lugar, e fechou-se numa cela, para passar o restante de seus dias em oração."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-04-bertha.md, third paragraph, its second sentence after 'And then, after establishing a regular observance in her community,', capitalised; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Bertha of Blangy, half-length, as a Frankish noble widow turned abbess, about the year 700: a plain black woollen habit with wide sleeves, a black veil over a white linen wimple and a white band across the brow, a simple wooden abbess's staff in her left hand, and in her right hand, held against her breast, a small wooden model of a stone church (one of the three churches she built). Behind her, the green valley of the Ternoise in Artois: meadows and poplars along a small river, the low stone buildings and little church of the nunnery of Blangy, a village with thatched roofs, under a soft, silvery northern sky. Firm, maternal and prayerful; no lettering.",
+      "face": "A Frankish noblewoman of about sixty, strong-boned, with a fair, lightly weathered complexion and a BROAD, SQUARE face with a firm, STRONG JAW — a wide, flat forehead under the band of the wimple, a SHORT, straight nose with a broad bridge, CALM, WIDE-SET grey eyes under straight, low, light-brown brows, FIRM, full cheeks, a WIDE, straight, resolute mouth with a faint smile at the corners, a broad, square chin; a few fine lines at the eyes; hair hidden; the gaze steady and warm, toward us.",
+      "refs": [
+        "scholastica",
+        "bridget_sweden",
+        "clare_assisi"
+      ],
+      "basis": "No likeness survives; a nineteenth-century French devotional print (Commons) shows her kneeling in a black habit and veil. The book tells the daughter of Count Rigobert, married at twenty, mother of five daughters, who founded the nunnery of Blangy in Artois, took the veil there as a widow, built three churches, and ended her days shut in a cell, about 725. English Wikipedia says the story 'is of a very late date but not entirely legendary'. The broad, square-jawed face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bertha of Artois",
+          "url": "https://en.wikipedia.org/wiki/Bertha_of_Artois"
+        },
+        {
+          "title": "Wikipedia (fr), Berthe de Blangy (lead image: a devotional print)",
+          "url": "https://fr.wikipedia.org/wiki/Berthe_de_Blangy"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-04-bertha (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-04-bertha.md"
+        }
+      ],
+      "lifeChapter": "jul-04-bertha",
+      "catalogMatch": "4 Jul · St. Bertha, Widow"
+    },
+    {
+      "id": "peter_luxemburg",
+      "letter": "P",
+      "feast": {
+        "month": 7,
+        "day": 5
+      },
+      "name": {
+        "en-US": "Bl. Peter of Luxemburg",
+        "pt-BR": "Beato Pedro de Luxemburgo"
+      },
+      "patronOf": {
+        "en-US": "Patron of Avignon",
+        "pt-BR": "Padroeiro de Avinhão"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Peter teaches us how, by self-denial, rank, riches, the highest dignities, and all this world can give, may serve to make a Saint.",
+        "pt-BR": "São Pedro nos ensina como, pela abnegação, a posição, as riquezas, as mais altas dignidades, e tudo o que este mundo pode dar, podem servir para fazer um Santo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-05-peter-of-luxemburg.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "Bl. Peter of Luxemburg, half-length, as a young cardinal of eighteen in 1387: a long scarlet cappa with a small scarlet hood over a white rochet with plain linen sleeves, the round, flat-crowned, wide-brimmed red cardinal's hat hanging behind his shoulders on its cords; his hands are joined in prayer before a small crucifix that stands on a prayer desk draped in green cloth beside him, with a closed book of hours. Behind him, Avignon on the Rhône in the soft light of evening: the massive pale walls and towers of the Palace of the Popes on its rock, the arches of the bridge of Saint-Bénézet crossing the river, cypresses and vineyards on the far bank toward Villeneuve. Pure, humble and recollected; no lettering, no coat of arms.",
+      "face": "A thin, pale French noble youth of eighteen, visibly young, BEARDLESS and worn by fasting, with a TRIANGULAR face — a BROAD, ROUNDED forehead tapering sharply to a SMALL, POINTED chin; HOLLOW cheeks under delicate, clearly marked cheekbones; a LONG, fine, STRAIGHT nose; LARGE, round, slightly PROMINENT grey-blue eyes under thin, softly arched light-brown brows; a SMALL, closed mouth with a full lower lip; light-brown hair cut in a short ROUND bowl with a small tonsure; the gaze lifted toward the crucifix, humble and ardent.",
+      "refs": [
+        "aloysius_gonzaga",
+        "charles_borromeo",
+        "francis_xavier"
+      ],
+      "basis": "The Avignon School panel of his vision (c. 1450, Commons; Wikipedia's lead image) shows him young, pale and beardless, kneeling in a red cardinal's cappa at a prie-dieu, with a long straight nose, a small mouth and a tonsure, which the face follows. The book tells the noble hostage in London at twelve, Bishop of Metz at fifteen, the cardinal ordered to moderate his penances, who died in 1387 at eighteen, and the miracle of 1432 that made him patron of Avignon. Wikipedia: beatified by Clement VII in 1527, never canonized.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Master of the Avignon School, Vision of Cardinal Pierre de Luxembourg",
+          "url": "https://commons.wikimedia.org/wiki/File:Master_Of_The_Avignon_School-_Vision_of_Cardinal_Pierre_de_Luxembourg.jpg"
+        },
+        {
+          "title": "Wikipedia, Pierre de Luxembourg",
+          "url": "https://en.wikipedia.org/wiki/Pierre_de_Luxembourg"
+        },
+        {
+          "title": "Wikipedia (fr), Pierre de Luxembourg",
+          "url": "https://fr.wikipedia.org/wiki/Pierre_de_Luxembourg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-05-peter-of-luxemburg (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-05-peter-of-luxemburg.md"
+        }
+      ],
+      "lifeChapter": "jul-05-peter-of-luxemburg",
+      "catalogMatch": "5 Jul · St. Peter of Luxemburg"
+    },
+    {
+      "id": "goar",
+      "letter": "G",
+      "feast": {
+        "month": 7,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Goar",
+        "pt-BR": "São Goar"
+      },
+      "patronOf": {
+        "en-US": "Priest and hermit",
+        "pt-BR": "Sacerdote e eremita"
+      },
+      "prayerExcerpt": {
+        "en-US": "He converted many sinners by the fervor of his preaching and the force of his example.",
+        "pt-BR": "Converteu muitos pecadores pelo fervor de sua pregação e pela força de seu exemplo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-06-goar.md, first paragraph, the clause after 'having been raised to sacred orders,', capitalised; the chapter has no Reflection, so the card has none (the index's 07-06 reflection is the one closing the Palladius chapter) (Pictorial Lives, public domain)",
+      "subject": "St. Goar, half-length, as a sixth-century hermit priest of the Rhine: a plain, undyed brown woollen habit with a rope girdle, and a small priest's stole of faded red over it; in his right hand an earthenware pitcher, as the one who gave drink and shelter to travellers; behind his shoulder, his grey travelling cloak hangs in the air on a single slanting SUNBEAM that falls through the clouds, as in his legend. Behind him, the gorge of the Rhine: steep slate cliffs with vineyards in terraces, the broad river with a small boat, a little stone church and hermit's cell on the left bank where the town of St. Goar would grow, under a bright sky with sunbeams breaking through. Hospitable, cheerful and humble; no lettering.",
+      "face": "An Aquitanian of about sixty, kindly and robust, with a warm, ruddy complexion and an EGG-SHAPED face, BROADEST at the crown and temples and narrowing to a rounded chin — a HIGH, BOSSED forehead, a SHORT, BLUNT nose, bright, smiling hazel eyes deeply CREASED at the corners under soft, rounded grey brows, a LONG, deep upper lip over a WIDE, generous mouth in a warm smile, a round, slightly PROMINENT chin; CLEAN-SHAVEN; grey-brown hair cut short round a large monastic tonsure; the gaze welcoming, toward us.",
+      "refs": [
+        "anthony_padua",
+        "francis_assisi",
+        "benedict"
+      ],
+      "basis": "No likeness survives. The fifteenth-century window of the collegiate church at St. Goar (Commons; German Wikipedia's lead image) shows him clean-shaven and tonsured with a model of his church; English Wikipedia tells the cloak hung on a sunbeam and his images with a pitcher, patron of innkeepers and vine growers. The book tells the priest of Aquitaine who hid himself near Trier, 'the oracle and miracle of the whole country', and refused the see of Metz; it dates his death to 575, as German Wikipedia does (English Wikipedia has 649). The egg-shaped face is our choice.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Heiliger Goar, Glasmalerei Stiftskirche Sankt Goar",
+          "url": "https://commons.wikimedia.org/wiki/File:Heiliger_Goar,_Glasmalerei_Stiftskirche_Sankt_Goar.jpg"
+        },
+        {
+          "title": "Wikipedia, Goar of Aquitaine",
+          "url": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+        },
+        {
+          "title": "Wikipedia (de), Goar",
+          "url": "https://de.wikipedia.org/wiki/Goar"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-06-goar (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-06-goar.md"
+        }
+      ],
+      "lifeChapter": "jul-06-goar",
+      "catalogMatch": "6 Jul · St. Goar, Priest"
+    },
+    {
+      "id": "palladius",
+      "letter": "P",
+      "feast": {
+        "month": 7,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Palladius",
+        "pt-BR": "São Paládio"
+      },
+      "patronOf": {
+        "en-US": "Bishop, Apostle of the Scots",
+        "pt-BR": "Bispo, Apóstolo dos Escotos"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Palladius surmounted every obstacle which a fierce nation had opposed to the establishment of the kingdom of Jesus Christ.",
+        "pt-BR": "São Paládio superou todo obstáculo que uma nação feroz havia oposto ao estabelecimento do reino de Jesus Cristo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-06-palladius.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Palladius, half-length, as a fifth-century Roman missionary bishop: a white alb, a full chasuble of deep blue edged with a narrow gold band, a white wool pallium with small dark crosses, no mitre; a plain, iron-shod wooden pastoral staff in his left hand, and in his right a Gospel book in a plain leather satchel on a strap, as one who travels. Behind him, the Mearns of north-east Scotland: green, rolling fields and moorland, the dark Grampian hills, a burn among birches, and a small dry-stone chapel with a turf roof at Fordoun, under a wide, grey-blue northern sky with sunlight on the hills. Resolute, patient and apostolic; no lettering.",
+      "face": "A Roman patrician of about fifty-five with an olive complexion paled by northern skies and a TRAPEZOID face, NARROWER at the brow and BROADEST at the angular JAW — a narrow, lined forehead with a straight, low hairline, a SHORT, straight nose, very DARK, ROUND eyes set DEEP under a heavy, straight brow ridge, flat cheeks, a WIDE, straight, firm mouth, a broad, flat chin; short, thick, black CURLY hair greying at the temples, and a SHORT, close black-and-grey beard trimmed tight to the square jaw; the gaze direct and undaunted.",
+      "refs": [
+        "patrick",
+        "nicholas",
+        "ambrose"
+      ],
+      "basis": "No likeness survives. The book tells a Roman, deacon of the Church of Rome, who moved Pope Celestine to send St. Germanus to Britain in 429, was sent in 431 as the first bishop to the Scots believing in Christ, was driven from Leinster, preached in North Britain and died at Fordun about 450. Wikipedia agrees in substance (Prosper's Chronicle), makes him of a noble Gallo-Roman family, and names the dedications at Fordoun and Auchenblae. The trapezoid, square-jawed face, unlike the existing St. Patrick's, is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Palladius (bishop of Ireland)",
+          "url": "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+        },
+        {
+          "title": "Wikimedia Commons, St Palladius, Fordoun",
+          "url": "https://commons.wikimedia.org/wiki/File:St_Palladius_Fordoun.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-06-palladius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-06-palladius.md"
+        }
+      ],
+      "lifeChapter": "jul-06-palladius",
+      "catalogMatch": "6 Jul · St. Palladius, Bishop"
+    },
+    {
+      "id": "pantaenus",
+      "letter": "P",
+      "feast": {
+        "month": 7,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Pantænus",
+        "pt-BR": "São Panteno"
+      },
+      "patronOf": {
+        "en-US": "Father of the Church",
+        "pt-BR": "Padre da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Have a care that none lead you astray by a false philosophy,\" says St. Paul, for philosophy without religion is a vain thing.",
+        "pt-BR": "\"Tomai cuidado para que ninguém vos engane com uma falsa filosofia,\" diz São Paulo, pois a filosofia sem religião é coisa vã."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-07-pant-nus-father-of-the-church.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Pantænus, half-length, as an old Christian philosopher of Alexandria about the year 200, not a cleric: a plain tunic of undyed linen and a philosopher's himation of deep ochre-brown draped over the left shoulder; he holds against his breast a bound codex of the Gospel of St. Matthew, the book he brought back from India, and his right hand is raised in a teacher's gesture, two fingers lifted. Behind him, Alexandria by the sea: a colonnade of the catechetical school, palm trees, the harbour with sailing ships, and the tall white lighthouse of Pharos on its island under a hot, clear blue sky. Wise, humble and luminous; no lettering on the book or anywhere.",
+      "face": "A Sicilian of about seventy with a sun-browned olive complexion and a SHORT, WIDE face like the busts of the old philosophers — a broad, high, DOMED forehead running into a BALD crown with a fringe of white hair over the ears, a SNUB, UPTURNED nose with a broad tip, ROUND, slightly BULGING dark eyes that twinkle under bushy white brows, broad, full cheeks, a wide mouth; a LONG, full, WAVY white beard falling to the breast; the gaze bright, humorous and kind, toward us.",
+      "refs": [
+        "jerome",
+        "athanasius",
+        "thomas_aquinas"
+      ],
+      "basis": "No likeness survives. Michael Burghers's engraving (Wikipedia's lead image) shows an old man in a philosopher's cloak with a long flowing beard; Clement called him 'the Sicilian bee'. The book tells the Sicilian Stoic who became a Christian, head of the school of Alexandria before 179, missionary to the Indies who found there St. Matthew's Gospel in Hebrew left by St. Bartholomew, and died about 216. The snub-nosed, domed philosopher's head, unlike the existing St. Justin's square face, is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pantaenus (lead image: Burghers's engraving)",
+          "url": "https://en.wikipedia.org/wiki/Pantaenus"
+        },
+        {
+          "title": "Wikimedia Commons, St. Pantaenus, etching by G. G. Winckler",
+          "url": "https://commons.wikimedia.org/wiki/File:Saint_Pantaenus._Etching_by_G.G._Winckler_after_F._Sigrist._Wellcome_V0032778.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jul-07-pant-nus-father-of-the-church (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jul-07-pant-nus-father-of-the-church.md"
+        }
+      ],
+      "lifeChapter": "jul-07-pant-nus-father-of-the-church",
+      "catalogMatch": "7 Jul · St. Pantænus"
+    }
+  ]
+}

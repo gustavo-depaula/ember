@@ -38,9 +38,12 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Avitus (17 Jun):** book date; French sources give 19 Dec. [Book date.]
 - [ ] **Juliana Falconieri (19 Jun):** black veil over white wimple per the book's engraving; Wikipedia describes a white veil. [Black.]
 
+- [ ] **Peter of Luxemburg (5 Jul):** the book says "St.", but he was only beatified (1527); his see and hat came from the Avignon antipope. [Card says "Bl. Peter of Luxemburg" / "Beato Pedro de Luxemburgo".] — `dossiers/batch-31.md`
+- [ ] **Bertha of Blangy (4 Jul):** a late story, "not entirely legendary". [Kept.]
+
 ## Excerpts and reflections
 
-- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius.
+- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius, Prosper, William of Monte-Vergine, Gal, Heliodorus, Bertha, Goar.
 - [ ] **Marcella (31 Jan):** excerpt from St. Jerome, Letter 127, with our own pt-BR rendering. [Kept.] — `dossiers/batch-20.md`
 - [ ] **Pope Marcellinus shares a chapter with Cletus,** so both cards show the same reflection (which names neither). [Shared.] — `dossiers/batch-27.md`
 
