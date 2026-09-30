@@ -1,0 +1,421 @@
+{
+  "batch": 44,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-44.md",
+  "cards": [
+    {
+      "id": "advent_sunday",
+      "letter": "A",
+      "name": {
+        "en-US": "Advent Sundays",
+        "pt-BR": "Domingos do Advento"
+      },
+      "patronOf": {
+        "en-US": "The Church awaits the coming of Christ",
+        "pt-BR": "A Igreja espera a vinda de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "To you, I lift up my soul, O my God.",
+        "pt-BR": "A vós, meu Deus, elevo a minha alma."
+      },
+      "excerptSource": "content/of/formularies/tempore/advent/week-1/sunday.json entranceAntiphon (first sentence en-US, first line pt-BR with its comma made a full stop; verbatim otherwise)",
+      "subject": "The First Sunday of Advent: on the stone step before a church altar, an evergreen Advent wreath of fir and holly with red berries and a few pine cones, holding four tall candles — three violet and one rose — only the first violet candle lit, its small flame steady. Behind it the altar, dressed in a violet frontal with a simple gold cross and gold orphreys, two brass candlesticks with plain white candles at its ends and only a little greenery, no flowers on the altar table. Above the altar, a round window shows a deep blue pre-dawn sky over a snowy village with a single bright morning star. No people. Quiet, expectant, nocturnal light. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Advent wreath as the Directory on Popular Piety describes it (four candles lit Sunday by Sunday, 'the prophetic light gradually illuminating the long night'), with the widespread custom of three violet candles and one rose; violet for Advent (GIRM 346d) and the moderate floral decoration GIRM 305 asks for. The subject is the test draft x_advent_sunday, kept.",
+      "sources": [
+        {
+          "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+        },
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        }
+      ],
+      "proper": "tempore.advent.week-1.sunday",
+      "catalogMatch": "Advent — Sunday"
+    },
+    {
+      "id": "advent_weekday",
+      "letter": "A",
+      "name": {
+        "en-US": "Advent Weekdays",
+        "pt-BR": "Dias de semana do Advento"
+      },
+      "patronOf": {
+        "en-US": "Watchful in prayer for the Lord's coming",
+        "pt-BR": "Vigilantes na oração, à espera do Senhor"
+      },
+      "prayerExcerpt": {
+        "en-US": "Come, O Lord, visit us in peace.",
+        "pt-BR": "Vinde, Senhor, visitai-nos na paz."
+      },
+      "excerptSource": "content/of/formularies/tempore/advent/week-1/monday.json communionAntiphon (first clause, verbatim in both languages, full stop added)",
+      "subject": "An early weekday Mass in Advent, before dawn, in a small stone parish church lit only by candles. At the far end, the priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a violet chasuble over a white alb, his hands extended in prayer; a young server in black cassock and white surplice kneels on the step at the side. The altar has a violet frontal, a crucifix and two lit candles, no flowers. In the foreground, half-length and seen from behind or in profile, a few faithful in winter coats and shawls kneel in the wooden pews, each holding a small lit candle: an old woman in a dark headscarf, a young father with his daughter, a nun in a grey habit. The tall windows are still deep blue with the first pale light at their base. Hushed, watchful, warm pools of candlelight in the dark. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The ordinary weekday Mass of Advent in violet (GIRM 346d) with moderate decoration (GIRM 305), set before dawn after the collect of the week's Monday, which asks to be found 'watchful in prayer'. The candles in the pews recall the dawn Advent Masses kept in many places; the Mass shown is the weekday's own, not the Marian votive (Rorate) Mass, which would be white.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "Wikipedia, Rorate Mass",
+          "url": "https://en.wikipedia.org/wiki/Rorate_Mass"
+        }
+      ],
+      "proper": "tempore.advent.week-1.monday",
+      "catalogMatch": "Advent — weekday"
+    },
+    {
+      "id": "gaudete",
+      "letter": "G",
+      "name": {
+        "en-US": "Gaudete Sunday",
+        "pt-BR": "Domingo Gaudete"
+      },
+      "patronOf": {
+        "en-US": "The Third Sunday of Advent",
+        "pt-BR": "O terceiro domingo do Advento"
+      },
+      "prayerExcerpt": {
+        "en-US": "Rejoice in the Lord always; again I say, rejoice. Indeed, the Lord is near.",
+        "pt-BR": "Alegrai-vos sempre no Senhor! Repito, alegrai-vos! O Senhor está próximo."
+      },
+      "excerptSource": "content/of/formularies/tempore/advent/week-3/sunday.json entranceAntiphon (whole, verbatim in both languages)",
+      "subject": "The Third Sunday of Advent. In the foreground, on a low stand beside the altar step, the evergreen Advent wreath with three candles lit — two violet and the ROSE one — and one violet candle still unlit. Behind it, in a brighter church, the priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a ROSE-coloured chasuble with gold orphreys over a white alb, his arms raised in prayer; two servers in cassock and surplice stand at either side of the step. The altar frontal is rose with gold; a crucifix and six tall lit candles on the gradine; a few small sprays of white flowers around the altar, not on it. Soft rose-gold morning light falls through the windows. Joyful but restrained. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin rose ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and rose; no halo",
+      "box": "rose",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "GIRM 346f allows rose 'where it is the practice' on Gaudete Sunday (the repo's formulary gives the day's colour as violet, the obligatory one); the wreath's rose candle is lit this Sunday by custom. Flowers stay moderate, arranged around the altar (GIRM 305).",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+        }
+      ],
+      "proper": "tempore.advent.week-3.sunday",
+      "catalogMatch": "Gaudete (rose)"
+    },
+    {
+      "id": "christmas_sunday",
+      "letter": "C",
+      "name": {
+        "en-US": "Christmas Sundays",
+        "pt-BR": "Domingos do Tempo do Natal"
+      },
+      "patronOf": {
+        "en-US": "The Word made flesh dwells among us",
+        "pt-BR": "O Verbo se fez carne e habitou entre nós"
+      },
+      "prayerExcerpt": {
+        "en-US": "Your all-powerful Word, O Lord, bounded from heaven's royal throne.",
+        "pt-BR": "A vossa palavra onipotente, Senhor, desceu do céu, do vosso trono real."
+      },
+      "excerptSource": "content/of/formularies/tempore/christmas/second-sunday-after-christmas.json entranceAntiphon (second clause, verbatim in both languages, first letter capitalised)",
+      "subject": "A church's Christmas crib at night during a Sunday of Christmas Time. At the side of the sanctuary, a wooden stable with a thatched roof on a bed of straw and moss, with painted carved statues (clearly statues, not living people): the Child in the manger on white linen with arms open, Mary kneeling in blue, Joseph standing with a staff, an ox and a donkey, two shepherds with a lamb; a gilded star hangs above the stable roof. Evergreen boughs, red poinsettias and many small candles glow around it. In front, half-length and seen from behind, a young mother in a Sunday coat kneels at the crib rail holding her small son, who points at the Child; behind the crib, the altar in white and gold with its candles lit. Warm golden light in the dark church, deep blue windows with stars. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin white ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and white; no halo",
+      "box": "white",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Christmas crib set up in churches, which the Directory on Popular Piety commends for Christmastide, shown on a Sunday of the season; white for Christmas Time (GIRM 346a). Carved statues keep the card apart from the living scene of `nativity_christ` and `holy_family`.",
+      "sources": [
+        {
+          "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+        },
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "Wikipedia, Nativity scene",
+          "url": "https://en.wikipedia.org/wiki/Nativity_scene"
+        }
+      ],
+      "proper": "tempore.christmas.second-sunday-after-christmas",
+      "catalogMatch": "Christmas — Sunday"
+    },
+    {
+      "id": "christmas_weekday",
+      "letter": "C",
+      "name": {
+        "en-US": "Christmas Weekdays",
+        "pt-BR": "Dias de semana do Tempo do Natal"
+      },
+      "patronOf": {
+        "en-US": "The light of Christmas on ordinary days",
+        "pt-BR": "A luz do Natal nos dias comuns"
+      },
+      "prayerExcerpt": {
+        "en-US": "Through the tender mercy of our God, the Dawn from on high will visit us.",
+        "pt-BR": "Pela bondade e compaixão de nosso Deus, que sobre nós fará brilhar o Sol nascente."
+      },
+      "excerptSource": "content/of/formularies/tempore/christmas/dec-29.json communionAntiphon (whole, verbatim in both languages)",
+      "subject": "A weekday morning Mass in Christmas Time, at sunrise. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a WHITE chasuble with gold orphreys over a white alb, raising his eyes and hands in prayer; one server in cassock and surplice kneels at the step. The altar has a white frontal with gold embroidery, a crucifix and lit candles, a few evergreen boughs and white flowers around it. At the left, small, the church's Christmas crib under its gilded star. A handful of faithful in winter clothes in the front pews, half-length, seen from behind. The first golden rays of the rising sun stream through a tall east window over the altar, lighting the whole sanctuary. Bright, calm, joyful. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin white ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and white; no halo",
+      "box": "white",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The weekday Masses of Christmas Time in white (GIRM 346a), painted at sunrise after the Benedictus verse of the chosen formulary, 'the Dawn from on high will visit us'; the crib is kept small so the card stays apart from `christmas_sunday`.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+        }
+      ],
+      "proper": "tempore.christmas.dec-29",
+      "catalogMatch": "Christmas — weekday"
+    },
+    {
+      "id": "ordinary_time_1_sunday",
+      "letter": "O",
+      "name": {
+        "en-US": "Ordinary Time I Sundays",
+        "pt-BR": "Domingos do Tempo Comum I"
+      },
+      "patronOf": {
+        "en-US": "The Sundays between Christmas and Lent",
+        "pt-BR": "Os domingos entre o Natal e a Quaresma"
+      },
+      "prayerExcerpt": {
+        "en-US": "All the earth shall bow down before you, O God, and shall sing to you.",
+        "pt-BR": "Toda a terra vos adore com respeito, e proclame o louvor do vosso nome, ó Altíssimo."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json entranceAntiphon (en-US first clause, comma made a full stop; pt-BR whole, its line break joined)",
+      "subject": "A Sunday morning in Ordinary Time outside a small white village church with a bell tower, its bell swinging. Families in their Sunday clothes walk up the path to the open wooden doors: a grandfather with a cane, a young couple with a baby, two children running ahead, a woman carrying a missal; they are small, half-length or seen from behind. Through the open doors, small and deep inside, the altar with lit candles and a priest in a GREEN chasuble. Around the church, green meadows, a few trees and low hills under a clear blue sky with white clouds; bright, peaceful, ordinary daylight. No lettering. Keep the church and everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin green ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and green; no halo",
+      "box": "green",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Green is the colour of Ordinary Time (GIRM 346c); the card shows the Sunday itself, the parish gathering for Mass, rather than a moment of the rite, which the parts-of-the-Mass cards paint. The Second Sunday is chosen as the formulary: the First Sunday of the season gives way to the Baptism of the Lord.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "Wikipedia, Ordinary Time",
+          "url": "https://en.wikipedia.org/wiki/Ordinary_Time"
+        }
+      ],
+      "proper": "tempore.ordinary-time.week-2.sunday",
+      "catalogMatch": "Ordinary Time I — Sunday"
+    },
+    {
+      "id": "ordinary_time_1_weekday",
+      "letter": "O",
+      "name": {
+        "en-US": "Ordinary Time I Weekdays",
+        "pt-BR": "Dias de semana do Tempo Comum I"
+      },
+      "patronOf": {
+        "en-US": "Daily Mass between Christmas and Lent",
+        "pt-BR": "A Missa diária entre o Natal e a Quaresma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Attend to the pleas of your people with heavenly care, O Lord.",
+        "pt-BR": "Senhor, atendei com bondade paterna as preces do vosso povo suplicante."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-1/sunday.json collect, which the week's weekday Masses take (`inheritsOrationsFrom` in week-1/monday.json): en-US opening clause without 'we pray', pt-BR first line; verbatim otherwise",
+      "subject": "An ordinary weekday morning Mass in a simple parish church. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a plain GREEN chasuble over a white alb, holding his hands extended in prayer; one server kneels at the step. The altar is plain stone with a white cloth, a crucifix and two lit candles; a small vase of green leaves beside it. In the pews, a few faithful, half-length and seen from behind or in profile: a workman in a cap held in his hands, a grey-haired woman with a rosary, a schoolgirl with a satchel, a young nurse in her white uniform. Clear, cool morning light through plain windows; on the wall, a sanctuary lamp glowing red beside the tabernacle. Quiet and unhurried. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin green ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and green; no halo",
+      "box": "green",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The daily Mass of Ordinary Time in green (GIRM 346c), with the few faithful who come before work or school. The weekday Masses of the First Week take the collect of the week's own formulary (`inheritsOrationsFrom` in the repo's Mass data).",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        }
+      ],
+      "proper": "tempore.ordinary-time.week-1.monday",
+      "catalogMatch": "Ordinary Time I — weekday"
+    },
+    {
+      "id": "lent_sunday",
+      "letter": "L",
+      "name": {
+        "en-US": "Lenten Sundays",
+        "pt-BR": "Domingos da Quaresma"
+      },
+      "patronOf": {
+        "en-US": "Forty days with Christ in the desert",
+        "pt-BR": "Quarenta dias com Cristo no deserto"
+      },
+      "prayerExcerpt": {
+        "en-US": "When he calls on me, I will answer him.",
+        "pt-BR": "Ele me invocará e eu o ouvirei."
+      },
+      "excerptSource": "content/of/formularies/tempore/lent/week-1/sunday.json entranceAntiphon (first clause, verbatim in both languages, full stop added)",
+      "subject": "A Sunday Mass in Lent in a large stone parish church, stripped and sober. The altar is BARE OF FLOWERS, with a violet frontal, a large crucifix and six tall lit candles. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a VIOLET chasuble over a white alb, his hands joined, with a deacon in a violet dalmatic and two servers at his sides on the steps. In the foreground, half-length and seen from behind, a full congregation kneels in the pews, heads bowed: men, women, children, an old couple. Along the side walls, the small carved Stations of the Cross. Grey-violet morning light through tall windows. Solemn, penitent, still. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Lent in violet (GIRM 346d), with the altar that GIRM 305 forbids to be decorated with flowers in this season; the collect of the First Sunday gives the season's theme, and its Gospel every year is the temptation in the desert, hence the caption.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        }
+      ],
+      "proper": "tempore.lent.week-1.sunday",
+      "catalogMatch": "Lent — Sunday"
+    },
+    {
+      "id": "lent_weekday",
+      "letter": "L",
+      "name": {
+        "en-US": "Lenten Weekdays",
+        "pt-BR": "Dias de semana da Quaresma"
+      },
+      "patronOf": {
+        "en-US": "Daily conversion through the forty days",
+        "pt-BR": "A conversão de cada dia nos quarenta dias"
+      },
+      "prayerExcerpt": {
+        "en-US": "Convert us, O God our Savior.",
+        "pt-BR": "Convertei-nos, ó Deus, nosso Salvador."
+      },
+      "excerptSource": "content/of/formularies/tempore/lent/week-1/monday.json collect (opening words, verbatim in both languages, full stop added)",
+      "subject": "A weekday Mass in Lent in a quiet side chapel on a grey early morning. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a plain VIOLET chasuble over a white alb, bowing slightly as he prays; one server kneels at the step. The small altar has a violet antependium, a wooden crucifix and two lit candles, and NO FLOWERS. On the whitewashed wall, a carved wooden Station of the Cross (Jesus falls) without lettering. A few faithful kneel half-length in the foreground, seen from behind or in profile: a man in a worn work jacket with his head bowed, an elderly woman with a black lace veil and a rosary, a young woman with joined hands. Cold, soft light from a single high window; bare and sober, but peaceful. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The weekday Mass of Lent in violet (GIRM 346d) with the flowerless altar of GIRM 305; the Stations of the Cross, a devotion the Directory on Popular Piety ties to Lent, are painted as part of the chapel's walls, not as a service.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+        }
+      ],
+      "proper": "tempore.lent.week-1.monday",
+      "catalogMatch": "Lent — weekday"
+    },
+    {
+      "id": "laetare",
+      "letter": "L",
+      "name": {
+        "en-US": "Laetare Sunday",
+        "pt-BR": "Domingo Laetare"
+      },
+      "patronOf": {
+        "en-US": "The Fourth Sunday of Lent",
+        "pt-BR": "O quarto domingo da Quaresma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Rejoice, Jerusalem, and all who love her.",
+        "pt-BR": "Alegra-te, Jerusalém! Reuni-vos, vós todos que a amais!"
+      },
+      "excerptSource": "content/of/formularies/tempore/lent/week-4/sunday.json entranceAntiphon (first sentence en-US; first two lines pt-BR, joined; verbatim)",
+      "subject": "The Fourth Sunday of Lent: a stone parish church in which, for this one Sunday, the Lenten sobriety lifts a little. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a ROSE-coloured chasuble with gold orphreys over a white alb, his arms raised in prayer; two servers kneel at the steps. The altar frontal is rose with gold; a crucifix and six tall lit candles; for the first time in Lent, two vases of pale spring blossom (almond and white lilies) stand beside the altar, not on it. In the organ loft at the side, small, an organist at the pipes. In the foreground, half-length and seen from behind, a congregation in the pews, a child looking up at the flowers. Clear spring light, pale rose and gold, through tall windows. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin rose ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and rose; no halo",
+      "box": "rose",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "GIRM 346f allows rose on Laetare Sunday where it is the practice (the repo's formulary gives violet, the obligatory colour); GIRM 305 and 313 make Laetare the Lenten exception for flowers at the altar and for the organ played alone, which the card paints.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        }
+      ],
+      "proper": "tempore.lent.week-4.sunday",
+      "catalogMatch": "Laetare (rose)"
+    }
+  ]
+}

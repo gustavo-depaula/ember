@@ -16,7 +16,10 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Legend-based chapters kept (batch 32):** Margaret of Antioch (story "generally regarded fictitious"; card leaves out the dragon), Christina of Bolsena (only name and burial known), Alexius (Martyrology: "as reported by tradition"); softer: Felicitas as mother of the Seven Brothers, the Simon Stock scapular vision. All remain in the Martyrology. [Kept; replacements would be Nazarius and Celsus, then Germanus.] — `dossiers/batch-32.md`
 - [ ] **Susanna (11 Aug):** Acts "of no historical value"; the Martyrology keeps her only as a commemoration tied to her Roman church. [Kept, with Tiburtius; replacement would be Hyacinth.] — `dossiers/batch-33.md`
 - [ ] **Eusebius (14 Aug):** the chapter tells two saints (Eusebius of Rome, then a Palestinian martyr priest). [Card is Eusebius of Rome, per the engraving and the Martyrology.]
-- [ ] **The Consecration card** (test drawing) shows the priest ad orientem. Is that the depiction you want? [Undecided.]
+- [ ] **Ad orientem on every card with a priest at the altar** (the Consecration test drawing and 7 of batch 44's 10 season cards). The rite allows both; GIRM 299 calls versus populum "desirable wherever possible"; the priest is seen from behind or in profile, as the brief asks. [Ad orientem.] — `dossiers/batch-44.md`
+- [ ] **Rose for Gaudete and Laetare.** The repo's formularies give violet (obligatory); rose "may be used, where it is the practice" (GIRM 346f). [Rose.]
+- [ ] **Season card names** keep the season's letter as initial: "Advent Sundays", "Lenten Weekdays", "Ordinary Time I Sundays" ("Domingos do Advento", …). [As stated.]
+- [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
 
