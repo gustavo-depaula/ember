@@ -1,0 +1,462 @@
+{
+  "batch": 26,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-26.md",
+  "cards": [
+    {
+      "id": "julius_i",
+      "letter": "J",
+      "feast": {
+        "month": 4,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Julius",
+        "pt-BR": "São Júlio"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Julius was a Roman, and chosen Pope on the 6th of February in 337.",
+        "pt-BR": "São Júlio era romano, e foi escolhido Papa no dia 6 de fevereiro de 337."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-12-julius.md, first sentence (the chapter has no Reflection, so the card carries none; the index has no reflection for 04-12) (Pictorial Lives, public domain)",
+      "subject": "St. Julius, Bishop of Rome, half-length, as a fourth-century pope: a white tunic and a full, bell-shaped chasuble of deep crimson, a narrow white pallium with small black crosses over his shoulders; in his right hand a folded letter sealed with a disc of red wax, his letter to the bishops of the East in defence of St. Athanasius, held a little forward as if handing it to a messenger; in his left, a closed book of the Gospels bound in gold. Behind him, Rome across the Tiber: a plain, early brick basilica with a low gabled front and a small porch among red-tiled roofs, cypresses and umbrella pines, the river and an old stone bridge, under a clear, late-afternoon sky. Firm and just; no lettering.",
+      "face": "A Roman of about sixty with a warm olive complexion and a face that WIDENS DOWNWARD — NARROW temples and a moderate, rounded forehead above a BROAD, BONY, ANGULAR JAW whose corners stand out clearly under the beard, so the face reads as a trapezoid, broad at the base; a long, straight nose ending in a slightly FULL, rounded tip, SMALL, ROUND, dark-brown eyes set CLOSE together under single, smoothly ARCHED dark brows, flat cheeks, a WIDE, THIN-LIPPED, straight mouth; dark-brown hair cut short in a round clerical tonsure, a SHORT, close-trimmed dark-brown beard greying at the chin that follows the angle of the jaw; the gaze steady and direct, toward us.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "charles_borromeo"
+      ],
+      "basis": "The twelfth-century apse mosaic of Santa Maria in Trastevere (Wikipedia's lead image) (the file named for Julius on Wikipedia) shows him tonsured, with a short dark beard, holding a book; the card keeps the tonsure and beard. That church, whose apse mosaic dates from 1130–1143, was rebuilt on a larger scale by Julius in 340 (Wikipedia), so the background is a plain early brick basilica in Trastevere. The book tells his defence of Athanasius at the Roman synod, his letter to the Eusebian bishops and the Council of Sardica; its engraving shows him seated at a desk writing, a monk at the door. The face widening to a bony, angular jaw is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Julius I (lead image: mosaic of Santa Maria in Trastevere)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Julius_I"
+        },
+        {
+          "title": "Wikipedia, Santa Maria in Trastevere (rebuilt by Julius I in 340; apse mosaic 1130–1143)",
+          "url": "https://en.wikipedia.org/wiki/Santa_Maria_in_Trastevere"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-12-julius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-12-julius.md"
+        }
+      ],
+      "lifeChapter": "apr-12-julius",
+      "catalogMatch": "St. Julius, Pope"
+    },
+    {
+      "id": "hermenegild",
+      "letter": "H",
+      "feast": {
+        "month": 4,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Hermenegild",
+        "pt-BR": "São Hermenegildo"
+      },
+      "patronOf": {
+        "en-US": "Prince and martyr",
+        "pt-BR": "Príncipe e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Hermenegild teaches us that constancy and sacrifice are the best arguments for the Faith, and the surest way to win souls to God.",
+        "pt-BR": "São Hermenegildo nos ensina que a constância e o sacrifício são os melhores argumentos pela Fé, e o caminho mais seguro para ganhar almas para Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-13-hermenegild.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Hermenegild, Visigothic prince, half-length, as a young king's son of sixth-century Spain in his prison: a knee-length tunic of deep blue wool with a broad woven border, a crimson cloak fastened at the shoulder with a round gold brooch, a plain iron fetter on each wrist joined by a short chain; in his right hand a small, plain wooden cross held to his breast, in his left a martyr's palm. Behind him, the round arch of his cell opens onto Seville by night: the broad Guadalquivir, Roman walls and low towers, and from the cell a soft, clear light streaming out into the dark, as the Christians saw it on Easter night. Serene and resolute; no axe, no executioner, no crown on his head, no lettering.",
+      "face": "A Visigoth of about thirty with a fair, lightly sun-browned complexion and a LONG, FLAT-CHEEKED face that ends in a STRONG, PROJECTING, rounded chin — a broad, smooth forehead, a straight nose with a LOW, FLAT bridge sitting between VERY WIDE-SET, pale green eyes, long, flat cheeks without prominent cheekbones, a BROAD mouth with thin, firm lips; thick, straight reddish-blond hair falling to the shoulders in the Gothic manner, a short, neat reddish-blond beard along the jaw; the gaze calm and far-off, lifted a little above us.",
+      "refs": [
+        "george",
+        "sebastian",
+        "francis_xavier"
+      ],
+      "basis": "No likeness survives. Wikipedia's lead image is Herrera the Younger's 'Triumph of St. Hermenegild', a young prince rising in glory; the book tells his conversion through his wife, his fetters and dungeon at Seville, his refusal of Communion from an Arian bishop on Easter night and the light seen from his cell; its engraving shows his death-stroke in the cell. The long flat-cheeked face with the wide-set eyes and projecting chin, and the long Gothic hair, are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hermenegild (lead image: Herrera the Younger, Triumph of St. Hermenegild)",
+          "url": "https://en.wikipedia.org/wiki/Hermenegild"
+        },
+        {
+          "title": "Wikipedia, Seville",
+          "url": "https://en.wikipedia.org/wiki/Seville"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-13-hermenegild (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-13-hermenegild.md"
+        }
+      ],
+      "lifeChapter": "apr-13-hermenegild",
+      "catalogMatch": "St. Hermenegild, Martyr"
+    },
+    {
+      "id": "benezet",
+      "letter": "B",
+      "feast": {
+        "month": 4,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Benezet",
+        "pt-BR": "São Benezet"
+      },
+      "patronOf": {
+        "en-US": "Shepherd and bridge-builder",
+        "pt-BR": "Pastor e construtor de pontes"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us pray for perseverance in good works.",
+        "pt-BR": "Oremos pela perseverança nas boas obras."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-14-benezet-or-little-bennet.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Benezet, the shepherd boy of Avignon, half-length: a short, belted tunic of undyed brown wool, a rough sheepskin cape over his shoulders, a shepherd's crook in his left hand; on his right shoulder, steadied with his right hand, a great squared block of pale stone, the first stone of his bridge, carried without strain. Behind him, the broad, fast, blue-green Rhône with the first stone arches of a bridge rising from the water, masons' scaffolding on them, and the rock above Avignon with a small Romanesque church and the town walls; a few sheep grazing on the near bank, under a bright, windy Provençal sky. Simple and trusting; no crowds, no lettering.",
+      "face": "A Provençal shepherd boy of about fifteen, visibly a boy, beardless, sun-browned and lightly FRECKLED across the nose, with a NARROW, LONG, BONY young face tapering to a small, POINTED chin — a high, narrow forehead, a thin, straight nose, very LARGE, clear hazel eyes, thin straight brows bleached pale by the sun, slightly hollow cheeks, a wide, thin mouth in a faint smile, rather LARGE ears standing out from the head; short, straight, sun-bleached straw-coloured hair cut round in a fringe; the gaze open and earnest, toward us.",
+      "refs": [
+        "aloysius_gonzaga",
+        "francis_assisi",
+        "anthony_padua"
+      ],
+      "basis": "No likeness survives. The book calls him a mere child keeping his mother's sheep when he was inspired to build the bridge; its engraving shows a shepherd boy with his flock before Avignon. The statue on Wikipedia's article shows him young, carrying a great stone on his shoulder, the legend of the first stone. The narrow, freckled face with the pointed chin is our choice, apart from `pancras`'s round boy's face.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bénézet (lead image: statue at Notre-Dame des Doms, Avignon)",
+          "url": "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
+        },
+        {
+          "title": "Wikipedia (fr), Bénézet d'Avignon",
+          "url": "https://fr.wikipedia.org/wiki/B%C3%A9n%C3%A9zet_d%27Avignon"
+        },
+        {
+          "title": "Wikipedia, Pont Saint-Bénézet",
+          "url": "https://en.wikipedia.org/wiki/Pont_Saint-B%C3%A9n%C3%A9zet"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-14-benezet-or-little-bennet (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-14-benezet-or-little-bennet.md"
+        }
+      ],
+      "lifeChapter": "apr-14-benezet-or-little-bennet",
+      "catalogMatch": "St. Benezet, or Little Bennet"
+    },
+    {
+      "id": "paternus_avranches",
+      "letter": "P",
+      "feast": {
+        "month": 4,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Paternus",
+        "pt-BR": "São Paterno"
+      },
+      "patronOf": {
+        "en-US": "Monk and bishop",
+        "pt-BR": "Monge e bispo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Blessed are the peacemakers, for they shall be called the children of God.",
+        "pt-BR": "Bem-aventurados os pacíficos, porque serão chamados filhos de Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-15-paternus.md Reflection, the Gospel words it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Paternus, hermit and Bishop of Avranches, half-length, as an old sixth-century monk-bishop: a plain dark-brown monastic habit with a hood laid back, over it a simple bishop's chasuble of undyed cream wool with a narrow red border, a plain wooden pastoral staff with a curled head in his left hand; his right hand open, palm out, in a gesture of peace. Behind him, the coast of the Cotentin near Avranches: a wide, silvery tidal bay, dark oak forest running down to the shore, a small wooden chapel with a thatched roof at the forest's edge, and far out in the bay a lone granite rock with no buildings on it, under a soft, grey-blue sea sky. Peaceable and weathered; no temple, no idols, no lettering.",
+      "face": "A Gallo-Roman of about seventy, weathered by sea wind, with a ruddy, fair complexion and a LONG, SHIELD-SHAPED face — a STRAIGHT, HORIZONTAL line of broad, FLAT cheekbones set HIGH, the sides of the face falling almost PARALLEL below them and curving into a broad, rounded chin; a very HIGH, flat forehead; NARROW, pale-grey eyes, SLANTING slightly upward at the outer corners and creased from squinting at the sea, under thin, straight white brows; a thin, long, straight nose; a small, closed mouth; thin white hair cut short round a bald crown; a LONG, NARROW, straight white beard to the breast; the gaze mild and peaceable, a little to the side.",
+      "refs": [
+        "patrick",
+        "anthony_abbot",
+        "martin_tours"
+      ],
+      "basis": "No likeness survives. The book tells his birth at Poitiers, his monastery in Wales (Llanbadarn), his hermitage with St. Scubilion in the forest of Scicy near the sea, his mission as far as Bayeux, his consecration as Bishop of Avranches, and his retirement to keep the peace; its engraving shows a bishop between a monk and a man with a scroll among ruins. Wikipedia's Padarn holds that the Welsh Padarn appears to be the same man as Paternus of Avranches; its lead image is a modern icon of a bearded bishop. The shield-shaped face with the high, flat cheekbone line and slanting grey eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Padarn (identified with Paternus of Avranches; lead image: modern icon)",
+          "url": "https://en.wikipedia.org/wiki/Padarn"
+        },
+        {
+          "title": "Wikipedia, Avranches",
+          "url": "https://en.wikipedia.org/wiki/Avranches"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-15-paternus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-15-paternus.md"
+        }
+      ],
+      "lifeChapter": "apr-15-paternus",
+      "catalogMatch": "St. Paternus, Bishop"
+    },
+    {
+      "id": "saragossa_martyrs",
+      "letter": "E",
+      "feast": {
+        "month": 4,
+        "day": 16
+      },
+      "name": {
+        "en-US": "The Eighteen Martyrs of Saragossa and St. Engratia",
+        "pt-BR": "Os Dezoito Mártires de Saragoça e Santa Engrácia"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyrs",
+        "pt-BR": "Virgem e mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "If we persevere in these, Paradise is ours.",
+        "pt-BR": "Se nelas perseverarmos, o Paraíso é nosso."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-16-eighteen.md Reflection, last sentence (Pictorial Lives, public domain)",
+      "subject": "St. Engratia and St. Optatus, first of the eighteen martyrs of Saragossa, side by side, half-length. ENGRATIA (left, a little forward): a young noblewoman of Roman Hispania in a long gown of deep rose-red with a gold-embroidered border at the neck, a fine white travelling veil over her hair and shoulders, a martyr's palm in her right hand, her left hand on her breast. OPTATUS (right): a mature man of Roman Saragossa in a white tunic and a plain grey-brown cloak, a martyr's palm in his hand. Behind them, a little way back and small, a close group of their companions, men in plain tunics and cloaks, each holding a palm; beyond, the walls and gate of Roman Caesaraugusta on the broad river Ebro, with poplars along the bank, under a clear, bright spring sky. Serene and steadfast; no wounds, no hooks, no soldiers, no fire, no lettering.",
+      "face": "Two clearly different people of Roman Hispania with warm, light-olive skin. ENGRATIA (left): a young woman of about twenty with a LONG, OVAL face and a FIRM, SQUARE-TIPPED chin — a smooth, high forehead, a STRONG, STRAIGHT, rather long Iberian nose with a HIGH bridge, large, dark-brown eyes under LOW, nearly STRAIGHT dark brows, smooth, flat cheeks, a full, grave mouth; dark-chestnut hair braided and pinned up under the veil; the gaze level and fearless, toward us. OPTATUS (right): a man of about fifty-five with a ROUND, DOMED, BALD head and a SHORT, BROAD face — a BROAD, FLAT nose, small, DEEP-SET, kindly dark eyes under thick grey brows, full cheeks, a wide mouth, SLIGHTLY PROMINENT ears; a fringe of cropped grey hair and a SHORT, CURLY grey beard; the gaze turned toward Engratia.",
+      "refs": [
+        "philip_james",
+        "agnes",
+        "lucy"
+      ],
+      "basis": "No likenesses survive. The book tells Optatus and seventeen companions martyred at Saragossa under Dacian in 304, and Engratia of Portugal who fled a marriage to Saragossa, reproached Dacian and died of her torments; its engraving shows her, veiled, slipping out of her father's house. Wikipedia names her companions and gives Bartolomé Bermejo's panel of her as a crowned young noblewoman with a palm (the Spanish article's lead image). The two faces, a long, square-chinned young woman and a round, bald older man, are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Engratia (the companions; the Santas Masas)",
+          "url": "https://en.wikipedia.org/wiki/Engratia"
+        },
+        {
+          "title": "Wikipedia (es), Engracia de Zaragoza (lead image: Bartolomé Bermejo, Santa Engracia)",
+          "url": "https://es.wikipedia.org/wiki/Engracia_de_Zaragoza"
+        },
+        {
+          "title": "Wikipedia (es), Mártires de Zaragoza (Optatus and the names of the eighteen)",
+          "url": "https://es.wikipedia.org/wiki/M%C3%A1rtires_de_Zaragoza"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-16-eighteen (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-16-eighteen.md"
+        }
+      ],
+      "lifeChapter": "apr-16-eighteen",
+      "catalogMatch": "Eighteen Martyrs of Saragossa"
+    },
+    {
+      "id": "anicetus",
+      "letter": "A",
+      "feast": {
+        "month": 4,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Anicetus",
+        "pt-BR": "Santo Aniceto"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "His vigilance protected his flock from the wiles of the heretics Valentine and Marcion.",
+        "pt-BR": "Sua vigilância protegeu seu rebanho das astúcias dos hereges Valentim e Marcião."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-17-anicetus.md, first paragraph, last sentence, closed with a full stop after 'Marcion' / 'Marcião' (the day's Reflection has no clause that stands alone: its second sentence hangs on 'this rule' in the first) (Pictorial Lives, public domain)",
+      "subject": "St. Anicetus, Bishop of Rome, half-length, as a second-century pope: a white tunic and a full, bell-shaped chasuble of deep crimson, a narrow white pallium with small black crosses; a shepherd's staff with a plain curled head in his left hand, a closed book of the Gospels held against his breast with his right. Behind him, second-century Rome by the Tiber: the Aelian bridge and the great round drum of Hadrian's mausoleum across the river, with umbrella pines and cypresses on the far bank, under a warm, golden evening sky. Watchful and fatherly; no Polycarp, no wounds, no lettering.",
+      "face": "A Syrian of Emesa, about sixty-five, with a warm, olive-brown complexion and a TALL, NARROW, EGG-SHAPED head, broadest across the upper face — a high, SLOPING forehead, a LONG, THIN, gently ARCHED nose with a narrow bridge, LARGE, dark, luminous eyes with HEAVY LOWER LIDS under THICK, black-and-grey brows that ARCH HIGH toward the temples, lean cheeks, NOTICEABLY FULL, wide lips; black-and-grey hair CROPPED VERY SHORT, close to the skull; a long, full, gently curling black beard streaked with grey, falling to the breast; the gaze watchful and grave, toward us.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "No likeness survives. Wikipedia (after the Liber Pontificalis) makes him a Syrian of Emesa who decreed that clergy should not wear long hair, and records Polycarp's visit over the Easter question; its lead image is a Baroque statue of an old, bearded pope. The book tells the same visit and his vigilance against Valentine and Marcion; its engraving shows him seated with a standing visitor. The cropped hair follows the decree; the narrow, egg-shaped face with the full lips and high-arched brows is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Anicetus (lead image: statue at Wolnzach)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Anicetus"
+        },
+        {
+          "title": "Wikipedia, Castel Sant'Angelo (Hadrian's mausoleum, completed 139)",
+          "url": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-17-anicetus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-17-anicetus.md"
+        }
+      ],
+      "lifeChapter": "apr-17-anicetus",
+      "catalogMatch": "St. Anicetus, Pope, Martyr"
+    },
+    {
+      "id": "apollonius",
+      "letter": "A",
+      "feast": {
+        "month": 4,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Apollonius",
+        "pt-BR": "Santo Apolônio"
+      },
+      "patronOf": {
+        "en-US": "Senator and martyr",
+        "pt-BR": "Senador e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Every Christian ought, by his manner, to bear witness to the sanctity of his faith.",
+        "pt-BR": "Todo cristão deveria, por seu modo de viver, dar testemunho da santidade de sua fé."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-18-apollonius.md Reflection, third sentence (Pictorial Lives, public domain)",
+      "subject": "St. Apollonius, Roman senator and philosopher, half-length, as a senator of the age of Commodus: a white tunic with the broad purple stripe of his rank, a white toga draped over his left shoulder and arm; in his left hand a rolled scroll, the defence of the faith he read before the Senate, his right hand raised, open, as one speaking calmly. Behind him, the Roman Forum: the plain brick front of the Senate house with its bronze doors, marble columns and temples, the Capitol rising beyond, under a clear morning sky. Composed and courteous, a philosopher; no sword, no lettering.",
+      "face": "A Roman of about fifty with a fair olive complexion and a BROAD, SHORT, ROUND-JAWED face like an Antonine portrait bust — a wide, low forehead with the hair growing forward on it, full, rounded cheeks, a SHORT, THICK, straight nose, LARGE, slightly PROMINENT eyes under HEAVY, half-lowered upper lids, giving the dreamy, thoughtful look of the portraits of his day, soft, level brown brows, a small, full mouth; thick, dark-brown hair in short, crisp curls, a SHORT, close, curly dark-brown beard trimmed to the line of the round jaw; the gaze calm and inward, a little to the side.",
+      "refs": [
+        "thomas_aquinas",
+        "ignatius_loyola",
+        "sebastian"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image shows another Apollonius. The Roman Martyrology (quoted on Wikipedia) calls him 'philosopher and martyr', who defended the faith before the Prefect Perennis and the Senate under Commodus; the book makes him a senator versed in philosophy and Scripture, and its engraving shows him in a toga before a seated Roman. The card follows the book's rank (the broad stripe) and the fashion of Antonine portraits for the short curly beard and heavy-lidded eyes. The broad, short, round-jawed face is our choice, apart from `justin`, the other philosopher-martyr.",
+      "sources": [
+        {
+          "title": "Wikipedia, Apollonius the Apologist (the Roman Martyrology entry)",
+          "url": "https://en.wikipedia.org/wiki/Apollonius_the_Apologist"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-18-apollonius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-18-apollonius.md"
+        }
+      ],
+      "lifeChapter": "apr-18-apollonius",
+      "catalogMatch": "St. Apollonius, Martyr"
+    },
+    {
+      "id": "elphege",
+      "letter": "E",
+      "feast": {
+        "month": 4,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Elphege",
+        "pt-BR": "Santo Elfego"
+      },
+      "patronOf": {
+        "en-US": "Archbishop and martyr",
+        "pt-BR": "Arcebispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Better give up to the poor what is ours, than take from them the little which is their own.",
+        "pt-BR": "Melhor dar aos pobres o que é nosso, do que tomar deles o pouco que é seu."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-19-elphege.md, third paragraph, the saint's own words refusing the ransom (the day's Reflection says the same of him in the book's words) (Pictorial Lives, public domain)",
+      "subject": "St. Elphege, Archbishop of Canterbury, half-length, as an Anglo-Saxon archbishop of about 1010: a white alb and a full, bell-shaped chasuble of deep green silk with a gold orphrey, the white pallium with black crosses over it, a low white mitre; a plain gilt crozier in his left hand; in the gathered fold of the chasuble at his right side a few smooth grey stones, as he is traditionally shown. Behind him, the Thames at Greenwich: a broad, grey river with a few Danish longships with striped sails moored along the muddy bank, low green hills and a small timber church, under a pale, cloudy spring sky. Gentle and resolute; no blood, no axe, no raiders' violence, no lettering.",
+      "face": "An Anglo-Saxon of about fifty-eight, CLEAN-SHAVEN, with a fair, pale complexion and a SHORT, WIDE face under a PROMINENT, ROUNDED, forward-bulging brow — WIDE-SET, heavy-lidded pale-blue eyes sheltered beneath it, light, sparse brows, a SHORT, straight nose, broad, smooth cheeks, a small, gentle mouth and a SMALL, TUCKED-IN chin; fine, fair-grey hair in a monk's crown round the tonsure, showing below the mitre; the gaze gentle and forgiving, toward us.",
+      "refs": [
+        "ambrose",
+        "charles_borromeo",
+        "augustine"
+      ],
+      "basis": "No likeness survives. Wikipedia tells his monastic life at Deerhurst and Bath, his seven months' captivity after the sack of Canterbury, his refusal to be ransomed and his death at Greenwich in 1012, and notes that he is shown holding stones in his chasuble. The book gives his words refusing to tax his tenants, which are the card's excerpt; its engraving shows him praying among Danish archers on a city wall. The short, wide face under the rounded, bulging brow is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Ælfheah of Canterbury (iconography: stones in his chasuble)",
+          "url": "https://en.wikipedia.org/wiki/%C3%86lfheah_of_Canterbury"
+        },
+        {
+          "title": "Wikipedia, St Alfege Church, Greenwich",
+          "url": "https://en.wikipedia.org/wiki/St_Alfege_Church,_Greenwich"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-19-elphege (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-19-elphege.md"
+        }
+      ],
+      "lifeChapter": "apr-19-elphege",
+      "catalogMatch": "St. Elphege, Archbishop"
+    },
+    {
+      "id": "marcellinus_embrun",
+      "letter": "M",
+      "feast": {
+        "month": 4,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Marcellinus of Embrun",
+        "pt-BR": "São Marcelino de Embrun"
+      },
+      "patronOf": {
+        "en-US": "Missionary bishop",
+        "pt-BR": "Bispo missionário"
+      },
+      "prayerExcerpt": {
+        "en-US": "Though you may not be called upon to preach, at least endeavor to set a good example, remembering that deeds often speak louder than words.",
+        "pt-BR": "Embora possais não ser chamados a pregar, ao menos esforçai-vos por dar bom exemplo, lembrando-vos de que as obras falam muitas vezes mais alto do que as palavras."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-20-marcellinus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Marcellinus, first Bishop of Embrun, half-length, as a fourth-century missionary bishop: a white tunic, a full chasuble of warm ochre-gold wool with a narrow red border, a plain wooden pastoral staff in his left hand; his right arm extended, pointing up the valley toward the mountains, as when he sent Vincent and Domninus to preach where he could not go. Behind him, the high Alpine valley of the Durance: the rock of Embrun with a small stone chapel and a few houses on it above the green-grey river, pine-dark slopes and snow-capped peaks, under a clear, cold blue sky. Zealous and fatherly; no lettering.",
+      "face": "A Berber of Africa Proconsularis, about sixty, with a warm, deep olive-bronze complexion and a LONG, FINE-BONED, NARROW face — a high forehead, a NARROW, HIGH-BRIDGED, very STRAIGHT nose, LIGHT HAZEL-GREEN eyes, striking against the dark skin, set rather deep under straight black-and-grey brows, lean cheeks with fine, sharp cheekbones, a firm mouth, a SMALL, NEAT, pointed chin; tightly curled black hair greying at the temples, cut short; a SHORT, close, curly black-and-grey beard; the gaze keen and eager, toward the mountains.",
+      "refs": [
+        "augustine",
+        "patrick",
+        "martin_tours"
+      ],
+      "basis": "No likeness survives; Wikipedia's French article (whose lead image is a seal of Embrun's later archbishops) calls him of Berber origin, a native of Africa Proconsularis, who came to Gaul with Vincent and Domninus and became the first Bishop of Embrun. The book tells the same, his chapel and nights of prayer, and his sending the two to preach; its engraving shows a bishop blessing two departing companions below mountains. The long, fine-boned face with the light eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Marcellinus of Gaul",
+          "url": "https://en.wikipedia.org/wiki/Marcellinus_of_Gaul"
+        },
+        {
+          "title": "Wikipedia (fr), Marcellin d'Embrun (of Berber origin; feast 20 April)",
+          "url": "https://fr.wikipedia.org/wiki/Marcellin_d%27Embrun"
+        },
+        {
+          "title": "Wikipedia, Embrun Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Embrun_Cathedral"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-20-marcellinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-20-marcellinus.md"
+        }
+      ],
+      "lifeChapter": "apr-20-marcellinus",
+      "proper": "sanctorale.04-20.africa",
+      "catalogMatch": "St. Marcellinus, Bishop"
+    },
+    {
+      "id": "soter",
+      "letter": "S",
+      "feast": {
+        "month": 4,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Soter",
+        "pt-BR": "São Sótero"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "By the sweetness of his discourses he comforted all persons with the tenderness of a father.",
+        "pt-BR": "Pela doçura de seus discursos, consolava a todos com a ternura de um pai."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-22-soter.md, first paragraph, the first clause of its second sentence, closed with a full stop (the chapter has no Reflection, so the card carries none; the index has no reflection for 04-22) (Pictorial Lives, public domain)",
+      "subject": "St. Soter, Bishop of Rome, half-length, as a second-century pope: a white tunic and a full, bell-shaped chasuble of deep crimson, a narrow white pallium with small black crosses; in his right hand a small leather purse of alms held out, in his left a rolled letter tied with a cord, his letter to the Church of Corinth. Behind him, the harbour of Ostia: a stone quay, a Roman merchant ship with a square sail making ready to sail east for Corinth, warehouses of red brick and a lighthouse, under a bright, breezy sky. Fatherly and generous; no lettering.",
+      "face": "A Roman of Greek family from Fondi, about sixty, with a warm, light-olive complexion and a SOFT, HEART-SHAPED face — a BROAD, smooth forehead and full temples, FULL, soft, rounded cheeks tapering to a SMALL, rounded chin; very LARGE, gentle, dark-brown eyes that TURN DOWN at the outer corners under softly RAISED, curved brows, a SMALL, fine, straight nose, a small, soft mouth in a tender smile; soft, wavy silver-grey hair cut short; a MEDIUM, soft, wavy silver-grey beard, rounded at the tip; the gaze tender and fatherly, toward us.",
+      "refs": [
+        "nicholas",
+        "gregory_great",
+        "vincent_de_paul"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image is a silver reliquary bust of a bearded pope, and it gives his birth at Fondi into a Greek family, his alms to the Church of Corinth, and the Roman Martyrology's praise of his charity to exiles and those condemned to the mines. The book tells the sweetness of his discourses, his alms and his letter to Corinth, read there on Sundays; its chapter has no engraving. The soft, heart-shaped face with the down-turned eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Soter (lead image: reliquary bust; the Roman Martyrology entry)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Soter"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-22-soter (chapter, public domain; no engraving)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-22-soter.md"
+        }
+      ],
+      "lifeChapter": "apr-22-soter",
+      "catalogMatch": "St. Soter, Pope, Martyr"
+    }
+  ]
+}
