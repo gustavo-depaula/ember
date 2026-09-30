@@ -1,0 +1,41 @@
+{
+  "id": "holy_relics",
+  "feast": {
+    "month": 11,
+    "day": 8
+  },
+  "name": {
+    "en-US": "The Holy Relics",
+    "pt-BR": "As Santas Relíquias"
+  },
+  "patronOf": {
+    "en-US": "The saints honoured in their relics",
+    "pt-BR": "Os santos honrados em suas relíquias"
+  },
+  "prayerExcerpt": {
+    "en-US": "The bodies of the martyrs and other Saints were living members of Jesus Christ and temples of the Holy Ghost.",
+    "pt-BR": "Os corpos dos mártires e demais Santos foram membros vivos de Jesus Cristo e templos do Espírito Santo."
+  },
+  "lifeChapter": "nov-08-the-feast-of-the-holy-relics",
+  "meta": {
+    "face": "The bearers and servers are secondary and differ: the front bearer, about thirty, with a long face and short dark hair in profile; the bearer beside him, about fifty, with a broad ruddy face and grey temples; a fair, round-faced boy server of about twelve with the censer; the priest in the gold cope, about sixty-five, clean-shaven with a lean, narrow face and white hair, eyes lowered.",
+    "basis": "The Pictorial Lives explains the feast by the Council of Trent's teaching that the bodies of the saints are to be honoured. The card paints that honour in a real rite: the relics procession of Maastricht, where the reliquary chest of St. Servatius, the Noodkist, is carried in procession (photographed under its canopy in 1962) and then set on the choir steps.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-08-the-feast-of-the-holy-relics.md, first paragraph: the relative clause 'the bodies of the martyrs and other Saints, who were living members of Jesus Christ and temples of the Holy Ghost' ('os corpos dos mártires e demais Santos, que foram membros vivos de Jesus Cristo e templos do Espírito Santo') made a sentence; the index day 11-08 has no reflection",
+    "sources": [
+      {
+        "title": "Wikipedia, Pilgrimage of the Relics, Maastricht (Noodkist carried in the 1962 procession, photo consulted)",
+        "url": "https://en.wikipedia.org/wiki/Pilgrimage_of_the_Relics,_Maastricht"
+      },
+      {
+        "title": "Wikipedia, Basilica of Saint Servatius",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Saint_Servatius"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}

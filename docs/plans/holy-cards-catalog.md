@@ -31,7 +31,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 17 Jan · Saint Anthony, abbot · *Santo Antão, abade* · memorial — `anthony_abbot`
 - [x] 21 Jan · Saint Agnes, virgin and martyr · *Santa Inês, virgem e mártir* · memorial — `agnes`
 - [x] 24 Jan · Saint Francis de Sales, bishop and doctor of the Church · *São Francisco de Sales, bispo e doutor da Igreja* · memorial — `francis_de_sales`
-- [ ] 25 Jan · The Conversion of Saint Paul, Apostle · *Conversão de São Paulo, apóstolo* · feast
+- [x] 25 Jan · The Conversion of Saint Paul, Apostle · *Conversão de São Paulo, apóstolo* · feast — `conversion_paul`
 - [x] 26 Jan · Ss. Timothy and Titus, bishops · *Santos Timóteo e Tito, bispos* · memorial — `timothy_titus`
 - [x] 28 Jan · Saint Thomas Aquinas, priest and doctor of the Church · *Santo Tomás de Aquino, presbítero e doutor da Igreja* · memorial — `thomas_aquinas`
 - [x] 31 Jan · Saint John Bosco, priest · *São João Bosco, presbítero* · memorial — `john_bosco`
@@ -39,7 +39,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 6 Feb · Ss Paul Miki and companions, martyrs · *São Paulo Miki e companheiros, mártires* · memorial — `paul_miki`
 - [x] 10 Feb · Saint Scholastica, virgin · *Santa Escolástica, virgem* · memorial — `scholastica`
 - [x] 14 Feb · Ss Cyril, monk, and Methodius, bishop · *Santos Cirilo, monge, e Metódio, bispo* · feast — `cyril_methodius`
-- [ ] 22 Feb · The Chair of Saint Peter, Apostle · *Cátedra de São Pedro, apóstolo* · feast
+- [x] 22 Feb · The Chair of Saint Peter, Apostle · *Cátedra de São Pedro, apóstolo* · feast — `chair_peter`
 - [x] 23 Feb · Saint Polycarp, bishop and martyr · *São Policarpo, bispo e mártir* · memorial — `polycarp`
 - [x] 7 Mar · Ss. Perpetua and Felicity, martyrs · *Santas Perpétua e Felicidade, mártires* · memorial — `perpetua_felicity`
 - [x] 19 Mar · Saint Joseph the Husband of Mary · *São José, Esposo da Bem-Aventurada Virgem Maria* · solemnity — `joseph`
@@ -81,7 +81,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 24 Aug · Saint Bartholomew, Apostle · *São Bartolomeu, apóstolo* · feast — `bartholomew`
 - [x] 27 Aug · Saint Monica · *Santa Mônica* · memorial — `monica`
 - [x] 28 Aug · Saint Augustine, bishop and doctor of the Church · *Santo Agostinho, bispo e doutor da Igreja* · memorial — `augustine`
-- [ ] 29 Aug · The Beheading of John the Baptist · *Martírio de São João Batista* · memorial
+- [x] 29 Aug · The Beheading of John the Baptist · *Martírio de São João Batista* · memorial — `beheading_john_baptist`
 - [x] 3 Sep · Saint Gregory the Great, pope and doctor of the Church · *São Gregório Magno, papa e doutor da Igreja* · memorial — `gregory_great`
 - [x] 13 Sep · Saint John Chrysostom, bishop and doctor of the Church · *São João Crisóstomo, bispo e doutor da Igreja* · memorial — `john_chrysostom`
 - [x] 16 Sep · Ss. Cornelius, pope, and Cyprian, bishop, martyrs · *Santos Cornélio, papa, e Cipriano, bispo, mártires* · memorial — `cornelius_cyprian`
@@ -217,9 +217,9 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 25 Nov · Saint Catherine of Alexandria, virgin and martyr · *Santa Catarina de Alexandria, virgem e mártir* · optional-memorial — `catherine_alexandria`
 - [x] 4 Dec · Saint John Damascene, priest and doctor of the Church · *São João Damasceno, presbítero e doutor da Igreja* · optional-memorial — `john_damascene`
 - [x] 9 Dec · Saint Juan Diego Cuauhtlatoatzin · *São João Diego Cuauhtlatoatzin* · optional-memorial — `juan_diego`
-- [ ] 11 Dec · Saint Damasus I, pope · *São Dâmaso I, papa* · optional-memorial
+- [x] 11 Dec · Saint Damasus I, pope · *São Dâmaso I, papa* · optional-memorial — `damasus`
 - [x] 21 Dec · Saint Peter Canisius, priest and doctor of the Church · *São Pedro Canísio, presbítero e doutor da Igreja* · optional-memorial — `peter_canisius`
-- [ ] 23 Dec · Saint John of Kanty, priest · *São João Câncio, presbítero* · optional-memorial
+- [x] 23 Dec · Saint John of Kanty, priest · *São João Câncio, presbítero* · optional-memorial — `john_kanty`
 - [x] 29 Dec · Saint Thomas Becket, bishop and martyr · *São Tomás Becket, bispo e mártir* · optional-memorial — `thomas_becket`
 - [x] 31 Dec · Saint Sylvester I, pope · *São Silvestre I, papa* · optional-memorial — `sylvester`
 
@@ -238,7 +238,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 17 Jul · Bem-aventurado Inácio de Azevedo e companheiros, mártires · optional memorial (blessed) — `inacio_azevedo`
 - [x] 3 Oct · Beatos André de Soveral e companheiros, mártires · optional memorial (blessed) — `andre_soveral`
 - [x] 5 Oct · São Benedito, o Negro, religioso · optional memorial — `benedito`
-- [ ] 12 Oct · Nossa Senhora da Conceição Aparecida · solemnity
+- [x] 12 Oct · Nossa Senhora da Conceição Aparecida · solemnity — `aparecida`
 - [x] 25 Oct · Santo Antônio de Santana Galvão · optional memorial — `frei_galvao`
 
 ### With a card but no feast on the universal calendar
@@ -534,9 +534,9 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 
 ### Fixed dates
 
-- [ ] 1 Jan · The Circumcision of our Lord · *A Circuncisão de Nosso Senhor* · Pictorial Lives
-- [ ] 3 Jan · The Most Holy Name of Jesus · *Santíssimo Nome de Jesus* · optional-memorial
-- [ ] 2 Feb · The Presentation of the Lord · *Apresentação do Senhor* · feast
+- [x] 1 Jan · The Circumcision of our Lord · *A Circuncisão de Nosso Senhor* · Pictorial Lives — `circumcision`
+- [x] 3 Jan · The Most Holy Name of Jesus · *Santíssimo Nome de Jesus* · optional-memorial — `holy_name_jesus`
+- [x] 2 Feb · The Presentation of the Lord · *Apresentação do Senhor* · feast — `presentation_lord`
 - [x] 25 Mar · The Annunciation of the Lord · *Anunciação do Senhor* · solemnity — `annunciation`
 - [x] 6 Aug · The Transfiguration of the Lord · *Transfiguração do Senhor* · feast — `transfiguration`
 - [x] 14 Sep · The Exaltation of the Holy Cross · *Exaltação da Santa Cruz* · feast — `exaltation_cross`
@@ -544,7 +544,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 2 Nov · The Commemoration of All the Faithful Departed (All Souls' Day) · *Comemoração de Todos os Fiéis Defuntos* · solemnity
 - [ ] 9 Nov · The Dedication of the Lateran Basilica · *Dedicação da Basílica do Latrão* · feast
 - [ ] 18 Nov · The Dedication of the Basilicas of Saints Peter and Paul, Apostles · *Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos* · optional-memorial
-- [ ] 8 Nov · The Feast of the Holy Relics · *A Festa das Santas Relíquias* · Pictorial Lives
+- [x] 8 Nov · The Feast of the Holy Relics · *A Festa das Santas Relíquias* · Pictorial Lives — `holy_relics`
 
 ### Moveable
 
@@ -591,7 +591,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 
 The twenty mysteries, as named in `content/practices/rosary`. A mystery that a feast celebrates shares that feast's card.
 
-**Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [ ] The Presentation — shares the Presentation of the Lord · [ ] The Finding in the Temple
+**Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [x] The Presentation — shares the Presentation of the Lord — `presentation_lord` · [ ] The Finding in the Temple
 **Luminous** — [ ] The Baptism in the Jordan — shares the Baptism of the Lord · [ ] The Wedding at Cana · [ ] The Proclamation of the Kingdom · [x] The Transfiguration — `transfiguration` · [ ] The Institution of the Eucharist
 **Sorrowful** — [ ] The Agony in the Garden · [ ] The Scourging at the Pillar · [ ] The Crowning with Thorns · [ ] The Carrying of the Cross · [ ] The Crucifixion
 **Glorious** — [ ] The Resurrection — shares Easter Sunday · [ ] The Ascension — shares the Ascension · [ ] The Descent of the Holy Spirit — shares Pentecost · [x] The Assumption — `assumption` · [ ] The Coronation of Mary — shares the Queenship of Mary

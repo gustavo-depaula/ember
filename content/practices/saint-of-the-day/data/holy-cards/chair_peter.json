@@ -1,0 +1,42 @@
+{
+  "id": "chair_peter",
+  "feast": {
+    "month": 2,
+    "day": 22
+  },
+  "name": {
+    "en-US": "The Chair of St. Peter",
+    "pt-BR": "A Cátedra de São Pedro"
+  },
+  "patronOf": {
+    "en-US": "Peter, teacher of the Church",
+    "pt-BR": "Pedro, mestre da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "You are Peter, and upon this rock I will build my Church.",
+    "pt-BR": "Tu és Pedro, e sobre esta pedra construirei a minha Igreja."
+  },
+  "lifeChapter": "feb-22-peters-chair-at-antioch",
+  "proper": "sanctorale.02-22",
+  "meta": {
+    "face": "Peter as on the peter card: an elderly man around sixty-five with a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes and a lined forehead; curly grey-white hair balding from the back of the head with a curly tuft left at the forehead; a short, square, curly grey-white beard; a steady, teaching gaze straight out at the viewer.",
+    "basis": "Peter keeps the face of the existing peter card, the Byzantine type (short curly grey hair and beard, the forelock). The feast honours his office as teacher; the chair with ivory panels and Bernini's glory in the apse of St. Peter's are its real emblem in Rome.",
+    "excerpt": "content/of/formularies/sanctoral/02-22.json communionAntiphon (second sentence, Christ's words, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Chair of Saint Peter",
+        "url": "https://en.wikipedia.org/wiki/Chair_of_Saint_Peter"
+      },
+      {
+        "title": "Wikipedia, Feast of the Chair of Saint Peter",
+        "url": "https://en.wikipedia.org/wiki/Feast_of_the_Chair_of_Saint_Peter"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}

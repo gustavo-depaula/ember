@@ -1,0 +1,41 @@
+{
+  "id": "aparecida",
+  "feast": {
+    "month": 10,
+    "day": 12
+  },
+  "name": {
+    "en-US": "Our Lady of Aparecida",
+    "pt-BR": "Nossa Senhora da Conceição Aparecida"
+  },
+  "patronOf": {
+    "en-US": "Patroness of Brazil",
+    "pt-BR": "Padroeira do Brasil"
+  },
+  "prayerExcerpt": {
+    "en-US": "I rejoice heartily in the Lord.",
+    "pt-BR": "Com grande alegria rejubilo-me no Senhor."
+  },
+  "proper": "sanctorale.10-12.brazil",
+  "meta": {
+    "face": "The image: the statue's own small, dark cinnamon-brown terracotta face — a round, gentle girl's face with lowered eyes and the hint of a smile, framed by the crown and mantle, hands joined at the breast. The fishermen, colonial caboclos of the Paraíba valley with warm brown skin, in coarse white cotton shirts and rolled trousers: Domingos Garcia (left), about fifty, a broad, SQUARE face with heavy cheekbones, a flat wide nose, deep-set eyes and grey stubble, under a frayed straw hat held to his chest; João Alves (centre), about twenty-five, a lean, LONG face with a narrow jaw, straight black hair and a thin black moustache, holding the net; Filipe Pedroso (right), about forty, a full ROUND face with a short black beard and bright dark eyes, hands raised in wonder.",
+    "basis": "The image itself is the face: a 36 cm terracotta Immaculate Conception darkened to a cinnamon colour by the river and by centuries of candle soot, wearing the blue gold-embroidered mantle and the jewelled crown given by Princess Isabel in 1888. The three fishermen, the Paraíba do Sul, the net that brought up body and head and then the great catch follow the account of 1717.",
+    "excerpt": "Isaiah 61:10, the entrance antiphon of the feast: pt-BR from content/of/formularies/sanctoral/10-12/brazil.json entranceAntiphon (opening clause, verbatim); the Brazilian formulary has no en-US, so en-US is the same antiphon's opening clause from content/of/formularies/sanctoral/12-08.json entranceAntiphon (Immaculate Conception), verbatim",
+    "sources": [
+      {
+        "title": "Wikipédia, Nossa Senhora da Conceição Aparecida",
+        "url": "https://pt.wikipedia.org/wiki/Nossa_Senhora_da_Concei%C3%A7%C3%A3o_Aparecida"
+      },
+      {
+        "title": "Wikipedia, Our Lady of Aparecida",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Aparecida"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "john_kanty",
+  "feast": {
+    "month": 12,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. John of Kanty",
+    "pt-BR": "São João Câncio"
+  },
+  "patronOf": {
+    "en-US": "Patron of teachers and students",
+    "pt-BR": "Padroeiro dos professores e estudantes"
+  },
+  "prayerExcerpt": {
+    "en-US": "By showing compassion to all, may we gain forgiveness in your sight.",
+    "pt-BR": "Praticando a misericórdia para com todos, alcancemos o vosso perdão."
+  },
+  "lifeChapter": "oct-20-john-cantius",
+  "proper": "sanctorale.12-23",
+  "meta": {
+    "face": "John: an old Pole of about seventy-five with a LONG, NARROW, sculpted face — a very high bald forehead and crown ringed by a short wreath of grey-white hair, prominent high cheekbones, a straight nose, heavy-lidded, half-closed gentle grey eyes, a ruddy complexion, full prominent lips, and a short, close grey beard following the line of the jaw; a kindly, downcast look toward the student. The student: a pale, thin Polish lad of about seventeen with a narrow face, straw-fair hair cut straight across the brow, and wide grateful blue eyes.",
+    "basis": "The inventory of sacred art of Małopolska describes his old portraits: an elderly balding man with a wreath of grey hair and a short grey beard, a high bald forehead, a ruddy face, a straight nose and full lips; another has an elongated face with half-closed eyes and prominent cheekbones, in a doctor's gown lined with red. The courtyard is the Collegium Maius, where he taught and lived, and the cloak is his best-known charity.",
+    "excerpt": "content/of/formularies/sanctoral/12-23.json collect (en-US 'by showing compassion to all, may gain forgiveness in your sight' recast as a wish; pt-BR 'praticando a misericórdia para com todos, alcançar o vosso perdão' recast likewise)",
+    "sources": [
+      {
+        "title": "Sakralne Dziedzictwo Małopolski, Św. Jan Kanty (portrait description)",
+        "url": "https://sdm.upjp2.edu.pl/dziela/sw-jan-kanty-9"
+      },
+      {
+        "title": "Sakralne Dziedzictwo Małopolski, obraz Św. Jan Kanty (portrait description)",
+        "url": "https://sdm.upjp2.edu.pl/dziela/sw-jan-kanty-13"
+      },
+      {
+        "title": "Wikipedia, John Cantius",
+        "url": "https://en.wikipedia.org/wiki/John_Cantius"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}

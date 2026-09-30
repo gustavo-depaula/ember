@@ -1,0 +1,42 @@
+{
+  "id": "damasus",
+  "feast": {
+    "month": 12,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Damasus I",
+    "pt-BR": "São Dâmaso I"
+  },
+  "patronOf": {
+    "en-US": "Pope and keeper of the martyrs' tombs",
+    "pt-BR": "Papa e guardião dos túmulos dos mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant, we pray, O Lord, that we may constantly exalt the merits of your Martyrs.",
+    "pt-BR": "Concedei-nos, Senhor, permanecer fiéis ao culto dos vossos mártires."
+  },
+  "lifeChapter": "dec-11-damasus",
+  "proper": "sanctorale.12-11",
+  "meta": {
+    "face": "A Roman of Spanish stock, about seventy-five, with a broad-browed, RECTANGULAR face — a wide, flat forehead, a long straight nose with a broad bridge, large, wide-set dark eyes under level, heavy grey brows, flat broad cheekbones, a strong, square jaw and a firm, straight mouth; short grey hair showing under the cap at the temples; a short, ROUNDED grey-and-white beard trimmed close to the jaw, with a grey moustache; a calm, watchful gaze looking out a little to the side. Not a flowing white-bearded patriarch: the beard is short and round.",
+    "basis": "No likeness survives; the Lund Gospels miniature (c. 1150) we checked shows him with short grey hair, a short rounded grey beard, a long nose and wide-set eyes, in a red chasuble and a pallium with small crosses under a low white cap. The card keeps those marks and sets him in San Callisto, among the martyrs' tombs he honoured with his inscriptions.",
+    "excerpt": "content/of/formularies/sanctoral/12-11.json collect (opening clause in both languages, verbatim, full stop added)",
+    "sources": [
+      {
+        "title": "Commons, Pope Damasus.jpg (Lund Gospels, Uppsala Cod. C 83, c. 1150; consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Pope_Damasus.jpg"
+      },
+      {
+        "title": "Wikipedia, Pope Damasus I",
+        "url": "https://en.wikipedia.org/wiki/Pope_Damasus_I"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}

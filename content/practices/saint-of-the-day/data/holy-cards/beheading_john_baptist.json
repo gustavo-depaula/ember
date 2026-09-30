@@ -1,0 +1,42 @@
+{
+  "id": "beheading_john_baptist",
+  "feast": {
+    "month": 8,
+    "day": 29
+  },
+  "name": {
+    "en-US": "The Beheading of St. John the Baptist",
+    "pt-BR": "O Martírio de São João Batista"
+  },
+  "patronOf": {
+    "en-US": "The Forerunner's witness unto death",
+    "pt-BR": "O testemunho do Precursor até a morte"
+  },
+  "prayerExcerpt": {
+    "en-US": "I spoke, O Lord, of your decrees before kings, and was not confounded.",
+    "pt-BR": "Quero falar de vossa lei perante os reis e darei meu testemunho sem temor."
+  },
+  "lifeChapter": "aug-29-the-beheading-of-st-john-the-baptist",
+  "proper": "sanctorale.08-29",
+  "meta": {
+    "face": "John as on the john_baptist card, made ascetic by prison: a lean man of about thirty with a LONG face — high cheekbones over hollowed cheeks, a straight nose, large dark-brown eyes under straight dark brows, a firm mouth; thick, unkempt curly dark-brown hair to the shoulders and a rough, short dark-brown beard; the gaze lifted to the light, steadfast and at peace. Not a Christ type: wild hair, weathered skin, wilderness gauntness.",
+    "basis": "John keeps the face of the existing john_baptist card. Josephus names Machaerus, above the Dead Sea, as his prison and place of death; Mark 6:17-29 tells of the imprisonment and the beheading, which the card leaves to the sword implied in the doorway.",
+    "excerpt": "content/of/formularies/sanctoral/08-29.json entranceAntiphon (first clause in both languages, verbatim, full stop for the semicolon in en-US)",
+    "sources": [
+      {
+        "title": "Wikipedia, Beheading of John the Baptist",
+        "url": "https://en.wikipedia.org/wiki/Beheading_of_John_the_Baptist"
+      },
+      {
+        "title": "Wikipedia, Machaerus",
+        "url": "https://en.wikipedia.org/wiki/Machaerus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}

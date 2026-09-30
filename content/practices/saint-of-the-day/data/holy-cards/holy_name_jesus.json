@@ -1,0 +1,41 @@
+{
+  "id": "holy_name_jesus",
+  "feast": {
+    "month": 1,
+    "day": 3
+  },
+  "name": {
+    "en-US": "The Holy Name of Jesus",
+    "pt-BR": "O Santíssimo Nome de Jesus"
+  },
+  "patronOf": {
+    "en-US": "The name above every name",
+    "pt-BR": "O nome que está acima de todo nome"
+  },
+  "prayerExcerpt": {
+    "en-US": "At the name of Jesus, every knee should bend.",
+    "pt-BR": "Ao nome de Jesus, todo joelho se dobre."
+  },
+  "proper": "sanctorale.01-03",
+  "meta": {
+    "face": "The Christ Child as in recurring-figures.md: a plump, ROUND child's face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls, a plain gold halo, now a child of about three with a steady, gentle gaze looking out at the viewer. The angels: youthful, one with a heart-shaped face and short golden curls, the other with a narrower face and dark-brown wavy hair.",
+    "basis": "The feast honours the Name at which every knee bends (Philippians 2:10, its entrance antiphon); the Gesù's ceiling by Gaulli paints heaven and earth adoring the Name in a burst of light. The card keeps that adoration but shows the Child himself, with the Christ Child's face from recurring-figures.md, because the card allows no lettering.",
+    "excerpt": "content/of/formularies/sanctoral/01-03.json entranceAntiphon (Philippians 2:10; opening clause in both languages, verbatim, full stop added)",
+    "sources": [
+      {
+        "title": "Wikipedia, Holy Name of Jesus",
+        "url": "https://en.wikipedia.org/wiki/Holy_Name_of_Jesus"
+      },
+      {
+        "title": "Wikipedia, Triumph of the Name of Jesus (Gaulli)",
+        "url": "https://en.wikipedia.org/wiki/Triumph_of_the_Name_of_Jesus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-14.md."
+      }
+    ]
+  }
+}
