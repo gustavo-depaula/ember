@@ -95,3 +95,14 @@ The entrance procession from the back of the nave, in the order of GIRM 120: thu
 - `ordinary_time_2_weekday` against `ordinary_time_1_weekday` and `lent_weekday`: evening gold light is the difference.
 - `easter_sunday` against `corpus_christi` and `entrance` (processions in white): the aspergillum and the paschal candle must be visible.
 - `triduum` must read as night and a bare altar, not a feast.
+
+## TLM look (2026-09-30)
+
+Only `subject` changed. Sources, kept in `consult/tlm/`: **RS** = *Ritus servandus in celebratione Missae*, Missale Romanum 1962 (`ritus-servandus-1962-lat.pdf`, from aomoi.net); **F** = Fortescue, *The Ceremonies of the Roman Rite Described* (1920 impression; `fortescue-1920.txt`, archive.org), cited by the line of that file.
+
+- **Low and sung Mass cards** (`easter_weekday`, `ordinary_time_2_weekday`, the four Ember Days, and `ordinary_time_2_sunday`) get the same altar, rail, vestments and candle rule as batch 44. The Ember cards were already in the old rite and gain only the gradine, altar cards, veiled tabernacle and rail.
+- **`ordinary_time_2_sunday`** is now a Solemn High Mass, with the deacon in a dalmatic and the subdeacon in a tunicle "one behind the other behind the celebrant" at the prayers (RS IV.7, V.5).
+- **`easter_sunday`:** this is the **Vidi aquam** before the principal Mass. The celebrant wears a white **cope**, without chasuble or maniple, and a server carries the holy-water vessel beside him (F l. 6884–6897, 6972–6985, on the Asperges and its going down the church). The Paschal candle stands on the gospel side of the sanctuary with its five grains of incense (F l. 19852, 20735), not "beside the ambo".
+- **`triduum`:** this follows the traditional stripping (F l. 18370–18395). The high altar keeps only the cross veiled in violet and the six candles, put out. Cloths, frontal, altar cards and tabernacle veil are removed, the tabernacle is left open, and the lamp is out. At the place of repose, two clerks in surplice kneel in watch (F l. 18392–18400; DO `Latin/Tempora/Quad6-4rm2.txt`, "Pro solemni Sacramenti repositione…").
+- **`entrance`:** the High Mass procession goes thurifer, cross between acolytes, clergy, M.C., subdeacon, deacon, celebrant, with the sacred ministers in birettas (F l. 7313–7318, 8020–8030). No lay reader carries a Book of the Gospels; at the old rite the book of lessons waits on the credence (F l. 2964).
+- The faithful's heads are covered (1917 Code c. 1262 §2).

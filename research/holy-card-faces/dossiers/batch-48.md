@@ -147,3 +147,18 @@ A still life in the quatrefoil: a fixed stone ambo on a low step, with a carved 
   - `lords_prayer` shows them standing, from behind, on the central axis of a small whitewashed church.
 - **`prayer_after_communion` against batch 46's `collect`.** Both have the priest at the chair with his hands extended. The Collect is close and in profile; this card is far, diagonal, through columns, with evening light.
 - **`altar` against the later "Altar crucifix and candles" card**, and **`ambo` against the later "Lectionary" and "Book of the Gospels" cards.** See Decision 11.
+
+## TLM look (2026-09-30)
+
+Only `subject` changed. Sources, kept in `consult/tlm/`: **RS** = *Ritus servandus in celebratione Missae*, Missale Romanum 1962 (`ritus-servandus-1962-lat.pdf`, from aomoi.net); **F** = Fortescue, *The Ceremonies of the Roman Rite Described* (1920 impression; `fortescue-1920.txt`, archive.org), cited by the line of that file.
+
+- **`doxology_amen`:** in the old rite the doxology ends in the little elevation. The priest lifts the chalice with the Host held over it **"a little"** (DO `English/Ordo/Ordo.txt` l. 262), not high in two hands. The people kneel.
+- **`lords_prayer`:** the priest alone says the Pater noster with his hands extended and his eyes on the Sacrament, and the server answers *Sed libera nos* (RS X.1). The family kneels and follows it in silence in a hand missal instead of praying aloud.
+- **`sign_of_peace` (no exchange among the people):** the **Pax at Solemn High Mass**. After kissing the altar the celebrant embraces the deacon, "left cheeks drawn close", and says *Pax tecum*. The deacon passes the peace to the subdeacon, who carries it to the clergy in choir (RS X.8). The laity kneel. The excerpt, *Pax Domini sit semper vobiscum*, is said in the old rite too, over the chalice (RS X.2). A pax-brede for the laity (F l. 2837–2845) was the alternative; it was not chosen because it is rare and reads as an object.
+- **`agnus_dei`:** the Host is broken **over the chalice** (RS X.2), not over the paten.
+- **`holy_communion`:** the faithful **kneel at the rail** under the Communion cloth (RS X.6, "linteum seu velum album"; F l. 1929–1935) and receive on the tongue. A server holds the Communion plate, which the Congregation of the Sacraments prescribed on 26 Mar 1929; its holding by a server was approved in 1930 (en.wikipedia.org/wiki/Communion-plate). The priest makes the sign of the cross with the Host over the ciborium (RS X.6).
+- **`prayer_after_communion`:** the Postcommunion at the epistle corner, with the Missal carried back there and the server kneeling at the gospel side (RS XI.1). The chalice is veiled at the middle. No one holds the book.
+- **`final_blessing`:** the priest turns to the people, "extensa manu dextera, junctisque digitis, et manu sinistra infra pectus posita" (RS XII.1). The people kneel (F l. 6694–6695).
+- **`dismissal`:** the *Ite, missa est* is said turned to the people with the hands joined (RS XI.1). The view through the west doors is kept.
+- **`altar`:** this is now a traditional high altar with three steps, a wooden foot-pace (F l. 2066–2073), three cloths, the uppermost falling to the ground, and a white frontal (F l. 2090–2100). The gradines stay in shadow so that the `altar_crucifix` and `tabernacle` cards keep their own subjects, and the lilies stand on the gradine.
+- **`ambo` (no ambo in the old parish rite):** now a **carved wooden pulpit** with stair and sounding board, the place of the sermon (RS VI.6; F l. 9114–9120). The excerpt's "wooden dais" (Neh 8:4) fits it. The card name stays "Ambo".

@@ -36,6 +36,7 @@ The order behind the table:
    - **Seasons, Ember Days:** `BOX=<liturgical colour>`, `FRAME="a thin <colour> ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and <colour>; no halo"`.
    - **Parts of the Mass:** `FRAME="the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo"`.
    - **Objects and vestments:** `FRAME="instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures"`.
+   - Liturgical scenes follow the traditional Latin Mass look.
 
 **Before cards without a fixed date ship** (moveable feasts, seasons, parts of the Mass, objects): `feast` is required by `apps/app/src/features/saints/useHolyCards.ts` and `data/catalog.ts` reads `c.feast.month`; make it optional there first, and give those cards a place in the gallery.
 

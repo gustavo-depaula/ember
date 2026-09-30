@@ -133,3 +133,15 @@ Each card has its own angle, dominant colour and setting inside the medallion:
 - **`altar_crucifix` against `altar`.** Both show an altar edge. The altar is bare and seen from above; this one is from below, at night, with the cross and candles filling the medallion.
 - **`altar_crucifix` and "no figures".** The corpus of Christ must stay on the cross (GIRM 117, 308), while the frame says "no figures". The subject calls it a "carved corpus" of ivory. If the generator drops it, add "the crucifix bears the corpus" to the edit.
 - **`book_of_gospels` and its Evangelists' symbols.** The angel of Matthew is small, in a corner, as metalwork. If it reads as a figure, keep only the jewelled cross.
+
+## TLM look (2026-09-30)
+
+Only `subject` changed. The still-life frame stays. Sources, kept in `consult/tlm/`: **RS** = *Ritus servandus in celebratione Missae*, Missale Romanum 1962 (`ritus-servandus-1962-lat.pdf`, from aomoi.net); **F** = Fortescue, *The Ceremonies of the Roman Rite Described* (1920 impression; `fortescue-1920.txt`, archive.org), cited by the line of that file.
+
+- **`tabernacle`:** the tabernacle now stands in the middle of the altar (F l. 2075–2081) and is **veiled** in white silk, parted to show a strip of the door, because "there is no permission ever to dispense with the tabernacle veil" (F l. 2100–2108). The lamp now hangs before it from above (F l. 2087–2088). Fortescue adds that the lamp's glass "should be white" (n., F l. 2116); the red glass is kept as the common practice.
+- **`altar_crucifix`:** the crucifix and candles stand on the gradine, and the centre altar card leans at the foot of the cross (F l. 2981–2985).
+- **`roman_missal`:** the Missal rests on its stand at the epistle end beside the epistle-side altar card (F l. 2961–2962, 2986–2988).
+- **`lectionary` (no Lectionary in the old rite):** the card now shows the **book of lessons**, the epistles and gospels taken from the Missal for the ministers at High Mass (F l. 2921–2925). It lies on a lectern covered in the colour of the day (F l. 2286–2290). The image barely changes.
+- **`book_of_gospels`:** the book now lies **flat** on the middle of the altar, where the deacon lays it before the Gospel (F l. 8598–8603), instead of standing enthroned.
+- **`ciborium`:** a white silk veil lies beside it (F l. 2712–2716).
+- Unchanged: `chalice`, `paten`, `cruets` (glass, as F l. 2741–2745 asks), `lavabo`.

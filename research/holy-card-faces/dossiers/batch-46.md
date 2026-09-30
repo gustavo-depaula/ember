@@ -85,3 +85,20 @@ From the nave looking up at the ambo: the priest incensing the open Book of the 
 - `greeting` and `collect`: both the priest at the chair with hands extended; the Greeting is wide from behind him over the people, the Collect close in profile with the Missal.
 - `kyrie` and `gloria`: both singing, standing congregations; the Kyrie is seen from the gallery with the choir, the Gloria from below with the vault fresco and festive light.
 - None shows the altar with the elevation, so none echoes `x_consecration`.
+
+## TLM look (2026-09-30)
+
+Only `subject` changed. The priest is at the altar throughout. There is no presider's chair and no ambo; clerics and servers take the laymen's parts. Sources, kept in `consult/tlm/`: **RS** = *Ritus servandus in celebratione Missae*, Missale Romanum 1962 (`ritus-servandus-1962-lat.pdf`, from aomoi.net); **F** = Fortescue, *The Ceremonies of the Roman Rite Described* (1920 impression; `fortescue-1920.txt`, archive.org), cited by the line of that file.
+
+- **`greeting`:** the Dominus vobiscum. The priest, on the foot-pace, turns from the altar to the people with his hands extended (RS V.1), still seen from behind. The servers kneel on the step.
+- **`penitential_act`:** the Confiteor at the foot of the altar. The priest bows profoundly (RS III.7) and the server kneels behind him to his left (RS III.6). The faithful **kneel** during the prayers at the foot (F l. 6647–6648).
+- **`kyrie`:** the schola in the loft is kept. The priest is now at the altar, not at a chair.
+- **`gloria`:** the priest intones at the middle of the altar, his hands raised to the shoulders (RS IV.3). The schola sings and the people stand and listen (F l. 6652–6654, choir at High Mass). The vault fresco stays.
+- **`collect`:** the priest is at the epistle corner of the altar with the Missal on its stand and his hands extended (RS V.1). No server holds the book.
+- **`first_reading` (no lay reader in the old rite):** at a sung Mass without sacred ministers, "a lector vested in a surplice" sings the Epistle in its usual place (RS VI.8), and the celebrant reads it in a low voice at the altar (RS VI.1, 4). He sings from the book of lessons on a lectern covered in the colour of the day (F l. 2286–2290, 2921–2925). People sit (F l. 6655–6656).
+- **`responsorial_psalm` (no responsorial psalm):** the **Gradual**, chanted by the schola in choir from the Graduale, while the priest reads it at the altar (RS VI.1, 4; F l. 2925–2927). The people listen and do not sing a refrain.
+- **`second_reading`:** the **Epistle at Solemn High Mass**. The subdeacon in a tunicle sings it behind the celebrant, facing the altar (RS VI.4; F l. 8163–8175), and the celebrant reads it at the epistle corner with the deacon at his right. The ambo and its relief of St Paul are gone.
+- **`gospel_acclamation`:** the schola sings the Alleluia. The deacon kneels on the edge of the foot-pace saying *Munda cor meum*, with the Book of the Gospels on the altar, after the celebrant has put in incense (RS VI.5; F l. 8594–8606). The subdeacon, acolytes and thurifer wait at the foot.
+- **`gospel`:** the deacon sings the Gospel at the gospel side and incenses the book, which the **subdeacon holds open** between the two acolytes with candles (RS VI.5; F l. 7400–7409). The celebrant stands at the epistle corner. There is no ambo.
+- The women in the nave have their heads covered (1917 Code c. 1262 §2).
+- **Look-alike note:** `first_reading` and `second_reading` are now both Epistles. They differ by minister and view: a lector at a lectern seen from the aisle, and a subdeacon in a tunicle seen from low in the sanctuary.

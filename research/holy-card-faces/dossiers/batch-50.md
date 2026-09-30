@@ -145,3 +145,11 @@ Each card has its own angle, dominant colour and setting inside the medallion:
 - **`aspergillum` against `lavabo` (b49).** Both are silver vessels with water drops. The lavabo is a ewer in a basin on green marble in cool light; the aspergillum is a bucket and a rod on pale stone in bright light. If they blur, lighten the aspergillum's setting further.
 - **`altar_bells`.** The generator may draw a single hand bell or a church bell. The subject says four small bells on one handle, lying on the step.
 - **`stole` and "not worn".** The stole hangs over a brass rail. If it appears on shoulders or a mannequin, repeat "over a brass rail, no one wearing it".
+
+## TLM look (2026-09-30)
+
+Only `subject` changed.
+
+- **`alb`:** deep lace from the knee to the hem, with lace cuffs.
+- **`stole`:** Roman form, with the ends widening into spade-shaped panels.
+- Unchanged: `pall`, `corporal`, `purificator`, `thurible`, `aspergillum`, `altar_bells`, `amice`, `cincture`. The traditional rite uses the same objects and the drawings imply nothing specific to the new rite.

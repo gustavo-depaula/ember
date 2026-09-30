@@ -65,3 +65,10 @@ At eye level, a little from the left: a rose silk dalmatic spread full width on 
 - **Rose drifting to pink or red.** Rose is a muted, dusty pink-violet. If it comes out candy pink or red, say "muted old-rose silk, Gaudete rose".
 - **"Not worn".** Both are laid out or displayed. If a chasuble appears on a body or the dalmatic on a mannequin, repeat "laid flat on the counter" / "spread on a wooden cross-bar, no one wearing it".
 - **The dalmatic read as a chasuble.** A dalmatic has sleeves and a closed tunic shape; a chasuble has none. The subject names the sleeves and the stripes; keep them.
+
+## TLM look (2026-09-30)
+
+Only `subject` changed.
+
+- **`chasuble`:** a Roman fiddleback of stiff green damask with a straight gold column down the back, in place of the ample chasuble with a Y-cross. The matching stole and maniple lie across it, ready for vesting. The maniple is worn at every Mass (F, `consult/tlm/fortescue-1920.txt` l. 2415–2417).
+- **`dalmatic`:** Roman cut, stiff damask, short square sleeves and open sides. The two bands and the cross-bands stay. The rose colour stays, because on Gaudete and Laetare the ministers wear dalmatic and tunicle in rose, not folded chasubles (F l. 15840–15846).
