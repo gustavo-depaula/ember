@@ -1,6 +1,28 @@
 {
   "id": "saint-of-the-day",
   "icon": "book",
+  "holyCardStarters": [
+    "peter",
+    "paul",
+    "john_evangelist",
+    "augustine",
+    "benedict",
+    "francis_assisi",
+    "anthony_padua",
+    "dominic",
+    "thomas_aquinas",
+    "catherine_siena",
+    "ignatius_loyola",
+    "teresa",
+    "therese",
+    "agnes",
+    "lucy",
+    "sebastian",
+    "george",
+    "john_vianney",
+    "rita_cascia",
+    "padre_pio"
+  ],
   "name": {
     "en-US": "Saint of the Day",
     "pt-BR": "Santo do Dia"

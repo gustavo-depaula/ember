@@ -2,6 +2,7 @@ export { SaintCard, SaintCardViewer, SaintWall } from './components'
 export { type SaintEntry, useSaintsCatalog } from './data/catalog'
 export { isCollected } from './data/collection'
 export { type HolyCard, useHolyCards } from './useHolyCards'
+export { usePendingHolyCards, useRedeemHolyCard } from './usePendingHolyCards'
 export { useSaintOfDayBookImage } from './useSaintOfDayBookImage'
 export {
   type SaintOfDayEntry,

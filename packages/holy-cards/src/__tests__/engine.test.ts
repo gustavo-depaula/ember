@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url'
 import type { OfCalendarStatics, SanctoralEntry, TemporalEntry } from '@ember/missal-schema'
 import { describe, expect, it } from 'vitest'
 import { addDays, eachDay, isSunday } from '../dates'
-import { drawCard, grants, pendingCards, redeem } from '../engine'
+import { drawCard, grants, historyStart, pendingCards, redeem } from '../engine'
 import type { Act, Catalog, Copy, Door, EngineInput, Grant, Occurrence } from '../types'
 
 // The real calendar and the real saint cards; the non-saint cards (seasons,
@@ -279,5 +279,22 @@ describe('Redeeming', () => {
     const waiting = pending([], '2030-01-01', copies, extra)
     expect(waiting).toHaveLength(1)
     expect(waiting[0].choice).toEqual(['paul', 'augustine'])
+  })
+})
+
+describe('History horizon', () => {
+  it('gives the same envelopes from acts since historyStart as from the whole history', () => {
+    const withOrdinary = {
+      ...catalog,
+      seasons: { ...catalog.seasons, ordinary2: { sunday: 'ot2-sunday', weekday: 'ot2-weekday' } },
+    }
+    const everyMass = mass(...eachDay('2025-01-01', '2026-12-31'))
+    for (const today of ['2026-06-10', '2026-11-30', '2026-12-22', '2026-12-31']) {
+      const ids = (acts: Act[]) =>
+        pending(acts, today, [], { catalog: withOrdinary }).map((g) => g.id)
+      const upToToday = everyMass.filter((a) => a.date <= today)
+      const recent = upToToday.filter((a) => a.date >= historyStart(today))
+      expect(ids(recent), today).toEqual(ids(upToToday))
+    }
   })
 })

@@ -1,5 +1,6 @@
-import { addDays, ascending } from './dates'
+import { addDays, ascending, yearOf } from './dates'
 import { longestWindow, rules } from './rules'
+import { seasonsStartingIn } from './seasons'
 import type { CardId, Copy, EngineInput, Grant, IsoDate } from './types'
 
 /**
@@ -10,6 +11,20 @@ export function grants(input: EngineInput, since: IsoDate = ''): Grant[] {
   return rules
     .flatMap((rule) => rule(input, since))
     .sort((a, b) => ascending(a.date, b.date) || ascending(a.id, b.id))
+}
+
+/**
+ * The earliest Mass or Office that can still matter on `today`: the start of
+ * the oldest season whose card could still be waiting. `pendingCards` needs no
+ * acts before it (practice occurrences excepted: a lineage counts them all).
+ */
+export function historyStart(today: IsoDate): IsoDate {
+  const since = addDays(today, -longestWindow)
+  const year = yearOf(since)
+  return [year - 1, year]
+    .flatMap(seasonsStartingIn)
+    .filter((w) => w.end >= since)
+    .reduce((earliest, w) => (w.start < earliest ? w.start : earliest), since)
 }
 
 /**

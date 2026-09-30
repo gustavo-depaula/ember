@@ -140,6 +140,8 @@ export type PracticeManifest = {
   // Praying this counts as attending Mass or praying the Divine Office (holy
   // cards). Set on a form group's primary; the build gives it to every form.
   liturgicalAct?: LiturgicalAct
+  // Saint of the Day: the holy cards a new user picks two starters from.
+  holyCardStarters?: string[]
   alternativeTo?: AlternativeToRef
   // Flow template vars (`{{rubrics}}`). Forms of one practice share a flow and
   // differ only here, e.g. which Divinum Officium version the breviary follows.

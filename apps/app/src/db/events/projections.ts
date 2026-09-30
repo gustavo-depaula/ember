@@ -181,6 +181,11 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    case 'HolyCardRedeemed': {
+      draft.holyCards.set(event.grant, { grant: event.grant, card: event.card, date: event.date })
+      break
+    }
+
     case 'ProgramRestarted': {
       const cursor = draft.cursors.get(event.cursorId)
       if (!cursor) break

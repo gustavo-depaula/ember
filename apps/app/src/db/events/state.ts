@@ -4,7 +4,7 @@ import { immer } from 'zustand/middleware/immer'
 
 enableMapSet()
 
-import type { Completion, Cursor, Tier, TimeBlock, UserPractice } from '../schema'
+import type { Completion, Cursor, HolyCardCopy, Tier, TimeBlock, UserPractice } from '../schema'
 import { applyEvent } from './projections'
 import type { AppEvent } from './types'
 
@@ -31,6 +31,8 @@ export type EventStoreState = {
   completionsByPractice: Map<string, Set<number>>
   cursors: Map<string, Cursor>
   nextCompletionId: number
+  /** Redeemed holy cards, by the grant that won each. */
+  holyCards: Map<string, HolyCardCopy>
 
   apply: (event: AppEvent) => void
   applyBatch: (events: AppEvent[]) => void
@@ -46,6 +48,7 @@ function emptyState() {
     completionsByPractice: new Map<string, Set<number>>(),
     cursors: new Map<string, Cursor>(),
     nextCompletionId: 1,
+    holyCards: new Map<string, HolyCardCopy>(),
   }
 }
 

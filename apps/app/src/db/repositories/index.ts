@@ -10,6 +10,7 @@ export {
   setCursor,
   setIndex,
 } from './cursors'
+export { recordHolyCardCopy } from './holyCards'
 export {
   addSlot,
   archivePractice,

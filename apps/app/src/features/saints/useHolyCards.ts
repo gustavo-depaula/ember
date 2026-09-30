@@ -15,6 +15,8 @@ export type HolyCard = {
   name: LocalizedText
   patronOf?: LocalizedText
   prayerExcerpt?: LocalizedText
+  /** The saint's Mass formulary ref (`sanctorale.10-04`): Mass on its date gives the card. */
+  proper?: string
 }
 
 type HolyCardsData = {

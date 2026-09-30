@@ -1,4 +1,4 @@
-import type { CompletionVia, Tier, TimeBlock } from '../schema'
+import type { CompletionVia, HolyCardCopy, Tier, TimeBlock } from '../schema'
 
 type PracticeCreated = {
   type: 'PracticeCreated'
@@ -139,7 +139,11 @@ type ProgramRestarted = {
 
 export type CursorEvent = CursorSet | CursorAdvanced | CursorIndexSet | ProgramRestarted
 
-export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent
+type HolyCardRedeemed = { type: 'HolyCardRedeemed' } & HolyCardCopy
+
+export type HolyCardEvent = HolyCardRedeemed
+
+export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent | HolyCardEvent
 
 export type StoredEvent = {
   sequence: number
