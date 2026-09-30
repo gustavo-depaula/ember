@@ -1,0 +1,442 @@
+{
+  "batch": 19,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-19.md",
+  "cards": [
+    {
+      "id": "fulgentius",
+      "letter": "F",
+      "feast": {
+        "month": 1,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Fulgentius",
+        "pt-BR": "São Fulgêncio"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Ruspe",
+        "pt-BR": "Bispo de Ruspe"
+      },
+      "prayerExcerpt": {
+        "en-US": "Each year may bring us fresh changes and trials; let us learn from St. Fulgentius to receive all that happens as from the hand of God, and appointed for our salvation.",
+        "pt-BR": "Cada ano pode trazer-nos novas mudanças e provações; aprendamos com São Fulgêncio a receber tudo o que acontece como vindo da mão de Deus, e ordenado para a nossa salvação."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-02 reflection, the whole of it (Pictorial Lives, public domain; also the last paragraph of jan-02-fulgentius)",
+      "subject": "St. Fulgentius, Bishop of Ruspe in North Africa, half-length, turned a little to the right: a plain black monk's habit with its hood lying on the shoulders, and over it a white woollen pallium marked with small black crosses; a simple gold pectoral cross; his right hand rests on an open book of his writings lying on a table draped in red, his left holds a plain wooden crozier against his shoulder. Behind him, the white-walled monastery on a small low island off the Tunisian coast, with a few date palms and a calm turquoise sea under a clear, warm evening sky. Devotional and peaceful; no mitre, no lettering on the book or anywhere.",
+      "face": "A North African of about sixty-five with a warm olive-brown complexion and a SHORT, BROAD face, as wide at the flat cheekbones as it is long — a broad, rounded forehead running up into a BALD crown with a ring of close-cropped grey-black curls above the ears, a short, wide nose with a low, flat bridge and broad nostrils, large, round, dark-brown eyes set wide apart under thick, straight grey-black brows, full lips, a short, rounded chin; a full, short, grizzled grey beard trimmed close to the jaw; a mild, patient gaze toward us.",
+      "refs": [
+        "augustine",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "The seventeenth-century portrait on Wikipedia (Fulgentius of Ruspe) shows him bald with a fringe, a full greying beard, a black habit and a white pallium with a crozier and book; the card keeps those marks. His African birth (Telepte, in today's Tunisia) gives the complexion, and the island monastery where the book says he spent his last year gives the setting. Kept apart from `augustine` (close-cropped dark hair, short dark beard) by the bald crown, the grizzled beard and the short, flat-cheeked face.",
+      "sources": [
+        {
+          "title": "Wikipedia, Fulgentius of Ruspe (lead image: 17th-century portrait, 'S. Fulgentius Episcopus Ruspensis')",
+          "url": "https://en.wikipedia.org/wiki/Fulgentius_of_Ruspe"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-02-fulgentius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-02-fulgentius.md"
+        }
+      ],
+      "lifeChapter": "jan-02-fulgentius",
+      "catalogMatch": "St. Fulgentius, Bishop"
+    },
+    {
+      "id": "macarius_alexandria",
+      "letter": "M",
+      "feast": {
+        "month": 1,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Macarius of Alexandria",
+        "pt-BR": "São Macário de Alexandria"
+      },
+      "patronOf": {
+        "en-US": "Hermit of the Egyptian desert",
+        "pt-BR": "Eremita do deserto do Egito"
+      },
+      "prayerExcerpt": {
+        "en-US": "Prayer is the breath of the soul.",
+        "pt-BR": "A oração é a respiração da alma."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jan-02-macarius-of-alexandria.md Reflection, first sentence (Pictorial Lives, public domain). The index's 01-02 reflection is Fulgentius's, so this card takes its own chapter's",
+      "subject": "St. Macarius of Alexandria, the desert hermit, half-length: a coarse brown tunic and a dark-brown monastic hood drawn over the head, a rough rope belt; he carries on one shoulder a woven palm-leaf basket (the basket of sand of his penance) and holds in the other hand a small cluster of green grapes, which he is about to pass on untasted. Behind him, the Nitrian desert of Egypt: low pale-ochre dunes, a few scattered stone cells and a single palm, under a hot, pale-gold sky. Serene and warm, with the hint of a smile; no lettering.",
+      "face": "An Egyptian of about seventy-five, sun-browned to a deep bronze, with a WIDE, LOW, ROUNDED-SQUARE face, broad through the jaw — a short, lined forehead half hidden by the hood, a short, broad nose with a rounded tip, narrow dark eyes deeply creased at the corners by a quiet smile, thick, low grey brows, broad cheeks lifted by the smile, a wide, kindly mouth; only a thin, short, sparse grey beard and moustache; the gaze warm and a little amused, toward us.",
+      "refs": [
+        "anthony_padua",
+        "francis_assisi",
+        "jerome"
+      ],
+      "basis": "The Painter's Manual gives Macarius of Alexandria a single mark, a smiling face, which the card makes its keynote; the Blaj iconostasis icon (Wikipedia lead image) gives the dark hood and a short, thin beard. The book supplies the attributes: the basket of sand he carried to tame himself and the grapes he passed on untasted. Wikipedia (born c. 300, died 395) gives his old age. Kept apart from `anthony_abbot` (triangular, long beard) and `francis_paola` (square, long white beard) by the wide smiling face and sparse beard.",
+      "sources": [
+        {
+          "title": "Wikipedia, Macarius of Alexandria (lead image: icon on the Blaj iconostasis)",
+          "url": "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-02-macarius-of-alexandria (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-02-macarius-of-alexandria.md"
+        }
+      ],
+      "lifeChapter": "jan-02-macarius-of-alexandria",
+      "catalogMatch": "St. Macarius of Alexandria"
+    },
+    {
+      "id": "genevieve",
+      "letter": "G",
+      "feast": {
+        "month": 1,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Genevieve",
+        "pt-BR": "Santa Genoveva"
+      },
+      "patronOf": {
+        "en-US": "Patroness of Paris",
+        "pt-BR": "Padroeira de Paris"
+      },
+      "prayerExcerpt": {
+        "en-US": "Genevieve was only a poor peasant girl, but Christ dwelt in her heart.",
+        "pt-BR": "Genoveva era apenas uma pobre camponesa, mas Cristo habitava em seu coração."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-03 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Genevieve, a young consecrated virgin, half-length: a plain undyed woollen gown with a blue mantle, a white veil over her hair; in her right hand she holds up a lit wax candle whose small flame burns steadily, her left hand resting on a shepherd's crook; two white sheep at her side. Behind her, the Seine and, beyond the river, the walled Gallo-Roman island city of Paris with a few red roofs and a small early church, under a pale winter-morning sky. Gentle, steadfast, devotional; no crown, no lettering.",
+      "face": "A young woman of about twenty with a fair, fresh complexion and a BROAD, SQUARE-JAWED face, wide at the cheekbones and firm at the jaw — a smooth, low forehead, a short, straight nose, wide-set clear grey-green eyes under straight, fair brows, a wide, calm, closed mouth, a firm, rounded chin; flaxen-blond hair in two thick braids falling from under the veil; her eyes lowered to the candle flame.",
+      "refs": [
+        "clare_assisi",
+        "agnes",
+        "rose_lima"
+      ],
+      "basis": "No likeness survives. The book's engraving shows her as the little shepherdess met by St. Germanus, and Wikipedia records the two common attributes: the candle she relit (the devil-and-angel legend) and the shepherdess of the later tradition. The broad, square-jawed peasant face is our choice, to keep her apart from the set's oval-faced virgins (`agnes`, `agatha`, `catherine_alexandria`).",
+      "sources": [
+        {
+          "title": "Wikipedia, Genevieve (iconography section; lead image: painting with Paris behind)",
+          "url": "https://en.wikipedia.org/wiki/Genevieve"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-03-genevieve (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-03-genevieve.md"
+        }
+      ],
+      "lifeChapter": "jan-03-genevieve",
+      "proper": "sanctorale.01-03.france",
+      "catalogMatch": "St. Genevieve, Virgin"
+    },
+    {
+      "id": "gregory_langres",
+      "letter": "G",
+      "feast": {
+        "month": 1,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Gregory of Langres",
+        "pt-BR": "São Gregório de Langres"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Langres",
+        "pt-BR": "Bispo de Langres"
+      },
+      "prayerExcerpt": {
+        "en-US": "Behold a great priest, who in his days pleased God.",
+        "pt-BR": "Eis o sumo sacerdote que em sua vida agradou a Deus."
+      },
+      "excerptSource": "content/of/formularies/common/pastors/past1.json entranceAntiphon, the first clause (Common of Pastors, for a bishop; en-US ';' closed with '.', pt-BR verbatim). His chapter has no Reflection and there is no formulary of his own",
+      "subject": "St. Gregory of Langres, once a senator of Autun, now an aged bishop, half-length and standing with his hands joined in prayer: a white mitre with gold bands, a deep-green chasuble over a white alb, a gold pectoral cross, a crozier resting in the crook of his arm. Behind him, a Romanesque cloister of pale stone opening onto the old walled hill town of Langres in the soft light of a winter morning. Grave, humble and prayerful; no angels, no lettering.",
+      "face": "A Gallo-Roman patrician of about eighty-five with a pale complexion and a LONG face with a broad, heavy LANTERN JAW — a high, lined forehead, a large, straight, high-bridged nose, small, heavy-lidded pale-grey eyes under sparse, straight white brows, deep lines running from the nose to the corners of a thin, wide, firm mouth; short white hair under the mitre, and a short white beard clipped close along the square jaw; his eyes lifted a little, in prayer.",
+      "refs": [
+        "ambrose",
+        "nicholas",
+        "charles_borromeo"
+      ],
+      "basis": "No likeness survives. The book tells of a senator of Autun, widowed, bishop at fifty-seven for thirty-three years, so he is painted very old; its engraving shows him mitred with a short beard, praying before two angels. The lantern jaw and patrician bearing are our choice for a Roman senator and keep him apart from the other aged bishops (`hilary` trapezoid, `damasus` rectangular, `polycarp` heart-shaped).",
+      "sources": [
+        {
+          "title": "Wikipedia, Gregory of Langres",
+          "url": "https://en.wikipedia.org/wiki/Gregory_of_Langres"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-04-gregory (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-04-gregory.md"
+        }
+      ],
+      "lifeChapter": "jan-04-gregory",
+      "catalogMatch": "St. Gregory, Bishop"
+    },
+    {
+      "id": "simeon_stylites",
+      "letter": "S",
+      "feast": {
+        "month": 1,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Simeon Stylites",
+        "pt-BR": "São Simeão Estilita"
+      },
+      "patronOf": {
+        "en-US": "Hermit on the pillar",
+        "pt-BR": "Eremita da coluna"
+      },
+      "prayerExcerpt": {
+        "en-US": "This is the business of our life: by effort and by toil, by prayer and supplication, to advance in the grace of God, till we come to that height of perfection in which with clean hearts we may behold God.",
+        "pt-BR": "Este é o negócio de nossa vida: por esforço e por labuta, por oração e súplica, avançar na graça de Deus, até que cheguemos àquela altura de perfeição em que, com corações puros, possamos contemplar a Deus."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-05 reflection, the words of St. Augustine it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Simeon Stylites at prayer on top of his pillar, half-length: he stands behind the low wooden railing of the small square platform that crowns a tall stone column with a carved capital, in a plain, patched brown tunic and a dark monk's hood and cowl, his arms raised and opened to heaven. Far below and small, the rocky hills of northern Syria near Aleppo, with a few pilgrims climbing the path toward the column and a small stone chapel, under a wide, clear morning sky. Lofty, still and luminous; keep the column and every figure inside the arched window; no lettering.",
+      "face": "A Syrian ascetic of about sixty-five with a sun-darkened olive complexion and a SMALL, NARROW, sharply CHISELLED face — a narrow, creased forehead under the hood, very prominent, sharp cheekbones over deeply hollowed cheeks, a thin, fine aquiline nose, large, deep-set, luminous dark eyes lifted to heaven, thin lips; a short grey beard parted into two points at the chin; dark-grey hair hidden under the hood.",
+      "refs": [
+        "jerome",
+        "anthony_padua",
+        "francis_assisi"
+      ],
+      "basis": "The Painter's Manual describes him as an old man with a short beard divided in two, which the card follows; the sixth-century silver plaque in the Louvre (Wikipedia lead image) shows him hooded on the railed platform of his column. The book's engraving shows him with arms outstretched on the pillar. The gaunt, chiselled face is our reading of the book's 'superhuman austerity', kept apart from `anthony_abbot` (triangular, long beard) by the short forked beard and small, narrow face.",
+      "sources": [
+        {
+          "title": "Wikipedia, Simeon Stylites (lead image: silver plaque of St. Simeon, Louvre Bj 2180)",
+          "url": "https://en.wikipedia.org/wiki/Simeon_Stylites"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-05-simeon-stylites (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-05-simeon-stylites.md"
+        }
+      ],
+      "lifeChapter": "jan-05-simeon-stylites",
+      "catalogMatch": "St. Simeon Stylites"
+    },
+    {
+      "id": "lucian_antioch",
+      "letter": "L",
+      "feast": {
+        "month": 1,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Lucian",
+        "pt-BR": "São Luciano"
+      },
+      "patronOf": {
+        "en-US": "Priest and martyr",
+        "pt-BR": "Presbítero e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "If we would keep our faith pure, we must study its holy truths.",
+        "pt-BR": "Se quisermos manter pura a nossa fé, devemos estudar suas santas verdades."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-07 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Lucian, priest and scholar of Antioch, half-length at a writing desk: a plain off-white tunic and a dark-red mantle, as in the Byzantine miniatures; he holds open on the desk a large codex of the Scriptures he corrected, a reed pen in his hand, and a martyr's palm leans against the desk beside a stack of rolled scrolls. Behind him, through an arched window, Antioch on the Orontes: pale colonnaded streets and the green slope of Mount Silpius under a clear afternoon sky. Studious and serene; no chains, no wounds, no lettering on the pages.",
+      "face": "A Syrian of about sixty with a warm olive complexion and a BROAD-BROWED, SHORT face — a wide, high, domed forehead, a short, straight nose, dark, intent, slightly narrowed eyes under straight black-grey brows, flat, broad cheeks, a wide, firm mouth, a square chin; thick, short, iron-grey hair combed forward; a short, ROUNDED iron-grey beard; a scholar's steady gaze lifted from the page.",
+      "refs": [
+        "jerome",
+        "thomas_aquinas",
+        "augustine"
+      ],
+      "basis": "The Menologion of Basil II (Wikipedia lead image) shows Lucian in prison with dark, short hair and a short beard in a pale tunic. The book stresses his work on the text of the Scriptures, which gives the codex, pen and scrolls, and his birth at Samosata in Syria; the setting is Antioch, where he taught. The iron-grey colouring for a man martyred in 312 after a long career and the broad-browed structure are our choices, kept apart from `jerome` (long white beard) and `john_damascene` (long, narrow).",
+      "sources": [
+        {
+          "title": "Wikipedia, Lucian of Antioch (lead image: Menologion of Basil II)",
+          "url": "https://en.wikipedia.org/wiki/Lucian_of_Antioch"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-07-lucian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-07-lucian.md"
+        }
+      ],
+      "lifeChapter": "jan-07-lucian",
+      "catalogMatch": "St. Lucian, Martyr"
+    },
+    {
+      "id": "apollinaris_hierapolis",
+      "letter": "A",
+      "feast": {
+        "month": 1,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Apollinaris the Apologist",
+        "pt-BR": "Santo Apolinário, o Apologista"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Hierapolis",
+        "pt-BR": "Bispo de Hierápolis"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Therefore I say unto you, all things whatsoever you ask when you pray, believe that you shall receive: and they shall come unto you.\"",
+        "pt-BR": "\"Por isso vos digo: tudo quanto pedirdes orando, crede que o recebereis, e ser-vos-á concedido.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-08 reflection, the whole of it (Mk 11:24; Pictorial Lives, public domain)",
+      "subject": "St. Claudius Apollinaris, Bishop of Hierapolis in Phrygia in the second century, half-length: an early bishop's dress — a white tunic, a golden-brown paenula (bell-shaped cloak) and a plain white woollen pallium with small dark crosses, no mitre; he holds before him a large rolled scroll, the apology he addressed to the emperor, and raises his right hand as if speaking. Behind him, the city of Hierapolis on its hill with a Roman colonnade and theatre, and below it the dazzling white travertine terraces and pale-blue pools of the hot springs, under a bright sky. Eloquent and calm; no lettering on the scroll.",
+      "face": "A Greek of Asia Minor about sixty, with a light olive complexion and a BROAD, full OVAL face — a high forehead going bald at the crown, a large, gently hooked nose with a strong bridge, lively, wide-set brown eyes under thick, arched dark brows, full cheeks, a firm, wide mouth; black hair greying at the temples; a thick, black, SQUARE-CUT beard streaked with grey to below the chin; an earnest, persuasive gaze to one side.",
+      "refs": [
+        "ambrose",
+        "athanasius",
+        "augustine"
+      ],
+      "basis": "No likeness survives, and the book's engraving shows only a mitred bishop with a short beard. The scroll stands for the apology to Marcus Aurelius that the book calls his chief glory, and Hierapolis with its travertine terraces is his see. The face is our choice, built to stay clear of the other Apollinaris (`apollinaris`, short and wide-cheeked with a white fringe and pointed white beard) and of `ambrose`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Apollinaris Claudius",
+          "url": "https://en.wikipedia.org/wiki/Apollinaris_Claudius"
+        },
+        {
+          "title": "Wikipedia, Hierapolis (the site and its travertine terraces)",
+          "url": "https://en.wikipedia.org/wiki/Hierapolis"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-08-apollinaris-the-apologist (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-08-apollinaris-the-apologist.md"
+        }
+      ],
+      "lifeChapter": "jan-08-apollinaris-the-apologist",
+      "catalogMatch": "St. Apollinaris, the Apologist"
+    },
+    {
+      "id": "julian_basilissa",
+      "letter": "J",
+      "feast": {
+        "month": 1,
+        "day": 9
+      },
+      "name": {
+        "en-US": "Sts. Julian and Basilissa",
+        "pt-BR": "São Julião e Santa Basilissa"
+      },
+      "patronOf": {
+        "en-US": "Spouses who served the sick",
+        "pt-BR": "Esposos a serviço dos enfermos"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Augustine said, \"I have never seen a compassionate and charitable man die a bad death.\"",
+        "pt-BR": "Santo Agostinho disse: \"Nunca vi morrer de má morte um homem compassivo e caridoso.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-09 reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Julian and Basilissa side by side, half-length, in the house they made a hospital in Egypt. Julian (left) in a plain long brown tunic with a light mantle, holding a martyr's palm and extending his other hand in welcome; Basilissa (right) in a soft blue gown and a long white veil over her head and shoulders, holding a small tray with a clay cup and little glass phials of medicine. Behind them, a whitewashed hall of their hospice with a row of low beds and a shelf of jars, and through an arch the palms and the Nile at Antinoë in golden afternoon light. Tender and dignified; no suffering shown, no lettering.",
+      "face": "Two clearly different people, both Egyptians of the Roman age with warm olive-brown skin. Julian (left): a man of about forty-five with a KITE-SHAPED face, widest at high, angular cheekbones and narrowing both to a moderate forehead and to a small, firm chin — a straight nose with a narrow bridge, deep-set, kind hazel eyes, short, straight grey brows, a thin, gentle mouth; short, grey-streaked dark hair; a short grey-streaked beard trimmed to the line of the jaw. Basilissa (right): a woman of about thirty-five with a LONG, slender face and a long, graceful neck — a smooth, high forehead, a long, straight nose, large, dark, almond-shaped eyes set under long, dark, softly arched brows, gently hollowed cheeks, a small full mouth, a narrow, rounded chin; dark hair under the white veil; eyes lowered toward the tray.",
+      "refs": [
+        "philip_james",
+        "elizabeth_hungary",
+        "vincent_de_paul"
+      ],
+      "basis": "The book's engraving shows the pair nursing in their hospital, Julian bearded in a plain tunic and Basilissa veiled with a tray of phials, which the card follows; Batoni's altarpiece at Santa Maria dei Monti (Wikipedia lead image) gives Basilissa in blue and Julian bearded with a palm. The Painter's Manual has a grey-haired St. Julian on 6 January among its martyrs, the Roman Martyrology's date for this pair; we take the grey only lightly because the identification is not certain. The structures are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Julian and Basilissa (lead image: Pompeo Batoni's altarpiece)",
+          "url": "https://en.wikipedia.org/wiki/Julian_and_Basilissa"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-09-ss-julian-and-basilissa (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-09-ss-julian-and-basilissa.md"
+        }
+      ],
+      "lifeChapter": "jan-09-ss-julian-and-basilissa",
+      "catalogMatch": "Ss. Julian and Basilissa"
+    },
+    {
+      "id": "william_bourges",
+      "letter": "W",
+      "feast": {
+        "month": 1,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. William of Bourges",
+        "pt-BR": "São Guilherme de Bourges"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of Bourges",
+        "pt-BR": "Arcebispo de Bourges"
+      },
+      "prayerExcerpt": {
+        "en-US": "Never forget that to convert others we must first see to our own souls.",
+        "pt-BR": "Nunca te esqueças de que, para converter os outros, devemos primeiro cuidar de nossa própria alma."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-10 reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. William, Cistercian monk and Archbishop of Bourges, half-length: the white Cistercian cowl with its wide sleeves under a white pallium with black crosses, a plain white mitre, a gold pectoral cross; he holds a crozier and, cradled against his chest, a small gold monstrance with the Host (his devotion to the Blessed Sacrament), his eyes lowered to it. Behind him, the tall Gothic choir of Bourges Cathedral rising in pale stone with its first flying buttresses and wooden scaffolding, whose choir was nearly finished at his death, under a soft grey-blue sky. Humble and recollected; no lettering.",
+      "face": "A Frenchman of about sixty-five with a fair, lightly ruddy complexion and a WIDE, SHORT face with a FLAT profile — prominent, rounded cheekbones set high, a short, broad nose with a flattish bridge, heavy-lidded gentle blue-grey eyes, low, straight light-brown brows, a small, closed mouth, a broad, rounded chin; brown hair turning grey, cut short around the monastic tonsure under the mitre; a short, full brown-grey beard; downcast, meditative gaze.",
+      "refs": [
+        "bernard_clairvaux",
+        "charles_borromeo",
+        "ambrose"
+      ],
+      "basis": "A modern mural of 'S. Guillelmus' (Wikipedia lead image) shows a mitred bishop with short brown hair and a short brown beard holding a church; the book's engraving shows him in the Cistercian habit with a monstrance on the altar. Wikipedia gives his birth c. 1140, his Cistercian life, his devotion to the Blessed Sacrament and his work on the new cathedral of Bourges. The wide, flat-profiled face is our choice, kept apart from `bernard_clairvaux`, the set's other white-habited Cistercian.",
+      "sources": [
+        {
+          "title": "Wikipedia, William of Donjeon (lead image: Saint Guillaume de Bourges)",
+          "url": "https://en.wikipedia.org/wiki/William_of_Donjeon"
+        },
+        {
+          "title": "Wikipedia, Bourges Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Bourges_Cathedral"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-10-william (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-10-william.md"
+        }
+      ],
+      "lifeChapter": "jan-10-william",
+      "catalogMatch": "St. William, Archbishop"
+    },
+    {
+      "id": "theodosius_cenobiarch",
+      "letter": "T",
+      "feast": {
+        "month": 1,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Theodosius the Cenobiarch",
+        "pt-BR": "São Teodósio, o Cenobiarca"
+      },
+      "patronOf": {
+        "en-US": "Father of the monks of Palestine",
+        "pt-BR": "Pai dos monges da Palestina"
+      },
+      "prayerExcerpt": {
+        "en-US": "Can ours be true charity if it costs us little or nothing?",
+        "pt-BR": "Pode ser verdadeira a nossa caridade, se pouco ou nada nos custa?"
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-11 reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. Theodosius the Cenobiarch, the old abbot of the Judaean desert, half-length at the mouth of his cave: a dark-brown monastic habit with a rope belt and a brown mantle, a hood lying back on his shoulders; he holds out a round loaf of bread in both hands, as he gave to the poor, and a plain wooden staff leans beside him. Behind him, the rocky cave opening, and beyond it the bare golden hills of the Judaean desert near Bethlehem with the low stone walls and small domed church of his monastery, under a clear evening sky. Kindly and generous; no lettering.",
+      "face": "A Cappadocian of about ninety, very old but gentle, with a weathered, lightly tanned complexion and a BROAD, FLAT-PLANED face, widest at high, full cheekbones that sit over soft, rounded cheeks — a broad, bald forehead and crown with a few wisps of white at the temples, a short, broad, straight nose, small, deep-set, kindly brown eyes creased at the corners, thin white brows, a gentle closed mouth; a long, full white beard divided into two points at the chest; eyes toward the bread and the poor he gives it to.",
+      "refs": [
+        "anthony_padua",
+        "benedict",
+        "nicholas"
+      ],
+      "basis": "The Painter's Manual gives him as an old man with a beard divided in two; the Wikipedia icon with scenes of his life shows him with a long beard in a red-brown mantle. The book gives his great age (he died at a hundred and six), his cave, his monastery near Bethlehem and the hundred tables laid for the poor, hence the bread. The broad, soft-cheeked face is our choice, kept apart from `romuald` (long face under a bald dome, knit brows) and `anthony_abbot` (triangular).",
+      "sources": [
+        {
+          "title": "Wikipedia, Theodosius the Cenobiarch (lead image: icon with scenes of his life)",
+          "url": "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-11-theodosius-the-cenobiarch (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-11-theodosius-the-cenobiarch.md"
+        }
+      ],
+      "lifeChapter": "jan-11-theodosius-the-cenobiarch",
+      "catalogMatch": "St. Theodosius, The Cenobiarch"
+    }
+  ]
+}

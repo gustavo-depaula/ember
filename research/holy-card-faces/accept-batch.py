@@ -27,6 +27,7 @@ for c in batch["cards"]:
         "patronOf": c["patronOf"],
         "prayerExcerpt": c["prayerExcerpt"],
         **({"lifeChapter": c["lifeChapter"]} if "lifeChapter" in c else {}),
+        **({"proper": c["proper"]} if "proper" in c else {}),
         "meta": {
             "face": c.get("face", "-"),
             "basis": c["basis"],
