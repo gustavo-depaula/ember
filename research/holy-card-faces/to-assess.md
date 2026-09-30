@@ -24,6 +24,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Mass-part card convention:** no `box` colour (initial falls back to blue), priest in white and gold. This sets the other 28 Mass-part cards. [As stated.]
 - [ ] **Mass-part ministers (batch 46):** readers laymen, psalmist in cassock and surplice, the priest reads the Gospel (no deacon); the priest at the chair (Greeting to Collect) is shown from behind or in profile though he faces the people there. Women readers/cantors or a deacon would also follow the rubrics. [As stated.] — `dossiers/batch-46.md`
 - [ ] **Gloria card** adds a vault fresco of angels over shepherds (Luke 2:14), an artistic choice. [Kept.]
+- [ ] **Consecration card (batch 47)** keeps the `x_consecration` composition, but the server rings the bell and a thurifer incenses the Host (GIRM 150) instead of lifting the chasuble's hem (not in the Order of Mass or GIRM). [No hem.] — `dossiers/batch-47.md`
+- [ ] **Batch 47 small choices:** Homily from a carved pulpit (GIRM 136 "another worthy place"); Universal Prayer read by a laywoman; kneeling from after the Sanctus to the Amen (US GIRM 43); Homily excerpt Luke 4:21 (Christ at Nazareth). [As stated.]
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal

@@ -1,0 +1,417 @@
+{
+  "batch": 47,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-47.md",
+  "cards": [
+    {
+      "id": "homily",
+      "letter": "H",
+      "name": {
+        "en-US": "Homily",
+        "pt-BR": "Homilia"
+      },
+      "patronOf": {
+        "en-US": "The Word explained to the people",
+        "pt-BR": "A Palavra explicada ao povo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Then he began to speak to them, 'This text is being fulfilled today even as you listen'.",
+        "pt-BR": "Então começou a dizer-lhes: \"Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir\"."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-3/sunday.json readings.C.gospel body (Luke 4:21, its last sentence; verbatim in both languages)",
+      "subject": "The Homily at a Sunday Mass, seen from across the nave at the height of a tall carved wooden pulpit fixed to a stone pillar, with a carved sounding board above it. In the pulpit, the priest, in a white-and-gold chasuble over a white alb, stands in profile and preaches, one hand resting on the pulpit's rail and the other open toward the people, his face earnest and kind. Below him the congregation sits in the wooden pews, small, faces turned up to listen: a mother with a sleeping baby, an old farmer, schoolchildren in a row. Far off, the sanctuary with the altar, its crucifix and lit candles. Late-morning light slants across the pillars. Attentive, warm. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest gives the Homily 'standing at the chair or at the ambo itself or, if appropriate, in another worthy place' (GIRM 136): here a pulpit, which keeps the card apart from the ambo of the readings. The faithful sit for the Homily (GIRM 43); it is given by the priest celebrant himself (GIRM 66). The excerpt is Christ's own first homily, at Nazareth, from the Gospel of the Third Sunday, Year C.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 65–66 (sitting for the Homily; the Homily and who gives it)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 136 (the Homily at the chair, the ambo, or another worthy place)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Third Sunday in Ordinary Time, Year C, Gospel (content/of/formularies/tempore/ordinary-time/week-3/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-3/sunday.json"
+        }
+      ],
+      "catalogMatch": "Homily"
+    },
+    {
+      "id": "profession_of_faith",
+      "letter": "P",
+      "name": {
+        "en-US": "Profession of Faith",
+        "pt-BR": "Profissão de Fé"
+      },
+      "patronOf": {
+        "en-US": "The people confess the faith of the Church",
+        "pt-BR": "O povo professa a fé da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "And by the Holy Spirit was incarnate of the Virgin Mary, and became man.",
+        "pt-BR": "E se encarnou pelo Espírito Santo, no seio da Virgem Maria, e se fez homem."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.credo-nicene (the lines at which all bow, joined, first letter capitalised; verbatim otherwise)",
+      "subject": "The Creed at a Sunday Mass, seen from the side of the sanctuary looking across the front of the nave. In the foreground, in profile, the priest, in a white-and-gold chasuble over a white alb, stands at his chair and bows profoundly, his hands joined; two servers in cassock and surplice beside him bow with him. Beyond them, row after row, the whole standing congregation bows deeply at the same moment, seen from the side: men and women, an old man steadying himself on the pew, children copying their parents. Tall stone pillars, coloured light from the stained-glass windows of the side wall. One great reverent bow, silent and united. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Creed is said by the priest together with the people, everyone standing; 'at the words et incarnatus est, etc. (and by the Holy Spirit . . . and became man) all make a profound bow' (GIRM 137, 43, 68), the rubric the Order of Mass prints at those lines. The card shows that bow, at the very words of the excerpt.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 67–68 (standing; the Profession of Faith)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 137 (the Creed; all bow at et incarnatus est)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Profession of Faith (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Profession of Faith"
+    },
+    {
+      "id": "universal_prayer",
+      "letter": "U",
+      "name": {
+        "en-US": "Universal Prayer",
+        "pt-BR": "Oração Universal"
+      },
+      "patronOf": {
+        "en-US": "The faithful pray for the whole world",
+        "pt-BR": "Os fiéis rezam pelo mundo inteiro"
+      },
+      "prayerExcerpt": {
+        "en-US": "For the holy Church of God: that the Lord may guide and protect it. Lord hear us. Lord, graciously hear us.",
+        "pt-BR": "Pela santa Igreja de Deus, para que ele a proteja e sustente, rezemos ao Senhor. Senhor, atendei-nos."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.universal-prayer, General Formula I, the first intention and the people's reply (the numeral and ℟. dropped, lines joined; verbatim otherwise)",
+      "subject": "The Prayer of the Faithful at a Sunday Mass, seen from behind and to one side of a stone ambo, looking out over the church. At the ambo, seen from behind, a young woman in a plain dark dress and cardigan reads an intention from a single sheet, facing the people. Before her the whole congregation stands in the wooden pews, hands joined, answering together, small and many, the long nave stretching back to the west doors. At the side of the sanctuary, the priest, in a white-and-gold chasuble over a white alb, stands at his chair in profile with his hands joined, listening. Soft even daylight. Earnest, united, prayerful. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest, 'standing at the chair with his hands joined', introduces the prayer; 'the cantor, the reader, or another person announces the intentions from the ambo or from some other suitable place while facing the people', who stand and reply (GIRM 138, 71, 43). The reader is one of the lay faithful (GIRM 71).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 69–71 (standing; the Universal Prayer, its intentions, who announces them)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 138 (the priest at the chair; the intentions from the ambo, facing the people)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Universal Prayer (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Universal Prayer"
+    },
+    {
+      "id": "preparation_of_gifts",
+      "letter": "P",
+      "name": {
+        "en-US": "Preparation of the Gifts",
+        "pt-BR": "Preparação das Oferendas"
+      },
+      "patronOf": {
+        "en-US": "Bread and wine are brought to the altar",
+        "pt-BR": "O pão e o vinho são levados ao altar"
+      },
+      "prayerExcerpt": {
+        "en-US": "Blessed are you, Lord God of all creation, for through your goodness we have received the bread we offer you: fruit of the earth and work of human hands, it will become for us the bread of life.",
+        "pt-BR": "Bendito sejais, Senhor, Deus do universo, pelo pão que recebemos de vossa bondade, fruto da terra e do trabalho humano, que agora vos apresentamos, e para nós se vai tornar pão da vida."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.preparation-of-gifts (the blessing over the bread, line breaks joined, verbatim in both languages)",
+      "subject": "The Preparation of the Gifts at a Sunday Mass, seen close from the side of the altar, in profile. The priest, in a white-and-gold chasuble over a white alb, stands at the altar facing it and holds a golden paten with a large white host slightly raised above the altar with both hands, just above the white corporal; beside the corporal stand a golden chalice with a folded white purificator and the open Missal on a small stand, its pages showing no letters. At the corner of the altar a server in cassock and surplice waits with the glass cruets of wine and water on a small tray. Beyond, soft and far, the congregation sits in the pews; a young couple who carried up the gifts walk back down the aisle. Warm candlelight, quiet offering. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The corporal, purificator, chalice and Missal are placed on the altar and the faithful bring up the bread and wine (GIRM 73, 139–140); the priest 'holds it slightly raised above the altar with both hands and says quietly' the blessing of the excerpt, then the minister presents the cruets (GIRM 141–142; the Order of Mass rubric). The people sit (GIRM 43). 'Slightly raised', not the elevation: the paten stays just above the altar.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 73–75 (sitting; the altar made ready and the gifts brought forward)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 139–142 (the altar prepared; the offerings received; the paten slightly raised; the cruets)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Preparation of the Gifts"
+    },
+    {
+      "id": "prayer_over_offerings",
+      "letter": "P",
+      "name": {
+        "en-US": "Prayer over the Offerings",
+        "pt-BR": "Oração sobre as Oferendas"
+      },
+      "patronOf": {
+        "en-US": "The priest prays over the gifts",
+        "pt-BR": "O sacerdote reza sobre as oferendas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant us, O Lord, we pray, that we may participate worthily in these mysteries, for whenever the memorial of this sacrifice is celebrated the work of our redemption is accomplished.",
+        "pt-BR": "Concedei-nos, Senhor, a graça de participar dignamente destes mistérios, pois todas as vezes que celebramos o memorial do sacrifício do vosso Filho, realiza-se em nós a obra da redenção."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json prayerOverOfferings (without its conclusion 'Through Christ our Lord.', line breaks joined, verbatim in both languages)",
+      "subject": "The Prayer over the Offerings at a Sunday Mass, seen from high in a side gallery of a tall stone church, looking down diagonally onto the sanctuary. The priest, in a white-and-gold chasuble over a white alb, stands at the middle of the altar facing it, seen from above and behind, his hands extended in prayer. On the white altar cloth before him: the corporal with the golden paten and host and the chalice covered with its white pall, the open Missal, the crucifix and six lit candles. A faint haze of incense still hangs over the altar. Two servers stand with joined hands at the side; below, the congregation stands in the pews, small, all turned toward the altar. Golden light, a hushed, gathered stillness. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the invitation Pray, brethren, 'the people rise', and 'the Priest, with hands extended, says the Prayer over the Offerings' (GIRM 146, 43, 77), the gifts already on the corporal and the chalice covered with the pall (GIRM 142); the incense haze is left from the incensation of the offerings, the cross and the altar that may follow the Preparation (GIRM 75, 144).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 75, 77 (standing from the Orate, fratres; the incensation; the Prayer over the Offerings)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 142, 144, 146 (the pall; the incensation; the Prayer over the Offerings with hands extended)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Prayer over the Offerings (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+        }
+      ],
+      "catalogMatch": "Prayer over the Offerings"
+    },
+    {
+      "id": "preface",
+      "letter": "P",
+      "name": {
+        "en-US": "Preface Dialogue and Preface",
+        "pt-BR": "Diálogo do Prefácio e Prefácio"
+      },
+      "patronOf": {
+        "en-US": "The great prayer of thanksgiving begins",
+        "pt-BR": "Começa a grande oração de ação de graças"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lift up your hearts. We lift them up to the Lord.",
+        "pt-BR": "Corações ao alto. O nosso coração está em Deus."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.preface-dialogue (the priest's second call and the people's reply, joined; verbatim in both languages)",
+      "subject": "The Preface Dialogue at a Sunday Mass, seen from the nave just behind the people standing in the front pews, looking up over their heads and shoulders to the sanctuary. At the top of the altar steps, the priest, in a white-and-gold chasuble over a white alb, stands at the altar facing it, seen from behind, and lifts both hands high. Beyond the altar, with its crucifix and lit candles, a tall east window pours down morning light. In the foreground the people stand, seen from behind, some lifting their faces toward the light. Uplifted, bright, full of thanksgiving. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest begins the Eucharistic Prayer with hands extended; 'as he continues, saying, Lift up your hearts, he raises his hands', and the people reply (GIRM 148; the Order of Mass rubric 'The Priest, raising his hands, continues'). All stand (GIRM 43). The Preface follows, with hands extended (GIRM 148, 78–79a).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 78–79 (standing; the Eucharistic Prayer; the thanksgiving of the Preface)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 148 (the Preface dialogue: hands extended, then raised)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Preface Dialogue (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Preface Dialogue and Preface"
+    },
+    {
+      "id": "sanctus",
+      "letter": "S",
+      "name": {
+        "en-US": "Sanctus",
+        "pt-BR": "Santo"
+      },
+      "patronOf": {
+        "en-US": "With the angels we sing God's glory",
+        "pt-BR": "Com os anjos cantamos a glória de Deus"
+      },
+      "prayerExcerpt": {
+        "en-US": "Holy, Holy, Holy Lord God of hosts. Heaven and earth are full of your glory.",
+        "pt-BR": "Santo, Santo, Santo, Senhor, Deus do universo. O céu e a terra proclamam a vossa glória."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.sanctus (its opening, line breaks joined, verbatim in both languages)",
+      "subject": "The Sanctus at a Sunday Mass, seen from the choir stalls at the side of the sanctuary, close to the altar. The priest, in a white-and-gold chasuble over a white alb, stands at the altar facing it, in profile, his hands joined, singing. Behind and above the altar rises a tall gilded reredos painted on a gold ground with rows of angels and six-winged red seraphim, all turned in adoration toward its centre, where a carved crucifix stands. Two servers in cassock and surplice stand at the side with hands joined. Beyond the altar rail, the congregation stands and sings, small. Candlelight glints on the gold. Jubilant, heavenly, one song with the angels. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "At the end of the Preface the priest 'joins his hands and, together with all those present, sings or says aloud the Sanctus' (GIRM 148), the acclamation 'by which the whole congregation, joining with the heavenly powers', takes part in the Eucharistic Prayer (GIRM 79b); all still stand (GIRM 43). The seraphim of Isaiah 6 on the reredos stand for those heavenly powers, as painting, not vision.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 79 (standing; the Sanctus, sung with the heavenly powers)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 148 (the priest joins his hands and sings the Sanctus with all)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Sanctus (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Sanctus"
+    },
+    {
+      "id": "epiclesis",
+      "letter": "E",
+      "name": {
+        "en-US": "Epiclesis",
+        "pt-BR": "Epiclese"
+      },
+      "patronOf": {
+        "en-US": "The Church calls down the Holy Spirit",
+        "pt-BR": "A Igreja invoca o Espírito Santo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall, so that they may become for us the Body and Blood of our Lord Jesus Christ.",
+        "pt-BR": "Santificai, pois, estes dons, derramando sobre eles o vosso Espírito, a fim de que se tornem para nós o Corpo e o Sangue de nosso Senhor Jesus Cristo."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json eucharisticPrayers order.eucharistic-prayer.2 (the epiclesis, the rubrics between its lines and the ✠ dropped, lines joined; verbatim otherwise)",
+      "subject": "The Epiclesis, seen close from just behind and to the right of the priest, looking over his shoulder down onto the altar. The priest, in a white-and-gold chasuble over a white alb, stands at the middle of the altar facing it, his two hands held out together, palms down, over the offerings: on the white corporal, a golden paten with a large white host and a golden chalice. The open Missal on its stand beside them, pages showing no letters; the crucifix and tall lit candles rise beyond. High above the altar, in a round stained-glass window, the Holy Spirit as a white dove in golden rays, and a soft light falls from it onto the gifts. On the altar step below, a server in cassock and surplice kneels holding a small bell. The faithful kneel in the nave, unseen but for a hush. Still, expectant, luminous. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "In the Second Eucharistic Prayer the priest 'joins his hands and, holding them extended over the offerings' says the epiclesis, then makes the Sign of the Cross over the bread and chalice together (the Order of Mass rubric; GIRM 79c: the Church implores the power of the Holy Spirit on the gifts). A little before the Consecration a minister may ring a small bell (GIRM 150); the faithful kneel after the Sanctus (GIRM 43, USCCB). The dove is glass in the church's window.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 79 (kneeling after the Sanctus; the epiclesis)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 150 (the small bell before the Consecration)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: Eucharistic Prayer II, the epiclesis (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Epiclesis"
+    },
+    {
+      "id": "consecration",
+      "letter": "C",
+      "name": {
+        "en-US": "Consecration",
+        "pt-BR": "Consagração"
+      },
+      "patronOf": {
+        "en-US": "Bread and wine become Christ's Body and Blood",
+        "pt-BR": "O pão e o vinho tornam-se o Corpo e o Sangue de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Take this, all of you, and eat of it, for this is my body, which will be given up for you.",
+        "pt-BR": "Tomai, todos, e comei: Isto é o meu Corpo, que será entregue por vós."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json eucharisticPrayers order.eucharistic-prayer.2 (the words over the bread, line breaks joined, verbatim in both languages)",
+      "subject": "The Consecration at Mass, seen straight on from the foot of the altar steps, the altar the centre. At a white-and-gold high altar with six tall lit candles and a crucifix, the priest, in a white-and-gold chasuble over a white alb, seen from behind, facing the altar, raises the white Host high above his head with both hands. On the step at the right a server in cassock and white surplice kneels and rings a small bell; at the left a kneeling thurifer swings a smoking thurible toward the Host. Soft golden rays fall from above onto the Host. At the very bottom of the arch, the heads and shoulders of the faithful kneeling in the front pew, seen from behind. Figures small in the scene. Adoring, still. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the words over the bread the priest 'shows the consecrated host to the people, places it again on the paten, and genuflects in adoration' (the Order of Mass rubric, Eucharistic Prayer II; GIRM 79d); a minister rings the small bell at each elevation according to local custom, and if incense is used a minister incenses the host when it is shown (GIRM 150). The faithful kneel (GIRM 43, USCCB). Composed as the x_consecration test draft (2026-09-29), without its server lifting the chasuble's hem, which the rubrics don't give.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 79 (kneeling; the institution narrative and Consecration)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 150 (the bell at the elevation; the host incensed when shown)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: Eucharistic Prayer II, the Consecration (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Consecration"
+    },
+    {
+      "id": "mystery_of_faith",
+      "letter": "M",
+      "name": {
+        "en-US": "Mystery of Faith",
+        "pt-BR": "Mistério da Fé"
+      },
+      "patronOf": {
+        "en-US": "The people acclaim the Lord's Death and Resurrection",
+        "pt-BR": "O povo aclama a morte e a ressurreição do Senhor"
+      },
+      "prayerExcerpt": {
+        "en-US": "The mystery of faith. We proclaim your Death, O Lord, and profess your Resurrection until you come again.",
+        "pt-BR": "Mistério da fé! Anunciamos, Senhor, a vossa morte e proclamamos a vossa ressurreição. Vinde, Senhor Jesus!"
+      },
+      "excerptSource": "content/of/order/order-of-mass.json eucharisticPrayers order.eucharistic-prayer.2 (the priest's invitation and the first acclamation, the rubric between them dropped, lines joined; verbatim otherwise)",
+      "subject": "The Mystery of Faith at a Sunday Mass, seen from a side aisle at the front of the nave. In the foreground, half-length and in profile, the faithful kneel in a wooden pew and sing the acclamation, faces lifted toward the altar: an old woman with a rosary wound through her joined hands, a young father, a girl in a white veil. Beyond them, up the sanctuary steps and seen at an angle, the priest, in a white-and-gold chasuble over a white alb, stands at the altar facing it with his hands joined; on the corporal before him the golden chalice and the paten with the white Host, the tall candles burning on either side. A server kneels on the altar step. Warm golden light, joyful adoration. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the Consecration, when the priest, having shown the chalice and genuflected, has said The mystery of faith, 'the people pronounce the acclamation, using one of the prescribed formulas' (GIRM 151; the Order of Mass rubric), still kneeling until after the Amen (GIRM 43, USCCB). The acclamation is the people's, so the card is on them, as on the Responsorial Psalm.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 79 (kneeling until the Amen; the anamnesis)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 151 (the acclamation after the Consecration)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: Eucharistic Prayer II, the Mystery of Faith (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Mystery of Faith"
+    }
+  ]
+}
