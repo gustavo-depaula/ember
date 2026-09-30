@@ -1,0 +1,471 @@
+{
+  "batch": 52,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-52.md",
+  "cards": [
+    {
+      "id": "lazarus_devasahayam",
+      "letter": "L",
+      "feast": {
+        "month": 1,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Lazarus Devasahayam",
+        "pt-BR": "São Lázaro Devasahayam"
+      },
+      "patronOf": {
+        "en-US": "Layman and martyr of India",
+        "pt-BR": "Leigo e mártir da Índia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whoever follows me will not walk in darkness, but will have the light of life, says the Lord.",
+        "pt-BR": "Quem me segue não andará nas trevas, mas terá a luz da vida, diz o Senhor."
+      },
+      "excerptSource": "content/of/formularies/common/martyrs/mart7.json communionAntiphon (Common of Martyrs, outside Easter Time, for one martyr 2); no saying of his own is recorded",
+      "subject": "St. Lazarus Devasahayam, the Hindu court official of Travancore who became a Christian, half-length as a martyr in chains, as his traditional image shows him: a plain white cotton veshti (mundu) at the waist and a white cotton shawl drawn across his chest and over one shoulder, a light iron chain hanging loosely from his wrists, his hands joined in prayer before his breast. Behind him, the rocky, scrub-covered hillock of Aralvaimozhy in the far south of India at dusk, a great bare boulder on its crest, palmyra palms below and the blue ridges of the Western Ghats beyond under a warm, glowing sky. Peaceful and steadfast; no wounds, no soldiers, no lettering.",
+      "face": "A South Indian man of about forty (he died at thirty-nine) with a warm, deep-brown complexion and a BROAD, SQUARE face — a wide, LOW forehead, strong, FLAT cheekbones, a STRAIGHT, broad nose with a LOW bridge and full, rounded nostrils, large, dark, deep-set eyes under THICK, straight black brows that nearly meet, a wide, full-lipped mouth and a strong, square jaw; thick, wavy black hair falling to the shoulders and a FULL, dense black beard trimmed ROUND at the chin; the gaze lifted in prayer. Not a long oval face, not Christ-like.",
+      "refs": [
+        "sebastian",
+        "moses_the_black",
+        "george"
+      ],
+      "basis": "No likeness from life survives (he died in 1752). The traditional image (the Dicastery's picture for his canonization; the painting and the statue in Kottar cathedral on Wikimedia Commons) shows a black-haired, full-bearded man kneeling bare-chested in a white veshti with chains at his wrists; the card keeps its hair, beard and dress, covers the chest with a shawl, and gives the face a broad, square Tamil structure so it cannot read as Christ.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Devasahayam Pillai (biography; the traditional image)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/devasahayam-pillai.html"
+        },
+        {
+          "title": "Wikimedia Commons, Devasagayam.JPG (the traditional painting)",
+          "url": "https://commons.wikimedia.org/wiki/File:Devasagayam.JPG"
+        },
+        {
+          "title": "Wikimedia Commons, Devasahayam Pillai 2a.JPG (statue, St. Francis Xavier Cathedral, Kottar)",
+          "url": "https://commons.wikimedia.org/wiki/File:Devasahayam_Pillai_2a.JPG"
+        },
+        {
+          "title": "Wikipedia, Devasahayam Pillai (Aralvaimozhy, the Kaattadimalai hillock)",
+          "url": "https://en.wikipedia.org/wiki/Devasahayam_Pillai"
+        }
+      ],
+      "catalogMatch": "St. Lazarus Devasahayam"
+    },
+    {
+      "id": "maria_santocanale",
+      "letter": "M",
+      "feast": {
+        "month": 1,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Maria of Jesus Santocanale",
+        "pt-BR": "Santa Maria de Jesus Santocanale"
+      },
+      "patronOf": {
+        "en-US": "Foundress, mother of the poor",
+        "pt-BR": "Fundadora, mãe dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Do not doubt: God will help you. I will not abandon you.\"",
+        "pt-BR": "\"Não duvideis: Deus vos assistirá. Não vos abandonarei.\""
+      },
+      "excerptSource": "Her last words to her sisters, «non dubitate. Iddio vi assisterà… Non vi abbandonerò», as reported by Famiglia Cristiana (2022); our rendering, shortened at the ellipses (she died in 1923)",
+      "subject": "St. Maria of Jesus Santocanale, the Palermo noblewoman who became a Capuchin tertiary and founded the Capuchin Sisters of the Immaculate of Lourdes, half-length in her sisters' Franciscan habit: a plain brown habit girded with a white knotted cord, a black veil over a white wimple and a small white bib, a simple wooden crucifix on her breast; in the crook of her left arm a round loaf of bread in a white cloth for the poor she visited door to door, her right hand laid over it. Behind her, Cinisi in Sicily: white and ochre houses and the dome and bell tower of the mother church at the foot of the grey limestone Monte Pecoraro, and a strip of the blue Tyrrhenian Sea beyond. Tender and grave; no lettering.",
+      "face": "A tall Palermitan noblewoman of about sixty with a pale olive complexion and a LONG, NARROW, fine-boned face — a smooth, high forehead under the wimple, dark brows that slope DOWN at their outer ends, large dark eyes whose outer corners DROOP a little, giving a gentle, sorrowful look, a LONG, slender nose with a high, straight bridge, a LONG upper lip, lightly hollowed cheeks and hollow temples, a SMALL, full, closed mouth and a narrow, tapering chin; the gaze grave and kind, toward us.",
+      "refs": [
+        "clare_assisi",
+        "margaret_mary",
+        "teresa"
+      ],
+      "basis": "Her photograph (the Dicastery's portrait and Wikimedia's headshot, before 1923): a long, narrow face with a long, high-bridged nose, large dark eyes with drooping outer corners, a long upper lip and a small mouth, in a black veil and white wimple. A sister's memory, quoted by Famiglia Cristiana, calls her tall, with fine features. The loaf is for her door-to-door alms among the poor of Palermo and Cinisi.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Maria di Gesù Santocanale (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/maria-di-gesu-santocanale.html"
+        },
+        {
+          "title": "Wikimedia Commons, Carolina Santocanale (headshot).png (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Carolina_Santocanale_(headshot).png"
+        },
+        {
+          "title": "Famiglia Cristiana, Suor Maria di Gesù Santocanale, la nobile che lasciò tutto (her last words; 'bella, alta, dai lineamenti fini')",
+          "url": "https://www.famigliacristiana.it/articolo/suor-maria-di-gesu-santocanale-la-nobile-che-lascio-tutto-per-aiutare-gli-orfani-e-i-poveri.aspx"
+        }
+      ],
+      "catalogMatch": "St. Maria of Jesus Santocanale"
+    },
+    {
+      "id": "maria_domenica_mantovani",
+      "letter": "M",
+      "feast": {
+        "month": 2,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Maria Domenica Mantovani",
+        "pt-BR": "Santa Maria Domênica Mantovani"
+      },
+      "patronOf": {
+        "en-US": "Co-foundress of the Little Sisters of the Holy Family",
+        "pt-BR": "Cofundadora das Pequenas Irmãs da Sagrada Família"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"With the help of the Holy Family, I will be all things to all.\"",
+        "pt-BR": "\"Com a ajuda da Sagrada Família, serei toda para todos.\""
+      },
+      "excerptSource": "Her written resolution «Con l'aiuto della Sacra Famiglia sarò tutta a tutti», which she often wrote among her resolutions, as quoted by Città Nuova (2022); the Dicastery's biography also says she made herself «tutta a tutti»; our rendering (she died in 1934)",
+      "subject": "St. Maria Domenica Mantovani, first superior of the Little Sisters of the Holy Family, half-length in the habit of her photograph: a black habit and a black veil over a narrow white band at the brow, a wide, round, white collar spread over her shoulders and breast, a small oval medal on a cord below it; a rosary held in her joined hands. Behind her, Castelletto di Brenzone on the eastern shore of Lake Garda: a small stone village with its church bell tower among silver olive trees at the water's edge, the calm blue lake, and the long green slopes of Monte Baldo rising above. Homely and motherly; no lettering.",
+      "face": "A countrywoman of the Lake Garda shore of about sixty with a warm, lightly sun-browned complexion and a PEAR-SHAPED face — narrower at the brow and BROAD and full at the cheeks and jaw, a straight, fairly long nose with a broad, rounded tip, SMALL eyes NARROWED by a smile, with fine crinkles at their corners, under thin, slightly RAISED, arched brows, a WIDE mouth in a warm, closed smile, a broad, rounded chin; the gaze toward us, motherly and a little amused.",
+      "refs": [
+        "margaret_mary",
+        "teresa",
+        "therese"
+      ],
+      "basis": "Her photograph (before 1934, on the Dicastery's page and Wikimedia Commons): a broad, full lower face under a narrower brow, small smiling eyes, raised brows, a straight nose with a broad tip and a wide mouth, in the black veil and the wide white collar. The card keeps her at about sixty, as there.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Maria Domenica Mantovani (biography and photograph)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/maria-domenica-mantovani.html"
+        },
+        {
+          "title": "Wikimedia Commons, Maria Domenica Mantovani.jpg (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Maria_Domenica_Mantovani.jpg"
+        },
+        {
+          "title": "Città Nuova, Maria Domenica Mantovani: la santa della prossimità (her resolutions)",
+          "url": "https://www.cittanuova.it/maria-domenica-mantovani-la-santa-della-prossimita/"
+        }
+      ],
+      "catalogMatch": "St. Maria Domenica Mantovani"
+    },
+    {
+      "id": "marie_rivier",
+      "letter": "M",
+      "feast": {
+        "month": 2,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Marie Rivier",
+        "pt-BR": "Santa Maria Rivier"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Sisters of the Presentation of Mary",
+        "pt-BR": "Fundadora das Irmãs da Apresentação de Maria"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Let us care only for the thought of God, and desire only his greater glory in all things.\"",
+        "pt-BR": "\"Não sejamos sensíveis senão ao pensamento de Deus, e não desejemos senão a sua maior glória em todas as coisas.\""
+      },
+      "excerptSource": "Her letter to a sister, «Ne soyons sensibles qu'à la pensée de Dieu et ne désirons que sa plus grande gloire en toute chose», as quoted on the Presentation of Mary's page of her letters to the congregation; our rendering (she died in 1838)",
+      "subject": "St. Marie Rivier, the tiny, indomitable foundress who taught the children of the Vivarais after the Revolution, half-length in the habit of her portrait: a black habit, a black hooded veil over a white band framing the face, a black shawl crossed over the breast, and a plain metal cross on a cord; in her hands a small open book, turned toward a little peasant girl in a white cap who stands close at her side, looking up at her. Behind her, Bourg-Saint-Andéol on the Rhône: the broad river, a Romanesque church tower and the old convent walls of pale stone, plane trees, and the low hills of the Ardèche beyond. Warm and resolute; no lettering.",
+      "face": "A very SMALL, slight woman of about sixty-five from the Ardèche, with a fair, pale complexion and a SOFT, ROUND face falling into gentle JOWLS — a smooth forehead under the white band, HEAVY, DROOPING upper lids over small, bright, kindly eyes, faint, softly arched brows, a LONG nose with a rounded, FLESHY tip, full cheeks, a SMALL mouth drawn up at one corner in a slight smile; the head TILTED a little to one side, as in her portrait. The girl: about seven, round-faced, with short brown hair under a white cap.",
+      "refs": [
+        "margaret_mary",
+        "teresa",
+        "therese"
+      ],
+      "basis": "No photograph (she died in 1838). The painted portrait the diocese of Viviers publishes and the nineteenth-century window in the motherhouse chapel at Bourg-Saint-Andéol agree: an older nun with a round, soft, jowled face, heavy lids, a long, fleshy-tipped nose and a small, half-smiling mouth, the head tilted. The beatification homily quoted on the Dicastery's page recalls her 'mancata crescita fisica' (stunted growth), so she is small; the child is for the schools she founded.",
+      "sources": [
+        {
+          "title": "Diocèse de Viviers, Sainte Marie Rivier (the painted portrait)",
+          "url": "https://ardeche.catholique.fr/bienheureuse-marie-rivier/"
+        },
+        {
+          "title": "Wikimedia Commons, Vitrail Marie Rivier.jpg (window, motherhouse chapel, Bourg-Saint-Andéol)",
+          "url": "https://commons.wikimedia.org/wiki/File:Vitrail_Marie_Rivier.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Marie Rivier (biography; the beatification homily)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/marie-rivier.html"
+        },
+        {
+          "title": "Présentation de Marie, Lettres à la Congrégation (her letters)",
+          "url": "https://soeurs-de-la-presentation-de-marie.org/pom/lettres-a-la-congregation/"
+        }
+      ],
+      "catalogMatch": "St. Marie Rivier"
+    },
+    {
+      "id": "giuseppe_allamano",
+      "letter": "G",
+      "feast": {
+        "month": 2,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Giuseppe Allamano",
+        "pt-BR": "São José Allamano"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Consolata Missionaries",
+        "pt-BR": "Fundador dos Missionários da Consolata"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"First saints, then missionaries.\"",
+        "pt-BR": "\"Primeiro santos, depois missionários.\""
+      },
+      "excerptSource": "His motto «Prima santi, poi missionari», as the Consolata Missionaries give it, with his words «Prima dobbiamo santificare noi… e fatti santi in poco tempo potremo compiere la nostra missione fra le genti» (consolata.org); our rendering (he died in 1926)",
+      "subject": "St. Giuseppe Allamano, priest of Turin, rector of the Consolata shrine and founder of the Consolata Missionaries, half-length in a black cassock with a narrow white collar and a small black skullcap, as in his photograph; he holds before his breast a small framed icon of Our Lady Consolata, the dark Byzantine Madonna with the Child, in both hands. Behind him, Turin: the baroque dome and the tall Romanesque bell tower of the Santuario della Consolata, the roofs of the old city, and the snowy Alps on the horizon under a clear morning sky. Cheerful and fatherly; no lettering.",
+      "face": "A Piedmontese priest of about seventy, clean-shaven, with a fair complexion and a LONG, LEAN face under a HIGH forehead — short, thick WHITE hair brushed back under the skullcap, deep-set, lively eyes CRINKLED with laughter lines under strong, straight brows, a LONG, straight, PROMINENT nose, deep creases running from the nose to the corners of the mouth, a WIDE, warm, closed smile, large, prominent ears and a firm chin; the head turned in three-quarter view, the gaze bright and kindly.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "alphonsus_liguori"
+      ],
+      "basis": "His photographs (Wikimedia Commons, from the Consolata's gallery; the Dicastery's portrait): a lean, long face with short white hair and a black skullcap, a long, prominent nose, deep-set, crinkled eyes, deep smile creases, a wide smile and prominent ears. The Consolata icon and shrine are the ones he served as rector from 1880.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Giuseppe Allamano.jpg (photograph, before 1926)",
+          "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Allamano.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Giuseppe Allamano (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/giuseppe-allamano.html"
+        },
+        {
+          "title": "Consolata Missionaries, Prima santi, poi missionari",
+          "url": "https://www.consolata.org/index.php?option=com_k2&view=item&id=11397:prima-santi-poi-missionari&Itemid=715&lang=it"
+        }
+      ],
+      "catalogMatch": "St. Giuseppe Allamano"
+    },
+    {
+      "id": "mama_antula",
+      "letter": "M",
+      "feast": {
+        "month": 3,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. María Antonia (Mama Antula)",
+        "pt-BR": "Santa Maria Antônia (Mama Antula)"
+      },
+      "patronOf": {
+        "en-US": "Pilgrim of the Spiritual Exercises",
+        "pt-BR": "Peregrina dos Exercícios Espirituais"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I would go wherever God is not known, to make him known.\"",
+        "pt-BR": "\"Quisera ir até onde Deus não é conhecido, para fazê-lo conhecer.\""
+      },
+      "excerptSource": "Her saying from her letters, as her devotion quotes it: «Quisiera andar hasta donde Dios no fuese conocido» (El Testigo Fiel), «Quisiera andar hasta donde Dios no es conocido para hacerlo conocer» (novena of the diocese of Santiago del Estero), «Llegar hasta donde Dios no sea conocido para hacerlo conocer» (Spanish Wikipedia); the letter itself not located; our rendering (she died in 1799)",
+      "subject": "St. María Antonia de Paz y Figueroa, \"Mama Antula\", the consecrated laywoman of Santiago del Estero who walked barefoot across the viceroyalty to keep the Spiritual Exercises alive after the Jesuits were expelled, half-length in the dress of a Jesuit beata as in her portrait: a black habit and a long black mantle, a white toca (wimple) framing the face and falling over the breast under a black veil; in her right hand a tall, plain wooden cross-staff held upright, and in her left a small closed book, the Exercises. Behind her, a dusty road running through the dry thorn scrub of the Argentine north, tall cardón cacti and a low adobe chapel with a small bell gable, the far blue line of the sierras under a wide, pale sky. Tireless and serene; no lettering.",
+      "face": "A criolla of Santiago del Estero of about fifty-five with a warm, light-olive complexion and a SMOOTH, LONG OVAL face under a HIGH, rounded forehead — LARGE, WIDE-SET, light-brown almond eyes under fine, HIGH-ARCHED brows, a long, straight, slender nose, smooth, unmarked cheeks, a SMALL, firm mouth with a fuller lower lip, a neat, rounded chin; the gaze calm, steady and direct, toward us.",
+      "refs": [
+        "teresa",
+        "rose_lima",
+        "margaret_mary"
+      ],
+      "basis": "Her portrait by José de Salas (Wikimedia Commons, dated 1799) and the anonymous colonial portrait both show a smooth long oval with large, wide-set light eyes under high arched brows, a long straight nose and a small mouth, in the black mantle and white toca of a beata, with a cross-staff and a book; Spanish Wikipedia describes the portraits as showing her 'hermosa y de distinguida presencia'. Pope Francis's canonization homily recalls her walking thousands of kilometres across deserts.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, María Antonia de Paz y Figueroa.png (portrait by José de Salas)",
+          "url": "https://commons.wikimedia.org/wiki/File:María_Antonia_de_Paz_y_Figueroa.png"
+        },
+        {
+          "title": "Wikimedia Commons, Maria Antonia de Paz y Figueroa.jpg (colonial portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:Maria_Antonia_de_Paz_y_Figueroa.jpg"
+        },
+        {
+          "title": "Pope Francis, homily at her canonization, 11 February 2024",
+          "url": "https://www.vatican.va/content/francesco/en/homilies/2024/documents/20240211-omelia-canonizzazione.html"
+        },
+        {
+          "title": "Diocese of Santiago del Estero, Novena de Mama Antula (her saying on the title page)",
+          "url": "https://aica.org/aica2019/web/images/files/NOVENA%20DE%20MAMA%20ANTULA.pdf"
+        }
+      ],
+      "catalogMatch": "St. María Antonia de Paz y Figueroa"
+    },
+    {
+      "id": "elena_guerra",
+      "letter": "E",
+      "feast": {
+        "month": 4,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Elena Guerra",
+        "pt-BR": "Santa Helena Guerra"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Holy Spirit",
+        "pt-BR": "Apóstola do Espírito Santo"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"When I was in church for the novena of Pentecost, it seemed to me that I was in Paradise.\"",
+        "pt-BR": "\"Quando eu estava na igreja para a novena de Pentecostes, parecia-me estar no Paraíso.\""
+      },
+      "excerptSource": "Her own recollection, «quando mi trovavo in chiesa per la novena di Pentecoste, mi sembrava di essere in Paradiso», as quoted by L'Osservatore Romano (October 2024) and the Dicastery's biography; our rendering (she died in 1914)",
+      "subject": "St. Elena Guerra of Lucca, foundress of the Oblates of the Holy Spirit, who wrote to Pope Leo XIII to have the whole Church pray the novena of Pentecost, half-length in the habit of her photograph: a black habit, a black veil falling to the shoulders, a white collar at the throat, a small black crucifix; she holds a small open prayer book against her breast in her left hand and raises her right hand a little, open, toward a white dove of the Holy Spirit in a soft glow of golden light above her shoulder. Behind her, Lucca: the broad, tree-planted Renaissance walls, red roofs, the Romanesque bell tower of the cathedral of San Martino and the Guinigi tower with its oak trees on top, under a clear sky. Ardent and gentle; no lettering.",
+      "face": "A Lucchese noblewoman of about sixty-five with a warm, lightly sallow complexion and a LONG, STRONG-BONED face ending in a SQUARE, slightly PROMINENT chin — THICK, dark, STRAIGHT, LEVEL brows set LOW over deep-set, HOODED dark eyes, a LONG, strong nose with a broad, ROUNDED tip, flat cheeks with long creases from the nose to the mouth, a WIDE, thin-lipped mouth with a faint, knowing smile; the gaze direct and earnest.",
+      "refs": [
+        "margaret_mary",
+        "teresa",
+        "catherine_siena"
+      ],
+      "basis": "Her photograph (Wikimedia Commons, early 1900s) and the Dicastery's portrait drawn from it: a long, strong face with thick, level, low-set brows over deep-set, hooded eyes, a long nose with a rounded tip, long cheek creases, a wide thin mouth and a square chin, in a black veil and white collar. The dove is her devotion; Lucca is the city she hardly ever left.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Guerra Elena.png (photograph, early 1900s)",
+          "url": "https://commons.wikimedia.org/wiki/File:Guerra_Elena.png"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Elena Guerra (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/elena-guerra.html"
+        },
+        {
+          "title": "L'Osservatore Romano, Apostola della devozione allo Spirito Santo (October 2024)",
+          "url": "https://www.osservatoreromano.va/it/news/2024-10/quo-238/apostola-della-devozione-allo-spirito-santo.html"
+        }
+      ],
+      "catalogMatch": "St. Elena Guerra"
+    },
+    {
+      "id": "cesar_de_bus",
+      "letter": "C",
+      "feast": {
+        "month": 4,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. César de Bus",
+        "pt-BR": "São César de Bus"
+      },
+      "patronOf": {
+        "en-US": "Priest and catechist",
+        "pt-BR": "Sacerdote e catequista"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I have seen and read nothing to compare with what God has shown me since I became blind.\"",
+        "pt-BR": "\"Nada vi nem li que se compare ao que Deus me fez ver desde que fiquei cego.\""
+      },
+      "excerptSource": "His often-repeated saying «Non ho visto né letto nulla a confronto di ciò che Dio mi ha fatto vedere da quando sono cieco», in the Dicastery's biography (French in the diocese of Avignon's page); our rendering (he died in 1607)",
+      "subject": "St. César de Bus of Cavaillon, the priest who founded the Fathers of Christian Doctrine to teach the catechism to the poor and the country people, half-length as a secular priest of about 1600, as in his portraits: a black soutane buttoned to the throat, a plain white turned-down collar, a black cloak over his shoulders; his hands joined in prayer before his breast, a small closed catechism book held between them. Behind him, Avignon on the Rhône: the broken stone arches of the old bridge running out into the river, the great pale walls and towers of the Palace of the Popes on its rock, cypresses, and the soft hills of Provence under a luminous sky. Humble and luminous; no lettering.",
+      "face": "A Provençal of about fifty-five with a warm olive complexion and a LONG, RECTANGULAR face under a high forehead, where the dark, grey-streaked hair RECEDES at the temples and is cut short — level dark brows, HEAVY, HALF-LOWERED upper lids over dark eyes cast down (he became blind), a long, straight nose whose tip DIPS a little, flat, hollow-shadowed cheeks below high cheekbones, a FULL lower lip under a thick dark MOUSTACHE that droops at the corners, and a NARROW jaw, the grey-streaked beard trimmed CLOSE on the cheeks and gathered into a SHORT POINT at the chin; the expression inward and peaceful. Not the full, square-jawed beard of camillus.",
+      "refs": [
+        "vincent_de_paul",
+        "charles_borromeo",
+        "philip_neri"
+      ],
+      "basis": "The anonymous portrait of about 1607 in the Musée Carnavalet and the engraved portrait of about 1726 (Rijksmuseum) agree: a long face with receding dark hair, heavy half-lowered lids, a long nose, a drooping moustache and a short pointed beard, in a black soutane with a white collar, hands joined. The Dicastery's biography says he went blind in later life and kept preaching and confessing.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Portrait de César de Bus (Musée Carnavalet, P2187)",
+          "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Portrait_de_César_de_Bus_(1544-1607),_fondateur_de_la_congrégation_des_Frères_de_la_doctrine_chrétienne_-_P2187_-_Musée_Carnavalet.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Portret van César de Bus (Rijksmuseum RP-P-1910-4894, engraving)",
+          "url": "https://commons.wikimedia.org/wiki/File:Portret_van_César_de_Bus,_RP-P-1910-4894.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, César de Bus (biography)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/cesar-de-bus.html"
+        },
+        {
+          "title": "Diocèse d'Avignon, Bienheureux César de Bus",
+          "url": "https://www.diocese-avignon.fr/Bienheureux-Cesar-de-Bus"
+        }
+      ],
+      "catalogMatch": "St. César de Bus"
+    },
+    {
+      "id": "marie_leonie_paradis",
+      "letter": "M",
+      "feast": {
+        "month": 5,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Marie-Léonie Paradis",
+        "pt-BR": "Santa Maria Leônia Paradis"
+      },
+      "patronOf": {
+        "en-US": "Foundress, helper of priests",
+        "pt-BR": "Fundadora, auxiliar dos sacerdotes"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Be humble, without any pretension, loving to please others, and you will always be happy.\"",
+        "pt-BR": "\"Sede humildes, sem nenhuma pretensão, gostando de agradar aos outros, e sereis sempre felizes.\""
+      },
+      "excerptSource": "Her counsel to her sisters, «soyez humbles, sans aucune prétention, aimant faire plaisir aux autres et vous serez toujours heureuses», as quoted by Vatican News (October 2024; fuller in Marie de Nazareth's '1000 raisons de croire'); our rendering (she died in 1912)",
+      "subject": "St. Marie-Léonie Paradis of Québec, foundress of the Little Sisters of the Holy Family, who keep house for priests and seminaries, half-length in the habit of her photograph of 1906: a black habit and a long black veil, a STIFF white coif closely framing the whole face, a broad white bib over the breast, a silver crucifix hanging on it and a black rosary in her hands. Behind her, Sherbrooke in autumn: the red-brick convent and the twin towers of a stone church on the hill above the Magog river, maples turning red and gold along the bank. Humble and serene; no lettering.",
+      "face": "A sturdy Québécoise of about sixty-five with a fair complexion and a WIDE, FLAT, RECTANGULAR face closely framed by the coif — a broad, smooth forehead, STRAIGHT, heavy dark brows, small, DEEP-SET, pale, steady eyes, a SHORT, straight nose with a broad base, a notably LONG, FLAT upper lip, a straight, THIN-lipped mouth firmly closed, full, flat cheeks and a broad chin; the gaze level and steady, toward us.",
+      "refs": [
+        "margaret_mary",
+        "teresa",
+        "therese"
+      ],
+      "basis": "Her photographs of 1906 (Centre Marie-Léonie Paradis, on Wikimedia Commons) and the Dicastery's portrait: a wide, flat, rectangular face in a stiff white coif, straight heavy brows over small deep-set eyes, a short nose, a long upper lip and a thin, straight mouth. Sherbrooke is where the motherhouse moved in 1895 and where she died.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Marie-Léonie Paradis, 1906.jpg (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Marie-Léonie_Paradis,_1906.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Marie-Léonie Paradis (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/marie-leonie-paradis.html"
+        },
+        {
+          "title": "Dictionary of Canadian Biography, Paradis, Élodie, named Mother Marie-Léonie",
+          "url": "https://www.biographi.ca/en/bio/paradis_elodie_14E.html"
+        },
+        {
+          "title": "Vatican News, Mère Marie-Léonie, «l'humble parmi les humbles», canonisée (October 2024)",
+          "url": "https://www.vaticannews.va/fr/eglise/news/2024-10/mere-marie-leonie-l-humble-parmi-les-humbles-bientot-canonisee.html"
+        }
+      ],
+      "catalogMatch": "St. Marie-Léonie Paradis"
+    },
+    {
+      "id": "carmen_rendiles",
+      "letter": "C",
+      "feast": {
+        "month": 5,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Carmen Rendiles",
+        "pt-BR": "Santa Carmen Rendiles"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Servants of Jesus",
+        "pt-BR": "Fundadora das Servas de Jesus"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I want to be a saint, like St. Paul: it is no longer I who live, but Christ who lives in me.\"",
+        "pt-BR": "\"Quero ser santa, como São Paulo: já não sou eu que vivo, é Cristo que vive em mim.\""
+      },
+      "excerptSource": "Her often-repeated words «quiero ser santa, como San Pablo: no vivo más yo, sino que es Cristo que vive en mí», as quoted by Cardinal Amato (Vatican News, June 2018; Italian in the Dicastery's page); a short quotation, our rendering (she died in 1977)",
+      "subject": "St. Carmen Rendiles of Caracas, foundress of the Servants of Jesus, born without a left arm, half-length in the habit of her photographs: a pale grey-blue habit, a WHITE veil drawn back from the dark hair at her brow and falling over her shoulders, a wide, pointed white collar, a small medal on a thin chain at her breast; her right hand laid on her breast, the left side of her figure covered by the fall of the veil and the habit, so that only the right hand shows. Behind her, Caracas in its valley under the tall green wall of El Ávila mountain, red-tiled roofs, royal palms and a white colonial church tower in the warm morning light. Joyful and steadfast; no lettering.",
+      "face": "A Caraqueña of about sixty with a warm, light-olive complexion and a LONG face with HIGH, prominent cheekbones — dark hair PARTED in the middle and drawn smoothly back under the white veil, a LONG, straight nose with a slight rise at the bridge, dark, bright almond eyes under dark, ARCHED brows, cheeks that fold into long smile creases, a WIDE mouth with a broad, warm, closed-lipped smile, a softly pointed chin; the gaze toward us, affectionate and bright.",
+      "refs": [
+        "margaret_mary",
+        "teresa",
+        "therese"
+      ],
+      "basis": "Her photographs as superior and in later life (the Dicastery's portrait; the congregation's portrait on madrecarmendevenezuela.com): a long face with high cheekbones, centre-parted dark hair under a white veil, a long straight nose, arched brows and a wide, warm smile, in a grey-blue habit with a wide white collar. Wikipedia and Vatican News record that she was born without her left arm; the card shows only her right hand, without drawing attention to it.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Carmen Rendiles Martínez (biography and photograph)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/carmen-rendiles-martinez.html"
+        },
+        {
+          "title": "Madre Carmen de Venezuela, Biografía (the congregation's portrait)",
+          "url": "https://www.madrecarmendevenezuela.com/biografia"
+        },
+        {
+          "title": "Vatican News, Madre Carmen Rendiles: una vida al servicio de la Iglesia (June 2018)",
+          "url": "https://www.vaticannews.va/es/iglesia/news/2018-06/beatificacion-sierva-de-dios-venezuela-madre.html"
+        },
+        {
+          "title": "Wikipedia, Carmen Elena Rendiles Martínez",
+          "url": "https://en.wikipedia.org/wiki/Carmen_Elena_Rendiles_Martínez"
+        }
+      ],
+      "catalogMatch": "St. Carmen Rendiles"
+    }
+  ]
+}

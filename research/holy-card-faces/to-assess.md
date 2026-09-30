@@ -37,6 +37,15 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Marcella (31 Jan):** excerpt from St. Jerome, Letter 127, with our own pt-BR rendering. [Kept.] — `dossiers/batch-20.md`
 - [ ] **Pope Marcellinus shares a chapter with Cletus,** so both cards show the same reflection (which names neither). [Shared.] — `dossiers/batch-27.md`
 
+## Canonized since 2022
+
+- [ ] **Mama Antula (7 Mar):** excerpt "I would go wherever God is not known, to make him known" circulates in three Spanish wordings; source letter not found. [Kept; alternative is a Common antiphon.] Card name shortened to "St. María Antonia (Mama Antula)". [Shortened.] — `dossiers/batch-52.md`
+- [ ] **Allamano (16 Feb):** "First saints, then missionaries" is his motto as his missionaries quote it, not found in his writings. [Kept.]
+- [ ] **Marie Rivier (3 Feb):** likeness from a diocesan portrait and a 19th-century window, both possibly posthumous. [Kept.]
+- [ ] **Santocanale (27 Jan):** brown habit inferred from the Capuchin order (photo is black and white). [Brown.]
+- [ ] **Devasahayam (14 Jan):** no recorded words; excerpt is the Common of Martyrs communion antiphon. [Kept.]
+- [ ] **Excerpts rendered by us** from Italian, French and Spanish originals for these saints. [Our rendering, source cited.]
+
 ## Fixes to existing data
 
 - [ ] **Formulary typos:** "look with kindness o us" in `sanctorale.04-20.africa` (en-US collect); "Deus1" in the pt-BR collect of Marcellinus & Peter. Fix? [Not fixed.]
