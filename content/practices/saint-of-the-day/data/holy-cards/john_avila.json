@@ -1,0 +1,41 @@
+{
+  "id": "john_avila",
+  "feast": {
+    "month": 5,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. John of Ávila",
+    "pt-BR": "São João de Ávila"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Andalusia",
+    "pt-BR": "Apóstolo da Andaluzia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that in our day too, the Church may grow in holiness through the exemplary zeal of your ministers.",
+    "pt-BR": "Dai à vossa Igreja, também em nossos dias, crescer em santidade pelo zelo exemplar dos vossos ministros."
+  },
+  "proper": "sanctorale.05-10",
+  "meta": {
+    "face": "A spare Castilian priest of about seventy with a LONG, gaunt face, narrow at the jaw — a broad forehead with short, cropped grey hair brushed forward in a thin fringe and receding at the temples, high cheekbones over hollow cheeks, a long, straight nose slightly full at the tip, large, dark, heavy-lidded eyes turned a little down at the outer corners, gentle and grave, under arched grey brows raised toward the middle, a small, thin-lipped mouth; a short, close-clipped grey beard and moustache that only follow the line of the jaw; a gaze of quiet compassion toward the viewer.",
+    "basis": "The portrait attributed to El Greco (c. 1580), inscribed M. IVAN D. AVILA, shows an old priest with a long, hollow-cheeked face, cropped grey hair, large sad eyes and a short grey beard, one hand on his breast; he died at Montilla at seventy. We keep its marks and drop the heavy shadows under the eyes.",
+    "excerpt": "content/of/formularies/sanctoral/05-10.json collect (petition, verbatim in both languages; en-US capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, John of Ávila (lead portrait attributed to El Greco; died at Montilla 1569)",
+        "url": "https://en.wikipedia.org/wiki/John_of_%C3%81vila"
+      },
+      {
+        "title": "Commons, portrait of Juan de Ávila attributed to El Greco (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Attributed_to_el_Greco_-_Portrait_of_Juan_de_%C3%81vila_-_Google_Art_Project.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

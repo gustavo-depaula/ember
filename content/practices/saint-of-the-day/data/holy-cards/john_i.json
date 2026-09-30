@@ -1,0 +1,41 @@
+{
+  "id": "john_i",
+  "feast": {
+    "month": 5,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. John I",
+    "pt-BR": "São João I"
+  },
+  "patronOf": {
+    "en-US": "Pope and martyr",
+    "pt-BR": "Papa e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we imitate his constancy in the faith.",
+    "pt-BR": "Imitemos sua constância na fé."
+  },
+  "proper": "sanctorale.05-18",
+  "meta": {
+    "face": "A Tuscan of about sixty-five, worn thin by the long journey and the prison, with a ROUNDED-TRIANGULAR face — a broad, low forehead and wide, flat temples tapering past softly drawn cheeks to a short, narrow chin; a straight nose with a wide, flat bridge; round, gentle, pale-brown eyes that droop a little at the outer corners, under thin grey brows raised in patient sorrow; a small, soft mouth; grey hair cut in a round Roman tonsure fringe and a short, neat grey beard trimmed to a small point; a meek, steady gaze.",
+    "basis": "No likeness survives; art shows him behind prison bars, and the reliquary bust at Coimbra gives him only a conventional short beard. He died of ill-treatment in Theodoric's prison at Ravenna in 526, after his embassy to Constantinople, so the face is ours: worn, meek and patient, with a different shape from the other popes' cards.",
+    "excerpt": "content/of/formularies/sanctoral/05-18.json collect (final clause; en-US \"that we ... may imitate\" recast as \"May we imitate\", pt-BR verbatim, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope John I (Ravenna prison; depicted behind bars)",
+        "url": "https://en.wikipedia.org/wiki/Pope_John_I"
+      },
+      {
+        "title": "Commons, reliquary bust of Pope John I, Coimbra (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Busto_relic%C3%A1rio_do_Papa_S%C3%A3o_Jo%C3%A3o_I.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

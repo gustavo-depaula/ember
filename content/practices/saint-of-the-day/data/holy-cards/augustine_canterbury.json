@@ -1,0 +1,42 @@
+{
+  "id": "augustine_canterbury",
+  "feast": {
+    "month": 5,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Augustine of Canterbury",
+    "pt-BR": "Santo Agostinho de Cantuária"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the English",
+    "pt-BR": "Apóstolo dos ingleses"
+  },
+  "prayerExcerpt": {
+    "en-US": "May the fruits of his labors remain ever abundant in your Church.",
+    "pt-BR": "Que os frutos do seu trabalho permaneçam na vossa Igreja com perene fecundidade."
+  },
+  "lifeChapter": "may-26-augustine",
+  "proper": "sanctorale.05-27",
+  "meta": {
+    "face": "A tall Roman monk of about fifty-five with a SLENDER, finely boned LONG face and gently hollowed cheeks — a smooth, high forehead, a narrow, high-bridged nose, large, grave dark-brown eyes with dark lashes under long, level dark brows, a small, firm mouth; dark hair streaked with grey in a monastic crown around the tonsure; a SHORT, SQUARE-CUT dark beard streaked with grey, trimmed straight across at the bottom; a calm, resolute gaze toward the horizon.",
+    "basis": "Bede tells how he met King Æthelberht on Thanet bearing a silver cross for a banner and an image of the Saviour painted on a board; he had been prior of St Andrew's on the Caelian in Rome. No description of his face survives, so it is our choice, kept apart from Augustine of Hippo (olive, close-cropped, short round beard) and Gregory the Great.",
+    "excerpt": "content/of/formularies/sanctoral/05-27.json collect (final clause; en-US \"that the fruits ... may remain\" recast as a wish, \"Que\" added in pt-BR; otherwise verbatim)",
+    "sources": [
+      {
+        "title": "Bede, Ecclesiastical History I.25 (Medieval Sourcebook)",
+        "url": "https://sourcebooks.fordham.edu/basis/bede-book1.asp"
+      },
+      {
+        "title": "Wikipedia, Augustine of Canterbury",
+        "url": "https://en.wikipedia.org/wiki/Augustine_of_Canterbury"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

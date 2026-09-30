@@ -1,0 +1,49 @@
+{
+  "id": "nereus_achilleus",
+  "feast": {
+    "month": 5,
+    "day": 12
+  },
+  "name": {
+    "en-US": "Sts. Nereus and Achilleus",
+    "pt-BR": "Santos Nereu e Aquiles"
+  },
+  "patronOf": {
+    "en-US": "Soldiers and martyrs",
+    "pt-BR": "Soldados e mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "May we experience their loving intercession for us in your presence.",
+    "pt-BR": "Concedei-nos experimentar sua intercessão em nosso favor."
+  },
+  "proper": "sanctorale.05-12",
+  "meta": {
+    "face": "Two clearly different men. Nereus (left, the elder): a man of about forty-five with a BLOCKY, FLAT-TOPPED head and a strong, wide face — a heavy, straight brow ridge, deep-set steady dark eyes, a thick, strong nose with a slight bend at the bridge, broad cheekbones and a wide, square jaw with a wide, firm mouth; short, soldier-cropped black hair greying at the temples and a close, dark stubble beard; a sober, resolute look. Achilleus (right, the younger): a slender man of about twenty-eight, clean-shaven, with a LONG face and HIGH, ROUNDED cheekbones over a squared-off chin — a thin, straight nose, large bright light-brown eyes under fine, arched brows, a small, well-cut mouth; short, light-brown hair in tight curls; his gaze lifted a little, hopeful.",
+    "basis": "Pope Damasus's epitaph at their tomb says they were soldiers who, suddenly converted, threw away their shields, decorations and bloody weapons and died confessing Christ; the carved pillar of their ciborium in the Domitilla basilica shows Achilleus's execution. No likeness survives; the elder, blocky Nereus and the younger, long-faced Achilleus are our choice, echoing Rubens's pairing of an older and a younger man.",
+    "excerpt": "content/of/formularies/sanctoral/05-12.json collect (final petition; en-US \"that we ... may experience\" recast as \"May we experience\", pt-BR verbatim, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Nereus and Achilleus (Damasus inscription; the Achilleus pillar)",
+        "url": "https://en.wikipedia.org/wiki/Nereus_and_Achilleus"
+      },
+      {
+        "title": "The Cult of Saints (Oxford), E07153: Damasus's poem for Nereus and Achilleus",
+        "url": "http://csla.history.ox.ac.uk/record.php?recid=E07153"
+      },
+      {
+        "title": "Catholic Encyclopedia (1911), Sts. Nereus and Achilleus, Domitilla and Pancratius",
+        "url": "https://www.newadvent.org/cathen/10751a.htm"
+      },
+      {
+        "title": "Commons, Rubens, Saint Domitilla with Nereus and Achilleus (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Nereusachilleusdomitilla_rubens.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

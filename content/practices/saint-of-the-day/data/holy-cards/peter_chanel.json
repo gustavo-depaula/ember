@@ -1,0 +1,45 @@
+{
+  "id": "peter_chanel",
+  "feast": {
+    "month": 4,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Peter Chanel",
+    "pt-BR": "São Pedro Chanel"
+  },
+  "patronOf": {
+    "en-US": "Protomartyr of Oceania",
+    "pt-BR": "Protomártir da Oceania"
+  },
+  "prayerExcerpt": {
+    "en-US": "O God, who for the spreading of your Church crowned Saint Peter Chanel with martyrdom.",
+    "pt-BR": "Ó Deus, que para expandir a vossa Igreja coroastes São Pedro Chanel com o martírio."
+  },
+  "proper": "sanctorale.04-28",
+  "meta": {
+    "face": "A gentle Frenchman of about thirty-seven, clean-shaven, with a SOFT, SQUARE-JAWED face and full cheeks — a broad, smooth forehead, a straight, rather strong nose with a rounded tip, large, heavy-lidded dark-brown eyes under softly arched dark brows, a full, kindly mouth and a small dimple in the rounded chin; thick dark-brown hair parted on one side, a soft wave falling across the forehead and the hair covering the tops of the ears; a mild, patient gaze toward the viewer.",
+    "basis": "The devotional portrait on Wikipedia shows a young clean-shaven priest with a full, gentle face, side-parted wavy dark hair, a black soutane and cloak and a crucifix; he was killed on Futuna at 37. His companions remembered his unfailing gentleness, which the expression keeps.",
+    "excerpt": "content/of/formularies/sanctoral/04-28.json collect (address, verbatim in both languages; full stop added)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter Chanel (lead portrait; died on Futuna 1841 aged 37)",
+        "url": "https://en.wikipedia.org/wiki/Peter_Chanel"
+      },
+      {
+        "title": "Commons, Peter_Chanel.jpg (the portrait consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Peter_Chanel.jpg"
+      },
+      {
+        "title": "Marist Fathers Australia, St Peter Chanel reflection (his gentleness)",
+        "url": "https://maristfathers.org.au/images/St_Peter_Chanel_Marist_reflects_0424_rn.pdf"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

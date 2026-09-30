@@ -1,0 +1,42 @@
+{
+  "id": "paulinus_nola",
+  "feast": {
+    "month": 6,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Paulinus of Nola",
+    "pt-BR": "São Paulino de Nola"
+  },
+  "patronOf": {
+    "en-US": "Bishop and poet",
+    "pt-BR": "Bispo e poeta"
+  },
+  "prayerExcerpt": {
+    "en-US": "As we celebrate his merits, may we imitate the example of his charity.",
+    "pt-BR": "Celebrando os seus méritos, imitemos o exemplo de sua caridade."
+  },
+  "lifeChapter": "jun-22-paulinus-of-nola",
+  "proper": "sanctorale.06-22",
+  "meta": {
+    "face": "A Gallo-Roman aristocrat and poet of about seventy, clean-shaven in the late-Roman manner, with a FINE-BONED, HEART-SHAPED face — a wide forehead and temples tapering to a small, delicate, rounded chin; a well-shaped, high-bridged patrician nose; large, mild, light hazel eyes with fine crow's-feet under thin, gracefully arched silver brows; a gentle, full-lipped mouth set in a slight, warm smile; short, thick white hair combed forward in a straight Roman fringe; a courteous, tender gaze.",
+    "basis": "No likeness survives; he was a Bordeaux-born senator and governor of Campania who gave away his wealth and became bishop of Nola, where he died about 77. The clean-shaven Roman aristocrat with a poet's gentle face is our choice; the bell and the chain are his attributes in medieval tradition.",
+    "excerpt": "content/of/formularies/sanctoral/06-22.json collect (final clause; en-US \"we may imitate\" inverted to \"may we imitate\", pt-BR verbatim, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Paulinus of Nola (life; bells and chains in tradition)",
+        "url": "https://en.wikipedia.org/wiki/Paulinus_of_Nola"
+      },
+      {
+        "title": "Commons, Linz Cathedral window of Paulinus of Nola (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Linzer_Dom_-_Fenster_-_Paulinus_von_Nola.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "romuald",
+  "feast": {
+    "month": 6,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Romuald",
+    "pt-BR": "São Romualdo"
+  },
+  "patronOf": {
+    "en-US": "Father of the Camaldolese",
+    "pt-BR": "Pai dos camaldulenses"
+  },
+  "prayerExcerpt": {
+    "en-US": "Denying ourselves and following Christ, may we merit to reach the heavenly realms on high.",
+    "pt-BR": "Renunciando a nós mesmos e seguindo o Cristo, mereçamos chegar felizes ao reino celestial."
+  },
+  "lifeChapter": "feb-07-romuald",
+  "proper": "sanctorale.06-19",
+  "meta": {
+    "face": "A very old but vigorous hermit of about seventy-five with a LONG face under a massive, high BALD dome — a broad, strongly furrowed forehead, grey-white brows KNIT DOWNWARD over deep-set, penetrating grey eyes with a searching, severe intensity, a long, strong, slightly hooked nose, sunken cheeks under the beard, a firm mouth half-hidden; a thin fringe of white hair low at the back of the head; a long, wavy, white beard falling in separate strands to mid-chest; the gaze fixed and searching, not gentle.",
+    "basis": "Fra Angelico's fresco at San Marco shows him with a bald dome, a long white beard, knit brows and a keen, severe gaze, in the white Camaldolese habit; Sacchi painted his vision of monks in white climbing a ladder to heaven. He died very old in 1027. The knit brows, hooked nose and severity keep him apart from the gentler white-bearded elders.",
+    "excerpt": "content/of/formularies/sanctoral/06-19.json collect (final clause; en-US \"we may merit\" inverted to \"may we merit\", pt-BR verbatim, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Romuald (lead image: Fra Angelico, San Marco)",
+        "url": "https://en.wikipedia.org/wiki/Romuald"
+      },
+      {
+        "title": "Commons, Fra Angelico, Saint Romuald (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Fra_Angelico_032.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

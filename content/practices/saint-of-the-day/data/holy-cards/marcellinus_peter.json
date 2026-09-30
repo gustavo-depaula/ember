@@ -1,0 +1,41 @@
+{
+  "id": "marcellinus_peter",
+  "feast": {
+    "month": 6,
+    "day": 2
+  },
+  "name": {
+    "en-US": "Sts. Marcellinus and Peter",
+    "pt-BR": "Santos Marcelino e Pedro"
+  },
+  "patronOf": {
+    "en-US": "Priest and exorcist, martyrs",
+    "pt-BR": "Presbítero e exorcista, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that we may profit by imitating them and be upheld by their prayer.",
+    "pt-BR": "Concedei-nos a graça de imitá-los para crescermos na fé e de sermos sustentados pela sua intercessão."
+  },
+  "proper": "sanctorale.06-02",
+  "meta": {
+    "face": "Two clearly different men. Marcellinus (left, the priest): about fifty-five, a WIDE, LOW-BROWED face with broad, flat cheekbones and a rounded chin — a short, straight nose, small, warm, deep-set brown eyes with laughter lines, thick grey-flecked brows, a kindly mouth; grey-brown hair in a tonsure crown and a short, curly pepper-and-salt beard; a fatherly, calm look. Peter (right, the exorcist): about thirty, a NARROW, fine-boned face tapering to a pointed chin — a thin nose with a slight hook, large, dark, intense eyes under strong, straight black brows, a firm, closed mouth; short-cropped black hair and a short, sparse black beard along the jaw (short hair, not a Christ-like figure); an earnest, watchful gaze.",
+    "basis": "Damasus learned their story as a boy from their executioner: a priest and an exorcist beheaded under Diocletian and buried at the Two Laurels on the Via Labicana. A fresco in their catacomb shows them with short beards; the difference in age and face between the two is our choice.",
+    "excerpt": "content/of/formularies/sanctoral/06-02.json collect (petition, verbatim in both languages, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Marcellinus and Peter (Damasus and the executioner; catacomb frescoes; ad duas lauros)",
+        "url": "https://en.wikipedia.org/wiki/Marcellinus_and_Peter"
+      },
+      {
+        "title": "Commons, statue of St Marcellinus, Seligenstadt (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanctus_Marcellinus_Martyr_Germany_Seligenstadt_2007.JPG"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

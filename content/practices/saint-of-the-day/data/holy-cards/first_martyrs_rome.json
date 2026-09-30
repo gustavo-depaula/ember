@@ -1,0 +1,41 @@
+{
+  "id": "first_martyrs_rome",
+  "feast": {
+    "month": 6,
+    "day": 30
+  },
+  "name": {
+    "en-US": "The First Martyrs of the Church of Rome",
+    "pt-BR": "Santos Protomártires da Igreja de Roma"
+  },
+  "patronOf": {
+    "en-US": "Martyrs under Nero",
+    "pt-BR": "Mártires sob Nero"
+  },
+  "prayerExcerpt": {
+    "en-US": "O God, who consecrated the abundant first fruits of the Roman Church by the blood of the Martyrs.",
+    "pt-BR": "Ó Deus, que consagrastes os fecundos primórdios da Igreja de Roma com o sangue dos mártires."
+  },
+  "proper": "sanctorale.06-30",
+  "meta": {
+    "face": "Three clearly different people. The freedman (left): a Syrian-born man of about fifty-five with an olive complexion and a LONG, BONY face — a high, lined forehead, a long nose with a gentle hook, heavy-lidded dark eyes, a wide, thin mouth; short grey hair and a short, neat grey beard; a quiet, steadfast look. The matron (centre): a Roman woman of about thirty with a WIDE-CHEEKED, softly SQUARE face — a straight nose, large, dark, calm eyes under strong dark brows, full lips, dark-brown hair parted in the middle under the palla; a serene, brave look lifted a little. The youth (right): a Greek boy of about sixteen, clean-shaven, with a ROUND face and rounded cheeks — a short, straight nose, bright black eyes under round brows, black hair in short tight curls; a trusting look toward the others.",
+    "basis": "Tacitus (Annals 15.44) tells how Nero, blamed for the fire of 64, turned on the Christians and made a spectacle of their deaths in his gardens and circus on the Vatican plain, whose obelisk now stands before St Peter's. Many of the early Roman Christians were slaves, freedmen and easterners, as Paul's greetings in Romans 16 suggest; the three faces are our choice.",
+    "excerpt": "content/of/formularies/sanctoral/06-30.json collect (address, verbatim in both languages; full stop added)",
+    "sources": [
+      {
+        "title": "Tacitus, Annals 15.44 (Church and Brodribb translation, Wikisource)",
+        "url": "https://en.wikisource.org/wiki/The_Annals_(Tacitus)/Book_15"
+      },
+      {
+        "title": "Wikipedia, Vatican Obelisk (from the Circus of Gaius and Nero)",
+        "url": "https://en.wikipedia.org/wiki/Vatican_Obelisk"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}

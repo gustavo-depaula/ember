@@ -1,0 +1,49 @@
+{
+  "id": "gregory_vii",
+  "feast": {
+    "month": 5,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Gregory VII",
+    "pt-BR": "São Gregório VII"
+  },
+  "patronOf": {
+    "en-US": "Pope and reformer",
+    "pt-BR": "Papa e reformador"
+  },
+  "prayerExcerpt": {
+    "en-US": "I have loved justice and hated iniquity, therefore I die in exile.",
+    "pt-BR": "Amei a justiça e odiei a iniquidade; por isso morro no exílio."
+  },
+  "lifeChapter": "may-25-gregory-vii",
+  "meta": {
+    "face": "A small, spare Tuscan of about sixty-five with an olive, sun-darkened complexion and a SHORT, COMPACT face — broad across the brow and cheekbones and short from brow to chin, ending in a firm, slightly jutting small chin; a short, strongly arched, beak-like nose; small, black, intensely bright and piercing eyes under straight, dark, bristling brows drawn a little together; a thin, tight-set, determined mouth; a very short, close-trimmed iron-grey beard and moustache; a little iron-grey hair showing under the tiara; a keen, unflinching gaze.",
+    "basis": "Contemporaries, friend and foe, remembered Hildebrand as small, swarthy and keen-eyed (Hugh of Cluny noted his small stature; Durant sums him up as \"small of stature, homely of feature, keen of eye\"); the Exultet roll of his time shows him in a tall conical tiara. We keep the stature, colouring and eyes and idealise the rest.",
+    "excerpt": "His last words at Salerno, 1085, as quoted verbatim in the Catholic Encyclopedia (1909), \"Pope St. Gregory VII\" (https://www.newadvent.org/cathen/06791c.htm; local copy consult/batch-12/catholic-encyclopedia-gregory-vii.html); Latin \"Dilexi iustitiam et odivi iniquitatem, propterea morior in exilio\"; pt-BR is our faithful rendering. The calendar entry sanctorale.05-25.gregory-vii has no formulary.",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Gregory VII (Exultet roll image; Canossa; died at Salerno)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Gregory_VII"
+      },
+      {
+        "title": "Commons, Exultet roll of Southern Italy, detail of Gregory VII (consulted)",
+        "url": "https://commons.wikimedia.org/wiki/File:Exultet_Rolls_of_Southern_Italy,_detail_of_Pope_Gregory_VII.jpg"
+      },
+      {
+        "title": "Catholic Encyclopedia (1909), Pope St. Gregory VII (last words)",
+        "url": "https://www.newadvent.org/cathen/06791c.htm"
+      },
+      {
+        "title": "Will Durant, The Age of Faith, ch. on Gregory VII (appearance)",
+        "url": "https://erenow.org/postclassical/the-age-of-faith-a-history-of-medieval-civilization/119.php"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-12.md."
+      }
+    ]
+  }
+}
