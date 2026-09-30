@@ -1,0 +1,457 @@
+{
+  "batch": 23,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-23.md",
+  "cards": [
+    {
+      "id": "david_wales",
+      "letter": "D",
+      "feast": {
+        "month": 3,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. David of Wales",
+        "pt-BR": "São Davi de Gales"
+      },
+      "patronOf": {
+        "en-US": "Patron of Wales",
+        "pt-BR": "Padroeiro do País de Gales"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Take me up with Thee.\"",
+        "pt-BR": "\"Leva-me contigo.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-01-david.md, his last words in the last paragraph (the chapter has no Reflection; the 03-01 index reflection is St. Albinus's) (Pictorial Lives, public domain)",
+      "subject": "St. David, monk and Bishop of Menevia, half-length, preaching at the synod of Brefi, as a sixth-century Welsh monk-bishop without a mitre: a rough, undyed cream woollen cowl over a plain white tunic, a leather belt; a plain wooden staff with a curved head in his left hand, his right hand raised as he preaches; a WHITE DOVE settled on his right shoulder. He stands on a green rise of ground, and below it, small, a crowd of Welsh folk listening; behind, the rolling green hills and stone walls of Ceredigion and a small stone church, under a clear, luminous sky with a break of sunlight. Fervent and ascetic; no leek, no lettering.",
+      "face": "A Briton of about seventy, lean and weathered by the sea wind, with a fair, ruddy complexion and a BROAD, UPRIGHT RECTANGULAR face whose most striking feature is a HEAVY, OVERHANGING BROW RIDGE — small, bright, sea-grey eyes set DEEP in its shadow, thick, straight white brows, a SHORT, BROAD nose with a FLAT bridge, wide, high cheekbones over lean cheeks, a broad, straight, thin-lipped mouth open a little as he speaks, a firm, SQUARE chin; the front of the head shaved back to a line from ear to ear in the old insular monk's tonsure, the white hair behind it falling straight to the collar; a SHORT, close-cropped white beard following the square jaw; the gaze fiery and direct, out over the crowd.",
+      "refs": [
+        "patrick",
+        "benedict",
+        "jerome"
+      ],
+      "basis": "No likeness survives. The book tells the ground rising under him as he preached at Brefi; Wikipedia adds the white dove that settled on his shoulder there, his emblem, and that he is usually shown standing on a hill with the dove. The heavy brow, the flat short nose and the insular tonsure (ear to ear; its exact shape is uncertain, per Wikipedia) are our choice, to keep him from the set's other white-bearded elders.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint David (the dove, the hill at Brefi; lead image: stained glass at Castell Coch)",
+          "url": "https://en.wikipedia.org/wiki/Saint_David"
+        },
+        {
+          "title": "Wikipedia, Tonsure (the Celtic tonsure)",
+          "url": "https://en.wikipedia.org/wiki/Tonsure"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-01-david (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-01-david.md"
+        }
+      ],
+      "lifeChapter": "mar-01-david",
+      "catalogMatch": "St. David, Bishop"
+    },
+    {
+      "id": "albinus_angers",
+      "letter": "A",
+      "feast": {
+        "month": 3,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Albinus of Angers",
+        "pt-BR": "Santo Albino de Angers"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Angers",
+        "pt-BR": "Bispo de Angers"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"He that humbleth himself shall be exalted.\"",
+        "pt-BR": "\"Aquele que se humilha será exaltado.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-01 reflection, the words of Christ it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Albinus, abbot of Tintillant and Bishop of Angers, half-length, as a sixth-century Gallo-Roman bishop without a mitre: a white alb under a full, bell-shaped, deep-violet chasuble; a plain wooden pastoral staff in his left arm; with his right hand he gives a round loaf to a small, barefoot poor child who reaches up at the lower edge, as in the book's engraving, where he gives alms to the poor at a church door. Behind him, Roman Angers on the broad river Maine: its old stone walls and a small early church, boats on the river and green water meadows, under a soft, silvery western sky. Humble and gentle; no lettering.",
+      "face": "A Breton Gallo-Roman of about eighty, CLEAN-SHAVEN, with a pale, soft, pink complexion and a PEAR-SHAPED face — NARROW temples and a narrowish, high, lined forehead widening down to FULL, soft, heavy JOWLS and a broad, soft double chin; a LONG, THICK, straight nose with a rounded tip; small, gentle, deep-set brown eyes with heavy pouches beneath, lowered in humility; sparse, faint white brows; a small mouth with a soft, full lower lip; a thin ring of white hair round a bald crown; the gaze modest and kind, down toward the child.",
+      "refs": [
+        "nicholas",
+        "vincent_de_paul",
+        "ambrose"
+      ],
+      "basis": "No likeness survives; the book's engraving shows a mitred bishop giving alms at a church door among the poor and crippled, and the card keeps the alms. His Breton birth, abbacy and see are from the book and Wikipedia; Angers stands on the Maine (Wikipedia). The clean-shaven pear-shaped old face is our choice, to set him apart from St. David on the same day.",
+      "sources": [
+        {
+          "title": "Wikipedia, Albinus of Angers (lead image: miniature of St. Aubin at the Third Council of Orléans)",
+          "url": "https://en.wikipedia.org/wiki/Albinus_of_Angers"
+        },
+        {
+          "title": "Wikipedia, Angers (the Maine)",
+          "url": "https://en.wikipedia.org/wiki/Angers"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-01-albinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-01-albinus.md"
+        }
+      ],
+      "lifeChapter": "mar-01-albinus",
+      "catalogMatch": "St. Albinus, Bishop"
+    },
+    {
+      "id": "simplicius",
+      "letter": "S",
+      "feast": {
+        "month": 3,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Simplicius",
+        "pt-BR": "São Simplício"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"He that trusteth in God shall fare never the worse.\"",
+        "pt-BR": "\"Aquele que confia em Deus jamais terá pior sorte.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-02 reflection, the words of Ecclesiasticus it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Simplicius, Bishop of Rome in the years the Western Empire fell, half-length, as a fifth-century pope without a tiara: a white tunic under a full, bell-shaped IVORY-WHITE chasuble with a narrow gold border, and over it the white woollen pallium with small black crosses; in his left hand a closed Gospel book bound in plain red leather, his right hand raised in blessing. Behind him, fifth-century Rome at evening: the long roof and atrium of Old St. Peter's, where he was buried, the grey walls of the city and the Tiber, under a sky clearing after a storm. Steadfast and fatherly; no tiara, no lettering.",
+      "face": "A Roman of Tivoli of about sixty-five, CLEAN-SHAVEN in the Roman manner, with a warm olive complexion and a BROAD, POWERFUL head — a WIDE, FLAT forehead, a BIG, fleshy Roman nose with a STRONG HUMP at the bridge, heavy-lidded, shrewd dark eyes under thick, LEVEL black-and-grey brows, broad, flat cheeks cut by two deep vertical creases, a WIDE, full-lipped mouth, and a BROAD, JUTTING chin; short grey hair combed forward in a straight Roman fringe; the gaze steady and comforting, toward us.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "augustine"
+      ],
+      "basis": "No likeness survives; Callot's engraving (Wikipedia lead image) is a seventeenth-century invention with a tiara, and the book's engraving shows him enthroned, receiving the afflicted. His birth at Tivoli is from Wikipedia, his burial in St. Peter's from the book. The ivory chasuble keeps him apart from the red of `callistus` and `clement_i`; the broad, humped, clean-shaven face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Simplicius (born at Tivoli; lead image: Callot's engraving)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Simplicius"
+        },
+        {
+          "title": "Wikipedia, Old St. Peter's Basilica",
+          "url": "https://en.wikipedia.org/wiki/Old_St._Peter%27s_Basilica"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-02-simplicius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-02-simplicius.md"
+        }
+      ],
+      "lifeChapter": "mar-02-simplicius",
+      "catalogMatch": "St. Simplicius, Pope"
+    },
+    {
+      "id": "cunegundes",
+      "letter": "C",
+      "feast": {
+        "month": 3,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Cunegundes",
+        "pt-BR": "Santa Cunegundes"
+      },
+      "patronOf": {
+        "en-US": "Empress, patroness of Luxembourg",
+        "pt-BR": "Imperatriz, padroeira de Luxemburgo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Detachment of the mind, at least, is needful to those who cannot venture on an effectual renunciation.",
+        "pt-BR": "O desapego do espírito, ao menos, é necessário àqueles que não podem aventurar-se a uma renúncia efetiva."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-03 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Cunegundes, Empress, wife of St. Henry, half-length, in Ottonian imperial dress: a long-sleeved deep-blue gown with a jewelled gold band at the neck, a crimson mantle clasped at the breast, a white veil falling to the shoulders under a gold imperial crown set with pearls and coloured stones; she holds a small model of a church in her right hand, as founder of Bamberg, as the portal of Bamberg Cathedral shows her, and with her left hand points gently toward it; at the lower edge beside her, a single plain iron ploughshare lying cool and harmless on the ground, the sign of her ordeal. Behind her, the Franconian town of Bamberg with the stone cathedral she and Henry founded rising above its roofs, and green fields, under a bright, clear sky. Pure and serene; no fire, no lettering.",
+      "face": "A Luxembourg countess of about forty with a fair, clear complexion and a softly TRIANGULAR face — a BROAD, smooth, high forehead and wide-set cheekbones tapering in straight lines to a NARROW, POINTED chin; a SHORT, straight nose; LARGE, prominent, pale-blue eyes set FAR APART under very HIGH, thin, arched fair brows that give a look of calm candour; a small, full, bow-shaped mouth; fair hair in two long plaits falling beside the neck from under the veil; the gaze clear and untroubled, toward us.",
+      "refs": [
+        "elizabeth_hungary",
+        "bridget_sweden",
+        "monica"
+      ],
+      "basis": "No likeness from life; the Pericopes of Henry II (German Wikipedia's lead image) show a crowned, veiled empress without individual features. The church model follows the Adamspforte of Bamberg Cathedral and the ploughshare her usual attribute (Wikipedia); the book tells the ordeal of the ploughshares. The triangular face with far-set eyes is our choice, apart from her husband's heart-shaped face on `henry` (batch 13).",
+      "sources": [
+        {
+          "title": "Wikipedia, Cunigunde of Luxembourg (iconography: the church model, the ploughshare)",
+          "url": "https://en.wikipedia.org/wiki/Cunigunde_of_Luxembourg"
+        },
+        {
+          "title": "Wikipedia (de), Kunigunde von Luxemburg (lead image: the Pericopes of Henry II)",
+          "url": "https://de.wikipedia.org/wiki/Kunigunde_von_Luxemburg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-03-cunegundes (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-03-cunegundes.md"
+        }
+      ],
+      "lifeChapter": "mar-03-cunegundes",
+      "catalogMatch": "St. Cunegundes, Empress"
+    },
+    {
+      "id": "adrian_eubulus",
+      "letter": "A",
+      "feast": {
+        "month": 3,
+        "day": 5
+      },
+      "name": {
+        "en-US": "Sts. Adrian and Eubulus",
+        "pt-BR": "Santos Adrião e Êubulo"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Caesarea",
+        "pt-BR": "Mártires de Cesareia"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is in vain that we take the name of Christians, or pretend to follow Christ, unless we carry our crosses after Him.",
+        "pt-BR": "É em vão que tomamos o nome de cristãos, ou pretendemos seguir a Cristo, a não ser que levemos as nossas cruzes após Ele."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-05 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Adrian and Eubulus, two Christians of Palestine who came to Caesarea to visit the confessors in prison, half-length side by side, in plain travellers' dress of the early fourth century: Adrian (left) in a rust-brown woollen tunic with a grey travelling cloak over one shoulder, a traveller's staff in his hand and a green martyr's palm; Eubulus (right) in an undyed linen tunic with a blue-grey cloak, holding a green palm and a small cloth bundle of bread for the prisoners. Behind them, the arched stone gate of Caesarea Maritima, where they confessed their faith, and beyond it Herod's great harbour with its moles and ships on a bright blue sea, under a clear Mediterranean sky. Candid and fearless; no soldiers, no beasts, no wounds, no lettering.",
+      "face": "Two clearly different young men of Palestine with warm olive-brown skin. ADRIAN (left): about thirty, with a COMPACT, ROUND-TOPPED head and a BROAD, SHORT face — PROMINENT, round, high cheekbones, a SHORT, broad nose with a slightly flattened tip, narrow, dark almond eyes that turn up at the outer corners, thick, straight black brows, a wide, full mouth; short, tight black curls; a SHORT, ROUNDED black beard; his gaze bold, toward us. EUBULUS (right): about twenty-two, with a LONG, THIN, bony face — a high, narrow forehead, a LONG nose with a pronounced HUMP, large, soft, dark eyes under softly arched brows, lean cheeks, a small mouth, a LONG, narrow chin; straight black hair falling over the forehead; only a faint DOWN of first beard on the lip and chin; his gaze gentle, turned toward Adrian.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likenesses survive. The Painter's Manual gives Adrian 'a young man with a rounded beard' and Eubulus 'an incipient beard', and the card follows both. The book's engraving shows two haloed men seized at the city gate by soldiers; the gate and Caesarea's harbour (Wikipedia) are the background. The face structures are our choice.",
+      "sources": [
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the martyrs of the year",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Wikipedia, Caesarea Maritima (Herod's harbour)",
+          "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-05-sts-adrian-and-eubulus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-05-sts-adrian-and-eubulus.md"
+        }
+      ],
+      "lifeChapter": "mar-05-sts-adrian-and-eubulus",
+      "catalogMatch": "Sts. Adrian and Eubulus, Martyrs"
+    },
+    {
+      "id": "colette",
+      "letter": "C",
+      "feast": {
+        "month": 3,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Colette",
+        "pt-BR": "Santa Coleta"
+      },
+      "patronOf": {
+        "en-US": "Reformer of the Poor Clares",
+        "pt-BR": "Reformadora das Clarissas"
+      },
+      "prayerExcerpt": {
+        "en-US": "She would count that day the unhappiest of her life in which she suffered nothing for her God.",
+        "pt-BR": "Contaria por mais infeliz de sua vida aquele dia em que nada padecesse por seu Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-06-colette.md, last paragraph, the clause of what she said (Pictorial Lives, public domain)",
+      "subject": "St. Colette of Corbie, reformer of the Poor Clares, half-length, as in the Master of Lourinhã's panel: a coarse ASH-GREY habit girded with a white knotted Franciscan cord, a white wimple and a black veil; she holds an open prayer book in both hands, her eyes lifted from it, and a slender ray of light falls on her from the upper corner, as in the book's engraving of her at prayer in her cell. Behind her, Corbie in Picardy: her small anchoress's cell built against the flank of the parish church, the great abbey church beyond, and the wide, marshy Somme valley with poplars, under a pale northern sky. Ardent and recollected; no demons, no lettering.",
+      "face": "A Picard woman of about forty-five with a pale, fine complexion and a SMALL, NARROW face with sharply defined CHEEKBONES and a small, slightly JUTTING, POINTED chin — a smooth, low forehead under the wimple, a SHORT, fine, straight nose, VERY LARGE, dark-brown eyes that seem too big for the face, fine, straight dark brows, faint hollows under the cheekbones, a small, firm, closed mouth; hair hidden; the gaze intense and burning, lifted toward the light.",
+      "refs": [
+        "clare_assisi",
+        "catherine_siena",
+        "teresa"
+      ],
+      "basis": "No portrait from life survives; the Master of Lourinhã's panel of St. Clare and St. Colette (c. 1520, Lisbon; Wikipedia's lead image, Commons metadata consulted) shows her reading in a grey habit, white wimple and black veil, and the card keeps that dress and the book. The book's engraving shows her in her cell under a ray of light. Her cell against the church at Corbie is from the book and Wikipedia; the small face with very large eyes is our choice, apart from `clare_assisi`'s oval.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Master of Lourinhã, St. Clare and St. Colette (c. 1520), detail",
+          "url": "https://commons.wikimedia.org/wiki/File:Santa_Coleta_(pormenor_-_Santa_Clara_e_Santa_Coleta,_c._1520,_Mestre_da_Lourinh%C3%A3).png"
+        },
+        {
+          "title": "Wikipedia, Colette of Corbie",
+          "url": "https://en.wikipedia.org/wiki/Colette_of_Corbie"
+        },
+        {
+          "title": "Wikipedia, Corbie, Somme (the Somme valley)",
+          "url": "https://en.wikipedia.org/wiki/Corbie"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-06-colette (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-06-colette.md"
+        }
+      ],
+      "lifeChapter": "mar-06-colette",
+      "catalogMatch": "St. Colette, Virgin"
+    },
+    {
+      "id": "forty_martyrs_sebaste",
+      "letter": "F",
+      "feast": {
+        "month": 3,
+        "day": 10
+      },
+      "name": {
+        "en-US": "The Forty Martyrs of Sebaste",
+        "pt-BR": "Os Quarenta Mártires de Sebaste"
+      },
+      "patronOf": {
+        "en-US": "Soldiers and martyrs",
+        "pt-BR": "Soldados e mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Grant that forty may be crowned.\"",
+        "pt-BR": "\"Concedei que quarenta sejam coroados.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-10-the-forty.md, the martyrs' prayer on the ice (Pictorial Lives, public domain)",
+      "subject": "The Forty Martyrs of Sebaste, Roman soldiers of Armenia, on the frozen pond on a winter night, composed for the arched window: the four nearest half-length in the foreground, the rest a close company of small, haloed figures standing behind them on the ice, all stripped to plain white linen loincloths, arms crossed on their breasts or lifted in prayer; above them, in a break of golden light in the dark-blue sky, small angels descend with a row of golden crowns. At one side on the shore a small, warm-lit bathhouse, and in front of it a soldier guard in a red cloak and bronze helmet (Aglaius) unclasping his cloak to join them. Snow on the ground, a pale winter moon, the snowy hills of Armenia beyond. Steadfast and luminous; the bodies modest and unhurt, no wounds, no fire, no lettering.",
+      "face": "Four principal figures, each a different man. (1) Centre front, THE YOUNGEST: about eighteen, BEARDLESS, with a warm, light-olive complexion and a SMALL, NARROW, heart-shaped face — a short, straight nose, very large, dark eyes lifted to the crowns, fine arched brows, a small mouth; short, straight black hair. (2) Left: an old soldier of about sixty, BALD, with a BROAD, SQUARE, heavy-jawed face, a short, BROKEN, flattened nose, small, deep-set grey eyes under bristling grey brows, and a ROUNDED white beard. (3) Right: a grey-haired man of about fifty with a LONG, NARROW face, a long, thin, hooked nose, hollow cheeks, deep-set dark eyes, and a POINTED grey beard. (4) Behind them, the guard Aglaius: about thirty-five, with a WIDE, flat-cheeked face, a strong straight nose, level black brows, a black moustache and short black stubble, looking up in wonder at the crowns. The small figures behind: varied ages, some bearded, some beardless.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "agnes"
+      ],
+      "basis": "The Painter's Manual lists the Forty one by one, young and old, beardless, pointed- and rounded-bearded, and the card mixes those types; Sisinnius, 'a bald old man with a rounded beard', gives the old soldier. The book and Wikipedia (after St. Basil) give the frozen pond, the warm baths, the angels with crowns, the guard who took the place of the one who fled (Wikipedia names him Aglaius) and the youngest who held out longest; the Orthodox icon on Wikipedia shows them crowded together on the ice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Forty Martyrs of Sebaste (lead image: icon of the Forty)",
+          "url": "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the martyrs of the year",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-10-the-forty (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-10-the-forty.md"
+        }
+      ],
+      "lifeChapter": "mar-10-the-forty",
+      "catalogMatch": "The Forty Martyrs of Sebaste"
+    },
+    {
+      "id": "eulogius_cordoba",
+      "letter": "E",
+      "feast": {
+        "month": 3,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Eulogius of Córdoba",
+        "pt-BR": "Santo Eulógio de Córdoba"
+      },
+      "patronOf": {
+        "en-US": "Priest and martyr",
+        "pt-BR": "Presbítero e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Remember that you have renounced the world and the devil once for all at your Baptism.",
+        "pt-BR": "Lembrai-vos de que renunciastes ao mundo e ao demônio de uma vez por todas no vosso Batismo."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-11 reflection, third sentence (Pictorial Lives, public domain)",
+      "subject": "St. Eulogius, priest of Córdoba and head of its school, who wrote in prison his Exhortation to Martyrdom, half-length, as a ninth-century Mozarabic priest: a white linen alb and a dark-red chasuble of simple cut; in his left hand a bound book with a plain leather cover held against his breast, in his right a green martyr's palm. Behind him, Córdoba on the Guadalquivir: the long arches of the Roman bridge over the broad, slow river, the walls and white houses of the city with a few palms, under a clear, golden Andalusian sky. Gentle and firm; no sword, no lettering.",
+      "face": "A Hispano-Roman of about forty-five with a warm, sun-browned olive complexion and a WIDE face with a LOW, BROAD forehead — the crown BALD with a fringe of short black hair, a STRONG, AQUILINE, sharply HOOKED nose, WIDE, FLAT cheekbones, small, bright, kindly dark eyes crinkled at the corners, thick, straight black brows, a wide, gentle mouth; a dense, SHORT black beard cut SQUARE at the chin, touched with grey; the gaze warm and encouraging, toward us.",
+      "refs": [
+        "jerome",
+        "augustine",
+        "vincent_de_paul"
+      ],
+      "basis": "No likeness from life; Paulus Alvarus, his friend, described his gentleness and kindness (Wikipedia). A Spanish painting of his martyrdom (Wikipedia lead image) shows him bald and bearded, and the card keeps the bald crown and the beard. The book's engraving shows him in prison, seated by a book; the book and palm follow his writing and martyrdom. The Roman bridge stood in his day (Wikipedia).",
+      "sources": [
+        {
+          "title": "Wikipedia, Eulogius of Córdoba (lead image: his martyrdom)",
+          "url": "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+        },
+        {
+          "title": "Wikipedia, Roman bridge of Córdoba",
+          "url": "https://en.wikipedia.org/wiki/Roman_bridge_of_C%C3%B3rdoba"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-11-eulogius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-11-eulogius.md"
+        }
+      ],
+      "lifeChapter": "mar-11-eulogius",
+      "catalogMatch": "St. Eulogius, Martyr"
+    },
+    {
+      "id": "euphrasia",
+      "letter": "E",
+      "feast": {
+        "month": 3,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Euphrasia",
+        "pt-BR": "Santa Eufrásia"
+      },
+      "patronOf": {
+        "en-US": "Virgin and nun",
+        "pt-BR": "Virgem e monja"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"By vow I consecrate myself to Christ.\"",
+        "pt-BR": "\"Por voto consagro-me a Cristo.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-13-euphrasia.md, her words at seven years old (the chapter has no Reflection; the index has none for 03-13) (Pictorial Lives, public domain)",
+      "subject": "St. Euphrasia, the noble girl of Constantinople who became a nun in a monastery of Egypt, half-length: a plain, undyed brown woollen habit and a dark-brown veil over a white head-cloth; she carries in her arms against her breast a rough, heavy block of pale stone, the penance her abbess set her, as in the book's engraving, and hanging at her breast a small painted wooden image of Christ, the one she kissed when she gave herself to Him. Behind her, the Egyptian desert: the low mud-brick walls and domed cells of the monastery, a few palms and scattered blocks of stone, as in the engraving, under a hot, pale-gold sky. Humble and cheerful; no lettering.",
+      "face": "A young Greek noblewoman of about twenty-two with a pale olive complexion and a LONG, SLENDER NECK and a NARROW, oblong face under a notably HIGH, ROUNDED forehead — a fine, straight nose with a HIGH, narrow bridge, large, heavy-lashed dark almond eyes set rather CLOSE together, straight, fine dark brows, a long, smooth cheek line, a small, full mouth with a slight, content smile, a small, rounded chin; hair hidden under the veil; the gaze simple and happy, lowered toward the stone.",
+      "refs": [
+        "clare_assisi",
+        "agnes",
+        "rose_lima"
+      ],
+      "basis": "No likeness survives; the book's engraving shows a young veiled nun carrying a block of stone among ruins in Egypt, and the card keeps the stone and the Egyptian setting. Her birth at Constantinople and her death at thirty in 410 are from the book and Wikipedia. The narrow, high-browed face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Eupraxia of Constantinople (lead image: engraving of St. Euphrasia with the stone)",
+          "url": "https://en.wikipedia.org/wiki/Eupraxia_of_Constantinople"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-13-euphrasia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-13-euphrasia.md"
+        }
+      ],
+      "lifeChapter": "mar-13-euphrasia",
+      "catalogMatch": "St. Euphrasia, Virgin"
+    },
+    {
+      "id": "maud",
+      "letter": "M",
+      "feast": {
+        "month": 3,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Maud",
+        "pt-BR": "Santa Matilde"
+      },
+      "patronOf": {
+        "en-US": "Queen of Germany",
+        "pt-BR": "Rainha da Germânia"
+      },
+      "prayerExcerpt": {
+        "en-US": "The beginning of true virtue is most ardently to desire it, and to ask it of God with the utmost assiduity and earnestness.",
+        "pt-BR": "O princípio da verdadeira virtude é desejá-la com o maior ardor, e pedi-la a Deus com a máxima assiduidade e seriedade."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-14 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Maud (Matilda of Ringelheim), Queen of Germany, wife of Henry the Fowler and mother of Otto the Great, half-length, as a widow queen: a plain dark-violet gown, a white widow's veil and wimple close about the face under a simple gold crown; she holds out in both hands a wooden bowl of broth and a round loaf, as in the book's engraving where she serves the sick at their beds. Behind her, Quedlinburg in Saxony: the abbey church she founded above the red roofs of the town, and a green, wooded Saxon countryside, under a soft, bright sky. Warm and motherly; no lettering.",
+      "face": "A Saxon matron of about sixty-five with a fair, fresh, lightly ruddy complexion and a BROAD, SQUARE, strong-boned face — a wide, low forehead, a SHORT nose with a broad, flat bridge, a PROMINENT, SQUARE jaw softening into slight jowls, small, deep-set, twinkling grey eyes in a web of laughter lines, straight, fair-grey brows, a wide, thin-lipped mouth in a kindly half-smile; hair hidden under the wimple; the gaze warm and attentive, toward the sick.",
+      "refs": [
+        "elizabeth_hungary",
+        "monica",
+        "anne"
+      ],
+      "basis": "No likeness from life; the chronicle drawings on Wikipedia (Commons) show a crowned, veiled queen without individual features. The book's engraving shows her serving the sick with a cup; her foundation and burial at Quedlinburg are from Wikipedia. The broad, square Saxon face is our choice, apart from the set's long-faced queens.",
+      "sources": [
+        {
+          "title": "Wikipedia, Matilda of Ringelheim (lead image: chronicle drawing)",
+          "url": "https://en.wikipedia.org/wiki/Matilda_of_Ringelheim"
+        },
+        {
+          "title": "Wikipedia, Quedlinburg Abbey",
+          "url": "https://en.wikipedia.org/wiki/Quedlinburg_Abbey"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-14-maud (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-14-maud.md"
+        }
+      ],
+      "lifeChapter": "mar-14-maud",
+      "catalogMatch": "St. Maud, Queen"
+    }
+  ]
+}
