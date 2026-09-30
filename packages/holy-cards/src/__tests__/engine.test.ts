@@ -2,8 +2,9 @@ import { readdirSync, readFileSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import type { OfCalendarStatics, SanctoralEntry, TemporalEntry } from '@ember/missal-schema'
 import { describe, expect, it } from 'vitest'
+import { addDays, eachDay, isSunday } from '../dates'
 import { drawCard, grants, pendingCards, redeem } from '../engine'
-import type { Act, Catalog, Copy, EngineInput, Grant, Occurrence } from '../types'
+import type { Act, Catalog, Copy, Door, EngineInput, Grant, Occurrence } from '../types'
 
 // The real calendar and the real saint cards; the non-saint cards (seasons,
 // liturgical) aren't drawn yet, so they're stand-in ids.
@@ -49,23 +50,18 @@ const input = (acts: Act[], extra: Partial<EngineInput> = {}): EngineInput => ({
 })
 const mass = (...dates: string[]): Act[] => dates.map((date) => ({ kind: 'mass', date }))
 const office = (date: string): Act => ({ kind: 'office', date })
-const only = (gs: Grant[], door: Grant['door']) => gs.filter((g) => g.door === door)
-
-/** Every Sunday and weekday from `start` to `end`, as Mass acts. */
-function everyDay(start: string, end: string): string[] {
-  const days: string[] = []
-  for (
-    let d = new Date(`${start}T12:00`);
-    d <= new Date(`${end}T12:00`);
-    d.setDate(d.getDate() + 1)
-  )
-    days.push(d.toLocaleDateString('sv'))
-  return days
-}
-const sundaysIn = (start: string, end: string) =>
-  everyDay(start, end).filter((d) => new Date(`${d}T12:00`).getDay() === 0)
-const weekdaysIn = (start: string, end: string) =>
-  everyDay(start, end).filter((d) => new Date(`${d}T12:00`).getDay() !== 0)
+const only = (gs: Grant[], door: Door) => gs.filter((g) => g.door === door)
+const pending = (
+  acts: Act[],
+  today: string,
+  copies: Copy[] = [],
+  extra: Partial<EngineInput> = {},
+) => pendingCards({ ...input(acts, extra), copies, today })
+/** Copies of `cards`, as if redeemed long ago. */
+const held = (cards: string[]): Copy[] =>
+  cards.map((card, i) => ({ grant: `x${i}`, card, date: '2026-01-01' }))
+const sundaysIn = (start: string, end: string) => eachDay(start, end).filter(isSunday)
+const weekdaysIn = (start: string, end: string) => eachDay(start, end).filter((d) => !isSunday(d))
 
 describe('Mass', () => {
   it("gives the date's saint even when a Sunday outranks him", () => {
@@ -83,7 +79,7 @@ describe('Mass', () => {
   it('gives a liturgical card on a date with no saint', () => {
     // 1 July has no celebration, universal or Brazilian.
     const [g] = grants(input(mass('2026-07-01')))
-    expect(g).toMatchObject({ door: 'liturgical', choice: catalog.liturgical })
+    expect(g).toMatchObject({ door: 'mass', drawn: true, choice: catalog.liturgical })
   })
 
   it('gives one card however many times Mass is marked that day', () => {
@@ -145,7 +141,13 @@ describe('Seasons', () => {
         .filter((g) => g.date === '2026-12-20')
         .map((g) => g.door)
         .sort(),
-    ).toEqual(['liturgical', 'seasonSunday'])
+    ).toEqual(['mass', 'seasonSunday'])
+  })
+
+  it('still offers the Sunday card when the early Sundays are long past', () => {
+    const sundays = sundaysIn(advent.start, advent.end)
+    const ids = pending(mass(...sundays), '2026-12-22').map((g) => g.id)
+    expect(ids).toContain('season-sunday:advent-2026')
   })
 
   it('gives no Sunday card when a Sunday is missed', () => {
@@ -212,9 +214,11 @@ describe('Novenas, Ember Days, books', () => {
 
 describe('Practice lineages', () => {
   const days = (n: number, kept: (i: number) => boolean): Occurrence[] =>
-    everyDay('2026-01-01', '2027-12-31')
-      .slice(0, n)
-      .map((date, i) => ({ practice: 'practice/rosary', date, kept: kept(i) }))
+    eachDay('2026-01-01', addDays('2026-01-01', n - 1)).map((date, i) => ({
+      practice: 'practice/rosary',
+      date,
+      kept: kept(i),
+    }))
 
   it('gives the next saint for 20 of the last 30, with no overlapping windows', () => {
     // Kept two days of every three: 20 kept by day 30, again by day 60, 90.
@@ -228,13 +232,10 @@ describe('Practice lineages', () => {
 })
 
 describe('Redeeming', () => {
-  const copyOf = (g: Grant, card: string, date = g.date): Copy => ({ grant: g.id, card, date })
-
   it('keeps a Mass card until the end of the next day', () => {
     const acts = mass('2026-10-04')
-    const pending = (today: string) => pendingCards({ ...input(acts), copies: [], today })
-    expect(pending('2026-10-05')).toHaveLength(1)
-    expect(pending('2026-10-06')).toEqual([])
+    expect(pending(acts, '2026-10-05')).toHaveLength(1)
+    expect(pending(acts, '2026-10-06')).toEqual([])
   })
 
   it('stops offering a redeemed card', () => {
@@ -242,13 +243,12 @@ describe('Redeeming', () => {
     const [g] = grants(input(acts))
     const copies = [redeem(g, '2026-10-04', [])]
     expect(copies[0].card).toBe('francis_assisi')
-    expect(pendingCards({ ...input(acts), copies, today: '2026-10-04' })).toEqual([])
+    expect(pending(acts, '2026-10-04', copies)).toEqual([])
   })
 
   it('brings a lapsed saint back the next time the act comes round', () => {
     const acts = mass('2026-10-04', '2027-10-04')
-    const pending = pendingCards({ ...input(acts), copies: [], today: '2027-10-04' })
-    expect(pending.map((g) => g.id)).toEqual(['mass:2027-10-04'])
+    expect(pending(acts, '2027-10-04').map((g) => g.id)).toEqual(['mass:2027-10-04'])
   })
 
   it('makes the user pick when the envelope offers several', () => {
@@ -260,27 +260,24 @@ describe('Redeeming', () => {
 
   it('draws an unheld liturgical card, the same one while it waits', () => {
     const [g] = grants(input(mass('2026-07-01')))
-    const held = catalog.liturgical
-      .slice(0, 3)
-      .map((card, i) => ({ grant: `x${i}`, card, date: '2026-01-01' }))
-    expect(drawCard(g, held)).toBe('chasuble')
+    const three = held(catalog.liturgical.slice(0, 3))
+    expect(drawCard(g, three)).toBe('chasuble')
     expect(drawCard(g, [])).toBe(drawCard(g, []))
-    expect(redeem(g, '2026-07-01', held).card).toBe('chasuble')
+    expect(redeem(g, '2026-07-01', three).card).toBe('chasuble')
   })
 
   it('draws a copy once every liturgical card is held', () => {
     const [g] = grants(input(mass('2026-07-01')))
-    const held = catalog.liturgical.map((card, i) => ({ grant: `x${i}`, card, date: '2026-01-01' }))
-    expect(catalog.liturgical).toContain(drawCard(g, held))
+    expect(catalog.liturgical).toContain(drawCard(g, held(catalog.liturgical)))
   })
 
   it('offers two different starter cards with no window', () => {
     const extra = { firstOpened: '2026-01-01' }
     const [first, second] = grants(input([], extra))
     expect([first.deadline, second.deadline]).toEqual([undefined, undefined])
-    const copies = [copyOf(first, 'peter')]
-    const pending = pendingCards({ ...input([], extra), copies, today: '2030-01-01' })
-    expect(pending).toHaveLength(1)
-    expect(pending[0].choice).toEqual(['paul', 'augustine'])
+    const copies = [redeem(first, '2026-01-01', [], 'peter')]
+    const waiting = pending([], '2030-01-01', copies, extra)
+    expect(waiting).toHaveLength(1)
+    expect(waiting[0].choice).toEqual(['paul', 'augustine'])
   })
 })

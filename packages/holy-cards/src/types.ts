@@ -17,12 +17,12 @@ export type EmberSeason = 'advent' | 'lent' | 'pentecost' | 'september'
  * practices count as Mass or as the Office, and when a novena is finished, is
  * decided there, not here.
  */
-export type Act =
-  | { kind: 'mass'; date: IsoDate }
-  | { kind: 'office'; date: IsoDate }
-  | { kind: 'novenaFinished'; date: IsoDate; novena: string }
-  | { kind: 'emberDaysFinished'; date: IsoDate; ember: EmberSeason }
-  | { kind: 'bookFinished'; date: IsoDate; book: string }
+export type Act = { date: IsoDate } & (
+  | { kind: 'mass' | 'office' }
+  | { kind: 'novenaFinished'; novena: string }
+  | { kind: 'emberDaysFinished'; ember: EmberSeason }
+  | { kind: 'bookFinished'; book: string }
+)
 
 /** One scheduled day of a practice the user chose, and whether it was kept. */
 export type Occurrence = { practice: string; date: IsoDate; kept: boolean }
@@ -67,6 +67,13 @@ type GrantBase = {
   date: IsoDate
   /** The cards to pick from, in display order. A single entry means no choice. */
   choice: CardId[]
+  /**
+   * The card is drawn from `choice` at redeem instead of picked: Mass on a date
+   * without a carded saint gives a liturgical card.
+   */
+  drawn?: true
+  /** Grants sharing a group give different cards: the second starter isn't the first. */
+  group?: string
   /** Last day to redeem it (inclusive). Absent: no window. */
   deadline?: IsoDate
 }
@@ -74,17 +81,12 @@ type GrantBase = {
 /** A won card waiting to be redeemed, with what won it. */
 export type Grant = GrantBase &
   (
-    | { door: 'mass' }
-    /** Mass on a date without a carded saint: the card is drawn from `choice` at redeem. */
-    | { door: 'liturgical' }
-    | { door: 'office' }
+    | { door: 'mass' | 'office' | 'triduum' | 'gaudete' | 'laetare' | 'starter' }
     | { door: 'seasonSunday' | 'seasonWeekday'; season: Season }
-    | { door: 'triduum' | 'gaudete' | 'laetare' }
     | { door: 'emberDays'; ember: EmberSeason }
     | { door: 'novena'; novena: string }
     | { door: 'lineage'; practice: string }
     | { door: 'book'; book: string }
-    | { door: 'starter' }
   )
 
 export type Door = Grant['door']

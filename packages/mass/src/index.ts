@@ -11,6 +11,7 @@ export {
   type OfDay as OfResolvedDay,
   type OfYearOptions,
   observesTransferred,
+  ofCalendarRefs,
   ofDateCelebrations,
   resolveOfDay,
   type Scope,

@@ -4,6 +4,16 @@ import { addDays } from 'date-fns'
 
 export type Scope = string
 
+/** Whether `entry` is on the calendar of `scope`; universal entries always are. */
+export function inScope(entry: SanctoralEntry, scope: Scope): boolean {
+  return entry.scope === 'universal' || entry.scope === scope
+}
+
+/** The formulary refs of every sanctoral celebration on the calendar of `scope`. */
+export function ofCalendarRefs(entries: SanctoralEntry[], scope: Scope): Set<string> {
+  return new Set(entries.filter((e) => inScope(e, scope)).map((e) => e.formularyRef))
+}
+
 const dayKey = (month: number, day: number) => month * 100 + day
 
 /**
@@ -61,5 +71,5 @@ export function sanctoralFor(
   )
   if (!onDay) return []
   // Entry order is preserved within a day.
-  return onDay.filter((e) => e.scope === 'universal' || e.scope === scope)
+  return onDay.filter((e) => inScope(e, scope))
 }

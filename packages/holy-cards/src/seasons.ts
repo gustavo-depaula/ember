@@ -1,52 +1,44 @@
-import {
-  computeEaster,
-  getAshWednesday,
-  getBaptismOfTheLord,
-  getFirstSundayOfAdvent,
-} from '@ember/liturgical'
+import { computeAnchors } from '@ember/liturgical'
 import { addDays, toIso } from './dates'
 import type { IsoDate, Season } from './types'
 
-export type SeasonWindow = { season: Season; key: string; start: IsoDate; end: IsoDate }
+export type SeasonWindow = { season: Season; start: IsoDate; end: IsoDate }
 
 /**
- * The seasons that begin in civil year `year`, on the same boundaries as
- * `getOfLiturgicalPosition` (and so `resolveOfDay`). Lent runs to Holy
- * Wednesday — Palm Sunday is its last Sunday — and the Triduum is its own card.
+ * The seasons that begin in civil year `year`, on the calendar's anchors. Lent
+ * runs to Holy Wednesday — Palm Sunday is its last Sunday — and the Triduum is
+ * its own card.
  */
 export function seasonsStartingIn(year: number): SeasonWindow[] {
-  const easter = toIso(computeEaster(year))
-  const ashWednesday = toIso(getAshWednesday(year))
-  const pentecost = addDays(easter, 49)
-  const advent = toIso(getFirstSundayOfAdvent(year))
-  const window = (season: Season, start: IsoDate, end: IsoDate): SeasonWindow => ({
-    season,
-    key: `${season}-${year}`,
-    start,
-    end,
-  })
+  const a = anchors(year)
   return [
-    window('ordinary1', addDays(toIso(getBaptismOfTheLord(year)), 1), addDays(ashWednesday, -1)),
-    window('lent', ashWednesday, addDays(easter, -4)),
-    window('easter', easter, pentecost),
-    window('ordinary2', addDays(pentecost, 1), addDays(advent, -1)),
-    window('advent', advent, `${year}-12-24`),
-    window('christmas', `${year}-12-25`, toIso(getBaptismOfTheLord(year + 1))),
+    {
+      season: 'ordinary1',
+      start: addDays(a.baptism_of_the_lord, 1),
+      end: addDays(a.ash_wednesday, -1),
+    },
+    { season: 'lent', start: a.ash_wednesday, end: addDays(a.holy_thursday, -1) },
+    { season: 'easter', start: a.easter, end: a.pentecost },
+    { season: 'ordinary2', start: addDays(a.pentecost, 1), end: addDays(a.advent_1, -1) },
+    { season: 'advent', start: a.advent_1, end: addDays(a.christmas, -1) },
+    { season: 'christmas', start: a.christmas, end: anchors(year + 1).baptism_of_the_lord },
   ]
 }
 
-/** The three days of the Triduum in `year`: Holy Thursday, Good Friday, the Easter Vigil. */
-export function triduum(year: number): IsoDate[] {
-  const easter = toIso(computeEaster(year))
-  return [addDays(easter, -3), addDays(easter, -2), addDays(easter, -1)]
+/** The Triduum, Gaudete and Laetare in `year`: the days each needs Mass on. */
+export function feastDays(year: number) {
+  const a = anchors(year)
+  return {
+    triduum: [a.holy_thursday, a.good_friday, a.holy_saturday],
+    gaudete: [a.advent_3],
+    laetare: [a.lent_4],
+  }
 }
 
-/** The Third Sunday of Advent in civil year `year`. */
-export function gaudete(year: number): IsoDate {
-  return addDays(toIso(getFirstSundayOfAdvent(year)), 14)
-}
-
-/** The Fourth Sunday of Lent in `year`. */
-export function laetare(year: number): IsoDate {
-  return addDays(toIso(getAshWednesday(year)), 25)
+function anchors(year: number) {
+  const dates = computeAnchors(year)
+  return Object.fromEntries(Object.entries(dates).map(([k, d]) => [k, toIso(d)])) as Record<
+    keyof typeof dates,
+    IsoDate
+  >
 }

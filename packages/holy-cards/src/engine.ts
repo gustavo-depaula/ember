@@ -1,11 +1,15 @@
-import { rules } from './rules'
+import { addDays, ascending } from './dates'
+import { longestWindow, rules } from './rules'
 import type { CardId, Copy, EngineInput, Grant, IsoDate } from './types'
 
-/** Every card the user's acts have ever won, redeemed or not, oldest first. */
-export function grants(input: EngineInput): Grant[] {
+/**
+ * The cards the user's acts have won, redeemed or not, oldest first — every
+ * one, or from `since` on (earlier ones may still appear).
+ */
+export function grants(input: EngineInput, since: IsoDate = ''): Grant[] {
   return rules
-    .flatMap((rule) => rule(input))
-    .sort((a, b) => a.date.localeCompare(b.date) || a.id.localeCompare(b.id))
+    .flatMap((rule) => rule(input, since))
+    .sort((a, b) => ascending(a.date, b.date) || ascending(a.id, b.id))
 }
 
 /**
@@ -15,22 +19,27 @@ export function grants(input: EngineInput): Grant[] {
  */
 export function pendingCards(input: EngineInput & { copies: Copy[]; today: IsoDate }): Grant[] {
   const redeemed = new Set(input.copies.map((c) => c.grant))
-  // Each starter card is a different saint: the second leaves out the first.
-  const starters = new Set(
-    input.copies.filter((c) => c.grant.startsWith('starter:')).map((c) => c.card),
-  )
-  return grants(input)
+  const won = grants(input, addDays(input.today, -longestWindow))
+  // Cards already chosen in each group, so the group's next grant offers another.
+  const byId = new Map(won.map((g) => [g.id, g]))
+  const chosen = new Map<string, Set<CardId>>()
+  for (const c of input.copies) {
+    const group = byId.get(c.grant)?.group
+    if (group) chosen.set(group, (chosen.get(group) ?? new Set()).add(c.card))
+  }
+  return won
     .filter((g) => !redeemed.has(g.id) && (!g.deadline || g.deadline >= input.today))
-    .map((g) =>
-      g.door === 'starter' ? { ...g, choice: g.choice.filter((c) => !starters.has(c)) } : g,
-    )
-    .sort((a, b) => (a.deadline ?? '9999').localeCompare(b.deadline ?? '9999'))
+    .map((g) => {
+      const taken = g.group && chosen.get(g.group)
+      return taken ? { ...g, choice: g.choice.filter((c) => !taken.has(c)) } : g
+    })
+    .sort((a, b) => ascending(a.deadline ?? '9999', b.deadline ?? '9999'))
 }
 
 /**
- * The card a liturgical envelope holds: drawn from the ones not yet held,
- * every candidate equally likely, seeded by the grant so it never changes
- * while the envelope waits. Once all are held, any of them (a copy).
+ * The card a drawn envelope holds: drawn from the ones not yet held, every
+ * candidate equally likely, seeded by the grant so it never changes while the
+ * envelope waits. Once all are held, any of them (a copy).
  */
 export function drawCard(grant: Grant, copies: Copy[]): CardId {
   const held = new Set(copies.map((c) => c.card))
@@ -41,16 +50,14 @@ export function drawCard(grant: Grant, copies: Copy[]): CardId {
 
 /**
  * The copy to store when the user redeems `grant` on `today`. `card` is their
- * pick when the envelope offers a choice; a liturgical envelope ignores it and
- * draws.
+ * pick when the envelope offers a choice; a drawn envelope ignores it.
  */
 export function redeem(grant: Grant, today: IsoDate, copies: Copy[], card?: CardId): Copy {
-  const chosen = grant.door === 'liturgical' ? drawCard(grant, copies) : (card ?? grant.choice[0])
+  if (grant.drawn) return { grant: grant.id, card: drawCard(grant, copies), date: today }
+  const chosen = card ?? (grant.choice.length === 1 ? grant.choice[0] : undefined)
+  if (!chosen) throw new Error(`${grant.id} offers a choice; pick a card`)
   if (!grant.choice.includes(chosen)) {
     throw new Error(`${chosen} is not a card offered by ${grant.id}`)
-  }
-  if (grant.choice.length > 1 && grant.door !== 'liturgical' && !card) {
-    throw new Error(`${grant.id} offers a choice; pick a card`)
   }
   return { grant: grant.id, card: chosen, date: today }
 }

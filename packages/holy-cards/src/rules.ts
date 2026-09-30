@@ -1,25 +1,34 @@
-import { ofDateCelebrations } from '@ember/mass'
-import { addDays, daysBetween, isSunday, toDate, yearOf } from './dates'
-import { gaudete, laetare, seasonsStartingIn, triduum } from './seasons'
-import type { Act, CardId, EngineInput, Grant, IsoDate } from './types'
+import { ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
+import { addDays, ascending, eachDay, isSunday, toDate, yearOf } from './dates'
+import { feastDays, seasonsStartingIn } from './seasons'
+import type { Act, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
 
 /**
- * A rule reads the whole input and returns every card its door has ever given.
- * Rules are independent: one act can complete several (the last Sunday of
- * Advent gives its Mass card and the Advent Sunday card), and each gives its
- * own. Within a rule, one act gives at most one card.
+ * A rule reads the input and returns the cards its door gave. Rules are
+ * independent: one act can complete several (the last Sunday of Advent gives
+ * its Mass card and the Advent Sunday card), and each gives its own. Within a
+ * rule, one act gives at most one card.
+ *
+ * `since` is a horizon: only cards won on or after it are needed, so a rule may
+ * skip older acts rather than replay the user's whole history.
  */
-export type Rule = (input: EngineInput) => Grant[]
+export type Rule = (input: EngineInput, since: IsoDate) => Grant[]
+
+/** The longest redeeming window, in days. */
+export const longestWindow = 7
 
 const nextDay = (date: IsoDate) => addDays(date, 1)
-const aWeek = (date: IsoDate) => addDays(date, 7)
 
-function datesOf(acts: Act[], kind: Act['kind']): IsoDate[] {
-  return [...new Set(acts.filter((a) => a.kind === kind).map((a) => a.date))].sort()
-}
+/** A single-card grant redeemable within a week. */
+const weekGrant = (id: string, date: IsoDate, card: CardId) => ({
+  id,
+  date,
+  choice: [card],
+  deadline: addDays(date, longestWindow),
+})
 
-function unique<T>(items: T[]): T[] {
-  return [...new Set(items)]
+function datesOf(acts: Act[], kind: Act['kind'], since: IsoDate): IsoDate[] {
+  return [...new Set(acts.filter((a) => a.kind === kind && a.date >= since).map((a) => a.date))]
 }
 
 /**
@@ -27,43 +36,37 @@ function unique<T>(items: T[]): T[] {
  * date, outranked or not, in order of precedence — or, when none has a card,
  * a liturgical card drawn at redeem.
  */
-export const massRule: Rule = ({ acts, calendar, catalog }) => {
-  const byCelebration = new Map<string, CardId[]>()
-  for (const s of catalog.saints) {
-    if (!s.celebration) continue
-    byCelebration.set(s.celebration, [...(byCelebration.get(s.celebration) ?? []), s.id])
-  }
-  return datesOf(acts, 'mass').flatMap((date): Grant[] => {
+export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
+  datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
     const celebrations = ofDateCelebrations(toDate(date), calendar.statics, {
       scope: calendar.scope,
     })
-    const saints = unique(celebrations.flatMap((c) => byCelebration.get(c.ref) ?? []))
-    const base = { id: `mass:${date}`, date, deadline: nextDay(date) }
-    if (saints.length > 0) return [{ ...base, door: 'mass', choice: saints }]
+    const saints = celebrations.flatMap((c) =>
+      catalog.saints.filter((s) => s.celebration === c.ref).map((s) => s.id),
+    )
+    const base = { id: `mass:${date}`, door: 'mass' as const, date, deadline: nextDay(date) }
+    if (saints.length > 0) return [{ ...base, choice: saints }]
     if (catalog.liturgical.length === 0) return []
-    return [{ ...base, door: 'liturgical', choice: catalog.liturgical }]
+    return [{ ...base, choice: catalog.liturgical, drawn: true }]
   })
-}
 
 /**
  * The Office gives the saints who have no Mass on the user's calendar, each on
  * its assigned day.
  */
-export const officeRule: Rule = ({ acts, calendar, catalog }) => {
-  const onCalendar = new Set(
-    calendar.statics.sanctoral
-      .filter((e) => e.scope === 'universal' || e.scope === calendar.scope)
-      .map((e) => e.formularyRef),
-  )
-  const officeSaints = catalog.saints.filter(
-    (s) => s.day && !(s.celebration && onCalendar.has(s.celebration)),
-  )
-  return datesOf(acts, 'office').flatMap((date): Grant[] => {
-    const d = toDate(date)
-    const choice = officeSaints
-      .filter((s) => s.day?.month === d.getMonth() + 1 && s.day.day === d.getDate())
-      .map((s) => s.id)
-    if (choice.length === 0) return []
+export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
+  const dates = datesOf(acts, 'office', since)
+  if (dates.length === 0) return []
+  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, calendar.scope)
+  const byDay = new Map<string, CardId[]>()
+  for (const s of catalog.saints) {
+    if (!s.day || (s.celebration && onCalendar.has(s.celebration))) continue
+    const key = `${String(s.day.month).padStart(2, '0')}-${String(s.day.day).padStart(2, '0')}`
+    byDay.set(key, [...(byDay.get(key) ?? []), s.id])
+  }
+  return dates.flatMap((date): Grant[] => {
+    const choice = byDay.get(date.slice(5))
+    if (!choice) return []
     return [{ id: `office:${date}`, door: 'office', date, choice, deadline: nextDay(date) }]
   })
 }
@@ -73,126 +76,94 @@ export const officeRule: Rule = ({ acts, calendar, catalog }) => {
  * weekday card: Mass on two thirds of its weekdays, given with the Mass that
  * reaches them.
  */
-export const seasonRule: Rule = ({ acts, catalog }) => {
-  const masses = datesOf(acts, 'mass')
-  if (masses.length === 0) return []
+export const seasonRule: Rule = ({ acts, catalog }, since) => {
+  const masses = acts.filter((a) => a.kind === 'mass').map((a) => a.date)
   const attended = new Set(masses)
-  const years = unique(masses.flatMap((d) => [yearOf(d) - 1, yearOf(d)]))
-  return years.flatMap(seasonsStartingIn).flatMap((w): Grant[] => {
-    const cards = catalog.seasons[w.season]
-    if (!cards) return []
-    const days = daysBetween(w.start, w.end)
-    const grants: Grant[] = []
-
-    const sundays = days.filter(isSunday)
-    const last = sundays.at(-1)
-    if (cards.sunday && last && sundays.every((d) => attended.has(d))) {
-      grants.push({
-        id: `season-sunday:${w.key}`,
-        door: 'seasonSunday',
-        season: w.season,
-        date: last,
-        choice: [cards.sunday],
-        deadline: aWeek(last),
-      })
-    }
-
-    const weekdays = days.filter((d) => !isSunday(d))
-    const reached = weekdays.filter((d) => attended.has(d))[
-      Math.ceil((weekdays.length * 2) / 3) - 1
-    ]
-    if (cards.weekday && reached) {
-      grants.push({
-        id: `season-weekday:${w.key}`,
-        door: 'seasonWeekday',
-        season: w.season,
-        date: reached,
-        choice: [cards.weekday],
-        deadline: aWeek(reached),
-      })
-    }
-    return grants
-  })
+  const years = new Set(masses.filter((d) => d >= since).flatMap((d) => [yearOf(d) - 1, yearOf(d)]))
+  return [...years]
+    .flatMap((year) => seasonsStartingIn(year).map((w) => ({ ...w, year })))
+    .filter((w) => w.end >= since)
+    .flatMap((w): Grant[] => {
+      const cards = catalog.seasons[w.season]
+      if (!cards) return []
+      const key = `${w.season}-${w.year}`
+      const days = eachDay(w.start, w.end)
+      const sundays = days.filter(isSunday)
+      const weekdays = days.filter((d) => !isSunday(d))
+      const lastSunday = sundays.every((d) => attended.has(d)) ? sundays.at(-1) : undefined
+      const reached = weekdays.filter((d) => attended.has(d))[
+        Math.ceil((weekdays.length * 2) / 3) - 1
+      ]
+      const season = w.season
+      return [
+        cards.sunday && lastSunday
+          ? {
+              ...weekGrant(`season-sunday:${key}`, lastSunday, cards.sunday),
+              door: 'seasonSunday' as const,
+              season,
+            }
+          : undefined,
+        cards.weekday && reached
+          ? {
+              ...weekGrant(`season-weekday:${key}`, reached, cards.weekday),
+              door: 'seasonWeekday' as const,
+              season,
+            }
+          : undefined,
+      ].filter((g) => g !== undefined)
+    })
 }
 
 /** The Triduum card, and the rose Sundays: Gaudete and Laetare. */
-export const feastDayRule: Rule = ({ acts, catalog }) => {
-  const masses = datesOf(acts, 'mass')
-  const attended = new Set(masses)
-  return unique(masses.map(yearOf)).flatMap((year): Grant[] => {
-    const grants: Grant[] = []
-    const days = triduum(year)
-    const vigil = days[2]
-    if (catalog.triduum && days.every((d) => attended.has(d))) {
-      grants.push({
-        id: `triduum:${year}`,
-        door: 'triduum',
-        date: vigil,
-        choice: [catalog.triduum],
-        deadline: aWeek(vigil),
-      })
-    }
-    for (const [door, card, date] of [
-      ['gaudete', catalog.gaudete, gaudete(year)],
-      ['laetare', catalog.laetare, laetare(year)],
-    ] as const) {
-      if (!card || !attended.has(date)) continue
-      grants.push({ id: `${door}:${year}`, door, date, choice: [card], deadline: aWeek(date) })
-    }
-    return grants
+export const feastDayRule: Rule = ({ acts, catalog }, since) => {
+  const masses = datesOf(acts, 'mass', since)
+  const attended = new Set(acts.filter((a) => a.kind === 'mass').map((a) => a.date))
+  return [...new Set(masses.map(yearOf))].flatMap((year) => {
+    const days = feastDays(year)
+    return (['triduum', 'gaudete', 'laetare'] as const).flatMap((door): Grant[] => {
+      const card = catalog[door]
+      const last = days[door].at(-1)
+      if (!card || !last || !days[door].every((d) => attended.has(d))) return []
+      return [{ ...weekGrant(`${door}:${year}`, last, card), door }]
+    })
   })
 }
 
-export const emberDaysRule: Rule = ({ acts, catalog }) =>
-  acts.flatMap((a): Grant[] => {
-    if (a.kind !== 'emberDaysFinished') return []
-    const card = catalog.emberDays[a.ember]
-    if (!card) return []
-    return [
-      {
-        id: `ember-days:${a.ember}:${yearOf(a.date)}`,
-        door: 'emberDays',
-        ember: a.ember,
-        date: a.date,
-        choice: [card],
-        deadline: aWeek(a.date),
-      },
-    ]
-  })
+/** A rule for an act that finishes something (a novena, the Ember Days, a book) naming its card. */
+function finishedRule<K extends 'novenaFinished' | 'emberDaysFinished' | 'bookFinished'>(
+  kind: K,
+  grant: (act: Extract<Act, { kind: K }>, catalog: Catalog) => Grant | undefined,
+): Rule {
+  return ({ acts, catalog }, since) =>
+    acts.flatMap((a) =>
+      a.kind === kind && a.date >= since
+        ? (grant(a as Extract<Act, { kind: K }>, catalog) ?? [])
+        : [],
+    )
+}
 
-export const novenaRule: Rule = ({ acts, catalog }) =>
-  acts.flatMap((a): Grant[] => {
-    if (a.kind !== 'novenaFinished') return []
-    const card = catalog.novenas[a.novena]
-    if (!card) return []
-    return [
-      {
-        id: `novena:${a.novena}:${a.date}`,
-        door: 'novena',
-        novena: a.novena,
-        date: a.date,
-        choice: [card],
-        deadline: aWeek(a.date),
-      },
-    ]
-  })
+export const novenaRule = finishedRule('novenaFinished', (a, catalog) => {
+  const card = catalog.novenas[a.novena]
+  if (!card) return undefined
+  return {
+    ...weekGrant(`novena:${a.novena}:${a.date}`, a.date, card),
+    door: 'novena',
+    novena: a.novena,
+  }
+})
 
-export const bookRule: Rule = ({ acts, catalog }) =>
-  acts.flatMap((a): Grant[] => {
-    if (a.kind !== 'bookFinished') return []
-    const card = catalog.books[a.book]
-    if (!card) return []
-    return [
-      {
-        id: `book:${a.book}:${a.date}`,
-        door: 'book',
-        book: a.book,
-        date: a.date,
-        choice: [card],
-        deadline: aWeek(a.date),
-      },
-    ]
-  })
+export const emberDaysRule = finishedRule('emberDaysFinished', (a, catalog) => {
+  const card = catalog.emberDays[a.ember]
+  if (!card) return undefined
+  const id = `ember-days:${a.ember}:${yearOf(a.date)}`
+  return { ...weekGrant(id, a.date, card), door: 'emberDays', ember: a.ember }
+})
+
+export const bookRule = finishedRule('bookFinished', (a, catalog) => {
+  const card = catalog.books[a.book]
+  if (!card) return undefined
+  return { ...weekGrant(`book:${a.book}:${a.date}`, a.date, card), door: 'book', book: a.book }
+})
 
 const lineageWindow = 30
 const lineageKept = 20
@@ -200,34 +171,43 @@ const lineageKept = 20
 /**
  * A practice kept on 20 of its last 30 scheduled days gives the next saint of
  * its lineage. Windows don't overlap: after a card, counting starts afresh.
- * After the last saint the lineage starts over.
+ * After the last saint the lineage starts over. Which saint comes next depends
+ * on every earlier window, so this rule reads the whole history (in one pass).
  */
-export const lineageRule: Rule = ({ occurrences, catalog }) =>
-  Object.entries(catalog.lineages).flatMap(([practice, lineage]) => {
-    if (lineage.length === 0) return []
-    const days = occurrences
-      .filter((o) => o.practice === practice)
-      .sort((a, b) => a.date.localeCompare(b.date))
+export const lineageRule: Rule = ({ occurrences, catalog }) => {
+  const byPractice = new Map<string, EngineInput['occurrences']>()
+  for (const o of occurrences) {
+    if (!catalog.lineages[o.practice]?.length) continue
+    const list = byPractice.get(o.practice) ?? []
+    list.push(o)
+    byPractice.set(o.practice, list)
+  }
+  return [...byPractice].flatMap(([practice, list]) => {
+    const lineage = catalog.lineages[practice]
+    const days = list.sort((a, b) => ascending(a.date, b.date))
     const grants: Grant[] = []
     let from = 0
+    let kept = 0
     for (let i = 0; i < days.length; i++) {
-      const window = days.slice(Math.max(from, i - lineageWindow + 1), i + 1)
-      if (window.filter((o) => o.kept).length < lineageKept) continue
+      if (days[i].kept) kept++
+      const leaving = i - lineageWindow
+      if (leaving >= from && days[leaving].kept) kept--
+      if (kept < lineageKept) continue
+      const card = lineage[grants.length % lineage.length]
       const date = days[i].date
       grants.push({
-        id: `lineage:${practice}:${date}`,
+        ...weekGrant(`lineage:${practice}:${date}`, date, card),
         door: 'lineage',
         practice,
-        date,
-        choice: [lineage[grants.length % lineage.length]],
-        deadline: aWeek(date),
       })
       from = i + 1
+      kept = 0
     }
     return grants
   })
+}
 
-/** Two starter cards, picked from the pool, with no window. */
+/** Two different starter cards, picked from the pool, with no window. */
 export const starterRule: Rule = ({ catalog, firstOpened }) => {
   if (!firstOpened || catalog.starters.length === 0) return []
   return [1, 2].map((n) => ({
@@ -235,6 +215,7 @@ export const starterRule: Rule = ({ catalog, firstOpened }) => {
     door: 'starter',
     date: firstOpened,
     choice: catalog.starters,
+    group: 'starter',
   }))
 }
 

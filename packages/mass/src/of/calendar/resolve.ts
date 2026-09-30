@@ -3,6 +3,7 @@ import {
   getOfLiturgicalPosition,
   getSundayCycle,
   getWeekdayCycle,
+  type OfLiturgicalPosition,
   ofTemporeIds,
 } from '@ember/liturgical'
 import type {
@@ -13,7 +14,7 @@ import type {
   TemporalEntry,
 } from '@ember/missal-schema'
 import { girm, isPrivilegedFeria, sanctoralPrecedence, temporalPrecedence } from './precedence'
-import { type Scope, sanctoralFor } from './sanctoral'
+import { inScope, type Scope, sanctoralFor } from './sanctoral'
 import { transferredDate } from './transfers'
 import type { OfCelebration, OfDay } from './types'
 
@@ -44,7 +45,7 @@ function sanctoralWithTransfers(
   // Add any solemnity transferred *into* today from an impeded natural date.
   for (const e of entries) {
     if (e.rank !== 'solemnity' || e.dateRule.type !== 'fixed') continue
-    if (e.scope !== 'universal' && e.scope !== scope) continue
+    if (!inScope(e, scope)) continue
     const observed = transferredDate(e.dateRule.month, e.dateRule.day, year)
     const naturalDate = new Date(year, e.dateRule.month - 1, e.dateRule.day)
     const transferred = observed.getTime() !== naturalDate.getTime()
@@ -70,23 +71,18 @@ function temporalIndex(temporal: TemporalEntry[]): Map<string, TemporalEntry> {
   return index
 }
 
-/**
- * Every celebration `date` carries, ordered by precedence (principal first),
- * before suppression: a memorial falling on a Sunday is still listed. The
- * date's saints are these, whether or not the day's Mass celebrates them.
- */
-export function ofDateCelebrations(
+function celebrationsOn(
   date: Date,
+  position: OfLiturgicalPosition,
+  temporalIds: string[],
   statics: OfCalendarStatics,
-  opts: { scope?: Scope } = {},
+  scope: Scope,
 ): OfCelebration[] {
-  const scope = opts.scope ?? 'universal'
-  const position = getOfLiturgicalPosition(date)
   const temporalByRef = temporalIndex(statics.temporal)
   const celebrations: OfCelebration[] = []
 
   // Temporal candidates (multi-Mass days expand to several formulary refs).
-  for (const ref of ofTemporeIds(date)) {
+  for (const ref of temporalIds) {
     const entry = temporalByRef.get(ref)
     celebrations.push({
       ref,
@@ -113,6 +109,20 @@ export function ofDateCelebrations(
 }
 
 /**
+ * Every celebration `date` carries, ordered by precedence (principal first),
+ * before suppression: a memorial falling on a Sunday is still listed. The
+ * date's saints are these, whether or not the day's Mass celebrates them.
+ */
+export function ofDateCelebrations(
+  date: Date,
+  statics: OfCalendarStatics,
+  opts: { scope?: Scope } = {},
+): OfCelebration[] {
+  const scope = opts.scope ?? 'universal'
+  return celebrationsOn(date, getOfLiturgicalPosition(date), ofTemporeIds(date), statics, scope)
+}
+
+/**
  * Resolve the full OF day. Pure over the calendar statics + the (validated)
  * temporal math from `@ember/liturgical`. Returns every celebration the day
  * offers, ordered with the principal first — the renderer's celebration picker
@@ -129,8 +139,9 @@ export function resolveOfDay(
   const litYear = getLiturgicalYear(date)
   const season = seasonMap[position.season]
 
-  const temporalRef = ofTemporeIds(date)[0]
-  const celebrations = ofDateCelebrations(date, statics, { scope })
+  const temporalIds = ofTemporeIds(date)
+  const temporalRef = temporalIds[0]
+  const celebrations = celebrationsOn(date, position, temporalIds, statics, scope)
   const principal = celebrations[0]
 
   // Suppression + commemoration. When the principal is a Sunday/feast/solemnity
