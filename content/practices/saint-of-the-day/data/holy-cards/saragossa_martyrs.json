@@ -1,0 +1,49 @@
+{
+  "id": "saragossa_martyrs",
+  "feast": {
+    "month": 4,
+    "day": 16
+  },
+  "name": {
+    "en-US": "The Eighteen Martyrs of Saragossa and St. Engratia",
+    "pt-BR": "Os Dezoito Mártires de Saragoça e Santa Engrácia"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyrs",
+    "pt-BR": "Virgem e mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "If we persevere in these, Paradise is ours.",
+    "pt-BR": "Se nelas perseverarmos, o Paraíso é nosso."
+  },
+  "lifeChapter": "apr-16-eighteen",
+  "meta": {
+    "face": "Two clearly different people of Roman Hispania with warm, light-olive skin. ENGRATIA (left): a young woman of about twenty with a LONG, OVAL face and a FIRM, SQUARE-TIPPED chin — a smooth, high forehead, a STRONG, STRAIGHT, rather long Iberian nose with a HIGH bridge, large, dark-brown eyes under LOW, nearly STRAIGHT dark brows, smooth, flat cheeks, a full, grave mouth; dark-chestnut hair braided and pinned up under the veil; the gaze level and fearless, toward us. OPTATUS (right): a man of about fifty-five with a ROUND, DOMED, BALD head and a SHORT, BROAD face — a BROAD, FLAT nose, small, DEEP-SET, kindly dark eyes under thick grey brows, full cheeks, a wide mouth, SLIGHTLY PROMINENT ears; a fringe of cropped grey hair and a SHORT, CURLY grey beard; the gaze turned toward Engratia.",
+    "basis": "No likenesses survive. The book tells Optatus and seventeen companions martyred at Saragossa under Dacian in 304, and Engratia of Portugal who fled a marriage to Saragossa, reproached Dacian and died of her torments; its engraving shows her, veiled, slipping out of her father's house. Wikipedia names her companions and gives Bartolomé Bermejo's panel of her as a crowned young noblewoman with a palm (the Spanish article's lead image). The two faces, a long, square-chinned young woman and a round, bald older man, are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-16-eighteen.md Reflection, last sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Engratia (the companions; the Santas Masas)",
+        "url": "https://en.wikipedia.org/wiki/Engratia"
+      },
+      {
+        "title": "Wikipedia (es), Engracia de Zaragoza (lead image: Bartolomé Bermejo, Santa Engracia)",
+        "url": "https://es.wikipedia.org/wiki/Engracia_de_Zaragoza"
+      },
+      {
+        "title": "Wikipedia (es), Mártires de Zaragoza (Optatus and the names of the eighteen)",
+        "url": "https://es.wikipedia.org/wiki/M%C3%A1rtires_de_Zaragoza"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-16-eighteen (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-16-eighteen.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

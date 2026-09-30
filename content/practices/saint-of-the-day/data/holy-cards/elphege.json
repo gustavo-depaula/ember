@@ -1,0 +1,45 @@
+{
+  "id": "elphege",
+  "feast": {
+    "month": 4,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Elphege",
+    "pt-BR": "Santo Elfego"
+  },
+  "patronOf": {
+    "en-US": "Archbishop and martyr",
+    "pt-BR": "Arcebispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Better give up to the poor what is ours, than take from them the little which is their own.",
+    "pt-BR": "Melhor dar aos pobres o que é nosso, do que tomar deles o pouco que é seu."
+  },
+  "lifeChapter": "apr-19-elphege",
+  "meta": {
+    "face": "An Anglo-Saxon of about fifty-eight, CLEAN-SHAVEN, with a fair, pale complexion and a SHORT, WIDE face under a PROMINENT, ROUNDED, forward-bulging brow — WIDE-SET, heavy-lidded pale-blue eyes sheltered beneath it, light, sparse brows, a SHORT, straight nose, broad, smooth cheeks, a small, gentle mouth and a SMALL, TUCKED-IN chin; fine, fair-grey hair in a monk's crown round the tonsure, showing below the mitre; the gaze gentle and forgiving, toward us.",
+    "basis": "No likeness survives. Wikipedia tells his monastic life at Deerhurst and Bath, his seven months' captivity after the sack of Canterbury, his refusal to be ransomed and his death at Greenwich in 1012, and notes that he is shown holding stones in his chasuble. The book gives his words refusing to tax his tenants, which are the card's excerpt; its engraving shows him praying among Danish archers on a city wall. The short, wide face under the rounded, bulging brow is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-19-elphege.md, third paragraph, the saint's own words refusing the ransom (the day's Reflection says the same of him in the book's words) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Ælfheah of Canterbury (iconography: stones in his chasuble)",
+        "url": "https://en.wikipedia.org/wiki/%C3%86lfheah_of_Canterbury"
+      },
+      {
+        "title": "Wikipedia, St Alfege Church, Greenwich",
+        "url": "https://en.wikipedia.org/wiki/St_Alfege_Church,_Greenwich"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-19-elphege (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-19-elphege.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

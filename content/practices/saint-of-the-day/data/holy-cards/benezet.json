@@ -1,0 +1,49 @@
+{
+  "id": "benezet",
+  "feast": {
+    "month": 4,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Benezet",
+    "pt-BR": "São Benezet"
+  },
+  "patronOf": {
+    "en-US": "Shepherd and bridge-builder",
+    "pt-BR": "Pastor e construtor de pontes"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us pray for perseverance in good works.",
+    "pt-BR": "Oremos pela perseverança nas boas obras."
+  },
+  "lifeChapter": "apr-14-benezet-or-little-bennet",
+  "meta": {
+    "face": "A Provençal shepherd boy of about fifteen, visibly a boy, beardless, sun-browned and lightly FRECKLED across the nose, with a NARROW, LONG, BONY young face tapering to a small, POINTED chin — a high, narrow forehead, a thin, straight nose, very LARGE, clear hazel eyes, thin straight brows bleached pale by the sun, slightly hollow cheeks, a wide, thin mouth in a faint smile, rather LARGE ears standing out from the head; short, straight, sun-bleached straw-coloured hair cut round in a fringe; the gaze open and earnest, toward us.",
+    "basis": "No likeness survives. The book calls him a mere child keeping his mother's sheep when he was inspired to build the bridge; its engraving shows a shepherd boy with his flock before Avignon. The statue on Wikipedia's article shows him young, carrying a great stone on his shoulder, the legend of the first stone. The narrow, freckled face with the pointed chin is our choice, apart from `pancras`'s round boy's face.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-14-benezet-or-little-bennet.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Bénézet (lead image: statue at Notre-Dame des Doms, Avignon)",
+        "url": "https://en.wikipedia.org/wiki/B%C3%A9n%C3%A9zet"
+      },
+      {
+        "title": "Wikipedia (fr), Bénézet d'Avignon",
+        "url": "https://fr.wikipedia.org/wiki/B%C3%A9n%C3%A9zet_d%27Avignon"
+      },
+      {
+        "title": "Wikipedia, Pont Saint-Bénézet",
+        "url": "https://en.wikipedia.org/wiki/Pont_Saint-B%C3%A9n%C3%A9zet"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-14-benezet-or-little-bennet (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-14-benezet-or-little-bennet.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

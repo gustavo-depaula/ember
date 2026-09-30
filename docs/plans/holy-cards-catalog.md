@@ -355,16 +355,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 9 Apr · St. Mary of Egypt · *Santa Maria Egipcíaca* · Pictorial Lives — `mary_egypt`
 - [x] 9 Apr · St. John the Almoner · *São João, o Esmoler* · Pictorial Lives — `john_almoner`
 - [x] 10 Apr · St. Bademus, Martyr · *São Bademo, Mártir* · Pictorial Lives — `bademus`
-- [ ] 12 Apr · St. Julius, Pope · *São Júlio, Papa* · Pictorial Lives
-- [ ] 13 Apr · St. Hermenegild, Martyr · *São Hermenegildo, Mártir* · Pictorial Lives
-- [ ] 14 Apr · St. Benezet, or Little Bennet · *São Benezet, ou o Pequeno Bennet* · Pictorial Lives
-- [ ] 15 Apr · St. Paternus, Bishop · *São Paterno, Bispo* · Pictorial Lives
-- [ ] 16 Apr · Eighteen Martyrs of Saragossa, and St. Encratis, or Engratia, Virgin, Martyr · *Dezoito Mártires de Saragoça, e Santa Êncratis, ou Engrácia, Virgem, Mártir* · Pictorial Lives
-- [ ] 17 Apr · St. Anicetus, Pope, Martyr · *Santo Aniceto, Papa, Mártir* · Pictorial Lives
-- [ ] 18 Apr · St. Apollonius, Martyr · *Santo Apolônio, Mártir* · Pictorial Lives
-- [ ] 19 Apr · St. Elphege, Archbishop · *Santo Elfego, Arcebispo* · Pictorial Lives
-- [ ] 20 Apr · St. Marcellinus, Bishop · *São Marcelino, Bispo* · Pictorial Lives
-- [ ] 22 Apr · St. Soter, Pope, Martyr · *São Sótero, Papa, Mártir* · Pictorial Lives
+- [x] 12 Apr · St. Julius, Pope · *São Júlio, Papa* · Pictorial Lives — `julius_i`
+- [x] 13 Apr · St. Hermenegild, Martyr · *São Hermenegildo, Mártir* · Pictorial Lives — `hermenegild`
+- [x] 14 Apr · St. Benezet, or Little Bennet · *São Benezet, ou o Pequeno Bennet* · Pictorial Lives — `benezet`
+- [x] 15 Apr · St. Paternus, Bishop · *São Paterno, Bispo* · Pictorial Lives — `paternus_avranches`
+- [x] 16 Apr · Eighteen Martyrs of Saragossa, and St. Encratis, or Engratia, Virgin, Martyr · *Dezoito Mártires de Saragoça, e Santa Êncratis, ou Engrácia, Virgem, Mártir* · Pictorial Lives — `saragossa_martyrs`
+- [x] 17 Apr · St. Anicetus, Pope, Martyr · *Santo Aniceto, Papa, Mártir* · Pictorial Lives — `anicetus`
+- [x] 18 Apr · St. Apollonius, Martyr · *Santo Apolônio, Mártir* · Pictorial Lives — `apollonius`
+- [x] 19 Apr · St. Elphege, Archbishop · *Santo Elfego, Arcebispo* · Pictorial Lives — `elphege`
+- [x] 20 Apr · St. Marcellinus, Bishop · *São Marcelino, Bispo* · Pictorial Lives — `marcellinus_embrun`
+- [x] 22 Apr · St. Soter, Pope, Martyr · *São Sótero, Papa, Mártir* · Pictorial Lives — `soter`
 - [ ] 22 Apr · St. Leonides, Martyr · *São Leônides, Mártir* · Pictorial Lives
 - [ ] 26 Apr · St. Marcellinus, Pope, Martyr (with St. Cletus, who has a card) · *São Marcelino, Papa, Mártir* · Pictorial Lives
 - [ ] 27 Apr · St. Zita, Virgin · *Santa Zita, Virgem* · Pictorial Lives

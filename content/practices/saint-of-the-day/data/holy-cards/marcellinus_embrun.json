@@ -1,0 +1,50 @@
+{
+  "id": "marcellinus_embrun",
+  "feast": {
+    "month": 4,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Marcellinus of Embrun",
+    "pt-BR": "São Marcelino de Embrun"
+  },
+  "patronOf": {
+    "en-US": "Missionary bishop",
+    "pt-BR": "Bispo missionário"
+  },
+  "prayerExcerpt": {
+    "en-US": "Though you may not be called upon to preach, at least endeavor to set a good example, remembering that deeds often speak louder than words.",
+    "pt-BR": "Embora possais não ser chamados a pregar, ao menos esforçai-vos por dar bom exemplo, lembrando-vos de que as obras falam muitas vezes mais alto do que as palavras."
+  },
+  "lifeChapter": "apr-20-marcellinus",
+  "proper": "sanctorale.04-20.africa",
+  "meta": {
+    "face": "A Berber of Africa Proconsularis, about sixty, with a warm, deep olive-bronze complexion and a LONG, FINE-BONED, NARROW face — a high forehead, a NARROW, HIGH-BRIDGED, very STRAIGHT nose, LIGHT HAZEL-GREEN eyes, striking against the dark skin, set rather deep under straight black-and-grey brows, lean cheeks with fine, sharp cheekbones, a firm mouth, a SMALL, NEAT, pointed chin; tightly curled black hair greying at the temples, cut short; a SHORT, close, curly black-and-grey beard; the gaze keen and eager, toward the mountains.",
+    "basis": "No likeness survives; Wikipedia's French article (whose lead image is a seal of Embrun's later archbishops) calls him of Berber origin, a native of Africa Proconsularis, who came to Gaul with Vincent and Domninus and became the first Bishop of Embrun. The book tells the same, his chapel and nights of prayer, and his sending the two to preach; its engraving shows a bishop blessing two departing companions below mountains. The long, fine-boned face with the light eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-20-marcellinus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Marcellinus of Gaul",
+        "url": "https://en.wikipedia.org/wiki/Marcellinus_of_Gaul"
+      },
+      {
+        "title": "Wikipedia (fr), Marcellin d'Embrun (of Berber origin; feast 20 April)",
+        "url": "https://fr.wikipedia.org/wiki/Marcellin_d%27Embrun"
+      },
+      {
+        "title": "Wikipedia, Embrun Cathedral",
+        "url": "https://en.wikipedia.org/wiki/Embrun_Cathedral"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-20-marcellinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-20-marcellinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

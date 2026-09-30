@@ -1,0 +1,45 @@
+{
+  "id": "hermenegild",
+  "feast": {
+    "month": 4,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Hermenegild",
+    "pt-BR": "São Hermenegildo"
+  },
+  "patronOf": {
+    "en-US": "Prince and martyr",
+    "pt-BR": "Príncipe e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Hermenegild teaches us that constancy and sacrifice are the best arguments for the Faith, and the surest way to win souls to God.",
+    "pt-BR": "São Hermenegildo nos ensina que a constância e o sacrifício são os melhores argumentos pela Fé, e o caminho mais seguro para ganhar almas para Deus."
+  },
+  "lifeChapter": "apr-13-hermenegild",
+  "meta": {
+    "face": "A Visigoth of about thirty with a fair, lightly sun-browned complexion and a LONG, FLAT-CHEEKED face that ends in a STRONG, PROJECTING, rounded chin — a broad, smooth forehead, a straight nose with a LOW, FLAT bridge sitting between VERY WIDE-SET, pale green eyes, long, flat cheeks without prominent cheekbones, a BROAD mouth with thin, firm lips; thick, straight reddish-blond hair falling to the shoulders in the Gothic manner, a short, neat reddish-blond beard along the jaw; the gaze calm and far-off, lifted a little above us.",
+    "basis": "No likeness survives. Wikipedia's lead image is Herrera the Younger's 'Triumph of St. Hermenegild', a young prince rising in glory; the book tells his conversion through his wife, his fetters and dungeon at Seville, his refusal of Communion from an Arian bishop on Easter night and the light seen from his cell; its engraving shows his death-stroke in the cell. The long flat-cheeked face with the wide-set eyes and projecting chin, and the long Gothic hair, are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-13-hermenegild.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Hermenegild (lead image: Herrera the Younger, Triumph of St. Hermenegild)",
+        "url": "https://en.wikipedia.org/wiki/Hermenegild"
+      },
+      {
+        "title": "Wikipedia, Seville",
+        "url": "https://en.wikipedia.org/wiki/Seville"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-13-hermenegild (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-13-hermenegild.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}
