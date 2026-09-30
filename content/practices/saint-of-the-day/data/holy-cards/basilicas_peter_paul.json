@@ -1,0 +1,41 @@
+{
+  "id": "basilicas_peter_paul",
+  "feast": {
+    "month": 11,
+    "day": 18
+  },
+  "name": {
+    "en-US": "The Dedication of the Basilicas of Sts. Peter and Paul",
+    "pt-BR": "Dedicação das Basílicas de São Pedro e São Paulo"
+  },
+  "patronOf": {
+    "en-US": "The Apostles' churches in Rome",
+    "pt-BR": "As igrejas dos Apóstolos em Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "O Lord, you have the words of eternal life.",
+    "pt-BR": "Senhor, tu tens palavras de vida eterna."
+  },
+  "proper": "sanctorale.11-18",
+  "meta": {
+    "face": "Peter as on the peter card: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; a steady, fatherly gaze toward the viewer. Paul as on the paul card: about sixty, a noble LONG face — a high domed forehead, bald on top with dark wavy hair greying at the sides, a straight fine nose, calm luminous dark eyes, a long dark pointed beard streaked with grey reaching well below the chin; eyes lifted, thoughtful. The two faces must stay clearly different: Peter broad, square-bearded and grey-white; Paul long, bald-domed and dark-bearded.",
+    "basis": "The feast keeps the dedications of the Vatican basilica and of St. Paul's on the Via Ostiense, both built over the Apostles' tombs; showing each Apostle carrying his church follows the founder-with-model convention and the recognisable forms of the two buildings. Faces and dress continue the `peter` and `paul` cards.",
+    "excerpt": "content/of/formularies/sanctoral/11-18.json communionAntiphon (first clause in both languages, verbatim, full stop for the comma/semicolon)",
+    "sources": [
+      {
+        "title": "Wikipedia, Basilica of Saint Paul Outside the Walls",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_Saint_Paul_Outside_the_Walls"
+      },
+      {
+        "title": "Wikipedia, St. Peter's Basilica",
+        "url": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-15.md."
+      }
+    ]
+  }
+}

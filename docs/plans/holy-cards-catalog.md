@@ -540,22 +540,22 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 25 Mar · The Annunciation of the Lord · *Anunciação do Senhor* · solemnity — `annunciation`
 - [x] 6 Aug · The Transfiguration of the Lord · *Transfiguração do Senhor* · feast — `transfiguration`
 - [x] 14 Sep · The Exaltation of the Holy Cross · *Exaltação da Santa Cruz* · feast — `exaltation_cross`
-- [ ] 1 Nov · All Saints · *Todos os Santos* · solemnity
-- [ ] 2 Nov · The Commemoration of All the Faithful Departed (All Souls' Day) · *Comemoração de Todos os Fiéis Defuntos* · solemnity
-- [ ] 9 Nov · The Dedication of the Lateran Basilica · *Dedicação da Basílica do Latrão* · feast
-- [ ] 18 Nov · The Dedication of the Basilicas of Saints Peter and Paul, Apostles · *Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos* · optional-memorial
+- [x] 1 Nov · All Saints · *Todos os Santos* · solemnity — `all_saints`
+- [x] 2 Nov · The Commemoration of All the Faithful Departed (All Souls' Day) · *Comemoração de Todos os Fiéis Defuntos* · solemnity — `all_souls`
+- [x] 9 Nov · The Dedication of the Lateran Basilica · *Dedicação da Basílica do Latrão* · feast — `lateran_basilica`
+- [x] 18 Nov · The Dedication of the Basilicas of Saints Peter and Paul, Apostles · *Dedicação das basílicas dos Santos Pedro e Paulo, apóstolos* · optional-memorial — `basilicas_peter_paul`
 - [x] 8 Nov · The Feast of the Holy Relics · *A Festa das Santas Relíquias* · Pictorial Lives — `holy_relics`
 
 ### Moveable
 
 - [x] Nativity of the Lord — `nativity_christ`
 - [x] Epiphany — `epiphany`
-- [ ] Mary, Mother of God (1 Jan)
-- [ ] The Holy Family
-- [ ] The Baptism of the Lord
-- [ ] Easter Sunday
-- [ ] The Ascension
-- [ ] Pentecost Sunday
+- [x] Mary, Mother of God (1 Jan) — `mary_mother_of_god`
+- [x] The Holy Family — `holy_family`
+- [x] The Baptism of the Lord — `baptism_lord`
+- [x] Easter Sunday — `easter`
+- [x] The Ascension — `ascension`
+- [x] Pentecost Sunday — `pentecost`
 - [ ] The Most Holy Trinity
 - [ ] Corpus Christi
 - [ ] The Sacred Heart of Jesus
@@ -592,9 +592,9 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 The twenty mysteries, as named in `content/practices/rosary`. A mystery that a feast celebrates shares that feast's card.
 
 **Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [x] The Presentation — shares the Presentation of the Lord — `presentation_lord` · [ ] The Finding in the Temple
-**Luminous** — [ ] The Baptism in the Jordan — shares the Baptism of the Lord · [ ] The Wedding at Cana · [ ] The Proclamation of the Kingdom · [x] The Transfiguration — `transfiguration` · [ ] The Institution of the Eucharist
+**Luminous** — [x] The Baptism in the Jordan — shares the Baptism of the Lord — `baptism_lord` · [ ] The Wedding at Cana · [ ] The Proclamation of the Kingdom · [x] The Transfiguration — `transfiguration` · [ ] The Institution of the Eucharist
 **Sorrowful** — [ ] The Agony in the Garden · [ ] The Scourging at the Pillar · [ ] The Crowning with Thorns · [ ] The Carrying of the Cross · [ ] The Crucifixion
-**Glorious** — [ ] The Resurrection — shares Easter Sunday · [ ] The Ascension — shares the Ascension · [ ] The Descent of the Holy Spirit — shares Pentecost · [x] The Assumption — `assumption` · [ ] The Coronation of Mary — shares the Queenship of Mary
+**Glorious** — [x] The Resurrection — shares Easter Sunday — `easter` · [x] The Ascension — shares the Ascension — `ascension` · [x] The Descent of the Holy Spirit — shares Pentecost — `pentecost` · [x] The Assumption — `assumption` · [ ] The Coronation of Mary — shares the Queenship of Mary
 
 ## Seasons
 

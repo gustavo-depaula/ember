@@ -1,0 +1,42 @@
+{
+  "id": "ascension",
+  "name": {
+    "en-US": "The Ascension of the Lord",
+    "pt-BR": "A Ascensão do Senhor"
+  },
+  "patronOf": {
+    "en-US": "Christ taken up into heaven",
+    "pt-BR": "Cristo elevado ao céu"
+  },
+  "prayerExcerpt": {
+    "en-US": "Men of Galilee, why gaze in wonder at the heavens?",
+    "pt-BR": "Homens da Galileia, por que ficais aqui, parados, olhando para o céu?"
+  },
+  "lifeChapter": "the-ascension",
+  "proper": "tempore.easter.week-6.thursday.b",
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; in glory, a plain gold halo ringed with rays, a serene, loving look down on his disciples. Our Lady as in recurring-figures.md: the same face matured, a woman of about fifty with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head. Peter as on the peter card: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard. John as on the john_evangelist card: a beardless young man of about twenty-two with a smooth OVAL face, large upturned brown eyes, a straight nose, a small full mouth; wavy golden-brown hair to the jaw. The other Apostles behind, small and different: a dark-bearded man of forty with a long face (James), a grey-bearded older man with a broad face (Andrew), a young man with short black hair and a narrow, beardless face (Thomas). The angels: youthful, fair, oval-faced.",
+    "basis": "Acts 1:9-11, the entrance antiphon's 'Men of Galilee', and the traditional Ascension with Our Lady among the Apostles (Giotto, Scrovegni Chapel). Christ keeps the line from `transfiguration`; Peter and John keep the `peter` and `john_evangelist` faces; Our Lady matured.",
+    "excerpt": "content/of/formularies/tempore/easter/week-6/thursday/b.json entranceAntiphon (first sentence, verbatim, both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Ascension of Jesus in Christian art",
+        "url": "https://en.wikipedia.org/wiki/Ascension_of_Jesus_in_Christian_art"
+      },
+      {
+        "title": "Wikipedia, Scrovegni Chapel (Giotto's Ascension)",
+        "url": "https://en.wikipedia.org/wiki/Scrovegni_Chapel"
+      },
+      {
+        "title": "Wikipedia, Chapel of the Ascension, Jerusalem",
+        "url": "https://en.wikipedia.org/wiki/Chapel_of_the_Ascension,_Jerusalem"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-15.md."
+      }
+    ]
+  }
+}

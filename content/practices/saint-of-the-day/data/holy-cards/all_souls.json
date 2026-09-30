@@ -1,0 +1,42 @@
+{
+  "id": "all_souls",
+  "feast": {
+    "month": 11,
+    "day": 2
+  },
+  "name": {
+    "en-US": "All Souls' Day",
+    "pt-BR": "Comemoração de Todos os Fiéis Defuntos"
+  },
+  "patronOf": {
+    "en-US": "Prayer for the faithful departed",
+    "pt-BR": "Oração pelos fiéis defuntos"
+  },
+  "prayerExcerpt": {
+    "en-US": "I am the Resurrection and the Life, says the Lord.",
+    "pt-BR": "Eu sou a ressurreição e a vida, diz o Senhor."
+  },
+  "lifeChapter": "nov-02-all-souls",
+  "proper": "sanctorale.11-02",
+  "meta": {
+    "face": "The angel: youthful and serene, a HEART-SHAPED face with a broad smooth brow tapering to a small pointed chin, wide-set grey-blue eyes, a fine straight nose, fair skin and short golden hair curling at the ears; a gentle, consoling smile. The soul being raised: a man of about seventy with a SQUARE face, a broad nose, deep smile-lines and short grey hair, clean-shaven, his face lit with relief. The widow: about forty, a LONG, narrow face with a high-bridged nose, dark brows and dark eyes lowered in prayer, dark hair under her shawl. The boy: about eight, a ROUND freckled face and tousled brown hair.",
+    "basis": "The card keeps both images the brief allows: the churchyard on the night of 2 November, with candles and flowers as the faithful still do, and above it an angel leading a soul out of purgatory, a common theme of Catholic altar paintings of the souls, painted here as consolation, not torment.",
+    "excerpt": "content/of/formularies/sanctoral/11-02.json communionAntiphon (first sentence, verbatim, both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, All Souls' Day",
+        "url": "https://en.wikipedia.org/wiki/All_Souls%27_Day"
+      },
+      {
+        "title": "Wikipedia, Purgatory",
+        "url": "https://en.wikipedia.org/wiki/Purgatory"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-15.md."
+      }
+    ]
+  }
+}

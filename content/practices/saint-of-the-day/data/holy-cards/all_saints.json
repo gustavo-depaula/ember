@@ -1,0 +1,46 @@
+{
+  "id": "all_saints",
+  "feast": {
+    "month": 11,
+    "day": 1
+  },
+  "name": {
+    "en-US": "All Saints",
+    "pt-BR": "Todos os Santos"
+  },
+  "patronOf": {
+    "en-US": "The saints before the throne of the Lamb",
+    "pt-BR": "Os santos diante do trono do Cordeiro"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blessed are the clean of heart, for they shall see God.",
+    "pt-BR": "Bem-aventurados os puros no coração, porque verão a Deus."
+  },
+  "lifeChapter": "nov-01-all-saints",
+  "proper": "sanctorale.11-01",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; she is nearest the Lamb, looking up. Peter as on the peter card: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; Paul as on the paul card: about sixty, a noble LONG face — a high domed forehead, bald on top with dark wavy hair greying at the sides, a straight fine nose, calm luminous dark eyes, a long dark pointed beard streaked with grey reaching well below the chin; both small, on the tier below Our Lady. The rest of the multitude is small and deliberately varied: a young Roman virgin with a round face and dark braided hair; a tall, lean East African martyr with a long face and close-cropped hair; a round-faced Japanese youth with straight black hair; an old bishop with a square face and white beard; a Brazilian mother with warm brown skin and a broad smile; a freckled boy with straw-coloured hair.",
+    "basis": "The feast's own reading and the formulary description point to Revelation 7:9, the multitude before the throne and the Lamb; the tiered heaven of saints follows Fra Angelico's Fiesole predella and Dürer's Landauer Altarpiece, with the Lamb and the four rivers of the Ghent Altarpiece.",
+    "excerpt": "content/of/formularies/sanctoral/11-01.json communionAntiphon (first beatitude, verbatim, both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Fiesole Altarpiece (Fra Angelico)",
+        "url": "https://en.wikipedia.org/wiki/Fiesole_Altarpiece"
+      },
+      {
+        "title": "Wikipedia, Landauer Altarpiece (Dürer, Adoration of the Trinity)",
+        "url": "https://en.wikipedia.org/wiki/Landauer_Altarpiece"
+      },
+      {
+        "title": "Wikipedia, All Saints' Day",
+        "url": "https://en.wikipedia.org/wiki/All_Saints%27_Day"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-15.md."
+      }
+    ]
+  }
+}

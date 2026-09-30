@@ -197,6 +197,11 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
             item = json.load(fh)
         if item.get("id") != ff.stem:
             raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
+        # Cards of moveable feasts, seasons and Mass parts have no fixed date, and every
+        # released app reads `feast.month` unguarded; they stay out of the blob until an
+        # app that places undated cards is the oldest one in use.
+        if logical == "holy-cards" and "feast" not in item:
+            continue
         kept = {k: item[k] for k in spec["fields"] if k in item}
         if "lifeChapter" in kept:
             reflection = _life_reflection(pid, item["id"], kept["lifeChapter"])

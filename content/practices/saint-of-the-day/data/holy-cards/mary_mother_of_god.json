@@ -1,0 +1,41 @@
+{
+  "id": "mary_mother_of_god",
+  "feast": {
+    "month": 1,
+    "day": 1
+  },
+  "name": {
+    "en-US": "Mary, Mother of God",
+    "pt-BR": "Santa Maria, Mãe de Deus"
+  },
+  "patronOf": {
+    "en-US": "The Mother who pondered all in her heart",
+    "pt-BR": "A Mãe que tudo meditava em seu coração"
+  },
+  "prayerExcerpt": {
+    "en-US": "As for Mary, she treasured all these things and pondered them in her heart.",
+    "pt-BR": "Quanto a Maria, guardava todos estes fatos e meditava sobre eles em seu coração."
+  },
+  "proper": "tempore.christmas.mary-mother-of-god",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; her lids lowered, her cheek against the Child's. The Christ Child as in recurring-figures.md: a plump, ROUND baby face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls, a plain gold halo; eight days old, eyes open and resting on his mother.",
+    "basis": "The solemnity closes the octave of Christmas, and its gospel ends with Mary pondering these things in her heart. The embrace follows the Theotokos of Vladimir, the classic image of the Mother of God, so this card differs from the manger of `nativity_christ` and the enthroned Child of `epiphany`.",
+    "excerpt": "content/of/formularies/tempore/christmas/mary-mother-of-god.json readings gospel (Lk 2:19, verbatim sentence, both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Theotokos of Vladimir",
+        "url": "https://en.wikipedia.org/wiki/Theotokos_of_Vladimir"
+      },
+      {
+        "title": "Wikipedia, Mary, mother of God",
+        "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_God"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-15.md."
+      }
+    ]
+  }
+}

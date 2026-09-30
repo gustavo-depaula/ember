@@ -1,0 +1,38 @@
+{
+  "id": "easter",
+  "name": {
+    "en-US": "Easter Sunday",
+    "pt-BR": "Domingo de Páscoa"
+  },
+  "patronOf": {
+    "en-US": "Christ risen from the dead",
+    "pt-BR": "Cristo ressuscitado dos mortos"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Lord is truly risen, alleluia.",
+    "pt-BR": "Realmente, o Senhor ressuscitou, aleluia."
+  },
+  "lifeChapter": "easter-sunday",
+  "proper": "tempore.easter.week-1.sunday",
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; in glory, a plain gold halo ringed with rays, a serene, victorious look straight out at the viewer. The angel: youthful, an OVAL face with a straight nose, fair skin and loose light-golden hair, looking toward Christ. The soldiers' faces are hidden.",
+    "basis": "The Gospel accounts of the empty tomb (Mt 28:1-6, Jn 20:1) with the Western image of the risen Christ holding the banner of victory, as in Carl Bloch's Resurrection; Christ keeps the line from `transfiguration`.",
+    "excerpt": "content/of/formularies/tempore/easter/week-1/sunday.json entranceAntiphon, Mass during the Day (first sentence, verbatim, both languages)",
+    "sources": [
+      {
+        "title": "Commons, Carl Heinrich Bloch, The Resurrection (1873)",
+        "url": "https://commons.wikimedia.org/wiki/File:Carl_Heinrich_Bloch_-_The_Resurrection.jpg"
+      },
+      {
+        "title": "Wikipedia, Resurrection of Jesus in Christian art",
+        "url": "https://en.wikipedia.org/wiki/Resurrection_of_Jesus_in_Christian_art"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-15.md."
+      }
+    ]
+  }
+}
