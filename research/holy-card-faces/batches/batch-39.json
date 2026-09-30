@@ -1,0 +1,481 @@
+{
+  "batch": 39,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-39.md",
+  "cards": [
+    {
+      "id": "hubert",
+      "letter": "H",
+      "feast": {
+        "month": 11,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Hubert",
+        "pt-BR": "Santo Huberto"
+      },
+      "patronOf": {
+        "en-US": "Patron of hunters",
+        "pt-BR": "Padroeiro dos caçadores"
+      },
+      "prayerExcerpt": {
+        "en-US": "What the Wise Man has said of Wisdom may be applied to Grace: \"That it ordereth the means with gentleness, and attaineth its end with power.\"",
+        "pt-BR": "O que o Sábio disse da Sabedoria pode aplicar-se à Graça: \"Que dispõe os meios com brandura, e alcança seu fim com poder.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-03-hubert.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Hubert, half-length, a Frankish bishop of the early eighth century, bareheaded (no mitre): a white linen alb and over it a wide, plain, moss-green bell-shaped chasuble falling in soft folds; a simple wooden crozier with a curled head in his left hand, his right raised in blessing; an ivory hunting horn on a leather cord hangs at his side, the one sign of the huntsman he had been. Behind him the forest of the Ardennes in autumn: tall oaks and beeches with golden leaves, a small wooden church with a stone cross in a clearing, and between the trees, a little way off, an ordinary red deer stag standing calmly and looking toward him. Kindly, vigorous and at peace; no crucifix between the stag's antlers, no hounds, no weapons, no lettering.",
+      "face": "A Frank of about sixty-five, broad-shouldered, with a ruddy, weathered outdoor complexion and a face WIDEST at HIGH, ROUNDED, JUTTING cheekbones, tapering below them to a FIRM, fairly narrow chin (a wide inverted egg) — a broad, smooth forehead, a SHORT, straight nose with FLARED nostrils, DEEP-SET, far-seeing pale-blue eyes with deep crow's-feet from years in the open, THICK, TUFTED sandy-grey brows, a wide, good-humoured mouth; thick, WAVY sandy hair going grey, left fairly full; a FULL, ROUNDED, sandy-grey beard of medium length that follows the tapering chin; the gaze warm and direct. Not his master lambert (long, parallel-sided, square-jawed, short dense iron-grey beard), the hawkish, forward-chinned hunter eustachius, the oblong, domed, round-chinned huntsman germanus_auxerre, the broad, snub-nosed boniface or the long, symmetrical remigius.",
+      "refs": [
+        "patrick",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "No likeness survives, and the book says his early life is known only from popular traditions. The card makes him the bishop of the book's Ardennes mission with the horn of the patron of hunters; the stag, his Santi e Beati emblem, stands in the forest as an ordinary deer, since the vision of the crucifix between its antlers is a legend shared with other saints (Santi e Beati's notice: 'Leggenda, e nemmeno esclusiva') and with St. Eustace (Wikipedia) and is already on `eustachius`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hubertus (lead: stained glass, Ottawa)",
+          "url": "https://en.wikipedia.org/wiki/Hubertus"
+        },
+        {
+          "title": "Wikipedia (fr), Hubert de Liège (lead: chromolithograph)",
+          "url": "https://fr.wikipedia.org/wiki/Hubert_de_Li%C3%A8ge"
+        },
+        {
+          "title": "Santi e Beati, Sant'Uberto di Tongeren-Maastricht (Roman Martyrology entry, 30 May)",
+          "url": "https://www.santiebeati.it/dettaglio/76100"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-03-hubert (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-03-hubert.md"
+        }
+      ],
+      "catalogMatch": "St. Hubert, Bishop",
+      "lifeChapter": "nov-03-hubert"
+    },
+    {
+      "id": "bertille",
+      "letter": "B",
+      "feast": {
+        "month": 11,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Bertille",
+        "pt-BR": "Santa Bertila"
+      },
+      "patronOf": {
+        "en-US": "Abbess of Chelles",
+        "pt-BR": "Abadessa de Chelles"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is written that the Saints raise themselves heavenward, going from virtue to virtue, as by steps.",
+        "pt-BR": "Está escrito que os Santos se elevam rumo ao céu, indo de virtude em virtude, como por degraus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-05-bertille.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Bertille, half-length, a Frankish abbess of the seventh century: a black Benedictine habit and scapular, a close white wimple and a long black veil; a plain wooden abbess's staff with a simple curved head in her left hand, and in her right a small book of the Rule held against her breast. Behind her the abbey of Chelles by the Marne: a simple stone church with a low tower and a cloister wall, a few nuns small at the gate, poplars along the river and green fields under a soft, pale sky. Grave, humble and steadfast; no lettering.",
+      "face": "A Frankish noblewoman of about fifty-five, spare from long austerities, with a fair, pale complexion and a LONG face with a LONG, gently DOWN-CURVING, AQUILINE nose — a smooth forehead under the wimple band, DEEP-SET, clear grey-blue eyes under HEAVY, softly arched lids and straight, light-brown brows, clearly marked cheekbones over LEAN, slightly sunken cheeks, a SMALL, FIRM, closed mouth, a NARROW, ROUNDED chin; all hair hidden under the wimple; the gaze lowered and quiet. Not her queen bathildes (round, full, short-nosed), the broad, square-jawed bertha_blangy, the long, slender-nosed young rosalia, the long, square-chinned, low-browed elena_guerra, the drooping-eyed maria_santocanale or the heart-shaped angela_merici.",
+      "refs": [
+        "clare_assisi",
+        "bridget_sweden",
+        "teresa"
+      ],
+      "basis": "No likeness survives. The ascetic face follows the book's life of penance and Butler's 'she martyred herself with austerities' (quoted by Wikipedia); the habit, the staff and Chelles on the Marne are from the book and the Martyrology.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bertilla of Chelles (lead: woodcut)",
+          "url": "https://en.wikipedia.org/wiki/Bertilla_of_Chelles"
+        },
+        {
+          "title": "Santi e Beati, Santa Bertilla (Roman Martyrology entry, 5 November)",
+          "url": "https://www.santiebeati.it/dettaglio/76230"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-05-bertille (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-05-bertille.md"
+        }
+      ],
+      "catalogMatch": "St. Bertille, Abbess",
+      "lifeChapter": "nov-05-bertille"
+    },
+    {
+      "id": "leonard_noblac",
+      "letter": "L",
+      "feast": {
+        "month": 11,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Leonard",
+        "pt-BR": "São Leonardo"
+      },
+      "patronOf": {
+        "en-US": "Patron of prisoners",
+        "pt-BR": "Padroeiro dos prisioneiros"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"The wicked shall be taken with his own iniquities, and shall be held by the cords of his own sin.\"",
+        "pt-BR": "\"O ímpio será apanhado por suas próprias iniquidades, e será preso pelas cordas de seu próprio pecado.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-06-leonard.md Reflection, the whole of it (Proverbs 5:22) (Pictorial Lives, public domain)",
+      "subject": "St. Leonard, half-length, a Frankish hermit of the sixth century: a plain, dark-brown monk's cowl of rough wool with the hood fallen back; in his right hand he holds up a pair of OPENED iron fetters with a short broken chain, the sign of the prisoners he comforted and set free, and his left hand rests on his breast. Behind him the forest of Noblac near Limoges: chestnut and oak woods, a small stone oratory with a wooden cross beside a clear river, a rocky hillside, soft morning light. Gentle, compassionate and recollected; no prison, no captives, no lettering.",
+      "face": "A Frank of about fifty with a fair, lightly weathered complexion and a face that is WIDE and FLAT across the EYES — a broad, low forehead, a BROAD, straight nose with a LOW bridge, WIDE-SET, soft brown eyes that SLOPE gently DOWN at their outer corners under thick, low, dark-brown brows, broad, flat cheeks, a WIDE mouth with FULL, gentle lips, a broad, ROUNDED chin; thick dark-brown hair around a monastic tonsure; a SHORT, CURLY dark-brown beard, just touched with grey; the gaze kind and patient. Not the long-headed, close-eyed ludger, the heart-shaped, Irish-tonsured fiaker, the broad, square-jawed lambert, the hooded, triangular anthony_abbot or the wide, short, flat-faced Crispin of crispin_crispinian (clean-shaven).",
+      "refs": [
+        "benedict",
+        "anthony_abbot",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives; the eleventh-century Vita is late and the book's life follows it. The card keeps the hermit of the book's engraving and the fetters of his patronage (Wikipedia, and the lead statue on English Wikipedia, which shows him bearded with a chain).",
+      "sources": [
+        {
+          "title": "Wikipedia, Leonard of Noblac (lead: statue)",
+          "url": "https://en.wikipedia.org/wiki/Leonard_of_Noblac"
+        },
+        {
+          "title": "Wikipedia (fr), Léonard de Noblac (lead: statue at Westerheim)",
+          "url": "https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Noblac"
+        },
+        {
+          "title": "Santi e Beati, San Leonardo di Limoges (Roman Martyrology entry, 6 November)",
+          "url": "https://www.santiebeati.it/dettaglio/76300"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-06-leonard (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-06-leonard.md"
+        }
+      ],
+      "catalogMatch": "St. Leonard ·",
+      "lifeChapter": "nov-06-leonard"
+    },
+    {
+      "id": "willibrord",
+      "letter": "W",
+      "feast": {
+        "month": 11,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Willibrord",
+        "pt-BR": "São Vilibrordo"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Frisians",
+        "pt-BR": "Apóstolo dos frísios"
+      },
+      "prayerExcerpt": {
+        "en-US": "True zeal has its root in the love of God.",
+        "pt-BR": "O verdadeiro zelo tem sua raiz no amor de Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-07-willibrord.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Willibrord, half-length, an Anglo-Saxon archbishop of about the year 700, bareheaded (no mitre): a white alb, a wide, plain, cream-white bell-shaped chasuble, and the white woollen pallium with small dark crosses that the Pope gave him; a plain wooden crozier in his left hand, a Gospel book held against his breast with his right. Behind him the low, green land of Frisia: a new stone church with a small wooden bell-cote on a mound above the flat meadows, a canal with a moored boat, dunes and a strip of grey North Sea under a wide, bright, cloud-flecked sky, a few Frisian folk in plain wool small on the path. Stately, frank and joyful; no lettering.",
+      "face": "A Northumbrian of about sixty, stately and 'comely in person', with a fair, fresh, open complexion and a well-proportioned, SQUARE-OVAL face — a broad, smooth forehead, a straight nose of medium length with a slightly BROAD tip, LARGE, bright, LAUGHING blue eyes creased at the corners under fair, gently arched brows, FIRM, full cheeks with DIMPLES in a broad, frank smile that shows a little of the teeth, a STRONG, broad, CLEFT chin; CLEAN-SHAVEN; fair hair gone silver in a neat ring around the tonsure; the look joyous and direct. Not the beak-nosed, long-chinned wilfrid (his master), the long, handsome, unsmiling oswald_worcester, the milk-white, full-oval edward_confessor, the broad, snub-nosed richard_chichester, the smooth, neat-nosed malachi_armagh or the long-headed, prim ludger.",
+      "refs": [
+        "patrick",
+        "ambrose",
+        "gregory_great"
+      ],
+      "basis": "The book, after Alcuin's Life, calls him 'stately and comely in person, frank and joyous, wise in counsel, pleasant in speech': hence a handsome, broadly smiling face. The pallium is from Wikipedia (Pope Sergius I, 695); the Frisian landscape follows Georg Sturm's painting on English Wikipedia and the book.",
+      "sources": [
+        {
+          "title": "Wikipedia, Willibrord (lead: Georg Sturm, Willibrord preaching to the Frisians)",
+          "url": "https://en.wikipedia.org/wiki/Willibrord"
+        },
+        {
+          "title": "Santi e Beati, San Villibrordo (Roman Martyrology entry, 7 November)",
+          "url": "https://www.santiebeati.it/dettaglio/76600"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-07-willibrord (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-07-willibrord.md"
+        }
+      ],
+      "catalogMatch": "St. Willibrord",
+      "lifeChapter": "nov-07-willibrord"
+    },
+    {
+      "id": "theodore_tyro",
+      "letter": "T",
+      "feast": {
+        "month": 11,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Theodore Tyro",
+        "pt-BR": "São Teodoro Tiro"
+      },
+      "patronOf": {
+        "en-US": "Soldier and martyr",
+        "pt-BR": "Soldado e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "We are enlisted in the same service as the holy martyrs, and we too must have courage and constancy if we would be perfect soldiers of Jesus Christ.",
+        "pt-BR": "Estamos alistados no mesmo serviço que os santos mártires, e também nós devemos ter coragem e constância se quisermos ser perfeitos soldados de Jesus Cristo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-09-theodore-tyro.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Theodore Tyro, half-length, a young recruit of a Roman legion in the year 306: a red woollen tunic under a shirt of iron ring-mail, a dark-red cloak pinned at the right shoulder, bareheaded; he holds a martyr's palm upright in his right hand, his left resting on the rim of a plain oval shield, and makes no gesture of war. Behind him Amasea in Pontus in winter: the steep river gorge with the royal tombs cut into the cliff face, the small town on the riverbank below, snow on the far hills under a clear, cold sky. Young, steadfast and serene; no fire, no burning temple, no dragon, no lettering, no letters or monogram on the shield.",
+      "face": "A Greek of the East of about twenty-two, a recruit, with a warm olive complexion and a NARROW, LONG face with a CLASSICAL GREEK PROFILE — the nose continuing the line of the forehead WITHOUT a dip, long and straight, LARGE, dark, ALMOND eyes under HEAVY upper lids and long, level black brows, lean cheeks, a SMALL, full, firmly closed mouth, a NARROW chin; thick, straight, glossy BLACK hair falling in a full bowl OVER the ears; a SHORT, dense, BLACK young beard, as the Painter's Manual has him; the gaze steady and calm. Not the curly young george and sebastian, the hawkish eustachius, the joined-browed romanus_ostiarius, the round, grizzled marcellus_centurion, the smooth, beardless pantaleon or the bell-shaped theodoret_antioch.",
+      "refs": [
+        "george",
+        "sebastian",
+        "moses_the_black"
+      ],
+      "basis": "The Painter's Manual of Dionysius of Fourna (`consult/hermeneia-ocr.txt`, 17 February) gives Theodore Teron 'a black beard, and his hair coming down over his ears'; the young face follows his name (the Recruit) and the book ('while still a youth'). Amasea is the Martyrology's place.",
+      "sources": [
+        {
+          "title": "Wikipedia, Theodore of Amasea (lead: icon by Angelos Akotantos)",
+          "url": "https://en.wikipedia.org/wiki/Theodore_of_Amasea"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington tr.), Theodore Teron",
+          "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+        },
+        {
+          "title": "Santi e Beati, San Teodoro di Amasea (Roman Martyrology entry)",
+          "url": "https://www.santiebeati.it/dettaglio/76900"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-09-theodore-tyro (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-09-theodore-tyro.md"
+        }
+      ],
+      "catalogMatch": "St. Theodore Tyro",
+      "lifeChapter": "nov-09-theodore-tyro"
+    },
+    {
+      "id": "andrew_avellino",
+      "letter": "A",
+      "feast": {
+        "month": 11,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Andrew Avellino",
+        "pt-BR": "Santo André Avelino"
+      },
+      "patronOf": {
+        "en-US": "Patron against sudden death",
+        "pt-BR": "Padroeiro contra a morte súbita"
+      },
+      "prayerExcerpt": {
+        "en-US": "Ask him to be with you in your last hour, and to bring Jesus and Mary to your aid.",
+        "pt-BR": "Pedi-lhe que esteja convosco em vossa última hora, e que traga Jesus e Maria em vosso auxílio."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-10-st-andrew-avellino.md Reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. Andrew Avellino, half-length, a very old Theatine priest in 1608, vested for Mass: a white alb with a lace border, a gold-and-cream Roman chasuble, a plain maniple; he stands at the foot of the altar with his hands joined before his breast and his head a little bowed, beginning the Mass. Behind him a Neapolitan church interior: the altar with a white cloth, six tall candles and a crucifix, a gilded frame on the wall beyond, the light from a high window falling on him. Serene, humble and prayerful; no collapse, no demon, no deathbed, no lettering.",
+      "face": "A southern Italian of about eighty-eight with a pale, parchment-soft olive complexion and a BROAD, BIG-BONED, SQUARE face — a massive, smooth, BALD DOME with a few wisps of white hair above the ears, a STRONG, straight brow, a SHORT, broad nose with a FLATTENED, rounded tip, SMALL, deep-set, kindly dark eyes under BUSHY, white brows, wide cheekbones with softened hollows below, a wide, firm mouth; a SHORT, FULL, ROUNDED white beard and moustache, neatly kept; the gaze lowered to the altar, patient and gentle. Not his order's founder cajetan (round, soft, dark-bearded), the bald, rectangular, ruddy john_leonardi, the gaunt, hook-nosed laurence_justinian, the soft, long francis_caracciolo, the bony, bald peter_alcantara or the clean-shaven, bald andre_soveral.",
+      "refs": [
+        "philip_neri",
+        "alphonsus_liguori",
+        "vincent_de_paul"
+      ],
+      "basis": "No portrait from life was found. Later images (the nineteenth-century painting on Italian Wikipedia; the statue on the façade of Sant'Antonio Abate, Milan) show an old, bald priest with a short white beard, which the card keeps; he is shown at the foot of the altar, where the book and the Martyrology say he died, but before his stroke.",
+      "sources": [
+        {
+          "title": "Wikipedia, Andrew Avellino (lead: statue, Sant'Antonio Abate, Milan)",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Avellino"
+        },
+        {
+          "title": "Wikipedia (it), Andrea Avellino (lead: painting, 19th century)",
+          "url": "https://it.wikipedia.org/wiki/Andrea_Avellino"
+        },
+        {
+          "title": "Santi e Beati, Sant'Andrea Avellino (Roman Martyrology entry, 10 November)",
+          "url": "https://www.santiebeati.it/dettaglio/35250"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-10-st-andrew-avellino (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-10-st-andrew-avellino.md"
+        }
+      ],
+      "catalogMatch": "St. Andrew Avellino",
+      "lifeChapter": "nov-10-st-andrew-avellino"
+    },
+    {
+      "id": "stanislas_kostka",
+      "letter": "S",
+      "feast": {
+        "month": 11,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Stanislas Kostka",
+        "pt-BR": "São Estanislau Kostka"
+      },
+      "patronOf": {
+        "en-US": "Jesuit novice",
+        "pt-BR": "Noviço jesuíta"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Stanislas teaches us in every trial of life, and above all in the hour of death, to have recourse to our patron Saint, and to trust without fear to his aid.",
+        "pt-BR": "São Estanislau ensina-nos, em toda provação da vida, e acima de tudo na hora da morte, a recorrer ao nosso Santo padroeiro, e a confiar sem temor em seu auxílio."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-13-stanislas-kostka.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Stanislas Kostka, half-length, a Polish Jesuit novice of seventeen in Rome in 1568: a plain black Jesuit cassock buttoned to the throat with a narrow white collar; he holds a small sprig of white lilies against his breast with his crossed hands, a black rosary hanging from his fingers. Behind him the novitiate garden on the Quirinal hill in the August evening: a low wall, cypresses and orange trees, and below, the tiled roofs, towers and domes of Rome in golden light. Young, bright, sweet-tempered and fervent; no angels, no lettering.",
+      "face": "A Polish youth of seventeen, BEARDLESS, with a fair, fresh complexion and a face BROAD across the EYES and cheekbones, narrowing gently to a small, ROUNDED chin — a smooth, rounded forehead, a LONG, STRAIGHT nose, BROAD at its base, LARGE, dark-brown eyes set WIDE under HEAVY, half-lowered upper lids, dark brows ARCHED HIGH above them, smooth, softly full cheeks, a SMALL, FULL, slightly POUTING mouth with a SHORT upper lip; dark-brown hair cut short and straight across the brow; the look bright and gentle, lifted a little. Not the round, short-nosed boy pancras, the upturned-nosed herman_joseph, the tousle-curled carlo_acutis, the flat-cheeked, low-bridged venantius_camerino, the long, narrow casimir, the triangular peter_luxemburg or the straw-fair, narrow-faced student of john_kanty.",
+      "refs": [
+        "aloysius_gonzaga",
+        "francis_xavier",
+        "ignatius_loyola"
+      ],
+      "basis": "The portrait on English Wikipedia (captioned only 'Scipione Delfine portrait'; its date was not established) shows a broad young face with large, heavy-lidded dark eyes, a long straight nose and a small full mouth, which the card follows; the cassock, the novitiate in Rome and his joy are from the book and the Martyrology.",
+      "sources": [
+        {
+          "title": "Wikipedia, Stanislaus Kostka (portrait; Le Gros's statue)",
+          "url": "https://en.wikipedia.org/wiki/Stanislaus_Kostka"
+        },
+        {
+          "title": "Wikimedia Commons, StanislausKostka.jpg (portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:StanislausKostka.jpg"
+        },
+        {
+          "title": "Santi e Beati, San Stanislao Kostka (Roman Martyrology entry, 15 August)",
+          "url": "https://www.santiebeati.it/dettaglio/66200"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-13-stanislas-kostka (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-13-stanislas-kostka.md"
+        }
+      ],
+      "catalogMatch": "St. Stanislas Kostka",
+      "lifeChapter": "nov-13-stanislas-kostka"
+    },
+    {
+      "id": "didacus",
+      "letter": "D",
+      "feast": {
+        "month": 11,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Didacus",
+        "pt-BR": "São Dídaco"
+      },
+      "patronOf": {
+        "en-US": "Franciscan lay brother",
+        "pt-BR": "Irmão leigo franciscano"
+      },
+      "prayerExcerpt": {
+        "en-US": "If God be in your heart, He will be also on your lips; for Christ has said, \"From the abundance of the heart the mouth speaketh.\"",
+        "pt-BR": "Se Deus estiver em teu coração, estará também em teus lábios; pois Cristo disse: \"Da abundância do coração fala a boca.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-14-didacus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Didacus, half-length, a Spanish Franciscan lay brother of the fifteenth century: a patched grey-brown Franciscan habit with a deep hood lying on the shoulders and a knotted white cord; he holds a plain wooden cross upright against his breast with both hands, embracing it. Behind him the friary of Alcalá de Henares on the Castilian plain: a simple brick-and-stone church with a small bell gable, a friary garden, a few poor folk waiting small at the door, dry golden fields and a pale, high sky. Humble, meek and joyful; no roses, no lettering.",
+      "face": "An Andalusian of about sixty with a sun-browned olive complexion and a LONG, NARROW, SMOOTH OVAL face after Zurbarán — a high, narrow forehead, a very LONG, THIN, straight nose with a slight DROOP at its tip, SMALL, soft, dark ALMOND eyes under THIN, HIGH-arching black brows, gently hollow cheeks, a SMALL, pursed, closed mouth, a LONG, NARROW chin; CLEAN-SHAVEN; black hair greying at the sides in the Franciscan crown; the gaze turned a little aside, mild and humble. Not the angular, moustached paschal_baylon, the bony, bald peter_alcantara, the round frei_galvao, the broad benedito or the heart-shaped nicholas_tolentino.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "bonaventure"
+      ],
+      "basis": "No portrait from life survives. Zurbarán's St. Didacus (English Wikipedia's lead) paints a lean friar with a long, narrow, clean-shaven face and a long nose, which the card follows; the cross is from the book, which has him die embracing it with the Dulce lignum on his lips. Zurbarán's roses, from a later legend, are left off.",
+      "sources": [
+        {
+          "title": "Wikipedia, Didacus of Alcalá (lead: Zurbarán)",
+          "url": "https://en.wikipedia.org/wiki/Didacus_of_Alcal%C3%A1"
+        },
+        {
+          "title": "Wikipedia (es), Diego de Alcalá",
+          "url": "https://es.wikipedia.org/wiki/Diego_de_Alcal%C3%A1"
+        },
+        {
+          "title": "Santi e Beati, San Diego di Alcalá (Roman Martyrology entry, 12 November)",
+          "url": "https://www.santiebeati.it/dettaglio/35300"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-14-didacus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-14-didacus.md"
+        }
+      ],
+      "catalogMatch": "St. Didacus",
+      "lifeChapter": "nov-14-didacus"
+    },
+    {
+      "id": "laurence_otoole",
+      "letter": "L",
+      "feast": {
+        "month": 11,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Laurence O'Toole",
+        "pt-BR": "São Lourenço O'Toole"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of Dublin",
+        "pt-BR": "Arcebispo de Dublin"
+      },
+      "prayerExcerpt": {
+        "en-US": "The holy youth, by his fidelity in corresponding with the divine grace, grew to be a model of virtues.",
+        "pt-BR": "O santo jovem, por sua fidelidade em corresponder à graça divina, tornou-se um modelo de virtudes."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-14-laurence-otoole.md, first paragraph, third sentence; the chapter has no Reflection, so the card has none (the index's 11-14 reflection is St. Didacus's) (Pictorial Lives, public domain)",
+      "subject": "St. Laurence O'Toole, half-length, an Irish archbishop of about 1175: a white alb, a deep-red chasuble of the twelfth century falling in wide, soft folds, a low white mitre; a simple crozier with a curled head in his left hand, his right raised in blessing. Behind him the valley of Glendalough in the Wicklow hills, where he was abbot: a slender stone round tower with a conical cap and small stone churches among the trees beside a still, dark lake, wooded slopes rising steeply on either side under a soft, clouded Irish sky. Grave, prudent and charitable; no wound, no attacker, no lettering.",
+      "face": "An Irish prince of Leinster of about fifty, TALL and lean, with a fair, lightly weathered complexion and a LONG face with a STRONG, ANGULAR jaw whose corners show clearly — a high, straight forehead, a LONG, HIGH-BRIDGED, gently ARCHED nose, DEEP-SET, steady grey eyes under STRAIGHT, dark brows drawn a little together, flat, lean cheeks, a WIDE, firm, thin-lipped mouth; dark-brown hair greying, cut short below the mitre; a SHORT, CLOSE-TRIMMED dark-brown BEARD streaked with grey, following the angular jaw; the look grave and resolute. Not the clean-shaven, smooth, neat-nosed malachi_armagh, the broad, white-haired columba, the long, flaxen finbarr, the square, snub-nosed gall, the big-boned, red-grey columban or the clean-shaven thomas_becket.",
+      "refs": [
+        "patrick",
+        "charles_borromeo",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; the card gives him a strong, bearded, aristocratic face to stand apart from the batch's and the earlier Irish cards, the son of a king of the Uí Muiredaig (Wikipedia). Glendalough, where the book and Wikipedia make him abbot, is behind him.",
+      "sources": [
+        {
+          "title": "Wikipedia, Laurence O'Toole (lead: window, Wexford)",
+          "url": "https://en.wikipedia.org/wiki/Laurence_O%27Toole"
+        },
+        {
+          "title": "Santi e Beati, San Lorenzo O'Toole (Roman Martyrology entry, 14 November)",
+          "url": "https://www.santiebeati.it/dettaglio/90998"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-14-laurence-otoole (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-14-laurence-otoole.md"
+        }
+      ],
+      "catalogMatch": "St. Laurence O'Toole",
+      "lifeChapter": "nov-14-laurence-otoole"
+    },
+    {
+      "id": "edmund_canterbury",
+      "letter": "E",
+      "feast": {
+        "month": 11,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Edmund of Canterbury",
+        "pt-BR": "Santo Edmundo de Cantuária"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of Canterbury",
+        "pt-BR": "Arcebispo de Cantuária"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Saints were tempted even more than ourselves; but they stood where we fall, because they trusted to Mary, and not to themselves.",
+        "pt-BR": "Os Santos foram tentados ainda mais do que nós; mas mantiveram-se firmes onde nós caímos, porque confiaram em Maria, e não em si mesmos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-16-edmund-of-canterbury.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Edmund of Canterbury, half-length, an English archbishop of about 1238: a white alb, a plain white chasuble with a narrow gold orphrey, a low white mitre; a crozier in his left hand, and in his right an open book resting against his breast, the scholar of Oxford and Paris. Behind him the Cistercian abbey of Pontigny in Burgundy, where he is buried: a long, plain church of pale stone with tall lancet windows and no tower, orchards and meadows, a few white-habited monks small in the distance, a soft, clear sky. Gentle, learned and steadfast; no lettering.",
+      "face": "An Englishman of about sixty-five, spare from fasting, with a fair, pale complexion and a LEAN, ANGULAR face WIDEST at HIGH, SHARP cheekbones — a TALL, straight forehead, a nose with a pronounced DOWNWARD HOOK at its tip, PALE-GREY, deep-set, kindly eyes under thin, level grey brows, deep vertical lines beside a THIN-LIPPED, gently smiling mouth, a small, POINTED chin; CLEAN-SHAVEN; thin grey hair cut short below the mitre; the gaze mild and thoughtful. Not the long-headed, jutting-chinned, short-bearded anselm, the long, fine-nosed thomas_becket, the triangular, hollow simon_stock, the square-bearded augustine_canterbury, the bulge-browed elphege or the broad, snub-nosed richard_chichester.",
+      "refs": [
+        "ambrose",
+        "charles_borromeo",
+        "thomas_aquinas"
+      ],
+      "basis": "No portrait from life survives; the lead image on English Wikipedia is a Nuremberg Chronicle woodcut. The lean, ascetic scholar follows the book and Wikipedia (lecturer at Paris and Oxford, an ascetic); Pontigny is where the book says he lies.",
+      "sources": [
+        {
+          "title": "Wikipedia, Edmund of Abingdon (lead: Nuremberg Chronicle)",
+          "url": "https://en.wikipedia.org/wiki/Edmund_of_Abingdon"
+        },
+        {
+          "title": "Santi e Beati, Sant'Edmondo Rich (Roman Martyrology entry, 16 November)",
+          "url": "https://www.santiebeati.it/dettaglio/77845"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-16-edmund-of-canterbury (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-16-edmund-of-canterbury.md"
+        }
+      ],
+      "catalogMatch": "St. Edmund of Canterbury",
+      "lifeChapter": "nov-16-edmund-of-canterbury"
+    }
+  ]
+}

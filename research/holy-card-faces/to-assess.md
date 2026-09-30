@@ -31,6 +31,11 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Object cards, batch 49:** Missal excerpt is a Good Friday rubric (the only Mass-data line naming the Missal in both languages; alternative Lk 11:1); four excerpts cut to a clause; the altar crucifix keeps the corpus (GIRM 117, 308) despite the "no figures" frame; the Book of the Gospels cover shows the Evangelists' symbols in small metalwork. Forms chosen where the norms allow variety: gilded tabernacle without veil and a red lamp, six candles, glass cruets, silver lavabo set, green Lectionary, ribboned Missal. [As stated.] — `dossiers/batch-49.md`
 - [ ] **Object cards, batch 50:** Pall and Purificator excerpts are the blessing over the wine and the prayer at the purification (no en-US line in the Mass data names either); Altar bells excerpt is the long Easter Vigil Gloria rubric; the Stole is violet (Lk 15:22, *stolam primam*); four altar bells in a cluster (GIRM says "a small bell"; the catalog's plural followed); white cincture. [As stated.] — `dossiers/batch-50.md`
 - [ ] **Vestment cards, batch 51:** Chasuble is green, with Col 3:14 ("over all things put on love") from the Entrance Antiphon of the Mass for a Council or Synod, because its pt-BR keeps the clothing image. The alternatives are Mt 11:30, "my yoke is easy" (green), or the Palm Sunday rubric "puts on the chasuble" (red). Dalmatic is rose, with Is 61:10 "garments of salvation" from Gaudete B; the alternative is white with the Immaculate Conception antiphon, which is closer to the ordination formula but risks looking like the alb. [Green chasuble, rose dalmatic.] — `dossiers/batch-51.md`
+- [ ] **Batch 39 (3–16 Nov):** four decisions. [All kept as stated.] — `dossiers/batch-39.md`
+  - Leonard and Theodore Tyro rest on legendary Acts; both are kept because both are in the Martyrology.
+  - Hubert's stag has no crucifix, because `eustachius` already has that vision.
+  - The book's spellings are kept ("Stanislas", "Bertille").
+  - Stanislas's face follows an undated portrait, and Andrew Avellino's follows later images.
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
