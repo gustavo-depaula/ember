@@ -57,3 +57,9 @@ First written for `discovery_cross`; her own card (18 Aug) uses it too. Keep her
 ## St. John in later scenes
 
 On second feasts of his later life (`john_latin_gate`, AD 95) John keeps the young, beardless face above, as the Western tradition paints him, not the old bearded John of Eastern icons.
+
+## St. Simon Stock
+
+St. Simon Stock as on `mount_carmel`: an Englishman of about seventy, clean-shaven, with a gaunt TRIANGULAR face — broad temples narrowing to a small pointed chin, hollow cheeks, a long, thin, slightly aquiline nose, deep-set pale blue eyes lifted in wonder under sparse white brows, a thin-lipped mouth slightly open; white hair in a narrow ring around a wide tonsure.
+
+First written for `mount_carmel` (kneeling before Our Lady); his own card `simon_stock` (16 Jul) uses it word for word.

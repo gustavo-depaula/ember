@@ -13,6 +13,7 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Cyril of Caesarea (29 May):** no source independent of the book; accounts disagree on fire vs beheading. [Kept; card shows neither.] — `dossiers/batch-29.md`
 - [ ] **Vitus, Crescentia and Modestus (15 Jun):** the Martyrology keeps Vitus alone; Modestus and Crescentia are considered fictitious, and the chapter and its reflection turn on Crescentia. [Skipped for now, the line stays open. Options: a card of St. Vitus alone without the chapter's reflection, or remove the line.] — `dossiers/batch-30.md`
 - [ ] **Marcus and Marcellianus (18 Jun):** genuine cult, but all beyond their names and martyrdom comes from the legendary Acts of St. Sebastian. [Kept, the card shows only palms.] — `dossiers/batch-30.md`
+- [ ] **Legend-based chapters kept (batch 32):** Margaret of Antioch (story "generally regarded fictitious"; card leaves out the dragon), Christina of Bolsena (only name and burial known), Alexius (Martyrology: "as reported by tradition"); softer: Felicitas as mother of the Seven Brothers, the Simon Stock scapular vision. All remain in the Martyrology. [Kept; replacements would be Nazarius and Celsus, then Germanus.] — `dossiers/batch-32.md`
 - [ ] **The Consecration card** (test drawing) shows the priest ad orientem. Is that the depiction you want? [Undecided.]
 
 ## Portrayal
@@ -41,9 +42,12 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Peter of Luxemburg (5 Jul):** the book says "St.", but he was only beatified (1527); his see and hat came from the Avignon antipope. [Card says "Bl. Peter of Luxemburg" / "Beato Pedro de Luxemburgo".] — `dossiers/batch-31.md`
 - [ ] **Bertha of Blangy (4 Jul):** a late story, "not entirely legendary". [Kept.]
 
+- [ ] **Place added to bare names:** "St. James of Nisibis", "St. Margaret of Antioch" (pt-BR from the chapters). [Added.]
+- [ ] **Seven Brothers card** has eight figures and may crowd the window. [Will check at review.]
+
 ## Excerpts and reflections
 
-- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius, Prosper, William of Monte-Vergine, Gal, Heliodorus, Bertha, Goar.
+- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius, Prosper, William of Monte-Vergine, Gal, Heliodorus, Bertha, Goar, James of Nisibis, Margaret, Victor, Christina.
 - [ ] **Marcella (31 Jan):** excerpt from St. Jerome, Letter 127, with our own pt-BR rendering. [Kept.] — `dossiers/batch-20.md`
 - [ ] **Pope Marcellinus shares a chapter with Cletus,** so both cards show the same reflection (which names neither). [Shared.] — `dossiers/batch-27.md`
 
