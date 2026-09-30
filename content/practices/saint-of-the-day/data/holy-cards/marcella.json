@@ -1,0 +1,45 @@
+{
+  "id": "marcella",
+  "feast": {
+    "month": 1,
+    "day": 31
+  },
+  "name": {
+    "en-US": "St. Marcella",
+    "pt-BR": "Santa Marcela"
+  },
+  "patronOf": {
+    "en-US": "Widow of Rome",
+    "pt-BR": "Viúva de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Her delight in the divine scriptures was incredible.",
+    "pt-BR": "O seu deleite nas divinas Escrituras era incrível."
+  },
+  "lifeChapter": "jan-31-marcella",
+  "meta": {
+    "face": "A Roman lady of great age, about eighty-five, with a pale olive complexion and a SHORT, HEART-SHAPED face grown thin — a broad, finely lined forehead, PROMINENT cheekbones with the cheeks fallen in below them, tapering to a small, POINTED chin; a small, finely HOOKED nose; small, bright, quick dark eyes, keen and humorous, under thin white brows; a thin, wide mouth; white hair under the veil; her gaze lifted from the page as if about to ask a question.",
+    "basis": "No likeness survives. Jerome's letter on her death (Letter 127) gives her plain dress 'such as to remind her of the tomb', her 'incredible' delight in the Scriptures and her habit of questioning him on them, and the house on the Aventine; she was about eighty-five when the Goths scourged her in 410 (Wikipedia). The keen, small, heart-shaped face is our choice, kept apart from the set's other old women (`teresa_calcutta`, `hildegard`).",
+    "excerpt": "St. Jerome, Letter 127 to Principia, 4, tr. W. H. Fremantle, NPNF 2nd series vol. 6 (1893), https://www.newadvent.org/fathers/3001127.htm (local copy consult/batch-20/jerome-letter-127.txt); pt-BR our rendering. Her chapter has no Reflection and there is no formulary of her own",
+    "sources": [
+      {
+        "title": "Wikipedia, Marcella of Rome (lead image: engraving of Marcella before the Goths)",
+        "url": "https://en.wikipedia.org/wiki/Marcella_of_Rome"
+      },
+      {
+        "title": "St. Jerome, Letter 127 to Principia (NPNF 2nd series vol. 6)",
+        "url": "https://www.newadvent.org/fathers/3001127.htm"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-31-marcella (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-31-marcella.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

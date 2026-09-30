@@ -1,0 +1,41 @@
+{
+  "id": "veronica_milan",
+  "feast": {
+    "month": 1,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Veronica of Milan",
+    "pt-BR": "Santa Verônica de Milão"
+  },
+  "patronOf": {
+    "en-US": "Lay sister of St. Martha's, Milan",
+    "pt-BR": "Irmã conversa de Santa Marta, em Milão"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I must work while I can, while I have time.\"",
+    "pt-BR": "\"Devo trabalhar enquanto posso, enquanto tenho tempo.\""
+  },
+  "lifeChapter": "jan-13-veronica-of-milan",
+  "meta": {
+    "face": "A Lombard countrywoman of about fifty with a sun-weathered, ruddy complexion and a SHORT, BROAD face under a LOW, WIDE brow — high, round APPLE cheekbones, a short, broad nose with a slightly upturned tip, small, bright, deep-set dark-brown eyes under thick, straight dark brows, a wide mouth with thin lips set in a patient half-smile, a small, firm, square chin; hair hidden by the wimple; her gaze lifted a little, cheerful and willing.",
+    "basis": "No portrait from life; the nineteenth-century roundel on Wikipedia shows her in the black Augustinian habit, white wimple and black veil with an olive branch and bread, which the card keeps. The book tells of a peasant girl who worked the fields near Milan and, as a lay sister of St. Martha's, begged the community's food through the city; the sturdy, broad country face is our choice, kept apart from the set's oval-faced nuns (`rita_cascia`, `hedwig`).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-13 reflection, her words it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Veronica of Binasco (lead image: roundel of 'Beata Veronica')",
+        "url": "https://en.wikipedia.org/wiki/Veronica_of_Binasco"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-13-veronica-of-milan (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-13-veronica-of-milan.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

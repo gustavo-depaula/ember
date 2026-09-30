@@ -294,17 +294,17 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 9 Jan · Ss. Julian and Basilissa, Martyrs · *São Julião e Santa Basilissa, Mártires* · Pictorial Lives — `julian_basilissa`
 - [x] 10 Jan · St. William, Archbishop · *São Guilherme, Arcebispo* · Pictorial Lives — `william_bourges`
 - [x] 11 Jan · St. Theodosius, The Cenobiarch · *São Teodósio, o Cenobiarca* · Pictorial Lives — `theodosius_cenobiarch`
-- [ ] 12 Jan · St. Aelred, Abbot · *Santo Elredo, Abade* · Pictorial Lives
-- [ ] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives
-- [ ] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives
-- [ ] 16 Jan · St. Honoratus, Archbishop · *Santo Honorato, Arcebispo* · Pictorial Lives
+- [x] 12 Jan · St. Aelred, Abbot · *Santo Elredo, Abade* · Pictorial Lives — `aelred`
+- [x] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives — `veronica_milan`
+- [x] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives — `paul_hermit`
+- [x] 16 Jan · St. Honoratus, Archbishop · *Santo Honorato, Arcebispo* · Pictorial Lives — `honoratus`
 - [x] 18 Jan · St. Peter's Chair at Rome · *A Cátedra de São Pedro em Roma* · Pictorial Lives — `peter_chair_rome`
-- [ ] 19 Jan · St. Canutus, King, Martyr · *São Canuto, Rei, Mártir* · Pictorial Lives
-- [ ] 30 Jan · St. Bathildes, Queen · *Santa Batildes, Rainha* · Pictorial Lives
-- [ ] 31 Jan · St. Marcella, Widow · *Santa Marcela, Viúva* · Pictorial Lives
-- [ ] 1 Feb · St. Bridgid, Abbess, and Patroness of Ireland · *Santa Brígida, Abadessa e Padroeira da Irlanda* · Pictorial Lives
-- [ ] 4 Feb · St. Jane of Valois · *Santa Joana de Valois* · Pictorial Lives
-- [ ] 6 Feb · St. Dorothy, Virgin, Martyr · *Santa Doroteia, Virgem, Mártir* · Pictorial Lives
+- [x] 19 Jan · St. Canutus, King, Martyr · *São Canuto, Rei, Mártir* · Pictorial Lives — `canutus`
+- [x] 30 Jan · St. Bathildes, Queen · *Santa Batildes, Rainha* · Pictorial Lives — `bathildes`
+- [x] 31 Jan · St. Marcella, Widow · *Santa Marcela, Viúva* · Pictorial Lives — `marcella`
+- [x] 1 Feb · St. Bridgid, Abbess, and Patroness of Ireland · *Santa Brígida, Abadessa e Padroeira da Irlanda* · Pictorial Lives — `bridgid`
+- [x] 4 Feb · St. Jane of Valois · *Santa Joana de Valois* · Pictorial Lives — `jane_valois`
+- [x] 6 Feb · St. Dorothy, Virgin, Martyr · *Santa Doroteia, Virgem, Mártir* · Pictorial Lives — `dorothy`
 - [ ] 8 Feb · St. John of Matha · *São João de Matha* · Pictorial Lives
 - [ ] 9 Feb · St. Apollonia and the Martyrs of Alexandria · *Santa Apolônia e os Mártires de Alexandria* · Pictorial Lives
 - [ ] 11 Feb · St. Severinus, Abbot of Agaunum · *São Severino, Abade de Agauno* · Pictorial Lives

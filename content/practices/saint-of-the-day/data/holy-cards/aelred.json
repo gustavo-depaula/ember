@@ -1,0 +1,41 @@
+{
+  "id": "aelred",
+  "feast": {
+    "month": 1,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Aelred",
+    "pt-BR": "Santo Elredo"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Rievaulx",
+    "pt-BR": "Abade de Rievaulx"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is not feeling, but self-love, which corrupts friendship.",
+    "pt-BR": "Não é o sentimento, mas o amor-próprio, que corrompe a amizade."
+  },
+  "lifeChapter": "jan-12-aelred",
+  "meta": {
+    "face": "An Englishman of about fifty-five, clean-shaven, with a fair, lightly flushed complexion and a LONG face that ends in a SOFT, ROUNDED chin — a smooth forehead, a short nose with a gently UPTURNED tip, very LARGE, soft, wide-set grey eyes under HIGH, ARCHED light-brown brows that give an open, tender look, faint hollows beneath the cheekbones, a WIDE, generous mouth in a slight, warm smile; a ring of short auburn hair turning grey around the monastic tonsure; the gaze kind and direct, toward us.",
+    "basis": "No portrait from life survives; the twelfth-century initial of a Speculum caritatis manuscript (Wikipedia lead image) shows a young, hooded, clean-shaven Cistercian, and Cistercian choir monks were shaven and tonsured, so the card is too. His biographers' picture of a man of great tenderness, 'a singularly attractive figure' (Knowles, quoted on Wikipedia), and his book on friendship give the open, smiling face; the structure is our choice, kept apart from `william_bourges` (wide, flat, bearded) and `bernard_clairvaux`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-12 reflection, last sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Aelred of Rievaulx (lead image: initial from a Speculum caritatis manuscript)",
+        "url": "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-12-aelred (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-12-aelred.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}
