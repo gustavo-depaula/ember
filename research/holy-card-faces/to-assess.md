@@ -42,6 +42,11 @@ Each item names the choice made so far, in brackets; it stands until you say oth
   - Barbara's patron line is "Patroness against sudden death", to match her Reflection, rather than lightning and storms, the popular form in Brazil.
   - Eligius is shown as the lay goldsmith, not as Bishop of Noyon.
   - Left out of the pictures: the serpent in James's chalice, Saturninus's bull, the cross between Felix's stag's antlers, and every instrument of torture.
+- [ ] **Batch 41 (5–19 Dec):** [All as stated.] — `dossiers/batch-41.md`
+  - Nicasius is shown alone, without Eutropia, Florens and Jocond, following `eustachius`.
+  - Sabas, Valery and Finian have no Reflection in the book, so each card's excerpt is a sentence from the chapter.
+  - Nemesion has no Santi e Beati entry; he is carded on the book's authority, with Eusebius as the source.
+  - Valery and Olympias keep the book's dates (12 and 17 Dec), not the Martyrology's (1 Apr, 25 Jul).
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal

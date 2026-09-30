@@ -1,0 +1,473 @@
+{
+  "batch": 41,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-41.md",
+  "cards": [
+    {
+      "id": "sabas",
+      "letter": "S",
+      "feast": {
+        "month": 12,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Sabas",
+        "pt-BR": "São Sabas"
+      },
+      "patronOf": {
+        "en-US": "Patriarch of the monks of Palestine",
+        "pt-BR": "Patriarca dos monges da Palestina"
+      },
+      "prayerExcerpt": {
+        "en-US": "He was at first unwilling to consent, but finally founded a new monastery of persons all desirous to devote themselves to praise and serve God without interruption.",
+        "pt-BR": "A princípio relutou em consentir, mas finalmente fundou um novo mosteiro de pessoas todas desejosas de dedicar-se a louvar e servir a Deus sem interrupção."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-05-sabas.md, third paragraph, second sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Sabas, half-length, a very old abbot of the Judaean desert in the early sixth century: a coarse dark-brown monastic tunic and over it a wide, dark olive-green mantle, the hood of a black monastic cowl fallen back on his shoulders; in his left hand a plain wooden staff with a small cross-piece at the top, in his right an unrolled parchment scroll held against his breast. Behind him the gorge of the brook Cedron in the wilderness of Judah: steep, bare, honey-coloured cliffs pierced with the openings of hermits' caves, a small stone church and a few cells clinging to the rock, the thin line of the brook far below, under a hot, pale sky. Venerable, austere and fatherly; no lion, no lettering.",
+      "face": "A Cappadocian Greek of about eighty-five, still upright, with a dry, sun-browned olive complexion and a TALL, OVAL face — a HIGH, ROUNDED forehead crossed by fine lines under THICK white hair brushed straight back to the nape (NOT bald), a LONG, straight nose with a sharply CHISELLED, slightly HOOKED tip, deep-set, keen grey eyes under high, ARCHED white brows, HOLLOW cheeks below clear cheekbones, a thin, firm mouth; a LONG white beard reaching the breast and DIVIDED at the end into TWO POINTS, as the Painter's Manual has him; the gaze searching and kind. Not the bald, broad, flat-faced theodosius_cenobiarch, his disciple john_silent (broad-templed, hump-nosed, eyes lowered), the convex-profiled, receding-chinned hilarion, the long, rectangular, furrow-browed john_climacus or the hooded, triangular anthony_abbot.",
+      "refs": [
+        "anthony_abbot",
+        "benedict",
+        "jerome"
+      ],
+      "basis": "No likeness survives. The Painter's Manual of Dionysius of Fourna (`consult/hermeneia-ocr.txt`, line 7396, 5 December) gives him 'an old man with a beard divided into two points'; the age follows the book (he lived to ninety-four). The mantle, scroll and the laura of caves above the Cedron follow his icon on English Wikipedia and the book; the lion of his legend is left off.",
+      "sources": [
+        {
+          "title": "Wikipedia, Sabbas the Sanctified (lead: icon with scenes of his life)",
+          "url": "https://en.wikipedia.org/wiki/Sabbas_the_Sanctified"
+        },
+        {
+          "title": "Santi e Beati, San Saba Archimandrita (Roman Martyrology entry, 5 December)",
+          "url": "https://www.santiebeati.it/dettaglio/80600"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-05-sabas (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-05-sabas.md"
+        }
+      ],
+      "catalogMatch": "St. Sabas, Abbot",
+      "lifeChapter": "dec-05-sabas"
+    },
+    {
+      "id": "leocadia",
+      "letter": "L",
+      "feast": {
+        "month": 12,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Leocadia",
+        "pt-BR": "Santa Leocádia"
+      },
+      "patronOf": {
+        "en-US": "Patroness of Toledo",
+        "pt-BR": "Padroeira de Toledo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Were we not blinded by the world and the enchantment of its follies, the near prospect of eternity, the uncertainty of the hour of our death, and the repeated precepts of Christ would produce in us the same fervent dispositions which they did in the primitive Christians.",
+        "pt-BR": "Se não estivéssemos cegos pelo mundo e pelo encanto de suas loucuras, a iminente perspectiva da eternidade, a incerteza da hora de nossa morte e os repetidos preceitos de Cristo produziriam em nós as mesmas fervorosas disposições que produziram nos primeiros cristãos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-09-leocadia.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Leocadia, half-length, a young Christian woman of Roman Toledo in the year 304: a plain, long-sleeved white linen tunic and over it a mantle of soft dusty blue drawn up over her head as a veil; she holds a martyr's palm in her left hand and a small, plain wooden cross against her breast with her right, her eyes lifted in longing prayer. Behind her Toledo on its rocky hill above the deep bend of the river Tagus: the plain stone walls and tiled roofs of the Roman town on the heights, the green river far below in its gorge, olive trees on the far bank, a clear, late-afternoon sky. Gentle, yearning and at peace; no prison, no chains, no lettering.",
+      "face": "A Hispano-Roman woman of about twenty with a warm olive complexion and a SOFT, WIDE, HEART-SHAPED face — a broad, smooth forehead, FULL, rounded cheeks tapering to a SMALL, ROUND chin, a SHORT, softly ROUNDED nose, LARGE, dark-brown eyes under HEAVY lids, lifted upward, under thick dark brows ARCHED HIGH, a small, full mouth, lips just parted in prayer; dark-brown hair parted in the middle under the veil; the look of one who longs for heaven. Not her friend eulalia_merida (a narrow, bold girl of twelve), the long, square-chinned Engratia of saragossa_martyrs, the short, square-faced margaret_antioch, the inverted-triangle christina_bolsena the convex-profiled julia_corsica or the broad, strong-jawed barbara.",
+      "refs": [
+        "agnes",
+        "agatha",
+        "lucy"
+      ],
+      "basis": "No likeness survives; Santi e Beati's notice says little is known of her beyond a seventh-century passio. The young face and the prayer follow the book (she prayed to be united speedily with St. Eulalia); the palm and cross follow the Spanish engraving on Spanish Wikipedia ('Verdadero Retrato de Sta. Leocadia', 1770); Toledo above the Tagus is her city.",
+      "sources": [
+        {
+          "title": "Wikipedia, Leocadia (lead: her crypt)",
+          "url": "https://en.wikipedia.org/wiki/Leocadia"
+        },
+        {
+          "title": "Wikipedia (es), Leocadia de Toledo (lead: engraving, 1770)",
+          "url": "https://es.wikipedia.org/wiki/Leocadia_de_Toledo"
+        },
+        {
+          "title": "Santi e Beati, Santa Leocadia di Toledo (Roman Martyrology entry, 9 December)",
+          "url": "https://www.santiebeati.it/dettaglio/80810"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-09-leocadia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-09-leocadia.md"
+        }
+      ],
+      "catalogMatch": "St. Leocadia",
+      "lifeChapter": "dec-09-leocadia"
+    },
+    {
+      "id": "eulalia_merida",
+      "letter": "E",
+      "feast": {
+        "month": 12,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Eulalia",
+        "pt-BR": "Santa Eulália"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyr of Mérida",
+        "pt-BR": "Virgem e mártir de Mérida"
+      },
+      "prayerExcerpt": {
+        "en-US": "The apostles rejoiced \"that they were accounted worthy to suffer reproach for the name of Jesus.\" Do we bear our crosses with the same spirit?",
+        "pt-BR": "Os apóstolos regozijaram-se \"por terem sido considerados dignos de sofrer afronta pelo nome de Jesus.\" Carregamos nós as nossas cruzes com o mesmo espírito?"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-10-eulalia.md Reflection, the whole of it (Acts 5:41) (Pictorial Lives, public domain)",
+      "subject": "St. Eulalia, half-length, a girl of twelve of Roman Mérida in the year 304, visibly a child: a simple white woollen tunic with a narrow red border and a short rose-red mantle over her shoulders; she holds a martyr's palm upright in her right hand, and a small white dove rests on her left hand, raised before her breast. Behind her Emerita Augusta in winter: the long Roman stone bridge over the wide river Guadiana, the tall arches of the aqueduct beyond, the town's walls and tiled roofs, a light dusting of snow on the ground under a clear, cold sky. Brave, frank and innocent; no fire, no torches, no hooks, no idol, no lettering.",
+      "face": "A Hispano-Roman girl of twelve, clearly a child, with a fair olive complexion and a LONG, NARROW, OVAL face — a HIGH, smooth forehead, a SHORT, straight, SLENDER nose, large, dark ALMOND eyes with a BOLD, DIRECT gaze under STRAIGHT, level dark brows, smooth, lean cheeks, a small, FIRM mouth set in resolve, a narrow, pointed chin; long, straight black hair loose over her shoulders, held back by a plain white band; the look of a child who is not afraid. Not leocadia (a soft, heart-shaped young woman), the inverted-triangle, upturned-nosed christina_bolsena, the short, square-faced margaret_antioch, the long-oval, square-chinned Engratia of saragossa_martyrs the round-cheeked maria_goretti or bibiana (a young woman with a long oval face and a Greek nose).",
+      "refs": [
+        "agnes",
+        "lucy",
+        "agatha"
+      ],
+      "basis": "No likeness survives. The child's face follows the book ('She was but twelve years old'), her boldness its account of her rebuke to the judge. The dove and the snow are Prudentius's, quoted by English and Spanish Wikipedia ('as she expired a dove flew out of her mouth'; 'a miraculous snow'); the Roman bridge and aqueduct are Mérida's, and the palm follows the paintings on both Wikipedias.",
+      "sources": [
+        {
+          "title": "Wikipedia, Eulalia of Mérida (lead: statue, Mérida cathedral)",
+          "url": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+        },
+        {
+          "title": "Wikipedia (es), Eulalia de Mérida (lead: painting 'Santa Eulalia')",
+          "url": "https://es.wikipedia.org/wiki/Eulalia_de_M%C3%A9rida"
+        },
+        {
+          "title": "Santi e Beati, Sant'Eulalia di Merida (Roman Martyrology entry, 10 December)",
+          "url": "https://www.santiebeati.it/dettaglio/40600"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-10-eulalia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-10-eulalia.md"
+        }
+      ],
+      "catalogMatch": "St. Eulalia, Virgin, Martyr",
+      "lifeChapter": "dec-10-eulalia"
+    },
+    {
+      "id": "valery",
+      "letter": "V",
+      "feast": {
+        "month": 12,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Valery",
+        "pt-BR": "São Valério"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Leuconay",
+        "pt-BR": "Abade de Leuconay"
+      },
+      "prayerExcerpt": {
+        "en-US": "Saint Valery went to receive the recompense of his happy perseverance on the 12th of December in 622.",
+        "pt-BR": "São Valério foi receber a recompensa de sua ditosa perseverança no dia 12 de dezembro de 622."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-12-valery.md, first paragraph (his), last sentence; the chapter, which tells Valery and Finian together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Valery, half-length, a Frankish monk-abbot of the early seventh century: a plain, undyed grey-brown woollen cowl with the hood down, a leather belt; a simple wooden abbot's staff in his left hand and an open book held in his right, as the book's engraving shows him reading. Behind him the mouth of the Somme on the Channel coast: a small wooden monastery with a thatched chapel at the edge of a wood, a great solitary oak on a rise above the shore, salt meadows, a strip of grey sea and gulls under a wide, bright, windy sky. Mild, humble and patient; no king, no apparition, no lettering.",
+      "face": "An Auvergnat of about fifty-five, 'lean and tall', with a fair, wind-reddened complexion and a LONG, NARROW face with a LONG, STRAIGHT, NARROW JAW — a smooth, fairly low forehead, a straight nose of medium length with a small, ROUNDED tip, MILD, wide-open, light-brown eyes with SOFT lower lids under thin, gently curved brown brows, FLAT, lean cheeks, a small, gentle mouth with the corners lifted, a long, narrow, rounded chin under a SHORT, thin, brown beard going grey that follows the jaw; brown hair cropped short around a monastic tonsure; the look meek and patient. Not his master columban (big-boned, jutting-chinned, Irish tonsure), the concave-profiled eucherius_orleans, the tall, dome-headed magloire, the long, droop-nosed wulfran, the hexagonal, blind omer or finian_clonard on the same day (white-bearded, Irish tonsure).",
+      "refs": [
+        "benedict",
+        "bernard_clairvaux",
+        "anthony_abbot"
+      ],
+      "basis": "No likeness survives. Santi e Beati's notice describes him as 'Magro e di alta statura, era severo con se stesso, ma mite con il prossimo' (lean and tall, severe with himself, mild with others), and says he wished to be buried under the oak where he loved to pray; the face follows that. The reading monk is the book's engraving; Leuconay at the mouth of the Somme is from Santi e Beati and French Wikipedia.",
+      "sources": [
+        {
+          "title": "Wikipedia, Walaric (lead: his apparition to Hugh Capet, manuscript)",
+          "url": "https://en.wikipedia.org/wiki/Walaric"
+        },
+        {
+          "title": "Wikipedia (fr), Valery de Leuconay",
+          "url": "https://fr.wikipedia.org/wiki/Valery_de_Leuconay"
+        },
+        {
+          "title": "Santi e Beati, San Valerico di Lauconne (Roman Martyrology entry, 1 April)",
+          "url": "https://www.santiebeati.it/dettaglio/91998"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-12-valery (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-12-valery.md"
+        }
+      ],
+      "catalogMatch": "St. Valery, Abbot",
+      "lifeChapter": "dec-12-valery"
+    },
+    {
+      "id": "finian_clonard",
+      "letter": "F",
+      "feast": {
+        "month": 12,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Finian",
+        "pt-BR": "São Finiano"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Clonard",
+        "pt-BR": "Bispo de Clonard"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the love of his flock and his zeal for their salvation he was infirm with the infirm, and wept with those that wept.",
+        "pt-BR": "No amor de seu rebanho e em seu zelo pela salvação deles, era enfermo com os enfermos, e chorava com os que choravam."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-12-valery.md, second paragraph (his), fourth sentence; the chapter, which tells Valery and Finian together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Finian, half-length, an old Irish monk-bishop of the sixth century: a white linen tunic under a hooded, dark-grey woollen cloak fastened at the breast with a simple bronze brooch; a short wooden crook-headed crozier in his left hand and a Gospel book bound in plain leather held against his breast with his right. Behind him Clonard on the river Boyne: a green meadow with small round wattle-and-daub cells and a little wooden church, young monks with books sitting on the grass as at a school, the slow river with alders, under a soft, grey-and-silver Irish sky. Tender, compassionate and learned; no lettering.",
+      "face": "A Leinsterman of about eighty with a fair, pink, soft complexion and a SHORT, BROAD face, ROUND at the jaw — the front of the head shaved from ear to ear in the Irish tonsure, leaving a broad, high forehead, with fine white hair falling behind the ears; a BROAD, fleshy nose with a ROUNDED tip, WIDE-SET, moist, gentle blue-grey eyes whose inner brows are LIFTED in COMPASSION, soft, full cheeks, a small, tender mouth; a FULL, SOFT, WAVY WHITE beard reaching the breast; the look of one who weeps with those who weep. Not columba (clean-shaven, broad and ruddy), the long, narrow, receding-chinned finbarr, the long, big-boned columban, the compact, square gall, the heavy-browed david_wales, the smooth, clean-shaven malachi_armagh or valery on the same day (lean, narrow, short brown beard).",
+      "refs": [
+        "patrick",
+        "benedict",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives. The compassionate face follows the book ('he was infirm with the infirm, and wept with those that wept'); the white beard and the crozier follow the statue at Clonard on English Wikipedia; the Irish tonsure is the one on the other Irish monks' cards. The school of monks follows the Martyrology ('padre e maestro di una grande schiera di monaci') and Santi e Beati's notice ('maestro dei santi d'Irlanda').",
+      "sources": [
+        {
+          "title": "Wikipedia, Finnian of Clonard (lead: statue at Clonard)",
+          "url": "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+        },
+        {
+          "title": "Santi e Beati, San Finniano di Clonard (Roman Martyrology entry, 12 December)",
+          "url": "https://www.santiebeati.it/dettaglio/93212"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-12-valery (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-12-valery.md"
+        }
+      ],
+      "catalogMatch": "St. Finian, Bishop",
+      "lifeChapter": "dec-12-valery"
+    },
+    {
+      "id": "nicasius",
+      "letter": "N",
+      "feast": {
+        "month": 12,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Nicasius",
+        "pt-BR": "São Nicásio"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Rheims, martyr",
+        "pt-BR": "Bispo de Reims, mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Bear patiently and sweetly bodily sufferings, and prepare for the day of trial by the courageous endurance of the daily crosses incident to your state.",
+        "pt-BR": "Suporta com paciência e doçura os sofrimentos corporais, e prepara-te para o dia da provação pela corajosa resistência às cruzes diárias inerentes ao teu estado."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-14-nicasius.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Nicasius, half-length, a Gallo-Roman bishop of the early fifth century, bareheaded (no mitre): a white alb and a wide, plain, deep-red bell-shaped chasuble; a martyr's palm in his right hand, and in his left a Gospel book held against his breast. Behind him Rheims: the tall triple arch of the Roman gate, a new stone church with a plain facade and a small bell-cote, the city's roofs and a strip of the Champagne plain beyond, under a clear, pale, morning sky with a few smoke-grey clouds on the horizon. Fatherly, solicitous and brave; no severed head, no barbarians, no swords, no lettering.",
+      "face": "A Gallo-Roman of about fifty-five with a fair complexion and a FULL, SOFT, OVAL face, fleshy at the jowls — a broad, smooth forehead with a few worried lines, a BROAD, LOW-bridged nose with a ROUND tip, LARGE, ROUND, pale-grey eyes under brows RAISED at their inner ends in fatherly concern, full cheeks, full lips; a THICK, CURLED, chestnut-grey beard cut ROUND, and short, CURLY chestnut-grey hair; the look anxious for his flock yet steadfast. Not his successor remigius (very tall, long, noble and smooth), the broad, short, square-jawed, tight-curled denis, the lantern-jawed gregory_langres, the Roman-nosed mammertus or the long, parallel-sided lambert.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "No likeness survives. The curled beard and curly hair follow the thirteenth-century portal statue at Rheims cathedral on French Wikipedia; the anxious, fatherly look follows the book ('forgetting himself, and solicitous only for his spiritual children'). The statue shows him carrying the top of his own head: that, the barbarians and his companions Eutropia, Florens and Jocond are left off.",
+      "sources": [
+        {
+          "title": "Wikipedia, Nicasius of Rheims (lead: stained glass of his martyrdom)",
+          "url": "https://en.wikipedia.org/wiki/Nicasius_of_Rheims"
+        },
+        {
+          "title": "Wikipedia (fr), Nicaise de Reims (lead: portal statue, Rheims cathedral)",
+          "url": "https://fr.wikipedia.org/wiki/Nicaise_de_Reims"
+        },
+        {
+          "title": "Santi e Beati, San Nicasio di Reims (Roman Martyrology entry, 14 December)",
+          "url": "https://www.santiebeati.it/dettaglio/81400"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-14-nicasius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-14-nicasius.md"
+        }
+      ],
+      "catalogMatch": "St. Nicasius, Archbishop",
+      "lifeChapter": "dec-14-nicasius"
+    },
+    {
+      "id": "mesmin",
+      "letter": "M",
+      "feast": {
+        "month": 12,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Mesmin",
+        "pt-BR": "São Mesmin"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Micy",
+        "pt-BR": "Abade de Micy"
+      },
+      "prayerExcerpt": {
+        "en-US": "Few are called to serve God by great actions, but all are bound to strive after perfection in the ordinary actions of their daily life.",
+        "pt-BR": "Poucos são chamados a servir a Deus por grandes ações, mas todos estão obrigados a buscar a perfeição nas ações ordinárias de sua vida cotidiana."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-15-mesmin.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Mesmin, half-length, a Frankish abbot of about the year 515: a plain black woollen monastic habit and cowl, the hood down; a simple wooden abbot's staff in his left hand, and in his right a round loaf of bread, a full sheaf of golden wheat resting in the crook of his arm. Behind him the abbey of Micy on the Loire near Orleans: a low stone church and granary among poplars, sacks of grain stacked at the door and a few poor folk with baskets small in the distance, the broad, shining river with sandbanks under a soft, pale sky. Generous, humble and serene; no serpent, no king, no lettering.",
+      "face": "A Frank of Verdun of about forty-five with a fair, ruddy complexion and a face WIDE at the BROW and NARROW at the JAW — a broad, high forehead, a LONG, THIN, gently AQUILINE nose, CLOSE-SET, bright hazel eyes creased by a ready smile under straight, dark-brown brows, lean cheeks, a wide, generous mouth, a NARROW, pointed chin under a SHORT, NEAT chestnut beard; thick chestnut hair around a monastic tonsure; the look warm and open-handed. Not avitus (also of Micy: lean, flat, wide, snub-nosed), the concave-profiled, clean-shaven eucherius_orleans of the same city, the round, small-featured gal_clermont, the hexagonal omer or the elfin john_egypt.",
+      "refs": [
+        "benedict",
+        "bernard_clairvaux",
+        "anthony_abbot"
+      ],
+      "basis": "No likeness survives, and Santi e Beati's notice warns that his Life was written three centuries later. The age follows the book (he came young with his uncle and ruled Micy ten years before dying in 520); the wheat and bread are the book's famine, when he 'fed nearly the whole city of Orleans with wheat from his monastery'. Micy on the Loire is from the book and the Martyrology; the serpent is left off.",
+      "sources": [
+        {
+          "title": "Wikipedia (fr), Maximin de Micy (lead: stained glass, église Saint-Mesmin)",
+          "url": "https://fr.wikipedia.org/wiki/Maximin_de_Micy"
+        },
+        {
+          "title": "Santi e Beati, San Massimino di Micy (Roman Martyrology entry, 15 December)",
+          "url": "https://www.santiebeati.it/dettaglio/81560"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-15-mesmin (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-15-mesmin.md"
+        }
+      ],
+      "catalogMatch": "St. Mesmin",
+      "lifeChapter": "dec-15-mesmin"
+    },
+    {
+      "id": "olympias",
+      "letter": "O",
+      "feast": {
+        "month": 12,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Olympias",
+        "pt-BR": "Santa Olímpia"
+      },
+      "patronOf": {
+        "en-US": "Widow and deaconess",
+        "pt-BR": "Viúva e diaconisa"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Lay not up to yourselves treasures on earth, but in heaven, where neither rust nor moth doth consume.\"",
+        "pt-BR": "\"Não ajunteis para vós tesouros na terra, mas no céu, onde nem a ferrugem nem a traça os consomem.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-17-olympias.md Reflection, the whole of it (Matthew 6:19–20) (Pictorial Lives, public domain)",
+      "subject": "St. Olympias, half-length, a noble widow of Constantinople about the year 400, a deaconess of its church: a plain, dark-brown woollen dress of good cut and over it a long deep-red mantle drawn over her head as a veil, no jewels; she holds folded white altar linen against her breast with both hands, the duty of her office. Behind her Constantinople: the long stone colonnade and bronze doors of a great timber-roofed basilica, beyond it the roofs of the city and the blue water of the Bosphorus with a few sails, under a warm, golden evening sky. Noble, recollected and generous; no lettering.",
+      "face": "A Greek noblewoman of about forty with a pale, ivory complexion and a SQUARE-OVAL face with a BROAD, STRAIGHT JAW — a smooth, broad forehead, a straight nose with a slight AQUILINE bump high on the bridge, VERY LARGE, dark, DEEP-SET, luminous eyes under THICK, dark brows that nearly MEET over the nose, cheeks a little thinned by fasting, a FULL, closed mouth, a firm, rounded chin; dark hair hidden under the veil but for a parting; the look calm and self-possessed. Not the old, heart-shaped marcella, the round, full bathildes, the short, wide radegundes, the lean, droop-eyed clotilda helena (long face, Roman nose) or the young, full-oval, light-eyed barbara.",
+      "refs": [
+        "monica",
+        "anne",
+        "catherine_siena"
+      ],
+      "basis": "No likeness survives. The large, dark eyes and heavy brows follow the icon on English Wikipedia, as a Byzantine woman of rank; the age follows Wikipedia (born about 365, died 408). The altar linen is the book's ('the duties of which were to prepare the altar linen'); the plain dress follows her giving her fortune to the poor. St. John Chrysostom is left off.",
+      "sources": [
+        {
+          "title": "Wikipedia, Olympias the Deaconess (lead: icon)",
+          "url": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+        },
+        {
+          "title": "Santi e Beati, Sant'Olimpia (Olimpiade) (Roman Martyrology entry, 25 July)",
+          "url": "https://www.santiebeati.it/dettaglio/81900"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-17-olympias (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-17-olympias.md"
+        }
+      ],
+      "catalogMatch": "St. Olympias, Widow",
+      "lifeChapter": "dec-17-olympias"
+    },
+    {
+      "id": "gatian",
+      "letter": "G",
+      "feast": {
+        "month": 12,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Gatian",
+        "pt-BR": "São Gaciano"
+      },
+      "patronOf": {
+        "en-US": "First bishop of Tours",
+        "pt-BR": "Primeiro bispo de Tours"
+      },
+      "prayerExcerpt": {
+        "en-US": "God does not ask great sacrifices from all; but in His goodness He gives us all some things to renounce or to suffer for Him, and it is by our loving submission to His will that we show ourselves to be Christians.",
+        "pt-BR": "Deus não pede de todos grandes sacrifícios; mas em Sua bondade dá a todos nós algumas coisas a renunciar ou a sofrer por Ele, e é por nossa amorosa submissão à Sua vontade que nos mostramos cristãos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-18-gatian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Gatian, half-length, a missionary bishop from Rome in third-century Gaul, bareheaded (no mitre): a plain white tunic and over it a wide, undyed cream woollen travelling cloak like a bell chasuble; a simple wooden staff in his left hand, and in his right a plain silver chalice held before his breast. Behind him a cave in the pale limestone cliffs above the Loire at Tours: inside it a small stone altar with a lamp and a few kneeling Christians in rough wool, and beyond the mouth of the cave the broad river and wooded banks under a soft dawn sky. Patient, watchful and undaunted; no pagans, no idols, no lettering.",
+      "face": "A Roman of about seventy with a sallow olive complexion and a DIAMOND-shaped face — a NARROW, BALD crown with short grey hair at the sides and back, WIDE, SHARP cheekbones, a NARROW, firm chin; a SHORT, straight nose, SMALL, DEEP-SET, watchful dark eyes under HEAVY grey brows, deep lines from the nose to a thin, patient mouth; a SHORT, POINTED grey beard; the look of a man long used to hiding and never afraid. Not his companion denis (broad, short, square, curly-haired), the long, noble remigius, the clean-shaven, long-chinned firmin, the heavy-jawed gregory_langres, the long, shield-faced saturninus_toulouse or the forked-bearded sabas.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; the Martyrology says only that he 'is said' to have come from Rome. The age follows the book (nearly fifty years of labour); the watchful face and the cave follow it too ('He assembled his little flock in grots and caves, and there celebrated the divine mysteries' and 'was obliged often to lie hid'). The chalice is for those Masses; the simple vesture keeps him apart from the mitred bishop of the Wikipedia window.",
+      "sources": [
+        {
+          "title": "Wikipedia, Gatianus of Tours (lead: stained glass, La Celle-Guenand)",
+          "url": "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+        },
+        {
+          "title": "Wikipedia (fr), Gatien de Tours",
+          "url": "https://fr.wikipedia.org/wiki/Gatien_de_Tours"
+        },
+        {
+          "title": "Santi e Beati, San Graziano (Gaziano) di Tours (Roman Martyrology entry, 18 December)",
+          "url": "https://www.santiebeati.it/dettaglio/82050"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-18-gatian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-18-gatian.md"
+        }
+      ],
+      "catalogMatch": "St. Gatian, Bishop",
+      "lifeChapter": "dec-18-gatian"
+    },
+    {
+      "id": "nemesion",
+      "letter": "N",
+      "feast": {
+        "month": 12,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Nemesion",
+        "pt-BR": "São Nemésio"
+      },
+      "patronOf": {
+        "en-US": "Martyr of Alexandria",
+        "pt-BR": "Mártir de Alexandria"
+      },
+      "prayerExcerpt": {
+        "en-US": "Can we call to mind the fervor of the Saints in laboring and suffering cheerfully for God, and not feel a holy ardor glow in our own breasts, and our souls strongly affected with their heroic sentiments of virtue?",
+        "pt-BR": "Poderemos recordar o fervor dos Santos em trabalhar e sofrer alegremente por Deus, e não sentir um santo ardor abrasar nossos próprios peitos, e nossas almas fortemente comovidas por seus heroicos sentimentos de virtude?"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-19-nemesion.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Nemesion, half-length, an Egyptian Christian layman of Alexandria in the year 250: a plain, knee-length white linen tunic with two narrow dark-red stripes from the shoulders and a light brown cloak over one shoulder; he holds a martyr's palm upright in his right hand and lays his left hand flat on his breast. Behind him Alexandria: the Great Harbour with its long stone mole, the tall white lighthouse of Pharos on its island, the colonnades and flat roofs of the city, palm trees, the blue sea under a bright, hot sky. Innocent, calm and joyful; no fire, no stake, no thieves, no lettering.",
+      "face": "An Egyptian of Alexandria of about forty with a warm, deep-bronze complexion and a LEAN, ANGULAR face with a strong, SQUARE jaw — a straight, fairly narrow forehead, HIGH, SHARP cheekbones over HOLLOW cheeks, a LONG, straight nose with a slightly flared base, deep-set, dark eyes under THICK, straight black brows, FULL lips, a square chin; thick, tightly CURLED black hair cropped short; a SHORT, CLOSE-TRIMMED, curly black beard along the jaw; the look calm and unashamed. Not peter_alexandria (round, full, grey, short-nosed), the old desert monks macarius_alexandria, pachomius (long, bald), john_egypt and paphnutius, the round, fleshy severianus_scythopolis, the bald, domed eulogius_alexandria or the veteran Tarachus of tarachus_companions (square, broken-nosed).",
+      "refs": [
+        "stephen",
+        "lawrence",
+        "moses_the_black"
+      ],
+      "basis": "No likeness survives. The one image on English Wikipedia, Spinello Aretino's 'Saint Nemesius and Saint John the Baptist' (1385, Budapest; `consult/batch-41/commons-Nemesion.txt`), is a late Tuscan altarpiece figure and is not followed. The face is typed from the book ('an Egyptian', of Alexandria) and the tunic is an Alexandrian's of the third century; the calm follows the book's account of his clearing himself of theft and going to the fire for Christ. The fire, the thieves and his companions are left off.",
+      "sources": [
+        {
+          "title": "Wikipedia, Nemesion (lead: Spinello Aretino, Saint Nemesius and Saint John the Baptist, 1385)",
+          "url": "https://en.wikipedia.org/wiki/Nemesion"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-19-nemesion (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-19-nemesion.md"
+        }
+      ],
+      "catalogMatch": "St. Nemesion",
+      "lifeChapter": "dec-19-nemesion"
+    }
+  ]
+}
