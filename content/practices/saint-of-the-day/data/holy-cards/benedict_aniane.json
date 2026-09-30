@@ -1,0 +1,49 @@
+{
+  "id": "benedict_aniane",
+  "feast": {
+    "month": 2,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Benedict of Anian",
+    "pt-BR": "São Bento de Aniane"
+  },
+  "patronOf": {
+    "en-US": "Restorer of monastic discipline",
+    "pt-BR": "Restaurador da disciplina monástica"
+  },
+  "prayerExcerpt": {
+    "en-US": "The decay of monastic discipline and its restoration by St. Benedict prove that none are safe from loss of fervor, but that all can regain it by fidelity to grace.",
+    "pt-BR": "A decadência da disciplina monástica e a sua restauração por São Bento provam que ninguém está a salvo da perda do fervor, mas que todos o podem recobrar pela fidelidade à graça."
+  },
+  "lifeChapter": "feb-12-benedict-of-anian",
+  "meta": {
+    "face": "A Visigothic noble of about seventy, lean and fair-skinned, with a LONG face whose most striking part is a very HIGH, SQUARE forehead crossed by three deep, level lines — deep-set, MOIST, pale-blue eyes that glisten as if near tears, straight grey brows, a long, thin nose with a slight CROOK in its bridge, HOLLOW cheeks under firm cheekbones, and a lean, SQUARE jaw whose line shows through a SHORT, close-trimmed white beard; a thin ring of white hair around the tonsure; the gaze searching and tender, toward us.",
+    "basis": "No portrait survives; the book's engraving shows an aged, bearded monk resting under trees, and the gilded statue at Aniane (Wikipedia lead image) and the Saint-Guilhem relief (Commons) give him a beard and the black Benedictine habit, which the card keeps. His Visigothic birth (Witiza, son of Count Aigulf) is from Wikipedia and the Catholic Encyclopedia, and the book's 'gift of tears' gives the moist eyes. He carries books, not a crozier, and a short beard, to stay clear of `benedict`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-12 reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Benedict of Aniane (lead image: statue in the church of Aniane)",
+        "url": "https://en.wikipedia.org/wiki/Benedict_of_Aniane"
+      },
+      {
+        "title": "Catholic Encyclopedia (1907), St. Benedict of Aniane",
+        "url": "https://www.newadvent.org/cathen/02467a.htm"
+      },
+      {
+        "title": "Wikimedia Commons, relief of Benedict of Aniane, Saint-Guilhem-le-Désert",
+        "url": "https://commons.wikimedia.org/wiki/File:Sant-Guilhem-1-Benet.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-12-benedict-of-anian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-12-benedict-of-anian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

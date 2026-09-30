@@ -305,16 +305,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 1 Feb · St. Bridgid, Abbess, and Patroness of Ireland · *Santa Brígida, Abadessa e Padroeira da Irlanda* · Pictorial Lives — `bridgid`
 - [x] 4 Feb · St. Jane of Valois · *Santa Joana de Valois* · Pictorial Lives — `jane_valois`
 - [x] 6 Feb · St. Dorothy, Virgin, Martyr · *Santa Doroteia, Virgem, Mártir* · Pictorial Lives — `dorothy`
-- [ ] 8 Feb · St. John of Matha · *São João de Matha* · Pictorial Lives
-- [ ] 9 Feb · St. Apollonia and the Martyrs of Alexandria · *Santa Apolônia e os Mártires de Alexandria* · Pictorial Lives
-- [ ] 11 Feb · St. Severinus, Abbot of Agaunum · *São Severino, Abade de Agauno* · Pictorial Lives
-- [ ] 12 Feb · St. Benedict of Anian · *São Bento de Aniane* · Pictorial Lives
-- [ ] 13 Feb · St. Catherine of Ricci · *Santa Catarina de Ricci* · Pictorial Lives
-- [ ] 14 Feb · St. Valentine, Priest and Martyr · *São Valentim, Sacerdote e Mártir* · Pictorial Lives
-- [ ] 15 Feb · Sts. Faustinus and Jovita, Martyrs · *São Faustino e São Jovita, Mártires* · Pictorial Lives
-- [ ] 16 Feb · Blessed John de Britto, Martyr · *Beato João de Brito, Mártir* · Pictorial Lives
-- [ ] 16 Feb · St. Onesimus, Disciple of St. Paul · *Santo Onésimo, Discípulo de São Paulo* · Pictorial Lives
-- [ ] 17 Feb · St. Flavian, Bishop, Martyr · *São Flaviano, Bispo, Mártir* · Pictorial Lives
+- [x] 8 Feb · St. John of Matha · *São João de Matha* · Pictorial Lives — `john_matha`
+- [x] 9 Feb · St. Apollonia and the Martyrs of Alexandria · *Santa Apolônia e os Mártires de Alexandria* · Pictorial Lives — `apollonia`
+- [x] 11 Feb · St. Severinus, Abbot of Agaunum · *São Severino, Abade de Agauno* · Pictorial Lives — `severinus_agaunum`
+- [x] 12 Feb · St. Benedict of Anian · *São Bento de Aniane* · Pictorial Lives — `benedict_aniane`
+- [x] 13 Feb · St. Catherine of Ricci · *Santa Catarina de Ricci* · Pictorial Lives — `catherine_ricci`
+- [x] 14 Feb · St. Valentine, Priest and Martyr · *São Valentim, Sacerdote e Mártir* · Pictorial Lives — `valentine`
+- [x] 15 Feb · Sts. Faustinus and Jovita, Martyrs · *São Faustino e São Jovita, Mártires* · Pictorial Lives — `faustinus_jovita`
+- [x] 16 Feb · Blessed John de Britto, Martyr · *Beato João de Brito, Mártir* · Pictorial Lives — `john_britto`
+- [x] 16 Feb · St. Onesimus, Disciple of St. Paul · *Santo Onésimo, Discípulo de São Paulo* · Pictorial Lives — `onesimus`
+- [x] 17 Feb · St. Flavian, Bishop, Martyr · *São Flaviano, Bispo, Mártir* · Pictorial Lives — `flavian`
 - [ ] 18 Feb · St. Simeon, Bishop, Martyr · *São Simeão, Bispo, Mártir* · Pictorial Lives
 - [ ] 19 Feb · St. Barbatus, Bishop · *São Barbato, Bispo* · Pictorial Lives
 - [ ] 20 Feb · St. Eucherius, Bishop · *Santo Euquério, Bispo* · Pictorial Lives

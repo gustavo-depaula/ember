@@ -1,0 +1,49 @@
+{
+  "id": "catherine_ricci",
+  "feast": {
+    "month": 2,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Catherine of Ricci",
+    "pt-BR": "Santa Catarina de Ricci"
+  },
+  "patronOf": {
+    "en-US": "Dominican nun of Prato",
+    "pt-BR": "Monja dominicana de Prato"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I long to suffer all imaginable pains, that souls may quickly see and praise their Redeemer.\"",
+    "pt-BR": "\"Anseio por sofrer todas as dores imagináveis, para que as almas vejam e louvem prontamente o seu Redentor.\""
+  },
+  "lifeChapter": "feb-13-catherine-of-ricci",
+  "meta": {
+    "face": "A Florentine woman of about forty-five with a fair complexion and a natural HIGH COLOUR on the cheeks, and a BROAD, full, MOON-SHAPED face — WIDE, FLAT cheeks, a SHORT, broad nose with rounded, slightly FLARED nostrils, SMALL, WIDE-SET grey eyes under HEAVY upper lids, FAINT, thin brows set HIGH above them, a small, soft mouth with a full lower lip, just parted, and a soft, rounded chin; hair hidden by the white wimple and veil; a quiet, open gaze straight at us.",
+    "basis": "The portrait of 'B. Catherina de Ricciis Florentina' in the Museo Civico of Montepulciano, attributed on Commons to Giovanni Battista Naldini (1535–1591), her contemporary, shows a broad, flat-cheeked, high-coloured face with a short broad nose, small heavy-lidded grey eyes and a small parted mouth, in a white habit and white veil holding a book; the card follows it. Dates and Prato are from Wikipedia and the Catholic Encyclopedia. The white veil, the book and the broad face keep her apart from `catherine_siena`.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-13-catherine-of-ricci.md, her words during her sufferings for a soul in purgatory (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Giovanni Battista Naldini (attr.), portrait of Bl. Catherine de' Ricci, Museo Civico, Montepulciano",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_battista_naldini,_ritratto_della_beata_caterina_de%27_ricci.jpg"
+      },
+      {
+        "title": "Catholic Encyclopedia (1908), St. Catherine de' Ricci",
+        "url": "https://www.newadvent.org/cathen/03444a.htm"
+      },
+      {
+        "title": "Wikipedia, Catherine de' Ricci",
+        "url": "https://en.wikipedia.org/wiki/Catherine_de%27_Ricci"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-13-catherine-of-ricci (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-13-catherine-of-ricci.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "apollonia",
+  "feast": {
+    "month": 2,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Apollonia",
+    "pt-BR": "Santa Apolônia"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr of Alexandria",
+    "pt-BR": "Virgem e mártir de Alexandria"
+  },
+  "prayerExcerpt": {
+    "en-US": "The least suffering for the faith, borne with humility and courage, is the proof that Christ has heard our prayer.",
+    "pt-BR": "O menor sofrimento pela fé, suportado com humildade e coragem, é a prova de que Cristo ouviu a nossa oração."
+  },
+  "lifeChapter": "feb-09-apollonia-and-the",
+  "meta": {
+    "face": "An Alexandrian woman of about sixty-five with a warm olive complexion and a SHORT, WIDE face — a BROAD, LOW forehead, smooth, full cheeks and a SMALL, soft, rounded chin; very LARGE, dark, luminous eyes, CLOSE-SET, like those of a Fayum portrait, under THICK, strongly ARCHED black brows flecked with grey that nearly MEET above the nose; a LONG, slender nose with a narrow bridge and a gentle HOOK; a small, full mouth closed calmly; fine lines at the eyes; a few grey-streaked black waves showing under the veil; her gaze lifted a little, steadfast.",
+    "basis": "No likeness survives. The book, following Dionysius of Alexandria, calls her 'an aged virgin' (the Catholic Encyclopedia reads virgo presbytera as possibly a deaconess), so she is shown old, not as the young girl of Zurbarán; the pincers holding a tooth are her sign in art (Catholic Encyclopedia). The Fayum-portrait eyes and brows, a real Roman Egyptian type, are our choice for the structure.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-09 reflection, closing clause, capitalised (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Catholic Encyclopedia (1907), St. Apollonia (Dionysius's letter; pincers with a tooth in art)",
+        "url": "https://www.newadvent.org/cathen/01617c.htm"
+      },
+      {
+        "title": "Wikipedia, Saint Apollonia (lead image: Zurbarán, Saint Apollonia, Louvre)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Apollonia"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-09-apollonia-and-the (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-09-apollonia-and-the.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

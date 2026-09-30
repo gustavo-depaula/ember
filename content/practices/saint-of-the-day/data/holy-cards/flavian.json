@@ -1,0 +1,49 @@
+{
+  "id": "flavian",
+  "feast": {
+    "month": 2,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Flavian",
+    "pt-BR": "São Flaviano"
+  },
+  "patronOf": {
+    "en-US": "Patriarch of Constantinople, martyr",
+    "pt-BR": "Patriarca de Constantinopla, mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "By his unswerving loyalty to the Vicar of Christ, Flavian held fast to the truth and gained the martyr's crown.",
+    "pt-BR": "Por sua inabalável lealdade ao Vigário de Cristo, Flaviano apegou-se firmemente à verdade e ganhou a coroa do martírio."
+  },
+  "lifeChapter": "feb-17-flavian",
+  "meta": {
+    "face": "A Greek of about fifty-eight with a light olive complexion and a face of HIGH, rounded cheekbones over SUNKEN temples — a SHORT, flat forehead with the grey hair growing LOW on it in short, tight curls, a LONG, thin, BEAKED nose, CLOSE-SET, deep-set grey eyes under straight grey brows, lean cheeks, a small, firm mouth, and a LONG, NARROW chin carried down by a long, narrow, POINTED grey beard; the gaze calm and unflinching, toward us.",
+    "basis": "No likeness survives. The Menologion of Basil II (Wikipedia lead image) and a modern icon (Commons) show him bearded in a phelonion and omophorion, which the card keeps; the book's engraving shows him mitred and bearded before Dioscorus. The appeal to Rome is the book's and the Catholic Encyclopedia's. The low curly hairline, beaked nose and narrow pointed beard are our choice, kept apart from the set's other Greek bishops.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-17 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Flavian of Constantinople (lead image: Menologion of Basil II)",
+        "url": "https://en.wikipedia.org/wiki/Flavian_of_Constantinople"
+      },
+      {
+        "title": "Catholic Encyclopedia (1909), St. Flavian",
+        "url": "https://www.newadvent.org/cathen/06098c.htm"
+      },
+      {
+        "title": "Wikimedia Commons, icon of St. Flavian (Flavianos.jpg)",
+        "url": "https://commons.wikimedia.org/wiki/File:Flavianos.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-17-flavian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-17-flavian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

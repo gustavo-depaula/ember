@@ -1,0 +1,45 @@
+{
+  "id": "john_britto",
+  "feast": {
+    "month": 2,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. John de Britto",
+    "pt-BR": "São João de Brito"
+  },
+  "patronOf": {
+    "en-US": "Jesuit, martyr in India",
+    "pt-BR": "Jesuíta, mártir na Índia"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"God, Who called me from the world into religious life, now calls me from Portugal to India.\"",
+    "pt-BR": "\"Deus, que me chamou do mundo para a vida religiosa, chama-me agora de Portugal para a Índia.\""
+  },
+  "lifeChapter": "feb-16-blessed-john-de-britto",
+  "meta": {
+    "face": "A Portuguese nobleman of about forty-five, deeply sun-browned by India, with a LEAN, LONG face — HIGH, sharply cut cheekbones with DEEP HOLLOWS beneath them, a NARROW, very HIGH-BRIDGED nose, large, dark, deep-set, burning eyes under strong, ARCHED black brows, a wide forehead, a firm mouth; black hair under the saffron turban-cloth; a full black beard, cut round and not too long, framing the hollow cheeks; the gaze lifted a little, ardent.",
+    "basis": "No portrait from life is known to us; the popular image (Wikipedia lead image) shows him bearded in a cream-and-saffron sannyasi's shawl and red cap with a crucifix and palm. The Catholic Encyclopedia says 'his dress was yellow cotton' and that he lived as a Tamil ascetic; Oriyur on the Marava coast is where he was beheaded. The lean, hollow-cheeked face is our choice, kept apart from `francis_xavier` (oval, in black) by the saffron dress and the structure.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-16-blessed-john-de-britto.md, his reply to the Papal Nuncio (Pictorial Lives, public domain). The 02-16 index reflection is his chapter's (a line of the Imitation of Christ, not his own)",
+    "sources": [
+      {
+        "title": "Wikipedia, John de Britto (lead image: devotional picture; canonized 1947)",
+        "url": "https://en.wikipedia.org/wiki/John_de_Britto"
+      },
+      {
+        "title": "Catholic Encyclopedia (1910), Bl. John de Britto",
+        "url": "https://www.newadvent.org/cathen/08461a.htm"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-16-blessed-john-de-britto (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-16-blessed-john-de-britto.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}
