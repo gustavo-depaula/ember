@@ -315,16 +315,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 16 Feb · Blessed John de Britto, Martyr · *Beato João de Brito, Mártir* · Pictorial Lives — `john_britto`
 - [x] 16 Feb · St. Onesimus, Disciple of St. Paul · *Santo Onésimo, Discípulo de São Paulo* · Pictorial Lives — `onesimus`
 - [x] 17 Feb · St. Flavian, Bishop, Martyr · *São Flaviano, Bispo, Mártir* · Pictorial Lives — `flavian`
-- [ ] 18 Feb · St. Simeon, Bishop, Martyr · *São Simeão, Bispo, Mártir* · Pictorial Lives
-- [ ] 19 Feb · St. Barbatus, Bishop · *São Barbato, Bispo* · Pictorial Lives
-- [ ] 20 Feb · St. Eucherius, Bishop · *Santo Euquério, Bispo* · Pictorial Lives
-- [ ] 21 Feb · St. Severianus, Martyr, Bishop · *São Severiano, Mártir, Bispo* · Pictorial Lives
-- [ ] 23 Feb · St. Serenus, a Gardener, Martyr · *São Sereno, um Jardineiro, Mártir* · Pictorial Lives
-- [ ] 25 Feb · St. Tarasius · *São Tarásio* · Pictorial Lives
-- [ ] 26 Feb · St. Porphyry, Bishop · *São Porfírio, Bispo* · Pictorial Lives
-- [ ] 27 Feb · St. Leander, Bishop · *São Leandro, Bispo* · Pictorial Lives
-- [ ] 28 Feb · Sts. Romanus and Lupicinus, Abbots · *São Romano e São Lupicino, Abades* · Pictorial Lives
-- [ ] 29 Feb · St. Oswald, Bishop · *Santo Osvaldo, Bispo* · Pictorial Lives
+- [x] 18 Feb · St. Simeon, Bishop, Martyr · *São Simeão, Bispo, Mártir* · Pictorial Lives — `simeon_jerusalem`
+- [x] 19 Feb · St. Barbatus, Bishop · *São Barbato, Bispo* · Pictorial Lives — `barbatus`
+- [x] 20 Feb · St. Eucherius, Bishop · *Santo Euquério, Bispo* · Pictorial Lives — `eucherius_orleans`
+- [x] 21 Feb · St. Severianus, Martyr, Bishop · *São Severiano, Mártir, Bispo* · Pictorial Lives — `severianus_scythopolis`
+- [x] 23 Feb · St. Serenus, a Gardener, Martyr · *São Sereno, um Jardineiro, Mártir* · Pictorial Lives — `serenus`
+- [x] 25 Feb · St. Tarasius · *São Tarásio* · Pictorial Lives — `tarasius`
+- [x] 26 Feb · St. Porphyry, Bishop · *São Porfírio, Bispo* · Pictorial Lives — `porphyry_gaza`
+- [x] 27 Feb · St. Leander, Bishop · *São Leandro, Bispo* · Pictorial Lives — `leander`
+- [x] 28 Feb · Sts. Romanus and Lupicinus, Abbots · *São Romano e São Lupicino, Abades* · Pictorial Lives — `romanus_lupicinus`
+- [x] 29 Feb · St. Oswald, Bishop · *Santo Osvaldo, Bispo* · Pictorial Lives — `oswald_worcester`
 - [ ] 1 Mar · St. David, Bishop · *São David, Bispo* · Pictorial Lives
 - [ ] 1 Mar · St. Albinus, Bishop · *Santo Albino, Bispo* · Pictorial Lives
 - [ ] 2 Mar · St. Simplicius, Pope · *São Simplício, Papa* · Pictorial Lives

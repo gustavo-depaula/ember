@@ -1,0 +1,45 @@
+{
+  "id": "barbatus",
+  "feast": {
+    "month": 2,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Barbatus",
+    "pt-BR": "São Barbato"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Benevento",
+    "pt-BR": "Bispo de Benevento"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"When the enemy has been cast out of your hearts, renounce him, not only in word, but in work; not only by the sound of the lips, but in every act of your life.\"",
+    "pt-BR": "\"Quando o inimigo houver sido expulso de vossos corações, renunciai-o, não somente em palavra, mas em obra; não somente pelo som dos lábios, mas em cada ato de vossa vida.\""
+  },
+  "lifeChapter": "feb-19-barbatus",
+  "meta": {
+    "face": "A Samnite Italian of about sixty-five with a ruddy, sun-browned complexion and a BROAD face with a wide, FLAT-TOPPED, low forehead — a LARGE, FLESHY, BULBOUS nose, small, bright, laughing black eyes set in a web of creases, thick, bushy, straight black-and-grey brows, full, rosy cheeks, a wide, mobile mouth; grey hair cropped round the head; a GREAT, BUSHY, salt-and-pepper beard spreading WIDE over the chest; the gaze eager, as of a preacher about to speak.",
+    "basis": "No likeness survives; the book's engraving shows him preaching from an ambo. The chalice made from the golden viper and the felling of the walnut tree are from English and Italian Wikipedia (the 'noce delle streghe'); the book tells only the viper and the tree. The bulbous nose and the great spreading beard are our choice, the beard after his name.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-19 reflection, the words of St. Augustine it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Barbatus of Benevento (the chalice and the walnut tree)",
+        "url": "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+      },
+      {
+        "title": "Wikipedia (it), Barbato di Benevento (lead image: San Barbato fells the walnut tree)",
+        "url": "https://it.wikipedia.org/wiki/Barbato_di_Benevento"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-19-barbatus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-19-barbatus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

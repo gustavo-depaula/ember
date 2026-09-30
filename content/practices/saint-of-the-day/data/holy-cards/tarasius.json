@@ -1,0 +1,49 @@
+{
+  "id": "tarasius",
+  "feast": {
+    "month": 2,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Tarasius",
+    "pt-BR": "São Tarásio"
+  },
+  "patronOf": {
+    "en-US": "Patriarch of Constantinople",
+    "pt-BR": "Patriarca de Constantinopla"
+  },
+  "prayerExcerpt": {
+    "en-US": "The highest praise which Scripture pronounces on the holy man Job is comprised in these words, \"He was simple and upright.\"",
+    "pt-BR": "O mais alto louvor que a Escritura pronuncia sobre o santo homem Jó está contido nestas palavras: \"Era simples e reto.\""
+  },
+  "lifeChapter": "feb-25-tarasius",
+  "meta": {
+    "face": "A Byzantine noble of about seventy with a fair, lightly olive complexion and a full OVAL face — a HIGH, BALD, DOMED forehead with a single grey wisp at the top, heavy-lidded, almond-shaped dark eyes with soft pouches beneath, arched grey brows, a straight nose with a broad bridge, FULL, soft cheeks, a small, full-lipped mouth; grey-brown hair at the sides and back, falling to the nape; a LONG, WEDGE-SHAPED beard of grey-brown combed in waves and ending in a POINT at mid-chest; the gaze gentle and composed.",
+    "basis": "No likeness from life. The Painter's Manual gives 'vieillard, barbe en pointe', and the fourteenth-century Peribleptos fresco (Wikipedia lead image, local copy) shows a long face, a high bare forehead and a long, pointed brown-grey beard in a polystavrion; the card follows both. The book's engraving shows him mitred, rebuking the emperor. Hagia Sophia stood in his day.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-25 reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, fresco of St. Tarasios, Church of the Theotokos Peribleptos (14th century)",
+        "url": "https://commons.wikimedia.org/wiki/File:Agios_Tarasios_Peribleptos.jpg"
+      },
+      {
+        "title": "Wikipedia, Patriarch Tarasios of Constantinople",
+        "url": "https://en.wikipedia.org/wiki/Tarasius_of_Constantinople"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-25-tarasius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-25-tarasius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

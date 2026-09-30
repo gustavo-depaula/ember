@@ -1,0 +1,45 @@
+{
+  "id": "simeon_jerusalem",
+  "feast": {
+    "month": 2,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Simeon of Jerusalem",
+    "pt-BR": "São Simeão de Jerusalém"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Jerusalem and martyr",
+    "pt-BR": "Bispo de Jerusalém e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "When shall we begin to study to crucify our passions and die to ourselves, that we may lay a solid foundation of true virtue and establish its reign in our hearts?",
+    "pt-BR": "Quando começaremos a estudar como crucificar as nossas paixões e morrer para nós mesmos, a fim de lançarmos um sólido fundamento de verdadeira virtude e estabelecermos o seu reinado em nossos corações?"
+  },
+  "lifeChapter": "feb-18-simeon",
+  "meta": {
+    "face": "A Jew of great age, well past a hundred, with a warm, weathered olive complexion and a LONG, NARROW, HATCHET-SHAPED face, keeled down the middle like a blade — a high, narrow forehead, a LONG, THIN, perfectly STRAIGHT nose, small, bright, very dark eyes set DEEP under a jutting brow, sunken temples and cheeks, two deep vertical furrows from nose to mouth, thin lips; long, thin, STRAIGHT white hair falling to the shoulders from a high bald crown; a SPARSE, wispy white beard, straight and thin, reaching only the collarbone, with a thin white moustache; the gaze clear and unafraid, toward us.",
+    "basis": "No likeness survives. The Painter's Manual has 'Siméon, frère du Seigneur : très-vieux', and the book has him crucified at a hundred and twenty; its engraving shows a haloed old man with a staff reproaching the Jews in Jerusalem, and the card keeps the staff. The hatchet face, the bare head and the sparse beard are our choice, to keep him apart from the set's other white-bearded elders and from `john_damascene`'s head-cloth.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-18 reflection, last sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Simeon of Jerusalem",
+        "url": "https://en.wikipedia.org/wiki/Simeon_of_Jerusalem"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-18-simeon (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-18-simeon.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

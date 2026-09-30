@@ -1,0 +1,45 @@
+{
+  "id": "serenus",
+  "feast": {
+    "month": 2,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Serenus the Gardener",
+    "pt-BR": "São Sereno, o Jardineiro"
+  },
+  "patronOf": {
+    "en-US": "Gardener and martyr",
+    "pt-BR": "Jardineiro e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "The garden affords a beautiful emblem of a Christian's continual progress in the path of virtue.",
+    "pt-BR": "O jardim oferece um belo emblema do contínuo progresso de um cristão no caminho da virtude."
+  },
+  "lifeChapter": "feb-23-serenus-a-gardener",
+  "meta": {
+    "face": "A Greek of about forty-five, sun-darkened and weathered from the soil, with a LEAN, ANGULAR face and a CLASSICAL GREEK PROFILE — the long, straight nose running on from the forehead with almost no dip at the bridge, SHARP, HIGH cheekbones with hollows beneath, a LONG, strong jaw, deep-set green-brown eyes with fine crow's feet, level black brows, a WIDE, thin-lipped mouth; short-cropped black hair greying at the temples; a close-trimmed short black beard following the jaw; a steady, open gaze.",
+    "basis": "No likeness survives; the book's engraving shows a bearded, robed gardener with a spade and watering pot rebuking the woman at his garden fence, and the card keeps the spade and the garden. His Greek birth and Sirmium are the book's; Sirmium lay on the Sava (Wikipedia). The classical profile is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-23-serenus-a-gardener.md, first sentence of the Reflection (the 02-23 index reflection is St. Peter Damian's) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Serenus the Gardener (lead image: window at Saint-Cerneuf, Billom)",
+        "url": "https://en.wikipedia.org/wiki/Serenus_the_Gardener"
+      },
+      {
+        "title": "Wikipedia, Sirmium (on the Sava)",
+        "url": "https://en.wikipedia.org/wiki/Sirmium"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-23-serenus-a-gardener (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-23-serenus-a-gardener.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

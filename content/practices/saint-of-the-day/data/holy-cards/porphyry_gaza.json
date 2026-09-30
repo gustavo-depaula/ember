@@ -1,0 +1,45 @@
+{
+  "id": "porphyry_gaza",
+  "feast": {
+    "month": 2,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Porphyry of Gaza",
+    "pt-BR": "São Porfírio de Gaza"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Gaza",
+    "pt-BR": "Bispo de Gaza"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us ask St. Porphyry for a great zeal in keeping this commandment, lest we be led away, as so many are, by a curious and prying mind.",
+    "pt-BR": "Peçamos a São Porfírio um grande zelo em guardar este mandamento, para que não sejamos desviados, como tantos o são, por uma mente curiosa e indiscreta."
+  },
+  "lifeChapter": "feb-26-porphyry",
+  "meta": {
+    "face": "A Greek of Thessalonica of about sixty-five, worn lean by desert penance, with a light olive complexion and a DIAMOND-SHAPED face — a NARROW forehead and a NARROW chin, broadest at WIDE, jutting cheekbones; a SHORT, straight nose with a LOW bridge; very LARGE, PROMINENT dark eyes under thin, arched brows; a wide, thin-lipped mouth; a BALD crown with dark-grey hair left long at the back and sides; a long, STRAIGHT, dark beard streaked with grey, narrowing to the breast; the gaze wide and earnest.",
+    "basis": "No portrait survives. The sixteenth-century fresco at Dionysiou on Mount Athos (Wikipedia lead image, local copy) shows him balding with a long dark beard greying, in a phelonion with crosses; the card keeps those. The relics of the Cross and the church over the temple of Gaza, paved with its marbles, are the book's; his age (bishop at forty-five, died 420) follows Wikipedia on the Vita by Mark the Deacon. The diamond face is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-26 reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, St. Porphyry of Gaza, fresco by Tzortzis (Zorzis Fuka), Dionysiou Monastery, Mount Athos",
+        "url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D1%80%D1%84%D0%B8%D1%80%D0%B8%D0%B9_%D0%93%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+      },
+      {
+        "title": "Wikipedia, Porphyry of Gaza",
+        "url": "https://en.wikipedia.org/wiki/Porphyry_of_Gaza"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-26-porphyry (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-26-porphyry.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

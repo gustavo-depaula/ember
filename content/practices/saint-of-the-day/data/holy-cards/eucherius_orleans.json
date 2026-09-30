@@ -1,0 +1,41 @@
+{
+  "id": "eucherius_orleans",
+  "feast": {
+    "month": 2,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Eucherius of Orléans",
+    "pt-BR": "Santo Euquério de Orléans"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Orléans",
+    "pt-BR": "Bispo de Orléans"
+  },
+  "prayerExcerpt": {
+    "en-US": "Nothing softens the soul and weakens piety so much as frivolous indulgence.",
+    "pt-BR": "Nada amolece a alma e enfraquece a piedade tanto quanto a indulgência frívola."
+  },
+  "lifeChapter": "feb-20-eucherius",
+  "meta": {
+    "face": "A Frank of Orléans of about fifty-five, CLEAN-SHAVEN, with a fair complexion and a face with a CONCAVE, DISHED PROFILE — a rounded, prominent forehead, a SHORT, softly SCOOPED nose, and a firm, FORWARD chin, so that the profile curves in like a crescent; deep-set, long-lashed grey-green eyes set close under STRAIGHT, low fair brows; smooth, flat cheeks; full, calm lips; a LONG, slender neck; light-brown hair greying, cut in a monk's crown round the tonsure; a pensive gaze, lowered a little toward the poor.",
+    "basis": "No likeness survives; the book's engraving shows him mitred at a church door giving bread from a basket to the poor, and the card keeps the basket and the bread. His monastic years at Jumièges, the exile and Saint-Trond are from the book and Wikipedia. The dished profile is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-20 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eucherius of Orléans (lead image: window at Sint-Truiden)",
+        "url": "https://en.wikipedia.org/wiki/Eucherius_of_Orl%C3%A9ans"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-20-eucherius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-20-eucherius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}
