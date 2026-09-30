@@ -10,9 +10,6 @@ import { useMutation, useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useMemo } from 'react'
 
-import { getEntry, getRememberedManifest } from '@/content/contentIndex'
-import type { PracticeManifest } from '@/content/manifestTypes'
-import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { useEventStore } from '@/db/events'
 import { getPreference, recordHolyCardCopy, setPreference } from '@/db/repositories'
 import { useCompletionRange } from '@/features/plan-of-life/completion'
@@ -21,7 +18,7 @@ import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { liturgicalActs } from './acts'
-import { type HolyCard, useHolyCards } from './useHolyCards'
+import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
 
@@ -50,16 +47,6 @@ function catalogOf(cards: HolyCard[], starters: string[]): Catalog {
   }
 }
 
-function useStarters(): string[] {
-  const catalogVersion = useCatalogVersion()
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion re-reads the manifest as the catalog warms
-  return useMemo(() => {
-    const entry = getEntry('practice/saint-of-the-day')
-    if (!entry) return []
-    return getRememberedManifest<PracticeManifest>(entry.hash)?.holyCardStarters ?? []
-  }, [catalogVersion])
-}
-
 /**
  * The holy cards waiting to be redeemed today — sealed envelopes, soonest
  * deadline first. Undefined while the calendar and the cards load.
@@ -67,8 +54,7 @@ function useStarters(): string[] {
 export function usePendingHolyCards(): Grant[] | undefined {
   const today = format(useToday(), 'yyyy-MM-dd')
   const scope = scopeForContentLang(usePreferencesStore((s) => s.contentLanguage))
-  const cards = useHolyCards()
-  const starters = useStarters()
+  const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
     queryKey: ['of-calendar'],
     queryFn: async () => (await loadOfCalendar()) ?? null,
@@ -79,21 +65,29 @@ export function usePendingHolyCards(): Grant[] | undefined {
     queryFn: holyCardsSince,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const completions = useCompletionRange(historyStart(today), today)
+  const start = useMemo(() => historyStart(today), [today])
+  const completions = useCompletionRange(start, today)
   const copies = useEventStore((s) => s.holyCards)
 
+  // Memoized apart so a completion or a redeem re-runs only the step it changes.
+  const acts = useMemo(() => liturgicalActs(completions), [completions])
+  const catalog = useMemo(
+    () => holyCards && catalogOf(holyCards.cards, holyCards.starters),
+    [holyCards],
+  )
+
   return useMemo(() => {
-    if (!statics || !cards || !since) return undefined
+    if (!statics || !catalog || !since) return undefined
     return pendingCards({
-      acts: liturgicalActs(completions),
+      acts,
       occurrences: [],
       calendar: { statics, scope },
-      catalog: catalogOf(cards, starters),
+      catalog,
       firstOpened: since,
       copies: [...copies.values()],
       today,
     })
-  }, [statics, cards, since, completions, copies, scope, starters, today])
+  }, [statics, catalog, since, acts, copies, scope, today])
 }
 
 /** Redeem an envelope: store its copy for good. `card` is the pick when it offers a choice. */

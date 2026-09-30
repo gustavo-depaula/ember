@@ -182,7 +182,8 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
     }
 
     case 'HolyCardRedeemed': {
-      draft.holyCards.set(event.grant, { grant: event.grant, card: event.card, date: event.date })
+      const { type, ...copy } = event
+      draft.holyCards.set(copy.grant, copy)
       break
     }
 

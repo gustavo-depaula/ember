@@ -1,7 +1,6 @@
 import { useQuery } from '@tanstack/react-query'
 
-import { getEntry, getRememberedManifest } from '@/content/contentIndex'
-import type { PracticeManifest } from '@/content/manifestTypes'
+import { getManifest } from '@/content/resolver'
 import { getJson } from '@/content/store'
 import type { LocalizedText } from '@/content/types'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -27,26 +26,30 @@ type HolyCardsData = {
 const DATA_NAME = 'holy-cards'
 
 /**
- * The bespoke holy-card catalog — name, feast, patron, and prayer for every
- * hand-illustrated saint. Served as one small blob on the saint-of-the-day
- * practice and fetched once on demand, so new cards ship through Hearth (data +
- * image) rather than an app release. Returns undefined while the catalog warms
- * or the blob is in flight.
+ * The bespoke holy-card catalog and the pool of starter cards offered on first
+ * open. Served on the saint-of-the-day practice (the cards as one small blob,
+ * fetched once on demand), so new cards ship through Hearth (data + image)
+ * rather than an app release. Undefined while the catalog warms or the blob is
+ * in flight.
  */
-export function useHolyCards(): HolyCard[] | undefined {
+export function useHolyCardCatalog(): { cards: HolyCard[]; starters: string[] } | undefined {
   const catalogVersion = useCatalogVersion()
   const { data } = useQuery({
     queryKey: ['holy-cards', catalogVersion],
     queryFn: async () => {
-      const entry = getEntry('practice/saint-of-the-day')
-      if (!entry) return undefined
-      const manifest = getRememberedManifest<PracticeManifest>(entry.hash)
+      const manifest = getManifest('practice/saint-of-the-day')
       const ref = manifest?.dataHashes?.find((d) => d.name === DATA_NAME)
-      if (!ref) return undefined
+      if (!ref) return null
       const parsed = await getJson<HolyCardsData>(ref.hash)
-      return parsed?.cards
+      if (!parsed) return null
+      return { cards: parsed.cards, starters: manifest?.holyCardStarters ?? [] }
     },
     staleTime: Number.POSITIVE_INFINITY,
   })
   return data ?? undefined
+}
+
+/** The bespoke holy cards — name, feast, patron, and prayer for every hand-illustrated saint. */
+export function useHolyCards(): HolyCard[] | undefined {
+  return useHolyCardCatalog()?.cards
 }

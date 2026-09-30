@@ -40,7 +40,7 @@ export type Completion = {
  * A holy card redeemed for good: `grant` is the engine's stable id for the act
  * that won it (`mass:2026-10-04`), `date` the day it was redeemed.
  */
-export type HolyCardCopy = { grant: string; card: string; date: string }
+export type { Copy as HolyCardCopy } from '@ember/holy-cards'
 
 export type Cursor = {
   id: string
