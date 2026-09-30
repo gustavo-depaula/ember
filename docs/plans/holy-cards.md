@@ -8,7 +8,7 @@ The collectibility layer for the saints gallery (Devotion pillar, Engagement tra
 
 ## Principle
 
-Holy cards are **given, not earned** — at a First Communion, a funeral, a feast. A card marks a real act of the Church's life (Mass, a season kept, a novena prayed), never app activity. The act is the point; the card remembers it, and receiving it is itself a small act: you pray with the saint before the envelope opens.
+Holy cards are **given, not earned** — at a First Communion, a funeral, a feast. A card marks a real act of the Church's life (Mass, the Divine Office, a season kept, a novena prayed), never app activity. The act is the point; the card remembers it, and receiving it is itself a small act: you pray with the saint before the envelope opens.
 
 It must feel like a missal, not a game:
 
@@ -25,7 +25,8 @@ It must feel like a missal, not a game:
 
 | Act | Card |
 |---|---|
-| Mass on a day with a saint (solemnity, feast, obligatory or optional memorial) | That saint |
+| Mass on a day with a saint on the current calendar | That saint (the highest-ranked; you pick among equals) |
+| The Divine Office, any hour, on a saint's assigned day | A saint not on the current calendar, assigned that day |
 | Sunday Mass after a faithful week | The next Roman Canon saint |
 | Weekday Mass with no saint (or whose saint has no card yet) | A liturgical card: a part of the Mass, a liturgical object, or a vestment |
 | A novena, finished | The card it is prayed to |
@@ -37,7 +38,7 @@ It must feel like a missal, not a game:
 | Finishing a saint's book | That saint (e.g. *Story of a Soul* → Thérèse) |
 | First open | Two starter cards the user picks from a pool |
 
-Praying at home never mints a feast card: a saint with a feast at Mass comes only through Mass.
+A saint on the current calendar comes only through Mass; the Office gives only the saints who have no Mass.
 
 ### Attending Mass
 
@@ -47,7 +48,8 @@ Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the pla
 
 When several per-Mass doors are due on the same day: **day's saint → Canon saint → liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a novena finishing the same day) — each its own act, each its own card.
 
-- **Several saints on one day:** the first one not yet held; if all are held, a copy of the first.
+- **Rank decides:** the day's highest-ranked celebration — solemnity, then feast, then obligatory memorial, then optional memorial.
+- **Equals, you pick:** when several share the top rank (typically optional memorials), you choose whose card it is, on the envelope.
 - **No art yet:** if the day's saint has no card drawn yet, that Mass gives a liturgical card instead — the same as a day with no saint.
 
 ### Roman Canon saints (Sundays)
@@ -62,11 +64,18 @@ The list must come from the Missal's Eucharistic Prayer I — it is not in the r
 
 Weekday Mass with no saint — or whose saint has no card yet — gives one liturgical card from the pool of the parts of the Mass (entrance, Kyrie, Gloria, readings, … dismissal), liturgical objects (thurible, ambo, chalice, paten, …) and vestments (amice, alb, cincture, stole, chasuble, …) — drawn at random, unheld first, every candidate equally likely; once all are held, copies. The draw is seeded by the act (date + door), so it's stable. Each back explains the part, object or vestment. Source the parts from the Order of Mass in `practice/mass`, not from memory.
 
+### The Divine Office (saints not on the current calendar)
+
+Every saint in the catalog who isn't on the current Roman calendar — the Pictorial Lives saints, the saints canonized since 2022, figures like Philomena — is **assigned a day**: their day in the Roman Martyrology (their *dies natalis*) by default; where there is none, a day we set (Philomena: 11 August, her old feast). The day is researched with the card, like its `lifeChapter` and `proper`.
+
+- **Praying any hour of the Divine Office** on that day gives one of the saints assigned to it: the Liturgy of the Hours, the Roman Breviary (any edition) or the monastic breviary. The Little Offices don't count — they're devotions, not the Office.
+- **Several on one day, you pick**, on the envelope, as at Mass.
+- **Independent of Mass**, so a day can bring two envelopes: the calendar saint from Mass, the assigned saint from the Office.
+- The Office never gives a calendar saint, and Mass never gives an assigned one.
+
 ### Novenas
 
 Finishing a novena (all nine days of its program) gives the card it is prayed to: the Guadalupe novena gives Our Lady of Guadalupe, the St. Joseph novena gives Joseph, the Holy Spirit novena gives Pentecost. Each novena's `manifest.json` names its card; a generic novena ("any saint", "any Marian feast") gives the saint or title the user prays it to. One novena, one card.
-
-The saints with no feast at Mass (the Pictorial Lives saints not on the current calendar, the saints canonized since 2022) have no door of their own: they come through a novena prayed to them, a practice lineage, a finished book, or the starter pool.
 
 ### Seasons
 
@@ -107,7 +116,7 @@ A won card arrives **sealed**: an envelope first in Today's featured carousel (s
 
 **Redeeming** (prototyped on the branch `prototype/holy-card-redeem`, route `ember://dev/redeem-prototype`):
 
-1. **The envelope** — paper, a wax seal with a gold ✠, the saint's name and the date written on it, how it was won, and when it must be opened by. The card's holographic sheen crosses it now and then, and under a finger it tilts and shimmers: a hint of what's inside.
+1. **The envelope** — paper, a wax seal with a gold ✠, the saint's name and the date written on it, how it was won, and when it must be opened by. When the act offers several saints of equal standing, the envelope lists them and you choose whose it is before praying. The card's holographic sheen crosses it now and then, and under a finger it tilts and shimmers: a hint of what's inside.
 2. **A short introduction and the prayer**, on one page — two or three sentences written for the card (drawn from its Pictorial Lives entry), then "Let us pray" with the collect of the saint's Mass (or the card's prayer excerpt when there's none), and **Amen**.
 3. **The opening** — the seal splits, the flap swings up, the card rises out shimmering and settles full-size.
 4. **After** — "Read his life" under the card slides up the full Pictorial Lives entry and its reflection. The long reading comes after the reveal, as a reward rather than a toll.
@@ -118,7 +127,7 @@ Redeeming is what records a copy permanently: the copy is stored at that moment,
 
 | Card | Redeem by |
 |---|---|
-| Day's saint, Canon saint, liturgical card | the end of the next day |
+| Day's saint, Office saint, Canon saint, liturgical card | the end of the next day |
 | Novena, season, Triduum, Ember Days, practice lineage, book | within a week |
 | Starter cards | no window |
 
@@ -138,6 +147,7 @@ Every copy's back states the full condition it was received under:
 
 - The **short introduction** (two or three sentences, both languages) — written with the card's research, faithful to its Pictorial Lives entry.
 - The **prayer**: the card's `proper` collect, or its prayer excerpt.
+- For a saint not on the current calendar, the **assigned day** (Martyrology date, or one we set).
 - Non-saint cards (parts, objects, vestments, seasons, Ember Days) need their own introduction and prayer written.
 
 ---
