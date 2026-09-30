@@ -53,6 +53,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 
 ## Canonized since 2022
 
+- [ ] **Copyright of modern saints' own words.** The pipeline rule is that saints who died after ~1930 get formulary text only. Batches 52–54 quote their own words (in our renderings) for nine who died later: Mantovani (1934), Brandsma (1942), To Rot (1945), Zatti (1951), Russolillo (1955), Troncatti (1969), Rendiles (1977), Sheen (1979), Acutis (2006). Keep their short sayings, or switch these nine to a Common of Saints antiphon? [Switch to the Common before accepting those batches unless you say keep.]
+
 - [ ] **Mama Antula (7 Mar):** excerpt "I would go wherever God is not known, to make him known" circulates in three Spanish wordings; source letter not found. [Kept; alternative is a Common antiphon.] Card name shortened to "St. María Antonia (Mama Antula)". [Shortened.] — `dossiers/batch-52.md`
 - [ ] **Allamano (16 Feb):** "First saints, then missionaries" is his motto as his missionaries quote it, not found in his writings. [Kept.]
 - [ ] **Marie Rivier (3 Feb):** likeness from a diocesan portrait and a 19th-century window, both possibly posthumous. [Kept.]
