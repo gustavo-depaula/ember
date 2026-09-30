@@ -8,12 +8,12 @@ The collectibility layer for the saints gallery (Devotion pillar, Engagement tra
 
 ## Principle
 
-Holy cards are **given, not earned** — at a First Communion, a funeral, a feast. A card marks a real act of the Church's life (Mass, a season kept, prayer kept faithfully), never app activity. The act is the point; the card remembers it, and receiving it is itself a small act: you pray with the saint before the envelope opens.
+Holy cards are **given, not earned** — at a First Communion, a funeral, a feast. A card marks a real act of the Church's life (Mass, a season kept, a novena prayed), never app activity. The act is the point; the card remembers it, and receiving it is itself a small act: you pray with the saint before the envelope opens.
 
 It must feel like a missal, not a game:
 
 - **Nothing is gated.** Every Life, prayer, and explanation stays readable whether or not you hold the card. A card marks a relationship, not access.
-- **Nothing held is lost.** A redeemed card never expires or decays. An unredeemed one lapses after its window (below), but the same act brings it again: next year's feast, the next Sunday, the next faithful stretch.
+- **Nothing held is lost.** A redeemed card never expires or decays. An unredeemed one lapses after its window (below), but the same act brings it again: next year's feast, the next Sunday, the next novena.
 - **No points, ranks, or percentages.** No "37/120".
 - **No farming.** One act gives one card, never several; app time and opens never count.
 - **Every card is holographic.** Copies differ by their back — the full condition each was received under — not by rarity.
@@ -28,11 +28,11 @@ It must feel like a missal, not a game:
 | Mass on a day with a saint (solemnity, feast, obligatory or optional memorial) | That saint |
 | Sunday Mass after a faithful week | The next Roman Canon saint |
 | Weekday Mass with no saint (or whose saint has no card yet) | A liturgical card: a part of the Mass, a liturgical object, or a vestment |
-| A faithful stretch of prayer | The next saint without a feast at Mass |
+| A novena, finished | The card it is prayed to |
 | A season's Sundays, all attended | That season's Sunday card |
 | A season's weekdays, attended faithfully | That season's weekday card |
 | All three Triduum liturgies | The Triduum card |
-| The Ember Days | That season's Ember Days card |
+| The Ember Days program, finished | That season's Ember Days card |
 | A practice kept faithfully | The next saint in that practice's lineage |
 | Finishing a saint's book | That saint (e.g. *Story of a Soul* → Thérèse) |
 | First open | Two starter cards the user picks from a pool |
@@ -45,7 +45,7 @@ Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the pla
 
 ### One card per Mass, in precedence
 
-When several per-Mass doors are due on the same day: **day's saint → Canon saint → liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a faithful stretch closing the same day) — each its own act, each its own card.
+When several per-Mass doors are due on the same day: **day's saint → Canon saint → liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a novena finishing the same day) — each its own act, each its own card.
 
 - **Several saints on one day:** the first one not yet held; if all are held, a copy of the first.
 - **No art yet:** if the day's saint has no card drawn yet, that Mass gives a liturgical card instead — the same as a day with no saint.
@@ -62,13 +62,11 @@ The list must come from the Missal's Eucharistic Prayer I — it is not in the r
 
 Weekday Mass with no saint — or whose saint has no card yet — gives one liturgical card from the pool of the parts of the Mass (entrance, Kyrie, Gloria, readings, … dismissal), liturgical objects (thurible, ambo, chalice, paten, …) and vestments (amice, alb, cincture, stole, chasuble, …) — drawn at random, unheld first, every candidate equally likely; once all are held, copies. The draw is seeded by the act (date + door), so it's stable. Each back explains the part, object or vestment. Source the parts from the Order of Mass in `practice/mass`, not from memory.
 
-### Saints without a feast at Mass (faithful prayer)
+### Novenas
 
-The Pictorial Lives saints not on the current Roman calendar, and the saints canonized since 2022, have no feast at Mass. They come through prayer kept faithfully:
+Finishing a novena (all nine days of its program) gives the card it is prayed to: the Guadalupe novena gives Our Lady of Guadalupe, the St. Joseph novena gives Joseph, the Holy Spirit novena gives Pentecost. Each novena's `manifest.json` names its card; a generic novena ("any saint", "any Marian feast") gives the saint or title the user prays it to. One novena, one card.
 
-- **Some prayer on ~20 of the last 30 days** gives one of these saints.
-- **Which one:** the saint whose day comes up soonest, unheld first (their date in the book; for the recently canonized, the memorial the Dicastery set). Once all are held, copies.
-- The next needs a fresh window after the last grant — windows don't overlap, so this is about one card a month.
+The saints with no feast at Mass (the Pictorial Lives saints not on the current calendar, the saints canonized since 2022) have no door of their own: they come through a novena prayed to them, a practice lineage, a finished book, or the starter pool.
 
 ### Seasons
 
@@ -86,7 +84,7 @@ Advent · Christmas · Lent · Easter · Ordinary Time I (after Christmas) · Or
 
 ### Ember Days
 
-Four cards a year (Advent, Lent, Pentecost, September), received through an Ember Days event on the three days. Their dates come from the Divinum Officium missal, not from `resolveOfDay`.
+Four cards a year (Advent, Lent, Pentecost, September), received by finishing the Ember Days program — a three-day practice program, like the novenas — during that season's Ember Days. Their dates come from the Divinum Officium missal, not from `resolveOfDay`.
 
 ### Practice lineages
 
@@ -121,7 +119,7 @@ Redeeming is what records a copy permanently: the copy is stored at that moment,
 | Card | Redeem by |
 |---|---|
 | Day's saint, Canon saint, liturgical card | the end of the next day |
-| Faithful prayer, season, Triduum, Ember Days, practice lineage, book | within a week |
+| Novena, season, Triduum, Ember Days, practice lineage, book | within a week |
 | Starter cards | no window |
 
 Days end at local midnight. A lapsed card is simply not received; its door brings it again the next time the act comes round.
@@ -132,7 +130,7 @@ Every copy's back states the full condition it was received under:
 
 - *Received at Mass on his memorial, 4 Oct 2026*
 - *Sunday Mass, 4 Oct 2026, after a faithful week*
-- *Prayer kept 20 of 30 days, Sep 2026*
+- *Novena to Our Lady of Guadalupe, finished 12 Dec 2026*
 - *Sundays of Lent 2027 · plan of life kept*
 - An optional line for the user's intention.
 
@@ -169,5 +167,4 @@ Acts are already stored (practice completions, plan-of-life ticks, book progress
 ## Open
 
 - Weekday season threshold.
-- What the Ember Days event asks of the user.
 - The starter pool.
