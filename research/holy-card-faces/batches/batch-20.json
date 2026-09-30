@@ -1,0 +1,437 @@
+{
+  "batch": 20,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-20.md",
+  "cards": [
+    {
+      "id": "aelred",
+      "letter": "A",
+      "feast": {
+        "month": 1,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Aelred",
+        "pt-BR": "Santo Elredo"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Rievaulx",
+        "pt-BR": "Abade de Rievaulx"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is not feeling, but self-love, which corrupts friendship.",
+        "pt-BR": "Não é o sentimento, mas o amor-próprio, que corrompe a amizade."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-12 reflection, last sentence (Pictorial Lives, public domain)",
+      "subject": "St. Aelred, Cistercian Abbot of Rievaulx, half-length: the white Cistercian cowl with wide sleeves and its hood lying back on the shoulders, a plain wooden abbot's crozier resting in the crook of his left arm; in his right hand an open manuscript book (his Mirror of Charity) held against his chest, his fingers keeping the page. Behind him, the tall pale-stone church and cloister of Rievaulx Abbey in its narrow green Yorkshire valley, wooded hills on either side and the little river Rye, under a soft, clear late-afternoon sky. Warm, gentle and friendly; no mitre, no lettering on the book or anywhere.",
+      "face": "An Englishman of about fifty-five, clean-shaven, with a fair, lightly flushed complexion and a LONG face that ends in a SOFT, ROUNDED chin — a smooth forehead, a short nose with a gently UPTURNED tip, very LARGE, soft, wide-set grey eyes under HIGH, ARCHED light-brown brows that give an open, tender look, faint hollows beneath the cheekbones, a WIDE, generous mouth in a slight, warm smile; a ring of short auburn hair turning grey around the monastic tonsure; the gaze kind and direct, toward us.",
+      "refs": [
+        "bernard_clairvaux",
+        "benedict",
+        "bonaventure"
+      ],
+      "basis": "No portrait from life survives; the twelfth-century initial of a Speculum caritatis manuscript (Wikipedia lead image) shows a young, hooded, clean-shaven Cistercian, and Cistercian choir monks were shaven and tonsured, so the card is too. His biographers' picture of a man of great tenderness, 'a singularly attractive figure' (Knowles, quoted on Wikipedia), and his book on friendship give the open, smiling face; the structure is our choice, kept apart from `william_bourges` (wide, flat, bearded) and `bernard_clairvaux`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Aelred of Rievaulx (lead image: initial from a Speculum caritatis manuscript)",
+          "url": "https://en.wikipedia.org/wiki/Aelred_of_Rievaulx"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-12-aelred (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-12-aelred.md"
+        }
+      ],
+      "lifeChapter": "jan-12-aelred",
+      "catalogMatch": "St. Aelred, Abbot"
+    },
+    {
+      "id": "veronica_milan",
+      "letter": "V",
+      "feast": {
+        "month": 1,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Veronica of Milan",
+        "pt-BR": "Santa Verônica de Milão"
+      },
+      "patronOf": {
+        "en-US": "Lay sister of St. Martha's, Milan",
+        "pt-BR": "Irmã conversa de Santa Marta, em Milão"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I must work while I can, while I have time.\"",
+        "pt-BR": "\"Devo trabalhar enquanto posso, enquanto tenho tempo.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-13 reflection, her words it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Veronica of Milan, Augustinian lay sister, half-length: a black Augustinian habit with a leather belt, a white linen wimple framing the face and a black veil; a coarse linen alms-sack slung over one shoulder, and in her hands a round loaf of bread begged for her community; a small sprig of olive tucked into the belt. Behind her, a narrow street of old Milan with brick houses and arcades, and in the distance the flat green Lombard fields with rows of poplars where she once worked, under a pale, hazy morning sky. Cheerful, humble and hard-working; no lettering.",
+      "face": "A Lombard countrywoman of about fifty with a sun-weathered, ruddy complexion and a SHORT, BROAD face under a LOW, WIDE brow — high, round APPLE cheekbones, a short, broad nose with a slightly upturned tip, small, bright, deep-set dark-brown eyes under thick, straight dark brows, a wide mouth with thin lips set in a patient half-smile, a small, firm, square chin; hair hidden by the wimple; her gaze lifted a little, cheerful and willing.",
+      "refs": [
+        "rita_cascia",
+        "monica",
+        "clare_assisi"
+      ],
+      "basis": "No portrait from life; the nineteenth-century roundel on Wikipedia shows her in the black Augustinian habit, white wimple and black veil with an olive branch and bread, which the card keeps. The book tells of a peasant girl who worked the fields near Milan and, as a lay sister of St. Martha's, begged the community's food through the city; the sturdy, broad country face is our choice, kept apart from the set's oval-faced nuns (`rita_cascia`, `hedwig`).",
+      "sources": [
+        {
+          "title": "Wikipedia, Veronica of Binasco (lead image: roundel of 'Beata Veronica')",
+          "url": "https://en.wikipedia.org/wiki/Veronica_of_Binasco"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-13-veronica-of-milan (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-13-veronica-of-milan.md"
+        }
+      ],
+      "lifeChapter": "jan-13-veronica-of-milan",
+      "catalogMatch": "St. Veronica of Milan"
+    },
+    {
+      "id": "paul_hermit",
+      "letter": "P",
+      "feast": {
+        "month": 1,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Paul the First Hermit",
+        "pt-BR": "São Paulo, o Primeiro Eremita"
+      },
+      "patronOf": {
+        "en-US": "The first hermit",
+        "pt-BR": "O primeiro eremita"
+      },
+      "prayerExcerpt": {
+        "en-US": "We shall never repent of having trusted in God, for He cannot fail those who lean on Him.",
+        "pt-BR": "Nunca nos arrependeremos de ter confiado em Deus, pois Ele não pode faltar àqueles que se apoiam n'Ele."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-15 reflection, first clause, closed with '.' (Pictorial Lives, public domain)",
+      "subject": "St. Paul the First Hermit, very old and thin, half-length at the mouth of his cave: a plain tunic of woven palm leaves reaching from the shoulders, his arms bare and lean; his hands raised and open in thanksgiving toward a black raven that flies down to him with a round loaf of bread in its beak. Behind him, the rough rock of the cave, a single date palm and a small clear spring, and beyond, the bare, rose-gold mountains of the Egyptian desert near the Red Sea under a clear dawn sky. Peaceful and full of wonder; no lions, no skull, no lettering.",
+      "face": "An Egyptian of great age, about a hundred and ten, deeply sun-browned and very lean, with a LONG, TAPERING face — a high, BALD, rounded crown with long, thin, straight white hair falling from the sides to the shoulders, a LONG, THIN, gently hooked nose, LARGE, soft, dark eyes WIDE OPEN and lifted in wonder, thin white brows RAISED, cheeks hollow beneath the cheekbones; a very long, thin, straight, silky white beard falling UNDIVIDED to the waist; an expression of gentle, childlike joy.",
+      "refs": [
+        "jerome",
+        "anthony_padua",
+        "francis_assisi"
+      ],
+      "basis": "The Painter's Manual gives Paul of Thebes as an old man with a great beard reaching the middle of the body, clothed in a mat, which the card follows; Ribera's painting (Wikipedia lead image) shows him bald, white-bearded and gaunt in a palm-leaf garment. The raven with bread, the palm and the spring are from the book and Jerome's Life. The long, tapering face, raised wondering eyes and undivided waist-long beard keep him apart from his companion `anthony_abbot` (triangular, hooded, short forked beard) and from `theodosius_cenobiarch` (broad, forked beard).",
+      "sources": [
+        {
+          "title": "Wikipedia, Paul of Thebes (lead image: José de Ribera, St. Paul the Hermit, Prado)",
+          "url": "https://en.wikipedia.org/wiki/Paul_of_Thebes"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-15-paul-the-first (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-15-paul-the-first.md"
+        }
+      ],
+      "lifeChapter": "jan-15-paul-the-first",
+      "catalogMatch": "St. Paul, the First Hermit"
+    },
+    {
+      "id": "honoratus",
+      "letter": "H",
+      "feast": {
+        "month": 1,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Honoratus of Arles",
+        "pt-BR": "Santo Honorato de Arles"
+      },
+      "patronOf": {
+        "en-US": "Founder of Lérins, Archbishop of Arles",
+        "pt-BR": "Fundador de Lérins, Arcebispo de Arles"
+      },
+      "prayerExcerpt": {
+        "en-US": "The soul cannot truly serve God while it is involved in the distractions and pleasures of the world.",
+        "pt-BR": "A alma não pode verdadeiramente servir a Deus enquanto está envolvida nas distrações e nos prazeres do mundo."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-16 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Honoratus, founder of the monastery of Lérins and Archbishop of Arles, half-length: a plain dark-grey monastic tunic and cowl, and over it an early bishop's white woollen pallium with small dark crosses; no mitre; he holds a simple wooden crozier in one hand and raises the other in blessing. Behind him, the small, low, rocky island of Lérins with umbrella pines, a few monks' cells and a small stone chapel by the shore, the calm, deep-blue Mediterranean, and on the horizon the red Estérel hills of the Provençal coast under a bright afternoon sky. Serene, kindly and welcoming; no snakes, no lettering.",
+      "face": "A Gallo-Roman of about seventy-five with a light olive complexion and a face whose HIGH, BROAD, DOMED forehead is much larger than the SHORT, SMALL lower face — widely spaced, pale-blue eyes with gently drooping outer corners under thin, level white brows, a small, neat, straight nose, soft, full, rosy cheeks, a small mouth with a gentle smile, a small, rounded chin; the crown bald with a light fringe of white hair; a short, neat, rounded white beard close to the chin; a mild, fatherly gaze toward us.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "No likeness survives; the sixteenth-century woodcut of the Occitan Vida de sant Honorat (Wikipedia lead image) shows only a mitred archbishop with a cross-staff. The book gives his consular Roman family, the island monastery of Lérins about 400 and his consecration for Arles in 426; his pupil Hilary praised the charity and concord of his community, hence the kindly, welcoming face. The domed, small-featured structure is our choice, kept apart from `hilary` (trapezoid) and `paulinus_nola` (heart-shaped, clean-shaven).",
+      "sources": [
+        {
+          "title": "Wikipedia, Honoratus of Arles (lead image: woodcut, La vida de sant Honorat)",
+          "url": "https://en.wikipedia.org/wiki/Honoratus_of_Arles"
+        },
+        {
+          "title": "Wikipedia, Lérins Islands (Île Saint-Honorat)",
+          "url": "https://en.wikipedia.org/wiki/Lérins_Islands"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-16-honoratus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-16-honoratus.md"
+        }
+      ],
+      "lifeChapter": "jan-16-honoratus",
+      "catalogMatch": "St. Honoratus, Archbishop"
+    },
+    {
+      "id": "canutus",
+      "letter": "C",
+      "feast": {
+        "month": 1,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Canutus",
+        "pt-BR": "São Canuto"
+      },
+      "patronOf": {
+        "en-US": "King of Denmark, martyr",
+        "pt-BR": "Rei da Dinamarca, mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "The keenest joy we are capable of feeling consists in prostrating all our powers of mind and heart in humblest adoration before the majesty of God.",
+        "pt-BR": "A mais viva alegria que somos capazes de sentir consiste em prostrar todas as faculdades do espírito e do coração na mais humilde adoração diante da majestade de Deus."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-19 reflection, its closing clause, capitalised (Pictorial Lives, public domain)",
+      "subject": "St. Canutus, King of Denmark, half-length: a gold crown with small cross-topped points, a coat of mail under a deep-red royal mantle lined with ermine and fastened at the shoulder with a gold brooch; he holds a lance upright in his right hand and on his left arm a round shield painted with a red cross, as in the twelfth-century picture of him at Bethlehem; a palm of martyrdom rests against the shield. Behind him, the small stone church of St. Alban at Odense with its round-arched windows, green Funen fields, and the grey-blue Danish sea beyond, under a pale northern sky. Kingly, steadfast and devout; no wounds, no weapons raised, no lettering.",
+      "face": "A Dane of about forty-two, strongly built, with a fair, weather-reddened complexion and a DIAMOND-SHAPED face — a narrowish forehead under the crown, VERY WIDE, high cheekbones, tapering to a firm, rounded chin; a short, straight nose with a slightly upturned tip; narrow, wide-set pale-blue eyes under straight, sandy brows; a full, wide mouth; thick, straight red-gold hair to the jaw; a short, full red-gold beard and moustache; a calm, resolute gaze to one side.",
+      "refs": [
+        "louis_france",
+        "george",
+        "sebastian"
+      ],
+      "basis": "The forensic studies of his skeleton at Odense (Danish Wikipedia) found a right-handed warrior with a skull of a man of 39 to 55, and he was born about 1043, so about forty-two at his death; nothing of his face or colouring is recorded. The dress follows the twelfth-century painted column in the Church of the Nativity at Bethlehem that shows him crowned with a lance and a cross-marked shield; the book gives the church where he died. The fair colouring and diamond structure are our choice, kept apart from `wenceslaus` and `stephen_hungary`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Canute IV of Denmark (lead image: Benzon, The death of Canute the Holy)",
+          "url": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark"
+        },
+        {
+          "title": "Wikipedia (Danish), Knud den Hellige: the skeleton studies and the Bethlehem picture",
+          "url": "https://da.wikipedia.org/wiki/Knud_den_Hellige"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-19-canutus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-19-canutus.md"
+        }
+      ],
+      "lifeChapter": "jan-19-canutus",
+      "catalogMatch": "St. Canutus, King, Martyr"
+    },
+    {
+      "id": "bathildes",
+      "letter": "B",
+      "feast": {
+        "month": 1,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Bathildes",
+        "pt-BR": "Santa Batildes"
+      },
+      "patronOf": {
+        "en-US": "Queen of the Franks",
+        "pt-BR": "Rainha dos francos"
+      },
+      "prayerExcerpt": {
+        "en-US": "In all that we do, let God and His holy will be always before our eyes, and our only aim and desire be to please Him.",
+        "pt-BR": "Em tudo o que fizermos, estejam sempre diante dos nossos olhos Deus e a sua santa vontade, e seja o nosso único intento e desejo agradar-Lhe."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-30 reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Bathildes, Queen of the Franks, half-length: a slender gold crown set over a white linen veil; a long gown of deep blue, and over it a plain linen tabard embroidered in coloured silk with rows of necklaces and a pendant jewelled cross at the breast, like her chemise kept at Chelles; with both hands she offers a small loaf and a folded length of cloth, as to the poor. Behind her, the timber-and-stone abbey of Chelles in the green valley of the Marne, with a small hospice and its garden, under a mild spring sky. Humble, motherly and serene; no lettering.",
+      "face": "An Anglo-Saxon woman of about thirty-five with a fair, pale complexion and a ROUND, FULL face — a high, rounded forehead, a short, straight nose, ROUND, clear grey-blue eyes under light, softly curved honey-coloured brows, full, rounded cheeks with a faint flush, a small, bow-shaped mouth, a round chin with a small DIMPLE; honey-blond hair in a single long braid showing beneath the veil; her eyes lowered kindly toward the gifts.",
+      "refs": [
+        "elizabeth_hungary",
+        "clare_assisi",
+        "monica"
+      ],
+      "basis": "No portrait from life; a fourteenth-century miniature (Wikipedia lead image) shows her crowned and haloed between nuns and monks. Her own chemise at Chelles (Wikipedia) is a linen tabard embroidered with necklaces and a jewelled cross, the jewels she gave up, which the card has her wear. The book gives her English birth, her care of the poor and the sick and her last years at Chelles. The round, fair face is our choice, kept apart from the set's long-faced queens (`hedwig`, `elizabeth_portugal`, `margaret_scotland`).",
+      "sources": [
+        {
+          "title": "Wikipedia, Balthild (lead image: medieval miniature; the chemise of Balthild)",
+          "url": "https://en.wikipedia.org/wiki/Balthild"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-30-bathildes (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-30-bathildes.md"
+        }
+      ],
+      "lifeChapter": "jan-30-bathildes",
+      "catalogMatch": "St. Bathildes, Queen"
+    },
+    {
+      "id": "marcella",
+      "letter": "M",
+      "feast": {
+        "month": 1,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. Marcella",
+        "pt-BR": "Santa Marcela"
+      },
+      "patronOf": {
+        "en-US": "Widow of Rome",
+        "pt-BR": "Viúva de Roma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Her delight in the divine scriptures was incredible.",
+        "pt-BR": "O seu deleite nas divinas Escrituras era incrível."
+      },
+      "excerptSource": "St. Jerome, Letter 127 to Principia, 4, tr. W. H. Fremantle, NPNF 2nd series vol. 6 (1893), https://www.newadvent.org/fathers/3001127.htm (local copy consult/batch-20/jerome-letter-127.txt); pt-BR our rendering. Her chapter has no Reflection and there is no formulary of her own",
+      "subject": "St. Marcella, the Roman widow, very old, half-length: a plain, coarse dark-brown woollen dress and a long dark veil over a white head-cloth, no jewels; she holds open on her lap a large codex of the Scriptures and turns one page with her finger, a rolled letter beside it on the table. Behind her, the terrace of her house on the Aventine hill with a cypress and an oleander, looking across the Tiber to the roofs, columns and domes of Rome in warm late-afternoon light. Wise, peaceful and ardent; no soldiers, no lettering.",
+      "face": "A Roman lady of great age, about eighty-five, with a pale olive complexion and a SHORT, HEART-SHAPED face grown thin — a broad, finely lined forehead, PROMINENT cheekbones with the cheeks fallen in below them, tapering to a small, POINTED chin; a small, finely HOOKED nose; small, bright, quick dark eyes, keen and humorous, under thin white brows; a thin, wide mouth; white hair under the veil; her gaze lifted from the page as if about to ask a question.",
+      "refs": [
+        "monica",
+        "anne",
+        "catherine_siena"
+      ],
+      "basis": "No likeness survives. Jerome's letter on her death (Letter 127) gives her plain dress 'such as to remind her of the tomb', her 'incredible' delight in the Scriptures and her habit of questioning him on them, and the house on the Aventine; she was about eighty-five when the Goths scourged her in 410 (Wikipedia). The keen, small, heart-shaped face is our choice, kept apart from the set's other old women (`teresa_calcutta`, `hildegard`).",
+      "sources": [
+        {
+          "title": "Wikipedia, Marcella of Rome (lead image: engraving of Marcella before the Goths)",
+          "url": "https://en.wikipedia.org/wiki/Marcella_of_Rome"
+        },
+        {
+          "title": "St. Jerome, Letter 127 to Principia (NPNF 2nd series vol. 6)",
+          "url": "https://www.newadvent.org/fathers/3001127.htm"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jan-31-marcella (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jan-31-marcella.md"
+        }
+      ],
+      "lifeChapter": "jan-31-marcella",
+      "catalogMatch": "St. Marcella, Widow"
+    },
+    {
+      "id": "bridgid",
+      "letter": "B",
+      "feast": {
+        "month": 2,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Bridgid",
+        "pt-BR": "Santa Brígida"
+      },
+      "patronOf": {
+        "en-US": "Abbess of Kildare, Patroness of Ireland",
+        "pt-BR": "Abadessa de Kildare, Padroeira da Irlanda"
+      },
+      "prayerExcerpt": {
+        "en-US": "Outward resemblance to Our Lady was St. Bridgid's peculiar privilege; but all are bound to grow like her in interior purity of heart.",
+        "pt-BR": "A semelhança exterior com Nossa Senhora foi o privilégio peculiar de Santa Brígida; mas todos estão obrigados a crescer como ela na pureza interior do coração."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-01 reflection, first sentence (Pictorial Lives, public domain; the day's reflection is Bridgid's, the index also names St. Ignatius, already carded as `ignatius_antioch`)",
+      "subject": "St. Bridgid, Abbess of Kildare, half-length: the snow-white habit and white cloak the book says St. Mel gave her, with a white veil; a plain wooden abbess's crozier in the crook of one arm, and in her other hand a small clay lamp whose flame burns steadily; a St. Bridgid's cross woven of green rushes hangs from her belt. Behind her, a great oak tree and the small wooden church and round thatched huts of her monastery at Kildare on the open green plain, with a white cow grazing nearby, under a soft, bright Irish spring sky with drifting clouds. Warm, strong and motherly; no lettering.",
+      "face": "An Irishwoman of about forty-five with a fair, freckled, fresh complexion and a WIDE, OBLONG face — broad, flat cheekbones and a LONG, firm, rounded jaw; a straight nose, a little long, with a rounded tip; large, wide-set, clear blue eyes under straight, copper-brown brows; a wide, calm mouth; a few strands of copper-red hair at the brow under the white veil; a steady, warm gaze toward us.",
+      "refs": [
+        "clare_assisi",
+        "bridget_sweden",
+        "scholastica"
+      ],
+      "basis": "No likeness survives. The book gives her white habit and cloak and the lamp-and-fire tradition of Kildare; Wikipedia's iconography section gives the rush cross, the crozier, the lamp and the cow, and the Harry Clarke-school window at Cong (lead image) shows her veiled in white with a lamp. The book calls her outward resemblance to Our Lady her privilege; we do not borrow Our Lady's face from `recurring-figures.md`, so that she is not mistaken for her. The freckled, oblong face is our choice, kept apart from `bridget_sweden`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Brigid of Kildare (iconography; lead image: window at Cong, St. Brigid holding her lamp)",
+          "url": "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-01-bridgid (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-01-bridgid.md"
+        }
+      ],
+      "lifeChapter": "feb-01-bridgid",
+      "catalogMatch": "St. Bridgid, Abbess"
+    },
+    {
+      "id": "jane_valois",
+      "letter": "J",
+      "feast": {
+        "month": 2,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Jane of Valois",
+        "pt-BR": "Santa Joana de Valois"
+      },
+      "patronOf": {
+        "en-US": "Queen, foundress of the Annunciation",
+        "pt-BR": "Rainha, fundadora da Anunciada"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"God be praised Who has allowed this, that I may serve Him better than I have heretofore done.\"",
+        "pt-BR": "\"Bendito seja Deus, que permitiu isto, para que eu O sirva melhor do que até agora o fiz.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-04-jane-of-valois.md, her words at the sentence of separation (Pictorial Lives, public domain). The day's reflection has a gap in the source ('The sound of the thrice each day'), so the card takes her own words from the chapter",
+      "subject": "St. Jane of Valois as foundress of the Order of the Annunciation, half-length and a little turned: the grey habit with a scarlet scapular and a white mantle of her Order, a white wimple and black veil, and a slender gold crown resting on the veil for the queen she was; she holds a small crucifix in her joined hands, with a rosary looped over them. Behind her, the Gothic town of Bourges with the tall towers of its cathedral and the low new convent of the Annunciation, under a soft evening sky, as if the Angelus were ringing. Humble, gentle and at peace; no lettering.",
+      "face": "A French princess of about forty with a pale, smooth complexion and a LONG face that is fuller in its LOWER half — a very HIGH, smooth forehead, a long, straight nose with a softly rounded tip, SMALL, HEAVY-LIDDED, rather close-set blue-grey eyes under faint, fine brows, a LONG upper lip, a small, closed, gently pursed mouth, soft, full lower cheeks and a rounded chin; hair hidden by the wimple; a quiet, patient, inward gaze lowered to the crucifix.",
+      "refs": [
+        "clare_assisi",
+        "elizabeth_hungary",
+        "teresa"
+      ],
+      "basis": "The panel portrait on Wikipedia, of unknown author, shows a long, pale face with a high forehead, small heavy-lidded eyes, a long upper lip and a small pursed mouth under a dark hood; the card follows its structure. Her habit is described by the Catholic Encyclopedia (grey, with scarlet scapular and white mantle), and the book says she was buried in the royal crown over the habit, hence the crown on the veil. She had a curvature of the spine; the half-length pose leaves it out, as the brief asks.",
+      "sources": [
+        {
+          "title": "Wikipedia, Joan of France, Duchess of Berry (lead image: portrait of Joan of Valois)",
+          "url": "https://en.wikipedia.org/wiki/Joan_of_France,_Duchess_of_Berry"
+        },
+        {
+          "title": "Catholic Encyclopedia (1907), The Orders of the Annunciation",
+          "url": "https://www.newadvent.org/cathen/01543a.htm"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-04-jane-of-valois (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-04-jane-of-valois.md"
+        }
+      ],
+      "lifeChapter": "feb-04-jane-of-valois",
+      "catalogMatch": "St. Jane of Valois"
+    },
+    {
+      "id": "dorothy",
+      "letter": "D",
+      "feast": {
+        "month": 2,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Dorothy",
+        "pt-BR": "Santa Doroteia"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyr",
+        "pt-BR": "Virgem e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Blessed be Thou, O Thou Lover of souls! Who dost call me to Paradise, and invitest me to Thy nuptial chamber.\"",
+        "pt-BR": "\"Bendito sejas, ó Tu, Amante das almas! que me chamas ao Paraíso, e me convidas à tua câmara nupcial.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-06-dorothy.md, her words at her sentence, first letter capitalised (Pictorial Lives, public domain)",
+      "subject": "St. Dorothy, young virgin martyr of Caesarea in Cappadocia, half-length: a rose-pink gown and a golden-yellow mantle, a wreath of red and white roses on her dark hair; she holds before her a small woven basket with three red roses and three golden apples, and a martyr's palm rests against her shoulder. Behind her, the old city of Caesarea in winter, low stone walls and roofs lightly touched with snow, and the great white snow-capped cone of Mount Argaeus rising beyond under a clear, pale-blue winter sky. Joyful and radiant; no instruments of torture, no lettering.",
+      "face": "A Cappadocian Greek girl of about eighteen with a warm, light olive complexion and a small, ROUND face lit by a JOYFUL SMILE — a smooth, rounded forehead, a short, rounded nose, very large, sparkling dark eyes, softly arched black brows, full, round cheeks with DIMPLES, a small, smiling mouth showing the joy the book speaks of, a small, round chin; thick, curling black hair gathered up under the wreath; her eyes lifted, bright with gladness.",
+      "refs": [
+        "agnes",
+        "cecilia",
+        "philomena"
+      ],
+      "basis": "No likeness survives. The book tells of the 'heavenly look' and growing joy with which she met her death, and of the three apples and three roses sent from 'the garden of her Spouse', which give the smiling face and the basket; Zurbarán's St. Dorothy (Wikipedia lead image) holds a dish of apples and roses, and Wikipedia records the wreath of roses. Mount Argaeus stands over Caesarea in Cappadocia, and the book says she suffered in the dead of winter. The round, smiling face is our choice, kept apart from the set's composed, oval-faced virgin martyrs (`agnes`, `agatha`, `catherine_alexandria`, `anastasia`).",
+      "sources": [
+        {
+          "title": "Wikipedia, Dorothea of Caesarea (iconography; lead image: Zurbarán, St. Dorothy)",
+          "url": "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-06-dorothy (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-06-dorothy.md"
+        }
+      ],
+      "lifeChapter": "feb-06-dorothy",
+      "catalogMatch": "St. Dorothy, Virgin, Martyr"
+    }
+  ]
+}
