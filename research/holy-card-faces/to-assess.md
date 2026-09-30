@@ -22,6 +22,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Ember Days cards** show the traditional Mass (excerpts from Divinum Officium). The new Missal has no Ember Masses; research proposed a Mass for Various Needs per season (Forgiveness of Sins, At Seedtime, Vocations, After the Harvest), but that mapping is ours, not the Church's. [No `proper` on the four Ember cards.] Pentecost Ember Days in red (octave of Pentecost), the others violet. [Red.] — `dossiers/batch-45.md`
 - [ ] **Triduum card** in white (Holy Thursday night: place of repose, stripped altar). [White.]
 - [ ] **Mass-part card convention:** no `box` colour (initial falls back to blue), priest in white and gold. This sets the other 28 Mass-part cards. [As stated.]
+- [ ] **Mass-part ministers (batch 46):** readers laymen, psalmist in cassock and surplice, the priest reads the Gospel (no deacon); the priest at the chair (Greeting to Collect) is shown from behind or in profile though he faces the people there. Women readers/cantors or a deacon would also follow the rubrics. [As stated.] — `dossiers/batch-46.md`
+- [ ] **Gloria card** adds a vault fresco of angels over shepherds (Luke 2:14), an artistic choice. [Kept.]
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
@@ -92,6 +94,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Saint of the Day index mismatches:** 2 Jan, 7 Apr, 9 Apr, 22 Apr, 29 Apr point at one saint's chapter but carry another's reflection. Fix the index? [Cards unaffected: they link by chapter.]
 - [ ] **Engravings possibly swapped:** `jan-07-lucian.webp` has a "January 8" running head and shows a writing bishop (Apollinaris?). [Not used for any face.] — `dossiers/batch-19.md`
 - [ ] **Book dates at odds with sources:** Hospitius d. 681 (sources: 581); Paschal d. 15 May (sources: 17 May); Tarasius on 25 Feb (Latin Church: 18 Feb). [Book followed where a date shows; neither death date appears on a card.]
+
+- [ ] **App bug, the reply after the Gospel:** `apps/app/src/sources/of/blocks/readings.ts` answers "The Gospel of the Lord" with `gloryToYou` ("Glory to you, O Lord" / "Glória tibi, Dómine"). That is the reply to the Gospel's announcement; after the Gospel the English Missal has "Praise to you, Lord Jesus Christ" (Latin "Laus tibi, Christe"). pt-BR is right ("Glória a vós, Senhor" serves both). [Not fixed: an app change, needs a separate response for the conclusion.]
 
 ## Regional formularies the app can't show
 

@@ -1,0 +1,421 @@
+{
+  "batch": 46,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-46.md",
+  "cards": [
+    {
+      "id": "greeting",
+      "letter": "G",
+      "name": {
+        "en-US": "Greeting",
+        "pt-BR": "Saudação"
+      },
+      "patronOf": {
+        "en-US": "The priest greets the gathered people",
+        "pt-BR": "O sacerdote saúda o povo reunido"
+      },
+      "prayerExcerpt": {
+        "en-US": "The grace of our Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all.",
+        "pt-BR": "A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo estejam convosco."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.greeting (first formula, line breaks joined, verbatim in both languages)",
+      "subject": "The Greeting at a Sunday Mass, seen from inside the sanctuary, from just behind the priest's chair. In the foreground, the priest, in a white-and-gold chasuble over a white alb, stands at his chair seen from behind, his arms opened wide toward the people. Beyond him, below the sanctuary steps, the whole congregation stands in the wooden pews of a tall stone nave, small, facing him: families, an old man leaning on a cane, children, a nun in a grey habit. Two servers in cassock and surplice stand at their places at the side of the sanctuary with their hands joined. Morning light falls from the high windows across the nave; far away at the back, the open west doors and the organ gallery. Warm, welcoming, solemn. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the Sign of the Cross, all standing, the priest at the chair, 'facing the people and extending his hands', greets them (GIRM 124; the Order of Mass: 'abrindo os braços, saúda o povo'). The chair faces the people at the head of the sanctuary (GIRM 310), so the card looks over the priest's shoulder at the assembly the Greeting makes manifest (GIRM 50).",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 124 (the Greeting at the chair, facing the people, hands extended)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 2, nos. 43, 50 (all stand; the Greeting)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Greeting (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Greeting"
+    },
+    {
+      "id": "penitential_act",
+      "letter": "P",
+      "name": {
+        "en-US": "Penitential Act",
+        "pt-BR": "Ato Penitencial"
+      },
+      "patronOf": {
+        "en-US": "We acknowledge our sins",
+        "pt-BR": "Reconhecemos os nossos pecados"
+      },
+      "prayerExcerpt": {
+        "en-US": "Through my fault, through my fault, through my most grievous fault.",
+        "pt-BR": "Por minha culpa, minha culpa, minha tão grande culpa."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.penitential-act, Form A / 1, the Confiteor (first letter capitalised; en-US closing semicolon made a full stop; verbatim otherwise)",
+      "subject": "The Penitential Act at a Sunday Mass, seen close from a side aisle of a stone church. In the foreground, half-length and in profile, three of the faithful stand in a wooden pew with their heads bowed, each striking the breast with a closed right hand: a grey-haired man in a dark coat, a young woman in a white lace veil, and a small boy copying his father. Behind them more people stand with bowed heads. Far off and small, in the sanctuary, the priest, in a white-and-gold chasuble over a white alb, stands at his chair and strikes his breast too, a server on either side. Subdued grey light, a contrite hush. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Confiteor, which all say together after a pause for silence, 'striking their breast' at the words of the excerpt (order-of-mass.json, order.penitential-act, Form A); all still standing, as from the Entrance to the end of the Collect (GIRM 43, 51).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 45, 51 (standing; silence; the Penitential Act)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Penitential Act (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Penitential Act"
+    },
+    {
+      "id": "kyrie",
+      "letter": "K",
+      "name": {
+        "en-US": "Kyrie",
+        "pt-BR": "Senhor, tende piedade"
+      },
+      "patronOf": {
+        "en-US": "We implore the Lord's mercy",
+        "pt-BR": "Imploramos a misericórdia do Senhor"
+      },
+      "prayerExcerpt": {
+        "en-US": "Lord, have mercy. Christ, have mercy. Lord, have mercy.",
+        "pt-BR": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.kyrie (the three invocations, without the people's repeats and the Greek alternatives; verbatim in both languages)",
+      "subject": "The Kyrie at a Sunday Mass, seen from the organ gallery at the back of a tall stone church, looking down the whole length of the nave. In the foreground, seen from behind, a small choir of men and boys in cassocks and white surplices sings from music held in their hands, beside the gilded pipes of the organ, where the organist sits at the keys. Below, the congregation stands in the pews, small, turned toward the altar. Far away at the head of the nave, in the sanctuary, the priest, in a white-and-gold chasuble over a white alb, stands at his chair with his hands joined; beyond him the altar with its white cloth, crucifix and lit candles. Sunlight slants through the high windows. Prayerful, imploring, luminous. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Kyrie 'is usually executed by everyone, that is to say, with the people and the choir or cantor taking part in it' (GIRM 52), all standing (GIRM 43); so the card looks from the choir over the standing people to the priest at the chair.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 52 (standing; the Kyrie, sung by the people with choir or cantor)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Kyrie (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Kyrie"
+    },
+    {
+      "id": "gloria",
+      "letter": "G",
+      "name": {
+        "en-US": "Gloria",
+        "pt-BR": "Glória"
+      },
+      "patronOf": {
+        "en-US": "The Church's ancient hymn of praise",
+        "pt-BR": "O antigo hino de louvor da Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "Glory to God in the highest, and on earth peace to people of good will.",
+        "pt-BR": "Glória a Deus nas alturas, e paz na terra aos homens por ele amados."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.gloria (first two lines, joined; verbatim in both languages)",
+      "subject": "The Gloria on a great feast, seen from low in the nave looking up. In the foreground, half-length, the congregation stands singing with joy: a mother lifting her face, a father holding a small daughter, an old man with his hymnal open. The whole church blazes with light: white lilies and roses stand around the altar, not on it; six tall candles burn on the altar beside its crucifix; the priest, in a white-and-gold chasuble over a white alb, stands small at his chair in the sanctuary with his hands joined. High overhead, filling the top of the arch, the painted vault of the church shows a fresco of angels in white and gold singing in a starry sky above shepherds and their sheep on a dark hillside. Jubilant, radiant, festive. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Gloria is sung by all standing on Sundays outside Advent and Lent and on solemnities and feasts (GIRM 43, 53, 126), so the card is a feast: six candles (GIRM 117), flowers around the altar rather than on it (GIRM 305). Its opening words are the angels' song at Bethlehem (Luke 2:14), painted as a fresco in the church's vault rather than as a vision.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 53 (standing; the Gloria and when it is said)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 117, 126 (candles; the Gloria)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Gloria (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Gloria"
+    },
+    {
+      "id": "collect",
+      "letter": "C",
+      "name": {
+        "en-US": "Collect",
+        "pt-BR": "Oração do Dia"
+      },
+      "patronOf": {
+        "en-US": "The priest gathers the prayer of all",
+        "pt-BR": "O sacerdote reúne a oração de todos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.",
+        "pt-BR": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json collect (its Trinitarian conclusion, line breaks joined, verbatim in both languages)",
+      "subject": "The Collect at a Sunday Mass, seen close and in profile. The priest, in a white-and-gold chasuble over a white alb, stands at his chair at the side of the sanctuary with his hands extended and raised in prayer, his eyes on the open book. Before him a server in cassock and surplice holds the large red-bound Missal open with both hands, its gilt-edged pages turned toward the priest, a ribbon marker hanging down; the pages show no letters. Behind them, soft and indistinct, the congregation stands in silence; a tall lit candle beside the altar steps. Warm candlelight, stillness, gathered prayer. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After 'Let us pray' and a brief silence, the priest says the Collect 'with hands extended' (GIRM 127), at the chair, with all standing (GIRM 43); the Missal is kept next to the chair (GIRM 118a) and the acolyte presents the book to the priest there (GIRM 189). The excerpt is the Trinitarian conclusion GIRM 54 gives for a Collect addressed to the Father.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 54 (standing; the Collect and its conclusion)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 118, 127, 189 (the Missal by the chair; the Collect with hands extended; the acolyte presents the book)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Collect (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+        }
+      ],
+      "catalogMatch": "Collect"
+    },
+    {
+      "id": "first_reading",
+      "letter": "F",
+      "name": {
+        "en-US": "First Reading",
+        "pt-BR": "Primeira Leitura"
+      },
+      "patronOf": {
+        "en-US": "The Liturgy of the Word begins",
+        "pt-BR": "Começa a Liturgia da Palavra"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Word of the Lord. Thanks be to God.",
+        "pt-BR": "Palavra do Senhor. Graças a Deus."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json readings.A.firstReading conclusion, and the people's reply deoGratias in apps/app/src/sources/of/responses.ts (joined; verbatim in both languages)",
+      "subject": "The First Reading at a Sunday Mass, seen from a side aisle. At a tall carved stone ambo, a grey-haired lay reader in a white alb stands upright and reads aloud from the large open Lectionary resting on it, one hand steadying the page; the pages show no letters. The congregation sits in the wooden pews and listens, half-length and in profile: a farmer with his cap in his lap, an old woman with her hands folded, a girl looking up at the reader. Beyond, in the sanctuary, the priest, in a white-and-gold chasuble over a white alb, sits at his chair listening, with two servers seated beside him; the altar with its crucifix and lit candles. Clear daylight falls across the ambo. Attentive, calm. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the Collect all sit; the reader goes to the ambo and proclaims the First Reading from the Lectionary already placed there, 'to which all listen', and ends with the acclamation the people answer (GIRM 128, 43, 58–59). The reader is a layman in an alb, the attire GIRM 194 allows; the priest sits at the chair.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 128, 194–196 (the First Reading at the ambo; the reader)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 2, nos. 43, 58–59 (sitting for the readings; the ambo; readers)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Year A, First Reading (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+        },
+        {
+          "title": "The people's fixed replies to the readings (apps/app/src/sources/of/responses.ts)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/apps/app/src/sources/of/responses.ts"
+        }
+      ],
+      "catalogMatch": "First Reading"
+    },
+    {
+      "id": "responsorial_psalm",
+      "letter": "R",
+      "name": {
+        "en-US": "Responsorial Psalm",
+        "pt-BR": "Salmo Responsorial"
+      },
+      "patronOf": {
+        "en-US": "The people answer the Word in song",
+        "pt-BR": "O povo responde à Palavra cantando"
+      },
+      "prayerExcerpt": {
+        "en-US": "We are his people: the sheep of his flock.",
+        "pt-BR": "Nós somos o povo e o rebanho do Senhor."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-11/sunday.json readings.A.psalm response (Psalm 100; verbatim in both languages)",
+      "subject": "The Responsorial Psalm at a Sunday Mass, seen from among the people. In the foreground, half-length and seen from behind and in profile, the congregation sits in the wooden pews and sings the response together: a father with a small son on his knee, two elderly sisters sharing one hymnal, a young man with his hands clasped. Ahead, at the stone ambo, the psalmist, a young man in cassock and white surplice, sings the verses of the psalm, seen in profile, his face lifted in song. Beyond the ambo, the priest, in a white-and-gold chasuble over a white alb, sits at his chair listening. Soft golden light, a gentle, meditative calm. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The psalmist sings the verses at the ambo 'while the whole congregation sits and listens, normally taking part by means of the response' (GIRM 61, 129, 309); the card is on the people, whose part the response is.",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 61 (the Responsorial Psalm)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 129 (the psalmist and the people's response)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 309–310 (the ambo; the priest's chair facing the people)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Eleventh Sunday in Ordinary Time, Year A, Responsorial Psalm (content/of/formularies/tempore/ordinary-time/week-11/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-11/sunday.json"
+        }
+      ],
+      "catalogMatch": "Responsorial Psalm"
+    },
+    {
+      "id": "second_reading",
+      "letter": "S",
+      "name": {
+        "en-US": "Second Reading",
+        "pt-BR": "Segunda Leitura"
+      },
+      "patronOf": {
+        "en-US": "The voice of the Apostles",
+        "pt-BR": "A voz dos Apóstolos"
+      },
+      "prayerExcerpt": {
+        "en-US": "A reading from the first Letter of Saint Paul to the Corinthians.",
+        "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json readings.C.secondReading introduction (full stop added; verbatim otherwise)",
+      "subject": "The Second Reading at a Sunday Mass, seen from low beside the ambo, looking up. A middle-aged lay reader in a dark suit stands at a tall carved wooden ambo, seen in profile, reading from the large open Lectionary with both hands resting on its edges; the pages show no letters. On the side panel of the ambo, a small carved relief of the Apostle Paul holding a sword and a book. Behind and below, the congregation sits in the pews listening, small, faces turned up toward him; the long nave stretches back to a round rose window glowing high above the west doors. A shaft of sunlight from a high window falls across the ambo. Quiet, earnest. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Second Reading is proclaimed from the ambo by a reader, all seated and listening, with the same acclamation as the first (GIRM 130, 43); on Sundays it is from the Apostle, here Paul's First Letter to the Corinthians (Second Sunday, Year C), whence the carved St. Paul with his sword and book. The reader is a layman in ordinary dress, against the alb of the First Reading.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 130, 196 (the Second Reading; the reader)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 2, nos. 43, 59 (sitting for the readings; readers)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Year C, Second Reading (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+        }
+      ],
+      "catalogMatch": "Second Reading"
+    },
+    {
+      "id": "gospel_acclamation",
+      "letter": "G",
+      "name": {
+        "en-US": "Gospel Acclamation",
+        "pt-BR": "Aclamação ao Evangelho"
+      },
+      "patronOf": {
+        "en-US": "We greet the Lord who is about to speak",
+        "pt-BR": "Saudamos o Senhor que vai falar"
+      },
+      "prayerExcerpt": {
+        "en-US": "Alleluia, alleluia. Speak, O Lord, your servant is listening; you have the words of everlasting life. Alleluia.",
+        "pt-BR": "Aleluia, aleluia. Fala, Senhor, que te escuta teu servo! Tu tens palavras de vida eterna! Aleluia."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-13/sunday.json readings.C.gospelAcclamation verse (whole, verbatim in both languages)",
+      "subject": "The Alleluia before the Gospel, seen from the side of the sanctuary. At the centre, the priest, in a white-and-gold chasuble over a white alb, bows profoundly before the altar with his hands joined, seen in profile; on the altar, with its white cloth, crucifix and lit candles, lies the closed Book of the Gospels bound in red and gold. At the foot of the altar steps wait two servers holding tall lit candles and a thurifer with a smoking thurible. In the foreground, at the edge of the sanctuary, the people stand and sing, half-length; beside them a cantor in cassock and surplice leads the Alleluia from an open songbook, his hand raised. Expectant, joyful. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Alleluia is sung by everybody, standing, led by a cantor or choir (GIRM 62, 131); meanwhile the priest puts incense in the thurible and, 'with hands joined, bows profoundly before the altar' saying Munda cor meum, then takes up the Book of the Gospels from the altar, the candles and thurible going before him (GIRM 132–133).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 62 (the Acclamation before the Gospel)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 131–133 (all rise; Munda cor meum; the Book of the Gospels taken from the altar)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Thirteenth Sunday in Ordinary Time, Year C, Gospel Acclamation (content/of/formularies/tempore/ordinary-time/week-13/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-13/sunday.json"
+        }
+      ],
+      "catalogMatch": "Gospel Acclamation"
+    },
+    {
+      "id": "gospel",
+      "letter": "G",
+      "name": {
+        "en-US": "Gospel",
+        "pt-BR": "Evangelho"
+      },
+      "patronOf": {
+        "en-US": "Christ speaks to his people",
+        "pt-BR": "Cristo fala ao seu povo"
+      },
+      "prayerExcerpt": {
+        "en-US": "A reading from the holy Gospel according to John. Glory to you, O Lord.",
+        "pt-BR": "Proclamação do Evangelho de Jesus Cristo segundo João. Glória a vós, Senhor."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json readings.C.gospel introduction (the ✠ dropped, full stop added) and the people's reply gloryToYou in apps/app/src/sources/of/responses.ts",
+      "subject": "The proclamation of the Gospel at a Sunday Mass, seen from the nave looking up at the ambo at an angle. At a tall stone ambo, the priest, in a white-and-gold chasuble over a white alb, stands in profile and swings a smoking thurible toward the open Book of the Gospels, bound in red and gold, resting on the ambo; on either side of the ambo a server holds a tall lit candle, and the thurifer waits behind. In the foreground the congregation stands in the pews, half-length, everyone turned toward the ambo. Clouds of incense rise through a shaft of sunlight. Reverent, majestic. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The high point of the Liturgy of the Word (GIRM 60): at the ambo the priest announces the Gospel, the people acclaim 'Glory to you, O Lord', and he incenses the book, the ministers with candles and thurible having gone before him; all stand, turned toward the ambo (GIRM 133–134, 43). With no deacon, the priest proclaims it (GIRM 59).",
+      "sources": [
+        {
+          "title": "GIRM ch. 2, nos. 43, 59–60 (standing; who proclaims the Gospel; its marks of honour)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 133–134 (the Gospel at the ambo, the acclamation, the incensation of the book)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Year C, Gospel (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+        },
+        {
+          "title": "The people's fixed replies to the readings (apps/app/src/sources/of/responses.ts)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/apps/app/src/sources/of/responses.ts"
+        }
+      ],
+      "catalogMatch": "Gospel"
+    }
+  ]
+}
