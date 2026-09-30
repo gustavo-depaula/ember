@@ -1,0 +1,45 @@
+{
+  "id": "eulogius_cordoba",
+  "feast": {
+    "month": 3,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Eulogius of Córdoba",
+    "pt-BR": "Santo Eulógio de Córdoba"
+  },
+  "patronOf": {
+    "en-US": "Priest and martyr",
+    "pt-BR": "Presbítero e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Remember that you have renounced the world and the devil once for all at your Baptism.",
+    "pt-BR": "Lembrai-vos de que renunciastes ao mundo e ao demônio de uma vez por todas no vosso Batismo."
+  },
+  "lifeChapter": "mar-11-eulogius",
+  "meta": {
+    "face": "A Hispano-Roman of about forty-five with a warm, sun-browned olive complexion and a WIDE face with a LOW, BROAD forehead — the crown BALD with a fringe of short black hair, a STRONG, AQUILINE, sharply HOOKED nose, WIDE, FLAT cheekbones, small, bright, kindly dark eyes crinkled at the corners, thick, straight black brows, a wide, gentle mouth; a dense, SHORT black beard cut SQUARE at the chin, touched with grey; the gaze warm and encouraging, toward us.",
+    "basis": "No likeness from life; Paulus Alvarus, his friend, described his gentleness and kindness (Wikipedia). A Spanish painting of his martyrdom (Wikipedia lead image) shows him bald and bearded, and the card keeps the bald crown and the beard. The book's engraving shows him in prison, seated by a book; the book and palm follow his writing and martyrdom. The Roman bridge stood in his day (Wikipedia).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-11 reflection, third sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eulogius of Córdoba (lead image: his martyrdom)",
+        "url": "https://en.wikipedia.org/wiki/Eulogius_of_C%C3%B3rdoba"
+      },
+      {
+        "title": "Wikipedia, Roman bridge of Córdoba",
+        "url": "https://en.wikipedia.org/wiki/Roman_bridge_of_C%C3%B3rdoba"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-11-eulogius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-11-eulogius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

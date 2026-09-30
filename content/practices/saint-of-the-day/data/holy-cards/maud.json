@@ -1,0 +1,45 @@
+{
+  "id": "maud",
+  "feast": {
+    "month": 3,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Maud",
+    "pt-BR": "Santa Matilde"
+  },
+  "patronOf": {
+    "en-US": "Queen of Germany",
+    "pt-BR": "Rainha da Germânia"
+  },
+  "prayerExcerpt": {
+    "en-US": "The beginning of true virtue is most ardently to desire it, and to ask it of God with the utmost assiduity and earnestness.",
+    "pt-BR": "O princípio da verdadeira virtude é desejá-la com o maior ardor, e pedi-la a Deus com a máxima assiduidade e seriedade."
+  },
+  "lifeChapter": "mar-14-maud",
+  "meta": {
+    "face": "A Saxon matron of about sixty-five with a fair, fresh, lightly ruddy complexion and a BROAD, SQUARE, strong-boned face — a wide, low forehead, a SHORT nose with a broad, flat bridge, a PROMINENT, SQUARE jaw softening into slight jowls, small, deep-set, twinkling grey eyes in a web of laughter lines, straight, fair-grey brows, a wide, thin-lipped mouth in a kindly half-smile; hair hidden under the wimple; the gaze warm and attentive, toward the sick.",
+    "basis": "No likeness from life; the chronicle drawings on Wikipedia (Commons) show a crowned, veiled queen without individual features. The book's engraving shows her serving the sick with a cup; her foundation and burial at Quedlinburg are from Wikipedia. The broad, square Saxon face is our choice, apart from the set's long-faced queens.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-14 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Matilda of Ringelheim (lead image: chronicle drawing)",
+        "url": "https://en.wikipedia.org/wiki/Matilda_of_Ringelheim"
+      },
+      {
+        "title": "Wikipedia, Quedlinburg Abbey",
+        "url": "https://en.wikipedia.org/wiki/Quedlinburg_Abbey"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-14-maud (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-14-maud.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

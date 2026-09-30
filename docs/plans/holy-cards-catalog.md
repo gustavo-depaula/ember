@@ -325,16 +325,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 27 Feb · St. Leander, Bishop · *São Leandro, Bispo* · Pictorial Lives — `leander`
 - [x] 28 Feb · Sts. Romanus and Lupicinus, Abbots · *São Romano e São Lupicino, Abades* · Pictorial Lives — `romanus_lupicinus`
 - [x] 29 Feb · St. Oswald, Bishop · *Santo Osvaldo, Bispo* · Pictorial Lives — `oswald_worcester`
-- [ ] 1 Mar · St. David, Bishop · *São David, Bispo* · Pictorial Lives
-- [ ] 1 Mar · St. Albinus, Bishop · *Santo Albino, Bispo* · Pictorial Lives
-- [ ] 2 Mar · St. Simplicius, Pope · *São Simplício, Papa* · Pictorial Lives
-- [ ] 3 Mar · St. Cunegundes, Empress · *Santa Cunegundes, Imperatriz* · Pictorial Lives
-- [ ] 5 Mar · Sts. Adrian and Eubulus, Martyrs · *Santo Adrião e Santo Êubulo, Mártires* · Pictorial Lives
-- [ ] 6 Mar · St. Colette, Virgin · *Santa Coleta, Virgem* · Pictorial Lives
-- [ ] 10 Mar · The Forty Martyrs of Sebaste · *Os Quarenta Mártires de Sebaste* · Pictorial Lives
-- [ ] 11 Mar · St. Eulogius, Martyr · *Santo Eulógio, Mártir* · Pictorial Lives
-- [ ] 13 Mar · St. Euphrasia, Virgin · *Santa Eufrásia, Virgem* · Pictorial Lives
-- [ ] 14 Mar · St. Maud, Queen · *Santa Maud, Rainha* · Pictorial Lives
+- [x] 1 Mar · St. David, Bishop · *São David, Bispo* · Pictorial Lives — `david_wales`
+- [x] 1 Mar · St. Albinus, Bishop · *Santo Albino, Bispo* · Pictorial Lives — `albinus_angers`
+- [x] 2 Mar · St. Simplicius, Pope · *São Simplício, Papa* · Pictorial Lives — `simplicius`
+- [x] 3 Mar · St. Cunegundes, Empress · *Santa Cunegundes, Imperatriz* · Pictorial Lives — `cunegundes`
+- [x] 5 Mar · Sts. Adrian and Eubulus, Martyrs · *Santo Adrião e Santo Êubulo, Mártires* · Pictorial Lives — `adrian_eubulus`
+- [x] 6 Mar · St. Colette, Virgin · *Santa Coleta, Virgem* · Pictorial Lives — `colette`
+- [x] 10 Mar · The Forty Martyrs of Sebaste · *Os Quarenta Mártires de Sebaste* · Pictorial Lives — `forty_martyrs_sebaste`
+- [x] 11 Mar · St. Eulogius, Martyr · *Santo Eulógio, Mártir* · Pictorial Lives — `eulogius_cordoba`
+- [x] 13 Mar · St. Euphrasia, Virgin · *Santa Eufrásia, Virgem* · Pictorial Lives — `euphrasia`
+- [x] 14 Mar · St. Maud, Queen · *Santa Maud, Rainha* · Pictorial Lives — `maud`
 - [ ] 15 Mar · St. Zachary, Pope · *São Zacarias, Papa* · Pictorial Lives
 - [ ] 16 Mar · Sts. Abraham and Mary · *Santo Abraão e Santa Maria* · Pictorial Lives
 - [ ] 20 Mar · St. Wulfran, Archbishop · *São Wulfrano, Arcebispo* · Pictorial Lives

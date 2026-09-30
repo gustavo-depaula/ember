@@ -1,0 +1,45 @@
+{
+  "id": "david_wales",
+  "feast": {
+    "month": 3,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. David of Wales",
+    "pt-BR": "São Davi de Gales"
+  },
+  "patronOf": {
+    "en-US": "Patron of Wales",
+    "pt-BR": "Padroeiro do País de Gales"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Take me up with Thee.\"",
+    "pt-BR": "\"Leva-me contigo.\""
+  },
+  "lifeChapter": "mar-01-david",
+  "meta": {
+    "face": "A Briton of about seventy, lean and weathered by the sea wind, with a fair, ruddy complexion and a BROAD, UPRIGHT RECTANGULAR face whose most striking feature is a HEAVY, OVERHANGING BROW RIDGE — small, bright, sea-grey eyes set DEEP in its shadow, thick, straight white brows, a SHORT, BROAD nose with a FLAT bridge, wide, high cheekbones over lean cheeks, a broad, straight, thin-lipped mouth open a little as he speaks, a firm, SQUARE chin; the front of the head shaved back to a line from ear to ear in the old insular monk's tonsure, the white hair behind it falling straight to the collar; a SHORT, close-cropped white beard following the square jaw; the gaze fiery and direct, out over the crowd.",
+    "basis": "No likeness survives. The book tells the ground rising under him as he preached at Brefi; Wikipedia adds the white dove that settled on his shoulder there, his emblem, and that he is usually shown standing on a hill with the dove. The heavy brow, the flat short nose and the insular tonsure (ear to ear; its exact shape is uncertain, per Wikipedia) are our choice, to keep him from the set's other white-bearded elders.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-01-david.md, his last words in the last paragraph (the chapter has no Reflection; the 03-01 index reflection is St. Albinus's) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint David (the dove, the hill at Brefi; lead image: stained glass at Castell Coch)",
+        "url": "https://en.wikipedia.org/wiki/Saint_David"
+      },
+      {
+        "title": "Wikipedia, Tonsure (the Celtic tonsure)",
+        "url": "https://en.wikipedia.org/wiki/Tonsure"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-01-david (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-01-david.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

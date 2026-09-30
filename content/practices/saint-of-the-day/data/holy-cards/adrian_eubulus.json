@@ -1,0 +1,45 @@
+{
+  "id": "adrian_eubulus",
+  "feast": {
+    "month": 3,
+    "day": 5
+  },
+  "name": {
+    "en-US": "Sts. Adrian and Eubulus",
+    "pt-BR": "Santos Adrião e Êubulo"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Caesarea",
+    "pt-BR": "Mártires de Cesareia"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is in vain that we take the name of Christians, or pretend to follow Christ, unless we carry our crosses after Him.",
+    "pt-BR": "É em vão que tomamos o nome de cristãos, ou pretendemos seguir a Cristo, a não ser que levemos as nossas cruzes após Ele."
+  },
+  "lifeChapter": "mar-05-sts-adrian-and-eubulus",
+  "meta": {
+    "face": "Two clearly different young men of Palestine with warm olive-brown skin. ADRIAN (left): about thirty, with a COMPACT, ROUND-TOPPED head and a BROAD, SHORT face — PROMINENT, round, high cheekbones, a SHORT, broad nose with a slightly flattened tip, narrow, dark almond eyes that turn up at the outer corners, thick, straight black brows, a wide, full mouth; short, tight black curls; a SHORT, ROUNDED black beard; his gaze bold, toward us. EUBULUS (right): about twenty-two, with a LONG, THIN, bony face — a high, narrow forehead, a LONG nose with a pronounced HUMP, large, soft, dark eyes under softly arched brows, lean cheeks, a small mouth, a LONG, narrow chin; straight black hair falling over the forehead; only a faint DOWN of first beard on the lip and chin; his gaze gentle, turned toward Adrian.",
+    "basis": "No likenesses survive. The Painter's Manual gives Adrian 'a young man with a rounded beard' and Eubulus 'an incipient beard', and the card follows both. The book's engraving shows two haloed men seized at the city gate by soldiers; the gate and Caesarea's harbour (Wikipedia) are the background. The face structures are our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-05 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the martyrs of the year",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Wikipedia, Caesarea Maritima (Herod's harbour)",
+        "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-05-sts-adrian-and-eubulus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-05-sts-adrian-and-eubulus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "albinus_angers",
+  "feast": {
+    "month": 3,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Albinus of Angers",
+    "pt-BR": "Santo Albino de Angers"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Angers",
+    "pt-BR": "Bispo de Angers"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"He that humbleth himself shall be exalted.\"",
+    "pt-BR": "\"Aquele que se humilha será exaltado.\""
+  },
+  "lifeChapter": "mar-01-albinus",
+  "meta": {
+    "face": "A Breton Gallo-Roman of about eighty, CLEAN-SHAVEN, with a pale, soft, pink complexion and a PEAR-SHAPED face — NARROW temples and a narrowish, high, lined forehead widening down to FULL, soft, heavy JOWLS and a broad, soft double chin; a LONG, THICK, straight nose with a rounded tip; small, gentle, deep-set brown eyes with heavy pouches beneath, lowered in humility; sparse, faint white brows; a small mouth with a soft, full lower lip; a thin ring of white hair round a bald crown; the gaze modest and kind, down toward the child.",
+    "basis": "No likeness survives; the book's engraving shows a mitred bishop giving alms at a church door among the poor and crippled, and the card keeps the alms. His Breton birth, abbacy and see are from the book and Wikipedia; Angers stands on the Maine (Wikipedia). The clean-shaven pear-shaped old face is our choice, to set him apart from St. David on the same day.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-01 reflection, the words of Christ it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Albinus of Angers (lead image: miniature of St. Aubin at the Third Council of Orléans)",
+        "url": "https://en.wikipedia.org/wiki/Albinus_of_Angers"
+      },
+      {
+        "title": "Wikipedia, Angers (the Maine)",
+        "url": "https://en.wikipedia.org/wiki/Angers"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-01-albinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-01-albinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}
