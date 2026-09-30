@@ -1,0 +1,45 @@
+{
+  "id": "benjamin",
+  "feast": {
+    "month": 3,
+    "day": 31
+  },
+  "name": {
+    "en-US": "St. Benjamin",
+    "pt-BR": "São Benjamim"
+  },
+  "patronOf": {
+    "en-US": "Deacon and martyr",
+    "pt-BR": "Diácono e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Benjamin, who was a minister of the Gospel, declared that he should miss no opportunity of announcing Christ.",
+    "pt-BR": "Benjamim, que era um ministro do Evangelho, declarou que não perderia nenhuma oportunidade de anunciar Cristo."
+  },
+  "lifeChapter": "mar-31-benjamin",
+  "meta": {
+    "face": "A Persian of about twenty-eight with a warm, light-brown complexion and a SOFT face with smooth, ROUND cheeks that fall away to a SHORT, gently RECEDING chin under a LONG, HIGH-BRIDGED, ARCHED nose — a smooth, rounded forehead, LARGE, dark, heavy-lidded almond eyes set WIDE apart, fine, HIGH-ARCHED black brows, a small, full, bow-shaped mouth; thick, glossy black hair in loose waves to the ears; only a first thin moustache and a sparse down of beard along the jaw; the gaze candid and ardent, toward us.",
+    "basis": "No likeness survives. The Painter's Manual, among the holy deacons, gives 'Benjamin, a young man with an incipient beard' (feast 13 October, the Eastern date of this Benjamin, as Wikipedia confirms); the modern icon on Wikipedia shows a young, curly-haired deacon with a book. The book tells his year in prison, his release through the emperor's ambassador and his refusal to keep silent; its engraving shows him seated in his dungeon. The round-cheeked face with the long arched nose and receding chin is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-31-benjamin.md, second paragraph, from \"Benjamin, who was\" (the day's reflection is one long prayer to the martyrs with no clause that stands alone) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Benjamin the Deacon and Martyr (lead image: icon)",
+        "url": "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the holy deacons",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-31-benjamin (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-31-benjamin.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

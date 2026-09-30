@@ -1,0 +1,45 @@
+{
+  "id": "perpetuus",
+  "feast": {
+    "month": 4,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Perpetuus",
+    "pt-BR": "São Perpétuo"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Tours",
+    "pt-BR": "Bispo de Tours"
+  },
+  "prayerExcerpt": {
+    "en-US": "Even when we cannot give, words of kindness are as a precious balm.",
+    "pt-BR": "Mesmo quando não podemos dar, as palavras de bondade são como um bálsamo precioso."
+  },
+  "lifeChapter": "apr-08-perpetuus",
+  "meta": {
+    "face": "A Gallo-Roman of senatorial family, about sixty-five, with a pale, olive-tinged complexion and a LONG, OVAL face with HEAVY, HOODED eyelids that give the eyes a half-closed, gentle look — a broad, FLAT, low nose bridge widening to a broad nose, soft, sloping cheeks, a FULL, projecting LOWER LIP, a rounded, fleshy chin; thinning grey hair combed forward; a SHORT, close-trimmed grey beard following the jaw; the gaze mild and generous, down toward the poor woman.",
+    "basis": "No likeness from life; the engraving on Wikipedia shows a mitred bishop in later dress. Wikipedia: of a senatorial family of the Auvergne, he built the basilica over St. Martin's tomb (consecrated 470–473) and left his wealth to the poor; the book gives his will, the poor as his heirs and the gold cross with relics for his sister Fidia Julia Perpetua. The heavy-lidded oval face with the full lower lip is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-08 reflection, the first clause of its last sentence, closed with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Perpetuus (lead image: engraving)",
+        "url": "https://en.wikipedia.org/wiki/Perpetuus"
+      },
+      {
+        "title": "Wikipedia, Basilica of St. Martin, Tours (first basilica, 5th century)",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_St._Martin,_Tours"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-08-perpetuus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-08-perpetuus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "redone: first draft garbled the pallium's marks"
+      }
+    ]
+  }
+}

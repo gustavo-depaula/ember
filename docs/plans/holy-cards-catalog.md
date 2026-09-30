@@ -345,16 +345,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 28 Mar · St. Gontran, King · *São Gontrão, Rei* · Pictorial Lives — `gontran`
 - [x] 29 Mar · Sts. Jonas, Barachisius, and their Companions, Martyrs · *São Jonas, São Baraquísio e seus Companheiros, Mártires* · Pictorial Lives — `jonas_barachisius`
 - [x] 30 Mar · St. John Climacus · *São João Clímaco* · Pictorial Lives — `john_climacus`
-- [ ] 31 Mar · St. Benjamin, Deacon, Martyr · *São Benjamim, Diácono, Mártir* · Pictorial Lives
-- [ ] 1 Apr · St. Hugh, Bishop · *Santo Hugo, Bispo* · Pictorial Lives
-- [ ] 3 Apr · St. Richard of Chichester · *São Ricardo de Chichester* · Pictorial Lives
-- [ ] 6 Apr · St. Celestine, Pope · *São Celestino, Papa* · Pictorial Lives
-- [ ] 7 Apr · St. Hegesippus, a Primitive Father · *São Hegésipo, um Padre Primitivo* · Pictorial Lives
-- [ ] 7 Apr · Blessed Herman Joseph of Steinfeld · *Beato Hermano José de Steinfeld* · Pictorial Lives
-- [ ] 8 Apr · St. Perpetuus, Bishop · *São Perpétuo, Bispo* · Pictorial Lives
-- [ ] 9 Apr · St. Mary of Egypt · *Santa Maria Egipcíaca* · Pictorial Lives
-- [ ] 9 Apr · St. John the Almoner · *São João, o Esmoler* · Pictorial Lives
-- [ ] 10 Apr · St. Bademus, Martyr · *São Bademo, Mártir* · Pictorial Lives
+- [x] 31 Mar · St. Benjamin, Deacon, Martyr · *São Benjamim, Diácono, Mártir* · Pictorial Lives — `benjamin`
+- [x] 1 Apr · St. Hugh, Bishop · *Santo Hugo, Bispo* · Pictorial Lives — `hugh_grenoble`
+- [x] 3 Apr · St. Richard of Chichester · *São Ricardo de Chichester* · Pictorial Lives — `richard_chichester`
+- [x] 6 Apr · St. Celestine, Pope · *São Celestino, Papa* · Pictorial Lives — `celestine_i`
+- [x] 7 Apr · St. Hegesippus, a Primitive Father · *São Hegésipo, um Padre Primitivo* · Pictorial Lives — `hegesippus`
+- [x] 7 Apr · Blessed Herman Joseph of Steinfeld · *Beato Hermano José de Steinfeld* · Pictorial Lives — `herman_joseph`
+- [x] 8 Apr · St. Perpetuus, Bishop · *São Perpétuo, Bispo* · Pictorial Lives — `perpetuus`
+- [x] 9 Apr · St. Mary of Egypt · *Santa Maria Egipcíaca* · Pictorial Lives — `mary_egypt`
+- [x] 9 Apr · St. John the Almoner · *São João, o Esmoler* · Pictorial Lives — `john_almoner`
+- [x] 10 Apr · St. Bademus, Martyr · *São Bademo, Mártir* · Pictorial Lives — `bademus`
 - [ ] 12 Apr · St. Julius, Pope · *São Júlio, Papa* · Pictorial Lives
 - [ ] 13 Apr · St. Hermenegild, Martyr · *São Hermenegildo, Mártir* · Pictorial Lives
 - [ ] 14 Apr · St. Benezet, or Little Bennet · *São Benezet, ou o Pequeno Bennet* · Pictorial Lives

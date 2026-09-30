@@ -1,0 +1,45 @@
+{
+  "id": "bademus",
+  "feast": {
+    "month": 4,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Bademus",
+    "pt-BR": "São Bademo"
+  },
+  "patronOf": {
+    "en-US": "Abbot and martyr",
+    "pt-BR": "Abade e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "He triumphed over his torments by the patience and joy with which he suffered them for Christ.",
+    "pt-BR": "Triunfou sobre seus tormentos pela paciência e alegria com que os sofria por Cristo."
+  },
+  "lifeChapter": "apr-10-bademus",
+  "meta": {
+    "face": "A Persian of about fifty with a warm, light-brown complexion and a WIDE, HEAVY-JAWED face with SQUARE, fleshy cheeks — a strong, BROAD, STRAIGHT nose with FLARED nostrils, heavy-lidded, long almond eyes that TILT DOWN at the outer corners, thick, straight black brows set LOW, a full, wide, calm mouth; black hair cut short, streaked with grey; a THICK black beard shot with grey, cut ROUNDED at the chin; the gaze calm, joyful and inward.",
+    "basis": "No likeness survives; Wikipedia's lead image is the book's own engraving of him kneeling at a desk. Wikipedia and the book: a rich noble of Bethlapeta, founder and abbot of a monastery, imprisoned with seven monks under Shapur II and beheaded in 376. Bethlapeta is Gundeshapur in Khuzistan (Wikipedia). The wide, heavy-jawed face with down-tilted eyes is our choice, apart from `jonas_barachisius`, the other Persian martyrs.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-10-bademus.md, first paragraph, last sentence without its opening 'But' / 'Mas' (the day's reflection has no sentence short enough to stand alone) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Bademus (lead image: engraving)",
+        "url": "https://en.wikipedia.org/wiki/Bademus"
+      },
+      {
+        "title": "Wikipedia, Gundeshapur (Syriac Beth Lapat, Bethlapeta)",
+        "url": "https://en.wikipedia.org/wiki/Gundeshapur"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-10-bademus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-10-bademus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

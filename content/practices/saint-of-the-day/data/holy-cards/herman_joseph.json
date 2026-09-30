@@ -1,0 +1,49 @@
+{
+  "id": "herman_joseph",
+  "feast": {
+    "month": 4,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Herman Joseph of Steinfeld",
+    "pt-BR": "São Hermano José de Steinfeld"
+  },
+  "patronOf": {
+    "en-US": "Premonstratensian canon",
+    "pt-BR": "Cônego premonstratense"
+  },
+  "prayerExcerpt": {
+    "en-US": "Be intimate with her; confide in her; commend to her every want and every project, small as well as great.",
+    "pt-BR": "Sê íntimo dela; confia nela; recomenda-lhe toda necessidade e todo projeto, tanto os pequenos quanto os grandes."
+  },
+  "lifeChapter": "apr-07-blessed-herman-joseph-of-steinfeld",
+  "meta": {
+    "face": "A Rhinelander of about twenty-five, visibly a young man and not a boy, CLEAN-SHAVEN, with a fair, fresh complexion and a SHORT, ROUND face under a prominent, ROUNDED, BOSSED forehead — a WIDE, low, flat nose bridge and a SMALL, slightly UPTURNED nose, very LARGE, wide-set, clear brown eyes under soft, high-arched brows, round, full cheeks, a small, soft rosebud mouth, a small, round chin; thick, dark-brown CURLY hair round the tonsure; the gaze trusting and loving, lifted to the image. The statue's face: a Romanesque carved face, long, calm and stylised, painted, with a gilt crown.",
+    "basis": "No likeness from life; van Dyck's 'Vision of the Blessed Hermann Joseph' (Wikipedia's lead image) shows him as a young, dark-haired canon in white. Wikipedia: his devotion at St. Maria im Kapitol, the apple, the white Premonstratensian habit, and the apple still left at his tomb; the church keeps a 'Hermann-Josef' Virgin with the apple of about 1180 (Wikipedia, St. Maria im Kapitol). The card shows him young, with van Dyck and the book's 'early death'; Wikipedia says he died in 1241 at about ninety. The round face with the bossed forehead is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-07-blessed-herman-joseph-of-steinfeld.md Reflection, second sentence (Pictorial Lives, public domain); also the index's 04-07 reflection",
+    "sources": [
+      {
+        "title": "Wikipedia, Hermann Joseph (confirmation of cult 1958; lead image: van Dyck)",
+        "url": "https://en.wikipedia.org/wiki/Hermann_Joseph"
+      },
+      {
+        "title": "Wikipedia (de), Hermann Joseph von Steinfeld (Heiligenstatus 11 August 1958)",
+        "url": "https://de.wikipedia.org/wiki/Hermann_Joseph_von_Steinfeld"
+      },
+      {
+        "title": "Wikipedia, St. Maria im Kapitol (Hermann-Josef Virgin with the apple, c. 1180)",
+        "url": "https://en.wikipedia.org/wiki/St._Maria_im_Kapitol"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-07-blessed-herman-joseph-of-steinfeld (chapter, public domain; no engraving)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-07-blessed-herman-joseph-of-steinfeld.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

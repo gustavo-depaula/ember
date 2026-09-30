@@ -1,0 +1,45 @@
+{
+  "id": "celestine_i",
+  "feast": {
+    "month": 4,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Celestine",
+    "pt-BR": "São Celestino"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Blessed are the servants whom the Lord at His coming shall find watching.\"",
+    "pt-BR": "\"Bem-aventurados os servos que o Senhor, ao chegar, encontrar vigilantes.\""
+  },
+  "lifeChapter": "apr-06-celestine",
+  "meta": {
+    "face": "A Roman of about seventy with a warm olive complexion and a BROAD-JAWED, heavy-boned head whose centre is a MASSIVE, HOOKED Roman nose — a LOW, heavy BROW RIDGE with thick, STRAIGHT white brows in one level line, small, bright, deep-set dark eyes, flat cheeks cut by deep vertical creases, a thin, firm, straight mouth; short white hair combed forward; a SHORT, crisp, tightly CURLED white beard close to the jaw; the gaze vigilant, straight toward us.",
+    "basis": "No likeness from life; Wikipedia's lead image is a modern window at Dundalk. The book tells his condemnation of Nestorius and his sending Germanus to Britain and Palladius to the Scots; Wikipedia: he established the cardinal title of Santa Sabina in 423, whose doors date from his reign or his successor's. The beard and the heavy, hook-nosed face are our choice, apart from the clean-shaven `simplicius`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-06 reflection, the words of Our Lord it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Celestine I (lead image: window at St Patrick's, Dundalk)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Celestine_I"
+      },
+      {
+        "title": "Wikipedia, Santa Sabina (the title of 423)",
+        "url": "https://en.wikipedia.org/wiki/Santa_Sabina"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-06-celestine (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-06-celestine.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

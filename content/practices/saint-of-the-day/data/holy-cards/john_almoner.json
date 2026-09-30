@@ -1,0 +1,49 @@
+{
+  "id": "john_almoner",
+  "feast": {
+    "month": 4,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. John the Almoner",
+    "pt-BR": "São João, o Esmoler"
+  },
+  "patronOf": {
+    "en-US": "Patriarch of Alexandria",
+    "pt-BR": "Patriarca de Alexandria"
+  },
+  "prayerExcerpt": {
+    "en-US": "What sacrifices can we make for the poor which will seem enough, when we reflect that mercy to them is our only means of repaying Jesus Christ, Who sacrificed His life for us?",
+    "pt-BR": "Que sacrifícios podemos fazer pelos pobres que pareçam suficientes, quando refletimos que a misericórdia para com eles é o nosso único meio de retribuir a Jesus Cristo, que sacrificou Sua vida por nós?"
+  },
+  "lifeChapter": "apr-09-john-the-almoner",
+  "meta": {
+    "face": "A Cypriot Greek of about sixty with a warm, ruddy olive complexion and a WIDE, SOFT face — broad at the temples, FULL, rounded, rosy cheeks, a SHORT, straight nose with a ROUND, FLESHY tip, small, bright, CLOSE-SET, twinkling brown eyes deep in laughter creases, bushy white brows lifted at their inner ends, a small, smiling mouth; a bald crown with short white hair curling above the ears; a LONG, flowing, WAVY white beard to mid-breast, rounded at the end, undivided; the gaze merry and tender, down toward the mother and child.",
+    "basis": "No likeness from life. The Painter's Manual, among the holy bishops, gives 'John the Almsgiver, an old man with a long white beard', and the Venetian altarpiece of San Giovanni Elemosinario (Wikipedia's lead image) shows a white-bearded patriarch giving alms. Wikipedia and the book: widowed, made patriarch, the poor his 'lords', the seven churches become seventy, the merchant's grain ship carried to Britain. The wide, rosy face with close-set eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-09-john-the-almoner.md Reflection, the whole of it (Pictorial Lives, public domain) (the index's 04-09 reflection is Mary of Egypt's)",
+    "sources": [
+      {
+        "title": "Wikipedia, John the Merciful (lead image: altar of San Giovanni Elemosinario)",
+        "url": "https://en.wikipedia.org/wiki/John_the_Merciful"
+      },
+      {
+        "title": "Wikipedia, Lighthouse of Alexandria",
+        "url": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the holy hierarchs, John the Almsgiver",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-09-john-the-almoner (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-09-john-the-almoner.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

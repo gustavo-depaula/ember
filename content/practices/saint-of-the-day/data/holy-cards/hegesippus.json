@@ -1,0 +1,41 @@
+{
+  "id": "hegesippus",
+  "feast": {
+    "month": 4,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Hegesippus",
+    "pt-BR": "São Hegésipo"
+  },
+  "patronOf": {
+    "en-US": "Historian of the early Church",
+    "pt-BR": "Historiador da Igreja primitiva"
+  },
+  "prayerExcerpt": {
+    "en-US": "Down to his time no episcopal see or particular church had fallen into error.",
+    "pt-BR": "Até o seu tempo, nenhuma sé episcopal nem igreja particular havia caído em erro."
+  },
+  "lifeChapter": "apr-07-hegesippus-a-primitive-father",
+  "meta": {
+    "face": "A Jew of Judaea of about seventy with a warm, olive-brown complexion and a TALL, HIGH-DOMED head with WIDE temples, the face narrowing to a long jaw — very LARGE, dark, slightly PROTRUDING eyes under HEAVY, arched black-and-grey brows that lift in the centre in a searching look, a LONG, FLESHY nose with a WIDE, ROUNDED tip and full nostrils, HIGH, rounded cheekbones, a full lower lip; thick grey-black hair in tight CURLS round a receding hairline; a long, full, CURLY grey-black beard, rounded at the end; the gaze keen and searching, as of one who has seen many churches.",
+    "basis": "No likeness survives; the Nuremberg Chronicle woodcut (Wikipedia's lead image) shows a curly-haired, bearded writer with a book. Wikipedia, after Eusebius: a convert from Judaism who travelled by Corinth to Rome under Anicetus and wrote the Hypomnemata in five books. The book tells the same, and its engraving shows him standing among ruins with a book. The high-domed head, large eyes and fleshy nose are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-07-hegesippus-a-primitive-father.md, second paragraph, the closing clause of its second sentence, capitalised (the chapter has no Reflection; the index's reflection for that day is Herman Joseph's) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Hegesippus (chronicler) (lead image: Nuremberg Chronicle)",
+        "url": "https://en.wikipedia.org/wiki/Hegesippus_(chronicler)"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-07-hegesippus-a-primitive-father (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-07-hegesippus-a-primitive-father.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}
