@@ -1,0 +1,461 @@
+{
+  "batch": 22,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-22.md",
+  "cards": [
+    {
+      "id": "simeon_jerusalem",
+      "letter": "S",
+      "feast": {
+        "month": 2,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Simeon of Jerusalem",
+        "pt-BR": "São Simeão de Jerusalém"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Jerusalem and martyr",
+        "pt-BR": "Bispo de Jerusalém e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "When shall we begin to study to crucify our passions and die to ourselves, that we may lay a solid foundation of true virtue and establish its reign in our hearts?",
+        "pt-BR": "Quando começaremos a estudar como crucificar as nossas paixões e morrer para nós mesmos, a fim de lançarmos um sólido fundamento de verdadeira virtude e estabelecermos o seu reinado em nossos corações?"
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-18 reflection, last sentence (Pictorial Lives, public domain)",
+      "subject": "St. Simeon, son of Cleophas, kinsman of the Lord and second Bishop of Jerusalem, half-length and bare-headed: a plain unbleached linen tunic under a deep-blue woollen mantle wrapped about the shoulders; in his right hand a tall, plain shepherd's staff, as in the book's engraving, and held to his breast in his left a small, plain wooden cross, the sign of his crucifixion. Behind him, the ruined walls and tumbled golden stones of Jerusalem after the siege, a few humble new houses rising among them, and the Mount of Olives with its grey olive groves beyond, under a clear, pale morning sky. Venerable and serene; no wounds, no mitre, no lettering.",
+      "face": "A Jew of great age, well past a hundred, with a warm, weathered olive complexion and a LONG, NARROW, HATCHET-SHAPED face, keeled down the middle like a blade — a high, narrow forehead, a LONG, THIN, perfectly STRAIGHT nose, small, bright, very dark eyes set DEEP under a jutting brow, sunken temples and cheeks, two deep vertical furrows from nose to mouth, thin lips; long, thin, STRAIGHT white hair falling to the shoulders from a high bald crown; a SPARSE, wispy white beard, straight and thin, reaching only the collarbone, with a thin white moustache; the gaze clear and unafraid, toward us.",
+      "refs": [
+        "jerome",
+        "athanasius",
+        "patrick"
+      ],
+      "basis": "No likeness survives. The Painter's Manual has 'Siméon, frère du Seigneur : très-vieux', and the book has him crucified at a hundred and twenty; its engraving shows a haloed old man with a staff reproaching the Jews in Jerusalem, and the card keeps the staff. The hatchet face, the bare head and the sparse beard are our choice, to keep him apart from the set's other white-bearded elders and from `john_damascene`'s head-cloth.",
+      "sources": [
+        {
+          "title": "Wikipedia, Simeon of Jerusalem",
+          "url": "https://en.wikipedia.org/wiki/Simeon_of_Jerusalem"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-18-simeon (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-18-simeon.md"
+        }
+      ],
+      "lifeChapter": "feb-18-simeon",
+      "catalogMatch": "St. Simeon, Bishop, Martyr"
+    },
+    {
+      "id": "barbatus",
+      "letter": "B",
+      "feast": {
+        "month": 2,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Barbatus",
+        "pt-BR": "São Barbato"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Benevento",
+        "pt-BR": "Bispo de Benevento"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"When the enemy has been cast out of your hearts, renounce him, not only in word, but in work; not only by the sound of the lips, but in every act of your life.\"",
+        "pt-BR": "\"Quando o inimigo houver sido expulso de vossos corações, renunciai-o, não somente em palavra, mas em obra; não somente pelo som dos lábios, mas em cada ato de vossa vida.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-19 reflection, the words of St. Augustine it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Barbatus, Bishop of Benevento, half-length, as a seventh-century bishop without a mitre: a white alb under a full, bell-shaped deep-green chasuble; in his right hand, raised a little, a plain golden chalice (the golden viper of the Lombards melted down for the altar), in his left a plain wooden pastoral staff. Behind him, Benevento: the white marble Arch of Trajan and the city's walls and red roofs on their hill, and down by the river the stump and felled trunk of a great walnut tree, the tree the people had worshipped, under a bright, clearing sky. Fervent and warm-hearted; no serpent, no lettering.",
+      "face": "A Samnite Italian of about sixty-five with a ruddy, sun-browned complexion and a BROAD face with a wide, FLAT-TOPPED, low forehead — a LARGE, FLESHY, BULBOUS nose, small, bright, laughing black eyes set in a web of creases, thick, bushy, straight black-and-grey brows, full, rosy cheeks, a wide, mobile mouth; grey hair cropped round the head; a GREAT, BUSHY, salt-and-pepper beard spreading WIDE over the chest; the gaze eager, as of a preacher about to speak.",
+      "refs": [
+        "nicholas",
+        "ambrose",
+        "charles_borromeo"
+      ],
+      "basis": "No likeness survives; the book's engraving shows him preaching from an ambo. The chalice made from the golden viper and the felling of the walnut tree are from English and Italian Wikipedia (the 'noce delle streghe'); the book tells only the viper and the tree. The bulbous nose and the great spreading beard are our choice, the beard after his name.",
+      "sources": [
+        {
+          "title": "Wikipedia, Barbatus of Benevento (the chalice and the walnut tree)",
+          "url": "https://en.wikipedia.org/wiki/Barbatus_of_Benevento"
+        },
+        {
+          "title": "Wikipedia (it), Barbato di Benevento (lead image: San Barbato fells the walnut tree)",
+          "url": "https://it.wikipedia.org/wiki/Barbato_di_Benevento"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-19-barbatus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-19-barbatus.md"
+        }
+      ],
+      "lifeChapter": "feb-19-barbatus",
+      "catalogMatch": "St. Barbatus, Bishop"
+    },
+    {
+      "id": "eucherius_orleans",
+      "letter": "E",
+      "feast": {
+        "month": 2,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Eucherius of Orléans",
+        "pt-BR": "Santo Euquério de Orléans"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Orléans",
+        "pt-BR": "Bispo de Orléans"
+      },
+      "prayerExcerpt": {
+        "en-US": "Nothing softens the soul and weakens piety so much as frivolous indulgence.",
+        "pt-BR": "Nada amolece a alma e enfraquece a piedade tanto quanto a indulgência frívola."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-20 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Eucherius, Bishop of Orléans, exiled by Charles Martel and made almoner at the abbey of Sarchinium (Saint-Trond), half-length, as an eighth-century monk-bishop without a mitre: the black Benedictine habit of Jumièges under a plain, bell-shaped crimson chasuble; on his left arm a wicker basket of round loaves, and in his right hand one loaf held out to the poor, as in the book's engraving. Behind him, the flat, green Hesbaye country with the stone abbey church and cloister of Saint-Trond, a few poor folk waiting at its gate, and poplars under a soft grey-blue northern sky. Gentle and recollected; no lettering.",
+      "face": "A Frank of Orléans of about fifty-five, CLEAN-SHAVEN, with a fair complexion and a face with a CONCAVE, DISHED PROFILE — a rounded, prominent forehead, a SHORT, softly SCOOPED nose, and a firm, FORWARD chin, so that the profile curves in like a crescent; deep-set, long-lashed grey-green eyes set close under STRAIGHT, low fair brows; smooth, flat cheeks; full, calm lips; a LONG, slender neck; light-brown hair greying, cut in a monk's crown round the tonsure; a pensive gaze, lowered a little toward the poor.",
+      "refs": [
+        "vincent_de_paul",
+        "elizabeth_hungary",
+        "benedict"
+      ],
+      "basis": "No likeness survives; the book's engraving shows him mitred at a church door giving bread from a basket to the poor, and the card keeps the basket and the bread. His monastic years at Jumièges, the exile and Saint-Trond are from the book and Wikipedia. The dished profile is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Eucherius of Orléans (lead image: window at Sint-Truiden)",
+          "url": "https://en.wikipedia.org/wiki/Eucherius_of_Orl%C3%A9ans"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-20-eucherius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-20-eucherius.md"
+        }
+      ],
+      "lifeChapter": "feb-20-eucherius",
+      "catalogMatch": "St. Eucherius, Bishop"
+    },
+    {
+      "id": "severianus_scythopolis",
+      "letter": "S",
+      "feast": {
+        "month": 2,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Severianus of Scythopolis",
+        "pt-BR": "São Severiano de Citópolis"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Let him who stands beware lest he fall.\"",
+        "pt-BR": "\"Aquele que está de pé acautele-se para que não caia.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-21 reflection, the Scripture it quotes (1 Cor 10:12) (Pictorial Lives, public domain)",
+      "subject": "St. Severianus, Bishop of Scythopolis in Palestine, who upheld the Council of Chalcedon, half-length, in fifth-century Eastern vestments: a deep PURPLE-RED phelonion over a white tunic and a white omophorion with small dark crosses; no mitre. He holds a closed Gospel book against his breast with his left hand and a green martyr's palm in his right. Behind him, Scythopolis (Beth Shean): its long colonnaded Roman street, the curved stone theatre and the high green tell above the town, with the hills of Gilboa beyond under a hot, clear sky. Steadfast and grave; no soldiers, no wounds, no lettering.",
+      "face": "A Palestinian Greek of about fifty-five with a warm, dark olive complexion and a ROUND, FULL face — soft, fleshy cheeks, a SHORT, rounded, fleshy nose, LARGE, heavy-lidded dark almond eyes under THICK, HORIZONTAL black brows, a small, full mouth; black, curly hair receding at the temples; a short, ROUND black beard with a single WHITE BLAZE in it at the chin; the gaze quiet and resolute, straight at us.",
+      "refs": [
+        "athanasius",
+        "augustine",
+        "ambrose"
+      ],
+      "basis": "No likeness survives; the book's engraving shows a bearded bishop on his knees, struck down outside the city by soldiers. His see and death after Chalcedon are from the book and Wikipedia. The round face and the white blaze in the beard are our choice, to set him apart from `flavian` and the other Greek bishops.",
+      "sources": [
+        {
+          "title": "Wikipedia, Severian of Scythopolis",
+          "url": "https://en.wikipedia.org/wiki/Severian_of_Scythopolis"
+        },
+        {
+          "title": "Wikipedia, Beit She'an (the Roman theatre, the colonnaded cardo, the tell)",
+          "url": "https://en.wikipedia.org/wiki/Beit_She%27an"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-21-severianus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-21-severianus.md"
+        }
+      ],
+      "lifeChapter": "feb-21-severianus",
+      "catalogMatch": "St. Severianus, Martyr, Bishop"
+    },
+    {
+      "id": "serenus",
+      "letter": "S",
+      "feast": {
+        "month": 2,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Serenus the Gardener",
+        "pt-BR": "São Sereno, o Jardineiro"
+      },
+      "patronOf": {
+        "en-US": "Gardener and martyr",
+        "pt-BR": "Jardineiro e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "The garden affords a beautiful emblem of a Christian's continual progress in the path of virtue.",
+        "pt-BR": "O jardim oferece um belo emblema do contínuo progresso de um cristão no caminho da virtude."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-23-serenus-a-gardener.md, first sentence of the Reflection (the 02-23 index reflection is St. Peter Damian's) (Pictorial Lives, public domain)",
+      "subject": "St. Serenus, the Greek who lived by his own garden at Sirmium in Pannonia, half-length: a plain undyed woollen tunic with the sleeves pushed up, a coarse brown mantle knotted at the shoulder; he leans a long iron-shod wooden spade against his shoulder and holds in his other hand a green martyr's palm, with a little basket of fresh herbs and green vegetables on the low wall beside him. Behind him, his walled kitchen garden in neat rows of beans and cabbages with a fig tree and a well, and beyond the wall the broad River Sava and the roofs of Roman Sirmium, under a soft spring sky. Honest and serene; no woman, no wounds, no lettering.",
+      "face": "A Greek of about forty-five, sun-darkened and weathered from the soil, with a LEAN, ANGULAR face and a CLASSICAL GREEK PROFILE — the long, straight nose running on from the forehead with almost no dip at the bridge, SHARP, HIGH cheekbones with hollows beneath, a LONG, strong jaw, deep-set green-brown eyes with fine crow's feet, level black brows, a WIDE, thin-lipped mouth; short-cropped black hair greying at the temples; a close-trimmed short black beard following the jaw; a steady, open gaze.",
+      "refs": [
+        "francis_assisi",
+        "george",
+        "sebastian"
+      ],
+      "basis": "No likeness survives; the book's engraving shows a bearded, robed gardener with a spade and watering pot rebuking the woman at his garden fence, and the card keeps the spade and the garden. His Greek birth and Sirmium are the book's; Sirmium lay on the Sava (Wikipedia). The classical profile is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Serenus the Gardener (lead image: window at Saint-Cerneuf, Billom)",
+          "url": "https://en.wikipedia.org/wiki/Serenus_the_Gardener"
+        },
+        {
+          "title": "Wikipedia, Sirmium (on the Sava)",
+          "url": "https://en.wikipedia.org/wiki/Sirmium"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-23-serenus-a-gardener (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-23-serenus-a-gardener.md"
+        }
+      ],
+      "lifeChapter": "feb-23-serenus-a-gardener",
+      "catalogMatch": "St. Serenus, a Gardener, Martyr"
+    },
+    {
+      "id": "tarasius",
+      "letter": "T",
+      "feast": {
+        "month": 2,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Tarasius",
+        "pt-BR": "São Tarásio"
+      },
+      "patronOf": {
+        "en-US": "Patriarch of Constantinople",
+        "pt-BR": "Patriarca de Constantinopla"
+      },
+      "prayerExcerpt": {
+        "en-US": "The highest praise which Scripture pronounces on the holy man Job is comprised in these words, \"He was simple and upright.\"",
+        "pt-BR": "O mais alto louvor que a Escritura pronuncia sobre o santo homem Jó está contido nestas palavras: \"Era simples e reto.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-25 reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Tarasius, Patriarch of Constantinople, who called the Second Council of Nicaea, half-length, as in the fourteenth-century fresco in the church of the Theotokos Peribleptos: a white polystavrion phelonion patterned with black crosses and a white omophorion with large black crosses; he holds a Gospel book with a jewelled gold cover against his breast in his left hand and raises his right in blessing; no mitre. Behind him, Constantinople across the water: the great dome of Hagia Sophia, the sea walls and red-tiled roofs, and ships on the Bosporus, under a golden evening sky. Mild and upright; no lettering.",
+      "face": "A Byzantine noble of about seventy with a fair, lightly olive complexion and a full OVAL face — a HIGH, BALD, DOMED forehead with a single grey wisp at the top, heavy-lidded, almond-shaped dark eyes with soft pouches beneath, arched grey brows, a straight nose with a broad bridge, FULL, soft cheeks, a small, full-lipped mouth; grey-brown hair at the sides and back, falling to the nape; a LONG, WEDGE-SHAPED beard of grey-brown combed in waves and ending in a POINT at mid-chest; the gaze gentle and composed.",
+      "refs": [
+        "athanasius",
+        "ambrose",
+        "gregory_great"
+      ],
+      "basis": "No likeness from life. The Painter's Manual gives 'vieillard, barbe en pointe', and the fourteenth-century Peribleptos fresco (Wikipedia lead image, local copy) shows a long face, a high bare forehead and a long, pointed brown-grey beard in a polystavrion; the card follows both. The book's engraving shows him mitred, rebuking the emperor. Hagia Sophia stood in his day.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, fresco of St. Tarasios, Church of the Theotokos Peribleptos (14th century)",
+          "url": "https://commons.wikimedia.org/wiki/File:Agios_Tarasios_Peribleptos.jpg"
+        },
+        {
+          "title": "Wikipedia, Patriarch Tarasios of Constantinople",
+          "url": "https://en.wikipedia.org/wiki/Tarasius_of_Constantinople"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-25-tarasius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-25-tarasius.md"
+        }
+      ],
+      "lifeChapter": "feb-25-tarasius",
+      "catalogMatch": "St. Tarasius"
+    },
+    {
+      "id": "porphyry_gaza",
+      "letter": "P",
+      "feast": {
+        "month": 2,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Porphyry of Gaza",
+        "pt-BR": "São Porfírio de Gaza"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Gaza",
+        "pt-BR": "Bispo de Gaza"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us ask St. Porphyry for a great zeal in keeping this commandment, lest we be led away, as so many are, by a curious and prying mind.",
+        "pt-BR": "Peçamos a São Porfírio um grande zelo em guardar este mandamento, para que não sejamos desviados, como tantos o são, por uma mente curiosa e indiscreta."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-26 reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. Porphyry, Bishop of Gaza, once keeper of the relics of the True Cross at Jerusalem, half-length, in early-fifth-century Eastern vestments: a plain ivory phelonion and a white omophorion with dark-red crosses; no mitre. He holds before his breast a small gold reliquary cross with a sliver of dark wood set in it, and a closed book under his arm. Behind him, Gaza near the sea: a new basilica rising on the site of the pagan temple, its approach paved with reused marble slabs, low houses and palms, and the Mediterranean beyond under a bright, dry sky. Humble and zealous; no idols, no lettering.",
+      "face": "A Greek of Thessalonica of about sixty-five, worn lean by desert penance, with a light olive complexion and a DIAMOND-SHAPED face — a NARROW forehead and a NARROW chin, broadest at WIDE, jutting cheekbones; a SHORT, straight nose with a LOW bridge; very LARGE, PROMINENT dark eyes under thin, arched brows; a wide, thin-lipped mouth; a BALD crown with dark-grey hair left long at the back and sides; a long, STRAIGHT, dark beard streaked with grey, narrowing to the breast; the gaze wide and earnest.",
+      "refs": [
+        "athanasius",
+        "jerome",
+        "ambrose"
+      ],
+      "basis": "No portrait survives. The sixteenth-century fresco at Dionysiou on Mount Athos (Wikipedia lead image, local copy) shows him balding with a long dark beard greying, in a phelonion with crosses; the card keeps those. The relics of the Cross and the church over the temple of Gaza, paved with its marbles, are the book's; his age (bishop at forty-five, died 420) follows Wikipedia on the Vita by Mark the Deacon. The diamond face is our choice.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, St. Porphyry of Gaza, fresco by Tzortzis (Zorzis Fuka), Dionysiou Monastery, Mount Athos",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D1%80%D1%84%D0%B8%D1%80%D0%B8%D0%B9_%D0%93%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9.jpg"
+        },
+        {
+          "title": "Wikipedia, Porphyry of Gaza",
+          "url": "https://en.wikipedia.org/wiki/Porphyry_of_Gaza"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-26-porphyry (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-26-porphyry.md"
+        }
+      ],
+      "lifeChapter": "feb-26-porphyry",
+      "catalogMatch": "St. Porphyry, Bishop"
+    },
+    {
+      "id": "leander",
+      "letter": "L",
+      "feast": {
+        "month": 2,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Leander of Seville",
+        "pt-BR": "São Leandro de Sevilha"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Seville",
+        "pt-BR": "Bispo de Sevilha"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Leander was no less zealous in the reformation of manners than in restoring the purity of faith.",
+        "pt-BR": "São Leandro não foi menos zeloso na reforma dos costumes do que em restaurar a pureza da fé."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-27-leander.md, last paragraph, first clause closed with a full stop (the chapter has no Reflection) (Pictorial Lives, public domain)",
+      "subject": "St. Leander, Bishop of Seville, who brought the Visigoths from Arianism to the Catholic faith, half-length, as in Murillo's portrait in Seville Cathedral: a tall white mitre edged in gold, a white cope with gold orphreys over a white rochet, a gold crozier in his left hand; in his right a rolled parchment held up, his writing against the Arians (blank, no lettering). Behind him, a heavy crimson curtain drawn back on one side and, beyond, the Guadalquivir with the Roman walls and roofs of Hispalis on its bank, under a warm, hazy Andalusian sky. Grave and zealous; no lettering on the scroll or anywhere.",
+      "face": "A Hispano-Roman of about sixty with a pale, sallow olive complexion and a LEAN, LONG face — a high, narrow forehead with the dark hair RECEDING, deep-set, heavy-lidded black eyes under STRONG, ARCHED black brows, a long, straight nose with a slight HUMP at the bridge, flat, lean cheeks, a thin, firm mouth, and a NARROW, POINTED chin; a SHORT, close-trimmed black beard and moustache flecked with grey; the gaze searching and serious, turned a little aside.",
+      "refs": [
+        "augustine",
+        "ambrose",
+        "charles_borromeo"
+      ],
+      "basis": "Murillo's San Leandro (1655, Seville Cathedral; Wikipedia lead image, Commons page consulted) shows a lean, dark, short-bearded face under a white mitre, holding a written sheet against the Arians; tradition, per Commons, says the face was taken from the licenciate Alonso de Herrera. The card follows the painting without its words. The book's engraving shows him bearded with mitre and crozier by him, beside a youth writing.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Bartolomé Esteban Murillo, San Leandro (1655)",
+          "url": "https://commons.wikimedia.org/wiki/File:San_Leandro.jpg"
+        },
+        {
+          "title": "Wikipedia, Leander of Seville",
+          "url": "https://en.wikipedia.org/wiki/Leander_of_Seville"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-27-leander (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-27-leander.md"
+        }
+      ],
+      "lifeChapter": "feb-27-leander",
+      "catalogMatch": "St. Leander, Bishop"
+    },
+    {
+      "id": "romanus_lupicinus",
+      "letter": "R",
+      "feast": {
+        "month": 2,
+        "day": 28
+      },
+      "name": {
+        "en-US": "Sts. Romanus and Lupicinus",
+        "pt-BR": "São Romano e São Lupicino"
+      },
+      "patronOf": {
+        "en-US": "Abbots of the Jura",
+        "pt-BR": "Abades do Jura"
+      },
+      "prayerExcerpt": {
+        "en-US": "The brothers governed the monks jointly and in great harmony.",
+        "pt-BR": "Os irmãos governavam os monges conjuntamente e em grande harmonia."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-28-sts-romanus-and-lupicinus.md, third paragraph, a clause closed with a full stop (the chapter has no Reflection) (Pictorial Lives, public domain)",
+      "subject": "Sts. Romanus and Lupicinus, brothers and abbots of Condat in the Jura, half-length side by side. Romanus (left), the elder and gentler, in a plain undyed grey-brown woollen cowl with the hood lying back, holds a small closed book with a plain red cover against his breast, as his statue shows. Lupicinus (right), the stricter, in the tunic the book describes, made of the skins of beasts sewn together, with its cowl drawn up over his head, holds a wooden bowl with a crust of hard bread and a spoon. Behind them, the dark fir forest of Mount Jura at Condat, where two clear mountain rivers meet, a small clearing with wooden cells and a little chapel, and snow on the upper slopes under a cold, clear sky. Brotherly and peaceful; no lettering.",
+      "face": "Two brothers who must read as different men. ROMANUS, about seventy, fair and rosy, CLEAN-SHAVEN, with a SOFT, rounded OVAL face — a smooth, rounded forehead, a LONG, broad, BLUNT nose with a rounded tip, ROUND, wide-open, kindly light-brown eyes under RAISED, curved white brows that give a look of gentle wonder, full, soft cheeks, a small, smiling mouth over a small, softly rounded chin; a ring of white hair round the tonsure. LUPICINUS, about fifty-five, weathered and gaunt, with a LONG, BONY face and a strong, slightly UNDERSHOT jaw that juts a little beyond the upper lip — a straight, stern, wide mouth, a long, straight nose, DEEP-SET, piercing dark eyes under HEAVY black brows knotted by a deep vertical furrow, sunken cheeks under hard cheekbones; a short, stiff black beard shot with grey; the hood hides his hair.",
+      "refs": [
+        "philip_james",
+        "benedict",
+        "francis_assisi"
+      ],
+      "basis": "No likenesses survive. The book's engraving shows two haloed monks in the forest, one seated and hooded, one standing, and its text gives Lupicinus his tunic of sewn skins and his hard bread; the painted statue of St. Romain at Savennières (French Wikipedia lead image) shows a beardless, tonsured monk holding a red book, which Romanus follows. Condat at the meeting of two rivers is the book's. The contrast between the brothers' faces is our choice, after the book's 'Lupicinus was the more inclined to severity'.",
+      "sources": [
+        {
+          "title": "Wikipédia (fr), Romain de Condat (lead image: statue of St. Romain, Savennières)",
+          "url": "https://fr.wikipedia.org/wiki/Romain_de_Condat"
+        },
+        {
+          "title": "Wikipedia, Romanus of Condat",
+          "url": "https://en.wikipedia.org/wiki/Romanus_of_Condat"
+        },
+        {
+          "title": "Wikipedia, Lupicinus of Condat",
+          "url": "https://en.wikipedia.org/wiki/Lupicinus_of_Condat"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-28-sts-romanus-and-lupicinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-28-sts-romanus-and-lupicinus.md"
+        }
+      ],
+      "lifeChapter": "feb-28-sts-romanus-and-lupicinus",
+      "catalogMatch": "Sts. Romanus and Lupicinus, Abbots"
+    },
+    {
+      "id": "oswald_worcester",
+      "letter": "O",
+      "feast": {
+        "month": 2,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Oswald of Worcester",
+        "pt-BR": "Santo Osvaldo de Worcester"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of York",
+        "pt-BR": "Arcebispo de York"
+      },
+      "prayerExcerpt": {
+        "en-US": "A soul without discipline is like a ship without a helm.",
+        "pt-BR": "Uma alma sem disciplina é como um navio sem leme."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-29 reflection, first clause closed with a full stop (Pictorial Lives, public domain)",
+      "subject": "St. Oswald, Bishop of Worcester and Archbishop of York, reformer of the English monasteries, half-length, as a tenth-century bishop without a mitre: a black Benedictine habit under a full, bell-shaped deep-blue chasuble and a white woollen pallium with black crosses; a plain crozier in his left hand; over his right forearm a white linen towel and in that hand a small bronze basin, for the washing of the poor men's feet in Lent, which he was doing when he died. Behind him, Worcester on the broad River Severn: a small stone Saxon church of St. Mary beside the old cathedral, water meadows and willows, under a soft, luminous English sky. Kindly and noble; no lettering.",
+      "face": "An Englishman of Danish blood, about sixty-five, fair-skinned with a light ruddy colour, of a noble, well-proportioned build, with a LONG, HANDSOME face — a broad, high forehead, a LONG, NARROW, straight nose, HIGH, broad cheekbones, deep-set, clear blue eyes under straight, fair-grey brows, a firm, CLEAN-CUT jaw and a strong chin; a calm, finely drawn mouth; silver-fair hair cut level at the ears; a SHORT, neat, silver-fair beard close along the jaw; the gaze kindly and direct.",
+      "refs": [
+        "patrick",
+        "augustine",
+        "charles_borromeo"
+      ],
+      "basis": "No likeness from life. The book calls him 'endowed with a very rare and beautiful form of body', and Wikipedia gives his Danish parentage and his death while washing the feet of the poor on 29 February 992; the card keeps both. Wikipedia's lead image, a Ramsey Psalter miniature of c. 1300 (Commons calls it only 'a bishop above a ram'), shows a mitred bishop with a short beard. The book has no engraving for this day.",
+      "sources": [
+        {
+          "title": "Wikipedia, Oswald of Worcester",
+          "url": "https://en.wikipedia.org/wiki/Oswald_of_Worcester"
+        },
+        {
+          "title": "Wikimedia Commons, Ramsey Psalter miniature of a bishop and an abbot (Morgan Library MS M.302, fol. 4v)",
+          "url": "https://commons.wikimedia.org/wiki/File:Oswald_and_Eadnoth.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-29-oswald (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-29-oswald.md"
+        }
+      ],
+      "lifeChapter": "feb-29-oswald",
+      "catalogMatch": "St. Oswald, Bishop"
+    }
+  ]
+}
