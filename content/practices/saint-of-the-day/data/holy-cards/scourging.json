@@ -1,0 +1,36 @@
+{
+  "id": "scourging",
+  "name": {
+    "en-US": "The Scourging at the Pillar",
+    "pt-BR": "A Flagelação de Jesus"
+  },
+  "patronOf": {
+    "en-US": "The second Sorrowful Mystery",
+    "pt-BR": "O segundo mistério doloroso"
+  },
+  "prayerExcerpt": {
+    "en-US": "By his wounds we have been healed.",
+    "pt-BR": "Por suas chagas fomos curados."
+  },
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; his hair falls forward past the shoulders, his face pale and gentle, eyes turned to us; bare-shouldered in a white loincloth, shown modestly at half-length. The distant soldier is tiny, seen from behind, face not visible.",
+    "basis": "John 19:1 and Isaiah 53:5 (read at the Good Friday liturgy); the lone Christ at the Column after the scourging, without the tormentors, follows the devotional type of Velázquez's Christ after the Flagellation and the Baroque 'Cristo alla colonna', which keeps the card reverent. Christ from recurring-figures.md.",
+    "excerpt": "content/of/formularies/tempore/lent/week-5/friday.json communionAntiphon, last sentence (1 Pt 2:24; both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia: Christ after the Flagellation (Velázquez, National Gallery)",
+        "url": "https://en.wikipedia.org/wiki/Christ_after_the_Flagellation"
+      },
+      {
+        "title": "John 19 (Douay-Rheims)",
+        "url": "https://www.drbo.org/chapter/50019.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}

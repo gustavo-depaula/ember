@@ -298,7 +298,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives
 - [ ] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives
 - [ ] 16 Jan · St. Honoratus, Archbishop · *Santo Honorato, Arcebispo* · Pictorial Lives
-- [ ] 18 Jan · St. Peter's Chair at Rome · *A Cátedra de São Pedro em Roma* · Pictorial Lives
+- [x] 18 Jan · St. Peter's Chair at Rome · *A Cátedra de São Pedro em Roma* · Pictorial Lives — `peter_chair_rome`
 - [ ] 19 Jan · St. Canutus, King, Martyr · *São Canuto, Rei, Mártir* · Pictorial Lives
 - [ ] 30 Jan · St. Bathildes, Queen · *Santa Batildes, Rainha* · Pictorial Lives
 - [ ] 31 Jan · St. Marcella, Widow · *Santa Marcela, Viúva* · Pictorial Lives
@@ -371,9 +371,9 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 28 Apr · St. Vitalis, Martyr · *São Vital, Mártir* · Pictorial Lives
 - [ ] 29 Apr · St. Peter, Martyr · *São Pedro, Mártir* · Pictorial Lives
 - [ ] 29 Apr · St. Hugh, Abbot of Cluny · *Santo Hugo, Abade de Cluny* · Pictorial Lives
-- [ ] 3 May · The Discovery of the Holy Cross · *A Descoberta da Santa Cruz* · Pictorial Lives
-- [ ] 6 May · St. John Before the Latin Gate · *São João ante a Porta Latina* · Pictorial Lives
-- [ ] 8 May · The Apparition of St. Michael the Archangel · *A Aparição de São Miguel Arcanjo* · Pictorial Lives
+- [x] 3 May · The Discovery of the Holy Cross · *A Descoberta da Santa Cruz* · Pictorial Lives — `discovery_cross`
+- [x] 6 May · St. John Before the Latin Gate · *São João ante a Porta Latina* · Pictorial Lives — `john_latin_gate`
+- [x] 8 May · The Apparition of St. Michael the Archangel · *A Aparição de São Miguel Arcanjo* · Pictorial Lives — `apparition_michael`
 - [ ] 10 May · St. Antoninus, Bishop · *Santo Antonino, Bispo* · Pictorial Lives
 - [ ] 11 May · St. Mammertus, Archbishop · *São Mamerto, Arcebispo* · Pictorial Lives
 - [ ] 12 May · St. Epiphanius, Archbishop · *Santo Epifânio, Arcebispo* · Pictorial Lives
@@ -431,7 +431,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 27 Jul · St. Pantaleon, Martyr · *São Pantaleão, Mártir* · Pictorial Lives
 - [ ] 28 Jul · Sts. Nazarius and Celsus, Martyrs · *São Nazário e São Celso, Mártires* · Pictorial Lives
 - [ ] 30 Jul · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
-- [ ] 1 Aug · St. Peter's Chains · *As Cadeias de São Pedro* · Pictorial Lives
+- [x] 1 Aug · St. Peter's Chains · *As Cadeias de São Pedro* · Pictorial Lives — `peter_chains`
 - [ ] 2 Aug · St. Stephen, Pope and Martyr · *São Estêvão, Papa e Mártir* · Pictorial Lives
 - [ ] 3 Aug · The Finding of St. Stephen's Relics · *O Achado das Relíquias de Santo Estêvão* · Pictorial Lives
 - [ ] 8 Aug · St. Cyriacus and His Companions, Martyrs · *São Ciríaco e Seus Companheiros, Mártires* · Pictorial Lives
@@ -593,7 +593,7 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 
 **Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [x] The Presentation — shares the Presentation of the Lord — `presentation_lord` · [x] The Finding in the Temple — `finding_temple`
 **Luminous** — [x] The Baptism in the Jordan — shares the Baptism of the Lord — `baptism_lord` · [x] The Wedding at Cana — `wedding_cana` · [x] The Proclamation of the Kingdom — `proclamation_kingdom` · [x] The Transfiguration — `transfiguration` · [x] The Institution of the Eucharist — `institution_eucharist`
-**Sorrowful** — [ ] The Agony in the Garden · [ ] The Scourging at the Pillar · [ ] The Crowning with Thorns · [ ] The Carrying of the Cross · [ ] The Crucifixion
+**Sorrowful** — [x] The Agony in the Garden — `agony_garden` · [x] The Scourging at the Pillar — `scourging` · [x] The Crowning with Thorns — `crowning_thorns` · [x] The Carrying of the Cross — `carrying_cross` · [x] The Crucifixion — `crucifixion`
 **Glorious** — [x] The Resurrection — shares Easter Sunday — `easter` · [x] The Ascension — shares the Ascension — `ascension` · [x] The Descent of the Holy Spirit — shares Pentecost — `pentecost` · [x] The Assumption — `assumption` · [x] The Coronation of Mary — shares the Queenship of Mary — `queenship`
 
 ## Seasons

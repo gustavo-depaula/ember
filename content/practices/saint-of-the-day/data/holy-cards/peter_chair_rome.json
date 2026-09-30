@@ -1,0 +1,41 @@
+{
+  "id": "peter_chair_rome",
+  "feast": {
+    "month": 1,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Peter's Chair at Rome",
+    "pt-BR": "A Cátedra de São Pedro em Roma"
+  },
+  "patronOf": {
+    "en-US": "Peter founds the Church of Rome",
+    "pt-BR": "Pedro funda a Igreja de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "As one of God's greatest mercies to His Church, let us earnestly beg of Him to raise up in it zealous pastors, eminently replenished with His Spirit, with which He animated His apostles.",
+    "pt-BR": "Como uma das maiores misericórdias de Deus para com a sua Igreja, peçamos-lhe encarecidamente que suscite nela pastores zelosos, eminentemente repletos de seu Espírito, com o qual animou os seus apóstolos."
+  },
+  "lifeChapter": "jan-18-peters-chair-at-rome",
+  "meta": {
+    "face": "St. Peter as in recurring-figures.md: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; a blue tunic and golden-ochre mantle; here gentle and earnest as he teaches. The listeners are clearly different from him and from each other: Pudens, a Roman of about fifty with a SQUARE, clean-shaven face, a short straight nose, a broad firm jaw and short-cropped dark hair greying at the temples, attentive; his daughter, about sixteen, with a small HEART-SHAPED face, dark eyes and dark hair parted under a pale veil, lips parted in wonder.",
+    "basis": "From the earliest times Rome kept 18 January as the day Peter first sat among its faithful, and the ancient Roman Acts place 'the seat where he first sat' at the Ostrianum on the Via Salaria, by the villa of the senator Pudens where he baptised (Catholic Encyclopedia, 'Chair of Peter'). The chair is painted plain and wooden, as the relic is. Peter's face from recurring-figures.md.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-18 reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Catholic Encyclopedia (1913): Chair of Peter",
+        "url": "https://www.newadvent.org/cathen/03551e.htm"
+      },
+      {
+        "title": "Wikipedia: Chair of Saint Peter (the wooden cathedra)",
+        "url": "https://en.wikipedia.org/wiki/Chair_of_Saint_Peter"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}

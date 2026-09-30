@@ -1,0 +1,45 @@
+{
+  "id": "john_latin_gate",
+  "feast": {
+    "month": 5,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. John Before the Latin Gate",
+    "pt-BR": "São João ante a Porta Latina"
+  },
+  "patronOf": {
+    "en-US": "Unharmed in the boiling oil",
+    "pt-BR": "Ileso no óleo fervente"
+  },
+  "prayerExcerpt": {
+    "en-US": "O singular happiness, to have stood under the cross of Christ!",
+    "pt-BR": "Ó singular felicidade, ter estado sob a cruz de Cristo!"
+  },
+  "lifeChapter": "may-06-john-before-the-latin-gate",
+  "meta": {
+    "face": "St. John as in recurring-figures.md: a beardless young man of about twenty-two with a smooth OVAL face, large upturned brown eyes, a straight nose, a small full mouth; wavy golden-brown hair to the jaw; here in a plain white tunic, his green and red-orange mantle laid over the cauldron's rim; the ever-young, beardless John of the Western tradition, not aged to his historical ninety; eyes raised, peaceful and joyful. The executioners are small and clearly different: one burly with a SQUARE face and a black stubble beard, one young and thin with cropped fair hair; both astonished.",
+    "basis": "Tertullian, quoted by St. Jerome, records that John was plunged into boiling oil at Rome under Domitian and came out unhurt; the Pictorial Lives places it outside the Latin Gate in 95. John was then about ninety, and the book's own engraving shows him old and bearded, but nearly every Western image of this scene keeps the young, beardless John of the evangelist type, so he keeps the face of the john_evangelist card.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 05-06 reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Ad Imaginem Dei: the martyrdom, miracles and death of St. John in art",
+        "url": "http://imaginemdei.blogspot.com/2014/04/man-or-woman-3-st-john-evangelist-or.html"
+      },
+      {
+        "title": "Christian Iconography: St. John in a boiling cauldron, Antonio Balestra (San Stae, Venice)",
+        "url": "https://www.christianiconography.info/Venice%202023/San%20Stae/johnEvangelistMartyrdomBalestra.html"
+      },
+      {
+        "title": "Wikipedia: San Giovanni a Porta Latina",
+        "url": "https://en.wikipedia.org/wiki/San_Giovanni_a_Porta_Latina"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}
