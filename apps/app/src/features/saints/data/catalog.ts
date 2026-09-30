@@ -4,7 +4,6 @@ import { useTranslation } from 'react-i18next'
 import { hearthAssetUrl } from '@/lib/hearth'
 import i18n, { localizeContent } from '@/lib/i18n'
 import { type HolyCard, useHolyCards } from '../useHolyCards'
-import { type SaintOfDayIndex, useSaintOfDayIndex } from '../useSaintOfDayIndex'
 
 // A single saint as it appears in the gallery and the encounter. Display strings
 // are pre-localized for the active language (the hook recomputes on language
@@ -19,8 +18,8 @@ export type SaintEntry = {
   /** Pictorial Lives chapter id powering the encounter's Life slot. */
   lifeChapter?: string
   reflection?: string
-  /** Present only for saints with a drawn holy card; shown once a copy is held. */
-  cardImage?: ImageSource
+  /** The card's art, shown once a copy is held. */
+  cardImage: ImageSource
   patronOf?: string
   prayerExcerpt?: string
   /** The saint's Mass formulary ref, whose collect is the card's prayer. */
@@ -28,74 +27,34 @@ export type SaintEntry = {
   intro?: string
 }
 
-function dateKey(month: number, day: number): string {
-  return `${month}-${day}`
-}
-
 function cardImage(id: string): ImageSource {
   return { uri: hearthAssetUrl(`saints/${id}.webp`) }
 }
 
-// One formatter per build: Intl constructors are slow on Hermes, and a build
-// labels a feast per card (and per index day when silhouettes show).
+// One formatter per build: Intl constructors are slow on Hermes.
 function feastLabeller(lang: string) {
   const format = new Intl.DateTimeFormat(lang, { month: 'long', day: 'numeric' })
   // Year is arbitrary — only month + day are formatted.
   return (month: number, day: number) => format.format(new Date(2001, month - 1, day))
 }
 
-// Temporary: until art exists across the full sanctoral, the gallery shows only
-// saints that have a generated holy card. Flip to `true` to reveal the index
-// silhouettes (uncollected entries) again.
-const includeUncollected = false
-
 type CatalogResult = {
   saints: SaintEntry[]
   byId: Record<string, SaintEntry>
-  total: number
 }
 
-// Both data sources warm in async from Hearth: the bespoke holy cards (small,
-// the collected ones with art) and the 366-day Pictorial Lives index (the rest
-// of the calendar + each card's life). The catalog builds with either still
-// undefined, so the gallery fills in as the blobs land rather than gating on
-// both. A card's life is its own `lifeChapter`, never the index's chapter for
-// its feast day: the book keeps the pre-1969 calendar, so that day's saint is
-// often someone else. The index contributes the plain entries (when uncollected
-// silhouettes are shown).
-function build(
-  cards: HolyCard[] | undefined,
-  index: SaintOfDayIndex | undefined,
-  lang: string,
-): CatalogResult {
-  const bespokeDates = new Set((cards ?? []).map((c) => dateKey(c.feast.month, c.feast.day)))
-
-  const indexEntries: SaintEntry[] = []
+// The holy cards warm in from Hearth; the catalog builds empty while they're
+// in flight. A card's life is its own `lifeChapter`, never the Pictorial Lives
+// chapter for its feast day: the book keeps the pre-1969 calendar, so that
+// day's saint is often someone else.
+function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
   const feastLabel = feastLabeller(lang)
-  // Silhouettes off, the index entries would only be filtered out below.
-  for (const [mmdd, entry] of Object.entries(includeUncollected ? (index ?? {}) : {})) {
-    const month = Number.parseInt(mmdd.slice(0, 2), 10)
-    const day = Number.parseInt(mmdd.slice(3, 5), 10)
-    const key = dateKey(month, day)
-    // A bespoke card owns this day: no silhouette beside the art.
-    if (bespokeDates.has(key)) continue
-    indexEntries.push({
-      id: entry.chapter,
-      name: localizeContent(entry.name),
-      feast: { month, day },
-      feastLabel: feastLabel(month, day),
-      lifeChapter: entry.chapter,
-      reflection: entry.reflection ? localizeContent(entry.reflection) : undefined,
-    })
-  }
-
-  const bespokeEntries: SaintEntry[] = (cards ?? []).map((c: HolyCard) => {
-    const { month, day } = c.feast
-    return {
+  const saints: SaintEntry[] = (cards ?? [])
+    .map((c) => ({
       id: c.id,
       name: localizeContent(c.name),
       feast: c.feast,
-      feastLabel: feastLabel(month, day),
+      feastLabel: feastLabel(c.feast.month, c.feast.day),
       lifeChapter: c.lifeChapter,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),
@@ -103,19 +62,9 @@ function build(
       prayerExcerpt: c.prayerExcerpt ? localizeContent(c.prayerExcerpt) : undefined,
       proper: c.proper,
       intro: c.intro ? localizeContent(c.intro) : undefined,
-    }
-  })
-
-  const merged = [...bespokeEntries, ...indexEntries].sort(byFeastThenName)
-  const all = includeUncollected ? merged : merged.filter((e) => e.cardImage)
-  const byId: Record<string, SaintEntry> = {}
-  for (const e of all) byId[e.id] = e
-
-  return {
-    saints: all,
-    byId,
-    total: all.length,
-  }
+    }))
+    .sort(byFeastThenName)
+  return { saints, byId: Object.fromEntries(saints.map((e) => [e.id, e])) }
 }
 
 function byFeastThenName(a: SaintEntry, b: SaintEntry): number {
@@ -129,17 +78,14 @@ function byFeastThenName(a: SaintEntry, b: SaintEntry): number {
 }
 
 /**
- * The unified saints catalog. The hand-illustrated cards and the Pictorial
- * Lives index both warm in from Hearth: the index enriches each card's life
- * (and, when shown, the uncollected silhouettes). Both are data-only — adding a
- * card means shipping a Hearth blob + image, not an app release.
+ * The saints with a holy card, localized and in calendar order. Data-only:
+ * adding a card means shipping a Hearth blob + image, not an app release.
  */
 export function useSaintsCatalog(): CatalogResult {
   // Subscribe to language changes so localized strings recompute.
   useTranslation()
   const cards = useHolyCards()
-  const index = useSaintOfDayIndex()
   const lang = i18n.language || 'en-US'
 
-  return useMemo(() => build(cards, index, lang), [cards, index, lang])
+  return useMemo(() => build(cards, lang), [cards, lang])
 }

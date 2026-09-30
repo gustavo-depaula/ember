@@ -1,4 +1,3 @@
-import type { Copy } from '@ember/holy-cards'
 import { useEffect, useState } from 'react'
 import { StyleSheet, useWindowDimensions } from 'react-native'
 import { GestureDetector } from 'react-native-gesture-handler'
@@ -11,6 +10,7 @@ import Animated, {
 } from 'react-native-reanimated'
 import { View } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
+import { useCopies } from '../data/collection'
 import { CardBack } from './CardBack'
 import { CardFront } from './CardFront'
 import { CopySheets } from './CopySheets'
@@ -28,7 +28,8 @@ const dealDuration = 260
  * other copies stacked beneath. Each copy has its own back; flicking the back
  * sideways deals the top copy under the stack and turns up the next one's.
  */
-export function SaintCard({ saint, copies }: { saint: SaintEntry; copies: Copy[] }) {
+export function SaintCard({ saint }: { saint: SaintEntry }) {
+  const copies = useCopies(saint.id)
   const { width: screenWidth } = useWindowDimensions()
   const cardWidth = saintCardWidth(screenWidth)
   const cardHeight = cardWidth * 1.5

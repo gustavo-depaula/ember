@@ -22,19 +22,18 @@ const groupings: SaintGrouping[] = ['calendar', 'collected', 'alpha']
 
 export function SaintsGalleryHeader({
   saints,
-  total,
   grouping,
   onGrouping,
 }: {
   saints: SaintEntry[]
-  total: number
   grouping: SaintGrouping
   onGrouping: (g: SaintGrouping) => void
 }) {
   const { t } = useTranslation()
   const today = useToday()
   const held = useHeldCards()
-  const collectedCount = saints.filter((s) => held.has(s.id)).length
+  const total = saints.length
+  const collectedCount = useMemo(() => saints.filter((s) => held.has(s.id)).length, [saints, held])
 
   const todays = useMemo(() => {
     const month = today.getMonth() + 1
@@ -78,7 +77,6 @@ export function SaintsGalleryHeader({
               <LiveCard
                 key={saint.id}
                 saint={saint}
-                copies={held.get(saint.id)?.length ?? 0}
                 label={t('saints.cardLink', { name: saint.name })}
               />
             ))}
@@ -102,11 +100,11 @@ export function SaintsGalleryHeader({
 
 const liveWidth = 104
 
-function LiveCard({ saint, copies, label }: { saint: SaintEntry; copies: number; label: string }) {
+function LiveCard({ saint, label }: { saint: SaintEntry; label: string }) {
   return (
     <Link href={{ pathname: '/saints/[index]', params: { index: saint.id } }} push asChild>
       <Pressable accessibilityRole="link" accessibilityLabel={label} style={styles.liveCard}>
-        <SaintCardTile saint={saint} width={liveWidth} copies={copies} />
+        <SaintCardTile saint={saint} width={liveWidth} />
       </Pressable>
     </Link>
   )

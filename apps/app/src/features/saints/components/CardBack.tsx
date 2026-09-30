@@ -23,8 +23,7 @@ export function CardBack({
 }) {
   const { t } = useTranslation()
   const condition = (() => {
-    // Copies redeemed before copies kept their door carry no `won`: no line.
-    if (copy) return copy.won ? howWon({ door: copy.door, date: copy.won }, t) : undefined
+    if (copy) return howWon({ door: copy.door, date: copy.won }, t)
     if (saint.feastLabel) return t('saints.sealedHow', { date: saint.feastLabel })
     return undefined
   })()

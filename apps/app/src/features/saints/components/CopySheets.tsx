@@ -20,24 +20,22 @@ export function CopySheets({
   radius: number
   step?: number
 }) {
-  // The deepest sheet first, so each lies under the one above it.
-  const shown = sheets.slice(0, Math.max(count - 1, 0))
-  return shown.reverse().map((color, i) => (
-    <View
-      key={color}
-      style={{
-        position: 'absolute',
-        width,
-        height,
-        borderRadius: radius,
-        borderWidth: 1,
-        borderColor: 'rgba(138,106,59,0.45)',
-        backgroundColor: color,
-        transform: [
-          { translateX: (shown.length - i) * step },
-          { translateY: (shown.length - i) * step },
-        ],
-      }}
-    />
-  ))
+  return sheets
+    .slice(0, Math.max(count - 1, 0))
+    .map((color, i) => (
+      <View
+        key={color}
+        style={{
+          position: 'absolute',
+          width,
+          height,
+          borderRadius: radius,
+          borderWidth: 1,
+          borderColor: 'rgba(138,106,59,0.45)',
+          backgroundColor: color,
+          transform: [{ translateX: (i + 1) * step }, { translateY: (i + 1) * step }],
+        }}
+      />
+    ))
+    .reverse()
 }

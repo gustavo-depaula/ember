@@ -45,13 +45,13 @@ function sortLetter(name: string): string {
 function buildSections(
   saints: SaintEntry[],
   grouping: SaintGrouping,
-  held: Map<string, Copy[]>,
+  held: Map<string, Copy[]> | undefined,
   lang: string,
   t: (key: string) => string,
 ): Section[] {
   if (grouping === 'collected') {
-    const collected = saints.filter((s) => held.has(s.id))
-    const rest = saints.filter((s) => !held.has(s.id))
+    const collected = saints.filter((s) => held?.has(s.id))
+    const rest = saints.filter((s) => !held?.has(s.id))
     return [
       { key: 'collected', title: t('saints.group.collectedLabel'), data: toRows(collected) },
       { key: 'notYet', title: t('saints.group.notYet'), data: toRows(rest) },
@@ -117,7 +117,9 @@ export function SaintWall({
   const { t, i18n } = useTranslation()
   const { width: screenWidth } = useWindowDimensions()
   const setOrderedIds = useSaintsViewStore((s) => s.setOrderedIds)
+  // Only the collected grouping reads what's held: a redeem needn't rebuild the others.
   const held = useHeldCards()
+  const heldFor = grouping === 'collected' ? held : undefined
 
   const contentWidth = Math.min(screenWidth - 48, 640)
   const itemWidth = (contentWidth - gap) / columns
@@ -127,9 +129,9 @@ export function SaintWall({
   const { sections, orderedIds } = useMemo(() => {
     const built = searching
       ? [{ key: 'results', title: t('saints.results'), data: toRows(saints) }]
-      : buildSections(saints, grouping, held, i18n.language || 'en-US', t)
+      : buildSections(saints, grouping, heldFor, i18n.language || 'en-US', t)
     return { sections: built, orderedIds: built.flatMap((s) => s.data.flat().map((e) => e.id)) }
-  }, [saints, grouping, held, searching, i18n.language, t])
+  }, [saints, grouping, heldFor, searching, i18n.language, t])
 
   useEffect(() => {
     setOrderedIds(orderedIds)
@@ -151,7 +153,6 @@ export function SaintWall({
                     key={saint.id}
                     saint={saint}
                     width={itemWidth}
-                    copies={held.get(saint.id)?.length ?? 0}
                     label={t('saints.cardLink', { name: saint.name })}
                   />
                 ))}
@@ -164,24 +165,14 @@ export function SaintWall({
   )
 }
 
-function SaintTile({
-  saint,
-  width,
-  copies,
-  label,
-}: {
-  saint: SaintEntry
-  width: number
-  copies: number
-  label: string
-}) {
+function SaintTile({ saint, width, label }: { saint: SaintEntry; width: number; label: string }) {
   return (
     // The `[index]` route param carries the saint's id (the viewer locates it in
     // the wall's published order), not a positional index. A plain Link (not the
     // AppleZoom morph) gives a reliable modal present/dismiss.
     <Link href={{ pathname: '/saints/[index]', params: { index: saint.id } }} push asChild>
       <Pressable accessibilityRole="link" accessibilityLabel={label}>
-        <SaintCardTile saint={saint} width={width} copies={copies} showLabel />
+        <SaintCardTile saint={saint} width={width} showLabel />
       </Pressable>
     </Link>
   )

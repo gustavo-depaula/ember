@@ -2,6 +2,7 @@ import { Image } from 'expo-image'
 import { StyleSheet } from 'react-native'
 import { Text, View, YStack } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
+import { useCopies } from '../data/collection'
 import { CopySheets } from './CopySheets'
 import { cardFrame, cardInk } from './cardFrame'
 
@@ -12,15 +13,14 @@ import { cardFrame, cardInk } from './cardFrame'
 export function SaintCardTile({
   saint,
   width,
-  copies,
   showLabel = false,
 }: {
   saint: SaintEntry
   width: number
-  copies: number
   showLabel?: boolean
 }) {
-  const collected = copies > 0 && !!saint.cardImage
+  const copies = useCopies(saint.id).length
+  const collected = copies > 0
 
   return (
     <YStack width={width} gap="$xs">

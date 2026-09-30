@@ -27,7 +27,7 @@ export function CardFront({
   // Not held yet — the illuminated frame dimmed, the saint named but the
   // portrait still veiled: a reverent "not yet revealed" front, not a locked
   // grey box.
-  if (sealed || !saint.cardImage) {
+  if (sealed) {
     return (
       <View
         position="absolute"

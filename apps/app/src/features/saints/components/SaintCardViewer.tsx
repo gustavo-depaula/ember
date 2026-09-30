@@ -1,4 +1,3 @@
-import type { Copy } from '@ember/holy-cards'
 import { useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, StyleSheet, useWindowDimensions } from 'react-native'
@@ -15,12 +14,9 @@ import { useThemeName, View } from 'tamagui'
 import { GlassSurface } from '@/components'
 import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
-import { useHeldCards } from '../data/collection'
 import { useSaintsViewStore } from '../store'
 import { SaintCard } from './SaintCard'
 import { SaintEncounter, SaintEncounterHeader } from './SaintEncounter'
-
-const noCopies: Copy[] = []
 
 const sheetSpring = { damping: 24, stiffness: 240, mass: 0.9 }
 // How much of the sheet peeks above the bottom at rest — handle + the identity
@@ -41,7 +37,6 @@ export function SaintCardViewer({
 }) {
   const { saints, byId } = useSaintsCatalog()
   const orderedIds = useSaintsViewStore((s) => s.orderedIds)
-  const held = useHeldCards()
   const isDark = useThemeName().startsWith('dark')
   const { t } = useTranslation()
   const { width: screenWidth, height: screenHeight } = useWindowDimensions()
@@ -67,7 +62,6 @@ export function SaintCardViewer({
     ({ item }: { item: SaintEntry }) => (
       <SaintPage
         saint={item}
-        copies={held.get(item.id) ?? noCopies}
         isDark={isDark}
         width={screenWidth}
         height={screenHeight}
@@ -78,7 +72,7 @@ export function SaintCardViewer({
         onClose={onClose}
       />
     ),
-    [held, isDark, screenWidth, screenHeight, insets, peekY, openY, ty, onClose],
+    [isDark, screenWidth, screenHeight, insets, peekY, openY, ty, onClose],
   )
 
   const getItemLayout = useCallback(
@@ -125,7 +119,6 @@ export function SaintCardViewer({
 
 function SaintPage({
   saint,
-  copies,
   isDark,
   width,
   height,
@@ -136,7 +129,6 @@ function SaintPage({
   onClose,
 }: {
   saint: SaintEntry
-  copies: Copy[]
   isDark: boolean
   width: number
   height: number
@@ -173,7 +165,7 @@ function SaintPage({
           card so its flip/tilt gestures still work. */}
       <Pressable onPress={onClose} style={[styles.cardArea, { paddingTop: insets.top + 76 }]}>
         <Pressable onPress={() => {}}>
-          <SaintCard saint={saint} copies={copies} />
+          <SaintCard saint={saint} />
         </Pressable>
       </Pressable>
 
