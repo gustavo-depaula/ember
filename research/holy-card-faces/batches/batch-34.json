@@ -1,0 +1,456 @@
+{
+  "batch": 34,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-34.md",
+  "cards": [
+    {
+      "id": "hyacinth",
+      "letter": "H",
+      "feast": {
+        "month": 8,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Hyacinth",
+        "pt-BR": "São Jacinto"
+      },
+      "patronOf": {
+        "en-US": "Apostle of Poland",
+        "pt-BR": "Apóstolo da Polônia"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Hyacinth teaches us to employ every effort in the service of God, and to rely for success not on our own industry, but on the prayer of His Immaculate Mother.",
+        "pt-BR": "São Jacinto nos ensina a empregar todo esforço no serviço de Deus, e a confiar para o êxito não em nossa própria diligência, mas na oração de sua Imaculada Mãe."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-16-hyacinth.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Hyacinth, half-length, a Dominican friar in the white habit and scapular under the black cappa, a white Mass stole still crossed at his breast because he left the altar without unvesting: in his right hand, held up before his heart, a small gold ciborium veiled in white silk; in the crook of his left arm, light as a reed, a small white alabaster statue of the Virgin and Child. He walks calmly over the still surface of the broad river Dnieper, the water smooth and silver about him; behind him on the high wooded bank the walls and domed churches of Kiev under a pale morning sky. Serene and unhurried; no Tartars, no fire, no smoke, no lettering.",
+      "face": "A Pole of about fifty-five with a fair, wind-reddened northern complexion and an OBLONG face with a FLAT-TOPPED crown — a broad, straight forehead, HIGH, ROUNDED cheekbones set wide in the Slavic manner, a SHORT nose with a broad, slightly UPTURNED tip, SMALL, deep-set, pale-blue eyes under slightly heavy lids and straight, fair brows, a WIDE, level mouth, a firm, SQUARISH chin with a shallow CLEFT; CLEAN-SHAVEN, with fair sandy hair turning grey in the Dominican corona; the gaze calm and trusting, lowered to the ciborium. Not the dark, compact peter_verona, the long, full-oval vincent_ferrer, the white-bearded raymund_penyafort or the domed, bald antoninus_florence.",
+      "refs": [
+        "dominic",
+        "thomas_aquinas",
+        "anthony_padua"
+      ],
+      "basis": "No portrait from life survives. The book's scene (Kiev, the ciborium, the alabaster Madonna, the Dnieper) gives the subject; the face is ours, a Pole of fifty-five (born c. 1185, Kiev sacked 1240), after the Slavic type rather than the dark bearded friar of Carracci's altarpiece.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hyacinth of Poland (lead: Ludovico Carracci's altarpiece)",
+          "url": "https://en.wikipedia.org/wiki/Hyacinth_of_Poland"
+        },
+        {
+          "title": "Santi e Beati, San Giacinto Odrovaz (Roman Martyrology entry, 15 August)",
+          "url": "https://www.santiebeati.it/dettaglio/66250"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-16-hyacinth (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-16-hyacinth.md"
+        }
+      ],
+      "catalogMatch": "16 Aug · St. Hyacinth",
+      "lifeChapter": "aug-16-hyacinth"
+    },
+    {
+      "id": "liberatus",
+      "letter": "L",
+      "feast": {
+        "month": 8,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Liberatus and Six Monks",
+        "pt-BR": "São Liberato e Seis Monges"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Carthage",
+        "pt-BR": "Mártires de Cartago"
+      },
+      "prayerExcerpt": {
+        "en-US": "If as a Christian, let him not be ashamed, but let him glorify God in that name.",
+        "pt-BR": "Se padecer como cristão, não se envergonhe, antes glorifique a Deus nesse nome."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-17-liberatus.md Reflection, the second half of it (the Scripture it quotes, from its 'if as a Christian') (Pictorial Lives, public domain)",
+      "subject": "The seven monks of Capsa, half-length, standing close together inside the arched window on the shore near Carthage: plain, undyed wool monastic tunics and dark hooded cloaks, each holding a small green palm. In front, at the centre, the abbot St. Liberatus with a plain wooden abbot's staff; at his right side, a head shorter, the boy Maximus, pressed close to his abbot, the old man's hand on his shoulder; the five others behind and between them, in two rows. Behind them, a calm blue sea, a weathered old wooden boat drawn up on the sand, and on the headland the white walls of Carthage under a clear African sky. Steadfast and peaceful; no fire, no oars raised, no wounds, no chains, no lettering.",
+      "face": "Seven clearly different North Africans of the Roman province, warm olive-brown to deep-brown skin. LIBERATUS (centre front), the abbot, about sixty-five: a LARGE, BOXY head with a flat crown — a broad, deeply lined forehead, a strong ROMAN nose with a high bridge, grave, HOODED dark-brown eyes, deep lines from nose to mouth, a thin, wide mouth, a SQUARE chin under a short, full WHITE beard cut square; close white hair. MAXIMUS (front, at his right), a boy of about twelve, the darkest-skinned of the group, deep brown: a soft OVAL face with full cheeks, a BROAD, short nose with wide nostrils, very LARGE dark eyes, a full mouth, a softly rounded chin; black hair in short, tight curls close to the head; looking up at his abbot. Not the triangular, big-eared Vitalis or the chubby Martialis of seven_brothers. BEHIND, left to right: BONIFACE, about forty, a ROUND, full face with a short black beard and a broad, kind smile; SERVUS, about thirty, a LONG, NARROW, beardless face with a hooked nose; RUSTICUS, about thirty-five, a BROAD, FLAT face with a snub nose and dark stubble, thick black hair; ROGATUS, about fifty-five, GAUNT, bald on the crown, with a wispy grey beard; SEPTIMUS, about forty-five, a PEAR-SHAPED face, heavy in the jaw, clean-shaven, with short, thick grey-black hair. All gazes calm, some lifted.",
+      "refs": [
+        "philip_james",
+        "benedict",
+        "sebastian"
+      ],
+      "basis": "No likeness survives; Victor of Vita's account, which the book follows, gives only their names, the monastery near Capsa and the boy Maximus's youth. The faces are ours, seven different men and a boy of Roman Africa.",
+      "sources": [
+        {
+          "title": "Santi e Beati, Santi Liberato, Bonifacio, Servio, Rustico, Rogato, Settimo e Massimo (Roman Martyrology entry, 2 July)",
+          "url": "https://www.santiebeati.it/dettaglio/90172"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-17-liberatus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-17-liberatus.md"
+        }
+      ],
+      "catalogMatch": "St. Liberatus, Abbot, and Six Monks",
+      "lifeChapter": "aug-17-liberatus"
+    },
+    {
+      "id": "helena",
+      "letter": "H",
+      "feast": {
+        "month": 8,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Helena",
+        "pt-BR": "Santa Helena"
+      },
+      "patronOf": {
+        "en-US": "Empress, mother of Constantine",
+        "pt-BR": "Imperatriz, mãe de Constantino"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Helena thought it the glory of her life to find the cross of Christ, and to raise a temple in its honor.",
+        "pt-BR": "Santa Helena considerava a glória de sua vida encontrar a cruz de Cristo, e erguer um templo em sua honra."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-18-helena.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Helena alone, half-length, standing as in the book's engraving: her right arm around a tall, plain wooden cross that stands upright beside her, rising out of the window's top edge, her left hand holding three iron nails in her open palm against her breast. Behind her the hills of Jerusalem in soft evening light, and on the rock of Calvary the rising walls and columns of the great basilica she had built, with masons' scaffolding. Grateful and recollected; not the finding scene of discovery_cross (no pit, no three crosses, no sick woman, no bishop), no title board, no lettering.",
+      "face": "St. Helena as in recurring-figures.md: the empress at about seventy-eight (Eusebius: about eighty at her return from Palestine), a LONG, dignified face narrowing to a FIRM, slightly prominent chin — a high forehead, a STRONG, STRAIGHT ROMAN NOSE running on from the line of the brow, large deep-set grey-brown eyes under thin, arched silver brows, lean cheeks with fine lines at the eyes and mouth; silver-white hair waved back from the brow and gathered in a low bun at the nape, as on her coins, under a white veil and a slender jewelled gold diadem; a white stola bordered in gold and a deep purple imperial mantle.",
+      "refs": [
+        "elizabeth_hungary",
+        "bridget_sweden",
+        "monica"
+      ],
+      "basis": "Her face follows recurring-figures.md, written for discovery_cross from her coin portraits and Eusebius's account of her age; her own card must match it. The pose is the book's engraving: the empress standing with the upright cross.",
+      "sources": [
+        {
+          "title": "Wikipedia, Helena, mother of Constantine I (lead: the seated statue in the Capitoline Museums)",
+          "url": "https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
+        },
+        {
+          "title": "Santi e Beati, Sant'Elena, madre dell'imperatore Costantino (Roman Martyrology entry, 18 August)",
+          "url": "https://www.santiebeati.it/dettaglio/66500"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-18-helena (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-18-helena.md"
+        }
+      ],
+      "catalogMatch": "St. Helena, Empress",
+      "lifeChapter": "aug-18-helena"
+    },
+    {
+      "id": "agapetus",
+      "letter": "A",
+      "feast": {
+        "month": 8,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Agapetus",
+        "pt-BR": "Santo Agapito"
+      },
+      "patronOf": {
+        "en-US": "Martyr of Palestrina",
+        "pt-BR": "Mártir de Palestrina"
+      },
+      "prayerExcerpt": {
+        "en-US": "His name is famous in the ancient calendars of the Church of Rome.",
+        "pt-BR": "Seu nome é famoso nos antigos calendários da Igreja de Roma."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-18-helena.md, fourth paragraph (his), second sentence; the chapter is shared with St. Helena and its Reflection is hers, so the card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+      "subject": "St. Agapetus, half-length, a youth of Praeneste in a white tunic and the purple-bordered toga praetexta of a freeborn Roman boy, a gold bulla on a cord at his neck, holding a green palm upright in his right hand, his left hand on his heart. Behind him, the town of Praeneste on its steep hillside, olive groves below and the blue Latin hills and the Campagna toward Rome on the horizon. Young, brave and gentle; no beasts, no arena, no sword, no wounds, no lettering.",
+      "face": "A Roman youth of about fifteen, visibly a boy and not a young man, BEARDLESS, with a fair, lightly sun-warmed complexion and a HEART-SHAPED face — a BROAD, smooth, rounded forehead, wide cheekbones tapering to a SMALL, POINTED chin, a small, straight nose, LARGE, clear GREY eyes under fine, arched light-brown brows, a small, bow-shaped mouth; STRAIGHT light-brown hair, cut short, with one lock falling over the brow; the gaze lifted a little, bright and steady. Not the round, curly pancras, the wide, flat venantius_camerino, the short, wide, bowl-fringed Celsus of nazarius_celsus, or the chubby, curly Martialis of seven_brothers; no curls.",
+      "refs": [
+        "sebastian",
+        "aloysius_gonzaga",
+        "george"
+      ],
+      "basis": "No likeness survives; the Martyrology gives only 'A Palestrina nel Lazio, sant'Agapito, martire', and the book a youth martyred at Praeneste under Aurelian. His legend makes him fifteen or sixteen and of a noble Praenestine family, which the toga praetexta and bulla show; the face is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Agapitus of Palestrina (lead: Prestinari's statue, Milan cathedral museum)",
+          "url": "https://en.wikipedia.org/wiki/Agapitus_of_Palestrina"
+        },
+        {
+          "title": "Santi e Beati, Sant'Agapito, adolescente, martire (Roman Martyrology entry, 18 August)",
+          "url": "https://www.santiebeati.it/dettaglio/92898"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-18-helena (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-18-helena.md"
+        }
+      ],
+      "catalogMatch": "St. Agapetus, Martyr"
+    },
+    {
+      "id": "louis_toulouse",
+      "letter": "L",
+      "feast": {
+        "month": 8,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Louis of Toulouse",
+        "pt-BR": "São Luís de Toulouse"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Toulouse",
+        "pt-BR": "Bispo de Toulouse"
+      },
+      "prayerExcerpt": {
+        "en-US": "His modesty, mildness, and devotion inspired a love of piety in all who beheld him.",
+        "pt-BR": "Sua modéstia, brandura e devoção inspiravam um amor à piedade em todos os que o contemplavam."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-19-louis.md, fourth paragraph, second sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Louis of Toulouse, half-length, a young Franciscan bishop: the rough grey-brown Franciscan habit with its white knotted cord showing beneath a deep-blue cope powdered with small gold fleurs-de-lis and fastened with a gold morse, a white mitre edged in gold, a gold crosier in his left hand; his right hand resting on an open book of the Gospels. Beside him, set aside on a low stone ledge, a small gold royal crown on a red cushion, the kingdom of Naples he gave up. Behind him, the red-brick churches and houses of Toulouse along the wide Garonne under a warm southern sky. Humble and grave; no lettering.",
+      "face": "A prince of twenty-three, CLEAN-SHAVEN, with a pale, smooth complexion and a face WIDER at the JAW than at the brow, after Simone Martini's fresco at Assisi painted some twenty years after his death — a smooth, moderate forehead, a LONG, STRAIGHT nose with a broad base, SMALL, NARROW, heavy-lidded grey eyes under faint, level brows, full, smooth cheeks, a SMALL, closed mouth, a BROAD, rounded jaw on a thick neck; short, light-brown hair showing below the mitre; the gaze turned a little aside, quiet and withdrawn. Not the long, narrow oval of his great-uncle louis_france, nor the older, pear-shaped stanislaus.",
+      "refs": [
+        "charles_borromeo",
+        "bonaventure",
+        "nicholas"
+      ],
+      "basis": "Simone Martini painted him twice within about twenty years of his death (the Assisi fresco and the Naples altarpiece): a pale young bishop with a broad lower face, long nose and small eyes, the Franciscan habit under a fleur-de-lis cope and the renounced crown. The card follows that type.",
+      "sources": [
+        {
+          "title": "Wikipedia, Louis of Toulouse (lead: Simone Martini's fresco at Assisi)",
+          "url": "https://en.wikipedia.org/wiki/Louis_of_Toulouse"
+        },
+        {
+          "title": "Wikipédia (fr), Louis d'Anjou (lead: Antonio Vivarini, Louvre)",
+          "url": "https://fr.wikipedia.org/wiki/Louis_d%27Anjou"
+        },
+        {
+          "title": "Santi e Beati, San Ludovico d'Angiò (di Tolosa) (Roman Martyrology entry, 19 August)",
+          "url": "https://www.santiebeati.it/dettaglio/90385"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-19-louis (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-19-louis.md"
+        }
+      ],
+      "catalogMatch": "St. Louis, Bishop",
+      "lifeChapter": "aug-19-louis"
+    },
+    {
+      "id": "symphorian",
+      "letter": "S",
+      "feast": {
+        "month": 8,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Symphorian",
+        "pt-BR": "São Sinforiano"
+      },
+      "patronOf": {
+        "en-US": "Martyr of Autun",
+        "pt-BR": "Mártir de Autun"
+      },
+      "prayerExcerpt": {
+        "en-US": "We must choose as St. Symphorian chose, and obey God rather than man.",
+        "pt-BR": "Devemos escolher como escolheu São Sinforiano, e obedecer a Deus antes que aos homens."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-22-symphorian.md Reflection, last sentence, its main clause (Pictorial Lives, public domain)",
+      "subject": "St. Symphorian, half-length, a young Gallo-Roman noble in a white tunic and a plain white toga, walking out through the city gate, a green palm in his right hand, his left hand open at his breast; he looks up and back toward the wall. Behind him, small on the Roman walls of Augustodunum (Autun) above the arched gate, his mother Augusta in a dark-blue mantle and white veil, leaning forward with one arm raised toward him. Wooded Burgundian hills beyond under a clear sky. Brave and serene; no soldiers, no weapons, no idol, no wounds, no lettering.",
+      "face": "Two figures. SYMPHORIAN, a Gallo-Roman of about twenty, BEARDLESS, with a fair, fresh complexion and a LONG face with a LONG, STRAIGHT jawline ending in a DEEP, SQUARE chin — a high, narrow forehead, a THIN, HIGH-BRIDGED, slightly AQUILINE nose, deep-set, clear BLUE eyes under straight fair brows, lean cheeks, a wide, firm mouth; thick, STRAIGHT fair-blond hair cut short across the forehead, no curls; the gaze lifted, joyful and resolute. AUGUSTA, his mother, small in the distance, about fifty: a long, pale face under the white veil, her mouth open in a call. Not the square, snub-nosed, chestnut-haired Tiburtius of tiburtius_susanna, the curly, olive pantaleon or the long-haired casimir.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likeness survives; the Martyrology keeps only his mother's cry from the wall of Autun as he went to die. The book calls him a young noble; the fair Gallo-Roman face is ours, and the mother on the wall follows the Martyrology, the book and Ingres's composition for Autun cathedral.",
+      "sources": [
+        {
+          "title": "Wikipedia, Symphorian (lead: Ingres, The Martyrdom of St. Symphorian, Autun cathedral)",
+          "url": "https://en.wikipedia.org/wiki/Symphorian"
+        },
+        {
+          "title": "Santi e Beati, San Sinforiano di Autun (Roman Martyrology entry, 22 August)",
+          "url": "https://www.santiebeati.it/dettaglio/92308"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-22-symphorian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-22-symphorian.md"
+        }
+      ],
+      "catalogMatch": "St. Symphorian, Martyr",
+      "lifeChapter": "aug-22-symphorian"
+    },
+    {
+      "id": "philip_benizi",
+      "letter": "P",
+      "feast": {
+        "month": 8,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Philip Benizi",
+        "pt-BR": "São Filipe Benício"
+      },
+      "patronOf": {
+        "en-US": "General of the Servites",
+        "pt-BR": "Geral dos Servitas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Endeavor so to act as you would wish to have acted when you stand before your Judge.",
+        "pt-BR": "Esforça-te por agir como desejarias ter agido quando estiveres diante do teu Juiz."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-23-philip-benizi.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Philip Benizi, half-length, in the black habit, scapular and hood of the Servants of Mary with a leather belt, holding a plain wooden crucifix open before him in both hands as one reads a book, his eyes on it. Beside him on a low stone ledge, set aside, a papal tiara he fled from. Behind him a wooded Tuscan hillside with a small stone convent, and far below the valley of the Arno with the walls and towers of medieval Florence. Humble and prayerful; no lettering.",
+      "face": "A Florentine of about fifty, CLEAN-SHAVEN, with a warm, light-olive complexion and a WIDE, SOFT, ROUND face, after the Renaissance portrait on his Wikipedia page — a small, LOW forehead under a THICK ring of grizzled dark hair in the tonsure (not bald), a LARGE, AQUILINE nose curving down to a HOOKED tip, SMALL, NARROW dark eyes that SLANT DOWN at the outer corners, softly pouched beneath, under thin, arched brows, FULL, soft cheeks and gentle jowls, a SMALL, pursed mouth, a soft, ROUND chin; the gaze lowered to the crucifix, contrite and tender. Not the square-jawed, keen-eyed albert_great, the domed, bald antoninus_florence, or any of the seven servite_founders.",
+      "refs": [
+        "philip_neri",
+        "bonaventure",
+        "john_of_the_cross"
+      ],
+      "basis": "No portrait from life is known; the Renaissance painting used on Wikipedia shows a round, fleshy face with a large nose, which the card follows. The crucifix held as a book is from the Martyrology ('considerava Cristo crocifisso l'unico suo libro'); the tiara from the book's refusal of the papacy.",
+      "sources": [
+        {
+          "title": "Wikipedia, Philip Benizi (lead: detail of a Renaissance painting)",
+          "url": "https://en.wikipedia.org/wiki/Philip_Benizi"
+        },
+        {
+          "title": "Santi e Beati, San Filippo Benizi (Roman Martyrology entry, 22 August)",
+          "url": "https://www.santiebeati.it/dettaglio/34200"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-23-philip-benizi (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-23-philip-benizi.md"
+        }
+      ],
+      "catalogMatch": "St. Philip Benizi",
+      "lifeChapter": "aug-23-philip-benizi"
+    },
+    {
+      "id": "zephyrinus",
+      "letter": "Z",
+      "feast": {
+        "month": 8,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Zephyrinus",
+        "pt-BR": "São Zeferino"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "God has always raised up holy pastors zealous to maintain the faith of His Church inviolable.",
+        "pt-BR": "Deus sempre suscitou santos pastores zelosos por manter inviolável a fé de sua Igreja."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-26-zephyrinus.md Reflection, first sentence, its first clause (Pictorial Lives, public domain)",
+      "subject": "Pope St. Zephyrinus, half-length, an early-third-century bishop of Rome: a white tunic under a full, rust-red paenula, a plain white woollen pallium about his shoulders, no tiara and no mitre; his right hand raised in teaching, his left holding a closed Gospel codex bound in red leather against his breast. Behind him the Via Appia outside Rome, its paving stones and umbrella pines, and a low brick entrance leading down into the cemetery on the Appia he charged his deacon Callistus to make. Grave and fatherly; no other figures, no palm, no lettering.",
+      "face": "A Roman of about seventy-five with a weathered olive complexion and a BROAD, FLAT-FEATURED face under a ROUND, bald crown with white hair at the sides — a wide, LOW, slightly bulging brow, TUFTED white brows that FLARE UP at their outer ends, SMALL, kind, DOWN-SLANTING grey eyes, a BROAD, FLAT nose with a LOW bridge, wide, flat cheeks, a small mouth; a long, full, WAVY white beard falling to the chest with a white moustache, as in the book's engraving; the gaze grave and gentle, toward us. Not the wide, fringed, square-bearded callistus (his deacon), the round, dark-bearded Pontian of pontian_hippolytus, the heart-shaped soter, or the long-faced fabian and stephen_i.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "No likeness survives. The book's engraving gives him a long white beard; the flat, broad features are ours, to keep him apart from the other early popes. Dress without tiara or mitre, as on stephen_i.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Zephyrinus",
+          "url": "https://en.wikipedia.org/wiki/Pope_Zephyrinus"
+        },
+        {
+          "title": "Santi e Beati, San Zefirino, papa (Roman Martyrology entry, 20 December)",
+          "url": "https://www.santiebeati.it/dettaglio/67700"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-26-zephyrinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-26-zephyrinus.md"
+        }
+      ],
+      "catalogMatch": "St. Zephyrinus, Pope and Martyr",
+      "lifeChapter": "aug-26-zephyrinus"
+    },
+    {
+      "id": "fiaker",
+      "letter": "F",
+      "feast": {
+        "month": 8,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Fiaker",
+        "pt-BR": "São Fiacro"
+      },
+      "patronOf": {
+        "en-US": "Patron of gardeners",
+        "pt-BR": "Padroeiro dos jardineiros"
+      },
+      "prayerExcerpt": {
+        "en-US": "If any man will not work, neither let him eat.",
+        "pt-BR": "Se alguém não quiser trabalhar, também não coma."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-30-fiaker-anchorite.md Reflection, the words of St. Paul it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Fiaker, half-length, an Irish hermit in a coarse brown hooded habit with a rope girdle, the sleeves pushed back, leaning on the handle of a long wooden spade in his right hand, his left hand holding a bunch of fresh herbs and vegetables. Behind him his garden cleared from the forest of Breuil: neat beds of cabbages, beans and flowering herbs, a wattle fence, his small wooden cell, and the little stone oratory of Our Lady with a bell-cote, the tall oaks of the forest of Brie all around. Quiet, contented labour; no women, no lettering.",
+      "face": "An Irishman of about fifty-five with a fair, freckled, weather-browned complexion and a HEART-SHAPED face, BROAD at the temples and tapering to a NARROW chin — the front of the head shaved from ear to ear in the Irish tonsure, leaving a high, bare, lined forehead, with dark-brown hair greying and falling from behind the ears to the nape; a long, THIN nose with a KNOBBED, rounded tip, SMALL, bright, dark-grey eyes set CLOSE under SHAGGY dark brows, sharp, high cheekbones over lean cheeks, a small mouth; a SHORT, POINTED dark-brown beard streaked with grey; the gaze kindly and shrewd, toward us. Not the long, big-boned, jutting-chinned, red-grey columban, nor the broad, clean-shaven, white-haired columba.",
+      "refs": [
+        "patrick",
+        "benedict",
+        "francis_assisi"
+      ],
+      "basis": "No likeness survives; the book tells an Irish anchorite who cleared his own garden at Breuil, and his emblem since the Middle Ages is the spade (as in the Bar-le-Duc window on Wikipedia). The face is ours, an Irish monk of the seventh century with the ear-to-ear tonsure.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Fiacre (lead: window at Notre-Dame, Bar-le-Duc)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Fiacre"
+        },
+        {
+          "title": "Santi e Beati, San Fiacrio (Fiacre) (Roman Martyrology entry, 30 August)",
+          "url": "https://www.santiebeati.it/dettaglio/68200"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-30-fiaker-anchorite (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-30-fiaker-anchorite.md"
+        }
+      ],
+      "catalogMatch": "St. Fiaker, Anchorite",
+      "lifeChapter": "aug-30-fiaker-anchorite"
+    },
+    {
+      "id": "raymund_nonnatus",
+      "letter": "R",
+      "feast": {
+        "month": 8,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. Raymund Nonnatus",
+        "pt-BR": "São Raimundo Nonato"
+      },
+      "patronOf": {
+        "en-US": "Patron of expectant mothers",
+        "pt-BR": "Padroeiro das gestantes"
+      },
+      "prayerExcerpt": {
+        "en-US": "He that giveth to the poor shall not want.",
+        "pt-BR": "Aquele que dá ao pobre não passará necessidade."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-31-raymund-nonnatus.md Reflection, the Scripture it quotes at its end (Pictorial Lives, public domain)",
+      "subject": "St. Raymund Nonnatus, half-length, a Mercedarian friar in the white habit, white scapular and white hooded cape of the Order of Our Lady of Mercy, the Order's small red-and-gold shield, topped by a cross, hanging on his breast as in the Camón Aznar painting; in his right hand a green palm, in his left, held out, a set of opened iron fetters, the chains of the captives he ransomed. Behind him the white, flat-roofed houses and walls of Algiers climbing from its harbour, a few small ships at anchor on a blue sea. Gentle and fearless; no cardinal's red cape or hat, no padlock, no wounds, no lettering.",
+      "face": "A Catalan of about thirty-six with a sun-browned olive complexion and a SHORT, BROAD face with a WIDE, gently BULGING forehead and a strong brow — deep-set, intense black eyes under thick, ARCHED black brows, a SHORT, straight nose with a HIGH, narrow bridge, flat cheeks, a WIDE mouth with a full lower lip, a ROUND, prominent chin; a close, short black beard and moustache; black hair in a thin ring round a large tonsure; the gaze direct and steadfast. Not the long, narrow, single-browed romanus_ostiarius, the long, soft-faced francis_caracciolo or the broad, flat-cheeked william_montevergine.",
+      "refs": [
+        "vincent_de_paul",
+        "francis_xavier",
+        "dominic"
+      ],
+      "basis": "No portrait from life survives; the Spanish Baroque paintings (the Camón Aznar canvas on Wikipedia) give him a dark beard and the Mercedarian habit and shield. The cardinal's red is left out because the cardinalate has been shown to be a confusion (Paravicini Bagliani, cited by Wikipedia). The face is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Raymond Nonnatus (lead: San Ramón Nonato, Museo Ibercaja Camón Aznar)",
+          "url": "https://en.wikipedia.org/wiki/Raymond_Nonnatus"
+        },
+        {
+          "title": "Santi e Beati, San Raimondo Nonnato (Roman Martyrology entry, 31 August)",
+          "url": "https://www.santiebeati.it/dettaglio/68300"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, aug-31-raymund-nonnatus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/aug-31-raymund-nonnatus.md"
+        }
+      ],
+      "catalogMatch": "St. Raymund Nonnatus",
+      "lifeChapter": "aug-31-raymund-nonnatus"
+    }
+  ]
+}

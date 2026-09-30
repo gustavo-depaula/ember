@@ -55,6 +55,9 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 
 - [ ] **Batch 33 names:** Peter Favre becomes "St." (canonized 2013); Stephen I's patron line "Pope" (the Martyrology doesn't call him martyr); "of Auxerre", "of Rome" and the ordinal "I" added. Book dates kept (Germanus 30 Jul, Favre 8 Aug). [As stated.]
 
+- [ ] **Batch 34:** Zephyrinus's patron line "Pope" (not a martyr per the 1969 reform); "St. Louis of Toulouse" added place; Raymund Nonnatus without cardinal's red or padlock (he was never a cardinal; the padlock is legend); Hyacinth's scene is the Kiev miracle (legend); Fiaker and Raymund patron lines from Wikipedia; book dates kept where the Martyrology differs (Hyacinth, Liberatus, Philip Benizi, Zephyrinus). [As stated.] — `dossiers/batch-34.md`
+- [ ] **Agapetus (18 Aug)** has no `lifeChapter`: his life is a paragraph of Helena's chapter, whose reflection is about her. [No chapter; excerpt from his paragraph.]
+
 ## Excerpts and reflections
 
 - [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius, Prosper, William of Monte-Vergine, Gal, Heliodorus, Bertha, Goar, James of Nisibis, Margaret, Victor, Christina, Stephen I, Radegundes.
