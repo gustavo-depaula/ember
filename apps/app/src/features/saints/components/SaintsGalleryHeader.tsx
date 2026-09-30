@@ -9,6 +9,7 @@ import { Typography } from '@/components/typography'
 import { useToday } from '@/hooks/useToday'
 import { selectionTick } from '@/lib/haptics'
 import type { SaintEntry } from '../data/catalog'
+import { useHeldCards } from '../data/collection'
 import { SaintCardTile } from './SaintCardTile'
 import type { SaintGrouping } from './SaintWall'
 
@@ -22,18 +23,18 @@ const groupings: SaintGrouping[] = ['calendar', 'collected', 'alpha']
 export function SaintsGalleryHeader({
   saints,
   total,
-  collectedCount,
   grouping,
   onGrouping,
 }: {
   saints: SaintEntry[]
   total: number
-  collectedCount: number
   grouping: SaintGrouping
   onGrouping: (g: SaintGrouping) => void
 }) {
   const { t } = useTranslation()
   const today = useToday()
+  const held = useHeldCards()
+  const collectedCount = saints.filter((s) => held.has(s.id)).length
 
   const todays = useMemo(() => {
     const month = today.getMonth() + 1
@@ -77,6 +78,7 @@ export function SaintsGalleryHeader({
               <LiveCard
                 key={saint.id}
                 saint={saint}
+                copies={held.get(saint.id)?.length ?? 0}
                 label={t('saints.cardLink', { name: saint.name })}
               />
             ))}
@@ -100,17 +102,18 @@ export function SaintsGalleryHeader({
 
 const liveWidth = 104
 
-function LiveCard({ saint, label }: { saint: SaintEntry; label: string }) {
+function LiveCard({ saint, copies, label }: { saint: SaintEntry; copies: number; label: string }) {
   return (
     <Link href={{ pathname: '/saints/[index]', params: { index: saint.id } }} push asChild>
       <Pressable accessibilityRole="link" accessibilityLabel={label} style={styles.liveCard}>
-        <SaintCardTile saint={saint} width={liveWidth} />
+        <SaintCardTile saint={saint} width={liveWidth} copies={copies} />
       </Pressable>
     </Link>
   )
 }
 
 const styles = StyleSheet.create({
-  strip: { paddingRight: 24 },
+  // Room for a held card's stacked copies, which peek below and to the right.
+  strip: { paddingRight: 24, paddingBottom: 8 },
   liveCard: { marginRight: 12 },
 })

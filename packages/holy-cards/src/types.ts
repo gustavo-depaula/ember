@@ -57,8 +57,11 @@ export type Catalog = {
   starters: CardId[]
 }
 
-/** A redeemed card, stored for good. */
-export type Copy = { grant: string; card: CardId; date: IsoDate }
+/**
+ * A redeemed card, stored for good: what won it (`door`, on `won`) and the day
+ * it was opened (`date`). Its back reads the door and day it was won.
+ */
+export type Copy = { grant: string; card: CardId; door: Door; won: IsoDate; date: IsoDate }
 
 type GrantBase = {
   /** Stable, derived from the act: the same act always yields the same id. */

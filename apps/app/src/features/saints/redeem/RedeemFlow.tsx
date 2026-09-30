@@ -27,6 +27,7 @@ import { lightTap, mediumTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { SaintCard, SaintEncounterHeader, saintCardWidth } from '../components'
 import { type SaintEntry, useSaintsCatalog } from '../data/catalog'
+import { useHeldCards } from '../data/collection'
 import { useRedeemHolyCard } from '../usePendingHolyCards'
 import { useSaintCollect } from '../useSaintCollect'
 import { Envelope, envelopeCard } from './Envelope'
@@ -59,6 +60,7 @@ export function RedeemFlow({
   const { width, height } = useWindowDimensions()
   const today = useToday()
   const { byId } = useSaintsCatalog()
+  const held = useHeldCards()
   const [card, setCard] = useState<string | undefined>(() => {
     if (grant.drawn) return drawCard(grant, [...useEventStore.getState().holyCards.values()])
     return grant.choice.length === 1 ? grant.choice[0] : undefined
@@ -224,7 +226,7 @@ export function RedeemFlow({
           entering={FadeIn.duration(400)}
           style={[styles.final, { backgroundColor: bg, paddingTop: cardTop }]}
         >
-          <SaintCard saint={saint} />
+          <SaintCard saint={saint} copies={held.get(saint.id) ?? []} />
           <Typography variant="whisper" textAlign="center" paddingTop="$lg">
             {won}
           </Typography>

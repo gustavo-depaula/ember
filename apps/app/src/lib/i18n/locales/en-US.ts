@@ -732,6 +732,7 @@ export default {
     today: 'Today',
     results: 'Results',
     cardLink: '{{name}}',
+    sealedHow: 'Given at Mass or the Office on {{date}}',
     group: {
       calendar: 'Calendar',
       collected: 'Collected',
@@ -751,7 +752,7 @@ export default {
       door: {
         mass: 'Received at Mass · {{date}}',
         office: 'Received at the Divine Office · {{date}}',
-        starter: 'A first holy card, to begin',
+        starter: 'A first holy card · {{date}}',
         other: 'Received · {{date}}',
       },
       openBy: {

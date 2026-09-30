@@ -59,7 +59,13 @@ const pending = (
 ) => pendingCards({ ...input(acts, extra), copies, today })
 /** Copies of `cards`, as if redeemed long ago. */
 const held = (cards: string[]): Copy[] =>
-  cards.map((card, i) => ({ grant: `x${i}`, card, date: '2026-01-01' }))
+  cards.map((card, i) => ({
+    grant: `x${i}`,
+    card,
+    door: 'mass' as const,
+    won: '2026-01-01',
+    date: '2026-01-01',
+  }))
 const sundaysIn = (start: string, end: string) => eachDay(start, end).filter(isSunday)
 const weekdaysIn = (start: string, end: string) => eachDay(start, end).filter((d) => !isSunday(d))
 

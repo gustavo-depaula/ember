@@ -738,6 +738,7 @@ export default {
     today: 'Hoje',
     results: 'Resultados',
     cardLink: '{{name}}',
+    sealedHow: 'Recebido na Missa ou no Ofício no dia {{date}}',
     group: {
       calendar: 'Calend\u00e1rio',
       collected: 'Colecionados',
@@ -757,7 +758,7 @@ export default {
       door: {
         mass: 'Recebido na Missa · {{date}}',
         office: 'Recebido no Ofício Divino · {{date}}',
-        starter: 'Um primeiro santinho, para começar',
+        starter: 'Um primeiro santinho · {{date}}',
         other: 'Recebido · {{date}}',
       },
       openBy: {

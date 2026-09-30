@@ -68,13 +68,14 @@ export function drawCard(grant: Grant, copies: Copy[]): CardId {
  * pick when the envelope offers a choice; a drawn envelope ignores it.
  */
 export function redeem(grant: Grant, today: IsoDate, copies: Copy[], card?: CardId): Copy {
-  if (grant.drawn) return { grant: grant.id, card: drawCard(grant, copies), date: today }
+  const copy = { grant: grant.id, door: grant.door, won: grant.date, date: today }
+  if (grant.drawn) return { ...copy, card: drawCard(grant, copies) }
   const chosen = card ?? (grant.choice.length === 1 ? grant.choice[0] : undefined)
   if (!chosen) throw new Error(`${grant.id} offers a choice; pick a card`)
   if (!grant.choice.includes(chosen)) {
     throw new Error(`${chosen} is not a card offered by ${grant.id}`)
   }
-  return { grant: grant.id, card: chosen, date: today }
+  return { ...copy, card: chosen }
 }
 
 // FNV-1a: a small, stable string hash (the same on Hermes and Node).

@@ -8,6 +8,7 @@ import { HolographicOverlay } from './HolographicOverlay'
 
 export function CardFront({
   saint,
+  sealed,
   cardWidth,
   cardHeight,
   rotateX,
@@ -15,16 +16,18 @@ export function CardFront({
   isActive,
 }: {
   saint: SaintEntry
+  /** No copy held yet: the art stays veiled until an envelope is opened. */
+  sealed: boolean
   cardWidth: number
   cardHeight: number
   rotateX: SharedValue<number>
   rotateY: SharedValue<number>
   isActive: SharedValue<number>
 }) {
-  // No generated card yet — show the illuminated frame dimmed, the saint named
-  // but the portrait still veiled: a reverent "not yet revealed" front, not a
-  // locked grey box.
-  if (!saint.cardImage) {
+  // Not held yet — the illuminated frame dimmed, the saint named but the
+  // portrait still veiled: a reverent "not yet revealed" front, not a locked
+  // grey box.
+  if (sealed || !saint.cardImage) {
     return (
       <View
         position="absolute"

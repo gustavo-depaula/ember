@@ -1,4 +1,4 @@
-import type { Grant } from '@ember/holy-cards'
+import type { Door, Grant } from '@ember/holy-cards'
 import { addDays, format, parseISO } from 'date-fns'
 import type { TFunction } from 'i18next'
 
@@ -22,10 +22,10 @@ export function envelopeDate(grant: Grant) {
 
 const namedDoors: readonly string[] = ['mass', 'office', 'starter']
 
-/** How the card was won: "Received at Mass · 4 Oct 2026". */
-export function howWon(grant: Grant, t: TFunction) {
-  const door = namedDoors.includes(grant.door) ? grant.door : 'other'
-  return t(`saints.redeem.door.${door}`, { date: localDate(grant.date, 'short') })
+/** How a card was won, for its envelope or a copy's back: "Received at Mass · 4 Oct 2026". */
+export function howWon({ door, date }: { door: Door; date: string }, t: TFunction) {
+  const named = namedDoors.includes(door) ? door : 'other'
+  return t(`saints.redeem.door.${named}`, { date: localDate(date, 'short') })
 }
 
 /** When the envelope must be opened by; undefined when it has no window. */

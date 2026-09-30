@@ -13,7 +13,7 @@ import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex, toneForKey } from '@/features/explore/bgColor'
-import { useSaintsCatalog } from '@/features/saints'
+import { useHeldCards, useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 import { CreateCollectionSheet } from './CreateCollectionSheet'
 import { useSavedItems } from './savedHooks'
@@ -38,7 +38,13 @@ export function LibraryFeed() {
   const catalogVersion = useCatalogVersion()
   const { data: saved } = useSavedItems()
   const { data: userCollections } = useUserCollections()
-  const { saints: holyCards } = useSaintsCatalog()
+  const { byId: saintsById } = useSaintsCatalog()
+  const held = useHeldCards()
+  // The cards held, the latest received first (held keys run latest first).
+  const holyCards = useMemo(
+    () => [...held.keys()].flatMap((id) => (saintsById[id] ? [saintsById[id]] : [])),
+    [held, saintsById],
+  )
   const [creating, setCreating] = useState(false)
 
   // Re-derive only when the saved set or the catalog changes, not on every tick.
@@ -157,20 +163,22 @@ export function LibraryFeed() {
         </YStack>
       )}
 
-      <ArtCarousel title={t('library.holyCards')}>
-        {holyCards.map((s) => (
-          <ArtCoverCard
-            key={s.id}
-            title={s.name}
-            image={s.cardImage}
-            tone={toneForKey(s.id)}
-            size={120}
-            aspectRatio={1.5}
-            radius={4}
-            onPress={() => router.push('/saints')}
-          />
-        ))}
-      </ArtCarousel>
+      {holyCards.length > 0 && (
+        <ArtCarousel title={t('library.holyCards')}>
+          {holyCards.map((s) => (
+            <ArtCoverCard
+              key={s.id}
+              title={s.name}
+              image={s.cardImage}
+              tone={toneForKey(s.id)}
+              size={120}
+              aspectRatio={1.5}
+              radius={4}
+              onPress={() => router.push('/saints')}
+            />
+          ))}
+        </ArtCarousel>
+      )}
 
       <CreateCollectionSheet
         open={creating}

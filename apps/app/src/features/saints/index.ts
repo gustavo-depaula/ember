@@ -1,6 +1,6 @@
 export { SaintCard, SaintCardViewer, SaintWall } from './components'
 export { type SaintEntry, useSaintsCatalog } from './data/catalog'
-export { isCollected } from './data/collection'
+export { useHeldCards } from './data/collection'
 export { EnvelopeStack } from './redeem/Envelope'
 export { envelopeDate, howWon, openBy } from './redeem/envelopeText'
 export { RedeemFlow } from './redeem/RedeemFlow'

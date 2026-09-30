@@ -18,7 +18,7 @@ const searchBarHeight = 52
 const navGap = 8
 
 export default function SaintsScreen() {
-  const { saints, total, collectedCount } = useSaintsCatalog()
+  const { saints, total } = useSaintsCatalog()
   const [grouping, setGrouping] = useState<SaintGrouping>('calendar')
   const [query, setQuery] = useState('')
 
@@ -42,7 +42,6 @@ export default function SaintsScreen() {
               <SaintsGalleryHeader
                 saints={saints}
                 total={total}
-                collectedCount={collectedCount}
                 grouping={grouping}
                 onGrouping={setGrouping}
               />

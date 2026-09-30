@@ -1,17 +1,34 @@
+import type { Copy } from '@ember/holy-cards'
 import { Image } from 'expo-image'
+import { useTranslation } from 'react-i18next'
 import { Text, View, YStack } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
+import { howWon } from '../redeem/envelopeText'
 import { cardFrame, cardInk as ink } from './cardFrame'
 
+/**
+ * A card's back: the saint, and the condition this copy was received under —
+ * or, while none is held, how the card is received.
+ */
 export function CardBack({
   saint,
+  copy,
   cardWidth,
   cardHeight,
 }: {
   saint: SaintEntry
+  copy: Copy | undefined
   cardWidth: number
   cardHeight: number
 }) {
+  const { t } = useTranslation()
+  const condition = (() => {
+    // Copies redeemed before copies kept their door carry no `won`: no line.
+    if (copy) return copy.won ? howWon({ door: copy.door, date: copy.won }, t) : undefined
+    if (saint.feastLabel) return t('saints.sealedHow', { date: saint.feastLabel })
+    return undefined
+  })()
+
   return (
     <View
       position="absolute"
@@ -70,7 +87,8 @@ export function CardBack({
             </Text>
           )}
 
-          {saint.prayerExcerpt && (
+          {/* The prayer is part of the card: kept for the one who holds it. */}
+          {copy && saint.prayerExcerpt && (
             <Text
               fontFamily="$body"
               fontSize="$3"
@@ -79,6 +97,19 @@ export function CardBack({
               fontStyle="italic"
             >
               &ldquo;{saint.prayerExcerpt}&rdquo;
+            </Text>
+          )}
+
+          {condition && (
+            <Text
+              fontFamily="$body"
+              fontSize="$1"
+              color={ink.meta}
+              textAlign="center"
+              numberOfLines={2}
+              adjustsFontSizeToFit
+            >
+              {condition}
             </Text>
           )}
         </YStack>

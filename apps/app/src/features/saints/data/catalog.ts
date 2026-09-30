@@ -19,7 +19,7 @@ export type SaintEntry = {
   /** Pictorial Lives chapter id powering the encounter's Life slot. */
   lifeChapter?: string
   reflection?: string
-  /** Present only for saints with a generated holy card — the collected ones. */
+  /** Present only for saints with a drawn holy card; shown once a copy is held. */
   cardImage?: ImageSource
   patronOf?: string
   prayerExcerpt?: string
@@ -53,7 +53,6 @@ type CatalogResult = {
   saints: SaintEntry[]
   byId: Record<string, SaintEntry>
   total: number
-  collectedCount: number
 }
 
 // Both data sources warm in async from Hearth: the bespoke holy cards (small,
@@ -116,7 +115,6 @@ function build(
     saints: all,
     byId,
     total: all.length,
-    collectedCount: bespokeEntries.length,
   }
 }
 
