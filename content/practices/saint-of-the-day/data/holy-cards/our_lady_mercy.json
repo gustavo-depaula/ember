@@ -1,0 +1,41 @@
+{
+  "id": "our_lady_mercy",
+  "feast": {
+    "month": 9,
+    "day": 24
+  },
+  "name": {
+    "en-US": "The Blessed Virgin Mary of Mercy",
+    "pt-BR": "Santíssima Virgem Maria da Mercê"
+  },
+  "patronOf": {
+    "en-US": "Ransomer of captives",
+    "pt-BR": "Redentora dos cativos"
+  },
+  "prayerExcerpt": {
+    "en-US": "We can each of us by counsel, by prayer, but above all by holy example, assist the salvation of our brethren, and thus secure our own.",
+    "pt-BR": "Cada um de nós pode, pelo conselho, pela oração, mas sobretudo pelo santo exemplo, auxiliar a salvação de nossos irmãos, e assim assegurar a nossa própria."
+  },
+  "lifeChapter": "sep-24-the-blessed",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md, a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head — here the veil and mantle are white, not blue, and she looks down with tenderness at the captives. The captives are small and clearly different: a North African-born Christian sailor of about forty with a LEAN, LONG face, a hooked nose, dark sun-browned skin and a short black beard; a young mother of about twenty-five with a ROUND, soft face and a dark headscarf, holding a small child; an old man of about seventy with a NARROW, bony face, a bald crown and white stubble.",
+    "basis": "The image is the one the Order of Mercy fixed from the sixteenth century: Our Lady in the white Mercedarian habit with the Order's shield, sceptre and crown, sheltering the ransomed captives under her mantle, broken chains at their feet. Her face is the set's.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 09-24 reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia (es): Virgen de la Merced — iconografía",
+        "url": "https://es.wikipedia.org/wiki/Virgen_de_la_Merced"
+      },
+      {
+        "title": "Museo del Carmen Alto (Quito): La Virgen de la Merced",
+        "url": "http://www.museocarmenalto.gob.ec/la-virgen-de-la-merced/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-17.md."
+      }
+    ]
+  }
+}

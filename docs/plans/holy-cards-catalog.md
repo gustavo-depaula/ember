@@ -573,14 +573,14 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 8 Sep · The Nativity of the Blessed Virgin Mary · *Natividade da Bem-Aventurada Virgem Maria* · feast — `nativity_bvm`
 - [x] 12 Sep · The Most Holy Name of Mary · *Santíssimo Nome de Maria* · optional-memorial — `holy_name_mary`
 - [x] 15 Sep · Our Lady of Sorrows · *Bem-aventurada Virgem Maria das Dores* · memorial — `our_lady_sorrows`
-- [ ] 24 Sep · The Blessed Virgin Mary of Mercy · *A Santíssima Virgem Maria da Mercê* · Pictorial Lives
-- [ ] 7 Oct · Our Lady of the Rosary · *Bem-aventurada Virgem Maria do Rosário* · memorial
+- [x] 24 Sep · The Blessed Virgin Mary of Mercy · *A Santíssima Virgem Maria da Mercê* · Pictorial Lives — `our_lady_mercy`
+- [x] 7 Oct · Our Lady of the Rosary · *Bem-aventurada Virgem Maria do Rosário* · memorial — `our_lady_rosary`
 - [x] 21 Nov · The Presentation of the Blessed Virgin Mary · *Apresentação da Bem-aventurada Virgem Maria* · memorial — `presentation_bvm`
 - [x] 8 Dec · The Immaculate Conception of the Blessed Virgin Mary · *Imaculada Conceição da Bem-Aventurada Virgem Maria* · solemnity — `immaculate_conception`
-- [ ] 10 Dec · Our Lady of Loreto · *Bem-aventurada Virgem Maria de Loreto* · optional-memorial
-- [ ] 12 Dec · Our Lady of Guadalupe · *Bem-Aventurada Virgem Maria de Guadalupe* · optional-memorial
-- [ ] movable · The Immaculate Heart of the Blessed Virgin Mary · *Imaculado Coração da Bem-aventurada Virgem Maria* · memorial
-- [ ] movable · Blessed Virgin Mary Mother of the Church · *Bem-aventurada Virgem Maria, Mãe da Igreja* · memorial
+- [x] 10 Dec · Our Lady of Loreto · *Bem-aventurada Virgem Maria de Loreto* · optional-memorial — `loreto`
+- [x] 12 Dec · Our Lady of Guadalupe · *Bem-Aventurada Virgem Maria de Guadalupe* · optional-memorial — `guadalupe`
+- [x] movable · The Immaculate Heart of the Blessed Virgin Mary · *Imaculado Coração da Bem-aventurada Virgem Maria* · memorial — `immaculate_heart`
+- [x] movable · Blessed Virgin Mary Mother of the Church · *Bem-aventurada Virgem Maria, Mãe da Igreja* · memorial — `mother_of_church`
 
 ## Angels
 
@@ -591,8 +591,8 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 
 The twenty mysteries, as named in `content/practices/rosary`. A mystery that a feast celebrates shares that feast's card.
 
-**Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [x] The Presentation — shares the Presentation of the Lord — `presentation_lord` · [ ] The Finding in the Temple
-**Luminous** — [x] The Baptism in the Jordan — shares the Baptism of the Lord — `baptism_lord` · [ ] The Wedding at Cana · [ ] The Proclamation of the Kingdom · [x] The Transfiguration — `transfiguration` · [ ] The Institution of the Eucharist
+**Joyful** — [x] The Annunciation — `annunciation` · [x] The Visitation — `visitation` · [x] The Nativity — `nativity_christ` · [x] The Presentation — shares the Presentation of the Lord — `presentation_lord` · [x] The Finding in the Temple — `finding_temple`
+**Luminous** — [x] The Baptism in the Jordan — shares the Baptism of the Lord — `baptism_lord` · [x] The Wedding at Cana — `wedding_cana` · [x] The Proclamation of the Kingdom — `proclamation_kingdom` · [x] The Transfiguration — `transfiguration` · [x] The Institution of the Eucharist — `institution_eucharist`
 **Sorrowful** — [ ] The Agony in the Garden · [ ] The Scourging at the Pillar · [ ] The Crowning with Thorns · [ ] The Carrying of the Cross · [ ] The Crucifixion
 **Glorious** — [x] The Resurrection — shares Easter Sunday — `easter` · [x] The Ascension — shares the Ascension — `ascension` · [x] The Descent of the Holy Spirit — shares Pentecost — `pentecost` · [x] The Assumption — `assumption` · [x] The Coronation of Mary — shares the Queenship of Mary — `queenship`
 

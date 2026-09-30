@@ -1,0 +1,41 @@
+{
+  "id": "our_lady_rosary",
+  "feast": {
+    "month": 10,
+    "day": 7
+  },
+  "name": {
+    "en-US": "Our Lady of the Rosary",
+    "pt-BR": "Nossa Senhora do Rosário"
+  },
+  "patronOf": {
+    "en-US": "Queen of the Most Holy Rosary",
+    "pt-BR": "Rainha do Santíssimo Rosário"
+  },
+  "prayerExcerpt": {
+    "en-US": "Hail Mary, full of grace, the Lord is with you.",
+    "pt-BR": "Ave, Maria, cheia de graça, o Senhor é convosco"
+  },
+  "proper": "sanctorale.10-07",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; she looks down at St. Dominic with a gentle smile. The Christ Child as in recurring-figures.md, about two years old: a plump, ROUND child's face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls; fair, glowing skin; a plain gold halo. St. Dominic as on the dominic card: a man of about thirty-five with a gentle, OVAL face — a straight, fine nose, soft brown eyes under level brows, a calm closed mouth; short brown hair in a monastic tonsure (a ring of short curls around a shaven crown), a short trimmed brown beard; a white habit and scapular under a black cappa and hood; the same face as that card, raised in wonder. The three must read as clearly different: the Mother young and fair under her blue mantle, the Child round and golden-curled, Dominic a tonsured, bearded friar in black and white.",
+    "basis": "Our Lady giving the rosary to St. Dominic, often with the Child giving a second one, is the standard image of the feast since the sixteenth century (Sassoferrato's Madonna del Rosario at Santa Sabina, Murillo, Caravaggio's Rosary Madonna). Dominic keeps the face of his own card.",
+    "excerpt": "content/of/formularies/sanctoral/10-07.json entranceAntiphon, first clause (both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia: Our Lady of the Rosary",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Rosary"
+      },
+      {
+        "title": "Wikimedia Commons: Sassoferrato, Madonna del Rosario (Santa Sabina)",
+        "url": "https://commons.wikimedia.org/wiki/Category:Madonna_del_Rosario_(Sassoferrato)"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-17.md."
+      }
+    ]
+  }
+}

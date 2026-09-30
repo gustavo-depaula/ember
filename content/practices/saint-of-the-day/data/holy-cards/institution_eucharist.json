@@ -1,0 +1,36 @@
+{
+  "id": "institution_eucharist",
+  "name": {
+    "en-US": "The Institution of the Eucharist",
+    "pt-BR": "A Instituição da Eucaristia"
+  },
+  "patronOf": {
+    "en-US": "The fifth Luminous Mystery",
+    "pt-BR": "O quinto mistério luminoso"
+  },
+  "prayerExcerpt": {
+    "en-US": "This is my body which will be given for you; do this as a memorial of me",
+    "pt-BR": "Isto é o meu corpo, que é dado por vós; fazei isto em memória de mim."
+  },
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; a rose-red tunic and a blue mantle; his eyes lifted in thanksgiving. St. John as in recurring-figures.md: a beardless young man of about twenty-two with a smooth OVAL face, large upturned brown eyes, a straight nose, a small full mouth; wavy golden-brown hair to the jaw; a green tunic and a red-orange mantle. St. Peter as in recurring-figures.md: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; a blue tunic and golden-ochre mantle. The other Apostles behind, each different: St. Andrew as on the andrew card, an old man with curly grey-white hair and a long grey-white beard forked in two points; St. James the Greater as on the james_greater card, a young man of about twenty-eight with chestnut hair to the jaw and a sparse short beard; St. Thomas as on the thomas_apostle card, a beardless young man of about twenty-five with short dark hair; St. Bartholomew as on the bartholomew card, a man of about forty-five with black curly hair and a long black beard beginning to grey.",
+    "basis": "The Institution of the Eucharist at the Last Supper (Lk 22:19-20; Mk 14:22-24) with John leaning on the Lord's breast (Jn 13:23), painted at the moment of the blessing of the bread rather than the betrayal, as Juan de Juanes did. Christ, Peter and John from recurring-figures.md; the other Apostles from their cards.",
+    "excerpt": "content/of/formularies/tempore/holy-week/palm-sunday.json readings.C.gospel (the Passion, Lk 22:19), Christ's words (both languages)",
+    "sources": [
+      {
+        "title": "Luke 22:14-20 (Douay-Rheims)",
+        "url": "https://www.drbo.org/chapter/49022.htm"
+      },
+      {
+        "title": "Wikimedia Commons: Juan de Juanes, The Last Supper (Prado)",
+        "url": "https://commons.wikimedia.org/wiki/File:%C3%9Altima_Cena_(Juan_de_Juanes).jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-17.md."
+      }
+    ]
+  }
+}
