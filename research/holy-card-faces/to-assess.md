@@ -11,6 +11,8 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Felix I (30 May):** his martyrdom is a later confusion with another Felix. [Kept as "Pope", no palm; if dropped, St. Medard comes in.] — `dossiers/batch-29.md`
 - [ ] **Petronilla (31 May):** her being St. Peter's daughter is legend (the book doubts it too). [Kept; card shows no link to Peter.] — `dossiers/batch-29.md`
 - [ ] **Cyril of Caesarea (29 May):** no source independent of the book; accounts disagree on fire vs beheading. [Kept; card shows neither.] — `dossiers/batch-29.md`
+- [ ] **Vitus, Crescentia and Modestus (15 Jun):** the Martyrology keeps Vitus alone; Modestus and Crescentia are considered fictitious, and the chapter and its reflection turn on Crescentia. [Skipped for now, the line stays open. Options: a card of St. Vitus alone without the chapter's reflection, or remove the line.] — `dossiers/batch-30.md`
+- [ ] **Marcus and Marcellianus (18 Jun):** genuine cult, but all beyond their names and martyrdom comes from the legendary Acts of St. Sebastian. [Kept, the card shows only palms.] — `dossiers/batch-30.md`
 - [ ] **The Consecration card** (test drawing) shows the priest ad orientem. Is that the depiction you want? [Undecided.]
 
 ## Portrayal
@@ -31,9 +33,14 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Lyons martyrs (2 Jun):** "Sts. Pothinus, Blandina and Companions" / "São Potino, Santa Blandina e Companheiros" instead of the book's full line. [Shortened.] — `dossiers/batch-29.md`
 - [ ] **Pamphilus (1 Jun):** patron line "Priest and martyr" from Wikipedia; the book doesn't call him a priest. [Kept.]
 
+- [ ] **"St. John of St. Fagondez" (12 Jun)** is the book's form of St. John of Sahagún. [Book's form kept, id `john_fagondez`; alternative: rename to Sahagún.]
+- [ ] **Silverius (20 Jun):** "Pope and martyr" is the book's; sources say he starved in exile. [Kept.]
+- [ ] **Avitus (17 Jun):** book date; French sources give 19 Dec. [Book date.]
+- [ ] **Juliana Falconieri (19 Jun):** black veil over white wimple per the book's engraving; Wikipedia describes a white veil. [Black.]
+
 ## Excerpts and reflections
 
-- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon.
+- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon, Avitus, Silverius.
 - [ ] **Marcella (31 Jan):** excerpt from St. Jerome, Letter 127, with our own pt-BR rendering. [Kept.] — `dossiers/batch-20.md`
 - [ ] **Pope Marcellinus shares a chapter with Cletus,** so both cards show the same reflection (which names neither). [Shared.] — `dossiers/batch-27.md`
 

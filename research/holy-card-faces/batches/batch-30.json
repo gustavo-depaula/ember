@@ -1,0 +1,469 @@
+{
+  "batch": 30,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-30.md",
+  "cards": [
+    {
+      "id": "medard",
+      "letter": "M",
+      "feast": {
+        "month": 6,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Medard",
+        "pt-BR": "São Medardo"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Noyon",
+        "pt-BR": "Bispo de Noyon"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Church takes delight in styling her founder \"THE AMIABLE JESUS,\" and He likewise says of Himself, \"I am meek and humble of heart.\"",
+        "pt-BR": "A Igreja deleita-se em chamar o seu fundador \"O AMÁVEL JESUS,\" e Ele mesmo diz de Si: \"Sou manso e humilde de coração.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-08-medard.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Medard, Bishop of Noyon, half-length, as a very old sixth-century Frankish bishop without a mitre: a white alb under a full, bell-shaped chasuble of rose-red edged in gold, a plain wooden pastoral staff in the crook of his left arm; in his right hand he holds out a small wreath of white roses, as for the maiden of Salency whom he crowned for her virtue. Above his head a great brown eagle hovers with wings spread wide like a roof, sheltering him from a shower of rain that falls silver on either side while he stands dry. Behind him, the green, rolling fields and orchards of Picardy, a village with a small church, and the little walled city of Noyon on its hill under a sky of broken rain clouds with sunlight breaking through. Merry, fatherly and warm; no lettering.",
+      "face": "A Frank of Picardy of about eighty-five, hale and HEAVY-BONED, with a ruddy, weathered complexion and a big, SQUARE face with a strong, BROAD jaw — a high, BALD, DOMED crown with a fringe of short white hair, a LONG, strong, gently HOOKED nose, LARGE ears, eyes squeezed into merry CRESCENTS by laughter under BUSHY white brows lifted at the centre, deep laugh lines, a WIDE mouth OPEN in a hearty laugh that shows a little of the upper teeth (the laughing Medard of tradition), and a SHORT, SQUARE-CUT, close white beard that follows the jaw; the gaze warm and full of joy.",
+      "refs": [
+        "nicholas",
+        "ambrose",
+        "vincent_de_paul"
+      ],
+      "basis": "No likeness survives. The book tells a noble of Salency, born about 457, compassionate to the poor from childhood, made bishop in 530 at seventy-two and dead in 545 at an advanced age; its engraving shows the bishop holding a wreath over a bowing maiden. Wikipedia (en and fr) says he is most often shown with the eagle that sheltered him from rain, and often laughing with his mouth open (invoked against toothache), and that the Rosière of Salency is said to go back to him. The heavy-boned, laughing face is our reading of that tradition.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Medard (iconography: the eagle, the open laughing mouth; the Rosière of Salency)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Medard"
+        },
+        {
+          "title": "Wikipedia (fr), Médard de Noyon (iconography; lead image: statue at Saint-Médard-d'Eyrans)",
+          "url": "https://fr.wikipedia.org/wiki/Médard_de_Noyon"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-08-medard (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-08-medard.md"
+        }
+      ],
+      "lifeChapter": "jun-08-medard",
+      "catalogMatch": "8 Jun · St. Medard, Bishop"
+    },
+    {
+      "id": "primus_felicianus",
+      "letter": "P",
+      "feast": {
+        "month": 6,
+        "day": 9
+      },
+      "name": {
+        "en-US": "Sts. Primus and Felicianus",
+        "pt-BR": "São Primo e São Feliciano"
+      },
+      "patronOf": {
+        "en-US": "Brothers and martyrs",
+        "pt-BR": "Irmãos e mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "A soul which truly loves God regards all the things of this world as nothing.",
+        "pt-BR": "Uma alma que verdadeiramente ama a Deus considera como nada todas as coisas deste mundo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-09-sts-primus-and-felicianus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Primus and Felicianus, two aged Roman brothers, half-length side by side, dressed as in their seventh-century mosaic at Santo Stefano Rotondo: long white tunics with narrow dark clavi and white pallia draped over the left shoulder, each with a martyr's palm; Primus (left) holds a small loaf of bread for the prisoners they served, Felicianus (right) lays his hand on his brother's shoulder. Behind them, the Roman Campagna along the Via Nomentana: a paved road with milestones and umbrella pines, a low arched tomb-church by the roadside, and the hill town of Nomentum in the distance under a warm golden evening sky. Gentle, steadfast and brotherly; no lettering, no chains, no torments.",
+      "face": "Two clearly different old Roman brothers with warm olive complexions. PRIMUS (left), about eighty, as in the mosaic grey-haired with a short grey beard: a LONG, NARROW, HORSE-LONG face with its length in the MIDDLE — eyes set HIGH under a narrow, lined forehead, a LONG, DROOPING nose with a rounded tip, a LONG upper lip, flat, long cheeks, a narrow chin under a SHORT, NEAT silver beard; deep-set, pale hazel eyes; thin silver hair cropped close. FELICIANUS (right), about seventy, as in the mosaic darker-haired: a SHORT, ROUND-OVAL face with a PROMINENT, ROUNDED, BOSSED forehead and a SMALL, slightly RECEDING chin under a full, dark-brown beard streaked with grey — a SMALL, ARCHED nose, BIG, ROUND, dark-brown eyes, softly rounded cheeks, a small, full mouth; thick, short dark-brown hair greying at the sides; both gazes calm and kind.",
+      "refs": [
+        "philip_james",
+        "gregory_great",
+        "vincent_de_paul"
+      ],
+      "basis": "The chapel of Sts. Primus and Felician at Santo Stefano Rotondo (seventh century, where Pope Theodore I laid their relics) shows them in white tunics and pallia: Primus grey-haired with a short grey beard, Felicianus darker-haired and bearded (Commons photographs consulted). The book and Wikipedia agree that they were brothers who served the poor and the confessors, grown old, and were beheaded at Nomentum twelve miles from Rome; the Acts make Primus eighty. The bone structures are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Primus and Felician",
+          "url": "https://en.wikipedia.org/wiki/Primus_and_Felician"
+        },
+        {
+          "title": "Wikimedia Commons, S Primo S Stefano Rotondo Roma (mosaic)",
+          "url": "https://commons.wikimedia.org/wiki/File:S_Primo_S_Stefano_Rotondo_Roma.JPG"
+        },
+        {
+          "title": "Wikimedia Commons, S Feliciano S Stefano Rotondo Roma (mosaic)",
+          "url": "https://commons.wikimedia.org/wiki/File:S_Feliciano_S_Stefano_Rotondo_Roma.JPG"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-09-sts-primus-and-felicianus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-09-sts-primus-and-felicianus.md"
+        }
+      ],
+      "lifeChapter": "jun-09-sts-primus-and-felicianus",
+      "catalogMatch": "9 Jun · Sts. Primus and Felicianus"
+    },
+    {
+      "id": "columba",
+      "letter": "C",
+      "feast": {
+        "month": 6,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Columba",
+        "pt-BR": "São Columba"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Iona",
+        "pt-BR": "Abade de Iona"
+      },
+      "prayerExcerpt": {
+        "en-US": "The thought of the world to come will always make us happy, and yet strict with ourselves in all our duties.",
+        "pt-BR": "O pensamento do mundo vindouro sempre nos fará felizes, e contudo rigorosos conosco mesmos em todos os nossos deveres."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-09-columba-or-columkille.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Columba, Abbot of Iona, half-length, as an old Irish monk: a plain, undyed cream woollen cowl with its hood fallen back, a simple abbot's staff of dark wood in his left hand, and against his breast a Gospel book in a cover of Insular gold interlace (no lettering); a small white dove, for his name, alights near his right shoulder. Behind him, Iona: a low green island of turf and pale rock above white sand and a clear green-blue sea, a few simple monastic buildings and a small church, the Sound with a hide-covered boat, and the blue hills of Mull across the water under a high, luminous northern sky. Glad, serene and full of holy joy; no lettering.",
+      "face": "An Irishman of about seventy-five, CLEAN-SHAVEN, with a fair, fine-skinned complexion lit by a RUDDY GLOW, the front of the head shaved from EAR TO EAR in the Irish tonsure so that a smooth, bare forehead rises high, and long, fine WHITE hair falls from the back of the head to the shoulders; a BROAD, OPEN face, as WIDE at the jaw as at the cheekbones, with SMOOTH, FULL, glowing cheeks and no hollows — a straight, medium nose with a slightly UPTURNED tip, very LARGE, clear, luminous light-grey eyes set wide apart under faint, high, white brows, a WIDE, generous mouth in a joyful smile, and a firm chin with a distinct CLEFT; the gaze lifted a little, radiant ('angelic in appearance').",
+      "refs": [
+        "patrick",
+        "benedict",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives. Adomnán's Life (Reeves's translation, 1874) calls him 'angelic in appearance', with 'a holy joy ever beaming on his face', and tells his face suffused 'with a ruddy glow' at Mass; Reeves's introduction says his order kept the Irish tonsure 'from ear to ear' until 718. Karl Parsons's 1913 window shows him clean-shaven, tonsured, with a dove. The book tells the founder of Iona, apostle of the Picts, dying at seventy-seven in 597. The broad, open face with the cleft chin is our choice.",
+      "sources": [
+        {
+          "title": "Adomnán, Life of Saint Columba, tr. W. Reeves (1874), archive.org (saved as consult/batch-30/Adamnan-Reeves1874.txt)",
+          "url": "https://archive.org/details/lifeofsaintcolum00adamuoft"
+        },
+        {
+          "title": "Wikipedia, Columba",
+          "url": "https://en.wikipedia.org/wiki/Columba"
+        },
+        {
+          "title": "Wikimedia Commons, St Columba, Karl Parsons 1913 (stained glass)",
+          "url": "https://commons.wikimedia.org/wiki/File:St_Columba,_Karl_Parsons_1913_-_Stained_Glass_Museum.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-09-columba-or-columkille (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-09-columba-or-columkille.md"
+        }
+      ],
+      "lifeChapter": "jun-09-columba-or-columkille",
+      "catalogMatch": "9 Jun · St. Columba, or Columkille"
+    },
+    {
+      "id": "john_fagondez",
+      "letter": "J",
+      "feast": {
+        "month": 6,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. John of St. Fagondez",
+        "pt-BR": "São João de São Fagondez"
+      },
+      "patronOf": {
+        "en-US": "Peacemaker of Salamanca",
+        "pt-BR": "Pacificador de Salamanca"
+      },
+      "prayerExcerpt": {
+        "en-US": "All men desire peace, but those alone enjoy it who, like St. John, are completely dead to themselves, and love to bear all things for Christ.",
+        "pt-BR": "Todos os homens desejam a paz, mas só a gozam aqueles que, como São João, estão completamente mortos para si mesmos, e amam suportar todas as coisas por Cristo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-12-john-of-st-fagondez.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. John of Sahagún (the book's 'of St. Fagondez'), half-length, as a fifteenth-century Augustinian friar: the black habit of the Hermits of St. Augustine with its wide sleeves, black hood and leather belt; in his right hand he raises a gold chalice with a white Host above it surrounded by soft golden rays, as in his traditional image, his left hand open on his breast. Behind him, Salamanca in golden sandstone: the Old Cathedral's tower and ribbed dome over the roofs, and the long Roman bridge over the river Tormes, under a clear, deep-blue Castilian sky. Peaceful, grave and luminous; no assassins, no lettering.",
+      "face": "A Castilian of about forty-nine, CLEAN-SHAVEN with a faint blue shadow of beard, a sun-darkened olive complexion and a WIDE, ANGULAR face whose JAW is BROADER than its forehead — a short, flat forehead under a full ring of black hair in the monastic tonsure, a straight nose with a BROAD bridge and FLARED nostrils, LARGE, calm, steady dark eyes set WIDE apart under THICK, straight black brows that angle slightly DOWN toward the nose, FLAT cheeks, a WIDE, straight, closed mouth, and a PROMINENT, ROUNDED chin; the gaze fixed peacefully on the Host.",
+      "refs": [
+        "thomas_aquinas",
+        "augustine",
+        "anthony_padua"
+      ],
+      "basis": "No portrait from life is known. The book tells an Augustinian of Salamanca devoted to the Mass, who 'often' saw Jesus in glory at the altar, made peace among the city's feuding nobles, and died poisoned in 1479; its engraving shows him preaching from a pulpit in a dark habit. Wikipedia (en, es) gives c. 1430–1479, his reconciliation of Salamanca's two noble factions, and his image 'holding a chalice and host surrounded by rays of light', as on the tiled panel of its lead image. The wide, angular face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, John of Sahagún (lead image: azulejo panel with chalice and Host)",
+          "url": "https://en.wikipedia.org/wiki/John_of_Sahagún"
+        },
+        {
+          "title": "Wikipedia (es), Juan de Sahagún",
+          "url": "https://es.wikipedia.org/wiki/Juan_de_Sahagún"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-12-john-of-st-fagondez (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-12-john-of-st-fagondez.md"
+        }
+      ],
+      "lifeChapter": "jun-12-john-of-st-fagondez",
+      "catalogMatch": "12 Jun · St. John of St. Fagondez"
+    },
+    {
+      "id": "john_francis_regis",
+      "letter": "J",
+      "feast": {
+        "month": 6,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. John Francis Regis",
+        "pt-BR": "São João Francisco Regis"
+      },
+      "patronOf": {
+        "en-US": "Jesuit missionary",
+        "pt-BR": "Missionário jesuíta"
+      },
+      "prayerExcerpt": {
+        "en-US": "How much might we do if we could forget our own wants in remembering those of others, and put our trust in God!",
+        "pt-BR": "Quanto poderíamos fazer se pudéssemos esquecer as nossas próprias necessidades ao lembrar as dos outros, e pôr a nossa confiança em Deus!"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-16-john-francis-regis.md Reflection, last sentence (Pictorial Lives, public domain)",
+      "subject": "St. John Francis Regis, half-length, as a seventeenth-century French Jesuit on a winter mission: a black cassock under a heavy black travelling cloak dusted with snow, a plain wooden walking staff in his left hand; with his right hand he raises a small crucifix toward the mountain villages he goes to preach in. Behind him, the high Vivarais in winter: snow-covered ridges and pine woods, a steep, frozen mountain path, and the small stone village of Lalouvesc with its church on the pass, smoke from the chimneys, under a cold, clear pale-blue sky. Ardent, tireless and meek; no lettering.",
+      "face": "A Frenchman of Languedoc of about forty-three, lean from labour, with a fair complexion reddened by the cold and a LONG, NARROW, CHISELLED face following his portrait — a HIGH, rounded forehead, HIGH cheekbones with flat hollows beneath, a narrow jaw, a LONG, STRAIGHT, NARROW nose whose tip turns slightly DOWN, LARGE, bright, rather PROMINENT hazel eyes turned sideways toward the villages under thin, arched auburn brows, a small, firm mouth; short AUBURN-CHESTNUT hair, a THIN auburn moustache and a SHORT, POINTED auburn beard on the chin only; the gaze eager and ardent.",
+      "refs": [
+        "ignatius_loyola",
+        "francis_xavier",
+        "vincent_de_paul"
+      ],
+      "basis": "The face follows the old painted portrait on Wikipedia (en, fr): a long, narrow face with high cheekbones, a long nose, large eyes looking aside, short auburn hair, a thin moustache and a short pointed beard, one hand raised and a crucifix in the other. The book tells the winter missions in the mountains, the broken leg healed in the confessional, and his death at forty-four; Wikipedia gives 1597–1640 and his death at Lalouvesc.",
+      "sources": [
+        {
+          "title": "Wikipedia, John Francis Regis (lead image: painted portrait with crucifix)",
+          "url": "https://en.wikipedia.org/wiki/John_Francis_Regis"
+        },
+        {
+          "title": "Wikipedia (fr), Jean-François Régis",
+          "url": "https://fr.wikipedia.org/wiki/Jean-François_Régis"
+        },
+        {
+          "title": "Wikipedia, Lalouvesc",
+          "url": "https://en.wikipedia.org/wiki/Lalouvesc"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-16-john-francis-regis (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-16-john-francis-regis.md"
+        }
+      ],
+      "lifeChapter": "jun-16-john-francis-regis",
+      "catalogMatch": "16 Jun · St. John Francis Regis"
+    },
+    {
+      "id": "avitus",
+      "letter": "A",
+      "feast": {
+        "month": 6,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Avitus",
+        "pt-BR": "Santo Ávito"
+      },
+      "patronOf": {
+        "en-US": "Abbot and recluse",
+        "pt-BR": "Abade e recluso"
+      },
+      "prayerExcerpt": {
+        "en-US": "In quest of a closer retirement, St. Avitus, who had succeeded St. Maximin, soon after resigned the abbacy.",
+        "pt-BR": "Em busca de um retiro mais recolhido, Santo Ávito, que havia sucedido a São Maximino, logo em seguida renunciou ao abadiado."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-17-avitus.md, third paragraph, first sentence up to the resignation of the abbacy; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Avitus, half-length, as a sixth-century Frankish abbot turned recluse: a coarse, dark-brown woollen monastic habit with a deep hood laid back, a rope girdle, a plain, rough wooden abbot's staff in his right hand, his left hand resting on a small wooden cross at his breast. Behind him, the forest of the Dunois on the edge of the Perche: tall oaks and beeches, a clearing with a small hermit's cell of timber and thatch, and beyond the trees a glimpse of a river valley and a hill town under a soft, silvery summer sky. Humble, quiet and recollected; no lettering.",
+      "face": "A Frank of peasant stock of about sixty-five, weathered by field and forest, with a brown, outdoor complexion and a LEAN, FLAT, WIDE face with a DISHED, CONCAVE profile — a broad, flat forehead, a SHORT, SCOOPED nose with an UPTURNED tip, WIDE-SET, large, mild, pale-green eyes under sparse, straight grey brows, BROAD, FLAT cheekbones with thin cheeks beneath, a wide, thin-lipped mouth, a SMALL, ROUND chin under a SHORT, ROUGH grey-brown beard; grey-brown hair cropped close around a monastic tonsure; the gaze lowered, gentle and patient.",
+      "refs": [
+        "benedict",
+        "anthony_abbot",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives. The book tells a native of Orleans, monk at Menat and at Micy with St. Calais, abbot of Micy who resigned to live as a recluse in the Dunois, for whom King Clotaire built a monastery near Châteaudun, and who died about 530; its engraving shows two monks walking in open country. French Wikipedia (Avit de Micy) makes him a son of humble farmers of the Beauce and a lover of the forest solitude. The flat, dish-profiled face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia (fr), Avit de Micy",
+          "url": "https://fr.wikipedia.org/wiki/Avit_de_Micy"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-17-avitus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-17-avitus.md"
+        }
+      ],
+      "lifeChapter": "jun-17-avitus",
+      "catalogMatch": "17 Jun · St. Avitus, Abbot"
+    },
+    {
+      "id": "marcus_marcellianus",
+      "letter": "M",
+      "feast": {
+        "month": 6,
+        "day": 18
+      },
+      "name": {
+        "en-US": "Sts. Marcus and Marcellianus",
+        "pt-BR": "São Marco e São Marceliano"
+      },
+      "patronOf": {
+        "en-US": "Twin brothers, martyrs",
+        "pt-BR": "Irmãos gêmeos, mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "We know not what we are till we have been tried.",
+        "pt-BR": "Não sabemos o que somos até termos sido provados."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-18-sts-marcus-and-marcellianus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Marcus and Marcellianus, twin brothers of a noble Roman family, half-length side by side: long tunics, Marcus's of deep blue and Marcellianus's of dark green, each under a white pallium, each holding a martyr's palm; Marcus (left) has his hand on his heart, Marcellianus (right) holds his palm upright with both hands. Behind them, the Via Ardeatina outside Rome in the late third century: a paved road between cypresses and low tombs, the brick entrance of a catacomb in the green slope, and the walls and roofs of Rome in the distance under a clear, warm, blue sky. Steadfast and brotherly; no pillars, no lances, no lettering.",
+      "face": "Twin Roman brothers of about thirty-five with fair olive complexions and ONE SHARED bone structure, told apart only by the beard: a face with a BROAD, SQUARE forehead above a NARROWER, V-SHAPED lower face ending in a POINTED chin — a LONG nose with a distinct BUMP at the bridge, LARGE, dark eyes set CLOSE together under THICK, STRAIGHT black brows that nearly meet, clearly PROMINENT ears, a small, full mouth; short, crisp, curly black hair. MARCUS (left) wears a short, close black beard; MARCELLIANUS (right) is clean-shaven, which shows the pointed chin; both gazes grave and steadfast.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likeness survives. The book tells twin brothers of an illustrious Roman family, married, imprisoned under Diocletian, strengthened by St. Sebastian, and at last pierced with lances; its engraving shows two young, beardless men bound to pillars. Wikipedia: nothing certain is known but their names, their martyrdom and their burial on the Via Ardeatina in the cemetery of Balbina; the twins, parents and Sebastian come from the largely legendary Acts of St. Sebastian. The shared face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Mark and Marcellian",
+          "url": "https://en.wikipedia.org/wiki/Marcus_and_Marcellianus"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-18-sts-marcus-and-marcellianus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-18-sts-marcus-and-marcellianus.md"
+        }
+      ],
+      "lifeChapter": "jun-18-sts-marcus-and-marcellianus",
+      "catalogMatch": "18 Jun · Sts. Marcus and Marcellianus"
+    },
+    {
+      "id": "juliana_falconieri",
+      "letter": "J",
+      "feast": {
+        "month": 6,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Juliana Falconieri",
+        "pt-BR": "Santa Juliana Falconieri"
+      },
+      "patronOf": {
+        "en-US": "Foundress of the Mantellate",
+        "pt-BR": "Fundadora das Mantellate"
+      },
+      "prayerExcerpt": {
+        "en-US": "If you seek the Cross, there you will find the Mother; and where the Mother is, there also is the Son.",
+        "pt-BR": "Se buscas a Cruz, ali encontrarás a Mãe; e onde está a Mãe, ali também está o Filho."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-19-juliana-falconieri.md Reflection, the last sentence of St. Paul of the Cross's words it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Juliana Falconieri, half-length, as an aged Servite foundress of the fourteenth century: the black habit and black mantle of the Servants of Mary with a leather girdle, a black veil over a close white wimple; her hands crossed on her breast, and over her heart on the black habit a small white Host marked with a little cross, as she is always shown. Behind her, Florence on the Arno: red-tiled roofs, stone towers, and the church of the Santissima Annunziata that her father built, under a soft evening sky of rose and gold. Recollected, tender and modest, eyes lowered; no doves, no lettering.",
+      "face": "A Florentine noblewoman of about sixty-five, thin from long illness, with a pale, finely lined complexion and a face like an INVERTED EGG — a WIDE, SQUARE-set forehead framed tight by the wimple, FLATTISH cheeks, the face narrowing to a firm, slightly JUTTING, rounded chin; a LONG, straight, NARROW nose with a delicate HOOK at the tip; SMALL, deep-set, dark-brown eyes LOWERED, as one who never gazed on a man's face, under thin, STRAIGHT dark brows; a small, thin, gently compressed mouth; all hair hidden.",
+      "refs": [
+        "catherine_siena",
+        "margaret_mary",
+        "clare_assisi"
+      ],
+      "basis": "No portrait from life is known. The book tells a Falconieri of Florence, niece of Alexis, one of the Servite founders, who received the habit from St. Philip Benizi, founded the Mantellate, and in her seventieth year died as the Host laid on her breast vanished; its engraving shows her in a dark veil over a white wimple, holding out a dish at a window in a cloister. Wikipedia: 1270–1341, the black Servite habit with a leather girdle, 'usually represented in the habit of her Order with a host upon her breast', as her marble statue at Padua shows. The inverted-egg face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Juliana Falconieri (lead image: statue, Santa Maria dei Servi, Padua)",
+          "url": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+        },
+        {
+          "title": "Wikimedia Commons, Pier Leone Ghezzi, The Consecration of Saint Juliana Falconieri (drawing)",
+          "url": "https://commons.wikimedia.org/wiki/File:Pier_Leone_Ghezzi_-_The_Consecration_of_Saint_Juliana_Falconieri_-_Google_Art_Project.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-19-juliana-falconieri (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-19-juliana-falconieri.md"
+        }
+      ],
+      "lifeChapter": "jun-19-juliana-falconieri",
+      "catalogMatch": "19 Jun · St. Juliana Falconieri"
+    },
+    {
+      "id": "silverius",
+      "letter": "S",
+      "feast": {
+        "month": 6,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Silverius",
+        "pt-BR": "São Silvério"
+      },
+      "patronOf": {
+        "en-US": "Pope and martyr",
+        "pt-BR": "Papa e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "He neither could nor would obey her unjust demands and betray the cause of the Catholic faith.",
+        "pt-BR": "Nem podia nem queria obedecer às suas exigências injustas e trair a causa da fé católica."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-20-silverius.md, second paragraph, his answer to the empress (the clause after 'that'); the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Silverius, Pope, half-length, in exile on a desert island: stripped of his papal vestments, he wears a plain, rough grey-brown monk's habit, and holds a martyr's palm against his breast with his right hand, his left hand resting on a small, plain wooden cross; he looks out to sea toward Rome. Behind him, Palmarola in the Tyrrhenian Sea: steep, bare cliffs of pale volcanic rock with scrub and a few wild flowers, a deep-blue sea, a small fishing boat with a white sail, and the long shape of Ponza on the horizon under a bright, clear sky. Steadfast, patient and serene in privation; no chains, no lettering.",
+      "face": "A Roman of Campania of about fifty-five, THINNED by hunger, with a light-olive, sun-dried complexion and a ROUND skull with a FULL, CURVED forehead — very PROMINENT, ROUNDED cheekbones standing out over the hollows that hunger has made, SMALL, CLOSE-SET grey-green eyes under thin, slightly slanting grey brows, a SHORT, straight nose with a PINCHED, narrow bridge, a SMALL, softly receding chin under a SHORT, SPARSE, grizzled beard, a small, closed, patient mouth, LARGE ears; close-cropped greying dark hair; the gaze steady and far-off.",
+      "refs": [
+        "gregory_great",
+        "jerome",
+        "anthony_padua"
+      ],
+      "basis": "No likeness survives; later images (Samacchini's altarpiece, the Nuremberg Chronicle woodcut) are conventional. The book tells the son of Pope Hormisdas made Pope in 536, who refused the Empress Theodora, was falsely accused, exiled to Patara and then to a desert island, where he died; its engraving shows him seated on a rocky shore watching a boat. Wikipedia names the island Palmarola, where he starved to death, and Procopius's account that he was deposed and put in a monk's habit. The round, hunger-thinned face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Silverius",
+          "url": "https://en.wikipedia.org/wiki/Pope_Silverius"
+        },
+        {
+          "title": "Wikipedia, Palmarola",
+          "url": "https://en.wikipedia.org/wiki/Palmarola"
+        },
+        {
+          "title": "Wikimedia Commons, Silverius in the Liber Chronicarum (Nuremberg Chronicle woodcut)",
+          "url": "https://commons.wikimedia.org/wiki/File:Paus_Silverius_Silverius_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-61-10.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-20-silverius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-20-silverius.md"
+        }
+      ],
+      "lifeChapter": "jun-20-silverius",
+      "catalogMatch": "20 Jun · St. Silverius, Pope and Martyr"
+    },
+    {
+      "id": "etheldreda",
+      "letter": "E",
+      "feast": {
+        "month": 6,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Etheldreda",
+        "pt-BR": "Santa Eteldreda"
+      },
+      "patronOf": {
+        "en-US": "Abbess of Ely",
+        "pt-BR": "Abadessa de Ely"
+      },
+      "prayerExcerpt": {
+        "en-US": "The soul cannot truly serve God while it is involved in the distractions and pleasures of the world.",
+        "pt-BR": "A alma não pode verdadeiramente servir a Deus enquanto está envolvida nas distrações e nos prazeres do mundo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-23-etheldreda.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Etheldreda, Abbess of Ely, half-length, as in her tenth-century image in the Benedictional of St. Æthelwold: a dark veil over a cream wimple, a full mantle of warm ochre and russet over a brown habit; she holds a book against her breast with her right hand and in her left a slender staff that has budded into green, flowering branches; her neck plain, with no jewels. Behind her, the Isle of Ely in the Fens: a low green island rising from wide, still waters, reed beds and willows, a small monastery church of stone and timber on the rise (not the later Norman cathedral), and a vast, pale, cloud-streaked East Anglian sky. Serene, royal and detached; no crown, no king, no lettering.",
+      "face": "An East Anglian princess of about forty with a fair, clear complexion and a softly PEAR-SHAPED face — NARROW at the temples and widening to FULL lower cheeks and a broad, rounded jaw; a straight nose that continues the line of the forehead in ONE UNBROKEN LINE (a classical profile); LARGE, WIDE-SET, heavy-lidded pale-blue eyes under HIGH, curved fair brows; a SMALL, full, rosebud mouth; a SHORT, rounded chin; the neck plain and unadorned; all hair hidden; the gaze calm and inward.",
+      "refs": [
+        "clare_assisi",
+        "bridget_sweden",
+        "monica"
+      ],
+      "basis": "No likeness survives. The Benedictional of St. Æthelwold (tenth century; Commons) shows her veiled, with a book and a budding staff, and Wikipedia tells the legend of the ash that grew from her staff, and Bede's account of her dying of a neck tumour she took as penance for the necklaces of her youth. The book tells her two marriages kept in virginity, her refuge on a headland near Coldingham, and the double monastery she founded at Ely in 672. The pear-shaped face with the classical profile is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Æthelthryth (lead image: Benedictional of St. Æthelwold)",
+          "url": "https://en.wikipedia.org/wiki/Æthelthryth"
+        },
+        {
+          "title": "Wikimedia Commons, St-aethelthryth (Benedictional of St. Æthelwold)",
+          "url": "https://commons.wikimedia.org/wiki/File:St-aethelthryth.jpg"
+        },
+        {
+          "title": "Wikipedia, Ely Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Ely_Cathedral"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-23-etheldreda (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-23-etheldreda.md"
+        }
+      ],
+      "lifeChapter": "jun-23-etheldreda",
+      "catalogMatch": "23 Jun · St. Etheldreda, Abbess"
+    }
+  ]
+}
