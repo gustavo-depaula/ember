@@ -1,5 +1,6 @@
 export {
   completePractice,
+  prayedIdOf,
   useCompletedSlots,
   useCompletePractice,
   useCompletionRange,

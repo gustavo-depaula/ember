@@ -250,7 +250,8 @@ export async function logCompletion(
   practiceId: string,
   date: string,
   subId: string,
-  how: { prayedId: string; via: CompletionVia },
+  prayedId: string,
+  via: CompletionVia,
 ): Promise<void> {
   const completionId = useEventStore.getState().nextCompletionId
   await emit({
@@ -260,7 +261,8 @@ export async function logCompletion(
     subId,
     date,
     completedAt: Date.now(),
-    ...how,
+    prayedId,
+    via,
   })
 }
 
@@ -293,19 +295,14 @@ function resolve(ids: Set<number> | undefined): Completion[] {
   return resolveCompletions(ids, useEventStore.getState().completions)
 }
 
-export async function toggleCompletion(
+/** Undo a slot's completion on `date`, if it has one. */
+export async function removeSlotCompletion(
   practiceId: string,
   date: string,
-  completed: boolean,
   subId: string,
-  how: { prayedId: string; via: CompletionVia },
 ): Promise<void> {
-  if (completed) {
-    await logCompletion(practiceId, date, subId, how)
-  } else {
-    const match = resolve(useEventStore.getState().completionsByDate.get(date)).find(
-      (c) => c.practice_id === practiceId && c.sub_id === subId,
-    )
-    if (match) await removeCompletion(match.id)
-  }
+  const match = resolve(useEventStore.getState().completionsByDate.get(date)).find(
+    (c) => c.practice_id === practiceId && c.sub_id === subId,
+  )
+  if (match) await removeCompletion(match.id)
 }

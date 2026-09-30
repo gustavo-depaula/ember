@@ -50,7 +50,7 @@ describe('completing a prayed practice', () => {
     await createPracticeWithSlot({ id: 'practice/angelus' }, {})
     const evening = await addSlot('practice/angelus', {})
 
-    await completePractice('practice/angelus', date, evening)
+    await completePractice('practice/angelus', date, { slotKey: evening })
 
     expect(doneOn(date)).toEqual([evening])
   })

@@ -5,7 +5,7 @@ import { useShallow } from 'zustand/react/shallow'
 import { bareId } from '@/content/contentIndex'
 import type { EventStoreState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
-import { logCompletion, toggleCompletion } from '@/db/repositories'
+import { logCompletion, removeSlotCompletion } from '@/db/repositories'
 import type { Completion, CompletionVia } from '@/db/schema'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 
@@ -74,21 +74,32 @@ export function completionTarget(
   return { practiceId, subId: slot ? parseSlotKey(slot.id).slotId : 'default' }
 }
 
+// What praying a plan practice prays: its active variant, or itself. A
+// checklist tick has no prayer screen to say, so this is the best record of it;
+// snapshotting it now keeps the record right if the variant changes later.
+function prayedFor(practiceId: string, state: PlanState): string {
+  return bareId(state.practices.get(practiceId)?.active_variant ?? practiceId)
+}
+
+/** The practice a completion prayed, falling back for those recorded before it was kept. */
+export function prayedIdOf(completion: Completion, state: PlanState = useEventStore.getState()) {
+  return completion.prayed_id ?? prayedFor(completion.practice_id, state)
+}
+
 export async function completePractice(
   prayedId: string,
   date: string,
-  slotKey?: string,
-  via: Exclude<CompletionVia, 'checklist'> = 'amen',
+  { slotKey, via = 'amen' }: { slotKey?: string; via?: CompletionVia } = {},
 ): Promise<void> {
   const { practiceId, subId } = completionTarget(prayedId, date, slotKey)
-  await logCompletion(practiceId, date, subId, { prayedId, via })
+  await logCompletion(practiceId, date, subId, bareId(prayedId), via)
 }
 
-/** A tick on the checklist: what was prayed is the practice's active variant. */
 export async function setSlotDone(slotKey: string, date: string, done: boolean): Promise<void> {
   const { practiceId, slotId } = parseSlotKey(slotKey)
-  const prayedId = useEventStore.getState().practices.get(practiceId)?.active_variant ?? practiceId
-  await toggleCompletion(practiceId, date, done, slotId, { prayedId, via: 'checklist' })
+  if (!done) return removeSlotCompletion(practiceId, date, slotId)
+  const prayedId = prayedFor(practiceId, useEventStore.getState())
+  await logCompletion(practiceId, date, slotId, prayedId, 'checklist')
 }
 
 /** Slot keys completed on `date` — compare against `SlotState.id`. */
@@ -130,7 +141,7 @@ export function useCompletePractice() {
       prayedId: string
       date: string
       slotKey?: string
-    }) => completePractice(prayedId, date, slotKey),
+    }) => completePractice(prayedId, date, { slotKey }),
   })
 }
 
