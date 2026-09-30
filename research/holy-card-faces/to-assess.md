@@ -12,6 +12,9 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Petronilla (31 May):** her being St. Peter's daughter is legend (the book doubts it too). [Kept; card shows no link to Peter.] — `dossiers/batch-29.md`
 - [ ] **Cyril of Caesarea (29 May):** no source independent of the book; accounts disagree on fire vs beheading. [Kept; card shows neither.] — `dossiers/batch-29.md`
 - [ ] **Vitus, Crescentia and Modestus (15 Jun):** the Martyrology keeps Vitus alone; Modestus and Crescentia are considered fictitious, and the chapter and its reflection turn on Crescentia. [Skipped for now, the line stays open. Options: a card of St. Vitus alone without the chapter's reflection, or remove the line.] — `dossiers/batch-30.md`
+- [ ] **Seraphia (3 Sep):** skipped; no entry of her own found in the current Martyrology. [Skip.] — `dossiers/batch-35.md`
+- [ ] **Thecla (23 Sep):** skipped; her story is the apocryphal Acts of Paul and Thecla, her feast left the calendar in 1969, and no current Martyrology entry was found (checked only through Santi e Beati). [Skip.] — `dossiers/batch-36.md`
+- [ ] **Cyprian and Justina (26 Sep):** skipped; removed from the 2001 Martyrology as fictitious. [Skip.] — `dossiers/batch-36.md`
 - [ ] **Marcus and Marcellianus (18 Jun):** genuine cult, but all beyond their names and martyrdom comes from the legendary Acts of St. Sebastian. [Kept, the card shows only palms.] — `dossiers/batch-30.md`
 - [ ] **Legend-based chapters kept (batch 32):** Margaret of Antioch (story "generally regarded fictitious"; card leaves out the dragon), Christina of Bolsena (only name and burial known), Alexius (Martyrology: "as reported by tradition"); softer: Felicitas as mother of the Seven Brothers, the Simon Stock scapular vision. All remain in the Martyrology. [Kept; replacements would be Nazarius and Celsus, then Germanus.] — `dossiers/batch-32.md`
 - [ ] **Susanna (11 Aug):** Acts "of no historical value"; the Martyrology keeps her only as a commemoration tied to her Roman church. [Kept, with Tiburtius; replacement would be Hyacinth.] — `dossiers/batch-33.md`
@@ -47,6 +50,11 @@ Each item names the choice made so far, in brackets; it stands until you say oth
   - Sabas, Valery and Finian have no Reflection in the book, so each card's excerpt is a sentence from the chapter.
   - Nemesion has no Santi e Beati entry; he is carded on the book's authority, with Eusebius as the source.
   - Valery and Olympias keep the book's dates (12 and 17 Dec), not the Martyrology's (1 Apr, 25 Jul).
+- [ ] **Batch 42 (20–30 Dec):** [All as stated.] — `dossiers/batch-42.md`
+  - The 24 Dec chapter goes to Thrasilla and Emiliana, whose Reflection it is. Delphinus's card has no life link and uses a sentence of the chapter.
+  - Sabinus is shown with his two deacons, following the catalog line, unlike Nicasius, who is shown alone.
+  - Servulus's excerpt is his Reflection, a rebuke to the healthy and rich. The alternative is his dying words about the heavenly melody.
+  - The book's dates and spellings are kept ("Thrasilla", Sabinus on 30 Dec). Delphinus's pt-BR see is "Bordeaux", not the book's "Bordéus".
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
