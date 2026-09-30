@@ -9,12 +9,21 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 // A single bespoke holy card — the hand-illustrated, collected saints. The
 // `id` doubles as the image stem (`saints/{id}.webp`). All display strings are
 // localized; the feast is the calendar spine the gallery sorts and groups by.
+// The card names its own Pictorial Lives chapter and Mass formulary rather than
+// leaving them to its date: the book keeps the pre-1969 calendar and a date can
+// hold several celebrations, so the same day often belongs to someone else.
 export type HolyCard = {
   id: string
   feast: { month: number; day: number }
   name: LocalizedText
   patronOf?: LocalizedText
   prayerExcerpt?: LocalizedText
+  /** Pictorial Lives chapter telling this saint's life. */
+  lifeChapter?: string
+  /** That chapter's closing reflection, copied in at corpus build. */
+  reflection?: LocalizedText
+  /** Id of the OF Mass formulary proper to the feast; its collect shows on the card. */
+  proper?: string
 }
 
 type HolyCardsData = {
@@ -37,12 +46,13 @@ export function useHolyCards(): HolyCard[] | undefined {
     queryKey: ['holy-cards', catalogVersion],
     queryFn: async () => {
       const entry = getEntry('practice/saint-of-the-day')
-      if (!entry) return undefined
+      // null, not undefined: Query v5 rejects undefined data while the catalog warms.
+      if (!entry) return null
       const manifest = getRememberedManifest<PracticeManifest>(entry.hash)
       const ref = manifest?.dataHashes?.find((d) => d.name === DATA_NAME)
-      if (!ref) return undefined
+      if (!ref) return null
       const parsed = await getJson<HolyCardsData>(ref.hash)
-      return parsed?.cards
+      return parsed?.cards ?? null
     },
     staleTime: Number.POSITIVE_INFINITY,
   })
