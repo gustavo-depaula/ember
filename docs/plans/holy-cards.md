@@ -25,7 +25,7 @@ It must feel like a missal, not a game:
 
 | Act | Card |
 |---|---|
-| Mass on a day with a saint on the current calendar | That saint (the highest-ranked; you pick among equals) |
+| Mass on a day with a saint on the current calendar | That saint (you pick when there are several) |
 | The Divine Office, any hour, on a saint's assigned day | A saint not on the current calendar, assigned that day |
 | Sunday Mass after a faithful week | The next Roman Canon saint |
 | Weekday Mass with no saint (or whose saint has no card yet) | A liturgical card: a part of the Mass, a liturgical object, or a vestment |
@@ -48,8 +48,7 @@ Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the pla
 
 When several per-Mass doors are due on the same day: **day's saint → Canon saint → liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a novena finishing the same day) — each its own act, each its own card.
 
-- **Rank decides:** the day's highest-ranked celebration — solemnity, then feast, then obligatory memorial, then optional memorial.
-- **Equals, you pick:** when several share the top rank (typically optional memorials), you choose whose card it is, on the envelope.
+- **Several saints, you pick:** every saint the day celebrates is a candidate, whatever the rank; you choose whose card it is, on the envelope. Rank only orders the list (solemnity, feast, obligatory memorial, optional memorial).
 - **No art yet:** if the day's saint has no card drawn yet, that Mass gives a liturgical card instead — the same as a day with no saint.
 
 ### Roman Canon saints (Sundays)
@@ -116,7 +115,7 @@ A won card arrives **sealed**: an envelope first in Today's featured carousel (s
 
 **Redeeming** (prototyped on the branch `prototype/holy-card-redeem`, route `ember://dev/redeem-prototype`):
 
-1. **The envelope** — paper, a wax seal with a gold ✠, the saint's name and the date written on it, how it was won, and when it must be opened by. When the act offers several saints of equal standing, the envelope lists them and you choose whose it is before praying. The card's holographic sheen crosses it now and then, and under a finger it tilts and shimmers: a hint of what's inside.
+1. **The envelope** — paper, a wax seal with a gold ✠, the saint's name and the date written on it, how it was won, and when it must be opened by. When the act offers several saints, the envelope lists them (for Mass, by liturgical rank) and you choose whose it is before praying. The card's holographic sheen crosses it now and then, and under a finger it tilts and shimmers: a hint of what's inside.
 2. **A short introduction and the prayer**, on one page — two or three sentences written for the card (drawn from its Pictorial Lives entry), then "Let us pray" with the collect of the saint's Mass (or the card's prayer excerpt when there's none), and **Amen**.
 3. **The opening** — the seal splits, the flap swings up, the card rises out shimmering and settles full-size.
 4. **After** — "Read his life" under the card slides up the full Pictorial Lives entry and its reflection. The long reading comes after the reveal, as a reward rather than a toll.
