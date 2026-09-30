@@ -12,7 +12,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of Brazil's own calendar | 6 | 5 |
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 0 |
-| Saints of the Pictorial Lives (Saint of the Day) | 246 | 0 |
+| Saints of the Pictorial Lives (Saint of the Day) | 245 | 0 |
 | Feasts of the Lord and the Church | 23 | 5 |
 | Our Lady | 18 | 6 |
 | Angels | 3 | 3 |
@@ -21,7 +21,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 607 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 606 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -340,7 +340,6 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 20 Mar · St. Wulfran, Archbishop · *São Wulfrano, Arcebispo* · Pictorial Lives
 - [ ] 22 Mar · St. Catharine of Sweden, Virgin · *Santa Catarina da Suécia, Virgem* · Pictorial Lives
 - [ ] 23 Mar · Sts. Victorian and Others, Martyrs · *Santos Vitoriano e Outros, Mártires* · Pictorial Lives
-- [ ] 24 Mar · St. Simon, Infant Martyr · *São Simão, Mártir Infante* · Pictorial Lives
 - [ ] 26 Mar · St. Ludger, Bishop · *São Ludgero, Bispo* · Pictorial Lives
 - [ ] 27 Mar · St. John of Egypt · *São João do Egito* · Pictorial Lives
 - [ ] 28 Mar · St. Gontran, King · *São Gontrão, Rei* · Pictorial Lives

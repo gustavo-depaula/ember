@@ -1,0 +1,469 @@
+{
+  "batch": 24,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-24.md",
+  "cards": [
+    {
+      "id": "zachary",
+      "letter": "Z",
+      "feast": {
+        "month": 3,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Zachary",
+        "pt-BR": "São Zacarias"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "He loved the clergy and people of Rome to that degree that he hazarded his life for them.",
+        "pt-BR": "Amava de tal maneira o clero e o povo de Roma que arriscou a vida por eles."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-15-zachary.md, first paragraph, second sentence up to \"for them\" (the chapter has no Reflection; the index has none for 03-15) (Pictorial Lives, public domain)",
+      "subject": "St. Zachary, Bishop of Rome, half-length, as an eighth-century pope without a tiara: a white tunic under a full, bell-shaped chasuble of deep MOSS-GREEN silk with a narrow gold border, and over it the white woollen pallium with small black crosses; his right hand rests in blessing on the shoulder of a young, dark-haired freed slave in a plain undyed tunic who looks up at him, one of those he bought back from the merchants, as in the book's engraving; at the lower edge a pair of opened iron fetters lies on the paving stones. Behind him, eighth-century Rome: the old Lateran palace he restored, with its arcaded loggia, and a small portico lit by oil lamps, the Aventine and the Tiber beyond, under a warm, golden evening sky. Meek and fatherly; no tiara, no lettering.",
+      "face": "A Greek of Calabria of about seventy with a warm, sallow olive complexion and a SOFT, LONG face whose features all SLOPE GENTLY DOWNWARD — brows and outer corners of the eyes drooping in a mild, sorrowful slant, large, moist, dark-brown eyes with heavy upper lids, a LONG, SLENDER nose whose tip turns slightly DOWN, cheekbones set high with soft hollows beneath, a small, soft, closed mouth with downturned corners easing into a faint smile, a small, round chin; short, thin white hair combed forward; a SHORT, soft, ROUNDED white beard close to the jaw; the gaze tender, down toward the freed youth.",
+      "refs": [
+        "gregory_great",
+        "leo_great",
+        "vincent_de_paul"
+      ],
+      "basis": "A contemporary portrait of him, with the square nimbus of the living, is in the Theodotus chapel of Santa Maria Antiqua, but the Commons photographs of that wall show the figure too damaged to give features. His Greek family from Santa Severina in Calabria, his birth in 679 and his restoring the Lateran Palace are from Wikipedia; the ransomed slaves are from the book and its engraving. The drooping, gentle face is our choice, for 'a man of singular meekness'.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Zachary (lead image: fresco of the Theodotus chapel, Santa Maria Antiqua)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Zachary"
+        },
+        {
+          "title": "Wikimedia Commons, Theodotus chapel frescoes, Santa Maria Antiqua, 741–752",
+          "url": "https://commons.wikimedia.org/wiki/File:Et%C3%A0_di_papa_zaccaria,_cappella_del_primicerius_teodoro,_madonna_in_trono_con_theodoto_e_la_moglie,_741-752,_00.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-15-zachary (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-15-zachary.md"
+        }
+      ],
+      "lifeChapter": "mar-15-zachary",
+      "catalogMatch": "St. Zachary, Pope"
+    },
+    {
+      "id": "abraham_mary",
+      "letter": "A",
+      "feast": {
+        "month": 3,
+        "day": 16
+      },
+      "name": {
+        "en-US": "Sts. Abraham and Mary",
+        "pt-BR": "Santo Abraão e Santa Maria"
+      },
+      "patronOf": {
+        "en-US": "Hermit and penitent",
+        "pt-BR": "Eremita e penitente"
+      },
+      "prayerExcerpt": {
+        "en-US": "Oh, that we realized the omnipotence of prayer!",
+        "pt-BR": "Oh, se compreendêssemos a onipotência da oração!"
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-16 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Abraham Kidunaia, hermit and priest of Edessa, and his niece St. Mary, half-length side by side, as in the book's engraving where he stands at the door of his cell and she kneels at hers: Abraham (left) in a coarse dark-brown hair-cloth tunic and a black monk's mantle, his right hand raised to bless, his left on the rough doorpost of his walled-up stone cell with its small window; Mary (right), come home a penitent, in a plain grey-blue woollen gown and a dark-violet veil over her head, her hands folded at her breast, her head a little bowed. Behind them the bare, stony hills outside Edessa, a second small cell of rough stone beside the first, and far off the walls of the city, under a clear dawn sky. Tender and full of hope; modest, no lettering.",
+      "face": "Two clearly different Syrians with warm olive-brown skin. ABRAHAM (left): about sixty-five, with a LONG, NARROW face and a PROMINENT, KNOBBY CHIN that juts forward below a lean jaw — a high, lined forehead, large, dark, heavy-lidded eyes under thin, curved grey brows, a long, thin, straight nose, a wide, thin-lipped mouth; bald crown with grey-black hair falling straight to the shoulders; a THIN grey-black beard trimmed SHORT along the jaw so that the knobbed chin shows; the gaze grave and gentle, on Mary. MARY (right): about twenty-seven, with a ROUND, SOFT face — a broad, smooth brow, wide-set, large, dark eyes wet with tears, straight dark brows, a short nose with a rounded tip, full cheeks, a small, full mouth, a small, round chin; dark hair hidden under the veil; the gaze lowered in contrition.",
+      "refs": [
+        "philip_james",
+        "mary_magdalene",
+        "anthony_abbot"
+      ],
+      "basis": "No likenesses survive; the Menologion of Basil II (Wikipedia's lead image) shows Abraham as an elderly grey-bearded monk before a building. The book tells the walled-up cell with its small window, Mary's cell beside his, and her return; its engraving shows him at his cell door and her kneeling at hers. The knobbed chin and the round young face are our choices.",
+      "sources": [
+        {
+          "title": "Wikipedia, Abraham of Kidunaia (lead image: Menologion of Basil II)",
+          "url": "https://en.wikipedia.org/wiki/Abraham_of_Kidunaia"
+        },
+        {
+          "title": "Wikipedia, Edessa",
+          "url": "https://en.wikipedia.org/wiki/Edessa"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-16-sts-abraham-and-mary (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-16-sts-abraham-and-mary.md"
+        }
+      ],
+      "lifeChapter": "mar-16-sts-abraham-and-mary",
+      "catalogMatch": "Sts. Abraham and Mary"
+    },
+    {
+      "id": "wulfran",
+      "letter": "W",
+      "feast": {
+        "month": 3,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Wulfran",
+        "pt-BR": "São Wulfrano"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of Sens, apostle of Friesland",
+        "pt-BR": "Arcebispo de Sens, apóstolo da Frísia"
+      },
+      "prayerExcerpt": {
+        "en-US": "In every age the Catholic Church is a missionary church.",
+        "pt-BR": "Em toda época, a Igreja Católica é uma igreja missionária."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-20 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Wulfran, Archbishop of Sens who resigned his see to preach to the Frisians as a poor missionary priest, half-length: a plain, undyed woollen travelling cloak over a white alb, a simple wooden cross-staff in his left hand; his right hand rests on the head of a small, fair-haired Frisian child in a rough tunic who clings to his cloak, one of the children he saved from drowning. Behind him, the flat coast of Friesland: green salt-marsh, a village of long thatched houses on a raised mound, a small new wooden church with a cross, and the grey North Sea under a wide, windy sky with a break of sunlight. Compassionate and bold; no gibbet, no idols, no lettering.",
+      "face": "A Frank of about sixty with a fair, weathered complexion and a LONG face dominated by a LONG, BROAD, gently DROOPING nose with a big, soft, rounded tip — small, DEEP-SET, warm brown eyes under BUSHY brown-grey brows that ARCH UP toward the centre in an earnest, pleading look, a smooth forehead, lean cheeks, a small mouth, a short, slightly RECEDING chin under a SHORT, FULL, CURLY brown-grey beard; brown-grey hair round a small monk's tonsure; the gaze earnest and compassionate, down toward the child.",
+      "refs": [
+        "boniface",
+        "patrick",
+        "francis_xavier"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image is a Victorian statue at Grantham. The book tells his resignation of Sens, the saving of Ovon from the gibbet and of two children from drowning, and his death at Fontenelle; its engraving shows him lifting Ovon from the gallows. The card keeps a rescued child and leaves the gibbet off. The long face with the big drooping nose and the curly beard is our choice, to keep him from `ansgar`, the clean-shaven square-browed Frankish missionary of the north.",
+      "sources": [
+        {
+          "title": "Wikipedia, Wulfram of Sens (Ovon; Friesland; lead image: statue at Grantham)",
+          "url": "https://en.wikipedia.org/wiki/Wulfram_of_Sens"
+        },
+        {
+          "title": "Wikipedia, Fontenelle Abbey",
+          "url": "https://en.wikipedia.org/wiki/Fontenelle_Abbey"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-20-wulfran (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-20-wulfran.md"
+        }
+      ],
+      "lifeChapter": "mar-20-wulfran",
+      "catalogMatch": "St. Wulfran, Archbishop"
+    },
+    {
+      "id": "catharine_sweden",
+      "letter": "C",
+      "feast": {
+        "month": 3,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Catharine of Sweden",
+        "pt-BR": "Santa Catarina da Suécia"
+      },
+      "patronOf": {
+        "en-US": "Abbess of Vadstena",
+        "pt-BR": "Abadessa de Vadstena"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whoever has to dwell in the world stands in need of great prudence.",
+        "pt-BR": "Quem quer que tenha de habitar no mundo necessita de grande prudência."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-22 reflection, its first clause, closed with a full stop (Pictorial Lives, public domain)",
+      "subject": "St. Catharine of Sweden, daughter of St. Bridget and first abbess of Vadstena, half-length, in the Bridgettine habit: a grey woollen habit and mantle, a white wimple, a black veil, and over it the white linen band of the 'Crown of the Five Holy Wounds' with its five small red marks; she holds a closed book of the Rule against her breast with her left hand, and her right rests on the neck of a gentle red HIND standing close beside her, her attribute. Behind her, Vadstena: the long grey stone abbey church on the shore of the broad, blue Lake Vättern, birch trees and a green Swedish shore, under a clear, pale northern sky. Prudent and serene; no lettering.",
+      "face": "A Swedish noblewoman of about forty-five with a fair, clear, lightly freckled complexion and a SHORT, BROAD, HEART-SHAPED face — a WIDE forehead and WIDE, rounded cheekbones narrowing to a small, neat chin; LARGE, round, clear grey-blue eyes set wide under softly rounded fair brows; a small, straight nose; a SHORT upper lip over a small, full, gently smiling mouth; hair hidden under the wimple; the gaze calm and kindly, toward us.",
+      "refs": [
+        "bridget_sweden",
+        "clare_assisi",
+        "elizabeth_hungary"
+      ],
+      "basis": "No likeness from life; Wikipedia's lead image is a medieval wooden statue in Tróno church. Wikipedia: 'generally represented with a hind at her side', and the veil's crown is the Bridgettine 'Crown of the Five Holy Wounds'. The book tells her vow of chastity with Egard, her pilgrimages with her mother and her death as abbess of Vadstena. The short heart-shaped face is our choice, to keep her apart from her mother's long oval on `bridget_sweden`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Catherine of Vadstena (the hind; lead image: statue at Tróno)",
+          "url": "https://en.wikipedia.org/wiki/Catherine_of_Vadstena"
+        },
+        {
+          "title": "Wikipedia, Bridgettines (the Crown of the Five Holy Wounds)",
+          "url": "https://en.wikipedia.org/wiki/Bridgettines"
+        },
+        {
+          "title": "Wikipedia, Vadstena Abbey (on Lake Vättern)",
+          "url": "https://en.wikipedia.org/wiki/Vadstena_Abbey"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-22-catharine-of-sweden (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-22-catharine-of-sweden.md"
+        }
+      ],
+      "lifeChapter": "mar-22-catharine-of-sweden",
+      "catalogMatch": "St. Catharine of Sweden, Virgin"
+    },
+    {
+      "id": "victorian_carthage",
+      "letter": "V",
+      "feast": {
+        "month": 3,
+        "day": 23
+      },
+      "name": {
+        "en-US": "Sts. Victorian and Others",
+        "pt-BR": "Santos Vitoriano e Outros"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of the Vandal persecution",
+        "pt-BR": "Mártires da perseguição vândala"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Tell the king that I trust in Christ.\"",
+        "pt-BR": "\"Dizei ao rei que confio em Cristo.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-23-sts-victorian-and-others.md, the first sentence of Victorian's answer (the chapter has no Reflection; the index has none for 03-23) (Pictorial Lives, public domain)",
+      "subject": "St. Victorian, Proconsul of Carthage, with the two brothers who suffered in the same persecution, half-length side by side: Victorian (centre) as a late-Roman high official, a long-sleeved white tunic with dark-purple bands and a long cloak of deep crimson fastened at the right shoulder with a gold brooch; his right hand pressed to his breast, his left holding a green martyr's palm, as when he gave the king his answer; the two brothers (left and right, a little behind him) in plain belted tunics of undyed linen and brown wool, each holding a green palm, one with an arm about the other's shoulders. Behind them, Roman Carthage: white colonnades and the hill of Byrsa, the round harbour with ships, and the blue Gulf of Tunis, under a bright African sky. Steadfast and luminous; no rack, no wounds, no lettering.",
+      "face": "Three clearly different men of Roman Africa with warm olive-to-bronze skin. VICTORIAN (centre): about fifty, CLEAN-SHAVEN, with a LONG, STRONG face and a LARGE, HIGH-BRIDGED, straight nose — deep NASOLABIAL folds from the nose to the corners of a firm, wide mouth, heavy-lidded, level dark eyes under thick straight black-grey brows, flat cheeks, a long, square chin; short grey hair combed forward in the late-Roman way; the gaze calm and unbending, toward us. THE ELDER BROTHER (left): about thirty, with a BROAD, ROUND face, full cheeks, a short, wide nose, round dark eyes, a short curly black beard; short tight black curls. THE YOUNGER BROTHER (right): about twenty, BEARDLESS, with a NARROW, TRIANGULAR face — a wide brow tapering to a small pointed chin, a fine straight nose, large, shining dark eyes; wavy black hair; looking up at his brother.",
+      "refs": [
+        "philip_james",
+        "cosmas_damian",
+        "sebastian"
+      ],
+      "basis": "No likenesses survive; English Wikipedia has no article. The book, after Victor of Vita via Butler, gives the proconsul's answer to Huneric and the two brothers who promised to die together; its engraving shows Victorian standing before the enthroned king. The card leaves out the king and the torments. The clean-shaven, long-nosed proconsul and the two brothers' faces are our choices.",
+      "sources": [
+        {
+          "title": "Wikipedia, Huneric (the persecution of 484)",
+          "url": "https://en.wikipedia.org/wiki/Huneric"
+        },
+        {
+          "title": "Wikipedia, Carthage (the harbours, Byrsa)",
+          "url": "https://en.wikipedia.org/wiki/Carthage"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-23-sts-victorian-and-others (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-23-sts-victorian-and-others.md"
+        }
+      ],
+      "lifeChapter": "mar-23-sts-victorian-and-others",
+      "catalogMatch": "Sts. Victorian and Others, Martyrs"
+    },
+    {
+      "id": "ludger",
+      "letter": "L",
+      "feast": {
+        "month": 3,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Ludger",
+        "pt-BR": "São Ludgero"
+      },
+      "patronOf": {
+        "en-US": "First Bishop of Münster",
+        "pt-BR": "Primeiro Bispo de Münster"
+      },
+      "prayerExcerpt": {
+        "en-US": "Whilst we are occupied with Him, it is our duty to forget everything else.",
+        "pt-BR": "Enquanto estamos ocupados com Ele, é nosso dever esquecer tudo o mais."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-26-ludger.md, his answer to Charlemagne, capitalised (the day's reflection has no sentence short enough to stand alone) (Pictorial Lives, public domain)",
+      "subject": "St. Ludger, missionary of the Frisians and Saxons and first Bishop of Münster, half-length, as a Carolingian bishop: a white alb under a full, bell-shaped chasuble of deep BLUE with a narrow gold orphrey, bare-headed; in his left arm a small model of a stone church, in his right a closed book of the Gospels, as Wikipedia says he is shown; at the lower edge a grey goose, his later attribute, looks up at him. Behind him, the Ruhr valley at Werden, his abbey: a small Carolingian stone church and cloister by a wooded river, green Westphalian hills beyond, under a soft, bright sky. Recollected and firm; no lettering.",
+      "face": "A Frisian of about sixty-five with a pale, fair complexion and a LONG, OBLONG head — a very HIGH, smooth forehead running up into a tonsured crown with a thin ring of short white hair, very SMALL, pale-blue eyes set CLOSE together under faint fair brows, a LONG, THIN, straight nose, LARGE, PROTRUDING EARS, a long, clean-shaven upper lip over a SMALL, PRIM, closed mouth, a small, rounded chin; CLEAN-SHAVEN; the gaze inward and steady, a little lowered.",
+      "refs": [
+        "boniface",
+        "augustine",
+        "ambrose"
+      ],
+      "basis": "No likeness from life; Wikipedia's lead image and the Vita Secunda miniature (German Wikipedia) show a mitred bishop without individual features. Wikipedia: 'represented either as a bishop holding a church and a book or as standing between two geese'; German Wikipedia: the goose attribute since the seventeenth century, from the geese he drove off. The book tells his schooling under Alcuin at York, his priestly labours, his founding of Werden, his see of Münster and his answer to Charlemagne. The long head with small close-set eyes and large ears is our choice. No mitre: the miniatures give him one, but the card shows him bare-headed with his tonsure.",
+      "sources": [
+        {
+          "title": "Wikipedia, Ludger (iconography; lead image)",
+          "url": "https://en.wikipedia.org/wiki/Ludger"
+        },
+        {
+          "title": "Wikipedia (de), Liudger (the goose; lead image: Vita Secunda)",
+          "url": "https://de.wikipedia.org/wiki/Liudger"
+        },
+        {
+          "title": "Wikipedia, Werden Abbey",
+          "url": "https://en.wikipedia.org/wiki/Werden_Abbey"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-26-ludger (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-26-ludger.md"
+        }
+      ],
+      "lifeChapter": "mar-26-ludger",
+      "catalogMatch": "St. Ludger, Bishop"
+    },
+    {
+      "id": "john_egypt",
+      "letter": "J",
+      "feast": {
+        "month": 3,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. John of Egypt",
+        "pt-BR": "São João do Egito"
+      },
+      "patronOf": {
+        "en-US": "Hermit of Lycopolis",
+        "pt-BR": "Eremita de Licópolis"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Saints examine themselves by the perfections of God, and do penance.",
+        "pt-BR": "Os Santos examinam-se à luz das perfeições de Deus, e fazem penitência."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-27 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. John of Egypt, the hermit of Lycopolis who spoke with his visitors through a window, half-length, framed in the small rough-cut window of his cell in the cliff, as in the book's engraving: a coarse, undyed palm-fibre tunic and a dark goat-hair cloak; with his right hand he blesses a small clay flask of oil held up to him on the sill, for the sick; his left rests on the stone of the sill. Around the window the golden-ochre limestone of the cliff, and below and beyond, small, the green strip of the Nile valley at Lycopolis with palms and sycamores, the broad river, and the pale desert beyond, under a hot, clear sky. Joyful and holy; no demons, no lettering.",
+      "face": "A Copt of about ninety with deep-brown, sun-dark skin and a small, ELFIN, TRIANGULAR face — a BROAD, BULGING, BALD forehead and wide temples tapering sharply to a SMALL, POINTED chin; LARGE, prominent ears; small, BRIGHT, black eyes deep in a web of laughter lines; a small, sharp, HOOKED nose; a WIDE, thin-lipped mouth in a broad, cheerful smile; a SHORT, thin, wispy white beard that leaves the pointed chin's shape clear; the gaze merry and piercing, toward us.",
+      "refs": [
+        "anthony_abbot",
+        "jerome",
+        "moses_the_black"
+      ],
+      "basis": "No likeness survives; the Catalan engraving on Wikipedia shows a generic hooded hermit. The book stresses his 'holy joy and cheerfulness', his fifty years in his cell on a cliff, and the window through which he spoke and blessed oil for the sick; its engraving shows him blessing at the window. Lycopolis is Asyut on the Nile (Wikipedia). The small, merry, triangular old face is our choice, apart from the set's long-bearded desert fathers.",
+      "sources": [
+        {
+          "title": "Wikipedia, John of Lycopolis (lead image: engraving)",
+          "url": "https://en.wikipedia.org/wiki/John_of_Lycopolis"
+        },
+        {
+          "title": "Wikipedia, Asyut (Lycopolis on the Nile)",
+          "url": "https://en.wikipedia.org/wiki/Asyut"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-27-john-of-egypt (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-27-john-of-egypt.md"
+        }
+      ],
+      "lifeChapter": "mar-27-john-of-egypt",
+      "catalogMatch": "St. John of Egypt"
+    },
+    {
+      "id": "gontran",
+      "letter": "G",
+      "feast": {
+        "month": 3,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Gontran",
+        "pt-BR": "São Gontrão"
+      },
+      "patronOf": {
+        "en-US": "King of Burgundy",
+        "pt-BR": "Rei da Borgonha"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Blessed are the merciful, for they shall find mercy.\"",
+        "pt-BR": "\"Bem-aventurados os misericordiosos, porque alcançarão misericórdia.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-28 reflection, the words of Our Lord it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Gontran, Merovingian King of Orleans and Burgundy, half-length, as a sixth-century Frankish king: a long-sleeved tunic of deep crimson with a gold-embroidered border, a dark-blue cloak fastened at the shoulder with a round gold brooch, a simple open gold circlet crown; he holds out a round loaf in his right hand to a thin sick man in a grey blanket who reaches up from the lower edge, as in the book's engraving where he goes among the sick; his left hand on his breast. Behind him, Chalon-sur-Saône, his capital: the broad Saône with a stone bridge, the small church of Saint-Marcel he founded, and Burgundian vineyards on low hills, under a soft, golden sky. Merciful and penitent; no weapons, no lettering.",
+      "face": "A Frank of about sixty with a fair, ruddy complexion and a LARGE, FULL, ROUND face — a broad forehead, FULL, heavy cheeks sagging into soft JOWLS and a DOUBLE CHIN, a SHORT, THICK, straight nose, deep-set, pale-blue eyes under HEAVY, DROOPING lids, red-rimmed as from weeping, thick fair-grey brows, a small, full mouth; LONG, fair-grey hair, parted in the middle and falling PAST THE SHOULDERS, the mark of the Merovingian kings; a drooping fair-grey MOUSTACHE and a short, rounded beard; the gaze compassionate and sorrowful, down toward the sick man.",
+      "refs": [
+        "louis_france",
+        "stephen_hungary",
+        "wenceslaus"
+      ],
+      "basis": "No likeness from life; the gold tremissis struck at Chalon (Wikipedia's lead image) is a stylised profile. Wikipedia: the Merovingian kings wore their hair long, which set them apart from other Franks. Gregory of Tours (via Wikipedia) calls him caregiver to the sick, generous in plague and famine; the book says the same, and its engraving shows him among the sick. His burial in Saint-Marcel at Chalon is from Wikipedia. The heavy, full, jowled face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Guntram (lead image: tremissis struck at Chalon)",
+          "url": "https://en.wikipedia.org/wiki/Guntram"
+        },
+        {
+          "title": "Wikipedia, Merovingian dynasty (the long-haired kings)",
+          "url": "https://en.wikipedia.org/wiki/Merovingian_dynasty"
+        },
+        {
+          "title": "Wikipedia (fr), Gontran (Saint-Marcel-lès-Chalon)",
+          "url": "https://fr.wikipedia.org/wiki/Gontran_(roi_des_Francs)"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-28-gontran (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-28-gontran.md"
+        }
+      ],
+      "lifeChapter": "mar-28-gontran",
+      "catalogMatch": "St. Gontran, King"
+    },
+    {
+      "id": "jonas_barachisius",
+      "letter": "J",
+      "feast": {
+        "month": 3,
+        "day": 29
+      },
+      "name": {
+        "en-US": "Sts. Jonas and Barachisius",
+        "pt-BR": "São Jonas e São Baraquísio"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Persia",
+        "pt-BR": "Mártires da Pérsia"
+      },
+      "prayerExcerpt": {
+        "en-US": "It was more reasonable to obey the immortal King of heaven and earth than a mortal prince.",
+        "pt-BR": "Era mais razoável obedecer ao imortal Rei do céu e da terra do que a um príncipe mortal."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-29-sts-jonas-barachisius-and-their-companions.md, the brothers' answer, capitalised (the day's reflection has no sentence short enough to stand alone) (Pictorial Lives, public domain)",
+      "subject": "Sts. Jonas and Barachisius, brothers of Beth-Asa who went to encourage the Christians condemned under King Sapor II, half-length side by side, in fourth-century Persian dress: Jonas (left) in a knee-length belted tunic of deep blue with a woven border and a short cloak of rust red, a green martyr's palm in his hand; Barachisius (right) in a long, belted tunic of ochre wool and a dark cloak, a green palm in one hand, the other raised toward heaven. Behind them a Mesopotamian town of flat-roofed mud-brick houses, a few date palms, and a winter plain with a thin skin of ice on a pond under a pale sky, where the confessors were held. Steadfast and joyful; no torments, no fire, no lettering.",
+      "face": "Two clearly different Persians with warm, light-brown skin. JONAS (left): about twenty-five, with a SQUARE-JAWED, BROAD young face — thick, straight black brows almost MEETING over the nose, large, dark almond eyes, a straight, strong nose, full lips, a firm, square chin; thick, wavy black hair to the nape; only a faint shadow of first beard; the gaze bright and eager, toward us. BARACHISIUS (right): about forty, with a LONG, GAUNT, hollow-cheeked face — a high, narrow forehead, a large AQUILINE nose, deep-set, dark eyes under heavy lids, prominent cheekbones, a narrow mouth; brown hair cut short; a long, straight, THIN brown beard falling in stiff, sparse strands; the gaze lifted, fervent.",
+      "refs": [
+        "philip_james",
+        "cosmas_damian",
+        "george"
+      ],
+      "basis": "No likenesses survive. The Painter's Manual (martyrdoms of March, 27th) gives 'Jonah a young man and the other has a brown, rush-like beard', and the card follows it. The book tells their visit to the condemned, their answer, and Jonas set in a frozen pond; its engraving shows them seized by soldiers. The faces' structures are our choice.",
+      "sources": [
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the martyrdoms of March, 27th",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-29-sts-jonas-barachisius-and-their-companions (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-29-sts-jonas-barachisius-and-their-companions.md"
+        }
+      ],
+      "lifeChapter": "mar-29-sts-jonas-barachisius-and-their-companions",
+      "catalogMatch": "Sts. Jonas, Barachisius"
+    },
+    {
+      "id": "john_climacus",
+      "letter": "J",
+      "feast": {
+        "month": 3,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. John Climacus",
+        "pt-BR": "São João Clímaco"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Mount Sinai",
+        "pt-BR": "Abade do Monte Sinai"
+      },
+      "prayerExcerpt": {
+        "en-US": "Never was novice more fervent, more unrelaxing in his efforts for self-mastery.",
+        "pt-BR": "Nunca houve noviço mais fervoroso, mais incansável em seus esforços pelo domínio de si mesmo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-30-john-climacus.md, first paragraph, third sentence (the day's reflection quotes the Imitation split by 'says the Imitation of Christ') (Pictorial Lives, public domain)",
+      "subject": "St. John Climacus, abbot of Mount Sinai and author of the Ladder, half-length, in the dress of a Sinai monk: a dark-brown habit and a black mantle, the monk's black hood down on his shoulders; he holds an open scroll in his left hand and with his right points up toward a slender golden LADDER that rises behind him into a luminous sky, small monks in black climbing its rungs toward the light, as in the Sinai icon of the Ladder. Behind him, the red-granite peaks of Sinai and the walled monastery in the valley below, under a clear, golden desert sky. Wise and luminous; no demons, no falling figures, no lettering.",
+      "face": "A man of about seventy-five with a weathered, olive complexion and a LEAN, BONY, LONG RECTANGULAR face — a very high, lined forehead with two deep VERTICAL furrows between the brows, LARGE, luminous grey eyes under heavy lids, a long, straight nose ending in a BROAD tip, lean cheeks over strong cheekbones; bald crown with short curling grey hair at the sides; a LARGE, FULL, grey-white beard, broad and cut SQUARE across the bottom at mid-chest; the gaze deep and teaching, toward us.",
+      "refs": [
+        "jerome",
+        "benedict",
+        "anthony_abbot"
+      ],
+      "basis": "No likeness from life. The Painter's Manual gives 'John Climacus, an old man with a large beard'; the Russian icon on Wikipedia shows a bald, long-bearded monk with a scroll. The ladder follows the Sinai icon of the Ladder of Divine Ascent (Wikipedia). The book tells his coming to Sinai at sixteen, his solitude, his abbacy at seventy-five and his book. The square-cut beard and furrowed long face are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, John Climacus (lead image: Russian icon)",
+          "url": "https://en.wikipedia.org/wiki/John_Climacus"
+        },
+        {
+          "title": "Wikipedia, The Ladder of Divine Ascent (the Sinai icon)",
+          "url": "https://en.wikipedia.org/wiki/The_Ladder_of_Divine_Ascent"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the holy men, John Climacus",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-30-john-climacus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-30-john-climacus.md"
+        }
+      ],
+      "lifeChapter": "mar-30-john-climacus",
+      "catalogMatch": "St. John Climacus"
+    }
+  ]
+}
