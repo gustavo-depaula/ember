@@ -1,0 +1,417 @@
+{
+  "batch": 49,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-49.md",
+  "cards": [
+    {
+      "id": "tabernacle",
+      "letter": "T",
+      "name": {
+        "en-US": "Tabernacle and sanctuary lamp",
+        "pt-BR": "Sacrário e lâmpada do Santíssimo"
+      },
+      "patronOf": {
+        "en-US": "Christ present among us",
+        "pt-BR": "Cristo presente entre nós"
+      },
+      "prayerExcerpt": {
+        "en-US": "The lamp of God had not yet gone out, and Samuel was lying in the sanctuary of the Lord where the ark of God was.",
+        "pt-BR": "A lâmpada de Deus ainda não se tinha apagado e Samuel estava dormindo no templo do Senhor, onde se encontrava a arca de Deus."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-1/wednesday.json readings.II.firstReading body (1 Samuel 3:3; pt-BR one sentence verbatim; en-US the same words, its sentence cut after 'where the ark of God was' and closed with a full stop)",
+      "subject": "The tabernacle and its lamp, as an illuminated still life, seen straight from the front at eye level: a small tabernacle of gilded bronze, square, with a low domed top crowned by a small cross, its two closed doors worked in relief with ears of wheat and a vine bearing grapes, a small keyhole between them. It stands on a shelf of white veined marble set into a wall of warm cream stone. To its right hangs, on three fine gilded chains, a sanctuary lamp: a gilded bowl holding a cup of ruby-red glass with a small steady flame, its red glow falling on the gold and the marble. All else in soft shadow, a quiet side chapel. Hushed, watchful, a presence kept. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The tabernacle is 'irremovable', of 'solid and inviolable material that is not transparent', and locked, in a place 'truly noble, prominent, conspicuous, worthily decorated' (GIRM 314; can. 938). 'Near the tabernacle a special lamp, fueled by oil or wax, should shine permanently to indicate the presence of Christ and honor it' (GIRM 316; can. 940). Gilded metal is a traditional choice the norms allow; the red glass of the lamp is custom, not law. The excerpt is the lamp that burned before the ark in the sanctuary at Shiloh (1 Sam 3:3), the tabernacle's Old Testament type, from the First Reading of Wednesday of the First Week in Ordinary Time, Year II.",
+      "sources": [
+        {
+          "title": "GIRM ch. 5, nos. 314–316 (the tabernacle: irremovable, solid, not transparent, locked; the lamp fueled by oil or wax)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "Code of Canon Law, cann. 938, 940 (the tabernacle immovable, of solid and opaque material; the lamp shining continuously)",
+          "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann879-958_en.html"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Wednesday of the First Week in Ordinary Time, Year II, First Reading (1 Sam 3) (content/of/formularies/tempore/ordinary-time/week-1/wednesday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-1/wednesday.json"
+        }
+      ],
+      "catalogMatch": "Tabernacle and sanctuary lamp"
+    },
+    {
+      "id": "altar_crucifix",
+      "letter": "A",
+      "name": {
+        "en-US": "Altar crucifix and candles",
+        "pt-BR": "Crucifixo e velas do altar"
+      },
+      "patronOf": {
+        "en-US": "The Cross of Christ between the lights",
+        "pt-BR": "A Cruz de Cristo entre as luzes"
+      },
+      "prayerExcerpt": {
+        "en-US": "We proclaim Christ crucified; Christ, the power of God and the wisdom of God.",
+        "pt-BR": "Nós anunciamos Cristo crucificado, poder e sabedoria de Deus."
+      },
+      "excerptSource": "content/of/formularies/sanctoral/09-13.json communionAntiphon (1 Corinthians 1:23-24, line breaks joined; verbatim in both languages)",
+      "subject": "The altar crucifix and its candles, as an illuminated still life, seen from low down, looking up past the front edge of the altar and its white linen cloth: at the centre, standing on the altar, a tall crucifix of dark carved wood bearing the carved corpus of Christ crucified in pale ivory, head bowed; on either side three tall candlesticks of gilded brass, six in all, rising in height toward the cross, each holding a tall white beeswax candle with a lit flame. The candlelight glows warm on the brass and on the ivory corpus; behind them hangs a dark wine-red damask. Night, solemn, recollected, the Passion kept before our eyes. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'On or next to the altar are to be placed candlesticks with lighted candles: at least two in any celebration, or even four or six, especially for a Sunday Mass'; 'on the altar or close to it, there is to be a cross adorned with a figure of Christ crucified' (GIRM 117), 'clearly visible to the assembled people' and kept near the altar even outside celebrations (GIRM 308); the candlesticks stand on the altar or around it (GIRM 307); the altar cross deserves every care (GIRM 350). The card takes the Sunday six, on the altar, rising toward the cross, a traditional arrangement the norms allow. The excerpt is 1 Cor 1:23-24, the Communion Antiphon of Saint John Chrysostom (13 September), from the Common of Doctors.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 117 (at least two candles, or four or six on Sunday; a cross with the figure of Christ crucified)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 307–308 (the candlesticks on or around the altar; the cross clearly visible)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 350 (the altar cross)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Saint John Chrysostom, Communion Antiphon (1 Cor 1:23-24) (content/of/formularies/sanctoral/09-13.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/sanctoral/09-13.json"
+        }
+      ],
+      "catalogMatch": "Altar crucifix and candles"
+    },
+    {
+      "id": "roman_missal",
+      "letter": "R",
+      "name": {
+        "en-US": "Roman Missal",
+        "pt-BR": "Missal Romano"
+      },
+      "patronOf": {
+        "en-US": "The book of the Church at prayer",
+        "pt-BR": "O livro da Igreja em oração"
+      },
+      "prayerExcerpt": {
+        "en-US": "A cloth is spread on the altar, and a corporal and the Missal put in place.",
+        "pt-BR": "Sobre o altar estende-se a toalha e colocam-se o corporal e o Missal."
+      },
+      "excerptSource": "content/of/formularies/tempore/holy-week/good-friday.json parts.holyCommunion rubric 22 (its first sentence, the number '22.' dropped in en-US; verbatim otherwise, in both languages)",
+      "subject": "The Roman Missal, as an illuminated still life, seen from the side at three-quarters and a little above: a large, thick altar missal bound in dark brown leather with gilt corner-pieces, lying open on a low bookstand of gilded bronze, its cream pages showing no letters, its edges gilt. Six silk ribbon markers, green, violet, red, white, rose and gold, fall from its pages over the front of the stand. The stand rests on the white linen cloth of the altar, and soft morning light comes from the left. Orderly, prayerful, ready. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Missal is prepared 'next to the Priest’s chair' and, at the Preparation of the Gifts, placed on the altar with the corporal, purificator, chalice and pall (GIRM 118a, 139); the Good Friday rubric of the excerpt names it with the cloth and the corporal. Liturgical books are to be 'truly worthy, dignified, and beautiful' (GIRM 349). The bookstand, the leather binding and the ribbon markers in the liturgical colours are traditional forms, not prescribed ones.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 118, 139 (the Missal by the chair; placed on the altar at the Preparation of the Gifts)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 349 (liturgical books worthy, dignified, and beautiful)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Friday of the Passion of the Lord, Holy Communion, rubric 22 (content/of/formularies/tempore/holy-week/good-friday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/good-friday.json"
+        }
+      ],
+      "catalogMatch": "Roman Missal"
+    },
+    {
+      "id": "lectionary",
+      "letter": "L",
+      "name": {
+        "en-US": "Lectionary",
+        "pt-BR": "Lecionário"
+      },
+      "patronOf": {
+        "en-US": "The Scriptures read to the Church",
+        "pt-BR": "As Escrituras lidas à Igreja"
+      },
+      "prayerExcerpt": {
+        "en-US": "All scripture is inspired by God and can profitably be used for teaching, for refuting error, for guiding people's lives and teaching them to be holy.",
+        "pt-BR": "Toda a Escritura é inspirada por Deus e útil para ensinar, para argumentar, para corrigir e para educar na justiça."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-29/sunday.json readings.C.secondReading body (2 Timothy 3:16; en-US one sentence verbatim; pt-BR the same verse, its sentence cut before v. 17 'a fim de que' and closed with a full stop)",
+      "subject": "The Lectionary, as an illuminated still life, seen close from the front and a little above, the book filling the quatrefoil: a large, heavy book bound in deep green cloth with a plain gilded cross stamped on its cover, lying open on a slanted reading desk draped with a green silk cloth fringed in gold. Its two broad cream pages show no letters; a green silk ribbon lies across them. Clear, even daylight. Plain, steady, the Word read Sunday by Sunday. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Lectionary is prepared 'at the ambo' (GIRM 118b) and, unlike the Book of the Gospels, is not carried in the Entrance Procession (GIRM 120d); with the Book of the Gospels it receives 'special veneration' and should be 'truly worthy, dignified, and beautiful' (GIRM 349). The green binding and the green desk cloth are a choice for Ordinary Time, not a norm. The excerpt is 2 Tim 3:16, from the Second Reading of the Twenty-Ninth Sunday in Ordinary Time, Year C: the whole of Scripture, which the Lectionary distributes over the year.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 118, 120 (the Lectionary at the ambo; not carried in procession)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 349 (the Book of the Gospels and the Lectionary: special veneration, worthy and beautiful)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Twenty-Ninth Sunday in Ordinary Time, Year C, Second Reading (2 Tim 3) (content/of/formularies/tempore/ordinary-time/week-29/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-29/sunday.json"
+        }
+      ],
+      "catalogMatch": "Lectionary"
+    },
+    {
+      "id": "book_of_gospels",
+      "letter": "B",
+      "name": {
+        "en-US": "Book of the Gospels",
+        "pt-BR": "Evangeliário"
+      },
+      "patronOf": {
+        "en-US": "Christ who speaks in the Gospel",
+        "pt-BR": "Cristo que fala no Evangelho"
+      },
+      "prayerExcerpt": {
+        "en-US": "The beginning of the Good News about Jesus Christ, the Son of God.",
+        "pt-BR": "Início do Evangelho de Jesus Cristo, Filho de Deus."
+      },
+      "excerptSource": "content/of/formularies/tempore/advent/week-2/sunday.json readings.B.gospel body (Mark 1:1, one sentence; verbatim in both languages)",
+      "subject": "The Book of the Gospels, as an illuminated still life, seen straight on: a large book standing upright and closed on the white linen cloth of the altar, its whole front cover of chased gold set with small red and blue stones, a jeweled cross at its centre and, small in the four corners, the four winged symbols of the Evangelists, a lion, an ox, an eagle and an angel. Behind it hangs white silk embroidered in gold. Light glints on the gold and the stones. Majestic, radiant, the Gospel enthroned. No figures, no lettering.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'On the altar itself may be placed a Book of the Gospels distinct from the book of other readings' (GIRM 117); it is carried 'slightly elevated' in the Entrance Procession and to the ambo, and kissed after the Gospel (GIRM 120d, 133–134, 173, 175). It should be 'truly worthy, dignified, and beautiful' (GIRM 349). A gilded, jeweled cover with the cross and the four Evangelists' symbols is a traditional form the norms allow. The excerpt is the first verse of Mark, the Gospel of the Second Sunday of Advent, Year B.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 117, 120, 133–134 (on the altar; carried slightly elevated; the Gospel proclaimed and the book kissed)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 349 (the Book of the Gospels worthy, dignified, and beautiful)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Second Sunday of Advent, Year B, Gospel (Mk 1) (content/of/formularies/tempore/advent/week-2/sunday.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/advent/week-2/sunday.json"
+        }
+      ],
+      "catalogMatch": "Book of the Gospels"
+    },
+    {
+      "id": "chalice",
+      "letter": "C",
+      "name": {
+        "en-US": "Chalice",
+        "pt-BR": "Cálice"
+      },
+      "patronOf": {
+        "en-US": "The cup of the Blood of Christ",
+        "pt-BR": "O cálice do Sangue de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "Our blessing-cup is a communion with the blood of Christ.",
+        "pt-BR": "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
+      },
+      "excerptSource": "content/of/formularies/tempore/holy-week/lords-supper.json readings.default.psalm response (1 Corinthians 10:16, the refrain of the Responsorial Psalm; verbatim in both languages)",
+      "subject": "The chalice, alone, as an illuminated still life, seen in pure side profile at eye level: a tall chalice of silver-gilt, gold inside and out, with a wide plain bowl, a round knop set with small garnets on its stem, and a broad six-lobed foot engraved with a small cross. It stands empty and uncovered on a ledge of pale grey stone in a shallow niche, against soft silver-blue shadow; a single shaft of light from above catches its rim. Pure, precious, poised. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The chalice and paten are 'held in special honor' among the sacred vessels (GIRM 327). Sacred vessels are 'made from precious metal' and, if of a metal less precious than gold, 'gilded on the inside' (GIRM 328); a chalice has 'a bowl of material that does not absorb liquids' (GIRM 330); glass, earthenware and clay are reprobated (Redemptionis Sacramentum 117). The form is left to the artist and regional custom (GIRM 332): the card takes a traditional silver-gilt chalice with knop and foot. The excerpt is the refrain of the Psalm at the Evening Mass of the Lord's Supper (1 Cor 10:16).",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 327–332 (the chalice held in special honor; precious metal, gilded inside; a non-absorbent bowl)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "Redemptionis Sacramentum, no. 117 (sacred vessels: noble materials, not glass or earthenware)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html"
+        },
+        {
+          "title": "The Roman Missal and Lectionary, Evening Mass of the Lord's Supper, Responsorial Psalm (Ps 116, refrain 1 Cor 10:16) (content/of/formularies/tempore/holy-week/lords-supper.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/lords-supper.json"
+        }
+      ],
+      "catalogMatch": "Chalice"
+    },
+    {
+      "id": "paten",
+      "letter": "P",
+      "name": {
+        "en-US": "Paten",
+        "pt-BR": "Patena"
+      },
+      "patronOf": {
+        "en-US": "The bread offered on the altar",
+        "pt-BR": "O pão oferecido sobre o altar"
+      },
+      "prayerExcerpt": {
+        "en-US": "The Priest, standing at the altar, takes the paten with the bread and holds it slightly raised above the altar with both hands.",
+        "pt-BR": "O sacerdote, de pé junto ao altar, recebe a patena com o pão em suas mãos."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.preparation-of-gifts (the rubric before the blessing over the bread: en-US cut before ', saying in a low voice:', pt-BR before ' e, levantando-a', each closed with a full stop; verbatim otherwise)",
+      "subject": "The paten, alone, as an illuminated still life, seen from directly above: a round, shallow paten of gleaming gold with a slightly raised rim and a small cross engraved near the rim, holding one large round white altar bread with a cross pressed into it. It lies on a dark polished walnut table, the grain warm and deep; low raking light from one side makes the gold glow and lets the bread cast a soft shadow. Simple, bright, a circle within a circle. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The paten is, with the chalice, the vessel in which 'the bread and wine are offered and consecrated' (GIRM 327), of precious metal (GIRM 328); 'a large paten may fittingly be used' for the hosts of priest, ministers and faithful (GIRM 331); it is prepared on the credence table (GIRM 118c) and raised with the bread at the Preparation of the Gifts (the excerpt's rubric). The card shows a single large host, the traditional priest's paten; the bread is unconsecrated, before the Offertory.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 327–331 (the paten held in special honor; precious metal; a large paten)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 4, nos. 118 (the paten prepared on the credence table)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the rubric before the blessing over the bread (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Paten"
+    },
+    {
+      "id": "ciborium",
+      "letter": "C",
+      "name": {
+        "en-US": "Ciborium",
+        "pt-BR": "Cibório"
+      },
+      "patronOf": {
+        "en-US": "The Bread of life for many",
+        "pt-BR": "O Pão da vida para muitos"
+      },
+      "prayerExcerpt": {
+        "en-US": "After this, he takes the paten or ciborium and approaches the communicants.",
+        "pt-BR": "Em seguida, toma a patena ou o cibório, aproxima-se dos que vão comungar."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.communion-silent (the rubric before 'The Body of Christ': en-US its first sentence verbatim; pt-BR cut before ' e mostra a hóstia' and closed with a full stop)",
+      "subject": "The ciborium, as an illuminated still life, seen at three-quarters and a little from above: a gilded ciborium with a deep rounded cup on a tall stem and round foot, its domed lid, crowned with a small cross, lifted off and resting beside its foot, so that the cup shows itself filled with many small round white hosts. It stands on a white linen cloth over a credence table of carved light oak, before a soft ivory wall in the pale gold light of late afternoon. Plentiful, gentle, bread for many. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Ciboria are prepared on the credence table, 'if needed', with the bread for the people (GIRM 118c); the priest distributes Communion from 'the paten or ciborium' (the excerpt's rubric; GIRM 160) and purifies it after Communion (GIRM 163). As a sacred vessel it is of precious metal, gilded inside (GIRM 328; Redemptionis Sacramentum 117); hosts are reserved 'in a pyx or small vessel' (can. 939). The covered cup on a stem with a cross on its lid is the traditional form; the lid is set aside so the hosts show.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 118, 160, 163 (ciboria on the credence table; Communion given and the vessel purified)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 328 (sacred vessels of precious metal, gilded inside)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: Communion, the rubric before 'The Body of Christ' (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Ciborium"
+    },
+    {
+      "id": "cruets",
+      "letter": "C",
+      "name": {
+        "en-US": "Cruets",
+        "pt-BR": "Galhetas"
+      },
+      "patronOf": {
+        "en-US": "Wine and water for the Sacrifice",
+        "pt-BR": "Vinho e água para o Sacrifício"
+      },
+      "prayerExcerpt": {
+        "en-US": "By the mystery of this water and wine may we come to share in the divinity of Christ who humbled himself to share in our humanity.",
+        "pt-BR": "Pelo mistério desta água e deste vinho possamos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.preparation-of-gifts (the prayer at the mingling of the water, line breaks joined; verbatim in both languages)",
+      "subject": "The cruets, as an illuminated still life, seen at eye level and a little from the side: a pair of slender clear glass cruets with handles and small glass stoppers, one filled with red wine, the other with clear water, standing side by side on a small oval silver tray. The tray rests on the white lace-edged cloth of a credence table beside a window; bright daylight passes through the glass and casts a red and a clear reflection onto the linen. Fresh, clear, humble. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'Cruets containing the wine and the water' are prepared on the credence table (GIRM 118c); 'as the minister presents the cruets, the Priest … pours wine and a little water into the chalice, saying quietly, Per huius aquae' (GIRM 142), the prayer of the excerpt. The cruets hold the wine before it is consecrated and are not sacred vessels, so Redemptionis Sacramentum 117's bar on glass does not reach them; clear glass on a silver tray, which shows the wine from the water, is the traditional form, not a prescribed one.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 118, 142 (the cruets on the credence table; the wine and a little water poured into the chalice)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "Redemptionis Sacramentum, no. 117 (the bar on glass is for vessels of the Body and Blood)",
+          "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the mingling of water and wine (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Cruets"
+    },
+    {
+      "id": "lavabo",
+      "letter": "L",
+      "name": {
+        "en-US": "Lavabo",
+        "pt-BR": "Lavabo"
+      },
+      "patronOf": {
+        "en-US": "Hands washed for the holy things",
+        "pt-BR": "Mãos lavadas para as coisas santas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Wash me, O Lord, from my iniquity and cleanse me from my sin.",
+        "pt-BR": "Lavai-me, Senhor, de minhas faltas e purificai-me do meu pecado."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.preparation-of-gifts (the prayer at the washing of hands, Psalm 51:4, line breaks joined; verbatim in both languages)",
+      "subject": "The lavabo, as an illuminated still life, seen from low at the side: a silver ewer with a curved spout and handle standing in a wide, shallow silver basin, a few clear drops of water on the basin's rim, and beside them a small folded white linen towel with a small cross embroidered at one corner. They rest on a shelf of dark green marble in cool blue-grey early morning light. Clean, humble, contrite. No figures.",
+      "face": "-",
+      "frame": "instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "'Whatever is needed for the washing of hands' is prepared on the credence table (GIRM 118c); after the prayer With humble spirit 'the Priest washes his hands standing at the side of the altar and, as the minister pours the water, says quietly, Lava me, Domine' (GIRM 145), the words of the excerpt. The GIRM names no vessels; the ewer, basin and linen towel are the traditional set, here in silver.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 118, 145 (what is needed for the washing of hands; the Lavabo at the side of the altar)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the washing of hands (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Lavabo"
+    }
+  ]
+}

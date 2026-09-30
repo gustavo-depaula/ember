@@ -28,6 +28,7 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Batch 47 small choices:** Homily from a carved pulpit (GIRM 136 "another worthy place"); Universal Prayer read by a laywoman; kneeling from after the Sanctus to the Amen (US GIRM 43); Homily excerpt Luke 4:21 (Christ at Nazareth). [As stated.]
 - [ ] **Dismissal card (batch 48)** looks in through the open west doors, so the priest faces the viewer, tiny and faceless, as the rubric has him facing the people. Dismissal excerpt: the third formula without the Easter "alleluia, alleluia". [As stated.] — `dossiers/batch-48.md`
 - [ ] **Object cards:** no `box`; the Altar shows only a white cloth with lilies around it (crucifix and candles have their own card); the Ambo is stone with an unlettered book. [As stated.]
+- [ ] **Object cards, batch 49:** Missal excerpt is a Good Friday rubric (the only Mass-data line naming the Missal in both languages; alternative Lk 11:1); four excerpts cut to a clause; the altar crucifix keeps the corpus (GIRM 117, 308) despite the "no figures" frame; the Book of the Gospels cover shows the Evangelists' symbols in small metalwork. Forms chosen where the norms allow variety: gilded tabernacle without veil and a red lamp, six candles, glass cruets, silver lavabo set, green Lectionary, ribboned Missal. [As stated.] — `dossiers/batch-49.md`
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
