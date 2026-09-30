@@ -36,6 +36,12 @@ Each item names the choice made so far, in brackets; it stands until you say oth
   - Hubert's stag has no crucifix, because `eustachius` already has that vision.
   - The book's spellings are kept ("Stanislas", "Bertille").
   - Stanislas's face follows an undated portrait, and Andrew Avellino's follows later images.
+- [ ] **Batch 40 (17 Nov – 4 Dec):** [All as stated.] — `dossiers/batch-40.md`
+  - Barbara and Bibiana rest on legendary Acts; both are kept because both are in the Martyrology.
+  - The book's names are kept: "St. James of La Marca of Ancona", and a bare "St. Maximus" (Riez only in his patron line).
+  - Barbara's patron line is "Patroness against sudden death", to match her Reflection, rather than lightning and storms, the popular form in Brazil.
+  - Eligius is shown as the lay goldsmith, not as Bishop of Noyon.
+  - Left out of the pictures: the serpent in James's chalice, Saturninus's bull, the cross between Felix's stag's antlers, and every instrument of torture.
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
