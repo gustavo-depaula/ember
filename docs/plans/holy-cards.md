@@ -66,7 +66,7 @@ Every saint in the catalog who isn't on the current Roman calendar — the Picto
 
 ### Novenas
 
-Finishing a novena (all nine days of its program) gives the card it is prayed to: the Guadalupe novena gives Our Lady of Guadalupe, the St. Joseph novena gives Joseph, the Holy Spirit novena gives Pentecost. Each novena's `manifest.json` names its card; a generic novena ("any saint", "any Marian feast") gives the saint or title the user prays it to. One novena, one card.
+Finishing a novena (all nine days of its program) gives the card it is prayed to: the Guadalupe novena gives Our Lady of Guadalupe, the St. Joseph novena gives Joseph, the Holy Spirit novena gives Pentecost. Each novena's `manifest.json` names its card. Generic novenas ("any saint", "any Marian feast") give no card. One novena, one card.
 
 ### Seasons
 
@@ -168,3 +168,7 @@ A fixed, curated catalog; every collectible gets bespoke art (no text-only cards
 ## Data shape
 
 Acts are already stored (practice completions, plan-of-life ticks, book progress). **Pending cards are derived** from the acts plus the calendar, as a pure function: the date's saints (outranked memorials included), assigned Office days, the liturgical-card draw, season windows, faithfulness windows, redeeming windows. That derivation is the logic that earns tests. **Redeemed copies are stored** — card, door, date, the back's condition line, the optional intention — with a stable id from the act (card + door + date), so a note or a future gift can point at it.
+
+## Open
+
+- When a novena counts as finished: nine days in a row, or nine days in any order. Probably per program.
