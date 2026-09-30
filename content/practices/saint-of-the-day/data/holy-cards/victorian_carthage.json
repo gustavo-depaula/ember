@@ -1,0 +1,45 @@
+{
+  "id": "victorian_carthage",
+  "feast": {
+    "month": 3,
+    "day": 23
+  },
+  "name": {
+    "en-US": "Sts. Victorian and Others",
+    "pt-BR": "Santos Vitoriano e Outros"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of the Vandal persecution",
+    "pt-BR": "Mártires da perseguição vândala"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Tell the king that I trust in Christ.\"",
+    "pt-BR": "\"Dizei ao rei que confio em Cristo.\""
+  },
+  "lifeChapter": "mar-23-sts-victorian-and-others",
+  "meta": {
+    "face": "Three clearly different men of Roman Africa with warm olive-to-bronze skin. VICTORIAN (centre): about fifty, CLEAN-SHAVEN, with a LONG, STRONG face and a LARGE, HIGH-BRIDGED, straight nose — deep NASOLABIAL folds from the nose to the corners of a firm, wide mouth, heavy-lidded, level dark eyes under thick straight black-grey brows, flat cheeks, a long, square chin; short grey hair combed forward in the late-Roman way; the gaze calm and unbending, toward us. THE ELDER BROTHER (left): about thirty, with a BROAD, ROUND face, full cheeks, a short, wide nose, round dark eyes, a short curly black beard; short tight black curls. THE YOUNGER BROTHER (right): about twenty, BEARDLESS, with a NARROW, TRIANGULAR face — a wide brow tapering to a small pointed chin, a fine straight nose, large, shining dark eyes; wavy black hair; looking up at his brother.",
+    "basis": "No likenesses survive; English Wikipedia has no article. The book, after Victor of Vita via Butler, gives the proconsul's answer to Huneric and the two brothers who promised to die together; its engraving shows Victorian standing before the enthroned king. The card leaves out the king and the torments. The clean-shaven, long-nosed proconsul and the two brothers' faces are our choices.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-23-sts-victorian-and-others.md, the first sentence of Victorian's answer (the chapter has no Reflection; the index has none for 03-23) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Huneric (the persecution of 484)",
+        "url": "https://en.wikipedia.org/wiki/Huneric"
+      },
+      {
+        "title": "Wikipedia, Carthage (the harbours, Byrsa)",
+        "url": "https://en.wikipedia.org/wiki/Carthage"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-23-sts-victorian-and-others (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-23-sts-victorian-and-others.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "john_climacus",
+  "feast": {
+    "month": 3,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. John Climacus",
+    "pt-BR": "São João Clímaco"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Mount Sinai",
+    "pt-BR": "Abade do Monte Sinai"
+  },
+  "prayerExcerpt": {
+    "en-US": "Never was novice more fervent, more unrelaxing in his efforts for self-mastery.",
+    "pt-BR": "Nunca houve noviço mais fervoroso, mais incansável em seus esforços pelo domínio de si mesmo."
+  },
+  "lifeChapter": "mar-30-john-climacus",
+  "meta": {
+    "face": "A man of about seventy-five with a weathered, olive complexion and a LEAN, BONY, LONG RECTANGULAR face — a very high, lined forehead with two deep VERTICAL furrows between the brows, LARGE, luminous grey eyes under heavy lids, a long, straight nose ending in a BROAD tip, lean cheeks over strong cheekbones; bald crown with short curling grey hair at the sides; a LARGE, FULL, grey-white beard, broad and cut SQUARE across the bottom at mid-chest; the gaze deep and teaching, toward us.",
+    "basis": "No likeness from life. The Painter's Manual gives 'John Climacus, an old man with a large beard'; the Russian icon on Wikipedia shows a bald, long-bearded monk with a scroll. The ladder follows the Sinai icon of the Ladder of Divine Ascent (Wikipedia). The book tells his coming to Sinai at sixteen, his solitude, his abbacy at seventy-five and his book. The square-cut beard and furrowed long face are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-30-john-climacus.md, first paragraph, third sentence (the day's reflection quotes the Imitation split by 'says the Imitation of Christ') (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John Climacus (lead image: Russian icon)",
+        "url": "https://en.wikipedia.org/wiki/John_Climacus"
+      },
+      {
+        "title": "Wikipedia, The Ladder of Divine Ascent (the Sinai icon)",
+        "url": "https://en.wikipedia.org/wiki/The_Ladder_of_Divine_Ascent"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the holy men, John Climacus",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-30-john-climacus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-30-john-climacus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

@@ -335,16 +335,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 11 Mar · St. Eulogius, Martyr · *Santo Eulógio, Mártir* · Pictorial Lives — `eulogius_cordoba`
 - [x] 13 Mar · St. Euphrasia, Virgin · *Santa Eufrásia, Virgem* · Pictorial Lives — `euphrasia`
 - [x] 14 Mar · St. Maud, Queen · *Santa Maud, Rainha* · Pictorial Lives — `maud`
-- [ ] 15 Mar · St. Zachary, Pope · *São Zacarias, Papa* · Pictorial Lives
-- [ ] 16 Mar · Sts. Abraham and Mary · *Santo Abraão e Santa Maria* · Pictorial Lives
-- [ ] 20 Mar · St. Wulfran, Archbishop · *São Wulfrano, Arcebispo* · Pictorial Lives
-- [ ] 22 Mar · St. Catharine of Sweden, Virgin · *Santa Catarina da Suécia, Virgem* · Pictorial Lives
-- [ ] 23 Mar · Sts. Victorian and Others, Martyrs · *Santos Vitoriano e Outros, Mártires* · Pictorial Lives
-- [ ] 26 Mar · St. Ludger, Bishop · *São Ludgero, Bispo* · Pictorial Lives
-- [ ] 27 Mar · St. John of Egypt · *São João do Egito* · Pictorial Lives
-- [ ] 28 Mar · St. Gontran, King · *São Gontrão, Rei* · Pictorial Lives
-- [ ] 29 Mar · Sts. Jonas, Barachisius, and their Companions, Martyrs · *São Jonas, São Baraquísio e seus Companheiros, Mártires* · Pictorial Lives
-- [ ] 30 Mar · St. John Climacus · *São João Clímaco* · Pictorial Lives
+- [x] 15 Mar · St. Zachary, Pope · *São Zacarias, Papa* · Pictorial Lives — `zachary`
+- [x] 16 Mar · Sts. Abraham and Mary · *Santo Abraão e Santa Maria* · Pictorial Lives — `abraham_mary`
+- [x] 20 Mar · St. Wulfran, Archbishop · *São Wulfrano, Arcebispo* · Pictorial Lives — `wulfran`
+- [x] 22 Mar · St. Catharine of Sweden, Virgin · *Santa Catarina da Suécia, Virgem* · Pictorial Lives — `catharine_sweden`
+- [x] 23 Mar · Sts. Victorian and Others, Martyrs · *Santos Vitoriano e Outros, Mártires* · Pictorial Lives — `victorian_carthage`
+- [x] 26 Mar · St. Ludger, Bishop · *São Ludgero, Bispo* · Pictorial Lives — `ludger`
+- [x] 27 Mar · St. John of Egypt · *São João do Egito* · Pictorial Lives — `john_egypt`
+- [x] 28 Mar · St. Gontran, King · *São Gontrão, Rei* · Pictorial Lives — `gontran`
+- [x] 29 Mar · Sts. Jonas, Barachisius, and their Companions, Martyrs · *São Jonas, São Baraquísio e seus Companheiros, Mártires* · Pictorial Lives — `jonas_barachisius`
+- [x] 30 Mar · St. John Climacus · *São João Clímaco* · Pictorial Lives — `john_climacus`
 - [ ] 31 Mar · St. Benjamin, Deacon, Martyr · *São Benjamim, Diácono, Mártir* · Pictorial Lives
 - [ ] 1 Apr · St. Hugh, Bishop · *Santo Hugo, Bispo* · Pictorial Lives
 - [ ] 3 Apr · St. Richard of Chichester · *São Ricardo de Chichester* · Pictorial Lives

@@ -1,0 +1,49 @@
+{
+  "id": "ludger",
+  "feast": {
+    "month": 3,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Ludger",
+    "pt-BR": "São Ludgero"
+  },
+  "patronOf": {
+    "en-US": "First Bishop of Münster",
+    "pt-BR": "Primeiro Bispo de Münster"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whilst we are occupied with Him, it is our duty to forget everything else.",
+    "pt-BR": "Enquanto estamos ocupados com Ele, é nosso dever esquecer tudo o mais."
+  },
+  "lifeChapter": "mar-26-ludger",
+  "meta": {
+    "face": "A Frisian of about sixty-five with a pale, fair complexion and a LONG, OBLONG head — a very HIGH, smooth forehead running up into a tonsured crown with a thin ring of short white hair, very SMALL, pale-blue eyes set CLOSE together under faint fair brows, a LONG, THIN, straight nose, LARGE, PROTRUDING EARS, a long, clean-shaven upper lip over a SMALL, PRIM, closed mouth, a small, rounded chin; CLEAN-SHAVEN; the gaze inward and steady, a little lowered.",
+    "basis": "No likeness from life; Wikipedia's lead image and the Vita Secunda miniature (German Wikipedia) show a mitred bishop without individual features. Wikipedia: 'represented either as a bishop holding a church and a book or as standing between two geese'; German Wikipedia: the goose attribute since the seventeenth century, from the geese he drove off. The book tells his schooling under Alcuin at York, his priestly labours, his founding of Werden, his see of Münster and his answer to Charlemagne. The long head with small close-set eyes and large ears is our choice. No mitre: the miniatures give him one, but the card shows him bare-headed with his tonsure.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-26-ludger.md, his answer to Charlemagne, capitalised (the day's reflection has no sentence short enough to stand alone) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Ludger (iconography; lead image)",
+        "url": "https://en.wikipedia.org/wiki/Ludger"
+      },
+      {
+        "title": "Wikipedia (de), Liudger (the goose; lead image: Vita Secunda)",
+        "url": "https://de.wikipedia.org/wiki/Liudger"
+      },
+      {
+        "title": "Wikipedia, Werden Abbey",
+        "url": "https://en.wikipedia.org/wiki/Werden_Abbey"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-26-ludger (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-26-ludger.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

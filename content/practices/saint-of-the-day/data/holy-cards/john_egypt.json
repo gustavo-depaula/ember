@@ -1,0 +1,45 @@
+{
+  "id": "john_egypt",
+  "feast": {
+    "month": 3,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. John of Egypt",
+    "pt-BR": "São João do Egito"
+  },
+  "patronOf": {
+    "en-US": "Hermit of Lycopolis",
+    "pt-BR": "Eremita de Licópolis"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Saints examine themselves by the perfections of God, and do penance.",
+    "pt-BR": "Os Santos examinam-se à luz das perfeições de Deus, e fazem penitência."
+  },
+  "lifeChapter": "mar-27-john-of-egypt",
+  "meta": {
+    "face": "A Copt of about ninety with deep-brown, sun-dark skin and a small, ELFIN, TRIANGULAR face — a BROAD, BULGING, BALD forehead and wide temples tapering sharply to a SMALL, POINTED chin; LARGE, prominent ears; small, BRIGHT, black eyes deep in a web of laughter lines; a small, sharp, HOOKED nose; a WIDE, thin-lipped mouth in a broad, cheerful smile; a SHORT, thin, wispy white beard that leaves the pointed chin's shape clear; the gaze merry and piercing, toward us.",
+    "basis": "No likeness survives; the Catalan engraving on Wikipedia shows a generic hooded hermit. The book stresses his 'holy joy and cheerfulness', his fifty years in his cell on a cliff, and the window through which he spoke and blessed oil for the sick; its engraving shows him blessing at the window. Lycopolis is Asyut on the Nile (Wikipedia). The small, merry, triangular old face is our choice, apart from the set's long-bearded desert fathers.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-27 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John of Lycopolis (lead image: engraving)",
+        "url": "https://en.wikipedia.org/wiki/John_of_Lycopolis"
+      },
+      {
+        "title": "Wikipedia, Asyut (Lycopolis on the Nile)",
+        "url": "https://en.wikipedia.org/wiki/Asyut"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-27-john-of-egypt (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-27-john-of-egypt.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}
