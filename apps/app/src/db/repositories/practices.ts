@@ -2,7 +2,7 @@ import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 import { emit, emitBatch, resolveCompletions, useEventStore } from '../events'
 import type { SlotState } from '../events/state'
-import type { Completion, Tier, TimeBlock, UserPractice } from '../schema'
+import type { Completion, CompletionVia, Tier, TimeBlock, UserPractice } from '../schema'
 
 function getSortedSlots(): SlotState[] {
   const store = useEventStore.getState()
@@ -250,6 +250,7 @@ export async function logCompletion(
   practiceId: string,
   date: string,
   subId: string,
+  how: { prayedId: string; via: CompletionVia },
 ): Promise<void> {
   const completionId = useEventStore.getState().nextCompletionId
   await emit({
@@ -259,6 +260,7 @@ export async function logCompletion(
     subId,
     date,
     completedAt: Date.now(),
+    ...how,
   })
 }
 
@@ -296,9 +298,10 @@ export async function toggleCompletion(
   date: string,
   completed: boolean,
   subId: string,
+  how: { prayedId: string; via: CompletionVia },
 ): Promise<void> {
   if (completed) {
-    await logCompletion(practiceId, date, subId)
+    await logCompletion(practiceId, date, subId, how)
   } else {
     const match = resolve(useEventStore.getState().completionsByDate.get(date)).find(
       (c) => c.practice_id === practiceId && c.sub_id === subId,

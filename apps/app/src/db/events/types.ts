@@ -1,4 +1,4 @@
-import type { Tier, TimeBlock } from '../schema'
+import type { CompletionVia, Tier, TimeBlock } from '../schema'
 
 type PracticeCreated = {
   type: 'PracticeCreated'
@@ -91,6 +91,8 @@ type CompletionLogged = {
   subId: string | null
   date: string
   completedAt: number
+  prayedId?: string
+  via?: CompletionVia
 }
 
 type CompletionRemoved = {

@@ -6,7 +6,7 @@ import { bareId } from '@/content/contentIndex'
 import type { EventStoreState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
 import { logCompletion, toggleCompletion } from '@/db/repositories'
-import type { Completion } from '@/db/schema'
+import type { Completion, CompletionVia } from '@/db/schema'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 
 // Completion is recorded against a plan slot — `{practice_id, sub_id}`, the two
@@ -78,14 +78,17 @@ export async function completePractice(
   prayedId: string,
   date: string,
   slotKey?: string,
+  via: Exclude<CompletionVia, 'checklist'> = 'amen',
 ): Promise<void> {
   const { practiceId, subId } = completionTarget(prayedId, date, slotKey)
-  await logCompletion(practiceId, date, subId)
+  await logCompletion(practiceId, date, subId, { prayedId, via })
 }
 
+/** A tick on the checklist: what was prayed is the practice's active variant. */
 export async function setSlotDone(slotKey: string, date: string, done: boolean): Promise<void> {
   const { practiceId, slotId } = parseSlotKey(slotKey)
-  await toggleCompletion(practiceId, date, done, slotId)
+  const prayedId = useEventStore.getState().practices.get(practiceId)?.active_variant ?? practiceId
+  await toggleCompletion(practiceId, date, done, slotId, { prayedId, via: 'checklist' })
 }
 
 /** Slot keys completed on `date` — compare against `SlotState.id`. */

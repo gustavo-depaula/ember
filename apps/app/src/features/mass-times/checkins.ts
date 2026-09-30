@@ -58,8 +58,8 @@ export const useCheckInsStore = create<CheckInsState>()(
       // A Mass check-in IS a completion of the "mass" practice — record it so it flows into the plan
       // of life / streaks rather than being a parallel tally. (Domain rule lives here, not the UI.)
       if (details.kind === 'mass') {
-        void completePractice('mass', format(getToday(), 'yyyy-MM-dd')).catch((err) =>
-          console.warn('[mass-times] could not log Mass completion', err),
+        void completePractice('mass', format(getToday(), 'yyyy-MM-dd'), undefined, 'checkin').catch(
+          (err) => console.warn('[mass-times] could not log Mass completion', err),
         )
       }
     },

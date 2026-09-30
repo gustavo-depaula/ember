@@ -119,6 +119,8 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
         sub_id: event.subId,
         date: event.date,
         completed_at: event.completedAt,
+        prayed_id: event.prayedId,
+        via: event.via,
       }
       draft.completions.set(event.completionId, completion)
       addCompletionToIndexes(draft, event.completionId, event.date, event.practiceId)

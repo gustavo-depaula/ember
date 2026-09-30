@@ -41,7 +41,7 @@ A saint on the current calendar comes only through Mass; the Office gives only t
 
 ### Attending Mass
 
-Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the plan of life, counts as attending that day — including praying the Mass at home. (The Mass Times church check-in already completes the practice, so it counts too.)
+Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the plan of life, counts as attending that day — including praying the Mass at home. (The Mass Times church check-in already completes the practice, so it counts too.) Either form counts, and the date's saints always come from the current (OF) calendar, even for a Vetus Ordo Mass.
 
 ### One card per Mass, in precedence
 
@@ -59,7 +59,7 @@ Mass on a date with no saint — or whose saints have no card yet — gives one 
 
 Every saint in the catalog who isn't on the current Roman calendar — the Pictorial Lives saints, the saints canonized since 2022, figures like Philomena — is **assigned a day**: their day in the Roman Martyrology (their *dies natalis*) by default; where there is none, a day we set (Philomena: 11 August, her old feast). The day is researched with the card, like its `lifeChapter` and `proper`.
 
-- **Praying any hour of the Divine Office** on that day gives one of the saints assigned to it: the Liturgy of the Hours, the Roman Breviary (any edition) or the monastic breviary. The Little Offices don't count — they're devotions, not the Office.
+- **Praying any hour of the Divine Office** on that day gives one of the saints assigned to it: the Liturgy of the Hours, the Roman Breviary (any edition) or the monastic breviary — any of their forms in the app, including the votive offices and the breviary's own Little Office of Our Lady. The standalone Little Offices don't count.
 - **Several on one day, you pick**, on the envelope, as at Mass.
 - **Independent of Mass**, so a day can bring two envelopes: the calendar saint from Mass, the assigned saint from the Office.
 - The Office never gives a calendar saint, and Mass never gives an assigned one.
