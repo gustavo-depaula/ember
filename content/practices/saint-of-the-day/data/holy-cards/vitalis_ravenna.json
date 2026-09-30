@@ -1,0 +1,45 @@
+{
+  "id": "vitalis_ravenna",
+  "feast": {
+    "month": 4,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Vitalis",
+    "pt-BR": "São Vital"
+  },
+  "patronOf": {
+    "en-US": "Martyr of Ravenna",
+    "pt-BR": "Mártir de Ravena"
+  },
+  "prayerExcerpt": {
+    "en-US": "Thus we shall both live and die to God, perfectly resigned to His holy will in all His appointments.",
+    "pt-BR": "Assim viveremos e morreremos para Deus, perfeitamente resignados à Sua santa vontade em todas as Suas disposições."
+  },
+  "lifeChapter": "apr-28-vitalis",
+  "meta": {
+    "face": "A Milanese of about fifty with a warm, light-olive complexion and a WEDGE-SHAPED face — a BROAD, SQUARE, flat forehead and wide temples, a HEAVY, STRAIGHT brow ridge, the cheeks falling in STRAIGHT lines to a NARROW, firm chin; a long, straight nose with a strong, SQUARED tip; deep-set, level, dark-grey eyes under thick, straight dark brows; a firm, narrow mouth; short, dense, dark-brown hair cropped close, greying at the temples; a SHORT, trimmed dark beard following the narrow jaw to a blunt point; the gaze steady and resolute, toward us.",
+    "basis": "No likeness survives; Wikipedia's lead image is Carpaccio's altarpiece of him as a knight on a white horse. The book tells a citizen of Milan who, at Ravenna, encouraged the wavering Ursicinus to die for the faith, buried him, and was racked and buried alive at the place called the Palm-tree; its engraving shows him with a spade beside Ursicinus's body. Wikipedia calls the story a legend and holds only the martyrdom at Ravenna, of which he is the principal patron. The wedge-shaped face is our choice; the background keeps to Roman Ravenna, before the basilica built over his shrine.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-28-vitalis.md Reflection, last sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Vitalis of Milan (lead image: Carpaccio, St. Vitalis)",
+        "url": "https://en.wikipedia.org/wiki/Vitalis_of_Milan"
+      },
+      {
+        "title": "Wikipedia, Basilica of San Vitale",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_San_Vitale"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-28-vitalis (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-28-vitalis.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

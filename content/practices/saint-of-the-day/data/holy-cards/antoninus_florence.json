@@ -1,0 +1,45 @@
+{
+  "id": "antoninus_florence",
+  "feast": {
+    "month": 5,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Antoninus",
+    "pt-BR": "Santo Antonino"
+  },
+  "patronOf": {
+    "en-US": "Archbishop, father of the poor",
+    "pt-BR": "Arcebispo, pai dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "To serve God is to reign.",
+    "pt-BR": "Servir a Deus é reinar."
+  },
+  "lifeChapter": "may-10-antoninus",
+  "meta": {
+    "face": "A small, slight Florentine of about sixty-five, CLEAN-SHAVEN, with a pale olive complexion and a LARGE, HIGH, DOMED, bald cranium over a SHORT face — the face WIDEST at the cheekbones, the cheeks falling in below them; a LONG, straight, narrow nose; LARGE, ROUND, slightly prominent dark eyes under thin brows RAISED high on the forehead, which give him an attentive, listening look; deep lines from the nose to the mouth; a WIDE, THIN-LIPPED mouth; a SHORT, squared chin; a thin ring of short grey hair in the Dominican crown; the gaze attentive and kind, toward us.",
+    "basis": "Wikipedia's lead image, a painted portrait, shows a small, bald, clean-shaven Dominican archbishop with a long nose, raised brows and hollow cheeks, holding scales; Wikipedia gives his usual attributes as the Dominican habit, the mitre set aside and bread for the needy. The book tells 'Little Antony', named for his small stature, Archbishop of Florence from 1446 and 'the Father of the Poor'; its engraving shows him blessing among fallen men before the Palazzo Vecchio. The card keeps the portrait's features.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-10-antoninus.md, his dying words (the Reflection, St. Augustine on almsgiving, stays on the card) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Antoninus of Florence (lead image: portrait with scales; iconography)",
+        "url": "https://en.wikipedia.org/wiki/Antoninus_of_Florence"
+      },
+      {
+        "title": "Wikipedia, San Marco, Florence (his priory and tomb)",
+        "url": "https://en.wikipedia.org/wiki/San_Marco,_Florence"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-10-antoninus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-10-antoninus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

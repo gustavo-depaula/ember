@@ -365,19 +365,19 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 19 Apr · St. Elphege, Archbishop · *Santo Elfego, Arcebispo* · Pictorial Lives — `elphege`
 - [x] 20 Apr · St. Marcellinus, Bishop · *São Marcelino, Bispo* · Pictorial Lives — `marcellinus_embrun`
 - [x] 22 Apr · St. Soter, Pope, Martyr · *São Sótero, Papa, Mártir* · Pictorial Lives — `soter`
-- [ ] 22 Apr · St. Leonides, Martyr · *São Leônides, Mártir* · Pictorial Lives
-- [ ] 26 Apr · St. Marcellinus, Pope, Martyr (with St. Cletus, who has a card) · *São Marcelino, Papa, Mártir* · Pictorial Lives
-- [ ] 27 Apr · St. Zita, Virgin · *Santa Zita, Virgem* · Pictorial Lives
-- [ ] 28 Apr · St. Vitalis, Martyr · *São Vital, Mártir* · Pictorial Lives
-- [ ] 29 Apr · St. Peter, Martyr · *São Pedro, Mártir* · Pictorial Lives
-- [ ] 29 Apr · St. Hugh, Abbot of Cluny · *Santo Hugo, Abade de Cluny* · Pictorial Lives
+- [x] 22 Apr · St. Leonides, Martyr · *São Leônides, Mártir* · Pictorial Lives — `leonides`
+- [x] 26 Apr · St. Marcellinus, Pope, Martyr (with St. Cletus, who has a card) · *São Marcelino, Papa, Mártir* · Pictorial Lives — `marcellinus_pope`
+- [x] 27 Apr · St. Zita, Virgin · *Santa Zita, Virgem* · Pictorial Lives — `zita`
+- [x] 28 Apr · St. Vitalis, Martyr · *São Vital, Mártir* · Pictorial Lives — `vitalis_ravenna`
+- [x] 29 Apr · St. Peter, Martyr · *São Pedro, Mártir* · Pictorial Lives — `peter_verona`
+- [x] 29 Apr · St. Hugh, Abbot of Cluny · *Santo Hugo, Abade de Cluny* · Pictorial Lives — `hugh_cluny`
 - [x] 3 May · The Discovery of the Holy Cross · *A Descoberta da Santa Cruz* · Pictorial Lives — `discovery_cross`
 - [x] 6 May · St. John Before the Latin Gate · *São João ante a Porta Latina* · Pictorial Lives — `john_latin_gate`
 - [x] 8 May · The Apparition of St. Michael the Archangel · *A Aparição de São Miguel Arcanjo* · Pictorial Lives — `apparition_michael`
-- [ ] 10 May · St. Antoninus, Bishop · *Santo Antonino, Bispo* · Pictorial Lives
-- [ ] 11 May · St. Mammertus, Archbishop · *São Mamerto, Arcebispo* · Pictorial Lives
-- [ ] 12 May · St. Epiphanius, Archbishop · *Santo Epifânio, Arcebispo* · Pictorial Lives
-- [ ] 13 May · St. John the Silent · *São João, o Silencioso* · Pictorial Lives
+- [x] 10 May · St. Antoninus, Bishop · *Santo Antonino, Bispo* · Pictorial Lives — `antoninus_florence`
+- [x] 11 May · St. Mammertus, Archbishop · *São Mamerto, Arcebispo* · Pictorial Lives — `mammertus`
+- [x] 12 May · St. Epiphanius, Archbishop · *Santo Epifânio, Arcebispo* · Pictorial Lives — `epiphanius_salamis`
+- [x] 13 May · St. John the Silent · *São João, o Silencioso* · Pictorial Lives — `john_silent`
 - [ ] 14 May · St. Pachomius, Abbot · *São Pacômio, Abade* · Pictorial Lives
 - [ ] 15 May · Sts. Peter and Dionysia · *São Pedro e Santa Dionísia* · Pictorial Lives
 - [ ] 16 May · St. John Nepomucen · *São João Nepomuceno* · Pictorial Lives

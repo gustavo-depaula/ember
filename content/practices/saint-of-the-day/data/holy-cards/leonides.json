@@ -1,0 +1,45 @@
+{
+  "id": "leonides",
+  "feast": {
+    "month": 4,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Leonides",
+    "pt-BR": "São Leônides"
+  },
+  "patronOf": {
+    "en-US": "Martyr, father of Origen",
+    "pt-BR": "Mártir, pai de Orígenes"
+  },
+  "prayerExcerpt": {
+    "en-US": "He was a Christian philosopher, and excellently versed both in the profane and sacred sciences.",
+    "pt-BR": "Era um filósofo cristão, e excelentemente versado tanto nas ciências profanas quanto nas sagradas."
+  },
+  "lifeChapter": "apr-22-leonides",
+  "meta": {
+    "face": "A Greek of Alexandria of about forty-eight with a warm, light-olive complexion and a SQUARE face as wide as it is long — a FLAT, nearly VERTICAL forehead, a short, straight nose with a narrow bridge, WIDE-SET, clear grey-green eyes under THICK, STRAIGHT black brows set low, flat cheeks, a firm mouth under a DEEP groove of the upper lip, and a strong, SQUARE chin with a marked CLEFT; short, thick, black hair combed forward in a straight fringe, a very SHORT, close-cropped black beard that lets the square jaw and the cleft of the chin show; the gaze calm and level, lowered to the letter in his hands.",
+    "basis": "No likeness survives; Wikipedia's lead image is the Nuremberg Chronicle's Origen, not him. The book tells a Christian philosopher of Alexandria, father of seven sons, imprisoned under the prefect Laetus and beheaded in 202 after his son Origen wrote to him not to change his mind for their sakes; its engraving shows him in a prison court reading a letter, a chain at his wrist. The square face with the cleft chin is our choice, apart from `justin` and `apollonius`, the other philosopher-martyrs.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-22-leonides.md, first paragraph, third sentence (the chapter has no Reflection, so the card carries none) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Leonides of Alexandria (Eusebius; beheaded 202 under Severus)",
+        "url": "https://en.wikipedia.org/wiki/Leonides_of_Alexandria"
+      },
+      {
+        "title": "Wikipedia, Origen",
+        "url": "https://en.wikipedia.org/wiki/Origen"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-22-leonides (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-22-leonides.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

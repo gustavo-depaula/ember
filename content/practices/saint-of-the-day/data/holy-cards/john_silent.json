@@ -1,0 +1,45 @@
+{
+  "id": "john_silent",
+  "feast": {
+    "month": 5,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. John the Silent",
+    "pt-BR": "São João, o Silencioso"
+  },
+  "patronOf": {
+    "en-US": "Bishop and monk",
+    "pt-BR": "Bispo e monge"
+  },
+  "prayerExcerpt": {
+    "en-US": "A love of Christian silence is a proof that a soul makes it her chiefest delight to be occupied on God, and finds no comfort like that of conversing with Him.",
+    "pt-BR": "O amor do silêncio cristão é prova de que uma alma faz da ocupação com Deus a sua maior delícia, e não encontra consolo igual ao de conversar com Ele."
+  },
+  "lifeChapter": "may-13-john-the-silent",
+  "meta": {
+    "face": "An Armenian of about seventy-five with a pale olive complexion and a BROAD-TEMPLED face — a WIDE, HIGH forehead and broad temples, DEEP eye sockets in which LARGE, dark, heavy-lidded eyes rest LOWERED and half closed in recollection, a LONG, strong nose with a gentle HUMP and a tip that points DOWNWARD, LOW, broad cheekbones, a small mouth gently pressed shut; thin white hair under the hood; a LONG, full white beard that widens toward the bottom and ends SQUARE; the gaze inward and still, lowered.",
+    "basis": "The Menologion of Basil II (Wikipedia's lead image) shows him as an old monk in a dark habit with a white beard, kneeling before the laura. The book tells his noble birth at Nicopolis in Armenia, his monastery at eighteen, his nine years as Bishop of Colonia, the bright cross that led him to St. Sabas, his hidden life there and forty years in his cell; its engraving shows a monk drawing water at a well. The broad-templed face with the deep-set, lowered eyes is our choice, apart from `john_climacus`'s lean, bony rectangle.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-13-john-the-silent.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John the Silent (lead image: Menologion of Basil II)",
+        "url": "https://en.wikipedia.org/wiki/John_the_Silent"
+      },
+      {
+        "title": "Wikipedia, Mar Saba (the laura in the Kidron valley)",
+        "url": "https://en.wikipedia.org/wiki/Mar_Saba"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-13-john-the-silent (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-13-john-the-silent.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}
