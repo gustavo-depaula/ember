@@ -10,12 +10,15 @@ export function HolographicOverlay({
   rotateX,
   rotateY,
   isActive,
+  intensity = 1,
 }: {
   cardWidth: number
   cardHeight: number
   rotateX: SharedValue<number>
   rotateY: SharedValue<number>
   isActive: SharedValue<number>
+  /** Scales the sheen's strength: tuned for a painted card, it reads faint on pale paper. */
+  intensity?: number
 }) {
   const streakWidth = cardWidth * 0.4
   const streakHeight = cardHeight * 2
@@ -30,7 +33,7 @@ export function HolographicOverlay({
 
     return {
       transform: [{ translateX: tx }, { translateY: ty }, { rotate: '25deg' }],
-      opacity: isActive.value * 0.6,
+      opacity: Math.min(isActive.value * 0.6 * intensity, 1),
     }
   })
 
@@ -45,7 +48,7 @@ export function HolographicOverlay({
 
     return {
       transform: [{ translateX: tx }, { translateY: ty }, { rotate: '25deg' }],
-      opacity: isActive.value * 0.5,
+      opacity: Math.min(isActive.value * 0.5 * intensity, 1),
     }
   })
 
@@ -59,7 +62,7 @@ export function HolographicOverlay({
 
     return {
       transform: [{ translateX: tx }, { translateY: ty }, { rotate: '25deg' }],
-      opacity: isActive.value * 0.4,
+      opacity: Math.min(isActive.value * 0.4 * intensity, 1),
     }
   })
 
@@ -73,7 +76,7 @@ export function HolographicOverlay({
 
     return {
       transform: [{ translateX: tx }, { translateY: ty }, { rotate: '25deg' }],
-      opacity: isActive.value * 0.35,
+      opacity: Math.min(isActive.value * 0.35 * intensity, 1),
     }
   })
 

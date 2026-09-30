@@ -4,6 +4,9 @@ import type { TFunction } from 'i18next'
 
 import i18n from '@/lib/i18n'
 
+// Intl rather than date-fns: its long date reads naturally in each language
+// ("September 30, 2026", "30 de setembro de 2026"), where date-fns' `PPP` puts
+// an ordinal in English.
 function localDate(iso: string, month: 'long' | 'short') {
   return new Intl.DateTimeFormat(i18n.language || 'en-US', {
     day: 'numeric',
@@ -17,20 +20,19 @@ export function envelopeDate(grant: Grant) {
   return localDate(grant.date, 'long')
 }
 
+const namedDoors: readonly string[] = ['mass', 'office', 'starter']
+
 /** How the card was won: "Received at Mass · 4 Oct 2026". */
 export function howWon(grant: Grant, t: TFunction) {
-  const date = localDate(grant.date, 'short')
-  if (grant.door === 'mass' || grant.door === 'office' || grant.door === 'starter') {
-    return t(`saints.redeem.door.${grant.door}`, { date })
-  }
-  return t('saints.redeem.door.other', { date })
+  const door = namedDoors.includes(grant.door) ? grant.door : 'other'
+  return t(`saints.redeem.door.${door}`, { date: localDate(grant.date, 'short') })
 }
 
 /** When the envelope must be opened by; undefined when it has no window. */
-export function openBy(grant: Grant, today: string, t: TFunction) {
+export function openBy(grant: Grant, today: Date, t: TFunction) {
   if (!grant.deadline) return undefined
-  if (grant.deadline <= today) return t('saints.redeem.openBy.today')
-  if (grant.deadline === format(addDays(parseISO(today), 1), 'yyyy-MM-dd')) {
+  if (grant.deadline <= format(today, 'yyyy-MM-dd')) return t('saints.redeem.openBy.today')
+  if (grant.deadline === format(addDays(today, 1), 'yyyy-MM-dd')) {
     return t('saints.redeem.openBy.tomorrow')
   }
   return t('saints.redeem.openBy.date', { date: localDate(grant.deadline, 'short') })

@@ -36,11 +36,12 @@ function cardImage(id: string): ImageSource {
   return { uri: hearthAssetUrl(`saints/${id}.webp`) }
 }
 
-function feastLabel(month: number, day: number, lang: string): string {
+// One formatter per build: Intl constructors are slow on Hermes, and a build
+// labels a feast per card (and per index day when silhouettes show).
+function feastLabeller(lang: string) {
+  const format = new Intl.DateTimeFormat(lang, { month: 'long', day: 'numeric' })
   // Year is arbitrary — only month + day are formatted.
-  return new Intl.DateTimeFormat(lang, { month: 'long', day: 'numeric' }).format(
-    new Date(2001, month - 1, day),
-  )
+  return (month: number, day: number) => format.format(new Date(2001, month - 1, day))
 }
 
 // Temporary: until art exists across the full sanctoral, the gallery shows only
@@ -71,7 +72,9 @@ function build(
   const bespokeDates = new Set((cards ?? []).map((c) => dateKey(c.feast.month, c.feast.day)))
 
   const indexEntries: SaintEntry[] = []
-  for (const [mmdd, entry] of Object.entries(index ?? {})) {
+  const feastLabel = feastLabeller(lang)
+  // Silhouettes off, the index entries would only be filtered out below.
+  for (const [mmdd, entry] of Object.entries(includeUncollected ? (index ?? {}) : {})) {
     const month = Number.parseInt(mmdd.slice(0, 2), 10)
     const day = Number.parseInt(mmdd.slice(3, 5), 10)
     const key = dateKey(month, day)
@@ -81,7 +84,7 @@ function build(
       id: entry.chapter,
       name: localizeContent(entry.name),
       feast: { month, day },
-      feastLabel: feastLabel(month, day, lang),
+      feastLabel: feastLabel(month, day),
       lifeChapter: entry.chapter,
       reflection: entry.reflection ? localizeContent(entry.reflection) : undefined,
     })
@@ -93,7 +96,7 @@ function build(
       id: c.id,
       name: localizeContent(c.name),
       feast: c.feast,
-      feastLabel: feastLabel(month, day, lang),
+      feastLabel: feastLabel(month, day),
       lifeChapter: c.lifeChapter,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),

@@ -1,7 +1,6 @@
 import { drawCard, type Grant } from '@ember/holy-cards'
 import { useQuery } from '@tanstack/react-query'
-import { format } from 'date-fns'
-import { type ReactNode, useState } from 'react'
+import { type ReactNode, useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView, StyleSheet, useWindowDimensions, View } from 'react-native'
 import Animated, {
@@ -25,18 +24,16 @@ import { loadBookChapterText } from '@/content/books'
 import { useEventStore } from '@/db/events'
 import { useToday } from '@/hooks/useToday'
 import { lightTap, mediumTap, selectionTick, successBuzz } from '@/lib/haptics'
-import i18n from '@/lib/i18n'
-import { SaintCard } from '../components'
+import { usePreferencesStore } from '@/stores/preferencesStore'
+import { SaintCard, SaintEncounterHeader, saintCardWidth } from '../components'
 import { type SaintEntry, useSaintsCatalog } from '../data/catalog'
 import { useRedeemHolyCard } from '../usePendingHolyCards'
 import { useSaintCollect } from '../useSaintCollect'
-import { Envelope, risenCardCenter } from './Envelope'
+import { Envelope, envelopeCard } from './Envelope'
 import { envelopeDate, howWon, openBy } from './envelopeText'
 
 const openDuration = 3200
 const livesBook = 'pictorial-lives-of-saints'
-// SaintCard's own size, so the risen card lands exactly where it appears.
-const maxCardWidth = 340
 
 /**
  * Redeeming one envelope, as two pages you swipe between — the sealed
@@ -60,17 +57,20 @@ export function RedeemFlow({
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { width, height } = useWindowDimensions()
-  const today = format(useToday(), 'yyyy-MM-dd')
+  const today = useToday()
   const { byId } = useSaintsCatalog()
   const [card, setCard] = useState<string | undefined>(() => {
     if (grant.drawn) return drawCard(grant, [...useEventStore.getState().holyCards.values()])
     return grant.choice.length === 1 ? grant.choice[0] : undefined
   })
   const [phase, setPhase] = useState<'reading' | 'opening' | 'card'>('reading')
+  const [lifeRequested, setLifeRequested] = useState(false)
   const redeem = useRedeemHolyCard()
   const progress = useSharedValue(0)
   const open = useSharedValue(0)
   const lifeShown = useSharedValue(0)
+  const timers = useRef<ReturnType<typeof setTimeout>[]>([])
+  useEffect(() => () => timers.current.forEach(clearTimeout), [])
   const saint = card ? byId[card] : undefined
 
   const onScroll = useAnimatedScrollHandler((e) => {
@@ -89,9 +89,11 @@ export function RedeemFlow({
           void successBuzz()
           setPhase('opening')
           open.value = withTiming(1, { duration: openDuration, easing: Easing.inOut(Easing.cubic) })
-          setTimeout(() => void mediumTap(), openDuration * 0.12)
-          setTimeout(() => void lightTap(), openDuration * 0.5)
-          setTimeout(() => setPhase('card'), openDuration + 150)
+          timers.current = [
+            setTimeout(() => void mediumTap(), openDuration * 0.12),
+            setTimeout(() => void lightTap(), openDuration * 0.5),
+            setTimeout(() => setPhase('card'), openDuration + 150),
+          ]
         },
       },
     )
@@ -101,108 +103,118 @@ export function RedeemFlow({
   const envelopeWidth = Math.min(width * 0.68, 280)
   const choosing = !grant.drawn && grant.choice.length > 1
   const name = saint?.name ?? t('saints.redeem.unnamed')
+  const date = envelopeDate(grant)
+  const won = howWon(grant, t)
   const deadline = openBy(grant, today, t)
-  const pageTop = { paddingTop: insets.top + 56 }
+  const pageTop = insets.top + 56
+  // The risen card rides from its place above the envelope onto the spot where
+  // the full SaintCard appears, so the swap to it is invisible.
+  const riseTop = height * 0.42
+  const cardTop = insets.top + 24
+  const inner = envelopeCard(envelopeWidth)
+  const finalWidth = saintCardWidth(width)
+  const exit = {
+    dy: cardTop + finalWidth * 0.75 - (riseTop + inner.top - inner.rise + inner.height / 2),
+    scale: finalWidth / inner.width,
+  }
+  const footer = next
+    ? { label: t('saints.redeem.next'), a11y: t('a11y.nextEnvelope'), onPress: onNext }
+    : { label: t('saints.redeem.done'), a11y: t('a11y.doneRedeeming'), onPress: onDone }
 
   return (
     <View style={[styles.fill, { backgroundColor: bg }]}>
-      <Animated.ScrollView
-        horizontal
-        pagingEnabled
-        // The prayer is the chosen saint's: no swiping on until one is chosen.
-        scrollEnabled={!!saint && phase === 'reading'}
-        showsHorizontalScrollIndicator={false}
-        onScroll={onScroll}
-        scrollEventThrottle={16}
-        style={styles.fill}
-      >
-        <Page width={width}>
-          <ScrollView
-            showsVerticalScrollIndicator={false}
-            contentContainerStyle={[
-              styles.envelopePage,
-              { paddingTop: insets.top + (choosing ? 56 : height * 0.14) },
-            ]}
-          >
-            <YStack alignItems="center" gap="$xl">
-              <Envelope width={envelopeWidth} name={name} date={envelopeDate(grant)} tiltable />
-              <YStack gap="$sm" alignItems="center">
-                <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-                  {t('saints.redeem.waiting', { count: 1 })}
-                </Typography>
-                <Typography variant="whisper" textAlign="center">
-                  {howWon(grant, t)}
-                </Typography>
-                {deadline && (
+      {phase !== 'card' && (
+        <Animated.ScrollView
+          horizontal
+          pagingEnabled
+          // The prayer is the chosen saint's: no swiping on until one is chosen.
+          scrollEnabled={!!saint && phase === 'reading'}
+          showsHorizontalScrollIndicator={false}
+          onScroll={onScroll}
+          scrollEventThrottle={16}
+          style={styles.fill}
+        >
+          <Page width={width}>
+            <ScrollView
+              showsVerticalScrollIndicator={false}
+              contentContainerStyle={[
+                styles.page,
+                { paddingTop: choosing ? pageTop : insets.top + height * 0.14 },
+              ]}
+            >
+              <YStack alignItems="center" gap="$xl">
+                <Envelope
+                  width={envelopeWidth}
+                  name={name}
+                  date={date}
+                  tiltable
+                  shimmer={phase === 'reading'}
+                />
+                <YStack gap="$sm" alignItems="center">
+                  <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
+                    {t('saints.redeem.waiting', { count: 1 })}
+                  </Typography>
+                  <Typography variant="whisper" textAlign="center">
+                    {won}
+                  </Typography>
+                  {deadline && (
+                    <Typography variant="annotation" textAlign="center">
+                      {deadline}
+                    </Typography>
+                  )}
+                </YStack>
+                {choosing && (
+                  <Chooser
+                    title={t(
+                      grant.door === 'starter'
+                        ? 'saints.redeem.chooseStarter'
+                        : 'saints.redeem.choose',
+                    )}
+                    options={grant.choice.flatMap((id) => (byId[id] ? [byId[id]] : []))}
+                    chosen={card}
+                    onChoose={(id) => {
+                      void selectionTick()
+                      setCard(id)
+                    }}
+                  />
+                )}
+                {saint && (
                   <Typography variant="annotation" textAlign="center">
-                    {deadline}
+                    {t('saints.redeem.swipeToPray')}
                   </Typography>
                 )}
               </YStack>
-              {choosing && (
-                <Chooser
-                  title={t(
-                    grant.door === 'starter'
-                      ? 'saints.redeem.chooseStarter'
-                      : 'saints.redeem.choose',
-                  )}
-                  options={grant.choice.flatMap((id) => (byId[id] ? [byId[id]] : []))}
-                  chosen={card}
-                  onChoose={(id) => {
-                    void selectionTick()
-                    setCard(id)
-                  }}
-                />
-              )}
-              {saint && (
-                <Typography variant="annotation" textAlign="center">
-                  {t('saints.redeem.swipeToPray')}
-                </Typography>
-              )}
-            </YStack>
-          </ScrollView>
-        </Page>
-
-        {saint && (
-          <Page width={width}>
-            <Prayer
-              saint={saint}
-              top={pageTop.paddingTop}
-              onAmen={amen}
-              disabled={phase !== 'reading' || redeem.isPending}
-              error={redeem.error?.message}
-            />
+            </ScrollView>
           </Page>
-        )}
-      </Animated.ScrollView>
 
-      {saint && <Dots progress={progress} />}
+          {saint && (
+            <Page width={width}>
+              <Prayer
+                saint={saint}
+                top={pageTop}
+                onAmen={amen}
+                disabled={phase !== 'reading' || redeem.isPending}
+                error={redeem.error?.message}
+              />
+            </Page>
+          )}
+        </Animated.ScrollView>
+      )}
+
+      {phase === 'reading' && saint && <Dots progress={progress} />}
 
       {phase !== 'reading' && saint?.cardImage && (
         <Animated.View
           entering={FadeIn.duration(250)}
-          style={[
-            StyleSheet.absoluteFill,
-            styles.center,
-            { backgroundColor: bg, justifyContent: 'flex-start', paddingTop: height * 0.42 },
-          ]}
+          style={[styles.rising, { backgroundColor: bg, paddingTop: riseTop }]}
         >
           <Envelope
             width={envelopeWidth}
             name={name}
-            date={envelopeDate(grant)}
+            date={date}
             image={saint.cardImage}
             open={open}
-            exit={(() => {
-              // Glide the risen card onto the spot where the full SaintCard
-              // appears, so the swap to it is invisible.
-              const finalW = Math.min(width - 48, maxCardWidth)
-              const risen = height * 0.42 + risenCardCenter(envelopeWidth)
-              return {
-                dy: insets.top + 24 + finalW * 0.75 - risen,
-                scale: finalW / (envelopeWidth * 0.8),
-              }
-            })()}
+            exit={exit}
           />
         </Animated.View>
       )}
@@ -210,15 +222,11 @@ export function RedeemFlow({
       {phase === 'card' && saint && (
         <Animated.View
           entering={FadeIn.duration(400)}
-          style={[
-            StyleSheet.absoluteFill,
-            styles.final,
-            { backgroundColor: bg, paddingTop: insets.top + 24 },
-          ]}
+          style={[styles.final, { backgroundColor: bg, paddingTop: cardTop }]}
         >
           <SaintCard saint={saint} />
           <Typography variant="whisper" textAlign="center" paddingTop="$lg">
-            {howWon(grant, t)}
+            {won}
           </Typography>
           {saint.lifeChapter && (
             <TextButton
@@ -226,46 +234,26 @@ export function RedeemFlow({
               a11y={t('a11y.readLife', { name: saint.name })}
               onPress={() => {
                 void lightTap()
+                setLifeRequested(true)
                 lifeShown.value = withTiming(1, { duration: 420, easing: Easing.out(Easing.cubic) })
               }}
             />
           )}
           <View style={[styles.footer, { bottom: insets.bottom + 24 }]}>
-            {next ? (
-              <TextButton
-                label={t('saints.redeem.next')}
-                a11y={t('a11y.nextEnvelope')}
-                onPress={onNext}
-              />
-            ) : (
-              <TextButton
-                label={t('saints.redeem.done')}
-                a11y={t('a11y.doneRedeeming')}
-                onPress={onDone}
-              />
-            )}
+            <TextButton {...footer} />
           </View>
         </Animated.View>
       )}
 
-      {phase === 'card' && saint?.lifeChapter && (
+      {lifeRequested && saint?.lifeChapter && (
         <Animated.View style={[StyleSheet.absoluteFill, { backgroundColor: bg }, lifeStyle]}>
           <Life
             chapter={saint.lifeChapter}
-            top={pageTop.paddingTop}
+            top={pageTop}
             bottom={insets.bottom}
-            back={
-              <TextButton
-                label={t('saints.redeem.backToCard')}
-                a11y={t('a11y.backToCard')}
-                onPress={() => {
-                  lifeShown.value = withTiming(0, {
-                    duration: 380,
-                    easing: Easing.in(Easing.cubic),
-                  })
-                }}
-              />
-            }
+            onBack={() => {
+              lifeShown.value = withTiming(0, { duration: 380, easing: Easing.in(Easing.cubic) })
+            }}
           />
         </Animated.View>
       )}
@@ -343,25 +331,21 @@ function Prayer({
   return (
     <ScrollView
       showsVerticalScrollIndicator={false}
-      contentContainerStyle={[styles.prayerPage, { paddingTop: top }]}
+      contentContainerStyle={[styles.page, { paddingTop: top }]}
     >
-      <YStack gap="$sm" paddingBottom="$xl">
-        <Typography variant="sacred-title" fontSize={30} lineHeight={36} textAlign="left">
-          {saint.name}
+      <SaintEncounterHeader saint={saint} align="left" />
+      {saint.intro && (
+        <Typography variant="interface" fontSize="$4" lineHeight={28}>
+          {saint.intro}
         </Typography>
-        {saint.feastLabel && (
-          <Typography variant="reference" textTransform="uppercase">
-            {saint.feastLabel}
-          </Typography>
-        )}
-        {saint.patronOf && <Typography variant="whisper">{saint.patronOf}</Typography>}
-        {saint.intro && (
-          <Typography variant="interface" fontSize="$4" lineHeight={28} paddingTop="$sm">
-            {saint.intro}
-          </Typography>
-        )}
-      </YStack>
-      <Typography variant="label" textTransform="uppercase" letterSpacing={1.5} paddingBottom="$sm">
+      )}
+      <Typography
+        variant="label"
+        textTransform="uppercase"
+        letterSpacing={1.5}
+        paddingTop="$lg"
+        paddingBottom="$sm"
+      >
         {t('saints.redeem.letUsPray')}
       </Typography>
       {lines.map((line) => (
@@ -390,22 +374,27 @@ function Prayer({
 }
 
 // The saint's full chapter of the Pictorial Lives, its illustration and closing
-// reflection included, in the content language (the book has both).
+// reflection included, in the content language (English where the book has no
+// such translation, e.g. Latin).
 function Life({
   chapter,
   top,
   bottom,
-  back,
+  onBack,
 }: {
   chapter: string
   top: number
   bottom: number
-  back: ReactNode
+  onBack: () => void
 }) {
-  const lang = i18n.language || 'en-US'
+  const { t } = useTranslation()
+  const lang = usePreferencesStore((s) => s.contentLanguage)
   const life = useQuery({
     queryKey: ['saint-life', chapter, lang],
-    queryFn: async () => (await loadBookChapterText(livesBook, chapter, lang)) ?? null,
+    queryFn: async () =>
+      (await loadBookChapterText(livesBook, chapter, lang)) ??
+      (await loadBookChapterText(livesBook, chapter, 'en-US')) ??
+      null,
     staleTime: Number.POSITIVE_INFINITY,
   })
   return (
@@ -413,7 +402,13 @@ function Life({
       showsVerticalScrollIndicator={false}
       contentContainerStyle={[styles.lifePage, { paddingTop: top, paddingBottom: bottom + 80 }]}
     >
-      <View style={styles.back}>{back}</View>
+      <View style={styles.back}>
+        <TextButton
+          label={t('saints.redeem.backToCard')}
+          a11y={t('a11y.backToCard')}
+          onPress={onBack}
+        />
+      </View>
       {life.isError && <InlineRetry onRetry={() => void life.refetch()} />}
       {life.data && <ProseBlock text={{ primary: life.data }} />}
     </ScrollView>
@@ -468,9 +463,9 @@ function Dot({ i, progress }: { i: number; progress: SharedValue<number> }) {
 
 const styles = StyleSheet.create({
   fill: { flex: 1 },
-  center: { alignItems: 'center' },
-  envelopePage: { paddingBottom: 160 },
-  prayerPage: { paddingBottom: 160 },
+  page: { paddingBottom: 160 },
+  rising: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, alignItems: 'center' },
+  final: { position: 'absolute', top: 0, right: 0, bottom: 0, left: 0, alignItems: 'center' },
   lifePage: { paddingHorizontal: 28 },
   back: { alignItems: 'flex-start', paddingBottom: 16 },
   option: { minHeight: 44, justifyContent: 'center' },
@@ -492,6 +487,5 @@ const styles = StyleSheet.create({
     right: 0,
   },
   dot: { width: 6, height: 6, borderRadius: 3 },
-  final: { alignItems: 'center' },
   footer: { position: 'absolute', left: 0, right: 0, alignItems: 'center' },
 })

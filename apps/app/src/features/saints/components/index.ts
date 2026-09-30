@@ -1,4 +1,5 @@
-export { SaintCard } from './SaintCard'
+export { SaintCard, saintCardWidth } from './SaintCard'
 export { SaintCardViewer } from './SaintCardViewer'
+export { SaintEncounterHeader } from './SaintEncounter'
 export { SaintsGalleryHeader } from './SaintsGalleryHeader'
 export { type SaintGrouping, SaintWall } from './SaintWall'

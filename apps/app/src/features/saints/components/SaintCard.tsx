@@ -7,11 +7,14 @@ import { CardBack } from './CardBack'
 import { CardFront } from './CardFront'
 import { useCardGestures } from './useCardGestures'
 
-const maxCardWidth = 340
+/** A full-size holy card's width on a screen `screenWidth` wide (it stands 2:3). */
+export function saintCardWidth(screenWidth: number) {
+  return Math.min(screenWidth - 48, 340)
+}
 
 export function SaintCard({ saint }: { saint: SaintEntry }) {
   const { width: screenWidth } = useWindowDimensions()
-  const cardWidth = Math.min(screenWidth - 48, maxCardWidth)
+  const cardWidth = saintCardWidth(screenWidth)
   const cardHeight = cardWidth * 1.5
 
   const { gesture, rotateX, rotateY, isActive, flipRotation } = useCardGestures({

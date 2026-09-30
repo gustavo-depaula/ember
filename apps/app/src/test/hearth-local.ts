@@ -13,10 +13,11 @@ import { resolve } from 'node:path'
 const REPO_ROOT = resolve(__dirname, '../../../..')
 const CORPUS_ROOT = resolve(REPO_ROOT, '_site/hearth/v2')
 
+const devPort = process.env.EXPO_PUBLIC_HEARTH_PORT ?? '4100'
 const HEARTH_HOSTS = [
   'https://ember.dpgu.me/hearth/v2',
-  'http://localhost:4100',
-  'http://127.0.0.1:4100',
+  `http://localhost:${devPort}`,
+  `http://127.0.0.1:${devPort}`,
 ]
 
 function corpusPathFor(url: string): string | undefined {

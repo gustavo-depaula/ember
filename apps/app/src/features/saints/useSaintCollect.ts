@@ -1,3 +1,4 @@
+import type { RichTextLine } from '@ember/content-engine'
 import { resolveOfDay } from '@ember/mass'
 import { useQuery } from '@tanstack/react-query'
 
@@ -29,13 +30,15 @@ export function useSaintCollect({
       if (!ref) return null
       const formulary = await loadMassFormulary(ref)
       const body = formulary?.collect?.options?.[0]?.body as
-        // Each line is a run of styled text spans.
-        { lines?: Record<string, Array<Array<{ text?: string }>>> } | undefined
+        | { lines?: Record<string, RichTextLine[]> }
+        | undefined
       const byLang = body?.lines
       if (!byLang) return null
       const picked = byLang[lang] ?? byLang['en-US'] ?? byLang.la
       if (!picked) return null
-      const lines = picked.map((line) => line.map((run) => run.text ?? '').join('')).filter(Boolean)
+      const lines = picked
+        .map((line) => line.map((segment) => segment.text).join(''))
+        .filter(Boolean)
       if (lines.length === 0) return null
       return { lang, lines }
     },

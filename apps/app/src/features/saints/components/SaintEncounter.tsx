@@ -9,19 +9,30 @@ import { useSaintCollect } from '../useSaintCollect'
 // The saint's identity — name, feast, patronage. Lives in the sheet's draggable
 // (non-scrolling) header so swiping the peek raises the sheet rather than
 // scrolling it. The portrait isn't repeated — the holy card above is the hero.
-export function SaintEncounterHeader({ saint }: { saint: SaintEntry }) {
+export function SaintEncounterHeader({
+  saint,
+  align = 'center',
+}: {
+  saint: SaintEntry
+  align?: 'center' | 'left'
+}) {
   return (
-    <YStack alignItems="center" gap="$xs" paddingHorizontal={28} paddingBottom="$md">
-      <Typography variant="sacred-title" fontSize={30} lineHeight={36} textAlign="center">
+    <YStack
+      alignItems={align === 'center' ? 'center' : 'flex-start'}
+      gap="$xs"
+      paddingHorizontal={align === 'center' ? 28 : 0}
+      paddingBottom="$md"
+    >
+      <Typography variant="sacred-title" fontSize={30} lineHeight={36} textAlign={align}>
         {saint.name}
       </Typography>
       {saint.feastLabel && (
-        <Typography variant="reference" textTransform="uppercase" textAlign="center">
+        <Typography variant="reference" textTransform="uppercase" textAlign={align}>
           {saint.feastLabel}
         </Typography>
       )}
       {saint.patronOf && (
-        <Typography variant="whisper" textAlign="center">
+        <Typography variant="whisper" textAlign={align}>
           {saint.patronOf}
         </Typography>
       )}
