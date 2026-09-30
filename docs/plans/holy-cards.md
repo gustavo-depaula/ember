@@ -17,7 +17,7 @@ It must feel like a missal, not a game:
 - **No points, ranks, or percentages.** No "37/120".
 - **No farming.** One act gives one card, never several; app time and opens never count.
 - **Every card is holographic.** Copies differ by their back — the full condition each was received under — not by rarity.
-- **No odds to chase.** Saints always follow from the act. Only the weekday Mass pool (parts, objects, vestments) and a copy's print are drawn at random, unheld first, every candidate equally likely.
+- **No odds to chase.** Saints always follow from the act. Only the liturgical cards (parts of the Mass, objects, vestments) and a copy's print are drawn at random, unheld first, every candidate equally likely.
 
 ---
 
@@ -27,7 +27,7 @@ It must feel like a missal, not a game:
 |---|---|
 | Mass on a day with a saint (solemnity, feast, obligatory or optional memorial) | That saint |
 | Sunday Mass after a faithful week | The next Roman Canon saint |
-| Weekday Mass with no saint | A part of the Mass, a liturgical object, or a vestment |
+| Weekday Mass with no saint (or whose saint has no card yet) | A liturgical card: a part of the Mass, a liturgical object, or a vestment |
 | A faithful stretch of prayer | The next saint without a feast at Mass |
 | A season's Sundays, all attended | That season's Sunday card |
 | A season's weekdays, attended faithfully | That season's weekday card |
@@ -45,10 +45,10 @@ Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the pla
 
 ### One card per Mass, in precedence
 
-When several per-Mass doors are due on the same day: **day's saint → Canon saint → weekday pool**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a faithful stretch closing the same day) — each its own act, each its own card.
+When several per-Mass doors are due on the same day: **day's saint → Canon saint → liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a faithful stretch closing the same day) — each its own act, each its own card.
 
 - **Several saints on one day:** the first one not yet held; if all are held, a copy of the first.
-- **No art yet:** if the day's saint has no card drawn yet, that Mass gives nothing. It doesn't fall through to the Canon or the weekday pool.
+- **No art yet:** if the day's saint has no card drawn yet, that Mass gives a liturgical card instead — the same as a day with no saint.
 
 ### Roman Canon saints (Sundays)
 
@@ -58,9 +58,9 @@ The Canon saint is ordered by *upcoming feast*, so the card arrives just before 
 
 The list must come from the Missal's Eucharistic Prayer I — it is not in the repo yet.
 
-### The weekday pool: parts, objects, vestments
+### Liturgical cards: parts, objects, vestments
 
-Weekday Mass with no saint gives one card from the pool of the parts of the Mass (entrance, Kyrie, Gloria, readings, … dismissal), liturgical objects (thurible, ambo, chalice, paten, …) and vestments (amice, alb, cincture, stole, chasuble, …) — drawn at random, unheld first, every candidate equally likely; once all are held, copies. The draw is seeded by the act (date + door), so it's stable. Each back explains the part, object or vestment. Source the parts from the Order of Mass in `practice/mass`, not from memory.
+Weekday Mass with no saint — or whose saint has no card yet — gives one liturgical card from the pool of the parts of the Mass (entrance, Kyrie, Gloria, readings, … dismissal), liturgical objects (thurible, ambo, chalice, paten, …) and vestments (amice, alb, cincture, stole, chasuble, …) — drawn at random, unheld first, every candidate equally likely; once all are held, copies. The draw is seeded by the act (date + door), so it's stable. Each back explains the part, object or vestment. Source the parts from the Order of Mass in `practice/mass`, not from memory.
 
 ### Saints without a feast at Mass (faithful prayer)
 
@@ -120,7 +120,7 @@ Redeeming is what records a copy permanently: the copy is stored at that moment,
 
 | Card | Redeem by |
 |---|---|
-| Day's saint, Canon saint, weekday pool | the end of the next day |
+| Day's saint, Canon saint, liturgical card | the end of the next day |
 | Faithful prayer, season, Triduum, Ember Days, practice lineage, book | within a week |
 | Starter cards | no window |
 
