@@ -16,6 +16,7 @@
     "@ember/api": "workspace:*",
     "@ember/content-engine": "workspace:*",
     "@ember/divinum-officium": "workspace:*",
+    "@ember/holy-cards": "workspace:*",
     "@ember/liturgical": "workspace:*",
     "@ember/mass": "workspace:*",
     "@ember/missal-schema": "workspace:*",

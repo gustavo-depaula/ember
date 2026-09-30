@@ -62,6 +62,9 @@ importers:
       '@ember/divinum-officium':
         specifier: workspace:*
         version: link:../../packages/divinum-officium
+      '@ember/holy-cards':
+        specifier: workspace:*
+        version: link:../../packages/holy-cards
       '@ember/liturgical':
         specifier: workspace:*
         version: link:../../packages/liturgical

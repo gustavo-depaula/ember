@@ -1,5 +1,6 @@
 {
   "id": "liturgy-of-the-hours",
+  "liturgicalAct": "office",
   "icon": "prayer",
   "name": {
     "en-US": "Liturgy of the Hours",

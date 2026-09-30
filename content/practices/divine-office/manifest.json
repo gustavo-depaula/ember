@@ -1,5 +1,6 @@
 {
   "id": "divine-office",
+  "liturgicalAct": "office",
   "icon": "prayer",
   "name": {
     "en-US": "Divine Office",

@@ -132,6 +132,9 @@ export type PracticeManifest = {
   completion?: 'flow-end' | 'manual'
   program?: ProgramConfig
   theme?: 'office'
+  // Praying this counts as attending Mass or praying the Divine Office (holy
+  // cards). Set on a form group's primary; the other forms inherit it.
+  liturgicalAct?: 'mass' | 'office'
   alternativeTo?: AlternativeToRef
   // Flow template vars (`{{rubrics}}`). Forms of one practice share a flow and
   // differ only here, e.g. which Divinum Officium version the breviary follows.

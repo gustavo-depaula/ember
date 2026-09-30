@@ -1,5 +1,6 @@
 {
   "id": "breviary-monastic",
+  "liturgicalAct": "office",
   "icon": "prayer",
   "name": {
     "en-US": "Monastic Breviary",

@@ -1,5 +1,6 @@
 {
   "id": "mass",
+  "liturgicalAct": "mass",
   "icon": "cross",
   "name": {
     "en-US": "Holy Mass",
