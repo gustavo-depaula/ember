@@ -1,0 +1,457 @@
+{
+  "batch": 25,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-25.md",
+  "cards": [
+    {
+      "id": "benjamin",
+      "letter": "B",
+      "feast": {
+        "month": 3,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. Benjamin",
+        "pt-BR": "São Benjamim"
+      },
+      "patronOf": {
+        "en-US": "Deacon and martyr",
+        "pt-BR": "Diácono e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Benjamin, who was a minister of the Gospel, declared that he should miss no opportunity of announcing Christ.",
+        "pt-BR": "Benjamim, que era um ministro do Evangelho, declarou que não perderia nenhuma oportunidade de anunciar Cristo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-31-benjamin.md, second paragraph, from \"Benjamin, who was\" (the day's reflection is one long prayer to the martyrs with no clause that stands alone) (Pictorial Lives, public domain)",
+      "subject": "St. Benjamin, deacon of the Church in Persia, half-length, as a young fifth-century deacon: a long white linen tunic with narrow sleeves, a deacon's stole of deep crimson over his left shoulder, an open book of the Gospels held up in his left hand, his right hand raised, open, as one announcing Christ, as when he told the king he would miss no opportunity to preach. Behind him, a Persian town of flat-roofed mud-brick houses with a small, plain church among them, date palms and a broad, dusty river plain, under a clear, hot, pale-gold sky. Ardent and young; no reeds, no stake, no wounds, no lettering.",
+      "face": "A Persian of about twenty-eight with a warm, light-brown complexion and a SOFT face with smooth, ROUND cheeks that fall away to a SHORT, gently RECEDING chin under a LONG, HIGH-BRIDGED, ARCHED nose — a smooth, rounded forehead, LARGE, dark, heavy-lidded almond eyes set WIDE apart, fine, HIGH-ARCHED black brows, a small, full, bow-shaped mouth; thick, glossy black hair in loose waves to the ears; only a first thin moustache and a sparse down of beard along the jaw; the gaze candid and ardent, toward us.",
+      "refs": [
+        "sebastian",
+        "george",
+        "aloysius_gonzaga"
+      ],
+      "basis": "No likeness survives. The Painter's Manual, among the holy deacons, gives 'Benjamin, a young man with an incipient beard' (feast 13 October, the Eastern date of this Benjamin, as Wikipedia confirms); the modern icon on Wikipedia shows a young, curly-haired deacon with a book. The book tells his year in prison, his release through the emperor's ambassador and his refusal to keep silent; its engraving shows him seated in his dungeon. The round-cheeked face with the long arched nose and receding chin is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Benjamin the Deacon and Martyr (lead image: icon)",
+          "url": "https://en.wikipedia.org/wiki/Benjamin_the_Deacon_and_Martyr"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the holy deacons",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, mar-31-benjamin (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/mar-31-benjamin.md"
+        }
+      ],
+      "lifeChapter": "mar-31-benjamin",
+      "catalogMatch": "St. Benjamin, Deacon, Martyr"
+    },
+    {
+      "id": "hugh_grenoble",
+      "letter": "H",
+      "feast": {
+        "month": 4,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Hugh of Grenoble",
+        "pt-BR": "Santo Hugo de Grenoble"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Grenoble",
+        "pt-BR": "Bispo de Grenoble"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us learn from the example of the Saints to shun the tumult of the world as much as our circumstances will allow, and give ourselves up to the exercises of holy solitude, prayer, and pious reading.",
+        "pt-BR": "Aprendamos com o exemplo dos Santos a fugir do tumulto do mundo tanto quanto nossas circunstâncias o permitam, e a entregar-nos aos exercícios da santa solidão, da oração e da leitura piedosa."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-01 reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Hugh, Bishop of Grenoble, half-length, as an old twelfth-century bishop: a white alb and a full, bell-shaped chasuble of soft ROSE-VIOLET silk with a narrow gold orphrey, a low white mitre, a plain wooden crozier in the crook of his left arm; in both hands, held open before him, a small book of prayers, for his love of 'holy solitude, prayer, and pious reading'. Behind him, Grenoble: the city's walls and the cathedral of Notre-Dame by the broad, grey-green river Isère, with the steep, wooded foothills of the Alps close behind, under a soft, pearly morning sky. Humble, recollected, longing for solitude; no stars, no monks, no lettering.",
+      "face": "A Dauphinois of about seventy, CLEAN-SHAVEN, with a fair, finely wrinkled complexion and a SMALL, delicate, APPLE-ROUND face — a high, rounded, bald dome with a thin fringe of fine white hair, very LARGE, round, clear blue-grey eyes under faint, HIGH-ARCHED white brows, a SMALL, short BUTTON nose, a noticeably LONG, smooth UPPER LIP over a small, soft mouth, softly rounded cheeks webbed with fine lines, a small, round chin; the gaze gentle and a little wistful, lifted from the page.",
+      "refs": [
+        "alphonsus_liguori",
+        "charles_borromeo",
+        "ambrose"
+      ],
+      "basis": "No likeness from life; Zurbarán's 'Saint Hugo in the Refectory' (Wikipedia's lead image) shows him as a stooped, bald old bishop visiting the Carthusians. Wikipedia tells the dream of seven stars in which he saw Bruno and his six companions, and his installing them in the Chartreuse. The book tells his birth at Châteauneuf, his fifty-two years as bishop, his flight to Chaise-Dieu and his longing for solitude. The card leaves the seven stars and the Chartreuse to `bruno`, whose card already shows them, and shows Hugh as the pastor of Grenoble at prayer. The small, apple-round old face with the long upper lip is our choice, apart from `bruno`'s long rectangle.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hugh of Châteauneuf (the seven stars; lead image: Zurbarán, Saint Hugo in the Refectory)",
+          "url": "https://en.wikipedia.org/wiki/Hugh_of_Ch%C3%A2teauneuf"
+        },
+        {
+          "title": "Wikipedia, Grenoble Cathedral (Notre-Dame, first mentioned 902)",
+          "url": "https://en.wikipedia.org/wiki/Grenoble_Cathedral"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-01-hugh (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-01-hugh.md"
+        }
+      ],
+      "lifeChapter": "apr-01-hugh",
+      "catalogMatch": "St. Hugh, Bishop"
+    },
+    {
+      "id": "richard_chichester",
+      "letter": "R",
+      "feast": {
+        "month": 4,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Richard of Chichester",
+        "pt-BR": "São Ricardo de Chichester"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Chichester",
+        "pt-BR": "Bispo de Chichester"
+      },
+      "prayerExcerpt": {
+        "en-US": "Neglect of duty is the first sign of that self-love which ends with the loss of grace.",
+        "pt-BR": "A negligência do dever é o primeiro sinal daquele amor-próprio que termina com a perda da graça."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-03 reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. Richard, Bishop of Chichester, half-length, as a thirteenth-century English bishop: a white alb and a full chasuble of deep GREEN with a gold orphrey, a low white mitre with gold bands, a simple crozier in his left hand; with his right hand he gives a round loaf to a small, fair-haired peasant child in a patched brown tunic at the lower edge, for 'young and old loved St. Richard' and he gave all he had to feed the poor. Behind him, Chichester: the grey Norman cathedral with its round-arched nave and low central tower (no spire), the little city's roofs, green Sussex fields and the South Downs, under a fresh, bright English spring sky. Kindly and firm; no lettering.",
+      "face": "An Englishman of about fifty-five, CLEAN-SHAVEN, with a fair, fresh, lightly freckled countryman's complexion reddened by the weather and a BROAD, SHORT, OPEN face — a wide, flat forehead, WIDE, rounded cheekbones, a SHORT, UPTURNED snub nose, WIDE-SET, bright light-blue eyes creased with smile lines under sandy brows, a WIDE, thin-lipped, smiling mouth, a SHORT, ROUNDED chin; sandy-red hair going grey, cut short around the tonsure; the gaze frank and warm, down toward the child.",
+      "refs": [
+        "charles_borromeo",
+        "patrick",
+        "nicholas"
+      ],
+      "basis": "No likeness from life; Wikipedia's lead image is a Victorian stained-glass window at Eastbourne. The book tells his farming of his brother's estate, his chancellorship of Oxford, his exile with St. Edmund, his feeding the poor and his firmness for the Church; Wikipedia: he died aged 56, in 1253, and the Norman cathedral had its central tower in his century and its spire only about 1402, so the card leaves the spire off. The broad, snub-nosed, freckled face is our choice, for the farmer turned bishop whom 'young and old loved'.",
+      "sources": [
+        {
+          "title": "Wikipedia, Richard of Chichester (lead image: window at St Saviour's, Eastbourne)",
+          "url": "https://en.wikipedia.org/wiki/Richard_of_Chichester"
+        },
+        {
+          "title": "Wikipedia, Chichester Cathedral (Norman nave; spire about 1402)",
+          "url": "https://en.wikipedia.org/wiki/Chichester_Cathedral"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-03-richard-of-chichester (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-03-richard-of-chichester.md"
+        }
+      ],
+      "lifeChapter": "apr-03-richard-of-chichester",
+      "catalogMatch": "St. Richard of Chichester"
+    },
+    {
+      "id": "celestine_i",
+      "letter": "C",
+      "feast": {
+        "month": 4,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Celestine",
+        "pt-BR": "São Celestino"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Blessed are the servants whom the Lord at His coming shall find watching.\"",
+        "pt-BR": "\"Bem-aventurados os servos que o Senhor, ao chegar, encontrar vigilantes.\""
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-06 reflection, the words of Our Lord it quotes (Pictorial Lives, public domain)",
+      "subject": "St. Celestine I, Bishop of Rome, half-length, as a fifth-century pope without a tiara: a white tunic under a full, bell-shaped chasuble of deep RED-BROWN silk with a narrow gold border, the white woollen pallium with small black crosses over it; in his left hand a folded letter with a hanging seal, one of those he sent to the Council of Ephesus and into Gaul; his right hand raised in blessing, sending out his missionaries. Behind him, fifth-century Rome on the Aventine: the new basilica of Santa Sabina with its plain brick walls and tall round-arched windows, cypresses, and the Tiber below, and on the horizon a small ship under sail toward the north, for Palladius and Germanus, under a clear, watchful morning sky. Vigilant and fatherly; no tiara, no lettering.",
+      "face": "A Roman of about seventy with a warm olive complexion and a BROAD-JAWED, heavy-boned head whose centre is a MASSIVE, HOOKED Roman nose — a LOW, heavy BROW RIDGE with thick, STRAIGHT white brows in one level line, small, bright, deep-set dark eyes, flat cheeks cut by deep vertical creases, a thin, firm, straight mouth; short white hair combed forward; a SHORT, crisp, tightly CURLED white beard close to the jaw; the gaze vigilant, straight toward us.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "nicholas"
+      ],
+      "basis": "No likeness from life; Wikipedia's lead image is a modern window at Dundalk. The book tells his condemnation of Nestorius and his sending Germanus to Britain and Palladius to the Scots; Wikipedia: he established the cardinal title of Santa Sabina in 423, whose doors date from his reign or his successor's. The beard and the heavy, hook-nosed face are our choice, apart from the clean-shaven `simplicius`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Celestine I (lead image: window at St Patrick's, Dundalk)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Celestine_I"
+        },
+        {
+          "title": "Wikipedia, Santa Sabina (the title of 423)",
+          "url": "https://en.wikipedia.org/wiki/Santa_Sabina"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-06-celestine (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-06-celestine.md"
+        }
+      ],
+      "lifeChapter": "apr-06-celestine",
+      "catalogMatch": "St. Celestine, Pope"
+    },
+    {
+      "id": "hegesippus",
+      "letter": "H",
+      "feast": {
+        "month": 4,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Hegesippus",
+        "pt-BR": "São Hegésipo"
+      },
+      "patronOf": {
+        "en-US": "Historian of the early Church",
+        "pt-BR": "Historiador da Igreja primitiva"
+      },
+      "prayerExcerpt": {
+        "en-US": "Down to his time no episcopal see or particular church had fallen into error.",
+        "pt-BR": "Até o seu tempo, nenhuma sé episcopal nem igreja particular havia caído em erro."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-07-hegesippus-a-primitive-father.md, second paragraph, the closing clause of its second sentence, capitalised (the chapter has no Reflection; the index's reflection for that day is Herman Joseph's) (Pictorial Lives, public domain)",
+      "subject": "St. Hegesippus, the Jewish Christian of Jerusalem who travelled through the churches to Rome and wrote the first history of the Church, half-length, as a second-century traveller: a long, undyed linen tunic and a heavy dark-blue woollen travelling cloak, a tall walking staff in his right hand; in his left arm a bundle of five rolled scrolls tied with a cord, his five books; as in the book's engraving he stands among ancient stones. Behind him, a Roman road lined with tombs and umbrella pines leading to the walls and hills of Rome, where he lived twenty years, and far off the pale hills of the East he came from, under a soft, golden afternoon sky. Wise and faithful; no lettering.",
+      "face": "A Jew of Judaea of about seventy with a warm, olive-brown complexion and a TALL, HIGH-DOMED head with WIDE temples, the face narrowing to a long jaw — very LARGE, dark, slightly PROTRUDING eyes under HEAVY, arched black-and-grey brows that lift in the centre in a searching look, a LONG, FLESHY nose with a WIDE, ROUNDED tip and full nostrils, HIGH, rounded cheekbones, a full lower lip; thick grey-black hair in tight CURLS round a receding hairline; a long, full, CURLY grey-black beard, rounded at the end; the gaze keen and searching, as of one who has seen many churches.",
+      "refs": [
+        "jerome",
+        "augustine",
+        "athanasius"
+      ],
+      "basis": "No likeness survives; the Nuremberg Chronicle woodcut (Wikipedia's lead image) shows a curly-haired, bearded writer with a book. Wikipedia, after Eusebius: a convert from Judaism who travelled by Corinth to Rome under Anicetus and wrote the Hypomnemata in five books. The book tells the same, and its engraving shows him standing among ruins with a book. The high-domed head, large eyes and fleshy nose are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hegesippus (chronicler) (lead image: Nuremberg Chronicle)",
+          "url": "https://en.wikipedia.org/wiki/Hegesippus_(chronicler)"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-07-hegesippus-a-primitive-father (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-07-hegesippus-a-primitive-father.md"
+        }
+      ],
+      "lifeChapter": "apr-07-hegesippus-a-primitive-father",
+      "catalogMatch": "St. Hegesippus, a Primitive Father"
+    },
+    {
+      "id": "herman_joseph",
+      "letter": "H",
+      "feast": {
+        "month": 4,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Herman Joseph of Steinfeld",
+        "pt-BR": "São Hermano José de Steinfeld"
+      },
+      "patronOf": {
+        "en-US": "Premonstratensian canon",
+        "pt-BR": "Cônego premonstratense"
+      },
+      "prayerExcerpt": {
+        "en-US": "Be intimate with her; confide in her; commend to her every want and every project, small as well as great.",
+        "pt-BR": "Sê íntimo dela; confia nela; recomenda-lhe toda necessidade e todo projeto, tanto os pequenos quanto os grandes."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-07-blessed-herman-joseph-of-steinfeld.md Reflection, second sentence (Pictorial Lives, public domain); also the index's 04-07 reflection",
+      "subject": "St. Herman Joseph, canon of the Premonstratensian abbey of Steinfeld, half-length, in the all-white Premonstratensian habit: a white woollen tunic, a white scapular and a white shoulder-cape, bare-headed with his tonsure; kneeling on one knee at the left, he holds up a small red APPLE in both hands toward a Romanesque painted wooden statue of the Virgin and Child enthroned on a stone pedestal at the right, as the boy offered his apple to Our Lady's image in the church at Cologne. Around them, the round-arched Romanesque interior of St. Maria im Kapitol in Cologne, its pale stone piers and a curved apse lit by small arched windows, candles glowing at the pedestal, under warm, golden light. Childlike and trusting; the statue is a statue, not a living figure; no lettering.",
+      "face": "A Rhinelander of about twenty-five, visibly a young man and not a boy, CLEAN-SHAVEN, with a fair, fresh complexion and a SHORT, ROUND face under a prominent, ROUNDED, BOSSED forehead — a WIDE, low, flat nose bridge and a SMALL, slightly UPTURNED nose, very LARGE, wide-set, clear brown eyes under soft, high-arched brows, round, full cheeks, a small, soft rosebud mouth, a small, round chin; thick, dark-brown CURLY hair round the tonsure; the gaze trusting and loving, lifted to the image. The statue's face: a Romanesque carved face, long, calm and stylised, painted, with a gilt crown.",
+      "refs": [
+        "aloysius_gonzaga",
+        "anthony_padua",
+        "john_of_the_cross"
+      ],
+      "basis": "No likeness from life; van Dyck's 'Vision of the Blessed Hermann Joseph' (Wikipedia's lead image) shows him as a young, dark-haired canon in white. Wikipedia: his devotion at St. Maria im Kapitol, the apple, the white Premonstratensian habit, and the apple still left at his tomb; the church keeps a 'Hermann-Josef' Virgin with the apple of about 1180 (Wikipedia, St. Maria im Kapitol). The card shows him young, with van Dyck and the book's 'early death'; Wikipedia says he died in 1241 at about ninety. The round face with the bossed forehead is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hermann Joseph (confirmation of cult 1958; lead image: van Dyck)",
+          "url": "https://en.wikipedia.org/wiki/Hermann_Joseph"
+        },
+        {
+          "title": "Wikipedia (de), Hermann Joseph von Steinfeld (Heiligenstatus 11 August 1958)",
+          "url": "https://de.wikipedia.org/wiki/Hermann_Joseph_von_Steinfeld"
+        },
+        {
+          "title": "Wikipedia, St. Maria im Kapitol (Hermann-Josef Virgin with the apple, c. 1180)",
+          "url": "https://en.wikipedia.org/wiki/St._Maria_im_Kapitol"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-07-blessed-herman-joseph-of-steinfeld (chapter, public domain; no engraving)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-07-blessed-herman-joseph-of-steinfeld.md"
+        }
+      ],
+      "lifeChapter": "apr-07-blessed-herman-joseph-of-steinfeld",
+      "catalogMatch": "Blessed Herman Joseph of Steinfeld"
+    },
+    {
+      "id": "perpetuus",
+      "letter": "P",
+      "feast": {
+        "month": 4,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. Perpetuus",
+        "pt-BR": "São Perpétuo"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Tours",
+        "pt-BR": "Bispo de Tours"
+      },
+      "prayerExcerpt": {
+        "en-US": "Even when we cannot give, words of kindness are as a precious balm.",
+        "pt-BR": "Mesmo quando não podemos dar, as palavras de bondade são como um bálsamo precioso."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-08 reflection, the first clause of its last sentence, closed with a full stop (Pictorial Lives, public domain)",
+      "subject": "St. Perpetuus, Bishop of Tours, half-length, as a fifth-century Gallo-Roman bishop: a white tunic with narrow dark-red bands under a full, bell-shaped chasuble of deep OCHRE-GOLD wool, a white pallium-like stole, bare-headed; in his left hand a sealed parchment roll, his will making the poor his heirs, and on a cord about his neck a small gold cross with relics, the cross he left to his sister; his right hand opens in welcome toward a poor old woman in a grey shawl at the lower edge. Behind him, Tours on the Loire: the new timber-roofed basilica he built over the tomb of St. Martin, of pale stone with a small bell-cote, the broad, shining river with sandbanks and poplars, under a soft, silvery sky. Generous and gentle; no lettering.",
+      "face": "A Gallo-Roman of senatorial family, about sixty-five, with a pale, olive-tinged complexion and a LONG, OVAL face with HEAVY, HOODED eyelids that give the eyes a half-closed, gentle look — a broad, FLAT, low nose bridge widening to a broad nose, soft, sloping cheeks, a FULL, projecting LOWER LIP, a rounded, fleshy chin; thinning grey hair combed forward; a SHORT, close-trimmed grey beard following the jaw; the gaze mild and generous, down toward the poor woman.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "No likeness from life; the engraving on Wikipedia shows a mitred bishop in later dress. Wikipedia: of a senatorial family of the Auvergne, he built the basilica over St. Martin's tomb (consecrated 470–473) and left his wealth to the poor; the book gives his will, the poor as his heirs and the gold cross with relics for his sister Fidia Julia Perpetua. The heavy-lidded oval face with the full lower lip is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Perpetuus (lead image: engraving)",
+          "url": "https://en.wikipedia.org/wiki/Perpetuus"
+        },
+        {
+          "title": "Wikipedia, Basilica of St. Martin, Tours (first basilica, 5th century)",
+          "url": "https://en.wikipedia.org/wiki/Basilica_of_St._Martin,_Tours"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-08-perpetuus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-08-perpetuus.md"
+        }
+      ],
+      "lifeChapter": "apr-08-perpetuus",
+      "catalogMatch": "St. Perpetuus, Bishop"
+    },
+    {
+      "id": "mary_egypt",
+      "letter": "M",
+      "feast": {
+        "month": 4,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Mary of Egypt",
+        "pt-BR": "Santa Maria Egipcíaca"
+      },
+      "patronOf": {
+        "en-US": "Penitent of the desert",
+        "pt-BR": "Penitente do deserto"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us, too, learn from her not to be content with confessing and lamenting our sins, but to fly from what leads us to commit them.",
+        "pt-BR": "Aprendamos nós também com ela a não nos contentarmos com confessar e lamentar os nossos pecados, mas a fugir daquilo que nos leva a cometê-los."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-09-mary-of-egypt.md Reflection, second sentence (Pictorial Lives, public domain); also the index's 04-09 reflection",
+      "subject": "St. Mary of Egypt, the penitent of the desert beyond the Jordan, half-length, in old age: wrapped entirely, from the shoulders down and over her head, in the worn, dark-brown woollen mantle the monk Zosimus gave her, held closed at the breast with her left hand; in her right hand, three small round loaves of bread, her attribute. Behind her, the desert east of the Jordan: bare, tawny hills, a few tamarisks, the green thread of the river with reeds, and far off on the other bank, small, the monastery of St. John the Baptist, under a pale, clear evening sky with the first star. Serene and at peace; fully and modestly covered, no lettering.",
+      "face": "An Egyptian woman of great age, about seventy-five, burned a deep brown by the desert sun, lean and serene, with a LONG, NARROW face of strong, SCULPTED bone — a high, narrow forehead, very HIGH, PROMINENT cheekbones with deep HOLLOWS beneath, LARGE, dark, luminous, DEEP-SET eyes, straight dark-grey brows, a STRONG, LONG, STRAIGHT nose, a wide, closed, peaceful mouth, a LONG, firm chin; long white hair showing loose under the edge of the mantle; the gaze lowered, full of peace.",
+      "refs": [
+        "mary_magdalene",
+        "monica",
+        "rose_lima"
+      ],
+      "basis": "No likeness survives. Wikipedia: Eastern icons show her gaunt, elderly and emaciated, covered by her long hair or by Zosimus's mantle, often with the three loaves she bought before crossing the Jordan; the Ukrainian icon on Wikipedia shows her so. The book tells her conversion at the Holy Cross in Jerusalem, 'Pass over Jordan', and Zosimus. The card follows the Eastern type, as the book tells her old age in the desert, and keeps her fully covered. The long, sculpted face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Mary of Egypt (iconography; lead image: Ukrainian icon with her life)",
+          "url": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-09-mary-of-egypt (chapter, public domain; no engraving)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-09-mary-of-egypt.md"
+        }
+      ],
+      "lifeChapter": "apr-09-mary-of-egypt",
+      "catalogMatch": "St. Mary of Egypt"
+    },
+    {
+      "id": "john_almoner",
+      "letter": "J",
+      "feast": {
+        "month": 4,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. John the Almoner",
+        "pt-BR": "São João, o Esmoler"
+      },
+      "patronOf": {
+        "en-US": "Patriarch of Alexandria",
+        "pt-BR": "Patriarca de Alexandria"
+      },
+      "prayerExcerpt": {
+        "en-US": "What sacrifices can we make for the poor which will seem enough, when we reflect that mercy to them is our only means of repaying Jesus Christ, Who sacrificed His life for us?",
+        "pt-BR": "Que sacrifícios podemos fazer pelos pobres que pareçam suficientes, quando refletimos que a misericórdia para com eles é o nosso único meio de retribuir a Jesus Cristo, que sacrificou Sua vida por nós?"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-09-john-the-almoner.md Reflection, the whole of it (Pictorial Lives, public domain) (the index's 04-09 reflection is Mary of Egypt's)",
+      "subject": "St. John the Almoner, Patriarch of Alexandria, half-length, as a seventh-century Byzantine patriarch: a white sticharion under a full phelonion of deep PLUM-VIOLET silk and a white omophorion with large dark crosses over his shoulders; he sits on a plain stone bench before the church, as on the Wednesdays and Fridays when he heard the poor, and with his right hand drops coins into the cupped hands of a thin young mother holding a child at the lower edge, his 'lords', the poor; his left hand holds a small leather purse. Behind him, Alexandria: the harbour with a merchant ship under sail loaded with sacks of grain, and the tall, stepped Pharos lighthouse at the harbour mouth, white colonnades and palms, under a warm, bright Egyptian sky. Merciful and joyful; no lettering.",
+      "face": "A Cypriot Greek of about sixty with a warm, ruddy olive complexion and a WIDE, SOFT face — broad at the temples, FULL, rounded, rosy cheeks, a SHORT, straight nose with a ROUND, FLESHY tip, small, bright, CLOSE-SET, twinkling brown eyes deep in laughter creases, bushy white brows lifted at their inner ends, a small, smiling mouth; a bald crown with short white hair curling above the ears; a LONG, flowing, WAVY white beard to mid-breast, rounded at the end, undivided; the gaze merry and tender, down toward the mother and child.",
+      "refs": [
+        "nicholas",
+        "vincent_de_paul",
+        "athanasius"
+      ],
+      "basis": "No likeness from life. The Painter's Manual, among the holy bishops, gives 'John the Almsgiver, an old man with a long white beard', and the Venetian altarpiece of San Giovanni Elemosinario (Wikipedia's lead image) shows a white-bearded patriarch giving alms. Wikipedia and the book: widowed, made patriarch, the poor his 'lords', the seven churches become seventy, the merchant's grain ship carried to Britain. The wide, rosy face with close-set eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, John the Merciful (lead image: altar of San Giovanni Elemosinario)",
+          "url": "https://en.wikipedia.org/wiki/John_the_Merciful"
+        },
+        {
+          "title": "Wikipedia, Lighthouse of Alexandria",
+          "url": "https://en.wikipedia.org/wiki/Lighthouse_of_Alexandria"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the holy hierarchs, John the Almsgiver",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-09-john-the-almoner (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-09-john-the-almoner.md"
+        }
+      ],
+      "lifeChapter": "apr-09-john-the-almoner",
+      "catalogMatch": "St. John the Almoner"
+    },
+    {
+      "id": "bademus",
+      "letter": "B",
+      "feast": {
+        "month": 4,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Bademus",
+        "pt-BR": "São Bademo"
+      },
+      "patronOf": {
+        "en-US": "Abbot and martyr",
+        "pt-BR": "Abade e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "He triumphed over his torments by the patience and joy with which he suffered them for Christ.",
+        "pt-BR": "Triunfou sobre seus tormentos pela paciência e alegria com que os sofria por Cristo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-10-bademus.md, first paragraph, last sentence without its opening 'But' / 'Mas' (the day's reflection has no sentence short enough to stand alone) (Pictorial Lives, public domain)",
+      "subject": "St. Bademus, rich noble of Bethlapeta who founded a monastery and ruled it as abbot, half-length, in the dress of a Persian monk of the fourth century: a coarse black woollen habit and a black hood down on his shoulders, a plain wooden cross on a cord at his breast; he holds a green martyr's palm in his right hand and an open book of the Psalms in his left, as in the book's engraving where he kneels at his reading-desk. Behind him, the plain of Khuzistan at Bethlapeta: a small monastery of mud brick with a courtyard and date palms, fields of green barley, and the blue foothills of the Zagros far off, under a clear, luminous sky. Joyful and patient; no sword, no chains, no wounds, no lettering.",
+      "face": "A Persian of about fifty with a warm, light-brown complexion and a WIDE, HEAVY-JAWED face with SQUARE, fleshy cheeks — a strong, BROAD, STRAIGHT nose with FLARED nostrils, heavy-lidded, long almond eyes that TILT DOWN at the outer corners, thick, straight black brows set LOW, a full, wide, calm mouth; black hair cut short, streaked with grey; a THICK black beard shot with grey, cut ROUNDED at the chin; the gaze calm, joyful and inward.",
+      "refs": [
+        "benedict",
+        "moses_the_black",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image is the book's own engraving of him kneeling at a desk. Wikipedia and the book: a rich noble of Bethlapeta, founder and abbot of a monastery, imprisoned with seven monks under Shapur II and beheaded in 376. Bethlapeta is Gundeshapur in Khuzistan (Wikipedia). The wide, heavy-jawed face with down-tilted eyes is our choice, apart from `jonas_barachisius`, the other Persian martyrs.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bademus (lead image: engraving)",
+          "url": "https://en.wikipedia.org/wiki/Bademus"
+        },
+        {
+          "title": "Wikipedia, Gundeshapur (Syriac Beth Lapat, Bethlapeta)",
+          "url": "https://en.wikipedia.org/wiki/Gundeshapur"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, apr-10-bademus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/apr-10-bademus.md"
+        }
+      ],
+      "lifeChapter": "apr-10-bademus",
+      "catalogMatch": "St. Bademus, Martyr"
+    }
+  ]
+}
