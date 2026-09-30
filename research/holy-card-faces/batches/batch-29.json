@@ -1,0 +1,473 @@
+{
+  "batch": 29,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-29.md",
+  "cards": [
+    {
+      "id": "germanus_paris",
+      "letter": "G",
+      "feast": {
+        "month": 5,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. Germanus",
+        "pt-BR": "São Germano"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Paris",
+        "pt-BR": "Bispo de Paris"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"In the churches bless ye God the Lord. From Thy temple kings shall offer presents to Thee.\"",
+        "pt-BR": "\"Nas assembleias bendizei a Deus, o Senhor. Do Teu templo os reis Te oferecerão presentes.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-28-germanus.md Reflection, the whole of it, the book's verses of the Psalms (Pictorial Lives, public domain)",
+      "subject": "St. Germanus, Bishop of Paris, half-length, as an aged sixth-century Gallo-Roman bishop without a mitre: a white alb under a full, bell-shaped chasuble of deep blue, a narrow white pallium-like band over his shoulders, a plain wooden pastoral staff resting in the crook of his left arm; with his right hand he holds out a round loaf of bread toward the lower edge, where the small, lifted hands of a poor man reach up for it ('the Father of the Poor'). Behind him, Paris in the sixth century: the Seine with a flat boat, the walled island city with a few red roofs, and on the green meadows of the left bank the new stone basilica of St. Vincent with its bell-cote (the later Saint-Germain-des-Prés), under a soft, pearly morning sky. Fatherly, frugal and kind; no king, no lettering.",
+      "face": "A Gallo-Roman of Autun of about eighty, worn thin by penance, CLEAN-SHAVEN as in the old engraving, with a pale, finely wrinkled complexion and a LONG face whose LOWER JAW is HEAVY and PROTRUDES a little beyond the upper, the lower lip fuller and set forward (a slight underbite) — a flat, SLOPING forehead running back into a BALD crown with a thin fringe of fine white hair, a LONG, THIN, straight nose, SMALL, deep-set, pale-blue eyes under DROOPING white brows, HOLLOW cheeks with long smile lines, a long, strong, rounded chin; the gaze lowered kindly toward the poor man's hands.",
+      "refs": [
+        "nicholas",
+        "ambrose",
+        "vincent_de_paul"
+      ],
+      "basis": "The book tells a native of Autun, abbot of St. Symphorian's, made Bishop of Paris against his tears, whose house 'was perpetually crowded with the poor', who converted King Childebert and died in 576 at eighty; its engraving shows a bald, bearded old bishop at table with the poor. Wikipedia (c. 496–576) gives his early biography's title 'Father of the Poor' and his church of St. Vincent, later Saint-Germain-des-Prés; its lead image, an old engraving, shows a clean-shaven, mitred bishop with a book. The card keeps the engraving's clean-shaven age; the long face with the forward jaw is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Germain of Paris (lead image: engraving of St. Germanus)",
+          "url": "https://en.wikipedia.org/wiki/Germain_of_Paris"
+        },
+        {
+          "title": "Wikipedia, Abbey of Saint-Germain-des-Prés",
+          "url": "https://en.wikipedia.org/wiki/Saint-Germain-des-Prés_(abbey)"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-28-germanus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-28-germanus.md"
+        }
+      ],
+      "lifeChapter": "may-28-germanus",
+      "catalogMatch": "28 May · St. Germanus, Bishop"
+    },
+    {
+      "id": "cyril_caesarea",
+      "letter": "C",
+      "feast": {
+        "month": 5,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Cyril",
+        "pt-BR": "São Cirilo"
+      },
+      "patronOf": {
+        "en-US": "Boy martyr of Caesarea",
+        "pt-BR": "Menino mártir de Cesareia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Ask Our Lord to make all earthly joy insipid, and to fill you with the constant desire of heaven.",
+        "pt-BR": "Pedi a Nosso Senhor que torne insípida toda alegria terrena, e que vos encha do constante desejo do céu."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-29-cyril.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Cyril, the boy martyr of Caesarea in Cappadocia, half-length: a knee-length tunic of plain, undyed wool with a narrow brown border, belted with a cord, a short cloak of faded blue thrown back over one shoulder, barefoot like the boy turned out of his father's house; a martyr's palm in his right hand, his left hand laid open on his breast, his face lifted as one 'hastening to his home'. Behind him, Caesarea in Cappadocia under snow-streaked Mount Argaeus: a small Roman town of pale stone and flat roofs on a high, dry plain, poplars along a stream, the great cone of the mountain white against a clear, deep-blue sky with a band of gold above it. Joyful and eager; no fire, no judge, no father, no lettering.",
+      "face": "A Cappadocian Greek boy of about twelve, visibly a child, BEARDLESS, with a light-olive, sun-warmed complexion and a SQUARE, FLAT-PLANED face — a broad, flat forehead with a LEVEL hairline, a STRAIGHT nose with a HIGH bridge unusual in a child, DEEP-SET grey-green eyes under thin, LEVEL dark brows that nearly MEET, flat cheeks, a WIDE, thin-lipped mouth open in a glad smile, a firm, SQUARE little chin; thick, short, tousled dark-brown curls; the gaze lifted, eager and fearless.",
+      "refs": [
+        "aloysius_gonzaga",
+        "sebastian",
+        "agnes"
+      ],
+      "basis": "No likeness survives, and English Wikipedia has no article. The book tells a boy of Caesarea in Cappadocia in the third century who repeated the name of Christ, was beaten and turned out by his heathen father, refused the judge's offer of freedom ('I left my home gladly, for I have a greater and a better which is waiting for me') and went to the fire; its engraving shows the barefoot boy in a short tunic leaving his father's door. CatholicSaints.Info gives the same outline, with his death by beheading in 251. The square, flat-planed face is our choice.",
+      "sources": [
+        {
+          "title": "CatholicSaints.Info, Saint Cyril of Caesarea (saved as consult/batch-29/CyrilCSI.txt)",
+          "url": "https://catholicsaints.info/saint-cyril-of-caesarea/"
+        },
+        {
+          "title": "Wikipedia, Kayseri (Caesarea in Cappadocia, Mount Erciyes)",
+          "url": "https://en.wikipedia.org/wiki/Kayseri"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-29-cyril (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-29-cyril.md"
+        }
+      ],
+      "lifeChapter": "may-29-cyril",
+      "catalogMatch": "29 May · St. Cyril, Martyr"
+    },
+    {
+      "id": "felix_i",
+      "letter": "F",
+      "feast": {
+        "month": 5,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Felix I",
+        "pt-BR": "São Félix I"
+      },
+      "patronOf": {
+        "en-US": "Pope",
+        "pt-BR": "Papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "The example of Our Saviour and of all His saints ought to encourage us under all trials to suffer with patience and even with joy.",
+        "pt-BR": "O exemplo de Nosso Salvador e de todos os Seus santos deve encorajar-nos, em todas as provações, a sofrer com paciência e até com alegria."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-30-felix-i.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Felix I, Bishop of Rome, half-length, as a third-century pope: a white tunic and a full, bell-shaped chasuble of deep crimson, a narrow white pallium with small black crosses over his shoulders; in his left hand a rolled letter sealed with a small red seal, his letter on the unity of Christ's Person; his right hand raised in blessing. Behind him, the Via Appia outside Rome: the paved road between umbrella pines and cypresses, the low brick entrance to the catacomb of Callixtus in a grassy bank, the walls of Rome far off, under a warm evening sky of gold and rose. Grave and fatherly; no palm, no sword, no emperor, no lettering.",
+      "face": "A Roman of about sixty with a warm olive complexion and a BROAD, SHORT face whose width is in the FLARING, fleshy cheekbones — a LOW forehead crossed by one DEEP horizontal crease, thick, tight, grizzled CURLS growing low on it, LARGE, slightly PROTRUDING dark eyes under HIGH, thick, ARCHED brows that give a searching look, a SHORT, WIDE, straight nose with round nostrils, FULL, curving lips, a full, CURLY, rounded grey-black beard of medium length; the gaze direct and earnest.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "No likeness survives. The book tells a Roman by birth who succeeded Dionysius in 269, recourse to Aurelian against Paul of Samosata, and his martyrdom in 274; Wikipedia says he was buried in the catacomb of Callixtus and that the martyrdom is a later confusion with a namesake of the Via Aurelia (hence the patron line 'Pope'). The Italian Wikipedia's lead image, a papal portrait medallion of the kind in St. Paul's Outside the Walls, shows him with thick curly hair and a full curly beard; the card keeps the curls and beard, and the broad, short face with the prominent eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Felix I (burial at Callixtus; martyrdom a confusion of names)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Felix_I"
+        },
+        {
+          "title": "Wikipedia (it), Papa Felice I (lead image: papal portrait medallion)",
+          "url": "https://it.wikipedia.org/wiki/Papa_Felice_I"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-30-felix-i (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-30-felix-i.md"
+        }
+      ],
+      "lifeChapter": "may-30-felix-i",
+      "catalogMatch": "30 May · St. Felix I., Pope and Martyr"
+    },
+    {
+      "id": "petronilla",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 31
+      },
+      "name": {
+        "en-US": "St. Petronilla",
+        "pt-BR": "Santa Petronilha"
+      },
+      "patronOf": {
+        "en-US": "Virgin of Rome",
+        "pt-BR": "Virgem de Roma"
+      },
+      "prayerExcerpt": {
+        "en-US": "With the saints the great end for which they lived was always present to their minds, and they thought every moment lost in which they did not make some advances toward eternal bliss.",
+        "pt-BR": "Para os santos, o grande fim para o qual viviam estava sempre presente em suas mentes, e julgavam perdido todo momento em que não faziam algum avanço rumo à bem-aventurança eterna."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-31-petronilla.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Petronilla, a consecrated virgin of Rome in the age of the apostles, half-length: a long, full-sleeved dalmatic of pale ivory wool with two narrow purple bands (clavi) falling from the shoulders, as in the old catacomb paintings, and a light white veil over her hair and shoulders; a small, closed book of the Scriptures held against her breast in both hands, a sprig of white lilies laid across it. Behind her, the Via Ardeatina outside Rome: a grassy slope with the low, plain entrance of the catacomb of Domitilla, cypresses and umbrella pines, a small early church of brick on the rise, and the Alban hills blue in the distance under a clear, early-morning sky. Serene, recollected, luminous; no crown, no palm, no lettering.",
+      "face": "A Roman woman of about twenty with a fair olive complexion and a LONG, RECTANGULAR face with SOFT corners — a smooth forehead with the dark hair growing to a small WIDOW'S PEAK at its centre, a LONG, STRAIGHT nose, DEEP-SET, calm dark-brown eyes under LOW, STRAIGHT dark brows, flat cheeks, a SHORT upper lip over a small, full, closed mouth, a small, SQUARE chin; dark hair parted from the peak and drawn back under the veil; the gaze level and recollected, toward us.",
+      "refs": [
+        "agnes",
+        "cecilia",
+        "lucy"
+      ],
+      "basis": "No likeness survives. The book tells a holy virgin 'among the disciples of the apostles', said to be St. Peter's daughter though 'it seems not certain whether St. Petronilla was more than the spiritual daughter of that apostle', buried on the way to Ardea; its engraving shows a haloed young woman seated by a boat at the shore. Wikipedia says the kinship came from a misread inscription and that she was probably of the family of the Aurelii; her grave in the catacomb of Domitilla, with a painting of her receiving the deceased Veneranda into heaven, confirms the old cult. The card follows the catacomb dress and shows no kinship; the long, rectangular face with the widow's peak is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Petronilla (Aurelii; Domitilla catacomb; Veneranda painting)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Petronilla"
+        },
+        {
+          "title": "Wikipedia, Catacombs of Domitilla",
+          "url": "https://en.wikipedia.org/wiki/Catacombs_of_Domitilla"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-31-petronilla (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-31-petronilla.md"
+        }
+      ],
+      "lifeChapter": "may-31-petronilla",
+      "catalogMatch": "31 May · St. Petronilla, Virgin"
+    },
+    {
+      "id": "pamphilus",
+      "letter": "P",
+      "feast": {
+        "month": 6,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Pamphilus",
+        "pt-BR": "São Pânfilo"
+      },
+      "patronOf": {
+        "en-US": "Priest and martyr",
+        "pt-BR": "Sacerdote e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "A cloud of witnesses, a noble army of martyrs, teach us by their constancy to suffer wrong with patience, and strenuously to resist evil.",
+        "pt-BR": "Uma nuvem de testemunhas, um nobre exército de mártires, ensinam-nos por sua constância a sofrer a injustiça com paciência e a resistir vigorosamente ao mal."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-01-pamphilus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Pamphilus, priest and scholar of Caesarea in Palestine, half-length, as a learned man of about the year 300: a long tunic of undyed linen and a plain dark-grey pallium draped over his left shoulder; in his hands a large, open parchment codex of the Scriptures in neat columns, a reed pen held between the fingers of his right hand, a martyr's palm leaning against the shelf beside him. Behind him, his library at Caesarea: wooden pigeon-hole shelves stacked with scrolls and codices, an ink-pot on a stone ledge, and through an arched window Caesarea Maritima on the sea: the white harbour mole, a lighthouse and a ship at anchor on a bright, blue Mediterranean under a clear sky. Studious, humble and steadfast; no hooks, no fire, no governor, no lettering.",
+      "face": "A Phoenician of Berytus of about fifty with a warm, olive-brown Levantine complexion and a LONG face, NARROW in the jaw, whose chin thrusts FORWARD under the beard, beneath a TALL, BULGING scholar's forehead lined with three horizontal creases — a LARGE, HIGH-BRIDGED, arched nose; small, CLOSE-SET, keen dark eyes NARROWED in a scholar's short-sighted squint, crow's-feet at their corners; DEEPLY HOLLOW cheeks; thin, firm lips; short black hair greying and RECEDING at the temples; a SMALL, close-trimmed black beard and moustache, as the Painter's Manual has it; the gaze lifted from the page toward us.",
+      "refs": [
+        "jerome",
+        "thomas_aquinas",
+        "augustine"
+      ],
+      "basis": "The Painter's Manual (Hermeneia) gives 'Pamphilus, a young man with a small beard'; Wikipedia's lead image, a Menologion miniature, shows the martyrdom of him and his companions. The book and Wikipedia tell the same life: a rich and honourable family of Berytus, a magistrate who became the pupil of Pierius at Alexandria, the great library he gave the church of Caesarea, the Bible he copied with his own hand, torture under Urbanus in 307, two years in prison and death under Firmilian (Wikipedia: beheaded, February 309, a priest). The small beard follows the Hermeneia; the age follows his career, and the bulging forehead, forward chin and short-sighted eyes are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pamphilus of Caesarea (lead image: Menologion miniature)",
+          "url": "https://en.wikipedia.org/wiki/Pamphilus_of_Caesarea"
+        },
+        {
+          "title": "Wikipedia, Caesarea Maritima",
+          "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), Pamphilus",
+          "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-01-pamphilus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-01-pamphilus.md"
+        }
+      ],
+      "lifeChapter": "jun-01-pamphilus",
+      "catalogMatch": "1 Jun · St. Pamphilus, Martyr"
+    },
+    {
+      "id": "pothinus_blandina",
+      "letter": "P",
+      "feast": {
+        "month": 6,
+        "day": 2
+      },
+      "name": {
+        "en-US": "Sts. Pothinus, Blandina and Companions",
+        "pt-BR": "São Potino, Santa Blandina e Companheiros"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Lyons",
+        "pt-BR": "Mártires de Lião"
+      },
+      "prayerExcerpt": {
+        "en-US": "In early times the Christians were called the children of joy. Let us seek the joy of the Holy Spirit to sweeten suffering, to temper earthly delight, till we enter into the joy of Our Lord.",
+        "pt-BR": "Nos tempos primitivos, os cristãos eram chamados filhos da alegria. Busquemos a alegria do Espírito Santo para adoçar o sofrimento, para temperar o deleite terreno, até que entremos na alegria de Nosso Senhor."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-02-sts-pothinus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "The martyrs of Lyons of the year 177, four figures half-length and close together, each holding a martyr's palm. POTHINUS (centre left, in front): the aged first bishop of Lyons, in a white tunic and a full, bell-shaped chasuble of deep red with a plain white pallium, a small book of the Gospels held to his breast. BLANDINA (centre right, in front): a young slave woman, small and slight, in a plain tunic of coarse, undyed brown wool and a pale linen head-cloth, her hands crossed on her breast over her palm, her face lifted with a quiet joy. Behind them, their heads between and above theirs: SANCTUS (left), the deacon of Vienne, in a white dalmatic; ATTALUS (right), a citizen of Pergamum, in a white Roman toga. Behind the group, Lugdunum at the meeting of the Rhône and the Saône: the Roman town of red roofs, temples and an aqueduct on the steep hill of Fourvière, the two rivers joining below, under a luminous, gold-streaked sky. Joyful and steadfast; no beasts, no amphitheatre, no stake, no gridiron, no soldiers, no lettering.",
+      "face": "Four clearly different people. POTHINUS: a Greek of Asia of about ninety, frail, with a pale, papery complexion and a face shaped like an INVERTED TRIANGLE — a very WIDE, BALD, domed head and broad temples narrowing sharply to a SMALL, pointed chin; a LARGE, BONY, BEAKED nose; small eyes sunk deep under overhanging white brows; hollow temples and cheeks; a THIN, WISPY, silky white beard falling to the breast; the gaze gentle and far-off. BLANDINA: a young woman of about twenty, small and slight, with a fair, lightly freckled complexion and a ROUND-CHEEKED, PLAIN, open face — a LOW, broad forehead, a SHORT, SNUB nose, small, dark, DEEP-SET, shining eyes, a WIDE mouth in a small, glad smile, a full, ROUND chin; brown hair under the head-cloth; the gaze lifted upward. SANCTUS: a man of about thirty-five, CLEAN-SHAVEN, with a HEAVY, SQUARE face — a broad, FLATTENED nose, small, level grey eyes, a wide jaw and a deep CLEFT in the chin; close-cropped black hair; the gaze steady. ATTALUS: a man of about fifty with a TALL, NARROW, aristocratic face — HIGH, sharp cheekbones, a long AQUILINE nose, thin lips, a close-trimmed grey beard and short grey hair; the gaze grave and proud.",
+      "refs": [
+        "philip_james",
+        "agnes",
+        "ambrose"
+      ],
+      "basis": "No likenesses survive. The book, after the letter of the churches of Lyons and Vienne in Eusebius, tells the persecution of 177 under Pothinus, Blandina the slave whom her mistress feared too weak and who wearied her torturers, the deacon Sanctus of Vienne, and the confessors in prison; its engraving shows the old bishop dying in chains in a cell. Wikipedia: Pothinus about ninety, probably of Smyrna, a disciple of Polycarp, died of his ill-treatment in prison; Attalus a Roman citizen of Pergamum; Blandina a slave. The faces are our choice, the bishop's great age from the letter.",
+      "sources": [
+        {
+          "title": "Wikipedia, Persecution in Lyon (lead image: Amphitheatre of the Three Gauls)",
+          "url": "https://en.wikipedia.org/wiki/Martyrs_of_Lyon"
+        },
+        {
+          "title": "Wikipedia, Pothinus of Lyon (lead image: stained glass of St. Pothin)",
+          "url": "https://en.wikipedia.org/wiki/Pothinus_of_Lyon"
+        },
+        {
+          "title": "Wikipedia, Blandina",
+          "url": "https://en.wikipedia.org/wiki/Blandina"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-02-sts-pothinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-02-sts-pothinus.md"
+        }
+      ],
+      "lifeChapter": "jun-02-sts-pothinus",
+      "catalogMatch": "2 Jun · Sts. Pothinus, Bishop"
+    },
+    {
+      "id": "clotilda",
+      "letter": "C",
+      "feast": {
+        "month": 6,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Clotilda",
+        "pt-BR": "Santa Clotilde"
+      },
+      "patronOf": {
+        "en-US": "Queen of the Franks",
+        "pt-BR": "Rainha dos francos"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Peter defines the mission of the Christian woman; to win the heart of those who believe not the word.",
+        "pt-BR": "São Pedro define a missão da mulher cristã: ganhar o coração daqueles que não creem na palavra."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-03-clotilda.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Clotilda, Queen of the Franks, half-length, as a widowed queen of the sixth century given to prayer: a long gown of deep violet wool with a gold-embroidered border at the neck, a white widow's veil and wimple, and over the veil a slender, plain gold circlet, not a tall crown; her hands joined in prayer, a small alms purse hanging from her girdle. Behind her, Tours on the Loire: the broad, shining river with a stone bridge, the walled town and the tall early basilica over the tomb of St. Martin, where she spent her widowhood, poplars along the bank, under a gentle, silvery evening sky. Recollected and gentle; no king, no army, no lettering.",
+      "face": "A Burgundian queen of about sixty-five with a fair, pale complexion softened by age and a LEAN, LONG face — HIGH, ROUNDED cheekbones with SOFT HOLLOWS beneath them, a smooth, broad forehead, a long, straight, fine nose, LARGE grey eyes whose outer corners DROOP gently, as in sorrow, under faint, arched fair-grey brows, a SMALL, firm, closed mouth, a softly rounded chin with a first slackness beneath it; grey-blonde hair hidden under the veil; the gaze lowered in prayer.",
+      "refs": [
+        "elizabeth_hungary",
+        "monica",
+        "bridget_sweden"
+      ],
+      "basis": "No likeness survives. The book tells the Burgundian princess, niece of Gondebald, brought up a Catholic among Arians, wife of Clovis, whose conversion in 496 was 'the fruit of our Saint's prayers', the church of Sts. Peter and Paul in Paris, and her widowhood in prayer and alms till 545; its engraving shows her crowned, standing by the seated king. Wikipedia: c. 474–545, a widow thirty-four years, who spent the rest of her life near the tomb of St. Martin at Tours and died there; art shows her 'as a praying queen and as a nun'. Its lead image, Delpech's lithograph, gives her a crown over a veil. The card shows the praying widow-queen; the lean face with the drooping eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Clotilde (lead image: Delpech lithograph)",
+          "url": "https://en.wikipedia.org/wiki/Clotilde"
+        },
+        {
+          "title": "Wikipedia, Clovis I",
+          "url": "https://en.wikipedia.org/wiki/Clovis_I"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-03-clotilda (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-03-clotilda.md"
+        }
+      ],
+      "lifeChapter": "jun-03-clotilda",
+      "catalogMatch": "3 Jun · St. Clotilda, Queen"
+    },
+    {
+      "id": "francis_caracciolo",
+      "letter": "F",
+      "feast": {
+        "month": 6,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Francis Caracciolo",
+        "pt-BR": "São Francisco Caracciolo"
+      },
+      "patronOf": {
+        "en-US": "Preacher of Divine Love",
+        "pt-BR": "Pregador do Divino Amor"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is for men, and not for angels, that our blessed Lord resides upon the altar.",
+        "pt-BR": "É pelos homens, e não pelos anjos, que Nosso bendito Senhor reside sobre o altar."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-04-francis-caracciolo.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Francis Caracciolo, founder of the Clerics Regular Minor, half-length: the plain black cassock and black mantle of a clerk regular, a white collar-band; his right hand laid on his heart, his left hand resting on an open book of the rule; before him, above and to one side, a golden sunburst monstrance with the white Host shining softly on a cloud, toward which his face is turned. Behind him, a quiet side chapel in Naples: a small altar with candles and a tabernacle veiled in white, a plain arched window, and through it the bay of Naples with Vesuvius faint in the haze, under a warm afternoon light. Ardent and adoring; no bishop's mitre, no rays from his face, no lettering.",
+      "face": "A Neapolitan noble of about forty-four with a warm, light-olive complexion and a LONG, SOFT-contoured face — a HIGH forehead made higher by a RECEDING hairline, HEAVY, PUFFY upper eyelids over large, dark eyes lifted toward the Host, a LONG nose with a ROUNDED, FLESHY tip, full, softly rounded cheeks, a FULL mouth slightly parted, a soft, rounded jaw; short, dark-brown hair; a thin dark moustache and a SHORT, dark, rounded beard close along the jaw; the gaze upturned, rapt.",
+      "refs": [
+        "aloysius_gonzaga",
+        "philip_neri",
+        "alphonsus_liguori"
+      ],
+      "basis": "The Italian Wikipedia's lead image, an old engraving, shows him adoring the monstrance with his hand on his heart: a long face with a receding hairline, heavy-lidded upturned eyes, a long nose, a moustache and short beard; the English article's image shows him in a black cassock sweeping a sickroom. The book tells the Caracciolo of the kingdom of Naples cured of leprosy, the Order of Clerks Regular with its perpetual adoration and its fourth vow against dignities, the 'Preacher of Divine Love' who prayed before the tabernacle, and his death in 1608 at forty-four; Wikipedia gives 1563–1608, canonized 1807, with the monstrance and episcopal insignia at his feet as his attributes. The face follows the engraving.",
+      "sources": [
+        {
+          "title": "Wikipedia, Francis Caracciolo (lead image: engraving, sweeping)",
+          "url": "https://en.wikipedia.org/wiki/Francesco_Caracciolo_(saint)"
+        },
+        {
+          "title": "Wikipedia (it), Francesco Caracciolo (santo) (lead image: engraving before the monstrance; iconography)",
+          "url": "https://it.wikipedia.org/wiki/Francesco_Caracciolo_(santo)"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-04-francis-caracciolo (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-04-francis-caracciolo.md"
+        }
+      ],
+      "lifeChapter": "jun-04-francis-caracciolo",
+      "catalogMatch": "4 Jun · St. Francis Caracciolo"
+    },
+    {
+      "id": "robert_newminster",
+      "letter": "R",
+      "feast": {
+        "month": 6,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Robert of Newminster",
+        "pt-BR": "São Roberto de Newminster"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Newminster",
+        "pt-BR": "Abade de Newminster"
+      },
+      "prayerExcerpt": {
+        "en-US": "Reason and authority prove that virtue ought to be practised. But facts alone prove that it is practised; and this is why examples have more power to move our souls, and why our individual actions are of such fearful importance for others as well as for ourselves.",
+        "pt-BR": "A razão e a autoridade provam que a virtude deve ser praticada. Mas só os fatos provam que ela é praticada; e é por isso que os exemplos têm maior poder para mover as nossas almas, e por que as nossas ações individuais são de tão temível importância para os outros, tanto quanto para nós mesmos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-07-robert-of-newminster.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Robert, first abbot of Newminster, half-length, as a Cistercian of the twelfth century: the white cowl of undyed wool with wide, deep sleeves over a white habit, a black scapular just showing at the neck, the monastic tonsure; a plain wooden abbot's staff in his left hand; in his right hand, held a little forward, a plain wooden plate with a loaf of bread sweetened with honey, the food he sent untouched to the poor at the gate. Behind him, Newminster in Northumberland: the pale stone church and cloister of the new abbey in the green valley of the Wansbeck, woods on the slopes and a stone bridge over the river, under a soft, grey-and-gold northern sky. Gentle, abstinent and fatherly; no angel, no lettering.",
+      "face": "A Yorkshireman of about fifty-five, CLEAN-SHAVEN, with a fair, weathered, lightly ruddy complexion and a face that TAPERS from a WIDE forehead and broad temples under the tonsure to a SMALL, ROUND, DIMPLED chin — a SHORT, straight nose with a small BUMP on the bridge, WIDE-SPACED, clear grey eyes with deep crow's-feet, level, sandy-grey brows, flat cheeks, a WIDE, thin-lipped, gentle mouth with a LONG upper lip; a narrow ring of sandy-grey hair around the tonsure; the gaze mild and merciful, toward us.",
+      "refs": [
+        "bernard_clairvaux",
+        "benedict",
+        "bonaventure"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image, a Baroque pulpit figure at Baumgartenberg, is not clearly of him and was not used. The book tells a monk of Whitby who joined the monks driven from St. Mary's at York, the hut by the Skell that became Fountains, Newminster founded in 1137 with Robert as abbot, the honeyed bread he sent to the poor at the gate, and his death in 1159; the chapter has no engraving. Wikipedia: born at Gargrave, 'devout, prayerful, and gentle', 'merciful in his judgment of others'; he is shown as an abbot. The tapering face with the dimpled chin is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Robert of Newminster",
+          "url": "https://en.wikipedia.org/wiki/Robert_of_Newminster"
+        },
+        {
+          "title": "Wikipedia, Newminster Abbey",
+          "url": "https://en.wikipedia.org/wiki/Newminster_Abbey"
+        },
+        {
+          "title": "Wikipedia, Fountains Abbey",
+          "url": "https://en.wikipedia.org/wiki/Fountains_Abbey"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-07-robert-of-newminster (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-07-robert-of-newminster.md"
+        }
+      ],
+      "lifeChapter": "jun-07-robert-of-newminster",
+      "catalogMatch": "7 Jun · St. Robert of Newminster"
+    },
+    {
+      "id": "claude_besancon",
+      "letter": "C",
+      "feast": {
+        "month": 6,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Claude",
+        "pt-BR": "São Cláudio"
+      },
+      "patronOf": {
+        "en-US": "Archbishop and abbot",
+        "pt-BR": "Arcebispo e abade"
+      },
+      "prayerExcerpt": {
+        "en-US": "Fearing the obligations of that charge, he fled and hid himself, but was discovered and compelled to take it upon him.",
+        "pt-BR": "Temendo as obrigações daquele encargo, fugiu e escondeu-se, mas foi descoberto e compelido a tomá-lo sobre si."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-07-claude.md, first paragraph, on his election to Besançon; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Claude, Archbishop of Besançon who became a monk and abbot of St. Oyend in the Jura, half-length, in the black Benedictine habit and cowl with the hood fallen back; an abbot's crozier of plain dark wood with a simple curled head in his left hand; in his right hand, held against his breast, an open Bible; a bishop's white mitre set down on a stone ledge at his side, the dignity he laid aside. Behind him, the Jura: the narrow, deeply wooded valley of Condat where two mountain streams meet, the stone church and cloister of the abbey among fir forests, limestone cliffs above, under a clear, cool mountain sky. Humble, silent and serene; no lettering.",
+      "face": "A Burgundian of great age, about ninety, CLEAN-SHAVEN as in the old glass, with a fair, weathered complexion and a SHORT, WIDE, rounded-square face — a broad, low, lined forehead running into a BALD crown with a thin white fringe, a FLAT, SNUB nose, small, bright, deep-set blue eyes in a web of fine wrinkles, sparse white brows, broad, flat cheeks, a WIDE, thin-lipped mouth drawn slightly inward with age, a soft, loose fold beneath the chin; the gaze peaceful and kindly, a little downward.",
+      "refs": [
+        "benedict",
+        "anthony_abbot",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives. The book tells a native of Salins, the model of the clergy of Besançon, chosen archbishop about 683 after hiding to escape it, resigning after seven years to take the habit at St. Oyend (Condat) in 690, compelled to be its abbot, and his death in 703; its engraving shows a haloed old man with a staff at a rocky hermitage. Wikipedia: c. 607–696/699, abbot of Condat (the later town of Saint-Claude) and bishop of Besançon, the chronology of his Life disputed. Its images, a stained-glass window and a painted rondel with the mitre at his feet, show him clean-shaven; the short, wide, snub-nosed face is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Claudius of Besançon (lead image: stained glass, Saint-Nicolas-de-Port)",
+          "url": "https://en.wikipedia.org/wiki/Claudius_of_Besançon"
+        },
+        {
+          "title": "Wikipedia (fr), Claude de Besançon (lead image: rondel of St. Claude, mitre at his feet)",
+          "url": "https://fr.wikipedia.org/wiki/Claude_de_Besançon"
+        },
+        {
+          "title": "Wikipedia, Saint-Claude, Jura",
+          "url": "https://en.wikipedia.org/wiki/Saint-Claude,_Jura"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, jun-07-claude (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/jun-07-claude.md"
+        }
+      ],
+      "lifeChapter": "jun-07-claude",
+      "catalogMatch": "7 Jun · St. Claude, Archbishop"
+    }
+  ]
+}

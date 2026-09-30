@@ -8,6 +8,9 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Follow the current Roman Martyrology for titles?** Pope Marcellinus (26 Apr): the 1969 reform removed his feast and the Martyrology no longer names him. Anicetus (17 Apr): "Pope and Martyr" in the book, martyrdom without historical basis. Soter (22 Apr): "Martyr" dropped per the 1969 reform. [Soter drops "Martyr"; Anicetus keeps it; Marcellinus is kept as "Pope" with no palm. If yes: Marcellinus goes, Anicetus loses "Martyr".] — `dossiers/batch-26.md`, `batch-27.md`
 - [ ] **John Nepomucene (16 May).** The book's confession-secret story is a 15th-century invention; he was killed in 1393 in the king–archbishop dispute. The cult stands (canonized 1729). [Kept, patron line "Priest and martyr".] — `dossiers/batch-28.md`
 - [ ] **Vitalis (28 Apr) and Venantius (18 May)** rest on doubtful Acts but keep their cults. [Both kept, cards show only what is secure.] — `dossiers/batch-27.md`, `batch-28.md`
+- [ ] **Felix I (30 May):** his martyrdom is a later confusion with another Felix. [Kept as "Pope", no palm; if dropped, St. Medard comes in.] — `dossiers/batch-29.md`
+- [ ] **Petronilla (31 May):** her being St. Peter's daughter is legend (the book doubts it too). [Kept; card shows no link to Peter.] — `dossiers/batch-29.md`
+- [ ] **Cyril of Caesarea (29 May):** no source independent of the book; accounts disagree on fire vs beheading. [Kept; card shows neither.] — `dossiers/batch-29.md`
 - [ ] **The Consecration card** (test drawing) shows the priest ad orientem. Is that the depiction you want? [Undecided.]
 
 ## Portrayal
@@ -25,9 +28,12 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **en-US spellings:** "Nepomucene" (book: "Nepomucen"); the book's "Catharine" and "Cunegundes" kept. [As stated.]
 - [ ] **Place names added:** "St. Gregory of Langres", "St. William of Bourges" (book: "St. Gregory, Bishop", "St. William, Archbishop"). [Added.] — `dossiers/batch-19.md`
 
+- [ ] **Lyons martyrs (2 Jun):** "Sts. Pothinus, Blandina and Companions" / "São Potino, Santa Blandina e Companheiros" instead of the book's full line. [Shortened.] — `dossiers/batch-29.md`
+- [ ] **Pamphilus (1 Jun):** patron line "Priest and martyr" from Wikipedia; the book doesn't call him a priest. [Kept.]
+
 ## Excerpts and reflections
 
-- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny.
+- [ ] **Excerpts only from the chapter's Reflection?** Where a chapter has no Reflection (or no clause of it stands alone), the excerpt is a verbatim sentence from the chapter or the saint's own words. [Chapter text allowed.] Cards with no Reflection at all show none: Gregory of Langres, Marcella, Leander, Romanus & Lupicinus, David, Euphrasia, Zachary, Victorian, Hegesippus, Julius, Soter, Leonides, Hugh of Cluny, Claude of Besançon.
 - [ ] **Marcella (31 Jan):** excerpt from St. Jerome, Letter 127, with our own pt-BR rendering. [Kept.] — `dossiers/batch-20.md`
 - [ ] **Pope Marcellinus shares a chapter with Cletus,** so both cards show the same reflection (which names neither). [Shared.] — `dossiers/batch-27.md`
 
