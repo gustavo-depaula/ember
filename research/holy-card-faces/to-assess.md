@@ -56,6 +56,12 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Devasahayam (14 Jan):** no recorded words; excerpt is the Common of Martyrs communion antiphon. [Kept.]
 - [ ] **Excerpts rendered by us** from Italian, French and Spanish originals for these saints. [Our rendering, source cited.]
 
+- [ ] **Damascus and Compiègne group cards** show three figures each (Manuel Ruiz with the Massabki brothers; the prioress, Sister Constance, Sister Charlotte). No likeness survives; faces from icons and tradition, the brothers' ages set by us. [As described.] — `dossiers/batch-53.md`
+- [ ] **Russolillo (2 Aug)** shown at about forty from his young-priest portraits, not the late round smiling face in glasses (which would repeat Escrivá). [Younger.]
+- [ ] **Rubatto (6 Aug):** excerpt "We are servants of the poor…" exists only in the Latin of the decree; alternative "Be the sisters of the people" (Vatican News only). [Latin-sourced, our rendering.]
+- [ ] **Peter To Rot (7 Jul):** laplap and village church are our choice (his photo shows only a white shirt). [Kept.]
+- [ ] **Maloyan (11 Jun):** his words rendered by us from the Italian rather than using the vatican.va English, so no Vatican translation enters the data. [Our rendering.]
+
 ## Fixes to existing data
 
 - [ ] **Formulary typos:** "look with kindness o us" in `sanctorale.04-20.africa` (en-US collect); "Deus1" in the pt-BR collect of Marcellinus & Peter. Fix? [Not fixed.]

@@ -1,0 +1,455 @@
+{
+  "batch": 53,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-53.md",
+  "cards": [
+    {
+      "id": "luigi_maria_palazzolo",
+      "letter": "L",
+      "feast": {
+        "month": 5,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Luigi Maria Palazzolo",
+        "pt-BR": "São Luís Maria Palazzolo"
+      },
+      "patronOf": {
+        "en-US": "Priest, father of the poor",
+        "pt-BR": "Sacerdote, pai dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Where others cannot reach, I try to do something myself, as best I can.\"",
+        "pt-BR": "\"Onde os outros não podem chegar, procuro fazer alguma coisa eu mesmo, como posso.\""
+      },
+      "excerptSource": "His saying «Io cerco e raccolgo il rifiuto di tutti gli altri… ma dove altri non può giungere, cerco di fare qualcosa io, così come posso», in the Dicastery's biography (also on the Istituto Palazzolo's home page); the last clause, our rendering (he died in 1886)",
+      "subject": "St. Luigi Maria Palazzolo, priest of Bergamo and founder of the Sisters of the Poor (Suore delle Poverelle) for abandoned girls, half-length in a black cassock with a narrow white collar and a black four-cornered biretta, as in his portraits; in his right hand, held against his breast, a small crucifix, as in the Dicastery's portrait; his left hand rests on the shoulder of a little poor girl of about seven in a plain brown dress and a faded shawl, who stands close at his side and looks up at him. Behind him, Bergamo's Città Alta on its hill: the Venetian walls, the domes of Santa Maria Maggiore and the Colleoni Chapel, the tall Campanone tower, and the green foothills of the Alps beyond under a soft evening sky. Fatherly and humble; no lettering.",
+      "face": "A priest of Bergamo of about fifty-five, clean-shaven, with a fair complexion and a BROAD, HEAVY face that WIDENS toward a full jaw with soft JOWLS — a high forehead, short grey-brown hair RECEDING under the biretta and cropped close at the temples, a LONG, straight nose with a thick, ROUNDED tip, HEAVY upper lids over small grey eyes that glance a little to one side, full cheeks, a WIDE mouth whose corners turn DOWN in repose, softened by a slight, kindly smile; the gaze gentle and shrewd. Not the round, twinkling, broadly smiling face of john_xxiii. The girl: a thin, oval little face, dark hair tied back, large brown eyes.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "alphonsus_liguori"
+      ],
+      "basis": "His painted portrait from life (19th century, Istituto Palazzolo, on Wikimedia Commons) and the Dicastery's portrait with the crucifix agree: a broad, heavy face widening to the jaw, receding grey-brown hair under a biretta, a long nose with a rounded tip, heavy lids over sideways-glancing eyes and a wide mouth turned down at the corners. The girl is for the orphans and abandoned girls his Sisters of the Poor took in.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Luigi Palazzolo.png (19th-century portrait, Istituto Palazzolo)",
+          "url": "https://commons.wikimedia.org/wiki/File:Luigi_Palazzolo.png"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Luigi Maria Palazzolo (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/luigi-maria-palazzolo.html"
+        },
+        {
+          "title": "Istituto Palazzolo (his saying; the foundation of 22 May 1869)",
+          "url": "https://www.istitutopalazzolo.it/"
+        }
+      ],
+      "catalogMatch": "St. Luigi Maria Palazzolo"
+    },
+    {
+      "id": "giovanni_battista_scalabrini",
+      "letter": "G",
+      "feast": {
+        "month": 6,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Giovanni Battista Scalabrini",
+        "pt-BR": "São João Batista Scalabrini"
+      },
+      "patronOf": {
+        "en-US": "Bishop, father of migrants",
+        "pt-BR": "Bispo, pai dos migrantes"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Sent first of all to the poor and the most unhappy, I will suffer with them, working above all to help and to evangelize the poor.\"",
+        "pt-BR": "\"Enviado antes de tudo aos pobres e aos mais infelizes, sofrerei com eles, empenhando-me sobretudo em socorrer e evangelizar os pobres.\""
+      },
+      "excerptSource": "His first pastoral letter to the diocese of Piacenza (1876), «Inviato in prima ai poveri ed ai più infelici che traggono miseramente la vita nella desolazione, soffrirò con essi, dando opera soprattutto a sovvenire e evangelizzare i poveri», as the Dicastery's biography quotes it; shortened by the relative clause, our rendering (he died in 1905)",
+      "subject": "St. Giovanni Battista Scalabrini, Bishop of Piacenza, founder of the missionaries and sisters for Italian emigrants, half-length in a bishop's black cassock piped and buttoned in purple, a purple sash, a purple zucchetto and a gold pectoral cross on a chain, as in his photographs; his right hand raised in blessing, his left holding a small crucifix against his breast. Behind him, Piacenza: the Romanesque front and tall bell tower of the cathedral, the roofs of the city and the broad river Po; on the road below, very small, a family of emigrants with bundles and a trunk setting out. Fatherly and resolute; no lettering.",
+      "face": "A bishop of about sixty, clean-shaven, with a fair complexion and a LONG, RECTANGULAR face ending in a strong, SQUARE chin — a HIGH forehead, short grey hair RECEDING at the temples and brushed straight back under the zucchetto, dark, STRAIGHT, level brows, darker than the hair, over deep-set, dark, intent eyes, a LONG, straight, STRONG nose, flat cheeks with firm lines from nose to mouth, a WIDE, thin-lipped mouth set in a faint, resolute smile; the gaze direct and steady. Not the broad, silver-haired, smiling pius_x, nor the lean, white-haired, broadly smiling giuseppe_allamano.",
+      "refs": [
+        "charles_borromeo",
+        "alphonsus_liguori",
+        "ambrose"
+      ],
+      "basis": "His photographs as bishop (Wikimedia Commons; the Dicastery's portrait; a seated cabinet photograph on Commons): a long, rectangular, clean-shaven face with a square chin, grey hair receding and brushed back, straight dark brows over deep-set eyes, a long, strong nose and a wide, thin mouth. His founding of the emigrant missions began, by his own account, with the sight of emigrants crowding Milan station.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Giovanni Battista Scalabrini.jpg (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Scalabrini.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Gioan Baotixita Scalabrini.jpg (seated photograph as bishop)",
+          "url": "https://commons.wikimedia.org/wiki/File:Gioan_Baotixita_Scalabrini.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Giovanni Battista Scalabrini (biography and portrait; the pastoral letter of 1876)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-battista-scalabrini.html"
+        }
+      ],
+      "catalogMatch": "St. Giovanni Battista Scalabrini"
+    },
+    {
+      "id": "ignatius_maloyan",
+      "letter": "I",
+      "feast": {
+        "month": 6,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Ignatius Maloyan",
+        "pt-BR": "Santo Inácio Maloyan"
+      },
+      "patronOf": {
+        "en-US": "Archbishop and martyr",
+        "pt-BR": "Arcebispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"God is not pleased that I should deny Jesus my Saviour. To shed my blood for my faith is the most ardent desire of my heart.\"",
+        "pt-BR": "\"Não agrada a Deus que eu renegue Jesus, meu Salvador. Derramar o meu sangue pela minha fé é o desejo mais vivo do meu coração.\""
+      },
+      "excerptSource": "His answer to those who pressed him to deny the faith, as John Paul II quoted it at his beatification (homily of 7 October 2001; Italian on the Dicastery's page, «A Dio non piace che io rinneghi Gesù mio Salvatore. Versare il mio sangue a favore della mia fede è il più vivo desiderio del mio cuore»); en-US and pt-BR our renderings from the Italian (he died in 1915), so no Vatican translation enters the data",
+      "subject": "St. Ignatius Choukrallah Maloyan, Armenian Catholic Archbishop of Mardin, martyred in 1915, half-length in the dress of his photograph of 1911: a black cassock and over the head the black, pointed Armenian bishop's hood (veghar) falling in folds over the shoulders, a gold pectoral cross on a chain; he holds a small Gospel book bound in dark red against his breast with both hands, and a green martyr's palm. Behind him, Mardin: honey-coloured stone houses, churches and domes terraced up a steep hillside under the old citadel on its rock, and the wide, pale plain of upper Mesopotamia stretching away below in the evening light. Grave and steadfast; no wounds, no soldiers, no lettering.",
+      "face": "An Armenian archbishop of about forty-six with a warm, light-olive complexion and a FULL, SOFT OVAL face with rounded cheeks — a high, smooth forehead under the hood, no hair showing, large, dark, HEAVY-LIDDED eyes with a calm, slightly lowered gaze under thick, gently arched black brows, a straight nose with a broad tip, and a LONG, FULL, dense black BEARD, broad and squared at the bottom and reaching to the breast, with a full moustache over a closed mouth; the expression mild and resolute. Not the lean, narrow josaphat, nor the wide-open eyes of gregory_narek.",
+      "refs": [
+        "athanasius",
+        "ambrose",
+        "nicholas"
+      ],
+      "basis": "His photograph of 1911 (Wikimedia Commons, from the diocese of Mardin) and the Dicastery's portrait from it: a full, soft oval face with heavy-lidded dark eyes, thick arched brows, a straight broad-tipped nose and a long, dense black beard, in the black veghar hood with a pectoral cross (the Ottoman decorations on his breast are left out). John Paul II's homily gives his age at death as forty-six.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Blessed Choukrallah Maloyan.jpg (photograph, 1911)",
+          "url": "https://commons.wikimedia.org/wiki/File:Blessed_Choukrallah_Maloyan.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Ignazio Maloyan (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/ignazio-maloyan.html"
+        },
+        {
+          "title": "John Paul II, homily at the beatification, 7 October 2001",
+          "url": "https://www.vatican.va/content/john-paul-ii/en/homilies/2001/documents/hf_jp-ii_hom_20011007_beatification.html"
+        }
+      ],
+      "catalogMatch": "St. Ignatius Maloyan"
+    },
+    {
+      "id": "pier_giorgio_frassati",
+      "letter": "P",
+      "feast": {
+        "month": 7,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Pier Giorgio Frassati",
+        "pt-BR": "São Pier Giorgio Frassati"
+      },
+      "patronOf": {
+        "en-US": "Man of the Beatitudes",
+        "pt-BR": "Homem das Bem-aventuranças"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Jesus visits me every morning in Communion; I return the visit in the poor way I can, by visiting the poor.\"",
+        "pt-BR": "\"Jesus me visita todas as manhãs na Comunhão; eu retribuo a visita do modo pobre que posso, visitando os pobres.\""
+      },
+      "excerptSource": "His words «Gesù mi fa visita ogni mattina nella Comunione, io la restituisco nel misero modo che posso, visitando i poveri», quoted on the Dicastery's page; our rendering (he died in 1925)",
+      "subject": "St. Pier Giorgio Frassati, the Turin student, mountaineer and lay Dominican who served the poor, half-length as a climber of the 1920s, as in his mountain photographs: a white shirt open at the neck under a brown tweed jacket, a coil of hemp rope over one shoulder; his right hand grips the shaft of a wooden ice axe held upright beside him, and from his left hand hangs a rosary. Behind him, the high Alps of the Val di Lanzo above Turin: grey rock ridges with snowfields, a steep path climbing toward the summit, and a clear, deep-blue sky. Joyful, strong and upward-looking; no pipe, no lettering.",
+      "face": "A young Turinese of twenty-four, clean-shaven, with a warm olive complexion and a BROAD, SQUARE face — a low, wide forehead under thick, glossy black hair brushed UP and back from the brow and cut short at the sides, THICK, straight, nearly level black brows set LOW over deep-set, dark, steady eyes, a strong, straight nose with a broad bridge, broad, flat cheekbones, full lips closed in a slight smile, and a strong, SQUARE chin; the gaze open, frank and cheerful. A sturdy young man, not a soft, slender, beardless youth like aloysius_gonzaga.",
+      "refs": [
+        "aloysius_gonzaga",
+        "sebastian",
+        "francis_xavier"
+      ],
+      "basis": "His photographs (Wikimedia Commons: the arms-crossed portrait from Luciana Frassati's 'Una vita in immagini', the climbing photographs of 1924-25; the Dicastery's portrait): a broad, square face under thick black hair brushed up, thick low level brows over deep-set eyes, a strong straight nose, full lips and a square chin. The rope and ice axe are for the climbs he made with friends; the Dicastery recalls that on his last mountain photograph, in the Val di Lanzo, he wrote 'Verso l'alto'.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, PierGiorgioFrassati-Présentation.jpg (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:PierGiorgioFrassati-Présentation.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, PierGiorgioFrassati-Alpiniste.jpg (climbing photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:PierGiorgioFrassati-Alpiniste.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Pier Giorgio Frassati (biography; 'Verso l'alto')",
+          "url": "https://www.causesanti.va/it/santi-e-beati/pier-giorgio-frassati.html"
+        }
+      ],
+      "catalogMatch": "St. Pier Giorgio Frassati"
+    },
+    {
+      "id": "peter_to_rot",
+      "letter": "P",
+      "feast": {
+        "month": 7,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Peter To Rot",
+        "pt-BR": "São Pedro To Rot"
+      },
+      "patronOf": {
+        "en-US": "Catechist and martyr",
+        "pt-BR": "Catequista e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I am here because of those who break their marriage vows, and those who do not want to see God's work go forward.\"",
+        "pt-BR": "\"Estou aqui por causa dos que quebram os votos do matrimônio e dos que não querem ver a obra de Deus avançar.\""
+      },
+      "excerptSource": "His words in prison, «Sono qui per coloro che infrangono i loro voti matrimoniali, e per coloro che non vogliono vedere l'opera di Dio andare avanti», as the Dicastery's page gives them; a short quotation, our rendering (he died in 1945)",
+      "subject": "St. Peter To Rot, the Tolai catechist of Rakunai in New Britain, husband and father, who kept his people praying under the Japanese occupation and died in prison for defending marriage, half-length in a plain white shirt with an open collar, as in his photograph, and a dark laplap wrapped at the waist; on a cord round his neck hangs the plain wooden catechist's cross his bishop gave him, and he holds a small, worn Bible in both hands. Behind him, the village of Rakunai on the Gazelle Peninsula: tall coconut palms, gardens of taro and bananas, a small mission church of timber with an iron roof, and the green volcanic hills of the Rabaul country under a bright tropical sky. Gentle and unafraid; no prison, no soldiers, no lettering.",
+      "face": "A Tolai man of New Britain of about thirty-three with a deep, dark-brown complexion and a BROAD, SQUARE face — a wide forehead under thick, tightly curled black hair cut short and standing up a little above the brow, STRAIGHT, heavy black brows set LOW over deep-set dark eyes, a BROAD, flat nose with wide nostrils, full cheeks, a WIDE, full-lipped mouth closed firmly, a rounded, strong jaw; clean-shaven; the gaze grave, gentle and direct. Not the long, sculpted face of charles_lwanga.",
+      "refs": [
+        "moses_the_black",
+        "sebastian",
+        "francis_xavier"
+      ],
+      "basis": "His one known photograph (the Dicastery's portrait; the portrait on English Wikipedia): a broad, square face with low, heavy straight brows over deep-set eyes, a broad flat nose, a wide full mouth and short, tightly curled hair, in a white shirt. The Australian Dictionary of Biography and Wikipedia record that he was commissioned catechist of Rakunai in 1933 and given the official catechist's cross.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Pietro To Rot (biography and photograph)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/pietro-to-rot.html"
+        },
+        {
+          "title": "Wikipedia, Peter To Rot (photograph; the catechist's cross)",
+          "url": "https://en.wikipedia.org/wiki/Peter_To_Rot"
+        },
+        {
+          "title": "Australian Dictionary of Biography, To Rot, Peter (1912?-1945)",
+          "url": "https://adb.anu.edu.au/biography/to-rot-peter-11873"
+        }
+      ],
+      "catalogMatch": "St. Peter To Rot"
+    },
+    {
+      "id": "damascus_martyrs",
+      "letter": "M",
+      "feast": {
+        "month": 7,
+        "day": 10
+      },
+      "name": {
+        "en-US": "The Martyrs of Damascus",
+        "pt-BR": "Mártires de Damasco"
+      },
+      "patronOf": {
+        "en-US": "Franciscan friars and Maronite laymen, martyrs",
+        "pt-BR": "Frades franciscanos e leigos maronitas, mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"No one can make me deny my faith. I am a Maronite Christian, and in the faith of Christ I will die.\"",
+        "pt-BR": "\"Ninguém pode me fazer renegar a minha fé. Sou cristão maronita e na fé de Cristo morrerei.\""
+      },
+      "excerptSource": "Francis Massabki's answer to those who offered him his life for his faith, «…nessuno può farmi rinnegare la mia fede. Io sono un cristiano maronita e nella fede di Cristo morirò», as the Dicastery's page quotes it (English in Fr Yuhanna Azize, 'The Massabki Brothers'; French in French Wikipedia); shortened at the start, our rendering (1860)",
+      "subject": "The eleven Martyrs of Damascus, killed in the Franciscan friary of St. Paul on the night of 9-10 July 1860, shown by three of them side by side, half-length. In the centre, St. Manuel Ruiz, the Spanish guardian of the friary, in the brown Franciscan habit and hood with a white knotted cord, holding before his breast in both hands a small golden ciborium with its veiled lid, the Eucharist he consumed so that it would not be profaned. On the left, St. Francis Massabki, the eldest of the three Maronite brothers, a silk merchant and father of eight, in a long striped silk robe (qumbaz) with a sash and a dark mantle over it, a white turban wound round his head, a rosary in one hand and a green palm in the other. On the right, St. Raphael Massabki, the youngest brother, in a plain dark robe and a dark-red turban, his hands joined over a green palm. Behind them, old Damascus at dusk: flat roofs, courtyards with poplar trees and a small stone church bell tower, and the bare, rose-brown slopes of Mount Qasioun beyond under an amber sky. Peaceful and steadfast; no weapons, no wounds, no fire, no lettering. Keep all three figures inside the arched window.",
+      "face": "Three clearly different men. Manuel Ruiz (centre): a Castilian friar of fifty-six with a weathered olive complexion and a LONG, BONY face — a bald crown ringed by short grey hair in the Franciscan tonsure, deep-set dark eyes under heavy grey brows, a LONG, slightly AQUILINE nose, hollow cheeks, and a long grey beard narrowing to the breast; the gaze lowered to the ciborium. Francis Massabki (left): a Damascene of about sixty with a warm olive complexion and a BROAD, ROUND face — full cheeks, a short, broad nose, large, kind, dark eyes under thick grey brows, a full mouth, and a short, full, ROUNDED white beard and white moustache; a calm, fatherly look. Raphael Massabki (right): a slighter Damascene of about forty with a NARROW, LONG face — a high forehead, a long, straight, fine nose, large dark almond eyes under fine black brows, a small mouth, a thin black moustache and a short, trim black beard close along the jaw; a quiet, devout look, lifted. None of them Christ-like.",
+      "refs": [
+        "philip_james",
+        "francis_assisi",
+        "anthony_padua"
+      ],
+      "basis": "No likenesses from life survive. The official image of the beatification (1926, Wikimedia Commons) shows the friars as bearded Franciscans in brown; a Maronite icon of the three brothers shows them in long robes, mantles and turbans, the outer two white-bearded; the Dicastery's modern group picture makes Ruiz a bald elder with a long beard. The brothers' ages are not recorded: the card makes Francis, the head of the family, the eldest and Raphael, the unmarried youngest, about forty. Ruiz's age (56) and his consuming of the Eucharist are in the Dicastery's biography and Wikipedia.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Martiri di Damasco, Manuel Ruiz López e compagni, fratelli Massabki (biography; Francis Massabki's words; group picture)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/martiri-damasco-ruiz-e-co-fratelli-massabki.html"
+        },
+        {
+          "title": "Wikimedia Commons, Martyrs of Damascus.jpg (official image, 1926)",
+          "url": "https://commons.wikimedia.org/wiki/File:Martyrs_of_Damascus.jpg"
+        },
+        {
+          "title": "Fr Yuhanna Azize, The Massabki Brothers (icon of the three brothers; Francis's words)",
+          "url": "https://www.fryuhanna.com/2016/07/08/the-massabki-brothers/"
+        },
+        {
+          "title": "Wikipedia, Martyrs of Damascus",
+          "url": "https://en.wikipedia.org/wiki/Martyrs_of_Damascus"
+        }
+      ],
+      "catalogMatch": "The Martyrs of Damascus"
+    },
+    {
+      "id": "compiegne_martyrs",
+      "letter": "C",
+      "feast": {
+        "month": 7,
+        "day": 17
+      },
+      "name": {
+        "en-US": "The Carmelite Martyrs of Compiègne",
+        "pt-BR": "Mártires Carmelitas de Compiègne"
+      },
+      "patronOf": {
+        "en-US": "Sixteen Carmelites, martyrs of 1794",
+        "pt-BR": "Dezesseis carmelitas, mártires de 1794"
+      },
+      "prayerExcerpt": {
+        "en-US": "O praise the Lord, all you nations, acclaim him all you peoples!",
+        "pt-BR": "Cantai louvores ao Senhor, todas as gentes, povos todos, festejai-o!"
+      },
+      "excerptSource": "content/of/formularies/sanctoral/01-25.json readings.default.psalm (Ps 117:1, the Laudate Dominum that Sister Constance intoned on the scaffold; its two lines joined, the pt-BR second line lower-cased)",
+      "subject": "The sixteen Discalced Carmelites of Compiègne, guillotined in Paris on 17 July 1794 after offering their lives for peace in the Church and in France, shown by three of them side by side, half-length, as they went to their death: in the brown Carmelite habit and scapular and the long white choir mantle, which they had put on again for the journey to Paris. In the centre, the prioress, Mother Teresa of St. Augustine, in a black veil over a white wimple, holding a small wooden crucifix before her breast. On the left, the youngest, the novice Sister Constance, in a WHITE novice's veil, her hands joined and her lips parted in song. On the right, the eldest, Sister Charlotte of the Resurrection, small and bent, in a black veil, leaning on a plain wooden crutch, a rosary in her other hand. Behind them, the edge of Paris at the Barrière du Trône on a July evening: the two tall stone columns of the tollgate, rows of trees, and a sky turning gold and rose. Serene and joyful; no guillotine, no cart, no crowd, no lettering. Keep all three figures inside the arched window.",
+      "face": "Three clearly different women. Mother Teresa of St. Augustine (centre): a Parisian of forty-one with a fair complexion and a HEART-SHAPED face — a broad, smooth forehead, WIDE-SET, large grey eyes under fine, high-arched brows, a small, straight nose, a small, firm, pointed chin and a composed, closed mouth; the gaze calm and resolute, lifted a little. Sister Constance (left): a novice of twenty-nine with a ROUND, fresh face — full, rosy cheeks, a short, slightly UPTURNED nose, bright brown eyes, round brows, lips parted as she sings; eager and radiant. Sister Charlotte (right): a small old woman of seventy-eight with a LONG, NARROW, finely lined face — a long nose, deep laughter lines at the eyes and mouth, sunken cheeks, light-blue eyes bright and merry, a wide, thin smile; cheerful and undaunted. None of them the young oval of therese or the square jaw of teresa_benedicta.",
+      "refs": [
+        "philip_james",
+        "teresa",
+        "therese"
+      ],
+      "basis": "No portraits from life survive, so the faces are ours, made distinct by age and bone structure. The Dicastery gives the names, ages and the singing on the way; French Wikipedia records that they put their habits and white choir mantles on again before they were taken to Paris, that Sister Constance, the novice and youngest, went first intoning the Laudate Dominum, and English Wikipedia that Sister Charlotte, 78, walked with a crutch and was 'naturally inclined towards gaiety'.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Martiri Carmelitane di Compiègne (biography; the sixteen names)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/martiri-carmelitane-di-compiegne.html"
+        },
+        {
+          "title": "Wikipédia, Carmélites de Compiègne (the habit and white mantle; the Laudate Dominum)",
+          "url": "https://fr.wikipedia.org/wiki/Carmélites_de_Compiègne"
+        },
+        {
+          "title": "Wikipedia, Martyrs of Compiègne (Sister Charlotte; Sister Constance)",
+          "url": "https://en.wikipedia.org/wiki/Martyrs_of_Compiègne"
+        },
+        {
+          "title": "Wikimedia Commons, Our Lady of Mount Carmel Church, Quidenham, Norfolk - Windows (the martyrs' window)",
+          "url": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Mount_Carmel_Church,_Quidenham,_Norfolk_-_Windows_-_geograph.org.uk_-_1084822.jpg"
+        }
+      ],
+      "catalogMatch": "The Carmelite Martyrs of Compiègne"
+    },
+    {
+      "id": "titus_brandsma",
+      "letter": "T",
+      "feast": {
+        "month": 7,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Titus Brandsma",
+        "pt-BR": "São Tito Brandsma"
+      },
+      "patronOf": {
+        "en-US": "Carmelite, journalist and martyr",
+        "pt-BR": "Carmelita, jornalista e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Prayer is life, not an oasis in the desert of life.\"",
+        "pt-BR": "\"A oração é vida, não um oásis no deserto da vida.\""
+      },
+      "excerptSource": "His saying «La preghiera è vita, non un'oasi nel deserto della vita», as the Dicastery's biography gives it; our rendering (he died in 1942)",
+      "subject": "St. Titus Brandsma, the Frisian Carmelite priest, professor of mysticism and rector of the Catholic University of Nijmegen, who defended the freedom of the Catholic press against the Nazis and died at Dachau, half-length in the brown Carmelite habit and scapular with the WHITE Carmelite cloak and hood over his shoulders, as in his photographs; round steel-rimmed spectacles; he holds a small open book against his breast with one hand, a rosary looped round the fingers of the other. Behind him, Nijmegen on the river Waal: the tall tower of St. Stephen's church above the old town, the broad river with a barge, green dykes and meadows beyond under a wide Dutch sky with piled white clouds. Kind and serene; no camp, no barbed wire, no lettering.",
+      "face": "A Frisian of about sixty, clean-shaven, with a fair complexion and a LONG face that WIDENS at HIGH, broad cheekbones and narrows to a pointed chin — a high forehead under a thick, springy CREST of wavy grey hair brushed up and back, small, narrowed, smiling eyes with crinkles at the corners behind small ROUND steel-rimmed spectacles, a LONG nose with a slight bump and a rounded tip, lean cheeks folded by smile lines, a thin-lipped, gently smiling mouth; the head a little tilted, the gaze kind and humorous. Not maximilian_kolbe (beard, balding) nor josemaria_escriva (round face, dark rectangular glasses).",
+      "refs": [
+        "john_of_the_cross",
+        "thomas_aquinas",
+        "philip_neri"
+      ],
+      "basis": "His photographs (Nationaal Archief, late 1920s, on Wikimedia Commons; the rector's portrait of 1932; the Dicastery's portrait): a long face widening at the cheekbones, a crest of thick wavy hair brushed up, small smiling eyes behind round steel spectacles, a long nose with a rounded tip and a thin, smiling mouth, in the Carmelite habit with the white cloak. The card makes him about sixty, as at his arrest in 1942.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, TitusBrandsma.jpg (photograph, late 1920s, Nationaal Archief)",
+          "url": "https://commons.wikimedia.org/wiki/File:TitusBrandsma.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, TitusBrandsma1932.jpg (as rector magnificus)",
+          "url": "https://commons.wikimedia.org/wiki/File:TitusBrandsma1932.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Tito Brandsma (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/tito-brandsma.html"
+        }
+      ],
+      "catalogMatch": "St. Titus Brandsma"
+    },
+    {
+      "id": "giustino_russolillo",
+      "letter": "G",
+      "feast": {
+        "month": 8,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Giustino Russolillo",
+        "pt-BR": "São Justino Russolillo"
+      },
+      "patronOf": {
+        "en-US": "Apostle of vocations",
+        "pt-BR": "Apóstolo das vocações"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"While our lips say 'I believe', our mind and our heart must be able to say 'I see'.\"",
+        "pt-BR": "\"Enquanto os nossos lábios dizem 'creio', a nossa mente e o nosso coração devem poder dizer 'vejo'.\""
+      },
+      "excerptSource": "His conviction «La perfezione della Fede è la visione e quindi, mentre le nostre labbra dicono credo, la nostra mente e il nostro cuore devono poter dire vedo», as the Dicastery's biography quotes it; the second clause, a short quotation, our rendering (he died in 1955)",
+      "subject": "St. Giustino Maria Russolillo, parish priest of Pianura in Naples and founder of the Vocationists, who gathered poor boys to become priests, half-length in a black cassock with a short black shoulder cape and a narrow white collar, round wire-rimmed spectacles, as in his portraits; he holds a small open book in his left hand and with his right points gently toward it, as in the painted portrait of his shrine; behind him, a little lower, two boys of about twelve in dark jackets, looking up. Behind them, Pianura on the western edge of Naples: the white houses and the bell tower of the parish church of San Giorgio among vineyards on the green hills of the Campi Flegrei, under a warm, clear sky. Earnest and fatherly; no lettering.",
+      "face": "A Neapolitan priest of about forty, clean-shaven, with a warm olive complexion and a LONG, NARROW face tapering to a pointed chin — a high forehead, short dark hair parted at the side and brushed back, RECEDING a little at the temples, LARGE ears that stand out, dark, earnest eyes behind small ROUND wire-rimmed spectacles, level dark brows, a long, straight nose, hollowed cheeks, FULL lips closed; the gaze direct and gentle. Not the round, smiling josemaria_escriva, nor the grey-crested titus_brandsma of this batch. The boys: one round-faced with curly black hair, one thin with short straight brown hair.",
+      "refs": [
+        "philip_neri",
+        "ignatius_loyola",
+        "vincent_de_paul"
+      ],
+      "basis": "His photographs as a young priest (the Dicastery's portrait; the painted portrait on the Vocationists' shrine, reproduced by Vatican News): a long, narrow face with a pointed chin, short dark hair, round wire spectacles, prominent ears, a long straight nose and full lips, in a cassock with a short cape. Photographs of his old age show a rounder face with a wide smile; the card keeps the younger face, of his founding years, so as not to repeat josemaria_escriva.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Giustino Maria Russolillo (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/giustino-maria-russolillo.html"
+        },
+        {
+          "title": "Vocazionisti, don Giustino, il fondatore (photograph)",
+          "url": "https://www.vocationist.net/don-giustino-il-fondatore/"
+        },
+        {
+          "title": "Vatican News, Don Russolillo, l'apostolo delle vocazioni e della santificazione (May 2022; portraits)",
+          "url": "https://www.vaticannews.va/it/chiesa/news/2022-05/canonizzazione-giustino-russolillo-intervista-padre-caprari.html"
+        }
+      ],
+      "catalogMatch": "St. Giustino Russolillo"
+    },
+    {
+      "id": "maria_francesca_rubatto",
+      "letter": "M",
+      "feast": {
+        "month": 8,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Maria Francesca of Jesus Rubatto",
+        "pt-BR": "Santa Maria Francisca de Jesus Rubatto"
+      },
+      "patronOf": {
+        "en-US": "Foundress, missionary in Uruguay",
+        "pt-BR": "Fundadora, missionária no Uruguai"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"We are servants of the poor, and we must take up any service for them.\"",
+        "pt-BR": "\"Somos servas dos pobres e devemos assumir por eles qualquer serviço.\""
+      },
+      "excerptSource": "Her words to her sisters, «Servae sumus pauperum iisque quodcumque ministerium obire debemus», as the decree quoted on the Dicastery's page gives them in Latin; our rendering (she died in 1904)",
+      "subject": "St. Maria Francesca of Jesus Rubatto of Carmagnola, foundress of the Capuchin Tertiary Sisters of Loano, who nursed the sick poor in their homes and died in Montevideo, half-length in the habit of her photographs: a dark-brown habit, a black veil, a close white wimple and a BROAD white guimpe covering the breast and shoulders, a plain wooden crucifix on a cord; her hands folded over a rosary. Behind her, the bay of Montevideo: the low hill of the Cerro with its small white fortress and lighthouse on the far shore, a steamship at anchor in the calm water, and the roofs and bell towers of the old city on the near side, under a clear southern sky. Strong and motherly; no lettering.",
+      "face": "A Piedmontese of about fifty-five with a fair complexion and a BROAD, FULL face — rounded cheeks and a soft fullness under the chin, a smooth forehead under the wimple, THICK, dark, straight brows, LARGE, PALE grey eyes set wide, open and calm, a straight nose BROAD at the bridge, a SMALL, full-lipped mouth closed firmly, a rounded chin; the gaze level, strong and kindly. Not the flat, rectangular face with small deep-set eyes and thin mouth of marie_leonie_paradis, nor the long, narrow maria_santocanale.",
+      "refs": [
+        "clare_assisi",
+        "margaret_mary",
+        "teresa"
+      ],
+      "basis": "Her photographs (Wikimedia Commons, before 1904; the congregation's coloured photograph on scmrubatto.org; the Dicastery's portrait drawn from them): a broad, full face with thick dark brows, large pale eyes, a broad-bridged straight nose and a small full mouth, in a dark-brown habit, black veil and broad white guimpe. Montevideo is where she led her sisters' mission and died.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Anna Maria Rubatto.jpg (photograph, before 1904)",
+          "url": "https://commons.wikimedia.org/wiki/File:Anna_Maria_Rubatto.jpg"
+        },
+        {
+          "title": "Suore Cappuccine di Madre Rubatto (coloured photograph)",
+          "url": "https://www.scmrubatto.org/"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Maria Francesca di Gesù Rubatto (biography and portrait; the decree)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/maria-francesca-di-gesu-rubatto.html"
+        }
+      ],
+      "catalogMatch": "St. Maria Francesca of Jesus Rubatto"
+    }
+  ]
+}
