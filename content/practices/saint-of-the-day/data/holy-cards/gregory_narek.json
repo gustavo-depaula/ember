@@ -1,0 +1,45 @@
+{
+  "id": "gregory_narek",
+  "feast": {
+    "month": 2,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Gregory of Narek",
+    "pt-BR": "São Gregório de Narek"
+  },
+  "patronOf": {
+    "en-US": "Abbot and Doctor of the Church",
+    "pt-BR": "Abade e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant us, through his teachings, the art of knowing how to speak with you.",
+    "pt-BR": "Concedei-nos aprender, por seu ensinamento, a arte de falar convosco."
+  },
+  "proper": "sanctorale.02-27",
+  "meta": {
+    "face": "An Armenian monk of about fifty with a warm olive complexion and a BROAD, flat-planed OVAL face, as wide at the cheekbones as at the forehead, with a full, rounded jaw — a long, straight nose with a high, strong bridge, very large, wide-open dark almond eyes set level under thick, strongly arched black brows (the wide-eyed gaze of Armenian miniatures), smooth, full cheeks, a small, full mouth; short, thick black hair showing under the hood at the forehead; a short, dense black beard and moustache closely encircling the jaw, with a few grey threads; an intense, contemplative gaze lifted a little upward.",
+    "basis": "The miniature in the Matenadaran manuscript 1568 of 1173 shows him with short black hair, a short dark beard and very large eyes, holding a book; the card follows that face. The black pointed hood follows the dress of Armenian celibate priests and monks, and the background is his monastery by Lake Van.",
+    "excerpt": "content/of/formularies/sanctoral/02-27.json collect (petition up to \"speak with you\" / \"falar convosco\", verbatim in both languages, capitalised)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Grigor Narekatsi, Ms. 1568 (1173), Matenadaran",
+        "url": "https://commons.wikimedia.org/wiki/File:Grigor_Narekatsi_1.jpg"
+      },
+      {
+        "title": "Wikipedia, Gregory of Narek",
+        "url": "https://en.wikipedia.org/wiki/Gregory_of_Narek"
+      },
+      {
+        "title": "Wikipedia, Narekavank",
+        "url": "https://en.wikipedia.org/wiki/Narekavank"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

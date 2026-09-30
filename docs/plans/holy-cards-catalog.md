@@ -116,33 +116,33 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 ### Optional memorials
 
-- [ ] 7 Jan · Saint Raymund of Penyafort, Priest · *São Raimundo de Penhaforte, presbítero* · optional-memorial
+- [x] 7 Jan · Saint Raymund of Penyafort, Priest · *São Raimundo de Penhaforte, presbítero* · optional-memorial — `raymund_penyafort`
 - [x] 13 Jan · Saint Hilary, Bishop and Doctor of the Church · *Santo Hilário, bispo e doutor da Igreja* · optional-memorial — `hilary`
 - [x] 20 Jan · Saint Fabian, pope and martyr · *São Fabiano, papa e mártir* · optional-memorial — `fabian`
 - [x] 20 Jan · Saint Sebastian, martyr · *São Sebastião, mártir* · optional-memorial — `sebastian`
 - [x] 22 Jan · Saint Vincent, deacon and martyr · *São Vicente, diácono e mártir* · optional-memorial — `vincent_saragossa`
 - [x] 27 Jan · Saint Angela Merici, virgin · *Santa Ângela Mérici, virgem* · optional-memorial — `angela_merici`
 - [x] 3 Feb · Saint Blase, bishop and martyr · *São Brás, bispo e mártir* · optional-memorial — `blase`
-- [ ] 3 Feb · Saint Ansgar, bishop · *Santo Oscar, bispo* · optional-memorial
-- [ ] 8 Feb · Saint Jerome Emiliani · *São Jerônimo Emiliani* · optional-memorial
+- [x] 3 Feb · Saint Ansgar, bishop · *Santo Oscar, bispo* · optional-memorial — `ansgar`
+- [x] 8 Feb · Saint Jerome Emiliani · *São Jerônimo Emiliani* · optional-memorial — `jerome_emiliani`
 - [x] 8 Feb · Saint Josephine Bakhita · *Santa Josefina Bakhita, virgem* · optional-memorial — `josephine_bakhita`
-- [ ] 17 Feb · The Seven Holy Founders of the Servite Order · *Os sete Santos fundadores da Ordem dos Servos de Maria* · optional-memorial
+- [x] 17 Feb · The Seven Holy Founders of the Servite Order · *Os sete Santos fundadores da Ordem dos Servos de Maria* · optional-memorial — `servite_founders`
 - [x] 21 Feb · Saint Peter Damian, bishop and doctor of the Church · *São Pedro Damião, bispo e doutor da Igreja* · optional-memorial — `peter_damian`
-- [ ] 27 Feb · Saint Gregory of Narek, Abbot and Doctor of the Church · *São Gregório de Narek, abade e doutor da Igreja* · optional-memorial
-- [ ] 4 Mar · Saint Casimir · *São Casimiro* · optional-memorial
+- [x] 27 Feb · Saint Gregory of Narek, Abbot and Doctor of the Church · *São Gregório de Narek, abade e doutor da Igreja* · optional-memorial — `gregory_narek`
+- [x] 4 Mar · Saint Casimir · *São Casimiro* · optional-memorial — `casimir`
 - [x] 8 Mar · Saint John of God, religious · *São João de Deus, religioso* · optional-memorial — `john_of_god`
 - [x] 9 Mar · Saint Frances of Rome, religious · *Santa Francisca Romana, religiosa* · optional-memorial — `frances_rome`
 - [x] 17 Mar · Saint Patrick, bishop · *São Patrício, bispo* · optional-memorial — `patrick`
 - [x] 18 Mar · Saint Cyril of Jerusalem, bishop and doctor of the Church · *São Cirilo de Jerusalém, bispo e doutor da Igreja* · optional-memorial — `cyril_jerusalem`
-- [ ] 23 Mar · Saint Turibius of Mogrovejo, bishop · *São Turíbio de Mogrovejo, bispo* · optional-memorial
+- [x] 23 Mar · Saint Turibius of Mogrovejo, bishop · *São Turíbio de Mogrovejo, bispo* · optional-memorial — `turibius`
 - [x] 2 Apr · Saint Francis of Paola, hermit · *São Francisco de Paula, eremita* · optional-memorial — `francis_paola`
-- [ ] 4 Apr · Saint Isidore, bishop and doctor of the Church · *Santo Isidoro, bispo e doutor da Igreja* · optional-memorial
+- [x] 4 Apr · Saint Isidore, bishop and doctor of the Church · *Santo Isidoro, bispo e doutor da Igreja* · optional-memorial — `isidore`
 - [x] 5 Apr · Saint Vincent Ferrer, priest · *São Vicente Ferrer, presbítero* · optional-memorial — `vincent_ferrer`
 - [x] 13 Apr · Saint Martin I, pope and martyr · *São Martinho I, papa e mártir* · optional-memorial — `martin_i`
 - [x] 21 Apr · Saint Anselm, bishop and doctor of the Church · *Santo Anselmo, bispo e doutor da Igreja* · optional-memorial — `anselm`
 - [x] 23 Apr · Saint George, martyr · *São Jorge, mártir* · optional-memorial — `george`
-- [ ] 23 Apr · Saint Adalbert, bishop and martyr · *Santo Adalberto, bispo e mártir* · optional-memorial
-- [ ] 24 Apr · Saint Fidelis of Sigmaringen, priest and martyr · *São Fidélis de Sigmaringa, presbítero e mártir* · optional-memorial
+- [x] 23 Apr · Saint Adalbert, bishop and martyr · *Santo Adalberto, bispo e mártir* · optional-memorial — `adalbert`
+- [x] 24 Apr · Saint Fidelis of Sigmaringen, priest and martyr · *São Fidélis de Sigmaringa, presbítero e mártir* · optional-memorial — `fidelis`
 - [ ] 28 Apr · Saint Peter Chanel, priest and martyr · *São Pedro Chanel, presbítero e mártir* · optional-memorial
 - [x] 28 Apr · Saint Louis Grignion de Montfort, Priest · *São Luís Maria Grignion de Montfort, presbítero* · optional-memorial — `louis_de_montfort`
 - [x] 30 Apr · Saint Pius V, pope · *São Pio V, papa* · optional-memorial — `pius_v`

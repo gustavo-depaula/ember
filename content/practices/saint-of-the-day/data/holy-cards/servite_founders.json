@@ -1,0 +1,41 @@
+{
+  "id": "servite_founders",
+  "feast": {
+    "month": 2,
+    "day": 17
+  },
+  "name": {
+    "en-US": "Seven Holy Founders",
+    "pt-BR": "Sete Santos Fundadores"
+  },
+  "patronOf": {
+    "en-US": "Founders of the Servants of Mary",
+    "pt-BR": "Fundadores dos Servos de Maria"
+  },
+  "prayerExcerpt": {
+    "en-US": "Impart to us, O Lord, in kindness the filial devotion with which the holy brothers venerated so devoutly the Mother of God.",
+    "pt-BR": "Infundi em nós, Senhor, a piedade dos Santos Fundadores da Ordem dos Servos de Maria, que se distinguiram pela devoção à Mãe de Deus."
+  },
+  "proper": "sanctorale.02-17",
+  "meta": {
+    "face": "Seven clearly different Florentine men, none a stock face. FRONT ROW, left to right: (1) Alexis Falconieri, about forty-five, the humble lay brother: clean-shaven, a LONG, NARROW face with hollow cheeks, a long, thin nose with a slight hook, heavy-lidded eyes lowered in humility and a small pointed chin; short, straight, greying brown hair, no tonsure. (2) Bonfilius Monaldi, the prior, in the centre, about fifty-five: a BROAD, SQUARE face with a heavy jaw, a short, broad nose, steady grey eyes under thick, straight grey brows, a grey monastic crown of hair and a short, full, rounded grey beard. (3) Bonajuncta, about thirty-five: a ROUND, full face with plump cheeks, a small snub nose, large, bright black eyes under round-arched brows, a dimpled chin under a short, trim black beard, thick black hair in a tonsure ring. BACK ROW, left to right: (4) Amadeus, about fifty: a tall, domed, completely bald head, a LONG, RECTANGULAR clean-shaven face, a big straight nose, deep-set dark eyes. (5) Manettus, about forty-five: a HEART-SHAPED face, wide at the cheekbones and narrowing to a small chin, a fine straight nose, hazel eyes, auburn hair in a tonsure ring and a short, neat auburn beard. (6) Hugh, about thirty-five: a lean, ANGULAR face with sharp cheekbones and a square chin, a Roman nose, dark eyes under heavy black brows, clean-shaven, short curly black hair. (7) Sostene, about thirty-five: a fair OVAL face with a high forehead, a slender nose, light-blue eyes, straight fair-brown hair in a tonsure ring, a thin fair moustache and a small tuft of beard at the chin. All gazes calm and devotional, several turned toward the image of Our Lady.",
+    "basis": "No portraits of the seven survive; the sources give their names, families and dates, the black habit, and the withdrawal to Monte Senario above Florence. The seven faces are our choice, made different in shape and age so the group reads as seven men.",
+    "excerpt": "content/of/formularies/sanctoral/02-17.json collect (opening petition, verbatim in both languages up to \"Mother of God\" / \"Mãe de Deus\")",
+    "sources": [
+      {
+        "title": "Wikipedia, Seven Holy Founders of the Servite Order",
+        "url": "https://en.wikipedia.org/wiki/Seven_Holy_Founders_of_the_Servite_Order"
+      },
+      {
+        "title": "Catholic Encyclopedia (1912), Order of Servites",
+        "url": "https://www.newadvent.org/cathen/13736a.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

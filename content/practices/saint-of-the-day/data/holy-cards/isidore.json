@@ -1,0 +1,42 @@
+{
+  "id": "isidore",
+  "feast": {
+    "month": 4,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Isidore of Seville",
+    "pt-BR": "Santo Isidoro de Sevilha"
+  },
+  "patronOf": {
+    "en-US": "Bishop and Doctor of the Church",
+    "pt-BR": "Bispo e doutor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "May your Church be aided by his intercession, just as she has been instructed by his heavenly teaching.",
+    "pt-BR": "Que sua intercessão ajude a vossa Igreja, que ele instruiu com ensinamentos celestiais."
+  },
+  "lifeChapter": "apr-04-isidore",
+  "proper": "sanctorale.04-04",
+  "meta": {
+    "face": "A venerable Hispano-Roman of about seventy with a LARGE, HEAVY, LONG face — a broad, high forehead, a large, strong nose with a gentle hook and a fleshy tip, heavy-lidded dark eyes lowered to the page under thick grey brows, full cheeks, and a broad chin under a full, thick grey beard of medium length, trimmed round and still dark at the moustache; thick grey hair cut short around a tonsure; a calm, absorbed, scholarly look.",
+    "basis": "No likeness survives; Murillo's painting (Wikipedia lead) shows the aged archbishop reading, with a grey beard. The card keeps the old scholar-bishop and his grey beard, gives him a heavy, long face of our choice, and dresses him as a bishop of his own century rather than in Murillo's mitre.",
+    "excerpt": "content/of/formularies/sanctoral/04-04.json collect (final clause; en-US \"that your Church may be aided\" recast as a wish, pt-BR verbatim from \"que sua intercessão\", capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Isidore of Seville (lead: Murillo's portrait)",
+        "url": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+      },
+      {
+        "title": "Catholic Encyclopedia (1910), St. Isidore of Seville",
+        "url": "https://www.newadvent.org/cathen/08186a.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

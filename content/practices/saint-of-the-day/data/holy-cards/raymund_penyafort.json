@@ -1,0 +1,42 @@
+{
+  "id": "raymund_penyafort",
+  "feast": {
+    "month": 1,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Raymund of Penyafort",
+    "pt-BR": "São Raimundo de Penhaforte"
+  },
+  "patronOf": {
+    "en-US": "Patron of canon lawyers",
+    "pt-BR": "Padroeiro dos canonistas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Released from slavery to sin, may we carry out in freedom of spirit what is pleasing to you.",
+    "pt-BR": "Abolida a escravidão do pecado, possamos livremente fazer o que vos agrada."
+  },
+  "lifeChapter": "jan-23-raymund-of-pennafort",
+  "proper": "sanctorale.01-07",
+  "meta": {
+    "face": "A very old but wiry Catalan of about eighty with a sun-browned complexion and a small, compact, SHIELD-SHAPED face — a broad, bony forehead, high cheekbones angling down to a narrow, squared-off chin; a short, straight nose with a firm, rounded tip; small, bright black eyes set in fine laughter lines under bushy white brows; a long upper lip and a thin, wide mouth with a faint smile; a white Dominican crown of short hair around the shaven head; a close-cropped white beard only a finger deep, following the line of the jaw; the gaze lifted with serene confidence toward the sky ahead.",
+    "basis": "The painting on Wikipedia shows the tonsured, grey-bearded old friar sailing on his cappa with a staff and a key, the legend of his crossing from Mallorca to Barcelona; he died about a hundred years old in 1275. The small shield-shaped face and cropped beard are our choice to keep him from the long-bearded elders and from Albert the Great.",
+    "excerpt": "content/of/formularies/sanctoral/01-07.json collect (final clause; en-US \"that ... we may\" recast as \"may we\", pt-BR verbatim from \"abolida\", capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Raymond of Penyafort (lead painting; the cappa crossing; died aged 100)",
+        "url": "https://en.wikipedia.org/wiki/Raymond_of_Penyafort"
+      },
+      {
+        "title": "Catholic Encyclopedia (1911), St. Raymond of Penafort",
+        "url": "https://www.newadvent.org/cathen/12671c.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

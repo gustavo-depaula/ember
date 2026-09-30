@@ -1,0 +1,37 @@
+{
+  "id": "turibius",
+  "feast": {
+    "month": 3,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Turibius of Mogrovejo",
+    "pt-BR": "São Turíbio de Mogrovejo"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Lima",
+    "pt-BR": "Arcebispo de Lima"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that the people consecrated to you may always receive new growth in faith and holiness.",
+    "pt-BR": "Concedei que o povo a vós consagrado cresça constantemente na fé e na santidade."
+  },
+  "proper": "sanctorale.03-23",
+  "meta": {
+    "face": "A spare, tireless Castilian of about sixty-two, clean-shaven, with a LONG face BROAD AT THE JAW — a high, bald, domed crown with a short fringe of grey hair above the ears, a long, large, straight nose, pale grey-blue eyes under heavy lids and high-arched grey brows, lean cheeks with deep lines from nose to mouth, a small, tight-lipped, resolute mouth and a broad, firm chin; skin weathered and browned by years on the roads of the Andes; a grave, kindly gaze down toward the child.",
+    "basis": "The seventeenth-century portrait (Wikipedia lead), which I checked, shows him clean-shaven and bald with a grey fringe, a long, large nose, heavy-lidded pale eyes and arched brows, in a red cappa with Andean people behind him. The card follows it, weathered by his journeys on foot through the diocese, and shows him confirming, as he confirmed nearly half a million people.",
+    "excerpt": "content/of/formularies/sanctoral/03-23.json collect (petition, verbatim in both languages, capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Turibius of Mogrovejo (lead portrait; visitations and confirmations)",
+        "url": "https://en.wikipedia.org/wiki/Turibius_of_Mogrovejo"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

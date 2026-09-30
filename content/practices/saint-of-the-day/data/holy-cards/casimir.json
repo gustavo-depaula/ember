@@ -1,0 +1,42 @@
+{
+  "id": "casimir",
+  "feast": {
+    "month": 3,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Casimir",
+    "pt-BR": "São Casimiro"
+  },
+  "patronOf": {
+    "en-US": "Patron of Lithuania",
+    "pt-BR": "Padroeiro da Lituânia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Almighty God, to serve you is to reign.",
+    "pt-BR": "Ó Deus todo-poderoso, a quem servir é reinar."
+  },
+  "lifeChapter": "mar-04-casimir",
+  "proper": "sanctorale.03-04",
+  "meta": {
+    "face": "A pale, slender young prince of about twenty-four (a young man, not a boy), clean-shaven, with a LONG, NARROW face — a high, smooth forehead, a long, straight, slender nose with a slightly drooping tip, heavy-lidded grey-green eyes under fine, high-arched light-brown brows, long, smooth cheeks with faint colour, a small, gently curved closed mouth and a narrow, rounded chin; straight chestnut-brown hair parted in the middle and falling to the shoulders; a gentle, recollected gaze to one side.",
+    "basis": "The painting of 1594 (Wikipedia lead), which follows the Vilnius 'three-handed' image, shows a long, pale face with a long nose, heavy lids and shoulder-length brown hair under a red crowned cap, in an ermine-lined red robe with lilies. The card follows it; he died of tuberculosis at twenty-five.",
+    "excerpt": "content/of/formularies/sanctoral/03-04.json collect (address, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Casimir (lead painting, 1594; iconography)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Casimir"
+      },
+      {
+        "title": "Catholic Encyclopedia (1908), St. Casimir",
+        "url": "https://www.newadvent.org/cathen/03402a.htm"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

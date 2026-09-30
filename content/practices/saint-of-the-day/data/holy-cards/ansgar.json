@@ -1,0 +1,40 @@
+{
+  "id": "ansgar",
+  "feast": {
+    "month": 2,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Ansgar",
+    "pt-BR": "Santo Oscar"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the North",
+    "pt-BR": "Apóstolo do Norte"
+  },
+  "prayerExcerpt": {
+    "en-US": "How beautiful upon the mountains are the feet of him who brings glad tidings of peace.",
+    "pt-BR": "Como são belos sobre os montes os pés do mensageiro que anuncia a paz."
+  },
+  "meta": {
+    "face": "A spare, weathered Frank of about sixty, clean-shaven, with a BROAD, SQUARE-BROWED face narrowing only a little to a wide, strongly CLEFT chin — a straight, flat brow line, small, deep-set, very pale grey-blue eyes crinkled against the northern wind, a short, straight nose with a broad bridge, lean cheeks with long vertical creases, a wide, straight, thin-lipped mouth; short, straight flaxen hair gone silver, cut in a straight Carolingian fringe around the shaven monastic crown; wind-reddened cheeks; a calm, far-seeing gaze a little to one side.",
+    "basis": "No likeness survives; Rimbert's Life tells of a Frankish monk of Corbie who wore a hair shirt and lived on bread and water, and the tradition (as in Bendixen's painting) shows him clean-shaven with a church in his hand. The square, cleft-chinned face and flaxen fringe are our choice.",
+    "excerpt": "content/of/formularies/common/pastors/past11.json entranceAntiphon (Common of Pastors, for Missionaries; first clause, verbatim in both languages). The calendar entry sanctorale.02-03.ansgar has no formulary.",
+    "sources": [
+      {
+        "title": "Wikipedia, Ansgar (lead image: Bendixen's painting; Rimbert's Vita)",
+        "url": "https://en.wikipedia.org/wiki/Ansgar"
+      },
+      {
+        "title": "Wikipedia, Birka",
+        "url": "https://en.wikipedia.org/wiki/Birka"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

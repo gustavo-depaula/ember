@@ -1,0 +1,38 @@
+{
+  "id": "fidelis",
+  "feast": {
+    "month": 4,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Fidelis of Sigmaringen",
+    "pt-BR": "São Fidélis de Sigmaringa"
+  },
+  "patronOf": {
+    "en-US": "Capuchin and martyr",
+    "pt-BR": "Capuchinho e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grounded in charity, may we merit to know with him the power of the Resurrection of Christ.",
+    "pt-BR": "Enraizados na caridade, experimentemos com ele a força da ressurreição do Cristo."
+  },
+  "lifeChapter": "apr-24-fidelis-of-sigmaringen",
+  "proper": "sanctorale.04-24",
+  "meta": {
+    "face": "A lean German Capuchin of about forty-four, once a lawyer, with a FINE-BONED, NARROW face tapering to a neat chin — a high, narrow forehead, a fine, straight, narrow nose, clear, gentle hazel eyes under fine, straight brows, faint hollows under delicate cheekbones, a small, thin, kindly mouth; dark-brown hair cropped very short around the Capuchin tonsure; a full, neatly combed dark-brown beard reaching the upper chest and narrowing to a rounded point; a serene, resolute gaze toward the viewer.",
+    "basis": "The Pfärrenbach wall painting (Wikipedia lead) shows the usual type: a Capuchin with a long dark beard, palm and sword. The card keeps the habit, beard and palm without the weapon, and gives him a fine, narrow face of our choice for the lawyer of Freiburg, apart from Lawrence of Brindisi's broad one.",
+    "excerpt": "content/of/formularies/sanctoral/04-24.json collect (final clause; en-US \"that ... we may\" recast as \"may we\", pt-BR verbatim from \"enraizados\", capitalised)",
+    "sources": [
+      {
+        "title": "Wikipedia, Fidelis of Sigmaringen (lead: wall painting in Pfärrenbach; Seewis)",
+        "url": "https://en.wikipedia.org/wiki/Fidelis_of_Sigmaringen"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}

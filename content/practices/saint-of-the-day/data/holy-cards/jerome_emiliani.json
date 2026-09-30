@@ -1,0 +1,38 @@
+{
+  "id": "jerome_emiliani",
+  "feast": {
+    "month": 2,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Jerome Emiliani",
+    "pt-BR": "São Jerônimo Emiliani"
+  },
+  "patronOf": {
+    "en-US": "Patron of orphans",
+    "pt-BR": "Padroeiro dos órfãos"
+  },
+  "prayerExcerpt": {
+    "en-US": "O God, Father of mercies, who sent Saint Jerome Emiliani as a helper and father to orphans.",
+    "pt-BR": "Ó Deus, Pai das misericórdias, que, em São Jerônimo Emiliani destes aos órfãos um protetor e pai."
+  },
+  "lifeChapter": "jul-20-jerome-emiliani",
+  "proper": "sanctorale.02-08",
+  "meta": {
+    "face": "A Venetian man of about fifty, worn thin by famine and plague, with a LONG OVAL face — a high, domed forehead going bald, dark-brown hair thinning over the crown and falling a little unkempt at the sides behind the ears; a long, straight, rather prominent nose; large, dark, luminous eyes lifted upward under dark brows that slope down at the outer ends, giving a look of compassion; lean cheeks; a full, soft, dark-brown beard of medium length, rounded at the chin and threaded with grey, and a full moustache; the lips a little parted as in prayer.",
+    "basis": "Giandomenico Tiepolo's painting (the Wikipedia lead) shows him balding, with a full dark beard and eyes raised, holding a chain with an orphan at his side; he died of the plague at Somasca at fifty. The card follows it.",
+    "excerpt": "content/of/formularies/sanctoral/02-08.json collect (address, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia, Jerome Emiliani (lead: Giandomenico Tiepolo, Ca' Rezzonico)",
+        "url": "https://en.wikipedia.org/wiki/Jerome_Emiliani"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-11.md."
+      }
+    ]
+  }
+}
