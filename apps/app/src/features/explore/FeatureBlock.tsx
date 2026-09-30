@@ -24,6 +24,8 @@ export type FeatureBlockData = {
   onPress: () => void
   /** A row under the text, e.g. Pray now's ✠ and minutes. */
   footer?: ReactNode
+  /** Drawn in the cover's place, sized off the card's width: the holy-card envelope. */
+  art?: (width: number) => ReactNode
 }
 
 /**
@@ -44,6 +46,7 @@ export function FeatureBlock({
   tone,
   onPress,
   footer,
+  art,
 }: Omit<FeatureBlockData, 'key'>) {
   const [width, setWidth] = useState(0)
   const coverSize = Math.round(width * 0.6)
@@ -77,17 +80,18 @@ export function FeatureBlock({
         ) : (
           <View flex={1} alignItems="center" justifyContent="center" paddingTop={8}>
             {width > 0 &&
-              (cover ? (
-                <GeneratedCover
-                  cover={cover}
-                  title={coverTitle ?? title}
-                  tone={tone}
-                  // Books stand 2:3 — fit the height, not the width.
-                  width={cover.kind === 'book' ? coverSize / 1.5 : coverSize}
-                />
-              ) : (
-                <Plate tone={tone} size={coverSize} />
-              ))}
+              (art?.(width) ??
+                (cover ? (
+                  <GeneratedCover
+                    cover={cover}
+                    title={coverTitle ?? title}
+                    tone={tone}
+                    // Books stand 2:3 — fit the height, not the width.
+                    width={cover.kind === 'book' ? coverSize / 1.5 : coverSize}
+                  />
+                ) : (
+                  <Plate tone={tone} size={coverSize} />
+                )))}
           </View>
         )}
 

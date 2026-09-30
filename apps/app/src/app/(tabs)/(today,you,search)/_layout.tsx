@@ -18,7 +18,12 @@ export const unstable_settings = {
 // in step with the push/pop and puts the Search tab's field back in the tab bar
 // afterwards (patches/react-native-screens); toggling NativeTabs' `hidden` from
 // JS lands mid-transition instead, flickering the bar.
-const fullScreenRoutes = new Set(['pray', 'browse/book/[bookId]/read', 'mass-times/index'])
+const fullScreenRoutes = new Set([
+  'pray',
+  'redeem',
+  'browse/book/[bookId]/read',
+  'mass-times/index',
+])
 
 export default function TabStackLayout() {
   const theme = useTheme()

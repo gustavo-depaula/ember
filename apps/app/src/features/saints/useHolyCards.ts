@@ -16,6 +16,11 @@ export type HolyCard = {
   prayerExcerpt?: LocalizedText
   /** The saint's Mass formulary ref (`sanctorale.10-04`): Mass on its date gives the card. */
   proper?: string
+  /** Its chapter of the Pictorial Lives, and that chapter's closing reflection. */
+  lifeChapter?: string
+  reflection?: LocalizedText
+  /** Two or three sentences introducing the saint, read before praying to open the card. */
+  intro?: LocalizedText
 }
 
 type HolyCardsData = {

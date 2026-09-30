@@ -163,7 +163,7 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
 # app fetches the whole collection at once. Only the fields the app reads ship:
 # the rest (a card's `meta` provenance trail) stays in the repo.
 DATA_COLLECTIONS = {
-    "holy-cards": {"key": "cards", "fields": ("id", "feast", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper")},
+    "holy-cards": {"key": "cards", "fields": ("id", "feast", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper", "intro")},
 }
 
 LIVES = CONTENT / "books" / "pictorial-lives-of-saints"

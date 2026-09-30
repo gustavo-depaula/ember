@@ -25,12 +25,14 @@ export function FeaturedCarousel({
   leading,
 }: {
   blocks: FeatureBlockData[]
-  leading?: ReactNode
+  /** Cards ahead of the blocks, in order: waiting holy cards, then Pray now. */
+  leading?: ReactNode[]
 }) {
   const [containerW, setContainerW] = useState(0)
   const [active, setActive] = useState(0)
 
-  const count = blocks.length + (leading ? 1 : 0)
+  const heads = (leading ?? []).filter(Boolean)
+  const count = blocks.length + heads.length
   if (count === 0) return null
 
   const cardW = Math.round(containerW * cardShare)
@@ -63,11 +65,12 @@ export function FeaturedCarousel({
           contentContainerStyle={{ gap, paddingHorizontal: 24 }}
           onMomentumScrollEnd={onMomentumEnd}
         >
-          {leading && (
-            <View width={cardW} height={cardH}>
-              {leading}
+          {heads.map((head, i) => (
+            // biome-ignore lint/suspicious/noArrayIndexKey: fixed slots, never reordered
+            <View key={i} width={cardW} height={cardH}>
+              {head}
             </View>
-          )}
+          ))}
           {blocks.map(({ key, ...block }) => (
             <View key={key} width={cardW} height={cardH}>
               <FeatureBlock {...block} />

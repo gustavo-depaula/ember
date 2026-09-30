@@ -11,7 +11,12 @@ import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { coverFor } from '@/features/covers'
 import { usePrayedOn } from '@/features/plan-of-life'
-import { todayKey, useSaintOfDayBookImage, useSaintOfDayIndex } from '@/features/saints'
+import {
+  todayKey,
+  usePendingHolyCards,
+  useSaintOfDayBookImage,
+  useSaintOfDayIndex,
+} from '@/features/saints'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
@@ -24,6 +29,7 @@ import { evangelistArtFor } from './evangelistArt'
 import type { FeatureBlockData } from './FeatureBlock'
 import { FeaturedCarousel } from './FeaturedCarousel'
 import { FeatureTile } from './FeatureTile'
+import { HolyCardEnvelopes } from './HolyCardEnvelopes'
 import { useMeditationSubtitle } from './meditationSubtitle'
 import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
@@ -39,7 +45,7 @@ const bookHref = (id: string): Href => ({
 })
 
 /**
- * The daily featured carousel (Gospel of the Day → Saint of the Day → today's
+ * The daily featured carousel (holy cards waiting → Gospel of the Day → Saint of the Day → today's
  * weekday devotion → For this Season → Featured Reading), heading Today.
  * Derived off the liturgical day and re-derived as deferred catalog manifests
  * warm (`useCatalogVersion`).
@@ -54,6 +60,7 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
   const celebrationDisplay = useCelebrationDisplay(saint?.celebration)
   const { data: gospel } = useGospelOfTheDay()
   const featured = pickFeatured(season, today)
+  const envelopes = usePendingHolyCards()
   const dayIndex = Math.floor(today.getTime() / dayMs)
 
   // Re-derive only when the catalog warms in (catalogVersion), not on every
@@ -171,7 +178,15 @@ export function ExploreFeatured({ leading }: { leading?: ReactNode }) {
     })
   }
 
-  return <FeaturedCarousel blocks={blocks} leading={leading} />
+  return (
+    <FeaturedCarousel
+      blocks={blocks}
+      leading={[
+        envelopes && envelopes.length > 0 && <HolyCardEnvelopes pending={envelopes} />,
+        leading,
+      ]}
+    />
+  )
 }
 
 /** The Daily Meditations row, shown on Today below the plan. */

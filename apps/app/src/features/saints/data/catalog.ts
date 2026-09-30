@@ -23,6 +23,9 @@ export type SaintEntry = {
   cardImage?: ImageSource
   patronOf?: string
   prayerExcerpt?: string
+  /** The saint's Mass formulary ref, whose collect is the card's prayer. */
+  proper?: string
+  intro?: string
 }
 
 function dateKey(month: number, day: number): string {
@@ -56,9 +59,10 @@ type CatalogResult = {
 // the collected ones with art) and the 366-day Pictorial Lives index (the rest
 // of the calendar + each card's life). The catalog builds with either still
 // undefined, so the gallery fills in as the blobs land rather than gating on
-// both. The index only enriches things — it hands each bespoke card the life
-// for its feast day, and (when uncollected silhouettes are shown) contributes
-// the plain entries.
+// both. A card's life is its own `lifeChapter`, never the index's chapter for
+// its feast day: the book keeps the pre-1969 calendar, so that day's saint is
+// often someone else. The index contributes the plain entries (when uncollected
+// silhouettes are shown).
 function build(
   cards: HolyCard[] | undefined,
   index: SaintOfDayIndex | undefined,
@@ -66,43 +70,37 @@ function build(
 ): CatalogResult {
   const bespokeDates = new Set((cards ?? []).map((c) => dateKey(c.feast.month, c.feast.day)))
 
-  const inheritedLife: Record<string, { lifeChapter: string; reflection?: string }> = {}
-
   const indexEntries: SaintEntry[] = []
   for (const [mmdd, entry] of Object.entries(index ?? {})) {
     const month = Number.parseInt(mmdd.slice(0, 2), 10)
     const day = Number.parseInt(mmdd.slice(3, 5), 10)
     const key = dateKey(month, day)
-    const reflection = entry.reflection ? localizeContent(entry.reflection) : undefined
-    if (bespokeDates.has(key)) {
-      // A bespoke card owns this day — hand its life to the card and drop the
-      // plain index entry so the wall doesn't show a silhouette beside the art.
-      inheritedLife[key] = { lifeChapter: entry.chapter, reflection }
-      continue
-    }
+    // A bespoke card owns this day: no silhouette beside the art.
+    if (bespokeDates.has(key)) continue
     indexEntries.push({
       id: entry.chapter,
       name: localizeContent(entry.name),
       feast: { month, day },
       feastLabel: feastLabel(month, day, lang),
       lifeChapter: entry.chapter,
-      reflection,
+      reflection: entry.reflection ? localizeContent(entry.reflection) : undefined,
     })
   }
 
   const bespokeEntries: SaintEntry[] = (cards ?? []).map((c: HolyCard) => {
     const { month, day } = c.feast
-    const life = inheritedLife[dateKey(month, day)]
     return {
       id: c.id,
       name: localizeContent(c.name),
       feast: c.feast,
       feastLabel: feastLabel(month, day, lang),
-      lifeChapter: life?.lifeChapter,
-      reflection: life?.reflection,
+      lifeChapter: c.lifeChapter,
+      reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),
       patronOf: c.patronOf ? localizeContent(c.patronOf) : undefined,
       prayerExcerpt: c.prayerExcerpt ? localizeContent(c.prayerExcerpt) : undefined,
+      proper: c.proper,
+      intro: c.intro ? localizeContent(c.intro) : undefined,
     }
   })
 

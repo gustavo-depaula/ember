@@ -8,7 +8,10 @@ const remoteUrl = 'https://ember.dpgu.me/hearth/v2'
 // is the Mac's current LAN address on a device and in the simulator alike. A
 // hard-coded IP went stale on a network change and silently served production.
 const devHost = Constants.expoConfig?.hostUri?.split(':')[0] ?? 'localhost'
-const localUrl = Platform.OS === 'web' ? 'http://localhost:4100' : `http://${devHost}:4100`
+// A second worktree serves its own corpus on another port (EXPO_PUBLIC_HEARTH_PORT).
+const devPort = process.env.EXPO_PUBLIC_HEARTH_PORT ?? '4100'
+const localUrl =
+  Platform.OS === 'web' ? `http://localhost:${devPort}` : `http://${devHost}:${devPort}`
 
 let useLocal = __DEV__
 let initialized = false
