@@ -1,0 +1,469 @@
+{
+  "batch": 21,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-21.md",
+  "cards": [
+    {
+      "id": "john_matha",
+      "letter": "J",
+      "feast": {
+        "month": 2,
+        "day": 8
+      },
+      "name": {
+        "en-US": "St. John of Matha",
+        "pt-BR": "São João de Matha"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Trinitarians",
+        "pt-BR": "Fundador dos Trinitários"
+      },
+      "prayerExcerpt": {
+        "en-US": "Let us never forget that our blessed Lord bade us love our neighbor not only as ourselves, but as He loved us.",
+        "pt-BR": "Jamais nos esqueçamos de que o nosso bendito Senhor nos ordenou amar o próximo não somente como a nós mesmos, mas como Ele nos amou."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-08 reflection, its first clause closed with a full stop (Pictorial Lives, public domain)",
+      "subject": "St. John of Matha, founder of the Order of the Most Holy Trinity for the redemption of captives, half-length: the white habit and white scapular of his Order with its cross on the breast, the upright RED and the crossbar BLUE, a white hood lying back on the shoulders; in his left hand an open iron shackle hanging from a short broken chain, in his right a small leather purse of ransom money held out a little, as in the book's engraving. Behind him, a calm blue Mediterranean with a small ship whose only sail is a white monk's cloak tied to the mast, carrying a few tiny freed captives toward the low shore and tower of Ostia, under a clear, windy sky. Compassionate and steadfast; no lettering.",
+      "face": "A Provençal Frenchman of about fifty, CLEAN-SHAVEN, with a fair, lightly sun-browned complexion and a medium-width OVAL face with a CONVEX PROFILE — a gently SLOPING forehead, a LARGE, CURVED, high-bridged nose that leads the face, a SHORT, softly rounded chin set a little back under the mouth, lean cheeks with shallow hollows; CLOSE-SET, bright dark-brown eyes under thin, ARCHED dark brows; a small, gentle mouth; dark-brown hair cropped short in a round crown with a small tonsure; the gaze turned toward us, kind and resolute.",
+      "refs": [
+        "thomas_aquinas",
+        "vincent_de_paul",
+        "dominic"
+      ],
+      "basis": "No likeness from life; the seventeenth-century portrait engraved after Erasmus Quellinus and La Hyre's full-length study (both on Commons, local copies) show him clean-shaven with cropped hair in the white habit, which the card keeps, and the book's engraving shows the cross on the breast and the purse. The Trinitarian cross, red upright and blue crossbar, is from Wikipedia's Trinitarians article; the ship with his cloak for a sail reaching Ostia is the book's. The convex profile is our choice.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Martin van den Enden after Erasmus Quellinus II, portrait of St. John of Matha",
+          "url": "https://commons.wikimedia.org/wiki/File:Martin_ENDEN_VAN_DEN_D%27apr%C3%A8s_Erasmus_II_QUELLINUS_-_Un_portrait_de_Saint_Jean_de_Matha.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Laurent de La Hyre, St John of Matha, Founder of the Order of the Trinitarians",
+          "url": "https://commons.wikimedia.org/wiki/File:Laurent_de_La_Hyre_-_St_John_of_Matha,_Founder_of_the_Order_of_the_Trinitarians_-_WGA12318.jpg"
+        },
+        {
+          "title": "Wikipedia, Trinitarians (the habit and the red and blue cross)",
+          "url": "https://en.wikipedia.org/wiki/Trinitarians"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-08-john-of-matha (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-08-john-of-matha.md"
+        }
+      ],
+      "lifeChapter": "feb-08-john-of-matha",
+      "catalogMatch": "St. John of Matha"
+    },
+    {
+      "id": "apollonia",
+      "letter": "A",
+      "feast": {
+        "month": 2,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Apollonia",
+        "pt-BR": "Santa Apolônia"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyr of Alexandria",
+        "pt-BR": "Virgem e mártir de Alexandria"
+      },
+      "prayerExcerpt": {
+        "en-US": "The least suffering for the faith, borne with humility and courage, is the proof that Christ has heard our prayer.",
+        "pt-BR": "O menor sofrimento pela fé, suportado com humildade e coragem, é a prova de que Cristo ouviu a nossa oração."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-09 reflection, closing clause, capitalised (Pictorial Lives, public domain)",
+      "subject": "St. Apollonia, the aged virgin of Alexandria, half-length: a long deep-blue veil (palla) over grey-streaked hair, drawn around the shoulders over a plain earth-red woollen tunic; in her right hand, held up gently, a pair of small iron pincers gripping a single white tooth, her traditional sign; in her left a green martyr's palm resting against her shoulder. Behind her, outside the city gate, the pale walls and roofs of Roman Alexandria and its harbour, with the tall white Pharos lighthouse far off on its island, under a hazy, luminous sky. No fire, no wounds; serene and unafraid; no lettering.",
+      "face": "An Alexandrian woman of about sixty-five with a warm olive complexion and a SHORT, WIDE face — a BROAD, LOW forehead, smooth, full cheeks and a SMALL, soft, rounded chin; very LARGE, dark, luminous eyes, CLOSE-SET, like those of a Fayum portrait, under THICK, strongly ARCHED black brows flecked with grey that nearly MEET above the nose; a LONG, slender nose with a narrow bridge and a gentle HOOK; a small, full mouth closed calmly; fine lines at the eyes; a few grey-streaked black waves showing under the veil; her gaze lifted a little, steadfast.",
+      "refs": [
+        "lucy",
+        "monica",
+        "anne"
+      ],
+      "basis": "No likeness survives. The book, following Dionysius of Alexandria, calls her 'an aged virgin' (the Catholic Encyclopedia reads virgo presbytera as possibly a deaconess), so she is shown old, not as the young girl of Zurbarán; the pincers holding a tooth are her sign in art (Catholic Encyclopedia). The Fayum-portrait eyes and brows, a real Roman Egyptian type, are our choice for the structure.",
+      "sources": [
+        {
+          "title": "Catholic Encyclopedia (1907), St. Apollonia (Dionysius's letter; pincers with a tooth in art)",
+          "url": "https://www.newadvent.org/cathen/01617c.htm"
+        },
+        {
+          "title": "Wikipedia, Saint Apollonia (lead image: Zurbarán, Saint Apollonia, Louvre)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Apollonia"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-09-apollonia-and-the (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-09-apollonia-and-the.md"
+        }
+      ],
+      "lifeChapter": "feb-09-apollonia-and-the",
+      "catalogMatch": "St. Apollonia and the Martyrs of Alexandria"
+    },
+    {
+      "id": "severinus_agaunum",
+      "letter": "S",
+      "feast": {
+        "month": 2,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Severinus of Agaunum",
+        "pt-BR": "São Severino de Agauno"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Agaunum",
+        "pt-BR": "Abade de Agauno"
+      },
+      "prayerExcerpt": {
+        "en-US": "God loads with His favor those who delight in exercising mercy.",
+        "pt-BR": "Deus cumula com o seu favor aqueles que se deleitam em exercer a misericórdia."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-11 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Severinus, Abbot of Agaunum, half-length: a monk's cowl of undyed grey-brown wool with a hood lying back; over his left forearm he holds his heavy dark-brown woollen cloak, half unfolded and offered forward, the cloak by which he healed King Clovis; in his right hand a plain wooden staff. Behind him, the narrow valley of the Rhône at Agaunum (Saint-Maurice in the Valais), a small early abbey church and cells at the foot of a great sheer grey cliff, with snowy Alpine peaks and dark pines under a cold, clear winter sky. Kindly and grave; no mitre, no lettering.",
+      "face": "A Burgundian of about sixty with a fair, weathered, ruddy complexion and a LONG face whose middle is LONG — a LONG, STRAIGHT nose with a broad, rounded tip, a LONG upper lip, WIDE-SET, kindly grey eyes whose outer corners DROOP, with soft pouches beneath, thick UPSWEPT iron-grey brows, full cheeks, and rather LARGE EARS standing a little out from the head; a ring of iron-grey hair around the monastic tonsure; a LONG, SPADE-SHAPED beard of iron-grey streaked with brown, broad and squared at the end, reaching the breast; the gaze gentle and a little sad.",
+      "refs": [
+        "benedict",
+        "jerome",
+        "francis_assisi"
+      ],
+      "basis": "No likeness survives; the book's engraving shows a tonsured monk with a long beard spreading his cloak at the sick king's bed, and the card keeps the tonsure, the long beard and the cloak. French Wikipedia confirms the cloak healing of Clovis and his death at Château-Landon in 507; Saint-Maurice lies under its cliff in the Rhône valley. The long mid-face, drooping eyes and ears are our choice.",
+      "sources": [
+        {
+          "title": "Wikipédia (fr), Séverin d'Agaune",
+          "url": "https://fr.wikipedia.org/wiki/S%C3%A9verin_d%27Agaune"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-11-severinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-11-severinus.md"
+        }
+      ],
+      "lifeChapter": "feb-11-severinus",
+      "catalogMatch": "St. Severinus, Abbot of Agaunum"
+    },
+    {
+      "id": "benedict_aniane",
+      "letter": "B",
+      "feast": {
+        "month": 2,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Benedict of Anian",
+        "pt-BR": "São Bento de Aniane"
+      },
+      "patronOf": {
+        "en-US": "Restorer of monastic discipline",
+        "pt-BR": "Restaurador da disciplina monástica"
+      },
+      "prayerExcerpt": {
+        "en-US": "The decay of monastic discipline and its restoration by St. Benedict prove that none are safe from loss of fervor, but that all can regain it by fidelity to grace.",
+        "pt-BR": "A decadência da disciplina monástica e a sua restauração por São Bento provam que ninguém está a salvo da perda do fervor, mas que todos o podem recobrar pela fidelidade à graça."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-12 reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Benedict of Anian, the reformer of the monasteries of the Frankish empire, half-length: the black Benedictine cowl with wide sleeves and its hood lying back; he holds open a large manuscript codex, his finger resting on the page (his collection of the monastic rules), and a second closed book is tucked under his arm; no crozier. Behind him, the brook Anian running between holm-oaks and grey Languedoc garrigue, his little stone hermitage beside it, and further off on the plain a great Carolingian abbey church with its monks' buildings, under a warm, clear southern sky. Earnest and humble; no lettering on the books or anywhere.",
+      "face": "A Visigothic noble of about seventy, lean and fair-skinned, with a LONG face whose most striking part is a very HIGH, SQUARE forehead crossed by three deep, level lines — deep-set, MOIST, pale-blue eyes that glisten as if near tears, straight grey brows, a long, thin nose with a slight CROOK in its bridge, HOLLOW cheeks under firm cheekbones, and a lean, SQUARE jaw whose line shows through a SHORT, close-trimmed white beard; a thin ring of white hair around the tonsure; the gaze searching and tender, toward us.",
+      "refs": [
+        "bernard_clairvaux",
+        "bonaventure",
+        "jerome"
+      ],
+      "basis": "No portrait survives; the book's engraving shows an aged, bearded monk resting under trees, and the gilded statue at Aniane (Wikipedia lead image) and the Saint-Guilhem relief (Commons) give him a beard and the black Benedictine habit, which the card keeps. His Visigothic birth (Witiza, son of Count Aigulf) is from Wikipedia and the Catholic Encyclopedia, and the book's 'gift of tears' gives the moist eyes. He carries books, not a crozier, and a short beard, to stay clear of `benedict`.",
+      "sources": [
+        {
+          "title": "Wikipedia, Benedict of Aniane (lead image: statue in the church of Aniane)",
+          "url": "https://en.wikipedia.org/wiki/Benedict_of_Aniane"
+        },
+        {
+          "title": "Catholic Encyclopedia (1907), St. Benedict of Aniane",
+          "url": "https://www.newadvent.org/cathen/02467a.htm"
+        },
+        {
+          "title": "Wikimedia Commons, relief of Benedict of Aniane, Saint-Guilhem-le-Désert",
+          "url": "https://commons.wikimedia.org/wiki/File:Sant-Guilhem-1-Benet.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-12-benedict-of-anian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-12-benedict-of-anian.md"
+        }
+      ],
+      "lifeChapter": "feb-12-benedict-of-anian",
+      "catalogMatch": "St. Benedict of Anian"
+    },
+    {
+      "id": "catherine_ricci",
+      "letter": "C",
+      "feast": {
+        "month": 2,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Catherine of Ricci",
+        "pt-BR": "Santa Catarina de Ricci"
+      },
+      "patronOf": {
+        "en-US": "Dominican nun of Prato",
+        "pt-BR": "Monja dominicana de Prato"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I long to suffer all imaginable pains, that souls may quickly see and praise their Redeemer.\"",
+        "pt-BR": "\"Anseio por sofrer todas as dores imagináveis, para que as almas vejam e louvem prontamente o seu Redentor.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-13-catherine-of-ricci.md, her words during her sufferings for a soul in purgatory (Pictorial Lives, public domain)",
+      "subject": "St. Catherine of Ricci, Dominican nun and prioress of San Vincenzo at Prato, half-length, as in the portrait attributed to Naldini: an all-white Dominican habit with a white wimple and a white veil (no black mantle), a black leather belt; in her left hand an open book held low; her right hand open, palm up, in a gesture of offering for the Holy Souls. Beside her on a stone ledge a simple dark wooden crucifix stands. Behind her, Prato: the green-and-white banded marble front of its cathedral with the round corner pulpit, red-tiled roofs and a cloister wall, and the dark hill of Monteferrato beyond, under a soft, pearly morning sky. Calm and tender; no crown of thorns, no lily, no lettering.",
+      "face": "A Florentine woman of about forty-five with a fair complexion and a natural HIGH COLOUR on the cheeks, and a BROAD, full, MOON-SHAPED face — WIDE, FLAT cheeks, a SHORT, broad nose with rounded, slightly FLARED nostrils, SMALL, WIDE-SET grey eyes under HEAVY upper lids, FAINT, thin brows set HIGH above them, a small, soft mouth with a full lower lip, just parted, and a soft, rounded chin; hair hidden by the white wimple and veil; a quiet, open gaze straight at us.",
+      "refs": [
+        "clare_assisi",
+        "teresa",
+        "rose_lima"
+      ],
+      "basis": "The portrait of 'B. Catherina de Ricciis Florentina' in the Museo Civico of Montepulciano, attributed on Commons to Giovanni Battista Naldini (1535–1591), her contemporary, shows a broad, flat-cheeked, high-coloured face with a short broad nose, small heavy-lidded grey eyes and a small parted mouth, in a white habit and white veil holding a book; the card follows it. Dates and Prato are from Wikipedia and the Catholic Encyclopedia. The white veil, the book and the broad face keep her apart from `catherine_siena`.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Giovanni Battista Naldini (attr.), portrait of Bl. Catherine de' Ricci, Museo Civico, Montepulciano",
+          "url": "https://commons.wikimedia.org/wiki/File:Giovanni_battista_naldini,_ritratto_della_beata_caterina_de%27_ricci.jpg"
+        },
+        {
+          "title": "Catholic Encyclopedia (1908), St. Catherine de' Ricci",
+          "url": "https://www.newadvent.org/cathen/03444a.htm"
+        },
+        {
+          "title": "Wikipedia, Catherine de' Ricci",
+          "url": "https://en.wikipedia.org/wiki/Catherine_de%27_Ricci"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-13-catherine-of-ricci (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-13-catherine-of-ricci.md"
+        }
+      ],
+      "lifeChapter": "feb-13-catherine-of-ricci",
+      "catalogMatch": "St. Catherine of Ricci"
+    },
+    {
+      "id": "valentine",
+      "letter": "V",
+      "feast": {
+        "month": 2,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Valentine",
+        "pt-BR": "São Valentim"
+      },
+      "patronOf": {
+        "en-US": "Priest and martyr",
+        "pt-BR": "Sacerdote e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the cause of justice and truth, prudence should not be held in account; otherwise prudence is mere human respect.",
+        "pt-BR": "Na causa da justiça e da verdade, a prudência não deve ser levada em conta; do contrário, a prudência é mero respeito humano."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-14 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Valentine, priest of Rome, half-length: a third-century priest's dress, a long white tunic under a deep wine-red paenula (the round bell-shaped cloak of the time) with a plain white linen scarf about the neck; he holds a green martyr's palm and a small bound codex of the Gospels against his breast. Behind him, the Via Flaminia north of Rome where he was buried: the stone arches of the Milvian Bridge (the book's 'Ponte Mole') over the green Tiber, umbrella pines and cypresses, white roadside tombs, under a clear, cold February sky. Warm and courageous; no hearts, no mitre, no lettering.",
+      "face": "A Roman of about fifty with a warm olive complexion and an OBLONG face — prominent, ROUNDED cheekbones that lift when he smiles, a broad, straight nose, dark-brown eyes that CRINKLE at the corners under softly arched dark brows, deep SMILE LINES, and a notably WIDE, generous mouth with full lips in an open, warm smile; short, dark, CURLY hair greying at the temples; a short, rounded dark beard with grey at the chin; his gaze warm and direct.",
+      "refs": [
+        "sebastian",
+        "philip_neri",
+        "charles_borromeo"
+      ],
+      "basis": "No likeness survives, and the Catholic Encyclopedia finds his Acts 'of no historical value'. The book makes him a Roman priest who helped the martyrs under Claudius II and was beheaded about 270, with a church near the Ponte Mole on the Flaminian Way; its engraving shows him bearded, saying Mass in a prison. Hence the priest's dress, the beard and the Flaminian setting; the broad, smiling face is our choice.",
+      "sources": [
+        {
+          "title": "Catholic Encyclopedia (1912), St. Valentine",
+          "url": "https://www.newadvent.org/cathen/15254a.htm"
+        },
+        {
+          "title": "Wikipedia, Saint Valentine (Via Flaminia; relics at Santa Prassede)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Valentine"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-14-valentine (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-14-valentine.md"
+        }
+      ],
+      "lifeChapter": "feb-14-valentine",
+      "catalogMatch": "St. Valentine, Priest and Martyr"
+    },
+    {
+      "id": "faustinus_jovita",
+      "letter": "F",
+      "feast": {
+        "month": 2,
+        "day": 15
+      },
+      "name": {
+        "en-US": "Sts. Faustinus and Jovita",
+        "pt-BR": "Santos Faustino e Jovita"
+      },
+      "patronOf": {
+        "en-US": "Martyrs, patrons of Brescia",
+        "pt-BR": "Mártires, padroeiros de Bréscia"
+      },
+      "prayerExcerpt": {
+        "en-US": "The spirit of Christ is a spirit of martyrdom—at least of mortification and penance.",
+        "pt-BR": "O espírito de Cristo é um espírito de martírio — ao menos de mortificação e penitência."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-15 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Faustinus and Jovita, noble brothers of Brescia, half-length side by side. Faustinus (left), the elder, a priest: a white alb under a full, bell-shaped deep-red chasuble, holding a closed Gospel book and a green palm. Jovita (right), the younger, a deacon: a white alb under a red dalmatic with wide sleeves, holding a green palm upright, his other hand on his breast. Behind them, Roman Brescia: the tall Corinthian columns of the Capitoline temple and the forum, and above the town the green Cidneo hill, under a bright, clear sky. Brotherly, fearless and serene; no swords, no lettering.",
+      "face": "Two clearly different brothers of a fair-olive Lombard family. Faustinus (left): about thirty-two, with a LONG, RECTANGULAR face and a strong, STRAIGHT jaw — a high forehead, a high, narrow nose bridge running into a straight nose, deep-set grey eyes under HEAVY, straight dark-blond brows, flat cheeks, a firm, level mouth; short wavy dark-blond hair and a short, neatly trimmed dark-blond beard; his gaze grave and steady toward us. Jovita (right): about twenty-five, BEARDLESS, with a SHORT, soft, ROUND face — a low, rounded forehead, a short, WIDE SNUB nose, ROUND, bright brown eyes under curved brows, full cheeks, a small, smiling mouth and a small, rounded chin; thick chestnut curls to the ears; his gaze lifted, eager.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likenesses survive; the Catholic Encyclopedia gives Faustinus as the elder, a priest, and Jovita a deacon, and Foppa's Pala della Mercanzia (Wikipedia lead image) shows them in priestly and diaconal vestments with palms, while the book's engraving shows them bearded at their beheading. The card follows Foppa's vestments and gives the beard to the elder only. The Capitolium of Brescia stood in their time (first century).",
+      "sources": [
+        {
+          "title": "Wikipedia, Faustinus and Jovita (lead image: Vincenzo Foppa, Pala della Mercanzia)",
+          "url": "https://en.wikipedia.org/wiki/Faustinus_and_Jovita"
+        },
+        {
+          "title": "Catholic Encyclopedia (1909), Sts. Faustinus and Jovita",
+          "url": "https://www.newadvent.org/cathen/06019a.htm"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-15-sts-faustinus-and-jovita (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-15-sts-faustinus-and-jovita.md"
+        }
+      ],
+      "lifeChapter": "feb-15-sts-faustinus-and-jovita",
+      "catalogMatch": "Sts. Faustinus and Jovita"
+    },
+    {
+      "id": "john_britto",
+      "letter": "J",
+      "feast": {
+        "month": 2,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. John de Britto",
+        "pt-BR": "São João de Brito"
+      },
+      "patronOf": {
+        "en-US": "Jesuit, martyr in India",
+        "pt-BR": "Jesuíta, mártir na Índia"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"God, Who called me from the world into religious life, now calls me from Portugal to India.\"",
+        "pt-BR": "\"Deus, que me chamou do mundo para a vida religiosa, chama-me agora de Portugal para a Índia.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-16-blessed-john-de-britto.md, his reply to the Papal Nuncio (Pictorial Lives, public domain). The 02-16 index reflection is his chapter's (a line of the Imitation of Christ, not his own)",
+      "subject": "St. John de Britto, Jesuit missionary of the Madurai mission, half-length, dressed as a Tamil sannyasi as he lived: a long, loose robe of saffron-yellow cotton with a saffron shawl over the shoulders and a small saffron cloth wound as a turban; he holds a wooden crucifix against his breast with both hands and a green martyr's palm leans on his shoulder. Behind him, the coast of the Marava country near Oriyur: tall palmyra palms, golden sand dunes, a small village of thatched houses, and the blue sea of the Palk Strait under a hot, bright sky. Gentle, ardent and humble; no wounds, no lettering.",
+      "face": "A Portuguese nobleman of about forty-five, deeply sun-browned by India, with a LEAN, LONG face — HIGH, sharply cut cheekbones with DEEP HOLLOWS beneath them, a NARROW, very HIGH-BRIDGED nose, large, dark, deep-set, burning eyes under strong, ARCHED black brows, a wide forehead, a firm mouth; black hair under the saffron turban-cloth; a full black beard, cut round and not too long, framing the hollow cheeks; the gaze lifted a little, ardent.",
+      "refs": [
+        "ignatius_loyola",
+        "anthony_padua",
+        "dominic"
+      ],
+      "basis": "No portrait from life is known to us; the popular image (Wikipedia lead image) shows him bearded in a cream-and-saffron sannyasi's shawl and red cap with a crucifix and palm. The Catholic Encyclopedia says 'his dress was yellow cotton' and that he lived as a Tamil ascetic; Oriyur on the Marava coast is where he was beheaded. The lean, hollow-cheeked face is our choice, kept apart from `francis_xavier` (oval, in black) by the saffron dress and the structure.",
+      "sources": [
+        {
+          "title": "Wikipedia, John de Britto (lead image: devotional picture; canonized 1947)",
+          "url": "https://en.wikipedia.org/wiki/John_de_Britto"
+        },
+        {
+          "title": "Catholic Encyclopedia (1910), Bl. John de Britto",
+          "url": "https://www.newadvent.org/cathen/08461a.htm"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-16-blessed-john-de-britto (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-16-blessed-john-de-britto.md"
+        }
+      ],
+      "lifeChapter": "feb-16-blessed-john-de-britto",
+      "catalogMatch": "Blessed John de Britto"
+    },
+    {
+      "id": "onesimus",
+      "letter": "O",
+      "feast": {
+        "month": 2,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Onesimus",
+        "pt-BR": "Santo Onésimo"
+      },
+      "patronOf": {
+        "en-US": "Disciple of St. Paul",
+        "pt-BR": "Discípulo de São Paulo"
+      },
+      "prayerExcerpt": {
+        "en-US": "With what excess of goodness does God communicate Himself to souls that open themselves to Him!",
+        "pt-BR": "Com que excesso de bondade se comunica Deus às almas que a Ele se abrem!"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-16-onesimus-disciple-of-st-paul.md, Reflection, first sentence (Pictorial Lives, public domain; the 02-16 index reflection is John de Britto's)",
+      "subject": "St. Onesimus, the Phrygian slave whom St. Paul converted and sent back to Philemon, half-length, as the bearer of the Apostle's letter: a plain, undyed knee-length woollen tunic with a leather belt, a dark-brown travelling cloak over one shoulder, a traveller's staff in one hand; with the other he holds a small rolled letter, tied and sealed with red wax, close to his breast. Behind him, the Lycus valley in Phrygia: the small hill-city of Colossae with its white houses, a road winding toward it through olive groves, and the great snow-capped ridge of Mount Cadmus above, under a fresh, clear sky. Grateful, eager and free; no chains, no lettering.",
+      "face": "A Phrygian of about thirty, BEARDLESS, with a warm light-brown Anatolian complexion and a WIDE, FLAT-PLANED face — broad, HIGH cheekbones set wide, a BROAD, low-bridged nose, VERY WIDE-SET dark almond eyes under straight, thick black brows, a WIDE mouth with full lips in a small, grateful smile, a SQUARE chin with a small cleft; short, tight black curls close to the head; the gaze lifted, full of hope.",
+      "refs": [
+        "aloysius_gonzaga",
+        "sebastian",
+        "patrick"
+      ],
+      "basis": "No likeness survives. The book's engraving shows him as a young, beardless man in a belted tunic holding a scroll, and the card follows it; the Painter's Manual lists him among the Seventy simply as 'vieillard', an old man, which the card sets aside for the book's picture of the letter-bearer. Colossae in the Lycus valley below Mount Cadmus was Philemon's city (book, Wikipedia).",
+      "sources": [
+        {
+          "title": "Wikipedia, Onesimus (lead image: initial with Onesimus and Philemon)",
+          "url": "https://en.wikipedia.org/wiki/Onesimus"
+        },
+        {
+          "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+          "url": "https://archive.org/details/manueldiconograp00didr"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-16-onesimus-disciple-of-st-paul (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-16-onesimus-disciple-of-st-paul.md"
+        }
+      ],
+      "lifeChapter": "feb-16-onesimus-disciple-of-st-paul",
+      "catalogMatch": "St. Onesimus"
+    },
+    {
+      "id": "flavian",
+      "letter": "F",
+      "feast": {
+        "month": 2,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Flavian",
+        "pt-BR": "São Flaviano"
+      },
+      "patronOf": {
+        "en-US": "Patriarch of Constantinople, martyr",
+        "pt-BR": "Patriarca de Constantinopla, mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "By his unswerving loyalty to the Vicar of Christ, Flavian held fast to the truth and gained the martyr's crown.",
+        "pt-BR": "Por sua inabalável lealdade ao Vigário de Cristo, Flaviano apegou-se firmemente à verdade e ganhou a coroa do martírio."
+      },
+      "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-17 reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Flavian, Patriarch of Constantinople, half-length, in fifth-century Byzantine vestments as the Menologion of Basil II and the icons show him: a pale phelonion over a darker tunic and a white omophorion with large dark crosses about the shoulders; no mitre. He holds to his breast a rolled scroll tied and sealed, his appeal to Pope Leo. Behind him, the Bosporus and the sea walls of Constantinople, the timber-roofed basilicas and red-tiled roofs of the city on its hills with dark cypresses, under a clear evening sky. Steadfast and meek; no wounds, no lettering.",
+      "face": "A Greek of about fifty-eight with a light olive complexion and a face of HIGH, rounded cheekbones over SUNKEN temples — a SHORT, flat forehead with the grey hair growing LOW on it in short, tight curls, a LONG, thin, BEAKED nose, CLOSE-SET, deep-set grey eyes under straight grey brows, lean cheeks, a small, firm mouth, and a LONG, NARROW chin carried down by a long, narrow, POINTED grey beard; the gaze calm and unflinching, toward us.",
+      "refs": [
+        "athanasius",
+        "ambrose",
+        "augustine"
+      ],
+      "basis": "No likeness survives. The Menologion of Basil II (Wikipedia lead image) and a modern icon (Commons) show him bearded in a phelonion and omophorion, which the card keeps; the book's engraving shows him mitred and bearded before Dioscorus. The appeal to Rome is the book's and the Catholic Encyclopedia's. The low curly hairline, beaked nose and narrow pointed beard are our choice, kept apart from the set's other Greek bishops.",
+      "sources": [
+        {
+          "title": "Wikipedia, Flavian of Constantinople (lead image: Menologion of Basil II)",
+          "url": "https://en.wikipedia.org/wiki/Flavian_of_Constantinople"
+        },
+        {
+          "title": "Catholic Encyclopedia (1909), St. Flavian",
+          "url": "https://www.newadvent.org/cathen/06098c.htm"
+        },
+        {
+          "title": "Wikimedia Commons, icon of St. Flavian (Flavianos.jpg)",
+          "url": "https://commons.wikimedia.org/wiki/File:Flavianos.jpg"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, feb-17-flavian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/feb-17-flavian.md"
+        }
+      ],
+      "lifeChapter": "feb-17-flavian",
+      "catalogMatch": "St. Flavian, Bishop, Martyr"
+    }
+  ]
+}
