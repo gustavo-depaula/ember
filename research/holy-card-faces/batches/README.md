@@ -23,6 +23,7 @@ Every card of `docs/plans/holy-cards-catalog.md`, made 10 at a time; each batch 
 | 16 | trinity, corpus_christi, sacred_heart, christ_king, lourdes, mount_carmel, mary_major, queenship, holy_name_mary, our_lady_sorrows |
 | 17 | our_lady_mercy, our_lady_rosary, loreto, guadalupe, immaculate_heart, mother_of_church; Rosary: finding_temple, wedding_cana, proclamation_kingdom, institution_eucharist |
 | 18 | Rosary: agony_garden, scourging, crowning_thorns, carrying_cross, crucifixion; Pictorial Lives second feasts: peter_chair_rome, discovery_cross, john_latin_gate, apparition_michael, peter_chains |
+| 52–54 | Canonized since 2022, in date order (52: 14 Jan – 9 May, 53: 22 May – 6 Aug, 54: 25 Aug – 9 Dec, with Bl. Fulton Sheen). Faces from photographs or portraits from life; excerpts the saints' own words in our own renderings |
 | 19–43 | Pictorial Lives, in the book's date order: each batch takes the next 10 unticked lines of "From the Pictorial Lives of the Saints" (and the book's feasts on the same dates) that no `batches/*.json` claims yet through `catalogMatch`. Ids are the saint's name in snake_case, unique against `content/saints/` and every batch (`gregory_langres`, not `gregory`) |
 | 44–51 | Seasons and Ember Days (19), parts of the Mass (29), objects and vestments (24), in catalog order, 10 at a time |
 

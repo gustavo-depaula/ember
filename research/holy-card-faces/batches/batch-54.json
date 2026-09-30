@@ -1,0 +1,379 @@
+{
+  "batch": 54,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-54.md",
+  "cards": [
+    {
+      "id": "maria_troncatti",
+      "letter": "M",
+      "feast": {
+        "month": 8,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Maria Troncatti",
+        "pt-BR": "Santa Maria Troncatti"
+      },
+      "patronOf": {
+        "en-US": "Missionary nurse among the Shuar",
+        "pt-BR": "Enfermeira missionária entre os shuar"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I give you the medicines, but the one who obtains your healing is Mary Help of Christians.\"",
+        "pt-BR": "\"Eu vos dou os remédios, mas quem vos alcança a cura é Maria Auxiliadora.\""
+      },
+      "excerptSource": "Her saying «Io vi do le medicine, ma chi vi ottiene la guarigione è Maria Ausiliatrice» (the page misspells «guarigone»), which, the Dicastery's page records, she used to repeat to the sick of the Ecuadorian forest (also in the Salesian Sisters' note on her canonization emblem); our rendering (a single short quotation; she died in 1969)",
+      "subject": "St. Maria Troncatti, Salesian Sister (Daughter of Mary Help of Christians) from the Alps of Brescia, nurse in the First World War and for forty-four years missionary nurse among the Shuar of the Ecuadorian Amazon, half-length in the habit of her photographs: a black habit and black veil, a narrow white band at the brow, a broad, ROUNDED white collar covering the breast, a small crucifix on it; round, thin-rimmed spectacles; she holds a rosary in her right hand and with her left a small brown leather nurse's bag, as in the emblem of her canonization. Beside her, a little lower, a Shuar boy of about six in a plain cotton shirt, with straight black hair cut in a fringe, looks up at her. Behind them, the mission of Macas in the valley of the Upano: a small white mission church with a wooden porch, thatched houses among banana plants, the broad, stony river, and the green, cloud-wreathed wall of the Andean foothills and the Amazon forest beyond. Motherly and joyful; no lettering.",
+      "face": "A woman from the Alpine valleys of Lombardy of about seventy-five, with a fair, weathered, lightly ruddy complexion and a BROAD, ROUNDED-SQUARE face — a wide, low forehead under the white band, FULL, rounded cheeks, a SHORT, broad nose, small, bright, kindly eyes creased at the corners behind ROUND, thin-rimmed spectacles, thin, faint brows, a WIDE mouth in a broad, open, warm smile that lifts the cheeks, and a soft fullness under a rounded chin; the gaze direct and cheerful. Not the small, pointed-chinned, unsmiling teresa_calcutta, nor the flat, thin-lipped marie_leonie_paradis.",
+      "refs": [
+        "teresa",
+        "margaret_mary",
+        "clare_assisi"
+      ],
+      "basis": "Her photographs in old age (the Salesian Sisters' coloured portrait of 2026 on cgfmanet.org; the Dicastery's portrait drawn from a photograph; the photograph of her riding to Sucúa, AGFMA, in Rivista DMA): a broad, rounded face with full cheeks, round spectacles and a wide smile, in the black habit and veil with a broad, rounded white collar. The bag and rosary follow the emblem of her canonization; the Dicastery places her mission at Macas, beyond the river Upano, and at Sucúa.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Maria Troncatti (biography, portrait, her sayings)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/maria-troncatti.html"
+        },
+        {
+          "title": "Istituto Figlie di Maria Ausiliatrice, 23 August 2026 (coloured portrait)",
+          "url": "https://www.cgfmanet.org/en/ifma-en/leredita-di-santa-maria-troncatti/"
+        },
+        {
+          "title": "Rivista DMA, Suor Maria Troncatti missionaria (photograph at Sucúa)",
+          "url": "https://www.rivistadma.org/2025/08/suor-maria-troncatti-missionaria/"
+        },
+        {
+          "title": "Istituto Figlie di Maria Ausiliatrice, Suor Maria Troncatti: il logo ufficiale (the bag and rosary; her saying)",
+          "url": "https://www.cgfmanet.org/ifma/150-missioni-fma/suor-maria-troncatti-il-logo-ufficiale/"
+        }
+      ],
+      "catalogMatch": "St. Maria Troncatti"
+    },
+    {
+      "id": "bartolo_longo",
+      "letter": "B",
+      "feast": {
+        "month": 10,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Bartolo Longo",
+        "pt-BR": "São Bártolo Longo"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Rosary",
+        "pt-BR": "Apóstolo do Rosário"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"O blessed Rosary of Mary, sweet chain that ties us back to God, bond of love that joins us to the Angels.\"",
+        "pt-BR": "\"Ó bendito Rosário de Maria, corrente suave que nos reata a Deus, laço de amor que nos une aos Anjos.\""
+      },
+      "excerptSource": "The close of his Supplica alla Regina del Santo Rosario di Pompei (1883), «O Rosario benedetto di Maria, catena dolce che ci rannodi a Dio, vincolo d'amore che ci unisci agli Angeli», which John Paul II made his own at the end of Rosarium Virginis Mariae (2002); the first two clauses, our rendering from the Italian (he died in 1926), not the Vatican's English or Portuguese",
+      "subject": "St. Bartolo Longo, lawyer of Apulia who, converted from spiritualism, became the apostle of the Rosary and built the Shrine of Our Lady of the Rosary at Pompeii with its orphanages, half-length in the dress of his photographs about 1900: a dark frock coat and waistcoat, a high white wing collar and a dark tie, a PINCE-NEZ on a thin black cord; in his hands, held before his breast, a long rosary of dark beads with a small crucifix. Behind him, the Shrine of Pompeii: its white and cream façade with columns and loggia, the tall bell tower, the new town around it, and Vesuvius, grey-violet and softly smoking, across the plain under a clear southern sky. Earnest and devout; no lettering.",
+      "face": "A southern Italian of about sixty with a fair olive complexion and a LONG face under a HIGH, DOMED forehead — thick, wavy dark hair going grey, RECEDING at the temples and brushed back, standing out in soft waves over the ears; deep-set, earnest dark eyes under heavy brows that rise a little at their inner ends, behind a small oval PINCE-NEZ; a LONG, straight nose; a FULL, BROAD, BUSHY beard, dark and streaked with grey, grown from the cheekbones and reaching to the collar, with a full moustache over a closed mouth; the gaze intent and a little upward. Not the pointed chin beard of cesar_de_bus, nor the round spectacles and narrow pointed beard of maximilian_kolbe.",
+      "refs": [
+        "thomas_aquinas",
+        "vincent_de_paul",
+        "alphonsus_liguori"
+      ],
+      "basis": "His photographs (Wikimedia Commons: the portrait of about 1900, the photograph at thirty-five, the photograph with his wife in 1920; the Dicastery's portrait drawn from the first): a long face under a high, domed forehead, wavy hair brushed back and receding, deep-set eyes under heavy brows, a pince-nez on a cord and a full, bushy beard, in a frock coat and wing collar. The Dicastery's biography gives the Supplica and his founding of the Pompeii shrine and its works.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Bartolo-Longo.jpg (photograph, about 1900)",
+          "url": "https://commons.wikimedia.org/wiki/File:Bartolo-Longo.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Bartolo Longo A 35 anni.jpg (photograph at thirty-five)",
+          "url": "https://commons.wikimedia.org/wiki/File:Bartolo_Longo_A_35_anni.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Bartolo Longo (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/bartolo-longo.html"
+        },
+        {
+          "title": "John Paul II, Rosarium Virginis Mariae 43 (the close of the Supplica)",
+          "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2002/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae.html"
+        }
+      ],
+      "catalogMatch": "St. Bartolo Longo"
+    },
+    {
+      "id": "carlo_acutis",
+      "letter": "C",
+      "feast": {
+        "month": 10,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Carlo Acutis",
+        "pt-BR": "São Carlo Acutis"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Eucharist",
+        "pt-BR": "Apóstolo da Eucaristia"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"The Eucharist is my highway to Heaven!\"",
+        "pt-BR": "\"A Eucaristia é a minha autoestrada para o Céu!\""
+      },
+      "excerptSource": "His saying «L'Eucaristia è la mia autostrada per il Cielo!», quoted twice on the Dicastery's page (in the Latin decree, «Eucharistia est mea via autocinetica ad caelum!»); a single short quotation, our rendering (he died in 2006)",
+      "subject": "St. Carlo Acutis, the Milanese teenager who loved the Eucharist, went to Mass daily and used his gift for computers to catalogue the Eucharistic miracles of the world, half-length in the red polo shirt with a white-and-navy collar of his best-known photograph, the straps of a small backpack over his shoulders; in his joined hands, a rosary. Behind him, Assisi, where he loved to stay and where he is buried: the Basilica of St. Francis on its arches, the pale pink stone of the town climbing the slope of Monte Subasio, and in the sky above the hill, small and luminous, a white Host in a golden monstrance. Joyful and open; no computer, no lettering.",
+      "face": "A Milanese boy of fifteen with a light olive complexion and a SOFT, BROAD OVAL face with FULL, rounded cheeks — a smooth forehead half-covered by a THICK, TOUSLED MOP of dark-brown CURLS, straight, dark brows, warm brown eyes a little narrowed by a smile, a straight nose with a softly rounded tip, a WIDE mouth in an easy, closed-lipped, slightly crooked smile, and a firm, rounded chin; the gaze frank and friendly, toward us. Not the square-jawed pier_giorgio_frassati with his hair brushed up, nor the fine, slender aloysius_gonzaga.",
+      "refs": [
+        "aloysius_gonzaga",
+        "sebastian",
+        "francis_xavier"
+      ],
+      "basis": "His photographs (the portrait in the red polo shirt on English Wikipedia; the Dicastery's portrait): a soft, broad oval face with full cheeks under a mop of dark curls, straight dark brows, brown eyes and a wide, easy smile. The Dicastery records his daily Mass, his website of Eucharistic miracles, his love of Assisi and his burial there.",
+      "sources": [
+        {
+          "title": "Wikipedia, Carlo Acutis (photograph in the red polo shirt)",
+          "url": "https://en.wikipedia.org/wiki/Carlo_Acutis"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Carlo Acutis (biography, portrait, his sayings)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/carlo-acutis.html"
+        }
+      ],
+      "catalogMatch": "St. Carlo Acutis"
+    },
+    {
+      "id": "jose_gregorio_hernandez",
+      "letter": "J",
+      "feast": {
+        "month": 10,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. José Gregorio Hernández",
+        "pt-BR": "São José Gregório Hernández"
+      },
+      "patronOf": {
+        "en-US": "Physician of the poor",
+        "pt-BR": "Médico dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"My mother, who loved me, taught me virtue from the cradle, raised me in the knowledge of God, and gave me holy charity for my guide.\"",
+        "pt-BR": "\"Minha mãe, que me amava, desde o berço me ensinou a virtude, criou-me na ciência de Deus e me deu por guia a santa caridade.\""
+      },
+      "excerptSource": "His words «Mi madre que me amaba, desde la cuna me enseñó la virtud, me crió en la ciencia de Dios, y me puso de guía la santa caridad», as the Venezuelan foundation josegregorio.org and the Diario de Los Andes give them (Italian on the Dicastery's page); our renderings from the Spanish (he died in 1919)",
+      "subject": "St. José Gregorio Hernández, Venezuelan physician, scientist and professor in Caracas, the 'doctor of the poor', half-length in the dress of his photographs: a black three-piece suit, a white stiff collar and a black tie, a white handkerchief in the breast pocket, and his black felt hat with a wide brim; in his left hand a black doctor's bag, in his right a rosary. Behind him, Caracas in its valley: red-tiled roofs, the white towers of the church of La Candelaria, palms, and the great green wall of the Ávila mountain beyond under a bright tropical sky. Grave, gentle and recollected; no lettering.",
+      "face": "A Venezuelan of about fifty of Andean and Canarian stock with a warm, light-olive complexion and a SMOOTH, ROUND face, FULL through the cheeks, with a small, rounded chin — large, dark, GENTLE eyes with slightly HEAVY upper lids, dark brows that RISE a little at their inner ends, giving a mild, compassionate look, a short, straight nose, a neat, full, dark MOUSTACHE trimmed straight over a closed mouth, short dark hair under the hat; clean-shaven otherwise; the gaze calm, grave and kind. Not the square, tousled, laughing artemide_zatti of this batch.",
+      "refs": [
+        "vincent_de_paul",
+        "francis_xavier",
+        "philip_neri"
+      ],
+      "basis": "His photographs (Wikimedia Commons: the head-and-shoulders portrait in hat and suit, the full-length photograph; the Dicastery's portrait): a smooth, round face with full cheeks, large, gentle, heavy-lidded eyes under brows raised at the inner ends, a short straight nose and a neat dark moustache, in a black suit and hat. The Dicastery records his teaching and practice in Caracas and his care of the poor.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Photo1502317-Enhanced (1).jpg (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Photo1502317-Enhanced_(1).jpg"
+        },
+        {
+          "title": "Wikimedia Commons, José Gregorio Hernández.jpg (full-length photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:José_Gregorio_Hernández.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, José Gregorio Hernández Cisneros (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/jose-gregorio-hernandez-cisneros.html"
+        },
+        {
+          "title": "josegregorio.org, Sus palabras (his words on his mother)",
+          "url": "https://www.josegregorio.org/conoce-a-jose-gregorio/sus-palabras"
+        }
+      ],
+      "catalogMatch": "St. José Gregorio Hernández"
+    },
+    {
+      "id": "vincenza_maria_poloni",
+      "letter": "V",
+      "feast": {
+        "month": 11,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Vincenza Maria Poloni",
+        "pt-BR": "Santa Vicência Maria Poloni"
+      },
+      "patronOf": {
+        "en-US": "Foundress, servant of the poor",
+        "pt-BR": "Fundadora, serva dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"A servant of the poor, instead of being ashamed of what she does in their service, ought to glory in it.\"",
+        "pt-BR": "\"Uma serva dos pobres, em vez de se envergonhar do que faz a serviço deles, deve gloriar-se disso.\""
+      },
+      "excerptSource": "Her words to a novice, «Una serva dei poveri, anziché vergognarsi di ciò che fa in servizio loro, se ne deve gloriare», among the sayings eyewitnesses handed down, on the Dicastery's page; the first sentence, our rendering (she died in 1855)",
+      "subject": "St. Vincenza Maria Poloni of Verona, foundress of the Sisters of Mercy of Verona, who nursed the sick, the old and the orphans of the city's Pio Ricovero, half-length in the habit of her portraits: a black habit, a black veil falling in a deep hood round the face over a narrow white band, a broad, SQUARE white collar spread over the breast, a crucifix on a black cord; her right hand laid flat on her breast, as in her portrait, and in her left a small open book. Behind her, Verona on the river Adige: the old Roman stone bridge (Ponte Pietra), the red roofs and bell towers of the city, and the cypress-covered hill of San Pietro beyond, in soft evening light. Gentle, firm and recollected; no lettering.",
+      "face": "A Veronese of about fifty with a pale, warm complexion and a LONG, NARROW OVAL face — a high, smooth forehead under the band, a LONG, PROMINENT nose with a high, straight bridge and a slightly DOWNTURNED tip, large dark eyes with HEAVY upper lids glancing a little to one side, thin, finely arched brows, flat cheeks, a SMALL, thin-lipped mouth with a faint, wry smile at one corner, and a small, rounded chin; the gaze quiet, perceptive and kind. Not the sloping, sorrowful brows of maria_santocanale, nor the square chin and wide mouth of elena_guerra.",
+      "refs": [
+        "margaret_mary",
+        "teresa",
+        "catherine_siena"
+      ],
+      "basis": "No photograph exists (she died in 1855); her two nineteenth-century painted portraits (Wikimedia Commons) and the Dicastery's portrait drawn from one agree: a long, narrow oval face with a long, prominent nose, heavy-lidded dark eyes glancing aside, fine arched brows and a small, thin mouth with a faint smile, in a black habit and hooded black veil with a broad square white collar, her hand on her breast. The Dicastery records her community's beginning at the Pio Ricovero of Verona in 1840.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Vincenza Maria Poloni 2.jpg (19th-century portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:Vincenza_Maria_Poloni_2.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Vincenza Maria Poloni 1.jpg (19th-century portrait)",
+          "url": "https://commons.wikimedia.org/wiki/File:Vincenza_Maria_Poloni_1.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Vincenza Maria Poloni (biography, portrait, her sayings)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/vincenza-maria-poloni.html"
+        }
+      ],
+      "catalogMatch": "St. Vincenza Maria Poloni"
+    },
+    {
+      "id": "artemide_zatti",
+      "letter": "A",
+      "feast": {
+        "month": 11,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Artemide Zatti",
+        "pt-BR": "Santo Artêmides Zatti"
+      },
+      "patronOf": {
+        "en-US": "Salesian brother, nurse of the poor",
+        "pt-BR": "Irmão salesiano, enfermeiro dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I believed, I promised, I was healed.\"",
+        "pt-BR": "\"Acreditei, prometi, sarei.\""
+      },
+      "excerptSource": "The motto of his life, «Creí, prometí, sané», from his account of 1915 in the weekly Flores del Campo of his healing from tuberculosis after his promise to Mary Help of Christians (Spanish Wikipedia; the Salesians of Spain on his canonization, whose motto it was; Italian «Credetti, promisi, guarii» in ACI Stampa); our rendering from the Spanish",
+      "subject": "St. Artemide Zatti, Italian-born Salesian brother who, healed of tuberculosis, gave his life as nurse and pharmacist of the San José hospital at Viedma in Patagonia and went to the sick of the town by bicycle, half-length in a long white hospital coat over a dark waistcoat, a white shirt and a dark tie, as in his photographs; his left hand rests on the handlebar of his black bicycle beside him, and in his right he holds a rosary. Behind him, Viedma on the Río Negro: low white houses and the hospital with its small chapel, the broad river with the town of Patagones on the far bank, and the flat, dry Patagonian steppe under a huge, wind-swept sky. Warm, cheerful and tireless; no lettering.",
+      "face": "An Emilian-born Argentine of about sixty with a weathered, ruddy-olive complexion and a SQUARE, BROAD face, WIDEST at HIGH, prominent cheekbones — a low forehead under thick, dark hair going grey, TOUSLED and falling in a lock over the brow, deep-set dark eyes narrowed by laughter lines, straight, thick brows, a broad, straight nose, a THICK, BUSHY, DROOPING dark moustache streaked with grey over a WIDE mouth in a broad, generous smile, deep creases from the nose to the corners of the mouth, and a strong, square jaw; clean-shaven otherwise; the gaze warm, lively and direct. Not the smooth, round, grave jose_gregorio_hernandez of this batch, nor the heavy, crowned stephen_hungary.",
+      "refs": [
+        "vincent_de_paul",
+        "philip_neri",
+        "francis_xavier"
+      ],
+      "basis": "His photographs (the early portrait on MigrER; the photograph with the boys of Viedma in the Bollettino Salesiano; the Dicastery's portrait drawn from a late photograph in a white coat): a square, broad face with high cheekbones, tousled dark hair falling over the brow, deep-set smiling eyes and a thick, drooping moustache over a broad smile. The Dicastery records his service at the hospital of Viedma and his rounds of the town and across the Río Negro to Patagones; MigrER, that he went by bicycle in a white coat.",
+      "sources": [
+        {
+          "title": "Dicastery for the Causes of Saints, Artemide Zatti (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/artemide-zatti.html"
+        },
+        {
+          "title": "MigrER, Artemide Zatti (photograph; the bicycle and white coat)",
+          "url": "https://www.migrer.org/storie/artemide-zatti/"
+        },
+        {
+          "title": "Bollettino Salesiano, Santo Artemide Zatti: un angelo si fece infermiere (photograph)",
+          "url": "https://bollettinosalesiano.it/rubriche/santo-artemide-zattiun-angelo-si-fece-infermiere/"
+        },
+        {
+          "title": "Salesianos España, San Artémides Zatti ('Creí, prometí, sané')",
+          "url": "https://salesianos.info/blog/la-congregacion-salesiana-tiene-un-nuevo-santo-san-artemides-zatti/"
+        }
+      ],
+      "catalogMatch": "St. Artemide Zatti"
+    },
+    {
+      "id": "charles_de_foucauld",
+      "letter": "C",
+      "feast": {
+        "month": 12,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Charles de Foucauld",
+        "pt-BR": "São Carlos de Foucauld"
+      },
+      "patronOf": {
+        "en-US": "Hermit of the Sahara, universal brother",
+        "pt-BR": "Eremita do Saara, irmão universal"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"As soon as I believed that there was a God, I understood that I could do nothing else but live for Him alone.\"",
+        "pt-BR": "\"Assim que acreditei que havia um Deus, compreendi que não podia fazer outra coisa senão viver somente para Ele.\""
+      },
+      "excerptSource": "His words on his conversion, «Aussitôt que je crus qu'il y avait un Dieu, je compris que je ne pouvais faire autrement que de ne vivre que pour Lui», as French Wikipedia quotes them (Latin in the decree on the Dicastery's page, «Simul ac Deum esse credidi, intellexi me nihil aliud facere posse quam pro Eo vivere»); our rendering from the French (he died in 1916)",
+      "subject": "St. Charles de Foucauld, French cavalry officer and explorer turned priest and hermit among the Tuareg of the Sahara, half-length in his white gandoura with, sewn on the breast, a red heart surmounted by a red cross, a broad dark leather belt with a long rosary hanging from it, as in his photograph; his hands joined before him. Behind him, the Hoggar mountains at dawn: his small stone hermitage on the Assekrem plateau, and beyond it the dark volcanic peaks and needles of the Atakor rising out of the rose-gold desert under a pale, clear sky. Poor, gentle and at peace; no weapons, no lettering.",
+      "face": "A Frenchman of about fifty-five, lean and sun-darkened, with a TRIANGULAR face, broad at the temples and cheekbones and narrowing to the chin — a high forehead under dark hair CROPPED very SHORT, deep-set, dark, luminous eyes with fine crow's-feet, straight dark brows, HIGH cheekbones over hollowed cheeks, a straight, strong nose, a SHORT, trimmed dark beard flecked with grey, closer on the cheeks and a little longer at the chin, a short moustache, and a gentle, closed smile; the gaze kind, direct and serene. Not the long, rectangular, lid-lowered cesar_de_bus, nor the full, white beard of an old hermit.",
+      "refs": [
+        "francis_assisi",
+        "jerome",
+        "benedict"
+      ],
+      "basis": "His photograph as a hermit (Wikimedia Commons, 'Charles de Foucauld.jpg', the source of the Dicastery's portrait): a lean, triangular face, close-cropped dark hair, deep-set eyes, high cheekbones over hollow cheeks and a short dark beard, in the white gandoura with the heart and cross and a leather belt with a rosary. French Wikipedia records his hermitage on the Assekrem; Dom Antoine Marie of Clairval, the red heart and cross on his white habit.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Charles de Foucauld.jpg (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Charles_de_Foucauld.jpg"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Charles de Foucauld (biography and portrait)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/charles-de-foucauld.html"
+        },
+        {
+          "title": "Wikipédia, Charles de Foucauld (his conversion; the Assekrem)",
+          "url": "https://fr.wikipedia.org/wiki/Charles_de_Foucauld"
+        },
+        {
+          "title": "Abbaye Saint-Joseph de Clairval, Blessed Charles de Foucauld (the red heart and cross on his habit)",
+          "url": "https://www.clairval.com/en/blessed-charles-de-foucauld/"
+        }
+      ],
+      "catalogMatch": "St. Charles de Foucauld"
+    },
+    {
+      "id": "fulton_sheen",
+      "letter": "F",
+      "feast": {
+        "month": 12,
+        "day": 9
+      },
+      "name": {
+        "en-US": "Bl. Fulton J. Sheen",
+        "pt-BR": "Bem-aventurado Fulton J. Sheen"
+      },
+      "patronOf": {
+        "en-US": "Archbishop, preacher of the Gospel",
+        "pt-BR": "Arcebispo, pregador do Evangelho"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I was called to tell this story. I never tire of telling it. I love my calling.\"",
+        "pt-BR": "\"Fui chamado para contar esta história. Nunca me canso de contá-la. Amo o meu chamado.\""
+      },
+      "excerptSource": "His answer to a friend who asked why he became a priest, «I was called to tell this story (the Gospel). I never tire of telling it. I never tire of improving my telling of it. I love my calling», as Cardinal Tagle quoted it in the beatification homily of 24 September 2026 (on the Dicastery's page; also Vatican News); a single short quotation, shortened, the gloss and the third sentence left out; pt-BR our rendering",
+      "subject": "Blessed Fulton J. Sheen, Archbishop, who preached the Gospel to millions on radio in The Catholic Hour and on television in Life Is Worth Living, half-length in a bishop's black cassock piped and buttoned in red-purple, the purple zucchetto, and the long purple silk cape (ferraiolo) over his shoulders, as in his photographs of the 1950s; a gold pectoral cross on a chain; his right hand raised a little in a speaker's gesture, his left holding a rosary. Behind him, New York at dusk: the twin white Gothic spires of St. Patrick's Cathedral on Fifth Avenue among the towers of Manhattan, lit windows, and a deep blue evening sky. Radiant, warm and persuasive; no microphone, no camera, no blackboard, no lettering.",
+      "face": "An American of Irish stock of about sixty with a fair complexion and a LONG, LEAN face with HIGH, sharply MODELLED cheekbones and hollowed cheeks — a high forehead under dark, wavy hair greying at the temples, brushed back from a slight widow's peak under the zucchetto, strong, ARCHED dark brows, LARGE, light, deep-set, INTENSE eyes that seem to look straight through the viewer, a long, straight nose, deep lines from the nose to a WIDE, thin-lipped mouth in a warm, slightly lifted smile, and a firm, narrow chin; the gaze magnetic and kind. Not the square-chinned, level-browed giovanni_battista_scalabrini, nor the white-haired, laughing giuseppe_allamano.",
+      "refs": [
+        "charles_borromeo",
+        "alphonsus_liguori",
+        "ambrose"
+      ],
+      "basis": "His photographs (Wikimedia Commons: the New York World-Telegram photograph of 1952 in cape and pectoral cross; the ABC photograph of 1956; the Library of Congress portraits as a young priest; the Dicastery's portrait): a long, lean face with high cheekbones, dark wavy hair brushed back, arched brows over large, intense, deep-set eyes, and a wide, thin smile, in the bishop's cassock, zucchetto and cape. Wikipedia records his burial at St. Patrick's Cathedral, New York (moved to Peoria in 2019), where he preached for years.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Fulton J. Sheen NYWTS.jpg (photograph, 1952)",
+          "url": "https://commons.wikimedia.org/wiki/File:Fulton_J._Sheen_NYWTS.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Bishop Fulton J. Sheen 1956.JPG (photograph)",
+          "url": "https://commons.wikimedia.org/wiki/File:Bishop_Fulton_J._Sheen_1956.JPG"
+        },
+        {
+          "title": "Dicastery for the Causes of Saints, Fulton John Sheen (biography, portrait, the beatification homily)",
+          "url": "https://www.causesanti.va/it/santi-e-beati/fulton-john-sheen.html"
+        },
+        {
+          "title": "EWTN News, the beatification of Fulton Sheen (the apostolic letter; feast on 9 December)",
+          "url": "https://www.ewtnnews.com/world/us/live-updates-beatification-of-fulton-sheen"
+        }
+      ],
+      "catalogMatch": "Bl. Fulton J. Sheen"
+    }
+  ]
+}

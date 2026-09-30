@@ -66,6 +66,10 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Peter To Rot (7 Jul):** laplap and village church are our choice (his photo shows only a white shirt). [Kept.]
 - [ ] **Maloyan (11 Jun):** his words rendered by us from the Italian rather than using the vatican.va English, so no Vatican translation enters the data. [Our rendering.]
 
+- [ ] **Bl. Fulton Sheen (9 Dec) excerpt:** "I was called to tell this story. I never tire of telling it. I love my calling." (spoken, reported by a friend, quoted by Card. Tagle at the beatification). Alternative: his reply to Pius XII, "simply a porter who is sometimes able to lead people to the open door of the house of God". [First one.] — `dossiers/batch-54.md`
+- [ ] **José Gregorio Hernández (26 Oct):** "My mother, who loved me, taught me virtue from the cradle…" is quoted everywhere (the Dicastery too), but no source names the writing. [Kept.]
+- [ ] **Artemide Zatti (13 Nov):** only his motto, "I believed, I promised, I was healed" (the fuller sentence varies by source). [Motto.]
+
 ## Fixes to existing data
 
 - [ ] **Formulary typos:** "look with kindness o us" in `sanctorale.04-20.africa` (en-US collect); "Deus1" in the pt-BR collect of Marcellinus & Peter. Fix? [Not fixed.]
