@@ -284,16 +284,16 @@ Canonized 2022–2025 (none yet in 2026), with the memorial the Dicastery for th
 
 The saints of the Saint of the Day practice (`content/practices/saint-of-the-day`, the *Pictorial Lives of the Saints*) not already carded above, on the book's dates (the pre-1969 calendar) and with its names. A saint's second feast (St. Peter's Chains, the Apparition of St. Michael, …) is a card of its own, showing that event.
 
-- [ ] 2 Jan · St. Fulgentius, Bishop · *São Fulgêncio, Bispo* · Pictorial Lives
-- [ ] 2 Jan · St. Macarius of Alexandria · *São Macário de Alexandria* · Pictorial Lives
-- [ ] 3 Jan · St. Genevieve, Virgin · *Santa Genoveva, Virgem* · Pictorial Lives
-- [ ] 4 Jan · St. Gregory, Bishop · *São Gregório, Bispo* · Pictorial Lives
-- [ ] 5 Jan · St. Simeon Stylites · *São Simeão Estilita* · Pictorial Lives
-- [ ] 7 Jan · St. Lucian, Martyr · *São Luciano, Mártir* · Pictorial Lives
-- [ ] 8 Jan · St. Apollinaris, the Apologist, Bishop · *Santo Apolinário, o Apologista, Bispo* · Pictorial Lives
-- [ ] 9 Jan · Ss. Julian and Basilissa, Martyrs · *São Julião e Santa Basilissa, Mártires* · Pictorial Lives
-- [ ] 10 Jan · St. William, Archbishop · *São Guilherme, Arcebispo* · Pictorial Lives
-- [ ] 11 Jan · St. Theodosius, The Cenobiarch · *São Teodósio, o Cenobiarca* · Pictorial Lives
+- [x] 2 Jan · St. Fulgentius, Bishop · *São Fulgêncio, Bispo* · Pictorial Lives — `fulgentius`
+- [x] 2 Jan · St. Macarius of Alexandria · *São Macário de Alexandria* · Pictorial Lives — `macarius_alexandria`
+- [x] 3 Jan · St. Genevieve, Virgin · *Santa Genoveva, Virgem* · Pictorial Lives — `genevieve`
+- [x] 4 Jan · St. Gregory, Bishop · *São Gregório, Bispo* · Pictorial Lives — `gregory_langres`
+- [x] 5 Jan · St. Simeon Stylites · *São Simeão Estilita* · Pictorial Lives — `simeon_stylites`
+- [x] 7 Jan · St. Lucian, Martyr · *São Luciano, Mártir* · Pictorial Lives — `lucian_antioch`
+- [x] 8 Jan · St. Apollinaris, the Apologist, Bishop · *Santo Apolinário, o Apologista, Bispo* · Pictorial Lives — `apollinaris_hierapolis`
+- [x] 9 Jan · Ss. Julian and Basilissa, Martyrs · *São Julião e Santa Basilissa, Mártires* · Pictorial Lives — `julian_basilissa`
+- [x] 10 Jan · St. William, Archbishop · *São Guilherme, Arcebispo* · Pictorial Lives — `william_bourges`
+- [x] 11 Jan · St. Theodosius, The Cenobiarch · *São Teodósio, o Cenobiarca* · Pictorial Lives — `theodosius_cenobiarch`
 - [ ] 12 Jan · St. Aelred, Abbot · *Santo Elredo, Abade* · Pictorial Lives
 - [ ] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives
 - [ ] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives

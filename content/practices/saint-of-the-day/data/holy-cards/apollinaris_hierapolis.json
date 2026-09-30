@@ -1,0 +1,45 @@
+{
+  "id": "apollinaris_hierapolis",
+  "feast": {
+    "month": 1,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Apollinaris the Apologist",
+    "pt-BR": "Santo Apolinário, o Apologista"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Hierapolis",
+    "pt-BR": "Bispo de Hierápolis"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Therefore I say unto you, all things whatsoever you ask when you pray, believe that you shall receive: and they shall come unto you.\"",
+    "pt-BR": "\"Por isso vos digo: tudo quanto pedirdes orando, crede que o recebereis, e ser-vos-á concedido.\""
+  },
+  "lifeChapter": "jan-08-apollinaris-the-apologist",
+  "meta": {
+    "face": "A Greek of Asia Minor about sixty, with a light olive complexion and a BROAD, full OVAL face — a high forehead going bald at the crown, a large, gently hooked nose with a strong bridge, lively, wide-set brown eyes under thick, arched dark brows, full cheeks, a firm, wide mouth; black hair greying at the temples; a thick, black, SQUARE-CUT beard streaked with grey to below the chin; an earnest, persuasive gaze to one side.",
+    "basis": "No likeness survives, and the book's engraving shows only a mitred bishop with a short beard. The scroll stands for the apology to Marcus Aurelius that the book calls his chief glory, and Hierapolis with its travertine terraces is his see. The face is our choice, built to stay clear of the other Apollinaris (`apollinaris`, short and wide-cheeked with a white fringe and pointed white beard) and of `ambrose`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-08 reflection, the whole of it (Mk 11:24; Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Apollinaris Claudius",
+        "url": "https://en.wikipedia.org/wiki/Apollinaris_Claudius"
+      },
+      {
+        "title": "Wikipedia, Hierapolis (the site and its travertine terraces)",
+        "url": "https://en.wikipedia.org/wiki/Hierapolis"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-08-apollinaris-the-apologist (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-08-apollinaris-the-apologist.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "redone: first draft drifted to a different border"
+      }
+    ]
+  }
+}

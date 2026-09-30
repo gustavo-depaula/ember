@@ -1,0 +1,45 @@
+{
+  "id": "julian_basilissa",
+  "feast": {
+    "month": 1,
+    "day": 9
+  },
+  "name": {
+    "en-US": "Sts. Julian and Basilissa",
+    "pt-BR": "São Julião e Santa Basilissa"
+  },
+  "patronOf": {
+    "en-US": "Spouses who served the sick",
+    "pt-BR": "Esposos a serviço dos enfermos"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Augustine said, \"I have never seen a compassionate and charitable man die a bad death.\"",
+    "pt-BR": "Santo Agostinho disse: \"Nunca vi morrer de má morte um homem compassivo e caridoso.\""
+  },
+  "lifeChapter": "jan-09-ss-julian-and-basilissa",
+  "meta": {
+    "face": "Two clearly different people, both Egyptians of the Roman age with warm olive-brown skin. Julian (left): a man of about forty-five with a KITE-SHAPED face, widest at high, angular cheekbones and narrowing both to a moderate forehead and to a small, firm chin — a straight nose with a narrow bridge, deep-set, kind hazel eyes, short, straight grey brows, a thin, gentle mouth; short, grey-streaked dark hair; a short grey-streaked beard trimmed to the line of the jaw. Basilissa (right): a woman of about thirty-five with a LONG, slender face and a long, graceful neck — a smooth, high forehead, a long, straight nose, large, dark, almond-shaped eyes set under long, dark, softly arched brows, gently hollowed cheeks, a small full mouth, a narrow, rounded chin; dark hair under the white veil; eyes lowered toward the tray.",
+    "basis": "The book's engraving shows the pair nursing in their hospital, Julian bearded in a plain tunic and Basilissa veiled with a tray of phials, which the card follows; Batoni's altarpiece at Santa Maria dei Monti (Wikipedia lead image) gives Basilissa in blue and Julian bearded with a palm. The Painter's Manual has a grey-haired St. Julian on 6 January among its martyrs, the Roman Martyrology's date for this pair; we take the grey only lightly because the identification is not certain. The structures are our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-09 reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Julian and Basilissa (lead image: Pompeo Batoni's altarpiece)",
+        "url": "https://en.wikipedia.org/wiki/Julian_and_Basilissa"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-09-ss-julian-and-basilissa (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-09-ss-julian-and-basilissa.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

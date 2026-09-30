@@ -1,0 +1,41 @@
+{
+  "id": "genevieve",
+  "feast": {
+    "month": 1,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Genevieve",
+    "pt-BR": "Santa Genoveva"
+  },
+  "patronOf": {
+    "en-US": "Patroness of Paris",
+    "pt-BR": "Padroeira de Paris"
+  },
+  "prayerExcerpt": {
+    "en-US": "Genevieve was only a poor peasant girl, but Christ dwelt in her heart.",
+    "pt-BR": "Genoveva era apenas uma pobre camponesa, mas Cristo habitava em seu coração."
+  },
+  "lifeChapter": "jan-03-genevieve",
+  "meta": {
+    "face": "A young woman of about twenty with a fair, fresh complexion and a BROAD, SQUARE-JAWED face, wide at the cheekbones and firm at the jaw — a smooth, low forehead, a short, straight nose, wide-set clear grey-green eyes under straight, fair brows, a wide, calm, closed mouth, a firm, rounded chin; flaxen-blond hair in two thick braids falling from under the veil; her eyes lowered to the candle flame.",
+    "basis": "No likeness survives. The book's engraving shows her as the little shepherdess met by St. Germanus, and Wikipedia records the two common attributes: the candle she relit (the devil-and-angel legend) and the shepherdess of the later tradition. The broad, square-jawed peasant face is our choice, to keep her apart from the set's oval-faced virgins (`agnes`, `agatha`, `catherine_alexandria`).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-03 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Genevieve (iconography section; lead image: painting with Paris behind)",
+        "url": "https://en.wikipedia.org/wiki/Genevieve"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-03-genevieve (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-03-genevieve.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

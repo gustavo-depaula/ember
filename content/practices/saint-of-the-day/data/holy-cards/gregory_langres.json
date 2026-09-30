@@ -1,0 +1,41 @@
+{
+  "id": "gregory_langres",
+  "feast": {
+    "month": 1,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Gregory of Langres",
+    "pt-BR": "São Gregório de Langres"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Langres",
+    "pt-BR": "Bispo de Langres"
+  },
+  "prayerExcerpt": {
+    "en-US": "Behold a great priest, who in his days pleased God.",
+    "pt-BR": "Eis o sumo sacerdote que em sua vida agradou a Deus."
+  },
+  "lifeChapter": "jan-04-gregory",
+  "meta": {
+    "face": "A Gallo-Roman patrician of about eighty-five with a pale complexion and a LONG face with a broad, heavy LANTERN JAW — a high, lined forehead, a large, straight, high-bridged nose, small, heavy-lidded pale-grey eyes under sparse, straight white brows, deep lines running from the nose to the corners of a thin, wide, firm mouth; short white hair under the mitre, and a short white beard clipped close along the square jaw; his eyes lifted a little, in prayer.",
+    "basis": "No likeness survives. The book tells of a senator of Autun, widowed, bishop at fifty-seven for thirty-three years, so he is painted very old; its engraving shows him mitred with a short beard, praying before two angels. The lantern jaw and patrician bearing are our choice for a Roman senator and keep him apart from the other aged bishops (`hilary` trapezoid, `damasus` rectangular, `polycarp` heart-shaped).",
+    "excerpt": "content/of/formularies/common/pastors/past1.json entranceAntiphon, the first clause (Common of Pastors, for a bishop; en-US ';' closed with '.', pt-BR verbatim). His chapter has no Reflection and there is no formulary of his own",
+    "sources": [
+      {
+        "title": "Wikipedia, Gregory of Langres",
+        "url": "https://en.wikipedia.org/wiki/Gregory_of_Langres"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-04-gregory (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-04-gregory.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "macarius_alexandria",
+  "feast": {
+    "month": 1,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Macarius of Alexandria",
+    "pt-BR": "São Macário de Alexandria"
+  },
+  "patronOf": {
+    "en-US": "Hermit of the Egyptian desert",
+    "pt-BR": "Eremita do deserto do Egito"
+  },
+  "prayerExcerpt": {
+    "en-US": "Prayer is the breath of the soul.",
+    "pt-BR": "A oração é a respiração da alma."
+  },
+  "lifeChapter": "jan-02-macarius-of-alexandria",
+  "meta": {
+    "face": "An Egyptian of about seventy-five, sun-browned to a deep bronze, with a WIDE, LOW, ROUNDED-SQUARE face, broad through the jaw — a short, lined forehead half hidden by the hood, a short, broad nose with a rounded tip, narrow dark eyes deeply creased at the corners by a quiet smile, thick, low grey brows, broad cheeks lifted by the smile, a wide, kindly mouth; only a thin, short, sparse grey beard and moustache; the gaze warm and a little amused, toward us.",
+    "basis": "The Painter's Manual gives Macarius of Alexandria a single mark, a smiling face, which the card makes its keynote; the Blaj iconostasis icon (Wikipedia lead image) gives the dark hood and a short, thin beard. The book supplies the attributes: the basket of sand he carried to tame himself and the grapes he passed on untasted. Wikipedia (born c. 300, died 395) gives his old age. Kept apart from `anthony_abbot` (triangular, long beard) and `francis_paola` (square, long white beard) by the wide smiling face and sparse beard.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jan-02-macarius-of-alexandria.md Reflection, first sentence (Pictorial Lives, public domain). The index's 01-02 reflection is Fulgentius's, so this card takes its own chapter's",
+    "sources": [
+      {
+        "title": "Wikipedia, Macarius of Alexandria (lead image: icon on the Blaj iconostasis)",
+        "url": "https://en.wikipedia.org/wiki/Macarius_of_Alexandria"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-02-macarius-of-alexandria (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-02-macarius-of-alexandria.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

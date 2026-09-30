@@ -1,0 +1,45 @@
+{
+  "id": "theodosius_cenobiarch",
+  "feast": {
+    "month": 1,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Theodosius the Cenobiarch",
+    "pt-BR": "São Teodósio, o Cenobiarca"
+  },
+  "patronOf": {
+    "en-US": "Father of the monks of Palestine",
+    "pt-BR": "Pai dos monges da Palestina"
+  },
+  "prayerExcerpt": {
+    "en-US": "Can ours be true charity if it costs us little or nothing?",
+    "pt-BR": "Pode ser verdadeira a nossa caridade, se pouco ou nada nos custa?"
+  },
+  "lifeChapter": "jan-11-theodosius-the-cenobiarch",
+  "meta": {
+    "face": "A Cappadocian of about ninety, very old but gentle, with a weathered, lightly tanned complexion and a BROAD, FLAT-PLANED face, widest at high, full cheekbones that sit over soft, rounded cheeks — a broad, bald forehead and crown with a few wisps of white at the temples, a short, broad, straight nose, small, deep-set, kindly brown eyes creased at the corners, thin white brows, a gentle closed mouth; a long, full white beard divided into two points at the chest; eyes toward the bread and the poor he gives it to.",
+    "basis": "The Painter's Manual gives him as an old man with a beard divided in two; the Wikipedia icon with scenes of his life shows him with a long beard in a red-brown mantle. The book gives his great age (he died at a hundred and six), his cave, his monastery near Bethlehem and the hundred tables laid for the poor, hence the bread. The broad, soft-cheeked face is our choice, kept apart from `romuald` (long face under a bald dome, knit brows) and `anthony_abbot` (triangular).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-11 reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Theodosius the Cenobiarch (lead image: icon with scenes of his life)",
+        "url": "https://en.wikipedia.org/wiki/Theodosius_the_Cenobiarch"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-11-theodosius-the-cenobiarch (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-11-theodosius-the-cenobiarch.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}
