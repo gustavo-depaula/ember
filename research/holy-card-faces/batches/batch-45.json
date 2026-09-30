@@ -1,0 +1,435 @@
+{
+  "batch": 45,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-45.md",
+  "cards": [
+    {
+      "id": "triduum",
+      "letter": "S",
+      "name": {
+        "en-US": "The Sacred Paschal Triduum",
+        "pt-BR": "O Sagrado Tríduo Pascal"
+      },
+      "patronOf": {
+        "en-US": "From the Lord's Supper to the Easter Vigil",
+        "pt-BR": "Da Ceia do Senhor à Vigília Pascal"
+      },
+      "prayerExcerpt": {
+        "en-US": "We should glory in the Cross of our Lord Jesus Christ, in whom is our salvation, life and resurrection.",
+        "pt-BR": "Nós, porém, devemos gloriar-nos na cruz de nosso Senhor Jesus Cristo; nele está a salvação, nossa vida e ressurreição."
+      },
+      "excerptSource": "content/of/formularies/tempore/holy-week/lords-supper.json entranceAntiphon (first two clauses, full stop added; pt-BR first two lines joined; verbatim otherwise)",
+      "subject": "Late at night on Holy Thursday, after the Mass of the Lord's Supper, in a large dark stone church. At the left, a side chapel glows as the place of repose: on an altar dressed in white stands a small closed gilded tabernacle, surrounded by many lit candles and white flowers, and a few faithful kneel before it in silent watch, half-length and seen from behind: an old man with his head bowed, a young woman in a white veil, a boy with joined hands. At the right, in shadow, the high altar STRIPPED BARE: plain stone, no cloth, no candles, no flowers; the large cross above it covered with a plain violet veil. Pale moonlight through the tall windows. Hushed, sorrowful, adoring. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin white ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and white; no halo",
+      "box": "white",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The end of the Mass of the Lord's Supper as its rubrics in the repo give it (lords-supper.json nos. 38–43): the Blessed Sacrament carried to a place of repose 'suitably decorated' and shut in its tabernacle, the altar stripped, crosses removed or veiled, and the faithful invited to continue adoration during the night. White, the colour of the Lord's Supper that opens the Triduum; the Good Friday veil is violet (good-friday.json no. 15).",
+      "sources": [
+        {
+          "title": "The Roman Missal, Thursday of the Lord's Supper, nos. 37–43 (content/of/formularies/tempore/holy-week/lords-supper.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/lords-supper.json"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "Wikipedia, Altar of Repose",
+          "url": "https://en.wikipedia.org/wiki/Altar_of_Repose"
+        }
+      ],
+      "proper": "tempore.holy-week.lords-supper",
+      "catalogMatch": "The Sacred Paschal Triduum"
+    },
+    {
+      "id": "easter_sunday",
+      "letter": "E",
+      "name": {
+        "en-US": "Easter Sundays",
+        "pt-BR": "Domingos do Tempo Pascal"
+      },
+      "patronOf": {
+        "en-US": "Fifty days of Easter joy",
+        "pt-BR": "Cinquenta dias de alegria pascal"
+      },
+      "prayerExcerpt": {
+        "en-US": "Receive the joy of your glory, giving thanks to God, who has called you into the heavenly kingdom, alleluia.",
+        "pt-BR": "Acolhei a alegria da vossa glória dando graças a Deus, que vos chamou ao seu reino celestial, aleluia."
+      },
+      "excerptSource": "content/of/formularies/tempore/easter/week-2/sunday.json entranceAntiphon (whole, verbatim in both languages; pt-BR line break joined)",
+      "subject": "A Sunday Mass in Easter Time during the rite of sprinkling with blessed water, in a bright church decked with white lilies. The priest, in a WHITE chasuble with gold orphreys over a white alb, walks slowly down the central aisle, small and seen in profile, sprinkling the people with an aspergillum; a server in cassock and surplice walks beside him carrying the holy-water vessel. The faithful stand in the pews on either side, half-length and seen from behind or in profile, bowing their heads as the drops fall: families, an old man, a girl in a white dress. Behind, in the sanctuary, the tall PASCHAL CANDLE burns on its stand beside the ambo, marked with a simple red cross; the altar in white and gold with its candles lit and white lilies around it. Clear spring morning light fills the church. Joyful, fresh, radiant. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin white ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and white; no halo",
+      "box": "white",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The blessing and sprinkling of water, which the Order of Mass puts 'on Sundays, especially in Easter Time' in place of the Penitential Act, the priest 'moving through the church' (order-of-mass.json, order.sprinkling-rite); the paschal candle stands by the ambo and is lit at the more solemn celebrations of the season (easter-vigil.json nos. 17, 70); white for Easter Time (GIRM 346a). Easter Sunday itself has its own card (`easter`), so the formulary is the Second Sunday.",
+      "sources": [
+        {
+          "title": "The Roman Missal, Order of Mass: Rite for the Blessing and Sprinkling of Water (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        },
+        {
+          "title": "The Roman Missal, Easter Vigil, nos. 17 and 70 (content/of/formularies/tempore/holy-week/easter-vigil.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/easter-vigil.json"
+        },
+        {
+          "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        }
+      ],
+      "proper": "tempore.easter.week-2.sunday",
+      "catalogMatch": "Easter — Sunday"
+    },
+    {
+      "id": "easter_weekday",
+      "letter": "E",
+      "name": {
+        "en-US": "Easter Weekdays",
+        "pt-BR": "Dias de semana do Tempo Pascal"
+      },
+      "patronOf": {
+        "en-US": "Daily Mass in the light of the Resurrection",
+        "pt-BR": "A Missa diária à luz da Ressurreição"
+      },
+      "prayerExcerpt": {
+        "en-US": "Christ, having risen from the dead, dies now no more; death will no longer have dominion over him, alleluia.",
+        "pt-BR": "Cristo, ressuscitado dos mortos, não morre mais; a morte já não tem poder sobre ele, aleluia."
+      },
+      "excerptSource": "content/of/formularies/tempore/easter/week-2/monday.json entranceAntiphon (whole, verbatim in both languages; pt-BR line break joined)",
+      "subject": "A weekday morning Mass in Easter Time in a small church beside a garden. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a WHITE chasuble with gold orphreys over a white alb, his arms extended in prayer; one server in cassock and surplice kneels at the step. The altar has a white frontal with gold embroidery, a crucifix and two lit candles, and a vase of white lilies and spring blossom beside it. Through a tall open window at the side, a sunlit garden: an apple tree in white blossom, fresh green grass, swallows in a clear sky. A few faithful kneel half-length in the foreground, seen from behind or in profile: a gardener holding his straw hat, a young mother with a small girl clutching a yellow daffodil, an elderly man with a cane. Fresh, luminous, peaceful. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin white ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and white; no halo",
+      "box": "white",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The weekday Mass of Easter Time in white (GIRM 346a), with the flowers the season allows; its spring garden stands for new life, after the entrance antiphon of the chosen formulary ('death will no longer have dominion over him'). The paschal candle is left to the Sunday card: the Missal asks it lit at the season's more solemn celebrations.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "The Roman Missal, Easter Vigil, no. 70 (content/of/formularies/tempore/holy-week/easter-vigil.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/easter-vigil.json"
+        }
+      ],
+      "proper": "tempore.easter.week-2.monday",
+      "catalogMatch": "Easter — weekday"
+    },
+    {
+      "id": "ordinary_time_2_sunday",
+      "letter": "O",
+      "name": {
+        "en-US": "Ordinary Time II Sundays",
+        "pt-BR": "Domingos do Tempo Comum II"
+      },
+      "patronOf": {
+        "en-US": "The Sundays between Pentecost and Advent",
+        "pt-BR": "Os domingos entre Pentecostes e o Advento"
+      },
+      "prayerExcerpt": {
+        "en-US": "God is in his holy place, God who unites those who dwell in his house; he himself gives might and strength to his people.",
+        "pt-BR": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-17/sunday.json entranceAntiphon (whole, verbatim in both languages; line breaks joined)",
+      "subject": "A Sunday Mass in high summer in a full parish church. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a GREEN chasuble over a white alb, raising his hands in prayer, with a deacon in a green dalmatic and two servers in cassock and surplice on the steps. The altar has a white cloth, a crucifix and six tall lit candles, with green leaves and white summer flowers arranged around it, not on it. The tall side windows stand open: through them, fields of ripening golden-green wheat under a deep blue sky with white clouds. In the foreground, half-length and seen from behind, a full congregation stands in the wooden pews in light summer clothes: families, a grandmother, a boy in short trousers, a girl holding a straw hat. Warm, bright, festive but ordinary. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin green ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and green; no halo",
+      "box": "green",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Green for Ordinary Time (GIRM 346c) and moderate flowers around the altar (GIRM 305): the full parish at Sunday Mass in summer, where the Ordinary Time I card shows the parish arriving in spring. The Seventeenth Sunday is chosen as the formulary because it always falls after Pentecost and after Trinity Sunday and Corpus Christi (between 24 and 30 July); its antiphon speaks of God gathering his people in his house.",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        },
+        {
+          "title": "Wikipedia, Ordinary Time",
+          "url": "https://en.wikipedia.org/wiki/Ordinary_Time"
+        }
+      ],
+      "proper": "tempore.ordinary-time.week-17.sunday",
+      "catalogMatch": "Ordinary Time II — Sunday"
+    },
+    {
+      "id": "ordinary_time_2_weekday",
+      "letter": "O",
+      "name": {
+        "en-US": "Ordinary Time II Weekdays",
+        "pt-BR": "Dias de semana do Tempo Comum II"
+      },
+      "patronOf": {
+        "en-US": "Daily Mass between Pentecost and Advent",
+        "pt-BR": "A Missa diária entre Pentecostes e o Advento"
+      },
+      "prayerExcerpt": {
+        "en-US": "O God, protector of those who hope in you, without whom nothing has firm foundation, nothing is holy.",
+        "pt-BR": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo."
+      },
+      "excerptSource": "content/of/formularies/tempore/ordinary-time/week-17/sunday.json collect, which the week's weekday Masses take (`inheritsOrationsFrom` in week-17/monday.json): en-US opening clauses, pt-BR first two lines joined, full stop added; verbatim otherwise",
+      "subject": "A weekday evening Mass in Ordinary Time in a small town church in late summer. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a plain GREEN chasuble over a white alb, bowing slightly over the altar; one server kneels at the step. The altar has a white cloth, a crucifix and two lit candles. Low golden evening sun pours through the west windows and lays long bands of light across the floor. A few faithful who have come after work kneel in the pews, half-length and seen from behind or in profile: a mason in dusty work clothes, a clerk with his jacket over his arm, a young mother with a sleeping toddler on her shoulder, a white-haired woman with a rosary. Quiet, warm, unhurried. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin green ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and green; no halo",
+      "box": "green",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The daily Mass of Ordinary Time in green (GIRM 346c), painted at evening to stand apart from the morning Mass of the Ordinary Time I weekday card. The weekdays of the Seventeenth Week take the Sunday's collect (`inheritsOrationsFrom` in the repo's Mass data).",
+      "sources": [
+        {
+          "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+        },
+        {
+          "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+        }
+      ],
+      "proper": "tempore.ordinary-time.week-17.monday",
+      "catalogMatch": "Ordinary Time II — weekday"
+    },
+    {
+      "id": "advent_ember_days",
+      "letter": "A",
+      "name": {
+        "en-US": "Advent Ember Days",
+        "pt-BR": "Têmporas do Advento"
+      },
+      "patronOf": {
+        "en-US": "Fasting and prayer in the third week of Advent",
+        "pt-BR": "Jejum e oração na terceira semana do Advento"
+      },
+      "prayerExcerpt": {
+        "en-US": "Drop down dew, you heavens, from above, and let the clouds rain the just.",
+        "pt-BR": "Ó céus, derramai dessas alturas o vosso orvalho: e que as nuvens chovam o Justo!"
+      },
+      "excerptSource": "content/do/web/www/missa/English/Tempora/Adv3-3.txt and Portugues/Tempora/Adv3-3.txt [Introitus], Ember Wednesday of Advent (first clause; en-US colon made a full stop; verbatim otherwise)",
+      "subject": "A weekday morning Mass of the Advent Ember Days in the traditional Latin rite, in a stone village church on a grey December morning. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a VIOLET Roman chasuble over a white alb, a violet maniple on his left arm, his hands joined; one server in black cassock and white surplice kneels on the lowest step. The altar has a violet frontal, a crucifix and two lit candles, and no flowers. Beside the altar, a tall clear window looks out on snow-covered fields, a frozen stream and bare trees under low grey clouds, with a soft fall of snow. In the foreground, half-length and seen from behind, a few faithful kneel in the pews: a farmer and his wife in a dark shawl, an old woman in a black lace veil, a young man in a heavy coat. Sober, still, recollected. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Ember Days are days of fast kept 'to consecrate every season of the year by penance' and to pray for the fruits of the earth (Catechism of St. Pius X, part III, ch. IV, q. 23, in the repo); violet in the traditional missal (Divinum Officium's liturgical_color; Morrow, lesson 138). The winter fields at rest and the snow falling answer the Introit of Ember Wednesday, 'Drop down dew, you heavens'.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Tempora/Adv3-3 (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Adv3-3.txt"
+        },
+        {
+          "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+        },
+        {
+          "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+          "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+        },
+        {
+          "title": "Wikipedia, Ember days",
+          "url": "https://en.wikipedia.org/wiki/Ember_days"
+        }
+      ],
+      "catalogMatch": "Advent Ember Days"
+    },
+    {
+      "id": "lent_ember_days",
+      "letter": "L",
+      "name": {
+        "en-US": "Lenten Ember Days",
+        "pt-BR": "Têmporas da Quaresma"
+      },
+      "patronOf": {
+        "en-US": "Fasting and prayer in the first week of Lent",
+        "pt-BR": "Jejum e oração na primeira semana da Quaresma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Remember that Your compassion, O Lord, and Your kindness are from of old.",
+        "pt-BR": "Lembrai-Vos, Senhor, de que a vossa bondade e misericórdia são eternas!"
+      },
+      "excerptSource": "content/do/web/www/missa/English/Tempora/Quad1-3.txt and Portugues/Tempora/Quad1-3.txt [Introitus], Ember Wednesday of Lent (first clause; en-US semicolon made a full stop; verbatim otherwise)",
+      "subject": "Early morning in the first week of Lent at the edge of a village. In the foreground, a farmer in a linen smock sows seed by hand from a sack slung at his side across a freshly ploughed brown field, small and seen in profile, pausing with his cap in his other hand as the church bell rings. Behind him, the little stone church with its doors open: deep inside, small, the priest stands at the altar facing it, AD ORIENTEM, seen from behind, in a VIOLET chasuble with a violet maniple, two candles lit on an altar without flowers; two women in dark veils climb the steps to go in. Bare trees with the first swelling buds, a pale, cool spring sky with a few thin clouds. Sober and hopeful. Keep everything inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Ember Days' prayer 'for the preservation of the fruits of the earth' (Catechism of St. Pius X, part III, ch. IV, q. 23) at spring sowing, kept with Mass in violet (Divinum Officium's liturgical_color: 'Quadragesimæ'). The Universal Norms (nos. 45–47) keep the same intention for the Ember Days in the new calendar, with a Mass for Various Needs such as 'At Seedtime'.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Tempora/Quad1-3 (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Quad1-3.txt"
+        },
+        {
+          "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+        },
+        {
+          "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+          "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+        }
+      ],
+      "catalogMatch": "Lenten Ember Days"
+    },
+    {
+      "id": "pentecost_ember_days",
+      "letter": "P",
+      "name": {
+        "en-US": "Pentecost Ember Days",
+        "pt-BR": "Têmporas de Pentecostes"
+      },
+      "patronOf": {
+        "en-US": "Fasting and prayer in the week of Pentecost",
+        "pt-BR": "Jejum e oração na semana de Pentecostes"
+      },
+      "prayerExcerpt": {
+        "en-US": "The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.",
+        "pt-BR": "O amor de Deus espalhou-se nos nossos corações, aleluia: pelo seu Espírito que habita em nós, aleluia, aleluia."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Tempora/Pasc7-6.txt and Portugues/Tempora/Pasc7-6.txt [Introitus], Ember Saturday of Pentecost (the antiphon whole, verbatim in both languages)",
+      "subject": "A morning Mass in the week of Pentecost in the traditional Latin rite, in a sunlit stone church in early summer. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a RED Roman chasuble with gold orphreys over a white alb, a red maniple on his left arm, his arms extended in prayer; two servers in cassock and surplice kneel on the steps. The altar has a red frontal, a crucifix and six tall lit candles, with vases of red and white roses and peonies beside it. The tall windows stand open onto fields of green wheat just turning gold, scattered with red poppies, under a bright blue sky. In the foreground, half-length and seen from behind, faithful kneel in light summer clothes: a young family, an old farmer with his hat in his hands, a young man in a black cassock with his head bowed. Bright, warm, fervent. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin red ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and red; no halo",
+      "box": "red",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Pentecost Ember Days fall within the octave of Pentecost and are kept in red in the traditional missal (Divinum Officium's liturgical_color: 'Quattuor Temporum Pentecostes'; the Portuguese missal's note 'Paramentos vermelhos'). Summer fields for the fruits of the earth; the young man in a cassock for the ordinations held on Ember Saturdays (Catechism of St. Pius X, part III, ch. IV, q. 23).",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Tempora/Pasc7-6 (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Pasc7-6.txt"
+        },
+        {
+          "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+        },
+        {
+          "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+          "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+        },
+        {
+          "title": "Wikipedia, Ember days",
+          "url": "https://en.wikipedia.org/wiki/Ember_days"
+        }
+      ],
+      "catalogMatch": "Pentecost Ember Days"
+    },
+    {
+      "id": "september_ember_days",
+      "letter": "S",
+      "name": {
+        "en-US": "September Ember Days",
+        "pt-BR": "Têmporas de Setembro"
+      },
+      "patronOf": {
+        "en-US": "Fasting and thanksgiving for the harvest",
+        "pt-BR": "Jejum e ação de graças pela colheita"
+      },
+      "prayerExcerpt": {
+        "en-US": "Be not sad, for the joy of the Lord is our strength.",
+        "pt-BR": "Não vos contristeis; porque a alegria do Senhor é a nossa fortaleza."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Tempora/093-3.txt and Portugues/Tempora/093-3.txt [Communio], Ember Wednesday of September (last clause; en-US first letter capitalised; verbatim otherwise)",
+      "subject": "A morning Mass of the September Ember Days in the traditional Latin rite, in a village church at harvest time. The priest stands at the altar facing it, AD ORIENTEM, seen from behind, small, in a VIOLET Roman chasuble over a white alb, a violet maniple on his left arm, his hands joined; one server in cassock and surplice kneels on the step. The altar has a violet frontal, a crucifix and two lit candles, and no flowers. The wide side door stands open onto the harvest: golden stubble fields with stooked sheaves of wheat, a hay cart, and a hillside vineyard heavy with dark grapes, in warm, low autumn sunlight. In the foreground, half-length and seen from behind or in profile, a harvesting family kneels in the pews in their work clothes: a sunburnt man, a woman in a headscarf, a boy with straw still on his sleeve. Sober but grateful. Keep everyone inside the arched window.",
+      "face": "-",
+      "frame": "a thin violet ruled line just inside the gold border; the inner window is ROUND-ARCHED like a church window, edged in gold and violet; no halo",
+      "box": "violet",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The Ember Days thank God 'for the fruits already given' (Catechism of St. Pius X, part III, ch. IV, q. 23); the September days fall at the harvest and are kept in violet (Divinum Officium's liturgical_color; the Portuguese missal's note 'Paramentos roxos'). The Communion of Ember Wednesday (Nehemiah 8:10) is the harvest feast's 'joy of the Lord'.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Tempora/093-3 (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/093-3.txt"
+        },
+        {
+          "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+        },
+        {
+          "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+          "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+        },
+        {
+          "title": "Wikipedia, Ember days",
+          "url": "https://en.wikipedia.org/wiki/Ember_days"
+        }
+      ],
+      "catalogMatch": "September Ember Days"
+    },
+    {
+      "id": "entrance",
+      "letter": "E",
+      "name": {
+        "en-US": "Entrance and Sign of the Cross",
+        "pt-BR": "Entrada e Sinal da Cruz"
+      },
+      "patronOf": {
+        "en-US": "The Introductory Rites begin",
+        "pt-BR": "Começam os Ritos Iniciais"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the name of the Father, and of the Son, and of the Holy Spirit.",
+        "pt-BR": "Em nome do Pai e do Filho e do Espírito Santo."
+      },
+      "excerptSource": "content/of/order/order-of-mass.json order.sign-of-the-cross (verbatim in both languages)",
+      "subject": "The Entrance at a Sunday Mass, seen from the back of the nave of a tall stone church. Up the central aisle toward the altar moves the procession, everyone small and seen from behind: first a server swinging a smoking thurible; then a server carrying a processional crucifix between two servers with tall lit candles; then two more servers in cassock and surplice; then a reader in a white alb carrying the red-and-gold Book of the Gospels slightly raised before him; last, the priest in a white-and-gold chasuble over a white alb, his hands joined. The congregation stands in the wooden pews on either side, half-length, turned toward the altar. Ahead, at the top of the steps, the altar with a white cloth, a crucifix and lit candles; a soft haze of incense drifts through the light from the high windows. Stately and joyful. Keep everything inside the pointed arch.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The entrance procession in the order GIRM 120 gives it (thurifer; the cross between two lighted candles; other ministers; a reader with the Book of the Gospels, 'slightly elevated'; the priest last) while all stand for the Entrance Chant. The Sign of the Cross that follows at the chair (GIRM 124) is the card's excerpt, from the repo's Order of Mass.",
+      "sources": [
+        {
+          "title": "GIRM ch. 4, nos. 120–124 (the entrance procession, the reverence to the altar, the Sign of the Cross at the chair)",
+          "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+        },
+        {
+          "title": "The Roman Missal, Order of Mass: the Sign of the Cross (content/of/order/order-of-mass.json)",
+          "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+        }
+      ],
+      "catalogMatch": "Entrance and Sign of the Cross"
+    }
+  ]
+}

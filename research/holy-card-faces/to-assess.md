@@ -19,6 +19,9 @@ Each item names the choice made so far, in brackets; it stands until you say oth
 - [ ] **Ad orientem on every card with a priest at the altar** (the Consecration test drawing and 7 of batch 44's 10 season cards). The rite allows both; GIRM 299 calls versus populum "desirable wherever possible"; the priest is seen from behind or in profile, as the brief asks. [Ad orientem.] — `dossiers/batch-44.md`
 - [ ] **Rose for Gaudete and Laetare.** The repo's formularies give violet (obligatory); rose "may be used, where it is the practice" (GIRM 346f). [Rose.]
 - [ ] **Season card names** keep the season's letter as initial: "Advent Sundays", "Lenten Weekdays", "Ordinary Time I Sundays" ("Domingos do Advento", …). [As stated.]
+- [ ] **Ember Days cards** show the traditional Mass (excerpts from Divinum Officium). The new Missal has no Ember Masses; research proposed a Mass for Various Needs per season (Forgiveness of Sins, At Seedtime, Vocations, After the Harvest), but that mapping is ours, not the Church's. [No `proper` on the four Ember cards.] Pentecost Ember Days in red (octave of Pentecost), the others violet. [Red.] — `dossiers/batch-45.md`
+- [ ] **Triduum card** in white (Holy Thursday night: place of repose, stripped altar). [White.]
+- [ ] **Mass-part card convention:** no `box` colour (initial falls back to blue), priest in white and gold. This sets the other 28 Mass-part cards. [As stated.]
 - [ ] **Advent wreath** (three violet candles, one rose) on the Advent Sunday card: a custom (Directory on Popular Piety), not a rubric, and the Directory names no colours. [Kept.]
 
 ## Portrayal
