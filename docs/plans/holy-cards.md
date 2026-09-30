@@ -25,10 +25,9 @@ It must feel like a missal, not a game:
 
 | Act | Card |
 |---|---|
-| Mass on a day with a saint on the current calendar | That saint (you pick when there are several) |
+| Mass on a date with a saint on the current calendar (celebrated that day or outranked) | That saint (you pick when there are several) |
 | The Divine Office, any hour, on a saint's assigned day | A saint not on the current calendar, assigned that day |
-| Sunday Mass after a faithful week | The next Roman Canon saint |
-| Weekday Mass with no saint (or whose saint has no card yet) | A liturgical card: a part of the Mass, a liturgical object, or a vestment |
+| Mass on a date with no saint (or whose saints have no card yet) | A liturgical card: a part of the Mass, a liturgical object, or a vestment |
 | A novena, finished | The card it is prayed to |
 | A season's Sundays, all attended | That season's Sunday card |
 | A season's weekdays, attended faithfully | That season's weekday card |
@@ -46,22 +45,15 @@ Honour system. Tapping **Amen** on the Mass practice, or ticking Mass in the pla
 
 ### One card per Mass, in precedence
 
-When several per-Mass doors are due on the same day: **day's saint → Canon saint → liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a novena finishing the same day) — each its own act, each its own card.
+Each Mass gives **the date's saint, or else a liturgical card**. The other doors are independent, so a day can bring two envelopes (the feast saint at Mass, a novena finishing the same day) — each its own act, each its own card.
 
-- **Several saints, you pick:** every saint the day celebrates is a candidate, whatever the rank; you choose whose card it is, on the envelope. Rank only orders the list (solemnity, feast, obligatory memorial, optional memorial).
-- **No art yet:** if the day's saint has no card drawn yet, that Mass gives a liturgical card instead — the same as a day with no saint.
-
-### Roman Canon saints (Sundays)
-
-Sunday Mass gives the next Canon saint **only after a faithful week: some prayer — any prayer, Mass included — on at least 4 of the 6 days before**. Without it, Sunday Mass still counts toward the season's Sunday card, but gives no Canon card. A feast falling on a Sunday is the day's-saint door and needs no faithful week.
-
-The Canon saint is ordered by *upcoming feast*, so the card arrives just before the saint's day: the Sunday before 22 November gives Cecilia — "her memorial is Saturday." Saints not yet held come first; once every Canon saint is held, the cycle repeats and Sundays keep giving copies.
-
-The list must come from the Missal's Eucharistic Prayer I — it is not in the repo yet.
+- **The date's saints:** every saint the current calendar assigns to that date is a candidate, whatever the rank — and even when the day's liturgy doesn't celebrate them. A memorial falling on a Sunday is omitted at Mass that year (`resolveOfDay` suppresses it), but Sunday Mass still gives its saint: on Sunday 4 October 2026, St. Francis.
+- **Several saints, you pick:** you choose whose card it is, on the envelope. Rank only orders the list (solemnity, feast, obligatory memorial, optional memorial).
+- **No art yet:** if none of the date's saints has a card drawn yet, that Mass gives a liturgical card instead — the same as a date with no saint.
 
 ### Liturgical cards: parts, objects, vestments
 
-Weekday Mass with no saint — or whose saint has no card yet — gives one liturgical card from the pool of the parts of the Mass (entrance, Kyrie, Gloria, readings, … dismissal), liturgical objects (thurible, ambo, chalice, paten, …) and vestments (amice, alb, cincture, stole, chasuble, …) — drawn at random, unheld first, every candidate equally likely; once all are held, copies. The draw is seeded by the act (date + door), so it's stable. Each back explains the part, object or vestment. Source the parts from the Order of Mass in `practice/mass`, not from memory.
+Mass on a date with no saint — or whose saints have no card yet — gives one liturgical card from the pool of the parts of the Mass (entrance, Kyrie, Gloria, readings, … dismissal), liturgical objects (thurible, ambo, chalice, paten, …) and vestments (amice, alb, cincture, stole, chasuble, …) — drawn at random, unheld first, every candidate equally likely; once all are held, copies. The draw is seeded by the act (date + door), so it's stable. Each back explains the part, object or vestment. Source the parts from the Order of Mass in `practice/mass`, not from memory.
 
 ### The Divine Office (saints not on the current calendar)
 
@@ -83,7 +75,7 @@ One shared set, with season boundaries from `resolveOfDay` for every user regard
 Advent · Christmas · Lent · Easter · Ordinary Time I (after Christmas) · Ordinary Time II (after Pentecost) — each with a **Sunday** and a **weekday** card — plus the **Triduum** card and the rose cards for **Gaudete** and **Laetare**.
 
 - **Sunday card:** Mass on every Sunday of the season (Lent includes Palm Sunday; Easter includes Pentecost). No excuse mechanism: a missed Sunday means the card waits for next year.
-- **Weekday card:** weekday Mass faithfully through the season (threshold open: ~2/3 of weekdays, or at least one per week).
+- **Weekday card:** Mass on at least two thirds of the season's weekdays.
 - **Triduum:** Holy Thursday, Good Friday, and the Easter Vigil.
 - **Gaudete, Laetare:** Mass on that Sunday.
 - Granted the day after the season closes ("Advent is over — you were at Mass every Sunday"), so they never compete with that day's per-Mass card.
@@ -126,7 +118,7 @@ Redeeming is what records a copy permanently: the copy is stored at that moment,
 
 | Card | Redeem by |
 |---|---|
-| Day's saint, Office saint, Canon saint, liturgical card | the end of the next day |
+| Mass saint, Office saint, liturgical card | the end of the next day |
 | Novena, season, Triduum, Ember Days, practice lineage, book | within a week |
 | Starter cards | no window |
 
@@ -137,7 +129,7 @@ Days end at local midnight. A lapsed card is simply not received; its door bring
 Every copy's back states the full condition it was received under:
 
 - *Received at Mass on his memorial, 4 Oct 2026*
-- *Sunday Mass, 4 Oct 2026, after a faithful week*
+- *Sunday Mass on his day, 4 Oct 2026*
 - *Novena to Our Lady of Guadalupe, finished 12 Dec 2026*
 - *Sundays of Lent 2027 · plan of life kept*
 - An optional line for the user's intention.
@@ -171,9 +163,8 @@ A fixed, curated catalog; every collectible gets bespoke art (no text-only cards
 
 ## Data shape
 
-Acts are already stored (practice completions, plan-of-life ticks, book progress). **Pending cards are derived** from the acts plus the calendar, as a pure function: precedence, Canon ordering, the weekday draw, season windows, faithfulness windows, redeeming windows. That derivation is the logic that earns tests. **Redeemed copies are stored** — card, door, date, the back's condition line, the optional intention — with a stable id from the act (card + door + date), so a note or a future gift can point at it.
+Acts are already stored (practice completions, plan-of-life ticks, book progress). **Pending cards are derived** from the acts plus the calendar, as a pure function: the date's saints (outranked memorials included), assigned Office days, the liturgical-card draw, season windows, faithfulness windows, redeeming windows. That derivation is the logic that earns tests. **Redeemed copies are stored** — card, door, date, the back's condition line, the optional intention — with a stable id from the act (card + door + date), so a note or a future gift can point at it.
 
 ## Open
 
-- Weekday season threshold.
 - The starter pool.
