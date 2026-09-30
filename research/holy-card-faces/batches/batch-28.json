@@ -1,0 +1,457 @@
+{
+  "batch": 28,
+  "date": "2026-09-29",
+  "dossier": "dossiers/batch-28.md",
+  "cards": [
+    {
+      "id": "pachomius",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 14
+      },
+      "name": {
+        "en-US": "St. Pachomius",
+        "pt-BR": "São Pacômio"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Tabenna",
+        "pt-BR": "Abade de Tabena"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"To live in great simplicity,\" said St. Pachomius, \"and in a wise ignorance, is exceeding wise.\"",
+        "pt-BR": "\"Viver em grande simplicidade\", disse São Pacômio, \"e numa sábia ignorância, é sumamente sábio.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-14-pachomius.md Reflection, the whole of it, his own words (Pictorial Lives, public domain)",
+      "subject": "St. Pachomius, the Egyptian abbot, half-length, as a monk of the fourth century: a plain tunic of coarse, undyed linen, a dark-brown monastic mantle about his shoulders, a small hood fallen back on his neck, a plain leather belt; in both hands, held before his breast, a small rolled scroll tied with a cord, the rule of life the angel gave him. Behind him, Tabenna on the Nile in Upper Egypt: the broad brown river with a reed boat under a square sail, a mud-brick monastery wall enclosing low, flat-roofed cells and a small church, date palms and green fields along the bank, and the pale desert cliffs beyond, under a clear, hot, golden sky. Vigilant and fatherly; no angel, no lettering.",
+      "face": "A Copt of the Thebaid of about fifty-five, broad-shouldered like the soldier he once was, with a deep-brown, sun-darkened complexion and a LONG, STRAIGHT-SIDED face under a BROAD, HIGH, smooth BALD dome — a STRAIGHT, broad nose with a LOW, FLAT bridge and WIDE, flared nostrils, LARGE, wide-open, dark ALMOND eyes set WIDE apart and rimmed with thick black lashes, like a Fayum portrait's, under straight, thick black-and-grey brows; flat cheeks; FULL, thick lips; a grey-streaked black beard to mid-breast, parted into FIVE narrow, separate POINTS; the gaze direct and vigilant, toward us.",
+      "refs": [
+        "anthony_abbot",
+        "jerome",
+        "benedict"
+      ],
+      "basis": "The Painter's Manual (Hermeneia) describes 'Saint Pachomius, an old man, bald, with a beard divided into five points', with the angel before him; Wikipedia's lead image, a modern Coptic icon, shows him white-bearded in a dark monastic habit, an angel bringing a tablet. The book tells a heathen conscript of twenty-one, baptized after the kindness of Christians on the Nile, the disciple of Palemon, and the monastery at Tabenna for which an angel gave him a rule; its engraving shows a hooded monk writing at a rock while an angel stands by with a book. The five-pointed beard and the bald head follow the Hermeneia; the long, straight-sided face with the flat, broad nose and the large almond eyes is our choice, for a Copt of Upper Egypt (Wikipedia: born in the Thebaid, c. 292–348).",
+      "sources": [
+        {
+          "title": "Wikipedia, Pachomius the Great (lead image: Coptic icon of St. Pakhom)",
+          "url": "https://en.wikipedia.org/wiki/Pachomius_the_Great"
+        },
+        {
+          "title": "Wikipedia, Tabenna",
+          "url": "https://en.wikipedia.org/wiki/Tabenna"
+        },
+        {
+          "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), St. Pachomius",
+          "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-14-pachomius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-14-pachomius.md"
+        }
+      ],
+      "lifeChapter": "may-14-pachomius",
+      "catalogMatch": "St. Pachomius, Abbot"
+    },
+    {
+      "id": "peter_dionysia",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 15
+      },
+      "name": {
+        "en-US": "Sts. Peter and Dionysia",
+        "pt-BR": "São Pedro e Santa Dionísia"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Lampsacus",
+        "pt-BR": "Mártires de Lâmpsaco"
+      },
+      "prayerExcerpt": {
+        "en-US": "The martyrs were even like us, with natures which shrank from suffering. They were patient under it because they looked to the eternal recompense, and endured as seeing Him Who is invisible.",
+        "pt-BR": "Os mártires eram em tudo como nós, com naturezas que recuavam diante do sofrimento. Eram pacientes sob ele porque olhavam para a recompensa eterna, e suportavam como vendo Aquele que é invisível."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-15-sts-peter-and-dionysia.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "Sts. Peter and Dionysia, martyrs of Lampsacus under Decius, half-length and side by side. PETER (left): a young Greek of the third century in a knee-length tunic of undyed wool and a mantle of deep russet-red thrown over his left shoulder; a martyr's palm in his right hand, his left hand laid on his breast in thanksgiving, his face lifted. DIONYSIA (right): a Greek girl in a long tunic of pale blue linen and a white veil drawn over her hair and shoulders, a martyr's palm in her left hand, her right hand at her heart, turned a little toward him. Behind them, Lampsacus on the Hellespont: the narrow, deep-blue strait with a small sailing ship, the hills of the Thracian shore across the water, a small white Greek town with a colonnaded temple and red roofs among vineyards and olive trees on the slope, under a clear, bright sky with a single streak of gold. Joyful and steadfast; no wheel, no sword, no proconsul, no soldiers, no lettering.",
+      "face": "Two clearly different young Greeks of Asia Minor with warm, light-olive skin. PETER (left): about twenty, BEARDLESS but for a faint dark down on the upper lip, with a face BROAD at the temples that TAPERS in straight lines to a NARROW, POINTED, slightly JUTTING chin — a wide, smooth forehead, a LONG, THIN, gently AQUILINE nose, bright, deep-set dark eyes lifted to heaven, straight dark brows, lean cheeks, a wide mouth in a SMILE (the book's 'smiling countenance'); short, thick, wavy black hair; the gaze lifted, thankful. DIONYSIA (right): about sixteen, with a DIAMOND-SHAPED face, WIDEST at HIGH, rounded cheekbones and narrowing both to a moderate forehead and to a small, soft chin — a SHORT, straight nose, large, dark eyes whose outer corners TILT UP, thick, straight black brows, a WIDE, full mouth, grave and closed; black hair parted in the middle under the veil; the gaze earnest and fearless, turned toward Peter.",
+      "refs": [
+        "philip_james",
+        "agnes",
+        "sebastian"
+      ],
+      "basis": "No likenesses survive. The book tells Peter, 'young though he was', bound to a wheel under the proconsul at Lampsacus and thanking Christ 'with a smiling countenance' before he was beheaded, and the virgin Dionysia, who rebuked an apostate, was guarded by her angel, escaped and died with the martyrs; its engraving shows Peter on the wheel and Dionysia standing by. Wikipedia makes her sixteen and places Lampsacus on the Hellespont; its article joins her to Andrew and Paul, the book to Peter. The tapering, smiling face and the diamond-shaped one are our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter, Andrew, Paul, and Denise (Dionysia sixteen; Decius; Lampsacus on the Hellespont)",
+          "url": "https://en.wikipedia.org/wiki/Peter,_Andrew,_Paul,_and_Denise"
+        },
+        {
+          "title": "Wikipedia, Lampsacus",
+          "url": "https://en.wikipedia.org/wiki/Lampsacus"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-15-sts-peter-and-dionysia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-15-sts-peter-and-dionysia.md"
+        }
+      ],
+      "lifeChapter": "may-15-sts-peter-and-dionysia",
+      "catalogMatch": "Sts. Peter and Dionysia"
+    },
+    {
+      "id": "john_nepomucene",
+      "letter": "J",
+      "feast": {
+        "month": 5,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. John Nepomucene",
+        "pt-BR": "São João Nepomuceno"
+      },
+      "patronOf": {
+        "en-US": "Priest and martyr",
+        "pt-BR": "Sacerdote e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. John, who by his invincible sacramental silence won his crown, teaches us to prefer torture and death to offending the Creator with our tongue.",
+        "pt-BR": "São João, que por seu invencível silêncio sacramental ganhou sua coroa, ensina-nos a preferir a tortura e a morte a ofender o Criador com nossa língua."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-16-john-nepomucen.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. John of Nepomuk, a canon of Prague, half-length, in his traditional image: a black cassock, a white rochet edged with a band of plain lace, a short cape (almuce) of grey-brown fur over his shoulders, a black biretta; a small crucifix held against his breast in his left arm with a martyr's palm, the forefinger of his right hand laid gently on his closed lips in the gesture of silence; five small gold stars ringing his halo. Behind him, Prague at dusk: the broad Vltava, a long stone bridge on many arches with its Gothic bridge tower, and on the hill across the river the castle and the tall Gothic cathedral, a soft light shining on the dark water below the bridge. Gentle, faithful and silent; no king, no river-drowning, no lettering.",
+      "face": "A Bohemian of about forty-eight with a fair, pale complexion and a SOFT, LONG OVAL face, FULL through the cheeks — a smooth, rounded forehead, a straight nose with a FLESHY, ROUNDED tip, LARGE, MOIST, slightly PROMINENT brown eyes rolled UPWARD in the Baroque manner under HIGH, THIN, arched brows, a SMALL mouth with a FULL lower lip, a soft, rounded chin; straight chestnut-brown hair to the collar under the biretta; a SHORT, soft chestnut beard and moustache following the jaw; the gaze lifted and gentle, the head tilted a little.",
+      "refs": [
+        "philip_neri",
+        "alphonsus_liguori",
+        "vincent_de_paul"
+      ],
+      "basis": "No likeness from life; Wikipedia's lead image, a Bohemian reverse-glass painting, shows the traditional image: a bearded priest with brown hair, the fur almuce, the palm and the five stars. The book tells his birth at Nepomuk, his office at the court of Wenceslas, the empress's confessions he would not reveal, his racking, and his death thrown from the bridge of Prague with a heavenly light on the water; its engraving shows him in rochet and almuce with his finger to his lips before the king, the bridge behind. The soft oval face with the prominent, upturned eyes follows the Baroque type.",
+      "sources": [
+        {
+          "title": "Wikipedia, John of Nepomuk (lead image: reverse-glass painting; the legend of the confessional)",
+          "url": "https://en.wikipedia.org/wiki/John_of_Nepomuk"
+        },
+        {
+          "title": "Wikipedia, Charles Bridge",
+          "url": "https://en.wikipedia.org/wiki/Charles_Bridge"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-16-john-nepomucen (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-16-john-nepomucen.md"
+        }
+      ],
+      "lifeChapter": "may-16-john-nepomucen",
+      "catalogMatch": "St. John Nepomucen"
+    },
+    {
+      "id": "paschal_baylon",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Paschal Baylon",
+        "pt-BR": "São Pascoal Baylon"
+      },
+      "patronOf": {
+        "en-US": "Patron of Eucharistic congresses",
+        "pt-BR": "Padroeiro dos congressos eucarísticos"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Paschal teaches us never to suffer a day to pass without visiting Jesus in the narrow chamber where He, Whom the heaven itself cannot contain, abides day and night for our sake.",
+        "pt-BR": "São Pascoal ensina-nos a nunca deixar passar um dia sem visitar Jesus na estreita morada onde Ele, a quem o próprio céu não pode conter, permanece dia e noite por amor de nós."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-17-paschal-baylon.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Paschal Baylon, Franciscan lay brother, half-length, kneeling in adoration: the coarse, patched brown habit of the reformed Friars Minor with a short hood, a white knotted cord at the waist and a wooden rosary; his hands joined before his breast, his face lifted toward the upper corner of the window, where a small golden monstrance with the white Host shines in a soft radiance among light clouds. Behind him, the dry hills of Aragon: a flock of sheep grazing on a stony slope with a shepherd's crook laid on the ground, and in the valley below a small village church with a bell-cote, under a clear, pale-blue sky. Humble and rapt; no angel figure, no lettering.",
+      "face": "An Aragonese countryman of about forty-five with a sun-browned olive complexion and a LONG, ANGULAR face — a broad, flat forehead, PROMINENT, BONY cheekbones with shallow hollows under them, DEEP creases from the nose to the corners of the mouth, a LONG, strong, slightly HOOKED nose, deep-set, HEAVY-LIDDED dark eyes under THICK, straight black brows, a WIDE, THIN-LIPPED mouth, a firm chin; black hair cropped short in the Franciscan crown; a thin dark moustache and a small tuft of beard on the chin; the gaze lifted, rapt.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "bonaventure"
+      ],
+      "basis": "Wikipedia's lead image, an old anonymous canvas inscribed with his name, shows a lay brother in a brown habit, praying with a rosary, with a long, bony face, a strong nose, dark brows and a thin moustache; the card keeps those features. The book tells a shepherd of Aragon, a lay brother of the Franciscans devoted to the Blessed Sacrament, and the angel who showed him the Host while he watched his sheep; its engraving shows a young shepherd kneeling among his flock. Wikipedia: Leo XIII made him patron of Eucharistic congresses and confraternities in 1897, and art gives him the monstrance.",
+      "sources": [
+        {
+          "title": "Wikipedia, Paschal Baylón (lead image: anonymous canvas; patron of Eucharistic congresses)",
+          "url": "https://en.wikipedia.org/wiki/Paschal_Baylon"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-17-paschal-baylon (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-17-paschal-baylon.md"
+        }
+      ],
+      "lifeChapter": "may-17-paschal-baylon",
+      "catalogMatch": "St. Paschal Baylon"
+    },
+    {
+      "id": "venantius_camerino",
+      "letter": "V",
+      "feast": {
+        "month": 5,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Venantius",
+        "pt-BR": "São Venâncio"
+      },
+      "patronOf": {
+        "en-US": "Martyr, patron of Camerino",
+        "pt-BR": "Mártir, padroeiro de Camerino"
+      },
+      "prayerExcerpt": {
+        "en-US": "Love of suffering marks the most perfect degree in the love of God.",
+        "pt-BR": "O amor do sofrimento marca o grau mais perfeito no amor de Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-18-venantius.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Venantius of Camerino, a boy martyr of fifteen, half-length: a knee-length white Roman tunic with narrow red bands and a short cloak of deep red wool pinned at the right shoulder; a martyr's palm in his right hand, his left hand raised, blessing a spring of clear water that gushes from a grey rock beside him. Behind him, the green Apennine hills of the Marche: a steep ridge with the walls and towers of Camerino, oak woods and small fields below, blue mountains beyond, under a bright, clear morning sky. Brave, candid and serene; no fire, no lions, no torments, no soldiers, no lettering.",
+      "face": "A boy of fifteen, visibly a boy and not a young man, BEARDLESS, with a warm light-olive Italian complexion and a face WIDE and FLAT across the cheekbones — a low, straight forehead, a BROAD, STRAIGHT nose with a LOW bridge set between WIDE-SET, slightly HOODED dark eyes, thick, STRAIGHT black brows, flat cheeks, a WIDE, full mouth, a small but FIRM, SQUARE chin; thick, coarse, straight black hair cut in a short, blunt fringe; the gaze candid and steady, toward us.",
+      "refs": [
+        "sebastian",
+        "aloysius_gonzaga",
+        "george"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image is a German wall painting of his torments by fire and lions. The book tells a boy of Camerino seized at fifteen, delivered by an angel from scourging and fire, spared by the lions, who drew water from a rock for his thirsty guards and was beheaded in 250; its engraving shows an angel lifting him from the flames. Wikipedia gives the same tradition, from eleventh-century Acts, and makes him patron of Camerino. The card shows the spring, not the torments; the wide, flat-cheeked boy's face is our choice, apart from `pancras`'s round one and `benezet`'s narrow, bony one.",
+      "sources": [
+        {
+          "title": "Wikipedia, Venantius of Camerino (lead image: wall painting of his legend; eleventh-century Acts)",
+          "url": "https://en.wikipedia.org/wiki/Venantius_of_Camerino"
+        },
+        {
+          "title": "Wikipedia, Camerino",
+          "url": "https://en.wikipedia.org/wiki/Camerino"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-18-venantius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-18-venantius.md"
+        }
+      ],
+      "lifeChapter": "may-18-venantius",
+      "catalogMatch": "St. Venantius, Martyr"
+    },
+    {
+      "id": "peter_celestine",
+      "letter": "P",
+      "feast": {
+        "month": 5,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Peter Celestine",
+        "pt-BR": "São Pedro Celestino"
+      },
+      "patronOf": {
+        "en-US": "Hermit and pope",
+        "pt-BR": "Eremita e papa"
+      },
+      "prayerExcerpt": {
+        "en-US": "I desired nothing but a cell, and a cell they have given me.",
+        "pt-BR": "Eu não desejava senão uma cela, e uma cela me deram."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-19-peter-celestine.md, his own words, said under guard after his resignation (the Reflection, a line of the Imitation of Christ, stays on the card) (Pictorial Lives, public domain)",
+      "subject": "St. Peter Celestine, the hermit of Morrone who was pope for four months, half-length: a coarse, undyed grey-brown woollen hermit's habit with its hood laid back on his shoulders and a plain leather girdle; in his hands, open before him, a small, worn book of the psalms, as at Lauds; beside him on a rock ledge, set aside, the papal tiara of white and gold. Behind him, Monte Morrone in the Abruzzi: a steep, bare limestone mountainside with a tiny hermitage and its small bell-cote built into a cave in the cliff, beech woods below, and far down the green valley of Sulmona, under a clear, high, pale sky. Simple, peaceful and withdrawn; no cardinals, no guards, no lettering.",
+      "face": "An Abruzzese of about eighty, CLEAN-SHAVEN as in the old fresco, with a pale, weathered, finely wrinkled complexion and a LONG, NARROW, STRAIGHT-SIDED face — a very HIGH forehead, cheekbones barely marked, the cheeks falling flat and parallel to a NARROW, rounded chin; a LONG, STRAIGHT, narrow nose; SMALL, LEVEL, almond-shaped grey eyes set CLOSE together under straight, sparse white brows; a LONG upper lip over a SMALL, gently pursed mouth; thin white hair in a monastic ring; the gaze calm and withdrawn, lowered to the book.",
+      "refs": [
+        "gregory_great",
+        "benedict",
+        "jerome"
+      ],
+      "basis": "Wikipedia's lead image, Niccolò di Tommaso's fourteenth-century triptych panel, shows him enthroned in the tiara with a long, narrow, clean-shaven face, a long, straight nose and small, level eyes; the card keeps that face. The book tells his visions as a child, his mountain solitude, the rule that founded the Celestines, his election and resignation after four months, and his boarded cell under guard, where he died singing Lauds; its engraving shows a hooded hermit in a cave cell with a cross and a road below. Wikipedia names his cave on Monte Morrone above Sulmona and his death at about eighty-one.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Celestine V (lead image: Niccolò di Tommaso, St. Peter Celestine)",
+          "url": "https://en.wikipedia.org/wiki/Pope_Celestine_V"
+        },
+        {
+          "title": "Wikipedia, Celestines (the habit of the order)",
+          "url": "https://en.wikipedia.org/wiki/Celestines"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-19-peter-celestine (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-19-peter-celestine.md"
+        }
+      ],
+      "lifeChapter": "may-19-peter-celestine",
+      "catalogMatch": "St. Peter Celestine"
+    },
+    {
+      "id": "hospitius",
+      "letter": "H",
+      "feast": {
+        "month": 5,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Hospitius",
+        "pt-BR": "Santo Hospício"
+      },
+      "patronOf": {
+        "en-US": "Recluse",
+        "pt-BR": "Recluso"
+      },
+      "prayerExcerpt": {
+        "en-US": "If we do not love penitence for its own sake, let us love it on account of our sins; for we should \"work out our salvation in fear and trembling.\"",
+        "pt-BR": "Se não amamos a penitência por si mesma, amemo-la por causa de nossos pecados; pois devemos \"operar a nossa salvação com temor e tremor.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-21-hospitius-recluse.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Hospitius, the recluse near Nice, half-length: a coarse tunic of dark-brown haircloth, worn and patched, and girded round his body a heavy iron chain; in his open right hand a few dates and a small piece of bread, his left hand laid over his heart. Behind him, the ruins of an old square stone tower overgrown with ivy on a rocky point of the Provençal coast, the deep-blue bay below with a small fishing boat, umbrella pines and wild rosemary on the rocks, and far across the water the green hills above the bay, under a bright, clear Mediterranean sky. Penitent and at peace; no soldiers, no swords, no lettering.",
+      "face": "A man of about sixty, burned a deep bronze by the sun, with a LEAN face whose HIGH, BROAD, FLAT cheekbones run in a straight line across it — NARROW eyes that SLANT gently DOWN at the outer corners, dark and sorrowful, under thick, level black-and-grey brows, a LONG, THIN, very STRAIGHT nose, SUNKEN cheeks below the cheekbones, a thin mouth; long, unkempt black-and-grey hair to the shoulders; a LONG, dense, rough black-and-grey beard to the breast; the gaze penitent and humble, a little lowered.",
+      "refs": [
+        "jerome",
+        "anthony_abbot",
+        "benedict"
+      ],
+      "basis": "No likeness survives. The book tells a recluse in the ruins of an old tower near Villafranca, a league from Nice, girded with an iron chain, living on bread and dates, who foretold the Lombard raids and healed the arm of a Lombard who raised his sword against him; its engraving shows a bearded, long-haired recluse seated before a ruined arch while soldiers approach. Wikipedia, after Gregory of Tours, places the tower on Cap Ferrat, called Cap Saint-Hospice, and gives him an Egyptian origin by tradition. The lean face with the flat, high cheekbones and the down-slanting eyes is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Hospitius (Gregory of Tours; Cap Ferrat)",
+          "url": "https://en.wikipedia.org/wiki/Hospitius"
+        },
+        {
+          "title": "Wikipedia, Saint-Jean-Cap-Ferrat (lead image: Pointe Saint-Hospice)",
+          "url": "https://en.wikipedia.org/wiki/Saint-Jean-Cap-Ferrat"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-21-hospitius-recluse (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-21-hospitius-recluse.md"
+        }
+      ],
+      "lifeChapter": "may-21-hospitius-recluse",
+      "catalogMatch": "St. Hospitius, Recluse"
+    },
+    {
+      "id": "yvo",
+      "letter": "Y",
+      "feast": {
+        "month": 5,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Yvo",
+        "pt-BR": "Santo Ivo"
+      },
+      "patronOf": {
+        "en-US": "Advocate of the poor",
+        "pt-BR": "Advogado dos pobres"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Yvo was a Saint amidst the dangers of the world.",
+        "pt-BR": "Santo Ivo foi um Santo em meio aos perigos do mundo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-22-yvo.md Reflection, first clause of the first sentence, with a full stop (Pictorial Lives, public domain)",
+      "subject": "St. Yvo Helori, priest and ecclesiastical judge of Brittany, half-length: a long black cassock-like gown with a deep collar and cuffs of brown fur, a black clerical cap; in his left hand a rolled parchment tied with a red cord, a poor man's petition; in his right, held out a little, a small leather purse for the poor. Behind him, the Breton countryside near Tréguier: the tall grey granite cathedral with its spire above a small town, the tidal river with its mudflats and a small boat, green fields bounded by hedges and stone walls, and a thatched stone farmhouse, under a soft, grey-blue sky with drifting clouds. Just, kind and upright; no court, no rich man, no lettering.",
+      "face": "A Breton of about forty-nine, CLEAN-SHAVEN, with a pale, fair complexion and a LEAN face that is WIDE at the cheekbones and HOLLOW beneath them, narrowing to a LONG, SQUARE-TIPPED chin — a prominent, BONY brow ridge, HOODED, grey eyes cast down, a LONG, straight nose with a LOW-SET, fleshy tip, a small mouth with a full, slightly pouting LOWER lip, deep lines from the nose to the chin; dark-brown hair cut short and round like a bowl beneath the cap; the gaze attentive and grave, lowered to the petition.",
+      "refs": [
+        "vincent_de_paul",
+        "alphonsus_liguori",
+        "thomas_aquinas"
+      ],
+      "basis": "No likeness from life. Wikipedia's lead image, a fifteenth-century panel from Rogier van der Weyden's workshop titled 'A Man Reading (Saint Ivo?)', shows a lean, clean-shaven man in a fur-lined gown reading a document; the card borrows its dress and its lean, long-chinned face, but the identification is only a question mark. The book tells his birth near Tréguier in 1253, his studies at Paris and Orléans, his office as judge of Rennes, 'the advocate and lawyer of the poor', his hospital and his corn given away; its engraving shows him in a surplice among the sick and poor under a bridge. Wikipedia gives his attributes as a purse and a rolled paper.",
+      "sources": [
+        {
+          "title": "Wikipedia, Ivo of Kermartin (lead image: workshop of Rogier van der Weyden, A Man Reading (Saint Ivo?); purse and paper)",
+          "url": "https://en.wikipedia.org/wiki/Ivo_of_Kermartin"
+        },
+        {
+          "title": "Wikimedia Commons, File:Weyden_Ivo.jpg (title and attribution)",
+          "url": "https://commons.wikimedia.org/wiki/File:Weyden_Ivo.jpg"
+        },
+        {
+          "title": "Wikipedia, Tréguier Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Tr%C3%A9guier_Cathedral"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-22-yvo (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-22-yvo.md"
+        }
+      ],
+      "lifeChapter": "may-22-yvo",
+      "catalogMatch": "St. Yvo, Confessor"
+    },
+    {
+      "id": "julia_corsica",
+      "letter": "J",
+      "feast": {
+        "month": 5,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Julia",
+        "pt-BR": "Santa Júlia"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyr, patroness of Corsica",
+        "pt-BR": "Virgem e mártir, padroeira da Córsega"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Julia, whether free or a slave, whether in prosperity or in adversity, was equally fervent and devout.",
+        "pt-BR": "Santa Júlia, fosse livre ou escrava, fosse na prosperidade ou na adversidade, era igualmente fervorosa e devota."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-23-julia.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Julia of Carthage, virgin and martyr, half-length, as a household slave of the fifth century: a plain, long-sleeved tunic of undyed wool, a mantle of faded blue and a simple white veil over her hair; in her right hand a small, plain wooden cross held against her breast, in her left a martyr's palm. Behind her, the northern cape of Corsica: a high, dark rock rising straight from the sea with a small village of grey stone houses and a watchtower on its top, a dark shingle beach below, a merchant ship with a square sail at anchor in the bay, and green, scrub-covered mountains beyond, under a warm, clear evening sky. Patient, faithful and serene; no governor, no torments, no lettering.",
+      "face": "A Carthaginian woman of about twenty-five with a warm, light-brown North African complexion and a face with a softly CONVEX PROFILE — a gently SLOPING forehead, a LONG nose with a soft CURVE to the bridge and a rounded tip, deep-set, dark eyes under HEAVY, dark, nearly straight brows, a WIDE mouth with full lips, and a ROUNDED, PROMINENT chin that carries the curve of the profile; black, curling hair under the veil; the gaze patient and steadfast, toward us.",
+      "refs": [
+        "philomena",
+        "lucy",
+        "agnes"
+      ],
+      "basis": "No likeness survives; Wikipedia's lead image, a nineteenth-century window at Meaux, shows her veiled with a cross and a palm, which the card keeps. The book tells a noble virgin of Carthage sold as a slave when Genseric took the city in 439, faithful to her Syrian master, and crucified in the north of Corsica by the governor Felix; its engraving shows her apart from her master's pagan feast. Wikipedia names her, with Devota, patroness of Corsica and places her martyrdom at Nonza on Cap Corse. The convex profile with the prominent chin is our choice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Julia of Corsica (lead image: window at Meaux; patroness of Corsica)",
+          "url": "https://en.wikipedia.org/wiki/Julia_of_Corsica"
+        },
+        {
+          "title": "Wikipedia, Nonza",
+          "url": "https://en.wikipedia.org/wiki/Nonza"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-23-julia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-23-julia.md"
+        }
+      ],
+      "lifeChapter": "may-23-julia",
+      "catalogMatch": "St. Julia, Virgin, Martyr"
+    },
+    {
+      "id": "donatian_rogatian",
+      "letter": "D",
+      "feast": {
+        "month": 5,
+        "day": 24
+      },
+      "name": {
+        "en-US": "Sts. Donatian and Rogatian",
+        "pt-BR": "São Donaciano e São Rogaciano"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Nantes",
+        "pt-BR": "Mártires de Nantes"
+      },
+      "prayerExcerpt": {
+        "en-US": "Three things are pleasing unto God and man: concord among brethren, the love of parents, and the union of man and wife.",
+        "pt-BR": "Três coisas são agradáveis a Deus e aos homens: a concórdia entre os irmãos, o amor dos pais, e a união do homem e da mulher."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-24-sts-donatian-and-rogatian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "Sts. Donatian and Rogatian, brothers of a noble Gallo-Roman family of Nantes, half-length and side by side. ROGATIAN (left, the elder): a long tunic of dark green wool and a heavy cloak of undyed grey-brown wool fastened at the right shoulder with a round bronze brooch; a martyr's palm in his right hand. DONATIAN (right, the younger, who had brought his brother to the faith): a tunic of pale blue and a cloak of deep red fastened with a gilt brooch; in his left hand a small book of the Gospels held against his breast, his right hand laid on his brother's shoulder. Behind them, Roman Nantes on the Loire: the wide, slow river with sandbanks and a flat river boat, a low town wall with a gate, red-tiled roofs, and flat green meadows with poplars along the banks, under a soft, bright, silvery sky. Brotherly, steadfast and at peace; no rack, no lances, no chains, no lettering.",
+      "face": "Two clearly different Gallo-Roman brothers with fair, lightly ruddy complexions. ROGATIAN (left): about twenty-eight, with a WIDE, FLAT, SQUARE face under a LOW, straight hairline — a SHORT, strong, straight nose, SMALL, deep-set grey eyes under a HEAVY brow and thick, straight brown brows, broad, flat cheeks, a WIDE, firm mouth; thick brown hair cropped short; a SHORT, close-trimmed brown beard that follows the square jaw; the gaze grave and resolute, toward us. DONATIAN (right): about twenty, BEARDLESS, with an open, OVAL face and HIGH, ROUNDED cheekbones — a smooth, high forehead, a straight nose with a slightly UPTURNED tip, LARGE, bright blue eyes under softly arched fair brows, a gentle, smiling mouth, a rounded chin with a small DIMPLE; straight, fair, light-brown hair cut short and close with a short fringe; the gaze warm, turned toward his brother.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likenesses survive; Wikipedia's lead image is the nineteenth-century statue of Donatian at the portal of Nantes cathedral, a young man in a Roman tunic and cloak. The book tells the younger Donatian converting his elder brother Rogatian, their night of prayer in prison, the kiss of peace for the baptism Rogatian could not receive, and their death about 287; its engraving shows two young men in prison, one kneeling in chains. Wikipedia calls them 'les enfants nantais', sons of a leading family of the city, and places their tomb and basilica at Nantes. The two faces are our choice, one square and bearded, one oval and beardless.",
+      "sources": [
+        {
+          "title": "Wikipedia, Donatian and Rogatian (lead image: statue of St. Donatian, Nantes cathedral)",
+          "url": "https://en.wikipedia.org/wiki/Donatian_and_Rogatian"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, may-24-sts-donatian-and-rogatian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/may-24-sts-donatian-and-rogatian.md"
+        }
+      ],
+      "lifeChapter": "may-24-sts-donatian-and-rogatian",
+      "catalogMatch": "Sts. Donatian and Rogatian"
+    }
+  ]
+}
