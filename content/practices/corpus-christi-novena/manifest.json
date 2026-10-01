@@ -16,6 +16,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "corpus_christi",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",

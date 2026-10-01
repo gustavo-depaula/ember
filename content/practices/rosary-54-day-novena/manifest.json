@@ -13,6 +13,7 @@
 	"estimatedMinutes": 30,
 	"flowMode": "scroll",
 	"completion": "flow-end",
+	"holyCard": "our_lady_rosary",
 	"program": {
 		"totalDays": 54,
 		"progressPolicy": "continue",

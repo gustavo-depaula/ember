@@ -17,6 +17,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "our_lady_sorrows",
   "program": {
     "totalDays": 7,
     "progressPolicy": "continue",

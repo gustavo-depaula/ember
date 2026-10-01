@@ -9,6 +9,7 @@
   "estimatedMinutes": 15,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "sacred_heart",
   "program": {
     "totalDays": 9,
     "progressPolicy": "restart",

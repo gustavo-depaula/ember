@@ -13,6 +13,7 @@
 	"estimatedMinutes": 5,
 	"flowMode": "scroll",
 	"completion": "flow-end",
+	"holyCard": "pentecost",
 	"program": {
 		"totalDays": 3,
 		"progressPolicy": "restart",

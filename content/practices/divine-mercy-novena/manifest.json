@@ -13,6 +13,7 @@
   "estimatedMinutes": 15,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "divine_mercy",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
