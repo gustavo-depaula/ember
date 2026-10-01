@@ -20,7 +20,15 @@ export type ProgramProgress = {
   missedDays: number
   shouldPromptRestart: boolean
   isProjection: boolean
+  /**
+   * Each day of a program kept to the calendar, read from its own date: whether
+   * it was prayed, and whether that date has gone by. Without it (a program
+   * that waits, or one whose days can't be dated) only the count is known.
+   */
+  days?: ProgramDay[]
 }
+
+export type ProgramDay = { kept: boolean; when: 'past' | 'today' | 'ahead' }
 
 export type ProjectedProgramState = ProgramProgress & {
   visible: boolean
@@ -121,16 +129,9 @@ export function projectProgramAtDate(args: {
   const startedAt = parseISO(cursor.started_at)
   if (differenceInCalendarDays(target, startedAt) < 0) return empty
 
-  // A program bound to dates of its own (the First Fridays) is kept only on
-  // those dates: a prayer on another day doesn't make up for one missed.
-  const onItsDays = schedule.type === 'nth-weekday' || schedule.type === 'day-of-month'
   const countUpTo = (d: Date) => {
-    const startStr = cursor.started_at
     const upTo = format(d, 'yyyy-MM-dd')
-    const kept = completionDatesAsc.filter(
-      (c) => c >= startStr && c <= upTo && (!onItsDays || isApplicableOn(schedule, parseISO(c))),
-    )
-    return onItsDays ? new Set(kept).size : kept.length
+    return completionDatesAsc.filter((c) => c >= cursor.started_at && c <= upTo).length
   }
 
   if (policy === 'wait') {
@@ -162,15 +163,36 @@ export function projectProgramAtDate(args: {
   if (daysPassed === undefined) return empty
   const pastWindow = daysPassed >= totalDays
   const calendarDay = daysPassed
-
-  const baseCount = countUpTo(today)
   const programDay = Math.min(calendarDay, totalDays - 1)
+
+  // Each day is kept only by a prayer on its own date: a prayer on another day,
+  // or after the last, doesn't make up for one missed — so the very day missed
+  // is the one marked. A program whose days can't be dated falls back to the count.
+  const dates = programDayDates({
+    program,
+    schedule,
+    startedAt: cursor.started_at,
+    completionDatesAsc,
+    today,
+  })
+  const days = dates.every((d) => d !== undefined)
+    ? dayMarks(dates as string[], completionDatesAsc, today, target)
+    : undefined
+
+  // Only real prayers count; a projection's assumed days don't finish a program.
+  const todayStr = format(today, 'yyyy-MM-dd')
+  const prayed = new Set(completionDatesAsc)
+  const baseCount = days
+    ? (dates as string[]).filter((d) => prayed.has(d) && d <= todayStr).length
+    : countUpTo(today)
   const isComplete = baseCount >= totalDays
 
   let missedDays = 0
   let shouldPromptRestart = false
   if (!isProjection && !isComplete) {
-    missedDays = computeMissedDays(policy, calendarDay, baseCount)
+    missedDays = days
+      ? days.filter((d) => !d.kept && d.when === 'past').length
+      : computeMissedDays(policy, calendarDay, baseCount)
     shouldPromptRestart = computeShouldRestart(policy, missedDays, program.restartThreshold ?? 1)
   }
 
@@ -182,7 +204,23 @@ export function projectProgramAtDate(args: {
     isComplete,
     missedDays,
     shouldPromptRestart,
+    days,
   }
+}
+
+// Kept only by a prayer on the day's own date, up to the real today. Looking
+// ahead, the days between today and the target are taken as kept — the
+// projection assumes the user stays on track — while a day already missed
+// stays missed.
+function dayMarks(dates: string[], completionDatesAsc: string[], today: Date, target: Date) {
+  const prayed = new Set(completionDatesAsc)
+  const todayStr = format(today, 'yyyy-MM-dd')
+  const targetStr = format(target, 'yyyy-MM-dd')
+  return dates.map((date): ProgramDay => {
+    const when = date < targetStr ? 'past' : date === targetStr ? 'today' : 'ahead'
+    const kept = (prayed.has(date) && date <= todayStr) || (when === 'past' && date >= todayStr)
+    return { kept, when }
+  })
 }
 
 export function computeMissedDays(
@@ -204,11 +242,18 @@ export function computeShouldRestart(
   return policy === 'restart' && missedDays >= restartThreshold
 }
 
-// The days kept come first, then the days missed, then today's: a count of
-// prayers can't say which day each one was, only how many.
 export function computeDayState(dayIndex: number, progress: ProgramProgress): DayState {
   const { programDay, missedDays, policy, isComplete, shouldPromptRestart, completionCount } =
     progress
+  const day = progress.days?.[dayIndex]
+  if (day) {
+    const isCompleted = isComplete || day.kept
+    const isMissed = !isCompleted && day.when === 'past'
+    const isCurrent = day.when === 'today' && !isComplete && !shouldPromptRestart
+    return { isMissed, isCurrent, isCompleted, isFuture: !isCompleted && !isMissed && !isCurrent }
+  }
+  // Undated, the days kept come first, then the days missed, then today's: a
+  // count of prayers can't say which day each one was, only how many.
   const kept = Math.min(completionCount, progress.totalDays)
   const isMissed =
     policy !== 'wait' && !isComplete && dayIndex >= kept && dayIndex < kept + missedDays
@@ -272,8 +317,9 @@ export function programDayDates(args: {
   return pad([...prayed, ...walk(from, Math.max(program.totalDays - prayed.length, 0))])
 }
 
-// A program finished or ended stays under way this long past its last day.
-const settledAfterDays = 7
+// A program finished or ended stays under way this long past its last day; a
+// missed day can be prayed late until then.
+export const settledAfterDays = 7
 
 /**
  * Whether a program still belongs among those under way: running, or finished

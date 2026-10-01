@@ -397,6 +397,57 @@ describe('projectProgramAtDate', () => {
       expect(computeAllDayStates(lapsed).some((d) => d.isCurrent)).toBe(false)
     })
 
+    it('marks the very day that was missed, not the next one after the days kept', () => {
+      const p = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: ['2026-06-01', '2026-06-02', '2026-06-04', '2026-06-05'],
+        realToday,
+        targetDate: realToday,
+      })
+      const states = computeAllDayStates(p)
+      expect(states.map((s) => s.isMissed)).toEqual([
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+      ])
+      expect(states[3].isCompleted).toBe(true)
+      expect(states[4].isCompleted).toBe(true)
+      expect(states[5].isCurrent).toBe(true)
+      expect(p.missedDays).toBe(1)
+    })
+
+    it("doesn't let a prayer after the ninth day stand for a missed one", () => {
+      const p = projectProgramAtDate({
+        program: continueProgram,
+        schedule: fixedSchedule,
+        cursor,
+        completionDatesAsc: [
+          '2026-06-01',
+          '2026-06-02',
+          '2026-06-04',
+          '2026-06-05',
+          '2026-06-06',
+          '2026-06-07',
+          '2026-06-08',
+          '2026-06-09',
+          '2026-06-10',
+        ],
+        realToday: date(2026, 6, 10),
+        targetDate: date(2026, 6, 10),
+      })
+      expect(p.isComplete).toBe(false)
+      expect(p.completionCount).toBe(8)
+      expect(computeAllDayStates(p)[2].isMissed).toBe(true)
+    })
+
     it('forward projection suppresses missed/restart diagnostics', () => {
       const restartCfg: ProgramConfig = {
         ...continueProgram,

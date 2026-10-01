@@ -28,6 +28,9 @@ export function usePracticeCompletion(
   // the completion module picks the slot; cursors and program progress key on
   // the prayed `practiceId` either way.
   slotKey?: string,
+  // The date of a missed program day prayed late. The completion counts for
+  // that day; its completedAt still records when it was actually prayed.
+  dayDate?: string,
 ) {
   const { t } = useTranslation()
   const router = useRouter()
@@ -40,10 +43,10 @@ export function usePracticeCompletion(
   const [showCompleteModal, setShowCompleteModal] = useState(false)
 
   const handleComplete = useCallback(() => {
-    const today = format(getToday(), 'yyyy-MM-dd')
+    const date = dayDate ?? format(getToday(), 'yyyy-MM-dd')
 
     completePractice.mutate(
-      { prayedId: practiceId, date: today, slotKey },
+      { prayedId: practiceId, date, slotKey },
       {
         onSuccess: async () => {
           successBuzz()
@@ -86,6 +89,7 @@ export function usePracticeCompletion(
   }, [
     practiceId,
     slotKey,
+    dayDate,
     completePractice,
     trackDefs,
     renderedSections,
