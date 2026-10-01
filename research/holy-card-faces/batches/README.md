@@ -24,7 +24,8 @@ Every card of `docs/plans/holy-cards-catalog.md`, made 10 at a time; each batch 
 | 17 | our_lady_mercy, our_lady_rosary, loreto, guadalupe, immaculate_heart, mother_of_church; Rosary: finding_temple, wedding_cana, proclamation_kingdom, institution_eucharist |
 | 18 | Rosary: agony_garden, scourging, crowning_thorns, carrying_cross, crucifixion; Pictorial Lives second feasts: peter_chair_rome, discovery_cross, john_latin_gate, apparition_michael, peter_chains |
 | 52–54 | Canonized since 2022, in date order (52: 14 Jan – 9 May, 53: 22 May – 6 Aug, 54: 25 Aug – 9 Dec, with Bl. Fulton Sheen). Faces from photographs or portraits from life; excerpts the saints' own words in our own renderings |
-| 19–43 | Pictorial Lives, in the book's date order: each batch takes the next 10 unticked lines of "From the Pictorial Lives of the Saints" (and the book's feasts on the same dates) that no `batches/*.json` claims yet through `catalogMatch`. Ids are the saint's name in snake_case, unique against `content/saints/` and every batch (`gregory_langres`, not `gregory`) |
+| 19–42 | Pictorial Lives, in the book's date order: each batch takes the next 10 unticked lines of "From the Pictorial Lives of the Saints" (and the book's feasts on the same dates) that no `batches/*.json` claims yet through `catalogMatch`. Ids are the saint's name in snake_case, unique against `content/saints/` and every batch (`gregory_langres`, not `gregory`) |
+| 43 | vitus: St. Vitus alone (15 Jun), the line batch 30 skipped. His chapter is linked, but the excerpt is the Common of Martyrs, not the chapter's reflection, which turns on Crescentia |
 | 44–51 | Seasons and Ember Days (19), parts of the Mass (29), objects and vestments (24), in catalog order, 10 at a time |
 
 The order behind the table:
@@ -37,6 +38,8 @@ The order behind the table:
    - **Parts of the Mass:** `FRAME="the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo"`.
    - **Objects and vestments:** `FRAME="instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures"`.
    - Liturgical scenes follow the traditional Latin Mass look.
+
+A **Blessed** (beatified, not canonized) has rays instead of the set's ring halo, which is kept for saints: his card carries `"frame"` too, the default text with the halo swapped for rays (see `fulton_sheen` in `batch-54.json`; the convention's sources are in `dossiers/batch-54.md`).
 
 **Cards without a fixed date** (moveable feasts, seasons, parts of the Mass, objects) carry no `feast`. The app takes them (`feast` is optional in `apps/app/src/features/saints/useHolyCards.ts`; the gallery gathers them under "Without a fixed day"), but `scripts/build-corpus.py` keeps them out of the blob until an app with that change is the oldest one in use, since older apps read `c.feast.month` unguarded.
 

@@ -86,6 +86,22 @@ Consulted material is in `../consult/batch-54/`:
 - New York: Wikipedia records his years as auxiliary bishop there and his burial in St. Patrick's Cathedral until 2019.
 - **Against `giovanni_battista_scalabrini`** (bishop in black and purple, square chin, level brows) and `giuseppe_allamano` (lean, white-haired, laughing): Sheen has dark hair, arched brows, high cheekbones and the large, intense eyes, under the long purple cape.
 
+### Redraw: the rays of a Blessed, not a halo (1 October 2026) — awaiting regeneration
+
+- The card on main (`content/saints/fulton_sheen.png`) shows him with the set's full gold disc and dotted ring, like the canonized saints. `new-card.sh` asks for it on every card: its default frame text ends "a gold dotted-ring halo", and the reference cards all have one. Nothing in his entry said otherwise.
+- The convention: a nimbus for saints, rays for the beatified.
+  - New Catholic Encyclopedia, "Halo" (C. J. Corcoran; on encyclopedia.com): "The blessed, those beatified but not yet canonized, are depicted with a halo less explicit, formed by shafts of light radiating from behind the head."
+  - Wikipedia, "Halo (religious iconography)": "Beatified figures, not yet canonised as saints, are sometimes shown in medieval Italian art with linear rays radiating out from the head, but no circular edge of the nimbus defined".
+  - Catholic Encyclopedia, "Nimbus": "Urban VIII formally prohibited giving the nimbus to persons who were not beatified", and the nimbus "by the omission of the circumference, may be transposed into a garland of rays or a glory".
+  - The Catholic Encyclopedia does not itself state the saints/blesseds distinction; the New Catholic Encyclopedia does. Copies are in `../consult/batch-43/` (`encyclopedia-halo.*`, `Halo.txt`, `cathen-nimbus.*`).
+- What changed in `../batches/batch-54.json`, `fulton_sheen` only:
+  - a new `"frame"`, which `gen-batch.sh` passes to `new-card.sh` as `FRAME` in place of the default: "an inner arched, gold-edged window holding the scene; the figure has NO ring halo and NO disc halo: instead the rays of a Blessed, fine straight gold rays of light spreading from behind the head like a sunburst, with no circle round them";
+  - one sentence added to `subject`, before "Radiant, warm and persuasive": "He is a Blessed, not yet canonized: behind his head there is NO halo ring and NO gold disc, only a glory of fine, straight gold RAYS spreading outward from behind the head, with no circle round them."
+  - Face, refs, excerpt and everything else are as they were.
+- **The card awaits regeneration.** The image and the card file are untouched. To redraw: `research/holy-card-faces/gen-batch.sh batches/batch-54.json fulton_sheen`, review the draft, copy it over `content/saints/fulton_sheen.png` by hand and add a dated `history` line to the card file. `accept-batch.py` is not for this: it takes a whole batch and stops on the catalog lines already ticked.
+- Reject a draft with any ring, disc or dotted circle behind the head (the three reference cards all have one, and the model may copy it), and one with no glory at all. The face should stay the one on the present card.
+- **Other Blesseds with the full halo, not changed.** Of the cards on main, two more show someone beatified and not canonized under the same gold disc: `inacio_azevedo` ("Bl. Ignatius de Azevedo and Companions", beatified 1854; the Martyrology of 2004 has "beatórum mártyrum Ignátii de Azevedo … atque trigínta et octo sociórum" on 15 July), both figures haloed; and `veronica_milan`, whom the book and the card call "St." but the Martyrology of 2004 calls "beátæ Verónicæ de Binásco" (13 January; Leo X allowed her cult in 1517, and she was never canonized). `peter_luxemburg` (batch 31, "Bl.", not generated yet) has no `frame` either. Checked: every card whose name begins "Bl.", and the doubtful older names against the Martyrology of 2004 (`../consult/batch-43/martyrologium-2004.txt`), where Benezet, Herman Joseph, Catharine of Sweden, Jane of Valois, John de Britto, Gontran, Bathildes, Maud, Aelred, Zita, Colette and Stanislas Kostka are all "sancti". It is not a card-by-card audit of all 352 saints.
+
 ## Doubts
 
 - **Sheen's excerpt** is spoken and second-hand (a friend's recollection, via Cardinal Tagle); no written source of his was used because his books are in copyright. Choose it or the "porter" line.

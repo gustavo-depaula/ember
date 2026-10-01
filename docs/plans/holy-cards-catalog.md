@@ -411,7 +411,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 9 Jun · Sts. Primus and Felicianus, Martyrs · *São Primo e São Feliciano, Mártires* · Pictorial Lives
 - [ ] 9 Jun · St. Columba, or Columkille, Abbot · *São Columba, ou Columkille, Abade* · Pictorial Lives
 - [ ] 12 Jun · St. John of St. Fagondez · *São João de São Fagondez* · Pictorial Lives
-- [ ] 15 Jun · Sts. Vitus, Crescentia, and Modestus, Martyrs · *São Vito, Santa Crescência e São Modesto, Mártires* · Pictorial Lives
+- [ ] 15 Jun · St. Vitus, Martyr · *São Vito, Mártir* · Pictorial Lives (the book's chapter is "Sts. Vitus, Crescentia, and Modestus"; the Martyrology keeps Vitus alone)
 - [ ] 16 Jun · St. John Francis Regis · *São João Francisco Regis* · Pictorial Lives
 - [ ] 17 Jun · St. Avitus, Abbot · *Santo Ávito, Abade* · Pictorial Lives
 - [ ] 18 Jun · Sts. Marcus and Marcellianus, Martyrs · *São Marco e São Marceliano, Mártires* · Pictorial Lives
