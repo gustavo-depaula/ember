@@ -1,0 +1,407 @@
+{
+  "batch": 55,
+  "date": "2026-10-01",
+  "dossier": "dossiers/batch-55.md",
+  "cards": [
+    {
+      "id": "raphael_archangel",
+      "letter": "R",
+      "feast": {
+        "month": 10,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Raphael the Archangel",
+        "pt-BR": "São Rafael Arcanjo"
+      },
+      "patronOf": {
+        "en-US": "Companion of travellers, healer of the sick",
+        "pt-BR": "Companheiro dos viajantes, médico dos enfermos"
+      },
+      "prayerExcerpt": {
+        "en-US": "For I am the angel Raphael, one of the seven who stand before the Lord.",
+        "pt-BR": "Pois sou o Anjo Rafael, um dos sete que estão sempre presentes, diante do Senhor."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Sancti/10-24.txt and content/do/web/www/missa/Portugues/Sancti/10-24.txt [Lectio] (Tob 12:15), last sentence: the epistle of his Mass on 24 October in the traditional Missal",
+      "subject": "St. Raphael the Archangel as the travelling companion of young Tobias (Tob 5-6), full-length and walking, painted in the same manner as the set's St. Michael and St. Gabriel cards: great white wings, a plain gold halo, a knee-length tunic of soft sage-green with a gold-embroidered neckline, girded high at the waist with a gold cord 'as it were ready to walk' (Tob 5:5), a rose-violet travelling mantle blowing back from one shoulder, laced sandals, a tall pilgrim's staff in his left hand. With his right hand he leads by the hand the boy Tobias, about fourteen, with short dark-brown hair, in a short ochre tunic over a white undertunic, who carries a large silver fish hanging from a cord and looks up at the angel; a small white dog trots at their feet (Tob 6:1). Behind them the green banks of the river Tigris winding through a wide valley, blue hills and a small walled town far off under a clear sky. Calm, protective, unhurried. Keep the whole scene, wings and dog included, inside the arched window; no scroll, no lettering.",
+      "face": "A radiant youthful angel, beardless and ageless, of the same family as the set's Michael and Gabriel but plainly a different face: a HEART-SHAPED face — a broad, smooth brow tapering to a NARROW, softly pointed chin, a slender straight nose, large warm HAZEL eyes under softly arched AUBURN brows, delicate high cheekbones, a gentle closed smile; thick, short AUBURN (copper-red) curls clustering round the head and over the ears, not reaching the shoulders; the head turned and inclined down toward the boy with a kindly gaze. Not Michael's golden curls and rosy oval face, not Gabriel's long light-brown waves.",
+      "refs": [
+        "gabriel_archangel",
+        "michael_archangel",
+        "guardian_angels"
+      ],
+      "basis": "An angel has no likeness. The card takes the Western type of 'Tobias and the Angel' (Verrocchio's workshop, National Gallery; Titian's at the Accademia): a young winged traveller leading the boy with the fish, and the dog, from Tob 5:5 and 6:1-9. Titian's auburn curls set him apart from the set's golden-haired Michael and brown-haired Gabriel, whose wings, halo and painted manner he shares.",
+      "sources": [
+        {
+          "title": "Divinum Officium, Missale, 24 October: St. Raphael the Archangel (English and Portuguese)",
+          "url": "content/do/web/www/missa/English/Sancti/10-24.txt"
+        },
+        {
+          "title": "Douay-Rheims, Tobias 5:5-6, 6:1-9, 12:15",
+          "url": "content/bible/drb/tobias.json"
+        },
+        {
+          "title": "Wikimedia Commons, Workshop of Andrea del Verrocchio, Tobias and the Angel, 1470-75 (National Gallery, London)",
+          "url": "https://commons.wikimedia.org/wiki/File:Workshop_of_Andrea_del_Verrocchio._Tobias_and_the_Angel._33x26cm._1470-75._NG_London.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, attributed to Titian, Archangel Raphael and Tobias (Gallerie dell'Accademia, Venice)",
+          "url": "https://commons.wikimedia.org/wiki/File:Accademia_-_Archangel_Raphael_and_Tobit_by_Titian.jpg"
+        }
+      ],
+      "catalogMatch": "St. Raphael the Archangel"
+    },
+    {
+      "id": "divine_mercy",
+      "letter": "D",
+      "name": {
+        "en-US": "The Divine Mercy",
+        "pt-BR": "A Divina Misericórdia"
+      },
+      "patronOf": {
+        "en-US": "The mercy of the risen Christ",
+        "pt-BR": "A misericórdia de Cristo ressuscitado"
+      },
+      "prayerExcerpt": {
+        "en-US": "Bring your hand and feel the place of the nails, and do not be unbelieving but believing, alleluia.",
+        "pt-BR": "Coloca aqui a tua mão e reconhece o lugar dos cravos, e não sejas incrédulo, mas fiel, aleluia."
+      },
+      "excerptSource": "content/of/formularies/tempore/easter/week-2/sunday.json communionAntiphon (Second Sunday of Easter, or of Divine Mercy)",
+      "subject": "The Divine Mercy image as Eugeniusz Kazimirowski painted it under St. Faustina's direction (Vilnius, 1934): the risen Christ standing full-length and stepping toward us, barefoot, in a long, loose white robe with wide sleeves; his right hand raised in blessing at shoulder height, his left hand touching the robe over his breast, where it falls open a little; from the breast two broad rays stream down and widen toward the ground, one pale, translucent white-blue and one red, falling across the robe. A deep night-blue background with a faint pale glow around him and the floor just suggested under his feet. Keep the image's stillness: no landscape, no other figures, rays kept inside the arched window; no lettering, no inscription or banner beneath.",
+      "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; the lids a little lowered, the gaze turned gently DOWN toward the viewer as in Kazimirowski's painting. The wounds show only as small, clean marks on the hands and feet.",
+      "refs": [
+        "sacred_heart",
+        "christ_king",
+        "transfiguration"
+      ],
+      "basis": "Kazimirowski's 1934 painting, the first image of the devotion, painted at Vilnius under St. Faustina's direction: Christ in white, blessing with the right hand, the left at the breast, the pale and red rays. Christ keeps the set's face, with the painting's lowered gaze.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Eugeniusz Kazimirowski, Divine Mercy, 1934",
+          "url": "https://commons.wikimedia.org/wiki/File:Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg"
+        },
+        {
+          "title": "Wikipedia, Divine Mercy image",
+          "url": "https://en.wikipedia.org/wiki/Divine_Mercy_image"
+        },
+        {
+          "title": "Roman Missal, Second Sunday of Easter (or of Divine Mercy)",
+          "url": "content/of/formularies/tempore/easter/week-2/sunday.json"
+        }
+      ],
+      "catalogMatch": "The Divine Mercy"
+    },
+    {
+      "id": "holy_face",
+      "letter": "H",
+      "name": {
+        "en-US": "The Holy Face of Jesus",
+        "pt-BR": "A Santa Face de Jesus"
+      },
+      "patronOf": {
+        "en-US": "Reparation to the suffering Face of Christ",
+        "pt-BR": "Reparação à Face sofredora de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is your face, O Lord, that I seek.",
+        "pt-BR": "É vossa face que eu procuro."
+      },
+      "excerptSource": "content/of/formularies/tempore/lent/week-2/sunday.json readings.C.psalm (Ps 27), the last line of the second stanza in each language",
+      "subject": "The Holy Face of Tours: the 'Veronica', as in the facsimile of the veil kept at St. Peter's in Rome that Ven. Léon Dupont venerated at Tours from 1851 with a lamp burning before it. A square linen veil, its two upper corners knotted and hung from two nails, filling most of the arched window against a deep violet ground; on the veil, the imprinted Face of the suffering Christ seen frontally, in warm sepia-brown and soft flesh tones, the veil's lower folds falling loose around it. Below the veil, a small oil lamp burning in a brass holder. No crown of thorns (the facsimile shows none), no angels, no Veronica, no figures; no lettering (the facsimile's Latin caption is left out).",
+      "face": "The Face is Christ's set face from recurring-figures.md, imprinted on the cloth: a LONG OVAL face narrowing gently to the chin, a high forehead, a long straight nose with a fine bridge, level brows drawn a little together in pain, a quiet closed mouth; chestnut-brown hair parted in the centre and falling long on either side, a short, full beard parted at the chin; the EYES CLOSED, a few drops of blood on the brow and running down from the eyes and lips like tears, as on the Tours facsimile. Sorrowful and peaceful, not gory; no halo.",
+      "refs": [
+        "crowning_thorns",
+        "carrying_cross",
+        "sacred_heart"
+      ],
+      "basis": "The image of the devotion is the facsimile of the Veronica of St. Peter's sent to the Carmel of Tours and given to Léon Dupont in 1851 (the oratory of the Holy Face at Tours publishes a scan): a frontal face with closed eyes and drops of blood on a veil hung by its knotted corners. The card paints it in colour with the set's Christ.",
+      "sources": [
+        {
+          "title": "Oratoire de la Sainte-Face, Tours (scan of the facsimile, 'Sainte-Face-Tours.jpg')",
+          "url": "https://www.oratoiredelasainteface.fr/"
+        },
+        {
+          "title": "Aleteia (fr), Les apôtres méconnus de la Sainte Face de Tours",
+          "url": "https://fr.aleteia.org/2022/10/02/les-apotres-de-la-sainte-face-de-tours/"
+        },
+        {
+          "title": "Wikipedia, Holy Face of Jesus",
+          "url": "https://en.wikipedia.org/wiki/Holy_Face_of_Jesus"
+        }
+      ],
+      "catalogMatch": "The Holy Face of Jesus"
+    },
+    {
+      "id": "miraculous_medal",
+      "letter": "M",
+      "feast": {
+        "month": 11,
+        "day": 27
+      },
+      "name": {
+        "en-US": "Our Lady of the Miraculous Medal",
+        "pt-BR": "Nossa Senhora da Medalha Milagrosa"
+      },
+      "patronOf": {
+        "en-US": "The medal of the Immaculate Conception",
+        "pt-BR": "A medalha da Imaculada Conceição"
+      },
+      "prayerExcerpt": {
+        "en-US": "O Mary, conceived without sin, pray for us who have recourse to thee.",
+        "pt-BR": "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
+      },
+      "excerptSource": "The invocation round the medal (Ô Marie, conçue sans péché, priez pour nous qui avons recours à vous), in the wording of content/practices/miraculous-medal-novena/flow.json",
+      "subject": "Our Lady as St. Catherine Labouré saw her on 27 November 1830 in the chapel of the Rue du Bac in Paris, the image of the Miraculous Medal: standing full-length on a globe, her feet crushing a greenish serpent; in a high-necked silk gown of dawn-white with plain, close sleeves ('à la Vierge') and a white veil falling from her head to her feet on either side, no blue mantle; her arms lowered and opened toward the globe, palms outward, her fingers set with jewelled rings from which streams of golden light pour down. Around her, an oval of soft golden light; behind, the dim gold and blue of the chapel sanctuary. Keep the rays and the globe inside the arched window. No lettering: the medal's inscription, the letter M, the cross and the two hearts of the reverse are all left out.",
+      "face": "Our Lady as in recurring-figures.md, a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under the white veil; her eyes LOWERED toward the globe, as St. Catherine says they were when the rays fell.",
+      "refs": [
+        "immaculate_conception",
+        "lourdes",
+        "fatima"
+      ],
+      "basis": "St. Catherine Labouré's account of the apparition (dress 'blanche aurore', white veil to the feet, the globe and the greenish serpent, the jewelled rings and their rays, the lowered eyes, the oval frame) and the medal struck in 1832. An apparition, not a fixed statue, so Our Lady keeps the set's face.",
+      "sources": [
+        {
+          "title": "La Porte Latine, Apparition de Notre-Dame au 140 rue du Bac (St. Catherine Labouré's description)",
+          "url": "https://laportelatine.org/apparitions/notre-dame-rue-du-bac-paris-medaille-miraculeuse"
+        },
+        {
+          "title": "Wikipedia, Miraculous Medal (the apparition, the inscription, the feast on 27 November)",
+          "url": "https://en.wikipedia.org/wiki/Miraculous_Medal"
+        },
+        {
+          "title": "Wikimedia Commons, Miraculous medal.jpg (obverse and reverse)",
+          "url": "https://commons.wikimedia.org/wiki/File:Miraculous_medal.jpg"
+        }
+      ],
+      "catalogMatch": "Our Lady of the Miraculous Medal"
+    },
+    {
+      "id": "perpetual_help",
+      "letter": "M",
+      "feast": {
+        "month": 6,
+        "day": 27
+      },
+      "name": {
+        "en-US": "Our Lady of Perpetual Help",
+        "pt-BR": "Nossa Senhora do Perpétuo Socorro"
+      },
+      "patronOf": {
+        "en-US": "Mother of ever-present help",
+        "pt-BR": "Mãe do socorro sempre presente"
+      },
+      "prayerExcerpt": {
+        "en-US": "We fly to thy patronage, O holy Mother of God.",
+        "pt-BR": "À vossa proteção recorremos, Santa Mãe de Deus."
+      },
+      "excerptSource": "The opening of the Sub tuum praesidium: en-US from content/practices/sub-tuum-praesidium/manifest.json, pt-BR as quoted in content/practices/mary-mother-of-god-novena/data/days.json (the sub-tuum manifest drops the crase)",
+      "subject": "The icon of Our Lady of Perpetual Help (Sant'Alfonso all'Esquilino, Rome), painted faithfully as an icon on a burnished gold ground, half-length: Our Lady in a dark-blue maphorion edged and hatched with gold, drawn over her head, a small gold eight-pointed star on the veil above her brow, a dark-red tunic beneath; she holds the Child on her left arm, her right hand open before him. The Child, in a green tunic with a red sash and a golden-ochre mantle, turns his head back over his shoulder toward the angel at the upper right, both his hands clasping his Mother's right thumb; one sandal hangs loose by its strap from his dangling foot. Small half-figures of two angels in the upper corners, hands veiled: St. Michael at the upper left with the lance, the sponge on its reed and the vessel of gall, St. Gabriel at the upper right with the three-barred cross and the nails. The icon's flat, linear Cretan manner, no landscape. No lettering: the Greek abbreviations of the icon are left out.",
+      "face": "The icon's own face, not the set's Our Lady: a LONG, NARROW Byzantine face — a long, very thin straight nose, large, dark, almond-shaped eyes with heavy lids under long, thin, high-arched brows, a SMALL, closed, dark-red mouth, a long smooth cheek and a small chin; olive skin; the head inclined a little toward the Child and the gaze turned out to the viewer, grave and sorrowful. The Child: a small boy of about three with a round face, short brown hair, his head turned back and up toward the angel with the cross. The angels: small, round, youthful faces with short brown curls.",
+      "refs": [
+        "aparecida",
+        "guadalupe",
+        "loreto"
+      ],
+      "basis": "A Marian title that shows its own image paints that image (recurring-figures.md): the fifteenth-century Cretan icon entrusted to the Redemptorists by Pius IX in 1866, as on its Commons photograph and in Wikipedia's description (Michael with the lance and sponge, Gabriel with the three-barred cross and nails, the fallen sandal, the star on the veil).",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Perpetual help original icon.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Perpetual_help_original_icon.jpg"
+        },
+        {
+          "title": "Wikipedia, Our Lady of Perpetual Help (the icon, the feast on 27 June)",
+          "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Perpetual_Help"
+        }
+      ],
+      "catalogMatch": "Our Lady of Perpetual Help"
+    },
+    {
+      "id": "undoer_of_knots",
+      "letter": "M",
+      "name": {
+        "en-US": "Our Lady, Undoer of Knots",
+        "pt-BR": "Nossa Senhora Desatadora dos Nós"
+      },
+      "patronOf": {
+        "en-US": "Who unties what sin has knotted",
+        "pt-BR": "Que desata o que o pecado atou"
+      },
+      "prayerExcerpt": {
+        "en-US": "The knot of Eve's disobedience was loosed by the obedience of Mary.",
+        "pt-BR": "O nó da desobediência de Eva foi desatado pela obediência de Maria."
+      },
+      "excerptSource": "St. Irenaeus, Adversus haereses III.22.4: en-US from the Ante-Nicene Fathers translation (New Advent), without its opening 'And thus also it was that'; pt-BR our rendering of the Latin 'Evae inobedientiae nodus solutionem accepit per obedientiam Mariae' (as Newman quotes it)",
+      "subject": "Our Lady, Undoer of Knots, after Johann Georg Melchior Schmidtner's altarpiece of about 1700 in St. Peter am Perlach, Augsburg: Our Lady standing full-length as the Woman of the Apocalypse, on a crescent moon on a bank of cloud, her foot on the head of a coiled serpent; a rose-red gown and a deep-blue mantle billowing out from her shoulders, her head bare, twelve small gold stars in a ring above it; with both hands she unties a knot in a long white ribbon. At the left a kneeling angel in a pale robe hands up the knotted end of the ribbon; at the right a winged angel receives the smooth, untied end. Above her head the Holy Spirit as a white dove in a glow of light, and small cherub heads in the clouds about her. Far below, very small on a dark strip of land, an angel walking with a youth (Tobias and Raphael, as in the painting). Warm golden Baroque light; keep all of it inside the arched window; no lettering.",
+      "face": "The painting's own Madonna, close to the set's face: a young woman of about twenty with a softly OVAL face bent forward and a little to her right — a smooth high forehead, a fine straight nose, the eyes LOWERED to the knot in her hands under gently arched light-brown brows, softly rounded cheeks, a small closed rosy mouth, a small rounded chin; light-brown hair parted in the centre and falling loose behind her shoulders, no veil. The angels: youthful, beardless faces, the left one with light-brown curls, the right one with golden-brown hair to the nape.",
+      "refs": [
+        "immaculate_conception",
+        "queenship",
+        "assumption"
+      ],
+      "basis": "Schmidtner's painting at Augsburg, from its Commons photographs and Wikipedia's description (the Woman of the Apocalypse on the moon, the crown of stars, the dove, the angels handing the knotted ribbon in and the loosed ribbon out, the serpent, Tobias and the Angel below). The title comes from St. Irenaeus's 'knot of Eve's disobedience'.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, MaryUntier.jpg (Johann Georg Melchior Schmidtner, c. 1700)",
+          "url": "https://commons.wikimedia.org/wiki/File:MaryUntier.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, 07-2024 St. Peter am Perlach 7.jpg (the altar in Augsburg)",
+          "url": "https://commons.wikimedia.org/wiki/File:07-2024_St._Peter_am_Perlach_7.jpg"
+        },
+        {
+          "title": "Wikipedia, Mary Untier of Knots",
+          "url": "https://en.wikipedia.org/wiki/Mary_Untier_of_Knots"
+        },
+        {
+          "title": "St. Irenaeus, Against Heresies III.22 (Ante-Nicene Fathers, New Advent)",
+          "url": "https://www.newadvent.org/fathers/0103322.htm"
+        },
+        {
+          "title": "Newman, Letter to Pusey, Note I (the Latin of Adv. haer. III.22.4)",
+          "url": "https://www.newmanreader.org/works/anglicans/volume2/pusey/notes.html"
+        }
+      ],
+      "catalogMatch": "Our Lady, Undoer of Knots"
+    },
+    {
+      "id": "louis_zelie_martin",
+      "letter": "L",
+      "feast": {
+        "month": 7,
+        "day": 12
+      },
+      "name": {
+        "en-US": "Ss. Louis and Zélie Martin",
+        "pt-BR": "São Luís e Santa Zélia Martin"
+      },
+      "patronOf": {
+        "en-US": "Spouses, parents of St. Thérèse",
+        "pt-BR": "Esposos, pais de Santa Teresinha"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"I want to become a saint; it will not be easy.\"",
+        "pt-BR": "\"Quero tornar-me santa; não será fácil.\""
+      },
+      "excerptSource": "St. Zélie Martin to her daughters Marie and Pauline, «Je veux devenir une sainte, ce ne sera pas facile», as quoted by the Sanctuary of Lisieux (La spiritualité de Louis et Zélie); our rendering (she died in 1877)",
+      "subject": "Sts. Louis and Zélie Martin, the married couple of Alençon, half-length side by side, each with a plain gold halo, in the dress of their photographs of about 1875: Louis on the left in a dark, high-buttoned frock coat with a white shirt collar, Zélie on the right in a dark-brown silk dress buttoned to the throat, with a small brooch at the collar. She holds across her hands a length of fine white Alençon point lace, her trade; he rests one hand on a small open watchmaker's case with a pocket watch, his. Her other hand is laid on his arm. Behind them a street of Alençon with the tall Flamboyant Gothic porch and tower of the church of Notre-Dame under a soft evening sky. Quiet, tender, dignified; no children; no lettering.",
+      "face": "Two clearly different people from their photographs. Louis (left): a man of about fifty with a LONG face and a HIGH, DOMED, BALD crown, short dark hair left only at the sides and back; a broad smooth forehead, deep-set, light, steady eyes under straight brows, a long straight nose, a FULL, dense dark-brown beard and moustache streaked with grey, trimmed to a rounded point below the chin; a calm, kindly gaze. Zélie (right): a woman of about forty-four with a BROAD face and a SQUARE, firm jaw — wide cheekbones, level dark brows over steady dark eyes set rather wide, a straight, firm nose, a wide, straight mouth closed in the hint of a smile, a firm chin; dark-brown hair parted in the centre and smoothed flat over the ears into a low knot; no veil; her gaze on the viewer, frank and warm.",
+      "refs": [
+        "julian_basilissa",
+        "gianna",
+        "therese"
+      ],
+      "basis": "Their photographs of about 1875 (Commons, 'Louis Martin 1' and 'Zélie Martin 1'): Louis bald-crowned with a full beard, Zélie broad-faced and square-jawed with her hair smoothed flat and parted. His trade (watchmaker) and hers (Alençon lace) and the feast on their wedding anniversary, 12 July, are from fr.wikipedia.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Louis Martin 1.jpg (photograph, c. 1875)",
+          "url": "https://commons.wikimedia.org/wiki/File:Louis_Martin_1.jpg"
+        },
+        {
+          "title": "Wikimedia Commons, Zélie Martin 1.jpg (photograph, c. 1875)",
+          "url": "https://commons.wikimedia.org/wiki/File:Z%C3%A9lie_Martin_1.jpg"
+        },
+        {
+          "title": "Sanctuaire de Lisieux, La spiritualité de Louis et Zélie",
+          "url": "https://www.therese-de-lisieux.catholique.fr/lhistoire/la-spiritualite-de-louis-et-zelie/"
+        },
+        {
+          "title": "Wikipedia (fr), Louis et Zélie Martin",
+          "url": "https://fr.wikipedia.org/wiki/Louis_et_Z%C3%A9lie_Martin"
+        }
+      ],
+      "catalogMatch": "Ss. Louis and Zélie Martin"
+    },
+    {
+      "id": "gemma_galgani",
+      "letter": "G",
+      "feast": {
+        "month": 4,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Gemma Galgani",
+        "pt-BR": "Santa Gemma Galgani"
+      },
+      "patronOf": {
+        "en-US": "Virgin of Lucca, lover of the Passion",
+        "pt-BR": "Virgem de Lucca, amante da Paixão"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Jesus, make me like Thee; make me suffer with Thee.\"",
+        "pt-BR": "\"Jesus, fazei-me semelhante a Vós; fazei-me sofrer convosco.\""
+      },
+      "excerptSource": "Her prayer before the Crucifix, as Ven. Germanus of St. Stanislaus gives it in his Life of Gemma Galgani (English translation by A. M. O'Sullivan, 1913, public domain), shortened; pt-BR our rendering of the English (the Italian original was not found online)",
+      "subject": "St. Gemma Galgani, half-length, in the plain black, high-collared dress of her photograph of 1900, no veil, her hands joined at her breast round a small wooden crucifix, her face lifted toward heaven. Just behind her shoulder, faint and gentle, her guardian angel in white with a hand raised over her. Behind them, Lucca seen from a window at dusk: red-tiled roofs, the medieval brick Guinigi tower crowned with its holm oaks, and the white marble front of the cathedral of San Martino under a soft rose-gold sky. A plain gold halo; no visible wounds; no lettering.",
+      "face": "A young woman of about twenty-two with a pale, clear complexion and a full OVAL face, broad at the cheekbones and tapering to a small, firm, rounded chin — a high smooth forehead, dark, straight, softly sloping brows, large, clear grey-brown eyes raised upward, a straight nose with a broad, rounded tip, a small mouth with full lips, closed; dark-brown hair parted in the centre and drawn smoothly back behind the ears to a knot at the nape, ears showing; the gaze lifted to heaven, rapt and calm.",
+      "refs": [
+        "therese",
+        "maria_goretti",
+        "gianna"
+      ],
+      "basis": "Her photograph of September 1900 (Commons): an oval, full-cheeked face lifted upward, large light eyes, a broad-tipped nose, full lips, dark hair parted and drawn back, a black high-collared dress. Germanus says she dressed simply, without ornament, and kept her remarkably brilliant eyes lowered. The eye colour is not recorded (the photograph is monochrome); grey-brown is a guess.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Gemma Galgani - Originalfoto (Detail) 2.jpg (photograph, 1900)",
+          "url": "https://commons.wikimedia.org/wiki/File:Gemma_Galgani_-_Originalfoto_(Detail)_2.jpg"
+        },
+        {
+          "title": "Germanus of St. Stanislaus, The Life of Gemma Galgani, trans. A. M. O'Sullivan (B. Herder, 1913), Internet Archive",
+          "url": "https://archive.org/details/the-life-of-saint-gemma-galgani-by-venerable-reverend-germanus-c.-p"
+        },
+        {
+          "title": "Wikipedia (it), Gemma Galgani (11 April in the Roman Martyrology)",
+          "url": "https://it.wikipedia.org/wiki/Gemma_Galgani"
+        }
+      ],
+      "catalogMatch": "St. Gemma Galgani"
+    },
+    {
+      "id": "gerard_majella",
+      "letter": "G",
+      "feast": {
+        "month": 10,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Gerard Majella",
+        "pt-BR": "São Geraldo Majela"
+      },
+      "patronOf": {
+        "en-US": "Patron of mothers and of childbirth",
+        "pt-BR": "Padroeiro das mães e dos partos"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Here the will of God is being done, as God wills, and for as long as it pleases God.\"",
+        "pt-BR": "\"Aqui se está fazendo a vontade de Deus, como Deus quer e por todo o tempo que a Deus aprouver.\""
+      },
+      "excerptSource": "The notice he had hung on the door of his room in his last illness, «Qui si sta facendo la volontà di Dio, come vuole Dio e per tutto quel tempo che piace a Dio», as given in the Vita di San Gerardo Maiella on the shrine's site (ch. L'ultima malattia e la morte, §212); our rendering (he died in 1755)",
+      "subject": "St. Gerard Majella, the Redemptorist lay brother, half-length in the black Redemptorist habit with its plain white turned-down collar, as in his traditional portrait; he holds a wooden crucifix against his breast with his right hand, his left laid flat over his heart. Beside him on a stone ledge a skull, his attribute, and a folded white linen handkerchief (by which he became the patron of mothers). Behind him the sanctuary of Materdomini on its green hillside above Caposele, the Irpinian mountains beyond under a pale morning sky. A plain gold halo; gentle and recollected; no lily, no surplice; no lettering.",
+      "face": "A young man of about twenty-nine, pale from consumption, with a LONG, rather rectangular face — a high, broad forehead, a long straight nose with a rounded tip, light-brown eyes under HEAVY upper lids, raised to heaven, softly arched brows, lightly hollowed cheeks, a small mouth with a fuller lower lip, a rounded chin; thick, STRAIGHT dark-brown hair cut short and combed back from the brow, the ears showing; clean-shaven; the head tilted to his right. Not Aloysius's round face and curly hair.",
+      "refs": [
+        "alphonsus_liguori",
+        "john_vianney",
+        "aloysius_gonzaga"
+      ],
+      "basis": "No portrait was painted in his life; a wax mask of his face was taken after his death in 1755 (the shrine's 'Apoteosi'). The card follows the traditional portrait reproduced on Commons (unknown painter): a pale, long-faced young man with short straight brown hair, heavy-lidded eyes raised, in the black habit and white collar, holding a crucifix. The skull is his attribute (Wikipedia).",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Герардо Майелла.jpg (traditional portrait, unknown painter)",
+          "url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D1%80%D0%B0%D1%80%D0%B4%D0%BE_%D0%9C%D0%B0%D0%B9%D0%B5%D0%BB%D0%BB%D0%B0.jpg"
+        },
+        {
+          "title": "San Gerardo Maiella (shrine), Vita di San Gerardo Maiella: L'ultima malattia e la morte",
+          "url": "https://www.sangerardomaiella.it/bibliografia/san-gerardo/vita-di-san-gerardo-maiella-libro/103-l-ultima-malattia-e-la-morte"
+        },
+        {
+          "title": "San Gerardo Maiella (shrine), Apoteosi (the death mask)",
+          "url": "https://www.sangerardomaiella.it/bibliografia/san-gerardo/s-gerardo-maiella/211-apoteosi"
+        },
+        {
+          "title": "Wikipedia, Gerard Majella (feast, patronage, attributes)",
+          "url": "https://en.wikipedia.org/wiki/Gerard_Majella"
+        }
+      ],
+      "catalogMatch": "St. Gerard Majella"
+    }
+  ]
+}

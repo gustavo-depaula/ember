@@ -11,17 +11,18 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 6 |
 | Saints with a card but no universal feast | 3 | 3 |
+| Saints of the novenas, not on the universal calendar | 3 | 0 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
 | Saints of the Pictorial Lives (Saint of the Day) | 245 | 95 |
-| Feasts of the Lord and the Church | 23 | 5 |
-| Our Lady | 18 | 6 |
-| Angels | 3 | 3 |
+| Feasts of the Lord and the Church | 25 | 5 |
+| Our Lady | 21 | 6 |
+| Angels | 4 | 3 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 0 |
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 606 cards, 383 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 383 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -246,6 +247,14 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] Gianna Beretta Molla — `gianna`
 - [x] Philomena — `philomena`
 - [x] Moses the Black — `moses_the_black`
+
+### Saints of the novenas, not on the universal calendar
+
+Saints with a novena in `content/practices` and no feast on the General Roman Calendar, on the date their own families keep.
+
+- [ ] 11 Apr · St. Gemma Galgani · *Santa Gemma Galgani* · Roman Martyrology
+- [ ] 12 Jul · Ss. Louis and Zélie Martin · *São Luís e Santa Zélia Martin* · canonized 2015, on their wedding anniversary
+- [ ] 16 Oct · St. Gerard Majella · *São Geraldo Majela* · Redemptorist feast
 
 ### Canonized since 2022
 
@@ -560,12 +569,15 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] Corpus Christi — `corpus_christi`
 - [x] The Sacred Heart of Jesus — `sacred_heart`
 - [x] Christ the King — `christ_king`
+- [ ] The Divine Mercy (Second Sunday of Easter) · *A Divina Misericórdia (Segundo Domingo da Páscoa)*
+- [ ] The Holy Face of Jesus · *A Santa Face de Jesus* · devotion, no feast on the calendar
 
 ## Our Lady
 
 - [x] 11 Feb · Our Lady of Lourdes · *Bem-aventurada Virgem Maria de Lourdes* · optional-memorial — `lourdes`
 - [x] 13 May · Our Lady of Fatima · *Bem-aventurada Virgem Maria de Fátima* · optional-memorial — `fatima`
 - [x] 31 May · The Visitation of the Blessed Virgin Mary · *Visitação da Bem-Aventurada Virgem Maria* · feast — `visitation`
+- [ ] 27 Jun · Our Lady of Perpetual Help · *Nossa Senhora do Perpétuo Socorro* · Redemptorist feast, not on the universal calendar
 - [x] 16 Jul · Our Lady of Mount Carmel · *Bem-Aventurada Virgem Maria do Monte Carmelo* · feast — `mount_carmel`
 - [x] 5 Aug · Dedication of the Basilica of Saint Mary Major · *Dedicação da Basílica de Santa Maria* · optional-memorial — `mary_major`
 - [x] 15 Aug · The Assumption OF The Blessed Virgin Mary · *ASSUNÇÃO DA BEM-AVENTURADA VIRGEM MARIA* · solemnity — `assumption`
@@ -576,16 +588,19 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 24 Sep · The Blessed Virgin Mary of Mercy · *A Santíssima Virgem Maria da Mercê* · Pictorial Lives — `our_lady_mercy`
 - [x] 7 Oct · Our Lady of the Rosary · *Bem-aventurada Virgem Maria do Rosário* · memorial — `our_lady_rosary`
 - [x] 21 Nov · The Presentation of the Blessed Virgin Mary · *Apresentação da Bem-aventurada Virgem Maria* · memorial — `presentation_bvm`
+- [ ] 27 Nov · Our Lady of the Miraculous Medal · *Nossa Senhora da Medalha Milagrosa* · not on the universal calendar
 - [x] 8 Dec · The Immaculate Conception of the Blessed Virgin Mary · *Imaculada Conceição da Bem-Aventurada Virgem Maria* · solemnity — `immaculate_conception`
 - [x] 10 Dec · Our Lady of Loreto · *Bem-aventurada Virgem Maria de Loreto* · optional-memorial — `loreto`
 - [x] 12 Dec · Our Lady of Guadalupe · *Bem-Aventurada Virgem Maria de Guadalupe* · optional-memorial — `guadalupe`
 - [x] movable · The Immaculate Heart of the Blessed Virgin Mary · *Imaculado Coração da Bem-aventurada Virgem Maria* · memorial — `immaculate_heart`
 - [x] movable · Blessed Virgin Mary Mother of the Church · *Bem-aventurada Virgem Maria, Mãe da Igreja* · memorial — `mother_of_church`
+- [ ] no fixed date · Our Lady, Undoer of Knots · *Nossa Senhora Desatadora dos Nós* · devotion
 
 ## Angels
 
 - [x] 29 Sep · Ss Michael, Gabriel and Raphael, Archangels · *Santos Miguel, Gabriel e Rafael, Arcanjos* · feast — `michael_archangel, gabriel_archangel`
 - [x] 2 Oct · The Guardian Angels · *Santos Anjos da Guarda* · memorial — `guardian_angels`
+- [ ] 24 Oct · St. Raphael the Archangel · *São Rafael Arcanjo* · traditional calendar (Divinum Officium) — the third archangel of 29 Sep, which has cards for Michael and Gabriel only
 
 ## Mysteries of the Rosary
 
