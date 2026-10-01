@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "06-23"
   },
   "data": {
     "st-john-baptist-novena-days": "data/days.json"

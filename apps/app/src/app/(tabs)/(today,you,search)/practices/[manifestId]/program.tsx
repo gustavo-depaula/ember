@@ -1,10 +1,11 @@
+import DateTimePicker from '@react-native-community/datetimepicker'
 import { useQuery } from '@tanstack/react-query'
-import { differenceInCalendarDays, format, parseISO } from 'date-fns'
+import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Platform, Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, confirm, PrayerSpinner, ScreenLayout, Typography } from '@/components'
@@ -24,8 +25,11 @@ import {
 import {
   computeAllDayStates,
   type DayState,
+  selectEnrollmentSchedule,
   settledAfterDays,
+  traditionalStart,
 } from '@/features/plan-of-life/program'
+import { normalizeSchedule } from '@/features/plan-of-life/schedule'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { PracticePlanEditor, usePracticePlan } from '@/features/practices/components/PracticePlan'
 import { useToday } from '@/hooks/useToday'
@@ -34,6 +38,10 @@ import { formatLocalized } from '@/lib/i18n/dateLocale'
 
 // A long course shows the stretch around today rather than every day.
 const windowSize = 9
+
+// A feast this near is what the novena is being joined for, so it waits for
+// its own date; further off, it's taken as begun today.
+const joinsAheadDays = 30
 
 const unbegunDay: DayState = {
   isMissed: false,
@@ -149,8 +157,9 @@ function roman(n: number): string {
 /**
  * A novena or other program, set like a devocionário page: the name, its days
  * as stars under the date they fall on, today's day opened as a chapter, and
- * the others as the book's contents. Before it's begun the page is only the
- * contents, each day open to read, over the bar that begins it.
+ * the others as the book's contents. Before it's joined the page is only the
+ * contents, each day open to read, over the day it would begin and the bar
+ * that joins it.
  */
 export default function ProgramDetailScreen() {
   const { t, i18n } = useTranslation()
@@ -165,6 +174,7 @@ export default function ProgramDetailScreen() {
   const restartProgramMutation = useRestartProgram()
   // Beginning it turns this page into the program under way, in place.
   const plan = usePracticePlan(manifest, { openOnBegin: false })
+  const [pickedStart, setPickedStart] = useState<string>()
 
   const cycleDataQuery = useQuery({
     queryKey: ['practice-data', manifestId],
@@ -225,10 +235,25 @@ export default function ProgramDetailScreen() {
     </Pressable>
   )
 
+  const todayStr = format(today, 'yyyy-MM-dd')
+
   if (!plan.isInPlan) {
-    const count = manifest.program.totalDays
-    const scheduleType = manifest.defaults?.slots?.[0]?.schedule?.type
-    const monthly = scheduleType === 'nth-weekday' || scheduleType === 'day-of-month'
+    const { program } = manifest
+    const count = program.totalDays
+    const defaultSchedule = normalizeSchedule(
+      manifest.defaults?.slots?.[0]?.schedule ?? { type: 'daily' },
+    )
+    const monthly =
+      defaultSchedule.type === 'nth-weekday' || defaultSchedule.type === 'day-of-month'
+    // Only a program kept to the calendar has a first day to choose; one that
+    // waits for its prayers, or keeps its own days of the month, is just joined.
+    const dated =
+      selectEnrollmentSchedule(program.progressPolicy, defaultSchedule, count, todayStr).type ===
+      'fixed-program'
+    const traditional = dated ? traditionalStart(program, today) : undefined
+    const near =
+      !!traditional && differenceInCalendarDays(parseISO(traditional), today) <= joinsAheadDays
+    const start = pickedStart ?? (near && traditional ? traditional : todayStr)
     return (
       <ScreenLayout>
         <YStack paddingVertical="$lg">
@@ -246,6 +271,7 @@ export default function ProgramDetailScreen() {
                 numeral={numeral(i)}
                 name={dayName(i)}
                 state={unbegunDay}
+                date={dated ? format(addDays(parseISO(start), i), 'yyyy-MM-dd') : undefined}
                 a11yState={t('program.upcoming')}
                 onPress={() =>
                   router.push({
@@ -256,7 +282,18 @@ export default function ProgramDetailScreen() {
               />
             ))}
           </YStack>
-          <PrayBar label={t('program.begin')} onPress={plan.addToPlan} />
+          {dated && (
+            <StartChoice
+              today={todayStr}
+              traditional={traditional}
+              value={start}
+              onChange={setPickedStart}
+            />
+          )}
+          <PrayBar
+            label={t('program.join')}
+            onPress={() => plan.addToPlan(dated ? { startDate: start } : undefined)}
+          />
         </YStack>
         <PracticePlanEditor plan={plan} />
       </ScreenLayout>
@@ -278,7 +315,6 @@ export default function ProgramDetailScreen() {
   const ended = !isComplete && states.every((s) => s.isCompleted || s.isMissed)
   const canOpen = !shouldPromptRestart && !progress.isProjection
   const needsRestart = shouldPromptRestart && !isComplete && !progress.isProjection
-  const todayStr = format(today, 'yyyy-MM-dd')
   // A day is prayed on its date; ahead of it, it can only be read. A missed day
   // can still be prayed late while the program is under way, and counts for
   // its own date. A program that restarts on a miss can't make one up, and a
@@ -440,6 +476,100 @@ export default function ProgramDetailScreen() {
         </XStack>
       </YStack>
     </ScreenLayout>
+  )
+}
+
+// The day a program not yet joined would begin: today, the date its feast
+// sets, or another picked from the calendar. The choice is typographic — the
+// one chosen in ink over a rule, the others muted.
+function StartChoice({
+  today,
+  traditional,
+  value,
+  onChange,
+}: {
+  today: string
+  traditional?: string
+  value: string
+  onChange: (date: string) => void
+}) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const [picking, setPicking] = useState(false)
+  const dateLabel = (date: string) => formatLocalized(parseISO(date), t('program.dateFormat'))
+  const other = value !== today && value !== traditional
+  const pick = (date: string) => {
+    setPicking(false)
+    onChange(date)
+  }
+  const options = [
+    {
+      key: 'today',
+      label: t('program.today'),
+      selected: value === today,
+      onPress: () => pick(today),
+    },
+    ...(traditional && traditional !== today
+      ? [
+          {
+            key: 'traditional',
+            label: dateLabel(traditional),
+            selected: value === traditional,
+            onPress: () => pick(traditional),
+          },
+        ]
+      : []),
+    {
+      key: 'other',
+      label: other ? dateLabel(value) : t('program.anotherDay'),
+      selected: other,
+      onPress: () => setPicking((shown) => !shown),
+    },
+  ]
+
+  return (
+    <YStack alignItems="center" paddingTop="$lg">
+      <Typography variant="label" fontSize={11} letterSpacing={1.5} tone="muted">
+        {t('program.begins').toUpperCase()}
+      </Typography>
+      <XStack gap="$lg" justifyContent="center" flexWrap="wrap">
+        {options.map((option) => (
+          <Pressable
+            key={option.key}
+            onPress={option.onPress}
+            accessibilityRole="radio"
+            accessibilityLabel={option.label}
+            accessibilityState={{ checked: option.selected }}
+            aria-checked={option.selected}
+            style={{ minHeight: 44, justifyContent: 'center' }}
+          >
+            <YStack
+              borderBottomWidth={1}
+              borderColor={option.selected ? '$accent' : 'transparent'}
+              paddingBottom={2}
+            >
+              <Typography fontSize="$3" tone={option.selected ? 'default' : 'muted'}>
+                {option.label}
+              </Typography>
+            </YStack>
+          </Pressable>
+        ))}
+      </XStack>
+      {picking && (
+        <DateTimePicker
+          value={parseISO(value)}
+          mode="date"
+          display={Platform.OS === 'ios' ? 'inline' : 'default'}
+          minimumDate={parseISO(today)}
+          accentColor={theme.accent.val}
+          onChange={(event, selected) => {
+            // Android's picker is a dialog: it's gone once it answers.
+            if (Platform.OS !== 'ios') setPicking(false)
+            if (event.type !== 'dismissed' && selected) onChange(format(selected, 'yyyy-MM-dd'))
+          }}
+        />
+      )}
+    </YStack>
   )
 }
 

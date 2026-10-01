@@ -16,7 +16,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": {"anchor": "sacred_heart", "offset": -1}
   },
   "data": {
     "novena-days": "data/days.json"

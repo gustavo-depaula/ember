@@ -7,6 +7,7 @@
  * actual content blobs by hash. All blobs live at `/hearth/v2/blobs/{ab}/{cd}/{hash}`.
  */
 
+import type { LiturgicalAnchor } from '@ember/liturgical'
 import type { Tier } from '@/db/schema'
 import type { Schedule } from '@/features/plan-of-life/schedule'
 import type { FlowDefinition, LocalizedText } from './types'
@@ -118,6 +119,12 @@ export type ProgramConfig = {
   progressPolicy: 'continue' | 'wait' | 'restart'
   completionBehavior: 'auto-disable' | 'offer-restart' | 'keep'
   restartThreshold?: number
+  /**
+   * The last day of a program kept before a feast — its eve, for a novena:
+   * 'MM-DD', or days from one of the calendar's moveable anchors. The first
+   * day counts back from it.
+   */
+  ends?: string | { anchor: LiturgicalAnchor; offset: number }
 }
 
 export type PracticeManifest = {

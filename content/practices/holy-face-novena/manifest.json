@@ -6,8 +6,8 @@
     "pt-BR": "Novena à Santa Face"
   },
   "subtitle": {
-    "en-US": "Shrove Tuesday → Lent",
-    "pt-BR": "Terça-feira de Carnaval → Quaresma"
+    "en-US": "before Shrove Tuesday",
+    "pt-BR": "antes da Terça-feira de Carnaval"
   },
   "categories": [
     "program",
@@ -20,7 +20,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": {"anchor": "ash_wednesday", "offset": -2}
   },
   "data": {
     "holy-face-novena-days": "data/days.json"

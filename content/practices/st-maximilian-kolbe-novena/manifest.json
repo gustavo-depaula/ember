@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "08-13"
   },
   "data": {
     "st-maximilian-kolbe-novena-days": "data/days.json"

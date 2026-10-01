@@ -1,3 +1,4 @@
+import { computeAnchors } from '@ember/liturgical'
 import { addDays, differenceInCalendarDays, format, parseISO, startOfDay } from 'date-fns'
 
 import type { ProgramConfig } from '@/content/manifestTypes'
@@ -277,6 +278,29 @@ export function selectEnrollmentSchedule(
   if (defaultSchedule.type === 'nth-weekday' || defaultSchedule.type === 'day-of-month')
     return defaultSchedule
   return { type: 'fixed-program', totalDays, startDate }
+}
+
+/**
+ * The next date a program kept before a feast begins, 'yyyy-MM-dd': its last
+ * day counted back to its first, this year's or — once that has gone by — the
+ * next. Undefined for a program tied to no date.
+ */
+export function traditionalStart(program: ProgramConfig, today: Date): string | undefined {
+  const { ends } = program
+  if (!ends) return undefined
+  const todayStr = format(today, 'yyyy-MM-dd')
+  const year = today.getFullYear()
+  // A novena ending in January begins the December before, so the end still
+  // ahead can be two calendar years on.
+  for (const y of [year, year + 1, year + 2]) {
+    const end =
+      typeof ends === 'string'
+        ? new Date(y, Number(ends.slice(0, 2)) - 1, Number(ends.slice(3)))
+        : addDays(computeAnchors(y)[ends.anchor], ends.offset)
+    const start = format(addDays(end, 1 - program.totalDays), 'yyyy-MM-dd')
+    if (start >= todayStr) return start
+  }
+  return undefined
 }
 
 // Long enough for a monthly devotion of a few dozen days; a holy-day rule can't

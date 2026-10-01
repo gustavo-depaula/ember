@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "10-18"
   },
   "data": {
     "st-peter-of-alcantara-novena-days": "data/days.json"

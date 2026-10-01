@@ -20,7 +20,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "12-24"
   },
   "data": {
     "christmas-novena-days": "data/days.json"

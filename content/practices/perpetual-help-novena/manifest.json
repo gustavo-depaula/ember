@@ -17,7 +17,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "06-26"
   },
   "data": {
     "perpetual-help-novena-days": "data/days.json"

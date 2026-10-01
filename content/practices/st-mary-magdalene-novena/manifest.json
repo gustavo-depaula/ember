@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "07-21"
   },
   "data": {
     "st-mary-magdalene-novena-days": "data/days.json"

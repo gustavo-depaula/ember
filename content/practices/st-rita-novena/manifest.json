@@ -6,8 +6,8 @@
     "pt-BR": "Novena a Santa Rita de Cássia"
   },
   "subtitle": {
-    "en-US": "May 11–20",
-    "pt-BR": "11–20 de maio"
+    "en-US": "May 13–21",
+    "pt-BR": "13–21 de maio"
   },
   "categories": [
     "program",
@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "05-21"
   },
   "data": {
     "st-rita-novena-days": "data/days.json"

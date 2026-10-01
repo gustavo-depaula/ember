@@ -20,7 +20,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": {"anchor": "christ_the_king", "offset": -1}
   },
   "data": {
     "christ-the-king-novena-days": "data/days.json"

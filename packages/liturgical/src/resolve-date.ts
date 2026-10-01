@@ -1,6 +1,7 @@
 import { addDays } from 'date-fns'
 
 import type { LiturgicalAnchor } from './calendar-types'
+import { computeHolyFamily } from './of-tempore'
 import {
   computeEaster,
   getAshWednesday,
@@ -45,6 +46,7 @@ export function computeAnchors(year: number): Record<LiturgicalAnchor, Date> {
 
     christ_the_king: addDays(advent1, -7),
     christmas: new Date(year, 11, 25),
+    holy_family: computeHolyFamily(year),
     epiphany: new Date(year, 0, 6),
     baptism_of_the_lord: getBaptismOfTheLord(year),
   }

@@ -17,7 +17,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "12-11"
   },
   "data": {
     "guadalupe-novena-days": "data/days.json"

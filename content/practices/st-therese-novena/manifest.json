@@ -18,7 +18,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "09-30"
   },
   "data": {
     "therese-novena-days": "data/days.json"

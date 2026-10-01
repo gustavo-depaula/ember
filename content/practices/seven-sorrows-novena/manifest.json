@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 7,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "09-14"
   },
   "data": {
     "seven-sorrows-novena-days": "data/days.json"

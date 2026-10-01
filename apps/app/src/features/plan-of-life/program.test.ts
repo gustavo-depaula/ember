@@ -11,6 +11,7 @@ import {
   projectProgramAtDate,
   resolveCalendarDay,
   selectEnrollmentSchedule,
+  traditionalStart,
 } from './program'
 import type { Schedule } from './schedule'
 import { getOccurrenceBasedProgramDay } from './schedule'
@@ -740,5 +741,55 @@ describe('programFinishedOn', () => {
     expect(wait([...prayed, '2026-06-12', '2026-06-13', '2026-06-15', '2026-06-20'])).toBe(
       '2026-06-20',
     )
+  })
+})
+
+describe('traditionalStart', () => {
+  const novena = (ends: ProgramConfig['ends']): ProgramConfig => ({
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+    ends,
+  })
+
+  it('counts back from the eve of a fixed feast', () => {
+    expect(traditionalStart(novena('03-18'), date(2027, 1, 15))).toBe('2027-03-10')
+  })
+
+  it('is today on the day it begins', () => {
+    expect(traditionalStart(novena('03-18'), date(2027, 3, 10))).toBe('2027-03-10')
+  })
+
+  it('waits for next year once this year\u2019s has begun', () => {
+    expect(traditionalStart(novena('03-18'), date(2027, 3, 11))).toBe('2028-03-10')
+  })
+
+  it('begins in December when it ends in January', () => {
+    const epiphany = novena('01-05')
+    expect(traditionalStart(epiphany, date(2026, 12, 1))).toBe('2026-12-28')
+    expect(traditionalStart(epiphany, date(2026, 12, 30))).toBe('2027-12-28')
+    expect(traditionalStart(epiphany, date(2027, 1, 2))).toBe('2027-12-28')
+  })
+
+  it('follows a moveable feast from year to year', () => {
+    // Easter falls on 28 March 2027 and 16 April 2028.
+    const pentecost = novena({ anchor: 'pentecost', offset: -1 })
+    expect(traditionalStart(pentecost, date(2027, 1, 1))).toBe('2027-05-07')
+    expect(traditionalStart(pentecost, date(2027, 5, 8))).toBe('2028-05-26')
+    const divineMercy = novena({ anchor: 'easter', offset: 6 })
+    expect(traditionalStart(divineMercy, date(2027, 1, 1))).toBe('2027-03-26')
+  })
+
+  it('follows Shrove Tuesday and the Holy Family', () => {
+    // Ash Wednesday 2027 is 10 February: the Holy Face is kept on the 9th.
+    const holyFace = novena({ anchor: 'ash_wednesday', offset: -2 })
+    expect(traditionalStart(holyFace, date(2027, 1, 1))).toBe('2027-01-31')
+    // The Sunday in the octave of Christmas 2027 is 26 December.
+    const holyFamily = novena({ anchor: 'holy_family', offset: -1 })
+    expect(traditionalStart(holyFamily, date(2027, 6, 1))).toBe('2027-12-17')
+  })
+
+  it('is undefined for a program tied to no date', () => {
+    expect(traditionalStart(novena(undefined), date(2027, 1, 1))).toBeUndefined()
   })
 })

@@ -1,3 +1,4 @@
+import { format, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
 import { useTheme, XStack, YStack } from 'tamagui'
@@ -5,10 +6,12 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 import { getManifest } from '@/content/resolver'
 import type { SlotState } from '@/db/events'
+import { useToday } from '@/hooks/useToday'
 import { lightTap } from '@/lib/haptics'
+import { formatLocalized } from '@/lib/i18n/dateLocale'
 
 import { getSlotName } from '../getPracticeName'
-import { useProgramProgress, useProgramsUnderWay } from '../hooks'
+import { useProgramDayDates, useProgramProgress, useProgramsUnderWay } from '../hooks'
 import { computeAllDayStates } from '../program'
 
 // Past this many days the marks would run off the line; the day count says it alone.
@@ -44,11 +47,18 @@ function ProgramLine({ slot }: { slot: SlotState }) {
   const theme = useTheme()
   const program = getManifest(slot.practice_id)?.program
   const progress = useProgramProgress(slot.practice_id, program)
+  const firstDate = useProgramDayDates(slot.practice_id, program)[0]
+  const today = format(useToday(), 'yyyy-MM-dd')
   const name = getSlotName(slot, t)
   if (!progress) return undefined
   const total = progress.totalDays
   const states = computeAllDayStates(progress)
   const day = (() => {
+    // Joined ahead of its feast: it hasn't a day yet, only the date it begins.
+    if (firstDate && firstDate > today)
+      return t('program.beginsOn', {
+        date: formatLocalized(parseISO(firstDate), t('program.dateFormat')),
+      })
     if (progress.isComplete) return t('program.complete')
     if (progress.shouldPromptRestart) return t('program.restartNeeded')
     if (states.every((s) => s.isCompleted || s.isMissed)) return t('program.ended')

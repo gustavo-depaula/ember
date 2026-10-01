@@ -84,7 +84,10 @@ export function usePracticePlan(
     setAsking({ schedule, fields, add })
   }
 
-  function beginProgram(program: NonNullable<PracticeManifest['program']>) {
+  // `startDate` is the day a program kept to the calendar begins — ahead of
+  // today for one joined before its feast. A program that waits, or keeps its
+  // own days of the month, has no start to choose.
+  function beginProgram(program: NonNullable<PracticeManifest['program']>, startDate?: string) {
     const onSuccess = async () => {
       await createProgramCursor(planId)
       if (openOnBegin) openProgram()
@@ -93,7 +96,7 @@ export function usePracticePlan(
       program.progressPolicy,
       normalizeSchedule(slotDefaults?.schedule ?? { type: 'daily' }),
       program.totalDays,
-      format(new Date(), 'yyyy-MM-dd'),
+      startDate ?? format(new Date(), 'yyyy-MM-dd'),
     )
     // Every practice is seeded with a switched-off slot, so this is the usual
     // path: the slot takes the program's calendar as it's switched on. Left on
@@ -114,9 +117,9 @@ export function usePracticePlan(
     )
   }
 
-  function addToPlan() {
+  function addToPlan({ startDate }: { startDate?: string } = {}) {
     if (!planId || !manifest) return
-    if (manifest.program) return beginProgram(manifest.program)
+    if (manifest.program) return beginProgram(manifest.program, startDate)
     const practice = getPractice(planId)
     if (practice?.archived) return unarchivePractice.mutate(planId)
 

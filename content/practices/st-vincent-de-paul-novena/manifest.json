@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "09-26"
   },
   "data": {
     "st-vincent-de-paul-novena-days": "data/days.json"

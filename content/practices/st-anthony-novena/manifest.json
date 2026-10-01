@@ -19,7 +19,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "06-12"
   },
   "data": {
     "anthony-novena-days": "data/days.json"
@@ -57,7 +58,7 @@
     ]
   },
   "subtitle": {
-    "en-US": "May 31–Jun 12",
-    "pt-BR": "31 de maio–12 de junho"
+    "en-US": "Jun 4–12",
+    "pt-BR": "4–12 de junho"
   }
 }

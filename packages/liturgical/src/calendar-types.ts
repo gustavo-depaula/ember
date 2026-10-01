@@ -30,6 +30,7 @@ type LiturgicalAnchor =
   | 'ash_wednesday'
   | 'christ_the_king'
   | 'christmas'
+  | 'holy_family'
   | 'epiphany'
   | 'baptism_of_the_lord'
 

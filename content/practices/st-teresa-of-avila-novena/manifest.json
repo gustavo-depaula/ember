@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "10-14"
   },
   "data": {
     "st-teresa-of-avila-novena-days": "data/days.json"

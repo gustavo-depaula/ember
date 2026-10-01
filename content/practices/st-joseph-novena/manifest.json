@@ -18,7 +18,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "03-18"
   },
   "data": {
     "joseph-novena-days": "data/days.json"

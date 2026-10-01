@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "12-31"
   },
   "data": {
     "mary-mother-of-god-novena-days": "data/days.json"

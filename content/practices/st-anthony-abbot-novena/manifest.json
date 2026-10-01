@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "01-16"
   },
   "data": {
     "st-anthony-abbot-novena-days": "data/days.json"

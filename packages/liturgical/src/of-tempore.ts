@@ -155,7 +155,9 @@ function christmasSeasonIdFor(date: Date): string | null | undefined {
   return undefined
 }
 
-function computeHolyFamily(year: number): Date {
+// The Sunday within the octave of Christmas, or 30 December when Christmas
+// itself is the Sunday.
+export function computeHolyFamily(year: number): Date {
   for (let day = 26; day <= 31; day++) {
     const candidate = new Date(year, 11, day)
     if (candidate.getDay() === 0) return candidate

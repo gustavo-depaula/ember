@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "07-11"
   },
   "data": {
     "ss-louis-zelie-martin-novena-days": "data/days.json"

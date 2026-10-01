@@ -21,7 +21,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "05-12"
   },
   "data": {
     "our-lady-of-fatima-novena-days": "data/days.json"

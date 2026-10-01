@@ -20,7 +20,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": {"anchor": "trinity_sunday", "offset": -1}
   },
   "data": {
     "holy-trinity-novena-days": "data/days.json"
