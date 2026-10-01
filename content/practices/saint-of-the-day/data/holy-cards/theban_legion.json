@@ -1,0 +1,50 @@
+{
+  "id": "theban_legion",
+  "feast": {
+    "month": 9,
+    "day": 22
+  },
+  "name": {
+    "en-US": "The Theban Legion",
+    "pt-BR": "A Legião Tebana"
+  },
+  "patronOf": {
+    "en-US": "St. Maurice and his soldiers, martyrs",
+    "pt-BR": "São Maurício e seus soldados, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "Thank God for every slight and injury you have to bear. An injury borne in meekness and silence is a true victory.",
+    "pt-BR": "Agradece a Deus por cada desprezo e injúria que tens de suportar. Uma injúria suportada em mansidão e silêncio é uma verdadeira vitória."
+  },
+  "lifeChapter": "sep-22-the-theban-legion",
+  "proper": "sanctorale.09-22.africa",
+  "meta": {
+    "face": "Three clearly different men of Upper Egypt. MAURICE (centre), about forty, with DEEP-BROWN skin as in the Magdeburg statue: a LONG OVAL face with a HIGH, rounded forehead, HIGH, PROMINENT cheekbones, a BROAD, straight nose with rounded nostrils, full, well-drawn lips, large, calm dark eyes under straight black brows, a strong, ROUNDED chin; short, tightly curled black hair and a SHORT, close black beard along the jaw; the gaze steady and serene. EXUPERIUS (left), about fifty-five, warm olive-brown: a SQUARE, heavy-browed face with a strong, HOOKED nose, deep-set dark eyes, a wide, thin mouth and a SHORT, grizzled grey-black beard; close-cropped grey hair. CANDIDUS (right), about twenty-two, light-brown, BEARDLESS: a NARROW, TRIANGULAR face with a small, pointed chin, a straight, fine nose, large almond-shaped dark eyes lifted upward, short, straight black hair. Not the beardless young charles_lwanga, the round benedito, or the old, hooded Egyptians paphnutius and macarius_alexandria.",
+    "basis": "Eucherius of Lyon's account, which the Martyrology follows, names Maurice, Exuperius and Candidus at Agaunum under Maximian. The legion came from the Thebaid in Egypt; Maurice has been shown as a dark-skinned African since the Magdeburg statue of about 1240 (Wikipedia), which the card follows. The companions' faces are ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-22-the-theban-legion.md Reflection, first two sentences (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Theban Legion (lead: Orthodox icon of the Theban Legion martyrs)",
+        "url": "https://en.wikipedia.org/wiki/Theban_Legion"
+      },
+      {
+        "title": "Wikipedia, Saint Maurice (iconography; the Magdeburg statue)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Maurice"
+      },
+      {
+        "title": "Santi e Beati, Santi Maurizio, Esuperio, Candido e Vittore (Roman Martyrology entry, 22 September)",
+        "url": "https://www.santiebeati.it/dettaglio/34800"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-22-the-theban-legion (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-22-the-theban-legion.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

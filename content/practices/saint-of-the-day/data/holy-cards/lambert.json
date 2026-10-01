@@ -1,0 +1,45 @@
+{
+  "id": "lambert",
+  "feast": {
+    "month": 9,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Lambert",
+    "pt-BR": "São Lamberto"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "How noble and heroic is this virtue of fortitude! how necessary for every Christian, especially for a pastor of souls, that neither worldly views nor fears may ever in the least warp his integrity or blind his judgment!",
+    "pt-BR": "Quão nobre e heroica é esta virtude da fortaleza! Quão necessária para todo cristão, especialmente para um pastor de almas, a fim de que nem as vistas mundanas nem os temores jamais desviem em coisa alguma a sua integridade ou cegem o seu juízo!"
+  },
+  "lifeChapter": "sep-17-lambert",
+  "meta": {
+    "face": "A Frankish noble of about sixty-five, broad-shouldered and strongly built, with a fair, weathered complexion and a LONG, RECTANGULAR face whose sides run nearly PARALLEL — a WIDE, FLAT, level forehead, a STRAIGHT, SQUARE jaw as wide as the brow, a long, straight nose ending in a BROAD, rounded tip, WIDE-SET, calm hazel eyes under THICK, STRAIGHT, dark-grey brows, a wide, firm mouth with a full lower lip; iron-grey hair cut short under the mitre and a SHORT, DENSE beard, dark-grey streaked with silver, trimmed close and square; the gaze level and composed. Not the broad, flat-planed, snub-nosed boniface, the short, curly-bearded denis, the white-haired, brow-ridged david_wales, or the lantern-jawed gregory_langres.",
+    "basis": "No likeness survives. His early biographers, as quoted by Wikipedia, call him a young man \"of pleasing looks… well-built, strong, a good fighter\"; the card keeps that strength in old age. The snow and the stone cross of Stavelot are the book's story (and its engraving).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-17-lambert.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Lambert of Maastricht (lead: the Palude diptych, Martyrdom of St. Lambert)",
+        "url": "https://en.wikipedia.org/wiki/Lambert_of_Maastricht"
+      },
+      {
+        "title": "Santi e Beati, San Lamberto di Maastricht (Roman Martyrology entry, 17 September)",
+        "url": "https://www.santiebeati.it/dettaglio/92911"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-17-lambert (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-17-lambert.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

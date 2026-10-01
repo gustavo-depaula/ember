@@ -1,0 +1,45 @@
+{
+  "id": "placid",
+  "feast": {
+    "month": 10,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Placid",
+    "pt-BR": "São Plácido"
+  },
+  "patronOf": {
+    "en-US": "Disciple of St. Benedict",
+    "pt-BR": "Discípulo de São Bento"
+  },
+  "prayerExcerpt": {
+    "en-US": "Adversity is the touchstone of the soul, because it discovers the character of the virtue which it possesses. One act of thanksgiving when matters go wrong with us is worth a thousand thanks when things are agreeable to our inclinations.",
+    "pt-BR": "A adversidade é a pedra de toque da alma, porque revela o caráter da virtude que ela possui. Um ato de ação de graças quando as coisas nos correm mal vale mais que mil agradecimentos quando as coisas estão conforme as nossas inclinações."
+  },
+  "lifeChapter": "oct-05-placid",
+  "meta": {
+    "face": "A young Roman patrician of about twenty, BEARDLESS, with a pale olive complexion and a LONG, NARROW OVAL face — a narrow, high forehead, a SLENDER, HIGH-BRIDGED Roman nose, LARGE, ALMOND-SHAPED dark-brown eyes set a little wide under thin, LEVEL dark brows, softly HOLLOW cheeks, a small, full-lipped mouth, a DELICATE, NARROW chin; black hair cut in a thick ring round a monastic tonsure; the gaze lifted, as in Perugino's panel, clear and innocent. Not the round-faced boy pancras, the soft-oval aloysius_gonzaga, or the heart-shaped, older nicholas_tolentino.",
+    "basis": "Perugino's panel (Wikipedia's lead) shows him young, tonsured, in the black habit, eyes lifted. Gregory the Great's Dialogues (II.7), told by Wikipedia and Santi e Beati, place him at Subiaco as a boy drawn from the lake; the card shows that place and leaves out the martyrdom (see the dossier). The structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-05-placid.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Placidus (abbot) (lead: Pietro Perugino, Saint Placidus)",
+        "url": "https://en.wikipedia.org/wiki/Placidus_(abbot)"
+      },
+      {
+        "title": "Santi e Beati, San Placido (Roman Martyrology entry, 5 October)",
+        "url": "https://www.santiebeati.it/dettaglio/73000"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-05-placid (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-05-placid.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

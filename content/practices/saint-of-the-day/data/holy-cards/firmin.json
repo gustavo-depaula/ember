@@ -1,0 +1,49 @@
+{
+  "id": "firmin",
+  "feast": {
+    "month": 9,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Firmin",
+    "pt-BR": "São Firmino"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Amiens, martyr",
+    "pt-BR": "Bispo de Amiens, mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "He preached the Faith in the countries of Agen, Anjou, and Beauvais, and being arrived at Amiens, there chose his residence, and founded there a numerous church of faithful disciples.",
+    "pt-BR": "Pregou a Fé nas regiões de Agen, Anjou e Beauvais, e, tendo chegado a Amiens, ali escolheu sua residência, e fundou ali uma numerosa igreja de fiéis discípulos."
+  },
+  "lifeChapter": "sep-25-firmin",
+  "meta": {
+    "face": "A Navarrese of Pamplona of about forty, CLEAN-SHAVEN, with a sun-warm olive complexion and a LONG, NARROW face with a STRONG, PROJECTING CHIN — a high, narrow forehead, a LONG, STRAIGHT nose running from the brow with hardly a dip, NARROW-SET, bright black eyes under STRONGLY ARCHED, thick black brows, FLAT cheeks under clean cheekbones, a thin, firm, wide mouth, a long jaw ending in a DEEP, slightly jutting chin; thick, straight black hair cut short below the mitre; the gaze eager and bright, toward his people. Not the fair, long-faced thomas_becket, the young symphorian, or the hawk-nosed, bearded Eustachius of this batch.",
+    "basis": "The Amiens cathedral portal statue (French Wikipedia's lead) shows a young, clean-shaven bishop; the book and Wikipedia make him a native of Pamplona, so the card gives him a Navarrese face. Its structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-25-firmin.md, first paragraph (his), second sentence; the chapter, which tells Firmin and Finbarr together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Fermin (lead: San Fermín, Pamplona)",
+        "url": "https://en.wikipedia.org/wiki/Fermin"
+      },
+      {
+        "title": "Wikipedia (fr), Firmin d'Amiens (lead: statue of St. Firmin, Amiens cathedral)",
+        "url": "https://fr.wikipedia.org/wiki/Firmin_d%27Amiens"
+      },
+      {
+        "title": "Santi e Beati, San Firmino di Amiens (Roman Martyrology entry, 25 September)",
+        "url": "https://www.santiebeati.it/dettaglio/91990"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-25-firmin (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-25-firmin.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "eustachius",
+  "feast": {
+    "month": 9,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Eustachius",
+    "pt-BR": "Santo Eustáquio"
+  },
+  "patronOf": {
+    "en-US": "Soldier and martyr",
+    "pt-BR": "Soldado e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is not enough to encounter dangers with resolution; we must with equal courage and constancy vanquish pleasure and the softer passions, or we possess not the virtue of true fortitude.",
+    "pt-BR": "Não basta enfrentar os perigos com resolução; devemos, com igual coragem e constância, vencer o prazer e as paixões mais brandas, ou não possuímos a virtude da verdadeira fortaleza."
+  },
+  "lifeChapter": "sep-20-sts-eustachius-and-companions",
+  "meta": {
+    "face": "A Roman of about forty-five with a light-olive, sun-browned complexion and a HAWKISH face — a NARROW, high forehead, a LARGE, PROMINENT, high-bridged AQUILINE nose, keen dark eyes set CLOSE together under strong, ANGLED black brows, LEAN cheeks with deep lines from nose to mouth, a strong, FORWARD-JUTTING chin; short, crisp black hair going grey at the temples; a SHORT, close-trimmed black beard edged with grey along the jaw; the gaze wide-eyed with wonder, fixed on the stag. Not the young, curly george or sebastian, the sandy, cleft-chinned victor_marseilles, or the clean-shaven, old, hook-nosed laurence_justinian.",
+    "basis": "No likeness exists; the Cretan icon on Wikipedia and Santi e Beati's emblems give the soldier or horseman and the stag with the cross between its antlers. The card paints the book's vision of the stag and a Roman officer's face that is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-20-sts-eustachius-and-companions.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Eustace (lead: Cretan-school icon, 16th century)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Eustace"
+      },
+      {
+        "title": "Santi e Beati, Sant'Eustachio Placido (Roman Martyrology entry, 20 September)",
+        "url": "https://www.santiebeati.it/dettaglio/71000"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-20-sts-eustachius-and-companions (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-20-sts-eustachius-and-companions.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "remigius",
+  "feast": {
+    "month": 10,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Remigius",
+    "pt-BR": "São Remígio"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the Franks",
+    "pt-BR": "Apóstolo dos francos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Few men have had such natural advantages and such gifts of grace as St. Remi, and few have done so great a work. Learn from him to bear the world's praise as well as its scorn with a lowly and chastened heart.",
+    "pt-BR": "Poucos homens tiveram tais vantagens naturais e tais dons de graça como São Remi, e poucos realizaram obra tão grande. Aprende com ele a suportar tanto o louvor do mundo quanto o seu escárnio com um coração humilde e mortificado."
+  },
+  "lifeChapter": "oct-01-remigius",
+  "meta": {
+    "face": "A Gallo-Roman noble of about sixty, UNUSUALLY TALL, with a LONG NECK and a pale, fine complexion and a LONG, NOBLE, symmetrical face — a HIGH, broad, smooth forehead, a LONG, straight, finely cut nose, LARGE, calm grey eyes set LEVEL under LONG, straight silver brows, smooth, LONG cheeks, a small, serene closed mouth, a long, gently rounded chin; silver-grey hair cut short below the mitre; a MEDIUM, neatly combed silver beard, smooth and oval, not full or flowing; the gaze calm and a little lowered, with 'blended majesty and serenity'. Not the lantern-jawed gregory_langres, the square, laughing medard, the square-bearded, domed germanus_auxerre, or the clean-shaven, underbitten germanus_paris.",
+    "basis": "The book itself describes him: \"unusually tall, his face impressed with blended majesty and serenity, his bearing gentle, humble, and retiring\". Santi e Beati gives his emblems as the crosier and the flask of oil; the card follows both, and the structure of the face is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-01-remigius.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Remigius (lead: Master of Saint Giles, The Baptism of Clovis)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Remigius"
+      },
+      {
+        "title": "Santi e Beati, San Remigio di Reims (Roman Martyrology entry, 13 January)",
+        "url": "https://www.santiebeati.it/dettaglio/72600"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-01-remigius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-01-remigius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

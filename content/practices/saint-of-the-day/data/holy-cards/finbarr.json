@@ -1,0 +1,45 @@
+{
+  "id": "finbarr",
+  "feast": {
+    "month": 9,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Finbarr",
+    "pt-BR": "São Finbarr"
+  },
+  "patronOf": {
+    "en-US": "Patron of Cork",
+    "pt-BR": "Padroeiro de Cork"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Finbarr, who lived in the sixth century, was a native of Connaught, and instituted a monastery or school at Lough Eire, to which such numbers of disciples flocked, as changed, as it were, a desert into a large city.",
+    "pt-BR": "São Finbarr, que viveu no século sexto, era natural de Connaught, e instituiu um mosteiro ou escola em Lough Eire, ao qual acorreu tal número de discípulos que transformou, por assim dizer, um deserto numa grande cidade."
+  },
+  "lifeChapter": "sep-25-firmin",
+  "meta": {
+    "face": "An Irishman of about fifty with a fair, pink, lightly freckled complexion and a LONG, NARROW face with a SOFT, gently RECEDING chin — a high, bare forehead under the Irish tonsure shaved from ear to ear, a LONG, straight nose with a NARROW bridge, deep-set, PALE-BLUE eyes whose outer corners SLOPE DOWN, faint, near-white brows, high, FLAT cheekbones, a small, gentle mouth; hair of a striking PALE WHITE-BLOND (the 'fair crest' of his name) falling from behind the ears; a SOFT, pale-flaxen beard of medium length, PARTED into two short forks; the gaze kindly, toward his pupils. Not the broad, open, clean-shaven, white-haired columba, the big-boned, jutting-chinned columban, or the heart-shaped, dark-bearded fiaker.",
+    "basis": "No likeness survives; Harry Clarke's window in the Honan Chapel (Wikipedia's lead) is modern. His name, Wikipedia says, came from the words spoken at his tonsure, \"Fair is the crest of Loan\", so the card gives him pale fair hair; the Irish tonsure and crosier are of his time. The structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-25-firmin.md, second paragraph (his), first sentence; the chapter, which tells Firmin and Finbarr together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Finbar of Cork (lead: Harry Clarke, St. Finbarr, Honan Chapel)",
+        "url": "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+      },
+      {
+        "title": "Santi e Beati, San Findbar di Cork (Roman Martyrology entry, 25 September)",
+        "url": "https://www.santiebeati.it/dettaglio/71980"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-25-firmin (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-25-firmin.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

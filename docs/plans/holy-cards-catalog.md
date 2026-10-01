@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 245 | 115 |
+| Saints of the Pictorial Lives (Saint of the Day) | 245 | 125 |
 | Feasts of the Lord and the Church | 25 | 5 |
 | Our Lady | 21 | 6 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 615 cards, 484 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 494 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -470,18 +470,18 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 11 Sep · St. Paphnutius, Bishop · *São Pafnúcio, Bispo* · Pictorial Lives
 - [ ] 12 Sep · St. Guy of Anderlecht · *São Guido de Anderlecht* · Pictorial Lives
 - [ ] 13 Sep · St. Eulogius, Patriarch of Alexandria · *Santo Eulógio, Patriarca de Alexandria* · Pictorial Lives
-- [ ] 15 Sep · St. Catherine of Genoa · *Santa Catarina de Gênova* · Pictorial Lives
-- [ ] 17 Sep · St. Lambert, Bishop, Martyr · *São Lamberto, Bispo, Mártir* · Pictorial Lives
-- [ ] 18 Sep · St. Thomas of Villanova · *São Tomás de Vilanova* · Pictorial Lives
-- [ ] 20 Sep · Sts. Eustachius and Companions, Martyrs · *Santo Eustáquio e Companheiros, Mártires* · Pictorial Lives
-- [ ] 22 Sep · The Theban Legion · *A Legião Tebana* · Pictorial Lives
+- [x] 15 Sep · St. Catherine of Genoa · *Santa Catarina de Gênova* · Pictorial Lives — `catherine_genoa`
+- [x] 17 Sep · St. Lambert, Bishop, Martyr · *São Lamberto, Bispo, Mártir* · Pictorial Lives — `lambert`
+- [x] 18 Sep · St. Thomas of Villanova · *São Tomás de Vilanova* · Pictorial Lives — `thomas_villanova`
+- [x] 20 Sep · Sts. Eustachius and Companions, Martyrs · *Santo Eustáquio e Companheiros, Mártires* · Pictorial Lives — `eustachius`
+- [x] 22 Sep · The Theban Legion · *A Legião Tebana* · Pictorial Lives — `theban_legion`
 - [ ] 23 Sep · St. Thecla, Virgin, Martyr · *Santa Tecla, Virgem, Mártir* · Pictorial Lives
-- [ ] 25 Sep · St. Firmin, Bishop, Martyr · *São Firmino, Bispo, Mártir* · Pictorial Lives
-- [ ] 25 Sep · St. Finbarr, Bishop · *São Finbarr, Bispo* · Pictorial Lives
+- [x] 25 Sep · St. Firmin, Bishop, Martyr · *São Firmino, Bispo, Mártir* · Pictorial Lives — `firmin`
+- [x] 25 Sep · St. Finbarr, Bishop · *São Finbarr, Bispo* · Pictorial Lives — `finbarr`
 - [ ] 26 Sep · Sts. Cyprian and Justina, Martyrs · *São Cipriano e Santa Justina, Mártires* · Pictorial Lives
-- [ ] 1 Oct · St. Remigius, Bishop · *São Remígio, Bispo* · Pictorial Lives
-- [ ] 3 Oct · St. Gerard, Abbot · *São Gerardo, Abade* · Pictorial Lives
-- [ ] 5 Oct · St. Placid, Martyr · *São Plácido, Mártir* · Pictorial Lives
+- [x] 1 Oct · St. Remigius, Bishop · *São Remígio, Bispo* · Pictorial Lives — `remigius`
+- [x] 3 Oct · St. Gerard, Abbot · *São Gerardo, Abade* · Pictorial Lives — `gerard_brogne`
+- [x] 5 Oct · St. Placid, Martyr · *São Plácido, Mártir* · Pictorial Lives — `placid`
 - [x] 7 Oct · St. Mark, Pope · *São Marcos, Papa* · Pictorial Lives — `mark_pope`
 - [x] 9 Oct · St. Louis Bertrand · *São Luís Bertrando* · Pictorial Lives — `louis_bertrand`
 - [x] 10 Oct · St. Francis Borgia · *São Francisco de Borja* · Pictorial Lives — `francis_borgia`

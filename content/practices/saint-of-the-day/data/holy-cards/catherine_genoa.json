@@ -1,0 +1,49 @@
+{
+  "id": "catherine_genoa",
+  "feast": {
+    "month": 9,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Catherine of Genoa",
+    "pt-BR": "Santa Catarina de Gênova"
+  },
+  "patronOf": {
+    "en-US": "Patroness of hospitals in Italy",
+    "pt-BR": "Padroeira dos hospitais da Itália"
+  },
+  "prayerExcerpt": {
+    "en-US": "The constant thought of purgatory will help us not only to escape its dreadful pains, but also to avoid the least imperfection which hinders our approach to God.",
+    "pt-BR": "O constante pensamento no purgatório nos ajudará não somente a escapar de suas terríveis penas, mas também a evitar a menor imperfeição que estorve a nossa aproximação de Deus."
+  },
+  "lifeChapter": "sep-15-catherine-of-genoa",
+  "meta": {
+    "face": "A Genoese noblewoman of about fifty-five with a pale ivory complexion and a DIAMOND-SHAPED face — a NARROW, high forehead under the wimple, the face WIDEST at HIGH, PROMINENT cheekbones with soft hollows beneath, then narrowing along a lean jaw to a NARROW, firm, pointed chin; a LONG, THIN, HIGH-BRIDGED aquiline nose whose tip turns slightly down, LARGE, deep-set grey-green eyes with faint violet shadows beneath, THIN, sharply ARCHED dark brows, a narrow, thin-lipped mouth; hair hidden; the gaze lifted a little, burning and inward. Not the young, oval catherine_siena, the small, short-nosed colette, the moon-faced catherine_ricci, or the broad, square jane_frances_chantal.",
+    "basis": "Her iconography is the noble widow in a veil, serving the sick of the Pammatone hospital (Wikipedia; the book's engraving shows her carrying a bowl to a bedside). The Ratti painting on Italian Wikipedia gives a long face with a long nose under a veil; the bone structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-15-catherine-of-genoa.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Catherine of Genoa",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+      },
+      {
+        "title": "Wikipedia (it), Caterina da Genova (lead: Giovanni Agostino Ratti, Santa Caterina Fieschi Adorno)",
+        "url": "https://it.wikipedia.org/wiki/Caterina_da_Genova"
+      },
+      {
+        "title": "Santi e Beati, Santa Caterina Fieschi Adorno (Roman Martyrology entry, 15 September)",
+        "url": "https://www.santiebeati.it/dettaglio/54375"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-15-catherine-of-genoa (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-15-catherine-of-genoa.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

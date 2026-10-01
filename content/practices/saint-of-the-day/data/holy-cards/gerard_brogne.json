@@ -1,0 +1,49 @@
+{
+  "id": "gerard_brogne",
+  "feast": {
+    "month": 10,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Gerard",
+    "pt-BR": "São Gerardo"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Brogne",
+    "pt-BR": "Abade de Brogne"
+  },
+  "prayerExcerpt": {
+    "en-US": "Though we are in the world, let us strive to separate ourselves from it and consecrate ourselves to God, remembering that \"the world passeth away, but he that doth the will of God abideth forever.\"",
+    "pt-BR": "Embora estejamos no mundo, esforcemo-nos por separar-nos dele e consagrar-nos a Deus, lembrando que \"o mundo passa, mas aquele que faz a vontade de Deus permanece para sempre.\""
+  },
+  "lifeChapter": "oct-03-gerard",
+  "meta": {
+    "face": "A noble of the Namur country of about sixty, once a soldier, CLEAN-SHAVEN, with a fair, ruddy complexion and a SHORT, WIDE, SQUARE-OVAL face with FULL, ROUNDED cheeks — a broad, low forehead under the tonsure, a SHORT, slightly UPTURNED nose with a rounded tip, ROUND, warm brown eyes with deep laughter lines, BUSHY brown-grey brows, a WIDE, kindly mouth set in a DIMPLED half-smile, a short, ROUND chin; greying brown hair in a thick monastic crown; the gaze warm and engaging, toward us, with the 'engaging sweetness of temper' of the book. Not the Greek-nosed hugh_cluny, the white-bearded gal_clermont, or the lean, high-browed benedict_aniane.",
+    "basis": "No likeness survives; the modern statue at Saint-Gérard (Wikipedia's lead) shows a monk. The book's \"engaging sweetness of temper\" gives the expression, and Wikipedia's relic of St. Eugene from Saint-Denis gives the reliquary; the structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-03-gerard.md Reflection, the whole of it (1 John 2:17) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Gerard of Brogne (lead: statue at Saint-Gérard)",
+        "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_of_Brogne"
+      },
+      {
+        "title": "Wikipedia (fr), Gérard de Brogne",
+        "url": "https://fr.wikipedia.org/wiki/G%C3%A9rard_de_Brogne"
+      },
+      {
+        "title": "Santi e Beati, San Gerardo di Brogne (Roman Martyrology entry, 3 October)",
+        "url": "https://www.santiebeati.it/dettaglio/72650"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-03-gerard (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-03-gerard.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}

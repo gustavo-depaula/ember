@@ -1,0 +1,49 @@
+{
+  "id": "thomas_villanova",
+  "feast": {
+    "month": 9,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Thomas of Villanova",
+    "pt-BR": "São Tomás de Vilanova"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Valencia",
+    "pt-BR": "Arcebispo de Valência"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Answer me, O sinner!\" St. Thomas would say, \"what can you purchase with your money better or more necessary than the redemption of your sins?\"",
+    "pt-BR": "\"Responde-me, ó pecador!\", costumava dizer São Tomás, \"que podes comprar com o teu dinheiro melhor ou mais necessário do que a redenção dos teus pecados?\""
+  },
+  "lifeChapter": "sep-18-thomas-of-villanova",
+  "meta": {
+    "face": "A Castilian of La Mancha of about sixty-five, CLEAN-SHAVEN, with a warm olive complexion and a LONG, SOFT OVAL face after his Spanish portraits — a high forehead RECEDING at the temples, a LONG, straight nose with a FLESHY, rounded tip, LARGE, dark eyes under HEAVY, DROOPING upper lids, lowered in thought, thick, straight dark brows with a deep vertical CREASE between them, smooth, full cheeks, a FULL lower lip, a soft, rounded jaw with a hint of fullness beneath the chin; short dark hair touched with grey under the mitre; the gaze lowered, gentle and grave. Not the wide, angular, broad-jawed john_sahagun, nor the lean, narrow, fine-nosed thomas_becket.",
+    "basis": "Spanish portraits (Wikipedia's lead engraving and the Spanish article's painting) show a clean-shaven, long, soft-oval face with a long nose and heavy lids, eyes lowered, in mitre and cope; Santi e Beati gives episcopal dress, mitre, crosier and book. The purse and the poor child are his almsgiving, which the book tells.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-18-thomas-of-villanova.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Thomas of Villanova (lead: engraving, S. Tomás de Villanueva)",
+        "url": "https://en.wikipedia.org/wiki/Thomas_of_Villanova"
+      },
+      {
+        "title": "Wikipedia (es), Tomás de Villanueva (lead: portrait in episcopal dress)",
+        "url": "https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Villanueva"
+      },
+      {
+        "title": "Santi e Beati, San Tommaso da Villanova (Roman Martyrology entry, 8 September)",
+        "url": "https://www.santiebeati.it/dettaglio/71300"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-18-thomas-of-villanova (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-18-thomas-of-villanova.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-36.md."
+      }
+    ]
+  }
+}
