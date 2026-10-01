@@ -28,10 +28,10 @@ const dealDuration = 260
  * other copies stacked beneath. Each copy has its own back; flicking the back
  * sideways deals the top copy under the stack and turns up the next one's.
  */
-export function SaintCard({ saint }: { saint: SaintEntry }) {
+export function SaintCard({ saint, width }: { saint: SaintEntry; width?: number }) {
   const copies = useCopies(saint.id)
   const { width: screenWidth } = useWindowDimensions()
-  const cardWidth = saintCardWidth(screenWidth)
+  const cardWidth = width ?? saintCardWidth(screenWidth)
   const cardHeight = cardWidth * 1.5
   const [top, setTop] = useState(0)
   const dealX = useSharedValue(0)

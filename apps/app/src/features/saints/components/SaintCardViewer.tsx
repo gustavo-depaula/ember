@@ -15,13 +15,17 @@ import { GlassSurface } from '@/components'
 import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
 import { useSaintsViewStore } from '../store'
-import { SaintCard } from './SaintCard'
+import { SaintCard, saintCardWidth } from './SaintCard'
 import { SaintEncounter, SaintEncounterHeader } from './SaintEncounter'
 
 const sheetSpring = { damping: 24, stiffness: 240, mass: 0.9 }
 // How much of the sheet peeks above the bottom at rest — handle + the identity
 // header (name · feast · patronage).
 const peekVisible = 168
+// The card sits this far below the top inset, clear of the close button.
+const cardTopOffset = 76
+// Breathing room between the card (and its stacked copies) and the peeking sheet.
+const cardSheetGap = 24
 
 // Full-screen swipeable saint viewer. Each page is a card + its own pull-up
 // "encounter" sheet, so a lateral swipe slides BOTH together (the sheet moves
@@ -57,6 +61,11 @@ export function SaintCardViewer({
   const peekY = screenHeight - peekVisible - insets.bottom
   const openY = Math.round(screenHeight * 0.32)
   const ty = useSharedValue(peekY)
+  // Shrink the card on short screens so the peeking sheet never covers it.
+  const cardWidth = Math.min(
+    saintCardWidth(screenWidth),
+    Math.floor((peekY - insets.top - cardTopOffset - cardSheetGap) / 1.5),
+  )
 
   const renderItem = useCallback(
     ({ item }: { item: SaintEntry }) => (
@@ -66,13 +75,14 @@ export function SaintCardViewer({
         width={screenWidth}
         height={screenHeight}
         insets={insets}
+        cardWidth={cardWidth}
         peekY={peekY}
         openY={openY}
         ty={ty}
         onClose={onClose}
       />
     ),
-    [isDark, screenWidth, screenHeight, insets, peekY, openY, ty, onClose],
+    [isDark, screenWidth, screenHeight, insets, cardWidth, peekY, openY, ty, onClose],
   )
 
   const getItemLayout = useCallback(
@@ -87,6 +97,9 @@ export function SaintCardViewer({
   return (
     <View flex={1}>
       <GlassSurface isDark={isDark} isInteractive={false} style={StyleSheet.absoluteFill} />
+      {/* Dim the lightbox so the card and the light encounter sheet stand off
+          it — over bare glass the sheet's glass has nothing to separate from. */}
+      <View style={[StyleSheet.absoluteFill, styles.scrim]} pointerEvents="none" />
 
       <FlatList
         data={entries}
@@ -123,6 +136,7 @@ function SaintPage({
   width,
   height,
   insets,
+  cardWidth,
   peekY,
   openY,
   ty,
@@ -133,6 +147,7 @@ function SaintPage({
   width: number
   height: number
   insets: EdgeInsets
+  cardWidth: number
   peekY: number
   openY: number
   ty: SharedValue<number>
@@ -163,9 +178,12 @@ function SaintPage({
     <View width={width} height={height}>
       {/* Tapping the backdrop dismisses; the inner Pressable absorbs taps on the
           card so its flip/tilt gestures still work. */}
-      <Pressable onPress={onClose} style={[styles.cardArea, { paddingTop: insets.top + 76 }]}>
+      <Pressable
+        onPress={onClose}
+        style={[styles.cardArea, { paddingTop: insets.top + cardTopOffset }]}
+      >
         <Pressable onPress={() => {}}>
-          <SaintCard saint={saint} />
+          <SaintCard saint={saint} width={cardWidth} />
         </Pressable>
       </Pressable>
 
@@ -192,6 +210,9 @@ function SaintPage({
 }
 
 const styles = StyleSheet.create({
+  scrim: {
+    backgroundColor: 'rgba(18,14,10,0.18)',
+  },
   cardArea: {
     flex: 1,
     alignItems: 'center',
