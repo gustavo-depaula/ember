@@ -1,0 +1,48 @@
+{
+  "id": "mama_antula",
+  "feast": {
+    "month": 3,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. María Antonia (Mama Antula)",
+    "pt-BR": "Santa Maria Antônia (Mama Antula)"
+  },
+  "patronOf": {
+    "en-US": "Pilgrim of the Spiritual Exercises",
+    "pt-BR": "Peregrina dos Exercícios Espirituais"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I would go wherever God is not known, to make him known.\"",
+    "pt-BR": "\"Quisera ir até onde Deus não é conhecido, para fazê-lo conhecer.\""
+  },
+  "meta": {
+    "face": "A criolla of Santiago del Estero of about fifty-five, CLEARLY MIDDLE-AGED, not a young nun: a warm, light-olive, sun-weathered complexion and a LONG face with a HIGH, rounded forehead and LEAN cheeks hollowed a little under PROMINENT cheekbones from her years on the road; LARGE, WIDE-SET, light-brown almond eyes with fine lines at their outer corners, under fine, HIGH-ARCHED brows; a long, straight, slender nose; faint lines from nose to mouth; a SMALL, firm mouth with a fuller lower lip; a neat, rounded chin; the gaze calm, steady and direct, toward us.",
+    "basis": "Her portrait by José de Salas (Wikimedia Commons, dated 1799) and the anonymous colonial portrait both show a smooth long oval with large, wide-set light eyes under high arched brows, a long straight nose and a small mouth, in the black mantle and white toca of a beata, with a cross-staff and a book; Spanish Wikipedia describes the portraits as showing her 'hermosa y de distinguida presencia'. Pope Francis's canonization homily recalls her walking thousands of kilometres across deserts.",
+    "excerpt": "Her saying from her letters, as her devotion quotes it: «Quisiera andar hasta donde Dios no fuese conocido» (El Testigo Fiel), «Quisiera andar hasta donde Dios no es conocido para hacerlo conocer» (novena of the diocese of Santiago del Estero), «Llegar hasta donde Dios no sea conocido para hacerlo conocer» (Spanish Wikipedia); the letter itself not located; our rendering (she died in 1799)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, María Antonia de Paz y Figueroa.png (portrait by José de Salas)",
+        "url": "https://commons.wikimedia.org/wiki/File:María_Antonia_de_Paz_y_Figueroa.png"
+      },
+      {
+        "title": "Wikimedia Commons, Maria Antonia de Paz y Figueroa.jpg (colonial portrait)",
+        "url": "https://commons.wikimedia.org/wiki/File:Maria_Antonia_de_Paz_y_Figueroa.jpg"
+      },
+      {
+        "title": "Pope Francis, homily at her canonization, 11 February 2024",
+        "url": "https://www.vatican.va/content/francesco/en/homilies/2024/documents/20240211-omelia-canonizzazione.html"
+      },
+      {
+        "title": "Diocese of Santiago del Estero, Novena de Mama Antula (her saying on the title page)",
+        "url": "https://aica.org/aica2019/web/images/files/NOVENA%20DE%20MAMA%20ANTULA.pdf"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

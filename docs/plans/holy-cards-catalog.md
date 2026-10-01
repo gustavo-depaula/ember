@@ -6,13 +6,13 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 | Category | Cards | Done |
 |---|---|---|
-| Saints — solemnities, feasts, memorials | 86 | 83 |
-| Saints — optional memorials | 106 | 74 |
+| Saints — solemnities, feasts, memorials | 86 | 86 |
+| Saints — optional memorials | 106 | 106 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
-| Saints of Brazil's own calendar | 6 | 5 |
+| Saints of Brazil's own calendar | 6 | 6 |
 | Saints with a card but no universal feast | 3 | 3 |
-| Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 0 |
-| Saints of the Pictorial Lives (Saint of the Day) | 245 | 0 |
+| Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 10 |
+| Saints of the Pictorial Lives (Saint of the Day) | 245 | 95 |
 | Feasts of the Lord and the Church | 23 | 5 |
 | Our Lady | 18 | 6 |
 | Angels | 3 | 3 |
@@ -21,7 +21,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 606 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 606 cards, 365 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -251,16 +251,16 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 Canonized 2022–2025 (none yet in 2026), with the memorial the Dicastery for the Causes of Saints gives (`causesanti.va`); none is on the General Roman Calendar. Sources and details: `research/holy-card-faces/dossiers/canonizations-2022-2026.md`.
 
-- [ ] 14 Jan · St. Lazarus Devasahayam · *São Lázaro Devasahayam* · canonized
-- [ ] 27 Jan · St. Maria of Jesus Santocanale · *Santa Maria de Jesus Santocanale* · canonized
-- [ ] 2 Feb · St. Maria Domenica Mantovani · *Santa Maria Domênica Mantovani* · canonized
-- [ ] 3 Feb · St. Marie Rivier · *Santa Maria Rivier* · canonized
-- [ ] 16 Feb · St. Giuseppe Allamano · *São José Allamano* · canonized
-- [ ] 7 Mar · St. María Antonia de Paz y Figueroa (Mama Antula) · *Santa Maria Antônia de Paz y Figueroa (Mama Antula)* · canonized
-- [ ] 11 Apr · St. Elena Guerra · *Santa Helena Guerra* · canonized
-- [ ] 15 Apr · St. César de Bus · *São César de Bus* · canonized
-- [ ] 3 May · St. Marie-Léonie Paradis · *Santa Maria Leônia Paradis* · canonized
-- [ ] 9 May · St. Carmen Rendiles · *Santa Carmen Rendiles* · canonized
+- [x] 14 Jan · St. Lazarus Devasahayam · *São Lázaro Devasahayam* · canonized — `lazarus_devasahayam`
+- [x] 27 Jan · St. Maria of Jesus Santocanale · *Santa Maria de Jesus Santocanale* · canonized — `maria_santocanale`
+- [x] 2 Feb · St. Maria Domenica Mantovani · *Santa Maria Domênica Mantovani* · canonized — `maria_domenica_mantovani`
+- [x] 3 Feb · St. Marie Rivier · *Santa Maria Rivier* · canonized — `marie_rivier`
+- [x] 16 Feb · St. Giuseppe Allamano · *São José Allamano* · canonized — `giuseppe_allamano`
+- [x] 7 Mar · St. María Antonia de Paz y Figueroa (Mama Antula) · *Santa Maria Antônia de Paz y Figueroa (Mama Antula)* · canonized — `mama_antula`
+- [x] 11 Apr · St. Elena Guerra · *Santa Helena Guerra* · canonized — `elena_guerra`
+- [x] 15 Apr · St. César de Bus · *São César de Bus* · canonized — `cesar_de_bus`
+- [x] 3 May · St. Marie-Léonie Paradis · *Santa Maria Leônia Paradis* · canonized — `marie_leonie_paradis`
+- [x] 9 May · St. Carmen Rendiles · *Santa Carmen Rendiles* · canonized — `carmen_rendiles`
 - [ ] 22 May · St. Luigi Maria Palazzolo · *São Luís Maria Palazzolo* · canonized
 - [ ] 1 Jun · St. Giovanni Battista Scalabrini · *São João Batista Scalabrini* · canonized
 - [ ] 11 Jun · St. Ignatius Maloyan · *Santo Inácio Maloyan* · canonized

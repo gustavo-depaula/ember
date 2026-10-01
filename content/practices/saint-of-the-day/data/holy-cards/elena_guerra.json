@@ -1,0 +1,44 @@
+{
+  "id": "elena_guerra",
+  "feast": {
+    "month": 4,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Elena Guerra",
+    "pt-BR": "Santa Helena Guerra"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the Holy Spirit",
+    "pt-BR": "Apóstola do Espírito Santo"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"When I was in church for the novena of Pentecost, it seemed to me that I was in Paradise.\"",
+    "pt-BR": "\"Quando eu estava na igreja para a novena de Pentecostes, parecia-me estar no Paraíso.\""
+  },
+  "meta": {
+    "face": "A Lucchese noblewoman of about sixty-five with a warm, lightly sallow complexion and a LONG, STRONG-BONED face ending in a SQUARE, slightly PROMINENT chin — THICK, dark, STRAIGHT, LEVEL brows set LOW over deep-set, HOODED dark eyes, a LONG, strong nose with a broad, ROUNDED tip, flat cheeks with long creases from the nose to the mouth, a WIDE, thin-lipped mouth with a faint, knowing smile; the gaze direct and earnest.",
+    "basis": "Her photograph (Wikimedia Commons, early 1900s) and the Dicastery's portrait drawn from it: a long, strong face with thick, level, low-set brows over deep-set, hooded eyes, a long nose with a rounded tip, long cheek creases, a wide thin mouth and a square chin, in a black veil and white collar. The dove is her devotion; Lucca is the city she hardly ever left.",
+    "excerpt": "Her own recollection, «quando mi trovavo in chiesa per la novena di Pentecoste, mi sembrava di essere in Paradiso», as quoted by L'Osservatore Romano (October 2024) and the Dicastery's biography; our rendering (she died in 1914)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Guerra Elena.png (photograph, early 1900s)",
+        "url": "https://commons.wikimedia.org/wiki/File:Guerra_Elena.png"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Elena Guerra (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/elena-guerra.html"
+      },
+      {
+        "title": "L'Osservatore Romano, Apostola della devozione allo Spirito Santo (October 2024)",
+        "url": "https://www.osservatoreromano.va/it/news/2024-10/quo-238/apostola-della-devozione-allo-spirito-santo.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

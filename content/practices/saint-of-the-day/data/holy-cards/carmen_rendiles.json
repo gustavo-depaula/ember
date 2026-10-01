@@ -1,0 +1,48 @@
+{
+  "id": "carmen_rendiles",
+  "feast": {
+    "month": 5,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Carmen Rendiles",
+    "pt-BR": "Santa Carmen Rendiles"
+  },
+  "patronOf": {
+    "en-US": "Foundress of the Servants of Jesus",
+    "pt-BR": "Fundadora das Servas de Jesus"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I want to be a saint, like St. Paul: it is no longer I who live, but Christ who lives in me.\"",
+    "pt-BR": "\"Quero ser santa, como São Paulo: já não sou eu que vivo, é Cristo que vive em mim.\""
+  },
+  "meta": {
+    "face": "A Caraqueña of about sixty with a warm, light-olive complexion and a LONG face with HIGH, prominent cheekbones — dark hair PARTED in the middle and drawn smoothly back under the white veil, a LONG, straight nose with a slight rise at the bridge, dark, bright almond eyes under dark, ARCHED brows, cheeks that fold into long smile creases, a WIDE mouth with a broad, warm, closed-lipped smile, a softly pointed chin; the gaze toward us, affectionate and bright.",
+    "basis": "Her photographs as superior and in later life (the Dicastery's portrait; the congregation's portrait on madrecarmendevenezuela.com): a long face with high cheekbones, centre-parted dark hair under a white veil, a long straight nose, arched brows and a wide, warm smile, in a grey-blue habit with a wide white collar. Wikipedia and Vatican News record that she was born without her left arm; the card shows only her right hand, without drawing attention to it.",
+    "excerpt": "Her often-repeated words «quiero ser santa, como San Pablo: no vivo más yo, sino que es Cristo que vive en mí», as quoted by Cardinal Amato (Vatican News, June 2018; Italian in the Dicastery's page); a short quotation, our rendering (she died in 1977)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Carmen Rendiles Martínez (biography and photograph)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/carmen-rendiles-martinez.html"
+      },
+      {
+        "title": "Madre Carmen de Venezuela, Biografía (the congregation's portrait)",
+        "url": "https://www.madrecarmendevenezuela.com/biografia"
+      },
+      {
+        "title": "Vatican News, Madre Carmen Rendiles: una vida al servicio de la Iglesia (June 2018)",
+        "url": "https://www.vaticannews.va/es/iglesia/news/2018-06/beatificacion-sierva-de-dios-venezuela-madre.html"
+      },
+      {
+        "title": "Wikipedia, Carmen Elena Rendiles Martínez",
+        "url": "https://en.wikipedia.org/wiki/Carmen_Elena_Rendiles_Martínez"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

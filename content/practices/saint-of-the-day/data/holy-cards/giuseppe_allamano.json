@@ -1,0 +1,44 @@
+{
+  "id": "giuseppe_allamano",
+  "feast": {
+    "month": 2,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Giuseppe Allamano",
+    "pt-BR": "São José Allamano"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Consolata Missionaries",
+    "pt-BR": "Fundador dos Missionários da Consolata"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"First saints, then missionaries.\"",
+    "pt-BR": "\"Primeiro santos, depois missionários.\""
+  },
+  "meta": {
+    "face": "A Piedmontese priest of about seventy, clean-shaven, with a fair complexion and a LONG, LEAN face under a HIGH forehead — short, thick WHITE hair brushed back under the skullcap, deep-set, lively eyes CRINKLED with laughter lines under strong, straight brows, a LONG, straight, PROMINENT nose, deep creases running from the nose to the corners of the mouth, a WIDE, warm, closed smile, large, prominent ears and a firm chin; the head turned in three-quarter view, the gaze bright and kindly.",
+    "basis": "His photographs (Wikimedia Commons, from the Consolata's gallery; the Dicastery's portrait): a lean, long face with short white hair and a black skullcap, a long, prominent nose, deep-set, crinkled eyes, deep smile creases, a wide smile and prominent ears. The Consolata icon and shrine are the ones he served as rector from 1880.",
+    "excerpt": "His motto «Prima santi, poi missionari», as the Consolata Missionaries give it, with his words «Prima dobbiamo santificare noi… e fatti santi in poco tempo potremo compiere la nostra missione fra le genti» (consolata.org); our rendering (he died in 1926)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Giuseppe Allamano.jpg (photograph, before 1926)",
+        "url": "https://commons.wikimedia.org/wiki/File:Giuseppe_Allamano.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Giuseppe Allamano (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/giuseppe-allamano.html"
+      },
+      {
+        "title": "Consolata Missionaries, Prima santi, poi missionari",
+        "url": "https://www.consolata.org/index.php?option=com_k2&view=item&id=11397:prima-santi-poi-missionari&Itemid=715&lang=it"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}
