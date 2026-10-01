@@ -1,0 +1,44 @@
+{
+  "id": "september_ember_days",
+  "name": {
+    "en-US": "September Ember Days",
+    "pt-BR": "Têmporas de Setembro"
+  },
+  "patronOf": {
+    "en-US": "Fasting and thanksgiving for the harvest",
+    "pt-BR": "Jejum e ação de graças pela colheita"
+  },
+  "prayerExcerpt": {
+    "en-US": "Be not sad, for the joy of the Lord is our strength.",
+    "pt-BR": "Não vos contristeis; porque a alegria do Senhor é a nossa fortaleza."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Ember Days thank God 'for the fruits already given' (Catechism of St. Pius X, part III, ch. IV, q. 23); the September days fall at the harvest and are kept in violet (Divinum Officium's liturgical_color; the Portuguese missal's note 'Paramentos roxos'). The Communion of Ember Wednesday (Nehemiah 8:10) is the harvest feast's 'joy of the Lord'.",
+    "excerpt": "content/do/web/www/missa/English/Tempora/093-3.txt and Portugues/Tempora/093-3.txt [Communio], Ember Wednesday of September (last clause; en-US first letter capitalised; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Tempora/093-3 (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/093-3.txt"
+      },
+      {
+        "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+      },
+      {
+        "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+        "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+      },
+      {
+        "title": "Wikipedia, Ember days",
+        "url": "https://en.wikipedia.org/wiki/Ember_days"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

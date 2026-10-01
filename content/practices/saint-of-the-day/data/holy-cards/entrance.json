@@ -1,0 +1,36 @@
+{
+  "id": "entrance",
+  "name": {
+    "en-US": "Entrance and Sign of the Cross",
+    "pt-BR": "Entrada e Sinal da Cruz"
+  },
+  "patronOf": {
+    "en-US": "The Introductory Rites begin",
+    "pt-BR": "Começam os Ritos Iniciais"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the name of the Father, and of the Son, and of the Holy Spirit.",
+    "pt-BR": "Em nome do Pai e do Filho e do Espírito Santo."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The entrance procession in the order GIRM 120 gives it (thurifer; the cross between two lighted candles; other ministers; a reader with the Book of the Gospels, 'slightly elevated'; the priest last) while all stand for the Entrance Chant. The Sign of the Cross that follows at the chair (GIRM 124) is the card's excerpt, from the repo's Order of Mass.",
+    "excerpt": "content/of/order/order-of-mass.json order.sign-of-the-cross (verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 120–124 (the entrance procession, the reverence to the altar, the Sign of the Cross at the chair)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Sign of the Cross (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

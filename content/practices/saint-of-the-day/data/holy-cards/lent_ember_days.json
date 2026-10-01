@@ -1,0 +1,40 @@
+{
+  "id": "lent_ember_days",
+  "name": {
+    "en-US": "Lenten Ember Days",
+    "pt-BR": "Têmporas da Quaresma"
+  },
+  "patronOf": {
+    "en-US": "Fasting and prayer in the first week of Lent",
+    "pt-BR": "Jejum e oração na primeira semana da Quaresma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Remember that Your compassion, O Lord, and Your kindness are from of old.",
+    "pt-BR": "Lembrai-Vos, Senhor, de que a vossa bondade e misericórdia são eternas!"
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Ember Days' prayer 'for the preservation of the fruits of the earth' (Catechism of St. Pius X, part III, ch. IV, q. 23) at spring sowing, kept with Mass in violet (Divinum Officium's liturgical_color: 'Quadragesimæ'). The Universal Norms (nos. 45–47) keep the same intention for the Ember Days in the new calendar, with a Mass for Various Needs such as 'At Seedtime'.",
+    "excerpt": "content/do/web/www/missa/English/Tempora/Quad1-3.txt and Portugues/Tempora/Quad1-3.txt [Introitus], Ember Wednesday of Lent (first clause; en-US semicolon made a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Tempora/Quad1-3 (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Quad1-3.txt"
+      },
+      {
+        "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+      },
+      {
+        "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+        "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

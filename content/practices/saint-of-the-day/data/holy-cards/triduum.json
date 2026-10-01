@@ -1,0 +1,41 @@
+{
+  "id": "triduum",
+  "name": {
+    "en-US": "The Sacred Paschal Triduum",
+    "pt-BR": "O Sagrado Tríduo Pascal"
+  },
+  "patronOf": {
+    "en-US": "From the Lord's Supper to the Easter Vigil",
+    "pt-BR": "Da Ceia do Senhor à Vigília Pascal"
+  },
+  "prayerExcerpt": {
+    "en-US": "We should glory in the Cross of our Lord Jesus Christ, in whom is our salvation, life and resurrection.",
+    "pt-BR": "Nós, porém, devemos gloriar-nos na cruz de nosso Senhor Jesus Cristo; nele está a salvação, nossa vida e ressurreição."
+  },
+  "proper": "tempore.holy-week.lords-supper",
+  "meta": {
+    "face": "-",
+    "basis": "The end of the Mass of the Lord's Supper as its rubrics in the repo give it (lords-supper.json nos. 38–43): the Blessed Sacrament carried to a place of repose 'suitably decorated' and shut in its tabernacle, the altar stripped, crosses removed or veiled, and the faithful invited to continue adoration during the night. White, the colour of the Lord's Supper that opens the Triduum; the Good Friday veil is violet (good-friday.json no. 15).",
+    "excerpt": "content/of/formularies/tempore/holy-week/lords-supper.json entranceAntiphon (first two clauses, full stop added; pt-BR first two lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "The Roman Missal, Thursday of the Lord's Supper, nos. 37–43 (content/of/formularies/tempore/holy-week/lords-supper.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/lords-supper.json"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "Wikipedia, Altar of Repose",
+        "url": "https://en.wikipedia.org/wiki/Altar_of_Repose"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

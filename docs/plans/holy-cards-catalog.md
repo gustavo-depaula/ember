@@ -18,11 +18,11 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Our Lady | 21 | 6 |
 | Angels | 4 | 4 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
-| Seasons (including the 4 Ember Days) | 19 | 10 |
-| Parts of the Mass | 29 | 0 |
+| Seasons (including the 4 Ember Days) | 19 | 19 |
+| Parts of the Mass | 29 | 1 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 615 cards, 402 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 412 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -617,20 +617,20 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 - [x] Christmas — Sunday — `christmas_sunday` · [x] Christmas — weekday — `christmas_weekday`
 - [x] Ordinary Time I — Sunday — `ordinary_time_1_sunday` · [x] Ordinary Time I — weekday — `ordinary_time_1_weekday`
 - [x] Lent — Sunday — `lent_sunday` · [x] Lent — weekday — `lent_weekday` · [x] Laetare (rose) — `laetare`
-- [ ] The Sacred Paschal Triduum
-- [ ] Easter — Sunday · [ ] Easter — weekday
-- [ ] Ordinary Time II — Sunday · [ ] Ordinary Time II — weekday
+- [x] The Sacred Paschal Triduum — `triduum`
+- [x] Easter — Sunday — `easter_sunday` · [x] Easter — weekday — `easter_weekday`
+- [x] Ordinary Time II — Sunday — `ordinary_time_2_sunday` · [x] Ordinary Time II — weekday — `ordinary_time_2_weekday`
 
 **Ember Days** (*Têmporas*) — the Wednesday, Friday and Saturday of four weeks, one card each. Dates from the Divinum Officium missal (`missa/Latin/Tempora`): Advent `Adv3-3/5/6` (week of the Third Sunday of Advent), Lent `Quad1-3/5/6` (week of the First Sunday of Lent), Pentecost `Pasc7-3/5/6` (Pentecost week), September `093-3/5/6`. How the card is received is still open ([holy-cards.md](holy-cards.md)).
 
-- [ ] Advent Ember Days · *Têmporas do Advento*
-- [ ] Lenten Ember Days · *Têmporas da Quaresma*
-- [ ] Pentecost Ember Days · *Têmporas de Pentecostes*
-- [ ] September Ember Days · *Têmporas de Setembro*
+- [x] Advent Ember Days · *Têmporas do Advento* — `advent_ember_days`
+- [x] Lenten Ember Days · *Têmporas da Quaresma* — `lent_ember_days`
+- [x] Pentecost Ember Days · *Têmporas de Pentecostes* — `pentecost_ember_days`
+- [x] September Ember Days · *Têmporas de Setembro* — `september_ember_days`
 
 ## Parts of the Mass
 
-**Introductory Rites** — [ ] Entrance and Sign of the Cross · [ ] Greeting · [ ] Penitential Act · [ ] Kyrie · [ ] Gloria · [ ] Collect
+**Introductory Rites** — [x] Entrance and Sign of the Cross — `entrance` · [ ] Greeting · [ ] Penitential Act · [ ] Kyrie · [ ] Gloria · [ ] Collect
 **Liturgy of the Word** — [ ] First Reading · [ ] Responsorial Psalm · [ ] Second Reading · [ ] Gospel Acclamation · [ ] Gospel · [ ] Homily · [ ] Profession of Faith · [ ] Universal Prayer
 **Liturgy of the Eucharist** — [ ] Preparation of the Gifts · [ ] Prayer over the Offerings · [ ] Preface Dialogue and Preface · [ ] Sanctus · [ ] Epiclesis · [ ] Consecration · [ ] Mystery of Faith · [ ] Doxology and Great Amen
 **Communion Rite** — [ ] The Lord's Prayer · [ ] Sign of Peace · [ ] Agnus Dei and the Fraction · [ ] Communion · [ ] Prayer after Communion

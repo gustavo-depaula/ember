@@ -1,0 +1,41 @@
+{
+  "id": "easter_weekday",
+  "name": {
+    "en-US": "Easter Weekdays",
+    "pt-BR": "Dias de semana do Tempo Pascal"
+  },
+  "patronOf": {
+    "en-US": "Daily Mass in the light of the Resurrection",
+    "pt-BR": "A Missa diária à luz da Ressurreição"
+  },
+  "prayerExcerpt": {
+    "en-US": "Christ, having risen from the dead, dies now no more; death will no longer have dominion over him, alleluia.",
+    "pt-BR": "Cristo, ressuscitado dos mortos, não morre mais; a morte já não tem poder sobre ele, aleluia."
+  },
+  "proper": "tempore.easter.week-2.monday",
+  "meta": {
+    "face": "-",
+    "basis": "The weekday Mass of Easter Time in white (GIRM 346a), with the flowers the season allows; its spring garden stands for new life, after the entrance antiphon of the chosen formulary ('death will no longer have dominion over him'). The paschal candle is left to the Sunday card: the Missal asks it lit at the season's more solemn celebrations.",
+    "excerpt": "content/of/formularies/tempore/easter/week-2/monday.json entranceAntiphon (whole, verbatim in both languages; pt-BR line break joined)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "The Roman Missal, Easter Vigil, no. 70 (content/of/formularies/tempore/holy-week/easter-vigil.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/easter-vigil.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

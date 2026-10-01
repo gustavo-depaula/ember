@@ -1,0 +1,44 @@
+{
+  "id": "pentecost_ember_days",
+  "name": {
+    "en-US": "Pentecost Ember Days",
+    "pt-BR": "Têmporas de Pentecostes"
+  },
+  "patronOf": {
+    "en-US": "Fasting and prayer in the week of Pentecost",
+    "pt-BR": "Jejum e oração na semana de Pentecostes"
+  },
+  "prayerExcerpt": {
+    "en-US": "The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.",
+    "pt-BR": "O amor de Deus espalhou-se nos nossos corações, aleluia: pelo seu Espírito que habita em nós, aleluia, aleluia."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Pentecost Ember Days fall within the octave of Pentecost and are kept in red in the traditional missal (Divinum Officium's liturgical_color: 'Quattuor Temporum Pentecostes'; the Portuguese missal's note 'Paramentos vermelhos'). Summer fields for the fruits of the earth; the young man in a cassock for the ordinations held on Ember Saturdays (Catechism of St. Pius X, part III, ch. IV, q. 23).",
+    "excerpt": "content/do/web/www/missa/English/Tempora/Pasc7-6.txt and Portugues/Tempora/Pasc7-6.txt [Introitus], Ember Saturday of Pentecost (the antiphon whole, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Tempora/Pasc7-6 (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Pasc7-6.txt"
+      },
+      {
+        "title": "Divinum Officium, liturgical_color() (Quattuor Temporum violet; Quattuor Temporum Pentecostes red)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/cgi-bin/DivinumOfficium/Main.pm"
+      },
+      {
+        "title": "Universal Norms on the Liturgical Year and the Calendar (1969), nos. 45–47 (Rogation and Ember Days; their Mass taken from the Masses for Various Needs)",
+        "url": "https://www.liturgyoffice.org.uk/Calendar/Info/GNLY.pdf"
+      },
+      {
+        "title": "Wikipedia, Ember days",
+        "url": "https://en.wikipedia.org/wiki/Ember_days"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

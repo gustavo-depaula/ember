@@ -1,0 +1,41 @@
+{
+  "id": "ordinary_time_2_sunday",
+  "name": {
+    "en-US": "Ordinary Time II Sundays",
+    "pt-BR": "Domingos do Tempo Comum II"
+  },
+  "patronOf": {
+    "en-US": "The Sundays between Pentecost and Advent",
+    "pt-BR": "Os domingos entre Pentecostes e o Advento"
+  },
+  "prayerExcerpt": {
+    "en-US": "God is in his holy place, God who unites those who dwell in his house; he himself gives might and strength to his people.",
+    "pt-BR": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo."
+  },
+  "proper": "tempore.ordinary-time.week-17.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "Green for Ordinary Time (GIRM 346c) and moderate flowers around the altar (GIRM 305): the full parish at Sunday Mass in summer, where the Ordinary Time I card shows the parish arriving in spring. The Seventeenth Sunday is chosen as the formulary because it always falls after Pentecost and after Trinity Sunday and Corpus Christi (between 24 and 30 July); its antiphon speaks of God gathering his people in his house.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-17/sunday.json entranceAntiphon (whole, verbatim in both languages; line breaks joined)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "Wikipedia, Ordinary Time",
+        "url": "https://en.wikipedia.org/wiki/Ordinary_Time"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}
