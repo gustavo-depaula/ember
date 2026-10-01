@@ -6,7 +6,7 @@ import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, wallClockNow } from '@/lib/mass-times'
 import { daysAway, formatDistanceKm, formatTimeOfDay, shortDayLabel } from '../format'
 import { ChurchRow } from './ChurchRow'
-import { clockFigures, SmallCaps } from './SheetType'
+import { clockFigures, SmallCaps, timeColumnWidth } from './SheetType'
 
 // One church in the nearby list, timetable-style: its next service (Mass, or the filtered kind) leads
 // as a time column so the list scans by "when" before "where". Today's times stand in full ink with
@@ -35,7 +35,7 @@ export function ChurchListItem({
         church.distanceKm === undefined ? undefined : formatDistanceKm(church.distanceKm, locale)
       }
       leading={
-        <YStack width={64} gap={2}>
+        <YStack width={timeColumnWidth} gap={2}>
           <Typography
             variant="sacred-title"
             textAlign="left"

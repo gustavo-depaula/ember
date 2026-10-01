@@ -1697,6 +1697,7 @@ export default {
     attendanceCount_other: 'Checked in {{count}} times',
     lastAttended: 'last on {{date}}',
     massLog: 'Your check-ins',
+    removeCheckIn: 'Remove check-in',
     logEmpty: 'No check-ins yet.',
     logEmptyHint: 'Check in at a church to start your log.',
     mapWeb: 'The map is available in the Ember app.',

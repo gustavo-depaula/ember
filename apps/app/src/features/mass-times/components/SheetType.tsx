@@ -70,5 +70,9 @@ export function Hairline({ flex }: { flex?: number }) {
   )
 }
 
+// The time column leading the nearby list and the check-in log, wide enough for its day label in
+// tracked caps ("TOMORROW" is the longest).
+export const timeColumnWidth = 76
+
 // Clock times set in the title face with lining, tabular figures so a column of them aligns.
 export const clockFigures = ['lining-nums', 'tabular-nums'] as const

@@ -203,31 +203,23 @@ function LogPane({
   const { t } = useTranslation()
   return (
     <View style={styles.fill}>
-      <SheetPaneHeader onBack={onBack} label={t('massTimes.massLog')} />
+      <SheetPaneHeader onBack={onBack} />
       <View style={{ flex: 1, paddingHorizontal: 20, paddingTop: 16 }}>
+        <SectionLabel rule>{t('massTimes.massLog')}</SectionLabel>
         <MassLog onSelectChurch={onSelectChurch} />
       </View>
     </View>
   )
 }
 
-// Shared sub-view header: a back-to-browse button + an optional section label, set well clear of the
+// Shared sub-view header: a back-to-browse button, set well clear of the
 // grabber — a control pressed against it reads as cramped. `ruled` draws its bottom edge once content
 // scrolls beneath it, so text sliced at that edge reads as passing under the header, not as clipped.
-function SheetPaneHeader({
-  onBack,
-  label,
-  ruled,
-}: {
-  onBack: () => void
-  label?: string
-  ruled?: boolean
-}) {
+function SheetPaneHeader({ onBack, ruled }: { onBack: () => void; ruled?: boolean }) {
   return (
     <YStack>
-      <XStack paddingHorizontal={12} paddingTop={12} alignItems="center" gap="$sm">
+      <XStack paddingHorizontal={12} paddingTop={12}>
         <SheetBackButton onPress={onBack} />
-        {label ? <SectionLabel>{label}</SectionLabel> : null}
       </XStack>
       <YStack opacity={ruled ? 1 : 0}>
         <Hairline />
