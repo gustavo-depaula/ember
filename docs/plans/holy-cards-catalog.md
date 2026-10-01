@@ -15,13 +15,13 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of the Pictorial Lives (Saint of the Day) | 245 | 0 |
 | Feasts of the Lord and the Church | 23 | 5 |
 | Our Lady | 18 | 6 |
-| Angels | 3 | 3 |
+| Angels | 4 | 3 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 0 |
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 606 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 607 cards, 185 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -586,6 +586,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 
 - [x] 29 Sep · Ss Michael, Gabriel and Raphael, Archangels · *Santos Miguel, Gabriel e Rafael, Arcanjos* · feast — `michael_archangel, gabriel_archangel`
 - [x] 2 Oct · The Guardian Angels · *Santos Anjos da Guarda* · memorial — `guardian_angels`
+- [ ] 24 Oct · St. Raphael the Archangel · *São Rafael Arcanjo* · traditional calendar (Divinum Officium) — the third archangel of 29 Sep, which has cards for Michael and Gabriel only
 
 ## Mysteries of the Rosary
 

@@ -48,8 +48,8 @@ export type Catalog = {
   gaudete?: CardId
   laetare?: CardId
   emberDays: Partial<Record<EmberSeason, CardId>>
-  /** Novena practice id → the card it is prayed to. */
-  novenas: Record<string, CardId>
+  /** Novena practice id → the card it is prayed to; several to pick from for a novena to several saints. */
+  novenas: Record<string, CardId[]>
   /** Book id → its saint. */
   books: Record<string, CardId>
   /** Practice id → the saints behind it, in order. */

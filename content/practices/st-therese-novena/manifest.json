@@ -14,6 +14,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "therese",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",

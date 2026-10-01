@@ -9,6 +9,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "josemaria_escriva",
   "program": {
     "totalDays": 9,
     "progressPolicy": "wait",

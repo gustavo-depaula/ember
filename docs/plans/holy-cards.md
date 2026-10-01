@@ -66,7 +66,11 @@ Every saint in the catalog who isn't on the current Roman calendar — the Picto
 
 ### Novenas
 
-Finishing a novena (all nine days of its program) gives the card it is prayed to: the Guadalupe novena gives Our Lady of Guadalupe, the St. Joseph novena gives Joseph, the Holy Spirit novena gives Pentecost. Each novena's `manifest.json` names its card. Generic novenas ("any saint", "any Marian feast") give no card. One novena, one card.
+Finishing a novena gives the card it is prayed to: the Guadalupe novena gives Our Lady of Guadalupe, the St. Joseph novena gives Joseph, the Holy Spirit novena gives Pentecost. Each novena's `manifest.json` names its card (`holyCard`). Generic novenas ("any saint", "any Marian feast") give no card. One novena, one card.
+
+- **Finished** = its days kept, with **one missed day forgiven for every nine**, rounded down: 8 of a novena's 9, all 3 of a triduum, 30 of 33, 48 of 54. A day prayed late (within the week after the novena's last day) counts for its own date.
+- A program that restarts on a miss (First Fridays) needs every day; one that waits for its prayers never misses, so it needs them all.
+- The card comes once the novena can't change: every day kept, or its last day gone by with enough kept. It is dated that last day.
 
 ### Seasons
 
@@ -166,7 +170,3 @@ A fixed, curated catalog; every collectible gets bespoke art (no text-only cards
 ## Data shape
 
 Acts are already stored (practice completions, plan-of-life ticks, book progress). **Pending cards are derived** from the acts plus the calendar, as a pure function: the date's saints (outranked memorials included), assigned Office days, the liturgical-card draw, season windows, faithfulness windows, redeeming windows. That derivation is `@ember/holy-cards` (`packages/holy-cards`), and it is the logic that earns tests. **Redeemed copies are stored** — card, door, date, the back's condition line, the optional intention — with a stable id from the act (card + door + date), so a note or a future gift can point at it.
-
-## Open
-
-- When a novena counts as finished: nine days in a row, or nine days in any order. Probably per program.

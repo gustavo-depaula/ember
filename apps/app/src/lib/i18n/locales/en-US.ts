@@ -753,6 +753,7 @@ export default {
         mass: 'Received at Mass · {{date}}',
         office: 'Received at the Divine Office · {{date}}',
         starter: 'A first holy card · {{date}}',
+        novena: 'A novena prayed · {{date}}',
         other: 'Received · {{date}}',
       },
       openBy: {

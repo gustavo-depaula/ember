@@ -17,6 +17,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "teresa",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",

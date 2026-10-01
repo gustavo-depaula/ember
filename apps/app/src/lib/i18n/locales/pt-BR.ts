@@ -759,6 +759,7 @@ export default {
         mass: 'Recebido na Missa · {{date}}',
         office: 'Recebido no Ofício Divino · {{date}}',
         starter: 'Um primeiro santinho · {{date}}',
+        novena: 'Uma novena rezada · {{date}}',
         other: 'Recebido · {{date}}',
       },
       openBy: {

@@ -347,3 +347,46 @@ export function isUnderWay(args: {
   const last = [dates.at(-1), completionDatesAsc.at(-1)].filter(Boolean).sort().at(-1)
   return !last || differenceInCalendarDays(today, parseISO(last)) <= settledAfterDays
 }
+
+/**
+ * The date a program was finished — kept well enough to give its holy card —
+ * or undefined if it wasn't, or can still change. One missed day is forgiven
+ * for every nine (8 of a novena's 9, none of a triduum's 3), and only once the
+ * last day has gone by, so the card waits until the novena is settled. A
+ * program that restarts on a miss needs every day; one that waits never
+ * misses, so it finishes on its last prayer. A day prayed late counts.
+ */
+export function programFinishedOn(args: {
+  program: ProgramConfig
+  schedule: Schedule
+  cursor: { started_at: string } | null
+  completionDatesAsc: string[]
+  today: Date
+}): string | undefined {
+  const { program, schedule, cursor, completionDatesAsc, today } = args
+  if (!cursor) return undefined
+  const todayStr = format(today, 'yyyy-MM-dd')
+  const total = program.totalDays
+
+  if (program.progressPolicy === 'wait') {
+    const prayed = [...new Set(completionDatesAsc)].filter(
+      (d) => d >= cursor.started_at && d <= todayStr,
+    )
+    return prayed.length >= total ? prayed[total - 1] : undefined
+  }
+
+  const dates = programDayDates({
+    program,
+    schedule,
+    startedAt: cursor.started_at,
+    completionDatesAsc,
+    today,
+  })
+  const last = dates.at(-1)
+  if (!last || dates.some((d) => d === undefined)) return undefined
+  const prayed = new Set(completionDatesAsc)
+  const kept = dates.filter((d) => d && d <= todayStr && prayed.has(d)).length
+  if (kept === total) return last
+  const forgiven = program.progressPolicy === 'restart' ? 0 : Math.floor(total / 9)
+  return last < todayStr && kept >= total - forgiven ? last : undefined
+}

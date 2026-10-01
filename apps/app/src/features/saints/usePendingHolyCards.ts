@@ -9,6 +9,7 @@ import {
 import { useMutation, useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
 import { useMemo } from 'react'
+import { useShallow } from 'zustand/react/shallow'
 
 import { useEventStore } from '@/db/events'
 import { getPreference, recordHolyCardCopy, setPreference } from '@/db/repositories'
@@ -17,7 +18,7 @@ import { getToday, useToday } from '@/hooks/useToday'
 import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { liturgicalActs } from './acts'
+import { liturgicalActs, novenaActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
@@ -31,16 +32,23 @@ async function holyCardsSince(): Promise<string> {
   return today
 }
 
-function catalogOf(cards: HolyCard[], starters: string[]): Catalog {
+function catalogOf(
+  cards: HolyCard[],
+  starters: string[],
+  novenas: Record<string, string[]>,
+): Catalog {
   const drawn = new Set(cards.map((c) => c.id))
   return {
     saints: cards.map((c) => ({ id: c.id, celebration: c.proper, day: c.feast })),
-    // Liturgical, season, Ember Days, novena, book and lineage cards aren't
-    // drawn yet; their doors give nothing until they are.
+    // Liturgical, season, Ember Days, book and lineage cards aren't drawn yet;
+    // their doors give nothing until they are.
     liturgical: [],
     seasons: {},
     emberDays: {},
-    novenas: {},
+    // Only the cards drawn so far; a novena naming none of them gives nothing.
+    novenas: Object.fromEntries(
+      Object.entries(novenas).map(([novena, cards]) => [novena, cards.filter((c) => drawn.has(c))]),
+    ),
     books: {},
     lineages: {},
     starters: starters.filter((id) => drawn.has(id)),
@@ -52,7 +60,8 @@ function catalogOf(cards: HolyCard[], starters: string[]): Catalog {
  * deadline first. Undefined while the calendar and the cards load.
  */
 export function usePendingHolyCards(): Grant[] | undefined {
-  const today = format(useToday(), 'yyyy-MM-dd')
+  const day = useToday()
+  const today = format(day, 'yyyy-MM-dd')
   const scope = scopeForContentLang(usePreferencesStore((s) => s.contentLanguage))
   const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
@@ -68,12 +77,25 @@ export function usePendingHolyCards(): Grant[] | undefined {
   const start = useMemo(() => historyStart(today), [today])
   const completions = useCompletionRange(start, today)
   const copies = useEventStore((s) => s.holyCards)
+  const plan = useEventStore(
+    useShallow((s) => ({
+      slots: s.slots,
+      cursors: s.cursors,
+      completions: s.completions,
+      completionsByPractice: s.completionsByPractice,
+    })),
+  )
 
   // Memoized apart so a completion or a redeem re-runs only the step it changes.
-  const acts = useMemo(() => liturgicalActs(completions), [completions])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
+  const novenas = useMemo(() => novenaActs(plan, day), [plan, today])
+  const acts = useMemo(
+    () => [...liturgicalActs(completions), ...novenas.acts],
+    [completions, novenas],
+  )
   const catalog = useMemo(
-    () => holyCards && catalogOf(holyCards.cards, holyCards.starters),
-    [holyCards],
+    () => holyCards && catalogOf(holyCards.cards, holyCards.starters, novenas.cards),
+    [holyCards, novenas],
   )
 
   return useMemo(() => {

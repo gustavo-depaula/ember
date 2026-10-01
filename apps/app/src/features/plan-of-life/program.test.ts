@@ -7,6 +7,7 @@ import {
   computeShouldRestart,
   isUnderWay,
   programDayDates,
+  programFinishedOn,
   projectProgramAtDate,
   resolveCalendarDay,
   selectEnrollmentSchedule,
@@ -676,5 +677,68 @@ describe('programDayDates', () => {
       today: date(2026, 9, 29),
     })
     expect(dates).toEqual([undefined, undefined])
+  })
+})
+
+describe('programFinishedOn', () => {
+  const novena: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+  }
+  const schedule: Schedule = { type: 'fixed-program', totalDays: 9, startDate: '2026-06-01' }
+  const cursor = { started_at: '2026-06-01' }
+  const days = Array.from({ length: 9 }, (_, i) => `2026-06-0${i + 1}`)
+  const finished = (completionDatesAsc: string[], today: Date, program = novena) =>
+    programFinishedOn({ program, schedule, cursor, completionDatesAsc, today })
+
+  it('finishes on its last day once every day is prayed', () => {
+    expect(finished(days, date(2026, 6, 9))).toBe('2026-06-09')
+  })
+
+  it('forgives one missed day in nine, but only once the last day has gone by', () => {
+    const one = days.filter((d) => d !== '2026-06-03')
+    expect(finished(one, date(2026, 6, 9))).toBeUndefined()
+    expect(finished(one, date(2026, 6, 10))).toBe('2026-06-09')
+  })
+
+  it('gives nothing for two missed days', () => {
+    const two = days.filter((d) => d !== '2026-06-03' && d !== '2026-06-07')
+    expect(finished(two, date(2026, 6, 20))).toBeUndefined()
+  })
+
+  it('scales the allowance: one miss for each nine days, so a short program is kept whole', () => {
+    const short = (done: string[]) =>
+      programFinishedOn({
+        program: { ...novena, totalDays: 3 },
+        schedule: { type: 'fixed-program', totalDays: 3, startDate: '2026-06-01' },
+        cursor,
+        completionDatesAsc: done,
+        today: date(2026, 6, 10),
+      })
+    expect(short(['2026-06-01', '2026-06-03'])).toBeUndefined()
+    expect(short(['2026-06-01', '2026-06-02', '2026-06-03'])).toBe('2026-06-03')
+  })
+
+  it('needs every day of a program that restarts on a miss', () => {
+    const restart: ProgramConfig = { ...novena, progressPolicy: 'restart' }
+    const one = days.filter((d) => d !== '2026-06-03')
+    expect(finished(one, date(2026, 6, 20), restart)).toBeUndefined()
+  })
+
+  it('finishes a program that waits on its last prayer', () => {
+    const wait = (done: string[]) =>
+      programFinishedOn({
+        program: { ...novena, progressPolicy: 'wait' },
+        schedule: { type: 'daily' },
+        cursor,
+        completionDatesAsc: done,
+        today: date(2026, 6, 25),
+      })
+    const prayed = ['2026-06-01', '2026-06-04', '2026-06-05', '2026-06-08', '2026-06-09']
+    expect(wait(prayed)).toBeUndefined()
+    expect(wait([...prayed, '2026-06-12', '2026-06-13', '2026-06-15', '2026-06-20'])).toBe(
+      '2026-06-20',
+    )
   })
 })

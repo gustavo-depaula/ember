@@ -17,6 +17,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "catherine_alexandria",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",

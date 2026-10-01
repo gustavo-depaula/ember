@@ -35,7 +35,10 @@ const catalog: Catalog = {
   gaudete: 'gaudete',
   laetare: 'laetare',
   emberDays: { advent: 'ember-advent' },
-  novenas: { 'st-joseph-novena': 'joseph' },
+  novenas: {
+    'st-joseph-novena': ['joseph'],
+    'ss-peter-and-paul-novena': ['peter', 'paul'],
+  },
   books: { 'book/story-of-a-soul': 'therese' },
   lineages: { 'practice/rosary': ['dominic', 'louis_de_montfort'] },
   starters: ['peter', 'paul', 'augustine'],
@@ -197,6 +200,13 @@ describe('Novenas, Ember Days, books', () => {
       input([{ kind: 'novenaFinished', date: '2027-03-18', novena: 'st-joseph-novena' }]),
     )
     expect(g).toMatchObject({ door: 'novena', choice: ['joseph'], deadline: '2027-03-25' })
+  })
+
+  it('lets a novena to several saints give the card of the one picked', () => {
+    const [g] = grants(
+      input([{ kind: 'novenaFinished', date: '2027-06-28', novena: 'ss-peter-and-paul-novena' }]),
+    )
+    expect(g).toMatchObject({ door: 'novena', choice: ['peter', 'paul'] })
   })
 
   it('gives nothing for a novena without a card', () => {

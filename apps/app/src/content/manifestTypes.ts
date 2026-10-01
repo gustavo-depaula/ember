@@ -142,6 +142,10 @@ export type PracticeManifest = {
   liturgicalAct?: LiturgicalAct
   // Saint of the Day: the holy cards a new user picks two starters from.
   holyCardStarters?: string[]
+  // A novena: the holy card it gives once finished (its saint or feast), or the
+  // cards to pick one from for a novena to several (Sts. Peter and Paul). A
+  // generic novena ("any saint") names none.
+  holyCard?: string | string[]
   alternativeTo?: AlternativeToRef
   // Flow template vars (`{{rubrics}}`). Forms of one practice share a flow and
   // differ only here, e.g. which Divinum Officium version the breviary follows.

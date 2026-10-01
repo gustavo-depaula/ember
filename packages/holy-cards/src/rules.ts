@@ -143,10 +143,11 @@ function finishedRule<K extends 'novenaFinished' | 'emberDaysFinished' | 'bookFi
 }
 
 export const novenaRule = finishedRule('novenaFinished', (a, catalog) => {
-  const card = catalog.novenas[a.novena]
-  if (!card) return undefined
+  const cards = catalog.novenas[a.novena]
+  if (!cards?.[0]) return undefined
   return {
-    ...weekGrant(`novena:${a.novena}:${a.date}`, a.date, card),
+    ...weekGrant(`novena:${a.novena}:${a.date}`, a.date, cards[0]),
+    choice: cards,
     door: 'novena',
     novena: a.novena,
   }

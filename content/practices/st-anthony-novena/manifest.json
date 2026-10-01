@@ -15,6 +15,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "anthony_padua",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",

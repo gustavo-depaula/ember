@@ -13,6 +13,7 @@
   "estimatedMinutes": 10,
   "flowMode": "scroll",
   "completion": "flow-end",
+  "holyCard": "aparecida",
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
