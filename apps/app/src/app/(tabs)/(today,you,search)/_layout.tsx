@@ -15,9 +15,9 @@ export const unstable_settings = {
 }
 
 // The native stack hides the tab bar for full-screen routes in step with the
-// push/pop and puts the Search tab's field back in the tab bar afterwards
-// (patches/react-native-screens); toggling NativeTabs' `hidden` from JS lands
-// mid-transition instead, flickering the bar.
+// push/pop and puts the Search tab's field back in the tab bar as the bar
+// returns (patches/react-native-screens); toggling NativeTabs' `hidden` from JS
+// lands mid-transition instead, flickering the bar.
 export default function TabStackLayout() {
   const theme = useTheme()
   return (

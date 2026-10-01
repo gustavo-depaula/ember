@@ -1,5 +1,5 @@
 diff --git a/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt b/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt
-index 4cb201bbd0eb726790e80a64cc9f8183b7010f6e..62470c868110d837099c2f542d70bd508606573e 100644
+index 4cb201bbd0eb726790e80a64cc9f8183b7010f6e..fd0ff49ea63f98fbf467b68b869cc33d96bf69ac 100644
 --- a/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt
 +++ b/android/src/main/java/com/swmansion/rnscreens/ScreenViewManager.kt
 @@ -148,6 +148,12 @@ open class ScreenViewManager :
@@ -31,7 +31,7 @@ diff --git a/ios/RNSScreen.mm b/ios/RNSScreen.mm
 index 9b66012dc8db1e3af0cb5457f8dad86e7f2fe5e3..031c8e0110f14452788e804befee528dd4a22367 100644
 --- a/ios/RNSScreen.mm
 +++ b/ios/RNSScreen.mm
-@@ -1283,6 +1283,8 @@ RNS_IGNORE_SUPER_CALL_END
+@@ -1283,6 +1283,8 @@ - (void)updateProps:(react::Props::Shared const &)props oldProps:(react::Props::
      [self setHomeIndicatorHidden:newScreenProps.homeIndicatorHidden];
    }
  
@@ -41,10 +41,10 @@ index 9b66012dc8db1e3af0cb5457f8dad86e7f2fe5e3..031c8e0110f14452788e804befee528d
    [self setSheetCornerRadius:newScreenProps.sheetCornerRadius];
    [self setSheetExpandsWhenScrolledToEdge:newScreenProps.sheetExpandsWhenScrolledToEdge];
 diff --git a/ios/RNSScreenStack.mm b/ios/RNSScreenStack.mm
-index 192f5d2c77192f323844b0d11ee179081891e7a4..e7804dbfa3472eea5ab22832c005063359e3587b 100644
+index 192f5d2c77192f323844b0d11ee179081891e7a4..8070df6cbb04c8c0c238cecd6fada4f8c7e0bf10 100644
 --- a/ios/RNSScreenStack.mm
 +++ b/ios/RNSScreenStack.mm
-@@ -252,6 +252,83 @@ namespace react = facebook::react;
+@@ -252,6 +252,83 @@ - (void)navigationController:(UINavigationController *)navigationController
    [RNSScreenStackHeaderConfig willShowViewController:viewController
                                              animated:animated
                                            withConfig:screenView.findHeaderConfig];
@@ -99,11 +99,14 @@ index 192f5d2c77192f323844b0d11ee179081891e7a4..e7804dbfa3472eea5ab22832c0050633
 +    if (hidden != wasHidden) {
 +      [tabBarController setTabBarHidden:hidden animated:animated];
 +    }
++    // Re-place the field now, with the bar already marked visible, so it rides
++    // back in with the tab bar. Waiting for the transition to finish leaves it
++    // in the navigation bar for the whole pop and then jumps it down.
++    if (wasHidden && !hidden) {
++      [RNSScreenStackView reattachSearchControllerOf:screenView.controller];
++    }
 +    id<UIViewControllerTransitionCoordinator> coordinator = navigationController.transitionCoordinator;
 +    if (!animated || coordinator == nil) {
-+      if (wasHidden && !hidden) {
-+        [RNSScreenStackView reattachSearchControllerOf:navigationController.topViewController];
-+      }
 +      return;
 +    }
 +    // A cancelled interactive pop leaves the old screen on top; settle on
@@ -118,9 +121,6 @@ index 192f5d2c77192f323844b0d11ee179081891e7a4..e7804dbfa3472eea5ab22832c0050633
 +                                   BOOL topHidden = static_cast<RNSScreenView *>(top.view).hidesBottomBarWhenPushed;
 +                                   if (topHidden != tabBarController.isTabBarHidden) {
 +                                     [tabBarController setTabBarHidden:topHidden animated:YES];
-+                                   }
-+                                   if (wasHidden && !topHidden) {
-+                                     [RNSScreenStackView reattachSearchControllerOf:top];
 +                                   }
 +                                 }];
 +  }
