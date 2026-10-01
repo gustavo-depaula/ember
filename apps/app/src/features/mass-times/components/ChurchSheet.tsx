@@ -3,6 +3,7 @@ import {
   ignoreSafeArea,
   interactiveDismissDisabled,
   type PresentationDetent,
+  presentationBackground,
   presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,
@@ -49,6 +50,9 @@ const DETENTS = [PEEK, HALF, FULL]
 // is the Host's background content (so `presentationBackgroundInteraction` keeps it LIVE behind the
 // sheet), and the native `BottomSheet` rides over it. Tapping a pin or row swaps the sheet to that
 // church's detail in place (and swings the map to it) — never a new page.
+// Nearly opaque paper: the default sheet glass lets the map's colours wash through the text.
+const sheetOpacity = 'F2'
+
 export function ChurchSheet({
   nearby,
   locale,
@@ -64,6 +68,7 @@ export function ChurchSheet({
 }) {
   // One mode at a time: browse/search, a selected church's detail, or the check-in log. A discriminated
   // union (not two booleans) keeps the three exclusive and carries the selected church with the detail.
+  const theme = useTheme()
   const [view, setView] = useState<SheetView>({ kind: 'browse' })
   const [detent, setDetent] = useState<PresentationDetent>(PEEK)
   const [query, setQuery] = useState('')
@@ -108,6 +113,7 @@ export function ChurchSheet({
         <Group
           modifiers={[
             presentationDetents(DETENTS, { selection: detent, onSelectionChange: setDetent }),
+            presentationBackground(`${theme.background?.val ?? '#FFFFFF'}${sheetOpacity}`),
             presentationBackgroundInteraction('enabled'),
             interactiveDismissDisabled(true),
             presentationDragIndicator('visible'),
@@ -473,7 +479,7 @@ function NextMassNearby({
             lineHeight={52}
             fontVariant={[...clockFigures]}
           >
-            {formatTimeOfDay(soonest.startTime, locale)}
+            {formatTimeOfDay(soonest.startTime)}
           </Typography>
           <YStack flex={1}>
             <Typography variant="interface" fontSize="$3" numberOfLines={2}>

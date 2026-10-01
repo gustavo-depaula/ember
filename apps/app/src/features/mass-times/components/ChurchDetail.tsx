@@ -83,7 +83,7 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
               lineHeight={28}
               fontVariant={[...clockFigures]}
             >
-              {formatTimeOfDay(next.occurrence.startTime, locale)}
+              {formatTimeOfDay(next.occurrence.startTime)}
             </Typography>
             <Typography variant="annotation" fontSize="$2" flexShrink={1}>
               {t('massTimes.nextMass')} ·{' '}
@@ -189,7 +189,7 @@ function WeeklySection({
                       color={isToday ? '$color' : '$colorSecondary'}
                       opacity={isToday && clock(time) < nowClock ? 0.4 : 1}
                     >
-                      {formatTimeOfDay(time, locale)}
+                      {formatTimeOfDay(time)}
                     </Typography>
                   ))}
                 </XStack>
@@ -210,7 +210,7 @@ function WeeklySection({
                   {describeOtherRule(rule, t, locale)}
                 </Typography>
                 <Typography variant="caption" fontSize="$2" fontVariant={[...clockFigures]}>
-                  {formatTimeOfDay(rule.startTime, locale)}
+                  {formatTimeOfDay(rule.startTime)}
                 </Typography>
               </XStack>
             ))}

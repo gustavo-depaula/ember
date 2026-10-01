@@ -17,10 +17,11 @@ export function formatDistanceKm(km: number, locale: string): string {
   return `${new Intl.NumberFormat(locale).format(Number(value))} km`
 }
 
-export function formatTimeOfDay(startTime: string, locale: string): string {
+// Always the 24-hour clock, as parish bulletins print it: "16:00", never "4:00 PM" — a 12-hour time
+// doubles the width of the list's time column and of the next-Mass headline.
+export function formatTimeOfDay(startTime: string): string {
   const [h, m] = startTime.split(':').map(Number)
-  const d = new Date(Date.UTC(2000, 0, 1, h || 0, m || 0))
-  return d.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' })
+  return `${String(h || 0).padStart(2, '0')}:${String(m || 0).padStart(2, '0')}`
 }
 
 // Relative day word for an occurrence: Today / Tomorrow / weekday / dated. `now` is the church's

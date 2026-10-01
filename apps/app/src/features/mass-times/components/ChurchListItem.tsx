@@ -35,7 +35,7 @@ export function ChurchListItem({
         church.distanceKm === undefined ? undefined : formatDistanceKm(church.distanceKm, locale)
       }
       leading={
-        <YStack width={timeColumnWidth(locale)} gap={2}>
+        <YStack width={64} gap={2}>
           <Typography
             variant="sacred-title"
             textAlign="left"
@@ -44,7 +44,7 @@ export function ChurchListItem({
             fontVariant={[...clockFigures]}
             color={isToday ? '$color' : '$colorSecondary'}
           >
-            {upcoming ? formatTimeOfDay(upcoming.occurrence.startTime, locale) : '—'}
+            {upcoming ? formatTimeOfDay(upcoming.occurrence.startTime) : '—'}
           </Typography>
           {upcoming ? (
             <SmallCaps fontSize={10} color={isToday ? '$colorBurgundy' : '$colorSecondary'}>
@@ -67,9 +67,4 @@ export function ChurchListItem({
       ) : null}
     </ChurchRow>
   )
-}
-
-// Wide enough for the locale's clock: "18:30" in a 24-hour locale, "06:30 PM" in a 12-hour one.
-function timeColumnWidth(locale: string): number {
-  return formatTimeOfDay('18:30', locale).length > 5 ? 96 : 64
 }
