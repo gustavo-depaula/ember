@@ -1,5 +1,7 @@
 {
   "id": "greeting",
+  "kind": "mass",
+  "order": 2,
   "name": {
     "en-US": "Greeting",
     "pt-BR": "Saudação"

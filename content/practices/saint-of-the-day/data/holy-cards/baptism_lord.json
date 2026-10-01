@@ -1,5 +1,7 @@
 {
   "id": "baptism_lord",
+  "kind": "moveable",
+  "order": 2,
   "name": {
     "en-US": "The Baptism of the Lord",
     "pt-BR": "O Batismo do Senhor"

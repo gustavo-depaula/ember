@@ -1,5 +1,7 @@
 {
   "id": "ascension",
+  "kind": "moveable",
+  "order": 5,
   "name": {
     "en-US": "The Ascension of the Lord",
     "pt-BR": "A Ascensão do Senhor"

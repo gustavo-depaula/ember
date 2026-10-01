@@ -77,25 +77,26 @@ function buildSections(
       }))
   }
 
-  // calendar — by month, in liturgical-year order (the catalog is already sorted)
+  // calendar — by month, then the cards with no fixed date, one section per kind
+  // (the catalog is already sorted, so the sections come out in order)
   const monthFmt = new Intl.DateTimeFormat(lang, { month: 'long' })
-  const buckets = new Map<number, SaintEntry[]>()
+  const buckets = new Map<string, { title: string; items: SaintEntry[] }>()
   for (const s of saints) {
-    const month = s.feast?.month ?? 13
-    const arr = buckets.get(month) ?? []
-    arr.push(s)
-    buckets.set(month, arr)
+    const key = s.feast ? `month-${s.feast.month}` : `kind-${s.kind ?? 'devotion'}`
+    const bucket = buckets.get(key) ?? {
+      title: s.feast
+        ? titleCase(monthFmt.format(new Date(2001, s.feast.month - 1, 1)))
+        : t(`saints.group.kind.${s.kind ?? 'devotion'}`),
+      items: [],
+    }
+    bucket.items.push(s)
+    buckets.set(key, bucket)
   }
-  return [...buckets.entries()]
-    .sort((a, b) => a[0] - b[0])
-    .map(([month, items]) => ({
-      key: `month-${month}`,
-      title:
-        month === 13
-          ? t('saints.group.undated')
-          : titleCase(monthFmt.format(new Date(2001, month - 1, 1))),
-      data: toRows(items),
-    }))
+  return [...buckets.entries()].map(([key, { title, items }]) => ({
+    key,
+    title,
+    data: toRows(items),
+  }))
 }
 
 // The grouped gallery, rendered inline so it lives inside the screen's own

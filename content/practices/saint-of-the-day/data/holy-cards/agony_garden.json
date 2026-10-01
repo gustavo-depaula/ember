@@ -1,5 +1,7 @@
 {
   "id": "agony_garden",
+  "kind": "rosary",
+  "order": 5,
   "name": {
     "en-US": "The Agony in the Garden",
     "pt-BR": "A Agonia no Horto"

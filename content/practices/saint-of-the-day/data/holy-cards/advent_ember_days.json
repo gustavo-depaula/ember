@@ -1,5 +1,7 @@
 {
   "id": "advent_ember_days",
+  "kind": "season",
+  "order": 16,
   "name": {
     "en-US": "Advent Ember Days",
     "pt-BR": "Têmporas do Advento"

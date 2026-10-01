@@ -1,5 +1,7 @@
 {
   "id": "easter",
+  "kind": "moveable",
+  "order": 3,
   "name": {
     "en-US": "Easter Sunday",
     "pt-BR": "Domingo de Páscoa"

@@ -1,5 +1,7 @@
 {
   "id": "entrance",
+  "kind": "mass",
+  "order": 1,
   "name": {
     "en-US": "Entrance and Sign of the Cross",
     "pt-BR": "Entrada e Sinal da Cruz"

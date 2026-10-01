@@ -1,5 +1,7 @@
 {
   "id": "trinity",
+  "kind": "moveable",
+  "order": 8,
   "name": {
     "en-US": "The Most Holy Trinity",
     "pt-BR": "Santíssima Trindade"

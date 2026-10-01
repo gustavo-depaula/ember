@@ -1,5 +1,7 @@
 {
   "id": "corporal",
+  "kind": "object",
+  "order": 13,
   "name": {
     "en-US": "Corporal",
     "pt-BR": "Corporal"

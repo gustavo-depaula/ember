@@ -1,5 +1,7 @@
 {
   "id": "carrying_cross",
+  "kind": "rosary",
+  "order": 8,
   "name": {
     "en-US": "The Carrying of the Cross",
     "pt-BR": "Jesus Carregando a Cruz"

@@ -1,5 +1,7 @@
 {
   "id": "lectionary",
+  "kind": "object",
+  "order": 6,
   "name": {
     "en-US": "Lectionary",
     "pt-BR": "Lecionário"

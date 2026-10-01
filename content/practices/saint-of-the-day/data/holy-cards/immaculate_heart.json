@@ -1,5 +1,7 @@
 {
   "id": "immaculate_heart",
+  "kind": "moveable",
+  "order": 11,
   "name": {
     "en-US": "The Immaculate Heart of Mary",
     "pt-BR": "Imaculado Coração de Maria"

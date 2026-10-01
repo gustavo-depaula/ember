@@ -1,5 +1,7 @@
 {
   "id": "purificator",
+  "kind": "object",
+  "order": 14,
   "name": {
     "en-US": "Purificator",
     "pt-BR": "Sanguinho"

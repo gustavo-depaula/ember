@@ -1,5 +1,7 @@
 {
   "id": "holy_family",
+  "kind": "moveable",
+  "order": 1,
   "name": {
     "en-US": "The Holy Family",
     "pt-BR": "A Sagrada Família"

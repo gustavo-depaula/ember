@@ -745,7 +745,14 @@ export default {
       alpha: 'A\u2013Z',
       collectedLabel: 'Colecionados',
       notYet: 'Ainda n\u00e3o conhecidos',
-      undated: 'Sem dia fixo',
+      kind: {
+        moveable: 'Festas m\u00f3veis',
+        rosary: 'Mist\u00e9rios do Ros\u00e1rio',
+        season: 'O Ano Lit\u00fargico',
+        mass: 'A Missa',
+        object: 'Objetos e paramentos',
+        devotion: 'Devo\u00e7\u00f5es',
+      },
     },
     encounter: {
       reflection: 'Reflexão',

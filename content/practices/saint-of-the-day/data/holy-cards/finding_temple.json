@@ -1,5 +1,7 @@
 {
   "id": "finding_temple",
+  "kind": "rosary",
+  "order": 1,
   "name": {
     "en-US": "The Finding in the Temple",
     "pt-BR": "A Perda e o Encontro de Jesus no Templo"

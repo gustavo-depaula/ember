@@ -1,5 +1,7 @@
 {
   "id": "proclamation_kingdom",
+  "kind": "rosary",
+  "order": 3,
   "name": {
     "en-US": "The Proclamation of the Kingdom",
     "pt-BR": "O Anúncio do Reino de Deus"

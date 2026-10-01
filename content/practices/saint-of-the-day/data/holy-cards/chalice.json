@@ -1,5 +1,7 @@
 {
   "id": "chalice",
+  "kind": "object",
+  "order": 8,
   "name": {
     "en-US": "Chalice",
     "pt-BR": "Cálice"

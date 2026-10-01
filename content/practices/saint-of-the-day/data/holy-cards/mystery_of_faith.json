@@ -1,5 +1,7 @@
 {
   "id": "mystery_of_faith",
+  "kind": "mass",
+  "order": 21,
   "name": {
     "en-US": "Mystery of Faith",
     "pt-BR": "Mistério da Fé"

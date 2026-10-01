@@ -1,5 +1,7 @@
 {
   "id": "laetare",
+  "kind": "season",
+  "order": 10,
   "name": {
     "en-US": "Laetare Sunday",
     "pt-BR": "Domingo Laetare"

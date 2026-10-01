@@ -1,5 +1,7 @@
 {
   "id": "lavabo",
+  "kind": "object",
+  "order": 12,
   "name": {
     "en-US": "Lavabo",
     "pt-BR": "Lavabo"

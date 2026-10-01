@@ -1,5 +1,7 @@
 {
   "id": "roman_missal",
+  "kind": "object",
+  "order": 5,
   "name": {
     "en-US": "Roman Missal",
     "pt-BR": "Missal Romano"

@@ -1,5 +1,7 @@
 {
   "id": "institution_eucharist",
+  "kind": "rosary",
+  "order": 4,
   "name": {
     "en-US": "The Institution of the Eucharist",
     "pt-BR": "A Instituição da Eucaristia"

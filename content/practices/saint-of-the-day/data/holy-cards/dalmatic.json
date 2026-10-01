@@ -1,5 +1,7 @@
 {
   "id": "dalmatic",
+  "kind": "object",
+  "order": 24,
   "name": {
     "en-US": "Dalmatic",
     "pt-BR": "Dalmática"

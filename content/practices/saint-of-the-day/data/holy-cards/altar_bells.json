@@ -1,5 +1,7 @@
 {
   "id": "altar_bells",
+  "kind": "object",
+  "order": 18,
   "name": {
     "en-US": "Altar bells",
     "pt-BR": "Campainhas do altar"

@@ -1,5 +1,7 @@
 {
   "id": "altar_crucifix",
+  "kind": "object",
+  "order": 4,
   "name": {
     "en-US": "Altar crucifix and candles",
     "pt-BR": "Crucifixo e velas do altar"

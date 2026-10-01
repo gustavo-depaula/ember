@@ -1,5 +1,7 @@
 {
   "id": "lent_ember_days",
+  "kind": "season",
+  "order": 17,
   "name": {
     "en-US": "Lenten Ember Days",
     "pt-BR": "Têmporas da Quaresma"

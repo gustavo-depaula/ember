@@ -1,5 +1,7 @@
 {
   "id": "sacred_heart",
+  "kind": "moveable",
+  "order": 10,
   "name": {
     "en-US": "The Sacred Heart of Jesus",
     "pt-BR": "Sagrado Coração de Jesus"

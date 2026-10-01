@@ -1,5 +1,7 @@
 {
   "id": "gospel",
+  "kind": "mass",
+  "order": 11,
   "name": {
     "en-US": "Gospel",
     "pt-BR": "Evangelho"

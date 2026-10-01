@@ -1,5 +1,7 @@
 {
   "id": "book_of_gospels",
+  "kind": "object",
+  "order": 7,
   "name": {
     "en-US": "Book of the Gospels",
     "pt-BR": "Evangeliário"

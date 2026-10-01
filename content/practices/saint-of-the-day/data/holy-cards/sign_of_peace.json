@@ -1,5 +1,7 @@
 {
   "id": "sign_of_peace",
+  "kind": "mass",
+  "order": 24,
   "name": {
     "en-US": "Sign of Peace",
     "pt-BR": "Rito da Paz"

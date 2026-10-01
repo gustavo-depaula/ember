@@ -1,5 +1,7 @@
 {
   "id": "advent_weekday",
+  "kind": "season",
+  "order": 2,
   "name": {
     "en-US": "Advent Weekdays",
     "pt-BR": "Dias de semana do Advento"

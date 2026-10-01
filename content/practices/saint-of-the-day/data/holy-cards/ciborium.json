@@ -1,5 +1,7 @@
 {
   "id": "ciborium",
+  "kind": "object",
+  "order": 10,
   "name": {
     "en-US": "Ciborium",
     "pt-BR": "Cibório"

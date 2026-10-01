@@ -1,5 +1,7 @@
 {
   "id": "wedding_cana",
+  "kind": "rosary",
+  "order": 2,
   "name": {
     "en-US": "The Wedding at Cana",
     "pt-BR": "As Bodas de Caná"

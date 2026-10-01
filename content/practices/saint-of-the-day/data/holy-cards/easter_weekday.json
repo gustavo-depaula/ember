@@ -1,5 +1,7 @@
 {
   "id": "easter_weekday",
+  "kind": "season",
+  "order": 13,
   "name": {
     "en-US": "Easter Weekdays",
     "pt-BR": "Dias de semana do Tempo Pascal"

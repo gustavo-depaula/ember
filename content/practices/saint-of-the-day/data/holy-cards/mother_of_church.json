@@ -1,5 +1,7 @@
 {
   "id": "mother_of_church",
+  "kind": "moveable",
+  "order": 7,
   "name": {
     "en-US": "Mary, Mother of the Church",
     "pt-BR": "Maria, Mãe da Igreja"

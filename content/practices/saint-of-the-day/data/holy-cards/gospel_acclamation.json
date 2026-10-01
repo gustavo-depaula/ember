@@ -1,5 +1,7 @@
 {
   "id": "gospel_acclamation",
+  "kind": "mass",
+  "order": 10,
   "name": {
     "en-US": "Gospel Acclamation",
     "pt-BR": "Aclamação ao Evangelho"

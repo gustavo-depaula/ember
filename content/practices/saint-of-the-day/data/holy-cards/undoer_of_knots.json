@@ -1,5 +1,7 @@
 {
   "id": "undoer_of_knots",
+  "kind": "devotion",
+  "order": 2,
   "name": {
     "en-US": "Our Lady, Undoer of Knots",
     "pt-BR": "Nossa Senhora Desatadora dos Nós"

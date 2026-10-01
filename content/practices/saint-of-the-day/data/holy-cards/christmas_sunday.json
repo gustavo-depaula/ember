@@ -1,5 +1,7 @@
 {
   "id": "christmas_sunday",
+  "kind": "season",
+  "order": 4,
   "name": {
     "en-US": "Christmas Sundays",
     "pt-BR": "Domingos do Tempo do Natal"

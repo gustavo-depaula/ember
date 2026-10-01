@@ -1,5 +1,7 @@
 {
   "id": "ambo",
+  "kind": "object",
+  "order": 2,
   "name": {
     "en-US": "Ambo",
     "pt-BR": "Ambão"

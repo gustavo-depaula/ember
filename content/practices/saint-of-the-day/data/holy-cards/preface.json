@@ -1,5 +1,7 @@
 {
   "id": "preface",
+  "kind": "mass",
+  "order": 17,
   "name": {
     "en-US": "Preface Dialogue and Preface",
     "pt-BR": "Diálogo do Prefácio e Prefácio"

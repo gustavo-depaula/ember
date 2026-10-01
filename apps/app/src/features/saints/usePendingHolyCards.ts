@@ -39,7 +39,11 @@ function catalogOf(
 ): Catalog {
   const drawn = new Set(cards.map((c) => c.id))
   return {
-    saints: cards.map((c) => ({ id: c.id, celebration: c.proper, day: c.feast })),
+    // A feast's card, by its Mass or its date. Season, Mass-part and object cards
+    // name a formulary only for the collect they show; their own doors give them.
+    saints: cards
+      .filter((c) => c.feast || c.kind === 'moveable')
+      .map((c) => ({ id: c.id, celebration: c.proper, day: c.feast })),
     // Liturgical, season, Ember Days, book and lineage cards aren't drawn yet;
     // their doors give nothing until they are.
     liturgical: [],

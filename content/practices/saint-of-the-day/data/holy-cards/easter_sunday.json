@@ -1,5 +1,7 @@
 {
   "id": "easter_sunday",
+  "kind": "season",
+  "order": 12,
   "name": {
     "en-US": "Easter Sundays",
     "pt-BR": "Domingos do Tempo Pascal"

@@ -1,5 +1,7 @@
 {
   "id": "thurible",
+  "kind": "object",
+  "order": 16,
   "name": {
     "en-US": "Thurible and boat",
     "pt-BR": "Turíbulo e naveta"

@@ -10,13 +10,16 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 // `id` doubles as the image stem (`saints/{id}.webp`). All display strings are
 // localized; the feast is the calendar spine the gallery sorts and groups by.
 // Seasons, Ember Days, parts of the Mass and liturgical objects have no fixed
-// date: they carry no feast and gather in the gallery's undated group.
+// date: they carry no feast and name the gallery section they belong to (`kind`).
 // The card names its own Pictorial Lives chapter and Mass formulary rather than
 // leaving them to its date: the book keeps the pre-1969 calendar and a date can
 // hold several celebrations, so the same day often belongs to someone else.
 export type HolyCard = {
   id: string
   feast?: { month: number; day: number }
+  /** For a card with no feast: its gallery section, and its place in it. */
+  kind?: HolyCardKind
+  order?: number
   name: LocalizedText
   patronOf?: LocalizedText
   prayerExcerpt?: LocalizedText
@@ -30,9 +33,15 @@ export type HolyCard = {
   intro?: LocalizedText
 }
 
+/** The gallery sections of the cards with no fixed date, in the order they show. */
+export const holyCardKinds = ['moveable', 'rosary', 'season', 'mass', 'object', 'devotion'] as const
+export type HolyCardKind = (typeof holyCardKinds)[number]
+
 type HolyCardsData = {
   version: number
   cards: HolyCard[]
+  // Apart from `cards`, which apps released before these cards read expecting a feast on each.
+  undated?: HolyCard[]
 }
 
 const DATA_NAME = 'holy-cards'
@@ -57,7 +66,10 @@ export function useHolyCardCatalog(): { cards: HolyCard[]; starters: string[] } 
       if (!ref) return null
       const parsed = await getJson<HolyCardsData>(ref.hash)
       if (!parsed) return null
-      return { cards: parsed.cards, starters: manifest?.holyCardStarters ?? [] }
+      return {
+        cards: [...parsed.cards, ...(parsed.undated ?? [])],
+        starters: manifest?.holyCardStarters ?? [],
+      }
     },
     staleTime: Number.POSITIVE_INFINITY,
   })

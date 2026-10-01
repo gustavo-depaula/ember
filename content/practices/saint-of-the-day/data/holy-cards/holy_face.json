@@ -1,5 +1,7 @@
 {
   "id": "holy_face",
+  "kind": "devotion",
+  "order": 1,
   "name": {
     "en-US": "The Holy Face of Jesus",
     "pt-BR": "A Santa Face de Jesus"

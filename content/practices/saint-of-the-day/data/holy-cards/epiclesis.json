@@ -1,5 +1,7 @@
 {
   "id": "epiclesis",
+  "kind": "mass",
+  "order": 19,
   "name": {
     "en-US": "Epiclesis",
     "pt-BR": "Epiclese"

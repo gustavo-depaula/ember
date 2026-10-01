@@ -1,5 +1,7 @@
 {
   "id": "crowning_thorns",
+  "kind": "rosary",
+  "order": 7,
   "name": {
     "en-US": "The Crowning with Thorns",
     "pt-BR": "A Coroação de Espinhos"

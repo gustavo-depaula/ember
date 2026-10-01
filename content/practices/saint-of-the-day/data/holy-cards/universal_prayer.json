@@ -1,5 +1,7 @@
 {
   "id": "universal_prayer",
+  "kind": "mass",
+  "order": 14,
   "name": {
     "en-US": "Universal Prayer",
     "pt-BR": "Oração Universal"

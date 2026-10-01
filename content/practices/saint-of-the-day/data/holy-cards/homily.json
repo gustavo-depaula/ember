@@ -1,5 +1,7 @@
 {
   "id": "homily",
+  "kind": "mass",
+  "order": 12,
   "name": {
     "en-US": "Homily",
     "pt-BR": "Homilia"

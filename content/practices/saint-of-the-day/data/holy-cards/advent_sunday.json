@@ -1,5 +1,7 @@
 {
   "id": "advent_sunday",
+  "kind": "season",
+  "order": 1,
   "name": {
     "en-US": "Advent Sundays",
     "pt-BR": "Domingos do Advento"

@@ -1,5 +1,7 @@
 {
   "id": "pentecost",
+  "kind": "moveable",
+  "order": 6,
   "name": {
     "en-US": "Pentecost",
     "pt-BR": "Pentecostes"

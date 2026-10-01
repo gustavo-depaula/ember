@@ -1,5 +1,7 @@
 {
   "id": "ordinary_time_2_sunday",
+  "kind": "season",
+  "order": 14,
   "name": {
     "en-US": "Ordinary Time II Sundays",
     "pt-BR": "Domingos do Tempo Comum II"

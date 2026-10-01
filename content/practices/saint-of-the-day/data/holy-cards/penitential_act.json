@@ -1,5 +1,7 @@
 {
   "id": "penitential_act",
+  "kind": "mass",
+  "order": 3,
   "name": {
     "en-US": "Penitential Act",
     "pt-BR": "Ato Penitencial"

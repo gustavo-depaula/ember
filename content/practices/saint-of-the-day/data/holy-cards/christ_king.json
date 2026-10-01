@@ -1,5 +1,7 @@
 {
   "id": "christ_king",
+  "kind": "moveable",
+  "order": 12,
   "name": {
     "en-US": "Christ the King",
     "pt-BR": "Cristo Rei"

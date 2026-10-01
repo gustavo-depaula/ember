@@ -1,5 +1,7 @@
 {
   "id": "corpus_christi",
+  "kind": "moveable",
+  "order": 9,
   "name": {
     "en-US": "Corpus Christi",
     "pt-BR": "Corpus Christi"

@@ -1,5 +1,7 @@
 {
   "id": "sanctus",
+  "kind": "mass",
+  "order": 18,
   "name": {
     "en-US": "Sanctus",
     "pt-BR": "Santo"

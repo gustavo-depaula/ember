@@ -1,5 +1,7 @@
 {
   "id": "paten",
+  "kind": "object",
+  "order": 9,
   "name": {
     "en-US": "Paten",
     "pt-BR": "Patena"

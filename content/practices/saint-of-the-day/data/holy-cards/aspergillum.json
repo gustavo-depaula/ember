@@ -1,5 +1,7 @@
 {
   "id": "aspergillum",
+  "kind": "object",
+  "order": 17,
   "name": {
     "en-US": "Aspergillum",
     "pt-BR": "Aspersório"

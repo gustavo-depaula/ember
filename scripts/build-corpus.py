@@ -163,7 +163,7 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
 # app fetches the whole collection at once. Only the fields the app reads ship:
 # the rest (a card's `meta` provenance trail) stays in the repo.
 DATA_COLLECTIONS = {
-    "holy-cards": {"key": "cards", "fields": ("id", "feast", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper", "intro")},
+    "holy-cards": {"key": "cards", "fields": ("id", "feast", "kind", "order", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper", "intro")},
 }
 
 LIVES = CONTENT / "books" / "pictorial-lives-of-saints"
@@ -192,23 +192,30 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
     if not coll_dir.is_dir():
         raise SystemExit(f"practice {pid}: data `{logical}` points at missing {coll_dir}")
     items = []
+    undated = []
     for ff in sorted(coll_dir.glob("*.json")):
         with ff.open(encoding="utf-8") as fh:
             item = json.load(fh)
         if item.get("id") != ff.stem:
             raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
-        # Cards of moveable feasts, seasons and Mass parts have no fixed date, and every
-        # released app reads `feast.month` unguarded; they stay out of the blob until an
-        # app that places undated cards is the oldest one in use.
-        if logical == "holy-cards" and "feast" not in item:
-            continue
         kept = {k: item[k] for k in spec["fields"] if k in item}
         if "lifeChapter" in kept:
             reflection = _life_reflection(pid, item["id"], kept["lifeChapter"])
             if reflection:
                 kept["reflection"] = reflection
+        # Cards of moveable feasts, seasons and Mass parts have no fixed date. They ship
+        # under their own key because apps released before them read `feast.month`
+        # unguarded on every card of `cards`. Each names the gallery section it belongs to.
+        if logical == "holy-cards" and "feast" not in item:
+            if "kind" not in item or "order" not in item:
+                raise SystemExit(f"practice {pid}: card {item['id']} has no feast, so it needs `kind` and `order`")
+            undated.append(kept)
+            continue
         items.append(kept)
-    return {"version": 1, spec["key"]: items}
+    out = {"version": 1, spec["key"]: items}
+    if undated:
+        out["undated"] = undated
+    return out
 
 
 def build_practices(b: Builder) -> None:

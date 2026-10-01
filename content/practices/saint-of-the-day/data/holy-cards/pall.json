@@ -1,5 +1,7 @@
 {
   "id": "pall",
+  "kind": "object",
+  "order": 15,
   "name": {
     "en-US": "Pall",
     "pt-BR": "Pala"

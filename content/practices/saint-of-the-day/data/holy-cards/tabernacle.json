@@ -1,5 +1,7 @@
 {
   "id": "tabernacle",
+  "kind": "object",
+  "order": 3,
   "name": {
     "en-US": "Tabernacle and sanctuary lamp",
     "pt-BR": "Sacrário e lâmpada do Santíssimo"

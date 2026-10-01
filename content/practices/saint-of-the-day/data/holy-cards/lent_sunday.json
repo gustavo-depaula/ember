@@ -1,5 +1,7 @@
 {
   "id": "lent_sunday",
+  "kind": "season",
+  "order": 8,
   "name": {
     "en-US": "Lenten Sundays",
     "pt-BR": "Domingos da Quaresma"

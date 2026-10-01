@@ -1,5 +1,7 @@
 {
   "id": "preparation_of_gifts",
+  "kind": "mass",
+  "order": 15,
   "name": {
     "en-US": "Preparation of the Gifts",
     "pt-BR": "Preparação das Oferendas"

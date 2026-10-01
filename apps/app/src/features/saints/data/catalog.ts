@@ -3,7 +3,7 @@ import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { hearthAssetUrl } from '@/lib/hearth'
 import i18n, { localizeContent } from '@/lib/i18n'
-import { type HolyCard, useHolyCards } from '../useHolyCards'
+import { type HolyCard, type HolyCardKind, holyCardKinds, useHolyCards } from '../useHolyCards'
 
 // A single saint as it appears in the gallery and the encounter. Display strings
 // are pre-localized for the active language (the hook recomputes on language
@@ -15,6 +15,9 @@ export type SaintEntry = {
   feast?: { month: number; day: number }
   /** Localized "October 1" style label, derived from `feast`. */
   feastLabel?: string
+  /** For a card with no feast: its gallery section, and its place in it. */
+  kind?: HolyCardKind
+  order?: number
   /** Pictorial Lives chapter id powering the encounter's Life slot. */
   lifeChapter?: string
   reflection?: string
@@ -55,6 +58,8 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
       name: localizeContent(c.name),
       feast: c.feast,
       feastLabel: c.feast ? feastLabel(c.feast.month, c.feast.day) : undefined,
+      kind: c.kind,
+      order: c.order,
       lifeChapter: c.lifeChapter,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),
@@ -67,14 +72,23 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
   return { saints, byId: Object.fromEntries(saints.map((e) => [e.id, e])) }
 }
 
+// Dated cards in calendar order, then the undated ones section by section.
 function byFeastThenName(a: SaintEntry, b: SaintEntry): number {
-  const am = a.feast?.month ?? 13
-  const bm = b.feast?.month ?? 13
-  if (am !== bm) return am - bm
-  const ad = a.feast?.day ?? 32
-  const bd = b.feast?.day ?? 32
-  if (ad !== bd) return ad - bd
-  return a.name.localeCompare(b.name)
+  if (a.feast && b.feast) {
+    return (
+      a.feast.month - b.feast.month || a.feast.day - b.feast.day || a.name.localeCompare(b.name)
+    )
+  }
+  if (a.feast || b.feast) return a.feast ? -1 : 1
+  return (
+    kindIndex(a.kind) - kindIndex(b.kind) ||
+    (a.order ?? 0) - (b.order ?? 0) ||
+    a.name.localeCompare(b.name)
+  )
+}
+
+function kindIndex(kind: HolyCardKind | undefined): number {
+  return kind ? holyCardKinds.indexOf(kind) : holyCardKinds.length
 }
 
 /**

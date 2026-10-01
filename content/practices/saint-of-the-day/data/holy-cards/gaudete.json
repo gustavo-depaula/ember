@@ -1,5 +1,7 @@
 {
   "id": "gaudete",
+  "kind": "season",
+  "order": 3,
   "name": {
     "en-US": "Gaudete Sunday",
     "pt-BR": "Domingo Gaudete"

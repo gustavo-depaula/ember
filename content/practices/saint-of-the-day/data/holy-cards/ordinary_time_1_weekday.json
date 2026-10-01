@@ -1,5 +1,7 @@
 {
   "id": "ordinary_time_1_weekday",
+  "kind": "season",
+  "order": 7,
   "name": {
     "en-US": "Ordinary Time I Weekdays",
     "pt-BR": "Dias de semana do Tempo Comum I"

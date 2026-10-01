@@ -1,5 +1,7 @@
 {
   "id": "september_ember_days",
+  "kind": "season",
+  "order": 19,
   "name": {
     "en-US": "September Ember Days",
     "pt-BR": "Têmporas de Setembro"

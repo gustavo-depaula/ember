@@ -1,5 +1,7 @@
 {
   "id": "responsorial_psalm",
+  "kind": "mass",
+  "order": 8,
   "name": {
     "en-US": "Responsorial Psalm",
     "pt-BR": "Salmo Responsorial"

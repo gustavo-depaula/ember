@@ -1,5 +1,7 @@
 {
   "id": "triduum",
+  "kind": "season",
+  "order": 11,
   "name": {
     "en-US": "The Sacred Paschal Triduum",
     "pt-BR": "O Sagrado Tríduo Pascal"

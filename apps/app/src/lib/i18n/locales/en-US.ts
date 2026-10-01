@@ -739,7 +739,14 @@ export default {
       alpha: 'A–Z',
       collectedLabel: 'Collected',
       notYet: 'Not yet met',
-      undated: 'Without a fixed day',
+      kind: {
+        moveable: 'Moveable Feasts',
+        rosary: 'Mysteries of the Rosary',
+        season: 'The Liturgical Year',
+        mass: 'The Mass',
+        object: 'Objects and Vestments',
+        devotion: 'Devotions',
+      },
     },
     encounter: {
       reflection: 'Reflection',

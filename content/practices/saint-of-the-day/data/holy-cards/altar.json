@@ -1,5 +1,7 @@
 {
   "id": "altar",
+  "kind": "object",
+  "order": 1,
   "name": {
     "en-US": "Altar",
     "pt-BR": "Altar"

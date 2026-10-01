@@ -1,5 +1,7 @@
 {
   "id": "pentecost_ember_days",
+  "kind": "season",
+  "order": 18,
   "name": {
     "en-US": "Pentecost Ember Days",
     "pt-BR": "Têmporas de Pentecostes"

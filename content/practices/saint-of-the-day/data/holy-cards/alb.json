@@ -1,5 +1,7 @@
 {
   "id": "alb",
+  "kind": "object",
+  "order": 20,
   "name": {
     "en-US": "Alb",
     "pt-BR": "Alva"

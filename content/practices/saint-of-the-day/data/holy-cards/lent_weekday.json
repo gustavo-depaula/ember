@@ -1,5 +1,7 @@
 {
   "id": "lent_weekday",
+  "kind": "season",
+  "order": 9,
   "name": {
     "en-US": "Lenten Weekdays",
     "pt-BR": "Dias de semana da Quaresma"

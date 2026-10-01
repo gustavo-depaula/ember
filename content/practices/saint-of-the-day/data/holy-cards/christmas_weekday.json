@@ -1,5 +1,7 @@
 {
   "id": "christmas_weekday",
+  "kind": "season",
+  "order": 5,
   "name": {
     "en-US": "Christmas Weekdays",
     "pt-BR": "Dias de semana do Tempo do Natal"

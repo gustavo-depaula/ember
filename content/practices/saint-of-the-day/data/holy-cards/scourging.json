@@ -1,5 +1,7 @@
 {
   "id": "scourging",
+  "kind": "rosary",
+  "order": 6,
   "name": {
     "en-US": "The Scourging at the Pillar",
     "pt-BR": "A Flagelação de Jesus"

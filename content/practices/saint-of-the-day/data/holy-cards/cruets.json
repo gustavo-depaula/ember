@@ -1,5 +1,7 @@
 {
   "id": "cruets",
+  "kind": "object",
+  "order": 11,
   "name": {
     "en-US": "Cruets",
     "pt-BR": "Galhetas"

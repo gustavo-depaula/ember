@@ -1,5 +1,7 @@
 {
   "id": "divine_mercy",
+  "kind": "moveable",
+  "order": 4,
   "name": {
     "en-US": "The Divine Mercy",
     "pt-BR": "A Divina Misericórdia"

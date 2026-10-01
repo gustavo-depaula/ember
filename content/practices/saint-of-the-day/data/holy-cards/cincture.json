@@ -1,5 +1,7 @@
 {
   "id": "cincture",
+  "kind": "object",
+  "order": 21,
   "name": {
     "en-US": "Cincture",
     "pt-BR": "Cíngulo"
