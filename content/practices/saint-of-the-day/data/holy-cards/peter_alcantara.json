@@ -1,0 +1,53 @@
+{
+  "id": "peter_alcantara",
+  "feast": {
+    "month": 10,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Peter of Alcantara",
+    "pt-BR": "São Pedro de Alcântara"
+  },
+  "patronOf": {
+    "en-US": "Patron of Brazil",
+    "pt-BR": "Padroeiro do Brasil"
+  },
+  "prayerExcerpt": {
+    "en-US": "If men do not go about barefoot now, nor undergo sharp penances, as St. Peter did, there are many ways of trampling on the world; and Our Lord teaches them when He finds the necessary courage.",
+    "pt-BR": "Se os homens hoje não andam descalços, nem se submetem a penitências agudas, como São Pedro fazia, há muitas maneiras de pisar o mundo; e Nosso Senhor as ensina quando encontra a coragem necessária."
+  },
+  "lifeChapter": "oct-19-peter-of-alcantara",
+  "meta": {
+    "face": "A Spaniard of Extremadura of about sixty, WORN to the bone by penance, \"like the roots of trees\", with a dark, weather-browned olive complexion and a LONG face in which every BONE shows — a HIGH, KNOBBED, BALD skull with a narrow ring of short dark-grey hair, PROMINENT BROW BONES, deeply SUNKEN temples and eye sockets, JUTTING cheekbones over DEEP hollows, a LONG, BONY nose with a slight HUMP at the bridge, LARGE, dark, shining eyes LIFTED upward, a WIDE, thin-lipped mouth slightly open, a long, narrow jaw under a SHORT, SPARSE dark-grey beard; rapt and luminous, not grim. Not the emaciated but white-bearded pius_v, the smooth-domed, clean-shaven bernardine_siena or john_capistrano, the long-angular, thick-browed paschal_baylon, or the horse-faced Copt paphnutius.",
+    "basis": "St. Teresa, who knew him, wrote that he was an aged man \"and his weakness was so great, that he seemed like nothing else but the roots of trees\" (Life, ch. 27, Lewis's translation, `teresa-life.txt`); the Spanish paintings on Wikipedia (El Greco's school, crop in `crops.jpg`) give him a bald head, a gaunt, bony face and a short dark beard. Bare head and sackcloth are in the book.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-19-peter-of-alcantara.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter of Alcantara",
+        "url": "https://en.wikipedia.org/wiki/Peter_of_Alcantara"
+      },
+      {
+        "title": "Wikipedia (es), Pedro de Alcántara (lead: San Pedro de Alcántara, Museo de El Greco, Toledo)",
+        "url": "https://es.wikipedia.org/wiki/Pedro_de_Alc%C3%A1ntara"
+      },
+      {
+        "title": "The Life of St. Teresa of Jesus, ch. 27, tr. David Lewis (Project Gutenberg)",
+        "url": "https://www.gutenberg.org/ebooks/8120"
+      },
+      {
+        "title": "Santi e Beati, San Pietro d'Alcantara (Roman Martyrology entry, 18 October)",
+        "url": "https://www.santiebeati.it/dettaglio/74425"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-19-peter-of-alcantara (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-19-peter-of-alcantara.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

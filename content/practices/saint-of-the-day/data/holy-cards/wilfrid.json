@@ -1,0 +1,45 @@
+{
+  "id": "wilfrid",
+  "feast": {
+    "month": 10,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Wilfrid",
+    "pt-BR": "São Wilfrido"
+  },
+  "patronOf": {
+    "en-US": "Bishop of York",
+    "pt-BR": "Bispo de York"
+  },
+  "prayerExcerpt": {
+    "en-US": "To look towards Rome is an instinct planted in us for the preservation of the Faith. Trust in the Vicar of Christ necessarily results from the reign of His love in our hearts.",
+    "pt-BR": "Olhar para Roma é um instinto plantado em nós para a preservação da Fé. A confiança no Vigário de Cristo resulta necessariamente do reinado de Seu amor em nossos corações."
+  },
+  "lifeChapter": "oct-12-wilfrid",
+  "meta": {
+    "face": "A Northumbrian noble of about fifty, CLEAN-SHAVEN in the Roman manner, with a fair, fresh, wind-coloured complexion and a face whose length is in the LOWER half — a SHORT, low, square forehead, a HIGH-BRIDGED, straight, rather BEAKED nose, bright, quick, pale-grey eyes set deep in a network of SMILE LINES under straight, fair brows, sharp, high cheekbones over lean cheeks, a LONG upper lip and a wide, mobile mouth turning up at the corners, a long, FORWARD-THRUST, rounded chin; fair hair gone silver in a neat ring around the tonsure; a lively, cheerful look, \"never a sour face\". Not the long, handsome, fair-browed oswald_worcester, the broad, short, snub-nosed richard_chichester, the short-faced, bulging-browed elphege, or the lean, fine-nosed thomas_becket.",
+    "basis": "No likeness survives. The book quotes his biographer's \"a quick walker, expert at all good works, with never a sour face\", which the card turns into a lively, smiling face; his journeys to Rome, the relics he brought back and the Benedictine monastery at Ripon are in the book and in Wikipedia, which says he is usually shown as a robed bishop with a staff.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-12-wilfrid.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Wilfrid",
+        "url": "https://en.wikipedia.org/wiki/Wilfrid"
+      },
+      {
+        "title": "Santi e Beati, San Vilfrido di York (Roman Martyrology entry, 24 April)",
+        "url": "https://www.santiebeati.it/dettaglio/50680"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-12-wilfrid (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-12-wilfrid.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

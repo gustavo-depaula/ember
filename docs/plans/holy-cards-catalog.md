@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 245 | 105 |
+| Saints of the Pictorial Lives (Saint of the Day) | 245 | 115 |
 | Feasts of the Lord and the Church | 25 | 5 |
 | Our Lady | 21 | 6 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 615 cards, 474 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 484 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -482,16 +482,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 1 Oct · St. Remigius, Bishop · *São Remígio, Bispo* · Pictorial Lives
 - [ ] 3 Oct · St. Gerard, Abbot · *São Gerardo, Abade* · Pictorial Lives
 - [ ] 5 Oct · St. Placid, Martyr · *São Plácido, Mártir* · Pictorial Lives
-- [ ] 7 Oct · St. Mark, Pope · *São Marcos, Papa* · Pictorial Lives
-- [ ] 9 Oct · St. Louis Bertrand · *São Luís Bertrando* · Pictorial Lives
-- [ ] 10 Oct · St. Francis Borgia · *São Francisco de Borja* · Pictorial Lives
-- [ ] 11 Oct · St. Tarachus and his Companions · *São Taraco e seus Companheiros* · Pictorial Lives
-- [ ] 12 Oct · St. Wilfrid, Bishop · *São Wilfrido, Bispo* · Pictorial Lives
-- [ ] 13 Oct · St. Edward the Confessor · *Santo Eduardo, o Confessor* · Pictorial Lives
-- [ ] 16 Oct · St. Gall, Abbot · *São Galo, Abade* · Pictorial Lives
-- [ ] 19 Oct · St. Peter of Alcantara · *São Pedro de Alcântara* · Pictorial Lives
-- [ ] 21 Oct · St. Ursula, Virgin and Martyr · *Santa Úrsula, Virgem e Mártir* · Pictorial Lives
-- [ ] 22 Oct · St. Mello, Bishop · *São Melônio, Bispo* · Pictorial Lives
+- [x] 7 Oct · St. Mark, Pope · *São Marcos, Papa* · Pictorial Lives — `mark_pope`
+- [x] 9 Oct · St. Louis Bertrand · *São Luís Bertrando* · Pictorial Lives — `louis_bertrand`
+- [x] 10 Oct · St. Francis Borgia · *São Francisco de Borja* · Pictorial Lives — `francis_borgia`
+- [x] 11 Oct · St. Tarachus and his Companions · *São Taraco e seus Companheiros* · Pictorial Lives — `tarachus_companions`
+- [x] 12 Oct · St. Wilfrid, Bishop · *São Wilfrido, Bispo* · Pictorial Lives — `wilfrid`
+- [x] 13 Oct · St. Edward the Confessor · *Santo Eduardo, o Confessor* · Pictorial Lives — `edward_confessor`
+- [x] 16 Oct · St. Gall, Abbot · *São Galo, Abade* · Pictorial Lives — `gall`
+- [x] 19 Oct · St. Peter of Alcantara · *São Pedro de Alcântara* · Pictorial Lives — `peter_alcantara`
+- [x] 21 Oct · St. Ursula, Virgin and Martyr · *Santa Úrsula, Virgem e Mártir* · Pictorial Lives — `ursula`
+- [x] 22 Oct · St. Mello, Bishop · *São Melônio, Bispo* · Pictorial Lives — `mello`
 - [ ] 22 Oct · St. Hilarion, Abbot · *Santo Hilarião, Abade* · Pictorial Lives
 - [ ] 23 Oct · St. Theodoret, Martyr · *São Teodoreto, Mártir* · Pictorial Lives
 - [ ] 24 Oct · St. Magloire, Bishop · *São Maglório, Bispo* · Pictorial Lives

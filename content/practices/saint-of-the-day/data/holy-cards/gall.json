@@ -1,0 +1,45 @@
+{
+  "id": "gall",
+  "feast": {
+    "month": 10,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Gall",
+    "pt-BR": "São Galo"
+  },
+  "patronOf": {
+    "en-US": "Monk and missionary",
+    "pt-BR": "Monge e missionário"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"If any one would be My disciple,\" says Our Saviour, \"let him deny himself.\" The denial of self is, then, the royal road to perfection.",
+    "pt-BR": "\"Se alguém quiser ser Meu discípulo\", diz Nosso Salvador, \"negue-se a si mesmo.\" A negação de si mesmo é, pois, o caminho real para a perfeição."
+  },
+  "lifeChapter": "oct-16-gall",
+  "meta": {
+    "face": "An Irishman of about seventy, stocky and weathered, with a ruddy, windburnt, freckled complexion and a COMPACT, SQUARE face on a thick neck — the front of the head shaved from ear to ear in the Irish tonsure, leaving a broad, lined forehead, with thick, straight sandy-white hair falling behind the ears to the nape; a SHORT, BROAD, slightly UPTURNED nose, SMALL, bright, deep-set blue eyes creased at the corners under THICK, sandy-white brows, round, ruddy cheekbones, a WIDE, firm mouth, a broad, square chin under a SHORT, thick, BRISTLY sandy-white beard cut square; a steady, warm gaze. Not the long, big-boned, jutting-chinned, red-grey columban, the broad, clean-shaven, white-haired columba, the heart-shaped, dark-bearded fiaker, the long, narrow, flaxen-bearded finbarr, or the hooded, grey-bearded francis_paola.",
+    "basis": "No likeness survives. He is shown in a black cowl with a staff, bread and the bear that brought wood to his fire (Wikipedia; the Pfärrenbach mural in the lead image); the fire and the log cell are the book's engraving. The Irish tonsure follows his Irish origin as the book and his Reichenau biographers give it.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-16-gall.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Gall (lead: Pfärrenbach mural of St. Gallus)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Gall"
+      },
+      {
+        "title": "Santi e Beati, San Gallo (Roman Martyrology entry, 16 October)",
+        "url": "https://www.santiebeati.it/dettaglio/74175"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-16-gall (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-16-gall.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

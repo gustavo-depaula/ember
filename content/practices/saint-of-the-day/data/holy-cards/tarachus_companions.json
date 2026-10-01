@@ -1,0 +1,45 @@
+{
+  "id": "tarachus_companions",
+  "feast": {
+    "month": 10,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Tarachus and Companions",
+    "pt-BR": "São Taraco e Companheiros"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Cilicia",
+    "pt-BR": "Mártires da Cilícia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Such is true Christian devotion. \"Neither death nor life shall be able to separate us from the love that is in Christ Jesus.\"",
+    "pt-BR": "Tal é a verdadeira devoção cristã. \"Nem a morte nem a vida poderão separar-nos do amor que está em Cristo Jesus.\""
+  },
+  "lifeChapter": "oct-11-tarachus-and-his-companions",
+  "meta": {
+    "face": "Three clearly different men of Asia Minor with olive skin of different warmth. TARACHUS (centre), about sixty-five, a veteran: a BROAD, SQUARE, heavy-boned face with a FLAT, wide forehead, a BROKEN, slightly crooked nose with a flattened bridge, small, deep-set, steady grey eyes under thick, straight, grizzled brows, a wide, set mouth, a strong, square chin; close-cropped iron-grey hair and a short, dense, square-cut grey beard. PROBUS (left), about forty, a plebeian of Side: a LONG, LEAN face with its length in the lower half — a LONG upper lip, HOLLOW cheeks, a long, thin nose with a slight hook, large, dark, earnest eyes set CLOSE together under thin, arched black brows, a narrow, ROUNDED chin; short, untidy black hair and a thin, sparse black beard along the jaw. ANDRONICUS (right), about twenty-two, a patrician of Ephesus: BEARDLESS, with a smooth, BROAD-CHEEKED, softly HEXAGONAL face — wide, flat cheekbones, a short, straight Greek nose continuing the line of the brow, large, wide-set, light-brown eyes, a full, well-cut mouth, a firm chin; short, neat, wavy chestnut hair. Not the young, clean-shaven, triangular-faced companion of theban_legion, the brothers of nereus_achilleus or faustinus_jovita, or the two young Palestinians of adrian_eubulus.",
+    "basis": "No likenesses survive; the ages and ranks are those of the first version of their Acts as summarised by Wikipedia (Tarachus a former soldier of about sixty-five, Probus a plebeian of Side, Andronicus a patrician of Ephesus), and the peaceful beasts are the book's. The Greek fresco on Wikipedia shows them as a greybeard, a bearded man and a youth.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-11-tarachus-and-his-companions.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Tarachus, Probus, and Andronicus (lead: Greek fresco of their martyrdom)",
+        "url": "https://en.wikipedia.org/wiki/Tarachus,_Probus,_and_Andronicus"
+      },
+      {
+        "title": "Santi e Beati, Santi Taraco, Probo e Andronico (Roman Martyrology entry, 11 October)",
+        "url": "https://www.santiebeati.it/dettaglio/92519"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-11-tarachus-and-his-companions (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-11-tarachus-and-his-companions.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

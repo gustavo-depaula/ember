@@ -1,0 +1,49 @@
+{
+  "id": "mark_pope",
+  "feast": {
+    "month": 10,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Mark, Pope",
+    "pt-BR": "São Marcos, Papa"
+  },
+  "patronOf": {
+    "en-US": "Successor of St. Sylvester",
+    "pt-BR": "Sucessor de São Silvestre"
+  },
+  "prayerExcerpt": {
+    "en-US": "A Christian ought to be afraid of no enemy more than himself, whom he carries always about with him, and from whom he is not able to flee.",
+    "pt-BR": "Um cristão não deve temer nenhum inimigo mais do que a si mesmo, a quem carrega sempre consigo, e de quem não é capaz de fugir."
+  },
+  "lifeChapter": "oct-07-mark",
+  "meta": {
+    "face": "A Roman of about sixty-five with a warm, light-olive complexion and a ROUND, FIRM face as WIDE as it is long — not fleshy: a ROUND, bald crown ringed at the sides and back by short, CRISP, curly grey hair, a broad, smooth forehead crossed by ONE deep vertical FROWN LINE between the brows, FIRM, apple-round cheekbones, a SHORT, straight nose with a HIGH, narrow bridge, SMALL, keen, DEEP-SET dark-brown eyes under THICK, STRAIGHT, dark-grey brows, deep lines running from the nose to the corners of a small, firm, closed mouth; a SHORT, crisp, curly grey beard following the round line of the jaw to a blunt point; the gaze level, alert and watchful. Not the soft, round, mild-eyed gal_clermont, the flat-featured, flat-nosed zephyrinus, the curl-browed, protruding-eyed felix_i, the heavy-lidded, fleshy marcellinus_pope, or the long, narrow sylvester.",
+    "basis": "No likeness survives. The medallion of St. Paul Outside the Walls (Italian Wikipedia's lead image) gives a broad, bearded face with curly hair, which the card keeps as a round, firm, watchful face; the basilica on the Via Ardeatina is the Martyrology's and the Liber Pontificalis's (via Wikipedia), and the book's engraving shows him among building stones.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-07-mark.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Mark",
+        "url": "https://en.wikipedia.org/wiki/Pope_Mark"
+      },
+      {
+        "title": "Wikipedia (it), Papa Marco (lead: medallion portrait)",
+        "url": "https://it.wikipedia.org/wiki/Papa_Marco"
+      },
+      {
+        "title": "Santi e Beati, San Marco I papa (Roman Martyrology entry, 7 October)",
+        "url": "https://www.santiebeati.it/dettaglio/90939"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-07-mark (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-07-mark.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

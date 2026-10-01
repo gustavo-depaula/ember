@@ -1,0 +1,45 @@
+{
+  "id": "edward_confessor",
+  "feast": {
+    "month": 10,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Edward the Confessor",
+    "pt-BR": "Santo Eduardo, o Confessor"
+  },
+  "patronOf": {
+    "en-US": "King of England",
+    "pt-BR": "Rei da Inglaterra"
+  },
+  "prayerExcerpt": {
+    "en-US": "David longed to build a temple for God's service. Solomon reckoned it his glory to accomplish the work. But we, who have God made flesh dwelling in our tabernacles, ought to think no time, no zeal, no treasures too much to devote to the splendor and beauty of a Christian church.",
+    "pt-BR": "Davi ansiava por edificar um templo para o serviço de Deus. Salomão tinha por glória sua realizar a obra. Mas nós, que temos Deus feito carne habitando em nossos tabernáculos, não devemos julgar tempo algum, zelo algum, tesouro algum demasiado para consagrar ao esplendor e à beleza de uma igreja cristã."
+  },
+  "lifeChapter": "oct-13-edward-the",
+  "meta": {
+    "face": "An Englishman of about sixty, TALL, with a milk-white complexion and ROSY cheeks, and a FULL, SMOOTH, broad OVAL face as the Vita Aedwardi describes him — a HIGH, smooth, rounded forehead, FULL, rounded, rosy cheeks without hollows, a straight, medium nose with a softly rounded tip, gentle, pale-blue eyes LOWERED under fine, white, gently arched brows, a small, kindly mouth; MILK-WHITE hair falling straight to the nape and a long, MILK-WHITE beard that PARTS into TWO soft points below the chin, as on the Bayeux Tapestry; the gaze cast down, mild and dignified. Not the crowned, grey-bearded stephen_hungary, the brown-bearded henry, the heavy-jowled, weeping gontran, the long-hexagonal ladislas, or the curly, fisherman-faced andrew.",
+    "basis": "The Vita Aedwardi Regis (quoted by Wikipedia) describes him as very tall, with milk-white hair and beard, a full face, rosy cheeks and thin white hands, walking with eyes downcast; the Bayeux Tapestry shows him crowned with a long beard. Westminster Abbey is in the book and in Wikipedia; crown and ring are his emblems (Santi e Beati).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-13-edward-the.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Edward the Confessor (lead: Bayeux Tapestry, scene 1)",
+        "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+      },
+      {
+        "title": "Santi e Beati, Sant'Edoardo III il Confessore (Roman Martyrology entry, 5 January)",
+        "url": "https://www.santiebeati.it/dettaglio/74150"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-13-edward-the (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-13-edward-the.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

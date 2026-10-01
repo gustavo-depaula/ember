@@ -1,0 +1,49 @@
+{
+  "id": "mello",
+  "feast": {
+    "month": 10,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Mello",
+    "pt-BR": "São Melônio"
+  },
+  "patronOf": {
+    "en-US": "First bishop of Rouen",
+    "pt-BR": "Primeiro bispo de Rouen"
+  },
+  "prayerExcerpt": {
+    "en-US": "His zeal for the Faith engaged him in the sacred ministry, and God having blessed his labors with wonderful success, he was consecrated first bishop of Rouen in Normandy, which see he is said to have held forty years.",
+    "pt-BR": "Seu zelo pela Fé empenhou-o no sagrado ministério, e tendo Deus abençoado seus labores com maravilhoso êxito, foi consagrado primeiro bispo de Rouen, na Normandia, sé que se diz ter ocupado por quarenta anos."
+  },
+  "lifeChapter": "oct-22-mello",
+  "meta": {
+    "face": "A Briton of about seventy-five, tall and spare, with a fair, weathered, pink complexion and a DISH-SHAPED face in profile — a PROMINENT, rounded brow and a PROMINENT, firm chin with the middle of the face set back between them: a SHORT, slightly SNUB nose, broad, FLAT cheeks, ROUND, bright, pale-blue eyes set rather CLOSE together under long, feathery white brows, a small mouth; long, straight, fine white hair falling to the shoulders, a LONG, full, softly WAVING white beard to the breast; a kindly, serene gaze. Not the pear-shaped, clean-shaven albinus_angers, the shield-shaped paternus_avranches, the long, symmetrical, silver-bearded remigius, the rectangular, dark-grey-bearded lambert, or the square, laughing medard.",
+    "basis": "No likeness survives; he is known from a late Life of little historical value (Wikipedia), and the 2004 Martyrology keeps him as the bishop who first preached the faith at Rouen. The fifteenth-century window of Saint-Ouen at Rouen (Wikipedia's lead image) shows him as a vested bishop; the British birth is the book's.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-22-mello.md, first paragraph (his), the clause after the semicolon, capitalised; the chapter, which also tells St. Hilarion, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Mellonius (lead: window of Saint-Ouen, Rouen)",
+        "url": "https://en.wikipedia.org/wiki/Mellonius"
+      },
+      {
+        "title": "Wikipedia (fr), Mellon de Rouen",
+        "url": "https://fr.wikipedia.org/wiki/Mellon_de_Rouen"
+      },
+      {
+        "title": "Santi e Beati, San Mallone di Rouen (Roman Martyrology entry, 22 October)",
+        "url": "https://www.santiebeati.it/dettaglio/74740"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-22-mello (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-22-mello.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

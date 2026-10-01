@@ -1,0 +1,48 @@
+{
+  "id": "louis_bertrand",
+  "feast": {
+    "month": 10,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Louis Bertrand",
+    "pt-BR": "São Luís Bertrando"
+  },
+  "patronOf": {
+    "en-US": "Patron of Colombia",
+    "pt-BR": "Padroeiro da Colômbia"
+  },
+  "prayerExcerpt": {
+    "en-US": "He was favored with the gift of miracles, and while preaching in his native Spanish was understood in various languages.",
+    "pt-BR": "Foi favorecido com o dom dos milagres, e, enquanto pregava em seu espanhol nativo, era compreendido em várias línguas."
+  },
+  "meta": {
+    "face": "A Valencian of about forty, lean and grave, with a sallow olive complexion and an INVERTED-TRIANGLE face after Zurbarán's portrait — a BROAD, smooth forehead and wide temples narrowing sharply along FLAT, hollow cheeks to a NARROW, POINTED chin; a LONG, straight nose with a slightly BROADENED tip, HEAVY upper lids LOWERED over dark eyes, STRAIGHT, dark brows set LOW and close above them, a small, thin, downturned mouth; black hair hidden under the hood; a THIN dark moustache and a SMALL, sparse, pointed tuft of beard on the chin; the look withdrawn and recollected. Not the long, full-oval, clean-shaven vincent_ferrer, the soft, heavy-lidded, long-oval thomas_villanova, the square-round peter_verona, or the rectangular, grey-goateed robert_bellarmine.",
+    "basis": "Zurbarán's St. Louis Bertrand (Wikipedia's lead image, crop in `crops.jpg`) gives a narrow, triangular face under the black hood, lowered eyes, a thin moustache and a small beard. Cartagena is where he landed and first preached (Wikipedia); the Colombian patronage is from Spanish Wikipedia.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-09-dionysius-and-his-companions.md, third paragraph (his second), second sentence; the chapter is shared with St. Dionysius, whose card `denis` has it as lifeChapter, and its Reflection is about the Saints in general, so this card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Louis Bertrand (saint) (lead: Zurbarán, St. Louis Bertrand)",
+        "url": "https://en.wikipedia.org/wiki/Louis_Bertrand_(saint)"
+      },
+      {
+        "title": "Wikipedia (es), Luis Beltrán (santo)",
+        "url": "https://es.wikipedia.org/wiki/Luis_Beltr%C3%A1n_(santo)"
+      },
+      {
+        "title": "Santi e Beati, San Luigi Bertran (Roman Martyrology entry, 9 October)",
+        "url": "https://www.santiebeati.it/dettaglio/73695"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-09-dionysius-and-his-companions (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-09-dionysius-and-his-companions.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

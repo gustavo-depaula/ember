@@ -1,0 +1,45 @@
+{
+  "id": "ursula",
+  "feast": {
+    "month": 10,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Ursula",
+    "pt-BR": "Santa Úrsula"
+  },
+  "patronOf": {
+    "en-US": "Patroness of young people and teachers",
+    "pt-BR": "Padroeira dos jovens e dos educadores"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the estimation of the wise man, \"the guarding of virtue\" is the most important part of the education of youth.",
+    "pt-BR": "Na estimação do sábio, \"a guarda da virtude\" é a parte mais importante da educação da juventude."
+  },
+  "lifeChapter": "oct-21-ursula",
+  "meta": {
+    "face": "A Romano-British maiden of about nineteen with a fair, clear, lightly freckled complexion and a LONG OVAL face whose length is in a LONG LOWER FACE and a STRONG, ROUNDED chin — a smooth, moderate forehead, a straight GRECIAN nose running on in one line from the brow, LARGE, deep-set, clear grey eyes under STRONG, straight, auburn brows, smooth, lean cheeks, a LONG upper lip and a full, calm, closed mouth; thick COPPER-RED hair in two long plaits over the shoulders under the circlet; the gaze steady and protective. The two maidens behind her are small, one dark-haired and round-faced, one fair and fine-boned, their eyes lowered. Not the young, soft-oval agnes, lucy or cecilia, the short, square margaret_antioch, the long, narrow, golden-haired rosalia, the high-foreheaded euphrasia, or the convex-profiled julia_corsica.",
+    "basis": "No likeness survives. The card follows her usual emblems (Wikipedia; Santi e Beati: palm, arrow, crown, banner, the mantle sheltering her companions; Crivelli's panel in the lead image), the book's British origin and her flight to the Rhine near Cologne; the red hair and strong chin are ours, for a Briton.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-21-ursula.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Ursula (lead: Carlo Crivelli, St. Ursula)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Ursula"
+      },
+      {
+        "title": "Santi e Beati, Sant'Orsola e compagne (Roman Martyrology entry, 21 October)",
+        "url": "https://www.santiebeati.it/dettaglio/74550"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-21-ursula (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-21-ursula.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}

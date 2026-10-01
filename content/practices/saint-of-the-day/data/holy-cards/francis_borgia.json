@@ -1,0 +1,49 @@
+{
+  "id": "francis_borgia",
+  "feast": {
+    "month": 10,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Francis Borgia",
+    "pt-BR": "São Francisco de Borja"
+  },
+  "patronOf": {
+    "en-US": "Superior General of the Jesuits",
+    "pt-BR": "Superior-geral dos jesuítas"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Francis Borgia learnt the worthlessness of earthly greatness at the funeral of Queen Isabella. Do the deaths of friends teach us aught about ourselves?",
+    "pt-BR": "São Francisco de Borja aprendeu a inutilidade da grandeza terrena no funeral da Rainha Isabel. Acaso as mortes dos amigos nos ensinam algo acerca de nós mesmos?"
+  },
+  "lifeChapter": "oct-10-francis-borgia",
+  "meta": {
+    "face": "A Spanish grandee of about sixty, TALL and gaunt, with a pale, olive complexion and a very LONG face under a HIGH, SMOOTH, egg-shaped BALD DOME with only a narrow fringe of short grey hair above the ears — a tall forehead, a LONG, LARGE nose, straight in the bridge and ending in a FULL, slightly DROOPING tip, dark, gentle eyes that SLANT DOWN at the outer corners under heavy lids, with dark shadows beneath, level grey brows, sharp cheekbones over LONG, HOLLOW cheeks, a NARROW, long jaw; a THIN grey moustache and a SMALL grey tuft on the chin, the cheeks shaven; the gaze lowered, sorrowful and kind. Not the round-faced, dark-bearded ignatius_loyola, the domed but short-faced, round-eyed antoninus_florence, the broad-jawed turibius, or the triangular john_capistrano.",
+    "basis": "The Spanish portrait on Wikipedia (lead image, crop in `crops.jpg`) gives the high bald dome, the long face and long nose, the down-turned eyes and the small grey moustache and chin tuft; the crowned skull is his usual emblem and matches the book's story of Queen Isabella's funeral.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-10-francis-borgia.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Francis Borgia (lead: San Francisco de Borja)",
+        "url": "https://en.wikipedia.org/wiki/Francis_Borgia"
+      },
+      {
+        "title": "Wikipedia (es), Francisco de Borja",
+        "url": "https://es.wikipedia.org/wiki/Francisco_de_Borja"
+      },
+      {
+        "title": "Santi e Beati, San Francesco Borgia (Roman Martyrology entry, 30 September)",
+        "url": "https://www.santiebeati.it/dettaglio/73800"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-10-francis-borgia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-10-francis-borgia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-37.md."
+      }
+    ]
+  }
+}
