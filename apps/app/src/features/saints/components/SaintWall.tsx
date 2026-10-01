@@ -1,10 +1,10 @@
 import type { Copy } from '@ember/holy-cards'
 import { Link } from 'expo-router'
 import type { ReactElement } from 'react'
-import { useEffect, useMemo } from 'react'
+import { memo, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
-import { XStack, YStack } from 'tamagui'
+import { View, XStack, YStack } from 'tamagui'
 import { Typography } from '@/components/typography'
 import type { SaintEntry } from '../data/catalog'
 import { useHeldCards } from '../data/collection'
@@ -99,10 +99,15 @@ function buildSections(
   }))
 }
 
+// Rows drawn with the screen, then per step: mounting every card at once froze
+// the app for seconds when the gallery opened.
+const firstRows = 6
+const rowsPerStep = 10
+
 // The grouped gallery, rendered inline so it lives inside the screen's own
-// ScrollView (which lets the header flourish bleed into the notch). At the
-// current card count this needs no virtualization; revisit if the full
-// sanctoral (hundreds) is ever shown at once.
+// ScrollView (which lets the header flourish bleed into the notch). It isn't
+// virtualized; it fills in a few rows at a time instead, over a spacer the height
+// of the rows still to come, so the scroll length doesn't grow under the thumb.
 export function SaintWall({
   saints,
   grouping,
@@ -138,10 +143,30 @@ export function SaintWall({
     setOrderedIds(orderedIds)
   }, [orderedIds, setOrderedIds])
 
+  const totalRows = sections.reduce((n, section) => n + section.data.length, 0)
+  // Start over on a new view, not on each keystroke of a search.
+  const view = searching ? 'search' : grouping
+  const [drawn, setDrawn] = useState({ view, rows: firstRows })
+  const rows = drawn.view === view ? drawn.rows : firstRows
+  useEffect(() => {
+    if (rows >= totalRows) return
+    // A frame between steps keeps scrolling and taps alive while the wall fills in.
+    const frame = requestAnimationFrame(() => setDrawn({ view, rows: rows + rowsPerStep }))
+    return () => cancelAnimationFrame(frame)
+  }, [rows, totalRows, view])
+
+  let budget = rows
+  const visible = sections.flatMap((section) => {
+    const data = section.data.slice(0, budget)
+    budget -= data.length
+    return data.length > 0 ? [{ ...section, data }] : []
+  })
+  const rowHeight = itemWidth * 1.5 + gap
+
   return (
     <YStack>
       {ListHeaderComponent}
-      {sections.map((section) => (
+      {visible.map((section) => (
         <YStack key={section.key} gap={gap} paddingTop="$lg">
           <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
             {section.title}
@@ -162,11 +187,21 @@ export function SaintWall({
           </YStack>
         </YStack>
       ))}
+      <View height={Math.max(0, totalRows - rows) * rowHeight} />
     </YStack>
   )
 }
 
-function SaintTile({ saint, width, label }: { saint: SaintEntry; width: number; label: string }) {
+// Memoized: each step re-renders the wall, and the rows already drawn shouldn't.
+const SaintTile = memo(function SaintTile({
+  saint,
+  width,
+  label,
+}: {
+  saint: SaintEntry
+  width: number
+  label: string
+}) {
   return (
     // The `[index]` route param carries the saint's id (the viewer locates it in
     // the wall's published order), not a positional index. A plain Link (not the
@@ -177,4 +212,4 @@ function SaintTile({ saint, width, label }: { saint: SaintEntry; width: number; 
       </Pressable>
     </Link>
   )
-}
+})
