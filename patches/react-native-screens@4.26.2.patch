@@ -1,5 +1,5 @@
 diff --git a/ios/RNSScreen.h b/ios/RNSScreen.h
-index b1f482c..225ae68 100644
+index b1f482c10bcbf1b298c48f3feaa9a7b351a7f6af..225ae68d974bebf86fe494ac1d3653f15a26cd31 100644
 --- a/ios/RNSScreen.h
 +++ b/ios/RNSScreen.h
 @@ -105,6 +105,7 @@ NS_ASSUME_NONNULL_BEGIN
@@ -11,7 +11,7 @@ index b1f482c..225ae68 100644
  // Props controlling UISheetPresentationController
  @property (nonatomic) NSArray<NSNumber *> *sheetAllowedDetents;
 diff --git a/ios/RNSScreen.mm b/ios/RNSScreen.mm
-index 9b66012..031c8e0 100644
+index 9b66012dc8db1e3af0cb5457f8dad86e7f2fe5e3..031c8e0110f14452788e804befee528dd4a22367 100644
 --- a/ios/RNSScreen.mm
 +++ b/ios/RNSScreen.mm
 @@ -1283,6 +1283,8 @@ - (void)updateProps:(react::Props::Shared const &)props oldProps:(react::Props::
@@ -24,7 +24,7 @@ index 9b66012..031c8e0 100644
    [self setSheetCornerRadius:newScreenProps.sheetCornerRadius];
    [self setSheetExpandsWhenScrolledToEdge:newScreenProps.sheetExpandsWhenScrolledToEdge];
 diff --git a/ios/RNSScreenStack.mm b/ios/RNSScreenStack.mm
-index 192f5d2..e7804db 100644
+index 192f5d2c77192f323844b0d11ee179081891e7a4..8070df6cbb04c8c0c238cecd6fada4f8c7e0bf10 100644
 --- a/ios/RNSScreenStack.mm
 +++ b/ios/RNSScreenStack.mm
 @@ -252,6 +252,83 @@ - (void)navigationController:(UINavigationController *)navigationController
@@ -82,11 +82,14 @@ index 192f5d2..e7804db 100644
 +    if (hidden != wasHidden) {
 +      [tabBarController setTabBarHidden:hidden animated:animated];
 +    }
++    // Re-place the field now, with the bar already marked visible, so it rides
++    // back in with the tab bar. Waiting for the transition to finish leaves it
++    // in the navigation bar for the whole pop and then jumps it down.
++    if (wasHidden && !hidden) {
++      [RNSScreenStackView reattachSearchControllerOf:screenView.controller];
++    }
 +    id<UIViewControllerTransitionCoordinator> coordinator = navigationController.transitionCoordinator;
 +    if (!animated || coordinator == nil) {
-+      if (wasHidden && !hidden) {
-+        [RNSScreenStackView reattachSearchControllerOf:navigationController.topViewController];
-+      }
 +      return;
 +    }
 +    // A cancelled interactive pop leaves the old screen on top; settle on
@@ -102,9 +105,6 @@ index 192f5d2..e7804db 100644
 +                                   if (topHidden != tabBarController.isTabBarHidden) {
 +                                     [tabBarController setTabBarHidden:topHidden animated:YES];
 +                                   }
-+                                   if (wasHidden && !topHidden) {
-+                                     [RNSScreenStackView reattachSearchControllerOf:top];
-+                                   }
 +                                 }];
 +  }
 +#endif
@@ -112,7 +112,7 @@ index 192f5d2..e7804db 100644
  
  - (void)presentationControllerDidDismiss:(UIPresentationController *)presentationController
 diff --git a/lib/typescript/types.d.ts b/lib/typescript/types.d.ts
-index 10a3134..0185374 100644
+index 10a31341f4eff258a7f8ea6abae3eddf0dd21218..01853742dffe1d207dae3b8af3fd433a26c1680b 100644
 --- a/lib/typescript/types.d.ts
 +++ b/lib/typescript/types.d.ts
 @@ -142,6 +142,12 @@ export interface ScreenProps extends ViewProps {
@@ -129,7 +129,7 @@ index 10a3134..0185374 100644
       * Whether the keyboard should hide when swiping to the previous screen. Defaults to `false`.
       *
 diff --git a/src/fabric/ScreenNativeComponent.ts b/src/fabric/ScreenNativeComponent.ts
-index 4fa781c..d986d61 100644
+index 4fa781c2612781fa7a14800a6e5b025e3ee32ec8..d986d614c24e9c5ac4507981ed04b5d9b42dcc18 100644
 --- a/src/fabric/ScreenNativeComponent.ts
 +++ b/src/fabric/ScreenNativeComponent.ts
 @@ -97,6 +97,7 @@ export interface NativeProps extends ViewProps {
@@ -141,7 +141,7 @@ index 4fa781c..d986d61 100644
    gestureEnabled?: CT.WithDefault<boolean, true>;
    statusBarColor?: ColorValue | undefined;
 diff --git a/src/types.tsx b/src/types.tsx
-index 9c3ab4c..a77ec02 100644
+index 9c3ab4c3653ee1769addda8a6464cdf49695a601..a77ec02774b8706f1596dcef2a69e02ab389fbe8 100644
 --- a/src/types.tsx
 +++ b/src/types.tsx
 @@ -218,6 +218,15 @@ export interface ScreenProps extends ViewProps {

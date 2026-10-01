@@ -16,8 +16,8 @@ export const unstable_settings = {
 // overlay and taps go dead app-wide after leaving the book; on the Mass Times
 // root map, its own sheet owns the bottom edge. The native stack hides the bar
 // in step with the push/pop and puts the Search tab's field back in the tab bar
-// afterwards (patches/react-native-screens); toggling NativeTabs' `hidden` from
-// JS lands mid-transition instead, flickering the bar.
+// as the bar returns (patches/react-native-screens); toggling NativeTabs'
+// `hidden` from JS lands mid-transition instead, flickering the bar.
 const fullScreenRoutes = new Set([
   'pray',
   'redeem',
