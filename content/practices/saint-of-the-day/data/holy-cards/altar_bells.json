@@ -1,0 +1,40 @@
+{
+  "id": "altar_bells",
+  "name": {
+    "en-US": "Altar bells",
+    "pt-BR": "Campainhas do altar"
+  },
+  "patronOf": {
+    "en-US": "The call to adore",
+    "pt-BR": "O chamado à adoração"
+  },
+  "prayerExcerpt": {
+    "en-US": "After the last reading from the Old Testament with its Responsorial Psalm and its prayer, the altar candles are lit, and the Priest intones the hymn Gloria in excelsis Deo (Glory to God in the highest), which is taken up by all, while bells are rung, according to local custom.",
+    "pt-BR": "Depois da última leitura do Antigo Testamento, com seu salmo e sua oração, acendem-se as velas do altar e o sacerdote entoa o hino Glória a Deus nas alturas, que todos cantam, enquanto se tocam os sinos, segundo o costume do lugar."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'A little before the Consecration, if appropriate, a minister rings a small bell as a signal to the faithful. The minister also rings the small bell at each elevation by the Priest, according to local custom' (GIRM 150). The bells are silent from the Gloria of Holy Thursday to the Gloria of the Easter Vigil, when they are rung again (the excerpt's rubric; Catholic Encyclopedia, 'Altar Bell'). The GIRM names 'a small bell'; the cluster of four brass bells on one handle is a traditional form, chosen for the catalog's plural.",
+    "excerpt": "content/of/formularies/tempore/holy-week/easter-vigil.json parts.liturgyOfTheWord rubric 31 (the Gloria of the Easter Vigil; en-US its number '31.' dropped, pt-BR the stray space before the comma after 'nas alturas' removed; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 150 (a small bell rung before the Consecration and at the elevations)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, The Easter Vigil, the Gloria, rubric 31 (content/of/formularies/tempore/holy-week/easter-vigil.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/easter-vigil.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Altar Bell' (content/books/catholic-encyclopedia/en-US/01349b.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/01349b.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

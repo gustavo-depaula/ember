@@ -1,0 +1,40 @@
+{
+  "id": "stole",
+  "name": {
+    "en-US": "Stole",
+    "pt-BR": "Estola"
+  },
+  "patronOf": {
+    "en-US": "The mark of holy orders",
+    "pt-BR": "O sinal da ordem sagrada"
+  },
+  "prayerExcerpt": {
+    "en-US": "Quick! Bring out the best robe and put it on him.",
+    "pt-BR": "Trazei depressa a melhor túnica para vestir meu filho."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'The stole is worn by the Priest around his neck and hanging down in front of his chest, while it is worn by the Deacon over his left shoulder' (GIRM 340); it is prepared for both with the alb (GIRM 119), the mark of their orders (Catholic Encyclopedia, 'Stole'). It follows the colour of the day (GIRM 346): the card shows violet, the colour of Advent and Lent (346d), because the excerpt is the Lenten Gospel of Saturday of the Second Week of Lent and the violet sets it apart from the white linens of this batch. The crosses at the ends and the middle are traditional; the Church prescribes only the one in the middle (Catholic Encyclopedia). The excerpt's 'best robe' is 'stolam primam' in the Vulgate (content/do Quad2-6).",
+    "excerpt": "content/of/formularies/tempore/lent/week-2/saturday.json readings.default.gospel body (Luke 15:22; en-US cut before '; put a ring' and closed with a full stop; pt-BR one sentence verbatim)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 340, 346 (how priest and deacon wear the stole; the colours)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Saturday of the Second Week of Lent, Gospel (Lk 15) (content/of/formularies/tempore/lent/week-2/saturday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/lent/week-2/saturday.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Stole' (content/books/catholic-encyclopedia/en-US/14301a.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/14301a.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

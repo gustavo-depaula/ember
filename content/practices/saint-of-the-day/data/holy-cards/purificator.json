@@ -1,0 +1,36 @@
+{
+  "id": "purificator",
+  "name": {
+    "en-US": "Purificator",
+    "pt-BR": "Sanguinho"
+  },
+  "patronOf": {
+    "en-US": "The sacred vessels kept clean",
+    "pt-BR": "Os vasos sagrados guardados puros"
+  },
+  "prayerExcerpt": {
+    "en-US": "What has passed our lips as food, O Lord, may we possess in purity of heart, that what has been given to us in time may be our healing for eternity.",
+    "pt-BR": "Fazei, Senhor, que conservemos num coração puro o que a nossa boca recebeu. E que esta dádiva temporal se transforme para nós em remédio eterno."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The purificator is prepared on the credence table (GIRM 118c) and placed on the altar with the corporal and chalice (GIRM 139). After Communion the priest purifies the vessels 'saying quietly the formula Quod ore sumpsimus, Domine (What has passed our lips), and dries the chalice with a purificator' (GIRM 163); 'the paten is wiped clean as usual with the purificator' (GIRM 279). The words of the excerpt are that formula. The GIRM gives no form: a white linen oblong folded in three with a small cross is the traditional one, not a prescribed one.",
+    "excerpt": "content/of/order/order-of-mass.json order.communion-silent (the prayer said during the purification of the vessels, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 139, 163, 279 (the purificator prepared; the chalice dried and the paten wiped with it at the purification)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: Communion, the prayer at the purification of the vessels (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

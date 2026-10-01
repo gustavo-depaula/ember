@@ -1,0 +1,44 @@
+{
+  "id": "amice",
+  "name": {
+    "en-US": "Amice",
+    "pt-BR": "Amito"
+  },
+  "patronOf": {
+    "en-US": "The helmet of salvation",
+    "pt-BR": "O capacete da salvação"
+  },
+  "prayerExcerpt": {
+    "en-US": "And then you must accept salvation from God to be your helmet and receive the word of God from the Spirit to use as a sword.",
+    "pt-BR": "Tomai, enfim, o capacete da salvação e o gládio do espírito, isto é, a Palavra de Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'Before the alb is put on, should this not completely cover the ordinary clothing at the neck, an amice should be used' (GIRM 336); all who wear an alb should use a cincture and an amice 'unless, due to the form of the alb, they are not needed' (GIRM 119). The GIRM gives no form: an oblong of white linen with a small cross in the middle and two tapes is the traditional amice, whose vesting prayer calls it galeam salutis, 'the helmet of salvation' (Catholic Encyclopedia, 'Amice'), the words of Eph 6:17 in the excerpt, from the First Reading of Thursday of the Thirtieth Week in Ordinary Time, Year II. White linen: the norms give it no colour.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-30/thursday.json readings.II.firstReading body (Ephesians 6:17, one sentence; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 336 (the amice under the alb)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 119 (cincture and amice with the alb)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Thursday of the Thirtieth Week in Ordinary Time, Year II, First Reading (Eph 6) (content/of/formularies/tempore/ordinary-time/week-30/thursday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-30/thursday.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Amice' (content/books/catholic-encyclopedia/en-US/01428c.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/01428c.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

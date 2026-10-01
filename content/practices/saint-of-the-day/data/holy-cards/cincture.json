@@ -1,0 +1,40 @@
+{
+  "id": "cincture",
+  "name": {
+    "en-US": "Cincture",
+    "pt-BR": "Cíngulo"
+  },
+  "patronOf": {
+    "en-US": "Readiness for the Lord's coming",
+    "pt-BR": "A prontidão para a vinda do Senhor"
+  },
+  "prayerExcerpt": {
+    "en-US": "Gird your loins and light your lamps.",
+    "pt-BR": "Que vossos rins estejam cingidos e as lâmpadas acesas."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The alb is 'tied at the waist with a cincture unless it is made so as to fit even without such' (GIRM 336; also GIRM 119). The GIRM gives no form or colour. A cord of linen with tassels at its ends is the traditional cincture, white here with the alb; its symbolism of watchfulness comes from 'Sint lumbi vestri praecincti' (Catholic Encyclopedia, 'Cincture'), Lk 12:35, the excerpt, from the Gospel of Saint Raymond of Penyafort (7 January). The oil lamp beside it is the verse's other half.",
+    "excerpt": "content/of/formularies/sanctoral/01-07.json readings.default.gospel body (Luke 12:35; en-US its opening quotation mark dropped and the sentence cut before ' and be like servants', closed with a full stop; pt-BR one sentence after its opening quotation mark, verbatim)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 336 (the alb tied with a cincture)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Saint Raymond of Penyafort, Gospel (Lk 12:35-40) (content/of/formularies/sanctoral/01-07.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/sanctoral/01-07.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Cincture' (content/books/catholic-encyclopedia/en-US/03776a.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/03776a.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

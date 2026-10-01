@@ -1,0 +1,44 @@
+{
+  "id": "corporal",
+  "name": {
+    "en-US": "Corporal",
+    "pt-BR": "Corporal"
+  },
+  "patronOf": {
+    "en-US": "The linen beneath the Body of the Lord",
+    "pt-BR": "O linho sob o Corpo do Senhor"
+  },
+  "prayerExcerpt": {
+    "en-US": "Then he places the paten with the bread on the corporal.",
+    "pt-BR": "Em seguida, coloca a patena com o pão sobre o corporal."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The corporal is prepared on the credence table (GIRM 118c) and spread on the altar at the Preparation of the Gifts (GIRM 139), where the paten and chalice are placed on it (the excerpt's rubric; GIRM 151); the altar itself bears 'at least one cloth, white in color' (GIRM 304). The GIRM fixes no material or form: the square of pure white linen, folded in three each way, with at most a small cross, is the traditional corporal (Catholic Encyclopedia, 'Corporal').",
+    "excerpt": "content/of/order/order-of-mass.json order.preparation-of-gifts (the rubric after the blessing over the bread; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 139, 151 (the corporal on the credence table, spread on the altar; paten and chalice placed on it)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 304 (at least one white cloth on the altar)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the paten placed on the corporal (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Corporal' (content/books/catholic-encyclopedia/en-US/04386c.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/04386c.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

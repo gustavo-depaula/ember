@@ -1,0 +1,44 @@
+{
+  "id": "thurible",
+  "name": {
+    "en-US": "Thurible and boat",
+    "pt-BR": "Turíbulo e naveta"
+  },
+  "patronOf": {
+    "en-US": "Prayer rising before God",
+    "pt-BR": "A oração que sobe a Deus"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let my prayer come like incense before you.",
+    "pt-BR": "Minha oração suba a vós como incenso!"
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'Thurification or incensation is an expression of reverence and of prayer, as is signified in Sacred Scripture (cf. Ps 141 [140]:2; Rev 8:3)' (GIRM 276), the verse of the excerpt. On Sundays and festive days 'a thurible and incense boat, if incense is being used' are prepared (GIRM 119), and the thurifer carries 'a smoking thurible' in the Entrance Procession (GIRM 120a); the priest puts incense into the thurible and blesses it (GIRM 277). The form is not prescribed: a cup on a base with a pierced lid on chains, and a boat for the incense, is the traditional one (Catholic Encyclopedia, 'Censer' and 'Incense').",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-7/saturday.json readings.II.psalm response (Psalm 141:2, the refrain of the Responsorial Psalm; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 119–120, 276–277 (thurible and incense boat prepared; incense a sign of prayer (Ps 141:2))",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Saturday of the Seventh Week in Ordinary Time, Year II, Responsorial Psalm (Ps 141) (content/of/formularies/tempore/ordinary-time/week-7/saturday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-7/saturday.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Censer' (content/books/catholic-encyclopedia/en-US/03519c.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/03519c.md"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Incense' (content/books/catholic-encyclopedia/en-US/07716a.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/07716a.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

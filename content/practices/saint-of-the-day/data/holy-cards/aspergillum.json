@@ -1,0 +1,36 @@
+{
+  "id": "aspergillum",
+  "name": {
+    "en-US": "Aspergillum",
+    "pt-BR": "Aspersório"
+  },
+  "patronOf": {
+    "en-US": "The memorial of Baptism",
+    "pt-BR": "A memória do Batismo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Afterward, taking the aspergillum, the priest sprinkles himself and the ministers, then the clergy and people, moving through the church, if appropriate.",
+    "pt-BR": "Tomando então o aspersório, o sacerdote asperge a si mesmo, os ministros, em seguida o clero e o povo, percorrendo a igreja, se for oportuno."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "On Sundays, especially in Easter Time, the blessing and sprinkling of water 'as a memorial of Baptism' may take the place of the Penitential Act (the rite's opening rubric); 'the vessel of water to be blessed' is prepared on the credence table (GIRM 118c), and after the blessing the priest takes the aspergillum and sprinkles himself, the ministers and the people (the excerpt's rubric). The Missal gives the aspergillum no form: the silver bucket and the rod with a pierced ball are the traditional pair, a choice.",
+    "excerpt": "content/of/order/order-of-mass.json order.sprinkling-rite (the rubric after the blessing of the water and salt; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "The Roman Missal, Order of Mass: the Rite for the Blessing and Sprinkling of Water, the sprinkling with the aspergillum (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 118 (the vessel of water to be blessed, if the sprinkling takes place)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}

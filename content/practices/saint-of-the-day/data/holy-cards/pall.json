@@ -1,0 +1,40 @@
+{
+  "id": "pall",
+  "name": {
+    "en-US": "Pall",
+    "pt-BR": "Pala"
+  },
+  "patronOf": {
+    "en-US": "The covering of the chalice",
+    "pt-BR": "A cobertura do cálice"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blessed are you, Lord God of all creation, for through your goodness we have received the wine we offer you: fruit of the vine and work of human hands, it will become our spiritual drink.",
+    "pt-BR": "Bendito sejais, Senhor, Deus do universo, pelo vinho que recebemos de vossa bondade, fruto da videira e do trabalho humano, que agora vos apresentamos, e para nós se vai tornar vinho da salvação."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The pall is prepared on the credence table with the chalice, corporal and purificator 'if appropriate' (GIRM 118c): it is optional, and the GIRM gives it no form. It covers the chalice; the excerpt is the blessing over the wine the chalice holds, said just before it is placed on the corporal. The traditional pall is a stiffened square of linen, one with the corporal in its origin (the corporal once folded back over the chalice) and in its blessing, 'to cover and wrap the Body and Blood of the Lord' (Catholic Encyclopedia, 'Corporal'); its embroidered cross, wheat and grapes are a traditional choice, not a norm.",
+    "excerpt": "content/of/order/order-of-mass.json order.preparation-of-gifts (the blessing over the wine in the chalice, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118 (the pall on the credence table, if appropriate)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the blessing over the wine (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Corporal' (content/books/catholic-encyclopedia/en-US/04386c.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/04386c.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-50.md."
+      }
+    ]
+  }
+}
