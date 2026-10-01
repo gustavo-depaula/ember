@@ -52,7 +52,7 @@ Described from the `michael_archangel` card, which has no written face; first us
 
 The empress at about seventy-eight (Eusebius: about eighty at her return from Palestine), a LONG, dignified face narrowing to a FIRM, slightly prominent chin — a high forehead, a STRONG, STRAIGHT ROMAN NOSE running on from the line of the brow, large deep-set grey-brown eyes under thin, arched silver brows, lean cheeks with fine lines at the eyes and mouth; silver-white hair waved back from the brow and gathered in a low bun at the nape, as on her coins, under a white veil and a slender jewelled gold diadem; a white stola bordered in gold and a deep purple imperial mantle.
 
-First written for `discovery_cross`; her own card (18 Aug) uses it too. Keep her apart from the middle-aged crowned woman in red on `exaltation_cross`.
+First written for `discovery_cross`; her own card `helena` (18 Aug, batch 34) uses it word for word. Keep her apart from the middle-aged crowned woman in red on `exaltation_cross`.
 
 ## St. John in later scenes
 

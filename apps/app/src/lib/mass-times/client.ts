@@ -71,9 +71,14 @@ export function fetchViewport(
 
 export async function searchChurches(
   q: string,
-  opts: { kind?: ServiceKind; limit?: number } = {},
+  opts: { kind?: ServiceKind; limit?: number; near?: { lat: number; lng: number } } = {},
 ): Promise<Church[]> {
-  const { churches } = await getJson<{ churches: Church[] }>('/churches', { q, ...opts })
+  const { near, ...rest } = opts
+  const { churches } = await getJson<{ churches: Church[] }>('/churches', {
+    q,
+    ...rest,
+    ...(near ? { near: `${near.lat},${near.lng}` } : {}),
+  })
   return churches
 }
 

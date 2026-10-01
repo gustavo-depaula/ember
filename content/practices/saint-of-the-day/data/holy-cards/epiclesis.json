@@ -1,0 +1,40 @@
+{
+  "id": "epiclesis",
+  "name": {
+    "en-US": "Epiclesis",
+    "pt-BR": "Epiclese"
+  },
+  "patronOf": {
+    "en-US": "The Church calls down the Holy Spirit",
+    "pt-BR": "A Igreja invoca o Espírito Santo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall, so that they may become for us the Body and Blood of our Lord Jesus Christ.",
+    "pt-BR": "Santificai, pois, estes dons, derramando sobre eles o vosso Espírito, a fim de que se tornem para nós o Corpo e o Sangue de nosso Senhor Jesus Cristo."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "In the Second Eucharistic Prayer the priest 'joins his hands and, holding them extended over the offerings' says the epiclesis, then makes the Sign of the Cross over the bread and chalice together (the Order of Mass rubric; GIRM 79c: the Church implores the power of the Holy Spirit on the gifts). A little before the Consecration a minister may ring a small bell (GIRM 150); the faithful kneel after the Sanctus (GIRM 43, USCCB). The dove is glass in the church's window.",
+    "excerpt": "content/of/order/order-of-mass.json eucharisticPrayers order.eucharistic-prayer.2 (the epiclesis, the rubrics between its lines and the ✠ dropped, lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 79 (kneeling after the Sanctus; the epiclesis)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 150 (the small bell before the Consecration)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: Eucharistic Prayer II, the epiclesis (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-47.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pier_giorgio_frassati",
+  "feast": {
+    "month": 7,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Pier Giorgio Frassati",
+    "pt-BR": "São Pier Giorgio Frassati"
+  },
+  "patronOf": {
+    "en-US": "Man of the Beatitudes",
+    "pt-BR": "Homem das Bem-aventuranças"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Jesus visits me every morning in Communion; I return the visit in the poor way I can, by visiting the poor.\"",
+    "pt-BR": "\"Jesus me visita todas as manhãs na Comunhão; eu retribuo a visita do modo pobre que posso, visitando os pobres.\""
+  },
+  "meta": {
+    "face": "A young Turinese of twenty-four, clean-shaven, with a warm olive complexion and a BROAD, SQUARE face — a low, wide forehead under thick, glossy black hair brushed UP and back from the brow and cut short at the sides, THICK, straight, nearly level black brows set LOW over deep-set, dark, steady eyes, a strong, straight nose with a broad bridge, broad, flat cheekbones, full lips closed in a slight smile, and a strong, SQUARE chin; the gaze open, frank and cheerful. A sturdy young man, not a soft, slender, beardless youth like aloysius_gonzaga.",
+    "basis": "His photographs (Wikimedia Commons: the arms-crossed portrait from Luciana Frassati's 'Una vita in immagini', the climbing photographs of 1924-25; the Dicastery's portrait): a broad, square face under thick black hair brushed up, thick low level brows over deep-set eyes, a strong straight nose, full lips and a square chin. The rope and ice axe are for the climbs he made with friends; the Dicastery recalls that on his last mountain photograph, in the Val di Lanzo, he wrote 'Verso l'alto'.",
+    "excerpt": "His words «Gesù mi fa visita ogni mattina nella Comunione, io la restituisco nel misero modo che posso, visitando i poveri», quoted on the Dicastery's page; our rendering (he died in 1925)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, PierGiorgioFrassati-Présentation.jpg (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:PierGiorgioFrassati-Présentation.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, PierGiorgioFrassati-Alpiniste.jpg (climbing photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:PierGiorgioFrassati-Alpiniste.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Pier Giorgio Frassati (biography; 'Verso l'alto')",
+        "url": "https://www.causesanti.va/it/santi-e-beati/pier-giorgio-frassati.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

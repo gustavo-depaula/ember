@@ -1,0 +1,41 @@
+{
+  "id": "apparition_michael",
+  "feast": {
+    "month": 5,
+    "day": 8
+  },
+  "name": {
+    "en-US": "The Apparition of St. Michael the Archangel",
+    "pt-BR": "A Aparição de São Miguel Arcanjo"
+  },
+  "patronOf": {
+    "en-US": "Michael appears on Monte Gargano",
+    "pt-BR": "Miguel aparece no Monte Gargano"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Michael is not only the protector of the Church, but of every faithful soul.",
+    "pt-BR": "São Miguel não é apenas o protetor da Igreja, mas de toda alma fiel."
+  },
+  "lifeChapter": "may-08-the-apparition-of-st-michael-the-archangel",
+  "meta": {
+    "face": "St. Michael as on the michael_archangel card and in recurring-figures.md: a radiant youthful angel with a softly OVAL face, a smooth brow, a fine straight nose, large clear blue-grey eyes under lightly arched golden brows, rosy rounded cheeks, a small firm mouth, a gently rounded chin; thick golden curls to the jaw; a gold halo; great white wings; a silver breastplate trimmed in gold over a blue skirt, a billowing red-orange mantle; here grave and gentle, commanding, not fighting. The bishop is clearly different: about sixty, a BROAD, LOW-BROWED face with heavy cheekbones, a short blunt nose, small kind dark eyes, a wide mouth; a white tonsured fringe and a short rounded white-grey beard.",
+    "basis": "The Pictorial Lives recalls that St. Michael, in a vision, told the bishop of Siponto to build a church in his honour on Monte Gargano; the Gargano legend (Liber de apparitione, Golden Legend) adds the bull that led the herdsmen to the cave. Michael keeps the face and armour of the michael_archangel card; the bishop's face is new.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 05-08 reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia: Sanctuary of Monte Sant'Angelo",
+        "url": "https://en.wikipedia.org/wiki/Sanctuary_of_Monte_Sant%27Angelo"
+      },
+      {
+        "title": "Golden Legend: Saint Michael the Archangel (Caxton, Fordham Medieval Sourcebook)",
+        "url": "https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "valentine",
+  "feast": {
+    "month": 2,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Valentine",
+    "pt-BR": "São Valentim"
+  },
+  "patronOf": {
+    "en-US": "Priest and martyr",
+    "pt-BR": "Sacerdote e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the cause of justice and truth, prudence should not be held in account; otherwise prudence is mere human respect.",
+    "pt-BR": "Na causa da justiça e da verdade, a prudência não deve ser levada em conta; do contrário, a prudência é mero respeito humano."
+  },
+  "lifeChapter": "feb-14-valentine",
+  "meta": {
+    "face": "A Roman of about fifty with a warm olive complexion and an OBLONG face — prominent, ROUNDED cheekbones that lift when he smiles, a broad, straight nose, dark-brown eyes that CRINKLE at the corners under softly arched dark brows, deep SMILE LINES, and a notably WIDE, generous mouth with full lips in an open, warm smile; short, dark, CURLY hair greying at the temples; a short, rounded dark beard with grey at the chin; his gaze warm and direct.",
+    "basis": "No likeness survives, and the Catholic Encyclopedia finds his Acts 'of no historical value'. The book makes him a Roman priest who helped the martyrs under Claudius II and was beheaded about 270, with a church near the Ponte Mole on the Flaminian Way; its engraving shows him bearded, saying Mass in a prison. Hence the priest's dress, the beard and the Flaminian setting; the broad, smiling face is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-14 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Catholic Encyclopedia (1912), St. Valentine",
+        "url": "https://www.newadvent.org/cathen/15254a.htm"
+      },
+      {
+        "title": "Wikipedia, Saint Valentine (Via Flaminia; relics at Santa Prassede)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Valentine"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-14-valentine (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-14-valentine.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

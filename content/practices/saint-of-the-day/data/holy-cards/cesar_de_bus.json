@@ -1,0 +1,48 @@
+{
+  "id": "cesar_de_bus",
+  "feast": {
+    "month": 4,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. César de Bus",
+    "pt-BR": "São César de Bus"
+  },
+  "patronOf": {
+    "en-US": "Priest and catechist",
+    "pt-BR": "Sacerdote e catequista"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I have seen and read nothing to compare with what God has shown me since I became blind.\"",
+    "pt-BR": "\"Nada vi nem li que se compare ao que Deus me fez ver desde que fiquei cego.\""
+  },
+  "meta": {
+    "face": "A Provençal of about fifty-five with a warm olive complexion and a LONG, RECTANGULAR face under a high forehead, where the dark, grey-streaked hair RECEDES at the temples and is cut short — level dark brows, HEAVY, HALF-LOWERED upper lids over dark eyes cast down (he became blind), a long, straight nose whose tip DIPS a little, flat, hollow-shadowed cheeks below high cheekbones, a FULL lower lip under a thick dark MOUSTACHE that droops at the corners, and a NARROW jaw, the grey-streaked beard trimmed CLOSE on the cheeks and gathered into a SHORT POINT at the chin; the expression inward and peaceful. Not the full, square-jawed beard of camillus.",
+    "basis": "The anonymous portrait of about 1607 in the Musée Carnavalet and the engraved portrait of about 1726 (Rijksmuseum) agree: a long face with receding dark hair, heavy half-lowered lids, a long nose, a drooping moustache and a short pointed beard, in a black soutane with a white collar, hands joined. The Dicastery's biography says he went blind in later life and kept preaching and confessing.",
+    "excerpt": "His often-repeated saying «Non ho visto né letto nulla a confronto di ciò che Dio mi ha fatto vedere da quando sono cieco», in the Dicastery's biography (French in the diocese of Avignon's page); our rendering (he died in 1607)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Portrait de César de Bus (Musée Carnavalet, P2187)",
+        "url": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Portrait_de_César_de_Bus_(1544-1607),_fondateur_de_la_congrégation_des_Frères_de_la_doctrine_chrétienne_-_P2187_-_Musée_Carnavalet.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Portret van César de Bus (Rijksmuseum RP-P-1910-4894, engraving)",
+        "url": "https://commons.wikimedia.org/wiki/File:Portret_van_César_de_Bus,_RP-P-1910-4894.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, César de Bus (biography)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/cesar-de-bus.html"
+      },
+      {
+        "title": "Diocèse d'Avignon, Bienheureux César de Bus",
+        "url": "https://www.diocese-avignon.fr/Bienheureux-Cesar-de-Bus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

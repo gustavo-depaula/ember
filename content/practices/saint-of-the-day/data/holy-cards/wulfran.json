@@ -1,0 +1,45 @@
+{
+  "id": "wulfran",
+  "feast": {
+    "month": 3,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Wulfran",
+    "pt-BR": "São Wulfrano"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Sens, apostle of Friesland",
+    "pt-BR": "Arcebispo de Sens, apóstolo da Frísia"
+  },
+  "prayerExcerpt": {
+    "en-US": "In every age the Catholic Church is a missionary church.",
+    "pt-BR": "Em toda época, a Igreja Católica é uma igreja missionária."
+  },
+  "lifeChapter": "mar-20-wulfran",
+  "meta": {
+    "face": "A Frank of about sixty with a fair, weathered complexion and a LONG face dominated by a LONG, BROAD, gently DROOPING nose with a big, soft, rounded tip — small, DEEP-SET, warm brown eyes under BUSHY brown-grey brows that ARCH UP toward the centre in an earnest, pleading look, a smooth forehead, lean cheeks, a small mouth, a short, slightly RECEDING chin under a SHORT, FULL, CURLY brown-grey beard; brown-grey hair round a small monk's tonsure; the gaze earnest and compassionate, down toward the child.",
+    "basis": "No likeness survives; Wikipedia's lead image is a Victorian statue at Grantham. The book tells his resignation of Sens, the saving of Ovon from the gibbet and of two children from drowning, and his death at Fontenelle; its engraving shows him lifting Ovon from the gallows. The card keeps a rescued child and leaves the gibbet off. The long face with the big drooping nose and the curly beard is our choice, to keep him from `ansgar`, the clean-shaven square-browed Frankish missionary of the north.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-20 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Wulfram of Sens (Ovon; Friesland; lead image: statue at Grantham)",
+        "url": "https://en.wikipedia.org/wiki/Wulfram_of_Sens"
+      },
+      {
+        "title": "Wikipedia, Fontenelle Abbey",
+        "url": "https://en.wikipedia.org/wiki/Fontenelle_Abbey"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-20-wulfran (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-20-wulfran.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

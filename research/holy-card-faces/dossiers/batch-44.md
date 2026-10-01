@@ -91,3 +91,14 @@ The one Lenten Sunday on which flowers may stand by the altar and the organ play
 - `advent_weekday`, `ordinary_time_1_weekday`, `lent_weekday` and `christmas_weekday` share a composition (a priest from behind at a small altar, a few faithful): told apart by colour, light (candlelit night, clear morning, grey morning, sunrise) and one prop each (hand candles, a nurse and a workman, a Station of the Cross, the crib). If the drafts look alike, change a weekday card's viewpoint first.
 - `gaudete` and `laetare` are both rose; the wreath (Gaudete) and the spring blossom with the organ (Laetare) must stay visible.
 - `christmas_sunday` must read as carved statues, or it repeats `nativity_christ`.
+
+## TLM look (2026-09-30)
+
+Every card now shows the traditional Latin Mass. Only `subject` changed; names, excerpts, `proper`, frame and box stay. Sources, kept in `consult/tlm/`: **RS** = *Ritus servandus in celebratione Missae*, Missale Romanum 1962 (`ritus-servandus-1962-lat.pdf`, from aomoi.net); **F** = Fortescue, *The Ceremonies of the Roman Rite Described* (1920 impression; `fortescue-1920.txt`, archive.org), cited by the line of that file.
+
+- **All eight Mass scenes** (`advent_weekday`, `gaudete`, `christmas_weekday`, `ordinary_time_1_weekday`, `lent_sunday`, `lent_weekday`, `laetare`, and the altar of `christmas_sunday`): a high altar with gradines, crucifix, three altar cards and the tabernacle veiled in the day's colour, with a frontal of the same colour (F l. 2090–2160, 2981–2992); an altar rail with its Communion cloth (F l. 1929–1935). The priest wears a Roman chasuble with maniple over amice and lace alb. At the Low Masses two of the six candles burn; at sung Masses all six burn (F l. 2143–2150). Hands "extended before the breast, no higher than the shoulders" (RS V.1) replace "arms raised".
+- **`lent_sunday`:** the deacon in a violet dalmatic is gone. At a solemn Mass in Lent the ministers wear folded chasubles, not the dalmatic (F l. 2396–2434, 15852 ff.). The card is now a sung Mass with two servers, which avoids that detail.
+- **Flowers** on `gaudete`, `laetare` and `christmas_weekday` move onto the gradine, where the traditional altar holds them (F l. 2084–2086, 2170–2172). On Gaudete and Laetare "the altar is decorated as for feasts, and the organ is played" (F l. 15840–15846), which supports the flowers and the organ on those two cards.
+- **Advent wreath** (`advent_sunday`, `gaudete`) now stands outside the altar rail. It remains a custom, not a rubric.
+- **Faithful:** women's heads are covered (1917 Code, c. 1262 §2, "mulieres autem, capite cooperto"; canonlaw.ninja/?nums=1262&v=1917).
+- `ordinary_time_1_sunday` (the exterior) only gains the high altar and the Roman chasuble seen through the doors, and a woman in a mantilla.

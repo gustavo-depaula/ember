@@ -19,7 +19,7 @@ export function LocationBar({ location }: { location: DeviceLocation }) {
         <XStack alignItems="center" gap="$xs">
           <TriangleAlert size={14} color={theme.colorSecondary?.val} />
           <Typography variant="reference">{t('massTimes.locationFailed')}</Typography>
-          <Typography variant="reference" color="$accent">
+          <Typography variant="reference" color="$color">
             {t('massTimes.tryAgain')}
           </Typography>
         </XStack>
@@ -38,7 +38,7 @@ export function LocationBar({ location }: { location: DeviceLocation }) {
         <XStack alignItems="center" gap="$xs">
           <MapPin size={14} color={theme.colorSecondary?.val} />
           <Typography variant="reference">{t('massTimes.locationDenied')}</Typography>
-          <Typography variant="reference" color="$accent">
+          <Typography variant="reference" color="$color">
             {t('massTimes.openSettings')}
           </Typography>
         </XStack>
@@ -66,8 +66,8 @@ export function LocationBar({ location }: { location: DeviceLocation }) {
         <Typography variant="reference">{t(labelKey)}</Typography>
         {location.isFallback && location.status !== 'locating' ? (
           <XStack alignItems="center" gap={2} marginLeft="$xs">
-            <Navigation size={12} color={theme.accent?.val} />
-            <Typography variant="reference" color="$accent">
+            <Navigation size={12} color={theme.color?.val} />
+            <Typography variant="reference" color="$color">
               {t('massTimes.useMyLocation')}
             </Typography>
           </XStack>

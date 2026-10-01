@@ -1,0 +1,45 @@
+{
+  "id": "hugh_grenoble",
+  "feast": {
+    "month": 4,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Hugh of Grenoble",
+    "pt-BR": "Santo Hugo de Grenoble"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Grenoble",
+    "pt-BR": "Bispo de Grenoble"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us learn from the example of the Saints to shun the tumult of the world as much as our circumstances will allow, and give ourselves up to the exercises of holy solitude, prayer, and pious reading.",
+    "pt-BR": "Aprendamos com o exemplo dos Santos a fugir do tumulto do mundo tanto quanto nossas circunstâncias o permitam, e a entregar-nos aos exercícios da santa solidão, da oração e da leitura piedosa."
+  },
+  "lifeChapter": "apr-01-hugh",
+  "meta": {
+    "face": "A Dauphinois of about seventy, CLEAN-SHAVEN, with a fair, finely wrinkled complexion and a SMALL, delicate, APPLE-ROUND face — a high, rounded, bald dome with a thin fringe of fine white hair, very LARGE, round, clear blue-grey eyes under faint, HIGH-ARCHED white brows, a SMALL, short BUTTON nose, a noticeably LONG, smooth UPPER LIP over a small, soft mouth, softly rounded cheeks webbed with fine lines, a small, round chin; the gaze gentle and a little wistful, lifted from the page.",
+    "basis": "No likeness from life; Zurbarán's 'Saint Hugo in the Refectory' (Wikipedia's lead image) shows him as a stooped, bald old bishop visiting the Carthusians. Wikipedia tells the dream of seven stars in which he saw Bruno and his six companions, and his installing them in the Chartreuse. The book tells his birth at Châteauneuf, his fifty-two years as bishop, his flight to Chaise-Dieu and his longing for solitude. The card leaves the seven stars and the Chartreuse to `bruno`, whose card already shows them, and shows Hugh as the pastor of Grenoble at prayer. The small, apple-round old face with the long upper lip is our choice, apart from `bruno`'s long rectangle.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 04-01 reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Hugh of Châteauneuf (the seven stars; lead image: Zurbarán, Saint Hugo in the Refectory)",
+        "url": "https://en.wikipedia.org/wiki/Hugh_of_Ch%C3%A2teauneuf"
+      },
+      {
+        "title": "Wikipedia, Grenoble Cathedral (Notre-Dame, first mentioned 902)",
+        "url": "https://en.wikipedia.org/wiki/Grenoble_Cathedral"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-01-hugh (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-01-hugh.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "prayer_over_offerings",
+  "name": {
+    "en-US": "Prayer over the Offerings",
+    "pt-BR": "Oração sobre as Oferendas"
+  },
+  "patronOf": {
+    "en-US": "The priest prays over the gifts",
+    "pt-BR": "O sacerdote reza sobre as oferendas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant us, O Lord, we pray, that we may participate worthily in these mysteries, for whenever the memorial of this sacrifice is celebrated the work of our redemption is accomplished.",
+    "pt-BR": "Concedei-nos, Senhor, a graça de participar dignamente destes mistérios, pois todas as vezes que celebramos o memorial do sacrifício do vosso Filho, realiza-se em nós a obra da redenção."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the invitation Pray, brethren, 'the people rise', and 'the Priest, with hands extended, says the Prayer over the Offerings' (GIRM 146, 43, 77), the gifts already on the corporal and the chalice covered with the pall (GIRM 142); the incense haze is left from the incensation of the offerings, the cross and the altar that may follow the Preparation (GIRM 75, 144).",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json prayerOverOfferings (without its conclusion 'Through Christ our Lord.', line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 75, 77 (standing from the Orate, fratres; the incensation; the Prayer over the Offerings)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 142, 144, 146 (the pall; the incensation; the Prayer over the Offerings with hands extended)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Prayer over the Offerings (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-47.md."
+      }
+    ]
+  }
+}

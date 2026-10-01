@@ -34,8 +34,8 @@ function cardImage(id: string): ImageSource {
 // One formatter per build: Intl constructors are slow on Hermes.
 function feastLabeller(lang: string) {
   const format = new Intl.DateTimeFormat(lang, { month: 'long', day: 'numeric' })
-  // Year is arbitrary — only month + day are formatted.
-  return (month: number, day: number) => format.format(new Date(2001, month - 1, day))
+  // Only month + day are formatted; a leap year so 29 Feb (St. Oswald) isn't 1 Mar.
+  return (month: number, day: number) => format.format(new Date(2000, month - 1, day))
 }
 
 type CatalogResult = {
@@ -54,7 +54,7 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
       id: c.id,
       name: localizeContent(c.name),
       feast: c.feast,
-      feastLabel: feastLabel(c.feast.month, c.feast.day),
+      feastLabel: c.feast ? feastLabel(c.feast.month, c.feast.day) : undefined,
       lifeChapter: c.lifeChapter,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),

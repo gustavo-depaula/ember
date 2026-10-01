@@ -1,0 +1,49 @@
+{
+  "id": "catharine_sweden",
+  "feast": {
+    "month": 3,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Catharine of Sweden",
+    "pt-BR": "Santa Catarina da Suécia"
+  },
+  "patronOf": {
+    "en-US": "Abbess of Vadstena",
+    "pt-BR": "Abadessa de Vadstena"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whoever has to dwell in the world stands in need of great prudence.",
+    "pt-BR": "Quem quer que tenha de habitar no mundo necessita de grande prudência."
+  },
+  "lifeChapter": "mar-22-catharine-of-sweden",
+  "meta": {
+    "face": "A Swedish noblewoman of about forty-five with a fair, clear, lightly freckled complexion and a SHORT, BROAD, HEART-SHAPED face — a WIDE forehead and WIDE, rounded cheekbones narrowing to a small, neat chin; LARGE, round, clear grey-blue eyes set wide under softly rounded fair brows; a small, straight nose; a SHORT upper lip over a small, full, gently smiling mouth; hair hidden under the wimple; the gaze calm and kindly, toward us.",
+    "basis": "No likeness from life; Wikipedia's lead image is a medieval wooden statue in Tróno church. Wikipedia: 'generally represented with a hind at her side', and the veil's crown is the Bridgettine 'Crown of the Five Holy Wounds'. The book tells her vow of chastity with Egard, her pilgrimages with her mother and her death as abbess of Vadstena. The short heart-shaped face is our choice, to keep her apart from her mother's long oval on `bridget_sweden`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-22 reflection, its first clause, closed with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Catherine of Vadstena (the hind; lead image: statue at Tróno)",
+        "url": "https://en.wikipedia.org/wiki/Catherine_of_Vadstena"
+      },
+      {
+        "title": "Wikipedia, Bridgettines (the Crown of the Five Holy Wounds)",
+        "url": "https://en.wikipedia.org/wiki/Bridgettines"
+      },
+      {
+        "title": "Wikipedia, Vadstena Abbey (on Lake Vättern)",
+        "url": "https://en.wikipedia.org/wiki/Vadstena_Abbey"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-22-catharine-of-sweden (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-22-catharine-of-sweden.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

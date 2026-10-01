@@ -1,0 +1,36 @@
+{
+  "id": "penitential_act",
+  "name": {
+    "en-US": "Penitential Act",
+    "pt-BR": "Ato Penitencial"
+  },
+  "patronOf": {
+    "en-US": "We acknowledge our sins",
+    "pt-BR": "Reconhecemos os nossos pecados"
+  },
+  "prayerExcerpt": {
+    "en-US": "Through my fault, through my fault, through my most grievous fault.",
+    "pt-BR": "Por minha culpa, minha culpa, minha tão grande culpa."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Confiteor, which all say together after a pause for silence, 'striking their breast' at the words of the excerpt (order-of-mass.json, order.penitential-act, Form A); all still standing, as from the Entrance to the end of the Collect (GIRM 43, 51).",
+    "excerpt": "content/of/order/order-of-mass.json order.penitential-act, Form A / 1, the Confiteor (first letter capitalised; en-US closing semicolon made a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 45, 51 (standing; silence; the Penitential Act)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Penitential Act (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

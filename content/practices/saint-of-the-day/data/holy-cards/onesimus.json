@@ -1,0 +1,45 @@
+{
+  "id": "onesimus",
+  "feast": {
+    "month": 2,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Onesimus",
+    "pt-BR": "Santo Onésimo"
+  },
+  "patronOf": {
+    "en-US": "Disciple of St. Paul",
+    "pt-BR": "Discípulo de São Paulo"
+  },
+  "prayerExcerpt": {
+    "en-US": "With what excess of goodness does God communicate Himself to souls that open themselves to Him!",
+    "pt-BR": "Com que excesso de bondade se comunica Deus às almas que a Ele se abrem!"
+  },
+  "lifeChapter": "feb-16-onesimus-disciple-of-st-paul",
+  "meta": {
+    "face": "A Phrygian of about thirty, BEARDLESS, with a warm light-brown Anatolian complexion and a WIDE, FLAT-PLANED face — broad, HIGH cheekbones set wide, a BROAD, low-bridged nose, VERY WIDE-SET dark almond eyes under straight, thick black brows, a WIDE mouth with full lips in a small, grateful smile, a SQUARE chin with a small cleft; short, tight black curls close to the head; the gaze lifted, full of hope.",
+    "basis": "No likeness survives. The book's engraving shows him as a young, beardless man in a belted tunic holding a scroll, and the card follows it; the Painter's Manual lists him among the Seventy simply as 'vieillard', an old man, which the card sets aside for the book's picture of the letter-bearer. Colossae in the Lycus valley below Mount Cadmus was Philemon's city (book, Wikipedia).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-16-onesimus-disciple-of-st-paul.md, Reflection, first sentence (Pictorial Lives, public domain; the 02-16 index reflection is John de Britto's)",
+    "sources": [
+      {
+        "title": "Wikipedia, Onesimus (lead image: initial with Onesimus and Philemon)",
+        "url": "https://en.wikipedia.org/wiki/Onesimus"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-16-onesimus-disciple-of-st-paul (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-16-onesimus-disciple-of-st-paul.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "soter",
+  "feast": {
+    "month": 4,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Soter",
+    "pt-BR": "São Sótero"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "By the sweetness of his discourses he comforted all persons with the tenderness of a father.",
+    "pt-BR": "Pela doçura de seus discursos, consolava a todos com a ternura de um pai."
+  },
+  "lifeChapter": "apr-22-soter",
+  "meta": {
+    "face": "A Roman of Greek family from Fondi, about sixty, with a warm, light-olive complexion and a SOFT, HEART-SHAPED face — a BROAD, smooth forehead and full temples, FULL, soft, rounded cheeks tapering to a SMALL, rounded chin; very LARGE, gentle, dark-brown eyes that TURN DOWN at the outer corners under softly RAISED, curved brows, a SMALL, fine, straight nose, a small, soft mouth in a tender smile; soft, wavy silver-grey hair cut short; a MEDIUM, soft, wavy silver-grey beard, rounded at the tip; the gaze tender and fatherly, toward us.",
+    "basis": "No likeness survives; Wikipedia's lead image is a silver reliquary bust of a bearded pope, and it gives his birth at Fondi into a Greek family, his alms to the Church of Corinth, and the Roman Martyrology's praise of his charity to exiles and those condemned to the mines. The book tells the sweetness of his discourses, his alms and his letter to Corinth, read there on Sundays; its chapter has no engraving. The soft, heart-shaped face with the down-turned eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-22-soter.md, first paragraph, the first clause of its second sentence, closed with a full stop (the chapter has no Reflection, so the card carries none; the index has no reflection for 04-22) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Soter (lead image: reliquary bust; the Roman Martyrology entry)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Soter"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-22-soter (chapter, public domain; no engraving)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-22-soter.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

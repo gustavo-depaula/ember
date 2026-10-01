@@ -9,6 +9,7 @@ import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { useSubmitCorrection, useUploadAttachment, useVerifyChurch } from '@/lib/mass-times'
 import { pickCorrectionPhoto } from '../attachments'
 import { ChipButton } from './ChipButton'
+import { SectionLabel } from './SheetType'
 
 const maxPhotos = 3
 
@@ -78,15 +79,15 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
   if (correction.isSuccess) {
     return (
       <YStack gap="$sm">
-        <Typography variant="label">{t('massTimes.feedbackTitle')}</Typography>
+        <SectionLabel>{t('massTimes.feedbackTitle')}</SectionLabel>
         <Typography variant="annotation">{t('massTimes.correctionThanks')}</Typography>
       </YStack>
     )
   }
 
   return (
-    <YStack gap="$sm">
-      <Typography variant="label">{t('massTimes.feedbackTitle')}</Typography>
+    <YStack gap="$md">
+      <SectionLabel>{t('massTimes.feedbackTitle')}</SectionLabel>
 
       <XStack gap="$sm" flexWrap="wrap">
         {verify.isSuccess ? (

@@ -1,0 +1,44 @@
+{
+  "id": "first_reading",
+  "name": {
+    "en-US": "First Reading",
+    "pt-BR": "Primeira Leitura"
+  },
+  "patronOf": {
+    "en-US": "The Liturgy of the Word begins",
+    "pt-BR": "Começa a Liturgia da Palavra"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Word of the Lord. Thanks be to God.",
+    "pt-BR": "Palavra do Senhor. Graças a Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the Collect all sit; the reader goes to the ambo and proclaims the First Reading from the Lectionary already placed there, 'to which all listen', and ends with the acclamation the people answer (GIRM 128, 43, 58–59). The reader is a layman in an alb, the attire GIRM 194 allows; the priest sits at the chair.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json readings.A.firstReading conclusion, and the people's reply deoGratias in apps/app/src/sources/of/responses.ts (joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 128, 194–196 (the First Reading at the ambo; the reader)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 2, nos. 43, 58–59 (sitting for the readings; the ambo; readers)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Year A, First Reading (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+      },
+      {
+        "title": "The people's fixed replies to the readings (apps/app/src/sources/of/responses.ts)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/apps/app/src/sources/of/responses.ts"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

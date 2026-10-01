@@ -1,0 +1,41 @@
+{
+  "id": "christmas_sunday",
+  "name": {
+    "en-US": "Christmas Sundays",
+    "pt-BR": "Domingos do Tempo do Natal"
+  },
+  "patronOf": {
+    "en-US": "The Word made flesh dwells among us",
+    "pt-BR": "O Verbo se fez carne e habitou entre nós"
+  },
+  "prayerExcerpt": {
+    "en-US": "Your all-powerful Word, O Lord, bounded from heaven's royal throne.",
+    "pt-BR": "A vossa palavra onipotente, Senhor, desceu do céu, do vosso trono real."
+  },
+  "proper": "tempore.christmas.second-sunday-after-christmas",
+  "meta": {
+    "face": "-",
+    "basis": "The Christmas crib set up in churches, which the Directory on Popular Piety commends for Christmastide, shown on a Sunday of the season; white for Christmas Time (GIRM 346a). Carved statues keep the card apart from the living scene of `nativity_christ` and `holy_family`.",
+    "excerpt": "content/of/formularies/tempore/christmas/second-sunday-after-christmas.json entranceAntiphon (second clause, verbatim in both languages, first letter capitalised)",
+    "sources": [
+      {
+        "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+      },
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "Wikipedia, Nativity scene",
+        "url": "https://en.wikipedia.org/wiki/Nativity_scene"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

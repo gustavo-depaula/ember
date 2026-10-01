@@ -59,14 +59,17 @@ import { useDbInit } from '@/db/client'
 import { seedCursors, seedPractices } from '@/db/seed'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
-import { rescheduleMassReminders, useRemindersStore } from '@/features/mass-times/reminders'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
 import { initHearth } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
-import { rescheduleAllReminders, setupNotifications } from '@/lib/notifications'
+import {
+  cancelRetiredMassReminders,
+  rescheduleAllReminders,
+  setupNotifications,
+} from '@/lib/notifications'
 import { startStallMonitor } from '@/lib/stallMonitor'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -155,7 +158,6 @@ export default function RootLayout() {
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
   const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
   const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
-  const hydrateReminders = useRemindersStore((s) => s.hydrate)
 
   useEffect(() => {
     if (!dbReady) return
@@ -163,8 +165,7 @@ export default function RootLayout() {
     hydrateBible()
     hydrateFavorites()
     hydrateCheckIns()
-    hydrateReminders()
-  }, [dbReady, hydratePrefs, hydrateBible, hydrateFavorites, hydrateCheckIns, hydrateReminders])
+  }, [dbReady, hydratePrefs, hydrateBible, hydrateFavorites, hydrateCheckIns])
 
   const [seeded, setSeeded] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
@@ -228,7 +229,7 @@ export default function RootLayout() {
         setSeeded(true)
         setupNotifications()
           .then(() => rescheduleAllReminders())
-          .then(() => rescheduleMassReminders())
+          .then(() => cancelRetiredMassReminders())
           .catch((err) => console.error('[startup] notification setup failed', err))
 
         InteractionManager.runAfterInteractions(() => {

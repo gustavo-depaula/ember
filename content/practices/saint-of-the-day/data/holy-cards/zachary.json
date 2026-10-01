@@ -1,0 +1,45 @@
+{
+  "id": "zachary",
+  "feast": {
+    "month": 3,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Zachary",
+    "pt-BR": "São Zacarias"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "He loved the clergy and people of Rome to that degree that he hazarded his life for them.",
+    "pt-BR": "Amava de tal maneira o clero e o povo de Roma que arriscou a vida por eles."
+  },
+  "lifeChapter": "mar-15-zachary",
+  "meta": {
+    "face": "A Greek of Calabria of about seventy with a warm, sallow olive complexion and a SOFT, LONG face whose features all SLOPE GENTLY DOWNWARD — brows and outer corners of the eyes drooping in a mild, sorrowful slant, large, moist, dark-brown eyes with heavy upper lids, a LONG, SLENDER nose whose tip turns slightly DOWN, cheekbones set high with soft hollows beneath, a small, soft, closed mouth with downturned corners easing into a faint smile, a small, round chin; short, thin white hair combed forward; a SHORT, soft, ROUNDED white beard close to the jaw; the gaze tender, down toward the freed youth.",
+    "basis": "A contemporary portrait of him, with the square nimbus of the living, is in the Theodotus chapel of Santa Maria Antiqua, but the Commons photographs of that wall show the figure too damaged to give features. His Greek family from Santa Severina in Calabria, his birth in 679 and his restoring the Lateran Palace are from Wikipedia; the ransomed slaves are from the book and its engraving. The drooping, gentle face is our choice, for 'a man of singular meekness'.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-15-zachary.md, first paragraph, second sentence up to \"for them\" (the chapter has no Reflection; the index has none for 03-15) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Zachary (lead image: fresco of the Theodotus chapel, Santa Maria Antiqua)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Zachary"
+      },
+      {
+        "title": "Wikimedia Commons, Theodotus chapel frescoes, Santa Maria Antiqua, 741–752",
+        "url": "https://commons.wikimedia.org/wiki/File:Et%C3%A0_di_papa_zaccaria,_cappella_del_primicerius_teodoro,_madonna_in_trono_con_theodoto_e_la_moglie,_741-752,_00.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-15-zachary (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-15-zachary.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

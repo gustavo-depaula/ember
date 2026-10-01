@@ -1,0 +1,41 @@
+{
+  "id": "euphrasia",
+  "feast": {
+    "month": 3,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Euphrasia",
+    "pt-BR": "Santa Eufrásia"
+  },
+  "patronOf": {
+    "en-US": "Virgin and nun",
+    "pt-BR": "Virgem e monja"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"By vow I consecrate myself to Christ.\"",
+    "pt-BR": "\"Por voto consagro-me a Cristo.\""
+  },
+  "lifeChapter": "mar-13-euphrasia",
+  "meta": {
+    "face": "A young Greek noblewoman of about twenty-two with a pale olive complexion and a LONG, SLENDER NECK and a NARROW, oblong face under a notably HIGH, ROUNDED forehead — a fine, straight nose with a HIGH, narrow bridge, large, heavy-lashed dark almond eyes set rather CLOSE together, straight, fine dark brows, a long, smooth cheek line, a small, full mouth with a slight, content smile, a small, rounded chin; hair hidden under the veil; the gaze simple and happy, lowered toward the stone.",
+    "basis": "No likeness survives; the book's engraving shows a young veiled nun carrying a block of stone among ruins in Egypt, and the card keeps the stone and the Egyptian setting. Her birth at Constantinople and her death at thirty in 410 are from the book and Wikipedia. The narrow, high-browed face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-13-euphrasia.md, her words at seven years old (the chapter has no Reflection; the index has none for 03-13) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eupraxia of Constantinople (lead image: engraving of St. Euphrasia with the stone)",
+        "url": "https://en.wikipedia.org/wiki/Eupraxia_of_Constantinople"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-13-euphrasia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-13-euphrasia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

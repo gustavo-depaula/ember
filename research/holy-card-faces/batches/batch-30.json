@@ -147,15 +147,15 @@
       "catalogMatch": "9 Jun · St. Columba, or Columkille"
     },
     {
-      "id": "john_fagondez",
+      "id": "john_sahagun",
       "letter": "J",
       "feast": {
         "month": 6,
         "day": 12
       },
       "name": {
-        "en-US": "St. John of St. Fagondez",
-        "pt-BR": "São João de São Fagondez"
+        "en-US": "St. John of Sahagún",
+        "pt-BR": "São João de Sahagún"
       },
       "patronOf": {
         "en-US": "Peacemaker of Salamanca",

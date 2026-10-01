@@ -1,0 +1,40 @@
+{
+  "id": "collect",
+  "name": {
+    "en-US": "Collect",
+    "pt-BR": "Oração do Dia"
+  },
+  "patronOf": {
+    "en-US": "The priest gathers the prayer of all",
+    "pt-BR": "O sacerdote reúne a oração de todos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.",
+    "pt-BR": "Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After 'Let us pray' and a brief silence, the priest says the Collect 'with hands extended' (GIRM 127), at the chair, with all standing (GIRM 43); the Missal is kept next to the chair (GIRM 118a) and the acolyte presents the book to the priest there (GIRM 189). The excerpt is the Trinitarian conclusion GIRM 54 gives for a Collect addressed to the Father.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json collect (its Trinitarian conclusion, line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 54 (standing; the Collect and its conclusion)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 118, 127, 189 (the Missal by the chair; the Collect with hands extended; the acolyte presents the book)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Collect (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

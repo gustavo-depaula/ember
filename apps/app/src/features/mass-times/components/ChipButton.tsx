@@ -1,11 +1,11 @@
 import type { ReactNode } from 'react'
+import { XStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
-import { OutlineChip } from './OutlineChip'
 
-// The feature's one tappable chip: a solid warm-surface pill with an optional leading icon and a
-// label, with native press feedback. `selected` fills it with accent (or, with `soft`, just tints the
-// label for toggle states). Haptics stay at the call site. Used for filters, kind pickers, contact
-// actions, the reminder toggle, and the feedback buttons.
+// The feature's one tappable chip: a hairline-ruled button with an optional leading icon and a label,
+// so it sits on the sheet as type rather than as a tile. `selected` fills it with ink (or, with
+// `soft`, just inks its rule for toggle states). Haptics stay at the call site. Used for the check-in
+// kind picker and the feedback buttons.
 export function ChipButton({
   label,
   onPress,
@@ -36,22 +36,22 @@ export function ChipButton({
       accessibilityLabel={accessibilityLabel}
       accessibilityState={selected === undefined ? undefined : { selected }}
     >
-      <OutlineChip
+      <XStack
+        alignItems="center"
         gap="$xs"
+        minHeight={44}
         paddingHorizontal="$md"
-        paddingVertical="$sm"
+        borderRadius={10}
+        borderWidth={1}
+        borderColor={fill || softSelected ? '$color' : '$borderColor'}
+        backgroundColor={fill ? '$color' : 'transparent'}
         opacity={disabled ? 0.5 : 1}
-        backgroundColor={fill ? '$accent' : '$backgroundSurface'}
       >
         {icon}
-        <Typography
-          variant="interface"
-          fontSize="$3"
-          color={fill ? '$background' : softSelected ? '$accent' : '$color'}
-        >
+        <Typography variant="interface" fontSize="$3" color={fill ? '$background' : '$color'}>
           {label}
         </Typography>
-      </OutlineChip>
+      </XStack>
     </AnimatedPressable>
   )
 }

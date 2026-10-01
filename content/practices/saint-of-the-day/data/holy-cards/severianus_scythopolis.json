@@ -1,0 +1,45 @@
+{
+  "id": "severianus_scythopolis",
+  "feast": {
+    "month": 2,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Severianus of Scythopolis",
+    "pt-BR": "São Severiano de Citópolis"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Let him who stands beware lest he fall.\"",
+    "pt-BR": "\"Aquele que está de pé acautele-se para que não caia.\""
+  },
+  "lifeChapter": "feb-21-severianus",
+  "meta": {
+    "face": "A Palestinian Greek of about fifty-five with a warm, dark olive complexion and a ROUND, FULL face — soft, fleshy cheeks, a SHORT, rounded, fleshy nose, LARGE, heavy-lidded dark almond eyes under THICK, HORIZONTAL black brows, a small, full mouth; black, curly hair receding at the temples; a short, ROUND black beard with a single WHITE BLAZE in it at the chin; the gaze quiet and resolute, straight at us.",
+    "basis": "No likeness survives; the book's engraving shows a bearded bishop on his knees, struck down outside the city by soldiers. His see and death after Chalcedon are from the book and Wikipedia. The round face and the white blaze in the beard are our choice, to set him apart from `flavian` and the other Greek bishops.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-21 reflection, the Scripture it quotes (1 Cor 10:12) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Severian of Scythopolis",
+        "url": "https://en.wikipedia.org/wiki/Severian_of_Scythopolis"
+      },
+      {
+        "title": "Wikipedia, Beit She'an (the Roman theatre, the colonnaded cardo, the tell)",
+        "url": "https://en.wikipedia.org/wiki/Beit_She%27an"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-21-severianus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-21-severianus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

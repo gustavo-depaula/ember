@@ -1,0 +1,41 @@
+{
+  "id": "easter_sunday",
+  "name": {
+    "en-US": "Easter Sundays",
+    "pt-BR": "Domingos do Tempo Pascal"
+  },
+  "patronOf": {
+    "en-US": "Fifty days of Easter joy",
+    "pt-BR": "Cinquenta dias de alegria pascal"
+  },
+  "prayerExcerpt": {
+    "en-US": "Receive the joy of your glory, giving thanks to God, who has called you into the heavenly kingdom, alleluia.",
+    "pt-BR": "Acolhei a alegria da vossa glória dando graças a Deus, que vos chamou ao seu reino celestial, aleluia."
+  },
+  "proper": "tempore.easter.week-2.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "The blessing and sprinkling of water, which the Order of Mass puts 'on Sundays, especially in Easter Time' in place of the Penitential Act, the priest 'moving through the church' (order-of-mass.json, order.sprinkling-rite); the paschal candle stands by the ambo and is lit at the more solemn celebrations of the season (easter-vigil.json nos. 17, 70); white for Easter Time (GIRM 346a). Easter Sunday itself has its own card (`easter`), so the formulary is the Second Sunday.",
+    "excerpt": "content/of/formularies/tempore/easter/week-2/sunday.json entranceAntiphon (whole, verbatim in both languages; pt-BR line break joined)",
+    "sources": [
+      {
+        "title": "The Roman Missal, Order of Mass: Rite for the Blessing and Sprinkling of Water (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      },
+      {
+        "title": "The Roman Missal, Easter Vigil, nos. 17 and 70 (content/of/formularies/tempore/holy-week/easter-vigil.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/easter-vigil.json"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

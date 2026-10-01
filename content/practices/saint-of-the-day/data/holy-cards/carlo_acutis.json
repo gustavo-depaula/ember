@@ -1,0 +1,40 @@
+{
+  "id": "carlo_acutis",
+  "feast": {
+    "month": 10,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Carlo Acutis",
+    "pt-BR": "São Carlo Acutis"
+  },
+  "patronOf": {
+    "en-US": "Apostle of the Eucharist",
+    "pt-BR": "Apóstolo da Eucaristia"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"The Eucharist is my highway to Heaven!\"",
+    "pt-BR": "\"A Eucaristia é a minha autoestrada para o Céu!\""
+  },
+  "meta": {
+    "face": "A Milanese boy of fifteen with a light olive complexion and a SOFT, BROAD OVAL face with FULL, rounded cheeks — a smooth forehead half-covered by a THICK, TOUSLED MOP of dark-brown CURLS, straight, dark brows, warm brown eyes a little narrowed by a smile, a straight nose with a softly rounded tip, a WIDE mouth in an easy, closed-lipped, slightly crooked smile, and a firm, rounded chin; the gaze frank and friendly, toward us. Not the square-jawed pier_giorgio_frassati with his hair brushed up, nor the fine, slender aloysius_gonzaga.",
+    "basis": "His photographs (the portrait in the red polo shirt on English Wikipedia; the Dicastery's portrait): a soft, broad oval face with full cheeks under a mop of dark curls, straight dark brows, brown eyes and a wide, easy smile. The Dicastery records his daily Mass, his website of Eucharistic miracles, his love of Assisi and his burial there.",
+    "excerpt": "His saying «L'Eucaristia è la mia autostrada per il Cielo!», quoted twice on the Dicastery's page (in the Latin decree, «Eucharistia est mea via autocinetica ad caelum!»); a single short quotation, our rendering (he died in 2006)",
+    "sources": [
+      {
+        "title": "Wikipedia, Carlo Acutis (photograph in the red polo shirt)",
+        "url": "https://en.wikipedia.org/wiki/Carlo_Acutis"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Carlo Acutis (biography, portrait, his sayings)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/carlo-acutis.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}

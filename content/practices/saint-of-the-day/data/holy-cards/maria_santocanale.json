@@ -1,0 +1,44 @@
+{
+  "id": "maria_santocanale",
+  "feast": {
+    "month": 1,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Maria of Jesus Santocanale",
+    "pt-BR": "Santa Maria de Jesus Santocanale"
+  },
+  "patronOf": {
+    "en-US": "Foundress, mother of the poor",
+    "pt-BR": "Fundadora, mãe dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Do not doubt: God will help you. I will not abandon you.\"",
+    "pt-BR": "\"Não duvideis: Deus vos assistirá. Não vos abandonarei.\""
+  },
+  "meta": {
+    "face": "A tall Palermitan noblewoman of about sixty with a pale olive complexion and a LONG, NARROW, fine-boned face — a smooth, high forehead under the wimple, dark brows that slope DOWN at their outer ends, large dark eyes whose outer corners DROOP a little, giving a gentle, sorrowful look, a LONG, slender nose with a high, straight bridge, a LONG upper lip, lightly hollowed cheeks and hollow temples, a SMALL, full, closed mouth and a narrow, tapering chin; the gaze grave and kind, toward us.",
+    "basis": "Her photograph (the Dicastery's portrait and Wikimedia's headshot, before 1923): a long, narrow face with a long, high-bridged nose, large dark eyes with drooping outer corners, a long upper lip and a small mouth, in a black veil and white wimple. A sister's memory, quoted by Famiglia Cristiana, calls her tall, with fine features. The loaf is for her door-to-door alms among the poor of Palermo and Cinisi.",
+    "excerpt": "Her last words to her sisters, «non dubitate. Iddio vi assisterà… Non vi abbandonerò», as reported by Famiglia Cristiana (2022); our rendering, shortened at the ellipses (she died in 1923)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Maria di Gesù Santocanale (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/maria-di-gesu-santocanale.html"
+      },
+      {
+        "title": "Wikimedia Commons, Carolina Santocanale (headshot).png (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Carolina_Santocanale_(headshot).png"
+      },
+      {
+        "title": "Famiglia Cristiana, Suor Maria di Gesù Santocanale, la nobile che lasciò tutto (her last words; 'bella, alta, dai lineamenti fini')",
+        "url": "https://www.famigliacristiana.it/articolo/suor-maria-di-gesu-santocanale-la-nobile-che-lascio-tutto-per-aiutare-gli-orfani-e-i-poveri.aspx"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

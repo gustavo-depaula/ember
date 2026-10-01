@@ -1,0 +1,41 @@
+{
+  "id": "severinus_agaunum",
+  "feast": {
+    "month": 2,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Severinus of Agaunum",
+    "pt-BR": "São Severino de Agauno"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Agaunum",
+    "pt-BR": "Abade de Agauno"
+  },
+  "prayerExcerpt": {
+    "en-US": "God loads with His favor those who delight in exercising mercy.",
+    "pt-BR": "Deus cumula com o seu favor aqueles que se deleitam em exercer a misericórdia."
+  },
+  "lifeChapter": "feb-11-severinus",
+  "meta": {
+    "face": "A Burgundian of about sixty with a fair, weathered, ruddy complexion and a LONG face whose middle is LONG — a LONG, STRAIGHT nose with a broad, rounded tip, a LONG upper lip, WIDE-SET, kindly grey eyes whose outer corners DROOP, with soft pouches beneath, thick UPSWEPT iron-grey brows, full cheeks, and rather LARGE EARS standing a little out from the head; a ring of iron-grey hair around the monastic tonsure; a LONG, SPADE-SHAPED beard of iron-grey streaked with brown, broad and squared at the end, reaching the breast; the gaze gentle and a little sad.",
+    "basis": "No likeness survives; the book's engraving shows a tonsured monk with a long beard spreading his cloak at the sick king's bed, and the card keeps the tonsure, the long beard and the cloak. French Wikipedia confirms the cloak healing of Clovis and his death at Château-Landon in 507; Saint-Maurice lies under its cliff in the Rhône valley. The long mid-face, drooping eyes and ears are our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-11 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipédia (fr), Séverin d'Agaune",
+        "url": "https://fr.wikipedia.org/wiki/S%C3%A9verin_d%27Agaune"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-11-severinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-11-severinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

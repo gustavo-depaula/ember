@@ -1,0 +1,48 @@
+{
+  "id": "marie_rivier",
+  "feast": {
+    "month": 2,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Marie Rivier",
+    "pt-BR": "Santa Maria Rivier"
+  },
+  "patronOf": {
+    "en-US": "Foundress of the Sisters of the Presentation of Mary",
+    "pt-BR": "Fundadora das Irmãs da Apresentação de Maria"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Let us care only for the thought of God, and desire only his greater glory in all things.\"",
+    "pt-BR": "\"Não sejamos sensíveis senão ao pensamento de Deus, e não desejemos senão a sua maior glória em todas as coisas.\""
+  },
+  "meta": {
+    "face": "A very SMALL, slight woman of about sixty-five from the Ardèche, with a fair, pale complexion and a SOFT, ROUND face falling into gentle JOWLS — a smooth forehead under the white band, HEAVY, DROOPING upper lids over small, bright, kindly eyes, faint, softly arched brows, a LONG nose with a rounded, FLESHY tip, full cheeks, a SMALL mouth drawn up at one corner in a slight smile; the head TILTED a little to one side, as in her portrait. The girl: about seven, round-faced, with short brown hair under a white cap.",
+    "basis": "No photograph (she died in 1838). The painted portrait the diocese of Viviers publishes and the nineteenth-century window in the motherhouse chapel at Bourg-Saint-Andéol agree: an older nun with a round, soft, jowled face, heavy lids, a long, fleshy-tipped nose and a small, half-smiling mouth, the head tilted. The beatification homily quoted on the Dicastery's page recalls her 'mancata crescita fisica' (stunted growth), so she is small; the child is for the schools she founded.",
+    "excerpt": "Her letter to a sister, «Ne soyons sensibles qu'à la pensée de Dieu et ne désirons que sa plus grande gloire en toute chose», as quoted on the Presentation of Mary's page of her letters to the congregation; our rendering (she died in 1838)",
+    "sources": [
+      {
+        "title": "Diocèse de Viviers, Sainte Marie Rivier (the painted portrait)",
+        "url": "https://ardeche.catholique.fr/bienheureuse-marie-rivier/"
+      },
+      {
+        "title": "Wikimedia Commons, Vitrail Marie Rivier.jpg (window, motherhouse chapel, Bourg-Saint-Andéol)",
+        "url": "https://commons.wikimedia.org/wiki/File:Vitrail_Marie_Rivier.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Marie Rivier (biography; the beatification homily)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/marie-rivier.html"
+      },
+      {
+        "title": "Présentation de Marie, Lettres à la Congrégation (her letters)",
+        "url": "https://soeurs-de-la-presentation-de-marie.org/pom/lettres-a-la-congregation/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

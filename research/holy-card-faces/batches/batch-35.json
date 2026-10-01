@@ -1,0 +1,460 @@
+{
+  "batch": 35,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-35.md",
+  "cards": [
+    {
+      "id": "giles",
+      "letter": "G",
+      "feast": {
+        "month": 9,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Giles",
+        "pt-BR": "Santo Egídio"
+      },
+      "patronOf": {
+        "en-US": "Hermit and abbot",
+        "pt-BR": "Eremita e abade"
+      },
+      "prayerExcerpt": {
+        "en-US": "He who accompanies the exercises of contemplation and arduous penance with zealous and undaunted endeavors to conduct others to the same glorious term with himself, shall be truly great in the kingdom of heaven.",
+        "pt-BR": "Aquele que acompanha os exercícios de contemplação e árdua penitência com zelosos e destemidos esforços por conduzir os outros ao mesmo glorioso termo a que ele próprio chega, será verdadeiramente grande no reino dos céus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-01-giles.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Giles, half-length, an old hermit-abbot in a plain black Benedictine cowl with its hood fallen back, a small black skullcap on his head, a simple wooden abbot's staff in the crook of his left arm; his right hand rests gently on the neck of a slender red-brown hind that nestles against his side, her head lifted to him, unafraid. Behind them, the deep oak and holm-oak forest near Nîmes, a spring among mossy rocks and the mouth of a small cave, shafts of soft light through the leaves. Peaceful and tender; no hunters, no arrow, no wound, no lettering.",
+      "face": "A Greek of about seventy, lean and gentle, with a fair olive complexion and an OVAL face that is WIDEST at soft, rounded cheekbones — a smooth, high forehead running into a BALD crown under the skullcap, a LONG, STRAIGHT 'Greek' nose continuing the line of the brow without a dip, LARGE, dark, HEAVY-LIDDED almond eyes under thin, level grey brows, soft, slightly sunken cheeks, a WIDE, gentle, thin-lipped mouth, a small rounded chin; a thin fringe of grey hair above the ears and a THIN, WISPY grey beard falling to a soft point; the gaze lowered to the hind, tender. Not the broad, round-headed Benedict with his long full white beard, nor the triangular, hooded anthony_abbot.",
+      "refs": [
+        "benedict",
+        "francis_assisi",
+        "anthony_abbot"
+      ],
+      "basis": "The Master of St. Giles (c. 1500) paints him as an old hermit with a bald crown under a skullcap and a thin grey beard, the hind at his breast; the book's engraving shows him hooded in the forest with the hind. The card keeps that type and paints the book's scene without the arrow, which the book does not tell.",
+      "sources": [
+        {
+          "title": "Wikipedia, Giles (lead: the Master of Saint Giles, Saint Giles and the Hind, National Gallery)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Giles"
+        },
+        {
+          "title": "Santi e Beati, Sant'Egidio (Roman Martyrology entry, 1 September)",
+          "url": "https://www.santiebeati.it/dettaglio/68500"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-01-giles (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-01-giles.md"
+        }
+      ],
+      "catalogMatch": "St. Giles, Abbot",
+      "lifeChapter": "sep-01-giles"
+    },
+    {
+      "id": "rosalia",
+      "letter": "R",
+      "feast": {
+        "month": 9,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Rosalia",
+        "pt-BR": "Santa Rosália"
+      },
+      "patronOf": {
+        "en-US": "Patroness of Palermo",
+        "pt-BR": "Padroeira de Palermo"
+      },
+      "prayerExcerpt": {
+        "en-US": "She completed the sacrifice of her heart to God by austere penance and manual labor, sanctified by assiduous prayer and the constant union of her soul with God.",
+        "pt-BR": "Consumou o sacrifício de seu coração a Deus por austera penitência e trabalho manual, santificado por assídua oração e pela constante união de sua alma com Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-04-rosalia.md, first paragraph (hers), the clause after 'where' in the second sentence; the chapter also tells St. Rose of Viterbo, whose Reflection it ends with, so the card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+      "subject": "St. Rosalia, half-length, a young hermit in a plain brown woollen hermit's robe with a rough cord, a white linen veil fallen back on her shoulders; on her long, loose hair a small crown of pink and white roses; a white lily in her right hand, her left hand laid on her breast. She stands at the mouth of her limestone cave high on Monte Pellegrino, ivy and wild rock-roses about the entrance; far below, the city of Palermo and its golden bay under a clear blue Sicilian sky. Recollected and serene; no skull, no plague, no lettering.",
+      "face": "A Norman-Sicilian noblewoman of about thirty with a fair, lightly sun-touched complexion and a LONG, NARROW face — a high, rounded forehead, a SLENDER, HIGH-BRIDGED nose with a delicate, slightly downturned tip, WIDE-SET grey-green eyes lifted toward heaven under fine, high-arched golden brows, smooth, flat cheeks, a small, full, rosy mouth, a SMALL, POINTED chin; long, loose, wavy GOLDEN-RED hair falling past the shoulders; the gaze upturned and rapt, as in van Dyck's Palermo pictures. Not the round, dark rose_lima under her rose crown; no dark hair.",
+      "refs": [
+        "rose_lima",
+        "mary_magdalene",
+        "agnes"
+      ],
+      "basis": "No likeness survives. Her image since 1624 is van Dyck's, painted in Palermo during the plague: long loose golden hair under a crown of roses, the brown hermit's robe, the lily, the cave on Monte Pellegrino. The card follows that iconography; the face's bone structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Rosalia (lead: Anthony van Dyck, Saint Rosalia interceding for Palermo)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Rosalia"
+        },
+        {
+          "title": "Wikipedia (it), Santa Rosalia (lead: Luca Giordano's Saint Rosalia, Prado)",
+          "url": "https://it.wikipedia.org/wiki/Santa_Rosalia"
+        },
+        {
+          "title": "Santi e Beati, Santa Rosalia (Roman Martyrology entry, 4 September)",
+          "url": "https://www.santiebeati.it/dettaglio/69050"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-04-rosalia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-04-rosalia.md"
+        }
+      ],
+      "catalogMatch": "St. Rosalia, Virgin"
+    },
+    {
+      "id": "laurence_justinian",
+      "letter": "L",
+      "feast": {
+        "month": 9,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Laurence Justinian",
+        "pt-BR": "São Lourenço Justiniano"
+      },
+      "patronOf": {
+        "en-US": "First Patriarch of Venice",
+        "pt-BR": "Primeiro Patriarca de Veneza"
+      },
+      "prayerExcerpt": {
+        "en-US": "Ask St. Laurence to vouchsafe you such a sense of the sufficiency of God that you too may fly to Him and be at rest.",
+        "pt-BR": "Pedi a São Lourenço que se digne conceder-vos tal senso da suficiência de Deus que também vós voeis a Ele e nele encontreis repouso."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-05-laurence-justinian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Laurence Justinian, half-length and turned three-quarters to the left, as in Gentile Bellini's portrait: a close black skullcap covering the head, the plain white habit of a canon regular with a high black collar, a simple gold pectoral cross on a cord; in his hands a small closed book of the Gospels held against his breast. Behind him, through a round-arched window, the still, silver-blue Venetian lagoon with low islands and slender bell towers under a hazy morning sky. Austere, humble and at peace; no mitre, no pomp, no lettering.",
+      "face": "A Venetian of about seventy-four, CLEAN-SHAVEN, with a sallow, parchment-pale complexion and a very LONG, GAUNT face after Gentile Bellini's portrait — a high forehead SLOPING back under the skullcap, a MASSIVE, HIGH-BRIDGED, strongly HOOKED nose, SMALL, keen, heavy-lidded dark eyes set DEEP in their sockets under a jutting brow ridge, a SHARP cheekbone over a deeply SUNKEN cheek, THIN, tightly closed lips, and a LONG, strongly JUTTING chin under a lean jaw; no hair showing; the gaze level and inward. Not the youngish, fine-nosed charles_borromeo in cardinal's red, nor the white-haired, bearded alphonsus_liguori.",
+      "refs": [
+        "charles_borromeo",
+        "alphonsus_liguori",
+        "vincent_de_paul"
+      ],
+      "basis": "Gentile Bellini's profile portrait (1465, Venice), made within ten years of his death, shows the gaunt old face with the great hooked nose, deep-set eye and jutting chin, the black skullcap and white habit. The card follows it closely.",
+      "sources": [
+        {
+          "title": "Wikipedia, Lawrence Justinian (lead: Gentile Bellini, Portrait of Lorenzo Giustiniani)",
+          "url": "https://en.wikipedia.org/wiki/Lorenzo_Giustiniani"
+        },
+        {
+          "title": "Santi e Beati, San Lorenzo Giustiniani (Roman Martyrology entry, 8 January)",
+          "url": "https://www.santiebeati.it/dettaglio/34500"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-05-laurence-justinian (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-05-laurence-justinian.md"
+        }
+      ],
+      "catalogMatch": "St. Laurence Justinian",
+      "lifeChapter": "sep-05-laurence-justinian"
+    },
+    {
+      "id": "eleutherius",
+      "letter": "E",
+      "feast": {
+        "month": 9,
+        "day": 6
+      },
+      "name": {
+        "en-US": "St. Eleutherius",
+        "pt-BR": "Santo Eleutério"
+      },
+      "patronOf": {
+        "en-US": "Abbot at Spoleto",
+        "pt-BR": "Abade em Espoleto"
+      },
+      "prayerExcerpt": {
+        "en-US": "Appear not to men to fast, but to thy Father Who is in heaven, and thy Father, Who seeth in secret, He will repay thee.",
+        "pt-BR": "Não pareças aos homens que jejuas, mas a teu Pai que está no céu, e teu Pai, que vê em segredo, te recompensará."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-06-eleutherius.md Reflection, the whole of it (Matthew 6:18) (Pictorial Lives, public domain)",
+      "subject": "St. Eleutherius, half-length, an old abbot in a plain black monastic cowl and hood thrown back, a simple wooden abbot's staff in his left hand, the book of the Gospels held to his breast with his right; he prays with tears. Behind him, the small Romanesque stone church and cloister of the abbey of St. Mark outside Spoleto, cypresses and the green Umbrian hills with the town on its height beyond. Humble, simple and contrite; no demon, no child, no lettering.",
+      "face": "An Umbrian of about seventy with a soft, pale-pink complexion and a MOON-ROUND face — a low, rounded forehead, FULL, SOFT cheeks, a SMALL, SNUB nose, SMALL, ROUND light-brown eyes with REDDENED rims, moist with tears, under thin white brows lifted and DRAWN TOGETHER in the middle in compunction, a small, soft, trembling mouth, a soft double chin; white hair cut close round a monastic tonsure and a SHORT, SOFT, rounded white beard; the gaze lifted, simple and tearful. Not the long-bearded benedict, nor the square-faced Bonfilius or snub-nosed, dark-bearded Bonajuncta of servite_founders.",
+      "refs": [
+        "benedict",
+        "bernard_clairvaux",
+        "anthony_abbot"
+      ],
+      "basis": "No likeness survives. Gregory the Great, who knew him, calls him an old man of 'simplicity and compunction' whose tears raised a dead man (Dialogues III.33), and the Martyrology keeps those words; the book's engraving shows him in a monk's habit. The face paints that simplicity and those tears; its structure is ours.",
+      "sources": [
+        {
+          "title": "Gregory the Great, Dialogues, Book III, ch. 33 (1911 translation, tertullian.org)",
+          "url": "https://www.tertullian.org/fathers/gregory_03_dialogues_book3.htm"
+        },
+        {
+          "title": "Santi e Beati, Sant'Eleuterio di Spoleto (Roman Martyrology entry, 6 September)",
+          "url": "https://www.santiebeati.it/dettaglio/69420"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-06-eleutherius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-06-eleutherius.md"
+        }
+      ],
+      "catalogMatch": "St. Eleutherius, Abbot",
+      "lifeChapter": "sep-06-eleutherius"
+    },
+    {
+      "id": "cloud",
+      "letter": "C",
+      "feast": {
+        "month": 9,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Cloud",
+        "pt-BR": "São Clodoaldo"
+      },
+      "patronOf": {
+        "en-US": "Prince and priest",
+        "pt-BR": "Príncipe e sacerdote"
+      },
+      "prayerExcerpt": {
+        "en-US": "The just shall live for evermore; they shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord.",
+        "pt-BR": "Os justos viverão para sempre; receberão um reino de glória e uma coroa de beleza da mão do Senhor."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-07-cloud.md Reflection, the Scripture it quotes (Wisdom 5:16–17) (Pictorial Lives, public domain)",
+      "subject": "St. Cloud, half-length, a young Merovingian prince become a monk and priest: a plain dark-brown monastic habit with a white linen amice at the neck, a small wooden cross on a cord; in his right hand a small gold chalice held before his breast; with his left he lays aside, on a low stone ledge beside him, a slender gold Frankish crown on a fold of purple cloth. Behind him, a green wooded hill above a wide bend of the Seine, a small stone church and a few monks' huts on the slope, fishermen's boats on the river and Paris far off on the horizon. Calm and resolved; no uncles, no swords, no lettering.",
+      "face": "A Frank of about thirty-five, CLEAN-SHAVEN, with a fair, fresh complexion and an INVERTED-TRIANGLE face with a CLEFT chin — a WIDE, HIGH, smooth forehead and broad temples narrowing along a lean, straight jaw to a NARROW chin marked by a clear CLEFT; a thin, straight nose with a narrow bridge; DEEP-SET, pale-blue eyes under straight, fair brows; flat, lean cheeks; a thin, WIDE mouth; ash-blond hair cut SHORT round a monastic tonsure, the long royal locks gone; the gaze level, clear and resolved. Not the pale, jaw-heavy young louis_toulouse, nor the lean, long-faced grandmother clotilda.",
+      "refs": [
+        "aloysius_gonzaga",
+        "francis_xavier",
+        "benedict"
+      ],
+      "basis": "No likeness survives; a modern statue (Wikipedia's lead) gives him a chalice. The Martyrology and Wikipedia tell the royal Merovingian boy who escaped his uncles and renounced the throne to become a cleric, and Frankish long hair was the sign of royalty, so the card shows him cropped and tonsured with the crown set aside; the face is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Clodoald (lead: modern statue of Saint Cloud, St. Cloud Hospital, Minnesota)",
+          "url": "https://en.wikipedia.org/wiki/Clodoald"
+        },
+        {
+          "title": "Santi e Beati, San Clodoaldo (Roman Martyrology entry, 7 September)",
+          "url": "https://www.santiebeati.it/dettaglio/92412"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-07-cloud (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-07-cloud.md"
+        }
+      ],
+      "catalogMatch": "St. Cloud, Confessor",
+      "lifeChapter": "sep-07-cloud"
+    },
+    {
+      "id": "omer",
+      "letter": "O",
+      "feast": {
+        "month": 9,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Omer",
+        "pt-BR": "Santo Omer"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Thérouanne",
+        "pt-BR": "Bispo de Thérouanne"
+      },
+      "prayerExcerpt": {
+        "en-US": "In his old age St. Omer became blind, but that affliction did not lessen his pastoral concern for his flock.",
+        "pt-BR": "Em sua velhice, Santo Omer ficou cego, mas essa aflição não diminuiu o seu cuidado pastoral por seu rebanho."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-09-omer.md, second paragraph, fifth sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Omer, half-length, an old bishop of the seventh century in a full, bell-shaped red-gold chasuble over a white alb, a low white mitre, a plain gilt crosier held firmly in his left hand; his right hand raised in blessing. His eyes are closed, for he is blind, yet his face is turned toward his people. Behind him, the flat green country of Artois with its marshes and waterways, and on a low rise the small stone church of Our Lady at Sithiu with a few monastery roofs. Gentle and fatherly; no lettering.",
+      "face": "A Frank of about seventy with a pale, weathered complexion and a HEXAGONAL face of FLAT PLANES — a BROAD, FLAT forehead crossed by deep level lines, ANGULAR cheekbones set WIDE, a LONG, fleshy nose ending in a ROUNDED, BULBOUS tip, a LONG upper lip, a BROAD, FLAT chin; the EYES gently CLOSED under heavy lids, for he is blind, with thick, straight white brows; a short, CLOSE-TRIMMED white beard following the jaw; white hair showing below the mitre; the face serene and listening. Not the round, soft Eleutherius of this batch, nor the white-bearded nicholas with his full curled beard.",
+      "refs": [
+        "nicholas",
+        "ambrose",
+        "augustine"
+      ],
+      "basis": "No likeness survives; later statues show a bearded bishop. The book and Santi e Beati both say he went blind in old age (by 663, still signing acts in 664 and 667), so the card paints him with closed eyes, as a distinguishing mark; the structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Audomar (lead: statue at Estrée)",
+          "url": "https://en.wikipedia.org/wiki/Audomar"
+        },
+        {
+          "title": "Santi e Beati, Sant'Audomaro di Thérouanne (Roman Martyrology entry, 1 November)",
+          "url": "https://www.santiebeati.it/dettaglio/75950"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-09-omer (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-09-omer.md"
+        }
+      ],
+      "catalogMatch": "St. Omer, Bishop",
+      "lifeChapter": "sep-09-omer"
+    },
+    {
+      "id": "nicholas_tolentino",
+      "letter": "N",
+      "feast": {
+        "month": 9,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Nicholas of Tolentino",
+        "pt-BR": "São Nicolau de Tolentino"
+      },
+      "patronOf": {
+        "en-US": "Patron of the Holy Souls",
+        "pt-BR": "Padroeiro das almas do Purgatório"
+      },
+      "prayerExcerpt": {
+        "en-US": "Would you die the death of the just? there is only one way to secure the fulfilment of your wish. Live the life of the just.",
+        "pt-BR": "Desejarias morrer a morte dos justos? há somente um caminho para assegurar o cumprimento de teu desejo. Vive a vida dos justos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-10-nicholas-of-tolentino.md Reflection, first three sentences (Pictorial Lives, public domain)",
+      "subject": "St. Nicholas of Tolentino, half-length, an Augustinian friar in the full black habit of the Hermits of St. Augustine with its wide sleeves and black leather belt, the hood fallen on his shoulders; on his breast a small radiant golden star; in his right hand a white lily and a small crucifix held together, in his left a small plain round loaf marked with a cross. Behind him, the cloister arcade of the friary at Tolentino and, beyond, the green hills of the Marche with the town's walls and bell tower. Gentle, mortified and joyful; no purgatory, no flames, no lettering.",
+      "face": "An Italian of the Marche of about fifty-five, CLEAN-SHAVEN, with a pale olive complexion thinned by fasting and a HEART-SHAPED face — a BROAD, smooth forehead tapering over HOLLOW cheeks to a SMALL, POINTED chin, a small, STRAIGHT, fine nose, LARGE, gentle dark-brown eyes set a little close under softly arched dark brows, a SMALL, sweet mouth; black hair touched with grey cut in a thick ring round a full tonsure; the gaze lowered, tender and humble. Not the round, big-nosed philip_benizi, nor the dark, compact, brow-joined peter_verona.",
+      "refs": [
+        "anthony_padua",
+        "aloysius_gonzaga",
+        "augustine"
+      ],
+      "basis": "The Augustinian habit, the star, the lily and the blessed bread are his constant attributes (Santi e Beati: 'cesto di pane, pane, stella'); the lead portrait on Wikipedia shows a pale, gentle, tonsured friar. The gauntness is the book's austerity; the structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Nicholas of Tolentino (lead: portrait of San Nicola da Tolentino, Bolognese school)",
+          "url": "https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"
+        },
+        {
+          "title": "Santi e Beati, San Nicola da Tolentino (Roman Martyrology entry, 10 September)",
+          "url": "https://www.santiebeati.it/dettaglio/34600"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-10-nicholas-of-tolentino (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-10-nicholas-of-tolentino.md"
+        }
+      ],
+      "catalogMatch": "St. Nicholas of Tolentino",
+      "lifeChapter": "sep-10-nicholas-of-tolentino"
+    },
+    {
+      "id": "paphnutius",
+      "letter": "P",
+      "feast": {
+        "month": 9,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Paphnutius",
+        "pt-BR": "São Pafnúcio"
+      },
+      "patronOf": {
+        "en-US": "Bishop and confessor",
+        "pt-BR": "Bispo e confessor"
+      },
+      "prayerExcerpt": {
+        "en-US": "If to fight for our country be glorious, \"it is likewise great glory to follow the Lord,\" saith the Wise Man.",
+        "pt-BR": "Se combater por nossa pátria é glorioso, \"é igualmente grande glória seguir o Senhor,\" diz o Sábio."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-11-paphnutius.md Reflection, the whole of it (Ecclesiasticus 23:38) (Pictorial Lives, public domain)",
+      "subject": "St. Paphnutius, half-length, an old Egyptian bishop of the fourth century: a plain undyed linen tunic and a dark-brown monk's mantle with the hood drawn up over the head, and over it a white woollen omophorion with dark crosses about his shoulders; he leans on a plain wooden staff in his right hand, for he is lame, and holds a small book of the Gospels against his breast with his left. Behind him, the Nile winding between green fields and golden desert cliffs of the Upper Thebaid, palms along the bank under a hot, clear sky. Steadfast and venerable; no wounds shown, no blood, no lettering.",
+      "face": "A Copt of about seventy-five with a deep-brown, sun-dark complexion and a LONG, HORSE-LIKE face — a HIGH, NARROW, deeply lined forehead under the hood, a LONG, BROAD-BASED nose with flared nostrils, the RIGHT EYE CLOSED under a smooth, long-healed lid, the LEFT eye large, dark and steady under a thick grey brow, LONG, FLAT cheeks, a WIDE, FULL-LIPPED mouth, a long jaw; a LONG, SQUARE-CUT grey-white beard; the gaze grave and unbowed. Not the wide, low, rounded-square macarius_alexandria, the square, big-boned james_nisibis, the bald, long-tapering paul_hermit, or the triangular anthony_abbot.",
+      "refs": [
+        "athanasius",
+        "anthony_abbot",
+        "moses_the_black"
+      ],
+      "basis": "The Martyrology and Wikipedia say his right eye was put out and his left leg hamstrung under Maximinus; Santi e Beati gives as his emblem a bishop with the right eye lost. The card keeps the closed eye and the staff as quiet distinguishing marks, with no wound; the rest of the face is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Paphnutius of Thebes (lead: engraving of Paphnutius)",
+          "url": "https://en.wikipedia.org/wiki/Paphnutius_the_Confessor"
+        },
+        {
+          "title": "Santi e Beati, San Pafnuzio (Roman Martyrology entry, 11 September)",
+          "url": "https://www.santiebeati.it/dettaglio/69810"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-11-paphnutius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-11-paphnutius.md"
+        }
+      ],
+      "catalogMatch": "St. Paphnutius, Bishop",
+      "lifeChapter": "sep-11-paphnutius"
+    },
+    {
+      "id": "guy_anderlecht",
+      "letter": "G",
+      "feast": {
+        "month": 9,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Guy of Anderlecht",
+        "pt-BR": "São Guido de Anderlecht"
+      },
+      "patronOf": {
+        "en-US": "Patron of sacristans",
+        "pt-BR": "Padroeiro dos sacristães"
+      },
+      "prayerExcerpt": {
+        "en-US": "Jesus was only nine months in the womb of Mary, three hours on the cross, three days in the sepulchre, but He is always in the tabernacle.",
+        "pt-BR": "Jesus esteve apenas nove meses no ventre de Maria, três horas na cruz, três dias no sepulcro, mas está sempre no tabernáculo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-12-guy-of-anderlecht.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Guy of Anderlecht, half-length, a poor Brabant peasant returned as a pilgrim: a rough, faded red woollen tunic belted with a cord, a brown cloak, a broad-brimmed pilgrim's hat hanging at his back, a pilgrim's staff in his right hand and a small scrip at his side; his left hand holds a small bronze altar-bell, for he was the sacristan of Laeken. Beside him the head of a patient brown ox. Behind him, flat green fields and pollarded willows of Brabant, and the small stone chapel of Our Lady at Laeken with its low tower under a pale, luminous northern sky. Poor, penitent and content; no lettering.",
+      "face": "A Brabant countryman of about fifty, CLEAN-SHAVEN, with a ruddy, weather-reddened complexion and a BROAD, SQUARE face with STRONG JAW CORNERS, after the Book of Hours miniature — a LOW, broad forehead, a SHORT, BROAD nose with a ROUNDED tip, SMALL, DEEP-SET blue-grey eyes under HEAVY, STRAIGHT brown brows, wide, weathered cheeks with deep smile-lines, a WIDE, straight mouth, PROMINENT ears; thick brown hair with the first grey, cut in a straight fringe across the brow and short over the ears; the gaze humble and kindly. Not the wedge-faced Cloud of this batch, nor the fair, flat-topped hyacinth.",
+      "refs": [
+        "francis_assisi",
+        "vincent_de_paul",
+        "philip_neri"
+      ],
+      "basis": "A fifteenth-century Book of Hours miniature (Wikipedia's lead) shows him as a peasant in a red tunic with a staff, a broad face with a short, broad nose; Wikipedia gives his iconography as a pilgrim with hat and staff and an ox at his feet, and his patronage of sacristans. The card follows both.",
+      "sources": [
+        {
+          "title": "Wikipedia, Guy of Anderlecht (lead: Book of Hours miniature)",
+          "url": "https://en.wikipedia.org/wiki/Guy_of_Anderlecht"
+        },
+        {
+          "title": "Santi e Beati, San Guido di Anderlecht (Roman Martyrology entry, 12 September)",
+          "url": "https://www.santiebeati.it/dettaglio/70000"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-12-guy-of-anderlecht (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-12-guy-of-anderlecht.md"
+        }
+      ],
+      "catalogMatch": "St. Guy of Anderlecht",
+      "lifeChapter": "sep-12-guy-of-anderlecht"
+    },
+    {
+      "id": "eulogius_alexandria",
+      "letter": "E",
+      "feast": {
+        "month": 9,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Eulogius of Alexandria",
+        "pt-BR": "Santo Eulógio de Alexandria"
+      },
+      "patronOf": {
+        "en-US": "Patriarch of Alexandria",
+        "pt-BR": "Patriarca de Alexandria"
+      },
+      "prayerExcerpt": {
+        "en-US": "We admire the great actions and the glorious triumph of the Saints; yet it is not so much in these that their sanctity consisted, as in the constant, habitual heroic disposition of their souls.",
+        "pt-BR": "Admiramos as grandes ações e o glorioso triunfo dos Santos; contudo não foi tanto nestes que consistiu sua santidade, quanto na constante, habitual e heroica disposição de suas almas."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-13-eulogius.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Eulogius, half-length, a patriarch of about 600 as the Menologion of Basil II shows him: a dark-brown phelonion over a white sticharion, a white omophorion with large black crosses over his shoulders, a jewelled book of the Gospels held in his left hand, his right hand raised in blessing; beside him on a small table a few scrolls and a reed pen, for his writings against the heresies. Behind him, through a colonnade, the harbour of Alexandria with the tall white Pharos lighthouse and sailing ships on a bright blue sea. Learned, serene and firm; no lettering.",
+      "face": "A Syrian of Antioch of about sixty-five with a warm olive complexion and an OBLONG face under a HIGH, BALD, DOMED forehead — a LONG, fine, straight nose, NARROW-SET dark eyes under STRAIGHT, HEAVY black-and-grey brows that nearly meet, FLAT cheeks, a small, firm mouth; short grey hair at the sides and back; a FULL, ROUNDED grey beard of medium length, as in the Menologion; the gaze direct and thoughtful. Not the hair-hidden, high-bridged cyril_alexandria, the egg-headed, long-black-bearded anicetus, or the broad-browed, short-faced lucian_antioch.",
+      "refs": [
+        "athanasius",
+        "ambrose",
+        "gregory_great"
+      ],
+      "basis": "The Menologion of Basil II (c. 1000) shows him as a bishop in phelonion and omophorion with grey hair and a rounded grey beard, holding the Gospels; the card follows its dress and beard. The book makes him a Syrian monk and priest of Antioch, and Wikipedia an abbot there; the bald dome and brows are ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Eulogius of Alexandria (lead: Menologion of Basil II)",
+          "url": "https://en.wikipedia.org/wiki/Eulogius_of_Alexandria"
+        },
+        {
+          "title": "Santi e Beati, Sant'Eulogio (Roman Martyrology entry, 13 June)",
+          "url": "https://www.santiebeati.it/dettaglio/57030"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-13-eulogius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-13-eulogius.md"
+        }
+      ],
+      "catalogMatch": "St. Eulogius, Patriarch of Alexandria",
+      "lifeChapter": "sep-13-eulogius"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "kyrie",
+  "name": {
+    "en-US": "Kyrie",
+    "pt-BR": "Senhor, tende piedade"
+  },
+  "patronOf": {
+    "en-US": "We implore the Lord's mercy",
+    "pt-BR": "Imploramos a misericórdia do Senhor"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, have mercy. Christ, have mercy. Lord, have mercy.",
+    "pt-BR": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Kyrie 'is usually executed by everyone, that is to say, with the people and the choir or cantor taking part in it' (GIRM 52), all standing (GIRM 43); so the card looks from the choir over the standing people to the priest at the chair.",
+    "excerpt": "content/of/order/order-of-mass.json order.kyrie (the three invocations, without the people's repeats and the Greek alternatives; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 52 (standing; the Kyrie, sung by the people with choir or cantor)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Kyrie (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

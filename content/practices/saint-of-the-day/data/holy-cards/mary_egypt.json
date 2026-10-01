@@ -1,0 +1,41 @@
+{
+  "id": "mary_egypt",
+  "feast": {
+    "month": 4,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Mary of Egypt",
+    "pt-BR": "Santa Maria Egipcíaca"
+  },
+  "patronOf": {
+    "en-US": "Penitent of the desert",
+    "pt-BR": "Penitente do deserto"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us, too, learn from her not to be content with confessing and lamenting our sins, but to fly from what leads us to commit them.",
+    "pt-BR": "Aprendamos nós também com ela a não nos contentarmos com confessar e lamentar os nossos pecados, mas a fugir daquilo que nos leva a cometê-los."
+  },
+  "lifeChapter": "apr-09-mary-of-egypt",
+  "meta": {
+    "face": "An Egyptian woman of great age, about seventy-five, burned a deep brown by the desert sun, lean and serene, with a LONG, NARROW face of strong, SCULPTED bone — a high, narrow forehead, very HIGH, PROMINENT cheekbones with deep HOLLOWS beneath, LARGE, dark, luminous, DEEP-SET eyes, straight dark-grey brows, a STRONG, LONG, STRAIGHT nose, a wide, closed, peaceful mouth, a LONG, firm chin; long white hair showing loose under the edge of the mantle; the gaze lowered, full of peace.",
+    "basis": "No likeness survives. Wikipedia: Eastern icons show her gaunt, elderly and emaciated, covered by her long hair or by Zosimus's mantle, often with the three loaves she bought before crossing the Jordan; the Ukrainian icon on Wikipedia shows her so. The book tells her conversion at the Holy Cross in Jerusalem, 'Pass over Jordan', and Zosimus. The card follows the Eastern type, as the book tells her old age in the desert, and keeps her fully covered. The long, sculpted face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-09-mary-of-egypt.md Reflection, second sentence (Pictorial Lives, public domain); also the index's 04-09 reflection",
+    "sources": [
+      {
+        "title": "Wikipedia, Mary of Egypt (iconography; lead image: Ukrainian icon with her life)",
+        "url": "https://en.wikipedia.org/wiki/Mary_of_Egypt"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-09-mary-of-egypt (chapter, public domain; no engraving)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-09-mary-of-egypt.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-25.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "batch": 36,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-36.md",
+  "cards": [
+    {
+      "id": "catherine_genoa",
+      "letter": "C",
+      "feast": {
+        "month": 9,
+        "day": 15
+      },
+      "name": {
+        "en-US": "St. Catherine of Genoa",
+        "pt-BR": "Santa Catarina de Gênova"
+      },
+      "patronOf": {
+        "en-US": "Patroness of hospitals in Italy",
+        "pt-BR": "Padroeira dos hospitais da Itália"
+      },
+      "prayerExcerpt": {
+        "en-US": "The constant thought of purgatory will help us not only to escape its dreadful pains, but also to avoid the least imperfection which hinders our approach to God.",
+        "pt-BR": "O constante pensamento no purgatório nos ajudará não somente a escapar de suas terríveis penas, mas também a evitar a menor imperfeição que estorve a nossa aproximação de Deus."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-15-catherine-of-genoa.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Catherine of Genoa, half-length, a Genoese noblewoman become a widow and servant of the sick: a plain dark-grey woollen gown and a long white linen veil and wimple framing the face, a small wooden crucifix on a cord at her breast; she holds before her, in both hands, a simple earthenware bowl of broth, as she carried it to the sick in the great hospital of Pammatone. Behind her, through a round arch, a whitewashed hospital ward with a row of beds under a vaulted ceiling, and beyond a window the terraced houses and harbour of Genoa on its steep hillside above a bright blue sea. Ardent, recollected and tender; no flames, no purgatory, no lettering.",
+      "face": "A Genoese noblewoman of about fifty-five with a pale ivory complexion and a DIAMOND-SHAPED face — a NARROW, high forehead under the wimple, the face WIDEST at HIGH, PROMINENT cheekbones with soft hollows beneath, then narrowing along a lean jaw to a NARROW, firm, pointed chin; a LONG, THIN, HIGH-BRIDGED aquiline nose whose tip turns slightly down, LARGE, deep-set grey-green eyes with faint violet shadows beneath, THIN, sharply ARCHED dark brows, a narrow, thin-lipped mouth; hair hidden; the gaze lifted a little, burning and inward. Not the young, oval catherine_siena, the small, short-nosed colette, the moon-faced catherine_ricci, or the broad, square jane_frances_chantal.",
+      "refs": [
+        "catherine_siena",
+        "monica",
+        "elizabeth_hungary"
+      ],
+      "basis": "Her iconography is the noble widow in a veil, serving the sick of the Pammatone hospital (Wikipedia; the book's engraving shows her carrying a bowl to a bedside). The Ratti painting on Italian Wikipedia gives a long face with a long nose under a veil; the bone structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Catherine of Genoa",
+          "url": "https://en.wikipedia.org/wiki/Catherine_of_Genoa"
+        },
+        {
+          "title": "Wikipedia (it), Caterina da Genova (lead: Giovanni Agostino Ratti, Santa Caterina Fieschi Adorno)",
+          "url": "https://it.wikipedia.org/wiki/Caterina_da_Genova"
+        },
+        {
+          "title": "Santi e Beati, Santa Caterina Fieschi Adorno (Roman Martyrology entry, 15 September)",
+          "url": "https://www.santiebeati.it/dettaglio/54375"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-15-catherine-of-genoa (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-15-catherine-of-genoa.md"
+        }
+      ],
+      "catalogMatch": "St. Catherine of Genoa",
+      "lifeChapter": "sep-15-catherine-of-genoa"
+    },
+    {
+      "id": "lambert",
+      "letter": "L",
+      "feast": {
+        "month": 9,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Lambert",
+        "pt-BR": "São Lamberto"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "How noble and heroic is this virtue of fortitude! how necessary for every Christian, especially for a pastor of souls, that neither worldly views nor fears may ever in the least warp his integrity or blind his judgment!",
+        "pt-BR": "Quão nobre e heroica é esta virtude da fortaleza! Quão necessária para todo cristão, especialmente para um pastor de almas, a fim de que nem as vistas mundanas nem os temores jamais desviem em coisa alguma a sua integridade ou cegem o seu juízo!"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-17-lambert.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Lambert, half-length, a Frankish bishop of about 700: a full, bell-shaped red chasuble with a plain gold orphrey over a white alb, a white pallium-like band with small dark crosses, a low white mitre; a plain wooden crosier in his left hand, a martyr's palm held against his breast with his right. Behind him, the abbey of Stavelot in the wooded Ardennes in winter: a small stone church, a tall plain stone cross before its door standing in fresh snow, dark fir-covered hills under a pale, cold dawn sky. Steadfast, humble and calm; no weapons, no wound, no lettering.",
+      "face": "A Frankish noble of about sixty-five, broad-shouldered and strongly built, with a fair, weathered complexion and a LONG, RECTANGULAR face whose sides run nearly PARALLEL — a WIDE, FLAT, level forehead, a STRAIGHT, SQUARE jaw as wide as the brow, a long, straight nose ending in a BROAD, rounded tip, WIDE-SET, calm hazel eyes under THICK, STRAIGHT, dark-grey brows, a wide, firm mouth with a full lower lip; iron-grey hair cut short under the mitre and a SHORT, DENSE beard, dark-grey streaked with silver, trimmed close and square; the gaze level and composed. Not the broad, flat-planed, snub-nosed boniface, the short, curly-bearded denis, the white-haired, brow-ridged david_wales, or the lantern-jawed gregory_langres.",
+      "refs": [
+        "boniface",
+        "thomas_becket",
+        "patrick"
+      ],
+      "basis": "No likeness survives. His early biographers, as quoted by Wikipedia, call him a young man \"of pleasing looks… well-built, strong, a good fighter\"; the card keeps that strength in old age. The snow and the stone cross of Stavelot are the book's story (and its engraving).",
+      "sources": [
+        {
+          "title": "Wikipedia, Lambert of Maastricht (lead: the Palude diptych, Martyrdom of St. Lambert)",
+          "url": "https://en.wikipedia.org/wiki/Lambert_of_Maastricht"
+        },
+        {
+          "title": "Santi e Beati, San Lamberto di Maastricht (Roman Martyrology entry, 17 September)",
+          "url": "https://www.santiebeati.it/dettaglio/92911"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-17-lambert (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-17-lambert.md"
+        }
+      ],
+      "catalogMatch": "St. Lambert, Bishop, Martyr",
+      "lifeChapter": "sep-17-lambert"
+    },
+    {
+      "id": "thomas_villanova",
+      "letter": "T",
+      "feast": {
+        "month": 9,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Thomas of Villanova",
+        "pt-BR": "São Tomás de Vilanova"
+      },
+      "patronOf": {
+        "en-US": "Archbishop of Valencia",
+        "pt-BR": "Arcebispo de Valência"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Answer me, O sinner!\" St. Thomas would say, \"what can you purchase with your money better or more necessary than the redemption of your sins?\"",
+        "pt-BR": "\"Responde-me, ó pecador!\", costumava dizer São Tomás, \"que podes comprar com o teu dinheiro melhor ou mais necessário do que a redenção dos teus pecados?\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-18-thomas-of-villanova.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Thomas of Villanova, half-length, an archbishop who kept the friar's poverty: the plain black habit of the Hermits of St. Augustine with its black leather belt, over it a simple white rochet and a plain dark cope, a low, unadorned white mitre, a simple pectoral cross; in his right hand a small open leather purse from which he gives a coin to a poor barefoot boy who reaches up at his side, in his left a plain crosier. Behind him, the Gothic bell tower of Valencia cathedral (the Micalet), flat roofs and palms, and the blue Mediterranean beyond under a warm Spanish sky. Gentle, grave and generous; no lettering.",
+      "face": "A Castilian of La Mancha of about sixty-five, CLEAN-SHAVEN, with a warm olive complexion and a LONG, SOFT OVAL face after his Spanish portraits — a high forehead RECEDING at the temples, a LONG, straight nose with a FLESHY, rounded tip, LARGE, dark eyes under HEAVY, DROOPING upper lids, lowered in thought, thick, straight dark brows with a deep vertical CREASE between them, smooth, full cheeks, a FULL lower lip, a soft, rounded jaw with a hint of fullness beneath the chin; short dark hair touched with grey under the mitre; the gaze lowered, gentle and grave. Not the wide, angular, broad-jawed john_sahagun, nor the lean, narrow, fine-nosed thomas_becket.",
+      "refs": [
+        "augustine",
+        "charles_borromeo",
+        "vincent_de_paul"
+      ],
+      "basis": "Spanish portraits (Wikipedia's lead engraving and the Spanish article's painting) show a clean-shaven, long, soft-oval face with a long nose and heavy lids, eyes lowered, in mitre and cope; Santi e Beati gives episcopal dress, mitre, crosier and book. The purse and the poor child are his almsgiving, which the book tells.",
+      "sources": [
+        {
+          "title": "Wikipedia, Thomas of Villanova (lead: engraving, S. Tomás de Villanueva)",
+          "url": "https://en.wikipedia.org/wiki/Thomas_of_Villanova"
+        },
+        {
+          "title": "Wikipedia (es), Tomás de Villanueva (lead: portrait in episcopal dress)",
+          "url": "https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Villanueva"
+        },
+        {
+          "title": "Santi e Beati, San Tommaso da Villanova (Roman Martyrology entry, 8 September)",
+          "url": "https://www.santiebeati.it/dettaglio/71300"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-18-thomas-of-villanova (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-18-thomas-of-villanova.md"
+        }
+      ],
+      "catalogMatch": "St. Thomas of Villanova",
+      "lifeChapter": "sep-18-thomas-of-villanova"
+    },
+    {
+      "id": "eustachius",
+      "letter": "E",
+      "feast": {
+        "month": 9,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Eustachius",
+        "pt-BR": "Santo Eustáquio"
+      },
+      "patronOf": {
+        "en-US": "Soldier and martyr",
+        "pt-BR": "Soldado e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is not enough to encounter dangers with resolution; we must with equal courage and constancy vanquish pleasure and the softer passions, or we possess not the virtue of true fortitude.",
+        "pt-BR": "Não basta enfrentar os perigos com resolução; devemos, com igual coragem e constância, vencer o prazer e as paixões mais brandas, ou não possuímos a virtude da verdadeira fortaleza."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-20-sts-eustachius-and-companions.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Eustachius, half-length, a Roman general of the second century at the moment of his calling: a bronze muscled cuirass with leather straps over a short red tunic, a deep-red military cloak clasped at the right shoulder, a hunting horn slung at his side; bareheaded, his right hand laid on his breast and his left half-raised in awe. Behind him and a little to one side, in a sunlit clearing of a deep oak forest, a great white stag stands still and turns its head toward him; between its antlers shines a small radiant golden crucifix, the figure on it tiny and serene (Christ as in recurring-figures.md, too small for features). Awed, converted and humble; no hounds attacking, no brazen bull, no fire, no lettering.",
+      "face": "A Roman of about forty-five with a light-olive, sun-browned complexion and a HAWKISH face — a NARROW, high forehead, a LARGE, PROMINENT, high-bridged AQUILINE nose, keen dark eyes set CLOSE together under strong, ANGLED black brows, LEAN cheeks with deep lines from nose to mouth, a strong, FORWARD-JUTTING chin; short, crisp black hair going grey at the temples; a SHORT, close-trimmed black beard edged with grey along the jaw; the gaze wide-eyed with wonder, fixed on the stag. Not the young, curly george or sebastian, the sandy, cleft-chinned victor_marseilles, or the clean-shaven, old, hook-nosed laurence_justinian.",
+      "refs": [
+        "george",
+        "sebastian",
+        "francis_assisi"
+      ],
+      "basis": "No likeness exists; the Cretan icon on Wikipedia and Santi e Beati's emblems give the soldier or horseman and the stag with the cross between its antlers. The card paints the book's vision of the stag and a Roman officer's face that is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Eustace (lead: Cretan-school icon, 16th century)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Eustace"
+        },
+        {
+          "title": "Santi e Beati, Sant'Eustachio Placido (Roman Martyrology entry, 20 September)",
+          "url": "https://www.santiebeati.it/dettaglio/71000"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-20-sts-eustachius-and-companions (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-20-sts-eustachius-and-companions.md"
+        }
+      ],
+      "catalogMatch": "Sts. Eustachius and Companions, Martyrs",
+      "lifeChapter": "sep-20-sts-eustachius-and-companions"
+    },
+    {
+      "id": "theban_legion",
+      "letter": "T",
+      "feast": {
+        "month": 9,
+        "day": 22
+      },
+      "name": {
+        "en-US": "The Theban Legion",
+        "pt-BR": "A Legião Tebana"
+      },
+      "patronOf": {
+        "en-US": "St. Maurice and his soldiers, martyrs",
+        "pt-BR": "São Maurício e seus soldados, mártires"
+      },
+      "prayerExcerpt": {
+        "en-US": "Thank God for every slight and injury you have to bear. An injury borne in meekness and silence is a true victory.",
+        "pt-BR": "Agradece a Deus por cada desprezo e injúria que tens de suportar. Uma injúria suportada em mansidão e silêncio é uma verdadeira vitória."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-22-the-theban-legion.md Reflection, first two sentences (Pictorial Lives, public domain)",
+      "subject": "Three soldiers of the Theban Legion side by side, half-length, as their captain St. Maurice (centre) tells the emperor they will not shed innocent blood: all three in Roman scale armour over short tunics, bareheaded, their helmets laid aside. Maurice wears a deep-red officer's cloak, his right hand on his breast, his left holding his sword reversed, point down, as one who lays it down; Exuperius (left) sets his round shield on the ground; Candidus (right) holds a martyr's palm. Behind them, the narrow valley of the Rhône at Agaunum, the river between towering grey limestone cliffs and green Alpine slopes, the tents of a Roman camp and a long rank of soldiers with lowered spears in the distance. Calm, loyal and unresisting; no blood, no executioner, no lettering.",
+      "face": "Three clearly different men of Upper Egypt. MAURICE (centre), about forty, with DEEP-BROWN skin as in the Magdeburg statue: a LONG OVAL face with a HIGH, rounded forehead, HIGH, PROMINENT cheekbones, a BROAD, straight nose with rounded nostrils, full, well-drawn lips, large, calm dark eyes under straight black brows, a strong, ROUNDED chin; short, tightly curled black hair and a SHORT, close black beard along the jaw; the gaze steady and serene. EXUPERIUS (left), about fifty-five, warm olive-brown: a SQUARE, heavy-browed face with a strong, HOOKED nose, deep-set dark eyes, a wide, thin mouth and a SHORT, grizzled grey-black beard; close-cropped grey hair. CANDIDUS (right), about twenty-two, light-brown, BEARDLESS: a NARROW, TRIANGULAR face with a small, pointed chin, a straight, fine nose, large almond-shaped dark eyes lifted upward, short, straight black hair. Not the beardless young charles_lwanga, the round benedito, or the old, hooded Egyptians paphnutius and macarius_alexandria.",
+      "refs": [
+        "george",
+        "sebastian",
+        "philip_james"
+      ],
+      "basis": "Eucherius of Lyon's account, which the Martyrology follows, names Maurice, Exuperius and Candidus at Agaunum under Maximian. The legion came from the Thebaid in Egypt; Maurice has been shown as a dark-skinned African since the Magdeburg statue of about 1240 (Wikipedia), which the card follows. The companions' faces are ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Theban Legion (lead: Orthodox icon of the Theban Legion martyrs)",
+          "url": "https://en.wikipedia.org/wiki/Theban_Legion"
+        },
+        {
+          "title": "Wikipedia, Saint Maurice (iconography; the Magdeburg statue)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Maurice"
+        },
+        {
+          "title": "Santi e Beati, Santi Maurizio, Esuperio, Candido e Vittore (Roman Martyrology entry, 22 September)",
+          "url": "https://www.santiebeati.it/dettaglio/34800"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-22-the-theban-legion (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-22-the-theban-legion.md"
+        }
+      ],
+      "catalogMatch": "The Theban Legion",
+      "lifeChapter": "sep-22-the-theban-legion",
+      "proper": "sanctorale.09-22.africa"
+    },
+    {
+      "id": "firmin",
+      "letter": "F",
+      "feast": {
+        "month": 9,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Firmin",
+        "pt-BR": "São Firmino"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Amiens, martyr",
+        "pt-BR": "Bispo de Amiens, mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "He preached the Faith in the countries of Agen, Anjou, and Beauvais, and being arrived at Amiens, there chose his residence, and founded there a numerous church of faithful disciples.",
+        "pt-BR": "Pregou a Fé nas regiões de Agen, Anjou e Beauvais, e, tendo chegado a Amiens, ali escolheu sua residência, e fundou ali uma numerosa igreja de fiéis discípulos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-25-firmin.md, first paragraph (his), second sentence; the chapter, which tells Firmin and Finbarr together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Firmin, half-length, a missionary bishop of the third century: a simple, full red chasuble over a white alb, a low, plain white mitre, a plain wooden crosier in his left hand; his right hand raised in blessing over the unseen crowd; a martyr's palm tucked in the crook of his arm. Behind him, the green marshes and water-gardens of the Somme at Amiens, reeds and poplars along the river, and on a rise the low stone walls and red-tiled roofs of the small Gallo-Roman town of Samarobriva under a soft, bright northern sky. Zealous, warm and fearless; no cathedral, no wound, no lettering.",
+      "face": "A Navarrese of Pamplona of about forty, CLEAN-SHAVEN, with a sun-warm olive complexion and a LONG, NARROW face with a STRONG, PROJECTING CHIN — a high, narrow forehead, a LONG, STRAIGHT nose running from the brow with hardly a dip, NARROW-SET, bright black eyes under STRONGLY ARCHED, thick black brows, FLAT cheeks under clean cheekbones, a thin, firm, wide mouth, a long jaw ending in a DEEP, slightly jutting chin; thick, straight black hair cut short below the mitre; the gaze eager and bright, toward his people. Not the fair, long-faced thomas_becket, the young symphorian, or the hawk-nosed, bearded Eustachius of this batch.",
+      "refs": [
+        "thomas_becket",
+        "denis",
+        "francis_xavier"
+      ],
+      "basis": "The Amiens cathedral portal statue (French Wikipedia's lead) shows a young, clean-shaven bishop; the book and Wikipedia make him a native of Pamplona, so the card gives him a Navarrese face. Its structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Fermin (lead: San Fermín, Pamplona)",
+          "url": "https://en.wikipedia.org/wiki/Fermin"
+        },
+        {
+          "title": "Wikipedia (fr), Firmin d'Amiens (lead: statue of St. Firmin, Amiens cathedral)",
+          "url": "https://fr.wikipedia.org/wiki/Firmin_d%27Amiens"
+        },
+        {
+          "title": "Santi e Beati, San Firmino di Amiens (Roman Martyrology entry, 25 September)",
+          "url": "https://www.santiebeati.it/dettaglio/91990"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-25-firmin (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-25-firmin.md"
+        }
+      ],
+      "catalogMatch": "St. Firmin, Bishop, Martyr",
+      "lifeChapter": "sep-25-firmin"
+    },
+    {
+      "id": "finbarr",
+      "letter": "F",
+      "feast": {
+        "month": 9,
+        "day": 25
+      },
+      "name": {
+        "en-US": "St. Finbarr",
+        "pt-BR": "São Finbarr"
+      },
+      "patronOf": {
+        "en-US": "Patron of Cork",
+        "pt-BR": "Padroeiro de Cork"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Finbarr, who lived in the sixth century, was a native of Connaught, and instituted a monastery or school at Lough Eire, to which such numbers of disciples flocked, as changed, as it were, a desert into a large city.",
+        "pt-BR": "São Finbarr, que viveu no século sexto, era natural de Connaught, e instituiu um mosteiro ou escola em Lough Eire, ao qual acorreu tal número de discípulos que transformou, por assim dizer, um deserto numa grande cidade."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-25-firmin.md, second paragraph (his), first sentence; the chapter, which tells Firmin and Finbarr together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Finbarr, half-length, an Irish monk-bishop of the sixth century: a plain undyed white woollen cowl with a dark-brown mantle, a short Irish crook-headed crosier of bronze-bound wood in his left hand, a small book satchel of tooled leather on a strap across his breast; his right hand raised, teaching. Behind him, the marshy islands of the River Lee where Cork began: a small wooden church and round-roofed wattle cells on a green island among reeds and willows, a few students in white by the water, low wooded hills and a soft, silver Irish sky. Gentle, learned and welcoming; no lettering.",
+      "face": "An Irishman of about fifty with a fair, pink, lightly freckled complexion and a LONG, NARROW face with a SOFT, gently RECEDING chin — a high, bare forehead under the Irish tonsure shaved from ear to ear, a LONG, straight nose with a NARROW bridge, deep-set, PALE-BLUE eyes whose outer corners SLOPE DOWN, faint, near-white brows, high, FLAT cheekbones, a small, gentle mouth; hair of a striking PALE WHITE-BLOND (the 'fair crest' of his name) falling from behind the ears; a SOFT, pale-flaxen beard of medium length, PARTED into two short forks; the gaze kindly, toward his pupils. Not the broad, open, clean-shaven, white-haired columba, the big-boned, jutting-chinned columban, or the heart-shaped, dark-bearded fiaker.",
+      "refs": [
+        "patrick",
+        "benedict",
+        "bernard_clairvaux"
+      ],
+      "basis": "No likeness survives; Harry Clarke's window in the Honan Chapel (Wikipedia's lead) is modern. His name, Wikipedia says, came from the words spoken at his tonsure, \"Fair is the crest of Loan\", so the card gives him pale fair hair; the Irish tonsure and crosier are of his time. The structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Finbar of Cork (lead: Harry Clarke, St. Finbarr, Honan Chapel)",
+          "url": "https://en.wikipedia.org/wiki/Finbar_of_Cork"
+        },
+        {
+          "title": "Santi e Beati, San Findbar di Cork (Roman Martyrology entry, 25 September)",
+          "url": "https://www.santiebeati.it/dettaglio/71980"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, sep-25-firmin (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/sep-25-firmin.md"
+        }
+      ],
+      "catalogMatch": "St. Finbarr, Bishop",
+      "lifeChapter": "sep-25-firmin"
+    },
+    {
+      "id": "remigius",
+      "letter": "R",
+      "feast": {
+        "month": 10,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Remigius",
+        "pt-BR": "São Remígio"
+      },
+      "patronOf": {
+        "en-US": "Apostle of the Franks",
+        "pt-BR": "Apóstolo dos francos"
+      },
+      "prayerExcerpt": {
+        "en-US": "Few men have had such natural advantages and such gifts of grace as St. Remi, and few have done so great a work. Learn from him to bear the world's praise as well as its scorn with a lowly and chastened heart.",
+        "pt-BR": "Poucos homens tiveram tais vantagens naturais e tais dons de graça como São Remi, e poucos realizaram obra tão grande. Aprende com ele a suportar tanto o louvor do mundo quanto o seu escárnio com um coração humilde e mortificado."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-01-remigius.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Remigius, half-length, a very tall Gallo-Roman bishop of about 500: a full, bell-shaped white chasuble with a gold orphrey over a white alb, a low white mitre; a plain gilt crosier in his left hand, and in his right a small glass flask of holy chrism, held up before his breast. Behind him, the Gallo-Roman city of Reims: a small early church with a round-arched baptistery, Roman walls and a triumphal arch, the flat Champagne plain and a golden winter sky of Christmas morning. Majestic, gentle and serene; no king, no dove, no lettering.",
+      "face": "A Gallo-Roman noble of about sixty, UNUSUALLY TALL, with a LONG NECK and a pale, fine complexion and a LONG, NOBLE, symmetrical face — a HIGH, broad, smooth forehead, a LONG, straight, finely cut nose, LARGE, calm grey eyes set LEVEL under LONG, straight silver brows, smooth, LONG cheeks, a small, serene closed mouth, a long, gently rounded chin; silver-grey hair cut short below the mitre; a MEDIUM, neatly combed silver beard, smooth and oval, not full or flowing; the gaze calm and a little lowered, with 'blended majesty and serenity'. Not the lantern-jawed gregory_langres, the square, laughing medard, the square-bearded, domed germanus_auxerre, or the clean-shaven, underbitten germanus_paris.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "The book itself describes him: \"unusually tall, his face impressed with blended majesty and serenity, his bearing gentle, humble, and retiring\". Santi e Beati gives his emblems as the crosier and the flask of oil; the card follows both, and the structure of the face is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Remigius (lead: Master of Saint Giles, The Baptism of Clovis)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Remigius"
+        },
+        {
+          "title": "Santi e Beati, San Remigio di Reims (Roman Martyrology entry, 13 January)",
+          "url": "https://www.santiebeati.it/dettaglio/72600"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-01-remigius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-01-remigius.md"
+        }
+      ],
+      "catalogMatch": "St. Remigius, Bishop",
+      "lifeChapter": "oct-01-remigius"
+    },
+    {
+      "id": "gerard_brogne",
+      "letter": "G",
+      "feast": {
+        "month": 10,
+        "day": 3
+      },
+      "name": {
+        "en-US": "St. Gerard",
+        "pt-BR": "São Gerardo"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Brogne",
+        "pt-BR": "Abade de Brogne"
+      },
+      "prayerExcerpt": {
+        "en-US": "Though we are in the world, let us strive to separate ourselves from it and consecrate ourselves to God, remembering that \"the world passeth away, but he that doth the will of God abideth forever.\"",
+        "pt-BR": "Embora estejamos no mundo, esforcemo-nos por separar-nos dele e consagrar-nos a Deus, lembrando que \"o mundo passa, mas aquele que faz a vontade de Deus permanece para sempre.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-03-gerard.md Reflection, the whole of it (1 John 2:17) (Pictorial Lives, public domain)",
+      "subject": "St. Gerard, half-length, a Benedictine abbot of the tenth century: a plain black monastic cowl with wide sleeves, the hood fallen on the shoulders, a simple wooden abbot's staff in his right hand; in his left, held with care against his breast, a small house-shaped reliquary of gilt copper, the relic of St. Eugene he brought from Saint-Denis. Behind him, the small Romanesque stone abbey church of Brogne with a low square tower, a few monastery roofs and a walled garden, in a green valley of the Namur country with wooded hills and a stream, under a clear morning sky. Sweet-tempered, recollected and joyful; no lettering.",
+      "face": "A noble of the Namur country of about sixty, once a soldier, CLEAN-SHAVEN, with a fair, ruddy complexion and a SHORT, WIDE, SQUARE-OVAL face with FULL, ROUNDED cheeks — a broad, low forehead under the tonsure, a SHORT, slightly UPTURNED nose with a rounded tip, ROUND, warm brown eyes with deep laughter lines, BUSHY brown-grey brows, a WIDE, kindly mouth set in a DIMPLED half-smile, a short, ROUND chin; greying brown hair in a thick monastic crown; the gaze warm and engaging, toward us, with the 'engaging sweetness of temper' of the book. Not the Greek-nosed hugh_cluny, the white-bearded gal_clermont, or the lean, high-browed benedict_aniane.",
+      "refs": [
+        "benedict",
+        "bernard_clairvaux",
+        "vincent_de_paul"
+      ],
+      "basis": "No likeness survives; the modern statue at Saint-Gérard (Wikipedia's lead) shows a monk. The book's \"engaging sweetness of temper\" gives the expression, and Wikipedia's relic of St. Eugene from Saint-Denis gives the reliquary; the structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Gerard of Brogne (lead: statue at Saint-Gérard)",
+          "url": "https://en.wikipedia.org/wiki/G%C3%A9rard_of_Brogne"
+        },
+        {
+          "title": "Wikipedia (fr), Gérard de Brogne",
+          "url": "https://fr.wikipedia.org/wiki/G%C3%A9rard_de_Brogne"
+        },
+        {
+          "title": "Santi e Beati, San Gerardo di Brogne (Roman Martyrology entry, 3 October)",
+          "url": "https://www.santiebeati.it/dettaglio/72650"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-03-gerard (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-03-gerard.md"
+        }
+      ],
+      "catalogMatch": "St. Gerard, Abbot",
+      "lifeChapter": "oct-03-gerard"
+    },
+    {
+      "id": "placid",
+      "letter": "P",
+      "feast": {
+        "month": 10,
+        "day": 5
+      },
+      "name": {
+        "en-US": "St. Placid",
+        "pt-BR": "São Plácido"
+      },
+      "patronOf": {
+        "en-US": "Disciple of St. Benedict",
+        "pt-BR": "Discípulo de São Bento"
+      },
+      "prayerExcerpt": {
+        "en-US": "Adversity is the touchstone of the soul, because it discovers the character of the virtue which it possesses. One act of thanksgiving when matters go wrong with us is worth a thousand thanks when things are agreeable to our inclinations.",
+        "pt-BR": "A adversidade é a pedra de toque da alma, porque revela o caráter da virtude que ela possui. Um ato de ação de graças quando as coisas nos correm mal vale mais que mil agradecimentos quando as coisas estão conforme as nossas inclinações."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-05-placid.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Placid, half-length, a young Benedictine monk: a plain black monastic habit and cowl, the hood fallen back, hands joined in prayer before his breast, a small wooden cross on a cord. Behind him, the lake of Subiaco in the deep, wooded gorge of the Aniene, with the cliffside cells of St. Benedict's first monasteries on the rocks above, the still water where he once fell in and was drawn out, green holm-oaks and a clear Italian sky. Innocent, obedient and serene; no palm, no martyrdom, no other figures, no lettering.",
+      "face": "A young Roman patrician of about twenty, BEARDLESS, with a pale olive complexion and a LONG, NARROW OVAL face — a narrow, high forehead, a SLENDER, HIGH-BRIDGED Roman nose, LARGE, ALMOND-SHAPED dark-brown eyes set a little wide under thin, LEVEL dark brows, softly HOLLOW cheeks, a small, full-lipped mouth, a DELICATE, NARROW chin; black hair cut in a thick ring round a monastic tonsure; the gaze lifted, as in Perugino's panel, clear and innocent. Not the round-faced boy pancras, the soft-oval aloysius_gonzaga, or the heart-shaped, older nicholas_tolentino.",
+      "refs": [
+        "aloysius_gonzaga",
+        "benedict",
+        "anthony_padua"
+      ],
+      "basis": "Perugino's panel (Wikipedia's lead) shows him young, tonsured, in the black habit, eyes lifted. Gregory the Great's Dialogues (II.7), told by Wikipedia and Santi e Beati, place him at Subiaco as a boy drawn from the lake; the card shows that place and leaves out the martyrdom (see the dossier). The structure is ours.",
+      "sources": [
+        {
+          "title": "Wikipedia, Placidus (abbot) (lead: Pietro Perugino, Saint Placidus)",
+          "url": "https://en.wikipedia.org/wiki/Placidus_(abbot)"
+        },
+        {
+          "title": "Santi e Beati, San Placido (Roman Martyrology entry, 5 October)",
+          "url": "https://www.santiebeati.it/dettaglio/73000"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-05-placid (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-05-placid.md"
+        }
+      ],
+      "catalogMatch": "St. Placid, Martyr",
+      "lifeChapter": "oct-05-placid"
+    }
+  ]
+}

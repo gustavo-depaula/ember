@@ -1,0 +1,44 @@
+{
+  "id": "gospel",
+  "name": {
+    "en-US": "Gospel",
+    "pt-BR": "Evangelho"
+  },
+  "patronOf": {
+    "en-US": "Christ speaks to his people",
+    "pt-BR": "Cristo fala ao seu povo"
+  },
+  "prayerExcerpt": {
+    "en-US": "A reading from the holy Gospel according to John. Glory to you, O Lord.",
+    "pt-BR": "Proclamação do Evangelho de Jesus Cristo segundo João. Glória a vós, Senhor."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The high point of the Liturgy of the Word (GIRM 60): at the ambo the priest announces the Gospel, the people acclaim 'Glory to you, O Lord', and he incenses the book, the ministers with candles and thurible having gone before him; all stand, turned toward the ambo (GIRM 133–134, 43). With no deacon, the priest proclaims it (GIRM 59).",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json readings.C.gospel introduction (the ✠ dropped, full stop added) and the people's reply gloryToYou in apps/app/src/sources/of/responses.ts",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 59–60 (standing; who proclaims the Gospel; its marks of honour)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 133–134 (the Gospel at the ambo, the acclamation, the incensation of the book)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Year C, Gospel (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+      },
+      {
+        "title": "The people's fixed replies to the readings (apps/app/src/sources/of/responses.ts)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/apps/app/src/sources/of/responses.ts"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

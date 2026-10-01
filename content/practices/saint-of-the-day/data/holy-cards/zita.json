@@ -1,0 +1,45 @@
+{
+  "id": "zita",
+  "feast": {
+    "month": 4,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Zita",
+    "pt-BR": "Santa Zita"
+  },
+  "patronOf": {
+    "en-US": "Patroness of domestic servants",
+    "pt-BR": "Padroeira das empregadas domésticas"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Work and pray, pray and work,\" a voice replied, \"and thou shalt be saved.\"",
+    "pt-BR": "\"Trabalha e ora, ora e trabalha\", respondeu uma voz, \"e serás salvo.\""
+  },
+  "lifeChapter": "apr-27-zita",
+  "meta": {
+    "face": "A Tuscan countrywoman of about forty-five with a warm, lightly sun-browned complexion and a MEDIUM OVAL face whose LOWER HALF leads in profile — a gently SLOPING forehead, a SHORT, straight nose with a small, slightly UPTURNED tip, a LONG UPPER LIP over a full, softly FORWARD mouth, a ROUNDED, firm chin, small DIMPLES in flat, narrow cheeks; LARGE, round, bright hazel eyes under straight, soft brown brows; brown hair parted in the middle under the kerchief; the gaze modest and warm, a small smile.",
+    "basis": "No likeness from life. The book tells her forty-eight years in the service of Fatinelli, a citizen of Lucca, her Mass before dawn, the bread made by angels while she prayed, and her charge of the household and the poor fed at the door; its engraving shows a young servant with a pitcher at a doorway. Wikipedia makes her patroness of maids and domestic servants, invoked for lost keys, and places her cult at San Frediano in Lucca, whose façade mosaic is of the thirteenth century. The oval face with the forward mouth and upturned nose is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-27-zita.md Reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Zita (lead image: a Baroque painting of her with a pitcher)",
+        "url": "https://en.wikipedia.org/wiki/Zita"
+      },
+      {
+        "title": "Wikipedia, Basilica of San Frediano (façade mosaic, 13th–14th c.)",
+        "url": "https://en.wikipedia.org/wiki/Basilica_of_San_Frediano"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-27-zita (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-27-zita.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

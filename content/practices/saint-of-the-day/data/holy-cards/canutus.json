@@ -1,0 +1,45 @@
+{
+  "id": "canutus",
+  "feast": {
+    "month": 1,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Canutus",
+    "pt-BR": "São Canuto"
+  },
+  "patronOf": {
+    "en-US": "King of Denmark, martyr",
+    "pt-BR": "Rei da Dinamarca, mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "The keenest joy we are capable of feeling consists in prostrating all our powers of mind and heart in humblest adoration before the majesty of God.",
+    "pt-BR": "A mais viva alegria que somos capazes de sentir consiste em prostrar todas as faculdades do espírito e do coração na mais humilde adoração diante da majestade de Deus."
+  },
+  "lifeChapter": "jan-19-canutus",
+  "meta": {
+    "face": "A Dane of about forty-two, strongly built, with a fair, weather-reddened complexion and a DIAMOND-SHAPED face — a narrowish forehead under the crown, VERY WIDE, high cheekbones, tapering to a firm, rounded chin; a short, straight nose with a slightly upturned tip; narrow, wide-set pale-blue eyes under straight, sandy brows; a full, wide mouth; thick, straight red-gold hair to the jaw; a short, full red-gold beard and moustache; a calm, resolute gaze to one side.",
+    "basis": "The forensic studies of his skeleton at Odense (Danish Wikipedia) found a right-handed warrior with a skull of a man of 39 to 55, and he was born about 1043, so about forty-two at his death; nothing of his face or colouring is recorded. The dress follows the twelfth-century painted column in the Church of the Nativity at Bethlehem that shows him crowned with a lance and a cross-marked shield; the book gives the church where he died. The fair colouring and diamond structure are our choice, kept apart from `wenceslaus` and `stephen_hungary`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-19 reflection, its closing clause, capitalised (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Canute IV of Denmark (lead image: Benzon, The death of Canute the Holy)",
+        "url": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark"
+      },
+      {
+        "title": "Wikipedia (Danish), Knud den Hellige: the skeleton studies and the Bethlehem picture",
+        "url": "https://da.wikipedia.org/wiki/Knud_den_Hellige"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-19-canutus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-19-canutus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

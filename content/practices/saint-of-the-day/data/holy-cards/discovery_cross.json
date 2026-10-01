@@ -1,0 +1,45 @@
+{
+  "id": "discovery_cross",
+  "feast": {
+    "month": 5,
+    "day": 3
+  },
+  "name": {
+    "en-US": "The Discovery of the Holy Cross",
+    "pt-BR": "A Descoberta da Santa Cruz"
+  },
+  "patronOf": {
+    "en-US": "St. Helena finds the True Cross",
+    "pt-BR": "Santa Helena encontra a Vera Cruz"
+  },
+  "prayerExcerpt": {
+    "en-US": "In every pious undertaking the beginning merely does not suffice.",
+    "pt-BR": "Em todo empreendimento piedoso o mero começo não basta."
+  },
+  "lifeChapter": "may-03-the-discovery-of-the-holy-cross",
+  "meta": {
+    "face": "St. Helena as in recurring-figures.md: the empress at about seventy-eight, a LONG, dignified face narrowing to a FIRM, slightly prominent chin — a high forehead, a STRONG, STRAIGHT ROMAN NOSE running on from the line of the brow, large deep-set grey-brown eyes under thin, arched silver brows, lean cheeks with fine lines at the eyes and mouth; silver-white hair waved back from the brow and gathered in a low bun at the nape, as on her coins, under a white veil and a slender jewelled gold diadem; a white stola bordered in gold and a deep purple imperial mantle; she looks at the Cross with wonder and gratitude. The others are small and clearly different: the healed woman, about forty, with a ROUND, flushed face, dark hair loose on the pillow, a plain linen shift; the bishop Macarius, about sixty, a LEAN, NARROW face with a hooked nose and a short dark-grey pointed beard, bare-headed with a small tonsure, in a white tunic and a white pallium with dark crosses (no mitre, unlike the white-bearded mitred bishop of exaltation_cross); the workmen tanned, in short tunics, faces turned to the miracle.",
+    "basis": "The Pictorial Lives, after Rufinus and Paulinus, tells how Helena, 'near eighty', had the temple over Calvary pulled down, found three crosses with the nails and the title, and how Bishop Macarius identified the true one by the healing of a dying woman; its engraving shows that moment. Helena's face is new: Eusebius gives her age as about eighty, and her coins show a straight nose, a firm chin and hair drawn back to a bun with a diadem.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 05-03 reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia: Helena, mother of Constantine I (age, the finding, the healed woman)",
+        "url": "https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
+      },
+      {
+        "title": "Harvard Art Museums: posthumous coin of Helena",
+        "url": "https://harvardartmuseums.org/collections/object/177786"
+      },
+      {
+        "title": "Writing Helena: Helena's hair (her coin portraits)",
+        "url": "https://writinghelena.wordpress.com/2018/01/12/helenas-hair/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}

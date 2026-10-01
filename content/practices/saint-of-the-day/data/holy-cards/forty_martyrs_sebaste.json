@@ -1,0 +1,45 @@
+{
+  "id": "forty_martyrs_sebaste",
+  "feast": {
+    "month": 3,
+    "day": 10
+  },
+  "name": {
+    "en-US": "The Forty Martyrs of Sebaste",
+    "pt-BR": "Os Quarenta Mártires de Sebaste"
+  },
+  "patronOf": {
+    "en-US": "Soldiers and martyrs",
+    "pt-BR": "Soldados e mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Grant that forty may be crowned.\"",
+    "pt-BR": "\"Concedei que quarenta sejam coroados.\""
+  },
+  "lifeChapter": "mar-10-the-forty",
+  "meta": {
+    "face": "Four principal figures, each a different man. (1) Centre front, THE YOUNGEST: about eighteen, BEARDLESS, with a warm, light-olive complexion and a SMALL, NARROW, heart-shaped face — a short, straight nose, very large, dark eyes lifted to the crowns, fine arched brows, a small mouth; short, straight black hair. (2) Left: an old soldier of about sixty, BALD, with a BROAD, SQUARE, heavy-jawed face, a short, BROKEN, flattened nose, small, deep-set grey eyes under bristling grey brows, and a ROUNDED white beard. (3) Right: a grey-haired man of about fifty with a LONG, NARROW face, a long, thin, hooked nose, hollow cheeks, deep-set dark eyes, and a POINTED grey beard. (4) Behind them, the guard Aglaius: about thirty-five, with a WIDE, flat-cheeked face, a strong straight nose, level black brows, a black moustache and short black stubble, looking up in wonder at the crowns. The small figures behind: varied ages, some bearded, some beardless.",
+    "basis": "The Painter's Manual lists the Forty one by one, young and old, beardless, pointed- and rounded-bearded, and the card mixes those types; Sisinnius, 'a bald old man with a rounded beard', gives the old soldier. The book and Wikipedia (after St. Basil) give the frozen pond, the warm baths, the angels with crowns, the guard who took the place of the one who fled (Wikipedia names him Aglaius) and the youngest who held out longest; the Orthodox icon on Wikipedia shows them crowded together on the ice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/mar-10-the-forty.md, the martyrs' prayer on the ice (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Forty Martyrs of Sebaste (lead image: icon of the Forty)",
+        "url": "https://en.wikipedia.org/wiki/Forty_Martyrs_of_Sebaste"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hetherington translation, consulted locally), the martyrs of the year",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-10-the-forty (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-10-the-forty.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

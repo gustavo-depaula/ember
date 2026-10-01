@@ -1,0 +1,49 @@
+{
+  "id": "john_matha",
+  "feast": {
+    "month": 2,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. John of Matha",
+    "pt-BR": "São João de Matha"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Trinitarians",
+    "pt-BR": "Fundador dos Trinitários"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us never forget that our blessed Lord bade us love our neighbor not only as ourselves, but as He loved us.",
+    "pt-BR": "Jamais nos esqueçamos de que o nosso bendito Senhor nos ordenou amar o próximo não somente como a nós mesmos, mas como Ele nos amou."
+  },
+  "lifeChapter": "feb-08-john-of-matha",
+  "meta": {
+    "face": "A Provençal Frenchman of about fifty, CLEAN-SHAVEN, with a fair, lightly sun-browned complexion and a medium-width OVAL face with a CONVEX PROFILE — a gently SLOPING forehead, a LARGE, CURVED, high-bridged nose that leads the face, a SHORT, softly rounded chin set a little back under the mouth, lean cheeks with shallow hollows; CLOSE-SET, bright dark-brown eyes under thin, ARCHED dark brows; a small, gentle mouth; dark-brown hair cropped short in a round crown with a small tonsure; the gaze turned toward us, kind and resolute.",
+    "basis": "No likeness from life; the seventeenth-century portrait engraved after Erasmus Quellinus and La Hyre's full-length study (both on Commons, local copies) show him clean-shaven with cropped hair in the white habit, which the card keeps, and the book's engraving shows the cross on the breast and the purse. The Trinitarian cross, red upright and blue crossbar, is from Wikipedia's Trinitarians article; the ship with his cloak for a sail reaching Ostia is the book's. The convex profile is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-08 reflection, its first clause closed with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Martin van den Enden after Erasmus Quellinus II, portrait of St. John of Matha",
+        "url": "https://commons.wikimedia.org/wiki/File:Martin_ENDEN_VAN_DEN_D%27apr%C3%A8s_Erasmus_II_QUELLINUS_-_Un_portrait_de_Saint_Jean_de_Matha.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Laurent de La Hyre, St John of Matha, Founder of the Order of the Trinitarians",
+        "url": "https://commons.wikimedia.org/wiki/File:Laurent_de_La_Hyre_-_St_John_of_Matha,_Founder_of_the_Order_of_the_Trinitarians_-_WGA12318.jpg"
+      },
+      {
+        "title": "Wikipedia, Trinitarians (the habit and the red and blue cross)",
+        "url": "https://en.wikipedia.org/wiki/Trinitarians"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-08-john-of-matha (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-08-john-of-matha.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

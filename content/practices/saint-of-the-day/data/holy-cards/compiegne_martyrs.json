@@ -1,0 +1,48 @@
+{
+  "id": "compiegne_martyrs",
+  "feast": {
+    "month": 7,
+    "day": 17
+  },
+  "name": {
+    "en-US": "The Carmelite Martyrs of Compiègne",
+    "pt-BR": "Mártires Carmelitas de Compiègne"
+  },
+  "patronOf": {
+    "en-US": "Sixteen Carmelites, martyrs of 1794",
+    "pt-BR": "Dezesseis carmelitas, mártires de 1794"
+  },
+  "prayerExcerpt": {
+    "en-US": "O praise the Lord, all you nations, acclaim him all you peoples!",
+    "pt-BR": "Cantai louvores ao Senhor, todas as gentes, povos todos, festejai-o!"
+  },
+  "meta": {
+    "face": "Three clearly different women. Mother Teresa of St. Augustine (centre): a Parisian of forty-one with a fair complexion and a HEART-SHAPED face — a broad, smooth forehead, WIDE-SET, large grey eyes under fine, high-arched brows, a small, straight nose, a small, firm, pointed chin and a composed, closed mouth; the gaze calm and resolute, lifted a little. Sister Constance (left): a novice of twenty-nine with a ROUND, fresh face — full, rosy cheeks, a short, slightly UPTURNED nose, bright brown eyes, round brows, lips parted as she sings; eager and radiant. Sister Charlotte (right): a small old woman of seventy-eight with a LONG, NARROW, finely lined face — a long nose, deep laughter lines at the eyes and mouth, sunken cheeks, light-blue eyes bright and merry, a wide, thin smile; cheerful and undaunted. None of them the young oval of therese or the square jaw of teresa_benedicta.",
+    "basis": "No portraits from life survive, so the faces are ours, made distinct by age and bone structure. The Dicastery gives the names, ages and the singing on the way; French Wikipedia records that they put their habits and white choir mantles on again before they were taken to Paris, that Sister Constance, the novice and youngest, went first intoning the Laudate Dominum, and English Wikipedia that Sister Charlotte, 78, walked with a crutch and was 'naturally inclined towards gaiety'.",
+    "excerpt": "content/of/formularies/sanctoral/01-25.json readings.default.psalm (Ps 117:1, the Laudate Dominum that Sister Constance intoned on the scaffold; its two lines joined, the pt-BR second line lower-cased)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Martiri Carmelitane di Compiègne (biography; the sixteen names)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/martiri-carmelitane-di-compiegne.html"
+      },
+      {
+        "title": "Wikipédia, Carmélites de Compiègne (the habit and white mantle; the Laudate Dominum)",
+        "url": "https://fr.wikipedia.org/wiki/Carmélites_de_Compiègne"
+      },
+      {
+        "title": "Wikipedia, Martyrs of Compiègne (Sister Charlotte; Sister Constance)",
+        "url": "https://en.wikipedia.org/wiki/Martyrs_of_Compiègne"
+      },
+      {
+        "title": "Wikimedia Commons, Our Lady of Mount Carmel Church, Quidenham, Norfolk - Windows (the martyrs' window)",
+        "url": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Mount_Carmel_Church,_Quidenham,_Norfolk_-_Windows_-_geograph.org.uk_-_1084822.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

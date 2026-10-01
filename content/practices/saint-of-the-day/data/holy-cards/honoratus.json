@@ -1,0 +1,45 @@
+{
+  "id": "honoratus",
+  "feast": {
+    "month": 1,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Honoratus of Arles",
+    "pt-BR": "Santo Honorato de Arles"
+  },
+  "patronOf": {
+    "en-US": "Founder of Lérins, Archbishop of Arles",
+    "pt-BR": "Fundador de Lérins, Arcebispo de Arles"
+  },
+  "prayerExcerpt": {
+    "en-US": "The soul cannot truly serve God while it is involved in the distractions and pleasures of the world.",
+    "pt-BR": "A alma não pode verdadeiramente servir a Deus enquanto está envolvida nas distrações e nos prazeres do mundo."
+  },
+  "lifeChapter": "jan-16-honoratus",
+  "meta": {
+    "face": "A Gallo-Roman of about seventy-five with a light olive complexion and a face whose HIGH, BROAD, DOMED forehead is much larger than the SHORT, SMALL lower face — widely spaced, pale-blue eyes with gently drooping outer corners under thin, level white brows, a small, neat, straight nose, soft, full, rosy cheeks, a small mouth with a gentle smile, a small, rounded chin; the crown bald with a light fringe of white hair; a short, neat, rounded white beard close to the chin; a mild, fatherly gaze toward us.",
+    "basis": "No likeness survives; the sixteenth-century woodcut of the Occitan Vida de sant Honorat (Wikipedia lead image) shows only a mitred archbishop with a cross-staff. The book gives his consular Roman family, the island monastery of Lérins about 400 and his consecration for Arles in 426; his pupil Hilary praised the charity and concord of his community, hence the kindly, welcoming face. The domed, small-featured structure is our choice, kept apart from `hilary` (trapezoid) and `paulinus_nola` (heart-shaped, clean-shaven).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-16 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Honoratus of Arles (lead image: woodcut, La vida de sant Honorat)",
+        "url": "https://en.wikipedia.org/wiki/Honoratus_of_Arles"
+      },
+      {
+        "title": "Wikipedia, Lérins Islands (Île Saint-Honorat)",
+        "url": "https://en.wikipedia.org/wiki/Lérins_Islands"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-16-honoratus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-16-honoratus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

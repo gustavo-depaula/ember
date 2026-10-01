@@ -1,0 +1,48 @@
+{
+  "id": "marie_leonie_paradis",
+  "feast": {
+    "month": 5,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Marie-Léonie Paradis",
+    "pt-BR": "Santa Maria Leônia Paradis"
+  },
+  "patronOf": {
+    "en-US": "Foundress, helper of priests",
+    "pt-BR": "Fundadora, auxiliar dos sacerdotes"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Be humble, without any pretension, loving to please others, and you will always be happy.\"",
+    "pt-BR": "\"Sede humildes, sem nenhuma pretensão, gostando de agradar aos outros, e sereis sempre felizes.\""
+  },
+  "meta": {
+    "face": "A sturdy Québécoise of about sixty-five with a fair complexion and a WIDE, FLAT, RECTANGULAR face closely framed by the coif — a broad, smooth forehead, STRAIGHT, heavy dark brows, small, DEEP-SET, pale, steady eyes, a SHORT, straight nose with a broad base, a notably LONG, FLAT upper lip, a straight, THIN-lipped mouth firmly closed, full, flat cheeks and a broad chin; the gaze level and steady, toward us.",
+    "basis": "Her photographs of 1906 (Centre Marie-Léonie Paradis, on Wikimedia Commons) and the Dicastery's portrait: a wide, flat, rectangular face in a stiff white coif, straight heavy brows over small deep-set eyes, a short nose, a long upper lip and a thin, straight mouth. Sherbrooke is where the motherhouse moved in 1895 and where she died.",
+    "excerpt": "Her counsel to her sisters, «soyez humbles, sans aucune prétention, aimant faire plaisir aux autres et vous serez toujours heureuses», as quoted by Vatican News (October 2024; fuller in Marie de Nazareth's '1000 raisons de croire'); our rendering (she died in 1912)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Marie-Léonie Paradis, 1906.jpg (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Marie-Léonie_Paradis,_1906.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Marie-Léonie Paradis (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/marie-leonie-paradis.html"
+      },
+      {
+        "title": "Dictionary of Canadian Biography, Paradis, Élodie, named Mother Marie-Léonie",
+        "url": "https://www.biographi.ca/en/bio/paradis_elodie_14E.html"
+      },
+      {
+        "title": "Vatican News, Mère Marie-Léonie, «l'humble parmi les humbles», canonisée (October 2024)",
+        "url": "https://www.vaticannews.va/fr/eglise/news/2024-10/mere-marie-leonie-l-humble-parmi-les-humbles-bientot-canonisee.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "perpetual_help",
+  "feast": {
+    "month": 6,
+    "day": 27
+  },
+  "name": {
+    "en-US": "Our Lady of Perpetual Help",
+    "pt-BR": "Nossa Senhora do Perpétuo Socorro"
+  },
+  "patronOf": {
+    "en-US": "Mother of ever-present help",
+    "pt-BR": "Mãe do socorro sempre presente"
+  },
+  "prayerExcerpt": {
+    "en-US": "We fly to thy patronage, O holy Mother of God.",
+    "pt-BR": "À vossa proteção recorremos, Santa Mãe de Deus."
+  },
+  "meta": {
+    "face": "The icon's own face, not the set's Our Lady: a LONG, NARROW Byzantine face — a long, very thin straight nose, large, dark, almond-shaped eyes with heavy lids under long, thin, high-arched brows, a SMALL, closed, dark-red mouth, a long smooth cheek and a small chin; olive skin; the head inclined a little toward the Child and the gaze turned out to the viewer, grave and sorrowful. The Child: a small boy of about three with a round face, short brown hair, his head turned back and up toward the angel with the cross. The angels: small, round, youthful faces with short brown curls.",
+    "basis": "A Marian title that shows its own image paints that image (recurring-figures.md): the fifteenth-century Cretan icon entrusted to the Redemptorists by Pius IX in 1866, as on its Commons photograph and in Wikipedia's description (Michael with the lance and sponge, Gabriel with the three-barred cross and nails, the fallen sandal, the star on the veil).",
+    "excerpt": "The opening of the Sub tuum praesidium: en-US from content/practices/sub-tuum-praesidium/manifest.json, pt-BR as quoted in content/practices/mary-mother-of-god-novena/data/days.json (the sub-tuum manifest drops the crase)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Perpetual help original icon.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Perpetual_help_original_icon.jpg"
+      },
+      {
+        "title": "Wikipedia, Our Lady of Perpetual Help (the icon, the feast on 27 June)",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Perpetual_Help"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}

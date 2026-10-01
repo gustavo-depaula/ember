@@ -1,0 +1,45 @@
+{
+  "id": "paternus_avranches",
+  "feast": {
+    "month": 4,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Paternus",
+    "pt-BR": "São Paterno"
+  },
+  "patronOf": {
+    "en-US": "Monk and bishop",
+    "pt-BR": "Monge e bispo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blessed are the peacemakers, for they shall be called the children of God.",
+    "pt-BR": "Bem-aventurados os pacíficos, porque serão chamados filhos de Deus."
+  },
+  "lifeChapter": "apr-15-paternus",
+  "meta": {
+    "face": "A Gallo-Roman of about seventy, weathered by sea wind, with a ruddy, fair complexion and a LONG, SHIELD-SHAPED face — a STRAIGHT, HORIZONTAL line of broad, FLAT cheekbones set HIGH, the sides of the face falling almost PARALLEL below them and curving into a broad, rounded chin; a very HIGH, flat forehead; NARROW, pale-grey eyes, SLANTING slightly upward at the outer corners and creased from squinting at the sea, under thin, straight white brows; a thin, long, straight nose; a small, closed mouth; thin white hair cut short round a bald crown; a LONG, NARROW, straight white beard to the breast; the gaze mild and peaceable, a little to the side.",
+    "basis": "No likeness survives. The book tells his birth at Poitiers, his monastery in Wales (Llanbadarn), his hermitage with St. Scubilion in the forest of Scicy near the sea, his mission as far as Bayeux, his consecration as Bishop of Avranches, and his retirement to keep the peace; its engraving shows a bishop between a monk and a man with a scroll among ruins. Wikipedia's Padarn holds that the Welsh Padarn appears to be the same man as Paternus of Avranches; its lead image is a modern icon of a bearded bishop. The shield-shaped face with the high, flat cheekbone line and slanting grey eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-15-paternus.md Reflection, the Gospel words it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Padarn (identified with Paternus of Avranches; lead image: modern icon)",
+        "url": "https://en.wikipedia.org/wiki/Padarn"
+      },
+      {
+        "title": "Wikipedia, Avranches",
+        "url": "https://en.wikipedia.org/wiki/Avranches"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-15-paternus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-15-paternus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

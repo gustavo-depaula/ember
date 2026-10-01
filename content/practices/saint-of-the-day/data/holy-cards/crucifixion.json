@@ -1,0 +1,36 @@
+{
+  "id": "crucifixion",
+  "name": {
+    "en-US": "The Crucifixion",
+    "pt-BR": "A Crucifixão"
+  },
+  "patronOf": {
+    "en-US": "The fifth Sorrowful Mystery",
+    "pt-BR": "O quinto mistério doloroso"
+  },
+  "prayerExcerpt": {
+    "en-US": "Father, into your hands I commit my spirit",
+    "pt-BR": "Pai, nas tuas mãos entrego o meu espírito."
+  },
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; the face lifted to heaven, peaceful in surrender. Our Lady as in recurring-figures.md, the same face matured (the same woman, not a different face), a woman of about forty-eight with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head (a rose-red gown beneath); she stands upright, sorrowful and steadfast. St. John as in recurring-figures.md: a beardless young man of about twenty-two with a smooth OVAL face, large upturned brown eyes, a straight nose, a small full mouth; wavy golden-brown hair to the jaw; a green tunic and a red-orange mantle; he looks up at the Lord. Unlike mother_of_church (where Mary and John turn away together and the crosses are small and far off), here Christ on the Cross fills the upper centre and the two stand apart on either side of it, facing him.",
+    "basis": "John 19:25-27 and Luke 23:44-46; the Stabat Mater composition (Christ between Mary and John) of Western altarpieces and devotional cards. Batch 17's mother_of_church already shows Mary and John in the foreground with distant crosses, so this card puts the Cross itself in the middle, at the moment of the last words. Faces from recurring-figures.md.",
+    "excerpt": "content/of/formularies/tempore/holy-week/palm-sunday.json readings.C.gospel (the Passion, Lk 23:46), Christ's last words (both languages)",
+    "sources": [
+      {
+        "title": "Luke 23 (Douay-Rheims)",
+        "url": "https://www.drbo.org/chapter/49023.htm"
+      },
+      {
+        "title": "Wikipedia: Crucifixion in the arts (Mary and John beneath the Cross)",
+        "url": "https://en.wikipedia.org/wiki/Crucifixion_in_the_arts"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}

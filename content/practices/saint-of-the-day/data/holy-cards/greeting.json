@@ -1,0 +1,40 @@
+{
+  "id": "greeting",
+  "name": {
+    "en-US": "Greeting",
+    "pt-BR": "Saudação"
+  },
+  "patronOf": {
+    "en-US": "The priest greets the gathered people",
+    "pt-BR": "O sacerdote saúda o povo reunido"
+  },
+  "prayerExcerpt": {
+    "en-US": "The grace of our Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all.",
+    "pt-BR": "A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo estejam convosco."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the Sign of the Cross, all standing, the priest at the chair, 'facing the people and extending his hands', greets them (GIRM 124; the Order of Mass: 'abrindo os braços, saúda o povo'). The chair faces the people at the head of the sanctuary (GIRM 310), so the card looks over the priest's shoulder at the assembly the Greeting makes manifest (GIRM 50).",
+    "excerpt": "content/of/order/order-of-mass.json order.greeting (first formula, line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 124 (the Greeting at the chair, facing the people, hands extended)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 2, nos. 43, 50 (all stand; the Greeting)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Greeting (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "abraham_mary",
+  "feast": {
+    "month": 3,
+    "day": 16
+  },
+  "name": {
+    "en-US": "Sts. Abraham and Mary",
+    "pt-BR": "Santo Abraão e Santa Maria"
+  },
+  "patronOf": {
+    "en-US": "Hermit and penitent",
+    "pt-BR": "Eremita e penitente"
+  },
+  "prayerExcerpt": {
+    "en-US": "Oh, that we realized the omnipotence of prayer!",
+    "pt-BR": "Oh, se compreendêssemos a onipotência da oração!"
+  },
+  "lifeChapter": "mar-16-sts-abraham-and-mary",
+  "meta": {
+    "face": "Two clearly different Syrians with warm olive-brown skin. ABRAHAM (left): about sixty-five, with a LONG, NARROW face and a PROMINENT, KNOBBY CHIN that juts forward below a lean jaw — a high, lined forehead, large, dark, heavy-lidded eyes under thin, curved grey brows, a long, thin, straight nose, a wide, thin-lipped mouth; bald crown with grey-black hair falling straight to the shoulders; a THIN grey-black beard trimmed SHORT along the jaw so that the knobbed chin shows; the gaze grave and gentle, on Mary. MARY (right): about twenty-seven, with a ROUND, SOFT face — a broad, smooth brow, wide-set, large, dark eyes wet with tears, straight dark brows, a short nose with a rounded tip, full cheeks, a small, full mouth, a small, round chin; dark hair hidden under the veil; the gaze lowered in contrition.",
+    "basis": "No likenesses survive; the Menologion of Basil II (Wikipedia's lead image) shows Abraham as an elderly grey-bearded monk before a building. The book tells the walled-up cell with its small window, Mary's cell beside his, and her return; its engraving shows him at his cell door and her kneeling at hers. The knobbed chin and the round young face are our choices.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-16 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Abraham of Kidunaia (lead image: Menologion of Basil II)",
+        "url": "https://en.wikipedia.org/wiki/Abraham_of_Kidunaia"
+      },
+      {
+        "title": "Wikipedia, Edessa",
+        "url": "https://en.wikipedia.org/wiki/Edessa"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-16-sts-abraham-and-mary (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-16-sts-abraham-and-mary.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "raphael_archangel",
+  "feast": {
+    "month": 10,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Raphael the Archangel",
+    "pt-BR": "São Rafael Arcanjo"
+  },
+  "patronOf": {
+    "en-US": "Companion of travellers, healer of the sick",
+    "pt-BR": "Companheiro dos viajantes, médico dos enfermos"
+  },
+  "prayerExcerpt": {
+    "en-US": "For I am the angel Raphael, one of the seven who stand before the Lord.",
+    "pt-BR": "Pois sou o Anjo Rafael, um dos sete que estão sempre presentes, diante do Senhor."
+  },
+  "meta": {
+    "face": "A radiant youthful angel, beardless and ageless, of the same family as the set's Michael and Gabriel but plainly a different face: a HEART-SHAPED face — a broad, smooth brow tapering to a NARROW, softly pointed chin, a slender straight nose, large warm HAZEL eyes under softly arched AUBURN brows, delicate high cheekbones, a gentle closed smile; thick, short AUBURN (copper-red) curls clustering round the head and over the ears, not reaching the shoulders; the head turned and inclined down toward the boy with a kindly gaze. Not Michael's golden curls and rosy oval face, not Gabriel's long light-brown waves.",
+    "basis": "An angel has no likeness. The card takes the Western type of 'Tobias and the Angel' (Verrocchio's workshop, National Gallery; Titian's at the Accademia): a young winged traveller leading the boy with the fish, and the dog, from Tob 5:5 and 6:1-9. Titian's auburn curls set him apart from the set's golden-haired Michael and brown-haired Gabriel, whose wings, halo and painted manner he shares.",
+    "excerpt": "content/do/web/www/missa/English/Sancti/10-24.txt and content/do/web/www/missa/Portugues/Sancti/10-24.txt [Lectio] (Tob 12:15), last sentence: the epistle of his Mass on 24 October in the traditional Missal",
+    "sources": [
+      {
+        "title": "Divinum Officium, Missale, 24 October: St. Raphael the Archangel (English and Portuguese)",
+        "url": "content/do/web/www/missa/English/Sancti/10-24.txt"
+      },
+      {
+        "title": "Douay-Rheims, Tobias 5:5-6, 6:1-9, 12:15",
+        "url": "content/bible/drb/tobias.json"
+      },
+      {
+        "title": "Wikimedia Commons, Workshop of Andrea del Verrocchio, Tobias and the Angel, 1470-75 (National Gallery, London)",
+        "url": "https://commons.wikimedia.org/wiki/File:Workshop_of_Andrea_del_Verrocchio._Tobias_and_the_Angel._33x26cm._1470-75._NG_London.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, attributed to Titian, Archangel Raphael and Tobias (Gallerie dell'Accademia, Venice)",
+        "url": "https://commons.wikimedia.org/wiki/File:Accademia_-_Archangel_Raphael_and_Tobit_by_Titian.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}

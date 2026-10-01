@@ -1,0 +1,44 @@
+{
+  "id": "maria_francesca_rubatto",
+  "feast": {
+    "month": 8,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Maria Francesca of Jesus Rubatto",
+    "pt-BR": "Santa Maria Francisca de Jesus Rubatto"
+  },
+  "patronOf": {
+    "en-US": "Foundress, missionary in Uruguay",
+    "pt-BR": "Fundadora, missionária no Uruguai"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"We are servants of the poor, and we must take up any service for them.\"",
+    "pt-BR": "\"Somos servas dos pobres e devemos assumir por eles qualquer serviço.\""
+  },
+  "meta": {
+    "face": "A Piedmontese of about fifty-five with a fair complexion and a BROAD, FULL face — rounded cheeks and a soft fullness under the chin, a smooth forehead under the wimple, THICK, dark, straight brows, LARGE, PALE grey eyes set wide, open and calm, a straight nose BROAD at the bridge, a SMALL, full-lipped mouth closed firmly, a rounded chin; the gaze level, strong and kindly. Not the flat, rectangular face with small deep-set eyes and thin mouth of marie_leonie_paradis, nor the long, narrow maria_santocanale.",
+    "basis": "Her photographs (Wikimedia Commons, before 1904; the congregation's coloured photograph on scmrubatto.org; the Dicastery's portrait drawn from them): a broad, full face with thick dark brows, large pale eyes, a broad-bridged straight nose and a small full mouth, in a dark-brown habit, black veil and broad white guimpe. Montevideo is where she led her sisters' mission and died.",
+    "excerpt": "Her words to her sisters, «Servae sumus pauperum iisque quodcumque ministerium obire debemus», as the decree quoted on the Dicastery's page gives them in Latin; our rendering (she died in 1904)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Anna Maria Rubatto.jpg (photograph, before 1904)",
+        "url": "https://commons.wikimedia.org/wiki/File:Anna_Maria_Rubatto.jpg"
+      },
+      {
+        "title": "Suore Cappuccine di Madre Rubatto (coloured photograph)",
+        "url": "https://www.scmrubatto.org/"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Maria Francesca di Gesù Rubatto (biography and portrait; the decree)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/maria-francesca-di-gesu-rubatto.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

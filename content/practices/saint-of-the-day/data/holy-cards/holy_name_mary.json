@@ -1,0 +1,42 @@
+{
+  "id": "holy_name_mary",
+  "feast": {
+    "month": 9,
+    "day": 12
+  },
+  "name": {
+    "en-US": "The Most Holy Name of Mary",
+    "pt-BR": "Santíssimo Nome de Maria"
+  },
+  "patronOf": {
+    "en-US": "Star of the sea",
+    "pt-BR": "Estrela do mar"
+  },
+  "prayerExcerpt": {
+    "en-US": "All generations will call me blessed, because God has looked upon his lowly handmaid.",
+    "pt-BR": "Desde agora as gerações hão de chamar-me de bendita pois ele viu a pequenez de sua serva."
+  },
+  "lifeChapter": "sep-08-the-festival-on-the-sunday-within-the-octave-of-her-nativity-of-the-holy-name-of-mary",
+  "proper": "sanctorale.09-12",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under a white inner veil and blue mantle drawn over the head; she looks down toward the ship with a calm, protective gaze.",
+    "basis": "St. Jerome's reading of her name as stella maris and St. Bernard's homily 'Respice stellam, voca Mariam' (Super Missus est II, 17) give the feast its traditional image: Mary as the star over a stormy sea. It avoids the monogram, and Our Lady keeps the set's face.",
+    "excerpt": "content/of/formularies/sanctoral/09-12.json communionAntiphon (whole, both languages)",
+    "sources": [
+      {
+        "title": "Catholic Encyclopedia (1910): Feast of the Holy Name of Mary",
+        "url": "https://www.newadvent.org/cathen/10673b.htm"
+      },
+      {
+        "title": "Wikipedia: Stella Maris (Star of the Sea)",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady,_Star_of_the_Sea"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}

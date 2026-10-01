@@ -1,0 +1,40 @@
+{
+  "id": "homily",
+  "name": {
+    "en-US": "Homily",
+    "pt-BR": "Homilia"
+  },
+  "patronOf": {
+    "en-US": "The Word explained to the people",
+    "pt-BR": "A Palavra explicada ao povo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Then he began to speak to them, 'This text is being fulfilled today even as you listen'.",
+    "pt-BR": "Então começou a dizer-lhes: \"Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir\"."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest gives the Homily 'standing at the chair or at the ambo itself or, if appropriate, in another worthy place' (GIRM 136): here a pulpit, which keeps the card apart from the ambo of the readings. The faithful sit for the Homily (GIRM 43); it is given by the priest celebrant himself (GIRM 66). The excerpt is Christ's own first homily, at Nazareth, from the Gospel of the Third Sunday, Year C.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-3/sunday.json readings.C.gospel body (Luke 4:21, its last sentence; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 65–66 (sitting for the Homily; the Homily and who gives it)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 136 (the Homily at the chair, the ambo, or another worthy place)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Third Sunday in Ordinary Time, Year C, Gospel (content/of/formularies/tempore/ordinary-time/week-3/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-3/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-47.md."
+      }
+    ]
+  }
+}

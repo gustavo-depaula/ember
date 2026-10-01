@@ -1,0 +1,44 @@
+{
+  "id": "giovanni_battista_scalabrini",
+  "feast": {
+    "month": 6,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Giovanni Battista Scalabrini",
+    "pt-BR": "São João Batista Scalabrini"
+  },
+  "patronOf": {
+    "en-US": "Bishop, father of migrants",
+    "pt-BR": "Bispo, pai dos migrantes"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Sent first of all to the poor and the most unhappy, I will suffer with them, working above all to help and to evangelize the poor.\"",
+    "pt-BR": "\"Enviado antes de tudo aos pobres e aos mais infelizes, sofrerei com eles, empenhando-me sobretudo em socorrer e evangelizar os pobres.\""
+  },
+  "meta": {
+    "face": "A bishop of about sixty, clean-shaven, with a fair complexion and a LONG, RECTANGULAR face ending in a strong, SQUARE chin — a HIGH forehead, short grey hair RECEDING at the temples and brushed straight back under the zucchetto, dark, STRAIGHT, level brows, darker than the hair, over deep-set, dark, intent eyes, a LONG, straight, STRONG nose, flat cheeks with firm lines from nose to mouth, a WIDE, thin-lipped mouth set in a faint, resolute smile; the gaze direct and steady. Not the broad, silver-haired, smiling pius_x, nor the lean, white-haired, broadly smiling giuseppe_allamano.",
+    "basis": "His photographs as bishop (Wikimedia Commons; the Dicastery's portrait; a seated cabinet photograph on Commons): a long, rectangular, clean-shaven face with a square chin, grey hair receding and brushed back, straight dark brows over deep-set eyes, a long, strong nose and a wide, thin mouth. His founding of the emigrant missions began, by his own account, with the sight of emigrants crowding Milan station.",
+    "excerpt": "His first pastoral letter to the diocese of Piacenza (1876), «Inviato in prima ai poveri ed ai più infelici che traggono miseramente la vita nella desolazione, soffrirò con essi, dando opera soprattutto a sovvenire e evangelizzare i poveri», as the Dicastery's biography quotes it; shortened by the relative clause, our rendering (he died in 1905)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Giovanni Battista Scalabrini.jpg (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Scalabrini.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Gioan Baotixita Scalabrini.jpg (seated photograph as bishop)",
+        "url": "https://commons.wikimedia.org/wiki/File:Gioan_Baotixita_Scalabrini.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Giovanni Battista Scalabrini (biography and portrait; the pastoral letter of 1876)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-battista-scalabrini.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

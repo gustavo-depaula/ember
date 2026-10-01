@@ -1,0 +1,45 @@
+{
+  "id": "peter_verona",
+  "feast": {
+    "month": 4,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Peter Martyr",
+    "pt-BR": "São Pedro Mártir"
+  },
+  "patronOf": {
+    "en-US": "Dominican and martyr",
+    "pt-BR": "Dominicano e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "I believe in God, Creator of heaven and earth.",
+    "pt-BR": "Creio em Deus, Criador do céu e da terra."
+  },
+  "lifeChapter": "apr-29-peter",
+  "meta": {
+    "face": "A Veronese of about forty-five, CLEAN-SHAVEN, with a warm olive complexion and a COMPACT, SQUARE-ROUND head on a strong neck — a short, broad, rounded forehead, FIRM, full cheeks over a strong, ROUND, muscular jaw and a round chin with a small DIMPLE; a SHORT, straight nose; very DARK, intense, round eyes under THICK, STRAIGHT black brows that nearly MEET over the nose; a firm, full, closed mouth; thick black hair in the Dominican ring of the tonsure, the shaven cheeks blue-shadowed; the gaze fearless and ardent, toward us.",
+    "basis": "No likeness from life; Wikipedia's lead image is Berruguete's panel of him as a Dominican with a book. The book tells his birth at Verona of heretical parents, his answer 'I believe in God, Creator of heaven and earth', the habit from St. Dominic, his preaching in Lombardy, the cloud that shaded his hearers, and his death on the road to Milan writing the Creed in his blood; the chapter has no engraving. Wikipedia places the attack near Barlassina, on the road from Como to Milan. The compact, square-round face with the meeting brows is our choice, set apart from `thomas_aquinas`'s soft, youthful roundness.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-29-peter.md, his own words, said as a boy and written at his death (the Reflection, on professing the faith among heretics, stays on the card) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter of Verona (lead image: Pedro Berruguete, St. Peter Martyr)",
+        "url": "https://en.wikipedia.org/wiki/Peter_of_Verona"
+      },
+      {
+        "title": "Wikipedia, Sant'Eustorgio, Milan (his tomb)",
+        "url": "https://en.wikipedia.org/wiki/Sant%27Eustorgio,_Milan"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-29-peter (chapter, public domain; no engraving)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-29-peter.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

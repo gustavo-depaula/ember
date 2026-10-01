@@ -1,0 +1,480 @@
+{
+  "batch": 37,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-37.md",
+  "cards": [
+    {
+      "id": "mark_pope",
+      "letter": "M",
+      "feast": {
+        "month": 10,
+        "day": 7
+      },
+      "name": {
+        "en-US": "St. Mark, Pope",
+        "pt-BR": "São Marcos, Papa"
+      },
+      "patronOf": {
+        "en-US": "Successor of St. Sylvester",
+        "pt-BR": "Sucessor de São Silvestre"
+      },
+      "prayerExcerpt": {
+        "en-US": "A Christian ought to be afraid of no enemy more than himself, whom he carries always about with him, and from whom he is not able to flee.",
+        "pt-BR": "Um cristão não deve temer nenhum inimigo mais do que a si mesmo, a quem carrega sempre consigo, e de quem não é capaz de fugir."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-07-mark.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Mark, Pope, half-length, a Roman bishop of the year 336 in the dress of his age: a long, full white dalmatic with two narrow purple stripes (clavi), over it a plain, deep-red paenula-chasuble falling in soft folds, and a narrow white woollen pallium marked with small dark crosses around his shoulders; no tiara, no mitre, bareheaded. He holds a closed codex of the Gospels bound in plain leather against his breast with both hands. Behind him, under a clear Roman sky, the new brick basilica he built rising among cypresses and umbrella pines outside the city on the Via Ardeatina, its timber roof half on, a few building stones and a wooden ladder at its foot, as in the book's engraving; the Aurelian walls far off. Watchful, humble and steady; no lettering.",
+      "face": "A Roman of about sixty-five with a warm, light-olive complexion and a ROUND, FIRM face as WIDE as it is long — not fleshy: a ROUND, bald crown ringed at the sides and back by short, CRISP, curly grey hair, a broad, smooth forehead crossed by ONE deep vertical FROWN LINE between the brows, FIRM, apple-round cheekbones, a SHORT, straight nose with a HIGH, narrow bridge, SMALL, keen, DEEP-SET dark-brown eyes under THICK, STRAIGHT, dark-grey brows, deep lines running from the nose to the corners of a small, firm, closed mouth; a SHORT, crisp, curly grey beard following the round line of the jaw to a blunt point; the gaze level, alert and watchful. Not the soft, round, mild-eyed gal_clermont, the flat-featured, flat-nosed zephyrinus, the curl-browed, protruding-eyed felix_i, the heavy-lidded, fleshy marcellinus_pope, or the long, narrow sylvester.",
+      "refs": [
+        "gregory_great",
+        "ambrose",
+        "athanasius"
+      ],
+      "basis": "No likeness survives. The medallion of St. Paul Outside the Walls (Italian Wikipedia's lead image) gives a broad, bearded face with curly hair, which the card keeps as a round, firm, watchful face; the basilica on the Via Ardeatina is the Martyrology's and the Liber Pontificalis's (via Wikipedia), and the book's engraving shows him among building stones.",
+      "sources": [
+        {
+          "title": "Wikipedia, Pope Mark",
+          "url": "https://en.wikipedia.org/wiki/Pope_Mark"
+        },
+        {
+          "title": "Wikipedia (it), Papa Marco (lead: medallion portrait)",
+          "url": "https://it.wikipedia.org/wiki/Papa_Marco"
+        },
+        {
+          "title": "Santi e Beati, San Marco I papa (Roman Martyrology entry, 7 October)",
+          "url": "https://www.santiebeati.it/dettaglio/90939"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-07-mark (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-07-mark.md"
+        }
+      ],
+      "catalogMatch": "St. Mark, Pope",
+      "lifeChapter": "oct-07-mark"
+    },
+    {
+      "id": "louis_bertrand",
+      "letter": "L",
+      "feast": {
+        "month": 10,
+        "day": 9
+      },
+      "name": {
+        "en-US": "St. Louis Bertrand",
+        "pt-BR": "São Luís Bertrando"
+      },
+      "patronOf": {
+        "en-US": "Patron of Colombia",
+        "pt-BR": "Padroeiro da Colômbia"
+      },
+      "prayerExcerpt": {
+        "en-US": "He was favored with the gift of miracles, and while preaching in his native Spanish was understood in various languages.",
+        "pt-BR": "Foi favorecido com o dom dos milagres, e, enquanto pregava em seu espanhol nativo, era compreendido em várias línguas."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-09-dionysius-and-his-companions.md, third paragraph (his second), second sentence; the chapter is shared with St. Dionysius, whose card `denis` has it as lifeChapter, and its Reflection is about the Saints in general, so this card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+      "subject": "St. Louis Bertrand, half-length, a Spanish Dominican friar of about 1565: the white Dominican habit and scapular under a black cappa with its black hood drawn up over the head, as in Zurbarán's painting; a plain wooden crucifix raised a little in his right hand as he preaches, his left hand open at his breast. Behind him the Caribbean coast of New Granada at Cartagena: a sandy bay with a few palms, a small whitewashed mission chapel with a wooden cross, and on the shore a group of indigenous people of the coast, small in the distance, listening; a warm, clear tropical light. Grave, gentle and ardent; no chalice, no serpent, no lettering.",
+      "face": "A Valencian of about forty, lean and grave, with a sallow olive complexion and an INVERTED-TRIANGLE face after Zurbarán's portrait — a BROAD, smooth forehead and wide temples narrowing sharply along FLAT, hollow cheeks to a NARROW, POINTED chin; a LONG, straight nose with a slightly BROADENED tip, HEAVY upper lids LOWERED over dark eyes, STRAIGHT, dark brows set LOW and close above them, a small, thin, downturned mouth; black hair hidden under the hood; a THIN dark moustache and a SMALL, sparse, pointed tuft of beard on the chin; the look withdrawn and recollected. Not the long, full-oval, clean-shaven vincent_ferrer, the soft, heavy-lidded, long-oval thomas_villanova, the square-round peter_verona, or the rectangular, grey-goateed robert_bellarmine.",
+      "refs": [
+        "dominic",
+        "thomas_aquinas",
+        "francis_xavier"
+      ],
+      "basis": "Zurbarán's St. Louis Bertrand (Wikipedia's lead image, crop in `crops.jpg`) gives a narrow, triangular face under the black hood, lowered eyes, a thin moustache and a small beard. Cartagena is where he landed and first preached (Wikipedia); the Colombian patronage is from Spanish Wikipedia.",
+      "sources": [
+        {
+          "title": "Wikipedia, Louis Bertrand (saint) (lead: Zurbarán, St. Louis Bertrand)",
+          "url": "https://en.wikipedia.org/wiki/Louis_Bertrand_(saint)"
+        },
+        {
+          "title": "Wikipedia (es), Luis Beltrán (santo)",
+          "url": "https://es.wikipedia.org/wiki/Luis_Beltr%C3%A1n_(santo)"
+        },
+        {
+          "title": "Santi e Beati, San Luigi Bertran (Roman Martyrology entry, 9 October)",
+          "url": "https://www.santiebeati.it/dettaglio/73695"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-09-dionysius-and-his-companions (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-09-dionysius-and-his-companions.md"
+        }
+      ],
+      "catalogMatch": "St. Louis Bertrand"
+    },
+    {
+      "id": "francis_borgia",
+      "letter": "F",
+      "feast": {
+        "month": 10,
+        "day": 10
+      },
+      "name": {
+        "en-US": "St. Francis Borgia",
+        "pt-BR": "São Francisco de Borja"
+      },
+      "patronOf": {
+        "en-US": "Superior General of the Jesuits",
+        "pt-BR": "Superior-geral dos jesuítas"
+      },
+      "prayerExcerpt": {
+        "en-US": "St. Francis Borgia learnt the worthlessness of earthly greatness at the funeral of Queen Isabella. Do the deaths of friends teach us aught about ourselves?",
+        "pt-BR": "São Francisco de Borja aprendeu a inutilidade da grandeza terrena no funeral da Rainha Isabel. Acaso as mortes dos amigos nos ensinam algo acerca de nós mesmos?"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-10-francis-borgia.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Francis Borgia, half-length, the former Duke of Gandia become a Jesuit priest: a plain black Jesuit cassock and a long black mantle, bareheaded; in his left hand, held low, a small ivory skull wearing a little gold ducal crown, the sign of the queen's funeral that turned him from the world, as in the Spanish paintings; his right hand open toward it in a gesture of renunciation. Behind him, through a round arch, the palace of the dukes at Gandia among orange groves on the Valencian plain, and far off the blue sea. Serene, detached and humble; the skull small, clean and ivory, no lettering.",
+      "face": "A Spanish grandee of about sixty, TALL and gaunt, with a pale, olive complexion and a very LONG face under a HIGH, SMOOTH, egg-shaped BALD DOME with only a narrow fringe of short grey hair above the ears — a tall forehead, a LONG, LARGE nose, straight in the bridge and ending in a FULL, slightly DROOPING tip, dark, gentle eyes that SLANT DOWN at the outer corners under heavy lids, with dark shadows beneath, level grey brows, sharp cheekbones over LONG, HOLLOW cheeks, a NARROW, long jaw; a THIN grey moustache and a SMALL grey tuft on the chin, the cheeks shaven; the gaze lowered, sorrowful and kind. Not the round-faced, dark-bearded ignatius_loyola, the domed but short-faced, round-eyed antoninus_florence, the broad-jawed turibius, or the triangular john_capistrano.",
+      "refs": [
+        "aloysius_gonzaga",
+        "charles_borromeo",
+        "philip_neri"
+      ],
+      "basis": "The Spanish portrait on Wikipedia (lead image, crop in `crops.jpg`) gives the high bald dome, the long face and long nose, the down-turned eyes and the small grey moustache and chin tuft; the crowned skull is his usual emblem and matches the book's story of Queen Isabella's funeral.",
+      "sources": [
+        {
+          "title": "Wikipedia, Francis Borgia (lead: San Francisco de Borja)",
+          "url": "https://en.wikipedia.org/wiki/Francis_Borgia"
+        },
+        {
+          "title": "Wikipedia (es), Francisco de Borja",
+          "url": "https://es.wikipedia.org/wiki/Francisco_de_Borja"
+        },
+        {
+          "title": "Santi e Beati, San Francesco Borgia (Roman Martyrology entry, 30 September)",
+          "url": "https://www.santiebeati.it/dettaglio/73800"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-10-francis-borgia (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-10-francis-borgia.md"
+        }
+      ],
+      "catalogMatch": "St. Francis Borgia",
+      "lifeChapter": "oct-10-francis-borgia"
+    },
+    {
+      "id": "tarachus_companions",
+      "letter": "T",
+      "feast": {
+        "month": 10,
+        "day": 11
+      },
+      "name": {
+        "en-US": "St. Tarachus and Companions",
+        "pt-BR": "São Taraco e Companheiros"
+      },
+      "patronOf": {
+        "en-US": "Martyrs of Cilicia",
+        "pt-BR": "Mártires da Cilícia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Such is true Christian devotion. \"Neither death nor life shall be able to separate us from the love that is in Christ Jesus.\"",
+        "pt-BR": "Tal é a verdadeira devoção cristã. \"Nem a morte nem a vida poderão separar-nos do amor que está em Cristo Jesus.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-11-tarachus-and-his-companions.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "Sts. Tarachus, Probus and Andronicus, half-length, side by side, three martyrs of Cilicia in the year 304, each holding a martyr's palm: TARACHUS (centre), the old soldier, in a plain dark-red Roman military tunic and a brown cloak pinned at the shoulder; PROBUS (left), the man of the people, in a coarse undyed wool tunic and a grey-brown mantle; ANDRONICUS (right), the young patrician of Ephesus, in a fine white tunic and a blue mantle with a narrow gold border. Behind them the stone arena of Anazarbus under a rocky crag, empty and quiet, with two wild beasts lying down peacefully at the far edge of the sand, as in the book, and the Taurus mountains beyond. Calm, united and steadfast; no wounds, no chains, no gladiators, no lettering.",
+      "face": "Three clearly different men of Asia Minor with olive skin of different warmth. TARACHUS (centre), about sixty-five, a veteran: a BROAD, SQUARE, heavy-boned face with a FLAT, wide forehead, a BROKEN, slightly crooked nose with a flattened bridge, small, deep-set, steady grey eyes under thick, straight, grizzled brows, a wide, set mouth, a strong, square chin; close-cropped iron-grey hair and a short, dense, square-cut grey beard. PROBUS (left), about forty, a plebeian of Side: a LONG, LEAN face with its length in the lower half — a LONG upper lip, HOLLOW cheeks, a long, thin nose with a slight hook, large, dark, earnest eyes set CLOSE together under thin, arched black brows, a narrow, ROUNDED chin; short, untidy black hair and a thin, sparse black beard along the jaw. ANDRONICUS (right), about twenty-two, a patrician of Ephesus: BEARDLESS, with a smooth, BROAD-CHEEKED, softly HEXAGONAL face — wide, flat cheekbones, a short, straight Greek nose continuing the line of the brow, large, wide-set, light-brown eyes, a full, well-cut mouth, a firm chin; short, neat, wavy chestnut hair. Not the young, clean-shaven, triangular-faced companion of theban_legion, the brothers of nereus_achilleus or faustinus_jovita, or the two young Palestinians of adrian_eubulus.",
+      "refs": [
+        "philip_james",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likenesses survive; the ages and ranks are those of the first version of their Acts as summarised by Wikipedia (Tarachus a former soldier of about sixty-five, Probus a plebeian of Side, Andronicus a patrician of Ephesus), and the peaceful beasts are the book's. The Greek fresco on Wikipedia shows them as a greybeard, a bearded man and a youth.",
+      "sources": [
+        {
+          "title": "Wikipedia, Tarachus, Probus, and Andronicus (lead: Greek fresco of their martyrdom)",
+          "url": "https://en.wikipedia.org/wiki/Tarachus,_Probus,_and_Andronicus"
+        },
+        {
+          "title": "Santi e Beati, Santi Taraco, Probo e Andronico (Roman Martyrology entry, 11 October)",
+          "url": "https://www.santiebeati.it/dettaglio/92519"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-11-tarachus-and-his-companions (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-11-tarachus-and-his-companions.md"
+        }
+      ],
+      "catalogMatch": "St. Tarachus and his Companions",
+      "lifeChapter": "oct-11-tarachus-and-his-companions"
+    },
+    {
+      "id": "wilfrid",
+      "letter": "W",
+      "feast": {
+        "month": 10,
+        "day": 12
+      },
+      "name": {
+        "en-US": "St. Wilfrid",
+        "pt-BR": "São Wilfrido"
+      },
+      "patronOf": {
+        "en-US": "Bishop of York",
+        "pt-BR": "Bispo de York"
+      },
+      "prayerExcerpt": {
+        "en-US": "To look towards Rome is an instinct planted in us for the preservation of the Faith. Trust in the Vicar of Christ necessarily results from the reign of His love in our hearts.",
+        "pt-BR": "Olhar para Roma é um instinto plantado em nós para a preservação da Fé. A confiança no Vigário de Cristo resulta necessariamente do reinado de Seu amor em nossos corações."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-12-wilfrid.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Wilfrid, half-length, a Northumbrian bishop of about 680: a wide, bell-shaped chasuble of deep green over a white alb, a white pallium with small dark crosses, bareheaded and tonsured; a plain wooden pastoral staff with a simple curved head in his left hand, a small gilt reliquary casket from Rome held in his right. Behind him, on a green rise above a river in the Yorkshire dales, the small stone church of his Benedictine monastery at Ripon with its round-arched door and a low tower, monks in black at its door, and white clouds moving fast over the moor. Energetic, cheerful and resolute, with the trace of a smile; no lettering.",
+      "face": "A Northumbrian noble of about fifty, CLEAN-SHAVEN in the Roman manner, with a fair, fresh, wind-coloured complexion and a face whose length is in the LOWER half — a SHORT, low, square forehead, a HIGH-BRIDGED, straight, rather BEAKED nose, bright, quick, pale-grey eyes set deep in a network of SMILE LINES under straight, fair brows, sharp, high cheekbones over lean cheeks, a LONG upper lip and a wide, mobile mouth turning up at the corners, a long, FORWARD-THRUST, rounded chin; fair hair gone silver in a neat ring around the tonsure; a lively, cheerful look, \"never a sour face\". Not the long, handsome, fair-browed oswald_worcester, the broad, short, snub-nosed richard_chichester, the short-faced, bulging-browed elphege, or the lean, fine-nosed thomas_becket.",
+      "refs": [
+        "patrick",
+        "ambrose",
+        "charles_borromeo"
+      ],
+      "basis": "No likeness survives. The book quotes his biographer's \"a quick walker, expert at all good works, with never a sour face\", which the card turns into a lively, smiling face; his journeys to Rome, the relics he brought back and the Benedictine monastery at Ripon are in the book and in Wikipedia, which says he is usually shown as a robed bishop with a staff.",
+      "sources": [
+        {
+          "title": "Wikipedia, Wilfrid",
+          "url": "https://en.wikipedia.org/wiki/Wilfrid"
+        },
+        {
+          "title": "Santi e Beati, San Vilfrido di York (Roman Martyrology entry, 24 April)",
+          "url": "https://www.santiebeati.it/dettaglio/50680"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-12-wilfrid (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-12-wilfrid.md"
+        }
+      ],
+      "catalogMatch": "St. Wilfrid, Bishop",
+      "lifeChapter": "oct-12-wilfrid"
+    },
+    {
+      "id": "edward_confessor",
+      "letter": "E",
+      "feast": {
+        "month": 10,
+        "day": 13
+      },
+      "name": {
+        "en-US": "St. Edward the Confessor",
+        "pt-BR": "Santo Eduardo, o Confessor"
+      },
+      "patronOf": {
+        "en-US": "King of England",
+        "pt-BR": "Rei da Inglaterra"
+      },
+      "prayerExcerpt": {
+        "en-US": "David longed to build a temple for God's service. Solomon reckoned it his glory to accomplish the work. But we, who have God made flesh dwelling in our tabernacles, ought to think no time, no zeal, no treasures too much to devote to the splendor and beauty of a Christian church.",
+        "pt-BR": "Davi ansiava por edificar um templo para o serviço de Deus. Salomão tinha por glória sua realizar a obra. Mas nós, que temos Deus feito carne habitando em nossos tabernáculos, não devemos julgar tempo algum, zelo algum, tesouro algum demasiado para consagrar ao esplendor e à beleza de uma igreja cristã."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-13-edward-the.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Edward the Confessor, half-length, the last Anglo-Saxon king of England, about 1065: a long, deep-blue royal tunic embroidered at the neck, a rich crimson mantle clasped on the right shoulder with a round gold brooch, an open gold crown with trefoil points over his white hair; in his right hand a slender gold sceptre, and in his long, pale left hand, held up a little, a plain gold ring. Behind him, by the broad Thames under a soft English sky, his new Romanesque abbey church of Westminster with its round arches and central tower, pale stone still bright, and at the palace gate a few poor people waiting. Gentle, pure and kingly, eyes lowered; no lettering.",
+      "face": "An Englishman of about sixty, TALL, with a milk-white complexion and ROSY cheeks, and a FULL, SMOOTH, broad OVAL face as the Vita Aedwardi describes him — a HIGH, smooth, rounded forehead, FULL, rounded, rosy cheeks without hollows, a straight, medium nose with a softly rounded tip, gentle, pale-blue eyes LOWERED under fine, white, gently arched brows, a small, kindly mouth; MILK-WHITE hair falling straight to the nape and a long, MILK-WHITE beard that PARTS into TWO soft points below the chin, as on the Bayeux Tapestry; the gaze cast down, mild and dignified. Not the crowned, grey-bearded stephen_hungary, the brown-bearded henry, the heavy-jowled, weeping gontran, the long-hexagonal ladislas, or the curly, fisherman-faced andrew.",
+      "refs": [
+        "nicholas",
+        "charles_borromeo",
+        "george"
+      ],
+      "basis": "The Vita Aedwardi Regis (quoted by Wikipedia) describes him as very tall, with milk-white hair and beard, a full face, rosy cheeks and thin white hands, walking with eyes downcast; the Bayeux Tapestry shows him crowned with a long beard. Westminster Abbey is in the book and in Wikipedia; crown and ring are his emblems (Santi e Beati).",
+      "sources": [
+        {
+          "title": "Wikipedia, Edward the Confessor (lead: Bayeux Tapestry, scene 1)",
+          "url": "https://en.wikipedia.org/wiki/Edward_the_Confessor"
+        },
+        {
+          "title": "Santi e Beati, Sant'Edoardo III il Confessore (Roman Martyrology entry, 5 January)",
+          "url": "https://www.santiebeati.it/dettaglio/74150"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-13-edward-the (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-13-edward-the.md"
+        }
+      ],
+      "catalogMatch": "St. Edward the Confessor",
+      "lifeChapter": "oct-13-edward-the"
+    },
+    {
+      "id": "gall",
+      "letter": "G",
+      "feast": {
+        "month": 10,
+        "day": 16
+      },
+      "name": {
+        "en-US": "St. Gall",
+        "pt-BR": "São Galo"
+      },
+      "patronOf": {
+        "en-US": "Monk and missionary",
+        "pt-BR": "Monge e missionário"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"If any one would be My disciple,\" says Our Saviour, \"let him deny himself.\" The denial of self is, then, the royal road to perfection.",
+        "pt-BR": "\"Se alguém quiser ser Meu discípulo\", diz Nosso Salvador, \"negue-se a si mesmo.\" A negação de si mesmo é, pois, o caminho real para a perfeição."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-16-gall.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Gall, half-length, an Irish hermit-monk of about 620: a plain, coarse black monastic cowl with its hood thrown back, a leather belt and a small leather book satchel on a strap; a long, rough hazel staff in his right hand, a round loaf of bread in his left. Behind him, in a clearing of the dark fir forest above the Steinach near the Lake of Constance, a small fire and a half-built log cell, as in the book's engraving; at the edge of the clearing a small brown bear carrying a log of firewood toward the fire, and the silver lake with snowy Alps far off. Humble, steadfast and kindly; the bear small and tame, no lettering.",
+      "face": "An Irishman of about seventy, stocky and weathered, with a ruddy, windburnt, freckled complexion and a COMPACT, SQUARE face on a thick neck — the front of the head shaved from ear to ear in the Irish tonsure, leaving a broad, lined forehead, with thick, straight sandy-white hair falling behind the ears to the nape; a SHORT, BROAD, slightly UPTURNED nose, SMALL, bright, deep-set blue eyes creased at the corners under THICK, sandy-white brows, round, ruddy cheekbones, a WIDE, firm mouth, a broad, square chin under a SHORT, thick, BRISTLY sandy-white beard cut square; a steady, warm gaze. Not the long, big-boned, jutting-chinned, red-grey columban, the broad, clean-shaven, white-haired columba, the heart-shaped, dark-bearded fiaker, the long, narrow, flaxen-bearded finbarr, or the hooded, grey-bearded francis_paola.",
+      "refs": [
+        "benedict",
+        "anthony_abbot",
+        "patrick"
+      ],
+      "basis": "No likeness survives. He is shown in a black cowl with a staff, bread and the bear that brought wood to his fire (Wikipedia; the Pfärrenbach mural in the lead image); the fire and the log cell are the book's engraving. The Irish tonsure follows his Irish origin as the book and his Reichenau biographers give it.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Gall (lead: Pfärrenbach mural of St. Gallus)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Gall"
+        },
+        {
+          "title": "Santi e Beati, San Gallo (Roman Martyrology entry, 16 October)",
+          "url": "https://www.santiebeati.it/dettaglio/74175"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-16-gall (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-16-gall.md"
+        }
+      ],
+      "catalogMatch": "St. Gall, Abbot",
+      "lifeChapter": "oct-16-gall"
+    },
+    {
+      "id": "peter_alcantara",
+      "letter": "P",
+      "feast": {
+        "month": 10,
+        "day": 19
+      },
+      "name": {
+        "en-US": "St. Peter of Alcantara",
+        "pt-BR": "São Pedro de Alcântara"
+      },
+      "patronOf": {
+        "en-US": "Patron of Brazil",
+        "pt-BR": "Padroeiro do Brasil"
+      },
+      "prayerExcerpt": {
+        "en-US": "If men do not go about barefoot now, nor undergo sharp penances, as St. Peter did, there are many ways of trampling on the world; and Our Lord teaches them when He finds the necessary courage.",
+        "pt-BR": "Se os homens hoje não andam descalços, nem se submetem a penitências agudas, como São Pedro fazia, há muitas maneiras de pisar o mundo; e Nosso Senhor as ensina quando encontra a coragem necessária."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-19-peter-of-alcantara.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Peter of Alcantara, half-length, a Discalced Franciscan friar of about 1560: a short, patched habit of rough brown sackcloth with a knotted white cord and a short, narrow brown cloak, bareheaded as the book says he always went; a plain wooden cross held against his breast in his right hand, an open book of prayer in his left. Behind him a tiny friary of whitewashed stone and a narrow cell door among holm oaks and bare rock on a dry Castilian hillside at dawn, a pale sky with a few birds. Rapt, lean and joyful in prayer, eyes lifted; no skull, no lettering.",
+      "face": "A Spaniard of Extremadura of about sixty, WORN to the bone by penance, \"like the roots of trees\", with a dark, weather-browned olive complexion and a LONG face in which every BONE shows — a HIGH, KNOBBED, BALD skull with a narrow ring of short dark-grey hair, PROMINENT BROW BONES, deeply SUNKEN temples and eye sockets, JUTTING cheekbones over DEEP hollows, a LONG, BONY nose with a slight HUMP at the bridge, LARGE, dark, shining eyes LIFTED upward, a WIDE, thin-lipped mouth slightly open, a long, narrow jaw under a SHORT, SPARSE dark-grey beard; rapt and luminous, not grim. Not the emaciated but white-bearded pius_v, the smooth-domed, clean-shaven bernardine_siena or john_capistrano, the long-angular, thick-browed paschal_baylon, or the horse-faced Copt paphnutius.",
+      "refs": [
+        "francis_assisi",
+        "anthony_padua",
+        "john_of_the_cross"
+      ],
+      "basis": "St. Teresa, who knew him, wrote that he was an aged man \"and his weakness was so great, that he seemed like nothing else but the roots of trees\" (Life, ch. 27, Lewis's translation, `teresa-life.txt`); the Spanish paintings on Wikipedia (El Greco's school, crop in `crops.jpg`) give him a bald head, a gaunt, bony face and a short dark beard. Bare head and sackcloth are in the book.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter of Alcantara",
+          "url": "https://en.wikipedia.org/wiki/Peter_of_Alcantara"
+        },
+        {
+          "title": "Wikipedia (es), Pedro de Alcántara (lead: San Pedro de Alcántara, Museo de El Greco, Toledo)",
+          "url": "https://es.wikipedia.org/wiki/Pedro_de_Alc%C3%A1ntara"
+        },
+        {
+          "title": "The Life of St. Teresa of Jesus, ch. 27, tr. David Lewis (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/ebooks/8120"
+        },
+        {
+          "title": "Santi e Beati, San Pietro d'Alcantara (Roman Martyrology entry, 18 October)",
+          "url": "https://www.santiebeati.it/dettaglio/74425"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-19-peter-of-alcantara (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-19-peter-of-alcantara.md"
+        }
+      ],
+      "catalogMatch": "St. Peter of Alcantara",
+      "lifeChapter": "oct-19-peter-of-alcantara"
+    },
+    {
+      "id": "ursula",
+      "letter": "U",
+      "feast": {
+        "month": 10,
+        "day": 21
+      },
+      "name": {
+        "en-US": "St. Ursula",
+        "pt-BR": "Santa Úrsula"
+      },
+      "patronOf": {
+        "en-US": "Patroness of young people and teachers",
+        "pt-BR": "Padroeira dos jovens e dos educadores"
+      },
+      "prayerExcerpt": {
+        "en-US": "In the estimation of the wise man, \"the guarding of virtue\" is the most important part of the education of youth.",
+        "pt-BR": "Na estimação do sábio, \"a guarda da virtude\" é a parte mais importante da educação da juventude."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-21-ursula.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Ursula, half-length, a young Christian woman of Britain in the fifth century: a long gown of soft rose over a white under-tunic, a wide deep-green mantle lined with ermine-white linen, spread a little on one side as a shelter over two small maidens behind her shoulder; a thin gold circlet on her head; in her right hand a white banner with a red cross on a slender staff, in her left a single arrow held point-down together with a martyr's palm. Behind her the broad Rhine near Cologne, the walls and towers of the Roman city on the far bank, a small ship with a furled sail at the water's edge under a pale morning sky. Pure, courageous and motherly; no wound, no Huns, no lettering.",
+      "face": "A Romano-British maiden of about nineteen with a fair, clear, lightly freckled complexion and a LONG OVAL face whose length is in a LONG LOWER FACE and a STRONG, ROUNDED chin — a smooth, moderate forehead, a straight GRECIAN nose running on in one line from the brow, LARGE, deep-set, clear grey eyes under STRONG, straight, auburn brows, smooth, lean cheeks, a LONG upper lip and a full, calm, closed mouth; thick COPPER-RED hair in two long plaits over the shoulders under the circlet; the gaze steady and protective. The two maidens behind her are small, one dark-haired and round-faced, one fair and fine-boned, their eyes lowered. Not the young, soft-oval agnes, lucy or cecilia, the short, square margaret_antioch, the long, narrow, golden-haired rosalia, the high-foreheaded euphrasia, or the convex-profiled julia_corsica.",
+      "refs": [
+        "agnes",
+        "cecilia",
+        "lucy"
+      ],
+      "basis": "No likeness survives. The card follows her usual emblems (Wikipedia; Santi e Beati: palm, arrow, crown, banner, the mantle sheltering her companions; Crivelli's panel in the lead image), the book's British origin and her flight to the Rhine near Cologne; the red hair and strong chin are ours, for a Briton.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saint Ursula (lead: Carlo Crivelli, St. Ursula)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Ursula"
+        },
+        {
+          "title": "Santi e Beati, Sant'Orsola e compagne (Roman Martyrology entry, 21 October)",
+          "url": "https://www.santiebeati.it/dettaglio/74550"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-21-ursula (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-21-ursula.md"
+        }
+      ],
+      "catalogMatch": "St. Ursula, Virgin and Martyr",
+      "lifeChapter": "oct-21-ursula"
+    },
+    {
+      "id": "mello",
+      "letter": "M",
+      "feast": {
+        "month": 10,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Mello",
+        "pt-BR": "São Melônio"
+      },
+      "patronOf": {
+        "en-US": "First bishop of Rouen",
+        "pt-BR": "Primeiro bispo de Rouen"
+      },
+      "prayerExcerpt": {
+        "en-US": "His zeal for the Faith engaged him in the sacred ministry, and God having blessed his labors with wonderful success, he was consecrated first bishop of Rouen in Normandy, which see he is said to have held forty years.",
+        "pt-BR": "Seu zelo pela Fé empenhou-o no sagrado ministério, e tendo Deus abençoado seus labores com maravilhoso êxito, foi consagrado primeiro bispo de Rouen, na Normandia, sé que se diz ter ocupado por quarenta anos."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-22-mello.md, first paragraph (his), the clause after the semicolon, capitalised; the chapter, which also tells St. Hilarion, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+      "subject": "St. Mello, half-length, a bishop of Gaul at the end of the third century: a full, bell-shaped chasuble of golden-yellow wool over a white alb, a plain white pallium, bareheaded; a simple wooden pastoral staff with a curled head in his left hand, his right hand raised in blessing. Behind him the small Gallo-Roman town of Rotomagus (Rouen) on the Seine, with red-tiled roofs, a plain small church with a wooden cross, and a loop of the wide river among green, wooded hills under a soft grey-blue Norman sky. Peaceful, zealous and fatherly; no lettering.",
+      "face": "A Briton of about seventy-five, tall and spare, with a fair, weathered, pink complexion and a DISH-SHAPED face in profile — a PROMINENT, rounded brow and a PROMINENT, firm chin with the middle of the face set back between them: a SHORT, slightly SNUB nose, broad, FLAT cheeks, ROUND, bright, pale-blue eyes set rather CLOSE together under long, feathery white brows, a small mouth; long, straight, fine white hair falling to the shoulders, a LONG, full, softly WAVING white beard to the breast; a kindly, serene gaze. Not the pear-shaped, clean-shaven albinus_angers, the shield-shaped paternus_avranches, the long, symmetrical, silver-bearded remigius, the rectangular, dark-grey-bearded lambert, or the square, laughing medard.",
+      "refs": [
+        "nicholas",
+        "patrick",
+        "ambrose"
+      ],
+      "basis": "No likeness survives; he is known from a late Life of little historical value (Wikipedia), and the 2004 Martyrology keeps him as the bishop who first preached the faith at Rouen. The fifteenth-century window of Saint-Ouen at Rouen (Wikipedia's lead image) shows him as a vested bishop; the British birth is the book's.",
+      "sources": [
+        {
+          "title": "Wikipedia, Mellonius (lead: window of Saint-Ouen, Rouen)",
+          "url": "https://en.wikipedia.org/wiki/Mellonius"
+        },
+        {
+          "title": "Wikipedia (fr), Mellon de Rouen",
+          "url": "https://fr.wikipedia.org/wiki/Mellon_de_Rouen"
+        },
+        {
+          "title": "Santi e Beati, San Mallone di Rouen (Roman Martyrology entry, 22 October)",
+          "url": "https://www.santiebeati.it/dettaglio/74740"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, oct-22-mello (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/oct-22-mello.md"
+        }
+      ],
+      "catalogMatch": "St. Mello, Bishop",
+      "lifeChapter": "oct-22-mello"
+    }
+  ]
+}

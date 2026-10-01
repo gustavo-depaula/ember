@@ -1,0 +1,44 @@
+{
+  "id": "maria_domenica_mantovani",
+  "feast": {
+    "month": 2,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Maria Domenica Mantovani",
+    "pt-BR": "Santa Maria Domênica Mantovani"
+  },
+  "patronOf": {
+    "en-US": "Co-foundress of the Little Sisters of the Holy Family",
+    "pt-BR": "Cofundadora das Pequenas Irmãs da Sagrada Família"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"With the help of the Holy Family, I will be all things to all.\"",
+    "pt-BR": "\"Com a ajuda da Sagrada Família, serei toda para todos.\""
+  },
+  "meta": {
+    "face": "A countrywoman of the Lake Garda shore of about sixty with a warm, lightly sun-browned complexion and a PEAR-SHAPED face — narrower at the brow and BROAD and full at the cheeks and jaw, a straight, fairly long nose with a broad, rounded tip, SMALL eyes NARROWED by a smile, with fine crinkles at their corners, under thin, slightly RAISED, arched brows, a WIDE mouth in a warm, closed smile, a broad, rounded chin; the gaze toward us, motherly and a little amused.",
+    "basis": "Her photograph (before 1934, on the Dicastery's page and Wikimedia Commons): a broad, full lower face under a narrower brow, small smiling eyes, raised brows, a straight nose with a broad tip and a wide mouth, in the black veil and the wide white collar. The card keeps her at about sixty, as there.",
+    "excerpt": "Her written resolution «Con l'aiuto della Sacra Famiglia sarò tutta a tutti», which she often wrote among her resolutions, as quoted by Città Nuova (2022); the Dicastery's biography also says she made herself «tutta a tutti»; our rendering (she died in 1934)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Maria Domenica Mantovani (biography and photograph)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/maria-domenica-mantovani.html"
+      },
+      {
+        "title": "Wikimedia Commons, Maria Domenica Mantovani.jpg (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Maria_Domenica_Mantovani.jpg"
+      },
+      {
+        "title": "Città Nuova, Maria Domenica Mantovani: la santa della prossimità (her resolutions)",
+        "url": "https://www.cittanuova.it/maria-domenica-mantovani-la-santa-della-prossimita/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

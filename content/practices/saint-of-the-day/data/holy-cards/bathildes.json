@@ -1,0 +1,41 @@
+{
+  "id": "bathildes",
+  "feast": {
+    "month": 1,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Bathildes",
+    "pt-BR": "Santa Batildes"
+  },
+  "patronOf": {
+    "en-US": "Queen of the Franks",
+    "pt-BR": "Rainha dos francos"
+  },
+  "prayerExcerpt": {
+    "en-US": "In all that we do, let God and His holy will be always before our eyes, and our only aim and desire be to please Him.",
+    "pt-BR": "Em tudo o que fizermos, estejam sempre diante dos nossos olhos Deus e a sua santa vontade, e seja o nosso único intento e desejo agradar-Lhe."
+  },
+  "lifeChapter": "jan-30-bathildes",
+  "meta": {
+    "face": "An Anglo-Saxon woman of about thirty-five with a fair, pale complexion and a ROUND, FULL face — a high, rounded forehead, a short, straight nose, ROUND, clear grey-blue eyes under light, softly curved honey-coloured brows, full, rounded cheeks with a faint flush, a small, bow-shaped mouth, a round chin with a small DIMPLE; honey-blond hair in a single long braid showing beneath the veil; her eyes lowered kindly toward the gifts.",
+    "basis": "No portrait from life; a fourteenth-century miniature (Wikipedia lead image) shows her crowned and haloed between nuns and monks. Her own chemise at Chelles (Wikipedia) is a linen tabard embroidered with necklaces and a jewelled cross, the jewels she gave up, which the card has her wear. The book gives her English birth, her care of the poor and the sick and her last years at Chelles. The round, fair face is our choice, kept apart from the set's long-faced queens (`hedwig`, `elizabeth_portugal`, `margaret_scotland`).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-30 reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Balthild (lead image: medieval miniature; the chemise of Balthild)",
+        "url": "https://en.wikipedia.org/wiki/Balthild"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-30-bathildes (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-30-bathildes.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sanctus",
+  "name": {
+    "en-US": "Sanctus",
+    "pt-BR": "Santo"
+  },
+  "patronOf": {
+    "en-US": "With the angels we sing God's glory",
+    "pt-BR": "Com os anjos cantamos a glória de Deus"
+  },
+  "prayerExcerpt": {
+    "en-US": "Holy, Holy, Holy Lord God of hosts. Heaven and earth are full of your glory.",
+    "pt-BR": "Santo, Santo, Santo, Senhor, Deus do universo. O céu e a terra proclamam a vossa glória."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "At the end of the Preface the priest 'joins his hands and, together with all those present, sings or says aloud the Sanctus' (GIRM 148), the acclamation 'by which the whole congregation, joining with the heavenly powers', takes part in the Eucharistic Prayer (GIRM 79b); all still stand (GIRM 43). The seraphim of Isaiah 6 on the reredos stand for those heavenly powers, as painting, not vision.",
+    "excerpt": "content/of/order/order-of-mass.json order.sanctus (its opening, line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 79 (standing; the Sanctus, sung with the heavenly powers)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 148 (the priest joins his hands and sings the Sanctus with all)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Sanctus (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-47.md."
+      }
+    ]
+  }
+}

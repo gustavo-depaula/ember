@@ -1,0 +1,45 @@
+{
+  "id": "simplicius",
+  "feast": {
+    "month": 3,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Simplicius",
+    "pt-BR": "São Simplício"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"He that trusteth in God shall fare never the worse.\"",
+    "pt-BR": "\"Aquele que confia em Deus jamais terá pior sorte.\""
+  },
+  "lifeChapter": "mar-02-simplicius",
+  "meta": {
+    "face": "A Roman of Tivoli of about sixty-five, CLEAN-SHAVEN in the Roman manner, with a warm olive complexion and a BROAD, POWERFUL head — a WIDE, FLAT forehead, a BIG, fleshy Roman nose with a STRONG HUMP at the bridge, heavy-lidded, shrewd dark eyes under thick, LEVEL black-and-grey brows, broad, flat cheeks cut by two deep vertical creases, a WIDE, full-lipped mouth, and a BROAD, JUTTING chin; short grey hair combed forward in a straight Roman fringe; the gaze steady and comforting, toward us.",
+    "basis": "No likeness survives; Callot's engraving (Wikipedia lead image) is a seventeenth-century invention with a tiara, and the book's engraving shows him enthroned, receiving the afflicted. His birth at Tivoli is from Wikipedia, his burial in St. Peter's from the book. The ivory chasuble keeps him apart from the red of `callistus` and `clement_i`; the broad, humped, clean-shaven face is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-02 reflection, the words of Ecclesiasticus it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Simplicius (born at Tivoli; lead image: Callot's engraving)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Simplicius"
+      },
+      {
+        "title": "Wikipedia, Old St. Peter's Basilica",
+        "url": "https://en.wikipedia.org/wiki/Old_St._Peter%27s_Basilica"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-02-simplicius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-02-simplicius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

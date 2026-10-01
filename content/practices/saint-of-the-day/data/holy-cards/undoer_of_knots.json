@@ -1,0 +1,48 @@
+{
+  "id": "undoer_of_knots",
+  "name": {
+    "en-US": "Our Lady, Undoer of Knots",
+    "pt-BR": "Nossa Senhora Desatadora dos Nós"
+  },
+  "patronOf": {
+    "en-US": "Who unties what sin has knotted",
+    "pt-BR": "Que desata o que o pecado atou"
+  },
+  "prayerExcerpt": {
+    "en-US": "The knot of Eve's disobedience was loosed by the obedience of Mary.",
+    "pt-BR": "O nó da desobediência de Eva foi desatado pela obediência de Maria."
+  },
+  "meta": {
+    "face": "The painting's own Madonna, close to the set's face: a young woman of about twenty with a softly OVAL face bent forward and a little to her right — a smooth high forehead, a fine straight nose, the eyes LOWERED to the knot in her hands under gently arched light-brown brows, softly rounded cheeks, a small closed rosy mouth, a small rounded chin; light-brown hair parted in the centre and falling loose behind her shoulders, no veil. The angels: youthful, beardless faces, the left one with light-brown curls, the right one with golden-brown hair to the nape.",
+    "basis": "Schmidtner's painting at Augsburg, from its Commons photographs and Wikipedia's description (the Woman of the Apocalypse on the moon, the crown of stars, the dove, the angels handing the knotted ribbon in and the loosed ribbon out, the serpent, Tobias and the Angel below). The title comes from St. Irenaeus's 'knot of Eve's disobedience'.",
+    "excerpt": "St. Irenaeus, Adversus haereses III.22.4: en-US from the Ante-Nicene Fathers translation (New Advent), without its opening 'And thus also it was that'; pt-BR our rendering of the Latin 'Evae inobedientiae nodus solutionem accepit per obedientiam Mariae' (as Newman quotes it)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, MaryUntier.jpg (Johann Georg Melchior Schmidtner, c. 1700)",
+        "url": "https://commons.wikimedia.org/wiki/File:MaryUntier.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, 07-2024 St. Peter am Perlach 7.jpg (the altar in Augsburg)",
+        "url": "https://commons.wikimedia.org/wiki/File:07-2024_St._Peter_am_Perlach_7.jpg"
+      },
+      {
+        "title": "Wikipedia, Mary Untier of Knots",
+        "url": "https://en.wikipedia.org/wiki/Mary_Untier_of_Knots"
+      },
+      {
+        "title": "St. Irenaeus, Against Heresies III.22 (Ante-Nicene Fathers, New Advent)",
+        "url": "https://www.newadvent.org/fathers/0103322.htm"
+      },
+      {
+        "title": "Newman, Letter to Pusey, Note I (the Latin of Adv. haer. III.22.4)",
+        "url": "https://www.newmanreader.org/works/anglicans/volume2/pusey/notes.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}

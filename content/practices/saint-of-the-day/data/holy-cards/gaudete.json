@@ -1,0 +1,41 @@
+{
+  "id": "gaudete",
+  "name": {
+    "en-US": "Gaudete Sunday",
+    "pt-BR": "Domingo Gaudete"
+  },
+  "patronOf": {
+    "en-US": "The Third Sunday of Advent",
+    "pt-BR": "O terceiro domingo do Advento"
+  },
+  "prayerExcerpt": {
+    "en-US": "Rejoice in the Lord always; again I say, rejoice. Indeed, the Lord is near.",
+    "pt-BR": "Alegrai-vos sempre no Senhor! Repito, alegrai-vos! O Senhor está próximo."
+  },
+  "proper": "tempore.advent.week-3.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "GIRM 346f allows rose 'where it is the practice' on Gaudete Sunday (the repo's formulary gives the day's colour as violet, the obligatory one); the wreath's rose candle is lit this Sunday by custom. Flowers stay moderate, arranged around the altar (GIRM 305).",
+    "excerpt": "content/of/formularies/tempore/advent/week-3/sunday.json entranceAntiphon (whole, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

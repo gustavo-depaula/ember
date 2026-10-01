@@ -1,0 +1,37 @@
+{
+  "id": "immaculate_heart",
+  "name": {
+    "en-US": "The Immaculate Heart of Mary",
+    "pt-BR": "Imaculado Coração de Maria"
+  },
+  "patronOf": {
+    "en-US": "She pondered all these things in her heart",
+    "pt-BR": "Ela guardava tudo em seu coração"
+  },
+  "prayerExcerpt": {
+    "en-US": "Mary treasured all these words, reflecting on them in her heart.",
+    "pt-BR": "Maria guardava todos estes fatos e meditava sobre eles em seu coração."
+  },
+  "proper": "sanctorale.movable.05-32",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; her gaze lowered and inward, recollected, with the faintest smile.",
+    "basis": "The devotional image of the Immaculate Heart shows Our Lady pointing to her heart wreathed in roses with a flame above it; the sword of the Sorrows was left off because our_lady_sorrows already carries it. The enclosed garden is the hortus conclusus of Song of Songs 4:12, long read of her. Her face is the set's.",
+    "excerpt": "content/of/formularies/sanctoral/movable/05-32.json communionAntiphon (whole, both languages)",
+    "sources": [
+      {
+        "title": "Wikipedia: Immaculate Heart of Mary (iconography)",
+        "url": "https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary"
+      },
+      {
+        "title": "Wikipedia: Hortus conclusus",
+        "url": "https://en.wikipedia.org/wiki/Hortus_conclusus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-17.md."
+      }
+    ]
+  }
+}

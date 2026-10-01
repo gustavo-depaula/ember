@@ -1,0 +1,45 @@
+{
+  "id": "cunegundes",
+  "feast": {
+    "month": 3,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Cunegundes",
+    "pt-BR": "Santa Cunegundes"
+  },
+  "patronOf": {
+    "en-US": "Empress, patroness of Luxembourg",
+    "pt-BR": "Imperatriz, padroeira de Luxemburgo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Detachment of the mind, at least, is needful to those who cannot venture on an effectual renunciation.",
+    "pt-BR": "O desapego do espírito, ao menos, é necessário àqueles que não podem aventurar-se a uma renúncia efetiva."
+  },
+  "lifeChapter": "mar-03-cunegundes",
+  "meta": {
+    "face": "A Luxembourg countess of about forty with a fair, clear complexion and a softly TRIANGULAR face — a BROAD, smooth, high forehead and wide-set cheekbones tapering in straight lines to a NARROW, POINTED chin; a SHORT, straight nose; LARGE, prominent, pale-blue eyes set FAR APART under very HIGH, thin, arched fair brows that give a look of calm candour; a small, full, bow-shaped mouth; fair hair in two long plaits falling beside the neck from under the veil; the gaze clear and untroubled, toward us.",
+    "basis": "No likeness from life; the Pericopes of Henry II (German Wikipedia's lead image) show a crowned, veiled empress without individual features. The church model follows the Adamspforte of Bamberg Cathedral and the ploughshare her usual attribute (Wikipedia); the book tells the ordeal of the ploughshares. The triangular face with far-set eyes is our choice, apart from her husband's heart-shaped face on `henry` (batch 13).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-03 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Cunigunde of Luxembourg (iconography: the church model, the ploughshare)",
+        "url": "https://en.wikipedia.org/wiki/Cunigunde_of_Luxembourg"
+      },
+      {
+        "title": "Wikipedia (de), Kunigunde von Luxemburg (lead image: the Pericopes of Henry II)",
+        "url": "https://de.wikipedia.org/wiki/Kunigunde_von_Luxemburg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-03-cunegundes (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-03-cunegundes.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-23.md."
+      }
+    ]
+  }
+}

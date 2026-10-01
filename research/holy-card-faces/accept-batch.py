@@ -40,7 +40,13 @@ for c in batch["cards"]:
     # A list line holds one card; an inline line ("[ ] Advent — Sunday · [ ] Advent — weekday") holds several,
     # and there catalogMatch is the item's text right after its box.
     item = "[ ] " + c["catalogMatch"]
-    hits = [i for i, l in enumerate(lines) if (l.startswith("- [ ]") and l.count("[ ]") == 1 and c["catalogMatch"] in l) or item in l]
+    # An item on an inline line wins: "Sanctus" is also a word of a list line (Sts. Pothinus, Sanctus, …).
+    # The item ends at a separator, so "Gospel" doesn't take "Gospel Acclamation".
+    def ends(rest):
+        return rest == "" or rest.startswith((" ·", " —", ";", ","))
+    inline = [i for i, l in enumerate(lines) if l.count("[ ]") > 1 and any(
+        ends(l[k + len(item):]) for k in range(len(l)) if l.startswith(item, k))]
+    hits = inline or [i for i, l in enumerate(lines) if (l.startswith("- [ ]") and l.count("[ ]") == 1 and c["catalogMatch"] in l) or item in l]
     if len(hits) != 1:
         sys.exit(f"{cid}: catalogMatch {c['catalogMatch']!r} matched {len(hits)} unticked lines")
     line = lines[hits[0]]

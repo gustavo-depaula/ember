@@ -3,6 +3,7 @@ import {
   ignoreSafeArea,
   interactiveDismissDisabled,
   type PresentationDetent,
+  presentationBackground,
   presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,
@@ -19,7 +20,7 @@ import { nextService, useChurch, useChurchSearch, wallClockNow } from '@/lib/mas
 import { useDebounced } from '@/lib/useDebounced'
 import { useCheckInCount } from '../checkins'
 import { useFavoritesStore } from '../favorites'
-import { dayLabel, formatDistanceKm, formatTimeOfDay } from '../format'
+import { dayLabel, daysAway, formatDistanceKm, formatTimeOfDay } from '../format'
 import { type MassFilter, type MassTimesNearby, passesFilter } from '../useMassTimesNearby'
 import { ChurchDetail } from './ChurchDetail'
 import { ChurchesMap } from './ChurchesMap'
@@ -32,6 +33,7 @@ import { MassLog } from './MassLog'
 import type { CameraIdle } from './NativeChurchesMap'
 import { QueryError } from './QueryError'
 import { SavedChurches } from './SavedChurches'
+import { clockFigures, Hairline, SectionLabel } from './SheetType'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
 type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
@@ -48,6 +50,10 @@ const DETENTS = [PEEK, HALF, FULL]
 // is the Host's background content (so `presentationBackgroundInteraction` keeps it LIVE behind the
 // sheet), and the native `BottomSheet` rides over it. Tapping a pin or row swaps the sheet to that
 // church's detail in place (and swings the map to it) — never a new page.
+// Paper with the map faintly behind it: the default sheet glass lets the map's colours wash through
+// the text, a solid sheet loses the sense of the map underneath.
+const sheetOpacity = 'CC'
+
 export function ChurchSheet({
   nearby,
   locale,
@@ -63,6 +69,7 @@ export function ChurchSheet({
 }) {
   // One mode at a time: browse/search, a selected church's detail, or the check-in log. A discriminated
   // union (not two booleans) keeps the three exclusive and carries the selected church with the detail.
+  const theme = useTheme()
   const [view, setView] = useState<SheetView>({ kind: 'browse' })
   const [detent, setDetent] = useState<PresentationDetent>(PEEK)
   const [query, setQuery] = useState('')
@@ -107,6 +114,7 @@ export function ChurchSheet({
         <Group
           modifiers={[
             presentationDetents(DETENTS, { selection: detent, onSelectionChange: setDetent }),
+            presentationBackground(`${theme.background?.val ?? '#FFFFFF'}${sheetOpacity}`),
             presentationBackgroundInteraction('enabled'),
             interactiveDismissDisabled(true),
             presentationDragIndicator('visible'),
@@ -158,13 +166,23 @@ function noop() {}
 // Place mode: the full church detail in the sheet, with a back affordance to the browse list.
 function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {
   const insets = useSafeAreaInsets()
+  const [scrolled, setScrolled] = useState(false)
   return (
     <View style={styles.fill}>
-      <SheetPaneHeader onBack={onBack} />
+      <SheetPaneHeader onBack={onBack} ruled={scrolled} />
       <ScrollView
         nestedScrollEnabled
+        scrollEventThrottle={32}
+        onScroll={(e) => {
+          const next = e.nativeEvent.contentOffset.y > 4
+          if (next !== scrolled) setScrolled(next)
+        }}
         style={styles.fill}
-        contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 32 }}
+        contentContainerStyle={{
+          paddingHorizontal: 20,
+          paddingTop: 16,
+          paddingBottom: insets.bottom + 32,
+        }}
         showsVerticalScrollIndicator={false}
       >
         <ChurchDetail churchId={churchId} />
@@ -185,51 +203,45 @@ function LogPane({
   const { t } = useTranslation()
   return (
     <View style={styles.fill}>
-      <SheetPaneHeader onBack={onBack} label={t('massTimes.massLog')} />
-      <View style={{ flex: 1, paddingHorizontal: 16 }}>
+      <SheetPaneHeader onBack={onBack} />
+      <View style={{ flex: 1, paddingHorizontal: 20, paddingTop: 16 }}>
+        <SectionLabel rule>{t('massTimes.massLog')}</SectionLabel>
         <MassLog onSelectChurch={onSelectChurch} />
       </View>
     </View>
   )
 }
 
-// Shared sub-view header: a back-to-browse button + an optional section label.
-function SheetPaneHeader({ onBack, label }: { onBack: () => void; label?: string }) {
+// Shared sub-view header: a back-to-browse button, set well clear of the
+// grabber — a control pressed against it reads as cramped. `ruled` draws its bottom edge once content
+// scrolls beneath it, so text sliced at that edge reads as passing under the header, not as clipped.
+function SheetPaneHeader({ onBack, ruled }: { onBack: () => void; ruled?: boolean }) {
   return (
-    <XStack
-      paddingHorizontal="$md"
-      paddingTop="$xs"
-      paddingBottom="$sm"
-      alignItems="center"
-      gap="$sm"
-    >
-      <SheetBackButton onPress={onBack} />
-      {label ? <Typography variant="label">{label}</Typography> : null}
-    </XStack>
+    <YStack>
+      <XStack paddingHorizontal={12} paddingTop={12}>
+        <SheetBackButton onPress={onBack} />
+      </XStack>
+      <YStack opacity={ruled ? 1 : 0}>
+        <Hairline />
+      </YStack>
+    </YStack>
   )
 }
 
 function SheetBackButton({ onPress }: { onPress: () => void }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const tile = useGlassTile()
   return (
     <AnimatedPressable
       onPress={onPress}
-      hitSlop={8}
       accessibilityRole="button"
       accessibilityLabel={t('massTimes.back')}
     >
-      <XStack
-        backgroundColor={tile}
-        borderRadius={18}
-        height={36}
-        paddingHorizontal="$sm"
-        alignItems="center"
-        gap="$xs"
-      >
-        <ChevronLeft size={18} color={theme.colorSecondary?.val} />
-        <Typography variant="annotation">{t('massTimes.nearbyHeading')}</Typography>
+      <XStack height={44} paddingLeft={4} paddingRight="$sm" alignItems="center" gap={4}>
+        <ChevronLeft size={22} color={theme.color?.val} />
+        <Typography variant="interface" fontSize="$3">
+          {t('massTimes.nearbyHeading')}
+        </Typography>
       </XStack>
     </AnimatedPressable>
   )
@@ -269,7 +281,7 @@ function BrowseSearch({
 
   const debounced = useDebounced(query.trim(), 250)
   const searching = debounced.length >= 2
-  const search = useChurchSearch(debounced, nearby.kind)
+  const search = useChurchSearch(debounced, nearby.kind, nearby.center)
   const favorites = useFavoritesStore((s) => s.favorites)
   const results = (search.data ?? []).filter((c) => passesFilter(c, filter, favorites))
 
@@ -280,7 +292,7 @@ function BrowseSearch({
       <XStack
         gap="$sm"
         alignItems="center"
-        paddingHorizontal={16}
+        paddingHorizontal={20}
         paddingTop={16}
         paddingBottom={12}
       >
@@ -339,12 +351,12 @@ function BrowseSearch({
             />
           )
         }
-        ItemSeparatorComponent={() => <YStack height="$sm" />}
-        contentContainerStyle={{ paddingHorizontal: 16, paddingBottom: insets.bottom + 24 }}
+        ItemSeparatorComponent={Hairline}
+        contentContainerStyle={{ paddingHorizontal: 20, paddingBottom: insets.bottom + 24 }}
         showsVerticalScrollIndicator={false}
         ListHeaderComponent={
           searching ? null : (
-            <YStack gap="$sm" paddingBottom="$sm">
+            <YStack gap="$lg" paddingTop="$sm" paddingBottom={4}>
               <LocationBar location={nearby.location} />
               <NextMassNearby churches={churches} locale={locale} onSelect={onSelectNearby} />
               <SavedChurches onSelect={onSelectRow} />
@@ -354,15 +366,8 @@ function BrowseSearch({
                   accessibilityRole="button"
                   accessibilityLabel={t('massTimes.massLog')}
                 >
-                  <XStack
-                    backgroundColor={tile}
-                    borderRadius="$lg"
-                    paddingVertical="$sm"
-                    paddingHorizontal="$md"
-                    alignItems="center"
-                    gap="$md"
-                  >
-                    <CalendarCheck size={20} color={theme.accent?.val} />
+                  <XStack minHeight={44} alignItems="center" gap="$md">
+                    <CalendarCheck size={20} color={theme.colorSecondary?.val} />
                     <Typography variant="interface" fontSize="$3" flex={1}>
                       {t('massTimes.massLog')}
                     </Typography>
@@ -372,7 +377,7 @@ function BrowseSearch({
                 </AnimatedPressable>
               ) : null}
               {churches.length > 0 ? (
-                <Typography variant="label">{t('massTimes.nearbyHeading')}</Typography>
+                <SectionLabel rule>{t('massTimes.nearbyHeading')}</SectionLabel>
               ) : null}
             </YStack>
           )
@@ -384,7 +389,7 @@ function BrowseSearch({
             ) : search.isLoading ? (
               <YStack gap="$sm">
                 {[0, 1, 2].map((i) => (
-                  <Skeleton key={i} height={72} borderRadius={12} />
+                  <Skeleton key={i} height={56} borderRadius={8} />
                 ))}
               </YStack>
             ) : (
@@ -397,7 +402,7 @@ function BrowseSearch({
           ) : nearby.isLoading ? (
             <YStack gap="$sm">
               {[0, 1, 2].map((i) => (
-                <Skeleton key={i} height={88} borderRadius={12} />
+                <Skeleton key={i} height={56} borderRadius={8} />
               ))}
             </YStack>
           ) : (
@@ -428,7 +433,6 @@ function NextMassNearby({
   onSelect: (church: NearbyChurch) => void
 }) {
   const { t } = useTranslation()
-  const tile = useGlassTile()
 
   const soonest = useMemo(() => {
     let best: { church: NearbyChurch; instant: Date; date: Date; startTime: string } | undefined
@@ -450,6 +454,7 @@ function NextMassNearby({
   if (!soonest) return null
   const { church } = soonest
   const now = wallClockNow(church.timezone)
+  const isToday = daysAway(soonest.date, now) <= 0
 
   return (
     <AnimatedPressable
@@ -457,34 +462,38 @@ function NextMassNearby({
       accessibilityRole="button"
       accessibilityLabel={t('massTimes.nextMassNearby')}
     >
-      <XStack
-        backgroundColor={tile}
-        borderRadius="$lg"
-        paddingVertical="$sm"
-        paddingHorizontal="$md"
-        gap="$md"
-        alignItems="center"
-      >
-        <YStack alignItems="center" minWidth={64}>
-          <Typography variant="reference" color="$accent">
-            {dayLabel(soonest.date, now, t, locale)}
+      <YStack gap="$sm">
+        <SectionLabel cross>{t('massTimes.nextMassNearby')}</SectionLabel>
+        <XStack alignItems="center" gap="$md">
+          <Typography
+            variant="sacred-title"
+            fontSize={44}
+            lineHeight={52}
+            fontVariant={[...clockFigures]}
+          >
+            {formatTimeOfDay(soonest.startTime)}
           </Typography>
-          <Typography variant="sacred-title" fontSize="$4" color="$accent">
-            {formatTimeOfDay(soonest.startTime, locale)}
-          </Typography>
-        </YStack>
-        <YStack flex={1} gap={2}>
-          <Typography variant="reference">{t('massTimes.nextMassNearby')}</Typography>
-          <Typography variant="sacred-title" textAlign="left" fontSize="$3" numberOfLines={2}>
-            {church.name}
-          </Typography>
-          {church.distanceKm === undefined ? null : (
-            <Typography variant="annotation">
-              {formatDistanceKm(church.distanceKm, locale)}
+          {/* Two tight lines spanning the time's height: the name's cap line level with the top of
+              the figures, the day on their baseline. One line for the name, so the span holds. */}
+          <YStack flex={1} top={-7}>
+            <Typography variant="interface" fontSize={19} lineHeight={22} numberOfLines={1}>
+              {church.name}
             </Typography>
-          )}
-        </YStack>
-      </XStack>
+            <Typography variant="annotation" fontSize={16} lineHeight={17}>
+              <Typography
+                variant="annotation"
+                fontSize={16}
+                color={isToday ? '$colorBurgundy' : '$colorSecondary'}
+              >
+                {dayLabel(soonest.date, now, t, locale)}
+              </Typography>
+              {church.distanceKm === undefined
+                ? ''
+                : ` · ${formatDistanceKm(church.distanceKm, locale)}`}
+            </Typography>
+          </YStack>
+        </XStack>
+      </YStack>
     </AnimatedPressable>
   )
 }

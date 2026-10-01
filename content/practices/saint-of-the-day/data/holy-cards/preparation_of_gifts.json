@@ -1,0 +1,40 @@
+{
+  "id": "preparation_of_gifts",
+  "name": {
+    "en-US": "Preparation of the Gifts",
+    "pt-BR": "Preparação das Oferendas"
+  },
+  "patronOf": {
+    "en-US": "Bread and wine are brought to the altar",
+    "pt-BR": "O pão e o vinho são levados ao altar"
+  },
+  "prayerExcerpt": {
+    "en-US": "Blessed are you, Lord God of all creation, for through your goodness we have received the bread we offer you: fruit of the earth and work of human hands, it will become for us the bread of life.",
+    "pt-BR": "Bendito sejais, Senhor, Deus do universo, pelo pão que recebemos de vossa bondade, fruto da terra e do trabalho humano, que agora vos apresentamos, e para nós se vai tornar pão da vida."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The corporal, purificator, chalice and Missal are placed on the altar and the faithful bring up the bread and wine (GIRM 73, 139–140); the priest 'holds it slightly raised above the altar with both hands and says quietly' the blessing of the excerpt, then the minister presents the cruets (GIRM 141–142; the Order of Mass rubric). The people sit (GIRM 43). 'Slightly raised', not the elevation: the paten stays just above the altar.",
+    "excerpt": "content/of/order/order-of-mass.json order.preparation-of-gifts (the blessing over the bread, line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 73–75 (sitting; the altar made ready and the gifts brought forward)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 139–142 (the altar prepared; the offerings received; the paten slightly raised; the cruets)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-47.md."
+      }
+    ]
+  }
+}

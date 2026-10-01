@@ -1,0 +1,497 @@
+{
+  "batch": 40,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-40.md",
+  "cards": [
+    {
+      "id": "gregory_thaumaturgus",
+      "letter": "G",
+      "feast": {
+        "month": 11,
+        "day": 17
+      },
+      "name": {
+        "en-US": "St. Gregory Thaumaturgus",
+        "pt-BR": "São Gregório Taumaturgo"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Neocaesarea",
+        "pt-BR": "Bispo de Neocesareia"
+      },
+      "prayerExcerpt": {
+        "en-US": "Devotion to the blessed Mother of God is the sure protection of faith in her Divine Son.",
+        "pt-BR": "A devoção à bendita Mãe de Deus é a segura proteção da fé em seu Filho Divino."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-17-gregory-thaumaturgus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Gregory Thaumaturgus, half-length, a Greek bishop of the third century, bareheaded: a plain white linen tunic, over it a wide phelonion of warm ochre and a white woollen omophorion with large black crosses lying over his shoulders and breast, as in the old icons; in his left hand a Gospel book bound in dark red leather with a small gold cross, his right hand raised in blessing. Behind him the green valley of the Lycus in Pontus: the river running calmly between its banks under wooded hills, a large, leafy tree growing on the bank where he planted his staff to hold back the flood, and the small walled town of Neocaesarea with a plain early church on a rise, under a clear, soft sky. Wise, grave and kindly; no demons, no vision, no lettering.",
+      "face": "A Greek of Pontus of about sixty with a warm, light olive complexion and a NARROW face with SUNKEN TEMPLES — a HIGH, BALD crown with a single short CURL of white hair left over the middle of the forehead and thick, short white curls over the ears; a DEEP vertical FURROW between the brows; a LONG, STRAIGHT, NARROW nose running down from it; small, CLOSE-SET, deep-brown eyes under brows that slant gently UP toward the centre in a look of concentration; flat cheeks; a small, tight mouth; a SHORT, CURLY, rounded white beard; the gaze grave and searching, toward us. Not the long-bearded athanasius, the rectangular, square-jawed lambert, the trapezoid hilary, the domed honoratus or the long, symmetrical remigius.",
+      "refs": [
+        "athanasius",
+        "nicholas",
+        "ambrose"
+      ],
+      "basis": "No likeness survives. The face follows the Painter's Manual ('an old man with curly hair and a short beard') and the Greek icon on English Wikipedia (a narrow face, balding, with a curl over the brow and a short white beard); the tree on the riverbank is the staff that held back the Lycus, from Santi e Beati's notice.",
+      "sources": [
+        {
+          "title": "Wikipedia, Gregory Thaumaturgus (lead: icon)",
+          "url": "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+        },
+        {
+          "title": "Santi e Beati, San Gregorio Taumaturgo (Roman Martyrology entry, 17 November)",
+          "url": "https://www.santiebeati.it/dettaglio/78050"
+        },
+        {
+          "title": "Dionysius of Fourna, Painter's Manual (Hetherington's translation): Gregory of Neo-Caesarea",
+          "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-17-gregory-thaumaturgus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-17-gregory-thaumaturgus.md"
+        }
+      ],
+      "catalogMatch": "St. Gregory Thaumaturgus",
+      "lifeChapter": "nov-17-gregory-thaumaturgus"
+    },
+    {
+      "id": "odo_cluny",
+      "letter": "O",
+      "feast": {
+        "month": 11,
+        "day": 18
+      },
+      "name": {
+        "en-US": "St. Odo of Cluny",
+        "pt-BR": "Santo Odão de Cluny"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Cluny",
+        "pt-BR": "Abade de Cluny"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"It needs only,\" says Father Newman, \"for a Catholic to show devotion to any Saint, in order to receive special benefits from his intercession.\"",
+        "pt-BR": "\"Basta apenas\", diz o Padre Newman, \"que um católico mostre devoção a algum Santo, para receber benefícios especiais de sua intercessão.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-18-odo-of-cluny.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Odo of Cluny, half-length, a Benedictine abbot of the tenth century: a full black monastic cowl with wide sleeves and the hood fallen back, no mitre; a plain wooden abbot's staff with a simple curved head in his left hand, and in his right, held against his breast, a small book of the Rule. His head is a little bowed and his shoulders a little bent, as his monks knew him. Behind him the Burgundian valley of the Grosne: green wooded hills, and the new abbey church of Cluny rising in pale stone with its wooden scaffolding still on the walls, a few monks small in the cloister garth, under a soft, clear autumn sky. Humble, gentle and quietly cheerful; no lettering.",
+      "face": "An Aquitanian noble of about sixty, slight and a little stooped, CLEAN-SHAVEN, with a pale, rather sallow complexion and a face shaped like an UPRIGHT EGG — WIDEST at the BROAD, HIGH, rounded forehead under the monastic tonsure and narrowing evenly, with SMOOTH, soft cheeks and no marked cheekbones, to a small, ROUNDED chin; a SHORT, slightly UPTURNED nose; large, ROUND grey eyes under softly rounded lids, LOWERED toward the ground; sparse, straight fair brows; a small, gentle mouth with a quiet hint of humour at the corners; a thin ring of light-brown hair going grey around the tonsure; the gaze cast down, recollected. Not his successor hugh_cluny (square-oval, Greek-nosed), the lean, sharp-cheeked, hook-nosed edmund_canterbury, the long, smooth, long-nosed didacus, the long, domed ludger, the bulge-browed, short, wide elphege, the heart-shaped polycarp or the broad, flat-faced leonard_noblac.",
+      "refs": [
+        "benedict",
+        "bernard_clairvaux",
+        "anthony_padua"
+      ],
+      "basis": "No likeness survives. John of Salerno's Life, as retold on Nobility.org, says he 'habitually walked with back bent and eyes fixed on the ground', so that his monks called him 'the Digger', and that a mood of hilarity sometimes seized him; the card keeps the bowed head and lowered eyes. Cluny is shown being built, as the book says it was when he came.",
+      "sources": [
+        {
+          "title": "Wikipedia, Odo of Cluny (lead: miniature)",
+          "url": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+        },
+        {
+          "title": "Nobility.org, St. Odo of Cluny (from John of Salerno's Life)",
+          "url": "https://nobility.org/2013/11/st-odo-of-cluny/"
+        },
+        {
+          "title": "Santi e Beati, Sant'Oddone di Cluny (Roman Martyrology entry, 18 November)",
+          "url": "https://www.santiebeati.it/dettaglio/78200"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-18-odo-of-cluny (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-18-odo-of-cluny.md"
+        }
+      ],
+      "catalogMatch": "St. Odo of Cluny",
+      "lifeChapter": "nov-18-odo-of-cluny"
+    },
+    {
+      "id": "felix_valois",
+      "letter": "F",
+      "feast": {
+        "month": 11,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Felix of Valois",
+        "pt-BR": "São Félix de Valois"
+      },
+      "patronOf": {
+        "en-US": "Founder of the Trinitarians",
+        "pt-BR": "Fundador dos Trinitários"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Think how much,\" says St. John Chrysostom, \"and how often thy mouth has sinned, and thou wilt devote thyself entirely to the conversion of sinners. For by this one means thou wilt blot out all thy sins, in that thy mouth will become the mouth of God.\"",
+        "pt-BR": "\"Pensa quanto\", diz São João Crisóstomo, \"e quão amiúde tua boca pecou, e te dedicarás inteiramente à conversão dos pecadores. Pois por este único meio apagarás todos os teus pecados, porquanto tua boca se tornará a boca de Deus.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-20-felix-of-valois.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Felix of Valois, half-length, a very old hermit and founder: the white habit and white scapular of the Order of the Holy Trinity, a small cross of RED upright and BLUE crossbar on the breast of the scapular, a dark-brown mantle over his shoulders; his hands folded on a small wooden rosary over a closed book. Behind him the forest of Cerfroid near Meaux: tall oaks and beeches, a small hermit's cell of stone with a wooden cross, and a clear spring in a mossy basin at which a white stag stands drinking quietly, under a soft, silvery morning light. Contemplative, gentle and venerable; no cross between the stag's antlers, no captives, no chains, no lettering.",
+      "face": "A Frenchman of about eighty-five, spare and frail, with a pale, fine, deeply lined complexion and a LONG, NARROW face with HOLLOW temples and cheeks — a HIGH, BALD, smooth dome with a few wisps of white hair at the sides; deep-set, HOODED, heavy-lidded blue-grey eyes looking DOWN and a little to the side; long, feathery white brows that DROOP at their outer ends; a thin, finely ARCHED nose; a small mouth half hidden; a VERY LONG, full, softly WAVY white beard that flows down over the breast to the waist; the gaze meek and inward. Not his companion john_matha (clean-shaven, convex, curved-nosed), the triangular, hooded anthony_abbot, the fine-boned, clean-shaven fabian or the long-bearded athanasius.",
+      "refs": [
+        "anthony_abbot",
+        "jerome",
+        "benedict"
+      ],
+      "basis": "No likeness survives. The very old man with a long white beard follows the tradition of his images (the painting on English Wikipedia) and his great age (Wikipedia: seventy when John of Matha came to him); the white stag at the spring of Cerfroid is from the legend told on French Wikipedia, painted without the cross between its antlers, which the Trinitarian cross on his scapular already shows.",
+      "sources": [
+        {
+          "title": "Wikipedia, Felix of Valois (lead: painting with the stag)",
+          "url": "https://en.wikipedia.org/wiki/Felix_of_Valois"
+        },
+        {
+          "title": "Wikipedia (fr), Félix de Valois (the white stag at the spring)",
+          "url": "https://fr.wikipedia.org/wiki/F%C3%A9lix_de_Valois"
+        },
+        {
+          "title": "Santi e Beati, San Felice di Valois (Roman Martyrology entry, 4 November)",
+          "url": "https://www.santiebeati.it/dettaglio/78450"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-20-felix-of-valois (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-20-felix-of-valois.md"
+        }
+      ],
+      "catalogMatch": "St. Felix of Valois",
+      "lifeChapter": "nov-20-felix-of-valois"
+    },
+    {
+      "id": "peter_alexandria",
+      "letter": "P",
+      "feast": {
+        "month": 11,
+        "day": 26
+      },
+      "name": {
+        "en-US": "St. Peter of Alexandria",
+        "pt-BR": "São Pedro de Alexandria"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyr",
+        "pt-BR": "Bispo e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"How hardly shall they that have riches enter into the kingdom of God!\" says Our Saviour; because they are bound to earth by the strong ties of their riches.",
+        "pt-BR": "\"Quão dificilmente entrarão no reino de Deus os que têm riquezas!\", diz Nosso Salvador; porque estão presos à terra pelos fortes laços de suas riquezas."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-26-peter-of-alexandria.md Reflection, the whole of it (Mark 10:23) (Pictorial Lives, public domain)",
+      "subject": "St. Peter of Alexandria, half-length, a Greek bishop of Egypt of the early fourth century, bareheaded: a white tunic, a wide phelonion of deep crimson, and a white omophorion with small dark crosses over his shoulders; in his left hand a Gospel book bound in plain leather, in his right a martyr's palm. Behind him Alexandria by the sea: the great harbour with a few sailing ships, the tall white Pharos lighthouse on its island, low white houses and a simple early church with a small dome along the shore, a few date palms, under a bright, hazy Egyptian sky. Steadfast, fatherly and wise; no sword, no executioner, no prison, no lettering.",
+      "face": "An Alexandrian of about sixty-five, sturdy, with a warm olive complexion and a ROUND, FULL face — a broad, rounded forehead with short, thick grey hair receding a little at the temples, FULL, rounded cheeks, a SHORT, broad nose with a ROUNDED tip, LARGE, dark, heavy-lidded eyes under softly ARCHED black-and-grey brows, a small, full mouth; a FULL, ROUNDED grey beard of medium length, curling at the edges; the gaze steady and fatherly, toward us. Not the oblong, high-nosed cyril_alexandria, the bald, long-bearded athanasius, the broad-domed lucian_antioch, or the short-bearded, narrow Gregory Thaumaturgus of this batch.",
+      "refs": [
+        "athanasius",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "No likeness survives. The Painter's Manual describes him as 'an old man with a rounded beard', which the card keeps (the fresco on English Wikipedia shows him with a full, rounded greyish beard); the palm is for the Martyrology's 'last victim of the great persecution'.",
+      "sources": [
+        {
+          "title": "Wikipedia, Peter I of Alexandria (lead: fresco with the vision of the Child)",
+          "url": "https://en.wikipedia.org/wiki/Peter_I_of_Alexandria"
+        },
+        {
+          "title": "Santi e Beati, San Pietro I di Alessandria (Roman Martyrology entry)",
+          "url": "https://www.santiebeati.it/dettaglio/92837"
+        },
+        {
+          "title": "Dionysius of Fourna, Painter's Manual (Hetherington's translation): Peter of Alexandria",
+          "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-26-peter-of-alexandria (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-26-peter-of-alexandria.md"
+        }
+      ],
+      "catalogMatch": "St. Peter of Alexandria",
+      "lifeChapter": "nov-26-peter-of-alexandria"
+    },
+    {
+      "id": "maximus_riez",
+      "letter": "M",
+      "feast": {
+        "month": 11,
+        "day": 27
+      },
+      "name": {
+        "en-US": "St. Maximus",
+        "pt-BR": "São Máximo"
+      },
+      "patronOf": {
+        "en-US": "Abbot of Lérins, bishop of Riez",
+        "pt-BR": "Abade de Lérins, bispo de Riez"
+      },
+      "prayerExcerpt": {
+        "en-US": "\"Masters, do to your servants that which is just and equal, knowing that you also have a Master in heaven.\"",
+        "pt-BR": "\"Senhores, fazei a vossos servos o que é justo e equitativo, sabendo que também vós tendes um Senhor no céu.\""
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-27-maximus.md Reflection, the whole of it (Colossians 4:1) (Pictorial Lives, public domain)",
+      "subject": "St. Maximus of Riez, half-length, a Gallo-Roman bishop of the fifth century who had been a monk, bareheaded: a plain white tunic, a wide, soft chasuble of undyed natural wool over it and a narrow white pallium; a plain wooden pastoral staff with a simple curved head in his left hand, his right hand open and held out in a gentle, welcoming gesture. Behind him the high plateau of Riez in Provence: four tall grey Roman columns still standing in a meadow, a small, square early baptistery with a low dome, olive trees and stone walls, and blue hills beyond, under a clear, warm, luminous sky. Gentle, kindly and fatherly; no lettering.",
+      "face": "A Gallo-Roman of Provence of about sixty, CLEAN-SHAVEN, with a warm, sun-touched complexion and a gently PEAR-SHAPED face — NARROW at the temples and BROADENING to a WIDE, SOFT, rounded jaw and full lower cheeks, with a small fold under the chin; a LOW, smooth forehead; a SHORT, broad, BLUNT nose; small, kind brown eyes, a little creased at the corners; LOW, heavy, straight dark-grey brows; a wide, gentle mouth in a quiet, fatherly smile; short, thick grey hair in a monk's crown; the gaze warm and fatherly, toward us. Not his abbot honoratus (domed forehead, small lower face), the square-oval, laughing willibrord, the high-browed, jowled luigi_maria_palazzolo, the square, short-faced denis, the flat-faced, bearded leonard_noblac or the round, bearded Peter of Alexandria of this batch.",
+      "refs": [
+        "augustine",
+        "patrick",
+        "ambrose"
+      ],
+      "basis": "No likeness survives. The kindly face follows the book ('the gentleness and kindliness with which he governed', 'regretted as the best of fathers'); Riez's four Roman columns and its early baptistery (French Wikipedia's lead image) are the town he governed.",
+      "sources": [
+        {
+          "title": "Wikipedia (fr), Maxime de Riez (lead: the baptistery of Riez)",
+          "url": "https://fr.wikipedia.org/wiki/Maxime_de_Riez"
+        },
+        {
+          "title": "Santi e Beati, San Massimo di Riez (Roman Martyrology entry, 27 November)",
+          "url": "https://www.santiebeati.it/dettaglio/92152"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-27-maximus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-27-maximus.md"
+        }
+      ],
+      "catalogMatch": "St. Maximus, Bishop",
+      "lifeChapter": "nov-27-maximus"
+    },
+    {
+      "id": "james_marches",
+      "letter": "J",
+      "feast": {
+        "month": 11,
+        "day": 28
+      },
+      "name": {
+        "en-US": "St. James of La Marca of Ancona",
+        "pt-BR": "São Tiago de La Marca de Ancona"
+      },
+      "patronOf": {
+        "en-US": "Franciscan preacher",
+        "pt-BR": "Pregador franciscano"
+      },
+      "prayerExcerpt": {
+        "en-US": "He began his spiritual war against the devil, the world, and the flesh, with assiduous prayer and extraordinary fasts and watchings.",
+        "pt-BR": "Começou sua guerra espiritual contra o demônio, o mundo e a carne, com oração assídua e extraordinários jejuns e vigílias."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-28-james-of-la-marca-of-ancona.md, second paragraph, second sentence; the chapter has no Reflection (Pictorial Lives, public domain)",
+      "subject": "St. James of the Marches, half-length, an Observant Franciscan friar of the fifteenth century: a coarse grey-brown habit with its hood lying on his shoulders and a knotted white cord; in his right hand he raises a plain golden chalice, and his left hand is laid on his breast. Behind him the hills of the Marche above the Adriatic: the small hill town of Monteprandone with its brick walls and a bell tower, olive groves and ploughed fields falling toward a thin line of blue sea, under a bright, clear sky. Ardent, austere and kind; no serpent, no lettering.",
+      "face": "An Italian of the Marche of about seventy, gaunt, CLEAN-SHAVEN, with a sun-browned, weathered complexion and a LONG, RECTANGULAR face with deep vertical lines down the cheeks — a HIGH, broad, BALD crown with a thin ring of short grey hair; a LONG, heavy, straight nose with a BROAD, rounded tip; LARGE, round, dark eyes LIFTED upward under straight, dark-grey brows, the lower lids heavy; a WIDE, thin-lipped mouth slightly open as if about to preach; a LONG, broad chin; the gaze lifted and ardent. Not his master bernardine_siena (thin, pointed, sunken-cheeked), the small, triangular john_capistrano, the lantern-jawed patrician gregory_langres, the angular, moustached paschal_baylon, the smooth, narrow didacus or the craggy-browed peter_damian.",
+      "refs": [
+        "anthony_padua",
+        "francis_assisi",
+        "bonaventure"
+      ],
+      "basis": "No portrait from life was found. The face follows Zurbarán's St. James of the Marches (English Wikipedia's lead: gaunt, long-faced, balding, eyes raised, chalice held up), which Crivelli's picture of 1477 (Italian Wikipedia, not seen) precedes; the chalice is his emblem, painted without the serpent that often escapes from it.",
+      "sources": [
+        {
+          "title": "Wikipedia, James of the Marches (lead: Zurbarán)",
+          "url": "https://en.wikipedia.org/wiki/James_of_the_Marches"
+        },
+        {
+          "title": "Wikipedia (it), San Giacomo della Marca (Carlo Crivelli)",
+          "url": "https://it.wikipedia.org/wiki/San_Giacomo_della_Marca_(Carlo_Crivelli)"
+        },
+        {
+          "title": "Santi e Beati, San Giacomo della Marca (Roman Martyrology entry, 28 November)",
+          "url": "https://www.santiebeati.it/dettaglio/35550"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-28-james-of-la-marca-of-ancona (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-28-james-of-la-marca-of-ancona.md"
+        }
+      ],
+      "catalogMatch": "St. James of La Marca of Ancona",
+      "lifeChapter": "nov-28-james-of-la-marca-of-ancona"
+    },
+    {
+      "id": "saturninus_toulouse",
+      "letter": "S",
+      "feast": {
+        "month": 11,
+        "day": 29
+      },
+      "name": {
+        "en-US": "St. Saturninus",
+        "pt-BR": "São Saturnino"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Toulouse, martyr",
+        "pt-BR": "Bispo de Tolosa, mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "When beset by the temptations of the devil, let us call upon the Saints, who reign with Christ.",
+        "pt-BR": "Quando assediados pelas tentações do demônio, invoquemos os Santos, que reinam com Cristo."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-29-saturninus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Saturninus, half-length, a Roman missionary bishop of the third century, bareheaded: a white tunic and over it a full, dark-green paenula (the round Roman travelling cloak) with a narrow white pallium; a plain wooden pastoral staff in his left hand and a martyr's palm in his right. Behind him Roman Toulouse on the Garonne: the broad river with a low stone bridge, walls and houses of rose-red brick, and on a rise the columns of the pagan capitol with a long flight of steps, and apart from it a very small, plain house-church with a cross over its door, under a warm, clear southern sky. Fearless, calm and resolute; no bull, no crowd, no wounds, no lettering.",
+      "face": "A Roman of about fifty-five, tall and lean, with a light olive complexion and a LONG face shaped like a SHIELD — a wide, flat forehead crossed by STRAIGHT, LEVEL black brows, the sides of the face running long and straight and narrowing only at the bottom to a firm, BLUNT chin; a ROMAN nose with a strong HUMP high on the bridge; deep-set, level, steady dark eyes; hollow cheeks under clear cheekbones; a firm, thin mouth; short, cropped, greying black hair combed forward in the Roman way; a SHORT, DENSE, cropped black-and-grey beard close to the jaw; the gaze fearless, toward us. Not the rectangular, square-jawed lambert, the long, jutting-chinned firmin, the broad, square denis, the oblong germanus_auxerre or the long, rectangular cornelius of cornelius_cyprian.",
+      "refs": [
+        "patrick",
+        "nicholas",
+        "ambrose"
+      ],
+      "basis": "No likeness survives. The face is a Roman of the third century, as the book and Wikipedia make him (sent from Rome under Pope Fabian); the staff and palm are his emblems on Santi e Beati, and the capitol he passed daily, as the book tells, stands behind him without the bull.",
+      "sources": [
+        {
+          "title": "Wikipedia, Saturnin (lead: miniature of the martyrdom)",
+          "url": "https://en.wikipedia.org/wiki/Saturnin"
+        },
+        {
+          "title": "Wikipedia (fr), Saturnin de Toulouse",
+          "url": "https://fr.wikipedia.org/wiki/Saturnin_de_Toulouse"
+        },
+        {
+          "title": "Santi e Beati, San Saturnino di Tolosa (Roman Martyrology entry, 29 November)",
+          "url": "https://www.santiebeati.it/dettaglio/79700"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, nov-29-saturninus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/nov-29-saturninus.md"
+        }
+      ],
+      "catalogMatch": "St. Saturninus, Martyr",
+      "lifeChapter": "nov-29-saturninus"
+    },
+    {
+      "id": "eligius",
+      "letter": "E",
+      "feast": {
+        "month": 12,
+        "day": 1
+      },
+      "name": {
+        "en-US": "St. Eligius",
+        "pt-BR": "Santo Elói"
+      },
+      "patronOf": {
+        "en-US": "Patron of goldsmiths",
+        "pt-BR": "Padroeiro dos ourives"
+      },
+      "prayerExcerpt": {
+        "en-US": "When God called His Saints to Himself, He might, had He so pleased, have taken their bodies also; but He willed to leave them in our charge, for our help and consolation.",
+        "pt-BR": "Quando Deus chamou os seus Santos para Si, poderia, se assim Lhe aprouvesse, ter tomado também os seus corpos; mas quis deixá-los a nosso cuidado, para nosso auxílio e consolação."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-01-eligius.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Eligius, half-length, the goldsmith who became Bishop of Noyon in the seventh century, bareheaded: a white alb and a wide, bell-shaped chasuble of deep wine-red wool with a narrow gold-embroidered band at the neck; in both hands he holds up a small house-shaped reliquary shrine of gold set with red garnets, his own work; beside him on a stone ledge lie a small goldsmith's hammer and a little anvil. Behind him the valley of the Oise: the small town of Noyon on its low hill with a simple stone church, a river with a mill and green meadows, under a soft northern sky. Honest, prudent and devout; no king, no throne, no lettering.",
+      "face": "A Gallo-Roman of about fifty-five, TALL, CLEAN-SHAVEN, with a fresh, ROSY complexion and a LONG, smoothly OVAL face, FULL and rounded in the rosy cheeks, with no sharp bones — a smooth, open forehead; a LONG, straight nose with a slightly RAISED, rounded tip; clear hazel eyes, a little NARROWED in a shrewd, PRUDENT, appraising look, under neatly arched brown brows; a small, composed mouth with a SHORT upper lip; a neat, softly rounded chin; a thick head of short, TIGHT, springy chestnut CURLS touched with grey, with a small tonsure; the gaze prudent and kind, toward us. Not the sharp-cheeked edmund_canterbury, the tapering, bearded hubert, the heart-shaped polycarp, the round, apple-cheeked blase or the long, fine remigius.",
+      "refs": [
+        "charles_borromeo",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "His friend St. Ouen (Audoin) describes him in the Life: 'tall with a rosy face', 'a pretty head of hair with curly locks', long fingers, 'the face of an angel and a prudent look' (Medieval Sourcebook translation); the card follows it. The reliquary and hammer are the goldsmith of the book, whose 'great delight was in making rich shrines for relics'.",
+      "sources": [
+        {
+          "title": "Medieval Sourcebook, The Life of St. Eligius by Audoin of Rouen (ch. 12, his appearance)",
+          "url": "https://sourcebooks.fordham.edu/basis/eligius.asp"
+        },
+        {
+          "title": "Wikipedia, Saint Eligius (lead: Petrus Christus, A Goldsmith in his Shop)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Eligius"
+        },
+        {
+          "title": "Catholic Encyclopedia, St. Eligius",
+          "url": "https://www.newadvent.org/cathen/05386a.htm"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-01-eligius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-01-eligius.md"
+        }
+      ],
+      "catalogMatch": "St. Eligius",
+      "lifeChapter": "dec-01-eligius"
+    },
+    {
+      "id": "bibiana",
+      "letter": "B",
+      "feast": {
+        "month": 12,
+        "day": 2
+      },
+      "name": {
+        "en-US": "St. Bibiana",
+        "pt-BR": "Santa Bibiana"
+      },
+      "patronOf": {
+        "en-US": "Virgin and martyr",
+        "pt-BR": "Virgem e mártir"
+      },
+      "prayerExcerpt": {
+        "en-US": "Pray for a fidelity and patience like Bibiana's under all trials, that neither convenience nor any worldly advantage may ever prevail upon you to transgress your duty.",
+        "pt-BR": "Ora por uma fidelidade e uma paciência como as de Bibiana sob todas as provações, para que nem a conveniência nem qualquer vantagem mundana jamais prevaleçam sobre ti a ponto de transgredires o teu dever."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-02-bibiana.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Bibiana, half-length, a young Roman woman of the fourth century: a long, softly draped tunic of pale rose linen gathered at the waist with a cord, and a mantle of soft grey-blue over her shoulders and one arm; her right arm rests on a short, plain marble column beside her, and in her left hand she holds a martyr's palm against her breast. Behind her the Esquiline hill in Rome: a garden of green herbs and a few cypresses, the small brick basilica built over her tomb, and the distant domes and towers of the city under a soft, luminous sky. Patient, faithful and serene, her eyes lifted; no scourge, no chains, no wounds, no lettering.",
+      "face": "A Roman girl of about twenty with a fair, pale complexion and a LONG, graceful neck carrying a LONG OVAL face with a HIGH, softly rounded forehead — a STRAIGHT, classical GREEK nose that continues the line of the forehead with almost no dip; LARGE, WIDE-SET, softly rounded eyes LIFTED toward heaven; fine, softly arched brows; smooth cheeks; a small mouth with the lips just PARTED; a soft, ROUNDED chin; light-brown hair, wavy and loosely parted in the middle, drawn back from the face and caught at the nape, a few waves loose over the ears; the gaze lifted upward, rapt and calm. Not the fine-oval, crowned catherine_alexandria, the diamond-faced anastasia, the round, joyful dorothy, the square margaret_antioch, the triangular christina_bolsena or Barbara of this batch (broad, crowned, auburn).",
+      "refs": [
+        "agnes",
+        "lucy",
+        "cecilia"
+      ],
+      "basis": "No likeness survives; her Acts are legendary (Wikipedia; the Catholic Encyclopedia), but the Liber Pontificalis attests her basilica on the Esquiline. The face, the uplifted gaze and the column follow Bernini's statue in Santa Bibiana (1624–26), photographed on English Wikipedia.",
+      "sources": [
+        {
+          "title": "Wikipedia, Bibiana of Rome (lead: the altar of Santa Bibiana with Bernini's statue)",
+          "url": "https://en.wikipedia.org/wiki/Bibiana_of_Rome"
+        },
+        {
+          "title": "Catholic Encyclopedia, St. Bibiana",
+          "url": "https://www.newadvent.org/cathen/02542b.htm"
+        },
+        {
+          "title": "Santi e Beati, Santa Bibiana (Viviana), 2 December",
+          "url": "https://www.santiebeati.it/dettaglio/80100"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-02-bibiana (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-02-bibiana.md"
+        }
+      ],
+      "catalogMatch": "St. Bibiana, Virgin",
+      "lifeChapter": "dec-02-bibiana"
+    },
+    {
+      "id": "barbara",
+      "letter": "B",
+      "feast": {
+        "month": 12,
+        "day": 4
+      },
+      "name": {
+        "en-US": "St. Barbara",
+        "pt-BR": "Santa Bárbara"
+      },
+      "patronOf": {
+        "en-US": "Patroness against lightning and sudden death",
+        "pt-BR": "Padroeira contra os raios e a morte súbita"
+      },
+      "prayerExcerpt": {
+        "en-US": "Pray often against a sudden and unprovided death; and, above all, that you may be strengthened by the Holy Viaticum against the dangers of your last hour.",
+        "pt-BR": "Ora frequentemente contra uma morte súbita e desprevenida; e, acima de tudo, para que sejas fortalecido pelo Santo Viático contra os perigos de tua última hora."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-04-barbara.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Barbara, half-length, a young noblewoman of the East in the early fourth century: a gown of deep crimson with a white linen veil laid lightly over her hair and shoulders, a thin gold circlet on her head, and a mantle of dark green; in her right hand she holds up a golden chalice with a white Host above it, and in her left a martyr's palm. Behind her, on a rocky hillside, a tall, slender stone tower with THREE narrow arched windows side by side near its top, and beyond it a green valley and far blue hills of Asia Minor under a clear, calm sky. Steadfast, noble and serene; no sword, no lightning, no father, no torments, no lettering.",
+      "face": "A young noblewoman of about twenty, tall and strongly built, with a warm, creamy complexion and a BROAD, FULL OVAL face with a STRONG, ROUNDED jaw — a HIGH, smooth forehead; a STRAIGHT, strong nose with a firm bridge; LARGE, calm, light-brown eyes under LEVEL, well-marked auburn brows; FULL cheeks; FULL, firm lips; a round, firm chin; thick, wavy AUBURN hair drawn back and gathered up under the veil and circlet; the gaze calm, direct and commanding, toward us. Not the fine-oval catherine_alexandria, the small, square margaret_antioch, the broad, square-jawed, low-browed genevieve, the round dorothy, the long-chinned ursula or Bibiana of this batch (long, pale, eyes lifted).",
+      "refs": [
+        "philomena",
+        "agnes",
+        "lucy"
+      ],
+      "basis": "No likeness survives, and her Acts are legendary (the Martyrology commemorates her 'according to tradition'). The face follows Palma Vecchio's Santa Barbara in Santa Maria Formosa, Venice (a tall, full-faced, auburn-haired young woman with a diadem); the tower with three windows is her emblem, and the chalice with the Host is her patronage for a good death, which the book's Reflection asks for.",
+      "sources": [
+        {
+          "title": "Wikimedia Commons, Palma il Vecchio, pala di santa Barbara, Santa Maria Formosa, Venice",
+          "url": "https://commons.wikimedia.org/wiki/File:Palma_il_Vecchio_-_pala_di_santa_Barbara_-_Chiesa_di_Santa_Maria_Formosa,_Venezia.jpg"
+        },
+        {
+          "title": "Wikipedia, Saint Barbara (lead: altarpiece)",
+          "url": "https://en.wikipedia.org/wiki/Saint_Barbara"
+        },
+        {
+          "title": "Catholic Encyclopedia, St. Barbara",
+          "url": "https://www.newadvent.org/cathen/02284d.htm"
+        },
+        {
+          "title": "Santi e Beati, Santa Barbara (Roman Martyrology entry, 4 December)",
+          "url": "https://www.santiebeati.it/dettaglio/80400"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-04-barbara (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-04-barbara.md"
+        }
+      ],
+      "catalogMatch": "St. Barbara, Virgin",
+      "lifeChapter": "dec-04-barbara"
+    }
+  ]
+}

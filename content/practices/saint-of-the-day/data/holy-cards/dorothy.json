@@ -1,0 +1,41 @@
+{
+  "id": "dorothy",
+  "feast": {
+    "month": 2,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Dorothy",
+    "pt-BR": "Santa Doroteia"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr",
+    "pt-BR": "Virgem e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Blessed be Thou, O Thou Lover of souls! Who dost call me to Paradise, and invitest me to Thy nuptial chamber.\"",
+    "pt-BR": "\"Bendito sejas, ó Tu, Amante das almas! que me chamas ao Paraíso, e me convidas à tua câmara nupcial.\""
+  },
+  "lifeChapter": "feb-06-dorothy",
+  "meta": {
+    "face": "A Cappadocian Greek girl of about eighteen with a warm, light olive complexion and a small, ROUND face lit by a JOYFUL SMILE — a smooth, rounded forehead, a short, rounded nose, very large, sparkling dark eyes, softly arched black brows, full, round cheeks with DIMPLES, a small, smiling mouth showing the joy the book speaks of, a small, round chin; thick, curling black hair gathered up under the wreath; her eyes lifted, bright with gladness.",
+    "basis": "No likeness survives. The book tells of the 'heavenly look' and growing joy with which she met her death, and of the three apples and three roses sent from 'the garden of her Spouse', which give the smiling face and the basket; Zurbarán's St. Dorothy (Wikipedia lead image) holds a dish of apples and roses, and Wikipedia records the wreath of roses. Mount Argaeus stands over Caesarea in Cappadocia, and the book says she suffered in the dead of winter. The round, smiling face is our choice, kept apart from the set's composed, oval-faced virgin martyrs (`agnes`, `agatha`, `catherine_alexandria`, `anastasia`).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-06-dorothy.md, her words at her sentence, first letter capitalised (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Dorothea of Caesarea (iconography; lead image: Zurbarán, St. Dorothy)",
+        "url": "https://en.wikipedia.org/wiki/Dorothea_of_Caesarea"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-06-dorothy (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-06-dorothy.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

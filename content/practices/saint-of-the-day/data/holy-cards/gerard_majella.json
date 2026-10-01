@@ -1,0 +1,48 @@
+{
+  "id": "gerard_majella",
+  "feast": {
+    "month": 10,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Gerard Majella",
+    "pt-BR": "São Geraldo Majela"
+  },
+  "patronOf": {
+    "en-US": "Patron of mothers and of childbirth",
+    "pt-BR": "Padroeiro das mães e dos partos"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Here the will of God is being done, as God wills, and for as long as it pleases God.\"",
+    "pt-BR": "\"Aqui se está fazendo a vontade de Deus, como Deus quer e por todo o tempo que a Deus aprouver.\""
+  },
+  "meta": {
+    "face": "A young man of about twenty-nine, pale from consumption, with a LONG, rather rectangular face — a high, broad forehead, a long straight nose with a rounded tip, light-brown eyes under HEAVY upper lids, raised to heaven, softly arched brows, lightly hollowed cheeks, a small mouth with a fuller lower lip, a rounded chin; thick, STRAIGHT dark-brown hair cut short and combed back from the brow, the ears showing; clean-shaven; the head tilted to his right. Not Aloysius's round face and curly hair.",
+    "basis": "No portrait was painted in his life; a wax mask of his face was taken after his death in 1755 (the shrine's 'Apoteosi'). The card follows the traditional portrait reproduced on Commons (unknown painter): a pale, long-faced young man with short straight brown hair, heavy-lidded eyes raised, in the black habit and white collar, holding a crucifix. The skull is his attribute (Wikipedia).",
+    "excerpt": "The notice he had hung on the door of his room in his last illness, «Qui si sta facendo la volontà di Dio, come vuole Dio e per tutto quel tempo che piace a Dio», as given in the Vita di San Gerardo Maiella on the shrine's site (ch. L'ultima malattia e la morte, §212); our rendering (he died in 1755)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Герардо Майелла.jpg (traditional portrait, unknown painter)",
+        "url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%B5%D1%80%D0%B0%D1%80%D0%B4%D0%BE_%D0%9C%D0%B0%D0%B9%D0%B5%D0%BB%D0%BB%D0%B0.jpg"
+      },
+      {
+        "title": "San Gerardo Maiella (shrine), Vita di San Gerardo Maiella: L'ultima malattia e la morte",
+        "url": "https://www.sangerardomaiella.it/bibliografia/san-gerardo/vita-di-san-gerardo-maiella-libro/103-l-ultima-malattia-e-la-morte"
+      },
+      {
+        "title": "San Gerardo Maiella (shrine), Apoteosi (the death mask)",
+        "url": "https://www.sangerardomaiella.it/bibliografia/san-gerardo/s-gerardo-maiella/211-apoteosi"
+      },
+      {
+        "title": "Wikipedia, Gerard Majella (feast, patronage, attributes)",
+        "url": "https://en.wikipedia.org/wiki/Gerard_Majella"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}

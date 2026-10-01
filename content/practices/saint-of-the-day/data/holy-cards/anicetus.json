@@ -1,0 +1,45 @@
+{
+  "id": "anicetus",
+  "feast": {
+    "month": 4,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Anicetus",
+    "pt-BR": "Santo Aniceto"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "His vigilance protected his flock from the wiles of the heretics Valentine and Marcion.",
+    "pt-BR": "Sua vigilância protegeu seu rebanho das astúcias dos hereges Valentim e Marcião."
+  },
+  "lifeChapter": "apr-17-anicetus",
+  "meta": {
+    "face": "A Syrian of Emesa, about sixty-five, with a warm, olive-brown complexion and a TALL, NARROW, EGG-SHAPED head, broadest across the upper face — a high, SLOPING forehead, a LONG, THIN, gently ARCHED nose with a narrow bridge, LARGE, dark, luminous eyes with HEAVY LOWER LIDS under THICK, black-and-grey brows that ARCH HIGH toward the temples, lean cheeks, NOTICEABLY FULL, wide lips; black-and-grey hair CROPPED VERY SHORT, close to the skull; a long, full, gently curling black beard streaked with grey, falling to the breast; the gaze watchful and grave, toward us.",
+    "basis": "No likeness survives. Wikipedia (after the Liber Pontificalis) makes him a Syrian of Emesa who decreed that clergy should not wear long hair, and records Polycarp's visit over the Easter question; its lead image is a Baroque statue of an old, bearded pope. The book tells the same visit and his vigilance against Valentine and Marcion; its engraving shows him seated with a standing visitor. The cropped hair follows the decree; the narrow, egg-shaped face with the full lips and high-arched brows is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-17-anicetus.md, first paragraph, last sentence, closed with a full stop after 'Marcion' / 'Marcião' (the day's Reflection has no clause that stands alone: its second sentence hangs on 'this rule' in the first) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Anicetus (lead image: statue at Wolnzach)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Anicetus"
+      },
+      {
+        "title": "Wikipedia, Castel Sant'Angelo (Hadrian's mausoleum, completed 139)",
+        "url": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-17-anicetus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-17-anicetus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

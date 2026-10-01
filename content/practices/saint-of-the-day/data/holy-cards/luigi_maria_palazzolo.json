@@ -1,0 +1,44 @@
+{
+  "id": "luigi_maria_palazzolo",
+  "feast": {
+    "month": 5,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Luigi Maria Palazzolo",
+    "pt-BR": "São Luís Maria Palazzolo"
+  },
+  "patronOf": {
+    "en-US": "Priest, father of the poor",
+    "pt-BR": "Sacerdote, pai dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Where others cannot reach, I try to do something myself, as best I can.\"",
+    "pt-BR": "\"Onde os outros não podem chegar, procuro fazer alguma coisa eu mesmo, como posso.\""
+  },
+  "meta": {
+    "face": "A priest of Bergamo of about fifty-five, clean-shaven, with a fair complexion and a BROAD, HEAVY face that WIDENS toward a full jaw with soft JOWLS — a high forehead, short grey-brown hair RECEDING under the biretta and cropped close at the temples, a LONG, straight nose with a thick, ROUNDED tip, HEAVY upper lids over small grey eyes that glance a little to one side, full cheeks, a WIDE mouth whose corners turn DOWN in repose, softened by a slight, kindly smile; the gaze gentle and shrewd. Not the round, twinkling, broadly smiling face of john_xxiii. The girl: a thin, oval little face, dark hair tied back, large brown eyes.",
+    "basis": "His painted portrait from life (19th century, Istituto Palazzolo, on Wikimedia Commons) and the Dicastery's portrait with the crucifix agree: a broad, heavy face widening to the jaw, receding grey-brown hair under a biretta, a long nose with a rounded tip, heavy lids over sideways-glancing eyes and a wide mouth turned down at the corners. The girl is for the orphans and abandoned girls his Sisters of the Poor took in.",
+    "excerpt": "His saying «Io cerco e raccolgo il rifiuto di tutti gli altri… ma dove altri non può giungere, cerco di fare qualcosa io, così come posso», in the Dicastery's biography (also on the Istituto Palazzolo's home page); the last clause, our rendering (he died in 1886)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Luigi Palazzolo.png (19th-century portrait, Istituto Palazzolo)",
+        "url": "https://commons.wikimedia.org/wiki/File:Luigi_Palazzolo.png"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Luigi Maria Palazzolo (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/luigi-maria-palazzolo.html"
+      },
+      {
+        "title": "Istituto Palazzolo (his saying; the foundation of 22 May 1869)",
+        "url": "https://www.istitutopalazzolo.it/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

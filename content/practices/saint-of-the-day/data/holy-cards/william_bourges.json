@@ -1,0 +1,45 @@
+{
+  "id": "william_bourges",
+  "feast": {
+    "month": 1,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. William of Bourges",
+    "pt-BR": "São Guilherme de Bourges"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Bourges",
+    "pt-BR": "Arcebispo de Bourges"
+  },
+  "prayerExcerpt": {
+    "en-US": "Never forget that to convert others we must first see to our own souls.",
+    "pt-BR": "Nunca te esqueças de que, para converter os outros, devemos primeiro cuidar de nossa própria alma."
+  },
+  "lifeChapter": "jan-10-william",
+  "meta": {
+    "face": "A Frenchman of about sixty-five with a fair, lightly ruddy complexion and a WIDE, SHORT face with a FLAT profile — prominent, rounded cheekbones set high, a short, broad nose with a flattish bridge, heavy-lidded gentle blue-grey eyes, low, straight light-brown brows, a small, closed mouth, a broad, rounded chin; brown hair turning grey, cut short around the monastic tonsure under the mitre; a short, full brown-grey beard; downcast, meditative gaze.",
+    "basis": "A modern mural of 'S. Guillelmus' (Wikipedia lead image) shows a mitred bishop with short brown hair and a short brown beard holding a church; the book's engraving shows him in the Cistercian habit with a monstrance on the altar. Wikipedia gives his birth c. 1140, his Cistercian life, his devotion to the Blessed Sacrament and his work on the new cathedral of Bourges. The wide, flat-profiled face is our choice, kept apart from `bernard_clairvaux`, the set's other white-habited Cistercian.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-10 reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, William of Donjeon (lead image: Saint Guillaume de Bourges)",
+        "url": "https://en.wikipedia.org/wiki/William_of_Donjeon"
+      },
+      {
+        "title": "Wikipedia, Bourges Cathedral",
+        "url": "https://en.wikipedia.org/wiki/Bourges_Cathedral"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-10-william (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-10-william.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

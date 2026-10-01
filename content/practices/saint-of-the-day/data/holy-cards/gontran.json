@@ -1,0 +1,49 @@
+{
+  "id": "gontran",
+  "feast": {
+    "month": 3,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Gontran",
+    "pt-BR": "São Gontrão"
+  },
+  "patronOf": {
+    "en-US": "King of Burgundy",
+    "pt-BR": "Rei da Borgonha"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Blessed are the merciful, for they shall find mercy.\"",
+    "pt-BR": "\"Bem-aventurados os misericordiosos, porque alcançarão misericórdia.\""
+  },
+  "lifeChapter": "mar-28-gontran",
+  "meta": {
+    "face": "A Frank of about sixty with a fair, ruddy complexion and a LARGE, FULL, ROUND face — a broad forehead, FULL, heavy cheeks sagging into soft JOWLS and a DOUBLE CHIN, a SHORT, THICK, straight nose, deep-set, pale-blue eyes under HEAVY, DROOPING lids, red-rimmed as from weeping, thick fair-grey brows, a small, full mouth; LONG, fair-grey hair, parted in the middle and falling PAST THE SHOULDERS, the mark of the Merovingian kings; a drooping fair-grey MOUSTACHE and a short, rounded beard; the gaze compassionate and sorrowful, down toward the sick man.",
+    "basis": "No likeness from life; the gold tremissis struck at Chalon (Wikipedia's lead image) is a stylised profile. Wikipedia: the Merovingian kings wore their hair long, which set them apart from other Franks. Gregory of Tours (via Wikipedia) calls him caregiver to the sick, generous in plague and famine; the book says the same, and its engraving shows him among the sick. His burial in Saint-Marcel at Chalon is from Wikipedia. The heavy, full, jowled face is our choice.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 03-28 reflection, the words of Our Lord it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Guntram (lead image: tremissis struck at Chalon)",
+        "url": "https://en.wikipedia.org/wiki/Guntram"
+      },
+      {
+        "title": "Wikipedia, Merovingian dynasty (the long-haired kings)",
+        "url": "https://en.wikipedia.org/wiki/Merovingian_dynasty"
+      },
+      {
+        "title": "Wikipedia (fr), Gontran (Saint-Marcel-lès-Chalon)",
+        "url": "https://fr.wikipedia.org/wiki/Gontran_(roi_des_Francs)"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, mar-28-gontran (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/mar-28-gontran.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-24.md."
+      }
+    ]
+  }
+}

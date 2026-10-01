@@ -1,0 +1,44 @@
+{
+  "id": "peter_to_rot",
+  "feast": {
+    "month": 7,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Peter To Rot",
+    "pt-BR": "São Pedro To Rot"
+  },
+  "patronOf": {
+    "en-US": "Catechist and martyr",
+    "pt-BR": "Catequista e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I am here because of those who break their marriage vows, and those who do not want to see God's work go forward.\"",
+    "pt-BR": "\"Estou aqui por causa dos que quebram os votos do matrimônio e dos que não querem ver a obra de Deus avançar.\""
+  },
+  "meta": {
+    "face": "A Tolai man of New Britain of about thirty-three with a deep, dark-brown complexion and a BROAD, SQUARE face — a wide forehead under thick, tightly curled black hair cut short and standing up a little above the brow, STRAIGHT, heavy black brows set LOW over deep-set dark eyes, a BROAD, flat nose with wide nostrils, full cheeks, a WIDE, full-lipped mouth closed firmly, a rounded, strong jaw; clean-shaven; the gaze grave, gentle and direct. Not the long, sculpted face of charles_lwanga.",
+    "basis": "His one known photograph (the Dicastery's portrait; the portrait on English Wikipedia): a broad, square face with low, heavy straight brows over deep-set eyes, a broad flat nose, a wide full mouth and short, tightly curled hair, in a white shirt. The Australian Dictionary of Biography and Wikipedia record that he was commissioned catechist of Rakunai in 1933 and given the official catechist's cross.",
+    "excerpt": "His words in prison, «Sono qui per coloro che infrangono i loro voti matrimoniali, e per coloro che non vogliono vedere l'opera di Dio andare avanti», as the Dicastery's page gives them; a short quotation, our rendering (he died in 1945)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Pietro To Rot (biography and photograph)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/pietro-to-rot.html"
+      },
+      {
+        "title": "Wikipedia, Peter To Rot (photograph; the catechist's cross)",
+        "url": "https://en.wikipedia.org/wiki/Peter_To_Rot"
+      },
+      {
+        "title": "Australian Dictionary of Biography, To Rot, Peter (1912?-1945)",
+        "url": "https://adb.anu.edu.au/biography/to-rot-peter-11873"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

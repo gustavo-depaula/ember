@@ -1,0 +1,49 @@
+{
+  "id": "mammertus",
+  "feast": {
+    "month": 5,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Mammertus",
+    "pt-BR": "São Mamerto"
+  },
+  "patronOf": {
+    "en-US": "Archbishop, founder of the Rogations",
+    "pt-BR": "Arcebispo, instituidor das Rogações"
+  },
+  "prayerExcerpt": {
+    "en-US": "Know ye that the Lord will hear your prayers, if you continue with perseverance in fastings and prayers in the sight of the Lord.",
+    "pt-BR": "Sabei que o Senhor ouvirá vossas orações, se perseverardes constantes em jejuns e orações na presença do Senhor."
+  },
+  "lifeChapter": "may-11-mammertus",
+  "meta": {
+    "face": "A Gallo-Roman aristocrat of about sixty-five with a fair olive complexion and a LONG face with a CONVEX, ROMAN profile — a SLOPING forehead flowing into a LARGE, high-bridged, CURVED nose, a slightly receding upper lip and a FIRM, rounded chin; deep-set, dark-brown eyes under strong, arched grey brows; lean cheeks; grey hair cut short with a round clerical tonsure; a SHORT, neatly trimmed grey beard; the gaze earnest and pleading, lifted toward heaven.",
+    "basis": "No likeness survives. The book tells the calamities at Vienne, the fire quenched by his prayer and his institution of three days of fasting and supplication, the Rogations, adopted by St. Sidonius's Auvergne before 475; its engraving shows a bishop in procession under a canopy among clergy and kneeling people. Wikipedia confirms the Minor Rogations before Ascension from Sidonius and Avitus, and a family of the Lyon region. The long face with the Roman convex profile is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-11-mammertus.md Reflection, the whole of it, the words of Judith 4:11, without the quotation marks and the reference (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Mamertus (lead image: a statue of him)",
+        "url": "https://en.wikipedia.org/wiki/Mamertus"
+      },
+      {
+        "title": "Wikipedia, Rogation days",
+        "url": "https://en.wikipedia.org/wiki/Rogation_days"
+      },
+      {
+        "title": "Wikipedia, Vienne, Isère (Roman temple and remains)",
+        "url": "https://en.wikipedia.org/wiki/Vienne,_Is%C3%A8re"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-11-mammertus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-11-mammertus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

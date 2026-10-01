@@ -1,0 +1,45 @@
+{
+  "id": "simeon_stylites",
+  "feast": {
+    "month": 1,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Simeon Stylites",
+    "pt-BR": "São Simeão Estilita"
+  },
+  "patronOf": {
+    "en-US": "Hermit on the pillar",
+    "pt-BR": "Eremita da coluna"
+  },
+  "prayerExcerpt": {
+    "en-US": "This is the business of our life: by effort and by toil, by prayer and supplication, to advance in the grace of God, till we come to that height of perfection in which with clean hearts we may behold God.",
+    "pt-BR": "Este é o negócio de nossa vida: por esforço e por labuta, por oração e súplica, avançar na graça de Deus, até que cheguemos àquela altura de perfeição em que, com corações puros, possamos contemplar a Deus."
+  },
+  "lifeChapter": "jan-05-simeon-stylites",
+  "meta": {
+    "face": "A Syrian ascetic of about sixty-five with a sun-darkened olive complexion and a SMALL, NARROW, sharply CHISELLED face — a narrow, creased forehead under the hood, very prominent, sharp cheekbones over deeply hollowed cheeks, a thin, fine aquiline nose, large, deep-set, luminous dark eyes lifted to heaven, thin lips; a short grey beard parted into two points at the chin; dark-grey hair hidden under the hood.",
+    "basis": "The Painter's Manual describes him as an old man with a short beard divided in two, which the card follows; the sixth-century silver plaque in the Louvre (Wikipedia lead image) shows him hooded on the railed platform of his column. The book's engraving shows him with arms outstretched on the pillar. The gaunt, chiselled face is our reading of the book's 'superhuman austerity', kept apart from `anthony_abbot` (triangular, long beard) by the short forked beard and small, narrow face.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-05 reflection, the words of St. Augustine it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Simeon Stylites (lead image: silver plaque of St. Simeon, Louvre Bj 2180)",
+        "url": "https://en.wikipedia.org/wiki/Simeon_Stylites"
+      },
+      {
+        "title": "Didron, Manuel d'iconographie chrétienne (1845), the Painter's Manual of Mount Athos, saints' types",
+        "url": "https://archive.org/details/manueldiconograp00didr"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-05-simeon-stylites (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-05-simeon-stylites.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

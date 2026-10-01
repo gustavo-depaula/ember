@@ -1,43 +1,35 @@
-import type { RichTextLine } from '@ember/content-engine'
-import { resolveOfDay } from '@ember/mass'
 import { useQuery } from '@tanstack/react-query'
 
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import i18n from '@/lib/i18n'
-import { loadMassFormulary, loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
+import { loadMassFormulary } from '@/lib/mass-of/loaders'
 
 type Collect = { lang: string; lines: string[] }
 
-// The Collect (opening prayer) proper to a saint: the card's own formulary
-// (`proper`) when it names one, else the one of the day's principal celebration
-// on the feast date — in the active language. Many sanctoral days carry no
-// collect (≈40%). The query returns `null` (never `undefined`, which TanStack
-// Query forbids) for those, and callers simply omit the prayer.
-export function useSaintCollect({
-  feast,
-  proper,
-}: {
-  feast?: { month: number; day: number }
-  proper?: string
-}): Collect | undefined {
+// The Collect (opening prayer) of the Mass formulary a card names as its own
+// (`proper`), in the active language. Resolved by id, never by date: a date's
+// first celebration is often a Sunday, a weekday, or another saint. Cards without
+// a proper formulary (≈40% of optional memorials have none) return `null` (never
+// `undefined`, which TanStack Query forbids), and the encounter omits the slot.
+export function useSaintCollect(proper: string | undefined): Collect | undefined {
   const catalogVersion = useCatalogVersion()
   const lang = i18n.language || 'en-US'
   const { data } = useQuery({
-    queryKey: ['saint-collect', catalogVersion, proper, feast?.month, feast?.day, lang],
-    enabled: !!(proper || feast),
+    queryKey: ['saint-collect', catalogVersion, proper, lang],
+    enabled: !!proper,
     queryFn: async (): Promise<Collect | null> => {
-      const ref = proper ?? (feast && (await principalRef(feast, lang)))
-      if (!ref) return null
-      const formulary = await loadMassFormulary(ref)
+      if (!proper) return null
+      const formulary = await loadMassFormulary(proper)
       const body = formulary?.collect?.options?.[0]?.body as
-        | { lines?: Record<string, RichTextLine[]> }
+        | { lines?: Record<string, Array<Array<{ text?: string }>>> }
         | undefined
       const byLang = body?.lines
       if (!byLang) return null
       const picked = byLang[lang] ?? byLang['en-US'] ?? byLang.la
       if (!picked) return null
+      // Each line is a run of styled segments.
       const lines = picked
-        .map((line) => line.map((segment) => segment.text).join(''))
+        .map((segments) => segments.map((s) => s.text ?? '').join(''))
         .filter(Boolean)
       if (lines.length === 0) return null
       return { lang, lines }
@@ -45,15 +37,4 @@ export function useSaintCollect({
     staleTime: Number.POSITIVE_INFINITY,
   })
   return data ?? undefined
-}
-
-async function principalRef(
-  feast: { month: number; day: number },
-  lang: string,
-): Promise<string | undefined> {
-  const calendar = await loadOfCalendar()
-  if (!calendar) return undefined
-  // Year is arbitrary — the sanctoral is keyed by month/day.
-  const date = new Date(2025, feast.month - 1, feast.day)
-  return resolveOfDay(date, calendar, { scope: scopeForContentLang(lang) }).celebrations[0]?.ref
 }

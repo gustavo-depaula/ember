@@ -1,0 +1,45 @@
+{
+  "id": "julius_i",
+  "feast": {
+    "month": 4,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Julius",
+    "pt-BR": "São Júlio"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Julius was a Roman, and chosen Pope on the 6th of February in 337.",
+    "pt-BR": "São Júlio era romano, e foi escolhido Papa no dia 6 de fevereiro de 337."
+  },
+  "lifeChapter": "apr-12-julius",
+  "meta": {
+    "face": "A Roman of about sixty with a warm olive complexion and a face that WIDENS DOWNWARD — NARROW temples and a moderate, rounded forehead above a BROAD, BONY, ANGULAR JAW whose corners stand out clearly under the beard, so the face reads as a trapezoid, broad at the base; a long, straight nose ending in a slightly FULL, rounded tip, SMALL, ROUND, dark-brown eyes set CLOSE together under single, smoothly ARCHED dark brows, flat cheeks, a WIDE, THIN-LIPPED, straight mouth; dark-brown hair cut short in a round clerical tonsure, a SHORT, close-trimmed dark-brown beard greying at the chin that follows the angle of the jaw; the gaze steady and direct, toward us.",
+    "basis": "The twelfth-century apse mosaic of Santa Maria in Trastevere (Wikipedia's lead image) (the file named for Julius on Wikipedia) shows him tonsured, with a short dark beard, holding a book; the card keeps the tonsure and beard. That church, whose apse mosaic dates from 1130–1143, was rebuilt on a larger scale by Julius in 340 (Wikipedia), so the background is a plain early brick basilica in Trastevere. The book tells his defence of Athanasius at the Roman synod, his letter to the Eusebian bishops and the Council of Sardica; its engraving shows him seated at a desk writing, a monk at the door. The face widening to a bony, angular jaw is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-12-julius.md, first sentence (the chapter has no Reflection, so the card carries none; the index has no reflection for 04-12) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Julius I (lead image: mosaic of Santa Maria in Trastevere)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Julius_I"
+      },
+      {
+        "title": "Wikipedia, Santa Maria in Trastevere (rebuilt by Julius I in 340; apse mosaic 1130–1143)",
+        "url": "https://en.wikipedia.org/wiki/Santa_Maria_in_Trastevere"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-12-julius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-12-julius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "damascus_martyrs",
+  "feast": {
+    "month": 7,
+    "day": 10
+  },
+  "name": {
+    "en-US": "The Martyrs of Damascus",
+    "pt-BR": "Mártires de Damasco"
+  },
+  "patronOf": {
+    "en-US": "Franciscan friars and Maronite laymen, martyrs",
+    "pt-BR": "Frades franciscanos e leigos maronitas, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"No one can make me deny my faith. I am a Maronite Christian, and in the faith of Christ I will die.\"",
+    "pt-BR": "\"Ninguém pode me fazer renegar a minha fé. Sou cristão maronita e na fé de Cristo morrerei.\""
+  },
+  "meta": {
+    "face": "Three clearly different men. Manuel Ruiz (centre): a Castilian friar of fifty-six with a weathered olive complexion and a LONG, BONY face — a bald crown ringed by short grey hair in the Franciscan tonsure, deep-set dark eyes under heavy grey brows, a LONG, slightly AQUILINE nose, hollow cheeks, and a long grey beard narrowing to the breast; the gaze lowered to the ciborium. Francis Massabki (left): a Damascene of about sixty with a warm olive complexion and a BROAD, ROUND face — full cheeks, a short, broad nose, large, kind, dark eyes under thick grey brows, a full mouth, and a short, full, ROUNDED white beard and white moustache; a calm, fatherly look. Raphael Massabki (right): a slighter Damascene of about forty with a NARROW, LONG face — a high forehead, a long, straight, fine nose, large dark almond eyes under fine black brows, a small mouth, a thin black moustache and a short, trim black beard close along the jaw; a quiet, devout look, lifted. None of them Christ-like.",
+    "basis": "No likenesses from life survive. The official image of the beatification (1926, Wikimedia Commons) shows the friars as bearded Franciscans in brown; a Maronite icon of the three brothers shows them in long robes, mantles and turbans, the outer two white-bearded; the Dicastery's modern group picture makes Ruiz a bald elder with a long beard. The brothers' ages are not recorded: the card makes Francis, the head of the family, the eldest and Raphael, the unmarried youngest, about forty. Ruiz's age (56) and his consuming of the Eucharist are in the Dicastery's biography and Wikipedia.",
+    "excerpt": "Francis Massabki's answer to those who offered him his life for his faith, «…nessuno può farmi rinnegare la mia fede. Io sono un cristiano maronita e nella fede di Cristo morirò», as the Dicastery's page quotes it (English in Fr Yuhanna Azize, 'The Massabki Brothers'; French in French Wikipedia); shortened at the start, our rendering (1860)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Martiri di Damasco, Manuel Ruiz López e compagni, fratelli Massabki (biography; Francis Massabki's words; group picture)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/martiri-damasco-ruiz-e-co-fratelli-massabki.html"
+      },
+      {
+        "title": "Wikimedia Commons, Martyrs of Damascus.jpg (official image, 1926)",
+        "url": "https://commons.wikimedia.org/wiki/File:Martyrs_of_Damascus.jpg"
+      },
+      {
+        "title": "Fr Yuhanna Azize, The Massabki Brothers (icon of the three brothers; Francis's words)",
+        "url": "https://www.fryuhanna.com/2016/07/08/the-massabki-brothers/"
+      },
+      {
+        "title": "Wikipedia, Martyrs of Damascus",
+        "url": "https://en.wikipedia.org/wiki/Martyrs_of_Damascus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

@@ -30,11 +30,12 @@ export function useSaintOfDayIndex(): SaintOfDayIndex | undefined {
     queryKey: ['saint-of-day-index', catalogVersion],
     queryFn: async () => {
       const entry = getEntry('practice/saint-of-the-day')
-      if (!entry) return undefined
+      // null, not undefined: Query v5 rejects undefined data while the catalog warms.
+      if (!entry) return null
       const manifest = getRememberedManifest<PracticeManifest>(entry.hash)
       const ref = manifest?.dataHashes?.find((d) => d.name === INDEX_NAME)
-      if (!ref) return undefined
-      return await getJson<SaintOfDayIndex>(ref.hash)
+      if (!ref) return null
+      return (await getJson<SaintOfDayIndex>(ref.hash)) ?? null
     },
     staleTime: Number.POSITIVE_INFINITY,
   })

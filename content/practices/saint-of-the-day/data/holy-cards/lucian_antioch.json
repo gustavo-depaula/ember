@@ -1,0 +1,41 @@
+{
+  "id": "lucian_antioch",
+  "feast": {
+    "month": 1,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Lucian",
+    "pt-BR": "São Luciano"
+  },
+  "patronOf": {
+    "en-US": "Priest and martyr",
+    "pt-BR": "Presbítero e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "If we would keep our faith pure, we must study its holy truths.",
+    "pt-BR": "Se quisermos manter pura a nossa fé, devemos estudar suas santas verdades."
+  },
+  "lifeChapter": "jan-07-lucian",
+  "meta": {
+    "face": "A Syrian of about sixty with a warm olive complexion and a BROAD-BROWED, SHORT face — a wide, high, domed forehead, a short, straight nose, dark, intent, slightly narrowed eyes under straight black-grey brows, flat, broad cheeks, a wide, firm mouth, a square chin; thick, short, iron-grey hair combed forward; a short, ROUNDED iron-grey beard; a scholar's steady gaze lifted from the page.",
+    "basis": "The Menologion of Basil II (Wikipedia lead image) shows Lucian in prison with dark, short hair and a short beard in a pale tunic. The book stresses his work on the text of the Scriptures, which gives the codex, pen and scrolls, and his birth at Samosata in Syria; the setting is Antioch, where he taught. The iron-grey colouring for a man martyred in 312 after a long career and the broad-browed structure are our choices, kept apart from `jerome` (long white beard) and `john_damascene` (long, narrow).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-07 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Lucian of Antioch (lead image: Menologion of Basil II)",
+        "url": "https://en.wikipedia.org/wiki/Lucian_of_Antioch"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jan-07-lucian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jan-07-lucian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-19.md."
+      }
+    ]
+  }
+}

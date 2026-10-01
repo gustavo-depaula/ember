@@ -1,0 +1,41 @@
+{
+  "id": "advent_weekday",
+  "name": {
+    "en-US": "Advent Weekdays",
+    "pt-BR": "Dias de semana do Advento"
+  },
+  "patronOf": {
+    "en-US": "Watchful in prayer for the Lord's coming",
+    "pt-BR": "Vigilantes na oração, à espera do Senhor"
+  },
+  "prayerExcerpt": {
+    "en-US": "Come, O Lord, visit us in peace.",
+    "pt-BR": "Vinde, Senhor, visitai-nos na paz."
+  },
+  "proper": "tempore.advent.week-1.monday",
+  "meta": {
+    "face": "-",
+    "basis": "The ordinary weekday Mass of Advent in violet (GIRM 346d) with moderate decoration (GIRM 305), set before dawn after the collect of the week's Monday, which asks to be found 'watchful in prayer'. The candles in the pews recall the dawn Advent Masses kept in many places; the Mass shown is the weekday's own, not the Marian votive (Rorate) Mass, which would be white.",
+    "excerpt": "content/of/formularies/tempore/advent/week-1/monday.json communionAntiphon (first clause, verbatim in both languages, full stop added)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "Wikipedia, Rorate Mass",
+        "url": "https://en.wikipedia.org/wiki/Rorate_Mass"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

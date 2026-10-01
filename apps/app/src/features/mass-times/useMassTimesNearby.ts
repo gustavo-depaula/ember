@@ -1,7 +1,7 @@
-import type { Service, ServiceKind } from '@ember/api'
+import type { ServiceKind } from '@ember/api'
 import { useMemo } from 'react'
 import type { Bbox, Cluster, NearbyChurch } from '@/lib/mass-times'
-import { hasServiceToday, useViewport } from '@/lib/mass-times'
+import { useViewport } from '@/lib/mass-times'
 import { useFavoritesStore } from './favorites'
 import type { DeviceLocation } from './useDeviceLocation'
 import { useDeviceLocation } from './useDeviceLocation'
@@ -41,34 +41,28 @@ function haversineKm(lat1: number, lng1: number, lat2: number, lng2: number): nu
   return earthRadiusKm * 2 * Math.asin(Math.min(1, Math.sqrt(a)))
 }
 
-// The nearby filters. `kind` narrows server-side; `today` and `favoritesOnly` refine on-device (the
-// list already carries each church's service rules + a saved-id lookup, so no extra round-trip).
+// The nearby filters. `kind` narrows server-side; `favoritesOnly` refines on-device against the saved-id
+// lookup, so no extra round-trip.
 export type MassFilter = {
   kind?: ServiceKind
-  today: boolean
   favoritesOnly: boolean
 }
 
-export const emptyFilter: MassFilter = { kind: undefined, today: false, favoritesOnly: false }
+export const emptyFilter: MassFilter = { kind: undefined, favoritesOnly: false }
 
 // The on-device half of the filter, shared by the nearby list and search results.
 export function passesFilter(
-  church: { id: string; timezone: string; services?: Service[] | null },
+  church: { id: string },
   filter: MassFilter,
   favorites: Record<string, unknown>,
 ): boolean {
-  if (filter.favoritesOnly && !favorites[church.id]) return false
-  if (
-    filter.today &&
-    !hasServiceToday(church.services ?? [], { timezone: church.timezone, kind: filter.kind })
-  )
-    return false
-  return true
+  return !filter.favoritesOnly || Boolean(favorites[church.id])
 }
 
 export type MassTimesNearby = {
   location: DeviceLocation
   churches: NearbyChurch[] | undefined // nearest the map center first
+  center: { lat: number; lng: number } // the map center — where name search ranks from
   clusters: Cluster[] // non-empty only when the viewport holds more churches than the list
   kind?: ServiceKind // the active service-kind filter, surfaced so views can label the next time
   isLoading: boolean
@@ -118,6 +112,7 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
   return {
     location,
     churches,
+    center: { lat: view.latitude, lng: view.longitude },
     clusters: data?.clusters ?? [],
     kind: filter.kind,
     isLoading,

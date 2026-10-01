@@ -1,0 +1,45 @@
+{
+  "id": "faustinus_jovita",
+  "feast": {
+    "month": 2,
+    "day": 15
+  },
+  "name": {
+    "en-US": "Sts. Faustinus and Jovita",
+    "pt-BR": "Santos Faustino e Jovita"
+  },
+  "patronOf": {
+    "en-US": "Martyrs, patrons of Brescia",
+    "pt-BR": "Mártires, padroeiros de Bréscia"
+  },
+  "prayerExcerpt": {
+    "en-US": "The spirit of Christ is a spirit of martyrdom—at least of mortification and penance.",
+    "pt-BR": "O espírito de Cristo é um espírito de martírio — ao menos de mortificação e penitência."
+  },
+  "lifeChapter": "feb-15-sts-faustinus-and-jovita",
+  "meta": {
+    "face": "Two clearly different brothers of a fair-olive Lombard family. Faustinus (left): about thirty-two, with a LONG, RECTANGULAR face and a strong, STRAIGHT jaw — a high forehead, a high, narrow nose bridge running into a straight nose, deep-set grey eyes under HEAVY, straight dark-blond brows, flat cheeks, a firm, level mouth; short wavy dark-blond hair and a short, neatly trimmed dark-blond beard; his gaze grave and steady toward us. Jovita (right): about twenty-five, BEARDLESS, with a SHORT, soft, ROUND face — a low, rounded forehead, a short, WIDE SNUB nose, ROUND, bright brown eyes under curved brows, full cheeks, a small, smiling mouth and a small, rounded chin; thick chestnut curls to the ears; his gaze lifted, eager.",
+    "basis": "No likenesses survive; the Catholic Encyclopedia gives Faustinus as the elder, a priest, and Jovita a deacon, and Foppa's Pala della Mercanzia (Wikipedia lead image) shows them in priestly and diaconal vestments with palms, while the book's engraving shows them bearded at their beheading. The card follows Foppa's vestments and gives the beard to the elder only. The Capitolium of Brescia stood in their time (first century).",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-15 reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Faustinus and Jovita (lead image: Vincenzo Foppa, Pala della Mercanzia)",
+        "url": "https://en.wikipedia.org/wiki/Faustinus_and_Jovita"
+      },
+      {
+        "title": "Catholic Encyclopedia (1909), Sts. Faustinus and Jovita",
+        "url": "https://www.newadvent.org/cathen/06019a.htm"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-15-sts-faustinus-and-jovita (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-15-sts-faustinus-and-jovita.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-21.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "lent_sunday",
+  "name": {
+    "en-US": "Lenten Sundays",
+    "pt-BR": "Domingos da Quaresma"
+  },
+  "patronOf": {
+    "en-US": "Forty days with Christ in the desert",
+    "pt-BR": "Quarenta dias com Cristo no deserto"
+  },
+  "prayerExcerpt": {
+    "en-US": "When he calls on me, I will answer him.",
+    "pt-BR": "Ele me invocará e eu o ouvirei."
+  },
+  "proper": "tempore.lent.week-1.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "Lent in violet (GIRM 346d), with the altar that GIRM 305 forbids to be decorated with flowers in this season; the collect of the First Sunday gives the season's theme, and its Gospel every year is the temptation in the desert, hence the caption.",
+    "excerpt": "content/of/formularies/tempore/lent/week-1/sunday.json entranceAntiphon (first clause, verbatim in both languages, full stop added)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

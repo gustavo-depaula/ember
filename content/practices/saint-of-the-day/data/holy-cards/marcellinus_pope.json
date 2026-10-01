@@ -1,0 +1,41 @@
+{
+  "id": "marcellinus_pope",
+  "feast": {
+    "month": 4,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Marcellinus",
+    "pt-BR": "São Marcelino"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "In those stormy times of persecution Marcellinus acquired great glory.",
+    "pt-BR": "Naqueles tempestuosos tempos de perseguição, Marcelino adquiriu grande glória."
+  },
+  "lifeChapter": "apr-26-sts-cletus-and-marcellinus",
+  "meta": {
+    "face": "A Roman of about sixty-five with a pale olive complexion and a SHORT, WIDE, SOFT face — a broad, furrowed forehead running up into a BALD crown with a fringe of short grey hair, HEAVY, FLESHY upper lids half covering sorrowful dark-brown eyes, grey brows that slant UP toward the centre, a SHORT, broad nose with a rounded tip, soft, full cheeks, DEEP vertical lines from the nose past the corners of a WIDE, full-lipped mouth, a short, rounded chin; a SHORT, rounded grey beard; the gaze grave and humble, lowered a little.",
+    "basis": "No likeness survives; Wikipedia's lead image is a medieval miniature of his beheading, which the book does not tell. The book tells his pontificate from 296 to 304 under Diocletian, 'in those stormy times of persecution', and that he is styled a martyr though his blood was not shed; its engraving shows a pope led out between soldiers and Romans. He was buried in the catacomb of Priscilla on the Via Salaria (Wikipedia). The short, wide, soft face with the sorrowful lids is our choice, set apart from `cletus`, who shares his day and chapter (narrow, bony, forked beard).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-26-sts-cletus-and-marcellinus.md, second paragraph, second sentence (the chapter's Reflection, on the cross as the road to bliss, is about neither pope in particular) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Marcellinus (burial in the catacomb of Priscilla; removed from the calendar 1969)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Marcellinus"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-26-sts-cletus-and-marcellinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-26-sts-cletus-and-marcellinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

@@ -46,7 +46,7 @@ export function SaintEncounterHeader({
 export function SaintEncounter({ saint }: { saint: SaintEntry }) {
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
-  const collect = useSaintCollect(saint)
+  const collect = useSaintCollect(saint.proper)
 
   return (
     <ScrollView

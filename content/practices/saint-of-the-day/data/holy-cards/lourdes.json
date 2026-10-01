@@ -1,0 +1,45 @@
+{
+  "id": "lourdes",
+  "feast": {
+    "month": 2,
+    "day": 11
+  },
+  "name": {
+    "en-US": "Our Lady of Lourdes",
+    "pt-BR": "Nossa Senhora de Lourdes"
+  },
+  "patronOf": {
+    "en-US": "The Immaculate Conception at Massabielle",
+    "pt-BR": "A Imaculada Conceição em Massabielle"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant us, O merciful God, protection in our weakness.",
+    "pt-BR": "Ó Deus de misericórdia, socorrei a nossa fraqueza."
+  },
+  "proper": "sanctorale.02-11",
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under the long white veil of the apparition, about sixteen as Bernadette saw her, smiling faintly. Bernadette, clearly different and earthier: a girl of fourteen, small and slight, with a SOFT OVAL face a little broad across the cheekbones — a smooth, rather high forehead, strong, straight, dark brows nearly level, large dark-brown eyes set wide apart, a straight nose with a slightly broad, rounded tip, full lips in a small closed mouth, a softly rounded chin; olive, sun-browned skin; very dark brown hair, centre-parted and drawn back under the capulet; her gaze lifted, rapt and simple.",
+    "basis": "The Lady's dress follows Bernadette's own account (white dress, blue sash, white veil, a yellow rose on each foot, a rosary of white beads with a chain of the same colour as the roses); Bernadette's face comes from the Billard-Perrin and Dufour photographs of 1861–63, softened to fourteen.",
+    "excerpt": "content/of/formularies/sanctoral/02-11.json collect (opening phrase, both languages)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons: Bernadette Soubirous en 1863, photo Billard-Perrin",
+        "url": "https://commons.wikimedia.org/wiki/File:Bernadette_Soubirous_en_1863,_photo_Billard-Perrin.jpg"
+      },
+      {
+        "title": "Wikipedia: Our Lady of Lourdes (Bernadette's description)",
+        "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes"
+      },
+      {
+        "title": "La fabrique d'une « sainte » à l'ère de sa reproductibilité technique (on the photographs)",
+        "url": "https://popups.uliege.be/2795-8892/index.php?id=140&format=print"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-16.md."
+      }
+    ]
+  }
+}

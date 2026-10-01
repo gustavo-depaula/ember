@@ -1,0 +1,41 @@
+{
+  "id": "apollonius",
+  "feast": {
+    "month": 4,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Apollonius",
+    "pt-BR": "Santo Apolônio"
+  },
+  "patronOf": {
+    "en-US": "Senator and martyr",
+    "pt-BR": "Senador e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Every Christian ought, by his manner, to bear witness to the sanctity of his faith.",
+    "pt-BR": "Todo cristão deveria, por seu modo de viver, dar testemunho da santidade de sua fé."
+  },
+  "lifeChapter": "apr-18-apollonius",
+  "meta": {
+    "face": "A Roman of about fifty with a fair olive complexion and a BROAD, SHORT, ROUND-JAWED face like an Antonine portrait bust — a wide, low forehead with the hair growing forward on it, full, rounded cheeks, a SHORT, THICK, straight nose, LARGE, slightly PROMINENT eyes under HEAVY, half-lowered upper lids, giving the dreamy, thoughtful look of the portraits of his day, soft, level brown brows, a small, full mouth; thick, dark-brown hair in short, crisp curls, a SHORT, close, curly dark-brown beard trimmed to the line of the round jaw; the gaze calm and inward, a little to the side.",
+    "basis": "No likeness survives; Wikipedia's lead image shows another Apollonius. The Roman Martyrology (quoted on Wikipedia) calls him 'philosopher and martyr', who defended the faith before the Prefect Perennis and the Senate under Commodus; the book makes him a senator versed in philosophy and Scripture, and its engraving shows him in a toga before a seated Roman. The card follows the book's rank (the broad stripe) and the fashion of Antonine portraits for the short curly beard and heavy-lidded eyes. The broad, short, round-jawed face is our choice, apart from `justin`, the other philosopher-martyr.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/apr-18-apollonius.md Reflection, third sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Apollonius the Apologist (the Roman Martyrology entry)",
+        "url": "https://en.wikipedia.org/wiki/Apollonius_the_Apologist"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, apr-18-apollonius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/apr-18-apollonius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-26.md."
+      }
+    ]
+  }
+}

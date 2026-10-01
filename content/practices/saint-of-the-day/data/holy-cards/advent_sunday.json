@@ -1,0 +1,41 @@
+{
+  "id": "advent_sunday",
+  "name": {
+    "en-US": "Advent Sundays",
+    "pt-BR": "Domingos do Advento"
+  },
+  "patronOf": {
+    "en-US": "The Church awaits the coming of Christ",
+    "pt-BR": "A Igreja espera a vinda de Cristo"
+  },
+  "prayerExcerpt": {
+    "en-US": "To you, I lift up my soul, O my God.",
+    "pt-BR": "A vós, meu Deus, elevo a minha alma."
+  },
+  "proper": "tempore.advent.week-1.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "The Advent wreath as the Directory on Popular Piety describes it (four candles lit Sunday by Sunday, 'the prophetic light gradually illuminating the long night'), with the widespread custom of three violet candles and one rose; violet for Advent (GIRM 346d) and the moderate floral decoration GIRM 305 asks for. The subject is the test draft x_advent_sunday, kept.",
+    "excerpt": "content/of/formularies/tempore/advent/week-1/sunday.json entranceAntiphon (first sentence en-US, first line pt-BR with its comma made a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+      },
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

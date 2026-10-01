@@ -1,0 +1,41 @@
+{
+  "id": "peter_chains",
+  "feast": {
+    "month": 8,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Peter's Chains",
+    "pt-BR": "As Cadeias de São Pedro"
+  },
+  "patronOf": {
+    "en-US": "Peter freed by an angel",
+    "pt-BR": "Pedro libertado por um anjo"
+  },
+  "prayerExcerpt": {
+    "en-US": "This miracle affords a confirmation of the divine promise, \"If two of you shall consent upon earth concerning anything whatsoever they shall ask, it shall be done to them by My Father Who is in heaven.\"",
+    "pt-BR": "Este milagre oferece uma confirmação da promessa divina: \"Se dois de vós se puserem de acordo na terra sobre qualquer coisa que pedirem, ser-lhes-á concedida por Meu Pai que está nos céus.\""
+  },
+  "lifeChapter": "aug-01-peters-chains",
+  "meta": {
+    "face": "St. Peter as in recurring-figures.md: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; a blue tunic and golden-ochre mantle; half awake, astonished and trusting. The angel is clearly different from St. Michael and from the other angels of the set: a tall, youthful angel with a LONG, NARROW face, a fine slightly aquiline nose, deep-set clear grey eyes under straight dark-blond brows, a long smooth jaw, a calm closed mouth; straight ash-blond hair to the jaw; white robe and pale silver-white wings, no armour.",
+    "basis": "Acts 12:1-11, retold by the Pictorial Lives (the angel, the light, the chains dropping from Peter's hands, the soldiers asleep); Raphael's Liberation of St. Peter in the Vatican Stanze fixed the composition. Peter's face from recurring-figures.md.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 08-01 reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Acts 12 (Douay-Rheims)",
+        "url": "https://www.drbo.org/chapter/51012.htm"
+      },
+      {
+        "title": "Wikipedia: The Liberation of Saint Peter (Raphael)",
+        "url": "https://en.wikipedia.org/wiki/The_Liberation_of_Saint_Peter"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-18.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "lazarus_devasahayam",
+  "feast": {
+    "month": 1,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Lazarus Devasahayam",
+    "pt-BR": "São Lázaro Devasahayam"
+  },
+  "patronOf": {
+    "en-US": "Layman and martyr of India",
+    "pt-BR": "Leigo e mártir da Índia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Whoever follows me will not walk in darkness, but will have the light of life, says the Lord.",
+    "pt-BR": "Quem me segue não andará nas trevas, mas terá a luz da vida, diz o Senhor."
+  },
+  "meta": {
+    "face": "A South Indian man of about forty (he died at thirty-nine) with a warm, deep-brown complexion and a BROAD, SQUARE face — a wide, LOW forehead, strong, FLAT cheekbones, a STRAIGHT, broad nose with a LOW bridge and full, rounded nostrils, large, dark, deep-set eyes under THICK, straight black brows that nearly meet, a wide, full-lipped mouth and a strong, square jaw; thick, wavy black hair falling to the shoulders and a FULL, dense black beard trimmed ROUND at the chin; the gaze lifted in prayer. Not a long oval face, not Christ-like.",
+    "basis": "No likeness from life survives (he died in 1752). The traditional image (the Dicastery's picture for his canonization; the painting and the statue in Kottar cathedral on Wikimedia Commons) shows a black-haired, full-bearded man kneeling bare-chested in a white veshti with chains at his wrists; the card keeps its hair, beard and dress, covers the chest with a shawl, and gives the face a broad, square Tamil structure so it cannot read as Christ.",
+    "excerpt": "content/of/formularies/common/martyrs/mart7.json communionAntiphon (Common of Martyrs, outside Easter Time, for one martyr 2); no saying of his own is recorded",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Devasahayam Pillai (biography; the traditional image)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/devasahayam-pillai.html"
+      },
+      {
+        "title": "Wikimedia Commons, Devasagayam.JPG (the traditional painting)",
+        "url": "https://commons.wikimedia.org/wiki/File:Devasagayam.JPG"
+      },
+      {
+        "title": "Wikimedia Commons, Devasahayam Pillai 2a.JPG (statue, St. Francis Xavier Cathedral, Kottar)",
+        "url": "https://commons.wikimedia.org/wiki/File:Devasahayam_Pillai_2a.JPG"
+      },
+      {
+        "title": "Wikipedia, Devasahayam Pillai (Aralvaimozhy, the Kaattadimalai hillock)",
+        "url": "https://en.wikipedia.org/wiki/Devasahayam_Pillai"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-52.md."
+      }
+    ]
+  }
+}

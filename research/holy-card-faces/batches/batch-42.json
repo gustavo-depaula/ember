@@ -1,0 +1,296 @@
+{
+  "batch": 42,
+  "date": "2026-09-30",
+  "dossier": "dossiers/batch-42.md",
+  "cards": [
+    {
+      "id": "philogonius",
+      "letter": "P",
+      "feast": {
+        "month": 12,
+        "day": 20
+      },
+      "name": {
+        "en-US": "St. Philogonius",
+        "pt-BR": "São Filogônio"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Antioch",
+        "pt-BR": "Bispo de Antioquia"
+      },
+      "prayerExcerpt": {
+        "en-US": "A soul must here learn the heavenly spirit, and be well versed in the occupations of the blessed, that hopes to reign with them hereafter.",
+        "pt-BR": "Uma alma deve aprender aqui o espírito celestial, e estar bem versada nas ocupações dos bem-aventurados, se espera reinar com eles no porvir."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-20-philogonius.md Reflection, second sentence (Pictorial Lives, public domain)",
+      "subject": "St. Philogonius, half-length, a Greek bishop of Antioch of the early fourth century who had been a famous advocate, bareheaded: a white linen tunic, over it a wide phelonion of deep plum-purple and a white woollen omophorion with dark crosses lying over his shoulders and breast, as in the Menologion of Basil II. In his left hand a rolled parchment letter tied with a red cord and sealed (the synodal letter of St. Alexander against Arius); his right hand raised in the open, persuasive gesture of an orator. Behind him Antioch on the Orontes: the green river under the steep, rocky slopes of Mount Silpius, a long colonnaded street, and a plain early basilica with a tiled roof by the water, in clear morning light. Grave and eloquent; no heretic, no council, no lettering.",
+      "face": "A Greek of Antioch of about sixty with a warm, light olive complexion and a STRONG face WIDEST at the CHEEKBONES, which stand out broad and high — a straight forehead under thick, WAVY iron-grey hair cut short and only a little RECEDING at the temples (NOT bald, no domed crown); MOBILE, strongly ARCHED black-and-grey brows, the right one a little RAISED; LARGE, PROMINENT, expressive dark-brown eyes with the direct, persuasive look of an advocate; a FULL, straight nose with a strong, ROUNDED tip; a WIDE, well-cut mouth with a FULL LOWER LIP, as if about to speak; a medium-length grey beard, close at the cheeks so the line of the jaw shows, ending in a BLUNT POINT. Not the narrow, balding gregory_thaumaturgus, the domed eulogius_alexandria or the tall, egg-shaped anicetus.",
+      "refs": [
+        "athanasius",
+        "nicholas",
+        "augustine"
+      ],
+      "basis": "No likeness survives. The face follows the Menologion of Basil II (grey hair, a grey beard ending in a point, a strong nose), made more animated for the advocate the book describes, and the book's engraving, where he speaks with a raised hand; the dress is the Menologion's bishop's phelonion and omophorion.",
+      "sources": [
+        {
+          "title": "Menologion of Basil II, Philogonius bishop (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Menologion_of_Basil_II_-_Philogonius_bishop.jpg"
+        },
+        {
+          "title": "Wikipedia, Philogonius",
+          "url": "https://en.wikipedia.org/wiki/Philogonius"
+        },
+        {
+          "title": "Santi e Beati, San Filogonio di Antiochia (Roman Martyrology entry, 20 December)",
+          "url": "https://www.santiebeati.it/dettaglio/82480"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-20-philogonius (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-20-philogonius.md"
+        }
+      ],
+      "catalogMatch": "St. Philogonius, Bishop",
+      "lifeChapter": "dec-20-philogonius"
+    },
+    {
+      "id": "ischyrion",
+      "letter": "I",
+      "feast": {
+        "month": 12,
+        "day": 22
+      },
+      "name": {
+        "en-US": "St. Ischyrion",
+        "pt-BR": "Santo Isquírion"
+      },
+      "patronOf": {
+        "en-US": "Martyr of Egypt",
+        "pt-BR": "Mártir do Egito"
+      },
+      "prayerExcerpt": {
+        "en-US": "It is not a man's condition, but virtue, that can make him truly great or truly happy.",
+        "pt-BR": "Não é a condição de um homem, mas a virtude, que pode torná-lo verdadeiramente grande ou verdadeiramente feliz."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-22-ischyrion.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "St. Ischyrion, half-length, an Egyptian of the third century, the hired steward who kept the accounts of a magistrate's household: a plain, knee-length white linen tunic with two narrow dark-red stripes (clavi) running down from the shoulders and a light brown wool cloak; in his left arm a bundle of wooden writing tablets and a rolled papyrus account, held against his breast; in his right hand a green martyr's palm. Behind him a Roman town on the Nile: whitewashed mud-brick houses with flat roofs, date palms, the columned porch of a magistrate's house, and a felucca with a white sail on the broad river under a pale, hot sky. Meek and steady; no stake, no idol, no wound, no lettering.",
+      "face": "An Egyptian of about thirty-five with a warm, DEEP-BROWN complexion and a ROUND, FULL face with FLESHY cheeks and a BROAD, rounded jaw, after a Roman-Egyptian mummy portrait — a LOW, rounded forehead under short, thick, close-cropped black hair; THICK, straight black brows; LARGE, dark, HEAVY-LIDDED eyes with a mild, patient look, lifted a little; a BROAD nose with a rounded tip and wide nostrils; a FULL, soft, closed mouth; a SHORT, DENSE black beard trimmed close along the jaw and chin. Not the lean, angular nemesion, the kite-shaped julian_basilissa or the long pachomius.",
+      "refs": [
+        "moses_the_black",
+        "sebastian",
+        "george"
+      ],
+      "basis": "No likeness survives. The face is modelled on an encaustic Fayum mummy portrait of a man in the British Museum (a round, full face, close-cropped black hair and a short black beard), the look of Roman Egypt in his century; his dress and tablets follow Dionysius of Alexandria's letter in Eusebius, where he keeps a magistrate's accounts for hire.",
+      "sources": [
+        {
+          "title": "Fayum mummy portrait of a man, encaustic on limewood, British Museum (Wikimedia Commons, Fayum-06)",
+          "url": "https://commons.wikimedia.org/wiki/File:Fayum-06.jpg"
+        },
+        {
+          "title": "Santi e Beati, Sant'Ischirione di Alessandria (Roman Martyrology entry; Dionysius in Eusebius)",
+          "url": "https://www.santiebeati.it/dettaglio/82720"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-22-ischyrion (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-22-ischyrion.md"
+        }
+      ],
+      "catalogMatch": "St. Ischyrion, Martyr",
+      "lifeChapter": "dec-22-ischyrion"
+    },
+    {
+      "id": "servulus",
+      "letter": "S",
+      "feast": {
+        "month": 12,
+        "day": 23
+      },
+      "name": {
+        "en-US": "St. Servulus",
+        "pt-BR": "São Sérvulo"
+      },
+      "patronOf": {
+        "en-US": "Paralyzed beggar of Rome",
+        "pt-BR": "Mendigo paralítico de Roma"
+      },
+      "prayerExcerpt": {
+        "en-US": "Silence! do you not hear the sweet melody and praise which resound in the heavens?",
+        "pt-BR": "Silêncio! não ouvis a doce melodia e o louvor que ressoam nos céus?"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-23-servulus.md paragraph 3, his dying words (Pictorial Lives, public domain)",
+      "subject": "St. Servulus, half-length and RECLINING, a poor Roman of the late sixth century who could never sit upright: he lies on a straw pallet in the porch of St. Clement's church, his head and shoulders raised on a rolled grey blanket, wrapped in a coarse, patched brown wool cloak over an undyed tunic; his hands rest quietly on the blanket beside an open book of the Psalms that a passer-by has been reading to him; at his side a wooden alms bowl with a small loaf. He is singing. Behind him the brick columns and arcade of the old basilica's porch, and down the street, in warm evening light, the arches of the Colosseum; a soft golden light falls on him from above, as if he hears the music of heaven. Peaceful and joyful; no angels, no twisted limbs, no lettering.",
+      "face": "A Roman of about forty-five, pale from a life in the shade of the porch, with a SOFT, OVAL-ROUND face without hard bones — a rounded forehead; fine, thin, light-brown hair falling STRAIGHT to the ears; fine brows ARCHED HIGH in joyful wonder; LARGE, bright, WIDE-OPEN hazel eyes lifted upward, as if listening; a SMALL, slightly UPTURNED nose; soft cheeks; a mouth OPEN in song; a small, ROUNDED chin under a thin, soft, SPARSE light-brown beard. Not the clean-shaven, egg-shaped odo_cluny or the wide-browed mesmin.",
+      "refs": [
+        "francis_assisi",
+        "philip_neri",
+        "vincent_de_paul"
+      ],
+      "basis": "No likeness survives; St. Gregory the Great, who knew him, describes his life in the porch of St. Clement's and his death while singing, in a homily on the Gospels and in the Dialogues (Book IV), as Butler reports. The pose follows the book's engraving and Callot's plate for 23 December, both showing him lying on his pallet; the face is ours, given the joy Gregory describes.",
+      "sources": [
+        {
+          "title": "Jacques Callot, St. Servulus the Paralytic, Les Images de tous les saints, 23 December (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:St._Servulus_of_Rome.jpg"
+        },
+        {
+          "title": "Wikipedia, Servulus",
+          "url": "https://en.wikipedia.org/wiki/Servulus"
+        },
+        {
+          "title": "Santi e Beati, San Servolo il Paralitico (Roman Martyrology entry, 23 December)",
+          "url": "https://www.santiebeati.it/dettaglio/82900"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-23-servulus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-23-servulus.md"
+        }
+      ],
+      "catalogMatch": "St. Servulus",
+      "lifeChapter": "dec-23-servulus"
+    },
+    {
+      "id": "delphinus",
+      "letter": "D",
+      "feast": {
+        "month": 12,
+        "day": 24
+      },
+      "name": {
+        "en-US": "St. Delphinus",
+        "pt-BR": "São Delfino"
+      },
+      "patronOf": {
+        "en-US": "Bishop of Bordeaux",
+        "pt-BR": "Bispo de Bordeaux"
+      },
+      "prayerExcerpt": {
+        "en-US": "He baptized St. Paulinus in 388, and the latter, in several letters, speaks of him as his father and his master.",
+        "pt-BR": "Batizou São Paulino em 388, e este, em várias cartas, fala dele como seu pai e seu mestre."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-24-delphinus.md, first paragraph (his), third sentence; the chapter's Reflection belongs to Sts. Thrasilla and Emiliana, so this card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+      "subject": "St. Delphinus, half-length, a Gallo-Roman bishop of the late fourth century, bareheaded and without mitre: a long white tunic with narrow purple stripes and over it a full, bell-shaped paenula of deep forest green; in his right hand a small silver baptismal shell, in his left a codex of the Gospels bound in brown leather. Behind him Roman Burdigala on the wide, crescent-shaped bend of the Garonne: the tall columned arcades of the Roman temple the Bordelais later called the Piliers de Tutelle, pale town walls with round towers, boats at the river quay, and vineyards on the low hills of the far bank under a soft Atlantic sky. Fatherly and kind; no heretics, no lettering.",
+      "face": "A Gallo-Roman of Aquitaine of about sixty-five with a fresh, lightly weathered complexion and a face like a ROUNDED RECTANGLE, EVEN in width from temples to jaw, with STRONG, rounded CHEEKBONES — a moderate forehead under thick grey hair RECEDING at the temples to a marked WIDOW'S PEAK; a PRONOUNCED brow over DEEP-SET, kind blue-grey eyes with fine laughter creases; a SHORT nose, gently SCOOPED in profile, with a rounded, slightly lifted tip; a LONG upper lip; a WIDE, calm mouth with a humorous lift at one corner; a SHORT, full, CURLY salt-and-pepper beard close to the jaw; the look of a father and teacher. Not the clean-shaven, heart-shaped paulinus_nola, the round-bearded nicasius or the lean valery.",
+      "refs": [
+        "ambrose",
+        "augustine",
+        "nicholas"
+      ],
+      "basis": "No likeness survives. The book's engraving shows him bearded, with receding hair, teaching the young Paulinus; the face is ours within that, as the fatherly 'father and master' of Paulinus's letters. The shell recalls the baptism of Paulinus; the Roman Bordeaux behind him is the city of his friend Ausonius.",
+      "sources": [
+        {
+          "title": "Santi e Beati, San Delfino di Bordeaux (Roman Martyrology entry, 24 December)",
+          "url": "https://www.santiebeati.it/dettaglio/83100"
+        },
+        {
+          "title": "Nominis, Saint Delphin de Bordeaux",
+          "url": "https://nominis.cef.fr/contenus/saint/307/Saint-Delphin-de-Bordeaux.html"
+        },
+        {
+          "title": "Wikipédia (fr), Delphin de Bordeaux",
+          "url": "https://fr.wikipedia.org/wiki/Delphin_de_Bordeaux"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-24-delphinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-24-delphinus.md"
+        }
+      ],
+      "catalogMatch": "St. Delphinus, Bishop"
+    },
+    {
+      "id": "thrasilla_emiliana",
+      "letter": "T",
+      "feast": {
+        "month": 12,
+        "day": 24
+      },
+      "name": {
+        "en-US": "Sts. Thrasilla and Emiliana",
+        "pt-BR": "Santas Trasila e Emiliana"
+      },
+      "patronOf": {
+        "en-US": "Virgins, aunts of St. Gregory the Great",
+        "pt-BR": "Virgens, tias de São Gregório Magno"
+      },
+      "prayerExcerpt": {
+        "en-US": "We may often think the austerities of the Saints are beyond our strength; let us, then, imitate the guard they kept over their tongue.",
+        "pt-BR": "Podemos muitas vezes pensar que as austeridades dos Santos estão além de nossas forças; imitemos, então, a guarda que mantinham sobre a sua língua."
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-24-delphinus.md Reflection, first sentence (Pictorial Lives, public domain)",
+      "subject": "Sts. Thrasilla and Emiliana, half-length, side by side, two Roman patrician sisters of the sixth century who lived as consecrated virgins in their father's house: each in a long, plain tunic with a dark wool mantle drawn over the head above a white linen veil that frames the face. THRASILLA (left), the elder, in a dark chestnut-brown mantle over a grey tunic, holds an open psalter against her breast and looks up toward a soft light above. EMILIANA (right), in a deep grey-violet mantle over an undyed tunic, her hands joined in prayer, turns her face a little toward her sister. Behind them the quiet courtyard of their family house on the Caelian hill: a colonnade, a small domestic oratory with a lamp, a dark cypress, and across the valley the ruined brick palaces of the Palatine in the blue winter dusk, one bright star above. Recollected and silent; no vision of St. Felix, no lettering.",
+      "face": "Two clearly different Roman sisters with a fair, ivory-olive complexion and the same dark hair hidden under their veils. THRASILLA (left), about fifty-five, has her brother Gordianus's LONG, DRAWN face — a HIGH forehead, a LONG, straight, SLENDER nose, calm, deep-set GREEN eyes under long, LEVEL dark brows, lifted upward, LEAN cheeks thinned by fasting, a small mouth closed in silence, a LONG, narrow chin. EMILIANA (right), about fifty, has a SHORTER, softly ROUND face — a smooth, rounded forehead, FULL cheeks, a SHORT, softly rounded nose, LARGE, round, dark-brown eyes under gently curved brows, a small, sweet mouth, a ROUND chin. Not the young leocadia or bibiana, nor the square-jawed olympias.",
+      "refs": [
+        "philip_james",
+        "monica",
+        "clare_assisi"
+      ],
+      "basis": "No likeness of either survives. Thrasilla is given the face John the Deacon records for their brother Gordianus in the portrait Gregory had painted at St. Andrew's on the Caelian ('facies deducta, virides oculi': a long face, green eyes); Emiliana's rounder face is ours, to tell the sisters apart. The Caelian house is Gregory's family home, later his monastery.",
+      "sources": [
+        {
+          "title": "S. Boesch Gajano, 'Un giovane aristocratico romano' (quotes John the Deacon, Vita Gregorii IV.83, on Gordianus's portrait, and the aunts)",
+          "url": "http://www.rmoa.unina.it/194/1/RM-Boesch-Gregorio.pdf"
+        },
+        {
+          "title": "Santi e Beati, Santa Tarsilla (Roman Martyrology entry, 24 December)",
+          "url": "https://www.santiebeati.it/dettaglio/83050"
+        },
+        {
+          "title": "Santi e Beati, Santa Emiliana (Roman Martyrology entry, 5 January)",
+          "url": "https://www.santiebeati.it/dettaglio/36330"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-24-delphinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-24-delphinus.md"
+        }
+      ],
+      "catalogMatch": "Sts. Thrasilla and Emiliana",
+      "lifeChapter": "dec-24-delphinus"
+    },
+    {
+      "id": "sabinus_companions",
+      "letter": "S",
+      "feast": {
+        "month": 12,
+        "day": 30
+      },
+      "name": {
+        "en-US": "St. Sabinus and Companions",
+        "pt-BR": "São Sabino e Companheiros"
+      },
+      "patronOf": {
+        "en-US": "Bishop and martyrs of Umbria",
+        "pt-BR": "Bispo e mártires da Úmbria"
+      },
+      "prayerExcerpt": {
+        "en-US": "How powerfully do the martyrs cry out to us by their example, exhorting us to despise a false and wicked world!",
+        "pt-BR": "Quão poderosamente clamam a nós os mártires pelo seu exemplo, exortando-nos a desprezar um mundo falso e perverso!"
+      },
+      "excerptSource": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-30-sabinus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+      "subject": "St. Sabinus with his deacons Marcellus and Exuperantius, half-length, side by side, martyrs of Umbria in the year 303, each with a green martyr's palm: SABINUS (centre), the bishop, bareheaded, in a long white tunic and a full paenula of deep martyr's red; his hands hidden in the folds of the red paenula, the palm resting in the crook of his arm. MARCELLUS (left) and EXUPERANTIUS (right) in white deacons' dalmatics with narrow red stripes; Marcellus holds a Gospel book bound in red, Exuperantius his palm in both hands. Behind them the green Umbrian valley at Spoleto: olive groves, a Roman bridge over a stream, and the small walled hill-town with its stone towers under a clear winter sky. Steadfast and serene; no wounds, no severed hands, no clubs, no lettering.",
+      "face": "Three clearly different men of Roman Umbria. SABINUS (centre), about sixty, after the Ravenna mosaic: a LONG, NARROW face with a SQUARE, level chin — a LOW, straight FRINGE of short grey-brown hair combed forward across the forehead (NOT bald); LARGE, wide-open, dark ALMOND eyes under straight brows; a LONG, thin nose; lean cheeks; a small, firm mouth; a SHORT, trimmed grey-brown beard following the jaw. MARCELLUS (left), about thirty-five: a BROAD, SQUARE, strong-jawed face, olive-tanned, with close black curls, heavy straight black brows, dark eyes, a short, straight nose, a firm mouth, and a close black beard. EXUPERANTIUS (right), about twenty-five: a SOFT, ROUND face with a fair olive complexion, WAVY chestnut hair to the ears, round hazel eyes under arched brows, a small, slightly upturned nose, and a short, soft first beard.",
+      "refs": [
+        "philip_james",
+        "nicholas",
+        "sebastian"
+      ],
+      "basis": "Sabinus's face follows his figure among the procession of martyrs in the sixth-century mosaic of Sant'Apollinare Nuovo, Ravenna (a long face, a fringe of short hair, a short beard), which Santi e Beati identifies with him; Pietro Lorenzetti's predella also shows him with a short grey beard. No image of the two deacons is known; their faces are ours, made unlike each other and him.",
+      "sources": [
+        {
+          "title": "Sanctus Sabinus, mosaic, Sant'Apollinare Nuovo, Ravenna (Wikimedia Commons)",
+          "url": "https://commons.wikimedia.org/wiki/File:Sanctus_Sabinus_Ravenna.jpg"
+        },
+        {
+          "title": "Wikipedia, Sabinus of Spoleto (lead: Pietro Lorenzetti's predella)",
+          "url": "https://en.wikipedia.org/wiki/Sabinus_of_Spoleto"
+        },
+        {
+          "title": "Santi e Beati, San Sabino di Spoleto (Roman Martyrology entry, 7 December)",
+          "url": "https://www.santiebeati.it/dettaglio/91900"
+        },
+        {
+          "title": "Pictorial Lives of the Saints, dec-30-sabinus (chapter and engraving, public domain)",
+          "url": "content/books/pictorial-lives-of-saints/en-US/dec-30-sabinus.md"
+        }
+      ],
+      "catalogMatch": "St. Sabinus, Bishop, and his Companions",
+      "lifeChapter": "dec-30-sabinus"
+    }
+  ]
+}

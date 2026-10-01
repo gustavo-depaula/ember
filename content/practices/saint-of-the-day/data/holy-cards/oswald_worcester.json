@@ -1,0 +1,45 @@
+{
+  "id": "oswald_worcester",
+  "feast": {
+    "month": 2,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Oswald of Worcester",
+    "pt-BR": "Santo Osvaldo de Worcester"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of York",
+    "pt-BR": "Arcebispo de York"
+  },
+  "prayerExcerpt": {
+    "en-US": "A soul without discipline is like a ship without a helm.",
+    "pt-BR": "Uma alma sem disciplina é como um navio sem leme."
+  },
+  "lifeChapter": "feb-29-oswald",
+  "meta": {
+    "face": "An Englishman of Danish blood, about sixty-five, fair-skinned with a light ruddy colour, of a noble, well-proportioned build, with a LONG, HANDSOME face — a broad, high forehead, a LONG, NARROW, straight nose, HIGH, broad cheekbones, deep-set, clear blue eyes under straight, fair-grey brows, a firm, CLEAN-CUT jaw and a strong chin; a calm, finely drawn mouth; silver-fair hair cut level at the ears; a SHORT, neat, silver-fair beard close along the jaw; the gaze kindly and direct.",
+    "basis": "No likeness from life. The book calls him 'endowed with a very rare and beautiful form of body', and Wikipedia gives his Danish parentage and his death while washing the feet of the poor on 29 February 992; the card keeps both. Wikipedia's lead image, a Ramsey Psalter miniature of c. 1300 (Commons calls it only 'a bishop above a ram'), shows a mitred bishop with a short beard. The book has no engraving for this day.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-29 reflection, first clause closed with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Oswald of Worcester",
+        "url": "https://en.wikipedia.org/wiki/Oswald_of_Worcester"
+      },
+      {
+        "title": "Wikimedia Commons, Ramsey Psalter miniature of a bishop and an abbot (Morgan Library MS M.302, fol. 4v)",
+        "url": "https://commons.wikimedia.org/wiki/File:Oswald_and_Eadnoth.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-29-oswald (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-29-oswald.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

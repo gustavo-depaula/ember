@@ -1,0 +1,49 @@
+{
+  "id": "romanus_lupicinus",
+  "feast": {
+    "month": 2,
+    "day": 28
+  },
+  "name": {
+    "en-US": "Sts. Romanus and Lupicinus",
+    "pt-BR": "São Romano e São Lupicino"
+  },
+  "patronOf": {
+    "en-US": "Abbots of the Jura",
+    "pt-BR": "Abades do Jura"
+  },
+  "prayerExcerpt": {
+    "en-US": "The brothers governed the monks jointly and in great harmony.",
+    "pt-BR": "Os irmãos governavam os monges conjuntamente e em grande harmonia."
+  },
+  "lifeChapter": "feb-28-sts-romanus-and-lupicinus",
+  "meta": {
+    "face": "Two brothers who must read as different men. ROMANUS, about seventy, fair and rosy, CLEAN-SHAVEN, with a SOFT, rounded OVAL face — a smooth, rounded forehead, a LONG, broad, BLUNT nose with a rounded tip, ROUND, wide-open, kindly light-brown eyes under RAISED, curved white brows that give a look of gentle wonder, full, soft cheeks, a small, smiling mouth over a small, softly rounded chin; a ring of white hair round the tonsure. LUPICINUS, about fifty-five, weathered and gaunt, with a LONG, BONY face and a strong, slightly UNDERSHOT jaw that juts a little beyond the upper lip — a straight, stern, wide mouth, a long, straight nose, DEEP-SET, piercing dark eyes under HEAVY black brows knotted by a deep vertical furrow, sunken cheeks under hard cheekbones; a short, stiff black beard shot with grey; the hood hides his hair.",
+    "basis": "No likenesses survive. The book's engraving shows two haloed monks in the forest, one seated and hooded, one standing, and its text gives Lupicinus his tunic of sewn skins and his hard bread; the painted statue of St. Romain at Savennières (French Wikipedia lead image) shows a beardless, tonsured monk holding a red book, which Romanus follows. Condat at the meeting of two rivers is the book's. The contrast between the brothers' faces is our choice, after the book's 'Lupicinus was the more inclined to severity'.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/feb-28-sts-romanus-and-lupicinus.md, third paragraph, a clause closed with a full stop (the chapter has no Reflection) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipédia (fr), Romain de Condat (lead image: statue of St. Romain, Savennières)",
+        "url": "https://fr.wikipedia.org/wiki/Romain_de_Condat"
+      },
+      {
+        "title": "Wikipedia, Romanus of Condat",
+        "url": "https://en.wikipedia.org/wiki/Romanus_of_Condat"
+      },
+      {
+        "title": "Wikipedia, Lupicinus of Condat",
+        "url": "https://en.wikipedia.org/wiki/Lupicinus_of_Condat"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-28-sts-romanus-and-lupicinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-28-sts-romanus-and-lupicinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-22.md."
+      }
+    ]
+  }
+}

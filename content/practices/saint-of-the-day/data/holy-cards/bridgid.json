@@ -1,0 +1,41 @@
+{
+  "id": "bridgid",
+  "feast": {
+    "month": 2,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Bridgid",
+    "pt-BR": "Santa Brígida"
+  },
+  "patronOf": {
+    "en-US": "Abbess of Kildare, Patroness of Ireland",
+    "pt-BR": "Abadessa de Kildare, Padroeira da Irlanda"
+  },
+  "prayerExcerpt": {
+    "en-US": "Outward resemblance to Our Lady was St. Bridgid's peculiar privilege; but all are bound to grow like her in interior purity of heart.",
+    "pt-BR": "A semelhança exterior com Nossa Senhora foi o privilégio peculiar de Santa Brígida; mas todos estão obrigados a crescer como ela na pureza interior do coração."
+  },
+  "lifeChapter": "feb-01-bridgid",
+  "meta": {
+    "face": "An Irishwoman of about forty-five with a fair, freckled, fresh complexion and a WIDE, OBLONG face — broad, flat cheekbones and a LONG, firm, rounded jaw; a straight nose, a little long, with a rounded tip; large, wide-set, clear blue eyes under straight, copper-brown brows; a wide, calm mouth; a few strands of copper-red hair at the brow under the white veil; a steady, warm gaze toward us.",
+    "basis": "No likeness survives. The book gives her white habit and cloak and the lamp-and-fire tradition of Kildare; Wikipedia's iconography section gives the rush cross, the crozier, the lamp and the cow, and the Harry Clarke-school window at Cong (lead image) shows her veiled in white with a lamp. The book calls her outward resemblance to Our Lady her privilege; we do not borrow Our Lady's face from `recurring-figures.md`, so that she is not mistaken for her. The freckled, oblong face is our choice, kept apart from `bridget_sweden`.",
+    "excerpt": "content/practices/saint-of-the-day/data/saint-of-day-index.json 02-01 reflection, first sentence (Pictorial Lives, public domain; the day's reflection is Bridgid's, the index also names St. Ignatius, already carded as `ignatius_antioch`)",
+    "sources": [
+      {
+        "title": "Wikipedia, Brigid of Kildare (iconography; lead image: window at Cong, St. Brigid holding her lamp)",
+        "url": "https://en.wikipedia.org/wiki/Brigid_of_Kildare"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, feb-01-bridgid (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/feb-01-bridgid.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "titus_brandsma",
+  "feast": {
+    "month": 7,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Titus Brandsma",
+    "pt-BR": "São Tito Brandsma"
+  },
+  "patronOf": {
+    "en-US": "Carmelite, journalist and martyr",
+    "pt-BR": "Carmelita, jornalista e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Prayer is life, not an oasis in the desert of life.\"",
+    "pt-BR": "\"A oração é vida, não um oásis no deserto da vida.\""
+  },
+  "meta": {
+    "face": "A Frisian of about sixty, clean-shaven, with a fair complexion and a LONG face that WIDENS at HIGH, broad cheekbones and narrows to a pointed chin — a high forehead under a thick, springy CREST of wavy grey hair brushed up and back, small, narrowed, smiling eyes with crinkles at the corners behind small ROUND steel-rimmed spectacles, a LONG nose with a slight bump and a rounded tip, lean cheeks folded by smile lines, a thin-lipped, gently smiling mouth; the head a little tilted, the gaze kind and humorous. Not maximilian_kolbe (beard, balding) nor josemaria_escriva (round face, dark rectangular glasses).",
+    "basis": "His photographs (Nationaal Archief, late 1920s, on Wikimedia Commons; the rector's portrait of 1932; the Dicastery's portrait): a long face widening at the cheekbones, a crest of thick wavy hair brushed up, small smiling eyes behind round steel spectacles, a long nose with a rounded tip and a thin, smiling mouth, in the Carmelite habit with the white cloak. The card makes him about sixty, as at his arrest in 1942.",
+    "excerpt": "His saying «La preghiera è vita, non un'oasi nel deserto della vita», as the Dicastery's biography gives it; our rendering (he died in 1942)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, TitusBrandsma.jpg (photograph, late 1920s, Nationaal Archief)",
+        "url": "https://commons.wikimedia.org/wiki/File:TitusBrandsma.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, TitusBrandsma1932.jpg (as rector magnificus)",
+        "url": "https://commons.wikimedia.org/wiki/File:TitusBrandsma1932.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Tito Brandsma (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/tito-brandsma.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

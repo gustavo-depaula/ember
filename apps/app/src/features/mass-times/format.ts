@@ -17,23 +17,48 @@ export function formatDistanceKm(km: number, locale: string): string {
   return `${new Intl.NumberFormat(locale).format(Number(value))} km`
 }
 
-export function formatTimeOfDay(startTime: string, locale: string): string {
+// Always the 24-hour clock, as parish bulletins print it: "16:00", never "4:00 PM" — a 12-hour time
+// doubles the width of the list's time column and of the next-Mass headline.
+export function formatTimeOfDay(startTime: string): string {
   const [h, m] = startTime.split(':').map(Number)
-  const d = new Date(Date.UTC(2000, 0, 1, h || 0, m || 0))
-  return d.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' })
+  return `${String(h || 0).padStart(2, '0')}:${String(m || 0).padStart(2, '0')}`
 }
 
 // Relative day word for an occurrence: Today / Tomorrow / weekday / dated. `now` is the church's
 // wall clock (wallClockNow), so "today" means today where the church is.
 export function dayLabel(occurrenceDate: Date, now: Date, t: TFunction, locale: string): string {
-  const startOf = (d: Date) => Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate())
-  const diff = Math.round((startOf(occurrenceDate) - startOf(now)) / dayMs)
+  const diff = daysAway(occurrenceDate, now)
   if (diff <= 0) return t('massTimes.today')
   if (diff === 1) return t('massTimes.tomorrow')
   if (diff < 7)
     return occurrenceDate.toLocaleDateString(locale, { weekday: 'long', timeZone: 'UTC' })
   return occurrenceDate.toLocaleDateString(locale, {
     weekday: 'short',
+    day: 'numeric',
+    month: 'short',
+    timeZone: 'UTC',
+  })
+}
+
+// Whole days from `now` to an occurrence day; 0 (or less, for an occurrence already under way) is today.
+export function daysAway(occurrenceDate: Date, now: Date): number {
+  const startOf = (d: Date) => Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate())
+  return Math.round((startOf(occurrenceDate) - startOf(now)) / dayMs)
+}
+
+// dayLabel cut to fit under a time in the list's time column: Today / Tomorrow / "thu" / "9 Oct".
+export function shortDayLabel(
+  occurrenceDate: Date,
+  now: Date,
+  t: TFunction,
+  locale: string,
+): string {
+  const diff = daysAway(occurrenceDate, now)
+  if (diff <= 0) return t('massTimes.today')
+  if (diff === 1) return t('massTimes.tomorrow')
+  if (diff < 7)
+    return occurrenceDate.toLocaleDateString(locale, { weekday: 'short', timeZone: 'UTC' })
+  return occurrenceDate.toLocaleDateString(locale, {
     day: 'numeric',
     month: 'short',
     timeZone: 'UTC',

@@ -1,0 +1,49 @@
+{
+  "id": "epiphanius_salamis",
+  "feast": {
+    "month": 5,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Epiphanius",
+    "pt-BR": "Santo Epifânio"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Salamis",
+    "pt-BR": "Bispo de Salamina"
+  },
+  "prayerExcerpt": {
+    "en-US": "God gives not the kingdom of heaven but on condition that we labor; and all we can do bears no proportion to such a crown.",
+    "pt-BR": "Deus não dá o reino dos céus senão com a condição de que trabalhemos; e tudo o que podemos fazer não guarda proporção com tal coroa."
+  },
+  "lifeChapter": "may-12-epiphanius",
+  "meta": {
+    "face": "A Palestinian of about eighty-five, lean and sun-browned, with a SMALL, NARROW face of SHARP, BIRD-LIKE features under a high, POLISHED BALD dome — PINCHED temples, a THIN, SHARP, POINTED nose, SMALL, piercing, CLOSE-SET black eyes under TUFTED, bristling white brows, tight, thin lips; a LONG, straight, silver-white beard to the breast, narrow and combed; the gaze alert and searching, toward us.",
+    "basis": "The Painter's Manual (Hermeneia) describes 'Epiphanius of Cyprus, an old man, bald, with a white beard', and the Serbian fresco on Wikipedia shows him so, bald with a long white beard, in an omophorion with a book. The book tells his monastic life in Egypt and Palestine, his saying on labour and the crown, his election at Salamis about 367, and his zeal; its engraving shows a monk with a staff in a desert. Wikipedia's Salamis names the basilica of Bishop Epiphanius in the rebuilt city of Constantia. The small, sharp, bird-like face is our choice within that type.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-12-epiphanius.md, his own words, quoted in the first paragraph (the Reflection, 1 John 4:10, stays on the card) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Epiphanius of Salamis (lead image: fresco, Kosovo)",
+        "url": "https://en.wikipedia.org/wiki/Epiphanius_of_Salamis"
+      },
+      {
+        "title": "Wikipedia, Salamis, Cyprus (the basilica of Bishop Epiphanius; Constantia)",
+        "url": "https://en.wikipedia.org/wiki/Salamis,_Cyprus"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), Epiphanius of Cyprus",
+        "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-12-epiphanius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-12-epiphanius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-27.md."
+      }
+    ]
+  }
+}

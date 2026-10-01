@@ -19,6 +19,11 @@ rows = {
     "Saints — optional memorials": "Optional memorials",
     "Saints of the Roman Canon not on the calendar": "Named in the Roman Canon, not on the calendar",
     "Saints of Brazil's own calendar": "Brazil's own calendar",
+    "Saints with a card but no universal feast": "With a card but no feast on the universal calendar",
+    "Saints of the novenas, not on the universal calendar": "Saints of the novenas, not on the universal calendar",
+    "Seasons (including the 4 Ember Days)": "Seasons",
+    "Parts of the Mass": "Parts of the Mass",
+    "Liturgical objects and vestments": "Liturgical objects and vestments",
     "Saints canonized since 2022 (and Bl. Fulton Sheen)": "Canonized since 2022",
     "Saints of the Pictorial Lives (Saint of the Day)": "From the Pictorial Lives of the Saints",
 }

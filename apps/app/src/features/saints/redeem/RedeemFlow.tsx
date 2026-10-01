@@ -326,7 +326,7 @@ function Prayer({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const collect = useSaintCollect(saint)
+  const collect = useSaintCollect(saint.proper)
   const lines = collect?.lines ?? (saint.prayerExcerpt ? [saint.prayerExcerpt] : [])
   return (
     <ScrollView

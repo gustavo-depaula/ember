@@ -1,0 +1,37 @@
+{
+  "id": "ordinary_time_2_weekday",
+  "name": {
+    "en-US": "Ordinary Time II Weekdays",
+    "pt-BR": "Dias de semana do Tempo Comum II"
+  },
+  "patronOf": {
+    "en-US": "Daily Mass between Pentecost and Advent",
+    "pt-BR": "A Missa diária entre Pentecostes e o Advento"
+  },
+  "prayerExcerpt": {
+    "en-US": "O God, protector of those who hope in you, without whom nothing has firm foundation, nothing is holy.",
+    "pt-BR": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo."
+  },
+  "proper": "tempore.ordinary-time.week-17.monday",
+  "meta": {
+    "face": "-",
+    "basis": "The daily Mass of Ordinary Time in green (GIRM 346c), painted at evening to stand apart from the morning Mass of the Ordinary Time I weekday card. The weekdays of the Seventeenth Week take the Sunday's collect (`inheritsOrationsFrom` in the repo's Mass data).",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-17/sunday.json collect, which the week's weekday Masses take (`inheritsOrationsFrom` in week-17/monday.json): en-US opening clauses, pt-BR first two lines joined, full stop added; verbatim otherwise",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 346–347 (colours: white in Easter Time, green in Ordinary Time; violet for penitential Masses for Various Needs)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-45.md."
+      }
+    ]
+  }
+}

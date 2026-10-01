@@ -85,6 +85,26 @@ describe('GET /churches (viewport + FTS)', () => {
     expect(ids).toEqual(['st-joseph-b'])
   })
 
+  it('ranks name matches nearest the given point first', async () => {
+    // "Saint" matches three churches; text rank alone ignores where you are.
+    const fromCenter = await app.request(
+      `/churches?q=Saint&near=${center.lat},${center.lng}`,
+      {},
+      env,
+    )
+    expect((await json(fromCenter)).churches.map((c) => c.id)).toEqual([
+      'st-mary-a',
+      'st-joseph-b',
+      'st-peter-c',
+    ])
+    const fromPeter = await app.request('/churches?q=Saint&near=40.05,-74.0', {}, env)
+    expect((await json(fromPeter)).churches.map((c) => c.id)).toEqual([
+      'st-peter-c',
+      'st-joseph-b',
+      'st-mary-a',
+    ])
+  })
+
   it('returns churches inside the viewport box and excludes far ones', async () => {
     const res = await app.request(`/churches?bbox=${nearBox}`, {}, env)
     expect(res.status).toBe(200)
