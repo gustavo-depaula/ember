@@ -1,4 +1,4 @@
-import { Stack } from 'expo-router'
+import { type NativeStackNavigationProp, Stack, useNavigation } from 'expo-router'
 import {
   BookMarked,
   BookOpen,
@@ -10,8 +10,9 @@ import {
   Sparkle,
 } from 'lucide-react-native'
 import type { ReactNode } from 'react'
-import { useCallback, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import type { SearchBarCommands } from 'react-native-screens'
 import { YStack } from 'tamagui'
 
 import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
@@ -43,12 +44,26 @@ export default function SearchScreen() {
 
   const isSearching = query.trim().length > 0
 
+  const searchBar = useRef<SearchBarCommands>(null)
+  const typed = useRef('')
   // Configure the native search bar once, not per keystroke: options recreated
   // on each render re-commit it, and on iOS 26 repeated reconfiguration makes
   // the field abandon its integrated bottom-bar slot and jump to the nav bar.
-  const onSearchChange = useCallback(
-    (e: { nativeEvent: { text: string } }) => setQuery(e.nativeEvent.text),
-    [],
+  const onSearchChange = useCallback((e: { nativeEvent: { text: string } }) => {
+    typed.current = e.nativeEvent.text
+    setQuery(e.nativeEvent.text)
+  }, [])
+  // Opening a result covers this screen, and on the way back UIKit empties the
+  // search field without a change event, leaving results under a blank field.
+  // Write the term back once the return transition ends: UIKit also wipes
+  // anything set earlier, on focus.
+  const navigation = useNavigation<NativeStackNavigationProp<Record<string, undefined>>>()
+  useEffect(
+    () =>
+      navigation.addListener('transitionEnd', (e) => {
+        if (!e.data.closing && typed.current) searchBar.current?.setText(typed.current)
+      }),
+    [navigation],
   )
   const screenOptions = useMemo(
     () => ({
@@ -64,6 +79,7 @@ export default function SearchScreen() {
         // Pin to the iOS 26 integrated placement so the field stays in the
         // bottom Liquid Glass bar instead of `automatic` drifting it to the top.
         placement: 'integrated' as const,
+        ref: searchBar,
         placeholder: t('nav.searchPlaceholder'),
         onChangeText: onSearchChange,
       },
