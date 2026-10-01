@@ -199,7 +199,9 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
         if item.get("id") != ff.stem:
             raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
         kept = {k: item[k] for k in spec["fields"] if k in item}
-        if "lifeChapter" in kept:
+        # `"reflection": false` keeps the chapter but not its reflection, for a card whose
+        # chapter reflects on someone the card leaves out (St. Vitus's, on Crescentia).
+        if "lifeChapter" in kept and item.get("reflection") is not False:
             reflection = _life_reflection(pid, item["id"], kept["lifeChapter"])
             if reflection:
                 kept["reflection"] = reflection

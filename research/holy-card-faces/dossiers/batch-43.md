@@ -26,7 +26,7 @@ Consulted material is in `../consult/batch-43/`:
 
 **lifeChapter.** `jun-15-sts-vitus-crescentia-and-modestus`, in both languages. It is the book's chapter of the three, and tells the legend of the nurse and her husband as fact.
 
-**The reflection is not solved by this file.** `scripts/build-corpus.py` copies the `**Reflection**` paragraph of a card's `lifeChapter` into the card, for every card that has one. This chapter has a Reflection in both languages, about the forming of an infant by a virtuous nurse, so as the build stands the card would ship with it. "His chapter but no reflection" needs the build to leave the reflection off this card (a field on the card, or a list in the script) before the card is accepted. Nothing in the batch schema can say it.
+**The reflection is left off by `"reflection": false`.** `scripts/build-corpus.py` copies the `**Reflection**` paragraph of a card's `lifeChapter` into the card unless the card says so; this chapter's reflection is about Crescentia, whom the card leaves out. `accept-batch.py` carries the field from the batch file to the card.
 
 **proper.** None. `sanctorale.06-15.german-speaking` ("Hl. Vitus (Veit), Märtyrer") is his, but has a German collect only; by the rule of batches 30 and 40 it is not set as `proper`. The other 15 June formulary is María Micaela (Spain).
 
@@ -45,7 +45,6 @@ Consulted material is in `../consult/batch-43/`:
 
 ## Doubts
 
-- **The reflection**, above: the build would still put the chapter's Reflection on the card.
 - **The excerpt is from the Common**, not his own. His German collect is the alternative, in our renderings.
 - **The age.** The oldest legend says seven, the Golden Legend twelve, and the pictures show anything from a child to a young man. The card says about twelve.
 - **The cauldron** is held as an attribute, not shown as the torment. If it reads oddly at card size, the palm and the cock alone are enough.
