@@ -30,7 +30,7 @@ export function FilterChips({
     <ScrollView
       horizontal
       showsHorizontalScrollIndicator={false}
-      contentContainerStyle={{ gap: 8, paddingHorizontal: 16 }}
+      contentContainerStyle={{ gap: 8, paddingHorizontal: 20 }}
     >
       {serviceKindOrder.map((kind) => (
         <Chip
@@ -86,7 +86,7 @@ function Chip({
         height={32}
         paddingHorizontal="$md"
         borderRadius={16}
-        backgroundColor={selected ? '$accent' : tile}
+        backgroundColor={selected ? '$color' : tile}
       >
         {icon}
         <Typography variant="interface" fontSize="$2" color={selected ? '$background' : '$color'}>

@@ -9,6 +9,7 @@ import type { ChurchDetail as ChurchDetailData } from '@/lib/mass-times'
 import { nextService, useChurch, wallClockNow, weeklySchedule } from '@/lib/mass-times'
 import {
   dayLabel,
+  daysAway,
   describeOtherRule,
   formatTimeOfDay,
   kindLabel,
@@ -18,9 +19,9 @@ import {
 import { CheckInButton } from './CheckInButton'
 import { ChurchFeedback } from './ChurchFeedback'
 import { FavoriteButton } from './FavoriteButton'
-import { MassReminderToggle } from './MassReminderToggle'
-import { Panel } from './Panel'
+import { useGlassTile } from './glass'
 import { QueryError } from './QueryError'
+import { clockFigures, Hairline, SectionLabel, SmallCaps } from './SheetType'
 
 type IconComponent = typeof Phone
 
@@ -48,10 +49,16 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
   const verified = data.lastVerifiedAt ? new Date(data.lastVerifiedAt) : undefined
 
   return (
-    <YStack gap="$lg">
+    <YStack gap={28}>
       <YStack gap="$xs">
         <XStack justifyContent="space-between" alignItems="flex-start" gap="$md">
-          <Typography variant="sacred-title" fontSize={26} textAlign="left" flexShrink={1}>
+          <Typography
+            variant="sacred-title"
+            fontSize={28}
+            lineHeight={34}
+            textAlign="left"
+            flexShrink={1}
+          >
             {data.longName ?? data.name}
           </Typography>
           <FavoriteButton
@@ -63,32 +70,54 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
             }}
           />
         </XStack>
-        {where ? <Typography variant="annotation">{where}</Typography> : null}
-        {next ? (
-          <Typography variant="interface" fontSize="$2" color="$accent">
-            {t('massTimes.nextMass')} · {dayLabel(next.occurrence.date, now, t, locale)}{' '}
-            {formatTimeOfDay(next.occurrence.startTime, locale)}
+        {where ? (
+          <Typography variant="annotation" fontSize="$2">
+            {where}
           </Typography>
+        ) : null}
+        {next ? (
+          <XStack alignItems="baseline" gap="$sm" paddingTop="$xs">
+            <Typography
+              variant="sacred-title"
+              fontSize={22}
+              lineHeight={28}
+              fontVariant={[...clockFigures]}
+            >
+              {formatTimeOfDay(next.occurrence.startTime, locale)}
+            </Typography>
+            <Typography variant="annotation" fontSize="$2" flexShrink={1}>
+              {t('massTimes.nextMass')} ·{' '}
+              <Typography
+                variant="annotation"
+                fontSize="$2"
+                color={daysAway(next.occurrence.date, now) <= 0 ? '$colorBurgundy' : undefined}
+              >
+                {dayLabel(next.occurrence.date, now, t, locale)}
+              </Typography>
+            </Typography>
+          </XStack>
         ) : null}
       </YStack>
 
-      <ContactActions church={data} />
+      <YStack gap="$sm">
+        <ContactActions church={data} />
+        <YStack>
+          <Hairline />
+          <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
+          <Hairline />
+        </YStack>
+      </YStack>
 
       {serviceKindOrder.map((kind) => (
         <WeeklySection key={kind} kind={kind} church={data} now={now} locale={locale} />
       ))}
-
-      <XStack gap="$sm" flexWrap="wrap" alignItems="flex-start">
-        <CheckInButton church={{ id: data.id, name: data.name }} locale={locale} />
-        <MassReminderToggle church={{ id: data.id, name: data.name }} services={data.services} />
-      </XStack>
 
       <ParishTexts church={data} />
 
       <ChurchFeedback churchId={data.id} />
 
       {verified ? (
-        <Typography variant="reference" tone="muted">
+        <Typography variant="caption">
           {t('massTimes.lastVerified', {
             date: verified.toLocaleDateString(locale, {
               year: 'numeric',
@@ -105,9 +134,10 @@ export function ChurchDetail({ churchId }: { churchId: string }) {
   )
 }
 
-// One service kind's standing week, bulletin-style: a row per weekday that has times, today's row in
-// accent with its already-past times dimmed, then the monthly/seasonal rules as footnotes. Hidden when
-// the church lists no structured times of this kind (the parish's own text below still has them).
+// One service kind's standing week, bulletin-style: a ruled row per weekday that has times — today's
+// day in rubric red with its already-past times dimmed — then the monthly/seasonal rules as italic
+// footnotes. Hidden when the church lists no structured times of this kind (the parish's own text
+// below still has them).
 function WeeklySection({
   kind,
   church,
@@ -128,61 +158,65 @@ function WeeklySection({
   const nowClock = `${String(now.getUTCHours()).padStart(2, '0')}:${String(now.getUTCMinutes()).padStart(2, '0')}`
 
   return (
-    <YStack gap="$sm">
-      <Typography variant="label">{kindLabel(kind, t)}</Typography>
-      <Panel gap="$sm">
-        {days.map(({ dow, times }) => {
+    <YStack>
+      <SectionLabel>{kindLabel(kind, t)}</SectionLabel>
+      <YStack paddingTop="$xs">
+        {days.map(({ dow, times }, i) => {
           const isToday = dow === today
           return (
-            <XStack key={dow} justifyContent="space-between" alignItems="baseline" gap="$md">
-              <Typography
-                variant="interface"
-                fontSize="$3"
-                color={isToday ? '$accent' : '$color'}
-                fontWeight={isToday ? '600' : '400'}
+            <YStack key={dow}>
+              {i > 0 ? <Hairline /> : null}
+              <XStack
+                justifyContent="space-between"
+                alignItems="baseline"
+                gap="$md"
+                paddingVertical={10}
               >
-                {weekdayName(dow, locale)}
-              </Typography>
-              <XStack flexShrink={1} flexWrap="wrap" justifyContent="flex-end" columnGap="$sm">
-                {times.map((time) => (
-                  <Typography
-                    key={time}
-                    variant="interface"
-                    fontSize="$3"
-                    color={isToday ? '$accent' : '$colorSecondary'}
-                    opacity={isToday && clock(time) < nowClock ? 0.4 : 1}
-                  >
-                    {formatTimeOfDay(time, locale)}
-                  </Typography>
-                ))}
+                <Typography
+                  variant="interface"
+                  fontSize="$3"
+                  color={isToday ? '$colorBurgundy' : '$color'}
+                >
+                  {weekdayName(dow, locale)}
+                </Typography>
+                <XStack flexShrink={1} flexWrap="wrap" justifyContent="flex-end" columnGap={12}>
+                  {times.map((time) => (
+                    <Typography
+                      key={time}
+                      variant="interface"
+                      fontSize="$2"
+                      fontVariant={[...clockFigures]}
+                      color={isToday ? '$color' : '$colorSecondary'}
+                      opacity={isToday && clock(time) < nowClock ? 0.4 : 1}
+                    >
+                      {formatTimeOfDay(time, locale)}
+                    </Typography>
+                  ))}
+                </XStack>
               </XStack>
-            </XStack>
+            </YStack>
           )
         })}
         {other.length > 0 ? (
-          <YStack
-            gap="$xs"
-            paddingTop={days.length > 0 ? '$sm' : 0}
-            borderTopWidth={days.length > 0 ? 1 : 0}
-            borderColor="$borderColor"
-          >
+          <YStack gap="$xs" paddingTop={days.length > 0 ? '$sm' : 0}>
+            {days.length > 0 ? <Hairline /> : null}
             {other.map((rule) => (
               <XStack
                 key={`${rule.kind}-${JSON.stringify(rule)}`}
                 justifyContent="space-between"
                 gap="$md"
               >
-                <Typography variant="annotation" flexShrink={1}>
+                <Typography variant="caption" fontSize="$2" flexShrink={1}>
                   {describeOtherRule(rule, t, locale)}
                 </Typography>
-                <Typography variant="annotation">
+                <Typography variant="caption" fontSize="$2" fontVariant={[...clockFigures]}>
                   {formatTimeOfDay(rule.startTime, locale)}
                 </Typography>
               </XStack>
             ))}
           </YStack>
         ) : null}
-      </Panel>
+      </YStack>
     </YStack>
   )
 }
@@ -199,20 +233,21 @@ function ParishTexts({ church }: { church: ChurchDetailData }) {
   if (texts.length === 0) return null
 
   return (
-    <YStack gap="$sm">
-      <Typography variant="label">{t('massTimes.asListed')}</Typography>
-      <Panel gap="$md">
+    <YStack gap="$md">
+      <SectionLabel>{t('massTimes.asListed')}</SectionLabel>
+      {/* The left rule marks these as the parish's own words, quoted — not our structured reading. */}
+      <YStack gap={18} borderLeftWidth={2} borderColor="$borderColor" paddingLeft={14}>
         {texts.map((text) => (
           <YStack key={`${text.kind}-${(text.rawText ?? '').slice(0, 12)}`} gap="$xs">
-            <Typography variant="reference" tone="muted">
+            <SmallCaps fontSize={10}>
               {t(`massTimes.textKind.${text.kind}`, { defaultValue: t('massTimes.information') })}
-            </Typography>
-            <Typography variant="interface" fontSize="$2">
+            </SmallCaps>
+            <Typography variant="interface" fontSize="$2" lineHeight={24}>
               {text.rawText}
             </Typography>
           </YStack>
         ))}
-      </Panel>
+      </YStack>
     </YStack>
   )
 }
@@ -268,6 +303,7 @@ function ContactButton({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
+  const tile = useGlassTile(true)
   const open = () => {
     void lightTap()
     // No mail account, no dialer (iPad), a malformed parish URL — say so rather than do nothing.
@@ -283,13 +319,14 @@ function ContactButton({
       accessibilityLabel={label}
     >
       <YStack
-        backgroundColor="$backgroundSurface"
-        borderRadius="$lg"
-        paddingVertical="$sm"
+        backgroundColor={tile}
+        borderRadius={12}
+        height={60}
+        justifyContent="center"
         alignItems="center"
         gap={4}
       >
-        <Icon size={20} color={theme.accent?.val} />
+        <Icon size={20} color={theme.color?.val} />
         <Typography variant="interface" fontSize="$1" numberOfLines={1}>
           {label}
         </Typography>

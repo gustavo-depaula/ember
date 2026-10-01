@@ -141,8 +141,8 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
   }
 }
 
-// Only the practice reminders — Mass and custody notifications share the OS schedule and must
-// survive the practice reschedule that runs on every launch.
+// Only the practice reminders — custody notifications share the OS schedule and must survive the
+// practice reschedule that runs on every launch.
 async function cancelAllPracticeReminders(): Promise<void> {
   if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
@@ -153,43 +153,13 @@ async function cancelAllPracticeReminders(): Promise<void> {
   }
 }
 
-// Recurring weekly reminders before a church's Masses. `weekday` is expo's 1=Sunday..7=Saturday.
-
-export type MassReminderSlot = { weekday: number; hour: number; minute: number }
-
-export async function scheduleMassReminders(
-  churchId: string,
-  churchName: string,
-  slots: MassReminderSlot[],
-  leadMinutes: number,
-): Promise<void> {
-  if (!Notifications) return
-  await cancelMassReminders(churchId)
-  const androidChannel = Platform.OS === 'android' ? { channelId: 'practice-reminders' } : {}
-  const content = {
-    title: i18n.t('massTimes.reminderTitle', { name: churchName }),
-    body: i18n.t('massTimes.reminderBody', { count: leadMinutes }),
-    data: { massReminderChurchId: churchId },
-  }
-  for (const slot of slots) {
-    await Notifications.scheduleNotificationAsync({
-      content,
-      trigger: {
-        type: Notifications.SchedulableTriggerInputTypes.WEEKLY,
-        weekday: slot.weekday,
-        hour: slot.hour,
-        minute: slot.minute,
-        ...androidChannel,
-      },
-    })
-  }
-}
-
-export async function cancelMassReminders(churchId: string): Promise<void> {
+// Mass Times once scheduled weekly reminders before every Mass at a church; the feature is gone, but
+// the OS keeps repeating whatever a phone registered until something cancels it.
+export async function cancelRetiredMassReminders(): Promise<void> {
   if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const notification of scheduled) {
-    if (notification.content.data?.massReminderChurchId === churchId) {
+    if (notification.content.data?.massReminderChurchId) {
       await Notifications.cancelScheduledNotificationAsync(notification.identifier)
     }
   }

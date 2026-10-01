@@ -1,13 +1,16 @@
 import type { ServiceKind } from '@ember/api'
 import { useTranslation } from 'react-i18next'
+import { YStack } from 'tamagui'
 import { Typography } from '@/components'
 import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, wallClockNow } from '@/lib/mass-times'
-import { dayLabel, formatDistanceKm, formatTimeOfDay, kindLabel } from '../format'
+import { daysAway, formatDistanceKm, formatTimeOfDay, shortDayLabel } from '../format'
 import { ChurchRow } from './ChurchRow'
+import { clockFigures, SmallCaps } from './SheetType'
 
-// One church in the nearby list: name and distance, its next upcoming service (Mass by default, or
-// the filtered kind) as the accent line, then the address, muted.
+// One church in the nearby list, timetable-style: its next service (Mass, or the filtered kind) leads
+// as a time column so the list scans by "when" before "where". Today's times stand in full ink with
+// the day in rubric red; later days recede to grey.
 export function ChurchListItem({
   church,
   locale,
@@ -22,7 +25,7 @@ export function ChurchListItem({
   const { t } = useTranslation()
   const now = wallClockNow(church.timezone)
   const upcoming = nextService(church.services, { timezone: church.timezone, kind, now })
-  const nextLabel = kind === 'mass' ? t('massTimes.nextMass') : kindLabel(kind, t)
+  const isToday = upcoming ? daysAway(upcoming.occurrence.date, now) <= 0 : false
   const where = church.address ?? church.city
 
   return (
@@ -31,14 +34,28 @@ export function ChurchListItem({
       trailing={
         church.distanceKm === undefined ? undefined : formatDistanceKm(church.distanceKm, locale)
       }
+      leading={
+        <YStack width={timeColumnWidth(locale)} gap={2}>
+          <Typography
+            variant="sacred-title"
+            textAlign="left"
+            fontSize={22}
+            lineHeight={26}
+            fontVariant={[...clockFigures]}
+            color={isToday ? '$color' : '$colorSecondary'}
+          >
+            {upcoming ? formatTimeOfDay(upcoming.occurrence.startTime, locale) : '—'}
+          </Typography>
+          {upcoming ? (
+            <SmallCaps fontSize={10} color={isToday ? '$colorBurgundy' : '$colorSecondary'}>
+              {shortDayLabel(upcoming.occurrence.date, now, t, locale)}
+            </SmallCaps>
+          ) : null}
+        </YStack>
+      }
       onPress={() => onSelect(church)}
     >
-      {upcoming ? (
-        <Typography variant="interface" fontSize="$2" color="$accent" numberOfLines={1}>
-          {nextLabel} · {dayLabel(upcoming.occurrence.date, now, t, locale)}{' '}
-          {formatTimeOfDay(upcoming.occurrence.startTime, locale)}
-        </Typography>
-      ) : (
+      {upcoming ? null : (
         <Typography variant="annotation" numberOfLines={1}>
           {church.services.length > 0 ? t('massTimes.noUpcoming') : t('massTimes.notListed')}
         </Typography>
@@ -50,4 +67,9 @@ export function ChurchListItem({
       ) : null}
     </ChurchRow>
   )
+}
+
+// Wide enough for the locale's clock: "18:30" in a 24-hour locale, "06:30 PM" in a 12-hour one.
+function timeColumnWidth(locale: string): number {
+  return formatTimeOfDay('18:30', locale).length > 5 ? 96 : 64
 }
