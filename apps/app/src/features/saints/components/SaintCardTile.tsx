@@ -34,7 +34,7 @@ export function SaintCardTile({
         borderColor={collected ? '$accent' : '$borderColor'}
       >
         {collected ? (
-          <Image source={saint.cardImage} style={styles.fill} contentFit="cover" />
+          <Image source={saint.cardThumb} style={styles.fill} contentFit="cover" />
         ) : (
           <>
             <Image source={cardFrame} style={styles.silhouette} contentFit="cover" />

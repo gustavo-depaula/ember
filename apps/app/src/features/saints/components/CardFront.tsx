@@ -71,7 +71,14 @@ export function CardFront({
       borderWidth={2}
       borderColor="$accent"
     >
-      <Image source={saint.cardImage} style={styles.image} contentFit="cover" />
+      {/* The tile's small copy is already cached, and holds the place while the full card loads. */}
+      <Image
+        source={saint.cardImage}
+        placeholder={saint.cardThumb}
+        placeholderContentFit="cover"
+        style={styles.image}
+        contentFit="cover"
+      />
       <HolographicOverlay
         cardWidth={cardWidth}
         cardHeight={cardHeight}

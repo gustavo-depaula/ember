@@ -18,7 +18,7 @@ const flourishLight = require('../../../../assets/textures/notch_explore_light.p
 const flourishAspect = 2172 / 438
 const flourishLightAspect = 2143 / 416
 
-const groupings: SaintGrouping[] = ['calendar', 'collected', 'alpha']
+const groupings: SaintGrouping[] = ['collected', 'calendar', 'alpha']
 
 export function SaintsGalleryHeader({
   saints,
@@ -90,7 +90,7 @@ export function SaintsGalleryHeader({
           selectedIndex={groupings.indexOf(grouping)}
           onChange={(e) => {
             selectionTick()
-            onGrouping(groupings[e.nativeEvent.selectedSegmentIndex] ?? 'calendar')
+            onGrouping(groupings[e.nativeEvent.selectedSegmentIndex] ?? 'collected')
           }}
         />
       </YStack>

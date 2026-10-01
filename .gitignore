@@ -74,6 +74,7 @@ apps/app/android
 # Generated hearth assets (build:hearth output)
 content/catechism/
 content/saints/*.webp
+content/saints/thumbs/
 
 # Python bytecode caches
 __pycache__/

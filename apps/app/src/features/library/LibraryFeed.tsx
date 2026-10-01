@@ -82,6 +82,11 @@ export function LibraryFeed() {
     router.push({ pathname: '/browse/[collectionId]', params: { collectionId: bareId(id) } })
   const goPractice = (id: string) =>
     router.push({ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } })
+  // The gallery first, so closing the card lands on it rather than back here.
+  const goCard = (id: string) => {
+    router.push('/saints')
+    router.push({ pathname: '/saints/[index]', params: { index: id } })
+  }
 
   return (
     <>
@@ -164,17 +169,17 @@ export function LibraryFeed() {
       )}
 
       {holyCards.length > 0 && (
-        <ArtCarousel title={t('library.holyCards')}>
+        <ArtCarousel title={t('library.holyCards')} href="/saints">
           {holyCards.map((s) => (
             <ArtCoverCard
               key={s.id}
               title={s.name}
-              image={s.cardImage}
+              image={s.cardThumb}
               tone={toneForKey(s.id)}
               size={120}
               aspectRatio={1.5}
               radius={4}
-              onPress={() => router.push('/saints')}
+              onPress={() => goCard(s.id)}
             />
           ))}
         </ArtCarousel>

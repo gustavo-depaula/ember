@@ -15,6 +15,16 @@ fi
 count=0
 find "$TARGET" -name '*.png' | while IFS= read -r f; do
   cwebp -q 85 "$f" -o "${f%.png}.webp" -quiet
+  # A holy card also gets a small copy for gallery tiles and carousels, which
+  # would otherwise download the full 1024px card to draw it 120pt wide.
+  dir=$(dirname "$f")
+  if [ "$(basename "$dir")" = saints ]; then
+    thumb="$dir/thumbs/$(basename "${f%.png}").webp"
+    if [ ! -f "$thumb" ] || [ "$f" -nt "$thumb" ]; then
+      mkdir -p "$dir/thumbs"
+      cwebp -q 80 -resize 384 0 "$f" -o "$thumb" -quiet
+    fi
+  fi
   count=$((count + 1))
 done
 

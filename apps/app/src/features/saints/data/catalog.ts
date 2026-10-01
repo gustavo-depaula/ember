@@ -23,6 +23,8 @@ export type SaintEntry = {
   reflection?: string
   /** The card's art, shown once a copy is held. */
   cardImage: ImageSource
+  /** The same art at tile size, for the gallery and carousels. */
+  cardThumb: ImageSource
   patronOf?: string
   prayerExcerpt?: string
   /** The saint's Mass formulary ref, whose collect is the card's prayer. */
@@ -32,6 +34,10 @@ export type SaintEntry = {
 
 function cardImage(id: string): ImageSource {
   return { uri: hearthAssetUrl(`saints/${id}.webp`) }
+}
+
+function cardThumb(id: string): ImageSource {
+  return { uri: hearthAssetUrl(`saints/thumbs/${id}.webp`) }
 }
 
 // One formatter per build: Intl constructors are slow on Hermes.
@@ -63,6 +69,7 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
       lifeChapter: c.lifeChapter,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),
+      cardThumb: cardThumb(c.id),
       patronOf: c.patronOf ? localizeContent(c.patronOf) : undefined,
       prayerExcerpt: c.prayerExcerpt ? localizeContent(c.prayerExcerpt) : undefined,
       proper: c.proper,
