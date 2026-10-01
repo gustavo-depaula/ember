@@ -123,8 +123,10 @@ export default function AllBooksScreen() {
           </YStack>
         }
         initialNumToRender={12}
+        // windowSize alone bounds what is mounted. No removeClippedSubviews:
+        // on iOS it detaches a row while its lower part is still on screen,
+        // leaving a blank band at the top of the shelf.
         windowSize={5}
-        removeClippedSubviews
         showsVerticalScrollIndicator={false}
       />
     </YStack>
