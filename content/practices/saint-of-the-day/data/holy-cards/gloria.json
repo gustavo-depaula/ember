@@ -1,0 +1,40 @@
+{
+  "id": "gloria",
+  "name": {
+    "en-US": "Gloria",
+    "pt-BR": "Glória"
+  },
+  "patronOf": {
+    "en-US": "The Church's ancient hymn of praise",
+    "pt-BR": "O antigo hino de louvor da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "Glory to God in the highest, and on earth peace to people of good will.",
+    "pt-BR": "Glória a Deus nas alturas, e paz na terra aos homens por ele amados."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Gloria is sung by all standing on Sundays outside Advent and Lent and on solemnities and feasts (GIRM 43, 53, 126), so the card is a feast: six candles (GIRM 117), flowers around the altar rather than on it (GIRM 305). Its opening words are the angels' song at Bethlehem (Luke 2:14), painted as a fresco in the church's vault rather than as a vision.",
+    "excerpt": "content/of/order/order-of-mass.json order.gloria (first two lines, joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 53 (standing; the Gloria and when it is said)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 117, 126 (candles; the Gloria)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Gloria (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "second_reading",
+  "name": {
+    "en-US": "Second Reading",
+    "pt-BR": "Segunda Leitura"
+  },
+  "patronOf": {
+    "en-US": "The voice of the Apostles",
+    "pt-BR": "A voz dos Apóstolos"
+  },
+  "prayerExcerpt": {
+    "en-US": "A reading from the first Letter of Saint Paul to the Corinthians.",
+    "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Second Reading is proclaimed from the ambo by a reader, all seated and listening, with the same acclamation as the first (GIRM 130, 43); on Sundays it is from the Apostle, here Paul's First Letter to the Corinthians (Second Sunday, Year C), whence the carved St. Paul with his sword and book. The reader is a layman in ordinary dress, against the alb of the First Reading.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json readings.C.secondReading introduction (full stop added; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 130, 196 (the Second Reading; the reader)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 2, nos. 43, 59 (sitting for the readings; readers)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Second Sunday in Ordinary Time, Year C, Second Reading (content/of/formularies/tempore/ordinary-time/week-2/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-2/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

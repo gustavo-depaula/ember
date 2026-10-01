@@ -1,0 +1,44 @@
+{
+  "id": "responsorial_psalm",
+  "name": {
+    "en-US": "Responsorial Psalm",
+    "pt-BR": "Salmo Responsorial"
+  },
+  "patronOf": {
+    "en-US": "The people answer the Word in song",
+    "pt-BR": "O povo responde à Palavra cantando"
+  },
+  "prayerExcerpt": {
+    "en-US": "We are his people: the sheep of his flock.",
+    "pt-BR": "Nós somos o povo e o rebanho do Senhor."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The psalmist sings the verses at the ambo 'while the whole congregation sits and listens, normally taking part by means of the response' (GIRM 61, 129, 309); the card is on the people, whose part the response is.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-11/sunday.json readings.A.psalm response (Psalm 100; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 61 (the Responsorial Psalm)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 129 (the psalmist and the people's response)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 309–310 (the ambo; the priest's chair facing the people)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Eleventh Sunday in Ordinary Time, Year A, Responsorial Psalm (content/of/formularies/tempore/ordinary-time/week-11/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-11/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}

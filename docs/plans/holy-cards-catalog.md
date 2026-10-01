@@ -19,10 +19,10 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Angels | 4 | 4 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
-| Parts of the Mass | 29 | 1 |
+| Parts of the Mass | 29 | 11 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 615 cards, 412 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 422 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -630,8 +630,8 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 
 ## Parts of the Mass
 
-**Introductory Rites** — [x] Entrance and Sign of the Cross — `entrance` · [ ] Greeting · [ ] Penitential Act · [ ] Kyrie · [ ] Gloria · [ ] Collect
-**Liturgy of the Word** — [ ] First Reading · [ ] Responsorial Psalm · [ ] Second Reading · [ ] Gospel Acclamation · [ ] Gospel · [ ] Homily · [ ] Profession of Faith · [ ] Universal Prayer
+**Introductory Rites** — [x] Entrance and Sign of the Cross — `entrance` · [x] Greeting — `greeting` · [x] Penitential Act — `penitential_act` · [x] Kyrie — `kyrie` · [x] Gloria — `gloria` · [x] Collect — `collect`
+**Liturgy of the Word** — [x] First Reading — `first_reading` · [x] Responsorial Psalm — `responsorial_psalm` · [x] Second Reading — `second_reading` · [x] Gospel Acclamation — `gospel_acclamation` · [x] Gospel — `gospel` · [ ] Homily · [ ] Profession of Faith · [ ] Universal Prayer
 **Liturgy of the Eucharist** — [ ] Preparation of the Gifts · [ ] Prayer over the Offerings · [ ] Preface Dialogue and Preface · [ ] Sanctus · [ ] Epiclesis · [ ] Consecration · [ ] Mystery of Faith · [ ] Doxology and Great Amen
 **Communion Rite** — [ ] The Lord's Prayer · [ ] Sign of Peace · [ ] Agnus Dei and the Fraction · [ ] Communion · [ ] Prayer after Communion
 **Concluding Rites** — [ ] Blessing · [ ] Dismissal

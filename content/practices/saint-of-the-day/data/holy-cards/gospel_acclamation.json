@@ -1,0 +1,40 @@
+{
+  "id": "gospel_acclamation",
+  "name": {
+    "en-US": "Gospel Acclamation",
+    "pt-BR": "Aclamação ao Evangelho"
+  },
+  "patronOf": {
+    "en-US": "We greet the Lord who is about to speak",
+    "pt-BR": "Saudamos o Senhor que vai falar"
+  },
+  "prayerExcerpt": {
+    "en-US": "Alleluia, alleluia. Speak, O Lord, your servant is listening; you have the words of everlasting life. Alleluia.",
+    "pt-BR": "Aleluia, aleluia. Fala, Senhor, que te escuta teu servo! Tu tens palavras de vida eterna! Aleluia."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Alleluia is sung by everybody, standing, led by a cantor or choir (GIRM 62, 131); meanwhile the priest puts incense in the thurible and, 'with hands joined, bows profoundly before the altar' saying Munda cor meum, then takes up the Book of the Gospels from the altar, the candles and thurible going before him (GIRM 132–133).",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-13/sunday.json readings.C.gospelAcclamation verse (whole, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 62 (the Acclamation before the Gospel)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 131–133 (all rise; Munda cor meum; the Book of the Gospels taken from the altar)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Thirteenth Sunday in Ordinary Time, Year C, Gospel Acclamation (content/of/formularies/tempore/ordinary-time/week-13/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-13/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-46.md."
+      }
+    ]
+  }
+}
