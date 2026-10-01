@@ -19,10 +19,10 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Angels | 4 | 4 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
-| Parts of the Mass | 29 | 11 |
+| Parts of the Mass | 29 | 21 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 615 cards, 422 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 432 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -631,8 +631,8 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 ## Parts of the Mass
 
 **Introductory Rites** — [x] Entrance and Sign of the Cross — `entrance` · [x] Greeting — `greeting` · [x] Penitential Act — `penitential_act` · [x] Kyrie — `kyrie` · [x] Gloria — `gloria` · [x] Collect — `collect`
-**Liturgy of the Word** — [x] First Reading — `first_reading` · [x] Responsorial Psalm — `responsorial_psalm` · [x] Second Reading — `second_reading` · [x] Gospel Acclamation — `gospel_acclamation` · [x] Gospel — `gospel` · [ ] Homily · [ ] Profession of Faith · [ ] Universal Prayer
-**Liturgy of the Eucharist** — [ ] Preparation of the Gifts · [ ] Prayer over the Offerings · [ ] Preface Dialogue and Preface · [ ] Sanctus · [ ] Epiclesis · [ ] Consecration · [ ] Mystery of Faith · [ ] Doxology and Great Amen
+**Liturgy of the Word** — [x] First Reading — `first_reading` · [x] Responsorial Psalm — `responsorial_psalm` · [x] Second Reading — `second_reading` · [x] Gospel Acclamation — `gospel_acclamation` · [x] Gospel — `gospel` · [x] Homily — `homily` · [x] Profession of Faith — `profession_of_faith` · [x] Universal Prayer — `universal_prayer`
+**Liturgy of the Eucharist** — [x] Preparation of the Gifts — `preparation_of_gifts` · [x] Prayer over the Offerings — `prayer_over_offerings` · [x] Preface Dialogue and Preface — `preface` · [x] Sanctus — `sanctus` · [x] Epiclesis — `epiclesis` · [x] Consecration — `consecration` · [x] Mystery of Faith — `mystery_of_faith` · [ ] Doxology and Great Amen
 **Communion Rite** — [ ] The Lord's Prayer · [ ] Sign of Peace · [ ] Agnus Dei and the Fraction · [ ] Communion · [ ] Prayer after Communion
 **Concluding Rites** — [ ] Blessing · [ ] Dismissal
 

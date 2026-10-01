@@ -1,0 +1,40 @@
+{
+  "id": "universal_prayer",
+  "name": {
+    "en-US": "Universal Prayer",
+    "pt-BR": "Oração Universal"
+  },
+  "patronOf": {
+    "en-US": "The faithful pray for the whole world",
+    "pt-BR": "Os fiéis rezam pelo mundo inteiro"
+  },
+  "prayerExcerpt": {
+    "en-US": "For the holy Church of God: that the Lord may guide and protect it. Lord hear us. Lord, graciously hear us.",
+    "pt-BR": "Pela santa Igreja de Deus, para que ele a proteja e sustente, rezemos ao Senhor. Senhor, atendei-nos."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest, 'standing at the chair with his hands joined', introduces the prayer; 'the cantor, the reader, or another person announces the intentions from the ambo or from some other suitable place while facing the people', who stand and reply (GIRM 138, 71, 43). The reader is one of the lay faithful (GIRM 71).",
+    "excerpt": "content/of/order/order-of-mass.json order.universal-prayer, General Formula I, the first intention and the people's reply (the numeral and ℟. dropped, lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 69–71 (standing; the Universal Prayer, its intentions, who announces them)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 138 (the priest at the chair; the intentions from the ambo, facing the people)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Universal Prayer (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-47.md."
+      }
+    ]
+  }
+}
