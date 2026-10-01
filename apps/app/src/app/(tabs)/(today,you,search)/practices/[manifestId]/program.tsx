@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { format, parseISO } from 'date-fns'
+import { differenceInCalendarDays, format, parseISO } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo } from 'react'
@@ -21,7 +21,11 @@ import {
   useProgramProgress,
   useRestartProgram,
 } from '@/features/plan-of-life'
-import { computeAllDayStates, type DayState } from '@/features/plan-of-life/program'
+import {
+  computeAllDayStates,
+  type DayState,
+  settledAfterDays,
+} from '@/features/plan-of-life/program'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
@@ -206,17 +210,30 @@ export default function ProgramDetailScreen() {
   const canOpen = !shouldPromptRestart && !progress.isProjection
   const needsRestart = shouldPromptRestart && !isComplete && !progress.isProjection
   const todayStr = format(today, 'yyyy-MM-dd')
-  // A day is prayed on its date. Ahead of it the day can be read, not prayed;
-  // a program that restarts on a miss can't make one up afterwards either.
-  const readOnlyDay = (i: number) => {
+  // A day is prayed on its date; ahead of it, it can only be read. A missed day
+  // can still be prayed late while the program is under way, and counts for
+  // its own date. A program that restarts on a miss can't make one up, and a
+  // day already prayed isn't prayed again. A program that waits has no dates
+  // of its own — its days are prayed in turn.
+  const lastDate = dates.at(-1)
+  const lateStillOpen =
+    !!lastDate && differenceInCalendarDays(today, parseISO(lastDate)) <= settledAfterDays
+  const dayMode = (i: number): 'pray' | 'late' | 'read' => {
     const date = dates[i]
-    if (!date) return false
-    return date > todayStr || (progress.policy === 'restart' && date < todayStr)
+    if (!date || date === todayStr) return 'pray'
+    if (date > todayStr) return 'read'
+    if (progress.policy === 'wait') return 'pray'
+    return progress.policy === 'continue' && states[i].isMissed && lateStillOpen ? 'late' : 'read'
   }
-  const openDay = (i: number, read = readOnlyDay(i)) =>
+  const openDay = (i: number, mode = dayMode(i)) =>
     router.push({
       pathname: '/pray/[practiceId]',
-      params: { practiceId: manifest.id, programDay: String(i), ...(read ? { read: '1' } : {}) },
+      params: {
+        practiceId: manifest.id,
+        programDay: String(i),
+        ...(mode === 'read' ? { read: '1' } : {}),
+        ...(mode === 'late' ? { dayDate: dates[i] } : {}),
+      },
     })
   const fullDate = (date: string, pattern: string) => formatLocalized(parseISO(date), t(pattern))
   const nextDate = dates[programDay] && dates[programDay] > todayStr ? dates[programDay] : undefined
@@ -302,7 +319,7 @@ export default function ProgramDetailScreen() {
                 <DatePill label={fullDate(nextDate, 'program.dayDateFormat')} />
                 <FootLink
                   label={t('program.readAhead')}
-                  onPress={() => openDay(programDay, true)}
+                  onPress={() => openDay(programDay, 'read')}
                 />
               </>
             ) : null}
