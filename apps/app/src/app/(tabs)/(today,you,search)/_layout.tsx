@@ -33,7 +33,7 @@ export default function TabStackLayout() {
         headerShown: false,
         // Paints the background so no white flash peeks mid-slide.
         contentStyle: { backgroundColor: theme.background?.val },
-        hidesBottomBarWhenPushed: fullScreenRoutes.has(route.name),
+        unstable_nativeProps: { hidesBottomBarWhenPushed: fullScreenRoutes.has(route.name) },
       })}
     />
   )

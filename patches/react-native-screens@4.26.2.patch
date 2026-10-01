@@ -1,8 +1,8 @@
 diff --git a/ios/RNSScreen.h b/ios/RNSScreen.h
-index 232824844177bc85ad56a88f661441d8a5d776ef..dd8ae166b8d378941ecc2bbd64cfd31e2116da6a 100644
+index b1f482c..225ae68 100644
 --- a/ios/RNSScreen.h
 +++ b/ios/RNSScreen.h
-@@ -107,6 +107,7 @@ NS_ASSUME_NONNULL_BEGIN
+@@ -105,6 +105,7 @@ NS_ASSUME_NONNULL_BEGIN
  @property (nonatomic) UIInterfaceOrientationMask screenOrientation;
  @property (nonatomic) BOOL statusBarHidden;
  @property (nonatomic) BOOL homeIndicatorHidden;
@@ -11,10 +11,10 @@ index 232824844177bc85ad56a88f661441d8a5d776ef..dd8ae166b8d378941ecc2bbd64cfd31e
  // Props controlling UISheetPresentationController
  @property (nonatomic) NSArray<NSNumber *> *sheetAllowedDetents;
 diff --git a/ios/RNSScreen.mm b/ios/RNSScreen.mm
-index 69d4d9a4704a7bef3fa207de2dbb2d5119846ccb..292af5e0e27a3d679bfce2e4b00a37090612271a 100644
+index 9b66012..031c8e0 100644
 --- a/ios/RNSScreen.mm
 +++ b/ios/RNSScreen.mm
-@@ -1324,6 +1324,8 @@ - (void)updateProps:(react::Props::Shared const &)props oldProps:(react::Props::
+@@ -1283,6 +1283,8 @@ - (void)updateProps:(react::Props::Shared const &)props oldProps:(react::Props::
      [self setHomeIndicatorHidden:newScreenProps.homeIndicatorHidden];
    }
  
@@ -24,10 +24,10 @@ index 69d4d9a4704a7bef3fa207de2dbb2d5119846ccb..292af5e0e27a3d679bfce2e4b00a3709
    [self setSheetCornerRadius:newScreenProps.sheetCornerRadius];
    [self setSheetExpandsWhenScrolledToEdge:newScreenProps.sheetExpandsWhenScrolledToEdge];
 diff --git a/ios/RNSScreenStack.mm b/ios/RNSScreenStack.mm
-index bfd0a519a09eb346dfd687fe2feb0b5489d34c32..18795d2dcf91f26fbe45c854f007d82afc0ceb41 100644
+index 192f5d2..e7804db 100644
 --- a/ios/RNSScreenStack.mm
 +++ b/ios/RNSScreenStack.mm
-@@ -259,6 +259,83 @@ - (void)navigationController:(UINavigationController *)navigationController
+@@ -252,6 +252,83 @@ - (void)navigationController:(UINavigationController *)navigationController
    [RNSScreenStackHeaderConfig willShowViewController:viewController
                                              animated:animated
                                            withConfig:screenView.findHeaderConfig];
@@ -111,8 +111,25 @@ index bfd0a519a09eb346dfd687fe2feb0b5489d34c32..18795d2dcf91f26fbe45c854f007d82a
  }
  
  - (void)presentationControllerDidDismiss:(UIPresentationController *)presentationController
+diff --git a/lib/typescript/types.d.ts b/lib/typescript/types.d.ts
+index 10a3134..0185374 100644
+--- a/lib/typescript/types.d.ts
++++ b/lib/typescript/types.d.ts
+@@ -142,6 +142,12 @@ export interface ScreenProps extends ViewProps {
+      * @platform ios
+      */
+     homeIndicatorHidden?: boolean | undefined;
++    /**
++     * Hides the enclosing tab bar while this screen is on top of its stack.
++     *
++     * @platform ios
++     */
++    hidesBottomBarWhenPushed?: boolean;
+     /**
+      * Whether the keyboard should hide when swiping to the previous screen. Defaults to `false`.
+      *
 diff --git a/src/fabric/ScreenNativeComponent.ts b/src/fabric/ScreenNativeComponent.ts
-index fa037c92188deabbb1098243dd821fa855dda3bf..b943df800c2e23430a24f5760adce8ccf163d0ac 100644
+index 4fa781c..d986d61 100644
 --- a/src/fabric/ScreenNativeComponent.ts
 +++ b/src/fabric/ScreenNativeComponent.ts
 @@ -97,6 +97,7 @@ export interface NativeProps extends ViewProps {
@@ -124,7 +141,7 @@ index fa037c92188deabbb1098243dd821fa855dda3bf..b943df800c2e23430a24f5760adce8cc
    gestureEnabled?: CT.WithDefault<boolean, true>;
    statusBarColor?: ColorValue | undefined;
 diff --git a/src/types.tsx b/src/types.tsx
-index 76a83f3acb6fd3f0af7f027798848b7124100286..8da4e006b865dbbbfe526a23408a1f70a790c95e 100644
+index 9c3ab4c..a77ec02 100644
 --- a/src/types.tsx
 +++ b/src/types.tsx
 @@ -218,6 +218,15 @@ export interface ScreenProps extends ViewProps {

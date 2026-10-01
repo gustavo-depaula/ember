@@ -104,6 +104,9 @@ export function DayCarousel({
     [minOffset],
   )
 
+  // Pulled out of `days`: a worklet copies everything it captures to the UI
+  // thread, and worklets refuses to copy the `Date`s in `days.dateObjs`.
+  const dates = days.dates
   useAnimatedReaction(
     () => {
       const idx = Math.round(-offsetX.value / itemSize)
@@ -113,12 +116,12 @@ export function DayCarousel({
       if (previous === null || current === previous) return
       runOnJS(lightTap)()
       runOnJS(setAwayDir)(current === todayIndex ? false : current < todayIndex ? 'future' : 'past')
-      const date = days.dates[current]
+      const date = dates[current]
       if (date) {
         runOnJS(onSelectDate)(date)
       }
     },
-    [days.dates, onSelectDate],
+    [dates, onSelectDate],
   )
 
   const accentColor = theme.accent.val

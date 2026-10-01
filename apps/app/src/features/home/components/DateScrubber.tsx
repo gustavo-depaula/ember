@@ -88,8 +88,10 @@ export function DateScrubber({
     [minOffset],
   )
 
+  // Reads `keys`, not `days`: a worklet copies everything it captures to the UI
+  // thread, and worklets refuses to copy a `Date`.
   useAnimatedReaction(
-    () => clamp(Math.round(-offsetX.value / itemSize), 0, days.length - 1),
+    () => clamp(Math.round(-offsetX.value / itemSize), 0, keys.length - 1),
     (current, previous) => {
       if (previous === null || current === previous) return
       runOnJS(lightTap)()
