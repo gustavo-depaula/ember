@@ -11,7 +11,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 6 |
 | Saints with a card but no universal feast | 3 | 3 |
-| Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 10 |
+| Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 20 |
 | Saints of the Pictorial Lives (Saint of the Day) | 245 | 95 |
 | Feasts of the Lord and the Church | 23 | 5 |
 | Our Lady | 18 | 6 |
@@ -21,7 +21,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 606 cards, 365 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 606 cards, 375 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -261,16 +261,16 @@ Canonized 2022–2025 (none yet in 2026), with the memorial the Dicastery for th
 - [x] 15 Apr · St. César de Bus · *São César de Bus* · canonized — `cesar_de_bus`
 - [x] 3 May · St. Marie-Léonie Paradis · *Santa Maria Leônia Paradis* · canonized — `marie_leonie_paradis`
 - [x] 9 May · St. Carmen Rendiles · *Santa Carmen Rendiles* · canonized — `carmen_rendiles`
-- [ ] 22 May · St. Luigi Maria Palazzolo · *São Luís Maria Palazzolo* · canonized
-- [ ] 1 Jun · St. Giovanni Battista Scalabrini · *São João Batista Scalabrini* · canonized
-- [ ] 11 Jun · St. Ignatius Maloyan · *Santo Inácio Maloyan* · canonized
-- [ ] 4 Jul · St. Pier Giorgio Frassati · *São Pier Giorgio Frassati* · canonized
-- [ ] 7 Jul · St. Peter To Rot · *São Pedro To Rot* · canonized
-- [ ] 10 Jul · The Martyrs of Damascus (St. Manuel Ruiz López and companions, the Massabki brothers) · *Mártires de Damasco (São Manuel Ruiz López e companheiros, os irmãos Massabki)* · canonized
-- [ ] 17 Jul · The Carmelite Martyrs of Compiègne · *Mártires Carmelitas de Compiègne* · canonized
-- [ ] 26 Jul · St. Titus Brandsma · *São Tito Brandsma* · canonized
-- [ ] 2 Aug · St. Giustino Russolillo · *São Justino Russolillo* · canonized
-- [ ] 6 Aug · St. Maria Francesca of Jesus Rubatto · *Santa Maria Francisca de Jesus Rubatto* · canonized
+- [x] 22 May · St. Luigi Maria Palazzolo · *São Luís Maria Palazzolo* · canonized — `luigi_maria_palazzolo`
+- [x] 1 Jun · St. Giovanni Battista Scalabrini · *São João Batista Scalabrini* · canonized — `giovanni_battista_scalabrini`
+- [x] 11 Jun · St. Ignatius Maloyan · *Santo Inácio Maloyan* · canonized — `ignatius_maloyan`
+- [x] 4 Jul · St. Pier Giorgio Frassati · *São Pier Giorgio Frassati* · canonized — `pier_giorgio_frassati`
+- [x] 7 Jul · St. Peter To Rot · *São Pedro To Rot* · canonized — `peter_to_rot`
+- [x] 10 Jul · The Martyrs of Damascus (St. Manuel Ruiz López and companions, the Massabki brothers) · *Mártires de Damasco (São Manuel Ruiz López e companheiros, os irmãos Massabki)* · canonized — `damascus_martyrs`
+- [x] 17 Jul · The Carmelite Martyrs of Compiègne · *Mártires Carmelitas de Compiègne* · canonized — `compiegne_martyrs`
+- [x] 26 Jul · St. Titus Brandsma · *São Tito Brandsma* · canonized — `titus_brandsma`
+- [x] 2 Aug · St. Giustino Russolillo · *São Justino Russolillo* · canonized — `giustino_russolillo`
+- [x] 6 Aug · St. Maria Francesca of Jesus Rubatto · *Santa Maria Francisca de Jesus Rubatto* · canonized — `maria_francesca_rubatto`
 - [ ] 25 Aug · St. Maria Troncatti · *Santa Maria Troncatti* · canonized
 - [ ] 5 Oct · St. Bartolo Longo · *São Bártolo Longo* · canonized
 - [ ] 12 Oct · St. Carlo Acutis · *São Carlo Acutis* · canonized

@@ -1,0 +1,44 @@
+{
+  "id": "ignatius_maloyan",
+  "feast": {
+    "month": 6,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Ignatius Maloyan",
+    "pt-BR": "Santo Inácio Maloyan"
+  },
+  "patronOf": {
+    "en-US": "Archbishop and martyr",
+    "pt-BR": "Arcebispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"God is not pleased that I should deny Jesus my Saviour. To shed my blood for my faith is the most ardent desire of my heart.\"",
+    "pt-BR": "\"Não agrada a Deus que eu renegue Jesus, meu Salvador. Derramar o meu sangue pela minha fé é o desejo mais vivo do meu coração.\""
+  },
+  "meta": {
+    "face": "An Armenian archbishop of about forty-six with a warm, light-olive complexion and a FULL, SOFT OVAL face with rounded cheeks — a high, smooth forehead under the hood, no hair showing, large, dark, HEAVY-LIDDED eyes with a calm, slightly lowered gaze under thick, gently arched black brows, a straight nose with a broad tip, and a LONG, FULL, dense black BEARD, broad and squared at the bottom and reaching to the breast, with a full moustache over a closed mouth; the expression mild and resolute. Not the lean, narrow josaphat, nor the wide-open eyes of gregory_narek.",
+    "basis": "His photograph of 1911 (Wikimedia Commons, from the diocese of Mardin) and the Dicastery's portrait from it: a full, soft oval face with heavy-lidded dark eyes, thick arched brows, a straight broad-tipped nose and a long, dense black beard, in the black veghar hood with a pectoral cross (the Ottoman decorations on his breast are left out). John Paul II's homily gives his age at death as forty-six.",
+    "excerpt": "His answer to those who pressed him to deny the faith, as John Paul II quoted it at his beatification (homily of 7 October 2001; Italian on the Dicastery's page, «A Dio non piace che io rinneghi Gesù mio Salvatore. Versare il mio sangue a favore della mia fede è il più vivo desiderio del mio cuore»); en-US and pt-BR our renderings from the Italian (he died in 1915), so no Vatican translation enters the data",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Blessed Choukrallah Maloyan.jpg (photograph, 1911)",
+        "url": "https://commons.wikimedia.org/wiki/File:Blessed_Choukrallah_Maloyan.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Ignazio Maloyan (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/ignazio-maloyan.html"
+      },
+      {
+        "title": "John Paul II, homily at the beatification, 7 October 2001",
+        "url": "https://www.vatican.va/content/john-paul-ii/en/homilies/2001/documents/hf_jp-ii_hom_20011007_beatification.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}

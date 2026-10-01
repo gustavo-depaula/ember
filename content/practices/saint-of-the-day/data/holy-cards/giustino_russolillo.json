@@ -1,0 +1,44 @@
+{
+  "id": "giustino_russolillo",
+  "feast": {
+    "month": 8,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Giustino Russolillo",
+    "pt-BR": "São Justino Russolillo"
+  },
+  "patronOf": {
+    "en-US": "Apostle of vocations",
+    "pt-BR": "Apóstolo das vocações"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"While our lips say 'I believe', our mind and our heart must be able to say 'I see'.\"",
+    "pt-BR": "\"Enquanto os nossos lábios dizem 'creio', a nossa mente e o nosso coração devem poder dizer 'vejo'.\""
+  },
+  "meta": {
+    "face": "A Neapolitan priest of about forty, clean-shaven, with a warm olive complexion and a LONG, NARROW face tapering to a pointed chin — a high forehead, short dark hair parted at the side and brushed back, RECEDING a little at the temples, LARGE ears that stand out, dark, earnest eyes behind small ROUND wire-rimmed spectacles, level dark brows, a long, straight nose, hollowed cheeks, FULL lips closed; the gaze direct and gentle. Not the round, smiling josemaria_escriva, nor the grey-crested titus_brandsma of this batch. The boys: one round-faced with curly black hair, one thin with short straight brown hair.",
+    "basis": "His photographs as a young priest (the Dicastery's portrait; the painted portrait on the Vocationists' shrine, reproduced by Vatican News): a long, narrow face with a pointed chin, short dark hair, round wire spectacles, prominent ears, a long straight nose and full lips, in a cassock with a short cape. Photographs of his old age show a rounder face with a wide smile; the card keeps the younger face, of his founding years, so as not to repeat josemaria_escriva.",
+    "excerpt": "His conviction «La perfezione della Fede è la visione e quindi, mentre le nostre labbra dicono credo, la nostra mente e il nostro cuore devono poter dire vedo», as the Dicastery's biography quotes it; the second clause, a short quotation, our rendering (he died in 1955)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Giustino Maria Russolillo (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/giustino-maria-russolillo.html"
+      },
+      {
+        "title": "Vocazionisti, don Giustino, il fondatore (photograph)",
+        "url": "https://www.vocationist.net/don-giustino-il-fondatore/"
+      },
+      {
+        "title": "Vatican News, Don Russolillo, l'apostolo delle vocazioni e della santificazione (May 2022; portraits)",
+        "url": "https://www.vaticannews.va/it/chiesa/news/2022-05/canonizzazione-giustino-russolillo-intervista-padre-caprari.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-53.md."
+      }
+    ]
+  }
+}
