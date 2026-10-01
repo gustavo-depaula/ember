@@ -1,0 +1,40 @@
+{
+  "id": "cruets",
+  "name": {
+    "en-US": "Cruets",
+    "pt-BR": "Galhetas"
+  },
+  "patronOf": {
+    "en-US": "Wine and water for the Sacrifice",
+    "pt-BR": "Vinho e água para o Sacrifício"
+  },
+  "prayerExcerpt": {
+    "en-US": "By the mystery of this water and wine may we come to share in the divinity of Christ who humbled himself to share in our humanity.",
+    "pt-BR": "Pelo mistério desta água e deste vinho possamos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'Cruets containing the wine and the water' are prepared on the credence table (GIRM 118c); 'as the minister presents the cruets, the Priest … pours wine and a little water into the chalice, saying quietly, Per huius aquae' (GIRM 142), the prayer of the excerpt. The cruets hold the wine before it is consecrated and are not sacred vessels, so Redemptionis Sacramentum 117's bar on glass does not reach them; clear glass on a silver tray, which shows the wine from the water, is the traditional form, not a prescribed one.",
+    "excerpt": "content/of/order/order-of-mass.json order.preparation-of-gifts (the prayer at the mingling of the water, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 142 (the cruets on the credence table; the wine and a little water poured into the chalice)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "Redemptionis Sacramentum, no. 117 (the bar on glass is for vessels of the Body and Blood)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the mingling of water and wine (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

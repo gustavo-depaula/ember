@@ -1,0 +1,40 @@
+{
+  "id": "paten",
+  "name": {
+    "en-US": "Paten",
+    "pt-BR": "Patena"
+  },
+  "patronOf": {
+    "en-US": "The bread offered on the altar",
+    "pt-BR": "O pão oferecido sobre o altar"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Priest, standing at the altar, takes the paten with the bread and holds it slightly raised above the altar with both hands.",
+    "pt-BR": "O sacerdote, de pé junto ao altar, recebe a patena com o pão em suas mãos."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The paten is, with the chalice, the vessel in which 'the bread and wine are offered and consecrated' (GIRM 327), of precious metal (GIRM 328); 'a large paten may fittingly be used' for the hosts of priest, ministers and faithful (GIRM 331); it is prepared on the credence table (GIRM 118c) and raised with the bread at the Preparation of the Gifts (the excerpt's rubric). The card shows a single large host, the traditional priest's paten; the bread is unconsecrated, before the Offertory.",
+    "excerpt": "content/of/order/order-of-mass.json order.preparation-of-gifts (the rubric before the blessing over the bread: en-US cut before ', saying in a low voice:', pt-BR before ' e, levantando-a', each closed with a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 327–331 (the paten held in special honor; precious metal; a large paten)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 118 (the paten prepared on the credence table)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the rubric before the blessing over the bread (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

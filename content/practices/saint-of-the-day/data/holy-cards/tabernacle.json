@@ -1,0 +1,40 @@
+{
+  "id": "tabernacle",
+  "name": {
+    "en-US": "Tabernacle and sanctuary lamp",
+    "pt-BR": "Sacrário e lâmpada do Santíssimo"
+  },
+  "patronOf": {
+    "en-US": "Christ present among us",
+    "pt-BR": "Cristo presente entre nós"
+  },
+  "prayerExcerpt": {
+    "en-US": "The lamp of God had not yet gone out, and Samuel was lying in the sanctuary of the Lord where the ark of God was.",
+    "pt-BR": "A lâmpada de Deus ainda não se tinha apagado e Samuel estava dormindo no templo do Senhor, onde se encontrava a arca de Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The tabernacle is 'irremovable', of 'solid and inviolable material that is not transparent', and locked, in a place 'truly noble, prominent, conspicuous, worthily decorated' (GIRM 314; can. 938). 'Near the tabernacle a special lamp, fueled by oil or wax, should shine permanently to indicate the presence of Christ and honor it' (GIRM 316; can. 940). Gilded metal is a traditional choice the norms allow; the red glass of the lamp is custom, not law. The excerpt is the lamp that burned before the ark in the sanctuary at Shiloh (1 Sam 3:3), the tabernacle's Old Testament type, from the First Reading of Wednesday of the First Week in Ordinary Time, Year II.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-1/wednesday.json readings.II.firstReading body (1 Samuel 3:3; pt-BR one sentence verbatim; en-US the same words, its sentence cut after 'where the ark of God was' and closed with a full stop)",
+    "sources": [
+      {
+        "title": "GIRM ch. 5, nos. 314–316 (the tabernacle: irremovable, solid, not transparent, locked; the lamp fueled by oil or wax)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "Code of Canon Law, cann. 938, 940 (the tabernacle immovable, of solid and opaque material; the lamp shining continuously)",
+        "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann879-958_en.html"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Wednesday of the First Week in Ordinary Time, Year II, First Reading (1 Sam 3) (content/of/formularies/tempore/ordinary-time/week-1/wednesday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-1/wednesday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

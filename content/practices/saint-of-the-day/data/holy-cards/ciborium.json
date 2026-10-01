@@ -1,0 +1,40 @@
+{
+  "id": "ciborium",
+  "name": {
+    "en-US": "Ciborium",
+    "pt-BR": "Cibório"
+  },
+  "patronOf": {
+    "en-US": "The Bread of life for many",
+    "pt-BR": "O Pão da vida para muitos"
+  },
+  "prayerExcerpt": {
+    "en-US": "After this, he takes the paten or ciborium and approaches the communicants.",
+    "pt-BR": "Em seguida, toma a patena ou o cibório, aproxima-se dos que vão comungar."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "Ciboria are prepared on the credence table, 'if needed', with the bread for the people (GIRM 118c); the priest distributes Communion from 'the paten or ciborium' (the excerpt's rubric; GIRM 160) and purifies it after Communion (GIRM 163). As a sacred vessel it is of precious metal, gilded inside (GIRM 328; Redemptionis Sacramentum 117); hosts are reserved 'in a pyx or small vessel' (can. 939). The covered cup on a stem with a cross on its lid is the traditional form; the lid is set aside so the hosts show.",
+    "excerpt": "content/of/order/order-of-mass.json order.communion-silent (the rubric before 'The Body of Christ': en-US its first sentence verbatim; pt-BR cut before ' e mostra a hóstia' and closed with a full stop)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 160, 163 (ciboria on the credence table; Communion given and the vessel purified)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 328 (sacred vessels of precious metal, gilded inside)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: Communion, the rubric before 'The Body of Christ' (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "roman_missal",
+  "name": {
+    "en-US": "Roman Missal",
+    "pt-BR": "Missal Romano"
+  },
+  "patronOf": {
+    "en-US": "The book of the Church at prayer",
+    "pt-BR": "O livro da Igreja em oração"
+  },
+  "prayerExcerpt": {
+    "en-US": "A cloth is spread on the altar, and a corporal and the Missal put in place.",
+    "pt-BR": "Sobre o altar estende-se a toalha e colocam-se o corporal e o Missal."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Missal is prepared 'next to the Priest’s chair' and, at the Preparation of the Gifts, placed on the altar with the corporal, purificator, chalice and pall (GIRM 118a, 139); the Good Friday rubric of the excerpt names it with the cloth and the corporal. Liturgical books are to be 'truly worthy, dignified, and beautiful' (GIRM 349). The bookstand, the leather binding and the ribbon markers in the liturgical colours are traditional forms, not prescribed ones.",
+    "excerpt": "content/of/formularies/tempore/holy-week/good-friday.json parts.holyCommunion rubric 22 (its first sentence, the number '22.' dropped in en-US; verbatim otherwise, in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 139 (the Missal by the chair; placed on the altar at the Preparation of the Gifts)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 349 (liturgical books worthy, dignified, and beautiful)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Friday of the Passion of the Lord, Holy Communion, rubric 22 (content/of/formularies/tempore/holy-week/good-friday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/good-friday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

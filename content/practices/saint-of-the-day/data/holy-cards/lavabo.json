@@ -1,0 +1,36 @@
+{
+  "id": "lavabo",
+  "name": {
+    "en-US": "Lavabo",
+    "pt-BR": "Lavabo"
+  },
+  "patronOf": {
+    "en-US": "Hands washed for the holy things",
+    "pt-BR": "Mãos lavadas para as coisas santas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Wash me, O Lord, from my iniquity and cleanse me from my sin.",
+    "pt-BR": "Lavai-me, Senhor, de minhas faltas e purificai-me do meu pecado."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'Whatever is needed for the washing of hands' is prepared on the credence table (GIRM 118c); after the prayer With humble spirit 'the Priest washes his hands standing at the side of the altar and, as the minister pours the water, says quietly, Lava me, Domine' (GIRM 145), the words of the excerpt. The GIRM names no vessels; the ewer, basin and linen towel are the traditional set, here in silver.",
+    "excerpt": "content/of/order/order-of-mass.json order.preparation-of-gifts (the prayer at the washing of hands, Psalm 51:4, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 145 (what is needed for the washing of hands; the Lavabo at the side of the altar)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Preparation of the Gifts, the washing of hands (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

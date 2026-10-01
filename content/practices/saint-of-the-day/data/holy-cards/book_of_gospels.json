@@ -1,0 +1,40 @@
+{
+  "id": "book_of_gospels",
+  "name": {
+    "en-US": "Book of the Gospels",
+    "pt-BR": "Evangeliário"
+  },
+  "patronOf": {
+    "en-US": "Christ who speaks in the Gospel",
+    "pt-BR": "Cristo que fala no Evangelho"
+  },
+  "prayerExcerpt": {
+    "en-US": "The beginning of the Good News about Jesus Christ, the Son of God.",
+    "pt-BR": "Início do Evangelho de Jesus Cristo, Filho de Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'On the altar itself may be placed a Book of the Gospels distinct from the book of other readings' (GIRM 117); it is carried 'slightly elevated' in the Entrance Procession and to the ambo, and kissed after the Gospel (GIRM 120d, 133–134, 173, 175). It should be 'truly worthy, dignified, and beautiful' (GIRM 349). A gilded, jeweled cover with the cross and the four Evangelists' symbols is a traditional form the norms allow. The excerpt is the first verse of Mark, the Gospel of the Second Sunday of Advent, Year B.",
+    "excerpt": "content/of/formularies/tempore/advent/week-2/sunday.json readings.B.gospel body (Mark 1:1, one sentence; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 117, 120, 133–134 (on the altar; carried slightly elevated; the Gospel proclaimed and the book kissed)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 349 (the Book of the Gospels worthy, dignified, and beautiful)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Second Sunday of Advent, Year B, Gospel (Mk 1) (content/of/formularies/tempore/advent/week-2/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/advent/week-2/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

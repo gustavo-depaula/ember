@@ -1,0 +1,40 @@
+{
+  "id": "chalice",
+  "name": {
+    "en-US": "Chalice",
+    "pt-BR": "Cálice"
+  },
+  "patronOf": {
+    "en-US": "The cup of the Blood of Christ",
+    "pt-BR": "O cálice do Sangue de Cristo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Our blessing-cup is a communion with the blood of Christ.",
+    "pt-BR": "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The chalice and paten are 'held in special honor' among the sacred vessels (GIRM 327). Sacred vessels are 'made from precious metal' and, if of a metal less precious than gold, 'gilded on the inside' (GIRM 328); a chalice has 'a bowl of material that does not absorb liquids' (GIRM 330); glass, earthenware and clay are reprobated (Redemptionis Sacramentum 117). The form is left to the artist and regional custom (GIRM 332): the card takes a traditional silver-gilt chalice with knop and foot. The excerpt is the refrain of the Psalm at the Evening Mass of the Lord's Supper (1 Cor 10:16).",
+    "excerpt": "content/of/formularies/tempore/holy-week/lords-supper.json readings.default.psalm response (1 Corinthians 10:16, the refrain of the Responsorial Psalm; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 327–332 (the chalice held in special honor; precious metal, gilded inside; a non-absorbent bowl)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "Redemptionis Sacramentum, no. 117 (sacred vessels: noble materials, not glass or earthenware)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Evening Mass of the Lord's Supper, Responsorial Psalm (Ps 116, refrain 1 Cor 10:16) (content/of/formularies/tempore/holy-week/lords-supper.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/holy-week/lords-supper.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

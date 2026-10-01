@@ -1,0 +1,44 @@
+{
+  "id": "altar_crucifix",
+  "name": {
+    "en-US": "Altar crucifix and candles",
+    "pt-BR": "Crucifixo e velas do altar"
+  },
+  "patronOf": {
+    "en-US": "The Cross of Christ between the lights",
+    "pt-BR": "A Cruz de Cristo entre as luzes"
+  },
+  "prayerExcerpt": {
+    "en-US": "We proclaim Christ crucified; Christ, the power of God and the wisdom of God.",
+    "pt-BR": "Nós anunciamos Cristo crucificado, poder e sabedoria de Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'On or next to the altar are to be placed candlesticks with lighted candles: at least two in any celebration, or even four or six, especially for a Sunday Mass'; 'on the altar or close to it, there is to be a cross adorned with a figure of Christ crucified' (GIRM 117), 'clearly visible to the assembled people' and kept near the altar even outside celebrations (GIRM 308); the candlesticks stand on the altar or around it (GIRM 307); the altar cross deserves every care (GIRM 350). The card takes the Sunday six, on the altar, rising toward the cross, a traditional arrangement the norms allow. The excerpt is 1 Cor 1:23-24, the Communion Antiphon of Saint John Chrysostom (13 September), from the Common of Doctors.",
+    "excerpt": "content/of/formularies/sanctoral/09-13.json communionAntiphon (1 Corinthians 1:23-24, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 117 (at least two candles, or four or six on Sunday; a cross with the figure of Christ crucified)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 307–308 (the candlesticks on or around the altar; the cross clearly visible)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 350 (the altar cross)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Saint John Chrysostom, Communion Antiphon (1 Cor 1:23-24) (content/of/formularies/sanctoral/09-13.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/sanctoral/09-13.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

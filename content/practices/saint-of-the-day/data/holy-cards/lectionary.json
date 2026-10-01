@@ -1,0 +1,40 @@
+{
+  "id": "lectionary",
+  "name": {
+    "en-US": "Lectionary",
+    "pt-BR": "Lecionário"
+  },
+  "patronOf": {
+    "en-US": "The Scriptures read to the Church",
+    "pt-BR": "As Escrituras lidas à Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "All scripture is inspired by God and can profitably be used for teaching, for refuting error, for guiding people's lives and teaching them to be holy.",
+    "pt-BR": "Toda a Escritura é inspirada por Deus e útil para ensinar, para argumentar, para corrigir e para educar na justiça."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The Lectionary is prepared 'at the ambo' (GIRM 118b) and, unlike the Book of the Gospels, is not carried in the Entrance Procession (GIRM 120d); with the Book of the Gospels it receives 'special veneration' and should be 'truly worthy, dignified, and beautiful' (GIRM 349). The green binding and the green desk cloth are a choice for Ordinary Time, not a norm. The excerpt is 2 Tim 3:16, from the Second Reading of the Twenty-Ninth Sunday in Ordinary Time, Year C: the whole of Scripture, which the Lectionary distributes over the year.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-29/sunday.json readings.C.secondReading body (2 Timothy 3:16; en-US one sentence verbatim; pt-BR the same verse, its sentence cut before v. 17 'a fim de que' and closed with a full stop)",
+    "sources": [
+      {
+        "title": "GIRM ch. 4, nos. 118, 120 (the Lectionary at the ambo; not carried in procession)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "GIRM ch. 6, nos. 349 (the Book of the Gospels and the Lectionary: special veneration, worthy and beautiful)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Twenty-Ninth Sunday in Ordinary Time, Year C, Second Reading (2 Tim 3) (content/of/formularies/tempore/ordinary-time/week-29/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-29/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-49.md."
+      }
+    ]
+  }
+}

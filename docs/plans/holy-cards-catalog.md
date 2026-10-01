@@ -20,9 +20,9 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
 | Parts of the Mass | 29 | 29 |
-| Liturgical objects and vestments | 24 | 2 |
+| Liturgical objects and vestments | 24 | 12 |
 
-≈ 615 cards, 442 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 452 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -638,8 +638,8 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 
 ## Liturgical objects and vestments
 
-**Sanctuary** — [x] Altar — `altar` · [x] Ambo — `ambo` · [ ] Tabernacle and sanctuary lamp · [ ] Altar crucifix and candles
-**Books** — [ ] Roman Missal · [ ] Lectionary · [ ] Book of the Gospels
-**Vessels and linens** — [ ] Chalice · [ ] Paten · [ ] Ciborium · [ ] Cruets · [ ] Lavabo · [ ] Corporal · [ ] Purificator · [ ] Pall
+**Sanctuary** — [x] Altar — `altar` · [x] Ambo — `ambo` · [x] Tabernacle and sanctuary lamp — `tabernacle` · [x] Altar crucifix and candles — `altar_crucifix`
+**Books** — [x] Roman Missal — `roman_missal` · [x] Lectionary — `lectionary` · [x] Book of the Gospels — `book_of_gospels`
+**Vessels and linens** — [x] Chalice — `chalice` · [x] Paten — `paten` · [x] Ciborium — `ciborium` · [x] Cruets — `cruets` · [x] Lavabo — `lavabo` · [ ] Corporal · [ ] Purificator · [ ] Pall
 **Other** — [ ] Thurible and boat · [ ] Aspergillum · [ ] Altar bells
 **Vestments** — [ ] Amice · [ ] Alb · [ ] Cincture · [ ] Stole · [ ] Chasuble · [ ] Dalmatic
