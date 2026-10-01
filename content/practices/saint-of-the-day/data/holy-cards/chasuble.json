@@ -1,0 +1,44 @@
+{
+  "id": "chasuble",
+  "name": {
+    "en-US": "Chasuble",
+    "pt-BR": "Casula"
+  },
+  "patronOf": {
+    "en-US": "Charity over all things",
+    "pt-BR": "A caridade acima de tudo"
+  },
+  "prayerExcerpt": {
+    "en-US": "And over all things put on love, which is the bond of perfection, and let the peace of Christ rule in your hearts.",
+    "pt-BR": "Revesti-vos, sobretudo, do amor que é o vínculo da perfeição. Reine em vossos corações a paz de Cristo."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'The vestment proper to the Priest Celebrant at Mass ... is the chasuble worn, unless otherwise indicated, over the alb and stole' (GIRM 337); it is prepared for the priest with the alb and stole (GIRM 119). It follows the colour of the day (GIRM 346): the card shows green, the colour of Ordinary Time (346c), because the excerpt is the Entrance Antiphon of a Mass for Various Needs, which is 'celebrated in the color proper to the day or the time of year' (GIRM 347; the formulary's own colour in the data is green), and because green sets it apart from batch 50's violet stole and this batch's rose dalmatic. The GIRM leaves the form to the Conferences (GIRM 342) and wants beauty 'in the material used and in the design' (GIRM 344): the ample cut and the Y-shaped orphrey cross are traditional choices (Catholic Encyclopedia, 'Chasuble'). The Encyclopedia calls the chasuble the vestment 'covering all the rest', and gives the words at its bestowal in ordination: 'the priestly vestment, by which is signified charity'; the excerpt, Col 3:14-15, puts on love 'over all things'.",
+    "excerpt": "content/of/formularies/ritual/various-needs/div009.json entranceAntiphon (Colossians 3:14-15, the Entrance Antiphon of the Mass for a Council or a Synod, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, nos. 337, 342, 344, 346–347 (the chasuble proper to the priest; form and design; the colours)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 119 (the alb, stole and chasuble prepared for the priest)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Mass for a Council or a Synod, Entrance Antiphon (Col 3:14-15) (content/of/formularies/ritual/various-needs/div009.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/ritual/various-needs/div009.json"
+      },
+      {
+        "title": "The Catholic Encyclopedia (1907–12), 'Chasuble' (content/books/catholic-encyclopedia/en-US/03639a.md): the traditional form",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/books/catholic-encyclopedia/en-US/03639a.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-51.md."
+      }
+    ]
+  }
+}

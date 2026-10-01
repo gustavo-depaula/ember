@@ -20,9 +20,9 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
 | Parts of the Mass | 29 | 29 |
-| Liturgical objects and vestments | 24 | 22 |
+| Liturgical objects and vestments | 24 | 24 |
 
-≈ 615 cards, 462 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 464 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -642,4 +642,4 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 **Books** — [x] Roman Missal — `roman_missal` · [x] Lectionary — `lectionary` · [x] Book of the Gospels — `book_of_gospels`
 **Vessels and linens** — [x] Chalice — `chalice` · [x] Paten — `paten` · [x] Ciborium — `ciborium` · [x] Cruets — `cruets` · [x] Lavabo — `lavabo` · [x] Corporal — `corporal` · [x] Purificator — `purificator` · [x] Pall — `pall`
 **Other** — [x] Thurible and boat — `thurible` · [x] Aspergillum — `aspergillum` · [x] Altar bells — `altar_bells`
-**Vestments** — [x] Amice — `amice` · [x] Alb — `alb` · [x] Cincture — `cincture` · [x] Stole — `stole` · [ ] Chasuble · [ ] Dalmatic
+**Vestments** — [x] Amice — `amice` · [x] Alb — `alb` · [x] Cincture — `cincture` · [x] Stole — `stole` · [x] Chasuble — `chasuble` · [x] Dalmatic — `dalmatic`
