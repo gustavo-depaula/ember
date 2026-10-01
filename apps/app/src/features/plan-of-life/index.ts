@@ -2,6 +2,7 @@ export {
   completePractice,
   isBackfill,
   prayedIdOf,
+  refileMisplacedCompletions,
   useCompletedSlots,
   useCompletePractice,
   useCompletionRange,

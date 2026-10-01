@@ -291,6 +291,32 @@ export async function removeCompletion(id: number): Promise<void> {
   })
 }
 
+/** Refile a completion under another of its practice's slots, keeping when and how it was made. */
+export async function moveCompletion(id: number, subId: string): Promise<void> {
+  const store = useEventStore.getState()
+  const completion = store.completions.get(id)
+  if (!completion) return
+  await emitBatch([
+    {
+      type: 'CompletionRemoved',
+      completionId: id,
+      practiceId: completion.practice_id,
+      date: completion.date,
+      subId: completion.sub_id,
+    },
+    {
+      type: 'CompletionLogged',
+      completionId: store.nextCompletionId,
+      practiceId: completion.practice_id,
+      subId,
+      date: completion.date,
+      completedAt: completion.completed_at,
+      prayedId: completion.prayed_id,
+      via: completion.via,
+    },
+  ])
+}
+
 function resolve(ids: Set<number> | undefined): Completion[] {
   return resolveCompletions(ids, useEventStore.getState().completions)
 }

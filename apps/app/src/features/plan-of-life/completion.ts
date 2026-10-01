@@ -3,18 +3,28 @@ import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
 import { bareId } from '@/content/contentIndex'
-import type { EventStoreState } from '@/db/events'
+import type { EventStoreState, SlotState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
-import { logCompletion, removeSlotCompletion } from '@/db/repositories'
+import {
+  logCompletion,
+  moveCompletion,
+  removeCompletion,
+  removeSlotCompletion,
+} from '@/db/repositories'
 import type { Completion, CompletionVia } from '@/db/schema'
+import { getLiturgicalSeason } from '@/lib/liturgical'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
+
+import { parseSchedule } from './schedule'
+import { filterSlotsForDate } from './utils'
 
 // Completion is recorded against a plan slot — `{practice_id, sub_id}`, the two
 // halves of a slot key — but what the user prays is often not that practice:
 // the plan keeps the base practice and prays its active variant, routes carry
 // bare ids ('mass') while the plan holds canonical ones ('practice/mass'), and
-// one practice can hold several slots. This module maps what was prayed onto
-// the slot it fulfils, so no screen composes practice ids or slot keys.
+// one practice can hold several slots, each kept on its own days. This module
+// maps what was prayed onto the slot it fulfils, so no screen composes practice
+// ids or slot keys.
 
 type PlanState = Pick<EventStoreState, 'practices' | 'slots' | 'completions' | 'completionsByDate'>
 
@@ -37,6 +47,13 @@ function planPracticeFor(prayedId: string, state: PlanState): string | undefined
   )?.practice_id
 }
 
+// The day's calendar isn't to hand here, so a holy-days-of-obligation slot
+// never reads as due; the season is, and keeps a Lent-only slot to Lent.
+function slotsDueOn(slots: SlotState[], date: string): SlotState[] {
+  const season = getLiturgicalSeason(new Date(`${date}T00:00:00`))
+  return filterSlotsForDate(slots, date, { season })
+}
+
 function completedSlotKeys(completions: Completion[]): Set<string> {
   return new Set(completions.map(slotKeyOf))
 }
@@ -47,9 +64,10 @@ function completionsOn(date: string, state: PlanState): Completion[] {
 
 /**
  * The slot a prayer completes. An explicit slot key (the Today row that was
- * tapped) wins; otherwise the practice's first enabled slot not yet done on
- * `date`, so praying a twice-daily practice twice fills both rows. A practice
- * outside the plan is logged under the prayed id, unslotted.
+ * tapped) wins; otherwise the practice's first enabled slot due on `date` and
+ * not yet done, so a weekday Mass fills the weekday row rather than Sunday's,
+ * and praying a twice-daily practice twice fills both rows. A practice outside
+ * the plan is logged under the prayed id, unslotted.
  */
 export function completionTarget(
   prayedId: string,
@@ -70,7 +88,9 @@ export function completionTarget(
   const enabled = [...state.slots.values()]
     .filter((s) => s.practice_id === practiceId && s.enabled)
     .sort((a, b) => a.sort_order - b.sort_order)
-  const slot = enabled.find((s) => !done.has(s.id)) ?? enabled[0]
+  const due = slotsDueOn(enabled, date)
+  const candidates = due.length > 0 ? due : enabled
+  const slot = candidates.find((s) => !done.has(s.id)) ?? candidates[0]
   return { practiceId, subId: slot ? parseSlotKey(slot.id).slotId : 'default' }
 }
 
@@ -98,6 +118,62 @@ export async function completePractice(
 ): Promise<void> {
   const { practiceId, subId } = completionTarget(prayedId, date, slotKey)
   await logCompletion(practiceId, date, subId, bareId(prayedId), via)
+}
+
+/**
+ * Refiles completions sitting on a slot not due that day while the practice
+ * has one that is. A prayer with no tapped row — a Mass check-in — used to
+ * land on the practice's first slot whatever its days, so a weekday Mass was
+ * filed under Sunday's and the day's own row stayed open. Each moves to the
+ * open due slot; if that row was since ticked by hand, the misfiled one is the
+ * same prayer counted twice and is dropped. Run at startup; a no-op once the
+ * record is straight.
+ */
+export async function refileMisplacedCompletions(): Promise<void> {
+  const { practices, slots, completions } = useEventStore.getState()
+  const enabledByPractice = new Map<string, SlotState[]>()
+  for (const slot of [...slots.values()].sort((a, b) => a.sort_order - b.sort_order)) {
+    if (!slot.enabled || practices.get(slot.practice_id)?.archived) continue
+    enabledByPractice.set(slot.practice_id, [
+      ...(enabledByPractice.get(slot.practice_id) ?? []),
+      slot,
+    ])
+  }
+
+  const byPracticeDay = new Map<string, Completion[]>()
+  for (const completion of completions.values()) {
+    if ((enabledByPractice.get(completion.practice_id)?.length ?? 0) < 2) continue
+    const key = `${completion.practice_id}\n${completion.date}`
+    byPracticeDay.set(key, [...(byPracticeDay.get(key) ?? []), completion])
+  }
+
+  for (const day of byPracticeDay.values()) {
+    const { practice_id: practiceId, date } = day[0]
+    const enabled = enabledByPractice.get(practiceId) ?? []
+    const due = slotsDueOn(enabled, date)
+    if (due.length === 0) continue
+    const dueKeys = new Set(due.map((s) => s.id))
+    const done = completedSlotKeys(day)
+    const lastHandTick = Math.max(
+      0,
+      ...day
+        .filter((c) => c.via === 'checklist' && dueKeys.has(slotKeyOf(c)))
+        .map((c) => c.completed_at),
+    )
+
+    for (const completion of day) {
+      const slot = enabled.find((s) => s.id === slotKeyOf(completion))
+      if (!slot || dueKeys.has(slot.id)) continue
+      if (parseSchedule(slot.schedule).type === 'holy-days-of-obligation') continue
+      const open = due.find((s) => !done.has(s.id))
+      if (open) {
+        done.add(open.id)
+        await moveCompletion(completion.id, parseSlotKey(open.id).slotId)
+      } else if (lastHandTick >= completion.completed_at) {
+        await removeCompletion(completion.id)
+      }
+    }
+  }
 }
 
 export async function setSlotDone(slotKey: string, date: string, done: boolean): Promise<void> {

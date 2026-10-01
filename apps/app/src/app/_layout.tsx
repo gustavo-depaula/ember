@@ -60,6 +60,7 @@ import { seedCursors, seedPractices } from '@/db/seed'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
+import { refileMisplacedCompletions } from '@/features/plan-of-life'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
@@ -222,6 +223,7 @@ export default function RootLayout() {
 
         setBootStatus(i18n.t('boot.almostReady'))
         await Promise.all([seedPractices(), seedCursors()])
+        await refileMisplacedCompletions()
         mark('seeded')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)

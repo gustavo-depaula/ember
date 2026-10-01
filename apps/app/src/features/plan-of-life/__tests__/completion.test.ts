@@ -3,10 +3,15 @@ import { beforeEach, describe, expect, it } from 'vitest'
 
 import { createEventsTable, useEventStore } from '@/db/events'
 import { setDb } from '@/db/instance'
-import { addSlot, archivePractice, createPracticeWithSlot } from '@/db/repositories'
+import { addSlot, archivePractice, createPracticeWithSlot, logCompletion } from '@/db/repositories'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
-import { completePractice, setSlotDone, useCompletedSlots } from '../completion'
+import {
+  completePractice,
+  refileMisplacedCompletions,
+  setSlotDone,
+  useCompletedSlots,
+} from '../completion'
 
 const date = '2026-05-12'
 
@@ -65,6 +70,21 @@ describe('completing a prayed practice', () => {
     expect(doneOn(date)).toEqual([morning, evening].sort())
   })
 
+  it('fills the slot due that day, not an earlier one kept for other days', async () => {
+    await createPracticeWithSlot(
+      { id: 'practice/mass' },
+      { schedule: '{"type":"days-of-week","days":[0]}' },
+    )
+    const weekdays = await addSlot('practice/mass', {
+      schedule: '{"type":"days-of-week","days":[1,2,3,4,5,6]}',
+    })
+
+    // A Tuesday.
+    await completePractice('mass', date, { via: 'checkin' })
+
+    expect(doneOn(date)).toEqual([weekdays])
+  })
+
   it('logs a practice outside the plan unslotted, under the prayed id', async () => {
     await completePractice('practice/our-father', date)
 
@@ -78,6 +98,64 @@ describe('completing a prayed practice', () => {
     await completePractice('practice/rosary', date)
 
     expect(doneOn(date)).toEqual(['practice/rosary::default'])
+  })
+})
+
+describe('refiling completions that landed on a slot not due that day', () => {
+  async function sundayAndWeekdayMass() {
+    const sunday = await createPracticeWithSlot(
+      { id: 'practice/mass' },
+      { schedule: '{"type":"days-of-week","days":[0]}' },
+    )
+    const weekdays = await addSlot('practice/mass', {
+      schedule: '{"type":"days-of-week","days":[1,2,3,4,5,6]}',
+    })
+    return { sunday, weekdays }
+  }
+
+  it('moves a weekday check-in off the Sunday slot, keeping how it was made', async () => {
+    const { weekdays } = await sundayAndWeekdayMass()
+    await logCompletion('practice/mass', date, '1', 'mass', 'checkin')
+
+    await refileMisplacedCompletions()
+    await refileMisplacedCompletions()
+
+    expect(doneOn(date)).toEqual([weekdays])
+    const [moved] = [...useEventStore.getState().completions.values()]
+    expect(moved.via).toBe('checkin')
+  })
+
+  it('drops the misplaced one when the day was since ticked by hand', async () => {
+    const { weekdays } = await sundayAndWeekdayMass()
+    await logCompletion('practice/mass', date, '1', 'mass', 'checkin')
+    await setSlotDone(weekdays, date, true)
+
+    await refileMisplacedCompletions()
+
+    expect(doneOn(date)).toEqual([weekdays])
+  })
+
+  it('leaves completions on their due slot alone', async () => {
+    const { sunday, weekdays } = await sundayAndWeekdayMass()
+    await setSlotDone(sunday, '2026-05-10', true)
+    await setSlotDone(weekdays, date, true)
+
+    await refileMisplacedCompletions()
+
+    expect(doneOn('2026-05-10')).toEqual([sunday])
+    expect(doneOn(date)).toEqual([weekdays])
+  })
+
+  it('leaves a holy-day slot alone, whose days it cannot tell', async () => {
+    await sundayAndWeekdayMass()
+    const holyDays = await addSlot('practice/mass', {
+      schedule: '{"type":"holy-days-of-obligation"}',
+    })
+    await setSlotDone(holyDays, date, true)
+
+    await refileMisplacedCompletions()
+
+    expect(doneOn(date)).toEqual([holyDays])
   })
 })
 

@@ -28,6 +28,7 @@ export {
   getPractice,
   getSlotsForPractice,
   logCompletion,
+  moveCompletion,
   removeCompletion,
   removeSlotCompletion,
   reorderSlots,
