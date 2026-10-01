@@ -9,12 +9,14 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 // A single bespoke holy card — the hand-illustrated, collected saints. The
 // `id` doubles as the image stem (`saints/{id}.webp`). All display strings are
 // localized; the feast is the calendar spine the gallery sorts and groups by.
+// Seasons, Ember Days, parts of the Mass and liturgical objects have no fixed
+// date: they carry no feast and gather in the gallery's undated group.
 // The card names its own Pictorial Lives chapter and Mass formulary rather than
 // leaving them to its date: the book keeps the pre-1969 calendar and a date can
 // hold several celebrations, so the same day often belongs to someone else.
 export type HolyCard = {
   id: string
-  feast: { month: number; day: number }
+  feast?: { month: number; day: number }
   name: LocalizedText
   patronOf?: LocalizedText
   prayerExcerpt?: LocalizedText

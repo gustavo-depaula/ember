@@ -38,7 +38,7 @@ The order behind the table:
    - **Objects and vestments:** `FRAME="instead of the arched window, a centred gold-edged QUATREFOIL medallion on a deep blue ground scattered with small gold stars, holding a single object like an illuminated still life; no halo, no figures"`.
    - Liturgical scenes follow the traditional Latin Mass look.
 
-**Before cards without a fixed date ship** (moveable feasts, seasons, parts of the Mass, objects): `feast` is required by `apps/app/src/features/saints/useHolyCards.ts` and `data/catalog.ts` reads `c.feast.month`; make it optional there first, and give those cards a place in the gallery.
+**Cards without a fixed date** (moveable feasts, seasons, parts of the Mass, objects) carry no `feast`. The app takes them (`feast` is optional in `apps/app/src/features/saints/useHolyCards.ts`; the gallery gathers them under "Without a fixed day"), but `scripts/build-corpus.py` keeps them out of the blob until an app with that change is the oldest one in use, since older apps read `c.feast.month` unguarded.
 
 Run one batch at a time: at most one batch generating and one being researched. Parallel batches hit the session limit and stop the run.
 

@@ -86,7 +86,7 @@ function build(
     id: c.id,
     name: localizeContent(c.name),
     feast: c.feast,
-    feastLabel: feastLabel(c.feast.month, c.feast.day, lang),
+    feastLabel: c.feast ? feastLabel(c.feast.month, c.feast.day, lang) : undefined,
     lifeChapter: c.lifeChapter,
     reflection: c.reflection ? localizeContent(c.reflection) : undefined,
     proper: c.proper,
