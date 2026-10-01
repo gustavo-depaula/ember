@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 245 | 125 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 125 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 614 cards, 494 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 494 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -291,7 +291,7 @@ Canonized 2022–2025 (none yet in 2026), with the memorial the Dicastery for th
 
 ### From the Pictorial Lives of the Saints
 
-The saints of the Saint of the Day practice (`content/practices/saint-of-the-day`, the *Pictorial Lives of the Saints*) not already carded above, on the book's dates (the pre-1969 calendar) and with its names. A saint's second feast (St. Peter's Chains, the Apparition of St. Michael, …) is a card of its own, showing that event.
+The saints of the Saint of the Day practice (`content/practices/saint-of-the-day`, the *Pictorial Lives of the Saints*) not already carded above, on the book's dates (the pre-1969 calendar) and with its names. A saint's second feast (St. Peter's Chains, the Apparition of St. Michael, …) is a card of its own, showing that event. Three of the book's saints have no card, by decision (`research/holy-card-faces/to-assess.md`): Seraphia (3 Sep), Thecla (23 Sep), and Cyprian and Justina (26 Sep).
 
 - [x] 2 Jan · St. Fulgentius, Bishop · *São Fulgêncio, Bispo* · Pictorial Lives — `fulgentius`
 - [x] 2 Jan · St. Macarius of Alexandria · *São Macário de Alexandria* · Pictorial Lives — `macarius_alexandria`
@@ -460,7 +460,6 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 30 Aug · St. Fiaker, Anchorite · *São Fiacro, Anacoreta* · Pictorial Lives
 - [ ] 31 Aug · St. Raymund Nonnatus · *São Raimundo Nonato* · Pictorial Lives
 - [ ] 1 Sep · St. Giles, Abbot · *Santo Egídio, Abade* · Pictorial Lives
-- [ ] 3 Sep · St. Seraphia, Virgin and Martyr · *Santa Seráfia, Virgem e Mártir* · Pictorial Lives
 - [ ] 4 Sep · St. Rosalia, Virgin · *Santa Rosália, Virgem* · Pictorial Lives
 - [ ] 5 Sep · St. Laurence Justinian · *São Lourenço Justiniano* · Pictorial Lives
 - [ ] 6 Sep · St. Eleutherius, Abbot · *Santo Eleutério, Abade* · Pictorial Lives
@@ -475,10 +474,8 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 18 Sep · St. Thomas of Villanova · *São Tomás de Vilanova* · Pictorial Lives — `thomas_villanova`
 - [x] 20 Sep · Sts. Eustachius and Companions, Martyrs · *Santo Eustáquio e Companheiros, Mártires* · Pictorial Lives — `eustachius`
 - [x] 22 Sep · The Theban Legion · *A Legião Tebana* · Pictorial Lives — `theban_legion`
-- [ ] 23 Sep · St. Thecla, Virgin, Martyr · *Santa Tecla, Virgem, Mártir* · Pictorial Lives
 - [x] 25 Sep · St. Firmin, Bishop, Martyr · *São Firmino, Bispo, Mártir* · Pictorial Lives — `firmin`
 - [x] 25 Sep · St. Finbarr, Bishop · *São Finbarr, Bispo* · Pictorial Lives — `finbarr`
-- [ ] 26 Sep · Sts. Cyprian and Justina, Martyrs · *São Cipriano e Santa Justina, Mártires* · Pictorial Lives
 - [x] 1 Oct · St. Remigius, Bishop · *São Remígio, Bispo* · Pictorial Lives — `remigius`
 - [x] 3 Oct · St. Gerard, Abbot · *São Gerardo, Abade* · Pictorial Lives — `gerard_brogne`
 - [x] 5 Oct · St. Placid, Martyr · *São Plácido, Mártir* · Pictorial Lives — `placid`
