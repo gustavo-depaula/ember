@@ -5,8 +5,8 @@
     "day": 13
   },
   "name": {
-    "en-US": "St. Veronica of Milan",
-    "pt-BR": "Santa Verônica de Milão"
+    "en-US": "Bl. Veronica of Milan",
+    "pt-BR": "Beata Verônica de Milão"
   },
   "patronOf": {
     "en-US": "Lay sister of St. Martha's, Milan",
@@ -35,6 +35,10 @@
       {
         "date": "2026-09-29",
         "note": "New card, generated with new-card.sh from dossiers/batch-20.md."
+      },
+      {
+        "date": "2026-10-01",
+        "note": "Title changed from St. to Bl.: the 2004 Roman Martyrology has \"beatae Veronicae de Binasco\" on 13 January. The card awaits a redraw with a Blessed's rays instead of the halo."
       }
     ]
   }

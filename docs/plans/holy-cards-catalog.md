@@ -304,7 +304,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 10 Jan · St. William, Archbishop · *São Guilherme, Arcebispo* · Pictorial Lives — `william_bourges`
 - [x] 11 Jan · St. Theodosius, The Cenobiarch · *São Teodósio, o Cenobiarca* · Pictorial Lives — `theodosius_cenobiarch`
 - [x] 12 Jan · St. Aelred, Abbot · *Santo Elredo, Abade* · Pictorial Lives — `aelred`
-- [x] 13 Jan · St. Veronica of Milan · *Santa Verônica de Milão* · Pictorial Lives — `veronica_milan`
+- [x] 13 Jan · Bl. Veronica of Milan · *Beata Verônica de Milão* · Pictorial Lives ("St." in the book; Blessed in the 2004 Martyrology) — `veronica_milan`
 - [x] 15 Jan · St. Paul, the First Hermit · *São Paulo, o Primeiro Eremita* · Pictorial Lives — `paul_hermit`
 - [x] 16 Jan · St. Honoratus, Archbishop · *Santo Honorato, Arcebispo* · Pictorial Lives — `honoratus`
 - [x] 18 Jan · St. Peter's Chair at Rome · *A Cátedra de São Pedro em Roma* · Pictorial Lives — `peter_chair_rome`

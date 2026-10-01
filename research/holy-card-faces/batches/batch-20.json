@@ -52,8 +52,8 @@
         "day": 13
       },
       "name": {
-        "en-US": "St. Veronica of Milan",
-        "pt-BR": "Santa Verônica de Milão"
+        "en-US": "Bl. Veronica of Milan",
+        "pt-BR": "Beata Verônica de Milão"
       },
       "patronOf": {
         "en-US": "Lay sister of St. Martha's, Milan",
@@ -64,7 +64,7 @@
         "pt-BR": "\"Devo trabalhar enquanto posso, enquanto tenho tempo.\""
       },
       "excerptSource": "content/practices/saint-of-the-day/data/saint-of-day-index.json 01-13 reflection, her words it quotes (Pictorial Lives, public domain)",
-      "subject": "St. Veronica of Milan, Augustinian lay sister, half-length: a black Augustinian habit with a leather belt, a white linen wimple framing the face and a black veil; a coarse linen alms-sack slung over one shoulder, and in her hands a round loaf of bread begged for her community; a small sprig of olive tucked into the belt. Behind her, a narrow street of old Milan with brick houses and arcades, and in the distance the flat green Lombard fields with rows of poplars where she once worked, under a pale, hazy morning sky. Cheerful, humble and hard-working; no lettering.",
+      "subject": "St. Veronica of Milan, Augustinian lay sister, half-length: a black Augustinian habit with a leather belt, a white linen wimple framing the face and a black veil; a coarse linen alms-sack slung over one shoulder, and in her hands a round loaf of bread begged for her community; a small sprig of olive tucked into the belt. Behind her, a narrow street of old Milan with brick houses and arcades, and in the distance the flat green Lombard fields with rows of poplars where she once worked, under a pale, hazy morning sky. Cheerful, humble and hard-working; no lettering. She is a Blessed, not yet canonized: behind her head there is NO halo ring and NO gold disc, only a glory of fine, straight gold RAYS spreading outward from behind the head, with no circle round them.",
       "face": "A Lombard countrywoman of about fifty with a sun-weathered, ruddy complexion and a SHORT, BROAD face under a LOW, WIDE brow — high, round APPLE cheekbones, a short, broad nose with a slightly upturned tip, small, bright, deep-set dark-brown eyes under thick, straight dark brows, a wide mouth with thin lips set in a patient half-smile, a small, firm, square chin; hair hidden by the wimple; her gaze lifted a little, cheerful and willing.",
       "refs": [
         "rita_cascia",
@@ -83,7 +83,8 @@
         }
       ],
       "lifeChapter": "jan-13-veronica-of-milan",
-      "catalogMatch": "St. Veronica of Milan"
+      "catalogMatch": "Bl. Veronica of Milan",
+      "frame": "an inner arched, gold-edged window holding the scene; the figure has NO ring halo and NO disc halo: instead the rays of a Blessed, fine straight gold rays of light spreading from behind the head like a sunburst, with no circle round them"
     },
     {
       "id": "paul_hermit",
