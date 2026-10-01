@@ -50,8 +50,9 @@ const DETENTS = [PEEK, HALF, FULL]
 // is the Host's background content (so `presentationBackgroundInteraction` keeps it LIVE behind the
 // sheet), and the native `BottomSheet` rides over it. Tapping a pin or row swaps the sheet to that
 // church's detail in place (and swings the map to it) — never a new page.
-// Nearly opaque paper: the default sheet glass lets the map's colours wash through the text.
-const sheetOpacity = 'F2'
+// Paper with the map faintly behind it: the default sheet glass lets the map's colours wash through
+// the text, a solid sheet loses the sense of the map underneath.
+const sheetOpacity = 'CC'
 
 export function ChurchSheet({
   nearby,
@@ -471,7 +472,6 @@ function NextMassNearby({
     >
       <YStack gap="$sm">
         <SectionLabel cross>{t('massTimes.nextMassNearby')}</SectionLabel>
-        {/* The name block centres on the big time rather than hanging off its baseline. */}
         <XStack alignItems="center" gap="$md">
           <Typography
             variant="sacred-title"
@@ -481,14 +481,16 @@ function NextMassNearby({
           >
             {formatTimeOfDay(soonest.startTime)}
           </Typography>
-          <YStack flex={1}>
-            <Typography variant="interface" fontSize="$3" numberOfLines={2}>
+          {/* Two tight lines spanning the time's height: the name's cap line level with the top of
+              the figures, the day on their baseline. One line for the name, so the span holds. */}
+          <YStack flex={1} top={-7}>
+            <Typography variant="interface" fontSize={19} lineHeight={22} numberOfLines={1}>
               {church.name}
             </Typography>
-            <Typography variant="annotation" fontSize="$2">
+            <Typography variant="annotation" fontSize={16} lineHeight={17}>
               <Typography
                 variant="annotation"
-                fontSize="$2"
+                fontSize={16}
                 color={isToday ? '$colorBurgundy' : '$colorSecondary'}
               >
                 {dayLabel(soonest.date, now, t, locale)}
