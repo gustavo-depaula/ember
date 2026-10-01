@@ -14,15 +14,15 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
 | Saints of the Pictorial Lives (Saint of the Day) | 245 | 125 |
-| Feasts of the Lord and the Church | 25 | 5 |
-| Our Lady | 21 | 6 |
+| Feasts of the Lord and the Church | 25 | 25 |
+| Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
-| Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
+| Mysteries of the Rosary (not shared with a feast) | 9 | 9 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 615 cards, 494 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 614 cards, 494 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
