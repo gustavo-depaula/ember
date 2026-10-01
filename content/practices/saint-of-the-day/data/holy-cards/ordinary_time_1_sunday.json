@@ -1,0 +1,37 @@
+{
+  "id": "ordinary_time_1_sunday",
+  "name": {
+    "en-US": "Ordinary Time I Sundays",
+    "pt-BR": "Domingos do Tempo Comum I"
+  },
+  "patronOf": {
+    "en-US": "The Sundays between Christmas and Lent",
+    "pt-BR": "Os domingos entre o Natal e a Quaresma"
+  },
+  "prayerExcerpt": {
+    "en-US": "All the earth shall bow down before you, O God, and shall sing to you.",
+    "pt-BR": "Toda a terra vos adore com respeito, e proclame o louvor do vosso nome, ó Altíssimo."
+  },
+  "proper": "tempore.ordinary-time.week-2.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "Green is the colour of Ordinary Time (GIRM 346c); the card shows the Sunday itself, the parish gathering for Mass, rather than a moment of the rite, which the parts-of-the-Mass cards paint. The Second Sunday is chosen as the formulary: the First Sunday of the season gives way to the Baptism of the Lord.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-2/sunday.json entranceAntiphon (en-US first clause, comma made a full stop; pt-BR whole, its line break joined)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "Wikipedia, Ordinary Time",
+        "url": "https://en.wikipedia.org/wiki/Ordinary_Time"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

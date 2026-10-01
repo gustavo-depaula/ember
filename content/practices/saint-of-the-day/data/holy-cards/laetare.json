@@ -1,0 +1,37 @@
+{
+  "id": "laetare",
+  "name": {
+    "en-US": "Laetare Sunday",
+    "pt-BR": "Domingo Laetare"
+  },
+  "patronOf": {
+    "en-US": "The Fourth Sunday of Lent",
+    "pt-BR": "O quarto domingo da Quaresma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Rejoice, Jerusalem, and all who love her.",
+    "pt-BR": "Alegra-te, Jerusalém! Reuni-vos, vós todos que a amais!"
+  },
+  "proper": "tempore.lent.week-4.sunday",
+  "meta": {
+    "face": "-",
+    "basis": "GIRM 346f allows rose on Laetare Sunday where it is the practice (the repo's formulary gives violet, the obligatory colour); GIRM 305 and 313 make Laetare the Lenten exception for flowers at the altar and for the organ played alone, which the card paints.",
+    "excerpt": "content/of/formularies/tempore/lent/week-4/sunday.json entranceAntiphon (first sentence en-US; first two lines pt-BR, joined; verbatim)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}

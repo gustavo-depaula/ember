@@ -18,11 +18,11 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Our Lady | 21 | 6 |
 | Angels | 4 | 3 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
-| Seasons (including the 4 Ember Days) | 19 | 0 |
+| Seasons (including the 4 Ember Days) | 19 | 10 |
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 615 cards, 383 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 393 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -613,10 +613,10 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 
 ## Seasons
 
-- [ ] Advent — Sunday · [ ] Advent — weekday · [ ] Gaudete (rose)
-- [ ] Christmas — Sunday · [ ] Christmas — weekday
-- [ ] Ordinary Time I — Sunday · [ ] Ordinary Time I — weekday
-- [ ] Lent — Sunday · [ ] Lent — weekday · [ ] Laetare (rose)
+- [x] Advent — Sunday — `advent_sunday` · [x] Advent — weekday — `advent_weekday` · [x] Gaudete (rose) — `gaudete`
+- [x] Christmas — Sunday — `christmas_sunday` · [x] Christmas — weekday — `christmas_weekday`
+- [x] Ordinary Time I — Sunday — `ordinary_time_1_sunday` · [x] Ordinary Time I — weekday — `ordinary_time_1_weekday`
+- [x] Lent — Sunday — `lent_sunday` · [x] Lent — weekday — `lent_weekday` · [x] Laetare (rose) — `laetare`
 - [ ] The Sacred Paschal Triduum
 - [ ] Easter — Sunday · [ ] Easter — weekday
 - [ ] Ordinary Time II — Sunday · [ ] Ordinary Time II — weekday

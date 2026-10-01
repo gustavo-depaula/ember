@@ -1,0 +1,41 @@
+{
+  "id": "lent_weekday",
+  "name": {
+    "en-US": "Lenten Weekdays",
+    "pt-BR": "Dias de semana da Quaresma"
+  },
+  "patronOf": {
+    "en-US": "Daily conversion through the forty days",
+    "pt-BR": "A conversão de cada dia nos quarenta dias"
+  },
+  "prayerExcerpt": {
+    "en-US": "Convert us, O God our Savior.",
+    "pt-BR": "Convertei-nos, ó Deus, nosso Salvador."
+  },
+  "proper": "tempore.lent.week-1.monday",
+  "meta": {
+    "face": "-",
+    "basis": "The weekday Mass of Lent in violet (GIRM 346d) with the flowerless altar of GIRM 305; the Stations of the Cross, a devotion the Directory on Popular Piety ties to Lent, are painted as part of the chapel's walls, not as a service.",
+    "excerpt": "content/of/formularies/tempore/lent/week-1/monday.json collect (opening words, verbatim in both languages, full stop added)",
+    "sources": [
+      {
+        "title": "GIRM ch. 6, no. 346 (colours: violet in Advent and Lent, rose on Gaudete and Laetare, white at Christmas, green in Ordinary Time)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-6"
+      },
+      {
+        "title": "GIRM ch. 5, nos. 299, 305, 313 (altar, flowers, organ in Advent and Lent)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "Directory on Popular Piety and the Liturgy (2001), nos. 98 (Advent wreath), 104 (crib)",
+        "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-44.md."
+      }
+    ]
+  }
+}
