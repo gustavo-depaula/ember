@@ -1,0 +1,44 @@
+{
+  "id": "miraculous_medal",
+  "feast": {
+    "month": 11,
+    "day": 27
+  },
+  "name": {
+    "en-US": "Our Lady of the Miraculous Medal",
+    "pt-BR": "Nossa Senhora da Medalha Milagrosa"
+  },
+  "patronOf": {
+    "en-US": "The medal of the Immaculate Conception",
+    "pt-BR": "A medalha da Imaculada Conceição"
+  },
+  "prayerExcerpt": {
+    "en-US": "O Mary, conceived without sin, pray for us who have recourse to thee.",
+    "pt-BR": "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
+  },
+  "meta": {
+    "face": "Our Lady as in recurring-figures.md, a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under the white veil; her eyes LOWERED toward the globe, as St. Catherine says they were when the rays fell.",
+    "basis": "St. Catherine Labouré's account of the apparition (dress 'blanche aurore', white veil to the feet, the globe and the greenish serpent, the jewelled rings and their rays, the lowered eyes, the oval frame) and the medal struck in 1832. An apparition, not a fixed statue, so Our Lady keeps the set's face.",
+    "excerpt": "The invocation round the medal (Ô Marie, conçue sans péché, priez pour nous qui avons recours à vous), in the wording of content/practices/miraculous-medal-novena/flow.json",
+    "sources": [
+      {
+        "title": "La Porte Latine, Apparition de Notre-Dame au 140 rue du Bac (St. Catherine Labouré's description)",
+        "url": "https://laportelatine.org/apparitions/notre-dame-rue-du-bac-paris-medaille-miraculeuse"
+      },
+      {
+        "title": "Wikipedia, Miraculous Medal (the apparition, the inscription, the feast on 27 November)",
+        "url": "https://en.wikipedia.org/wiki/Miraculous_Medal"
+      },
+      {
+        "title": "Wikimedia Commons, Miraculous medal.jpg (obverse and reverse)",
+        "url": "https://commons.wikimedia.org/wiki/File:Miraculous_medal.jpg"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}

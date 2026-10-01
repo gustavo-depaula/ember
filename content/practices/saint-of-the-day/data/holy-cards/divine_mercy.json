@@ -1,0 +1,40 @@
+{
+  "id": "divine_mercy",
+  "name": {
+    "en-US": "The Divine Mercy",
+    "pt-BR": "A Divina Misericórdia"
+  },
+  "patronOf": {
+    "en-US": "The mercy of the risen Christ",
+    "pt-BR": "A misericórdia de Cristo ressuscitado"
+  },
+  "prayerExcerpt": {
+    "en-US": "Bring your hand and feel the place of the nails, and do not be unbelieving but believing, alleluia.",
+    "pt-BR": "Coloca aqui a tua mão e reconhece o lugar dos cravos, e não sejas incrédulo, mas fiel, aleluia."
+  },
+  "meta": {
+    "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; the lids a little lowered, the gaze turned gently DOWN toward the viewer as in Kazimirowski's painting. The wounds show only as small, clean marks on the hands and feet.",
+    "basis": "Kazimirowski's 1934 painting, the first image of the devotion, painted at Vilnius under St. Faustina's direction: Christ in white, blessing with the right hand, the left at the breast, the pale and red rays. Christ keeps the set's face, with the painting's lowered gaze.",
+    "excerpt": "content/of/formularies/tempore/easter/week-2/sunday.json communionAntiphon (Second Sunday of Easter, or of Divine Mercy)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Eugeniusz Kazimirowski, Divine Mercy, 1934",
+        "url": "https://commons.wikimedia.org/wiki/File:Kazimirowski_Eugeniusz,_Divine_Mercy,_1934.jpg"
+      },
+      {
+        "title": "Wikipedia, Divine Mercy image",
+        "url": "https://en.wikipedia.org/wiki/Divine_Mercy_image"
+      },
+      {
+        "title": "Roman Missal, Second Sunday of Easter (or of Divine Mercy)",
+        "url": "content/of/formularies/tempore/easter/week-2/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}

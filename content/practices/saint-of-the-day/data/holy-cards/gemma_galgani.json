@@ -1,0 +1,44 @@
+{
+  "id": "gemma_galgani",
+  "feast": {
+    "month": 4,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Gemma Galgani",
+    "pt-BR": "Santa Gemma Galgani"
+  },
+  "patronOf": {
+    "en-US": "Virgin of Lucca, lover of the Passion",
+    "pt-BR": "Virgem de Lucca, amante da Paixão"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Jesus, make me like Thee; make me suffer with Thee.\"",
+    "pt-BR": "\"Jesus, fazei-me semelhante a Vós; fazei-me sofrer convosco.\""
+  },
+  "meta": {
+    "face": "A young woman of about twenty-two with a pale, clear complexion and a full OVAL face, broad at the cheekbones and tapering to a small, firm, rounded chin — a high smooth forehead, dark, straight, softly sloping brows, large, clear grey-brown eyes raised upward, a straight nose with a broad, rounded tip, a small mouth with full lips, closed; dark-brown hair parted in the centre and drawn smoothly back behind the ears to a knot at the nape, ears showing; the gaze lifted to heaven, rapt and calm.",
+    "basis": "Her photograph of September 1900 (Commons): an oval, full-cheeked face lifted upward, large light eyes, a broad-tipped nose, full lips, dark hair parted and drawn back, a black high-collared dress. Germanus says she dressed simply, without ornament, and kept her remarkably brilliant eyes lowered. The eye colour is not recorded (the photograph is monochrome); grey-brown is a guess.",
+    "excerpt": "Her prayer before the Crucifix, as Ven. Germanus of St. Stanislaus gives it in his Life of Gemma Galgani (English translation by A. M. O'Sullivan, 1913, public domain), shortened; pt-BR our rendering of the English (the Italian original was not found online)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Gemma Galgani - Originalfoto (Detail) 2.jpg (photograph, 1900)",
+        "url": "https://commons.wikimedia.org/wiki/File:Gemma_Galgani_-_Originalfoto_(Detail)_2.jpg"
+      },
+      {
+        "title": "Germanus of St. Stanislaus, The Life of Gemma Galgani, trans. A. M. O'Sullivan (B. Herder, 1913), Internet Archive",
+        "url": "https://archive.org/details/the-life-of-saint-gemma-galgani-by-venerable-reverend-germanus-c.-p"
+      },
+      {
+        "title": "Wikipedia (it), Gemma Galgani (11 April in the Roman Martyrology)",
+        "url": "https://it.wikipedia.org/wiki/Gemma_Galgani"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-55.md."
+      }
+    ]
+  }
+}
