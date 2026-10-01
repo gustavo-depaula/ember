@@ -11,7 +11,7 @@ import { useGlassTile } from './glass'
 
 // The filters as one scrolling chip row under the search bar, in the church sheet itself. A second
 // sheet can't be used here: presenting one replaces the native church sheet, which never returns.
-// A service chip toggles (tapping the active one clears it); Today and Saved are independent.
+// A service chip toggles (tapping the active one clears it); Saved is independent.
 export function FilterChips({
   filter,
   onChange,
@@ -40,11 +40,6 @@ export function FilterChips({
           onPress={() => set({ ...filter, kind: filter.kind === kind ? undefined : kind })}
         />
       ))}
-      <Chip
-        label={t('massTimes.today')}
-        selected={filter.today}
-        onPress={() => set({ ...filter, today: !filter.today })}
-      />
       <Chip
         label={t('massTimes.savedSection')}
         icon={
