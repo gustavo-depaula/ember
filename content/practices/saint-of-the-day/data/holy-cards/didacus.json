@@ -1,0 +1,49 @@
+{
+  "id": "didacus",
+  "feast": {
+    "month": 11,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Didacus",
+    "pt-BR": "São Dídaco"
+  },
+  "patronOf": {
+    "en-US": "Franciscan lay brother",
+    "pt-BR": "Irmão leigo franciscano"
+  },
+  "prayerExcerpt": {
+    "en-US": "If God be in your heart, He will be also on your lips; for Christ has said, \"From the abundance of the heart the mouth speaketh.\"",
+    "pt-BR": "Se Deus estiver em teu coração, estará também em teus lábios; pois Cristo disse: \"Da abundância do coração fala a boca.\""
+  },
+  "lifeChapter": "nov-14-didacus",
+  "meta": {
+    "face": "An Andalusian of about sixty with a sun-browned olive complexion and a LONG, NARROW, SMOOTH OVAL face after Zurbarán — a high, narrow forehead, a very LONG, THIN, straight nose with a slight DROOP at its tip, SMALL, soft, dark ALMOND eyes under THIN, HIGH-arching black brows, gently hollow cheeks, a SMALL, pursed, closed mouth, a LONG, NARROW chin; CLEAN-SHAVEN; black hair greying at the sides in the Franciscan crown; the gaze turned a little aside, mild and humble. Not the angular, moustached paschal_baylon, the bony, bald peter_alcantara, the round frei_galvao, the broad benedito or the heart-shaped nicholas_tolentino.",
+    "basis": "No portrait from life survives. Zurbarán's St. Didacus (English Wikipedia's lead) paints a lean friar with a long, narrow, clean-shaven face and a long nose, which the card follows; the cross is from the book, which has him die embracing it with the Dulce lignum on his lips. Zurbarán's roses, from a later legend, are left off.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-14-didacus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Didacus of Alcalá (lead: Zurbarán)",
+        "url": "https://en.wikipedia.org/wiki/Didacus_of_Alcal%C3%A1"
+      },
+      {
+        "title": "Wikipedia (es), Diego de Alcalá",
+        "url": "https://es.wikipedia.org/wiki/Diego_de_Alcal%C3%A1"
+      },
+      {
+        "title": "Santi e Beati, San Diego di Alcalá (Roman Martyrology entry, 12 November)",
+        "url": "https://www.santiebeati.it/dettaglio/35300"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-14-didacus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-14-didacus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

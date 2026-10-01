@@ -1,0 +1,45 @@
+{
+  "id": "edmund_canterbury",
+  "feast": {
+    "month": 11,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Edmund of Canterbury",
+    "pt-BR": "Santo Edmundo de Cantuária"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Canterbury",
+    "pt-BR": "Arcebispo de Cantuária"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Saints were tempted even more than ourselves; but they stood where we fall, because they trusted to Mary, and not to themselves.",
+    "pt-BR": "Os Santos foram tentados ainda mais do que nós; mas mantiveram-se firmes onde nós caímos, porque confiaram em Maria, e não em si mesmos."
+  },
+  "lifeChapter": "nov-16-edmund-of-canterbury",
+  "meta": {
+    "face": "An Englishman of about sixty-five, spare from fasting, with a fair, pale complexion and a LEAN, ANGULAR face WIDEST at HIGH, SHARP cheekbones — a TALL, straight forehead, a nose with a pronounced DOWNWARD HOOK at its tip, PALE-GREY, deep-set, kindly eyes under thin, level grey brows, deep vertical lines beside a THIN-LIPPED, gently smiling mouth, a small, POINTED chin; CLEAN-SHAVEN; thin grey hair cut short below the mitre; the gaze mild and thoughtful. Not the long-headed, jutting-chinned, short-bearded anselm, the long, fine-nosed thomas_becket, the triangular, hollow simon_stock, the square-bearded augustine_canterbury, the bulge-browed elphege or the broad, snub-nosed richard_chichester.",
+    "basis": "No portrait from life survives; the lead image on English Wikipedia is a Nuremberg Chronicle woodcut. The lean, ascetic scholar follows the book and Wikipedia (lecturer at Paris and Oxford, an ascetic); Pontigny is where the book says he lies.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-16-edmund-of-canterbury.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Edmund of Abingdon (lead: Nuremberg Chronicle)",
+        "url": "https://en.wikipedia.org/wiki/Edmund_of_Abingdon"
+      },
+      {
+        "title": "Santi e Beati, Sant'Edmondo Rich (Roman Martyrology entry, 16 November)",
+        "url": "https://www.santiebeati.it/dettaglio/77845"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-16-edmund-of-canterbury (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-16-edmund-of-canterbury.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

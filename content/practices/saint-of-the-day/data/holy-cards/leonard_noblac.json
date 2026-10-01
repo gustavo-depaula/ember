@@ -1,0 +1,49 @@
+{
+  "id": "leonard_noblac",
+  "feast": {
+    "month": 11,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Leonard",
+    "pt-BR": "São Leonardo"
+  },
+  "patronOf": {
+    "en-US": "Patron of prisoners",
+    "pt-BR": "Padroeiro dos prisioneiros"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"The wicked shall be taken with his own iniquities, and shall be held by the cords of his own sin.\"",
+    "pt-BR": "\"O ímpio será apanhado por suas próprias iniquidades, e será preso pelas cordas de seu próprio pecado.\""
+  },
+  "lifeChapter": "nov-06-leonard",
+  "meta": {
+    "face": "A Frank of about fifty with a fair, lightly weathered complexion and a face that is WIDE and FLAT across the EYES — a broad, low forehead, a BROAD, straight nose with a LOW bridge, WIDE-SET, soft brown eyes that SLOPE gently DOWN at their outer corners under thick, low, dark-brown brows, broad, flat cheeks, a WIDE mouth with FULL, gentle lips, a broad, ROUNDED chin; thick dark-brown hair around a monastic tonsure; a SHORT, CURLY dark-brown beard, just touched with grey; the gaze kind and patient. Not the long-headed, close-eyed ludger, the heart-shaped, Irish-tonsured fiaker, the broad, square-jawed lambert, the hooded, triangular anthony_abbot or the wide, short, flat-faced Crispin of crispin_crispinian (clean-shaven).",
+    "basis": "No likeness survives; the eleventh-century Vita is late and the book's life follows it. The card keeps the hermit of the book's engraving and the fetters of his patronage (Wikipedia, and the lead statue on English Wikipedia, which shows him bearded with a chain).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-06-leonard.md Reflection, the whole of it (Proverbs 5:22) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Leonard of Noblac (lead: statue)",
+        "url": "https://en.wikipedia.org/wiki/Leonard_of_Noblac"
+      },
+      {
+        "title": "Wikipedia (fr), Léonard de Noblac (lead: statue at Westerheim)",
+        "url": "https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Noblac"
+      },
+      {
+        "title": "Santi e Beati, San Leonardo di Limoges (Roman Martyrology entry, 6 November)",
+        "url": "https://www.santiebeati.it/dettaglio/76300"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-06-leonard (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-06-leonard.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

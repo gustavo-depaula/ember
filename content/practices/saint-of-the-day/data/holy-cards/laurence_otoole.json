@@ -1,0 +1,45 @@
+{
+  "id": "laurence_otoole",
+  "feast": {
+    "month": 11,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Laurence O'Toole",
+    "pt-BR": "São Lourenço O'Toole"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Dublin",
+    "pt-BR": "Arcebispo de Dublin"
+  },
+  "prayerExcerpt": {
+    "en-US": "The holy youth, by his fidelity in corresponding with the divine grace, grew to be a model of virtues.",
+    "pt-BR": "O santo jovem, por sua fidelidade em corresponder à graça divina, tornou-se um modelo de virtudes."
+  },
+  "lifeChapter": "nov-14-laurence-otoole",
+  "meta": {
+    "face": "An Irish prince of Leinster of about fifty, TALL and lean, with a fair, lightly weathered complexion and a LONG face with a STRONG, ANGULAR jaw whose corners show clearly — a high, straight forehead, a LONG, HIGH-BRIDGED, gently ARCHED nose, DEEP-SET, steady grey eyes under STRAIGHT, dark brows drawn a little together, flat, lean cheeks, a WIDE, firm, thin-lipped mouth; dark-brown hair greying, cut short below the mitre; a SHORT, CLOSE-TRIMMED dark-brown BEARD streaked with grey, following the angular jaw; the look grave and resolute. Not the clean-shaven, smooth, neat-nosed malachi_armagh, the broad, white-haired columba, the long, flaxen finbarr, the square, snub-nosed gall, the big-boned, red-grey columban or the clean-shaven thomas_becket.",
+    "basis": "No likeness survives; the card gives him a strong, bearded, aristocratic face to stand apart from the batch's and the earlier Irish cards, the son of a king of the Uí Muiredaig (Wikipedia). Glendalough, where the book and Wikipedia make him abbot, is behind him.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-14-laurence-otoole.md, first paragraph, third sentence; the chapter has no Reflection, so the card has none (the index's 11-14 reflection is St. Didacus's) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Laurence O'Toole (lead: window, Wexford)",
+        "url": "https://en.wikipedia.org/wiki/Laurence_O%27Toole"
+      },
+      {
+        "title": "Santi e Beati, San Lorenzo O'Toole (Roman Martyrology entry, 14 November)",
+        "url": "https://www.santiebeati.it/dettaglio/90998"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-14-laurence-otoole (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-14-laurence-otoole.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

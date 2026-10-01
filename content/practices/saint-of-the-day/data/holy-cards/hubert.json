@@ -1,0 +1,49 @@
+{
+  "id": "hubert",
+  "feast": {
+    "month": 11,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Hubert",
+    "pt-BR": "Santo Huberto"
+  },
+  "patronOf": {
+    "en-US": "Patron of hunters",
+    "pt-BR": "Padroeiro dos caçadores"
+  },
+  "prayerExcerpt": {
+    "en-US": "What the Wise Man has said of Wisdom may be applied to Grace: \"That it ordereth the means with gentleness, and attaineth its end with power.\"",
+    "pt-BR": "O que o Sábio disse da Sabedoria pode aplicar-se à Graça: \"Que dispõe os meios com brandura, e alcança seu fim com poder.\""
+  },
+  "lifeChapter": "nov-03-hubert",
+  "meta": {
+    "face": "A Frank of about sixty-five, broad-shouldered, with a ruddy, weathered outdoor complexion and a face WIDEST at HIGH, ROUNDED, JUTTING cheekbones, tapering below them to a FIRM, fairly narrow chin (a wide inverted egg) — a broad, smooth forehead, a SHORT, straight nose with FLARED nostrils, DEEP-SET, far-seeing pale-blue eyes with deep crow's-feet from years in the open, THICK, TUFTED sandy-grey brows, a wide, good-humoured mouth; thick, WAVY sandy hair going grey, left fairly full; a FULL, ROUNDED, sandy-grey beard of medium length that follows the tapering chin; the gaze warm and direct. Not his master lambert (long, parallel-sided, square-jawed, short dense iron-grey beard), the hawkish, forward-chinned hunter eustachius, the oblong, domed, round-chinned huntsman germanus_auxerre, the broad, snub-nosed boniface or the long, symmetrical remigius.",
+    "basis": "No likeness survives, and the book says his early life is known only from popular traditions. The card makes him the bishop of the book's Ardennes mission with the horn of the patron of hunters; the stag, his Santi e Beati emblem, stands in the forest as an ordinary deer, since the vision of the crucifix between its antlers is a legend shared with other saints (Santi e Beati's notice: 'Leggenda, e nemmeno esclusiva') and with St. Eustace (Wikipedia) and is already on `eustachius`.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-03-hubert.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Hubertus (lead: stained glass, Ottawa)",
+        "url": "https://en.wikipedia.org/wiki/Hubertus"
+      },
+      {
+        "title": "Wikipedia (fr), Hubert de Liège (lead: chromolithograph)",
+        "url": "https://fr.wikipedia.org/wiki/Hubert_de_Li%C3%A8ge"
+      },
+      {
+        "title": "Santi e Beati, Sant'Uberto di Tongeren-Maastricht (Roman Martyrology entry, 30 May)",
+        "url": "https://www.santiebeati.it/dettaglio/76100"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-03-hubert (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-03-hubert.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

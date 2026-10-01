@@ -1,0 +1,49 @@
+{
+  "id": "theodore_tyro",
+  "feast": {
+    "month": 11,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Theodore Tyro",
+    "pt-BR": "São Teodoro Tiro"
+  },
+  "patronOf": {
+    "en-US": "Soldier and martyr",
+    "pt-BR": "Soldado e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "We are enlisted in the same service as the holy martyrs, and we too must have courage and constancy if we would be perfect soldiers of Jesus Christ.",
+    "pt-BR": "Estamos alistados no mesmo serviço que os santos mártires, e também nós devemos ter coragem e constância se quisermos ser perfeitos soldados de Jesus Cristo."
+  },
+  "lifeChapter": "nov-09-theodore-tyro",
+  "meta": {
+    "face": "A Greek of the East of about twenty-two, a recruit, with a warm olive complexion and a NARROW, LONG face with a CLASSICAL GREEK PROFILE — the nose continuing the line of the forehead WITHOUT a dip, long and straight, LARGE, dark, ALMOND eyes under HEAVY upper lids and long, level black brows, lean cheeks, a SMALL, full, firmly closed mouth, a NARROW chin; thick, straight, glossy BLACK hair falling in a full bowl OVER the ears; a SHORT, dense, BLACK young beard, as the Painter's Manual has him; the gaze steady and calm. Not the curly young george and sebastian, the hawkish eustachius, the joined-browed romanus_ostiarius, the round, grizzled marcellus_centurion, the smooth, beardless pantaleon or the bell-shaped theodoret_antioch.",
+    "basis": "The Painter's Manual of Dionysius of Fourna (`consult/hermeneia-ocr.txt`, 17 February) gives Theodore Teron 'a black beard, and his hair coming down over his ears'; the young face follows his name (the Recruit) and the book ('while still a youth'). Amasea is the Martyrology's place.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-09-theodore-tyro.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Theodore of Amasea (lead: icon by Angelos Akotantos)",
+        "url": "https://en.wikipedia.org/wiki/Theodore_of_Amasea"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hetherington tr.), Theodore Teron",
+        "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+      },
+      {
+        "title": "Santi e Beati, San Teodoro di Amasea (Roman Martyrology entry)",
+        "url": "https://www.santiebeati.it/dettaglio/76900"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-09-theodore-tyro (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-09-theodore-tyro.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

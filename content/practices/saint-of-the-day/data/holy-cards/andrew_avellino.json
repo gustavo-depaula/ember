@@ -1,0 +1,49 @@
+{
+  "id": "andrew_avellino",
+  "feast": {
+    "month": 11,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Andrew Avellino",
+    "pt-BR": "Santo André Avelino"
+  },
+  "patronOf": {
+    "en-US": "Patron against sudden death",
+    "pt-BR": "Padroeiro contra a morte súbita"
+  },
+  "prayerExcerpt": {
+    "en-US": "Ask him to be with you in your last hour, and to bring Jesus and Mary to your aid.",
+    "pt-BR": "Pedi-lhe que esteja convosco em vossa última hora, e que traga Jesus e Maria em vosso auxílio."
+  },
+  "lifeChapter": "nov-10-st-andrew-avellino",
+  "meta": {
+    "face": "A southern Italian of about eighty-eight with a pale, parchment-soft olive complexion and a BROAD, BIG-BONED, SQUARE face — a massive, smooth, BALD DOME with a few wisps of white hair above the ears, a STRONG, straight brow, a SHORT, broad nose with a FLATTENED, rounded tip, SMALL, deep-set, kindly dark eyes under BUSHY, white brows, wide cheekbones with softened hollows below, a wide, firm mouth; a SHORT, FULL, ROUNDED white beard and moustache, neatly kept; the gaze lowered to the altar, patient and gentle. Not his order's founder cajetan (round, soft, dark-bearded), the bald, rectangular, ruddy john_leonardi, the gaunt, hook-nosed laurence_justinian, the soft, long francis_caracciolo, the bony, bald peter_alcantara or the clean-shaven, bald andre_soveral.",
+    "basis": "No portrait from life was found. Later images (the nineteenth-century painting on Italian Wikipedia; the statue on the façade of Sant'Antonio Abate, Milan) show an old, bald priest with a short white beard, which the card keeps; he is shown at the foot of the altar, where the book and the Martyrology say he died, but before his stroke.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-10-st-andrew-avellino.md Reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Andrew Avellino (lead: statue, Sant'Antonio Abate, Milan)",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Avellino"
+      },
+      {
+        "title": "Wikipedia (it), Andrea Avellino (lead: painting, 19th century)",
+        "url": "https://it.wikipedia.org/wiki/Andrea_Avellino"
+      },
+      {
+        "title": "Santi e Beati, Sant'Andrea Avellino (Roman Martyrology entry, 10 November)",
+        "url": "https://www.santiebeati.it/dettaglio/35250"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-10-st-andrew-avellino (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-10-st-andrew-avellino.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-39.md."
+      }
+    ]
+  }
+}

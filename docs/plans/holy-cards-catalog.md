@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 245 | 95 |
+| Saints of the Pictorial Lives (Saint of the Day) | 245 | 105 |
 | Feasts of the Lord and the Church | 25 | 5 |
 | Our Lady | 21 | 6 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 615 cards, 464 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 474 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -502,16 +502,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 30 Oct · St. Marcellus, the Centurion, Martyr · *São Marcelo, o Centurião, Mártir* · Pictorial Lives
 - [ ] 31 Oct · St. Quintin, Martyr · *São Quintino, Mártir* · Pictorial Lives
 - [ ] 2 Nov · St. Malachi, Bishop · *São Malaquias, Bispo* · Pictorial Lives
-- [ ] 3 Nov · St. Hubert, Bishop · *Santo Huberto, Bispo* · Pictorial Lives
-- [ ] 5 Nov · St. Bertille, Abbess · *Santa Bertila, Abadessa* · Pictorial Lives
-- [ ] 6 Nov · St. Leonard · *São Leonardo* · Pictorial Lives
-- [ ] 7 Nov · St. Willibrord · *São Vilibrordo* · Pictorial Lives
-- [ ] 9 Nov · St. Theodore Tyro, Martyr · *São Teodoro Tiro, Mártir* · Pictorial Lives
-- [ ] 10 Nov · St. Andrew Avellino · *Santo André Avelino* · Pictorial Lives
-- [ ] 13 Nov · St. Stanislas Kostka · *São Estanislau Kostka* · Pictorial Lives
-- [ ] 14 Nov · St. Didacus · *São Dídaco* · Pictorial Lives
-- [ ] 14 Nov · St. Laurence O'Toole, Archbishop of Dublin · *São Lourenço O'Toole, Arcebispo de Dublin* · Pictorial Lives
-- [ ] 16 Nov · St. Edmund of Canterbury · *Santo Edmundo de Cantuária* · Pictorial Lives
+- [x] 3 Nov · St. Hubert, Bishop · *Santo Huberto, Bispo* · Pictorial Lives — `hubert`
+- [x] 5 Nov · St. Bertille, Abbess · *Santa Bertila, Abadessa* · Pictorial Lives — `bertille`
+- [x] 6 Nov · St. Leonard · *São Leonardo* · Pictorial Lives — `leonard_noblac`
+- [x] 7 Nov · St. Willibrord · *São Vilibrordo* · Pictorial Lives — `willibrord`
+- [x] 9 Nov · St. Theodore Tyro, Martyr · *São Teodoro Tiro, Mártir* · Pictorial Lives — `theodore_tyro`
+- [x] 10 Nov · St. Andrew Avellino · *Santo André Avelino* · Pictorial Lives — `andrew_avellino`
+- [x] 13 Nov · St. Stanislas Kostka · *São Estanislau Kostka* · Pictorial Lives — `stanislas_kostka`
+- [x] 14 Nov · St. Didacus · *São Dídaco* · Pictorial Lives — `didacus`
+- [x] 14 Nov · St. Laurence O'Toole, Archbishop of Dublin · *São Lourenço O'Toole, Arcebispo de Dublin* · Pictorial Lives — `laurence_otoole`
+- [x] 16 Nov · St. Edmund of Canterbury · *Santo Edmundo de Cantuária* · Pictorial Lives — `edmund_canterbury`
 - [ ] 17 Nov · St. Gregory Thaumaturgus · *São Gregório Taumaturgo* · Pictorial Lives
 - [ ] 18 Nov · St. Odo of Cluny · *Santo Odão de Cluny* · Pictorial Lives
 - [ ] 20 Nov · St. Felix of Valois · *São Félix de Valois* · Pictorial Lives
