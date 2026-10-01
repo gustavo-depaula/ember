@@ -46,9 +46,15 @@ export function SaintCardTile({
               bottom={0}
               alignItems="center"
               justifyContent="center"
-              paddingHorizontal="15%"
+              paddingHorizontal="10%"
             >
-              <Text fontFamily="$heading" fontSize="$1" color={cardInk.name} textAlign="center">
+              {/* Sized to the tile, so a long name ("Transfiguration") still fits one line of a narrow one. */}
+              <Text
+                fontFamily="$heading"
+                fontSize={Math.min(13, width * 0.1)}
+                color={cardInk.name}
+                textAlign="center"
+              >
                 {saint.name}
               </Text>
             </View>

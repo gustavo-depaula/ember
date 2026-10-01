@@ -14,7 +14,7 @@ import { SaintCardTile } from './SaintCardTile'
 export type SaintGrouping = 'calendar' | 'collected' | 'alpha'
 
 const gap = 12
-const columns = 2
+const columns = 3
 
 type Section = { key: string; title: string; data: SaintEntry[][] }
 
@@ -123,7 +123,7 @@ export function SaintWall({
   const heldFor = grouping === 'collected' ? held : undefined
 
   const contentWidth = Math.min(screenWidth - 48, 640)
-  const itemWidth = (contentWidth - gap) / columns
+  const itemWidth = (contentWidth - gap * (columns - 1)) / columns
 
   // Build the sections and the flat display order in one pass: the pager swipes
   // in the same order the wall currently shows (tiles navigate by id).
