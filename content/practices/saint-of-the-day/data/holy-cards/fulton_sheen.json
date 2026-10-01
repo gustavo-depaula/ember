@@ -1,0 +1,48 @@
+{
+  "id": "fulton_sheen",
+  "feast": {
+    "month": 12,
+    "day": 9
+  },
+  "name": {
+    "en-US": "Bl. Fulton J. Sheen",
+    "pt-BR": "Bem-aventurado Fulton J. Sheen"
+  },
+  "patronOf": {
+    "en-US": "Archbishop, preacher of the Gospel",
+    "pt-BR": "Arcebispo, pregador do Evangelho"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I was called to tell this story. I never tire of telling it. I love my calling.\"",
+    "pt-BR": "\"Fui chamado para contar esta história. Nunca me canso de contá-la. Amo o meu chamado.\""
+  },
+  "meta": {
+    "face": "An American of Irish stock of about sixty with a fair complexion and a LONG, LEAN face with HIGH, sharply MODELLED cheekbones and hollowed cheeks — a high forehead under dark, wavy hair greying at the temples, brushed back from a slight widow's peak under the zucchetto, strong, ARCHED dark brows, LARGE, light, deep-set, INTENSE eyes that seem to look straight through the viewer, a long, straight nose, deep lines from the nose to a WIDE, thin-lipped mouth in a warm, slightly lifted smile, and a firm, narrow chin; the gaze magnetic and kind. Not the square-chinned, level-browed giovanni_battista_scalabrini, nor the white-haired, laughing giuseppe_allamano.",
+    "basis": "His photographs (Wikimedia Commons: the New York World-Telegram photograph of 1952 in cape and pectoral cross; the ABC photograph of 1956; the Library of Congress portraits as a young priest; the Dicastery's portrait): a long, lean face with high cheekbones, dark wavy hair brushed back, arched brows over large, intense, deep-set eyes, and a wide, thin smile, in the bishop's cassock, zucchetto and cape. Wikipedia records his burial at St. Patrick's Cathedral, New York (moved to Peoria in 2019), where he preached for years.",
+    "excerpt": "His answer to a friend who asked why he became a priest, «I was called to tell this story (the Gospel). I never tire of telling it. I never tire of improving my telling of it. I love my calling», as Cardinal Tagle quoted it in the beatification homily of 24 September 2026 (on the Dicastery's page; also Vatican News); a single short quotation, shortened, the gloss and the third sentence left out; pt-BR our rendering",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Fulton J. Sheen NYWTS.jpg (photograph, 1952)",
+        "url": "https://commons.wikimedia.org/wiki/File:Fulton_J._Sheen_NYWTS.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Bishop Fulton J. Sheen 1956.JPG (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Bishop_Fulton_J._Sheen_1956.JPG"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Fulton John Sheen (biography, portrait, the beatification homily)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/fulton-john-sheen.html"
+      },
+      {
+        "title": "EWTN News, the beatification of Fulton Sheen (the apostolic letter; feast on 9 December)",
+        "url": "https://www.ewtnnews.com/world/us/live-updates-beatification-of-fulton-sheen"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}

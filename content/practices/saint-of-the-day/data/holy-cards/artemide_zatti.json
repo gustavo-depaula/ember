@@ -1,0 +1,48 @@
+{
+  "id": "artemide_zatti",
+  "feast": {
+    "month": 11,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Artemide Zatti",
+    "pt-BR": "Santo Artêmides Zatti"
+  },
+  "patronOf": {
+    "en-US": "Salesian brother, nurse of the poor",
+    "pt-BR": "Irmão salesiano, enfermeiro dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I believed, I promised, I was healed.\"",
+    "pt-BR": "\"Acreditei, prometi, sarei.\""
+  },
+  "meta": {
+    "face": "An Emilian-born Argentine of about sixty with a weathered, ruddy-olive complexion and a SQUARE, BROAD face, WIDEST at HIGH, prominent cheekbones — a low forehead under thick, dark hair going grey, TOUSLED and falling in a lock over the brow, deep-set dark eyes narrowed by laughter lines, straight, thick brows, a broad, straight nose, a THICK, BUSHY, DROOPING dark moustache streaked with grey over a WIDE mouth in a broad, generous smile, deep creases from the nose to the corners of the mouth, and a strong, square jaw; clean-shaven otherwise; the gaze warm, lively and direct. Not the smooth, round, grave jose_gregorio_hernandez of this batch, nor the heavy, crowned stephen_hungary.",
+    "basis": "His photographs (the early portrait on MigrER; the photograph with the boys of Viedma in the Bollettino Salesiano; the Dicastery's portrait drawn from a late photograph in a white coat): a square, broad face with high cheekbones, tousled dark hair falling over the brow, deep-set smiling eyes and a thick, drooping moustache over a broad smile. The Dicastery records his service at the hospital of Viedma and his rounds of the town and across the Río Negro to Patagones; MigrER, that he went by bicycle in a white coat.",
+    "excerpt": "The motto of his life, «Creí, prometí, sané», from his account of 1915 in the weekly Flores del Campo of his healing from tuberculosis after his promise to Mary Help of Christians (Spanish Wikipedia; the Salesians of Spain on his canonization, whose motto it was; Italian «Credetti, promisi, guarii» in ACI Stampa); our rendering from the Spanish",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Artemide Zatti (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/artemide-zatti.html"
+      },
+      {
+        "title": "MigrER, Artemide Zatti (photograph; the bicycle and white coat)",
+        "url": "https://www.migrer.org/storie/artemide-zatti/"
+      },
+      {
+        "title": "Bollettino Salesiano, Santo Artemide Zatti: un angelo si fece infermiere (photograph)",
+        "url": "https://bollettinosalesiano.it/rubriche/santo-artemide-zattiun-angelo-si-fece-infermiere/"
+      },
+      {
+        "title": "Salesianos España, San Artémides Zatti ('Creí, prometí, sané')",
+        "url": "https://salesianos.info/blog/la-congregacion-salesiana-tiene-un-nuevo-santo-san-artemides-zatti/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}

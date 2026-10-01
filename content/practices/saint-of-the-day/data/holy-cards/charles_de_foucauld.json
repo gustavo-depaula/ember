@@ -1,0 +1,48 @@
+{
+  "id": "charles_de_foucauld",
+  "feast": {
+    "month": 12,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Charles de Foucauld",
+    "pt-BR": "São Carlos de Foucauld"
+  },
+  "patronOf": {
+    "en-US": "Hermit of the Sahara, universal brother",
+    "pt-BR": "Eremita do Saara, irmão universal"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"As soon as I believed that there was a God, I understood that I could do nothing else but live for Him alone.\"",
+    "pt-BR": "\"Assim que acreditei que havia um Deus, compreendi que não podia fazer outra coisa senão viver somente para Ele.\""
+  },
+  "meta": {
+    "face": "A Frenchman of about fifty-five, lean and sun-darkened, with a TRIANGULAR face, broad at the temples and cheekbones and narrowing to the chin — a high forehead under dark hair CROPPED very SHORT, deep-set, dark, luminous eyes with fine crow's-feet, straight dark brows, HIGH cheekbones over hollowed cheeks, a straight, strong nose, a SHORT, trimmed dark beard flecked with grey, closer on the cheeks and a little longer at the chin, a short moustache, and a gentle, closed smile; the gaze kind, direct and serene. Not the long, rectangular, lid-lowered cesar_de_bus, nor the full, white beard of an old hermit.",
+    "basis": "His photograph as a hermit (Wikimedia Commons, 'Charles de Foucauld.jpg', the source of the Dicastery's portrait): a lean, triangular face, close-cropped dark hair, deep-set eyes, high cheekbones over hollow cheeks and a short dark beard, in the white gandoura with the heart and cross and a leather belt with a rosary. French Wikipedia records his hermitage on the Assekrem; Dom Antoine Marie of Clairval, the red heart and cross on his white habit.",
+    "excerpt": "His words on his conversion, «Aussitôt que je crus qu'il y avait un Dieu, je compris que je ne pouvais faire autrement que de ne vivre que pour Lui», as French Wikipedia quotes them (Latin in the decree on the Dicastery's page, «Simul ac Deum esse credidi, intellexi me nihil aliud facere posse quam pro Eo vivere»); our rendering from the French (he died in 1916)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Charles de Foucauld.jpg (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Charles_de_Foucauld.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Charles de Foucauld (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/charles-de-foucauld.html"
+      },
+      {
+        "title": "Wikipédia, Charles de Foucauld (his conversion; the Assekrem)",
+        "url": "https://fr.wikipedia.org/wiki/Charles_de_Foucauld"
+      },
+      {
+        "title": "Abbaye Saint-Joseph de Clairval, Blessed Charles de Foucauld (the red heart and cross on his habit)",
+        "url": "https://www.clairval.com/en/blessed-charles-de-foucauld/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "vincenza_maria_poloni",
+  "feast": {
+    "month": 11,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. Vincenza Maria Poloni",
+    "pt-BR": "Santa Vicência Maria Poloni"
+  },
+  "patronOf": {
+    "en-US": "Foundress, servant of the poor",
+    "pt-BR": "Fundadora, serva dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"A servant of the poor, instead of being ashamed of what she does in their service, ought to glory in it.\"",
+    "pt-BR": "\"Uma serva dos pobres, em vez de se envergonhar do que faz a serviço deles, deve gloriar-se disso.\""
+  },
+  "meta": {
+    "face": "A Veronese of about fifty with a pale, warm complexion and a LONG, NARROW OVAL face — a high, smooth forehead under the band, a LONG, PROMINENT nose with a high, straight bridge and a slightly DOWNTURNED tip, large dark eyes with HEAVY upper lids glancing a little to one side, thin, finely arched brows, flat cheeks, a SMALL, thin-lipped mouth with a faint, wry smile at one corner, and a small, rounded chin; the gaze quiet, perceptive and kind. Not the sloping, sorrowful brows of maria_santocanale, nor the square chin and wide mouth of elena_guerra.",
+    "basis": "No photograph exists (she died in 1855); her two nineteenth-century painted portraits (Wikimedia Commons) and the Dicastery's portrait drawn from one agree: a long, narrow oval face with a long, prominent nose, heavy-lidded dark eyes glancing aside, fine arched brows and a small, thin mouth with a faint smile, in a black habit and hooded black veil with a broad square white collar, her hand on her breast. The Dicastery records her community's beginning at the Pio Ricovero of Verona in 1840.",
+    "excerpt": "Her words to a novice, «Una serva dei poveri, anziché vergognarsi di ciò che fa in servizio loro, se ne deve gloriare», among the sayings eyewitnesses handed down, on the Dicastery's page; the first sentence, our rendering (she died in 1855)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Vincenza Maria Poloni 2.jpg (19th-century portrait)",
+        "url": "https://commons.wikimedia.org/wiki/File:Vincenza_Maria_Poloni_2.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Vincenza Maria Poloni 1.jpg (19th-century portrait)",
+        "url": "https://commons.wikimedia.org/wiki/File:Vincenza_Maria_Poloni_1.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, Vincenza Maria Poloni (biography, portrait, her sayings)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/vincenza-maria-poloni.html"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}

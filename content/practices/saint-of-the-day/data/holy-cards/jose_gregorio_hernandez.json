@@ -1,0 +1,48 @@
+{
+  "id": "jose_gregorio_hernandez",
+  "feast": {
+    "month": 10,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. José Gregorio Hernández",
+    "pt-BR": "São José Gregório Hernández"
+  },
+  "patronOf": {
+    "en-US": "Physician of the poor",
+    "pt-BR": "Médico dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"My mother, who loved me, taught me virtue from the cradle, raised me in the knowledge of God, and gave me holy charity for my guide.\"",
+    "pt-BR": "\"Minha mãe, que me amava, desde o berço me ensinou a virtude, criou-me na ciência de Deus e me deu por guia a santa caridade.\""
+  },
+  "meta": {
+    "face": "A Venezuelan of about fifty of Andean and Canarian stock with a warm, light-olive complexion and a SMOOTH, ROUND face, FULL through the cheeks, with a small, rounded chin — large, dark, GENTLE eyes with slightly HEAVY upper lids, dark brows that RISE a little at their inner ends, giving a mild, compassionate look, a short, straight nose, a neat, full, dark MOUSTACHE trimmed straight over a closed mouth, short dark hair under the hat; clean-shaven otherwise; the gaze calm, grave and kind. Not the square, tousled, laughing artemide_zatti of this batch.",
+    "basis": "His photographs (Wikimedia Commons: the head-and-shoulders portrait in hat and suit, the full-length photograph; the Dicastery's portrait): a smooth, round face with full cheeks, large, gentle, heavy-lidded eyes under brows raised at the inner ends, a short straight nose and a neat dark moustache, in a black suit and hat. The Dicastery records his teaching and practice in Caracas and his care of the poor.",
+    "excerpt": "His words «Mi madre que me amaba, desde la cuna me enseñó la virtud, me crió en la ciencia de Dios, y me puso de guía la santa caridad», as the Venezuelan foundation josegregorio.org and the Diario de Los Andes give them (Italian on the Dicastery's page); our renderings from the Spanish (he died in 1919)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Photo1502317-Enhanced (1).jpg (photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:Photo1502317-Enhanced_(1).jpg"
+      },
+      {
+        "title": "Wikimedia Commons, José Gregorio Hernández.jpg (full-length photograph)",
+        "url": "https://commons.wikimedia.org/wiki/File:José_Gregorio_Hernández.jpg"
+      },
+      {
+        "title": "Dicastery for the Causes of Saints, José Gregorio Hernández Cisneros (biography and portrait)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/jose-gregorio-hernandez-cisneros.html"
+      },
+      {
+        "title": "josegregorio.org, Sus palabras (his words on his mother)",
+        "url": "https://www.josegregorio.org/conoce-a-jose-gregorio/sus-palabras"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}

@@ -11,7 +11,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 6 |
 | Saints with a card but no universal feast | 3 | 3 |
-| Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 20 |
+| Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
 | Saints of the Pictorial Lives (Saint of the Day) | 245 | 95 |
 | Feasts of the Lord and the Church | 23 | 5 |
 | Our Lady | 18 | 6 |
@@ -21,7 +21,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 0 |
 | Liturgical objects and vestments | 24 | 0 |
 
-≈ 606 cards, 375 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 606 cards, 383 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -271,14 +271,14 @@ Canonized 2022–2025 (none yet in 2026), with the memorial the Dicastery for th
 - [x] 26 Jul · St. Titus Brandsma · *São Tito Brandsma* · canonized — `titus_brandsma`
 - [x] 2 Aug · St. Giustino Russolillo · *São Justino Russolillo* · canonized — `giustino_russolillo`
 - [x] 6 Aug · St. Maria Francesca of Jesus Rubatto · *Santa Maria Francisca de Jesus Rubatto* · canonized — `maria_francesca_rubatto`
-- [ ] 25 Aug · St. Maria Troncatti · *Santa Maria Troncatti* · canonized
-- [ ] 5 Oct · St. Bartolo Longo · *São Bártolo Longo* · canonized
-- [ ] 12 Oct · St. Carlo Acutis · *São Carlo Acutis* · canonized
-- [ ] 26 Oct · St. José Gregorio Hernández · *São José Gregório Hernández* · canonized
-- [ ] 11 Nov · St. Vincenza Maria Poloni · *Santa Vicência Maria Poloni* · canonized
-- [ ] 13 Nov · St. Artemide Zatti · *Santo Artêmides Zatti* · canonized
-- [ ] 1 Dec · St. Charles de Foucauld · *São Carlos de Foucauld* · canonized
-- [ ] 9 Dec · Bl. Fulton J. Sheen · *Bem-aventurado Fulton J. Sheen* · beatified 24 Sep 2026 (US calendar)
+- [x] 25 Aug · St. Maria Troncatti · *Santa Maria Troncatti* · canonized — `maria_troncatti`
+- [x] 5 Oct · St. Bartolo Longo · *São Bártolo Longo* · canonized — `bartolo_longo`
+- [x] 12 Oct · St. Carlo Acutis · *São Carlo Acutis* · canonized — `carlo_acutis`
+- [x] 26 Oct · St. José Gregorio Hernández · *São José Gregório Hernández* · canonized — `jose_gregorio_hernandez`
+- [x] 11 Nov · St. Vincenza Maria Poloni · *Santa Vicência Maria Poloni* · canonized — `vincenza_maria_poloni`
+- [x] 13 Nov · St. Artemide Zatti · *Santo Artêmides Zatti* · canonized — `artemide_zatti`
+- [x] 1 Dec · St. Charles de Foucauld · *São Carlos de Foucauld* · canonized — `charles_de_foucauld`
+- [x] 9 Dec · Bl. Fulton J. Sheen · *Bem-aventurado Fulton J. Sheen* · beatified 24 Sep 2026 (US calendar) — `fulton_sheen`
 
 ### From the Pictorial Lives of the Saints
 

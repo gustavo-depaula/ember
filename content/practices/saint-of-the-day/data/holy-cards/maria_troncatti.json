@@ -1,0 +1,48 @@
+{
+  "id": "maria_troncatti",
+  "feast": {
+    "month": 8,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Maria Troncatti",
+    "pt-BR": "Santa Maria Troncatti"
+  },
+  "patronOf": {
+    "en-US": "Missionary nurse among the Shuar",
+    "pt-BR": "Enfermeira missionária entre os shuar"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"I give you the medicines, but the one who obtains your healing is Mary Help of Christians.\"",
+    "pt-BR": "\"Eu vos dou os remédios, mas quem vos alcança a cura é Maria Auxiliadora.\""
+  },
+  "meta": {
+    "face": "A woman from the Alpine valleys of Lombardy of about seventy-five, with a fair, weathered, lightly ruddy complexion and a BROAD, ROUNDED-SQUARE face — a wide, low forehead under the white band, FULL, rounded cheeks, a SHORT, broad nose, small, bright, kindly eyes creased at the corners behind ROUND, thin-rimmed spectacles, thin, faint brows, a WIDE mouth in a broad, open, warm smile that lifts the cheeks, and a soft fullness under a rounded chin; the gaze direct and cheerful. Not the small, pointed-chinned, unsmiling teresa_calcutta, nor the flat, thin-lipped marie_leonie_paradis.",
+    "basis": "Her photographs in old age (the Salesian Sisters' coloured portrait of 2026 on cgfmanet.org; the Dicastery's portrait drawn from a photograph; the photograph of her riding to Sucúa, AGFMA, in Rivista DMA): a broad, rounded face with full cheeks, round spectacles and a wide smile, in the black habit and veil with a broad, rounded white collar. The bag and rosary follow the emblem of her canonization; the Dicastery places her mission at Macas, beyond the river Upano, and at Sucúa.",
+    "excerpt": "Her saying «Io vi do le medicine, ma chi vi ottiene la guarigione è Maria Ausiliatrice» (the page misspells «guarigone»), which, the Dicastery's page records, she used to repeat to the sick of the Ecuadorian forest (also in the Salesian Sisters' note on her canonization emblem); our rendering (a single short quotation; she died in 1969)",
+    "sources": [
+      {
+        "title": "Dicastery for the Causes of Saints, Maria Troncatti (biography, portrait, her sayings)",
+        "url": "https://www.causesanti.va/it/santi-e-beati/maria-troncatti.html"
+      },
+      {
+        "title": "Istituto Figlie di Maria Ausiliatrice, 23 August 2026 (coloured portrait)",
+        "url": "https://www.cgfmanet.org/en/ifma-en/leredita-di-santa-maria-troncatti/"
+      },
+      {
+        "title": "Rivista DMA, Suor Maria Troncatti missionaria (photograph at Sucúa)",
+        "url": "https://www.rivistadma.org/2025/08/suor-maria-troncatti-missionaria/"
+      },
+      {
+        "title": "Istituto Figlie di Maria Ausiliatrice, Suor Maria Troncatti: il logo ufficiale (the bag and rosary; her saying)",
+        "url": "https://www.cgfmanet.org/ifma/150-missioni-fma/suor-maria-troncatti-il-logo-ufficiale/"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-54.md."
+      }
+    ]
+  }
+}
