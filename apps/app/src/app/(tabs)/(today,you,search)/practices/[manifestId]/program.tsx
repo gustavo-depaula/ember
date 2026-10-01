@@ -27,12 +27,20 @@ import {
   settledAfterDays,
 } from '@/features/plan-of-life/program'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
+import { PracticePlanEditor, usePracticePlan } from '@/features/practices/components/PracticePlan'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
 // A long course shows the stretch around today rather than every day.
 const windowSize = 9
+
+const unbegunDay: DayState = {
+  isMissed: false,
+  isCurrent: false,
+  isCompleted: false,
+  isFuture: true,
+}
 
 type Localized = { 'en-US'?: string; 'pt-BR'?: string }
 type DayEntry = { name: string; sub?: string; excerpt?: string; chapterId?: string }
@@ -141,7 +149,8 @@ function roman(n: number): string {
 /**
  * A novena or other program, set like a devocionário page: the name, its days
  * as stars under the date they fall on, today's day opened as a chapter, and
- * the others as the book's contents.
+ * the others as the book's contents. Before it's begun the page is only the
+ * contents, each day open to read, over the bar that begins it.
  */
 export default function ProgramDetailScreen() {
   const { t, i18n } = useTranslation()
@@ -154,6 +163,8 @@ export default function ProgramDetailScreen() {
   const progress = useProgramProgress(manifest?.id ?? '', manifest?.program, today)
   const dates = useProgramDayDates(manifest?.id ?? '', manifest?.program)
   const restartProgramMutation = useRestartProgram()
+  // Beginning it turns this page into the program under way, in place.
+  const plan = usePracticePlan(manifest, { openOnBegin: false })
 
   const cycleDataQuery = useQuery({
     queryKey: ['practice-data', manifestId],
@@ -191,7 +202,68 @@ export default function ProgramDetailScreen() {
     staleTime: Infinity,
   })
 
-  if (!manifest?.program || !progress) {
+  if (!manifest?.program) {
+    return (
+      <ScreenLayout>
+        <PrayerSpinner />
+      </ScreenLayout>
+    )
+  }
+
+  const name = localizeContent(manifest.name)
+  const numeral = (i: number) => roman(i + 1)
+  const dayName = (i: number) => entryOf(entries, i)?.name || t('program.dayLabel', { day: i + 1 })
+  const back = (
+    <Pressable
+      onPress={() => router.back()}
+      hitSlop={12}
+      accessibilityRole="button"
+      accessibilityLabel={t('a11y.goBack')}
+      style={{ alignSelf: 'flex-start', minHeight: 44, justifyContent: 'center' }}
+    >
+      <ChevronLeft size={24} strokeWidth={1.5} color={theme.color.val} />
+    </Pressable>
+  )
+
+  if (!plan.isInPlan) {
+    const count = manifest.program.totalDays
+    const scheduleType = manifest.defaults?.slots?.[0]?.schedule?.type
+    const monthly = scheduleType === 'nth-weekday' || scheduleType === 'day-of-month'
+    return (
+      <ScreenLayout>
+        <YStack paddingVertical="$lg">
+          {back}
+          <PracticeHeader
+            name={name}
+            caption={t(monthly ? 'program.durationMonths' : 'program.durationDays', { count })}
+          />
+          <YStack paddingTop="$lg">
+            {/* A long course lists its opening days; the caption gives the count. */}
+            {Array.from({ length: Math.min(windowSize, count) }, (_, i) => (
+              <DayLine
+                // biome-ignore lint/suspicious/noArrayIndexKey: the days are positional
+                key={i}
+                numeral={numeral(i)}
+                name={dayName(i)}
+                state={unbegunDay}
+                a11yState={t('program.upcoming')}
+                onPress={() =>
+                  router.push({
+                    pathname: '/pray/[practiceId]',
+                    params: { practiceId: manifest.id, programDay: String(i), read: '1' },
+                  })
+                }
+              />
+            ))}
+          </YStack>
+          <PrayBar label={t('program.begin')} onPress={plan.addToPlan} />
+        </YStack>
+        <PracticePlanEditor plan={plan} />
+      </ScreenLayout>
+    )
+  }
+
+  if (!progress) {
     return (
       <ScreenLayout>
         <PrayerSpinner />
@@ -204,9 +276,6 @@ export default function ProgramDetailScreen() {
   const prayed = states.filter((s) => s.isCompleted).length
   // Every day gone by and some of them missed: nothing is left to pray.
   const ended = !isComplete && states.every((s) => s.isCompleted || s.isMissed)
-  const name = localizeContent(manifest.name)
-  const numeral = (i: number) => roman(i + 1)
-  const dayName = (i: number) => entryOf(entries, i)?.name || t('program.dayLabel', { day: i + 1 })
   const canOpen = !shouldPromptRestart && !progress.isProjection
   const needsRestart = shouldPromptRestart && !isComplete && !progress.isProjection
   const todayStr = format(today, 'yyyy-MM-dd')
@@ -252,15 +321,7 @@ export default function ProgramDetailScreen() {
   return (
     <ScreenLayout>
       <YStack paddingVertical="$lg">
-        <Pressable
-          onPress={() => router.back()}
-          hitSlop={12}
-          accessibilityRole="button"
-          accessibilityLabel={t('a11y.goBack')}
-          style={{ alignSelf: 'flex-start', minHeight: 44, justifyContent: 'center' }}
-        >
-          <ChevronLeft size={24} strokeWidth={1.5} color={theme.color.val} />
-        </Pressable>
+        {back}
 
         <PracticeHeader name={name} caption={t('program.prayedOf', { prayed, count: totalDays })} />
 

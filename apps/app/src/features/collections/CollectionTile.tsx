@@ -28,6 +28,7 @@ import { articleAspect, coverFor, GeneratedCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex } from '@/features/explore/bgColor'
 import { useAllSlots } from '@/features/plan-of-life'
+import { practiceHref } from '@/features/practices/practiceHref'
 import { localizeContent } from '@/lib/i18n'
 import { collectionHref } from './navigation'
 
@@ -106,7 +107,7 @@ export function CollectionTile({
     icon = body?.icon ?? entry?.icon ?? 'prayer'
     image = undefined
     inPlan = allSlots.some((s) => s.enabled && s.practice_id === id)
-    href = { pathname: '/pray/[practiceId]', params: { practiceId: id } }
+    href = practiceHref(id)
   }
 
   const label = localizeContent(title)

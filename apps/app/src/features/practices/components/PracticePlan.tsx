@@ -24,9 +24,13 @@ import { normalizeSchedule, parseSchedule, type Schedule } from '@/features/plan
  * A practice's place in the plan of life: whether it (or a sibling variant) is
  * already there, and how to add it. Every time in the rule has an hour: one
  * the practice suggests is taken as is, otherwise `<PracticePlanEditor>` asks
- * for it. Adding a program enrolls it and opens its day list.
+ * for it. Adding a program enrolls it and opens its day list — unless that
+ * page is where it was added from (`openOnBegin: false`).
  */
-export function usePracticePlan(manifest: PracticeManifest | undefined) {
+export function usePracticePlan(
+  manifest: PracticeManifest | undefined,
+  { openOnBegin = true }: { openOnBegin?: boolean } = {},
+) {
   const router = useRouter()
   // Routes carry the bare id ("rosary") while the plan keys practices by the
   // canonical one ("practice/rosary"); reading the plan by the bare id missed
@@ -83,7 +87,7 @@ export function usePracticePlan(manifest: PracticeManifest | undefined) {
   function beginProgram(program: NonNullable<PracticeManifest['program']>) {
     const onSuccess = async () => {
       await createProgramCursor(planId)
-      openProgram()
+      if (openOnBegin) openProgram()
     }
     const schedule = selectEnrollmentSchedule(
       program.progressPolicy,

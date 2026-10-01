@@ -11,6 +11,7 @@ import { useCelebrationDisplay } from '@/features/calendar'
 import { collectionHref, warmCollection } from '@/features/collections'
 import { coverFor } from '@/features/covers'
 import { usePrayedOn } from '@/features/plan-of-life'
+import { practiceHref } from '@/features/practices/practiceHref'
 import {
   todayKey,
   usePendingHolyCards,
@@ -336,7 +337,7 @@ function MeditationTile({
       image={artFor(id)}
       tone={toneForKey(id)}
       prayed={prayed}
-      href={{ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } }}
+      href={practiceHref(bareId(id))}
     />
   )
 }

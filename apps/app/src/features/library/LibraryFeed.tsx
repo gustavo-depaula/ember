@@ -13,6 +13,7 @@ import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex, toneForKey } from '@/features/explore/bgColor'
+import { practiceHref } from '@/features/practices/practiceHref'
 import { useHeldCards, useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 import { CreateCollectionSheet } from './CreateCollectionSheet'
@@ -80,8 +81,7 @@ export function LibraryFeed() {
     router.push({ pathname: '/browse/book/[bookId]', params: { bookId: bareId(id) } })
   const goCollection = (id: string) =>
     router.push({ pathname: '/browse/[collectionId]', params: { collectionId: bareId(id) } })
-  const goPractice = (id: string) =>
-    router.push({ pathname: '/pray/[practiceId]', params: { practiceId: bareId(id) } })
+  const goPractice = (id: string) => router.push(practiceHref(bareId(id)))
   // The gallery first, so closing the card lands on it rather than back here.
   const goCard = (id: string) => {
     router.push('/saints')

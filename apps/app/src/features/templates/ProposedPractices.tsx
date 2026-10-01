@@ -12,6 +12,7 @@ import {
   type PlanOfLifeTemplatePractice,
 } from '@/content/manifestTypes'
 import { TierBadge } from '@/features/plan-of-life/components/TierBadge'
+import { practiceHref } from '@/features/practices/practiceHref'
 import { localizeContent } from '@/lib/i18n'
 import { cadenceLabel } from './cadence'
 import { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
@@ -101,7 +102,7 @@ function PracticeLine({ practice }: { practice: PlanOfLifeTemplatePractice }) {
 
   return (
     <AnimatedPressable
-      onPress={() => router.push({ pathname: '/pray/[practiceId]', params: { practiceId: ref } })}
+      onPress={() => router.push(practiceHref(ref))}
       accessibilityRole="link"
       accessibilityLabel={name}
     >
