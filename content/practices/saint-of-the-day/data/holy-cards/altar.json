@@ -1,0 +1,40 @@
+{
+  "id": "altar",
+  "name": {
+    "en-US": "Altar",
+    "pt-BR": "Altar"
+  },
+  "patronOf": {
+    "en-US": "The table of the Lord",
+    "pt-BR": "A mesa do Senhor"
+  },
+  "prayerExcerpt": {
+    "en-US": "The sparrow finds a home, and the swallow a nest for her young: by your altars, O Lord of hosts, my King and my God.",
+    "pt-BR": "O pássaro encontra abrigo e a andorinha um ninho para pôr os seus filhotes: os vossos altares, Senhor do universo, meu rei e meu Deus!"
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The altar is 'the table of the Lord' (GIRM 296). It is built free-standing (GIRM 299). The table of a fixed altar is traditionally of natural stone (GIRM 301; wood is allowed in the US), and it carries 'at least one cloth, white in color' (GIRM 304). Flowers go 'around the altar rather than on the altar table' (GIRM 305). Only what the Mass needs is placed on the altar (GIRM 306), so outside Mass it is bare but for its cloth. The crucifix and candles are left to their own card, 'Altar crucifix and candles'.",
+    "excerpt": "content/of/formularies/tempore/lent/week-3/sunday.json communionAntiphon (Psalm 84:4, its first sentence, line breaks joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 5, nos. 296–306 (the altar: table of the Lord, free-standing, natural stone, the white cloth, flowers around it)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 117 (at least one white cloth)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Third Sunday of Lent, Communion Antiphon (Psalm 84) (content/of/formularies/tempore/lent/week-3/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/lent/week-3/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "dismissal",
+  "name": {
+    "en-US": "Dismissal",
+    "pt-BR": "Despedida"
+  },
+  "patronOf": {
+    "en-US": "Sent out to glorify God by their lives",
+    "pt-BR": "Enviados a glorificar a Deus com a vida"
+  },
+  "prayerExcerpt": {
+    "en-US": "Go in peace, glorifying the Lord by your life. Thanks be to God.",
+    "pt-BR": "Ide em paz, e glorificai o Senhor com vossa vida. Graças a Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "Immediately after the Blessing, 'with hands joined, the Priest adds, Ite, missa est', facing the people, and all reply Thanks be to God (GIRM 168, 90c; the Order of Mass rubric 'with hands joined and facing the people'); the people are sent 'so that each may go back to doing good works, praising and blessing God' (GIRM 90c). No deacon, so the priest dismisses them. The people stand (GIRM 43).",
+    "excerpt": "content/of/order/order-of-mass.json order.dismissal (the third formula and the people's reply, the 'Or:' and the rubric between them dropped, and the 'alleluia, alleluia' the source prints inline for Easter dropped; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 90 (standing; the Dismissal and its purpose)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 168–169 (the Dismissal with hands joined; the altar kissed at the end)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Dismissal (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

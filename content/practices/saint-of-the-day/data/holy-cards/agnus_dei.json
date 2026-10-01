@@ -1,0 +1,40 @@
+{
+  "id": "agnus_dei",
+  "name": {
+    "en-US": "Agnus Dei and the Fraction",
+    "pt-BR": "Cordeiro de Deus e Fração do Pão"
+  },
+  "patronOf": {
+    "en-US": "The one Bread is broken",
+    "pt-BR": "O único Pão é partido"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lamb of God, you take away the sins of the world, grant us peace.",
+    "pt-BR": "Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "'The Priest takes the host, breaks it over the paten, and places a small piece in the chalice', while the Agnus Dei is sung or said by the choir and the people; the fraction 'is reserved to the Priest and the Deacon' (GIRM 155, 83; the Order of Mass rubric). The people still stand, and kneel after the Agnus Dei (GIRM 43, USCCB). The Lamb on the reredos is carving, not vision.",
+    "excerpt": "content/of/order/order-of-mass.json order.agnus-dei (the third invocation, line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 83 (kneeling after the Agnus Dei; the fraction and the Agnus Dei)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 155 (the host broken over the paten, a piece in the chalice)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Agnus Dei (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

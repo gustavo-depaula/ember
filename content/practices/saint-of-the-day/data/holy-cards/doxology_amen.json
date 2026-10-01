@@ -1,0 +1,40 @@
+{
+  "id": "doxology_amen",
+  "name": {
+    "en-US": "Doxology and Great Amen",
+    "pt-BR": "Doxologia e Grande Amém"
+  },
+  "patronOf": {
+    "en-US": "The whole Church answers Amen",
+    "pt-BR": "Toda a Igreja responde Amém"
+  },
+  "prayerExcerpt": {
+    "en-US": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honour is yours, for ever and ever. Amen.",
+    "pt-BR": "Por Cristo, com Cristo, e em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda honra e toda glória, por todos os séculos dos séculos. Amém."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "At the end of the Eucharistic Prayer 'the Priest takes the paten with the host and the chalice and elevates them both while pronouncing alone the doxology', and the people acclaim Amen (GIRM 151, 79h; the Order of Mass rubric 'He takes the chalice and the paten with the host and raising both'). The faithful kneel until after the Amen (GIRM 43, USCCB). The card is the long view from the back because the Amen belongs to the whole people.",
+    "excerpt": "content/of/order/order-of-mass.json eucharisticPrayers order.eucharistic-prayer.2 (the concluding doxology and the people's Amen, the rubric between them dropped, lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 79 (kneeling until after the Amen; the concluding doxology)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 151 (the paten and chalice elevated at the doxology; the people's Amen)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: Eucharistic Prayer II, the concluding doxology (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

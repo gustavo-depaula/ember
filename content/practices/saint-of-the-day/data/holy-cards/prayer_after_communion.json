@@ -1,0 +1,40 @@
+{
+  "id": "prayer_after_communion",
+  "name": {
+    "en-US": "Prayer after Communion",
+    "pt-BR": "Oração depois da Comunhão"
+  },
+  "patronOf": {
+    "en-US": "The priest asks for the fruits of the mystery",
+    "pt-BR": "O sacerdote pede os frutos do mistério"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant us, almighty God, that we may be refreshed and nourished by the Sacrament which we have received, so as to be transformed into what we consume.",
+    "pt-BR": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the purification of the vessels and a sacred silence, the priest, 'standing at the chair or at the altar, and facing the people with hands joined', says Let us pray, 'then, with hands extended, he recites the Prayer after Communion', praying 'for the fruits of the mystery just celebrated' (GIRM 163–165, 88–89). The Missal is kept next to the chair (GIRM 118a) and the vessels have left the altar (GIRM 163). The people stand (GIRM 43).",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-27/sunday.json postcommunion (without its conclusion 'Through Christ our Lord.', line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 88–89 (standing; silence after Communion; the Prayer after Communion)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 163–165 (the purification; the chair or the altar; hands extended)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Twenty-Seventh Sunday in Ordinary Time, Prayer after Communion (content/of/formularies/tempore/ordinary-time/week-27/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-27/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

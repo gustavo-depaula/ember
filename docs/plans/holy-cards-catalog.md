@@ -19,10 +19,10 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Angels | 4 | 4 |
 | Mysteries of the Rosary (not shared with a feast) | 10 | 0 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
-| Parts of the Mass | 29 | 21 |
-| Liturgical objects and vestments | 24 | 0 |
+| Parts of the Mass | 29 | 29 |
+| Liturgical objects and vestments | 24 | 2 |
 
-≈ 615 cards, 432 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 615 cards, 442 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -632,13 +632,13 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 
 **Introductory Rites** — [x] Entrance and Sign of the Cross — `entrance` · [x] Greeting — `greeting` · [x] Penitential Act — `penitential_act` · [x] Kyrie — `kyrie` · [x] Gloria — `gloria` · [x] Collect — `collect`
 **Liturgy of the Word** — [x] First Reading — `first_reading` · [x] Responsorial Psalm — `responsorial_psalm` · [x] Second Reading — `second_reading` · [x] Gospel Acclamation — `gospel_acclamation` · [x] Gospel — `gospel` · [x] Homily — `homily` · [x] Profession of Faith — `profession_of_faith` · [x] Universal Prayer — `universal_prayer`
-**Liturgy of the Eucharist** — [x] Preparation of the Gifts — `preparation_of_gifts` · [x] Prayer over the Offerings — `prayer_over_offerings` · [x] Preface Dialogue and Preface — `preface` · [x] Sanctus — `sanctus` · [x] Epiclesis — `epiclesis` · [x] Consecration — `consecration` · [x] Mystery of Faith — `mystery_of_faith` · [ ] Doxology and Great Amen
-**Communion Rite** — [ ] The Lord's Prayer · [ ] Sign of Peace · [ ] Agnus Dei and the Fraction · [ ] Communion · [ ] Prayer after Communion
-**Concluding Rites** — [ ] Blessing · [ ] Dismissal
+**Liturgy of the Eucharist** — [x] Preparation of the Gifts — `preparation_of_gifts` · [x] Prayer over the Offerings — `prayer_over_offerings` · [x] Preface Dialogue and Preface — `preface` · [x] Sanctus — `sanctus` · [x] Epiclesis — `epiclesis` · [x] Consecration — `consecration` · [x] Mystery of Faith — `mystery_of_faith` · [x] Doxology and Great Amen — `doxology_amen`
+**Communion Rite** — [x] The Lord's Prayer — `lords_prayer` · [x] Sign of Peace — `sign_of_peace` · [x] Agnus Dei and the Fraction — `agnus_dei` · [x] Communion — `holy_communion` · [x] Prayer after Communion — `prayer_after_communion`
+**Concluding Rites** — [x] Blessing — `final_blessing` · [x] Dismissal — `dismissal`
 
 ## Liturgical objects and vestments
 
-**Sanctuary** — [ ] Altar · [ ] Ambo · [ ] Tabernacle and sanctuary lamp · [ ] Altar crucifix and candles
+**Sanctuary** — [x] Altar — `altar` · [x] Ambo — `ambo` · [ ] Tabernacle and sanctuary lamp · [ ] Altar crucifix and candles
 **Books** — [ ] Roman Missal · [ ] Lectionary · [ ] Book of the Gospels
 **Vessels and linens** — [ ] Chalice · [ ] Paten · [ ] Ciborium · [ ] Cruets · [ ] Lavabo · [ ] Corporal · [ ] Purificator · [ ] Pall
 **Other** — [ ] Thurible and boat · [ ] Aspergillum · [ ] Altar bells

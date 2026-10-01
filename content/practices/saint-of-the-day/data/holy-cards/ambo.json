@@ -1,0 +1,40 @@
+{
+  "id": "ambo",
+  "name": {
+    "en-US": "Ambo",
+    "pt-BR": "Ambão"
+  },
+  "patronOf": {
+    "en-US": "The place of the Word of God",
+    "pt-BR": "O lugar da Palavra de Deus"
+  },
+  "prayerExcerpt": {
+    "en-US": "Ezra the scribe stood on a wooden dais erected for the purpose.",
+    "pt-BR": "Esdras, o escriba, estava de pé sobre um estrado de madeira, erguido para esse fim."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The ambo is the 'suitable place from which [the Word of God] may be proclaimed', a 'stationary ambo and not simply a movable lectern', from which the readings, the Psalm and the Exsultet are proclaimed; the Lectionary is prepared at it (GIRM 309, 118b). The GIRM sets no material; stone keeps it apart from the wooden dais of the excerpt, Ezra's reading of the Law (Neh 8:4), the ambo's scriptural type, from the First Reading of the Third Sunday in Ordinary Time, Year C.",
+    "excerpt": "content/of/formularies/tempore/ordinary-time/week-3/sunday.json readings.C.firstReading body (Nehemiah 8:4, one sentence; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 5, nos. 309 (the ambo: a stationary place for the Word)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-5"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 118 (the Lectionary prepared at the ambo)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal and Lectionary, Third Sunday in Ordinary Time, Year C, First Reading (Neh 8) (content/of/formularies/tempore/ordinary-time/week-3/sunday.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/formularies/tempore/ordinary-time/week-3/sunday.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

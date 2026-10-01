@@ -1,0 +1,40 @@
+{
+  "id": "lords_prayer",
+  "name": {
+    "en-US": "The Lord’s Prayer",
+    "pt-BR": "Pai-Nosso"
+  },
+  "patronOf": {
+    "en-US": "The prayer the Lord taught us",
+    "pt-BR": "A oração que o Senhor nos ensinou"
+  },
+  "prayerExcerpt": {
+    "en-US": "Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven.",
+    "pt-BR": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino, seja feita a vossa vontade, assim na terra como no céu."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest says the invitation with hands joined, then 'with hands extended, he pronounces the prayer together with the people' (GIRM 152, 81; the Order of Mass rubric 'He extends his hands and, together with the people, continues'); the paten and chalice have been set down on the corporal (GIRM 151). The people stand (GIRM 43). The daily bread asked for is 'principally the Eucharistic Bread' (GIRM 81), so the Host stays in view.",
+    "excerpt": "content/of/order/order-of-mass.json order.our-father (its opening, line breaks joined, verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 81 (standing; the Lord's Prayer and its daily bread)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 151–153 (the vessels set on the corporal; the prayer with hands extended; the embolism)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Lord's Prayer (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

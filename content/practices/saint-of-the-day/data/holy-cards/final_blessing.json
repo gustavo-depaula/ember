@@ -1,0 +1,40 @@
+{
+  "id": "final_blessing",
+  "name": {
+    "en-US": "Blessing",
+    "pt-BR": "Bênção"
+  },
+  "patronOf": {
+    "en-US": "God's blessing upon his people",
+    "pt-BR": "A bênção de Deus sobre o seu povo"
+  },
+  "prayerExcerpt": {
+    "en-US": "May almighty God bless you, the Father, and the Son, and the Holy Spirit. Amen.",
+    "pt-BR": "Abençoe-vos Deus todo-poderoso Pai e Filho e Espírito Santo. Amém."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest greets the people, then, 'joining his hands again and then immediately placing his left hand on his breast, raises his right hand and adds, May almighty God bless you and, as he makes the Sign of the Cross over the people, he continues', and all reply Amen (GIRM 167, 90b; the Order of Mass rubric). The blessing is given to the people, so he faces them; he is seen from behind, from the altar side. The people stand (GIRM 43).",
+    "excerpt": "content/of/order/order-of-mass.json order.simple-blessing (the blessing and the people's Amen, the rubric between them and the ✠ dropped, lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 90 (standing; the Concluding Rites)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 167 (left hand on the breast, the Sign of the Cross over the people)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Blessing (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

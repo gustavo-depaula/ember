@@ -1,0 +1,40 @@
+{
+  "id": "holy_communion",
+  "name": {
+    "en-US": "Communion",
+    "pt-BR": "Comunhão"
+  },
+  "patronOf": {
+    "en-US": "The faithful receive the Body of Christ",
+    "pt-BR": "Os fiéis recebem o Corpo de Cristo"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Body of Christ. Amen.",
+    "pt-BR": "O Corpo de Cristo. Amém."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest 'takes the paten or ciborium and approaches the communicants, who usually come up in procession'; he 'raises the host slightly and shows it to each, saying, The Body of Christ. The communicant replies, Amen' (GIRM 160–161; the Order of Mass rubric). In the US, Communion is received standing, the communicant bowing the head before the Sacrament, on the tongue or in the hand (GIRM 160); the Communion-plate is prepared 'for the Communion of the faithful' (GIRM 118c). Communion under the one kind, so no chalice ministers.",
+    "excerpt": "content/of/order/order-of-mass.json order.communion-silent (the minister's words and the communicant's reply, the rubric between them dropped; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 84, 86 (Communion; the procession of the communicants)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 118, 160–161 (the Communion-plate; receiving standing with a bow; The Body of Christ, Amen)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: Communion (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sign_of_peace",
+  "name": {
+    "en-US": "Sign of Peace",
+    "pt-BR": "Rito da Paz"
+  },
+  "patronOf": {
+    "en-US": "Peace given to one another",
+    "pt-BR": "A paz dada uns aos outros"
+  },
+  "prayerExcerpt": {
+    "en-US": "The peace of the Lord be with you always. And with your spirit.",
+    "pt-BR": "A paz do Senhor esteja sempre convosco. O amor de Cristo nos uniu."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the prayer for peace the priest, turned to the people, gives the greeting of the excerpt; then 'all express to one another peace, communion, and charity', each 'in a sober manner' offering it 'only to those who are nearest', in the form set by the Conference of Bishops; the priest gives it to the ministers but 'always remains within the sanctuary' (GIRM 154, 82; the Order of Mass rubric). The handshake with a bow is the usual form in the US and in Brazil; the people stand (GIRM 43).",
+    "excerpt": "content/of/order/order-of-mass.json order.sign-of-peace (the priest's greeting and the people's reply, the rubric between them dropped; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "GIRM ch. 2, nos. 43, 82 (standing; the Rite of Peace, soberly, to those nearest)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-2"
+      },
+      {
+        "title": "GIRM ch. 4, nos. 154 (the greeting of peace; the priest stays within the sanctuary)",
+        "url": "https://www.usccb.org/prayer-and-worship/the-mass/general-instruction-of-the-roman-missal/girm-chapter-4"
+      },
+      {
+        "title": "The Roman Missal, Order of Mass: the Sign of Peace (content/of/order/order-of-mass.json)",
+        "url": "https://github.com/gustavo-depaula/ember/blob/main/content/of/order/order-of-mass.json"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-48.md."
+      }
+    ]
+  }
+}
