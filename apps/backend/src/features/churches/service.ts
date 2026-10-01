@@ -122,12 +122,24 @@ export async function viewport(
   return { churches: churches.sort(byDistanceFrom(lat, lng)).slice(0, limit), clusters }
 }
 
-// FTS5 name search: rank-ordered ids → hydrated rows, then the same service-level filter as `near`.
+// FTS5 name search: ordered ids (nearest `near` first, else text rank) → hydrated rows, then the
+// same service-level filter as the viewport.
 export async function searchChurches(
   db: Db,
-  query: { q: string; kind?: string; rite?: string; limit: number; offset: number },
+  query: {
+    q: string
+    near?: { lat: number; lng: number }
+    kind?: string
+    rite?: string
+    limit: number
+    offset: number
+  },
 ): Promise<Church[]> {
-  const ids = await churchIdsMatchingText(db, query.q, { limit: query.limit, offset: query.offset })
+  const ids = await churchIdsMatchingText(db, query.q, {
+    limit: query.limit,
+    offset: query.offset,
+    near: query.near,
+  })
   const rows = await churchesByIds(db, ids)
   const order = new Map(ids.map((id, i) => [id, i]))
   const ranked = rows.sort((a, b) => (order.get(a.id) ?? 0) - (order.get(b.id) ?? 0))

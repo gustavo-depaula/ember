@@ -29,12 +29,23 @@ const bbox = z.string().transform((s, ctx) => {
   return { minLng, minLat, maxLng, maxLat }
 })
 
+// near = "lat,lng" — where a name search should rank from (the map the user is looking at).
+const near = z.string().transform((s, ctx) => {
+  const [lat, lng] = s.split(',').map(Number)
+  if (!(Math.abs(lat) <= 90 && Math.abs(lng) <= 180)) {
+    ctx.addIssue({ code: 'custom', message: 'near must be "lat,lng"' })
+    return z.NEVER
+  }
+  return { lat, lng }
+})
+
 // Every branch must be index-backed: `q` → FTS5, `bbox` → geohash. An unbounded list has no indexed
 // answer (the only church indexes are FTS, the PK, and geohash), so require one of the two — the
 // contract can't express a full table scan.
 export const churchesQuerySchema = z
   .object({
     q: z.string().optional(), // FTS5 name search
+    near: near.optional(), // with q: rank matches nearest this point first
     bbox: bbox.optional(), // map viewport → geohash covering-set
     kind: z.string().optional(),
     rite: z.string().optional(),

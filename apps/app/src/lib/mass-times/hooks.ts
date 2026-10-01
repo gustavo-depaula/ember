@@ -37,11 +37,20 @@ export function useChurch(id: string | undefined) {
   })
 }
 
-export function useChurchSearch(query: string, kind?: ServiceKind) {
+// Ranked nearest `near` (the map center) first. Rounded to ~10 km so panning the map doesn't refetch
+// a search whose ranking barely changes.
+export function useChurchSearch(
+  query: string,
+  kind?: ServiceKind,
+  near?: { lat: number; lng: number },
+) {
   const q = query.trim()
+  const at = near
+    ? { lat: Math.round(near.lat * 10) / 10, lng: Math.round(near.lng * 10) / 10 }
+    : undefined
   return useQuery({
-    queryKey: ['mass-times', 'search', q, kind],
-    queryFn: () => searchChurches(q, { kind }),
+    queryKey: ['mass-times', 'search', q, kind, at?.lat, at?.lng],
+    queryFn: () => searchChurches(q, { kind, near: at }),
     enabled: q.length >= 2,
     staleTime,
   })

@@ -17,9 +17,9 @@ export const churchesRouter = new Hono<{ Bindings: Env }>()
   })
   .get('/', zValidator('query', churchesQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
-    const { q, bbox, ...rest } = c.req.valid('query')
+    const { q, bbox, near, ...rest } = c.req.valid('query')
     // The validator guarantees one of the two.
-    if (q !== undefined) return c.json({ churches: await searchChurches(db, { q, ...rest }) })
+    if (q !== undefined) return c.json({ churches: await searchChurches(db, { q, near, ...rest }) })
     return c.json(await viewport(db, { bbox: bbox as NonNullable<typeof bbox>, ...rest }))
   })
   .get('/:id/verifications', zValidator('query', verificationsQuerySchema), async (c) => {

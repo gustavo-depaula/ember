@@ -281,7 +281,7 @@ function BrowseSearch({
 
   const debounced = useDebounced(query.trim(), 250)
   const searching = debounced.length >= 2
-  const search = useChurchSearch(debounced, nearby.kind)
+  const search = useChurchSearch(debounced, nearby.kind, nearby.center)
   const favorites = useFavoritesStore((s) => s.favorites)
   const results = (search.data ?? []).filter((c) => passesFilter(c, filter, favorites))
 

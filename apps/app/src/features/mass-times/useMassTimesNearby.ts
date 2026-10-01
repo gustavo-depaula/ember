@@ -62,6 +62,7 @@ export function passesFilter(
 export type MassTimesNearby = {
   location: DeviceLocation
   churches: NearbyChurch[] | undefined // nearest the map center first
+  center: { lat: number; lng: number } // the map center — where name search ranks from
   clusters: Cluster[] // non-empty only when the viewport holds more churches than the list
   kind?: ServiceKind // the active service-kind filter, surfaced so views can label the next time
   isLoading: boolean
@@ -111,6 +112,7 @@ export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): Mass
   return {
     location,
     churches,
+    center: { lat: view.latitude, lng: view.longitude },
     clusters: data?.clusters ?? [],
     kind: filter.kind,
     isLoading,

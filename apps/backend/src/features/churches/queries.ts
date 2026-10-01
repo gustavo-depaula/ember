@@ -119,21 +119,31 @@ export function toPrefixMatchQuery(raw: string): string {
   return tokens.map((token) => `"${token}"*`).join(' ')
 }
 
-// FTS5 name search → church ids in rank order; the caller hydrates full rows. The virtual table
-// isn't in the Drizzle schema, so this drops to raw `sql`.
+// FTS5 name search → church ids; the caller hydrates full rows. The virtual table isn't in the
+// Drizzle schema, so this drops to raw `sql`. With `near`, matches come nearest-first: a name like
+// "Carmo" matches thousands of churches worldwide, and text rank alone puts every bare "Carmo" in
+// Portugal ahead of the "NS do Carmo" down the street. Distance is the equirectangular square —
+// plain arithmetic, since D1 may lack SQLite's math functions — with the longitude scale computed here.
 export async function churchIdsMatchingText(
   db: Db,
   q: string,
-  page: { limit: number; offset: number },
+  page: { limit: number; offset: number; near?: { lat: number; lng: number } },
 ): Promise<string[]> {
   const match = toPrefixMatchQuery(q)
   if (!match) return []
+  const order = page.near
+    ? (() => {
+        const { lat, lng } = page.near
+        const k = Math.cos((lat * Math.PI) / 180)
+        return sql`((c.lat - ${lat}) * (c.lat - ${lat}) + (c.lng - ${lng}) * (c.lng - ${lng}) * ${k * k}), rank`
+      })()
+    : sql`rank`
   const rows = await db.all<{ id: string }>(sql`
     SELECT c.id AS id
     FROM church c
     JOIN church_fts ON church_fts.rowid = c.rowid
     WHERE church_fts MATCH ${match}
-    ORDER BY rank
+    ORDER BY ${order}
     LIMIT ${page.limit} OFFSET ${page.offset}
   `)
   return rows.map((r) => r.id)
