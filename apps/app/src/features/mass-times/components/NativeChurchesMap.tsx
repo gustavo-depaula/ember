@@ -5,27 +5,7 @@ import { useTheme } from 'tamagui'
 import type { Cluster } from '@/lib/mass-times'
 import { useFavoritesStore } from '../favorites'
 import type { MassTimesNearby } from '../useMassTimesNearby'
-
-// Stained-glass jewel tones so the directory pins aren't a monotone wall of gold — each church gets a
-// stable color hashed from its name (favorites stay the burgundy heart, see below).
-const pinPalette = [
-  '#C9A84C', // gold
-  '#B23A48', // crimson
-  '#2F5C9E', // royal blue
-  '#2E8B57', // emerald
-  '#6A4C93', // violet
-  '#D08C34', // amber
-  '#2A9D8F', // teal
-  '#C45B7C', // rose
-  '#3D4EA8', // indigo
-  '#4F7942', // forest
-]
-
-function pinColor(seed: string): string {
-  let hash = 0
-  for (let i = 0; i < seed.length; i++) hash = (hash * 31 + seed.charCodeAt(i)) | 0
-  return pinPalette[Math.abs(hash) % pinPalette.length]
-}
+import { clusterPrefix, pinColor } from './mapPins'
 
 export type CameraPosition = {
   coordinates: { latitude: number; longitude: number }
@@ -44,8 +24,6 @@ export type CameraIdle = {
 
 // What a church pin hands back on tap — enough to open its detail and focus the camera.
 export type PinnedChurch = { id: string; name: string; lat: number; lng: number }
-
-const clusterPrefix = 'cluster:'
 
 // What the wrapper drives the map with. expo-maps' `cameraPosition` prop is initial-only, so moves go
 // through the native view's imperative methods (exposed here via the forwarded ref). `select`/`deselect`

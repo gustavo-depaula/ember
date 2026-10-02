@@ -287,6 +287,9 @@ export function Envelope({
               lineHeight={w * 0.14}
               color="#4f3b26"
               textAlign="center"
+              // Full width, not shrink-wrapped: Android fits a centred item's
+              // text to its narrowest wrap and breaks a short name in two.
+              alignSelf="stretch"
               numberOfLines={2}
               adjustsFontSizeToFit
             >

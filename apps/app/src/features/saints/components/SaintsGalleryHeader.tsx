@@ -2,8 +2,8 @@ import { SegmentedControl } from '@expo/ui/community/segmented-control'
 import { Link } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView, StyleSheet } from 'react-native'
-import { YStack } from 'tamagui'
+import { Platform, Pressable, ScrollView, StyleSheet } from 'react-native'
+import { useTheme, YStack } from 'tamagui'
 import { PageFlourish } from '@/components'
 import { Typography } from '@/components/typography'
 import { useToday } from '@/hooks/useToday'
@@ -30,6 +30,7 @@ export function SaintsGalleryHeader({
   onGrouping: (g: SaintGrouping) => void
 }) {
   const { t } = useTranslation()
+  const theme = useTheme()
   const today = useToday()
   const held = useHeldCards()
   const total = saints.length
@@ -88,6 +89,8 @@ export function SaintsGalleryHeader({
         <SegmentedControl
           values={segmentValues}
           selectedIndex={groupings.indexOf(grouping)}
+          // Material fills the chosen segment from the device's own palette.
+          tintColor={Platform.OS === 'android' ? theme.accentSubtle.val : undefined}
           onChange={(e) => {
             selectionTick()
             onGrouping(groupings[e.nativeEvent.selectedSegmentIndex] ?? 'shelves')

@@ -1,3 +1,5 @@
+const { androidFonts } = require('./plugins/androidFonts')
+
 module.exports = ({ config }) => {
   // Apple Team ID: prefer $APPLE_TEAM_ID at config eval time. If the env var
   // isn't set, fall back to whatever is in app.json so `expo config` /
@@ -10,6 +12,7 @@ module.exports = ({ config }) => {
   config.ios = { ...(config.ios || {}), appleTeamId: teamId }
   if (Array.isArray(config.plugins)) {
     config.plugins = config.plugins.map((p) => {
+      if (p === 'expo-font') return [p, { android: { fonts: androidFonts } }]
       if (Array.isArray(p) && p[0] === 'react-native-device-activity' && p[1]) {
         return [p[0], { ...p[1], appleTeamId: teamId }]
       }

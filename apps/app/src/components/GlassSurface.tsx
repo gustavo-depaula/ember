@@ -37,6 +37,8 @@ function useReduceTransparency() {
   return reduce
 }
 
+const androidLift = { elevation: 4 }
+
 export function GlassSurface({
   isDark,
   style,
@@ -52,9 +54,18 @@ export function GlassSurface({
 }) {
   const reduceTransparency = useReduceTransparency()
 
-  if (reduceTransparency) {
+  // Android has no glass: expo-blur draws a faint wash there, and a floating
+  // control all but vanishes over the page. An opaque surface lifted by a
+  // shadow reads as the same floating layer.
+  if (reduceTransparency || Platform.OS === 'android') {
     return (
-      <View style={[style, { backgroundColor: tintColor ?? (isDark ? '#1C1A18' : '#F4F0EA') }]}>
+      <View
+        style={[
+          style,
+          { backgroundColor: tintColor ?? (isDark ? '#1C1A18' : '#F4F0EA') },
+          Platform.OS === 'android' && androidLift,
+        ]}
+      >
         {children}
       </View>
     )
@@ -73,8 +84,6 @@ export function GlassSurface({
       </GlassView>
     )
   }
-  // expo-blur on Android falls back to a semi-transparent overlay (no real
-  // blur). Acceptable for a floating pill.
   return (
     <BlurView
       tint={isDark ? 'systemThickMaterialDark' : 'systemThickMaterialLight'}

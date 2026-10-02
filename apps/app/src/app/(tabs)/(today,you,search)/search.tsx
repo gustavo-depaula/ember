@@ -1,11 +1,13 @@
 import { type NativeStackNavigationProp, Stack, useNavigation } from 'expo-router'
-import { BookOpen, Church, Sparkle } from 'lucide-react-native'
+import { BookOpen, Church, Search, Sparkle, X } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
+import { Platform } from 'react-native'
 import type { SearchBarCommands } from 'react-native-screens'
-import { YStack } from 'tamagui'
+import { useTheme, XStack, YStack } from 'tamagui'
 
-import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
+import { AnimatedPressable, PageFlourish, PageHeader, ScreenLayout } from '@/components'
+import { SearchInput } from '@/components/SearchInput'
 import { getEntry } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { toneForKey } from '@/features/explore/bgColor'
@@ -24,6 +26,11 @@ const flourishDark = require('../../../../assets/textures/notch_search_dark.png'
 const flourishLight = require('../../../../assets/textures/notch_search_light.png')
 const flourishAspect = 2172 / 478
 const flourishLightAspect = 2153 / 334
+
+// Android's header search bar is a toolbar action that unfolds over the page,
+// covering the flourish and the first results; there the field sits in the page
+// and stands in for the title.
+const inPageField = Platform.OS === 'android'
 
 // With a query, live corpus search; empty, a lobby: Mass times, three fixed
 // places, the doors into the corpus and what was last opened.
@@ -58,8 +65,9 @@ export default function SearchScreen() {
       }),
     [navigation],
   )
-  const screenOptions = useMemo(
-    () => ({
+  const screenOptions = useMemo(() => {
+    if (inPageField) return { headerShown: false }
+    return {
       // The shared group hides headers; this screen needs the native header to
       // host the iOS 26 search bar.
       headerShown: true,
@@ -76,9 +84,8 @@ export default function SearchScreen() {
         placeholder: t('nav.searchPlaceholder'),
         onChangeText: onSearchChange,
       },
-    }),
-    [t, onSearchChange],
-  )
+    }
+  }, [t, onSearchChange])
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps once the catalog (and the Rosary's name) loads.
   const placeTiles = useMemo<ShortcutTileData[]>(
@@ -109,7 +116,7 @@ export default function SearchScreen() {
       tiles.map((tile) => ({ ...tile, tone: toneForKey(tile.key) }))
     return (
       <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
-        <PageHeader title={t('nav.searchPlaceholder')} />
+        {!inPageField && <PageHeader title={t('nav.searchPlaceholder')} />}
         <YStack gap="$md">
           <WideShortcutCard
             title={t('massTimes.cardTitle')}
@@ -139,6 +146,7 @@ export default function SearchScreen() {
               lightAspectRatio={flourishLightAspect}
             />
           )}
+          {inPageField && <SearchField query={query} onQuery={setQuery} />}
           {isSearching && (
             <YStack paddingVertical="$lg">
               <SearchAutocomplete query={query} />
@@ -148,5 +156,48 @@ export default function SearchScreen() {
         </ScreenLayout>
       )}
     </>
+  )
+}
+
+function SearchField({ query, onQuery }: { query: string; onQuery: (query: string) => void }) {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  return (
+    <XStack
+      marginTop="$md"
+      marginBottom="$sm"
+      paddingHorizontal="$md"
+      alignItems="center"
+      gap="$sm"
+      borderRadius="$lg"
+      backgroundColor="$backgroundSurface"
+    >
+      <Search size={18} color={theme.colorSecondary?.val} />
+      <SearchInput
+        flex={1}
+        value={query}
+        onChangeText={onQuery}
+        placeholder={t('pray.searchPlaceholder')}
+        placeholderTextColor="$colorSecondary"
+        backgroundColor="transparent"
+        borderWidth={0}
+        paddingHorizontal={0}
+        height={48}
+        color="$color"
+        fontFamily="$body"
+        fontSize="$3"
+        accessibilityLabel={t('nav.searchPlaceholder')}
+      />
+      {query.length > 0 && (
+        <AnimatedPressable
+          onPress={() => onQuery('')}
+          hitSlop={14}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.clearSearch')}
+        >
+          <X size={16} color={theme.colorSecondary?.val} />
+        </AnimatedPressable>
+      )}
+    </XStack>
   )
 }

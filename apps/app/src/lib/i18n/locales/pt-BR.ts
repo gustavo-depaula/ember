@@ -1388,6 +1388,8 @@ export default {
     },
   },
   a11y: {
+    recenterMap: 'Centralizar o mapa na sua localização',
+    clearSearch: 'Limpar a busca',
     openHolyCard: 'Abrir o envelope do santinho',
     chooseSaint: 'Escolher {{name}}',
     amenOpen: 'Dizer Amém e abrir o envelope',
