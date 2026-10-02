@@ -11,26 +11,6 @@ config.resolver.nodeModulesPaths = [
   path.resolve(monorepoRoot, 'node_modules'),
 ]
 
-// `@expo/ui` is native-only (its views call `requireNativeViewManager`). Since
-// `ConfirmHost` mounts a sheet at the root of every screen, leaving it unshimmed
-// makes the web build a blank page. Swap in a plain web sheet instead.
-const webShims = {
-	'@expo/ui/community/bottom-sheet': path.resolve(__dirname, 'src/lib/web-shims/bottom-sheet.tsx'),
-	'@expo/ui/community/segmented-control': path.resolve(
-		__dirname,
-		'src/lib/web-shims/segmented-control.tsx',
-	),
-	'@expo/ui/swift-ui': path.resolve(__dirname, 'src/lib/web-shims/swift-ui.tsx'),
-	'@expo/ui/swift-ui/modifiers': path.resolve(__dirname, 'src/lib/web-shims/swift-ui.tsx'),
-}
-
-const defaultResolveRequest = config.resolver.resolveRequest
-config.resolver.resolveRequest = (context, moduleName, platform) => {
-	const shim = platform === 'web' ? webShims[moduleName] : undefined
-	if (shim) return { type: 'sourceFile', filePath: shim }
-	return (defaultResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
-}
-
 // content/do is the Divinum Officium submodule (~300MB of upstream text, Perl
 // and JS). The app reads it through the corpus, never by import — keep Metro
 // from crawling it.
