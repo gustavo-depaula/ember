@@ -1,0 +1,49 @@
+{
+  "id": "etheldreda",
+  "feast": {
+    "month": 6,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Etheldreda",
+    "pt-BR": "Santa Eteldreda"
+  },
+  "patronOf": {
+    "en-US": "Abbess of Ely",
+    "pt-BR": "Abadessa de Ely"
+  },
+  "prayerExcerpt": {
+    "en-US": "The soul cannot truly serve God while it is involved in the distractions and pleasures of the world.",
+    "pt-BR": "A alma não pode verdadeiramente servir a Deus enquanto está envolvida nas distrações e nos prazeres do mundo."
+  },
+  "lifeChapter": "jun-23-etheldreda",
+  "meta": {
+    "face": "An East Anglian princess of about forty with a fair, clear complexion and a softly PEAR-SHAPED face — NARROW at the temples and widening to FULL lower cheeks and a broad, rounded jaw; a straight nose that continues the line of the forehead in ONE UNBROKEN LINE (a classical profile); LARGE, WIDE-SET, heavy-lidded pale-blue eyes under HIGH, curved fair brows; a SMALL, full, rosebud mouth; a SHORT, rounded chin; the neck plain and unadorned; all hair hidden; the gaze calm and inward.",
+    "basis": "No likeness survives. The Benedictional of St. Æthelwold (tenth century; Commons) shows her veiled, with a book and a budding staff, and Wikipedia tells the legend of the ash that grew from her staff, and Bede's account of her dying of a neck tumour she took as penance for the necklaces of her youth. The book tells her two marriages kept in virginity, her refuge on a headland near Coldingham, and the double monastery she founded at Ely in 672. The pear-shaped face with the classical profile is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-23-etheldreda.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Æthelthryth (lead image: Benedictional of St. Æthelwold)",
+        "url": "https://en.wikipedia.org/wiki/Æthelthryth"
+      },
+      {
+        "title": "Wikimedia Commons, St-aethelthryth (Benedictional of St. Æthelwold)",
+        "url": "https://commons.wikimedia.org/wiki/File:St-aethelthryth.jpg"
+      },
+      {
+        "title": "Wikipedia, Ely Cathedral",
+        "url": "https://en.wikipedia.org/wiki/Ely_Cathedral"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-23-etheldreda (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-23-etheldreda.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

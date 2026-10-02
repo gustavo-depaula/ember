@@ -1,0 +1,49 @@
+{
+  "id": "john_francis_regis",
+  "feast": {
+    "month": 6,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. John Francis Regis",
+    "pt-BR": "São João Francisco Regis"
+  },
+  "patronOf": {
+    "en-US": "Jesuit missionary",
+    "pt-BR": "Missionário jesuíta"
+  },
+  "prayerExcerpt": {
+    "en-US": "How much might we do if we could forget our own wants in remembering those of others, and put our trust in God!",
+    "pt-BR": "Quanto poderíamos fazer se pudéssemos esquecer as nossas próprias necessidades ao lembrar as dos outros, e pôr a nossa confiança em Deus!"
+  },
+  "lifeChapter": "jun-16-john-francis-regis",
+  "meta": {
+    "face": "A Frenchman of Languedoc of about forty-three, lean from labour, with a fair complexion reddened by the cold and a LONG, NARROW, CHISELLED face following his portrait — a HIGH, rounded forehead, HIGH cheekbones with flat hollows beneath, a narrow jaw, a LONG, STRAIGHT, NARROW nose whose tip turns slightly DOWN, LARGE, bright, rather PROMINENT hazel eyes turned sideways toward the villages under thin, arched auburn brows, a small, firm mouth; short AUBURN-CHESTNUT hair, a THIN auburn moustache and a SHORT, POINTED auburn beard on the chin only; the gaze eager and ardent.",
+    "basis": "The face follows the old painted portrait on Wikipedia (en, fr): a long, narrow face with high cheekbones, a long nose, large eyes looking aside, short auburn hair, a thin moustache and a short pointed beard, one hand raised and a crucifix in the other. The book tells the winter missions in the mountains, the broken leg healed in the confessional, and his death at forty-four; Wikipedia gives 1597–1640 and his death at Lalouvesc.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-16-john-francis-regis.md Reflection, last sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John Francis Regis (lead image: painted portrait with crucifix)",
+        "url": "https://en.wikipedia.org/wiki/John_Francis_Regis"
+      },
+      {
+        "title": "Wikipedia (fr), Jean-François Régis",
+        "url": "https://fr.wikipedia.org/wiki/Jean-François_Régis"
+      },
+      {
+        "title": "Wikipedia, Lalouvesc",
+        "url": "https://en.wikipedia.org/wiki/Lalouvesc"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-16-john-francis-regis (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-16-john-francis-regis.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "primus_felicianus",
+  "feast": {
+    "month": 6,
+    "day": 9
+  },
+  "name": {
+    "en-US": "Sts. Primus and Felicianus",
+    "pt-BR": "São Primo e São Feliciano"
+  },
+  "patronOf": {
+    "en-US": "Brothers and martyrs",
+    "pt-BR": "Irmãos e mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "A soul which truly loves God regards all the things of this world as nothing.",
+    "pt-BR": "Uma alma que verdadeiramente ama a Deus considera como nada todas as coisas deste mundo."
+  },
+  "lifeChapter": "jun-09-sts-primus-and-felicianus",
+  "meta": {
+    "face": "Two clearly different old Roman brothers with warm olive complexions. PRIMUS (left), about eighty, as in the mosaic grey-haired with a short grey beard: a LONG, NARROW, HORSE-LONG face with its length in the MIDDLE — eyes set HIGH under a narrow, lined forehead, a LONG, DROOPING nose with a rounded tip, a LONG upper lip, flat, long cheeks, a narrow chin under a SHORT, NEAT silver beard; deep-set, pale hazel eyes; thin silver hair cropped close. FELICIANUS (right), about seventy, as in the mosaic darker-haired: a SHORT, ROUND-OVAL face with a PROMINENT, ROUNDED, BOSSED forehead and a SMALL, slightly RECEDING chin under a full, dark-brown beard streaked with grey — a SMALL, ARCHED nose, BIG, ROUND, dark-brown eyes, softly rounded cheeks, a small, full mouth; thick, short dark-brown hair greying at the sides; both gazes calm and kind.",
+    "basis": "The chapel of Sts. Primus and Felician at Santo Stefano Rotondo (seventh century, where Pope Theodore I laid their relics) shows them in white tunics and pallia: Primus grey-haired with a short grey beard, Felicianus darker-haired and bearded (Commons photographs consulted). The book and Wikipedia agree that they were brothers who served the poor and the confessors, grown old, and were beheaded at Nomentum twelve miles from Rome; the Acts make Primus eighty. The bone structures are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-09-sts-primus-and-felicianus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Primus and Felician",
+        "url": "https://en.wikipedia.org/wiki/Primus_and_Felician"
+      },
+      {
+        "title": "Wikimedia Commons, S Primo S Stefano Rotondo Roma (mosaic)",
+        "url": "https://commons.wikimedia.org/wiki/File:S_Primo_S_Stefano_Rotondo_Roma.JPG"
+      },
+      {
+        "title": "Wikimedia Commons, S Feliciano S Stefano Rotondo Roma (mosaic)",
+        "url": "https://commons.wikimedia.org/wiki/File:S_Feliciano_S_Stefano_Rotondo_Roma.JPG"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-09-sts-primus-and-felicianus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-09-sts-primus-and-felicianus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

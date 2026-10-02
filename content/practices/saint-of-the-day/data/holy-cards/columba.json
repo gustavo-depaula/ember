@@ -1,0 +1,49 @@
+{
+  "id": "columba",
+  "feast": {
+    "month": 6,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Columba",
+    "pt-BR": "São Columba"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Iona",
+    "pt-BR": "Abade de Iona"
+  },
+  "prayerExcerpt": {
+    "en-US": "The thought of the world to come will always make us happy, and yet strict with ourselves in all our duties.",
+    "pt-BR": "O pensamento do mundo vindouro sempre nos fará felizes, e contudo rigorosos conosco mesmos em todos os nossos deveres."
+  },
+  "lifeChapter": "jun-09-columba-or-columkille",
+  "meta": {
+    "face": "An Irishman of about seventy-five, CLEAN-SHAVEN, with a fair, fine-skinned complexion lit by a RUDDY GLOW, the front of the head shaved from EAR TO EAR in the Irish tonsure so that a smooth, bare forehead rises high, and long, fine WHITE hair falls from the back of the head to the shoulders; a BROAD, OPEN face, as WIDE at the jaw as at the cheekbones, with SMOOTH, FULL, glowing cheeks and no hollows — a straight, medium nose with a slightly UPTURNED tip, very LARGE, clear, luminous light-grey eyes set wide apart under faint, high, white brows, a WIDE, generous mouth in a joyful smile, and a firm chin with a distinct CLEFT; the gaze lifted a little, radiant ('angelic in appearance').",
+    "basis": "No likeness survives. Adomnán's Life (Reeves's translation, 1874) calls him 'angelic in appearance', with 'a holy joy ever beaming on his face', and tells his face suffused 'with a ruddy glow' at Mass; Reeves's introduction says his order kept the Irish tonsure 'from ear to ear' until 718. Karl Parsons's 1913 window shows him clean-shaven, tonsured, with a dove. The book tells the founder of Iona, apostle of the Picts, dying at seventy-seven in 597. The broad, open face with the cleft chin is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-09-columba-or-columkille.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Adomnán, Life of Saint Columba, tr. W. Reeves (1874), archive.org (saved as consult/batch-30/Adamnan-Reeves1874.txt)",
+        "url": "https://archive.org/details/lifeofsaintcolum00adamuoft"
+      },
+      {
+        "title": "Wikipedia, Columba",
+        "url": "https://en.wikipedia.org/wiki/Columba"
+      },
+      {
+        "title": "Wikimedia Commons, St Columba, Karl Parsons 1913 (stained glass)",
+        "url": "https://commons.wikimedia.org/wiki/File:St_Columba,_Karl_Parsons_1913_-_Stained_Glass_Museum.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-09-columba-or-columkille (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-09-columba-or-columkille.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

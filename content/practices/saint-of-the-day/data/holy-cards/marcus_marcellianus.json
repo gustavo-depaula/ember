@@ -1,0 +1,41 @@
+{
+  "id": "marcus_marcellianus",
+  "feast": {
+    "month": 6,
+    "day": 18
+  },
+  "name": {
+    "en-US": "Sts. Marcus and Marcellianus",
+    "pt-BR": "São Marco e São Marceliano"
+  },
+  "patronOf": {
+    "en-US": "Twin brothers, martyrs",
+    "pt-BR": "Irmãos gêmeos, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "We know not what we are till we have been tried.",
+    "pt-BR": "Não sabemos o que somos até termos sido provados."
+  },
+  "lifeChapter": "jun-18-sts-marcus-and-marcellianus",
+  "meta": {
+    "face": "Twin Roman brothers of about thirty-five with fair olive complexions and ONE SHARED bone structure, told apart only by the beard: a face with a BROAD, SQUARE forehead above a NARROWER, V-SHAPED lower face ending in a POINTED chin — a LONG nose with a distinct BUMP at the bridge, LARGE, dark eyes set CLOSE together under THICK, STRAIGHT black brows that nearly meet, clearly PROMINENT ears, a small, full mouth; short, crisp, curly black hair. MARCUS (left) wears a short, close black beard; MARCELLIANUS (right) is clean-shaven, which shows the pointed chin; both gazes grave and steadfast.",
+    "basis": "No likeness survives. The book tells twin brothers of an illustrious Roman family, married, imprisoned under Diocletian, strengthened by St. Sebastian, and at last pierced with lances; its engraving shows two young, beardless men bound to pillars. Wikipedia: nothing certain is known but their names, their martyrdom and their burial on the Via Ardeatina in the cemetery of Balbina; the twins, parents and Sebastian come from the largely legendary Acts of St. Sebastian. The shared face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-18-sts-marcus-and-marcellianus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Mark and Marcellian",
+        "url": "https://en.wikipedia.org/wiki/Marcus_and_Marcellianus"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-18-sts-marcus-and-marcellianus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-18-sts-marcus-and-marcellianus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

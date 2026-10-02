@@ -1,0 +1,45 @@
+{
+  "id": "juliana_falconieri",
+  "feast": {
+    "month": 6,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Juliana Falconieri",
+    "pt-BR": "Santa Juliana Falconieri"
+  },
+  "patronOf": {
+    "en-US": "Foundress of the Mantellate",
+    "pt-BR": "Fundadora das Mantellate"
+  },
+  "prayerExcerpt": {
+    "en-US": "If you seek the Cross, there you will find the Mother; and where the Mother is, there also is the Son.",
+    "pt-BR": "Se buscas a Cruz, ali encontrarás a Mãe; e onde está a Mãe, ali também está o Filho."
+  },
+  "lifeChapter": "jun-19-juliana-falconieri",
+  "meta": {
+    "face": "A Florentine noblewoman of about sixty-five, thin from long illness, with a pale, finely lined complexion and a face like an INVERTED EGG — a WIDE, SQUARE-set forehead framed tight by the wimple, FLATTISH cheeks, the face narrowing to a firm, slightly JUTTING, rounded chin; a LONG, straight, NARROW nose with a delicate HOOK at the tip; SMALL, deep-set, dark-brown eyes LOWERED, as one who never gazed on a man's face, under thin, STRAIGHT dark brows; a small, thin, gently compressed mouth; all hair hidden.",
+    "basis": "No portrait from life is known. The book tells a Falconieri of Florence, niece of Alexis, one of the Servite founders, who received the habit from St. Philip Benizi, founded the Mantellate, and in her seventieth year died as the Host laid on her breast vanished; its engraving shows her in a dark veil over a white wimple, holding out a dish at a window in a cloister. Wikipedia: 1270–1341, the black Servite habit with a leather girdle, 'usually represented in the habit of her Order with a host upon her breast', as her marble statue at Padua shows. The inverted-egg face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-19-juliana-falconieri.md Reflection, the last sentence of St. Paul of the Cross's words it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Juliana Falconieri (lead image: statue, Santa Maria dei Servi, Padua)",
+        "url": "https://en.wikipedia.org/wiki/Juliana_Falconieri"
+      },
+      {
+        "title": "Wikimedia Commons, Pier Leone Ghezzi, The Consecration of Saint Juliana Falconieri (drawing)",
+        "url": "https://commons.wikimedia.org/wiki/File:Pier_Leone_Ghezzi_-_The_Consecration_of_Saint_Juliana_Falconieri_-_Google_Art_Project.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-19-juliana-falconieri (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-19-juliana-falconieri.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

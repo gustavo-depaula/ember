@@ -1,0 +1,45 @@
+{
+  "id": "john_sahagun",
+  "feast": {
+    "month": 6,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. John of Sahagún",
+    "pt-BR": "São João de Sahagún"
+  },
+  "patronOf": {
+    "en-US": "Peacemaker of Salamanca",
+    "pt-BR": "Pacificador de Salamanca"
+  },
+  "prayerExcerpt": {
+    "en-US": "All men desire peace, but those alone enjoy it who, like St. John, are completely dead to themselves, and love to bear all things for Christ.",
+    "pt-BR": "Todos os homens desejam a paz, mas só a gozam aqueles que, como São João, estão completamente mortos para si mesmos, e amam suportar todas as coisas por Cristo."
+  },
+  "lifeChapter": "jun-12-john-of-st-fagondez",
+  "meta": {
+    "face": "A Castilian of about forty-nine, CLEAN-SHAVEN with a faint blue shadow of beard, a sun-darkened olive complexion and a WIDE, ANGULAR face whose JAW is BROADER than its forehead — a short, flat forehead under a full ring of black hair in the monastic tonsure, a straight nose with a BROAD bridge and FLARED nostrils, LARGE, calm, steady dark eyes set WIDE apart under THICK, straight black brows that angle slightly DOWN toward the nose, FLAT cheeks, a WIDE, straight, closed mouth, and a PROMINENT, ROUNDED chin; the gaze fixed peacefully on the Host.",
+    "basis": "No portrait from life is known. The book tells an Augustinian of Salamanca devoted to the Mass, who 'often' saw Jesus in glory at the altar, made peace among the city's feuding nobles, and died poisoned in 1479; its engraving shows him preaching from a pulpit in a dark habit. Wikipedia (en, es) gives c. 1430–1479, his reconciliation of Salamanca's two noble factions, and his image 'holding a chalice and host surrounded by rays of light', as on the tiled panel of its lead image. The wide, angular face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-12-john-of-st-fagondez.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John of Sahagún (lead image: azulejo panel with chalice and Host)",
+        "url": "https://en.wikipedia.org/wiki/John_of_Sahagún"
+      },
+      {
+        "title": "Wikipedia (es), Juan de Sahagún",
+        "url": "https://es.wikipedia.org/wiki/Juan_de_Sahagún"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-12-john-of-st-fagondez (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-12-john-of-st-fagondez.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

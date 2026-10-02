@@ -1,0 +1,49 @@
+{
+  "id": "silverius",
+  "feast": {
+    "month": 6,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Silverius",
+    "pt-BR": "São Silvério"
+  },
+  "patronOf": {
+    "en-US": "Pope and martyr",
+    "pt-BR": "Papa e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "He neither could nor would obey her unjust demands and betray the cause of the Catholic faith.",
+    "pt-BR": "Nem podia nem queria obedecer às suas exigências injustas e trair a causa da fé católica."
+  },
+  "lifeChapter": "jun-20-silverius",
+  "meta": {
+    "face": "A Roman of Campania of about fifty-five, THINNED by hunger, with a light-olive, sun-dried complexion and a ROUND skull with a FULL, CURVED forehead — very PROMINENT, ROUNDED cheekbones standing out over the hollows that hunger has made, SMALL, CLOSE-SET grey-green eyes under thin, slightly slanting grey brows, a SHORT, straight nose with a PINCHED, narrow bridge, a SMALL, softly receding chin under a SHORT, SPARSE, grizzled beard, a small, closed, patient mouth, LARGE ears; close-cropped greying dark hair; the gaze steady and far-off.",
+    "basis": "No likeness survives; later images (Samacchini's altarpiece, the Nuremberg Chronicle woodcut) are conventional. The book tells the son of Pope Hormisdas made Pope in 536, who refused the Empress Theodora, was falsely accused, exiled to Patara and then to a desert island, where he died; its engraving shows him seated on a rocky shore watching a boat. Wikipedia names the island Palmarola, where he starved to death, and Procopius's account that he was deposed and put in a monk's habit. The round, hunger-thinned face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-20-silverius.md, second paragraph, his answer to the empress (the clause after 'that'); the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Silverius",
+        "url": "https://en.wikipedia.org/wiki/Pope_Silverius"
+      },
+      {
+        "title": "Wikipedia, Palmarola",
+        "url": "https://en.wikipedia.org/wiki/Palmarola"
+      },
+      {
+        "title": "Wikimedia Commons, Silverius in the Liber Chronicarum (Nuremberg Chronicle woodcut)",
+        "url": "https://commons.wikimedia.org/wiki/File:Paus_Silverius_Silverius_(titel_op_object)_Liber_Chronicarum_(serietitel),_RP-P-2016-49-61-10.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-20-silverius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-20-silverius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}

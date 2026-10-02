@@ -1,0 +1,41 @@
+{
+  "id": "avitus",
+  "feast": {
+    "month": 6,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Avitus",
+    "pt-BR": "Santo Ávito"
+  },
+  "patronOf": {
+    "en-US": "Abbot and recluse",
+    "pt-BR": "Abade e recluso"
+  },
+  "prayerExcerpt": {
+    "en-US": "In quest of a closer retirement, St. Avitus, who had succeeded St. Maximin, soon after resigned the abbacy.",
+    "pt-BR": "Em busca de um retiro mais recolhido, Santo Ávito, que havia sucedido a São Maximino, logo em seguida renunciou ao abadiado."
+  },
+  "lifeChapter": "jun-17-avitus",
+  "meta": {
+    "face": "A Frank of peasant stock of about sixty-five, weathered by field and forest, with a brown, outdoor complexion and a LEAN, FLAT, WIDE face with a DISHED, CONCAVE profile — a broad, flat forehead, a SHORT, SCOOPED nose with an UPTURNED tip, WIDE-SET, large, mild, pale-green eyes under sparse, straight grey brows, BROAD, FLAT cheekbones with thin cheeks beneath, a wide, thin-lipped mouth, a SMALL, ROUND chin under a SHORT, ROUGH grey-brown beard; grey-brown hair cropped close around a monastic tonsure; the gaze lowered, gentle and patient.",
+    "basis": "No likeness survives. The book tells a native of Orleans, monk at Menat and at Micy with St. Calais, abbot of Micy who resigned to live as a recluse in the Dunois, for whom King Clotaire built a monastery near Châteaudun, and who died about 530; its engraving shows two monks walking in open country. French Wikipedia (Avit de Micy) makes him a son of humble farmers of the Beauce and a lover of the forest solitude. The flat, dish-profiled face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-17-avitus.md, third paragraph, first sentence up to the resignation of the abbacy; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia (fr), Avit de Micy",
+        "url": "https://fr.wikipedia.org/wiki/Avit_de_Micy"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-17-avitus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-17-avitus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-30.md."
+      }
+    ]
+  }
+}
