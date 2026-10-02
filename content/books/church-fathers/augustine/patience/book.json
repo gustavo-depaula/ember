@@ -2,13 +2,16 @@
   "id": "augustine-patience",
   "cover": "quarter",
   "name": {
-    "en-US": "On Patience"
+    "en-US": "On Patience",
+    "pt-BR": "Sobre a Paciência"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Patience"
+        "en-US": "On Patience",
+        "pt-BR": "Sobre a Paciência"
       }
     }
   ]
