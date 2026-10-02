@@ -1,6 +1,7 @@
 import { Stack } from 'expo-router'
 import { useTheme } from 'tamagui'
 
+import { GlassBackdropScope } from '@/components/glassBackdrop'
 import { fullScreenRoutes } from '@/lib/fullScreenRoutes'
 
 // Shared array group: the same route files back all three tabs, each with its
@@ -21,6 +22,7 @@ export default function TabStackLayout() {
   const theme = useTheme()
   return (
     <Stack
+      screenLayout={({ children }) => <GlassBackdropScope>{children}</GlassBackdropScope>}
       screenOptions={({ route }) => ({
         headerShown: false,
         // Paints the background so no white flash peeks mid-slide.

@@ -5,9 +5,11 @@ import Animated, { FadeIn } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, YStack } from 'tamagui'
 
+import { GlassBackdrop } from './glassBackdrop'
 import { useBottomClearance } from './tabAccessory'
 
 const scrollContentStyle = { flexGrow: 1 }
+const fill = { flex: 1 }
 
 export function ScreenLayout({
   children,
@@ -54,30 +56,32 @@ export function ScreenLayout({
     </YStack>
   )
 
-  if (!scroll) return inner
+  if (!scroll) return <GlassBackdrop style={fill}>{inner}</GlassBackdrop>
 
   const refreshControl = onRefresh ? (
     <RefreshControl refreshing={!!refreshing} onRefresh={onRefresh} />
   ) : undefined
 
   return (
-    <KeyboardAvoidingView style={{ flex: 1 }} behavior="padding">
-      {/* Keyboard handling belongs to the KeyboardAvoidingView alone. Do NOT
+    <GlassBackdrop style={fill}>
+      <KeyboardAvoidingView style={{ flex: 1 }} behavior="padding">
+        {/* Keyboard handling belongs to the KeyboardAvoidingView alone. Do NOT
           add `automaticallyAdjustKeyboardInsets` here: on the new architecture
           RN's inset bookkeeping leaks — keyboard events from other surfaces
           (the iOS 26 search tab's field, sheets) leave a phantom bottom
           contentInset on every mounted tab ScrollView, letting users scroll
           far past the content into a void they can't obviously escape. */}
-      <ScrollView
-        flex={1}
-        backgroundColor="$background"
-        contentContainerStyle={scrollContentStyle}
-        keyboardShouldPersistTaps="handled"
-        contentInsetAdjustmentBehavior="never"
-        refreshControl={refreshControl}
-      >
-        {inner}
-      </ScrollView>
-    </KeyboardAvoidingView>
+        <ScrollView
+          flex={1}
+          backgroundColor="$background"
+          contentContainerStyle={scrollContentStyle}
+          keyboardShouldPersistTaps="handled"
+          contentInsetAdjustmentBehavior="never"
+          refreshControl={refreshControl}
+        >
+          {inner}
+        </ScrollView>
+      </KeyboardAvoidingView>
+    </GlassBackdrop>
   )
 }

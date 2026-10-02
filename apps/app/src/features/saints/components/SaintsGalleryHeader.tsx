@@ -3,8 +3,9 @@ import { Link } from 'expo-router'
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable, ScrollView, StyleSheet } from 'react-native'
-import { useTheme, YStack } from 'tamagui'
+import { YStack } from 'tamagui'
 import { PageFlourish } from '@/components'
+import { SegmentedSelector } from '@/components/SegmentedSelector'
 import { Typography } from '@/components/typography'
 import { useToday } from '@/hooks/useToday'
 import { selectionTick } from '@/lib/haptics'
@@ -30,7 +31,6 @@ export function SaintsGalleryHeader({
   onGrouping: (g: SaintGrouping) => void
 }) {
   const { t } = useTranslation()
-  const theme = useTheme()
   const today = useToday()
   const held = useHeldCards()
   const total = saints.length
@@ -86,16 +86,27 @@ export function SaintsGalleryHeader({
       )}
 
       <YStack paddingTop="$lg" paddingBottom="$xs">
-        <SegmentedControl
-          values={segmentValues}
-          selectedIndex={groupings.indexOf(grouping)}
-          // Material fills the chosen segment from the device's own palette.
-          tintColor={Platform.OS === 'android' ? theme.accentSubtle.val : undefined}
-          onChange={(e) => {
-            selectionTick()
-            onGrouping(groupings[e.nativeEvent.selectedSegmentIndex] ?? 'shelves')
-          }}
-        />
+        {Platform.OS === 'android' ? (
+          // Material's segmented buttons carry their own type, tick and
+          // outline, none of which belong to the page.
+          <SegmentedSelector
+            values={segmentValues}
+            selectedIndex={groupings.indexOf(grouping)}
+            onChange={(i) => {
+              selectionTick()
+              onGrouping(groupings[i] ?? 'shelves')
+            }}
+          />
+        ) : (
+          <SegmentedControl
+            values={segmentValues}
+            selectedIndex={groupings.indexOf(grouping)}
+            onChange={(e) => {
+              selectionTick()
+              onGrouping(groupings[e.nativeEvent.selectedSegmentIndex] ?? 'shelves')
+            }}
+          />
+        )}
       </YStack>
     </YStack>
   )
