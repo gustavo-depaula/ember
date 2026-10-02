@@ -1,7 +1,7 @@
 {
   "id": "collect",
   "kind": "mass",
-  "order": 6,
+  "order": 9,
   "name": {
     "en-US": "Collect",
     "pt-BR": "Oração do Dia"

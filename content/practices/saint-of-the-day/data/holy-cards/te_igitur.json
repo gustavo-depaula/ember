@@ -1,0 +1,38 @@
+{
+  "id": "te_igitur",
+  "kind": "mass",
+  "order": 27,
+  "name": {
+    "en-US": "Te Igitur",
+    "pt-BR": "Te Igitur"
+  },
+  "patronOf": {
+    "en-US": "The Canon of the Mass begins",
+    "pt-BR": "Começa o Cânon da Missa"
+  },
+  "prayerExcerpt": {
+    "en-US": "We therefore humbly pray and beseech Thee, most merciful Father, through Jesus Christ, Thy Son, our Lord, that Thou wouldst vouchsafe to accept and bless these gifts, these presents, these holy unspotted Sacrifices.",
+    "pt-BR": "A Vós, pois, rogamos e pedimos, ó clementíssimo Pai, por Jesus Cristo, vosso Filho e Nosso Senhor, que estes dons, estas ofertas, estes sacrifícios santos e imaculados Vos sejam agradáveis e os abençoeis."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the Sanctus the priest raises his hands and eyes, then, 'manibus junctis et super Altare positis, profunde inclinatus incipit Canonem, secreto dicens: Te igitur'; he kisses the altar at 'uti accepta habeas' and signs the offerings three times (Ritus servandus VIII.1). The people kneel from the Sanctus (Fortescue, l. 6688–6689).",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the opening of Te igitur (the rubrics in brackets and the + dropped, cut at a comma made a full stop; in the en-US the source's comma after 'therefore' dropped and its semicolon after 'Jesus Christ' made a comma; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

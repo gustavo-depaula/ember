@@ -1,0 +1,38 @@
+{
+  "id": "washing_of_hands",
+  "kind": "mass",
+  "order": 22,
+  "name": {
+    "en-US": "Washing of the Hands",
+    "pt-BR": "Lavagem das Mãos"
+  },
+  "patronOf": {
+    "en-US": "The Lavabo: the priest washes his fingers",
+    "pt-BR": "O Lavabo: o sacerdote lava os dedos"
+  },
+  "prayerExcerpt": {
+    "en-US": "I will wash my hands among the innocent: and I will compass Thine altar, O Lord.",
+    "pt-BR": "Lavarei as minhas mãos, como os inocentes, e rodearei, Senhor o vosso altar."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest goes to the epistle corner, 'ubi stans, ministro aquam fundente, lavat manus, idest, extremitates digitorum pollicis et indicis, dicens Psalmum: Lavabo inter innocentes' (Ritus servandus VII.6). The psalm stands on the epistle-side altar card (Fortescue, l. 2986–2988). The object card `lavabo` shows the cruet, basin and towel alone; this is the rite.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: Psalm 25:6, the first verse of the Lavabo (cut at a comma or colon made a full stop; verbatim otherwise, the pt-BR without a comma after 'Senhor' as in the source)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

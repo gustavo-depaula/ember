@@ -1,7 +1,7 @@
 {
   "id": "second_reading",
   "kind": "mass",
-  "order": 9,
+  "order": 12,
   "name": {
     "en-US": "Second Reading",
     "pt-BR": "Segunda Leitura"

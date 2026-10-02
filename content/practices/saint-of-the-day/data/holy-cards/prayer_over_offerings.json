@@ -1,7 +1,7 @@
 {
   "id": "prayer_over_offerings",
   "kind": "mass",
-  "order": 16,
+  "order": 24,
   "name": {
     "en-US": "Prayer over the Offerings",
     "pt-BR": "Oração sobre as Oferendas"

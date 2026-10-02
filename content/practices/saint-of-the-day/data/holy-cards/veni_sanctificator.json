@@ -1,0 +1,38 @@
+{
+  "id": "veni_sanctificator",
+  "kind": "mass",
+  "order": 21,
+  "name": {
+    "en-US": "Veni, Sanctificator",
+    "pt-BR": "Veni, Sanctificator"
+  },
+  "patronOf": {
+    "en-US": "The Sanctifier is called down upon the offerings",
+    "pt-BR": "O Santificador é invocado sobre as oferendas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Come, O almighty and eternal God, the Sanctifier, and bless this Sacrifice, prepared for the glory of Thy holy Name.",
+    "pt-BR": "Vinde, ó Santificador omnipotente, Deus eterno, e abençoai este sacrifício, preparado para a glória do vosso Santo Nome."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After In spiritu humilitatis the priest stands erect, 'elevans oculos, manusque expandens easque in altum porrectas, statim jungens ante pectus (quod semper facit quando aliquid est benedicturus) dicit: Veni, sanctificator', and at 'et benedic' signs the host and chalice together (Ritus servandus VII.5); the chalice is already covered with the pall.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: Veni, sanctificator (whole, the + dropped; pt-BR keeps the source's European spelling 'omnipotente')",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "water_and_wine",
+  "kind": "mass",
+  "order": 20,
+  "name": {
+    "en-US": "Mingling of the Water and Wine",
+    "pt-BR": "Mistura da Água e do Vinho"
+  },
+  "patronOf": {
+    "en-US": "A little water is blessed and poured into the wine",
+    "pt-BR": "Um pouco de água é abençoado e posto no vinho"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant that, by the Mystery of this water and wine, we may be made partakers of His divine nature, who vouchsafed to be made partaker of our human nature.",
+    "pt-BR": "Permiti que pela mistura simbólica desta água e deste vinho sejamos participantes da divindade daquele que quis assumir a nossa humanidade."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "At the epistle corner the priest takes the chalice, 'sinistra tenens illius nodum', pours in the wine, then 'producit signum crucis super ampullam aquae, et dicit: Deus, qui humanae substantiae, et infundens parum aquae in Calicem prosequitur: Da nobis per hujus aquae et vini mysterium' (Ritus servandus VII.4). The prayer stands on the epistle-side altar card (Fortescue, l. 2986–2988). The offering of the chalice that follows, Offerimus tibi, has no card of its own.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: the prayer Deus, qui humanae substantiae, its petition (first letter capitalised, cut at a comma made a full stop, lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

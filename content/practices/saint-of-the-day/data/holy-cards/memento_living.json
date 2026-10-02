@@ -1,0 +1,38 @@
+{
+  "id": "memento_living",
+  "kind": "mass",
+  "order": 28,
+  "name": {
+    "en-US": "Memento of the Living",
+    "pt-BR": "Memento dos Vivos"
+  },
+  "patronOf": {
+    "en-US": "The priest prays for the living, and for all here present",
+    "pt-BR": "O sacerdote reza pelos vivos e por todos os presentes"
+  },
+  "prayerExcerpt": {
+    "en-US": "Be mindful, O Lord, of Thy servants and handmaidens, and of all here present, whose faith and devotion are known unto Thee.",
+    "pt-BR": "Lembrai-Vos, Senhor, dos vossos servos e de todos os que aqui estão presentes, cuja fé Vos é conhecida e a piedade é notória."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "At Memento, Domine the priest, 'elevans et jungens manus usque ad faciem vel pectus, sic junctis manibus stat paulisper in quiete, demisso aliquantulum capite, faciens commemorationem vivorum Christi fidelium', then goes on 'et omnium circumstantium' (Ritus servandus VIII.3–4). The people in the foreground are the 'all here present' of the prayer.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon, Commemoration of the Living: its opening (the 'N. and N.' and the rubric between the lines dropped, cut at a comma or colon made a full stop, lines joined; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

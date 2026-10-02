@@ -1,0 +1,38 @@
+{
+  "id": "incensing_altar",
+  "kind": "mass",
+  "order": 4,
+  "name": {
+    "en-US": "Incensing of the Altar",
+    "pt-BR": "Incensação do Altar"
+  },
+  "patronOf": {
+    "en-US": "At Solemn Mass the altar is honoured with incense",
+    "pt-BR": "Na Missa solene, o altar é honrado com incenso"
+  },
+  "prayerExcerpt": {
+    "en-US": "Be blessed by Him in whose honor thou art burnt. Amen.",
+    "pt-BR": "Sê abençoado por Aquele por cuja honra és queimado. Amém."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "At Solemn Mass, after Oramus te and the kiss of the altar, the celebrant puts incense in the thurible saying Ab illo benedicaris, incenses the cross three times and then the altar; the deacon and subdeacon 'hinc inde assistunt Celebranti cum incensat' (Ritus servandus IV.4, 7). The subdeacon 'holds the edge of the chasuble over the celebrant's shoulder' (Fortescue, l. 8072–8075). The altar is incensed again at the Offertory with other prayers (VII.10); this card is the first incensing.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Incense: the blessing of the incense (the + dropped; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

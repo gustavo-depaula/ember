@@ -1,7 +1,7 @@
 {
   "id": "homily",
   "kind": "mass",
-  "order": 12,
+  "order": 16,
   "name": {
     "en-US": "Homily",
     "pt-BR": "Homilia"

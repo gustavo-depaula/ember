@@ -1,7 +1,7 @@
 {
   "id": "first_reading",
   "kind": "mass",
-  "order": 7,
+  "order": 10,
   "name": {
     "en-US": "First Reading",
     "pt-BR": "Primeira Leitura"

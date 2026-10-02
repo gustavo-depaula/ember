@@ -1,0 +1,38 @@
+{
+  "id": "orate_fratres",
+  "kind": "mass",
+  "order": 23,
+  "name": {
+    "en-US": "Orate, Fratres",
+    "pt-BR": "Orate, Fratres"
+  },
+  "patronOf": {
+    "en-US": "The priest asks the people to pray with him",
+    "pt-BR": "O sacerdote pede ao povo que reze com ele"
+  },
+  "prayerExcerpt": {
+    "en-US": "Brethren, pray that my Sacrifice and yours may be acceptable to God the Father almighty.",
+    "pt-BR": "Orai, meus irmãos, a fim de que o meu sacrifício, que é também vosso, seja recebido por Deus Pai omnipotente."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "Having kissed the altar the priest turns to the people 'demissis oculis ad terram' and, 'versus eum extendens et jungens manus, dicit voce aliquantulum elata: Orate, fratres', finishing the prayer in silence as he completes the circle; the server or those around answer Suscipiat (Ritus servandus VII.7).",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: Orate, fratres (whole; pt-BR keeps the source's European spelling 'omnipotente')",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

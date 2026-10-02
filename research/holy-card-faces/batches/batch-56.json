@@ -1,0 +1,397 @@
+{
+  "batch": 56,
+  "date": "2026-10-02",
+  "dossier": "dossiers/batch-56.md",
+  "cards": [
+    {
+      "id": "prayers_foot_altar",
+      "letter": "P",
+      "kind": "mass",
+      "order": 2,
+      "name": {
+        "en-US": "Prayers at the Foot of the Altar",
+        "pt-BR": "Orações ao Pé do Altar"
+      },
+      "patronOf": {
+        "en-US": "Psalm 42, before the priest goes up to the altar",
+        "pt-BR": "O Salmo 42, antes de o sacerdote subir ao altar"
+      },
+      "prayerExcerpt": {
+        "en-US": "I will go in to the altar of God. To God who giveth joy to my youth.",
+        "pt-BR": "Eu irei até ao altar de Deus. Até Deus, que é a alegria da minha juventude."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Incipit: the antiphon of Psalm 42, the priest's line and the server's reply (the P./S. marks dropped, joined; verbatim in both languages)",
+      "subject": "The prayers at the foot of the altar at the beginning of a Low Mass, the psalm Judica me, seen close from the side of the sanctuary, at the level of the altar steps. In the foreground, in profile, the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands upright on the floor before the lowest altar step, facing the altar, his hands joined before his breast, his head lifted toward the crucifix; behind him and a little to his left a server in black cassock and white surplice kneels on the floor with joined hands, answering him. Above them three steps rise to a high altar with gradines: two of the six candles lit on the gradine, a central crucifix, three altar cards, and the tabernacle veiled in white silk; a white frontal; at the middle of the altar the chalice stands under its white veil with the burse on top, and the Missal rests on its stand at the epistle corner. Beyond the altar rail, soft and small, the faithful kneel in the pews, the women's heads covered. Early morning light. Quiet eagerness, a going up. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the Sign of the Cross the priest, 'jungens iterum manus ante pectus', says the antiphon Introibo ad altare Dei and Psalm 42 with the server, who kneels 'retro post eum ad sinistram' (Ritus servandus III.6). He stands upright here; the profound bow comes at the Confiteor (III.7), which the Penitential Act card shows. The faithful kneel during these prayers (Fortescue, l. 6647–6648).",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Prayers at the Foot of the Altar"
+    },
+    {
+      "id": "incensing_altar",
+      "letter": "I",
+      "kind": "mass",
+      "order": 4,
+      "name": {
+        "en-US": "Incensing of the Altar",
+        "pt-BR": "Incensação do Altar"
+      },
+      "patronOf": {
+        "en-US": "At Solemn Mass the altar is honoured with incense",
+        "pt-BR": "Na Missa solene, o altar é honrado com incenso"
+      },
+      "prayerExcerpt": {
+        "en-US": "Be blessed by Him in whose honor thou art burnt. Amen.",
+        "pt-BR": "Sê abençoado por Aquele por cuja honra és queimado. Amém."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Incense: the blessing of the incense (the + dropped; verbatim otherwise)",
+      "subject": "The incensing of the altar at the beginning of a Solemn High Mass, seen from the nave at an angle, looking up into the sanctuary. On the foot-pace, the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands before the middle of the high altar facing it, seen from behind and a little from the side, and swings a smoking golden thurible on its chains up toward the altar crucifix. Close beside him stand the deacon in a white dalmatic at his right and the subdeacon in a white tunicle at his left, each over a long white lace-trimmed alb reaching to the feet (no black cassock showing), both facing the altar, the subdeacon holding back the edge of the chasuble at the priest's shoulder. Clouds of incense rise before a high altar with gradines: six tall candles lit on the gradine, a central crucifix, three altar cards, and the tabernacle veiled in white silk; a white frontal. At the foot of the steps a thurifer in cassock and surplice waits holding the small golden incense boat. Beyond the altar rail the congregation in the pews, small, the women's heads covered. Sunlight falls through the smoke. Solemn, fragrant, festive. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "At Solemn Mass, after Oramus te and the kiss of the altar, the celebrant puts incense in the thurible saying Ab illo benedicaris, incenses the cross three times and then the altar; the deacon and subdeacon 'hinc inde assistunt Celebranti cum incensat' (Ritus servandus IV.4, 7). The subdeacon 'holds the edge of the chasuble over the celebrant's shoulder' (Fortescue, l. 8072–8075). The altar is incensed again at the Offertory with other prayers (VII.10); this card is the first incensing.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Incensing of the Altar"
+    },
+    {
+      "id": "introit",
+      "letter": "I",
+      "kind": "mass",
+      "order": 5,
+      "name": {
+        "en-US": "Introit",
+        "pt-BR": "Introito"
+      },
+      "patronOf": {
+        "en-US": "The Mass of the day begins",
+        "pt-BR": "Começa a Missa do dia"
+      },
+      "prayerExcerpt": {
+        "en-US": "To You I lift up my soul: in You, O my God, I trust; let me not be put to shame.",
+        "pt-BR": "A Vós elevo a minha alma. Ó meu Deus, confio em Vós: não permitireis que fique confundido."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Tempora/Adv1-0.txt and Portugues/Tempora/Adv1-0.txt [Introitus], the First Sunday of Advent, the first Introit of the Missal (its opening, cut at a semicolon made a full stop; verbatim otherwise)",
+      "subject": "The Introit at a Low Mass, seen from the nave, from behind and a little to the right, looking up the altar steps. The priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands at the epistle corner of the high altar, facing it, seen from behind, before the large Missal open on its stand, and makes the Sign of the Cross, his right hand at his forehead and his left hand laid below his breast; the book's pages show no letters. It is a high altar with gradines: two of the six candles lit on the gradine, a central crucifix, three altar cards, and the tabernacle veiled in white silk; a white frontal; the chalice stands under its white veil at the middle. On the lowest step at the gospel side a server in black cassock and white surplice kneels and signs himself too. At the very bottom, the heads and shoulders of a few faithful kneeling in the first pew, seen from behind, a woman in a lace veil opening a small hand missal. Clear morning light. A beginning, calm and attentive. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Having kissed the altar the priest goes to the epistle corner, 'ubi stans versus Altare, et producens a fronte ad pectus signum crucis, incipit intelligibili voce Introitum Missae' (Ritus servandus IV.2); when he signs himself the left hand is laid below the breast (III.5). The Introit is a proper: the Ordo has only `&introitus`, so the excerpt is the Missal's first Introit, Ad te levavi.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Tempora/Adv1-0 (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Adv1-0.txt"
+        },
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        }
+      ],
+      "catalogMatch": "Introit"
+    },
+    {
+      "id": "munda_cor",
+      "letter": "M",
+      "kind": "mass",
+      "order": 14,
+      "name": {
+        "en-US": "Munda Cor Meum",
+        "pt-BR": "Munda Cor Meum"
+      },
+      "patronOf": {
+        "en-US": "The priest asks to announce the Gospel worthily",
+        "pt-BR": "O sacerdote pede para anunciar dignamente o Evangelho"
+      },
+      "prayerExcerpt": {
+        "en-US": "Cleanse my heart and my lips, O almighty God, who didst cleanse the lips of the prophet Isaias with a burning coal.",
+        "pt-BR": "Ó omnipotente Deus, assim como purificastes os lábios do Profeta Isaías com uma brasa de fogo, assim também purificais agora o meu coração e os meus lábios."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Evangelium, the Low Mass form: the first sentence of Munda cor meum (en-US cut at a comma made a full stop; pt-BR whole, lines joined, keeping the source's European spelling 'omnipotente')",
+      "subject": "The Munda cor meum before the Gospel at a Low Mass, seen from the nave on the gospel side, looking up at the altar at an angle. At the middle of the high altar the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands facing it, bowed profoundly from the waist, his hands joined before his breast, praying in silence. Meanwhile a server in black cassock and white surplice carries the large open Missal on its wooden stand across from the epistle side to the gospel side, seen in profile on the floor below the altar steps as he passes the middle; the book's pages show no letters. It is a high altar with gradines: two of the six candles lit on the gradine, a central crucifix, three altar cards, and the tabernacle veiled in white silk; a white frontal; the chalice under its white veil at the middle. In the foreground, beyond the altar rail, the faithful rise to their feet for the Gospel, half-length and seen from behind, the women's heads covered, a father lifting a small boy to stand on the kneeler. Expectant, hushed. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "At Low Mass the priest or the server carries the Missal to the gospel corner; the priest, at the middle, 'junctis manibus ante pectus, levatisque ad Deum oculis, et statim demissis, tum profunde inclinatus, dicit secreto: Munda cor meum' (Ritus servandus VI.1–2). The deacon's Munda cor at Solemn Mass is already in the Gospel Acclamation card; this is the Low Mass form, with the book carried across.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Munda Cor Meum"
+    },
+    {
+      "id": "water_and_wine",
+      "letter": "M",
+      "kind": "mass",
+      "order": 20,
+      "name": {
+        "en-US": "Mingling of the Water and Wine",
+        "pt-BR": "Mistura da Água e do Vinho"
+      },
+      "patronOf": {
+        "en-US": "A little water is blessed and poured into the wine",
+        "pt-BR": "Um pouco de água é abençoado e posto no vinho"
+      },
+      "prayerExcerpt": {
+        "en-US": "Grant that, by the Mystery of this water and wine, we may be made partakers of His divine nature, who vouchsafed to be made partaker of our human nature.",
+        "pt-BR": "Permiti que pela mistura simbólica desta água e deste vinho sejamos participantes da divindade daquele que quis assumir a nossa humanidade."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: the prayer Deus, qui humanae substantiae, its petition (first letter capitalised, cut at a comma made a full stop, lines joined; verbatim otherwise)",
+      "subject": "The blessing of the water at the Offertory of a Low Mass, seen close from the epistle end of the altar, looking along it. At the epistle corner the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands turned toward the server, in profile, holding the golden chalice by its knob in his left hand, its foot resting on the altar, and with his right hand traces the Sign of the Cross over a small glass cruet of water that a server in black cassock and white surplice holds up to him from the step below; in his other hand the server holds the cruet of red wine. On the white altar cloth behind them, at the middle, the unfolded corporal with the large white host lying on it, the white pall beside it. The epistle-side altar card, its print too small to read, the lit candles and the crucifix on the gradine and the white-veiled tabernacle behind. Warm candlelight on glass and gold. Quiet, exact, tender. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "At the epistle corner the priest takes the chalice, 'sinistra tenens illius nodum', pours in the wine, then 'producit signum crucis super ampullam aquae, et dicit: Deus, qui humanae substantiae, et infundens parum aquae in Calicem prosequitur: Da nobis per hujus aquae et vini mysterium' (Ritus servandus VII.4). The prayer stands on the epistle-side altar card (Fortescue, l. 2986–2988). The offering of the chalice that follows, Offerimus tibi, has no card of its own.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Mingling of the Water and Wine"
+    },
+    {
+      "id": "veni_sanctificator",
+      "letter": "V",
+      "kind": "mass",
+      "order": 21,
+      "name": {
+        "en-US": "Veni, Sanctificator",
+        "pt-BR": "Veni, Sanctificator"
+      },
+      "patronOf": {
+        "en-US": "The Sanctifier is called down upon the offerings",
+        "pt-BR": "O Santificador é invocado sobre as oferendas"
+      },
+      "prayerExcerpt": {
+        "en-US": "Come, O almighty and eternal God, the Sanctifier, and bless this Sacrifice, prepared for the glory of Thy holy Name.",
+        "pt-BR": "Vinde, ó Santificador omnipotente, Deus eterno, e abençoai este sacrifício, preparado para a glória do vosso Santo Nome."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: Veni, sanctificator (whole, the + dropped; pt-BR keeps the source's European spelling 'omnipotente')",
+      "subject": "The Veni, Sanctificator at the Offertory of a Sunday Mass, seen from low on the sanctuary floor at the gospel side, looking up at the altar from behind the priest's left shoulder. The priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands erect at the middle of the high altar facing it, his face lifted to the crucifix, both arms opened wide and stretched upward in a great arc, about to join them before his breast. On the white corporal before him lie the large white host and, behind it, the golden chalice covered with its stiff white pall. The tall lit candles and the crucifix on the gradine, the centre altar card leaning against the white-veiled tabernacle, the Missal on its stand at his left, its pages showing no letters. At the epistle side a server in cassock and surplice kneels on the lowest step. Morning light pours down from a high window onto the altar. Imploring, upward, bright. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After In spiritu humilitatis the priest stands erect, 'elevans oculos, manusque expandens easque in altum porrectas, statim jungens ante pectus (quod semper facit quando aliquid est benedicturus) dicit: Veni, sanctificator', and at 'et benedic' signs the host and chalice together (Ritus servandus VII.5); the chalice is already covered with the pall.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Veni, Sanctificator"
+    },
+    {
+      "id": "washing_of_hands",
+      "letter": "W",
+      "kind": "mass",
+      "order": 22,
+      "name": {
+        "en-US": "Washing of the Hands",
+        "pt-BR": "Lavagem das Mãos"
+      },
+      "patronOf": {
+        "en-US": "The Lavabo: the priest washes his fingers",
+        "pt-BR": "O Lavabo: o sacerdote lava os dedos"
+      },
+      "prayerExcerpt": {
+        "en-US": "I will wash my hands among the innocent: and I will compass Thine altar, O Lord.",
+        "pt-BR": "Lavarei as minhas mãos, como os inocentes, e rodearei, Senhor o vosso altar."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: Psalm 25:6, the first verse of the Lavabo (cut at a comma or colon made a full stop; verbatim otherwise, the pt-BR without a comma after 'Senhor' as in the source)",
+      "subject": "The Lavabo at a Low Mass, seen from the nave on the epistle side, from the foot of the altar steps, looking up. At the epistle corner of the high altar the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands turned outward toward the server, seen in three-quarter view from behind, holding the tips of his thumbs and forefingers together over a small silver basin. A server in black cassock and white surplice, seen from behind on the step below him, pours water over the priest's fingertips from a glass cruet, holding the basin beneath with his other hand, a folded white linen towel hanging over his forearm. Beyond them the epistle-side altar card, the lit candles and the crucifix on the gradine, the white-veiled tabernacle, and at the middle of the altar the corporal with the host and the chalice under its pall. Cool morning light on water and linen. Pure, recollected. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "The priest goes to the epistle corner, 'ubi stans, ministro aquam fundente, lavat manus, idest, extremitates digitorum pollicis et indicis, dicens Psalmum: Lavabo inter innocentes' (Ritus servandus VII.6). The psalm stands on the epistle-side altar card (Fortescue, l. 2986–2988). The object card `lavabo` shows the cruet, basin and towel alone; this is the rite.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Washing of the Hands"
+    },
+    {
+      "id": "orate_fratres",
+      "letter": "O",
+      "kind": "mass",
+      "order": 23,
+      "name": {
+        "en-US": "Orate, Fratres",
+        "pt-BR": "Orate, Fratres"
+      },
+      "patronOf": {
+        "en-US": "The priest asks the people to pray with him",
+        "pt-BR": "O sacerdote pede ao povo que reze com ele"
+      },
+      "prayerExcerpt": {
+        "en-US": "Brethren, pray that my Sacrifice and yours may be acceptable to God the Father almighty.",
+        "pt-BR": "Orai, meus irmãos, a fim de que o meu sacrifício, que é também vosso, seja recebido por Deus Pai omnipotente."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Offertory: Orate, fratres (whole; pt-BR keeps the source's European spelling 'omnipotente')",
+      "subject": "The Orate, fratres at a Sunday Mass, seen from the choir at the epistle side of the sanctuary, level with the foot-pace, looking across it. The priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, has turned his back to the altar and faces the people, seen in profile, his eyes lowered, his hands stretched out toward them and about to be joined. Behind him, at the middle of the high altar, the white corporal with the host and the chalice under its pall, the lit candles and crucifix on the gradine and the white-veiled tabernacle. On the lowest step a server in cassock and surplice kneels, bowed, answering for the people. Beyond the altar rail, seen from the side, the congregation in the pews, small, faces lifted toward him, the women's heads covered. Daylight from the nave windows. A humble, brotherly request. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "Having kissed the altar the priest turns to the people 'demissis oculis ad terram' and, 'versus eum extendens et jungens manus, dicit voce aliquantulum elata: Orate, fratres', finishing the prayer in silence as he completes the circle; the server or those around answer Suscipiat (Ritus servandus VII.7).",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Orate, Fratres"
+    },
+    {
+      "id": "te_igitur",
+      "letter": "T",
+      "kind": "mass",
+      "order": 27,
+      "name": {
+        "en-US": "Te Igitur",
+        "pt-BR": "Te Igitur"
+      },
+      "patronOf": {
+        "en-US": "The Canon of the Mass begins",
+        "pt-BR": "Começa o Cânon da Missa"
+      },
+      "prayerExcerpt": {
+        "en-US": "We therefore humbly pray and beseech Thee, most merciful Father, through Jesus Christ, Thy Son, our Lord, that Thou wouldst vouchsafe to accept and bless these gifts, these presents, these holy unspotted Sacrifices.",
+        "pt-BR": "A Vós, pois, rogamos e pedimos, ó clementíssimo Pai, por Jesus Cristo, vosso Filho e Nosso Senhor, que estes dons, estas ofertas, estes sacrifícios santos e imaculados Vos sejam agradáveis e os abençoeis."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the opening of Te igitur (the rubrics in brackets and the + dropped, cut at a comma made a full stop; in the en-US the source's comma after 'therefore' dropped and its semicolon after 'Jesus Christ' made a comma; verbatim otherwise)",
+      "subject": "The Te igitur, the beginning of the Canon, at a Sunday Mass, seen from the sanctuary floor at the gospel side, looking up at an angle. The priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands at the middle of the high altar facing it, bowed profoundly, his joined hands resting on the edge of the altar, seen from behind and from his left side. On the altar before him the white corporal with the large white host and the golden chalice under its pall; at his left the Missal open on its stand and turned toward him, its pages showing no letters; the centre altar card against the white-veiled tabernacle; the tall candles lit on the gradine beside the crucifix. On the lowest step a server in cassock and surplice kneels upright with joined hands, a small bell on the step beside him. Beyond the altar rail the whole congregation kneels in silence with bowed heads, the women veiled. Dim golden light. A deep silence falling. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the Sanctus the priest raises his hands and eyes, then, 'manibus junctis et super Altare positis, profunde inclinatus incipit Canonem, secreto dicens: Te igitur'; he kisses the altar at 'uti accepta habeas' and signs the offerings three times (Ritus servandus VIII.1). The people kneel from the Sanctus (Fortescue, l. 6688–6689).",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Te Igitur"
+    },
+    {
+      "id": "memento_living",
+      "letter": "M",
+      "kind": "mass",
+      "order": 28,
+      "name": {
+        "en-US": "Memento of the Living",
+        "pt-BR": "Memento dos Vivos"
+      },
+      "patronOf": {
+        "en-US": "The priest prays for the living, and for all here present",
+        "pt-BR": "O sacerdote reza pelos vivos e por todos os presentes"
+      },
+      "prayerExcerpt": {
+        "en-US": "Be mindful, O Lord, of Thy servants and handmaidens, and of all here present, whose faith and devotion are known unto Thee.",
+        "pt-BR": "Lembrai-Vos, Senhor, dos vossos servos e de todos os que aqui estão presentes, cuja fé Vos é conhecida e a piedade é notória."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon, Commemoration of the Living: its opening (the 'N. and N.' and the rubric between the lines dropped, cut at a comma or colon made a full stop, lines joined; verbatim otherwise)",
+      "subject": "The Memento of the living in the Canon of a Sunday Mass, seen from among the people. In the foreground, half-length, turned toward the altar and seen from behind and in profile, the faithful for whom he prays kneel in the wooden pews: a young couple with a baby asleep on the mother's shoulder, an old workman with his cap in his hands, a grandmother in a black lace veil with a rosary, two children. Beyond them and the altar rail, up the steps, the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, stands still at the middle of the high altar facing it, seen from behind, standing quite still with his elbows at his sides and his hands joined before his breast, hidden from us by his body (NOT raised above his head), his head a little bowed, praying in silence; a server kneels on the step. It is a high altar with gradines: six tall candles lit on the gradine, a central crucifix, three altar cards, and the tabernacle veiled in white silk; a white frontal. Soft daylight rests on the people. Intimate, each one remembered. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "At Memento, Domine the priest, 'elevans et jungens manus usque ad faciem vel pectus, sic junctis manibus stat paulisper in quiete, demisso aliquantulum capite, faciens commemorationem vivorum Christi fidelium', then goes on 'et omnium circumstantium' (Ritus servandus VIII.3–4). The people in the foreground are the 'all here present' of the prayer.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Memento of the Living"
+    }
+  ]
+}

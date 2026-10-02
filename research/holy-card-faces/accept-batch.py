@@ -23,6 +23,8 @@ for c in batch["cards"]:
     card = {
         "id": cid,
         **({"feast": c["feast"]} if "feast" in c else {}),
+        # A card without a feast names its gallery section and its place in it; the corpus build requires both.
+        **({"kind": c["kind"], "order": c["order"]} if "kind" in c else {}),
         "name": c["name"],
         "patronOf": c["patronOf"],
         "prayerExcerpt": c["prayerExcerpt"],

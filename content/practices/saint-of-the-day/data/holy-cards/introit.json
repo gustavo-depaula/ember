@@ -1,0 +1,38 @@
+{
+  "id": "introit",
+  "kind": "mass",
+  "order": 5,
+  "name": {
+    "en-US": "Introit",
+    "pt-BR": "Introito"
+  },
+  "patronOf": {
+    "en-US": "The Mass of the day begins",
+    "pt-BR": "Começa a Missa do dia"
+  },
+  "prayerExcerpt": {
+    "en-US": "To You I lift up my soul: in You, O my God, I trust; let me not be put to shame.",
+    "pt-BR": "A Vós elevo a minha alma. Ó meu Deus, confio em Vós: não permitireis que fique confundido."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "Having kissed the altar the priest goes to the epistle corner, 'ubi stans versus Altare, et producens a fronte ad pectus signum crucis, incipit intelligibili voce Introitum Missae' (Ritus servandus IV.2); when he signs himself the left hand is laid below the breast (III.5). The Introit is a proper: the Ordo has only `&introitus`, so the excerpt is the Missal's first Introit, Ad te levavi.",
+    "excerpt": "content/do/web/www/missa/English/Tempora/Adv1-0.txt and Portugues/Tempora/Adv1-0.txt [Introitus], the First Sunday of Advent, the first Introit of the Missal (its opening, cut at a semicolon made a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Tempora/Adv1-0 (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Tempora/Adv1-0.txt"
+      },
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-56.md."
+      }
+    ]
+  }
+}

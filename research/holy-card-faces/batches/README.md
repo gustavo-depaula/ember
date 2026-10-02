@@ -27,6 +27,7 @@ Every card of `docs/plans/holy-cards-catalog.md`, made 10 at a time; each batch 
 | 19–42 | Pictorial Lives, in the book's date order: each batch takes the next 10 unticked lines of "From the Pictorial Lives of the Saints" (and the book's feasts on the same dates) that no `batches/*.json` claims yet through `catalogMatch`. Ids are the saint's name in snake_case, unique against `content/saints/` and every batch (`gregory_langres`, not `gregory`) |
 | 43 | vitus: St. Vitus alone (15 Jun), the line batch 30 skipped. His chapter is linked, but the excerpt is the Common of Martyrs, not the chapter's reflection, which turns on Crescentia |
 | 44–51 | Seasons and Ember Days (19), parts of the Mass (29), objects and vestments (24), in catalog order, 10 at a time |
+| 56–58 | Parts of the traditional Latin Mass the 29 Mass-part cards leave out, beside them (56: the foot of the altar to the Memento of the living; 57: the Memento of the dead to the Leonine Prayers), and the Consecration made four cards (58). The whole Mass section runs in the order of the traditional Mass (`dossiers/batch-56.md`) |
 
 The order behind the table:
 
@@ -41,7 +42,7 @@ The order behind the table:
 
 A **Blessed** (beatified, not canonized) has rays instead of the set's ring halo, which is kept for saints: his card carries `"frame"` too, the default text with the halo swapped for rays (see `fulton_sheen` in `batch-54.json`; the convention's sources are in `dossiers/batch-54.md`).
 
-**Cards without a fixed date** (moveable feasts, seasons, parts of the Mass, objects) carry no `feast`. The app takes them (`feast` is optional in `apps/app/src/features/saints/useHolyCards.ts`; the gallery gathers them under "Without a fixed day"), but `scripts/build-corpus.py` keeps them out of the blob until an app with that change is the oldest one in use, since older apps read `c.feast.month` unguarded.
+**Cards without a fixed date** (moveable feasts, seasons, parts of the Mass, objects) carry no `feast`. Each names its gallery section in `kind` and its place there in `order`; `scripts/build-corpus.py` refuses a card that has neither a `feast` nor both, and ships these cards under their own key, since older apps read `c.feast.month` unguarded on every card of `cards`. A batch file carries `"kind"` and `"order"` on such a card and `accept-batch.py` writes them into the card file (batches 56–58; the cards of earlier batches got theirs by hand).
 
 Run one batch at a time: at most one batch generating and one being researched. Parallel batches hit the session limit and stop the run.
 
