@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 125 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 126 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 494 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 495 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -411,7 +411,7 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 9 Jun · Sts. Primus and Felicianus, Martyrs · *São Primo e São Feliciano, Mártires* · Pictorial Lives
 - [ ] 9 Jun · St. Columba, or Columkille, Abbot · *São Columba, ou Columkille, Abade* · Pictorial Lives
 - [ ] 12 Jun · St. John of St. Fagondez · *São João de São Fagondez* · Pictorial Lives
-- [ ] 15 Jun · St. Vitus, Martyr · *São Vito, Mártir* · Pictorial Lives (the book's chapter is "Sts. Vitus, Crescentia, and Modestus"; the Martyrology keeps Vitus alone)
+- [x] 15 Jun · St. Vitus, Martyr · *São Vito, Mártir* · Pictorial Lives (the book's chapter is "Sts. Vitus, Crescentia, and Modestus"; the Martyrology keeps Vitus alone) — `vitus`
 - [ ] 16 Jun · St. John Francis Regis · *São João Francisco Regis* · Pictorial Lives
 - [ ] 17 Jun · St. Avitus, Abbot · *Santo Ávito, Abade* · Pictorial Lives
 - [ ] 18 Jun · Sts. Marcus and Marcellianus, Martyrs · *São Marco e São Marceliano, Mártires* · Pictorial Lives

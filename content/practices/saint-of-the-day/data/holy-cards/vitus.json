@@ -1,0 +1,58 @@
+{
+  "id": "vitus",
+  "feast": {
+    "month": 6,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Vitus",
+    "pt-BR": "São Vito"
+  },
+  "patronOf": {
+    "en-US": "Martyr, one of the Fourteen Holy Helpers",
+    "pt-BR": "Mártir, um dos Catorze Santos Auxiliares"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Lord granted him a stern struggle, that he might know that wisdom is mightier than all else.",
+    "pt-BR": "Um duro combate o Senhor deu-lhe enfrentar para que aprendesse a vencer, pois a sabedoria é em tudo a mais poderosa."
+  },
+  "lifeChapter": "jun-15-sts-vitus-crescentia-and-modestus",
+  "reflection": false,
+  "meta": {
+    "face": "A boy of about twelve of Roman southern Italy, visibly a child and not a young man, BEARDLESS, with a fair, rosy complexion and a LONG face that is FULLEST BELOW — a rather HIGH, narrow forehead, long, smooth cheeks widening to a BROAD, softly rounded jaw and a FULL, rounded chin; a LONG, straight nose with a rounded tip; LARGE, wide-open, clear BLUE eyes under faint, fair, high-arched brows; a very SMALL, closed, full-lipped mouth; bright GOLDEN-BLOND hair in thick, tight RINGLETS that stand out round the head and fall to the nape, the curly blond youth of his pictures; the gaze lifted heavenward, calm and unafraid. Not the round, dark-curled pancras, the square, dark cyril_caesarea, the heart-shaped, straight-haired agapetus, the wide, flat venantius_camerino or the narrow, freckled, straw-haired benezet; and not the round-faced, brown-eyed Christ Child of finding_temple with his soft golden-brown curls: Vitus's face is long and full-jawed, his eyes blue, his curls tight and bright blond.",
+    "basis": "No likeness survives; the face follows his pictures. Stracke (christianiconography.info): \"customarily pictured as a youth with curly blond hair\". Master Theodoric's fourteenth-century panel (Karlštejn, Chapel of the Holy Cross) gives him a long, full-jawed face, a long nose, a small mouth and thick golden curls, and the Master of Meßkirch's panel of 1535–40 (Karlsruhe) a curly blond youth with a palm, carrying a three-legged cauldron; the Golden Legend makes him twelve. The palm, the cauldron and the cock are his attributes (Wikipedia from the Catholic Encyclopedia; Ökumenisches Heiligenlexikon; Cahier's plate of 1867). The Roman Martyrology of 2004 names him alone, \"In Lucania, sancti Viti, martyris\".",
+    "excerpt": "content/of/formularies/common/martyrs/mart6.json entranceAntiphon (Common of Martyrs, outside Easter Time, for one martyr 1; Wis 10:12; verbatim in both languages, the two pt-BR lines joined). His only formulary in the repo, sanctorale.06-15.german-speaking, has a German collect only. Not from the chapter's Reflection, which is about the nurse Crescentia, whom the Martyrology no longer names",
+    "sources": [
+      {
+        "title": "Richard Stracke, St. Vitus: The Iconography (christianiconography.info)",
+        "url": "https://www.christianiconography.info/vitus.html"
+      },
+      {
+        "title": "Wikimedia Commons, Master Theodoric, St. Vitus (panel, Chapel of the Holy Cross at Karlštejn, 14th century)",
+        "url": "https://commons.wikimedia.org/wiki/File:Meister_Theoderich_von_Prag_003.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Master of Meßkirch, Der Heilige Veit (1535–40, Staatliche Kunsthalle Karlsruhe): palm and cauldron",
+        "url": "https://commons.wikimedia.org/wiki/File:Meister_von_Messkirch_-_Der_Heilige_Veit_-_100_-_Staatliche_Kunsthalle_Karlsruhe.jpg"
+      },
+      {
+        "title": "Wikimedia Commons, Cahier, Caractéristiques des saints dans l'art populaire (1867): Vitus with palm and cock",
+        "url": "https://commons.wikimedia.org/wiki/File:Caract%C3%A2eristiques_des_saints_dans_l%27art_populaire_(1867)_(14559363807).jpg"
+      },
+      {
+        "title": "Ökumenisches Heiligenlexikon, Vitus (Veit): attributes and patronages",
+        "url": "https://www.heiligenlexikon.de/BiographienV/Vitus_Veit.htm"
+      },
+      {
+        "title": "Wikipedia, Vitus (from the Catholic Encyclopedia and Delehaye; the Martyrology keeps Vitus alone)",
+        "url": "https://en.wikipedia.org/wiki/Vitus"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-01",
+        "note": "New card, generated with new-card.sh from dossiers/batch-43.md."
+      }
+    ]
+  }
+}
