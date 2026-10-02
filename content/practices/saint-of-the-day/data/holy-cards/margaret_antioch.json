@@ -1,0 +1,41 @@
+{
+  "id": "margaret_antioch",
+  "feast": {
+    "month": 7,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Margaret of Antioch",
+    "pt-BR": "Santa Margarida de Antioquia"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr",
+    "pt-BR": "Virgem e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "According to the ancient Martyrologies, St. Margaret suffered at Antioch in Pisidia, in the last general persecution.",
+    "pt-BR": "Segundo os antigos Martirológios, Santa Margarida sofreu em Antioquia da Pisídia, na última perseguição geral."
+  },
+  "lifeChapter": "jul-20-margaret",
+  "meta": {
+    "face": "A Greek girl of Asia Minor of about sixteen, with a warm, light olive complexion and a SHORT, SQUARE face — a broad, STRAIGHT jaw ending in a small SQUARE chin, WIDE, FLAT cheekbones, a SHORT, straight nose with a broad bridge, very LARGE, WIDE-SET dark eyes under STRONG, straight, nearly level dark brows, a WIDE mouth with a full lower lip; black hair in two thick braids; the gaze direct and steady.",
+    "basis": "No likeness survives, and the book gives almost nothing: a martyr of Antioch in Pisidia, taught by a Christian nurse, persecuted by her pagan father. The Western image of her rising from a dragon is the part even the Golden Legend called fable, so the card shows the shepherdess of her Life with a cross and palm. The square face keeps her apart from the oval virgin martyrs.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-20-margaret.md, first sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Margaret the Virgin (lead: Cretan icon)",
+        "url": "https://en.wikipedia.org/wiki/Margaret_the_Virgin"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-20-margaret (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-20-margaret.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

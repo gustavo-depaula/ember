@@ -1,0 +1,45 @@
+{
+  "id": "victor_marseilles",
+  "feast": {
+    "month": 7,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Victor",
+    "pt-BR": "São Vítor"
+  },
+  "patronOf": {
+    "en-US": "Soldier and martyr",
+    "pt-BR": "Soldado e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Victor, a Christian officer in the troops, went about in the night-time from house to house, visiting the faithful and inspiring them with contempt of a temporal death and the love of eternal life.",
+    "pt-BR": "Vítor, um oficial cristão das tropas, ia de noite de casa em casa, visitando os fiéis e inspirando-lhes o desprezo de uma morte temporal e o amor da vida eterna."
+  },
+  "lifeChapter": "jul-21-victor",
+  "meta": {
+    "face": "A Gallo-Roman of Massilia of about thirty-five, weathered by service, with a fair, sun-reddened complexion and a strong, ANGULAR face — a broad, straight forehead, SHARPLY CUT cheekbones, the sides running straight down to a BROAD, FLAT-BOTTOMED chin with a vertical CLEFT; a SHORT nose with a slight BREAK at the bridge; deep-set, bright blue-grey eyes under thick, LOW, straight sandy brows; a wide, thin-lipped mouth; thick, straight sandy-brown hair cut short, a short, close sandy beard; the gaze frank and steady.",
+    "basis": "No likeness survives. The book tells the officer at Marseilles under Maximian, the converted guards, the kicked altar and the millstone; the Dutch and Belgian images on Wikipedia show a bearded soldier with a millstone, his traditional attribute. The fair, broken-nosed soldier's face is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-21-victor.md, first paragraph, the third sentence after its opening phrase \"In this general consternation,\"; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Victor of Marseilles",
+        "url": "https://en.wikipedia.org/wiki/Victor_of_Marseilles"
+      },
+      {
+        "title": "Wikipedia (fr), Victor de Marseille (lead: statue with millstone)",
+        "url": "https://fr.wikipedia.org/wiki/Victor_de_Marseille"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-21-victor (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-21-victor.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "john_gualbert",
+  "feast": {
+    "month": 7,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. John Gualbert",
+    "pt-BR": "São João Gualberto"
+  },
+  "patronOf": {
+    "en-US": "Founder of Vallombrosa",
+    "pt-BR": "Fundador de Vallombrosa"
+  },
+  "prayerExcerpt": {
+    "en-US": "The heroic act which merited for St. John Gualbert his conversion was the forgiveness of his enemy.",
+    "pt-BR": "O ato heroico que mereceu para São João Gualberto sua conversão foi o perdão de seu inimigo."
+  },
+  "lifeChapter": "jul-12-john-gualbert",
+  "meta": {
+    "face": "A Florentine of about seventy, lean from austerity, with a fair, lightly weathered complexion and a face BROADEST ACROSS HIGH, JUTTING CHEEKBONES, the cheeks falling FLAT beneath them to a NARROW, SQUARE-TIPPED chin; a medium straight nose with a slightly BULBOUS tip, WIDE-SET, pale grey eyes under sparse, ARCHED grey brows, a small, firm mouth under a pronounced upper-lip groove; a short, close, silver-grey beard following the jaw, grey hair in a monastic crown; the gaze lowered to the crucifix, gentle.",
+    "basis": "No portrait from life survives. Neri di Bicci (Santa Trinita) and Luca di Tommè paint him old, in a grey-brown habit, with a short grey beard and a monastic crown; Wikipedia gives c. 985 – 1073 and the bowing crucifix of San Miniato. The card follows the old painters, with the cheekbones and chin as our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-12-john-gualbert.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John Gualbert (lead: Neri di Bicci, Santa Trinita)",
+        "url": "https://en.wikipedia.org/wiki/John_Gualbert"
+      },
+      {
+        "title": "Wikipedia (it), Giovanni Gualberto (lead: Luca di Tommè)",
+        "url": "https://it.wikipedia.org/wiki/Giovanni_Gualberto"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-12-john-gualbert (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-12-john-gualbert.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

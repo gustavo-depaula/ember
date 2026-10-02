@@ -1,0 +1,45 @@
+{
+  "id": "christina_bolsena",
+  "feast": {
+    "month": 7,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Christina",
+    "pt-BR": "Santa Cristina"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr of Bolsena",
+    "pt-BR": "Virgem e mártir de Bolsena"
+  },
+  "prayerExcerpt": {
+    "en-US": "Christina remained unshaken in her faith.",
+    "pt-BR": "Cristina permaneceu inabalável em sua fé."
+  },
+  "lifeChapter": "jul-24-christina",
+  "meta": {
+    "face": "An Etruscan-Roman girl of about thirteen, visibly a young girl, with a fair, rosy complexion and a face like a small INVERTED TRIANGLE — a HIGH, ROUNDED, PROMINENT forehead over a SHORT lower face and a small, POINTED chin; a tiny, UPTURNED nose; large, ROUND, light-brown eyes set FAR APART under fine, pale, high-arched brows; a small, bow-shaped mouth; wavy fair-auburn hair falling to the shoulders; the gaze lifted, candid and serene.",
+    "basis": "No likeness survives. The book tells the magistrate's daughter who broke her father's golden idols, was thrown into the lake of Bolsena with a stone and died by arrows; Wikipedia records her tomb and cult at Bolsena by the fourth century and the millstone and arrows as her attributes (Lotto's altarpiece, the Ravensburg statue). The face is ours, a young girl kept apart from the oval virgin martyrs.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-24-christina.md, first paragraph, last sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Christina of Bolsena (lead: Ravensburg statue)",
+        "url": "https://en.wikipedia.org/wiki/Christina_of_Bolsena"
+      },
+      {
+        "title": "Wikipedia (it), Cristina di Bolsena (lead: Lorenzo Lotto)",
+        "url": "https://it.wikipedia.org/wiki/Cristina_di_Bolsena"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-24-christina (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-24-christina.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

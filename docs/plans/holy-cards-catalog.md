@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 166 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 176 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 535 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 545 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -428,16 +428,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 6 Jul · St. Goar, Priest · *São Goar, Sacerdote* · Pictorial Lives
 - [ ] 6 Jul · St. Palladius, Bishop, Apostle of the Scots · *São Paládio, Bispo, Apóstolo dos Escotos* · Pictorial Lives
 - [ ] 7 Jul · St. Pantænus, Father of the Church · *São Panteno, Padre da Igreja* · Pictorial Lives
-- [ ] 10 Jul · The Seven Brothers, Martyrs, and St. Felicitas, their Mother · *Os Sete Irmãos, Mártires, e Santa Felicidade, sua Mãe* · Pictorial Lives
-- [ ] 11 Jul · St. James, Bishop · *São Tiago, Bispo* · Pictorial Lives
-- [ ] 12 Jul · St. John Gualbert · *São João Gualberto* · Pictorial Lives
-- [ ] 13 Jul · St. Eugenius, Bishop · *São Eugênio, Bispo* · Pictorial Lives
-- [ ] 16 Jul · St. Simon Stock · *São Simão Stock* · Pictorial Lives
-- [ ] 17 Jul · St. Alexius · *Santo Aleixo* · Pictorial Lives
-- [ ] 20 Jul · St. Margaret, Virgin and Martyr · *Santa Margarida, Virgem e Mártir* · Pictorial Lives
-- [ ] 21 Jul · St. Victor, Martyr · *São Vítor, Mártir* · Pictorial Lives
-- [ ] 24 Jul · St. Christina, Virgin and Martyr · *Santa Cristina, Virgem e Mártir* · Pictorial Lives
-- [ ] 27 Jul · St. Pantaleon, Martyr · *São Pantaleão, Mártir* · Pictorial Lives
+- [x] 10 Jul · The Seven Brothers, Martyrs, and St. Felicitas, their Mother · *Os Sete Irmãos, Mártires, e Santa Felicidade, sua Mãe* · Pictorial Lives — `seven_brothers`
+- [x] 11 Jul · St. James, Bishop · *São Tiago, Bispo* · Pictorial Lives — `james_nisibis`
+- [x] 12 Jul · St. John Gualbert · *São João Gualberto* · Pictorial Lives — `john_gualbert`
+- [x] 13 Jul · St. Eugenius, Bishop · *São Eugênio, Bispo* · Pictorial Lives — `eugenius_carthage`
+- [x] 16 Jul · St. Simon Stock · *São Simão Stock* · Pictorial Lives — `simon_stock`
+- [x] 17 Jul · St. Alexius · *Santo Aleixo* · Pictorial Lives — `alexius`
+- [x] 20 Jul · St. Margaret, Virgin and Martyr · *Santa Margarida, Virgem e Mártir* · Pictorial Lives — `margaret_antioch`
+- [x] 21 Jul · St. Victor, Martyr · *São Vítor, Mártir* · Pictorial Lives — `victor_marseilles`
+- [x] 24 Jul · St. Christina, Virgin and Martyr · *Santa Cristina, Virgem e Mártir* · Pictorial Lives — `christina_bolsena`
+- [x] 27 Jul · St. Pantaleon, Martyr · *São Pantaleão, Mártir* · Pictorial Lives — `pantaleon`
 - [ ] 28 Jul · Sts. Nazarius and Celsus, Martyrs · *São Nazário e São Celso, Mártires* · Pictorial Lives
 - [ ] 30 Jul · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
 - [x] 1 Aug · St. Peter's Chains · *As Cadeias de São Pedro* · Pictorial Lives — `peter_chains`

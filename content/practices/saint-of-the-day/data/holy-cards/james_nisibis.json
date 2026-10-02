@@ -1,0 +1,41 @@
+{
+  "id": "james_nisibis",
+  "feast": {
+    "month": 7,
+    "day": 11
+  },
+  "name": {
+    "en-US": "St. James of Nisibis",
+    "pt-BR": "São Tiago de Nísibis"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Nisibis",
+    "pt-BR": "Bispo de Nísibis"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, Thou art able by the weakest means to humble the pride of Thy enemies.",
+    "pt-BR": "Senhor, és capaz, pelos mais fracos meios, de humilhar a soberba dos Teus inimigos."
+  },
+  "lifeChapter": "jul-11-james",
+  "meta": {
+    "face": "A Syrian of Mesopotamia of about seventy, sun-darkened and weathered from years in the open air, with a SQUARE, BIG-BONED face — a HEAVY, FLAT BROW RIDGE running straight across, a BROAD, FLAT-BRIDGED nose with wide nostrils, SMALL, DEEP-SET, very dark eyes under bushy black-and-grey brows, HIGH, FLAT cheekbones, a WIDE, straight mouth; a very long, dense black beard heavily streaked with grey, falling in one mass to the chest; thick, rough grey-black hair cut short; the gaze lifted, intent.",
+    "basis": "No likeness survives; the Hildesheim reliquary head is an idealised medieval bust. The book and Theodoret tell a hermit of the mountains, lightly clothed, living in the open, then the bishop who prayed from the walls during Shapur II's siege. The heavy, weathered face and long beard are our reading of that Syrian ascetic.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-11-james.md, third paragraph, the first clause of his prayer on the tower (before \"; defeat these multitudes\"), closed with a full stop; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Jacob of Nisibis (lead: Hildesheim reliquary)",
+        "url": "https://en.wikipedia.org/wiki/James_of_Nisibis"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-11-james (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-11-james.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

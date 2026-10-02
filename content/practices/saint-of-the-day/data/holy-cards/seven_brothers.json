@@ -1,0 +1,41 @@
+{
+  "id": "seven_brothers",
+  "feast": {
+    "month": 7,
+    "day": 10
+  },
+  "name": {
+    "en-US": "The Seven Brothers and St. Felicitas",
+    "pt-BR": "Os Sete Irmãos e Santa Felicidade"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Rome",
+    "pt-BR": "Mártires de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let them imitate the earnestness of St. Felicitas in forming to perfect virtue the tender souls which God hath committed to their charge.",
+    "pt-BR": "Imitem eles o empenho de Santa Felicidade em formar para a perfeita virtude as tenras almas que Deus confiou aos seus cuidados."
+  },
+  "lifeChapter": "jul-10-the-seven-brothers",
+  "meta": {
+    "face": "Eight clearly different people of one Roman family, fair-olive skin. FELICITAS (centre), about fifty-five: a LONG face with HIGH, FLAT cheekbones and a STRONG, SQUARE, slightly prominent chin; a long, straight nose whose tip turns a little down, deep-set grey-brown eyes under thick, straight dark brows, a firm, wide mouth with fine lines at its corners; dark hair greying at the temples under the veil; her gaze lifted, fearless. The SONS: (1) JANUARIUS, the eldest, about twenty-four, behind at her right: a LONG, NARROW face, a thin, AQUILINE nose, deep-set dark eyes, a short, close black beard. (2) FELIX, about twenty-two, behind at her left: a BROAD, SQUARE face, a SHORT, BLUNT nose, wide-set brown eyes, clean-shaven, thick straight black hair. (3) PHILIP, about twenty, behind beside Felix: a HEART-SHAPED face, a fine straight nose, large dark eyes, a faint first moustache, wavy brown hair. (4) SILVANUS, about eighteen, front left: a ROUND face, a small SNUB nose, a few freckles, light-brown curls. (5) ALEXANDER, about sixteen, front: an OVAL face with his mother's long, straight nose, straight dark hair with a fringe. (6) VITALIS, about fourteen, front: a small TRIANGULAR face with a pointed chin, prominent ears, cropped black hair. (7) MARTIALIS, the youngest, about twelve, under her arm: a chubby child's face with full round cheeks and tight black curls, looking up at her.",
+    "basis": "No likeness survives. The book tells a noble Roman widow whose seven sons were martyred by different deaths before her eyes; the Depositio Martyrum (fourth century) already keeps the seven on 10 July in four cemeteries, and Felicitas's tomb on the Via Salaria is known. The Nuremberg Chronicle shows her veiled with her sons' heads on a sword. The faces are ours, graded by age.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-10-the-seven-brothers.md Reflection, second sentence, its first clause (before \", and with this Saint\"), closed with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Felicitas of Rome (lead: Nuremberg Chronicle woodcut)",
+        "url": "https://en.wikipedia.org/wiki/Felicitas_of_Rome"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-10-the-seven-brothers (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-10-the-seven-brothers.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

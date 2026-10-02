@@ -1,0 +1,45 @@
+{
+  "id": "eugenius_carthage",
+  "feast": {
+    "month": 7,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Eugenius",
+    "pt-BR": "São Eugênio"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Carthage",
+    "pt-BR": "Bispo de Cartago"
+  },
+  "prayerExcerpt": {
+    "en-US": "Water quencheth a flaming fire, and alms resisteth sin.",
+    "pt-BR": "A água apaga o fogo abrasador, e a esmola resiste ao pecado."
+  },
+  "lifeChapter": "jul-13-eugenius",
+  "meta": {
+    "face": "A Carthaginian of Roman Africa of about sixty-five, with a warm olive-brown complexion and a LONG face with DEEPLY SUNKEN TEMPLES and a TALL, ROUNDED crown; a strongly ARCHED, bony nose, LARGE, gentle dark eyes under HEAVY LIDS, thick, curved black-grey brows, full lips in a WIDE, generous mouth, a short, TIGHTLY CURLED white beard close along the jaw, close-cropped curly white hair; the gaze turned kindly toward the poor man.",
+    "basis": "No likeness survives; the Milanese statue on his Wikipedia page is a generic mitred bishop. The book tells a citizen of Carthage chosen bishop in 481, charitable to excess, twice exiled by the Vandal kings, who died near Albi in 505. The card shows the alms of his Reflection; the face is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-13-eugenius.md Reflection, second sentence of the quotation (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eugenius of Carthage",
+        "url": "https://en.wikipedia.org/wiki/Eugenius_of_Carthage"
+      },
+      {
+        "title": "Wikipedia (fr), Eugène de Carthage",
+        "url": "https://fr.wikipedia.org/wiki/Eug%C3%A8ne_de_Carthage"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-13-eugenius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-13-eugenius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pantaleon",
+  "feast": {
+    "month": 7,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Pantaleon",
+    "pt-BR": "São Pantaleão"
+  },
+  "patronOf": {
+    "en-US": "Physician and martyr",
+    "pt-BR": "Médico e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "With the elect thou shalt be elect, and with the perverse wilt be perverted.",
+    "pt-BR": "Com os eleitos serás eleito, e com os perversos serás pervertido."
+  },
+  "lifeChapter": "jul-27-pantaleon",
+  "meta": {
+    "face": "A Bithynian Greek of about twenty-nine, BEARDLESS, with a warm olive complexion and a LONG, SMOOTH face — a HIGH, NARROW forehead under a low cap of short, TIGHT dark-brown curls, a LONG, THIN, straight nose with slightly flared nostrils, large ALMOND-SHAPED dark eyes set rather CLOSE under finely arched dark brows, smooth, lean cheeks, a SMALL, full, closed mouth, a LONG, narrow, rounded chin; the gaze direct and compassionate.",
+    "basis": "No likeness survives. Byzantine tradition, which Wikipedia describes and the Hosios Loukas mosaic shows, paints him as a beardless young physician with short curls, holding a medicine box and a spoon; the book tells the emperor's physician recalled by Hermolaus and beheaded at Nicomedia in 303. The card follows the tradition.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-27-pantaleon.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Pantaleon (lead: Hosios Loukas mosaic)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Pantaleon"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-27-pantaleon (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-27-pantaleon.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

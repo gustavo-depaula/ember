@@ -1,0 +1,41 @@
+{
+  "id": "alexius",
+  "feast": {
+    "month": 7,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Alexius",
+    "pt-BR": "Santo Aleixo"
+  },
+  "patronOf": {
+    "en-US": "The man of God",
+    "pt-BR": "O homem de Deus"
+  },
+  "prayerExcerpt": {
+    "en-US": "We must always be ready to sacrifice our dearest and best natural affections in obedience to the call of our heavenly Father.",
+    "pt-BR": "Devemos estar sempre prontos a sacrificar nossas mais caras e melhores afeições naturais em obediência ao chamado de nosso Pai celestial."
+  },
+  "lifeChapter": "jul-17-alexius",
+  "meta": {
+    "face": "A Roman patrician worn down by seventeen years of beggary, about fifty-five, with a pale olive complexion and a SMALL, NARROW, TALL face — LONG, FLAT cheeks, a FINE, STRAIGHT nose with a slightly squared tip, LARGE, soft brown eyes whose outer corners SLOPE DOWN, fine, straight brows, a small, soft mouth above a SMALL, RECEDING chin; dark-brown hair roughly cropped short and greying, a sparse, patchy dark beard; the gaze lowered, gentle and hidden.",
+    "basis": "No likeness survives. The book, following the Greek legend, tells the patrician who fled his wedding, begged at Edessa and died unknown under his father's roof; Russian icons paint him long-haired and bearded in a dark cloak. The card keeps the beggar and the palace stair; the face is ours, kept away from the long-haired hermit type.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-17-alexius.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Alexius of Rome (lead: Russian icon)",
+        "url": "https://en.wikipedia.org/wiki/Alexius_of_Rome"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-17-alexius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-17-alexius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}

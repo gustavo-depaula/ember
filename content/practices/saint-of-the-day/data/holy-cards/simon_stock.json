@@ -1,0 +1,41 @@
+{
+  "id": "simon_stock",
+  "feast": {
+    "month": 7,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Simon Stock",
+    "pt-BR": "São Simão Stock"
+  },
+  "patronOf": {
+    "en-US": "Prior General of the Carmelites",
+    "pt-BR": "Prior-geral dos Carmelitas"
+  },
+  "prayerExcerpt": {
+    "en-US": "To enjoy the privileges of the scapular, it is sufficient that it be received lawfully and worn devoutly.",
+    "pt-BR": "Para gozar dos privilégios do escapulário, basta que seja recebido legitimamente e usado com devoção."
+  },
+  "lifeChapter": "jul-16-simon-stock",
+  "meta": {
+    "face": "St. Simon Stock as on `mount_carmel`: an Englishman of about seventy, clean-shaven, with a gaunt TRIANGULAR face — broad temples narrowing to a small pointed chin, hollow cheeks, a long, thin, slightly aquiline nose, deep-set pale blue eyes lifted in wonder under sparse white brows, a thin-lipped mouth slightly open; white hair in a narrow ring around a wide tonsure.",
+    "basis": "No likeness survives. The face is the one the batch-16 card `mount_carmel` already gives him, so that he looks the same on both cards. The book tells the Kentish hermit, prior general from 1245, the scapular vision at Cambridge in 1251 and his death at Bordeaux in 1265.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-16-simon-stock.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Simon Stock (lead: Pietro Novelli, Our Lady of Carmel and Saints)",
+        "url": "https://en.wikipedia.org/wiki/Simon_Stock"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-16-simon-stock (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-16-simon-stock.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-32.md."
+      }
+    ]
+  }
+}
