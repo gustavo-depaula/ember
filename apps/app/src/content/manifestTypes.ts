@@ -180,6 +180,7 @@ export type ChapterManifest = {
   tags?: string[]
   contentHash?: BlobRef
   prose?: { file: string; lang: string; hash: string; size: number }[]
+  images?: { rel: string; hash: string; size: number; mime: string }[]
 }
 
 export type TocNode = {

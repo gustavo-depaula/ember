@@ -36,6 +36,10 @@ const dockWidth = 34
 const dockLeft = 16
 const barRow = 60
 const chipsRow = 36
+// The floating tab bar's height over the safe area, and how much of the page
+// below the hero stays in view at rest.
+const tabBarHeight = 64
+const peek = 96
 const pagePadding = 24
 const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI']
 
@@ -129,11 +133,14 @@ export const SaintPage = memo(function SaintPage({
   })()
   const hasChips = chapters.length > 1
 
-  // The card as large as the screen allows with the name still under it.
+  // The card as large as the screen allows with the name under it and the
+  // page's first lines showing above the tab bar, which floats over the
+  // viewer: a hero that fills the screen reads as all there is.
   const cardTop = insets.top + 58
-  const cardWidth = Math.min(saintCardWidth(width), Math.floor((height - cardTop - 170) / 1.5))
-  const cardHeight = cardWidth * 1.5
   const [nameHeight, setNameHeight] = useState(96)
+  const below = 20 + nameHeight + 24 + peek + insets.bottom + tabBarHeight
+  const cardWidth = Math.min(saintCardWidth(width), Math.floor((height - cardTop - below) / 1.5))
+  const cardHeight = cardWidth * 1.5
   const full = cardTop + cardHeight + 20 + nameHeight + 24
   const slim = insets.top + barRow + (hasChips ? chipsRow : 0)
   const range = full - slim

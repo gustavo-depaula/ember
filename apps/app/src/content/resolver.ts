@@ -445,7 +445,13 @@ export function getAllChapterManifests(): ChapterManifest[] {
 export async function loadChapterContent(chapterId: string): Promise<FlowDefinition | undefined> {
   const { item } = residentItem<ChapterManifest>(chapterId, 'chapter')
   if (!item?.contentHash) return undefined
-  return getJson<FlowDefinition>(item.contentHash.hash)
+  const content = await getJson<FlowDefinition>(item.contentHash.hash)
+  const imageRefs = buildImageRefMap(item.images)
+  if (!content || !imageRefs) return content
+  // A copy: the blob cache hands every reader the same object.
+  const resolved = structuredClone(content)
+  rewriteImagePaths(resolved, imageRefs)
+  return resolved
 }
 
 /**

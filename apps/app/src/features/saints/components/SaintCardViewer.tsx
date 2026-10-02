@@ -53,12 +53,15 @@ export function SaintCardViewer({
     if (!target) return
     const index = entries.findIndex((e) => e.id === target)
     if (index < 0) {
-      setOrderedIds([])
+      // Already the whole calendar (or the catalog still loading): clearing
+      // again would only re-render into this branch forever.
+      if (orderedIds.length > 0) setOrderedIds([])
+      else if (saints.length > 0) setTarget(undefined)
       return
     }
     list.current?.scrollToIndex({ index, animated: false })
     setTarget(undefined)
-  }, [target, entries, setOrderedIds])
+  }, [target, entries, orderedIds, saints, setOrderedIds])
 
   const renderItem = useCallback(
     ({ item }: { item: SaintEntry }) => (

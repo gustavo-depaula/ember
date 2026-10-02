@@ -472,11 +472,23 @@ def build_chapters(b: Builder) -> None:
                 bh, bs = b.write_blob(ff.read_bytes())
                 prose.append({"file": f"sections/{base}", "lang": lang, "hash": bh, "size": bs})
 
+        # content.json names its pictures by `images/<rel>`, as a practice's flow does.
+        images = []
+        img_dir = d / "images"
+        if img_dir.is_dir():
+            for ff in sorted(img_dir.rglob("*")):
+                if ff.is_file() and ff.suffix.lower() in {".webp", ".jpg", ".jpeg", ".png"}:
+                    rel = ff.relative_to(img_dir).as_posix()
+                    ih, isize = b.write_blob(ff.read_bytes())
+                    images.append({"rel": rel, "hash": ih, "size": isize, "mime": _mime_for(ff)})
+
         item_manifest = {**meta, "id": f"chapter/{cid}"}
         if content_entry:
             item_manifest["contentHash"] = content_entry
         if prose:
             item_manifest["prose"] = prose
+        if images:
+            item_manifest["images"] = images
 
         ih, isize = b.write_json_blob(item_manifest)
         catalog_entry = {"kind": "chapter", "hash": ih, "size": isize}
