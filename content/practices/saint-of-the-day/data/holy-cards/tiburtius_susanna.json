@@ -1,0 +1,49 @@
+{
+  "id": "tiburtius_susanna",
+  "feast": {
+    "month": 8,
+    "day": 11
+  },
+  "name": {
+    "en-US": "Sts. Tiburtius and Susanna",
+    "pt-BR": "São Tibúrcio e Santa Susana"
+  },
+  "patronOf": {
+    "en-US": "Subdeacon and virgin, martyrs",
+    "pt-BR": "Subdiácono e virgem, mártires"
+  },
+  "prayerExcerpt": {
+    "en-US": "Sufferings were to the martyrs the most distinguishing mercy, extraordinary graces, and sources of the greatest crowns and glory.",
+    "pt-BR": "Os sofrimentos foram para os mártires a mais distinta misericórdia, graças extraordinárias, e fontes das maiores coroas e glória."
+  },
+  "lifeChapter": "aug-11-sts-tiburtius-and-susanna",
+  "meta": {
+    "face": "Two clearly different young Romans with fair-olive skin. TIBURTIUS (left), about twenty-two, BEARDLESS: a SQUARE face with a WIDE, flat forehead and a BROAD, BLUNT jaw — a short, UPTURNED nose, round, lively grey eyes under curved light-brown brows, a wide mouth with a faint smile, thick, wavy chestnut hair to the ears. SUSANNA (right), about twenty: a LONG, NARROW face — a high forehead, a long, fine, gently AQUILINE nose, HEAVY-LIDDED dark almond eyes under straight dark brows, narrow cheeks, a small, closed mouth, a small POINTED chin; black hair parted in the centre under the veil; her gaze lowered. Not the soft oval of the virgin martyrs (agnes, cecilia).",
+    "basis": "No likeness survives of either. Tiburtius's cult is certain (his tomb ad Duas Lauros on the Via Labicana, praised by Damasus); Susanna is commemorated through the titular church named for her. The book tells both and its engraving shows them side by side; the faces are ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-11-sts-tiburtius-and-susanna.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Susanna of Rome (lead: statue, Santiago de Compostela)",
+        "url": "https://en.wikipedia.org/wiki/Susanna_of_Rome"
+      },
+      {
+        "title": "Santi e Beati, San Tiburzio (Roman Martyrology entry, 11 August)",
+        "url": "https://www.santiebeati.it/dettaglio/65860"
+      },
+      {
+        "title": "Santi e Beati, Santa Susanna di Roma (Roman Martyrology entry, 11 August)",
+        "url": "https://www.santiebeati.it/dettaglio/65850"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-11-sts-tiburtius-and-susanna (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-11-sts-tiburtius-and-susanna.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "eusebius_rome",
+  "feast": {
+    "month": 8,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Eusebius of Rome",
+    "pt-BR": "Santo Eusébio de Roma"
+  },
+  "patronOf": {
+    "en-US": "Priest of Rome",
+    "pt-BR": "Presbítero de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us learn, from the example of the Saints, courage in the service of God.",
+    "pt-BR": "Aprendamos, do exemplo dos Santos, a coragem no serviço de Deus."
+  },
+  "lifeChapter": "aug-14-eusebius",
+  "meta": {
+    "face": "A Roman priest of about fifty, pale from confinement, with a face BROADEST AT THE BROW — a WIDE, SQUARE forehead, CLOSE-SET, intense black eyes under thick, straight black brows, a nose with a HIGH, SHARP bridge, THIN, drawn cheeks, a LONG, NARROW chin, a thin-lipped mouth; very short black hair receding to a point at the brow; CLEAN-SHAVEN with a dark shadow on the jaw; the eyes raised in prayer. Not the heavy-browed, curly-bearded eusebius_vercelli.",
+    "basis": "No likeness survives. The book opens with this Eusebius, the Roman priest who opposed the Arians and was confined to his room by Constantius, and its engraving shows him praying alone in a closed room; the Martyrology keeps him as founder of the titular church on the Esquiline. The face is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-14-eusebius.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eusebius of Rome",
+        "url": "https://en.wikipedia.org/wiki/Eusebius_of_Rome"
+      },
+      {
+        "title": "Santi e Beati, Sant'Eusebio di Roma (Roman Martyrology entry, 14 August)",
+        "url": "https://www.santiebeati.it/dettaglio/91373"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-14-eusebius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-14-eusebius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

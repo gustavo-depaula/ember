@@ -1,0 +1,45 @@
+{
+  "id": "nazarius_celsus",
+  "feast": {
+    "month": 7,
+    "day": 28
+  },
+  "name": {
+    "en-US": "Sts. Nazarius and Celsus",
+    "pt-BR": "São Nazário e São Celso"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Milan",
+    "pt-BR": "Mártires de Milão"
+  },
+  "prayerExcerpt": {
+    "en-US": "The martyrs died as the outcasts of the world, but are crowned by God with immortal honor.",
+    "pt-BR": "Os mártires morreram como párias do mundo, mas são coroados por Deus com honra imortal."
+  },
+  "lifeChapter": "jul-28-sts-nazarius-and-celsus",
+  "meta": {
+    "face": "Two clearly different figures, both olive-skinned. NAZARIUS (left), a Roman of about forty-five, CLEAN-SHAVEN in the Roman manner with a dark shadow on the jaw: a TALL, RECTANGULAR face with a LONG MIDFACE — a high, straight forehead, a LONG nose with a pronounced BUMP high on the bridge, HOODED grey eyes set LOW under straight, heavy dark brows, a LONG UPPER LIP over a wide, thin-lipped mouth, a squared chin; close-cropped black hair greying at the temples; a calm, resolute gaze forward. CELSUS (right), a boy of about fourteen: a SHORT, WIDE face — a broad, low forehead under a thick, STRAIGHT black fringe cut round like a bowl, a short nose with a wide, flat bridge, big, round, dark eyes set wide under low, straight brows, full cheeks, a WIDE mouth, a small, rounded chin; looking up at Nazarius with trust. No curls on the boy.",
+    "basis": "No likeness survives; all that is certain is that Ambrose found their bodies in a garden outside Milan (Paulinus, Vita Ambrosii). The book makes Nazarius a Roman preacher and Celsus the youth he took with him; the faces are ours, a grown man and a boy.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-28-sts-nazarius-and-celsus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Nazarius and Celsus (lead: fresco of San Nazzaro Sesia)",
+        "url": "https://en.wikipedia.org/wiki/Nazarius_and_Celsus"
+      },
+      {
+        "title": "Santi e Beati, Santi Nazario e Celso (Roman Martyrology entry, 28 July)",
+        "url": "https://www.santiebeati.it/dettaglio/64650"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-28-sts-nazarius-and-celsus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-28-sts-nazarius-and-celsus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

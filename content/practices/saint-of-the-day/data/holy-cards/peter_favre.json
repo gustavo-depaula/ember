@@ -1,0 +1,49 @@
+{
+  "id": "peter_favre",
+  "feast": {
+    "month": 8,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Peter Favre",
+    "pt-BR": "São Pedro Favre"
+  },
+  "patronOf": {
+    "en-US": "First priest of the Society of Jesus",
+    "pt-BR": "Primeiro sacerdote da Companhia de Jesus"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the most crowded day we can make time briefly and secretly to lift our soul to God and draw new strength from Him.",
+    "pt-BR": "No dia mais atarefado podemos encontrar tempo, breve e secretamente, para elevar nossa alma a Deus e dele haurir novas forças."
+  },
+  "lifeChapter": "aug-08-blessed-peter-favre",
+  "meta": {
+    "face": "A Savoyard of about forty with a fair, lightly weathered mountain complexion and a BROAD, FULL face, as in his old portraits — a WIDE forehead, WIDE cheekbones, LARGE, WIDE-SET, clear dark-brown eyes, slightly PROMINENT, under thick, softly arched dark brows, a straight nose with a BROAD, rounded tip, FULL lips, a BROAD, rounded chin under a full, short, ROUNDED dark-brown beard and moustache; dark-brown hair under the biretta; a gentle, open, attentive gaze. Not the oval, curly-haired francis_xavier, the bald ignatius_loyola or the grey peter_canisius.",
+    "basis": "Early engraved portraits (one inscribed with his signature) show a broad face, large wide-set eyes, full lips and a short dark beard, in a biretta. The book tells the shepherd boy of Savoy, Ignatius's first companion and the first priest of the Society, who died in Rome in his fortieth year.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-08-blessed-peter-favre.md Reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter Faber (lead: engraved portrait)",
+        "url": "https://en.wikipedia.org/wiki/Peter_Faber"
+      },
+      {
+        "title": "Wikipedia (fr), Pierre Favre (jésuite) (lead: portrait with signature)",
+        "url": "https://fr.wikipedia.org/wiki/Pierre_Favre_(j%C3%A9suite)"
+      },
+      {
+        "title": "Santi e Beati, San Pietro Favre (Roman Martyrology entry, 1 August; canonization, 17 December 2013)",
+        "url": "https://www.santiebeati.it/dettaglio/90923"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-08-blessed-peter-favre (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-08-blessed-peter-favre.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

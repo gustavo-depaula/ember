@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 176 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 186 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 545 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 555 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -438,17 +438,17 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 21 Jul · St. Victor, Martyr · *São Vítor, Mártir* · Pictorial Lives — `victor_marseilles`
 - [x] 24 Jul · St. Christina, Virgin and Martyr · *Santa Cristina, Virgem e Mártir* · Pictorial Lives — `christina_bolsena`
 - [x] 27 Jul · St. Pantaleon, Martyr · *São Pantaleão, Mártir* · Pictorial Lives — `pantaleon`
-- [ ] 28 Jul · Sts. Nazarius and Celsus, Martyrs · *São Nazário e São Celso, Mártires* · Pictorial Lives
-- [ ] 30 Jul · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
+- [x] 28 Jul · Sts. Nazarius and Celsus, Martyrs · *São Nazário e São Celso, Mártires* · Pictorial Lives — `nazarius_celsus`
+- [x] 30 Jul · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives — `germanus_auxerre`
 - [x] 1 Aug · St. Peter's Chains · *As Cadeias de São Pedro* · Pictorial Lives — `peter_chains`
-- [ ] 2 Aug · St. Stephen, Pope and Martyr · *São Estêvão, Papa e Mártir* · Pictorial Lives
-- [ ] 3 Aug · The Finding of St. Stephen's Relics · *O Achado das Relíquias de Santo Estêvão* · Pictorial Lives
-- [ ] 8 Aug · St. Cyriacus and His Companions, Martyrs · *São Ciríaco e Seus Companheiros, Mártires* · Pictorial Lives
-- [ ] 8 Aug · Blessed Peter Favre · *Beato Pedro Favre* · Pictorial Lives
-- [ ] 9 Aug · St. Romanus, Martyr · *São Romano, Mártir* · Pictorial Lives
-- [ ] 11 Aug · Sts. Tiburtius and Susanna, Martyrs · *São Tibúrcio e Santa Susana, Mártires* · Pictorial Lives
-- [ ] 13 Aug · St. Radegundes, Queen · *Santa Radegundes, Rainha* · Pictorial Lives
-- [ ] 14 Aug · St. Eusebius, Priest · *Santo Eusébio, Sacerdote* · Pictorial Lives
+- [x] 2 Aug · St. Stephen, Pope and Martyr · *São Estêvão, Papa e Mártir* · Pictorial Lives — `stephen_i`
+- [x] 3 Aug · The Finding of St. Stephen's Relics · *O Achado das Relíquias de Santo Estêvão* · Pictorial Lives — `finding_stephen_relics`
+- [x] 8 Aug · St. Cyriacus and His Companions, Martyrs · *São Ciríaco e Seus Companheiros, Mártires* · Pictorial Lives — `cyriacus`
+- [x] 8 Aug · Blessed Peter Favre · *Beato Pedro Favre* · Pictorial Lives — `peter_favre`
+- [x] 9 Aug · St. Romanus, Martyr · *São Romano, Mártir* · Pictorial Lives — `romanus_ostiarius`
+- [x] 11 Aug · Sts. Tiburtius and Susanna, Martyrs · *São Tibúrcio e Santa Susana, Mártires* · Pictorial Lives — `tiburtius_susanna`
+- [x] 13 Aug · St. Radegundes, Queen · *Santa Radegundes, Rainha* · Pictorial Lives — `radegundes`
+- [x] 14 Aug · St. Eusebius, Priest · *Santo Eusébio, Sacerdote* · Pictorial Lives — `eusebius_rome`
 - [x] 16 Aug · St. Hyacinth · *São Jacinto* · Pictorial Lives — `hyacinth`
 - [x] 17 Aug · St. Liberatus, Abbot, and Six Monks, Martyrs · *São Liberato, Abade, e Seis Monges, Mártires* · Pictorial Lives — `liberatus`
 - [x] 18 Aug · St. Helena, Empress · *Santa Helena, Imperatriz* · Pictorial Lives — `helena`

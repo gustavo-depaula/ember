@@ -1,0 +1,49 @@
+{
+  "id": "radegundes",
+  "feast": {
+    "month": 8,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Radegundes",
+    "pt-BR": "Santa Radegundes"
+  },
+  "patronOf": {
+    "en-US": "Queen of the Franks",
+    "pt-BR": "Rainha dos francos"
+  },
+  "prayerExcerpt": {
+    "en-US": "As a great queen, she continued no less an enemy to sloth and vanity than she was before, and divided her time chiefly between her oratory, the Church, and the care of the poor.",
+    "pt-BR": "Como grande rainha, continuou não menos inimiga da indolência e da vaidade do que era antes, e dividia seu tempo principalmente entre seu oratório, a Igreja, e o cuidado dos pobres."
+  },
+  "lifeChapter": "aug-13-radegundes",
+  "meta": {
+    "face": "A Thuringian princess of about fifty with a fair, fine complexion and a SHORT, WIDE face — a LOW forehead framed by the wimple, HIGH, ROUNDED cheekbones that make the eyes look narrow and slightly UPWARD-SLANTING, hooded dark-blue eyes under straight, dark-blonde brows, a SHORT, straight nose, a WIDE, full-lipped mouth, a FIRM, ROUNDED chin; her gaze lowered to the cross. Not the long oval of hedwig and margaret_scotland, the broad square-jawed maud, or the triangular, wide-eyed cunegundes.",
+    "basis": "No likeness survives; Venantius Fortunatus and Gregory of Tours knew her but describe no face. Tradition paints her crowned, in a nun's veil; Wikipedia records the relic of the True Cross that named her abbey at Poitiers. The face, a Thuringian's, is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-13-radegundes.md, second paragraph, first sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Radegund",
+        "url": "https://en.wikipedia.org/wiki/Radegund"
+      },
+      {
+        "title": "Wikipedia (fr), Radegonde de Poitiers (lead: stained glass, Sainte-Clotilde, Paris)",
+        "url": "https://fr.wikipedia.org/wiki/Radegonde_de_Poitiers"
+      },
+      {
+        "title": "Santi e Beati, Santa Radegonda (Roman Martyrology entry, 13 August)",
+        "url": "https://www.santiebeati.it/dettaglio/90194"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-13-radegundes (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-13-radegundes.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

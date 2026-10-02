@@ -1,0 +1,45 @@
+{
+  "id": "romanus_ostiarius",
+  "feast": {
+    "month": 8,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Romanus",
+    "pt-BR": "São Romano"
+  },
+  "patronOf": {
+    "en-US": "Soldier and martyr",
+    "pt-BR": "Soldado e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "We are bound to glorify God by our lives, and Christ commands that our good works shine before men.",
+    "pt-BR": "Estamos obrigados a glorificar a Deus por nossa vida, e Cristo manda que nossas boas obras brilhem diante dos homens."
+  },
+  "lifeChapter": "aug-09-romanus",
+  "meta": {
+    "face": "A Roman soldier of about twenty-seven with a dark olive complexion and a LONG, NARROW head — thick, straight black brows that MEET over the nose in one line, deep-set hazel eyes, a thin, STRAIGHT nose with a sharp bridge, HOLLOW cheeks above a LEAN, NARROW jaw, a WIDE mouth, a slightly jutting narrow chin, EARS that stand out; black hair cropped very short; a short, dense black beard trimmed close to the jaw; the gaze lifted, wondering. Not the sandy, cleft-chinned victor_marseilles, the blocky Nereus, or the beardless, curly pantaleon.",
+    "basis": "No likeness survives; the Martyrology keeps him at the cemetery of St. Lawrence on the Via Tiburtina, and the legend of his conversion and baptism by Lawrence is in the book and its engraving (Lawrence pouring water from a pitcher). The face is ours, a lean young legionary.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-09-romanus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Romanus Ostiarius (lead: statue, Schweighausen)",
+        "url": "https://en.wikipedia.org/wiki/Romanus_Ostiarius"
+      },
+      {
+        "title": "Santi e Beati, San Romano di Roma (Roman Martyrology entry, 9 August)",
+        "url": "https://www.santiebeati.it/dettaglio/65600"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-09-romanus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-09-romanus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

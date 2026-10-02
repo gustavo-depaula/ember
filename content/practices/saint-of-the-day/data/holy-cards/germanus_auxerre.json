@@ -1,0 +1,49 @@
+{
+  "id": "germanus_auxerre",
+  "feast": {
+    "month": 7,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Germanus of Auxerre",
+    "pt-BR": "São Germano de Auxerre"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Auxerre",
+    "pt-BR": "Bispo de Auxerre"
+  },
+  "prayerExcerpt": {
+    "en-US": "Hold the form of sound words, which thou hast heard of me in faith, and in the love which is in Christ Jesus.",
+    "pt-BR": "Conserva o modelo das sãs palavras que de mim ouviste, na fé e no amor que está em Cristo Jesus."
+  },
+  "lifeChapter": "jul-30-germanus",
+  "meta": {
+    "face": "A Gallo-Roman noble of about sixty-five, once a soldier and a huntsman, with a weathered, ruddy complexion and an OBLONG face under a BROAD, DOMED forehead — WIDE, FLAT cheekbones, a BROAD, ROUNDED chin, a short, straight nose with a wide bridge, SMALL, keen, pale-grey eyes with deep crow's-feet from years in the open, thick, level, BRISTLING iron-grey brows, a wide, straight, firm mouth; iron-grey hair cropped short round a tonsured crown; a short, CLIPPED iron-grey beard cut SQUARE at the chin; a commanding, far-seeing gaze. Not the clean-shaven, bald, underbitten germanus_paris.",
+    "basis": "No likeness survives. Constantius of Lyon's Life, which the book follows, tells a noble lawyer, soldier and huntsman made bishop of Auxerre, who twice went to Britain against Pelagianism and led the Britons in the \"Alleluia\" victory. The weathered, commanding face is our reading of that life; statues and glass give only a generic bishop.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-30-germanus.md Reflection, the whole of it, the quotation of 2 Tim. 1:13 without its quotation marks and reference, closed with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Germanus of Auxerre (lead: stained glass)",
+        "url": "https://en.wikipedia.org/wiki/Germanus_of_Auxerre"
+      },
+      {
+        "title": "Wikipedia (fr), Germain d'Auxerre (lead: statue, Saint-Germain-l'Auxerrois)",
+        "url": "https://fr.wikipedia.org/wiki/Germain_d%27Auxerre"
+      },
+      {
+        "title": "Santi e Beati, San Germano d'Auxerre (Roman Martyrology entry, 31 July)",
+        "url": "https://www.santiebeati.it/dettaglio/91919"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-30-germanus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-30-germanus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

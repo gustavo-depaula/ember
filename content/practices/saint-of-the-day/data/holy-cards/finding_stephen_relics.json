@@ -1,0 +1,41 @@
+{
+  "id": "finding_stephen_relics",
+  "feast": {
+    "month": 8,
+    "day": 3
+  },
+  "name": {
+    "en-US": "The Finding of St. Stephen's Relics",
+    "pt-BR": "O Achado das Relíquias de Santo Estêvão"
+  },
+  "patronOf": {
+    "en-US": "The protomartyr's tomb opened",
+    "pt-BR": "O túmulo do protomártir aberto"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us so desire to obtain temporal blessings by his intercession that we may merit, in imitating him, those which are eternal.",
+    "pt-BR": "Desejemos de tal modo obter, por sua intercessão, as bênçãos temporais, que mereçamos, ao imitá-lo, aquelas que são eternas."
+  },
+  "lifeChapter": "aug-03-the-finding-of-st-stephens-relics",
+  "meta": {
+    "face": "Two principal figures, clearly different. BISHOP JOHN (centre), a Greek of about sixty with a warm olive complexion and a LONG, NARROW face — a high, lined forehead, a LONG nose with a HUMPED bridge, large, heavy-lidded dark eyes under thick, curved black-and-grey brows, lean cheeks, a small mouth; grey-black hair to the nape and a LONG, full grey-black beard cut SQUARE at the end; the eyes raised in wonder. LUCIAN (kneeling, left), a Palestinian priest of about seventy: a SMALL, NARROW, sharp-featured face — a high, BALD forehead, a THIN, BEAKED nose, small, bright dark eyes, SUNKEN cheeks, a narrow chin under a SHORT, SPARSE grey beard; wisps of grey hair at the sides; the gaze lowered to the tomb. The labourer: a beardless youth seen in profile, brown and lean.",
+    "basis": "No likeness survives of Bishop John II of Jerusalem or of the priest Lucian. The book, after Lucian's own letter, tells the vision, the digging at Caphargamala and the opening of the coffin before John and two other bishops; the engraving shows the kneeling priest, the bishops and a digger at the open tomb. The faces are ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-03-the-finding-of-st-stephens-relics.md Reflection, the words of St. Augustine it quotes, without their quotation marks (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Stephen (section: Tomb and relics)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Stephen"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-03-the-finding-of-st-stephens-relics (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-03-the-finding-of-st-stephens-relics.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

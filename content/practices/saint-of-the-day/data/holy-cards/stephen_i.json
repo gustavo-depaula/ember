@@ -1,0 +1,49 @@
+{
+  "id": "stephen_i",
+  "feast": {
+    "month": 8,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Stephen I",
+    "pt-BR": "São Estêvão I"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "Thus by his zeal he preserved the integrity of faith, and by his toleration and forbearance saved many souls.",
+    "pt-BR": "Assim, por seu zelo preservou a integridade da fé, e por sua tolerância e paciência salvou muitas almas."
+  },
+  "lifeChapter": "aug-02-stephen",
+  "meta": {
+    "face": "A Roman of about fifty-five, CLEAN-SHAVEN as on the Speyer reliquary head, with a pale olive complexion and a LONG, NARROW face under a PROMINENT, ROUNDED forehead that bulges over the brows — SUNKEN temples, LARGE, DEEP-SET dark eyes in shadowed sockets under thin, straight brows, a LONG, STRAIGHT, NARROW nose running on from the brow line, FLAT cheeks, a SMALL, soft, closed mouth, a SHORT, POINTED chin; close-cropped dark hair touched with grey, cut straight across the forehead; a patient, forbearing look. Not the bald, hook-nosed sixtus_ii, nor the fine-boned, hump-nosed fabian.",
+    "basis": "No likeness survives. The gold reliquary head in Speyer Cathedral shows him beardless with a long, straight nose; the St. Paul Outside the Walls medallion is a later imagined type. The book tells the archdeacon who became pope, the rebaptism controversy and the catacomb Masses; the face is ours, after the Speyer head.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-02-stephen.md, second paragraph, last sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Stephen I (lead: reliquary head, Speyer Cathedral)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Stephen_I"
+      },
+      {
+        "title": "Wikipedia (it), Papa Stefano I (lead: St. Paul Outside the Walls medallion)",
+        "url": "https://it.wikipedia.org/wiki/Papa_Stefano_I"
+      },
+      {
+        "title": "Santi e Beati, Santo Stefano I (Roman Martyrology entry, 2 August)",
+        "url": "https://www.santiebeati.it/dettaglio/89023"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-02-stephen (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-02-stephen.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}

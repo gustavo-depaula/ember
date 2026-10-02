@@ -1,0 +1,45 @@
+{
+  "id": "cyriacus",
+  "feast": {
+    "month": 8,
+    "day": 8
+  },
+  "name": {
+    "en-US": "St. Cyriacus and His Companions",
+    "pt-BR": "São Ciríaco e Seus Companheiros"
+  },
+  "patronOf": {
+    "en-US": "Deacon and martyr",
+    "pt-BR": "Diácono e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "The cross is the ladder by which we must ascend to heaven.",
+    "pt-BR": "A cruz é a escada pela qual devemos subir ao céu."
+  },
+  "lifeChapter": "aug-08-cyriacus-and-his-companions",
+  "meta": {
+    "face": "Three clearly different Romans. CYRIACUS (centre), about forty, CLEAN-SHAVEN, with a light-olive complexion and a FULL, SOFT, SQUARE face — a broad, smooth forehead, LARGE, luminous hazel eyes set WIDE apart under dark, arched brows, a SHORT, WIDE nose with rounded nostrils, full cheeks, a WIDE, full-lipped mouth, a squared, softly padded chin; short, thick, straight dark-brown hair; a serene, upward gaze. LARGUS (left), about sixty: a LONG, HEAVY face whose features DROOP — long ear lobes, a big, fleshy nose, heavy, pouched dark eyes under drooping grey brows, loose cheeks, a grey-stubbled jaw, thin grey hair combed forward; a patient, weary kindness. SMARAGDUS (right), about twenty-five: a NARROW, FOX-LIKE face — a sharp, slightly upturned nose, narrow, slanting green eyes, high thin brows, a pointed chin, a light first beard along the jaw, wavy reddish-brown hair; an eager look.",
+    "basis": "No likeness survives; beyond their names, martyrdom and burial on the Via Ostiensis on 8 August, nothing is certain (Wikipedia). The book calls Cyriacus a deacon under Marcellinus and Marcellus, and its engraving shows him in a dalmatic; the three faces are ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-08-cyriacus-and-his-companions.md Reflection, last sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Cyriacus",
+        "url": "https://en.wikipedia.org/wiki/Cyriacus"
+      },
+      {
+        "title": "Santi e Beati, Santi Ciriaco, Largo, Smaragdo e compagni (Roman Martyrology entry, 8 August)",
+        "url": "https://www.santiebeati.it/dettaglio/65550"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-08-cyriacus-and-his-companions (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-08-cyriacus-and-his-companions.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-33.md."
+      }
+    ]
+  }
+}
