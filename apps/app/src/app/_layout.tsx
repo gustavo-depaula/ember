@@ -8,22 +8,6 @@ import { featureFlags } from 'react-native-screens'
 featureFlags.experiment.iosPreventReattachmentOfDismissedScreens = true
 featureFlags.experiment.ios26AllowInteractionsDuringTransition = true
 
-import { Cinzel_400Regular, Cinzel_600SemiBold, Cinzel_700Bold } from '@expo-google-fonts/cinzel'
-import { CormorantGaramond_400Regular } from '@expo-google-fonts/cormorant-garamond'
-import { CrimsonPro_400Regular } from '@expo-google-fonts/crimson-pro'
-import {
-  EBGaramond_400Regular,
-  EBGaramond_400Regular_Italic,
-  EBGaramond_500Medium,
-  EBGaramond_600SemiBold,
-  EBGaramond_700Bold,
-  EBGaramond_700Bold_Italic,
-} from '@expo-google-fonts/eb-garamond'
-import { LibreBaskerville_400Regular } from '@expo-google-fonts/libre-baskerville'
-import { Lora_400Regular } from '@expo-google-fonts/lora'
-import { Merriweather_400Regular } from '@expo-google-fonts/merriweather'
-import { PinyonScript_400Regular } from '@expo-google-fonts/pinyon-script'
-import { SourceSerif4_400Regular } from '@expo-google-fonts/source-serif-4'
 import {
   MutationCache,
   notifyManager,
@@ -44,6 +28,7 @@ import { TamaguiProvider } from 'tamagui'
 import { ConfirmHost, confirm } from '@/components'
 import { BootLoadingScreen } from '@/components/BootLoadingScreen'
 import { FloatingOfflineChip } from '@/components/OfflineChip'
+import { appFonts } from '@/config/appFonts'
 import { config } from '@/config/tamagui.config'
 import { darkTheme, lightTheme } from '@/config/themes'
 import { maybeRunCacheEviction } from '@/content/cacheMaintenance'
@@ -118,35 +103,7 @@ function CrossTabSync() {
 export default function RootLayout() {
   useKeepAwake()
 
-  const [fontsLoaded] = useFonts({
-    Cinzel_400Regular,
-    Cinzel_600SemiBold,
-    Cinzel_700Bold,
-    EBGaramond_400Regular,
-    EBGaramond_400Regular_Italic,
-    EBGaramond_500Medium,
-    EBGaramond_600SemiBold,
-    EBGaramond_700Bold,
-    EBGaramond_700Bold_Italic,
-    PinyonScript_400Regular,
-    CrimsonPro_400Regular,
-    Lora_400Regular,
-    CormorantGaramond_400Regular,
-    LibreBaskerville_400Regular,
-    SourceSerif4_400Regular,
-    Merriweather_400Regular,
-    UnifrakturMaguntia: require('../../assets/fonts/UnifrakturMaguntia-Book.ttf'),
-    Junicode: require('../../assets/fonts/Junicode.ttf'),
-    Junicode_Italic: require('../../assets/fonts/Junicode-Italic.ttf'),
-    Junicode_Light: require('../../assets/fonts/Junicode-Light.ttf'),
-    Junicode_LightItalic: require('../../assets/fonts/Junicode-LightItalic.ttf'),
-    Junicode_Medium: require('../../assets/fonts/Junicode-Medium.ttf'),
-    Junicode_MediumItalic: require('../../assets/fonts/Junicode-MediumItalic.ttf'),
-    Junicode_SemiBold: require('../../assets/fonts/Junicode-SemiBold.ttf'),
-    Junicode_SemiBoldItalic: require('../../assets/fonts/Junicode-SemiBoldItalic.ttf'),
-    Junicode_Bold: require('../../assets/fonts/Junicode-Bold.ttf'),
-    Junicode_BoldItalic: require('../../assets/fonts/Junicode-BoldItalic.ttf'),
-  })
+  const [fontsLoaded] = useFonts(appFonts)
 
   const { success: dbReady } = useDbInit()
 

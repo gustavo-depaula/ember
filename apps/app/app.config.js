@@ -20,6 +20,26 @@ module.exports = ({ config }) => {
     })
   }
 
+  // Permissions that libraries add and the app never exercises. Each one Play
+  // reviews: a sensitive permission asks for a declaration, and a media
+  // foreground service for a demo video.
+  config.android = {
+    ...config.android,
+    blockedPermissions: [
+      // expo-image-picker: only the library is opened, through the system
+      // photo picker, which needs no permission.
+      'android.permission.CAMERA',
+      // expo-audio: nothing records.
+      'android.permission.RECORD_AUDIO',
+      // expo-audio background playback, for the creators' audio player — a
+      // feature with no route yet. Drop these two lines when it ships.
+      'android.permission.FOREGROUND_SERVICE',
+      'android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK',
+      // The template's debug overlay permission, in the release manifest too.
+      'android.permission.SYSTEM_ALERT_WINDOW',
+    ],
+  }
+
   const IS_DEV = process.env.APP_VARIANT === 'development'
   if (!IS_DEV) return config
   return {

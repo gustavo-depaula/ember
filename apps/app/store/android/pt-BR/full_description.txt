@@ -1,0 +1,31 @@
+O Ember é um companheiro para a vida católica de oração. Ele encontra você onde você está, do primeiro Pai-Nosso ao Ofício Divino completo, e caminha com você dia após dia.
+
+É gratuito e de código aberto. Não há anúncios, contas nem rastreamento: o que você reza e lê fica no seu celular.
+
+UM PLANO DE VIDA
+Monte uma regra diária de oração e guarde-a. Escolha uma tradição para começar (salesiana, inaciana, carmelita, a Pequena Via e outras) ou componha a sua, prática por prática. Defina os dias e a hora de cada uma, com um lembrete se quiser. A tela Hoje mostra o que o dia pede, e um céu de estrelas mostra a fidelidade com que você o tem vivido.
+
+ORAÇÕES E DEVOÇÕES
+• O Santo Rosário, com os mistérios do dia e arte sacra para cada um
+• A Santa Missa, na forma ordinária e na extraordinária, com as leituras e os próprios do dia
+• O Breviário Romano, hora por hora
+• O Angelus, ladainhas, novenas, consagrações e as orações essenciais
+• Oração mental com uma vela que vigia com você, e um cordão de oração para a Oração de Jesus
+• Meditações diárias para todos os dias do ano
+
+A ESCRITURA E O CATECISMO
+Leia a Bíblia em traduções católicas, e o Catecismo da Igreja Católica com o seu Compêndio.
+
+UMA BIBLIOTECA CATÓLICA
+A Imitação de Cristo, os Padres da Igreja, Santo Tomás de Aquino, Santo Afonso de Ligório, o Catecismo Romano e muito mais, em um leitor feito para a leitura longa: você escolhe a fonte, o tamanho e as margens, o papel ou a noite, com marcadores, destaques e notas. Guarde qualquer livro ou oração no celular para quando não houver conexão.
+
+OS SANTOS
+Santinhos recebidos pela prática da oração, cada um uma apresentação a uma vida santa: quem foi o santo, o que a Igreja reza na sua festa, algo para guardar no coração. Acompanhe o ano litúrgico, nos dois calendários, com o santo e o tempo de cada dia.
+
+HORÁRIOS DE MISSA
+Encontre no mapa Missa, confissão e adoração nas igrejas perto de você, salve as suas paróquias e ajude a manter os horários corretos. A cobertura começa por São Paulo e está crescendo.
+
+EM DUAS LÍNGUAS
+Português do Brasil e inglês em todo o aplicativo, com o latim nas orações que o têm, sozinho ou lado a lado.
+
+O Ember é feito às claras. Suas orações e livros são textos públicos em formatos abertos, livres para qualquer pessoa usar e melhorar: github.com/gustavo-depaula/ember
