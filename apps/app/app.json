@@ -80,22 +80,7 @@
       ],
       "expo-status-bar",
       "expo-web-browser",
-      [
-        "@react-native-community/datetimepicker",
-        {
-          "android": {
-            "datePicker": {
-              "colorAccent": { "light": "#A8872E", "dark": "#D4A63A" }
-            },
-            "timePicker": {
-              "headerBackground": { "light": "#A8872E", "dark": "#B8902A" },
-              "numbersSelectorColor": { "light": "#C9A84C", "dark": "#D4A63A" },
-              "numbersBackgroundColor": { "light": "#F5F5F5", "dark": "#252220" },
-              "numbersTextColor": { "light": "#2C2A26", "dark": "#E8E0D0" }
-            }
-          }
-        }
-      ],
+      "@react-native-community/datetimepicker",
       "./plugins/withAndroidTheme",
       "./plugins/withAndroidGradleMemory",
       [

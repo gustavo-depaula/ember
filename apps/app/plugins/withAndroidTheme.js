@@ -1,9 +1,9 @@
 // Two things the Android app theme gets wrong for this app.
 //
-// Accent: dialogs — the time and date pickers, their OK / Cancel — take their
-// accent from `colorAccent`, which AppCompat leaves at teal. It becomes the
-// app's gold (`accentHover` in src/config/themes.ts, the shade that holds its
-// contrast as button text on a white dialog).
+// Accent: the platform's own controls — a switch, a text cursor, a dialog's
+// buttons — take their accent from `colorAccent`, which AppCompat leaves at
+// teal. It becomes the app's gold (`accentHover` in src/config/themes.ts, the
+// shade that holds its contrast as button text on a white dialog).
 //
 // Focus highlight: when a window opens Android hands focus to its first
 // focusable view and paints a grey block over it. Selectable text is focusable,
