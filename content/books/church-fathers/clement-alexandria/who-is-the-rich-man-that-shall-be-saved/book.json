@@ -2,13 +2,16 @@
   "id": "clement-alexandria-who-is-the-rich-man-that-shall-be-saved",
   "cover": "quarter",
   "name": {
-    "en-US": "Who is the Rich Man That Shall Be Saved?"
+    "en-US": "Who is the Rich Man That Shall Be Saved?",
+    "pt-BR": "Quem é o rico que será salvo?"
   },
   "author": {
-    "en-US": "Clement of Alexandria"
+    "en-US": "Clement of Alexandria",
+    "pt-BR": "Clemente de Alexandria"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Who is the Rich Man That Shall Be Saved?"
+        "en-US": "Who is the Rich Man That Shall Be Saved?",
+        "pt-BR": "Quem é o rico que será salvo?"
       }
     }
   ]
