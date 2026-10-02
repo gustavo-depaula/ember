@@ -1,0 +1,45 @@
+{
+  "id": "heliodorus",
+  "feast": {
+    "month": 7,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Heliodorus",
+    "pt-BR": "Santo Heliodoro"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Altino",
+    "pt-BR": "Bispo de Altino"
+  },
+  "prayerExcerpt": {
+    "en-US": "He remained in the world, though not of it, and, following the example of the holy anchorites, passed his time in prayer and devout reading.",
+    "pt-BR": "Permaneceu no mundo, embora não fosse do mundo, e, seguindo o exemplo dos santos anacoretas, passava seu tempo em oração e leitura devota."
+  },
+  "lifeChapter": "jul-03-heliodorus",
+  "meta": {
+    "face": "A Dalmatian of about fifty-five, lean from an ascetic life, with a light-olive, sea-weathered complexion and a LONG, LANTERN-JAWED face — a narrowish forehead, cheekbones set LOW, HOLLOW cheeks, and a LONG, HEAVY lower jaw ending in a BROAD, PROMINENT, JUTTING chin; a straight nose with a broad, FLAT tip; DEEP-SET grey-green eyes under HEAVY, half-lowered upper lids; thick, straight dark-grey brows; a wide, thin mouth; a CLOSE-trimmed grey beard that follows the long jaw; short, thick, grey hair combed forward; the gaze quiet and inward.",
+    "basis": "No likeness survives; the statue at Murano (Commons) is a conventional mitred, bearded bishop. The book tells a Dalmatian, disciple and friend of St. Jerome, who lived 'in the world, though not of it', went with him to the East, returned to his parents, and was made Bishop of Altino. Wikipedia (en, it) adds the Council of Aquileia (381), his death about 410 (the book's 'about 290' is a slip) and his relics at Torcello. The lantern-jawed face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-03-heliodorus.md, first paragraph, last sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Heliodorus of Altino",
+        "url": "https://en.wikipedia.org/wiki/Heliodorus_of_Altino"
+      },
+      {
+        "title": "Wikimedia Commons, St. Heliodorus, Duomo di Murano",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Heliodorus_(Sant'Eliodoro),_Basilica_di_Santa_Maria_e_Donato,_Duomo_di_Murano_(25327994189).jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-03-heliodorus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-03-heliodorus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

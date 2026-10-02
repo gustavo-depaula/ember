@@ -1,0 +1,45 @@
+{
+  "id": "bertha_blangy",
+  "feast": {
+    "month": 7,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Bertha",
+    "pt-BR": "Santa Berta"
+  },
+  "patronOf": {
+    "en-US": "Widow, Abbess of Blangy",
+    "pt-BR": "Viúva, Abadessa de Blangy"
+  },
+  "prayerExcerpt": {
+    "en-US": "She left St. Deotila abbess in her stead, and shut herself in a cell, to pass the remainder of her days in prayer.",
+    "pt-BR": "Deixou Santa Deotila como abadessa em seu lugar, e fechou-se numa cela, para passar o restante de seus dias em oração."
+  },
+  "lifeChapter": "jul-04-bertha",
+  "meta": {
+    "face": "A Frankish noblewoman of about sixty, strong-boned, with a fair, lightly weathered complexion and a BROAD, SQUARE face with a firm, STRONG JAW — a wide, flat forehead under the band of the wimple, a SHORT, straight nose with a broad bridge, CALM, WIDE-SET grey eyes under straight, low, light-brown brows, FIRM, full cheeks, a WIDE, straight, resolute mouth with a faint smile at the corners, a broad, square chin; a few fine lines at the eyes; hair hidden; the gaze steady and warm, toward us.",
+    "basis": "No likeness survives; a nineteenth-century French devotional print (Commons) shows her kneeling in a black habit and veil. The book tells the daughter of Count Rigobert, married at twenty, mother of five daughters, who founded the nunnery of Blangy in Artois, took the veil there as a widow, built three churches, and ended her days shut in a cell, about 725. English Wikipedia says the story 'is of a very late date but not entirely legendary'. The broad, square-jawed face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-04-bertha.md, third paragraph, its second sentence after 'And then, after establishing a regular observance in her community,', capitalised; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Bertha of Artois",
+        "url": "https://en.wikipedia.org/wiki/Bertha_of_Artois"
+      },
+      {
+        "title": "Wikipedia (fr), Berthe de Blangy (lead image: a devotional print)",
+        "url": "https://fr.wikipedia.org/wiki/Berthe_de_Blangy"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-04-bertha (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-04-bertha.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

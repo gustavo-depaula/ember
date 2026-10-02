@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 226 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 236 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 595 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 605 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -418,16 +418,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 19 Jun · St. Juliana Falconieri · *Santa Juliana Falconieri* · Pictorial Lives — `juliana_falconieri`
 - [x] 20 Jun · St. Silverius, Pope and Martyr · *São Silvério, Papa e Mártir* · Pictorial Lives — `silverius`
 - [x] 23 Jun · St. Etheldreda, Abbess · *Santa Eteldreda, Abadessa* · Pictorial Lives — `etheldreda`
-- [ ] 25 Jun · St. Prosper of Aquitaine · *São Próspero da Aquitânia* · Pictorial Lives
-- [ ] 25 Jun · St William of Monte-Vergine · *São Guilherme de Monte-Vergine* · Pictorial Lives
-- [ ] 27 Jun · St. Ladislas, King · *São Ladislau, Rei* · Pictorial Lives
-- [ ] 1 Jul · St. Gal, Bishop · *São Galo, Bispo* · Pictorial Lives
-- [ ] 3 Jul · St. Heliodorus, Bishop · *Santo Heliodoro, Bispo* · Pictorial Lives
-- [ ] 4 Jul · St. Bertha, Widow, Abbess · *Santa Berta, Viúva, Abadessa* · Pictorial Lives
-- [ ] 5 Jul · St. Peter of Luxemburg · *São Pedro de Luxemburgo* · Pictorial Lives
-- [ ] 6 Jul · St. Goar, Priest · *São Goar, Sacerdote* · Pictorial Lives
-- [ ] 6 Jul · St. Palladius, Bishop, Apostle of the Scots · *São Paládio, Bispo, Apóstolo dos Escotos* · Pictorial Lives
-- [ ] 7 Jul · St. Pantænus, Father of the Church · *São Panteno, Padre da Igreja* · Pictorial Lives
+- [x] 25 Jun · St. Prosper of Aquitaine · *São Próspero da Aquitânia* · Pictorial Lives — `prosper_aquitaine`
+- [x] 25 Jun · St William of Monte-Vergine · *São Guilherme de Monte-Vergine* · Pictorial Lives — `william_montevergine`
+- [x] 27 Jun · St. Ladislas, King · *São Ladislau, Rei* · Pictorial Lives — `ladislas`
+- [x] 1 Jul · St. Gal, Bishop · *São Galo, Bispo* · Pictorial Lives — `gal_clermont`
+- [x] 3 Jul · St. Heliodorus, Bishop · *Santo Heliodoro, Bispo* · Pictorial Lives — `heliodorus`
+- [x] 4 Jul · St. Bertha, Widow, Abbess · *Santa Berta, Viúva, Abadessa* · Pictorial Lives — `bertha_blangy`
+- [x] 5 Jul · St. Peter of Luxemburg · *São Pedro de Luxemburgo* · Pictorial Lives — `peter_luxemburg`
+- [x] 6 Jul · St. Goar, Priest · *São Goar, Sacerdote* · Pictorial Lives — `goar`
+- [x] 6 Jul · St. Palladius, Bishop, Apostle of the Scots · *São Paládio, Bispo, Apóstolo dos Escotos* · Pictorial Lives — `palladius`
+- [x] 7 Jul · St. Pantænus, Father of the Church · *São Panteno, Padre da Igreja* · Pictorial Lives — `pantaenus`
 - [x] 10 Jul · The Seven Brothers, Martyrs, and St. Felicitas, their Mother · *Os Sete Irmãos, Mártires, e Santa Felicidade, sua Mãe* · Pictorial Lives — `seven_brothers`
 - [x] 11 Jul · St. James, Bishop · *São Tiago, Bispo* · Pictorial Lives — `james_nisibis`
 - [x] 12 Jul · St. John Gualbert · *São João Gualberto* · Pictorial Lives — `john_gualbert`

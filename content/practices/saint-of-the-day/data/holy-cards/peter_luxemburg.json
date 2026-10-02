@@ -1,0 +1,49 @@
+{
+  "id": "peter_luxemburg",
+  "feast": {
+    "month": 7,
+    "day": 5
+  },
+  "name": {
+    "en-US": "Bl. Peter of Luxemburg",
+    "pt-BR": "Beato Pedro de Luxemburgo"
+  },
+  "patronOf": {
+    "en-US": "Patron of Avignon",
+    "pt-BR": "Padroeiro de Avinhão"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Peter teaches us how, by self-denial, rank, riches, the highest dignities, and all this world can give, may serve to make a Saint.",
+    "pt-BR": "São Pedro nos ensina como, pela abnegação, a posição, as riquezas, as mais altas dignidades, e tudo o que este mundo pode dar, podem servir para fazer um Santo."
+  },
+  "lifeChapter": "jul-05-peter-of-luxemburg",
+  "meta": {
+    "face": "A thin, pale French noble youth of eighteen, visibly young, BEARDLESS and worn by fasting, with a TRIANGULAR face — a BROAD, ROUNDED forehead tapering sharply to a SMALL, POINTED chin; HOLLOW cheeks under delicate, clearly marked cheekbones; a LONG, fine, STRAIGHT nose; LARGE, round, slightly PROMINENT grey-blue eyes under thin, softly arched light-brown brows; a SMALL, closed mouth with a full lower lip; light-brown hair cut in a short ROUND bowl with a small tonsure; the gaze lifted toward the crucifix, humble and ardent.",
+    "basis": "The Avignon School panel of his vision (c. 1450, Commons; Wikipedia's lead image) shows him young, pale and beardless, kneeling in a red cardinal's cappa at a prie-dieu, with a long straight nose, a small mouth and a tonsure, which the face follows. The book tells the noble hostage in London at twelve, Bishop of Metz at fifteen, the cardinal ordered to moderate his penances, who died in 1387 at eighteen, and the miracle of 1432 that made him patron of Avignon. Wikipedia: beatified by Clement VII in 1527, never canonized.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-05-peter-of-luxemburg.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Master of the Avignon School, Vision of Cardinal Pierre de Luxembourg",
+        "url": "https://commons.wikimedia.org/wiki/File:Master_Of_The_Avignon_School-_Vision_of_Cardinal_Pierre_de_Luxembourg.jpg"
+      },
+      {
+        "title": "Wikipedia, Pierre de Luxembourg",
+        "url": "https://en.wikipedia.org/wiki/Pierre_de_Luxembourg"
+      },
+      {
+        "title": "Wikipedia (fr), Pierre de Luxembourg",
+        "url": "https://fr.wikipedia.org/wiki/Pierre_de_Luxembourg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-05-peter-of-luxemburg (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-05-peter-of-luxemburg.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

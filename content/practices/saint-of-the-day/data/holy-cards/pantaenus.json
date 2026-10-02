@@ -1,0 +1,45 @@
+{
+  "id": "pantaenus",
+  "feast": {
+    "month": 7,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Pantænus",
+    "pt-BR": "São Panteno"
+  },
+  "patronOf": {
+    "en-US": "Father of the Church",
+    "pt-BR": "Padre da Igreja"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Have a care that none lead you astray by a false philosophy,\" says St. Paul, for philosophy without religion is a vain thing.",
+    "pt-BR": "\"Tomai cuidado para que ninguém vos engane com uma falsa filosofia,\" diz São Paulo, pois a filosofia sem religião é coisa vã."
+  },
+  "lifeChapter": "jul-07-pant-nus-father-of-the-church",
+  "meta": {
+    "face": "A Sicilian of about seventy with a sun-browned olive complexion and a SHORT, WIDE face like the busts of the old philosophers — a broad, high, DOMED forehead running into a BALD crown with a fringe of white hair over the ears, a SNUB, UPTURNED nose with a broad tip, ROUND, slightly BULGING dark eyes that twinkle under bushy white brows, broad, full cheeks, a wide mouth; a LONG, full, WAVY white beard falling to the breast; the gaze bright, humorous and kind, toward us.",
+    "basis": "No likeness survives. Michael Burghers's engraving (Wikipedia's lead image) shows an old man in a philosopher's cloak with a long flowing beard; Clement called him 'the Sicilian bee'. The book tells the Sicilian Stoic who became a Christian, head of the school of Alexandria before 179, missionary to the Indies who found there St. Matthew's Gospel in Hebrew left by St. Bartholomew, and died about 216. The snub-nosed, domed philosopher's head, unlike the existing St. Justin's square face, is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-07-pant-nus-father-of-the-church.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pantaenus (lead image: Burghers's engraving)",
+        "url": "https://en.wikipedia.org/wiki/Pantaenus"
+      },
+      {
+        "title": "Wikimedia Commons, St. Pantaenus, etching by G. G. Winckler",
+        "url": "https://commons.wikimedia.org/wiki/File:Saint_Pantaenus._Etching_by_G.G._Winckler_after_F._Sigrist._Wellcome_V0032778.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-07-pant-nus-father-of-the-church (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-07-pant-nus-father-of-the-church.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

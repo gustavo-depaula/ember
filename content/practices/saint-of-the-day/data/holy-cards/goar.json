@@ -1,0 +1,49 @@
+{
+  "id": "goar",
+  "feast": {
+    "month": 7,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Goar",
+    "pt-BR": "São Goar"
+  },
+  "patronOf": {
+    "en-US": "Priest and hermit",
+    "pt-BR": "Sacerdote e eremita"
+  },
+  "prayerExcerpt": {
+    "en-US": "He converted many sinners by the fervor of his preaching and the force of his example.",
+    "pt-BR": "Converteu muitos pecadores pelo fervor de sua pregação e pela força de seu exemplo."
+  },
+  "lifeChapter": "jul-06-goar",
+  "meta": {
+    "face": "An Aquitanian of about sixty, kindly and robust, with a warm, ruddy complexion and an EGG-SHAPED face, BROADEST at the crown and temples and narrowing to a rounded chin — a HIGH, BOSSED forehead, a SHORT, BLUNT nose, bright, smiling hazel eyes deeply CREASED at the corners under soft, rounded grey brows, a LONG, deep upper lip over a WIDE, generous mouth in a warm smile, a round, slightly PROMINENT chin; CLEAN-SHAVEN; grey-brown hair cut short round a large monastic tonsure; the gaze welcoming, toward us.",
+    "basis": "No likeness survives. The fifteenth-century window of the collegiate church at St. Goar (Commons; German Wikipedia's lead image) shows him clean-shaven and tonsured with a model of his church; English Wikipedia tells the cloak hung on a sunbeam and his images with a pitcher, patron of innkeepers and vine growers. The book tells the priest of Aquitaine who hid himself near Trier, 'the oracle and miracle of the whole country', and refused the see of Metz; it dates his death to 575, as German Wikipedia does (English Wikipedia has 649). The egg-shaped face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-06-goar.md, first paragraph, the clause after 'having been raised to sacred orders,', capitalised; the chapter has no Reflection, so the card has none (the index's 07-06 reflection is the one closing the Palladius chapter) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Heiliger Goar, Glasmalerei Stiftskirche Sankt Goar",
+        "url": "https://commons.wikimedia.org/wiki/File:Heiliger_Goar,_Glasmalerei_Stiftskirche_Sankt_Goar.jpg"
+      },
+      {
+        "title": "Wikipedia, Goar of Aquitaine",
+        "url": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine"
+      },
+      {
+        "title": "Wikipedia (de), Goar",
+        "url": "https://de.wikipedia.org/wiki/Goar"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-06-goar (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-06-goar.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

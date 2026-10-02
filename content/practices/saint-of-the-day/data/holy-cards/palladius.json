@@ -1,0 +1,45 @@
+{
+  "id": "palladius",
+  "feast": {
+    "month": 7,
+    "day": 6
+  },
+  "name": {
+    "en-US": "St. Palladius",
+    "pt-BR": "São Paládio"
+  },
+  "patronOf": {
+    "en-US": "Bishop, Apostle of the Scots",
+    "pt-BR": "Bispo, Apóstolo dos Escotos"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Palladius surmounted every obstacle which a fierce nation had opposed to the establishment of the kingdom of Jesus Christ.",
+    "pt-BR": "São Paládio superou todo obstáculo que uma nação feroz havia oposto ao estabelecimento do reino de Jesus Cristo."
+  },
+  "lifeChapter": "jul-06-palladius",
+  "meta": {
+    "face": "A Roman patrician of about fifty-five with an olive complexion paled by northern skies and a TRAPEZOID face, NARROWER at the brow and BROADEST at the angular JAW — a narrow, lined forehead with a straight, low hairline, a SHORT, straight nose, very DARK, ROUND eyes set DEEP under a heavy, straight brow ridge, flat cheeks, a WIDE, straight, firm mouth, a broad, flat chin; short, thick, black CURLY hair greying at the temples, and a SHORT, close black-and-grey beard trimmed tight to the square jaw; the gaze direct and undaunted.",
+    "basis": "No likeness survives. The book tells a Roman, deacon of the Church of Rome, who moved Pope Celestine to send St. Germanus to Britain in 429, was sent in 431 as the first bishop to the Scots believing in Christ, was driven from Leinster, preached in North Britain and died at Fordun about 450. Wikipedia agrees in substance (Prosper's Chronicle), makes him of a noble Gallo-Roman family, and names the dedications at Fordoun and Auchenblae. The trapezoid, square-jawed face, unlike the existing St. Patrick's, is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-06-palladius.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Palladius (bishop of Ireland)",
+        "url": "https://en.wikipedia.org/wiki/Palladius_(bishop_of_Ireland)"
+      },
+      {
+        "title": "Wikimedia Commons, St Palladius, Fordoun",
+        "url": "https://commons.wikimedia.org/wiki/File:St_Palladius_Fordoun.jpg"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-06-palladius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-06-palladius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

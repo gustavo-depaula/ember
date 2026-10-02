@@ -1,0 +1,49 @@
+{
+  "id": "william_montevergine",
+  "feast": {
+    "month": 6,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. William of Monte-Vergine",
+    "pt-BR": "São Guilherme de Monte-Vergine"
+  },
+  "patronOf": {
+    "en-US": "Hermit, founder of Monte-Vergine",
+    "pt-BR": "Eremita, fundador de Monte-Vergine"
+  },
+  "prayerExcerpt": {
+    "en-US": "He chose for his abode a desert mountain, and lived in perpetual contemplation and the exercises of most rigorous penitential austerities.",
+    "pt-BR": "Escolheu para sua morada uma montanha deserta, e viveu em perpétua contemplação e nos exercícios das mais rigorosas austeridades penitenciais."
+  },
+  "lifeChapter": "jun-25-prosper-of-aquitaine-st-william-of-monte-vergine",
+  "meta": {
+    "face": "A Piedmontese of about forty-five, weathered by the mountain, with a sun-browned complexion and a BROAD face WIDEST and FLAT across the cheekbones — a SHORT, square forehead, a broad, STRAIGHT nose with FLARED nostrils, SMALL, DEEP-SET dark eyes under THICK, LOW, straight black brows, a full lower lip; a THICK, dense BLACK beard growing HIGH on the cheeks and cut BLUNT and broad at the collarbone, with a full moustache; short black hair cropped round a monastic tonsure; the gaze lowered, grave and kind.",
+    "basis": "No portrait from life is known. Bernardino Zenale's panel (Commons) shows him in the white habit with a crozier and a heavy dark beard, as the face here does; Wikipedia (en, it) gives his birth at Vercelli in 1085, the pilgrimage to Compostela, the hermitage on Monte Vergine and the tamed wolf 'often depicted' with him. The book tells the orphan of Piedmont, the pilgrimage, the desert mountain and the congregation founded in 1119. The broad, flat-cheeked structure is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md, third paragraph (William), its last clause, after 'where', capitalised; the chapter, which tells Prosper and William together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Bernardino Zenale, St. William of Vercelli and a monk",
+        "url": "https://commons.wikimedia.org/wiki/File:Bernardino_zenale,_san_guglielmo_da_vercelli_e_un_monaco_cistercense.jpg"
+      },
+      {
+        "title": "Wikipedia, William of Montevergine",
+        "url": "https://en.wikipedia.org/wiki/William_of_Montevergine"
+      },
+      {
+        "title": "Wikipedia (it), Guglielmo da Vercelli",
+        "url": "https://it.wikipedia.org/wiki/Guglielmo_da_Vercelli"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-25-prosper-of-aquitaine-st-william-of-monte-vergine (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

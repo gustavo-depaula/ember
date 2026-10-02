@@ -1,0 +1,41 @@
+{
+  "id": "gal_clermont",
+  "feast": {
+    "month": 7,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Gal",
+    "pt-BR": "São Galo"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Clermont",
+    "pt-BR": "Bispo de Clermont"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Saint, without making the least reply, arose meekly from his seat and went to visit the churches of the city.",
+    "pt-BR": "O Santo, sem dar a menor resposta, levantou-se mansamente do seu assento e foi visitar as igrejas da cidade."
+  },
+  "lifeChapter": "jul-01-gal",
+  "meta": {
+    "face": "An Auvergnat of about sixty, of good family, with a fair, softly ruddy complexion and a ROUND, SOFT, SMALL-FEATURED face — a broad, low forehead, full, ROUNDED cheeks, a SHORT, small, straight nose, ROUND, mild, pale-blue eyes set WIDE apart under THIN, HIGH, curved brows lifted as in patient surprise, a SMALL, soft, closed mouth, a round chin; a SHORT, neat, ROUNDED white beard and soft white hair cut short round a tonsure; the gaze mild and forgiving, a little downward.",
+    "basis": "No likeness survives. The book tells a noble of Clermont, born about 489, a monk of Cournon who became bishop of Auvergne in 527, known above all for his patience under injuries (struck on the head, insulted by the priest Evodius, he answered nothing), who died about 553; its engraving shows a kneeling man before a monk at a doorway. French Wikipedia (Gall Ier de Clermont) gives about 505–551, the uncle of Gregory of Tours. The round, soft face is our reading of that meekness.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jul-01-gal.md, third paragraph, the main clause of its second sentence (Evodius's insult); the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia (fr), Gall Ier de Clermont",
+        "url": "https://fr.wikipedia.org/wiki/Gall_Ier_de_Clermont"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jul-01-gal (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jul-01-gal.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

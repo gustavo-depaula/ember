@@ -1,0 +1,45 @@
+{
+  "id": "ladislas",
+  "feast": {
+    "month": 6,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Ladislas",
+    "pt-BR": "São Ladislau"
+  },
+  "patronOf": {
+    "en-US": "King of Hungary",
+    "pt-BR": "Rei da Hungria"
+  },
+  "prayerExcerpt": {
+    "en-US": "The Saints filled all their moments with good works and great actions.",
+    "pt-BR": "Os Santos enchiam todos os seus momentos de boas obras e de grandes ações."
+  },
+  "lifeChapter": "jun-27-ladislas",
+  "meta": {
+    "face": "A Magyar of about fifty, very tall and strongly built, with a fair, sun-warmed complexion and a LONG, HEXAGONAL face — a high, straight forehead, HIGH, ANGULAR cheekbones, the sides of the face falling STRAIGHT to a long jaw; a LONG, perfectly STRAIGHT, narrow nose whose high bridge runs in one line from the brow; LARGE, WIDE-OPEN, almond-shaped light-brown eyes under HIGH, clearly ARCHED brows; a long upper lip under a DROOPING moustache; a long, full, dark-blond beard CURLED and PARTED into TWO POINTS below the chin; thick dark-blond hair ROLLED in heavy curls at the sides and falling to the collar; the gaze open and steady, straight ahead.",
+    "basis": "No portrait from life survives. His reliquary bust at Győr (Wikipedia's lead image; the face may follow Béla III, a descendant) shows a long face with a long straight nose, large open eyes, a drooping moustache, a curled, forked beard and rolled locks; the Hungarian Wikipedia cites the sources' 'strong, huge-bodied man, standing a shoulder above the others', and art gives him the battle-axe. The book tells the king compelled to the throne in 1080, austere, just and merciful, who drove out the invaders and died in 1095 preparing for the Crusade.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-27-ladislas.md Reflection, first sentence, its first clause (before the semicolon) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Ladislaus I of Hungary (lead image: the herm at Győr)",
+        "url": "https://en.wikipedia.org/wiki/Ladislaus_I_of_Hungary"
+      },
+      {
+        "title": "Wikipedia (hu), I. László magyar király",
+        "url": "https://hu.wikipedia.org/wiki/I._L%C3%A1szl%C3%B3_magyar_kir%C3%A1ly"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-27-ladislas (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-27-ladislas.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}

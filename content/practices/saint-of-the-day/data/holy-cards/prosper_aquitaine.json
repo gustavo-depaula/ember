@@ -1,0 +1,45 @@
+{
+  "id": "prosper_aquitaine",
+  "feast": {
+    "month": 6,
+    "day": 25
+  },
+  "name": {
+    "en-US": "St. Prosper of Aquitaine",
+    "pt-BR": "São Próspero da Aquitânia"
+  },
+  "patronOf": {
+    "en-US": "Secretary to St. Leo the Great",
+    "pt-BR": "Secretário de São Leão Magno"
+  },
+  "prayerExcerpt": {
+    "en-US": "On account of the purity and sanctity of his manners, he is called by those of his age a holy and venerable man.",
+    "pt-BR": "Por causa da pureza e da santidade dos seus costumes, é chamado pelos da sua época de homem santo e venerável."
+  },
+  "lifeChapter": "jun-25-prosper-of-aquitaine-st-william-of-monte-vergine",
+  "meta": {
+    "face": "A Gallo-Roman of Aquitaine of about forty-five, CLEAN-SHAVEN, with a fair complexion slightly sallow from lamplight, and an OBLONG, FLAT-SIDED face — a TALL forehead whose dark hair RECEDES at the temples into a sharp WIDOW'S PEAK, a LONG, THIN, AQUILINE nose with a narrow bridge, SMALL, CLOSE-SET, keen grey eyes under straight, dark, level brows, FLAT, lean cheeks, a thin-lipped, firmly PRESSED mouth framed by DEEP lines running from nose to mouth, a LONG, SQUARE-ENDED chin; short, straight dark-brown hair combed forward at the sides; the gaze lowered to the page, intent.",
+    "basis": "No likeness survives. The book tells a layman of Aquitaine, born about 403, of great learning, called by his age 'a holy and venerable man', whom St. Leo the Great made his secretary in Rome and who fought the Pelagians; its engraving shows him at a writing table, his hand to his face. Wikipedia agrees (a layman, attached to Leo 'in some secretarial or notarial capacity', still living in 455–463). The oblong, clean-shaven face with the widow's peak is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md, first paragraph (Prosper), third sentence; the chapter, which tells Prosper and William together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Prosper of Aquitaine",
+        "url": "https://en.wikipedia.org/wiki/Prosper_of_Aquitaine"
+      },
+      {
+        "title": "Wikipedia (fr), Prosper d'Aquitaine",
+        "url": "https://fr.wikipedia.org/wiki/Prosper_d%27Aquitaine"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-25-prosper-of-aquitaine-st-william-of-monte-vergine (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-25-prosper-of-aquitaine-st-william-of-monte-vergine.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-31.md."
+      }
+    ]
+  }
+}
