@@ -7,6 +7,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, useThemeName, View, XStack } from 'tamagui'
 
 import { GlassSurface, ScreenLayout } from '@/components'
+import { dockedTabBarLift } from '@/components/tabAccessory'
 import { type SaintGrouping, SaintsGalleryHeader, SaintWall } from '@/features/saints/components'
 import { useSaintsCatalog } from '@/features/saints/data/catalog'
 import { normalizeForSearch } from '@/lib/search'
@@ -62,7 +63,7 @@ function GallerySearch({ query, onQuery }: { query: string; onQuery: (q: string)
     // Docked at the screen bottom; `closed` lifts it above the nav, and when the
     // keyboard opens it rides up to sit just above it (`opened` trims the gap).
     <KeyboardStickyView
-      offset={{ closed: -(insets.bottom + navGap), opened: -navGap }}
+      offset={{ closed: -(insets.bottom + dockedTabBarLift + navGap), opened: -navGap }}
       style={styles.dock}
     >
       <GlassSurface isDark={isDark} style={styles.pill}>

@@ -86,7 +86,13 @@ export function ConfirmHost() {
                 borderWidth={1}
                 borderColor="$borderColor"
               >
-                <Text fontFamily="$heading" fontSize="$2" color="$color" letterSpacing={1}>
+                <Text
+                  fontFamily="$heading"
+                  fontSize="$2"
+                  color="$color"
+                  letterSpacing={1}
+                  textAlign="center"
+                >
                   {cancelLabel}
                 </Text>
               </XStack>
@@ -109,6 +115,8 @@ export function ConfirmHost() {
                 fontSize="$2"
                 color={destructive ? 'white' : '$backgroundSurface'}
                 letterSpacing={1}
+                // A long label wraps to two lines in its half of the sheet.
+                textAlign="center"
               >
                 {confirmLabel}
               </Text>

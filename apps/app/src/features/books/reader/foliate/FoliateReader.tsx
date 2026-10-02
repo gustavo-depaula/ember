@@ -19,6 +19,14 @@ export type FoliateConfig = {
   flow: ReaderFlowMode
 }
 
+/** A font file for the WebView to register as an `@font-face` (see `readerFontFaces`). */
+export type ReaderFontFace = {
+  family: string
+  weight: number
+  style: 'normal' | 'italic'
+  base64: string
+}
+
 export type FoliateMessage =
   | { type: 'ready' }
   | { type: 'painted' }
@@ -98,6 +106,7 @@ type Props = {
   /** Element id to open at instead of the fraction (a cross-ref target). */
   initialElement?: string
   config: FoliateConfig
+  fontFaces: ReaderFontFace[]
   onMessage?: (msg: FoliateMessage) => void
 }
 
@@ -112,6 +121,7 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
     initialFraction = 0,
     initialElement,
     config,
+    fontFaces,
     onMessage,
   },
   ref,
@@ -145,9 +155,19 @@ export const FoliateReader = forwardRef<FoliateReaderHandle, Props>(function Fol
         initialFraction,
         initialElement,
         config,
+        fontFaces,
       }),
     [],
   )
+
+  // The first faces are baked into the host HTML; a change of reading font
+  // sends the new ones after it.
+  const sentFaces = useRef(fontFaces)
+  useEffect(() => {
+    if (sentFaces.current === fontFaces) return
+    sentFaces.current = fontFaces
+    inject(webViewRef, `window.__foliate?.setFontFaces(${JSON.stringify(fontFaces)});true;`)
+  }, [fontFaces])
 
   // Stringify-guard the config inject — identical configs (re-renders that
   // changed an unrelated prop) shouldn't trigger a full chapter re-blob.
@@ -287,6 +307,7 @@ function buildHostHtml({
   initialFraction,
   initialElement,
   config,
+  fontFaces,
 }: {
   chapterCount: number
   initialChapter: string
@@ -294,10 +315,11 @@ function buildHostHtml({
   initialFraction: number
   initialElement: string | undefined
   config: FoliateConfig
+  fontFaces: ReaderFontFace[]
 }): string {
   // Both scripts are .raw.js files bundled into TS modules by bundle.mjs and
   // run inside the WebView, not in this RN JS context.
-  const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)}, ${JSON.stringify(initialElement ?? null)});`
+  const initCall = `window.__foliateInit(${JSON.stringify(config)}, ${JSON.stringify(chapterCount)}, ${JSON.stringify(initialIndex)}, ${JSON.stringify(initialFraction)}, ${JSON.stringify(initialChapter)}, ${JSON.stringify(initialElement ?? null)}, ${JSON.stringify(fontFaces)});`
   return `<!doctype html>
 <html>
 <head>

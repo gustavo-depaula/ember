@@ -8,7 +8,7 @@
 // — that's the entire point of extracting it. It's never embedded in a
 // host-side template literal.
 
-window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction, initialChapter, initialElement) => {
+window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction, initialChapter, initialElement, initialFontFaces) => {
   const post = (msg) => {
     const json = JSON.stringify(msg);
     if (window.ReactNativeWebView) window.ReactNativeWebView.postMessage(json);
@@ -17,6 +17,24 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   window.onerror = (m, _u, l) => post({ type: 'error', message: String(m) + ' @' + l });
 
   let cfg = initialCfg;
+  // Font files the host hands over as base64 (Android: a WebView there cannot
+  // see the fonts the app loaded, so `font-family` alone falls back to the
+  // system serif). Each becomes a blob URL that the chapter documents — blobs
+  // of this same document — may load in an @font-face rule.
+  let fontFaceCss = '';
+  const fontFaceUrls = [];
+  const applyFontFaces = (faces) => {
+    for (const url of fontFaceUrls.splice(0)) URL.revokeObjectURL(url);
+    fontFaceCss = (faces || [])
+      .map((face) => {
+        const bytes = Uint8Array.from(atob(face.base64), (ch) => ch.charCodeAt(0));
+        const url = URL.createObjectURL(new Blob([bytes], { type: 'font/ttf' }));
+        fontFaceUrls.push(url);
+        return `@font-face { font-family: '${face.family}'; font-weight: ${face.weight}; font-style: ${face.style}; src: url(${url}); }`;
+      })
+      .join('\n');
+  };
+  applyFontFaces(initialFontFaces);
   let chapterTotal = chapterCount;
   // One Map<index, {body?, url?, pending?}>. Map insertion order is recency
   // for the LRU pass below — a long reading session would otherwise grow this
@@ -45,7 +63,13 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
   const overlayers = new Map(); // index -> HighlightOverlayer
   let selectionDebounce;
 
+  // Blink sizes a floated ::first-letter from the font's own ascent and
+  // descent, a touch taller than WebKit's box: at WebKit's size the versal
+  // overruns its two lines and indents a third.
+  const dropCapSize = /Android/.test(navigator.userAgent) ? '3em' : '3.4em';
+
   const buildStyle = (c) => `
+    ${fontFaceCss}
     html, body { margin: 0; padding: 0; height: 100%; background: ${c.background}; color: ${c.color}; }
     body {
       font-family: ${c.fontFamily}, Georgia, 'Times New Roman', serif;
@@ -92,7 +116,7 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     }
     h2.chapter-title + p:not(.no-dropcap)::first-letter {
       font-family: inherit;
-      font-size: 3.4em;
+      font-size: ${dropCapSize};
       line-height: 0.88;
       font-weight: 600;
       float: left;
@@ -831,6 +855,11 @@ window.__foliateInit = (initialCfg, chapterCount, initialIndex, initialFraction,
     goToElement: (index, id) => {
       if (!paginator) return;
       paginator.goTo({ index: index ?? 0, anchor: elementAnchor(id) });
+    },
+    setFontFaces: (faces) => {
+      applyFontFaces(faces);
+      // Re-blob and restyle exactly as a config change does.
+      window.__foliate.setConfig(cfg);
     },
     setConfig: (newCfg) => {
       cfg = newCfg;

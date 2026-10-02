@@ -24,10 +24,24 @@ const webShims = {
 	'@expo/ui/swift-ui/modifiers': path.resolve(__dirname, 'src/lib/web-shims/swift-ui.tsx'),
 }
 
+// Material's modal sheet ignores a lone snap point and opens full-screen; the
+// Android stand-in sizes the sheet to that point instead. It wraps the real
+// module, so its own import of it passes through.
+const androidShims = {
+	'@expo/ui/community/bottom-sheet': path.resolve(
+		__dirname,
+		'src/lib/android-shims/bottom-sheet.tsx',
+	),
+}
+
 const defaultResolveRequest = config.resolver.resolveRequest
 config.resolver.resolveRequest = (context, moduleName, platform) => {
 	const shim = platform === 'web' ? webShims[moduleName] : undefined
 	if (shim) return { type: 'sourceFile', filePath: shim }
+	const androidShim = platform === 'android' ? androidShims[moduleName] : undefined
+	if (androidShim && context.originModulePath !== androidShim) {
+		return { type: 'sourceFile', filePath: androidShim }
+	}
 	return (defaultResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
 }
 

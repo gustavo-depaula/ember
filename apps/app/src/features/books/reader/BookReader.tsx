@@ -58,6 +58,7 @@ import { ReaderSelectionToolbar } from './ReaderSelectionToolbar'
 import { ReaderSettingsSheet } from './ReaderSettingsSheet'
 import { ReaderTapHint } from './ReaderTapHint'
 import { ReaderTocSheet } from './ReaderTocSheet'
+import { useReaderFontFaces } from './readerFontFaces'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
 import { getReadingStreak, touchReadingStreak } from './readingStreak'
 import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
@@ -191,6 +192,7 @@ export function BookReader({ bookId, chapter }: Props) {
   )
 
   const rawConfig = useReaderConfig()
+  const fontFaces = useReaderFontFaces(usePreferencesStore((s) => s.fontFamily))
   const cursor = useReaderCursor(bookId)
 
   // Per-book palette override, held in state so toggling it from the settings
@@ -946,7 +948,7 @@ export function BookReader({ bookId, chapter }: Props) {
     )
   }
 
-  if (isLoading || !session || initialChapter === undefined) {
+  if (isLoading || !session || initialChapter === undefined || !fontFaces) {
     return (
       <LoadingPane
         background={config.background}
@@ -971,6 +973,7 @@ export function BookReader({ bookId, chapter }: Props) {
         initialFraction={startFraction}
         initialElement={startElement}
         config={config}
+        fontFaces={fontFaces}
         onMessage={onMessage}
       />
 
