@@ -9,7 +9,12 @@ export { InlineRetry } from './InlineRetry'
 export { ProducerHtmlBlock } from './include'
 export { LanguageSettings } from './LanguageSettings'
 export { ManuscriptFrame } from './ManuscriptFrame'
-export { ObligationBadges } from './ObligationBadges'
+export {
+  type ObligationBadge,
+  ObligationBadges,
+  ObligationModal,
+  obligationBadges,
+} from './ObligationBadges'
 export {
   CornerFlourish,
   OrnamentalRule,
