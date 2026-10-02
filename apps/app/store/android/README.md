@@ -21,6 +21,7 @@ deploy on merge to `main`).
 
 ```bash
 pnpm build:production:android   # EAS: signed .aab, versionCode auto-incremented
+pnpm build:apk:cloud            # EAS: an installable .apk with a download link
 pnpm submit:android             # EAS: upload to the internal track as a draft
 ```
 
