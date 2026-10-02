@@ -1,0 +1,166 @@
+{
+  "batch": 58,
+  "date": "2026-10-02",
+  "dossier": "dossiers/batch-58.md",
+  "cards": [
+    {
+      "id": "consecration_host",
+      "letter": "C",
+      "kind": "mass",
+      "order": 30,
+      "name": {
+        "en-US": "Consecration of the Host",
+        "pt-BR": "Consagração da Hóstia"
+      },
+      "patronOf": {
+        "en-US": "The bread becomes the Body of Christ",
+        "pt-BR": "O pão torna-se o Corpo de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "For this is My Body.",
+        "pt-BR": "Pois isto é o meu Corpo."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the words of consecration of the Host (printed in capitals in the source, set in sentence case; verbatim otherwise)",
+      "subject": "The LAST attached card is the Elevation of the Host from this same set and shows this same Mass. Paint the SAME church and the same sanctuary: the same white-and-gold high altar with its gradines, six tall lit candles, crucifix, three altar cards and white-veiled tabernacle, the same priest in the same white-and-gold Roman fiddleback chasuble with maniple over a lace alb, the same servers in cassock and lace surplice, the same thurifer and the same four torchbearers, each in the same place, so that the cards read as one sequence. This card is the moment BEFORE that elevation, the Consecration of the Host, seen from the same foot of the altar steps but a few paces to the right, so that the priest is seen from behind and from his right side and his hands show beyond his arm. The priest bows low over the altar, his forearms resting on it, his head inclined, holding the large white Host just above the white corporal between the thumbs and forefingers of both hands, his eyes on it, saying the words of consecration in silence; beside it on the corporal stands the golden chalice covered with its white pall. No one lifts the chasuble and no bell rings: the server on the edge of the foot-pace kneels with joined hands, the second server kneels on the step with the small bell resting beside him, the thurifer kneels with the thurible hanging still on its chains, a thin thread of smoke rising, and the four torchbearers kneel in a line holding their tall lit torches. At the very bottom of the arch, the heads and shoulders of the faithful kneeling at the altar rail, seen from behind, the women veiled. Figures small in the scene. Hushed, breathless, hidden. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas",
+        "elevation_host"
+      ],
+      "basis": "The priest 'cubitis super Altare positis, stans capite inclinato, distincte, reverenter et secreto profert verba consecrationis' over the Host, which he holds 'pollicibus et indicibus' (Ritus servandus VIII.5); 'he now bows over the altar, leaning the forearms on it' (Fortescue, l. 4871–4874). The chalice is still covered. The server lifts the chasuble and rings only at the elevations (VIII.6; Fortescue, l. 6384–6390, 6403), the thurifer incenses only then (VIII.8), and the torches are held from the Sanctus (Fortescue, l. 9613–9617).",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Consecration of the Host"
+    },
+    {
+      "id": "elevation_host",
+      "letter": "E",
+      "kind": "mass",
+      "order": 31,
+      "name": {
+        "en-US": "Elevation of the Host",
+        "pt-BR": "Elevação da Hóstia"
+      },
+      "patronOf": {
+        "en-US": "The Body of Christ is shown to the people",
+        "pt-BR": "O Corpo de Cristo é mostrado ao povo"
+      },
+      "prayerExcerpt": {
+        "en-US": "My Lord and my God.",
+        "pt-BR": "Meu Senhor e meu Deus."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the rubric after the consecration of the Host, 'Look up at the Sacred Host, with faith, piety, and love, saying: \"My Lord and my God.\"' (the words the rubric gives the faithful; verbatim in both languages)",
+      "subject": "The Elevation of the Host at a sung Mass, seen straight on from the foot of the altar steps, the altar the centre. At a white-and-gold high altar with gradines, six tall lit candles, a crucifix, the three altar cards and the tabernacle veiled in white, the priest, in a white-and-gold Roman fiddleback chasuble with the maniple on his left arm, over an amice and a lace-trimmed alb, seen from behind, facing the altar, raises the white Host high above his head with both hands. Behind him, kneeling on the edge of the foot-pace, a server in cassock and white lace surplice lifts the hem of the chasuble with one hand; on the step at the right a second server kneels and rings a small bell; at the side a kneeling thurifer swings a smoking thurible toward the Host; four torchbearers kneel in a line across the sanctuary floor, holding tall lit torches. Soft golden rays fall from above onto the Host. At the very bottom of the arch, the heads and shoulders of the faithful kneeling at the altar rail, seen from behind, the women veiled. Figures small in the scene. Adoring, still. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas"
+      ],
+      "basis": "After the words of consecration the priest genuflects, then 'elevat in altum Hostiam, et intentis in eam oculis populo reverenter ostendit adorandam' (Ritus servandus VIII.5). Meanwhile the server 'manu sinistra elevat fimbrias posteriores Planetae, ne ipsum Celebrantem impediat in elevatione brachiorum … et manu dextera pulsat campanulam ter ad unamquamque elevationem' (VIII.6); the thurifer, kneeling, incenses the Host three times (VIII.8; Fortescue, l. 9949–9962). The picture is the Consecration card of batch 47, with its initial changed from C to E.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Elevation of the Host"
+    },
+    {
+      "id": "consecration_chalice",
+      "letter": "C",
+      "kind": "mass",
+      "order": 32,
+      "name": {
+        "en-US": "Consecration of the Chalice",
+        "pt-BR": "Consagração do Cálice"
+      },
+      "patronOf": {
+        "en-US": "The wine becomes the Blood of Christ",
+        "pt-BR": "O vinho torna-se o Sangue de Cristo"
+      },
+      "prayerExcerpt": {
+        "en-US": "For this is the Chalice of My Blood of the new and eternal Testament, the Mystery of Faith; which shall be shed for you and for many unto the remission of sins.",
+        "pt-BR": "Pois isto é o Cálice do meu Sangue do novo e eterno Testamento, mistério da fé, que será derramado por vós e por muitos, para remissão dos pecados."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the words of consecration of the Chalice (printed in capitals in the source, set in sentence case; verbatim otherwise)",
+      "subject": "The LAST attached card is the Consecration of the Host from this same set and shows this same Mass a moment earlier. Paint EXACTLY the same view: the same church and sanctuary seen from the same place and the same angle, the same white-and-gold high altar in the same position in the picture, with its gradines, six tall lit candles, crucifix, three altar cards and white-veiled tabernacle, the same priest in the same white-and-gold Roman fiddleback chasuble with maniple over a lace alb standing in the same place and facing the same way, the same servers in cassock and lace surplice, the same thurifer and the same four torchbearers, each in the same place, so that the two cards read as one sequence. Only the gesture differs. This card is the Consecration of the Chalice: the priest bows low over the altar, his forearms resting on it, his head inclined, holding the uncovered golden CHALICE a little raised above the white corporal with both hands, his right hand at its knob and his left under its foot, his eyes on it, saying the words of consecration in silence; before the chalice the consecrated white Host lies on the corporal, and the white pall lies to one side. No one lifts the chasuble and no bell rings: the server on the edge of the foot-pace kneels with joined hands, the second server kneels on the step with the small bell resting beside him, the thurifer kneels with the thurible hanging still on its chains, a thin thread of smoke rising, and the four torchbearers kneel in a line holding their tall lit torches. At the very bottom of the arch, the heads and shoulders of the faithful kneeling at the altar rail, seen from behind, the women veiled. Figures small in the scene. Hushed, breathless, hidden. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas",
+        "consecration_host"
+      ],
+      "basis": "The priest holds the chalice 'ambabus manibus … videlicet sinistra pedem, dextera nodum infra cuppam, cubitis super Altare positis, et capite inclinato, profert attente, continuate et secreto … verba consecrationis Sanguinis', 'tenens illum parum elevatum' (Ritus servandus VIII.7; DO Latin Ordo; Fortescue, l. 4945–4953). The Host has been laid back on the corporal (VIII.5). The server lifts the chasuble and rings only at the elevations (VIII.6).",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Consecration of the Chalice"
+    },
+    {
+      "id": "elevation_chalice",
+      "letter": "E",
+      "kind": "mass",
+      "order": 33,
+      "name": {
+        "en-US": "Elevation of the Chalice",
+        "pt-BR": "Elevação do Cálice"
+      },
+      "patronOf": {
+        "en-US": "The Blood of Christ is shown to the people",
+        "pt-BR": "O Sangue de Cristo é mostrado ao povo"
+      },
+      "prayerExcerpt": {
+        "en-US": "As often as ye do these things, ye shall do them in remembrance of Me.",
+        "pt-BR": "Todas as vezes que fizerdes isto, fazei-o em memória de mim."
+      },
+      "excerptSource": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: Haec quotiescumque, said as the priest sets the chalice down before he adores and elevates it (whole; verbatim in both languages)",
+      "subject": "The LAST attached card is the Elevation of the Host from this same set and shows this same Mass. Paint the SAME church and the same sanctuary: the same white-and-gold high altar with its gradines, six tall lit candles, crucifix, three altar cards and white-veiled tabernacle, the same priest in the same white-and-gold Roman fiddleback chasuble with maniple over a lace alb, the same servers in cassock and lace surplice, the same thurifer and the same four torchbearers, each in the same place, so that the cards read as one sequence. This card is the Elevation of the Chalice, seen from EXACTLY the same place as that card, straight on from the foot of the altar steps, the altar the centre. Only the gesture differs: the priest, seen from behind, facing the altar, raises the golden CHALICE (not the Host) high above his head with both hands, one hand at its knob and one at its foot. Behind him, kneeling on the edge of the foot-pace, the server lifts the hem of the chasuble with one hand; on the step at the right the second server kneels and rings the small bell; the kneeling thurifer swings the smoking thurible toward the Chalice; the four torchbearers kneel in a line across the sanctuary floor, holding their tall lit torches. Soft golden rays fall from above onto the Chalice. At the very bottom of the arch, the heads and shoulders of the faithful kneeling at the altar rail, seen from behind, the women veiled. Figures small in the scene. Adoring, still. Keep everything inside the pointed arch. The card's frame is exactly the attached cards': the coloured initial box at the top-left, one vine-and-flower band to its right along the top and one along the bottom, plain parchment margins down the sides, and the arched window ending ABOVE the bottom band.",
+      "face": "-",
+      "frame": "the inner window is a POINTED GOTHIC ARCH with slender gold tracery at its tip, like a sanctuary seen through a church arch; no halo",
+      "refs": [
+        "exaltation_cross",
+        "annunciation",
+        "thomas_aquinas",
+        "elevation_host"
+      ],
+      "basis": "Having said Haec quotiescumque the priest genuflects, then, 'accipiens Calicem discoopertum cum Sanguine ambabus manibus, ut prius, elevat eum, et erectum quantum commode potest, ostendit populo adorandum' (Ritus servandus VIII.7). The server lifts the chasuble and rings as at the Host, 'quod et facit in elevatione Calicis' (VIII.6), and the thurifer incenses 'similiter Calicem' (VIII.8). The Mystery of Faith card shows the same elevation from among the people.",
+      "sources": [
+        {
+          "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+          "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+        },
+        {
+          "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+          "url": "https://archive.org/details/ceremoniesofrom00fort"
+        }
+      ],
+      "catalogMatch": "Elevation of the Chalice"
+    }
+  ]
+}

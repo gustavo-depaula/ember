@@ -1,0 +1,38 @@
+{
+  "id": "consecration_chalice",
+  "kind": "mass",
+  "order": 32,
+  "name": {
+    "en-US": "Consecration of the Chalice",
+    "pt-BR": "Consagração do Cálice"
+  },
+  "patronOf": {
+    "en-US": "The wine becomes the Blood of Christ",
+    "pt-BR": "O vinho torna-se o Sangue de Cristo"
+  },
+  "prayerExcerpt": {
+    "en-US": "For this is the Chalice of My Blood of the new and eternal Testament, the Mystery of Faith; which shall be shed for you and for many unto the remission of sins.",
+    "pt-BR": "Pois isto é o Cálice do meu Sangue do novo e eterno Testamento, mistério da fé, que será derramado por vós e por muitos, para remissão dos pecados."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest holds the chalice 'ambabus manibus … videlicet sinistra pedem, dextera nodum infra cuppam, cubitis super Altare positis, et capite inclinato, profert attente, continuate et secreto … verba consecrationis Sanguinis', 'tenens illum parum elevatum' (Ritus servandus VIII.7; DO Latin Ordo; Fortescue, l. 4945–4953). The Host has been laid back on the corporal (VIII.5). The server lifts the chasuble and rings only at the elevations (VIII.6).",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the words of consecration of the Chalice (printed in capitals in the source, set in sentence case; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-58.md."
+      }
+    ]
+  }
+}

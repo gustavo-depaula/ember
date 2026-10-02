@@ -71,6 +71,8 @@ Close, over the priest's shoulder, looking down onto the altar: his hands held o
 
 ## Consecration (`consecration`)
 
+*Since batch 58 this card is `elevation_host`, the Elevation of the Host: the same picture with its initial changed from C to E, the second of the four cards of the Consecration (`dossiers/batch-58.md`).*
+
 As `x_consecration` (Decision 7): straight on from the foot of the steps, the Host raised high, the bell and the thurible, the faithful kneeling.
 
 - Excerpt: "Take this, all of you, and eat of it, for this is my body, which will be given up for you." / "Tomai, todos, e comei: Isto é o meu Corpo, que será entregue por vós."

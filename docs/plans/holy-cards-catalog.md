@@ -19,10 +19,10 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Angels | 4 | 4 |
 | Mysteries of the Rosary (not shared with a feast) | 9 | 9 |
 | Seasons (including the 4 Ember Days) | 19 | 19 |
-| Parts of the Mass | 47 | 47 |
+| Parts of the Mass | 50 | 50 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 629 cards, 629 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 632 cards, 632 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -629,7 +629,7 @@ The twenty mysteries, as named in `content/practices/rosary`. A mystery that a f
 
 **Introductory Rites** — [x] Entrance and Sign of the Cross — `entrance` · [x] Greeting — `greeting` · [x] Penitential Act — `penitential_act` · [x] Kyrie — `kyrie` · [x] Gloria — `gloria` · [x] Collect — `collect`
 **Liturgy of the Word** — [x] First Reading — `first_reading` · [x] Responsorial Psalm — `responsorial_psalm` · [x] Second Reading — `second_reading` · [x] Gospel Acclamation — `gospel_acclamation` · [x] Gospel — `gospel` · [x] Homily — `homily` · [x] Profession of Faith — `profession_of_faith` · [x] Universal Prayer — `universal_prayer`
-**Liturgy of the Eucharist** — [x] Preparation of the Gifts — `preparation_of_gifts` · [x] Prayer over the Offerings — `prayer_over_offerings` · [x] Preface Dialogue and Preface — `preface` · [x] Sanctus — `sanctus` · [x] Epiclesis — `epiclesis` · [x] Consecration — `consecration` · [x] Mystery of Faith — `mystery_of_faith` · [x] Doxology and Great Amen — `doxology_amen`
+**Liturgy of the Eucharist** — [x] Preparation of the Gifts — `preparation_of_gifts` · [x] Prayer over the Offerings — `prayer_over_offerings` · [x] Preface Dialogue and Preface — `preface` · [x] Sanctus — `sanctus` · [x] Epiclesis — `epiclesis` · [x] Consecration of the Host — `consecration_host` · [x] Elevation of the Host — `elevation_host` · [x] Consecration of the Chalice — `consecration_chalice` · [x] Elevation of the Chalice — `elevation_chalice` · [x] Mystery of Faith — `mystery_of_faith` · [x] Doxology and Great Amen — `doxology_amen`
 **Communion Rite** — [x] The Lord's Prayer — `lords_prayer` · [x] Sign of Peace — `sign_of_peace` · [x] Agnus Dei and the Fraction — `agnus_dei` · [x] Communion — `holy_communion` · [x] Prayer after Communion — `prayer_after_communion`
 **Concluding Rites** — [x] Blessing — `final_blessing` · [x] Dismissal — `dismissal`
 **Parts of the traditional Latin Mass with no card above** — [x] Prayers at the Foot of the Altar — `prayers_foot_altar` · [x] Incensing of the Altar — `incensing_altar` · [x] Introit — `introit` · [x] Munda Cor Meum — `munda_cor` · [x] Mingling of the Water and Wine — `water_and_wine` · [x] Veni, Sanctificator — `veni_sanctificator` · [x] Washing of the Hands — `washing_of_hands` · [x] Orate, Fratres — `orate_fratres` · [x] Te Igitur — `te_igitur` · [x] Memento of the Living — `memento_living` · [x] Memento of the Dead — `memento_dead` · [x] Nobis Quoque Peccatoribus — `nobis_quoque` · [x] Libera Nos — `libera_nos` · [x] Domine, Non Sum Dignus — `domine_non_sum_dignus` · [x] Ablutions — `ablutions` · [x] Placeat Tibi — `placeat` · [x] Last Gospel — `last_gospel` · [x] Leonine Prayers — `leonine_prayers`

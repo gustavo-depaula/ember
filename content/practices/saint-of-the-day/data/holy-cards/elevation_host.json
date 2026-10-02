@@ -1,0 +1,38 @@
+{
+  "id": "elevation_host",
+  "kind": "mass",
+  "order": 31,
+  "name": {
+    "en-US": "Elevation of the Host",
+    "pt-BR": "Elevação da Hóstia"
+  },
+  "patronOf": {
+    "en-US": "The Body of Christ is shown to the people",
+    "pt-BR": "O Corpo de Cristo é mostrado ao povo"
+  },
+  "prayerExcerpt": {
+    "en-US": "My Lord and my God.",
+    "pt-BR": "Meu Senhor e meu Deus."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the words of consecration the priest genuflects, then 'elevat in altum Hostiam, et intentis in eam oculis populo reverenter ostendit adorandam' (Ritus servandus VIII.5). Meanwhile the server 'manu sinistra elevat fimbrias posteriores Planetae, ne ipsum Celebrantem impediat in elevatione brachiorum … et manu dextera pulsat campanulam ter ad unamquamque elevationem' (VIII.6); the thurifer, kneeling, incenses the Host three times (VIII.8; Fortescue, l. 9949–9962). The picture is the Consecration card of batch 47, with its initial changed from C to E.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: the rubric after the consecration of the Host, 'Look up at the Sacred Host, with faith, piety, and love, saying: \"My Lord and my God.\"' (the words the rubric gives the faithful; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "The Consecration card of batch 47, renamed: its picture is the elevation of the Host. Only the initial was changed, C to E; the excerpt and basis are now the traditional rite's (dossiers/batch-58.md)."
+      }
+    ]
+  }
+}

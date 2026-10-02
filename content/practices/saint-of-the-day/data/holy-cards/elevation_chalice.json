@@ -1,0 +1,38 @@
+{
+  "id": "elevation_chalice",
+  "kind": "mass",
+  "order": 33,
+  "name": {
+    "en-US": "Elevation of the Chalice",
+    "pt-BR": "Elevação do Cálice"
+  },
+  "patronOf": {
+    "en-US": "The Blood of Christ is shown to the people",
+    "pt-BR": "O Sangue de Cristo é mostrado ao povo"
+  },
+  "prayerExcerpt": {
+    "en-US": "As often as ye do these things, ye shall do them in remembrance of Me.",
+    "pt-BR": "Todas as vezes que fizerdes isto, fazei-o em memória de mim."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "Having said Haec quotiescumque the priest genuflects, then, 'accipiens Calicem discoopertum cum Sanguine ambabus manibus, ut prius, elevat eum, et erectum quantum commode potest, ostendit populo adorandum' (Ritus servandus VIII.7). The server lifts the chasuble and rings as at the Host, 'quod et facit in elevatione Calicis' (VIII.6), and the thurifer incenses 'similiter Calicem' (VIII.8). The Mystery of Faith card shows the same elevation from among the people.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon: Haec quotiescumque, said as the priest sets the chalice down before he adores and elevates it (whole; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-58.md."
+      }
+    ]
+  }
+}
