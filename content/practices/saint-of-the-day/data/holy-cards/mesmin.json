@@ -1,0 +1,45 @@
+{
+  "id": "mesmin",
+  "feast": {
+    "month": 12,
+    "day": 15
+  },
+  "name": {
+    "en-US": "St. Mesmin",
+    "pt-BR": "São Mesmin"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Micy",
+    "pt-BR": "Abade de Micy"
+  },
+  "prayerExcerpt": {
+    "en-US": "Few are called to serve God by great actions, but all are bound to strive after perfection in the ordinary actions of their daily life.",
+    "pt-BR": "Poucos são chamados a servir a Deus por grandes ações, mas todos estão obrigados a buscar a perfeição nas ações ordinárias de sua vida cotidiana."
+  },
+  "lifeChapter": "dec-15-mesmin",
+  "meta": {
+    "face": "A Frank of Verdun of about forty-five with a fair, ruddy complexion and a face WIDE at the BROW and NARROW at the JAW — a broad, high forehead, a LONG, THIN, gently AQUILINE nose, CLOSE-SET, bright hazel eyes creased by a ready smile under straight, dark-brown brows, lean cheeks, a wide, generous mouth, a NARROW, pointed chin under a SHORT, NEAT chestnut beard; thick chestnut hair around a monastic tonsure; the look warm and open-handed. Not avitus (also of Micy: lean, flat, wide, snub-nosed), the concave-profiled, clean-shaven eucherius_orleans of the same city, the round, small-featured gal_clermont, the hexagonal omer or the elfin john_egypt.",
+    "basis": "No likeness survives, and Santi e Beati's notice warns that his Life was written three centuries later. The age follows the book (he came young with his uncle and ruled Micy ten years before dying in 520); the wheat and bread are the book's famine, when he 'fed nearly the whole city of Orleans with wheat from his monastery'. Micy on the Loire is from the book and the Martyrology; the serpent is left off.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-15-mesmin.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia (fr), Maximin de Micy (lead: stained glass, église Saint-Mesmin)",
+        "url": "https://fr.wikipedia.org/wiki/Maximin_de_Micy"
+      },
+      {
+        "title": "Santi e Beati, San Massimino di Micy (Roman Martyrology entry, 15 December)",
+        "url": "https://www.santiebeati.it/dettaglio/81560"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-15-mesmin (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-15-mesmin.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

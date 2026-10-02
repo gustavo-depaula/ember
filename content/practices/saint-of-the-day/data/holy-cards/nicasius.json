@@ -1,0 +1,49 @@
+{
+  "id": "nicasius",
+  "feast": {
+    "month": 12,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Nicasius",
+    "pt-BR": "São Nicásio"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Rheims, martyr",
+    "pt-BR": "Bispo de Reims, mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Bear patiently and sweetly bodily sufferings, and prepare for the day of trial by the courageous endurance of the daily crosses incident to your state.",
+    "pt-BR": "Suporta com paciência e doçura os sofrimentos corporais, e prepara-te para o dia da provação pela corajosa resistência às cruzes diárias inerentes ao teu estado."
+  },
+  "lifeChapter": "dec-14-nicasius",
+  "meta": {
+    "face": "A Gallo-Roman of about fifty-five with a fair complexion and a FULL, SOFT, OVAL face, fleshy at the jowls — a broad, smooth forehead with a few worried lines, a BROAD, LOW-bridged nose with a ROUND tip, LARGE, ROUND, pale-grey eyes under brows RAISED at their inner ends in fatherly concern, full cheeks, full lips; a THICK, CURLED, chestnut-grey beard cut ROUND, and short, CURLY chestnut-grey hair; the look anxious for his flock yet steadfast. Not his successor remigius (very tall, long, noble and smooth), the broad, short, square-jawed, tight-curled denis, the lantern-jawed gregory_langres, the Roman-nosed mammertus or the long, parallel-sided lambert.",
+    "basis": "No likeness survives. The curled beard and curly hair follow the thirteenth-century portal statue at Rheims cathedral on French Wikipedia; the anxious, fatherly look follows the book ('forgetting himself, and solicitous only for his spiritual children'). The statue shows him carrying the top of his own head: that, the barbarians and his companions Eutropia, Florens and Jocond are left off.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-14-nicasius.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Nicasius of Rheims (lead: stained glass of his martyrdom)",
+        "url": "https://en.wikipedia.org/wiki/Nicasius_of_Rheims"
+      },
+      {
+        "title": "Wikipedia (fr), Nicaise de Reims (lead: portal statue, Rheims cathedral)",
+        "url": "https://fr.wikipedia.org/wiki/Nicaise_de_Reims"
+      },
+      {
+        "title": "Santi e Beati, San Nicasio di Reims (Roman Martyrology entry, 14 December)",
+        "url": "https://www.santiebeati.it/dettaglio/81400"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-14-nicasius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-14-nicasius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

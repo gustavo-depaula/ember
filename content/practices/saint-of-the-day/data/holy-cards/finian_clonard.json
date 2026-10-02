@@ -1,0 +1,45 @@
+{
+  "id": "finian_clonard",
+  "feast": {
+    "month": 12,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Finian",
+    "pt-BR": "São Finiano"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Clonard",
+    "pt-BR": "Bispo de Clonard"
+  },
+  "prayerExcerpt": {
+    "en-US": "In the love of his flock and his zeal for their salvation he was infirm with the infirm, and wept with those that wept.",
+    "pt-BR": "No amor de seu rebanho e em seu zelo pela salvação deles, era enfermo com os enfermos, e chorava com os que choravam."
+  },
+  "lifeChapter": "dec-12-valery",
+  "meta": {
+    "face": "A Leinsterman of about eighty with a fair, pink, soft complexion and a SHORT, BROAD face, ROUND at the jaw — the front of the head shaved from ear to ear in the Irish tonsure, leaving a broad, high forehead, with fine white hair falling behind the ears; a BROAD, fleshy nose with a ROUNDED tip, WIDE-SET, moist, gentle blue-grey eyes whose inner brows are LIFTED in COMPASSION, soft, full cheeks, a small, tender mouth; a FULL, SOFT, WAVY WHITE beard reaching the breast; the look of one who weeps with those who weep. Not columba (clean-shaven, broad and ruddy), the long, narrow, receding-chinned finbarr, the long, big-boned columban, the compact, square gall, the heavy-browed david_wales, the smooth, clean-shaven malachi_armagh or valery on the same day (lean, narrow, short brown beard).",
+    "basis": "No likeness survives. The compassionate face follows the book ('he was infirm with the infirm, and wept with those that wept'); the white beard and the crozier follow the statue at Clonard on English Wikipedia; the Irish tonsure is the one on the other Irish monks' cards. The school of monks follows the Martyrology ('padre e maestro di una grande schiera di monaci') and Santi e Beati's notice ('maestro dei santi d'Irlanda').",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-12-valery.md, second paragraph (his), fourth sentence; the chapter, which tells Valery and Finian together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Finnian of Clonard (lead: statue at Clonard)",
+        "url": "https://en.wikipedia.org/wiki/Finnian_of_Clonard"
+      },
+      {
+        "title": "Santi e Beati, San Finniano di Clonard (Roman Martyrology entry, 12 December)",
+        "url": "https://www.santiebeati.it/dettaglio/93212"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-12-valery (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-12-valery.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

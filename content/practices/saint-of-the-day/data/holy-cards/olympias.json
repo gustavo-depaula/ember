@@ -1,0 +1,45 @@
+{
+  "id": "olympias",
+  "feast": {
+    "month": 12,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Olympias",
+    "pt-BR": "Santa Olímpia"
+  },
+  "patronOf": {
+    "en-US": "Widow and deaconess",
+    "pt-BR": "Viúva e diaconisa"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Lay not up to yourselves treasures on earth, but in heaven, where neither rust nor moth doth consume.\"",
+    "pt-BR": "\"Não ajunteis para vós tesouros na terra, mas no céu, onde nem a ferrugem nem a traça os consomem.\""
+  },
+  "lifeChapter": "dec-17-olympias",
+  "meta": {
+    "face": "A Greek noblewoman of about forty with a pale, ivory complexion and a SQUARE-OVAL face with a BROAD, STRAIGHT JAW — a smooth, broad forehead, a straight nose with a slight AQUILINE bump high on the bridge, VERY LARGE, dark, DEEP-SET, luminous eyes under THICK, dark brows that nearly MEET over the nose, cheeks a little thinned by fasting, a FULL, closed mouth, a firm, rounded chin; dark hair hidden under the veil but for a parting; the look calm and self-possessed. Not the old, heart-shaped marcella, the round, full bathildes, the short, wide radegundes, the lean, droop-eyed clotilda helena (long face, Roman nose) or the young, full-oval, light-eyed barbara.",
+    "basis": "No likeness survives. The large, dark eyes and heavy brows follow the icon on English Wikipedia, as a Byzantine woman of rank; the age follows Wikipedia (born about 365, died 408). The altar linen is the book's ('the duties of which were to prepare the altar linen'); the plain dress follows her giving her fortune to the poor. St. John Chrysostom is left off.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-17-olympias.md Reflection, the whole of it (Matthew 6:19–20) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Olympias the Deaconess (lead: icon)",
+        "url": "https://en.wikipedia.org/wiki/Olympias_the_Deaconess"
+      },
+      {
+        "title": "Santi e Beati, Sant'Olimpia (Olimpiade) (Roman Martyrology entry, 25 July)",
+        "url": "https://www.santiebeati.it/dettaglio/81900"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-17-olympias (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-17-olympias.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

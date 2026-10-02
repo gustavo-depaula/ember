@@ -1,0 +1,45 @@
+{
+  "id": "sabas",
+  "feast": {
+    "month": 12,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Sabas",
+    "pt-BR": "São Sabas"
+  },
+  "patronOf": {
+    "en-US": "Patriarch of the monks of Palestine",
+    "pt-BR": "Patriarca dos monges da Palestina"
+  },
+  "prayerExcerpt": {
+    "en-US": "He was at first unwilling to consent, but finally founded a new monastery of persons all desirous to devote themselves to praise and serve God without interruption.",
+    "pt-BR": "A princípio relutou em consentir, mas finalmente fundou um novo mosteiro de pessoas todas desejosas de dedicar-se a louvar e servir a Deus sem interrupção."
+  },
+  "lifeChapter": "dec-05-sabas",
+  "meta": {
+    "face": "A Cappadocian Greek of about eighty-five, still upright, with a dry, sun-browned olive complexion and a TALL, OVAL face — a HIGH, ROUNDED forehead crossed by fine lines under THICK white hair brushed straight back to the nape (NOT bald), a LONG, straight nose with a sharply CHISELLED, slightly HOOKED tip, deep-set, keen grey eyes under high, ARCHED white brows, HOLLOW cheeks below clear cheekbones, a thin, firm mouth; a LONG white beard reaching the breast and DIVIDED at the end into TWO POINTS, as the Painter's Manual has him; the gaze searching and kind. Not the bald, broad, flat-faced theodosius_cenobiarch, his disciple john_silent (broad-templed, hump-nosed, eyes lowered), the convex-profiled, receding-chinned hilarion, the long, rectangular, furrow-browed john_climacus or the hooded, triangular anthony_abbot.",
+    "basis": "No likeness survives. The Painter's Manual of Dionysius of Fourna (`consult/hermeneia-ocr.txt`, line 7396, 5 December) gives him 'an old man with a beard divided into two points'; the age follows the book (he lived to ninety-four). The mantle, scroll and the laura of caves above the Cedron follow his icon on English Wikipedia and the book; the lion of his legend is left off.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-05-sabas.md, third paragraph, second sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Sabbas the Sanctified (lead: icon with scenes of his life)",
+        "url": "https://en.wikipedia.org/wiki/Sabbas_the_Sanctified"
+      },
+      {
+        "title": "Santi e Beati, San Saba Archimandrita (Roman Martyrology entry, 5 December)",
+        "url": "https://www.santiebeati.it/dettaglio/80600"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-05-sabas (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-05-sabas.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

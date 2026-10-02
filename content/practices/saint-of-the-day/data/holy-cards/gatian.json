@@ -1,0 +1,49 @@
+{
+  "id": "gatian",
+  "feast": {
+    "month": 12,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Gatian",
+    "pt-BR": "São Gaciano"
+  },
+  "patronOf": {
+    "en-US": "First bishop of Tours",
+    "pt-BR": "Primeiro bispo de Tours"
+  },
+  "prayerExcerpt": {
+    "en-US": "God does not ask great sacrifices from all; but in His goodness He gives us all some things to renounce or to suffer for Him, and it is by our loving submission to His will that we show ourselves to be Christians.",
+    "pt-BR": "Deus não pede de todos grandes sacrifícios; mas em Sua bondade dá a todos nós algumas coisas a renunciar ou a sofrer por Ele, e é por nossa amorosa submissão à Sua vontade que nos mostramos cristãos."
+  },
+  "lifeChapter": "dec-18-gatian",
+  "meta": {
+    "face": "A Roman of about seventy with a sallow olive complexion and a DIAMOND-shaped face — a NARROW, BALD crown with short grey hair at the sides and back, WIDE, SHARP cheekbones, a NARROW, firm chin; a SHORT, straight nose, SMALL, DEEP-SET, watchful dark eyes under HEAVY grey brows, deep lines from the nose to a thin, patient mouth; a SHORT, POINTED grey beard; the look of a man long used to hiding and never afraid. Not his companion denis (broad, short, square, curly-haired), the long, noble remigius, the clean-shaven, long-chinned firmin, the heavy-jawed gregory_langres, the long, shield-faced saturninus_toulouse or the forked-bearded sabas.",
+    "basis": "No likeness survives; the Martyrology says only that he 'is said' to have come from Rome. The age follows the book (nearly fifty years of labour); the watchful face and the cave follow it too ('He assembled his little flock in grots and caves, and there celebrated the divine mysteries' and 'was obliged often to lie hid'). The chalice is for those Masses; the simple vesture keeps him apart from the mitred bishop of the Wikipedia window.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-18-gatian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Gatianus of Tours (lead: stained glass, La Celle-Guenand)",
+        "url": "https://en.wikipedia.org/wiki/Gatianus_of_Tours"
+      },
+      {
+        "title": "Wikipedia (fr), Gatien de Tours",
+        "url": "https://fr.wikipedia.org/wiki/Gatien_de_Tours"
+      },
+      {
+        "title": "Santi e Beati, San Graziano (Gaziano) di Tours (Roman Martyrology entry, 18 December)",
+        "url": "https://www.santiebeati.it/dettaglio/82050"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-18-gatian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-18-gatian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

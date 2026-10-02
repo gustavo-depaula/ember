@@ -1,0 +1,49 @@
+{
+  "id": "valery",
+  "feast": {
+    "month": 12,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Valery",
+    "pt-BR": "São Valério"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Leuconay",
+    "pt-BR": "Abade de Leuconay"
+  },
+  "prayerExcerpt": {
+    "en-US": "Saint Valery went to receive the recompense of his happy perseverance on the 12th of December in 622.",
+    "pt-BR": "São Valério foi receber a recompensa de sua ditosa perseverança no dia 12 de dezembro de 622."
+  },
+  "lifeChapter": "dec-12-valery",
+  "meta": {
+    "face": "An Auvergnat of about fifty-five, 'lean and tall', with a fair, wind-reddened complexion and a LONG, NARROW face with a LONG, STRAIGHT, NARROW JAW — a smooth, fairly low forehead, a straight nose of medium length with a small, ROUNDED tip, MILD, wide-open, light-brown eyes with SOFT lower lids under thin, gently curved brown brows, FLAT, lean cheeks, a small, gentle mouth with the corners lifted, a long, narrow, rounded chin under a SHORT, thin, brown beard going grey that follows the jaw; brown hair cropped short around a monastic tonsure; the look meek and patient. Not his master columban (big-boned, jutting-chinned, Irish tonsure), the concave-profiled eucherius_orleans, the tall, dome-headed magloire, the long, droop-nosed wulfran, the hexagonal, blind omer or finian_clonard on the same day (white-bearded, Irish tonsure).",
+    "basis": "No likeness survives. Santi e Beati's notice describes him as 'Magro e di alta statura, era severo con se stesso, ma mite con il prossimo' (lean and tall, severe with himself, mild with others), and says he wished to be buried under the oak where he loved to pray; the face follows that. The reading monk is the book's engraving; Leuconay at the mouth of the Somme is from Santi e Beati and French Wikipedia.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-12-valery.md, first paragraph (his), last sentence; the chapter, which tells Valery and Finian together, has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Walaric (lead: his apparition to Hugh Capet, manuscript)",
+        "url": "https://en.wikipedia.org/wiki/Walaric"
+      },
+      {
+        "title": "Wikipedia (fr), Valery de Leuconay",
+        "url": "https://fr.wikipedia.org/wiki/Valery_de_Leuconay"
+      },
+      {
+        "title": "Santi e Beati, San Valerico di Lauconne (Roman Martyrology entry, 1 April)",
+        "url": "https://www.santiebeati.it/dettaglio/91998"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-12-valery (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-12-valery.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

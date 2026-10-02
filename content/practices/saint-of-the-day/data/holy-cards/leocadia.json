@@ -1,0 +1,49 @@
+{
+  "id": "leocadia",
+  "feast": {
+    "month": 12,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Leocadia",
+    "pt-BR": "Santa Leocádia"
+  },
+  "patronOf": {
+    "en-US": "Patroness of Toledo",
+    "pt-BR": "Padroeira de Toledo"
+  },
+  "prayerExcerpt": {
+    "en-US": "Were we not blinded by the world and the enchantment of its follies, the near prospect of eternity, the uncertainty of the hour of our death, and the repeated precepts of Christ would produce in us the same fervent dispositions which they did in the primitive Christians.",
+    "pt-BR": "Se não estivéssemos cegos pelo mundo e pelo encanto de suas loucuras, a iminente perspectiva da eternidade, a incerteza da hora de nossa morte e os repetidos preceitos de Cristo produziriam em nós as mesmas fervorosas disposições que produziram nos primeiros cristãos."
+  },
+  "lifeChapter": "dec-09-leocadia",
+  "meta": {
+    "face": "A Hispano-Roman woman of about twenty with a warm olive complexion and a SOFT, WIDE, HEART-SHAPED face — a broad, smooth forehead, FULL, rounded cheeks tapering to a SMALL, ROUND chin, a SHORT, softly ROUNDED nose, LARGE, dark-brown eyes under HEAVY lids, lifted upward, under thick dark brows ARCHED HIGH, a small, full mouth, lips just parted in prayer; dark-brown hair parted in the middle under the veil; the look of one who longs for heaven. Not her friend eulalia_merida (a narrow, bold girl of twelve), the long, square-chinned Engratia of saragossa_martyrs, the short, square-faced margaret_antioch, the inverted-triangle christina_bolsena the convex-profiled julia_corsica or the broad, strong-jawed barbara.",
+    "basis": "No likeness survives; Santi e Beati's notice says little is known of her beyond a seventh-century passio. The young face and the prayer follow the book (she prayed to be united speedily with St. Eulalia); the palm and cross follow the Spanish engraving on Spanish Wikipedia ('Verdadero Retrato de Sta. Leocadia', 1770); Toledo above the Tagus is her city.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-09-leocadia.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Leocadia (lead: her crypt)",
+        "url": "https://en.wikipedia.org/wiki/Leocadia"
+      },
+      {
+        "title": "Wikipedia (es), Leocadia de Toledo (lead: engraving, 1770)",
+        "url": "https://es.wikipedia.org/wiki/Leocadia_de_Toledo"
+      },
+      {
+        "title": "Santi e Beati, Santa Leocadia di Toledo (Roman Martyrology entry, 9 December)",
+        "url": "https://www.santiebeati.it/dettaglio/80810"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-09-leocadia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-09-leocadia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}

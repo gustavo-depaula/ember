@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 216 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 226 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 585 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 595 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -519,16 +519,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 1 Dec · St. Eligius · *Santo Elói* · Pictorial Lives — `eligius`
 - [x] 2 Dec · St. Bibiana, Virgin, Martyr · *Santa Bibiana, Virgem, Mártir* · Pictorial Lives — `bibiana`
 - [x] 4 Dec · St. Barbara, Virgin, Martyr · *Santa Bárbara, Virgem, Mártir* · Pictorial Lives — `barbara`
-- [ ] 5 Dec · St. Sabas, Abbot · *São Sabas, Abade* · Pictorial Lives
-- [ ] 9 Dec · St. Leocadia, Virgin, Martyr · *Santa Leocádia, Virgem, Mártir* · Pictorial Lives
-- [ ] 10 Dec · St. Eulalia, Virgin, Martyr · *Santa Eulália, Virgem, Mártir* · Pictorial Lives
-- [ ] 12 Dec · St. Valery, Abbot · *São Valério, Abade* · Pictorial Lives
-- [ ] 12 Dec · St. Finian, Bishop · *São Finiano, Bispo* · Pictorial Lives
-- [ ] 14 Dec · St. Nicasius, Archbishop, and his Companions, Martyrs · *São Nicásio, Arcebispo, e seus Companheiros, Mártires* · Pictorial Lives
-- [ ] 15 Dec · St. Mesmin · *São Mesmin* · Pictorial Lives
-- [ ] 17 Dec · St. Olympias, Widow · *Santa Olímpia, Viúva* · Pictorial Lives
-- [ ] 18 Dec · St. Gatian, Bishop · *São Gaciano, Bispo* · Pictorial Lives
-- [ ] 19 Dec · St. Nemesion, Martyr · *São Nemésio, Mártir* · Pictorial Lives
+- [x] 5 Dec · St. Sabas, Abbot · *São Sabas, Abade* · Pictorial Lives — `sabas`
+- [x] 9 Dec · St. Leocadia, Virgin, Martyr · *Santa Leocádia, Virgem, Mártir* · Pictorial Lives — `leocadia`
+- [x] 10 Dec · St. Eulalia, Virgin, Martyr · *Santa Eulália, Virgem, Mártir* · Pictorial Lives — `eulalia_merida`
+- [x] 12 Dec · St. Valery, Abbot · *São Valério, Abade* · Pictorial Lives — `valery`
+- [x] 12 Dec · St. Finian, Bishop · *São Finiano, Bispo* · Pictorial Lives — `finian_clonard`
+- [x] 14 Dec · St. Nicasius, Archbishop, and his Companions, Martyrs · *São Nicásio, Arcebispo, e seus Companheiros, Mártires* · Pictorial Lives — `nicasius`
+- [x] 15 Dec · St. Mesmin · *São Mesmin* · Pictorial Lives — `mesmin`
+- [x] 17 Dec · St. Olympias, Widow · *Santa Olímpia, Viúva* · Pictorial Lives — `olympias`
+- [x] 18 Dec · St. Gatian, Bishop · *São Gaciano, Bispo* · Pictorial Lives — `gatian`
+- [x] 19 Dec · St. Nemesion, Martyr · *São Nemésio, Mártir* · Pictorial Lives — `nemesion`
 - [ ] 20 Dec · St. Philogonius, Bishop · *São Filogônio, Bispo* · Pictorial Lives
 - [ ] 22 Dec · St. Ischyrion, Martyr · *Santo Isquírion, Mártir* · Pictorial Lives
 - [ ] 23 Dec · St. Servulus · *São Sérvulo* · Pictorial Lives

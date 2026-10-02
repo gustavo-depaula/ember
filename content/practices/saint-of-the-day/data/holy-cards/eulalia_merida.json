@@ -1,0 +1,49 @@
+{
+  "id": "eulalia_merida",
+  "feast": {
+    "month": 12,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Eulalia",
+    "pt-BR": "Santa Eulália"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr of Mérida",
+    "pt-BR": "Virgem e mártir de Mérida"
+  },
+  "prayerExcerpt": {
+    "en-US": "The apostles rejoiced \"that they were accounted worthy to suffer reproach for the name of Jesus.\" Do we bear our crosses with the same spirit?",
+    "pt-BR": "Os apóstolos regozijaram-se \"por terem sido considerados dignos de sofrer afronta pelo nome de Jesus.\" Carregamos nós as nossas cruzes com o mesmo espírito?"
+  },
+  "lifeChapter": "dec-10-eulalia",
+  "meta": {
+    "face": "A Hispano-Roman girl of twelve, clearly a child, with a fair olive complexion and a LONG, NARROW, OVAL face — a HIGH, smooth forehead, a SHORT, straight, SLENDER nose, large, dark ALMOND eyes with a BOLD, DIRECT gaze under STRAIGHT, level dark brows, smooth, lean cheeks, a small, FIRM mouth set in resolve, a narrow, pointed chin; long, straight black hair loose over her shoulders, held back by a plain white band; the look of a child who is not afraid. Not leocadia (a soft, heart-shaped young woman), the inverted-triangle, upturned-nosed christina_bolsena, the short, square-faced margaret_antioch, the long-oval, square-chinned Engratia of saragossa_martyrs the round-cheeked maria_goretti or bibiana (a young woman with a long oval face and a Greek nose).",
+    "basis": "No likeness survives. The child's face follows the book ('She was but twelve years old'), her boldness its account of her rebuke to the judge. The dove and the snow are Prudentius's, quoted by English and Spanish Wikipedia ('as she expired a dove flew out of her mouth'; 'a miraculous snow'); the Roman bridge and aqueduct are Mérida's, and the palm follows the paintings on both Wikipedias.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-10-eulalia.md Reflection, the whole of it (Acts 5:41) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eulalia of Mérida (lead: statue, Mérida cathedral)",
+        "url": "https://en.wikipedia.org/wiki/Eulalia_of_M%C3%A9rida"
+      },
+      {
+        "title": "Wikipedia (es), Eulalia de Mérida (lead: painting 'Santa Eulalia')",
+        "url": "https://es.wikipedia.org/wiki/Eulalia_de_M%C3%A9rida"
+      },
+      {
+        "title": "Santi e Beati, Sant'Eulalia di Merida (Roman Martyrology entry, 10 December)",
+        "url": "https://www.santiebeati.it/dettaglio/40600"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-10-eulalia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-10-eulalia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-41.md."
+      }
+    ]
+  }
+}
