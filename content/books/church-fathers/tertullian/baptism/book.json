@@ -2,13 +2,16 @@
   "id": "tertullian-baptism",
   "cover": "quarter",
   "name": {
-    "en-US": "On Baptism"
+    "en-US": "On Baptism",
+    "pt-BR": "Sobre o Batismo"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Baptism"
+        "en-US": "On Baptism",
+        "pt-BR": "Sobre o Batismo"
       }
     }
   ]
