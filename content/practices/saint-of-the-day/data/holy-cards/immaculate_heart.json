@@ -15,6 +15,23 @@
     "pt-BR": "Maria guardava todos estes fatos e meditava sobre eles em seu coração."
   },
   "proper": "sanctorale.movable.05-32",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/immaculate-heart-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "fatima",
+      "sacred_heart"
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; her gaze lowered and inward, recollected, with the faintest smile.",
     "basis": "The devotional image of the Immaculate Heart shows Our Lady pointing to her heart wreathed in roses with a flame above it; the sword of the Sorrows was left off because our_lady_sorrows already carries it. The enclosed garden is the hortus conclusus of Song of Songs 4:12, long read of her. Her face is the set's.",

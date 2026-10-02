@@ -17,5 +17,29 @@
     "pt-BR": "A ignorância das Escrituras é a ignorância de Cristo."
   },
   "proper": "sanctorale.09-30",
-  "lifeChapter": "sep-30-jerome"
+  "lifeChapter": "sep-30-jerome",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/jerome-against-jovinianus",
+          "book/jerome-against-the-pelagians",
+          "book/jerome-against-vigilantius",
+          "book/jerome-apology-for-himself-against-the-books-of-rufinus",
+          "book/jerome-de-viris-illustribus",
+          "book/jerome-dialogue-against-the-luciferians",
+          "book/jerome-letters",
+          "book/jerome-life-of-malchus-the-captive-monk",
+          "book/jerome-life-of-paulus-the-first-hermit",
+          "book/jerome-life-of-s-hilarion",
+          "book/jerome-pammachius-against-john-of-jerusalem",
+          "book/jerome-perpetual-virginity-of-blessed-mary",
+          "book/jerome-prefaces"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/jerome"
+    ]
+  }
 }

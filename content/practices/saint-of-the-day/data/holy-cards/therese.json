@@ -16,5 +16,21 @@
     "en-US": "My vocation is love! In the heart of the Church, I shall be love.",
     "pt-BR": "Minha vocação é o amor! No coração da Igreja, serei o amor."
   },
-  "proper": "sanctorale.10-01"
+  "proper": "sanctorale.10-01",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-therese-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "louis_zelie_martin"
+    ]
+  }
 }

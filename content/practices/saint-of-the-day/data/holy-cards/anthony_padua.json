@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.06-13",
   "lifeChapter": "jun-13-antony-of-padua",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-anthony-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "basis": "Tonsured, long narrow face, large eyes (1981 study of his skull).",
     "sources": [

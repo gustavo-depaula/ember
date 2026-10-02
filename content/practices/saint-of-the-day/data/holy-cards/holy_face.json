@@ -14,6 +14,19 @@
     "en-US": "It is your face, O Lord, that I seek.",
     "pt-BR": "É vossa face que eu procuro."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-face-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "The Face is Christ's set face from recurring-figures.md, imprinted on the cloth: a LONG OVAL face narrowing gently to the chin, a high forehead, a long straight nose with a fine bridge, level brows drawn a little together in pain, a quiet closed mouth; chestnut-brown hair parted in the centre and falling long on either side, a short, full beard parted at the chin; the EYES CLOSED, a few drops of blood on the brow and running down from the eyes and lips like tears, as on the Tours facsimile. Sorrowful and peaceful, not gory; no halo.",
     "basis": "The image of the devotion is the facsimile of the Veronica of St. Peter's sent to the Carmel of Tours and given to Léon Dupont in 1851 (the oratory of the Holy Face at Tours publishes a scan): a frontal face with closed eyes and drops of blood on a veil hung by its knotted corners. The card paints it in colour with the set's Christ.",

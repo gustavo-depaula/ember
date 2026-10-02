@@ -15,6 +15,19 @@
     "pt-BR": "Deus eterno e todo-poderoso, que quisestes restaurar todas as coisas em vosso amado Filho, Rei do universo."
   },
   "proper": "tempore.solemnity.christ-the-king",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/christ-the-king-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; he looks out at the viewer with calm, serene majesty.",
     "basis": "The enthroned, crowned Christ with sceptre and orb is the Pantocrator made royal, the image that spread after Pius XI instituted the feast in 1925 (Quas primas). Christ keeps the set's face, in glory colours with a king's mantle.",

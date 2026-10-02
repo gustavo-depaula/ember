@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.03-19",
   "lifeChapter": "mar-19-joseph-spouse-of-the-blessed",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-joseph-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "An older man around 60, balding with a high forehead and short silver-grey hair at the sides, a full neat rounded silver-grey beard, a tender fatherly smile toward the Child.",
     "basis": "The older, balding, greying Joseph common on 19th-century cards; rounded beard from the Painter's Manual.",

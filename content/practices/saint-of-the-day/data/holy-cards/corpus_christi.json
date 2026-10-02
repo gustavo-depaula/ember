@@ -16,6 +16,19 @@
   },
   "lifeChapter": "corpus-christi",
   "proper": "tempore.solemnity.corpus-christi",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/corpus-christi-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "The figures are small and secondary: the priest, about fifty, a lean, LONG face with a high forehead and a straight nose, clean-shaven, short grey hair, seen in profile with eyes on the Host; the servers, two boys of about ten, one round-faced and dark, one freckled and fair; the flower girl, about seven, dark braids; the kneeling mother with a broad, warm face under a light scarf; the old man with a narrow, bony face and white stubble.",
     "basis": "The Eucharistic procession with the monstrance under a canopy and a carpet of petals is the feast's own public act since the fourteenth century (the flower carpets of Brazil and Italy are still laid). No principal face.",

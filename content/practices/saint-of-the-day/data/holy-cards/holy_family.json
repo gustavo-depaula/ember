@@ -15,6 +15,23 @@
     "pt-BR": "Nosso Deus foi visto na terra e com os homens conviveu."
   },
   "proper": "tempore.christmas.holy-family",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-family-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "joseph",
+      "nativity_christ"
+    ]
+  },
   "meta": {
     "face": "St. Joseph as in recurring-figures.md: a man of about forty with a LONG OVAL face — a straight nose, gentle dark-brown eyes under level brows, a quiet mouth; full dark-brown curly hair to the nape and a short full dark-brown beard; a green tunic and an ochre-brown mantle. The boy Jesus: the Christ Child's face as in recurring-figures.md, lengthened to about seven — a softly rounded face with full cheeks, a high rounded forehead, a small straight nose, large clear brown eyes, a small rosy mouth, golden-brown curls to the ears, a plain gold halo; an eager, trusting look up at Joseph. Our Lady as in recurring-figures.md: a young woman of about twenty-five with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head.",
     "basis": "The hidden life at Nazareth (Lk 2:39-40, 51-52) in the tradition of the carpenter's workshop, as in Murillo's Holy Family with a Little Bird and the many workshop scenes of the Holy Family, with the three faces kept from the recurring figures.",

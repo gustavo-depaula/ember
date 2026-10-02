@@ -17,5 +17,18 @@
     "pt-BR": "Os que vivem com castidade são templos do Espírito Santo."
   },
   "proper": "sanctorale.12-13",
-  "lifeChapter": "dec-13-lucy"
+  "lifeChapter": "dec-13-lucy",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-lucy-novena"
+        ]
+      }
+    ]
+  }
 }

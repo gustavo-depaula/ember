@@ -17,5 +17,257 @@
     "pt-BR": "Concedei-me, ó Senhor meu Deus, uma mente que vos conheça, um coração que vos busque."
   },
   "proper": "sanctorale.01-28",
-  "lifeChapter": "mar-07-thomas-aquinas"
+  "lifeChapter": "mar-07-thomas-aquinas",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Prayers for Study",
+          "pt-BR": "Orações para o Estudo"
+        },
+        "refs": [
+          "practice/ante-studium",
+          "practice/aquinas-after-study"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Daily Prayer",
+          "pt-BR": "Oração Diária"
+        },
+        "refs": [
+          "practice/concede-mihi"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "For Holy Communion",
+          "pt-BR": "Para a Sagrada Comunhão"
+        },
+        "refs": [
+          "practice/aquinas-before-communion",
+          "practice/aquinas-after-communion",
+          "practice/adoro-te-devote"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Eucharistic Hymns",
+          "pt-BR": "Hinos Eucarísticos"
+        },
+        "refs": [
+          "practice/pange-lingua",
+          "practice/tantum-ergo",
+          "practice/sacris-solemniis",
+          "practice/panis-angelicus",
+          "practice/verbum-supernum",
+          "practice/o-salutaris-hostia",
+          "practice/lauda-sion"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-thomas-aquinas-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "Daily Prayer",
+          "pt-BR": "Oração Diária"
+        },
+        "refs": [
+          "book/aquinas-devotional-prayers"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Eucharistic Hymns",
+          "pt-BR": "Hinos Eucarísticos"
+        },
+        "refs": [
+          "book/aquinas-hymns"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Catechetical Instructions",
+          "pt-BR": "Instruções Catequéticas"
+        },
+        "refs": [
+          "book/aquinas-catechetical-instructions"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "The Summae",
+          "pt-BR": "As Sumas"
+        },
+        "refs": [
+          "book/aquinas-summa-theologiae",
+          "book/aquinas-summa-contra-gentiles",
+          "book/aquinas-compendium-theology"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Disputed Questions",
+          "pt-BR": "Questões Disputadas"
+        },
+        "refs": [
+          "book/aquinas-de-veritate",
+          "book/aquinas-de-potentia",
+          "book/aquinas-de-spiritualibus-creaturis",
+          "book/aquinas-qd-de-anima",
+          "book/aquinas-de-virtutibus",
+          "book/aquinas-de-unione-verbi",
+          "book/aquinas-de-malo",
+          "book/aquinas-quodlibetales"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Scripture & Patristic Commentary",
+          "pt-BR": "Comentários Bíblicos e Patrísticos"
+        },
+        "refs": [
+          "book/aquinas-catena-aurea-matthew",
+          "book/aquinas-catena-aurea-mark",
+          "book/aquinas-catena-aurea-luke",
+          "book/aquinas-catena-aurea-john",
+          "book/aquinas-super-iohannem",
+          "book/aquinas-super-romanos",
+          "book/aquinas-super-1-cor",
+          "book/aquinas-super-2-cor",
+          "book/aquinas-super-galatas",
+          "book/aquinas-super-ephesios",
+          "book/aquinas-super-philippenses",
+          "book/aquinas-super-colossenses",
+          "book/aquinas-super-1-thess",
+          "book/aquinas-super-2-thessalonicenses",
+          "book/aquinas-super-1-timotheum",
+          "book/aquinas-super-2-timotheum",
+          "book/aquinas-super-titum",
+          "book/aquinas-super-philemonem",
+          "book/aquinas-super-hebraeos",
+          "book/aquinas-super-matthaeum",
+          "book/aquinas-super-matt-petri-de-scala",
+          "book/aquinas-super-iob",
+          "book/aquinas-super-psalmos",
+          "book/aquinas-super-threnos",
+          "book/aquinas-super-isaiam",
+          "book/aquinas-super-ieremiam"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Philosophical Commentaries",
+          "pt-BR": "Comentários Filosóficos"
+        },
+        "refs": [
+          "book/aquinas-comm-ethics",
+          "book/aquinas-tabula-ethicorum",
+          "book/aquinas-comm-metaphysics",
+          "book/aquinas-comm-physics",
+          "book/aquinas-comm-de-anima",
+          "book/aquinas-comm-politics",
+          "book/aquinas-comm-posterior-analytics",
+          "book/aquinas-comm-peri-hermeneias",
+          "book/aquinas-comm-de-caelo",
+          "book/aquinas-comm-meteora",
+          "book/aquinas-comm-generation-corruption",
+          "book/aquinas-comm-de-sensu",
+          "book/aquinas-comm-de-memoria",
+          "book/aquinas-boethius-de-trinitate",
+          "book/aquinas-boethius-de-hebdomadibus",
+          "book/aquinas-liber-de-causis",
+          "book/aquinas-de-divinis-nominibus",
+          "book/aquinas-super-sententias"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Opuscula — Short Treatises",
+          "pt-BR": "Opúsculos — Tratados Breves"
+        },
+        "refs": [
+          "book/aquinas-de-ente-et-essentia",
+          "book/aquinas-de-principiis-naturae",
+          "book/aquinas-de-aeternitate-mundi",
+          "book/aquinas-de-unitate-intellectus",
+          "book/aquinas-de-substantiis-separatis",
+          "book/aquinas-de-regno",
+          "book/aquinas-contra-impugnantes",
+          "book/aquinas-contra-retrahentes",
+          "book/aquinas-de-perfectione-vitae",
+          "book/aquinas-contra-errores-graecorum",
+          "book/aquinas-de-motu-cordis",
+          "book/aquinas-de-operationibus-occultis",
+          "book/aquinas-de-sortibus",
+          "book/aquinas-de-judiciis-astrorum",
+          "book/aquinas-de-mixtione-elementorum",
+          "book/aquinas-de-articulis-fidei",
+          "book/aquinas-de-rationibus-fidei",
+          "book/aquinas-principium",
+          "book/aquinas-rigans-montes",
+          "book/aquinas-hic-est-liber",
+          "book/aquinas-de-emptione",
+          "book/aquinas-to-bernard-abbot",
+          "book/aquinas-to-duchess-flanders",
+          "book/aquinas-to-john-vercelli",
+          "book/aquinas-letter-6-articles",
+          "book/aquinas-letter-30-articles",
+          "book/aquinas-letter-36-articles",
+          "book/aquinas-letter-43-articles",
+          "book/aquinas-letter-108-articles",
+          "book/aquinas-de-secreto",
+          "book/aquinas-decretalem",
+          "book/aquinas-de-forma-absolutionis"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Sermons",
+          "pt-BR": "Sermões"
+        },
+        "refs": [
+          "book/aquinas-sermons-bilingual",
+          "book/aquinas-catechetical-sermons-cc",
+          "book/aquinas-sermon-immensa"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "The Office of Corpus Christi",
+          "pt-BR": "O Ofício de Corpus Christi"
+        },
+        "refs": [
+          "book/aquinas-office-corpus-christi",
+          "book/aquinas-office-corpus-christi-sapientia"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Dominican Historical Documents",
+          "pt-BR": "Documentos Históricos Dominicanos"
+        },
+        "refs": [
+          "book/aquinas-roman-chapters"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/thomas-aquinas"
+    ],
+    "cards": [
+      "albert_great",
+      "dominic",
+      "corpus_christi"
+    ]
+  }
 }

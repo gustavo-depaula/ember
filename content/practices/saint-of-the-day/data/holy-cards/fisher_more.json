@@ -16,6 +16,19 @@
     "en-US": "Nothing can come but that that God will.",
     "pt-BR": "Nada pode acontecer senão aquilo que Deus quer."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-thomas-more-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "Fisher: a tall, lean man of about sixty-five, clean-shaven, with a long, gaunt, bony face — a high, broad forehead, prominent cheekbones above hollowed cheeks, a long, straight, prominent nose, large, wide-open pale grey eyes under high, thin brows, lines running down from the nose past the mouth, a long, firm chin and a thin, straight, closed mouth; grey hair hidden under the cap, and a steady, searching gaze. More: a man of about fifty-five, clean-shaven with the faintest shadow of stubble, with a straight-sided, rather square face — a broad forehead, a long, straight nose with a slightly rounded tip, grey-blue eyes under straight dark brows with a small vertical crease between them, firm, slightly sunken cheeks, a square chin and a straight, composed mouth with a hint of wry humour; straight dark auburn-brown hair falling to the ears under the black cap, the face in three-quarter view looking off to the side. Fisher is older, paler and much thinner; More is fuller in the face, darker-haired and fair-skinned with a light flush.",
     "basis": "Both faces follow Hans Holbein the Younger, who drew and painted them from life: Fisher's chalk drawing of about 1527 (a long, gaunt, clean-shaven face with wide eyes) and More's 1527 portrait in the Frick Collection. Erasmus's 1519 letter to Hutten confirms More's fair complexion, auburn-black hair and blue-grey eyes.",

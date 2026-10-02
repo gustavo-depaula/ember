@@ -17,6 +17,22 @@
     "pt-BR": "Maria, alegra-te, ó cheia de graça, o Senhor é contigo; és bendita entre todas as mulheres da terra!"
   },
   "proper": "sanctorale.12-12",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/guadalupe-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "juan_diego"
+    ]
+  },
   "meta": {
     "face": "The image's own face, not the set's Our Lady: a young Mexican woman of about sixteen with warm olive-brown skin and a small, softly OVAL, slightly elongated face — a straight, gentle nose, lowered dark eyes under fine dark brows, a small closed mouth with a faint serene smile, a smooth rounded chin; straight dark-brown hair parted in the centre and falling beneath the mantle; her head tilted to her right. The angel below: a small child's face with a round chin and short dark curls, looking out.",
     "basis": "A Marian title shows its own image: the tilma of 1531 kept at the Basilica of Guadalupe (olive-skinned young woman inclined to her right, hands joined, rose tunic with floral pattern and dark sash, star-strewn blue-green mantle, crescent moon borne by an angel with eagle-feathered wings, golden rays).",

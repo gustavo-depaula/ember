@@ -31,6 +31,19 @@ export type HolyCard = {
   proper?: string
   /** Two or three sentences introducing the saint, read before praying to open the card. */
   intro?: LocalizedText
+  /** What the card's page shows beyond the card: the card owns this list. */
+  related?: HolyCardRelated
+}
+
+/** A shelf of content refs (`practice/…`, `book/…`, `chapter/…`); untitled when it is the only one. */
+export type RelatedGroup = { title?: LocalizedText; refs: string[] }
+
+export type HolyCardRelated = {
+  pray?: RelatedGroup[]
+  read?: RelatedGroup[]
+  collections?: string[]
+  /** Other cards about the same person, event or devotion. Written on one card, shown on both. */
+  cards?: string[]
 }
 
 /** The gallery sections of the cards with no fixed date, in the order they show. */

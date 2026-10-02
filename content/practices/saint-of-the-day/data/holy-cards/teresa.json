@@ -17,5 +17,21 @@
     "pt-BR": "Nada te perturbe. Nada te espante. Tudo passa. Deus não muda."
   },
   "proper": "sanctorale.10-15",
-  "lifeChapter": "oct-15-teresa"
+  "lifeChapter": "oct-15-teresa",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-teresa-of-avila-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "john_of_the_cross"
+    ]
+  }
 }

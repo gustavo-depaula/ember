@@ -18,6 +18,26 @@
   },
   "proper": "sanctorale.06-29",
   "lifeChapter": "jun-29-peter",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/ss-peter-and-paul-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "paul",
+      "chair_peter",
+      "peter_chair_rome",
+      "peter_chains",
+      "basilicas_peter_paul"
+    ]
+  },
   "meta": {
     "face": "An elderly man, around 65, broad and weathered fisherman's face, curly grey-white hair balding from the back of the head with a curly tuft left at the forehead, a short square curly grey-white beard, strong wide nose, deep-set earnest eyes, lined forehead.",
     "basis": "Curly hair and a short square beard since the 4th century; balding with a forelock tuft from the second millennium.",

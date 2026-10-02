@@ -18,6 +18,53 @@
   },
   "proper": "sanctorale.09-13",
   "lifeChapter": "jan-27-john-chrysostom",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/john-chrysostom-commentary-on-galatians",
+          "book/john-chrysostom-correspondence-with-pope-innocent-i",
+          "book/john-chrysostom-first-homily-on-eutropius",
+          "book/john-chrysostom-four-letters-to-olympias",
+          "book/john-chrysostom-homilies-on-acts",
+          "book/john-chrysostom-homilies-on-colossians",
+          "book/john-chrysostom-homilies-on-ephesians",
+          "book/john-chrysostom-homilies-on-first-corinthians",
+          "book/john-chrysostom-homilies-on-first-thessalonians",
+          "book/john-chrysostom-homilies-on-first-timothy",
+          "book/john-chrysostom-homilies-on-philemon",
+          "book/john-chrysostom-homilies-on-philippians",
+          "book/john-chrysostom-homilies-on-romans",
+          "book/john-chrysostom-homilies-on-second-corinthians",
+          "book/john-chrysostom-homilies-on-second-thessalonians",
+          "book/john-chrysostom-homilies-on-second-timothy",
+          "book/john-chrysostom-homilies-on-the-epistle-to-the-hebrews",
+          "book/john-chrysostom-homilies-on-the-gospel-of-john",
+          "book/john-chrysostom-homilies-on-the-gospel-of-st-matthew",
+          "book/john-chrysostom-homilies-on-the-statues",
+          "book/john-chrysostom-homilies-on-titus",
+          "book/john-chrysostom-homily-against-publishing-the-errors-of-the-brethren",
+          "book/john-chrysostom-homily-concerning-lowliness-of-mind",
+          "book/john-chrysostom-homily-on-st-babylas",
+          "book/john-chrysostom-homily-on-st-ignatius",
+          "book/john-chrysostom-homily-on-the-paralytic-lowered-through-the-roof",
+          "book/john-chrysostom-homily-on-the-passage-father-if-it-be-possible",
+          "book/john-chrysostom-homily-on-the-passage-if-your-enemy-hunger-feed-him",
+          "book/john-chrysostom-instructions-to-catechumens",
+          "book/john-chrysostom-letter-to-a-young-widow",
+          "book/john-chrysostom-letter-to-some-priests-of-antioch",
+          "book/john-chrysostom-no-one-can-harm-the-man-who-does-not-injure-himself",
+          "book/john-chrysostom-priesthood",
+          "book/john-chrysostom-second-homily-on-eutropius",
+          "book/john-chrysostom-three-homilies-on-the-power-of-satan",
+          "book/john-chrysostom-two-letters-to-theodore-after-his-fall"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/john-chrysostom"
+    ]
+  },
   "meta": {
     "face": "A lean ascetic man around 40, younger than the other bishops, a high bare forehead with thinning dark hair, gently hollow cheeks, a short thin pointed dark beard, earnest eloquent expression.",
     "basis": "Young with little beard (Painter's Manual); high forehead and hollow cheeks in the Byzantine icon type.",

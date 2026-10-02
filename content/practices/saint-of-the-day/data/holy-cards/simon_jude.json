@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.10-28",
   "lifeChapter": "oct-28-sts-simon-and-jude",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-jude-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "Simon: an old man around 70, bald, with a neat rounded white beard. Jude: a young man around 28 with a young light brown beard.",
     "basis": "Simon old and bald with a rounded beard; Jude young with a young beard (Painter's Manual). Attributes: Simon's bucksaw; Jude's halberd, medallion of Christ's face and flame.",

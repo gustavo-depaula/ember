@@ -17,5 +17,22 @@
     "pt-BR": "Boa Sant’Ana, mãe da Mãe de Deus, rogai por nós."
   },
   "proper": "sanctorale.07-26",
-  "lifeChapter": "jul-26-anne"
+  "lifeChapter": "jul-26-anne",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/ss-anne-joachim-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "nativity_bvm",
+      "presentation_bvm"
+    ]
+  }
 }

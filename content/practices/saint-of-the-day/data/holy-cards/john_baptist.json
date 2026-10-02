@@ -17,5 +17,21 @@
     "pt-BR": "É preciso que ele cresça e que eu diminua."
   },
   "proper": "sanctorale.06-24",
-  "lifeChapter": "jun-24-john-the-baptist"
+  "lifeChapter": "jun-24-john-the-baptist",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-baptist-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "beheading_john_baptist"
+    ]
+  }
 }

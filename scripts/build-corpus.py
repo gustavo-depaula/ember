@@ -163,7 +163,7 @@ def split_languages(obj: Any) -> tuple[Any, dict[str, Any]]:
 # app fetches the whole collection at once. Only the fields the app reads ship:
 # the rest (a card's `meta` provenance trail) stays in the repo.
 DATA_COLLECTIONS = {
-    "holy-cards": {"key": "cards", "fields": ("id", "feast", "kind", "order", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper", "intro")},
+    "holy-cards": {"key": "cards", "fields": ("id", "feast", "kind", "order", "name", "patronOf", "prayerExcerpt", "lifeChapter", "proper", "intro", "related")},
 }
 
 LIVES = CONTENT / "books" / "pictorial-lives-of-saints"
@@ -185,6 +185,42 @@ def _life_reflection(pid: str, card_id: str, chapter: str) -> dict:
     return out
 
 
+_book_ids: set[str] = set()
+
+
+def _ref_exists(ref: str) -> bool:
+    kind, _, rid = ref.partition("/")
+    if kind == "practice":
+        return (CONTENT / "practices" / rid / "manifest.json").is_file()
+    if kind == "collection":
+        return (CONTENT / "collections" / f"{rid}.json").is_file()
+    if kind == "chapter":
+        return (CONTENT / "chapters" / rid / "chapter.json").is_file()
+    if kind == "book":
+        if not _book_ids:
+            for meta in (CONTENT / "books").rglob("book.json"):
+                _book_ids.add(json.loads(meta.read_text(encoding="utf-8")).get("id") or meta.parent.name)
+        return rid in _book_ids
+    return False
+
+
+def _check_related(pid: str, card_id: str, related: dict, card_ids: set[str]) -> None:
+    """A card lists what its page shows: prayers and writings in titled groups,
+    collections, and other cards. A ref to something renamed or removed fails the
+    build here rather than leaving a dead tile on the page."""
+    where = f"practice {pid}: card {card_id} related"
+    unknown = set(related) - {"pray", "read", "collections", "cards"}
+    if unknown:
+        raise SystemExit(f"{where} has unknown keys {sorted(unknown)}")
+    refs = [r for g in related.get("pray", []) + related.get("read", []) for r in g["refs"]]
+    for ref in refs + related.get("collections", []):
+        if not _ref_exists(ref):
+            raise SystemExit(f"{where} names {ref!r}, which is not in the corpus")
+    for other in related.get("cards", []):
+        if other not in card_ids or other == card_id:
+            raise SystemExit(f"{where} names card {other!r}, which is not another card")
+
+
 def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
     spec = DATA_COLLECTIONS.get(logical)
     if spec is None:
@@ -193,12 +229,16 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
         raise SystemExit(f"practice {pid}: data `{logical}` points at missing {coll_dir}")
     items = []
     undated = []
-    for ff in sorted(coll_dir.glob("*.json")):
+    files = sorted(coll_dir.glob("*.json"))
+    ids = {ff.stem for ff in files}
+    for ff in files:
         with ff.open(encoding="utf-8") as fh:
             item = json.load(fh)
         if item.get("id") != ff.stem:
             raise SystemExit(f"practice {pid}: {ff.name} has id {item.get('id')!r}, expected {ff.stem!r}")
         kept = {k: item[k] for k in spec["fields"] if k in item}
+        if "related" in kept:
+            _check_related(pid, item["id"], kept["related"], ids)
         # `"reflection": false` keeps the chapter but not its reflection, for a card whose
         # chapter reflects on someone the card leaves out (St. Vitus's, on Crescentia).
         if "lifeChapter" in kept and item.get("reflection") is not False:

@@ -18,6 +18,23 @@
   },
   "proper": "sanctorale.06-29",
   "lifeChapter": "jun-30-paul",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/ss-peter-and-paul-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "conversion_paul",
+      "basilicas_peter_paul"
+    ]
+  },
   "meta": {
     "face": "A man around 55 with a noble, kindly face: bald on top with a high receding hairline and dark wavy hair at the sides, a long dark pointed beard reaching well below the chin, a straight fine nose, calm luminous eyes with a look of fervent, gentle conviction.",
     "basis": "Bald crown / receding hairline and a long pointed beard, all but mandatory from the 4th century; the Acts of Paul and Thecla call him bald.",

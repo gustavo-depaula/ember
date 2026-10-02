@@ -17,6 +17,19 @@
     "pt-BR": "Quanto a Maria, guardava todos estes fatos e meditava sobre eles em seu coração."
   },
   "proper": "tempore.christmas.mary-mother-of-god",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/mary-mother-of-god-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; her lids lowered, her cheek against the Child's. The Christ Child as in recurring-figures.md: a plump, ROUND baby face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls, a plain gold halo; eight days old, eyes open and resting on his mother.",
     "basis": "The solemnity closes the octave of Christmas, and its gospel ends with Mary pondering these things in her heart. The embrace follows the Theotokos of Vladimir, the classic image of the Mother of God, so this card differs from the manger of `nativity_christ` and the enthroned Child of `epiphany`.",

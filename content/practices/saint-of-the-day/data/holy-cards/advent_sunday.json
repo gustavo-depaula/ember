@@ -15,6 +15,13 @@
     "pt-BR": "A vós, meu Deus, elevo a minha alma."
   },
   "proper": "tempore.advent.week-1.sunday",
+  "related": {
+    "cards": [
+      "advent_weekday",
+      "gaudete",
+      "advent_ember_days"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Advent wreath as the Directory on Popular Piety describes it (four candles lit Sunday by Sunday, 'the prophetic light gradually illuminating the long night'), with the widespread custom of three violet candles and one rose; violet for Advent (GIRM 346d) and the moderate floral decoration GIRM 305 asks for. The subject is the test draft x_advent_sunday, kept.",

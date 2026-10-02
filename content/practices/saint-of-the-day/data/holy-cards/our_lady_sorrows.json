@@ -18,6 +18,19 @@
   },
   "lifeChapter": "seven-dolors",
   "proper": "sanctorale.09-15",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/seven-sorrows-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md, matured to about forty-eight (the same woman, not a different face): a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks now a little thinner, faint lines at the eyes, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under a white veil and violet-blue mantle; her eyes raised a little toward heaven in quiet grief, sorrowful but serene.",
     "basis": "The seven swords piercing Mary's heart, from Simeon's prophecy (Luke 2:35) and the Servite devotion of the Seven Sorrows, are the title's own image; the empty cross with the linen recalls the Stabat Mater. Our Lady keeps the set's face, matured.",

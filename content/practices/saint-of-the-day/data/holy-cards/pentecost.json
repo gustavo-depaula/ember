@@ -16,6 +16,31 @@
   },
   "lifeChapter": "whit-sunday-pentecost",
   "proper": "tempore.easter.week-8.sunday",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/novena-holy-spirit"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/triduum-holy-spirit"
+        ]
+      }
+    ],
+    "cards": [
+      "pentecost_ember_days"
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md: the same face matured, a woman of about fifty with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; eyes raised, radiant. Peter as on the peter card: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard. John as on the john_evangelist card: a beardless young man of about twenty-two with a smooth OVAL face, large upturned brown eyes, a straight nose, a small full mouth; wavy golden-brown hair to the jaw. The others behind, each different: a dark-bearded man of forty with a long face (James); a grey-bearded older man with a broad face and short hair (Andrew); a young man with short black hair and a narrow, beardless face (Thomas); a bald man of fifty with a round face and a short brown beard (Bartholomew).",
     "basis": "Acts 2:1-4, with Our Lady at the centre as in Acts 1:14 and the Western Pentecost (El Greco, Prado); Peter and John keep the `peter` and `john_evangelist` faces, Our Lady matured.",

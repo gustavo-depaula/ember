@@ -15,5 +15,18 @@
   "prayerExcerpt": {
     "en-US": "Love is the most beautiful sentiment the Lord has put into the soul of men and women.",
     "pt-BR": "O amor é o sentimento mais belo que o Senhor colocou na alma dos homens e mulheres."
+  },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-gianna-novena"
+        ]
+      }
+    ]
   }
 }

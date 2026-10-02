@@ -18,6 +18,48 @@
   },
   "proper": "sanctorale.05-02",
   "lifeChapter": "may-02-athanasius",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-athanasius-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/athanasius-ad-afros-epistola-synodica",
+          "book/athanasius-ad-episcopus-aegypti-et-libyae",
+          "book/athanasius-against-the-heathen",
+          "book/athanasius-apologia-ad-constantium",
+          "book/athanasius-apologia-contra-arianos",
+          "book/athanasius-apologia-de-fuga",
+          "book/athanasius-circular-letter",
+          "book/athanasius-de-decretis",
+          "book/athanasius-de-sententia-dionysii",
+          "book/athanasius-de-synodis",
+          "book/athanasius-deposition-of-arius",
+          "book/athanasius-four-discourses-against-the-arians",
+          "book/athanasius-historia-acephala",
+          "book/athanasius-historia-arianorum",
+          "book/athanasius-incarnation-of-the-word",
+          "book/athanasius-letters",
+          "book/athanasius-luke-10",
+          "book/athanasius-statement-of-faith",
+          "book/athanasius-tomus-ad-antiochenos",
+          "book/athanasius-vita-s-antoni"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/athanasius"
+    ]
+  },
   "meta": {
     "face": "An old man around 75, bald on top, a broad full white beard spreading wide over the chest, steadfast resolute expression.",
     "basis": "Old, bald, broad beard (Painter's Manual).",

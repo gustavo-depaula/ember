@@ -16,6 +16,19 @@
     "en-US": "O fire of the Spirit, the Comforter, life of the life of every creature.",
     "pt-BR": "Ó fogo do Espírito Consolador, vida da vida de toda criatura."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-hildegard-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "A woman of about sixty-five with a long, noble, narrow face, a strong straight nose, fine lines at the eyes, thin silver-grey brows, deep-set brown eyes raised upward toward the light, and firm, composed lips.",
     "basis": "No portrait from life survives; the Rupertsberg Scivias shows her receiving the fiery light with a wax tablet while Volmar writes. She described that light filling her in 1141, at forty-two, and wrote her last visions in old age, so the face is an older abbess, kept apart from the other nuns of this batch.",

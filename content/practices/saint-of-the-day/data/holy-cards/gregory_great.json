@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.09-03",
   "lifeChapter": "mar-12-gregory-the-great",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/gregory-great-pope-pastoral-rule",
+          "book/gregory-great-pope-register-of-letters"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/gregory-the-great"
+    ]
+  },
   "meta": {
     "face": "A mature man around 55, bald on the crown and high forehead, the hair at the sides worn long and neatly curled, a moderate tawny reddish-gold beard, slim slightly aquiline nose, well-formed chin, serene expression.",
     "basis": "John the Deacon's description of the portrait painted just after Gregory's death.",

@@ -17,5 +17,18 @@
     "pt-BR": "No entardecer da vida, seremos julgados pelo amor."
   },
   "proper": "sanctorale.12-14",
-  "lifeChapter": "nov-24-john-of-the-cross"
+  "lifeChapter": "nov-24-john-of-the-cross",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-of-the-cross-novena"
+        ]
+      }
+    ]
+  }
 }

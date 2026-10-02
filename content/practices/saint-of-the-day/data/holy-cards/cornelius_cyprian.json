@@ -18,6 +18,21 @@
   },
   "proper": "sanctorale.09-16",
   "lifeChapter": "sep-16-cyprian",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/cyprian-epistles",
+          "book/cyprian-life-and-passion",
+          "book/cyprian-seventh-council-of-carthage",
+          "book/cyprian-treatises"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/cyprian-of-carthage"
+    ]
+  },
   "meta": {
     "face": "Cornelius: a man of about sixty with a long, rectangular face — a broad, flat forehead and a straight-edged jaw; a long, straight nose with a narrow ridge; large dark almond eyes set rather close under level grey brows; flat cheeks; a flat, square chin; a small, thin-lipped mouth; bald on the crown with a close fringe of grey hair, a short, neat grey beard and a calm, grave look. Cyprian: a man of about fifty with a warm olive-brown North African complexion and a diamond-shaped face — a narrow forehead, wide, angular, jutting cheekbones and a narrow chin; a strong, high-bridged nose with flared nostrils; large, round dark eyes under thick, low, straight black brows; a full, wide mouth; thick, tightly curled black hair, a full black beard parted into two points at the chin, and an expression both grave and serene.",
     "basis": "Cornelius follows the 12th-century apse mosaic of Santa Maria in Trastevere (balding, grey-haired, short grey beard, pallium) and the horn attribute from his name. Cyprian follows Dionysius's hierarch entry (young, curly hair, a large beard parted in two) and Pontius's note that his countenance was grave and joyous; the olive complexion is a choice for a Carthaginian, not attested.",

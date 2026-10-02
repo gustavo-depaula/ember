@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.06-21",
   "lifeChapter": "jun-21-aloysius-gonzaga",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-aloysius-gonzaga-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "basis": "Beatification-process testimony describes large dark eyes, a gently aquiline nose, a fine ascetic face.",
     "sources": [

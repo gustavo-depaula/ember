@@ -17,6 +17,22 @@
     "pt-BR": "Jesus, eu confio em vós."
   },
   "proper": "sanctorale.10-05",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-faustina-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/divine-mercy"
+    ]
+  },
   "meta": {
     "face": "A woman of about thirty with a round, open face, fair skin with a light dusting of freckles, reddish-gold eyebrows, light grey-green eyes, a straight nose, a calm steady gaze and a faint gentle smile.",
     "basis": "A fellow sister's recollection that she was red-haired and freckled, with her photographs and the portrait painted from them. The excerpt is the inscription of the Divine Mercy image.",

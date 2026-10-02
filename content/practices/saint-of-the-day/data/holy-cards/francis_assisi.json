@@ -17,5 +17,21 @@
     "pt-BR": "Senhor, fazei-me instrumento de vossa paz."
   },
   "proper": "sanctorale.10-04",
-  "lifeChapter": "oct-04-francis-of-assisi"
+  "lifeChapter": "oct-04-francis-of-assisi",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-francis-assisi-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "clare_assisi"
+    ]
+  }
 }

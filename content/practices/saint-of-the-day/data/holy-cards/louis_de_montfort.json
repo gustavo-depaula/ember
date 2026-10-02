@@ -16,6 +16,81 @@
     "en-US": "It is by Mary that the salvation of the world has begun, and it is by Mary that it must be consummated.",
     "pt-BR": "Foi por Maria que começou a salvação do mundo, e é por Maria que ela deve ser consumada."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Total Consecration",
+          "pt-BR": "Consagração Total"
+        },
+        "refs": [
+          "practice/total-consecration"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-louis-de-montfort-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "About St. Louis-Marie",
+          "pt-BR": "Sobre São Luís-Maria"
+        },
+        "refs": [
+          "chapter/about-montfort"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Total Consecration",
+          "pt-BR": "Consagração Total"
+        },
+        "refs": [
+          "book/montfort-true-devotion",
+          "book/montfort-secret-mary"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "The Rosary",
+          "pt-BR": "O Rosário"
+        },
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Wisdom & the Cross",
+          "pt-BR": "Sabedoria e Cruz"
+        },
+        "refs": [
+          "book/montfort-love-wisdom",
+          "book/montfort-friends-cross"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Apostolic & Contemplative",
+          "pt-BR": "Apostólico e Contemplativo"
+        },
+        "refs": [
+          "book/montfort-ardent-prayer",
+          "book/montfort-missionary-rules"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/montfort-spirituality"
+    ]
+  },
   "meta": {
     "face": "A tall, robust man of about forty, clean-shaven, with ruddy cheeks and a LONG face — a broad, high forehead, a strong aquiline nose, large, lively dark eyes lowered modestly, dark, straight brows, firm cheekbones, a wide, gentle mouth and a rather long chin; chestnut hair cut very short, lying flat and falling a little onto the top of the forehead; a look of grandeur and goodness together.",
     "basis": "Besnard's early Life gives a portrait from those who knew him: above middle height, robust, ruddy cheeks, a long face, a broad high forehead, large lively but modest eyes, an aquiline nose, a rather long chin and very short, flat chestnut hair. Daniel records the crucifix and the small statue of Mary he always carried.",

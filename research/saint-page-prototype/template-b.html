@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saint page — B, with the scroll</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #2C2418; --ink2: #6B5D4F; --gold: #C9A84C; --goldDeep: #A8872E; --line: #E5DDD2;
+  --burgundy: #6B1D2A; --paper: #FBF8F1; --paper2: #F3EDE0; --night: #17120E; --cream: #F5EEE1;
+  --head: 'Cinzel', 'Trajan Pro', serif; --body: 'EB Garamond', Georgia, serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: #DED7CA; color: var(--ink); font-family: var(--body); }
+header.top { padding: 22px 28px 6px; display: flex; gap: 18px; align-items: baseline; flex-wrap: wrap; }
+header.top h1 { font-family: var(--head); font-weight: 600; font-size: 20px; margin: 0; letter-spacing: 1px; }
+.switch button, .play button { font-family: var(--body); font-size: 16px; padding: 6px 14px; border-radius: 20px; border: 1px solid #b9ad98; background: transparent; cursor: pointer; margin-right: 6px; color: var(--ink); }
+.switch button.on { background: var(--ink); color: #fff; border-color: var(--ink); }
+.wrap { display: flex; gap: 40px; padding: 14px 28px 40px; align-items: flex-start; }
+.side { max-width: 330px; font-size: 17.5px; line-height: 25px; color: var(--ink2); }
+.side h2 { font-family: var(--head); font-size: 14px; letter-spacing: 1.5px; color: var(--ink); margin: 18px 0 4px; }
+.side input { width: 100%; }
+.phone { flex: 0 0 390px; width: 390px; height: 800px; border-radius: 44px; overflow: hidden; position: relative; background: var(--paper); box-shadow: 0 0 0 9px #111, 0 24px 50px rgba(0,0,0,.35); user-select: none; }
+.phone ::-webkit-scrollbar { display: none; }
+
+/* the collapsing hero: a fixed layer over the scroll, driven by scrollTop */
+.hero { position: absolute; top: 0; left: 0; right: 0; background: radial-gradient(120% 80% at 50% 25%, #3a2c1e 0%, var(--night) 75%); z-index: 3; overflow: hidden; box-shadow: 0 1px 0 rgba(201,168,76,.35); }
+.hero img.art { position: absolute; left: 0; top: 0; width: 304px; border-radius: 13px; box-shadow: 0 14px 40px rgba(0,0,0,.6); transform-origin: 0 0; will-change: transform; }
+.hero .nm { position: absolute; left: 0; top: 0; font-family: var(--head); font-size: 27px; line-height: 32px; color: var(--cream); white-space: nowrap; transform-origin: 0 0; will-change: transform; }
+.hero .nm:not(.docked) { right: 0; text-align: center; white-space: normal; padding: 0 20px; }
+.hero .nm.docked { font-size: 15px; line-height: 20px; transform: translate(62px, 59px); max-width: 270px; overflow: hidden; text-overflow: ellipsis; }
+.hero .sub { position: absolute; left: 0; right: 0; text-align: center; }
+.hero .feast { font-family: var(--head); font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: #DACAB2; }
+.hero .patron { font-style: italic; color: #DACAB2; font-size: 16.5px; margin-top: 3px; }
+.chips { position: absolute; left: 16px; right: 0; bottom: 0; display: flex; gap: 18px; overflow-x: auto; }
+.chips a { font-family: var(--head); font-size: 10.5px; letter-spacing: 1.5px; text-transform: uppercase; padding: 7px 0 9px; color: #B9A98F; white-space: nowrap; cursor: pointer; border-bottom: 2px solid transparent; }
+.chips a.on { color: var(--gold); border-color: var(--gold); }
+.x { position: absolute; top: 46px; right: 16px; width: 34px; height: 34px; border-radius: 17px; background: rgba(0,0,0,.45); color: #F5F0E0; display: flex; align-items: center; justify-content: center; font-size: 17px; z-index: 5; }
+.scroll { position: absolute; inset: 0; overflow-y: auto; }
+
+/* content */
+.quote { text-align: center; font-style: italic; font-size: 21px; line-height: 29px; padding: 26px 34px 22px; color: #43361F; }
+.quote:before { content: '✠'; display: block; font-style: normal; color: var(--gold); font-size: 17px; margin-bottom: 8px; }
+.toc { margin: 0 24px; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 6px 0; }
+.toc a { display: flex; justify-content: space-between; font-size: 18px; padding: 6px 0; cursor: pointer; }
+.toc a i { font-style: normal; font-family: var(--head); font-size: 12px; color: var(--burgundy); width: 30px; padding-top: 3px; }
+.toc a span { flex: 1; }
+.toc a small { color: var(--ink2); font-size: 15px; }
+.chap { padding: 38px 24px 0; }
+.chap.band { background: var(--paper2); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-top: 34px; padding-bottom: 30px; }
+.chap .num { font-family: var(--head); color: var(--gold); font-size: 14px; letter-spacing: 3px; text-align: center; }
+.chap h3 { font-family: var(--head); font-weight: 400; font-size: 21px; text-align: center; margin: 4px 0 18px; }
+.prose p { font-size: 18.5px; line-height: 27px; margin: 0 0 12px; }
+.prose p.lead { font-size: 19.5px; line-height: 28px; }
+.prose p.lead:first-letter { font-family: var(--head); font-size: 56px; float: left; line-height: 46px; padding: 6px 8px 0 0; color: var(--burgundy); }
+.prose img { float: right; width: 118px; margin: 4px 0 8px 14px; border: 1px solid var(--line); }
+.more { display: none; }
+.open > .more { display: block; }
+.open > .toggle { display: none; }
+.toggle { font-family: var(--body); font-size: 16.5px; color: var(--goldDeep); background: none; border: 0; border-bottom: 1px solid var(--gold); padding: 0 0 1px; cursor: pointer; }
+.reflection { border-left: 2px solid var(--gold); padding: 2px 0 2px 14px; font-style: italic; font-size: 18px; line-height: 26px; color: #43361F; margin: 14px 0 4px; }
+.source { font-size: 14.5px; color: var(--ink2); margin-top: 10px; }
+.gtitle { font-size: 15.5px; color: var(--ink2); font-style: italic; margin: 14px 0 4px; display: flex; justify-content: space-between; }
+.rowitem { display: flex; align-items: center; justify-content: space-between; padding: 11px 0; border-bottom: 1px solid var(--line); font-size: 18px; gap: 10px; }
+.rowitem > span:first-child { flex: 1; }
+.rowitem small { color: var(--ink2); font-size: 14.5px; white-space: nowrap; }
+.pill { font-family: var(--head); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; border: 1px solid var(--gold); color: var(--goldDeep); border-radius: 14px; padding: 4px 10px; }
+.shelf { display: flex; gap: 10px; overflow-x: auto; margin: 0 -24px; padding: 4px 24px 10px; }
+.book { flex: 0 0 92px; height: 132px; border-radius: 3px 6px 6px 3px; padding: 7px; box-shadow: inset 5px 0 0 rgba(0,0,0,.18), 0 2px 5px rgba(0,0,0,.2); }
+.book div { height: 100%; border: 1px solid rgba(212,180,76,.75); display: flex; align-items: center; justify-content: center; text-align: center; font-family: var(--head); font-size: 9px; line-height: 12.5px; letter-spacing: .5px; color: #EBD9A4; padding: 5px; overflow: hidden; }
+.book.moreb { background: transparent; box-shadow: none; }
+.book.moreb div { border: 1px dashed #b9ad98; color: var(--ink2); font-family: var(--body); font-size: 15px; }
+.mini { flex: 0 0 112px; }
+.mini img { width: 112px; border-radius: 7px; display: block; box-shadow: 0 2px 6px rgba(0,0,0,.25); }
+.mini b { display: block; font-weight: 500; font-size: 15px; line-height: 18px; margin-top: 7px; }
+.mini i { display: block; font-size: 13.5px; line-height: 16px; color: var(--ink2); }
+.collect p { font-size: 18.5px; line-height: 27px; margin: 0; color: var(--burgundy); text-align: center; }
+.massline { font-size: 16px; color: var(--ink2); margin-bottom: 12px; text-align: center; }
+.btn { display: block; text-align: center; border: 1px solid var(--gold); border-radius: 12px; padding: 12px; font-size: 17.5px; margin-top: 16px; background: #fff; cursor: pointer; font-family: var(--body); color: var(--ink); width: 100%; }
+.end { text-align: center; font-family: var(--head); letter-spacing: 3px; font-size: 12px; color: var(--goldDeep); padding: 40px 0 70px; }
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>THE SAINT PAGE · B</h1>
+  <div class="switch" id="switch"></div>
+</header>
+<div class="wrap">
+  <div class="phone" id="P"></div>
+  <div class="side">
+    <h2>THE SCROLL</h2>
+    Scroll inside the phone, or drag this to step through the transition slowly.
+    <input type="range" id="scrub" min="0" max="800" value="0">
+    <div class="play"><button id="play">Play it</button><button id="reset">Back to top</button></div>
+    <h2>WHAT HAPPENS</h2>
+    The card is one object the whole way: it shrinks and slides to the top-left corner while the name follows it and the feast line fades. Once docked, the section chips appear under it, and the dark header stays as a slim bar.
+    <h2>TAKEN FROM C</h2>
+    The words of the card as a masthead, the contents list, numbered chapters with centred titles, the drop cap, and prayers as a list with a Pray button. Writings and related cards keep B's shelves.
+  </div>
+</div>
+<script>
+/*DATA*/
+
+const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;')
+const md = (s) => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\*(.+?)\*/g, '<i>$1</i>')
+const total = (groups) => groups.reduce((n, g) => n + g.items.length, 0)
+const roman = ['I', 'II', 'III', 'IV', 'V', 'VI']
+const bookColors = ['#5B1A26', '#1F3D33', '#22344F', '#4A3320', '#3E2A4A']
+const lerp = (a, b, t) => a + (b - a) * t
+const clamp = (v) => Math.min(1, Math.max(0, v))
+
+function lifeHtml(s) {
+  const l = s.life, lead = s.prologue || (s.mass && s.mass.about)
+  const paras = lead ? l.paras : l.paras.slice(1)
+  return `<div class="prose">
+    <p class="lead">${md(lead || l.paras[0])}</p>
+    <div>
+      ${l.engraving ? `<img src="${l.engraving}">` : ''}
+      ${paras.slice(0, 1).map((p) => `<p>${md(p)}</p>`).join('')}
+      <div class="fold">
+        <button class="toggle" onclick="this.parentNode.classList.add('open')">Continue the life · ${l.minutes} min</button>
+        <div class="more">${paras.slice(1).map((p) => `<p>${md(p)}</p>`).join('')}</div>
+      </div>
+    </div>
+    ${l.reflection ? `<div class="reflection">${md(l.reflection)}</div>` : ''}
+    <div class="source">From the <i>Pictorial Lives of the Saints</i></div>
+  </div>`
+}
+
+const prayerRows = (s) => s.prayers.map((g) => `<div class="gtitle">${g.title}</div>` + g.items.map((i) =>
+  `<div class="rowitem"><span>${esc(i.name)}</span>${i.kind === 'book' ? '<small>book ›</small>' : `<small>${i.minutes ? i.minutes + ' min' : ''}</small><span class="pill">Pray</span>`}</div>`).join('')).join('')
+
+const writingShelves = (s) => s.writings.map((g, gi) => `<div class="gtitle"><span>${g.title}</span><span>${g.items.length}</span></div><div class="shelf">` +
+  g.items.slice(0, 7).map((i, n) => `<div class="book" style="background:${bookColors[(gi + n) % 5]}"><div>${esc(i.name)}</div></div>`).join('') +
+  (g.items.length > 7 ? `<div class="book moreb"><div>+ ${g.items.length - 7} more</div></div>` : '') + `</div>`).join('') +
+  (s.collection ? `<button class="btn">${s.collection}</button>` : '')
+
+const feastHtml = (s) => `<div class="massline">${s.feast} · ${s.mass.rank} · ${esc(s.mass.title)}</div>
+  <div class="collect">${s.mass.collect.map((l) => `<p>${esc(l)}</p>`).join('')}</div>
+  <button class="btn">Open the Mass of the day</button>`
+
+const cardShelf = (s) => `<div class="shelf">` + s.cards.map((c) => `<div class="mini"><img src="${c.art}"><b>${c.name}</b><i>${c.why}</i></div>`).join('') + `</div>`
+
+function sections(s) {
+  const out = []
+  if (s.life) out.push({ key: 'life', tab: 'Life', title: 'His life', meta: s.life.minutes + ' min', html: lifeHtml(s) })
+  if (total(s.prayers)) out.push({ key: 'pray', tab: 'Pray', title: 'Pray with him', meta: total(s.prayers), html: prayerRows(s) })
+  if (total(s.writings)) out.push({ key: 'read', tab: 'Read', title: 'His writings', meta: total(s.writings), html: writingShelves(s) })
+  if (s.mass) out.push({ key: 'feast', tab: 'Feast', title: 'His feast', meta: s.feast, band: true, html: feastHtml(s) })
+  if (s.cards.length) out.push({ key: 'cards', tab: 'Cards', title: 'Related cards', meta: s.cards.length, html: cardShelf(s) })
+  return out
+}
+
+const cardW = 304, cardH = 456, full = 672, slim = 132, W = 390
+let box
+
+function render(s) {
+  const phone = document.getElementById('P'), secs = sections(s)
+  phone.innerHTML = `<div class="x">✕</div>
+    <div class="hero"><img class="art" src="${s.art}"><div class="nm">${s.name}</div><div class="nm docked">${s.name}</div>
+      <div class="sub">${s.feast ? `<div class="feast">${s.feast}</div>` : ''}${s.patron ? `<div class="patron">${s.patron}</div>` : ''}</div>
+      <div class="chips">${secs.map((x) => `<a data-k="${x.key}">${x.tab}</a>`).join('')}</div></div>
+    <div class="scroll"><div style="height:${full}px"></div>
+      ${s.quote ? `<div class="quote">${esc(s.quote)}</div>` : '<div style="height:26px"></div>'}
+      ${secs.length > 1 ? `<div class="toc">${secs.map((x, i) => `<a data-k="${x.key}"><i>${roman[i]}</i><span>${x.title}</span><small>${x.meta}</small></a>`).join('')}</div>` : ''}
+      ${secs.map((x, i) => `<div class="chap ${x.band ? 'band' : ''}" id="s-${x.key}">${secs.length > 1 ? `<div class="num">${roman[i]}</div>` : ''}<h3>${x.title}</h3>${x.html}</div>`).join('')}
+      <div class="end">ORA PRO NOBIS</div></div>`
+  box = phone.querySelector('.scroll')
+  const hero = phone.querySelector('.hero'), art = hero.querySelector('.art'), nm = hero.querySelector('.nm'), docked = hero.querySelector('.docked')
+  const sub = hero.querySelector('.sub'), chipBox = hero.querySelector('.chips'), chips = [...hero.querySelectorAll('.chips a')]
+
+  function frame() {
+    const st = box.scrollTop, t = clamp(st / (full - slim))
+    // Ease the travel so the card leaves the centre slowly and docks quickly.
+    const e = t * t * (3 - 2 * t)
+    hero.style.height = Math.max(slim, full - st) + 'px'
+    art.style.transform = `translate(${lerp((W - cardW) / 2, 16, e)}px, ${lerp(86, 44, e)}px) scale(${lerp(1, 34 / cardW, e)})`
+    // The name can't travel with the card without crossing it, so the large one
+    // rides under the card and fades, and a small one fades in beside the dock.
+    const under = lerp(86, 44, e) + cardH * lerp(1, 34 / cardW, e) + 22
+    nm.style.transform = `translateY(${under}px)`
+    nm.style.opacity = clamp(1 - t * 2.2)
+    docked.style.opacity = clamp((t - 0.7) / 0.3)
+    sub.style.top = under + nm.offsetHeight + 6 + 'px'
+    sub.style.opacity = clamp(1 - t * 3)
+    chipBox.style.opacity = clamp((t - 0.8) / 0.2)
+    chipBox.style.pointerEvents = t > 0.9 ? 'auto' : 'none'
+    let on
+    chips.forEach((a) => { if (document.getElementById('s-' + a.dataset.k).offsetTop - slim - 40 <= st) on = a })
+    chips.forEach((a) => a.classList.toggle('on', a === on))
+    document.getElementById('scrub').value = st
+  }
+  box.onscroll = frame
+  frame()
+  const go = (k) => box.scrollTo({ top: document.getElementById('s-' + k).offsetTop - slim + 6, behavior: 'smooth' })
+  phone.querySelectorAll('.chips a, .toc a').forEach((a) => (a.onclick = () => go(a.dataset.k)))
+}
+
+function show(i) {
+  document.getElementById('switch').innerHTML = subjects.map((x, n) => `<button class="${n === i ? 'on' : ''}" onclick="show(${n})">${x.name}</button>`).join('')
+  render(subjects[i])
+}
+document.getElementById('scrub').oninput = (e) => (box.scrollTop = Number(e.target.value))
+document.getElementById('reset').onclick = () => box.scrollTo({ top: 0, behavior: 'smooth' })
+document.getElementById('play').onclick = () => {
+  const from = performance.now()
+  const step = (now) => { const p = clamp((now - from) / 2600); box.scrollTop = 720 * p; if (p < 1) requestAnimationFrame(step) }
+  box.scrollTop = 0
+  requestAnimationFrame(step)
+}
+// #1 picks the subject; #1-300 also sets the scroll position (for screenshots).
+const [pick, at] = location.hash.slice(1).split('-')
+show(Number(pick) || 0)
+if (at) box.scrollTop = Number(at)
+</script>
+</body>
+</html>

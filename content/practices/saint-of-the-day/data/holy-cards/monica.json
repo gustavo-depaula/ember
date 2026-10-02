@@ -17,5 +17,18 @@
     "pt-BR": "Nada está longe de Deus."
   },
   "proper": "sanctorale.08-27",
-  "lifeChapter": "may-04-monica"
+  "lifeChapter": "may-04-monica",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-monica-novena"
+        ]
+      }
+    ]
+  }
 }

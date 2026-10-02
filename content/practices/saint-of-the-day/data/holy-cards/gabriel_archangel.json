@@ -16,5 +16,22 @@
     "en-US": "Hail, full of grace, the Lord is with thee.",
     "pt-BR": "Ave, cheia de graça, o Senhor é convosco."
   },
-  "proper": "sanctorale.09-29"
+  "proper": "sanctorale.09-29",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-archangels-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "raphael_archangel",
+      "annunciation"
+    ]
+  }
 }

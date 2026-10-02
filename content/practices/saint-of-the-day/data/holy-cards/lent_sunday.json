@@ -15,6 +15,13 @@
     "pt-BR": "Ele me invocará e eu o ouvirei."
   },
   "proper": "tempore.lent.week-1.sunday",
+  "related": {
+    "cards": [
+      "lent_weekday",
+      "laetare",
+      "lent_ember_days"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Lent in violet (GIRM 346d), with the altar that GIRM 305 forbids to be decorated with flowers in this season; the collect of the First Sunday gives the season's theme, and its Gospel every year is the temptation in the desert, hence the caption.",

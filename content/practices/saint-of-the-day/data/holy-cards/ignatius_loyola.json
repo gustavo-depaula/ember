@@ -17,5 +17,23 @@
     "pt-BR": "Para a maior glória de Deus."
   },
   "proper": "sanctorale.07-31",
-  "lifeChapter": "jul-31-ignatius-of-loyola"
+  "lifeChapter": "jul-31-ignatius-of-loyola",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-ignatius-loyola-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "francis_xavier",
+      "peter_favre",
+      "francis_borgia"
+    ]
+  }
 }

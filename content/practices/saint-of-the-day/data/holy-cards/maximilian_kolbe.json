@@ -17,6 +17,19 @@
     "pt-BR": "Ninguém tem maior amor do que aquele que dá a vida por seus amigos."
   },
   "proper": "sanctorale.08-14",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-maximilian-kolbe-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "A man in his early forties, balding with close-cropped dark hair, a long dark-brown beard narrowing to a point, small round wire-rimmed spectacles, a straight nose, an earnest gentle gaze.",
     "basis": "The 1936 photograph from Japan, the type most photographs and icons follow; the white and red crowns from his childhood vision of the Immaculata. The excerpt is his memorial's communion antiphon.",

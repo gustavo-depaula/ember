@@ -16,5 +16,21 @@
     "en-US": "Let us love Him who has so loved us.",
     "pt-BR": "Amemos Aquele que tanto nos amou."
   },
-  "lifeChapter": "oct-17-hedwige-saint-margaret-mary-alacoque"
+  "lifeChapter": "oct-17-hedwige-saint-margaret-mary-alacoque",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-margaret-mary-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/sacred-heart"
+    ]
+  }
 }

@@ -18,6 +18,28 @@
   },
   "proper": "sanctorale.12-07",
   "lifeChapter": "dec-07-ambrose",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/ambrose-christian-faith",
+          "book/ambrose-concerning-virgins",
+          "book/ambrose-concerning-widows",
+          "book/ambrose-death-of-satyrus",
+          "book/ambrose-duties-of-the-clergy",
+          "book/ambrose-holy-spirit",
+          "book/ambrose-letters",
+          "book/ambrose-memorial-of-symmachus",
+          "book/ambrose-mysteries",
+          "book/ambrose-repentance",
+          "book/ambrose-sermon-against-auxentius"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/ambrose-of-milan"
+    ]
+  },
   "meta": {
     "face": "A man in early middle age around 45, short dark-brown hair receding at the temples, a short close dark-brown beard and moustache, broad forehead, long straight nose, intense direct gaze.",
     "basis": "The 5th-century mosaic in San Vittore in Ciel d'Oro, Milan, possibly a portrait from life.",

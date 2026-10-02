@@ -17,5 +17,18 @@
     "pt-BR": "Se fordes o que deveis ser, poreis fogo ao mundo inteiro."
   },
   "proper": "sanctorale.04-29",
-  "lifeChapter": "apr-30-catherine-of-siena"
+  "lifeChapter": "apr-30-catherine-of-siena",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-catherine-of-siena-novena"
+        ]
+      }
+    ]
+  }
 }

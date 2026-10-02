@@ -16,6 +16,19 @@
     "en-US": "We fly to thy patronage, O holy Mother of God.",
     "pt-BR": "À vossa proteção recorremos, Santa Mãe de Deus."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/perpetual-help-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "The icon's own face, not the set's Our Lady: a LONG, NARROW Byzantine face — a long, very thin straight nose, large, dark, almond-shaped eyes with heavy lids under long, thin, high-arched brows, a SMALL, closed, dark-red mouth, a long smooth cheek and a small chin; olive skin; the head inclined a little toward the Child and the gaze turned out to the viewer, grave and sorrowful. The Child: a small boy of about three with a round face, short brown hair, his head turned back and up toward the angel with the cross. The angels: small, round, youthful faces with short brown curls.",
     "basis": "A Marian title that shows its own image paints that image (recurring-figures.md): the fifteenth-century Cretan icon entrusted to the Redemptorists by Pius IX in 1866, as on its Commons photograph and in Wikipedia's description (Michael with the lance and sponge, Gabriel with the three-barred cross and nails, the fallen sandal, the star on the veil).",

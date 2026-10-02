@@ -3,7 +3,13 @@ import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { hearthAssetUrl } from '@/lib/hearth'
 import i18n, { localizeContent } from '@/lib/i18n'
-import { type HolyCard, type HolyCardKind, holyCardKinds, useHolyCards } from '../useHolyCards'
+import {
+  type HolyCard,
+  type HolyCardKind,
+  holyCardKinds,
+  type RelatedGroup,
+  useHolyCards,
+} from '../useHolyCards'
 
 // A single saint as it appears in the gallery and the encounter. Display strings
 // are pre-localized for the active language (the hook recomputes on language
@@ -30,7 +36,14 @@ export type SaintEntry = {
   /** The saint's Mass formulary ref, whose collect is the card's prayer. */
   proper?: string
   intro?: string
+  /** The card's page: its prayers and readings by shelf, its collections, its related cards. */
+  pray: ContentShelf[]
+  read: ContentShelf[]
+  collections: string[]
+  relatedCards: string[]
 }
+
+export type ContentShelf = { title?: string; refs: string[] }
 
 function cardImage(id: string): ImageSource {
   return { uri: hearthAssetUrl(`saints/${id}.webp`) }
@@ -58,6 +71,7 @@ type CatalogResult = {
 // day's saint is often someone else.
 function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
   const feastLabel = feastLabeller(lang)
+  const linked = cardLinks(cards ?? [])
   const saints: SaintEntry[] = (cards ?? [])
     .map((c) => ({
       id: c.id,
@@ -74,9 +88,36 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
       prayerExcerpt: c.prayerExcerpt ? localizeContent(c.prayerExcerpt) : undefined,
       proper: c.proper,
       intro: c.intro ? localizeContent(c.intro) : undefined,
+      pray: shelves(c.related?.pray),
+      read: shelves(c.related?.read),
+      collections: c.related?.collections ?? [],
+      relatedCards: linked.get(c.id) ?? [],
     }))
     .sort(byFeastThenName)
   return { saints, byId: Object.fromEntries(saints.map((e) => [e.id, e])) }
+}
+
+function shelves(groups: RelatedGroup[] | undefined): ContentShelf[] {
+  return (groups ?? []).map((g) => ({
+    title: g.title ? localizeContent(g.title) : undefined,
+    refs: g.refs,
+  }))
+}
+
+// A link is written on one card and holds both ways: the Chair of St. Peter
+// names St. Peter, and St. Peter's page shows the Chair. A card's own list
+// leads, in its order; the cards that name it follow.
+function cardLinks(cards: HolyCard[]): Map<string, string[]> {
+  const ids = new Set(cards.map((c) => c.id))
+  const links = new Map<string, string[]>()
+  const add = (from: string, to: string) => {
+    if (!ids.has(to)) return
+    const list = links.get(from) ?? []
+    if (!list.includes(to)) links.set(from, [...list, to])
+  }
+  for (const c of cards) for (const other of c.related?.cards ?? []) add(c.id, other)
+  for (const c of cards) for (const other of c.related?.cards ?? []) add(other, c.id)
+  return links
 }
 
 // Dated cards in calendar order, then the undated ones section by section.

@@ -15,6 +15,13 @@
     "pt-BR": "Nós, porém, devemos gloriar-nos na cruz de nosso Senhor Jesus Cristo; nele está a salvação, nossa vida e ressurreição."
   },
   "proper": "tempore.holy-week.lords-supper",
+  "related": {
+    "cards": [
+      "institution_eucharist",
+      "crucifixion",
+      "easter"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The end of the Mass of the Lord's Supper as its rubrics in the repo give it (lords-supper.json nos. 38–43): the Blessed Sacrament carried to a place of repose 'suitably decorated' and shut in its tabernacle, the altar stripped, crosses removed or veiled, and the faithful invited to continue adoration during the night. White, the colour of the Lord's Supper that opens the Triduum; the Good Friday veil is violet (good-friday.json no. 15).",

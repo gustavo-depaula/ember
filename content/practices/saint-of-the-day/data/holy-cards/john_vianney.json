@@ -17,6 +17,19 @@
     "pt-BR": "A oração não é outra coisa senão a união com Deus."
   },
   "proper": "sanctorale.08-04",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-vianney-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "A small, thin, clean-shaven old priest of about seventy with long snow-white hair falling to his collar, a high pale smooth forehead, a narrow gentle face, deep-set luminous eyes raised in prayer.",
     "basis": "Eyewitness descriptions in Monnin's Life (Bishop Ullathorne, 1854: hair white as snow, eyes deep in shadow and preternaturally bright); he refused to be photographed, so Cabuchet's bust and the 1859 deathbed photograph fixed the type. The excerpt is from his catechism on prayer.",

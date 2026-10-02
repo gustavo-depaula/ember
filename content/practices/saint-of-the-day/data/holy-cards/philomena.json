@@ -15,5 +15,18 @@
   "prayerExcerpt": {
     "en-US": "O faithful virgin and glorious martyr, St. Philomena, intercede for us.",
     "pt-BR": "Ó virgem fiel e gloriosa mártir, Santa Filomena, intercedei por nós."
+  },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-philomena-novena"
+        ]
+      }
+    ]
   }
 }

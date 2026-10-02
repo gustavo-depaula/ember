@@ -17,6 +17,12 @@
     "pt-BR": "Como pedras vivas, formai um edifício espiritual, um sacerdócio santo."
   },
   "proper": "sanctorale.11-09",
+  "related": {
+    "cards": [
+      "mary_major",
+      "basilicas_peter_paul"
+    ]
+  },
   "meta": {
     "face": "The figures are small and secondary: the priest, about sixty, a lean, NARROW face, clean-shaven, silver hair, turned in three-quarter view; the pilgrim father, about thirty-five, a broad, ruddy face with a short brown beard; his wife with a round face under a light scarf; the boy, about ten, dark-haired, looking up at the statues. The statues are white stone, not living people.",
     "basis": "The Lateran is the Pope's cathedral, the 'mother and head of all churches of the City and the world'. The card paints Galilei's façade of 1735 with its fifteen statues, Christ the Saviour between the two Johns and the Doctors of the Church, as the basilica's own website and guides describe it.",

@@ -18,6 +18,80 @@
   },
   "proper": "sanctorale.08-28",
   "lifeChapter": "aug-28-augustine-of-hippo",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-augustine-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/augustine-confessions",
+          "book/augustine-acts-or-disputation-against-fortunatus-the-manichaean",
+          "book/augustine-against-the-epistle-of-manichaeus-called-fundamental",
+          "book/augustine-against-two-letters-of-the-pelagians",
+          "book/augustine-answer-to-letters-of-petilian-bishop-of-cirta",
+          "book/augustine-baptism-against-the-donatists",
+          "book/augustine-care-to-be-had-for-the-dead",
+          "book/augustine-catechising-of-the-uninstructed",
+          "book/augustine-christian-doctrine",
+          "book/augustine-city-of-god",
+          "book/augustine-concerning-faith-of-things-not-seen",
+          "book/augustine-concerning-the-nature-of-good-against-the-manichaeans",
+          "book/augustine-consentius",
+          "book/augustine-continence",
+          "book/augustine-creed",
+          "book/augustine-enarrations-or-expositions-on-the-psalms",
+          "book/augustine-enchiridion",
+          "book/augustine-faith-and-the-creed",
+          "book/augustine-good-of-marriage",
+          "book/augustine-good-of-widowhood",
+          "book/augustine-grace-and-free-will",
+          "book/augustine-grace-of-christ-and-on-original-sin",
+          "book/augustine-harmony-of-the-gospels",
+          "book/augustine-holy-trinity",
+          "book/augustine-holy-virginity",
+          "book/augustine-homilies-on-the-first-epistle-of-john",
+          "book/augustine-letters",
+          "book/augustine-lying",
+          "book/augustine-man-s-perfection-in-righteousness",
+          "book/augustine-marriage-and-concupiscence",
+          "book/augustine-merits-and-remission-of-sin-and-infant-baptism",
+          "book/augustine-morals-of-the-catholic-church",
+          "book/augustine-morals-of-the-manichaeans",
+          "book/augustine-nature-and-grace",
+          "book/augustine-our-lord-s-sermon-on-the-mount",
+          "book/augustine-patience",
+          "book/augustine-predestination-of-the-saints-gift-of-perseverance",
+          "book/augustine-proceedings-of-pelagius",
+          "book/augustine-profit-of-believing",
+          "book/augustine-rebuke-and-grace",
+          "book/augustine-reply-to-faustus-the-manichaean",
+          "book/augustine-sermons-on-selected-lessons-of-the-new-testament",
+          "book/augustine-soliloquies",
+          "book/augustine-soul-and-its-origin",
+          "book/augustine-spirit-and-the-letter",
+          "book/augustine-tractates-on-the-gospel-of-john",
+          "book/augustine-two-souls-against-the-manichaeans",
+          "book/augustine-work-of-monks"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/augustine-of-hippo"
+    ],
+    "cards": [
+      "monica",
+      "ambrose"
+    ]
+  },
   "meta": {
     "face": "A mature man around 45 with a warm olive-brown North African (Berber) complexion, close-cropped dark hair, a short dark beard, thoughtful ardent upward gaze.",
     "basis": "North African origin; short dark beard and cropped hair as in the 6th-century Lateran fresco, his oldest portrait.",

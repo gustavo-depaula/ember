@@ -17,6 +17,23 @@
     "pt-BR": "Vinde após mim, diz o Senhor, e eu farei de vós pescadores de homens."
   },
   "proper": "sanctorale.06-26",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/novena-for-the-sick-escriva",
+          "practice/st-josemaria-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/opus-dei"
+    ]
+  },
   "meta": {
     "face": "A robust, clean-shaven priest of about sixty-five with a broad, round face and full cheeks, dark hair greying at the temples, combed straight back from a high forehead, dark eyes behind heavy dark-rimmed rectangular spectacles, and a wide, cheerful smile.",
     "basis": "His photographs of the 1960s–70s and the official Opus Dei prayer card: a round, smiling face, dark hair combed back and dark-rimmed glasses, in a black cassock. The glasses are rectangular and dark to keep him apart from Kolbe's round wire spectacles.",

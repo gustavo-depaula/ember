@@ -18,6 +18,99 @@
   },
   "proper": "sanctorale.08-01",
   "lifeChapter": "aug-02-alphonsus-liguori",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Daily Meditation",
+          "pt-BR": "Meditação Diária"
+        },
+        "refs": [
+          "practice/mental-prayer",
+          "practice/meditacoes-ligorio"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-alphonsus-liguori-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "Daily Meditation",
+          "pt-BR": "Meditação Diária"
+        },
+        "refs": [
+          "book/liguori-meditacoes"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "On Prayer and Holiness",
+          "pt-BR": "Sobre a Oração e a Santidade"
+        },
+        "refs": [
+          "book/liguori-gran-mezzo-della-preghiera",
+          "book/liguori-pratica-di-amar-gesu-cristo",
+          "book/liguori-uniformita-alla-volonta-di-dio"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Eucharistic",
+          "pt-BR": "Eucarístico"
+        },
+        "refs": [
+          "book/liguori-visite-al-ss-sacramento"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Marian",
+          "pt-BR": "Mariano"
+        },
+        "refs": [
+          "book/liguori-glorie-di-maria"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        },
+        "refs": [
+          "book/liguori-esercizio-via-crucis"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "On the Last Things",
+          "pt-BR": "Sobre as Últimas Coisas"
+        },
+        "refs": [
+          "book/liguori-apparecchio-alla-morte"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Pastoral",
+          "pt-BR": "Pastoral"
+        },
+        "refs": [
+          "book/liguori-plus-belles-prieres"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/alphonsus-liguori"
+    ]
+  },
   "meta": {
     "basis": "Tannoia, his companion, describes blue eyes, an aquiline nose and a short thick beard.",
     "sources": [

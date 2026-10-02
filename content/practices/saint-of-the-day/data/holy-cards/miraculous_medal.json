@@ -16,6 +16,19 @@
     "en-US": "O Mary, conceived without sin, pray for us who have recourse to thee.",
     "pt-BR": "Ó Maria concebida sem pecado, rogai por nós que recorremos a Vós."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/miraculous-medal-novena"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md, a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre, under the white veil; her eyes LOWERED toward the globe, as St. Catherine says they were when the rays fell.",
     "basis": "St. Catherine Labouré's account of the apparition (dress 'blanche aurore', white veil to the feet, the globe and the greenish serpent, the jewelled rings and their rays, the lowered eyes, the oval frame) and the medal struck in 1832. An apparition, not a fixed statue, so Our Lady keeps the set's face.",

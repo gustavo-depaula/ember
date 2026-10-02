@@ -17,5 +17,25 @@
     "pt-BR": "São Miguel Arcanjo, defendei-nos no combate. Sede nosso refúgio contra as maldades e ciladas do demônio."
   },
   "proper": "sanctorale.09-29",
-  "lifeChapter": "sep-29-michael-archangel"
+  "lifeChapter": "sep-29-michael-archangel",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-archangels-novena",
+          "practice/st-michael-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "apparition_michael",
+      "gabriel_archangel",
+      "raphael_archangel",
+      "guardian_angels"
+    ]
+  }
 }

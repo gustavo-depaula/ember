@@ -1,10 +1,16 @@
 import { useQuery } from '@tanstack/react-query'
 
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import i18n from '@/lib/i18n'
+import i18n, { localizeContent } from '@/lib/i18n'
 import { loadMassFormulary } from '@/lib/mass-of/loaders'
 
-type Collect = { lang: string; lines: string[] }
+type Collect = {
+  lang: string
+  lines: string[]
+  /** The formulary's own title, and the Missal's notice of the saint where it has one. */
+  title?: string
+  about?: string
+}
 
 // The Collect (opening prayer) of the Mass formulary a card names as its own
 // (`proper`), in the active language. Resolved by id, never by date: a date's
@@ -32,7 +38,12 @@ export function useSaintCollect(proper: string | undefined): Collect | undefined
         .map((segments) => segments.map((s) => s.text ?? '').join(''))
         .filter(Boolean)
       if (lines.length === 0) return null
-      return { lang, lines }
+      return {
+        lang,
+        lines,
+        title: formulary?.title ? localizeContent(formulary.title) : undefined,
+        about: formulary?.description ? localizeContent(formulary.description) : undefined,
+      }
     },
     staleTime: Number.POSITIVE_INFINITY,
   })

@@ -17,5 +17,22 @@
     "pt-BR": "Ó Maria, concebida sem pecado, rogai por nós que recorremos a vós."
   },
   "proper": "sanctorale.12-08",
-  "lifeChapter": "dec-08-the-feast-of-the-immaculate-conception"
+  "lifeChapter": "dec-08-the-feast-of-the-immaculate-conception",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/immaculate-conception-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "lourdes",
+      "miraculous_medal"
+    ]
+  }
 }

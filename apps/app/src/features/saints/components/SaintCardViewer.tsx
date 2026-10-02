@@ -1,37 +1,17 @@
-import { useCallback, useMemo } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, StyleSheet, useWindowDimensions } from 'react-native'
-import { Gesture, GestureDetector } from 'react-native-gesture-handler'
-import Animated, {
-  type SharedValue,
-  useAnimatedStyle,
-  useSharedValue,
-  withSpring,
-} from 'react-native-reanimated'
-import { type EdgeInsets, useSafeAreaInsets } from 'react-native-safe-area-context'
+import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
-import { useThemeName, View } from 'tamagui'
-import { GlassSurface } from '@/components'
+import { View } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
 import { useSaintsViewStore } from '../store'
-import { SaintCard, saintCardWidth } from './SaintCard'
-import { SaintEncounter, SaintEncounterHeader } from './SaintEncounter'
+import { SaintPage } from './SaintPage'
 
-const sheetSpring = { damping: 24, stiffness: 240, mass: 0.9 }
-// How much of the sheet peeks above the bottom at rest — handle + the identity
-// header (name · feast · patronage).
-const peekVisible = 168
-// The card sits this far below the top inset, clear of the close button.
-const cardTopOffset = 76
-// Breathing room between the card (and its stacked copies) and the peeking sheet.
-const cardSheetGap = 24
-
-// Full-screen swipeable saint viewer. Each page is a card + its own pull-up
-// "encounter" sheet, so a lateral swipe slides BOTH together (the sheet moves
-// and changes with the card). A single shared value drives the up/down drag
-// across every page so the sheet height stays continuous as you page. Closing
-// the route just slides this transparentModal away — no native-sheet teardown.
+// Full-screen swipeable saint viewer. Each page is one card's page (the card,
+// then everything the app holds about it), scrolled up and down; a lateral
+// swipe moves to the next card in the order the wall is showing.
 export function SaintCardViewer({
   initialId,
   onClose,
@@ -41,10 +21,11 @@ export function SaintCardViewer({
 }) {
   const { saints, byId } = useSaintsCatalog()
   const orderedIds = useSaintsViewStore((s) => s.orderedIds)
-  const isDark = useThemeName().startsWith('dark')
+  const setOrderedIds = useSaintsViewStore((s) => s.setOrderedIds)
   const { t } = useTranslation()
   const { width: screenWidth, height: screenHeight } = useWindowDimensions()
   const insets = useSafeAreaInsets()
+  const list = useRef<FlatList<SaintEntry>>(null)
 
   // The wall publishes its current display order; fall back to calendar order
   // for a cold deep-link straight into the pager.
@@ -58,31 +39,32 @@ export function SaintCardViewer({
     entries.findIndex((e) => e.id === initialId),
   )
 
-  const peekY = screenHeight - peekVisible - insets.bottom
-  const openY = Math.round(screenHeight * 0.32)
-  const ty = useSharedValue(peekY)
-  // Shrink the card on short screens so the peeking sheet never covers it.
-  const cardWidth = Math.min(
-    saintCardWidth(screenWidth),
-    Math.floor((peekY - insets.top - cardTopOffset - cardSheetGap) / 1.5),
-  )
+  // A related card opens in place: the pager jumps to it. A wall narrowed by a
+  // search may not hold it, so the pager falls back to the whole calendar first.
+  const [target, setTarget] = useState<string>()
+  // A link to another card while the viewer is open changes the route's id, not the list's place.
+  const opened = useRef(initialId)
+  useEffect(() => {
+    if (opened.current === initialId) return
+    opened.current = initialId
+    setTarget(initialId)
+  }, [initialId])
+  useEffect(() => {
+    if (!target) return
+    const index = entries.findIndex((e) => e.id === target)
+    if (index < 0) {
+      setOrderedIds([])
+      return
+    }
+    list.current?.scrollToIndex({ index, animated: false })
+    setTarget(undefined)
+  }, [target, entries, setOrderedIds])
 
   const renderItem = useCallback(
     ({ item }: { item: SaintEntry }) => (
-      <SaintPage
-        saint={item}
-        isDark={isDark}
-        width={screenWidth}
-        height={screenHeight}
-        insets={insets}
-        cardWidth={cardWidth}
-        peekY={peekY}
-        openY={openY}
-        ty={ty}
-        onClose={onClose}
-      />
+      <SaintPage saint={item} width={screenWidth} height={screenHeight} onOpenCard={setTarget} />
     ),
-    [isDark, screenWidth, screenHeight, insets, cardWidth, peekY, openY, ty, onClose],
+    [screenWidth, screenHeight],
   )
 
   const getItemLayout = useCallback(
@@ -95,13 +77,9 @@ export function SaintCardViewer({
   }
 
   return (
-    <View flex={1}>
-      <GlassSurface isDark={isDark} isInteractive={false} style={StyleSheet.absoluteFill} />
-      {/* Dim the lightbox so the card and the light encounter sheet stand off
-          it — over bare glass the sheet's glass has nothing to separate from. */}
-      <View style={[StyleSheet.absoluteFill, styles.scrim]} pointerEvents="none" />
-
+    <View flex={1} backgroundColor="$background">
       <FlatList
+        ref={list}
         data={entries}
         renderItem={renderItem}
         keyExtractor={(item) => item.id}
@@ -110,9 +88,9 @@ export function SaintCardViewer({
         showsHorizontalScrollIndicator={false}
         initialScrollIndex={initialIndex}
         getItemLayout={getItemLayout}
-        initialNumToRender={2}
+        initialNumToRender={1}
         windowSize={3}
-        maxToRenderPerBatch={2}
+        maxToRenderPerBatch={1}
       />
 
       <Pressable
@@ -122,7 +100,7 @@ export function SaintCardViewer({
         accessibilityRole="button"
         accessibilityLabel={t('a11y.closeModal')}
       >
-        <Svg width={24} height={24} viewBox="0 0 24 24">
+        <Svg width={22} height={22} viewBox="0 0 24 24">
           <Path d="M18 6L6 18M6 6l12 12" stroke="#F5F0E0" strokeWidth={2} strokeLinecap="round" />
         </Svg>
       </Pressable>
@@ -130,114 +108,14 @@ export function SaintCardViewer({
   )
 }
 
-function SaintPage({
-  saint,
-  isDark,
-  width,
-  height,
-  insets,
-  cardWidth,
-  peekY,
-  openY,
-  ty,
-  onClose,
-}: {
-  saint: SaintEntry
-  isDark: boolean
-  width: number
-  height: number
-  insets: EdgeInsets
-  cardWidth: number
-  peekY: number
-  openY: number
-  ty: SharedValue<number>
-  onClose: () => void
-}) {
-  const start = useSharedValue(0)
-
-  // Vertical drag on the header raises/lowers the (shared) sheet; fails on
-  // horizontal so a lateral swipe pages the list instead.
-  const drag = Gesture.Pan()
-    .activeOffsetY([-10, 10])
-    .failOffsetX([-24, 24])
-    .onBegin(() => {
-      start.value = ty.value
-    })
-    .onUpdate((e) => {
-      ty.value = Math.min(Math.max(start.value + e.translationY, openY), peekY)
-    })
-    .onEnd((e) => {
-      const midpoint = (openY + peekY) / 2
-      const toPeek = e.velocityY > 500 || (e.velocityY > -500 && ty.value > midpoint)
-      ty.value = withSpring(toPeek ? peekY : openY, sheetSpring)
-    })
-
-  const sheetStyle = useAnimatedStyle(() => ({ transform: [{ translateY: ty.value }] }))
-
-  return (
-    <View width={width} height={height}>
-      {/* Tapping the backdrop dismisses; the inner Pressable absorbs taps on the
-          card so its flip/tilt gestures still work. */}
-      <Pressable
-        onPress={onClose}
-        style={[styles.cardArea, { paddingTop: insets.top + cardTopOffset }]}
-      >
-        <Pressable onPress={() => {}}>
-          <SaintCard saint={saint} width={cardWidth} />
-        </Pressable>
-      </Pressable>
-
-      <Animated.View style={[styles.sheet, { height }, sheetStyle]} pointerEvents="box-none">
-        <GlassSurface isDark={isDark} isInteractive={false} style={styles.sheetSurface}>
-          <GestureDetector gesture={drag}>
-            <View paddingTop="$sm" paddingBottom="$xs">
-              <View
-                width={40}
-                height={5}
-                borderRadius={3}
-                backgroundColor="rgba(150,140,120,0.6)"
-                alignSelf="center"
-                marginBottom="$sm"
-              />
-              <SaintEncounterHeader saint={saint} />
-            </View>
-          </GestureDetector>
-          <SaintEncounter saint={saint} />
-        </GlassSurface>
-      </Animated.View>
-    </View>
-  )
-}
-
 const styles = StyleSheet.create({
-  scrim: {
-    backgroundColor: 'rgba(18,14,10,0.18)',
-  },
-  cardArea: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'flex-start',
-  },
-  sheet: {
-    position: 'absolute',
-    // Inset from the page edges so it reads as a floating panel, not edge-to-edge.
-    left: 12,
-    right: 12,
-    top: 0,
-  },
-  sheetSurface: {
-    flex: 1,
-    borderTopLeftRadius: 22,
-    borderTopRightRadius: 22,
-    overflow: 'hidden',
-  },
   closeButton: {
     position: 'absolute',
-    right: 20,
+    right: 16,
     zIndex: 10,
-    width: 40,
-    height: 40,
-    borderRadius: 20,
+    width: 36,
+    height: 36,
+    borderRadius: 18,
     backgroundColor: 'rgba(0,0,0,0.5)',
     alignItems: 'center',
     justifyContent: 'center',

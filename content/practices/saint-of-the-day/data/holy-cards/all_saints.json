@@ -18,6 +18,22 @@
   },
   "lifeChapter": "nov-01-all-saints",
   "proper": "sanctorale.11-01",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/all-saints-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "all_souls"
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; she is nearest the Lamb, looking up. Peter as on the peter card: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; Paul as on the paul card: about sixty, a noble LONG face — a high domed forehead, bald on top with dark wavy hair greying at the sides, a straight fine nose, calm luminous dark eyes, a long dark pointed beard streaked with grey reaching well below the chin; both small, on the tier below Our Lady. The rest of the multitude is small and deliberately varied: a young Roman virgin with a round face and dark braided hair; a tall, lean East African martyr with a long face and close-cropped hair; a round-faced Japanese youth with straight black hair; an old bishop with a square face and white beard; a Brazilian mother with warm brown skin and a broad smile; a freckled boy with straw-coloured hair.",
     "basis": "The feast's own reading and the formulary description point to Revelation 7:9, the multitude before the throne and the Lamb; the tiered heaven of saints follows Fra Angelico's Fiesole predella and Dürer's Landauer Altarpiece, with the Lamb and the four rivers of the Ghent Altarpiece.",

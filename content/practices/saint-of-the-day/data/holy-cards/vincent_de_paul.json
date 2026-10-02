@@ -17,5 +17,18 @@
     "pt-BR": "Os pobres são nossos senhores; nós somos seus servos."
   },
   "proper": "sanctorale.09-27",
-  "lifeChapter": "jul-19-vincent-of-paul"
+  "lifeChapter": "jul-19-vincent-of-paul",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-vincent-de-paul-novena"
+        ]
+      }
+    ]
+  }
 }

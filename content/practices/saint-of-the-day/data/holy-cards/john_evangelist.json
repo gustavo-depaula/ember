@@ -17,5 +17,10 @@
     "pt-BR": "Deus é amor, e quem permanece no amor permanece em Deus, e Deus nele."
   },
   "proper": "sanctorale.12-27",
-  "lifeChapter": "dec-27-john"
+  "lifeChapter": "dec-27-john",
+  "related": {
+    "cards": [
+      "john_latin_gate"
+    ]
+  }
 }

@@ -17,5 +17,22 @@
     "pt-BR": "Escuta, meu filho, e inclina o ouvido do teu coração."
   },
   "proper": "sanctorale.07-11",
-  "lifeChapter": "mar-21-benedict"
+  "lifeChapter": "mar-21-benedict",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-benedict-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "scholastica",
+      "placid"
+    ]
+  }
 }
