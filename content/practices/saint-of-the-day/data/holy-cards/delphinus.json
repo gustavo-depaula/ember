@@ -1,0 +1,48 @@
+{
+  "id": "delphinus",
+  "feast": {
+    "month": 12,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Delphinus",
+    "pt-BR": "São Delfino"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Bordeaux",
+    "pt-BR": "Bispo de Bordeaux"
+  },
+  "prayerExcerpt": {
+    "en-US": "He baptized St. Paulinus in 388, and the latter, in several letters, speaks of him as his father and his master.",
+    "pt-BR": "Batizou São Paulino em 388, e este, em várias cartas, fala dele como seu pai e seu mestre."
+  },
+  "meta": {
+    "face": "A Gallo-Roman of Aquitaine of about sixty-five with a fresh, lightly weathered complexion and a face like a ROUNDED RECTANGLE, EVEN in width from temples to jaw, with STRONG, rounded CHEEKBONES — a moderate forehead under thick grey hair RECEDING at the temples to a marked WIDOW'S PEAK; a PRONOUNCED brow over DEEP-SET, kind blue-grey eyes with fine laughter creases; a SHORT nose, gently SCOOPED in profile, with a rounded, slightly lifted tip; a LONG upper lip; a WIDE, calm mouth with a humorous lift at one corner; a SHORT, full, CURLY salt-and-pepper beard close to the jaw; the look of a father and teacher. Not the clean-shaven, heart-shaped paulinus_nola, the round-bearded nicasius or the lean valery.",
+    "basis": "No likeness survives. The book's engraving shows him bearded, with receding hair, teaching the young Paulinus; the face is ours within that, as the fatherly 'father and master' of Paulinus's letters. The shell recalls the baptism of Paulinus; the Roman Bordeaux behind him is the city of his friend Ausonius.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-24-delphinus.md, first paragraph (his), third sentence; the chapter's Reflection belongs to Sts. Thrasilla and Emiliana, so this card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Santi e Beati, San Delfino di Bordeaux (Roman Martyrology entry, 24 December)",
+        "url": "https://www.santiebeati.it/dettaglio/83100"
+      },
+      {
+        "title": "Nominis, Saint Delphin de Bordeaux",
+        "url": "https://nominis.cef.fr/contenus/saint/307/Saint-Delphin-de-Bordeaux.html"
+      },
+      {
+        "title": "Wikipédia (fr), Delphin de Bordeaux",
+        "url": "https://fr.wikipedia.org/wiki/Delphin_de_Bordeaux"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-24-delphinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-24-delphinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-42.md."
+      }
+    ]
+  }
+}

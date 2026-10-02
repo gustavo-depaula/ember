@@ -1,0 +1,49 @@
+{
+  "id": "servulus",
+  "feast": {
+    "month": 12,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Servulus",
+    "pt-BR": "São Sérvulo"
+  },
+  "patronOf": {
+    "en-US": "Paralyzed beggar of Rome",
+    "pt-BR": "Mendigo paralítico de Roma"
+  },
+  "prayerExcerpt": {
+    "en-US": "Silence! do you not hear the sweet melody and praise which resound in the heavens?",
+    "pt-BR": "Silêncio! não ouvis a doce melodia e o louvor que ressoam nos céus?"
+  },
+  "lifeChapter": "dec-23-servulus",
+  "meta": {
+    "face": "A Roman of about forty-five, pale from a life in the shade of the porch, with a SOFT, OVAL-ROUND face without hard bones — a rounded forehead; fine, thin, light-brown hair falling STRAIGHT to the ears; fine brows ARCHED HIGH in joyful wonder; LARGE, bright, WIDE-OPEN hazel eyes lifted upward, as if listening; a SMALL, slightly UPTURNED nose; soft cheeks; a mouth OPEN in song; a small, ROUNDED chin under a thin, soft, SPARSE light-brown beard. Not the clean-shaven, egg-shaped odo_cluny or the wide-browed mesmin.",
+    "basis": "No likeness survives; St. Gregory the Great, who knew him, describes his life in the porch of St. Clement's and his death while singing, in a homily on the Gospels and in the Dialogues (Book IV), as Butler reports. The pose follows the book's engraving and Callot's plate for 23 December, both showing him lying on his pallet; the face is ours, given the joy Gregory describes.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-23-servulus.md paragraph 3, his dying words (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Jacques Callot, St. Servulus the Paralytic, Les Images de tous les saints, 23 December (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:St._Servulus_of_Rome.jpg"
+      },
+      {
+        "title": "Wikipedia, Servulus",
+        "url": "https://en.wikipedia.org/wiki/Servulus"
+      },
+      {
+        "title": "Santi e Beati, San Servolo il Paralitico (Roman Martyrology entry, 23 December)",
+        "url": "https://www.santiebeati.it/dettaglio/82900"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-23-servulus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-23-servulus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-42.md."
+      }
+    ]
+  }
+}

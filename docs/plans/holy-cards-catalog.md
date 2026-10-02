@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 236 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 242 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 605 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 611 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -529,12 +529,12 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 17 Dec · St. Olympias, Widow · *Santa Olímpia, Viúva* · Pictorial Lives — `olympias`
 - [x] 18 Dec · St. Gatian, Bishop · *São Gaciano, Bispo* · Pictorial Lives — `gatian`
 - [x] 19 Dec · St. Nemesion, Martyr · *São Nemésio, Mártir* · Pictorial Lives — `nemesion`
-- [ ] 20 Dec · St. Philogonius, Bishop · *São Filogônio, Bispo* · Pictorial Lives
-- [ ] 22 Dec · St. Ischyrion, Martyr · *Santo Isquírion, Mártir* · Pictorial Lives
-- [ ] 23 Dec · St. Servulus · *São Sérvulo* · Pictorial Lives
-- [ ] 24 Dec · St. Delphinus, Bishop · *São Delfino, Bispo* · Pictorial Lives
-- [ ] 24 Dec · Sts. Thrasilla and Emiliana, Virgins · *Santas Trasila e Emiliana, Virgens* · Pictorial Lives
-- [ ] 30 Dec · St. Sabinus, Bishop, and his Companions, Martyrs · *São Sabino, Bispo, e seus Companheiros, Mártires* · Pictorial Lives
+- [x] 20 Dec · St. Philogonius, Bishop · *São Filogônio, Bispo* · Pictorial Lives — `philogonius`
+- [x] 22 Dec · St. Ischyrion, Martyr · *Santo Isquírion, Mártir* · Pictorial Lives — `ischyrion`
+- [x] 23 Dec · St. Servulus · *São Sérvulo* · Pictorial Lives — `servulus`
+- [x] 24 Dec · St. Delphinus, Bishop · *São Delfino, Bispo* · Pictorial Lives — `delphinus`
+- [x] 24 Dec · Sts. Thrasilla and Emiliana, Virgins · *Santas Trasila e Emiliana, Virgens* · Pictorial Lives — `thrasilla_emiliana`
+- [x] 30 Dec · St. Sabinus, Bishop, and his Companions, Martyrs · *São Sabino, Bispo, e seus Companheiros, Mártires* · Pictorial Lives — `sabinus_companions`
 
 ## Feasts of the Lord and the Church
 

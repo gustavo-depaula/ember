@@ -1,0 +1,49 @@
+{
+  "id": "thrasilla_emiliana",
+  "feast": {
+    "month": 12,
+    "day": 24
+  },
+  "name": {
+    "en-US": "Sts. Thrasilla and Emiliana",
+    "pt-BR": "Santas Trasila e Emiliana"
+  },
+  "patronOf": {
+    "en-US": "Virgins, aunts of St. Gregory the Great",
+    "pt-BR": "Virgens, tias de São Gregório Magno"
+  },
+  "prayerExcerpt": {
+    "en-US": "We may often think the austerities of the Saints are beyond our strength; let us, then, imitate the guard they kept over their tongue.",
+    "pt-BR": "Podemos muitas vezes pensar que as austeridades dos Santos estão além de nossas forças; imitemos, então, a guarda que mantinham sobre a sua língua."
+  },
+  "lifeChapter": "dec-24-delphinus",
+  "meta": {
+    "face": "Two clearly different Roman sisters with a fair, ivory-olive complexion and the same dark hair hidden under their veils. THRASILLA (left), about fifty-five, has her brother Gordianus's LONG, DRAWN face — a HIGH forehead, a LONG, straight, SLENDER nose, calm, deep-set GREEN eyes under long, LEVEL dark brows, lifted upward, LEAN cheeks thinned by fasting, a small mouth closed in silence, a LONG, narrow chin. EMILIANA (right), about fifty, has a SHORTER, softly ROUND face — a smooth, rounded forehead, FULL cheeks, a SHORT, softly rounded nose, LARGE, round, dark-brown eyes under gently curved brows, a small, sweet mouth, a ROUND chin. Not the young leocadia or bibiana, nor the square-jawed olympias.",
+    "basis": "No likeness of either survives. Thrasilla is given the face John the Deacon records for their brother Gordianus in the portrait Gregory had painted at St. Andrew's on the Caelian ('facies deducta, virides oculi': a long face, green eyes); Emiliana's rounder face is ours, to tell the sisters apart. The Caelian house is Gregory's family home, later his monastery.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-24-delphinus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "S. Boesch Gajano, 'Un giovane aristocratico romano' (quotes John the Deacon, Vita Gregorii IV.83, on Gordianus's portrait, and the aunts)",
+        "url": "http://www.rmoa.unina.it/194/1/RM-Boesch-Gregorio.pdf"
+      },
+      {
+        "title": "Santi e Beati, Santa Tarsilla (Roman Martyrology entry, 24 December)",
+        "url": "https://www.santiebeati.it/dettaglio/83050"
+      },
+      {
+        "title": "Santi e Beati, Santa Emiliana (Roman Martyrology entry, 5 January)",
+        "url": "https://www.santiebeati.it/dettaglio/36330"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-24-delphinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-24-delphinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-42.md."
+      }
+    ]
+  }
+}

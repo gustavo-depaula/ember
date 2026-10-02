@@ -1,0 +1,49 @@
+{
+  "id": "sabinus_companions",
+  "feast": {
+    "month": 12,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Sabinus and Companions",
+    "pt-BR": "São Sabino e Companheiros"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyrs of Umbria",
+    "pt-BR": "Bispo e mártires da Úmbria"
+  },
+  "prayerExcerpt": {
+    "en-US": "How powerfully do the martyrs cry out to us by their example, exhorting us to despise a false and wicked world!",
+    "pt-BR": "Quão poderosamente clamam a nós os mártires pelo seu exemplo, exortando-nos a desprezar um mundo falso e perverso!"
+  },
+  "lifeChapter": "dec-30-sabinus",
+  "meta": {
+    "face": "Three clearly different men of Roman Umbria. SABINUS (centre), about sixty, after the Ravenna mosaic: a LONG, NARROW face with a SQUARE, level chin — a LOW, straight FRINGE of short grey-brown hair combed forward across the forehead (NOT bald); LARGE, wide-open, dark ALMOND eyes under straight brows; a LONG, thin nose; lean cheeks; a small, firm mouth; a SHORT, trimmed grey-brown beard following the jaw. MARCELLUS (left), about thirty-five: a BROAD, SQUARE, strong-jawed face, olive-tanned, with close black curls, heavy straight black brows, dark eyes, a short, straight nose, a firm mouth, and a close black beard. EXUPERANTIUS (right), about twenty-five: a SOFT, ROUND face with a fair olive complexion, WAVY chestnut hair to the ears, round hazel eyes under arched brows, a small, slightly upturned nose, and a short, soft first beard.",
+    "basis": "Sabinus's face follows his figure among the procession of martyrs in the sixth-century mosaic of Sant'Apollinare Nuovo, Ravenna (a long face, a fringe of short hair, a short beard), which Santi e Beati identifies with him; Pietro Lorenzetti's predella also shows him with a short grey beard. No image of the two deacons is known; their faces are ours, made unlike each other and him.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-30-sabinus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Sanctus Sabinus, mosaic, Sant'Apollinare Nuovo, Ravenna (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Sanctus_Sabinus_Ravenna.jpg"
+      },
+      {
+        "title": "Wikipedia, Sabinus of Spoleto (lead: Pietro Lorenzetti's predella)",
+        "url": "https://en.wikipedia.org/wiki/Sabinus_of_Spoleto"
+      },
+      {
+        "title": "Santi e Beati, San Sabino di Spoleto (Roman Martyrology entry, 7 December)",
+        "url": "https://www.santiebeati.it/dettaglio/91900"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-30-sabinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-30-sabinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-42.md."
+      }
+    ]
+  }
+}

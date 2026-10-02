@@ -1,0 +1,45 @@
+{
+  "id": "ischyrion",
+  "feast": {
+    "month": 12,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Ischyrion",
+    "pt-BR": "Santo Isquírion"
+  },
+  "patronOf": {
+    "en-US": "Martyr of Egypt",
+    "pt-BR": "Mártir do Egito"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is not a man's condition, but virtue, that can make him truly great or truly happy.",
+    "pt-BR": "Não é a condição de um homem, mas a virtude, que pode torná-lo verdadeiramente grande ou verdadeiramente feliz."
+  },
+  "lifeChapter": "dec-22-ischyrion",
+  "meta": {
+    "face": "An Egyptian of about thirty-five with a warm, DEEP-BROWN complexion and a ROUND, FULL face with FLESHY cheeks and a BROAD, rounded jaw, after a Roman-Egyptian mummy portrait — a LOW, rounded forehead under short, thick, close-cropped black hair; THICK, straight black brows; LARGE, dark, HEAVY-LIDDED eyes with a mild, patient look, lifted a little; a BROAD nose with a rounded tip and wide nostrils; a FULL, soft, closed mouth; a SHORT, DENSE black beard trimmed close along the jaw and chin. Not the lean, angular nemesion, the kite-shaped julian_basilissa or the long pachomius.",
+    "basis": "No likeness survives. The face is modelled on an encaustic Fayum mummy portrait of a man in the British Museum (a round, full face, close-cropped black hair and a short black beard), the look of Roman Egypt in his century; his dress and tablets follow Dionysius of Alexandria's letter in Eusebius, where he keeps a magistrate's accounts for hire.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-22-ischyrion.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Fayum mummy portrait of a man, encaustic on limewood, British Museum (Wikimedia Commons, Fayum-06)",
+        "url": "https://commons.wikimedia.org/wiki/File:Fayum-06.jpg"
+      },
+      {
+        "title": "Santi e Beati, Sant'Ischirione di Alessandria (Roman Martyrology entry; Dionysius in Eusebius)",
+        "url": "https://www.santiebeati.it/dettaglio/82720"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-22-ischyrion (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-22-ischyrion.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-42.md."
+      }
+    ]
+  }
+}

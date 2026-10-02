@@ -1,0 +1,49 @@
+{
+  "id": "philogonius",
+  "feast": {
+    "month": 12,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Philogonius",
+    "pt-BR": "São Filogônio"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Antioch",
+    "pt-BR": "Bispo de Antioquia"
+  },
+  "prayerExcerpt": {
+    "en-US": "A soul must here learn the heavenly spirit, and be well versed in the occupations of the blessed, that hopes to reign with them hereafter.",
+    "pt-BR": "Uma alma deve aprender aqui o espírito celestial, e estar bem versada nas ocupações dos bem-aventurados, se espera reinar com eles no porvir."
+  },
+  "lifeChapter": "dec-20-philogonius",
+  "meta": {
+    "face": "A Greek of Antioch of about sixty with a warm, light olive complexion and a STRONG face WIDEST at the CHEEKBONES, which stand out broad and high — a straight forehead under thick, WAVY iron-grey hair cut short and only a little RECEDING at the temples (NOT bald, no domed crown); MOBILE, strongly ARCHED black-and-grey brows, the right one a little RAISED; LARGE, PROMINENT, expressive dark-brown eyes with the direct, persuasive look of an advocate; a FULL, straight nose with a strong, ROUNDED tip; a WIDE, well-cut mouth with a FULL LOWER LIP, as if about to speak; a medium-length grey beard, close at the cheeks so the line of the jaw shows, ending in a BLUNT POINT. Not the narrow, balding gregory_thaumaturgus, the domed eulogius_alexandria or the tall, egg-shaped anicetus.",
+    "basis": "No likeness survives. The face follows the Menologion of Basil II (grey hair, a grey beard ending in a point, a strong nose), made more animated for the advocate the book describes, and the book's engraving, where he speaks with a raised hand; the dress is the Menologion's bishop's phelonion and omophorion.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-20-philogonius.md Reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Menologion of Basil II, Philogonius bishop (Wikimedia Commons)",
+        "url": "https://commons.wikimedia.org/wiki/File:Menologion_of_Basil_II_-_Philogonius_bishop.jpg"
+      },
+      {
+        "title": "Wikipedia, Philogonius",
+        "url": "https://en.wikipedia.org/wiki/Philogonius"
+      },
+      {
+        "title": "Santi e Beati, San Filogonio di Antiochia (Roman Martyrology entry, 20 December)",
+        "url": "https://www.santiebeati.it/dettaglio/82480"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-20-philogonius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-20-philogonius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-42.md."
+      }
+    ]
+  }
+}
