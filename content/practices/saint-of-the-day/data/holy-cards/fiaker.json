@@ -1,0 +1,45 @@
+{
+  "id": "fiaker",
+  "feast": {
+    "month": 8,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Fiaker",
+    "pt-BR": "São Fiacro"
+  },
+  "patronOf": {
+    "en-US": "Patron of gardeners",
+    "pt-BR": "Padroeiro dos jardineiros"
+  },
+  "prayerExcerpt": {
+    "en-US": "If any man will not work, neither let him eat.",
+    "pt-BR": "Se alguém não quiser trabalhar, também não coma."
+  },
+  "lifeChapter": "aug-30-fiaker-anchorite",
+  "meta": {
+    "face": "An Irishman of about fifty-five with a fair, freckled, weather-browned complexion and a HEART-SHAPED face, BROAD at the temples and tapering to a NARROW chin — the front of the head shaved from ear to ear in the Irish tonsure, leaving a high, bare, lined forehead, with dark-brown hair greying and falling from behind the ears to the nape; a long, THIN nose with a KNOBBED, rounded tip, SMALL, bright, dark-grey eyes set CLOSE under SHAGGY dark brows, sharp, high cheekbones over lean cheeks, a small mouth; a SHORT, POINTED dark-brown beard streaked with grey; the gaze kindly and shrewd, toward us. Not the long, big-boned, jutting-chinned, red-grey columban, nor the broad, clean-shaven, white-haired columba.",
+    "basis": "No likeness survives; the book tells an Irish anchorite who cleared his own garden at Breuil, and his emblem since the Middle Ages is the spade (as in the Bar-le-Duc window on Wikipedia). The face is ours, an Irish monk of the seventh century with the ear-to-ear tonsure.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-30-fiaker-anchorite.md Reflection, the words of St. Paul it quotes (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saint Fiacre (lead: window at Notre-Dame, Bar-le-Duc)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Fiacre"
+      },
+      {
+        "title": "Santi e Beati, San Fiacrio (Fiacre) (Roman Martyrology entry, 30 August)",
+        "url": "https://www.santiebeati.it/dettaglio/68200"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-30-fiaker-anchorite (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-30-fiaker-anchorite.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

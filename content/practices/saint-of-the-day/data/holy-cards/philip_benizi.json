@@ -1,0 +1,45 @@
+{
+  "id": "philip_benizi",
+  "feast": {
+    "month": 8,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Philip Benizi",
+    "pt-BR": "São Filipe Benício"
+  },
+  "patronOf": {
+    "en-US": "General of the Servites",
+    "pt-BR": "Geral dos Servitas"
+  },
+  "prayerExcerpt": {
+    "en-US": "Endeavor so to act as you would wish to have acted when you stand before your Judge.",
+    "pt-BR": "Esforça-te por agir como desejarias ter agido quando estiveres diante do teu Juiz."
+  },
+  "lifeChapter": "aug-23-philip-benizi",
+  "meta": {
+    "face": "A Florentine of about fifty, CLEAN-SHAVEN, with a warm, light-olive complexion and a WIDE, SOFT, ROUND face, after the Renaissance portrait on his Wikipedia page — a small, LOW forehead under a THICK ring of grizzled dark hair in the tonsure (not bald), a LARGE, AQUILINE nose curving down to a HOOKED tip, SMALL, NARROW dark eyes that SLANT DOWN at the outer corners, softly pouched beneath, under thin, arched brows, FULL, soft cheeks and gentle jowls, a SMALL, pursed mouth, a soft, ROUND chin; the gaze lowered to the crucifix, contrite and tender. Not the square-jawed, keen-eyed albert_great, the domed, bald antoninus_florence, or any of the seven servite_founders.",
+    "basis": "No portrait from life is known; the Renaissance painting used on Wikipedia shows a round, fleshy face with a large nose, which the card follows. The crucifix held as a book is from the Martyrology ('considerava Cristo crocifisso l'unico suo libro'); the tiara from the book's refusal of the papacy.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-23-philip-benizi.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Philip Benizi (lead: detail of a Renaissance painting)",
+        "url": "https://en.wikipedia.org/wiki/Philip_Benizi"
+      },
+      {
+        "title": "Santi e Beati, San Filippo Benizi (Roman Martyrology entry, 22 August)",
+        "url": "https://www.santiebeati.it/dettaglio/34200"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-23-philip-benizi (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-23-philip-benizi.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

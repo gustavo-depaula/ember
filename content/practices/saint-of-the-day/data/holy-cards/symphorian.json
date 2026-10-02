@@ -1,0 +1,45 @@
+{
+  "id": "symphorian",
+  "feast": {
+    "month": 8,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Symphorian",
+    "pt-BR": "São Sinforiano"
+  },
+  "patronOf": {
+    "en-US": "Martyr of Autun",
+    "pt-BR": "Mártir de Autun"
+  },
+  "prayerExcerpt": {
+    "en-US": "We must choose as St. Symphorian chose, and obey God rather than man.",
+    "pt-BR": "Devemos escolher como escolheu São Sinforiano, e obedecer a Deus antes que aos homens."
+  },
+  "lifeChapter": "aug-22-symphorian",
+  "meta": {
+    "face": "Two figures. SYMPHORIAN, a Gallo-Roman of about twenty, BEARDLESS, with a fair, fresh complexion and a LONG face with a LONG, STRAIGHT jawline ending in a DEEP, SQUARE chin — a high, narrow forehead, a THIN, HIGH-BRIDGED, slightly AQUILINE nose, deep-set, clear BLUE eyes under straight fair brows, lean cheeks, a wide, firm mouth; thick, STRAIGHT fair-blond hair cut short across the forehead, no curls; the gaze lifted, joyful and resolute. AUGUSTA, his mother, small in the distance, about fifty: a long, pale face under the white veil, her mouth open in a call. Not the square, snub-nosed, chestnut-haired Tiburtius of tiburtius_susanna, the curly, olive pantaleon or the long-haired casimir.",
+    "basis": "No likeness survives; the Martyrology keeps only his mother's cry from the wall of Autun as he went to die. The book calls him a young noble; the fair Gallo-Roman face is ours, and the mother on the wall follows the Martyrology, the book and Ingres's composition for Autun cathedral.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-22-symphorian.md Reflection, last sentence, its main clause (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Symphorian (lead: Ingres, The Martyrdom of St. Symphorian, Autun cathedral)",
+        "url": "https://en.wikipedia.org/wiki/Symphorian"
+      },
+      {
+        "title": "Santi e Beati, San Sinforiano di Autun (Roman Martyrology entry, 22 August)",
+        "url": "https://www.santiebeati.it/dettaglio/92308"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-22-symphorian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-22-symphorian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

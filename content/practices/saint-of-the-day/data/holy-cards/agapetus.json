@@ -1,0 +1,44 @@
+{
+  "id": "agapetus",
+  "feast": {
+    "month": 8,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Agapetus",
+    "pt-BR": "Santo Agapito"
+  },
+  "patronOf": {
+    "en-US": "Martyr of Palestrina",
+    "pt-BR": "Mártir de Palestrina"
+  },
+  "prayerExcerpt": {
+    "en-US": "His name is famous in the ancient calendars of the Church of Rome.",
+    "pt-BR": "Seu nome é famoso nos antigos calendários da Igreja de Roma."
+  },
+  "meta": {
+    "face": "A Roman youth of about fifteen, visibly a boy and not a young man, BEARDLESS, with a fair, lightly sun-warmed complexion and a HEART-SHAPED face — a BROAD, smooth, rounded forehead, wide cheekbones tapering to a SMALL, POINTED chin, a small, straight nose, LARGE, clear GREY eyes under fine, arched light-brown brows, a small, bow-shaped mouth; STRAIGHT light-brown hair, cut short, with one lock falling over the brow; the gaze lifted a little, bright and steady. Not the round, curly pancras, the wide, flat venantius_camerino, the short, wide, bowl-fringed Celsus of nazarius_celsus, or the chubby, curly Martialis of seven_brothers; no curls.",
+    "basis": "No likeness survives; the Martyrology gives only 'A Palestrina nel Lazio, sant'Agapito, martire', and the book a youth martyred at Praeneste under Aurelian. His legend makes him fifteen or sixteen and of a noble Praenestine family, which the toga praetexta and bulla show; the face is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-18-helena.md, fourth paragraph (his), second sentence; the chapter is shared with St. Helena and its Reflection is hers, so the card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Agapitus of Palestrina (lead: Prestinari's statue, Milan cathedral museum)",
+        "url": "https://en.wikipedia.org/wiki/Agapitus_of_Palestrina"
+      },
+      {
+        "title": "Santi e Beati, Sant'Agapito, adolescente, martire (Roman Martyrology entry, 18 August)",
+        "url": "https://www.santiebeati.it/dettaglio/92898"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-18-helena (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-18-helena.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

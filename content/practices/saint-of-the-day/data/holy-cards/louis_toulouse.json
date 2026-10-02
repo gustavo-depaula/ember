@@ -1,0 +1,49 @@
+{
+  "id": "louis_toulouse",
+  "feast": {
+    "month": 8,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Louis of Toulouse",
+    "pt-BR": "São Luís de Toulouse"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Toulouse",
+    "pt-BR": "Bispo de Toulouse"
+  },
+  "prayerExcerpt": {
+    "en-US": "His modesty, mildness, and devotion inspired a love of piety in all who beheld him.",
+    "pt-BR": "Sua modéstia, brandura e devoção inspiravam um amor à piedade em todos os que o contemplavam."
+  },
+  "lifeChapter": "aug-19-louis",
+  "meta": {
+    "face": "A prince of twenty-three, CLEAN-SHAVEN, with a pale, smooth complexion and a face WIDER at the JAW than at the brow, after Simone Martini's fresco at Assisi painted some twenty years after his death — a smooth, moderate forehead, a LONG, STRAIGHT nose with a broad base, SMALL, NARROW, heavy-lidded grey eyes under faint, level brows, full, smooth cheeks, a SMALL, closed mouth, a BROAD, rounded jaw on a thick neck; short, light-brown hair showing below the mitre; the gaze turned a little aside, quiet and withdrawn. Not the long, narrow oval of his great-uncle louis_france, nor the older, pear-shaped stanislaus.",
+    "basis": "Simone Martini painted him twice within about twenty years of his death (the Assisi fresco and the Naples altarpiece): a pale young bishop with a broad lower face, long nose and small eyes, the Franciscan habit under a fleur-de-lis cope and the renounced crown. The card follows that type.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-19-louis.md, fourth paragraph, second sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Louis of Toulouse (lead: Simone Martini's fresco at Assisi)",
+        "url": "https://en.wikipedia.org/wiki/Louis_of_Toulouse"
+      },
+      {
+        "title": "Wikipédia (fr), Louis d'Anjou (lead: Antonio Vivarini, Louvre)",
+        "url": "https://fr.wikipedia.org/wiki/Louis_d%27Anjou"
+      },
+      {
+        "title": "Santi e Beati, San Ludovico d'Angiò (di Tolosa) (Roman Martyrology entry, 19 August)",
+        "url": "https://www.santiebeati.it/dettaglio/90385"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-19-louis (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-19-louis.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

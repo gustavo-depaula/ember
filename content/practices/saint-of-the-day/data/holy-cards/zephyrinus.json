@@ -1,0 +1,45 @@
+{
+  "id": "zephyrinus",
+  "feast": {
+    "month": 8,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Zephyrinus",
+    "pt-BR": "São Zeferino"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "God has always raised up holy pastors zealous to maintain the faith of His Church inviolable.",
+    "pt-BR": "Deus sempre suscitou santos pastores zelosos por manter inviolável a fé de sua Igreja."
+  },
+  "lifeChapter": "aug-26-zephyrinus",
+  "meta": {
+    "face": "A Roman of about seventy-five with a weathered olive complexion and a BROAD, FLAT-FEATURED face under a ROUND, bald crown with white hair at the sides — a wide, LOW, slightly bulging brow, TUFTED white brows that FLARE UP at their outer ends, SMALL, kind, DOWN-SLANTING grey eyes, a BROAD, FLAT nose with a LOW bridge, wide, flat cheeks, a small mouth; a long, full, WAVY white beard falling to the chest with a white moustache, as in the book's engraving; the gaze grave and gentle, toward us. Not the wide, fringed, square-bearded callistus (his deacon), the round, dark-bearded Pontian of pontian_hippolytus, the heart-shaped soter, or the long-faced fabian and stephen_i.",
+    "basis": "No likeness survives. The book's engraving gives him a long white beard; the flat, broad features are ours, to keep him apart from the other early popes. Dress without tiara or mitre, as on stephen_i.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-26-zephyrinus.md Reflection, first sentence, its first clause (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Zephyrinus",
+        "url": "https://en.wikipedia.org/wiki/Pope_Zephyrinus"
+      },
+      {
+        "title": "Santi e Beati, San Zefirino, papa (Roman Martyrology entry, 20 December)",
+        "url": "https://www.santiebeati.it/dettaglio/67700"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-26-zephyrinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-26-zephyrinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

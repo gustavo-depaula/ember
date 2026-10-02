@@ -1,0 +1,45 @@
+{
+  "id": "helena",
+  "feast": {
+    "month": 8,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Helena",
+    "pt-BR": "Santa Helena"
+  },
+  "patronOf": {
+    "en-US": "Empress, mother of Constantine",
+    "pt-BR": "Imperatriz, mãe de Constantino"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Helena thought it the glory of her life to find the cross of Christ, and to raise a temple in its honor.",
+    "pt-BR": "Santa Helena considerava a glória de sua vida encontrar a cruz de Cristo, e erguer um templo em sua honra."
+  },
+  "lifeChapter": "aug-18-helena",
+  "meta": {
+    "face": "St. Helena as in recurring-figures.md: the empress at about seventy-eight (Eusebius: about eighty at her return from Palestine), a LONG, dignified face narrowing to a FIRM, slightly prominent chin — a high forehead, a STRONG, STRAIGHT ROMAN NOSE running on from the line of the brow, large deep-set grey-brown eyes under thin, arched silver brows, lean cheeks with fine lines at the eyes and mouth; silver-white hair waved back from the brow and gathered in a low bun at the nape, as on her coins, under a white veil and a slender jewelled gold diadem; a white stola bordered in gold and a deep purple imperial mantle.",
+    "basis": "Her face follows recurring-figures.md, written for discovery_cross from her coin portraits and Eusebius's account of her age; her own card must match it. The pose is the book's engraving: the empress standing with the upright cross.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-18-helena.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Helena, mother of Constantine I (lead: the seated statue in the Capitoline Museums)",
+        "url": "https://en.wikipedia.org/wiki/Helena,_mother_of_Constantine_I"
+      },
+      {
+        "title": "Santi e Beati, Sant'Elena, madre dell'imperatore Costantino (Roman Martyrology entry, 18 August)",
+        "url": "https://www.santiebeati.it/dettaglio/66500"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-18-helena (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-18-helena.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

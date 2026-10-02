@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 126 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 136 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 495 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 505 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -449,16 +449,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [ ] 11 Aug · Sts. Tiburtius and Susanna, Martyrs · *São Tibúrcio e Santa Susana, Mártires* · Pictorial Lives
 - [ ] 13 Aug · St. Radegundes, Queen · *Santa Radegundes, Rainha* · Pictorial Lives
 - [ ] 14 Aug · St. Eusebius, Priest · *Santo Eusébio, Sacerdote* · Pictorial Lives
-- [ ] 16 Aug · St. Hyacinth · *São Jacinto* · Pictorial Lives
-- [ ] 17 Aug · St. Liberatus, Abbot, and Six Monks, Martyrs · *São Liberato, Abade, e Seis Monges, Mártires* · Pictorial Lives
-- [ ] 18 Aug · St. Helena, Empress · *Santa Helena, Imperatriz* · Pictorial Lives
-- [ ] 18 Aug · St. Agapetus, Martyr · *Santo Agapito, Mártir* · Pictorial Lives
-- [ ] 19 Aug · St. Louis, Bishop · *São Luís, Bispo* · Pictorial Lives
-- [ ] 22 Aug · St. Symphorian, Martyr · *São Sinforiano, Mártir* · Pictorial Lives
-- [ ] 23 Aug · St. Philip Benizi · *São Filipe Benício* · Pictorial Lives
-- [ ] 26 Aug · St. Zephyrinus, Pope and Martyr · *São Zeferino, Papa e Mártir* · Pictorial Lives
-- [ ] 30 Aug · St. Fiaker, Anchorite · *São Fiacro, Anacoreta* · Pictorial Lives
-- [ ] 31 Aug · St. Raymund Nonnatus · *São Raimundo Nonato* · Pictorial Lives
+- [x] 16 Aug · St. Hyacinth · *São Jacinto* · Pictorial Lives — `hyacinth`
+- [x] 17 Aug · St. Liberatus, Abbot, and Six Monks, Martyrs · *São Liberato, Abade, e Seis Monges, Mártires* · Pictorial Lives — `liberatus`
+- [x] 18 Aug · St. Helena, Empress · *Santa Helena, Imperatriz* · Pictorial Lives — `helena`
+- [x] 18 Aug · St. Agapetus, Martyr · *Santo Agapito, Mártir* · Pictorial Lives — `agapetus`
+- [x] 19 Aug · St. Louis, Bishop · *São Luís, Bispo* · Pictorial Lives — `louis_toulouse`
+- [x] 22 Aug · St. Symphorian, Martyr · *São Sinforiano, Mártir* · Pictorial Lives — `symphorian`
+- [x] 23 Aug · St. Philip Benizi · *São Filipe Benício* · Pictorial Lives — `philip_benizi`
+- [x] 26 Aug · St. Zephyrinus, Pope and Martyr · *São Zeferino, Papa e Mártir* · Pictorial Lives — `zephyrinus`
+- [x] 30 Aug · St. Fiaker, Anchorite · *São Fiacro, Anacoreta* · Pictorial Lives — `fiaker`
+- [x] 31 Aug · St. Raymund Nonnatus · *São Raimundo Nonato* · Pictorial Lives — `raymund_nonnatus`
 - [ ] 1 Sep · St. Giles, Abbot · *Santo Egídio, Abade* · Pictorial Lives
 - [ ] 4 Sep · St. Rosalia, Virgin · *Santa Rosália, Virgem* · Pictorial Lives
 - [ ] 5 Sep · St. Laurence Justinian · *São Lourenço Justiniano* · Pictorial Lives

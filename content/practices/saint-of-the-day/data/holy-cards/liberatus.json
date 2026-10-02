@@ -1,0 +1,41 @@
+{
+  "id": "liberatus",
+  "feast": {
+    "month": 8,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Liberatus and Six Monks",
+    "pt-BR": "São Liberato e Seis Monges"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Carthage",
+    "pt-BR": "Mártires de Cartago"
+  },
+  "prayerExcerpt": {
+    "en-US": "If as a Christian, let him not be ashamed, but let him glorify God in that name.",
+    "pt-BR": "Se padecer como cristão, não se envergonhe, antes glorifique a Deus nesse nome."
+  },
+  "lifeChapter": "aug-17-liberatus",
+  "meta": {
+    "face": "Seven clearly different North Africans of the Roman province, warm olive-brown to deep-brown skin. LIBERATUS (centre front), the abbot, about sixty-five: a LARGE, BOXY head with a flat crown — a broad, deeply lined forehead, a strong ROMAN nose with a high bridge, grave, HOODED dark-brown eyes, deep lines from nose to mouth, a thin, wide mouth, a SQUARE chin under a short, full WHITE beard cut square; close white hair. MAXIMUS (front, at his right), a boy of about twelve, the darkest-skinned of the group, deep brown: a soft OVAL face with full cheeks, a BROAD, short nose with wide nostrils, very LARGE dark eyes, a full mouth, a softly rounded chin; black hair in short, tight curls close to the head; looking up at his abbot. Not the triangular, big-eared Vitalis or the chubby Martialis of seven_brothers. BEHIND, left to right: BONIFACE, about forty, a ROUND, full face with a short black beard and a broad, kind smile; SERVUS, about thirty, a LONG, NARROW, beardless face with a hooked nose; RUSTICUS, about thirty-five, a BROAD, FLAT face with a snub nose and dark stubble, thick black hair; ROGATUS, about fifty-five, GAUNT, bald on the crown, with a wispy grey beard; SEPTIMUS, about forty-five, a PEAR-SHAPED face, heavy in the jaw, clean-shaven, with short, thick grey-black hair. All gazes calm, some lifted.",
+    "basis": "No likeness survives; Victor of Vita's account, which the book follows, gives only their names, the monastery near Capsa and the boy Maximus's youth. The faces are ours, seven different men and a boy of Roman Africa.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-17-liberatus.md Reflection, the second half of it (the Scripture it quotes, from its 'if as a Christian') (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Santi e Beati, Santi Liberato, Bonifacio, Servio, Rustico, Rogato, Settimo e Massimo (Roman Martyrology entry, 2 July)",
+        "url": "https://www.santiebeati.it/dettaglio/90172"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-17-liberatus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-17-liberatus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}

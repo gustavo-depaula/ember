@@ -1,0 +1,45 @@
+{
+  "id": "hyacinth",
+  "feast": {
+    "month": 8,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. Hyacinth",
+    "pt-BR": "São Jacinto"
+  },
+  "patronOf": {
+    "en-US": "Apostle of Poland",
+    "pt-BR": "Apóstolo da Polônia"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Hyacinth teaches us to employ every effort in the service of God, and to rely for success not on our own industry, but on the prayer of His Immaculate Mother.",
+    "pt-BR": "São Jacinto nos ensina a empregar todo esforço no serviço de Deus, e a confiar para o êxito não em nossa própria diligência, mas na oração de sua Imaculada Mãe."
+  },
+  "lifeChapter": "aug-16-hyacinth",
+  "meta": {
+    "face": "A Pole of about fifty-five with a fair, wind-reddened northern complexion and an OBLONG face with a FLAT-TOPPED crown — a broad, straight forehead, HIGH, ROUNDED cheekbones set wide in the Slavic manner, a SHORT nose with a broad, slightly UPTURNED tip, SMALL, deep-set, pale-blue eyes under slightly heavy lids and straight, fair brows, a WIDE, level mouth, a firm, SQUARISH chin with a shallow CLEFT; CLEAN-SHAVEN, with fair sandy hair turning grey in the Dominican corona; the gaze calm and trusting, lowered to the ciborium. Not the dark, compact peter_verona, the long, full-oval vincent_ferrer, the white-bearded raymund_penyafort or the domed, bald antoninus_florence.",
+    "basis": "No portrait from life survives. The book's scene (Kiev, the ciborium, the alabaster Madonna, the Dnieper) gives the subject; the face is ours, a Pole of fifty-five (born c. 1185, Kiev sacked 1240), after the Slavic type rather than the dark bearded friar of Carracci's altarpiece.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/aug-16-hyacinth.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Hyacinth of Poland (lead: Ludovico Carracci's altarpiece)",
+        "url": "https://en.wikipedia.org/wiki/Hyacinth_of_Poland"
+      },
+      {
+        "title": "Santi e Beati, San Giacinto Odrovaz (Roman Martyrology entry, 15 August)",
+        "url": "https://www.santiebeati.it/dettaglio/66250"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, aug-16-hyacinth (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/aug-16-hyacinth.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-34.md."
+      }
+    ]
+  }
+}
