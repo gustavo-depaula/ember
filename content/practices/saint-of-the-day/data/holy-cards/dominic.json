@@ -17,5 +17,18 @@
     "pt-BR": "Falar somente de Deus, ou com Deus."
   },
   "proper": "sanctorale.08-08",
-  "lifeChapter": "aug-04-dominic"
+  "lifeChapter": "aug-04-dominic",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-dominic",
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "our_lady_rosary"
+    ]
+  }
 }

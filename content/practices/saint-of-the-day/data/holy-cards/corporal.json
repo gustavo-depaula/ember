@@ -14,6 +14,18 @@
     "en-US": "Then he places the paten with the bread on the corporal.",
     "pt-BR": "Em seguida, coloca a patena com o pão sobre o corporal."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ],
+    "cards": [
+      "purificator"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The corporal is prepared on the credence table (GIRM 118c) and spread on the altar at the Preparation of the Gifts (GIRM 139), where the paten and chalice are placed on it (the excerpt's rubric; GIRM 151); the altar itself bears 'at least one cloth, white in color' (GIRM 304). The GIRM fixes no material or form: the square of pure white linen, folded in three each way, with at most a small cross, is the traditional corporal (Catholic Encyclopedia, 'Corporal').",

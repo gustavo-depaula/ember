@@ -17,5 +17,17 @@
     "pt-BR": "Este é o meu Filho amado, no qual me comprazo; escutai-o."
   },
   "proper": "sanctorale.08-06",
-  "lifeChapter": "aug-06-the-transfiguration-of-our-lord"
+  "lifeChapter": "aug-06-the-transfiguration-of-our-lord",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "institution_eucharist"
+    ]
+  }
 }

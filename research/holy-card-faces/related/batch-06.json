@@ -1,0 +1,267 @@
+{
+  "alexius": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-alexius"
+        ]
+      }
+    ]
+  },
+  "apollinaris": {
+    "cards": [
+      "peter_chrysologus",
+      "peter"
+    ]
+  },
+  "beheading_john_baptist": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-john-the-baptist",
+          "practice/st-john-baptist-novena"
+        ]
+      }
+    ]
+  },
+  "bonaventure": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-passion-of-our-lord-by-s-bonaventure",
+          "practice/prayer-of-st-bonaventure"
+        ]
+      }
+    ],
+    "cards": [
+      "thomas_aquinas",
+      "francis_assisi"
+    ]
+  },
+  "camillus": {
+    "cards": [
+      "philip_neri"
+    ]
+  },
+  "dominic": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-dominic",
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "our_lady_rosary"
+    ]
+  },
+  "elizabeth_portugal": {
+    "cards": [
+      "elizabeth_hungary"
+    ]
+  },
+  "germanus_auxerre": {
+    "cards": [
+      "palladius"
+    ]
+  },
+  "heliodorus": {
+    "read": [
+      {
+        "refs": [
+          "book/jerome-letters"
+        ]
+      }
+    ],
+    "cards": [
+      "jerome"
+    ]
+  },
+  "hyacinth": {
+    "cards": [
+      "dominic"
+    ]
+  },
+  "inacio_azevedo": {
+    "cards": [
+      "francis_borgia"
+    ]
+  },
+  "james_greater": {
+    "cards": [
+      "john_evangelist"
+    ]
+  },
+  "john_eudes": {
+    "collections": [
+      "collection/sacred-heart"
+    ],
+    "cards": [
+      "sacred_heart",
+      "immaculate_heart"
+    ]
+  },
+  "lawrence": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-lawrence"
+        ]
+      }
+    ],
+    "cards": [
+      "sixtus_ii"
+    ]
+  },
+  "louis_toulouse": {
+    "cards": [
+      "louis_france",
+      "elizabeth_hungary"
+    ]
+  },
+  "nazarius_celsus": {
+    "cards": [
+      "ambrose"
+    ]
+  },
+  "palladius": {
+    "cards": [
+      "patrick"
+    ]
+  },
+  "pantaenus": {
+    "cards": [
+      "bartholomew"
+    ]
+  },
+  "peter_chains": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-peter"
+        ]
+      }
+    ]
+  },
+  "peter_favre": {
+    "cards": [
+      "francis_xavier"
+    ]
+  },
+  "peter_julian_eymard": {
+    "collections": [
+      "collection/eucharistic"
+    ]
+  },
+  "philip_benizi": {
+    "cards": [
+      "servite_founders"
+    ]
+  },
+  "pius_x": {
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "book/pius-x-greater-catechism"
+        ]
+      }
+    ]
+  },
+  "pontian_hippolytus": {
+    "read": [
+      {
+        "refs": [
+          "book/hippolytus-refutation-of-all-heresies",
+          "book/hippolytus-antichrist",
+          "book/hippolytus-against-the-heresy-of-noetus",
+          "book/hippolytus-some-exegetical-fragments"
+        ]
+      }
+    ]
+  },
+  "queenship": {
+    "pray": [
+      {
+        "refs": [
+          "practice/hail-holy-queen",
+          "practice/ave-regina-caelorum",
+          "practice/regina-caeli"
+        ]
+      }
+    ],
+    "cards": [
+      "assumption"
+    ]
+  },
+  "radegundes": {
+    "cards": [
+      "medard",
+      "germanus_paris"
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/vexilla-regis"
+        ]
+      }
+    ]
+  },
+  "raymund_nonnatus": {
+    "cards": [
+      "our_lady_mercy"
+    ]
+  },
+  "romanus_ostiarius": {
+    "cards": [
+      "lawrence"
+    ]
+  },
+  "rose_lima": {
+    "cards": [
+      "dominic",
+      "catherine_siena"
+    ]
+  },
+  "simon_stock": {
+    "pray": [
+      {
+        "refs": [
+          "practice/morning-offering-carmelite",
+          "practice/mount-carmel-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
+    ]
+  },
+  "teresa_benedicta": {
+    "collections": [
+      "collection/carmelite"
+    ]
+  },
+  "transfiguration": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "institution_eucharist"
+    ]
+  },
+  "james_nisibis": {
+    "cards": [
+      "ephrem"
+    ]
+  },
+  "stephen_i": {
+    "cards": [
+      "cornelius_cyprian"
+    ]
+  }
+}

@@ -14,6 +14,25 @@
     "en-US": "We see in Jesus one who was for a short while made lower than the angels and is now crowned with glory and splendour because he submitted to death",
     "pt-BR": "Jesus, a quem Deus fez pouco menor do que os anjos, nós o vemos coroado de glória e honra, por ter sofrido a morte."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "carrying_cross"
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo behind the thin crown of thorns; eyes lowered, serene. The soldiers are small and secondary, in shadow, faces turned away: one broad-shouldered with a bronze helmet, one lean and bare-headed with cropped dark hair.",
     "basis": "Matthew 27:27-30 and John 19:2-5 (scarlet cloak, crown of thorns, reed); composed as the seated 'Christ crowned with thorns' of devotional painting (Guido Reni, Titian's later type) with the soldiers kept small, so the card shows the kingship rather than the mockery. Christ from recurring-figures.md.",

@@ -14,6 +14,19 @@
     "en-US": "The charity of God is poured forth in our hearts, alleluia: by His Spirit dwelling in us, alleluia, alleluia.",
     "pt-BR": "O amor de Deus espalhou-se nos nossos corações, aleluia: pelo seu Espírito que habita em nós, aleluia, aleluia."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "cards": [
+      "september_ember_days"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Pentecost Ember Days fall within the octave of Pentecost and are kept in red in the traditional missal (Divinum Officium's liturgical_color: 'Quattuor Temporum Pentecostes'; the Portuguese missal's note 'Paramentos vermelhos'). Summer fields for the fruits of the earth; the young man in a cassock for the ordinations held on Ember Saturdays (Catechism of St. Pius X, part III, ch. IV, q. 23).",

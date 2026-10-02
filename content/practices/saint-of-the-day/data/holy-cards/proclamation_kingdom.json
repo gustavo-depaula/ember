@@ -14,6 +14,20 @@
     "en-US": "The kingdom of God is close at hand. Repent, and believe the Good News.",
     "pt-BR": "O Reino de Deus está próximo. Convertei-vos e crede no Evangelho!"
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "andrew",
+      "peter",
+      "transfiguration"
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; a rose-red tunic and a blue mantle; his gaze earnest and warm, looking at the crowd. St. Peter as in recurring-figures.md: about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; a blue tunic and golden-ochre mantle. St. Andrew as on the andrew card: an old man of about seventy with a kindly, weathered, LONG face — a long nose, deep-set eyes; abundant unruly curly grey-white hair and a long grey-white beard divided at the end into two points; a green tunic and a red mantle. The others are small and different: the mother, about twenty-five, a ROUND, soft face under a brown headscarf; the shepherd, about seventy, a NARROW, bony face with a hooked nose and a thin white beard; the boy, about eight, a heart-shaped face with black curls.",
     "basis": "Mark 1:14-20: in Galilee Jesus proclaims that the Kingdom is at hand and calls the fishermen Simon and Andrew by the lake. Christ and Peter from recurring-figures.md; Andrew from his own card.",

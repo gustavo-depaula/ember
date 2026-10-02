@@ -14,6 +14,16 @@
     "en-US": "Be not sad, for the joy of the Lord is our strength.",
     "pt-BR": "Não vos contristeis; porque a alegria do Senhor é a nossa fortaleza."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Ember Days thank God 'for the fruits already given' (Catechism of St. Pius X, part III, ch. IV, q. 23); the September days fall at the harvest and are kept in violet (Divinum Officium's liturgical_color; the Portuguese missal's note 'Paramentos roxos'). The Communion of Ember Wednesday (Nehemiah 8:10) is the harvest feast's 'joy of the Lord'.",

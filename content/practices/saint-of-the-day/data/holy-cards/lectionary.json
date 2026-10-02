@@ -14,6 +14,11 @@
     "en-US": "All scripture is inspired by God and can profitably be used for teaching, for refuting error, for guiding people's lives and teaching them to be holy.",
     "pt-BR": "Toda a Escritura é inspirada por Deus e útil para ensinar, para argumentar, para corrigir e para educar na justiça."
   },
+  "related": {
+    "cards": [
+      "book_of_gospels"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Lectionary is prepared 'at the ambo' (GIRM 118b) and, unlike the Book of the Gospels, is not carried in the Entrance Procession (GIRM 120d); with the Book of the Gospels it receives 'special veneration' and should be 'truly worthy, dignified, and beautiful' (GIRM 349). The green binding and the green desk cloth are a choice for Ordinary Time, not a norm. The excerpt is 2 Tim 3:16, from the Second Reading of the Twenty-Ninth Sunday in Ordinary Time, Year C: the whole of Scripture, which the Lectionary distributes over the year.",

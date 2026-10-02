@@ -38,7 +38,7 @@ Never invent an id. Every ref must exist, so grep the inventory or the content b
 
 Run from the repo root.
 
-- `research/holy-card-faces/related/inventory/*.tsv`: one line per card, practice, book, chapter and collection, with names, tags and descriptions. Grep these first, by English and Portuguese name, Latin name, surname, city, order, and patronage.
+- `research/holy-card-faces/related/inventory/*.tsv`: one line per card, practice, book, chapter and collection, with names, tags and descriptions. Grep these first, across every column (a saint's name is often in a book's *title* or description, under another author: the Martyrdom of Perpetua is filed under Tertullian), by English and Portuguese name, Latin name, surname, city, order, and patronage.
 - `content/practices/saint-of-the-day/data/holy-cards/<id>.json`: the card itself (name, patronage, `lifeChapter`, `proper`).
 - `content/books/pictorial-lives-of-saints/en-US/<lifeChapter>.md`: the saint's life as the app shows it. It is the best source for family, companions, and the same saint on other days.
 - The content itself, for what the inventory names don't show. For example, `grep -ril "benedict" content/practices/*/manifest.json content/practices/*/flow.json content/chapters content/collections` finds a prayer that is the saint's own but doesn't say so in its name.

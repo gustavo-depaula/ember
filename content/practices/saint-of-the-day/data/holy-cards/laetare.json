@@ -15,6 +15,16 @@
     "pt-BR": "Alegra-te, Jerusalém! Reuni-vos, vós todos que a amais!"
   },
   "proper": "tempore.lent.week-4.sunday",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "GIRM 346f allows rose on Laetare Sunday where it is the practice (the repo's formulary gives violet, the obligatory colour); GIRM 305 and 313 make Laetare the Lenten exception for flowers at the altar and for the organ played alone, which the card paints.",

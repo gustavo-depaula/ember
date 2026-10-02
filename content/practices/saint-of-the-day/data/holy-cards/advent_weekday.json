@@ -15,6 +15,28 @@
     "pt-BR": "Vinde, Senhor, visitai-nos na paz."
   },
   "proper": "tempore.advent.week-1.monday",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rorate-caeli",
+          "practice/alma-redemptoris-mater",
+          "practice/christmas-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The ordinary weekday Mass of Advent in violet (GIRM 346d) with moderate decoration (GIRM 305), set before dawn after the collect of the week's Monday, which asks to be found 'watchful in prayer'. The candles in the pews recall the dawn Advent Masses kept in many places; the Mass shown is the weekday's own, not the Marian votive (Rorate) Mass, which would be white.",

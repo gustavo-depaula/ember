@@ -15,6 +15,21 @@
     "pt-BR": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo."
   },
   "proper": "tempore.ordinary-time.week-17.sunday",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "cards": [
+      "ordinary_time_2_weekday",
+      "trinity",
+      "corpus_christi"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Green for Ordinary Time (GIRM 346c) and moderate flowers around the altar (GIRM 305): the full parish at Sunday Mass in summer, where the Ordinary Time I card shows the parish arriving in spring. The Seventeenth Sunday is chosen as the formulary because it always falls after Pentecost and after Trinity Sunday and Corpus Christi (between 24 and 30 July); its antiphon speaks of God gathering his people in his house.",

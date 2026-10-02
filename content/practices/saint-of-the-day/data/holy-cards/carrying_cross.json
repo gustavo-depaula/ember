@@ -14,6 +14,48 @@
     "en-US": "If anyone wants to be a follower of mine, let him renounce himself and take up his cross every day and follow me.",
     "pt-BR": "Se alguém me quer seguir, renuncie a si mesmo, tome sua cruz cada dia, e siga-me."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/rosary",
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        },
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary",
+          "book/liguori-esercizio-via-crucis"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross"
+    ],
+    "cards": [
+      "crucifixion"
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; the crown of thorns thin, no blood; his gaze on his Mother, full of compassion. Our Lady as in recurring-figures.md, the same face matured (the same woman, not a different face), a woman of about forty-eight with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head (a rose-red gown beneath); eyes on her Son in sorrow. St. John as in recurring-figures.md: a beardless young man of about twenty-two with a smooth OVAL face, large upturned brown eyes, a straight nose, a small full mouth; wavy golden-brown hair to the jaw; a green tunic and a red-orange mantle; he stands behind her, his hand at her shoulder. The three must read as clearly different: Christ bearded in rose-red under the Cross, Mary mature and veiled in blue, John beardless and golden-haired in green and red-orange.",
     "basis": "John 19:17 and Luke 23:26-28; the meeting of Christ and his Mother is the Fourth Station of the Way of the Cross and the usual image of this mystery on Rosary cards. Christ, Our Lady and John from recurring-figures.md.",

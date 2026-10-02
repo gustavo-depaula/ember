@@ -17,6 +17,12 @@
     "pt-BR": "Contaria por mais infeliz de sua vida aquele dia em que nada padecesse por seu Deus."
   },
   "lifeChapter": "mar-06-colette",
+  "related": {
+    "cards": [
+      "vincent_ferrer",
+      "clare_assisi"
+    ]
+  },
   "meta": {
     "face": "A Picard woman of about forty-five with a pale, fine complexion and a SMALL, NARROW face with sharply defined CHEEKBONES and a small, slightly JUTTING, POINTED chin — a smooth, low forehead under the wimple, a SHORT, fine, straight nose, VERY LARGE, dark-brown eyes that seem too big for the face, fine, straight dark brows, faint hollows under the cheekbones, a small, firm, closed mouth; hair hidden; the gaze intense and burning, lifted toward the light.",
     "basis": "No portrait from life survives; the Master of Lourinhã's panel of St. Clare and St. Colette (c. 1520, Lisbon; Wikipedia's lead image, Commons metadata consulted) shows her reading in a grey habit, white wimple and black veil, and the card keeps that dress and the book. The book's engraving shows her in her cell under a ray of light. Her cell against the church at Corbie is from the book and Wikipedia; the small face with very large eyes is our choice, apart from `clare_assisi`'s oval.",

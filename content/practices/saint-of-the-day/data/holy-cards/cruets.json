@@ -14,6 +14,18 @@
     "en-US": "By the mystery of this water and wine may we come to share in the divinity of Christ who humbled himself to share in our humanity.",
     "pt-BR": "Pelo mistério desta água e deste vinho possamos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "'Cruets containing the wine and the water' are prepared on the credence table (GIRM 118c); 'as the minister presents the cruets, the Priest … pours wine and a little water into the chalice, saying quietly, Per huius aquae' (GIRM 142), the prayer of the excerpt. The cruets hold the wine before it is consecrated and are not sacred vessels, so Redemptionis Sacramentum 117's bar on glass does not reach them; clear glass on a silver tray, which shows the wine from the water, is the traditional form, not a prescribed one.",

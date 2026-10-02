@@ -16,6 +16,29 @@
   },
   "lifeChapter": "easter-sunday",
   "proper": "tempore.easter.week-1.sunday",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/regina-caeli",
+          "practice/way-of-light",
+          "practice/way-of-light-scriptural",
+          "practice/stational-vespers-on-the-holy-day-of-easter"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/venantius-poem-on-easter",
+          "book/methodius-from-the-discourse-on-the-resurrection"
+        ]
+      }
+    ],
+    "cards": [
+      "easter_sunday"
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; in glory, a plain gold halo ringed with rays, a serene, victorious look straight out at the viewer. The angel: youthful, an OVAL face with a straight nose, fair skin and loose light-golden hair, looking toward Christ. The soldiers' faces are hidden.",
     "basis": "The Gospel accounts of the empty tomb (Mt 28:1-6, Jn 20:1) with the Western image of the risen Christ holding the banner of victory, as in Carl Bloch's Resurrection; Christ keeps the line from `transfiguration`.",

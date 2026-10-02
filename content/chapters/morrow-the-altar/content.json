@@ -1,0 +1,35 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Altar",
+        "pt-BR": "O Altar"
+      }
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-135.webp",
+      "caption": {
+        "en-US": "The altar cards contain some of the Mass prayers for the priest's convenience. Flowers may be used on the altar except during the penitential seasons, and at Masses for the dead. Along the whole front of the altar, when ready for Mass, is hung a rich and ornamented cloth called the antipendium, with colour varying according to the colour used for the Mass, in vestments, etc.",
+        "pt-BR": "Os cartões do altar contêm algumas das orações da Missa para conveniência do padre. Flores podem ser usadas no altar exceto durante as estações penitenciais, e nas Missas pelos mortos. Ao longo de toda a frente do altar, quando pronto para a Missa, está pendurado um pano rico e ornamentado chamado antependium, com cor variando segundo a cor usada para a Missa, em paramentos, etc."
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-01"
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-135b.webp",
+      "caption": {
+        "en-US": "In the building and furnishing of the altar, everything is laid down by law. The greatest exactness is observed. Above, we see the bishop consecrating an altar; he is placing the holy relics into the centre part in front of the tabernacle. It is on this part that at Mass, the chalice and host are laid.",
+        "pt-BR": "Na construção e mobiliário do altar, tudo é estabelecido por lei. A maior exatidão é observada. Acima, vemos o bispo consagrando um altar; ele está colocando as santas relíquias na parte central diante do tabernáculo. É sobre esta parte que na Missa, o cálice e hóstia são postos."
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-02"
+    }
+  ]
+}

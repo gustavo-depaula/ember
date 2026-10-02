@@ -14,6 +14,20 @@
     "en-US": "Quick! Bring out the best robe and put it on him.",
     "pt-BR": "Trazei depressa a melhor túnica para vestir meu filho."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "cards": [
+      "chasuble",
+      "dalmatic"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "'The stole is worn by the Priest around his neck and hanging down in front of his chest, while it is worn by the Deacon over his left shoulder' (GIRM 340); it is prepared for both with the alb (GIRM 119), the mark of their orders (Catholic Encyclopedia, 'Stole'). It follows the colour of the day (GIRM 346): the card shows violet, the colour of Advent and Lent (346d), because the excerpt is the Lenten Gospel of Saturday of the Second Week of Lent and the violet sets it apart from the white linens of this batch. The crosses at the ends and the middle are traditional; the Church prescribes only the one in the middle (Catholic Encyclopedia). The excerpt's 'best robe' is 'stolam primam' in the Vulgate (content/do Quad2-6).",

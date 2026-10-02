@@ -74,6 +74,6 @@ rows = []
 for f in sorted(glob.glob("content/collections/*.json")):
     c = json.load(open(f))
     items = [b["ref"] for s in c.get("sections", []) for b in s.get("blocks", []) if b.get("kind") == "item"]
-    rows.append([f"collection/{c['id']}", en(c.get("name")), ",".join(c.get("tags", [])), len(items),
+    rows.append([c["id"] if c["id"].startswith("collection/") else f"collection/{c['id']}", en(c.get("name")), ",".join(c.get("tags", [])), len(items),
                  clip(en(c.get("description"))), " ".join(items)])
 write("collections.tsv", ["ref", "name", "tags", "items", "description", "item_refs"], rows)

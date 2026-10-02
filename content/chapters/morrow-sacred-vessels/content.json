@@ -1,0 +1,35 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Sacred Vessels and Altar Linens",
+        "pt-BR": "Vasos Sagrados e Roupas de Altar"
+      }
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-136.webp",
+      "caption": {
+        "en-US": "1. Chalice and Purificator. 2. Paten and Chalice. 3. Pall, with Chalice. 4. Veiled Chalice.",
+        "pt-BR": "1. Cálice e Purificatório. 2. Patena e Cálice. 3. Pala, com Cálice. 4. Cálice Velado."
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-01"
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-136b.webp",
+      "caption": {
+        "en-US": "5. Burse and Corporal 6. Veiled Chalice and Burse 7. Missal with Stand 8. Cruets and Bell",
+        "pt-BR": "5. Bolsa e Corporal 6. Cálice Velado e Bolsa 7. Missal com Suporte 8. Galhetas e Campainha"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-02"
+    }
+  ]
+}

@@ -14,6 +14,20 @@
     "en-US": "The Priest, standing at the altar, takes the paten with the bread and holds it slightly raised above the altar with both hands.",
     "pt-BR": "O sacerdote, de pé junto ao altar, recebe a patena com o pão em suas mãos."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ],
+    "cards": [
+      "corporal",
+      "purificator",
+      "ciborium"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The paten is, with the chalice, the vessel in which 'the bread and wine are offered and consecrated' (GIRM 327), of precious metal (GIRM 328); 'a large paten may fittingly be used' for the hosts of priest, ministers and faithful (GIRM 331); it is prepared on the credence table (GIRM 118c) and raised with the bread at the Preparation of the Gifts (the excerpt's rubric). The card shows a single large host, the traditional priest's paten; the bread is unconsecrated, before the Offertory.",

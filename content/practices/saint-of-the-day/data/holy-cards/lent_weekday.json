@@ -15,6 +15,45 @@
     "pt-BR": "Convertei-nos, ó Deus, nosso Salvador."
   },
   "proper": "tempore.lent.week-1.monday",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        },
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/media-vita"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/liguori-esercizio-via-crucis",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross",
+      "collection/liturgical-year"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The weekday Mass of Lent in violet (GIRM 346d) with the flowerless altar of GIRM 305; the Stations of the Cross, a devotion the Directory on Popular Piety ties to Lent, are painted as part of the chapel's walls, not as a service.",

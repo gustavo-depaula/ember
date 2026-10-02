@@ -15,6 +15,19 @@
     "pt-BR": "Alegrai-vos sempre no Senhor! Repito, alegrai-vos! O Senhor está próximo."
   },
   "proper": "tempore.advent.week-3.sunday",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "cards": [
+      "laetare"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "GIRM 346f allows rose 'where it is the practice' on Gaudete Sunday (the repo's formulary gives the day's colour as violet, the obligatory one); the wreath's rose candle is lit this Sunday by custom. Flowers stay moderate, arranged around the altar (GIRM 305).",

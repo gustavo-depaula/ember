@@ -1,0 +1,203 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "The Holy Sacrifice of the Mass",
+        "pt-BR": "O Santo Sacrifício da Missa"
+      }
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140.webp",
+          "caption": {
+            "en-US": "Beginning of Mass",
+            "pt-BR": "Início da Missa"
+          }
+        },
+        {
+          "src": "images/lesson-140b.webp",
+          "caption": {
+            "en-US": "Confiteor",
+            "pt-BR": "Confiteor"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-01"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140c.webp",
+          "caption": {
+            "en-US": "Gloria",
+            "pt-BR": "Gloria"
+          }
+        },
+        {
+          "src": "images/lesson-140d.webp",
+          "caption": {
+            "en-US": "Epistle",
+            "pt-BR": "Epístola"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-02"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140e.webp",
+          "caption": {
+            "en-US": "The Gospel",
+            "pt-BR": "O Evangelho"
+          }
+        },
+        {
+          "src": "images/lesson-140f.webp",
+          "caption": {
+            "en-US": "The Offertory",
+            "pt-BR": "O Ofertório"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-03"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140g.webp",
+          "caption": {
+            "en-US": "Lavabo",
+            "pt-BR": "Lavabo"
+          }
+        },
+        {
+          "src": "images/lesson-140h.webp",
+          "caption": {
+            "en-US": "Sanctus",
+            "pt-BR": "Sanctus"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-04"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140i.webp",
+          "caption": {
+            "en-US": "Elevation",
+            "pt-BR": "Elevação"
+          }
+        },
+        {
+          "src": "images/lesson-140j.webp",
+          "caption": {
+            "en-US": "Pater Noster",
+            "pt-BR": "Pater Noster"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-05"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140k.webp",
+          "caption": {
+            "en-US": "\"Domine Non Sum Dignus\"",
+            "pt-BR": "\"Domine Non Sum Dignus\""
+          }
+        },
+        {
+          "src": "images/lesson-140l.webp",
+          "caption": {
+            "en-US": "Priest's Communion",
+            "pt-BR": "Comunhão do Padre"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-06"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140m.webp",
+          "caption": {
+            "en-US": "Postcommunion",
+            "pt-BR": "Pós-comunhão"
+          }
+        },
+        {
+          "src": "images/lesson-140n.webp",
+          "caption": {
+            "en-US": "Blessing",
+            "pt-BR": "Bênção"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-07"
+    },
+    {
+      "type": "gallery",
+      "display": "row",
+      "items": [
+        {
+          "src": "images/lesson-140o.webp",
+          "caption": {
+            "en-US": "The Last Gospel",
+            "pt-BR": "O Último Evangelho"
+          }
+        },
+        {
+          "src": "images/lesson-140p.webp",
+          "caption": {
+            "en-US": "Prayers after Mass",
+            "pt-BR": "Orações após a Missa"
+          }
+        }
+      ]
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-08"
+    }
+  ]
+}

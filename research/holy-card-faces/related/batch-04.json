@@ -1,0 +1,170 @@
+{
+  "abraham_mary": {
+    "cards": [
+      "ephrem"
+    ]
+  },
+  "anicetus": {
+    "cards": [
+      "polycarp"
+    ]
+  },
+  "catharine_sweden": {
+    "cards": [
+      "bridget_sweden"
+    ]
+  },
+  "celestine_i": {
+    "read": [
+      {
+        "refs": [
+          "book/councils-ephesus"
+        ]
+      }
+    ],
+    "cards": [
+      "germanus_auxerre",
+      "palladius",
+      "patrick"
+    ]
+  },
+  "cletus": {
+    "cards": [
+      "marcellinus_pope"
+    ]
+  },
+  "colette": {
+    "cards": [
+      "vincent_ferrer",
+      "clare_assisi"
+    ]
+  },
+  "cunegundes": {
+    "cards": [
+      "henry"
+    ]
+  },
+  "cyril_jerusalem": {
+    "read": [
+      {
+        "refs": [
+          "book/cyril-catechetical-lectures"
+        ]
+      }
+    ]
+  },
+  "elena_guerra": {
+    "pray": [
+      {
+        "refs": [
+          "practice/novena-holy-spirit"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/holy-spirit"
+    ],
+    "cards": [
+      "pentecost"
+    ]
+  },
+  "francis_paola": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-francis-of-paola"
+        ]
+      }
+    ]
+  },
+  "george": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-saint-george"
+        ]
+      }
+    ]
+  },
+  "john_of_god": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-john-of-god"
+        ]
+      }
+    ]
+  },
+  "julius_i": {
+    "read": [
+      {
+        "refs": [
+          "book/athanasius-apologia-contra-arianos",
+          "book/councils-sardica"
+        ]
+      }
+    ],
+    "cards": [
+      "athanasius"
+    ]
+  },
+  "ludger": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-ludger"
+        ]
+      }
+    ]
+  },
+  "mama_antula": {
+    "cards": [
+      "ignatius_loyola"
+    ]
+  },
+  "mark": {
+    "read": [
+      {
+        "refs": [
+          "book/liturgies-liturgy-of-mark",
+          "book/aquinas-catena-aurea-mark"
+        ]
+      }
+    ],
+    "cards": [
+      "peter"
+    ]
+  },
+  "peter_verona": {
+    "cards": [
+      "dominic"
+    ]
+  },
+  "pius_v": {
+    "pray": [
+      {
+        "refs": [
+          "practice/breviary-1570"
+        ]
+      }
+    ],
+    "cards": [
+      "our_lady_rosary",
+      "roman_missal"
+    ]
+  },
+  "richard_chichester": {
+    "cards": [
+      "edmund_canterbury"
+    ]
+  },
+  "perpetua_felicity": {
+    "read": [
+      {
+        "refs": [
+          "book/tertullian-martyrdom-of-perpetua-and-felicity"
+        ]
+      }
+    ]
+  }
+}

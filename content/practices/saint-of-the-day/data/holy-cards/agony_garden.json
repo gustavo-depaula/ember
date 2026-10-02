@@ -14,6 +14,28 @@
     "en-US": "Nevertheless, let your will be done, not mine.",
     "pt-BR": "Não se faça, todavia, a minha vontade, mas sim a tua."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary",
+          "practice/holy-hour",
+          "practice/holy-hour-sacred-heart"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "scourging",
+      "institution_eucharist"
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; a plain gold halo; a rose-red tunic and a blue mantle; eyes lifted to the angel in sorrow and surrender. The angel is clearly different from him and from St. Michael: a youthful angel with a SOFT, ROUND face, a small straight nose, wide-set dark-brown eyes, full cheeks, a gentle mouth; short dark-auburn curls; a pale rose-gold robe and white wings edged in gold, no armour. The sleeping Apostles are small, faces half hidden: Peter as in recurring-figures.md, about sixty-five, a broad, weathered fisherman's face, a strong wide nose, deep-set earnest eyes, a lined forehead; curly grey-white hair balding from the back with a curly tuft at the forehead; a short, square, curly grey-white beard; a blue tunic and golden-ochre mantle; James as on the james_greater card, chestnut hair to the jaw and a short sparse beard; John as in recurring-figures.md, beardless with wavy golden-brown hair, in green and red-orange.",
     "basis": "Luke 22:41-45 (the prayer, the strengthening angel) and Matthew 26:37-40 (Peter, James and John asleep); the angel with the cup is the standard devotional composition (Giovanni Bellini, Carlo Dolci, holy cards after Hofmann). Christ from recurring-figures.md.",

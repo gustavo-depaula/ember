@@ -15,6 +15,19 @@
     "pt-BR": "Toda a terra vos adore com respeito, e proclame o louvor do vosso nome, ó Altíssimo."
   },
   "proper": "tempore.ordinary-time.week-2.sunday",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "cards": [
+      "ordinary_time_1_weekday"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Green is the colour of Ordinary Time (GIRM 346c); the card shows the Sunday itself, the parish gathering for Mass, rather than a moment of the rite, which the parts-of-the-Mass cards paint. The Second Sunday is chosen as the formulary: the First Sunday of the season gives way to the Baptism of the Lord.",

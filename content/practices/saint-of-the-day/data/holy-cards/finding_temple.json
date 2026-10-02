@@ -14,6 +14,28 @@
     "en-US": "Three days later, they found him in the Temple",
     "pt-BR": "Três dias depois, o encontraram no Templo."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary",
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "holy_family",
+      "presentation_lord"
+    ]
+  },
   "meta": {
     "face": "The Christ Child as in recurring-figures.md, now twelve: the same face lengthened — a softly ROUND, youthful face with rosy cheeks, a high rounded forehead, a small straight nose, large clear brown eyes, a small rosy mouth, golden-brown curls grown to the neck; a plain gold halo; his gaze calm and assured. Our Lady as in recurring-figures.md: a young woman of about thirty with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; eyes wide with relief. St. Joseph as in recurring-figures.md: a man of about forty with a LONG OVAL face — a straight nose, gentle dark-brown eyes under level brows, a quiet mouth; full dark-brown curly hair to the nape and a short full dark-brown beard; a green tunic and an ochre-brown mantle, holding a staff. The three teachers differ clearly: an old man of about seventy-five with a LONG, NARROW face, a high bald forehead, a thin aquiline nose and a long white beard; a heavy man of about fifty-five with a BROAD, SQUARE face, a flat wide nose, bushy black brows and a short grizzled black beard; a younger scribe of about thirty-five with a TRIANGULAR face, sharp cheekbones, a narrow chin and a thin brown beard.",
     "basis": "Luke 2:41-51: after three days Mary and Joseph find the twelve-year-old Jesus among the teachers in the Temple. The Child's face grows from the set's Christ Child as recurring-figures.md prescribes for this card.",

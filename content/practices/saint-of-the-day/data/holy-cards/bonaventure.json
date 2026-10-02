@@ -17,5 +17,19 @@
     "pt-BR": "Pede a graça, não o saber; o desejo, não o intelecto."
   },
   "proper": "sanctorale.07-15",
-  "lifeChapter": "jul-14-bonaventure"
+  "lifeChapter": "jul-14-bonaventure",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-passion-of-our-lord-by-s-bonaventure",
+          "practice/prayer-of-st-bonaventure"
+        ]
+      }
+    ],
+    "cards": [
+      "thomas_aquinas",
+      "francis_assisi"
+    ]
+  }
 }

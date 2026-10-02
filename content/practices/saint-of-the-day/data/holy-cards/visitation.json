@@ -17,5 +17,19 @@
     "pt-BR": "Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre."
   },
   "proper": "sanctorale.05-31",
-  "lifeChapter": "jul-02-the-visitation-of-the-blessed"
+  "lifeChapter": "jul-02-the-visitation-of-the-blessed",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/magnificat",
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "annunciation",
+      "john_baptist"
+    ]
+  }
 }

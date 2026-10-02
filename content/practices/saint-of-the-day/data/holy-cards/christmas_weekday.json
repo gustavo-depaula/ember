@@ -15,6 +15,24 @@
     "pt-BR": "Pela bondade e compaixão de nosso Deus, que sobre nós fará brilhar o Sol nascente."
   },
   "proper": "tempore.christmas.dec-29",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/adeste-fideles",
+          "practice/alma-redemptoris-mater"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The weekday Masses of Christmas Time in white (GIRM 346a), painted at sunrise after the Benedictus verse of the chosen formulary, 'the Dawn from on high will visit us'; the crib is kept small so the card stays apart from `christmas_sunday`.",

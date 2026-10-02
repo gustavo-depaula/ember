@@ -1,0 +1,23 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Sacramentals",
+        "pt-BR": "Sacramentais"
+      }
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-177.webp",
+      "caption": {
+        "en-US": "The Church has blessings for persons, places, and things. A mother after childbirth is blessed. Anybody may ask a priest to bless him. Houses and places of business, fields and crops, may be blessed. Devotional articles, such as medals, rosaries, crucifixes, images and holy pictures, may be blessed. In certain places it is a custom to wear blessed dresses. All these blessings and objects blessed are sacramentals. We use them to obtain favours from God.",
+        "pt-BR": "A Igreja tem bênçãos para pessoas, lugares e coisas. Uma mãe após o parto é abençoada. Qualquer um pode pedir a um padre que o abençoe. Casas e lugares de negócio, campos e colheitas podem ser abençoados. Artigos de devoção, como medalhas, terços, crucifixos, imagens e quadros santos, podem ser abençoados. Em certos lugares é um costume usar vestidos abençoados. Todas estas bênçãos e objetos abençoados são sacramentais. Usamo-los para obter favores de Deus."
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-01"
+    }
+  ]
+}

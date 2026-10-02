@@ -1,0 +1,783 @@
+{
+  "agony_garden": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary",
+          "practice/holy-hour",
+          "practice/holy-hour-sacred-heart"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "scourging",
+      "institution_eucharist"
+    ]
+  },
+  "scourging": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "crowning_thorns"
+    ]
+  },
+  "crowning_thorns": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "carrying_cross"
+    ]
+  },
+  "carrying_cross": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/rosary",
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        },
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary",
+          "book/liguori-esercizio-via-crucis"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross"
+    ],
+    "cards": [
+      "crucifixion"
+    ]
+  },
+  "crucifixion": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/rosary",
+          "practice/stabat-mater",
+          "practice/three-oclock-prayer",
+          "practice/vexilla-regis",
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        },
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary",
+          "book/liguori-esercizio-via-crucis",
+          "book/lactantius-poem-on-the-passion-of-the-lord",
+          "book/methodius-three-fragments-from-the-homily-on-the-cross-and-passion-of-christ"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross"
+    ],
+    "cards": [
+      "mother_of_church"
+    ]
+  },
+  "finding_temple": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary",
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "holy_family",
+      "presentation_lord"
+    ]
+  },
+  "baptism_lord": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/gregory-nyssa-baptism-of-christ"
+        ]
+      }
+    ],
+    "cards": [
+      "john_baptist",
+      "wedding_cana",
+      "ordinary_time_1_sunday"
+    ]
+  },
+  "wedding_cana": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "proclamation_kingdom"
+    ]
+  },
+  "proclamation_kingdom": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "andrew",
+      "peter",
+      "transfiguration"
+    ]
+  },
+  "institution_eucharist": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary",
+          "practice/thursday-eucharist"
+        ]
+      }
+    ]
+  },
+  "advent_weekday": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rorate-caeli",
+          "practice/alma-redemptoris-mater",
+          "practice/christmas-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "advent_ember_days": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rorate-caeli"
+        ]
+      }
+    ],
+    "cards": [
+      "lent_ember_days",
+      "pentecost_ember_days",
+      "september_ember_days"
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ]
+  },
+  "gaudete": {
+    "cards": [
+      "laetare"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "lent_ember_days": {
+    "cards": [
+      "pentecost_ember_days",
+      "september_ember_days"
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ]
+  },
+  "pentecost_ember_days": {
+    "cards": [
+      "september_ember_days"
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ]
+  },
+  "lent_weekday": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        },
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/media-vita"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/liguori-esercizio-via-crucis",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross",
+      "collection/liturgical-year"
+    ]
+  },
+  "christmas_sunday": {
+    "pray": [
+      {
+        "refs": [
+          "practice/adeste-fideles",
+          "practice/alma-redemptoris-mater"
+        ]
+      }
+    ],
+    "cards": [
+      "christmas_weekday",
+      "nativity_christ",
+      "holy_family",
+      "baptism_lord"
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "christmas_weekday": {
+    "pray": [
+      {
+        "refs": [
+          "practice/adeste-fideles",
+          "practice/alma-redemptoris-mater"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "easter": {
+    "pray": [
+      {
+        "refs": [
+          "practice/regina-caeli",
+          "practice/way-of-light",
+          "practice/way-of-light-scriptural",
+          "practice/stational-vespers-on-the-holy-day-of-easter"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/venantius-poem-on-easter",
+          "book/methodius-from-the-discourse-on-the-resurrection"
+        ]
+      }
+    ],
+    "cards": [
+      "easter_sunday"
+    ]
+  },
+  "easter_sunday": {
+    "pray": [
+      {
+        "refs": [
+          "practice/regina-caeli",
+          "practice/way-of-light",
+          "practice/way-of-light-scriptural"
+        ]
+      }
+    ],
+    "cards": [
+      "easter_weekday",
+      "ascension",
+      "pentecost",
+      "aspergillum"
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "easter_weekday": {
+    "pray": [
+      {
+        "refs": [
+          "practice/regina-caeli",
+          "practice/way-of-light"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "ordinary_time_1_sunday": {
+    "cards": [
+      "ordinary_time_1_weekday"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "ordinary_time_1_weekday": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "ordinary_time_2_sunday": {
+    "cards": [
+      "ordinary_time_2_weekday",
+      "trinity",
+      "corpus_christi"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "ordinary_time_2_weekday": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "mother_of_church": {
+    "cards": [
+      "pentecost"
+    ]
+  },
+  "alb": {
+    "cards": [
+      "amice",
+      "cincture",
+      "stole"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments"
+        ]
+      }
+    ]
+  },
+  "stole": {
+    "cards": [
+      "chasuble",
+      "dalmatic"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "chasuble": {
+    "cards": [
+      "dalmatic"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "chalice": {
+    "cards": [
+      "paten",
+      "pall",
+      "corporal",
+      "purificator"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "paten": {
+    "cards": [
+      "corporal",
+      "purificator",
+      "ciborium"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "pall": {
+    "cards": [
+      "corporal"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "corporal": {
+    "cards": [
+      "purificator"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "cruets": {
+    "cards": [
+      "chalice"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "altar": {
+    "cards": [
+      "altar_crucifix"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-the-altar"
+        ]
+      }
+    ]
+  },
+  "altar_bells": {
+    "cards": [
+      "triduum"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "tabernacle": {
+    "cards": [
+      "triduum"
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-the-altar"
+        ]
+      }
+    ]
+  },
+  "ambo": {
+    "cards": [
+      "lectionary",
+      "book_of_gospels"
+    ]
+  },
+  "lectionary": {
+    "cards": [
+      "book_of_gospels"
+    ]
+  },
+  "september_ember_days": {
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ]
+  },
+  "altar_crucifix": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-the-altar"
+        ]
+      }
+    ]
+  },
+  "ciborium": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "purificator": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "roman_missal": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ]
+  },
+  "amice": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments"
+        ]
+      }
+    ]
+  },
+  "cincture": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments"
+        ]
+      }
+    ]
+  },
+  "dalmatic": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-vestments"
+        ]
+      }
+    ]
+  },
+  "laetare": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
+  "aspergillum": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacramentals"
+        ]
+      }
+    ]
+  },
+  "lavabo": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-holy-sacrifice-of-the-mass"
+        ]
+      }
+    ]
+  },
+  "thurible": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-holy-sacrifice-of-the-mass"
+        ]
+      }
+    ]
+  }
+}

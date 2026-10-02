@@ -17,6 +17,15 @@
     "pt-BR": "Ó Deus, de modo admirável escolhestes o presbítero São João Eudes para anunciar as insondáveis riquezas de Cristo."
   },
   "proper": "sanctorale.08-19",
+  "related": {
+    "collections": [
+      "collection/sacred-heart"
+    ],
+    "cards": [
+      "sacred_heart",
+      "immaculate_heart"
+    ]
+  },
   "meta": {
     "face": "A Norman priest of about sixty-five with a fair, lightly ruddy complexion and a LONG, POINTED-OVAL face under a LARGE, SMOOTH BALD DOME — a high, rounded forehead, a narrow fringe of short grey hair above the ears, a long, straight nose with a gently rounded tip, heavy-lidded, half-lowered pale-grey eyes under thin, raised, arched grey brows, marked folds from the nose to the corners of the mouth, a thin mouth with a faint, knowing, kindly smile; a small grey moustache and a short, narrow grey GOATEE on the chin, the cheeks shaven; a shrewd, warm, faintly amused look toward the viewer.",
     "basis": "The seventeenth-century portrait on Wikipedia, which we checked, shows a bald old priest in a black cassock and white rabat with a small grey moustache and goatee, heavy-lidded eyes and a faint smile, holding a flaming heart and a crucifix. He was born in Normandy and founded his seminary and congregations at Caen, hence the background.",

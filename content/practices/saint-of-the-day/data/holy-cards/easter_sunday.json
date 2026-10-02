@@ -15,6 +15,34 @@
     "pt-BR": "Acolhei a alegria da vossa glória dando graças a Deus, que vos chamou ao seu reino celestial, aleluia."
   },
   "proper": "tempore.easter.week-2.sunday",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/regina-caeli",
+          "practice/way-of-light",
+          "practice/way-of-light-scriptural"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ],
+    "cards": [
+      "easter_weekday",
+      "ascension",
+      "pentecost",
+      "aspergillum"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The blessing and sprinkling of water, which the Order of Mass puts 'on Sundays, especially in Easter Time' in place of the Penitential Act, the priest 'moving through the church' (order-of-mass.json, order.sprinkling-rite); the paschal candle stands by the ambo and is lit at the more solemn celebrations of the season (easter-vigil.json nos. 17, 70); white for Easter Time (GIRM 346a). Easter Sunday itself has its own card (`easter`), so the formulary is the Second Sunday.",

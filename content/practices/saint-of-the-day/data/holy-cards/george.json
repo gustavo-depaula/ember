@@ -17,5 +17,14 @@
     "pt-BR": "Permanecei firmes na fé e não temais espada alguma da terra."
   },
   "proper": "sanctorale.04-23",
-  "lifeChapter": "apr-23-george"
+  "lifeChapter": "apr-23-george",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-saint-george"
+        ]
+      }
+    ]
+  }
 }

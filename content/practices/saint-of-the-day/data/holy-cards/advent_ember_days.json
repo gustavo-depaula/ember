@@ -14,6 +14,28 @@
     "en-US": "Drop down dew, you heavens, from above, and let the clouds rain the just.",
     "pt-BR": "Ó céus, derramai dessas alturas o vosso orvalho: e que as nuvens chovam o Justo!"
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rorate-caeli"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/pius-x-catechism",
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "cards": [
+      "lent_ember_days",
+      "pentecost_ember_days",
+      "september_ember_days"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Ember Days are days of fast kept 'to consecrate every season of the year by penance' and to pray for the fruits of the earth (Catechism of St. Pius X, part III, ch. IV, q. 23, in the repo); violet in the traditional missal (Divinum Officium's liturgical_color; Morrow, lesson 138). The winter fields at rest and the snow falling answer the Introit of Ember Wednesday, 'Drop down dew, you heavens'.",

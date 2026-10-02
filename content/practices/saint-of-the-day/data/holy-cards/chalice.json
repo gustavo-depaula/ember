@@ -14,6 +14,21 @@
     "en-US": "Our blessing-cup is a communion with the blood of Christ.",
     "pt-BR": "O cálice por nós abençoado, é a nossa comunhão com o sangue do Senhor."
   },
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-sacred-vessels"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "pall",
+      "corporal",
+      "purificator"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The chalice and paten are 'held in special honor' among the sacred vessels (GIRM 327). Sacred vessels are 'made from precious metal' and, if of a metal less precious than gold, 'gilded on the inside' (GIRM 328); a chalice has 'a bowl of material that does not absorb liquids' (GIRM 330); glass, earthenware and clay are reprobated (Redemptionis Sacramentum 117). The form is left to the artist and regional custom (GIRM 332): the card takes a traditional silver-gilt chalice with knop and foot. The excerpt is the refrain of the Psalm at the Evening Mass of the Lord's Supper (1 Cor 10:16).",

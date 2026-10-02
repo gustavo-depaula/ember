@@ -14,6 +14,12 @@
     "en-US": "Ezra the scribe stood on a wooden dais erected for the purpose.",
     "pt-BR": "Esdras, o escriba, estava de pé sobre um estrado de madeira, erguido para esse fim."
   },
+  "related": {
+    "cards": [
+      "lectionary",
+      "book_of_gospels"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The ambo is the 'suitable place from which [the Word of God] may be proclaimed', a 'stationary ambo and not simply a movable lectern', from which the readings, the Psalm and the Exsultet are proclaimed; the Lectionary is prepared at it (GIRM 309, 118b). The GIRM sets no material; stone keeps it apart from the wooden dais of the excerpt, Ezra's reading of the Law (Neh 8:4), the ambo's scriptural type, from the First Reading of the Third Sunday in Ordinary Time, Year C.",

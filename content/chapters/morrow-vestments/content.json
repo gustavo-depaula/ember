@@ -1,0 +1,31 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Vestments",
+        "pt-BR": "Paramentos"
+      }
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-137.webp",
+      "caption": {
+        "en-US": "1. Amice 2. Alb 3. Cinture 4. Maniple",
+        "pt-BR": "1. Amito 2. Alva 3. Cíngulo 4. Manípulo"
+      }
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-137b.webp",
+      "caption": {
+        "en-US": "5. Stole 6. Chasuble 7. Surplice and cassock 8. Cope",
+        "pt-BR": "5. Estola 6. Casula 7. Sobrepeliz e batina 8. Capa"
+      }
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-01"
+    }
+  ]
+}

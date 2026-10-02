@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.04-25",
   "lifeChapter": "apr-25-mark",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/liturgies-liturgy-of-mark",
+          "book/aquinas-catena-aurea-mark"
+        ]
+      }
+    ],
+    "cards": [
+      "peter"
+    ]
+  },
   "meta": {
     "face": "Starting from the original painted face, keeping its head angle and lowered gaze: hair turned salt-and-pepper grey and cut shorter; a neat rounded salt-and-pepper beard; face a little broader, around 50.",
     "basis": "Greying man with a rounded beard (Painter's Manual).",

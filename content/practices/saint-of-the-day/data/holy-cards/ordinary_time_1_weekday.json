@@ -15,6 +15,16 @@
     "pt-BR": "Senhor, atendei com bondade paterna as preces do vosso povo suplicante."
   },
   "proper": "tempore.ordinary-time.week-1.monday",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The daily Mass of Ordinary Time in green (GIRM 346c), with the few faithful who come before work or school. The weekday Masses of the First Week take the collect of the week's own formulary (`inheritsOrationsFrom` in the repo's Mass data).",

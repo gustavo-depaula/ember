@@ -15,6 +15,16 @@
     "pt-BR": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo."
   },
   "proper": "tempore.ordinary-time.week-17.monday",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The daily Mass of Ordinary Time in green (GIRM 346c), painted at evening to stand apart from the morning Mass of the Ordinary Time I weekday card. The weekdays of the Seventeenth Week take the Sunday's collect (`inheritsOrationsFrom` in the repo's Mass data).",

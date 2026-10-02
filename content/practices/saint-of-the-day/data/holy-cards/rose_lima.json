@@ -17,5 +17,11 @@
     "pt-BR": "Fora da Cruz não há outra escada para o céu."
   },
   "proper": "sanctorale.08-23",
-  "lifeChapter": "aug-30-rose-of-lima"
+  "lifeChapter": "aug-30-rose-of-lima",
+  "related": {
+    "cards": [
+      "dominic",
+      "catherine_siena"
+    ]
+  }
 }

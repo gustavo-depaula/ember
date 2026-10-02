@@ -15,6 +15,33 @@
     "pt-BR": "A vossa palavra onipotente, Senhor, desceu do céu, do vosso trono real."
   },
   "proper": "tempore.christmas.second-sunday-after-christmas",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/adeste-fideles",
+          "practice/alma-redemptoris-mater"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ],
+    "cards": [
+      "christmas_weekday",
+      "nativity_christ",
+      "holy_family",
+      "baptism_lord"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Christmas crib set up in churches, which the Directory on Popular Piety commends for Christmastide, shown on a Sunday of the season; white for Christmas Time (GIRM 346a). Carved statues keep the card apart from the living scene of `nativity_christ` and `holy_family`.",

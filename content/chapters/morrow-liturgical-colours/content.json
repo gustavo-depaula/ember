@@ -1,0 +1,27 @@
+{
+  "sections": [
+    {
+      "type": "heading",
+      "text": {
+        "en-US": "Liturgical Colours",
+        "pt-BR": "Cores Litúrgicas"
+      }
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-138.webp"
+    },
+    {
+      "type": "prose",
+      "file": "sections/part-01"
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-138b.webp"
+    },
+    {
+      "type": "image",
+      "src": "images/lesson-138c.webp"
+    }
+  ]
+}

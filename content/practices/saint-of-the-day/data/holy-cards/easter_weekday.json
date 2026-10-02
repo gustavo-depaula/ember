@@ -15,6 +15,24 @@
     "pt-BR": "Cristo, ressuscitado dos mortos, não morre mais; a morte já não tem poder sobre ele, aleluia."
   },
   "proper": "tempore.easter.week-2.monday",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/regina-caeli",
+          "practice/way-of-light"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The weekday Mass of Easter Time in white (GIRM 346a), with the flowers the season allows; its spring garden stands for new life, after the entrance antiphon of the chosen formulary ('death will no longer have dominion over him'). The paschal candle is left to the Sunday card: the Missal asks it lit at the season's more solemn celebrations.",

@@ -1,0 +1,150 @@
+{
+  "apparition_michael": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-michael-the-archangel",
+          "practice/st-michael",
+          "practice/prayer-st-michael",
+          "practice/st-michael-novena"
+        ]
+      }
+    ]
+  },
+  "augustine_canterbury": {
+    "cards": [
+      "gregory_great"
+    ]
+  },
+  "barnabas": {
+    "cards": [
+      "paul"
+    ]
+  },
+  "bernardine_siena": {
+    "pray": [
+      {
+        "refs": [
+          "practice/litany-holy-name",
+          "practice/little-office-most-holy-name-of-jesus",
+          "practice/prayer-st-joseph"
+        ]
+      }
+    ]
+  },
+  "cyril_alexandria": {
+    "read": [
+      {
+        "refs": [
+          "book/councils-ephesus"
+        ]
+      }
+    ],
+    "cards": [
+      "mary_mother_of_god",
+      "celestine_i"
+    ]
+  },
+  "ephrem": {
+    "read": [
+      {
+        "refs": [
+          "book/ephraim-nisibene-hymns",
+          "book/ephraim-nativity-of-christ-in-the-flesh",
+          "book/ephraim-for-the-feast-of-the-epiphany",
+          "book/ephraim-our-lord",
+          "book/ephraim-faith",
+          "book/ephraim-sinful-woman",
+          "book/ephraim-admonition-and-repentance"
+        ]
+      }
+    ]
+  },
+  "irenaeus": {
+    "read": [
+      {
+        "refs": [
+          "book/irenaeus-adversus-haereses",
+          "book/irenaeus-fragments-from-the-lost-writings"
+        ]
+      }
+    ],
+    "cards": [
+      "pothinus_blandina"
+    ]
+  },
+  "john_nepomucene": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-john-nepomucene"
+        ]
+      }
+    ]
+  },
+  "juliana_falconieri": {
+    "cards": [
+      "servite_founders",
+      "philip_benizi"
+    ]
+  },
+  "justin": {
+    "read": [
+      {
+        "refs": [
+          "book/justin-martyr-first-apology",
+          "book/justin-martyr-second-apology",
+          "book/justin-martyr-dialogue-with-trypho",
+          "book/justin-martyr-martyrdom-of-justin-chariton-and-other-roman-martyrs"
+        ]
+      }
+    ]
+  },
+  "marcellinus_peter": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-glorious-martyrs-of-christ"
+        ]
+      }
+    ]
+  },
+  "norbert": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-norbert"
+        ]
+      }
+    ]
+  },
+  "paschal_baylon": {
+    "collections": [
+      "collection/eucharistic"
+    ]
+  },
+  "petronilla": {
+    "cards": [
+      "peter"
+    ]
+  },
+  "prosper_aquitaine": {
+    "cards": [
+      "leo_great"
+    ]
+  },
+  "visitation": {
+    "pray": [
+      {
+        "refs": [
+          "practice/magnificat",
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "annunciation",
+      "john_baptist"
+    ]
+  }
+}

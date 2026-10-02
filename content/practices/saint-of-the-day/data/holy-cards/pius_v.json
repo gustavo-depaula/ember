@@ -18,6 +18,19 @@
   },
   "proper": "sanctorale.04-30",
   "lifeChapter": "may-05-pius-v",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/breviary-1570"
+        ]
+      }
+    ],
+    "cards": [
+      "our_lady_rosary",
+      "roman_missal"
+    ]
+  },
   "meta": {
     "face": "A thin, ascetic man of about sixty-six with a gaunt, long face — a bald, high, bony forehead under the zucchetto, a long, prominent aquiline nose with a sharp bridge, dark, deep-set eyes under heavy, arched grey brows, hollow cheeks under high cheekbones; a full WHITE beard of medium length, trimmed square below the chin, with a white moustache; a grave, prayerful gaze lowered toward the rosary.",
     "basis": "Bartolomeo Passarotti's portrait from life shows a gaunt, bald old pope with a long aquiline nose, deep-set eyes and a full white beard. He kept the white Dominican habit as pope, and he tied the Rosary to Lepanto; the square medium beard keeps him apart from Cletus's long forked one.",

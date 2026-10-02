@@ -15,6 +15,27 @@
     "pt-BR": "Eis aquele de quem João dizia: Eu vi, e dou testemunho: este é o Filho de Deus!"
   },
   "proper": "tempore.christmas.baptism-of-the-lord",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/gregory-nyssa-baptism-of-christ"
+        ]
+      }
+    ],
+    "cards": [
+      "john_baptist",
+      "wedding_cana",
+      "ordinary_time_1_sunday"
+    ]
+  },
   "meta": {
     "face": "Christ as in recurring-figures.md: a man of about thirty-three with a LONG OVAL face narrowing gently to the chin — a high, smooth forehead, a long straight nose with a fine bridge, calm almond-shaped dark-brown eyes under level brown brows, high, softly modelled cheekbones, a quiet closed mouth; chestnut-brown hair parted in the centre and falling in soft waves past the shoulders; a short, full chestnut beard and moustache, lightly parted at the chin; eyes lowered in humility. John as on the john_baptist card: a man of about thirty with a LONG face — high cheekbones, a straight nose, large dark-brown eyes under straight dark brows, a firm mouth; thick, unkempt curly dark-brown hair to the shoulders and a rough, short dark-brown beard, sunburnt wilderness skin; a reverent look. The two must stay clearly different: Christ's hair smooth, chestnut and centre-parted, John's dark, wild and curly. The angels: fair, childlike, one round-faced with golden curls, one with an oval face and light-brown hair.",
     "basis": "Matthew 3:13-17 and the feast's entrance antiphon; the composition follows Verrocchio and Leonardo's Baptism of Christ (Uffizi), with John pouring from a shell and angels holding the garments. John keeps the `john_baptist` card's face and Christ the new line in recurring-figures.md.",
