@@ -1,0 +1,41 @@
+{
+  "id": "paschal_baylon",
+  "feast": {
+    "month": 5,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Paschal Baylon",
+    "pt-BR": "São Pascoal Baylon"
+  },
+  "patronOf": {
+    "en-US": "Patron of Eucharistic congresses",
+    "pt-BR": "Padroeiro dos congressos eucarísticos"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Paschal teaches us never to suffer a day to pass without visiting Jesus in the narrow chamber where He, Whom the heaven itself cannot contain, abides day and night for our sake.",
+    "pt-BR": "São Pascoal ensina-nos a nunca deixar passar um dia sem visitar Jesus na estreita morada onde Ele, a quem o próprio céu não pode conter, permanece dia e noite por amor de nós."
+  },
+  "lifeChapter": "may-17-paschal-baylon",
+  "meta": {
+    "face": "An Aragonese countryman of about forty-five with a sun-browned olive complexion and a LONG, ANGULAR face — a broad, flat forehead, PROMINENT, BONY cheekbones with shallow hollows under them, DEEP creases from the nose to the corners of the mouth, a LONG, strong, slightly HOOKED nose, deep-set, HEAVY-LIDDED dark eyes under THICK, straight black brows, a WIDE, THIN-LIPPED mouth, a firm chin; black hair cropped short in the Franciscan crown; a thin dark moustache and a small tuft of beard on the chin; the gaze lifted, rapt.",
+    "basis": "Wikipedia's lead image, an old anonymous canvas inscribed with his name, shows a lay brother in a brown habit, praying with a rosary, with a long, bony face, a strong nose, dark brows and a thin moustache; the card keeps those features. The book tells a shepherd of Aragon, a lay brother of the Franciscans devoted to the Blessed Sacrament, and the angel who showed him the Host while he watched his sheep; its engraving shows a young shepherd kneeling among his flock. Wikipedia: Leo XIII made him patron of Eucharistic congresses and confraternities in 1897, and art gives him the monstrance.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-17-paschal-baylon.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Paschal Baylón (lead image: anonymous canvas; patron of Eucharistic congresses)",
+        "url": "https://en.wikipedia.org/wiki/Paschal_Baylon"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-17-paschal-baylon (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-17-paschal-baylon.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

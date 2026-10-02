@@ -1,0 +1,45 @@
+{
+  "id": "peter_dionysia",
+  "feast": {
+    "month": 5,
+    "day": 15
+  },
+  "name": {
+    "en-US": "Sts. Peter and Dionysia",
+    "pt-BR": "São Pedro e Santa Dionísia"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Lampsacus",
+    "pt-BR": "Mártires de Lâmpsaco"
+  },
+  "prayerExcerpt": {
+    "en-US": "The martyrs were even like us, with natures which shrank from suffering. They were patient under it because they looked to the eternal recompense, and endured as seeing Him Who is invisible.",
+    "pt-BR": "Os mártires eram em tudo como nós, com naturezas que recuavam diante do sofrimento. Eram pacientes sob ele porque olhavam para a recompensa eterna, e suportavam como vendo Aquele que é invisível."
+  },
+  "lifeChapter": "may-15-sts-peter-and-dionysia",
+  "meta": {
+    "face": "Two clearly different young Greeks of Asia Minor with warm, light-olive skin. PETER (left): about twenty, BEARDLESS but for a faint dark down on the upper lip, with a face BROAD at the temples that TAPERS in straight lines to a NARROW, POINTED, slightly JUTTING chin — a wide, smooth forehead, a LONG, THIN, gently AQUILINE nose, bright, deep-set dark eyes lifted to heaven, straight dark brows, lean cheeks, a wide mouth in a SMILE (the book's 'smiling countenance'); short, thick, wavy black hair; the gaze lifted, thankful. DIONYSIA (right): about sixteen, with a DIAMOND-SHAPED face, WIDEST at HIGH, rounded cheekbones and narrowing both to a moderate forehead and to a small, soft chin — a SHORT, straight nose, large, dark eyes whose outer corners TILT UP, thick, straight black brows, a WIDE, full mouth, grave and closed; black hair parted in the middle under the veil; the gaze earnest and fearless, turned toward Peter.",
+    "basis": "No likenesses survive. The book tells Peter, 'young though he was', bound to a wheel under the proconsul at Lampsacus and thanking Christ 'with a smiling countenance' before he was beheaded, and the virgin Dionysia, who rebuked an apostate, was guarded by her angel, escaped and died with the martyrs; its engraving shows Peter on the wheel and Dionysia standing by. Wikipedia makes her sixteen and places Lampsacus on the Hellespont; its article joins her to Andrew and Paul, the book to Peter. The tapering, smiling face and the diamond-shaped one are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-15-sts-peter-and-dionysia.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter, Andrew, Paul, and Denise (Dionysia sixteen; Decius; Lampsacus on the Hellespont)",
+        "url": "https://en.wikipedia.org/wiki/Peter,_Andrew,_Paul,_and_Denise"
+      },
+      {
+        "title": "Wikipedia, Lampsacus",
+        "url": "https://en.wikipedia.org/wiki/Lampsacus"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-15-sts-peter-and-dionysia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-15-sts-peter-and-dionysia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

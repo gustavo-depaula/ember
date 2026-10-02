@@ -1,0 +1,45 @@
+{
+  "id": "john_nepomucene",
+  "feast": {
+    "month": 5,
+    "day": 16
+  },
+  "name": {
+    "en-US": "St. John Nepomucene",
+    "pt-BR": "São João Nepomuceno"
+  },
+  "patronOf": {
+    "en-US": "Priest and martyr",
+    "pt-BR": "Sacerdote e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. John, who by his invincible sacramental silence won his crown, teaches us to prefer torture and death to offending the Creator with our tongue.",
+    "pt-BR": "São João, que por seu invencível silêncio sacramental ganhou sua coroa, ensina-nos a preferir a tortura e a morte a ofender o Criador com nossa língua."
+  },
+  "lifeChapter": "may-16-john-nepomucen",
+  "meta": {
+    "face": "A Bohemian of about forty-eight with a fair, pale complexion and a SOFT, LONG OVAL face, FULL through the cheeks — a smooth, rounded forehead, a straight nose with a FLESHY, ROUNDED tip, LARGE, MOIST, slightly PROMINENT brown eyes rolled UPWARD in the Baroque manner under HIGH, THIN, arched brows, a SMALL mouth with a FULL lower lip, a soft, rounded chin; straight chestnut-brown hair to the collar under the biretta; a SHORT, soft chestnut beard and moustache following the jaw; the gaze lifted and gentle, the head tilted a little.",
+    "basis": "No likeness from life; Wikipedia's lead image, a Bohemian reverse-glass painting, shows the traditional image: a bearded priest with brown hair, the fur almuce, the palm and the five stars. The book tells his birth at Nepomuk, his office at the court of Wenceslas, the empress's confessions he would not reveal, his racking, and his death thrown from the bridge of Prague with a heavenly light on the water; its engraving shows him in rochet and almuce with his finger to his lips before the king, the bridge behind. The soft oval face with the prominent, upturned eyes follows the Baroque type.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-16-john-nepomucen.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, John of Nepomuk (lead image: reverse-glass painting; the legend of the confessional)",
+        "url": "https://en.wikipedia.org/wiki/John_of_Nepomuk"
+      },
+      {
+        "title": "Wikipedia, Charles Bridge",
+        "url": "https://en.wikipedia.org/wiki/Charles_Bridge"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-16-john-nepomucen (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-16-john-nepomucen.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

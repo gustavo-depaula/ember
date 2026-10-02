@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 146 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 156 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 515 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 525 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -387,16 +387,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 11 May · St. Mammertus, Archbishop · *São Mamerto, Arcebispo* · Pictorial Lives — `mammertus`
 - [x] 12 May · St. Epiphanius, Archbishop · *Santo Epifânio, Arcebispo* · Pictorial Lives — `epiphanius_salamis`
 - [x] 13 May · St. John the Silent · *São João, o Silencioso* · Pictorial Lives — `john_silent`
-- [ ] 14 May · St. Pachomius, Abbot · *São Pacômio, Abade* · Pictorial Lives
-- [ ] 15 May · Sts. Peter and Dionysia · *São Pedro e Santa Dionísia* · Pictorial Lives
-- [ ] 16 May · St. John Nepomucen · *São João Nepomuceno* · Pictorial Lives
-- [ ] 17 May · St. Paschal Baylon · *São Pascoal Baylon* · Pictorial Lives
-- [ ] 18 May · St. Venantius, Martyr · *São Venâncio, Mártir* · Pictorial Lives
-- [ ] 19 May · St. Peter Celestine · *São Pedro Celestino* · Pictorial Lives
-- [ ] 21 May · St. Hospitius, Recluse · *Santo Hospício, Recluso* · Pictorial Lives
-- [ ] 22 May · St. Yvo, Confessor · *Santo Ivo, Confessor* · Pictorial Lives
-- [ ] 23 May · St. Julia, Virgin, Martyr · *Santa Júlia, Virgem, Mártir* · Pictorial Lives
-- [ ] 24 May · Sts. Donatian and Rogatian, Martyrs · *São Donaciano e São Rogaciano, Mártires* · Pictorial Lives
+- [x] 14 May · St. Pachomius, Abbot · *São Pacômio, Abade* · Pictorial Lives — `pachomius`
+- [x] 15 May · Sts. Peter and Dionysia · *São Pedro e Santa Dionísia* · Pictorial Lives — `peter_dionysia`
+- [x] 16 May · St. John Nepomucen · *São João Nepomuceno* · Pictorial Lives — `john_nepomucene`
+- [x] 17 May · St. Paschal Baylon · *São Pascoal Baylon* · Pictorial Lives — `paschal_baylon`
+- [x] 18 May · St. Venantius, Martyr · *São Venâncio, Mártir* · Pictorial Lives — `venantius_camerino`
+- [x] 19 May · St. Peter Celestine · *São Pedro Celestino* · Pictorial Lives — `peter_celestine`
+- [x] 21 May · St. Hospitius, Recluse · *Santo Hospício, Recluso* · Pictorial Lives — `hospitius`
+- [x] 22 May · St. Yvo, Confessor · *Santo Ivo, Confessor* · Pictorial Lives — `yvo`
+- [x] 23 May · St. Julia, Virgin, Martyr · *Santa Júlia, Virgem, Mártir* · Pictorial Lives — `julia_corsica`
+- [x] 24 May · Sts. Donatian and Rogatian, Martyrs · *São Donaciano e São Rogaciano, Mártires* · Pictorial Lives — `donatian_rogatian`
 - [ ] 28 May · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
 - [ ] 29 May · St. Cyril, Martyr · *São Cirilo, Mártir* · Pictorial Lives
 - [ ] 30 May · St. Felix I., Pope and Martyr · *São Félix I, Papa e Mártir* · Pictorial Lives

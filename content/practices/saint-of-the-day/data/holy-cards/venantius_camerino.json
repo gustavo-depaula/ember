@@ -1,0 +1,45 @@
+{
+  "id": "venantius_camerino",
+  "feast": {
+    "month": 5,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Venantius",
+    "pt-BR": "São Venâncio"
+  },
+  "patronOf": {
+    "en-US": "Martyr, patron of Camerino",
+    "pt-BR": "Mártir, padroeiro de Camerino"
+  },
+  "prayerExcerpt": {
+    "en-US": "Love of suffering marks the most perfect degree in the love of God.",
+    "pt-BR": "O amor do sofrimento marca o grau mais perfeito no amor de Deus."
+  },
+  "lifeChapter": "may-18-venantius",
+  "meta": {
+    "face": "A boy of fifteen, visibly a boy and not a young man, BEARDLESS, with a warm light-olive Italian complexion and a face WIDE and FLAT across the cheekbones — a low, straight forehead, a BROAD, STRAIGHT nose with a LOW bridge set between WIDE-SET, slightly HOODED dark eyes, thick, STRAIGHT black brows, flat cheeks, a WIDE, full mouth, a small but FIRM, SQUARE chin; thick, coarse, straight black hair cut in a short, blunt fringe; the gaze candid and steady, toward us.",
+    "basis": "No likeness survives; Wikipedia's lead image is a German wall painting of his torments by fire and lions. The book tells a boy of Camerino seized at fifteen, delivered by an angel from scourging and fire, spared by the lions, who drew water from a rock for his thirsty guards and was beheaded in 250; its engraving shows an angel lifting him from the flames. Wikipedia gives the same tradition, from eleventh-century Acts, and makes him patron of Camerino. The card shows the spring, not the torments; the wide, flat-cheeked boy's face is our choice, apart from `pancras`'s round one and `benezet`'s narrow, bony one.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-18-venantius.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Venantius of Camerino (lead image: wall painting of his legend; eleventh-century Acts)",
+        "url": "https://en.wikipedia.org/wiki/Venantius_of_Camerino"
+      },
+      {
+        "title": "Wikipedia, Camerino",
+        "url": "https://en.wikipedia.org/wiki/Camerino"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-18-venantius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-18-venantius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

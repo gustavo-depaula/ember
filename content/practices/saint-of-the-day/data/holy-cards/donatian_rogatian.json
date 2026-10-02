@@ -1,0 +1,41 @@
+{
+  "id": "donatian_rogatian",
+  "feast": {
+    "month": 5,
+    "day": 24
+  },
+  "name": {
+    "en-US": "Sts. Donatian and Rogatian",
+    "pt-BR": "São Donaciano e São Rogaciano"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Nantes",
+    "pt-BR": "Mártires de Nantes"
+  },
+  "prayerExcerpt": {
+    "en-US": "Three things are pleasing unto God and man: concord among brethren, the love of parents, and the union of man and wife.",
+    "pt-BR": "Três coisas são agradáveis a Deus e aos homens: a concórdia entre os irmãos, o amor dos pais, e a união do homem e da mulher."
+  },
+  "lifeChapter": "may-24-sts-donatian-and-rogatian",
+  "meta": {
+    "face": "Two clearly different Gallo-Roman brothers with fair, lightly ruddy complexions. ROGATIAN (left): about twenty-eight, with a WIDE, FLAT, SQUARE face under a LOW, straight hairline — a SHORT, strong, straight nose, SMALL, deep-set grey eyes under a HEAVY brow and thick, straight brown brows, broad, flat cheeks, a WIDE, firm mouth; thick brown hair cropped short; a SHORT, close-trimmed brown beard that follows the square jaw; the gaze grave and resolute, toward us. DONATIAN (right): about twenty, BEARDLESS, with an open, OVAL face and HIGH, ROUNDED cheekbones — a smooth, high forehead, a straight nose with a slightly UPTURNED tip, LARGE, bright blue eyes under softly arched fair brows, a gentle, smiling mouth, a rounded chin with a small DIMPLE; straight, fair, light-brown hair cut short and close with a short fringe; the gaze warm, turned toward his brother.",
+    "basis": "No likenesses survive; Wikipedia's lead image is the nineteenth-century statue of Donatian at the portal of Nantes cathedral, a young man in a Roman tunic and cloak. The book tells the younger Donatian converting his elder brother Rogatian, their night of prayer in prison, the kiss of peace for the baptism Rogatian could not receive, and their death about 287; its engraving shows two young men in prison, one kneeling in chains. Wikipedia calls them 'les enfants nantais', sons of a leading family of the city, and places their tomb and basilica at Nantes. The two faces are our choice, one square and bearded, one oval and beardless.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-24-sts-donatian-and-rogatian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Donatian and Rogatian (lead image: statue of St. Donatian, Nantes cathedral)",
+        "url": "https://en.wikipedia.org/wiki/Donatian_and_Rogatian"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-24-sts-donatian-and-rogatian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-24-sts-donatian-and-rogatian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

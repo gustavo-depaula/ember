@@ -1,0 +1,49 @@
+{
+  "id": "pachomius",
+  "feast": {
+    "month": 5,
+    "day": 14
+  },
+  "name": {
+    "en-US": "St. Pachomius",
+    "pt-BR": "São Pacômio"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Tabenna",
+    "pt-BR": "Abade de Tabena"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"To live in great simplicity,\" said St. Pachomius, \"and in a wise ignorance, is exceeding wise.\"",
+    "pt-BR": "\"Viver em grande simplicidade\", disse São Pacômio, \"e numa sábia ignorância, é sumamente sábio.\""
+  },
+  "lifeChapter": "may-14-pachomius",
+  "meta": {
+    "face": "A Copt of the Thebaid of about fifty-five, broad-shouldered like the soldier he once was, with a deep-brown, sun-darkened complexion and a LONG, STRAIGHT-SIDED face under a BROAD, HIGH, smooth BALD dome — a STRAIGHT, broad nose with a LOW, FLAT bridge and WIDE, flared nostrils, LARGE, wide-open, dark ALMOND eyes set WIDE apart and rimmed with thick black lashes, like a Fayum portrait's, under straight, thick black-and-grey brows; flat cheeks; FULL, thick lips; a grey-streaked black beard to mid-breast, parted into FIVE narrow, separate POINTS; the gaze direct and vigilant, toward us.",
+    "basis": "The Painter's Manual (Hermeneia) describes 'Saint Pachomius, an old man, bald, with a beard divided into five points', with the angel before him; Wikipedia's lead image, a modern Coptic icon, shows him white-bearded in a dark monastic habit, an angel bringing a tablet. The book tells a heathen conscript of twenty-one, baptized after the kindness of Christians on the Nile, the disciple of Palemon, and the monastery at Tabenna for which an angel gave him a rule; its engraving shows a hooded monk writing at a rock while an angel stands by with a book. The five-pointed beard and the bald head follow the Hermeneia; the long, straight-sided face with the flat, broad nose and the large almond eyes is our choice, for a Copt of Upper Egypt (Wikipedia: born in the Thebaid, c. 292–348).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-14-pachomius.md Reflection, the whole of it, his own words (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pachomius the Great (lead image: Coptic icon of St. Pakhom)",
+        "url": "https://en.wikipedia.org/wiki/Pachomius_the_Great"
+      },
+      {
+        "title": "Wikipedia, Tabenna",
+        "url": "https://en.wikipedia.org/wiki/Tabenna"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), St. Pachomius",
+        "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-14-pachomius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-14-pachomius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

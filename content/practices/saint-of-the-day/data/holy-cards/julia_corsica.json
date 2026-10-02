@@ -1,0 +1,45 @@
+{
+  "id": "julia_corsica",
+  "feast": {
+    "month": 5,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Julia",
+    "pt-BR": "Santa Júlia"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr, patroness of Corsica",
+    "pt-BR": "Virgem e mártir, padroeira da Córsega"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Julia, whether free or a slave, whether in prosperity or in adversity, was equally fervent and devout.",
+    "pt-BR": "Santa Júlia, fosse livre ou escrava, fosse na prosperidade ou na adversidade, era igualmente fervorosa e devota."
+  },
+  "lifeChapter": "may-23-julia",
+  "meta": {
+    "face": "A Carthaginian woman of about twenty-five with a warm, light-brown North African complexion and a face with a softly CONVEX PROFILE — a gently SLOPING forehead, a LONG nose with a soft CURVE to the bridge and a rounded tip, deep-set, dark eyes under HEAVY, dark, nearly straight brows, a WIDE mouth with full lips, and a ROUNDED, PROMINENT chin that carries the curve of the profile; black, curling hair under the veil; the gaze patient and steadfast, toward us.",
+    "basis": "No likeness survives; Wikipedia's lead image, a nineteenth-century window at Meaux, shows her veiled with a cross and a palm, which the card keeps. The book tells a noble virgin of Carthage sold as a slave when Genseric took the city in 439, faithful to her Syrian master, and crucified in the north of Corsica by the governor Felix; its engraving shows her apart from her master's pagan feast. Wikipedia names her, with Devota, patroness of Corsica and places her martyrdom at Nonza on Cap Corse. The convex profile with the prominent chin is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-23-julia.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Julia of Corsica (lead image: window at Meaux; patroness of Corsica)",
+        "url": "https://en.wikipedia.org/wiki/Julia_of_Corsica"
+      },
+      {
+        "title": "Wikipedia, Nonza",
+        "url": "https://en.wikipedia.org/wiki/Nonza"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-23-julia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-23-julia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

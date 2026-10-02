@@ -1,0 +1,45 @@
+{
+  "id": "hospitius",
+  "feast": {
+    "month": 5,
+    "day": 21
+  },
+  "name": {
+    "en-US": "St. Hospitius",
+    "pt-BR": "Santo Hospício"
+  },
+  "patronOf": {
+    "en-US": "Recluse",
+    "pt-BR": "Recluso"
+  },
+  "prayerExcerpt": {
+    "en-US": "If we do not love penitence for its own sake, let us love it on account of our sins; for we should \"work out our salvation in fear and trembling.\"",
+    "pt-BR": "Se não amamos a penitência por si mesma, amemo-la por causa de nossos pecados; pois devemos \"operar a nossa salvação com temor e tremor.\""
+  },
+  "lifeChapter": "may-21-hospitius-recluse",
+  "meta": {
+    "face": "A man of about sixty, burned a deep bronze by the sun, with a LEAN face whose HIGH, BROAD, FLAT cheekbones run in a straight line across it — NARROW eyes that SLANT gently DOWN at the outer corners, dark and sorrowful, under thick, level black-and-grey brows, a LONG, THIN, very STRAIGHT nose, SUNKEN cheeks below the cheekbones, a thin mouth; long, unkempt black-and-grey hair to the shoulders; a LONG, dense, rough black-and-grey beard to the breast; the gaze penitent and humble, a little lowered.",
+    "basis": "No likeness survives. The book tells a recluse in the ruins of an old tower near Villafranca, a league from Nice, girded with an iron chain, living on bread and dates, who foretold the Lombard raids and healed the arm of a Lombard who raised his sword against him; its engraving shows a bearded, long-haired recluse seated before a ruined arch while soldiers approach. Wikipedia, after Gregory of Tours, places the tower on Cap Ferrat, called Cap Saint-Hospice, and gives him an Egyptian origin by tradition. The lean face with the flat, high cheekbones and the down-slanting eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-21-hospitius-recluse.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Hospitius (Gregory of Tours; Cap Ferrat)",
+        "url": "https://en.wikipedia.org/wiki/Hospitius"
+      },
+      {
+        "title": "Wikipedia, Saint-Jean-Cap-Ferrat (lead image: Pointe Saint-Hospice)",
+        "url": "https://en.wikipedia.org/wiki/Saint-Jean-Cap-Ferrat"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-21-hospitius-recluse (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-21-hospitius-recluse.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

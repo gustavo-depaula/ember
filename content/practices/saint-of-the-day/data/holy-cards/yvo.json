@@ -1,0 +1,49 @@
+{
+  "id": "yvo",
+  "feast": {
+    "month": 5,
+    "day": 22
+  },
+  "name": {
+    "en-US": "St. Yvo",
+    "pt-BR": "Santo Ivo"
+  },
+  "patronOf": {
+    "en-US": "Advocate of the poor",
+    "pt-BR": "Advogado dos pobres"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Yvo was a Saint amidst the dangers of the world.",
+    "pt-BR": "Santo Ivo foi um Santo em meio aos perigos do mundo."
+  },
+  "lifeChapter": "may-22-yvo",
+  "meta": {
+    "face": "A Breton of about forty-nine, CLEAN-SHAVEN, with a pale, fair complexion and a LEAN face that is WIDE at the cheekbones and HOLLOW beneath them, narrowing to a LONG, SQUARE-TIPPED chin — a prominent, BONY brow ridge, HOODED, grey eyes cast down, a LONG, straight nose with a LOW-SET, fleshy tip, a small mouth with a full, slightly pouting LOWER lip, deep lines from the nose to the chin; dark-brown hair cut short and round like a bowl beneath the cap; the gaze attentive and grave, lowered to the petition.",
+    "basis": "No likeness from life. Wikipedia's lead image, a fifteenth-century panel from Rogier van der Weyden's workshop titled 'A Man Reading (Saint Ivo?)', shows a lean, clean-shaven man in a fur-lined gown reading a document; the card borrows its dress and its lean, long-chinned face, but the identification is only a question mark. The book tells his birth near Tréguier in 1253, his studies at Paris and Orléans, his office as judge of Rennes, 'the advocate and lawyer of the poor', his hospital and his corn given away; its engraving shows him in a surplice among the sick and poor under a bridge. Wikipedia gives his attributes as a purse and a rolled paper.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-22-yvo.md Reflection, first clause of the first sentence, with a full stop (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Ivo of Kermartin (lead image: workshop of Rogier van der Weyden, A Man Reading (Saint Ivo?); purse and paper)",
+        "url": "https://en.wikipedia.org/wiki/Ivo_of_Kermartin"
+      },
+      {
+        "title": "Wikimedia Commons, File:Weyden_Ivo.jpg (title and attribution)",
+        "url": "https://commons.wikimedia.org/wiki/File:Weyden_Ivo.jpg"
+      },
+      {
+        "title": "Wikipedia, Tréguier Cathedral",
+        "url": "https://en.wikipedia.org/wiki/Tr%C3%A9guier_Cathedral"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-22-yvo (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-22-yvo.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}

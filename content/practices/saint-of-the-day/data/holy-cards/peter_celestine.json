@@ -1,0 +1,45 @@
+{
+  "id": "peter_celestine",
+  "feast": {
+    "month": 5,
+    "day": 19
+  },
+  "name": {
+    "en-US": "St. Peter Celestine",
+    "pt-BR": "São Pedro Celestino"
+  },
+  "patronOf": {
+    "en-US": "Hermit and pope",
+    "pt-BR": "Eremita e papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "I desired nothing but a cell, and a cell they have given me.",
+    "pt-BR": "Eu não desejava senão uma cela, e uma cela me deram."
+  },
+  "lifeChapter": "may-19-peter-celestine",
+  "meta": {
+    "face": "An Abruzzese of about eighty, CLEAN-SHAVEN as in the old fresco, with a pale, weathered, finely wrinkled complexion and a LONG, NARROW, STRAIGHT-SIDED face — a very HIGH forehead, cheekbones barely marked, the cheeks falling flat and parallel to a NARROW, rounded chin; a LONG, STRAIGHT, narrow nose; SMALL, LEVEL, almond-shaped grey eyes set CLOSE together under straight, sparse white brows; a LONG upper lip over a SMALL, gently pursed mouth; thin white hair in a monastic ring; the gaze calm and withdrawn, lowered to the book.",
+    "basis": "Wikipedia's lead image, Niccolò di Tommaso's fourteenth-century triptych panel, shows him enthroned in the tiara with a long, narrow, clean-shaven face, a long, straight nose and small, level eyes; the card keeps that face. The book tells his visions as a child, his mountain solitude, the rule that founded the Celestines, his election and resignation after four months, and his boarded cell under guard, where he died singing Lauds; its engraving shows a hooded hermit in a cave cell with a cross and a road below. Wikipedia names his cave on Monte Morrone above Sulmona and his death at about eighty-one.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-19-peter-celestine.md, his own words, said under guard after his resignation (the Reflection, a line of the Imitation of Christ, stays on the card) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Celestine V (lead image: Niccolò di Tommaso, St. Peter Celestine)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Celestine_V"
+      },
+      {
+        "title": "Wikipedia, Celestines (the habit of the order)",
+        "url": "https://en.wikipedia.org/wiki/Celestines"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-19-peter-celestine (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-19-peter-celestine.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-29",
+        "note": "New card, generated with new-card.sh from dossiers/batch-28.md."
+      }
+    ]
+  }
+}
