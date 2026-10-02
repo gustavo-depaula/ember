@@ -2,13 +2,16 @@
   "id": "tertullian-prayer",
   "cover": "quarter",
   "name": {
-    "en-US": "On Prayer"
+    "en-US": "On Prayer",
+    "pt-BR": "Sobre a Oração"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Prayer"
+        "en-US": "On Prayer",
+        "pt-BR": "Sobre a Oração"
       }
     }
   ]
