@@ -22,10 +22,13 @@ export default defineConfig({
     'process.env.TAMAGUI_TARGET': '"web"',
   },
   resolve: {
-    alias: {
-      '@': resolve(__dirname, 'src'),
-      'react-native': 'react-native-web',
-    },
+    alias: [
+      { find: '@', replacement: resolve(__dirname, 'src') },
+      { find: 'react-native', replacement: 'react-native-web' },
+      // Every `@expo/ui` entry point calls `requireNativeView` at module scope,
+      // so tests resolve it to the web stand-in, as Metro does for web.
+      { find: /^@expo\/ui(\/.*)?$/, replacement: resolve(__dirname, 'src/lib/expo-ui-web.tsx') },
+    ],
     conditions: ['browser', 'module', 'import', 'default'],
   },
   test: {
