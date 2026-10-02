@@ -50,8 +50,6 @@ function YouPage() {
 
         <RuleOfLifeSections />
 
-        <SectionDivider />
-
         <LibraryFeed />
 
         <SectionDivider />

@@ -90,6 +90,23 @@ export function LibraryFeed() {
 
   return (
     <>
+      {holyCards.length > 0 && (
+        <ArtCarousel title={t('library.holyCards')} href="/saints">
+          {holyCards.map((s) => (
+            <ArtCoverCard
+              key={s.id}
+              title={s.name}
+              image={s.cardThumb}
+              tone={toneForKey(s.id)}
+              size={120}
+              aspectRatio={1.5}
+              radius={4}
+              onPress={() => goCard(s.id)}
+            />
+          ))}
+        </ArtCarousel>
+      )}
+
       <ArtCarousel title={t('library.yourCollections')}>
         {myCollections.map((c) => (
           <ArtCoverCard
@@ -166,23 +183,6 @@ export function LibraryFeed() {
           </Typography>
           <Typography variant="whisper">{t('library.emptyBody')}</Typography>
         </YStack>
-      )}
-
-      {holyCards.length > 0 && (
-        <ArtCarousel title={t('library.holyCards')} href="/saints">
-          {holyCards.map((s) => (
-            <ArtCoverCard
-              key={s.id}
-              title={s.name}
-              image={s.cardThumb}
-              tone={toneForKey(s.id)}
-              size={120}
-              aspectRatio={1.5}
-              radius={4}
-              onPress={() => goCard(s.id)}
-            />
-          ))}
-        </ArtCarousel>
       )}
 
       <CreateCollectionSheet
