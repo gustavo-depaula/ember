@@ -106,3 +106,11 @@ Only `subject` changed. Sources, kept in `consult/tlm/`: **RS** = *Ritus servand
 - **`triduum`:** this follows the traditional stripping (F l. 18370–18395). The high altar keeps only the cross veiled in violet and the six candles, put out. Cloths, frontal, altar cards and tabernacle veil are removed, the tabernacle is left open, and the lamp is out. At the place of repose, two clerks in surplice kneel in watch (F l. 18392–18400; DO `Latin/Tempora/Quad6-4rm2.txt`, "Pro solemni Sacramenti repositione…").
 - **`entrance`:** the High Mass procession goes thurifer, cross between acolytes, clergy, M.C., subdeacon, deacon, celebrant, with the sacred ministers in birettas (F l. 7313–7318, 8020–8030). No lay reader carries a Book of the Gospels; at the old rite the book of lessons waits on the credence (F l. 2964).
 - The faithful's heads are covered (1917 Code c. 1262 §2).
+
+## The Ember Days as a set (2026-10-02)
+
+The four Ember cards were redrawn to one composition. The first drawings did not read as a set: the Lent card was a sower outdoors with the Mass tiny in a doorway, the other three were indoor Masses with the season only a glimpse through a side window or door. Now every card has the priest at the high altar, ad orientem, seen from behind, in the lower half, and directly behind and above the altar a great round-arched opening filling the upper half with the season: deep snow for Advent, the sower in the ploughed field for Lent, green wheat and poppies for Pentecost, sheaves, hay cart and vineyard for September. Only `subject` changed; the seasonal content is what each section above already sourced, and the colours stand (violet, violet, red, violet).
+
+- The opening behind the altar is a pictorial device, not a rubric or a real church's east wall: it takes the place of the reredos. The altar keeps the Low Mass furnishing of the TLM section (gradine, crucifix, two candles lit, altar cards, veiled tabernacle, rail).
+- The faithful in the pews are gone from all four, so the landscape has the room; with them goes the young man in a cassock of the Pentecost card (the Ember Saturday ordinations). The Pentecost card keeps its roses and peonies, and is now a Low Mass with one server like the other three.
+- This closes the first look-alike risk above: the cards are told apart by the landscape, which is now half the picture.
