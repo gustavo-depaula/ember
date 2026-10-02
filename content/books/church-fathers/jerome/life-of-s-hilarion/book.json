@@ -2,13 +2,16 @@
   "id": "jerome-life-of-s-hilarion",
   "cover": "quarter",
   "name": {
-    "en-US": "The Life of S. Hilarion"
+    "en-US": "The Life of S. Hilarion",
+    "pt-BR": "Vida de Santo Hilarião"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Life of S. Hilarion"
+        "en-US": "The Life of S. Hilarion",
+        "pt-BR": "Vida de Santo Hilarião"
       }
     }
   ]
