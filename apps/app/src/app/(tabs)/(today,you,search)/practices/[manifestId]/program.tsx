@@ -157,9 +157,9 @@ function roman(n: number): string {
 /**
  * A novena or other program, set like a devocionário page: the name, its days
  * as stars under the date they fall on, today's day opened as a chapter, and
- * the others as the book's contents. Before it's joined the page is only the
- * contents, each day open to read, over the day it would begin and the bar
- * that joins it.
+ * the others as the book's contents. Before it's joined the page is the day
+ * it would begin and the bar that joins it, over the contents, each day open
+ * to read.
  */
 export default function ProgramDetailScreen() {
   const { t, i18n } = useTranslation()
@@ -262,7 +262,20 @@ export default function ProgramDetailScreen() {
             name={name}
             caption={t(monthly ? 'program.durationMonths' : 'program.durationDays', { count })}
           />
-          <YStack paddingTop="$lg">
+          {dated && (
+            <StartChoice
+              today={todayStr}
+              traditional={traditional}
+              value={start}
+              onChange={setPickedStart}
+            />
+          )}
+          <PrayBar
+            label={t('program.join')}
+            onPress={() => plan.addToPlan(dated ? { startDate: start } : undefined)}
+          />
+          <Fleuron />
+          <YStack>
             {/* A long course lists its opening days; the caption gives the count. */}
             {Array.from({ length: Math.min(windowSize, count) }, (_, i) => (
               <DayLine
@@ -282,18 +295,6 @@ export default function ProgramDetailScreen() {
               />
             ))}
           </YStack>
-          {dated && (
-            <StartChoice
-              today={todayStr}
-              traditional={traditional}
-              value={start}
-              onChange={setPickedStart}
-            />
-          )}
-          <PrayBar
-            label={t('program.join')}
-            onPress={() => plan.addToPlan(dated ? { startDate: start } : undefined)}
-          />
         </YStack>
         <PracticePlanEditor plan={plan} />
       </ScreenLayout>
