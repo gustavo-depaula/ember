@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
     maxHeight: '90%',
     borderTopLeftRadius: 16,
     borderTopRightRadius: 16,
+    overflow: 'hidden',
   },
   segment: { flexDirection: 'row', gap: 4 },
   segmentItem: {
@@ -126,11 +127,19 @@ export function Host({
     </View>
   )
 }
-export const Group = ({ children }: Children) => <>{children}</>
+// A sheet's `presentationBackground` paints its Group, the sheet's whole body.
+export function Group({ children, modifiers }: Children & { modifiers?: unknown[] }) {
+  const background = modifiers?.find(
+    (m): m is { backgroundColor: string } => typeof m === 'object' && m != null,
+  )
+  return background ? <View style={background}>{children}</View> : <>{children}</>
+}
 export const RNHostView = ({ children }: Children) => <>{children}</>
 
-// Presentation modifiers describe sheet behaviour the web sheet doesn't model.
+// Presentation modifiers describe sheet behaviour the web sheet doesn't model,
+// apart from the background, which `Group` paints.
 const modifier = () => undefined
+export const presentationBackground = (color: string) => ({ backgroundColor: color })
 export const ignoreSafeArea = modifier
 export const interactiveDismissDisabled = modifier
 export const presentationBackgroundInteraction = modifier
@@ -150,6 +159,7 @@ const named: Record<string, unknown> = {
   RNHostView,
   ignoreSafeArea,
   interactiveDismissDisabled,
+  presentationBackground,
   presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,
