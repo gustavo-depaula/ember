@@ -1,22 +1,14 @@
-import {
-  FilledTonalIconButton,
-  HorizontalFloatingToolbar,
-  Host,
-  IconButton,
-  Image,
-  Shape,
-  Surface,
-} from '@expo/ui/jetpack-compose'
-import { size } from '@expo/ui/jetpack-compose/modifiers'
+import { BlurTargetView } from 'expo-blur'
 import { useSegments } from 'expo-router'
 import { type BottomTabBarProps, Tabs } from 'expo-router/js-tabs'
-import { useEffect, useState } from 'react'
+import { createRef, type RefObject, useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Keyboard, StyleSheet } from 'react-native'
+import { Image, Keyboard, Pressable, StyleSheet, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { useTheme, useThemeName } from 'tamagui'
+import { useThemeName } from 'tamagui'
 
 import { hidesAndroidTabBar } from '@/lib/fullScreenRoutes'
+import { ChromeSurface, chromeSelected, cycleChromeVariant, useChromeVariant } from './chrome'
 
 const todayIcon = require('../../assets/nav-icons/today.png')
 const youIcon = require('../../assets/nav-icons/you.png')
@@ -24,11 +16,24 @@ const searchIcon = require('../../assets/nav-icons/search.png')
 
 const searchTab = '(search)'
 
+const icons: Record<string, number> = {
+  '(today)': todayIcon,
+  '(you)': youIcon,
+  [searchTab]: searchIcon,
+}
+
+// The proportions of the iOS bar: a pill of two wide capsules, and a round
+// button as tall as the pill.
+const barHeight = 62
+const inset = 4
+const itemWidth = 88
+const iconHeight = 38
+const edge = 20
+
 /**
  * The app's three tabs on Android, in the shape of the iOS bar: Today and You
  * in a floating pill, Search in a round button of its own, the screen running
- * on underneath. Both are drawn by Material's own components; a Material
- * navigation bar would tint the illuminated icons to flat silhouettes.
+ * on underneath and blurred where it passes behind them.
  */
 export function AppTabs() {
   const { t } = useTranslation()
@@ -37,10 +42,31 @@ export function AppTabs() {
     '(you)': t('nav.you'),
     [searchTab]: t('nav.searchPlaceholder'),
   }
+  // Each tab's screen is a blur target; the bar blurs the one in front.
+  const targets = useRef(new Map<string, RefObject<View | null>>()).current
+  const targetFor = (key: string) => {
+    let ref = targets.get(key)
+    if (!ref) {
+      ref = createRef<View>()
+      targets.set(key, ref)
+    }
+    return ref
+  }
   return (
     <Tabs
       screenOptions={{ headerShown: false }}
-      tabBar={(props) => <FloatingTabBar {...props} labels={labels} />}
+      screenLayout={({ children, route }) => (
+        <BlurTargetView ref={targetFor(route.key)} style={styles.fill}>
+          {children}
+        </BlurTargetView>
+      )}
+      tabBar={(props) => (
+        <FloatingTabBar
+          {...props}
+          labels={labels}
+          blurTarget={targetFor(props.state.routes[props.state.index].key)}
+        />
+      )}
     >
       <Tabs.Screen name="(today)" options={{ title: labels['(today)'] }} />
       <Tabs.Screen name="(you)" options={{ title: labels['(you)'] }} />
@@ -48,20 +74,6 @@ export function AppTabs() {
     </Tabs>
   )
 }
-
-const icons: Record<string, number> = {
-  '(today)': todayIcon,
-  '(you)': youIcon,
-  [searchTab]: searchIcon,
-}
-
-// The art is drawn for about 32dp of height; the button around it is the
-// Material touch target, wide enough to read as a capsule when selected.
-const iconSize = size(40, 32)
-const buttonSize = size(72, 48)
-const searchSize = size(64, 64)
-const edge = 16
-const elevation = 6
 
 function useKeyboardShown(): boolean {
   const [shown, setShown] = useState(false)
@@ -80,91 +92,98 @@ function FloatingTabBar({
   state,
   navigation,
   labels,
-}: BottomTabBarProps & { labels: Record<string, string> }) {
-  const theme = useTheme()
+  blurTarget,
+}: BottomTabBarProps & { labels: Record<string, string>; blurTarget: RefObject<View | null> }) {
   const isDark = useThemeName().startsWith('dark')
   const insets = useSafeAreaInsets()
   const hidden = hidesAndroidTabBar(useSegments())
   // The window resizes for the keyboard, which would carry the bar up with it.
   const keyboardShown = useKeyboardShown()
+  const variant = useChromeVariant((s) => s.variant)
 
   if (hidden || keyboardShown) return null
 
-  const surface = theme.backgroundSurface.val
-  const highlight = isDark ? '#FFFFFF24' : '#0000001A'
-  const bottom = insets.bottom + 8
+  const bottom = insets.bottom + 10
+  const selectedFill = chromeSelected(variant, isDark)
 
-  const press = (route: (typeof state.routes)[number], selected: boolean) => {
-    const event = navigation.emit({ type: 'tabPress', target: route.key, canPreventDefault: true })
-    if (!selected && !event.defaultPrevented) navigation.navigate(route.name, route.params)
+  const tab = (route: (typeof state.routes)[number], round: boolean) => {
+    const selected = state.routes[state.index] === route
+    return (
+      <Pressable
+        key={route.key}
+        accessibilityRole="tab"
+        accessibilityLabel={labels[route.name]}
+        accessibilityState={{ selected }}
+        aria-selected={selected}
+        onLongPress={cycleChromeVariant}
+        onPress={() => {
+          const event = navigation.emit({
+            type: 'tabPress',
+            target: route.key,
+            canPreventDefault: true,
+          })
+          if (!selected && !event.defaultPrevented) navigation.navigate(route.name, route.params)
+        }}
+        style={[
+          styles.item,
+          round ? styles.round : styles.capsule,
+          selected && { backgroundColor: selectedFill },
+        ]}
+      >
+        <Image source={icons[route.name]} resizeMode="contain" style={styles.icon} />
+      </Pressable>
+    )
   }
-  const icon = (name: string) => (
-    <Image
-      source={icons[name]}
-      contentScale="fit"
-      contentDescription={labels[name]}
-      modifiers={[iconSize]}
-    />
-  )
 
   const search = state.routes.find((r) => r.name === searchTab)
-  const searchSelected = search !== undefined && state.routes[state.index] === search
+
+  if (variant === 'glass-single') {
+    return (
+      <View style={[styles.centered, { bottom }]} pointerEvents="box-none">
+        <ChromeSurface
+          isDark={isDark}
+          radius={barHeight / 2}
+          blurTarget={blurTarget}
+          style={styles.singlePill}
+        >
+          {state.routes.map((r) => tab(r, false))}
+        </ChromeSurface>
+      </View>
+    )
+  }
 
   return (
     <>
-      <Host
-        matchContents
-        colorScheme={isDark ? 'dark' : 'light'}
-        style={[styles.floating, { left: edge, bottom }]}
+      <ChromeSurface
+        isDark={isDark}
+        radius={barHeight / 2}
+        blurTarget={blurTarget}
+        style={[styles.pill, { left: edge, bottom }]}
       >
-        {/* The surface carries the colour and the shadow: the toolbar alone
-            casts none, and paper on paper would vanish in the light theme. */}
-        <Surface color={surface} shape={Shape.Pill({})} shadowElevation={elevation}>
-          <HorizontalFloatingToolbar colors={{ toolbarContainerColor: 'transparent' }}>
-            {state.routes.map((route, index) => {
-              if (route.name === searchTab) return null
-              const selected = state.index === index
-              const Button = selected ? FilledTonalIconButton : IconButton
-              return (
-                <Button
-                  key={route.key}
-                  onClick={() => press(route, selected)}
-                  shape={Shape.Pill({})}
-                  colors={{ containerColor: selected ? highlight : 'transparent' }}
-                  modifiers={[buttonSize]}
-                >
-                  {icon(route.name)}
-                </Button>
-              )
-            })}
-          </HorizontalFloatingToolbar>
-        </Surface>
-      </Host>
-
+        {state.routes.filter((r) => r.name !== searchTab).map((r) => tab(r, false))}
+      </ChromeSurface>
       {search && (
-        <Host
-          matchContents
-          colorScheme={isDark ? 'dark' : 'light'}
-          style={[styles.floating, { right: edge, bottom }]}
+        <ChromeSurface
+          isDark={isDark}
+          radius={barHeight / 2}
+          blurTarget={blurTarget}
+          style={[styles.search, { right: edge, bottom }]}
         >
-          {/* A surface rather than Material's floating action button, whose
-              shape is a rounded square and cannot be changed. */}
-          <Surface
-            color={searchSelected ? theme.accentSubtle.val : surface}
-            // A pill as tall as it is wide: `Shape.Circle` wants a radius.
-            shape={Shape.Pill({})}
-            shadowElevation={elevation}
-          >
-            <IconButton onClick={() => press(search, searchSelected)} modifiers={[searchSize]}>
-              {icon(searchTab)}
-            </IconButton>
-          </Surface>
-        </Host>
+          {tab(search, true)}
+        </ChromeSurface>
       )}
     </>
   )
 }
 
 const styles = StyleSheet.create({
-  floating: { position: 'absolute' },
+  fill: { flex: 1 },
+  pill: { position: 'absolute', flexDirection: 'row', height: barHeight, padding: inset },
+  centered: { position: 'absolute', left: 0, right: 0, alignItems: 'center' },
+  singlePill: { flexDirection: 'row', height: barHeight, padding: inset },
+  search: { position: 'absolute', width: barHeight, height: barHeight, padding: inset },
+  item: { alignItems: 'center', justifyContent: 'center', borderRadius: barHeight / 2 },
+  capsule: { width: itemWidth, height: barHeight - inset * 2 },
+  round: { flex: 1 },
+  icon: { height: iconHeight, width: iconHeight * 1.5 },
 })
