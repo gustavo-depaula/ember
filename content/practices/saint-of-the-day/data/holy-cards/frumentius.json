@@ -1,0 +1,45 @@
+{
+  "id": "frumentius",
+  "feast": {
+    "month": 10,
+    "day": 27
+  },
+  "name": {
+    "en-US": "St. Frumentius",
+    "pt-BR": "São Frumêncio"
+  },
+  "patronOf": {
+    "en-US": "Bishop of the Ethiopians",
+    "pt-BR": "Bispo dos Etíopes"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"The soul that journeys in the light and the truths of the Faith is safe against all error.\"",
+    "pt-BR": "\"A alma que caminha na luz e nas verdades da Fé está a salvo de todo erro.\""
+  },
+  "lifeChapter": "oct-27-frumentius",
+  "meta": {
+    "face": "A Phoenician of Tyre of about fifty-five with a warm, olive-bronze complexion and a WIDE, LOW, FLAT-CHEEKED face — a BROAD, low forehead, WIDE, flat cheek planes and a WIDE jaw, THICK, black brows ARCHED high and full, LARGE, dark, slightly PROMINENT eyes with a kind, direct look, a nose with a strong, gentle CURVE and a FLESHY, rounded tip, a FULL, wide mouth; thick, wavy black hair touched with grey at the temples, falling to the neck; a full, thick black beard, rounded at the bottom; the gaze warm and steady. Not the tall, egg-shaped anicetus, the round, soft severianus_scythopolis, the short, domed lucian_antioch or the Copts pachomius and macarius_alexandria.",
+    "basis": "The modern icon on English Wikipedia's page shows a dark-haired, full-bearded bishop; no likeness survives, so the card keeps the icon's colouring on a broad Levantine face, the boy of Tyre grown into the bishop the book says St. Athanasius ordained. Axum and its court are from the book and from Rufinus via Wikipedia.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-27-frumentius.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Frumentius (lead: icon)",
+        "url": "https://en.wikipedia.org/wiki/Frumentius"
+      },
+      {
+        "title": "Santi e Beati, San Frumenzio (Roman Martyrology entry, 20 July)",
+        "url": "https://www.santiebeati.it/dettaglio/75400"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-27-frumentius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-27-frumentius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

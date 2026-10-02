@@ -1,0 +1,45 @@
+{
+  "id": "crispin_crispinian",
+  "feast": {
+    "month": 10,
+    "day": 25
+  },
+  "name": {
+    "en-US": "Sts. Crispin and Crispinian",
+    "pt-BR": "São Crispim e São Crispiniano"
+  },
+  "patronOf": {
+    "en-US": "Patrons of shoemakers",
+    "pt-BR": "Padroeiros dos sapateiros"
+  },
+  "prayerExcerpt": {
+    "en-US": "Of how many may it be said that \"they labor in vain,\" since God is not the end and purpose that inspires the labor?",
+    "pt-BR": "De quantos se pode dizer que \"trabalham em vão\", visto que Deus não é o fim e o propósito que inspira o trabalho?"
+  },
+  "lifeChapter": "oct-25-sts-crispin-and-crispinian",
+  "meta": {
+    "face": "Two brothers who must read as different men, NOT twins. CRISPIN (left), the elder, about forty, with a ruddy olive complexion and a WIDE, SHORT, FLAT face — a broad, low forehead under a STRAIGHT, low hairline of short, thick black hair, WIDE, FLAT cheekbones, a SHORT, BROAD nose with a low bridge, small, bright, dark eyes creased by a ready smile under thick, straight black brows, a WIDE mouth, a strong, rounded chin; CLEAN-SHAVEN with a dark shadow on the jaw, a thick neck. CRISPINIAN (right), about thirty, paler, with a TRIANGULAR face — BROAD temples and a high, smooth forehead tapering past lean cheeks to a NARROW, POINTED chin; a thin, straight nose, LARGE, grey-green eyes set wide, fine, arched light-brown brows, a small, thoughtful mouth; soft, wavy, light-brown hair to the ears and a SPARSE, short light-brown beard only on the chin; the gaze earnest. Not the olive twins of cosmas_damian, nor the pairs john_paul_martyrs, faustinus_jovita or romanus_lupicinus.",
+    "basis": "No likeness survives. The Kalkar statues (Wikipedia's lead image) make them two young, well-dressed men with shoemakers' tools; the card keeps the tools and palms, makes them different in age and build as brothers, not twins (the book says only 'brothers'), and sets them in the Soissons workshop of the book's engraving.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-25-sts-crispin-and-crispinian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Crispin and Crispinian (lead: statues at Kalkar)",
+        "url": "https://en.wikipedia.org/wiki/Crispin_and_Crispinian"
+      },
+      {
+        "title": "Santi e Beati, Santi Crispino e Crispiniano di Soissons (Roman Martyrology entry, 25 October)",
+        "url": "https://www.santiebeati.it/dettaglio/75150"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-25-sts-crispin-and-crispinian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-25-sts-crispin-and-crispinian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

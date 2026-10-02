@@ -1,0 +1,49 @@
+{
+  "id": "magloire",
+  "feast": {
+    "month": 10,
+    "day": 24
+  },
+  "name": {
+    "en-US": "St. Magloire",
+    "pt-BR": "São Maglório"
+  },
+  "patronOf": {
+    "en-US": "Bishop and abbot in Brittany",
+    "pt-BR": "Bispo e abade na Bretanha"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Be mindful of them that have rule over you, who have spoken to you the word of God, whose faith follow, considering the end.\"",
+    "pt-BR": "\"Lembrai-vos dos vossos guias, que vos anunciaram a palavra de Deus; e, considerando o fim da sua vida, imitai-lhes a fé.\""
+  },
+  "lifeChapter": "oct-24-magloire",
+  "meta": {
+    "face": "A Briton of about seventy-five, spare and upright, with a fair, wind-reddened complexion and a TALL, NARROW face that is LONGEST between the eyes and the mouth — a high, BALD, smooth DOME with a fringe of white hair at the back, a LONG, THIN, straight nose that ENDS in a slightly DROOPING tip, WIDE-SET, clear, light-blue eyes under THIN, level white brows, HIGH, NARROW cheekbones with flat planes below, a LONG upper lip and a small mouth, LARGE ears; a long, STRAIGHT, silver-white beard that TAPERS to a single narrow point on the breast; the gaze calm and benevolent, toward us. Not the dish-profiled, snub-nosed, wavy-bearded mello, the heavy-browed, broad david_wales, the shield-shaped paternus_avranches, the trapezoid, broad-bearded hilary, the long, symmetrical remigius, or the round, bald, flat-featured zephyrinus.",
+    "basis": "No likeness survives. The painting on English Wikipedia's page shows a tall old bishop with a high bald forehead and a long white beard, which the card keeps; the book has him resign his see at seventy and govern sixty monks on an island (Jersey in the book, Sark in Wikipedia and the Martyrology's tradition), so the island is left unnamed.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-24-magloire.md Reflection, the whole of it (Hebrews 13:7) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Magloire (lead: painting of St. Magloire of Dol)",
+        "url": "https://en.wikipedia.org/wiki/Magloire"
+      },
+      {
+        "title": "Wikipedia (fr), Magloire de Dol",
+        "url": "https://fr.wikipedia.org/wiki/Magloire_de_Dol"
+      },
+      {
+        "title": "Santi e Beati, San Maglorio (Roman Martyrology entry, 24 October)",
+        "url": "https://www.santiebeati.it/dettaglio/92873"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-24-magloire (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-24-magloire.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

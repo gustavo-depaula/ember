@@ -1,0 +1,45 @@
+{
+  "id": "marcellus_centurion",
+  "feast": {
+    "month": 10,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Marcellus the Centurion",
+    "pt-BR": "São Marcelo, o Centurião"
+  },
+  "patronOf": {
+    "en-US": "A soldier of Jesus Christ",
+    "pt-BR": "Soldado de Jesus Cristo"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"We are ready to die rather than to transgress the laws of God!\" exclaimed one of the Machabees. This sentiment should ever be that of a Christian in presence of temptation.",
+    "pt-BR": "\"Estamos prontos a morrer antes que transgredir as leis de Deus!\" exclamou um dos Macabeus. Este sentimento deve ser sempre o de um cristão em presença da tentação."
+  },
+  "lifeChapter": "oct-30-marcellus-the-centurion",
+  "meta": {
+    "face": "A veteran of about forty-five with a sun-browned, ruddy olive complexion and a ROUND, SHORT face as wide as it is long on a THICK neck — a broad, rounded forehead, FULL, firm, ROUNDED cheeks, a SHORT, slightly UPTURNED nose, ROUND, light-brown eyes, frank and steady, under STRAIGHT, thick brown brows, a WIDE, good-humoured mouth, a round chin with a DIMPLE; brown hair going grey, cut very short in the soldier's fashion; a SHORT, close-trimmed grizzled beard; the look firm and open. Not the angular, cleft-chinned victor_marseilles, the long-headed, joined-browed romanus_ostiarius, the square, broken-nosed Tarachus of tarachus_companions, the dark, long-oval Maurice of theban_legion, or george and sebastian.",
+    "basis": "No likeness survives. The book and the Martyrology tell of his throwing down his belt and arms before the standards on the emperor's feast; the book's engraving shows him among soldiers and tents with his arms on the ground. The round, open face is a veteran's, chosen to stand apart from the batch's other soldiers.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-30-marcellus-the-centurion.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Marcellus of Tangier (lead: icon of Marcellus and Cassian)",
+        "url": "https://en.wikipedia.org/wiki/Marcellus_of_Tangier"
+      },
+      {
+        "title": "Santi e Beati, San Marcello di Tangeri (Roman Martyrology entry, 30 October)",
+        "url": "https://www.santiebeati.it/dettaglio/75700"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-30-marcellus-the-centurion (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-30-marcellus-the-centurion.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

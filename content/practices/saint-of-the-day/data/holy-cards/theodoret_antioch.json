@@ -1,0 +1,45 @@
+{
+  "id": "theodoret_antioch",
+  "feast": {
+    "month": 10,
+    "day": 23
+  },
+  "name": {
+    "en-US": "St. Theodoret",
+    "pt-BR": "São Teodoreto"
+  },
+  "patronOf": {
+    "en-US": "Priest and martyr of Antioch",
+    "pt-BR": "Sacerdote e mártir de Antioquia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Take care to meditate upon the four last things, and to live in holy fear.",
+    "pt-BR": "Cuida de meditar sobre as quatro últimas coisas e de viver no santo temor."
+  },
+  "lifeChapter": "oct-23-theodoret",
+  "meta": {
+    "face": "A Syrian of Antioch of about forty-five with a warm, olive complexion and a face shaped like a BELL — NARROW at the temples and the low forehead, WIDENING down to a BROAD, ANGULAR jaw with marked corners; a strong nose with a distinct BUMP on the bridge and a straight, slightly down-turned tip, deep-set, dark, steady eyes under thick black brows ARCHED HIGH at their middle, flat cheeks, a firm mouth with a FULL lower lip; short, thick, black curly hair cropped close to the skull; a SHORT, dense, curly black beard that follows the wide jaw closely; the look direct and unafraid. Not the short, domed-browed lucian_antioch, the square-jawed, full-cheeked Cosmas of cosmas_damian, the long-headed, joined-browed romanus_ostiarius or the broad-browed, clean-shaven eusebius_rome.",
+    "basis": "No likeness survives. The face is a strong Syrian priest's, faithful to the book's account of his bold answer to Count Julian; that he kept the church's sacred vessels is from Wikipedia (after Butler), and the book's engraving shows him before the tribunal.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-23-theodoret.md Reflection, second sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Theodoret of Antioch",
+        "url": "https://en.wikipedia.org/wiki/Theodoret_(martyr)"
+      },
+      {
+        "title": "Santi e Beati, San Teodoreto di Antiochia (Roman Martyrology entry, 23 October)",
+        "url": "https://www.santiebeati.it/dettaglio/74840"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-23-theodoret (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-23-theodoret.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

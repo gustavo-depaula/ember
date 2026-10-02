@@ -1,0 +1,45 @@
+{
+  "id": "narcissus_jerusalem",
+  "feast": {
+    "month": 10,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Narcissus",
+    "pt-BR": "São Narciso"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Jerusalem",
+    "pt-BR": "Bispo de Jerusalém"
+  },
+  "prayerExcerpt": {
+    "en-US": "God never fails those who trust in Him; He guides them through darkness and through trials secretly and surely to their end, and in the evening time there is light.",
+    "pt-BR": "Deus nunca falha àqueles que n'Ele confiam; Ele os guia através das trevas e das provações, secreta e seguramente, ao seu fim, e na hora da tarde haverá luz."
+  },
+  "lifeChapter": "oct-29-narcissus",
+  "meta": {
+    "face": "A man of great age, well past a hundred, with a soft, pale, parchment-fine complexion and a SMALL, ROUND, SHRUNKEN face in which the mouth has FALLEN IN, bringing a small, HOOKED nose and a small, forward-CURVING chin close together (a gentle 'nutcracker' profile) — a round, BALD crown with a few wisps of fine white hair at the sides, small, soft, watery-blue eyes deep in folds of skin, puffed, softly drooping lids, sparse, long white brows, rounded, sunken cheeks; a SHORT, SPARSE, soft white beard that shows the chin's shape beneath; the gaze mild and trusting, the lips in a faint smile. Not the long, hatchet-faced simeon_jerusalem, the rosy, heart-shaped, full-haired polycarp, the long, tapering paul_hermit, the broad, flat-planed theodosius_cenobiarch or the round, flat-featured, long-bearded zephyrinus.",
+    "basis": "No likeness survives. The book and the Martyrology make him bishop in extreme old age (the Martyrology: 116 years at his death), so the card paints a very old man; the lamp is the book's Easter miracle of water turned to oil, told also by Eusebius (via Wikipedia).",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-29-narcissus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Narcissus of Jerusalem (lead: window at Bénévent-l'Abbaye)",
+        "url": "https://en.wikipedia.org/wiki/Narcissus_of_Jerusalem"
+      },
+      {
+        "title": "Santi e Beati, San Narciso di Gerusalemme (Roman Martyrology entry, 29 October)",
+        "url": "https://www.santiebeati.it/dettaglio/90411"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-29-narcissus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-29-narcissus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

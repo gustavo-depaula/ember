@@ -1,0 +1,49 @@
+{
+  "id": "quintin",
+  "feast": {
+    "month": 10,
+    "day": 31
+  },
+  "name": {
+    "en-US": "St. Quintin",
+    "pt-BR": "São Quintino"
+  },
+  "patronOf": {
+    "en-US": "Martyr of Picardy",
+    "pt-BR": "Mártir da Picardia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Let us bear in mind that the ills of this life are not worthy to be compared to the glory \"God has reserved for those who love Him.\"",
+    "pt-BR": "Tenhamos em mente que os males desta vida não são dignos de ser comparados com a glória que \"Deus reservou para aqueles que O amam\"."
+  },
+  "lifeChapter": "oct-31-quintin",
+  "meta": {
+    "face": "A Roman patrician of about thirty, CLEAN-SHAVEN, fair-skinned with a light flush, with a LONG, RECTANGULAR face and a STRONG, FLAT-BOTTOMED jaw as wide as the cheekbones — a high, broad forehead, a Roman nose with a HIGH bridge and a slight HOOK, DEEP-SET, grey-green eyes under straight, fair-brown brows, flat cheeks, a WIDE, thin-lipped mouth, a long neck; short, TIGHT, close-cropped fair curls; the gaze eager and bright. Not the smooth-oval, fringe-haired alexander, the round-faced boy pancras, the angular, cleft-chinned victor_marseilles, the long-headed romanus_ostiarius, or the heart-shaped youngest of forty_martyrs_sebaste.",
+    "basis": "No likeness survives. Pontormo's painting (Wikipedia's lead image) makes him a young man; the card keeps his youth and senatorial rank from the book and the Martyrology ('senatore'), and puts him at Amiens, where the book has him preach and suffer.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/oct-31-quintin.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Quentin (saint) (lead: Pontormo, St. Quintin)",
+        "url": "https://en.wikipedia.org/wiki/Quentin_(saint)"
+      },
+      {
+        "title": "Wikipedia (fr), Quentin (saint)",
+        "url": "https://fr.wikipedia.org/wiki/Quentin_(saint)"
+      },
+      {
+        "title": "Santi e Beati, San Quintino di Vermand (Roman Martyrology entry, 31 October)",
+        "url": "https://www.santiebeati.it/dettaglio/75800"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, oct-31-quintin (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/oct-31-quintin.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}

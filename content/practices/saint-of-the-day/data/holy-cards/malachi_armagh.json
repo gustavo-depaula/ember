@@ -1,0 +1,49 @@
+{
+  "id": "malachi_armagh",
+  "feast": {
+    "month": 11,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Malachi",
+    "pt-BR": "São Malaquias"
+  },
+  "patronOf": {
+    "en-US": "Archbishop of Armagh",
+    "pt-BR": "Arcebispo de Armagh"
+  },
+  "prayerExcerpt": {
+    "en-US": "Our Lord said to St. Gertrude, \"God accepts every soul you set free, as if you had redeemed him from captivity, and will reward you in a fitting time for the benefit you have conferred.\"",
+    "pt-BR": "Nosso Senhor disse a Santa Gertrudes: \"Deus aceita cada alma que libertas, como se a tivesses resgatado do cativeiro, e te recompensará no tempo devido pelo benefício que conferiste.\""
+  },
+  "lifeChapter": "nov-02-malachi",
+  "meta": {
+    "face": "An Irishman of about fifty with a fair, fresh, lightly ruddy complexion and a smooth, UNLINED, OVAL face somewhat LONGER than wide — a high, ROUNDED forehead, a SHORT, straight nose with a slightly UPTURNED, neat tip, LARGE, clear, grey-blue eyes set WIDE apart, their lower lids lifted by a quiet smile, soft, arched brown brows, FIRM, smooth cheeks, a small, calm, closed mouth turned up at the corners, a SMALL, rounded chin; CLEAN-SHAVEN; brown hair greying a little, cut short in a Roman round tonsure; the gaze grave but joyful. Not the broad, white-haired, Irish-tonsured columba, the long, flaxen finbarr, the heart-shaped fiaker, the square, snub-nosed gall, the big-boned columban, the long, handsome oswald_worcester, or the clean-shaven, beak-nosed wilfrid.",
+    "basis": "No likeness survives. St. Bernard's Life of St. Malachy (tr. Lawlor, 1920, `bernard-malachy.txt`) says that 'neither did sadness darken nor laughter turn to levity the joyousness of his countenance' and that even in death his brow was not wrinkled nor his face wasted: hence a smooth, serene, gently smiling face.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-02-malachi.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "St. Bernard of Clairvaux's Life of St. Malachy of Armagh, tr. H. J. Lawlor (1920), Project Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/25761"
+      },
+      {
+        "title": "Wikipedia, Saint Malachy (lead: stained-glass window)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Malachy"
+      },
+      {
+        "title": "Santi e Beati, San Malachia di Armagh (Roman Martyrology entry, 2 November)",
+        "url": "https://www.santiebeati.it/dettaglio/37650"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-02-malachi (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-02-malachi.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-38.md."
+      }
+    ]
+  }
+}
