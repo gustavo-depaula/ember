@@ -15,6 +15,8 @@
 import type { ReactNode } from 'react'
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native'
 
+import i18n from '@/lib/i18n'
+
 type Children = { children?: ReactNode }
 
 const styles = StyleSheet.create({
@@ -76,6 +78,8 @@ export function BottomSheet({
     <View style={styles.backdrop}>
       <Pressable
         style={StyleSheet.absoluteFill}
+        accessibilityRole="button"
+        accessibilityLabel={i18n.t('a11y.closeModal')}
         onPress={() => {
           onClose?.()
           onIsPresentedChange?.(false)
@@ -106,6 +110,10 @@ export function SegmentedControl({
         <Pressable
           key={label}
           style={[styles.segmentItem, i === selectedIndex && styles.segmentItemOn]}
+          accessibilityRole="button"
+          accessibilityLabel={label}
+          accessibilityState={{ selected: i === selectedIndex }}
+          aria-selected={i === selectedIndex}
           onPress={() => onChange?.({ nativeEvent: { selectedSegmentIndex: i } })}
         >
           <Text>{label}</Text>
