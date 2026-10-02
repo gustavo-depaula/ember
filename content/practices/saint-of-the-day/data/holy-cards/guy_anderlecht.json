@@ -1,0 +1,45 @@
+{
+  "id": "guy_anderlecht",
+  "feast": {
+    "month": 9,
+    "day": 12
+  },
+  "name": {
+    "en-US": "St. Guy of Anderlecht",
+    "pt-BR": "São Guido de Anderlecht"
+  },
+  "patronOf": {
+    "en-US": "Patron of sacristans",
+    "pt-BR": "Padroeiro dos sacristães"
+  },
+  "prayerExcerpt": {
+    "en-US": "Jesus was only nine months in the womb of Mary, three hours on the cross, three days in the sepulchre, but He is always in the tabernacle.",
+    "pt-BR": "Jesus esteve apenas nove meses no ventre de Maria, três horas na cruz, três dias no sepulcro, mas está sempre no tabernáculo."
+  },
+  "lifeChapter": "sep-12-guy-of-anderlecht",
+  "meta": {
+    "face": "A Brabant countryman of about fifty, CLEAN-SHAVEN, with a ruddy, weather-reddened complexion and a BROAD, SQUARE face with STRONG JAW CORNERS, after the Book of Hours miniature — a LOW, broad forehead, a SHORT, BROAD nose with a ROUNDED tip, SMALL, DEEP-SET blue-grey eyes under HEAVY, STRAIGHT brown brows, wide, weathered cheeks with deep smile-lines, a WIDE, straight mouth, PROMINENT ears; thick brown hair with the first grey, cut in a straight fringe across the brow and short over the ears; the gaze humble and kindly. Not the wedge-faced Cloud of this batch, nor the fair, flat-topped hyacinth.",
+    "basis": "A fifteenth-century Book of Hours miniature (Wikipedia's lead) shows him as a peasant in a red tunic with a staff, a broad face with a short, broad nose; Wikipedia gives his iconography as a pilgrim with hat and staff and an ox at his feet, and his patronage of sacristans. The card follows both.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-12-guy-of-anderlecht.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Guy of Anderlecht (lead: Book of Hours miniature)",
+        "url": "https://en.wikipedia.org/wiki/Guy_of_Anderlecht"
+      },
+      {
+        "title": "Santi e Beati, San Guido di Anderlecht (Roman Martyrology entry, 12 September)",
+        "url": "https://www.santiebeati.it/dettaglio/70000"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-12-guy-of-anderlecht (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-12-guy-of-anderlecht.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

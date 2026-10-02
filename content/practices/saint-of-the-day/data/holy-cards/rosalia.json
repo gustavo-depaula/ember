@@ -1,0 +1,48 @@
+{
+  "id": "rosalia",
+  "feast": {
+    "month": 9,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Rosalia",
+    "pt-BR": "Santa Rosália"
+  },
+  "patronOf": {
+    "en-US": "Patroness of Palermo",
+    "pt-BR": "Padroeira de Palermo"
+  },
+  "prayerExcerpt": {
+    "en-US": "She completed the sacrifice of her heart to God by austere penance and manual labor, sanctified by assiduous prayer and the constant union of her soul with God.",
+    "pt-BR": "Consumou o sacrifício de seu coração a Deus por austera penitência e trabalho manual, santificado por assídua oração e pela constante união de sua alma com Deus."
+  },
+  "meta": {
+    "face": "A Norman-Sicilian noblewoman of about thirty with a fair, lightly sun-touched complexion and a LONG, NARROW face — a high, rounded forehead, a SLENDER, HIGH-BRIDGED nose with a delicate, slightly downturned tip, WIDE-SET grey-green eyes lifted toward heaven under fine, high-arched golden brows, smooth, flat cheeks, a small, full, rosy mouth, a SMALL, POINTED chin; long, loose, wavy GOLDEN-RED hair falling past the shoulders; the gaze upturned and rapt, as in van Dyck's Palermo pictures. Not the round, dark rose_lima under her rose crown; no dark hair.",
+    "basis": "No likeness survives. Her image since 1624 is van Dyck's, painted in Palermo during the plague: long loose golden hair under a crown of roses, the brown hermit's robe, the lily, the cave on Monte Pellegrino. The card follows that iconography; the face's bone structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-04-rosalia.md, first paragraph (hers), the clause after 'where' in the second sentence; the chapter also tells St. Rose of Viterbo, whose Reflection it ends with, so the card has no lifeChapter and no reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Rosalia (lead: Anthony van Dyck, Saint Rosalia interceding for Palermo)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Rosalia"
+      },
+      {
+        "title": "Wikipedia (it), Santa Rosalia (lead: Luca Giordano's Saint Rosalia, Prado)",
+        "url": "https://it.wikipedia.org/wiki/Santa_Rosalia"
+      },
+      {
+        "title": "Santi e Beati, Santa Rosalia (Roman Martyrology entry, 4 September)",
+        "url": "https://www.santiebeati.it/dettaglio/69050"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-04-rosalia (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-04-rosalia.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

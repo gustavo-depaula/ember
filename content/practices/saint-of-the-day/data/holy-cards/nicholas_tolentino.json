@@ -1,0 +1,45 @@
+{
+  "id": "nicholas_tolentino",
+  "feast": {
+    "month": 9,
+    "day": 10
+  },
+  "name": {
+    "en-US": "St. Nicholas of Tolentino",
+    "pt-BR": "São Nicolau de Tolentino"
+  },
+  "patronOf": {
+    "en-US": "Patron of the Holy Souls",
+    "pt-BR": "Padroeiro das almas do Purgatório"
+  },
+  "prayerExcerpt": {
+    "en-US": "Would you die the death of the just? there is only one way to secure the fulfilment of your wish. Live the life of the just.",
+    "pt-BR": "Desejarias morrer a morte dos justos? há somente um caminho para assegurar o cumprimento de teu desejo. Vive a vida dos justos."
+  },
+  "lifeChapter": "sep-10-nicholas-of-tolentino",
+  "meta": {
+    "face": "An Italian of the Marche of about fifty-five, CLEAN-SHAVEN, with a pale olive complexion thinned by fasting and a HEART-SHAPED face — a BROAD, smooth forehead tapering over HOLLOW cheeks to a SMALL, POINTED chin, a small, STRAIGHT, fine nose, LARGE, gentle dark-brown eyes set a little close under softly arched dark brows, a SMALL, sweet mouth; black hair touched with grey cut in a thick ring round a full tonsure; the gaze lowered, tender and humble. Not the round, big-nosed philip_benizi, nor the dark, compact, brow-joined peter_verona.",
+    "basis": "The Augustinian habit, the star, the lily and the blessed bread are his constant attributes (Santi e Beati: 'cesto di pane, pane, stella'); the lead portrait on Wikipedia shows a pale, gentle, tonsured friar. The gauntness is the book's austerity; the structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-10-nicholas-of-tolentino.md Reflection, first three sentences (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Nicholas of Tolentino (lead: portrait of San Nicola da Tolentino, Bolognese school)",
+        "url": "https://en.wikipedia.org/wiki/Nicholas_of_Tolentino"
+      },
+      {
+        "title": "Santi e Beati, San Nicola da Tolentino (Roman Martyrology entry, 10 September)",
+        "url": "https://www.santiebeati.it/dettaglio/34600"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-10-nicholas-of-tolentino (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-10-nicholas-of-tolentino.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "eulogius_alexandria",
+  "feast": {
+    "month": 9,
+    "day": 13
+  },
+  "name": {
+    "en-US": "St. Eulogius of Alexandria",
+    "pt-BR": "Santo Eulógio de Alexandria"
+  },
+  "patronOf": {
+    "en-US": "Patriarch of Alexandria",
+    "pt-BR": "Patriarca de Alexandria"
+  },
+  "prayerExcerpt": {
+    "en-US": "We admire the great actions and the glorious triumph of the Saints; yet it is not so much in these that their sanctity consisted, as in the constant, habitual heroic disposition of their souls.",
+    "pt-BR": "Admiramos as grandes ações e o glorioso triunfo dos Santos; contudo não foi tanto nestes que consistiu sua santidade, quanto na constante, habitual e heroica disposição de suas almas."
+  },
+  "lifeChapter": "sep-13-eulogius",
+  "meta": {
+    "face": "A Syrian of Antioch of about sixty-five with a warm olive complexion and an OBLONG face under a HIGH, BALD, DOMED forehead — a LONG, fine, straight nose, NARROW-SET dark eyes under STRAIGHT, HEAVY black-and-grey brows that nearly meet, FLAT cheeks, a small, firm mouth; short grey hair at the sides and back; a FULL, ROUNDED grey beard of medium length, as in the Menologion; the gaze direct and thoughtful. Not the hair-hidden, high-bridged cyril_alexandria, the egg-headed, long-black-bearded anicetus, or the broad-browed, short-faced lucian_antioch.",
+    "basis": "The Menologion of Basil II (c. 1000) shows him as a bishop in phelonion and omophorion with grey hair and a rounded grey beard, holding the Gospels; the card follows its dress and beard. The book makes him a Syrian monk and priest of Antioch, and Wikipedia an abbot there; the bald dome and brows are ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-13-eulogius.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Eulogius of Alexandria (lead: Menologion of Basil II)",
+        "url": "https://en.wikipedia.org/wiki/Eulogius_of_Alexandria"
+      },
+      {
+        "title": "Santi e Beati, Sant'Eulogio (Roman Martyrology entry, 13 June)",
+        "url": "https://www.santiebeati.it/dettaglio/57030"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-13-eulogius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-13-eulogius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

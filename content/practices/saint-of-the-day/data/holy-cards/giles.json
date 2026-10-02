@@ -1,0 +1,45 @@
+{
+  "id": "giles",
+  "feast": {
+    "month": 9,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Giles",
+    "pt-BR": "Santo Egídio"
+  },
+  "patronOf": {
+    "en-US": "Hermit and abbot",
+    "pt-BR": "Eremita e abade"
+  },
+  "prayerExcerpt": {
+    "en-US": "He who accompanies the exercises of contemplation and arduous penance with zealous and undaunted endeavors to conduct others to the same glorious term with himself, shall be truly great in the kingdom of heaven.",
+    "pt-BR": "Aquele que acompanha os exercícios de contemplação e árdua penitência com zelosos e destemidos esforços por conduzir os outros ao mesmo glorioso termo a que ele próprio chega, será verdadeiramente grande no reino dos céus."
+  },
+  "lifeChapter": "sep-01-giles",
+  "meta": {
+    "face": "A Greek of about seventy, lean and gentle, with a fair olive complexion and an OVAL face that is WIDEST at soft, rounded cheekbones — a smooth, high forehead running into a BALD crown under the skullcap, a LONG, STRAIGHT 'Greek' nose continuing the line of the brow without a dip, LARGE, dark, HEAVY-LIDDED almond eyes under thin, level grey brows, soft, slightly sunken cheeks, a WIDE, gentle, thin-lipped mouth, a small rounded chin; a thin fringe of grey hair above the ears and a THIN, WISPY grey beard falling to a soft point; the gaze lowered to the hind, tender. Not the broad, round-headed Benedict with his long full white beard, nor the triangular, hooded anthony_abbot.",
+    "basis": "The Master of St. Giles (c. 1500) paints him as an old hermit with a bald crown under a skullcap and a thin grey beard, the hind at his breast; the book's engraving shows him hooded in the forest with the hind. The card keeps that type and paints the book's scene without the arrow, which the book does not tell.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-01-giles.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Giles (lead: the Master of Saint Giles, Saint Giles and the Hind, National Gallery)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Giles"
+      },
+      {
+        "title": "Santi e Beati, Sant'Egidio (Roman Martyrology entry, 1 September)",
+        "url": "https://www.santiebeati.it/dettaglio/68500"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-01-giles (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-01-giles.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cloud",
+  "feast": {
+    "month": 9,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Cloud",
+    "pt-BR": "São Clodoaldo"
+  },
+  "patronOf": {
+    "en-US": "Prince and priest",
+    "pt-BR": "Príncipe e sacerdote"
+  },
+  "prayerExcerpt": {
+    "en-US": "The just shall live for evermore; they shall receive a kingdom of glory, and a crown of beauty at the hand of the Lord.",
+    "pt-BR": "Os justos viverão para sempre; receberão um reino de glória e uma coroa de beleza da mão do Senhor."
+  },
+  "lifeChapter": "sep-07-cloud",
+  "meta": {
+    "face": "A Frank of about thirty-five, CLEAN-SHAVEN, with a fair, fresh complexion and an INVERTED-TRIANGLE face with a CLEFT chin — a WIDE, HIGH, smooth forehead and broad temples narrowing along a lean, straight jaw to a NARROW chin marked by a clear CLEFT; a thin, straight nose with a narrow bridge; DEEP-SET, pale-blue eyes under straight, fair brows; flat, lean cheeks; a thin, WIDE mouth; ash-blond hair cut SHORT round a monastic tonsure, the long royal locks gone; the gaze level, clear and resolved. Not the pale, jaw-heavy young louis_toulouse, nor the lean, long-faced grandmother clotilda.",
+    "basis": "No likeness survives; a modern statue (Wikipedia's lead) gives him a chalice. The Martyrology and Wikipedia tell the royal Merovingian boy who escaped his uncles and renounced the throne to become a cleric, and Frankish long hair was the sign of royalty, so the card shows him cropped and tonsured with the crown set aside; the face is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-07-cloud.md Reflection, the Scripture it quotes (Wisdom 5:16–17) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Clodoald (lead: modern statue of Saint Cloud, St. Cloud Hospital, Minnesota)",
+        "url": "https://en.wikipedia.org/wiki/Clodoald"
+      },
+      {
+        "title": "Santi e Beati, San Clodoaldo (Roman Martyrology entry, 7 September)",
+        "url": "https://www.santiebeati.it/dettaglio/92412"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-07-cloud (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-07-cloud.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

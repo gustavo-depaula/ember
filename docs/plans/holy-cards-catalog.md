@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 206 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 216 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 575 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 585 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -459,16 +459,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 26 Aug · St. Zephyrinus, Pope and Martyr · *São Zeferino, Papa e Mártir* · Pictorial Lives — `zephyrinus`
 - [x] 30 Aug · St. Fiaker, Anchorite · *São Fiacro, Anacoreta* · Pictorial Lives — `fiaker`
 - [x] 31 Aug · St. Raymund Nonnatus · *São Raimundo Nonato* · Pictorial Lives — `raymund_nonnatus`
-- [ ] 1 Sep · St. Giles, Abbot · *Santo Egídio, Abade* · Pictorial Lives
-- [ ] 4 Sep · St. Rosalia, Virgin · *Santa Rosália, Virgem* · Pictorial Lives
-- [ ] 5 Sep · St. Laurence Justinian · *São Lourenço Justiniano* · Pictorial Lives
-- [ ] 6 Sep · St. Eleutherius, Abbot · *Santo Eleutério, Abade* · Pictorial Lives
-- [ ] 7 Sep · St. Cloud, Confessor · *São Clodoaldo, Confessor* · Pictorial Lives
-- [ ] 9 Sep · St. Omer, Bishop · *Santo Omer, Bispo* · Pictorial Lives
-- [ ] 10 Sep · St. Nicholas of Tolentino · *São Nicolau de Tolentino* · Pictorial Lives
-- [ ] 11 Sep · St. Paphnutius, Bishop · *São Pafnúcio, Bispo* · Pictorial Lives
-- [ ] 12 Sep · St. Guy of Anderlecht · *São Guido de Anderlecht* · Pictorial Lives
-- [ ] 13 Sep · St. Eulogius, Patriarch of Alexandria · *Santo Eulógio, Patriarca de Alexandria* · Pictorial Lives
+- [x] 1 Sep · St. Giles, Abbot · *Santo Egídio, Abade* · Pictorial Lives — `giles`
+- [x] 4 Sep · St. Rosalia, Virgin · *Santa Rosália, Virgem* · Pictorial Lives — `rosalia`
+- [x] 5 Sep · St. Laurence Justinian · *São Lourenço Justiniano* · Pictorial Lives — `laurence_justinian`
+- [x] 6 Sep · St. Eleutherius, Abbot · *Santo Eleutério, Abade* · Pictorial Lives — `eleutherius`
+- [x] 7 Sep · St. Cloud, Confessor · *São Clodoaldo, Confessor* · Pictorial Lives — `cloud`
+- [x] 9 Sep · St. Omer, Bishop · *Santo Omer, Bispo* · Pictorial Lives — `omer`
+- [x] 10 Sep · St. Nicholas of Tolentino · *São Nicolau de Tolentino* · Pictorial Lives — `nicholas_tolentino`
+- [x] 11 Sep · St. Paphnutius, Bishop · *São Pafnúcio, Bispo* · Pictorial Lives — `paphnutius`
+- [x] 12 Sep · St. Guy of Anderlecht · *São Guido de Anderlecht* · Pictorial Lives — `guy_anderlecht`
+- [x] 13 Sep · St. Eulogius, Patriarch of Alexandria · *Santo Eulógio, Patriarca de Alexandria* · Pictorial Lives — `eulogius_alexandria`
 - [x] 15 Sep · St. Catherine of Genoa · *Santa Catarina de Gênova* · Pictorial Lives — `catherine_genoa`
 - [x] 17 Sep · St. Lambert, Bishop, Martyr · *São Lamberto, Bispo, Mártir* · Pictorial Lives — `lambert`
 - [x] 18 Sep · St. Thomas of Villanova · *São Tomás de Vilanova* · Pictorial Lives — `thomas_villanova`

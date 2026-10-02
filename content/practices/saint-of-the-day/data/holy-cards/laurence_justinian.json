@@ -1,0 +1,45 @@
+{
+  "id": "laurence_justinian",
+  "feast": {
+    "month": 9,
+    "day": 5
+  },
+  "name": {
+    "en-US": "St. Laurence Justinian",
+    "pt-BR": "São Lourenço Justiniano"
+  },
+  "patronOf": {
+    "en-US": "First Patriarch of Venice",
+    "pt-BR": "Primeiro Patriarca de Veneza"
+  },
+  "prayerExcerpt": {
+    "en-US": "Ask St. Laurence to vouchsafe you such a sense of the sufficiency of God that you too may fly to Him and be at rest.",
+    "pt-BR": "Pedi a São Lourenço que se digne conceder-vos tal senso da suficiência de Deus que também vós voeis a Ele e nele encontreis repouso."
+  },
+  "lifeChapter": "sep-05-laurence-justinian",
+  "meta": {
+    "face": "A Venetian of about seventy-four, CLEAN-SHAVEN, with a sallow, parchment-pale complexion and a very LONG, GAUNT face after Gentile Bellini's portrait — a high forehead SLOPING back under the skullcap, a MASSIVE, HIGH-BRIDGED, strongly HOOKED nose, SMALL, keen, heavy-lidded dark eyes set DEEP in their sockets under a jutting brow ridge, a SHARP cheekbone over a deeply SUNKEN cheek, THIN, tightly closed lips, and a LONG, strongly JUTTING chin under a lean jaw; no hair showing; the gaze level and inward. Not the youngish, fine-nosed charles_borromeo in cardinal's red, nor the white-haired, bearded alphonsus_liguori.",
+    "basis": "Gentile Bellini's profile portrait (1465, Venice), made within ten years of his death, shows the gaunt old face with the great hooked nose, deep-set eye and jutting chin, the black skullcap and white habit. The card follows it closely.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-05-laurence-justinian.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Lawrence Justinian (lead: Gentile Bellini, Portrait of Lorenzo Giustiniani)",
+        "url": "https://en.wikipedia.org/wiki/Lorenzo_Giustiniani"
+      },
+      {
+        "title": "Santi e Beati, San Lorenzo Giustiniani (Roman Martyrology entry, 8 January)",
+        "url": "https://www.santiebeati.it/dettaglio/34500"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-05-laurence-justinian (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-05-laurence-justinian.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}

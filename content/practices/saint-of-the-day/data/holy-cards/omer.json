@@ -1,0 +1,45 @@
+{
+  "id": "omer",
+  "feast": {
+    "month": 9,
+    "day": 9
+  },
+  "name": {
+    "en-US": "St. Omer",
+    "pt-BR": "Santo Omer"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Thérouanne",
+    "pt-BR": "Bispo de Thérouanne"
+  },
+  "prayerExcerpt": {
+    "en-US": "In his old age St. Omer became blind, but that affliction did not lessen his pastoral concern for his flock.",
+    "pt-BR": "Em sua velhice, Santo Omer ficou cego, mas essa aflição não diminuiu o seu cuidado pastoral por seu rebanho."
+  },
+  "lifeChapter": "sep-09-omer",
+  "meta": {
+    "face": "A Frank of about seventy with a pale, weathered complexion and a HEXAGONAL face of FLAT PLANES — a BROAD, FLAT forehead crossed by deep level lines, ANGULAR cheekbones set WIDE, a LONG, fleshy nose ending in a ROUNDED, BULBOUS tip, a LONG upper lip, a BROAD, FLAT chin; the EYES gently CLOSED under heavy lids, for he is blind, with thick, straight white brows; a short, CLOSE-TRIMMED white beard following the jaw; white hair showing below the mitre; the face serene and listening. Not the round, soft Eleutherius of this batch, nor the white-bearded nicholas with his full curled beard.",
+    "basis": "No likeness survives; later statues show a bearded bishop. The book and Santi e Beati both say he went blind in old age (by 663, still signing acts in 664 and 667), so the card paints him with closed eyes, as a distinguishing mark; the structure is ours.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/sep-09-omer.md, second paragraph, fifth sentence; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Audomar (lead: statue at Estrée)",
+        "url": "https://en.wikipedia.org/wiki/Audomar"
+      },
+      {
+        "title": "Santi e Beati, Sant'Audomaro di Thérouanne (Roman Martyrology entry, 1 November)",
+        "url": "https://www.santiebeati.it/dettaglio/75950"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, sep-09-omer (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/sep-09-omer.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-35.md."
+      }
+    ]
+  }
+}
