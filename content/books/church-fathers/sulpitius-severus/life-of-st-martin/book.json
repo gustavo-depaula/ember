@@ -2,13 +2,16 @@
   "id": "sulpitius-severus-life-of-st-martin",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Life of St. Martin"
+    "en-US": "On the Life of St. Martin",
+    "pt-BR": "Sobre a Vida de São Martinho"
   },
   "author": {
-    "en-US": "Sulpitius Severus (c. 363-c. 420)"
+    "en-US": "Sulpitius Severus (c. 363-c. 420)",
+    "pt-BR": "Sulpício Severo (c. 363-c. 420)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Life of St. Martin"
+        "en-US": "On the Life of St. Martin",
+        "pt-BR": "Sobre a Vida de São Martinho"
       }
     }
   ]
