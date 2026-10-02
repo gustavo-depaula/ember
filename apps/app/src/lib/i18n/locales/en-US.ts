@@ -64,6 +64,7 @@ export default {
     planOfLife: 'Plan of Life',
     planOfLifeSub: 'Practices & progress',
     planForToday: 'The plan for today',
+    beyondPlan: 'Beyond the plan',
     planCount: '{{done}} of {{total}}',
     planStanding: {
       done: 'Complete',

@@ -5,10 +5,9 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import { Typography } from '@/components/typography'
 import { toneByIndex } from '@/features/explore/bgColor'
-
 import { CreateCollectionSheet } from './CreateCollectionSheet'
 import {
   useAddToCollection,
@@ -64,7 +63,7 @@ export function AddToCollectionSheet({
             {t('library.addToCollection')}
           </Typography>
 
-          <ScrollView showsVerticalScrollIndicator={false}>
+          <ScrollView showsVerticalScrollIndicator={false} {...pullDown(onClose)}>
             <YStack paddingHorizontal="$lg" gap="$xs">
               <Pressable
                 onPress={() => setCreating(true)}

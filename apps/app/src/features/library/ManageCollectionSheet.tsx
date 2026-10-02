@@ -7,10 +7,10 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 
 import { confirm } from '@/components/ConfirmSheet'
+import { pullDown } from '@/components/NativeSheet'
 import { Typography } from '@/components/typography'
 import { getEntry } from '@/content/contentIndex'
 import { localizeContent } from '@/lib/i18n'
-
 import { QuietInput, ToneRow } from './CreateCollectionSheet'
 import {
   useDeleteUserCollection,
@@ -100,7 +100,7 @@ export function ManageCollectionSheet({
           {t('collections.manage')}
         </Typography>
 
-        <ScrollView showsVerticalScrollIndicator={false}>
+        <ScrollView showsVerticalScrollIndicator={false} {...pullDown(onClose)}>
           <YStack paddingHorizontal="$lg" gap="$lg">
             <YStack gap="$xs">
               <Text fontFamily="$heading" fontSize="$2" color="$colorSecondary">

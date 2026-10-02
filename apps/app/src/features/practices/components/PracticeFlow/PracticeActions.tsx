@@ -16,6 +16,7 @@ import { Pressable, useWindowDimensions } from 'react-native'
 import { ScrollView, useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
+import { pullDown } from '@/components/NativeSheet'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { getAlternativeGroup } from '@/content/resolver'
 // Not the '@/features/library' barrel: it drags in LibraryFeed, whose imports
@@ -259,6 +260,7 @@ function PracticeSheet({ actions }: { actions: Actions }) {
         {/* Widened by the stamps' bleed, which a ScrollView would otherwise clip.
             It only takes the room the list needs, so the actions follow it. */}
         <ScrollView
+          {...pullDown(actions.closeSheet)}
           flexGrow={0}
           flexShrink={1}
           marginHorizontal={-8}

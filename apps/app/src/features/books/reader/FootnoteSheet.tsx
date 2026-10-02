@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import { stripHtml } from '@/lib/html'
 
 const sheetFraction = 0.5
@@ -40,7 +40,7 @@ export function FootnoteSheet({ content, onClose }: Props) {
         <Text fontFamily="$heading" fontSize="$3" color="$colorSecondary">
           {t('books.footnote', { defaultValue: 'Footnote' })}
         </Text>
-        <ScrollView flex={1} showsVerticalScrollIndicator={false}>
+        <ScrollView flex={1} showsVerticalScrollIndicator={false} {...pullDown(onClose)}>
           <Text fontFamily="$body" fontSize="$3" color="$color" lineHeight="$3">
             {text}
           </Text>

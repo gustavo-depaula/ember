@@ -48,9 +48,9 @@ export function MissedDaysSheet() {
 
   return (
     <NativeSheet sheet={sheet}>
-      {({ height, expanded, bodyShown }) => (
+      {({ scroll, height, bodyShown }) => (
         <YStack height={height} paddingTop="$xl">
-          <ScrollView showsVerticalScrollIndicator={false} scrollEnabled={expanded}>
+          <ScrollView showsVerticalScrollIndicator={false} {...scroll}>
             <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 48} gap="$xl">
               {bodyShown &&
                 ids.map((id) => {

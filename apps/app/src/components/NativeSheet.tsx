@@ -6,7 +6,13 @@ import {
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
 import { type ReactElement, useEffect } from 'react'
-import { Platform, StyleSheet, useWindowDimensions } from 'react-native'
+import {
+  type NativeScrollEvent,
+  type NativeSyntheticEvent,
+  Platform,
+  StyleSheet,
+  useWindowDimensions,
+} from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme } from 'tamagui'
 import { create, type StoreApi, type UseBoundStore } from 'zustand'
@@ -69,6 +75,21 @@ export function createSheet(): SheetController {
   }
 }
 
+// The native sheet takes a drag that starts with the list at its top, but once
+// a list has scrolled a drag is the list's to the end: the sheet can't see a
+// React Native list, so pulling it past its top only rubber-bands. This reads
+// that pull as the finger lifts — the props for any list inside a sheet, native
+// or `@expo/ui`'s BottomSheet.
+const pullDistance = 60
+
+export function pullDown(onPull: () => void) {
+  return {
+    onScrollEndDrag: (e: NativeSyntheticEvent<NativeScrollEvent>) => {
+      if (e.nativeEvent.contentOffset.y < -pullDistance) onPull()
+    },
+  }
+}
+
 function dismissed(sheet: SheetController) {
   const { reopen } = sheet.store.getState()
   sheet.store.setState({ phase: 'closed' })
@@ -77,8 +98,8 @@ function dismissed(sheet: SheetController) {
 
 /**
  * A native iOS sheet over the screen, opening to `fraction` of it. `children`
- * gets whether the sheet is at full height, the height its content should
- * fill, and whether the costly body may render yet.
+ * gets the props for its list, the height its content should fill, and whether
+ * the costly body may render yet.
  */
 export function NativeSheet({
   sheet,
@@ -87,7 +108,11 @@ export function NativeSheet({
 }: {
   sheet: SheetController
   fraction?: number
-  children: (state: { expanded: boolean; height: number; bodyShown: boolean }) => ReactElement
+  children: (state: {
+    scroll: { scrollEnabled: boolean } & ReturnType<typeof pullDown>
+    height: number
+    bodyShown: boolean
+  }) => ReactElement
 }) {
   const phase = sheet.store((s) => s.phase)
   const detent = sheet.store((s) => s.detent)
@@ -100,6 +125,13 @@ export function NativeSheet({
   // The native sheet hosts its content at a fixed size, so the content follows
   // the detent; the full one sits under the status bar.
   const contentHeight = expanded ? height - insets.top : height * fraction
+  // Part-way up, a drag moves the sheet rather than the list, so the list
+  // scrolls only at full height — and a pull at its top there brings the sheet
+  // back down part-way, where the native drag takes over.
+  const scroll = {
+    scrollEnabled: expanded,
+    ...pullDown(() => sheet.store.setState({ detent: 0 })),
+  }
 
   // Leaving the screen with the sheet mid-way would strand it "closing".
   useEffect(() => () => sheet.store.setState({ phase: 'closed', reopen: false }), [sheet])
@@ -127,7 +159,7 @@ export function NativeSheet({
             presentationBackground(theme.background.val),
           ]}
         >
-          <RNHostView>{children({ expanded, height: contentHeight, bodyShown })}</RNHostView>
+          <RNHostView>{children({ scroll, height: contentHeight, bodyShown })}</RNHostView>
         </Group>
       </BottomSheet>
     </Host>

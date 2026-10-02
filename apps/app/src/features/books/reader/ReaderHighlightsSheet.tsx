@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, useWindowDimensions, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import { formatSoftRelative } from '@/lib/softRelative'
 import type { TocLeaf } from './bookContent'
 import { HIGHLIGHT_COLORS } from './highlightColors'
@@ -62,6 +62,7 @@ export function ReaderHighlightsSheet({
           </YStack>
         ) : (
           <FlatList
+            {...pullDown(onClose)}
             data={highlights}
             keyExtractor={(h) => h.cursorId}
             contentContainerStyle={{ paddingBottom: insets.bottom + 24 }}

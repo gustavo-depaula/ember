@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, TextInput, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import type { TocNode } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import { useDebounced } from '@/lib/useDebounced'
@@ -172,6 +172,7 @@ export function ReaderTocSheet({
           />
         </XStack>
         <FlatList
+          {...pullDown(onClose)}
           data={flatItems}
           keyExtractor={(item) => item.node.id}
           getItemLayout={getItemLayout}

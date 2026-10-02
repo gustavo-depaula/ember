@@ -198,6 +198,22 @@ export function usePrayedOn(date: string): Set<string> {
   return useMemo(() => new Set(completions.map((c) => bareId(c.practice_id))), [completions])
 }
 
+/**
+ * Bare ids of the practices prayed on `date` beyond the slots due that day —
+ * one outside the plan, or a plan practice on a day it isn't due — in the order
+ * they were first prayed.
+ */
+export function usePrayedBeyond(date: string, dueSlots: SlotState[]): string[] {
+  const completions = useEventStore(useShallow((s) => completionsOn(date, s)))
+  return useMemo(() => {
+    const due = new Set(dueSlots.map((s) => s.id))
+    const beyond = completions
+      .filter((c) => !isBackfill(c) && !due.has(slotKeyOf(c)))
+      .sort((a, b) => a.completed_at - b.completed_at)
+    return [...new Set(beyond.map((c) => bareId(prayedIdOf(c))))]
+  }, [completions, dueSlots])
+}
+
 export function useCompletionRange(startDate: string, endDate: string): Completion[] {
   return useEventStore(
     useShallow((s) => {

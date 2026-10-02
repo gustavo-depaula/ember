@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { Typography } from '@/components/typography'
 import { bareId } from '@/content/contentIndex'
@@ -13,7 +13,6 @@ import { isTemplatePlaceholder, type PlanOfLifeTemplateManifest } from '@/conten
 import { findGroupMemberInSet, getManifest } from '@/content/resolver'
 import { useCreatePractice, useSlots, useUpdatePractice } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
-
 import { cadenceLabel } from './cadence'
 import { resolvePracticeIcon, resolvePracticeName } from './resolvePractice'
 
@@ -160,6 +159,7 @@ export function AdoptSheet({
         </YStack>
 
         <ScrollView
+          {...pullDown(onClose)}
           style={{ flex: 1 }}
           contentContainerStyle={{ paddingBottom: 8 }}
           showsVerticalScrollIndicator={false}

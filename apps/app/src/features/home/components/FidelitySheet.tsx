@@ -32,12 +32,12 @@ export function FidelitySheet({
 
   return (
     <NativeSheet sheet={sheet} fraction={0.94}>
-      {({ expanded, height, bodyShown }) => (
+      {({ scroll, height, bodyShown }) => (
         <YStack paddingTop="$xl" gap="$sm" height={height}>
           <Typography variant="screen-title" fontSize="$5" paddingHorizontal="$lg">
             {t('home.fidelity')}
           </Typography>
-          <ScrollView showsVerticalScrollIndicator={false} scrollEnabled={expanded}>
+          <ScrollView showsVerticalScrollIndicator={false} {...scroll}>
             <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 48} gap="$md">
               <Typography tone="muted" fontSize="$3">
                 {t('home.fidelityIntro', { count: weeks })}

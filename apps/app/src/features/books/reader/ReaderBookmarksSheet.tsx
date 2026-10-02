@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import { formatSoftRelative } from '@/lib/softRelative'
 import type { TocLeaf } from './bookContent'
 import type { Bookmark } from './bookmarks'
@@ -94,6 +94,7 @@ export function ReaderBookmarksSheet({
           </YStack>
         ) : (
           <FlatList
+            {...pullDown(onClose)}
             data={bookmarks}
             keyExtractor={(b) => b.cursorId}
             contentContainerStyle={{ paddingBottom: insets.bottom + 24 }}

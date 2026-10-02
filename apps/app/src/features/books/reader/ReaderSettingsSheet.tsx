@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { READER_FLOW_MODES } from '@/config/readerFlow'
 import { READER_PALETTE_IDS, type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
@@ -67,6 +67,7 @@ export function ReaderSettingsSheet({
           {t('books.themesAndSettings', { defaultValue: 'Themes & Settings' })}
         </Text>
         <ScrollView
+          {...pullDown(onClose)}
           flex={1}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{ paddingBottom: insets.bottom + 32 }}

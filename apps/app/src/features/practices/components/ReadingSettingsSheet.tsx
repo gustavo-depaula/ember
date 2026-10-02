@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { ScrollView, Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { LanguageSettings, ReadingConfig } from '@/components'
+import { pullDown } from '@/components/NativeSheet'
 
 type Tab = 'reading' | 'language'
 
@@ -45,6 +46,7 @@ export function ReadingSettingsSheet({ open, onClose }: { open: boolean; onClose
         />
 
         <ScrollView
+          {...pullDown(onClose)}
           flex={1}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{ paddingTop: 16, paddingBottom: insets.bottom + 48 }}

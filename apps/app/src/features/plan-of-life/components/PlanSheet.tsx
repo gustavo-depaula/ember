@@ -42,14 +42,14 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
 
   return (
     <NativeSheet sheet={sheet}>
-      {({ expanded, height, bodyShown }) => (
+      {({ scroll, height, bodyShown }) => (
         <YStack paddingTop="$xl" gap="$sm" height={height}>
           <Typography variant="screen-title" fontSize="$5" paddingHorizontal="$lg">
             {t('plan.title')}
           </Typography>
           {/* As on Today's sheet, the list scrolls only once the sheet is at
               the top: the native sheet can't hand an RN scroll to itself. */}
-          <ScrollView showsVerticalScrollIndicator={false} scrollEnabled={expanded}>
+          <ScrollView showsVerticalScrollIndicator={false} {...scroll}>
             <YStack paddingHorizontal="$lg" paddingBottom={insets.bottom + 48} gap="$xl">
               {bodyShown && (
                 <>

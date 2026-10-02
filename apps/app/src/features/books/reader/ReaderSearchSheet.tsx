@@ -6,7 +6,7 @@ import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, TextInput, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
-
+import { pullDown } from '@/components/NativeSheet'
 import type { BookEntry } from '@/content/manifestTypes'
 import { useDebounced } from '@/lib/useDebounced'
 import type { BookSession, TocLeaf } from './bookContent'
@@ -155,6 +155,7 @@ export function ReaderSearchSheet({
         ) : null}
 
         <FlatList
+          {...pullDown(onClose)}
           data={results}
           keyExtractor={(r) => `${r.chapterIndex}:${r.chapterId}`}
           contentContainerStyle={{ paddingBottom: insets.bottom + 24 }}
