@@ -13,12 +13,13 @@ import { localizeContent } from '@/lib/i18n'
 import { useObligations } from '@/lib/liturgical'
 import { useMostPrayed } from '../useMostPrayed'
 import type { TodayPlan } from '../useTodayPlan'
+import { ObligationCard } from './ObligationCard'
 import { PlanOfLifeCard, planCardSize } from './PlanOfLifeCard'
 import { openTodayPlan } from './TodayPlanSheet'
 
 /**
- * The row under Today's featured carousel: the day's plan of life, then the
- * Rosary, the Bible and Mass — Mass ahead of the other two on a Sunday or a
+ * The row under Today's featured carousel: the day's plan of life and any fast
+ * or abstinence it falls on, then the Rosary, the Bible and Mass — Mass ahead of the other two on a Sunday or a
  * holy day of obligation — and the five practices prayed most in the last 15
  * days that today's plan doesn't already hold.
  */
@@ -51,6 +52,7 @@ export function TodayRow({ plan }: { plan: TodayPlan }) {
   return (
     <CardRow>
       <PlanOfLifeCard plan={plan} onPress={openTodayPlan} />
+      <ObligationCard date={plan.now} />
       {massFirst && massTile}
       {rosary && <PracticeTile id={rosaryId} entry={rosary} />}
       <ArtCoverCard

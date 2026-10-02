@@ -4,7 +4,6 @@ import { View, YStack } from 'tamagui'
 import {
   AnimatedPressable,
   FadeInView,
-  ObligationBadges,
   PageBreakOrnament,
   ScreenLayout,
   Typography,
@@ -23,7 +22,6 @@ import {
 import { ContinueRow } from '@/features/library'
 import { MissedDaysSheet } from '@/features/plan-of-life'
 import { usePlanFidelity } from '@/features/plan-of-life/useRuleRecord'
-import { useObligations } from '@/lib/liturgical'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const fidelityWeeks = 10
@@ -36,7 +34,6 @@ export default function HomeScreen() {
   const prayNow = usePrayNow({ slots: todaySlots, completedIds, onPray: onPressItem })
 
   const fidelity = usePlanFidelity(fidelityWeeks)
-  const obligations = useObligations(now)
 
   const totalSlots = todaySlots.length
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
@@ -63,12 +60,6 @@ export default function HomeScreen() {
           <FadeInView index={1}>
             <TodayRow plan={plan} />
           </FadeInView>
-
-          {obligations && (obligations.fast || obligations.abstinence !== 'none') && (
-            <FadeInView index={1}>
-              <ObligationBadges fast={obligations.fast} abstinence={obligations.abstinence} />
-            </FadeInView>
-          )}
 
           <ContinueRow />
 

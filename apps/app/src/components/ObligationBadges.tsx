@@ -1,3 +1,4 @@
+import type { TFunction } from 'i18next'
 import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Modal, Pressable, StyleSheet } from 'react-native'
@@ -16,8 +17,6 @@ import { AnimatedPressable } from './AnimatedPressable'
 import { ManuscriptFrame } from './ManuscriptFrame'
 import { Typography } from './typography'
 
-type Badge = { key: string; label: string; note: string; explanation: string }
-
 const stagger = 120
 
 function ModalFadeIn({ index = 0, children }: { index?: number; children: React.ReactNode }) {
@@ -35,16 +34,14 @@ function ModalFadeIn({ index = 0, children }: { index?: number; children: React.
   return <Animated.View style={style}>{children}</Animated.View>
 }
 
-export function ObligationBadges({
-  fast,
-  abstinence,
-}: {
-  fast: boolean
-  abstinence: AbstinenceLevel
-}) {
-  const { t } = useTranslation()
-  const [modalVisible, setModalVisible] = useState(false)
-  const badges: Badge[] = []
+export type ObligationBadge = { key: string; label: string; note: string; explanation: string }
+
+/** The day's fast and abstinence, one badge each, in the order they bind. */
+export function obligationBadges(
+  t: TFunction,
+  { fast, abstinence }: { fast: boolean; abstinence: AbstinenceLevel },
+): ObligationBadge[] {
+  const badges: ObligationBadge[] = []
 
   if (fast) {
     badges.push({
@@ -77,6 +74,20 @@ export function ObligationBadges({
       explanation: t('obligations.penanceExplanation'),
     })
   }
+
+  return badges
+}
+
+export function ObligationBadges({
+  fast,
+  abstinence,
+}: {
+  fast: boolean
+  abstinence: AbstinenceLevel
+}) {
+  const { t } = useTranslation()
+  const [modalVisible, setModalVisible] = useState(false)
+  const badges = obligationBadges(t, { fast, abstinence })
 
   if (badges.length === 0) return null
 
@@ -128,13 +139,14 @@ export function ObligationBadges({
   )
 }
 
-function ObligationModal({
+/** The obligations explained, over a dimmed screen; any tap outside closes it. */
+export function ObligationModal({
   visible,
   badges,
   onClose,
 }: {
   visible: boolean
-  badges: Badge[]
+  badges: ObligationBadge[]
   onClose: () => void
 }) {
   const { t } = useTranslation()

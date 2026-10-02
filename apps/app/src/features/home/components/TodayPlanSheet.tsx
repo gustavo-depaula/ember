@@ -7,6 +7,7 @@ import { Typography } from '@/components'
 import { createSheet, NativeSheet } from '@/components/NativeSheet'
 import type { TodayPlan } from '../useTodayPlan'
 import { AlsoPrayed } from './AlsoPrayed'
+import { ObligationNotice } from './ObligationCard'
 import { TodayChecklist } from './TodayChecklist'
 
 const sheet = createSheet()
@@ -25,6 +26,9 @@ export function TodayPlanSheet({ plan }: { plan: TodayPlan }) {
           <Typography variant="screen-title" fontSize="$5" paddingHorizontal="$lg">
             {t('home.planOfLife')}
           </Typography>
+          <YStack paddingHorizontal="$lg">
+            <ObligationNotice date={plan.now} />
+          </YStack>
           {/* Part-way up, a drag moves the sheet rather than the list: the
               native sheet can't hand an RN scroll over to itself, so the list
               only scrolls once the sheet is at the top. */}
