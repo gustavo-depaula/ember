@@ -2,13 +2,16 @@
   "id": "jerome-perpetual-virginity-of-blessed-mary",
   "cover": "quarter",
   "name": {
-    "en-US": "The Perpetual Virginity of Blessed Mary"
+    "en-US": "The Perpetual Virginity of Blessed Mary",
+    "pt-BR": "A Virgindade Perpétua da Bem-aventurada Maria"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Perpetual Virginity of Blessed Mary"
+        "en-US": "The Perpetual Virginity of Blessed Mary",
+        "pt-BR": "A Virgindade Perpétua da Bem-aventurada Maria"
       }
     }
   ]
