@@ -43,7 +43,16 @@ export function PracticeHeader({
       </Typography>
       {variant}
       {caption ? (
-        <Typography variant="caption" fontSize={18} lineHeight={24} paddingTop="$xs">
+        <Typography
+          variant="caption"
+          fontSize={18}
+          lineHeight={24}
+          paddingTop="$xs"
+          // Full width, not shrink-wrapped: Android measures a centred italic
+          // line a hair too narrow and drops its last word.
+          alignSelf="stretch"
+          textAlign="center"
+        >
           {caption}
         </Typography>
       ) : null}
