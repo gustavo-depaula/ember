@@ -1,0 +1,45 @@
+{
+  "id": "clotilda",
+  "feast": {
+    "month": 6,
+    "day": 3
+  },
+  "name": {
+    "en-US": "St. Clotilda",
+    "pt-BR": "Santa Clotilde"
+  },
+  "patronOf": {
+    "en-US": "Queen of the Franks",
+    "pt-BR": "Rainha dos francos"
+  },
+  "prayerExcerpt": {
+    "en-US": "St. Peter defines the mission of the Christian woman; to win the heart of those who believe not the word.",
+    "pt-BR": "São Pedro define a missão da mulher cristã: ganhar o coração daqueles que não creem na palavra."
+  },
+  "lifeChapter": "jun-03-clotilda",
+  "meta": {
+    "face": "A Burgundian queen of about sixty-five with a fair, pale complexion softened by age and a LEAN, LONG face — HIGH, ROUNDED cheekbones with SOFT HOLLOWS beneath them, a smooth, broad forehead, a long, straight, fine nose, LARGE grey eyes whose outer corners DROOP gently, as in sorrow, under faint, arched fair-grey brows, a SMALL, firm, closed mouth, a softly rounded chin with a first slackness beneath it; grey-blonde hair hidden under the veil; the gaze lowered in prayer.",
+    "basis": "No likeness survives. The book tells the Burgundian princess, niece of Gondebald, brought up a Catholic among Arians, wife of Clovis, whose conversion in 496 was 'the fruit of our Saint's prayers', the church of Sts. Peter and Paul in Paris, and her widowhood in prayer and alms till 545; its engraving shows her crowned, standing by the seated king. Wikipedia: c. 474–545, a widow thirty-four years, who spent the rest of her life near the tomb of St. Martin at Tours and died there; art shows her 'as a praying queen and as a nun'. Its lead image, Delpech's lithograph, gives her a crown over a veil. The card shows the praying widow-queen; the lean face with the drooping eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-03-clotilda.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Clotilde (lead image: Delpech lithograph)",
+        "url": "https://en.wikipedia.org/wiki/Clotilde"
+      },
+      {
+        "title": "Wikipedia, Clovis I",
+        "url": "https://en.wikipedia.org/wiki/Clovis_I"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-03-clotilda (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-03-clotilda.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

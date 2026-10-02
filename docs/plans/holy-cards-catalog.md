@@ -13,7 +13,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Saints with a card but no universal feast | 3 | 3 |
 | Saints of the novenas, not on the universal calendar | 3 | 3 |
 | Saints canonized since 2022 (and Bl. Fulton Sheen) | 28 | 28 |
-| Saints of the Pictorial Lives (Saint of the Day) | 242 | 186 |
+| Saints of the Pictorial Lives (Saint of the Day) | 242 | 196 |
 | Feasts of the Lord and the Church | 25 | 25 |
 | Our Lady | 21 | 21 |
 | Angels | 4 | 4 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 29 | 29 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 611 cards, 555 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 611 cards, 565 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -397,16 +397,16 @@ The saints of the Saint of the Day practice (`content/practices/saint-of-the-day
 - [x] 22 May · St. Yvo, Confessor · *Santo Ivo, Confessor* · Pictorial Lives — `yvo`
 - [x] 23 May · St. Julia, Virgin, Martyr · *Santa Júlia, Virgem, Mártir* · Pictorial Lives — `julia_corsica`
 - [x] 24 May · Sts. Donatian and Rogatian, Martyrs · *São Donaciano e São Rogaciano, Mártires* · Pictorial Lives — `donatian_rogatian`
-- [ ] 28 May · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives
-- [ ] 29 May · St. Cyril, Martyr · *São Cirilo, Mártir* · Pictorial Lives
-- [ ] 30 May · St. Felix I., Pope and Martyr · *São Félix I, Papa e Mártir* · Pictorial Lives
-- [ ] 31 May · St. Petronilla, Virgin · *Santa Petronilha, Virgem* · Pictorial Lives
-- [ ] 1 Jun · St. Pamphilus, Martyr · *São Pânfilo, Mártir* · Pictorial Lives
-- [ ] 2 Jun · Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyons · *São Potino, Bispo, Sanctus, Atalo, Blandina e os demais Mártires de Lião* · Pictorial Lives
-- [ ] 3 Jun · St. Clotilda, Queen · *Santa Clotilde, Rainha* · Pictorial Lives
-- [ ] 4 Jun · St. Francis Caracciolo · *São Francisco Caracciolo* · Pictorial Lives
-- [ ] 7 Jun · St. Robert of Newminster · *São Roberto de Newminster* · Pictorial Lives
-- [ ] 7 Jun · St. Claude, Archbishop · *São Cláudio, Arcebispo* · Pictorial Lives
+- [x] 28 May · St. Germanus, Bishop · *São Germano, Bispo* · Pictorial Lives — `germanus_paris`
+- [x] 29 May · St. Cyril, Martyr · *São Cirilo, Mártir* · Pictorial Lives — `cyril_caesarea`
+- [x] 30 May · St. Felix I., Pope and Martyr · *São Félix I, Papa e Mártir* · Pictorial Lives — `felix_i`
+- [x] 31 May · St. Petronilla, Virgin · *Santa Petronilha, Virgem* · Pictorial Lives — `petronilla`
+- [x] 1 Jun · St. Pamphilus, Martyr · *São Pânfilo, Mártir* · Pictorial Lives — `pamphilus`
+- [x] 2 Jun · Sts. Pothinus, Bishop, Sanctus, Attalus, Blandina, and the other Martyrs of Lyons · *São Potino, Bispo, Sanctus, Atalo, Blandina e os demais Mártires de Lião* · Pictorial Lives — `pothinus_blandina`
+- [x] 3 Jun · St. Clotilda, Queen · *Santa Clotilde, Rainha* · Pictorial Lives — `clotilda`
+- [x] 4 Jun · St. Francis Caracciolo · *São Francisco Caracciolo* · Pictorial Lives — `francis_caracciolo`
+- [x] 7 Jun · St. Robert of Newminster · *São Roberto de Newminster* · Pictorial Lives — `robert_newminster`
+- [x] 7 Jun · St. Claude, Archbishop · *São Cláudio, Arcebispo* · Pictorial Lives — `claude_besancon`
 - [x] 8 Jun · St. Medard, Bishop · *São Medardo, Bispo* · Pictorial Lives — `medard`
 - [x] 9 Jun · Sts. Primus and Felicianus, Martyrs · *São Primo e São Feliciano, Mártires* · Pictorial Lives — `primus_felicianus`
 - [x] 9 Jun · St. Columba, or Columkille, Abbot · *São Columba, ou Columkille, Abade* · Pictorial Lives — `columba`

@@ -1,0 +1,45 @@
+{
+  "id": "felix_i",
+  "feast": {
+    "month": 5,
+    "day": 30
+  },
+  "name": {
+    "en-US": "St. Felix I",
+    "pt-BR": "São Félix I"
+  },
+  "patronOf": {
+    "en-US": "Pope",
+    "pt-BR": "Papa"
+  },
+  "prayerExcerpt": {
+    "en-US": "The example of Our Saviour and of all His saints ought to encourage us under all trials to suffer with patience and even with joy.",
+    "pt-BR": "O exemplo de Nosso Salvador e de todos os Seus santos deve encorajar-nos, em todas as provações, a sofrer com paciência e até com alegria."
+  },
+  "lifeChapter": "may-30-felix-i",
+  "meta": {
+    "face": "A Roman of about sixty with a warm olive complexion and a BROAD, SHORT face whose width is in the FLARING, fleshy cheekbones — a LOW forehead crossed by one DEEP horizontal crease, thick, tight, grizzled CURLS growing low on it, LARGE, slightly PROTRUDING dark eyes under HIGH, thick, ARCHED brows that give a searching look, a SHORT, WIDE, straight nose with round nostrils, FULL, curving lips, a full, CURLY, rounded grey-black beard of medium length; the gaze direct and earnest.",
+    "basis": "No likeness survives. The book tells a Roman by birth who succeeded Dionysius in 269, recourse to Aurelian against Paul of Samosata, and his martyrdom in 274; Wikipedia says he was buried in the catacomb of Callixtus and that the martyrdom is a later confusion with a namesake of the Via Aurelia (hence the patron line 'Pope'). The Italian Wikipedia's lead image, a papal portrait medallion of the kind in St. Paul's Outside the Walls, shows him with thick curly hair and a full curly beard; the card keeps the curls and beard, and the broad, short face with the prominent eyes is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-30-felix-i.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pope Felix I (burial at Callixtus; martyrdom a confusion of names)",
+        "url": "https://en.wikipedia.org/wiki/Pope_Felix_I"
+      },
+      {
+        "title": "Wikipedia (it), Papa Felice I (lead image: papal portrait medallion)",
+        "url": "https://it.wikipedia.org/wiki/Papa_Felice_I"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-30-felix-i (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-30-felix-i.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

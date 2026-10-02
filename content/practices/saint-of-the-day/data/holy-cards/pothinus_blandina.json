@@ -1,0 +1,49 @@
+{
+  "id": "pothinus_blandina",
+  "feast": {
+    "month": 6,
+    "day": 2
+  },
+  "name": {
+    "en-US": "Sts. Pothinus, Blandina and Companions",
+    "pt-BR": "São Potino, Santa Blandina e Companheiros"
+  },
+  "patronOf": {
+    "en-US": "Martyrs of Lyons",
+    "pt-BR": "Mártires de Lião"
+  },
+  "prayerExcerpt": {
+    "en-US": "In early times the Christians were called the children of joy. Let us seek the joy of the Holy Spirit to sweeten suffering, to temper earthly delight, till we enter into the joy of Our Lord.",
+    "pt-BR": "Nos tempos primitivos, os cristãos eram chamados filhos da alegria. Busquemos a alegria do Espírito Santo para adoçar o sofrimento, para temperar o deleite terreno, até que entremos na alegria de Nosso Senhor."
+  },
+  "lifeChapter": "jun-02-sts-pothinus",
+  "meta": {
+    "face": "Four clearly different people. POTHINUS: a Greek of Asia of about ninety, frail, with a pale, papery complexion and a face shaped like an INVERTED TRIANGLE — a very WIDE, BALD, domed head and broad temples narrowing sharply to a SMALL, pointed chin; a LARGE, BONY, BEAKED nose; small eyes sunk deep under overhanging white brows; hollow temples and cheeks; a THIN, WISPY, silky white beard falling to the breast; the gaze gentle and far-off. BLANDINA: a young woman of about twenty, small and slight, with a fair, lightly freckled complexion and a ROUND-CHEEKED, PLAIN, open face — a LOW, broad forehead, a SHORT, SNUB nose, small, dark, DEEP-SET, shining eyes, a WIDE mouth in a small, glad smile, a full, ROUND chin; brown hair under the head-cloth; the gaze lifted upward. SANCTUS: a man of about thirty-five, CLEAN-SHAVEN, with a HEAVY, SQUARE face — a broad, FLATTENED nose, small, level grey eyes, a wide jaw and a deep CLEFT in the chin; close-cropped black hair; the gaze steady. ATTALUS: a man of about fifty with a TALL, NARROW, aristocratic face — HIGH, sharp cheekbones, a long AQUILINE nose, thin lips, a close-trimmed grey beard and short grey hair; the gaze grave and proud.",
+    "basis": "No likenesses survive. The book, after the letter of the churches of Lyons and Vienne in Eusebius, tells the persecution of 177 under Pothinus, Blandina the slave whom her mistress feared too weak and who wearied her torturers, the deacon Sanctus of Vienne, and the confessors in prison; its engraving shows the old bishop dying in chains in a cell. Wikipedia: Pothinus about ninety, probably of Smyrna, a disciple of Polycarp, died of his ill-treatment in prison; Attalus a Roman citizen of Pergamum; Blandina a slave. The faces are our choice, the bishop's great age from the letter.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-02-sts-pothinus.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Persecution in Lyon (lead image: Amphitheatre of the Three Gauls)",
+        "url": "https://en.wikipedia.org/wiki/Martyrs_of_Lyon"
+      },
+      {
+        "title": "Wikipedia, Pothinus of Lyon (lead image: stained glass of St. Pothin)",
+        "url": "https://en.wikipedia.org/wiki/Pothinus_of_Lyon"
+      },
+      {
+        "title": "Wikipedia, Blandina",
+        "url": "https://en.wikipedia.org/wiki/Blandina"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-02-sts-pothinus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-02-sts-pothinus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

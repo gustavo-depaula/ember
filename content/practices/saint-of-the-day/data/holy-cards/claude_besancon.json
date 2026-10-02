@@ -1,0 +1,49 @@
+{
+  "id": "claude_besancon",
+  "feast": {
+    "month": 6,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Claude",
+    "pt-BR": "São Cláudio"
+  },
+  "patronOf": {
+    "en-US": "Archbishop and abbot",
+    "pt-BR": "Arcebispo e abade"
+  },
+  "prayerExcerpt": {
+    "en-US": "Fearing the obligations of that charge, he fled and hid himself, but was discovered and compelled to take it upon him.",
+    "pt-BR": "Temendo as obrigações daquele encargo, fugiu e escondeu-se, mas foi descoberto e compelido a tomá-lo sobre si."
+  },
+  "lifeChapter": "jun-07-claude",
+  "meta": {
+    "face": "A Burgundian of great age, about ninety, CLEAN-SHAVEN as in the old glass, with a fair, weathered complexion and a SHORT, WIDE, rounded-square face — a broad, low, lined forehead running into a BALD crown with a thin white fringe, a FLAT, SNUB nose, small, bright, deep-set blue eyes in a web of fine wrinkles, sparse white brows, broad, flat cheeks, a WIDE, thin-lipped mouth drawn slightly inward with age, a soft, loose fold beneath the chin; the gaze peaceful and kindly, a little downward.",
+    "basis": "No likeness survives. The book tells a native of Salins, the model of the clergy of Besançon, chosen archbishop about 683 after hiding to escape it, resigning after seven years to take the habit at St. Oyend (Condat) in 690, compelled to be its abbot, and his death in 703; its engraving shows a haloed old man with a staff at a rocky hermitage. Wikipedia: c. 607–696/699, abbot of Condat (the later town of Saint-Claude) and bishop of Besançon, the chronology of his Life disputed. Its images, a stained-glass window and a painted rondel with the mitre at his feet, show him clean-shaven; the short, wide, snub-nosed face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-07-claude.md, first paragraph, on his election to Besançon; the chapter has no Reflection, so the card has none (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Claudius of Besançon (lead image: stained glass, Saint-Nicolas-de-Port)",
+        "url": "https://en.wikipedia.org/wiki/Claudius_of_Besançon"
+      },
+      {
+        "title": "Wikipedia (fr), Claude de Besançon (lead image: rondel of St. Claude, mitre at his feet)",
+        "url": "https://fr.wikipedia.org/wiki/Claude_de_Besançon"
+      },
+      {
+        "title": "Wikipedia, Saint-Claude, Jura",
+        "url": "https://en.wikipedia.org/wiki/Saint-Claude,_Jura"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-07-claude (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-07-claude.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

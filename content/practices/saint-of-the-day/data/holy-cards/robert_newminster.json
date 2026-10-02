@@ -1,0 +1,49 @@
+{
+  "id": "robert_newminster",
+  "feast": {
+    "month": 6,
+    "day": 7
+  },
+  "name": {
+    "en-US": "St. Robert of Newminster",
+    "pt-BR": "São Roberto de Newminster"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Newminster",
+    "pt-BR": "Abade de Newminster"
+  },
+  "prayerExcerpt": {
+    "en-US": "Reason and authority prove that virtue ought to be practised. But facts alone prove that it is practised; and this is why examples have more power to move our souls, and why our individual actions are of such fearful importance for others as well as for ourselves.",
+    "pt-BR": "A razão e a autoridade provam que a virtude deve ser praticada. Mas só os fatos provam que ela é praticada; e é por isso que os exemplos têm maior poder para mover as nossas almas, e por que as nossas ações individuais são de tão temível importância para os outros, tanto quanto para nós mesmos."
+  },
+  "lifeChapter": "jun-07-robert-of-newminster",
+  "meta": {
+    "face": "A Yorkshireman of about fifty-five, CLEAN-SHAVEN, with a fair, weathered, lightly ruddy complexion and a face that TAPERS from a WIDE forehead and broad temples under the tonsure to a SMALL, ROUND, DIMPLED chin — a SHORT, straight nose with a small BUMP on the bridge, WIDE-SPACED, clear grey eyes with deep crow's-feet, level, sandy-grey brows, flat cheeks, a WIDE, thin-lipped, gentle mouth with a LONG upper lip; a narrow ring of sandy-grey hair around the tonsure; the gaze mild and merciful, toward us.",
+    "basis": "No likeness survives; Wikipedia's lead image, a Baroque pulpit figure at Baumgartenberg, is not clearly of him and was not used. The book tells a monk of Whitby who joined the monks driven from St. Mary's at York, the hut by the Skell that became Fountains, Newminster founded in 1137 with Robert as abbot, the honeyed bread he sent to the poor at the gate, and his death in 1159; the chapter has no engraving. Wikipedia: born at Gargrave, 'devout, prayerful, and gentle', 'merciful in his judgment of others'; he is shown as an abbot. The tapering face with the dimpled chin is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-07-robert-of-newminster.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Robert of Newminster",
+        "url": "https://en.wikipedia.org/wiki/Robert_of_Newminster"
+      },
+      {
+        "title": "Wikipedia, Newminster Abbey",
+        "url": "https://en.wikipedia.org/wiki/Newminster_Abbey"
+      },
+      {
+        "title": "Wikipedia, Fountains Abbey",
+        "url": "https://en.wikipedia.org/wiki/Fountains_Abbey"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-07-robert-of-newminster (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-07-robert-of-newminster.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

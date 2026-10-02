@@ -1,0 +1,49 @@
+{
+  "id": "pamphilus",
+  "feast": {
+    "month": 6,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Pamphilus",
+    "pt-BR": "São Pânfilo"
+  },
+  "patronOf": {
+    "en-US": "Priest and martyr",
+    "pt-BR": "Sacerdote e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "A cloud of witnesses, a noble army of martyrs, teach us by their constancy to suffer wrong with patience, and strenuously to resist evil.",
+    "pt-BR": "Uma nuvem de testemunhas, um nobre exército de mártires, ensinam-nos por sua constância a sofrer a injustiça com paciência e a resistir vigorosamente ao mal."
+  },
+  "lifeChapter": "jun-01-pamphilus",
+  "meta": {
+    "face": "A Phoenician of Berytus of about fifty with a warm, olive-brown Levantine complexion and a LONG face, NARROW in the jaw, whose chin thrusts FORWARD under the beard, beneath a TALL, BULGING scholar's forehead lined with three horizontal creases — a LARGE, HIGH-BRIDGED, arched nose; small, CLOSE-SET, keen dark eyes NARROWED in a scholar's short-sighted squint, crow's-feet at their corners; DEEPLY HOLLOW cheeks; thin, firm lips; short black hair greying and RECEDING at the temples; a SMALL, close-trimmed black beard and moustache, as the Painter's Manual has it; the gaze lifted from the page toward us.",
+    "basis": "The Painter's Manual (Hermeneia) gives 'Pamphilus, a young man with a small beard'; Wikipedia's lead image, a Menologion miniature, shows the martyrdom of him and his companions. The book and Wikipedia tell the same life: a rich and honourable family of Berytus, a magistrate who became the pupil of Pierius at Alexandria, the great library he gave the church of Caesarea, the Bible he copied with his own hand, torture under Urbanus in 307, two years in prison and death under Firmilian (Wikipedia: beheaded, February 309, a priest). The small beard follows the Hermeneia; the age follows his career, and the bulging forehead, forward chin and short-sighted eyes are our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-01-pamphilus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Pamphilus of Caesarea (lead image: Menologion miniature)",
+        "url": "https://en.wikipedia.org/wiki/Pamphilus_of_Caesarea"
+      },
+      {
+        "title": "Wikipedia, Caesarea Maritima",
+        "url": "https://en.wikipedia.org/wiki/Caesarea_Maritima"
+      },
+      {
+        "title": "Dionysius of Fourna, The Painter's Manual (Hermeneia), Pamphilus",
+        "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-01-pamphilus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-01-pamphilus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

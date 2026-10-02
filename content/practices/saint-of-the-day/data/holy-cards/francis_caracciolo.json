@@ -1,0 +1,45 @@
+{
+  "id": "francis_caracciolo",
+  "feast": {
+    "month": 6,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Francis Caracciolo",
+    "pt-BR": "São Francisco Caracciolo"
+  },
+  "patronOf": {
+    "en-US": "Preacher of Divine Love",
+    "pt-BR": "Pregador do Divino Amor"
+  },
+  "prayerExcerpt": {
+    "en-US": "It is for men, and not for angels, that our blessed Lord resides upon the altar.",
+    "pt-BR": "É pelos homens, e não pelos anjos, que Nosso bendito Senhor reside sobre o altar."
+  },
+  "lifeChapter": "jun-04-francis-caracciolo",
+  "meta": {
+    "face": "A Neapolitan noble of about forty-four with a warm, light-olive complexion and a LONG, SOFT-contoured face — a HIGH forehead made higher by a RECEDING hairline, HEAVY, PUFFY upper eyelids over large, dark eyes lifted toward the Host, a LONG nose with a ROUNDED, FLESHY tip, full, softly rounded cheeks, a FULL mouth slightly parted, a soft, rounded jaw; short, dark-brown hair; a thin dark moustache and a SHORT, dark, rounded beard close along the jaw; the gaze upturned, rapt.",
+    "basis": "The Italian Wikipedia's lead image, an old engraving, shows him adoring the monstrance with his hand on his heart: a long face with a receding hairline, heavy-lidded upturned eyes, a long nose, a moustache and short beard; the English article's image shows him in a black cassock sweeping a sickroom. The book tells the Caracciolo of the kingdom of Naples cured of leprosy, the Order of Clerks Regular with its perpetual adoration and its fourth vow against dignities, the 'Preacher of Divine Love' who prayed before the tabernacle, and his death in 1608 at forty-four; Wikipedia gives 1563–1608, canonized 1807, with the monstrance and episcopal insignia at his feet as his attributes. The face follows the engraving.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/jun-04-francis-caracciolo.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Francis Caracciolo (lead image: engraving, sweeping)",
+        "url": "https://en.wikipedia.org/wiki/Francesco_Caracciolo_(saint)"
+      },
+      {
+        "title": "Wikipedia (it), Francesco Caracciolo (santo) (lead image: engraving before the monstrance; iconography)",
+        "url": "https://it.wikipedia.org/wiki/Francesco_Caracciolo_(santo)"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, jun-04-francis-caracciolo (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/jun-04-francis-caracciolo.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

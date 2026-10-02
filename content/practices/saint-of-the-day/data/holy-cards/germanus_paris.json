@@ -1,0 +1,45 @@
+{
+  "id": "germanus_paris",
+  "feast": {
+    "month": 5,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. Germanus",
+    "pt-BR": "São Germano"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Paris",
+    "pt-BR": "Bispo de Paris"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"In the churches bless ye God the Lord. From Thy temple kings shall offer presents to Thee.\"",
+    "pt-BR": "\"Nas assembleias bendizei a Deus, o Senhor. Do Teu templo os reis Te oferecerão presentes.\""
+  },
+  "lifeChapter": "may-28-germanus",
+  "meta": {
+    "face": "A Gallo-Roman of Autun of about eighty, worn thin by penance, CLEAN-SHAVEN as in the old engraving, with a pale, finely wrinkled complexion and a LONG face whose LOWER JAW is HEAVY and PROTRUDES a little beyond the upper, the lower lip fuller and set forward (a slight underbite) — a flat, SLOPING forehead running back into a BALD crown with a thin fringe of fine white hair, a LONG, THIN, straight nose, SMALL, deep-set, pale-blue eyes under DROOPING white brows, HOLLOW cheeks with long smile lines, a long, strong, rounded chin; the gaze lowered kindly toward the poor man's hands.",
+    "basis": "The book tells a native of Autun, abbot of St. Symphorian's, made Bishop of Paris against his tears, whose house 'was perpetually crowded with the poor', who converted King Childebert and died in 576 at eighty; its engraving shows a bald, bearded old bishop at table with the poor. Wikipedia (c. 496–576) gives his early biography's title 'Father of the Poor' and his church of St. Vincent, later Saint-Germain-des-Prés; its lead image, an old engraving, shows a clean-shaven, mitred bishop with a book. The card keeps the engraving's clean-shaven age; the long face with the forward jaw is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-28-germanus.md Reflection, the whole of it, the book's verses of the Psalms (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Germain of Paris (lead image: engraving of St. Germanus)",
+        "url": "https://en.wikipedia.org/wiki/Germain_of_Paris"
+      },
+      {
+        "title": "Wikipedia, Abbey of Saint-Germain-des-Prés",
+        "url": "https://en.wikipedia.org/wiki/Saint-Germain-des-Prés_(abbey)"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-28-germanus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-28-germanus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}

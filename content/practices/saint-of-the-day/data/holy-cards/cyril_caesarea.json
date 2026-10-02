@@ -1,0 +1,45 @@
+{
+  "id": "cyril_caesarea",
+  "feast": {
+    "month": 5,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Cyril",
+    "pt-BR": "São Cirilo"
+  },
+  "patronOf": {
+    "en-US": "Boy martyr of Caesarea",
+    "pt-BR": "Menino mártir de Cesareia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Ask Our Lord to make all earthly joy insipid, and to fill you with the constant desire of heaven.",
+    "pt-BR": "Pedi a Nosso Senhor que torne insípida toda alegria terrena, e que vos encha do constante desejo do céu."
+  },
+  "lifeChapter": "may-29-cyril",
+  "meta": {
+    "face": "A Cappadocian Greek boy of about twelve, visibly a child, BEARDLESS, with a light-olive, sun-warmed complexion and a SQUARE, FLAT-PLANED face — a broad, flat forehead with a LEVEL hairline, a STRAIGHT nose with a HIGH bridge unusual in a child, DEEP-SET grey-green eyes under thin, LEVEL dark brows that nearly MEET, flat cheeks, a WIDE, thin-lipped mouth open in a glad smile, a firm, SQUARE little chin; thick, short, tousled dark-brown curls; the gaze lifted, eager and fearless.",
+    "basis": "No likeness survives, and English Wikipedia has no article. The book tells a boy of Caesarea in Cappadocia in the third century who repeated the name of Christ, was beaten and turned out by his heathen father, refused the judge's offer of freedom ('I left my home gladly, for I have a greater and a better which is waiting for me') and went to the fire; its engraving shows the barefoot boy in a short tunic leaving his father's door. CatholicSaints.Info gives the same outline, with his death by beheading in 251. The square, flat-planed face is our choice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/may-29-cyril.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "CatholicSaints.Info, Saint Cyril of Caesarea (saved as consult/batch-29/CyrilCSI.txt)",
+        "url": "https://catholicsaints.info/saint-cyril-of-caesarea/"
+      },
+      {
+        "title": "Wikipedia, Kayseri (Caesarea in Cappadocia, Mount Erciyes)",
+        "url": "https://en.wikipedia.org/wiki/Kayseri"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, may-29-cyril (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/may-29-cyril.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-29.md."
+      }
+    ]
+  }
+}
