@@ -1,0 +1,38 @@
+{
+  "id": "domine_non_sum_dignus",
+  "kind": "mass",
+  "order": 42,
+  "name": {
+    "en-US": "Domine, Non Sum Dignus",
+    "pt-BR": "Domine, Non Sum Dignus"
+  },
+  "patronOf": {
+    "en-US": "The priest's prayer before he receives the Host",
+    "pt-BR": "A oração do sacerdote antes de receber a Hóstia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.",
+    "pt-BR": "Senhor, eu não sou digno que entreis na minha morada, mas dizei uma só palavra e a minha alma será salva."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "The priest takes both parts of the Host in his left hand with the paten beneath, 'inter pectus et Calicem, parum inclinatus, dextera tribus vicibus percutit pectus suum, interim etiam tribus vicibus dicens voce aliquantulum elevata: Domine, non sum dignus' (Ritus servandus X.4; Fortescue, l. 5166–5174). No bell is drawn: the Missal gives none here, though custom is tolerated (Fortescue, l. 6416–6418 and note).",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Preparation for Communion: Domine, non sum dignus, said three times (once; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-57.md."
+      }
+    ]
+  }
+}

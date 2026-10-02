@@ -1,0 +1,38 @@
+{
+  "id": "ablutions",
+  "kind": "mass",
+  "order": 44,
+  "name": {
+    "en-US": "Ablutions",
+    "pt-BR": "Abluções"
+  },
+  "patronOf": {
+    "en-US": "The chalice and the priest's fingers are purified",
+    "pt-BR": "O cálice e os dedos do sacerdote são purificados"
+  },
+  "prayerExcerpt": {
+    "en-US": "Grant, O Lord, that what we have taken with our mouth, we may receive with a pure mind; and from a temporal gift may it become to us an eternal remedy.",
+    "pt-BR": "Que conservemos com pureza de coração, Senhor, o que a boca acaba de receber; e que esta dádiva temporal se torne para nós remédio sempiterno."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After receiving the Precious Blood the priest says Quod ore sumpsimus and holds out the chalice to the server at the epistle corner, 'quo vinum fundente, se purificat: deinde vino et aqua abluit pollices et indices super Calicem, quos abstergit Purificatorio, interim dicens: Corpus tuum, Domine, quod sumpsi' (Ritus servandus X.5; Fortescue, l. 5352–5362). The card shows the second ablution, over the fingers.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, after the Communion: Quod ore sumpsimus (whole, lines joined; verbatim in both languages)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-57.md."
+      }
+    ]
+  }
+}

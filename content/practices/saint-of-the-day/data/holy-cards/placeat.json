@@ -1,0 +1,38 @@
+{
+  "id": "placeat",
+  "kind": "mass",
+  "order": 47,
+  "name": {
+    "en-US": "Placeat Tibi",
+    "pt-BR": "Placeat Tibi"
+  },
+  "patronOf": {
+    "en-US": "The priest's last prayer at the altar, before the blessing",
+    "pt-BR": "A última oração do sacerdote no altar, antes da bênção"
+  },
+  "prayerExcerpt": {
+    "en-US": "May the performance of my homage be pleasing to Thee, O holy Trinity.",
+    "pt-BR": "Santíssima Trindade, seja-Vos agradável a homenagem da minha escravidão."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After Ite, missa est the priest, 'ante medium Altaris stans junctis manibus super eo, et capite inclinato, dicit secreto: Placeat tibi, sancta Trinitas', then kisses the altar and blesses the people (Ritus servandus XII.1); the Missal was closed after the Postcommunion (XI.1) and the chalice stands veiled at the middle (X.5). In the old rite the dismissal comes before this prayer and the blessing.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Conclusion: the opening of Placeat tibi (cut at a colon or comma made a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-57.md."
+      }
+    ]
+  }
+}

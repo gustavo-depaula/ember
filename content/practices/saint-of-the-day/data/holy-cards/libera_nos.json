@@ -1,0 +1,38 @@
+{
+  "id": "libera_nos",
+  "kind": "mass",
+  "order": 39,
+  "name": {
+    "en-US": "Libera Nos",
+    "pt-BR": "Libera Nos"
+  },
+  "patronOf": {
+    "en-US": "The prayer that follows the Our Father",
+    "pt-BR": "A oração que segue o Pai-Nosso"
+  },
+  "prayerExcerpt": {
+    "en-US": "Deliver us, we beseech Thee, O Lord, from all evils, past, present, and to come.",
+    "pt-BR": "Livrai-nos, Senhor, Vos suplicamos, de todos os males passados, presentes e futuros."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "After the Pater noster the priest wipes the paten and holds it upright on the altar while he says Libera nos; before 'Da propitius pacem' he 'elevat manu dextera Patenam de Altari, et seipsum cum ea signat signo crucis … Cum signat se, manum sinistram ponit infra pectus; deinde Patenam ipsam osculatur', and slips it under the Host (Ritus servandus X.1–2). The breaking of the Host and the commingling that end this prayer are in the Agnus Dei and the Fraction card.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Preparation for Communion: the opening of Libera nos (cut at a semicolon made a full stop; verbatim otherwise)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-57.md."
+      }
+    ]
+  }
+}

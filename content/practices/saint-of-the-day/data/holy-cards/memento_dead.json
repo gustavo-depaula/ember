@@ -1,0 +1,38 @@
+{
+  "id": "memento_dead",
+  "kind": "mass",
+  "order": 35,
+  "name": {
+    "en-US": "Memento of the Dead",
+    "pt-BR": "Memento dos Defuntos"
+  },
+  "patronOf": {
+    "en-US": "The priest prays for the faithful departed",
+    "pt-BR": "O sacerdote reza pelos fiéis defuntos"
+  },
+  "prayerExcerpt": {
+    "en-US": "Remember also, O Lord, Thy servants and handmaids, who are gone before us with the sign of faith, and rest in the sleep of peace.",
+    "pt-BR": "Lembrai-Vos também Senhor, dos vossos servos e servas, que partiram antes de nós, marcados com o sinal da fé, e agora dormem o sono da paz."
+  },
+  "meta": {
+    "face": "-",
+    "basis": "At the Memento of the dead the priest, 'extensis et junctis manibus ante pectus, et usque ad faciem elevatis, et intentis oculis ad Sacramentum super Altare, facit commemorationem Fidelium defunctorum' (Ritus servandus IX.2). The votive candles, the wall cross and the churchyard are the painter's setting, not a rubric.",
+    "excerpt": "content/do/web/www/missa/English/Ordo/Ordo.txt and Portugues/Ordo/Ordo.txt, # Canon, Commemoration of the Dead: its first sentence (the 'N. and N.' dropped, lines joined; verbatim otherwise, the pt-BR without a comma before 'Senhor' as in the source)",
+    "sources": [
+      {
+        "title": "Divinum Officium missal, Ordo Missae (Latin, English, Portuguese)",
+        "url": "https://github.com/DivinumOfficium/divinum-officium/blob/master/web/www/missa/English/Ordo/Ordo.txt"
+      },
+      {
+        "title": "Adrian Fortescue, The Ceremonies of the Roman Rite Described (1920 impression)",
+        "url": "https://archive.org/details/ceremoniesofrom00fort"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-02",
+        "note": "New card, generated with new-card.sh from dossiers/batch-57.md."
+      }
+    ]
+  }
+}
