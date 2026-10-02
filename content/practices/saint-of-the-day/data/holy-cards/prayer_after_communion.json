@@ -1,7 +1,7 @@
 {
   "id": "prayer_after_communion",
   "kind": "mass",
-  "order": 45,
+  "order": 44,
   "name": {
     "en-US": "Prayer after Communion",
     "pt-BR": "Oração depois da Comunhão"

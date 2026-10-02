@@ -1,7 +1,7 @@
 {
   "id": "dismissal",
   "kind": "mass",
-  "order": 46,
+  "order": 45,
   "name": {
     "en-US": "Dismissal",
     "pt-BR": "Despedida"
