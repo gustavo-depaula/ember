@@ -428,6 +428,12 @@ vi.mock('@expo/ui/community/bottom-sheet', async () => {
   }
 })
 
+// The rest of @expo/ui gets the same web stand-in Metro serves the web build:
+// the real package loads `expo` itself, whose runtime jsdom can't host.
+vi.mock('@expo/ui/swift-ui', async () => import('../lib/expo-ui-web'))
+vi.mock('@expo/ui/swift-ui/modifiers', async () => import('../lib/expo-ui-web'))
+vi.mock('@expo/ui/community/segmented-control', async () => import('../lib/expo-ui-web'))
+
 vi.mock('expo-glass-effect', async () => {
   const React = await import('react')
   return {
