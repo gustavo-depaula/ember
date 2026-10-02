@@ -1,0 +1,49 @@
+{
+  "id": "gregory_thaumaturgus",
+  "feast": {
+    "month": 11,
+    "day": 17
+  },
+  "name": {
+    "en-US": "St. Gregory Thaumaturgus",
+    "pt-BR": "São Gregório Taumaturgo"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Neocaesarea",
+    "pt-BR": "Bispo de Neocesareia"
+  },
+  "prayerExcerpt": {
+    "en-US": "Devotion to the blessed Mother of God is the sure protection of faith in her Divine Son.",
+    "pt-BR": "A devoção à bendita Mãe de Deus é a segura proteção da fé em seu Filho Divino."
+  },
+  "lifeChapter": "nov-17-gregory-thaumaturgus",
+  "meta": {
+    "face": "A Greek of Pontus of about sixty with a warm, light olive complexion and a NARROW face with SUNKEN TEMPLES — a HIGH, BALD crown with a single short CURL of white hair left over the middle of the forehead and thick, short white curls over the ears; a DEEP vertical FURROW between the brows; a LONG, STRAIGHT, NARROW nose running down from it; small, CLOSE-SET, deep-brown eyes under brows that slant gently UP toward the centre in a look of concentration; flat cheeks; a small, tight mouth; a SHORT, CURLY, rounded white beard; the gaze grave and searching, toward us. Not the long-bearded athanasius, the rectangular, square-jawed lambert, the trapezoid hilary, the domed honoratus or the long, symmetrical remigius.",
+    "basis": "No likeness survives. The face follows the Painter's Manual ('an old man with curly hair and a short beard') and the Greek icon on English Wikipedia (a narrow face, balding, with a curl over the brow and a short white beard); the tree on the riverbank is the staff that held back the Lycus, from Santi e Beati's notice.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-17-gregory-thaumaturgus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Gregory Thaumaturgus (lead: icon)",
+        "url": "https://en.wikipedia.org/wiki/Gregory_Thaumaturgus"
+      },
+      {
+        "title": "Santi e Beati, San Gregorio Taumaturgo (Roman Martyrology entry, 17 November)",
+        "url": "https://www.santiebeati.it/dettaglio/78050"
+      },
+      {
+        "title": "Dionysius of Fourna, Painter's Manual (Hetherington's translation): Gregory of Neo-Caesarea",
+        "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-17-gregory-thaumaturgus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-17-gregory-thaumaturgus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

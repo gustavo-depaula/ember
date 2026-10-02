@@ -1,0 +1,49 @@
+{
+  "id": "felix_valois",
+  "feast": {
+    "month": 11,
+    "day": 20
+  },
+  "name": {
+    "en-US": "St. Felix of Valois",
+    "pt-BR": "São Félix de Valois"
+  },
+  "patronOf": {
+    "en-US": "Founder of the Trinitarians",
+    "pt-BR": "Fundador dos Trinitários"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"Think how much,\" says St. John Chrysostom, \"and how often thy mouth has sinned, and thou wilt devote thyself entirely to the conversion of sinners. For by this one means thou wilt blot out all thy sins, in that thy mouth will become the mouth of God.\"",
+    "pt-BR": "\"Pensa quanto\", diz São João Crisóstomo, \"e quão amiúde tua boca pecou, e te dedicarás inteiramente à conversão dos pecadores. Pois por este único meio apagarás todos os teus pecados, porquanto tua boca se tornará a boca de Deus.\""
+  },
+  "lifeChapter": "nov-20-felix-of-valois",
+  "meta": {
+    "face": "A Frenchman of about eighty-five, spare and frail, with a pale, fine, deeply lined complexion and a LONG, NARROW face with HOLLOW temples and cheeks — a HIGH, BALD, smooth dome with a few wisps of white hair at the sides; deep-set, HOODED, heavy-lidded blue-grey eyes looking DOWN and a little to the side; long, feathery white brows that DROOP at their outer ends; a thin, finely ARCHED nose; a small mouth half hidden; a VERY LONG, full, softly WAVY white beard that flows down over the breast to the waist; the gaze meek and inward. Not his companion john_matha (clean-shaven, convex, curved-nosed), the triangular, hooded anthony_abbot, the fine-boned, clean-shaven fabian or the long-bearded athanasius.",
+    "basis": "No likeness survives. The very old man with a long white beard follows the tradition of his images (the painting on English Wikipedia) and his great age (Wikipedia: seventy when John of Matha came to him); the white stag at the spring of Cerfroid is from the legend told on French Wikipedia, painted without the cross between its antlers, which the Trinitarian cross on his scapular already shows.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-20-felix-of-valois.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Felix of Valois (lead: painting with the stag)",
+        "url": "https://en.wikipedia.org/wiki/Felix_of_Valois"
+      },
+      {
+        "title": "Wikipedia (fr), Félix de Valois (the white stag at the spring)",
+        "url": "https://fr.wikipedia.org/wiki/F%C3%A9lix_de_Valois"
+      },
+      {
+        "title": "Santi e Beati, San Felice di Valois (Roman Martyrology entry, 4 November)",
+        "url": "https://www.santiebeati.it/dettaglio/78450"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-20-felix-of-valois (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-20-felix-of-valois.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

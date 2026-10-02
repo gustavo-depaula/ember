@@ -1,0 +1,49 @@
+{
+  "id": "saturninus_toulouse",
+  "feast": {
+    "month": 11,
+    "day": 29
+  },
+  "name": {
+    "en-US": "St. Saturninus",
+    "pt-BR": "São Saturnino"
+  },
+  "patronOf": {
+    "en-US": "Bishop of Toulouse, martyr",
+    "pt-BR": "Bispo de Tolosa, mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "When beset by the temptations of the devil, let us call upon the Saints, who reign with Christ.",
+    "pt-BR": "Quando assediados pelas tentações do demônio, invoquemos os Santos, que reinam com Cristo."
+  },
+  "lifeChapter": "nov-29-saturninus",
+  "meta": {
+    "face": "A Roman of about fifty-five, tall and lean, with a light olive complexion and a LONG face shaped like a SHIELD — a wide, flat forehead crossed by STRAIGHT, LEVEL black brows, the sides of the face running long and straight and narrowing only at the bottom to a firm, BLUNT chin; a ROMAN nose with a strong HUMP high on the bridge; deep-set, level, steady dark eyes; hollow cheeks under clear cheekbones; a firm, thin mouth; short, cropped, greying black hair combed forward in the Roman way; a SHORT, DENSE, cropped black-and-grey beard close to the jaw; the gaze fearless, toward us. Not the rectangular, square-jawed lambert, the long, jutting-chinned firmin, the broad, square denis, the oblong germanus_auxerre or the long, rectangular cornelius of cornelius_cyprian.",
+    "basis": "No likeness survives. The face is a Roman of the third century, as the book and Wikipedia make him (sent from Rome under Pope Fabian); the staff and palm are his emblems on Santi e Beati, and the capitol he passed daily, as the book tells, stands behind him without the bull.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-29-saturninus.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Saturnin (lead: miniature of the martyrdom)",
+        "url": "https://en.wikipedia.org/wiki/Saturnin"
+      },
+      {
+        "title": "Wikipedia (fr), Saturnin de Toulouse",
+        "url": "https://fr.wikipedia.org/wiki/Saturnin_de_Toulouse"
+      },
+      {
+        "title": "Santi e Beati, San Saturnino di Tolosa (Roman Martyrology entry, 29 November)",
+        "url": "https://www.santiebeati.it/dettaglio/79700"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-29-saturninus (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-29-saturninus.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

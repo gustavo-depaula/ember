@@ -1,0 +1,53 @@
+{
+  "id": "barbara",
+  "feast": {
+    "month": 12,
+    "day": 4
+  },
+  "name": {
+    "en-US": "St. Barbara",
+    "pt-BR": "Santa Bárbara"
+  },
+  "patronOf": {
+    "en-US": "Patroness against lightning and sudden death",
+    "pt-BR": "Padroeira contra os raios e a morte súbita"
+  },
+  "prayerExcerpt": {
+    "en-US": "Pray often against a sudden and unprovided death; and, above all, that you may be strengthened by the Holy Viaticum against the dangers of your last hour.",
+    "pt-BR": "Ora frequentemente contra uma morte súbita e desprevenida; e, acima de tudo, para que sejas fortalecido pelo Santo Viático contra os perigos de tua última hora."
+  },
+  "lifeChapter": "dec-04-barbara",
+  "meta": {
+    "face": "A young noblewoman of about twenty, tall and strongly built, with a warm, creamy complexion and a BROAD, FULL OVAL face with a STRONG, ROUNDED jaw — a HIGH, smooth forehead; a STRAIGHT, strong nose with a firm bridge; LARGE, calm, light-brown eyes under LEVEL, well-marked auburn brows; FULL cheeks; FULL, firm lips; a round, firm chin; thick, wavy AUBURN hair drawn back and gathered up under the veil and circlet; the gaze calm, direct and commanding, toward us. Not the fine-oval catherine_alexandria, the small, square margaret_antioch, the broad, square-jawed, low-browed genevieve, the round dorothy, the long-chinned ursula or Bibiana of this batch (long, pale, eyes lifted).",
+    "basis": "No likeness survives, and her Acts are legendary (the Martyrology commemorates her 'according to tradition'). The face follows Palma Vecchio's Santa Barbara in Santa Maria Formosa, Venice (a tall, full-faced, auburn-haired young woman with a diadem); the tower with three windows is her emblem, and the chalice with the Host is her patronage for a good death, which the book's Reflection asks for.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-04-barbara.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikimedia Commons, Palma il Vecchio, pala di santa Barbara, Santa Maria Formosa, Venice",
+        "url": "https://commons.wikimedia.org/wiki/File:Palma_il_Vecchio_-_pala_di_santa_Barbara_-_Chiesa_di_Santa_Maria_Formosa,_Venezia.jpg"
+      },
+      {
+        "title": "Wikipedia, Saint Barbara (lead: altarpiece)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Barbara"
+      },
+      {
+        "title": "Catholic Encyclopedia, St. Barbara",
+        "url": "https://www.newadvent.org/cathen/02284d.htm"
+      },
+      {
+        "title": "Santi e Beati, Santa Barbara (Roman Martyrology entry, 4 December)",
+        "url": "https://www.santiebeati.it/dettaglio/80400"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-04-barbara (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-04-barbara.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "eligius",
+  "feast": {
+    "month": 12,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Eligius",
+    "pt-BR": "Santo Elói"
+  },
+  "patronOf": {
+    "en-US": "Patron of goldsmiths",
+    "pt-BR": "Padroeiro dos ourives"
+  },
+  "prayerExcerpt": {
+    "en-US": "When God called His Saints to Himself, He might, had He so pleased, have taken their bodies also; but He willed to leave them in our charge, for our help and consolation.",
+    "pt-BR": "Quando Deus chamou os seus Santos para Si, poderia, se assim Lhe aprouvesse, ter tomado também os seus corpos; mas quis deixá-los a nosso cuidado, para nosso auxílio e consolação."
+  },
+  "lifeChapter": "dec-01-eligius",
+  "meta": {
+    "face": "A Gallo-Roman of about fifty-five, TALL, CLEAN-SHAVEN, with a fresh, ROSY complexion and a LONG, smoothly OVAL face, FULL and rounded in the rosy cheeks, with no sharp bones — a smooth, open forehead; a LONG, straight nose with a slightly RAISED, rounded tip; clear hazel eyes, a little NARROWED in a shrewd, PRUDENT, appraising look, under neatly arched brown brows; a small, composed mouth with a SHORT upper lip; a neat, softly rounded chin; a thick head of short, TIGHT, springy chestnut CURLS touched with grey, with a small tonsure; the gaze prudent and kind, toward us. Not the sharp-cheeked edmund_canterbury, the tapering, bearded hubert, the heart-shaped polycarp, the round, apple-cheeked blase or the long, fine remigius.",
+    "basis": "His friend St. Ouen (Audoin) describes him in the Life: 'tall with a rosy face', 'a pretty head of hair with curly locks', long fingers, 'the face of an angel and a prudent look' (Medieval Sourcebook translation); the card follows it. The reliquary and hammer are the goldsmith of the book, whose 'great delight was in making rich shrines for relics'.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-01-eligius.md Reflection, first sentence (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Medieval Sourcebook, The Life of St. Eligius by Audoin of Rouen (ch. 12, his appearance)",
+        "url": "https://sourcebooks.fordham.edu/basis/eligius.asp"
+      },
+      {
+        "title": "Wikipedia, Saint Eligius (lead: Petrus Christus, A Goldsmith in his Shop)",
+        "url": "https://en.wikipedia.org/wiki/Saint_Eligius"
+      },
+      {
+        "title": "Catholic Encyclopedia, St. Eligius",
+        "url": "https://www.newadvent.org/cathen/05386a.htm"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-01-eligius (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-01-eligius.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

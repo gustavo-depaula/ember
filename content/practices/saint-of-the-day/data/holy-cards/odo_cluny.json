@@ -1,0 +1,49 @@
+{
+  "id": "odo_cluny",
+  "feast": {
+    "month": 11,
+    "day": 18
+  },
+  "name": {
+    "en-US": "St. Odo of Cluny",
+    "pt-BR": "Santo Odão de Cluny"
+  },
+  "patronOf": {
+    "en-US": "Abbot of Cluny",
+    "pt-BR": "Abade de Cluny"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"It needs only,\" says Father Newman, \"for a Catholic to show devotion to any Saint, in order to receive special benefits from his intercession.\"",
+    "pt-BR": "\"Basta apenas\", diz o Padre Newman, \"que um católico mostre devoção a algum Santo, para receber benefícios especiais de sua intercessão.\""
+  },
+  "lifeChapter": "nov-18-odo-of-cluny",
+  "meta": {
+    "face": "An Aquitanian noble of about sixty, slight and a little stooped, CLEAN-SHAVEN, with a pale, rather sallow complexion and a face shaped like an UPRIGHT EGG — WIDEST at the BROAD, HIGH, rounded forehead under the monastic tonsure and narrowing evenly, with SMOOTH, soft cheeks and no marked cheekbones, to a small, ROUNDED chin; a SHORT, slightly UPTURNED nose; large, ROUND grey eyes under softly rounded lids, LOWERED toward the ground; sparse, straight fair brows; a small, gentle mouth with a quiet hint of humour at the corners; a thin ring of light-brown hair going grey around the tonsure; the gaze cast down, recollected. Not his successor hugh_cluny (square-oval, Greek-nosed), the lean, sharp-cheeked, hook-nosed edmund_canterbury, the long, smooth, long-nosed didacus, the long, domed ludger, the bulge-browed, short, wide elphege, the heart-shaped polycarp or the broad, flat-faced leonard_noblac.",
+    "basis": "No likeness survives. John of Salerno's Life, as retold on Nobility.org, says he 'habitually walked with back bent and eyes fixed on the ground', so that his monks called him 'the Digger', and that a mood of hilarity sometimes seized him; the card keeps the bowed head and lowered eyes. Cluny is shown being built, as the book says it was when he came.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-18-odo-of-cluny.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Odo of Cluny (lead: miniature)",
+        "url": "https://en.wikipedia.org/wiki/Odo_of_Cluny"
+      },
+      {
+        "title": "Nobility.org, St. Odo of Cluny (from John of Salerno's Life)",
+        "url": "https://nobility.org/2013/11/st-odo-of-cluny/"
+      },
+      {
+        "title": "Santi e Beati, Sant'Oddone di Cluny (Roman Martyrology entry, 18 November)",
+        "url": "https://www.santiebeati.it/dettaglio/78200"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-18-odo-of-cluny (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-18-odo-of-cluny.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

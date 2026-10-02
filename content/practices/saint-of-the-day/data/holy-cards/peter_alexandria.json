@@ -1,0 +1,49 @@
+{
+  "id": "peter_alexandria",
+  "feast": {
+    "month": 11,
+    "day": 26
+  },
+  "name": {
+    "en-US": "St. Peter of Alexandria",
+    "pt-BR": "São Pedro de Alexandria"
+  },
+  "patronOf": {
+    "en-US": "Bishop and martyr",
+    "pt-BR": "Bispo e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "\"How hardly shall they that have riches enter into the kingdom of God!\" says Our Saviour; because they are bound to earth by the strong ties of their riches.",
+    "pt-BR": "\"Quão dificilmente entrarão no reino de Deus os que têm riquezas!\", diz Nosso Salvador; porque estão presos à terra pelos fortes laços de suas riquezas."
+  },
+  "lifeChapter": "nov-26-peter-of-alexandria",
+  "meta": {
+    "face": "An Alexandrian of about sixty-five, sturdy, with a warm olive complexion and a ROUND, FULL face — a broad, rounded forehead with short, thick grey hair receding a little at the temples, FULL, rounded cheeks, a SHORT, broad nose with a ROUNDED tip, LARGE, dark, heavy-lidded eyes under softly ARCHED black-and-grey brows, a small, full mouth; a FULL, ROUNDED grey beard of medium length, curling at the edges; the gaze steady and fatherly, toward us. Not the oblong, high-nosed cyril_alexandria, the bald, long-bearded athanasius, the broad-domed lucian_antioch, or the short-bearded, narrow Gregory Thaumaturgus of this batch.",
+    "basis": "No likeness survives. The Painter's Manual describes him as 'an old man with a rounded beard', which the card keeps (the fresco on English Wikipedia shows him with a full, rounded greyish beard); the palm is for the Martyrology's 'last victim of the great persecution'.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-26-peter-of-alexandria.md Reflection, the whole of it (Mark 10:23) (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Peter I of Alexandria (lead: fresco with the vision of the Child)",
+        "url": "https://en.wikipedia.org/wiki/Peter_I_of_Alexandria"
+      },
+      {
+        "title": "Santi e Beati, San Pietro I di Alessandria (Roman Martyrology entry)",
+        "url": "https://www.santiebeati.it/dettaglio/92837"
+      },
+      {
+        "title": "Dionysius of Fourna, Painter's Manual (Hetherington's translation): Peter of Alexandria",
+        "url": "research/holy-card-faces/consult/hermeneia-ocr.txt"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-26-peter-of-alexandria (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-26-peter-of-alexandria.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

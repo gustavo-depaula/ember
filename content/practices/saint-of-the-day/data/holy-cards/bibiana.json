@@ -1,0 +1,49 @@
+{
+  "id": "bibiana",
+  "feast": {
+    "month": 12,
+    "day": 2
+  },
+  "name": {
+    "en-US": "St. Bibiana",
+    "pt-BR": "Santa Bibiana"
+  },
+  "patronOf": {
+    "en-US": "Virgin and martyr",
+    "pt-BR": "Virgem e mártir"
+  },
+  "prayerExcerpt": {
+    "en-US": "Pray for a fidelity and patience like Bibiana's under all trials, that neither convenience nor any worldly advantage may ever prevail upon you to transgress your duty.",
+    "pt-BR": "Ora por uma fidelidade e uma paciência como as de Bibiana sob todas as provações, para que nem a conveniência nem qualquer vantagem mundana jamais prevaleçam sobre ti a ponto de transgredires o teu dever."
+  },
+  "lifeChapter": "dec-02-bibiana",
+  "meta": {
+    "face": "A Roman girl of about twenty with a fair, pale complexion and a LONG, graceful neck carrying a LONG OVAL face with a HIGH, softly rounded forehead — a STRAIGHT, classical GREEK nose that continues the line of the forehead with almost no dip; LARGE, WIDE-SET, softly rounded eyes LIFTED toward heaven; fine, softly arched brows; smooth cheeks; a small mouth with the lips just PARTED; a soft, ROUNDED chin; light-brown hair, wavy and loosely parted in the middle, drawn back from the face and caught at the nape, a few waves loose over the ears; the gaze lifted upward, rapt and calm. Not the fine-oval, crowned catherine_alexandria, the diamond-faced anastasia, the round, joyful dorothy, the square margaret_antioch, the triangular christina_bolsena or Barbara of this batch (broad, crowned, auburn).",
+    "basis": "No likeness survives; her Acts are legendary (Wikipedia; the Catholic Encyclopedia), but the Liber Pontificalis attests her basilica on the Esquiline. The face, the uplifted gaze and the column follow Bernini's statue in Santa Bibiana (1624–26), photographed on English Wikipedia.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/dec-02-bibiana.md Reflection, the whole of it (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, Bibiana of Rome (lead: the altar of Santa Bibiana with Bernini's statue)",
+        "url": "https://en.wikipedia.org/wiki/Bibiana_of_Rome"
+      },
+      {
+        "title": "Catholic Encyclopedia, St. Bibiana",
+        "url": "https://www.newadvent.org/cathen/02542b.htm"
+      },
+      {
+        "title": "Santi e Beati, Santa Bibiana (Viviana), 2 December",
+        "url": "https://www.santiebeati.it/dettaglio/80100"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, dec-02-bibiana (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/dec-02-bibiana.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}

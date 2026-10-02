@@ -1,0 +1,49 @@
+{
+  "id": "james_marches",
+  "feast": {
+    "month": 11,
+    "day": 28
+  },
+  "name": {
+    "en-US": "St. James of La Marca of Ancona",
+    "pt-BR": "São Tiago de La Marca de Ancona"
+  },
+  "patronOf": {
+    "en-US": "Franciscan preacher",
+    "pt-BR": "Pregador franciscano"
+  },
+  "prayerExcerpt": {
+    "en-US": "He began his spiritual war against the devil, the world, and the flesh, with assiduous prayer and extraordinary fasts and watchings.",
+    "pt-BR": "Começou sua guerra espiritual contra o demônio, o mundo e a carne, com oração assídua e extraordinários jejuns e vigílias."
+  },
+  "lifeChapter": "nov-28-james-of-la-marca-of-ancona",
+  "meta": {
+    "face": "An Italian of the Marche of about seventy, gaunt, CLEAN-SHAVEN, with a sun-browned, weathered complexion and a LONG, RECTANGULAR face with deep vertical lines down the cheeks — a HIGH, broad, BALD crown with a thin ring of short grey hair; a LONG, heavy, straight nose with a BROAD, rounded tip; LARGE, round, dark eyes LIFTED upward under straight, dark-grey brows, the lower lids heavy; a WIDE, thin-lipped mouth slightly open as if about to preach; a LONG, broad chin; the gaze lifted and ardent. Not his master bernardine_siena (thin, pointed, sunken-cheeked), the small, triangular john_capistrano, the lantern-jawed patrician gregory_langres, the angular, moustached paschal_baylon, the smooth, narrow didacus or the craggy-browed peter_damian.",
+    "basis": "No portrait from life was found. The face follows Zurbarán's St. James of the Marches (English Wikipedia's lead: gaunt, long-faced, balding, eyes raised, chalice held up), which Crivelli's picture of 1477 (Italian Wikipedia, not seen) precedes; the chalice is his emblem, painted without the serpent that often escapes from it.",
+    "excerpt": "content/books/pictorial-lives-of-saints/{en-US,pt-BR}/nov-28-james-of-la-marca-of-ancona.md, second paragraph, second sentence; the chapter has no Reflection (Pictorial Lives, public domain)",
+    "sources": [
+      {
+        "title": "Wikipedia, James of the Marches (lead: Zurbarán)",
+        "url": "https://en.wikipedia.org/wiki/James_of_the_Marches"
+      },
+      {
+        "title": "Wikipedia (it), San Giacomo della Marca (Carlo Crivelli)",
+        "url": "https://it.wikipedia.org/wiki/San_Giacomo_della_Marca_(Carlo_Crivelli)"
+      },
+      {
+        "title": "Santi e Beati, San Giacomo della Marca (Roman Martyrology entry, 28 November)",
+        "url": "https://www.santiebeati.it/dettaglio/35550"
+      },
+      {
+        "title": "Pictorial Lives of the Saints, nov-28-james-of-la-marca-of-ancona (chapter and engraving, public domain)",
+        "url": "content/books/pictorial-lives-of-saints/en-US/nov-28-james-of-la-marca-of-ancona.md"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09-30",
+        "note": "New card, generated with new-card.sh from dossiers/batch-40.md."
+      }
+    ]
+  }
+}
