@@ -283,7 +283,8 @@ export function selectEnrollmentSchedule(
 /**
  * The next date a program kept before a feast begins, 'yyyy-MM-dd': its last
  * day counted back to its first, this year's or — once that has gone by — the
- * next. Undefined for a program tied to no date.
+ * next. Undefined for a program tied to no date, and while its days are under
+ * way: joined then, it's begun today, not a year from now.
  */
 export function traditionalStart(program: ProgramConfig, today: Date): string | undefined {
   const { ends } = program
@@ -297,8 +298,9 @@ export function traditionalStart(program: ProgramConfig, today: Date): string | 
       typeof ends === 'string'
         ? new Date(y, Number(ends.slice(0, 2)) - 1, Number(ends.slice(3)))
         : addDays(computeAnchors(y)[ends.anchor], ends.offset)
+    if (format(end, 'yyyy-MM-dd') < todayStr) continue
     const start = format(addDays(end, 1 - program.totalDays), 'yyyy-MM-dd')
-    if (start >= todayStr) return start
+    return start >= todayStr ? start : undefined
   }
   return undefined
 }

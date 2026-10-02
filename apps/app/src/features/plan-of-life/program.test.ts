@@ -760,22 +760,28 @@ describe('traditionalStart', () => {
     expect(traditionalStart(novena('03-18'), date(2027, 3, 10))).toBe('2027-03-10')
   })
 
-  it('waits for next year once this year\u2019s has begun', () => {
-    expect(traditionalStart(novena('03-18'), date(2027, 3, 11))).toBe('2028-03-10')
+  it('has no date to offer while its days are under way', () => {
+    expect(traditionalStart(novena('03-18'), date(2027, 3, 11))).toBeUndefined()
+    expect(traditionalStart(novena('03-18'), date(2027, 3, 18))).toBeUndefined()
+  })
+
+  it('waits for next year once this year\u2019s has gone by', () => {
+    expect(traditionalStart(novena('03-18'), date(2027, 3, 19))).toBe('2028-03-10')
   })
 
   it('begins in December when it ends in January', () => {
     const epiphany = novena('01-05')
     expect(traditionalStart(epiphany, date(2026, 12, 1))).toBe('2026-12-28')
-    expect(traditionalStart(epiphany, date(2026, 12, 30))).toBe('2027-12-28')
-    expect(traditionalStart(epiphany, date(2027, 1, 2))).toBe('2027-12-28')
+    expect(traditionalStart(epiphany, date(2026, 12, 30))).toBeUndefined()
+    expect(traditionalStart(epiphany, date(2027, 1, 2))).toBeUndefined()
+    expect(traditionalStart(epiphany, date(2027, 1, 6))).toBe('2027-12-28')
   })
 
   it('follows a moveable feast from year to year', () => {
     // Easter falls on 28 March 2027 and 16 April 2028.
     const pentecost = novena({ anchor: 'pentecost', offset: -1 })
     expect(traditionalStart(pentecost, date(2027, 1, 1))).toBe('2027-05-07')
-    expect(traditionalStart(pentecost, date(2027, 5, 8))).toBe('2028-05-26')
+    expect(traditionalStart(pentecost, date(2027, 5, 16))).toBe('2028-05-26')
     const divineMercy = novena({ anchor: 'easter', offset: 6 })
     expect(traditionalStart(divineMercy, date(2027, 1, 1))).toBe('2027-03-26')
   })

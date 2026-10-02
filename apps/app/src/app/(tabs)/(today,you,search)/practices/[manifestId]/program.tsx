@@ -1,6 +1,6 @@
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { useQuery } from '@tanstack/react-query'
-import { addDays, differenceInCalendarDays, format, parseISO } from 'date-fns'
+import { addDays, differenceInCalendarDays, format, formatDistanceStrict, parseISO } from 'date-fns'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { ChevronLeft } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
@@ -34,7 +34,7 @@ import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { PracticePlanEditor, usePracticePlan } from '@/features/practices/components/PracticePlan'
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
-import { formatLocalized } from '@/lib/i18n/dateLocale'
+import { formatLocalized, getDateLocale } from '@/lib/i18n/dateLocale'
 
 // A long course shows the stretch around today rather than every day.
 const windowSize = 9
@@ -498,6 +498,14 @@ function StartChoice({
   const [picking, setPicking] = useState(false)
   const dateLabel = (date: string) => formatLocalized(parseISO(date), t('program.dateFormat'))
   const other = value !== today && value !== traditional
+  // How far off the feast's date is, so the choice explains itself.
+  const away = (date: string) =>
+    differenceInCalendarDays(parseISO(date), parseISO(today)) === 1
+      ? t('program.tomorrow')
+      : formatDistanceStrict(parseISO(date), parseISO(today), {
+          addSuffix: true,
+          locale: getDateLocale(),
+        })
   const pick = (date: string) => {
     setPicking(false)
     onChange(date)
@@ -506,6 +514,7 @@ function StartChoice({
     {
       key: 'today',
       label: t('program.today'),
+      hint: undefined,
       selected: value === today,
       onPress: () => pick(today),
     },
@@ -514,6 +523,7 @@ function StartChoice({
           {
             key: 'traditional',
             label: dateLabel(traditional),
+            hint: away(traditional),
             selected: value === traditional,
             onPress: () => pick(traditional),
           },
@@ -522,6 +532,7 @@ function StartChoice({
     {
       key: 'other',
       label: other ? dateLabel(value) : t('program.anotherDay'),
+      hint: undefined,
       selected: other,
       onPress: () => setPicking((shown) => !shown),
     },
@@ -529,8 +540,8 @@ function StartChoice({
 
   return (
     <YStack alignItems="center" paddingTop="$lg">
-      <Typography variant="label" fontSize={11} letterSpacing={1.5} tone="muted">
-        {t('program.begins').toUpperCase()}
+      <Typography variant="caption" fontSize={17} lineHeight={24}>
+        {t('program.whenToBegin')}
       </Typography>
       <XStack gap="$lg" justifyContent="center" flexWrap="wrap">
         {options.map((option) => (
@@ -538,7 +549,7 @@ function StartChoice({
             key={option.key}
             onPress={option.onPress}
             accessibilityRole="radio"
-            accessibilityLabel={option.label}
+            accessibilityLabel={option.hint ? `${option.label}, ${option.hint}` : option.label}
             accessibilityState={{ checked: option.selected }}
             aria-checked={option.selected}
             style={{ minHeight: 44, justifyContent: 'center' }}
@@ -550,6 +561,9 @@ function StartChoice({
             >
               <Typography fontSize="$3" tone={option.selected ? 'default' : 'muted'}>
                 {option.label}
+                {option.hint ? (
+                  <Typography fontSize="$1" tone="muted">{` · ${option.hint}`}</Typography>
+                ) : null}
               </Typography>
             </YStack>
           </Pressable>
