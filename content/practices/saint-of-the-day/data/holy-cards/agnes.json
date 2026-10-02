@@ -17,5 +17,14 @@
     "pt-BR": "Sou esposa Daquele a quem os Anjos servem."
   },
   "proper": "sanctorale.01-21",
-  "lifeChapter": "jan-21-agnes"
+  "lifeChapter": "jan-21-agnes",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/ambrose-concerning-virgins"
+        ]
+      }
+    ]
+  }
 }

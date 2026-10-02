@@ -14,6 +14,26 @@
     "en-US": "To You I lift up my soul: in You, O my God, I trust; let me not be put to shame.",
     "pt-BR": "A Vós elevo a minha alma. Ó meu Deus, confio em Vós: não permitireis que fique confundido."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "roman_missal",
+      "altar"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Having kissed the altar the priest goes to the epistle corner, 'ubi stans versus Altare, et producens a fronte ad pectus signum crucis, incipit intelligibili voce Introitum Missae' (Ritus servandus IV.2); when he signs himself the left hand is laid below the breast (III.5). The Introit is a proper: the Ordo has only `&introitus`, so the excerpt is the Missal's first Introit, Ad te levavi.",

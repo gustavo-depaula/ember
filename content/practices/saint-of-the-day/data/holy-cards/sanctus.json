@@ -14,6 +14,22 @@
     "en-US": "Holy, Holy, Holy Lord God of hosts. Heaven and earth are full of your glory.",
     "pt-BR": "Santo, Santo, Santo, Senhor, Deus do universo. O céu e a terra proclamam a vossa glória."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "At the end of the Preface the priest 'joins his hands and, together with all those present, sings or says aloud the Sanctus' (GIRM 148), the acclamation 'by which the whole congregation, joining with the heavenly powers', takes part in the Eucharistic Prayer (GIRM 79b); all still stand (GIRM 43). The seraphim of Isaiah 6 on the reredos stand for those heavenly powers, as painting, not vision.",

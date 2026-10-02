@@ -14,6 +14,22 @@
     "en-US": "Be mindful, O Lord, of Thy servants and handmaidens, and of all here present, whose faith and devotion are known unto Thee.",
     "pt-BR": "Lembrai-Vos, Senhor, dos vossos servos e de todos os que aqui estão presentes, cuja fé Vos é conhecida e a piedade é notória."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "At Memento, Domine the priest, 'elevans et jungens manus usque ad faciem vel pectus, sic junctis manibus stat paulisper in quiete, demisso aliquantulum capite, faciens commemorationem vivorum Christi fidelium', then goes on 'et omnium circumstantium' (Ritus servandus VIII.3–4). The people in the foreground are the 'all here present' of the prayer.",

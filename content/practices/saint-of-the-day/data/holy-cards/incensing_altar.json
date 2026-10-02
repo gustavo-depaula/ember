@@ -14,6 +14,28 @@
     "en-US": "Be blessed by Him in whose honor thou art burnt. Amen.",
     "pt-BR": "Sê abençoado por Aquele por cuja honra és queimado. Amém."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "thurible",
+      "altar",
+      "altar_crucifix",
+      "dalmatic"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "At Solemn Mass, after Oramus te and the kiss of the altar, the celebrant puts incense in the thurible saying Ab illo benedicaris, incenses the cross three times and then the altar; the deacon and subdeacon 'hinc inde assistunt Celebranti cum incensat' (Ritus servandus IV.4, 7). The subdeacon 'holds the edge of the chasuble over the celebrant's shoulder' (Fortescue, l. 8072–8075). The altar is incensed again at the Offertory with other prayers (VII.10); this card is the first incensing.",

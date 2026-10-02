@@ -14,6 +14,27 @@
     "en-US": "The Word of the Lord. Thanks be to God.",
     "pt-BR": "Palavra do Senhor. Graças a Deus."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "lectionary",
+      "responsorial_psalm"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the Collect all sit; the reader goes to the ambo and proclaims the First Reading from the Lectionary already placed there, 'to which all listen', and ends with the acclamation the people answer (GIRM 128, 43, 58–59). The reader is a layman in an alb, the attire GIRM 194 allows; the priest sits at the chair.",

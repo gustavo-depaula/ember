@@ -14,6 +14,22 @@
     "en-US": "We therefore humbly pray and beseech Thee, most merciful Father, through Jesus Christ, Thy Son, our Lord, that Thou wouldst vouchsafe to accept and bless these gifts, these presents, these holy unspotted Sacrifices.",
     "pt-BR": "A Vós, pois, rogamos e pedimos, ó clementíssimo Pai, por Jesus Cristo, vosso Filho e Nosso Senhor, que estes dons, estas ofertas, estes sacrifícios santos e imaculados Vos sejam agradáveis e os abençoeis."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the Sanctus the priest raises his hands and eyes, then, 'manibus junctis et super Altare positis, profunde inclinatus incipit Canonem, secreto dicens: Te igitur'; he kisses the altar at 'uti accepta habeas' and signs the offerings three times (Ritus servandus VIII.1). The people kneel from the Sanctus (Fortescue, l. 6688–6689).",

@@ -14,6 +14,23 @@
     "en-US": "Our Father, who art in heaven, hallowed be thy name; thy kingdom come, thy will be done on earth as it is in heaven.",
     "pt-BR": "Pai nosso que estais nos céus, santificado seja o vosso nome; venha a nós o vosso reino, seja feita a vossa vontade, assim na terra como no céu."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/our-father"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest says the invitation with hands joined, then 'with hands extended, he pronounces the prayer together with the people' (GIRM 152, 81; the Order of Mass rubric 'He extends his hands and, together with the people, continues'); the paten and chalice have been set down on the corporal (GIRM 151). The people stand (GIRM 43). The daily bread asked for is 'principally the Eucharistic Bread' (GIRM 81), so the Host stays in view.",

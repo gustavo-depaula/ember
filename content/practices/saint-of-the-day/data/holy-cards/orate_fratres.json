@@ -14,6 +14,25 @@
     "en-US": "Brethren, pray that my Sacrifice and yours may be acceptable to God the Father almighty.",
     "pt-BR": "Orai, meus irmãos, a fim de que o meu sacrifício, que é também vosso, seja recebido por Deus Pai onipotente."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "prayer_over_offerings"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Having kissed the altar the priest turns to the people 'demissis oculis ad terram' and, 'versus eum extendens et jungens manus, dicit voce aliquantulum elata: Orate, fratres', finishing the prayer in silence as he completes the circle; the server or those around answer Suscipiat (Ritus servandus VII.7).",

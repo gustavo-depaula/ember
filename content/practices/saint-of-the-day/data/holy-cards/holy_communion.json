@@ -14,6 +14,54 @@
     "en-US": "The Body of Christ. Amen.",
     "pt-BR": "O Corpo de Cristo. Amém."
   },
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "The Mass",
+          "pt-BR": "A Missa"
+        },
+        "refs": [
+          "practice/mass"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Before Communion",
+          "pt-BR": "Antes da Comunhão"
+        },
+        "refs": [
+          "practice/aquinas-before-communion",
+          "practice/prayer-of-st-ambrose"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "After Communion",
+          "pt-BR": "Depois da Comunhão"
+        },
+        "refs": [
+          "practice/thanksgiving-mass",
+          "practice/aquinas-after-communion",
+          "practice/prayer-of-st-bonaventure"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/eucharistic"
+    ],
+    "cards": [
+      "ciborium",
+      "paten"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest 'takes the paten or ciborium and approaches the communicants, who usually come up in procession'; he 'raises the host slightly and shows it to each, saying, The Body of Christ. The communicant replies, Amen' (GIRM 160–161; the Order of Mass rubric). In the US, Communion is received standing, the communicant bowing the head before the Sacrament, on the tongue or in the hand (GIRM 160); the Communion-plate is prepared 'for the Communion of the faithful' (GIRM 118c). Communion under the one kind, so no chalice ministers.",

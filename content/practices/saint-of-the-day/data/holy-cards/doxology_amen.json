@@ -14,6 +14,26 @@
     "en-US": "Through him, and with him, and in him, O God, almighty Father, in the unity of the Holy Spirit, all glory and honour is yours, for ever and ever. Amen.",
     "pt-BR": "Por Cristo, com Cristo, e em Cristo, a vós, Deus Pai todo-poderoso, na unidade do Espírito Santo, toda honra e toda glória, por todos os séculos dos séculos. Amém."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "chalice"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "At the end of the Eucharistic Prayer 'the Priest takes the paten with the host and the chalice and elevates them both while pronouncing alone the doxology', and the people acclaim Amen (GIRM 151, 79h; the Order of Mass rubric 'He takes the chalice and the paten with the host and raising both'). The faithful kneel until after the Amen (GIRM 43, USCCB). The card is the long view from the back because the Amen belongs to the whole people.",

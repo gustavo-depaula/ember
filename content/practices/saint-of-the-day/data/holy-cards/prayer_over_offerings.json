@@ -14,6 +14,26 @@
     "en-US": "Grant us, O Lord, we pray, that we may participate worthily in these mysteries, for whenever the memorial of this sacrifice is celebrated the work of our redemption is accomplished.",
     "pt-BR": "Concedei-nos, Senhor, a graça de participar dignamente destes mistérios, pois todas as vezes que celebramos o memorial do sacrifício do vosso Filho, realiza-se em nós a obra da redenção."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "pall",
+      "corporal"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the invitation Pray, brethren, 'the people rise', and 'the Priest, with hands extended, says the Prayer over the Offerings' (GIRM 146, 43, 77), the gifts already on the corporal and the chalice covered with the pall (GIRM 142); the incense haze is left from the incensation of the offerings, the cross and the altar that may follow the Preparation (GIRM 75, 144).",

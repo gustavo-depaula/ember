@@ -14,6 +14,25 @@
     "en-US": "Lift up your hearts. We lift them up to the Lord.",
     "pt-BR": "Corações ao alto. O nosso coração está em Deus."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "sanctus"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest begins the Eucharistic Prayer with hands extended; 'as he continues, saying, Lift up your hearts, he raises his hands', and the people reply (GIRM 148; the Order of Mass rubric 'The Priest, raising his hands, continues'). All stand (GIRM 43). The Preface follows, with hands extended (GIRM 148, 78–79a).",

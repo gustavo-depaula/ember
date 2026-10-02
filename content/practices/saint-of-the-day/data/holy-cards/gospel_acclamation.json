@@ -14,6 +14,28 @@
     "en-US": "Alleluia, alleluia. Speak, O Lord, your servant is listening; you have the words of everlasting life. Alleluia.",
     "pt-BR": "Aleluia, aleluia. Fala, Senhor, que te escuta teu servo! Tu tens palavras de vida eterna! Aleluia."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "gospel",
+      "book_of_gospels",
+      "thurible",
+      "munda_cor"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Alleluia is sung by everybody, standing, led by a cantor or choir (GIRM 62, 131); meanwhile the priest puts incense in the thurible and, 'with hands joined, bows profoundly before the altar' saying Munda cor meum, then takes up the Book of the Gospels from the altar, the candles and thurible going before him (GIRM 132–133).",

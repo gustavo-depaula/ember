@@ -14,6 +14,27 @@
     "en-US": "A reading from the holy Gospel according to John. Glory to you, O Lord.",
     "pt-BR": "Proclamação do Evangelho de Jesus Cristo segundo João. Glória a vós, Senhor."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "book_of_gospels",
+      "thurible"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The high point of the Liturgy of the Word (GIRM 60): at the ambo the priest announces the Gospel, the people acclaim 'Glory to you, O Lord', and he incenses the book, the ministers with candles and thurible having gone before him; all stand, turned toward the ambo (GIRM 133–134, 43). With no deacon, the priest proclaims it (GIRM 59).",

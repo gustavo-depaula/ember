@@ -14,6 +14,22 @@
     "en-US": "The peace of the Lord be with you always. And with your spirit.",
     "pt-BR": "A paz do Senhor esteja sempre convosco. O amor de Cristo nos uniu."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the prayer for peace the priest, turned to the people, gives the greeting of the excerpt; then 'all express to one another peace, communion, and charity', each 'in a sober manner' offering it 'only to those who are nearest', in the form set by the Conference of Bishops; the priest gives it to the ministers but 'always remains within the sanctuary' (GIRM 154, 82; the Order of Mass rubric). The handshake with a bow is the usual form in the US and in Brazil; the people stand (GIRM 43).",

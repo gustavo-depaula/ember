@@ -14,6 +14,26 @@
     "en-US": "For this is the Chalice of My Blood of the new and eternal Testament, the Mystery of Faith; which shall be shed for you and for many unto the remission of sins.",
     "pt-BR": "Pois isto é o Cálice do meu Sangue do novo e eterno Testamento, mistério da fé, que será derramado por vós e por muitos, para remissão dos pecados."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice",
+      "elevation_chalice"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest holds the chalice 'ambabus manibus … videlicet sinistra pedem, dextera nodum infra cuppam, cubitis super Altare positis, et capite inclinato, profert attente, continuate et secreto … verba consecrationis Sanguinis', 'tenens illum parum elevatum' (Ritus servandus VIII.7; DO Latin Ordo; Fortescue, l. 4945–4953). The Host has been laid back on the corporal (VIII.5). The server lifts the chasuble and rings only at the elevations (VIII.6).",

@@ -14,6 +14,25 @@
     "en-US": "Cleanse my heart and my lips, O almighty God, who didst cleanse the lips of the prophet Isaias with a burning coal.",
     "pt-BR": "Ó onipotente Deus, assim como purificastes os lábios do Profeta Isaías com uma brasa de fogo, assim também purificais agora o meu coração e os meus lábios."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "roman_missal"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "At Low Mass the priest or the server carries the Missal to the gospel corner; the priest, at the middle, 'junctis manibus ante pectus, levatisque ad Deum oculis, et statim demissis, tum profunde inclinatus, dicit secreto: Munda cor meum' (Ritus servandus VI.1–2). The deacon's Munda cor at Solemn Mass is already in the Gospel Acclamation card; this is the Low Mass form, with the book carried across.",

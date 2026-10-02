@@ -16,5 +16,17 @@
     "en-US": "I am a soldier of Christ.",
     "pt-BR": "Sou um soldado de Cristo."
   },
-  "lifeChapter": "jan-20-sebastian"
+  "lifeChapter": "jan-20-sebastian",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-saint-sebastian"
+        ]
+      }
+    ],
+    "cards": [
+      "marcus_marcellianus"
+    ]
+  }
 }

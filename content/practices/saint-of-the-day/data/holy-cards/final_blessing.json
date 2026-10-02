@@ -14,6 +14,22 @@
     "en-US": "May almighty God bless you, the Father, and the Son, and the Holy Spirit. Amen.",
     "pt-BR": "Abençoe-vos Deus todo-poderoso Pai e Filho e Espírito Santo. Amém."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest greets the people, then, 'joining his hands again and then immediately placing his left hand on his breast, raises his right hand and adds, May almighty God bless you and, as he makes the Sign of the Cross over the people, he continues', and all reply Amen (GIRM 167, 90b; the Order of Mass rubric). The blessing is given to the people, so he faces them; he is seen from behind, from the altar side. The people stand (GIRM 43).",

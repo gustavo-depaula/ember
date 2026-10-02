@@ -17,6 +17,40 @@
     "pt-BR": "Ao nome de Jesus, todo joelho se dobre."
   },
   "proper": "sanctorale.01-03",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Litanies",
+          "pt-BR": "Ladainhas"
+        },
+        "refs": [
+          "practice/litany-holy-name"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-most-holy-name-of-jesus"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        },
+        "refs": [
+          "practice/iesu-dulcis-memoria"
+        ]
+      }
+    ],
+    "cards": [
+      "bernardine_siena"
+    ]
+  },
   "meta": {
     "face": "The Christ Child as in recurring-figures.md: a plump, ROUND child's face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls, a plain gold halo, now a child of about three with a steady, gentle gaze looking out at the viewer. The angels: youthful, one with a heart-shaped face and short golden curls, the other with a narrower face and dark-brown wavy hair.",
     "basis": "The feast honours the Name at which every knee bends (Philippians 2:10, its entrance antiphon); the Gesù's ceiling by Gaulli paints heaven and earth adoring the Name in a burst of light. The card keeps that adoration but shows the Child himself, with the Christ Child's face from recurring-figures.md, because the card allows no lettering.",

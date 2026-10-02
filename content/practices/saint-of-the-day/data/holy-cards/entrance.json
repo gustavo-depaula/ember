@@ -14,6 +14,27 @@
     "en-US": "In the name of the Father, and of the Son, and of the Holy Spirit.",
     "pt-BR": "Em nome do Pai e do Filho e do Espírito Santo."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/sign-of-cross"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "book_of_gospels",
+      "thurible"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The entrance procession in the order GIRM 120 gives it (thurifer; the cross between two lighted candles; other ministers; a reader with the Book of the Gospels, 'slightly elevated'; the priest last) while all stand for the Entrance Chant. The Sign of the Cross that follows at the chair (GIRM 124) is the card's excerpt, from the repo's Order of Mass.",

@@ -14,6 +14,22 @@
     "en-US": "Make holy, therefore, these gifts, we pray, by sending down your Spirit upon them like the dewfall, so that they may become for us the Body and Blood of our Lord Jesus Christ.",
     "pt-BR": "Santificai, pois, estes dons, derramando sobre eles o vosso Espírito, a fim de que se tornem para nós o Corpo e o Sangue de nosso Senhor Jesus Cristo."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "In the Second Eucharistic Prayer the priest 'joins his hands and, holding them extended over the offerings' says the epiclesis, then makes the Sign of the Cross over the bread and chalice together (the Order of Mass rubric; GIRM 79c: the Church implores the power of the Holy Spirit on the gifts). A little before the Consecration a minister may ring a small bell (GIRM 150); the faithful kneel after the Sanctus (GIRM 43, USCCB). The dove is glass in the church's window.",

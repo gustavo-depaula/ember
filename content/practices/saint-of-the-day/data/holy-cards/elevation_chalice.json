@@ -14,6 +14,27 @@
     "en-US": "As often as ye do these things, ye shall do them in remembrance of Me.",
     "pt-BR": "Todas as vezes que fizerdes isto, fazei-o em memória de mim."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "elevation_host",
+      "altar_bells",
+      "thurible"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Having said Haec quotiescumque the priest genuflects, then, 'accipiens Calicem discoopertum cum Sanguine ambabus manibus, ut prius, elevat eum, et erectum quantum commode potest, ostendit populo adorandum' (Ritus servandus VIII.7). The server lifts the chasuble and rings as at the Host, 'quod et facit in elevatione Calicis' (VIII.6), and the thurifer incenses 'similiter Calicem' (VIII.8). The Mystery of Faith card shows the same elevation from among the people.",

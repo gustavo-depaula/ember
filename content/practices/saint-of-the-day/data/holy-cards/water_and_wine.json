@@ -14,6 +14,26 @@
     "en-US": "Grant that, by the Mystery of this water and wine, we may be made partakers of His divine nature, who vouchsafed to be made partaker of our human nature.",
     "pt-BR": "Permiti que pela mistura simbólica desta água e deste vinho sejamos participantes da divindade daquele que quis assumir a nossa humanidade."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "cruets",
+      "chalice"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "At the epistle corner the priest takes the chalice, 'sinistra tenens illius nodum', pours in the wine, then 'producit signum crucis super ampullam aquae, et dicit: Deus, qui humanae substantiae, et infundens parum aquae in Calicem prosequitur: Da nobis per hujus aquae et vini mysterium' (Ritus servandus VII.4). The prayer stands on the epistle-side altar card (Fortescue, l. 2986–2988). The offering of the chalice that follows, Offerimus tibi, has no card of its own.",

@@ -14,6 +14,26 @@
     "en-US": "Grant, O Lord, that what we have taken with our mouth, we may receive with a pure mind; and from a temporal gift may it become to us an eternal remedy.",
     "pt-BR": "Que conservemos com pureza de coração, Senhor, o que a boca acaba de receber; e que esta dádiva temporal se torne para nós remédio sempiterno."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice",
+      "purificator"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After receiving the Precious Blood the priest says Quod ore sumpsimus and holds out the chalice to the server at the epistle corner, 'quo vinum fundente, se purificat: deinde vino et aqua abluit pollices et indices super Calicem, quos abstergit Purificatorio, interim dicens: Corpus tuum, Domine, quod sumpsi' (Ritus servandus X.5; Fortescue, l. 5352–5362). The card shows the second ablution, over the fingers.",

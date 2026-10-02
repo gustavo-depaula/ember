@@ -14,6 +14,26 @@
     "en-US": "My Lord and my God.",
     "pt-BR": "Meu Senhor e meu Deus."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "altar_bells",
+      "thurible"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the words of consecration the priest genuflects, then 'elevat in altum Hostiam, et intentis in eam oculis populo reverenter ostendit adorandam' (Ritus servandus VIII.5). Meanwhile the server 'manu sinistra elevat fimbrias posteriores Planetae, ne ipsum Celebrantem impediat in elevatione brachiorum … et manu dextera pulsat campanulam ter ad unamquamque elevationem' (VIII.6); the thurifer, kneeling, incenses the Host three times (VIII.8; Fortescue, l. 9949–9962). The picture is the Consecration card of batch 47, with its initial changed from C to E.",

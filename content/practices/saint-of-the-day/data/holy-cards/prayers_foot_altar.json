@@ -14,6 +14,26 @@
     "en-US": "I will go in to the altar of God. To God who giveth joy to my youth.",
     "pt-BR": "Eu irei até ao altar de Deus. Até Deus, que é a alegria da minha juventude."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo",
+          "practice/confiteor"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "penitential_act"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the Sign of the Cross the priest, 'jungens iterum manus ante pectus', says the antiphon Introibo ad altare Dei and Psalm 42 with the server, who kneels 'retro post eum ad sinistram' (Ritus servandus III.6). He stands upright here; the profound bow comes at the Confiteor (III.7), which the Penitential Act card shows. The faithful kneel during these prayers (Fortescue, l. 6647–6648).",

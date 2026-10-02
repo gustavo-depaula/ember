@@ -14,6 +14,22 @@
     "en-US": "The grace of our Lord Jesus Christ, and the love of God, and the communion of the Holy Spirit be with you all.",
     "pt-BR": "A graça de nosso Senhor Jesus Cristo, o amor do Pai e a comunhão do Espírito Santo estejam convosco."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the Sign of the Cross, all standing, the priest at the chair, 'facing the people and extending his hands', greets them (GIRM 124; the Order of Mass: 'abrindo os braços, saúda o povo'). The chair faces the people at the head of the sanctuary (GIRM 310), so the card looks over the priest's shoulder at the assembly the Greeting makes manifest (GIRM 50).",

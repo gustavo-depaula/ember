@@ -14,6 +14,22 @@
     "en-US": "In the beginning was the Word, and the Word was with God, and the Word was God.",
     "pt-BR": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the blessing the priest goes to the gospel corner, signs the altar or the book and himself, and 'junctis manibus legit Evangelium: In principio'; at Et Verbum caro factum est he genuflects, and the server 'stans a parte Epistolae' answers Deo gratias (Ritus servandus XII.1). The Last Gospel stands on the gospel-side altar card (Fortescue, l. 2988–2989); all stand for it (l. 6697). The card shows the reading, not the genuflection, which would repeat the Profession of Faith card.",

@@ -14,6 +14,22 @@
     "en-US": "Then he began to speak to them, 'This text is being fulfilled today even as you listen'.",
     "pt-BR": "Então começou a dizer-lhes: \"Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir\"."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest gives the Homily 'standing at the chair or at the ambo itself or, if appropriate, in another worthy place' (GIRM 136): here a pulpit, which keeps the card apart from the ambo of the readings. The faithful sit for the Homily (GIRM 43); it is given by the priest celebrant himself (GIRM 66). The excerpt is Christ's own first homily, at Nazareth, from the Gospel of the Third Sunday, Year C.",

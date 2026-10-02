@@ -17,6 +17,11 @@
     "pt-BR": "A semelhança exterior com Nossa Senhora foi o privilégio peculiar de Santa Brígida; mas todos estão obrigados a crescer como ela na pureza interior do coração."
   },
   "lifeChapter": "feb-01-bridgid",
+  "related": {
+    "cards": [
+      "patrick"
+    ]
+  },
   "meta": {
     "face": "An Irishwoman of about forty-five with a fair, freckled, fresh complexion and a WIDE, OBLONG face — broad, flat cheekbones and a LONG, firm, rounded jaw; a straight nose, a little long, with a rounded tip; large, wide-set, clear blue eyes under straight, copper-brown brows; a wide, calm mouth; a few strands of copper-red hair at the brow under the white veil; a steady, warm gaze toward us.",
     "basis": "No likeness survives. The book gives her white habit and cloak and the lamp-and-fire tradition of Kildare; Wikipedia's iconography section gives the rush cross, the crozier, the lamp and the cow, and the Harry Clarke-school window at Cong (lead image) shows her veiled in white with a lamp. The book calls her outward resemblance to Our Lady her privilege; we do not borrow Our Lady's face from `recurring-figures.md`, so that she is not mistaken for her. The freckled, oblong face is our choice, kept apart from `bridget_sweden`.",

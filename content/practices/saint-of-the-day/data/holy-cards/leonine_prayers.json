@@ -14,6 +14,28 @@
     "en-US": "Holy Michael Archangel, defend us in the day of battle; be our safeguard against the wickedness and snares of the devil.",
     "pt-BR": "São Miguel Arcanjo, defendei-nos no combate, sede o nosso auxílio contra a maldade e as ciladas do demônio."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/prayer-st-michael",
+          "practice/hail-mary",
+          "practice/hail-holy-queen",
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "michael_archangel"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After every Low Mass the celebrant says with the people the prayers prescribed by Leo XIII in 1884 and 1886: 'he kneels on the lowest step and either says them from memory or reads them from a card provided' (Fortescue, l. 5479–5486); the card stands against the lowest step at the epistle side (l. 2995–2997) and the server kneels there (l. 6540–6543). The Ordo gives three Hail Marys, the Hail Holy Queen, the prayer for the Church and the prayer to St. Michael, hence the statue of Our Lady and the St. Michael window, which are decoration.",

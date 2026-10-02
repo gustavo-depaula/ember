@@ -14,6 +14,22 @@
     "en-US": "Glory to God in the highest, and on earth peace to people of good will.",
     "pt-BR": "Glória a Deus nas alturas, e paz na terra aos homens por ele amados."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Gloria is sung by all standing on Sundays outside Advent and Lent and on solemnities and feasts (GIRM 43, 53, 126), so the card is a feast: six candles (GIRM 117), flowers around the altar rather than on it (GIRM 305). Its opening words are the angels' song at Bethlehem (Luke 2:14), painted as a fresco in the church's vault rather than as a vision.",

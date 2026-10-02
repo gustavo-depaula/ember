@@ -1,0 +1,955 @@
+{
+  "ablutions": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice",
+      "purificator"
+    ]
+  },
+  "agnus_dei": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "chalice"
+    ]
+  },
+  "collect": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "roman_missal"
+    ]
+  },
+  "consecration_chalice": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice",
+      "elevation_chalice"
+    ]
+  },
+  "consecration_host": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "consecration_chalice",
+      "elevation_host"
+    ]
+  },
+  "dismissal": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "final_blessing"
+    ]
+  },
+  "domine_non_sum_dignus": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "paten"
+    ]
+  },
+  "doxology_amen": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "chalice"
+    ]
+  },
+  "elevation_chalice": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "elevation_host",
+      "altar_bells",
+      "thurible"
+    ]
+  },
+  "elevation_host": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "altar_bells",
+      "thurible"
+    ]
+  },
+  "entrance": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/sign-of-cross"
+        ]
+      }
+    ],
+    "cards": [
+      "book_of_gospels",
+      "thurible"
+    ]
+  },
+  "epiclesis": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "final_blessing": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "first_reading": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "lectionary",
+      "responsorial_psalm"
+    ]
+  },
+  "gloria": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "gospel": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "book_of_gospels",
+      "thurible"
+    ]
+  },
+  "gospel_acclamation": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "gospel",
+      "book_of_gospels",
+      "thurible",
+      "munda_cor"
+    ]
+  },
+  "greeting": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "holy_communion": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "title": {
+          "en-US": "The Mass",
+          "pt-BR": "A Missa"
+        },
+        "refs": [
+          "practice/mass"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Before Communion",
+          "pt-BR": "Antes da Comunhão"
+        },
+        "refs": [
+          "practice/aquinas-before-communion",
+          "practice/prayer-of-st-ambrose"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "After Communion",
+          "pt-BR": "Depois da Comunhão"
+        },
+        "refs": [
+          "practice/thanksgiving-mass",
+          "practice/aquinas-after-communion",
+          "practice/prayer-of-st-bonaventure"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/eucharistic"
+    ],
+    "cards": [
+      "ciborium",
+      "paten"
+    ]
+  },
+  "homily": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "incensing_altar": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "thurible",
+      "altar",
+      "altar_crucifix",
+      "dalmatic"
+    ]
+  },
+  "introit": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "roman_missal",
+      "altar"
+    ]
+  },
+  "kyrie": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "last_gospel": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ]
+  },
+  "leonine_prayers": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/prayer-st-michael",
+          "practice/hail-mary",
+          "practice/hail-holy-queen",
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "michael_archangel"
+    ]
+  },
+  "libera_nos": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "lords_prayer",
+      "agnus_dei"
+    ]
+  },
+  "lords_prayer": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/our-father"
+        ]
+      }
+    ]
+  },
+  "memento_dead": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "memento_living"
+    ]
+  },
+  "memento_living": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ]
+  },
+  "munda_cor": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "roman_missal"
+    ]
+  },
+  "nobis_quoque": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ]
+  },
+  "orate_fratres": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "prayer_over_offerings"
+    ]
+  },
+  "penitential_act": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/confiteor"
+        ]
+      }
+    ]
+  },
+  "placeat": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "dismissal"
+    ]
+  },
+  "prayer_after_communion": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "prayer_over_offerings": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "pall",
+      "corporal"
+    ]
+  },
+  "prayers_foot_altar": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo",
+          "practice/confiteor"
+        ]
+      }
+    ],
+    "cards": [
+      "penitential_act"
+    ]
+  },
+  "preface": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "sanctus"
+    ]
+  },
+  "preparation_of_gifts": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "corporal",
+      "purificator",
+      "chalice",
+      "cruets",
+      "paten",
+      "roman_missal",
+      "water_and_wine"
+    ]
+  },
+  "profession_of_faith": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/nicene-creed"
+        ]
+      }
+    ]
+  },
+  "responsorial_psalm": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "lectionary"
+    ]
+  },
+  "sanctus": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "second_reading": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "lectionary"
+    ]
+  },
+  "sign_of_peace": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ]
+  },
+  "te_igitur": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ]
+  },
+  "universal_prayer": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo"
+    ]
+  },
+  "veni_sanctificator": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice",
+      "pall"
+    ]
+  },
+  "washing_of_hands": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "lavabo"
+    ]
+  },
+  "water_and_wine": {
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "cards": [
+      "cruets",
+      "chalice"
+    ]
+  }
+}

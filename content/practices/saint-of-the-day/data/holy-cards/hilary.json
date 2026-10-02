@@ -18,6 +18,20 @@
   },
   "proper": "sanctorale.01-13",
   "lifeChapter": "jan-14-hilary-of-poitiers",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/hilary-trinity",
+          "book/hilary-homilies-on-the-psalms",
+          "book/hilary-councils-or-the-faith-of-the-easterns"
+        ]
+      }
+    ],
+    "cards": [
+      "martin_tours"
+    ]
+  },
   "meta": {
     "face": "A robust man of about fifty-five with a broad, trapezoid face, wider at the temples than at the jaw — a high, broad forehead with white hair receding from it, a strong, straight nose with a broad bridge, wide-set, clear grey eyes under heavy, arched white brows, ruddy, full cheekbones, a firm mouth half-hidden by a white moustache; a long, broad, flowing white beard spread over the chest in soft waves; an earnest, penetrating gaze straight ahead.",
     "basis": "No likeness survives; Christian Iconography notes that portraits usually give him episcopal vestments, mitre and crozier, and a beard usually white and often long, and the card keeps the tradition, with a broad, vigorous face for the fighter against Arianism. The baptistery of Saint-Jean at Poitiers dates from his century.",

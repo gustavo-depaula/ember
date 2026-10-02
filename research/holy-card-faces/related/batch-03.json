@@ -1,0 +1,311 @@
+{
+  "agnes": {
+    "read": [
+      {
+        "refs": [
+          "book/ambrose-concerning-virgins"
+        ]
+      }
+    ]
+  },
+  "apollonia": {
+    "read": [
+      {
+        "refs": [
+          "book/dionysius-great-epistles-and-epistolary-fragments"
+        ]
+      }
+    ]
+  },
+  "blase": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-our-holy-father-blaise"
+        ]
+      }
+    ]
+  },
+  "sebastian": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-saint-sebastian"
+        ]
+      }
+    ],
+    "cards": [
+      "marcus_marcellianus"
+    ]
+  },
+  "paul_miki": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-holy-three-japanese-martyrs"
+        ]
+      }
+    ]
+  },
+  "holy_name_jesus": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Litanies",
+          "pt-BR": "Ladainhas"
+        },
+        "refs": [
+          "practice/litany-holy-name"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-most-holy-name-of-jesus"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        },
+        "refs": [
+          "practice/iesu-dulcis-memoria"
+        ]
+      }
+    ],
+    "cards": [
+      "bernardine_siena"
+    ]
+  },
+  "circumcision": {
+    "cards": [
+      "holy_name_jesus",
+      "mary_mother_of_god"
+    ]
+  },
+  "conversion_paul": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-paul-the-apostle"
+        ]
+      }
+    ]
+  },
+  "chair_peter": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-peter"
+        ]
+      }
+    ],
+    "cards": [
+      "peter_chair_rome"
+    ]
+  },
+  "peter_chair_rome": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-peter"
+        ]
+      }
+    ]
+  },
+  "basil_gregory": {
+    "read": [
+      {
+        "title": {
+          "en-US": "Basil the Great",
+          "pt-BR": "Basílio Magno"
+        },
+        "refs": [
+          "book/basil-de-spiritu-sancto",
+          "book/basil-letters",
+          "book/basil-nine-homilies-of-hexaemeron"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Gregory Nazianzen",
+          "pt-BR": "Gregório Nazianzeno"
+        },
+        "refs": [
+          "book/gregory-nazianzen-orations",
+          "book/gregory-nazianzen-letters"
+        ]
+      }
+    ]
+  },
+  "hilary": {
+    "read": [
+      {
+        "refs": [
+          "book/hilary-trinity",
+          "book/hilary-homilies-on-the-psalms",
+          "book/hilary-councils-or-the-faith-of-the-easterns"
+        ]
+      }
+    ],
+    "cards": [
+      "martin_tours"
+    ]
+  },
+  "polycarp": {
+    "read": [
+      {
+        "refs": [
+          "book/polycarp-epistle-to-the-philippians",
+          "book/polycarp-martyrdom",
+          "book/ignatius-epistle-to-polycarp"
+        ]
+      }
+    ],
+    "cards": [
+      "irenaeus",
+      "john_evangelist"
+    ]
+  },
+  "timothy_titus": {
+    "read": [
+      {
+        "refs": [
+          "book/john-chrysostom-homilies-on-first-timothy",
+          "book/john-chrysostom-homilies-on-second-timothy",
+          "book/john-chrysostom-homilies-on-titus",
+          "book/aquinas-super-1-timotheum",
+          "book/aquinas-super-2-timotheum",
+          "book/aquinas-super-titum"
+        ]
+      }
+    ],
+    "cards": [
+      "paul"
+    ]
+  },
+  "onesimus": {
+    "read": [
+      {
+        "refs": [
+          "book/john-chrysostom-homilies-on-philemon",
+          "book/aquinas-super-philemonem"
+        ]
+      }
+    ],
+    "cards": [
+      "paul"
+    ]
+  },
+  "paul_hermit": {
+    "read": [
+      {
+        "refs": [
+          "book/jerome-life-of-paulus-the-first-hermit"
+        ]
+      }
+    ],
+    "cards": [
+      "anthony_abbot"
+    ]
+  },
+  "macarius_alexandria": {
+    "cards": [
+      "anthony_abbot"
+    ]
+  },
+  "tarasius": {
+    "read": [
+      {
+        "refs": [
+          "book/councils-nicaea-ii"
+        ]
+      }
+    ]
+  },
+  "flavian": {
+    "read": [
+      {
+        "refs": [
+          "book/leo-letters"
+        ]
+      }
+    ],
+    "cards": [
+      "leo_great"
+    ]
+  },
+  "leander": {
+    "cards": [
+      "isidore",
+      "hermenegild"
+    ]
+  },
+  "john_matha": {
+    "cards": [
+      "felix_valois"
+    ]
+  },
+  "jane_valois": {
+    "cards": [
+      "francis_paola"
+    ]
+  },
+  "catherine_ricci": {
+    "cards": [
+      "philip_neri"
+    ]
+  },
+  "bridgid": {
+    "cards": [
+      "patrick"
+    ]
+  },
+  "genevieve": {
+    "cards": [
+      "germanus_auxerre"
+    ]
+  },
+  "marcella": {
+    "cards": [
+      "jerome"
+    ]
+  },
+  "simeon_jerusalem": {
+    "cards": [
+      "philip_james"
+    ]
+  },
+  "servite_founders": {
+    "pray": [
+      {
+        "refs": [
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "our_lady_sorrows"
+    ]
+  },
+  "angela_merici": {
+    "cards": [
+      "ursula"
+    ]
+  },
+  "raymund_penyafort": {
+    "cards": [
+      "our_lady_mercy"
+    ]
+  },
+  "benedict_aniane": {
+    "cards": [
+      "benedict"
+    ]
+  }
+}

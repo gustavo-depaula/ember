@@ -14,6 +14,22 @@
     "en-US": "Lord, have mercy. Christ, have mercy. Lord, have mercy.",
     "pt-BR": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Kyrie 'is usually executed by everyone, that is to say, with the people and the choir or cantor taking part in it' (GIRM 52), all standing (GIRM 43); so the card looks from the choir over the standing people to the priest at the chair.",

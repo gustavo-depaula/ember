@@ -14,6 +14,25 @@
     "en-US": "Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.",
     "pt-BR": "Senhor, eu não sou digno que entreis na minha morada, mas dizei uma só palavra e a minha alma será salva."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "paten"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest takes both parts of the Host in his left hand with the paten beneath, 'inter pectus et Calicem, parum inclinatus, dextera tribus vicibus percutit pectus suum, interim etiam tribus vicibus dicens voce aliquantulum elevata: Domine, non sum dignus' (Ritus servandus X.4; Fortescue, l. 5166–5174). No bell is drawn: the Missal gives none here, though custom is tolerated (Fortescue, l. 6416–6418 and note).",

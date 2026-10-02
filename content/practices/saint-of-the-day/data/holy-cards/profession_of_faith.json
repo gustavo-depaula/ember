@@ -14,6 +14,23 @@
     "en-US": "And by the Holy Spirit was incarnate of the Virgin Mary, and became man.",
     "pt-BR": "E se encarnou pelo Espírito Santo, no seio da Virgem Maria, e se fez homem."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/nicene-creed"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Creed is said by the priest together with the people, everyone standing; 'at the words et incarnatus est, etc. (and by the Holy Spirit . . . and became man) all make a profound bow' (GIRM 137, 43, 68), the rubric the Order of Mass prints at those lines. The card shows that bow, at the very words of the excerpt.",

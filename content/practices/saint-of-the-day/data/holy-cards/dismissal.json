@@ -14,6 +14,25 @@
     "en-US": "Go in peace, glorifying the Lord by your life. Thanks be to God.",
     "pt-BR": "Ide em paz, e glorificai o Senhor com vossa vida. Graças a Deus."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "final_blessing"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "Immediately after the Blessing, 'with hands joined, the Priest adds, Ite, missa est', facing the people, and all reply Thanks be to God (GIRM 168, 90c; the Order of Mass rubric 'with hands joined and facing the people'); the people are sent 'so that each may go back to doing good works, praising and blessing God' (GIRM 90c). No deacon, so the priest dismisses them. The people stand (GIRM 43).",

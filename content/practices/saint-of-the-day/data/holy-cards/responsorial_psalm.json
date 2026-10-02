@@ -14,6 +14,26 @@
     "en-US": "We are his people: the sheep of his flock.",
     "pt-BR": "Nós somos o povo e o rebanho do Senhor."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "lectionary"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The psalmist sings the verses at the ambo 'while the whole congregation sits and listens, normally taking part by means of the response' (GIRM 61, 129, 309); the card is on the people, whose part the response is.",

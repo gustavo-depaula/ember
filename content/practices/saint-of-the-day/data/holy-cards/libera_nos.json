@@ -14,6 +14,27 @@
     "en-US": "Deliver us, we beseech Thee, O Lord, from all evils, past, present, and to come.",
     "pt-BR": "Livrai-nos, Senhor, Vos suplicamos, de todos os males passados, presentes e futuros."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "lords_prayer",
+      "agnus_dei"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the Pater noster the priest wipes the paten and holds it upright on the altar while he says Libera nos; before 'Da propitius pacem' he 'elevat manu dextera Patenam de Altari, et seipsum cum ea signat signo crucis … Cum signat se, manum sinistram ponit infra pectus; deinde Patenam ipsam osculatur', and slips it under the Host (Ritus servandus X.1–2). The breaking of the Host and the commingling that end this prayer are in the Agnus Dei and the Fraction card.",

@@ -14,6 +14,22 @@
     "en-US": "Grant us, almighty God, that we may be refreshed and nourished by the Sacrament which we have received, so as to be transformed into what we consume.",
     "pt-BR": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After the purification of the vessels and a sacred silence, the priest, 'standing at the chair or at the altar, and facing the people with hands joined', says Let us pray, 'then, with hands extended, he recites the Prayer after Communion', praying 'for the fruits of the mystery just celebrated' (GIRM 163–165, 88–89). The Missal is kept next to the chair (GIRM 118a) and the vessels have left the altar (GIRM 163). The people stand (GIRM 43).",

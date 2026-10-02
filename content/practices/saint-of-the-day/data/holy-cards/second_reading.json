@@ -14,6 +14,26 @@
     "en-US": "A reading from the first Letter of Saint Paul to the Corinthians.",
     "pt-BR": "Leitura da Primeira Carta de São Paulo aos Coríntios."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo",
+      "lectionary"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Second Reading is proclaimed from the ambo by a reader, all seated and listening, with the same acclamation as the first (GIRM 130, 43); on Sundays it is from the Apostle, here Paul's First Letter to the Corinthians (Second Sunday, Year C), whence the carved St. Paul with his sword and book. The reader is a layman in ordinary dress, against the alb of the First Reading.",

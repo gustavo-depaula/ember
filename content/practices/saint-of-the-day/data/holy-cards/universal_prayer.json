@@ -14,6 +14,25 @@
     "en-US": "For the holy Church of God: that the Lord may guide and protect it. Lord hear us. Lord, graciously hear us.",
     "pt-BR": "Pela santa Igreja de Deus, para que ele a proteja e sustente, rezemos ao Senhor. Senhor, atendei-nos."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "ambo"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest, 'standing at the chair with his hands joined', introduces the prayer; 'the cantor, the reader, or another person announces the intentions from the ambo or from some other suitable place while facing the people', who stand and reply (GIRM 138, 71, 43). The reader is one of the lay faithful (GIRM 71).",

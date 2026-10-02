@@ -14,6 +14,25 @@
     "en-US": "I will wash my hands among the innocent: and I will compass Thine altar, O Lord.",
     "pt-BR": "Lavarei as minhas mãos, como os inocentes, e rodearei, Senhor o vosso altar."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "lavabo"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest goes to the epistle corner, 'ubi stans, ministro aquam fundente, lavat manus, idest, extremitates digitorum pollicis et indicis, dicens Psalmum: Lavabo inter innocentes' (Ritus servandus VII.6). The psalm stands on the epistle-side altar card (Fortescue, l. 2986–2988). The object card `lavabo` shows the cruet, basin and towel alone; this is the rite.",

@@ -14,6 +14,26 @@
     "en-US": "Lamb of God, you take away the sins of the world, grant us peace.",
     "pt-BR": "Cordeiro de Deus, que tirais o pecado do mundo, dai-nos a paz."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "paten",
+      "chalice"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "'The Priest takes the host, breaks it over the paten, and places a small piece in the chalice', while the Agnus Dei is sung or said by the choir and the people; the fraction 'is reserved to the Priest and the Deacon' (GIRM 155, 83; the Order of Mass rubric). The people still stand, and kneel after the Agnus Dei (GIRM 43, USCCB). The Lamb on the reredos is carving, not vision.",

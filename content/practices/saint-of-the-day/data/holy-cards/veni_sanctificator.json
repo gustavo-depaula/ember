@@ -14,6 +14,26 @@
     "en-US": "Come, O almighty and eternal God, the Sanctifier, and bless this Sacrifice, prepared for the glory of Thy holy Name.",
     "pt-BR": "Vinde, ó Santificador onipotente, Deus eterno, e abençoai este sacrifício, preparado para a glória do vosso Santo Nome."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "chalice",
+      "pall"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "After In spiritu humilitatis the priest stands erect, 'elevans oculos, manusque expandens easque in altum porrectas, statim jungens ante pectus (quod semper facit quando aliquid est benedicturus) dicit: Veni, sanctificator', and at 'et benedic' signs the host and chalice together (Ritus servandus VII.5); the chalice is already covered with the pall.",

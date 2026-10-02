@@ -14,6 +14,26 @@
     "en-US": "For this is My Body.",
     "pt-BR": "Pois isto é o meu Corpo."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass-vetus-ordo"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ],
+    "cards": [
+      "consecration_chalice",
+      "elevation_host"
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The priest 'cubitis super Altare positis, stans capite inclinato, distincte, reverenter et secreto profert verba consecrationis' over the Host, which he holds 'pollicibus et indicibus' (Ritus servandus VIII.5); 'he now bows over the altar, leaning the forearms on it' (Fortescue, l. 4871–4874). The chalice is still covered. The server lifts the chasuble and rings only at the elevations (VIII.6; Fortescue, l. 6384–6390, 6403), the thurifer incenses only then (VIII.8), and the torches are held from the Sanctus (Fortescue, l. 9613–9617).",

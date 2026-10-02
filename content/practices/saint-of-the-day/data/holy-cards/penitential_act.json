@@ -14,6 +14,23 @@
     "en-US": "Through my fault, through my fault, through my most grievous fault.",
     "pt-BR": "Por minha culpa, minha culpa, minha tão grande culpa."
   },
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/mass",
+          "practice/confiteor"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/what-the-mass-is"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "-",
     "basis": "The Confiteor, which all say together after a pause for silence, 'striking their breast' at the words of the excerpt (order-of-mass.json, order.penitential-act, Form A); all still standing, as from the Entrance to the end of the Collect (GIRM 43, 51).",
