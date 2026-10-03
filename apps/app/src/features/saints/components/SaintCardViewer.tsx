@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FlatList, Pressable, StyleSheet, useWindowDimensions } from 'react-native'
+import { FlatList, Pressable, StyleSheet, useWindowDimensions, type ViewToken } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
 import { View } from 'tamagui'
@@ -63,11 +63,24 @@ export function SaintCardViewer({
     setTarget(undefined)
   }, [target, entries, orderedIds, saints, setOrderedIds])
 
+  // The page on screen: its card's art downloads ahead of its neighbours'.
+  const [current, setCurrent] = useState(initialId)
+  const onViewableItemsChanged = useRef(({ viewableItems }: { viewableItems: ViewToken[] }) => {
+    const id = viewableItems[0]?.key
+    if (id) setCurrent(id)
+  }).current
+
   const renderItem = useCallback(
     ({ item }: { item: SaintEntry }) => (
-      <SaintPage saint={item} width={screenWidth} height={screenHeight} onOpenCard={setTarget} />
+      <SaintPage
+        saint={item}
+        width={screenWidth}
+        height={screenHeight}
+        visible={item.id === current}
+        onOpenCard={setTarget}
+      />
     ),
-    [screenWidth, screenHeight],
+    [screenWidth, screenHeight, current],
   )
 
   const getItemLayout = useCallback(
@@ -94,6 +107,8 @@ export function SaintCardViewer({
         initialNumToRender={1}
         windowSize={3}
         maxToRenderPerBatch={1}
+        onViewableItemsChanged={onViewableItemsChanged}
+        viewabilityConfig={viewability}
       />
 
       <Pressable
@@ -110,6 +125,8 @@ export function SaintCardViewer({
     </View>
   )
 }
+
+const viewability = { itemVisiblePercentThreshold: 60 }
 
 const styles = StyleSheet.create({
   closeButton: {

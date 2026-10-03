@@ -1,3 +1,4 @@
+import type { ImageProps } from 'expo-image'
 import { useEffect, useState } from 'react'
 import { StyleSheet, useWindowDimensions } from 'react-native'
 import { GestureDetector } from 'react-native-gesture-handler'
@@ -27,8 +28,17 @@ const dealDuration = 260
  * A saint's holy card: sealed until a copy is held, then the card with its
  * other copies stacked beneath. Each copy has its own back; flicking the back
  * sideways deals the top copy under the stack and turns up the next one's.
+ * `priority` orders the art's download: a pager's off-screen pages ask low.
  */
-export function SaintCard({ saint, width }: { saint: SaintEntry; width?: number }) {
+export function SaintCard({
+  saint,
+  width,
+  priority = 'high',
+}: {
+  saint: SaintEntry
+  width?: number
+  priority?: ImageProps['priority']
+}) {
   const copies = useCopies(saint.id)
   const { width: screenWidth } = useWindowDimensions()
   const cardWidth = width ?? saintCardWidth(screenWidth)
@@ -122,6 +132,7 @@ export function SaintCard({ saint, width }: { saint: SaintEntry; width?: number 
               rotateX={rotateX}
               rotateY={rotateY}
               isActive={isActive}
+              priority={priority}
             />
           </Animated.View>
         </Animated.View>

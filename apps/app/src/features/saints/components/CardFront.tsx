@@ -1,4 +1,4 @@
-import { Image } from 'expo-image'
+import { Image, type ImageProps } from 'expo-image'
 import { StyleSheet } from 'react-native'
 import type { SharedValue } from 'react-native-reanimated'
 import { Text, View, YStack } from 'tamagui'
@@ -14,6 +14,7 @@ export function CardFront({
   rotateX,
   rotateY,
   isActive,
+  priority,
 }: {
   saint: SaintEntry
   /** No copy held yet: the art stays veiled until an envelope is opened. */
@@ -23,6 +24,7 @@ export function CardFront({
   rotateX: SharedValue<number>
   rotateY: SharedValue<number>
   isActive: SharedValue<number>
+  priority: ImageProps['priority']
 }) {
   // Not held yet — the illuminated frame dimmed, the saint named but the
   // portrait still veiled: a reverent "not yet revealed" front, not a locked
@@ -76,6 +78,7 @@ export function CardFront({
         source={saint.cardImage}
         placeholder={saint.cardThumb}
         placeholderContentFit="cover"
+        priority={priority}
         style={styles.image}
         contentFit="cover"
       />

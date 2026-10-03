@@ -34,7 +34,8 @@ export function SaintCardTile({
         borderColor={collected ? '$accent' : '$borderColor'}
       >
         {collected ? (
-          <Image source={saint.cardThumb} style={styles.fill} contentFit="cover" />
+          // Low: a wall fills in hundreds of these, and an opened card's art must not queue behind them.
+          <Image source={saint.cardThumb} priority="low" style={styles.fill} contentFit="cover" />
         ) : (
           <>
             <Image source={cardFrame} style={styles.silhouette} contentFit="cover" />

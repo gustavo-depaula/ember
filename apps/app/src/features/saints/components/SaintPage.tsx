@@ -65,11 +65,14 @@ export const SaintPage = memo(function SaintPage({
   saint,
   width,
   height,
+  visible,
   onOpenCard,
 }: {
   saint: SaintEntry
   width: number
   height: number
+  /** The pager's current page: its card's art downloads first. */
+  visible: boolean
   onOpenCard: (id: string) => void
 }) {
   const { t } = useTranslation()
@@ -390,7 +393,7 @@ export const SaintPage = memo(function SaintPage({
           ]}
           animatedProps={cardProps}
         >
-          <SaintCard saint={saint} width={cardWidth} />
+          <SaintCard saint={saint} width={cardWidth} priority={visible ? 'high' : 'low'} />
         </Animated.View>
 
         <Animated.View
