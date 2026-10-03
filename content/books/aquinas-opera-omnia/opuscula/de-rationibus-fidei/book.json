@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On Reasons for the Faith, against Saracens, Greeks, and Armenians",
-    "la": "De Rationibus Fidei contra Saracenos, Graecos et Armenos"
+    "la": "De Rationibus Fidei contra Saracenos, Graecos et Armenos",
+    "pt-BR": "Das Razões da Fé contra os Sarracenos, Gregos e Armênios"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
   },
   "description": {
     "en-US": "A short apologetic addressed to a Dominican cantor in Antioch, giving reasons for the Trinity, Incarnation, and other contested doctrines against Muslim and Eastern-Christian objections.",
-    "la": "Apologia brevis ad cantorem dominicanum Antiochiae, rationes Trinitatis, Incarnationis, et aliorum dogmatum contestatorum contra objectiones Musulmanorum et Christianorum Orientalium praestans."
+    "la": "Apologia brevis ad cantorem dominicanum Antiochiae, rationes Trinitatis, Incarnationis, et aliorum dogmatum contestatorum contra objectiones Musulmanorum et Christianorum Orientalium praestans.",
+    "pt-BR": "Breve apologia dirigida a um chantre dominicano de Antioquia, que apresenta razões em favor da Trindade, da Encarnação e de outros dogmas contestados, contra as objeções de muçulmanos e de cristãos orientais."
   },
   "composed": "c. 1265",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,70 +39,80 @@
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1 — Introduction",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Qual é a intenção do autor"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Chapter 2 — How to Argue with Unbelievers",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — Como se deve disputar contra os infiéis"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Chapter 3 — How Generation Applies to God",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — Como se deve entender a geração em Deus"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Chapter 4 — How the Spirit Proceeds from the Father and the Son",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — Como se deve entender em Deus a processão do Espírito Santo a partir do Pai e do Filho"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Chapter 5 — The Reason for the Incarnation of the Son of God",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — Qual foi a causa da encarnação do Filho de Deus"
       }
     },
     {
       "id": "ch006",
       "title": {
         "en-US": "Chapter 6 — The Meaning of ‘God Became Man’",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — Como se deve entender o que se diz: Deus se fez homem"
       }
     },
     {
       "id": "ch007",
       "title": {
         "en-US": "Chapter 7 — The Meaning of ‘The Word of God Suffered’",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — Como se deve entender que o Verbo de Deus padeceu e morreu"
       }
     },
     {
       "id": "ch008",
       "title": {
         "en-US": "Chapter 8 — The Meaning of ‘The faithful Receive the Body of Christ’",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8 — Como se deve entender que os fiéis recebem o Corpo de Cristo"
       }
     },
     {
       "id": "ch009",
       "title": {
         "en-US": "Chapter 9 — How There is a Special Place Where Souls are Purified Before Receiving Beatitude",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9 — Que há um lugar especial onde as almas são purificadas antes de irem para o paraíso"
       }
     },
     {
       "id": "ch010",
       "title": {
         "en-US": "Chapter 10 — That Divine Predestination Does Not Impose Necessity on Human Acts",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10 — Que a predestinação divina não impõe necessidade aos atos humanos"
       }
     }
   ]
