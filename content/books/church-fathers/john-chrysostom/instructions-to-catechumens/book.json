@@ -2,13 +2,16 @@
   "id": "john-chrysostom-instructions-to-catechumens",
   "cover": "quarter",
   "name": {
-    "en-US": "Instructions to Catechumens"
+    "en-US": "Instructions to Catechumens",
+    "pt-BR": "Instruções aos Catecúmenos"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Instructions to Catechumens"
+        "en-US": "Instructions to Catechumens",
+        "pt-BR": "Instruções aos Catecúmenos"
       }
     }
   ]
