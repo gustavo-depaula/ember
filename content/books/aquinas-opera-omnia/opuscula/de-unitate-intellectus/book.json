@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On the Unity of the Intellect against the Averroists",
-    "la": "De Unitate Intellectus contra Averroistas"
+    "la": "De Unitate Intellectus contra Averroistas",
+    "pt-BR": "Da Unidade do Intelecto contra os Averroístas"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's most direct attack on the Latin Averroist thesis (held by Siger of Brabant and others at Paris) that there is one separate intellectual soul shared by all human beings.",
-    "la": "Impugnatio Thomae directissima theseos Averroistarum Latinorum (Sigeri Brabantini et aliorum Parisius) unam animam intellectivam separatam omnibus hominibus communem esse."
+    "la": "Impugnatio Thomae directissima theseos Averroistarum Latinorum (Sigeri Brabantini et aliorum Parisius) unam animam intellectivam separatam omnibus hominibus communem esse.",
+    "pt-BR": "O ataque mais direto de Tomás de Aquino à tese dos averroístas latinos (sustentada por Siger de Brabante e outros em Paris) de que há uma só alma intelectiva separada, comum a todos os seres humanos."
   },
   "composed": "1270",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,35 +39,40 @@
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Chapter 2",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Chapter 3",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Chapter 4",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Chapter 5",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5"
       }
     }
   ]
