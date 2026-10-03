@@ -2,13 +2,16 @@
   "id": "ephraim-admonition-and-repentance",
   "cover": "quarter",
   "name": {
-    "en-US": "On Admonition and Repentance"
+    "en-US": "On Admonition and Repentance",
+    "pt-BR": "Sobre a Admoestação e a Penitência"
   },
   "author": {
-    "en-US": "Ephraim the Syrian (306-373)"
+    "en-US": "Ephraim the Syrian (306-373)",
+    "pt-BR": "Santo Efrém (306-373)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Admonition and Repentance"
+        "en-US": "On Admonition and Repentance",
+        "pt-BR": "Sobre a Admoestação e a Penitência"
       }
     }
   ]
