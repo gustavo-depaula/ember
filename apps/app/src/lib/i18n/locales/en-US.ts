@@ -994,6 +994,10 @@ export default {
     prayerCount_other: '{{count}} prayers',
     bookCount_one: '{{count}} book',
     bookCount_other: '{{count}} books',
+    readingCount_one: '{{count}} reading',
+    readingCount_other: '{{count}} readings',
+    collectionCount_one: '{{count}} collection',
+    collectionCount_other: '{{count}} collections',
   },
 
   boot: {

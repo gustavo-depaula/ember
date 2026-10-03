@@ -4,7 +4,7 @@ import { useWindowDimensions } from 'react-native'
 import { Text, XStack, YStack } from 'tamagui'
 
 import { PageHeader, ScreenLayout } from '@/components'
-import { getCollectionItems, getEntriesByKind } from '@/content/contentIndex'
+import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { collectionHref, warmCollection } from '@/features/collections'
@@ -17,9 +17,17 @@ import { localizeContent } from '@/lib/i18n'
 type CollectionRow = {
   id: string
   name: string
-  practiceCount: number
   entry: CatalogEntry
 }
+
+// What a collection holds, in the order a reader cares about. A shelf of books
+// is not "0 practices", so each kind is named and the absent ones are left out.
+const countKeys = [
+  ['book', 'catalog.bookCount'],
+  ['practice', 'catalog.practiceCount'],
+  ['chapter', 'catalog.readingCount'],
+  ['collection', 'catalog.collectionCount'],
+] as const
 
 // Two square jewel cards across the standard ScreenLayout column (max 640,
 // $lg = 24 each side). Square reads as a quarry/illuminated block — collections
@@ -49,12 +57,7 @@ export default function AllCollectionsScreen() {
       const name =
         localizeContent(((entry as CatalogEntry).name ?? {}) as Record<string, string>) ||
         bareId(id)
-      out.push({
-        id,
-        name,
-        practiceCount: getCollectionItems(id).filter((i) => i.entry?.kind === 'practice').length,
-        entry,
-      })
+      out.push({ id, name, entry })
     }
     out.sort((a, b) => a.name.localeCompare(b.name))
     return out
@@ -86,10 +89,12 @@ export default function AllCollectionsScreen() {
               <ArtCoverCard
                 key={c.id}
                 title={c.name}
-                subtitle={t('catalog.practiceCount', {
-                  count: c.practiceCount,
-                  defaultValue: `${c.practiceCount} items`,
-                })}
+                subtitle={countKeys
+                  .flatMap(([kind, key]) => {
+                    const count = c.entry.itemCounts?.[kind]
+                    return count ? [t(key, { count })] : []
+                  })
+                  .join(' · ')}
                 image={artFor(c.id)}
                 cover={coverFor(c.entry)}
                 tone={toneForKey(c.id)}

@@ -1000,6 +1000,10 @@ export default {
     prayerCount_other: '{{count}} orações',
     bookCount_one: '{{count}} livro',
     bookCount_other: '{{count}} livros',
+    readingCount_one: '{{count}} leitura',
+    readingCount_other: '{{count}} leituras',
+    collectionCount_one: '{{count}} coleção',
+    collectionCount_other: '{{count}} coleções',
   },
 
   boot: {

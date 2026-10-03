@@ -24,16 +24,26 @@ import type {
   CollectionItemManifest,
   PracticeManifest,
 } from '@/content/manifestTypes'
-import { articleAspect, coverFor, GeneratedCover } from '@/features/covers'
+import { useBookManifest } from '@/features/books/hooks'
+import { articleAspect, coverFor, GeneratedCover, type TileCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { blockInk, toneByIndex } from '@/features/explore/bgColor'
+import { findTocNode } from '@/features/explore/meditationSubtitle'
 import { useAllSlots } from '@/features/plan-of-life'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { localizeContent } from '@/lib/i18n'
 import { collectionHref } from './navigation'
 
+// `book/<id>#<chapter>` names one chapter of a book — a single encyclical out
+// of a volume of them — so the catalog entry is the book's.
+function splitChapterRef(ref: string): { itemRef: string; bookChapter?: string } {
+  const hash = ref.indexOf('#')
+  if (hash === -1) return { itemRef: ref }
+  return { itemRef: ref.slice(0, hash), bookChapter: ref.slice(hash + 1) }
+}
+
 export function isReadingRef(ref: string): boolean {
-  const entry = getEntry(ref)
+  const entry = getEntry(splitChapterRef(ref).itemRef)
   return entry?.kind === 'book' || entry?.kind === 'chapter'
 }
 
@@ -73,8 +83,11 @@ export function CollectionTile({
   series?: string
 }) {
   const allSlots = useAllSlots()
-  const entry = getEntry(item.ref)
-  const id = bareId(item.ref)
+  const { itemRef, bookChapter } = splitChapterRef(item.ref)
+  const entry = getEntry(itemRef)
+  const id = bareId(itemRef)
+  // Book manifests aren't warmed, and the chapter's title lives in the book's TOC.
+  const chapterBook = useBookManifest(bookChapter ? id : undefined).data
   const tone = toneByIndex(toneIndexForRef(item.ref))
 
   let title = item.label
@@ -83,7 +96,12 @@ export function CollectionTile({
   let href: Href
   let inPlan = false
 
-  if (entry?.kind === 'book') {
+  if (entry?.kind === 'book' && bookChapter) {
+    title = title ??
+      findTocNode(chapterBook?.toc, bookChapter)?.title ??
+      entry.name ?? { 'en-US': id }
+    href = { pathname: '/browse/book/[bookId]/read', params: { bookId: id, chapter: bookChapter } }
+  } else if (entry?.kind === 'book') {
     const body = getRememberedManifest<BookEntry>(entry.hash)
     title = title ?? body?.name ?? entry.name ?? { 'en-US': id }
     href = { pathname: '/browse/book/[bookId]', params: { bookId: id } }
@@ -113,7 +131,8 @@ export function CollectionTile({
   const label = localizeContent(title)
   const cover = (() => {
     if (image || !entry || typeof width !== 'number') return undefined
-    const c = coverFor(entry)
+    // One chapter out of a book reads as a tract, not as the whole volume.
+    const c: TileCover | undefined = bookChapter ? { kind: 'article' } : coverFor(entry)
     return c?.kind === 'article' ? { ...c, kicker: series } : c
   })()
   // A small kicker glyph, not a hero illustration — the headline leads.

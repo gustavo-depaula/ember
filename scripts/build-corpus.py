@@ -1141,7 +1141,9 @@ def _count_collection_items(
         if kind == "item":
             n += 1
             if by_kind is not None:
-                ref_kind = str(b.get("ref", "")).split("/", 1)[0]
+                ref = str(b.get("ref", ""))
+                # `book/<id>#<chapter>` is one chapter of a book, not a volume.
+                ref_kind = "chapter" if "#" in ref else ref.split("/", 1)[0]
                 by_kind[ref_kind] = by_kind.get(ref_kind, 0) + 1
         elif kind == "section":
             if depth >= 1:
