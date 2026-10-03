@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On the Blend of the Elements",
-    "la": "De Mixtione Elementorum"
+    "la": "De Mixtione Elementorum",
+    "pt-BR": "Da Mistura dos Elementos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short consultation on the natural-philosophical question of how the four elements combine in a compound — whether they remain actually or only virtually.",
-    "la": "Responsum breve de quaestione philosophica naturali quomodo quattuor elementa in mixto componantur — utrum actu vel solum virtute manserint."
+    "la": "Responsum breve de quaestione philosophica naturali quomodo quattuor elementa in mixto componantur — utrum actu vel solum virtute manserint.",
+    "pt-BR": "Breve consulta sobre a questão filosófico-natural de como os quatro elementos se compõem no misto — se nele permanecem em ato ou apenas em virtude."
   },
   "composed": "c. 1270–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch001",
       "title": {
         "en-US": "On the Blend of the Elements",
-        "la": "De Mixtione Elementorum"
+        "la": "De Mixtione Elementorum",
+        "pt-BR": "Da Mistura dos Elementos"
       }
     }
   ]
