@@ -231,19 +231,17 @@ function PracticeSheet({ actions }: { actions: Actions }) {
   const categories = (manifest.categories ?? [])
     .map((c) => t(`category.${c}`, { defaultValue: c }))
     .join(' · ')
-  // A single detent sized to the content: the native host gives the RN tree no
-  // height of its own, so the ScrollView inside needs an explicit one.
-  const fraction = Math.min(0.85, 0.2 + (group ? 0.05 + group.members.length * 0.066 : 0))
 
   return (
     <BottomSheet
       index={actions.sheetOpen ? 0 : -1}
-      snapPoints={[`${fraction * 100}%`]}
+      // No snapPoints: the sheet sizes to its content. An estimated detent left
+      // the actions' labels below the floating sheet's edge.
       enablePanDownToClose
       onClose={actions.closeSheet}
       backgroundStyle={{ backgroundColor: theme.background?.val }}
     >
-      <YStack height={height * fraction} width="100%" paddingHorizontal="$lg" paddingTop="$lg">
+      <YStack width="100%" paddingHorizontal="$lg" paddingTop="$lg" paddingBottom="$md">
         <YStack alignItems="center" gap="$xs">
           <Typography variant="sacred-title" fontSize={26} lineHeight={34}>
             {localizeContent(manifest.name)}
@@ -261,8 +259,10 @@ function PracticeSheet({ actions }: { actions: Actions }) {
             It only takes the room the list needs, so the actions follow it. */}
         <ScrollView
           {...pullDown(actions.closeSheet)}
+          // The native host gives the RN tree no height of its own: a long list
+          // of forms scrolls within a bound rather than growing the sheet.
+          maxHeight={height * 0.5}
           flexGrow={0}
-          flexShrink={1}
           marginHorizontal={-8}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{ paddingTop: 14, paddingBottom: 8, paddingHorizontal: 8 }}
