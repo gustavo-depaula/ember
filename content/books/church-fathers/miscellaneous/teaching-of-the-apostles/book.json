@@ -2,13 +2,16 @@
   "id": "miscellaneous-teaching-of-the-apostles",
   "cover": "quarter",
   "name": {
-    "en-US": "The Teaching of the Apostles (unknown date)"
+    "en-US": "The Teaching of the Apostles (unknown date)",
+    "pt-BR": "O Ensinamento dos Apóstolos (data desconhecida)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Teaching of the Apostles (unknown date)"
+        "en-US": "The Teaching of the Apostles (unknown date)",
+        "pt-BR": "O Ensinamento dos Apóstolos (data desconhecida)"
       }
     }
   ]
