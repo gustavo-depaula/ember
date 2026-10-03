@@ -2,13 +2,16 @@
   "id": "rufinus-commentary-on-the-apostles-creed",
   "cover": "quarter",
   "name": {
-    "en-US": "Commentary on the Apostles' Creed"
+    "en-US": "Commentary on the Apostles' Creed",
+    "pt-BR": "Comentário ao Símbolo dos Apóstolos"
   },
   "author": {
-    "en-US": "Rufinus"
+    "en-US": "Rufinus",
+    "pt-BR": "Rufino"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Commentary on the Apostles' Creed"
+        "en-US": "Commentary on the Apostles' Creed",
+        "pt-BR": "Comentário ao Símbolo dos Apóstolos"
       }
     }
   ]
