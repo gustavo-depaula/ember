@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Rigans Montes (Inaugural Sermon I)",
-    "la": "Rigans Montes (Principium I)"
+    "la": "Rigans Montes (Principium I)",
+    "pt-BR": "Rigans Montes (Sermão Inaugural I)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's first inaugural sermon as Master of Theology at Paris (Spring 1256), preached on Psalm 103:13 — *Rigans montes de superioribus suis*. A meditation on the dignity of Sacred Scripture.",
-    "la": "Sermo principalis primus Thomae cum suscepta licentia magistri in theologia Parisiis (vere 1256), de Psalmo CIII, 13 — *Rigans montes de superioribus suis*. Meditatio de dignitate Sacrae Scripturae."
+    "la": "Sermo principalis primus Thomae cum suscepta licentia magistri in theologia Parisiis (vere 1256), de Psalmo CIII, 13 — *Rigans montes de superioribus suis*. Meditatio de dignitate Sacrae Scripturae.",
+    "pt-BR": "Primeiro sermão inaugural de Tomás de Aquino como mestre em Teologia em Paris (primavera de 1256), sobre o Salmo 103, 13 — *Rigans montes de superioribus suis*. Uma meditação sobre a dignidade da Sagrada Escritura."
   },
   "composed": 1256,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "rigans-c01",
       "title": {
         "en-US": "Watering the Mountains",
-        "la": "Watering the Mountains"
+        "la": "Watering the Mountains",
+        "pt-BR": "Regando os Montes"
       }
     }
   ]
