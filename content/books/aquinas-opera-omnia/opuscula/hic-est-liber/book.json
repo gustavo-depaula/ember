@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Hic est Liber (Inaugural Sermon II)",
-    "la": "Hic est Liber (Principium II)"
+    "la": "Hic est Liber (Principium II)",
+    "pt-BR": "Hic est Liber (Sermão Inaugural II)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's second inaugural sermon as Master at Paris — *Hic est liber mandatorum Dei* — the *commendatio et divisio Sacrae Scripturae* every new master delivered.",
-    "la": "Sermo principalis secundus Thomae magistri Parisiensis — *Hic est liber mandatorum Dei* — *commendatio et divisio Sacrae Scripturae* a novo magistro faciendae."
+    "la": "Sermo principalis secundus Thomae magistri Parisiensis — *Hic est liber mandatorum Dei* — *commendatio et divisio Sacrae Scripturae* a novo magistro faciendae.",
+    "pt-BR": "Segundo sermão inaugural de Tomás de Aquino como mestre em Paris — Este é o livro dos mandamentos de Deus —, o elogio e a divisão da Sagrada Escritura que todo novo mestre apresentava."
   },
   "composed": 1256,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "hicest-c01",
       "title": {
         "en-US": "This is the Book",
-        "la": "This is the Book"
+        "la": "This is the Book",
+        "pt-BR": "Este é o Livro"
       }
     }
   ]
