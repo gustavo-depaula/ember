@@ -322,30 +322,6 @@ export default {
     },
   },
 
-  kyrie: {
-    title: 'Kyrie',
-    homeTagline: 'A rope of simple prayer',
-    invocation: 'Lord Jesus Christ, Son of God, have mercy on me, a sinner.',
-    tap: 'Advance one bead',
-    reset: 'Reset',
-    of: 'of {{target}}',
-    chooseRope: 'Choose the length of your rope',
-  },
-
-  oratio: {
-    title: 'Oratio',
-    close: 'Close',
-    homeTagline: 'Keep watch in mental prayer',
-    invitation:
-      'A quiet space for mental prayer. Choose a duration; the flame will keep watch with you.',
-    presence: 'Remain in His presence.',
-    minutesShort: '{{count}} min',
-    amen: 'Amen · finish now',
-    amenHeading: 'Amen',
-    completeMessage: 'You kept watch for {{minutes}} minutes.',
-    done: 'Return',
-  },
-
   rubric: {
     openingVerse: 'Opening Verse',
     hymn: 'Hymn',

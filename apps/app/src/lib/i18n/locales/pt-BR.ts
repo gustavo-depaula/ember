@@ -327,30 +327,6 @@ export default {
     },
   },
 
-  kyrie: {
-    title: 'Kyrie',
-    homeTagline: 'Uma corda de ora\u00e7\u00e3o simples',
-    invocation: 'Senhor Jesus Cristo, Filho de Deus, tende piedade de mim, pecador.',
-    tap: 'Avan\u00e7ar uma conta',
-    reset: 'Reiniciar',
-    of: 'de {{target}}',
-    chooseRope: 'Escolha o comprimento da sua corda',
-  },
-
-  oratio: {
-    title: 'Oratio',
-    close: 'Fechar',
-    homeTagline: 'Vela em ora\u00e7\u00e3o mental',
-    invitation:
-      'Um espa\u00e7o silencioso para a ora\u00e7\u00e3o mental. Escolha uma dura\u00e7\u00e3o; a chama velar\u00e1 contigo.',
-    presence: 'Permanece na Sua presen\u00e7a.',
-    minutesShort: '{{count}} min',
-    amen: 'Am\u00e9m \u00b7 terminar agora',
-    amenHeading: 'Am\u00e9m',
-    completeMessage: 'Velaste por {{minutes}} minutos.',
-    done: 'Voltar',
-  },
-
   rubric: {
     openingVerse: 'Vers\u00edculo de Abertura',
     hymn: 'Hino',

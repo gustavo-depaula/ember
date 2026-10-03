@@ -3,8 +3,6 @@ import {
   BookMarked,
   BookOpen,
   Church,
-  CircleDot,
-  Flame,
   Library as LibraryIcon,
   Music,
   Sparkle,
@@ -96,8 +94,6 @@ export default function SearchScreen() {
         href: { pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } },
       },
       { key: 'bible', title: t('home.bible'), icon: BookOpen, href: '/bible' },
-      { key: 'oratio', title: t('oratio.title'), icon: Flame, href: '/oratio' },
-      { key: 'kyrie', title: t('kyrie.title'), icon: CircleDot, href: '/kyrie' },
     ],
     [t],
   )
