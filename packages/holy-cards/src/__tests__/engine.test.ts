@@ -130,6 +130,14 @@ describe('The Divine Office', () => {
     expect(at('brazil', office('2026-10-25'))).not.toContain('frei_galvao')
     expect(at('brazil', mass('2026-10-25')[0])).toContain('frei_galvao')
   })
+
+  it("never gives a regional saint at another region's Mass of the same date", () => {
+    // 9 June: Ephrem everywhere, and Anchieta too in Brazil.
+    const at = (scope: string) =>
+      grants(input(mass('2026-06-09'), { calendar: { statics, scope } })).flatMap((g) => g.choice)
+    expect(at('brazil')).toEqual(expect.arrayContaining(['ephrem', 'jose_anchieta']))
+    expect(at('universal')).not.toContain('jose_anchieta')
+  })
 })
 
 describe('Seasons', () => {

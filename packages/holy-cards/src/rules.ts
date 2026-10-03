@@ -46,19 +46,28 @@ export function celebrates(celebration: string | undefined, ref: string): boolea
  * date, outranked or not, in order of precedence — or, when none has a card,
  * a liturgical card drawn at redeem.
  */
-export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
-  datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
+export const massRule: Rule = ({ acts, calendar, catalog }, since) => {
+  // A card of another region's calendar (`sanctorale.06-09.brazil`) would
+  // otherwise pass for a variant of the universal saint that day (Ephrem's
+  // `sanctorale.06-09`): outside its region it comes only through the Office.
+  const sanctoral = new Set(calendar.statics.sanctoral.map((e) => e.formularyRef))
+  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, calendar.scope)
+  const atMass = catalog.saints.filter(
+    (s) => !s.celebration || !sanctoral.has(s.celebration) || onCalendar.has(s.celebration),
+  )
+  return datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
     const celebrations = ofDateCelebrations(toDate(date), calendar.statics, {
       scope: calendar.scope,
     })
     const saints = celebrations.flatMap((c) =>
-      catalog.saints.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
+      atMass.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
     )
     const base = { id: `mass:${date}`, door: 'mass' as const, date, deadline: nextDay(date) }
     if (saints.length > 0) return [{ ...base, choice: saints }]
     if (catalog.liturgical.length === 0) return []
     return [{ ...base, choice: catalog.liturgical, drawn: true }]
   })
+}
 
 /**
  * The Office gives the saints who have no Mass on the user's calendar, each on
