@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "A Letter on Credit Sales and Usury",
-    "la": "De Emptione et Venditione ad Tempus"
+    "la": "De Emptione et Venditione ad Tempus",
+    "pt-BR": "Da Compra e Venda a Prazo"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short consultation on the moral status of selling at higher prices on credit, written to Master James of Viterbo.",
-    "la": "Responsum breve de statu morali venditionis ad pretium maius ad tempus, ad magistrum Iacobum Viterbiensem compositum."
+    "la": "Responsum breve de statu morali venditionis ad pretium maius ad tempus, ad magistrum Iacobum Viterbiensem compositum.",
+    "pt-BR": "Breve resposta sobre a moralidade de vender a preço maior a prazo, escrita ao mestre Tiago de Viterbo."
   },
   "composed": "c. 1262",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch001",
       "title": {
         "en-US": "A Letter on Credit Sales and Usury",
-        "la": "De Emptione et Venditione ad Tempus"
+        "la": "De Emptione et Venditione ad Tempus",
+        "pt-BR": "Da Compra e Venda a Prazo"
       }
     }
   ]
