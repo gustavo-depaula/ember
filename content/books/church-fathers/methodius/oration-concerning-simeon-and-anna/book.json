@@ -2,13 +2,16 @@
   "id": "methodius-oration-concerning-simeon-and-anna",
   "cover": "quarter",
   "name": {
-    "en-US": "Oration Concerning Simeon and Anna"
+    "en-US": "Oration Concerning Simeon and Anna",
+    "pt-BR": "Discurso sobre Simeão e Ana"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Oration Concerning Simeon and Anna"
+        "en-US": "Oration Concerning Simeon and Anna",
+        "pt-BR": "Discurso sobre Simeão e Ana"
       }
     }
   ]
