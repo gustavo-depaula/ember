@@ -24,10 +24,30 @@ const webShims = {
 	'@expo/ui/swift-ui/modifiers': path.resolve(__dirname, 'src/lib/web-shims/swift-ui.tsx'),
 }
 
+// Android stand-ins. The bottom sheet: Material's modal sheet ignores a lone
+// snap point and opens full-screen, so the stand-in sizes the sheet to that
+// point. The date/time picker: `@expo/ui`'s Material 3 pickers in place of the
+// community library's AppCompat dialogs. The first wraps the module it
+// replaces, so its own import of it passes through.
+const androidShims = {
+	'@expo/ui/community/bottom-sheet': path.resolve(
+		__dirname,
+		'src/lib/android-shims/bottom-sheet.tsx',
+	),
+	'@react-native-community/datetimepicker': path.resolve(
+		__dirname,
+		'src/lib/android-shims/datetime-picker.tsx',
+	),
+}
+
 const defaultResolveRequest = config.resolver.resolveRequest
 config.resolver.resolveRequest = (context, moduleName, platform) => {
 	const shim = platform === 'web' ? webShims[moduleName] : undefined
 	if (shim) return { type: 'sourceFile', filePath: shim }
+	const androidShim = platform === 'android' ? androidShims[moduleName] : undefined
+	if (androidShim && context.originModulePath !== androidShim) {
+		return { type: 'sourceFile', filePath: androidShim }
+	}
 	return (defaultResolveRequest ?? context.resolveRequest)(context, moduleName, platform)
 }
 

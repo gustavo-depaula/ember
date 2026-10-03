@@ -48,13 +48,20 @@
       [
         "expo-build-properties",
         {
-          "ios": { "deploymentTarget": "16.4" }
+          "ios": { "deploymentTarget": "16.4" },
+          "android": { "enableMinifyInReleaseBuilds": true }
         }
       ],
       "expo-router",
       "expo-sqlite",
       "expo-font",
-      "expo-notifications",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#C9A84C"
+        }
+      ],
       "expo-audio",
       "expo-image",
       "expo-localization",
@@ -74,6 +81,8 @@
       "expo-status-bar",
       "expo-web-browser",
       "@react-native-community/datetimepicker",
+      "./plugins/withAndroidTheme",
+      "./plugins/withAndroidGradleMemory",
       [
         "expo-splash-screen",
         {

@@ -1,3 +1,4 @@
+import { Platform } from 'react-native'
 import { create } from 'zustand'
 
 // Native iOS 26 glass tab bar content height + breathing room. Every screen is
@@ -20,3 +21,14 @@ export function setTabAccessoryHeight(height: number): void {
 export function useBottomClearance(): number {
   return nativeTabBarClearance + useTabAccessoryStore((s) => s.height)
 }
+
+// The floating Android bar: its height plus the gap beneath it.
+const androidTabBarLift = 76
+
+/**
+ * How far a control docked to the screen's bottom edge must lift, beyond the
+ * safe-area inset, to clear the tab bar. On iOS the inset already accounts for
+ * the native bar; the Android bar floats over the screen and the inset knows
+ * nothing of it.
+ */
+export const dockedTabBarLift = Platform.OS === 'android' ? androidTabBarLift : 0

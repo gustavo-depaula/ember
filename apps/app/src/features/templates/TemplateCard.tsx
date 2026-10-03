@@ -1,5 +1,5 @@
 import { Image } from 'expo-image'
-import { StyleSheet } from 'react-native'
+import { Platform, StyleSheet } from 'react-native'
 import { Text, YStack } from 'tamagui'
 
 import { AnimatedPressable, ZoomLink } from '@/components'
@@ -78,7 +78,15 @@ export function TemplateCard({
             {name}
           </Typography>
           {description && (
-            <Typography marginTop={-10} variant="caption" tone="muted" numberOfLines={2}>
+            // The name's leading is tighter than its size. iOS leaves the slack
+            // under the last line, so the caption tucks up into it; Android
+            // sets that line flush with the box's bottom edge.
+            <Typography
+              marginTop={Platform.OS === 'android' ? 4 : -10}
+              variant="caption"
+              tone="muted"
+              numberOfLines={2}
+            >
               {description}
             </Typography>
           )}

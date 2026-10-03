@@ -264,19 +264,6 @@ vi.mock('expo-font', () => ({
   Font: {},
 }))
 
-// Every @expo-google-fonts/* package re-exports the same shape (font name
-// constants). Stubbing each as a Proxy that returns its key as the value —
-// vi.mock is hoisted, so factories must be inline (can't reference outer vars).
-vi.mock('@expo-google-fonts/cinzel', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/cormorant-garamond', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/crimson-pro', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/eb-garamond', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/libre-baskerville', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/lora', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/merriweather', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/pinyon-script', () => new Proxy({}, { get: (_t, k) => k }))
-vi.mock('@expo-google-fonts/source-serif-4', () => new Proxy({}, { get: (_t, k) => k }))
-
 // `expo-crypto` pulls `expo-modules-core`'s `ExpoGlobal.EventEmitter` at import
 // time, which is undefined under jsdom (no Expo native host). Stub the only
 // surface our code uses (digestStringAsync) using Node's built-in `crypto`.

@@ -1,17 +1,7 @@
-import { BottomSheet, Group, Host, RNHostView } from '@expo/ui/swift-ui'
-import {
-  ignoreSafeArea,
-  interactiveDismissDisabled,
-  type PresentationDetent,
-  presentationBackground,
-  presentationBackgroundInteraction,
-  presentationDetents,
-  presentationDragIndicator,
-} from '@expo/ui/swift-ui/modifiers'
 import { CalendarCheck, ChevronLeft, ChevronRight, Search, X } from 'lucide-react-native'
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FlatList, ScrollView, StyleSheet, View } from 'react-native'
+import { BackHandler, FlatList, ScrollView, StyleSheet, View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Skeleton, Typography } from '@/components'
@@ -29,6 +19,7 @@ import { type ChurchRowData, ChurchSearchRow } from './ChurchSearchRow'
 import { FilterChips } from './FilterChips'
 import { useGlassTile } from './glass'
 import { LocationBar } from './LocationBar'
+import { MapSheet, type SheetDetent } from './MapSheet'
 import { MassLog } from './MassLog'
 import type { CameraIdle } from './NativeChurchesMap'
 import { QueryError } from './QueryError'
@@ -38,22 +29,9 @@ import { clockFigures, Hairline, SectionLabel } from './SheetType'
 type Selected = { id: string; name: string; lat?: number; lng?: number }
 type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
 
-// Stable detent identities (the native selection compares by value — keep them steady). PEEK is a fixed
-// height sized to the search bar (grabber + search row + home-indicator inset), so minimized the sheet
-// shrinks to just the search field, Apple-Maps style — not a fraction that leaves content peeking.
-const PEEK: PresentationDetent = { height: 96 }
-const HALF: PresentationDetent = { fraction: 0.55 }
-const FULL: PresentationDetent = 'large'
-const DETENTS = [PEEK, HALF, FULL]
-
-// The whole map + sheet surface, the Apple Maps way. Everything lives in ONE SwiftUI `Host`: the map
-// is the Host's background content (so `presentationBackgroundInteraction` keeps it LIVE behind the
-// sheet), and the native `BottomSheet` rides over it. Tapping a pin or row swaps the sheet to that
-// church's detail in place (and swings the map to it) — never a new page.
-// Paper with the map faintly behind it: the default sheet glass lets the map's colours wash through
-// the text, a solid sheet loses the sense of the map underneath.
-const sheetOpacity = 'CC'
-
+// The whole map + sheet surface, the Apple Maps way: the live map behind, a sheet riding over it that
+// never leaves. Tapping a pin or row swaps the sheet to that church's detail in place (and swings the
+// map to it) — never a new page. `MapSheet` is the platform's way of drawing the two together.
 export function ChurchSheet({
   nearby,
   locale,
@@ -69,14 +47,13 @@ export function ChurchSheet({
 }) {
   // One mode at a time: browse/search, a selected church's detail, or the check-in log. A discriminated
   // union (not two booleans) keeps the three exclusive and carries the selected church with the detail.
-  const theme = useTheme()
   const [view, setView] = useState<SheetView>({ kind: 'browse' })
-  const [detent, setDetent] = useState<PresentationDetent>(PEEK)
+  const [detent, setDetent] = useState<SheetDetent>('peek')
   const [query, setQuery] = useState('')
 
   const openDetail = (church: Selected) => {
     setView({ kind: 'detail', church })
-    setDetent(HALF) // lift the sheet so the detail is visible
+    setDetent('half') // lift the sheet so the detail is visible
   }
   const browse = () => setView({ kind: 'browse' })
 
@@ -94,74 +71,57 @@ export function ChurchSheet({
         }
       : undefined
 
-  return (
-    // ignoreSafeArea="all" so the hosted map bleeds edge to edge (through the notch + home indicator)
-    // instead of the SwiftUI host insetting it and leaving black bars.
-    <Host style={StyleSheet.absoluteFill} ignoreSafeArea="all">
-      <RNHostView>
-        <View style={styles.fill}>
-          <ChurchesMap
-            nearby={nearby}
-            focused={focused}
-            onSelectChurch={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
-            onDismiss={browse}
-            onRegionChange={onRegionChange}
-          />
-        </View>
-      </RNHostView>
+  // Android's Back steps out of a church or the log to the list before it leaves the screen.
+  const inBrowse = view.kind === 'browse'
+  useEffect(() => {
+    if (inBrowse) return
+    const sub = BackHandler.addEventListener('hardwareBackPress', () => {
+      setView({ kind: 'browse' })
+      return true
+    })
+    return () => sub.remove()
+  }, [inBrowse])
 
-      <BottomSheet isPresented onIsPresentedChange={noop}>
-        <Group
-          modifiers={[
-            presentationDetents(DETENTS, { selection: detent, onSelectionChange: setDetent }),
-            presentationBackground(`${theme.background?.val ?? '#FFFFFF'}${sheetOpacity}`),
-            presentationBackgroundInteraction('enabled'),
-            interactiveDismissDisabled(true),
-            presentationDragIndicator('visible'),
-            // Let the content fill through the home-indicator safe area instead of stopping above it
-            // and leaving a bare strip of sheet material (the "footer" seam).
-            ignoreSafeArea({ edges: 'bottom' }),
-          ]}
-        >
-          <RNHostView>
-            <View style={styles.fill}>
-              {view.kind === 'detail' ? (
-                // Keyed by church so switching pins resets the pane — scroll position and the
-                // check-in and feedback forms belong to the church they were opened on.
-                <ChurchDetailPane key={view.church.id} churchId={view.church.id} onBack={browse} />
-              ) : view.kind === 'log' ? (
-                <LogPane
-                  onBack={browse}
-                  onSelectChurch={(c) => openDetail({ id: c.id, name: c.name })}
-                />
-              ) : (
-                <BrowseSearch
-                  nearby={nearby}
-                  locale={locale}
-                  filter={filter}
-                  onFilter={onFilter}
-                  query={query}
-                  onQuery={setQuery}
-                  onFocusSearch={() => setDetent(FULL)}
-                  onOpenLog={() => {
-                    setView({ kind: 'log' })
-                    setDetent(HALF)
-                  }}
-                  onSelectNearby={(c) =>
-                    openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })
-                  }
-                  onSelectRow={(c) => openDetail({ id: c.id, name: c.name })}
-                />
-              )}
-            </View>
-          </RNHostView>
-        </Group>
-      </BottomSheet>
-    </Host>
+  return (
+    <MapSheet
+      detent={detent}
+      onDetent={setDetent}
+      map={
+        <ChurchesMap
+          nearby={nearby}
+          focused={focused}
+          onSelectChurch={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+          onDismiss={browse}
+          onRegionChange={onRegionChange}
+        />
+      }
+    >
+      {view.kind === 'detail' ? (
+        // Keyed by church so switching pins resets the pane — scroll position and the
+        // check-in and feedback forms belong to the church they were opened on.
+        <ChurchDetailPane key={view.church.id} churchId={view.church.id} onBack={browse} />
+      ) : view.kind === 'log' ? (
+        <LogPane onBack={browse} onSelectChurch={(c) => openDetail({ id: c.id, name: c.name })} />
+      ) : (
+        <BrowseSearch
+          nearby={nearby}
+          locale={locale}
+          filter={filter}
+          onFilter={onFilter}
+          query={query}
+          onQuery={setQuery}
+          onFocusSearch={() => setDetent('full')}
+          onOpenLog={() => {
+            setView({ kind: 'log' })
+            setDetent('half')
+          }}
+          onSelectNearby={(c) => openDetail({ id: c.id, name: c.name, lat: c.lat, lng: c.lng })}
+          onSelectRow={(c) => openDetail({ id: c.id, name: c.name })}
+        />
+      )}
+    </MapSheet>
   )
 }
-
-function noop() {}
 
 // Place mode: the full church detail in the sheet, with a back affordance to the browse list.
 function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {

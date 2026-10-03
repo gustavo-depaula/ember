@@ -1381,6 +1381,8 @@ export default {
     },
   },
   a11y: {
+    recenterMap: 'Centre the map on your location',
+    clearSearch: 'Clear the search',
     openHolyCard: 'Open the holy card envelope',
     chooseSaint: 'Choose {{name}}',
     amenOpen: 'Say Amen and open the envelope',

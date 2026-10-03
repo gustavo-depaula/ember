@@ -15,6 +15,54 @@ export { getDb }
 
 type DbState = { success: boolean; error: unknown }
 
+// Opening happens once per JS runtime, however often the root mounts. Android
+// tears the activity down and builds it again inside a live runtime — Back out
+// of the app and reopen it, or the system reclaiming it in the background — and
+// the root layout mounts afresh. A second `openDatabaseAsync` then gets
+// expo-sqlite's cached connection; the first handle is garbage-collected, which
+// closes the connection the cache still hands out, and every query after that
+// fails with a NullPointerException.
+let opening: Promise<void> | undefined
+
+async function openDb() {
+  if (Platform.OS === 'web') {
+    // Web: leader-elect via Web Locks; only the leader opens the OPFS-backed
+    // SQLite file. Followers proxy SQL through BroadcastChannel.
+    const { initEmberDb } = await import('@/lib/db-shared/manager')
+    const proxy = await initEmberDb()
+    setDb(proxy)
+  } else {
+    const rawDb = await openDatabaseAsync('ember.db')
+    // An on-device `commitments` table with a `severity` or
+    // `shield_anchor` column predates the current custody schema, which
+    // `CREATE TABLE IF NOT EXISTS` can't reshape: drop the custody tables
+    // so the migration recreates them. A no-op once they're current.
+    const legacy = await rawDb.getFirstAsync<{ sql: string | null }>(
+      "SELECT sql FROM sqlite_master WHERE type='table' AND name='commitments'",
+    )
+    if (legacy?.sql?.includes('severity') || legacy?.sql?.includes('shield_anchor')) {
+      await rawDb.execAsync(
+        'DROP TABLE IF EXISTS commitment_events; DROP TABLE IF EXISTS custody_sessions; DROP TABLE IF EXISTS commitments;',
+      )
+    }
+    await rawDb.execAsync(initialMigration)
+    const adapted = adaptNativeDb(rawDb)
+    await createEventsTable(adapted)
+    setDb(adapted)
+  }
+
+  await replayAll()
+}
+
+function openDbOnce(): Promise<void> {
+  opening ??= openDb().catch((err) => {
+    // A failed open is not remembered, so the next mount tries again.
+    opening = undefined
+    throw err
+  })
+  return opening
+}
+
 export function useDbInit() {
   const [state, dispatch] = useReducer(
     (_prev: DbState, action: { type: 'done' } | { type: 'error'; error: unknown }) => {
@@ -26,44 +74,10 @@ export function useDbInit() {
 
   useEffect(() => {
     let cancelled = false
-
-    async function init() {
-      try {
-        if (Platform.OS === 'web') {
-          // Web: leader-elect via Web Locks; only the leader opens the OPFS-backed
-          // SQLite file. Followers proxy SQL through BroadcastChannel.
-          const { initEmberDb } = await import('@/lib/db-shared/manager')
-          const proxy = await initEmberDb()
-          setDb(proxy)
-        } else {
-          const rawDb = await openDatabaseAsync('ember.db')
-          // An on-device `commitments` table with a `severity` or
-          // `shield_anchor` column predates the current custody schema, which
-          // `CREATE TABLE IF NOT EXISTS` can't reshape: drop the custody tables
-          // so the migration recreates them. A no-op once they're current.
-          const legacy = await rawDb.getFirstAsync<{ sql: string | null }>(
-            "SELECT sql FROM sqlite_master WHERE type='table' AND name='commitments'",
-          )
-          if (legacy?.sql?.includes('severity') || legacy?.sql?.includes('shield_anchor')) {
-            await rawDb.execAsync(
-              'DROP TABLE IF EXISTS commitment_events; DROP TABLE IF EXISTS custody_sessions; DROP TABLE IF EXISTS commitments;',
-            )
-          }
-          await rawDb.execAsync(initialMigration)
-          const adapted = adaptNativeDb(rawDb)
-          await createEventsTable(adapted)
-          setDb(adapted)
-        }
-
-        await replayAll()
-
-        if (!cancelled) dispatch({ type: 'done' })
-      } catch (err) {
-        if (!cancelled) dispatch({ type: 'error', error: err })
-      }
-    }
-
-    init()
+    openDbOnce().then(
+      () => !cancelled && dispatch({ type: 'done' }),
+      (error) => !cancelled && dispatch({ type: 'error', error }),
+    )
     return () => {
       cancelled = true
     }
@@ -80,6 +94,7 @@ export async function resetDatabase() {
     // db not initialized, nothing to close
   }
   setDb(undefined)
+  opening = undefined
   await deleteDatabaseAsync('ember.db')
 
   if (Platform.OS === 'web') {

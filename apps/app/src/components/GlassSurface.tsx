@@ -10,7 +10,17 @@
 import { BlurView } from 'expo-blur'
 import { GlassView, isLiquidGlassAvailable } from 'expo-glass-effect'
 import { type ReactNode, useEffect, useState } from 'react'
-import { AccessibilityInfo, Platform, type StyleProp, View, type ViewStyle } from 'react-native'
+import {
+  AccessibilityInfo,
+  Platform,
+  type StyleProp,
+  StyleSheet,
+  View,
+  type ViewStyle,
+} from 'react-native'
+
+import { ChromeSurface } from './chrome'
+import { useGlassBackdrop } from './glassBackdrop'
 
 export const liquidGlassAvailable = Platform.OS === 'ios' && isLiquidGlassAvailable()
 
@@ -37,6 +47,32 @@ function useReduceTransparency() {
   return reduce
 }
 
+function AndroidGlass({
+  isDark,
+  style,
+  children,
+}: {
+  isDark: boolean
+  style: StyleProp<ViewStyle>
+  children?: ReactNode
+}) {
+  const backdrop = useGlassBackdrop()
+  const flat = StyleSheet.flatten(style) ?? {}
+  const radius = typeof flat.borderRadius === 'number' ? flat.borderRadius : 0
+  return (
+    // The callers clip to their radius for iOS's glass; here the surface clips
+    // itself, and the shadow has to escape.
+    <ChromeSurface
+      isDark={isDark}
+      radius={radius}
+      blurTarget={backdrop}
+      style={[style, { overflow: 'visible' }]}
+    >
+      {children}
+    </ChromeSurface>
+  )
+}
+
 export function GlassSurface({
   isDark,
   style,
@@ -51,6 +87,14 @@ export function GlassSurface({
   children?: ReactNode
 }) {
   const reduceTransparency = useReduceTransparency()
+
+  if (Platform.OS === 'android') {
+    return (
+      <AndroidGlass isDark={isDark} style={style}>
+        {children}
+      </AndroidGlass>
+    )
+  }
 
   if (reduceTransparency) {
     return (
@@ -73,8 +117,6 @@ export function GlassSurface({
       </GlassView>
     )
   }
-  // expo-blur on Android falls back to a semi-transparent overlay (no real
-  // blur). Acceptable for a floating pill.
   return (
     <BlurView
       tint={isDark ? 'systemThickMaterialDark' : 'systemThickMaterialLight'}
