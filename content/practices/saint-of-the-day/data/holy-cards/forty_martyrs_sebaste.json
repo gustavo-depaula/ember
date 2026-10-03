@@ -8,6 +8,8 @@
     "en-US": "The Forty Martyrs of Sebaste",
     "pt-BR": "Os Quarenta Mártires de Sebaste"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Soldiers and martyrs",
     "pt-BR": "Soldados e mártires"

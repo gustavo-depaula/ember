@@ -8,6 +8,8 @@
     "en-US": "The Carmelite Martyrs of Compiègne",
     "pt-BR": "Mártires Carmelitas de Compiègne"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Sixteen Carmelites, martyrs of 1794",
     "pt-BR": "Dezesseis carmelitas, mártires de 1794"

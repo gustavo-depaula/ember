@@ -8,6 +8,8 @@
     "en-US": "Sts. Basil the Great and Gregory Nazianzen",
     "pt-BR": "Santos Basílio Magno e Gregório Nazianzeno"
   },
+  "shelf": "bishops",
+  "several": true,
   "patronOf": {
     "en-US": "Bishops and doctors of the Church",
     "pt-BR": "Bispos e doutores da Igreja"

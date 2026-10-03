@@ -8,6 +8,8 @@
     "en-US": "The Martyrs of Damascus",
     "pt-BR": "Mártires de Damasco"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Franciscan friars and Maronite laymen, martyrs",
     "pt-BR": "Frades franciscanos e leigos maronitas, mártires"

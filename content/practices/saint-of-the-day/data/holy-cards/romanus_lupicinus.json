@@ -8,6 +8,8 @@
     "en-US": "Sts. Romanus and Lupicinus",
     "pt-BR": "São Romano e São Lupicino"
   },
+  "shelf": "religious",
+  "several": true,
   "patronOf": {
     "en-US": "Abbots of the Jura",
     "pt-BR": "Abades do Jura"

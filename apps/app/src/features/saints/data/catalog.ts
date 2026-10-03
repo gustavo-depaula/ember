@@ -7,6 +7,7 @@ import {
   type HolyCard,
   type HolyCardKind,
   holyCardKinds,
+  holyCardShelves,
   type RelatedGroup,
   useHolyCards,
 } from '../useHolyCards'
@@ -24,6 +25,10 @@ export type SaintEntry = {
   /** For a card with no feast: its gallery section, and its place in it. */
   kind?: HolyCardKind
   order?: number
+  /** Its shelf in the album. */
+  shelf: AlbumShelf
+  /** Honours more than one person. */
+  several: boolean
   /** Pictorial Lives chapter id powering the encounter's Life slot. */
   lifeChapter?: string
   reflection?: string
@@ -44,6 +49,22 @@ export type SaintEntry = {
 }
 
 export type ContentShelf = { title?: string; refs: string[] }
+
+/**
+ * The album's shelves, in order: the saints and feasts as the Litany of the
+ * Saints ranks them, then the cards of the year, the Rosary and the Mass, each
+ * on the shelf of its kind.
+ */
+export const albumShelves = [...holyCardShelves, 'season', 'rosary', 'mass', 'object'] as const
+export type AlbumShelf = (typeof albumShelves)[number]
+
+function shelfOf(card: HolyCard): AlbumShelf {
+  if (card.shelf) return card.shelf
+  if (card.kind === 'season' || card.kind === 'rosary' || card.kind === 'mass') return card.kind
+  if (card.kind === 'object') return 'object'
+  // A feast or devotion not yet shelved: most are Our Lord's.
+  return card.kind ? 'lord' : 'laity'
+}
 
 function cardImage(id: string): ImageSource {
   return { uri: hearthAssetUrl(`saints/${id}.webp`) }
@@ -80,6 +101,8 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
       feastLabel: c.feast ? feastLabel(c.feast.month, c.feast.day) : undefined,
       kind: c.kind,
       order: c.order,
+      shelf: shelfOf(c),
+      several: !!c.several,
       lifeChapter: c.lifeChapter,
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),

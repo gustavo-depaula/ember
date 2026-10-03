@@ -8,6 +8,8 @@
     "en-US": "Sts. André de Soveral and Companions",
     "pt-BR": "Santos Mártires de Cunhaú e Uruaçu"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Protomartyrs of Brazil",
     "pt-BR": "Protomártires do Brasil"

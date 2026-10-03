@@ -19,7 +19,7 @@ const navGap = 8
 
 export default function SaintsScreen() {
   const { saints } = useSaintsCatalog()
-  const [grouping, setGrouping] = useState<SaintGrouping>('collected')
+  const [grouping, setGrouping] = useState<SaintGrouping>('shelves')
   const [query, setQuery] = useState('')
 
   const searching = query.trim().length > 0

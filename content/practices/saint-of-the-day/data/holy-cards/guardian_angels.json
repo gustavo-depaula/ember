@@ -8,6 +8,8 @@
     "en-US": "The Holy Guardian Angels",
     "pt-BR": "Os Santos Anjos da Guarda"
   },
+  "shelf": "angels",
+  "several": true,
   "patronOf": {
     "en-US": "Guardians of every soul",
     "pt-BR": "Guardiões de cada alma"

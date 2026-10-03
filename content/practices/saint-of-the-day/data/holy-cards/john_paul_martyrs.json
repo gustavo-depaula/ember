@@ -8,6 +8,8 @@
     "en-US": "Sts. John and Paul",
     "pt-BR": "Santos João e Paulo"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Brothers and martyrs of Rome",
     "pt-BR": "Irmãos e mártires de Roma"

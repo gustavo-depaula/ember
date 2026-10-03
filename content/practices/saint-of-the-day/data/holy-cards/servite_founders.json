@@ -8,6 +8,8 @@
     "en-US": "Seven Holy Founders",
     "pt-BR": "Sete Santos Fundadores"
   },
+  "shelf": "religious",
+  "several": true,
   "patronOf": {
     "en-US": "Founders of the Servants of Mary",
     "pt-BR": "Fundadores dos Servos de Maria"

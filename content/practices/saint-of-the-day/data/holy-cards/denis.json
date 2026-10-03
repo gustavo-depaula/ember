@@ -8,6 +8,8 @@
     "en-US": "St. Denis and Companions",
     "pt-BR": "São Dionísio e companheiros"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Bishop of Paris and martyr",
     "pt-BR": "Bispo de Paris e mártir"

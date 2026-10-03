@@ -8,6 +8,8 @@
     "en-US": "The Seven Brothers and St. Felicitas",
     "pt-BR": "Os Sete Irmãos e Santa Felicidade"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Martyrs of Rome",
     "pt-BR": "Mártires de Roma"

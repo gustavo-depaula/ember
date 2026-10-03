@@ -8,6 +8,8 @@
     "en-US": "Sts. Nereus and Achilleus",
     "pt-BR": "Santos Nereu e Aquiles"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Soldiers and martyrs",
     "pt-BR": "Soldados e mártires"

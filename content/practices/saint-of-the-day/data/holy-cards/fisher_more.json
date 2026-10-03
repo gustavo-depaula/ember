@@ -8,6 +8,8 @@
     "en-US": "Sts. John Fisher and Thomas More",
     "pt-BR": "Santos João Fisher e Tomás More"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Bishop and statesman, martyrs",
     "pt-BR": "Bispo e estadista, mártires"

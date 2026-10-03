@@ -1,17 +1,19 @@
 import type { Copy } from '@ember/holy-cards'
-import { Link } from 'expo-router'
+import { useFocusEffect } from 'expo-router'
 import type { ReactElement } from 'react'
-import { memo, useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, useWindowDimensions } from 'react-native'
+import { useWindowDimensions } from 'react-native'
 import { View, XStack, YStack } from 'tamagui'
 import { Typography } from '@/components/typography'
 import type { SaintEntry } from '../data/catalog'
 import { useHeldCards } from '../data/collection'
 import { useSaintsViewStore } from '../store'
-import { SaintCardTile } from './SaintCardTile'
+import { SaintShelves, shelfRows } from './SaintShelves'
+import { SaintTile } from './SaintTile'
 
-export type SaintGrouping = 'calendar' | 'collected' | 'alpha'
+// `flat`: one untitled grid in the order given (a small shelf on its own screen).
+export type SaintGrouping = 'shelves' | 'calendar' | 'collected' | 'alpha' | 'flat'
 
 const gap = 12
 const columns = 3
@@ -125,23 +127,40 @@ export function SaintWall({
   const setOrderedIds = useSaintsViewStore((s) => s.setOrderedIds)
   // Only the collected grouping reads what's held: a redeem needn't rebuild the others.
   const held = useHeldCards()
-  const heldFor = grouping === 'collected' ? held : undefined
+  const heldFor = grouping === 'collected' || grouping === 'shelves' ? held : undefined
 
   const contentWidth = Math.min(screenWidth - 48, 640)
   const itemWidth = (contentWidth - gap * (columns - 1)) / columns
 
   // Build the sections and the flat display order in one pass: the pager swipes
   // in the same order the wall currently shows (tiles navigate by id).
-  const { sections, orderedIds } = useMemo(() => {
-    const built = searching
-      ? [{ key: 'results', title: t('saints.results'), data: toRows(saints) }]
-      : buildSections(saints, grouping, heldFor, i18n.language || 'en-US', t)
-    return { sections: built, orderedIds: built.flatMap((s) => s.data.flat().map((e) => e.id)) }
+  const { sections, shelves, orderedIds } = useMemo(() => {
+    if (grouping === 'shelves' && !searching) {
+      const rows = shelfRows(saints, heldFor ?? new Map())
+      return {
+        sections: [],
+        shelves: rows,
+        orderedIds: rows.flatMap((r) => r.items.map((e) => e.id)),
+      }
+    }
+    const built = (() => {
+      if (searching) return [{ key: 'results', title: t('saints.results'), data: toRows(saints) }]
+      if (grouping === 'flat') return [{ key: 'flat', title: '', data: toRows(saints) }]
+      return buildSections(saints, grouping, heldFor, i18n.language || 'en-US', t)
+    })()
+    return {
+      sections: built,
+      shelves: undefined,
+      orderedIds: built.flatMap((s) => s.data.flat().map((e) => e.id)),
+    }
   }, [saints, grouping, heldFor, searching, i18n.language, t])
 
-  useEffect(() => {
-    setOrderedIds(orderedIds)
-  }, [orderedIds, setOrderedIds])
+  // On focus too: a shelf's screen publishes its own order over the album's.
+  useFocusEffect(
+    useCallback(() => {
+      setOrderedIds(orderedIds)
+    }, [orderedIds, setOrderedIds]),
+  )
 
   const totalRows = sections.reduce((n, section) => n + section.data.length, 0)
   // Start over on a new view, not on each keystroke of a search.
@@ -163,14 +182,25 @@ export function SaintWall({
   })
   const rowHeight = itemWidth * 1.5 + gap
 
+  if (shelves) {
+    return (
+      <YStack>
+        {ListHeaderComponent}
+        <SaintShelves rows={shelves} />
+      </YStack>
+    )
+  }
+
   return (
     <YStack>
       {ListHeaderComponent}
       {visible.map((section) => (
         <YStack key={section.key} gap={gap} paddingTop="$lg">
-          <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-            {section.title}
-          </Typography>
+          {section.title && (
+            <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
+              {section.title}
+            </Typography>
+          )}
           <YStack gap={gap}>
             {section.data.map((row, i) => (
               <XStack key={`${section.key}-${row[0]?.id ?? i}`} gap={gap} alignItems="flex-start">
@@ -191,25 +221,3 @@ export function SaintWall({
     </YStack>
   )
 }
-
-// Memoized: each step re-renders the wall, and the rows already drawn shouldn't.
-const SaintTile = memo(function SaintTile({
-  saint,
-  width,
-  label,
-}: {
-  saint: SaintEntry
-  width: number
-  label: string
-}) {
-  return (
-    // The `[index]` route param carries the saint's id (the viewer locates it in
-    // the wall's published order), not a positional index. A plain Link (not the
-    // AppleZoom morph) gives a reliable modal present/dismiss.
-    <Link href={{ pathname: '/saints/[index]', params: { index: saint.id } }} push asChild>
-      <Pressable accessibilityRole="link" accessibilityLabel={label}>
-        <SaintCardTile saint={saint} width={width} showLabel />
-      </Pressable>
-    </Link>
-  )
-})

@@ -8,6 +8,8 @@
     "en-US": "Sts. Peter and Dionysia",
     "pt-BR": "São Pedro e Santa Dionísia"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Martyrs of Lampsacus",
     "pt-BR": "Mártires de Lâmpsaco"

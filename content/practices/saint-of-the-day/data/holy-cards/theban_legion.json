@@ -8,6 +8,8 @@
     "en-US": "The Theban Legion",
     "pt-BR": "A Legião Tebana"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "St. Maurice and his soldiers, martyrs",
     "pt-BR": "São Maurício e seus soldados, mártires"

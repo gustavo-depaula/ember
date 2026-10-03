@@ -8,6 +8,8 @@
     "en-US": "Sts. Martha, Mary and Lazarus",
     "pt-BR": "Santos Marta, Maria e Lázaro"
   },
+  "shelf": "apostles",
+  "several": true,
   "patronOf": {
     "en-US": "Friends of the Lord at Bethany",
     "pt-BR": "Amigos do Senhor em Betânia"

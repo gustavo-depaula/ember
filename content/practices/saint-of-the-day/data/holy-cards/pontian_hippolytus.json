@@ -8,6 +8,8 @@
     "en-US": "Sts. Pontian and Hippolytus",
     "pt-BR": "Santos Ponciano e Hipólito"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Pope and priest, martyrs",
     "pt-BR": "Papa e presbítero, mártires"

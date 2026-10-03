@@ -8,6 +8,8 @@
     "en-US": "St. Tarachus and Companions",
     "pt-BR": "São Taraco e Companheiros"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Martyrs of Cilicia",
     "pt-BR": "Mártires da Cilícia"

@@ -8,6 +8,8 @@
     "en-US": "Sts. Philip and James",
     "pt-BR": "São Filipe e São Tiago"
   },
+  "shelf": "apostles",
+  "several": true,
   "patronOf": {
     "en-US": "Apostles of the Lord",
     "pt-BR": "Apóstolos do Senhor"

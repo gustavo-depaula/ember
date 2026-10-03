@@ -8,6 +8,8 @@
     "en-US": "Sts. Primus and Felicianus",
     "pt-BR": "São Primo e São Feliciano"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Brothers and martyrs",
     "pt-BR": "Irmãos e mártires"

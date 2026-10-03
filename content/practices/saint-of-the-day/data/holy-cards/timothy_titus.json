@@ -8,6 +8,8 @@
     "en-US": "Sts. Timothy and Titus",
     "pt-BR": "Santos Timóteo e Tito"
   },
+  "shelf": "apostles",
+  "several": true,
   "patronOf": {
     "en-US": "Bishops, companions of St. Paul",
     "pt-BR": "Bispos, companheiros de São Paulo"

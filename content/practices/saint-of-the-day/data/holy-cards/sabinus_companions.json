@@ -8,6 +8,8 @@
     "en-US": "St. Sabinus and Companions",
     "pt-BR": "São Sabino e Companheiros"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Bishop and martyrs of Umbria",
     "pt-BR": "Bispo e mártires da Úmbria"

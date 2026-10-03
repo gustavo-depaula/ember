@@ -8,6 +8,8 @@
     "en-US": "Sts. Marcellinus and Peter",
     "pt-BR": "Santos Marcelino e Pedro"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Priest and exorcist, martyrs",
     "pt-BR": "Presbítero e exorcista, mártires"

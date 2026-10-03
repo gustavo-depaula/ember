@@ -8,6 +8,7 @@
     "en-US": "St. Ambrose",
     "pt-BR": "Santo Ambrósio"
   },
+  "shelf": "bishops",
   "patronOf": {
     "en-US": "Patron of bishops and learning",
     "pt-BR": "Padroeiro dos bispos e do estudo"

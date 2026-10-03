@@ -8,6 +8,8 @@
     "en-US": "Sts. Cosmas and Damian",
     "pt-BR": "Santos Cosme e Damião"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Patrons of physicians",
     "pt-BR": "Padroeiros dos médicos"

@@ -8,6 +8,8 @@
     "en-US": "The Eighteen Martyrs of Saragossa and St. Engratia",
     "pt-BR": "Os Dezoito Mártires de Saragoça e Santa Engrácia"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Virgin and martyrs",
     "pt-BR": "Virgem e mártires"

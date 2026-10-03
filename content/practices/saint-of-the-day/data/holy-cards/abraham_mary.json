@@ -8,6 +8,8 @@
     "en-US": "Sts. Abraham and Mary",
     "pt-BR": "Santo Abraão e Santa Maria"
   },
+  "shelf": "religious",
+  "several": true,
   "patronOf": {
     "en-US": "Hermit and penitent",
     "pt-BR": "Eremita e penitente"

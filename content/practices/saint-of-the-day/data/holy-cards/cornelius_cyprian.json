@@ -8,6 +8,8 @@
     "en-US": "Sts. Cornelius and Cyprian",
     "pt-BR": "Santos Cornélio e Cipriano"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Pope and bishop, martyrs",
     "pt-BR": "Papa e bispo, mártires"

@@ -8,6 +8,8 @@
     "en-US": "St. Liberatus and Six Monks",
     "pt-BR": "São Liberato e Seis Monges"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Martyrs of Carthage",
     "pt-BR": "Mártires de Cartago"

@@ -28,11 +28,12 @@ export function SaintCardViewer({
   const list = useRef<FlatList<SaintEntry>>(null)
 
   // The wall publishes its current display order; fall back to calendar order
-  // for a cold deep-link straight into the pager.
+  // for a link to a card that order doesn't hold (a cold deep link, or one
+  // from outside the shelf last shown).
   const entries = useMemo<SaintEntry[]>(() => {
-    const ids = orderedIds.length ? orderedIds : saints.map((s) => s.id)
+    const ids = orderedIds.includes(initialId) ? orderedIds : saints.map((s) => s.id)
     return ids.map((id) => byId[id]).filter((e): e is SaintEntry => !!e)
-  }, [orderedIds, saints, byId])
+  }, [orderedIds, saints, byId, initialId])
 
   const initialIndex = Math.max(
     0,

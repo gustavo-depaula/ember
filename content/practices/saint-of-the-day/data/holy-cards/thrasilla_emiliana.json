@@ -8,6 +8,8 @@
     "en-US": "Sts. Thrasilla and Emiliana",
     "pt-BR": "Santas Trasila e Emiliana"
   },
+  "shelf": "laity",
+  "several": true,
   "patronOf": {
     "en-US": "Virgins, aunts of St. Gregory the Great",
     "pt-BR": "Virgens, tias de São Gregório Magno"

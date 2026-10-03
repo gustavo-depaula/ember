@@ -20,6 +20,10 @@ export type HolyCard = {
   /** For a card with no feast: its gallery section, and its place in it. */
   kind?: HolyCardKind
   order?: number
+  /** A saint or feast card's shelf in the album, in the Litany of the Saints' order. */
+  shelf?: HolyCardShelf
+  /** Honours more than one person (Sts. Cosmas and Damian, the Forty Martyrs): its life is "Lives". */
+  several?: boolean
   name: LocalizedText
   patronOf?: LocalizedText
   prayerExcerpt?: LocalizedText
@@ -49,6 +53,20 @@ export type HolyCardRelated = {
 /** The gallery sections of the cards with no fixed date, in the order they show. */
 export const holyCardKinds = ['moveable', 'rosary', 'season', 'mass', 'object', 'devotion'] as const
 export type HolyCardKind = (typeof holyCardKinds)[number]
+
+export const holyCardShelves = [
+  'lord',
+  'lady',
+  'angels',
+  'patriarchs',
+  'apostles',
+  'martyrs',
+  'bishops',
+  'religious',
+  'laity',
+  'church',
+] as const
+export type HolyCardShelf = (typeof holyCardShelves)[number]
 
 type HolyCardsData = {
   version: number

@@ -91,8 +91,12 @@ export const SaintPage = memo(function SaintPage({
 
   const chapters = (() => {
     const out: Chapter[] = []
-    // A season, a part of the Mass or a vestment has no life to tell.
-    const lifeKey = saint.kind ? 'about' : 'life'
+    // A feast, an angel, a season, a part of the Mass or a vestment has no life
+    // to tell; a card of several saints tells several.
+    const lifeKey = (() => {
+      if (saint.kind || ['lord', 'lady', 'angels', 'church'].includes(saint.shelf)) return 'about'
+      return saint.several ? 'lives' : 'life'
+    })()
     if (life || feast?.about || saint.reflection) {
       out.push({
         key: 'life',

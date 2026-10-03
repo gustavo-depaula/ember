@@ -8,6 +8,8 @@
     "en-US": "Sts. Cyril and Methodius",
     "pt-BR": "Santos Cirilo e Metódio"
   },
+  "shelf": "bishops",
+  "several": true,
   "patronOf": {
     "en-US": "Apostles of the Slavs, patrons of Europe",
     "pt-BR": "Apóstolos dos eslavos, padroeiros da Europa"

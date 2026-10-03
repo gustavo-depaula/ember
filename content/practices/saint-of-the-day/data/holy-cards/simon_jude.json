@@ -8,6 +8,8 @@
     "en-US": "Sts. Simon and Jude",
     "pt-BR": "São Simão e São Judas Tadeu"
   },
+  "shelf": "apostles",
+  "several": true,
   "patronOf": {
     "en-US": "Apostles; St. Jude, patron of hopeless causes",
     "pt-BR": "Apóstolos; São Judas, padroeiro das causas impossíveis"

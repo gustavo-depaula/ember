@@ -8,6 +8,8 @@
     "en-US": "St. Eustachius",
     "pt-BR": "Santo Eustáquio"
   },
+  "shelf": "martyrs",
+  "several": true,
   "patronOf": {
     "en-US": "Soldier and martyr",
     "pt-BR": "Soldado e mártir"

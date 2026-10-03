@@ -8,6 +8,7 @@
     "en-US": "St. Thomas Aquinas",
     "pt-BR": "São Tomás de Aquino"
   },
+  "shelf": "bishops",
   "patronOf": {
     "en-US": "Patron of students and theologians",
     "pt-BR": "Padroeiro dos estudantes e teólogos"
