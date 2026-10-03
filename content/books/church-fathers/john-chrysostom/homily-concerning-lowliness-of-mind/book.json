@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homily-concerning-lowliness-of-mind",
   "cover": "quarter",
   "name": {
-    "en-US": "Homily Concerning \"Lowliness of Mind\""
+    "en-US": "Homily Concerning \"Lowliness of Mind\"",
+    "pt-BR": "Homilia sobre a “Humildade de Espírito”"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily Concerning \"Lowliness of Mind\""
+        "en-US": "Homily Concerning \"Lowliness of Mind\"",
+        "pt-BR": "Homilia sobre a “Humildade de Espírito”"
       }
     }
   ]
