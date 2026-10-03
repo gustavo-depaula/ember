@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-sulpician",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Sulpician (Olier)",
+			"pt-BR": "Sulpiciano (Olier)"
+		},
+		"description": {
+			"en-US": "Jesus before the eyes, in the heart, in the hands — adoration, communion, cooperation.",
+			"pt-BR": "Jesus diante dos olhos, no coração, nas mãos — adoração, comunhão, cooperação."
+		},
+		"order": 50
+	},
+	"name": {
+		"en-US": "Mental Prayer — Method of St. Sulpice",
+		"pt-BR": "Oração Mental — Método de São Sulpício"
+	},
+	"source": {
+		"en-US": "Jean-Jacques Olier, *Catéchisme chrétien pour la vie intérieure* and *Introduction à la vie et aux vertus chrétiennes*; the traditional Sulpician text expounded by Louis Tronson; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Jean-Jacques Olier, *Catéchisme chrétien pour la vie intérieure* e *Introduction à la vie et aux vertus chrétiennes*; o texto sulpiciano tradicional, exposto por Louis Tronson; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "The method of the French school. It does not begin with self-improvement but with worship: first look at Jesus and adore, then ask to share what you have adored, then give yourself to His Spirit to work it in you. \"Christianity consists in three points: to regard Jesus, to be united to Jesus, to work in Jesus.\"",
+		"pt-BR": "O método da escola francesa. Não começa pelo aperfeiçoamento próprio, mas pela adoração: primeiro olhar Jesus e adorar, depois pedir para participar do que se adorou, depois entregar-se ao seu Espírito para que o opere em nós. \"O cristianismo consiste em três pontos: olhar Jesus, unir-se a Jesus, operar em Jesus.\""
+	},
+	"history": {
+		"en-US": "Jean-Jacques Olier (1608–1657) founded the seminary and Society of St. Sulpice, and the method he left has formed generations of priests. Behind it stands Cardinal de Bérulle: Jesus is the perfect Adorer of the Father, and His mysteries, though past as events, remain present in their virtue and in the love with which He accomplished them. To pray is to adore Him in one of those states and to let Him continue it in us. Louis Tronson, Olier's successor, set the method out in the form that became traditional.",
+		"pt-BR": "Jean-Jacques Olier (1608–1657) fundou o seminário e a Companhia de São Sulpício, e o método que deixou formou gerações de sacerdotes. Por trás dele está o Cardeal de Bérulle: Jesus é o perfeito Adorador do Pai, e os seus mistérios, embora passados como acontecimentos, permanecem presentes na sua virtude e no amor com que Ele os realizou. Orar é adorá-Lo num desses estados e deixar que Ele o continue em nós. Louis Tronson, sucessor de Olier, expôs o método na forma que se tornou tradicional."
+	},
+	"howToPray": {
+		"en-US": "Take a virtue, a perfection or a mystery — and look at it *in Jesus*, not as an abstract principle. Stay first in adoration; do not hurry to yourself. Only then turn to your own need of what you have adored, and ask for it. Resolve, trusting nothing to yourself and everything to Him. You need not keep the order of the acts: give yourself to the affections God gives, and repeat those to which the Holy Spirit draws you.",
+		"pt-BR": "Tome uma virtude, uma perfeição ou um mistério — e olhe-o *em Jesus*, não como princípio abstrato. Fique primeiro na adoração; não tenha pressa de chegar a si mesmo. Só depois volte-se para a sua própria necessidade do que adorou, e peça-o. Tome a resolução, sem confiar nada em si e tudo n'Ele. Não é preciso guardar a ordem dos atos: entregue-se aos afetos que Deus dá, e repita aqueles a que o Espírito Santo o atrai."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"oratorian",
+		"sulpician",
+		"olier",
+		"berulle",
+		"french-school",
+		"adoration"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

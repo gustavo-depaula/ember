@@ -1,0 +1,321 @@
+{
+	"sections": [
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Night Before",
+				"pt-BR": "Na Véspera"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The brief consideration overnight of three questions: *With whom do I pray? Upon what subject? What particular act?*",
+				"pt-BR": "A breve consideração, na véspera, de três perguntas: *Com quem vou orar? Sobre que tema? Que ato particular?*"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "I go to pray with God, with our Lord, with our Lady or with the Saints — upon this particular subject — specially seeking this virtue, which I shall make central in my acts of prayer. Choose ordinarily from amongst those which are fundamental: humility, confidence, knowledge of God and of self, penitence, love of God, the will of God, renouncement, imitation of Jesus Christ.",
+				"pt-BR": "Vou orar com Deus, com o Senhor, com Nossa Senhora ou com os Santos — sobre este tema particular — buscando especialmente esta virtude, que farei central nos meus atos de oração. Escolha ordinariamente entre as que são fundamentais: humildade, confiança, conhecimento de Deus e de si, penitência, amor de Deus, a vontade de Deus, renúncia, imitação de Jesus Cristo."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "I. The Preparation",
+				"pt-BR": "I. A Preparação"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Kneel quietly for a few moments, letting your whole self sink into a state of rest, that you may realise the presence of God. Then make the following acts slowly.",
+				"pt-BR": "Ajoelhe-se em sossego por alguns momentos, deixando todo o seu ser entrar em repouso, para perceber a presença de Deus. Depois faça devagar os seguintes atos."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Act of faith",
+				"pt-BR": "Ato de fé"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my God, I believe that Thou art here present, and I adore Thee from the depths of my own nothingness.",
+				"pt-BR": "Ó meu Deus, creio que estais aqui presente, e Vos adoro do fundo do meu nada."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Act of humility",
+				"pt-BR": "Ato de humildade"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O my God, I acknowledge that for my sins I deserve to be in Hell. I am sorry that I have offended Thee, because Thou art so good, and I beg, by Thy grace, that I may never sin again.",
+				"pt-BR": "Ó meu Deus, reconheço que pelos meus pecados mereço estar no Inferno. Arrependo-me de Vos ter ofendido, porque sois tão bom, e peço, pela vossa graça, nunca mais pecar."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Petition for light",
+				"pt-BR": "Petição de luz"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Eternal Father, for the sake of Jesus and Mary, give me light in this prayer, that I may make it to Thy glory and the good of my soul.",
+				"pt-BR": "Ó Pai Eterno, por amor de Jesus e de Maria, dai-me luz nesta oração, para que eu a faça para vossa glória e para o bem da minha alma."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Invoke the aid of your guardian angel and patrons.",
+				"pt-BR": "Invoque o auxílio do seu anjo da guarda e dos seus padroeiros."
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "The act of faith",
+				"pt-BR": "O ato de fé"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "St. Alphonsus insists that the act of the presence of God should be one of a living faith. It is not an act of intellectual consideration or, still less, of feeling, but a firm and implicit *Credo*. God is present; all we have to do is to acknowledge His Presence, placing ourselves deliberately in that Presence by an act of pure faith.",
+						"pt-BR": "Santo Afonso insiste em que o ato da presença de Deus seja de fé viva. Não é um ato de consideração intelectual nem, menos ainda, de sentimento, mas um firme e implícito *Credo*. Deus está presente; só temos de reconhecer a sua Presença, pondo-nos deliberadamente nessa Presença por um ato de pura fé."
+					}
+				}
+			]
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "II. The Body of the Prayer",
+				"pt-BR": "II. O Corpo da Oração"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "1. The consideration",
+				"pt-BR": "1. A consideração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Fix your attention on the subject you have chosen. Make a mental picture of it as clearly as you can, though without effort or strain. Exercising the intellect, reflect upon it, that you may see it more clearly and become more convinced of its truth; then apply it to yourself — *what is it to me?* This should not be long reflections or reasonings, but a simple and attentive consideration.",
+				"pt-BR": "Fixe a atenção no tema que escolheu. Faça dele uma imagem mental tão clara quanto puder, mas sem esforço nem tensão. Exercitando o entendimento, reflita sobre ele, para vê-lo mais claramente e convencer-se mais da sua verdade; depois aplique-o a si — *que é isto para mim?* Não sejam longas reflexões ou raciocínios, mas uma consideração simples e atenta."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "As you do so, make energetic acts of faith, accompanied with prayer for a firmer faith:",
+				"pt-BR": "Ao fazê-lo, faça enérgicos atos de fé, acompanhados de oração por uma fé mais firme:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, I believe; help Thou mine unbelief.",
+				"pt-BR": "Senhor, eu creio; ajudai a minha incredulidade."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Meditation is like a needle after which comes a thread of gold, composed of affections, prayers and resolutions.\n— St. Alphonsus, *The True Spouse of Jesus Christ*",
+				"pt-BR": "A meditação é como uma agulha, atrás da qual vem um fio de ouro, composto de afetos, súplicas e resoluções.\n— Santo Afonso, *A Verdadeira Esposa de Jesus Cristo*"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "2. The act of virtue",
+				"pt-BR": "2. O ato de virtude"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "As you reflect quietly upon what you see, what it means, and especially to you, you will be moved to make acts of prayer — adoration, praise, thanksgiving, humility, penitence, love — any acts of prayer, in any words, in any order. St. Alphonsus especially indicates four which should find their place in all our prayer: confident humility, contrition, love, and perseverance.",
+				"pt-BR": "Ao refletir quietamente sobre o que vê, o que significa, e especialmente para si, será movido a fazer atos de oração — adoração, louvor, ação de graças, humildade, penitência, amor — quaisquer atos de oração, com quaisquer palavras, em qualquer ordem. Santo Afonso indica especialmente quatro que devem ter lugar em toda a nossa oração: humildade confiante, contrição, amor e perseverança."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "When you have meditated a point, and feel yourself moved by some good thought, raise your heart to God and offer to Him fervent acts of humility, of confidence, of thanksgiving; but above all frequently repeat, in your prayer, acts of contrition and love… chains of gold which attach our soul to God.\n— St. Alphonsus",
+				"pt-BR": "Quando tiver meditado um ponto, e se sentir movido por algum bom pensamento, eleve o coração a Deus e ofereça-Lhe fervorosos atos de humildade, de confiança, de ação de graças; mas sobretudo repita muitas vezes, na oração, atos de contrição e de amor… correntes de ouro que prendem a nossa alma a Deus.\n— Santo Afonso"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We must not try to precede grace or want to do things too perfectly, but simply and desiringly place ourselves in our Lord's hands. And when we perceive the poverty of our acts, let us make known to God our sorrow for this, and our desire of making them more perfect according to His will.",
+				"pt-BR": "Não devemos querer adiantar-nos à graça nem fazer as coisas com demasiada perfeição, mas simples e desejosamente pôr-nos nas mãos do Senhor. E quando percebermos a pobreza dos nossos atos, manifestemos a Deus a nossa dor por isso, e o desejo de fazê-los mais perfeitos segundo a sua vontade."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "3. The prayer of petition",
+				"pt-BR": "3. A oração de petição"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "In this third part all the energies of the soul must be bent on bringing our necessities before God, beseeching Him to grant us all graces necessary for our salvation and sanctification. Above all, we must continually ask for love and perseverance. Nor must we forget the common and particular needs of the Church and of our neighbour.",
+				"pt-BR": "Nesta terceira parte todas as energias da alma devem aplicar-se a apresentar a Deus as nossas necessidades, suplicando-Lhe que nos conceda todas as graças necessárias à nossa salvação e santificação. Acima de tudo, devemos pedir continuamente o amor e a perseverança. Nem devemos esquecer as necessidades comuns e particulares da Igreja e do próximo."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "I implore the reader not to grow weary of my constant demand that he should ask for love and perseverance. For those two gifts contain all the rest: to obtain them is to obtain all.\n— St. Alphonsus, *Preparation for Death*, Preface",
+				"pt-BR": "Suplico ao leitor que não se canse do meu constante pedido de que peça o amor e a perseverança. Pois esses dois dons contêm todos os outros: alcançá-los é alcançar tudo.\n— Santo Afonso, *Preparação para a Morte*, Prefácio"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Go on until your time is up, constantly recurring to your picture and renewing your fervour.",
+				"pt-BR": "Continue até acabar o seu tempo, voltando constantemente à sua imagem e renovando o fervor."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "III. The Conclusion",
+				"pt-BR": "III. A Conclusão"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The conclusion should be short, intense and business-like. It consists of three acts of resolution and three of prayer.",
+				"pt-BR": "A conclusão deve ser breve, intensa e prática. Consiste em três atos de resolução e três de oração."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Three resolutions",
+				"pt-BR": "Três resoluções"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "1. A general resolution to avoid all sin, mortal and venial, to-day.\n2. To give yourself entirely to God in all things to-day.\n3. A particular resolution to avoid or to do something for our Lord to-day — combating your ruling passion, enemy of your perseverance and love for God.",
+				"pt-BR": "1. Uma resolução geral de evitar hoje todo pecado, mortal e venial.\n2. De se dar hoje inteiramente a Deus em todas as coisas.\n3. Uma resolução particular de evitar ou de fazer hoje alguma coisa pelo Senhor — combatendo a sua paixão dominante, inimiga da sua perseverança e do amor a Deus."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We ought to resolve daily, and for that day alone — since it is easy to do for one day what might seem a hopeless task for a long period, and since our Lord only bids us ask for the grace for each day as it comes.",
+				"pt-BR": "Devemos tomar resolução cada dia, e só para esse dia — pois é fácil fazer por um dia o que pareceria tarefa sem esperança por um longo período, e porque o Senhor só nos manda pedir a graça para cada dia que vem."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Three acts of prayer",
+				"pt-BR": "Três atos de oração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "1. An act of thanksgiving for the grace received in your prayer.\n2. A fervent petition for grace to keep your resolution.\n3. An Our Father and Hail Mary for the Church, for sinners and for the holy souls.",
+				"pt-BR": "1. Um ato de ação de graças pela graça recebida na oração.\n2. Uma fervorosa petição da graça de cumprir a resolução.\n3. Um Pai Nosso e uma Ave Maria pela Igreja, pelos pecadores e pelas almas santas."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Conclude by kneeling at our Lady's feet, saying the Memorare, and asking her blessing.",
+				"pt-BR": "Conclua ajoelhando-se aos pés de Nossa Senhora, dizendo o Lembrai-vos, e pedindo a sua bênção."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "memorare"
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "In times of aridity",
+				"pt-BR": "Nos tempos de aridez"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Multiply vocal prayers, putting into them all the energy possible at the moment. Believe that prayer is always of value, but do not look for sensible results; the best prayers are those which apparently produce nothing. Make much of good desires even if you cannot fulfil them.",
+						"pt-BR": "Multiplique as orações vocais, pondo nelas toda a energia possível no momento. Creia que a oração tem sempre valor, mas não procure resultados sensíveis; as melhores orações são as que aparentemente nada produzem. Faça grande caso dos bons desejos, ainda que não possa cumpri-los."
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Humiliate yourself, then, and resign yourself, seeing yourself without fervour, without desires, and as incapable of making any act of virtue… content yourself with saying, *Help me, O Lord! Have pity on me, abandon me not.* Have recourse to Mary our Mother and Consolatrix. Happy are those who in desolations remain faithful to their prayer! God will fill them with His graces.\n— St. Alphonsus",
+						"pt-BR": "Humilhe-se, pois, e resigne-se, vendo-se sem fervor, sem desejos, e como incapaz de fazer qualquer ato de virtude… contente-se com dizer: *Socorrei-me, Senhor! Tende piedade de mim, não me abandoneis.* Recorra a Maria, nossa Mãe e Consoladora. Felizes os que nas desolações permanecem fiéis à sua oração! Deus os encherá das suas graças.\n— Santo Afonso"
+					}
+				}
+			]
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "The liberty of the Liguorian prayer",
+				"pt-BR": "A liberdade da oração ligoriana"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Liberty to mingle vocal prayers with meditation; liberty to repeat time upon time what we wish to say to God; liberty of adapting the acts of mental prayer to any method; liberty to follow with discretion the inspiration of the moment or, on the contrary, of keeping to a method once for all determined; liberty to make use of pious books and to appropriate their language; liberty of meditating in an easy position, provided it be reverent and helpful; in one word, liberty to make the work of prayer as easy as may be, provided it be done, and done well.\n— Fr. Desurmont, C.Ss.R., *La Charité sacerdotale*",
+						"pt-BR": "Liberdade de misturar orações vocais com a meditação; liberdade de repetir uma e outra vez o que queremos dizer a Deus; liberdade de adaptar os atos da oração mental a qualquer método; liberdade de seguir com discrição a inspiração do momento ou, pelo contrário, de se ater a um método determinado de uma vez por todas; liberdade de usar livros piedosos e de se apropriar da sua linguagem; liberdade de meditar numa posição cômoda, contanto que seja reverente e ajude; numa palavra, liberdade de tornar o trabalho da oração tão fácil quanto possível, contanto que se faça, e se faça bem.\n— P. Desurmont, C.Ss.R., *La Charité sacerdotale*"
+					}
+				}
+			]
+		}
+	]
+}

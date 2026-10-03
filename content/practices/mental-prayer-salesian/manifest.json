@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-salesian",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Salesian (St. Francis de Sales)",
+			"pt-BR": "Salesiano (São Francisco de Sales)"
+		},
+		"description": {
+			"en-US": "Written for people living in the world: the presence of God, considerations, affections turned into particular resolutions, and a spiritual nosegay to carry through the day.",
+			"pt-BR": "Escrito para quem vive no mundo: a presença de Deus, considerações, afetos convertidos em resoluções particulares, e um ramalhete espiritual para levar pelo dia."
+		},
+		"order": 40
+	},
+	"name": {
+		"en-US": "Mental Prayer — Method of St. Francis de Sales",
+		"pt-BR": "Oração Mental — Método de São Francisco de Sales"
+	},
+	"source": {
+		"en-US": "St. Francis de Sales, *Introduction to the Devout Life* (1609), Part II; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "São Francisco de Sales, *Introdução à Vida Devota* (1609), Parte II; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "With St. Francis de Sales mental prayer passes from the cloister into the world. His method is made for those who live in towns, in households, at work: four short parts, and one flower gathered at the end to smell throughout the day.",
+		"pt-BR": "Com São Francisco de Sales a oração mental passa do claustro ao mundo. O seu método é feito para os que vivem nas cidades, nas famílias, no trabalho: quatro partes breves, e uma flor colhida no fim para cheirar ao longo do dia."
+	},
+	"history": {
+		"en-US": "St. Francis de Sales (1567–1622), Bishop of Geneva and Doctor of the Church, wrote the *Introduction to the Devout Life* for Philothea — the soul that wants to love God while living an ordinary life. He knew merchants and their wives as well as he knew courts and convents, and directed them all. To the objection that not everyone has the gift of mental prayer he answered that almost everyone is able to have it, even the slowest, provided they are well guided and willing to work for it as much as it deserves.",
+		"pt-BR": "São Francisco de Sales (1567–1622), Bispo de Genebra e Doutor da Igreja, escreveu a *Introdução à Vida Devota* para Filoteia — a alma que quer amar a Deus vivendo uma vida comum. Conhecia os comerciantes e suas esposas tão bem quanto as cortes e os conventos, e a todos dirigia. À objeção de que nem todos têm o dom da oração mental, respondeu que quase todos são capazes de tê-lo, mesmo os mais rudes, contanto que sejam bem guiados e queiram trabalhar por ele tanto quanto merece."
+	},
+	"howToPray": {
+		"en-US": "Put yourself in God's presence in *one* of the four ways, briefly. Consider gently: if one thought gives relish, light and fruit, stay on it; if not, pass on without hurry. Let the affections widen as far as they will — and if your heart is drawn to God from the very start, leave the method and follow, for the affections are never to be held back. But keep the resolutions for the end, and make them particular. Afterwards pass to your duties gently, so that the spirit is not disturbed.",
+		"pt-BR": "Ponha-se na presença de Deus de *um* dos quatro modos, brevemente. Considere com suavidade: se um pensamento dá gosto, luz e fruto, fique nele; se não, passe a outro sem pressa. Deixe os afetos dilatarem-se quanto quiserem — e se o seu coração for atraído a Deus logo de início, deixe o método e siga, pois os afetos nunca se devem reter. Mas guarde as resoluções para o fim, e faça-as particulares. Depois passe aos seus deveres com suavidade, para que o espírito não se perturbe."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"salesian",
+		"francis-de-sales",
+		"devout-life",
+		"laity",
+		"affective",
+		"resolutions"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

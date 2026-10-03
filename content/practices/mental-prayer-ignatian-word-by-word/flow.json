@@ -1,0 +1,125 @@
+{
+	"sections": [
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Preparation",
+				"pt-BR": "A Preparação"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "First, consider what you are going to do: \"let the mind repose a little, either sitting or walking, as shall seem best, considering meanwhile whither I am going and for what purpose.\"",
+				"pt-BR": "Primeiro, considere o que vai fazer: \"repouse um pouco o espírito, sentado ou passeando, como melhor lhe parecer, considerando entretanto aonde vou e a quê.\""
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Then the preparatory prayer, made to the Person to whom the prayer is addressed.",
+				"pt-BR": "Depois a oração preparatória, feita à Pessoa a quem a oração se dirige."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Body of the Prayer",
+				"pt-BR": "O Corpo da Oração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "\"Kneeling or sitting, as he may find himself more disposed and as greater devotion accompanies him, keeping his eyes shut or fixed on one place, without moving them hither and thither, he says *Father*, and rests on the consideration of this word for so long a time as he finds meanings, comparisons, relish and consolation in considerations belonging to such a word.\"",
+				"pt-BR": "\"De joelhos ou sentado, conforme se achar mais disposto e mais devoção o acompanhar, tendo os olhos fechados ou fixos num lugar, sem andar com eles variando, diga *Pai*, e fique na consideração desta palavra tanto tempo quanto achar significações, comparações, gostos e consolação em considerações pertinentes a tal palavra.\""
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "So, for the allotted time of prayer, the Our Father, the Hail Mary or any other prayer, psalm or portion of Holy Scripture is to be gone through.",
+				"pt-BR": "Assim, durante o tempo marcado para a oração, percorre-se o Pai Nosso, a Ave Maria ou qualquer outra oração, salmo ou trecho da Sagrada Escritura."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father",
+			"defaultOpen": true
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "\"If the person who is studying the Our Father finds in one word or two very good matter for thought and relish and consolation, let him not trouble to go further on.\" When the time is ended, the rest of the prayer is said in the usual way, and another day one begins from the word that follows.",
+				"pt-BR": "\"Se a pessoa que contempla o Pai Nosso achar numa palavra ou em duas tão boa matéria para pensar, e gosto e consolação, não cuide de passar adiante.\" Acabado o tempo, diz-se o resto da oração do modo costumado, e noutro dia começa-se da palavra seguinte."
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "How simple it is",
+				"pt-BR": "Quão simples é"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Just kneel or sit down and think of God and of what you intend to do. Ask our Lord and Mary to help you to pray well for His glory. Then very slowly say the Lord's Prayer, thinking quietly and simply of each word, drawing out the meaning of it, tasting its sweetness, dwelling on it — or on a phrase such as *Thy Kingdom*, *Thy Kingdom come*, *Thy will*, *Thy will be done* — for as long as you can with profit, and then passing on. Let your whole self pray, that is, be lifted up to the thought of God.",
+						"pt-BR": "Basta ajoelhar-se ou sentar-se e pensar em Deus e no que pretende fazer. Peça ao Senhor e a Maria que o ajudem a rezar bem para a glória d'Ele. Depois diga muito devagar a Oração do Senhor, pensando quieta e simplesmente em cada palavra, tirando dela o sentido, saboreando a sua doçura, detendo-se nela — ou numa frase como *vosso Reino*, *venha a nós o vosso Reino*, *vossa vontade*, *seja feita a vossa vontade* — enquanto puder com proveito, e passando então adiante. Deixe todo o seu ser orar, isto é, elevar-se ao pensamento de Deus."
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "Father — our Father — my Father — O Father infinite — eternal, loving — bountiful — I love Thee, I adore Thee, look on me, Thy child — Thy child — God's child — what love of Thine for me…",
+						"pt-BR": "Pai — Pai nosso — meu Pai — ó Pai infinito — eterno, amoroso — generoso — eu Vos amo, eu Vos adoro, olhai para mim, vosso filho — vosso filho — filho de Deus — que amor o vosso por mim…"
+					}
+				},
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "This prayer of the *Our Father* contains all the fulness of perfection… it raises those who familiarise themselves with it to that prayer of fire which passes all human language.\n— Abbot Isaac, in Cassian, *Conferences* IX, 25",
+						"pt-BR": "Esta oração do *Pai Nosso* contém toda a plenitude da perfeição… eleva os que com ela se familiarizam àquela oração de fogo que ultrapassa toda linguagem humana.\n— Abade Isaac, em Cassiano, *Conferências* IX, 25"
+					}
+				}
+			]
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Conclusion",
+				"pt-BR": "A Conclusão"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The prayer ends with the recitation of the Hail Mary, Creed, Anima Christi and Salve Regina, vocally or mentally, \"in the customary manner.\"",
+				"pt-BR": "A oração termina com a recitação da Ave Maria, do Credo, da Alma de Cristo e da Salve Rainha, vocal ou mentalmente, \"do modo costumado.\""
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "prayer",
+			"ref": "apostles-creed"
+		},
+		{
+			"type": "prayer",
+			"ref": "anima-christi"
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-holy-queen"
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Then a colloquy, in a few words, with the Person to whom you have prayed, \"asking for the virtues or graces of which he feels himself to have greater need.\"",
+				"pt-BR": "Depois um colóquio, em poucas palavras, com a Pessoa a quem orou, \"pedindo as virtudes ou graças de que sente ter mais necessidade.\""
+			}
+		}
+	]
+}

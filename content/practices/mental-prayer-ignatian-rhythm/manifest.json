@@ -1,0 +1,69 @@
+{
+	"id": "mental-prayer-ignatian-rhythm",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Ignatian — third method",
+			"pt-BR": "Inaciano — terceiro modo"
+		},
+		"description": {
+			"en-US": "A vocal prayer said one word to a breath. The remedy for days of dryness, when meditation is impossible.",
+			"pt-BR": "Uma oração vocal dita uma palavra a cada respiração. O remédio para os dias de aridez, quando é impossível meditar."
+		},
+		"order": 13
+	},
+	"name": {
+		"en-US": "Mental Prayer — Third Ignatian Method",
+		"pt-BR": "Oração Mental — Terceiro Modo Inaciano"
+	},
+	"source": {
+		"en-US": "St. Ignatius of Loyola, *Spiritual Exercises* (1548), Three Methods of Prayer; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Santo Inácio de Loyola, *Exercícios Espirituais* (1548), Três Modos de Orar; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "The third of St. Ignatius' three methods — prayer *por compás*, by measure: one word between one breath and the next. Less a method of meditation than a way of saying vocal prayers with care; it comes into its own in dryness, when all prayer is distasteful and reflection will not come.",
+		"pt-BR": "O terceiro dos três modos de orar de Santo Inácio — a oração *por compasso*: uma palavra entre uma respiração e outra. Menos um método de meditação do que um modo de dizer orações vocais com cuidado; mostra o seu valor na aridez, quando toda oração desagrada e a reflexão não vem."
+	},
+	"history": {
+		"en-US": "St. Ignatius gave this as the last of the three methods of prayer that close the *Spiritual Exercises*. It rests on something he never forgets: that soul and body depend on one another, and that we are to pray with the whole of ourselves.",
+		"pt-BR": "Santo Inácio deu este como o último dos três modos de orar que encerram os *Exercícios Espirituais*. Apoia-se em algo que ele nunca esquece: que alma e corpo dependem um do outro, e que devemos orar com todo o nosso ser."
+	},
+	"howToPray": {
+		"en-US": "Begin as in the other methods. Then say the Our Father, or the Hail Mary, or another prayer, in the heart — one word only between one breath and the next. While the breath lasts, attend to one thing: what the word means, or the Person you are speaking to, or your own lowliness, or the distance between the two.",
+		"pt-BR": "Comece como nos outros modos. Depois diga o Pai Nosso, ou a Ave Maria, ou outra oração, no coração — uma só palavra entre uma respiração e outra. Enquanto dura a respiração, atenda a uma só coisa: o que significa a palavra, ou a Pessoa a quem fala, ou a sua própria baixeza, ou a distância entre as duas."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"ignatian",
+		"ignatius",
+		"jesuit",
+		"spiritual-exercises",
+		"vocal",
+		"breath",
+		"aridity"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

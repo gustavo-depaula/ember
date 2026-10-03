@@ -1,0 +1,210 @@
+{
+	"sections": [
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "I. The Preparation",
+				"pt-BR": "I. A Preparação"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "An act of recollection",
+				"pt-BR": "Um ato de recolhimento"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "\"Kneeling, standing, prostrate on the ground, or, if need be, sitting, having made the Sign of the Cross, let us gather up our thoughts, and put away from us all the things of this life; then let us lift up our mind to our Lord, as knowing that He is looking for us.\"",
+				"pt-BR": "\"De joelhos, de pé, prostrados por terra, ou, se for preciso, sentados, feito o Sinal da Cruz, recolhamos os nossos pensamentos, e afastemos de nós todas as coisas desta vida; depois elevemos o espírito ao Senhor, sabendo que Ele está à nossa procura.\""
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "An act of contrition",
+				"pt-BR": "Um ato de contrição"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "If the meditation be made in the morning, the Confiteor should be said; if in the evening, we should examine our consciences, grieve over our shortcomings, and humble ourselves before God. The words of Abraham may be used:",
+				"pt-BR": "Se a meditação se faz de manhã, diga-se o Confiteor; se à tarde, examinemos a consciência, doamo-nos das nossas faltas, e humilhemo-nos diante de Deus. Podem usar-se as palavras de Abraão:"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "I will speak to my Lord, whereas I am dust and ashes.\n— Genesis 18:27",
+				"pt-BR": "Falarei ao meu Senhor, embora eu seja pó e cinza.\n— Gênesis 18, 27"
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "confiteor"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "A petition for the Divine assistance",
+				"pt-BR": "Uma petição do auxílio Divino"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The *Veni Creator*, and a petition for the grace of attention, devotion, interior recollectedness, fear and reverence, \"that we may so use this time of prayer that we may come from it with new fervour and strength for all the needs of His service. Prayer which does not produce this fruit immediately is very imperfect and almost valueless.\"",
+				"pt-BR": "O *Veni Creator*, e uma petição da graça da atenção, da devoção, do recolhimento interior, do temor e da reverência, \"para que usemos este tempo de oração de tal modo que dele saiamos com novo fervor e forças para todas as necessidades do seu serviço. A oração que não produz logo este fruto é muito imperfeita e quase sem valor.\""
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "veni-creator"
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "II. The Reading",
+				"pt-BR": "II. A Leitura"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The reading \"of what we have to meditate upon in prayer\" must be \"attentive and serious,\" not merely \"that we may understand with our minds, but still more we should give to it our whole will, that we may taste the sweetness of what we read.\" The reading should not be long, for its object is to lead to meditation and prayer.",
+				"pt-BR": "A leitura \"do que havemos de meditar na oração\" deve ser \"atenta e séria\", não só \"para entendermos com o espírito, mas mais ainda devemos aplicar-lhe toda a vontade, para saborearmos a doçura do que lemos.\" A leitura não deve ser longa, pois o seu fim é conduzir à meditação e à oração."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "III. The Meditation",
+				"pt-BR": "III. A Meditação"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "This may be of two kinds, intellectual or imaginative. The former will be used with such subjects as the Perfections of God and His blessings; the latter with more concrete ones, such as the last things and the Mysteries of the Life and Passion of our Lord.",
+				"pt-BR": "Pode ser de dois gêneros, intelectual ou imaginativa. A primeira usa-se com temas como as Perfeições de Deus e os seus benefícios; a segunda com temas mais concretos, como os novíssimos e os Mistérios da Vida e Paixão do Senhor."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "In the latter \"we should try to represent to our minds each item of our subject as it really is, or would become, and as though the action were being performed in our presence, in the very place in which we are.\" This is much better than letting our minds travel into the past, as to an historical act taking place afar off. We must not use too much violence in this exercise of the imagination, \"lest it weaken its capacity\" and we exhaust ourselves so that we are unable to pray well.",
+				"pt-BR": "Nesta \"devemos procurar representar ao espírito cada coisa do nosso tema como realmente é, ou viria a ser, e como se a ação se realizasse na nossa presença, no próprio lugar onde estamos.\" Isto é muito melhor do que deixar o espírito viajar ao passado, como a um fato histórico que se dá ao longe. Não devemos usar demasiada violência neste exercício da imaginação, \"para que não se enfraqueça a sua capacidade\" e não nos esgotemos a ponto de não podermos orar bem."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "On the Passion: \"We should have our Lord present before our eyes, as actually suffering, and with all the circumstances of that suffering; especially in these four points: *Who is it that suffers? For whom does He suffer? How does He suffer? For what cause does He suffer?*\"",
+				"pt-BR": "Sobre a Paixão: \"Devemos ter o Senhor presente diante dos olhos, como atualmente padecendo, e com todas as circunstâncias desse padecer; especialmente nestes quatro pontos: *Quem é o que padece? Por quem padece? Como padece? Por que causa padece?*\""
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "His aim is \"love and the affections of the will rather than the speculations of the understanding,\" so that \"as soon as one should feel himself fired by the love of God he should forthwith put aside all these considerations and thoughts, and leave meditation for the love of contemplation.\"",
+				"pt-BR": "O seu fim é \"o amor e os afetos da vontade, mais do que as especulações do entendimento\", de modo que \"logo que alguém se sentir inflamado pelo amor de Deus, deve deixar imediatamente todas estas considerações e pensamentos, e trocar a meditação pelo amor da contemplação.\""
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "IV. The Thanksgiving",
+				"pt-BR": "IV. A Ação de Graças"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "First, for the subject upon which we have meditated; then for the blessings of creation, redemption, vocation: for God's goodness in having created us in His own Image and Likeness, for having endowed us with the powers of Memory, Intellect and Will that we might remember, know and love Him; for our Guardian Angel, the Incarnation and Redemption; for our birth of Christian parents, our Baptism and the other Sacraments; and for all the particular inspirations and blessings He has bestowed upon us — saying, if we will, the *Benedicite omnia opera* or Psalm 102.",
+				"pt-BR": "Primeiro, pelo tema sobre o qual meditamos; depois pelos benefícios da criação, da redenção, da vocação: pela bondade de Deus em nos ter criado à sua Imagem e Semelhança, por nos ter dotado das potências da Memória, do Entendimento e da Vontade para d'Ele nos lembrarmos, O conhecermos e amarmos; pelo nosso Anjo da Guarda, pela Encarnação e Redenção; por termos nascido de pais cristãos, pelo nosso Batismo e pelos outros Sacramentos; e por todas as inspirações e benefícios particulares que nos concedeu — dizendo, se quisermos, o *Benedicite omnia opera* ou o Salmo 102."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "V. The Oblation of Ourselves",
+				"pt-BR": "V. O Oferecimento de Nós Mesmos"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Aroused by the thought of what God has done for us, we cry:",
+				"pt-BR": "Despertados pelo pensamento do que Deus fez por nós, exclamamos:"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "What shall I render to the Lord, for all the things he hath rendered to me?\n— Psalm 115:12",
+				"pt-BR": "Que retribuirei ao Senhor por todos os benefícios que me tem feito?\n— Salmo 115, 12"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "And we go on to make a twofold offering to Him. First, to be His servants for ever, submitting ourselves wholly and entirely to the Divine Will.",
+				"pt-BR": "E passamos a fazer-Lhe uma dupla oferta. Primeiro, a de sermos seus servos para sempre, submetendo-nos total e inteiramente à Vontade Divina."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Second: \"We should offer to God the Father all the merits and labours of His dear Son, all the travails of His soul which, in His obedience, in this world He endured, from the Manger-crib to Calvary; for all these are our health and the inheritance which He hath bequeathed to us in that New Covenant by which He hath made us heirs of so great a treasure. For as that is no less our own which He has bestowed upon us of His grace than that which we have obtained by our own efforts, so those merits and gifts which He hath bestowed upon us are as much our own as if we had toiled and laboured for them ourselves. This is the best and most precious offering we can make.\"",
+				"pt-BR": "Segundo: \"Devemos oferecer a Deus Pai todos os méritos e trabalhos de seu Filho querido, todas as fadigas da sua alma que, na sua obediência, suportou neste mundo, desde o Presépio até o Calvário; pois tudo isso é a nossa salvação e a herança que nos legou naquela Nova Aliança pela qual nos fez herdeiros de tão grande tesouro. Porque, assim como não é menos nosso o que Ele nos concedeu por sua graça do que aquilo que alcançamos pelo nosso esforço, assim os méritos e dons que Ele nos concedeu são tão nossos como se por eles tivéssemos nós mesmos suado e trabalhado. Esta é a melhor e mais preciosa oferta que podemos fazer.\""
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "VI. The Petition",
+				"pt-BR": "VI. A Petição"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "This is to be of the most confident and comprehensive order. We begin \"with all the fulness of love and zeal for the honour of our Blessed Lord,\" with the prayer that all men may come to know, praise and adore Him; going on to pray for the Pope and all the prelates of the Church; for rulers; for all the members of Christ's Mystical Body; for the righteous; for sinners; for the holy souls; for all the sick and poor, prisoners and captives.",
+				"pt-BR": "Há de ser da ordem mais confiante e abrangente. Começamos \"com toda a plenitude do amor e do zelo pela honra de nosso bendito Senhor\", pedindo que todos os homens cheguem a conhecê-Lo, louvá-Lo e adorá-Lo; passando a orar pelo Papa e por todos os prelados da Igreja; pelos governantes; por todos os membros do Corpo Místico de Cristo; pelos justos; pelos pecadores; pelas almas santas; por todos os doentes e pobres, presos e cativos."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Then we beg for ourselves the remission of our sins and grace to overcome our temptations; for the virtues in which consists all Christian perfection — Faith, Hope, Charity, Holy Fear, Humility, Patience, Obedience, Fortitude, Poverty of Spirit, Contempt for Worldly Things, true Discretion, Purity of Intention; and lastly \"for such lesser virtues which will yet help us to keep the greater ones\" — temperance, control of the tongue, guardianship of the senses, gravity and recollectedness of the exterior, sweetness of manner, good example, strictness with ourselves.",
+				"pt-BR": "Depois pedimos para nós a remissão dos nossos pecados e graça para vencer as nossas tentações; as virtudes em que consiste toda a perfeição cristã — Fé, Esperança, Caridade, Santo Temor, Humildade, Paciência, Obediência, Fortaleza, Pobreza de Espírito, Desprezo das Coisas do Mundo, verdadeira Discrição, Pureza de Intenção; e por fim \"aquelas virtudes menores que, contudo, nos ajudam a guardar as maiores\" — temperança, domínio da língua, guarda dos sentidos, gravidade e recolhimento do exterior, mansidão no trato, bom exemplo, rigor conosco mesmos."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Conclude with a prayer of most earnest longing and desire for the love of God.",
+				"pt-BR": "Conclua com uma oração do mais ardente anseio e desejo do amor de Deus."
+			}
+		},
+		{
+			"type": "collapsible",
+			"title": {
+				"en-US": "On the length of this prayer",
+				"pt-BR": "Sobre a duração desta oração"
+			},
+			"sections": [
+				{
+					"type": "meditation",
+					"text": {
+						"en-US": "The most striking thing about this method is its completeness. It is not merely a meditation, distinct from our other prayers and devotional exercises; it embraces them all in one act, which St. Peter thinks should occupy not less than an hour and a half to two hours, half an hour of which he would have devoted to the preparation, \"to tune the viol and calm the imagination.\" Most people nowadays would probably have to divide it up in separate times during the day. Even then, it would be a distinct advantage to link all our spiritual exercises each day to one main, predominant thought arising out of our mental prayer.",
+						"pt-BR": "O que mais impressiona neste método é a sua integridade. Não é apenas uma meditação, distinta das nossas outras orações e exercícios de devoção; abraça-os todos num só ato, que São Pedro pensa dever ocupar não menos de hora e meia a duas horas, das quais quereria meia hora dedicada à preparação, \"para afinar a viola e sossegar a imaginação.\" A maior parte das pessoas hoje teria provavelmente de reparti-lo em tempos separados ao longo do dia. Mesmo assim, seria grande vantagem ligar cada dia todos os nossos exercícios espirituais a um pensamento principal e dominante, nascido da nossa oração mental."
+					}
+				}
+			]
+		}
+	]
+}

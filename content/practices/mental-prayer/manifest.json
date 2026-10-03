@@ -4,13 +4,14 @@
 	"alternativeTo": {
 		"id": "mental-prayer",
 		"label": {
-			"en-US": "St. Alphonsus Liguori",
-			"pt-BR": "Santo Afonso de Ligório"
+			"en-US": "Liguorian (St. Alphonsus)",
+			"pt-BR": "Ligoriano (Santo Afonso)"
 		},
 		"description": {
 			"en-US": "Three parts — preparation, meditation, conclusion — with short fixed acts and three fruits: affections, petitions, resolutions.",
 			"pt-BR": "Três partes — preparação, meditação, conclusão — com atos breves fixos e três frutos: afetos, súplicas e resoluções."
-		}
+		},
+		"order": 1
 	},
 	"name": {
 		"en-US": "Mental Prayer",

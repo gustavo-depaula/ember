@@ -1,0 +1,69 @@
+{
+	"id": "mental-prayer-ignatian-senses",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Ignatian — application of the senses",
+			"pt-BR": "Inaciano — aplicação dos sentidos"
+		},
+		"description": {
+			"en-US": "A mystery of our Lord's life gone over with the five senses of the imagination: seeing, hearing, tasting, touching.",
+			"pt-BR": "Um mistério da vida do Senhor percorrido com os cinco sentidos da imaginação: ver, ouvir, saborear, tocar."
+		},
+		"order": 14
+	},
+	"name": {
+		"en-US": "Mental Prayer — Application of the Senses",
+		"pt-BR": "Oração Mental — Aplicação dos Sentidos"
+	},
+	"source": {
+		"en-US": "St. Ignatius of Loyola, *Spiritual Exercises* (1548), Second Week, fifth contemplation; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Santo Inácio de Loyola, *Exercícios Espirituais* (1548), Segunda Semana, quinta contemplação; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "St. Ignatius' way of returning to a mystery already meditated: not reasoning about it, but carrying the five senses over it — seeing the persons, hearing what they say, tasting the sweetness of the Godhead, touching the place where they stand.",
+		"pt-BR": "O modo de Santo Inácio de voltar a um mistério já meditado: não raciocinando sobre ele, mas passando por ele os cinco sentidos — vendo as pessoas, ouvindo o que dizem, saboreando a doçura da Divindade, tocando o lugar onde estão."
+	},
+	"history": {
+		"en-US": "In the *Spiritual Exercises* the application of the senses is the evening prayer of the Second Week: after the day's contemplations on the Incarnation and the Nativity, the fifth is \"to carry the five senses\" over the first two. Outside a retreat it suits best those who know the mysteries of our Lord's life well and are being drawn from reasoning toward affective prayer — and equally those who cannot reason much at all, and who can make it before a crib, a crucifix or a picture.",
+		"pt-BR": "Nos *Exercícios Espirituais* a aplicação dos sentidos é a oração da tarde da Segunda Semana: depois das contemplações do dia sobre a Encarnação e o Nascimento, a quinta é \"trazer os cinco sentidos\" sobre as duas primeiras. Fora do retiro convém sobretudo aos que conhecem bem os mistérios da vida do Senhor e vão sendo atraídos do raciocínio à oração afetiva — e igualmente aos que quase não conseguem raciocinar, e que podem fazê-la diante de um presépio, de um crucifixo ou de uma imagem."
+	},
+	"howToPray": {
+		"en-US": "Take a mystery you already know — best, one you have lately meditated. After the preparatory prayer, go through it sense by sense, drawing some fruit from each. Do not strain the imagination: this is the same faculty by which a place you once loved comes back to you with its light and its sounds. End by speaking to our Lord, to our Lady, or to the Holy Trinity.",
+		"pt-BR": "Tome um mistério que já conhece — de preferência, um que meditou há pouco. Depois da oração preparatória, percorra-o sentido por sentido, tirando algum fruto de cada um. Não force a imaginação: é a mesma faculdade pela qual um lugar que você amou lhe volta com a sua luz e os seus sons. Termine falando ao Senhor, a Nossa Senhora, ou à Santíssima Trindade."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"ignatian",
+		"ignatius",
+		"jesuit",
+		"spiritual-exercises",
+		"imagination",
+		"contemplation",
+		"gospel"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

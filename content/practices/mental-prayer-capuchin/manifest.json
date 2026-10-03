@@ -1,0 +1,67 @@
+{
+	"id": "mental-prayer-capuchin",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Capuchin (Joseph du Tremblay)",
+			"pt-BR": "Capuchinho (José du Tremblay)"
+		},
+		"description": {
+			"en-US": "Three parts of four acts each: four acts of preparation, four looks at the mystery, four movements of the will. Bellintani da Salò's earlier method is given beside it.",
+			"pt-BR": "Três partes de quatro atos cada: quatro atos de preparação, quatro olhares sobre o mistério, quatro movimentos da vontade. O método anterior de Bellintani da Salò é dado ao lado."
+		},
+		"order": 21
+	},
+	"name": {
+		"en-US": "Mental Prayer — Capuchin Method",
+		"pt-BR": "Oração Mental — Método Capuchinho"
+	},
+	"source": {
+		"en-US": "Fr. Joseph du Tremblay, O.F.M. Cap., *Introduction à la vie spirituelle par une facile méthode d'oraison*; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "P. José du Tremblay, O.F.M. Cap., *Introduction à la vie spirituelle par une facile méthode d'oraison*; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "A method written for Capuchin novices, and one of the simplest and most attractive there is: twelve acts in three fours. Its mark is that the meditation begins not with ourselves but with God, whose perfection the mystery shows.",
+		"pt-BR": "Um método escrito para noviços capuchinhos, e um dos mais simples e atraentes que há: doze atos em três grupos de quatro. A sua marca é que a meditação começa não por nós, mas por Deus, cuja perfeição o mistério manifesta."
+	},
+	"history": {
+		"en-US": "Fr. Joseph du Tremblay (1577–1638), the Capuchin friar remembered as Richelieu's *Père Joseph*, wrote it to lead his novices toward the higher degrees of prayer. It recalls the Ignatian plan but breathes the Franciscan spirit. An earlier Capuchin, Fra Mattia Bellintani da Salò (1534–1611), had already taught a three-part prayer of preparation, meditation and acts of the will, insisting above all on the *desire* for prayer, which brings us to it and makes it fruitful.",
+		"pt-BR": "O P. José du Tremblay (1577–1638), o frade capuchinho lembrado como o *Père Joseph* de Richelieu, escreveu-o para conduzir os seus noviços aos graus mais altos da oração. Lembra o plano inaciano, mas respira o espírito franciscano. Um capuchinho anterior, Frei Mattia Bellintani da Salò (1534–1611), já ensinara uma oração em três partes — preparação, meditação e atos da vontade —, insistindo sobretudo no *desejo* da oração, que a ela nos leva e a torna frutuosa."
+	},
+	"howToPray": {
+		"en-US": "Choose a mystery of our Lord's life. Make the four acts of preparation briefly. Give about a third of the time to the four considerations — God, yourself, what Christ does or suffers, and why — and the rest to the will: offering, asking, resolving to imitate, and uniting yourself to Him.",
+		"pt-BR": "Escolha um mistério da vida do Senhor. Faça brevemente os quatro atos de preparação. Dê cerca de um terço do tempo às quatro considerações — Deus, você mesmo, o que Cristo faz ou padece, e por quê — e o resto à vontade: oferecer, pedir, propor a imitação, e unir-se a Ele."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"franciscan",
+		"capuchin",
+		"joseph-du-tremblay",
+		"affective",
+		"union"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"id": "mental-prayer-redemptorist",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Redemptorist (Desurmont)",
+			"pt-BR": "Redentorista (Desurmont)"
+		},
+		"description": {
+			"en-US": "St. Alphonsus' method as the Redemptorists hand it on: consideration, act of virtue, petition, and a resolution both general and particular.",
+			"pt-BR": "O método de Santo Afonso tal como os redentoristas o transmitem: consideração, ato de virtude, petição, e uma resolução geral e particular."
+		},
+		"order": 45
+	},
+	"name": {
+		"en-US": "Mental Prayer — Redemptorist Method",
+		"pt-BR": "Oração Mental — Método Redentorista"
+	},
+	"source": {
+		"en-US": "Constructed from the works of St. Alphonsus Liguori and the explanations of Fr. Achille Desurmont, C.Ss.R., in Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Construído a partir das obras de Santo Afonso de Ligório e das explicações do P. Achille Desurmont, C.Ss.R., em Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "St. Alphonsus does not give a detailed method as St. Ignatius or St. Francis de Sales do, but it is easy to construct one from his teaching, and long use has proved its peculiar and practical value. Its mark is his insistence that the principal fruit of meditation is *prayer*: we do not reflect in order to reflect, but in order to ask.",
+		"pt-BR": "Santo Afonso não dá um método detalhado como Santo Inácio ou São Francisco de Sales, mas é fácil construir um a partir do seu ensino, e o longo uso provou o seu valor peculiar e prático. A sua marca é a insistência em que o principal fruto da meditação é a *oração*: não refletimos para refletir, mas para pedir."
+	},
+	"history": {
+		"en-US": "No writer on mental prayer insists so strongly on the prayer of petition as St. Alphonsus (1696–1787). To him it is almost the centre of all, since not only are we in absolute need of grace, but God has made His gifts conditional on our desire and search for them. Père Desurmont, one of the ablest and most faithful modern exponents of the Redemptorist tradition, set the method out in four operations — the renewal of the spirit by the consideration of the faith, of the heart by the acts of the virtues, of grace by the prayer of petition, and of a good will by the resolution.",
+		"pt-BR": "Nenhum autor de oração mental insiste tanto na oração de petição como Santo Afonso (1696–1787). Para ele é quase o centro de tudo, pois não só temos absoluta necessidade da graça, mas Deus fez os seus dons depender do nosso desejo e da nossa busca. O P. Desurmont, um dos mais hábeis e fiéis expositores modernos da tradição redentorista, expôs o método em quatro operações — a renovação do espírito pela consideração da fé, do coração pelos atos das virtudes, da graça pela oração de petição, e da boa vontade pela resolução."
+	},
+	"howToPray": {
+		"en-US": "The essential conditions of all prayer are that it should be real — a conviction that one is not speaking into the air but to a Person; simple — natural as to tone, familiar and ordinary; and appropriate to one's actual state: it is the actual self which must pray. Two things make it easier: the liberty of using vocal prayer during the meditation, and freedom to repeat the same thing over and over again, as does the Church in her litanies. The meditation should not occupy more than a third of the whole time.",
+		"pt-BR": "As condições essenciais de toda oração são que seja real — a convicção de que não se fala ao vento, mas a uma Pessoa; simples — natural no tom, familiar e ordinária; e adequada ao estado atual de cada um: é o eu real que deve orar. Duas coisas a facilitam: a liberdade de usar a oração vocal durante a meditação, e a liberdade de repetir a mesma coisa uma e outra vez, como faz a Igreja nas suas ladainhas. A meditação não deve ocupar mais de um terço de todo o tempo."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"alphonsus",
+		"liguori",
+		"liguorian",
+		"redemptorist",
+		"desurmont",
+		"petition",
+		"resolutions"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

@@ -1,0 +1,136 @@
+{
+	"sections": [
+		{
+			"type": "options",
+			"label": {
+				"en-US": "Method",
+				"pt-BR": "Método"
+			},
+			"options": [
+				{
+					"id": "joseph-du-tremblay",
+					"label": {
+						"en-US": "Père Joseph",
+						"pt-BR": "Père Joseph"
+					},
+					"sections": [
+						{
+							"type": "section-marker",
+							"title": {
+								"en-US": "I. The Preparation",
+								"pt-BR": "I. A Preparação"
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Four acts:\n— of making a right intention;\n— of profound humiliation;\n— of recalling to mind the subject chosen;\n— of withdrawal from distractions.",
+								"pt-BR": "Quatro atos:\n— de reta intenção;\n— de profunda humilhação;\n— de recordar o tema escolhido;\n— de afastamento das distrações."
+							}
+						},
+						{
+							"type": "section-marker",
+							"title": {
+								"en-US": "II. The Meditation",
+								"pt-BR": "II. A Meditação"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The application of the memory, imagination and intellect to the subject in four acts, by which we seek a knowledge:\n— of God, the prototype of the particular perfection manifested in the mystery we are considering;\n— of oneself;\n— of what our Lord does or suffers in this mystery;\n— of the end for which He works or suffers.",
+								"pt-BR": "A aplicação da memória, da imaginação e do entendimento ao tema em quatro atos, pelos quais buscamos o conhecimento:\n— de Deus, protótipo da perfeição particular manifestada no mistério que consideramos;\n— de si mesmo;\n— do que o Senhor faz ou padece neste mistério;\n— do fim para o qual Ele opera ou padece."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "In an hour's prayer, about twenty minutes are to be spent on this part.",
+								"pt-BR": "Numa hora de oração, gastem-se nesta parte cerca de vinte minutos."
+							}
+						},
+						{
+							"type": "section-marker",
+							"title": {
+								"en-US": "III. Affections of the Will",
+								"pt-BR": "III. Afetos da Vontade"
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "Four acts:\n— of oblation;\n— of petition;\n— of imitation;\n— of union.",
+								"pt-BR": "Quatro atos:\n— de oferecimento;\n— de petição;\n— de imitação;\n— de união."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "The first act of the meditation emphasises the pre-eminence of God, whose perfections and ways should ever be the first object of our worship and our prayer.",
+								"pt-BR": "O primeiro ato da meditação sublinha a preeminência de Deus, cujas perfeições e caminhos devem ser sempre o primeiro objeto do nosso culto e da nossa oração."
+							}
+						}
+					]
+				},
+				{
+					"id": "bellintani",
+					"label": {
+						"en-US": "Bellintani da Salò",
+						"pt-BR": "Bellintani da Salò"
+					},
+					"sections": [
+						{
+							"type": "section-marker",
+							"title": {
+								"en-US": "I. Preparation",
+								"pt-BR": "I. Preparação"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The remote preparation consists in avoiding sin and in cultivating the desire for prayer — the desire which brings us to prayer, makes it fruitful, and preserves us from worldly thoughts and that frittering away of time in unnecessary things which hinders and disturbs so much of our life.",
+								"pt-BR": "A preparação remota consiste em evitar o pecado e em cultivar o desejo da oração — desejo que nos leva à oração, a torna frutuosa, e nos preserva dos pensamentos mundanos e daquele desperdício de tempo em coisas desnecessárias que tanto estorva e perturba a nossa vida."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "The immediate preparation is made by two profound acts:\n— of humility of heart;\n— of contrition for our sins.",
+								"pt-BR": "A preparação imediata faz-se por dois atos profundos:\n— de humildade de coração;\n— de contrição pelos nossos pecados."
+							}
+						},
+						{
+							"type": "section-marker",
+							"title": {
+								"en-US": "II. Meditation",
+								"pt-BR": "II. Meditação"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The subject should be divided into points, so that the mind, proceeding logically and easily by degrees, may better take in the whole. This part is most important for beginners, since they need matter to kindle the fire of desires and affections of the will.",
+								"pt-BR": "O tema deve dividir-se em pontos, para que o espírito, procedendo com ordem e facilidade, por degraus, melhor abarque o todo. Esta parte é a mais importante para os principiantes, pois precisam de matéria para acender o fogo dos desejos e afetos da vontade."
+							}
+						},
+						{
+							"type": "section-marker",
+							"title": {
+								"en-US": "III. Acts of the Will",
+								"pt-BR": "III. Atos da Vontade"
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "The soul is drawn to Him upon whom she has meditated, and pours herself out in acts of fear, of contrition, of desire, of hope and of love. From these are derived the resolutions and prayers with which our prayer should conclude:\n— the definite purpose of amendment and of a deeper love for God;\n— the oblation of one's whole self to Him;\n— acts of praise, thanksgiving and love.",
+								"pt-BR": "A alma é atraída Àquele sobre quem meditou, e derrama-se em atos de temor, de contrição, de desejo, de esperança e de amor. Destes derivam as resoluções e preces com que a nossa oração deve concluir:\n— o propósito firme de emenda e de um amor mais profundo a Deus;\n— o oferecimento de todo o próprio ser a Ele;\n— atos de louvor, ação de graças e amor."
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

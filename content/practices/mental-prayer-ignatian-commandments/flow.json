@@ -1,0 +1,167 @@
+{
+	"sections": [
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "This method is designed to a particular end: a clearer knowledge of self and of one's sins, a deeper penitence, and a seeking of grace to amend one's life, to the greater glory of God — all of which is asked for in the preparatory prayer.",
+				"pt-BR": "Este modo ordena-se a um fim particular: um conhecimento mais claro de si e dos próprios pecados, uma penitência mais profunda, e a busca da graça para emendar a vida, para maior glória de Deus — tudo o que se pede na oração preparatória."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "I. The Preparation",
+				"pt-BR": "I. A Preparação"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "First, consider what you are going to do: \"let the mind repose a little, either sitting or walking, as shall seem best, considering meanwhile whither I am going and for what purpose.\"",
+				"pt-BR": "Primeiro, considere o que vai fazer: \"repouse um pouco o espírito, sentado ou passeando, como melhor lhe parecer, considerando entretanto aonde vou e a quê.\""
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Then a preparatory prayer, \"as in this manner: to ask grace of God our Lord that I may know wherein I have failed regarding the Ten Commandments; and likewise to ask grace and aid to amend myself in future, begging for a perfect understanding of them, the better to keep them, to the greater glory and praise of His Divine Majesty.\" The same is asked for whatever subject is taken.",
+				"pt-BR": "Depois uma oração preparatória, \"assim como: pedir graça a Deus nosso Senhor para que eu possa conhecer em que faltei acerca dos Dez Mandamentos; e do mesmo modo pedir graça e ajuda para me emendar daqui em diante, pedindo perfeita inteligência deles, para melhor os guardar, para maior glória e louvor de sua Divina Majestade.\" O mesmo se pede qualquer que seja a matéria tomada."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "II. The Body of the Prayer",
+				"pt-BR": "II. O Corpo da Oração"
+			}
+		},
+		{
+			"type": "options",
+			"label": {
+				"en-US": "Subject",
+				"pt-BR": "Matéria"
+			},
+			"options": [
+				{
+					"id": "commandments",
+					"label": {
+						"en-US": "Commandments",
+						"pt-BR": "Mandamentos"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "Each Commandment is to be considered separately for the space of three Our Fathers and three Hail Marys, with the object of discovering how it has been kept or broken, pardon being sought for each failure with an Our Father.",
+								"pt-BR": "Cada Mandamento considera-se separadamente pelo espaço de três Pai Nossos e três Ave Marias, com o fim de descobrir como foi guardado ou quebrado, pedindo-se perdão de cada falta com um Pai Nosso."
+							}
+						},
+						{
+							"type": "rubric",
+							"text": {
+								"en-US": "The time spent on each will vary, as \"when a man finds he has no habit of sinning, it is not necessary to stay on it so long.\" The Commandments of the Church may be taken in the same way.",
+								"pt-BR": "O tempo gasto em cada um variará, pois \"quando alguém acha que não tem hábito de pecar, não é preciso deter-se nele tanto tempo.\" Os Mandamentos da Igreja podem tomar-se do mesmo modo."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						}
+					]
+				},
+				{
+					"id": "deadly-sins",
+					"label": {
+						"en-US": "Deadly sins",
+						"pt-BR": "Pecados capitais"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "\"The matter here is of sins, which are to be avoided, whereas before it was of Commandments, which are to be kept. The better to know the faults committed on the seven Deadly Sins, let their contraries be considered; and so, the better to avoid them, let the person propose and take care with holy exercises to acquire and keep the seven Virtues contrary to them.\"",
+								"pt-BR": "\"A matéria aqui é de pecados, que se hão de evitar, ao passo que antes era de Mandamentos, que se hão de guardar. Para melhor conhecer as faltas cometidas nos sete pecados capitais, olhem-se os seus contrários; e assim, para melhor evitá-los, proponha a pessoa e procure com santos exercícios adquirir e conservar as sete virtudes a eles contrárias.\""
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						}
+					]
+				},
+				{
+					"id": "powers",
+					"label": {
+						"en-US": "Powers of the soul",
+						"pt-BR": "Potências da alma"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "On memory, understanding and will the Saint gives no directions. What is evidently intended is the consideration of how the three great powers of the soul have been used or abused, and the endeavour to understand and appreciate their functions, that we may use them aright.",
+								"pt-BR": "Sobre a memória, o entendimento e a vontade o Santo não dá indicações. O que evidentemente se pretende é considerar como as três grandes potências da alma foram usadas ou abusadas, e procurar entender e apreciar as suas funções, para as usarmos retamente."
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						}
+					]
+				},
+				{
+					"id": "senses",
+					"label": {
+						"en-US": "Five senses",
+						"pt-BR": "Cinco sentidos"
+					},
+					"sections": [
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "\"Whoever wishes in the use of his senses to imitate Christ our Lord, let him commend himself in the preparatory prayer to His Divine Majesty; and after the consideration of each sense let him say one Our Father and one Hail Mary.\"",
+								"pt-BR": "\"Quem quiser imitar no uso dos seus sentidos a Cristo nosso Senhor, encomende-se na oração preparatória a sua Divina Majestade; e depois de considerado cada sentido, diga um Pai Nosso e uma Ave Maria.\""
+							}
+						},
+						{
+							"type": "meditation",
+							"text": {
+								"en-US": "\"And whoever wishes in the use of his senses to imitate our Lady, let him commend himself to her in the preparatory prayer, that she may obtain him grace of her Son and Lord to this purpose; and after the consideration of each sense let him say one Hail Mary.\"",
+								"pt-BR": "\"E quem quiser imitar no uso dos sentidos a Nossa Senhora, encomende-se a ela na oração preparatória, para que lhe alcance graça de seu Filho e Senhor para isso; e depois de considerado cada sentido, diga uma Ave Maria.\""
+							}
+						},
+						{
+							"type": "prayer",
+							"ref": "our-father"
+						},
+						{
+							"type": "prayer",
+							"ref": "hail-mary"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "St. Ignatius centres attention on the positive side of the subject: \"the Commandments which are to be kept,\" \"the Virtues contrary to the seven Deadly Sins,\" the use of the senses by our Lord and His Mother. The meditation is to be upon what God wills and loves and on what Christ does, so that in His light we may see our sins and ever turn to Him for pardon and grace.",
+				"pt-BR": "Santo Inácio centra a atenção no lado positivo da matéria: \"os Mandamentos que se hão de guardar\", \"as virtudes contrárias aos sete pecados capitais\", o uso dos sentidos por Nosso Senhor e por sua Mãe. A meditação há de ser sobre o que Deus quer e ama e sobre o que Cristo faz, para que na sua luz vejamos os nossos pecados e sempre nos voltemos para Ele pedindo perdão e graça."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "III. The Colloquy",
+				"pt-BR": "III. O Colóquio"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "On concluding the reflection, accusation and begging for grace, make an end by a colloquy with God our Lord, according to the subject matter. A colloquy is a familiar, intimate, loving conversation, as of a child with its father, summing up in the freest acts of prayer what has gone before.",
+				"pt-BR": "Concluída a reflexão, a acusação e o pedido de graça, termine com um colóquio com Deus nosso Senhor, conforme a matéria. O colóquio é uma conversa familiar, íntima e amorosa, como de um filho com seu pai, que resume nos mais livres atos de oração o que precedeu."
+			}
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-olier-virtues",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Olier — meditating on a virtue",
+			"pt-BR": "Olier — meditar numa virtude"
+		},
+		"description": {
+			"en-US": "Three short points on one virtue as it is in Jesus: before the eyes, in the heart, in the hands — with silence after each.",
+			"pt-BR": "Três pontos breves sobre uma virtude tal como está em Jesus: diante dos olhos, no coração, nas mãos — com silêncio depois de cada um."
+		},
+		"order": 51
+	},
+	"name": {
+		"en-US": "Mental Prayer — Olier's Manner of Meditating on the Virtues",
+		"pt-BR": "Oração Mental — Modo de Olier de Meditar nas Virtudes"
+	},
+	"source": {
+		"en-US": "Jean-Jacques Olier, *Introduction à la vie et aux vertus chrétiennes*; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Jean-Jacques Olier, *Introduction à la vie et aux vertus chrétiennes*; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 15,
+	"description": {
+		"en-US": "The Sulpician method at its barest: take one virtue, look at it in Jesus, ask His Spirit to form it in you, and give yourself to Him to work it through you. Three points, each ending in silence.",
+		"pt-BR": "O método sulpiciano no que tem de mais despojado: tome uma virtude, olhe-a em Jesus, peça ao seu Espírito que a forme em si, e entregue-se a Ele para que a opere por meio de si. Três pontos, cada um terminando em silêncio."
+	},
+	"history": {
+		"en-US": "Jean-Jacques Olier (1608–1657), founder of St. Sulpice, drew this manner of praying from the command of the Old Law — \"these words shall be in thy heart… thou shalt bind them as a sign on thy hand, and they shall be between thy eyes\" (Deut. 6:6, 8). His own example was the virtue of penitence. To pray like this, he says, is to pray as our Lord intended, for the three points answer to the first three petitions of the Our Father.",
+		"pt-BR": "Jean-Jacques Olier (1608–1657), fundador de São Sulpício, tirou este modo de orar do mandamento da Lei antiga — \"estas palavras estarão no teu coração… atá-las-ás como sinal na tua mão, e estarão entre os teus olhos\" (Dt 6, 6.8). O seu próprio exemplo era a virtude da penitência. Orar assim, diz ele, é orar como o Senhor quis, pois os três pontos correspondem às três primeiras petições do Pai Nosso."
+	},
+	"howToPray": {
+		"en-US": "Choose one virtue — humility, patience, penitence, obedience — and keep it for some days. Do not reason about it in the abstract: look at Jesus practising it. After each point, stop and remain silent before Him for a while; the silences are part of the prayer.",
+		"pt-BR": "Escolha uma virtude — humildade, paciência, penitência, obediência — e conserve-a por alguns dias. Não raciocine sobre ela em abstrato: olhe Jesus a praticá-la. Depois de cada ponto, pare e fique por algum tempo em silêncio diante d'Ele; os silêncios fazem parte da oração."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"oratorian",
+		"sulpician",
+		"olier",
+		"french-school",
+		"virtues",
+		"adoration"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

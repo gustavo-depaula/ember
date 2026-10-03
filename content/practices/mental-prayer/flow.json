@@ -1,13 +1,6 @@
 {
 	"sections": [
 		{
-			"type": "rubric",
-			"text": {
-				"en-US": "Mental prayer has three parts: the preparation, the meditation, and the conclusion.",
-				"pt-BR": "A meditação ou oração mental contém três partes: a preparação, a meditação e a conclusão."
-			}
-		},
-		{
 			"type": "section-marker",
 			"title": {
 				"en-US": "I. Preparation",
@@ -17,8 +10,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "Three acts are made in the preparation. Make them attentively, but briefly.",
-				"pt-BR": "Na preparação fazem-se três atos. Faça-os com atenção, mas brevemente."
+				"en-US": "Three acts, made attentively but briefly.",
+				"pt-BR": "Três atos, feitos com atenção, mas brevemente."
 			}
 		},
 		{
@@ -66,8 +59,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "Then a Hail Mary to the Blessed Virgin, that she may obtain this light for us; and with the same intention a Glory Be to St. Joseph, to the Guardian Angel, and to our patron saint.",
-				"pt-BR": "Depois uma Ave Maria à Santíssima Virgem, a fim de que nos obtenha esta luz; e na mesma intenção um Glória ao Pai a São José, ao Anjo da Guarda e ao nosso Santo Protetor."
+				"en-US": "Then a Hail Mary to our Lady and a Glory Be to St. Joseph, your Guardian Angel and your patron saint, that they may obtain this light.",
+				"pt-BR": "Depois uma Ave Maria a Nossa Senhora e um Glória ao Pai a São José, ao Anjo da Guarda e ao seu Santo Protetor, para que lhe obtenham esta luz."
 			}
 		},
 		{
@@ -88,6 +81,13 @@
 		{
 			"type": "rubric",
 			"text": {
+				"en-US": "Take a book and read, stopping where the text strikes you.",
+				"pt-BR": "Tome um livro e leia, parando onde o texto o impressionar."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
 				"en-US": "For the meditation, always use a book, at least in the beginning, stopping at the passages that make the greatest impression on you. St. Francis de Sales says that we should imitate the bees, which linger on a flower while they find honey there, and only then fly on to another.",
 				"pt-BR": "Para a meditação sirva-se sempre de um livro, ao menos no começo, parando nas passagens que mais impressão lhe fizerem. São Francisco de Sales diz que devemos imitar as abelhas, que se demoram numa flor enquanto acham mel, e só depois voam para outra."
 			}
@@ -100,7 +100,7 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
 				"en-US": "The meditation bears three fruits: affections, petitions, and resolutions — and in these the profit of mental prayer consists. So, after you have meditated on an eternal truth and God has spoken to your heart, you must speak to God.",
 				"pt-BR": "São três os frutos da meditação: afetos, súplicas e resoluções; nisto é que consiste o proveito da oração mental. Assim, depois de haver meditado numa verdade eterna, e Deus ter falado ao seu coração, é mister que fale a Deus."
@@ -114,10 +114,17 @@
 			}
 		},
 		{
+			"type": "meditation",
+			"text": {
+				"en-US": "That is, by acts of faith, thanksgiving, adoration, praise, humility, and above all of love and of contrition, which is itself an act of love. Love is like a golden chain that binds the soul to God; according to St. Thomas, every act of love merits us one more degree of eternal glory.",
+				"pt-BR": "Isto é, pelos atos de fé, agradecimento, adoração, louvor, humildade, e sobretudo de amor e de contrição, que é também ato de amor. O amor é como que uma corrente de ouro que une a alma a Deus; conforme Santo Tomás, todo ato de amor nos merece mais um grau de glória eterna."
+			}
+		},
+		{
 			"type": "rubric",
 			"text": {
-				"en-US": "That is, by acts of faith, thanksgiving, adoration, praise, humility, and above all of love and of contrition, which is itself an act of love. Love is like a golden chain that binds the soul to God; according to St. Thomas, every act of love merits us one more degree of eternal glory. Examples of acts of love:",
-				"pt-BR": "Isto é, pelos atos de fé, agradecimento, adoração, louvor, humildade, e sobretudo de amor e de contrição, que é também ato de amor. O amor é como que uma corrente de ouro que une a alma a Deus; conforme Santo Tomás, todo ato de amor nos merece mais um grau de glória eterna. Eis exemplos de atos de amor:"
+				"en-US": "Acts of love:",
+				"pt-BR": "Atos de amor:"
 			}
 		},
 		{
@@ -149,7 +156,7 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
 				"en-US": "Asking God for light, for humility or any other virtue, for a good death, for eternal salvation; but chiefly for the gift of His holy love and for holy perseverance — for, as St. Francis de Sales says, with love all graces are obtained.",
 				"pt-BR": "Pedindo a Deus luzes, a humildade ou qualquer outra virtude, uma boa morte, a salvação eterna; mas principalmente o dom do seu santo amor e a santa perseverança, porque, no dizer de São Francisco de Sales, com o amor se alcançam todas as graças."
@@ -158,8 +165,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "If the soul is in great dryness, it is enough to say — and even if we did nothing more, the prayer would be excellent:",
-				"pt-BR": "Se a alma está em grande aridez, basta dizer — e ainda que nada mais fizéssemos, a oração seria excelente:"
+				"en-US": "In great dryness it is enough to say this — and even if you did nothing more, the prayer would be excellent:",
+				"pt-BR": "Em grande aridez basta dizer isto — e ainda que nada mais fizesse, a oração seria excelente:"
 			}
 		},
 		{
@@ -177,7 +184,7 @@
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
 				"en-US": "Before ending the prayer, take some resolution — *not a general one*, such as avoiding every deliberate fault or giving yourself entirely to God, but *a particular one*: to guard more carefully against the fault you fall into most often, or to practise better the virtue you most need — to bear with the temper of such a person, to obey a superior or a rule more exactly, to mortify yourself more often on such a point.",
 				"pt-BR": "Antes de terminar a oração, tome alguma resolução — *não geral*, como por exemplo evitar toda falta deliberada ou dar-se todo a Deus, mas *particular*: evitar com mais cuidado o defeito em que cai mais vezes, ou praticar melhor a virtude de que mais precisa — aturar o gênio de tal pessoa, obedecer mais exatamente a tal superior ou à regra, mortificar-se mais frequentemente em tal ponto."
@@ -207,8 +214,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The conclusion of the prayer is made up of three acts.",
-				"pt-BR": "A conclusão da oração compõe-se de três atos."
+				"en-US": "Three acts.",
+				"pt-BR": "Três atos."
 			}
 		},
 		{
@@ -256,8 +263,8 @@
 		{
 			"type": "rubric",
 			"text": {
-				"en-US": "The prayer ends by commending to God Holy Church, her Prelates, the souls in purgatory, sinners, and all our relatives, friends, and benefactors, by an Our Father and a Hail Mary — the most useful of prayers, being taught us by Jesus Christ and by the Church.",
-				"pt-BR": "Termina-se a oração recomendando a Deus a Santa Igreja, os seus Prelados, as Almas do Purgatório, os pecadores, e todos os nossos parentes, amigos e benfeitores, por um Pai Nosso e uma Ave Maria, que são as orações mais úteis por nos serem ensinadas por Jesus Cristo e pela Igreja."
+				"en-US": "End by commending to God the Church, the souls in purgatory, sinners, and all who are yours, with an Our Father and a Hail Mary.",
+				"pt-BR": "Termine recomendando a Deus a Igreja, as Almas do Purgatório, os pecadores e todos os seus, com um Pai Nosso e uma Ave Maria."
 			}
 		},
 		{
@@ -285,19 +292,26 @@
 		{
 			"type": "rubric",
 			"text": {
+				"en-US": "Three things to carry out of the prayer.",
+				"pt-BR": "Três coisas a levar da oração."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
 				"en-US": "1. Following the counsel of St. Francis de Sales, make a bouquet of flowers to smell throughout the day — that is, **fix well in memory one or two thoughts that impressed you most**, to recall them and be strengthened by them during the day.",
 				"pt-BR": "1º Conforme o conselho de São Francisco de Sales, faça um ramalhete de flores a fim de cheirá-lo durante o dia, quer dizer, **imprima bem na memória um ou dois pensamentos que mais impressão lhe fizeram**, para os recordar e se revigorar durante o dia."
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
 				"en-US": "2. **Put the resolutions taken into practice at once, in small occasions as well as great ones**: bearing patiently with a person angry at you, mortifying yourself in what you look at, in what you listen to, in conversation.",
 				"pt-BR": "2º **Ponha logo em prática as resoluções tomadas, tanto nas ocasiões pequenas como nas grandes**: suportar com paciência uma pessoa irada contra nós, mortificar-se na vista, no ouvido, na conversa."
 			}
 		},
 		{
-			"type": "rubric",
+			"type": "meditation",
 			"text": {
 				"en-US": "3. **By silence and recollection, keep the affections stirred up in prayer alive as long as possible**; without this, the fervour conceived in prayer soon fades through dissipation of conduct or useless conversation.",
 				"pt-BR": "3º **Por meio do silêncio e recolhimento, conserve o mais tempo possível os afetos excitados na oração**; sem isso, o fervor concebido na oração esvaece-se logo pela dissipação no proceder ou pelas conversas inúteis."

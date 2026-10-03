@@ -39,7 +39,7 @@
 				{ "kind": "item", "ref": "practice/morning-offering-opus-dei" },
 				{
 					"kind": "item",
-					"ref": "practice/mental-prayer",
+					"ref": "practice/mental-prayer-opus-dei",
 					"seeAlso": ["collection/mental-prayer"]
 				},
 				{ "kind": "item", "ref": "practice/mass" }

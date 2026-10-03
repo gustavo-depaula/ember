@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-ignatian-commandments",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Ignatian — first method",
+			"pt-BR": "Inaciano — primeiro modo"
+		},
+		"description": {
+			"en-US": "A prayerful review, one by one, of the Commandments, the capital sins, the powers of the soul or the five senses, ending in a colloquy.",
+			"pt-BR": "Uma revisão orante, um a um, dos Mandamentos, dos pecados capitais, das potências da alma ou dos cinco sentidos, terminando em colóquio."
+		},
+		"order": 11
+	},
+	"name": {
+		"en-US": "Mental Prayer — First Ignatian Method",
+		"pt-BR": "Oração Mental — Primeiro Modo Inaciano"
+	},
+	"source": {
+		"en-US": "St. Ignatius of Loyola, *Spiritual Exercises* (1548), Three Methods of Prayer; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Santo Inácio de Loyola, *Exercícios Espirituais* (1548), Três Modos de Orar; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 15,
+	"description": {
+		"en-US": "The first of St. Ignatius' three methods of prayer: take the Commandments — or the capital sins, the powers of the soul, the five senses — and dwell on each in turn, looking at what God wills and asking pardon for what was lacking. More than an examination of conscience, because its eyes are on Him.",
+		"pt-BR": "O primeiro dos três modos de orar de Santo Inácio: tome os Mandamentos — ou os pecados capitais, as potências da alma, os cinco sentidos — e detenha-se em cada um por sua vez, olhando o que Deus quer e pedindo perdão do que faltou. Mais do que um exame de consciência, porque os olhos estão n'Ele."
+	},
+	"history": {
+		"en-US": "St. Ignatius placed three simple methods of prayer at the end of the *Spiritual Exercises*, so that the unlearned might have a safe road and others find refreshment in turning from one way to another. This first one he meant for those to whom the full Exercises could not be given. St. Francis Xavier taught it to his converts so that they might persevere; Fr. Polanco recommended it to anyone who wants to put resolutions into practice.",
+		"pt-BR": "Santo Inácio pôs três modos simples de orar no fim dos *Exercícios Espirituais*, para que os simples tivessem um caminho seguro e os outros achassem alívio passando de um modo a outro. Este primeiro, pensou-o para aqueles a quem não se podiam dar os Exercícios completos. São Francisco Xavier ensinou-o aos seus convertidos para que perseverassem; o P. Polanco recomendou-o a todo aquele que quer pôr em prática as suas resoluções."
+	},
+	"howToPray": {
+		"en-US": "Rest the mind a moment and ask the grace to know where you have failed and to amend. Then take the points one by one, staying on each about as long as it takes to say three Our Fathers and three Hail Marys — longer where you find a habit of falling, less where you find none. Keep your eyes on the positive side: the Commandment to be kept, the virtue to be gained, the way Christ used His senses. End by speaking to God about what you saw.",
+		"pt-BR": "Repouse o espírito um momento e peça a graça de conhecer em que faltou e de se emendar. Depois tome os pontos um a um, ficando em cada um mais ou menos o tempo de dizer três Pai Nossos e três Ave Marias — mais onde achar hábito de cair, menos onde não achar nenhum. Mantenha os olhos no lado positivo: o Mandamento a guardar, a virtude a alcançar, o modo como Cristo usou os seus sentidos. Termine falando a Deus sobre o que viu."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"ignatian",
+		"ignatius",
+		"jesuit",
+		"spiritual-exercises",
+		"commandments",
+		"examen"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

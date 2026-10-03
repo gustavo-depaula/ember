@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-ignatian",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Ignatian — the three powers",
+			"pt-BR": "Inaciano — as três potências"
+		},
+		"description": {
+			"en-US": "The method of the Exercises: a subject prepared overnight, three preludes, then memory, understanding and will, ending in a colloquy and a review.",
+			"pt-BR": "O método dos Exercícios: um tema preparado na véspera, três preâmbulos, depois memória, entendimento e vontade, terminando em colóquio e exame da oração."
+		},
+		"order": 10
+	},
+	"name": {
+		"en-US": "Mental Prayer — Ignatian Method",
+		"pt-BR": "Oração Mental — Método Inaciano"
+	},
+	"source": {
+		"en-US": "St. Ignatius of Loyola, *Spiritual Exercises* (1548), with the acts advised by Fr. Jan Roothaan, S.J.; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Santo Inácio de Loyola, *Exercícios Espirituais* (1548), com os atos aconselhados pelo P. Jan Roothaan, S.J.; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "What is commonly called *the* Ignatian method: the three powers of the soul — memory, understanding, will — applied in order to a subject chosen the night before. The most elaborate method ever built, and the most thorough.",
+		"pt-BR": "O que comumente se chama *o* método inaciano: as três potências da alma — memória, entendimento, vontade — aplicadas em ordem a um tema escolhido na véspera. O método mais elaborado que já se construiu, e o mais completo."
+	},
+	"history": {
+		"en-US": "St. Ignatius of Loyola (1491–1556) wrote the *Spiritual Exercises* as a manual for the one who gives a retreat, and this method belongs to the retreat: it was meant first for those discerning or deepening a vocation, with time and freedom from other business. Ignatius himself gave several simpler ways of praying beside it, and left even his own sons wide liberty. Fr. Jan Roothaan, General of the Society from 1829, drew the method out into the form most later manuals follow.",
+		"pt-BR": "Santo Inácio de Loyola (1491–1556) escreveu os *Exercícios Espirituais* como manual para quem dá o retiro, e este método pertence ao retiro: foi pensado primeiro para quem discerne ou aprofunda uma vocação, com tempo e liberdade de outros negócios. O próprio Inácio deu ao lado dele vários modos mais simples de orar, e deixou até aos seus filhos larga liberdade. O P. Jan Roothaan, Geral da Companhia desde 1829, desenvolveu o método na forma que a maior parte dos manuais posteriores segue."
+	},
+	"howToPray": {
+		"en-US": "Choose the subject the night before and settle one or two points — the ones that hold the grace you most need. In the morning go to prayer without haste. Make the preludes in five minutes at most; give the body of the time to the understanding and, above all, to the will. Whenever a thought moves you, stop reasoning and pray. End with one particular resolution, a colloquy, and a short look back at how the prayer went.",
+		"pt-BR": "Escolha o tema na véspera e fixe um ou dois pontos — aqueles que contêm a graça de que mais precisa. De manhã vá à oração sem pressa. Faça os preâmbulos em cinco minutos no máximo; dê o corpo do tempo ao entendimento e, sobretudo, à vontade. Sempre que um pensamento o mover, pare de raciocinar e reze. Termine com uma resolução particular, um colóquio e um breve olhar sobre como correu a oração."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"ignatian",
+		"ignatius",
+		"jesuit",
+		"spiritual-exercises",
+		"discursive",
+		"resolutions"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

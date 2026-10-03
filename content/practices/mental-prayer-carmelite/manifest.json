@@ -1,0 +1,67 @@
+{
+	"id": "mental-prayer-carmelite",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Carmelite (John of Jesus and Mary)",
+			"pt-BR": "Carmelita (João de Jesus Maria)"
+		},
+		"description": {
+			"en-US": "The six parts of the Carmelite novitiate: preparation, reading, a short meditation, thanksgiving, a fourfold oblation, and petition.",
+			"pt-BR": "As seis partes do noviciado carmelita: preparação, leitura, uma meditação breve, ação de graças, um oferecimento em quatro atos, e petição."
+		},
+		"order": 30
+	},
+	"name": {
+		"en-US": "Mental Prayer — Method of the Carmelite Novitiate",
+		"pt-BR": "Oração Mental — Método do Noviciado Carmelita"
+	},
+	"source": {
+		"en-US": "Ven. John of Jesus and Mary, O.C.D., *Instruction of Novices*, Part III, ch. 2; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Ven. João de Jesus Maria, O.C.D., *Instrução dos Noviços*, Parte III, cap. 2; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "The first distinct method given in the Teresian Carmel, and long the textbook of its novitiates. It keeps the six parts of Luis of Granada and St. Peter of Alcántara, but shortens the reasoning: the meditation is \"a discourse addressed by the intellect to the will\", and the shorter it is, the better the prayer.",
+		"pt-BR": "O primeiro método distinto dado no Carmelo teresiano, e por muito tempo o manual dos seus noviciados. Conserva as seis partes de Frei Luís de Granada e São Pedro de Alcântara, mas abrevia o raciocínio: a meditação é \"um discurso que o entendimento dirige à vontade\", e quanto mais breve for, melhor será a oração."
+	},
+	"history": {
+		"en-US": "The Ven. John of Jesus and Mary (1564–1615), of Calahorra, did more than anyone to carry St. Teresa's reform beyond Spain, above all into Italy. He holds the balance between grace and effort: a method is to be followed as an art is learned under a master — and left the moment the Holy Spirit draws the soul elsewhere. St. Teresa herself, who could not reason much, asked for less still: \"I am not asking you to meditate upon Him, nor to produce great thoughts — I only ask you to look at Him.\"",
+		"pt-BR": "O Ven. João de Jesus Maria (1564–1615), de Calahorra, fez mais do que ninguém para levar a reforma de Santa Teresa para além da Espanha, sobretudo à Itália. Mantém o equilíbrio entre a graça e o esforço: segue-se um método como se aprende uma arte sob um mestre — e deixa-se no momento em que o Espírito Santo atrai a alma a outra parte. A própria Santa Teresa, que não conseguia discorrer muito, pedia ainda menos: \"Não vos peço agora que penseis n'Ele, nem que tireis muitos conceitos — não vos peço mais do que olhá-Lo.\""
+	},
+	"howToPray": {
+		"en-US": "Come to prayer recollected: guard your eyes and avoid idle talk beforehand. Picture the persons of your subject as near you, or within you — but not too vividly. Reflect little and let the will govern; do not strain. If you are drawn to a thought that is not in the subject you prepared, follow it. If distractions persist, say some vocal prayers slowly, or read a little in the same way. The method exists for the affections of the will: stay in whatever part helps them most.",
+		"pt-BR": "Venha à oração recolhido: guarde a vista e evite antes conversas ociosas. Figure as pessoas do seu tema como próximas de si, ou dentro de si — mas não com demasiada viveza. Reflita pouco e deixe a vontade governar; não se force. Se for atraído a um pensamento que não está no tema que preparou, siga-o. Se as distrações persistirem, diga devagar algumas orações vocais, ou leia um pouco do mesmo modo. O método existe para os afetos da vontade: fique na parte que mais os ajudar."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"carmelite",
+		"john-of-jesus-mary",
+		"teresa",
+		"affective",
+		"novitiate"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

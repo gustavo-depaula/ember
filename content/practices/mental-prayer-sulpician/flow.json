@@ -1,0 +1,204 @@
+{
+	"sections": [
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Christianity consists in three points: to regard Jesus, to be united to Jesus, to work in Jesus. The first is called Adoration; the second Communion; the third Co-operation.\n— M. Olier, *Introduction à la vie et aux vertus chrétiennes*",
+				"pt-BR": "O cristianismo consiste em três pontos: olhar Jesus, unir-se a Jesus, operar em Jesus. O primeiro chama-se Adoração; o segundo, Comunhão; o terceiro, Cooperação.\n— M. Olier, *Introduction à la vie et aux vertus chrétiennes*"
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "I. The Preparation",
+				"pt-BR": "I. A Preparação"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The remote preparation consists in a great purity of heart; a perfect mortification of the passions; and a great fidelity in the guard of the senses, interior and exterior, especially against vanity and curiosity.",
+				"pt-BR": "A preparação remota consiste numa grande pureza de coração; numa perfeita mortificação das paixões; e numa grande fidelidade na guarda dos sentidos, interiores e exteriores, especialmente contra a vaidade e a curiosidade."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The immediate preparation consists of three acts, each of which has two.",
+				"pt-BR": "A preparação imediata consiste em três atos, cada um dos quais tem dois."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "1. Placing oneself in the presence of God",
+				"pt-BR": "1. Pôr-se na presença de Deus"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "An act of faith in the presence of God in the place where we are and in our hearts. An act of adoration of the Divine Majesty.",
+				"pt-BR": "Um ato de fé na presença de Deus no lugar onde estamos e no nosso coração. Um ato de adoração da Majestade Divina."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "2. Humility",
+				"pt-BR": "2. Humildade"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Acts of penitence, humiliation, confusion and contrition, occasioned by the thought of our sins. An act of union with and abandonment to our Lord, in order that we may appear before His Father in the Person of Jesus and pray in His Name.",
+				"pt-BR": "Atos de penitência, humilhação, confusão e contrição, ocasionados pelo pensamento dos nossos pecados. Um ato de união e abandono ao Senhor, para comparecermos diante de seu Pai na Pessoa de Jesus e orarmos em seu Nome."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "3. Our inability to render anything to God",
+				"pt-BR": "3. A nossa incapacidade de dar algo a Deus"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "A renouncing of our own spirit, which is incapable of guiding us in the way of salvation, and of our affections, which ordinarily turn toward evil. An invocation of the Holy Spirit, that we may make our prayer in His light, by His movements and as conducted by Him.",
+				"pt-BR": "Uma renúncia ao nosso próprio espírito, que é incapaz de nos guiar no caminho da salvação, e aos nossos afetos, que ordinariamente pendem para o mal. Uma invocação do Espírito Santo, para fazermos a nossa oração na sua luz, por seus movimentos e conduzidos por Ele."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "II. Adoration",
+				"pt-BR": "II. Adoração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The consideration of the subject; then the rendering of our duty to God according to the subject, ordinarily consisting of seven acts: adoration, admiration, praise, thanksgiving, love, joy and compassion.",
+				"pt-BR": "A consideração do tema; depois a prestação do nosso dever a Deus conforme o tema, que ordinariamente consiste em sete atos: adoração, admiração, louvor, ação de graças, amor, alegria e compaixão."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "It is not necessary always to follow this order; we should abandon ourselves to the affections which God gives us and repeat those to which the Holy Spirit attracts us.",
+				"pt-BR": "Não é necessário seguir sempre esta ordem; devemos abandonar-nos aos afetos que Deus nos dá e repetir aqueles a que o Espírito Santo nos atrai."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "III. Communion",
+				"pt-BR": "III. Comunhão"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The consideration of the subject is designed to lead us to a fervent desire to participate in the perfection, virtue or mystery we have adored. To this end three acts are necessary.",
+				"pt-BR": "A consideração do tema destina-se a levar-nos a um fervoroso desejo de participar da perfeição, virtude ou mistério que adoramos. Para este fim são necessários três atos."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "1. Conviction",
+				"pt-BR": "1. Convicção"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "We see not merely the beauty of the virtue, but the necessity of it for ourselves. For unless we are persuaded of our need we shall ask for it either coldly or not at all.",
+				"pt-BR": "Vemos não só a beleza da virtude, mas a sua necessidade para nós. Pois, se não estivermos persuadidos da nossa necessidade, pediremos com frieza ou não pediremos de todo."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "2. Reflection upon ourselves",
+				"pt-BR": "2. Reflexão sobre nós mesmos"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Upon our lack of virtue; the obligations we are under to practise the particular one we are meditating upon; regret for the past neglect of this perfection; confusion at the realisation of our present poverty and misery; desire for the future, that we may earnestly seek to escape from our lukewarmness into a real communion with our Lord.",
+				"pt-BR": "Sobre a nossa falta de virtude; as obrigações que temos de praticar aquela em que meditamos; o pesar pela negligência passada desta perfeição; a confusão ao reconhecer a nossa pobreza e miséria presentes; o desejo, para o futuro, de buscar seriamente sair da nossa tibieza para uma verdadeira comunhão com o Senhor."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "3. Petition",
+				"pt-BR": "3. Petição"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Humble, confident and persevering, that God will give us the grace we need. We should do so by humbly representing to Him that it is His will; that it will be to His glory; that one so imperfect and lacking in grace should not be suffered in His Church; the merits of His Son; the Divine promises in Holy Scripture.",
+				"pt-BR": "Humilde, confiante e perseverante, para que Deus nos dê a graça de que precisamos. Façamo-lo representando-Lhe humildemente que é a sua vontade; que será para a sua glória; que não se deveria tolerar na sua Igreja alguém tão imperfeito e falto de graça; os méritos de seu Filho; as promessas Divinas na Sagrada Escritura."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Further, we must beg the favour and aid of the most Holy Virgin, our guardian angel, our patrons and other Saints. Nor must we forget the needs of Holy Church and of those for whom we ought specially to pray.",
+				"pt-BR": "Além disso, devemos implorar o favor e o auxílio da Santíssima Virgem, do nosso anjo da guarda, dos nossos padroeiros e de outros Santos. Nem devemos esquecer as necessidades da Santa Igreja e daqueles por quem devemos especialmente orar."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "IV. Co-operation",
+				"pt-BR": "IV. Cooperação"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Co-operation and resolution, says M. Olier, mean the same thing; but the first expresses more strongly the power of the Holy Spirit, upon which we are more dependent than upon the good works of our own will.",
+				"pt-BR": "Cooperação e resolução, diz M. Olier, significam a mesma coisa; mas a primeira exprime com mais força o poder do Espírito Santo, do qual dependemos mais do que das boas obras da nossa própria vontade."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Remembering, then, the need of our co-operation with grace, we make the resolution to live for the future in conformity with the light we have received in our prayer, and especially to practise, the same day, the perfection or virtue we have considered. Such resolutions should have six qualities: they must be particular, present, efficacious, humble, full of confidence and often reiterated — made with an entire distrust in ourselves and an entire confidence in Jesus Christ, without whom we can do nothing.",
+				"pt-BR": "Lembrando, pois, a necessidade da nossa cooperação com a graça, tomamos a resolução de viver daqui em diante em conformidade com a luz que recebemos na oração, e especialmente de praticar, no mesmo dia, a perfeição ou virtude que consideramos. Tais resoluções devem ter seis qualidades: ser particulares, presentes, eficazes, humildes, cheias de confiança e muitas vezes reiteradas — feitas com inteira desconfiança de nós mesmos e inteira confiança em Jesus Cristo, sem o qual nada podemos."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "V. Conclusion",
+				"pt-BR": "V. Conclusão"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We thank God for having allowed us to come into His presence, and for the graces given to us in our prayer. We pray Him to pardon all our faults and negligences in this prayer; to bless our resolutions, this present day, our life and our death.",
+				"pt-BR": "Agradecemos a Deus por nos ter permitido vir à sua presença, e pelas graças que nos deu na oração. Pedimos-Lhe que perdoe todas as nossas faltas e negligências nesta oração; que abençoe as nossas resoluções, este dia presente, a nossa vida e a nossa morte."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We select some thought from our prayer to carry with us during the day — the spiritual nosegay of St. Francis de Sales — and conclude with the *Sub tuum praesidium*, placing all we have done and hope to do in the hands of Mary.",
+				"pt-BR": "Escolhemos algum pensamento da nossa oração para levar conosco durante o dia — o ramalhete espiritual de São Francisco de Sales — e concluímos com o *Sub tuum praesidium*, pondo nas mãos de Maria tudo o que fizemos e esperamos fazer."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "sub-tuum-praesidium"
+		}
+	]
+}

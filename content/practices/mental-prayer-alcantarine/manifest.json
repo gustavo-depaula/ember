@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-alcantarine",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Franciscan (St. Peter of Alcántara)",
+			"pt-BR": "Franciscano (São Pedro de Alcântara)"
+		},
+		"description": {
+			"en-US": "Six parts — preparation, reading, meditation, thanksgiving, oblation, petition — gathering the whole day's prayer into one act.",
+			"pt-BR": "Seis partes — preparação, leitura, meditação, ação de graças, oferecimento, petição — reunindo num só ato toda a oração do dia."
+		},
+		"order": 20
+	},
+	"name": {
+		"en-US": "Mental Prayer — Method of St. Peter of Alcántara",
+		"pt-BR": "Oração Mental — Método de São Pedro de Alcântara"
+	},
+	"source": {
+		"en-US": "St. Peter of Alcántara, *Treatise on Prayer and Meditation*, ch. 5; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "São Pedro de Alcântara, *Tratado da Oração e Meditação*, cap. 5; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "The method St. Teresa learned from: six parts that take in not only the meditation but the examination of conscience, the reading, the thanksgiving and the intercessions of the day. Its aim is love and the affections of the will, not the speculations of the understanding.",
+		"pt-BR": "O método em que Santa Teresa aprendeu: seis partes que abrangem não só a meditação, mas o exame de consciência, a leitura, a ação de graças e as intercessões do dia. O seu fim é o amor e os afetos da vontade, não as especulações do entendimento."
+	},
+	"history": {
+		"en-US": "St. Peter of Alcántara (1499–1562), the Franciscan reformer whom St. Teresa of Ávila praised and consulted, wrote his little treatise on the foundation of Luis of Granada's *Book of Prayer and Meditation*, drawing also on St. Augustine, St. Bernard and St. Bonaventure. Gregory XV said of it that the Holy Spirit had guided the saint's pen. Its first chapters give two sets of meditations for the seven days of the week — one on sin, death, judgment, hell, heaven and the divine blessings, the other on the Passion; the method itself follows them.",
+		"pt-BR": "São Pedro de Alcântara (1499–1562), o reformador franciscano a quem Santa Teresa de Ávila louvou e consultou, escreveu o seu pequeno tratado sobre o fundamento do *Livro da Oração e Meditação* de Frei Luís de Granada, valendo-se também de Santo Agostinho, São Bernardo e São Boaventura. Gregório XV disse dele que o Espírito Santo guiara a pena do santo. Os primeiros capítulos dão duas séries de meditações para os sete dias da semana — uma sobre o pecado, a morte, o juízo, o inferno, o céu e os benefícios divinos, outra sobre a Paixão; o método vem depois delas."
+	},
+	"howToPray": {
+		"en-US": "St. Peter gave this prayer an hour and a half or more, with a full half hour of preparation \"to tune the viol\". If you have less, keep all six parts and shorten each — or divide them through the day, tying them to the one thought your meditation gave you. Read little; represent the mystery as happening here, before you, without violence to the imagination; and as soon as you feel yourself kindled with the love of God, leave the considerations and stay in that love.",
+		"pt-BR": "São Pedro dava a esta oração uma hora e meia ou mais, com meia hora inteira de preparação \"para afinar a viola\". Se tiver menos, conserve as seis partes e abrevie cada uma — ou reparta-as pelo dia, ligando-as ao único pensamento que a meditação lhe deu. Leia pouco; represente o mistério como acontecendo aqui, diante de si, sem violentar a imaginação; e logo que se sentir inflamado no amor de Deus, deixe as considerações e fique nesse amor."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"franciscan",
+		"alcantara",
+		"peter-of-alcantara",
+		"granada",
+		"affective",
+		"passion"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

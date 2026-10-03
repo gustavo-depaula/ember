@@ -1,0 +1,67 @@
+{
+	"id": "mental-prayer-opus-dei",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Opus Dei",
+			"pt-BR": "Opus Dei"
+		},
+		"description": {
+			"en-US": "A short prayer to begin and a short prayer to end; everything between them is a personal conversation with God.",
+			"pt-BR": "Uma breve oração para começar e outra para terminar; tudo o que está entre elas é uma conversa pessoal com Deus."
+		},
+		"order": 60
+	},
+	"name": {
+		"en-US": "Mental Prayer — Opus Dei",
+		"pt-BR": "Oração Mental — Opus Dei"
+	},
+	"source": {
+		"en-US": "Opus Dei, *Pocket Prayer Book* — Mental Prayer (opusdei.org, *Prayers*)",
+		"pt-BR": "Opus Dei, *Devocionário* — Oração mental (opusdei.org, *Orações*)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "Mental prayer as it is made in Opus Dei: no steps to follow, only a brief act of presence at the start and a brief thanksgiving at the end, and between them a personal conversation with God.",
+		"pt-BR": "A oração mental tal como se faz no Opus Dei: sem passos a seguir, apenas um breve ato de presença no início e uma breve ação de graças no fim, e entre eles uma conversa pessoal com Deus."
+	},
+	"history": {
+		"en-US": "In the plan of life St. Josemaría Escrivá gave to Opus Dei, mental prayer holds two half-hours of the day, one in the morning and one in the afternoon. The two prayers that frame it are those he taught and that the faithful of the Work say to this day.",
+		"pt-BR": "No plano de vida que São Josemaria Escrivá deu ao Opus Dei, a oração mental ocupa duas meias-horas do dia, uma de manhã e outra à tarde. As duas orações que a enquadram são as que ele ensinou e que os fiéis da Obra dizem até hoje."
+	},
+	"howToPray": {
+		"en-US": "Fix the time beforehand and keep it. Say the opening prayer slowly, meaning each clause. Then speak with our Lord — about a passage of the Gospel or a book you have brought, and about your own day: your work, the people around you, what worries you. End with the closing prayer, and take one resolution with you.",
+		"pt-BR": "Fixe o tempo de antemão e guarde-o. Diga devagar a oração inicial, querendo cada frase. Depois fale com o Senhor — sobre um trecho do Evangelho ou de um livro que trouxe, e sobre o seu próprio dia: o seu trabalho, as pessoas à sua volta, o que o preocupa. Termine com a oração final, e leve consigo um propósito."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"opus-dei",
+		"josemaria",
+		"escriva",
+		"laity",
+		"plan-of-life"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

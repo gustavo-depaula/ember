@@ -1,0 +1,69 @@
+{
+	"id": "mental-prayer-eudist",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Eudist (St. John Eudes)",
+			"pt-BR": "Eudista (São João Eudes)"
+		},
+		"description": {
+			"en-US": "A mystery of the life of Jesus looked at from seven sides, answered with seven affections, and continued in a resolution.",
+			"pt-BR": "Um mistério da vida de Jesus olhado por sete lados, respondido com sete afetos, e continuado numa resolução."
+		},
+		"order": 52
+	},
+	"name": {
+		"en-US": "Mental Prayer — Method of St. John Eudes",
+		"pt-BR": "Oração Mental — Método de São João Eudes"
+	},
+	"source": {
+		"en-US": "St. John Eudes, *The Life and Kingdom of Jesus in Christian Souls* (1637); outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "São João Eudes, *A Vida e o Reino de Jesus nas Almas Cristãs* (1637); esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 30,
+	"description": {
+		"en-US": "For St. John Eudes the Christian life is nothing else than the life of Jesus continued and completed in each of us — so that when a Christian meditates, he continues the meditation Jesus made on earth. His method takes one mystery and goes all round it: its outside and its inside, its fruits, our Lady's part in it, the saints' part, and mine.",
+		"pt-BR": "Para São João Eudes a vida cristã não é outra coisa senão a vida de Jesus continuada e completada em cada um de nós — de modo que, quando um cristão medita, continua a meditação que Jesus fez na terra. O seu método toma um mistério e dá-lhe toda a volta: o seu exterior e o seu interior, os seus frutos, a parte que nele tem Nossa Senhora, a parte dos santos, e a minha."
+	},
+	"history": {
+		"en-US": "St. John Eudes (1601–1680) left the Oratory to found the Congregation of Jesus and Mary, and was the first apostle of the liturgical worship of the Sacred Hearts. He learned from Bérulle that the mysteries of Jesus are past in their execution but present in their virtue, and that our Lord had in each of them some thought, some plan, some particular love for each one of us. \"The practice of practices,\" he wrote, \"is not to be attached to any practice, but to give yourself to the Spirit of Jesus, that He may work in you as He desires.\"",
+		"pt-BR": "São João Eudes (1601–1680) deixou o Oratório para fundar a Congregação de Jesus e Maria, e foi o primeiro apóstolo do culto litúrgico dos Sagrados Corações. Aprendeu de Bérulle que os mistérios de Jesus são passados quanto à execução, mas presentes quanto à virtude, e que o Senhor teve em cada um deles algum pensamento, algum desígnio, algum amor particular por cada um de nós. \"A prática das práticas\", escreveu, \"é não se apegar a nenhuma prática, mas entregar-se ao Espírito de Jesus, para que Ele opere em vós como deseja.\""
+	},
+	"howToPray": {
+		"en-US": "Take a mystery of the life of Jesus. St. John Eudes proposes one for each day of the week: Sunday, His divine life in the bosom of the Father; Monday, the first moment of His life on earth; Tuesday, His childhood; Wednesday, His hidden and laborious life; Thursday, His life among men and in the Blessed Sacrament; Friday, His suffering life; Saturday, His life in Mary and Mary's in Him. You need not use all seven considerations or all seven affections every day — they are a map of the mystery, not a checklist.",
+		"pt-BR": "Tome um mistério da vida de Jesus. São João Eudes propõe um para cada dia da semana: domingo, a sua vida divina no seio do Pai; segunda, o primeiro momento da sua vida na terra; terça, a sua infância; quarta, a sua vida oculta e laboriosa; quinta, a sua vida entre os homens e no Santíssimo Sacramento; sexta, a sua vida padecente; sábado, a sua vida em Maria e a de Maria n'Ele. Não é preciso usar todos os dias as sete considerações nem os sete afetos — são um mapa do mistério, não uma lista a cumprir."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"oratorian",
+		"eudist",
+		"john-eudes",
+		"berulle",
+		"french-school",
+		"mysteries",
+		"sacred-heart"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

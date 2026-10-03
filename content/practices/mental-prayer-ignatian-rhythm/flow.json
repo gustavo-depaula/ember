@@ -1,0 +1,90 @@
+{
+	"sections": [
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "This is less a method of mental prayer than one of reciting vocal prayers with care and devotion. It will be found particularly useful in times of aridity, when all prayer seems distasteful and it is practically impossible to meditate; then almost the only remedy is to say vocal prayers for a time.",
+				"pt-BR": "Este é menos um modo de oração mental do que um modo de recitar orações vocais com cuidado e devoção. É particularmente útil nos tempos de aridez, quando toda oração parece desagradável e é praticamente impossível meditar; então quase o único remédio é dizer orações vocais por algum tempo."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Preparation",
+				"pt-BR": "A Preparação"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "First, consider what you are going to do: \"let the mind repose a little, either sitting or walking, as shall seem best, considering meanwhile whither I am going and for what purpose.\"",
+				"pt-BR": "Primeiro, considere o que vai fazer: \"repouse um pouco o espírito, sentado ou passeando, como melhor lhe parecer, considerando entretanto aonde vou e a quê.\""
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Then the preparatory prayer, as in the second method, made to the Person to whom the prayer is addressed.",
+				"pt-BR": "Depois a oração preparatória, como no segundo modo, feita à Pessoa a quem a oração se dirige."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Body of the Prayer",
+				"pt-BR": "O Corpo da Oração"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "The body of the prayer consists of a mental recitation of the Our Father, Hail Mary or other vocal prayer, \"one word only being said between one breath and another,\" whilst one dwells on:\n— the meaning of the word;\n— or the Person to whom one is speaking;\n— or one's own lowly estate;\n— or the contrast between such high estate and such lowliness of our own.",
+				"pt-BR": "O corpo da oração consiste na recitação mental do Pai Nosso, da Ave Maria ou de outra oração vocal, \"dizendo uma só palavra entre uma respiração e outra\", enquanto se atende:\n— à significação da palavra;\n— ou à Pessoa a quem se fala;\n— ou à própria baixeza;\n— ou à diferença entre tanta alteza e tanta baixeza própria."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father",
+			"defaultOpen": true
+		},
+		{
+			"type": "prayer",
+			"ref": "hail-mary"
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "We have here, as elsewhere in the Exercises, the recognition of the interdependence of soul and body and the consequent need of using both in our devotion. It is with our whole being that we are to pray.",
+				"pt-BR": "Temos aqui, como noutros lugares dos Exercícios, o reconhecimento da interdependência de alma e corpo e da consequente necessidade de usar ambos na nossa devoção. É com todo o nosso ser que havemos de orar."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "The Holy Name",
+				"pt-BR": "O Santo Nome"
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "Another method — not Ignatian, but suggested by this one and by that old English devotion, the *Jesus Psalter* — is to use the Holy Name as a sort of melodic refrain, linking up acts of praise, prayer and petition, the acts of adoration being uttered as they come into the mind:",
+				"pt-BR": "Outro modo — não inaciano, mas sugerido por este e por aquela antiga devoção inglesa, o *Saltério de Jesus* — é usar o Santo Nome como uma espécie de refrão melódico, ligando atos de louvor, oração e petição, proferindo-se os atos de adoração à medida que vêm ao espírito:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Jesus, Jesus, Jesus, I adore Thee.\nJesus, Jesus, Jesus, I love Thee.\nJesus, Jesus, Jesus, have mercy upon sinners.\nJesus, Jesus, Jesus, Thy Kingdom come.",
+				"pt-BR": "Jesus, Jesus, Jesus, eu Vos adoro.\nJesus, Jesus, Jesus, eu Vos amo.\nJesus, Jesus, Jesus, tende misericórdia dos pecadores.\nJesus, Jesus, Jesus, venha o vosso Reino."
+			}
+		},
+		{
+			"type": "meditation",
+			"text": {
+				"en-US": "There is hardly any situation in which it could not be used; invalids, those suffering from sleeplessness, those who have to walk much in busy streets would find it invaluable for preserving the sense of the Presence of God.",
+				"pt-BR": "Quase não há situação em que não se possa usar; os doentes, os que sofrem de insônia, os que têm de andar muito por ruas movimentadas achá-lo-ão precioso para conservar o sentido da Presença de Deus."
+			}
+		}
+	]
+}

@@ -95,6 +95,88 @@
 			]
 		},
 		{
+			"id": "schools",
+			"title": {
+				"en-US": "Methods of the Schools",
+				"pt-BR": "Métodos das Escolas"
+			},
+			"description": {
+				"body": {
+					"en-US": "No two souls approach prayer alike, and the saints left more than one road: Ignatian, Franciscan, Carmelite, Salesian, and the French school of Bérulle. Try one for a few weeks before judging it.",
+					"pt-BR": "Não há duas almas que se aproximem da oração do mesmo modo, e os santos deixaram mais de um caminho: inaciano, franciscano, carmelita, salesiano, e a escola francesa de Bérulle. Experimente um por algumas semanas antes de julgá-lo."
+				}
+			},
+			"defaultCollapsed": true,
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-ignatian"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-ignatian-commandments"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-ignatian-word-by-word"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-ignatian-rhythm"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-ignatian-senses"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-alcantarine"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-capuchin"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-carmelite"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-salesian"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-redemptorist",
+					"seeAlso": [
+						"collection/alphonsus-liguori"
+					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-sulpician"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-olier-virtues"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-eudist"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-libermann"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/mental-prayer-opus-dei",
+					"seeAlso": [
+						"collection/opus-dei"
+					]
+				}
+			]
+		},
+		{
 			"id": "in-the-tradition",
 			"title": {
 				"en-US": "In the Tradition",
@@ -278,42 +360,6 @@
 					},
 					"proposedKind": "practice",
 					"priority": "high"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Method of St. Sulpice (Olier)",
-						"pt-BR": "Método de São Sulpício (Olier)"
-					},
-					"notes": {
-						"en-US": "Adoration, communion, cooperation.",
-						"pt-BR": "Adoração, comunhão, cooperação."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Method of St. Francis de Sales",
-						"pt-BR": "Método de São Francisco de Sales"
-					},
-					"notes": {
-						"en-US": "Preparation, considerations, affections, resolutions, conclusion — the simplest beginner method.",
-						"pt-BR": "Preparação, considerações, afetos, resoluções, conclusão — o método mais simples para iniciantes."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Method of St. Peter of Alcántara",
-						"pt-BR": "Método de São Pedro de Alcântara"
-					},
-					"notes": {
-						"en-US": "Much loved by Teresa of Ávila.",
-						"pt-BR": "Predileto de Teresa de Ávila."
-					},
-					"proposedKind": "practice"
 				},
 				{
 					"kind": "todo",

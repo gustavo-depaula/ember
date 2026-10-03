@@ -1,0 +1,69 @@
+{
+	"id": "mental-prayer-libermann",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Libermann",
+			"pt-BR": "Libermann"
+		},
+		"description": {
+			"en-US": "For those whom reasoning wearies: look at Jesus in a mystery, enter His dispositions, and adhere to Him — in silence, if no words come.",
+			"pt-BR": "Para aqueles a quem o raciocínio cansa: olhar Jesus num mistério, entrar nas suas disposições, e aderir a Ele — em silêncio, se as palavras não vierem."
+		},
+		"order": 53
+	},
+	"name": {
+		"en-US": "Mental Prayer — Method of Ven. Francis Libermann",
+		"pt-BR": "Oração Mental — Método do Ven. Francisco Libermann"
+	},
+	"source": {
+		"en-US": "Ven. Francis Libermann, *Lettres spirituelles*; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Ven. Francisco Libermann, *Lettres spirituelles*; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "A gentle method from Libermann's letters of direction. If you reason, prayer becomes a labour; if you do not, you drift. His answer: fix on our Lord in one of His mysteries, take two or three simple, practical looks at Him, and each time adhere with your will to what you see — without agitation, without effort.",
+		"pt-BR": "Um método suave, tirado das cartas de direção de Libermann. Se raciocina, a oração torna-se trabalho; se não raciocina, fica à deriva. A sua resposta: fixar-se no Senhor num dos seus mistérios, lançar-Lhe dois ou três olhares simples e práticos, e de cada vez aderir com a vontade ao que vê — sem agitação, sem esforço."
+	},
+	"history": {
+		"en-US": "The Ven. Francis Mary Paul Libermann (1802–1852), son of a rabbi and a convert from Judaism, was formed at St. Sulpice, where epilepsy kept him from ordination for ten years; he spent them guiding the seminarians around him. He was novice master with the Eudists, founded a missionary congregation for Africa in 1841, and was ordained that same year. His letters join the Sulpician and Eudist spirit to a great insistence on peace: we must not try to run ahead of grace, nor want to do things too perfectly, but place ourselves simply in our Lord's hands.",
+		"pt-BR": "O Ven. Francisco Maria Paulo Libermann (1802–1852), filho de um rabino e convertido do judaísmo, formou-se em São Sulpício, onde a epilepsia o afastou da ordenação durante dez anos; passou-os guiando os seminaristas à sua volta. Foi mestre de noviços entre os eudistas, fundou em 1841 uma congregação missionária para a África, e foi ordenado nesse mesmo ano. As suas cartas unem o espírito sulpiciano e eudista a uma grande insistência na paz: não devemos querer adiantar-nos à graça, nem querer fazer as coisas com demasiada perfeição, mas pôr-nos simplesmente nas mãos do Senhor."
+	},
+	"howToPray": {
+		"en-US": "Choose the subject the night before — otherwise you will not know where to begin — and recollect yourself a little before sleep. Pray as soon after rising as you can, alone. A vocal prayer may help you gather yourself. One act is enough if it holds you; many are not needed. When no feeling comes, do not repeat in words that you adhere to Him: adhere, from the bottom of your heart, and remain silent in faith and good desire.",
+		"pt-BR": "Escolha o tema na véspera — de outro modo não saberá por onde começar — e recolha-se um pouco antes de dormir. Reze logo que puder depois de levantar, a sós. Uma oração vocal pode ajudá-lo a recolher-se. Um só ato basta, se o prende; não são precisos muitos. Quando não vier sentimento algum, não repita com palavras que adere a Ele: adira, do fundo do coração, e fique em silêncio na fé e no bom desejo."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"oratorian",
+		"sulpician",
+		"libermann",
+		"french-school",
+		"affective",
+		"simplicity",
+		"mysteries"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

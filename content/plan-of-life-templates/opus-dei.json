@@ -39,7 +39,7 @@
       }
     },
     {
-      "ref": "mental-prayer",
+      "ref": "mental-prayer-opus-dei",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "07:30",
@@ -49,7 +49,7 @@
       }
     },
     {
-      "ref": "mental-prayer",
+      "ref": "mental-prayer-opus-dei",
       "tier": "essential",
       "schedule": { "type": "daily" },
       "time": "19:00",

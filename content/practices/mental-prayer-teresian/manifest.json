@@ -10,7 +10,8 @@
 		"description": {
 			"en-US": "Seven parts — two introductory, two substantial, three optional — all ordered to the colloquy, the heart of prayer.",
 			"pt-BR": "Sete partes — duas introdutórias, duas substanciais, três facultativas — todas ordenadas ao colóquio, o coração da oração."
-		}
+		},
+		"order": 2
 	},
 	"name": {
 		"en-US": "Mental Prayer — Teresian Method",

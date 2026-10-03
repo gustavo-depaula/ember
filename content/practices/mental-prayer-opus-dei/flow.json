@@ -1,0 +1,39 @@
+{
+	"sections": [
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "To Begin",
+				"pt-BR": "Para Começar"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+				"pt-BR": "Pelo sinal da Santa Cruz, livrai-nos Deus, Nosso Senhor, dos nossos inimigos. Em nome do Pai, e do Filho, e do Espírito Santo. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "My Lord and my God, I firmly believe that You are here, that You see me, that You hear me. I adore You with profound reverence. I ask your pardon for my sins and grace to make this time of prayer fruitful.\nMy immaculate Mother, St. Joseph, my father and lord, my guardian angel: intercede for me.",
+				"pt-BR": "Meu Senhor e meu Deus, creio firmemente que estás aqui, que me vês, que me ouves. Adoro-Te com profunda reverência. Peço-Te perdão dos meus pecados e graça para fazer com fruto este tempo de oração.\nMinha Mãe Imaculada, São José, meu Pai e Senhor, meu Anjo da Guarda, intercedei por mim."
+			}
+		},
+		{
+			"type": "section-marker",
+			"title": {
+				"en-US": "To End",
+				"pt-BR": "Para Terminar"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I thank You, my God, for the good resolutions, affections, and inspirations You have communicated to me in this meditation. I ask your help to put them into effect.\nMy immaculate Mother, St. Joseph, my father and lord, my guardian angel: intercede for me.",
+				"pt-BR": "Dou-Te graças, meu Deus, pelos bons propósitos, afetos e inspirações que me comunicaste nesta meditação; peço-Te ajuda para os pôr em prática.\nMinha Mãe Imaculada, São José, meu Pai e Senhor, meu Anjo da Guarda, intercedei por mim."
+			}
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"id": "mental-prayer-ignatian-word-by-word",
+	"icon": "prayer",
+	"alternativeTo": {
+		"id": "mental-prayer",
+		"label": {
+			"en-US": "Ignatian — second method",
+			"pt-BR": "Inaciano — segundo modo"
+		},
+		"description": {
+			"en-US": "One prayer said very slowly, resting on each word for as long as it yields meaning and relish.",
+			"pt-BR": "Uma só oração dita muito devagar, repousando em cada palavra enquanto ela der sentido e gosto."
+		},
+		"order": 12
+	},
+	"name": {
+		"en-US": "Mental Prayer — Second Ignatian Method",
+		"pt-BR": "Oração Mental — Segundo Modo Inaciano"
+	},
+	"source": {
+		"en-US": "St. Ignatius of Loyola, *Spiritual Exercises* (1548), Three Methods of Prayer; outline after Bede Frost, *The Art of Mental Prayer* (1931)",
+		"pt-BR": "Santo Inácio de Loyola, *Exercícios Espirituais* (1548), Três Modos de Orar; esquema segundo Bede Frost, *The Art of Mental Prayer* (1931)"
+	},
+	"categories": [
+		"daily",
+		"contemplative"
+	],
+	"estimatedMinutes": 15,
+	"description": {
+		"en-US": "The second of St. Ignatius' three methods: take the Our Father — or any prayer, psalm or passage of Scripture — and stay on each word for as long as you find something in it. The simplest door into affective prayer.",
+		"pt-BR": "O segundo dos três modos de orar de Santo Inácio: tome o Pai Nosso — ou qualquer oração, salmo ou passagem da Escritura — e fique em cada palavra enquanto nela achar alguma coisa. A porta mais simples para a oração afetiva."
+	},
+	"history": {
+		"en-US": "This way of praying is far older than St. Ignatius: it is how the first monks prayed, who built their prayer on the psalms, responses and lessons of the Divine Office. Abbot Isaac, in Cassian's *Conferences*, says that the Our Father prayed like this leads those who make it their own to the prayer of fire that passes all human language; and St. Teresa knew people who, unable to meditate, were raised to contemplation while reciting the Paternoster.",
+		"pt-BR": "Este modo de orar é muito mais antigo que Santo Inácio: é como oravam os primeiros monges, que edificavam a sua oração sobre os salmos, responsórios e lições do Ofício Divino. O Abade Isaac, nas *Conferências* de Cassiano, diz que o Pai Nosso rezado assim conduz os que dele se apropriam à oração de fogo que ultrapassa toda linguagem humana; e Santa Teresa conheceu pessoas que, não podendo meditar, eram elevadas à contemplação enquanto recitavam o Pai Nosso."
+	},
+	"howToPray": {
+		"en-US": "Kneel or sit, as you find more devotion. Keep your eyes closed or fixed on one place. Say the first word and stay on it for as long as it gives you meanings, comparisons, relish and consolation; then go on to the next. If one or two words fill the whole time, do not trouble to go further. When the time is up, say the rest of the prayer in the usual way, and tomorrow begin where you stopped.",
+		"pt-BR": "Ajoelhe-se ou sente-se, conforme achar mais devoção. Tenha os olhos fechados ou fixos num lugar. Diga a primeira palavra e fique nela enquanto lhe der significações, comparações, gosto e consolação; depois passe à seguinte. Se uma ou duas palavras encherem todo o tempo, não se preocupe em ir adiante. Acabado o tempo, diga o resto da oração do modo costumado, e amanhã comece onde parou."
+	},
+	"flowMode": "step",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"tags": [
+		"prayer",
+		"meditation",
+		"mental",
+		"ignatian",
+		"ignatius",
+		"jesuit",
+		"spiritual-exercises",
+		"our-father",
+		"affective"
+	],
+	"defaults": {
+		"sortOrder": 2,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:30",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}
