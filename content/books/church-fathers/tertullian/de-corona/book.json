@@ -2,13 +2,16 @@
   "id": "tertullian-de-corona",
   "cover": "quarter",
   "name": {
-    "en-US": "De Corona (The Chaplet)"
+    "en-US": "De Corona (The Chaplet)",
+    "pt-BR": "De Corona (A Coroa)"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "De Corona (The Chaplet)"
+        "en-US": "De Corona (The Chaplet)",
+        "pt-BR": "De Corona (A Coroa)"
       }
     }
   ]
