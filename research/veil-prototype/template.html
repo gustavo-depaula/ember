@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @font-face { font-family: Cinzel; src: url('__CINZEL__'); }
+  body { margin: 0; background: #14110d; color: #efe6d2; font-family: 'EB Garamond', Georgia, serif; }
+  .veil { padding: 22px 24px 30px; border-bottom: 1px solid #2c261d; }
+  .veil h2 { font: 400 15px Cinzel; letter-spacing: 2px; margin: 0 0 4px; color: #e4c77b; }
+  .veil p { margin: 0 0 14px; font-size: 14px; line-height: 1.35; color: #b9a98f; max-width: 720px; }
+  .layout { display: flex; gap: 28px; align-items: flex-start; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; width: 470px; }
+  .tile { --w: 104px; }
+  .hero { --w: 210px; }
+  .card { position: relative; width: var(--w); height: calc(var(--w) * 1.5); border-radius: calc(var(--w) * 0.06);
+          overflow: hidden; border: 1.5px solid #c8a24d; background: #f3e9d2; flex: none; }
+  .card.dim { border-color: #6b5a3c; }
+  .card img.art { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .card img.frame { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .name { position: absolute; left: 14%; right: 14%; top: 0; bottom: 0; display: flex; align-items: center;
+          justify-content: center; text-align: center; font-family: Cinzel; color: #6e521f;
+          font-size: calc(var(--w) * 0.095); line-height: 1.25; }
+  .label { font-family: Cinzel; font-size: 10px; color: #cbb98f; text-align: center; width: 104px; margin-top: 4px; }
+  .cell { display: flex; flex-direction: column; align-items: center; }
+
+  /* A — today */
+  .v-today img.frame { opacity: .5; }
+
+  /* B — glimpse: the art, out of focus */
+  .v-glimpse img.art { filter: blur(calc(var(--w) * 0.07)) saturate(.55) sepia(.35); transform: scale(1.2); }
+  .v-glimpse .wash { position: absolute; inset: 0; background: rgba(243,233,210,.38); }
+  .v-glimpse .name { color: #3e2f14; text-shadow: 0 0 6px rgba(243,233,210,.9); }
+
+  /* C — uncoloured print: the plate pulled, not yet illuminated */
+  .v-print img.art { filter: grayscale(1) sepia(.9) contrast(.85) brightness(1.18); opacity: .5; }
+  .v-print .band, .v-lines .band { position: absolute; left: 0; right: 0; bottom: 0; padding: 7% 8%;
+          background: linear-gradient(transparent, rgba(243,233,210,.95) 35%); }
+  .v-print .name, .v-lines .name { position: static; display: block; }
+
+  /* D — the engraver's line */
+  .v-lines img.art { opacity: .8; }
+
+  /* E — vellum and seal */
+  .v-vellum .wash { position: absolute; inset: 0; background: rgba(243,233,210,.86); }
+  .v-vellum .seal { position: absolute; left: 50%; top: 42%; width: calc(var(--w) * .34); height: calc(var(--w) * .34);
+          transform: translate(-50%, -50%); border-radius: 50%;
+          background: radial-gradient(circle at 38% 35%, #c2412f, #8e2116 60%, #6a160f);
+          box-shadow: 0 2px 4px rgba(0,0,0,.35), inset 0 0 0 calc(var(--w) * .02) rgba(255,255,255,.08);
+          display: flex; align-items: center; justify-content: center; color: #f0d6b8;
+          font-size: calc(var(--w) * .16); }
+  .v-vellum .name { top: 58%; bottom: auto; }
+
+  /* F — the illuminated initial */
+  .v-initial .letter { position: absolute; left: 0; right: 0; top: 16%; text-align: center; font-family: Cinzel;
+          font-size: calc(var(--w) * .42); color: #a8321f; text-shadow: 0 0 0 #c8a24d, 1px 1px 0 #c8a24d; }
+  .v-initial .name { top: 60%; bottom: auto; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script>
+const cards = __CARDS__
+const frame = '__FRAME__'
+const veils = [
+  ['today', 'A · Today', 'The frame, dimmed, with the name. Every unreceived card looks the same.'],
+  ['glimpse', 'B · Glimpse', 'The art itself, far out of focus: its colours and shape say who it may be, nothing more. expo-image blurRadius over the thumbnail the app already loads.'],
+  ['print', 'C · Uncoloured print', 'The plate pulled in sepia, not yet illuminated: the card is there, waiting for its colour. A tint and opacity at runtime.'],
+  ['lines', 'D · The engraver\'s line', 'Only the drawing\'s lines, in the frame\'s ink. Needs a line asset per card, made at corpus build.'],
+  ['vellum', 'E · Vellum and seal', 'The card under a leaf of vellum, closed with a wax seal: a shape shows through. Opening the envelope breaks the seal.'],
+  ['initial', 'F · Illuminated initial', 'The frame and the name\'s versal letter, as in a missal, until the image comes.'],
+]
+const letter = (name) => name.replace(/^(Sts?\.|Ss\.|The|Our Lady of)\s+/, '').trim()[0]
+const veiled = (c, v) => {
+  const name = `<div class="name">${c.name}</div>`
+  switch (v) {
+    case 'today': return `<img class="frame" src="${frame}">${name}`
+    case 'glimpse': return `<img class="art" src="${c.thumb}"><div class="wash"></div>${name}`
+    case 'print': return `<img class="art" src="${c.thumb}"><div class="band">${name}</div>`
+    case 'lines': return `<img class="art" src="${c.lines}"><div class="band">${name}</div>`
+    case 'vellum': return `<img class="art" src="${c.thumb}"><div class="wash"></div><div class="seal">✠</div>${name}`
+    case 'initial': return `<img class="frame" src="${frame}"><div class="letter">${letter(c.name)}</div>${name}`
+  }
+}
+const card = (c, v, size) => c.held
+  ? `<div class="card ${size}"><img class="art" src="${c.thumb}"></div>`
+  : `<div class="card ${size} v-${v}${v === 'today' ? ' dim' : ''}">${veiled(c, v)}</div>`
+const only = location.hash.slice(1)
+document.getElementById('root').innerHTML = veils.filter(([v]) => !only || only.split(',').includes(v)).map(([v, title, text]) => `
+  <section class="veil">
+    <h2>${title}</h2><p>${text}</p>
+    <div class="layout">
+      <div class="row">${cards.map((c) => `<div class="cell">${card(c, v, 'tile')}</div>`).join('')}</div>
+      ${card(cards.find((c) => c.id === 'jerome'), v, 'hero')}
+    </div>
+  </section>`).join('')
+</script>
+</body>
+</html>
