@@ -2,13 +2,16 @@
   "id": "tertullian-exhortation-to-chastity",
   "cover": "quarter",
   "name": {
-    "en-US": "On Exhortation to Chastity"
+    "en-US": "On Exhortation to Chastity",
+    "pt-BR": "Sobre a Exortação à Castidade"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Exhortation to Chastity"
+        "en-US": "On Exhortation to Chastity",
+        "pt-BR": "Sobre a Exortação à Castidade"
       }
     }
   ]
