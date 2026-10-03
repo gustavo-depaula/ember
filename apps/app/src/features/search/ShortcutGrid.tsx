@@ -16,10 +16,10 @@ const pagePadding = 24
 const gutter = 16
 const tileAspect = 0.84 // height / width — squarish, with room for a big title
 
-function useTileSize(): number {
+function useTileSize(columns = 2): number {
   const { width } = useWindowDimensions()
   const content = Math.min(width, maxContentWidth) - pagePadding * 2
-  return Math.floor((content - gutter) / 2)
+  return Math.floor((content - gutter * (columns - 1)) / columns)
 }
 
 // Mute the vivid jewel tones into a soft, low-contrast wash so a tile reads like
@@ -64,7 +64,8 @@ function ShortcutTile({
 }: Omit<ShortcutTileData, 'key'> & { tone: BlockTone; size: number }) {
   const height = Math.round(size * tileAspect)
   const [top, bottom] = softStops(tone)
-  const titleSize = Math.round(size * 0.135)
+  // Three-up tiles are narrow; the title stops shrinking where it stops reading.
+  const titleSize = Math.max(Math.round(size * 0.135), 16)
   const gid = `g-${tone.from.slice(1)}`
 
   const card = (
@@ -147,9 +148,15 @@ function ShortcutTile({
   return card
 }
 
-/** A two-column grid of illuminated cover tiles — the search portfolio's body. */
-export function ShortcutGrid({ items }: { items: ShortcutTileData[] }) {
-  const size = useTileSize()
+/** A grid of illuminated cover tiles, two across unless told otherwise. */
+export function ShortcutGrid({
+  items,
+  columns = 2,
+}: {
+  items: ShortcutTileData[]
+  columns?: number
+}) {
+  const size = useTileSize(columns)
   return (
     <XStack flexWrap="wrap" gap={gutter} justifyContent="space-between">
       {items.map(({ key, ...tile }) => (

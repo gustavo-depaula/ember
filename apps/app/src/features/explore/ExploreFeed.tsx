@@ -23,7 +23,6 @@ import { localizeContent } from '@/lib/i18n'
 import { getLiturgicalSeason } from '@/lib/liturgical'
 import { useGospelOfTheDay } from '@/lib/mass-of/use-gospel-of-the-day'
 import { ArtCarousel } from './ArtCarousel'
-import { ArtCoverCard } from './ArtCoverCard'
 import { artFor } from './artMap'
 import { toneForCelebration, toneForKey, toneForSeason } from './bgColor'
 import { evangelistArtFor } from './evangelistArt'
@@ -32,7 +31,7 @@ import { FeaturedCarousel } from './FeaturedCarousel'
 import { FeatureTile } from './FeatureTile'
 import { HolyCardEnvelopes } from './HolyCardEnvelopes'
 import { useMeditationSubtitle } from './meditationSubtitle'
-import { collectionRow, pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
+import { pickFeatured, practiceRow, weekdayDevotion } from './pickFeatured'
 import { useSaintOfDay } from './useSaintOfDay'
 
 const dayMs = 86_400_000
@@ -218,96 +217,6 @@ export function DailyMeditations() {
         />
       ))}
     </ArtCarousel>
-  )
-}
-
-/** The Library: a shelf of book covers whose title opens every book, A → Z. */
-export function LibraryRow() {
-  const { t } = useTranslation()
-  const catalogVersion = useCatalogVersion()
-
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const books = useMemo(
-    () => getEntriesByKind('book').filter(([id]) => !isMetaId(id)),
-    [catalogVersion],
-  )
-  if (books.length === 0) return null
-
-  return (
-    <ArtCarousel title={t('explore.theLibrary')} href="/browse/books">
-      {books.slice(0, 18).map(([id, entry]) => (
-        <ArtCoverCard
-          key={id}
-          title={localizeContent(entry.name ?? entry.title ?? {})}
-          subtitle={entry.author ? localizeContent(entry.author) : undefined}
-          image={artFor(id)}
-          tone={toneForKey(id)}
-          cover={coverFor(entry)}
-          size={118}
-          aspectRatio={1.5}
-          radius={4}
-          href={bookHref(id)}
-        />
-      ))}
-    </ArtCarousel>
-  )
-}
-
-/**
- * The season's curated devotion and tradition collections, shown on Search's
- * empty state.
- */
-export function ExploreCatalogRows() {
-  const { t } = useTranslation()
-  const catalogVersion = useCatalogVersion()
-  const today = useToday()
-  const featured = pickFeatured(getLiturgicalSeason(today), today)
-
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const devotions = useMemo(
-    () => collectionRow(featured.devotionRow),
-    [catalogVersion, featured.devotionRow],
-  )
-  // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const traditions = useMemo(
-    () => collectionRow(featured.traditionRow),
-    [catalogVersion, featured.traditionRow],
-  )
-
-  return (
-    <>
-      {devotions.length > 0 && (
-        <ArtCarousel title={t('explore.devotions')}>
-          {devotions.map(([id, entry]) => (
-            <ArtCoverCard
-              key={id}
-              title={localizeContent(entry.name ?? {})}
-              image={artFor(id)}
-              cover={coverFor(entry)}
-              tone={toneForKey(id)}
-              href={collectionHref(id)}
-              onPress={() => warmCollection(id)}
-            />
-          ))}
-        </ArtCarousel>
-      )}
-
-      {traditions.length > 0 && (
-        <ArtCarousel title={t('explore.traditions')}>
-          {traditions.map(([id, entry]) => (
-            <ArtCoverCard
-              key={id}
-              title={localizeContent(entry.name ?? {})}
-              image={artFor(id)}
-              cover={coverFor(entry)}
-              tone={toneForKey(id)}
-              href={collectionHref(id)}
-              onPress={() => warmCollection(id)}
-            />
-          ))}
-        </ArtCarousel>
-      )}
-    </>
   )
 }
 

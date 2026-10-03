@@ -10,7 +10,8 @@ import { useToday } from '@/hooks/useToday'
 
 /**
  * The practices prayed most often over the last `days` days, most first (ties
- * to the most recently prayed). Counts every completion — from the plan or
+ * to the most recently prayed) — or, with `order: 'recent'`, the ones prayed
+ * last, newest first. Counts every completion — from the plan or
  * prayed on its own — against the practice it prayed, by bare id, and skips
  * practices without a catalog entry, the hidden examples and `exclude`.
  */
@@ -18,11 +19,13 @@ export function useMostPrayed({
   days,
   limit,
   exclude = [],
+  order = 'count',
 }: {
   days: number
   limit: number
   exclude?: string[]
-}): { id: string; entry: CatalogEntry }[] {
+  order?: 'count' | 'recent'
+}): { id: string; entry: CatalogEntry; last: number }[] {
   const catalogVersion = useCatalogVersion()
   const today = useToday()
   const dates = eachDayOfInterval({ start: subDays(today, days - 1), end: today }).map((d) =>
@@ -50,13 +53,15 @@ export function useMostPrayed({
     }
     const ranked = [...tally.entries()]
       .filter(([id]) => !exclude.includes(id) && !isMetaId(id))
-      .sort(([, a], [, b]) => b.count - a.count || b.last - a.last)
-    const top: { id: string; entry: CatalogEntry }[] = []
-    for (const [id] of ranked) {
+      .sort(([, a], [, b]) =>
+        order === 'recent' ? b.last - a.last : b.count - a.count || b.last - a.last,
+      )
+    const top: { id: string; entry: CatalogEntry; last: number }[] = []
+    for (const [id, { last }] of ranked) {
       if (top.length === limit) break
       const entry = getEntry(`practice/${id}`)
-      if (entry) top.push({ id, entry })
+      if (entry) top.push({ id, entry, last })
     }
     return top
-  }, [completions, byDate, practices, slots, datesKey, limit, excludeKey, catalogVersion])
+  }, [completions, byDate, practices, slots, datesKey, limit, excludeKey, order, catalogVersion])
 }

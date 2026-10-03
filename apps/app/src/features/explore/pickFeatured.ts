@@ -8,9 +8,6 @@ export type Featured = {
   /** The season's hero collection (`collection/…`) for the "For this Season" block. */
   seasonCollectionId: string
   seasonTaglineKey: string
-  /** Curated collection rows, rendered as cover-card carousels. */
-  devotionRow: string[]
-  traditionRow: string[]
   /** Daily-meditation practices, rendered as medium text-on-image tiles. */
   meditationRow: MeditationCard[]
 }
@@ -20,29 +17,6 @@ export type Featured = {
  *  of the Day"). */
 export type MeditationCard = { id: string; subtitleKey: string }
 
-// The same curated rows feed both Search's catalogue rows and /practices. Ids
-// are filtered against the live catalog at render, so a missing collection
-// simply drops out.
-export const devotionRow = [
-  'collection/sacred-heart',
-  'collection/divine-mercy',
-  'collection/marian',
-  'collection/eucharistic',
-  'collection/holy-spirit',
-  'collection/way-of-the-cross',
-  'collection/for-the-dead',
-]
-
-export const traditionRow = [
-  'collection/carmelite',
-  'collection/alphonsus-liguori',
-  'collection/montfort-spirituality',
-  'collection/spiritual-classics',
-  'collection/mental-prayer',
-  'collection/novenas',
-  'collection/litanies',
-]
-
 // The daily-meditation row, shown on Today. Practice ids resolve against the
 // live catalog at render, so a missing one drops out.
 export const meditationRow: MeditationCard[] = [
@@ -51,14 +25,6 @@ export const meditationRow: MeditationCard[] = [
   { id: 'practice/opus-dei-meditation', subtitleKey: 'explore.meditation.opusDei' },
   { id: 'practice/patristic-reading', subtitleKey: 'explore.meditation.patristic' },
 ]
-
-/** Resolve a list of collection ids against the live catalog, dropping any that
- *  aren't present yet (or aren't collections). Pure — depends only on the catalog. */
-export function collectionRow(ids: string[]): [string, CatalogEntry][] {
-  return ids
-    .map((id) => [id, getEntry(id)] as const)
-    .filter((pair): pair is [string, CatalogEntry] => !!pair[1] && pair[1].kind === 'collection')
-}
 
 /** Resolve meditation cards against the live catalog, dropping any practice that
  *  isn't present yet. Returns the entry + its subtitle key alongside the id. */
@@ -87,14 +53,12 @@ export function weekdayDevotion(date: Date): WeekdayDevotion {
   return weekdayDevotions[date.getDay()]
 }
 
-/** The editorial picks for the day — seasonal hero + the curated collection rows. */
+/** The editorial picks for the day — the seasonal hero and the meditation row. */
 export function pickFeatured(season: LiturgicalSeason, date: Date): Featured {
   const spotlight = pickSpotlight(season, date)
   return {
     seasonCollectionId: spotlight.collectionId,
     seasonTaglineKey: spotlight.taglineKey,
-    devotionRow,
-    traditionRow,
     meditationRow,
   }
 }

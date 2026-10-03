@@ -1,27 +1,22 @@
 import { type NativeStackNavigationProp, Stack, useNavigation } from 'expo-router'
-import {
-  BookMarked,
-  BookOpen,
-  Church,
-  Library as LibraryIcon,
-  Music,
-  Sparkle,
-} from 'lucide-react-native'
-import type { ReactNode } from 'react'
+import { BookOpen, Church, Sparkle } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import type { SearchBarCommands } from 'react-native-screens'
 import { YStack } from 'tamagui'
 
 import { PageFlourish, PageHeader, ScreenLayout } from '@/components'
-import { Typography } from '@/components/typography'
-import { bareId, getEntriesByKind } from '@/content/contentIndex'
+import { getEntry } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { ExploreCatalogRows, LibraryRow } from '@/features/explore'
-import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
 import { SearchAutocomplete } from '@/features/practices/components'
-import { ShortcutGrid, type ShortcutTileData, WideShortcutCard } from '@/features/search'
+import {
+  Acervo,
+  RecentRow,
+  ShortcutGrid,
+  type ShortcutTileData,
+  WideShortcutCard,
+} from '@/features/search'
 import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
 import { localizeContent } from '@/lib/i18n'
 
@@ -30,8 +25,8 @@ const flourishLight = require('../../../../assets/textures/notch_search_light.pn
 const flourishAspect = 2172 / 478
 const flourishLightAspect = 2153 / 334
 
-// With a query, live corpus search; empty, the portfolio of shortcuts and
-// browsable catalogue rows.
+// With a query, live corpus search; empty, a lobby: Mass times, three fixed
+// places, the doors into the corpus and what was last opened.
 export default function SearchScreen() {
   const { t } = useTranslation()
   const [query, setQuery] = useState('')
@@ -85,7 +80,8 @@ export default function SearchScreen() {
     [t, onSearchChange],
   )
 
-  const prayTiles = useMemo<ShortcutTileData[]>(
+  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps once the catalog (and the Rosary's name) loads.
+  const placeTiles = useMemo<ShortcutTileData[]>(
     () => [
       {
         key: 'mass',
@@ -94,48 +90,15 @@ export default function SearchScreen() {
         href: { pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } },
       },
       { key: 'bible', title: t('home.bible'), icon: BookOpen, href: '/bible' },
-    ],
-    [t],
-  )
-
-  const studyTiles = useMemo<ShortcutTileData[]>(
-    () => [
       {
-        key: 'catechism',
-        title: t('catechism.title'),
-        icon: BookMarked,
-        href: { pathname: '/browse/book/[bookId]/read', params: { bookId: 'ccc' } },
+        key: 'rosary',
+        title: localizeContent(getEntry('practice/rosary')?.name ?? {}),
+        icon: Sparkle,
+        href: { pathname: '/pray/[practiceId]', params: { practiceId: 'rosary' } },
       },
-      { key: 'saints', title: t('saints.title'), icon: Sparkle, href: '/saints' },
-      { key: 'piano', title: t('piano.title'), icon: Music, href: '/piano' },
     ],
-    [t],
+    [catalogVersion, t],
   )
-
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as deferred collection manifests warm in.
-  const libraryTiles = useMemo<ShortcutTileData[]>(() => {
-    // Only collections with mapped art read as deliberate cover tiles — that set
-    // is exactly the curated, non-meta collections, so no extra filtering needed.
-    const collections = getEntriesByKind('collection')
-      .map(([id, entry]) => ({ id, image: artFor(id), entry }))
-      .filter((c) => c.image)
-      .slice(0, 6)
-      .map<ShortcutTileData>(({ id, image, entry }) => ({
-        key: id,
-        title: entry.name ? localizeContent(entry.name) : bareId(id),
-        image,
-        href: { pathname: '/browse/[collectionId]', params: { collectionId: bareId(id) } },
-      }))
-    return [
-      ...collections,
-      {
-        key: 'all-collections',
-        title: t('search.collectionsTitle'),
-        icon: LibraryIcon,
-        href: '/browse/all',
-      },
-    ]
-  }, [catalogVersion, t])
 
   // Memoized and hidden rather than unmounted while a query is typed: each
   // keystroke re-renders this screen, and remounting the tiles when the query
@@ -147,27 +110,21 @@ export default function SearchScreen() {
     return (
       <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
         <PageHeader title={t('nav.searchPlaceholder')} />
-        <WideShortcutCard
-          title={t('massTimes.cardTitle')}
-          subtitle={t('massTimes.exploreTagline')}
-          icon={Church}
-          tone={toneForKey('mass-times')}
-          href="/mass-times"
-        />
-        <Section title={t('search.sectionPray')}>
-          <ShortcutGrid items={withTones(prayTiles)} />
-        </Section>
-        <Section title={t('search.sectionStudy')}>
-          <ShortcutGrid items={withTones(studyTiles)} />
-        </Section>
-        <LibraryRow />
-        <Section title={t('search.sectionCollections')}>
-          <ShortcutGrid items={withTones(libraryTiles)} />
-        </Section>
-        <ExploreCatalogRows />
+        <YStack gap="$md">
+          <WideShortcutCard
+            title={t('massTimes.cardTitle')}
+            subtitle={t('massTimes.exploreTagline')}
+            icon={Church}
+            tone={toneForKey('mass-times')}
+            href="/mass-times"
+          />
+          <ShortcutGrid items={withTones(placeTiles)} columns={3} />
+        </YStack>
+        <Acervo />
+        <RecentRow />
       </YStack>
     )
-  }, [t, prayTiles, studyTiles, libraryTiles])
+  }, [t, placeTiles])
 
   return (
     <>
@@ -191,16 +148,5 @@ export default function SearchScreen() {
         </ScreenLayout>
       )}
     </>
-  )
-}
-
-function Section({ title, children }: { title: string; children: ReactNode }) {
-  return (
-    <YStack gap="$md">
-      <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-        {title}
-      </Typography>
-      {children}
-    </YStack>
   )
 }
