@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On Lots",
-    "la": "De Sortibus"
+    "la": "De Sortibus",
+    "pt-BR": "Das Sortes"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short consultation on the moral and theological status of casting lots — for decision-making, divination, and gambling — addressed to a James of Tonengo.",
-    "la": "Responsum breve de statu morali et theologico iactus sortium — ad decisiones, divinationem, et aleam — ad Iacobum de Tonengo compositum."
+    "la": "Responsum breve de statu morali et theologico iactus sortium — ad decisiones, divinationem, et aleam — ad Iacobum de Tonengo compositum.",
+    "pt-BR": "Breve parecer sobre a condição moral e teológica do lançamento de sortes — para decidir, para adivinhar e no jogo —, composto para Tiago de Tonengo."
   },
   "composed": "c. 1271",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,42 +39,48 @@
       "id": "prologue",
       "title": {
         "en-US": "Prologue — The author's intention",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio — No qual se manifesta a intenção da obra que se segue"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1 — The matters into which a search for information by lots can be made",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Em que coisas se faz a indagação por sortes"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Chapter 2 — The end to which lots are ordered",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — A que fim se ordenam as sortes"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Chapter 3 — The manner of seeking information through lots",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — Qual é o modo de indagar por sortes"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Chapter 4 — Whence lots derive their power",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — De onde vem a virtude das sortes"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Chapter 5 — Whether it is permitted to use lots",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — Se é lícito usar as sortes"
       }
     }
   ]
