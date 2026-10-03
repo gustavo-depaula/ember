@@ -2,13 +2,16 @@
   "id": "clement-rome-two-epistles-concerning-virginity",
   "cover": "quarter",
   "name": {
-    "en-US": "Two Epistles Concerning Virginity"
+    "en-US": "Two Epistles Concerning Virginity",
+    "pt-BR": "Duas Cartas sobre a Virgindade"
   },
   "author": {
-    "en-US": "Clement of Rome"
+    "en-US": "Clement of Rome",
+    "pt-BR": "Clemente de Roma"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Two Epistles Concerning Virginity"
+        "en-US": "Two Epistles Concerning Virginity",
+        "pt-BR": "Duas Cartas sobre a Virgindade"
       }
     }
   ]
