@@ -2,13 +2,16 @@
   "id": "sulpitius-severus-genuine",
   "cover": "quarter",
   "name": {
-    "en-US": "Genuine"
+    "en-US": "Genuine",
+    "pt-BR": "Cartas autênticas"
   },
   "author": {
-    "en-US": "Sulpitius Severus (c. 363-c. 420)"
+    "en-US": "Sulpitius Severus (c. 363-c. 420)",
+    "pt-BR": "Sulpício Severo (c. 363-c. 420)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Genuine"
+        "en-US": "Genuine",
+        "pt-BR": "Cartas autênticas"
       }
     }
   ]
