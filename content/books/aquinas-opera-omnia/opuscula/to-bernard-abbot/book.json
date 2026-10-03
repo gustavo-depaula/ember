@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Letter to Abbot Bernard of Casino on the prayer of the dying",
-    "la": "Epistola ad Bernardum Abbatem Casinensem"
+    "la": "Epistola ad Bernardum Abbatem Casinensem",
+    "pt-BR": "Carta ao Abade Bernardo de Monte Cassino"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short letter Aquinas wrote near the end of his life to Bernard Aiglier OSB, abbot of Monte Cassino, on a question about Gregory the Great's teaching on what happens to the prayer of those who die in mortal sin.",
-    "la": "Epistola brevis serotina Thomae ad Bernardum Aiglier OSB, abbatem Casinensem, super quaestione de doctrina Gregorii Magni quid orationi morientium in peccato mortali fiat."
+    "la": "Epistola brevis serotina Thomae ad Bernardum Aiglier OSB, abbatem Casinensem, super quaestione de doctrina Gregorii Magni quid orationi morientium in peccato mortali fiat.",
+    "pt-BR": "Uma breve carta de Tomás de Aquino ao abade Bernardo de Monte Cassino que esclarece palavras de São Gregório sobre a presciência divina, o momento da morte e a distinção entre necessidade absoluta e condicional."
   },
   "composed": "c. 1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch001",
       "title": {
         "en-US": "Letter to Abbot Bernard of Casino on the prayer of the dying",
-        "la": "Epistola ad Bernardum Abbatem Casinensem"
+        "la": "Epistola ad Bernardum Abbatem Casinensem",
+        "pt-BR": "Carta ao Abade Bernardo de Monte Cassino"
       }
     }
   ]
