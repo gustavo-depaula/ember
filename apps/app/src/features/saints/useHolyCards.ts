@@ -1,4 +1,4 @@
-import { useQuery } from '@tanstack/react-query'
+import { keepPreviousData, useQuery } from '@tanstack/react-query'
 
 import { getEntry, getRememberedManifest } from '@/content/contentIndex'
 import type { PracticeManifest } from '@/content/manifestTypes'
@@ -85,6 +85,9 @@ export function useHolyCardCatalog(): { cards: HolyCard[]; starters: string[] } 
       }
     },
     staleTime: Number.POSITIVE_INFINITY,
+    // A new corpus at launch changes the key: without the old cards meanwhile,
+    // everything showing them (the You page's carousel) blinks out and back.
+    placeholderData: keepPreviousData,
   })
   return data ?? undefined
 }
