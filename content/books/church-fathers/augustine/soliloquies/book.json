@@ -2,13 +2,16 @@
   "id": "augustine-soliloquies",
   "cover": "quarter",
   "name": {
-    "en-US": "Soliloquies"
+    "en-US": "Soliloquies",
+    "pt-BR": "Solilóquios"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,13 +24,15 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     }
   ]
