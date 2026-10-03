@@ -2,13 +2,16 @@
   "id": "ambrose-concerning-virgins",
   "cover": "quarter",
   "name": {
-    "en-US": "Concerning Virgins"
+    "en-US": "Concerning Virgins",
+    "pt-BR": "Sobre as Virgens"
   },
   "author": {
-    "en-US": "Ambrose (340-397)"
+    "en-US": "Ambrose (340-397)",
+    "pt-BR": "Santo Ambrósio (340-397)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,19 +24,22 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     }
   ]
