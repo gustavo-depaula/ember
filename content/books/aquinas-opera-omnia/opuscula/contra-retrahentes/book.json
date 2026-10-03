@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Refutation of Teaching that Deters from Religious Life (Contra Retrahentes)",
-    "la": "Contra Doctrinam Retrahentium a Religione"
+    "la": "Contra Doctrinam Retrahentium a Religione",
+    "pt-BR": "Contra a Doutrina dos que Afastam da Vida Religiosa"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A late polemical work defending the entry of young men into religious life against Gerard of Abbeville's attacks on mendicant recruitment.",
-    "la": "Opus polemicum serotinum, ingressum iuvenum in vitam religiosam contra impugnationes Gerardi de Abbatisvilla in mendicantium receptione defendens."
+    "la": "Opus polemicum serotinum, ingressum iuvenum in vitam religiosam contra impugnationes Gerardi de Abbatisvilla in mendicantium receptione defendens.",
+    "pt-BR": "Obra polêmica tardia que defende o ingresso dos jovens na vida religiosa contra os ataques de Geraldo de Abbeville ao recrutamento dos mendicantes."
   },
   "composed": "1271",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,112 +39,128 @@
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1 — Object of the author in undertaking this work",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — No qual se manifesta a intenção da obra"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Chapter 2 — Arguments used by those who maintain that none should be admitted to the religious life who are not practised in the exercise of the commandments",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — Razões com que se esforçam por sustentar que não se devem admitir alguns na vida religiosa antes de estarem exercitados nos preceitos"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Chapter 3 — The foregoing arguments do not hold good in the case of children",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — Que a referida afirmação não tem lugar nas crianças"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Chapter 4 — The opinion held by Vigilantius and his followers does not apply to recent converts to the faith",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — Que a referida afirmação não tem lugar nos que se convertem recentemente à fé"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Chapter 5 — This argument is equally fallacious as applied to penitent sinners",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — Que a referida afirmação não tem lugar nos pecadores convertidos pela penitência"
       }
     },
     {
       "id": "ch006",
       "title": {
         "en-US": "Chapter 6 — The fundamental error of these opinions exposed",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — No qual se destrói a raiz do erro mencionado"
       }
     },
     {
       "id": "ch007",
       "title": {
         "en-US": "Chapter 7 — The arguments of our opponents are conclusively refuted",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — No qual se resolvem as razões dos adversários expostas acima"
       }
     },
     {
       "id": "ch008",
       "title": {
         "en-US": "Chapter 8 — Arguments used to prove that before entering religious life a man ought to deliberate for a long time, and take counsel of many",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8 — No qual se expõem as razões que alegam para sustentar que, antes do ingresso na vida religiosa, é preciso deliberar longamente e com muitos"
       }
     },
     {
       "id": "ch009",
       "title": {
         "en-US": "Chapter 9 — Answers to the foregoing arguments",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9 — No qual se reprova a referida posição"
       }
     },
     {
       "id": "ch010",
       "title": {
         "en-US": "Chapter 10 — Answer to the objections raised against the foregoing arguments",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10 — No qual se resolvem as razões alegadas acima contra a verdade"
       }
     },
     {
       "id": "ch011",
       "title": {
         "en-US": "Chapter 11 — Arguments used by those who maintain that men should not bind themselves by vow to embrace the religious life",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11 — No qual se expõem as razões com que se esforçam por sustentar que os homens não devem obrigar-se por voto à vida religiosa"
       }
     },
     {
       "id": "ch012",
       "title": {
         "en-US": "Chapter 12 — Refutation of the error contained in the last chapter",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12 — No qual se reprova o erro mencionado"
       }
     },
     {
       "id": "ch013",
       "title": {
         "en-US": "Chapter 13 — Refutation of the arguments adduced in the last chapter",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13 — No qual se resolvem as razões alegadas em favor do erro mencionado"
       }
     },
     {
       "id": "ch014",
       "title": {
         "en-US": "Chapter 14 — Arguments against the perfection of religious whose possessions are not in common",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14 — No qual se expõem as razões contra a perfeição dos religiosos que não têm possessões em comum"
       }
     },
     {
       "id": "ch015",
       "title": {
         "en-US": "Chapter 15 — Refutation of the errors quoted in the last chapter",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15 — No qual se refuta o erro mencionado"
       }
     },
     {
       "id": "ch016",
       "title": {
         "en-US": "Chapter 16 — An answer to the arguments which are brought forward against the propositions contained in the preceding chapter",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16 — No qual se resolvem as razões alegadas contra a referida verdade"
       }
     }
   ]
