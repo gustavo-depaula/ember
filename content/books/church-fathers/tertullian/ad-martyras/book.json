@@ -2,13 +2,16 @@
   "id": "tertullian-ad-martyras",
   "cover": "quarter",
   "name": {
-    "en-US": "Ad Martyras"
+    "en-US": "Ad Martyras",
+    "pt-BR": "Ad Martyras"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Ad Martyras"
+        "en-US": "Ad Martyras",
+        "pt-BR": "Ad Martyras"
       }
     }
   ]
