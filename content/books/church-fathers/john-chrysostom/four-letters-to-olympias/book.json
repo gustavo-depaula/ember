@@ -2,13 +2,16 @@
   "id": "john-chrysostom-four-letters-to-olympias",
   "cover": "quarter",
   "name": {
-    "en-US": "Four Letters to Olympias"
+    "en-US": "Four Letters to Olympias",
+    "pt-BR": "Quatro Cartas a Olímpia"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Four Letters to Olympias"
+        "en-US": "Four Letters to Olympias",
+        "pt-BR": "Quatro Cartas a Olímpia"
       }
     }
   ]
