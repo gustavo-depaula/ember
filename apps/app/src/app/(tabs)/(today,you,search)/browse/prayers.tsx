@@ -1,3 +1,4 @@
+import { Image, type ImageSource } from 'expo-image'
 import { Stack, useRouter } from 'expo-router'
 import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -5,15 +6,28 @@ import { FlatList, Pressable, ScrollView } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { XStack, YStack } from 'tamagui'
 
-import { PageHeader, PracticeIcon, Typography } from '@/components'
+import { PageHeader, Typography } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
-import { bareId, isMetaId } from '@/content/contentIndex'
+import { bareId, getEntry, isMetaId } from '@/content/contentIndex'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { coverFor, GeneratedCover, type TileCover } from '@/features/covers'
+import { artFor } from '@/features/explore/artMap'
+import { toneForKey } from '@/features/explore/bgColor'
 import { practiceHref } from '@/features/practices/practiceHref'
 import { localizeContent } from '@/lib/i18n'
 
-type Prayer = { id: string; title: string; icon: string; minutes?: number; tags: Set<string> }
+type Prayer = {
+  id: string
+  title: string
+  minutes?: number
+  tags: Set<string>
+  image?: ImageSource
+  cover?: TileCover
+}
+
+// The row's tile is the one the practice wears on Today and in collections, in miniature.
+const tileSize = 72
 type Facet = { key: string; tags: string[] }
 
 // The two questions a prayer book's index answers: what kind of prayer, and
@@ -54,13 +68,17 @@ export default function AllPrayersScreen() {
     () =>
       getAllManifests()
         .filter((m) => !isAlternateForm(m) && !isMetaId(m.id))
-        .map((m) => ({
-          id: bareId(m.id),
-          title: localizeContent(m.name),
-          icon: m.icon ?? 'prayer',
-          minutes: m.estimatedMinutes,
-          tags: new Set([...(m.tags ?? []), ...(m.categories ?? [])]),
-        }))
+        .map((m) => {
+          const entry = getEntry(m.id)
+          return {
+            id: bareId(m.id),
+            title: localizeContent(m.name),
+            minutes: m.estimatedMinutes,
+            tags: new Set([...(m.tags ?? []), ...(m.categories ?? [])]),
+            image: artFor(m.id),
+            cover: entry && coverFor(entry),
+          }
+        })
         .sort((a, b) => a.title.localeCompare(b.title)),
     [catalogVersion, i18n.language],
   )
@@ -79,8 +97,8 @@ export default function AllPrayersScreen() {
         accessibilityRole="link"
         accessibilityLabel={t('a11y.viewPractice', { name: item.title })}
       >
-        <XStack minHeight={56} paddingVertical="$sm" alignItems="center" gap="$md">
-          <PracticeIcon name={item.icon} size={30} />
+        <XStack paddingVertical="$sm" alignItems="center" gap="$md">
+          <PrayerTile prayer={item} />
           <YStack flex={1}>
             <Typography fontSize="$4" numberOfLines={2}>
               {item.title}
@@ -149,6 +167,27 @@ export default function AllPrayersScreen() {
 }
 
 const keyExtractor = (p: Prayer) => p.id
+
+function PrayerTile({ prayer }: { prayer: Prayer }) {
+  if (prayer.image)
+    return (
+      <Image
+        source={prayer.image}
+        style={{ width: tileSize, height: tileSize, borderRadius: 8 }}
+        contentFit="cover"
+        cachePolicy="memory-disk"
+      />
+    )
+  if (!prayer.cover) return <YStack width={tileSize} height={tileSize} />
+  return (
+    <GeneratedCover
+      cover={prayer.cover}
+      title={prayer.title}
+      tone={toneForKey(`practice/${prayer.id}`)}
+      width={tileSize}
+    />
+  )
+}
 
 /** One line of typographic options; the chosen one takes the gold and an underline. */
 function FacetRow({
