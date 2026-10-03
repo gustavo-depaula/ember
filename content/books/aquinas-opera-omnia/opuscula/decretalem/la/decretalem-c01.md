@@ -20,7 +20,7 @@ Firmiter credimus et simpliciter confitemur, quod unus solus est verus Deus, aet
 
 > Una vero est fidelium universalis ecclesia, extra quam nullus omnino salvatur,
 
-> in qua idem ipse sacerdos est sacrificium Iesus Christus, cuius corpus et sanguis in sacramento altaris sub speciebus panis et vini veraciter continentur, transsubstantiatis pane in corpus et vino in sanguinem potestate divina, ut at perficiendum mysterium unitatis accipiamus ipsi de suo quod accepit ipse de nostro. Et hoc utique sacramentum nemo potest conficere, nisi sacerdos rite fuerit ordinatus, secundum claves ecclesiae, quas ipse concessit Apostolis eorumque successoribus Iesus Christus.
+> in qua idem ipse sacerdos est sacrificium Iesus Christus, cuius corpus et sanguis in sacramento altaris sub speciebus panis et vini veraciter continentur, transsubstantiatis pane in corpus et vino in sanguinem potestate divina, ut ad perficiendum mysterium unitatis accipiamus ipsi de suo quod accepit ipse de nostro. Et hoc utique sacramentum nemo potest conficere, nisi sacerdos rite fuerit ordinatus, secundum claves ecclesiae, quas ipse concessit Apostolis eorumque successoribus Iesus Christus.
 
 > Sacramentum vero baptismi, quod ad Dei invocationem et individuae trinitatis, videlicet Patris et Filii et Spiritus Sancti, consecratur in aqua, tam parvulis quam adultis in forma ecclesiae a quocunque rite collatum proficit ad salutem.
 

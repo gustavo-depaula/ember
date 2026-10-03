@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On the First and Second Decretals",
-    "la": "Expositio Super Primam et Secundam Decretalem"
+    "la": "Expositio Super Primam et Secundam Decretalem",
+    "pt-BR": "Exposição sobre a primeira e a segunda decretal"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's exposition of two decretals (papal letters) of Innocent III, on points of Trinitarian and christological doctrine.",
-    "la": "Expositio Thomae duarum decretalium Innocentii III, de quaestionibus doctrinae Trinitariae et christologicae."
+    "la": "Expositio Thomae duarum decretalium Innocentii III, de quaestionibus doctrinae Trinitariae et christologicae.",
+    "pt-BR": "Exposição de São Tomás sobre duas decretais (cartas pontifícias) de Inocêncio III, acerca de pontos de doutrina trinitária e cristológica."
   },
   "composed": "c. 1259–1264",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "decretalem-c01",
       "title": {
         "en-US": "I - On the Trinity and the Catholic Faith",
-        "la": "I - On the Trinity and the Catholic Faith"
+        "la": "I - On the Trinity and the Catholic Faith",
+        "pt-BR": "I - Da Trindade e da fé católica"
       }
     },
     {
       "id": "decretalem-c02",
       "title": {
         "en-US": "II - On the Error of Joachim",
-        "la": "II - On the Error of Joachim"
+        "la": "II - On the Error of Joachim",
+        "pt-BR": "II - Do erro de Joaquim"
       }
     }
   ]
