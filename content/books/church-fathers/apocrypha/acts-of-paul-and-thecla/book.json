@@ -2,13 +2,16 @@
   "id": "apocrypha-acts-of-paul-and-thecla",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of Paul and Thecla (c. 180)"
+    "en-US": "Acts of Paul and Thecla (c. 180)",
+    "pt-BR": "Atos de Paulo e Tecla (c. 180)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of Paul and Thecla (c. 180)"
+        "en-US": "Acts of Paul and Thecla (c. 180)",
+        "pt-BR": "Atos de Paulo e Tecla (c. 180)"
       }
     }
   ]
