@@ -2,13 +2,16 @@
   "id": "tertullian-apparel-of-women",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Apparel of Women"
+    "en-US": "On the Apparel of Women",
+    "pt-BR": "Sobre o Vestuário das Mulheres"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Apparel of Women"
+        "en-US": "On the Apparel of Women",
+        "pt-BR": "Sobre o Vestuário das Mulheres"
       }
     }
   ]
