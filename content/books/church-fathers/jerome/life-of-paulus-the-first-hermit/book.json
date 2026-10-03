@@ -2,13 +2,16 @@
   "id": "jerome-life-of-paulus-the-first-hermit",
   "cover": "quarter",
   "name": {
-    "en-US": "The Life of Paulus the First Hermit"
+    "en-US": "The Life of Paulus the First Hermit",
+    "pt-BR": "Vida de Paulo, o Primeiro Eremita"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Life of Paulus the First Hermit"
+        "en-US": "The Life of Paulus the First Hermit",
+        "pt-BR": "Vida de Paulo, o Primeiro Eremita"
       }
     }
   ]
