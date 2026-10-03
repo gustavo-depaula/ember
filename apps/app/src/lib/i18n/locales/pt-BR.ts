@@ -857,6 +857,16 @@ export default {
   },
 
   browse: {
+    shelf: {
+      devotions: 'Devoções',
+      prayerBooks: 'Livros de oração',
+      week: 'Os dias da semana',
+      schools: 'Escolas e mestres',
+      fathers: 'Padres da Igreja',
+      reference: 'Magistério e referência',
+      other: 'Mais',
+    },
+    otherAuthors: 'Outros autores',
     title: 'Acervo',
     registryOffline: 'Não foi possível alcançar o conteúdo.',
     practices: 'Práticas',
@@ -1060,8 +1070,7 @@ export default {
     suggestionEvening: 'Exame do dia',
     suggestionNight: 'Antes de dormir',
     todayInChurch: 'Hoje na Igreja',
-    allCollections: 'Todas as coleções (A → Z)',
-    allCollectionsHint: 'Todas as coleções em ordem alfabética.',
+    allCollections: 'Todas as coleções',
     allBooks: 'Todos os livros',
     section: {
       daily: 'Suas Orações Diárias',

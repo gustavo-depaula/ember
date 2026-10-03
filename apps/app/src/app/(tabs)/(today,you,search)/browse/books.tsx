@@ -2,9 +2,9 @@ import { useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { Text, YStack } from 'tamagui'
+import { Text, XStack, YStack } from 'tamagui'
 
-import { PageHeader } from '@/components'
+import { PageHeader, Typography } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { getEntriesByKind } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -22,7 +22,17 @@ type BookRow = {
   cover?: TileCover
 }
 
-// A shelf of book-shaped covers, virtualized: every generated cover is an SVG,
+// The list is one column of these: a shelf's label, then its books three to a
+// line. A FlatList can't mix headers into `numColumns`, so lines are built here.
+type Line =
+  | { kind: 'shelf'; key: string; title: string; count: number }
+  | { kind: 'books'; key: string; books: BookRow[]; showAuthor: boolean }
+
+// An author with fewer books than this shares the closing shelf, so the screen
+// isn't a run of one-book shelves.
+const ownShelfFrom = 4
+
+// Shelves of book-shaped covers, one per author, virtualized: every generated cover is an SVG,
 // and mounting the whole catalog at once stalls the screen. ScreenLayout caps content at 640 and pads $lg
 // (24) each side; three covers fit a phone comfortably, more on a wide column.
 const columns = 3
@@ -46,37 +56,77 @@ export default function AllBooksScreen() {
   const bottomClearance = useBottomClearance()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
-  const books = useMemo<BookRow[]>(() => {
-    const out: BookRow[] = []
+  const lines = useMemo<Line[]>(() => {
+    // Shelved by author — keyed on the English name, so a half-translated
+    // corpus doesn't split one author across two shelves.
+    const byAuthor = new Map<string, { name: string; books: BookRow[] }>()
     for (const [id, entry] of getEntriesByKind('book')) {
       if (/example|starter|sandbox/.test(id)) continue
-      const author = entry.author ? localizeContent(entry.author as Record<string, string>) : ''
-      out.push({
+      const authorText = entry.author as Record<string, string> | undefined
+      const author = authorText ? localizeContent(authorText) : ''
+      const shelfKey = authorText?.['en-US'] ?? author
+      const shelf = byAuthor.get(shelfKey) ?? { name: author, books: [] }
+      shelf.books.push({
         id,
         bareId: bareId(id),
         title: localizeContent(entry.name ?? entry.title ?? {}) || bareId(id),
         author: author || undefined,
         cover: coverFor(entry),
       })
+      byAuthor.set(shelfKey, shelf)
     }
-    out.sort((a, b) => a.title.localeCompare(b.title))
-    return out
-  }, [catalogVersion])
+    const byTitle = (a: BookRow, b: BookRow) => a.title.localeCompare(b.title)
+    const own = [...byAuthor.values()].filter((a) => a.name && a.books.length >= ownShelfFrom)
+    const rest = [...byAuthor.values()].filter((a) => !own.includes(a)).flatMap((a) => a.books)
+    const shelves = [
+      ...own.sort((a, b) => a.name.localeCompare(b.name)),
+      { name: t('browse.otherAuthors'), books: rest, mixed: true },
+    ].filter((shelf) => shelf.books.length > 0)
+
+    return shelves.flatMap((shelf, i) => {
+      const books = shelf.books.sort(byTitle)
+      const out: Line[] = [
+        { kind: 'shelf', key: `shelf-${i}`, title: shelf.name, count: books.length },
+      ]
+      for (let at = 0; at < books.length; at += columns)
+        out.push({
+          kind: 'books',
+          key: books[at].id,
+          books: books.slice(at, at + columns),
+          // Under an author's own name the byline would only repeat the label.
+          showAuthor: 'mixed' in shelf,
+        })
+      return out
+    })
+  }, [catalogVersion, t])
 
   const renderItem = useCallback(
-    ({ item: b }: { item: BookRow }) => (
-      <ArtCoverCard
-        title={b.title}
-        subtitle={b.author}
-        image={artFor(b.id)}
-        tone={toneForKey(b.id)}
-        cover={b.cover}
-        size={size}
-        aspectRatio={1.5}
-        radius={6}
-        href={{ pathname: '/browse/book/[bookId]', params: { bookId: b.bareId } }}
-      />
-    ),
+    ({ item }: { item: Line }) =>
+      item.kind === 'shelf' ? (
+        <XStack alignItems="baseline" gap="$sm" paddingTop="$lg">
+          <Typography variant="label" textTransform="uppercase" letterSpacing={1.5} flexShrink={1}>
+            {item.title}
+          </Typography>
+          <Typography variant="annotation">{item.count}</Typography>
+        </XStack>
+      ) : (
+        <XStack gap={gutter}>
+          {item.books.map((b) => (
+            <ArtCoverCard
+              key={b.id}
+              title={b.title}
+              subtitle={item.showAuthor ? b.author : undefined}
+              image={artFor(b.id)}
+              tone={toneForKey(b.id)}
+              cover={b.cover}
+              size={size}
+              aspectRatio={1.5}
+              radius={6}
+              href={{ pathname: '/browse/book/[bookId]', params: { bookId: b.bareId } }}
+            />
+          ))}
+        </XStack>
+      ),
     [size],
   )
 
@@ -95,14 +145,12 @@ export default function AllBooksScreen() {
           paddingBottom: insets.bottom + bottomClearance + 24,
         }}
         contentInsetAdjustmentBehavior="never"
-        data={books}
+        data={lines}
         renderItem={renderItem}
         keyExtractor={keyExtractor}
-        numColumns={columns}
-        columnWrapperStyle={{ gap: gutter }}
         ItemSeparatorComponent={RowGap}
         ListHeaderComponent={
-          <YStack paddingTop="$lg" paddingBottom="$lg">
+          <YStack paddingTop="$lg">
             <PageHeader title={t('pray.allBooks')} />
           </YStack>
         }
@@ -122,7 +170,7 @@ export default function AllBooksScreen() {
             </Text>
           </YStack>
         }
-        initialNumToRender={12}
+        initialNumToRender={6}
         // windowSize alone bounds what is mounted. No removeClippedSubviews:
         // on iOS it detaches a row while its lower part is still on screen,
         // leaving a blank band at the top of the shelf.
@@ -133,7 +181,7 @@ export default function AllBooksScreen() {
   )
 }
 
-const keyExtractor = (b: BookRow) => b.id
+const keyExtractor = (line: Line) => line.key
 
 function RowGap() {
   return <YStack height={gutter} />

@@ -851,6 +851,16 @@ export default {
   },
 
   browse: {
+    shelf: {
+      devotions: 'Devotions',
+      prayerBooks: 'Prayer books',
+      week: 'The days of the week',
+      schools: 'Schools & masters',
+      fathers: 'Fathers of the Church',
+      reference: 'Magisterium & reference',
+      other: 'More',
+    },
+    otherAuthors: 'Other authors',
     title: 'Browse',
     registryOffline: 'Couldn\u2019t reach the content.',
     practices: 'Practices',
@@ -1054,8 +1064,7 @@ export default {
     suggestionEvening: 'An examination of the day',
     suggestionNight: 'Before sleep',
     todayInChurch: 'Today in the Church',
-    allCollections: 'All collections (A → Z)',
-    allCollectionsHint: 'Every collection in alphabetical order.',
+    allCollections: 'All collections',
     allBooks: 'All books',
     section: {
       daily: 'Your Daily Prayers',

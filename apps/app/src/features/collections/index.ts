@@ -19,3 +19,4 @@ export {
   seasonOrder,
   themeIds,
 } from './sectionLayout'
+export { collectionShelves, unshelvedKey } from './shelves'
