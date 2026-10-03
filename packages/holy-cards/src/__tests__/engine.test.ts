@@ -111,7 +111,7 @@ describe('The Divine Office', () => {
   })
 
   it('gives nothing on a day with no assigned saint', () => {
-    expect(grants(input([office('2026-07-01')]))).toEqual([])
+    expect(grants(input([office('2026-06-10')]))).toEqual([])
   })
 
   it('treats a regional saint as an Office saint outside that region', () => {

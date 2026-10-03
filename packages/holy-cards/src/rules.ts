@@ -32,6 +32,16 @@ function datesOf(acts: Act[], kind: Act['kind'], since: IsoDate): IsoDate[] {
 }
 
 /**
+ * Whether a card's celebration is the calendar's `ref` for a day. A card may
+ * name one of the day's variant formularies (the Ascension's card names
+ * `tempore.easter.week-6.thursday.b`, the form whose collect it shows), which
+ * the calendar lists under the day's own ref.
+ */
+export function celebrates(celebration: string | undefined, ref: string): boolean {
+  return !!celebration && (celebration === ref || celebration.startsWith(`${ref}.`))
+}
+
+/**
  * Mass gives one of the date's saints — every saint the calendar puts on the
  * date, outranked or not, in order of precedence — or, when none has a card,
  * a liturgical card drawn at redeem.
@@ -42,7 +52,7 @@ export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
       scope: calendar.scope,
     })
     const saints = celebrations.flatMap((c) =>
-      catalog.saints.filter((s) => s.celebration === c.ref).map((s) => s.id),
+      catalog.saints.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
     )
     const base = { id: `mass:${date}`, door: 'mass' as const, date, deadline: nextDay(date) }
     if (saints.length > 0) return [{ ...base, choice: saints }]
