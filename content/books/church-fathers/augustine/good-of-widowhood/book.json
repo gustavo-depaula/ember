@@ -2,13 +2,16 @@
   "id": "augustine-good-of-widowhood",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Good of Widowhood"
+    "en-US": "On the Good of Widowhood",
+    "pt-BR": "Sobre o Bem da Viuvez"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Good of Widowhood"
+        "en-US": "On the Good of Widowhood",
+        "pt-BR": "Sobre o Bem da Viuvez"
       }
     }
   ]
