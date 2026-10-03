@@ -2,13 +2,16 @@
   "id": "john-chrysostom-two-letters-to-theodore-after-his-fall",
   "cover": "quarter",
   "name": {
-    "en-US": "Two Letters to Theodore After His Fall"
+    "en-US": "Two Letters to Theodore After His Fall",
+    "pt-BR": "Duas Cartas a Teodoro após a sua Queda"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Two Letters to Theodore After His Fall"
+        "en-US": "Two Letters to Theodore After His Fall",
+        "pt-BR": "Duas Cartas a Teodoro após a sua Queda"
       }
     }
   ]
