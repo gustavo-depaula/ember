@@ -17,6 +17,19 @@
     "pt-BR": "Sai, minha alma; por que duvidas? Por quase setenta anos serviste a Deus, e temes a morte?"
   },
   "lifeChapter": "oct-22-mello",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/jerome-life-of-s-hilarion"
+        ]
+      }
+    ],
+    "cards": [
+      "anthony_abbot",
+      "epiphanius_salamis"
+    ]
+  },
   "meta": {
     "face": "A Palestinian of about eighty, worn thin by fasting, with a dry, sun-browned olive complexion and a face whose PROFILE is CONVEX — a forehead that SLOPES BACK from a knotted brow, a LONG, gently CURVED nose that projects far forward, and a SMALL, RECEDING chin, so that the face seems drawn forward to a point at the nose; narrow temples, flat, lined cheeks, SMALL, almond-shaped, soft brown eyes under HEAVY, half-lowered lids and wispy grey brows, deep crow's-feet; thin, dry, rough-cut hair, BROWN streaked with grey, short about the ears; a long, thin, BROWN, rush-like beard, streaked with grey and divided into THREE narrow points, as the Painter's Manual has it; the gaze lowered, meek. Not the triangular, hooded anthony_abbot, the long-tapering, bald, wide-eyed paul_hermit, the small, chiselled, two-point-bearded simeon_stylites, the elfin john_egypt, the horse-like paphnutius, the diamond-shaped porphyry_gaza or the rounded-square macarius_alexandria.",
     "basis": "The Painter's Manual of Dionysius of Fourna (`consult/hermeneia-ocr.txt`, 21 October) gives him as an old man with a brown, rush-like beard divided into three points, which English Wikipedia repeats for his icons; the sackcloth, the cloak of skins from St. Antony, the rush baskets and the tiny cell are from St. Jerome's Life of St. Hilarion (NPNF tr., `jerome-hilarion.txt`).",

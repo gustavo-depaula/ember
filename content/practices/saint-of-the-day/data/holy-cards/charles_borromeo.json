@@ -17,5 +17,17 @@
     "pt-BR": "Reza antes, durante e depois de tudo o que fizeres."
   },
   "proper": "sanctorale.11-04",
-  "lifeChapter": "nov-04-charles-borromeo"
+  "lifeChapter": "nov-04-charles-borromeo",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/trent-catechism"
+        ]
+      }
+    ],
+    "cards": [
+      "aloysius_gonzaga"
+    ]
+  }
 }

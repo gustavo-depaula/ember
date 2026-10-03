@@ -1,0 +1,279 @@
+{
+  "anastasia": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-anastasia"
+        ]
+      }
+    ],
+    "cards": [
+      "chrysogonus"
+    ]
+  },
+  "andrew": {
+    "pray": [
+      {
+        "refs": [
+          "practice/o-bona-crux"
+        ]
+      }
+    ],
+    "cards": [
+      "peter",
+      "john_baptist"
+    ]
+  },
+  "barbara": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-barbara"
+        ]
+      }
+    ]
+  },
+  "bertille": {
+    "cards": [
+      "bathildes"
+    ]
+  },
+  "clement_i": {
+    "read": [
+      {
+        "refs": [
+          "book/clement-rome-first-epistle"
+        ]
+      }
+    ],
+    "cards": [
+      "peter"
+    ]
+  },
+  "columban": {
+    "cards": [
+      "gall"
+    ]
+  },
+  "damasus": {
+    "cards": [
+      "jerome"
+    ]
+  },
+  "delphinus": {
+    "cards": [
+      "paulinus_nola"
+    ]
+  },
+  "elizabeth_hungary": {
+    "cards": [
+      "hedwig",
+      "francis_assisi"
+    ]
+  },
+  "francis_xavier": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-francis-xavier-of-the-society-of-jesus",
+          "practice/little-office-s-ignatius"
+        ]
+      }
+    ]
+  },
+  "fulton_sheen": {
+    "pray": [
+      {
+        "refs": [
+          "practice/holy-hour"
+        ]
+      }
+    ]
+  },
+  "gertrude": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-gertrude"
+        ]
+      }
+    ]
+  },
+  "gregory_thaumaturgus": {
+    "read": [
+      {
+        "refs": [
+          "book/gregory-thaumaturgus-oration-and-panegyric-addressed-to-origen",
+          "book/gregory-thaumaturgus-canonical-epistle",
+          "book/gregory-thaumaturgus-declaration-of-faith",
+          "book/gregory-thaumaturgus-metaphrase-of-the-book-of-ecclesiastes"
+        ]
+      }
+    ]
+  },
+  "holy_innocents": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-holy-innocents"
+        ]
+      }
+    ]
+  },
+  "john_damascene": {
+    "read": [
+      {
+        "refs": [
+          "book/john-exposition-of-the-faith"
+        ]
+      }
+    ]
+  },
+  "leo_great": {
+    "read": [
+      {
+        "refs": [
+          "book/leo-letters",
+          "book/leo-sermons",
+          "book/councils-chalcedon"
+        ]
+      }
+    ]
+  },
+  "leocadia": {
+    "cards": [
+      "eulalia_merida"
+    ]
+  },
+  "leonard_noblac": {
+    "cards": [
+      "remigius"
+    ]
+  },
+  "loreto": {
+    "pray": [
+      {
+        "refs": [
+          "practice/litany-loreto"
+        ]
+      }
+    ],
+    "cards": [
+      "holy_family",
+      "annunciation"
+    ]
+  },
+  "malachi_armagh": {
+    "cards": [
+      "bernard_clairvaux"
+    ]
+  },
+  "martin_tours": {
+    "read": [
+      {
+        "refs": [
+          "book/sulpitius-severus-life-of-st-martin",
+          "book/sulpitius-severus-dialogues"
+        ]
+      }
+    ]
+  },
+  "maximus_riez": {
+    "cards": [
+      "honoratus"
+    ]
+  },
+  "nemesion": {
+    "read": [
+      {
+        "refs": [
+          "book/dionysius-great-epistles-and-epistolary-fragments"
+        ]
+      }
+    ]
+  },
+  "odo_cluny": {
+    "cards": [
+      "martin_tours"
+    ]
+  },
+  "olympias": {
+    "read": [
+      {
+        "refs": [
+          "book/john-chrysostom-four-letters-to-olympias"
+        ]
+      }
+    ],
+    "cards": [
+      "john_chrysostom"
+    ]
+  },
+  "peter_alexandria": {
+    "read": [
+      {
+        "refs": [
+          "book/peter-canonical-epistle",
+          "book/peter-fragments"
+        ]
+      }
+    ]
+  },
+  "peter_canisius": {
+    "cards": [
+      "peter_favre"
+    ]
+  },
+  "stanislas_kostka": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-stanislaus-kostka"
+        ]
+      }
+    ],
+    "cards": [
+      "barbara"
+    ]
+  },
+  "thrasilla_emiliana": {
+    "cards": [
+      "gregory_great"
+    ]
+  },
+  "willibrord": {
+    "cards": [
+      "wulfran"
+    ]
+  },
+  "charles_borromeo": {
+    "read": [
+      {
+        "refs": [
+          "book/trent-catechism"
+        ]
+      }
+    ],
+    "cards": [
+      "aloysius_gonzaga"
+    ]
+  },
+  "sylvester": {
+    "read": [
+      {
+        "refs": [
+          "book/councils-nicaea-i"
+        ]
+      }
+    ]
+  },
+  "holy_relics": {
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-the-altar"
+        ]
+      }
+    ]
+  }
+}

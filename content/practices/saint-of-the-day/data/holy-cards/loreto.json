@@ -17,6 +17,19 @@
     "pt-BR": "escolhestes a Santa Virgem Maria para ser a Mãe do Salvador"
   },
   "proper": "sanctorale.12-10",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/litany-loreto"
+        ]
+      }
+    ],
+    "cards": [
+      "holy_family",
+      "annunciation"
+    ]
+  },
   "meta": {
     "face": "Our Lady as in recurring-figures.md: a young woman of about eighteen with a delicate, softly OVAL face — a smooth high forehead, a fine straight nose with a narrow bridge, almond-shaped brown eyes under gently arched light-brown brows, softly rounded cheeks, a small rosy mouth, a small rounded chin; light-brown hair parted in the centre under a white inner veil and a blue mantle drawn over the head; she looks down at the land with quiet calm. The Christ Child as in recurring-figures.md, about two years old: a plump, ROUND child's face with full rosy cheeks, a high rounded forehead, a small button nose, large clear brown eyes, a small rosy mouth, soft short golden-brown curls; fair, glowing skin; a plain gold halo. The angels are small and secondary, youthful and serene, each different: one with a HEART-SHAPED face and golden curls, one with a LONGER face and straight dark-brown hair, one with a ROUND face and auburn curls, one in profile.",
     "basis": "The translation of the Holy House by angels, with Our Lady and the Child seated on its roof, is the image of Loreto in fifteenth- to eighteenth-century painting (the Met's Translation attributed to Saturnino Gatti; Tiepolo's lost Scalzi ceiling). The shrine's own black statue was not used, since the catalog asks for the house borne by angels; Our Lady has the set's face.",

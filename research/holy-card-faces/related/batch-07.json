@@ -1,0 +1,180 @@
+{
+  "bartolo_longo": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rosary"
+        ]
+      }
+    ],
+    "cards": [
+      "our_lady_rosary"
+    ]
+  },
+  "bruno": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-bruno"
+        ]
+      }
+    ],
+    "cards": [
+      "hugh_grenoble"
+    ]
+  },
+  "callistus": {
+    "cards": [
+      "zephyrinus"
+    ]
+  },
+  "carlo_acutis": {
+    "collections": [
+      "collection/eucharistic"
+    ]
+  },
+  "catherine_genoa": {
+    "cards": [
+      "all_souls"
+    ]
+  },
+  "cloud": {
+    "cards": [
+      "clotilda"
+    ]
+  },
+  "eleutherius": {
+    "cards": [
+      "gregory_great"
+    ]
+  },
+  "eulogius_alexandria": {
+    "read": [
+      {
+        "refs": [
+          "book/gregory-great-pope-register-of-letters"
+        ]
+      }
+    ],
+    "cards": [
+      "gregory_great"
+    ]
+  },
+  "evaristus": {
+    "cards": [
+      "cletus"
+    ]
+  },
+  "francis_borgia": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-francis-borgia-of-the-society-of-jesus"
+        ]
+      }
+    ]
+  },
+  "frumentius": {
+    "cards": [
+      "athanasius"
+    ]
+  },
+  "hilarion": {
+    "read": [
+      {
+        "refs": [
+          "book/jerome-life-of-s-hilarion"
+        ]
+      }
+    ],
+    "cards": [
+      "anthony_abbot",
+      "epiphanius_salamis"
+    ]
+  },
+  "holy_name_mary": {
+    "cards": [
+      "nativity_bvm"
+    ]
+  },
+  "john_capistrano": {
+    "cards": [
+      "bernardine_siena"
+    ]
+  },
+  "anthony_claret": {
+    "cards": [
+      "immaculate_heart"
+    ]
+  },
+  "lambert": {
+    "cards": [
+      "hubert"
+    ]
+  },
+  "linus": {
+    "cards": [
+      "peter",
+      "cletus"
+    ]
+  },
+  "luke": {
+    "read": [
+      {
+        "refs": [
+          "book/aquinas-catena-aurea-luke"
+        ]
+      }
+    ],
+    "cards": [
+      "paul"
+    ]
+  },
+  "mark_pope": {
+    "cards": [
+      "sylvester"
+    ]
+  },
+  "matthew": {
+    "read": [
+      {
+        "refs": [
+          "book/aquinas-catena-aurea-matthew",
+          "book/aquinas-super-matthaeum",
+          "book/john-chrysostom-homilies-on-the-gospel-of-st-matthew",
+          "book/origen-commentary-on-the-gospel-of-matthew"
+        ]
+      }
+    ]
+  },
+  "nicholas_tolentino": {
+    "pray": [
+      {
+        "refs": [
+          "practice/holy-souls-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "all_souls"
+    ]
+  },
+  "paphnutius": {
+    "cards": [
+      "athanasius",
+      "anthony_abbot"
+    ]
+  },
+  "remigius": {
+    "cards": [
+      "clotilda",
+      "medard"
+    ]
+  },
+  "wilfrid": {
+    "cards": [
+      "etheldreda",
+      "oswald_worcester"
+    ]
+  }
+}

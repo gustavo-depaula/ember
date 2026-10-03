@@ -17,5 +17,15 @@
     "pt-BR": "Amo-Vos, Senhor, e não por esperar o céu em troca."
   },
   "proper": "sanctorale.12-03",
-  "lifeChapter": "dec-03-francis-xavier"
+  "lifeChapter": "dec-03-francis-xavier",
+  "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-s-francis-xavier-of-the-society-of-jesus",
+          "practice/little-office-s-ignatius"
+        ]
+      }
+    ]
+  }
 }

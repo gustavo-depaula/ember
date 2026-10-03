@@ -18,6 +18,16 @@
   },
   "proper": "sanctorale.11-11",
   "lifeChapter": "nov-11-martin-of-tours",
+  "related": {
+    "read": [
+      {
+        "refs": [
+          "book/sulpitius-severus-life-of-st-martin",
+          "book/sulpitius-severus-dialogues"
+        ]
+      }
+    ]
+  },
   "meta": {
     "face": "A young man of about twenty, clean-shaven, with fair blond straight-to-wavy hair cut to the jaw, a kind face, his gaze lowered to the beggar.",
     "basis": "Sulpicius Severus's account of the cloak at Amiens, when Martin was about eighteen to twenty, with the face type of Simone Martini's Assisi fresco; fair hair keeps him apart from George. The excerpt is his memorial's communion antiphon.",
