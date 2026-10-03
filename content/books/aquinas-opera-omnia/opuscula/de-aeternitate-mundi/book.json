@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On the Eternity of the World",
-    "la": "De Aeternitate Mundi"
+    "la": "De Aeternitate Mundi",
+    "pt-BR": "Da Eternidade do Mundo"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short treatise arguing that the Catholic doctrine of creation in time does not contradict reason — God could in principle have created an eternal world, but in fact created it with a beginning.",
-    "la": "Tractatus brevis arguens dogmate catholico creationis in tempore rationi non contradicere — Deus mundum aeternum in principio creare potuisse, sed re ipsa cum principio creavisse."
+    "la": "Tractatus brevis arguens dogmate catholico creationis in tempore rationi non contradicere — Deus mundum aeternum in principio creare potuisse, sed re ipsa cum principio creavisse.",
+    "pt-BR": "Breve tratado que argumenta que a doutrina católica da criação no tempo não contradiz a razão — Deus poderia, em princípio, ter criado um mundo eterno, mas de fato o criou com um início."
   },
   "composed": "c. 1271",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch001",
       "title": {
         "en-US": "On the Eternity of the World",
-        "la": "De Aeternitate Mundi"
+        "la": "De Aeternitate Mundi",
+        "pt-BR": "Da Eternidade do Mundo"
       }
     }
   ]
