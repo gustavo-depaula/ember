@@ -27,6 +27,26 @@
         "refs": [
           "practice/st-margaret-mary-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/prayer-of-st-margaret-mary",
+          "practice/first-friday-devotion",
+          "practice/holy-hour-sacred-heart"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/history-of-devotion",
+          "chapter/twelve-promises",
+          "chapter/saints-sacred-heart"
+        ]
       }
     ],
     "collections": [

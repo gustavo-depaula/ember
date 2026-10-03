@@ -29,6 +29,9 @@
         ]
       }
     ],
+    "collections": [
+      "collection/marian"
+    ],
     "cards": [
       "juan_diego"
     ]

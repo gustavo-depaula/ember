@@ -27,6 +27,13 @@
         ]
       }
     ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
     "cards": [
       "joseph",
       "nativity_christ"

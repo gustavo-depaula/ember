@@ -26,7 +26,19 @@
         "refs": [
           "practice/holy-archangels-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/tuesday-angels"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "collections": [
+      "collection/dies-tuesday"
     ]
   },
   "meta": {

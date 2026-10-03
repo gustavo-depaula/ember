@@ -27,6 +27,17 @@
         "refs": [
           "practice/st-john-paul-ii-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/stations-cross-jpii",
+          "practice/way-of-light",
+          "practice/rosary"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
     ]
   },

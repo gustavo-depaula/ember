@@ -28,7 +28,29 @@
         "refs": [
           "practice/annunciation-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/angelus",
+          "practice/hail-mary",
+          "practice/rosary"
+        ]
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "book/athanasius-incarnation-of-the-word"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
     ]
   }
 }

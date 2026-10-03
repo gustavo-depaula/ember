@@ -1,0 +1,1174 @@
+{
+  "john_bosco": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-bosco-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "francis_de_sales"
+    ]
+  },
+  "john_evangelist": {
+    "read": [
+      {
+        "refs": [
+          "book/john-chrysostom-homilies-on-the-gospel-of-john",
+          "book/augustine-tractates-on-the-gospel-of-john",
+          "book/augustine-homilies-on-the-first-epistle-of-john",
+          "book/origen-commentary-on-the-gospel-of-john",
+          "book/aquinas-super-iohannem",
+          "book/aquinas-catena-aurea-john",
+          "book/victorinus-commentary-on-the-apocalypse-of-the-blessed-john"
+        ]
+      }
+    ],
+    "cards": [
+      "john_latin_gate",
+      "last_gospel"
+    ]
+  },
+  "john_of_the_cross": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-of-the-cross-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/when-prayer-goes-dark"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
+    ]
+  },
+  "john_paul_ii": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-paul-ii-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/stations-cross-jpii",
+          "practice/way-of-light",
+          "practice/rosary"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ]
+  },
+  "john_vianney": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-john-vianney-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "philomena"
+    ]
+  },
+  "josemaria_escriva": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/novena-for-the-sick-escriva",
+          "practice/st-josemaria-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/prayer-card-josemaria",
+          "practice/preces-opus-dei",
+          "practice/morning-offering-opus-dei",
+          "practice/three-hail-marys-opus-dei",
+          "practice/spiritual-communion-opus-dei"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "collections": [
+      "collection/opus-dei",
+      "collection/opus-dei-prayerbook"
+    ]
+  },
+  "joseph": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-joseph-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/litany-st-joseph"
+        ],
+        "title": {
+          "en-US": "Litanies",
+          "pt-BR": "Ladainhas"
+        }
+      },
+      {
+        "refs": [
+          "practice/prayer-st-joseph",
+          "practice/memorare-st-joseph",
+          "practice/prayer-to-st-joseph-before-mass",
+          "practice/prayer-to-st-joseph-after-mass",
+          "practice/wednesday-joseph",
+          "practice/little-office-s-joseph",
+          "practice/breviary-st-joseph"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      },
+      {
+        "refs": [
+          "practice/te-ioseph"
+        ],
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        }
+      }
+    ],
+    "collections": [
+      "collection/dies-wednesday"
+    ]
+  },
+  "lent_sunday": {
+    "pray": [
+      {
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ],
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        }
+      },
+      {
+        "refs": [
+          "practice/media-vita"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/liguori-esercizio-via-crucis",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross",
+      "collection/liturgical-year"
+    ],
+    "cards": [
+      "lent_weekday",
+      "laetare",
+      "lent_ember_days"
+    ]
+  },
+  "louis_de_montfort": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Total Consecration",
+          "pt-BR": "Consagração Total"
+        },
+        "refs": [
+          "practice/total-consecration",
+          "practice/morning-offering-montfort"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-louis-de-montfort-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "About St. Louis-Marie",
+          "pt-BR": "Sobre São Luís-Maria"
+        },
+        "refs": [
+          "chapter/about-montfort"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Total Consecration",
+          "pt-BR": "Consagração Total"
+        },
+        "refs": [
+          "book/montfort-true-devotion",
+          "book/montfort-secret-mary"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "The Rosary",
+          "pt-BR": "O Rosário"
+        },
+        "refs": [
+          "book/montfort-secret-rosary"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Wisdom & the Cross",
+          "pt-BR": "Sabedoria e Cruz"
+        },
+        "refs": [
+          "book/montfort-love-wisdom",
+          "book/montfort-friends-cross"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Apostolic & Contemplative",
+          "pt-BR": "Apostólico e Contemplativo"
+        },
+        "refs": [
+          "book/montfort-ardent-prayer",
+          "book/montfort-missionary-rules"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/montfort-spirituality"
+    ]
+  },
+  "lourdes": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/our-lady-of-lourdes-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "margaret_mary": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-margaret-mary-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/prayer-of-st-margaret-mary",
+          "practice/first-friday-devotion",
+          "practice/holy-hour-sacred-heart"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/history-of-devotion",
+          "chapter/twelve-promises",
+          "chapter/saints-sacred-heart"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/sacred-heart"
+    ]
+  },
+  "maximilian_kolbe": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-maximilian-kolbe-novena"
+        ]
+      }
+    ],
+    "cards": [
+      "immaculate_conception",
+      "miraculous_medal"
+    ]
+  },
+  "mary_magdalene": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-mary-magdalene-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/little-office-saint-mary-magdalene"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "cards": [
+      "martha_mary_lazarus"
+    ]
+  },
+  "mary_mother_of_god": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/mary-mother-of-god-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/alma-redemptoris-mater",
+          "practice/sub-tuum-praesidium",
+          "practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary"
+        ],
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        }
+      },
+      {
+        "refs": [
+          "practice/litany-loreto",
+          "practice/little-office-bvm"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/councils-ephesus",
+          "book/john-cassian-incarnation-of-the-lord",
+          "book/jerome-perpetual-virginity-of-blessed-mary"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "michael_archangel": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-archangels-novena",
+          "practice/st-michael-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/prayer-st-michael",
+          "practice/st-michael",
+          "practice/little-office-s-michael-the-archangel",
+          "practice/tuesday-angels"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "collections": [
+      "collection/dies-tuesday"
+    ],
+    "cards": [
+      "apparition_michael",
+      "gabriel_archangel",
+      "raphael_archangel",
+      "guardian_angels"
+    ]
+  },
+  "miraculous_medal": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/miraculous-medal-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "perpetual_help": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/perpetual-help-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "undoer_of_knots": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/undoer-of-knots-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "presentation_bvm": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/presentation-of-mary-novena"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "monica": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-monica-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/augustine-confessions",
+          "book/augustine-confessions-schaff"
+        ]
+      }
+    ]
+  },
+  "mount_carmel": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/mount-carmel-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/little-office-bvm-mount-carmel",
+          "practice/morning-offering-carmelite",
+          "practice/little-office-bvm-carmelite"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
+    ],
+    "cards": [
+      "simon_stock"
+    ]
+  },
+  "nativity_christ": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/christmas-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/adeste-fideles",
+          "practice/little-office-child-jesus-in-the-manger"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/ephraim-nativity-of-christ-in-the-flesh",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ]
+  },
+  "our_lady_rosary": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/our-lady-of-the-rosary-novena",
+          "practice/rosary-54-day-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/rosary"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/how-to-pray-the-rosary-well",
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ],
+    "cards": [
+      "annunciation",
+      "visitation",
+      "nativity_christ",
+      "presentation_lord",
+      "finding_temple",
+      "baptism_lord",
+      "wedding_cana",
+      "proclamation_kingdom",
+      "transfiguration",
+      "institution_eucharist",
+      "agony_garden",
+      "scourging",
+      "crowning_thorns",
+      "carrying_cross",
+      "crucifixion",
+      "easter",
+      "ascension",
+      "pentecost",
+      "assumption",
+      "queenship"
+    ]
+  },
+  "our_lady_sorrows": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/seven-sorrows-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural",
+          "practice/stabat-mater",
+          "practice/little-office-seven-dolours-of-the-blessed-virgin-mary",
+          "practice/little-office-compassion-of-the-blessed-virgin-mary-for-a-happy-death"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
+    ]
+  },
+  "paul": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/ss-peter-and-paul-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/little-office-s-paul-the-apostle"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "Chrysostom's Homilies on His Letters",
+          "pt-BR": "Homilias de Crisóstomo sobre suas Cartas"
+        },
+        "refs": [
+          "book/john-chrysostom-homilies-on-romans",
+          "book/john-chrysostom-homilies-on-first-corinthians",
+          "book/john-chrysostom-homilies-on-second-corinthians",
+          "book/john-chrysostom-commentary-on-galatians",
+          "book/john-chrysostom-homilies-on-ephesians",
+          "book/john-chrysostom-homilies-on-philippians",
+          "book/john-chrysostom-homilies-on-colossians",
+          "book/john-chrysostom-homilies-on-first-thessalonians",
+          "book/john-chrysostom-homilies-on-second-thessalonians",
+          "book/john-chrysostom-homilies-on-first-timothy",
+          "book/john-chrysostom-homilies-on-second-timothy",
+          "book/john-chrysostom-homilies-on-titus",
+          "book/john-chrysostom-homilies-on-philemon",
+          "book/john-chrysostom-homilies-on-the-epistle-to-the-hebrews"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Aquinas's Commentaries on His Letters",
+          "pt-BR": "Comentários de Tomás de Aquino às suas Cartas"
+        },
+        "refs": [
+          "book/aquinas-super-romanos",
+          "book/aquinas-super-1-cor",
+          "book/aquinas-super-2-cor",
+          "book/aquinas-super-galatas",
+          "book/aquinas-super-ephesios",
+          "book/aquinas-super-philippenses",
+          "book/aquinas-super-colossenses",
+          "book/aquinas-super-1-thess",
+          "book/aquinas-super-2-thessalonicenses",
+          "book/aquinas-super-1-timotheum",
+          "book/aquinas-super-2-timotheum",
+          "book/aquinas-super-titum",
+          "book/aquinas-super-philemonem",
+          "book/aquinas-super-hebraeos"
+        ]
+      }
+    ],
+    "cards": [
+      "conversion_paul",
+      "basilicas_peter_paul"
+    ]
+  },
+  "pentecost": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/novena-holy-spirit"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/triduum-holy-spirit",
+          "practice/litany-holy-spirit",
+          "practice/little-office-holy-ghost"
+        ]
+      },
+      {
+        "refs": [
+          "practice/veni-creator",
+          "practice/veni-creator-spiritus",
+          "practice/veni-sancte-spiritus",
+          "practice/come-holy-spirit"
+        ],
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/gifts-and-fruits-of-the-holy-spirit",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours",
+          "book/basil-de-spiritu-sancto",
+          "book/ambrose-holy-spirit",
+          "book/gregory-nyssa-holy-spirit"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/holy-spirit",
+      "collection/liturgical-year"
+    ],
+    "cards": [
+      "pentecost_ember_days"
+    ]
+  },
+  "peter": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/ss-peter-and-paul-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/little-office-s-peter"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "cards": [
+      "paul",
+      "chair_peter",
+      "peter_chair_rome",
+      "peter_chains",
+      "basilicas_peter_paul"
+    ]
+  },
+  "presentation_lord": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/candlemas-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/nunc-dimittis"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ]
+  },
+  "sacred_heart": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Practices",
+          "pt-BR": "Práticas"
+        },
+        "refs": [
+          "practice/morning-offering-sacred-heart",
+          "practice/first-friday-devotion",
+          "practice/holy-hour-sacred-heart",
+          "practice/act-of-reparation",
+          "practice/act-consecration-sacred-heart"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Prayers of the Devotion",
+          "pt-BR": "Orações da Devoção"
+        },
+        "refs": [
+          "practice/litany-sacred-heart",
+          "practice/offering-to-sacred-heart",
+          "practice/prayer-of-st-margaret-mary",
+          "practice/little-office-sacred-heart-of-jesus"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/novena-sacred-heart"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "Foundations",
+          "pt-BR": "Fundamentos"
+        },
+        "refs": [
+          "chapter/history-of-devotion",
+          "chapter/theological-foundations",
+          "chapter/twelve-promises",
+          "chapter/sacred-heart-in-art"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Companion Saints",
+          "pt-BR": "Santos do Sagrado Coração"
+        },
+        "refs": [
+          "chapter/saints-sacred-heart"
+        ]
+      },
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ],
+        "title": {
+          "en-US": "The Church Year",
+          "pt-BR": "O Ano da Igreja"
+        }
+      }
+    ],
+    "collections": [
+      "collection/sacred-heart",
+      "collection/dies-friday"
+    ],
+    "cards": [
+      "margaret_mary"
+    ]
+  },
+  "raphael_archangel": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-archangels-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/tuesday-angels"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "collections": [
+      "collection/dies-tuesday"
+    ]
+  },
+  "philip_neri": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-philip-neri-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/little-office-s-philip-neri"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ]
+  },
+  "teresa": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-teresa-of-avila-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/mental-prayer-teresian",
+          "practice/intimita-divina"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/gabriel-stmm-intimita-divina"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
+    ],
+    "cards": [
+      "john_of_the_cross",
+      "peter_alcantara"
+    ]
+  },
+  "therese": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-therese-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/morning-offering-therese"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/measuring-what-cannot-be-measured"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
+    ],
+    "cards": [
+      "louis_zelie_martin"
+    ]
+  },
+  "triduum": {
+    "pray": [
+      {
+        "refs": [
+          "practice/pange-lingua",
+          "practice/holy-hour",
+          "practice/stations-cross",
+          "practice/vexilla-regis",
+          "practice/stational-vespers-on-the-holy-day-of-easter"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross",
+      "collection/liturgical-year"
+    ],
+    "cards": [
+      "institution_eucharist",
+      "crucifixion",
+      "easter"
+    ]
+  },
+  "trinity": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/holy-trinity-novena"
+        ]
+      },
+      {
+        "refs": [
+          "practice/athanasian-creed",
+          "practice/little-office-most-holy-trinity",
+          "practice/sunday-devotion"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "book/augustine-holy-trinity",
+          "book/hilary-trinity",
+          "book/novatian-treatise-concerning-the-trinity",
+          "book/tertullian-against-praxeas",
+          "book/gregory-nyssa-not-three-gods",
+          "book/gregory-nyssa-holy-trinity-and-of-the-godhead-of-the-holy-spirit",
+          "book/dionysius-rome-against-the-sabellians",
+          "book/aquinas-boethius-de-trinitate"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/dies-sunday"
+    ]
+  }
+}

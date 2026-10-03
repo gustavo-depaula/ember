@@ -28,6 +28,15 @@
         "refs": [
           "practice/st-benedict-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-s-benedict"
+        ]
       }
     ],
     "cards": [

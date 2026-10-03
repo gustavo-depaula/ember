@@ -27,6 +27,17 @@
         "refs": [
           "practice/mount-carmel-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/little-office-bvm-mount-carmel",
+          "practice/morning-offering-carmelite",
+          "practice/little-office-bvm-carmelite"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
     ],
     "collections": [

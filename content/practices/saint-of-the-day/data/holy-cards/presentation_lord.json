@@ -28,6 +28,22 @@
         "refs": [
           "practice/candlemas-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/nunc-dimittis"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
       }
     ]
   },

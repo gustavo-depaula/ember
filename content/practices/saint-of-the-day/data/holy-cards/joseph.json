@@ -28,7 +28,43 @@
         "refs": [
           "practice/st-joseph-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/litany-st-joseph"
+        ],
+        "title": {
+          "en-US": "Litanies",
+          "pt-BR": "Ladainhas"
+        }
+      },
+      {
+        "refs": [
+          "practice/prayer-st-joseph",
+          "practice/memorare-st-joseph",
+          "practice/prayer-to-st-joseph-before-mass",
+          "practice/prayer-to-st-joseph-after-mass",
+          "practice/wednesday-joseph",
+          "practice/little-office-s-joseph",
+          "practice/breviary-st-joseph"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      },
+      {
+        "refs": [
+          "practice/te-ioseph"
+        ],
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        }
       }
+    ],
+    "collections": [
+      "collection/dies-wednesday"
     ]
   },
   "meta": {

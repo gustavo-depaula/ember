@@ -28,6 +28,24 @@
         "refs": [
           "practice/exaltation-holy-cross-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/vexilla-regis",
+          "practice/little-office-holy-cross",
+          "practice/little-office-suffering-christ"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
       }
     ]
   }

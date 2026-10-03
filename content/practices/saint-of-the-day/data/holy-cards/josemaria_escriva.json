@@ -28,10 +28,24 @@
           "practice/novena-for-the-sick-escriva",
           "practice/st-josemaria-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/prayer-card-josemaria",
+          "practice/preces-opus-dei",
+          "practice/morning-offering-opus-dei",
+          "practice/three-hail-marys-opus-dei",
+          "practice/spiritual-communion-opus-dei"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
     ],
     "collections": [
-      "collection/opus-dei"
+      "collection/opus-dei",
+      "collection/opus-dei-prayerbook"
     ]
   },
   "meta": {

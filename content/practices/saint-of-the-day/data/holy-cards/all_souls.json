@@ -28,7 +28,35 @@
         "refs": [
           "practice/holy-souls-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/monday-souls",
+          "practice/little-office-dead",
+          "practice/odod",
+          "practice/de-profundis",
+          "practice/eternal-rest",
+          "practice/lux-aeterna",
+          "practice/responsory-for-the-dead",
+          "practice/responsory-subvenite"
+        ]
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "book/augustine-care-to-be-had-for-the-dead"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/for-the-dead",
+      "collection/dies-monday"
     ]
   },
   "meta": {

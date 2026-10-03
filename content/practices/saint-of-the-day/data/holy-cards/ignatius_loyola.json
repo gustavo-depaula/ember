@@ -28,6 +28,28 @@
         "refs": [
           "practice/st-ignatius-loyola-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/suscipe",
+          "practice/morning-offering-suscipe",
+          "practice/particular-examination",
+          "practice/examination-of-conscience",
+          "practice/little-office-s-igantius",
+          "practice/little-office-s-ignatius"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/ignatian-examen",
+          "chapter/feeling-and-faith"
+        ]
       }
     ],
     "cards": [

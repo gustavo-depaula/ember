@@ -16,6 +16,33 @@
   },
   "proper": "tempore.holy-week.lords-supper",
   "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/pange-lingua",
+          "practice/holy-hour",
+          "practice/stations-cross",
+          "practice/vexilla-regis",
+          "practice/stational-vespers-on-the-holy-day-of-easter"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross",
+      "collection/liturgical-year"
+    ],
     "cards": [
       "institution_eucharist",
       "crucifixion",

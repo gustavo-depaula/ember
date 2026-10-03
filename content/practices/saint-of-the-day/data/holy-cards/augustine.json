@@ -28,6 +28,15 @@
         "refs": [
           "practice/st-augustine-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-saint-augustine"
+        ]
       }
     ],
     "read": [

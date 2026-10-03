@@ -29,6 +29,15 @@
           "practice/epiphany-novena"
         ]
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "book/ephraim-for-the-feast-of-the-epiphany",
+          "book/gregory-nyssa-baptism-of-christ"
+        ]
+      }
     ]
   }
 }

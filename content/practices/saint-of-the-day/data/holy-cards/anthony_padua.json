@@ -28,7 +28,19 @@
         "refs": [
           "practice/st-anthony-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-s-anthony-of-padua"
+        ]
       }
+    ],
+    "cards": [
+      "francis_assisi"
     ]
   },
   "meta": {

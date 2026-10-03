@@ -28,7 +28,29 @@
         "refs": [
           "practice/christmas-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/adeste-fideles",
+          "practice/little-office-child-jesus-in-the-manger"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/ephraim-nativity-of-christ-in-the-flesh",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
     ]
   }
 }

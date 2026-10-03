@@ -28,7 +28,22 @@
         "refs": [
           "practice/guardian-angels-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/guardian-angel",
+          "practice/angele-dei",
+          "practice/little-office-guardian-angel",
+          "practice/tuesday-angels"
+        ]
       }
+    ],
+    "collections": [
+      "collection/dies-tuesday"
     ]
   }
 }

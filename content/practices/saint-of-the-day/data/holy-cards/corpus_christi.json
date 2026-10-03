@@ -26,7 +26,73 @@
         "refs": [
           "practice/corpus-christi-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        },
+        "refs": [
+          "practice/pange-lingua",
+          "practice/tantum-ergo",
+          "practice/sacris-solemniis",
+          "practice/panis-angelicus",
+          "practice/verbum-supernum",
+          "practice/o-salutaris-hostia",
+          "practice/lauda-sion",
+          "practice/adoro-te-devote",
+          "practice/ave-verum"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/litany-blessed-sacrament",
+          "practice/little-office-blessed-sacrament",
+          "practice/little-office-most-holy-sacrament-of-the-eucharist",
+          "practice/holy-hour",
+          "practice/visit-blessed-sacrament"
+        ]
       }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "The Office of Corpus Christi",
+          "pt-BR": "O Ofício de Corpus Christi"
+        },
+        "refs": [
+          "book/aquinas-office-corpus-christi",
+          "book/aquinas-office-corpus-christi-sapientia",
+          "book/aquinas-sermon-immensa",
+          "book/aquinas-hymns"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Eucharistic Devotion",
+          "pt-BR": "Devoção Eucarística"
+        },
+        "refs": [
+          "book/liguori-visite-al-ss-sacramento"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "About",
+          "pt-BR": "Sobre"
+        },
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/eucharistic",
+      "collection/dies-thursday"
     ]
   },
   "meta": {

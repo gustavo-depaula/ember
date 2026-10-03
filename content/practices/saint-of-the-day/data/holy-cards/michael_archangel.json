@@ -29,7 +29,22 @@
           "practice/holy-archangels-novena",
           "practice/st-michael-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/prayer-st-michael",
+          "practice/st-michael",
+          "practice/little-office-s-michael-the-archangel",
+          "practice/tuesday-angels"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "collections": [
+      "collection/dies-tuesday"
     ],
     "cards": [
       "apparition_michael",

@@ -16,6 +16,26 @@
   },
   "proper": "tempore.advent.week-1.sunday",
   "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/rorate-caeli",
+          "practice/alma-redemptoris-mater",
+          "practice/christmas-novena"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/liturgical-year"
+    ],
     "cards": [
       "advent_weekday",
       "gaudete",

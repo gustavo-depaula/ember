@@ -28,7 +28,27 @@
           "practice/our-lady-of-the-rosary-novena",
           "practice/rosary-54-day-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/rosary"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/how-to-pray-the-rosary-well",
+          "book/montfort-secret-rosary"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
     ],
     "cards": [
       "annunciation",

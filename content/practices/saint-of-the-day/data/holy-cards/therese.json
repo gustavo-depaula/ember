@@ -27,7 +27,26 @@
         "refs": [
           "practice/st-therese-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/morning-offering-therese"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/measuring-what-cannot-be-measured"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
     ],
     "cards": [
       "louis_zelie_martin"

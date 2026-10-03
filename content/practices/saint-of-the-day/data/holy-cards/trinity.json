@@ -26,7 +26,36 @@
         "refs": [
           "practice/holy-trinity-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/athanasian-creed",
+          "practice/little-office-most-holy-trinity",
+          "practice/sunday-devotion"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year",
+          "book/augustine-holy-trinity",
+          "book/hilary-trinity",
+          "book/novatian-treatise-concerning-the-trinity",
+          "book/tertullian-against-praxeas",
+          "book/gregory-nyssa-not-three-gods",
+          "book/gregory-nyssa-holy-trinity-and-of-the-godhead-of-the-holy-spirit",
+          "book/dionysius-rome-against-the-sabellians",
+          "book/aquinas-boethius-de-trinitate"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/dies-sunday"
     ]
   },
   "meta": {

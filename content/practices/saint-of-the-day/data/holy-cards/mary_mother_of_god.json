@@ -27,7 +27,40 @@
         "refs": [
           "practice/mary-mother-of-god-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/alma-redemptoris-mater",
+          "practice/sub-tuum-praesidium",
+          "practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary"
+        ],
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        }
+      },
+      {
+        "refs": [
+          "practice/litany-loreto",
+          "practice/little-office-bvm"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/councils-ephesus",
+          "book/john-cassian-incarnation-of-the-lord",
+          "book/jerome-perpetual-virginity-of-blessed-mary"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
     ]
   },
   "meta": {

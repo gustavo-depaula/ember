@@ -18,6 +18,22 @@
   },
   "lifeChapter": "may-03-the-discovery-of-the-holy-cross",
   "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/little-office-holy-cross",
+          "practice/little-office-suffering-christ",
+          "practice/vexilla-regis"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
     "cards": [
       "exaltation_cross",
       "helena"

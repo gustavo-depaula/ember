@@ -28,6 +28,15 @@
         "refs": [
           "practice/ss-peter-and-paul-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/little-office-s-peter"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
     ],
     "cards": [

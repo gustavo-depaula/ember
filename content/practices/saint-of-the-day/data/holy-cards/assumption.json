@@ -28,7 +28,26 @@
         "refs": [
           "practice/assumption-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/rosary"
+        ]
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
     ]
   }
 }

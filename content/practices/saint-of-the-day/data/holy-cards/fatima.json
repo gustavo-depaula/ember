@@ -27,7 +27,20 @@
         "refs": [
           "practice/our-lady-of-fatima-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/rosary",
+          "practice/fatima-prayer"
+        ]
       }
+    ],
+    "collections": [
+      "collection/marian"
     ]
   }
 }

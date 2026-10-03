@@ -19,8 +19,22 @@
   "proper": "sanctorale.12-27",
   "lifeChapter": "dec-27-john",
   "related": {
+    "read": [
+      {
+        "refs": [
+          "book/john-chrysostom-homilies-on-the-gospel-of-john",
+          "book/augustine-tractates-on-the-gospel-of-john",
+          "book/augustine-homilies-on-the-first-epistle-of-john",
+          "book/origen-commentary-on-the-gospel-of-john",
+          "book/aquinas-super-iohannem",
+          "book/aquinas-catena-aurea-john",
+          "book/victorinus-commentary-on-the-apocalypse-of-the-blessed-john"
+        ]
+      }
+    ],
     "cards": [
-      "john_latin_gate"
+      "john_latin_gate",
+      "last_gospel"
     ]
   }
 }

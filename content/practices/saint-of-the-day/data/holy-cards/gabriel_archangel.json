@@ -27,6 +27,15 @@
         "refs": [
           "practice/holy-archangels-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/angelus"
+        ]
       }
     ],
     "cards": [

@@ -28,7 +28,30 @@
         "refs": [
           "practice/seven-sorrows-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/seven-sorrows",
+          "practice/seven-sorrows-scriptural",
+          "practice/stabat-mater",
+          "practice/little-office-seven-dolours-of-the-blessed-virgin-mary",
+          "practice/little-office-compassion-of-the-blessed-virgin-mary-for-a-happy-death"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
     ]
   },
   "meta": {

@@ -28,7 +28,19 @@
         "refs": [
           "practice/st-mary-magdalene-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/little-office-saint-mary-magdalene"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
+    ],
+    "cards": [
+      "martha_mary_lazarus"
     ]
   }
 }

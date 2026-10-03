@@ -28,6 +28,16 @@
         "refs": [
           "practice/st-francis-assisi-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-s-francis-of-assisi",
+          "practice/little-office-passion-by-s-francis-of-assisi"
+        ]
       }
     ],
     "cards": [

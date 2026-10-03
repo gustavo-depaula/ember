@@ -38,7 +38,8 @@
         "refs": [
           "practice/litany-sacred-heart",
           "practice/offering-to-sacred-heart",
-          "practice/prayer-of-st-margaret-mary"
+          "practice/prayer-of-st-margaret-mary",
+          "practice/little-office-sacred-heart-of-jesus"
         ]
       },
       {
@@ -72,10 +73,20 @@
         "refs": [
           "chapter/saints-sacred-heart"
         ]
+      },
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ],
+        "title": {
+          "en-US": "The Church Year",
+          "pt-BR": "O Ano da Igreja"
+        }
       }
     ],
     "collections": [
-      "collection/sacred-heart"
+      "collection/sacred-heart",
+      "collection/dies-friday"
     ],
     "cards": [
       "margaret_mary"

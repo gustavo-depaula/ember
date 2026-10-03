@@ -28,7 +28,19 @@
         "refs": [
           "practice/st-aloysius-gonzaga-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-s-aloysius-gonzaga-of-the-society-of-jesus"
+        ]
       }
+    ],
+    "cards": [
+      "robert_bellarmine"
     ]
   },
   "meta": {

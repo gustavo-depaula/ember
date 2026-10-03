@@ -28,6 +28,15 @@
         "refs": [
           "practice/st-philip-neri-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/little-office-s-philip-neri"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
     ]
   }

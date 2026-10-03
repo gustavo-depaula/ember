@@ -25,7 +25,19 @@
           "pt-BR": "Novenas"
         },
         "refs": [
-          "practice/st-faustina-novena"
+          "practice/st-faustina-novena",
+          "practice/divine-mercy-novena"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/chaplet-of-divine-mercy",
+          "practice/three-oclock-prayer",
+          "practice/morning-offering-faustina"
         ]
       }
     ],

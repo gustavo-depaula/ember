@@ -16,6 +16,43 @@
   },
   "proper": "tempore.lent.week-1.sunday",
   "related": {
+    "pray": [
+      {
+        "refs": [
+          "practice/stations-cross",
+          "practice/stations-cross-franciscan",
+          "practice/stations-cross-jpii",
+          "practice/stations-cross-scriptural",
+          "practice/way-of-the-cross-opus-dei"
+        ],
+        "title": {
+          "en-US": "Way of the Cross",
+          "pt-BR": "Via Sacra"
+        }
+      },
+      {
+        "refs": [
+          "practice/media-vita"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/liguori-esercizio-via-crucis",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/way-of-the-cross",
+      "collection/liturgical-year"
+    ],
     "cards": [
       "lent_weekday",
       "laetare",

@@ -28,6 +28,23 @@
         "refs": [
           "practice/all-saints-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/litany-saints",
+          "practice/little-office-all-saints"
+        ]
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
       }
     ],
     "cards": [

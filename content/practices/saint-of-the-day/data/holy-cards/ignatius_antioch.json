@@ -29,6 +29,24 @@
           "practice/st-ignatius-antioch-novena"
         ]
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "book/ignatius-epistle-to-the-ephesians",
+          "book/ignatius-epistle-to-the-magnesians",
+          "book/ignatius-epistle-to-the-trallians",
+          "book/ignatius-epistle-to-the-romans",
+          "book/ignatius-epistle-to-the-philadelphians",
+          "book/ignatius-epistle-to-the-smyrnaeans",
+          "book/ignatius-epistle-to-polycarp",
+          "book/john-chrysostom-homily-on-st-ignatius"
+        ]
+      }
+    ],
+    "cards": [
+      "polycarp",
+      "john_evangelist"
     ]
   },
   "meta": {

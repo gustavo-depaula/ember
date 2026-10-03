@@ -28,10 +28,31 @@
         "refs": [
           "practice/st-teresa-of-avila-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/mental-prayer-teresian",
+          "practice/intimita-divina"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
       }
     ],
+    "read": [
+      {
+        "refs": [
+          "book/gabriel-stmm-intimita-divina"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/carmelite"
+    ],
     "cards": [
-      "john_of_the_cross"
+      "john_of_the_cross",
+      "peter_alcantara"
     ]
   }
 }

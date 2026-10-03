@@ -33,9 +33,39 @@
           "pt-BR": "Devoções"
         },
         "refs": [
-          "practice/triduum-holy-spirit"
+          "practice/triduum-holy-spirit",
+          "practice/litany-holy-spirit",
+          "practice/little-office-holy-ghost"
+        ]
+      },
+      {
+        "refs": [
+          "practice/veni-creator",
+          "practice/veni-creator-spiritus",
+          "practice/veni-sancte-spiritus",
+          "practice/come-holy-spirit"
+        ],
+        "title": {
+          "en-US": "Hymns",
+          "pt-BR": "Hinos"
+        }
+      }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/gifts-and-fruits-of-the-holy-spirit",
+          "chapter/morrow-church-year",
+          "chapter/morrow-liturgical-colours",
+          "book/basil-de-spiritu-sancto",
+          "book/ambrose-holy-spirit",
+          "book/gregory-nyssa-holy-spirit"
         ]
       }
+    ],
+    "collections": [
+      "collection/holy-spirit",
+      "collection/liturgical-year"
     ],
     "cards": [
       "pentecost_ember_days"

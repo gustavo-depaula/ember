@@ -28,7 +28,26 @@
         "refs": [
           "practice/immaculate-conception-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-immaculate-conception"
+        ]
       }
+    ],
+    "read": [
+      {
+        "refs": [
+          "chapter/morrow-church-year"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/marian"
     ],
     "cards": [
       "lourdes",

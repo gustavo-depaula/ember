@@ -30,6 +30,13 @@
         ]
       }
     ],
+    "read": [
+      {
+        "refs": [
+          "book/sales-introduction-to-the-devout-life"
+        ]
+      }
+    ],
     "cards": [
       "jane_frances_chantal"
     ]

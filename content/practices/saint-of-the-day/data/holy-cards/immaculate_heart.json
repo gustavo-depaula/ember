@@ -25,7 +25,19 @@
         "refs": [
           "practice/immaculate-heart-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/little-office-immaculate-heart-of-mary"
+        ]
       }
+    ],
+    "collections": [
+      "collection/marian"
     ],
     "cards": [
       "fatima",

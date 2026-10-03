@@ -38,6 +38,15 @@
         "refs": [
           "practice/st-alphonsus-liguori-novena"
         ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/visit-blessed-sacrament"
+        ]
       }
     ],
     "read": [
@@ -109,6 +118,9 @@
     ],
     "collections": [
       "collection/alphonsus-liguori"
+    ],
+    "cards": [
+      "gerard_majella"
     ]
   },
   "meta": {

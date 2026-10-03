@@ -28,6 +28,61 @@
         "refs": [
           "practice/ss-peter-and-paul-novena"
         ]
+      },
+      {
+        "refs": [
+          "practice/little-office-s-paul-the-apostle"
+        ],
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        }
+      }
+    ],
+    "read": [
+      {
+        "title": {
+          "en-US": "Chrysostom's Homilies on His Letters",
+          "pt-BR": "Homilias de Crisóstomo sobre suas Cartas"
+        },
+        "refs": [
+          "book/john-chrysostom-homilies-on-romans",
+          "book/john-chrysostom-homilies-on-first-corinthians",
+          "book/john-chrysostom-homilies-on-second-corinthians",
+          "book/john-chrysostom-commentary-on-galatians",
+          "book/john-chrysostom-homilies-on-ephesians",
+          "book/john-chrysostom-homilies-on-philippians",
+          "book/john-chrysostom-homilies-on-colossians",
+          "book/john-chrysostom-homilies-on-first-thessalonians",
+          "book/john-chrysostom-homilies-on-second-thessalonians",
+          "book/john-chrysostom-homilies-on-first-timothy",
+          "book/john-chrysostom-homilies-on-second-timothy",
+          "book/john-chrysostom-homilies-on-titus",
+          "book/john-chrysostom-homilies-on-philemon",
+          "book/john-chrysostom-homilies-on-the-epistle-to-the-hebrews"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Aquinas's Commentaries on His Letters",
+          "pt-BR": "Comentários de Tomás de Aquino às suas Cartas"
+        },
+        "refs": [
+          "book/aquinas-super-romanos",
+          "book/aquinas-super-1-cor",
+          "book/aquinas-super-2-cor",
+          "book/aquinas-super-galatas",
+          "book/aquinas-super-ephesios",
+          "book/aquinas-super-philippenses",
+          "book/aquinas-super-colossenses",
+          "book/aquinas-super-1-thess",
+          "book/aquinas-super-2-thessalonicenses",
+          "book/aquinas-super-1-timotheum",
+          "book/aquinas-super-2-timotheum",
+          "book/aquinas-super-titum",
+          "book/aquinas-super-philemonem",
+          "book/aquinas-super-hebraeos"
+        ]
       }
     ],
     "cards": [
