@@ -2,13 +2,16 @@
   "id": "apocrypha-gospel-of-the-nativity-of-mary",
   "cover": "quarter",
   "name": {
-    "en-US": "Gospel of the Nativity of Mary (unknown date; late)"
+    "en-US": "Gospel of the Nativity of Mary (unknown date; late)",
+    "pt-BR": "Evangelho da Natividade de Maria (data desconhecida; tardio)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Gospel of the Nativity of Mary (unknown date; late)"
+        "en-US": "Gospel of the Nativity of Mary (unknown date; late)",
+        "pt-BR": "Evangelho da Natividade de Maria (data desconhecida; tardio)"
       }
     }
   ]
