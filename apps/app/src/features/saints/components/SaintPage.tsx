@@ -21,6 +21,8 @@ import { useSaintsCatalog } from '../data/catalog'
 import { useCopies } from '../data/collection'
 import { useSaintCollect } from '../useSaintCollect'
 import { useSaintLife } from '../useSaintLife'
+import { useWaysToReceive } from '../useWaysToReceive'
+import { ReceiveChapter } from './ReceiveChapter'
 import { SaintCard, saintCardWidth } from './SaintCard'
 import { CardsChapter, FeastChapter, LifeChapter, PrayChapter, ReadChapter } from './SaintChapters'
 
@@ -73,7 +75,14 @@ export const SaintPage = memo(function SaintPage({
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const { byId } = useSaintsCatalog()
-  const held = useCopies(saint.id).length > 0
+  const copies = useCopies(saint.id)
+  const held = copies.length > 0
+  // The first copy: how the card first came.
+  const firstCopy = copies.reduce<(typeof copies)[number] | undefined>(
+    (first, c) => (!first || c.won < first.won ? c : first),
+    undefined,
+  )
+  const ways = useWaysToReceive(saint)
   const life = useSaintLife(saint.lifeChapter)
   const feast = useSaintCollect(saint.proper)
 
@@ -128,6 +137,18 @@ export const SaintPage = memo(function SaintPage({
         meta: String(cards.length),
         body: <CardsChapter cards={cards} onOpenCard={onOpenCard} />,
       })
+    }
+    // How the card is won: the first thing to know of a card not yet held, and
+    // for a held one how it came, after everything else.
+    if (ways && (ways.length > 0 || firstCopy)) {
+      const receive: Chapter = {
+        key: 'receive',
+        title: t(held ? 'saints.page.received' : 'saints.page.receive'),
+        chip: t(held ? 'saints.page.chipReceived' : 'saints.page.chipReceive'),
+        body: <ReceiveChapter ways={ways} copy={firstCopy} />,
+      }
+      if (held) out.push(receive)
+      else out.unshift(receive)
     }
     return out
   })()

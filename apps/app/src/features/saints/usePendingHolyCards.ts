@@ -5,6 +5,7 @@ import {
   historyStart,
   pendingCards,
   redeem,
+  type Season,
 } from '@ember/holy-cards'
 import { useMutation, useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
@@ -32,22 +33,45 @@ async function holyCardsSince(): Promise<string> {
   return today
 }
 
-function catalogOf(
+// Each season's two cards: Mass on all its Sundays, and on two thirds of its weekdays.
+const seasonCards: Record<Season, { sunday: string; weekday: string }> = {
+  advent: { sunday: 'advent_sunday', weekday: 'advent_weekday' },
+  christmas: { sunday: 'christmas_sunday', weekday: 'christmas_weekday' },
+  lent: { sunday: 'lent_sunday', weekday: 'lent_weekday' },
+  easter: { sunday: 'easter_sunday', weekday: 'easter_weekday' },
+  ordinary1: { sunday: 'ordinary_time_1_sunday', weekday: 'ordinary_time_1_weekday' },
+  ordinary2: { sunday: 'ordinary_time_2_sunday', weekday: 'ordinary_time_2_weekday' },
+}
+
+/**
+ * The engine's catalog: every drawn card under the door that gives it.
+ * `novenas` maps a novena to the cards it is prayed to.
+ */
+export function holyCardCatalog(
   cards: HolyCard[],
   starters: string[],
   novenas: Record<string, string[]>,
 ): Catalog {
   const drawn = new Set(cards.map((c) => c.id))
+  const ifDrawn = (id: string) => (drawn.has(id) ? id : undefined)
   return {
     // A feast's card, by its Mass or its date. Season, Mass-part and object cards
     // name a formulary only for the collect they show; their own doors give them.
     saints: cards
       .filter((c) => c.feast || c.kind === 'moveable')
       .map((c) => ({ id: c.id, celebration: c.proper, day: c.feast })),
-    // Liturgical, season, Ember Days, book and lineage cards aren't drawn yet;
-    // their doors give nothing until they are.
-    liturgical: [],
-    seasons: {},
+    liturgical: cards.filter((c) => c.kind === 'mass' || c.kind === 'object').map((c) => c.id),
+    seasons: Object.fromEntries(
+      Object.entries(seasonCards).map(([season, { sunday, weekday }]) => [
+        season,
+        { sunday: ifDrawn(sunday), weekday: ifDrawn(weekday) },
+      ]),
+    ),
+    triduum: ifDrawn('triduum'),
+    gaudete: ifDrawn('gaudete'),
+    laetare: ifDrawn('laetare'),
+    // Nothing in the app yet records keeping the Ember Days, finishing a book or
+    // a practice's lineage, so those doors stay shut.
     emberDays: {},
     // Only the cards drawn so far; a novena naming none of them gives nothing.
     novenas: Object.fromEntries(
@@ -98,7 +122,7 @@ export function usePendingHolyCards(): Grant[] | undefined {
     [completions, novenas],
   )
   const catalog = useMemo(
-    () => holyCards && catalogOf(holyCards.cards, holyCards.starters, novenas.cards),
+    () => holyCards && holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards),
     [holyCards, novenas],
   )
 

@@ -18,3 +18,4 @@ export type {
   Occurrence,
   Season,
 } from './types'
+export { type Way, waysToReceive } from './ways'
