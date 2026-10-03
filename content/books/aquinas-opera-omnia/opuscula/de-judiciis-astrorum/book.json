@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On Astrology",
-    "la": "De Iudiciis Astrorum"
+    "la": "De Iudiciis Astrorum",
+    "pt-BR": "Dos Juízos dos Astros"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short consultation Aquinas wrote in response to a question on the moral and theological status of astrology — whether and how Christians may consult the stars.",
-    "la": "Responsum breve Thomae ad quaestionem de statu morali et theologico astrologiae — utrum et quomodo Christianis liceat astra consulere."
+    "la": "Responsum breve Thomae ad quaestionem de statu morali et theologico astrologiae — utrum et quomodo Christianis liceat astra consulere.",
+    "pt-BR": "Breve parecer de Tomás em resposta a uma consulta sobre a condição moral e teológica da astrologia — se e como é lícito aos cristãos consultar os astros."
   },
   "composed": "c. 1271",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "deiudiciis-c01",
       "title": {
         "en-US": "DeIudiciis.2",
-        "la": "DeIudiciis.2"
+        "la": "DeIudiciis.2",
+        "pt-BR": "Dos Juízos dos Astros"
       }
     }
   ]
