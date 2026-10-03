@@ -2,13 +2,16 @@
   "id": "tertullian-his-wife",
   "cover": "quarter",
   "name": {
-    "en-US": "To His Wife"
+    "en-US": "To His Wife",
+    "pt-BR": "À Sua Esposa"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "To His Wife"
+        "en-US": "To His Wife",
+        "pt-BR": "À Sua Esposa"
       }
     }
   ]
