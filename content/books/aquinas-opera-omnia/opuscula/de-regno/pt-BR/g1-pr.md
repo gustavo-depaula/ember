@@ -1,0 +1,3 @@
+# Proêmio
+
+Ao pensar comigo no que poderia oferecer que fosse digno da alteza real e conveniente à minha profissão e ao meu ofício, ocorreu-me como oferta mais apropriada escrever para um rei um livro sobre a realeza, no qual, segundo a capacidade do meu próprio engenho, expusesse diligentemente tanto a origem do reino como as coisas que pertencem ao ofício do rei, conforme a autoridade da divina Escritura, as doutrinas dos filósofos e os exemplos de príncipes louvados, esperando o princípio, o progresso e a consumação da obra do auxílio daquele que é Rei dos reis e Senhor dos senhores, por quem reinam os reis, Deus, grande Senhor, e Rei grande sobre todos os deuses.
