@@ -1,0 +1,95 @@
+{
+  "id": "joseph_worker",
+  "feast": {
+    "month": 5,
+    "day": 1
+  },
+  "name": {
+    "en-US": "St. Joseph the Worker",
+    "pt-BR": "São José Operário"
+  },
+  "shelf": "patriarchs",
+  "patronOf": {
+    "en-US": "Patron of workers",
+    "pt-BR": "Padroeiro dos trabalhadores"
+  },
+  "prayerExcerpt": {
+    "en-US": "By the labor of your hands you shall eat; blessed are you, and blessed will you be.",
+    "pt-BR": "Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem."
+  },
+  "proper": "sanctorale.05-01",
+  "related": {
+    "pray": [
+      {
+        "title": {
+          "en-US": "Novenas",
+          "pt-BR": "Novenas"
+        },
+        "refs": [
+          "practice/st-joseph-novena"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Litanies",
+          "pt-BR": "Ladainhas"
+        },
+        "refs": [
+          "practice/litany-st-joseph"
+        ]
+      },
+      {
+        "title": {
+          "en-US": "Devotions",
+          "pt-BR": "Devoções"
+        },
+        "refs": [
+          "practice/prayer-st-joseph",
+          "practice/memorare-st-joseph",
+          "practice/offering-of-works",
+          "practice/wednesday-joseph"
+        ]
+      }
+    ],
+    "collections": [
+      "collection/dies-wednesday"
+    ],
+    "cards": [
+      "joseph",
+      "holy_family"
+    ]
+  },
+  "meta": {
+    "face": "St. Joseph as on the `joseph` card, the same man: about sixty, with a LONG OVAL face — a high, domed, balding forehead with a few thin strands on top; thick, wavy silver-grey hair at the temples and the back, curling over the ears to the nape; a long, straight nose with a softly rounded tip; heavy-lidded, gentle eyes lowered toward the Child under softly arched grey brows; lean cheeks over moderate cheekbones; a full, neat, ROUNDED silver-grey beard and moustache covering the jaw; a small, tender smile; the head bowed in three-quarter view.",
+    "basis": "The same face as the `joseph` card (19 Mar), so that the patriarch is one man on both of his days: the older, balding, greying Joseph of 19th-century cards with the Painter's Manual's rounded beard. The scene is the carpenter's shop of Nazareth (Mt 13:55, quoted by the formulary), as painted by Georges de La Tour (Joseph boring a beam with an auger, the Child beside him) and taken up in the images of Joseph teaching Jesus his trade that followed Pius XII's institution of the feast on 1 May 1955; the lily is his traditional attribute.",
+    "excerpt": "content/of/formularies/sanctoral/05-01.json entranceAntiphon (Ps 128:1-2), its second half: lines joined, the closing 'alleluia' dropped and a full stop added; verbatim otherwise in both languages",
+    "sources": [
+      {
+        "title": "Pius XII, Discorso nella solennità di San Giuseppe Artigiano, 1 May 1955 (vatican.va)",
+        "url": "https://www.vatican.va/content/pius-xii/it/speeches/1955/documents/hf_p-xii_spe_19550501_san-giuseppe.html"
+      },
+      {
+        "title": "Christian Iconography, St. Joseph",
+        "url": "https://www.christianiconography.info/joseph.html"
+      },
+      {
+        "title": "Wikipedia, Joseph the Carpenter (Georges de La Tour, Louvre)",
+        "url": "https://en.wikipedia.org/wiki/Joseph_the_Carpenter"
+      },
+      {
+        "title": "Our Sunday Visitor, Honoring St. Joseph the Worker through art",
+        "url": "https://www.oursundayvisitor.com/honoring-st-joseph-the-worker-through-art/"
+      },
+      {
+        "title": "Wikipedia, Saint Joseph's Day",
+        "url": "https://en.wikipedia.org/wiki/Saint_Joseph%27s_Day"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10-03",
+        "note": "New card, generated with new-card.sh from dossiers/joseph-worker.md (refs anne, jerome); first draft kept."
+      }
+    ]
+  }
+}

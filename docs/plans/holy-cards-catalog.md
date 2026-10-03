@@ -6,7 +6,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 
 | Category | Cards | Done |
 |---|---|---|
-| Saints — solemnities, feasts, memorials | 86 | 86 |
+| Saints — solemnities, feasts, memorials | 87 | 87 |
 | Saints — optional memorials | 106 | 106 |
 | Saints of the Roman Canon not on the calendar | 6 | 6 |
 | Saints of Brazil's own calendar | 6 | 6 |
@@ -22,7 +22,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 | Parts of the Mass | 49 | 49 |
 | Liturgical objects and vestments | 24 | 24 |
 
-≈ 631 cards, 631 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
+≈ 632 cards, 632 done. Some entries are one card for several saints (Philip & James, Simon & Jude, Cornelius & Cyprian).
 
 ## Saints
 
@@ -48,6 +48,7 @@ Every card the collection should hold, by what is on the card. [holy-cards.md](h
 - [x] 11 Apr · Saint Stanislaus, bishop and martyr · *Santo Estanislau, bispo e mártir* · memorial — `stanislaus`
 - [x] 25 Apr · Saint Mark, Evangelist · *São Marcos, evangelista* · feast — `mark`
 - [x] 29 Apr · Saint Catherine of Siena, virgin and doctor of the Church · *Santa Catarina de Sena, virgem e doutora da Igreja* · feast — `catherine_siena`
+- [x] 1 May · Saint Joseph the Worker · *São José Operário* · memorial — `joseph_worker`
 - [x] 2 May · Saint Athanasius, bishop and doctor of the Church · *Santo Atanásio, bispo e doutor da Igreja* · memorial — `athanasius`
 - [x] 3 May · Ss. Philip and James, Apostles · *Santos Filipe e Tiago, apóstolos* · feast — `philip_james, james_greater`
 - [x] 14 May · Saint Matthias, Apostle · *São Matias, apóstolo* · feast — `matthias`
