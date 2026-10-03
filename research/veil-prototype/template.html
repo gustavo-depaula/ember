@@ -50,6 +50,10 @@
           font-size: calc(var(--w) * .16); }
   .v-vellum .name { top: 58%; bottom: auto; }
 
+  /* E′ — vellum alone: the shape shows through, the name rests on the leaf */
+  .v-vellum-plain .wash { position: absolute; inset: 0; background: rgba(243,233,210,.8); }
+  .v-vellum-plain .name { color: #5a431a; }
+
   /* F — the illuminated initial */
   .v-initial .letter { position: absolute; left: 0; right: 0; top: 16%; text-align: center; font-family: Cinzel;
           font-size: calc(var(--w) * .42); color: #a8321f; text-shadow: 0 0 0 #c8a24d, 1px 1px 0 #c8a24d; }
@@ -67,6 +71,7 @@ const veils = [
   ['print', 'C · Uncoloured print', 'The plate pulled in sepia, not yet illuminated: the card is there, waiting for its colour. A tint and opacity at runtime.'],
   ['lines', 'D · The engraver\'s line', 'Only the drawing\'s lines, in the frame\'s ink. Needs a line asset per card, made at corpus build.'],
   ['vellum', 'E · Vellum and seal', 'The card under a leaf of vellum, closed with a wax seal: a shape shows through. Opening the envelope breaks the seal.'],
+  ['vellum-plain', 'E′ · Vellum', 'The card under a leaf of vellum, with no seal: its shape and colours show through, the name rests on the leaf. A parchment wash over the thumbnail.'],
   ['initial', 'F · Illuminated initial', 'The frame and the name\'s versal letter, as in a missal, until the image comes.'],
 ]
 const letter = (name) => name.replace(/^(Sts?\.|Ss\.|The|Our Lady of)\s+/, '').trim()[0]
@@ -78,6 +83,7 @@ const veiled = (c, v) => {
     case 'print': return `<img class="art" src="${c.thumb}"><div class="band">${name}</div>`
     case 'lines': return `<img class="art" src="${c.lines}"><div class="band">${name}</div>`
     case 'vellum': return `<img class="art" src="${c.thumb}"><div class="wash"></div><div class="seal">✠</div>${name}`
+    case 'vellum-plain': return `<img class="art" src="${c.thumb}"><div class="wash"></div>${name}`
     case 'initial': return `<img class="frame" src="${frame}"><div class="letter">${letter(c.name)}</div>${name}`
   }
 }
