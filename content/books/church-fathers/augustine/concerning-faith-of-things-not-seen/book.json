@@ -2,13 +2,16 @@
   "id": "augustine-concerning-faith-of-things-not-seen",
   "cover": "quarter",
   "name": {
-    "en-US": "Concerning Faith of Things Not Seen"
+    "en-US": "Concerning Faith of Things Not Seen",
+    "pt-BR": "Sobre a Fé nas Coisas que Não se Veem"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Concerning Faith of Things Not Seen"
+        "en-US": "Concerning Faith of Things Not Seen",
+        "pt-BR": "Sobre a Fé nas Coisas que Não se Veem"
       }
     }
   ]
