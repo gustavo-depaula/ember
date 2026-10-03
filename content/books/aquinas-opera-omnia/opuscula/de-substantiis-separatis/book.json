@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On Separate Substances",
-    "la": "De Substantiis Separatis"
+    "la": "De Substantiis Separatis",
+    "pt-BR": "Das Substâncias Separadas"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A late treatise on the angels (the *substantiae separatae*) — their existence, nature, hierarchy, and operations. Aquinas's first survey of pagan-philosophical and patristic teaching on the angels before establishing his own position.",
-    "la": "Tractatus serotinus de angelis (*substantiae separatae*) — eorum existentia, natura, hierarchia, operationibus. Doctrinae paganae-philosophicae et patristicae de angelis recensio prima Thomae antequam suam positionem stabiliret."
+    "la": "Tractatus serotinus de angelis (*substantiae separatae*) — eorum existentia, natura, hierarchia, operationibus. Doctrinae paganae-philosophicae et patristicae de angelis recensio prima Thomae antequam suam positionem stabiliret.",
+    "pt-BR": "Tratado tardio sobre os anjos (as substâncias separadas): sua existência, natureza, hierarquia e operações. Tomás de Aquino começa examinando os ensinamentos filosóficos pagãos e patrísticos sobre os anjos antes de estabelecer sua própria posição."
   },
   "composed": "c. 1271",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,147 +39,168 @@
       "id": "prologue",
       "title": {
         "en-US": "Prologue — Prologue",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1 — On the opinions of the early philosophers and of Plato",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Das opiniões dos antigos e de Platão"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Chapter 2 — On the opinion of Aristotle",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — Da opinião de Aristóteles"
       }
     },
     {
       "id": "ch003",
       "title": {
         "en-US": "Chapter 3 — How the positions of Aristotle and Plato agree",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — Da concordância entre as posições de Aristóteles e de Platão"
       }
     },
     {
       "id": "ch004",
       "title": {
         "en-US": "Chapter 4 — How the positions of Aristotle and Plato differ",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — Da diferença entre as posições de Aristóteles e de Platão"
       }
     },
     {
       "id": "ch005",
       "title": {
         "en-US": "Chapter 5 — On the opinion of Avicebron and his arguments for it",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — Da opinião de Avicebron e de suas razões"
       }
     },
     {
       "id": "ch006",
       "title": {
         "en-US": "Chapter 6 — Refutation of Avicebron’s position",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6 — Refutação da posição de Avicebron"
       }
     },
     {
       "id": "ch007",
       "title": {
         "en-US": "Chapter 7 — That of spiritual and corporeal substances there cannot be one matter",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7 — Que as substâncias espirituais e corpóreas não podem ter uma única matéria"
       }
     },
     {
       "id": "ch008",
       "title": {
         "en-US": "Chapter 8 — Refutation of Avicebron’s arguments",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8 — Da solução das razões de Avicebron"
       }
     },
     {
       "id": "ch009",
       "title": {
         "en-US": "Chapter 9 — On the opinion of those who say that spiritual substances are not created",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9 — Da opinião dos que dizem que as substâncias espirituais não são criadas"
       }
     },
     {
       "id": "ch010",
       "title": {
         "en-US": "Chapter 10 — Against those who posit that not all spiritual substances are immediately from God",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10 — Contra os que afirmam que nem todas as substâncias espirituais procedem imediatamente de Deus"
       }
     },
     {
       "id": "ch011",
       "title": {
         "en-US": "Chapter 11 — Against the Platonists, who posit that certain essential perfections of spiritual substances are not immediately from God",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11 — Contra os platônicos, que afirmam que certas perfeições essenciais das substâncias espirituais não procedem imediatamente de Deus"
       }
     },
     {
       "id": "ch012",
       "title": {
         "en-US": "Chapter 12 — Against Origen, who posited that all spiritual substances are created equal",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12 — Contra Orígenes, que afirmou terem sido todas as substâncias espirituais produzidas iguais por Deus"
       }
     },
     {
       "id": "ch013",
       "title": {
         "en-US": "Chapter 13 — On the error of some concerning the knowledge and providence of spiritual substances",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13 — Do erro de alguns acerca do conhecimento e da providência das substâncias espirituais"
       }
     },
     {
       "id": "ch014",
       "title": {
         "en-US": "Chapter 14 — In which it is shown that God has knowledge of everything",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14 — Em que se mostra que Deus tem conhecimento de todas as coisas"
       }
     },
     {
       "id": "ch015",
       "title": {
         "en-US": "Chapter 15 — That the care of divine providence extends to all things",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15 — Que o cuidado da providência divina se estende a todas as coisas"
       }
     },
     {
       "id": "ch016",
       "title": {
         "en-US": "Chapter 16 — Resolution of the aforementioned positions",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16 — Resposta às objeções apresentadas acima"
       }
     },
     {
       "id": "ch017",
       "title": {
         "en-US": "Chapter 17 — On the error of the Manicheans concerning spiritual substances",
-        "la": "Caput 17"
+        "la": "Caput 17",
+        "pt-BR": "Capítulo 17 — Do erro dos maniqueus acerca das substâncias espirituais"
       }
     },
     {
       "id": "ch018",
       "title": {
         "en-US": "Chapter 18 — On the origin of spiritual substances according to the Catholic faith",
-        "la": "Caput 18"
+        "la": "Caput 18",
+        "pt-BR": "Capítulo 18 — Da origem das substâncias espirituais segundo a fé católica"
       }
     },
     {
       "id": "ch019",
       "title": {
         "en-US": "Chapter 19 — On the condition of spiritual substances",
-        "la": "Caput 19"
+        "la": "Caput 19",
+        "pt-BR": "Capítulo 19 — Da condição das substâncias espirituais"
       }
     },
     {
       "id": "ch020",
       "title": {
         "en-US": "Chapter 20 — On the distinction of angelic spirits",
-        "la": "Caput 20"
+        "la": "Caput 20",
+        "pt-BR": "Capítulo 20 — Da distinção dos espíritos angélicos"
       }
     }
   ]
