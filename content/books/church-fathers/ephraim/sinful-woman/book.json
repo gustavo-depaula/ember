@@ -2,13 +2,16 @@
   "id": "ephraim-sinful-woman",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Sinful Woman"
+    "en-US": "On the Sinful Woman",
+    "pt-BR": "Sobre a Pecadora"
   },
   "author": {
-    "en-US": "Ephraim the Syrian (306-373)"
+    "en-US": "Ephraim the Syrian (306-373)",
+    "pt-BR": "Santo Efrém (306-373)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Sinful Woman"
+        "en-US": "On the Sinful Woman",
+        "pt-BR": "Sobre a Pecadora"
       }
     }
   ]
