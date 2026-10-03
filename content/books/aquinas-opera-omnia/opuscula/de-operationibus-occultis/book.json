@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On the Hidden Activities of Nature",
-    "la": "De Occultis Operibus Naturae"
+    "la": "De Occultis Operibus Naturae",
+    "pt-BR": "Das Obras Ocultas da Natureza"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short letter on the natural-philosophical question of occult or hidden powers in natural things (e.g. the magnet) — Aquinas distinguishes natural causes from demonic interference.",
-    "la": "Epistola brevis de quaestione philosophica naturali occultis virtutibus in rebus naturalibus (e.g. in magnete) — Thomas causas naturales ab interferentia daemonum distinguens."
+    "la": "Epistola brevis de quaestione philosophica naturali occultis virtutibus in rebus naturalibus (e.g. in magnete) — Thomas causas naturales ab interferentia daemonum distinguens.",
+    "pt-BR": "Breve carta sobre a questão filosófico-natural das virtudes ocultas nas coisas naturais (por exemplo, no ímã) — Tomás distingue as causas naturais da interferência dos demônios."
   },
   "composed": "c. 1269–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch001",
       "title": {
         "en-US": "On the Hidden Activities of Nature",
-        "la": "De Occultis Operibus Naturae"
+        "la": "De Occultis Operibus Naturae",
+        "pt-BR": "Das Obras Ocultas da Natureza"
       }
     }
   ]
