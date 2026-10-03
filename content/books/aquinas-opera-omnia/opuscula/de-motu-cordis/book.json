@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "On the Motion of the Heart",
-    "la": "De Motu Cordis"
+    "la": "De Motu Cordis",
+    "pt-BR": "Do Movimento do Coração"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A late short consultation on the natural philosophy of the human heart's motion, addressed to Master Philip of Castro Coeli.",
-    "la": "Responsum breve serotinum de philosophia naturali motus cordis humani, ad magistrum Philippum de Castro Coeli compositum."
+    "la": "Responsum breve serotinum de philosophia naturali motus cordis humani, ad magistrum Philippum de Castro Coeli compositum.",
+    "pt-BR": "Breve resposta tardia sobre a filosofia natural do movimento do coração humano, dirigida a Mestre Filipe de Castro Caeli."
   },
   "composed": "c. 1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch001",
       "title": {
         "en-US": "On the Motion of the Heart",
-        "la": "De Motu Cordis"
+        "la": "De Motu Cordis",
+        "pt-BR": "Do Movimento do Coração"
       }
     }
   ]
