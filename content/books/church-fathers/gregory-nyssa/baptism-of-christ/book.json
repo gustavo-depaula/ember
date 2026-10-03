@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-baptism-of-christ",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Baptism of Christ (Sermon for the Day of Lights)"
+    "en-US": "On the Baptism of Christ (Sermon for the Day of Lights)",
+    "pt-BR": "Sobre o Batismo de Cristo (Sermão para o Dia das Luzes)"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Baptism of Christ (Sermon for the Day of Lights)"
+        "en-US": "On the Baptism of Christ (Sermon for the Day of Lights)",
+        "pt-BR": "Sobre o Batismo de Cristo (Sermão para o Dia das Luzes)"
       }
     }
   ]
