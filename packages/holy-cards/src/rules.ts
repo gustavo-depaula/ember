@@ -1,4 +1,4 @@
-import { ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
+import { everyRegion, ofCalendarRefs, ofDateCelebrations } from '@ember/mass'
 import { addDays, ascending, eachDay, isSunday, toDate, yearOf } from './dates'
 import { feastDays, seasonsStartingIn } from './seasons'
 import type { Act, CardId, Catalog, EngineInput, Grant, IsoDate } from './types'
@@ -35,10 +35,14 @@ function datesOf(acts: Act[], kind: Act['kind'], since: IsoDate): IsoDate[] {
  * Whether a card's celebration is the calendar's `ref` for a day. A card may
  * name one of the day's variant formularies (the Ascension's card names
  * `tempore.easter.week-6.thursday.b`, the form whose collect it shows), which
- * the calendar lists under the day's own ref.
+ * the calendar lists under the day's own ref. A saint's ref only ever names
+ * itself: `sanctorale.06-09.brazil` is Anchieta, not a form of Ephrem's
+ * `sanctorale.06-09`.
  */
 export function celebrates(celebration: string | undefined, ref: string): boolean {
-  return !!celebration && (celebration === ref || celebration.startsWith(`${ref}.`))
+  if (!celebration) return false
+  if (celebration === ref) return true
+  return !celebration.startsWith('sanctorale.') && celebration.startsWith(`${ref}.`)
 }
 
 /**
@@ -46,37 +50,28 @@ export function celebrates(celebration: string | undefined, ref: string): boolea
  * date, outranked or not, in order of precedence — or, when none has a card,
  * a liturgical card drawn at redeem.
  */
-export const massRule: Rule = ({ acts, calendar, catalog }, since) => {
-  // A card of another region's calendar (`sanctorale.06-09.brazil`) would
-  // otherwise pass for a variant of the universal saint that day (Ephrem's
-  // `sanctorale.06-09`): outside its region it comes only through the Office.
-  const sanctoral = new Set(calendar.statics.sanctoral.map((e) => e.formularyRef))
-  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, calendar.scope)
-  const atMass = catalog.saints.filter(
-    (s) => !s.celebration || !sanctoral.has(s.celebration) || onCalendar.has(s.celebration),
-  )
-  return datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
+export const massRule: Rule = ({ acts, calendar, catalog }, since) =>
+  datesOf(acts, 'mass', since).flatMap((date): Grant[] => {
     const celebrations = ofDateCelebrations(toDate(date), calendar.statics, {
-      scope: calendar.scope,
+      scope: everyRegion,
     })
     const saints = celebrations.flatMap((c) =>
-      atMass.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
+      catalog.saints.filter((s) => celebrates(s.celebration, c.ref)).map((s) => s.id),
     )
     const base = { id: `mass:${date}`, door: 'mass' as const, date, deadline: nextDay(date) }
     if (saints.length > 0) return [{ ...base, choice: saints }]
     if (catalog.liturgical.length === 0) return []
     return [{ ...base, choice: catalog.liturgical, drawn: true }]
   })
-}
 
 /**
- * The Office gives the saints who have no Mass on the user's calendar, each on
- * its assigned day.
+ * The Office gives the saints who have no Mass on any region's calendar, each
+ * on its assigned day.
  */
 export const officeRule: Rule = ({ acts, calendar, catalog }, since) => {
   const dates = datesOf(acts, 'office', since)
   if (dates.length === 0) return []
-  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, calendar.scope)
+  const onCalendar = ofCalendarRefs(calendar.statics.sanctoral, everyRegion)
   const byDay = new Map<string, CardId[]>()
   for (const s of catalog.saints) {
     if (!s.day || (s.celebration && onCalendar.has(s.celebration))) continue

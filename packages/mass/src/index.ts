@@ -5,6 +5,7 @@ export {
   buildOfYearCalendar,
   type CelebrationKind,
   type CelebrationMode,
+  everyRegion,
   girm,
   isOfHolyDay,
   type OfCelebration,

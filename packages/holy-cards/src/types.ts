@@ -27,8 +27,11 @@ export type Act = { date: IsoDate } & (
 /** One scheduled day of a practice the user chose, and whether it was kept. */
 export type Occurrence = { practice: string; date: IsoDate; kept: boolean }
 
-/** The OF calendar the Mass follows: its statics and the user's regional scope. */
-export type Calendar = { statics: OfCalendarStatics; scope: string }
+/**
+ * The OF calendar the cards follow: every region's at once, so Mass on a
+ * Brazilian saint's day gives that card in the United States too.
+ */
+export type Calendar = { statics: OfCalendarStatics }
 
 /**
  * The cards that exist (have art). A card missing here is never given: a door

@@ -16,8 +16,7 @@ import { useEventStore } from '@/db/events'
 import { getPreference, recordHolyCardCopy, setPreference } from '@/db/repositories'
 import { useCompletionRange } from '@/features/plan-of-life/completion'
 import { getToday, useToday } from '@/hooks/useToday'
-import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { loadOfCalendar } from '@/lib/mass-of/loaders'
 
 import { liturgicalActs, novenaActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
@@ -90,7 +89,6 @@ export function holyCardCatalog(
 export function usePendingHolyCards(): Grant[] | undefined {
   const day = useToday()
   const today = format(day, 'yyyy-MM-dd')
-  const scope = scopeForContentLang(usePreferencesStore((s) => s.contentLanguage))
   const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
     queryKey: ['of-calendar'],
@@ -131,13 +129,13 @@ export function usePendingHolyCards(): Grant[] | undefined {
     return pendingCards({
       acts,
       occurrences: [],
-      calendar: { statics, scope },
+      calendar: { statics },
       catalog,
       firstOpened: since,
       copies: [...copies.values()],
       today,
     })
-  }, [statics, catalog, since, acts, copies, scope, today])
+  }, [statics, catalog, since, acts, copies, today])
 }
 
 /** Redeem an envelope: store its copy for good. `card` is the pick when it offers a choice. */

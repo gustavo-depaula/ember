@@ -4,9 +4,12 @@ import { addDays } from 'date-fns'
 
 export type Scope = string
 
+/** Every region's calendar at once: the holy cards give a regional saint anywhere. */
+export const everyRegion: Scope = 'every-region'
+
 /** Whether `entry` is on the calendar of `scope`; universal entries always are. */
 export function inScope(entry: SanctoralEntry, scope: Scope): boolean {
-  return entry.scope === 'universal' || entry.scope === scope
+  return entry.scope === 'universal' || entry.scope === scope || scope === everyRegion
 }
 
 /** The formulary refs of every sanctoral celebration on the calendar of `scope`. */

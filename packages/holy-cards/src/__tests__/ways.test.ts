@@ -37,7 +37,7 @@ const catalog: Catalog = {
   lineages: {},
   starters: [],
 }
-const calendar = { statics, scope: 'brazil' }
+const calendar = { statics }
 const ways = (card: string, today: string, acts: Act[] = []) =>
   waysToReceive(card, { catalog, calendar, acts, today })
 const input = (acts: Act[]): EngineInput => ({ acts, occurrences: [], calendar, catalog })

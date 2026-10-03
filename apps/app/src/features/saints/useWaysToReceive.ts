@@ -7,8 +7,7 @@ import { bareId } from '@/content/contentIndex'
 import { getManifest } from '@/content/resolver'
 import { useCompletionRange } from '@/features/plan-of-life/completion'
 import { useToday } from '@/hooks/useToday'
-import { loadOfCalendar, scopeForContentLang } from '@/lib/mass-of/loaders'
-import { usePreferencesStore } from '@/stores/preferencesStore'
+import { loadOfCalendar } from '@/lib/mass-of/loaders'
 
 import { liturgicalActs } from './acts'
 import type { SaintEntry } from './data/catalog'
@@ -24,7 +23,6 @@ import { holyCardCatalog } from './usePendingHolyCards'
 export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
   const day = useToday()
   const today = format(day, 'yyyy-MM-dd')
-  const scope = scopeForContentLang(usePreferencesStore((s) => s.contentLanguage))
   const holyCards = useHolyCardCatalog()
   const { data: statics } = useQuery({
     queryKey: ['of-calendar'],
@@ -45,6 +43,6 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
       if (manifest?.program && cards.includes(saint.id)) novenas[id] = cards
     }
     const catalog = holyCardCatalog(holyCards.cards, holyCards.starters, novenas)
-    return waysToReceive(saint.id, { catalog, calendar: { statics, scope }, acts, today })
-  }, [statics, holyCards, saint, scope, acts, today])
+    return waysToReceive(saint.id, { catalog, calendar: { statics }, acts, today })
+  }, [statics, holyCards, saint, acts, today])
 }

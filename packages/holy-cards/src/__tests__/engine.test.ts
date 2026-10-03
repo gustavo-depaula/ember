@@ -47,7 +47,7 @@ const catalog: Catalog = {
 const input = (acts: Act[], extra: Partial<EngineInput> = {}): EngineInput => ({
   acts,
   occurrences: [],
-  calendar: { statics, scope: 'brazil' },
+  calendar: { statics },
   catalog,
   ...extra,
 })
@@ -114,29 +114,17 @@ describe('The Divine Office', () => {
     expect(grants(input([office('2026-06-10')]))).toEqual([])
   })
 
-  it('treats a regional saint as an Office saint outside that region', () => {
-    // Frei Galvão has a Mass on Brazil's calendar only.
-    const galvao = {
-      id: 'frei_galvao',
-      celebration: 'sanctorale.10-25.brazil',
-      day: { month: 10, day: 25 },
-    }
-    const withGalvao = { ...catalog, saints: [...saints.filter((s) => s.id !== galvao.id), galvao] }
-    const at = (scope: string, act: Act) =>
-      grants(input([act], { catalog: withGalvao, calendar: { statics, scope } })).flatMap(
-        (g) => g.choice,
-      )
-    expect(at('universal', office('2026-10-25'))).toContain('frei_galvao')
-    expect(at('brazil', office('2026-10-25'))).not.toContain('frei_galvao')
-    expect(at('brazil', mass('2026-10-25')[0])).toContain('frei_galvao')
+  it("gives a saint of one region's calendar at Mass, not the Office", () => {
+    // Frei Galvão has a Mass on Brazil's calendar only, wherever the user is.
+    const choices = (act: Act) => grants(input([act])).flatMap((g) => g.choice)
+    expect(choices(mass('2026-10-25')[0])).toContain('frei_galvao')
+    expect(choices(office('2026-10-25'))).not.toContain('frei_galvao')
   })
 
-  it("never gives a regional saint at another region's Mass of the same date", () => {
-    // 9 June: Ephrem everywhere, and Anchieta too in Brazil.
-    const at = (scope: string) =>
-      grants(input(mass('2026-06-09'), { calendar: { statics, scope } })).flatMap((g) => g.choice)
-    expect(at('brazil')).toEqual(expect.arrayContaining(['ephrem', 'jose_anchieta']))
-    expect(at('universal')).not.toContain('jose_anchieta')
+  it("offers both a region's saint and the universal saint sharing the date", () => {
+    // 9 June: Ephrem everywhere, Anchieta in Brazil.
+    const [g] = grants(input(mass('2026-06-09')))
+    expect([...g.choice].sort()).toEqual(['ephrem', 'jose_anchieta'])
   })
 })
 
