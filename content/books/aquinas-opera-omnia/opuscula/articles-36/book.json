@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Letter to Bassiano of Lodi on the 36 Articles",
-    "la": "Epistola ad Bassianum Laudensem de 36 Articulis"
+    "la": "Epistola ad Bassianum Laudensem de 36 Articulis",
+    "pt-BR": "Carta a Bassiano de Lodi sobre os 36 Artigos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A second response Aquinas wrote to Bassiano, answering 36 further doctrinal questions.",
-    "la": "Secundum responsum Thomae Bassiano ad 36 quaestiones doctrinales ulteriores."
+    "la": "Secundum responsum Thomae Bassiano ad 36 quaestiones doctrinales ulteriores.",
+    "pt-BR": "Uma segunda resposta de Tomás a Bassiano, respondendo a outras 36 questões doutrinais."
   },
   "composed": 1271,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,259 +39,296 @@
       "id": "36articuli-c01",
       "title": {
         "en-US": "Prologue",
-        "la": "Prologue"
+        "la": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "36articuli-c02",
       "title": {
         "en-US": "Article 1",
-        "la": "Article 1"
+        "la": "Article 1",
+        "pt-BR": "Artigo 1"
       }
     },
     {
       "id": "36articuli-c03",
       "title": {
         "en-US": "Article 2",
-        "la": "Article 2"
+        "la": "Article 2",
+        "pt-BR": "Artigo 2"
       }
     },
     {
       "id": "36articuli-c04",
       "title": {
         "en-US": "Article 3",
-        "la": "Article 3"
+        "la": "Article 3",
+        "pt-BR": "Artigo 3"
       }
     },
     {
       "id": "36articuli-c05",
       "title": {
         "en-US": "Article 4",
-        "la": "Article 4"
+        "la": "Article 4",
+        "pt-BR": "Artigo 4"
       }
     },
     {
       "id": "36articuli-c06",
       "title": {
         "en-US": "Article 5",
-        "la": "Article 5"
+        "la": "Article 5",
+        "pt-BR": "Artigo 5"
       }
     },
     {
       "id": "36articuli-c07",
       "title": {
         "en-US": "Article 6",
-        "la": "Article 6"
+        "la": "Article 6",
+        "pt-BR": "Artigo 6"
       }
     },
     {
       "id": "36articuli-c08",
       "title": {
         "en-US": "Article 7",
-        "la": "Article 7"
+        "la": "Article 7",
+        "pt-BR": "Artigo 7"
       }
     },
     {
       "id": "36articuli-c09",
       "title": {
         "en-US": "Article 8",
-        "la": "Article 8"
+        "la": "Article 8",
+        "pt-BR": "Artigo 8"
       }
     },
     {
       "id": "36articuli-c10",
       "title": {
         "en-US": "Article 9",
-        "la": "Article 9"
+        "la": "Article 9",
+        "pt-BR": "Artigo 9"
       }
     },
     {
       "id": "36articuli-c11",
       "title": {
         "en-US": "Article 10",
-        "la": "Article 10"
+        "la": "Article 10",
+        "pt-BR": "Artigo 10"
       }
     },
     {
       "id": "36articuli-c12",
       "title": {
         "en-US": "Article 11",
-        "la": "Article 11"
+        "la": "Article 11",
+        "pt-BR": "Artigo 11"
       }
     },
     {
       "id": "36articuli-c13",
       "title": {
         "en-US": "Article 12",
-        "la": "Article 12"
+        "la": "Article 12",
+        "pt-BR": "Artigo 12"
       }
     },
     {
       "id": "36articuli-c14",
       "title": {
         "en-US": "Article 13",
-        "la": "Article 13"
+        "la": "Article 13",
+        "pt-BR": "Artigo 13"
       }
     },
     {
       "id": "36articuli-c15",
       "title": {
         "en-US": "Article 14",
-        "la": "Article 14"
+        "la": "Article 14",
+        "pt-BR": "Artigo 14"
       }
     },
     {
       "id": "36articuli-c16",
       "title": {
         "en-US": "Article 15",
-        "la": "Article 15"
+        "la": "Article 15",
+        "pt-BR": "Artigo 15"
       }
     },
     {
       "id": "36articuli-c17",
       "title": {
         "en-US": "Article 16",
-        "la": "Article 16"
+        "la": "Article 16",
+        "pt-BR": "Artigo 16"
       }
     },
     {
       "id": "36articuli-c18",
       "title": {
         "en-US": "Article 17",
-        "la": "Article 17"
+        "la": "Article 17",
+        "pt-BR": "Artigo 17"
       }
     },
     {
       "id": "36articuli-c19",
       "title": {
         "en-US": "Article 18",
-        "la": "Article 18"
+        "la": "Article 18",
+        "pt-BR": "Artigo 18"
       }
     },
     {
       "id": "36articuli-c20",
       "title": {
         "en-US": "Article 19",
-        "la": "Article 19"
+        "la": "Article 19",
+        "pt-BR": "Artigo 19"
       }
     },
     {
       "id": "36articuli-c21",
       "title": {
         "en-US": "Article 20",
-        "la": "Article 20"
+        "la": "Article 20",
+        "pt-BR": "Artigo 20"
       }
     },
     {
       "id": "36articuli-c22",
       "title": {
         "en-US": "Article 21",
-        "la": "Article 21"
+        "la": "Article 21",
+        "pt-BR": "Artigo 21"
       }
     },
     {
       "id": "36articuli-c23",
       "title": {
         "en-US": "Article 22",
-        "la": "Article 22"
+        "la": "Article 22",
+        "pt-BR": "Artigo 22"
       }
     },
     {
       "id": "36articuli-c24",
       "title": {
         "en-US": "Article 23",
-        "la": "Article 23"
+        "la": "Article 23",
+        "pt-BR": "Artigo 23"
       }
     },
     {
       "id": "36articuli-c25",
       "title": {
         "en-US": "Article 24",
-        "la": "Article 24"
+        "la": "Article 24",
+        "pt-BR": "Artigo 24"
       }
     },
     {
       "id": "36articuli-c26",
       "title": {
         "en-US": "Article 25",
-        "la": "Article 25"
+        "la": "Article 25",
+        "pt-BR": "Artigo 25"
       }
     },
     {
       "id": "36articuli-c27",
       "title": {
         "en-US": "Article 26",
-        "la": "Article 26"
+        "la": "Article 26",
+        "pt-BR": "Artigo 26"
       }
     },
     {
       "id": "36articuli-c28",
       "title": {
         "en-US": "Article 27",
-        "la": "Article 27"
+        "la": "Article 27",
+        "pt-BR": "Artigo 27"
       }
     },
     {
       "id": "36articuli-c29",
       "title": {
         "en-US": "Article 28",
-        "la": "Article 28"
+        "la": "Article 28",
+        "pt-BR": "Artigo 28"
       }
     },
     {
       "id": "36articuli-c30",
       "title": {
         "en-US": "Articles 29-30",
-        "la": "Articles 29-30"
+        "la": "Articles 29-30",
+        "pt-BR": "Artigos 29-30"
       }
     },
     {
       "id": "36articuli-c31",
       "title": {
         "en-US": "Article 31",
-        "la": "Article 31"
+        "la": "Article 31",
+        "pt-BR": "Artigo 31"
       }
     },
     {
       "id": "36articuli-c32",
       "title": {
         "en-US": "Article 32",
-        "la": "Article 32"
+        "la": "Article 32",
+        "pt-BR": "Artigo 32"
       }
     },
     {
       "id": "36articuli-c33",
       "title": {
         "en-US": "Article 33",
-        "la": "Article 33"
+        "la": "Article 33",
+        "pt-BR": "Artigo 33"
       }
     },
     {
       "id": "36articuli-c34",
       "title": {
         "en-US": "Article 34",
-        "la": "Article 34"
+        "la": "Article 34",
+        "pt-BR": "Artigo 34"
       }
     },
     {
       "id": "36articuli-c35",
       "title": {
         "en-US": "Article 35",
-        "la": "Article 35"
+        "la": "Article 35",
+        "pt-BR": "Artigo 35"
       }
     },
     {
       "id": "36articuli-c36",
       "title": {
         "en-US": "Article 36",
-        "la": "Article 36"
+        "la": "Article 36",
+        "pt-BR": "Artigo 36"
       }
     },
     {
       "id": "36articuli-c37",
       "title": {
         "en-US": "Epilogue",
-        "la": "Epilogue"
+        "la": "Epilogue",
+        "pt-BR": "Epílogo"
       }
     }
   ]

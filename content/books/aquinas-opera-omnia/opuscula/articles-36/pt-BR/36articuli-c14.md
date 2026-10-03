@@ -1,0 +1,5 @@
+# Artigo 13
+
+O décimo terceiro artigo é que Deus não pode nem quer mover corpo algum imediatamente.
+
+Este artigo é proposto de modo implícito. De um lado, diz-se que Deus por sua virtude pode mover imediatamente todo corpo; e não vejo como isso não repugne ao que se diz, que não pode mover um corpo imediatamente, a não ser que isto se refira ao que se acrescenta: de modo que mover, que é divisível e medido pelo tempo, seja ação de Deus, que é a sua essência simplicíssima; pois isto Deus nem pode fazer nem quer, que a sua ação, que é a sua essência, seja divisível e medida pelo tempo. Mas, quando se diz que Deus move algum corpo, pelo verbo "move" não se implica uma ação divisível e medida pelo tempo, mas uma ação simples, que é a sua essência: pois não só Deus, mas também qualquer intelecto move por império, como foi dito acima. Ora, o império do intelecto não é senão a concepção do efeito ordenada a realizá-lo. E o querer e o entender de Deus não são outra coisa que a sua essência; por isso, assim como a ação pela qual Deus criou as coisas, assim também a ação pela qual Deus pode mover imediatamente um corpo não é senão o seu entender e o seu querer.
