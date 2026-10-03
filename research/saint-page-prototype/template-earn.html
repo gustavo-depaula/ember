@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saint page — how to receive the card</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #2C2418; --ink2: #6B5D4F; --gold: #C9A84C; --goldDeep: #A8872E; --line: #E5DDD2;
+  --burgundy: #6B1D2A; --paper: #FBF8F1; --paper2: #F3EDE0; --night: #17120E; --cream: #F5EEE1;
+  --cardInk: #6E521F; --cardMeta: #8A6A3B;
+  --head: 'Cinzel', 'Trajan Pro', serif; --body: 'EB Garamond', Georgia, serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: #DED7CA; color: var(--ink); font-family: var(--body); }
+header.top { padding: 20px 28px 4px; }
+header.top h1 { font-family: var(--head); font-weight: 600; font-size: 20px; margin: 0 0 10px; letter-spacing: 1px; }
+.switch { margin-bottom: 8px; }
+.switch button { font-family: var(--body); font-size: 15.5px; padding: 5px 13px; border-radius: 20px; border: 1px solid #b9ad98; background: transparent; cursor: pointer; margin: 0 6px 6px 0; color: var(--ink); }
+.switch button.on { background: var(--ink); color: #fff; border-color: var(--ink); }
+.wrap { display: flex; gap: 40px; padding: 10px 28px 40px; align-items: flex-start; }
+.side { max-width: 340px; font-size: 17.5px; line-height: 25px; color: var(--ink2); }
+.side h2 { font-family: var(--head); font-size: 14px; letter-spacing: 1.5px; color: var(--ink); margin: 18px 0 4px; }
+.phone { flex: 0 0 390px; width: 390px; height: 800px; border-radius: 44px; overflow: hidden; position: relative; background: var(--paper); box-shadow: 0 0 0 9px #111, 0 24px 50px rgba(0,0,0,.35); }
+.phone ::-webkit-scrollbar { display: none; }
+.scroll { position: absolute; inset: 0; overflow-y: auto; }
+.x { position: absolute; top: 46px; right: 16px; width: 34px; height: 34px; border-radius: 17px; background: rgba(0,0,0,.45); color: #F5F0E0; display: flex; align-items: center; justify-content: center; font-size: 17px; z-index: 5; }
+.tabbar { position: absolute; left: 14px; right: 14px; bottom: 16px; height: 58px; border-radius: 29px; background: rgba(255,255,255,.82); backdrop-filter: blur(10px); box-shadow: 0 4px 18px rgba(0,0,0,.12); z-index: 6; }
+
+/* hero */
+.hero { background: radial-gradient(120% 80% at 50% 25%, #3a2c1e 0%, var(--night) 75%); padding: 84px 0 26px; text-align: center; }
+.cardbox { width: 250px; height: 375px; margin: 0 auto; perspective: 1200px; }
+.card3d { position: relative; width: 100%; height: 100%; transition: transform .7s cubic-bezier(.3,.7,.3,1); transform-style: preserve-3d; }
+.card3d.flipped { transform: rotateY(180deg); }
+.face { position: absolute; inset: 0; border-radius: 12px; overflow: hidden; backface-visibility: hidden; box-shadow: 0 14px 40px rgba(0,0,0,.6); }
+.face img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.face.frame { background-size: cover; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 60px 40px; }
+.face.frame .cn { font-family: var(--head); color: var(--cardInk); font-size: 21px; line-height: 27px; }
+.face.back { transform: rotateY(180deg); background-size: cover; padding: 66px 44px 30px; text-align: left; }
+.back .bh { font-family: var(--head); font-size: 11.5px; letter-spacing: 2px; color: var(--cardMeta); text-align: center; margin-bottom: 12px; }
+.back .bw { display: flex; gap: 8px; margin-bottom: 11px; }
+.back .bw i { font-style: normal; color: var(--burgundy); font-size: 13px; padding-top: 2px; }
+.back .bw b { display: block; font-weight: 500; color: #43361F; font-size: 14.5px; line-height: 18px; }
+.back .bw span { display: block; font-style: italic; color: var(--cardMeta); font-size: 13.5px; line-height: 17px; }
+.back .bw.done b, .back .bw.missed b { color: #9C8B70; }
+.back .bf { position: absolute; left: 0; right: 0; bottom: 58px; text-align: center; font-size: 12.5px; color: var(--cardMeta); font-style: italic; }
+.hero .nm { font-family: var(--head); font-size: 24px; line-height: 30px; color: var(--cream); margin-top: 20px; padding: 0 40px; }
+.hero .feast { font-family: var(--head); font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: #DACAB2; margin-top: 6px; }
+.hero .patron { font-style: italic; color: #DACAB2; font-size: 16px; margin-top: 2px; padding: 0 30px; }
+.next { display: inline-flex; align-items: center; gap: 8px; margin-top: 14px; font-family: var(--head); font-size: 11.5px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--gold); }
+.next b { font-weight: 400; }
+.turn { display: block; margin: 12px auto 0; font-family: var(--body); font-size: 15.5px; color: #DACAB2; background: none; border: 0; border-bottom: 1px solid rgba(218,202,178,.5); cursor: pointer; padding: 0 0 1px; }
+
+/* content */
+.chap { padding: 34px 24px 0; }
+.chap .num { font-family: var(--head); color: var(--gold); font-size: 14px; letter-spacing: 3px; text-align: center; }
+.chap h3 { font-family: var(--head); font-weight: 400; font-size: 21px; text-align: center; margin: 4px 0 6px; }
+.chap .lede { text-align: center; font-style: italic; color: var(--ink2); font-size: 16.5px; margin-bottom: 14px; }
+.way { display: flex; gap: 14px; padding: 15px 0; border-bottom: 1px solid var(--line); }
+.way:first-of-type { border-top: 1px solid var(--line); }
+.way .g { flex: 0 0 30px; padding-top: 2px; }
+.way .b { flex: 1; min-width: 0; }
+.way .t { font-size: 18.5px; line-height: 23px; }
+.way .w { font-size: 15.5px; color: var(--ink2); margin-top: 2px; }
+.way.soon .w, .way.running .w { color: var(--burgundy); }
+.way .d { font-size: 15px; font-style: italic; color: var(--ink2); margin-top: 6px; line-height: 20px; }
+.way.missed .t { color: #9C8B70; }
+.way .act { margin-top: 10px; }
+.pill { display: inline-block; font-family: var(--head); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; border: 1px solid var(--gold); color: var(--goldDeep); border-radius: 14px; padding: 5px 11px; cursor: pointer; }
+.pill.solid { background: var(--burgundy); border-color: var(--burgundy); color: #F5EEE1; }
+.beads { display: flex; gap: 6px; margin-top: 9px; align-items: center; }
+.beads i { width: 13px; height: 13px; border-radius: 50%; border: 1.5px solid var(--goldDeep); }
+.beads i.on { background: var(--goldDeep); }
+.beads i.today { box-shadow: 0 0 0 2px var(--paper), 0 0 0 3.5px var(--burgundy); }
+.beads small { font-size: 14px; color: var(--ink2); margin-left: 6px; }
+.held { text-align: center; padding: 4px 0 6px; }
+.held .seal { font-family: var(--head); font-size: 12px; letter-spacing: 2px; color: var(--goldDeep); }
+.held .hd { font-size: 18px; margin-top: 4px; }
+.sub2 { font-family: var(--head); font-size: 12px; letter-spacing: 2px; color: var(--ink2); text-align: center; margin: 22px 0 4px; }
+.ghost { padding: 30px 24px 120px; opacity: .45; }
+.ghost .toc { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 6px 0; }
+.ghost .toc div { display: flex; font-size: 18px; padding: 6px 0; }
+.ghost .toc i { font-style: normal; font-family: var(--head); font-size: 12px; color: var(--burgundy); width: 30px; padding-top: 3px; }
+
+/* almanac */
+.alm { background: var(--paper2); border-bottom: 1px solid var(--line); padding: 22px 20px 20px; }
+.alm .ah { font-family: var(--head); font-size: 12px; letter-spacing: 2px; text-align: center; color: var(--ink); }
+.alm .am { text-align: center; font-style: italic; color: var(--ink2); font-size: 15.5px; margin: 2px 0 12px; }
+.grid { display: grid; grid-template-columns: repeat(7, 1fr); row-gap: 12px; }
+.grid .dow { font-family: var(--head); font-size: 9.5px; letter-spacing: 1px; color: var(--ink2); text-align: center; padding-bottom: 4px; }
+.day { position: relative; height: 44px; text-align: center; font-size: 16px; padding-top: 6px; color: var(--ink); }
+.day.out { color: #c2b8a8; }
+.day .n { position: relative; z-index: 2; display: inline-block; width: 28px; height: 28px; line-height: 28px; border-radius: 14px; }
+.day.today .n { box-shadow: inset 0 0 0 1.5px var(--ink); }
+.day.mark .n { background: var(--goldDeep); color: #fff; }
+.day .lab { position: absolute; left: 0; right: 0; bottom: -9px; font-family: var(--head); font-size: 8.5px; letter-spacing: .5px; color: var(--goldDeep); }
+.day .bar { position: absolute; left: 0; right: 0; top: 37px; height: 4px; background: rgba(107,29,42,.18); z-index: 1; }
+.day .bar.on { background: var(--burgundy); }
+.day .bar.first { left: 50%; border-radius: 3px 0 0 3px; }
+.day .bar.last { right: 50%; border-radius: 0 3px 3px 0; }
+.legend { margin-top: 12px; }
+.legend .way { padding: 11px 0; }
+.legend .way .t { font-size: 17px; }
+</style>
+</head>
+<body>
+<header class="top">
+  <h1>HOW TO RECEIVE EACH CARD</h1>
+  <div class="switch" id="dir"></div>
+  <div class="switch" id="subj"></div>
+</header>
+<div class="wrap">
+  <div class="phone" id="P"></div>
+  <div class="side" id="side"></div>
+</div>
+<script>
+/*DATA*/
+
+const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;')
+const roman = ['I', 'II', 'III', 'IV', 'V', 'VI']
+
+const glyphs = {
+  chalice: '<svg width="28" height="28" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M8 4h12c0 6-2.5 9-6 9s-6-3-6-9z"/><path d="M14 13v8M9 24h10M11 21h6"/><circle cx="14" cy="2.5" r="0.1"/></svg>',
+  beads: '<svg width="28" height="28" viewBox="0 0 28 28" fill="#A8872E">' + Array.from({ length: 10 }, (_, i) => { const a = (i / 10) * Math.PI * 2 + Math.PI / 2; return `<circle cx="${(14 + 8 * Math.cos(a)).toFixed(1)}" cy="${(10 - 8 * Math.sin(a) * 0.85).toFixed(1)}" r="1.6"/>` }).join('') + '<path d="M14 18.5v8M11.2 21.5h5.6" stroke="#A8872E" stroke-width="1.4"/></svg>',
+  candles: '<svg width="28" height="28" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M5 12h4v12H5zM12 10h4v14h-4zM19 12h4v12h-4z"/><path d="M7 9.5c-1-1 0-2.5 0-3.5 1 1 1.6 2.5 0 3.5zM14 7.5c-1-1 0-2.5 0-3.5 1 1 1.6 2.5 0 3.5zM21 9.5c-1-1 0-2.5 0-3.5 1 1 1.6 2.5 0 3.5z"/><path d="M3 24h22"/></svg>',
+  book: '<svg width="28" height="28" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M4 6c4-1 7 0 10 2 3-2 6-3 10-2v16c-4-1-7 0-10 2-3-2-6-3-10-2z"/><path d="M14 8v16"/></svg>',
+}
+
+function progress(p, state) {
+  if (!p) return ''
+  const [total, done, unit] = p
+  const beads = Array.from({ length: total }, (_, i) =>
+    `<i class="${i < done ? 'on' : ''} ${state === 'running' && i === done ? 'today' : ''}"></i>`).join('')
+  return `<div class="beads">${beads}<small>${done} of ${total}</small></div>`
+}
+
+const wayRow = (w) => `<div class="way ${w.state}">
+  <div class="g">${glyphs[w.glyph]}</div>
+  <div class="b"><div class="t">${esc(w.title)}</div><div class="w">${esc(w.when)}</div>
+    ${progress(w.progress, w.state)}
+    ${w.detail ? `<div class="d">${esc(w.detail)}</div>` : ''}
+    ${w.action ? `<div class="act"><span class="pill ${w.state === 'running' || w.state === 'soon' ? 'solid' : ''}">${esc(w.action)}</span></div>` : ''}
+  </div></div>`
+
+const front = (s) => s.held
+  ? `<div class="face"><img src="${s.art}"></div>`
+  : `<div class="face frame" style="background-image:url(${frame})"><div class="cn">${esc(s.name)}</div></div>`
+
+const back = (s) => `<div class="face back" style="background-image:url(${frame})">
+  <div class="bh">${s.held ? 'RECEIVED' : 'THIS CARD IS GIVEN'}</div>
+  ${s.held ? `<div class="bw"><i>✠</i><div><b>${s.held.door}</b><span>${s.held.date}</span></div></div><div class="bh" style="margin-top:16px">AND AGAIN</div>` : ''}
+  ${s.ways.map((w) => `<div class="bw ${w.state}"><i>✠</i><div><b>${esc(w.title)}</b><span>${esc(w.when.split(' · ')[0])}</span></div></div>`).join('')}
+  <div class="bf">Tap to turn back</div></div>`
+
+const hero = (s, extra) => `<div class="hero">
+  <div class="cardbox"><div class="card3d" id="C">${front(s)}${back(s)}</div></div>
+  <div class="nm">${esc(s.name)}</div>
+  ${s.feast ? `<div class="feast">${s.feast}</div>` : ''}
+  ${s.patron ? `<div class="patron">${esc(s.patron)}</div>` : ''}
+  ${extra || ''}</div>`
+
+const ghost = (from) => `<div class="ghost"><div class="toc">${['Life', 'Prayers', 'Reading', 'Feast', 'Related cards']
+  .map((t, i) => `<div><i>${roman[i + from]}</i>${t}</div>`).join('')}</div></div>`
+
+const heldBlock = (s) => s.held ? `<div class="held"><div class="seal">✠ IN YOUR COLLECTION</div><div class="hd">${s.held.door} · ${s.held.date}</div></div>` : ''
+
+const directions = [
+  {
+    key: 'A', label: 'A · A chapter',
+    about: `<h2>A · THE FIRST CHAPTER</h2>A card you don't hold opens on <i>To receive this card</i>, before its life: each way is a row saying what to do, when, and how far along you are, with the one action it needs (pray day 6, add the novena, a reminder for the feast). A held card says how it came, and moves the ways down as <i>To receive it again</i>.`,
+    render: (s) => hero(s) + `<div class="chap"><div class="num">I</div><h3>${s.held ? 'Received' : 'To receive this card'}</h3>
+      ${s.held ? heldBlock(s) + '<div class="sub2">TO RECEIVE IT AGAIN</div>' : ''}
+      ${s.ways.map(wayRow).join('')}</div>` + ghost(1),
+  },
+  {
+    key: 'B', label: 'B · The reverse',
+    about: `<h2>B · ON THE CARD'S BACK</h2>Old holy cards carried a prayer on the back; these carry the ways to receive them, printed in the frame the app already uses for the flip side. Under the name, one line says the next chance and when. The page below stays as it is; the actions live with the prayers and the feast.`,
+    render: (s) => hero(s, `${s.next ? `<div class="next">✠ <b>${esc(s.next)}</b></div>` : ''}
+        <button class="turn" onclick="document.getElementById('C').classList.toggle('flipped')">${s.held ? 'How it came' : 'How to receive it'} ↻</button>`) + ghost(0),
+  },
+  {
+    key: 'C', label: 'C · The almanac',
+    about: `<h2>C · ON THE CALENDAR</h2>The days are the point: a band under the hero shows the weeks around the card's chances, the novena as a bar filling day by day and the feast as a gold day. Below it the same ways, shorter. Cards with no date (drawn at Mass) or a far one fall back to the list.`,
+    render: (s) => hero(s) + (s.almanac ? almanac(s) : `<div class="chap"><h3>${s.held ? 'Received' : 'To receive this card'}</h3>${heldBlock(s)}${s.ways.map(wayRow).join('')}</div>`) + ghost(0),
+  },
+]
+
+function almanac(s) {
+  const a = s.almanac
+  const start = new Date(a.from + 'T12:00:00')
+  start.setDate(start.getDate() - ((start.getDay() + 6) % 7))
+  const iso = (d) => d.toISOString().slice(0, 10)
+  const cells = []
+  const end = new Date(a.from + 'T12:00:00'); end.setDate(end.getDate() + a.days)
+  for (let d = new Date(start); d < end || cells.length % 7; d.setDate(d.getDate() + 1)) {
+    const k = iso(d)
+    const span = a.spans.find(([f, t]) => k >= f && k <= t)
+    const mark = a.marks.find(([m]) => m === k)
+    let bar = ''
+    if (span) {
+      const [f, t, , done] = span
+      const idx = Math.round((new Date(k + 'T12:00:00') - new Date(f + 'T12:00:00')) / 864e5)
+      bar = `<div class="bar ${idx < done ? 'on' : ''} ${k === f ? 'first' : ''} ${k === t ? 'last' : ''}"></div>`
+    }
+    cells.push(`<div class="day ${k < a.from && !span ? 'out' : ''} ${k === a.today ? 'today' : ''} ${mark ? 'mark' : ''}">${bar}<span class="n">${d.getDate()}</span>${mark ? `<div class="lab">${mark[1]}</div>` : span && k === span[0] ? `<div class="lab" style="color:var(--burgundy)">${span[2]}</div>` : ''}</div>`)
+  }
+  const month = start.toLocaleString('en', { month: 'long' })
+  return `<div class="alm"><div class="ah">WHEN IT CAN BE YOURS</div><div class="am">${month} – ${end.toLocaleString('en', { month: 'long' })}</div>
+    <div class="grid">${['M', 'T', 'W', 'T', 'F', 'S', 'S'].map((d) => `<div class="dow">${d}</div>`).join('')}${cells.join('')}</div>
+    <div class="legend">${s.ways.map(wayRow).join('')}</div></div>`
+}
+
+let di = 0, si = 0
+function draw() {
+  document.getElementById('dir').innerHTML = directions.map((d, n) => `<button class="${n === di ? 'on' : ''}" onclick="di=${n};draw()">${d.label}</button>`).join('')
+  document.getElementById('subj').innerHTML = subjects.map((s, n) => `<button class="${n === si ? 'on' : ''}" onclick="si=${n};draw()">${esc(s.name)}</button>`).join('')
+  const s = subjects[si], d = directions[di]
+  document.getElementById('P').innerHTML = `<div class="x">✕</div><div class="tabbar"></div><div class="scroll">${d.render(s)}</div>`
+  document.getElementById('side').innerHTML = d.about + `<h2>THIS CARD</h2>${esc(s.note)}<h2>AS OF</h2>Friday 2 October 2026.`
+  const c = document.getElementById('C')
+  if (c) c.onclick = () => c.classList.toggle('flipped')
+}
+// #A2 picks direction and subject; #B2f also flips the card (for screenshots); #A2-400 scrolls.
+const [h, at] = location.hash.slice(1).split('-')
+if (h) { di = Math.max(0, 'ABC'.indexOf(h[0])); si = parseInt(h.slice(1)) || 0 }
+draw()
+if (h && h.endsWith('f')) document.getElementById('C').classList.add('flipped')
+if (at) document.querySelector('.scroll').scrollTop = Number(at)
+</script>
+</body>
+</html>
