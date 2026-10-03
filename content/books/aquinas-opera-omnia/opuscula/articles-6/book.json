@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Letter to Brother Gerard of Besançon on the 6 Articles",
-    "la": "Epistola ad Fratrem Gerardum Bisuntinum de 6 Articulis"
+    "la": "Epistola ad Fratrem Gerardum Bisuntinum de 6 Articulis",
+    "pt-BR": "Carta a Frei Gerardo de Besançon sobre os 6 Artigos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short letter from Aquinas to a fellow Dominican answering six doctrinal questions.",
-    "la": "Epistola brevis Thomae fratri Dominicano ad sex quaestiones doctrinales respondens."
+    "la": "Epistola brevis Thomae fratri Dominicano ad sex quaestiones doctrinales respondens.",
+    "pt-BR": "Uma breve carta de Tomás a um confrade dominicano, respondendo a seis questões doutrinais."
   },
   "composed": 1271,
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,42 +39,48 @@
       "id": "6articulis-c01",
       "title": {
         "en-US": "Prologue",
-        "la": "Prologue"
+        "la": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "6articulis-c02",
       "title": {
         "en-US": "Articles 1-3",
-        "la": "Articles 1-3"
+        "la": "Articles 1-3",
+        "pt-BR": "Artigos 1-3"
       }
     },
     {
       "id": "6articulis-c03",
       "title": {
         "en-US": "Article 4",
-        "la": "Article 4"
+        "la": "Article 4",
+        "pt-BR": "Artigo 4"
       }
     },
     {
       "id": "6articulis-c04",
       "title": {
         "en-US": "Article 5",
-        "la": "Article 5"
+        "la": "Article 5",
+        "pt-BR": "Artigo 5"
       }
     },
     {
       "id": "6articulis-c05",
       "title": {
         "en-US": "Article 6",
-        "la": "Article 6"
+        "la": "Article 6",
+        "pt-BR": "Artigo 6"
       }
     },
     {
       "id": "6articulis-c06",
       "title": {
         "en-US": "Epilogue",
-        "la": "Epilogue"
+        "la": "Epilogue",
+        "pt-BR": "Epílogo"
       }
     }
   ]
