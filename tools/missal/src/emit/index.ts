@@ -79,6 +79,34 @@ export function emitCorpus(
 }
 
 /** Load every baseline mass dict keyed by id. */
+// The General Roman Calendar's rank where the baseline carries a regional one:
+// Hildegard is a feast in the German-speaking lands, an optional memorial in
+// the universal calendar (CDW decree of 25 January 2021).
+const universalRanks: Record<string, string> = { 'sanctorale.09-17.hildegard': 'optional-memorial' }
+
+// Spain's propers the baseline (built on the Spanish missal) files among the
+// universal saints; the id's region suffix is what scopes them. 6 November:
+// the CDW inscribed Ss Pedro Poveda, Inocencio and companions in Spain's
+// calendar (decree of 12 September 2014).
+const spanishIds: Record<string, string> = { 'sanctorale.11-06': 'sanctorale.11-06.spain' }
+
+/**
+ * A date's other saints, which the baseline nests in its mass file's
+ * `alternatives[]` (20 January: Fabian's file holds Sebastian), each as a
+ * mass of its own, `<date id>.<key>`, on the same date. Another form of the
+ * same celebration (`assumption-2`, `all-souls-form-3`) is not a celebration
+ * of its own and stays out: the calendar would list it as a second feast.
+ */
+function alternativeCelebrations(d: Record<string, unknown> & { id: string }): (Record<string, unknown> & { id: string })[] {
+  const alts = Array.isArray(d.alternatives) ? (d.alternatives as Record<string, unknown>[]) : []
+  return alts
+    .filter((a) => typeof a.key === 'string' && !/(^|-)\d+$/.test(a.key))
+    .map((a) => {
+      const id = `${d.id}.${a.key}`
+      return { ...a, id, group: d.group, date: d.date, ...(universalRanks[id] ? { rank: universalRanks[id] } : {}) }
+    })
+}
+
 export function loadBaselineMassDicts(baselineDataDir: string): Map<string, Record<string, unknown>> {
   const out = new Map<string, Record<string, unknown>>()
   const walk = (dir: string): void => {
@@ -86,8 +114,11 @@ export function loadBaselineMassDicts(baselineDataDir: string): Map<string, Reco
       const p = join(dir, entry.name)
       if (entry.isDirectory()) walk(p)
       else if (entry.name.endsWith('.json') && !entry.name.startsWith('_')) {
-        const d = JSON.parse(readFileSync(p, 'utf-8')) as { id?: string }
-        if (d.id) out.set(d.id, d as Record<string, unknown>)
+        const d = JSON.parse(readFileSync(p, 'utf-8')) as Record<string, unknown> & { id?: string }
+        if (!d.id) continue
+        d.id = spanishIds[d.id] ?? d.id
+        out.set(d.id, d)
+        for (const alt of alternativeCelebrations(d)) out.set(alt.id, alt)
       }
     }
   }

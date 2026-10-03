@@ -85,6 +85,11 @@ describe('Mass', () => {
     expect([...g.choice].sort()).toEqual(['paul', 'peter'])
   })
 
+  it("offers each of the date's optional memorials, not only the first", () => {
+    const [g] = grants(input(mass('2027-01-20')))
+    expect([...g.choice].sort()).toEqual(['fabian', 'sebastian'])
+  })
+
   it('gives a liturgical card on a date with no saint', () => {
     // 1 July has no celebration, universal or Brazilian.
     const [g] = grants(input(mass('2026-07-01')))
