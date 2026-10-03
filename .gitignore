@@ -75,6 +75,7 @@ apps/app/android
 content/catechism/
 content/saints/*.webp
 content/saints/thumbs/
+content/saints/prints/
 
 # Python bytecode caches
 __pycache__/

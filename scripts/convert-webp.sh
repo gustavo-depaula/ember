@@ -29,3 +29,12 @@ find "$TARGET" -name '*.png' | while IFS= read -r f; do
 done
 
 echo "  Converted $(find "$TARGET" -name '*.webp' | wc -l | tr -d ' ') WebP files"
+
+# The holy cards' sepia prints, which veil a card not yet received.
+if [ -d "$TARGET/saints" ]; then
+  if python3 -c 'import PIL' 2> /dev/null; then
+    python3 "$(dirname "$0")/print-cards.py" "$TARGET/saints"
+  else
+    echo "warning: Pillow not found (pip install pillow): holy-card prints not made" >&2
+  fi
+fi

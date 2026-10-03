@@ -36,6 +36,9 @@ export type SaintEntry = {
   cardImage: ImageSource
   /** The same art at tile size, for the gallery and carousels. */
   cardThumb: ImageSource
+  /** The card as an uncoloured sepia print: its veil until a copy is held. */
+  printImage: ImageSource
+  printThumb: ImageSource
   patronOf?: string
   prayerExcerpt?: string
   /** The saint's Mass formulary ref, whose collect is the card's prayer. */
@@ -74,6 +77,14 @@ function cardThumb(id: string): ImageSource {
   return { uri: hearthAssetUrl(`saints/thumbs/${id}.webp`) }
 }
 
+function printImage(id: string): ImageSource {
+  return { uri: hearthAssetUrl(`saints/prints/${id}.webp`) }
+}
+
+function printThumb(id: string): ImageSource {
+  return { uri: hearthAssetUrl(`saints/prints/thumbs/${id}.webp`) }
+}
+
 // One formatter per build: Intl constructors are slow on Hermes.
 function feastLabeller(lang: string) {
   const format = new Intl.DateTimeFormat(lang, { month: 'long', day: 'numeric' })
@@ -107,6 +118,8 @@ function build(cards: HolyCard[] | undefined, lang: string): CatalogResult {
       reflection: c.reflection ? localizeContent(c.reflection) : undefined,
       cardImage: cardImage(c.id),
       cardThumb: cardThumb(c.id),
+      printImage: printImage(c.id),
+      printThumb: printThumb(c.id),
       patronOf: c.patronOf ? localizeContent(c.patronOf) : undefined,
       prayerExcerpt: c.prayerExcerpt ? localizeContent(c.prayerExcerpt) : undefined,
       proper: c.proper,

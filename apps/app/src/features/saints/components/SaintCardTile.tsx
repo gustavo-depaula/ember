@@ -4,11 +4,11 @@ import { Text, View, YStack } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
 import { useCopies } from '../data/collection'
 import { CopySheets } from './CopySheets'
-import { cardFrame, cardInk } from './cardFrame'
+import { cardInk } from './cardFrame'
 
 // One gallery tile: the holy card when a copy is held (its other copies
-// stacked beneath), otherwise the dimmed frame "silhouette" with the saint
-// named — a reverent "not yet revealed", never a locked grey box. `showLabel`
+// stacked beneath), otherwise its uncoloured sepia print with the saint named
+// at the foot — the card is there, waiting for its colour; never a locked box. `showLabel`
 // adds the saint's name beneath the card (wrapping, never on top of the art).
 export function SaintCardTile({
   saint,
@@ -38,23 +38,32 @@ export function SaintCardTile({
           <Image source={saint.cardThumb} priority="low" style={styles.fill} contentFit="cover" />
         ) : (
           <>
-            <Image source={cardFrame} style={styles.silhouette} contentFit="cover" />
+            <Image
+              source={saint.printThumb}
+              priority="low"
+              style={styles.fill}
+              contentFit="cover"
+            />
+            {/* On the parchment band the print fades into at its foot. */}
             <View
               position="absolute"
-              top={0}
               left={0}
               right={0}
               bottom={0}
+              height="20%"
               alignItems="center"
               justifyContent="center"
-              paddingHorizontal="10%"
+              paddingHorizontal="8%"
             >
-              {/* Sized to the tile, so a long name ("Transfiguration") still fits one line of a narrow one. */}
+              {/* Sized to the tile and shrunk to two lines, so a long name ("The Circumcision of Our Lord") stays on the band. */}
               <Text
                 fontFamily="$heading"
                 fontSize={Math.min(13, width * 0.1)}
                 color={cardInk.name}
                 textAlign="center"
+                numberOfLines={2}
+                adjustsFontSizeToFit
+                minimumFontScale={0.7}
               >
                 {saint.name}
               </Text>
@@ -74,5 +83,4 @@ export function SaintCardTile({
 
 const styles = StyleSheet.create({
   fill: { width: '100%', height: '100%' },
-  silhouette: { width: '100%', height: '100%', opacity: 0.45 },
 })

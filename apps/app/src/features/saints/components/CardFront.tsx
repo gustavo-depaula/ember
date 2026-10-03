@@ -3,7 +3,7 @@ import { StyleSheet } from 'react-native'
 import type { SharedValue } from 'react-native-reanimated'
 import { Text, View, YStack } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
-import { cardFrame, cardInk } from './cardFrame'
+import { cardInk } from './cardFrame'
 import { HolographicOverlay } from './HolographicOverlay'
 
 export function CardFront({
@@ -26,9 +26,8 @@ export function CardFront({
   isActive: SharedValue<number>
   priority: ImageProps['priority']
 }) {
-  // Not held yet — the illuminated frame dimmed, the saint named but the
-  // portrait still veiled: a reverent "not yet revealed" front, not a locked
-  // grey box.
+  // Not held yet — the card as an uncoloured print, the saint named on the
+  // parchment at its foot: there, but waiting for its colour.
   if (sealed) {
     return (
       <View
@@ -42,18 +41,33 @@ export function CardFront({
         borderWidth={2}
         borderColor="$accent"
       >
-        <Image source={cardFrame} style={styles.silhouette} contentFit="fill" />
+        <Image
+          source={saint.printImage}
+          placeholder={saint.printThumb}
+          placeholderContentFit="cover"
+          priority={priority}
+          style={styles.image}
+          contentFit="cover"
+        />
         <YStack
           position="absolute"
-          top={0}
           left={0}
           right={0}
           bottom={0}
+          height="20%"
           alignItems="center"
           justifyContent="center"
-          paddingHorizontal={cardWidth * 0.15}
+          paddingHorizontal={cardWidth * 0.1}
         >
-          <Text fontFamily="$heading" fontSize="$5" color={cardInk.name} textAlign="center">
+          <Text
+            fontFamily="$heading"
+            fontSize={cardWidth * 0.06}
+            color={cardInk.name}
+            textAlign="center"
+            numberOfLines={2}
+            adjustsFontSizeToFit
+            minimumFontScale={0.7}
+          >
             {saint.name}
           </Text>
         </YStack>
@@ -97,10 +111,5 @@ const styles = StyleSheet.create({
   image: {
     width: '100%',
     height: '100%',
-  },
-  silhouette: {
-    width: '100%',
-    height: '100%',
-    opacity: 0.5,
   },
 })
