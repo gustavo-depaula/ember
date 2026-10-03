@@ -2,13 +2,16 @@
   "id": "jerome-life-of-malchus-the-captive-monk",
   "cover": "quarter",
   "name": {
-    "en-US": "The Life of Malchus, the Captive Monk"
+    "en-US": "The Life of Malchus, the Captive Monk",
+    "pt-BR": "Vida de Malco, o Monge Cativo"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Life of Malchus, the Captive Monk"
+        "en-US": "The Life of Malchus, the Captive Monk",
+        "pt-BR": "Vida de Malco, o Monge Cativo"
       }
     }
   ]
