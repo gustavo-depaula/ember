@@ -2,13 +2,16 @@
   "id": "aristides-apology",
   "cover": "quarter",
   "name": {
-    "en-US": "The Apology"
+    "en-US": "The Apology",
+    "pt-BR": "A Apologia"
   },
   "author": {
-    "en-US": "Aristides the Philosopher"
+    "en-US": "Aristides the Philosopher",
+    "pt-BR": "Aristides, o Filósofo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Apology"
+        "en-US": "The Apology",
+        "pt-BR": "A Apologia"
       }
     }
   ]
