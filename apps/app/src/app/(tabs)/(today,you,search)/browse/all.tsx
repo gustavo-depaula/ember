@@ -1,9 +1,8 @@
 import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { Text, YStack } from 'tamagui'
 
-import { PageHeader, ScreenLayout, Typography } from '@/components'
+import { PageHeader, ScreenLayout } from '@/components'
 import { getEntriesByKind } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -14,6 +13,7 @@ import {
   warmCollection,
 } from '@/features/collections'
 import { coverFor } from '@/features/covers'
+import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
@@ -34,17 +34,6 @@ const countKeys = [
   ['collection', 'catalog.collectionCount'],
 ] as const
 
-// Two square jewel cards across the standard ScreenLayout column (max 640,
-// $lg = 24 each side). Square reads as a quarry/illuminated block — collections
-// are jewels, not books.
-const columns = 2
-const gutter = 14
-function useCardSize(): number {
-  const { width } = useWindowDimensions()
-  const content = Math.min(width, 640) - 24 * 2
-  return Math.floor((content - gutter * (columns - 1)) / columns)
-}
-
 function bareId(corpusId: string): string {
   const slash = corpusId.indexOf('/')
   return slash === -1 ? corpusId : corpusId.slice(slash + 1)
@@ -52,7 +41,6 @@ function bareId(corpusId: string): string {
 
 export default function AllCollectionsScreen() {
   const { t } = useTranslation()
-  const size = useCardSize()
   const catalogVersion = useCatalogVersion()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion drives re-derivation as deferred manifests warm.
@@ -101,31 +89,25 @@ export default function AllCollectionsScreen() {
           </YStack>
         ) : (
           shelves.map((shelf) => (
-            <YStack key={shelf.key} gap="$md">
-              <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-                {t(`browse.shelf.${shelf.key}`)}
-              </Typography>
-              <XStack flexWrap="wrap" gap={gutter}>
-                {shelf.collections.map((c) => (
-                  <ArtCoverCard
-                    key={c.id}
-                    title={c.name}
-                    subtitle={countKeys
-                      .flatMap(([kind, key]) => {
-                        const count = c.entry.itemCounts?.[kind]
-                        return count ? [t(key, { count })] : []
-                      })
-                      .join(' · ')}
-                    image={artFor(c.id)}
-                    cover={coverFor(c.entry)}
-                    tone={toneForKey(c.id)}
-                    size={size}
-                    href={collectionHref(c.id)}
-                    onPress={() => warmCollection(c.id)}
-                  />
-                ))}
-              </XStack>
-            </YStack>
+            <ArtCarousel key={shelf.key} title={t(`browse.shelf.${shelf.key}`)}>
+              {shelf.collections.map((c) => (
+                <ArtCoverCard
+                  key={c.id}
+                  title={c.name}
+                  subtitle={countKeys
+                    .flatMap(([kind, key]) => {
+                      const count = c.entry.itemCounts?.[kind]
+                      return count ? [t(key, { count })] : []
+                    })
+                    .join(' · ')}
+                  image={artFor(c.id)}
+                  cover={coverFor(c.entry)}
+                  tone={toneForKey(c.id)}
+                  href={collectionHref(c.id)}
+                  onPress={() => warmCollection(c.id)}
+                />
+              ))}
+            </ArtCarousel>
           ))
         )}
       </YStack>
