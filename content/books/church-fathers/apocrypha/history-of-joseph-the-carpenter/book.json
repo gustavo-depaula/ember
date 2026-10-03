@@ -2,13 +2,16 @@
   "id": "apocrypha-history-of-joseph-the-carpenter",
   "cover": "quarter",
   "name": {
-    "en-US": "History of Joseph the Carpenter (c. 400)"
+    "en-US": "History of Joseph the Carpenter (c. 400)",
+    "pt-BR": "História de José, o Carpinteiro (c. 400)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "History of Joseph the Carpenter (c. 400)"
+        "en-US": "History of Joseph the Carpenter (c. 400)",
+        "pt-BR": "História de José, o Carpinteiro (c. 400)"
       }
     }
   ]
