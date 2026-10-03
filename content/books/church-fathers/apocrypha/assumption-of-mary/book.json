@@ -2,13 +2,16 @@
   "id": "apocrypha-assumption-of-mary",
   "cover": "quarter",
   "name": {
-    "en-US": "Assumption of Mary (c. 400)"
+    "en-US": "Assumption of Mary (c. 400)",
+    "pt-BR": "Assunção de Maria (c. 400)"
   },
   "author": {
-    "en-US": "Apocrypha"
+    "en-US": "Apocrypha",
+    "pt-BR": "Apócrifos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Assumption of Mary (c. 400)"
+        "en-US": "Assumption of Mary (c. 400)",
+        "pt-BR": "Assunção de Maria (c. 400)"
       }
     }
   ]
