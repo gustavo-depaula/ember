@@ -2,13 +2,16 @@
   "id": "sulpitius-severus-dialogues",
   "cover": "quarter",
   "name": {
-    "en-US": "Dialogues"
+    "en-US": "Dialogues",
+    "pt-BR": "Diálogos"
   },
   "author": {
-    "en-US": "Sulpitius Severus (c. 363-c. 420)"
+    "en-US": "Sulpitius Severus (c. 363-c. 420)",
+    "pt-BR": "Sulpício Severo (c. 363-c. 420)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,19 +24,22 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Dialogue I"
+        "en-US": "Dialogue I",
+        "pt-BR": "Diálogo I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Dialogue II"
+        "en-US": "Dialogue II",
+        "pt-BR": "Diálogo II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Dialogue III"
+        "en-US": "Dialogue III",
+        "pt-BR": "Diálogo III"
       }
     }
   ]
