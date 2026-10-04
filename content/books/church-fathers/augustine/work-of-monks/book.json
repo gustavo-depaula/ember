@@ -2,13 +2,16 @@
   "id": "augustine-work-of-monks",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Work of Monks"
+    "en-US": "On the Work of Monks",
+    "pt-BR": "Sobre o Trabalho dos Monges"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Work of Monks"
+        "en-US": "On the Work of Monks",
+        "pt-BR": "Sobre o Trabalho dos Monges"
       }
     }
   ]
