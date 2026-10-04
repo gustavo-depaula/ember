@@ -22,6 +22,7 @@ export const themeIds: CollectionId[] = [
 
 export const genreIds: CollectionId[] = [
   'collection/litanies',
+  'collection/hymnal',
   'collection/novenas',
   'collection/mental-prayer',
 ]

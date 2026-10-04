@@ -36,7 +36,7 @@ const forms: Facet[] = [
   { key: 'novena', tags: ['novena'] },
   { key: 'office', tags: ['office', 'breviary', 'liturgy-of-the-hours'] },
   { key: 'litany', tags: ['litany'] },
-  { key: 'hymn', tags: ['hymn'] },
+  { key: 'hymn', tags: ['hymn', 'canticle', 'antiphon'] },
   { key: 'rosary', tags: ['rosary', 'chaplet'] },
 ]
 const devotions: Facet[] = [

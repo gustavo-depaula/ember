@@ -25,6 +25,7 @@ export const collectionShelves: { key: string; ids: string[] }[] = [
       'collection/novenario',
       'collection/novenas',
       'collection/litanies',
+      'collection/hymnal',
       'collection/little-offices',
       'collection/liturgical-year',
       'collection/mental-prayer',
