@@ -2,13 +2,16 @@
   "id": "cyril-catechetical-lectures",
   "cover": "quarter",
   "name": {
-    "en-US": "Catechetical Lectures"
+    "en-US": "Catechetical Lectures",
+    "pt-BR": "Catequeses"
   },
   "author": {
-    "en-US": "Cyril of Jerusalem"
+    "en-US": "Cyril of Jerusalem",
+    "pt-BR": "São Cirilo de Jerusalém"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,145 +24,169 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Prologue"
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Lecture 1"
+        "en-US": "Lecture 1",
+        "pt-BR": "Catequese 1"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Lecture 2"
+        "en-US": "Lecture 2",
+        "pt-BR": "Catequese 2"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Lecture 3"
+        "en-US": "Lecture 3",
+        "pt-BR": "Catequese 3"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Lecture 4"
+        "en-US": "Lecture 4",
+        "pt-BR": "Catequese 4"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Lecture 5"
+        "en-US": "Lecture 5",
+        "pt-BR": "Catequese 5"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Lecture 6"
+        "en-US": "Lecture 6",
+        "pt-BR": "Catequese 6"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Lecture 7"
+        "en-US": "Lecture 7",
+        "pt-BR": "Catequese 7"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Lecture 8"
+        "en-US": "Lecture 8",
+        "pt-BR": "Catequese 8"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Lecture 9"
+        "en-US": "Lecture 9",
+        "pt-BR": "Catequese 9"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Lecture 10"
+        "en-US": "Lecture 10",
+        "pt-BR": "Catequese 10"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Lecture 11"
+        "en-US": "Lecture 11",
+        "pt-BR": "Catequese 11"
       }
     },
     {
       "id": "ch013",
       "title": {
-        "en-US": "Lecture 12"
+        "en-US": "Lecture 12",
+        "pt-BR": "Catequese 12"
       }
     },
     {
       "id": "ch014",
       "title": {
-        "en-US": "Lecture 13"
+        "en-US": "Lecture 13",
+        "pt-BR": "Catequese 13"
       }
     },
     {
       "id": "ch015",
       "title": {
-        "en-US": "Lecture 14"
+        "en-US": "Lecture 14",
+        "pt-BR": "Catequese 14"
       }
     },
     {
       "id": "ch016",
       "title": {
-        "en-US": "Lecture 15"
+        "en-US": "Lecture 15",
+        "pt-BR": "Catequese 15"
       }
     },
     {
       "id": "ch017",
       "title": {
-        "en-US": "Lecture 16"
+        "en-US": "Lecture 16",
+        "pt-BR": "Catequese 16"
       }
     },
     {
       "id": "ch018",
       "title": {
-        "en-US": "Lecture 17"
+        "en-US": "Lecture 17",
+        "pt-BR": "Catequese 17"
       }
     },
     {
       "id": "ch019",
       "title": {
-        "en-US": "Lecture 18"
+        "en-US": "Lecture 18",
+        "pt-BR": "Catequese 18"
       }
     },
     {
       "id": "ch020",
       "title": {
-        "en-US": "Lecture 19"
+        "en-US": "Lecture 19",
+        "pt-BR": "Catequese 19"
       }
     },
     {
       "id": "ch021",
       "title": {
-        "en-US": "Lecture 20"
+        "en-US": "Lecture 20",
+        "pt-BR": "Catequese 20"
       }
     },
     {
       "id": "ch022",
       "title": {
-        "en-US": "Lecture 21"
+        "en-US": "Lecture 21",
+        "pt-BR": "Catequese 21"
       }
     },
     {
       "id": "ch023",
       "title": {
-        "en-US": "Lecture 22"
+        "en-US": "Lecture 22",
+        "pt-BR": "Catequese 22"
       }
     },
     {
       "id": "ch024",
       "title": {
-        "en-US": "Lecture 23"
+        "en-US": "Lecture 23",
+        "pt-BR": "Catequese 23"
       }
     }
   ]
