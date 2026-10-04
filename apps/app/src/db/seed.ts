@@ -1,3 +1,4 @@
+import { canonicalize } from '@/content/contentIndex'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey } from '@/lib/slotKey'
@@ -62,20 +63,6 @@ const simplePractices: SimplePracticeSeed[] = [
         sortOrder: 16,
         tier: 'extra',
         time: '15:00',
-        schedule: '{"type":"daily"}',
-        enabled: false,
-      },
-    ],
-  },
-  {
-    id: 'jesus-prayer',
-    customName: 'Jesus Prayer',
-    customIcon: 'rosary',
-    customDesc: 'Lord Jesus Christ, Son of God, have mercy on me, a sinner',
-    slots: [
-      {
-        sortOrder: 19,
-        tier: 'essential',
         schedule: '{"type":"daily"}',
         enabled: false,
       },
@@ -217,6 +204,22 @@ function collectSeedEvents(): AppEvent[] {
 
 export async function seedPractices(): Promise<void> {
   const events = collectSeedEvents()
+  if (events.length > 0) await emitBatch(events)
+}
+
+/**
+ * The plan keeps a corpus practice under its canonical id ('practice/mass').
+ * Adopting a template used to add it under the bare one ('mass'), beside the
+ * canonical twin seeding creates, and a prayer recorded under one id left the
+ * other's row open. Each bare one is folded into its twin; a practice with no
+ * corpus entry keeps its bare id. Run at startup; a no-op once the plan is
+ * straight.
+ */
+export async function canonicalizePracticeIds(): Promise<void> {
+  const events = [...useEventStore.getState().practices.keys()].flatMap((fromId) => {
+    const toId = fromId.includes('/') ? undefined : canonicalize(fromId, 'practice')
+    return toId ? [{ type: 'PracticeMerged' as const, fromId, toId }] : []
+  })
   if (events.length > 0) await emitBatch(events)
 }
 

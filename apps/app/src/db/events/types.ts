@@ -33,6 +33,14 @@ type PracticeDeleted = {
   practiceId: string
 }
 
+// Folds one practice into another: its slots, completions and program cursor
+// follow, and the events that made them stay in the log.
+type PracticeMerged = {
+  type: 'PracticeMerged'
+  fromId: string
+  toId: string
+}
+
 type SlotAdded = {
   type: 'SlotAdded'
   practiceId: string
@@ -79,6 +87,7 @@ export type PracticeEvent =
   | PracticeArchived
   | PracticeUnarchived
   | PracticeDeleted
+  | PracticeMerged
   | SlotAdded
   | SlotUpdated
   | SlotDeleted

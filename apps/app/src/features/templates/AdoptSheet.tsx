@@ -8,7 +8,7 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { pullDown } from '@/components/NativeSheet'
 import { PracticeIcon } from '@/components/PracticeIcon'
 import { Typography } from '@/components/typography'
-import { bareId } from '@/content/contentIndex'
+import { canonicalize } from '@/content/contentIndex'
 import { isTemplatePlaceholder, type PlanOfLifeTemplateManifest } from '@/content/manifestTypes'
 import { findGroupMemberInSet, getManifest } from '@/content/resolver'
 import { useCreatePractice, useSlots, useUpdatePractice } from '@/features/plan-of-life'
@@ -46,7 +46,7 @@ export function AdoptSheet({
   const createPractice = useCreatePractice()
   const updatePractice = useUpdatePractice()
 
-  // A practice is "already in the rule" if any enabled slot shares its bare id.
+  // A practice is "already in the rule" if any enabled slot is one of its own.
   const inRule = useMemo(() => new Set(slots.map((s) => s.practice_id)), [slots])
 
   // Normalize each proposed practice. Stable index — a template may list the
@@ -61,7 +61,8 @@ export function AdoptSheet({
         icon: p.icon ?? 'prayer',
       }
     }
-    const ref = bareId(p.ref)
+    // Templates name practices by bare id; the plan keeps the canonical one.
+    const ref = canonicalize(p.ref, 'practice') ?? p.ref
     const already = inRule.has(ref)
     // If an exact match isn't in the rule but a sibling in the same
     // alternativeTo group is, this row is a variant swap, not a new add.

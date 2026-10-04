@@ -36,19 +36,15 @@ function sameItem(a: string, b: string): boolean {
   return a === b || bareId(a) === bareId(b)
 }
 
-// The plan practices a prayed id belongs to: the practice itself, or the base
-// practice whose active variant was prayed. More than one when the plan holds
-// the practice under both its ids — adopting a template adds it under the bare
-// one, beside the canonical one every plan is seeded with — and the rows Today
-// shows may be slots of either.
-function planPracticesFor(prayedId: string, state: PlanState): string[] {
-  return [...state.practices.values()]
-    .filter(
-      (p) =>
-        sameItem(p.practice_id, prayedId) ||
-        (!!p.active_variant && sameItem(p.active_variant, prayedId)),
-    )
-    .map((p) => p.practice_id)
+// The plan practice a prayed id belongs to: the practice itself, or the base
+// practice whose active variant was prayed.
+function planPracticeFor(prayedId: string, state: PlanState): string | undefined {
+  if (state.practices.has(prayedId)) return prayedId
+  const practices = [...state.practices.values()]
+  return (
+    practices.find((p) => sameItem(p.practice_id, prayedId)) ??
+    practices.find((p) => p.active_variant && sameItem(p.active_variant, prayedId))
+  )?.practice_id
 }
 
 // The day's calendar isn't to hand here, so a holy-days-of-obligation slot
@@ -69,10 +65,9 @@ function completionsOn(date: string, state: PlanState): Completion[] {
 /**
  * The slot a prayer completes. An explicit slot key (the Today row that was
  * tapped) wins; otherwise the practice's first enabled slot due on `date` and
- * not yet done — whichever of its ids that slot is kept under — so a weekday
- * Mass fills the weekday row rather than Sunday's, and praying a twice-daily
- * practice twice fills both rows. A practice outside the plan is logged under
- * the prayed id, unslotted.
+ * not yet done, so a weekday Mass fills the weekday row rather than Sunday's,
+ * and praying a twice-daily practice twice fills both rows. A practice outside
+ * the plan is logged under the prayed id, unslotted.
  */
 export function completionTarget(
   prayedId: string,
@@ -85,19 +80,18 @@ export function completionTarget(
     return { practiceId, subId: slotId }
   }
 
-  const practiceIds = planPracticesFor(prayedId, state)
-  if (practiceIds.length === 0) return { practiceId: prayedId, subId: 'default' }
+  const practiceId = planPracticeFor(prayedId, state)
+  if (!practiceId) return { practiceId: prayedId, subId: 'default' }
+  if (state.practices.get(practiceId)?.archived) return { practiceId, subId: 'default' }
 
-  const kept = new Set(practiceIds.filter((id) => !state.practices.get(id)?.archived))
   const done = completedSlotKeys(completionsOn(date, state))
   const enabled = [...state.slots.values()]
-    .filter((s) => kept.has(s.practice_id) && s.enabled)
+    .filter((s) => s.practice_id === practiceId && s.enabled)
     .sort((a, b) => a.sort_order - b.sort_order)
   const due = slotsDueOn(enabled, date)
   const candidates = due.length > 0 ? due : enabled
   const slot = candidates.find((s) => !done.has(s.id)) ?? candidates[0]
-  if (!slot) return { practiceId: practiceIds[0], subId: 'default' }
-  return { practiceId: slot.practice_id, subId: parseSlotKey(slot.id).slotId }
+  return { practiceId, subId: slot ? parseSlotKey(slot.id).slotId : 'default' }
 }
 
 // What praying a plan practice prays: its active variant, or itself. A
@@ -130,39 +124,35 @@ export async function completePractice(
  * Refiles completions sitting where Today doesn't look for them while the
  * practice has a slot due that day. A prayer with no tapped row — a Mass
  * check-in — used to land on the practice's first slot whatever its days, or
- * on its namesake when the plan holds it under both its ids, so the Mass was
- * counted and the day's own row stayed open. Each moves to the open due slot;
- * if that row was since ticked by hand, the misfiled one is the same prayer
- * counted twice and is dropped. Run at startup; a no-op once the record is
- * straight.
+ * unslotted beside the plan's own practice, so the Mass was counted and the
+ * day's row stayed open. Each moves to the open due slot; if that row was since
+ * ticked by hand, the misfiled one is the same prayer counted twice and is
+ * dropped. Run at startup; a no-op once the record is straight.
  */
 export async function refileMisplacedCompletions(): Promise<void> {
   const { practices, slots, completions } = useEventStore.getState()
-  // Keyed by bare id, which the practice's two ids share.
-  const enabledByItem = new Map<string, SlotState[]>()
+  const enabledByPractice = new Map<string, SlotState[]>()
   for (const slot of [...slots.values()].sort((a, b) => a.sort_order - b.sort_order)) {
     if (!slot.enabled || practices.get(slot.practice_id)?.archived) continue
-    const item = bareId(slot.practice_id)
-    enabledByItem.set(item, [...(enabledByItem.get(item) ?? []), slot])
+    enabledByPractice.set(slot.practice_id, [
+      ...(enabledByPractice.get(slot.practice_id) ?? []),
+      slot,
+    ])
   }
-  const namesaked = new Set(
-    [...practices.keys()]
-      .filter((id) => bareId(id) !== id && practices.has(bareId(id)))
-      .map(bareId),
-  )
 
-  const byItemDay = new Map<string, Completion[]>()
+  const byPracticeDay = new Map<string, Completion[]>()
   for (const completion of completions.values()) {
-    const item = bareId(completion.practice_id)
-    const enabled = enabledByItem.get(item)
-    if (!enabled || (enabled.length < 2 && !namesaked.has(item))) continue
-    const key = `${item}\n${completion.date}`
-    byItemDay.set(key, [...(byItemDay.get(key) ?? []), completion])
+    if (!enabledByPractice.has(completion.practice_id) || isBackfill(completion)) continue
+    const key = `${completion.practice_id}\n${completion.date}`
+    byPracticeDay.set(key, [...(byPracticeDay.get(key) ?? []), completion])
   }
 
-  for (const day of byItemDay.values()) {
-    const { date } = day[0]
-    const enabled = enabledByItem.get(bareId(day[0].practice_id)) ?? []
+  for (const day of byPracticeDay.values()) {
+    const { practice_id: practiceId, date } = day[0]
+    const enabled = enabledByPractice.get(practiceId) ?? []
+    const slotOf = (c: Completion) => enabled.find((s) => s.id === slotKeyOf(c))
+    // With one slot and every completion on it there is nowhere else to file.
+    if (enabled.length < 2 && day.every(slotOf)) continue
     const due = slotsDueOn(enabled, date)
     if (due.length === 0) continue
     const dueKeys = new Set(due.map((s) => s.id))
@@ -175,17 +165,14 @@ export async function refileMisplacedCompletions(): Promise<void> {
     )
 
     for (const completion of day) {
-      if (isBackfill(completion)) continue
-      const slot = enabled.find((s) => s.id === slotKeyOf(completion))
-      // Unslotted under the namesake, which has no row of its own to fill.
-      const stray = !slot && !enabled.some((s) => s.practice_id === completion.practice_id)
-      if (slot ? dueKeys.has(slot.id) : !stray) continue
+      const slot = slotOf(completion)
+      if (slot && dueKeys.has(slot.id)) continue
       if (slot && parseSchedule(slot.schedule).type === 'holy-days-of-obligation') continue
       const open = due.find((s) => !done.has(s.id))
       if (open) {
         done.add(open.id)
         await moveCompletion(completion.id, open.id)
-      } else if (lastHandTick >= completion.completed_at) {
+      } else if (slot && lastHandTick >= completion.completed_at) {
         await removeCompletion(completion.id)
       }
     }

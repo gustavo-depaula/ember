@@ -41,7 +41,7 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
-import { seedCursors, seedPractices } from '@/db/seed'
+import { canonicalizePracticeIds, seedCursors, seedPractices } from '@/db/seed'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
@@ -180,6 +180,7 @@ export default function RootLayout() {
 
         setBootStatus(i18n.t('boot.almostReady'))
         await Promise.all([seedPractices(), seedCursors()])
+        await canonicalizePracticeIds()
         await refileMisplacedCompletions()
         mark('seeded')
       } catch (err) {

@@ -9,7 +9,6 @@ import { pooledLoad } from '@/lib/async'
 import { fetchHearth } from '@/lib/hearth'
 import { localizeContent } from '@/lib/i18n'
 import {
-  bareId,
   canonicalize,
   ensureManifestBody,
   getCatalog,
@@ -328,17 +327,7 @@ export function findGroupMemberInSet(
 ): string | undefined {
   const group = getAlternativeGroup(qualifiedId)
   if (!group) return undefined
-  // Slot.practice_id is stored as whatever id was passed at creation — bare
-  // when added via AdoptSheet, canonical when added via catalog detail — so
-  // accept either form and return the one that matched, so callers can use the
-  // returned id directly as a Map/Set key.
-  for (const m of group.members) {
-    const canonical = m.manifest.id
-    if (practiceIds.has(canonical)) return canonical
-    const bare = bareId(canonical)
-    if (bare !== canonical && practiceIds.has(bare)) return bare
-  }
-  return undefined
+  return group.members.find((m) => practiceIds.has(m.manifest.id))?.manifest.id
 }
 
 // The flow if loadFlow already fetched it this session; never fetches. Lets a

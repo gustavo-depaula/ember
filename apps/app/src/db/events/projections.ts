@@ -1,5 +1,7 @@
 import type { WritableDraft } from 'immer'
 
+import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
+
 import type { EventStoreState, SlotState } from './state'
 import type { AppEvent } from './types'
 
@@ -57,6 +59,59 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
           removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
           draft.completions.delete(id)
         }
+      }
+      break
+    }
+
+    case 'PracticeMerged': {
+      const { fromId, toId } = event
+      const from = draft.practices.get(fromId)
+      if (!from || fromId === toId) break
+      const slotsOf = (id: string) => [...draft.slots.values()].filter((s) => s.practice_id === id)
+      const kept = slotsOf(toId)
+
+      const to = draft.practices.get(toId)
+      if (to) {
+        // The one the plan was keeping says which form is prayed.
+        const inPlan = !to.archived && kept.some((s) => s.enabled)
+        if (!inPlan && from.active_variant) to.active_variant = from.active_variant
+        if (!from.archived) to.archived = 0
+      } else {
+        from.practice_id = toId
+        draft.practices.set(toId, from)
+      }
+      draft.practices.delete(fromId)
+
+      // A slot whose number the other practice already uses takes the next
+      // free one; its completions follow it.
+      const taken = new Set(kept.map((s) => parseSlotKey(s.id).slotId))
+      const renumbered = new Map<string, string>()
+      for (const slot of slotsOf(fromId)) {
+        const slotId = parseSlotKey(slot.id).slotId
+        const numbers = [...taken].map(Number).filter((n) => !Number.isNaN(n))
+        const newId = taken.has(slotId) ? String(Math.max(0, ...numbers) + 1) : slotId
+        taken.add(newId)
+        renumbered.set(slotId, newId)
+        draft.slots.delete(slot.id)
+        slot.id = composeSlotKey(toId, newId)
+        slot.practice_id = toId
+        draft.slots.set(slot.id, slot)
+      }
+
+      for (const id of draft.completionsByPractice.get(fromId) ?? []) {
+        const completion = draft.completions.get(id)
+        if (!completion) continue
+        removeCompletionFromIndexes(draft, id, completion.date, fromId)
+        completion.practice_id = toId
+        completion.sub_id = renumbered.get(completion.sub_id ?? '') ?? completion.sub_id
+        addCompletionToIndexes(draft, id, completion.date, toId)
+      }
+
+      const cursor = draft.cursors.get(`program/${fromId}`)
+      if (cursor) {
+        draft.cursors.delete(cursor.id)
+        cursor.id = `program/${toId}`
+        if (!draft.cursors.has(cursor.id)) draft.cursors.set(cursor.id, cursor)
       }
       break
     }
