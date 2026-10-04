@@ -10,6 +10,7 @@ import { useSubmitCorrection, useUploadAttachment, useVerifyChurch } from '@/lib
 import { pickCorrectionPhoto } from '../attachments'
 import { ChipButton } from './ChipButton'
 import { SectionLabel } from './SheetType'
+import { useSheetLift } from './sheetLift'
 
 const maxPhotos = 3
 
@@ -23,6 +24,7 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
   const correction = useSubmitCorrection(churchId)
   const upload = useUploadAttachment(churchId)
   const [editing, setEditing] = useState(false)
+  const liftSheet = useSheetLift()
   const [comment, setComment] = useState('')
   const [closed, setClosed] = useState(false)
   const [photos, setPhotos] = useState<{ key: string; uri: string }[]>([])
@@ -103,7 +105,10 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
         )}
         <ChipButton
           label={t('massTimes.suggestEdit')}
-          onPress={() => setEditing((v) => !v)}
+          onPress={() => {
+            liftSheet()
+            setEditing((v) => !v)
+          }}
           selected={editing}
           soft
         />

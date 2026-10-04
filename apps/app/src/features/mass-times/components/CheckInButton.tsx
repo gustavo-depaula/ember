@@ -9,6 +9,7 @@ import type { CheckInKind } from '../checkins'
 import { useCheckInsStore, useChurchAttendance } from '../checkins'
 import { ChipButton } from './ChipButton'
 import { SmallCaps } from './SheetType'
+import { useSheetLift } from './sheetLift'
 
 const kinds: CheckInKind[] = ['mass', 'confession', 'adoration', 'visit']
 
@@ -26,6 +27,7 @@ export function CheckInButton({
   const { t } = useTranslation()
   const theme = useTheme()
   const checkIn = useCheckInsStore((s) => s.checkIn)
+  const liftSheet = useSheetLift()
   const { count, last } = useChurchAttendance(church.id)
 
   const [open, setOpen] = useState(false)
@@ -66,6 +68,7 @@ export function CheckInButton({
       <AnimatedPressable
         onPress={() => {
           void lightTap()
+          liftSheet()
           setOpen(true)
         }}
         accessibilityRole="button"

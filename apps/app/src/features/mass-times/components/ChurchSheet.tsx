@@ -1,7 +1,16 @@
 import { CalendarCheck, ChevronLeft, ChevronRight, Search, X } from 'lucide-react-native'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { BackHandler, FlatList, ScrollView, StyleSheet, View } from 'react-native'
+import {
+  BackHandler,
+  FlatList,
+  Keyboard,
+  Platform,
+  ScrollView,
+  StyleSheet,
+  View,
+} from 'react-native'
+import { KeyboardAwareScrollView } from 'react-native-keyboard-controller'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Skeleton, Typography } from '@/components'
@@ -25,6 +34,7 @@ import type { CameraIdle } from './NativeChurchesMap'
 import { QueryError } from './QueryError'
 import { SavedChurches } from './SavedChurches'
 import { clockFigures, Hairline, SectionLabel } from './SheetType'
+import { SheetLiftContext } from './sheetLift'
 
 type Selected = { id: string; name: string; lat?: number; lng?: number }
 type SheetView = { kind: 'browse' } | { kind: 'detail'; church: Selected } | { kind: 'log' }
@@ -82,6 +92,16 @@ export function ChurchSheet({
     return () => sub.remove()
   }, [inBrowse])
 
+  // Android's keyboard draws over the sheet rather than pushing it, so a field in
+  // the lower half would sit under it. Forms lift the sheet as they open (see
+  // `sheetLift`); this catches a field focused after the sheet was dragged back down.
+  useEffect(() => {
+    if (Platform.OS !== 'android') return
+    const sub = Keyboard.addListener('keyboardDidShow', () => setDetent('full'))
+    return () => sub.remove()
+  }, [])
+  const lift = useCallback(() => setDetent('full'), [])
+
   return (
     <MapSheet
       detent={detent}
@@ -99,7 +119,9 @@ export function ChurchSheet({
       {view.kind === 'detail' ? (
         // Keyed by church so switching pins resets the pane — scroll position and the
         // check-in and feedback forms belong to the church they were opened on.
-        <ChurchDetailPane key={view.church.id} churchId={view.church.id} onBack={browse} />
+        <SheetLiftContext.Provider value={lift}>
+          <ChurchDetailPane key={view.church.id} churchId={view.church.id} onBack={browse} />
+        </SheetLiftContext.Provider>
       ) : view.kind === 'log' ? (
         <LogPane onBack={browse} onSelectChurch={(c) => openDetail({ id: c.id, name: c.name })} />
       ) : (
@@ -123,6 +145,12 @@ export function ChurchSheet({
   )
 }
 
+// On Android the pane scrolls a focused field clear of the keyboard itself; the
+// iOS sheet already moves with the keyboard.
+const PaneScroll = (
+  Platform.OS === 'android' ? KeyboardAwareScrollView : ScrollView
+) as typeof KeyboardAwareScrollView
+
 // Place mode: the full church detail in the sheet, with a back affordance to the browse list.
 function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {
   const insets = useSafeAreaInsets()
@@ -130,8 +158,11 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   return (
     <View style={styles.fill}>
       <SheetPaneHeader onBack={onBack} ruled={scrolled} />
-      <ScrollView
+      <PaneScroll
         nestedScrollEnabled
+        keyboardShouldPersistTaps="handled"
+        // Room under the focused field for the buttons that submit it.
+        bottomOffset={110}
         scrollEventThrottle={32}
         onScroll={(e) => {
           const next = e.nativeEvent.contentOffset.y > 4
@@ -146,7 +177,7 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
         showsVerticalScrollIndicator={false}
       >
         <ChurchDetail churchId={churchId} />
-      </ScrollView>
+      </PaneScroll>
     </View>
   )
 }

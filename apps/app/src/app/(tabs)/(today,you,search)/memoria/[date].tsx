@@ -21,6 +21,8 @@ export default function ChronicleDayScreen() {
   const day = useChronicle()?.dayAt(date)
   const { name, festive } = useDayName(date)
   const checkIns = useCheckInsOn(date)
+  // "10:45 AM" needs more room than "10h45".
+  const timeWidth = i18n.language.startsWith('pt') ? 48 : 68
   const time = (hhmm: string | null) => (hhmm ? formatSlotTime(hhmm, i18n.language) : '')
 
   return (
@@ -86,7 +88,7 @@ export default function ChronicleDayScreen() {
             <YStack width={16} alignItems="center">
               <Bead bead={bead} size={10} />
             </YStack>
-            <Typography width={48} fontSize="$2" tone="muted">
+            <Typography width={timeWidth} fontSize="$2" tone="muted">
               {time(bead.time)}
             </Typography>
             <Typography flex={1} fontSize="$3" numberOfLines={1}>
@@ -124,7 +126,7 @@ export default function ChronicleDayScreen() {
               <YStack width={16} alignItems="center">
                 <ExtraMark size={10} />
               </YStack>
-              <Typography width={48} fontSize="$2" tone="muted">
+              <Typography width={timeWidth} fontSize="$2" tone="muted">
                 {time(format(extra.completedAt, 'HH:mm'))}
               </Typography>
               <Typography flex={1} fontSize="$3">
@@ -157,7 +159,7 @@ export default function ChronicleDayScreen() {
               <YStack width={16} alignItems="center" paddingTop={3}>
                 <Church size={13} color={theme.colorSecondary?.val} />
               </YStack>
-              <Typography width={48} fontSize="$2" tone="muted">
+              <Typography width={timeWidth} fontSize="$2" tone="muted">
                 {time(format(new Date(checkIn.at), 'HH:mm'))}
               </Typography>
               <YStack flex={1}>
