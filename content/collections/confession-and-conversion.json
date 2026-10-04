@@ -142,6 +142,29 @@
 			]
 		},
 		{
+			"id": "penitential-psalms",
+			"title": {
+				"en-US": "Penitential Psalms",
+				"pt-BR": "Salmos Penitenciais"
+			},
+			"description": {
+				"body": {
+					"en-US": "The psalms the Church has always put on the lips of the penitent.",
+					"pt-BR": "Os salmos que a Igreja sempre pôs nos lábios do penitente."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/psalm-50"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/de-profundis"
+				}
+			]
+		},
+		{
 			"id": "to-source",
 			"title": {
 				"en-US": "Coming Soon",
@@ -151,37 +174,12 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Miserere (Psalm 50/51) as a guided practice",
-						"pt-BR": "Miserere (Salmo 50/51) como prática guiada"
-					},
-					"notes": {
-						"en-US": "The great penitential psalm.",
-						"pt-BR": "O grande salmo penitencial."
-					},
-					"proposedKind": "practice",
-					"priority": "high"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "The Seven Penitential Psalms",
 						"pt-BR": "Os Sete Salmos Penitenciais"
 					},
 					"notes": {
 						"en-US": "Pss 6, 31, 37, 50, 101, 129, 142 — together as a Lenten practice.",
 						"pt-BR": "Sl 6, 31, 37, 50, 101, 129, 142 — juntos como prática quaresmal."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "De Profundis (Psalm 129/130) as practice",
-						"pt-BR": "De Profundis (Salmo 129/130) como prática"
-					},
-					"notes": {
-						"en-US": "Cross-list with For the Faithful Departed.",
-						"pt-BR": "Cruzar com Pelos Fiéis Defuntos."
 					},
 					"proposedKind": "practice"
 				},

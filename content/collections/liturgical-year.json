@@ -68,17 +68,8 @@
 					"priority": "high"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Christmas Novena (Dec 16–24)",
-						"pt-BR": "Novena de Natal (16–24 dez)"
-					},
-					"notes": {
-						"en-US": "Including *Vem, ó Salvador* in pt-BR.",
-						"pt-BR": "Incluindo *Vem, ó Salvador*."
-					},
-					"proposedKind": "practice",
-					"priority": "high"
+					"kind": "item",
+					"ref": "practice/christmas-novena"
 				},
 				{
 					"kind": "todo",
@@ -93,28 +84,12 @@
 					"proposedKind": "practice"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Rorate Coeli",
-						"pt-BR": "Rorate Coeli"
-					},
-					"notes": {
-						"en-US": "Advent prose hymn.",
-						"pt-BR": "Hino do Advento."
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/rorate-caeli"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Alma Redemptoris Mater",
-						"pt-BR": "Alma Redemptoris Mater"
-					},
-					"notes": {
-						"en-US": "Marian antiphon for Advent and Christmastide.",
-						"pt-BR": "Antífona mariana do Advento e Tempo do Natal."
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/alma-redemptoris-mater"
 				},
 				{
 					"kind": "todo",
@@ -182,30 +157,6 @@
 						"pt-BR": "Com giz: CMB + o ano."
 					},
 					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Te Deum on the last day of the year",
-						"pt-BR": "Te Deum no último dia do ano"
-					},
-					"notes": {
-						"en-US": "Indulgenced.",
-						"pt-BR": "Indulgenciado."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Veni Creator on the first day of the year",
-						"pt-BR": "Veni Creator no primeiro dia do ano"
-					},
-					"notes": {
-						"en-US": "Indulgenced.",
-						"pt-BR": "Indulgenciado."
-					},
-					"proposedKind": "practice"
 				}
 			]
 		},
@@ -269,13 +220,8 @@
 					"priority": "high"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Miserere (Psalm 50/51) as practice",
-						"pt-BR": "Miserere (Salmo 50/51) como prática"
-					},
-					"proposedKind": "practice",
-					"priority": "high"
+					"kind": "item",
+					"ref": "practice/psalm-50"
 				},
 				{
 					"kind": "todo",
@@ -399,16 +345,8 @@
 					"proposedKind": "practice"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Pange Lingua Gloriosi Corporis (full hymn)",
-						"pt-BR": "Pange Lingua Gloriosi Corporis (hino completo)"
-					},
-					"notes": {
-						"en-US": "Holy Thursday processional.",
-						"pt-BR": "Procissão da Quinta-feira Santa."
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/pange-lingua"
 				},
 				{
 					"kind": "todo",
@@ -436,28 +374,12 @@
 					"proposedKind": "prayer"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Stabat Mater",
-						"pt-BR": "Stabat Mater"
-					},
-					"notes": {
-						"en-US": "Good Friday.",
-						"pt-BR": "Sexta-feira Santa."
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/stabat-mater"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Vexilla Regis",
-						"pt-BR": "Vexilla Regis"
-					},
-					"notes": {
-						"en-US": "Passiontide hymn.",
-						"pt-BR": "Hino do Tempo da Paixão."
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/vexilla-regis"
 				},
 				{
 					"kind": "todo",
@@ -582,21 +504,12 @@
 					]
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Veni Sancte Spiritus (Pentecost Sequence)",
-						"pt-BR": "Veni Sancte Spiritus (Sequência de Pentecostes)"
-					},
-					"proposedKind": "prayer",
-					"priority": "high"
+					"kind": "item",
+					"ref": "practice/veni-sancte-spiritus"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Athanasian Creed (Trinity Sunday)",
-						"pt-BR": "Símbolo Atanasiano (Domingo da Trindade)"
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/athanasian-creed"
 				},
 				{
 					"kind": "todo",
@@ -611,16 +524,8 @@
 					"proposedKind": "practice"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Lauda Sion (Corpus Christi)",
-						"pt-BR": "Lauda Sion (Corpus Christi)"
-					},
-					"notes": {
-						"en-US": "Cross-list with Eucharistic.",
-						"pt-BR": "Cruzar com Eucarístico."
-					},
-					"proposedKind": "prayer"
+					"kind": "item",
+					"ref": "practice/lauda-sion"
 				},
 				{
 					"kind": "todo",

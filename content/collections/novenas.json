@@ -43,6 +43,18 @@
 				{
 					"kind": "item",
 					"ref": "practice/divine-mercy-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/christmas-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/christ-the-king-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/surrender-novena"
 				}
 			]
 		},
@@ -89,6 +101,22 @@
 				{
 					"kind": "item",
 					"ref": "practice/mount-carmel-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-sorrows-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/undoer-of-knots-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-lady-of-lourdes-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-lady-of-fatima-novena"
 				}
 			]
 		},
@@ -118,6 +146,38 @@
 				{
 					"kind": "item",
 					"ref": "practice/st-anthony-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-faustina-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-padre-pio-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-maximilian-kolbe-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-francis-assisi-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-ignatius-loyola-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-augustine-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-monica-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-rita-novena"
 				}
 			]
 		},
@@ -131,6 +191,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/novena-for-the-sick-escriva"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-souls-novena"
 				}
 			]
 		},
@@ -144,52 +208,10 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Christmas Novena (Dec 16–24)",
-						"pt-BR": "Novena de Natal (16–24 dez)"
-					},
-					"proposedKind": "practice",
-					"priority": "high"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Novena of Grace to St. Francis Xavier (Mar 4–12)",
 						"pt-BR": "Novena da Graça a São Francisco Xavier (4–12 mar)"
 					},
 					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Christ the King",
-						"pt-BR": "Novena a Cristo Rei"
-					},
-					"notes": {
-						"en-US": "Last week before the Solemnity.",
-						"pt-BR": "Última semana antes da Solenidade."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Our Lady of Sorrows (Sept 7–15)",
-						"pt-BR": "Novena a Nossa Senhora das Dores (7–15 set)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena for the Faithful Departed (Nov 1–9)",
-						"pt-BR": "Novena de Finados pelos Fiéis Defuntos (1–9 nov)"
-					},
-					"notes": {
-						"en-US": "Cross-list with For the Faithful Departed.",
-						"pt-BR": "Cruzar com Pelos Fiéis Defuntos."
-					},
-					"proposedKind": "practice",
-					"priority": "high"
 				}
 			]
 		},
@@ -215,34 +237,6 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Novena to Our Lady, Undoer of Knots",
-						"pt-BR": "Novena a Nossa Senhora Desatadora dos Nós"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Our Lady of Lourdes (Feb 2–10)",
-						"pt-BR": "Novena a Nossa Senhora de Lourdes (2–10 fev)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Our Lady of Fatima",
-						"pt-BR": "Novena a Nossa Senhora de Fátima"
-					},
-					"notes": {
-						"en-US": "May 5–13, Aug 13–22, Oct 5–13.",
-						"pt-BR": "5–13 mai, 13–22 ago, 5–13 out."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Novena to Our Lady of La Salette",
 						"pt-BR": "Novena a Nossa Senhora de La Salette"
 					},
@@ -260,32 +254,8 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Novena to St. Faustina (Sept 25 – Oct 4)",
-						"pt-BR": "Novena a Santa Faustina (25 set – 4 out)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Pio of Pietrelcina (Sept 14–22)",
-						"pt-BR": "Novena a São Pio de Pietrelcina (14–22 set)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Novena to St. Maria Goretti (Jul 4–12)",
 						"pt-BR": "Novena a Santa Maria Goretti (4–12 jul)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Maximilian Kolbe (Aug 6–14)",
-						"pt-BR": "Novena a São Maximiliano Kolbe (6–14 ago)"
 					},
 					"proposedKind": "practice"
 				},
@@ -308,48 +278,8 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Novena to St. Francis of Assisi (Sept 26 – Oct 4)",
-						"pt-BR": "Novena a São Francisco de Assis (26 set – 4 out)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Novena to St. Dominic",
 						"pt-BR": "Novena a São Domingos"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Ignatius of Loyola (Jul 22–30)",
-						"pt-BR": "Novena a Santo Inácio de Loyola (22–30 jul)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Augustine (Aug 19–27)",
-						"pt-BR": "Novena a Santo Agostinho (19–27 ago)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Monica",
-						"pt-BR": "Novena a Santa Mônica"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Rita of Cascia (May 13–21)",
-						"pt-BR": "Novena a Santa Rita de Cássia (13–21 mai)"
 					},
 					"proposedKind": "practice"
 				},
@@ -370,19 +300,6 @@
 				"pt-BR": "Em Breve — Para Necessidades Específicas"
 			},
 			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Surrender Novena (Fr. Dolindo)",
-						"pt-BR": "Novena do Abandono (Pe. Dolindo)"
-					},
-					"notes": {
-						"en-US": "*Jesus, You take over!*",
-						"pt-BR": "*Jesus, Tu pensas em mim!*"
-					},
-					"proposedKind": "practice",
-					"priority": "high"
-				},
 				{
 					"kind": "todo",
 					"title": {

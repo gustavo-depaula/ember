@@ -137,6 +137,10 @@
 					"ref": "practice/nicene-creed"
 				},
 				{
+					"kind": "item",
+					"ref": "practice/athanasian-creed"
+				},
+				{
 					"kind": "section",
 					"id": "acts",
 					"title": {
@@ -366,6 +370,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/opening-verse"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/veni-sancte-spiritus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/divine-praises"
 				}
 			]
 		},
@@ -664,6 +676,10 @@
 				{
 					"kind": "item",
 					"ref": "book/trent-catechism"
+				},
+				{
+					"kind": "item",
+					"ref": "book/kempis-imitation-of-christ"
 				}
 			]
 		},
@@ -677,26 +693,6 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Athanasian Creed (Quicumque vult)",
-						"pt-BR": "Símbolo Atanasiano (Quicumque vult)"
-					},
-					"notes": {
-						"en-US": "The third great creed of the Western Church.",
-						"pt-BR": "O terceiro grande símbolo da Igreja do Ocidente."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Veni Sancte Spiritus (Pentecost sequence)",
-						"pt-BR": "Veni Sancte Spiritus (sequência de Pentecostes)"
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Seven Penitential Psalms",
 						"pt-BR": "Sete Salmos Penitenciais"
 					},
@@ -705,18 +701,6 @@
 						"pt-BR": "Cruzar com Confissão e Conversão."
 					},
 					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "The Divine Praises",
-						"pt-BR": "Os Louvores Divinos"
-					},
-					"notes": {
-						"en-US": "*Blessed be God, blessed be His Holy Name…*",
-						"pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…*"
-					},
-					"proposedKind": "prayer"
 				}
 			]
 		},
@@ -894,18 +878,6 @@
 					"notes": {
 						"en-US": "License-permitting.",
 						"pt-BR": "Se a licença permitir."
-					},
-					"proposedKind": "book"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Imitation of Christ as a daily reader",
-						"pt-BR": "Imitação de Cristo como leitor diário"
-					},
-					"notes": {
-						"en-US": "Already in Spiritual Classics; cross-list here as the everyday devotional book.",
-						"pt-BR": "Já em Clássicos Espirituais; cruzar aqui como leitor devocional diário."
 					},
 					"proposedKind": "book"
 				}

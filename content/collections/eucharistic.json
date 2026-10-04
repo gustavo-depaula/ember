@@ -118,6 +118,10 @@
 					"seeAlso": [
 						"collection/divine-mercy"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/divine-praises"
 				}
 			]
 		},
@@ -269,18 +273,6 @@
 						"pt-BR": "Rubricas, orações e cantos."
 					},
 					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "The Divine Praises",
-						"pt-BR": "Os Louvores Divinos"
-					},
-					"notes": {
-						"en-US": "*Blessed be God, blessed be His Holy Name…* — prayed at Benediction.",
-						"pt-BR": "*Bendito seja Deus, bendito seja o Seu Santo Nome…* — rezados na Bênção."
-					},
-					"proposedKind": "prayer"
 				},
 				{
 					"kind": "todo",

@@ -195,6 +195,33 @@
 			]
 		},
 		{
+			"id": "marian-hymns",
+			"title": {
+				"en-US": "Marian Hymns",
+				"pt-BR": "Hinos Marianos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The Church's songs to the Mother of God, East and West.",
+					"pt-BR": "Os cantos da Igreja à Mãe de Deus, do Oriente e do Ocidente."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/ave-maris-stella"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/stabat-mater"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary"
+				}
+			]
+		},
+		{
 			"id": "litany",
 			"title": {
 				"en-US": "Litany of Loreto",
@@ -288,6 +315,22 @@
 						"collection/novenas",
 						"collection/carmelite"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/undoer-of-knots-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-sorrows-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-lady-of-lourdes-novena"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/our-lady-of-fatima-novena"
 				}
 			]
 		},
@@ -338,18 +381,6 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Akathist Hymn to the Theotokos",
-						"pt-BR": "Hino Acatisto à Theotokos"
-					},
-					"notes": {
-						"en-US": "Great Byzantine Marian hymn — also prayed in the Latin tradition.",
-						"pt-BR": "Grande hino mariano bizantino — também rezado na tradição latina."
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Brown Scapular: enrollment, Promise, Sabbatine Privilege",
 						"pt-BR": "Escapulário do Carmo: imposição, Promessa, Privilégio Sabatino"
 					},
@@ -378,34 +409,6 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Novena to Our Lady, Undoer of Knots",
-						"pt-BR": "Novena a Nossa Senhora Desatadora dos Nós"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Our Lady of Sorrows (Sept 7–15)",
-						"pt-BR": "Novena a Nossa Senhora das Dores (7–15 set)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Stabat Mater Dolorosa",
-						"pt-BR": "Stabat Mater Dolorosa"
-					},
-					"notes": {
-						"en-US": "Cross-list with Way of the Cross.",
-						"pt-BR": "Cruzar com Via Sacra."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Holy Slavery of Love (Olier / Bossuet form)",
 						"pt-BR": "Santa Escravidão do Amor (forma de Olier / Bossuet)"
 					},
@@ -428,26 +431,6 @@
 					"title": {
 						"en-US": "October Rosary daily reflection guide",
 						"pt-BR": "Guia diário de outubro (Rosário)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Our Lady of Lourdes (Feb 2–11)",
-						"pt-BR": "Novena a Nossa Senhora de Lourdes (2–11 fev)"
-					},
-					"proposedKind": "practice"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to Our Lady of Fatima",
-						"pt-BR": "Novena a Nossa Senhora de Fátima"
-					},
-					"notes": {
-						"en-US": "Three traditional dates: May 5–13, Aug 13–22, Oct 5–13.",
-						"pt-BR": "Três datas tradicionais: 5–13 mai, 13–22 ago, 5–13 out."
 					},
 					"proposedKind": "practice"
 				},

@@ -38,8 +38,8 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "*Veni Creator Spiritus* — the ninth-century hymn — and *Come Holy Spirit*, the simpler invocation. **TODO source:** *Veni Sancte Spiritus*, the Pentecost sequence (\"Golden Sequence\").",
-					"pt-BR": "*Veni Creator Spiritus* — o hino do século nono — e *Vinde, Espírito Santo*, a invocação mais simples. **A incluir:** *Veni Sancte Spiritus*, a sequência de Pentecostes (\"Sequência Áurea\")."
+					"en-US": "*Veni Creator Spiritus* — the ninth-century hymn; *Veni Sancte Spiritus*, the Golden Sequence of Pentecost; and *Come Holy Spirit*, the simpler invocation.",
+					"pt-BR": "*Veni Creator Spiritus* — o hino do século nono; *Veni Sancte Spiritus*, a Sequência Áurea de Pentecostes; e *Vinde, Espírito Santo*, a invocação mais simples."
 				}
 			},
 			"blocks": [
@@ -49,26 +49,11 @@
 				},
 				{
 					"kind": "item",
-					"ref": "practice/come-holy-spirit"
-				}
-			]
-		},
-		{
-			"id": "practices",
-			"title": {
-				"en-US": "Practices",
-				"pt-BR": "Práticas"
-			},
-			"description": {
-				"body": {
-					"en-US": "Brief acts of invocation — for the start of a day, a study, or a discernment.",
-					"pt-BR": "Breves atos de invocação — para o início de um dia, de um estudo, de um discernimento."
-				}
-			},
-			"blocks": [
+					"ref": "practice/veni-sancte-spiritus"
+				},
 				{
 					"kind": "item",
-					"ref": "practice/veni-creator"
+					"ref": "practice/come-holy-spirit"
 				}
 			]
 		},
@@ -128,18 +113,6 @@
 				{
 					"kind": "item",
 					"ref": "chapter/gifts-and-fruits-of-the-holy-spirit"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Veni Sancte Spiritus (Golden Sequence)",
-						"pt-BR": "Veni Sancte Spiritus (Sequência Áurea)"
-					},
-					"notes": {
-						"en-US": "Stephen Langton, the Pentecost sequence. Full text with chant.",
-						"pt-BR": "Estêvão Langton, a sequência de Pentecostes. Texto completo com canto."
-					},
-					"proposedKind": "prayer"
 				},
 				{
 					"kind": "todo",

@@ -71,6 +71,10 @@
 					"seeAlso": [
 						"collection/novenas"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/st-faustina-novena"
 				}
 			]
 		},
@@ -175,14 +179,6 @@
 						"pt-BR": "O Caderno 6 contém as orações de Faustina mais rezadas."
 					},
 					"proposedKind": "book"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena to St. Faustina (Sept 25 – Oct 4)",
-						"pt-BR": "Novena a Santa Faustina (25 set – 4 out)"
-					},
-					"proposedKind": "practice"
 				},
 				{
 					"kind": "todo",

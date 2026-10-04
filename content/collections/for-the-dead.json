@@ -54,6 +54,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/st-gertrude-souls"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/holy-souls-novena"
 				}
 			]
 		},
@@ -102,15 +106,6 @@
 				"pt-BR": "Em Breve"
 			},
 			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Novena for the Faithful Departed (Nov 1–9)",
-						"pt-BR": "Novena pelos Fiéis Defuntos (1–9 nov)"
-					},
-					"proposedKind": "practice",
-					"priority": "high"
-				},
 				{
 					"kind": "todo",
 					"title": {

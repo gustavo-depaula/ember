@@ -111,6 +111,29 @@
 					"seeAlso": [
 						"collection/marian"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/stabat-mater"
+				}
+			]
+		},
+		{
+			"id": "hymns-of-the-cross",
+			"title": {
+				"en-US": "Hymns of the Cross",
+				"pt-BR": "Hinos da Cruz"
+			},
+			"description": {
+				"body": {
+					"en-US": "What the Church sings before the wood of the Cross.",
+					"pt-BR": "O que a Igreja canta diante do lenho da Cruz."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/vexilla-regis"
 				}
 			]
 		},
@@ -122,8 +145,8 @@
 			},
 			"description": {
 				"body": {
-					"en-US": "The Way of the Cross as preached by St. Alphonsus Liguori. **TODO source:** *Stabat Mater* prayer; Improperia (Good Friday Reproaches); chapter on the history and variants of the Stations.",
-					"pt-BR": "A Via Sacra pregada por Santo Afonso de Ligório. **A incluir:** *Stabat Mater*; Improperia (Reprovações da Sexta-feira Santa); capítulo sobre a história e variantes das Estações."
+					"en-US": "The Way of the Cross as preached by St. Alphonsus Liguori. **TODO source:** Improperia (Good Friday Reproaches); chapter on the history and variants of the Stations.",
+					"pt-BR": "A Via Sacra pregada por Santo Afonso de Ligório. **A incluir:** Improperia (Reprovações da Sexta-feira Santa); capítulo sobre a história e variantes das Estações."
 				}
 			},
 			"defaultCollapsed": true,
@@ -154,36 +177,12 @@
 				{
 					"kind": "todo",
 					"title": {
-						"en-US": "Stabat Mater Dolorosa",
-						"pt-BR": "Stabat Mater Dolorosa"
-					},
-					"notes": {
-						"en-US": "Jacopone da Todi — the great Marian hymn at the foot of the Cross.",
-						"pt-BR": "Jacopone da Todi — o grande hino mariano ao pé da Cruz."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
 						"en-US": "Improperia (the Reproaches)",
 						"pt-BR": "Improperia (as Reprovações)"
 					},
 					"notes": {
 						"en-US": "Good Friday Adoration of the Cross.",
 						"pt-BR": "Adoração da Cruz na Sexta-feira Santa."
-					},
-					"proposedKind": "prayer"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Vexilla Regis Prodeunt",
-						"pt-BR": "Vexilla Regis Prodeunt"
-					},
-					"notes": {
-						"en-US": "Venantius Fortunatus — Passiontide hymn.",
-						"pt-BR": "Venâncio Fortunato — hino do Tempo da Paixão."
 					},
 					"proposedKind": "prayer"
 				},
