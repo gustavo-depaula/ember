@@ -83,7 +83,7 @@ describe('pray now: which practice', () => {
     // Opus Dei: offering 06:30, Mass 07:00, mental prayer 07:30 — all essential.
     expect(pick('opus-dei', '08:25').ref).toBe('morning-offering-opus-dei')
     expect(pick('opus-dei', '08:35').ref).toBe('mass')
-    expect(pick('opus-dei', '09:05').ref).toBe('mental-prayer')
+    expect(pick('opus-dei', '09:05').ref).toBe('mental-prayer-opus-dei')
     // An ideal still gives way when the next practice comes due: the
     // Carmelite offering (05:50) yields to mental prayer at 06:00.
     expect(pick('carmelite', '06:05').ref).toBe('mental-prayer-teresian')
