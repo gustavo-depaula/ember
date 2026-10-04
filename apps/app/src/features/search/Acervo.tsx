@@ -106,7 +106,6 @@ function Door({
         <XStack
           height={doorHeight}
           borderRadius={16}
-          overflow="hidden"
           alignItems="center"
           backgroundColor="$backgroundSurface"
         >
