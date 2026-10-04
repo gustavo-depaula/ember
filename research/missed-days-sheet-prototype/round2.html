@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8" />
+<title>Missed-days sheet — alternatives</title>
+<style>
+  @font-face { font-family: Cinzel; src: url(fonts/Cinzel_400Regular.ttf); }
+  @font-face { font-family: Garamond; src: url(fonts/EBGaramond_400Regular.ttf); }
+  @font-face { font-family: Garamond; font-style: italic; src: url(fonts/EBGaramond_400Regular_Italic.ttf); }
+  @font-face { font-family: Junicode; font-style: italic; src: url(fonts/Junicode-Italic.ttf); }
+  :root {
+    --bg: #0e0d0c; --ink: #ede4d8; --muted: #a89a8c; --accent: #d4a63a;
+    --accentSubtle: #6e5c32; --border: #5c5248;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: #1b1917; padding: 40px; font-family: Garamond, serif; color: var(--ink); }
+  .row { display: flex; gap: 40px; align-items: flex-start; }
+  .col { width: 430px; }
+  .col > h2 { font: 400 15px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; }
+  .col > p { color: var(--muted); font-size: 16px; line-height: 22px; height: 76px; padding-top: 6px; }
+  .phone { width: 430px; height: 932px; border-radius: 44px; overflow: hidden; position: relative; background: #050505; }
+  .phone img { width: 430px; display: block; }
+  .sheet {
+    position: absolute; left: 0; right: 0; bottom: 0; background: var(--bg);
+    border-radius: 38px 38px 0 0; padding: 32px 24px 58px;
+  }
+  .sheet::before {
+    content: ''; position: absolute; top: 6px; left: 50%; width: 36px; height: 5px;
+    margin-left: -18px; border-radius: 3px; background: #6a6662;
+  }
+  /* The part of Today the shorter sheet uncovers isn't in the screenshot. */
+  .veil { position: absolute; left: 0; right: 0; top: 400px; bottom: 0; background: linear-gradient(#080e0a, #0a0908 30%); }
+  .label { font: 400 13px/18px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+  .title { font: italic 400 38px/46px Junicode; }
+  .body { font-size: 19px; line-height: 27px; color: var(--muted); }
+  .whisper { font-size: 16px; line-height: 23px; font-style: italic; color: var(--muted); }
+  .btn {
+    font: 400 15px/20px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;
+    padding: 16px; border-radius: 8px; background: var(--accent); color: var(--bg);
+  }
+  .btn.outline { background: none; border: 1px solid var(--accentSubtle); color: var(--accent); }
+  .link { font-size: 19px; line-height: 27px; min-height: 48px; display: flex; align-items: center; }
+  .rule { height: 0.5px; background: var(--border); }
+  .center { text-align: center; }
+  .center .link { justify-content: center; }
+  .fleuron { display: flex; align-items: center; gap: 16px; color: var(--accent); font-size: 19px; }
+  .fleuron i { flex: 1; height: 0.5px; background: var(--accentSubtle); }
+  .between { justify-content: space-between; }
+  .strip { display: flex; justify-content: space-between; padding: 16px 0; border-bottom: 0.5px solid var(--border); }
+  .cell { width: 34px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .cell b { font: 400 10px/14px Cinzel; letter-spacing: 1px; color: var(--muted); }
+  .cell u { text-decoration: none; height: 26px; line-height: 26px; }
+  .cell s { text-decoration: none; font-size: 16px; line-height: 23px; color: var(--muted); }
+  .star { font-size: 18px; color: var(--accent); } .ring { font-size: 10px; color: var(--muted); }
+  .dot { font-size: 4px; color: #2a2320; }
+  .check { width: 24px; height: 24px; border-radius: 12px; border: 1px solid var(--border); flex: none; }
+  .tick { display: flex; align-items: center; gap: 16px; padding: 16px 4px; }
+  .tick div { font-size: 21px; line-height: 30px; }
+  .tick small { display: block; font-size: 16px; line-height: 23px; color: var(--muted); }
+  .pair { display: flex; gap: 8px; } .pair .btn { flex: 1; letter-spacing: 1px; white-space: nowrap; padding: 16px 4px; }
+  .btn.plain { background: none; border: 1px solid var(--border); color: var(--ink); }
+</style>
+
+<div class="row"><div class="col"><h2>Atual</h2><p>For reference.</p><div class="phone"><img src="current.jpg" /></div></div><div class="col"><h2>D · A lacuna na fileira</h2><p>The program page's row of stars shows the gap. "Rezei e não registrei" becomes the Today checklist's own tick on the missed day; restart is the outlined button.</p><div class="phone"><img src="today-backdrop.jpg" /><div class="veil"></div><div class="sheet "><div class="label">Nove Primeiras Sextas-feiras</div><div class="title" style="padding-top:4px">Um dia perdido</div><div class="strip"><div class="cell"><b>JUL</b><u class="star">✦</u><s>3</s></div><div class="cell"><b>AGO</b><u class="star">✦</u><s>7</s></div><div class="cell"><b>SET</b><u class="star">✦</u><s>4</s></div><div class="cell"><b>OUT</b><u class="ring">○</u><s style='color:var(--ink)'>2</s></div><div class="cell"><b>NOV</b><u class="dot">●</u><s>6</s></div><div class="cell"><b>DEZ</b><u class="dot">●</u><s>4</s></div><div class="cell"><b>JAN</b><u class="dot">●</u><s>1</s></div><div class="cell"><b>FEV</b><u class="dot">●</u><s>5</s></div><div class="cell"><b>MAR</b><u class="dot">●</u><s>5</s></div></div><div class="tick"><span class="check"></span><div>Sexta-feira, 2 de outubro<small>Rezei nesse dia e não registrei</small></div></div><div class="rule"></div><div class="btn outline" style="margin-top:20px">Recomeçar do dia I</div><div class="whisper center" style="padding-top:8px">o dia I cai em 6 de novembro</div><div class="link" style="color:var(--muted);justify-content:center;margin-top:4px">Ver o programa ›</div></div></div></div><div class="col"><h2>E · Duas respostas</h2><p>The confirm sheet's idiom: two buttons side by side, so both read as answers. No star row.</p><div class="phone"><img src="today-backdrop.jpg" /><div class="veil"></div><div class="sheet "><div class="label">Nove Primeiras Sextas-feiras</div><div class="title" style="padding-top:4px">Um dia perdido</div><div class="body" style="padding-top:8px">O dia 2 de outubro passou sem ser rezado.</div><div class="pair" style="margin-top:24px"><div class="btn plain">Rezei nesse dia</div><div class="btn">Recomeçar</div></div><div class="whisper" style="padding-top:8px;text-align:right">do dia I, em 6 de novembro</div><div class="link" style="color:var(--muted);margin-top:4px">Ver o programa ›</div></div></div></div><div class="col"><h2>F · Uma pergunta</h2><p>The sheet asks instead of announcing; the star row shows what is at stake, and the two buttons are the two answers.</p><div class="phone"><img src="today-backdrop.jpg" /><div class="veil"></div><div class="sheet center"><div class="label">Nove Primeiras Sextas-feiras</div><div class="title" style="padding-top:8px;font-size:30px;line-height:38px">Rezou na sexta, 2 de outubro?</div><div class="strip"><div class="cell"><b>JUL</b><u class="star">✦</u><s>3</s></div><div class="cell"><b>AGO</b><u class="star">✦</u><s>7</s></div><div class="cell"><b>SET</b><u class="star">✦</u><s>4</s></div><div class="cell"><b>OUT</b><u class="ring">○</u><s style='color:var(--ink)'>2</s></div><div class="cell"><b>NOV</b><u class="dot">●</u><s>6</s></div><div class="cell"><b>DEZ</b><u class="dot">●</u><s>4</s></div><div class="cell"><b>JAN</b><u class="dot">●</u><s>1</s></div><div class="cell"><b>FEV</b><u class="dot">●</u><s>5</s></div><div class="cell"><b>MAR</b><u class="dot">●</u><s>5</s></div></div><div class="pair" style="margin-top:24px"><div class="btn plain">Não, recomeçar</div><div class="btn">Sim, rezei</div></div><div class="whisper" style="padding-top:8px;text-align:left">recomeçando, o dia I cai em 6 de novembro</div><div class="link" style="color:var(--muted);margin-top:4px">Ver o programa ›</div></div></div></div></div></html>
