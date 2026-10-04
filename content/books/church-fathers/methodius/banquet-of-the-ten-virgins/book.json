@@ -2,13 +2,16 @@
   "id": "methodius-banquet-of-the-ten-virgins",
   "cover": "quarter",
   "name": {
-    "en-US": "The Banquet of the Ten Virgins"
+    "en-US": "The Banquet of the Ten Virgins",
+    "pt-BR": "O Banquete das Dez Virgens"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,73 +24,85 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Introduction"
+        "en-US": "Introduction",
+        "pt-BR": "Introdução"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Discourse I"
+        "en-US": "Discourse I",
+        "pt-BR": "Discurso I"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Discourse II"
+        "en-US": "Discourse II",
+        "pt-BR": "Discurso II"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Discourse III"
+        "en-US": "Discourse III",
+        "pt-BR": "Discurso III"
       }
     },
     {
       "id": "ch005",
       "title": {
-        "en-US": "Discourse IV"
+        "en-US": "Discourse IV",
+        "pt-BR": "Discurso IV"
       }
     },
     {
       "id": "ch006",
       "title": {
-        "en-US": "Discourse V"
+        "en-US": "Discourse V",
+        "pt-BR": "Discurso V"
       }
     },
     {
       "id": "ch007",
       "title": {
-        "en-US": "Discourse VI"
+        "en-US": "Discourse VI",
+        "pt-BR": "Discurso VI"
       }
     },
     {
       "id": "ch008",
       "title": {
-        "en-US": "Discourse VII"
+        "en-US": "Discourse VII",
+        "pt-BR": "Discurso VII"
       }
     },
     {
       "id": "ch009",
       "title": {
-        "en-US": "Discourse VIII"
+        "en-US": "Discourse VIII",
+        "pt-BR": "Discurso VIII"
       }
     },
     {
       "id": "ch010",
       "title": {
-        "en-US": "Discourse IX"
+        "en-US": "Discourse IX",
+        "pt-BR": "Discurso IX"
       }
     },
     {
       "id": "ch011",
       "title": {
-        "en-US": "Discourse X"
+        "en-US": "Discourse X",
+        "pt-BR": "Discurso X"
       }
     },
     {
       "id": "ch012",
       "title": {
-        "en-US": "Discourse XI"
+        "en-US": "Discourse XI",
+        "pt-BR": "Discurso XI"
       }
     }
   ]
