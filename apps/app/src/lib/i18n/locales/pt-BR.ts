@@ -1822,6 +1822,7 @@ export default {
     photoUploading: 'Enviando…',
     checkIn: 'Fazer check-in',
     checkedIn: 'Check-in feito',
+    saveFailed: 'Não foi possível salvar. Tente de novo.',
     checkInPrompt: 'O que você veio fazer aqui?',
     checkInNotePlaceholder: 'Adicionar uma nota (opcional)',
     checkInMassHint: 'Também marca a Missa de hoje como concluída no seu plano de vida.',

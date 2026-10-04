@@ -35,9 +35,22 @@ export function CheckInButton({
   const [note, setNote] = useState('')
   const [justChecked, setJustChecked] = useState<CheckInKind | undefined>(undefined)
 
-  const confirm = () => {
+  const [saving, setSaving] = useState(false)
+  const [failed, setFailed] = useState(false)
+
+  const confirm = async () => {
+    setSaving(true)
+    setFailed(false)
+    try {
+      await checkIn(church, { kind, note })
+    } catch {
+      // The form stays as it was, so trying again is one tap.
+      setFailed(true)
+      return
+    } finally {
+      setSaving(false)
+    }
     void successBuzz()
-    checkIn(church, { kind, note })
     setJustChecked(kind)
     setOpen(false)
     setNote('')
@@ -131,8 +144,18 @@ export function CheckInButton({
             {t('massTimes.checkInMassHint')}
           </Typography>
         ) : null}
+        {failed ? (
+          <Typography variant="reference" color="$colorBurgundy">
+            {t('massTimes.saveFailed')}
+          </Typography>
+        ) : null}
         <XStack gap="$sm">
-          <ChipButton label={t('massTimes.checkInConfirm')} selected onPress={confirm} />
+          <ChipButton
+            label={t('massTimes.checkInConfirm')}
+            selected
+            onPress={() => void confirm()}
+            disabled={saving}
+          />
           <ChipButton label={t('massTimes.cancel')} onPress={() => setOpen(false)} />
         </XStack>
       </YStack>

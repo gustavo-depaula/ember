@@ -1,5 +1,6 @@
 import { Heart } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
+import { Alert } from 'react-native'
 import { useTheme } from 'tamagui'
 import { AnimatedPressable } from '@/components'
 import { selectionTick } from '@/lib/haptics'
@@ -17,7 +18,7 @@ export function FavoriteButton({ church, size = 22 }: { church: FavoriteChurch; 
     <AnimatedPressable
       onPress={() => {
         void selectionTick()
-        toggle(church)
+        toggle(church).catch(() => Alert.alert(t('massTimes.saveFailed')))
       }}
       hitSlop={10}
       accessibilityRole="button"

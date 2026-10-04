@@ -19,7 +19,8 @@ export type FavoriteChurch = {
 type FavoritesState = {
   favorites: Record<string, FavoriteChurch>
   hydrated: boolean
-  toggle: (church: FavoriteChurch) => void
+  /** Rejects, leaving the list as it was, when the change could not be saved. */
+  toggle: (church: FavoriteChurch) => Promise<void>
   hydrate: () => Promise<void>
 }
 
@@ -28,12 +29,13 @@ export const useFavoritesStore = create<FavoritesState>()(
     favorites: {},
     hydrated: false,
 
-    toggle: (church) => {
+    toggle: async (church) => {
+      const { [church.id]: saved, ...others } = get().favorites
+      const next = saved ? others : { ...others, [church.id]: church }
+      await saveJson(storageKey, next)
       set((state) => {
-        if (state.favorites[church.id]) delete state.favorites[church.id]
-        else state.favorites[church.id] = church
+        state.favorites = next
       })
-      void saveJson(storageKey, get().favorites)
     },
 
     hydrate: async () => {

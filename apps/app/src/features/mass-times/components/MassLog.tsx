@@ -1,6 +1,6 @@
 import { Trash2 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { FlatList } from 'react-native'
+import { Alert, FlatList } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 import { mediumTap } from '@/lib/haptics'
@@ -41,7 +41,9 @@ export function MassLog({
             item={item}
             locale={i18n.language}
             onPress={() => onSelectChurch({ id: item.churchId, name: item.churchName })}
-            onRemove={() => remove(item.id)}
+            onRemove={() => {
+              remove(item.id).catch(() => Alert.alert(t('massTimes.saveFailed')))
+            }}
           />
         </AnimatedRow>
       )}

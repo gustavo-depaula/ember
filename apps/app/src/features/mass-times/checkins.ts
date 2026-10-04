@@ -6,7 +6,7 @@ import { useShallow } from 'zustand/react/shallow'
 import { completePractice } from '@/features/plan-of-life'
 import { getToday } from '@/hooks/useToday'
 import { randomId } from '@/lib/id'
-import { loadJson, saveJson } from './persisted'
+import { loadJson, saveJson, withRetry } from './persisted'
 
 // A personal, on-device log of church check-ins — visits you record while you're there (a quiet
 // devotional record, not a leaderboard). A check-in names what you were there for; a Mass check-in
@@ -29,12 +29,13 @@ export type CheckIn = {
 type CheckInsState = {
   checkins: CheckIn[]
   hydrated: boolean
+  /** Both reject, leaving the log as it was, when the change could not be saved. */
   checkIn: (
     church: { id: string; name: string },
     details: { kind: CheckInKind; note?: string },
     at?: Date,
-  ) => void
-  remove: (id: string) => void
+  ) => Promise<void>
+  remove: (id: string) => Promise<void>
   hydrate: () => Promise<void>
 }
 
@@ -43,32 +44,44 @@ export const useCheckInsStore = create<CheckInsState>()(
     checkins: [],
     hydrated: false,
 
-    checkIn: (church, details, at = new Date()) => {
-      set((state) => {
-        state.checkins.unshift({
-          id: randomId(),
-          churchId: church.id,
-          churchName: church.name,
-          kind: details.kind,
-          note: details.note?.trim() || undefined,
-          at: at.toISOString(),
-        })
-      })
-      void saveJson(storageKey, get().checkins)
+    // The log changes on screen only once it is on disk: a check-in that shows
+    // and then is gone after a restart is worse than one that says it failed.
+    checkIn: async (church, details, at = new Date()) => {
+      const entry: CheckIn = {
+        id: randomId(),
+        churchId: church.id,
+        churchName: church.name,
+        kind: details.kind,
+        note: details.note?.trim() || undefined,
+        at: at.toISOString(),
+      }
+      const before = get().checkins
+      await saveJson(storageKey, [entry, ...before])
       // A Mass check-in IS a completion of the "mass" practice — record it so it flows into the plan
       // of life / streaks rather than being a parallel tally. (Domain rule lives here, not the UI.)
       if (details.kind === 'mass') {
-        void completePractice('mass', format(getToday(), 'yyyy-MM-dd'), { via: 'checkin' }).catch(
-          (err) => console.warn('[mass-times] could not log Mass completion', err),
-        )
+        try {
+          await withRetry(() =>
+            completePractice('mass', format(getToday(), 'yyyy-MM-dd'), { via: 'checkin' }),
+          )
+        } catch (err) {
+          await saveJson(storageKey, before)
+          throw err
+        }
       }
+      set((state) => {
+        state.checkins.unshift(entry)
+      })
     },
 
-    remove: (id) => {
+    remove: async (id) => {
+      await saveJson(
+        storageKey,
+        get().checkins.filter((c) => c.id !== id),
+      )
       set((state) => {
         state.checkins = state.checkins.filter((c) => c.id !== id)
       })
-      void saveJson(storageKey, get().checkins)
     },
 
     hydrate: async () => {

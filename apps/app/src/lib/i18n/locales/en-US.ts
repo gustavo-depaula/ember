@@ -1814,6 +1814,7 @@ export default {
     photoUploading: 'Uploading…',
     checkIn: 'Check in here',
     checkedIn: 'Checked in',
+    saveFailed: 'That could not be saved. Try again.',
     checkInPrompt: 'What were you here for?',
     checkInNotePlaceholder: 'Add a note (optional)',
     checkInMassHint: 'Also marks today’s Mass complete in your plan of life.',
