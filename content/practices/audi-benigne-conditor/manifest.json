@@ -1,0 +1,48 @@
+{
+	"id": "audi-benigne-conditor",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Audi, benigne Conditor",
+		"pt-BR": "Audi, benigne Conditor",
+		"la": "Audi, benigne Conditor"
+	},
+	"categories": [
+		"penance",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Hear, kind Creator, our prayers* — the Vespers hymn of Lent, poured out with tears in the forty days' fast.",
+		"pt-BR": "*Ouvi, benigno Criador, as nossas preces* — o hino de Vésperas da Quaresma, derramado com lágrimas no jejum dos quarenta dias."
+	},
+	"history": {
+		"en-US": "Traditionally attributed to St. Gregory the Great (d. 604).",
+		"pt-BR": "Tradicionalmente atribuído a São Gregório Magno (†604)."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"lent",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 459,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

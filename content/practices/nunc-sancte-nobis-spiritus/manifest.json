@@ -1,0 +1,48 @@
+{
+	"id": "nunc-sancte-nobis-spiritus",
+	"form": "prayer",
+	"icon": "flame",
+	"name": {
+		"en-US": "Nunc, Sancte, nobis, Spiritus",
+		"pt-BR": "Nunc, Sancte, nobis, Spiritus",
+		"la": "Nunc, Sancte, nobis, Spiritus"
+	},
+	"categories": [
+		"daily",
+		"holy-spirit",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Come now, Holy Spirit* — the hymn of Terce, the third hour, when the Spirit came down upon the Apostles.",
+		"pt-BR": "*Vinde agora, Espírito Santo* — o hino de Terça, a hora terceira, quando o Espírito desceu sobre os Apóstolos."
+	},
+	"history": {
+		"en-US": "Traditionally attributed to St. Ambrose. Sung every day at Terce in the Roman Breviary.",
+		"pt-BR": "Tradicionalmente atribuído a Santo Ambrósio. Cantado todos os dias na hora de Terça do Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"terce",
+		"holy-spirit"
+	],
+	"defaults": {
+		"sortOrder": 471,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

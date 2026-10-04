@@ -1,0 +1,48 @@
+{
+	"id": "sanctorum-meritis",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Sanctorum meritis",
+		"pt-BR": "Sanctorum meritis",
+		"la": "Sanctorum meritis"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*The glorious joys won by the Saints* — the Vespers hymn of Many Martyrs, the noblest race of conquerors.",
+		"pt-BR": "*As ínclitas alegrias merecidas pelos Santos* — o hino de Vésperas de Vários Mártires, a mais nobre estirpe de vencedores."
+	},
+	"history": {
+		"en-US": "An ancient hymn from the Common of Many Martyrs in the Roman Breviary.",
+		"pt-BR": "Hino antigo, do Comum de Vários Mártires no Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"martyrs",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 482,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

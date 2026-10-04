@@ -161,6 +161,10 @@
 				{
 					"kind": "item",
 					"ref": "practice/de-profundis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-penitential-psalms"
 				}
 			]
 		},
@@ -171,18 +175,6 @@
 				"pt-BR": "Em Breve"
 			},
 			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "The Seven Penitential Psalms",
-						"pt-BR": "Os Sete Salmos Penitenciais"
-					},
-					"notes": {
-						"en-US": "Pss 6, 31, 37, 50, 101, 129, 142 — together as a Lenten practice.",
-						"pt-BR": "Sl 6, 31, 37, 50, 101, 129, 142 — juntos como prática quaresmal."
-					},
-					"proposedKind": "practice"
-				},
 				{
 					"kind": "todo",
 					"title": {

@@ -1,0 +1,49 @@
+{
+	"id": "o-sacrum-convivium",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "O sacrum convivium",
+		"pt-BR": "O sacrum convivium",
+		"la": "O sacrum convivium"
+	},
+	"categories": [
+		"eucharistic",
+		"devotion"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O sacred banquet, in which Christ is received* — the antiphon of the Blessed Sacrament, with its versicle and collect: the memory of the Passion, the soul filled with grace, the pledge of glory to come.",
+		"pt-BR": "*Ó sagrado banquete, em que se recebe Cristo* — a antífona do Santíssimo Sacramento, com o seu versículo e oração: a memória da Paixão, a alma cheia de graça, o penhor da glória futura."
+	},
+	"history": {
+		"en-US": "The *Magnificat* antiphon of Second Vespers of Corpus Christi, from the Office composed by St. Thomas Aquinas (1264).",
+		"pt-BR": "A antífona do *Magnificat* das II Vésperas de Corpus Christi, do Ofício composto por Santo Tomás de Aquino (1264)."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"eucharistic",
+		"antiphon",
+		"corpus-christi",
+		"aquinas",
+		"adoration"
+	],
+	"defaults": {
+		"sortOrder": 494,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

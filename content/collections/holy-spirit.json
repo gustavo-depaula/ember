@@ -54,6 +54,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/come-holy-spirit"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/beata-nobis-gaudia"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nunc-sancte-nobis-spiritus"
 				}
 			]
 		},

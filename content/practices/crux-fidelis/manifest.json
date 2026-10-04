@@ -1,0 +1,50 @@
+{
+	"id": "crux-fidelis",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "Crux fidelis",
+		"pt-BR": "Crux fidelis",
+		"la": "Crux fidelis"
+	},
+	"categories": [
+		"passion",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "*Faithful Cross, above all other, one and only noble tree* — the hymn sung while the Cross is adored on Good Friday: the whole story of the Redemption, from the tree of Eden to the tree of Calvary.",
+		"pt-BR": "*Ó Cruz fiel, entre todas a única árvore nobre* — o hino cantado durante a adoração da Cruz na Sexta-feira Santa: toda a história da Redenção, da árvore do Éden à árvore do Calvário."
+	},
+	"history": {
+		"en-US": "The hymn *Pange, lingua, gloriosi lauream certaminis* of Venantius Fortunatus (sixth century), with its stanza *Crux fidelis* repeated as a refrain. St. Thomas Aquinas modelled his Eucharistic *Pange lingua* on it.",
+		"pt-BR": "O hino *Pange, lingua, gloriosi lauream certaminis*, de Venâncio Fortunato (século VI), com a sua estrofe *Crux fidelis* repetida como refrão. Santo Tomás de Aquino tomou-o por modelo do seu *Pange lingua* eucarístico."
+	},
+	"source": {
+		"en-US": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"cross",
+		"passion",
+		"holy-week",
+		"good-friday"
+	],
+	"defaults": {
+		"sortOrder": 488,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

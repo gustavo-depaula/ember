@@ -100,6 +100,33 @@
 			]
 		},
 		{
+			"id": "chants",
+			"title": {
+				"en-US": "Chants of the Requiem",
+				"pt-BR": "Cantos do Réquiem"
+			},
+			"description": {
+				"body": {
+					"en-US": "What the Church sings over her dead.",
+					"pt-BR": "O que a Igreja canta sobre os seus mortos."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/dies-irae"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lux-aeterna"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/media-vita"
+				}
+			]
+		},
+		{
 			"id": "to-source",
 			"title": {
 				"en-US": "Coming Soon",
@@ -131,18 +158,6 @@
 					},
 					"proposedKind": "prayer",
 					"priority": "high"
-				},
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Pie Jesu and Dies Irae",
-						"pt-BR": "Pie Jesu e Dies Irae"
-					},
-					"notes": {
-						"en-US": "Requiem Mass sequence.",
-						"pt-BR": "Sequência da Missa de Réquiem."
-					},
-					"proposedKind": "prayer"
 				},
 				{
 					"kind": "todo",

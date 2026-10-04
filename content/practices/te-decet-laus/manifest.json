@@ -1,0 +1,48 @@
+{
+	"id": "te-decet-laus",
+	"form": "prayer",
+	"icon": "trinity",
+	"name": {
+		"en-US": "Te decet laus",
+		"pt-BR": "Te decet laus",
+		"la": "Te decet laus"
+	},
+	"categories": [
+		"trinity",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*To You belongs praise, to You belongs the hymn* — a brief doxology to the Trinity.",
+		"pt-BR": "*A Vós convém o louvor, a Vós convém o hino* — uma breve doxologia à Santíssima Trindade."
+	},
+	"history": {
+		"en-US": "The Rule of St. Benedict appoints it to close the night office on Sundays, after the Gospel.",
+		"pt-BR": "A Regra de São Bento determina que ela encerre o ofício noturno aos domingos, depois do Evangelho."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"trinity",
+		"doxology",
+		"benedictine"
+	],
+	"defaults": {
+		"sortOrder": 495,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,49 @@
+{
+	"id": "aeterne-rerum-conditor",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "Aeterne rerum Conditor",
+		"pt-BR": "Aeterne rerum Conditor",
+		"la": "Aeterne rerum Conditor"
+	},
+	"categories": [
+		"daily",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Eternal Maker of all things* — the hymn at cockcrow: the herald of day wakes the sleeper, and at his voice Peter wept away his sin.",
+		"pt-BR": "*Eterno Criador de todas as coisas* — o hino do cantar do galo: o arauto do dia desperta quem dorme, e à sua voz Pedro chorou o seu pecado."
+	},
+	"history": {
+		"en-US": "By St. Ambrose of Milan (d. 397), one of the few hymns certainly his: St. Augustine quotes it. It is the hymn of Sunday Lauds in winter.",
+		"pt-BR": "De Santo Ambrósio de Milão (†397), um dos poucos hinos certamente seus: Santo Agostinho o cita. É o hino das Laudes de domingo no inverno."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"sunday",
+		"lauds",
+		"morning",
+		"ambrose"
+	],
+	"defaults": {
+		"sortOrder": 468,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

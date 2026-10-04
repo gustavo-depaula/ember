@@ -1,0 +1,49 @@
+{
+	"id": "beata-nobis-gaudia",
+	"form": "prayer",
+	"icon": "flame",
+	"name": {
+		"en-US": "Beata nobis gaudia",
+		"pt-BR": "Beata nobis gaudia",
+		"la": "Beata nobis gaudia"
+	},
+	"categories": [
+		"holy-spirit",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*The circling year brings back our blessed joys* — the Lauds hymn of Pentecost, when the Spirit came down on the disciples in tongues of fire.",
+		"pt-BR": "*O ciclo do ano nos traz de volta as santas alegrias* — o hino de Laudes de Pentecostes, quando o Espírito desceu sobre os discípulos em línguas de fogo."
+	},
+	"history": {
+		"en-US": "An ancient hymn, sometimes attributed to St. Hilary of Poitiers.",
+		"pt-BR": "Hino antigo, por vezes atribuído a Santo Hilário de Poitiers."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"pentecost",
+		"holy-spirit",
+		"lauds"
+	],
+	"defaults": {
+		"sortOrder": 465,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

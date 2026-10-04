@@ -1,0 +1,48 @@
+{
+	"id": "victimae-paschali",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "Victimae paschali laudes",
+		"pt-BR": "Victimae paschali laudes",
+		"la": "Victimae paschali laudes"
+	},
+	"categories": [
+		"resurrection",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*To the Paschal Victim let Christians offer praise* — the sequence of Easter, in which Mary Magdalene is asked what she saw on the way.",
+		"pt-BR": "*À Vítima pascal ofereçam os cristãos o seu louvor* — a sequência da Páscoa, na qual se pergunta a Maria Madalena o que ela viu no caminho."
+	},
+	"history": {
+		"en-US": "An eleventh-century sequence, usually attributed to Wipo of Burgundy. It is sung at Mass on Easter Sunday and through the Octave.",
+		"pt-BR": "Sequência do século XI, geralmente atribuída a Wipo da Borgonha. Canta-se na Missa do Domingo de Páscoa e durante a Oitava."
+	},
+	"source": {
+		"en-US": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"sequence",
+		"easter"
+	],
+	"defaults": {
+		"sortOrder": 452,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

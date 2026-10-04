@@ -1,0 +1,50 @@
+{
+	"id": "improperia",
+	"form": "prayer",
+	"icon": "cross",
+	"name": {
+		"en-US": "The Reproaches",
+		"pt-BR": "Impropérios",
+		"la": "Improperia"
+	},
+	"categories": [
+		"passion",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 8,
+	"description": {
+		"en-US": "*My people, what have I done to you? Answer me* — the reproaches of the crucified Lord to His people, sung during the adoration of the Cross on Good Friday, with the Trisagion in Greek and Latin.",
+		"pt-BR": "*Povo meu, que te fiz eu? Responde-me* — as queixas do Senhor crucificado ao seu povo, cantadas durante a adoração da Cruz na Sexta-feira Santa, com o Triságio em grego e latim."
+	},
+	"history": {
+		"en-US": "One of the oldest chants of the Good Friday liturgy; the *Agios o Theos* is kept in Greek as the Roman Church received it from the East.",
+		"pt-BR": "Um dos cantos mais antigos da liturgia da Sexta-feira Santa; o *Agios o Theos* conserva-se em grego, tal como a Igreja Romana o recebeu do Oriente."
+	},
+	"source": {
+		"en-US": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"passion",
+		"cross",
+		"holy-week",
+		"good-friday",
+		"trisagion"
+	],
+	"defaults": {
+		"sortOrder": 489,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

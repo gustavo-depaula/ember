@@ -1,0 +1,467 @@
+{
+	"id": "collection/hymnal",
+	"version": "1.0.0",
+	"name": {
+		"en-US": "Hymnal",
+		"pt-BR": "Hinário"
+	},
+	"description": {
+		"en-US": "The hymns, sequences and canticles of the Roman tradition, gathered by hour and season.",
+		"pt-BR": "Os hinos, sequências e cânticos da tradição romana, reunidos por hora e por tempo litúrgico."
+	},
+	"icon": "scroll",
+	"languages": [
+		"en-US",
+		"pt-BR"
+	],
+	"tags": [
+		"hymn",
+		"canticle",
+		"sequence",
+		"liturgical"
+	],
+	"defaults": {
+		"autoSeed": false
+	},
+	"prologue": {
+		"body": {
+			"en-US": "*He who sings prays twice.* Most of these were written to be sung in choir — at Lauds and Vespers, in procession, before the Cross, before the Blessed Sacrament — and they carry the faith in a form the memory keeps. Read slowly, they are prayers; many have been on Christian lips for more than a thousand years.",
+			"pt-BR": "*Quem canta reza duas vezes.* A maior parte destes textos foi escrita para ser cantada em coro — nas Laudes e nas Vésperas, em procissão, diante da Cruz, diante do Santíssimo Sacramento — e eles guardam a fé numa forma que a memória conserva. Lidos devagar, são orações; muitos estão nos lábios dos cristãos há mais de mil anos."
+		}
+	},
+	"sections": [
+		{
+			"id": "hours",
+			"title": {
+				"en-US": "Hymns of the Hours",
+				"pt-BR": "Hinos das Horas"
+			},
+			"description": {
+				"body": {
+					"en-US": "From cockcrow to nightfall: the hymns the Roman Breviary sets at each hour of the day.",
+					"pt-BR": "Do cantar do galo ao cair da noite: os hinos que o Breviário Romano põe em cada hora do dia."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/aeterne-rerum-conditor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/splendor-paternae-gloriae"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iam-lucis-orto-sidere"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nunc-sancte-nobis-spiritus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/rector-potens-verax-deus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/rerum-deus-tenax-vigor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lucis-creator-optime"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iam-sol-recedit-igneus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-lucis-ante-terminum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-deum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-decet-laus"
+				}
+			]
+		},
+		{
+			"id": "advent-and-christmas",
+			"title": {
+				"en-US": "Advent & Christmas",
+				"pt-BR": "Advento e Natal"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/rorate-caeli"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/creator-alme-siderum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/en-clara-vox"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-antiphons"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/adeste-fideles"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iesu-redemptor-omnium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/a-solis-ortus-cardine"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/salvete-flores-martyrum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/crudelis-herodes"
+				}
+			]
+		},
+		{
+			"id": "lent-and-passiontide",
+			"title": {
+				"en-US": "Lent & Passiontide",
+				"pt-BR": "Quaresma e Paixão"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/audi-benigne-conditor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-sol-salutis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/vexilla-regis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/gloria-laus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/crux-fidelis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/improperia"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/stabat-mater"
+				}
+			]
+		},
+		{
+			"id": "easter-to-pentecost",
+			"title": {
+				"en-US": "Easter to Pentecost",
+				"pt-BR": "Da Páscoa a Pentecostes"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/exsultet"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/victimae-paschali"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ad-regias-agni-dapes"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aurora-caelum-purpurat"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/regina-caeli"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/salutis-humanae-sator"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aeterne-rex-altissime"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/veni-creator-spiritus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/veni-sancte-spiritus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/beata-nobis-gaudia"
+				}
+			]
+		},
+		{
+			"id": "eucharistic",
+			"title": {
+				"en-US": "The Blessed Sacrament",
+				"pt-BR": "O Santíssimo Sacramento"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/pange-lingua"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/tantum-ergo"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/sacris-solemniis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/panis-angelicus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/verbum-supernum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-salutaris-hostia"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lauda-sion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/adoro-te-devote"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ave-verum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-sacrum-convivium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ubi-caritas"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iesu-dulcis-memoria"
+				}
+			]
+		},
+		{
+			"id": "marian",
+			"title": {
+				"en-US": "Our Lady",
+				"pt-BR": "Nossa Senhora"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/ave-maris-stella"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/quem-terra-pontus-sidera"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-gloriosa-virginum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/alma-redemptoris-mater"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ave-regina-caelorum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/hail-holy-queen"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/sub-tuum-praesidium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary"
+				}
+			]
+		},
+		{
+			"id": "feasts-and-saints",
+			"title": {
+				"en-US": "Feasts & Saints",
+				"pt-BR": "Festas e Santos"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/te-ioseph"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ut-queant-laxis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/decora-lux-aeternitatis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/quicumque-christum-quaeritis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/custodes-hominum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/te-splendor-et-virtus-patris"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/placare-christe-servulis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/exsultet-orbis-gaudiis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/deus-tuorum-militum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/sanctorum-meritis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iste-confessor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iesu-corona-virginum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/caelestis-urbs-ierusalem"
+				}
+			]
+		},
+		{
+			"id": "canticles",
+			"title": {
+				"en-US": "Canticles",
+				"pt-BR": "Cânticos"
+			},
+			"description": {
+				"body": {
+					"en-US": "The songs of Scripture outside the Psalter, and the Church's own.",
+					"pt-BR": "Os cânticos da Escritura fora do Saltério, e os da própria Igreja."
+				}
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/benedictus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/magnificat"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/nunc-dimittis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/gloria-in-excelsis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-the-three-children"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-isaiah"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-hezekiah"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-hannah"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-moses"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/canticle-of-habakkuk"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/venite"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/jubilate"
+				}
+			]
+		},
+		{
+			"id": "for-the-dead",
+			"title": {
+				"en-US": "For the Dead",
+				"pt-BR": "Pelos Defuntos"
+			},
+			"blocks": [
+				{
+					"kind": "item",
+					"ref": "practice/dies-irae"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/media-vita"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/lux-aeterna"
+				}
+			]
+		}
+	]
+}

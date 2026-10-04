@@ -1,0 +1,47 @@
+{
+	"id": "quicumque-christum-quaeritis",
+	"form": "prayer",
+	"icon": "sun",
+	"name": {
+		"en-US": "Quicumque Christum quaeritis",
+		"pt-BR": "Quicumque Christum quaeritis",
+		"la": "Quicumque Christum quaeritis"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*All you who seek Christ, lift up your eyes* — the Vespers hymn of the Transfiguration.",
+		"pt-BR": "*Vós todos que buscais a Cristo, erguei os olhos* — o hino de Vésperas da Transfiguração."
+	},
+	"history": {
+		"en-US": "From the *Cathemerinon* of Prudentius (fourth–fifth century), the hymn for the Epiphany.",
+		"pt-BR": "Do *Cathemerinon* de Prudêncio (séculos IV–V), o hino para a Epifania."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"transfiguration",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 476,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

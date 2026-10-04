@@ -1,0 +1,48 @@
+{
+	"id": "o-antiphons",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "The O Antiphons",
+		"pt-BR": "Antífonas do Ó",
+		"la": "Antiphonae maiores"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "The seven great antiphons sung at the *Magnificat* from 17 to 23 December, each calling on the Messiah by one of His titles — Wisdom, Adonai, Root of Jesse, Key of David, Dayspring, King of the nations, Emmanuel — and begging Him to come.",
+		"pt-BR": "As sete antífonas maiores cantadas no *Magnificat* de 17 a 23 de dezembro, cada uma invocando o Messias por um dos seus títulos — Sabedoria, Adonai, Raiz de Jessé, Chave de Davi, Oriente, Rei das nações, Emanuel — e suplicando que Ele venha."
+	},
+	"history": {
+		"en-US": "Known in the Roman liturgy since at least the eighth century. Read backwards, the initials of the Latin titles spell *ERO CRAS* — \"Tomorrow I shall be there\".",
+		"pt-BR": "Conhecidas na liturgia romana pelo menos desde o século VIII. Lidas de trás para a frente, as iniciais dos títulos latinos formam *ERO CRAS* — «Amanhã estarei aí»."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"advent",
+		"antiphon",
+		"magnificat",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 493,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,48 @@
+{
+	"id": "o-sol-salutis",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "O sol salutis",
+		"pt-BR": "O sol salutis",
+		"la": "O sol salutis"
+	},
+	"categories": [
+		"penance",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O Sun of salvation, Jesus* — the Lauds hymn of Lent, asking that the light return to the soul as the day returns to the earth.",
+		"pt-BR": "*Ó Sol da salvação, Jesus* — o hino de Laudes da Quaresma, pedindo que a luz volte à alma como o dia volta à terra."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Iam Christe sol iustitiae*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Iam Christe sol iustitiae*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"lent",
+		"lauds"
+	],
+	"defaults": {
+		"sortOrder": 460,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

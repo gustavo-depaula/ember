@@ -1,0 +1,47 @@
+{
+	"id": "quem-terra-pontus-sidera",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"en-US": "Quem terra, pontus, sidera",
+		"pt-BR": "Quem terra, pontus, sidera",
+		"la": "Quem terra, pontus, sidera"
+	},
+	"categories": [
+		"marian",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Whom earth and sea and stars adore* — the Matins hymn of Our Lady: the womb of Mary bears the One who rules the threefold world.",
+		"pt-BR": "*Aquele a quem a terra, o mar e os astros adoram* — o hino de Matinas de Nossa Senhora: o seio de Maria traz Aquele que governa o tríplice mundo."
+	},
+	"history": {
+		"en-US": "Attributed to Venantius Fortunatus (sixth century). The hymn *O gloriosa virginum* is its continuation.",
+		"pt-BR": "Atribuído a Venâncio Fortunato (século VI). O hino *O gloriosa virginum* é a sua continuação."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"marian",
+		"matins"
+	],
+	"defaults": {
+		"sortOrder": 485,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,47 @@
+{
+	"id": "salutis-humanae-sator",
+	"form": "prayer",
+	"icon": "sun",
+	"name": {
+		"en-US": "Salutis humanae Sator",
+		"pt-BR": "Salutis humanae Sator",
+		"la": "Salutis humanae Sator"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Author of man's salvation* — the Vespers hymn of the Ascension, to Jesus the delight of hearts, who bore our death and now sits at the Father's right hand.",
+		"pt-BR": "*Autor da salvação humana* — o hino de Vésperas da Ascensão, a Jesus, delícia dos corações, que sofreu a nossa morte e agora está sentado à direita do Pai."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Iesu, nostra redemptio*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Iesu, nostra redemptio*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"ascension",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 463,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

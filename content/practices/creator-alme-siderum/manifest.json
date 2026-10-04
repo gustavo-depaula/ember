@@ -1,0 +1,47 @@
+{
+	"id": "creator-alme-siderum",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Creator alme siderum",
+		"pt-BR": "Creator alme siderum",
+		"la": "Creator alme siderum"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Kind Creator of the stars* — the Vespers hymn of Advent, calling on the Redeemer who came once in mercy and will come again as Judge.",
+		"pt-BR": "*Ó benigno Criador dos astros* — o hino de Vésperas do Advento, que invoca o Redentor que veio uma vez em misericórdia e voltará como Juiz."
+	},
+	"history": {
+		"en-US": "The seventh-century hymn *Conditor alme siderum*, in the form given to it in the 1632 revision of the Roman Breviary under Urban VIII.",
+		"pt-BR": "O hino *Conditor alme siderum*, do século VII, na forma que recebeu na revisão do Breviário Romano de 1632, sob Urbano VIII."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"advent",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 453,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

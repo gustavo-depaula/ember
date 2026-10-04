@@ -1,0 +1,48 @@
+{
+	"id": "gloria-laus",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Gloria, laus et honor",
+		"pt-BR": "Gloria, laus et honor",
+		"la": "Gloria, laus et honor"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*Glory, praise and honour to You, Christ, King and Redeemer* — the hymn of the Palm Sunday procession, sung at the church door with the children's Hosanna.",
+		"pt-BR": "*Glória, louvor e honra a Vós, ó Cristo, Rei e Redentor* — o hino da procissão do Domingo de Ramos, cantado à porta da igreja com o Hosana das crianças."
+	},
+	"history": {
+		"en-US": "Written by Theodulf, Bishop of Orléans (d. 821).",
+		"pt-BR": "Composto por Teodulfo, bispo de Orléans (†821)."
+	},
+	"source": {
+		"en-US": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"palm-sunday",
+		"holy-week",
+		"procession"
+	],
+	"defaults": {
+		"sortOrder": 491,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

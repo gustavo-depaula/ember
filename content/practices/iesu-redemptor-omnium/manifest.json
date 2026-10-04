@@ -1,0 +1,47 @@
+{
+	"id": "iesu-redemptor-omnium",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Iesu, Redemptor omnium",
+		"pt-BR": "Iesu, Redemptor omnium",
+		"la": "Iesu, Redemptor omnium"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Jesus, Redeemer of all* — the Vespers hymn of Christmas, sung to the Son begotten of the Father before the light.",
+		"pt-BR": "*Jesus, Redentor de todos* — o hino de Vésperas do Natal, cantado ao Filho gerado pelo Pai antes da luz."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Christe, Redemptor omnium*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Christe, Redemptor omnium*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"christmas",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 455,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

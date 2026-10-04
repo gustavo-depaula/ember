@@ -1,0 +1,48 @@
+{
+	"id": "seven-penitential-psalms",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"en-US": "The Seven Penitential Psalms",
+		"pt-BR": "Os Sete Salmos Penitenciais",
+		"la": "Septem Psalmi Paenitentiales"
+	},
+	"categories": [
+		"penance"
+	],
+	"estimatedMinutes": 20,
+	"description": {
+		"en-US": "Psalms 6, 31, 37, 50, 101, 129 and 142 — the seven psalms of repentance, prayed under the antiphon *Ne reminiscaris*: \"Remember not, Lord, our offences.\"",
+		"pt-BR": "Os Salmos 6, 31, 37, 50, 101, 129 e 142 — os sete salmos do arrependimento, rezados sob a antífona *Ne reminiscaris*: «Não vos lembreis, Senhor, dos nossos delitos.»"
+	},
+	"history": {
+		"en-US": "Named as a group since the sixth century (Cassiodorus), and long printed in the Roman Breviary to be said in Lent.",
+		"pt-BR": "Reunidos sob este nome desde o século VI (Cassiodoro), e por muito tempo impressos no Breviário Romano para serem rezados na Quaresma."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"psalm",
+		"penitential",
+		"lent",
+		"miserere",
+		"de-profundis"
+	],
+	"defaults": {
+		"sortOrder": 496,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

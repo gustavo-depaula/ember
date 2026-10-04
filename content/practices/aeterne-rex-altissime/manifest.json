@@ -1,0 +1,47 @@
+{
+	"id": "aeterne-rex-altissime",
+	"form": "prayer",
+	"icon": "sun",
+	"name": {
+		"en-US": "Aeterne Rex altissime",
+		"pt-BR": "Aeterne Rex altissime",
+		"la": "Aeterne Rex altissime"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Eternal King most high* — the Matins hymn of the Ascension: the Redeemer rises above the stars, and heaven, earth and hell bend the knee.",
+		"pt-BR": "*Ó Rei eterno e altíssimo* — o hino de Matinas da Ascensão: o Redentor sobe acima dos astros, e o céu, a terra e o inferno dobram o joelho."
+	},
+	"history": {
+		"en-US": "An ancient hymn of the Ascension, in the 1632 revision of the Roman Breviary.",
+		"pt-BR": "Antigo hino da Ascensão, na revisão do Breviário Romano de 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"ascension",
+		"matins"
+	],
+	"defaults": {
+		"sortOrder": 464,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

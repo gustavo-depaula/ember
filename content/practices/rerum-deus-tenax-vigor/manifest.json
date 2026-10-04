@@ -1,0 +1,47 @@
+{
+	"id": "rerum-deus-tenax-vigor",
+	"form": "prayer",
+	"icon": "sun",
+	"name": {
+		"en-US": "Rerum, Deus, tenax vigor",
+		"pt-BR": "Rerum, Deus, tenax vigor",
+		"la": "Rerum, Deus, tenax vigor"
+	},
+	"categories": [
+		"daily",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O God, the strength that holds all things* — the hymn of None, as the day declines: grant light at evening and a holy death.",
+		"pt-BR": "*Ó Deus, força que sustenta todas as coisas* — o hino de Noa, quando o dia declina: concedei luz ao entardecer e uma santa morte."
+	},
+	"history": {
+		"en-US": "Traditionally attributed to St. Ambrose. Sung every day at None in the Roman Breviary.",
+		"pt-BR": "Tradicionalmente atribuído a Santo Ambrósio. Cantado todos os dias na hora de Noa do Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"none",
+		"afternoon"
+	],
+	"defaults": {
+		"sortOrder": 473,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

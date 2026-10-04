@@ -1,0 +1,263 @@
+{
+	"sections": [
+		{
+			"type": "prayer",
+			"inline": {
+				"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+				"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"la": "Quia edúxi te de terra Aegýpti: parásti Crucem Salvatóri tuo.",
+						"en-US": "Because I led thee out of the land of Egypt, thou hast prepared a cross for thy Saviour."
+					},
+					"r": {
+						"la": "Agios o Theós.",
+						"en-US": "O holy God!"
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus Deus.",
+						"en-US": "O holy God!"
+					}
+				},
+				{
+					"r": {
+						"la": "Agios ischyrós.",
+						"en-US": "O holy strong One!"
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus fortis.",
+						"en-US": "O holy strong One!"
+					}
+				},
+				{
+					"r": {
+						"la": "Agios athánatos, eléison imas.",
+						"en-US": "O holy immortal one, have mercy on us."
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus immortális, miserére nobis.",
+						"en-US": "O holy immortal one, have mercy on us."
+					}
+				}
+			]
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"la": "Quia edúxi te per desértum quadragínta annis, et manna cibávi te, et introdúxi te in terram satis bonam: parásti Crucem Salvatóri tuo.",
+						"en-US": "Because I led thee out through the desert forty years: and fed thee with manna, and brought thee into a land exceeding good, thou hast prepared a Cross for thy Saviour."
+					},
+					"r": {
+						"la": "Agios o Theós.",
+						"en-US": "O holy God!"
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus Deus.",
+						"en-US": "O holy God!"
+					}
+				},
+				{
+					"r": {
+						"la": "Agios ischyrós.",
+						"en-US": "O holy strong One!"
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus fortis.",
+						"en-US": "O holy strong One!"
+					}
+				},
+				{
+					"r": {
+						"la": "Agios athánatos, eléison imas.",
+						"en-US": "O holy immortal one, have mercy on us."
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus immortális, miserére nobis.",
+						"en-US": "O holy immortal one, have mercy on us."
+					}
+				}
+			]
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"la": "Quid ultra débui fácere tibi, et non feci? Ego quidem plantávi te víneam meam speciosíssimam: et tu facta es mihi nimis amára: acéto namque sitim meam potásti: et láncea perforásti latus Salvatóri tuo.",
+						"en-US": "What more ought I have done for thee, that I have not done? I planted thee, indeed, My most beautiful vineyard: and thou hast become exceeding bitter to Me: for in My thirst thou gavest Me vinegar to drink: and with a lance thou hast pierced the side of thy Saviour."
+					},
+					"r": {
+						"la": "Agios o Theós.",
+						"en-US": "O holy God!"
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus Deus.",
+						"en-US": "O holy God!"
+					}
+				},
+				{
+					"r": {
+						"la": "Agios ischyrós.",
+						"en-US": "O holy strong One!"
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus fortis.",
+						"en-US": "O holy strong One!"
+					}
+				},
+				{
+					"r": {
+						"la": "Agios athánatos, eléison imas.",
+						"en-US": "O holy immortal one, have mercy on us."
+					}
+				},
+				{
+					"r": {
+						"la": "Sanctus immortális, miserére nobis.",
+						"en-US": "O holy immortal one, have mercy on us."
+					}
+				}
+			]
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"la": "Ego propter te flagellávi Aegýptum cum primogénitis suis: et tu me flagellátum tradidísti.",
+						"en-US": "For thy sake I scourged Egypt with its first-born: and thou hast scourged Me and delivered Me up."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego edúxi te de Aegýpto, demérso Pharaóne in Mare Rubrum: et tu me tradidísti princípibus sacerdótum.",
+						"en-US": "I led thee out of Egypt having drowned Pharao in the Red Sea: and thou hast delivered Me to the chief priests."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego ante te apérui mare: et tu aperuísti láncea latus meum.",
+						"en-US": "I opened the sea before thee: and thou with a spear hast opened My side."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego ante te praeívi in colúmna nubis: et tu me duxísti ad praetórium Piláti.",
+						"en-US": "I went before thee in a pillar of cloud: and thou hast led Me to the judgement hall of Pilate."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego te pavi manna per desértum: et tu me cecidísti álapis et flagéllis.",
+						"en-US": "I fed thee with manna in the desert; and thou hast beaten Me with whips and scourges."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego te potávi aqua salútis de petra: et tu me potásti felle et acéto.",
+						"en-US": "I gave thee the water of salvation from the rock to drink: and thou hast given Me gall and vinegar."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego propter te Chananaeórum reges percússi: et tu percussísti arúndine caput meum.",
+						"en-US": "For thy sake I struck the kings of the Chanaanites: and thou hast struck My head with a reed."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego dedi tibi sceptrum regale: et tu dedísti capiti meo spíneam coronam.",
+						"en-US": "I gave thee a royal sceptre: and thou hast given to My head a crown of thorns."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				},
+				{
+					"v": {
+						"la": "Ego te exaltávi magna virtúte: et tu me suspendísti in patíbulo Crucis.",
+						"en-US": "I exalted thee with great strength: and thou hast hanged Me on the gibbet of the Cross."
+					},
+					"r": {
+						"la": "Pópule meus, quid feci tibi? aut in quo contristávi te? respónde mihi.",
+						"en-US": "O my people, what have I done to thee? or wherein have I afflicted thee? Answer me."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"la": "Crucem tuam adorámus, Dómine: et sanctam resurrectiónem tuam laudámus et glorificámus: ecce enim, propter lignum venit gaudium in univérso mundo.",
+				"en-US": "We adore Thy Cross, O Lord: and we praise and glorify Thy holy Resurrection: for behold by the wood of the Cross joy has come into the whole world."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"la": "Deus misereátur nostri et benedícat nobis: Illúminet vultum suum super nos et misereátur nostri.",
+						"en-US": "May God have mercy on us, and bless us: May He cause the light of His countenance to shine upon us, and have mercy on us."
+					},
+					"r": {
+						"la": "Crucem tuam adorámus, Dómine: et sanctam resurrectiónem tuam laudámus et glorificámus: ecce enim, propter lignum venit gáudium in univérso mundo.",
+						"en-US": "We adore Thy Cross, O Lord: and we praise and glorify Thy holy Resurrection: for behold by the wood of the Cross joy has come into the whole world."
+					}
+				}
+			]
+		}
+	]
+}

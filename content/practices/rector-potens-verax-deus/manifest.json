@@ -1,0 +1,47 @@
+{
+	"id": "rector-potens-verax-deus",
+	"form": "prayer",
+	"icon": "sun",
+	"name": {
+		"en-US": "Rector potens, verax Deus",
+		"pt-BR": "Rector potens, verax Deus",
+		"la": "Rector potens, verax Deus"
+	},
+	"categories": [
+		"daily",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Mighty Ruler, truthful God* — the hymn of Sext, at the heat of noon: quench the flames of strife and give peace of heart.",
+		"pt-BR": "*Ó Senhor poderoso, Deus da verdade* — o hino de Sexta, no calor do meio-dia: apagai as chamas das discórdias e dai a paz do coração."
+	},
+	"history": {
+		"en-US": "Traditionally attributed to St. Ambrose. Sung every day at Sext in the Roman Breviary.",
+		"pt-BR": "Tradicionalmente atribuído a Santo Ambrósio. Cantado todos os dias na hora de Sexta do Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"sext",
+		"midday"
+	],
+	"defaults": {
+		"sortOrder": 472,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

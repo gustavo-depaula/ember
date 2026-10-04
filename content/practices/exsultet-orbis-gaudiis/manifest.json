@@ -1,0 +1,48 @@
+{
+	"id": "exsultet-orbis-gaudiis",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Exsultet orbis gaudiis",
+		"pt-BR": "Exsultet orbis gaudiis",
+		"la": "Exsultet orbis gaudiis"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Let the world exult with joy* — the Vespers hymn of the Apostles, judges of the ages and true lights of the world.",
+		"pt-BR": "*Exulte o mundo de alegria* — o hino de Vésperas dos Apóstolos, juízes dos séculos e verdadeiras luzes do mundo."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Exsultet caelum laudibus*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Exsultet caelum laudibus*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"apostles",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 480,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

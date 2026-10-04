@@ -1,0 +1,47 @@
+{
+	"id": "en-clara-vox",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "En clara vox redarguit",
+		"pt-BR": "En clara vox redarguit",
+		"la": "En clara vox redarguit"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Hark, a clear voice rebukes the dark* — the Lauds hymn of Advent: the herald's cry that wakes the soul from sleep.",
+		"pt-BR": "*Eis que uma voz clara repreende as trevas* — o hino de Laudes do Advento: o brado do arauto que desperta a alma do sono."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Vox clara ecce intonat*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Vox clara ecce intonat*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"advent",
+		"lauds"
+	],
+	"defaults": {
+		"sortOrder": 454,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -7,6 +7,11 @@
 		"pt-BR": "Augusta Mãe do Redentor",
 		"la": "Alma Redemptóris Mater"
 	},
+	"tags": [
+		"marian",
+		"antiphon",
+		"advent"
+	],
 	"flow": {
 		"sections": [
 			{

@@ -1,0 +1,49 @@
+{
+	"id": "custodes-hominum",
+	"form": "prayer",
+	"icon": "angel",
+	"name": {
+		"en-US": "Custodes hominum",
+		"pt-BR": "Custodes hominum",
+		"la": "Custodes hominum"
+	},
+	"categories": [
+		"angels",
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*We sing the Angels, guardians of men* — the Vespers hymn of the Holy Guardian Angels, given by the Father as companions to our frail nature.",
+		"pt-BR": "*Cantamos os Anjos, guardiães dos homens* — o hino de Vésperas dos Santos Anjos da Guarda, dados pelo Pai como companheiros à nossa frágil natureza."
+	},
+	"history": {
+		"en-US": "A hymn of the Counter-Reformation period, commonly attributed to St. Robert Bellarmine (d. 1621).",
+		"pt-BR": "Hino do período da Contrarreforma, comumente atribuído a São Roberto Belarmino (†1621)."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"angels",
+		"guardian-angel",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 477,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

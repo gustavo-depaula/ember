@@ -55,19 +55,6 @@
 					"ref": "practice/sub-tuum-praesidium"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "O Antiphons (Dec 17–23)",
-						"pt-BR": "Antífonas Ó (17–23 dez)"
-					},
-					"notes": {
-						"en-US": "*O Sapientia*, *O Adonai*, *O Radix Iesse*, *O Clavis David*, *O Oriens*, *O Rex Gentium*, *O Emmanuel*.",
-						"pt-BR": "*Ó Sapiência*, *Ó Adonai*, *Ó Raiz de Jessé*, *Ó Chave de Davi*, *Ó Oriente*, *Ó Rei das Nações*, *Ó Emanuel*."
-					},
-					"proposedKind": "practice",
-					"priority": "high"
-				},
-				{
 					"kind": "item",
 					"ref": "practice/christmas-novena"
 				},
@@ -90,6 +77,18 @@
 				{
 					"kind": "item",
 					"ref": "practice/alma-redemptoris-mater"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-antiphons"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/creator-alme-siderum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/en-clara-vox"
 				},
 				{
 					"kind": "todo",
@@ -121,6 +120,22 @@
 				{
 					"kind": "item",
 					"ref": "practice/te-deum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iesu-redemptor-omnium"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/a-solis-ortus-cardine"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/salvete-flores-martyrum"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/crudelis-herodes"
 				},
 				{
 					"kind": "todo",
@@ -207,21 +222,20 @@
 					"proposedKind": "prayer"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Seven Penitential Psalms",
-						"pt-BR": "Sete Salmos Penitenciais"
-					},
-					"notes": {
-						"en-US": "Pss 6, 31, 37, 50, 101, 129, 142. Cross-list with Confession.",
-						"pt-BR": "Sl 6, 31, 37, 50, 101, 129, 142. Cruzar com Confissão."
-					},
-					"proposedKind": "practice",
-					"priority": "high"
+					"kind": "item",
+					"ref": "practice/psalm-50"
 				},
 				{
 					"kind": "item",
-					"ref": "practice/psalm-50"
+					"ref": "practice/seven-penitential-psalms"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/audi-benigne-conditor"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-sol-salutis"
 				},
 				{
 					"kind": "todo",
@@ -362,18 +376,6 @@
 					"priority": "high"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Improperia (Reproaches)",
-						"pt-BR": "Improperia (Reprovações)"
-					},
-					"notes": {
-						"en-US": "Good Friday.",
-						"pt-BR": "Sexta-feira Santa."
-					},
-					"proposedKind": "prayer"
-				},
-				{
 					"kind": "item",
 					"ref": "practice/stabat-mater"
 				},
@@ -382,17 +384,20 @@
 					"ref": "practice/vexilla-regis"
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Exultet",
-						"pt-BR": "Exultet"
-					},
-					"notes": {
-						"en-US": "Easter Vigil — the great Paschal proclamation.",
-						"pt-BR": "Vigília Pascal — a grande proclamação pascal."
-					},
-					"proposedKind": "prayer",
-					"priority": "high"
+					"kind": "item",
+					"ref": "practice/gloria-laus"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/crux-fidelis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/improperia"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/exsultet"
 				},
 				{
 					"kind": "todo",
@@ -441,13 +446,24 @@
 					]
 				},
 				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Victimae Paschali Laudes (Easter Sequence)",
-						"pt-BR": "Victimae Paschali Laudes (Sequência da Páscoa)"
-					},
-					"proposedKind": "prayer",
-					"priority": "high"
+					"kind": "item",
+					"ref": "practice/victimae-paschali"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/ad-regias-agni-dapes"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aurora-caelum-purpurat"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/salutis-humanae-sator"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/aeterne-rex-altissime"
 				},
 				{
 					"kind": "todo",
@@ -526,6 +542,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/lauda-sion"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/beata-nobis-gaudia"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/iam-sol-recedit-igneus"
 				},
 				{
 					"kind": "todo",
@@ -721,6 +745,10 @@
 					"seeAlso": [
 						"collection/for-the-dead"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/dies-irae"
 				},
 				{
 					"kind": "todo",

@@ -1,0 +1,45 @@
+{
+	"sections": [
+		{
+			"type": "antiphon",
+			"text": {
+				"la": "O sacrum convívium, in quo Christus súmitur: recólitur memória passiónis eius: mens implétur grátia: et futúrae glóriae nobis pignus datur.",
+				"en-US": "O sacred banquet in which Christ is received, the memory of His Passion renewed, the soul filled with grace, and a pledge of future glory given to us.",
+				"pt-BR": "Ó sagrado banquete em que Cristo é recebido, renova-se a memória de sua Paixão, a alma se enche de graça e nos é dado o penhor da glória futura."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Thou hast given them bread from heaven.",
+						"pt-BR": "Destes-lhes, Senhor, o pão do Céu.",
+						"la": "Panem de caelo praestitisti eis."
+					},
+					"r": {
+						"en-US": "Having within it all sweetness.",
+						"pt-BR": "Que contém em si todo o sabor.",
+						"la": "Omne delectamentum in se habentem."
+					}
+				}
+			]
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Let us pray.",
+				"pt-BR": "Oremos.",
+				"la": "Oremus."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O God, who in this wonderful Sacrament left us a memorial of thy Passion, grant, we beseech thee, that we may so venerate the sacred mysteries of thy Body and Blood, that we may ever feel within ourselves the fruit of thy Redemption. Thou who livest and reignest for ever and ever. Amen.",
+				"pt-BR": "Ó Deus, que neste admirável Sacramento nos deixastes o memorial da vossa Paixão, concedei-nos, Vos pedimos, venerar de tal modo os sagrados mistérios do vosso Corpo e do vosso Sangue, que sintamos em nós continuamente o fruto da vossa redenção. Vós que viveis e reinais pelos séculos dos séculos. Amém.",
+				"la": "Deus, qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti: tribue, quaesumus, ita nos corporis et sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas in saecula saeculorum. Amen."
+			}
+		}
+	]
+}

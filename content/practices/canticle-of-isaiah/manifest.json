@@ -1,0 +1,47 @@
+{
+	"id": "canticle-of-isaiah",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"en-US": "Canticle of Isaiah",
+		"pt-BR": "Cântico de Isaías",
+		"la": "Canticum Isaiae"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*I will give thanks to You, O Lord* — the song of the redeemed in Isaiah 12: \"You shall draw waters with joy out of the Saviour's fountains.\"",
+		"pt-BR": "*Eu Vos darei graças, Senhor* — o cântico dos remidos em Isaías 12: «Tirareis água com alegria das fontes do Salvador.»"
+	},
+	"history": {
+		"en-US": "The Old Testament canticle of Monday Lauds in the Roman Breviary.",
+		"pt-BR": "O cântico do Antigo Testamento das Laudes de segunda-feira no Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"canticle",
+		"isaiah",
+		"lauds",
+		"thanksgiving"
+	],
+	"defaults": {
+		"sortOrder": 497,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,48 @@
+{
+	"id": "dies-irae",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Dies irae",
+		"pt-BR": "Dies irae",
+		"la": "Dies irae"
+	},
+	"categories": [
+		"purgatory",
+		"liturgical"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Day of wrath, that day* — the sequence of the Requiem Mass: the Last Judgment seen by a sinner who throws himself on the mercy of the Judge.",
+		"pt-BR": "*Dia de ira, aquele dia* — a sequência da Missa de Réquiem: o Juízo Final visto por um pecador que se lança à misericórdia do Juiz."
+	},
+	"history": {
+		"en-US": "A thirteenth-century Franciscan poem, traditionally attributed to Thomas of Celano. It is sung in the Mass for the Dead of the 1962 Missal.",
+		"pt-BR": "Poema franciscano do século XIII, tradicionalmente atribuído a Tomás de Celano. Canta-se na Missa dos Defuntos do Missal de 1962."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"sequence",
+		"dead",
+		"requiem"
+	],
+	"defaults": {
+		"sortOrder": 451,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

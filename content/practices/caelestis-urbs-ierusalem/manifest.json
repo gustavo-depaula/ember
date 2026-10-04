@@ -1,0 +1,47 @@
+{
+	"id": "caelestis-urbs-ierusalem",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Caelestis urbs Ierusalem",
+		"pt-BR": "Caelestis urbs Ierusalem",
+		"la": "Caelestis urbs Ierusalem"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Heavenly city Jerusalem, blessed vision of peace* — the Vespers hymn for the Dedication of a Church, built in heaven of living stones.",
+		"pt-BR": "*Celeste cidade de Jerusalém, bem-aventurada visão de paz* — o hino de Vésperas da Dedicação de uma Igreja, edificada no céu com pedras vivas."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Urbs beata Ierusalem*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Urbs beata Ierusalem*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"church",
+		"dedication",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 487,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

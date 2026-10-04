@@ -201,6 +201,10 @@
 					"seeAlso": [
 						"collection/thomas-aquinas"
 					]
+				},
+				{
+					"kind": "item",
+					"ref": "practice/o-sacrum-convivium"
 				}
 			]
 		},

@@ -1,0 +1,49 @@
+{
+	"id": "decora-lux-aeternitatis",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Decora lux aeternitatis",
+		"pt-BR": "Decora lux aeternitatis",
+		"la": "Decora lux aeternitatis"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*The fair light of eternity* — the Vespers hymn of Sts. Peter and Paul, and of Rome made glorious by the blood of the two princes of the Apostles.",
+		"pt-BR": "*A formosa luz da eternidade* — o hino de Vésperas de São Pedro e São Paulo, e de Roma, glorificada pelo sangue dos dois príncipes dos Apóstolos."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Aurea luce et decore roseo*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Aurea luce et decore roseo*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"peter-and-paul",
+		"apostles",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 475,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

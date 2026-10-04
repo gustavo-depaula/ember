@@ -1,0 +1,48 @@
+{
+	"id": "placare-christe-servulis",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Placare, Christe, servulis",
+		"pt-BR": "Placare, Christe, servulis",
+		"la": "Placare, Christe, servulis"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Be merciful, O Christ, to Your servants* — the Vespers hymn of All Saints, calling in turn on the Virgin, the Angels, the Apostles, the Martyrs and every choir of heaven.",
+		"pt-BR": "*Sede propício, ó Cristo, aos vossos servos* — o hino de Vésperas de Todos os Santos, que invoca sucessivamente a Virgem, os Anjos, os Apóstolos, os Mártires e todos os coros do céu."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Christe, Redemptor omnium, conserva tuos famulos*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Christe, Redemptor omnium, conserva tuos famulos*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"all-saints",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 479,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

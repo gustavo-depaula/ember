@@ -1,0 +1,46 @@
+{
+	"id": "canticle-of-hannah",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"en-US": "Canticle of Hannah",
+		"pt-BR": "Cântico de Ana",
+		"la": "Canticum Annae"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*My heart has rejoiced in the Lord* — the song of Hannah, mother of Samuel (1 Kings 2), which the *Magnificat* echoes: the Lord humbles and He exalts.",
+		"pt-BR": "*O meu coração exultou no Senhor* — o cântico de Ana, mãe de Samuel (1 Reis 2), de que o *Magnificat* se faz eco: o Senhor humilha e exalta."
+	},
+	"history": {
+		"en-US": "The Old Testament canticle of Wednesday Lauds in the Roman Breviary.",
+		"pt-BR": "O cântico do Antigo Testamento das Laudes de quarta-feira no Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"canticle",
+		"lauds",
+		"thanksgiving"
+	],
+	"defaults": {
+		"sortOrder": 499,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

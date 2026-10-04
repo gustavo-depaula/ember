@@ -1,0 +1,47 @@
+{
+	"id": "iam-lucis-orto-sidere",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "Iam lucis orto sidere",
+		"pt-BR": "Iam lucis orto sidere",
+		"la": "Iam lucis orto sidere"
+	},
+	"categories": [
+		"daily",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Now that the daystar has risen* — the hymn of Prime: a prayer at the start of work to be kept from harm in word, sight and deed.",
+		"pt-BR": "*Já nascido o astro da luz* — o hino de Prima: uma oração ao começar o trabalho, para ser guardado do mal nas palavras, no olhar e nas obras."
+	},
+	"history": {
+		"en-US": "An ancient hymn of unknown authorship, sung every day at Prime in the Roman Breviary.",
+		"pt-BR": "Hino antigo, de autor desconhecido, cantado todos os dias na hora de Prima do Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"prime",
+		"morning"
+	],
+	"defaults": {
+		"sortOrder": 470,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

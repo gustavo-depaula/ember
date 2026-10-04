@@ -1,0 +1,48 @@
+{
+	"id": "salvete-flores-martyrum",
+	"form": "prayer",
+	"icon": "flower",
+	"name": {
+		"en-US": "Salvete, flores Martyrum",
+		"pt-BR": "Salvete, flores Martyrum",
+		"la": "Salvete, flores Martyrum"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Hail, flowers of the Martyrs* — the hymn of the Holy Innocents, cut down on the threshold of life like rosebuds by a storm.",
+		"pt-BR": "*Salve, flores dos Mártires* — o hino dos Santos Inocentes, ceifados no limiar da vida como botões de rosa pela tempestade."
+	},
+	"history": {
+		"en-US": "From the *Cathemerinon* of Prudentius (fourth–fifth century), the hymn for the Epiphany.",
+		"pt-BR": "Do *Cathemerinon* de Prudêncio (séculos IV–V), o hino para a Epifania."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"christmas",
+		"martyrs",
+		"holy-innocents"
+	],
+	"defaults": {
+		"sortOrder": 458,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

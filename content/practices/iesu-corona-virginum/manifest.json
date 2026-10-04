@@ -1,0 +1,48 @@
+{
+	"id": "iesu-corona-virginum",
+	"form": "prayer",
+	"icon": "flower",
+	"name": {
+		"en-US": "Iesu, corona Virginum",
+		"pt-BR": "Iesu, corona Virginum",
+		"la": "Iesu, corona Virginum"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Jesus, crown of Virgins* — the Vespers hymn of Virgins, who follow the Lamb wherever He goes.",
+		"pt-BR": "*Jesus, coroa das Virgens* — o hino de Vésperas das Virgens, que seguem o Cordeiro por onde quer que Ele vá."
+	},
+	"history": {
+		"en-US": "Traditionally attributed to St. Ambrose.",
+		"pt-BR": "Tradicionalmente atribuído a Santo Ambrósio."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"virgins",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 484,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

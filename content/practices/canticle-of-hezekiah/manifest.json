@@ -1,0 +1,47 @@
+{
+	"id": "canticle-of-hezekiah",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"en-US": "Canticle of Hezekiah",
+		"pt-BR": "Cântico de Ezequias",
+		"la": "Canticum Ezechiae"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 3,
+	"description": {
+		"en-US": "*I said: in the midst of my days I shall go to the gates of hell* — King Hezekiah's song on recovering from his sickness (Isaiah 38).",
+		"pt-BR": "*Eu disse: no meio dos meus dias irei às portas do abismo* — o cântico do rei Ezequias ao recuperar-se da sua doença (Isaías 38)."
+	},
+	"history": {
+		"en-US": "The Old Testament canticle of Tuesday Lauds in the Roman Breviary; it is also sung in the Office of the Dead.",
+		"pt-BR": "O cântico do Antigo Testamento das Laudes de terça-feira no Breviário Romano; canta-se também no Ofício dos Defuntos."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"canticle",
+		"isaiah",
+		"lauds",
+		"sickness"
+	],
+	"defaults": {
+		"sortOrder": 498,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

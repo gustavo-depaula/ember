@@ -1,0 +1,48 @@
+{
+	"id": "splendor-paternae-gloriae",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "Splendor paternae gloriae",
+		"pt-BR": "Splendor paternae gloriae",
+		"la": "Splendor paternae gloriae"
+	},
+	"categories": [
+		"daily",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*O splendor of the Father's glory* — a morning hymn to Christ, light from light and true Sun, asking for a sober, chaste and faithful day.",
+		"pt-BR": "*Ó esplendor da glória do Pai* — hino matutino a Cristo, luz da luz e verdadeiro Sol, pedindo um dia sóbrio, casto e fiel."
+	},
+	"history": {
+		"en-US": "By St. Ambrose of Milan (d. 397). It is the hymn of Monday Lauds.",
+		"pt-BR": "De Santo Ambrósio de Milão (†397). É o hino das Laudes de segunda-feira."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"lauds",
+		"morning",
+		"ambrose"
+	],
+	"defaults": {
+		"sortOrder": 469,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

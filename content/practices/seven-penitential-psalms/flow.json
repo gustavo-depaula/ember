@@ -1,0 +1,843 @@
+{
+	"sections": [
+		{
+			"type": "antiphon",
+			"text": {
+				"la": "Ne reminiscáris, Dómine, delícta nostra, vel paréntum nostrórum: neque vindíctam sumas de peccátis nostris."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 6",
+				"pt-BR": "Salmo 6",
+				"la": "Psalmus 6"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "Dómine, ne in furóre tuo árguas me, neque in ira tua corrípias me.",
+						"en-US": "Lord, rebuke me not in thy indignation, nor chastise me in thy wrath."
+					}
+				},
+				{
+					"text": {
+						"la": "Miserére mei, Dómine, quóniam infírmus sum: sana me, Dómine, quóniam conturbáta sunt ossa mea.",
+						"en-US": "Have mercy on me, O Lord, for I am weak: heal me, O Lord, for my bones are troubled."
+					}
+				},
+				{
+					"text": {
+						"la": "Et ánima mea turbáta est valde: sed tu, Dómine, úsquequo?",
+						"en-US": "And my soul is troubled exceedingly: but thou, O Lord, how long?"
+					}
+				},
+				{
+					"text": {
+						"la": "Convértere, Dómine, et éripe ánimam meam: salvum me fac propter misericórdiam tuam.",
+						"en-US": "Turn to me, O Lord, and deliver my soul: O save me for thy mercy's sake."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam non est in morte qui memor sit tui: in inférno autem quis confitébitur tibi?",
+						"en-US": "For there is no one in death, that is mindful of thee: and who shall confess to thee in hell?"
+					}
+				},
+				{
+					"text": {
+						"la": "Laborávi in gémitu meo, † lavábo per síngulas noctes lectum meum: lácrimis meis stratum meum rigábo.",
+						"en-US": "I have laboured in my groanings, † every night I will wash my bed: I will water my couch with my tears."
+					}
+				},
+				{
+					"text": {
+						"la": "Turbátus est a furóre óculus meus: inveterávi inter omnes inimícos meos.",
+						"en-US": "My eye is troubled through indignation: I have grown old amongst all my enemies."
+					}
+				},
+				{
+					"text": {
+						"la": "Discédite a me, omnes, qui operámini iniquitátem: quóniam exaudívit Dóminus vocem fletus mei.",
+						"en-US": "Depart from me, all ye workers of iniquity: for the Lord hath heard the voice of my weeping."
+					}
+				},
+				{
+					"text": {
+						"la": "Exaudívit Dóminus deprecatiónem meam, Dóminus oratiónem meam suscépit.",
+						"en-US": "The Lord hath heard my supplication: the Lord hath received my prayer."
+					}
+				},
+				{
+					"text": {
+						"la": "Erubéscant, et conturbéntur veheménter omnes inimíci mei: convertántur et erubéscant valde velóciter.",
+						"en-US": "Let all my enemies be ashamed, and be very much troubled: let them be turned back, and be ashamed very speedily."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 31",
+				"pt-BR": "Salmo 31",
+				"la": "Psalmus 31"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "Beáti quorum remíssae sunt iniquitátes: et quorum tecta sunt peccáta.",
+						"en-US": "Blessed are those whose iniquities are forgiven and whose sins are covered."
+					}
+				},
+				{
+					"text": {
+						"la": "Beátus vir, cui non imputávit Dóminus peccátum, nec est in spíritu eius dolus.",
+						"en-US": "Blessed is the man to whom the Lord hath not imputed sin, and in whose spirit there is no guile."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam tácui, inveteravérunt ossa mea, dum clamárem tota die.",
+						"en-US": "Because I was silent my bones grew old; whilst I cried out all the day long."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam die ac nocte graváta est super me manus tua: convérsus sum in aerúmna mea, dum confígitur spina.",
+						"en-US": "For day and night thy hand was heavy upon me: I am turned in my anguish, whilst the thorn is fastened."
+					}
+				},
+				{
+					"text": {
+						"la": "Delíctum meum cógnitum tibi feci: et iniustítiam meam non abscóndi.",
+						"en-US": "I have acknowledged my sin to thee, and my injustice I have not concealed."
+					}
+				},
+				{
+					"text": {
+						"la": "Dixi: Confitébor advérsum me iniustítiam meam Dómino: et tu remisísti impietátem peccáti mei.",
+						"en-US": "I said I will confess against myself my injustice to the Lord: and thou hast forgiven the wickedness of my sin."
+					}
+				},
+				{
+					"text": {
+						"la": "Pro hac orábit ad te omnis sanctus, in témpore opportúno.",
+						"en-US": "For this shall every one that is holy pray to thee in a seasonable time."
+					}
+				},
+				{
+					"text": {
+						"la": "Verúmtamen in dilúvio aquárum multárum, ad eum non approximábunt.",
+						"en-US": "And yet in a flood of many waters, they shall not come nigh unto him."
+					}
+				},
+				{
+					"text": {
+						"la": "Tu es refúgium meum a tribulatióne, quae circúmdedit me: exsultátio mea, érue me a circumdántibus me.",
+						"en-US": "Thou art my refuge from the trouble which hath encompassed me: my joy, deliver me from them that surround me."
+					}
+				},
+				{
+					"text": {
+						"la": "Intelléctum tibi dabo, et ínstruam te in via hac, qua gradiéris: firmábo super te óculos meos.",
+						"en-US": "I will give thee understanding, and I will instruct thee in this way, in which thou shalt go: I will fix my eyes upon thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Nolíte fíeri sicut equus et mulus, quibus non est intelléctus.",
+						"en-US": "Do not become like the horse and the mule, who have no understanding."
+					}
+				},
+				{
+					"text": {
+						"la": "In camo et freno maxíllas eórum constrínge, qui non appróximant ad te.",
+						"en-US": "With bit and bridle bind fast their jaws, who come not near unto thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Multa flagélla peccatóris, sperántem autem in Dómino misericórdia circúmdabit.",
+						"en-US": "Many are the scourges of the sinner, but mercy shall encompass him that hopeth in the Lord."
+					}
+				},
+				{
+					"text": {
+						"la": "Laetámini in Dómino et exsultáte, iusti, et gloriámini, omnes recti corde.",
+						"en-US": "Be glad in the Lord, and rejoice, ye just, and glory, all ye right of heart."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 37",
+				"pt-BR": "Salmo 37",
+				"la": "Psalmus 37"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "Dómine, ne in furóre tuo árguas me, neque in ira tua corrípias me.",
+						"en-US": "Rebuke me not, O Lord, in thy indignation; nor chastise me in thy wrath."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam sagíttae tuae infíxae sunt mihi: et confirmásti super me manum tuam.",
+						"en-US": "For thy arrows are fastened in me: and thy hand hath been strong upon me."
+					}
+				},
+				{
+					"text": {
+						"la": "Non est sánitas in carne mea a fácie irae tuae: non est pax óssibus meis a fácie peccatórum meórum.",
+						"en-US": "There is no health in my flesh, because of thy wrath: there is no peace for my bones, because of my sins."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam iniquitátes meae supergréssae sunt caput meum: et sicut onus grave gravátae sunt super me.",
+						"en-US": "For my iniquities are gone over my head: and as a heavy burden are become heavy upon me."
+					}
+				},
+				{
+					"text": {
+						"la": "Putruérunt et corrúptae sunt cicatríces meae, a fácie insipiéntiae meae.",
+						"en-US": "My sores are putrified and corrupted, because of my foolishness."
+					}
+				},
+				{
+					"text": {
+						"la": "Miser factus sum, et curvátus sum usque in finem: tota die contristátus ingrediébar.",
+						"en-US": "I am become miserable, and am bowed down even to the end: I walked sorrowful all the day long."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam lumbi mei impléti sunt illusiónibus: et non est sánitas in carne mea.",
+						"en-US": "For my loins are filled with illusions; and there is no health in my flesh."
+					}
+				},
+				{
+					"text": {
+						"la": "Afflíctus sum, et humiliátus sum nimis: rugiébam a gémitu cordis mei.",
+						"en-US": "I am afflicted and humbled exceedingly: I roared with the groaning of my heart."
+					}
+				},
+				{
+					"text": {
+						"la": "Dómine, ante te omne desidérium meum: et gémitus meus a te non est abscónditus.",
+						"en-US": "Lord, all my desire is before thee, and my groaning is not hidden from thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Cor meum conturbátum est, derelíquit me virtus mea: et lumen oculórum meórum, et ipsum non est mecum.",
+						"en-US": "My heart is troubled, my strength hath left me, and the light of my eyes itself is not with me."
+					}
+				},
+				{
+					"text": {
+						"la": "Amíci mei, et próximi mei advérsum me appropinquavérunt, et stetérunt.",
+						"en-US": "My friends and my neighbours have drawn near, and stood against me."
+					}
+				},
+				{
+					"text": {
+						"la": "Et qui iuxta me erant, de longe stetérunt: et vim faciébant qui quaerébant ánimam meam.",
+						"en-US": "And they that were near me stood afar off: and they that sought my soul used violence."
+					}
+				},
+				{
+					"text": {
+						"la": "Et qui inquirébant mala mihi, locúti sunt vanitátes: et dolos tota die meditabántur.",
+						"en-US": "And they that sought evils to me spoke vain things, and studied deceits all the day long."
+					}
+				},
+				{
+					"text": {
+						"la": "Ego autem tamquam surdus non audiébam: et sicut mutus non apériens os suum.",
+						"en-US": "But I, as a deaf man, heard not: and as a dumb man not opening his mouth."
+					}
+				},
+				{
+					"text": {
+						"la": "Et factus sum sicut homo non áudiens: et non habens in ore suo redargutiónes.",
+						"en-US": "And I became as a man that heareth not: and that hath no reproofs in his mouth."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam in te, Dómine, sperávi: tu exáudies me, Dómine, Deus meus.",
+						"en-US": "For in thee, O Lord, have I hoped: thou wilt hear me, O Lord my God."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia dixi: Nequándo supergáudeant mihi inimíci mei: et dum commovéntur pedes mei, super me magna locúti sunt.",
+						"en-US": "For I said: Lest at any time my enemies rejoice over me: and whilst my feet are moved, they speak great things against me."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam ego in flagélla parátus sum: et dolor meus in conspéctu meo semper.",
+						"en-US": "For I am ready for scourges: and my sorrow is continually before me."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam iniquitátem meam annuntiábo: et cogitábo pro peccáto meo.",
+						"en-US": "For I will declare my iniquity: and I will think for my sin."
+					}
+				},
+				{
+					"text": {
+						"la": "Inimíci autem mei vivunt, et confirmáti sunt super me: et multiplicáti sunt qui odérunt me iníque.",
+						"en-US": "But my enemies live, and are stronger than I: and they that hate me wrongfully are multiplied."
+					}
+				},
+				{
+					"text": {
+						"la": "Qui retríbuunt mala pro bonis, detrahébant mihi: quóniam sequébar bonitátem.",
+						"en-US": "They that render evil for good, have detracted me, because I followed goodness."
+					}
+				},
+				{
+					"text": {
+						"la": "Ne derelínquas me, Dómine, Deus meus: ne discésseris a me.",
+						"en-US": "Forsake me not, O Lord my God: do not thou depart from me."
+					}
+				},
+				{
+					"text": {
+						"la": "Inténde in adiutórium meum, Dómine, Deus, salútis meae.",
+						"en-US": "Attend unto my help, O Lord, the God of my salvation."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 50",
+				"pt-BR": "Salmo 50",
+				"la": "Psalmus 50"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "Miserére mei, Deus, secúndum magnam misericórdiam tuam.",
+						"en-US": "Have mercy on me, O God, according to thy great mercy."
+					}
+				},
+				{
+					"text": {
+						"la": "Et secúndum multitúdinem miseratiónum tuárum, dele iniquitátem meam.",
+						"en-US": "And according to the multitude of thy tender mercies blot out my iniquity."
+					}
+				},
+				{
+					"text": {
+						"la": "Ámplius lava me ab iniquitáte mea: et a peccáto meo munda me.",
+						"en-US": "Wash me yet more from my iniquity, and cleanse me from my sin."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam iniquitátem meam ego cognósco: et peccátum meum contra me est semper.",
+						"en-US": "For I know my iniquity, and my sin is always before me."
+					}
+				},
+				{
+					"text": {
+						"la": "Tibi soli peccávi, et malum coram te feci: ut iustificéris in sermónibus tuis, et vincas cum iudicáris.",
+						"en-US": "To thee only have I sinned, and have done evil before thee: that thou mayst be justified in thy words, and mayst overcome when thou art judged."
+					}
+				},
+				{
+					"text": {
+						"la": "Ecce enim, in iniquitátibus concéptus sum: et in peccátis concépit me mater mea.",
+						"en-US": "For behold I was conceived in iniquities; and in sins did my mother conceive me."
+					}
+				},
+				{
+					"text": {
+						"la": "Ecce enim, veritátem dilexísti: incérta et occúlta sapiéntiae tuae manifestásti mihi.",
+						"en-US": "For behold thou hast loved truth: the uncertain and hidden things of thy wisdom thou hast made manifest to me."
+					}
+				},
+				{
+					"text": {
+						"la": "Aspérges me hyssópo, et mundábor: lavábis me, et super nivem dealbábor.",
+						"en-US": "Thou shalt sprinkle me with hyssop, and I shall be cleansed: thou shalt wash me, and I shall be made whiter than snow."
+					}
+				},
+				{
+					"text": {
+						"la": "Audítui meo dabis gáudium et laetítiam: et exsultábunt ossa humiliáta.",
+						"en-US": "To my hearing thou shalt give joy and gladness: and the bones that have been humbled shall rejoice."
+					}
+				},
+				{
+					"text": {
+						"la": "Avérte fáciem tuam a peccátis meis: et omnes iniquitátes meas dele.",
+						"en-US": "Turn away thy face from my sins, and blot out all my iniquities."
+					}
+				},
+				{
+					"text": {
+						"la": "Cor mundum crea in me, Deus: et spíritum rectum ínnova in viscéribus meis.",
+						"en-US": "Create a clean heart in me, O God: and renew a right spirit within my bowels."
+					}
+				},
+				{
+					"text": {
+						"la": "Ne proícias me a fácie tua: et spíritum sanctum tuum ne áuferas a me.",
+						"en-US": "Cast me not away from thy face; and take not thy holy spirit from me."
+					}
+				},
+				{
+					"text": {
+						"la": "Redde mihi laetítiam salutáris tui: et spíritu principáli confírma me.",
+						"en-US": "Restore unto me the joy of thy salvation, and strengthen me with a perfect spirit."
+					}
+				},
+				{
+					"text": {
+						"la": "Docébo iníquos vias tuas: et ímpii ad te converténtur.",
+						"en-US": "I will teach the unjust thy ways: and the wicked shall be converted to thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Líbera me de sanguínibus, Deus, Deus salútis meae: et exsultábit lingua mea iustítiam tuam.",
+						"en-US": "Deliver me from blood, O God, thou God of my salvation: and my tongue shall extol thy justice."
+					}
+				},
+				{
+					"text": {
+						"la": "Dómine, lábia mea apéries: et os meum annuntiábit laudem tuam.",
+						"en-US": "O Lord, thou wilt open my lips: and my mouth shall declare thy praise."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam si voluísses sacrifícium, dedíssem útique: holocáustis non delectáberis.",
+						"en-US": "For if thou hadst desired sacrifice, I would indeed have given it: with burnt offerings thou wilt not be delighted."
+					}
+				},
+				{
+					"text": {
+						"la": "Sacrifícium Deo spíritus contribulátus: cor contrítum, et humiliátum, Deus, non despícies.",
+						"en-US": "A sacrifice to God is an afflicted spirit: a contrite and humbled heart, O God, thou wilt not despise."
+					}
+				},
+				{
+					"text": {
+						"la": "Benígne fac, Dómine, in bona voluntáte tua Sion: ut aedificéntur muri Ierúsalem.",
+						"en-US": "Deal favourably, O Lord, in thy good will with Sion; that the walls of Jerusalem may be built up."
+					}
+				},
+				{
+					"text": {
+						"la": "Tunc acceptábis sacrifícium iustítiae, oblatiónes, et holocáusta: tunc impónent super altáre tuum vítulos.",
+						"en-US": "Then shalt thou accept the sacrifice of justice, oblations and whole burnt offerings: then shall they lay calves upon thy altar."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 101",
+				"pt-BR": "Salmo 101",
+				"la": "Psalmus 101"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "Dómine, exáudi oratiónem meam: et clamor meus ad te véniat.",
+						"en-US": "Hear, O Lord, my prayer: and let my cry come to thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Non avértas fáciem tuam a me: in quacúmque die tríbulor, inclína ad me aurem tuam.",
+						"en-US": "Turn not away thy face from me: in the day when I am in trouble, incline thy ear to me."
+					}
+				},
+				{
+					"text": {
+						"la": "In quacúmque die invocávero te, velóciter exáudi me.",
+						"en-US": "In what day soever I shall call upon thee, hear me speedily."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia defecérunt sicut fumus dies mei: et ossa mea sicut crémium aruérunt.",
+						"en-US": "For my days are vanished like smoke: and my bones are grown dry like fuel for the fire."
+					}
+				},
+				{
+					"text": {
+						"la": "Percússus sum ut faenum, et áruit cor meum: quia oblítus sum comédere panem meum.",
+						"en-US": "I am smitten as grass, and my heart is withered: because I forgot to eat my bread."
+					}
+				},
+				{
+					"text": {
+						"la": "A voce gémitus mei adhaésit os meum carni meae.",
+						"en-US": "Through the voice of my groaning, my bone hath cleaved to my flesh."
+					}
+				},
+				{
+					"text": {
+						"la": "Símilis factus sum pellicáno solitúdinis: factus sum sicut nyctícorax in domicílio.",
+						"en-US": "I am become like to a pelican of the wilderness: I am like a night raven in the house."
+					}
+				},
+				{
+					"text": {
+						"la": "Vigilávi, et factus sum sicut passer solitárius in tecto.",
+						"en-US": "I have watched, and am become as a sparrow all alone on the housetop."
+					}
+				},
+				{
+					"text": {
+						"la": "Tota die exprobrábant mihi inimíci mei: et qui laudábant me, advérsum me iurábant.",
+						"en-US": "All the day long my enemies reproached me: and they that praised me did swear against me."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia cínerem tamquam panem manducábam, et potum meum cum fletu miscébam.",
+						"en-US": "For I did eat ashes like bread, and mingled my drink with weeping."
+					}
+				},
+				{
+					"text": {
+						"la": "A fácie irae et indignatiónis tuae: quia élevans allisísti me.",
+						"en-US": "Because of thy anger and indignation: for having lifted me up thou hast thrown me down."
+					}
+				},
+				{
+					"text": {
+						"la": "Dies mei sicut umbra declinavérunt: et ego sicut faenum árui.",
+						"en-US": "My days have declined like a shadow, and I am withered like grass."
+					}
+				},
+				{
+					"text": {
+						"la": "Tu autem, Dómine, in aetérnum pérmanes: et memoriále tuum in generatiónem et generatiónem.",
+						"en-US": "But thou, O Lord, endurest for ever: and thy memorial to all generations."
+					}
+				},
+				{
+					"text": {
+						"la": "Tu exsúrgens miseréberis Sion: quia tempus miseréndi eius, quia venit tempus.",
+						"en-US": "Thou shalt arise and have mercy on Sion: for it is time to have mercy on it, for the time is come."
+					}
+				},
+				{
+					"text": {
+						"la": "Quóniam placuérunt servis tuis lápides eius: et terrae eius miserebúntur.",
+						"en-US": "For the stones thereof have pleased thy servants: and they shall have pity on the earth thereof."
+					}
+				},
+				{
+					"text": {
+						"la": "Et timébunt gentes nomen tuum, Dómine, et omnes reges terrae glóriam tuam.",
+						"en-US": "And the Gentiles shall fear thy name, O Lord, and all the kings of the earth thy glory."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia aedificávit Dóminus Sion: et vidébitur in glória sua.",
+						"en-US": "For the Lord hath built up Sion: and he shall be seen in his glory."
+					}
+				},
+				{
+					"text": {
+						"la": "Respéxit in oratiónem humílium: et non sprevit precem eórum.",
+						"en-US": "He hath had regard to the prayer of the humble: and he hath not despised their petition."
+					}
+				},
+				{
+					"text": {
+						"la": "Scribántur haec in generatióne áltera: et pópulus, qui creábitur, laudábit Dóminum:",
+						"en-US": "Let these things be written unto another generation: and the people that shall be created shall praise the Lord:"
+					}
+				},
+				{
+					"text": {
+						"la": "Quia prospéxit de excélso sancto suo: Dóminus de caelo in terram aspéxit:",
+						"en-US": "Because he hath looked forth from his high sanctuary: from heaven the Lord hath looked upon the earth."
+					}
+				},
+				{
+					"text": {
+						"la": "Ut audíret gémitus compeditórum: ut sólveret fílios interemptórum:",
+						"en-US": "That he might hear the groans of them that are in fetters: that he might release the children of the slain:"
+					}
+				},
+				{
+					"text": {
+						"la": "Ut annúntient in Sion nomen Dómini: et laudem eius in Ierúsalem.",
+						"en-US": "That they may declare the name of the Lord in Sion: and his praise in Jerusalem;"
+					}
+				},
+				{
+					"text": {
+						"la": "In conveniéndo pópulos in unum, et reges ut sérviant Dómino.",
+						"en-US": "When the people assemble together, and kings, to serve the Lord."
+					}
+				},
+				{
+					"text": {
+						"la": "Respóndit ei in via virtútis suae: Paucitátem diérum meórum núntia mihi.",
+						"en-US": "He answered him in the way of his strength: Declare unto me the fewness of my days."
+					}
+				},
+				{
+					"text": {
+						"la": "Ne révoces me in dimídio diérum meórum: in generatiónem et generatiónem anni tui.",
+						"en-US": "Call me not away in the midst of my days: thy years are unto generation and generation."
+					}
+				},
+				{
+					"text": {
+						"la": "Inítio tu, Dómine, terram fundásti: et ópera mánuum tuárum sunt caeli.",
+						"en-US": "In the beginning, O Lord, thou foundedst the earth: and the heavens are the works of thy hands."
+					}
+				},
+				{
+					"text": {
+						"la": "Ipsi períbunt, tu autem pérmanes: et omnes sicut vestiméntum veteráscent.",
+						"en-US": "They shall perish but thou remainest: and all of them shall grow old like a garment:"
+					}
+				},
+				{
+					"text": {
+						"la": "Et sicut opertórium mutábis eos, et mutabúntur: tu autem idem ipse es, et anni tui non defícient.",
+						"en-US": "And as a vesture thou shalt change them, and they shall be changed. But thou art always the selfsame, and thy years shall not fail."
+					}
+				},
+				{
+					"text": {
+						"la": "Fílii servórum tuórum habitábunt: et semen eórum in saéculum dirigétur.",
+						"en-US": "The children of thy servants shall continue: and their seed shall be directed for ever."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 129",
+				"pt-BR": "Salmo 129",
+				"la": "Psalmus 129"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "De profúndis clamávi ad te, Dómine: (2a) Dómine, exáudi vocem meam:",
+						"en-US": "Out of the depths I have cried to thee, O Lord: (2a) Lord, hear my voice."
+					}
+				},
+				{
+					"text": {
+						"la": "Fiant aures tuae intendéntes, in vocem deprecatiónis meae.",
+						"en-US": "Let thy ears be attentive to the voice of my supplication."
+					}
+				},
+				{
+					"text": {
+						"la": "Si iniquitátes observáveris, Dómine: Dómine, quis sustinébit?",
+						"en-US": "If thou, O Lord, wilt mark iniquities: Lord, who shall stand it."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia apud te propitiátio est: et propter legem tuam sustínui te, Dómine.",
+						"en-US": "For with thee there is merciful forgiveness: and by reason of thy law, I have waited for thee, O Lord."
+					}
+				},
+				{
+					"text": {
+						"la": "Sustínuit ánima mea in verbo eius: (5) sperávit ánima mea in Dómino.",
+						"en-US": "My soul hath relied on his word: (5) my soul hath hoped in the Lord."
+					}
+				},
+				{
+					"text": {
+						"la": "A custódia matutína usque ad noctem: speret Israël in Dómino.",
+						"en-US": "From the morning watch even until night, let Israel hope in the Lord."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia apud Dóminum misericórdia: et copiósa apud eum redémptio.",
+						"en-US": "Because with the Lord there is mercy: and with him plentiful redemption."
+					}
+				},
+				{
+					"text": {
+						"la": "Et ipse rédimet Israël, ex ómnibus iniquitátibus eius.",
+						"en-US": "And he shall redeem Israel from all his iniquities."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Psalm 142",
+				"pt-BR": "Salmo 142",
+				"la": "Psalmus 142"
+			}
+		},
+		{
+			"type": "psalm",
+			"verses": [
+				{
+					"text": {
+						"la": "Dómine, exáudi oratiónem meam: áuribus pércipe obsecratiónem meam in veritáte tua: exáudi me in tua iustítia.",
+						"en-US": "Hear, O Lord, my prayer: give ear to my supplication in thy truth: hear me in thy justice."
+					}
+				},
+				{
+					"text": {
+						"la": "Et non intres in iudícium cum servo tuo: quia non iustificábitur in conspéctu tuo omnis vivens.",
+						"en-US": "And enter not into judgment with thy servant: for in thy sight no man living shall be justified."
+					}
+				},
+				{
+					"text": {
+						"la": "Quia persecútus est inimícus ánimam meam: humiliávit in terra vitam meam.",
+						"en-US": "For the enemy hath persecuted my soul: he hath brought down my life to the earth."
+					}
+				},
+				{
+					"text": {
+						"la": "Collocávit me in obscúris sicut mórtuos saéculi: (4) et anxiátus est super me spíritus meus, in me turbátum est cor meum.",
+						"en-US": "He hath made me to dwell in darkness as those that have been dead of old: (4) and my spirit is in anguish within me: my heart within me is troubled."
+					}
+				},
+				{
+					"text": {
+						"la": "Memor fui diérum antiquórum, meditátus sum in ómnibus opéribus tuis: in factis mánuum tuárum meditábar.",
+						"en-US": "I remembered the days of old, I meditated on all thy works: I meditated upon the works of thy hands."
+					}
+				},
+				{
+					"text": {
+						"la": "Expándi manus meas ad te: ánima mea sicut terra sine aqua tibi.",
+						"en-US": "I stretched forth my hands to thee: my soul is as earth without water unto thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Velóciter exáudi me, Dómine: defécit spíritus meus.",
+						"en-US": "Hear me speedily, O Lord: my spirit hath fainted away."
+					}
+				},
+				{
+					"text": {
+						"la": "Non avértas fáciem tuam a me: et símilis ero descendéntibus in lacum.",
+						"en-US": "Turn not away thy face from me, lest I be like unto them that go down into the pit."
+					}
+				},
+				{
+					"text": {
+						"la": "Audítam fac mihi mane misericórdiam tuam: quia in te sperávi.",
+						"en-US": "Cause me to hear thy mercy in the morning; for in thee have I hoped."
+					}
+				},
+				{
+					"text": {
+						"la": "Notam fac mihi viam, in qua ámbulem: quia ad te levávi ánimam meam.",
+						"en-US": "Make the way known to me, wherein I should walk: for I have lifted up my soul to thee."
+					}
+				},
+				{
+					"text": {
+						"la": "Éripe me de inimícis meis, Dómine, ad te confúgi: (10a) doce me fácere voluntátem tuam, quia Deus meus es tu.",
+						"en-US": "Deliver me from my enemies, O Lord, to thee have I fled: (10a) teach me to do thy will, for thou art my God."
+					}
+				},
+				{
+					"text": {
+						"la": "Spíritus tuus bonus dedúcet me in terram rectam: (11a) propter nomen tuum, Dómine, vivificábis me, in aequitáte tua.",
+						"en-US": "Thy good spirit shall lead me into the right land: (11a) for thy name's sake, O Lord, thou wilt quicken me in thy justice."
+					}
+				},
+				{
+					"text": {
+						"la": "Edúces de tribulatióne ánimam meam: (12a) et in misericórdia tua dispérdes inimícos meos.",
+						"en-US": "Thou wilt bring my soul out of trouble: (12a) and in thy mercy thou wilt destroy my enemies."
+					}
+				},
+				{
+					"text": {
+						"la": "Et perdes omnes, qui tríbulant ánimam meam: quóniam ego servus tuus sum.",
+						"en-US": "And thou wilt cut off all them that afflict my soul: for I am thy servant."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"ref": "glory-be"
+		},
+		{
+			"type": "antiphon",
+			"text": {
+				"la": "Ne reminiscáris, Dómine, delícta nostra, vel paréntum nostrórum: neque vindíctam sumas de peccátis nostris."
+			}
+		}
+	]
+}

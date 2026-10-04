@@ -13,6 +13,11 @@
 		"ro": "Nunc dimittis",
 		"sv": "Nunc dimittis"
 	},
+	"tags": [
+		"canticle",
+		"compline",
+		"night"
+	],
 	"flow": {
 		"sections": [
 			{

@@ -1,0 +1,47 @@
+{
+	"id": "a-solis-ortus-cardine",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "A solis ortus cardine",
+		"pt-BR": "A solis ortus cardine",
+		"la": "A solis ortus cardine"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*From the rising of the sun* — the Lauds hymn of Christmas: the Maker of the world takes a servant's body and lies in a manger.",
+		"pt-BR": "*Desde onde o sol nasce* — o hino de Laudes do Natal: o Criador do mundo assume um corpo de servo e repousa numa manjedoura."
+	},
+	"history": {
+		"en-US": "The opening stanzas of the alphabetical hymn on the life of Christ by the fifth-century poet Sedulius.",
+		"pt-BR": "As primeiras estrofes do hino alfabético sobre a vida de Cristo, do poeta Sedúlio, do século V."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"christmas",
+		"lauds"
+	],
+	"defaults": {
+		"sortOrder": 456,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

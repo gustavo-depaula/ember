@@ -17,6 +17,11 @@
 		"sl": "Hvaljen (Benedíctus)",
 		"sv": "Benedictus"
 	},
+	"tags": [
+		"canticle",
+		"lauds",
+		"morning"
+	],
 	"flow": {
 		"sections": [
 			{

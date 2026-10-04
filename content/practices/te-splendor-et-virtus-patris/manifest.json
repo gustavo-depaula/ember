@@ -1,0 +1,49 @@
+{
+	"id": "te-splendor-et-virtus-patris",
+	"form": "prayer",
+	"icon": "angel",
+	"name": {
+		"en-US": "Te, splendor et virtus Patris",
+		"pt-BR": "Te, splendor et virtus Patris",
+		"la": "Te, splendor et virtus Patris"
+	},
+	"categories": [
+		"angels",
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*You, splendor and power of the Father* — the Vespers hymn of St. Michael the Archangel, standard-bearer of salvation.",
+		"pt-BR": "*A Vós, esplendor e poder do Pai* — o hino de Vésperas de São Miguel Arcanjo, porta-estandarte da salvação."
+	},
+	"history": {
+		"en-US": "The hymn *Tibi, Christe, splendor Patris*, attributed to Rabanus Maurus (ninth century), as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O hino *Tibi, Christe, splendor Patris*, atribuído a Rabano Mauro (século IX), na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"angels",
+		"michael",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 478,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

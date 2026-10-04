@@ -1,0 +1,47 @@
+{
+	"id": "crudelis-herodes",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Crudelis Herodes",
+		"pt-BR": "Crudelis Herodes",
+		"la": "Crudelis Herodes"
+	},
+	"categories": [
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Cruel Herod, why do you fear?* — the Vespers hymn of the Epiphany: the Magi, the Baptism in the Jordan, and the water made wine at Cana.",
+		"pt-BR": "*Cruel Herodes, por que temes?* — o hino de Vésperas da Epifania: os Magos, o Batismo no Jordão e a água feita vinho em Caná."
+	},
+	"history": {
+		"en-US": "Taken from the same alphabetical hymn of Sedulius (fifth century) as *A solis ortus cardine*, where it begins *Hostis Herodes impie*.",
+		"pt-BR": "Tirado do mesmo hino alfabético de Sedúlio (século V) que *A solis ortus cardine*, onde começa *Hostis Herodes impie*."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"epiphany",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 457,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

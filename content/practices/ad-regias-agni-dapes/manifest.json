@@ -1,0 +1,48 @@
+{
+	"id": "ad-regias-agni-dapes",
+	"form": "prayer",
+	"icon": "eucharist",
+	"name": {
+		"en-US": "Ad regias Agni dapes",
+		"pt-BR": "Ad regias Agni dapes",
+		"la": "Ad regias Agni dapes"
+	},
+	"categories": [
+		"resurrection",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*At the Lamb's royal banquet* — the Vespers hymn of Eastertide: robed in white after crossing the Red Sea, we sing to Christ our Pasch.",
+		"pt-BR": "*Ao régio banquete do Cordeiro* — o hino de Vésperas do Tempo Pascal: vestidos de branco depois de atravessar o Mar Vermelho, cantamos a Cristo, nossa Páscoa."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Ad cenam Agni providi*, sung by the newly baptized, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Ad cenam Agni providi*, cantado pelos recém-batizados, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"easter",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 461,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

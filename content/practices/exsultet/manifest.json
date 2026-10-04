@@ -1,0 +1,49 @@
+{
+	"id": "exsultet",
+	"form": "prayer",
+	"icon": "candle",
+	"name": {
+		"en-US": "Exsultet",
+		"pt-BR": "Exsultet",
+		"la": "Exsultet"
+	},
+	"categories": [
+		"resurrection",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 10,
+	"description": {
+		"en-US": "*Let the angelic host of heaven now rejoice* — the Easter Proclamation, sung by the deacon before the Paschal candle in the night of the Resurrection: *O happy fault, that merited so great a Redeemer!*",
+		"pt-BR": "*Exulte já a multidão dos Anjos no céu* — o Precônio Pascal, cantado pelo diácono diante do círio pascal na noite da Ressurreição: *Ó feliz culpa, que mereceu tão grande Redentor!*"
+	},
+	"history": {
+		"en-US": "The ancient *Praeconium paschale* of the Roman Easter Vigil, in use since at least the seventh century. It is given as the Roman Missal carried it until 1955, closing with the old prayer for the Emperor.",
+		"pt-BR": "O antigo *Praeconium paschale* da Vigília Pascal romana, em uso pelo menos desde o século VII. Vai aqui como o Missal Romano o trazia até 1955, terminando com a antiga oração pelo Imperador."
+	},
+	"source": {
+		"en-US": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"easter",
+		"easter-vigil",
+		"holy-week",
+		"paschal-candle"
+	],
+	"defaults": {
+		"sortOrder": 490,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,47 @@
+{
+	"id": "canticle-of-moses",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"en-US": "Canticle of Moses",
+		"pt-BR": "Cântico de Moisés",
+		"la": "Canticum Moysis"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*Let us sing to the Lord, for He is gloriously magnified* — the song of Moses and Israel on the far shore of the Red Sea (Exodus 15).",
+		"pt-BR": "*Cantemos ao Senhor, que gloriosamente se engrandeceu* — o cântico de Moisés e de Israel na outra margem do Mar Vermelho (Êxodo 15)."
+	},
+	"history": {
+		"en-US": "The Old Testament canticle of Thursday Lauds in the Roman Breviary.",
+		"pt-BR": "O cântico do Antigo Testamento das Laudes de quinta-feira no Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"canticle",
+		"exodus",
+		"lauds",
+		"easter-vigil"
+	],
+	"defaults": {
+		"sortOrder": 500,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

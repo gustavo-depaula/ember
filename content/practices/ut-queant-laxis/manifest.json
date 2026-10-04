@@ -1,0 +1,48 @@
+{
+	"id": "ut-queant-laxis",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Ut queant laxis",
+		"pt-BR": "Ut queant laxis",
+		"la": "Ut queant laxis"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*That your servants may sing with loosened voices* — the Vespers hymn of the Nativity of St. John the Baptist.",
+		"pt-BR": "*Para que os teus servos possam cantar a plena voz* — o hino de Vésperas da Natividade de São João Batista."
+	},
+	"history": {
+		"en-US": "Attributed to Paul the Deacon (eighth century). Guido of Arezzo named the notes of the scale — *ut, re, mi, fa, sol, la* — from the first syllables of its opening half-lines.",
+		"pt-BR": "Atribuído a Paulo Diácono (século VIII). Guido d'Arezzo deu nome às notas da escala — *ut, ré, mi, fá, sol, lá* — a partir das primeiras sílabas dos seus hemistíquios iniciais."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"john-the-baptist",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 474,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

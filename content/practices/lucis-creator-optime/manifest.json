@@ -1,0 +1,48 @@
+{
+	"id": "lucis-creator-optime",
+	"form": "prayer",
+	"icon": "moon",
+	"name": {
+		"en-US": "Lucis Creator optime",
+		"pt-BR": "Lucis Creator optime",
+		"la": "Lucis Creator optime"
+	},
+	"categories": [
+		"daily",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O blest Creator of the light* — the hymn of Sunday Vespers, on the first day of creation when God made the light.",
+		"pt-BR": "*Ó excelso Criador da luz* — o hino das Vésperas de domingo, sobre o primeiro dia da criação, quando Deus fez a luz."
+	},
+	"history": {
+		"en-US": "Traditionally attributed to St. Gregory the Great (d. 604). It opens the week's cycle of Vespers hymns on the six days of creation.",
+		"pt-BR": "Tradicionalmente atribuído a São Gregório Magno (†604). Abre o ciclo semanal dos hinos de Vésperas sobre os seis dias da criação."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"sunday",
+		"vespers",
+		"evening"
+	],
+	"defaults": {
+		"sortOrder": 467,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

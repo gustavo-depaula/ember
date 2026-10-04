@@ -1,0 +1,48 @@
+{
+	"id": "deus-tuorum-militum",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Deus, tuorum militum",
+		"pt-BR": "Deus, tuorum militum",
+		"la": "Deus, tuorum militum"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O God, the lot, the crown and the reward of Your soldiers* — the Vespers hymn of a Martyr.",
+		"pt-BR": "*Ó Deus, herança, coroa e prêmio dos vossos soldados* — o hino de Vésperas de um Mártir."
+	},
+	"history": {
+		"en-US": "An ancient hymn from the Common of One Martyr in the Roman Breviary.",
+		"pt-BR": "Hino antigo, do Comum de um Mártir no Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"martyrs",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 481,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

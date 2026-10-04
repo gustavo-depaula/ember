@@ -5,6 +5,11 @@
 	"name": {
 		"en-US": "Te Lucis Ante Terminum"
 	},
+	"tags": [
+		"hymn",
+		"compline",
+		"night"
+	],
 	"flow": {
 		"sections": [
 			{

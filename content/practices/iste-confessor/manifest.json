@@ -1,0 +1,48 @@
+{
+	"id": "iste-confessor",
+	"form": "prayer",
+	"icon": "prayer",
+	"name": {
+		"en-US": "Iste Confessor",
+		"pt-BR": "Iste Confessor",
+		"la": "Iste Confessor"
+	},
+	"categories": [
+		"saints",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*This Confessor of the Lord* — the Vespers hymn of Confessors: devout, prudent, humble and chaste, at whose tomb the sick are healed.",
+		"pt-BR": "*Este Confessor do Senhor* — o hino de Vésperas dos Confessores: piedoso, prudente, humilde e casto, junto a cujo túmulo os enfermos são curados."
+	},
+	"history": {
+		"en-US": "An eighth-century hymn first written in honour of St. Martin of Tours, in the 1632 revision of the Roman Breviary.",
+		"pt-BR": "Hino do século VIII, composto primeiramente em honra de São Martinho de Tours, na revisão do Breviário Romano de 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"saints",
+		"confessors",
+		"vespers"
+	],
+	"defaults": {
+		"sortOrder": 483,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

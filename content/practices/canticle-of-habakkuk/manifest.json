@@ -1,0 +1,46 @@
+{
+	"id": "canticle-of-habakkuk",
+	"form": "prayer",
+	"icon": "scroll",
+	"name": {
+		"en-US": "Canticle of Habakkuk",
+		"pt-BR": "Cântico de Habacuc",
+		"la": "Canticum Habacuc"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 4,
+	"description": {
+		"en-US": "*O Lord, I have heard Your hearing and was afraid* — the prayer of the prophet Habakkuk (Habakkuk 3): \"When Thou art angry, Thou wilt remember mercy.\"",
+		"pt-BR": "*Senhor, ouvi a vossa palavra e temi* — a oração do profeta Habacuc (Habacuc 3): «Quando estiverdes irado, lembrar-vos-eis da misericórdia.»"
+	},
+	"history": {
+		"en-US": "The Old Testament canticle of Friday Lauds in the Roman Breviary.",
+		"pt-BR": "O cântico do Antigo Testamento das Laudes de sexta-feira no Breviário Romano."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"canticle",
+		"lauds",
+		"passion"
+	],
+	"defaults": {
+		"sortOrder": 501,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

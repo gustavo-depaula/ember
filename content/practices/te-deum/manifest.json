@@ -7,6 +7,11 @@
 		"pt-BR": "Te Deum",
 		"la": "Te Deum"
 	},
+	"tags": [
+		"hymn",
+		"thanksgiving",
+		"trinity"
+	],
 	"flow": {
 		"sections": [
 			{

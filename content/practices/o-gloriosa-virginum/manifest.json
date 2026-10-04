@@ -1,0 +1,47 @@
+{
+	"id": "o-gloriosa-virginum",
+	"form": "prayer",
+	"icon": "mary",
+	"name": {
+		"en-US": "O gloriosa virginum",
+		"pt-BR": "O gloriosa virginum",
+		"la": "O gloriosa virginum"
+	},
+	"categories": [
+		"marian",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*O glorious among virgins* — the Lauds hymn of Our Lady: what Eve took away, Mary gives back through her holy Child.",
+		"pt-BR": "*Ó gloriosa entre as virgens* — o hino de Laudes de Nossa Senhora: o que Eva tirou, Maria restitui por meio do seu santo Filho."
+	},
+	"history": {
+		"en-US": "The second part of *Quem terra, pontus, sidera*, attributed to Venantius Fortunatus (sixth century); its older form begins *O gloriosa Domina*.",
+		"pt-BR": "A segunda parte de *Quem terra, pontus, sidera*, atribuído a Venâncio Fortunato (século VI); a sua forma mais antiga começa *O gloriosa Domina*."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"marian",
+		"lauds"
+	],
+	"defaults": {
+		"sortOrder": 486,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

@@ -1,0 +1,48 @@
+{
+	"id": "iam-sol-recedit-igneus",
+	"form": "prayer",
+	"icon": "trinity",
+	"name": {
+		"en-US": "Iam sol recedit igneus",
+		"pt-BR": "Iam sol recedit igneus",
+		"la": "Iam sol recedit igneus"
+	},
+	"categories": [
+		"trinity",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Now the fiery sun departs* — the evening hymn to the Trinity: as the day's light fails, pour Your unfailing light into our hearts.",
+		"pt-BR": "*Já o sol ardente se retira* — o hino vespertino à Trindade: quando a luz do dia declina, infundi nos corações a vossa luz que não se apaga."
+	},
+	"history": {
+		"en-US": "The hymn *O lux beata Trinitas*, attributed to St. Ambrose, as revised for the Roman Breviary in 1632. It is sung at Vespers of Trinity Sunday and of Saturdays.",
+		"pt-BR": "O hino *O lux beata Trinitas*, atribuído a Santo Ambrósio, na revisão feita para o Breviário Romano em 1632. Canta-se nas Vésperas do Domingo da Santíssima Trindade e dos sábados."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"trinity",
+		"vespers",
+		"evening"
+	],
+	"defaults": {
+		"sortOrder": 466,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

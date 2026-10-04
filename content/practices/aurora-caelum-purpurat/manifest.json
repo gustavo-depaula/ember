@@ -1,0 +1,48 @@
+{
+	"id": "aurora-caelum-purpurat",
+	"form": "prayer",
+	"icon": "sunrise",
+	"name": {
+		"en-US": "Aurora caelum purpurat",
+		"pt-BR": "Aurora caelum purpurat",
+		"la": "Aurora caelum purpurat"
+	},
+	"categories": [
+		"resurrection",
+		"seasonal",
+		"liturgical"
+	],
+	"estimatedMinutes": 1,
+	"description": {
+		"en-US": "*Dawn purples the sky* — the Lauds hymn of Eastertide: heaven resounds, the world exults, and hell groans as the King leads the fathers out into light.",
+		"pt-BR": "*A aurora tinge de púrpura o céu* — o hino de Laudes do Tempo Pascal: o céu ressoa, o mundo exulta e o inferno geme, enquanto o Rei conduz os pais para a luz."
+	},
+	"history": {
+		"en-US": "The ancient hymn *Aurora lucis rutilat*, as revised for the Roman Breviary in 1632.",
+		"pt-BR": "O antigo hino *Aurora lucis rutilat*, na revisão feita para o Breviário Romano em 1632."
+	},
+	"source": {
+		"en-US": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Breviarium Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"easter",
+		"lauds"
+	],
+	"defaults": {
+		"sortOrder": 462,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

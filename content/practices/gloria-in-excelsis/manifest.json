@@ -1,0 +1,46 @@
+{
+	"id": "gloria-in-excelsis",
+	"form": "prayer",
+	"icon": "sparkles",
+	"name": {
+		"en-US": "Gloria in excelsis Deo",
+		"pt-BR": "Glória a Deus nas alturas",
+		"la": "Gloria in excelsis Deo"
+	},
+	"categories": [
+		"liturgical"
+	],
+	"estimatedMinutes": 2,
+	"description": {
+		"en-US": "*Glory to God in the highest* — the Angelic Hymn: the song of the angels at Bethlehem, carried on by the Church in praise of the Father and of the Lamb.",
+		"pt-BR": "*Glória a Deus nas alturas* — o Hino Angélico: o canto dos anjos em Belém, continuado pela Igreja em louvor do Pai e do Cordeiro."
+	},
+	"history": {
+		"en-US": "The Greater Doxology, a Greek morning hymn of the first Christian centuries, sung at Mass on Sundays and feasts.",
+		"pt-BR": "A Grande Doxologia, hino matutino grego dos primeiros séculos cristãos, cantado na Missa aos domingos e festas."
+	},
+	"source": {
+		"en-US": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)",
+		"pt-BR": "*Missale Romanum*, via [Divinum Officium](https://www.divinumofficium.com)"
+	},
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"tags": [
+		"hymn",
+		"mass",
+		"doxology"
+	],
+	"defaults": {
+		"sortOrder": 492,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	},
+	"flow": "flow.json"
+}

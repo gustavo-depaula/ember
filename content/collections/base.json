@@ -378,6 +378,14 @@
 				{
 					"kind": "item",
 					"ref": "practice/divine-praises"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/gloria-in-excelsis"
+				},
+				{
+					"kind": "item",
+					"ref": "practice/seven-penitential-psalms"
 				}
 			]
 		},
@@ -689,20 +697,7 @@
 				"en-US": "Coming Soon — Foundational Prayers",
 				"pt-BR": "Em Breve — Orações Fundamentais"
 			},
-			"blocks": [
-				{
-					"kind": "todo",
-					"title": {
-						"en-US": "Seven Penitential Psalms",
-						"pt-BR": "Sete Salmos Penitenciais"
-					},
-					"notes": {
-						"en-US": "Cross-list with Confession & Conversion.",
-						"pt-BR": "Cruzar com Confissão e Conversão."
-					},
-					"proposedKind": "practice"
-				}
-			]
+			"blocks": []
 		},
 		{
 			"id": "to-source-aspirations",
