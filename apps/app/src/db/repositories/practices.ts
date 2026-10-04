@@ -291,11 +291,12 @@ export async function removeCompletion(id: number): Promise<void> {
   })
 }
 
-/** Refile a completion under another of its practice's slots, keeping when and how it was made. */
-export async function moveCompletion(id: number, subId: string): Promise<void> {
+/** Refile a completion under another slot, keeping when and how it was made. */
+export async function moveCompletion(id: number, slotKey: string): Promise<void> {
   const store = useEventStore.getState()
   const completion = store.completions.get(id)
   if (!completion) return
+  const { practiceId, slotId } = parseSlotKey(slotKey)
   await emitBatch([
     {
       type: 'CompletionRemoved',
@@ -307,8 +308,8 @@ export async function moveCompletion(id: number, subId: string): Promise<void> {
     {
       type: 'CompletionLogged',
       completionId: store.nextCompletionId,
-      practiceId: completion.practice_id,
-      subId,
+      practiceId,
+      subId: slotId,
       date: completion.date,
       completedAt: completion.completed_at,
       prayedId: completion.prayed_id,

@@ -3,7 +3,13 @@ import { beforeEach, describe, expect, it } from 'vitest'
 
 import { createEventsTable, useEventStore } from '@/db/events'
 import { setDb } from '@/db/instance'
-import { addSlot, archivePractice, createPracticeWithSlot, logCompletion } from '@/db/repositories'
+import {
+  addSlot,
+  archivePractice,
+  createPractice,
+  createPracticeWithSlot,
+  logCompletion,
+} from '@/db/repositories'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import {
@@ -85,6 +91,29 @@ describe('completing a prayed practice', () => {
     expect(doneOn(date)).toEqual([weekdays])
   })
 
+  // Adopting a template adds the practice under its bare id, beside the
+  // canonical one every plan is seeded with.
+  it('fills the due slot when the plan holds the practice under both ids', async () => {
+    await createPracticeWithSlot({ id: 'mass' }, { schedule: '{"type":"days-of-week","days":[0]}' })
+    const weekdays = await createPracticeWithSlot(
+      { id: 'practice/mass' },
+      { schedule: '{"type":"days-of-week","days":[1,2,3,4,5,6]}' },
+    )
+
+    await completePractice('mass', date, { via: 'checkin' })
+
+    expect(doneOn(date)).toEqual([weekdays])
+  })
+
+  it('skips a namesake with no slot switched on', async () => {
+    await createPractice({ id: 'mass' })
+    const sunday = await createPracticeWithSlot({ id: 'practice/mass' }, {})
+
+    await completePractice('mass', date, { via: 'checkin' })
+
+    expect(doneOn(date)).toEqual([sunday])
+  })
+
   it('logs a practice outside the plan unslotted, under the prayed id', async () => {
     await completePractice('practice/our-father', date)
 
@@ -133,6 +162,31 @@ describe('refiling completions that landed on a slot not due that day', () => {
     await refileMisplacedCompletions()
 
     expect(doneOn(date)).toEqual([weekdays])
+  })
+
+  it('moves a check-in filed under the namesake onto the due row', async () => {
+    await createPracticeWithSlot({ id: 'mass' }, { schedule: '{"type":"days-of-week","days":[0]}' })
+    const weekdays = await createPracticeWithSlot(
+      { id: 'practice/mass' },
+      { schedule: '{"type":"days-of-week","days":[1,2,3,4,5,6]}' },
+    )
+    await logCompletion('mass', date, '1', 'mass', 'checkin')
+
+    await refileMisplacedCompletions()
+    await refileMisplacedCompletions()
+
+    expect(doneOn(date)).toEqual([weekdays])
+  })
+
+  it('moves a check-in left unslotted under a namesake with no rows', async () => {
+    await createPractice({ id: 'mass' })
+    const daily = await createPracticeWithSlot({ id: 'practice/mass' }, {})
+    await logCompletion('mass', date, 'default', 'mass', 'checkin')
+
+    await refileMisplacedCompletions()
+    await refileMisplacedCompletions()
+
+    expect(doneOn(date)).toEqual([daily])
   })
 
   it('leaves completions on their due slot alone', async () => {
