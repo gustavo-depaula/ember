@@ -320,6 +320,7 @@ export default {
     dayTitle: 'Chronicle day',
     emptyState: 'Your chronicle begins with your first prayer.',
     emptyDay: 'Nothing recorded on this day.',
+    atChurch: 'At church',
     today: 'Today',
     yesterday: 'Yesterday',
     planTally: '{{kept}} of {{due}} in the plan',

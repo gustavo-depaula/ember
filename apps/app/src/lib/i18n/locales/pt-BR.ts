@@ -325,6 +325,7 @@ export default {
     dayTitle: 'Dia da cr\u00f4nica',
     emptyState: 'Sua cr\u00f4nica come\u00e7a com a primeira ora\u00e7\u00e3o.',
     emptyDay: 'Nada registrado neste dia.',
+    atChurch: 'Na igreja',
     today: 'Hoje',
     yesterday: 'Ontem',
     planTally: '{{kept}} de {{due}} do plano',

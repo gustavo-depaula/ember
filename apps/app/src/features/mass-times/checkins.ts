@@ -89,6 +89,15 @@ export function useRecentCheckIns(): CheckIn[] {
   return useCheckInsStore((s) => s.checkins)
 }
 
+// One local day's check-ins, in the order they happened.
+export function useCheckInsOn(date: string): CheckIn[] {
+  return useCheckInsStore(
+    useShallow((s) =>
+      s.checkins.filter((c) => format(new Date(c.at), 'yyyy-MM-dd') === date).reverse(),
+    ),
+  )
+}
+
 // Per-church: how many times you've checked in, and when last.
 export function useChurchAttendance(churchId: string): { count: number; last?: string } {
   return useCheckInsStore(

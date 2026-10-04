@@ -1,11 +1,12 @@
 import { format, parseISO } from 'date-fns'
 import { Stack, useLocalSearchParams, useRouter } from 'expo-router'
-import { ChevronLeft } from 'lucide-react-native'
+import { ChevronLeft, Church } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { ScreenLayout, SectionDivider, Typography } from '@/components'
+import { useCheckInsOn } from '@/features/mass-times'
 import { Bead, dayTally, ExtraMark, practiceName, useDayName } from '@/features/memoria'
 import { formatSlotTime } from '@/features/plan-of-life/ruleString'
 import { useChronicle } from '@/features/plan-of-life/useRuleRecord'
@@ -19,6 +20,7 @@ export default function ChronicleDayScreen() {
   const { date } = useLocalSearchParams<{ date: string }>()
   const day = useChronicle()?.dayAt(date)
   const { name, festive } = useDayName(date)
+  const checkIns = useCheckInsOn(date)
   const time = (hhmm: string | null) => (hhmm ? formatSlotTime(hhmm, i18n.language) : '')
 
   return (
@@ -65,7 +67,7 @@ export default function ChronicleDayScreen() {
 
       <SectionDivider symbol="❦" />
 
-      {day && !day.beads.length && !day.extras.length ? (
+      {day && !day.beads.length && !day.extras.length && !checkIns.length ? (
         <Typography variant="whisper" textAlign="center" paddingTop="$md">
           {t('memoria.emptyDay')}
         </Typography>
@@ -102,7 +104,7 @@ export default function ChronicleDayScreen() {
       </YStack>
 
       {day?.extras.length ? (
-        <YStack paddingTop="$lg" paddingBottom="$xl">
+        <YStack paddingTop="$lg">
           <Typography
             variant="label"
             color="$colorSecondary"
@@ -132,6 +134,48 @@ export default function ChronicleDayScreen() {
           ))}
         </YStack>
       ) : null}
+
+      {checkIns.length ? (
+        <YStack paddingTop="$lg">
+          <Typography
+            variant="label"
+            color="$colorSecondary"
+            textTransform="uppercase"
+            letterSpacing={1.5}
+            paddingBottom="$xs"
+          >
+            {t('memoria.atChurch')}
+          </Typography>
+          {checkIns.map((checkIn) => (
+            <XStack
+              key={checkIn.id}
+              alignItems="flex-start"
+              gap="$md"
+              minHeight={36}
+              paddingVertical="$xs"
+            >
+              <YStack width={16} alignItems="center" paddingTop={3}>
+                <Church size={13} color={theme.colorSecondary?.val} />
+              </YStack>
+              <Typography width={48} fontSize="$2" tone="muted">
+                {time(format(new Date(checkIn.at), 'HH:mm'))}
+              </Typography>
+              <YStack flex={1}>
+                <Typography fontSize="$3">{checkIn.churchName}</Typography>
+                <Typography fontSize="$2" fontStyle="italic" tone="muted">
+                  {t(`massTimes.kind.${checkIn.kind}`)}
+                </Typography>
+                {checkIn.note ? (
+                  <Typography fontSize="$2" tone="muted">
+                    {checkIn.note}
+                  </Typography>
+                ) : null}
+              </YStack>
+            </XStack>
+          ))}
+        </YStack>
+      ) : null}
+      <YStack height="$xl" />
     </ScreenLayout>
   )
 }

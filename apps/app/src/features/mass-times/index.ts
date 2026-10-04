@@ -1,6 +1,7 @@
 export {
   type CheckIn,
   useCheckInCount,
+  useCheckInsOn,
   useCheckInsStore,
   useChurchAttendance,
   useRecentCheckIns,
