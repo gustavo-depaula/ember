@@ -1,5 +1,7 @@
 import { logicalDay, normalizeDate } from '@ember/liturgical'
 import { parseISO } from 'date-fns'
+import { useSyncExternalStore } from 'react'
+import { AppState } from 'react-native'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 /**
@@ -32,8 +34,53 @@ export function useToday(): Date {
  */
 export function useStableToday(): Date {
   const persisted = usePreferencesStore((s) => s.persistedTimeTravelDate)
+  const live = useSyncExternalStore(subscribeToDay, liveDay, liveDay)
   if (persisted) return normalizeDate(parseISO(persisted))
-  return logicalDay(new Date())
+  return live
+}
+
+// The live logical day, shared by every `useToday` so an app left open rolls
+// over at the cutoff instead of showing yesterday until something happens to
+// re-render. The same Date object is handed out for the whole day, as
+// useSyncExternalStore requires of a snapshot.
+let day = logicalDay(new Date())
+const dayListeners = new Set<() => void>()
+let stopWatchingDay: (() => void) | undefined
+
+function liveDay(): Date {
+  const next = logicalDay(new Date())
+  if (next.getTime() !== day.getTime()) day = next
+  return day
+}
+
+function subscribeToDay(listener: () => void): () => void {
+  dayListeners.add(listener)
+  if (!stopWatchingDay) stopWatchingDay = watchDay()
+  return () => {
+    dayListeners.delete(listener)
+    if (dayListeners.size > 0) return
+    stopWatchingDay?.()
+    stopWatchingDay = undefined
+  }
+}
+
+function watchDay(): () => void {
+  const check = () => {
+    const before = day
+    if (liveDay() === before) return
+    for (const listener of dayListeners) listener()
+  }
+  // A minute tick rather than one timer aimed at the cutoff: it also follows a
+  // clock or timezone change. Timers are suspended while the app is in the
+  // background, so returning to the foreground checks at once.
+  const id = setInterval(check, 60_000)
+  const sub = AppState.addEventListener('change', (state) => {
+    if (state === 'active') check()
+  })
+  return () => {
+    clearInterval(id)
+    sub.remove()
+  }
 }
 
 /** Non-hook version of {@link useToday}. Same 4am-cutoff + midnight caveat. */
