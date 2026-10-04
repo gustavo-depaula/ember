@@ -1,5 +1,6 @@
 import { isSameDay, parseISO, subDays } from 'date-fns'
 import { useRouter } from 'expo-router'
+import { Church } from 'lucide-react-native'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useTheme, useThemeName, XStack, YStack } from 'tamagui'
@@ -8,6 +9,7 @@ import { AnimatedPressable, Typography } from '@/components'
 import { dayKeys } from '@/config/constants'
 import { getManifest } from '@/content/resolver'
 import { useYearCalendar } from '@/features/calendar'
+import { useCheckInsOn } from '@/features/mass-times'
 import type { ChronicleBead, ChronicleDay } from '@/features/plan-of-life/chronicle'
 import { hourHue } from '@/features/plan-of-life/ruleString'
 import { useToday } from '@/hooks/useToday'
@@ -16,6 +18,7 @@ import { getCelebrationsForDate, getLiturgicalDayName } from '@/lib/liturgical'
 
 const beadSize = 9
 const maxGap = 6
+const churchSize = 13
 
 export function practiceName(practiceId: string): string {
   const manifest = getManifest(practiceId)
@@ -65,6 +68,7 @@ export function ChronicleDayRow({ day }: { day: ChronicleDay }) {
   ]
   const { kept, due } = dayTally(day)
   const extras = day.extras.length
+  const churches = useCheckInsOn(day.date).length
 
   return (
     <AnimatedPressable
@@ -104,7 +108,7 @@ export function ChronicleDayRow({ day }: { day: ChronicleDay }) {
             {extras ? <Typography color="$accent">{` +${extras}`}</Typography> : null}
           </Typography>
         </XStack>
-        <BeadString beads={day.beads} extras={extras} />
+        <BeadString beads={day.beads} extras={extras} churches={churches} />
         {notes.map((note) => (
           <Typography key={note} fontSize="$2" fontStyle="italic" tone="muted">
             {note}
@@ -118,12 +122,23 @@ export function ChronicleDayRow({ day }: { day: ChronicleDay }) {
 /**
  * The day's plan as a string of beads in the plan's hour colours — filled
  * where prayed, hollow where not, dashed where still ahead, a star for a
- * program's day — and, loose after it, a diamond for each prayer beyond it.
+ * program's day — and, loose after it, a diamond for each prayer beyond it,
+ * then a little church for each check-in.
  */
-function BeadString({ beads, extras }: { beads: ChronicleBead[]; extras: number }) {
+function BeadString({
+  beads,
+  extras,
+  churches,
+}: {
+  beads: ChronicleBead[]
+  extras: number
+  churches: number
+}) {
+  const theme = useTheme()
   const [width, setWidth] = useState(0)
   const count = beads.length + extras
-  const tail = extras ? maxGap * 2 : 0
+  const tail =
+    (extras ? maxGap * 2 : 0) + churches * (churchSize + maxGap) + (churches ? maxGap : 0)
   const gap =
     count > 1 && width
       ? Math.max(1, Math.min(maxGap, (width - tail - count * beadSize) / (count - 1)))
@@ -151,10 +166,18 @@ function BeadString({ beads, extras }: { beads: ChronicleBead[]; extras: number 
         </XStack>
       ) : null}
       {extras ? (
-        <XStack alignItems="center" gap={gap} marginLeft={beads.length ? tail : 0}>
+        <XStack alignItems="center" gap={gap} marginLeft={beads.length ? maxGap * 2 : 0}>
           {Array.from({ length: extras }, (_, i) => (
             // biome-ignore lint/suspicious/noArrayIndexKey: identical marks
             <ExtraMark key={i} />
+          ))}
+        </XStack>
+      ) : null}
+      {churches ? (
+        <XStack alignItems="center" gap={maxGap} marginLeft={count ? maxGap * 2 : 0}>
+          {Array.from({ length: churches }, (_, i) => (
+            // biome-ignore lint/suspicious/noArrayIndexKey: identical marks
+            <Church key={i} size={churchSize} color={theme.colorSecondary?.val} />
           ))}
         </XStack>
       ) : null}
