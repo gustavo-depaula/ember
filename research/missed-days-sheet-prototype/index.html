@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="pt-BR">
+<meta charset="utf-8" />
+<title>Missed-days sheet — alternatives</title>
+<style>
+  @font-face { font-family: Cinzel; src: url(fonts/Cinzel_400Regular.ttf); }
+  @font-face { font-family: Garamond; src: url(fonts/EBGaramond_400Regular.ttf); }
+  @font-face { font-family: Garamond; font-style: italic; src: url(fonts/EBGaramond_400Regular_Italic.ttf); }
+  @font-face { font-family: Junicode; font-style: italic; src: url(fonts/Junicode-Italic.ttf); }
+  :root {
+    --bg: #0e0d0c; --ink: #ede4d8; --muted: #a89a8c; --accent: #d4a63a;
+    --accentSubtle: #6e5c32; --border: #5c5248;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body { background: #1b1917; padding: 40px; font-family: Garamond, serif; color: var(--ink); }
+  .row { display: flex; gap: 40px; align-items: flex-start; }
+  .col { width: 430px; }
+  .col > h2 { font: 400 15px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; }
+  .col > p { color: var(--muted); font-size: 16px; line-height: 22px; height: 76px; padding-top: 6px; }
+  .phone { width: 430px; height: 932px; border-radius: 44px; overflow: hidden; position: relative; background: #050505; }
+  .phone img { width: 430px; display: block; }
+  .sheet {
+    position: absolute; left: 0; right: 0; bottom: 0; background: var(--bg);
+    border-radius: 38px 38px 0 0; padding: 32px 24px 58px;
+  }
+  .sheet::before {
+    content: ''; position: absolute; top: 6px; left: 50%; width: 36px; height: 5px;
+    margin-left: -18px; border-radius: 3px; background: #6a6662;
+  }
+  /* The part of Today the shorter sheet uncovers isn't in the screenshot. */
+  .veil { position: absolute; left: 0; right: 0; top: 400px; bottom: 0; background: linear-gradient(#080e0a, #0a0908 30%); }
+  .label { font: 400 13px/18px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+  .title { font: italic 400 38px/46px Junicode; }
+  .body { font-size: 19px; line-height: 27px; color: var(--muted); }
+  .whisper { font-size: 16px; line-height: 23px; font-style: italic; color: var(--muted); }
+  .btn {
+    font: 400 15px/20px Cinzel; letter-spacing: 1.5px; text-transform: uppercase; text-align: center;
+    padding: 16px; border-radius: 8px; background: var(--accent); color: var(--bg);
+  }
+  .btn.outline { background: none; border: 1px solid var(--accentSubtle); color: var(--accent); }
+  .link { font-size: 19px; line-height: 27px; min-height: 48px; display: flex; align-items: center; }
+  .rule { height: 0.5px; background: var(--border); }
+  .center { text-align: center; }
+  .center .link { justify-content: center; }
+  .fleuron { display: flex; align-items: center; gap: 16px; color: var(--accent); font-size: 19px; }
+  .fleuron i { flex: 1; height: 0.5px; background: var(--accentSubtle); }
+  .between { justify-content: space-between; }
+</style>
+
+<div class="row">
+  <div class="col">
+    <h2>Atual</h2>
+    <p>Centred, 25pt gold pill, underlined link, 60% tall with the lower half empty.</p>
+    <div class="phone"><img src="current.jpg" /></div>
+  </div>
+
+  <div class="col">
+    <h2>A · Como as outras folhas de Hoje</h2>
+    <p>Left-aligned like the Plan of Life and Fidelity sheets: italic screen-title, 8pt button as in the confirm sheet, the two lesser actions as ruled rows. Fits its content.</p>
+    <div class="phone">
+      <img src="today-backdrop.jpg" /><div class="veil"></div>
+      <div class="sheet">
+        <div class="label">Nove Primeiras Sextas-feiras</div>
+        <div class="title" style="padding-top:4px">Um dia perdido</div>
+        <div class="body" style="padding-top:8px">O dia 2 de outubro passou sem ser rezado.</div>
+        <div class="btn" style="margin-top:24px">Recomeçar do dia I</div>
+        <div class="whisper center" style="padding-top:8px">o dia I cai em 6 de novembro</div>
+        <div class="rule" style="margin-top:20px"></div>
+        <div class="link between"><span>Rezei nesse dia e não registrei</span></div>
+        <div class="rule"></div>
+        <div class="link between" style="color:var(--muted)"><span>Ver o programa</span><span>›</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <h2>B · Centrada, peças corrigidas</h2>
+    <p>Keeps the program page's centred composition; the pill becomes the 8pt button, the underline goes, the label quiets down. Fits its content.</p>
+    <div class="phone">
+      <img src="today-backdrop.jpg" /><div class="veil"></div>
+      <div class="sheet center">
+        <div class="label">Nove Primeiras Sextas-feiras</div>
+        <div class="title" style="padding-top:8px; font-size:30px; line-height:38px">Um dia perdido</div>
+        <div class="body" style="padding-top:8px">O dia 2 de outubro passou sem ser rezado.</div>
+        <div class="btn" style="margin-top:24px">Recomeçar do dia I</div>
+        <div class="whisper" style="padding-top:8px">o dia I cai em 6 de novembro</div>
+        <div class="link" style="margin-top:12px">Rezei nesse dia e não registrei</div>
+        <div class="link" style="color:var(--muted)">Ver o programa ›</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col">
+    <h2>C · Tipográfica, sem preenchimento</h2>
+    <p>No gold fill: the program page's fleuron closes the notice, restart is an outlined gold-lettered button, the rest is plain type. Fits its content.</p>
+    <div class="phone">
+      <img src="today-backdrop.jpg" /><div class="veil"></div>
+      <div class="sheet center">
+        <div class="label">Nove Primeiras Sextas-feiras</div>
+        <div class="title" style="padding-top:8px; font-size:30px; line-height:38px">Um dia perdido</div>
+        <div class="body" style="padding-top:8px">O dia 2 de outubro passou sem ser rezado.</div>
+        <div class="fleuron" style="padding:20px 24px 16px"><i></i>❦<i></i></div>
+        <div class="btn outline">Recomeçar do dia I</div>
+        <div class="whisper" style="padding-top:8px">o dia I cai em 6 de novembro</div>
+        <div class="link" style="margin-top:12px">Rezei nesse dia e não registrei</div>
+        <div class="link" style="color:var(--muted)">Ver o programa ›</div>
+      </div>
+    </div>
+  </div>
+</div>
+</html>
