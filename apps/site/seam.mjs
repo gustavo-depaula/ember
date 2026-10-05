@@ -85,13 +85,9 @@ export function platformSeam() {
 /** rrule's package entry is CommonJS, which gives Node's ESM loader no named exports; its ESM build is bundled instead. */
 export const rruleEsm = resolve(repoRoot, 'node_modules/rrule/dist/esm/index.js')
 
-const massTimesApi = 'https://ember-mass-times.dpgu.workers.dev'
-
 /**
  * `astro dev` serves only the site. In production the corpus is published
- * beside it at /hearth/v2, so the dev server serves the local build of it
- * there, and relays /mass-times-api to the live API (which a page on
- * localhost may not call directly until its CORS headers are deployed).
+ * beside it at /hearth/v2, so the dev server serves the local build of it there.
  */
 export function devCorpus() {
   const corpus = process.env.EMBER_CORPUS_DIR ?? resolve(repoRoot, '_site/hearth/v2')
@@ -102,16 +98,6 @@ export function devCorpus() {
         const file = join(corpus, normalize(decodeURIComponent((req.url ?? '/').split('?')[0])))
         if (!file.startsWith(corpus) || !existsSync(file) || !statSync(file).isFile()) return next()
         createReadStream(file).pipe(res)
-      })
-      // Ahead of Astro's own middleware, which would answer an extensionless
-      // path with its trailing-slash page before this one saw it.
-      server.middlewares.stack.unshift({
-        route: '/mass-times-api',
-        handle: async (req, res) => {
-          const upstream = await fetch(`${massTimesApi}${req.url ?? '/'}`)
-          res.writeHead(upstream.status, { 'content-type': 'application/json' })
-          res.end(await upstream.text())
-        },
       })
     },
   }
