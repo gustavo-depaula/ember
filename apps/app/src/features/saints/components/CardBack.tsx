@@ -1,5 +1,6 @@
 import type { Copy } from '@ember/holy-cards'
 import { Image } from 'expo-image'
+import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, View, YStack } from 'tamagui'
 import type { SaintEntry } from '../data/catalog'
@@ -27,6 +28,18 @@ export function CardBack({
     if (saint.feastLabel) return t('saints.sealedHow', { date: saint.feastLabel })
     return undefined
   })()
+  const [room, setRoom] = useState<number>()
+  // The scale holds for what it was fitted to; anything else starts over at full size.
+  const key = `${saint.id}|${saint.name}|${copy?.door}|${copy?.won}|${cardWidth}|${cardHeight}`
+  const [fitted, setFitted] = useState({ key, fit: 1 })
+  const fit = fitted.key === key ? fitted.fit : 1
+  const [measured, setMeasured] = useState<{ key: string; fit: number; height: number }>()
+  useEffect(() => {
+    if (room === undefined || measured?.key !== key || measured.fit !== fit) return
+    if (measured.height <= room + 0.5) return
+    // Wrapped text's height falls about with the square of its size.
+    setFitted({ key, fit: fit * Math.min(0.97, Math.sqrt(room / measured.height)) })
+  }, [room, measured, key, fit])
 
   return (
     <View
@@ -60,58 +73,87 @@ export function CardBack({
         </Text>
 
         {/* Centered between the cross and the invocation, so short cards stay
-            balanced and longer ones fill the space naturally. */}
-        <YStack alignItems="center" gap="$lg" width="100%">
-          <YStack alignItems="center" gap="$xs">
-            {saint.feastLabel && (
-              <Text fontFamily="$body" fontSize="$2" color={ink.meta} textAlign="center">
-                {saint.feastLabel}
+            balanced and longer ones fill the space. The block measures itself
+            against that room and shrinks its type until it fits: a long name
+            with a long prayer must still sit inside the frame. */}
+        <View
+          flex={1}
+          alignSelf="stretch"
+          justifyContent="center"
+          onLayout={(e) => setRoom(e.nativeEvent.layout.height)}
+        >
+          <YStack
+            alignItems="center"
+            gap={24 * fit}
+            width="100%"
+            onLayout={(e) => setMeasured({ key, fit, height: e.nativeEvent.layout.height })}
+          >
+            <YStack alignItems="center" gap={4 * fit}>
+              {saint.feastLabel && (
+                <Text
+                  fontFamily="$body"
+                  fontSize={16 * fit}
+                  lineHeight={23 * fit}
+                  color={ink.meta}
+                  textAlign="center"
+                >
+                  {saint.feastLabel}
+                </Text>
+              )}
+
+              <Text
+                fontFamily="$heading"
+                fontSize={28 * fit}
+                lineHeight={34 * fit}
+                color={ink.name}
+                textAlign="center"
+              >
+                {saint.name}
+              </Text>
+            </YStack>
+
+            {saint.patronOf && (
+              <Text
+                fontFamily="$body"
+                fontSize={16 * fit}
+                lineHeight={23 * fit}
+                color={ink.meta}
+                textAlign="center"
+                fontStyle="italic"
+              >
+                {saint.patronOf}
               </Text>
             )}
 
-            <Text fontFamily="$heading" fontSize="$5" color={ink.name} textAlign="center">
-              {saint.name}
-            </Text>
+            {/* The prayer is part of the card: kept for the one who holds it. */}
+            {copy && saint.prayerExcerpt && (
+              <Text
+                fontFamily="$body"
+                fontSize={19 * fit}
+                lineHeight={27 * fit}
+                color={ink.prayer}
+                textAlign="center"
+                fontStyle="italic"
+              >
+                &ldquo;{saint.prayerExcerpt}&rdquo;
+              </Text>
+            )}
+
+            {condition && (
+              <Text
+                fontFamily="$body"
+                fontSize={14 * fit}
+                lineHeight={20 * fit}
+                color={ink.meta}
+                textAlign="center"
+                numberOfLines={2}
+                adjustsFontSizeToFit
+              >
+                {condition}
+              </Text>
+            )}
           </YStack>
-
-          {saint.patronOf && (
-            <Text
-              fontFamily="$body"
-              fontSize="$2"
-              color={ink.meta}
-              textAlign="center"
-              fontStyle="italic"
-            >
-              {saint.patronOf}
-            </Text>
-          )}
-
-          {/* The prayer is part of the card: kept for the one who holds it. */}
-          {copy && saint.prayerExcerpt && (
-            <Text
-              fontFamily="$body"
-              fontSize="$3"
-              color={ink.prayer}
-              textAlign="center"
-              fontStyle="italic"
-            >
-              &ldquo;{saint.prayerExcerpt}&rdquo;
-            </Text>
-          )}
-
-          {condition && (
-            <Text
-              fontFamily="$body"
-              fontSize="$1"
-              color={ink.meta}
-              textAlign="center"
-              numberOfLines={2}
-              adjustsFontSizeToFit
-            >
-              {condition}
-            </Text>
-          )}
-        </YStack>
+        </View>
 
         <Text
           fontFamily="$heading"
