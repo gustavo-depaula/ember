@@ -58,6 +58,15 @@ export const churchesQuerySchema = z
     message: 'provide q (name search) or bbox (map viewport)',
   })
 
+// The catalogue in primary-key order, a page at a time: what a sitemap or a static site walks to
+// find every church. `after` is the last id of the previous page (keyset, so each page is one PK
+// range scan); `scheduled` keeps only churches with service times on record.
+export const churchIndexQuerySchema = z.object({
+  after: z.string().max(256).optional(),
+  scheduled: z.enum(['1']).optional(),
+  limit: z.coerce.number().int().min(1).max(1000).default(500),
+})
+
 export const verificationsQuerySchema = z.object({ limit, offset })
 
 const comment = z.string().trim().min(1).max(2000)
@@ -138,6 +147,7 @@ export const verifyBodySchema = z.object({
   serviceId: z.string().optional(),
 })
 
+export type ChurchIndexQuery = z.infer<typeof churchIndexQuerySchema>
 export type NearQuery = z.infer<typeof nearQuerySchema>
 export type ChurchesQuery = z.infer<typeof churchesQuerySchema>
 export type CorrectionBody = z.infer<typeof correctionBodySchema>

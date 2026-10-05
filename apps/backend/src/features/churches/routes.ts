@@ -1,19 +1,33 @@
-import { churchesQuerySchema, nearQuerySchema, verificationsQuerySchema } from '@ember/api'
+import {
+  churchesQuerySchema,
+  churchIndexQuerySchema,
+  nearQuerySchema,
+  verificationsQuerySchema,
+} from '@ember/api'
 import { zValidator } from '@hono/zod-validator'
 import { Hono } from 'hono'
 import type { Env } from '../../app'
 import { createDb } from '../../db'
-import { verificationsForChurch } from './queries'
+import { churchIndexPage, verificationsForChurch } from './queries'
 import { churchDetail, nearbyChurches, searchChurches, viewport } from './service'
 
 // Public read routes (cacheable; pure geo — no server-side time computation). `GET /` answers a
 // name search (`q`) with `{ churches }`, or a map viewport (`bbox`) with `{ churches, clusters }`. '/near' is registered
-// before '/:id' so it isn't swallowed as an id.
+// before '/:id' so it isn't swallowed as an id, and so is '/index' (the whole catalogue, a page at a
+// time, for sitemaps and the static site).
 export const churchesRouter = new Hono<{ Bindings: Env }>()
   .get('/near', zValidator('query', nearQuerySchema), async (c) => {
     const db = createDb(c.env.DB)
     const churches = await nearbyChurches(db, c.req.valid('query'))
     return c.json({ churches })
+  })
+  .get('/index', zValidator('query', churchIndexQuerySchema), async (c) => {
+    const db = createDb(c.env.DB)
+    const { after, scheduled, limit } = c.req.valid('query')
+    const churches = await churchIndexPage(db, { after, scheduled: scheduled === '1', limit })
+    // A full page may have more behind it; a short one is the end.
+    const next = churches.length === limit ? churches[churches.length - 1].id : undefined
+    return c.json({ churches, next })
   })
   .get('/', zValidator('query', churchesQuerySchema), async (c) => {
     const db = createDb(c.env.DB)

@@ -27,8 +27,10 @@ export {
 } from './schema'
 export {
   type ChurchesQuery,
+  type ChurchIndexQuery,
   type CorrectionBody,
   churchesQuerySchema,
+  churchIndexQuerySchema,
   correctionBodySchema,
   type NearQuery,
   nearQuerySchema,

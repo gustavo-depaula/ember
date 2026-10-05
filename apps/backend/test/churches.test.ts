@@ -212,6 +212,43 @@ describe('GET /churches/:id', () => {
   })
 })
 
+describe('GET /churches/index', () => {
+  type IndexPage = { churches: { id: string }[]; next?: string }
+  const page = async (query = '') =>
+    (await (await app.request(`/churches/index${query}`, {}, env)).json()) as IndexPage
+
+  it('walks every church in id order, a page at a time', async () => {
+    const first = await page('?limit=3')
+    expect(first.churches.map((c) => c.id)).toEqual(['st-far-d', 'st-joseph-b', 'st-mary-a'])
+    expect(first.next).toBe('st-mary-a')
+    const second = await page(`?limit=3&after=${first.next}`)
+    expect(second.churches.map((c) => c.id)).toEqual(['st-peter-c'])
+    expect(second.next).toBeUndefined()
+  })
+
+  it('is not swallowed by the church-by-id route', async () => {
+    const res = await app.request('/churches/index', {}, env)
+    expect(res.status).toBe(200)
+  })
+})
+
+describe('browser access', () => {
+  it('lets any origin read, and lets a read be cached', async () => {
+    const res = await app.request(
+      '/churches/st-mary-a',
+      { headers: { Origin: 'https://example.org' } },
+      env,
+    )
+    expect(res.headers.get('Access-Control-Allow-Origin')).toBe('*')
+    expect(res.headers.get('Cache-Control')).toBe('public, max-age=300')
+  })
+
+  it('does not mark an error cacheable', async () => {
+    const res = await app.request('/churches/nope', {}, env)
+    expect(res.headers.get('Cache-Control')).toBeNull()
+  })
+})
+
 describe('geohash query uses the index', () => {
   it('EXPLAIN QUERY PLAN on a prefix range hits church_geohash_idx', async () => {
     const prefix = encodeGeohash(center.lat, center.lng, 4)

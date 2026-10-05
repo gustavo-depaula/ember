@@ -1,6 +1,6 @@
 import type { Church } from '@ember/api'
 import { church, verificationEvent } from '@ember/api'
-import { and, count, desc, eq, inArray, type SQL, sql } from 'drizzle-orm'
+import { and, asc, count, desc, eq, gt, inArray, type SQL, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
 import type { Bbox } from '../../lib/geo'
 
@@ -90,6 +90,45 @@ export function cellCounts(db: Db, f: ViewportFilter, precision: number): Promis
     .from(church)
     .where(viewportWhere(f))
     .groupBy(cell)
+}
+
+export type ChurchIndexRow = Pick<
+  Church,
+  | 'id'
+  | 'name'
+  | 'longName'
+  | 'city'
+  | 'region'
+  | 'countryCode'
+  | 'hasStructuredSchedule'
+  | 'updatedAt'
+>
+
+// The catalogue in id order, keyset-paged: each page is one range scan of the primary key, so
+// walking every church costs the table once however deep the walk goes. Rows are the few columns a
+// sitemap or a place listing needs, not the embedded schedule.
+export function churchIndexPage(
+  db: Db,
+  page: { after?: string; scheduled?: boolean; limit: number },
+): Promise<ChurchIndexRow[]> {
+  const conds: SQL[] = []
+  if (page.after) conds.push(gt(church.id, page.after))
+  if (page.scheduled) conds.push(eq(church.hasStructuredSchedule, true))
+  return db
+    .select({
+      id: church.id,
+      name: church.name,
+      longName: church.longName,
+      city: church.city,
+      region: church.region,
+      countryCode: church.countryCode,
+      hasStructuredSchedule: church.hasStructuredSchedule,
+      updatedAt: church.updatedAt,
+    })
+    .from(church)
+    .where(conds.length ? and(...conds) : undefined)
+    .orderBy(asc(church.id))
+    .limit(page.limit)
 }
 
 export async function churchById(db: Db, id: string): Promise<Church | undefined> {
