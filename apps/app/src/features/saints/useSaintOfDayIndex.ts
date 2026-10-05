@@ -1,21 +1,9 @@
 import { useQuery } from '@tanstack/react-query'
 
-import { getEntry, getRememberedManifest } from '@/content/contentIndex'
-import type { PracticeManifest } from '@/content/manifestTypes'
-import { getJson } from '@/content/store'
-import type { LocalizedText } from '@/content/types'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { loadSaintOfDayIndex, type SaintOfDayIndex, saintOfDayKey } from './data/saintOfDay'
 
-export type SaintOfDayEntry = {
-  name: LocalizedText
-  /** Primary chapter id (matches the image filename in the book). */
-  chapter: string
-  reflection?: LocalizedText
-}
-
-export type SaintOfDayIndex = Record<string, SaintOfDayEntry>
-
-const INDEX_NAME = 'saint-of-day-index'
+export type { SaintOfDayEntry, SaintOfDayIndex } from './data/saintOfDay'
 
 /**
  * Bilingual per-day index from the saint-of-the-day practice (name + primary
@@ -28,20 +16,11 @@ export function useSaintOfDayIndex(): SaintOfDayIndex | undefined {
   const catalogVersion = useCatalogVersion()
   const { data } = useQuery({
     queryKey: ['saint-of-day-index', catalogVersion],
-    queryFn: async () => {
-      const entry = getEntry('practice/saint-of-the-day')
-      // null, not undefined: Query v5 rejects undefined data while the catalog warms.
-      if (!entry) return null
-      const manifest = getRememberedManifest<PracticeManifest>(entry.hash)
-      const ref = manifest?.dataHashes?.find((d) => d.name === INDEX_NAME)
-      if (!ref) return null
-      return (await getJson<SaintOfDayIndex>(ref.hash)) ?? null
-    },
+    // null, not undefined: Query v5 rejects undefined data while the catalog warms.
+    queryFn: async () => (await loadSaintOfDayIndex()) ?? null,
     staleTime: Number.POSITIVE_INFINITY,
   })
   return data ?? undefined
 }
 
-export function todayKey(date: Date): string {
-  return `${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`
-}
+export const todayKey = saintOfDayKey

@@ -15,6 +15,11 @@ import { coverFor, GeneratedCover, type TileCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
 import { practiceHref } from '@/features/practices/practiceHref'
+import {
+  prayerDevotions as devotions,
+  type PrayerFacet as Facet,
+  prayerForms as forms,
+} from '@/features/practices/prayerFacets'
 import { localizeContent } from '@/lib/i18n'
 
 type Prayer = {
@@ -28,27 +33,6 @@ type Prayer = {
 
 // The row's tile is the one the practice wears on Today and in collections, in miniature.
 const tileSize = 72
-type Facet = { key: string; tags: string[] }
-
-// The two questions a prayer book's index answers: what kind of prayer, and
-// to whom. Each option gathers the tags the corpus uses for it.
-const forms: Facet[] = [
-  { key: 'novena', tags: ['novena'] },
-  { key: 'office', tags: ['office', 'breviary', 'liturgy-of-the-hours'] },
-  { key: 'litany', tags: ['litany'] },
-  { key: 'hymn', tags: ['hymn', 'canticle', 'antiphon'] },
-  { key: 'rosary', tags: ['rosary', 'chaplet'] },
-]
-const devotions: Facet[] = [
-  { key: 'marian', tags: ['marian'] },
-  { key: 'eucharistic', tags: ['eucharistic', 'communion', 'adoration', 'corpus-christi'] },
-  { key: 'sacredHeart', tags: ['sacred-heart'] },
-  { key: 'holySpirit', tags: ['holy-spirit', 'pentecost'] },
-  { key: 'passion', tags: ['passion'] },
-  { key: 'dead', tags: ['purgatory', 'dead'] },
-  { key: 'saints', tags: ['saints'] },
-]
-
 function has(prayer: Prayer, facet: Facet | undefined): boolean {
   return !facet || facet.tags.some((tag) => prayer.tags.has(tag))
 }

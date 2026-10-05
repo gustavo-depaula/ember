@@ -1,0 +1,95 @@
+import { getEntry, getRememberedManifest } from '@/content/contentIndex'
+import type { PracticeManifest } from '@/content/manifestTypes'
+import { getJson } from '@/content/store'
+import type { LocalizedText } from '@/content/types'
+
+// A single bespoke holy card — the hand-illustrated, collected saints. The
+// `id` doubles as the image stem (`saints/{id}.webp`). All display strings are
+// localized; the feast is the calendar spine the gallery sorts and groups by.
+// Seasons, Ember Days, parts of the Mass and liturgical objects have no fixed
+// date: they carry no feast and name the gallery section they belong to (`kind`).
+// The card names its own Pictorial Lives chapter and Mass formulary rather than
+// leaving them to its date: the book keeps the pre-1969 calendar and a date can
+// hold several celebrations, so the same day often belongs to someone else.
+export type HolyCard = {
+  id: string
+  feast?: { month: number; day: number }
+  /** For a card with no feast: its gallery section, and its place in it. */
+  kind?: HolyCardKind
+  order?: number
+  /** A saint or feast card's shelf in the album, in the Litany of the Saints' order. */
+  shelf?: HolyCardShelf
+  /** Honours more than one person (Sts. Cosmas and Damian, the Forty Martyrs): its life is "Lives". */
+  several?: boolean
+  name: LocalizedText
+  patronOf?: LocalizedText
+  prayerExcerpt?: LocalizedText
+  /** Pictorial Lives chapter telling this saint's life. */
+  lifeChapter?: string
+  /** That chapter's closing reflection, copied in at corpus build. */
+  reflection?: LocalizedText
+  /** Id of the OF Mass formulary proper to the feast: its collect shows on the card, and Mass on it gives the card. */
+  proper?: string
+  /** Two or three sentences introducing the saint, read before praying to open the card. */
+  intro?: LocalizedText
+  /** What the card's page shows beyond the card: the card owns this list. */
+  related?: HolyCardRelated
+}
+
+/** A shelf of content refs (`practice/…`, `book/…`, `chapter/…`); untitled when it is the only one. */
+export type RelatedGroup = { title?: LocalizedText; refs: string[] }
+
+export type HolyCardRelated = {
+  pray?: RelatedGroup[]
+  read?: RelatedGroup[]
+  collections?: string[]
+  /** Other cards about the same person, event or devotion. Written on one card, shown on both. */
+  cards?: string[]
+}
+
+/** The gallery sections of the cards with no fixed date, in the order they show. */
+export const holyCardKinds = ['moveable', 'rosary', 'season', 'mass', 'object', 'devotion'] as const
+export type HolyCardKind = (typeof holyCardKinds)[number]
+
+export const holyCardShelves = [
+  'lord',
+  'lady',
+  'angels',
+  'patriarchs',
+  'apostles',
+  'martyrs',
+  'bishops',
+  'religious',
+  'laity',
+  'church',
+] as const
+export type HolyCardShelf = (typeof holyCardShelves)[number]
+
+type HolyCardsData = {
+  version: number
+  cards: HolyCard[]
+  // Apart from `cards`, which apps released before these cards read expecting a feast on each.
+  undated?: HolyCard[]
+}
+
+const DATA_NAME = 'holy-cards'
+
+export type HolyCardCatalog = { cards: HolyCard[]; starters: string[] }
+
+/**
+ * The cards as the corpus ships them: one small blob on the saint-of-the-day
+ * practice. Undefined until that practice's manifest has warmed.
+ */
+export async function loadHolyCardCatalog(): Promise<HolyCardCatalog | undefined> {
+  const entry = getEntry('practice/saint-of-the-day')
+  if (!entry) return undefined
+  const manifest = getRememberedManifest<PracticeManifest>(entry.hash)
+  const ref = manifest?.dataHashes?.find((d) => d.name === DATA_NAME)
+  if (!ref) return undefined
+  const parsed = await getJson<HolyCardsData>(ref.hash)
+  if (!parsed) return undefined
+  return {
+    cards: [...parsed.cards, ...(parsed.undated ?? [])],
+    starters: manifest?.holyCardStarters ?? [],
+  }
+}

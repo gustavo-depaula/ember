@@ -245,7 +245,10 @@ export function mapItemsToPrimitives(primaryItems: string[], latinItems?: string
           if (p.mark || verseBuffer.at(-1)?.mark) flushVerses()
           verseBuffer.push({
             text: bilingual(p.text, l?.text),
-            ...(p.mark ? { mark: p.mark } : { role: p.role }),
+            // The speaker is read from the Latin column: there S. is the priest
+            // (Sacerdos) and M. the server, while the English and Portuguese
+            // files letter them P. and S., so their S. is the response.
+            ...(p.mark ? { mark: p.mark } : { role: l?.role ?? p.role }),
           })
           break
         case 'text':

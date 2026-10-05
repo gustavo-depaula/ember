@@ -46,6 +46,18 @@ describe('mapItemsToPrimitives', () => {
     expect(out[out.length - 1]).toEqual({ type: 'divider' })
   })
 
+  it('reads who speaks from the Latin, where the vernacular letters the server S.', () => {
+    // English and Portuguese print the priest as P. and the server as S.; in
+    // Latin S. is the priest (Sacerdos) and M. the server.
+    const out = mapItemsToPrimitives(
+      ['P. I will go in to the altar of God.\nS. To God who giveth joy to my youth.'],
+      ['S. Introíbo ad altáre Dei.\nM. Ad Deum, qui lætíficat juventútem meam.'],
+    )
+    expect(out).toHaveLength(1)
+    const verses = out[0] as Extract<(typeof out)[number], { type: 'verses' }>
+    expect(verses.items.map((item) => item.role)).toEqual(['v', 'r'])
+  })
+
   it('pairs content lines past blank lines the columns place differently', () => {
     // Prime's chapter office: equal raw line counts, but the vernacular has an
     // extra blank after the rubric and one fewer at the end.

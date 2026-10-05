@@ -1,0 +1,38 @@
+// Divinum Officium's inline markup, left in the assembled text by the engine
+// (rendering is the app's job), tokenizes into styled runs:
+//   /:X:/   small rubric-toned inline — psalm verse numbers (24:1), the Ps 118
+//           Hebrew-letter headings, and inline directions like (genuflectitur).
+//           DO renders these as <FONT SIZE=1 COLOR=red>.
+//   *       the mediant pause that bisects every psalm verse
+//   † ‡     flexa / genuflection-cross pointing marks
+//   %…%     small caps (divine names)
+//   + ++ +++  sign-of-the-cross marks, drawn as DO's setcross draws them:
+//           ✠ for +, a plain + for ++ (on the lips), ✙ for +++
+// Anything else is body text.
+export type DoRunKind = 'body' | 'mark' | 'mediant' | 'point' | 'smallcaps'
+export type DoRun = { kind: DoRunKind; text: string }
+
+const tokenRe = /\/:(.*?):\/|%(.+?)%|([*†‡])|(^|\s)(\+{1,3})(?=\s|$)/g
+const crossGlyph: Record<string, string> = { '+': '✠', '++': '+', '+++': '✙' }
+
+export function parseDoInline(line: string): DoRun[] {
+  const runs: DoRun[] = []
+  let last = 0
+  for (const m of line.matchAll(tokenRe)) {
+    const idx = m.index ?? 0
+    if (idx > last) runs.push({ kind: 'body', text: line.slice(last, idx) })
+    if (m[1] !== undefined) runs.push({ kind: 'mark', text: m[1] })
+    else if (m[2] !== undefined) runs.push({ kind: 'smallcaps', text: m[2] })
+    else if (m[3] !== undefined) runs.push({ kind: m[3] === '*' ? 'mediant' : 'point', text: m[3] })
+    else {
+      // The space before the cross belongs to the preceding body run.
+      const prev = runs.at(-1)
+      if (m[4] && prev?.kind === 'body') prev.text += m[4]
+      else if (m[4]) runs.push({ kind: 'body', text: m[4] })
+      runs.push({ kind: 'point', text: crossGlyph[m[5]] })
+    }
+    last = idx + m[0].length
+  }
+  if (last < line.length) runs.push({ kind: 'body', text: line.slice(last) })
+  return runs.length > 0 ? runs : [{ kind: 'body', text: line }]
+}
