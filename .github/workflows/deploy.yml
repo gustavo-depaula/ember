@@ -8,12 +8,6 @@ on:
       - 'apps/hearth/**'
       - '.github/workflows/deploy.yml'
       - 'scripts/build-creator-meta.py'
-  # Hourly so creator-meta (YouTube shorts classifications, podcast/RSS
-  # channel images, YouTube og:image scrape) stays fresh as creators
-  # upload new content. The corpus content itself rarely changes, so the
-  # deploy is mostly a no-op aside from the creator-meta/ files.
-  schedule:
-    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -39,24 +33,67 @@ jobs:
           sudo apt-get update && sudo apt-get install -y webp
           pip install pillow
 
+      # Converting the holy cards takes minutes and a card rarely changes, so
+      # the converted images are carried from one run to the next. The key is
+      # git's own blob hashes: reading them costs nothing, where hashing the
+      # 2 GB of PNGs would.
+      - name: Fingerprint source images
+        id: images
+        run: |
+          # One byte order for sort here and comm below, or comm misreads the lists.
+          export LC_ALL=C
+          git ls-files -s content/art content/saints | grep '\.png$' | sort > "$RUNNER_TEMP/images.manifest"
+          echo "hash=$(sha256sum < "$RUNNER_TEMP/images.manifest" | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore converted images
+        uses: actions/cache@v4
+        with:
+          path: |
+            content/saints/*.webp
+            content/saints/thumbs
+            content/saints/prints
+            .hearth-images.manifest
+          key: hearth-images-${{ hashFiles('scripts/convert-webp.sh', 'scripts/print-cards.py') }}-${{ steps.images.outputs.hash }}
+          restore-keys: |
+            hearth-images-${{ hashFiles('scripts/convert-webp.sh', 'scripts/print-cards.py') }}-
+
+      - name: Convert images
+        run: |
+          export LC_ALL=C
+          new="$RUNNER_TEMP/images.manifest"
+          old=.hearth-images.manifest
+          # The scripts convert a PNG only when it is newer than its output,
+          # and a fresh checkout stamps every file "now". So age them all,
+          # then make new again only the ones whose content changed since the
+          # restored images were made.
+          find content/art content/saints -name '*.png' -exec touch -d '2000-01-01' {} +
+          if [ -f "$old" ]; then
+            # A removed card would leave its images behind in the restored
+            # set: start clean (tracked files are untouched).
+            if [ -n "$(comm -23 <(cut -f2 "$old" | sort) <(cut -f2 "$new" | sort))" ]; then
+              git clean -fdxq content/saints
+            fi
+            comm -13 "$old" "$new" | cut -f2 | while IFS= read -r f; do touch "$f"; done
+          fi
+          scripts/convert-webp.sh
+          cp "$new" "$old"
+
       - name: Stage Hearth files
         run: |
-          cp -r content _site_hearth
-          cp apps/hearth/index.html _site_hearth/index.html
-          scripts/convert-webp.sh _site_hearth
-
           mkdir -p _site/hearth/v2
-          mv _site_hearth/index.html _site/index.html
+          cp apps/hearth/index.html _site/index.html
           cp apps/hearth/privacy.html _site/privacy.html
           cp -r apps/hearth/site _site/site
 
           # Auxiliary content served alongside the corpus (Bible, sacred art, EF propers, etc.)
-          for d in art bible lectionary propers saints; do
-            if [ -d "_site_hearth/$d" ]; then
-              mv "_site_hearth/$d" "_site/hearth/v2/$d"
+          for d in art bible lectionary propers; do
+            if [ -d "content/$d" ]; then
+              cp -r "content/$d" "_site/hearth/v2/$d"
             fi
           done
-          rm -rf _site_hearth
+          # The app only ever asks for a holy card as WebP; the PNG originals
+          # are 2 GB the site would carry for nothing.
+          rsync -a --exclude='/*.png' content/saints/ _site/hearth/v2/saints/
 
       - name: Install corpus builder deps
         run: pip install snowballstemmer
