@@ -2,10 +2,11 @@ import { BottomSheet } from '@expo/ui/community/bottom-sheet'
 import DateTimePicker from '@react-native-community/datetimepicker'
 import { type ReactNode, useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform, Pressable, useWindowDimensions } from 'react-native'
+import { Platform, Pressable, ScrollView, useWindowDimensions } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
+import { pullDown } from '@/components/sheetController'
 import { dayKeys } from '@/config/constants'
 import { lightTap } from '@/lib/haptics'
 
@@ -15,7 +16,8 @@ import type { Schedule } from '../schedule'
 /**
  * A native sheet sized to its content. The native host gives the RN tree no
  * height of its own, so the sheet measures what it holds and resizes to it —
- * also while open, when the time opens into its wheel.
+ * also while open, when the time opens into its wheel. Content taller than the
+ * screen allows scrolls inside the sheet at its tallest.
  */
 export function RuleSheet({
   open,
@@ -32,7 +34,10 @@ export function RuleSheet({
   const { height } = useWindowDimensions()
   const [measured, setMeasured] = useState(height * 0.4)
   // The grabber above and the home indicator's inset below the content.
-  const fraction = Math.min(0.92, (measured + 56) / height)
+  const chrome = 56
+  const maxFraction = 0.92
+  const overflows = measured + chrome > height * maxFraction
+  const fraction = overflows ? maxFraction : (measured + chrome) / height
   return (
     <BottomSheet
       index={open ? 0 : -1}
@@ -42,20 +47,28 @@ export function RuleSheet({
       backgroundStyle={{ backgroundColor: theme.background?.val }}
     >
       <YStack height={height * fraction} width="100%">
-        <YStack
-          paddingHorizontal="$lg"
-          paddingTop="$lg"
-          paddingBottom="$sm"
-          onLayout={(e) => {
-            const h = e.nativeEvent.layout.height
-            setMeasured((prev) => (Math.abs(prev - h) < 1 ? prev : h))
-          }}
+        <ScrollView
+          {...pullDown(onClose)}
+          // A sheet that fits leaves every drag to the sheet itself.
+          scrollEnabled={overflows}
+          showsVerticalScrollIndicator={false}
+          contentContainerStyle={{ paddingBottom: overflows ? chrome : 0 }}
         >
-          <Typography variant="sacred-title" fontSize={26} lineHeight={34} textAlign="center">
-            {title}
-          </Typography>
-          {children}
-        </YStack>
+          <YStack
+            paddingHorizontal="$lg"
+            paddingTop="$lg"
+            paddingBottom="$sm"
+            onLayout={(e) => {
+              const h = e.nativeEvent.layout.height
+              setMeasured((prev) => (Math.abs(prev - h) < 1 ? prev : h))
+            }}
+          >
+            <Typography variant="sacred-title" fontSize={26} lineHeight={34} textAlign="center">
+              {title}
+            </Typography>
+            {children}
+          </YStack>
+        </ScrollView>
       </YStack>
     </BottomSheet>
   )
