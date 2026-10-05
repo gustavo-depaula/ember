@@ -84,7 +84,8 @@ export function ChooseCard({
   const row = options.length <= rowMax
   const cw = row
     ? Math.min(170, (width - 48 - gap * (options.length - 1)) / options.length)
-    : (width - 48 - gap * 2) / 3
+    : // Floored: a fractional third can sum a hair past the row, and Yoga then wraps the third card.
+      Math.floor((width - 48 - gap * 2) / 3)
   const cards = options.map((s) => (
     <VeiledCard
       key={s.id}
