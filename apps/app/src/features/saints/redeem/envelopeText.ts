@@ -28,6 +28,12 @@ export function howWon({ door, date }: { door: Door; date: string }, t: TFunctio
   return t(`saints.redeem.door.${named}`, { date: localDate(date, 'short') })
 }
 
+/** How a card was won, undated, for the envelope's flap: "Received at Mass". */
+export function wonFrom(door: Door, t: TFunction) {
+  const named = namedDoors.includes(door) ? door : 'other'
+  return t(`saints.redeem.from.${named}`)
+}
+
 /** When the envelope must be opened by; undefined when it has no window. */
 export function openBy(grant: Grant, today: Date, t: TFunction) {
   if (!grant.deadline) return undefined

@@ -12,12 +12,18 @@ import { SaintCardViewer } from '@/features/saints/components'
 // going back from a prayer skipped the card.
 export default function SaintViewerScreen() {
   const router = useRouter()
-  const { index } = useLocalSearchParams<{ index: string }>()
+  // `arrived`: replacing the redeem screen, whose page this already shows.
+  const { index, arrived } = useLocalSearchParams<{ index: string; arrived?: string }>()
   const { t } = useTranslation()
 
   return (
     <>
-      <Stack.Screen options={{ title: t('saints.title'), animation: 'slide_from_bottom' }} />
+      <Stack.Screen
+        options={{
+          title: t('saints.title'),
+          animation: arrived ? 'none' : 'slide_from_bottom',
+        }}
+      />
       <SaintCardViewer initialId={index ?? ''} onClose={() => router.back()} />
     </>
   )

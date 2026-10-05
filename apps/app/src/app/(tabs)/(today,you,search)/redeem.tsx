@@ -16,7 +16,6 @@ export default function RedeemScreen() {
   const held = useRef<Grant | undefined>(undefined)
   if (!held.current) held.current = pending?.find((g) => g.id === id)
   const grant = held.current
-  const next = pending?.find((g) => g.id !== id)
 
   return (
     <>
@@ -25,9 +24,13 @@ export default function RedeemScreen() {
         <RedeemFlow
           key={grant.id}
           grant={grant}
-          next={next}
-          onNext={() => next && router.replace({ pathname: '/redeem', params: { grant: next.id } })}
           onDone={() => router.back()}
+          // The tab bar stays away through the redeeming (this is a full-screen
+          // route) and comes back with the card's own screen, swapped in
+          // without a transition under the identical page.
+          onOpened={(card) =>
+            router.replace({ pathname: '/saints/[index]', params: { index: card, arrived: '1' } })
+          }
         />
       )}
     </>

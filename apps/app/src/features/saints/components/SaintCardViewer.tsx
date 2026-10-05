@@ -104,6 +104,9 @@ export function SaintCardViewer({
         pagingEnabled
         showsHorizontalScrollIndicator={false}
         initialScrollIndex={initialIndex}
+        // Mounted already at the card: initialScrollIndex alone scrolls there a
+        // frame later, and the frame before shows an empty page.
+        contentOffset={{ x: screenWidth * initialIndex, y: 0 }}
         getItemLayout={getItemLayout}
         initialNumToRender={1}
         windowSize={3}

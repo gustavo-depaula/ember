@@ -77,6 +77,7 @@ export function Envelope({
   exit = { dy: 0, scale: 1 },
   tiltable = false,
   shimmer = true,
+  note,
 }: {
   width: number
   name: string
@@ -88,6 +89,8 @@ export function Envelope({
   tiltable?: boolean
   /** Off while the envelope is out of sight, so the sheen doesn't run unseen. */
   shimmer?: boolean
+  /** A line on the flap, above the seal: how the card was won. */
+  note?: string
 }) {
   const h = w * envelopeAspect
   const flapH = h * 0.5
@@ -168,7 +171,7 @@ export function Envelope({
   )
 
   // 0–0.15 seal splits · 0.12–0.4 flap swings open · 0.36–0.72 card rises ·
-  // 0.7–0.92 envelope falls away · 0.74–1 card glides into place
+  // 0.72–0.92 envelope falls away · 0.74–1 card glides into place
   const flapClosed = useAnimatedStyle(() => ({
     opacity: o.value < 0.26 ? 1 : 0,
     transform: [
@@ -194,22 +197,48 @@ export function Envelope({
     ],
   }))
   const body = useAnimatedStyle(() => ({
-    opacity: interpolate(o.value, [0.7, 0.92], [1, 0], Extrapolation.CLAMP),
+    opacity: interpolate(o.value, [0.72, 0.92], [1, 0], Extrapolation.CLAMP),
     transform: [
-      { translateY: interpolate(o.value, [0.7, 0.92], [0, h * 0.35], Extrapolation.CLAMP) },
+      { translateY: interpolate(o.value, [0.72, 0.92], [0, h * 0.35], Extrapolation.CLAMP) },
     ],
   }))
+  // The card rides between the envelope's back and its pocket until it has
+  // risen clear, then above the whole envelope: the envelope can only fade as
+  // one sheet (iOS group opacity) with nothing of the card inside it.
+  const cardInside = useAnimatedStyle(() => ({ opacity: o.value < 0.72 ? 1 : 0 }))
+  const cardAbove = useAnimatedStyle(() => ({ opacity: o.value < 0.72 ? 0 : 1 }))
 
   const pocket = `M0 0 L${w / 2} ${flapH * 0.98} L${w} 0 L${w} ${h} L0 ${h} Z`
   const flap = `M0 0 L${w} 0 L${w / 2} ${flapH} Z`
   const wax = useMemo(() => waxPath(seal), [seal])
   const flapBox = [styles.flap, { width: w, height: flapH }]
+  const innerCard = (place: typeof cardInside) =>
+    image && (
+      <Animated.View
+        pointerEvents="none"
+        style={[
+          styles.inner,
+          { width: inner.width, height: inner.height, left: (w - inner.width) / 2, top: inner.top },
+          card,
+          place,
+        ]}
+      >
+        <Image source={image} style={StyleSheet.absoluteFill} contentFit="cover" />
+        <HolographicOverlay
+          cardWidth={inner.width}
+          cardHeight={inner.height}
+          rotateX={cardHoloX}
+          rotateY={cardHoloY}
+          isActive={cardHoloActive}
+        />
+      </Animated.View>
+    )
 
   return (
     <GestureDetector gesture={pan}>
       <Animated.View style={[{ width: w, height: h }, tilt]}>
-        {/* the inside of the envelope and the opened flap, both behind the card */}
         <Animated.View style={[StyleSheet.absoluteFill, body]}>
+          {/* the inside of the envelope and the opened flap, both behind the card */}
           <PaperLayer
             id="inside"
             d={`M0 0 H${w} V${h} H0 Z`}
@@ -218,131 +247,126 @@ export function Envelope({
             stops={['#cdb994', '#bfa77c']}
             texture={0.5}
           />
-        </Animated.View>
-        <Animated.View style={[flapBox, flapOpen]}>
-          <PaperLayer
-            id="flapIn"
-            d={flap}
-            width={w}
-            height={flapH}
-            stops={['#d6c29c', '#e6d7b6']}
-            stroke="#b39a70"
-            texture={0.45}
-          />
-        </Animated.View>
-
-        {image && (
-          <Animated.View
-            style={[
-              styles.inner,
-              {
-                width: inner.width,
-                height: inner.height,
-                left: (w - inner.width) / 2,
-                top: inner.top,
-              },
-              card,
-            ]}
-          >
-            <Image source={image} style={StyleSheet.absoluteFill} contentFit="cover" />
-            <HolographicOverlay
-              cardWidth={inner.width}
-              cardHeight={inner.height}
-              rotateX={cardHoloX}
-              rotateY={cardHoloY}
-              isActive={cardHoloActive}
+          <Animated.View style={[flapBox, flapOpen]}>
+            <PaperLayer
+              id="flapIn"
+              d={flap}
+              width={w}
+              height={flapH}
+              stops={['#d6c29c', '#e6d7b6']}
+              stroke="#b39a70"
+              texture={0.45}
             />
           </Animated.View>
-        )}
 
-        {/* the front pocket with its address, the closed flap and the seal */}
-        <Animated.View style={[StyleSheet.absoluteFill, styles.shadow, body]} pointerEvents="none">
-          <PaperLayer
-            id="pocket"
-            d={pocket}
-            width={w}
-            height={h}
-            stops={['#f7efdc', '#efe3c7', '#e3d2ae']}
-            diagonal
-            texture={0.35}
+          {innerCard(cardInside)}
+
+          {/* the front pocket with its address, the closed flap and the seal */}
+          <View style={[StyleSheet.absoluteFill, styles.shadow]} pointerEvents="none">
+            <PaperLayer
+              id="pocket"
+              d={pocket}
+              width={w}
+              height={h}
+              stops={['#f7efdc', '#efe3c7', '#e3d2ae']}
+              diagonal
+              texture={0.35}
+            >
+              <Path
+                d={`M0 ${h} L${w / 2} ${h * 0.56} L${w} ${h}`}
+                stroke="#b89f76"
+                strokeOpacity={0.5}
+                strokeWidth={0.8}
+                fill="none"
+              />
+              <Path
+                d={`M0.5 0.5 H${w - 0.5} V${h - 0.5} H0.5 Z`}
+                stroke="#c4ad85"
+                strokeWidth={1}
+                fill="none"
+              />
+            </PaperLayer>
+            <View style={[styles.address, { top: h * 0.64, paddingHorizontal: w * 0.04 }]}>
+              <Typography
+                fontFamily="$script"
+                fontSize={w * 0.1}
+                lineHeight={w * 0.14}
+                color="#4f3b26"
+                textAlign="center"
+                // Full width, not shrink-wrapped: Android fits a centred item's
+                // text to its narrowest wrap and breaks a short name in two.
+                alignSelf="stretch"
+                numberOfLines={2}
+                adjustsFontSizeToFit
+              >
+                {name}
+              </Typography>
+              <Typography
+                variant="reference"
+                fontSize={w * 0.045}
+                lineHeight={w * 0.08}
+                color="#7d6749"
+                letterSpacing={w * 0.004}
+                textTransform="uppercase"
+                numberOfLines={1}
+                adjustsFontSizeToFit
+              >
+                {date}
+              </Typography>
+            </View>
+          </View>
+
+          <Animated.View style={[flapBox, styles.shadow, flapClosed]}>
+            <PaperLayer
+              id="flapOut"
+              d={flap}
+              width={w}
+              height={flapH}
+              stops={[paper.light, paper.mid]}
+              stroke="#bea57b"
+              texture={0.35}
+            />
+            {note && (
+              <View style={[styles.address, { top: flapH * 0.2 }]} pointerEvents="none">
+                <Typography
+                  variant="reference"
+                  fontSize={w * 0.042}
+                  lineHeight={w * 0.07}
+                  color="#7d6749"
+                  letterSpacing={w * 0.006}
+                  textTransform="uppercase"
+                  numberOfLines={1}
+                >
+                  {note}
+                </Typography>
+              </View>
+            )}
+          </Animated.View>
+
+          <View style={StyleSheet.absoluteFill} pointerEvents="none">
+            <HolographicOverlay
+              cardWidth={w}
+              cardHeight={h}
+              rotateX={holoX}
+              rotateY={holoY}
+              isActive={holoActive}
+              intensity={2}
+            />
+          </View>
+
+          <View
+            style={[
+              styles.seal,
+              { width: seal, height: seal, left: w / 2 - seal / 2, top: flapH - seal * 0.6 },
+            ]}
+            pointerEvents="none"
           >
-            <Path
-              d={`M0 ${h} L${w / 2} ${h * 0.56} L${w} ${h}`}
-              stroke="#b89f76"
-              strokeOpacity={0.5}
-              strokeWidth={0.8}
-              fill="none"
-            />
-            <Path
-              d={`M0.5 0.5 H${w - 0.5} V${h - 0.5} H0.5 Z`}
-              stroke="#c4ad85"
-              strokeWidth={1}
-              fill="none"
-            />
-          </PaperLayer>
-          <View style={[styles.address, { top: h * 0.64, paddingHorizontal: w * 0.04 }]}>
-            <Typography
-              fontFamily="$script"
-              fontSize={w * 0.1}
-              lineHeight={w * 0.14}
-              color="#4f3b26"
-              textAlign="center"
-              // Full width, not shrink-wrapped: Android fits a centred item's
-              // text to its narrowest wrap and breaks a short name in two.
-              alignSelf="stretch"
-              numberOfLines={2}
-              adjustsFontSizeToFit
-            >
-              {name}
-            </Typography>
-            <Typography
-              variant="reference"
-              fontSize={w * 0.045}
-              lineHeight={w * 0.08}
-              color="#7d6749"
-              letterSpacing={w * 0.004}
-              textTransform="uppercase"
-              numberOfLines={1}
-              adjustsFontSizeToFit
-            >
-              {date}
-            </Typography>
+            <SealHalf side="left" size={seal} wax={wax} open={o} />
+            <SealHalf side="right" size={seal} wax={wax} open={o} />
           </View>
         </Animated.View>
 
-        <Animated.View style={[flapBox, styles.shadow, flapClosed]}>
-          <PaperLayer
-            id="flapOut"
-            d={flap}
-            width={w}
-            height={flapH}
-            stops={[paper.light, paper.mid]}
-            stroke="#bea57b"
-            texture={0.35}
-          />
-        </Animated.View>
-
-        <Animated.View style={[StyleSheet.absoluteFill, body]} pointerEvents="none">
-          <HolographicOverlay
-            cardWidth={w}
-            cardHeight={h}
-            rotateX={holoX}
-            rotateY={holoY}
-            isActive={holoActive}
-            intensity={2}
-          />
-        </Animated.View>
-
-        <View
-          style={[
-            styles.seal,
-            { width: seal, height: seal, left: w / 2 - seal / 2, top: flapH - seal * 0.6 },
-          ]}
-          pointerEvents="none"
-        >
-          <SealHalf side="left" size={seal} wax={wax} open={o} />
-          <SealHalf side="right" size={seal} wax={wax} open={o} />
-        </View>
+        {innerCard(cardAbove)}
       </Animated.View>
     </GestureDetector>
   )
@@ -433,6 +457,18 @@ function PaperLayer({
       />
       {children}
     </Svg>
+  )
+}
+
+/** The envelope's wax seal on its own, whole: pressed at the foot of a prayer. */
+export function WaxSeal({ size }: { size: number }) {
+  const wax = useMemo(() => waxPath(size), [size])
+  const still = useSharedValue(0)
+  return (
+    <View style={[styles.seal, { position: 'relative', width: size, height: size }]}>
+      <SealHalf side="left" size={size} wax={wax} open={still} />
+      <SealHalf side="right" size={size} wax={wax} open={still} />
+    </View>
   )
 }
 

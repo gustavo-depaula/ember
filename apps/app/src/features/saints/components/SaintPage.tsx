@@ -10,7 +10,7 @@ import Animated, {
   useAnimatedStyle,
   useSharedValue,
 } from 'react-native-reanimated'
-import { useSafeAreaInsets } from 'react-native-safe-area-context'
+import { initialWindowMetrics, useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Defs, RadialGradient, Rect, Stop } from 'react-native-svg'
 import { Text, View, XStack, YStack } from 'tamagui'
 
@@ -44,6 +44,27 @@ const tabBarHeight = 64
 const peek = 96
 const pagePadding = 24
 const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI']
+// Each page's measured name block, so a page mounted again (the card's screen
+// taking over from the redeem screen's copy of it) lays its card out at the
+// final size from its first frame instead of resizing it once measured.
+const nameHeights = new Map<string, number>()
+
+/**
+ * Where a page's card rests: as large as the screen allows with the name under
+ * it and the page's first lines showing above the tab bar, which floats over
+ * the viewer — a hero that fills the screen reads as all there is. The opening
+ * envelope glides its card onto this spot.
+ */
+export function heroCard(width: number, height: number, insets: { top: number }, nameHeight = 96) {
+  const top = insets.top + 58
+  // The device's own bottom inset, not the screen's: the screen's takes in the
+  // tab bar while it shows, and the card must rest on the same spot on the
+  // redeem screen, which hides the bar, as on the page that replaces it.
+  const bottom = initialWindowMetrics?.insets.bottom ?? 0
+  const below = 20 + nameHeight + 24 + peek + bottom + tabBarHeight
+  const cardWidth = Math.min(saintCardWidth(width), Math.floor((height - top - below) / 1.5))
+  return { top, width: cardWidth, height: cardWidth * 1.5 }
+}
 
 type Chapter = {
   key: string
@@ -161,14 +182,12 @@ export const SaintPage = memo(function SaintPage({
   })()
   const hasChips = chapters.length > 1
 
-  // The card as large as the screen allows with the name under it and the
-  // page's first lines showing above the tab bar, which floats over the
-  // viewer: a hero that fills the screen reads as all there is.
-  const cardTop = insets.top + 58
-  const [nameHeight, setNameHeight] = useState(96)
-  const below = 20 + nameHeight + 24 + peek + insets.bottom + tabBarHeight
-  const cardWidth = Math.min(saintCardWidth(width), Math.floor((height - cardTop - below) / 1.5))
-  const cardHeight = cardWidth * 1.5
+  const [nameHeight, setNameHeight] = useState(() => nameHeights.get(saint.id) ?? 96)
+  const {
+    top: cardTop,
+    width: cardWidth,
+    height: cardHeight,
+  } = heroCard(width, height, insets, nameHeight)
   const full = cardTop + cardHeight + 20 + nameHeight + 24
   const slim = insets.top + barRow + (hasChips ? chipsRow : 0)
   const range = full - slim
@@ -358,7 +377,11 @@ export const SaintPage = memo(function SaintPage({
         <Animated.View
           style={[styles.name, { width }, nameStyle]}
           pointerEvents="none"
-          onLayout={(e) => setNameHeight(e.nativeEvent.layout.height)}
+          onLayout={(e) => {
+            const measured = e.nativeEvent.layout.height
+            nameHeights.set(saint.id, measured)
+            setNameHeight(measured)
+          }}
         >
           <Text fontFamily="$title" fontSize={28} lineHeight={34} color={cream} textAlign="center">
             {saint.name}
