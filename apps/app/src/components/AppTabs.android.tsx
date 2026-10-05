@@ -3,12 +3,12 @@ import { useSegments } from 'expo-router'
 import { type BottomTabBarProps, Tabs } from 'expo-router/js-tabs'
 import { createRef, type RefObject, useEffect, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Image, Keyboard, Pressable, StyleSheet, View } from 'react-native'
+import { Image, Keyboard, Pressable, StyleSheet, type View } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useThemeName } from 'tamagui'
 
 import { hidesAndroidTabBar } from '@/lib/fullScreenRoutes'
-import { ChromeSurface, chromeSelected, cycleChromeVariant, useChromeVariant } from './chrome'
+import { ChromeSurface, chromeSelected } from './chrome'
 
 const todayIcon = require('../../assets/nav-icons/today.png')
 const youIcon = require('../../assets/nav-icons/you.png')
@@ -99,12 +99,11 @@ function FloatingTabBar({
   const hidden = hidesAndroidTabBar(useSegments())
   // The window resizes for the keyboard, which would carry the bar up with it.
   const keyboardShown = useKeyboardShown()
-  const variant = useChromeVariant((s) => s.variant)
 
   if (hidden || keyboardShown) return null
 
   const bottom = insets.bottom + 10
-  const selectedFill = chromeSelected(variant, isDark)
+  const selectedFill = chromeSelected(isDark)
 
   const tab = (route: (typeof state.routes)[number], round: boolean) => {
     const selected = state.routes[state.index] === route
@@ -115,7 +114,6 @@ function FloatingTabBar({
         accessibilityLabel={labels[route.name]}
         accessibilityState={{ selected }}
         aria-selected={selected}
-        onLongPress={cycleChromeVariant}
         onPress={() => {
           const event = navigation.emit({
             type: 'tabPress',
@@ -136,21 +134,6 @@ function FloatingTabBar({
   }
 
   const search = state.routes.find((r) => r.name === searchTab)
-
-  if (variant === 'glass-single') {
-    return (
-      <View style={[styles.centered, { bottom }]} pointerEvents="box-none">
-        <ChromeSurface
-          isDark={isDark}
-          radius={barHeight / 2}
-          blurTarget={blurTarget}
-          style={styles.singlePill}
-        >
-          {state.routes.map((r) => tab(r, false))}
-        </ChromeSurface>
-      </View>
-    )
-  }
 
   return (
     <>
@@ -179,8 +162,6 @@ function FloatingTabBar({
 const styles = StyleSheet.create({
   fill: { flex: 1 },
   pill: { position: 'absolute', flexDirection: 'row', height: barHeight, padding: inset },
-  centered: { position: 'absolute', left: 0, right: 0, alignItems: 'center' },
-  singlePill: { flexDirection: 'row', height: barHeight, padding: inset },
   search: { position: 'absolute', width: barHeight, height: barHeight, padding: inset },
   item: { alignItems: 'center', justifyContent: 'center', borderRadius: barHeight / 2 },
   capsule: { width: itemWidth, height: barHeight - inset * 2 },
