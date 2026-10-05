@@ -21,7 +21,7 @@
 		"slug": "numbers",
 		"name": "Numbers",
 		"testament": "ot",
-		"chapters": 35
+		"chapters": 36
 	},
 	{
 		"slug": "deuteronomy",
@@ -33,19 +33,19 @@
 		"slug": "josue",
 		"name": "Josue",
 		"testament": "ot",
-		"chapters": 22
+		"chapters": 24
 	},
 	{
 		"slug": "judges",
 		"name": "Judges",
 		"testament": "ot",
-		"chapters": 17
+		"chapters": 21
 	},
 	{
 		"slug": "ruth",
 		"name": "Ruth",
 		"testament": "ot",
-		"chapters": 2
+		"chapters": 4
 	},
 	{
 		"slug": "1-kings",
@@ -57,7 +57,7 @@
 		"slug": "2-kings",
 		"name": "2 Kings",
 		"testament": "ot",
-		"chapters": 23
+		"chapters": 24
 	},
 	{
 		"slug": "3-kings",
@@ -75,7 +75,7 @@
 		"slug": "1-paralipomenon",
 		"name": "1 Paralipomenon",
 		"testament": "ot",
-		"chapters": 27
+		"chapters": 29
 	},
 	{
 		"slug": "2-paralipomenon",
@@ -93,7 +93,7 @@
 		"slug": "2-esdras",
 		"name": "2 Esdras",
 		"testament": "ot",
-		"chapters": 11
+		"chapters": 13
 	},
 	{
 		"slug": "tobias",
@@ -105,19 +105,19 @@
 		"slug": "judith",
 		"name": "Judith",
 		"testament": "ot",
-		"chapters": 11
+		"chapters": 16
 	},
 	{
 		"slug": "esther",
 		"name": "Esther",
 		"testament": "ot",
-		"chapters": 13
+		"chapters": 16
 	},
 	{
 		"slug": "job",
 		"name": "Job",
 		"testament": "ot",
-		"chapters": 19
+		"chapters": 42
 	},
 	{
 		"slug": "psalms",
@@ -129,7 +129,7 @@
 		"slug": "proverbs",
 		"name": "Proverbs",
 		"testament": "ot",
-		"chapters": 28
+		"chapters": 31
 	},
 	{
 		"slug": "ecclesiastes",
@@ -153,7 +153,7 @@
 		"slug": "ecclesiasticus",
 		"name": "Ecclesiasticus",
 		"testament": "ot",
-		"chapters": 48
+		"chapters": 51
 	},
 	{
 		"slug": "isaias",
@@ -165,7 +165,7 @@
 		"slug": "jeremias",
 		"name": "Jeremias",
 		"testament": "ot",
-		"chapters": 51
+		"chapters": 52
 	},
 	{
 		"slug": "lamentations",
@@ -183,7 +183,7 @@
 		"slug": "ezechiel",
 		"name": "Ezechiel",
 		"testament": "ot",
-		"chapters": 44
+		"chapters": 48
 	},
 	{
 		"slug": "daniel",
@@ -195,7 +195,7 @@
 		"slug": "osee",
 		"name": "Osee",
 		"testament": "ot",
-		"chapters": 11
+		"chapters": 14
 	},
 	{
 		"slug": "joel",
@@ -207,7 +207,7 @@
 		"slug": "amos",
 		"name": "Amos",
 		"testament": "ot",
-		"chapters": 7
+		"chapters": 9
 	},
 	{
 		"slug": "abdias",
@@ -225,7 +225,7 @@
 		"slug": "micheas",
 		"name": "Micheas",
 		"testament": "ot",
-		"chapters": 6
+		"chapters": 7
 	},
 	{
 		"slug": "nahum",
@@ -255,7 +255,7 @@
 		"slug": "zacharias",
 		"name": "Zacharias",
 		"testament": "ot",
-		"chapters": 11
+		"chapters": 14
 	},
 	{
 		"slug": "malachias",
@@ -273,7 +273,7 @@
 		"slug": "2-machabees",
 		"name": "2 Machabees",
 		"testament": "ot",
-		"chapters": 14
+		"chapters": 15
 	},
 	{
 		"slug": "matthew",
@@ -297,7 +297,7 @@
 		"slug": "john",
 		"name": "John",
 		"testament": "nt",
-		"chapters": 19
+		"chapters": 21
 	},
 	{
 		"slug": "acts",
@@ -315,7 +315,7 @@
 		"slug": "1-corinthians",
 		"name": "1 Corinthians",
 		"testament": "nt",
-		"chapters": 15
+		"chapters": 16
 	},
 	{
 		"slug": "2-corinthians",

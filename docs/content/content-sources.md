@@ -4,7 +4,7 @@ Where each text comes from, under what terms, and whether it may enter the corpu
 
 | Content | Source | License | Status |
 |---------|--------|---------|--------|
-| Bible, Douay-Rheims | `github.com/xxruyle/Bible-DouayRheims` → `content/bible/drb/` | Text public domain (1749–1750); repo MIT | In corpus |
+| Bible, Douay-Rheims | `github.com/BibleCorps/ENG-B-DRC1750-pd-PSFM` (USFM) → `content/bible/drb/` via `scripts/import-drb-usfm.py` | Public domain (Challoner, 1749–1750) | In corpus |
 | Bible, other translations | Bolls.life API (`apps/app/src/lib/bolls.ts`) | Free, no auth; credit Bolls.life | Runtime, per chapter |
 | Breviary texts, EF Mass propers, EF calendar | Divinum Officium (`content/do/` submodule) | MIT | In corpus |
 | OF Mass propers, order, calendar (la/en/pt) | `ember-extra`, vendored into `content/of/` | English prayers are ICEL © | In corpus (see below) |
@@ -16,7 +16,7 @@ Where each text comes from, under what terms, and whether it may enter the corpu
 
 ## Bible
 
-- **Douay-Rheims** is the only major English Catholic Bible fully in the public domain, so it is the one translation in the corpus and the fallback for every other. `BibleCorps/ENG-B-DRC1750-pd-PSFM` (USFM, with Challoner's annotations) is a better-annotated alternative for cross-checking.
+- **Douay-Rheims** is the only major English Catholic Bible fully in the public domain, so it is the one translation in the corpus and the fallback for every other. The import keeps Challoner's chapter arguments and book introductions (`summaries.json`); his verse annotations are in the USFM source but not yet imported.
 - **Bolls.life** serves the other translations (`GET /get-books/{t}/`, `/get-text/{t}/{bookid}/{chapter}/`, the catalog at `/static/bolls/app/views/languages.json`). The curated picker list is `suggestedTranslations` in `bolls.ts`.
 - **Never use Bolls.life's own `DRB`**: it has 66 books and lacks all seven deuterocanonical books. The app's `DRB` is the corpus copy. A 66-book translation falls back to the corpus DRB for deuterocanonical books, as does any failed fetch.
 - Rejected: Bible Gateway (no public API, terms forbid scraping); API.Bible (FUMS tracking forces online-only use).
