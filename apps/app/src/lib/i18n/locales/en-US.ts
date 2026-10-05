@@ -1183,8 +1183,6 @@ export default {
     ended: 'Ended',
     missedTitle_one: 'A day missed',
     missedTitle_other: '{{count}} days missed',
-    missedWhen_one: '{{dates}} went by unprayed.',
-    missedWhen_other: '{{dates}} went by unprayed.',
     restartFromOne: 'Start again from day I',
     restartFallsOn: 'day I falls on {{date}}',
     prayedUnlogged_one: "I prayed that day but didn't log it",

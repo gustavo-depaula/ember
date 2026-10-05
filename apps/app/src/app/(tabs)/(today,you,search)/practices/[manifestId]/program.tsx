@@ -22,6 +22,7 @@ import {
   useProgramProgress,
   useRestartProgram,
 } from '@/features/plan-of-life'
+import { DayStars, dayWindow, windowSize } from '@/features/plan-of-life/components/DayStars'
 import {
   computeAllDayStates,
   type DayState,
@@ -35,9 +36,6 @@ import { PracticePlanEditor, usePracticePlan } from '@/features/practices/compon
 import { useToday } from '@/hooks/useToday'
 import { localizeContent } from '@/lib/i18n'
 import { formatLocalized, getDateLocale } from '@/lib/i18n/dateLocale'
-
-// A long course shows the stretch around today rather than every day.
-const windowSize = 9
 
 // A feast this near is what the novena is being joined for, so it waits for
 // its own date; further off, it's taken as begun today.
@@ -343,11 +341,7 @@ export default function ProgramDetailScreen() {
     })
   const fullDate = (date: string, pattern: string) => formatLocalized(parseISO(date), t(pattern))
   const nextDate = dates[programDay] && dates[programDay] > todayStr ? dates[programDay] : undefined
-  const start =
-    totalDays <= windowSize
-      ? 0
-      : Math.min(Math.max(programDay - Math.floor(windowSize / 2), 0), totalDays - windowSize)
-  const shown = Array.from({ length: Math.min(windowSize, totalDays) }, (_, k) => start + k)
+  const shown = dayWindow(programDay, totalDays)
   const current = entryOf(entries, programDay)
   const excerpt = current?.excerpt ?? chapterOpening ?? undefined
 
@@ -366,7 +360,12 @@ export default function ProgramDetailScreen() {
 
         {needsRestart ? (
           // Where today's day would be, so opening the page is the warning.
-          <YStack paddingTop="$xl">
+          <YStack paddingTop="$xl" gap="$sm">
+            <Typography variant="sacred-title" fontSize={30} lineHeight={38} fontStyle="italic">
+              {t('program.missedTitle', {
+                count: states.filter((s) => s.isMissed).length || progress.missedDays,
+              })}
+            </Typography>
             <MissedDays practiceId={manifest.id} program={manifest.program} />
           </YStack>
         ) : isComplete || ended ? (
@@ -583,71 +582,6 @@ function StartChoice({
             if (event.type !== 'dismissed' && selected) onChange(format(selected, 'yyyy-MM-dd'))
           }}
         />
-      )}
-    </YStack>
-  )
-}
-
-// The days as the fidelity wall draws them: a lit star for a day prayed, an
-// open one for today, a dot for a day still to come — and an empty ring for
-// one that passed unprayed, so a gap reads as a gap.
-function DayStars({ days }: { days: { state: DayState; date?: string }[] }) {
-  const theme = useTheme()
-  const parsed = days.map((d) => (d.date ? parseISO(d.date) : undefined))
-  const months = [...new Set(parsed.filter(Boolean).map((d) => formatLocalized(d as Date, 'LLLL')))]
-  // A day a month (the First Fridays) heads each cell with its month, where
-  // the weekday would only repeat itself.
-  const monthly = months.length === parsed.filter(Boolean).length && months.length > 2
-  const head = (date: Date) =>
-    formatLocalized(date, monthly ? 'LLL' : 'EEE')
-      .replace('.', '')
-      .slice(0, 3)
-      .toUpperCase()
-
-  return (
-    <YStack
-      paddingVertical="$md"
-      borderBottomWidth={0.5}
-      borderColor="$borderColor"
-      gap="$sm"
-      accessibilityElementsHidden
-      importantForAccessibility="no-hide-descendants"
-    >
-      <XStack justifyContent="space-between">
-        {days.map(({ state }, k) => {
-          const date = parsed[k]
-          const glyph = (() => {
-            if (state.isCompleted) return { char: '✦', size: 18, color: theme.accent.val }
-            if (state.isCurrent) return { char: '✧', size: 18, color: theme.colorSecondary.val }
-            if (state.isMissed) return { char: '○', size: 10, color: theme.colorSecondary.val }
-            return { char: '●', size: 4, color: theme.wallEmpty.val }
-          })()
-          return (
-            // biome-ignore lint/suspicious/noArrayIndexKey: the cells are positional
-            <YStack key={k} alignItems="center" gap={4} width={34}>
-              <Typography variant="label" fontSize={10} letterSpacing={1} tone="muted">
-                {date ? head(date) : ''}
-              </Typography>
-              <YStack height={26} justifyContent="center">
-                <Typography fontSize={glyph.size} lineHeight={26} color={glyph.color}>
-                  {glyph.char}
-                </Typography>
-              </YStack>
-              <Typography fontSize="$2" color={state.isCurrent ? '$color' : '$colorSecondary'}>
-                {date ? format(date, 'd') : ''}
-              </Typography>
-            </YStack>
-          )
-        })}
-      </XStack>
-      {months.length > 0 && !monthly && (
-        <XStack justifyContent="space-between">
-          {months.slice(0, 2).map((m) => (
-            <Typography key={m} variant="label" fontSize={10} letterSpacing={1.5} tone="muted">
-              {m.toUpperCase()}
-            </Typography>
-          ))}
-        </XStack>
       )}
     </YStack>
   )

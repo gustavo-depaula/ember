@@ -1189,8 +1189,6 @@ export default {
     ended: 'Encerrado',
     missedTitle_one: 'Um dia perdido',
     missedTitle_other: '{{count}} dias perdidos',
-    missedWhen_one: 'O dia {{dates}} passou sem ser rezado.',
-    missedWhen_other: 'Os dias {{dates}} passaram sem ser rezados.',
     restartFromOne: 'Recomeçar do dia I',
     restartFallsOn: 'o dia I cai em {{date}}',
     prayedUnlogged_one: 'Rezei nesse dia e não registrei',

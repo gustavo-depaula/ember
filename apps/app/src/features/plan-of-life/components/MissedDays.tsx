@@ -1,10 +1,12 @@
 import { format, parseISO } from 'date-fns'
 import { useTranslation } from 'react-i18next'
-import { YStack } from 'tamagui'
+import { Pressable } from 'react-native'
+import { XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, Typography } from '@/components'
+import { AnimatedCheckbox, AnimatedPressable, Typography } from '@/components'
 import type { ProgramConfig } from '@/content/types'
 import { useStableToday } from '@/hooks/useToday'
+import { lightTap } from '@/lib/haptics'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 
 import {
@@ -13,12 +15,12 @@ import {
   useProgramProgress,
   useRestartProgram,
 } from '../hooks'
-import { phrasing } from '../phrasing'
 import { computeAllDayStates } from '../program'
 
 /**
- * A program that a missed day sends back to its start: which days went by,
- * the way back to day I and when it falls, and the days prayed but not logged.
+ * The way out of a program that a missed day sends back to its start: each
+ * missed day as a line to tick if it was prayed after all, and the way back to
+ * day I with the date it falls on.
  */
 export function MissedDays({
   practiceId,
@@ -27,7 +29,7 @@ export function MissedDays({
   practiceId: string
   program: ProgramConfig
 }) {
-  const { t, i18n } = useTranslation()
+  const { t } = useTranslation()
   const today = useStableToday()
   const progress = useProgramProgress(practiceId, program, today)
   const dates = useProgramDayDates(practiceId, program)
@@ -36,58 +38,84 @@ export function MissedDays({
   const backfill = useBackfillMissedDays()
   if (!progress) return undefined
 
-  const todayStr = format(today, 'yyyy-MM-dd')
-  const fullDate = (date: string) => formatLocalized(parseISO(date), t('program.dateFormat'))
   const missedDates = computeAllDayStates(progress).flatMap((s, i) =>
     s.isMissed && dates[i] ? [dates[i] as string] : [],
   )
-  const count = missedDates.length || progress.missedDays
-  const named = missedDates.slice(-3).map(fullDate)
-  const list =
-    named.length < 2
-      ? named.join('')
-      : `${named.slice(0, -1).join(', ')} ${phrasing(i18n.language).and} ${named.at(-1)}`
   const firstDay = restartDates[0]
+  const restartLabel = t('program.restartFromOne')
 
   return (
-    <YStack alignItems="center">
-      <Typography
-        variant="sacred-title"
-        fontSize={30}
-        lineHeight={38}
-        fontStyle="italic"
-        textAlign="center"
-      >
-        {t('program.missedTitle', { count })}
-      </Typography>
-      {list ? (
-        <Typography tone="muted" fontSize="$3" textAlign="center" paddingTop="$sm">
-          {t('program.missedWhen', { count, dates: list })}
-        </Typography>
-      ) : null}
-      <PrayBar label={t('program.restartFromOne')} onPress={() => restart.mutate({ practiceId })} />
-      {firstDay && firstDay !== todayStr ? (
-        <Typography tone="muted" fontStyle="italic" fontSize="$2" paddingTop="$sm">
-          {t('program.restartFallsOn', { date: fullDate(firstDay) })}
-        </Typography>
-      ) : null}
-      {/* Logged on the missed days' own dates: a First Friday counts only on a Friday. */}
+    <YStack alignSelf="stretch">
+      {missedDates.map((date) => {
+        // pt-BR weekdays come lowercase; this one opens a line.
+        const lower = formatLocalized(parseISO(date), t('program.dayDateFormat'))
+        const dayLabel = lower.charAt(0).toUpperCase() + lower.slice(1)
+        const prayed = t('program.prayedUnlogged', { count: 1 })
+        // Logged on the missed day's own date: a First Friday counts only on a Friday.
+        const tick = () => {
+          lightTap()
+          backfill.mutate({ practiceId, dates: [date] })
+        }
+        return (
+          // The checkbox is the control a screen reader meets; the row only
+          // widens its touch target.
+          <Pressable key={date} onPress={tick} accessible={false}>
+            <XStack
+              alignItems="center"
+              gap="$md"
+              paddingVertical="$md"
+              paddingHorizontal="$xs"
+              borderBottomWidth={0.5}
+              borderColor="$borderColor"
+            >
+              <AnimatedCheckbox
+                checked={false}
+                size={24}
+                subtle
+                onToggle={tick}
+                accessibilityLabel={`${dayLabel}, ${prayed}`}
+              />
+              <YStack flex={1}>
+                <Typography fontSize="$4">{dayLabel}</Typography>
+                <Typography tone="muted" fontSize="$2">
+                  {prayed}
+                </Typography>
+              </YStack>
+            </XStack>
+          </Pressable>
+        )
+      })}
       <AnimatedPressable
-        onPress={() => backfill.mutate({ practiceId, dates: missedDates })}
+        onPress={() => restart.mutate({ practiceId })}
         accessibilityRole="button"
-        accessibilityLabel={t('program.prayedUnlogged', { count })}
-        style={{ minHeight: 48, justifyContent: 'center', marginTop: 12 }}
+        accessibilityLabel={restartLabel}
+        style={{ paddingTop: 20 }}
       >
-        <Typography
-          fontSize="$4"
-          color="$colorSecondary"
-          textAlign="center"
-          textDecorationLine="underline"
-          textDecorationColor="$accentSubtle"
+        <YStack
+          paddingVertical="$md"
+          borderRadius="$md"
+          borderWidth={1}
+          borderColor="$accentSubtle"
+          alignItems="center"
         >
-          {t('program.prayedUnlogged', { count })}
-        </Typography>
+          <Typography variant="label" fontSize="$2" letterSpacing={1.5} color="$accent">
+            {restartLabel}
+          </Typography>
+        </YStack>
       </AnimatedPressable>
+      {firstDay && firstDay !== format(today, 'yyyy-MM-dd') ? (
+        <Typography
+          tone="muted"
+          fontStyle="italic"
+          fontSize="$2"
+          textAlign="center"
+          paddingTop="$sm"
+        >
+          {t('program.restartFallsOn', {
+            date: formatLocalized(parseISO(firstDay), t('program.dateFormat')),
+          })}
+        </Typography>
+      ) : null}
     </YStack>
   )
 }
