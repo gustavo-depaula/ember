@@ -103,10 +103,15 @@ export function devCorpus() {
         if (!file.startsWith(corpus) || !existsSync(file) || !statSync(file).isFile()) return next()
         createReadStream(file).pipe(res)
       })
-      server.middlewares.use('/mass-times-api', async (req, res) => {
-        const upstream = await fetch(`${massTimesApi}${req.url ?? '/'}`)
-        res.writeHead(upstream.status, { 'content-type': 'application/json' })
-        res.end(await upstream.text())
+      // Ahead of Astro's own middleware, which would answer an extensionless
+      // path with its trailing-slash page before this one saw it.
+      server.middlewares.stack.unshift({
+        route: '/mass-times-api',
+        handle: async (req, res) => {
+          const upstream = await fetch(`${massTimesApi}${req.url ?? '/'}`)
+          res.writeHead(upstream.status, { 'content-type': 'application/json' })
+          res.end(await upstream.text())
+        },
       })
     },
   }

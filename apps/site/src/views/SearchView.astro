@@ -1,5 +1,4 @@
 ---
-import PageFlourish from '~/components/PageFlourish.astro'
 import Base from '~/layouts/Base.astro'
 import { type Locale, translator } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
@@ -25,7 +24,6 @@ const placeholder = pt ? 'Busque orações, santos, livros…' : 'Search prayers
 ---
 
 <Base locale={locale} title={s('search')} alternates={alternates} section="search" noindex>
-  <PageFlourish art="search" />
   <div class="column" data-search data-index={`/search-index/${locale}.json`} data-labels={JSON.stringify(labels)}>
     <header class="page-head">
       <h1 class="t-screen">{s('search')}</h1>

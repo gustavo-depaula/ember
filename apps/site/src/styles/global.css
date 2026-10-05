@@ -26,7 +26,7 @@
 
   /* The app's column. Reading stays in it on every screen. */
   --column: 640px;
-  --wide: 1120px;
+  --wide: 1240px;
   --gutter: 24px;
 
   --reading-size: 21px;
@@ -509,10 +509,10 @@ main {
     color: var(--color);
   }
 
-  .tabbar img {
-    width: 30px;
-    height: 30px;
-    object-fit: contain;
+  .tabbar svg {
+    width: 22px;
+    height: 22px;
+    margin-bottom: 2px;
   }
 
   body {
@@ -716,6 +716,18 @@ main {
 .shelf > * {
   flex: none;
   scroll-snap-align: start;
+}
+
+/* With a pointer and a wide window there is nothing to swipe: the shelf
+   stands as rows of a grid, everything on it in view. */
+@media (min-width: 900px) {
+  .shelf {
+    flex-wrap: wrap;
+    overflow: visible;
+    gap: 24px 20px;
+    margin-inline: 0;
+    padding-inline: 0;
+  }
 }
 
 .grid {
@@ -2069,4 +2081,270 @@ main {
 .chips button[aria-pressed='true'] {
   background: var(--color);
   color: var(--background);
+}
+
+/* ── The desktop reader: a rail, the text, a rail ───────────────────── */
+
+.reader {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  width: 100%;
+  max-width: calc(var(--column) + 2 * var(--gutter));
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.reader-rail {
+  display: none;
+}
+
+.reader-main {
+  min-width: 0;
+}
+
+@media (min-width: 1100px) {
+  .reader {
+    grid-template-columns: 220px minmax(0, var(--reader-measure, 660px)) 240px;
+    justify-content: space-between;
+    gap: 0 48px;
+    max-width: calc(var(--wide) + 2 * var(--gutter));
+  }
+
+  /* Latin beside the vernacular needs a missal's width. */
+  :root[data-latin='on'] .reader[data-bilingual] {
+    --reader-measure: 900px;
+    grid-template-columns: 200px minmax(0, var(--reader-measure)) 200px;
+    gap: 0 32px;
+  }
+
+  .reader-rail {
+    display: block;
+    position: sticky;
+    top: 88px;
+    align-self: start;
+    max-height: calc(100vh - 104px);
+    overflow-y: auto;
+    scrollbar-width: thin;
+    padding-block: var(--space-xl) var(--space-lg);
+    font-size: 16px;
+    line-height: 22px;
+  }
+
+  .reader-rail.right {
+    grid-column: 3;
+  }
+
+  /* Page furniture that the rails carry on a wide screen. */
+  .reader .narrow-only {
+    display: none;
+  }
+}
+
+.rail-title {
+  font-family: var(--font-heading);
+  font-size: 11px;
+  line-height: 16px;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+  margin-bottom: 8px;
+}
+
+.rail-block + .rail-block {
+  margin-top: var(--space-lg);
+  padding-top: var(--space-lg);
+  border-top: 0.5px solid var(--hairline);
+}
+
+.rail-list a,
+.rail-list span {
+  display: block;
+  padding-block: 5px;
+  color: var(--color-secondary);
+  transition: color 0.15s ease;
+}
+
+.rail-list a:hover {
+  color: var(--color);
+}
+
+.rail-list a[aria-current],
+.rail-list a.active {
+  color: var(--gold-ink);
+}
+
+.rail-list.sub {
+  padding-left: 12px;
+  border-left: 0.5px solid var(--hairline);
+}
+
+.rail-text {
+  color: var(--color-secondary);
+}
+
+.rail-tools {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-left: -10px;
+}
+
+/* Two columns for a page that pairs an object with its text (a book and its
+   contents, a holy card and its life). */
+.split {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-xl);
+  width: 100%;
+  max-width: calc(var(--column) + 2 * var(--gutter));
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+@media (min-width: 1000px) {
+  .split {
+    grid-template-columns: 320px minmax(0, 700px);
+    justify-content: center;
+    gap: 72px;
+    max-width: calc(var(--wide) + 2 * var(--gutter));
+  }
+
+  .split > .aside {
+    position: sticky;
+    top: 96px;
+    align-self: start;
+  }
+}
+
+/* A hub with its index down the side. */
+.hub {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: var(--space-lg);
+}
+
+@media (min-width: 1000px) {
+  .hub {
+    grid-template-columns: 200px minmax(0, 1fr);
+    gap: 56px;
+  }
+
+  .hub > .hub-index {
+    position: sticky;
+    top: 96px;
+    align-self: start;
+    max-height: calc(100vh - 112px);
+    overflow-y: auto;
+    scrollbar-width: thin;
+  }
+
+  .hub > .hub-index .facets {
+    flex-direction: column;
+    gap: 0;
+    white-space: normal;
+  }
+
+  .hub > .hub-index .facets a,
+  .hub > .hub-index .facets button {
+    text-align: left;
+    font-size: 17px;
+    line-height: 30px;
+    border-bottom: 0;
+  }
+}
+
+/* Header search: a field on a wide screen, an icon on a narrow one. */
+.header-search {
+  display: none;
+}
+
+@media (min-width: 1180px) {
+  .header-search {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 200px;
+    height: 36px;
+    padding-inline: 12px;
+    border-radius: 18px;
+    background: var(--tile-glass);
+    color: var(--color-secondary);
+  }
+
+  .header-search svg {
+    flex: none;
+    width: 16px;
+    height: 16px;
+    stroke: currentColor;
+    fill: none;
+    stroke-width: 1.5;
+    stroke-linecap: round;
+  }
+
+  .header-search input {
+    flex: 1;
+    min-width: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: var(--color);
+    font: inherit;
+    font-size: 16px;
+  }
+
+  .header-search input::placeholder {
+    color: var(--color-secondary);
+  }
+
+  .header-search input::-webkit-search-cancel-button {
+    display: none;
+  }
+
+  .header-search kbd {
+    font: inherit;
+    font-size: 12px;
+    line-height: 18px;
+    padding-inline: 6px;
+    border-radius: 4px;
+    border: 0.5px solid var(--border-color);
+    color: var(--color-secondary);
+  }
+
+  .header-search:focus-within {
+    box-shadow: 0 0 0 1.5px var(--accent);
+  }
+
+  .header-search:focus-within kbd,
+  .tool.search-link {
+    display: none;
+  }
+}
+
+.map-pin {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+  cursor: pointer;
+}
+
+.map-cluster {
+  min-width: 34px;
+  height: 34px;
+  padding-inline: 8px;
+  border-radius: 17px;
+  background: var(--color);
+  color: var(--background);
+  font-family: var(--font-heading);
+  font-size: 13px;
+  font-variant-numeric: lining-nums;
+  border: 2px solid var(--background);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }

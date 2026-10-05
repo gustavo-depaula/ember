@@ -1,7 +1,9 @@
 ---
+import RailTools from '~/components/RailTools.astro'
+import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
-import { loadBibleChapter } from '~/lib/bible'
+import { listBibleBooks, loadBibleChapter } from '~/lib/bible'
 import { plainExcerpt } from '~/lib/html'
 import type { Locale } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
@@ -17,6 +19,7 @@ interface Props {
 const { locale, alternates, book: slug, chapter } = Astro.props
 const s = siteStrings(locale)
 const page = await loadBibleChapter(slug, chapter, locale)
+const books = await listBibleBooks(locale)
 const isPsalm = slug === 'psalms'
 const heading = isPsalm ? `Psalm ${chapter}` : `${page.book.title} ${chapter}`
 const description = plainExcerpt(
@@ -46,12 +49,36 @@ const label = (ref: { book: { id: string; title: string }; chapter: number }) =>
     isPartOf: { '@type': 'Book', name: `${page.book.title} (Douay-Rheims Bible)` },
   }}
 >
-  <article class="column">
+  <Reader>
+    <Fragment slot="left">
+      {(['ot', 'nt'] as const).map((testament) => (
+        <nav class="rail-block" aria-label={testament === 'ot' ? 'Old Testament' : 'New Testament'}>
+          <p class="rail-title">{testament === 'ot' ? 'Old Testament' : 'New Testament'}</p>
+          <div class="rail-list">
+            {books.filter((b) => b.testament === testament).map((b) => (
+              <a href={href.bibleBook(locale, b.id)} aria-current={b.id === slug ? 'page' : undefined}>{b.title}</a>
+            ))}
+          </div>
+        </nav>
+      ))}
+    </Fragment>
+    <Fragment slot="right">
+      <RailTools locale={locale} />
+      <nav class="rail-block" aria-label={page.book.title}>
+        <p class="rail-title">{page.book.title}</p>
+        <div class="rail-chapters">
+          {Array.from({ length: page.book.chapters }, (_, i) => i + 1).map((n) => (
+            <a href={href.bibleChapter(locale, slug, n)} aria-current={n === chapter ? 'page' : undefined}>{n}</a>
+          ))}
+        </div>
+      </nav>
+    </Fragment>
+    <article>
     <header class="chapter-head">
       <p class="book"><a href={href.bibleBook(locale, slug)}>{page.book.title}</a></p>
       <h1>{isPsalm ? `Psalm ${chapter}` : `Chapter ${chapter}`}</h1>
       {page.summary && <p class="t-rubric summary">{page.summary}</p>}
-      <ReaderTools locale={locale} />
+      <div class="narrow-only"><ReaderTools locale={locale} /></div>
     </header>
 
     <div class="scripture">
@@ -78,12 +105,13 @@ const label = (ref: { book: { id: string; title: string }; chapter: number }) =>
       )}
     </nav>
 
-    <nav class="chapter-list" aria-label={page.book.title}>
+    <nav class="chapter-list narrow-only" aria-label={page.book.title}>
       {Array.from({ length: page.book.chapters }, (_, i) => i + 1).map((n) => (
         <a href={href.bibleChapter(locale, slug, n)} aria-current={n === chapter ? 'page' : undefined}>{n}</a>
       ))}
     </nav>
-  </article>
+    </article>
+  </Reader>
 </Base>
 
 <style>
@@ -138,6 +166,30 @@ const label = (ref: { book: { id: string; title: string }; chapter: number }) =>
     margin-right: 0.7em;
     font-variant-numeric: lining-nums;
     vertical-align: 0.5em;
+  }
+  .rail-chapters {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 2px;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    font-variant-numeric: lining-nums;
+  }
+  .rail-chapters a {
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    color: var(--color-secondary);
+  }
+  .rail-chapters a:hover {
+    background: var(--tile-glass);
+    color: var(--color);
+  }
+  .rail-chapters a[aria-current='page'] {
+    color: var(--gold-ink);
+    font-weight: 700;
   }
   .chapter-list {
     display: flex;

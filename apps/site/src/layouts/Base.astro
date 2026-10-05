@@ -1,12 +1,7 @@
 ---
 import { getImage } from 'astro:assets'
 import appIcon from '../../../app/assets/icon.png'
-import navLibrary from '../../../app/assets/nav-icons/source/library.png'
-import navSearch from '../../../app/assets/nav-icons/source/search.png'
-import navToday from '../../../app/assets/nav-icons/source/today.png'
-import navPray from '../../../app/assets/nav-icons/source/you.png'
-import navSaints from '../../../app/assets/nav-icons/source/explore.png'
-import marker from '../../../app/assets/textures/horizontal_marker.png'
+import Icon from '~/components/Icon.astro'
 import { htmlLang, type Locale, locales } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
 import { themeCss } from '~/lib/theme'
@@ -26,6 +21,8 @@ interface Props {
   ogType?: 'website' | 'article' | 'book'
   jsonLd?: unknown
   noindex?: boolean
+  /** Liturgy read as in a missal: Latin beside the text from the start on a wide screen. */
+  latinWide?: boolean
 }
 
 const {
@@ -39,6 +36,7 @@ const {
   ogType = 'website',
   jsonLd,
   noindex,
+  latinWide,
 } = Astro.props
 const s = siteStrings(locale)
 const site = Astro.site ?? new URL('https://ember.dpgu.me')
@@ -53,8 +51,6 @@ const metaDescription = description ?? s('description')
 const icon = await getImage({ src: appIcon, width: 96, format: 'webp' })
 const touchIcon = await getImage({ src: appIcon, width: 180, format: 'png' })
 const ogImage = image ?? (await getImage({ src: appIcon, width: 512, format: 'png' })).src
-const rule = await getImage({ src: marker, width: 560, format: 'webp' })
-const tabIcon = (src: ImageMetadata) => getImage({ src, height: 90, format: 'webp' })
 
 const nav: { key: Section | 'home'; label: string; to: string }[] = [
   { key: 'home', label: s('navToday'), to: href.home(locale) },
@@ -80,11 +76,11 @@ const navKey: Partial<Record<Section | 'home', Section | 'home'>> = {
 const active = section ? (navKey[section] ?? section) : undefined
 
 const tabs = [
-  { key: 'home', label: s('navToday'), to: href.home(locale), icon: await tabIcon(navToday) },
-  { key: 'prayers', label: s('tabPray'), to: href.section(locale, 'prayers'), icon: await tabIcon(navPray) },
-  { key: 'library', label: s('navLibrary'), to: href.section(locale, 'library'), icon: await tabIcon(navLibrary) },
-  { key: 'saints', label: s('navSaints'), to: href.section(locale, 'saints'), icon: await tabIcon(navSaints) },
-  { key: 'search', label: s('search'), to: href.section(locale, 'search'), icon: await tabIcon(navSearch) },
+  { key: 'home', label: s('navToday'), to: href.home(locale), icon: 'sun' },
+  { key: 'prayers', label: s('tabPray'), to: href.section(locale, 'prayers'), icon: 'flame' },
+  { key: 'library', label: s('navLibrary'), to: href.section(locale, 'library'), icon: 'book-open' },
+  { key: 'saints', label: s('navSaints'), to: href.section(locale, 'saints'), icon: 'crown' },
+  { key: 'search', label: s('search'), to: href.section(locale, 'search'), icon: 'search' },
 ]
 const tabKey: Partial<Record<Section | 'home', string>> = {
   mass: 'prayers',
@@ -101,11 +97,11 @@ const tabKey: Partial<Record<Section | 'home', string>> = {
 const activeTab = section ? (tabKey[section] ?? section) : undefined
 
 // Before first paint: the reader's theme, Latin and text-size choices.
-const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;if(s.getItem('ember-latin')==='on')d.dataset.latin='on';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
+const boot = `(function(){try{var d=document.documentElement,s=localStorage;var t=s.getItem('ember-theme');if(t)d.dataset.theme=t;var l=s.getItem('ember-latin');if(l==='on'||(!l&&d.dataset.latinWide!==undefined&&innerWidth>=1100))d.dataset.latin='on';var z=s.getItem('ember-size');if(z)d.style.setProperty('--reading-size',z+'px')}catch(e){}})()`
 ---
 
 <!doctype html>
-<html lang={htmlLang[locale]}>
+<html lang={htmlLang[locale]} data-latin-wide={latinWide ? '' : undefined}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -153,7 +149,12 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
             ))}
           </nav>
           <div class="header-tools">
-            <a class="tool" href={href.section(locale, 'search')} aria-label={s('search')}>
+            <form class="header-search" action={href.section(locale, 'search')} role="search">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+              <input type="search" name="q" placeholder={s('search')} aria-label={s('search')} autocomplete="off" data-site-search />
+              <kbd aria-hidden="true">/</kbd>
+            </form>
+            <a class="tool search-link" href={href.section(locale, 'search')} aria-label={s('search')}>
               <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
             </a>
             <a class="tool" href={otherHref} hreflang={htmlLang[other]} aria-label={s('otherLanguageLabel')}>
@@ -173,7 +174,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
 
       <footer class="site-footer">
         <div class="wide">
-          <div class="ornament" aria-hidden="true"><img src={rule.src} alt="" width="280" height="71" loading="lazy" /></div>
+          <div class="cross-rule" aria-hidden="true">✠</div>
           <div class="cols">
             <div>
               <h2>{s('footPray')}</h2>
@@ -221,7 +222,7 @@ const boot = `(function(){try{var d=document.documentElement,s=localStorage;var 
     <nav class="tabbar" aria-label={s('siteName')}>
       {tabs.map((tab) => (
         <a href={tab.to} aria-current={activeTab === tab.key ? 'page' : undefined}>
-          <img src={tab.icon.src} alt="" width="30" height="30" />
+          <Icon name={tab.icon} />
           <span>{tab.label}</span>
         </a>
       ))}

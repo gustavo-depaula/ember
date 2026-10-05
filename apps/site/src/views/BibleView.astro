@@ -1,5 +1,4 @@
 ---
-import PageFlourish from '~/components/PageFlourish.astro'
 import Base from '~/layouts/Base.astro'
 import { listBibleBooks } from '~/lib/bible'
 import type { Locale } from '~/lib/locale'
@@ -25,7 +24,6 @@ const description = pt
 ---
 
 <Base locale={locale} title={pt ? 'Bíblia Sagrada' : 'The Holy Bible (Douay-Rheims)'} description={description} alternates={alternates} section="bible">
-  <PageFlourish art="library" />
   <div class="wide">
     <header class="page-head">
       <p class="t-kicker">Douay-Rheims · Challoner</p>

@@ -1,0 +1,16 @@
+---
+// The rail's "On this page". Filled in the browser from the headings actually
+// showing, since a choice in the text (which mysteries, which hour) changes them.
+import type { Locale } from '~/lib/locale'
+
+interface Props {
+  locale: Locale
+}
+
+const title = Astro.props.locale === 'pt-BR' ? 'Nesta página' : 'On this page'
+---
+
+<nav class="rail-block" data-outline hidden aria-label={title}>
+  <p class="rail-title">{title}</p>
+  <div class="rail-list"></div>
+</nav>

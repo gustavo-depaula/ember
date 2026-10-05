@@ -1,0 +1,17 @@
+---
+// The desktop reading page: a rail of contents, the text at a book's measure,
+// a rail of tools and context. Below 1100px the rails fold away and the text
+// stands alone, as in the app.
+interface Props {
+  /** The text has Latin to set beside it, which widens the measure when shown. */
+  bilingual?: boolean
+}
+
+const { bilingual } = Astro.props
+---
+
+<div class="reader" data-bilingual={bilingual ? '' : undefined}>
+  <aside class="reader-rail left"><slot name="left" /></aside>
+  <div class="reader-main"><slot /></div>
+  <aside class="reader-rail right"><slot name="right" /></aside>
+</div>

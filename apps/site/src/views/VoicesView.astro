@@ -1,5 +1,4 @@
 ---
-import PageFlourish from '~/components/PageFlourish.astro'
 import Base from '~/layouts/Base.astro'
 import { type Locale, translator } from '~/lib/locale'
 import { listVoices } from '~/lib/plans'
@@ -22,7 +21,6 @@ const ordered = pt ? sections : [...sections].reverse()
 ---
 
 <Base locale={locale} title={pt ? 'Vozes católicas' : 'Catholic voices'} description={t('creators.tagline')} alternates={alternates} section="voices">
-  <PageFlourish art="explore" />
   <div class="column">
     <header class="page-head">
       <h1 class="t-screen">{pt ? 'Vozes' : 'Voices'}</h1>

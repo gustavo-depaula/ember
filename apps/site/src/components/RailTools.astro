@@ -1,0 +1,38 @@
+---
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  latin?: boolean
+  minutes?: number
+}
+
+const { locale, latin, minutes } = Astro.props
+const s = siteStrings(locale)
+const title = locale === 'pt-BR' ? 'Leitura' : 'Reading'
+---
+
+<div class="rail-block">
+  <p class="rail-title">{title}</p>
+  <div class="rail-tools">
+    {latin && (
+      <button class="tool" type="button" data-latin-toggle aria-pressed="false" title={s('latinOn')} style="padding-inline:10px">
+        {s('latin')}
+      </button>
+    )}
+    <button class="tool" type="button" data-size-step="-1" aria-label={`${s('textSize')} −`}>
+      <span style="font-family:var(--font-body);font-size:15px;letter-spacing:0">A</span>
+    </button>
+    <button class="tool" type="button" data-size-step="1" aria-label={`${s('textSize')} +`}>
+      <span style="font-family:var(--font-body);font-size:22px;letter-spacing:0">A</span>
+    </button>
+  </div>
+  {minutes && <p class="rail-text" style="margin-top:6px">{s('minutes', { count: minutes })}</p>}
+</div>
+
+<style>
+  [data-latin-toggle][aria-pressed='true'] {
+    color: var(--gold-ink);
+  }
+</style>

@@ -1,6 +1,5 @@
 ---
 import { bookCoverFormat } from '@/features/covers/coverFor'
-import { toneForKey } from '@/features/explore/bgColor'
 import Cover from '~/components/Cover.astro'
 import TocList from '~/components/TocList.astro'
 import Base from '~/layouts/Base.astro'
@@ -9,6 +8,7 @@ import { plainExcerpt } from '~/lib/html'
 import { htmlLang, type Locale, translator } from '~/lib/locale'
 import { proseHtml } from '~/lib/markdown'
 import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
 
 interface Props {
   locale: Locale
@@ -23,7 +23,6 @@ const t = translator(locale)
 const book = await loadBookPage(id, locale)
 if (!book) throw new Error(`No book ${id}`)
 
-const tone = toneForKey(id)
 const pt = locale === 'pt-BR'
 const languageNames: Record<string, string> = pt
   ? { 'en-US': 'inglês', 'pt-BR': 'português', la: 'latim', it: 'italiano', 'fr-FR': 'francês' }
@@ -58,56 +57,103 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
     description,
   }}
 >
-  <header class="hero" style={`--from:${tone.from};--to:${tone.to}`}>
-    <div class="hero-cover">
-      <Cover cover={{ kind: 'book', format: bookCoverFormat(book.cover), author: book.author }} id={id} title={book.title} locale={locale} />
+  <div class="split book-page">
+    <aside class="aside">
+      <div class="cover-wrap">
+        <Cover cover={{ kind: 'book', format: bookCoverFormat(book.cover), author: book.author }} id={id} title={book.title} locale={locale} />
+      </div>
+      {book.firstChapter && (
+        <a class="cta" href={book.firstChapter}>{t('book.startReading', { defaultValue: pt ? 'Começar a ler' : 'Start reading' })}</a>
+      )}
+      <dl class="facts">
+        {book.composed && (<><dt>{pt ? 'Escrito' : 'Written'}</dt><dd>{book.composed}</dd></>)}
+        <dt>{pt ? 'Língua' : 'Language'}</dt>
+        <dd>{book.langs.map((l) => languageNames[l] ?? l).join(', ')}</dd>
+        <dt>{s('contents')}</dt>
+        <dd>{s('chapters', { count: book.chapterCount })}</dd>
+      </dl>
+    </aside>
+
+    <div class="stack">
+      <header>
+        <p class="t-kicker"><a href={href.section(locale, 'books')}>{t('search.books')}</a></p>
+        <h1 class="t-sacred title">{book.title}</h1>
+        {book.author && <p class="t-marker author">{book.author}</p>}
+      </header>
+      {foreign && (
+        <p class="t-caption">
+          {pt
+            ? `Este livro está em ${languageNames[book.lang] ?? book.lang}.`
+            : `This book is in ${languageNames[book.lang] ?? book.lang}.`}
+        </p>
+      )}
+      {book.description && <div class="prose" set:html={proseHtml(book.description)} />}
+
+      <section class="stack-sm">
+        <div class="section-head"><h2 class="t-section">{s('contents')}</h2></div>
+        <nav class="toc" aria-label={s('contents')} lang={htmlLang[book.lang as Locale] ?? book.lang}>
+          <TocList items={book.toc} locale={locale} open={shortToc} />
+        </nav>
+      </section>
+
+      {book.sources.length > 0 && (
+        <p class="t-annotation">
+          {pt ? 'Fonte: ' : 'Source: '}
+          {book.sources.map((source, i) => (
+            <>
+              {i > 0 && ' · '}
+              {source.url ? <a class="xref" href={source.url} rel="noopener nofollow">{source.description ?? source.url}</a> : source.description}
+            </>
+          ))}
+        </p>
+      )}
     </div>
-    <h1>{book.title}</h1>
-    {book.author && <p class="byline">{book.author}</p>}
-    {book.firstChapter && <a class="cta" href={book.firstChapter}>{t('book.startReading', { defaultValue: pt ? 'Começar a ler' : 'Start reading' })}</a>}
-  </header>
-
-  <div class="column stack body">
-    <p class="t-kicker center">
-      {[book.composed, book.langs.map((l) => languageNames[l] ?? l).join(' · '), s('chapters', { count: book.chapterCount })]
-        .filter(Boolean)
-        .join('  ·  ')}
-    </p>
-    {foreign && (
-      <p class="t-caption center">
-        {pt
-          ? `Este livro está em ${languageNames[book.lang] ?? book.lang}.`
-          : `This book is in ${languageNames[book.lang] ?? book.lang}.`}
-      </p>
-    )}
-    {book.description && <div class="prose" set:html={proseHtml(book.description)} />}
-
-    <section class="stack-sm">
-      <div class="section-head"><h2 class="t-section">{s('contents')}</h2></div>
-      <nav class="toc" aria-label={s('contents')} lang={htmlLang[book.lang as Locale] ?? book.lang}>
-        <TocList items={book.toc} locale={locale} open={shortToc} />
-      </nav>
-    </section>
-
-    {book.sources.length > 0 && (
-      <p class="t-annotation">
-        {pt ? 'Fonte: ' : 'Source: '}
-        {book.sources.map((source, i) => (
-          <>
-            {i > 0 && ' · '}
-            {source.url ? <a class="xref" href={source.url} rel="noopener nofollow">{source.description ?? source.url}</a> : source.description}
-          </>
-        ))}
-      </p>
-    )}
   </div>
 </Base>
 
 <style>
-  .hero-cover {
-    width: clamp(110px, 22vw, 170px);
+  .book-page {
+    padding-top: var(--space-xl);
   }
-  .body {
-    padding-top: 52px;
+  .aside {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-lg);
+  }
+  .cover-wrap {
+    width: min(60vw, 250px);
+  }
+  .facts {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 6px 16px;
+    margin: 0;
+    width: 100%;
+    max-width: 250px;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .facts dt {
+    font-family: var(--font-heading);
+    font-size: 11px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: var(--color-secondary);
+    padding-top: 3px;
+  }
+  .facts dd {
+    margin: 0;
+  }
+  .title {
+    font-size: clamp(32px, 4vw, 44px);
+    line-height: 1.15;
+    margin-top: 6px;
+  }
+  .author {
+    text-align: left;
+    font-size: 15px;
+    margin-top: 10px;
+    color: var(--gold-ink);
   }
 </style>

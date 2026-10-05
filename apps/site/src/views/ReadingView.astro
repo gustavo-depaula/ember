@@ -1,5 +1,8 @@
 ---
 import Primitives from '~/components/Primitives.astro'
+import Outline from '~/components/Outline.astro'
+import RailTools from '~/components/RailTools.astro'
+import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import type { Locale } from '~/lib/locale'
@@ -23,18 +26,31 @@ const body = page.primitives[0]?.type === 'heading' ? page.primitives.slice(1) :
 
 <Base locale={locale} title={page.title} description={page.subtitle} alternates={alternates} section="readings" ogType="article"
   jsonLd={{ '@context': 'https://schema.org', '@type': 'Article', headline: page.title, description: page.subtitle, inLanguage: locale, isAccessibleForFree: true }}>
-  <article class="column">
+  <Reader>
+    <Fragment slot="left"><Outline locale={locale} /></Fragment>
+    <Fragment slot="right">
+      <RailTools locale={locale} minutes={page.minutes} />
+      {page.collections.length > 0 && (
+        <nav class="rail-block" aria-label={s('foundIn')}>
+          <p class="rail-title">{s('foundIn')}</p>
+          <div class="rail-list">
+            {page.collections.map((collection) => <a href={href.collection(locale, collection.id)}>{collection.name}</a>)}
+          </div>
+        </nav>
+      )}
+    </Fragment>
+    <article>
     <header class="title-page">
       <div class="cross-rule" aria-hidden="true">✠</div>
       <h1>{page.title}</h1>
       {page.subtitle && <p class="date" style="text-transform:none">{page.subtitle}</p>}
-      <ReaderTools locale={locale} minutes={page.minutes} />
+      <div class="narrow-only"><ReaderTools locale={locale} minutes={page.minutes} /></div>
     </header>
-    <div class="flow">
+    <div class="flow" data-outline-source>
       <Primitives items={body} locale={locale} />
     </div>
     {page.collections.length > 0 && (
-      <footer class="stack-sm">
+      <footer class="stack-sm narrow-only">
         <h2 class="t-label">{s('foundIn')}</h2>
         <ul class="rows">
           {page.collections.map((collection) => (
@@ -48,5 +64,6 @@ const body = page.primitives[0]?.type === 'heading' ? page.primitives.slice(1) :
         </ul>
       </footer>
     )}
-  </article>
+    </article>
+  </Reader>
 </Base>

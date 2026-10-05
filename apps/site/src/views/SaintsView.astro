@@ -23,7 +23,7 @@ const description = pt
 ---
 
 <Base locale={locale} title={pt ? 'Santos e santinhos' : 'Saints and holy cards'} description={description} alternates={alternates} section="saints">
-  <PageFlourish art="explore" />
+  <PageFlourish />
   <div class="wide">
     <header class="page-head">
       <p class="t-kicker">{t('saints.cardCount', { count: catalog.saints.length })}</p>
@@ -31,8 +31,11 @@ const description = pt
       <p class="lede">{t('saints.homeTagline')}</p>
     </header>
 
-    <nav class="facets" aria-label={t('saints.group.shelves')}>
-      {shelves.map((shelf) => <a href={`#${shelf.key}`}>{t(`saints.group.shelf.${shelf.key}`)}</a>)}
+    <div class="hub">
+    <nav class="hub-index" aria-label={t('saints.group.shelves')}>
+      <div class="facets">
+        {shelves.map((shelf) => <a href={`#${shelf.key}`}>{t(`saints.group.shelf.${shelf.key}`)}</a>)}
+      </div>
     </nav>
 
     <div class="stack-xl album">
@@ -50,18 +53,19 @@ const description = pt
             <h2>{t(`saints.group.shelf.${shelf.key}`)}</h2>
             <span class="t-annotation">{shelf.saints.length}</span>
           </div>
-          <div class="grid" style="--cell:112px">
+          <div class="grid" style="--cell:124px">
             {shelf.saints.map((saint) => <SaintCard saint={saint} locale={locale} />)}
           </div>
         </section>
       ))}
+    </div>
     </div>
   </div>
 </Base>
 
 <style>
   .album {
-    padding-top: var(--space-lg);
+    min-width: 0;
   }
   section {
     scroll-margin-top: 88px;

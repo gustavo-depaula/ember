@@ -6,7 +6,6 @@ import { prayerDevotions, prayerForms } from '@/features/practices/prayerFacets'
 import { isAlternateForm } from '@/content/resolver'
 import { localizeContent } from '@/lib/i18n'
 import Cover from '~/components/Cover.astro'
-import PageFlourish from '~/components/PageFlourish.astro'
 import Base from '~/layouts/Base.astro'
 import { type Locale, translator, withLocale } from '~/lib/locale'
 import { listPrayers } from '~/lib/prayers'
@@ -46,14 +45,14 @@ const description = pt
 ---
 
 <Base locale={locale} title={t('search.prayers')} description={description} alternates={alternates} section="prayers">
-  <PageFlourish art="you" />
-  <div class="column">
+  <div class="wide">
     <header class="page-head">
       <h1 class="t-screen">{t('search.prayers')}</h1>
       <p class="lede">{t('search.prayersHint')}</p>
     </header>
 
-    <div class="stack-sm filters" data-prayer-filters>
+    <div class="hub">
+    <div class="hub-index stack filters" data-prayer-filters>
       <div class="facets" role="group" aria-label={pt ? 'Forma' : 'Form'}>
         <button type="button" data-facet="form" data-tags="" aria-pressed="true">{t('search.allForms')}</button>
         {prayerForms.map((f) => (
@@ -72,6 +71,7 @@ const description = pt
       </div>
     </div>
 
+    <div>
     <p class="t-annotation count" data-prayer-count data-one={pt ? 'oração' : 'prayer'} data-other={pt ? 'orações' : 'prayers'}>
       {list.length} {pt ? 'orações' : 'prayers'}
     </p>
@@ -96,6 +96,8 @@ const description = pt
         </li>
       ))}
     </ul>
+    </div>
+    </div>
   </div>
 </Base>
 
@@ -119,6 +121,22 @@ const description = pt
   }
   li[hidden] {
     display: none;
+  }
+  @media (min-width: 1000px) {
+    [data-prayer-list] {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0 48px;
+    }
+    [data-prayer-list] > li + li {
+      border-top: 0;
+    }
+    [data-prayer-list] > li {
+      border-bottom: 0.5px solid var(--hairline);
+    }
+    .count {
+      padding-top: 0;
+    }
   }
 </style>
 

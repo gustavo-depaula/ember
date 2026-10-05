@@ -3,7 +3,7 @@ import { findBookImage, loadBook } from '@/content/books'
 import { getEntry } from '@/content/contentIndex'
 import { pickSpotlight } from '@/features/collections/seasonalSpotlight'
 import { artFor } from '@/features/explore/artMap'
-import { type BlockTone, jewelTones, toneForKey, toneForSeason } from '@/features/explore/bgColor'
+import { type BlockTone, jewelTones, toneForSeason } from '@/features/explore/bgColor'
 import { meditationRow, weekdayDevotion } from '@/features/explore/pickFeatured'
 import { loadSaintOfDayIndex, saintOfDayKey } from '@/features/saints/data/saintOfDay'
 import { hearthUrl } from '@/lib/hearth'
@@ -95,14 +95,6 @@ export async function loadHome(date: Date, locale: Locale) {
         tone: jewelTones.marian,
       })
     }
-
-    features.push({
-      kicker: pt ? 'Missal de 1962' : '1962 Missal',
-      title: ef.name,
-      subtitle: `${pt ? 'Missa tridentina' : 'Traditional Latin Mass'} · ${ef.rankText}`,
-      href: href.latinMass(locale),
-      tone: toneForKey('practice/mass-vetus-ordo'),
-    })
 
     const spotlight = pickSpotlight(getLiturgicalSeason(date, 'of'), date)
     const spotlightEntry = getEntry(spotlight.collectionId)

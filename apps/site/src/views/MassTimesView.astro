@@ -1,7 +1,6 @@
 ---
 import enUS from '@/lib/i18n/locales/en-US'
 import ptBR from '@/lib/i18n/locales/pt-BR'
-import PageFlourish from '~/components/PageFlourish.astro'
 import Base from '~/layouts/Base.astro'
 import type { Locale } from '~/lib/locale'
 import { massTimesApi, places } from '~/lib/massTimes/data'
@@ -34,9 +33,8 @@ const description = pt
   section="massTimes"
   noindex={church}
 >
-  {!church && <PageFlourish art="search" />}
   <div
-    class="column finder"
+    class={church ? 'column finder' : 'finder two-pane'}
     data-mass-times
     data-api={massTimesApi}
     data-locale={locale}
@@ -49,50 +47,51 @@ const description = pt
       </>
     ) : (
       <>
-        <header class="page-head">
-          <h1 class="t-screen">{first} {second}</h1>
-          <p class="lede">{description}</p>
-        </header>
+        <div class="pane">
+          <header class="pane-head">
+            <h1 class="t-sacred">{first} {second}</h1>
+            <p class="t-annotation">{t('massTimes.exploreTagline')}</p>
+          </header>
 
-        <div class="stack-md">
-          <label class="search-field">
-            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
-            <input type="search" placeholder={t('massTimes.searchPlaceholder')} aria-label={t('massTimes.searchPlaceholder')} autocomplete="off" />
-          </label>
-          <div class="chips">
-            <button type="button" data-kind="mass" aria-pressed="true">{t('massTimes.kind.mass')}</button>
-            <button type="button" data-kind="confession" aria-pressed="false">{t('massTimes.kind.confession')}</button>
-            <button type="button" data-kind="adoration" aria-pressed="false">{t('massTimes.kind.adoration')}</button>
-            <button type="button" class="locate" data-locate>{t('massTimes.useMyLocation')}</button>
+          <div class="stack-md">
+            <label class="search-field">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.5-3.5" /></svg>
+              <input type="search" placeholder={t('massTimes.searchPlaceholder')} aria-label={t('massTimes.searchPlaceholder')} autocomplete="off" />
+            </label>
+            <div class="chips">
+              <button type="button" data-kind="mass" aria-pressed="true">{t('massTimes.kind.mass')}</button>
+              <button type="button" data-kind="confession" aria-pressed="false">{t('massTimes.kind.confession')}</button>
+              <button type="button" data-kind="adoration" aria-pressed="false">{t('massTimes.kind.adoration')}</button>
+              <button type="button" class="locate" data-locate>{t('massTimes.useMyLocation')}</button>
+            </div>
           </div>
-        </div>
 
-        <p class="t-caption status" data-status aria-live="polite">{t('massTimes.searchHint')}</p>
-        <ul class="rows" data-results></ul>
+          <p class="t-caption status" data-status aria-live="polite">{t('massTimes.searchHint')}</p>
+          <ul class="rows" data-results></ul>
 
-        {listed.length > 0 && (
-          <section class="stack-sm places">
-            <h2 class="t-label">{pt ? 'Por região' : 'By region'}</h2>
-            <ul class="rows">
-              {listed.map((place) => (
-                <li>
-                  <a class="row" href={href.massTimesPlace(locale, place.country, place.slug)}>
-                    <span class="grow row-title">{place.region}</span>
-                    <span class="t-annotation">{place.churches.length}</span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
+          {listed.length > 0 && (
+            <section class="stack-sm places">
+              <h2 class="t-label">{pt ? 'Por região' : 'By region'}</h2>
+              <ul class="rows">
+                {listed.map((place) => (
+                  <li>
+                    <a class="row" href={href.massTimesPlace(locale, place.country, place.slug)}>
+                      <span class="grow row-title">{place.region}</span>
+                      <span class="t-annotation">{place.churches.length}</span>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
 
-        <section class="prose about">
-          <p>
+          <p class="t-annotation about">
             {pt
-              ? 'Os horários vêm das próprias paróquias e são conferidos por quem as frequenta. A cobertura começou por São Paulo e está crescendo. No aplicativo Ember, as igrejas aparecem no mapa, você salva as suas paróquias e ajuda a manter os horários corretos.'
-              : 'Times come from the parishes themselves and are checked by the people who attend them. Coverage began with São Paulo and is growing. In the Ember app the churches are on a map, you can save your parishes, and you can help keep the times right.'}
+              ? 'Os horários vêm das próprias paróquias e são conferidos por quem as frequenta. No aplicativo Ember você salva as suas paróquias e ajuda a manter os horários corretos.'
+              : 'Times come from the parishes themselves and are checked by the people who attend them. In the Ember app you can save your parishes and help keep the times right.'}
           </p>
-        </section>
+        </div>
+        <div class="map" data-map aria-label={t('massTimes.map')}></div>
       </>
     )}
   </div>
@@ -100,8 +99,38 @@ const description = pt
 </Base>
 
 <style>
-  .finder {
+  .finder.column {
     padding-bottom: var(--space-xl);
+  }
+  /* A list beside its map, filling the window under the header. */
+  .two-pane {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .pane {
+    padding: var(--space-lg) var(--gutter) var(--space-xl);
+    min-width: 0;
+  }
+  .pane-head {
+    padding-bottom: var(--space-md);
+  }
+  .map {
+    display: none;
+  }
+  @media (min-width: 900px) {
+    .two-pane {
+      grid-template-columns: 440px minmax(0, 1fr);
+      height: calc(100vh - 65px);
+    }
+    .pane {
+      overflow-y: auto;
+      padding-inline: 32px;
+      border-right: 0.5px solid var(--border-color);
+    }
+    .map {
+      display: block;
+      height: 100%;
+    }
   }
   .status {
     padding-block: var(--space-md) var(--space-sm);
@@ -111,18 +140,20 @@ const description = pt
     margin-left: auto;
     background: transparent;
     color: var(--gold-ink);
+    padding-inline: 4px;
   }
   .places,
   .about {
     padding-top: var(--space-xl);
   }
-  .about {
-    font-size: 18px;
-    line-height: 27px;
-    color: var(--color-secondary);
-  }
   .back {
     padding-block: var(--space-lg) var(--space-md);
+  }
+  /* The map takes the window: the site footer would sit under a scrolled pane. */
+  @media (min-width: 900px) {
+    :global(body:has(.two-pane) .site-footer) {
+      display: none;
+    }
   }
 </style>
 

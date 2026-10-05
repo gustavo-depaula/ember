@@ -1,4 +1,7 @@
 ---
+import Outline from '~/components/Outline.astro'
+import RailTools from '~/components/RailTools.astro'
+import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import TocList from '~/components/TocList.astro'
 import Base from '~/layouts/Base.astro'
@@ -41,8 +44,38 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
     position: page.position ? page.position.index + 1 : undefined,
   }}
 >
-  <article class="column chapter">
-    <nav aria-label={page.bookTitle}>
+  <Reader>
+    <Fragment slot="left">
+      <nav class="rail-block" aria-label={page.bookTitle}>
+        <p class="rail-title"><a href={page.trail[0].href}>{page.bookTitle}</a></p>
+        {page.trail.length > 1 && <p class="rail-text part">{page.trail[page.trail.length - 1].title}</p>}
+        <div class="rail-list sub" lang={bodyLang}>
+          {page.siblings.map((sibling) =>
+            sibling.href ? (
+              <a href={sibling.href} aria-current={sibling.current ? 'page' : undefined}>{sibling.title}</a>
+            ) : (
+              <span>{sibling.title}</span>
+            ),
+          )}
+        </div>
+      </nav>
+    </Fragment>
+    <Fragment slot="right">
+      <RailTools locale={locale} />
+      <Outline locale={locale} />
+      {page.position && (
+        <div class="rail-block">
+          <p class="rail-text">
+            {locale === 'pt-BR'
+              ? `Capítulo ${page.position.index + 1} de ${page.position.total}`
+              : `Chapter ${page.position.index + 1} of ${page.position.total}`}
+          </p>
+          {page.author && <p class="rail-text">{page.author}</p>}
+        </div>
+      )}
+    </Fragment>
+    <article class="chapter">
+    <nav class="narrow-only" aria-label={page.bookTitle}>
       <ol class="crumbs">
         {page.trail.map((crumb) => <li>{crumb.href ? <a href={crumb.href}>{crumb.title}</a> : crumb.title}</li>)}
       </ol>
@@ -51,10 +84,10 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
     {
       page.html ? (
         <>
-          <ReaderTools locale={locale} />
-          <div class="book-body" lang={bodyLang} set:html={page.html} />
+          <div class="narrow-only"><ReaderTools locale={locale} /></div>
+          <div class="book-body" data-outline-source lang={bodyLang} set:html={page.html} />
           {page.position && (
-            <p class="t-annotation center">
+            <p class="t-annotation center narrow-only">
               {locale === 'pt-BR'
                 ? `Capítulo ${page.position.index + 1} de ${page.position.total}`
                 : `Chapter ${page.position.index + 1} of ${page.position.total}`}
@@ -89,7 +122,8 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
         </nav>
       )
     }
-  </article>
+    </article>
+  </Reader>
 </Base>
 
 <style>
@@ -99,6 +133,10 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
   .chapter :global(.reader-tools) {
     padding-top: var(--space-sm);
     padding-bottom: var(--space-lg);
+  }
+  .part {
+    margin-bottom: 6px;
+    font-style: italic;
   }
   .part-title {
     padding-block: var(--space-xl) var(--space-lg);

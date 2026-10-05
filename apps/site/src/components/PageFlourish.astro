@@ -1,29 +1,12 @@
 ---
-// The illuminated banner that crowns the app's tab screens: bright by day,
+// The illuminated banner over the saints' album, as in the app: bright by day,
 // memento mori by night.
 import { getImage } from 'astro:assets'
 import exploreDark from '../../../app/assets/textures/notch_explore_dark.png'
 import exploreLight from '../../../app/assets/textures/notch_explore_light.png'
-import libraryDark from '../../../app/assets/textures/notch_library_dark.png'
-import libraryLight from '../../../app/assets/textures/notch_library_light.png'
-import searchDark from '../../../app/assets/textures/notch_search_dark.png'
-import searchLight from '../../../app/assets/textures/notch_search_light.png'
-import youDark from '../../../app/assets/textures/notch_you_dark.png'
-import youLight from '../../../app/assets/textures/notch_you_light.png'
 
-interface Props {
-  art: 'library' | 'explore' | 'search' | 'you'
-}
-
-const sources = {
-  library: [libraryLight, libraryDark],
-  explore: [exploreLight, exploreDark],
-  search: [searchLight, searchDark],
-  you: [youLight, youDark],
-}
-const [light, dark] = sources[Astro.props.art]
-const day = await getImage({ src: light, height: 260, format: 'webp', quality: 70 })
-const night = await getImage({ src: dark, height: 260, format: 'webp', quality: 70 })
+const day = await getImage({ src: exploreLight, height: 260, format: 'webp', quality: 70 })
+const night = await getImage({ src: exploreDark, height: 260, format: 'webp', quality: 70 })
 ---
 
 <div class="flourish" aria-hidden="true">

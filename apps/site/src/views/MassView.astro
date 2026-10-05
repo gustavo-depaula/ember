@@ -2,6 +2,9 @@
 import Celebrations from '~/components/Celebrations.astro'
 import DayNav from '~/components/DayNav.astro'
 import Primitives from '~/components/Primitives.astro'
+import Outline from '~/components/Outline.astro'
+import RailTools from '~/components/RailTools.astro'
+import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
@@ -39,7 +42,20 @@ const description = pt
 ---
 
 <Base locale={locale} title={title} description={description} alternates={alternates} section="mass" ogType="article">
-  <article class="column">
+  <Reader bilingual={!!mass}>
+    <Fragment slot="left">{mass && <Outline locale={locale} />}</Fragment>
+    <Fragment slot="right">
+      {mass && <RailTools locale={locale} latin />}
+      <nav class="rail-block">
+        <p class="rail-title">{pt ? 'Este dia' : 'This day'}</p>
+        <div class="rail-list">
+          <a href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina' : 'Traditional Latin Mass'}</a>
+          <a href={href.office(locale, date)}>{pt ? 'Ofício Divino' : 'Divine Office'}</a>
+          <a href={href.calendarDay(locale, date)}>{pt ? 'Calendário' : 'Calendar'}</a>
+        </div>
+      </nav>
+    </Fragment>
+    <article>
     <header class="title-page">
       <div class="cross-rule" aria-hidden="true">✠</div>
       <h1>{heading}</h1>
@@ -89,8 +105,8 @@ const description = pt
 
     {mass ? (
       <>
-        <ReaderTools locale={locale} latin />
-        <div class="flow"><Primitives items={mass} locale={locale} /></div>
+        <div class="narrow-only"><ReaderTools locale={locale} latin /></div>
+        <div class="flow" data-outline-source><Primitives items={mass} locale={locale} /></div>
       </>
     ) : (
       <aside class="app-only" style="margin-top:24px">
@@ -103,12 +119,13 @@ const description = pt
       </aside>
     )}
 
-    <nav class="also stack-sm">
+    <nav class="also stack-sm narrow-only">
       <a class="go" href={href.latinMass(locale, date)}>{pt ? 'Missa tridentina deste dia' : 'The Traditional Latin Mass of this day'} →</a>
       <a class="go" href={href.office(locale, date)}>{pt ? 'Ofício Divino deste dia' : 'The Divine Office of this day'} →</a>
       <a class="go" href={href.calendarDay(locale, date)}>{pt ? 'Este dia no calendário' : 'This day in the calendar'} →</a>
     </nav>
-  </article>
+    </article>
+  </Reader>
 </Base>
 
 <style>

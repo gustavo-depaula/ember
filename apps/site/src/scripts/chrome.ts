@@ -97,3 +97,66 @@ if (dated?.dataset.todayBase) {
   const apart = Math.abs(Date.parse(local) - Date.parse(built)) / 86_400_000
   if (local !== built && apart <= 7) location.replace(`${dated.dataset.todayBase}${local}/`)
 }
+
+// Desktop habits: `/` goes to search, the arrow keys turn the page.
+document.addEventListener('keydown', (event) => {
+  const typing = (event.target as Element).closest?.('input, textarea, select, [contenteditable]')
+  if (typing || event.metaKey || event.ctrlKey || event.altKey) return
+  if (event.key === '/') {
+    const field = [
+      ...document.querySelectorAll<HTMLInputElement>('[data-site-search], [data-search] input'),
+    ].find((input) => input.offsetParent !== null)
+    if (field) {
+      event.preventDefault()
+      field.focus()
+    }
+    return
+  }
+  const rel = event.key === 'ArrowLeft' ? 'prev' : event.key === 'ArrowRight' ? 'next' : undefined
+  const link = rel && document.querySelector<HTMLAnchorElement>(`main a[rel="${rel}"]`)
+  if (link) location.href = link.href
+})
+
+// "On this page": the headings of the text, listed in the rail and lit as they pass.
+const outline = document.querySelector<HTMLElement>('[data-outline]')
+const flow = document.querySelector<HTMLElement>('[data-outline-source]')
+if (outline && flow) {
+  const list = outline.querySelector<HTMLElement>('.rail-list')
+  let watcher: IntersectionObserver | undefined
+  const draw = () => {
+    if (!list) return
+    watcher?.disconnect()
+    const headings = [
+      ...flow.querySelectorAll<HTMLElement>(
+        'h2.heading, h2.chapter-title, .book-body h2, .book-body h3',
+      ),
+    ].filter((heading) => heading.offsetParent !== null)
+    outline.hidden = headings.length < 2
+    list.innerHTML = ''
+    const links = new Map<Element, HTMLAnchorElement>()
+    headings.forEach((heading, i) => {
+      if (!heading.id) heading.id = `s${i + 1}`
+      const link = document.createElement('a')
+      link.href = `#${heading.id}`
+      link.textContent = heading.textContent
+      list.append(link)
+      links.set(heading, link)
+    })
+    watcher = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (!entry.isIntersecting) continue
+          for (const link of links.values()) link.classList.remove('active')
+          links.get(entry.target)?.classList.add('active')
+        }
+      },
+      { rootMargin: '-90px 0px -70% 0px' },
+    )
+    for (const heading of headings) watcher.observe(heading)
+  }
+  draw()
+  // Choosing another branch of the text (a set of mysteries, an hour) changes its headings.
+  flow.addEventListener('click', (event) => {
+    if ((event.target as Element).closest('.picker')) window.setTimeout(draw)
+  })
+}

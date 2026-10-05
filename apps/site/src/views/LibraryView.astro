@@ -3,7 +3,6 @@ import { getEntry } from '@/content/contentIndex'
 import { coverFor } from '@/features/covers/coverFor'
 import { artFor } from '@/features/explore/artMap'
 import Cover from '~/components/Cover.astro'
-import PageFlourish from '~/components/PageFlourish.astro'
 import Shelf from '~/components/Shelf.astro'
 import Base from '~/layouts/Base.astro'
 import { listBooks } from '~/lib/books'
@@ -87,7 +86,6 @@ const description = pt
 ---
 
 <Base locale={locale} title={s('navLibrary')} description={description} alternates={alternates} section="library">
-  <PageFlourish art="library" />
   <div class="wide stack-xl">
     <header class="page-head" style="padding-bottom:0">
       <h1 class="t-screen">{s('navLibrary')}</h1>

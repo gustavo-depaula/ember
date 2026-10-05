@@ -1,5 +1,8 @@
 ---
 import Primitives from '~/components/Primitives.astro'
+import Outline from '~/components/Outline.astro'
+import RailTools from '~/components/RailTools.astro'
+import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import Base from '~/layouts/Base.astro'
 import { plainExcerpt } from '~/lib/html'
@@ -55,19 +58,57 @@ const about = [
     publisher: { '@type': 'Organization', name: 'Ember' },
   }}
 >
-  <article class="column">
+  <Reader bilingual={page.hasLatin}>
+    <Fragment slot="left">
+      <Outline locale={locale} />
+      {page.dayCount > 0 && (
+        <nav class="rail-block" aria-label={s('days')}>
+          <p class="rail-title">{s('days')}</p>
+          <div class="rail-list">
+            <a href={href.prayer(locale, id)} aria-current={day ? undefined : 'page'}>{s('today')}</a>
+            {Array.from({ length: page.dayCount }, (_, i) => (
+              <a href={href.prayerDay(locale, id, i + 1)} aria-current={day === i + 1 ? 'page' : undefined}>
+                {page.days[i]?.title || s('day', { n: i + 1 })}
+              </a>
+            ))}
+          </div>
+        </nav>
+      )}
+      {page.forms.length > 1 && (
+        <nav class="rail-block" aria-label={s('forms')}>
+          <p class="rail-title">{s('forms')}</p>
+          <div class="rail-list">
+            {page.forms.map((form) => (
+              <a href={href.prayer(locale, form.id)} aria-current={form.current ? 'page' : undefined}>{form.label}</a>
+            ))}
+          </div>
+        </nav>
+      )}
+    </Fragment>
+    <Fragment slot="right">
+      <RailTools locale={locale} latin={page.hasLatin} minutes={page.minutes} />
+      {page.collections.length > 0 && (
+        <nav class="rail-block" aria-label={s('foundIn')}>
+          <p class="rail-title">{s('foundIn')}</p>
+          <div class="rail-list">
+            {page.collections.map((collection) => <a href={href.collection(locale, collection.id)}>{collection.name}</a>)}
+          </div>
+        </nav>
+      )}
+    </Fragment>
+    <article>
     <header class="title-page">
       <div class="cross-rule" aria-hidden="true">✠</div>
       <h1>{page.name}</h1>
       {page.formLabel && <p class="variant">{page.formLabel}</p>}
       {dayLabel && <p class="variant">{dayLabel}</p>}
       {page.subtitle && !dayLabel && <p class="date">{page.subtitle}</p>}
-      <ReaderTools locale={locale} latin={page.hasLatin} minutes={page.minutes} />
+      <div class="narrow-only"><ReaderTools locale={locale} latin={page.hasLatin} minutes={page.minutes} /></div>
     </header>
 
     {
       page.dayCount > 0 && (
-        <nav class="days" aria-label={s('days')}>
+        <nav class="days narrow-only" aria-label={s('days')}>
           <a href={href.prayer(locale, id)} aria-current={day ? undefined : 'page'}>
             {t('common.all', { defaultValue: locale === 'pt-BR' ? 'Hoje' : 'Today' })}
           </a>
@@ -82,7 +123,7 @@ const about = [
 
     {
       page.forms.length > 1 && (
-        <nav class="facets forms" aria-label={s('forms')}>
+        <nav class="facets forms narrow-only" aria-label={s('forms')}>
           {page.forms.map((form) => (
             <a href={href.prayer(locale, form.id)} aria-current={form.current ? 'page' : undefined} title={form.description}>
               {form.label}
@@ -92,7 +133,7 @@ const about = [
       )
     }
 
-    <div class="flow">
+    <div class="flow" data-outline-source>
       <Primitives items={page.primitives} locale={locale} />
     </div>
 
@@ -110,7 +151,7 @@ const about = [
           ))}
           {page.source && <p class="t-annotation">{page.source}</p>}
           {page.collections.length > 0 && (
-            <section class="stack-sm">
+            <section class="stack-sm narrow-only">
               <h2 class="t-label">{s('foundIn')}</h2>
               <ul class="rows">
                 {page.collections.map((collection) => (
@@ -127,7 +168,8 @@ const about = [
         </footer>
       )
     }
-  </article>
+    </article>
+  </Reader>
 </Base>
 
 <style>

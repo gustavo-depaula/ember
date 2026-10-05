@@ -1,5 +1,4 @@
 ---
-import PageFlourish from '~/components/PageFlourish.astro'
 import Shelf from '~/components/Shelf.astro'
 import Base from '~/layouts/Base.astro'
 import { loadCollectionShelves } from '~/lib/collections'
@@ -20,7 +19,6 @@ const description = pt
 ---
 
 <Base locale={locale} title={t('search.sectionCollections')} description={description} alternates={alternates} section="collections">
-  <PageFlourish art="explore" />
   <div class="wide">
     <header class="page-head">
       <h1 class="t-screen">{t('search.sectionCollections')}</h1>

@@ -192,6 +192,8 @@ export type ChapterPage = {
   /** A part's contents, when this node is a part. */
   toc: TocItem[]
   trail: Crumb[]
+  /** The chapter's neighbours in its part, for the rail: the book's contents at this point. */
+  siblings: (Crumb & { current: boolean })[]
   position?: { index: number; total: number }
   previous?: Crumb
   next?: Crumb
@@ -223,6 +225,21 @@ export async function loadChapterPage(
       : undefined
   }
   const split = countNodes(book.toc ?? []) > tocPageLimit
+  const linkable = (n: TocNode) =>
+    ctx.readable.has(n.id) || (split && countNodes(n.children ?? []) > 12)
+      ? href.bookChapter(ctx.home, book.id, n.id)
+      : undefined
+  // A part can hold hundreds of chapters (a letter of the Encyclopedia): the
+  // rail shows the stretch around this one.
+  const around = 30
+  const peers = path.length > 1 ? (path[path.length - 2].children ?? []) : (book.toc ?? [])
+  const at = peers.findIndex((n) => n.id === nodeId)
+  const from = Math.max(0, Math.min(at - around / 2, peers.length - around))
+  const siblings = peers.slice(from, from + around).map((n) => ({
+    title: titleOf(n),
+    href: linkable(n),
+    current: n.id === nodeId,
+  }))
   const html = index >= 0 ? withImageUrls(await session.getChapterPlain(index), book) : undefined
   return withLocale(locale, () => ({
     bookId: book.id,
@@ -242,6 +259,7 @@ export async function loadChapterPage(
             : undefined,
       })),
     ],
+    siblings,
     position: index >= 0 ? { index, total: session.chapterIds.length } : undefined,
     previous: index > 0 ? crumb(index - 1) : undefined,
     next: index >= 0 ? crumb(index + 1) : undefined,

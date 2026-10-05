@@ -4,9 +4,11 @@ import { aspirationFor } from '@/features/home/aspirations'
 import cornerDark from '../../../app/assets/textures/frame_corner_dark.png'
 import cornerLight from '../../../app/assets/textures/frame_corner_light.png'
 import chalice from '../../../app/assets/textures/horizontal_marker_chalice.png'
+import Celebrations from '~/components/Celebrations.astro'
 import MassTimesNotice from '~/components/MassTimesNotice.astro'
 import Shelf from '~/components/Shelf.astro'
 import Base from '~/layouts/Base.astro'
+import { bibleRefFor } from '~/lib/citations'
 import { calendarYears } from '~/lib/dates'
 import { loadHome } from '~/lib/home'
 import { type Locale, translator } from '~/lib/locale'
@@ -34,6 +36,13 @@ const ahead = [1, 2, 3, 4].map((n) => addDays(today, n)).filter((d) => years.inc
 const light = await getImage({ src: cornerLight, width: 900, format: 'webp', quality: 80 })
 const dark = await getImage({ src: cornerDark, width: 900, format: 'webp', quality: 80 })
 const marker = await getImage({ src: chalice, width: 400, format: 'webp' })
+
+const slotLabel = pt
+  ? { first: 'Primeira leitura', psalm: 'Salmo', second: 'Segunda leitura', gospel: 'Evangelho' }
+  : { first: 'First reading', psalm: 'Psalm', second: 'Second reading', gospel: 'Gospel' }
+const obligations = home.of.obligations.details
+  .map((d) => (d as Record<string, string | undefined>)[locale] ?? d['en-US'])
+  .filter(Boolean)
 
 const pillars = pt
   ? [
@@ -87,56 +96,90 @@ const pillars = pt
       <p class="day-name">{home.of.celebrations[0]?.title ?? home.of.dayName}</p>
     </header>
 
-    <section aria-label={s('today')}>
-      <div class="shelf features">
-        {home.features.map((feature) => (
-          <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
-            {feature.art ? (
-              <span class="feature-art"><img src={feature.art} alt="" loading="lazy" decoding="async" /></span>
-            ) : (
-              <span class="feature-plate" aria-hidden="true">✠</span>
-            )}
-            <span class="feature-foot">
-              <span class="feature-kicker">{feature.kicker}</span>
-              <span class="feature-title">{feature.title}</span>
-              {feature.subtitle && <span class="feature-sub">{feature.subtitle}</span>}
-            </span>
-          </a>
-        ))}
+    <div class="dash">
+      <div class="dash-main">
+        <section aria-label={s('today')}>
+          <div class="features">
+            {home.features.map((feature) => (
+              <a class="feature" href={feature.href} style={`--from:${feature.tone.from};--to:${feature.tone.to}`}>
+                {feature.art ? (
+                  <span class="feature-art"><img src={feature.art} alt="" loading="lazy" decoding="async" /></span>
+                ) : (
+                  <span class="feature-plate" aria-hidden="true">✠</span>
+                )}
+                <span class="feature-foot">
+                  <span class="feature-kicker">{feature.kicker}</span>
+                  <span class="feature-title">{feature.title}</span>
+                  {feature.subtitle && <span class="feature-sub">{feature.subtitle}</span>}
+                </span>
+              </a>
+            ))}
+          </div>
+        </section>
+
+        <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
+
+        {home.meditations.length > 0 && (
+          <section>
+            <div class="row-head"><h2>{t('explore.dailyMeditations')}</h2></div>
+            <div class="shelf">
+              {home.meditations.map((m) => (
+                <a class="meditation" href={m.href}>
+                  {m.art && <img src={m.art} alt="" loading="lazy" decoding="async" />}
+                  <span class="meditation-text">
+                    <span class="meditation-title">{m.title}</span>
+                    <span class="meditation-sub">{m.tagline}</span>
+                  </span>
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
       </div>
-    </section>
 
-    <section>
-      <div class="row-head">
-        <h2>{pt ? 'Ofício Divino' : 'The Divine Office'}</h2>
-        <a class="go" href={href.office(locale)} aria-label={pt ? 'Ofício Divino' : 'The Divine Office'}>→</a>
-      </div>
-      <nav class="hours">
-        {officeHours.map((hour) => <a href={href.office(locale, today, hour)}>{hourNames[locale][hour]}</a>)}
-      </nav>
-    </section>
+      <aside class="dash-aside" aria-label={pt ? 'A liturgia de hoje' : 'The liturgy today'}>
+        <section class="panel">
+          <h2 class="t-marker">{pt ? 'Santa Missa' : 'Holy Mass'}</h2>
+          <p class="t-kicker">{home.of.dayName}</p>
+          <Celebrations celebrations={home.of.celebrations} />
+          {home.of.holyDay && <p class="gold">{t('calendar.holyDay')}</p>}
+          {obligations.map((detail) => <p class="t-rubric">{detail}</p>)}
+          {home.of.readings.length > 0 && (
+            <ul class="readings">
+              {home.of.readings.map((reading) => {
+                const ref = bibleRefFor(reading.citation, locale)
+                return (
+                  <li>
+                    <span class="t-kicker">{slotLabel[reading.slot]}</span>
+                    {ref ? <a class="xref" href={href.bibleChapter('en-US', ref.book, ref.chapter)}>{reading.citation}</a> : <span>{reading.citation}</span>}
+                  </li>
+                )
+              })}
+            </ul>
+          )}
+          <a class="go" href={href.mass(locale)}>{pt ? 'Missa do dia' : 'Mass of the day'} →</a>
+        </section>
 
-    <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
+        <section class="panel">
+          <h2 class="t-marker">{pt ? 'Missal de 1962' : 'The 1962 Missal'}</h2>
+          <p class="t-kicker">{home.ef.dayName}</p>
+          <p class="ef-name" lang="la">{home.ef.name}</p>
+          <p class="t-kicker" lang="la">{home.ef.rankText}</p>
+          <a class="go" href={href.latinMass(locale)}>{pt ? 'Missa tridentina' : 'Traditional Latin Mass'} →</a>
+        </section>
 
-    {home.meditations.length > 0 && (
-      <section>
-        <div class="row-head"><h2>{t('explore.dailyMeditations')}</h2></div>
-        <div class="shelf">
-          {home.meditations.map((m) => (
-            <a class="meditation" href={m.href}>
-              {m.art && <img src={m.art} alt="" loading="lazy" decoding="async" />}
-              <span class="meditation-text">
-                <span class="meditation-title">{m.title}</span>
-                <span class="meditation-sub">{m.tagline}</span>
-              </span>
-            </a>
-          ))}
-        </div>
-      </section>
-    )}
+        <section class="panel">
+          <h2 class="t-marker">{pt ? 'Ofício Divino' : 'The Divine Office'}</h2>
+          <nav class="hours">
+            {officeHours.map((hour) => <a href={href.office(locale, today, hour)}>{hourNames[locale][hour]}</a>)}
+          </nav>
+        </section>
+
+        <MassTimesNotice locale={locale} />
+      </aside>
+    </div>
 
     <section class="places">
-      <MassTimesNotice locale={locale} />
       <a class="place jewel" style="--from:#1E3A5C;--to:#0A1626" href={href.section(locale, 'bible')}>
         <span>{s('navBible')}</span>
       </a>
@@ -145,6 +188,9 @@ const pillars = pt
       </a>
       <a class="place jewel" style="--from:#1E4A32;--to:#0C2418" href={href.section(locale, 'saints')}>
         <span>{s('navSaints')}</span>
+      </a>
+      <a class="place jewel" style="--from:#4A2860;--to:#1F1030" href={href.section(locale, 'calendar')}>
+        <span>{s('navCalendar')}</span>
       </a>
     </section>
 
@@ -237,17 +283,80 @@ const pillars = pt
     max-width: 30em;
   }
 
+  .dash {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: var(--space-xl);
+  }
+  .dash-main {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+    min-width: 0;
+  }
+  .dash-aside {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
+  @media (min-width: 1000px) {
+    .dash {
+      grid-template-columns: minmax(0, 1fr) 340px;
+      gap: 56px;
+    }
+    .dash-aside {
+      padding-left: 40px;
+      border-left: 0.5px solid var(--border-color);
+    }
+  }
+  .panel {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .panel + .panel {
+    padding-top: var(--space-lg);
+    border-top: 0.5px solid var(--hairline);
+  }
+  .panel .t-marker {
+    text-align: left;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .panel :global(.celebration-title) {
+    font-size: 20px !important;
+    line-height: 26px !important;
+  }
+  .panel :global(.principal .celebration-title) {
+    font-size: 24px !important;
+    line-height: 30px !important;
+  }
+  .readings li {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: var(--space-md);
+    padding-block: 6px;
+    border-bottom: 0.5px solid var(--hairline);
+    font-size: 17px;
+  }
+  .ef-name {
+    font-family: var(--font-title);
+    font-size: 21px;
+    line-height: 27px;
+    text-wrap: balance;
+  }
   .features {
-    gap: 12px;
-    padding-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
   }
   .feature {
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    width: clamp(250px, 70vw, 310px);
-    aspect-ratio: 1 / 1.36;
+    aspect-ratio: 1 / 1.3;
     border-radius: var(--radius-xl);
     overflow: hidden;
     color: #f5efe2;
@@ -324,15 +433,15 @@ const pillars = pt
   }
 
   .hours {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 4px 24px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 24px;
   }
   .hours a {
-    min-height: 40px;
+    min-height: 36px;
     display: inline-flex;
     align-items: center;
-    font-size: 21px;
+    font-size: 19px;
     color: var(--color-secondary);
     transition: color 0.2s ease;
   }
@@ -391,7 +500,7 @@ const pillars = pt
 
   .places {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     gap: var(--space-md);
   }
   .place {
@@ -406,10 +515,7 @@ const pillars = pt
   }
   @media (max-width: 760px) {
     .places {
-      grid-template-columns: repeat(3, 1fr);
-    }
-    .places > :first-child {
-      grid-column: 1 / -1;
+      grid-template-columns: repeat(2, 1fr);
     }
     .place {
       min-height: 104px;

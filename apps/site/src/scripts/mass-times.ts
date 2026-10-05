@@ -10,6 +10,7 @@ import {
   type ListedChurch,
   type ViewContext,
 } from '~/lib/massTimes/view'
+import type { ChurchMap } from './mass-times-map'
 
 const root = document.querySelector<HTMLElement>('[data-mass-times]')
 
@@ -36,6 +37,8 @@ if (root) {
   let kind = 'mass'
   let here: { lat: number; lng: number } | undefined
   let request = 0
+  let map: ChurchMap | undefined
+  const mapElement = root.querySelector<HTMLElement>('[data-map]')
 
   const say = (message: string) => {
     if (status) status.textContent = message
@@ -65,7 +68,12 @@ if (root) {
     }
   }
 
+  // With a map, the list is what the map shows: moving the map is the search.
   function nearby() {
+    if (map && here) {
+      map.flyTo(here.lat, here.lng)
+      return
+    }
     if (!here) return
     const { lat, lng } = here
     void run(
@@ -80,7 +88,8 @@ if (root) {
   }
 
   function search(query: string) {
-    const near = here ? `&near=${here.lat},${here.lng}` : ''
+    const from = here ?? map?.centre()
+    const near = from ? `&near=${from.lat},${from.lng}` : ''
     void run(
       async () =>
         (
@@ -98,6 +107,7 @@ if (root) {
     const query = input.value.trim()
     timer = window.setTimeout(() => {
       if (query.length >= 2) search(query)
+      else if (map) map.setKind(kind)
       else if (here) nearby()
       else show([], t('massTimes.searchHint'))
     }, 250)
@@ -129,7 +139,24 @@ if (root) {
       for (const other of root.querySelectorAll('[data-kind]')) {
         other.setAttribute('aria-pressed', String(other === chip))
       }
-      if (here && !input?.value.trim()) nearby()
+      if (input?.value.trim()) return
+      if (map) map.setKind(kind)
+      else if (here) nearby()
+    })
+  }
+
+  // The map is a large library: it loads only where there is room to show it.
+  if (mapElement && mapElement.offsetParent !== null) {
+    import('./mass-times-map').then(({ mountChurchMap }) => {
+      map = mountChurchMap({
+        element: mapElement,
+        api,
+        kind,
+        churchHref: (id) => `${churchBase}?id=${encodeURIComponent(id)}`,
+        onChurches: (churches) => {
+          if (!input?.value.trim()) show(churches, t('massTimes.emptyHint'))
+        },
+      })
     })
   }
 

@@ -1,5 +1,4 @@
 ---
-import PageFlourish from '~/components/PageFlourish.astro'
 import Base from '~/layouts/Base.astro'
 import { type Locale, translator } from '~/lib/locale'
 import { listPlans, loadPlan } from '~/lib/plans'
@@ -71,7 +70,6 @@ const listDescription = pt
       </article>
     ) : (
       <>
-        <PageFlourish art="you" />
         <div class="column">
           <header class="page-head">
             <p class="t-kicker">{t('templates.subtitle')}</p>
