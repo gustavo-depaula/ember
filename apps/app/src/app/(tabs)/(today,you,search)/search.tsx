@@ -1,5 +1,5 @@
 import { type NativeStackNavigationProp, Stack, useNavigation } from 'expo-router'
-import { BookOpen, Church, Search, Sparkle, X } from 'lucide-react-native'
+import { Search, X } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform } from 'react-native'
@@ -8,19 +8,9 @@ import { useTheme, XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, PageFlourish, PageHeader, ScreenLayout } from '@/components'
 import { SearchInput } from '@/components/SearchInput'
-import { getEntry } from '@/content/contentIndex'
-import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { toneForKey } from '@/features/explore/bgColor'
 import { SearchAutocomplete } from '@/features/practices/components'
-import {
-  Acervo,
-  RecentRow,
-  ShortcutGrid,
-  type ShortcutTileData,
-  WideShortcutCard,
-} from '@/features/search'
+import { Acervo, Places, RecentRow } from '@/features/search'
 import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
-import { localizeContent } from '@/lib/i18n'
 
 const flourishDark = require('../../../../assets/textures/notch_search_dark.png')
 const flourishLight = require('../../../../assets/textures/notch_search_light.png')
@@ -37,7 +27,6 @@ const inPageField = Platform.OS === 'android'
 export default function SearchScreen() {
   const { t } = useTranslation()
   const [query, setQuery] = useState('')
-  const catalogVersion = useCatalogVersion()
   // Only the body waits; the screen options stay mounted so the native search
   // bar is configured from launch.
   const bodyMounted = useDeferredTabMount()
@@ -87,51 +76,20 @@ export default function SearchScreen() {
     }
   }, [t, onSearchChange])
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps once the catalog (and the Rosary's name) loads.
-  const placeTiles = useMemo<ShortcutTileData[]>(
-    () => [
-      {
-        key: 'mass',
-        title: t('home.holyMass'),
-        icon: Church,
-        href: { pathname: '/pray/[practiceId]', params: { practiceId: 'mass' } },
-      },
-      { key: 'bible', title: t('home.bible'), icon: BookOpen, href: '/bible' },
-      {
-        key: 'rosary',
-        title: localizeContent(getEntry('practice/rosary')?.name ?? {}),
-        icon: Sparkle,
-        href: { pathname: '/pray/[practiceId]', params: { practiceId: 'rosary' } },
-      },
-    ],
-    [catalogVersion, t],
-  )
-
   // Memoized and hidden rather than unmounted while a query is typed: each
   // keystroke re-renders this screen, and remounting the tiles when the query
   // is cleared took ~200ms.
-  const browse = useMemo(() => {
-    // Each tile keeps a stable hue keyed on its identity, not its position.
-    const withTones = (tiles: ShortcutTileData[]): ShortcutTileData[] =>
-      tiles.map((tile) => ({ ...tile, tone: toneForKey(tile.key) }))
-    return (
+  const browse = useMemo(
+    () => (
       <YStack gap="$xl" paddingTop="$sm" paddingBottom="$lg">
         {!inPageField && <PageHeader title={t('nav.searchPlaceholder')} />}
-        <YStack gap="$md">
-          <WideShortcutCard
-            title={t('massTimes.cardTitle')}
-            subtitle={t('massTimes.exploreTagline')}
-            icon={Church}
-            tone={toneForKey('mass-times')}
-            href="/mass-times"
-          />
-          <ShortcutGrid items={withTones(placeTiles)} columns={3} />
-        </YStack>
+        <Places />
         <Acervo />
         <RecentRow />
       </YStack>
-    )
-  }, [t, placeTiles])
+    ),
+    [t],
+  )
 
   return (
     <>
